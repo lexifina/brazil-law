@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se dehabeas corpus, substitutivo de recurso especial, com pedido liminar, impetrado em favor deLUIS CARLOS PEDROouLUIS CARDOSOPEDRO, contra v. acórdão proferido pelo eg.Tribunal de Justiça do Estado de São PaulonoAgravo em execução n.0011682-03.2020.8.26.0502.
+Depreende-se dos autos que o d. Juízo das Execuçõesdeferiuo pleito do paciente de remição de penas em razão da execução de estudo de leitura (fls. 39-40).
+Por sua vez, o Ministério Público Estadual interpôs agravo em execução perante o eg. Tribunal de origem, que deu provimento ao recurso, conforme v. acórdão de fls. 6-12 assim ementado:
+"AGRAVO EM EXECUÇÃO - Remição pela leitura - Recurso do Ministério Público - Impossibilidade, por falta de amparo legal e inexistência de efetivo controle sobre as atividades desenvolvidas - Recurso provido."
+No presentewrit, alega que"éconsolidado o entendimento de que a remição por leitura é uma dessas hipóteses que permitem a remição, muito embora não esteja expressamente prevista na LEP.Essa discussão, aliás, já está devidamente superada, sendo um ponto pacífico na jurisprudência, culminando, inclusive, com uma Recomendação do CNJ, de número 44, amplamente utilizada"(fl. 4).
+Requer, por fim, a concessão da ordem, inclusive liminarmente,"para determinara a concessão da remição pela leitura ao paciente"(fl. 5).
+O pedido liminar foi indeferido às fls. 45-46.
+Informações prestadas às fls. 51-53, 56-65 e 69-104.
+O Ministério Público Federal, às fls. 106-108, manifestou-se pelo não conhecimento do writ, mas pela concessão da ordem, de ofício, em parecer com a seguinte ementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. MODIFICAÇÃO DE ENTENDIMENTO JURISPRUDENCIAL. RESTRIÇÃO AO USO DO REMÉDIO CONSTITUCIONAL. REMIÇÃO DA PENA PELA LEITURA. RECOMENDAÇÃO N. 44/2013 DO CNJ. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM. POSSIBILIDADE. PRECEDENTE. PARECER PELO NÃO CONHECIMENTO DO WRIT, MAS PELA SUA CONCESSÃO, DE OFÍCIO, PARA QUE SEJA ANALISADO O APROVEITAMENTO DA RESENHA LITERÁRIA APRESENTADA PELO RÉU, PARA FINS DE CONCEDER A REMIÇÃO PELA LEITURA."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. No caso, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para a adequada delimitação da quaestio, transcrevo trecho do v. acórdão proferido pelo eg. Tribunal a quo, ora reprochado, verbis (fls. 8-12- grifei):
+"A remição, como é cediço, representa uma benesse que dá como cumprida parte da pena, por meio do trabalho ou do estudo do sentenciado.
+Diante da análise do conjunto fático-probatório delineado nos autos, tem-se que o agravado teria procedido a leituras das obras literárias O menino herói da guerra paulista, de Luiz Roberto Saviani Rey; O homem que sabia ouvir, de Aderval Borges; A luz da meia noite, de Vitória Zilda Sobral; e À sombra do cipreste, de Manlton Braff, elaborando as respectivas resenhas (fls. 11/32).
+Cinge-se a controvérsia, tão somente, acerca da possibilidade ou não da concessão de remição pela leitura.
+E, nesse particular, a Lei nº 12.433/2011, que alterou o artigo 126, dentre outros, da Lei de Execução Penal, não estabeleceu a possibilidade de remição apenas pela leitura.
+ ..
+Como se vê, referido dispositivo legal contém rol taxativo das atividades que propiciam a remição de pena, com requisitos expressamente delineados.
+Assim, não pode as pretensas leituras de obras literárias, diante da especificidade contida no inciso I do § 1º,do aludido artigo, serem equiparadas ao estudo e darem causa à remição.
+Não se desconhece, é bem verdade, que o hábito da leitura traz inúmeras benesses que, por certo, influenciam positivamente na paulatina e gradual reinserção do sentenciado ao meio social.
+Contudo, a falta de previsão legal não podeser suprida por Recomendação editada pelo Conselho Nacional de Justiça, por evidente afronta à tripartição dos poderes, e, menos ainda, por Portaria Conjunta nº 276/12 do DEPEN.
+De outra parte, não se teria como aquilatar, com a segurança mínima indispensável, se o sentenciado efetivamente procedeu às leituras das obras literárias e, além disso, se foi realmente o responsável pela elaboração da resenha, de modo a, hipoteticamente, fazer jus à remição.
+ ..
+Destarte, tanto por absoluta falta de amparo legal, como sustentado pelo Ministério Público, quanto por inexistircontrole efetivo sobre as atividades em tese desenvolvidas, o acolhimento da pretensão recursal é medida que se impõe.
+Ante o exposto, pelo meu voto, dou provimento ao agravo, a fim de cassar os 26 (vinte e seis) dias do tempo remido, decorrente das leituras de obras literárias, com a retificação do cálculo de penas."
+A respeito da remição pela leitura, a Recomendação n. 44/2013 do Conselho Nacional de Justiça, assim dispõe, in verbis:
+" ..  Art. 1º Recomendar aos Tribunais que:
+ ..
+V - estimular, no âmbito das unidades prisionais estaduais e federais, como forma de atividade complementar, a remição pela leitura, notadamente para apenados aos quais não sejam assegurados os direitos ao trabalho, educação e qualificação profissional, nos termos da Lei n. 7.210/84 (LEP - arts. 17, 28, 31, 36 e 41, incisos II, VI e VII), observando-se os seguintes aspectos:
+ ..
+e) procurar estabelecer, como critério objetivo, que o preso terá o prazo de 21 (vinte e um) a 30 (trinta) dias para a leitura da obra, apresentando ao final do período resenha a respeito do assunto, possibilitando, segundo critério legal de avaliação, a remição de 4 (quatro) dias de sua pena e ao final de até 12 (doze) obras efetivamente lidas e avaliadas, a possibilidade de remir 48 (quarenta e oito) dias, no prazo de 12 (doze) meses, de acordo com a capacidade gerencial da unidade prisional;
+f) assegurar que a comissão organizadora do projeto analise, em prazo razoável, os trabalhos produzidos, observando aspectos relacionados à compreensão e compatibilidade do texto com o livro trabalhado. O resultado da avaliação deverá ser enviado, por ofício, ao Juiz de Execução Penal competente, a fim de que este decida sobre o aproveitamento da leitura realizada, contabilizando-se 4 (quatro) dias de remição de pena para os que alcançarem os objetivos propostos;
+ ..
+h) a remição deverá ser aferida e declarada pelo juízo da execução penal competente, ouvidos o Ministério Público e a defesa;  .. " (grifei).
+Sobre o tema, a jurisprudência deste Superior Tribunal de Justiça tem admitido que o art. 126 da Lei de Execução Penal, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento em razão de atividades que não estejam expressas no texto legal, como no caso, a leitura e resenha de livros, nos termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+Nesse sentido, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. REMIÇÃO PELA LEITURA. POSSIBILIDADE. ACÓRDÃO DO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A ORIENTAÇÃO JURISPRUDENCIAL DESTA CORTE SUPERIOR. MANUTENÇÃO DA DECISÃO AGRAVADA. INSURGÊNCIA DESPROVIDA.
+1. Hipótese em que o reeducando teve remidos quatro dias de sua reprimenda privativa de liberdade pela leitura, nos termos da Recomendação n.º 44/2013, do Conselho Nacional de Justiça.
+2. Esta Corte Superior de Justiça firmou entendimento no sentido de ser viável a concessão da remissão por atividades não expressas na lei, diante de uma interpretação extensiva in bonam partem do artigo 126 da Lei de Execução Penal.
+3. Agravo regimental a que se nega provimento" (AgRg no AREsp 696.637/SP, Quinta Turma, Rel. Min. Jorge Mussi, DJe 4/3/2016).
+"HABEAS CORPUS SUBSTITUTIVO. EXECUÇÃO PENAL. (1) REMIÇÃO DA PENA PELA LEITURA. ART. 126 DA LEI DE EXECUÇÃO PENAL. TELEOLOGIA. INTERPRETAÇÃO EXTENSIVA IN BONAM PARTEM. PRECEDENTES. (2) WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. A finalidade do instituto da remição, ao abreviar a pena, é incentivar o bom comportamento do sentenciado e sua readaptação ao convívio social e, portanto, o art. 126 da LEP admite interpretação extensiva in bonam partem, permitindo-se a remição pela leitura.
+2. Writ não conhecido. Ordem expedida de ofício, para restabelecer a decisão do juízo singular (execução n.º 815/14)" (HC n. 326.499/SP, Sexta Turma, Relª. Minª. Maria Thereza de Assis Moura, DJe 7/8/2015).
+"HABEAS CORPUS SUBSTITUTIVO. FALTA DE CABIMENTO. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA LEITURA. ART. 126 DA LEP. PORTARIA CONJUNTA N. 276/2012, DO DEPEN/MJ E DO CJF. RECOMENDAÇÃO N. 44/2013 DO CNJ.
+ ..
+2. A norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento, em razão de atividades que não estejam expressas no texto legal (REsp n. 744.032/SP, Ministro Felix Fischer, Quinta Turma, DJe 5/6/2006).
+3. O estudo está estreitamente ligado à leitura e à produção de textos, atividades que exigem dos indivíduos a participação efetiva enquanto sujeitos ativos desse processo, levando-os à construção do conhecimento. A leitura em si tem função de propiciar a cultura e possui caráter ressocializador, até mesmo por contribuir na restauração da autoestima. Além disso, a leitura diminui consideravelmente a ociosidade dos presos e reduz a reincidência criminal.
+4. Sendo um dos objetivos da Lei de Execução Penal, ao instituir a remição, incentivar o bom comportamento do sentenciado e sua readaptação ao convívio social, a interpretação extensiva do mencionado dispositivo impõe-se no presente caso, o que revela, inclusive, a crença do Poder Judiciário na leitura como método factível para o alcance da harmônica reintegração à vida em sociedade.
+5. Com olhos postos nesse entendimento, foram editadas a Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como a Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+6. Writ não conhecido. Ordem expedida de ofício, para restabelecer a decisão do Juízo da execução que remiu 4 dias de pena do paciente, conforme os termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça" (HC 312.486/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 22/6/2015).
+Ademais, importa registrar que, mesmo que o estabelecimento penal assegure acesso a atividades laborais e à educação formal, não há o impedimento de que se obtenha também a remição pela leitura, que é atividade complementar, mas não subsidiária, podendo ocorrer concomitantemente.
+Sobre o tema:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA LEITURA. POSSIBILIDADE. PRECEDENTES. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+- O Superior Tribunal de Justiça possui entendimento de que é compatível com o art. 126 da Lei de Execução Penal - LEP a remissão pela leitura. - A Recomendação n. 44/13 do Conselho Nacional de Justiça não determina a subsidiariedade da remissão por leitura em relação às demais formas de obtenção do benefício, como o estudo e o trabalho.
+- Hipótese em que o paciente está internado em estabelecimento em que é possível a remição pelo trabalho, contudo não fica impedida a remição por leitura, desde que o projeto esteja devidamente instalado e sejam preenchidos os demais requisitos previstos na Recomendação n. 44/13 do Conselho Nacional de Justiça.
+Habeas corpus não conhecido. Ordem concedida de ofício, para restabelecer a decisão do juízo singular" (HC 317.679/SP, Sexta Turma, Rel. Min. Ericson Maranho - Desembargador convocado do TJ/SP, DJe de 2/2/2016).
+No mesmo sentido, as horas dedicadas à leitura e resenha de livros, como forma da remição pelo estudo, são perfeitamente compatíveis com a participação em atividades laborativas fornecidas pelo estabelecimento penal, nos termos do art. 126, § 3º, da Lei de Execução Penal.
+A voluntariedade na participação no projeto de remição pela leitura a que se refere a Recomendação n. 44/2013 do CNJ é apenas a adesão espontânea que se exige para toda atividade não imposta por lei.
+Nos termos da referida Recomendação, verifica-se que a comissão deverá apresentar análise da resenha apresentada pelo reeducando, observando "os aspectos relacionados à compreensão e compatibilidade do texto com o livro trabalhado" e, posteriormente, encaminhar ao Juízo da Execução competente para aferir e declarar a remição.
+Desta forma, verifica-se que o v. acórdão combatido diverge da jurisprudência desta Corte Superior de Justiça, restando configurada a ilegalidade apontada.
+Ante o exposto, não conheço do presente habeas corpus.
+Contudo, concedo a ordem, de ofício, para restabelecer a r. decisão do d. Juízo das execuções que deferiu a remição pela leitura das obras literárias.
+P. I.
