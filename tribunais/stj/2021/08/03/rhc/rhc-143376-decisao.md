@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido de liminar interposto por EVANDRO ALCANTARA FAUSTINO contra acórdão do Tribunal de Justiça do Estado de Alagoas(HC n. 0807383-67.2020.8.02.0000).
+O recorrente teve a prisão em flagrante convertida em preventivae foi denunciado pelaprática do delito descrito no art. 121,§ 2º,II e IV, do Código Penal.
+O decreto prisional fundou-se na gravidade concreta das circunstâncias do delito -prática dehomicídio qualificadomediante disparos de arma de fogo, em razão dea vítima estar cometendocrimes na região. Ressaltou-se que a prática de vingança privada representa risco à ordem pública. Também se destacou que o recorrente integra facçãocriminosa.
+Impetradowrit na origem, a ordem foi denegada.
+O recorrente alega que está sendo vítima de constrangimento ilegalemdecorrênciado excesso de prazoe da ofensa aos princípios do estado de inocência e da duração razoável do processo. Afirma que está em segregação cautelar há2 anos e 4 meses, sem que tenha sido julgado no primeiro grau da jurisdição.
+Afirma que a decretação da prisão preventiva é desproporcional,considerando-a mais gravosa, de caráter excepcional, e incabível no presente caso, em que estão preenchidos os requisitos para a substituição da pena por medidas cautelares alternativas.
+Discorre sobre a Recomendação CNJ n. 62/2020 e sustenta que está sujeito à contaminação por covid-19.
+Requer, liminarmente e no mérito, aexpedição de alvará de soltura em seu favor.
+A liminar foi indeferida às fls. 681-682.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 709-716).
+É o relatório. Decido.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 641-642):
+ ..  15  Na realidade, em sentido contrário aos argumentos defensivos, o trâmite da instrução criminal segue de forma regular e não excede ao razoável, considerando as nuances do caso concreto, bem como a necessidade de cautelas no intuito de evitar o contágio pelo novo COVID-19.
+16  Não se trata, como se percebe, de mero cálculo matemático, mas sim da averiguação se o caso demandou uma complexidade maior, se os autos se encontravam paralisados por mora do próprio judiciário, ou se sofrera dilação por conta da grande quantidade de incidentes e intervenções. Tais aspectos tem o condão de distinguir a mera irregularidade do verdadeiro constrangimento ilegal.
+ ..
+Ressalte-se ainda que, de acordo com as informações prestadas pelo Juízo de primeiro grau (fls. 687-704), sobreveio decisão de pronúncia no dia 5/2/2021. Confira-se (fl. 687):
+ ..  Em que pese a alegação de excesso de prazo na medida cautelar ou na duração do processo, feita por parte do recorrente, nota-se que o processo em tela teve, até aqui, seuregular trâmite e, em análise minuciosa dos autos, verifica-se que não há requerimentos de diligências excessivas e imoderadas por parte do Ministério Público; não há inércia indevida por parte deste Juízo; ademais, a primeira fase processual foi encerrada em tempo razoável, tendo sido proferida decisão de pronúncia em 05.02.2021.
+ ..
+Oentendimentoacima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, orecorrente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus. Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Registre-se que está justificada a manutenção da prisão preventiva, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 641):
+ ..  Por outro lado, observo a necessidade da segregação, vez que necessária para a garantia da ordem pública, mormente considerando a gravidade concreta do crime, o modos operandi e o suposto envolvimento do paciente com facção criminosa, além da tentativa de sair impune, voltando ao local do crime para averiguar se havia câmera de segurança em um prédio próximo (v. decisões de fls. 475/479, 542/545 e 601/603).  ..
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Por fim, o suposto envolvimento do agente com organização criminosa revela sua periculosidade, o que justifica a prisão preventiva como forma de garantir a ordem pública (AgRg no RHC n. 128.253/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020; e AgRg no RHC n. 127.592/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 17/9/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
