@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido de arbitramento de honorários realizado pelo requerente(fls. 114/116), advogado dativo nomeado nos autos, fundamentado em convênio firmado entre a Defensoria Público de São Paulo e a OAB.
+O arbitramento dehonoráriosao defensordativoé de responsabilidade do Estado, nos termos do art. 22, § 1º, da Lei 8.906/1994, motivo pelo qual devem ser pleiteados na origem. No mesmo sentido:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. DEFENSOR DATIVO. PEDIDO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. RECURSO DESPROVIDO.
+1. A jurisprudência desta Corte firmou-se no sentido de que o habeas corpus constitui rito inadequado para discutir o arbitramento de honorários advocatícios para o defensor dativo, porquanto tal matéria não se encontra na esfera de ofensa ou ameaça a direito de locomoção. Ademais, "quando não resulta da própria discussão da causa, isto é, do ato jurisdicional decorrente da competência desta Corte, mas sim de feito incidental em ação penal em curso perante o primeiro grau de jurisdição, a decisão de estabelecimento de honorários advocatícios deve caber a quem tem vinculação com o Poder de designação e liberação orçamentária dos valores arbitrados, porquanto não é possível ao Superior Tribunal de Justiça impor despesa a qualquer ente da federação" (EDcl no RHC 88.880/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 2/8/2018).
+2. Agravo regimental desprovido. (AgRg nos EDcl no RHC 131.319/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/04/2021, DJe 13/04/2021)
+PETIÇÃO EMHABEAS CORPUS.PEDIDO RECEBIDO COMO EMBARGOS DE DECLARAÇÃO. PLEITO DE FIXAÇÃO DOSHONORÁRIOSADVOCATÍCIOS. OMISSÃO RECONHECIDA. NÃO CABIMENTO DO PEDIDO. ACOLHIMENTO SEM EFEITOS INFRINGENTES.
+1. Omissão do julgado quanto ao pleito de fixação doshonoráriosadvocatícios ao defensordativoreconhecida.
+2. Não cabimento do pedido, pois, quando não resulta da própria discussão da causa, isto é, do ato jurisdicional decorrente da competência desta Corte, mas sim de feito incidental em ação penal em curso perante o primeiro grau de jurisdição, a decisão de estabelecimento dehonoráriosadvocatícios deve caber a quem tem vinculação com o Poder de designação e liberação orçamentária dos valores arbitrados, porquanto não é possível ao Superior Tribunal de Justiça impor despesa a qualquer ente da federação (EDcl no RHC 88.880/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 2/8/2018).
+3. Petição recebida como embargos de declaração. Embargos de declaração acolhidos apenas para sanar a omissão apontada, mas sem efeitos modificativos. (PET no HC 489.100/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/05/2019, DJe 28/05/2019.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. DEFENSORDATIVO.NÃO COMPROVAÇÃO. PRETENSÃO ABSOLUTÓRIA.
+SÚMULA 7 DO STJ.HONORÁRIOSADVOCATÍCIOS. AUSÊNCIA DE CONTRADIÇÃO E OMISSÃO. EMBARGOS REJEITADOS.
+ ..
+4. A respeito do pedido de fixação doshonoráriosadvocatícios, cumpre registrar que se trata de responsabilidade do Estado, devendo ser formulado na origem, nos termos do art. 22, § 1º, da Lei n. 8.906/1994 (cf. AgRg nos EDcl no REsp n. 1.709.168/SC, Quinta Turma, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 29/6/2018).
+5. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp 1509386/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/10/2019, DJe 15/10/2019.)
+Ante o exposto, indefiro o pedido.
+Publique-se.
+Intimem-se.
