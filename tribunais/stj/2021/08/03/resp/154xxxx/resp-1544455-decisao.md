@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recuso especial interposto contra acórdão proferido pelo TRF da 4ª Região, assim ementado (e-STJ fl. 347):
+ADMINISTRATIVO. SERVIDOR PÚBLICO. CONCURSO DE REMOÇÃO. INOBSERVÂNCIA DE CONDIÇÃO ESTABELECIDA NO CONCURSO PÚBLICO DE INGRESSO. ART. 36, INC. II, DA LEI Nº 8.112/90. ATO DISCRICIONÁRIO. PRINCÍPIO DA LEGALIDADE.
+Alega a parte recorrente, além de dissídio jurisprudencial, violação do art. 36, III, da Lei n 8.112/1990.
+Contrarrazões à e-STJ fls. 435/439.
+Passo a decidir.
+Entendo que o recurso não deve ser conhecido, pois o recorrente não impugnou todos os fundamentos do acórdão recorrido.
+O decisum impugnado alicerçou sua fundamentação da seguinte maneira:
+Não há, in casu, quebra do princípio da isonomia, porquanto tal exceção está prevista para alcançar quaisquer servidores, seja do concurso regional, seja do concurso nacional, que não tenham o tempo mínimo exigido, embora já tenha decorrido o tempo mínimo necessário aos servidores do concurso nacional.
+Frisa-se, que os servidores de um e outro concurso não se encontram em situações semelhantes, tanto que a pontuação atribuída aos candidatos do concurso regional é diversa, pois leva em conta, segundo o próprio autor, "as lotações de difícil provimento" (Evento 1,11.04) e o próprio interesse da Administração, "visando a (sic) manter o equilíbrio de seu efetivo nas diferentes regiões do país, segundo esclarecido pela ré (Evento 9, Petl).
+Não vejo óbice, pois, que Administração, quer por conveniência ou oportunidade, quer para suprir a finalidade do serviço público, estabeleça critérios diferenciados para o recrutamento dos servidores.
+ ..
+É perfeitamente lícito, portanto, que a Administração, ao regulamentar o provimento de cargos Delegado de Polícia Federal, Perito Criminal Federal, Agente de Polícia Federal e de Escrivão de Polícia Federal, no exercício legítimo de suas prerrogativas, o tenha feito mediante a distinção entre cargos para o Concurso Nacional (Edital n.º 24/2004, de 15 de julho de 2004) e cargos para o Concurso Regional (Edital nº 25/2004, de 15 de julho de 2004) e que tal critério também possa embasar a expedição da Portaria e 685/2010- DG/DPF, de 12 de fevereiro de 2010, sem que o mesmo, ou outro qualquer, esteja, a priori, eivado por algum vício que o torne ilegal, como crê a parte autora.
+Cumpre registrar que está no âmbito da discricionariedade da Administração, atendido o interesse público no preenchimento dos claros de lotação, nos termos do art. 36, II, da Lei nº 8.112/90, permitir a participação, em concursos de remoções e de recrutamentos, de servidores que não tenham completado o tempo mínimo de lotação inicial previsto em edital de concurso público, a critério da Administração.
+A intervenção do Poder Judiciário nos atos administrativos está limitada à apreciação da legalidade, quando se trata de atos discricionários, os quais se pautam pela conveniência e oportunidade. No caso, tenho que não foram violados quaisquer dos princípios mencionados pelo recorrente, nada havendo que alterar na sentença.
+No recurso especial, por sua vez, a recorrente basicamente repetiu os fundamentos que havia deduzido na inicial. Nada falou, pois, a respeito da detalhada fundamentação a respeito das peculiaridades que apresentavam o caso concreto.
+Com efeito, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Igualmente aplicável o teor da Súmula 284 do STF, a qual disciplina: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ainda que assim não fosse, para julgar de maneira diversa daCorte Regional, seria necessário rever todo o contexto fático-probatório que levou o juízo originário a entender pela legalidade dos critérios escolhidos pela Administração na entabulação dos editais acima citados. Assim, aplicável, no particular, a Súmula 7 desta Corte.
+Ante o exposto, NÃO CONHEÇO do apelo especial.
+Publique-se. Intimem-se.
