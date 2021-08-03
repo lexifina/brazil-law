@@ -1,0 +1,8 @@
+DECISÃO
+MICHAEL PIERRE DE SOUZA CINTRA e VIVIANE BOFFI EMÍLIO agravam de decisão na qual a Presidência desta Corte Superior não conheceu do agravo em recurso especial, ante a incidência da Súmula n. 182 do STJ ao caso.
+A defesa aviou recurso especial, fundado no art. 105, III, "a", da Constituição Federal, ao alegar a violação dos arts. 10, 492, do Código de Processo Civil, 381, III, do Código de Processo Penal e 59 do Código Penal. Aduziu que a exasperação da pena-base pelas consequências do delito violou o princípio do ne reformatio in pejus e configurou julgamento extra petita.
+O recurso não foi admitido na origem pela arguição pelo óbice da Súmulas n. 7 do STJ, o que ensejou a interposição de agravo no qual a parte infirmou a aplicação do enunciado sumular à espécie.
+A Presidência do STJ não conheceu do agravo por considerar que o agravante deixou de impugnar especificamente o referido fundamento. Neste regimental, a defesa afirma que rebateu a caracterização do óbice e pleiteia a reforma do decisum agravado.
+Todavia, em consulta ao sítio eletrônico do Superior Tribunal de Justiça, verifico que o pleito deduzido na petição do recurso especial inadmitido confunde-se com o mérito do HC n. 578.020/SP, cuja ordem foi por mim parcialmente concedida para reduzir a pena-base dos réus e fixar a reprimenda definitiva em 5 anos de reclusão e 50 dias-multa. Desse modo, é forçoso reconhecer a prejudicialidade do recurso, devido à superveniente perda de seu objeto.
+À vista do exposto, julgo prejudicado este agravo em recurso especial e o respectivo agravo regimental, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
