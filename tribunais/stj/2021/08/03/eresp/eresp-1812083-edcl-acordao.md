@@ -1,0 +1,42 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. AFASTAMENTO. OBSCURIDADE. OCORRÊNCIA.
+1. Os embargos de declaração são cabíveis para suprir obscuridade do acórdão.
+2. No caso concreto, os aclaratórios merecem acolhimento para, afastando a obscuridade apontada, alterar o dispositivo do acórdão combatido.
+3 Embargos de declaração parcialmente acolhidos para suprir a obscuridade apontada.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Terceira Turma, por unanimidade, acolher em parte os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a) Relator(a). Os Srs. Ministros Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi e Paulo de Tarso Sanseverino (Presidente) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Trata-se de embargos de declaração opostos por JOSSIVAL DE SOUZA FERREIRA ao acórdão que deu provimento ao recurso especial interposto por BANCO DO BRASIL S.A. para rescindir o acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão nos autos da Apelação Cível nº 29.961/2010 e restabelecer a sentença de primeiro grau.
+Nas presentes razões, o embargante alega que o acórdão combatido foi omisso, pois:
+(i) "(..) não só deixou de se manifestar sobre a aplicação da Súmula 07 do STJ, mas ainda realizou profundo reexame fático-probatório, o que é inaceitável pela via do recurso especial" (fl. 1.828, e-STJ);
+(ii) "(..) olvidou-se de que a "ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em qualquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial a respeito dele (art. 966, § 1º, do CPC/2015"" (fl. 1.831, e-STJ), e
+(iii) "(..) o acórdão embargado, ao anular o acórdão a quo, deixou de observar que o Tribunal local possui a incumbência de realizar novo julgamento (iudicium rescissorium), tendo em vista possuir competência para tanto" (fl. 1.838, e-STJ).
+Sustenta que
+"(..) há perfeita contradição interna no acórdão embargado quando menciona que a Corte local esclareceu a controvérsia de forma de forma coerente, motivada e suficiente, especialmente referente à omissão quanto aos documentos acostados aos autos originários se, ao mesmo tempo, aduz que o acórdão recorrido não observou a existência de documentos que poderiam fornecer elementos capazes de liquidar o montante devido" (fl. 1.842, e-STJ).
+Aponta, também, obscuridade no acórdão embargado, visto que, "ainda que se admita a possibilidade de a prova pericial estar viciada, a hipótese seria de anulação de todo o processo e a realização de nova prova técnica, a fim de se verificar a procedência (ou não) das alegações contidas na petição inicial" (fl. 1.839, e-STJ).
+Impugnação às fls. 1.850/1.862 (e-STJ).
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. CONTRADIÇÃO. AFASTAMENTO. OBSCURIDADE. OCORRÊNCIA.
+1. Os embargos de declaração são cabíveis para suprir obscuridade do acórdão.
+2. No caso concreto, os aclaratórios merecem acolhimento para, afastando a obscuridade apontada, alterar o dispositivo do acórdão combatido.
+3 Embargos de declaração parcialmente acolhidos para suprir a obscuridade apontada.
+VOTO
+O EXMO. SR. MINISTRO RICARDO VILLAS BÔAS CUEVA (Relator): Os embargos de declaração merecem parcial acolhimento para suprir a obscuridade apontada.
+De início, verifica-se que a alegação de que o acórdão teria deixado de aplicar a Súmula nº 7/STJ ao caso concreto não revela nenhuma omissão no julgado atacado, mas apenas evidencia a insatisfação da parte com o julgamento realizado.
+De fato, a afirmação de que o acórdão teria realizado "profundo reexame fático-probatório, o que é inaceitável pela via do recurso especial" (fl. 1.828, e-STJ) não evidencia nenhum vício na decisão embargada, apenas denota o patente intuito infringente da pretensão deduzida, o que, como sabido, é manifestamente incompatível com a via integrativa.
+O mesmo se pode asseverar da alegação de que, na hipótese vertente, teria havido pronunciamento prévio no âmbito da decisão rescindenda acerca do erro de fato que ensejou o provimento da ação rescisória, o que afastaria o cabimento da ação rescisória.
+Com efeito, além de não evidenciar propriamente omissão da decisão embargada, a assertiva, mais uma vez, denuncia o caráter modificativo do recurso interposto.
+De igual modo, não constitui omissão o fato de o acórdão ter determinado o restabelecimento da sentença de mérito em vez de determinar um novo julgamento pelo Tribunal local. Logo, nesse ponto, tampouco se vislumbra o vício apontado.
+Em relação à contradição ventilada, o embargante defende que seriam inconciliáveis as proposições apresentadas no acórdão embargado, pois, ao mesmo tempo em que afastou a alegação de negativa de prestação jurisdicional por parte do Tribunal de origem, em especial no tocante à suposta omissão acerca do exame das provas, a decisão impugnada teria concluído que o acórdão recorrido não teria observado que já se encontravam presentes, nos próprios autos, os documentos que poderiam fornecer os elementos capazes de liquidar o montante realmente devido.
+O silogismo, todavia, é evidentemente impróprio e não conduz ao reconhecimento de nenhuma contradição.
+Afirmou-se que não teria havido omissão no acórdão recorrido porque o Tribunal estadual, ainda que não tivesse percebido "a presença nos autos dos documentos que poderiam fornecer os elementos necessários para a liquidação do montante realmente devido" (fl. 1.842, e-STJ), pronunciou-se, de forma motivada e suficiente, acerca daquilo que lhe teria sido devolvido nos declaratórios opostos na origem, ou seja, sobre a incapacidade técnica e a inidoneidade do perito, o ônus quanto ao pagamento da perícia e a ocorrência ou não do erro de fato e da violação literal da lei alegados.
+Nesse contexto, o que se admitiu é que, apesar de não ter reconhecido a presença das hipóteses de cabimento da ação rescisória no caso concreto, a Corte local se manifestou de forma adequada e suficiente a respeito dos temas devolvidos nos aclaratórios, o que, consequentemente, afastou a alegação de negativa de prestação jurisdicional.
+Por outro lado, o Superior Tribunal de Justiça, observando a percepção equivocada da Corte de origem a respeito da prova produzida nos autos, reconheceu o erro de fato alegado e, portanto, a hipótese de cabimento prevista no art. 485, IX, do Código de Processo Civil de 1973 (correspondente ao art. 966, VIII, do Código de Processo Civil de 2015), de modo a rescindir o acórdão proferido nos autos da Apelação Cível nº 29.961/2010.
+Dessa maneira, também não se vislumbra a contradição apontada.
+No tocante à obscuridade cogitada, no entanto, o recurso merece acolhimento.
+Com efeito, embora tenha reconhecido o erro de fato alegado pelo embargado e dado provimento ao pedido rescisório (iudicium rescindens), ao determinar o restabelecimento da sentença de primeiro grau, o acórdão combatido acabou por não considerar o segundo pedido formulado na inicial, no sentido de que, além de rescindir o acórdão, deveria determinar "que seja prolatada nova decisão" - fl. 66, e-STJ - (iudicium rescissorium).
+Isso porque esta Corte Superior já decidiu que "deve haver uma correlação necessária entre o motivo da desconstituição da sentença, em iudicium rescindens, e o rejulgamento da causa, em iudicium rescissorium" (REsp nº 960.868/SC, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 26/2/2008, DJe 13/3/2008).
+No caso, o motivo que ensejou a desconstituição do aresto rescindendo foi a percepção equivocada, pelo Tribunal maranhense, a respeito da prova produzida. Assim, em atenção aos pedidos formulados, o pleito rescisório deve ser julgado procedente e o processo deve retornar à origem a fim de que o Tribunal estadual possa proferir nova decisão, inclusive, se julgar necessário, determinando a produção da prova pericial requerida pelas partes.
+Ante o exposto, acolho parcialmente os presentes embargos de declaração para, afastando a obscuridade apontada, alterar o dispositivo do acórdão embargado a fim de conhecer parcialmente e, na parte conhecida, dar provimento ao recurso especial para rescindir o acórdão proferido pelo TJMA nos autos da Apelação Cível nº 29.961/2010 e determinar o retorno dos autos ao Tribunal de origem para que se proceda a um novo julgamento.
+É o voto.
