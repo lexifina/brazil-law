@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por JULIANO DA SILVA OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado do Mato Grosso.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática dos delitos tipificados no art. 33, caput,da Lei nº 11.343/06e no art. 12 da Lei 10.826/03.
+Neste recurso, a defesa sustenta ausência de fundamento idôneo para a prisão cautelar, uma vez que a quantidade de droga não representa, por si só, elemento que indique a periculosidade do recorrente.
+Argumenta, ainda, queas circunstâncias do ilícito ainda são indiciárias, não se podendo concluir que o suplicante teve maior ou menor audácia na empreitada delitiva.
+Destaca que o recorrente é primário, possui bons antecedentes, reside em endereço fixo e que os delitos a ele imputados são cometidos sem violência ou grave ameaça.
+Aponta a suficiência de medidas cautelares diversas da prisão para o caso.
+Pleiteia a revogação da prisão preventiva com ou sem aimposição das medidas cautelares diversas previstas no artigo 319 do CPP.
+O pedido liminar foi indeferido (e-STJ, fls. 434-435).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (e-STJ, fls. 438-440).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+O Tribunal de origem não concedeu a ordem sob os seguintes fundamentos:
+No presente habeas corpus, o impetrante requer a revogação da prisão preventiva do paciente, por ausência dos seus requisitos e especialmente porque a magistrada de primeiro grau não considerou os predicados do paciente, quais sejam, bons antecedentes, endereço certo no distrito da culpa, identidade conhecida e ocupação lícita.
+No entanto, verifico que os elementos de prova até agora coligidos informam a presença dos requisitos elencados nos arts. 312 e 313 do Código de Processo Penal, justificando, assim, a manutenção da prisão preventiva.
+O fumus comissi delicti está estampado na existência de provas da materialidade e nos indícios de autoria conforme narrado na inicial acusatória oferecida pelo Ministério Público, na qual denuncia o paciente como incurso nas sanções dos artigos 33, caput, e 40, inciso III, da Lei n.º 11.343/06 e artigo 12 da Lei nº 10.826/03, c/c art. 69 do Código Penal. O periculum libertatis igualmente se faz presente, porque é manifesta a gravidade concreta da conduta imputada ao paciente que foi flagrado trazendo consigo droga ilícita com o intuito de arremessar por cima do muro do estabelecimento prisional. Conforme consta da denúncia:
+ ..
+A prisão preventiva do paciente foi decretada com fundamento de garantia da ordem pública, especialmente em razão da significativa quantidade de droga apreendida com o paciente. Vejamos:
+"(..)Conforme já ressaltado na decisão anterior, entendo que a prisão cautelar do réu deve ser mantida, a fim de garantir a ordem pública, diante da gravidade concreta de sua conduta exteriorizada pela expressiva quantidade de entorpecentes apreendidos - 856,10 g (oitocentos e cinquenta e seis gramas) de maconha.
+Nesse trilhar é o posicionamento adotado pelo Eg. Tribunal de Justiça de Mato Grosso, inclusive, sedimentado através do Enunciado Orientativo 25, in verbis:
+25. A expressiva quantidade e/ou variedade de drogas ensejam garantia da ordem pública para decretação ou manutenção de prisão preventiva."
+Desta feita, em que pese o réu possua condições subjetivas favoráveis, esclareço que tais predicados não são suficientes para, isoladamente, conceder -lhe a liberdade almejada, porquanto, no presente caso, conforme já destacado acima, existem elementos que autorizam a manutenção da medida extrema. Por isso, também, destaco que não é cabível ao caso a aplicação de medidas cautelares alternativas à prisão. (..)" (sic) (destacamos).
+Assim, pelo exame perfunctório dos fundamentos atacados, verifica-se que a custódia antecipada está calcada em razões legítimas, haja vista que a prisão preventiva foi decretada considerando a gravidade em concreto da conduta praticada, bem como a existência de indícios suficientes de autoria e materialidade, restando ainda presentes os pressupostos e os motivos que justificaram a medida. Alegações de primariedade, bons antecedentes, residência fixa, trabalho lícito e demais situações abonatórias são insuficientes a ensejar a revogação da prisão preventiva, pois embora primário, o paciente demonstra periculosidade à sociedade, considerando a ousadia em arremessar a droga apreendida por cima do moro do estabelecimento prisional.
+Com efeito, cumpre destacar que as alegadas condições pessoais favoráveis do paciente não possuem o condão de, por si só, conduzi-lo à liberdade se os fundamentos da prisão são válidos e demonstram a necessidade de manutenção da prisão.
+ ..
+Assim, vislumbra-se que a restrição de sua liberdade é a única medida capaz de garantir a ordem pública, não havendo que se falar em fixação de medidas cautelares, nem mesmo aplicação do monitoramento eletrônico. (e-STJ, fls. 390-393)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, segundo se infere, a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o recorrente foi surpreendido na posse de 856,10 g de maconha.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com o agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..  2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..  Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO Documento: 110596149 Página 2 de 3 Superior Tribunal de Justiça PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais, consigne-se que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se
