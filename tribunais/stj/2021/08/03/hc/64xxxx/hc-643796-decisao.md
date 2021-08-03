@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em nome de Jose Carlos Alves Ramos, preso preventivamente desde 28/1/2020, pela prática, em tese, do crime de homicídio qualificado.
+Ataca-se o acórdão proferido pelo Tribunal de Justiça de Minas Gerais no HC n. 1.0000.20.598533-6/000 (fls. 11/16), que manteve a prisão preventiva do paciente nos Autos n. 0092474-68.2019 (fls. 192/195), da 1ª Vara Criminal da comarca de Teófilo Otoni/MG.
+Alega-se constrangimento ilegal consistente no excesso de prazo para a formação da culpa e requer-se o conhecimento e provimento do recurso, inclusive em caráter liminar, a fim de que o paciente seja posto em liberdade.
+Em 9/2/2021, foi indeferido o pedido liminar (fls. 285/287).
+Prestadas informações pelo Juízo de Direito da 1ª Vara Criminal da comarca de Teófilo Otoni/MG (fl. 290 e 312/313), o Ministério Público Federal opinou pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem (fls. 305/307):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NÃO CABIMENTO. HOMICÍDIO QUALIFICADO. EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. ALEGAÇÃO SUPERADA. PROLAÇÃO DE PRONÚNCIA. SÚMULA N.º 21/STJ. REVISÃO DA PRISÃO PREVENTIVA, NOS TERMOS DO ART. 316, PARÁGRAFO ÚNICO, DO CPP. DETERMINAÇÃO DE CUMPRIMENTO FEITA PELA CORTE ESTADUAL E PELO STJ. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. Parecer pelo não conhecimento do writ ou, se conhecido, pela denegação da ordem.
+É o relatório.
+Busca a impetração a revogação da prisão preventiva imposta ao paciente - por conveniência da instrução criminal e assegurar a aplicação da lei penal, pela prática, em tese, do crime de homicídio qualificado -, ao argumento de excesso de prazo para a formação da culpa.
+Inicialmente, registre-se que constitui entendimento consolidado do Superior Tribunal de Justiça - STJ que somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais (RHC n. 104.639/PI, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 3/12/2019).
+Ao que se tem, a Corte local manteve a segregação cautelar, afastando a alegação mandamental, nos seguintes termos (fls. 13/14):
+Quanto ao suposto excesso, alegado na peça de ingresso, saliento que tanto a doutrina como a jurisprudência vêm reconhecendo que a manutenção do réu em isolamento celular por tempo superior ao que a lei prevê, caracteriza constrangimento ilegal reparável pela via do habeas corpus.
+No entanto, entendo que os prazos estabelecidos para a formação da culpa não são absolutamente rígidos, sendo perfeitamente aceitável que haja uma dilação dos mesmos, ainda que não provocada pela defesa, se devidamente justificado. Há situações nas quais alguns entraves processuais ocorrem e, por respeito à garantia constitucional do contraditório, forçam o magistrado a dilatar o prazo de conclusão da formação da culpa.
+Nestes casos a superação do prazo, por si só, não leva imediata e automaticamente ao reconhecimento do constrangimento ilegal por excesso de prazo na formação da culpa, mas deve sempre ser analisada à luz do Princípio da Razoabilidade. Há que se examinar o andamento do feito, a regularidade, a razoabilidade da sequência dos atos processuais no tempo.
+Verifica-se, a partir do andamento processual do feito de nº 1.0686.19.009247-4/001, que foi proferida sentença de pronúncia, estando o processo pendente de julgamento do Recurso em Sentido Estrito.
+Assim, in casu, o paciente já fora pronunciado, não havendo que se falar, neste momento, na existência de constrangimento.
+Assim, incide sobre a espécie a Súmula nº 21 do Superior Tribunal de Justiça, coincidente com a Súmula nº 18 deste sodalício:  ..
+In casu, o paciente está preso desde 28/1/2020 (fl. 12).
+Então, razão não assiste à impetração, pois se trata de feito complexo - ação penal sujeita ao rito especial do Tribunal do Júri e paciente já pronunciado - e inexistência de culpa do Judiciário na eventual mora processual - pois, nos termos do acórdão ora hostilizado, não foi verificado excesso de prazo, apontado regular andamento do feito, a regularidade, a razoabilidade da sequência dos atos processuais no tempo. Verifica-se, a partir do andamento processual do feito de nº 1.0686.19.009247-4/001, que foi proferida sentença de pronúncia (fl. 14) -, porquanto o prazo de tramitação não traduz de plano violação dos princípios da razoabilidade e da proporcionalidade, balizas de aferição da razoável duração do processo.
+Outrossim, o Ministério Público Federal, em seu parecer (fls. 305/307), assentou que (fl. 306):
+Ademais, quanto ao excesso de prazo, o recorrente foi pronunciado em 13.10.2020, conforme consta da decisão de fls. 220-228, situação pontuada pelo Tribunal de origem, confira-se:  ..
+Incide, pois, a Súmula n.º 21/STJ, segundo a qual: "Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução".
+Conclui-se, então, que a impetração não evidenciou constrangimento ilegal na manutenção da prisão preventiva imposta ao paciente.
+Em razão disso, acolhendo o parecer ministerial, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E ASSEGURAR A APLICAÇÃO DA LEI PENAL. EXCESSO DE PRAZO. PACIENTE PRESO DESDE 28/1/2020. PRONÚNCIA. PRECEDENTES. LIMINAR INDEFERIDA. PARECER PELO NÃO CONHECIMENTO DA IMPETRAÇÃO OU, SE CONHECIDA, PELA DENEGAÇÃO DA ORDEM. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER ACOLHIDO.
+Ordem denegada.
