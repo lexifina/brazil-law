@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por Opus Construções e Incorporações S.A. contra decisão que não admitiu o processamento do apelo extremo.
+Infere-se dos autos que a Câmara de Uniformização do Tribunal de Justiça do Distrito Federal e dos Territórios negou provimento ao recurso interposto pela ora insurgente, conforme ementa abaixo colacionada (e-STJ, fls. 588-589):
+PROCESSO CIVIL. AGRAVO INTERNO EM RECLAMAÇÃO. CABIMENTO. REQUISITOS. AUSÊNCIA. RECURSO REPETITIVO. situação jurídica diversa. SUCEDÂNEO RECURSAL. INADMISSIBILIDADE. CPC E RITJDFT. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA.
+1. Nos termos do artigo 988 do CPC, caberá reclamação da parte interessada ou do Ministério Público para: a) preservar a competência do tribunal; b) garantir a autoridade das decisões do tribunal; c) garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade e d) garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência. Não se adequando a nenhuma das hipóteses previstas no referido dispositivo, tampouco no artigo 196 do RITJDFT, a reclamação não deve ser admitida.
+2. Para que a insurgência possa ser deduzida na via estreita da reclamação, a situação jurídica do acórdão reclamado há de se amoldar perfeitamente à tese firmada pelo STJ no julgamento do recurso repetitivo invocado, de forma a evidenciar com clareza e objetividade a violação da autoridade do precedente qualificado.
+3. A interpretação de tese firmada em recurso repetitivo, conferindo-lhe elastério que escapa à delimitação do respectivo julgado, não autoriza o manejo de Reclamação, sob pena de desvirtuar esse instrumento, que não pode ser utilizado como sucedâneo de recurso.
+4. Se os argumentos deduzidos no agravo interno não se mostram suficientes para modificar os fundamentos externados na decisão guerreada, deve esta subsistir.
+5. Inaplicável a multa pela litigância de má-fé quando ausente prova cabal do dolo, bem como a inexistência do caráter protelatório.
+6. Recurso não provido.
+Opostos embargos de declaração, estes foram rejeitados.
+Nas razões do apelo especial, a recorrente indicou divergência jurisprudencial e violação aos arts. 489, § 1º e seus incisos II, III e IV, 927, III, 1.022, I e II, e 1.040, II e III, do CPC/2015; e 406 do CC.
+Sustentou que, apesar de provocado, o Tribunal de origem não se manifestou acerca da tese firmada no Tema 176/STJ, em especial sobre o precedente apontado - AgInt no AREsp 585.475/AM, que seria idêntico ao caso em análise.
+Afirmou que os juros moratórios e a correção monetária dos valores apurados a título de lucros cessantes deveriam ser indexados pela taxa Selic, em consonância ao entendimento contido no Tema 176/STJ.
+Contrarrazões às fls. 673-676 (e-STJ).
+O processamento do apelo extremo não foi admitido pela Corte de origem, levando a insurgente a interpor o presente agravo, por meio do qual contesta a aplicação dos óbices apontados na decisão de admissibilidade.
+Brevemente relatado, decido.
+Não é possível conhecer do recurso especial interposto com base na divergência jurisprudencial, já que a recorrente não demonstrou o dissídio jurisprudencial nos moldes exigidos pelos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Com efeito, a demonstração da divergência não se perfaz pela simples transcrição ou cotejo de ementas, mas com o confronto entre trechos do acórdão recorrido e das decisões apontadas como divergentes, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, o que não foi feito na espécie.
+A título exemplificativo:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. POSSIBILIDADE. PRINCÍPIOS DA FUNGIBILIDADE E DA INSTRUMENTALIDADE DAS FORMAS. TEMPESTIVIDADE DO RECURSO ESPECIAL. VERIFICAÇÃO POR OUTROS MEIOS QUE NÃO O PROTOCOLO. AUSÊNCIA DA SIMILITUDE FÁTICO-JURÍDICA. COTEJO FEITO POR EMENTAS.
+(..)
+2. Não cabe ao julgador extrair das cópias dos paradigmas juntadas pela Embargada em qual momento estaria a falta de similitude, pois é a parte que deve, através do cotejo analítico fazer a devida comparação, que não se comprova pela mera citação de ementas.
+3. Embargos de declaração recebido como agravo regimental e improvido.
+(EDcl nos EREsp 660.805/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 20/06/2012, DJe 28/06/2012)
+Passa-se à análise do recurso interposto com fulcro na alíneaa do permissivo constitucional.
+De início, cumpre esclarecer, no tocante ao AgInt no AREsp 585.475/AM, que o Colegiado distrital não estava obrigado a analisá-lo, porquanto a reclamação - sucedâneo recursal do qual se utilizou a parte para provocar o TJDFT - é cabível apenas em situações específicas previstas no art. 988 do CPC/2015, não se encaixando a pretensão de exame do referido julgado em nenhuma das hipóteses que a admitem, considerando que o mencionado acórdão não foi proferido no julgamento de demanda repetitiva (inciso IV do artigo supracitado).
+No mais, é certo que, apesar de rejeitados os embargos de declaração, a matéria relativa ao Tema 176/STJ foi suficientemente enfrentada pela segunda instância, que sobre ela emitiu pronunciamento de forma fundamentada.
+Da leitura do aresto hostilizado, observa-se que o Tribunal de origem expôs adequadamente os motivos pelos quais entendeu pela não incidência à espécie de tese proferida em julgamento de recurso repetitivo, conforme se extrai do excerto abaixo transcrito (e-STJ, fl. 593):
+Insiste a agravante no argumento do desrespeito à tese firmada no REsp n" 1.111.117/PR (Tema 176), não sendo a hipótese de aplicação do índice Nacional de Preços ao Consumidor (INPC), mas da Taxa Referencial do Sistema Especial de Liquidação e Custódia (SELIC).
+Aduz o cabimento da Reclamação, apontando a divergência do acórdão da Segunda Turma Recursal com a jurisprudência do colendo STJ, consolidada em julgamento de recurso repetitivo.
+Sem razão, pois, consoante consignado na decisão agravada, "descabe invocar precedente do STJ, ainda que firmado sob a égide do art. 1.036 do CPC, quando a matéria controvertida não versa acerca da incidência de juros moratórios de tributos federais, como bem destacado no acórdão reclamado."
+Com efeito, o precedente invocado pela reclamante não se aplica ao caso concreto, sendo inequívoca a distinção entre as questões.
+O v. acórdão da egrégia Segunda Turma Recursal dos Juizados Especiais do Distrito Federal afirma que não foi aplicada a taxa SELIC como indexadora para a correção da condenação, haja vista que o INPC reflete melhor a desvalorização da moeda e, sobretudo, porque o Tema 176 determina que a SELIC incide como juros moratórios dos tributos federais.
+No caso, a condenação imposta à agravante diz respeito ao descumprimento da data aprazada para a entrega de imóvel em construção, ensejando a necessidade da reparação dos danos materiais consubstanciados na modalidade de lucros cessantes. Não se trata, a toda evidência, de tributo federal e, logo, claro o distinguishing apto a afastar a incidência do REsp n" 1.111.117/PR (Tema 176), julgado sob a sistemática dos recursos repetitivos.
+Dessa forma, impossível se reconhecer a negativa de prestação jurisdicional, não se podendo atribuir à decisão recorrida os vícios de que tratam os arts. 489 e 1.022 do CPC/2015 apenas porque a segunda instância resolveu a celeuma em sentido contrário ao postulado pela parte insurgente.
+Ilustrativamente:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. PEDIDO. RECONHECIMENTO NO ÂMBITO ADMINISTRATIVO. INTERESSE PROCESSUAL. PERDA SUPERVENIENTE. ACÓRDÃO RECORRIDO. QUESTÕES DECIDIDAS NÃO ATINGIDAS POR POSTERIOR JUÍZO DE CASSAÇÃO. PRECLUSÃO.
+1. Inexiste ofensa aos arts. 489, § 1º, e 1.022 do CPC/2015 quando o Tribunal de origem se manifesta de modo fundamentado acerca das questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, porquanto julgamento desfavorável ao interesse da parte não se confunde com negativa ou ausência de prestação jurisdicional.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1217467/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/04/2020, DJe 04/05/2020)
+Por fim, vale lembrar que a tese que foi firmada, por ocasião do julgamento do Tema 176/STJ, é a seguinte: "Tendo sido a sentença exequenda prolatada anteriormente à entrada em vigor do Novo Código Civil, fixado juros de 6% ao ano, correto o entendimento do Tribunal de origem ao determinar a incidência de juros de 6% ao ano até 11 de janeiro de 2003 e, a partir de então, da taxa a que alude o art. 406 do Novo CC, conclusão que não caracteriza qualquer violação à coisa julgada".
+Nesse contexto, extrai-se que o que se discutiu, na formação da tese acima, foise, com a entrada em vigor do CC/2002, a sentença prolatada na vigência do CC/1916, ao ser executada, obedeceria à legislação nova, no tocante aos juros de mora, e se tal providência implicaria em ofensa à coisa julgada - o que claramente não é a hipótese dos presentes autos.
+Assim, inviável a reforma do acórdão distritalpara reconhecer a inobservância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas, tendo em vista tratar-se de situação destoante do que foi decidido no Tema 176/STJ.
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, desprovê-lo.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO EM RECLAMAÇÃO. 1. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AUSÊNCIA/DEFICIÊNCIA DE COTEJO ANALÍTICO. 2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. 3. INOBSERVÂNCIA AO TEMA 176/STJ. NÃO OCORRÊNCIA.4. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DESPROVÊ-LO.
