@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por ÁSIA COMÉRCIO DE ALIMENTOS EIRELI e outro, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiram contra acórdão do Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 350):
+CIVIL. CONTRATOS BANCÁRIOS. EMBARGOS À EXECUÇÃO. CAPITALIZAÇÃO MENSAL DE JUROS. TABELA PRICE. TEMA247. HONORÁRIOS ADVOCATÍCIOS. VALOR. PRECEDENTES.
+A capitalização mensal dos juros é admitida, nos contratos firmados após a vigência da MP 1.963-17/2000, reeditada sob o n. 2.170/2001, desde que devidamente pactuada em contratos firmados após a entrada em vigor da respectiva norma.
+A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal (como no contrato em questão) é suficiente para permitir a cobrança da taxa efetiva anual contratada (Tema 247).
+A adoção do Sistema Francês de Amortização, conhecido como Tabela Price, não implica necessariamente capitalização indevida de juros, não havendo óbice à sua utilização quando expressamente pactuado. Honorários advocatícios fixados pelo juízo ao embargante em 10%sobre o proveito econômico obtido com a demanda, de acordo com o entendimento da Turma a casos deste tipo.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 401-426).
+No recurso especial, os recorrentes apontaram, além de divergência jurisprudencial, violação dos arts. 8ª, § 8º, 489, §1º, IV, e 1.022 do novo CPC.
+Esclareceram que se opuseram ao acórdão que, sem apreciar todas as questões suscitadas pela parte recorrente, mesmo após a apreciação dos embargos de declaração, fixou honorários advocatícios em valor irrisório.
+Arguiram omissão relacionada à tese de sucumbência irrisória, uma vez que a parcial procedência do processo cujo excesso de execução denunciado foi de R$ 326,95 (trezentos e vinte e seis reais e noventa e cinco centavos) resultou na fixação de honorários inferiores à quantia de R$ 30,00 (trinta reais).
+Frisaram que, em razão de ser o valor da causa e o proveito econômico obtidos irrisórios, o dispositivo legal aplicável à fixação de honorários advocatícios sucumbenciais seria o art. 85, § 8º, do CPC - estipulação por equidade. Pleitearam o conhecimento e provimento do recurso especial (e-STJ, fls. 435-443).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 461-467).
+Contraminuta não apresentada (e-STJ, fl. 470).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa ao art. 1.022 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+De forma plenamente justificada, a segunda instância firmou que a condenação nos honorários deveria ser em 10% (dez por cento) sobre o proveito econômico obtido com a demanda - excesso de execução acolhido pela sentença.
+Veja-se (e-STJ, fl. 376):
+Pedido de majoração da verba honorária
+No tocante aos honorários advocatícios, o artigo 85 do CPC estabelece que a verba deve ser arbitrada em quantum consentâneo com o trabalho desenvolvido pelo advogado e as peculiaridades do litígio, observado, ainda, o proveito econômico perseguido e efetivamente alcançado.
+No caso concreto, o julgador condenou à CEF ao pagamento de honorários de sucumbência ao advogado da parte embargante, os quais fixo(art. 85, § 2º, I, NCPC) em 10% sobre o montante do excesso de execução acolhido pela sentença (devidamente atualizado pelo INPC até a data do cálculo de liquidação), a ser apurado em liquidação de sentença.
+O percentual fixado pelo juízo encontra-se em conformidade ao entendimento desta Turma a casos desta espécie (AC nº 5008857-90.2018.4.04.7009, juntado aos autos em 18/07/2020; AC nº 5006883-40.2017.4.04.7207, juntado aos autos em 26/06/2019; etc), compatível com a natureza e a simplicidade da demanda - que transcorreu sem incidentes que exigissem diligências especiais por parte dos procuradores ou dilação probatória, tendo a lide durado menos de um ano entre ajuizamento da inicial e prolação da sentença. Rejeito portanto o apelo também aqui. Sucumbência recursal
+Em atenção ao disposto no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do banco em 1% sobre o valor fixado pelo juízo, observado todavia o benefício de AJG deferido.
+Como se extrai dos autos, o Tribunal de origem não vislumbrou motivos aptos a afastar a aplicação do teor do art. 85, § 2º, do novo CPC - estipulação da verba sobre o proveito econômico. Essa apreciação foi fundada na análise fática da causa, atraindo a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, na extensão conhecida, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em fa vor do advogado da parte ora recorrida em mais 1% (um por cento) sobre o valor fixado pelo juízo inicial, observada a gratuidade de justiça.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS. EXECUÇÃO. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO, SEM TAIS VÍCIOS. CONSIDERAÇÃO A RESPEITO DA DISTRIBUIÇÃO DOS HONORÁRIOS ADVOCATÍCIOS FUNDADA NA APRECIAÇÃO FÁTICA DA CAUSA.SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
