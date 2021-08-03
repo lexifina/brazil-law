@@ -1,0 +1,22 @@
+Habeas corpus. Crime de uso de documento falso. Dosimetria. Não se conhece, como regra, de habeas corpus manejado como sucedâneo de recurso ou revisão criminal. Não se conhece de habeas corpus empregado para o reexame dos pressupostos de admissibilidade de recurso inadmitido pelo Superior Tribunal de Justiça. Precedentes. Negativa de seguimento.
+    Vistos etc.
+    Trata-se de habeas corpus, com pedido de liminar, impetrado pela Defensoria Pública da União em favor de Darci Kunz, contra acórdão do Superior Tribunal de Justiça, que negou provimento ao agravo regimental no REsp 1.896.439/PR.
+    O Paciente foi condenado à pena de a 2 (dois) anos e 11(onze) meses de reclusão, em regime inicial semiaberto, pela prática do crime de uso de documento falso (art. 304 c/c o art. 297, caput, ambos do Código Penal). (evento 2, fls. 1-24).
+    Extraio do ato dito coator (evento 2, fls. 56-9):
+    “AGRAVO REGIMENTO NO RECURSO ESPECIAL. USO DE DOCUMENTO FALSO. DOSIMETRIA. PENA-BASE. DESPROPORCIONALIDADE. FALTA DE PREQUESTIONAMENTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. A tese de desproporcionalidade do aumento imposto à pena-base não foi apreciada pelo Tribunal a quo e ressente-se, portanto, do indispensável requisito do prequestionamento.
+    2. Agravo regimental não provido.”
+    No presente writ, a Defesa argumenta, em síntese, indevida exasperação da pena-base. Defende desproporcional o acréscimo de 1/3 (um terço) no quantum da pena, diante de uma única circunstância judicial desfavorável (maus antecedentes). Aponta inaplicável a súmula n° 282/STF ao REsp 1.896.439/PR, em trâmite no STJ, porquanto ‘o requisito do prequestionamento foi integralmente atendido com o debate da matéria na instância originária.’ Requer, em medida liminar e no mérito, o redimensionamento da pena.
+    É o relatório.
+    Decido.
+    A jurisprudência desta Corte é no sentido da inviabilidade, como regra, de utilização do writ como sucedâneo recursal ou revisão criminal (RHC 123.813/RJ, Rel. Min. Dias Toffoli, 1ª Turma, DJe 21.11.2014; HC 121.255/SP, Rel. Min. Luiz Fux, 1ª Turma, DJe 01.8.2014), com ressalva, nesta última hipótese, de serem os fatos incontroversos (HC 139.741/DF, Rel. Min. Dias Toffoli, 2ª Turma, j. 06.3.2018).
+    Por outro lado, compete constitucionalmente ao Superior Tribunal de Justiça o julgamento do recurso especial, cabendo-lhe, enquanto órgão ad quem, o segundo, e definitivo, juízo de admissibilidade positivo ou negativo deste recurso de fundamentação vinculada.
+    Nessa linha, o Supremo Tribunal Federal tem rejeitado submeter, a seu escrutínio, a decisão do Superior Tribunal de Justiça quanto à inadmissibilidade do recurso especial.
+    Embora tal jurisprudência tenha se formado inicialmente no âmbito de julgamentos quanto à inadmissibilidade de recursos extraordinários sobre a matéria (AI 724.135-AgR/MS, Rel. Min. Joaquim Barbosa, 2ª Turma, DJe 03.12.2010), foi também estendida ao habeas corpus (HC 112.130/MG, Rel. Min. Ayres Britto, 2ª Turma, DJe 08.6.2012; e HC 99.174/SP, Rel. Min. Ayres Britto, 2ª Turma, DJe 26.8.2011).
+    Nesse prisma, 'não se revela admissível a ação de habeas corpus, quando se pretende discutir os pressupostos de admissibilidade de recurso interposto perante o E. Superior Tribunal de Justiça (HC 118.834/BA, Rel. Min. Dias Toffoli, 1ª Turma, DJe 18.11.2013; HC 106.468/RJ, Rel. Min. Celso de Mello, 2ª Turma, DJe 15.8.2013). No mesmo sentido, ‘É firme o entendimento do Supremo Tribunal Federal no sentido de que o habeas corpus não se presta para rediscutir as decisões do Superior Tribunal de Justiça quanto à admissibilidade ou não do recurso especial e de seus incidentes’ (HC 137.758-AgR/SP, Rel. Min. Dias Toffoli, 2ªTurma, DJe 02.3.2017).
+    De mais a mais, as teses defensivas suscitadas no presente writ não foram objeto de apreciação no acórdão hostilizado, a inviabilizar a análise do writ pelo Supremo Tribunal Federal, sob pena de indevida supressão de instância. Cito, nessa linha, precedentes: HC 134.957-AgR/MG, Rel. Min. Luiz Fux, 1ª Turma, DJe 24.02.2017; RHC 136.311/RJ, Rel. Min. Ricardo Lewandowski, 2ª Turma, DJe 21.02.2017; RHC 133.974/RJ, Rel. Min. Dias Toffoli, 2ª Turma, DJe 03.3.2017; e HC 136.452-ED/DF, de minha relatoria, 1ª Turma, DJe 10.02.2017.
+    Ante o exposto, nego seguimento ao presente habeas corpus (art. 21, § 1º, RISTF).
+    Publique-se.
+    Brasília, 03 de agosto de 2021.
+Ministra Rosa Weber
+Relatora
