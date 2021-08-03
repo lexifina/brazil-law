@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos pela Fazenda Nacional contra decisão de fls. 268-270, e-STJ, que negou provimento ao Recurso Especial.
+A embargante alega (fls. 274-275, e-STJ):
+Não obstante os inúmeros acórdãos do STJ no mesmo sentido do acórdão ora embargado, verifica-se a ocorrência de fato novo no dia 13.05.2021, que confirma que a União estava certa ao demandar, reiteradamente, que os feitos que versassem sobre esse tema continuassem sobrestados.
+(..)
+Tratando-se de questão de ordem pública e fato superveniente, é plenamente possível a atuação do STJ, ainda que em sede de embargos de declaração opostos contra decisão monocrática, para que dê provimento ao recurso da União, tendo em vista que o acórdão recorrido está dissonante do entendimento firmado pelo STF no julgamento do RE 574.706, pois não se esgotou sua jurisdição.
+Impugnação às fls. 279-281, e-STJ.
+É o relatório.
+Decido
+Os autos foram recebidos neste Gabinete em 26/7/2021.
+A Fazenda Nacional alega omissão em relação afato novo (julgamento pelo STF dos Embargos Declaratórios no RE nº 574.706)que implica necessidade de reconhecer a nulidade do acórdão regional para que seja proferido novo julgamento em conformidade com a decisão do STF.
+Com efeito, na hipótese em tela ocorreu o superveniente julgamento dos Embargos de Declaração pelo STF no RE 574.706, ocasião em que houve a modulação dos efeitos do julgamento em repercussão geral que entendeu pela exclusão do ICMS (destacado na nota fiscal) da base de cálculo do PIS e da COFINS de modo que a produção de efeitos do julgado se dê após 15/3/2017, ressalvadas as ações judiciais e administrativas protocoladas até a data da sessão em que proferido o julgamento.
+O presente Recurso Especial não foi conhecido no ponto, sob o fundamento de que não cabe a esta Corte emitir juízo a respeito dos limites do que foi julgado no precedente em repercussão geral do Supremo Tribunal Federal, colocando novas balizas em tema de ordem constitucional.
+Contudo, é cediço que os fatos constitutivos, modificativos ou extintivos do direito que ocorrerem após a propositura da ação e puderem influir no julgamento do mérito devem ser considerados pelo julgador, de ofício ou a requerimento da parte, no momento de proferir a decisão, nos termos do art. 493 do CPC/2015.
+A jurisprudência desta Corte entende que a aplicação do direito à espécie com a possibilidade de consideração de eventuais fatos novos pressupõe o anterior conhecimento do Recurso Especial (AgInt nos EDcl no REsp 1.327.956/SP, Rel. Min.Paulo de Tarso Sanseverino, Terceira Turma, DJe 3/8/2017; AgInt no REsp 1.774.692/RS, Rel. Min. Sérgio Kukina, Primera Turma, DJe 9/10/2019; AgInt no AREsp 1.377.077/DF, Rel. Min. Assusete Magalhães, DJe 25/6/2019), o que não ocorreu no ponto em questão, de modo que não é possível a esta Corte aplicar desde já o direito à espécie, o que não impede, salvo melhor juízo, a determinação de retorno dos autos à origem para a adequação do julgado ao quanto decidido pelo STF em relação à modulação dos efeitos do RE 574.706, sobretudo porque a presente ação foi manejada após 15/3/2017, abrangida, portanto, na referida modulação de efeitos, de modo que a Corte a quo deve analisar a possível ocorrência de sucumbência recíproca e suas implicações nos demais consectários, como, por exemplo, a redistribuição da verba honorária.
+Ante o exposto, dou provimentoaos Embargos de Declaração para reconhecer a ocorrência de fato novo capaz de influenciar no mérito e determinar o retorno dos autos à origem para a adequação do julgado ao quanto decidido pelo STF em relação à modulação dos efeitos do RE 574.706, nos termos da fundamentação.
+Publique-se.
+Intimem-se.
