@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por Valdir Carvalho de Oliveira contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+PREVIDENCIÁRIO. PROCESSO CIVIL. REMESSA OFICIAL. APOSENTADORIA POR IDADE. RURÍCOLA. ATIVIDADE RURAL COMPROVADA POR INÍCIO DE PROVA DOCUMENTAL CORROBORADA POR PROVA TESTEMUNHAL. TUTELA ANTECIPADA. TERMO INICIAL. HONORÁRIOS ADVOCATÍCIOS. CORREÇÃO MONETÁRIA. JUROS DE MORA. CUSTAS. RECURSO ADESIVO.
+1. Nos termos da Lei nº 8.213/91, tem direito ao beneficio da aposentadoria rural por idade o segurado especial, empregado rural, trabalhador autônomo rural ou trabalhador avulso, com idade superior a 60 anos para o homem e 55 anos para a mulher, que tenha comprovado o efetivo exercício de atividade rural, por período igual ao número de meses correspondentes à respectiva carência exigida no artigo 142 do referido texto legal.
+2. A jurisprudência tem aceito que a comprovação do tempo de carência seja demonstrado por inicio razoável de prova material, desde que corroborada por prova testemunhal consistente sobre a veracidade das alegações.
+3 0 rol de documentos a que se refere o art. 55, § 30, da Lei 8.213/91, que o Superior Tribunal de Justiça já decidiu ser exemplificativo, indica, dentre outros, aqueles que podem ser aceitos para em conjunto com os fatos apontados e os demais elementos de prova, formar a convicção do juizo.
+4. No caso concreto, a parte autora juntou documentação que se enquadra nos moldes admitidos pela jurisprudência, em que consta a qualificação de rurícola, contemporânea ao prazo de carência que se busca demonstrar cumprido, sendo o princípio de prova corroborado por testemunhas que atestam de forma coerente e robusta a qualidade de trabalhador rural da parte autora, suprindo a exigência de tempo de trabalho exigida pela lei.
+5. A Lei 8.213/91, em seu artigo 49, I, "b", dispõe que a aposentadoria será devida a partir da data do requerimento administrativo.
+6. Na ausência de requerimento administrativo prévio, de acordo com a jurisprudência mais atual do STJ, firmada após a atribuição do tema à Primeira Seção daquela Corte, pacificou-se o entendimento de que o beneficio é devido a partir da citação, sendo oportuno citar, dentre outros, os precedentes inscritos no AgRg no AREsp 255.793/SP, EDcl 1349703/RS e AREsp 516018, vedada, entretanto, a reformatio in pejus.
+7. Prescreve em cinco anos, em caso de requerimento administrativo, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social (art. 103, parágrafo único, Lei nº 8.213/91), com exceção dos incapazes, por força das disposições dos artigos 3º, inciso I e 198, inciso I, do atual Código Civil.
+8. Caso a parte autora receba beneficio de prestação continuada previsto na Lei Orgânica da Assistência Social - LOAS, os valores devem ser compensados, tomando-se por base a prescrição quinquenale o deferimento da pretensão veiculada neste processo que é devida a partir da citação válida. 9. Honorários advocatícios devidos no percentual de 10% (dez por cento) sobre as prestações vencidas até a prolação da sentença, nos termos do enunciado da Súmula n. 111 do STJ.
+10. Juros e correção monetária nos termos do Manual de Cálculos da Justiça Federal.
+11. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (art. 109, § 3º, CF/1988), o INSS somente está isento do pagamento de custas quando lei estadual contenha previsão de tal benefício, o que ocorre nos Estados de Minas Gerais, Goiás, Rondônia e Mato Grosso.
+12. Em causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do IP inciso I do art. 4º da Lei nº 9.289/96.
+13. A determinação de imediata implantação do beneficio no prazo fixado no acórdão atrai a previsão de incidência de multa diária a ser suportada pela Fazenda Pública quando não cumprido o comando no prazo deferido, já que se trata de obrigação de fazer. Precedentes deste Tribunal e do Superior Tribunal de Justiça.
+14. O benefício reconhecido neste julgamento deve ser implantado no prazo máximo de 30 dias (CPC, art. 273) contados da intimação da autarquia previdenciária, independentemente da interposição de qualquer recurso.
+15. Recurso adesivo da parte autora parcialmente provido.
+16. Remessa oficial parcialmente provida.
+17. Apelação do INSS provida.
+Nas razões de recurso especial, fundamentado no artigo 105, III,a e c, da Constituição Federal, o recorrente aduz negativa de "vigência aos dispositivos da Lei Federal 8.213/91 e Lei 13.105/15", bem como dissídio jurisprudencial. Defende que "em casos como o dos autos, deve ser concedido o beneficio desde a data em que completou a idade mínimapara a concessão do beneficio".
+Não foram apresentadas contrarrazões.
+É o relatório.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ.
+O recurso especial não merece prosperar.
+A ausência de indicação objetiva dodispositivo infraconstitucional violado ou sobre o qual recaia o dissídio jurisprudencial atrai, em regra, a aplicação do óbice contido na Súmula284/STF, segundo o qual: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+A propósito:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. OFENSA AO ARTIGO 535 DO CPC/1973. NÃO CARACTERIZAÇÃO. PARCELAMENTO FISCAL. OFENSA À LEI 11.941/2009. RECUSA NA CONSOLIDAÇÃO DOS DÉBITOS FISCAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO VIOLADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+2. Na hipótese dos autos, a recorrente deixou de particularizar o dispositivo de lei infraconstitucional tido por violado, o que caracteriza a deficiência na fundamentação do recurso interposto com fulcro na alínea "a" do permissivo constitucional, razão pela qual o conhecimento do apelo especial encontra óbice na Súmula 284 do Supremo Tribunal Federal, prejudicando, outrossim, a análise da alínea "c", do permissivo constitucional.
+3. Agravo interno não provido. (AgInt no AREsp 1030145/SP, de minha relatoria, SEGUNDA TURMA, DJe 02/10/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ILEGIBILIDADE DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANO MORAL. 1.AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO COMO VIOLADO.FUNDAMENTAÇÃO DEFICIENTE. SÚMULA284/STF.2. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL.
+DANOS MORAIS. VALOR. IMPOSSIBILIDADE. 4. AGRAVO IMPROVIDO.
+1. Observa-se que o recorrentenão apontou o dispositivolegal tido como violado a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+ ..  4. Agravo interno a que se nega provimento.(AgInt no AREsp1.112.497/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 17/11/2017)
+Ademais, a parte recorrentelimitou-se a transcreverementas dos julgados paradigmas, não atendendo aos requisitos estabelecidos pelos artigos arts. 1.029, §1º, do CPC e 255, §1º, do RISTJ, restando ausente o adequado cotejo analítico e a demonstração da similitude fática.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios visto que não houve prévia fixação pelo Tribunal a quo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO VIOLADO OU AO QUAL FOI DADO INTERPRETAÇÃO DIVERGENTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO ESPECIAL NÃO CONHECIDO.
