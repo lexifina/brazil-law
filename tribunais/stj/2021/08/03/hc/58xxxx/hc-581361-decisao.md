@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Matheus Mascarenhas Leal - preso preventivamente, desde 28/8/2019, pela suposta prática de tráfico de entorpecentes, porquanto ele pretendia comercializar mais de 10 kg de maconha e mais de 1 kg de anfetamina - (fls. 24/25) -, em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e dos Territórios, que denegou o writ ali impetrado (Habeas Corpus n. 0707448-16.2020.8.07.0000), mantendo a prisão preventiva decretada pelo Juízo de Direito da 3ª Vara de Entorpecentes do Distrito Federal (Autos n. 0730340-47.2019.8.07.0001).
+Alega a parte impetrante, em síntese, que o constrangimento ilegal decorre de decisão que, mediante fundamentação inidônea - pois apoiada somente na gravidade abstrata dos delitos -, decretou a prisão preventiva do paciente.
+Aduz que há necessidade de revogação da prisão preventiva em razão da atual situação de pandemia causada pela Covid-19 (fls. 3/17).
+Postula, em liminar e no mérito, a expedição do competente alvará de soltura a fim de que seja o paciente posto em liberdade, sobretudo em razão do excesso de prazo para a formação de culpa (fls. 3/17).
+Em 21/5/2020, indeferi o pedido liminar (fls. 871/874).
+Informações (fls. 899/1.806).
+Às fls. 1.834/1.835, restou indeferido pedido de reconsideração (fls. 1.822/1.832).
+O Ministério Público Federal opinou pela denegação da ordem (fls. 1.84 5/1.849).
+Por meio da petição eletrônica n. 01015690/2020, a defesa técnica requer a liberdade do paciente (fls. 1.856/1.859).
+É o relatório.
+Da atenta leitura dos autos, afigura-se inviável acolher-se a pretensão, porquanto o alegado constrangimento não se apresenta com a nitidez imprimida na inicial, sobretudo porque as instâncias de origem mencionaram que, no tráfico de drogas observado nos autos - mais de 10 kg de maconha e mais de 1 kg de anfetamina (fls. 24/25) -, denota-se a evidente intenção de mercancia, diante da gravidade concreta da conduta em tese perpetrada (fls. 846/854).
+Ilustrativamente: são idôneos os motivos invocados pelo Juízo de origem para fundamentar a ordem de prisão do paciente, diante da gravidade concreta da conduta em tese perpetrada (RHC n. 108.354/PR, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 10/4/2019).
+No caso, em princípio, o suposto excesso de prazo para formação da culpa foi impugnado pelo acórdão local nos seguintes termos (fl. 853):
+ ..  Entretanto, diante das medidas adotadas pela Justiça do Distrito Federal em relação a pandemia pela COVID-19, as quais incluíram a suspensão das audiências de instrução e julgamento, o ato não poderá ser realizado na data agendada, conforme já antecipado pelo douto Juízo.
+Como se vê, e assim como indicado no julgamento do habeas corpus anterior, o alargamento do prazo para o encerramento da instrução criminal está justificado, e não se deu em razão da inércia do poder público, mas diante das peculiaridades do caso, inclusive pedidos de adiamento formulados pela própria Defesa.
+E o alargamento do prazo permanece justificado, mesmo diante da suspensão das audiências. Isso porque, como já registrado, o adiamento da audiência de instrução e julgamento e, em consequência, a ampliação do prazo para o encerramento da instrução criminal, ocorreu em razão de medida excepcional adotada no âmbito da Justiça do Distrito Federal, por meio da Portaria Conjunta n. 30, de 18/03/2020, para prevenir e reduzir os riscos de contaminação pela COVID-19.
+Não se desconhece a recomendação da Corregedoria de Justiça desta Corte quanto à observância dos prazos processuais nos feitos criminais. Entretanto, embora direito do acusado, o tempo de duração do processo não pode ser analisado com rigor absoluto. O constrangimento ilegal por excesso de prazo só pode ser reconhecido quando a demora for injustificada, a partir da análise pormenorizada do caso concreto, e, ao menos por ora, o alargamento do prazo está suficientemente justificado, diante da determinação e necessária suspensão das atividades presenciais no âmbito do Tribunal de Justiça, como meio de evitar a propagação da doença.
+ ..
+Logo, afigura-se inviável acolher-se a pretensão liminar disposta na impetração.
+Em acréscimo, a questão da concessão de liberdade ao paciente em função da pandemia da Covid-19 foi examinada pela instância de origem, nos seguintes termos (fl. 853 - grifo nosso):
+ ..  Também não há dúvida que o momento exige cautela no encarceramento preventivo, em razão do risco de contaminação de toda a população, inclusive a carcerária, pelo novo vírus. No entanto, a questão de saúde pública não pode servir de fundamento para a concessão de liberdade provisória ao paciente, tendo em vista a gravidade concreta de sua conduta, como já mencionada, que indica, como alertou o Juízo, seu envolvimento em intenso tráfico de drogas e o risco de reiteração delitiva.
+Além do mais, as autoridades responsáveis pelo sistema penitenciário tem tomado providencias para minimizar os riscos de contaminação e garantir a segurança dos presos, sendo certo que o aconselhamento do Conselho Nacional de Justiça para colocação em liberdade provisória, com ou sem imposição de medidas cautelares, deve ser analisado com cautela, em atenção às peculiaridades de cada caso.
+A propósito, registre-se, sobre a questão, que o Governador do Distrito Federal destinou um prédio na Unidade de Internação Feminina do Gama para acolhimento e segregação de novos presos, para evitar o contágio dos que já estão encarcerados, como é o caso do ora paciente, e também outras medidas para salvaguardar a integridade física daqueles que apresentem os sintomas da doença ou que pertençam ao grupo de risco.
+Por tudo quanto exposto, impõe-se reconhecer a legalidade da manutenção da prisão preventiva imposta ao paciente, não havendo, portanto, constrangimento ilegal que autorize a concessão da ordem.
+ ..
+É cediço, ainda, que os fundamentos da prisão cautelar podem ser reexaminados pelo Magistrado, que deve, nos termos do art. 316 do Código de Processo Penal, acrescentado pela Lei n. 13.964/2019, denominada "Pacote Anticrime", atentar-se para a necessidade de verificar a persistência dos fundamentos que ensejaram a decretação da prisão preventiva, podendo, em caso de insubsistência dos argumentos, revogá-la.
+A corroborar, oportuna a menção ao parecer da Procuradoria-Geral da República, pela denegação da ordem (fls. 1.845/1.849).
+Não há violação dos preceitos processuais quando o Magistrado adota os termos da manifestação ministerial como razões de decidir (RHC n. 31.266/RJ, Ministro Adilson Vieira Macabu (Desembargador convocado do TJ/RJ), Quinta Turma, DJe 18/4/2012).
+Ilustrativamente: HC n. 400.807/SP, da minha relatoria, Sexta Turma, DJe 2/10/2017.
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. PRISÃO CAUTELAR. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO SUFICIENTE. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
