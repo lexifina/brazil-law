@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CFcontra acórdão do TJRN, que denegou a ordemem acórdão assim ementado (e-STJ fls. 104/126):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. PRELIMINAR DE DECADÊNCIA DO DIREITO SUSCITADA PELO ENTE PÚBLICO. REJEIÇÃO. RELAÇÃO DE TRATO SUCESSIVO. REDUÇÃO DE VANTAGENS. RENOVAÇÃO MENSAL DO PRAZO. MÉRITO. LEI COMPLEMENTAR ESTADUAL Nº 484/2013, QUE TRANSFORMOU A GRATIFICAÇÃO DE PARCELAS EM VANTAGEM PECUNIÁRIA EQUIVALENTE. PEDIDO DE IMPLANTAÇÃO DA GRATIFICAÇÃO DE PARCELAS NO PERCENTUAL DE QUARENTA POR CENTO SOBRE O VENCIMENTO BÁSICO DO CARGO DE AUDITOR FISCAL DO TESOURO ESTADUAL DE NÍVEL 4 (AFTE-4). AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. DESVINCULAÇÃO DA VANTAGEM AO VENCIMENTO DO CARGO APONTADO OPERADA COM A NOVEL LEGISLAÇÃO ESTADUAL. INEXISTE DIREITO ADQUIRIDO À REGIME JURÍDICO. DENEGAÇÃO DA SEGURANÇA.
+Alega a impetrante, em síntese, que a decisão recorrida não enfrentou corretamente a postulação da inicial, pois deixou de apreciar a questão do descumprimento da ordem judicial e passou a analisar o mérito da incorporação que lhe foi assegurada em outro processo judicial com trânsito em julgado.
+Contrarrazões (e-STJ fl. 150).
+Parecer do MPF opinando pelo não provimento do recurso (e-STJ fls. 170/175).
+Passo decidir.
+Entendo que o recurso não merece guarida.
+A parte impetrante alicerça seu recurso em (suposta) violação à coisa julgada que teria lhe sido garantida em outro processo. Afirma que o juízo a quo incorreu em erro ao revisar a questão de mérito relativa à vantagem econômica tratada nos autos.
+Ocorre que foi a própria demandante quem centrou sua causa de pedir da inicial no mérito sobre a gratificação. A exordial desenvolve toda fundamentação quanto à questão e, apenas de passagem, menciona o fato de que em mandado de segurança a percepção da vantagem teria sido discutida, mas não trata da (suposta) violação à coisa julgada.
+Com razão, o Parquet quando, em seu parecer, opina pela existência de inovação recursal.
+Esta Corte tem incontáveis precedentes que vedam a tentativa de inovação recursal. Nesse sentido: AgInt no REsp 1894595/SP, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020; AgInt no AREsp 1677739/SP, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 30/11/2020, DJe 02/12/2020; RMS 53.999/GO, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/10/2019, DJe 25/10/2019.
+Aliás, se a causa de pedir do autor fosse o desatendimento à questão definitivamente decidida em outro processo, ou o descumprimento deveria ser objeto de apreciação naquele feito, ou no mínimo o presente writ deveria vir acompanhado de todas as peças daquela ação, o que não ocorreu.
+Importante lembrar que na forma da pacífica jurisprudência do STJ, "o Mandado de Segurança visa resguardar direito líquido e certo de lesão ou ameaça de lesão, assim considerado o que pode ser demonstrado de plano, por meio de prova pré-constituída, inexistindo espaço para dilação probatória" (STJ, RMS 61.744/RO, rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020).
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
