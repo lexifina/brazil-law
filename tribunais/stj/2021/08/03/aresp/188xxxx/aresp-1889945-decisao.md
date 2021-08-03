@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO CPC/2015. REDISCUSSÃO DE QUESTÃO JÁ RESOLVIDA NA DECISÃO EMBARGADA. MERO INCONFORMISMO. SIMPLES REITERAÇÃO DE ARGUMENTOS. NÃO CABIMENTO. EMBARGOS REJEITADOS
+1. Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo como instrumento de aperfeiçoamento do julgado, e não com o propósito de reforma.
+2. Registro que o acórdão embargado tratou expressamente, e sem interpretação duvidosa, a matéria apontada como contraditória.
+3. Advertência para ambas as partes que o próximo embargos de declaração será julgado com o efeito cominatório do art. 1.026, §2º do CPC/15.
+4. Embargos de declaração rejeitados.
+A parte recorrente alega, em síntese:
+(..)
+O Município de Imperatriz, no dia 24 de julho de 2015, publicou a Lei n. 1.593/2015, dispondo sobre o estatuto do servidor públicomunicipal, rompendo com o regime celetista anterior. Um dos desdobramentos lógicos desse episódio é que os direitos dos servidores, eventual e supostamente violados, devem ser pleiteados na Justiça Comum estadual, ao contrário do regime anterior (celetista), cujo órgão judiciário competente para dirimir conflitos era a Justiça do Trabalho.
+O Recorrido, muito embora fundamente seus pleitos na lei estatutária municipal, ao formular o pedido final, foi além do período de vigência da aludida lei, reportando-se ao tempo que a lei que vigorava era a trabalhista (tempus regit actum). Com efeito, o pedido de pagamento de ATS refere-se ao período anterior à data em que passou a viger a noticiada lei estatutária, impossibilitando, portando, nesse particular, a apreciação pela Justiça Comum.
+A competência da jurisdição da Justiça do Trabalho para processar e julgar as demandas dos servidores públicos se finda no dia 23 de julho de 2015, uma vez que a lei estatutária municipal passou a valer no dia 24 de julho do mesmo ano, como visto, iniciando, daí em diante, a competência da Justiça Comum estadual.
+Portanto, para os pleitos de diferenças de ATS, se não prescritos, devem ser buscados na justiça obreira, eis que a justiça comum é incompetente para conhecimento, processamento e julgamento da parte dos pleitos que sobejam ao período de vigência da Lei n. 1.593/2015.
+(..)
+Assim sendo, quanto aos pleitos deduzidos pela parte autora referentes ao período anterior à vigência da Lei n. 1.593/2015, que instituiu o regime estatutário dos servidores do Município de Imperatriz, em obediência ao princípio do tempus regit actum, deve o órgão judiciário da Justiça Comum declarar-se incompetente para o julgamento, eis que os mesmos escapam da jurisdição desse órgão.
+(..)
+O recorrido pretende que o Município seja condenado a pagar, em definitivo, o ATS dos meses retroativos, conforme sua evolução salarial.
+Contudo, não se deve perder de vista o prazo prescricional de 5 (cinco) anos em face da Fazenda Pública.
+(..)
+Na exordial não há documento (ou qualquer outra prova) que demonstre que o recorrido tenha qualquer valor a receber do Município de Imperatriz, a título de adicional por tempo de serviço. A ausência de prova a respeito do fato constitutivo do direito do recorrido faz com que a presunção de verdade milite a favor do recorrente, uma vez que o ônus da prova é de quem alega, uma vez que não se pode exigir a produção de prova negativa.
+Cumpre não olvidar que segundo preleciona o art. 373, I, do Código de Processo Civil, cujo texto legal segue abaixo, o autor, ora recorrido, é obrigado a comprovar fato constitutivo do seu direito, qual seja, que o cálculo para pagamento do adicional por tempo de serviço não vem sendo elaborado de maneira correta, o que no caso em exame, não ocorreu.
+(..)
+Inexiste irregularidade quanto ao cálculo para pagamento da verba salarial, adicional por tempo de serviço. A forma utilizada pelo Município de Imperatriz para cálculo de tais verbas está em completa consonância à Lei Orgânica Municipal aplicáveis ao caso.
+(..)
+Data vênia, eminente Ministro Relator, a decisão está equivocada em relação a este item, posto que o próprio recorrido já confirma que recebe o ATS, mas alega que recebe com base em cálculos errados. E, o recorrente, nesse particular afirma que os cálculos estão corretos.
+E mais, esse não foi o pedido do recorrido, uma vez que na exordial alega que o ATS está sendo pago incorretamente e que almeja o pagamento da diferença.
+Inclusive, o recorrido juntou contracheques nas quais constam como paga a gratificação de ATS, com a nomenclatura "GRAT. TEMPO SERV. ADICIONAL", conforme se verifica nas fichas financeiras anexas aos autos. O recorrente efetivamente paga o ATS para o recorrido e ele próprio assim o afirma, contudo almeja uma suposta correção nos cálculos.
+Desse modo, o acórdão deve ser anulado, pois ultrapassa os limites do pedido, no sentido de que condena ao pagamento integral do adicional por tempo de serviço, enquanto o pedido do recorrido se limita a supostas diferenças no pagamento, não comprovado nos presentes autos.
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.7.2021.
+Na hipótese dos autos, com relação ao tópico recursal lastreado na violação dos arts. 64, §1º, e 373, I, do CPC (ocorrêcia de prescrição e julgamentoextra petita), nota-se queos mencionados dispositivos legais e as respectivas teses recursais não foram ventilados no aresto atacado e, embora tenham sido opostos os Embargos Declaratórios competentes para a manifestação sobre os citados dispositivos legais, o órgão julgador não emitiu juízo de valor sobre os temas. Falta, portanto, prequestionamento, requisito para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Incide, na hipótese, o verbete sumular 211/STJ.
+Para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a alegaçãorecursal a ele vinculada, interpretando-se a sua aplicação ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais com os fundamentos do acórdão, percebe-se que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciados pela Corte a quo.
+Ademais, o STJ possui o entendimento de que é insuficiente a oposição de Embargos de Declaração para configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015, sendo imprescindível que a parte alegue, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 211/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE. COMPLEMENTAÇÃO DE VALORES PAGOS A MENOR. OBEDIÊNCIA AO TÍTULO EXECUTIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - In casu, rever o entendimento do Tribunal de origem, no sentido de não haver violação à coisa julgada uma vez que os valores pagos a menor pelo INSS eram complementados pela PREVI, em obediência aos valores fixados no título executivo, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido (AgInt no REsp 1.646.137/SC, Rel. Min. Regina Helena Costa, DJe 20.2.2018).
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, DJe 10.4.2017).
+Quanto à alegação de inexistência de erro de cálculo, o acolhimento da pretensão recursal damanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
