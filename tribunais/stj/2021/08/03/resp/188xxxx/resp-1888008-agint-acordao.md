@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo internonão conhecido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1171-1189) interposto contra decisão assim ementada (fl. 1121):
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ISS. LC 116/03. PRODUÇÃO DE FITAS E FILMES SOB ENCOMENDA. NÃO INCIDÊNCIA, EM FACE DE VETO DO ITEM 13.01 DA LISTA QUE PREVIA A TRIBUTAÇÃO DESSE SERVIÇO. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA PARA ENQUADRAMENTO COMO ATIVIDADE DE CINEMATOGRAFIA, PREVISTA NO ITEM 13.03. DECLARAÇÃO DE INEXISTÊNCIA DE RELAÇÃO JURÍDICA. PERTINENTE QUANDO A PRETENSÃO NÃO É GENÉRICA E ABSTRATA, DEMONSTRANDO JUSTO RECEIO E REPERCUSSÃO DO PROVIMENTO JURISDICIONAL ALMEJADO NA ESFERA JURÍDICA DO AUTOR. RECURSO ESPECIAL CONHECIDO EM PARTE E PROVIDO EM PARTE.
+O agravante alega que "as associadas da Autora  ..  continuaram a se submeter à tributação pelo código 17.06 caso configurada a hipótese de incidência, dado que os serviços de elaboração de filmes publicitários não se confundem com Produção, gravação, edição, legendagem e distribuição de filmes, videotapes, discos, fitas cassete, compact disc, digital video disc e congêneres", e que "não se pode definir aprioristicamente se as associadas da Autora exercem ou não atividade de Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres" (fl. 1189).
+Pede a reforma da decisão monocrática que deu parcial provimento ao Recurso Especial da Autora, para julgar integralmente improcedente a demanda.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo internonão conhecido.
+VOTO
+Além da manifestação do inconformismo, inerente ao ato de irresignação, ao agravante se impõe o ônus de se contrapor especificamente, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade - o que não ocorreu no caso dos autos.
+A decisão agravada, no que interessa ao ventilado no agravo interno, possui a seguinte fundamentação (fl. 1125):
+(Não) se presta o pedido de declaração de inexistência de relação jurídico-tributária à concessão de alvará genérico, a fim de alcançar situações abstratas, sem pretensões ou dados concretos ventilados nos autos. A jurisprudência desta Corte entende que não cabe ação declaratória de cunho genérico e abstrato, ou seja, que não demonstra, efetivamente, a repercussão do provimento jurisdicional almejado na esfera jurídica do autor (REsp 870.445/RS, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, DJe 08/02/2011).
+In casu, não há situação concreta que impute aos fatos geradores a exigibilidade do ISS sob o fundamento de que se enquadram no item 17.06 da lista de serviços do ISS.
+O recurso especial é pertinente, todavia, no que tange à pretensão da recorrente de obter declaração de inexistência de relação jurídico-tributária em relação ao item 13.03 da lista de serviços. Com efeito, a ação declaratória é apropriada para o reconhecimento de inexistência de relação jurídico-tributária quando o contribuinte demonstra que o fato jurídico suscitado diz respeito ao cotidiano de suas atividades e que há conduta rotineira do fisco infirmando o direito alegado já manifestada em outros casos análogos, seja por meio de indeferimento de pedido administrativo ou de lavratura de auto de infração (EREsp 1135878/RS, Rel. Ministro BENEDITO GONÇALVES, Primeira Seção, DJe 02/08/2013).
+No presente caso, a conduta e a pretensão do fisco municipal são claras, evidenciadas tanto na solução de consulta (a qual se busca manter no recurso especial da municipalidade), quanto nos diversos precedentes existentes sobre a matéria. Há justo receito, concreto e iminente, quanto à possibilidade de autuação com base no item 13.03 da lista anexa à LC 116/03, em frontal violação à jurisprudência consolidada desta Corte:
+ ..
+Ante o exposto, conheço em parte do recurso especial e, nesta extensão, dou-lhe parcial provimento para reconhecer a inexistência de relação jurídico-tributária que obrigue as associadas da recorrente a recolher o ISS sobre os serviços de produção, gravação, edição, e legendagem de filmes/vídeos sob o fundamento de que tais atividades se equiparam ao serviço de cinematografia (item 13.03 da lista anexa à LC 116/20 03).
+Na espécie, o agravante, cingindo-se a alegações genéricas, apenas reprisa a tese recursal, acrescentando que "não se pode definir aprioristicamente se as associadas da Autora exercem ou não atividade de Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres". Tal alegação, todavia, em nada se relaciona com o decidido, no sentido de que inexiste "relação jurídico-tributária que obrigue as associadas da recorrente a recolher o ISS sobre os serviços de produção, gravação, edição, e legendagem de filmes/vídeos sob o fundamento de que tais atividades se equiparam ao serviço de cinematografia (item 13.03 da lista anexa à LC 116/20 03)".
+A falta de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso incidindo o óbice da Súmula 182/STJ.
+Nesse sentido, confira-se entendimento da Corte Especial:
+AGRAVO INTERNO EM PEDIDO DE RECONSIDERAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO MANIFESTAMENTE INADMISSÍVEL E PROTELATÓRIO. APLICAÇÃO DE MULTA. 1. Nos termos do art. 1021, § 1º, do CPC e da Súmula 182/STJ, é inviável o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada. 2. Agravo interno não provido, com aplicação de multa. (AgInt no RCD nos EDcl no AgInt nos EAREsp 913.041/MG, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 16/5/2018, DJe 23/5/2018)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
