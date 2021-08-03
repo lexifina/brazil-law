@@ -1,0 +1,67 @@
+DECISÃO
+Trata-se de agravo de WILL RODRIGUES MARQUES em face de decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE - TJSEque não admitiu o seu recurso especial interposto com fulcro no art. 105, III, "a" e "c", da Constituição Federal - CF.
+Consta dos autos que o agravante teve seu pedido formulado em Revisão Criminal indeferido. O acórdão ficou assim ementado:
+"REVISÃO CRIMINAL  Crime de FURTO QUALIFICADO E INCENDIO  Condenação  Ação Revisional lastreada em insuficiência de provas  Impossibilidade  Condenação lastreada no conjunto probatório, respaldada nas provas dos autos  Inexistência de fatos e direito que caibam na moldura do art. 621 do CPP e justifiquem a procedência da revisão criminal  Ação de Revisão Criminal improcedente  Decisão unânime." (fl. 900).
+Em sede de recurso especial (fls. 906/953), a Defesa apontou violação aos artigos 158, 167 e 171, todos do Código de Processo Penal- CPP, bem como dissídio jurisprudencial, porque o TJSE manteve condenação pela prática do delito tipificado no art. 155,§ 4º, I, do Código Penal- CP (furto com rompimento de obstáculo), se omitindo a respeito da ausência de laudo pericial e impossibilidade de condenação com base em outras provas quando não estiver presente qualquer justificativa para a falta de sua confecção (desaparecimento dos vestígios ou outras circunstâncias).
+Em seguida,a Defesa apontou violação aos artigos 158, 167 e 173, todos do CPP,porque o TJSE manteve condenação pela prática do delito tipificado no art. 250, § 1º, II, do CP (incêndio em casa habitada), se omitindo a respeito da ausência de laudo pericial e impossibilidade de condenação com base em outras provas quando não estiver presente qualquer justificativa para a falta de sua confecção (desaparecimento dos vestígios ou outras circunstâncias).
+Adiante, a Defesa sustentou violação ao art. 59 do CP, eis que o TJSE manteve valoração negativa da circunstância judicial do comportamento da vítima na exasperação da pena-base.
+Requereu o decote da qualificadora do rompimento de obstáculo, a absolvição do crime de incêndio e a redução da pena-base para o delito de furto, com readequação do regime inicial.
+Contrarrazões (fls. 953/966).
+O recurso especial não foi admitido no TJSE haja visto: a) o óbice da Súmula n. 7 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ; e b) o óbice da Súmula n. 83 do STJ(fls. 970/973).
+Em agravo em recurso especial, a Defesa refuta os referidos óbices (fls. 980/996).
+Contraminuta (fls. 996/1003).
+Os autos foram protocolados e distribuídos nesta Corte (fls. 1008/1015).
+O MINISTÉRIO PÚBLICO FEDERAL - MPF opinou pelo não provimento do agravo em recurso especial (fls. 1023/1028).
+É o relatório.
+Decido.
+Atendidos os pressupostos, admite-se o agravo em recurso especial e passa-se a analisar o recurso especial.
+Sobre a violação aos artigos 158, 167,171 e 173, todos do CPP, bem como dissídio jurisprudencial,o TJSE, no julgamento da revisional, identificou a tese defensiva, qual seja,falta de justificativa para a não realização dos imprescindíveis exames periciais, mas não abordou o tema. O TJSE se limitou a dizer que havia outras provas para fins de condenação. OTJSE, ao omitir-se a respeito dos exames de corpo de delito não terem sido realizados de forma justificada ou não, não prequestionou a matéria posta no recurso especial. Ou seja, não houve debate sobre a incidência ou não do art. 167 do CPP na hipótese em tela para tornar a condenação pelo furto qualificado pelo rompimento de obstáculo e pelo incêndio contrária a texto expresso de lei.Assim, o recurso não deve ser conhecido neste ponto em razão da ausência de prequestionamento, motivo pelo qual incidentes, por analogia, as Súmulas 282 e 356 do SUPREMO TRIBUNAL FEDERAL - STF. No mesmo sentido, cita-se precedente:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.OFENSA AOS ARTS. 4º, CAPUT, DA LEI Nº 7.492/86, E 62, I, DO CP. TESE JURÍDICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282/STF E 356/STF. VIOLAÇÃO AOS ARTS. 4º, CAPUT, E 25, AMBOS DA LEI Nº 7.492/86. CRIME DE GESTÃO FRAUDULENTA. POSSIBILIDADE DE PARTICIPAÇÃO DE TERCEIRO NO DELITO. ART. 29 DO CÓDIGO PENAL. ARESTO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DO STJ. CONTRARIEDADE AO ART. 59 DO CP. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. INEXISTÊNCIA DE ILEGALIDADE.REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal. (AgRg no AREsp 454.427/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 19/02/2015)
+ ..
+5. Agravo regimental a que se nega provimento .
+(AgRg no AREsp 1061456/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 21/11/2017, DJe 28/11/2017).
+Sobre a violação ao art. 59 do CP, oTJSE se limitou a rechaçar o pedido por considerar reapreciação de matéria julgada em recurso de apelação. Cita-se o trecho:
+"Por fim, em relação à alegada violação de legislação penal infraconstitucional, em relação aos artigos 59 uma vez intenta o autor reapreciar matéria trazida na Apelação Criminal amplamente debatida nessa revisão." (fl. 902).
+Todavia, a falha flagrante na dosimetria da pena pode ser revista em sede de revisão criminal. Citam-se precedentes:
+PENAL E PROCESSO PENAL. REVISÃO CRIMINAL. ART. 621, I, DO CPP.HOMICÍDIO QUALIFICADO TENTADO. ALEGAÇÃO DE OFENSA AOS ARTS. 33, § 2º, 59, 61, II, C, E 121, § 2º, IV, TODOS DO CP. NÃO OCORRÊNCIA.MERO INCONFORMISMO.
+1. O acórdão atacado não padece de nenhum vício que possa ensejar o acolhimento do pleito revisional, inexistindo qualquer respaldo nas hipóteses estabelecidas no art. 621, I, do Código de Processo Penal.
+2. Hipótese em que não se verifica ilegalidade na valoração das circunstâncias judiciais utilizadas na dosimetria da pena, muito menos na manutenção da agravante da dissimulação e na fixação do regime prisional, já que devidamente motivadas, de modo que não se justifica o ajuizamento da presente ação revisional.
+ ..
+5. Revisão criminal parcialmente conhecida e, nessa extensão, julgada improcedente.
+(RvCr 5.526/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, TERCEIRA SEÇÃO, julgado em 09/12/2020, DJe 09/03/2021)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NA REVISÃO CRIMINAL. NÃO ENQUADRAMENTO NAS HIPÓTESES LEGAIS. DOSIMETRIA DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCOMPETÊNCIA DA SEÇÃO PARA CONCEDER ORDEM DE HABEAS CORPUS DE OFÍCIO.
+I - No caso em questão, verificou-se que o pleito não se enquadrava em nenhuma das hipóteses previstas no art. 621, do CPP, pois a revisão criminal não pode ser utilizada para que a parte, a qualquer tempo, busque novamente rediscutir questões de mérito, por mera irresignação quanto ao provimento jurisdicional obtido
+II - Quanto à dosimetria, o acórdão ora impugnado manteve a pena-base acima do mínimo legal, em razão da natureza e da quantidade de droga apreendida, 12 (doze quilos) de cocaína, o que está de acordo com a jurisprudência deste Tribunal. Precedentes.
+ ..
+Agravo regimental desprovido.
+(AgRg na RvCr 4.463/AC, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe 04/12/2018)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REVISÃO CRIMINAL. DOSIMETRIA. VALORAÇÃO NEGATIVA DOS ANTECEDENTES FUNDADA EM CONDENAÇÃO POR FATO POSTERIOR. VIOLAÇÃO AO ART. 59 DO CP. POSSIBILIDADE DE ALTERAÇÃO. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO IMPROVIDO.
+1. Considerando que o aumento da pena-base, pela consideração negativa dos antecedentes fundado em condenação por fato posterior, constitui violação ao art. 59 do CP, uma vez que só podem ser sopesados na sanção inicial fatos cometidos anteriormente ao ilícito em análise, devida a alteração da dosimetria em sede de revisão criminal com fundamento no art. 621, I, do CPP. Precedente.
+ ..
+3. Agravo regimental improvido.
+(AgRg no REsp 1533649/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 23/10/2017).
+No caso dos autos, o acórdão recorrido ratificou, ainda que indiretamente, o acórdão proferido em recurso de apelação que sopesou o comportamento da vítima de forma desfavorável ao recorrente. Cita-se o trecho:
+"No tocante ao apelante Will Rodrigues Marques, constato que o magistrado de piso incidiu no bis in iden na fundamentação da circunstância judicial conseqüências do crime, uma vez que a referida fundamentação já faz parte dos tipo. Incorreu também no bi in idem na fundamentação circunstancia judicial circunstância do crime já que a fundamentação já foi levada em consideração para qualificar odelito. Sendo assim, considero as referidas circunstâncias como favoráveis ao réu na dosimetria do crime de furto.
+Sendo assim, após reforma restaram somente duas circunstâncias judiciais desfavoráveis, quais sejam, comportamento da vítima e antecedentes criminais. Logo, redimensiono a pena-base antes fixada em 05 (cinco) anos para 04 (quatro) anos, 03 (três) meses de reclusão e 40 (quarenta) dias multa, a qual torno-a definitiva ante a ausência de circunstâncias atenuantes e/ou agravantes, bem como causas de aumento de diminuição de pena.
+No tocante a dosimetria do crime de incêndio constato que não há qualquer reproche, razão pela qual mantenho a pena definitiva estipulada pelo magistrado de piso em 05 (cinco) anos, 04 (quatro) meses de reclusão e 80 (oitenta) dias-multa.
+Em razão do concurso material de crimes (art. 69) do CP, fixo a pena em 09 (nove) anos 07 (sete) meses e 120 (cento e vinte) dias de reclusão. Fixo o regime de pena no fechado, de acordo com o art. 33, § 2º, "a" do CP." (fls. 808/809)
+É pacífico na jurisprudência desta Corte que o comportamento da vítima não pode servir para exasperar a pena-base. Citam-se precedentes anteriores ao julgamento do recurso de apelação:
+"HABEAS CORPUS" SUBSTITUTIVO DE RECURSO ORDINÁRIO. CRIME CONTRA O PATRIMÔNIO. ROUBO CIRCUNSTANCIADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. PRETENSÃO DE QUE A PENA-BASE SEJA FIXADA NO MÍNIMO LEGAL. AUSÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS.POSSIBILIDADE. PRECEDENTES.
+1. As instâncias ordinárias ao elevarem a pena-base além do mínimo legal por considerarem que a vítima ao não contribuir para o ocorrência do delito era uma circunstância prejudicial ao réu, divergiram da orientação já pacificada nesta Corte de que o comportamento dela é uma circunstância neutra ou favorável quando da fixação da primeira fase da dosimetria da condenação.
+ ..
+3. "Habeas corpus" não conhecido. Ordem concedida de ofício para alterar a pena-base para o mínimo legal e determinar que o Juízo de piso faça o novo cálculo da pena.
+(HC 278.045/AL, Rel. Ministro MOURA RIBEIRO, QUINTA TURMA, julgado em 07/11/2013, DJe 14/11/2013)
+RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. DOSIMETRIA. PENA-BASE.CULPABILIDADE E MOTIVOS. LUCRO FÁCIL. CIRCUNSTÂNCIAS. ELEMENTO INERENTE AO TIPO PENAL. CONSEQUÊNCIAS DA INFRAÇÃO. NÃO DEVOLUÇÃO DO BEM. COMPORTAMENTO NEUTRO DA VÍTIMA. ANTECEDENTES. PROCESSO TRANSITADO EM JULGADO CUJA PUNIBILIDADE FOI EXTINTA PELA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. PROCESSOS EM ANDAMENTO. SÚMULA 444/STJ.EXASPERAÇÃO. IMPOSSIBILIDADE. RECURSO PROVIDO.
+ ..
+4. A ausência de devolução da res furtiva e comportamento neutro da vítima não são motivos idôneos para fundamentar a exasperação da pena-base.
+ ..
+6. Recurso especial provido para reduzir a pena-base ao mínimo legal, redimensionando a pena do recorrente para 6 (seis) anos de reclusão e pagamento de 14 (quatorze) dias-multa, mantidos os demais termos do acórdão recorrido.
+(REsp 1368671/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 18/06/2014, DJe 04/08/2014)
+Assim, forçoso o reconhecimento de violação ao art. 59 do CP, eis que o comportamento da vítima não deve justificar a exasperação de pena-base para o delito de furto qualificado. Passa-se a refazer a dosimetria da pena, com decote proporcional na exasperação da pena-base constante do acórdão que julgou a apelação.
+Na primeira fase, ante uma circunstância judicial desfavorável, fica a pena-base em 3 anos, 1 mês e 15 dias de reclusão e 25 dias-multa. Ausentes atenuantes, agravantes, causas de aumento e de diminuição consideradas na sentença, torna-se a referida pena definitiva.
+Em razão do concurso material com crime de incêndio, fica a pena definitiva em 8 anos, 5 meses e 15 dias de reclusão e 105 dias-multa. O montante de pena enseja manutenção do regime inicial fechado.
+Consoante art. 580 do CPP, considerando que o comportamento da vítima também foi sopesado para corréus CLEBERSON (fl. 803) e ELEILSON (fl. 810), fica a pena definitiva de CLEBERSON SANTOS DO NASCIMENTO para o delito de furto duplamente qualificado em3 anos, 1 mês e 15 dias de reclusão e 25 dias-multa;e a pena definitiva de ELEILSON BATISTA RIBEIROpara o delito de furto qualificado fixada no mínimo legal de 2 anos de reclusão e 10 dias-multa.
+Diante do exposto, admito o agravo em recurso especial, conheço em parte do recurso especiale, com fundamento na Súmula n. 568 do STJ, dou-lhe provimento para decotar a valoração negativa do comportamento da vítima na exasperação da pena-base do agravantepara o delito de furtoduplamente qualificado, com extensão aos corréus, conforme o art. 580 do CPP.
+Publique-se.
+Intimem-se.
