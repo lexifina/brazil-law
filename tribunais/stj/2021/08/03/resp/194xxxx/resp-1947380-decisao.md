@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro no permissivo do art. 105, III, "a", da Constituição Federal de 1988, contra acórdão que restou assim ementado (e-STJ fls. 224/233):
+TRIBUTÁRIO. COMPENSAÇÃO DE DÉBITOS DE IRPJ E DE CSLL POR ESTIMATIVAS MENSAIS. LEI Nº 13.670/2018. ART. 74, §3º, X, DA LEI 9.430/96. DIREITO ADQUIRIDO A REGIME TRIBUTÁRIO. INEXISTÊNCIA.
+1. A Lei 13.670/18, ao acrescentar o inciso IX ao §3º do art. 74 da Lei 9.430/96 proibiu a compensação dos débitos relativos ao recolhimento mensal por estimativa do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL).
+2. A segurança jurídica não pode ser invocada para o efeito de conferir ao contribuinte o direito adquirido a determinado regime tributário, sendo que a alteração legislativa não afeta a opção pelo pagamento do IRPJ/CSL com estimativas mensais e nem o direito de crédito, que continua assegurado pela lei.
+3. A lei que rege a compensação é a vigente da data do encontro de contas.
+4. Preceito legal que disciplina de forma diversa a extinção dos créditos tributários pelo regime da compensação não se sujeita aos princípios da anterioridade nonagesimal e de exercício financeiro.
+Alega a recorrente que tem "o direito de apresentar, à autoridade coatora, a declaração de compensação necessária para formalização da compensação de seus créditos, ainda que decorrentes de indébito, ou do saldo de declarações (saldo negativo) de IRPJ e CSLL já apurado com os débitos vincendos de IRPJ e da CSLL a título de estimativas mensais, bem como em relação a períodos subsequentes". Afirma que as alteraçõesefetuadas pela Lei n. 13.670/2018no curso do exercício fiscal afetam a irretroatividade constitucionalmente estabelecida (e-STJ fls. 254/261).
+Contrarrazões nas e-STJ fls. 271/275.
+Recurso regularmente admitido na origem (e-STJ fls. 285).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso foi interposto na vigência do CPC/2015, o que atrai a incidência do Enunciado Administrativo Nº 3: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto ao mais, impossível o conhecimento do recurso pela alínea "a". Isto porque não há na petição do recurso especial a clara indicação dos dispositivos legais que se entende por violados. A citação de passagem de artigos de lei não é suficiente para caracterizar e demonstrar a contrariedade a lei federal, já que impossível identificar se o foram citados meramente a título argumentativo ou invocados como núcleo do recurso especial interposto. Incide na espécie, por analogia, o enunciado n. 284, da Súmula do STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Precedente: REsp 1116473 / RS, Segunda Turma, Rel. Min. Mauro Campbell Marques, julgado em 02.02.2012.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROCESSUAL CIVIL. ARTIGOS DE LEI MENCIONADOS DE PASSAGEM NA PETIÇÃO DE RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. RECURSO ESPECIAL NÃO CONHECIDO (ART. 932, III, DO CPC/2015 C/C ART. 255, § 4º, I, DO RISTJ).
