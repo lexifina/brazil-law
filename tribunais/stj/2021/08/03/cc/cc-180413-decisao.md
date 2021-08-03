@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Vara de Execução Meio Fechado e Semiaberto do Novo Gama/GOem face do Juízo de Direito da Vara de ExecuçõesPenais de Brasília/DF.
+Consta dos autos que Euler Sullivam Araújo Costa foi condenado pelo Juízo de Direito do Distrito Federal à pena de 4 anos, 2 meses e 12 dias de reclusão, no regime inicial semiaberto, sendo posteriormente deferida a progressão ao aberto.
+Em razão da prática de novo crime na Comarca de Novo Gama/GO, pelo qual passou a responder a novo processo criminal, o Juízo suscitado remeteu a execução ao Juízo suscitante.
+Pelo novo crime, art. 180, §§ 1º e 2º, do CP, resultou na condenação àpena de 4 anos e 9 meses de reclusão, em regime fechado.
+O Juízo suscitante não aceitou o envio da execução, ressaltando que a nova prisão não alteraria a competência e que não houve consulta prévia.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela declaração da competência do juízo suscitado.
+Em se tratando de conflito negativo de competência entre juízos submetidos a tribunais diversos, impõe-se o conhecimento do presente conflito, nos termos do art. 105, I, "d", da CF/88.
+Consoante relatado, a controvérsia refere-se àdefinição do juízo competente para prosseguir com a execução de pena imposta a Euler Sullivam Araújo Costa, condenado pelo juízo suscitado, que encaminhou os autos da execução penal para a comarca onde o apenado foi preso por novo crime.
+Sobre a questão, é firme o entendimento de que "O simples fato de o condenado ter sido preso em Comarca diversa em cumprimento de mandado de prisão expedido pelo Juiz prolator da sentença penal condenatória não constitui causa legal de deslocamento da competência originária para a execução da pena"(CC 156.747/BA, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 25/04/2018, DJe 11/05/2018).
+No mesmo sentido, destaca-se:
+PROCESSO PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL.MANDADO DE PRISÃO CUMPRIDO EM LOCALIDADE DIVERSA DO JUÍZO DA CONDENAÇÃO. COMPETÊNCIA PERMANECE COM O JUÍZO CONDENATÓRIO.POSSIBILIDADE DE FISCALIZAÇÃO PELO JUÍZO DO NOVO DOMICÍLIO POR MEIO DE CARTA PRECATÓRIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. "A Terceira Seção desta Corte Superior orienta-se no sentido de que o cumprimento do mandado de prisão do Apenado em Estado da Federação diverso daquele onde foi processado não implica deslocamento da competência, sendo aplicável o disposto no art. 65 da Lei de Execuções Penais, que consagra ser competente o Juiz indicado na lei local de organização judiciária ou, na sua ausência, o que proferiu a sentença condenatória. (CC 161.783/DF, Rel.Ministra LAURITA VAZ, TERCEIRA SEÇÃO, julgado em 28/11/2018, DJe 14/12/2018).
+2. Assim, " .. o simples fato de o condenado estar preso em Comarca diversa daquela competente para a execução da sentença, em cumprimento de mandado de prisão preventiva expedido por um terceiro Juízo, não constitui causa legal de deslocamento da competência originária para a execução da pena." (CC 148.926/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 28/09/2016, DJe 27/10/2016).
+3. Nada impede, porém, que, não obstante a competência do processo de execução permaneça sendo do juízo condenatório, seja expedida carta precatória à nova localidade em que o apenado está preso e possui laços familiares consolidados, para fins de fiscalização e supervisão do desconto da reprimenda, como ocorre no caso em apreço.Precedentes nesse sentido.
+4. Agravo regimental não provido.
+(AgRg no CC 166.472/RO, Rel. Ministro RIBEIRO DANTAS, TERCEIRA SEÇÃO, julgado em 09/10/2019, DJe 15/10/2019)
+Vale destacar que "a transferência da execução da pena não pode ser determinada de maneira unilateral: é necessária a prévia consulta ao juízo para o qual o sentenciado pretende ser transferido, notadamente a fim de se verificar a disponibilidade de vagas ou de condições adequadas para o cumprimento da reprimenda no sistema prisional local" (AgRg no CC 150.563/CE, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 2/10/2018), o que não ocorreu no caso.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais de Brasília/DF.
+Publique-se.
+Intimem-se.
