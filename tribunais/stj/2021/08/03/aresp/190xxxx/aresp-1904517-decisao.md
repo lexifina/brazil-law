@@ -1,0 +1,43 @@
+DECISÃO
+JAQUELINE PINHEIRO BRETTAS VALOSO E NEUZA MARIA APARECIDA MENDES (JAQUELINE e outra) ajuizaram ação monitória contra GRUPO PROTECT LTDA. (GRUPO) tendo por objeto contrato de prestação de serviços advocatícios.
+Foram opostos embargos monitórios.
+A sentença rejeitou os embargos monitórios e julgouprocedente o pedido monitório constituindo em título executivo o crédito do autor descrito na inicial, no valor de R$ 58.528, 67(cinquenta e oito mil quinhentos e vinte e oito reais e sessenta e sete centavos), o qual deverá ser atualizado com base na tabela da Corregedoria de Justiça do Poder Judiciário deste Estado, acrescido de juros de mora de 1,0% ao mês, ambos a partir dos pagamentos (e-STJ, fl. 240).
+GRUPO interpôs recurso de apelação apreciado pelo Tribunal estadual nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO MONITÓRIA - CONTRATO DE PRESTAÇÕES DE SERVIÇOS ADVOCATÍCIOS - AUSÊNCIA DE COMPROVAÇÃO DO SERVIÇO.
+A ação monitória é cabível quando o credor de determinada obrigação detém um crédito comprovado por documento hábil.
+Não demonstrada a prestação dos serviços pela parte autora, ônus que lhe incumbe nos termos do art.373, inciso I do CPC, afasta-se a pretensão requerida na inicial. O contrato isoladamente não comprova a prestação do serviço, muito menos o valor do débito, de modo que ele sozinho é inviável para dar sustentação a monitória(e-STJ, fl. 338).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 363/369).
+JAQUELINE e outra interpuseram recurso especial com base no art. 105, III,a, da CF, onde alegaram violação dos arts. 341, 373, I, 374, I e II, 700 do NCPC, pelos seguintes fundamentos (1) os serviços prestados pelas recorrentes foram amplamente abordados na petição inicial; (2) os serviços advocatícios prestados são fato incontroverso nos autos e não impugnado pelo recorrido; (3) não tendo o recorrido impugnado as alegações feitas na inicial, estas se presumem verdadeiras; (4) os requisitos da ação monitória foram atendidos conforme dispõe o art. 700, I, do NCPC.
+Foram ofertadas contrarrazões (e-STJ, fls. 406/429).
+O Tribunal de origem inadmitiu o apelo nobre por intempestividade, pois as recorrentes não comprovaram feriado local relativo à segunda-feira de carnaval.
+JAQUELINE e outra ingressaram com agravo em recurso especial sustentando que (1)a Resolução nº 458/2004, citada no Recurso Especial, e a Portaria Conjunta nº 1127/PR/2021, comprovam inequivocamente a existência do feriado local de carnaval; (2) o Tribunal local deveria ter aberto prazo para as recorrentes juntarem o comprovante, na forma do art. 932, parágrafo único; do NCPC.
+Foi apresentada contraminuta (e-STJ, fls. 477/481).
+É o relatório.
+DECIDO
+A irresignação nãomerece prosperar.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da tempestividade do recurso especial
+Nos termos do entendimento desta Corte, paraefeito de tempestividade, a prova do feriado local ou suspensão do expediente forense deve ser feita pela parte interessada por meio de documento idôneo, providência não atendida na hipótese. .
+A matéria foi apreciada recentemente pela Corte Especialquereafirmou o entendimento quanto à necessidade de comprovação nosautos de feriado local no ato de interposição do recurso interpostosob a vigência do NCPC.
+Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriado local restringe-se apenas ao feriado de segunda-feira de carnaval, em recursos interpostos até a data da publicação do acórdão mencionado - 18/11/2019 -, o que não é o caso dos autos, em que a intimação do acórdão recorrido se deu em 01/02/2021.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO INDENIZATÓRIA C/C DANOS MORAIS E MATERIAIS - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO ANTE A INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. INSURGÊNCIA DOS DEMANDADOS.
+1. É intempestivo o agravo em recurso especial interposto após o prazo de 15 (quinze) dias úteis, previsto nos artigos 219 e 1.003, § 5º, do CPC/15.
+1.1. Esta Corte Superior entende que a simples menção, no bojo das razões recursais, da ocorrência do feriado local não é meio idôneo para a comprovação da suspensão do prazo processual, a teor do art.
+1.003, § 6º, do CPC/15. Precedentes.
+1.2. Para efeito de tempestividade, a prova do feriado local ou suspensão do expediente forense deve ser feita pela parte interessada por meio de documento idôneo, providência não atendida na hipótese. Precedentes.
+1.3. A Corte Especial, no julgamento do ARESP 1.481.810/SP, afetado pela Quarta Turma, reafirmou o entendimento de que é preciso comprovar a ocorrência de feriado local no ato de interposição do recurso, nos termos do § 6º do artigo 1.003 do CPC/15. Portanto, para os recursos sujeitos aos requisitos de admissibilidade do referido diploma processual, não se admite a comprovação posterior da suspensão do expediente forense em decorrência de feriado local.
+1.4. Segundo a modulação de efeitos determinada pela Corte Especial no REsp 1.813.684/SP, a possibilidade de comprovação da ocorrência de feriado local restringe-se apenas ao feriado de segunda-feira de carnaval, em recursos interpostos até a data da publicação do acórdão mencionado, o que não é o caso dos autos.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1850890/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j.em 28/06/2021, DJe 01/07/2021 - sem destaque no original)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO. INCIDÊNCIA DO CPC DE 2015. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO.ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. A Corte Especial, ao interpretar os artigos 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Código, por maioria, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017).
+2. No julgamento do REsp 1.813.684/SP, a colenda Corte Especial delimitou que a orientação de comprovação do feriado local no momento da interposição do recurso especial deveria persistir para os feriados e suspensões de expedientes locais em geral, excetuando-se apenas a segunda-feira de carnaval, em relação à qual houve modulação de efeitos do julgado anterior, permitindo-se a comprovação a posteriori, quando se tratar de recursos interpostos no período entre a vigência do CPC de 2015 e a data da publicação do acórdão prolatado no mencionado recurso especial (REsp 1.813.684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe de 18/11/2019).
+Tal orientação foi confirmada na Questão de Ordem apresentada, subsequentemente, pela Ministra NANCY ANDRIGHI naquele REsp 1.813.684/SP e, na sequência, no julgamento do AgInt no AREsp 1.481.810/SP (Rel. p/ acórdão Ministra NANCY ANDRIGHI), não se estendendo a modulação sequer ao feriado de Corpus Christi.
+3. No caso, aplica-se a regra de inviabilidade de comprovação posterior do feriado local, nos termos do decidido no AgInt no AREsp 957.821/MS.
+4. Agravo interno improvido.(AgInt nos EAREsp 1354373/MS, Rel. Ministro RAUL ARAÚJO, Corte Especial, j. em 22/06/2021, DJe 01/07/2021 sem destaque no original)
+Nessas condições CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essadecisão, se declarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AÇÃO MONITÓRIA. AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
