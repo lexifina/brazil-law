@@ -1,0 +1,62 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SAMIRA ATALA ARABI LOPES e ALMIR LOPES DE OLIVEIRAfundamentado nasalíneas"a" e "c" do permissivo constitucional.
+Recurso especial interposto em:29/09/2020.
+Concluso ao gabinete em:10/12/2020.
+Ação:imissão na posse ajuizada proposta por ANTÉRIO MANICA e BERNADETTE MANICA em face dos recorrentes.
+Sentença:julgou parcialmente procedentes os pedidos paracondenar os recorrentes a pagar ao recorridostaxa de ocupação de 1% do valor do preço do leilão, com termo inicial da data da notificação para desocupação, 25/9/2018, e final a data da entrega das chaves, 05/03/2020, corrigido pelo INPC e com juros de mora de 1% doinadimplemento; e, b) condenar os recorrentes apagar taxas condominiais e encargos que recaiam ou venham a recair sobre o imóvel, a serem apurados em sede de liquidação de sentença.
+Acórdão:negou provimento à apelação dos recorrentes, nos termos da seguinte ementa:
+APELAÇÃO. CIVIL. PROCESSO CIVIL. IMISSÃO NA POSSE. NATUREZA PETITÓRIA. PROPRIEDADE CONSOLIDADA EM FAVOR DO CREDOR FIDUCIANTE. LEILÃO EXTRAJUDICIAL. ARREMATAÇÃO E REGISTRO. EFEITOS IMEDIATOS. AÇÃO ANULATÓRIA E REVISIONAL DE CONTRATO DE FINANCIAMENTO. SUSPENSÃO. CONEXÃO. AUSÊNCIA DE PREJUDICIALIDADE.
+1. Apelação contra sentença que condenou os réus ao pagamento, a título de taxa de ocupação do imóvel, de montante correspondente a 1% (um por cento) do valor de aquisição do imóvel em leilão, bem como de eventuais taxas condominiais e encargos relativos ao período de ocupação do imóvel, a serem apurado sem sede de liquidação de sentença
+2. A imissão na posse constitui ação de natureza petitória específica daquele que detém o domínio e pretende a posse do bem adquirido em face do alienante ou de terceiro que o detenha.
+3. O arrematante de imóvel em leilão extrajudicial, depois de operada a transcrição da carta de arrematação no Registro de Imóveis, tem direito à imissão na posse do bem. Precedentes.
+4. Os contornos da ação de imissão na posse impossibilitam o exame de nulidade afeta aos procedimentos de execução extrajudicial, devendo o vício, se existente, ser apurado em sede própria.
+5. A discussão acerca de eventual nulidade da execução realizada entre o alienante fiduciário e o devedor é matéria estranha ao comprador/arrematante de boa-fé, inexistindo prejudicialidade a amparar a conexão entre as demandas ou o sobrestamento da imissão na posse.
+6. Recurso conhecido e desprovido. (e-STJ fl. 374)
+Recurso especial: alegam, em síntese, que os recorridosarremataram o imóvel em debatepor um procedimento ilegal realizado pelo credor fiduciante BANCO BRADESCO S. A. Informam que ajuizaram ação revisional do contrato que firmaram com o BANCO BRADESCO S.A. poisverificaram que os valores calculados nas prestações estavam em desacordo com os percentuais pactuados, a qual se encontra em curso em fase de instrução na 4ª Vara Cível de Taguatinga-DF.
+Asseveram que, mesmo ciente da ação de revisão do contrato, o BANCO BRADESCO realizou três leilões sem cientificá-los das datas e no último leilão o imóvel foi arrematado pelos recorridos. Aduzemque ajuizaram ação anulatória do leilão pela arrematação ter sido realizada a preço vil.
+Afirmam que "pugnaram em contestação pela suspensão da Imissão na Posse e sua conexão às Ação Revisional (Processo No: 0010682-65.2016.8.07.0007) e Ação Anulatória (Processo No. 0701280-74.2020.8.07.0007) com vista em serem decididas em conjunto e, dessa forma, não gerarem decisões conflitantes uma vez que reconhecida a nulidade dos leilões e da arrematação, trará a consequência a improcedência da ação de imissão na posse". (e-STJ fl. 394)
+Aduzemque apesar do reconhecimento da prevenção da 4ª Vara Cível de Taguatinga, sustentam divergência jurisprudencial e queo Tribunal de origemviolouoart. 313, V, "a" do CPC/15 pois "a decisão terminativa concedeu um direito de propriedade ainda sendo questionado na via judicial, onde ambas as demandas estão sob a mesma jurisdição" (e-STJ fl. 403).
+Por fim, insurgem-se contra as demais condenações requerendo sua reforma "de modo que a ação retorne ao juízo singular e aguarde o momento de serem julgadas em conjunto como medida de justiça" (e-STJ fl. 404).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Do fundamento não impugnado e da divergência jurisprudencial
+Na hipótese em julgamento, o Tribunal de origem esclareceu que:
+Com efeito, infere-se da regra disposta no artigo 1.245 do Código Civil que a transferência da propriedade imobiliária se efetiva com a transcrição do título no registro de imóveis. Por sua vez, o §2ºdo mencionado artigo preconiza que se deve privilegiar o registro imobiliário como forma de aquisição da propriedade, garantindo-lhe plena e imediata eficácia.
+(..)
+Nessa senda, a arrematação do imóvel e seu registro na respectiva matrícula constituem atos jurídicos perfeitos, cujos efeitos são imediatos - sendo lícito aos apelados, legítimos proprietários, perseguir, por meio da ação em tela, a vinculação da posse à propriedade.
+Por outro lado, quanto à existência de ação que discute eventual nulidade da execução extrajudicial, ressalta-se a impossibilidade de se analisar, nos presentes autos questões relativas à anulatória e à revisional, pois estranhas aos autores.(e-STJ fl. 378)
+Os recorrentesnão impugnaramos aludidos fundamentos utilizados pelo TJDFT, razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+Além disso, o STJ possui orientação no sentido de que o art. 265, IV, "a" do CPC/73, atual 313, V, "a" do CPC/15 invocado pelos recorrentes, não impõe o sobrestamento de ação de imissão de posse enquanto se discute, em outra ação, a anulação dos atos de transferência do domínio. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.IMISSÃO NA POSSE. ALIENAÇÃO FIDUCIÁRIA. PROPRIEDADE. CONSOLIDAÇÃO.PREJUDICIALIDADEEXTERNA. MATÉRIA DE FATO. SÚMULA Nº 7/STJ. FUNDAMENTO. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA Nº 283/STF. SUSPENSÃO. INOCORRÊNCIA. PRECEDENTES.
+1. A ausência de impugnação específica de fundamento do acórdão recorrido atrai a aplicação da Súmula nº 283/STF.
+2. Na hipótese, a verificação daprejudicialidadeexterna demanda o reexame das circunstâncias fáticas dos autos, o que é defeso na instância especial. Súmula nº 7/STJ.
+3. Esta Corte traçou orientação no sentido de que o art. 265, IV, "a", do Código de Processo Civil/1973 não impõe o sobrestamento da ação de imissão de posse enquanto se discute, em outra demanda, a anulação de ato de transferência do domínio. Precedentes.
+4. Agravo interno não provido. (AgInt no AREsp 974.060/MS, 3ª Turma, DJe 27/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO NCPC. AÇÃO DE PROTESTO CONTRA ALIENAÇÃO DE BENS. DEFERIMENTO. ART. 265, IV, A, DO CPC. VIOLAÇÃO. INOCORRÊNCIA. ARTS. 867 e 869 do CPC/73. PREENCHIMENTO DOS REQUISITOS PARA DEFERIMENTO DA MEDIDA. REFORMA. SÚMULA Nº 7 DO STJ.
+1. Aplicabilidade do NCPC ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O STJ possui o entendimento de que a paralisação do processo em virtude deprejudicialidadeexterna não possui caráter obrigatório, cabendo ao juízo local aferir a plausibilidade da suspensão consoante as circunstâncias do caso concreto. Precedentes.
+3. Tendo a Corte de origem, com base no suporte fático da causa, decido pela desnecessidade da suspensão da ação cível enquanto se decide a ação penal em trâmite na 1ª Vara Criminal da Comarca de Santo Ângelo/RS, rever tal entendimento esbarra no óbice da Súmula nº 7 do STJ.
+4. A discussão acerca do preenchimento ou não dos requisitos necessários para o deferimento do protesto requerido enseja reexame dos fatos da causa, incindo, no ponto, o enunciado da Súmula nº 7 do STJ.
+5. Agravo interno não provido, com aplicação de multa. (AgInt no AREsp 846.717/RS, 3ª Turma, DJe 30/11/2017)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - AÇÃO DEIMISSÃO NA POSSEEANULATÓRIA - PREJUDICIALIDADEEXTERNA - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. O STJ possui entendimento consolidado no sentido de que "o art. 265, IV, "a", do CPC/73, não impõe o sobrestamento de ação de imissão de posse enquanto se discute, em outro feito, a anulação de ato de transferência do domínio" (REsp 108.746/SP, Rel. Ministro Carlos Alberto Menezes Direito, DJ 02.3.98). Precedentes: AgRg no REsp 1151040/RJ, Rel. Min. LUIS FELIPE SALOMÃO, Dje de 22/02/2012;
+AgRg no Ag 779.534/DF, Rel. Min. SIDNEI BENETI, DJe 07/05/2008; REsp 254458/RJ, Rel. Min. HUMBERTO GOMES DE BARROS, DJ 14/03/2005.
+2. Agravo interno desprovido" (AgInt no AREsp 348.873/RJ, 4ª Turma, DJe 01/08/2017).
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE IMISSÃO NA POSSE. DISCUSSÃO DA NULIDADE DO TÍTULO QUE TRANSFERIU O DOMÍNIO EM AÇÃO AJUIZADA EM FACE DE TERCEIRO. INEXISTÊNCIA DE PREJUDICIALIDADE EXTERNA. DESNECESSÁRIA A SUSPENSÃO DO PROCESSO E A REUNIÃO DOS FEITOS POR CONEXÃO. DECISÃO MANTIDA. RECURSO DESPROVIDO.
+1. A discussão sobre a nulidade do título que transferiu o domínio ao imitente, em ação anulatória ajuizada em desfavor de terceiro, não deve prejudicar o trâmite da ação de imissão na posse intentada pelo atual proprietário do imóvel. Isso, porque a demanda anulatória do ato de transferência do domínio não pode afetar a pretensão do proprietário de boa-fé e sem posse.
+2. Inexistindo identidade de objetos e causas de pedir entre as ações, é desnecessária a reunião dos feitos por conexão, na forma como exige o art. 103 do CPC/73.
+3. No âmbito estreito do recurso especial, não é possível contrastar a afirmativa do acórdão recorrido, quanto à boa-fé do atual proprietário e sua relação estranha à das partes envolvidas na ação anulatória, sob a argumentação de que ele tem relação com a outra lide e tinha conhecimento da prática ilícita de agiotagem. 4. Agravo interno não provido. (AgInt no no AgInt no AREsp 961.360/SP, 4ª Turma, DJede 13/11/2017)
+Assim, o acórdão recorrido alinhou-se à jurisprudência do STJ ao não suspender a ação tendo em vista que "comprovados os requisitos para a imissão de posse" (e-STJ fl. 380).
+Por fim, entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Portanto, a análise da existência do dissídio também é inviável, porque foram descumpridos os arts. 1.029, §1º do CPC/15 e255, § 1º, do RISTJ.
+Logo, o acórdão recorrido não merece reforma.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorridaem virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 11% sobre o valor da causa (e-STJ fl. 381) para 15%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a fixação das penalidades dos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL. AÇÃO DE IMISSÃO NA POSSE. AÇÃO DE REVISÃO E ANULATÓRIA. PREJUDICIALIDADE.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. HARMONIA DO ACÓRDÃO RECORRIDO COM A JURISPRUDÊNCIA DO STJ.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de imissão na posse ajuizada pelos recorridos em face dos recorrentes.
+2.A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+3. OSTJ possui orientação no sentido de que o art. 265, IV, "a" do CPC/73, atual 313, V, "a" do CPC/15 invocado pelos recorrentes, não impõe o sobrestamento de ação de imissão de posse enquanto se discute, em outra ação, a anulação dos atos de transferência do domínio. Precedentes.
+4.O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. Recurso especial parcialmente conhecido, e nessa extensão, não provido.
