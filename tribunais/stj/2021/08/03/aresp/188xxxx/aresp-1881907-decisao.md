@@ -1,0 +1,12 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. IPTU. VIOLAÇÃO DOS ARTS. 114, 116, 149, 170 E 173 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. SOLUÇÃO DADA PELO TRIBUNAL DE ORIGEM COM BASE NO REVOLVIMENTO FÁTICO-PROBATÓRIO.INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL DO MUNICÍPIO DE SÃO PAULO A QUE SE NEGA PROVIMENTO.
+1. Trata-se de Agravo interposto pelo MUNICÍPIO DE SÃO PAULO, fundado nas alíneasa e c do art. 105, III, da CF/1988, em face do acórdão proferido pelo TJ/SP, assim ementado:
+AGRAVO DE INSTRUMENTO Execução Fiscal Exceção de Pré-Executividade - IPTU Exercício de 2016 Alegado pagamento sobre contribuinte diverso do executado Inocorrência Pagamento realizado de acordo com a situação registrária à época - Matrículamatrizdesdobradaem04.03.2016 - A despeito de haver divergência entre o número do contribuinte, em decorrência de desmembramento do terreno, o certo é que restou demonstrado o regular pagamento do IPTU sobre o imóvel, o que afasta a cobrança em duplicidade do respectivo imposto, sob pena de ocorrência do bis in idem Decisão mantida. RECURSO NÃO PROVIDO.
+2. No Apelo, a parte recorrente alega violação dos arts. 114, 116, 149, 170 e 173 do CTN,aduzindo que aquestão debatida na lide, portanto, circunscreve-se ao novo lançamento do IPTU, desdobrando os contribuintes.
+3. Com contrarrazões (fls. 51/61), o recurso foi inadmitido na origem (fls. 62).
+4. É o relatório.
+5.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+6. Observa-se que o Tribunal de origem não apreciou o ponto referente à violação dos arts. 114, 116, 149, 170 e 173 do CTN. Tampouco, a matéria foi suscitada em sede de Aclaratórios, o que impede a sua apreciação na via especial, porquanto não preenchido o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+7. Ademais,o acolhimento das alegações deduzidas no Apelo atraia incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial interposto pelo MUNICÍPIO DE SÃO PAULO.
+9. Publique-se. Intimações necessárias.
