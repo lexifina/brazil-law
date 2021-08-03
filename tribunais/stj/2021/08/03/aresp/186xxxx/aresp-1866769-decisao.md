@@ -1,0 +1,64 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que JOSÉ SÍLVIO BEJEGA (JOSÉ) ajuizou ação de obrigação de fazer c/c indenização por danos morais com pedido de tutela antecipada contra S.P.A. SAÚDE - SISTEMA DE PROMOÇÃO ASSISTENCIAL(OPERADORA), alegando, em síntese, ser beneficiário e titular de plano de saúde oferecido pela OPERADORA e que, ao necessitar de atendimento,houve recusa para arealização de exame de ressonância multiparamétrica de próstata sob o argumento de não constar do rol da ANS.
+A ação foi julgada parcialmente procedente para tornar definitiva a tutela antecipada e condenar a OPERADORA na obrigação defazer consistente em autorizar e custear o exame médico pleiteado por JOSÉ, bem como pagar a indenização por dano moral no valor de R$ 5.000,00 (cinco mil reais), a ser atualizado desde a sentença, com juros de mora a partir da citação.
+Iniciado o cumprimento de sentença, o d. Juízo de primeira instância deferiu a aplicação de astreintes correspondente a quatro dias de atraso (R$ 5.000,00/dia), com correção monetária a partir do dano e juros de mora a partir da citação do cumprimento de sentença.
+Contra essa decisão interlocutória, a OPERADORAinterpôs agravo de instrumento sustentando, em síntese, que:
+1) foi intimada em 11/11/2016, uma sexta-feira, no final do expediente comercial; 2) considerando o prazo de 48 horas, deveria estar emitindo a respectiva autorização até 15/11/2016, uma vez que não há justificativa legal para que os prazos corram no final de semana; 3) foi emitida autorização em 14/11/2016 e de acordo com as alegações unilaterais do agravado, o exame não pode ser realizado no hospital indicado, motivo pelo qual foi emitida nova autorização em 16/11/2016; 4) restou incontroverso que não houve qualquer prejuízo ao agravado e não houve resistência da agravante em custear o medicamento solicitado; 5) não devem incidir juros sobre as astreintes,pois têm a mesma natureza processual, revelando-se verdadeiros bis in idem; 6) subsidiariamente, a multa deve ser reduzida para valor não superior a R$1.000,00 por dia, pois o valor se mostra elevado e desvinculado da obrigação que lhe deu causa (e-STJ, fl. 170 - com destaques no original).
+O agravo de instrumento interposto pela OPERADORA foi providopelo Tribunal Paulistanos termos do acórdão de relatoria da Desembargadora FERNANDA GOMES CAMACHO, assim ementado:
+OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. Decisão que deferiu a aplicação das astreintes correspondente a quatro dias de atraso (R$5.000,00/dia), com correção monetária e juros de mora. Inconformismo da executada. Prazo concedido para cumprimento da liminar (48 horas) que se mostra exíguo. Contagem do prazo que se dá em dias úteis. Obrigação cumprida em poucos dias. Finalidade da multa cominatória atingida. Ausência de danos à integridade física ou à saúde do autor. Multa afastada. Recurso provido (e-STJ, fl. 170).
+Os embargos de declaração opostos por JOSÉ foram rejeitados (e-STJ, fls. 527/531).
+Irresignado, JOSÉ interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação doart. 537 do NCPC e dissídio jurisprudencial, ao sustentar que a multa foi fixada em valor compatível, de acordo com os princípios da razoabilidade e proporcionalidade e inexistiu motivo justo para o descumprimento (e-STJ, fls. 176/192).
+Foram apresentadas as contrarrazões (e-STJ, fls. 537/543).
+O apelo nobre não foi admitido em virtude da (1) falta de demonstração da alegada vulneração ao dispositivo arrolado; e, (2) ausência de similitude fática entre os acórdãos paradigmas e o impugnado(e-STJ, fls. 544/546)
+Nas razões do presente agravo em recurso especial, JOSÉ afirmou que foi demonstrada detalhadamente a violação do dispositivo de lei federal, bem como a divergência jurisprudencial. No mais, repisou as razões do recurso especial(e-STJ, fls. 548/567).
+Foi apresentada contraminuta (e-STJ, fls. 570/574).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da incidência da Súmula nº 7 do STJ
+Insurgiu-se JOSÉ alegando a violação do art. 537 do NCPC e dissídio jurisprudencial sustentando que a multa foi fixada em valor compatível, de acordo com os princípios da razoabilidade e proporcionalidade,e inexistiu motivo justo para o descumprimento.
+Sobre o tema, o TJSP, avaliando o conjunto fático-probatório, bem como as peculiaridades do caso,consignou que não se justifica a condenação da OPERADORA ao pagamento damultadiária, tendo em vista o cumprimento da obrigação em prazo razoável. Confira-se:
+A liminar foi concedida em 10/11/2016, no sentido de determinar à ré que autorizasse a realização de exame de ressonância (fls. 45/46).
+Restou comprovado que a ré teve ciência da concessão da liminar em 11/11/2016, uma sexta-feira, às 17:50h, conforme cópia do ofício protocolado perante a instituição, acostado às fls. 48.
+Primeiramente, observa-se que o lapso de 48 horas imposto pelo Juízo deve ser contado em dias úteis, pois a obrigação de fazer consistiu em determinação judicial ordenada no processo, incidindo a regra prevista no art. 219, do Código de Processo Civil (e-STJ, fl. 171)
+ ..
+Outrossim, o fato do pedido do autor ter sido formulado em uma sexta-feira, no final do expediente, torna razoável a alegação de dificuldade de cumprimento da liminar pela ré, notadamente diante do curto prazo concedido (48 horas), que se mostra exíguo para tanto.
+Não obstante, restou comprovado que a ré cumpriu efetivamente a liminar em 17/11/2016 (fls. 50), ou seja, com apenas 2 dias de atraso.
+A despeito da pequena demora, o cumprimento da decisão ocorreu em prazo razoável, sobretudo considerando que não se tratava de procedimento urgente. Ademais, não há notícia de que tenha havido dano à saúde ou integridade física do autor, por essa pequena demora.
+Cumpre observar que as astreintes têm o escopo de compelir a ré ao cumprimento da decisão judicial, e não de obrigá-la ao pagamento da multa, mormente quando atingida a finalidade coercitiva, como no caso dos autos (e-STJ, fl. 172).
+ ..
+Portanto, considerando que as astreintes cumpriram sua finalidade cominatória, já que a decisão foi cumprida pela ré alguns dias depois da ciência, não há que se falar em condenação ao pagamento de multa (e-STJ, fl. 173).
+Assim, rever as conclusões quanto ao afastamento da multa diáriademandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO AGRAVO (ART. 1.042 DO CPC/15) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. É lícito ao magistrado, conforme autorizado pelo § 1º do artigo 537 do CPC/15, a requerimento da parte ou de ofício, alterar o valor e a periodicidade da multa, quando entender ser esta insuficiente ou excessiva. Precedentes do STJ.
+2. Aplicação do óbice da Súmula 7/STJ. A fixação das astreintes por descumprimento de decisão judicial se baseia nas peculiaridades da causa e o valor somente comporta revisão por este Tribunal Superior quando irrisório ou exorbitante, o que não ocorre na hipótese dos autos.
+3. Esta Corte de Justiça tem entendimento no sentido de que a incidência da Súmula 7/STJ impede o exame do dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.136.517/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j.22/05/2018, DJe 30/05/2018 - sem destaques no original)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. MULTA DIÁRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. COISA JULGADA E PRECLUSÃO.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 211/STJ. REPRESENTAÇÃO PROCESSUAL. DEFEITO. SÚMULA Nº 283/STF. ART. 475-J DO CPC/1973.MULTA. AUSÊNCIA DE INTIMAÇÃO. INAPLICABILIDADE. ASTREINTES. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Ausente o prequestionamento, até mesmo de modo implícito, de dispositivos apontados como violados no recurso especial, incide o disposto na Súmula nº 211/STJ.
+4. A falta de impugnação dos fundamentos do acórdão recorrido, mormente quanto ao defeito na representação processual, enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+5. A multa de 10% (dez por cento), prevista no artigo 475-J do Código de Processo Civil de 1973, depende do trânsito em julgado da sentença e da intimação da parte, por seu advogado, após a baixa dos autos à origem e a aposição do "cumpra-se" pelo juízo processante.
+Precedentes.
+6. Não há como rever o entendimento das instâncias ordinárias, para reconhecer devida a cobrança da multa diária, sem a incursão nos fatos e nas provas dos autos por esta Corte, procedimento vedado em recurso especial devido à incidência da Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.116.947/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 30/03/2020, DJe 704/2020 - sem destaques no original)
+É de se ressaltar que esta Corte firmou o entendimento de não ser possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c, do permissivo constitucional.
+Nesse sentido, veja-se o precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS C/C COMPENSAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. INOCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF.
+1. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+2. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+3. A incidência da Súmula 7 desta Corte, acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do permissivo constitucional.
+4. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+5. Tratando-se de valor arbitrado a título de indenização por danos morais, é incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos são distintos.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.692.173/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma,j. 30/11/2020, DJe 2/12/2020 - sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. RECUSA DE AUTORIZAÇÃO PARA REALIZAÇÃO DE EXAME. MULTA DIÁRIA AFASTADA. ALTERAÇÃO DO JULGADO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO ANTE A INCIDÊNCIA DE ÓBICE SUMULAR.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
