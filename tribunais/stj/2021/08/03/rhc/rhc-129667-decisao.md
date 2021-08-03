@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por EDUARDO ALMEIDA NUNES DE SIQUEIRA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Processo n. 0018779-03.2020.8.19.0000).
+O recorrente foi preso preventivamente, ante a suposta prática do delito previsto no art. 2º, caput e §§ 2º e 4º, da Lei n. 12.850/2013.
+Pleiteia que seja reconhecida a ilegalidade da prisão em razão do excesso de prazo para a formação da culpa. Diante isso,pugna pela concessão do relaxamento da prisãocom ou sem a aplicação de medidas cautelares alternativas.
+Requer a concessão da ordem e a imediata expedição do alvará de soltura para que possa responder ao processo em liberdade.
+O pedido de liminar foi indeferido às fls. 196-197.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso(fls. 212-228).
+É o relatório. Decido.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma:
+Inicialmente, registro que a legalidade e a necessidade da prisão preventiva do paciente já foram confirmadas por essa Colenda Câmara Criminal, em 10.09.2019, no julgamento do HC n.º 0041508-57.2019.8.19.0000, não se verificando, assim, qualquer alteração fático-jurídica que justifique a revisão desse entendimento, ainda que sob a alegação de excesso de prazo.
+Conforme se constata, a decisão que decretou a prisão preventiva do Paciente abarcou os motivos de fato e de direito para aplicação da medida extrema, descabendo exigir minuciosa individualização das condutas -a ser apurada durante a fase instrutória -uma vez consignado o papel desempenhado pelo réu na estrutura da organização (conforme a denúncia, o Paciente era o clonador de veículos e fornecedor de veículos oriundos de crime -roubados, furtados, clonados ou com adulteração de sinal identificador -para os demais membros da malta).
+Sob esse prisma, não se mostra aconselhável a flexibilização da custódia cautelar do paciente, tendo em vista a periculosidade que emerge do envolvimento em organização do tipo "milícia", que notoriamente vêm estabelecendo verdadeiro poder paralelo em várias regiões do Estado do Rio de Janeiro, subjugando a respectiva população mediante a prática de diversos delitos.
+No mais, não se pode deduzir o excesso tão somente pela soma aritmética dos mesmos, admitindo-se, em homenagem ao Princípio da Razoabilidade, certa variação, de acordo com as peculiaridades de cada caso, devendo o constrangimento ser reconhecido como ilegal somente quando o retardo ou a delonga sejam injustificados e possam ser atribuídos ao Judiciário, o que não ocorre no caso em comento.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 12/3/2019).
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
