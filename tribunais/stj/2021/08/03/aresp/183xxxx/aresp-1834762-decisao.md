@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por LAERTES JOSE PARANHOS SANTANA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região assim ementado (fls. 223):
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ATIVIDADE ESPECIAL. REQUISITOS LEGAIS. UMIDADE E AGENTES BIOLÓGICOS - NÃO COMPROVAÇÃO. ESPECIALIDADE NÃO RECONHECIDA. CONSECTÁRIOS DA SUCUMBÊNCIA. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. AJG. INEXIGIBILIDADE TEMPORÁRIA.
+1. Até 28-4-1995 é admissível o reconhecimento da especialidade do trabalho por categoria profissional; a partir de 29-4-1995 é necessária a demonstração da efetiva exposição, de forma não ocasional nem intermitente, a agentes prejudiciais à saúde, por qualquer meio de prova; e a contar de 6-5-1997 a comprovação deve ser feita por formulário-padrão embasado em laudo técnico ou por perícia técnica.
+2. De acordo com a 3ª Seção deste Tribunal Regional Federal, é possível o reconhecimento da especialidade do labor exercido sob exposição a agentes biológicos nocivos.
+3. A umidade excessiva é capaz de produzir danos a saúde do obreiro.
+4. A exposição eventual a agentes nocivos à saúde não permite o reconhecimento da atividade especial de acordo com as normas do Direito Previdenciário.
+5. Improvido o recurso da parte autora, majora-se a verba honorária, elevando-a para 15% sobre o valor da causa atualizado, consideradas as variáveis dos incisos I a IV do § 2º e o § 11, ambos do artigo 85 do CPC, suspendendo-se a sua exigibilidade temporariamente em face do benefício da assistência judiciária gratuita.
+Opostos embargos de declaração, foram rejeitados(fls. 242/247).
+Aponta o recorrente, além de divergência jurisprudencial, violação aoart. 57, §3º, da Lei 8.213/91, sustentandoque"até 28/04/1995 não é exigido o requisito da habitualidade e permanência, diante da previsão do art. 57, § 3º da Lei 8.213/1991, em sua redação original, bem como do princípio do tempus regit actum" (fl. 260).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta parcial acolhida.
+Com efeito, defende o recorrente que a exigência da habitualidade e permanência de exposição ao agente insalubre, para fins de reconhecimento do direito à contagem especial de tempo de trabalho,somente surgiu em 5/3/97, com a vigência da Lei 9.032/95, contudo, até então, bastava que a atividade fosse exercida em condições prejudiciais à saúde e integridade física do segurado.
+No caso, ao examinar o conjunto fático-probatório dos autos, a Corte de origem concluiu que, no período controverso, não ficou comprovado o exercício do labor em condições especiais, na medida que a exposição a agentes nocivos ocorria apenas de forma ocasional, conforme se observa do seguinte excerto (fl. 221):
+Conclusão: Não restou comprovada nos autos a especialidade do labor nos períodos. No primeiro período, de 1-7-1980 a 31-5-1985, a exposição à umidade era apenas ocasional, de acordo com o laudo, pois havia limpeza ocasional de captações e ETA; as atividades habituais não implicavam exposição à umidade (atendimento comercial, controle de entrega de faturas, leitura de medidores e controle de remessa de documentos via malote). No segundo período, de 1-10-1987 a 3-7-1989, o laudo indica que a exposição a agentes biológicos ocorria apenas ocasionalmente, durante atividade na área da elevatória de esgoto. Assim, não demonstrada que a exposição aos agentes era inerente à prestação do labor.
+Entretanto, esta Corte possui firme entendimento no sentido de que a exigência de habitualidade e permanência, para fins de reconhecimento de exercício de atividade especial, apenas veio a lume após a vigência da Lei n. 9.032/95.
+A propósito:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO DE TEMPO ESPECIAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Esta Corte firmou entendimento no sentido de que a permanência e a habitualidade da exposição a agentes nocivos à saúde são requisitos exigíveis apenas para as atividades exercidas a partir de 29.04.1995, quando entrou em vigor a Lei n. 9.032/95, que alterou a redação do art. 57, § 3º, da Lei n. 8.213/91.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Honorários recursais. Cabimento.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1.695.360/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 01/04/2019, DJe 03/04/2019)
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. EXPOSIÇÃO HABITUAL E PERMANENTE A AGENTES NOCIVOS EXIGIDA SOMENTE A PARTIR DA EDIÇÃO DA LEI 9.032/1995. SÚMULA 83/STJ EXPOSIÇÃO EFETIVA AO AGENTE DANOSO. REEXAME DE FORMULÁRIO DO INSS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Na hipótese dos autos, não é possível nova avaliação do formulário de PPP apresentado, porquanto tal providência demanda reexame do contexto fático-probatório, o que não se admite ante o óbice da Súmula 7/STJ.
+2. Todavia, conquanto reconhecida pelo Tribunal de origem a submissão da parte recorrente a agentes nocivos antes de 28/4/1995, aquela Corte decidiu por indeferir o pedido em razão de que nos documentos analisados há informação imprecisa sobre se tal submissão ocorreu de maneira contínua ou intermitente.
+3. A exigência de habitualidade e permanência da exposição sob agentes nocivos somente foi trazida pela Lei 9.032/1995, não sendo aplicável à hipótese dos períodos trabalhados até a edição do referido diploma legal.
+4. Dessarte, com razão a parte recorrente quanto à alegação de que não se pode exigir a habitualidade e permanência em relação a períodos anteriores a 28/04/1995, quando não existia no ordenamento jurídico a referida exigência.
+5. Agravo Interno parcialmente provido.
+(AgInt no AREsp 1.213.427/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/06/2018, DJe 16/11/2018)
+Assim, para fins de reconhecimento do direito à contagem especial de tempo de trabalho anterior à vigência da Lei 9.032/95, em5/3/97, não há aexigência da habitualidade e permanência de exposição ao agente insalubre, bastando, para tanto, a comprovação de que o exercício da atividade ocorria com exposição a agentes agressivos àsaúde e/ou àintegridade física do segurado.
+ANTE O EXPOSTO, dou parcial provimento ao recurso especial, em menor extensão ao pedido aduzido pela parte recorrente, a fim de que os autos retornem ao Tribunal de origem, para análise do caso à luz da jurisprudência do STJ, conforme fundamentação supracitada.
+Publique-se.
