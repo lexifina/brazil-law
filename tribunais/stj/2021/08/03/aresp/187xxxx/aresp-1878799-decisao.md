@@ -1,0 +1,58 @@
+DECISÃO
+LAURO HENRIQUE SALES BORGES (LAURO) propôs ação de indenização securitária contraMAPFRE VIDA S.A. (MAPFRE), objetivando o recebimento da indenização integral do seguro contratado.
+Em primeira instância, opedidofoijulgado procedente para condenar a MAPFRE no pagamento da importância equivalente a R$ 109.175,86 (cento e nove mil, cento e setenta e cinco reais e oitenta e seis centavos).
+Inconformada, MAPFRE apelou da sentença. O aresto encontra-se assim sintetizado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA - RELAÇÃO CONSUMERISTA - DIREITO DE INFORMAÇÃO - CIÊNCIA DO SEGURADO ACERCA DAS CLÁUSULAS CONTRATUAIS - NÃO COMPROVAÇÃO - EXPRESSÃO "ATÉ" INSUFICIENTE - VALOR INTEGRAL DEVIDO - PROVA DOCUMENTAL UNILATERAL - RECURSO CONHECIDO E DESPROVIDO. 1. A relação jurídica contratual estabelecida entre seguradora e segurado encontra-se amparada pelo Código de Defesa do Consumidor em que há obediência ao princípio basilar da boa-fé objetiva, com a finalidade de garantir a ação sem abuso, pautada na lealdade e do qual surgem múltiplos deveres conexos, como o dever de transparência, de informação e de cooperação. 2. Não tendo a seguradora demonstrado ter dado ciência ao segurado/autor sobre a tabela de graduação das lesões ou qualquer outra limitação contratual, deve prevalecer o valor integral da indenização prevista para a invalidez parcial permanente, conforme pleiteado na inicial. 3. Noutro vértice, a simples expressão "até", constante dos documentos apresentad os com a inicial, também é insuficiente para a conclusão de que o valor da indenização pode ser proporcional à lesão sofrida, mormente porque as cláusulas devem ser redigidas de maneira clara e objetiva, de forma a facilitar a compreensão do consumidor. 4. É insuficiente como meio de prova o documento trazido pela apelante para comprovar que o valor da indenização à época do acidente era menor que o disposto na inicial, posto que unilateral (e-STJ, fl. 538).
+Os embargos de declaração opostos pela MAPFRE foram rejeitados (e-STJ, fls. 588/594).
+Irresignada, MAPFREinterpôs recurso especial, com fundamento no art. 105, III, a e c, da Constituição Federal, alegando violação dos arts. 757 e 760, do CC/02 36 "b" do Decreto-Lei nº 73/66, ao sustentar que a SEGURADORA foi condenada ao pagamento de capital segurado na sua integralidade, quando pelo risco contratual somente seria devido o pagamento da parcialidade da verba indenizatória.
+As contrarrazões ao recurso especial foram apresentadas (e-STJ, fls. 633/641).
+O Tribunal de Justiça do Estado do Mato Grosso do Sul inadmitiu o apelo nobre diante da incidência da Súmula nº 7 do STJ.
+Nas razões do agravo em recurso especial, MAPFREaduziu que não se aplica, ao caso, a Súmula nº 7 do STJ.
+Acontraminutaao agravo em recurso especial foiapresentada(e-STJ, fls. 676/680).
+Em atendimento ao art. 1.042, § 4º, do NCPC, o Tribunal de Justiça do Estado do Mato Grosso do Sul manteve a decisão agravada (e-STJ, fl. 682).
+É o relatório.
+DECIDO.
+De início, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na Sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/15 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Do pagamento da indenização securitária
+No que se refere ao pagamento da indenização securitária de forma proporcional ao grau de invalidez, o Tribunal de Justiça do Estado do Mato Grosso do Sul concluiu que não houve informação clara à parte segurada sobre a cláusula restritiva de direito, como se pode ver dos excertos do acórdão recorrido:
+Na hipótese, como não há assinatura do autor em nenhum documento do seguro, conforme se infere daqueles acostados à contestação, não há dúvidas de que não tomou ciência acerca da existência da cláusula que continha previsão de pagamento proporcional da indenização.
+Registre-se, ademais, que, como os contratos nas relações de consumo devem ser analisados à luz do Código de Defesa do Consumidor, vigora a regra da inversão do ônus da prova e a interpretação mais benéfica de suas cláusulas em favor do consumidor-contratante.
+Os precedentes deste Tribunal seguem no sentido de que é direito do consumidor o conhecimento sobre o produto que está adquirindo, devendo as cláusulas contratuais serem interpretadas em seu benefício. E, não sendo dado destaque no contrato e consequente conhecimento ao consumidor de cláusula restritiva de direito, deve ser ela considerada como não escrita. E esse é o caso dos autos.
+ ..
+Com efeito, observa-se que é comum entre as seguradoras constarem da proposta de seguro que o segurado tomou ciência dos termos do contrato, quando isso, em verdade, dificilmente ocorre, sendo praxe a não entrega das condições gerais e termos contratuais aos segurados.
+A exemplo do que ocorre no presente caso (Exército), onde consta que o contrato está disponível em site da seguradora, porém entendo que tal não é suficiente para considerar que o segurado tenha conhecimento das cláusulas contratuais.
+Noutro vértice, a simples expressão "até", constante dos documentos apresentados com a inicial, a meu juízo, também é insuficiente para a conclusão de que o valor da indenização pode ser proporcional à lesão sofrida, mormente porque as cláusulas devem ser redigidas de maneira clara e objetiva, de forma a facilitar a compreensão do consumidor.
+Por fim, importante notar que é insuficiente como meio de prova o documento de f. 193, mencionado pela apelante para comprovar que o valor da indenização à época do acidente era R$ 78.620,76 e não aquele disposto na inicial, posto que unilateral.
+Registro que a apelante deveria ter trazido aos autos o certificado individual anterior aquela apresentado pelo autor às f. 19 ou a apólice do seguro constando referido valor, o que não aconteceu, sendo irrepreensível a sentença (e-STJ, fls. 541/543 - sem destaques no original)
+Pelo que se dessume dos autos, o acórdão recorrido fundamentou suas conclusões na interpretação do contrato e nas demais provas apresentadas nos autos, de forma que para se adotar conclusão diversa da que chegou o Colegiado Estadual seria inevitável o revolvimento do arcabouço fático-probatório carreado aos autos, da análise de cláusulas contidas nas condições gerais do ajuste e na apólice, procedimento sabidamente inviável na instância especial, a teor do que dispõem as Súmulas nº 5 e 7 desta Corte, a qual não pode ser considerada terceira instância recursal.
+A propósito, confiram-se os seguintes julgados:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. AÇÃO DE COBRANÇA SECURITÁRIA. COBERTURA POR INVALIDEZ PERMANENTE. REEXAME. SÚMULAS 5 E 7/STJ. DEVER DE INFORMAÇÃO. CDC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO DESPROVIDO.
+1. Reverter a conclusão do Colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento de cláusulas contratuais e do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+ ..
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso 4. Agravo interno desprovido.
+(AgInt no AREsp 1.714.312/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 8/2/2021, DJe 12/2/2021 - sem destaques no original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. SEGURO DE VIDA EM GRUPO. COBERTURA. CLÁUSULA RESTRITIVA. ALEGADA ABUSIVIDADE E VIOLAÇÃO AO DEVER DE INFORMAÇÃO. SÚMULAS 5 E 7 DO STJ.
+1. O acolhimento da pretensão recursal exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como a interpretação de cláusulas contratuais, atraindo o óbice das Súmulas 5 e 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.851.265/SC, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 25/5/2020, DJe 1º/6/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. SEGURO DE VIDA. COBERTURA SECURITÁRIA. INVALIDEZ. REVISÃO. ANÁLISE DE CLÁUSULAS CONTRATUAIS. INOBSERVÂNCIA. SÚMULA Nº 5 DO STJ. REJULGAMENTO DA CAUSA. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+ ..
+4. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 1.305.175/SP, de minha relatoria, Terceira Turma, j. 1º/10/2018, DJe 3/10/2018 - sem destaques no original)
+Do alegado dissídio jurisprudencial
+No que se refere ao suscitado dissídio jurisprudencial, tem-se que a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado também pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+A propósito, veja-se o seguinte julgado:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO. DANO MORAL AMBIENTAL. CERCEAMENTO DE DEFESA. LIVRE CONVENCIMENTO. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. CONFIGURAÇÃO DOS DANOS MORAIS. REEXAME DE PROVAS. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL APOIADO EM FATOS AGRAVO INTERNO NÃO PROVIDO.
+ ..
+4. No que se refere ao dissídio jurisprudencial, há que se registrar que consoante iterativa jurisprudência desta Corte, a incidência da Súmula nº 7 do STJ impede o conhecimento do recurso lastreado também pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.400.292/SP, de minha relatoria, Terceira Turma, j. 9/3/2020, DJe 11/3/2020 - sem destaques no original)
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art. 253 do RISTJ (com a nova redação que lhe foi dada pela emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para NÃOCONHECER do recurso especial.
+MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em favor de MAPFRE, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO. INVALIDEZ. INDENIZAÇÃO. PAGAMENTO DE DIFERENÇA. AUSÊNCIA DE COMPROVAÇÃO DE INEQUÍVOCA CIÊNCIA DA PARTE SEGURADA EM RELAÇÃO ÀS CLÁUSULAS CONTRATUAIS LIMITATIVAS. REFORMA. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO.SÚMULAS NºS 5 E 7 DO STJ.DISSÍDIO APOIADO EM FATOS. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
