@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por LUCAS MARTINS MATOS contra acórdão do Tribunal de Justiça do Estado do Pará (HC n. 0800086-39.2021.8.14.0000).
+O recorrente teve a prisão em flagrante convertida em preventiva e foi denunciado por suposta prática do delito descrito no art. 157, §§ 2º, II, e 2º-A, I, do Código Penal.
+O decreto prisional fundou-se na garantia da ordem pública. Impetrado writ na origem, a ordem foi denegada.
+O recorrente alega está sendo vítima de constrangimento ilegal, pois não houve a devida análise do enquadramento do caso em medidas cautelares diversas da prisão.
+Ressalta primariedade, ausência de antecedentes criminais e residência fixa como bons predicados.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura e a substituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 105-106.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso em habeas corpus (fls. 139-146).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo:
+Ao se examinar o fragmento supratranscrito, vê-se que a autoridade coatora expôs devidamente às razões de seu convencimento para negar ao paciente o direito de recorrer em liberdade, mormente pelo fato de ter sido preventivamente preso pela prática de crime grave, e nessa condição permaneceu durante toda a instrução, sendo condenado pela prática do delito previsto no art. 157,§ 2º II e § 2º-A, I, do CP, à pena fixada em 09 (nove) anos e 02 (dois) meses de reclusão, em regime inicial fechado, especialmente por persistirem os requisitos autorizadores da prisão cautelar, não havendo fato novo que justificasse a sua liberdade. Não há, pois, razão para se falar em ilegalidade da prisão preventiva, que foi mantida na sentença condenatória.
+ ..
+No que se refere à aplicação de cautelares substitutivas da prisão preventiva, entendo que não há como se acolher tal pleito, uma vez que restou demonstrada a necessidade da segregação cautelar, nos termos do art. 312, do CPP, conforme já decidiu este e. Tribunal, in verbis:
+" ..  incabível a substituição da prisão preventiva por uma das medidas cautelares, quando a custódia do paciente foi plenamente fundamentada pelo Juízo a quo na garantia da ordem pública  .. ". (TJPA. Câmaras Criminais Reunidas, Acórdão nº103236, Habeas Corpus. Processo nº: 2011.3.023318-7, Rel. Des. Vânia Lúcia Silveira, julg.12/12/2011, pub. 09/01/2012).
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, o Tribunal de origem entendeu que eventuais condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ, conforme se extrai dos seguintes julgados: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma DJe de 2/9/2020.
+Ante o exposto, com base no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus .
+Publique-se. Intimem-se.
