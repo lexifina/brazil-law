@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário constitucional emhabeas corpusinterposto por LUCIANO MACHADO MARTINS - em poder de quem foram apreendidos mais de 2kg de maconha-, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul nos presentes autos, tombados na origem como HC n. 0066663-23.2020.8.21.7000.
+Colhe-se nos autos que a prisão processual do Paciente foi iniciada com o flagrante em 26/05/2020, convertido em preventiva no dia seguinte (fl. 58).
+No acórdão ora impugnado, a segregação foi mantida, conforme a deliberação de seguinte ementa (fl. 96):
+"HABEAS CORPUS. TRÁFICO DE DROGAS MAJORADO.PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. CONVERSÃO DE PRISÃO EM FLAGRANTE EM PREVENTIVA. DECISÃO ADEQUADAMENTE FUNDAMENTADA. RISCO CONCRETO À ORDEM PÚBLICA.
+A questão atinente ao envolvimento - ou não - do paciente com os crimes que lhe são imputados, ventilada pelo impetrante, não é passível de exame na via estreita do habeas corpus , de sumária cognição.
+Possuindo a prisão preventiva natureza processual, mostrando-se diversa, portanto, daquela decorrente de decisão condenatória, revela-se anódina, em se tratando de segregação cautelar, discussão acerca da pena a ser imposta a final.
+Cuida-se o tráfico de drogas de crime grave. E a repercussão social dele decorrente, quer no âmbito da saúde pública, quer na esfera da criminalidade - potencializada pelo uso e pelo comércio de substâncias entorpecentes - está a evidenciar concreto risco à ordem pública a tornar necessária a prisão preventiva e obstar a aplicação das medidas cautelares a que alude o art. 319 do Código de Processo Penal.
+Segregação cautelar devidamente fundamentada, fundada nas circunstâncias em que se deu a prisão, restando apreendida vultosa quantidade de droga (no total, 2,269kg de maconha), além de expressivo numerário, fracionado em cédulas de pequeno valor e munições, em poder do paciente.
+ORDEM DENEGADA."
+Em suas razões, alega o Recorrenteque"não há o que se negar quanto a materialidade do delito, entretanto é incerta a autoria, não podendo  ..  sofrer com a restrição de sua liberdade por algo que nem sequer concorreu" (fl. 116); que "a decisão atacada discorre apenas sobre a gravidade abstrata do crime, podendo ser enquadrada a qualquer pessoa que incorra neste delito, visto que não há qualquer menção acerca da conduta em si do paciente ou eventual periculosidade demonstrada do mesmo" (fl. 117); que seus predicados impõem o reconhecimento da ilegalidade da segregação; e que em caso de eventual condenação, sua pena seria mais branda que medida gravosa a que está submetido.
+Requer-se, liminarmente e no mérito, seja determinada a soltura do Paciente, com ou sem aplicação de medidas cautelares diversas da prisão.
+Todavia, em consulta ao site oficial da Corte estadual na internet, constatei que, nos Autos n.2.20.0003438-0, o Juiz de primeiro grau, em 18/12/2020, concedeu liberdade provisória ao Recorrente e determinou a expedição de alvará de soltura. Desse modo, solto o Acusado, verifica-se a satisfação da pretensão defensiva.
+Ante o exposto, em razão da ausência superveniente de interesse processual, JULGO PREJUDICADO o pedido recursal, com fundamento no art. 34, inciso XX, c.c. os arts. 209 e 246, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO CONSTITUCIONAL EM HABEAS CORPUS. PRISÃO PREVENTIVA. POSTERIOR SOLTURA DO RECORRENTE. PRETENSÃO DEFENSIVA SATISFEITA EM PRIMEIRO GRAU. AUSÊNCIA SUPERVENIENTE DE INTERESSE. PEDIDO RECURSAL PREJUDICADO.
