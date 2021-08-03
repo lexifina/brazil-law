@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Tiago Geronimo de Medeiros - condenado pela prática do crime de tráfico de drogas -, em que se aponta como órgão coator o Tribunal de Justiça de Santa Catarina (Apelações Criminais n. 2008.008444-0, n. 2013.050780-3 e n. 0035612-41.2012.8.24.0064).
+Busca-se, na presente impetração, em suma (fls. 9/10):
+ ..  a cassação da decisão de primeira instância dos processos n. 0018937-13.2006.8.24.0064, 0006689-39.2011.8.24.0064 e 0035612-41.2012.8.24.0064, do juízo de primeiro grau e a decisão proferida em sede de Apelação Criminal (ato coator anexo) do TJ-SC, concedendo-se ao Paciente o afastamento da reincidência gerado em decorrência do processo 0018937-13.2006.8.24.0064 (posse de drogas para consumo pessoal)e consequentemente refeita uma nova dosimetria penal, afastado a reincidência nos Autos n. 0006689-39.2011.8.24.0064e 0035612-41.2012.8.24.0064;
+ ..  aplicação do § 4º do Artigo 33 da Lei 11.343/06, referente ao processo nº 0006689-39.2011.8.24.0064, haja vista, primariedade à época da condenação, deixando de ser aplicado tão somente pela "reincidência" do paciente;
+ ..  comunicação ao Juízo da Execução Autos n. 0009035-55.2014.8.24.0064, para proceder a retificação do cálculo de pena do Paciente de forma a considerar a primariedade nos autos 0006689-39.2011.8.24.0064 e 0035612-41.2012.8.24.0064.
+Requer-sesustar a decisão do TJSC e realizar nova dosimetria da pena, afastando a reincidência dos Autos n. 0006689-39.2011.8.24.0064 e 0035612-41.2012.8.24.0064 (fl. 7).
+Intimação do impetrante para esclarecimento (fl. 110), commanifestação à fl. 112.
+Liminar indeferida (fls. 115/116) einformações prestadas (fls. 122/259 e 270/273), o Ministério Público Federal, na pessoa daSubprocuradora-Geral da RepúblicaMônica Nicida Garcia,exarou parecer assim ementado(fl. 263):
+HABEAS CORPUS SUBSTITUTIVO. TRÁFICO DE DROGAS E POSSE ILEGAL DE ARMA DE FOGO, COM NUMERAÇÃO SUPRIMIDA. DOSIMETRIA. AGRAVANTE DA REINCIDÊNCIA. USO DE ENTORPECENTES. DESPROPORCIONALIDADE. PRECEDENTES. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. MATÉRIA NÃO ANALISADA NA ORIGEM. INDEVIDA SUPRESSÃO DE INSTÂNCIA.
+1. É pacífica a jurisprudência no sentido de que não deve ser conhecido o habeas corpus impetrado como substitutivo de recurso, cabendo, porém, a verificação da existência de flagrante ilegalidade que justifique a concessão da ordem, de ofício.
+2. O prévio apenamento por porte de droga para consumo próprio, nos termos do artigo 28 da Lei de Drogas, não constitui causa geradora de reincidência ou maus antecedentes, em razão da sua desproporcionalidade.
+3. O Superior Tribunal de Justiça não atua como terceira instância, sendo imprescindível o prévio exame da matéria levada em sede recursal, sob pena de incorrer em indevida supressão de instância.
+4. Parecer pelo não conhecimento do habeas corpus, mas pela concessão parcial da ordem, de ofício, apenas para afastar a agravante da reincidência.
+É o relatório.
+Inicialmente, observo que o presente writ é substitutivo de revisão criminal, porquanto impetrado contra acórdão proferido no âmbito de apelação criminal, já transitado em julgado (fl. 272).
+Ora, nos termos da jurisprudência desta Corte, se o habeas corpus foi impetrado contra acórdão do Tribunal de Justiça  ..  transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seuspróprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido (HC n.288.978/SP, da minha relatoria, rel. p/ acórdão MinistroRogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Todavia, constato a existência de constrangimento ilegal passível de sersanadode ofício.
+Com efeito, estoude pleno acordo com o parecer do Ministério Público Federal, cujas razões passo a adotar (fls. 265/268):
+2. O presente habeas corpus foi indevidamente impetrado como substitutivo de revisão criminal, não merecendo, por isso, ser conhecido.
+Realmente, é pacífica a jurisprudência desse c. STJ, inclusive na esteira de decisões do STF, no sentido de que o habeas corpus não deve ser admitido quando houver recurso legalmente previsto contra a decisão impugnada, como ocorre, no presente caso.
+De outra parte, é também tranquilo o entendimento de que, caso se constate manifesta e flagrante ilegalidade, deve ela ser afastada, por meio da concessão da ordem, de ofício.
+No caso em tela, de fato, verifica-se haver ilegalidade que merece ser afastada por meio da concessão da ordem, de ofício, como se passa a demonstrar.
+III - DO MÉRITO
+3.1. Conforme se observa da sentença proferida nos autos da ação penal n.º 0006689-39.2011.8.24.0064/SC, o magistrado de primeiro grau agravou a pena do paciente, ao argumento de que "o acusado possui condenação pela prática do crime tipificado no artigo 16, caput, da Lei n. 6.368/1976 transitada em julgado em 13 de agosto de 2008 (fl. 32), pela qual a pena corporal deve ser majorada em 1(um) ano." (fl. 34).
+Já na ação penal n.º 0035612-41.2012.8.24.0064/SC, o magistradode primeiro grau, de igual forma, agravou a pena do paciente, ao argumento de que "faz-se presente a agravante da reincidência (art. 61, I, do CP), possuindo o réu condenação imposta nos autos n. 0018937-13.2006.8.24.0064 (f. 244), razão pela qual fixo a pena intermediária em 06 anos e 06 meses de reclusão (..)." (fl. 87).
+Ocorre que a condenação referente à ação penal n.º 0018937-13.2006.8.24.0064/SC (064.06.018937-5) diz respeito à prática de uso de entorpecentes (fls. 14/19), não justificando o agravamento da pena, em razão da sua desproporcionalidade.
+De fato, essa é a nova orientação que vem sendo adotada por esse c. STJ, já consolidada na Sexta Turma e com precedentes na Quinta, a partir do julgamento do RESP 1.672.654/SP, ocorrido em 21/08/2018, sob a relatoria da Ministra Maria Thereza de Assis Moura, em acórdão assim ementado:
+ ..
+Com efeito, "As Turmas da Terceira Seção do Superior Tribunal de Justiça, em recentes julgados, têm decido ser desproporcional o reconhecimento da agravante da reincidência decorrente de condenação anterior pelo delito do art. 28da Lei n. 11.343/2006 (HC n. 535.785/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 16/12/2019). Afastada a agravante da reincidência. Precedentes." (STJ, AgRg no HC 453.727/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/02/2020, DJe 28/02/2020).
+Assim, não há dúvidas quanto à existência de manifesta ilegalidade, nesse ponto, justificando a excepcional concessão da ordem, de ofício.
+3.2. Por outro lado, melhor sorte não assiste ao paciente, no tocante ao pleito de reconhecimento do tráfico privilegiado, uma vez que essa matéria nem sequer foi arguida ou examinada na origem, conforme se observa dos acórdãos recorridos (fls. 38/61 e 92/104), impossibilitando qualquer exame por parte dessa Corte Superior, sob pena de incorrer em indevida supressão de instância.
+Ora, "O pedido de reconhecimento do tráfico privilegiado, além deter sido deduzido sem fundamentação alguma, não foi objeto de debate na Corte de origem, o que impede a sua análise diretamente no Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedente." (STJ, HC 406.954/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/10/2017, DJe11/10/2017).
+IV - CONCLUSÃO
+4. Com estas considerações, manifesta-se o Ministério Público Federal pelo não conhecimento do habeas corpus, mas pela concessão parcial da ordem, de ofício, apenas para afastar a agravante da reincidência.
+Nesse mesmo sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS.DOSIMETRIA. CONDENAÇÃO TRANSITADA EM JULGADO POR POSSE DE DROGAS PARA CONSUMO PRÓPRIO (ART. 28 DA LEI N. 11.343/2006). MAUS ANTECEDENTES E REINCIDÊNCIA. NÃO CONFIGURAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo orientação desta Corte, " a s condenações transitadas em julgado pelo crime do art. 28 da Lei n. 11.343/2006 não podem ser utilizadas para fundamentar os maus antecedentes do sentenciado" (AgRg no AgRg no AREsp 1.605.930/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2020, DJe 13/05/2020).
+2. Agravo regimental desprovido.
+(AgRg no REsp n. 1.909.074/MG, Ministra Laurita Vaz, Sexta Turma,DJe 30/6/2021 - grifo nosso)
+Ante o exposto, nos termos do parecer ministerial,nãoconheçodo habeas corpus, e, de ofício,concedo parcialmente a ordem a fim de determinar que o Juízoda execuçãoafaste a agravante dareincidência do cálculo da pena imposta ao pacientenas açõespenais referentes aos presentes autos.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS.ACÓRDÃO DA APELAÇÃO JÁ TRANSITADO EM JULGADO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL. NÃO CONHECIMENTO. CONSTRANGIMENTO ILEGAL VERIFICADO DE OFÍCIO.DOSIMETRIA DA PENA. REINCIDÊNCIA. CONDENAÇÃOPOR USO DE DROGAS. IMPOSSIBILIDADE. PARECER MINISTERIAL ACOLHIDO.
+Writ nãoconhecido. Ordem parcialmente concedida, de ofício.
