@@ -1,0 +1,11 @@
+DECISÃO
+Em razão da denegação da ordemno HC n. 2001582-69.2021.8.26.0000 (fls. 18/26) pelo Tribunal de Justiça deSão Paulo, impetrou-se estewrit, no qual se postula a imediata revogação da prisão preventivade Antônio Fernando Paes de Castro -preso em 9/12/2020 pela prática, em tese, dos crimes descritos no art. 121, § 2º, IV, c/c o art. 14 (vítima Márcia); art. 129, caput, por duas vezes (vítimas Klyvania e Emanuel); art. 163, caput, na forma do art. 69, todos do Código Penal - para que possa aguardar em liberdade o julgamento daAção Penaln. 1525859-41.2020.8.26.0228, em trâmite perante a 3ª Vara do Júrida comarca de São Paulo/SP, aos argumentos, em resumo, de ausência dos requisitos legais autorizadores da custódia cautelar previstos no art. 312 do Código de Processo Penal, de absoluta falta de fundamentação e justa causa para a decretação da medida constritivae da desnecessidade da referida segregação, ante as condições pessoais favoráveis do ora paciente -possui residência fixa, ocupação lícita, ostenta bons antecedentes, é primário, tem família constituída epossui curso superior (fl.7).
+Liminar indeferida (fls. 207/208).
+Prestadas informações (fls. 212/235 e 271/273), o Ministério Público Federal opinou pela denegação da ordem (fls. 276/278).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de origem dãoconta de que, em 30/4/2021, o Juízo de Direito da 3ª Vara do Júrida comarca de São Paulo/SPconcedeu ao ora paciente a liberdade provisória, mediante o cumprimento de condições, expedindo, na oportunidade, o alvará de soltura em seu favor,fato que esgota a pretensão contida na presente impetração, dada a alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NOS ARTS. 121, § 2º, IV, C/C O ART. 14 (VÍTIMA MÁRCIA), 129, CAPUT, POR DUAS VEZES (VÍTIMAS KLYVANIA E EMANUEL), 163, CAPUT, NA FORMA DO ART. 69, TODOS DO CP. PRISÃO PREVENTIVA. SUPERVENIENTE DECISÃO DO JUÍZO SINGULAR CONCEDENDO A LIBERDADE PROVISÓRIA, MEDIANTE O CUMPRIMENTO DE CONDIÇÕES. EXPEDIÇÃODE ALVARÁ DE SOLTURA. RELEVANTE ALTERAÇÃO DO CENÁRIO FÁTICO-PROBATÓRIO. PERDA DE OBJETO.
+Writ prejudicado.
