@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido de liminar interposto por FRANKLIN NORIVAL DOS SANTOS DE SOUZA contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0076313-94.2020.8.21.7000).
+O recorrente teve a prisão em flagrante convertida em preventiva, pela suposta prática dos delitos descritos nos arts. 157, § 2º, I, § 2º-A, I, 121, § 2º, II, e 180, caput, todos do Código Penal.
+O decreto prisional fundou-se na necessidade de garantia da ordem pública. Destacou-se a gravidade concreta das circunstâncias do delito -roubo de carga mediante uso de arma de fogo, com fuga e troca de tiros -, bem como o fato de que possivelmente integra organização criminosa. Impetrado writ na origem, a ordem foi denegada.
+O recorrente alega estarem ausentes os requisitos do art. 312 do CPP. Afirma que inexistem indícios de risco à aplicação da lei penal, à instrução criminal e à ordem pública e econômica com sua libertação.Destaca que possui residência fixa; concluiu cursos profissionalizantes; em sua CTPS, há registros de contratos de trabalho na função de auxiliar em oficina mecânica; nas horas livres, faz serviços com o guincho da família.
+Aduz ainda excesso de prazo para formação da culpa.
+Requer, liminarmente e no mérito, o relaxamento ou a revogação de sua prisão preventiva. Subsidiariamente, requer a revogação da preventiva com a aplicação de medidas cautelares diversas do cárcere, ou a concessão de prisão domiciliar.
+A liminar foi indeferida, nos termos da decisão de fls. 555-556.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso em habeas corpus (fls. 587-594).
+É o relatório. Decido.
+No que diz respeito à alegada ausência de requisitos ensejadores da preventiva e às alegadas condições pessoais favoráveis do recorrente,as questõesnão foramenfrentadas pela instância de origem, que entendeu ser mera reiteração de habeas corpus anteriormente analisado. Assim, o STJ não pode apreciar as matérias, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, nestes pontos, o recurso não merece conhecimento.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Desse modo, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 499-500):
+ ..  Como é sabido, os prazos processuais são considerados englobadamente, não tendo decorrido ainda mais tempo do que prevê a lei. Além disso, pequenos atrasos para a formação da culpa são concebíveis.
+Ainda, deve ser ressaltado que, embora seja apenas um réu, foram apurados cinco fatos, tendo sido a denúncia ofertada em 05/02/2019, e, mesmo com a discussão acerca da desclassificação do delito de homicídio na forma tentada para latrocínio tentado, a vítima, bem como todas as testemunhas, foram ouvidas em tempo hábil.
+Outrossim, como bem referido pelo ilustre representante do Ministério Público, a partir das informações prestadas pela autoridade coatora, após interposição do Recurso em Sentido Estrito e apresentação das contrarrazões, foi juntada a carta precatória de intimação pessoal do paciente, tendo sido efetuada a remessa dos autos para o Tribunal de Justiça em 17/06/2020. O feito, atualmente, aguarda o julgamento do recurso defensivo.
+Nesse sentido evidente que o andamento processual segue seu curso normal.
+Ademais, por mais importante que seja a existência dos prazos processuais, certo é que estes não podem ser tão-somente matematicamente considerados, sendo perfeitamente concebível a existência de pequenos atrasos na instrução, sobretudo em casos mais complexos, como o ora analisado.  ..
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,conheço em parte dorecurso ordinário em habeas corpus e, na parte conhecida, nego-lhe provimento.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
