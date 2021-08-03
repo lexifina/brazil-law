@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por CLAUDIO ALBERTO DA SILVA IUNG, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TJ/RS, assim ementado (e-STJ, fls. 2.092-2.108):
+"REVISÃO CRIMINAL. CÓDIGO PENAL. CRIMES CONTRAO PATRIMÔNIO. ART. 157, §39. LATROCÍNIO.ALEGAÇÃO DE NUL/DADE DA INTIMAÇÃO DASENTENÇA.
+É obrigação do réu manter atualizado o seuendereço nos autos. Certificado que estava emliberdade, e não localizado. Não é obrigação doJudiciário diligenciar para localizar o réu. Ainda que oprazo do edital de intimação da sentença, quedesclassificou a infração de crime contra a vida (art.121, § 2º, inc. V, mais art. 157, § 2º, inc. Ie II, CP)para crime patrimonial tenha marcado prazo de 20dias, não há nulidade a ser reconhecida. O prazoreferido no art. 392, § 1º, CPP se destina à sentençacondenatória. Ademais, depois da sentença dedesclassificação, todos os réus foram interrogados,presencialmente, de modo que inequívoco oconhecimento da desclassificação, e quandoproferida sentença condenatória, houve apelodefensivo, e nada foi alegado. Ausência dedemonstração de efetivo prejuízo. Nulidade afastada.
+PENA PRIVATIVA DE LIBERDADE.
+Sentença que apresentou detalhamento a respeitoda pena de reclusão, e que acabou sendo reduzidaem três anos e trezes no julgamento da apelação.Ausência de erro na aplicação da pena, pois presenteapenas diversidade na aferição quantitativa dascircunstâncias judiciais. E a revisão criminal não sepresta para rejulgamento.
+REVISÃO CRIMINAL IMPROCEDENTE. UNÂNIME".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 392, § 1º, e 420, I e parágrafo único, do CPP. Aduz para tanto, em síntese, que a falta de intimação quanto à decisão de desclassificação do delito causaria nulidade no processo primevo, porque não se tentou cientificá-lo no endereço que forneceu quando foi colocado em liberdade. Seria nula, assim, a intimação por edital.
+Com contrarrazões (e-STJ, fls. 2.159-2.163), o apelo nobre foi inadmitido na origem (e-STJ, fls. 2.166-2.169), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 2.223-2.232).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não ultrapassa o juízo de admissibilidade.
+Nenhum dos elementos fáticos narrados pelo recorrente para demonstrar a nulidade - quais sejam: o seu prévio encarceramento, a existência de endereço informado em outro processo judicial e o retorno ao cárcere durante o prazo de vigência do edital - se encontra prequestionado, porque o TJ/RS simplesmente não emitiu juízo de valor sobre qualquer deles.
+O acórdão recorrido, ao rejeitar a pretensão recursal, se fundamentou em quatro razões: (I) a regularidade do prazo do edital (que não é questionada pela defesa); (II) era obrigação do réu manter seu endereço atualizado; (III) houve ciência inequívoca da desclassificação; e (IV) inexistiria prova do prejuízo (e-STJ, fl. 2.105).
+Como se vê, nenhum dos argumentos fáticos utilizados pelo recorrente para se contrapor ao acórdão chegou a ser analisado pelo TJ/RS. Da forma como apresentadas as alegações recursais, seria necessário um profundo exame dos fatos e provas da causa para apreciá-las, e pior: esse exame teria de ser feito originariamente pelo STJ, em nítida supressão de instância, porque o Tribunal local não se pronunciou sobre qualquer dos elementos narrados pela defesa.
+Tampouco foram opostos embargos de declaração na origempara buscar o pronunciamento da Corte de origem sobre o tema. Destarte, a incidência das Súmulas 282 e 356/STF impede o conhecimento do recurso especial no ponto.
+Ressalte-se que, consoante o entendimento desta Corte Superior, mesmo as matérias de ordem pública exigem prequestionamento. Nesse sentido:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. NECESSÁRIO DEMONSTRAR PREJUÍZO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. NULIDADE. IRRELEVÂNCIA. NECESSIDADE DE PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE.
+I - A ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial impõe o não conhecimento do agravo em recurso especial.
+II - In casu, parte agravante deixou de infirmar, de maneira adequada e suficiente, as razões apresentadas pelo eg. Tribunal de origem para negar trânsito ao recurso especial com relação à incidência das Súmulas 282, 356 e 284, todas do STF.
+III - "A alegação de que seriam matérias de ordem pública ou traduziriam nulidade absoluta não constitui fórmula mágica que obrigaria as Cortes a se manifestar acerca de temas que não foram oportunamente arguidos ou em relação aos quais o recurso não preenche os pressupostos de admissibilidade" (AgRg no AREsp n. 982.366/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 12/03/2018).
+Agravo regimental desprovido".
+(AgRg nos EDcl no AREsp 1721960/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/10/2020, DJe 12/11/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
