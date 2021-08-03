@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por PERFIL LABORATÓRIO FOTOGRÁFICO LTDA. contra decisão monocrática por mim proferida, em que não conheci dorecurso especial(e-STJ fls. 265/267).
+A parte embargante sustenta haver falta de fundamentação eomissão no julgado prolatado ao entender que o caso enseja a aplicação da Súmula7 do STJ, porquanto a questão diz respeito, tão somente, à revaloração das provas, bem como em virtude da falta de análise quanto à multa de má-féaplicada pelo Tribunal de origem.
+Com isso, pleiteia que sejam acolhidos os aclaratórios com efeitos infringentes.
+Sem impugnação.
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Em relação ao primeiro ponto invocado nos embargos de declaração, não ocorreu nenhum dos vícios supracitados.
+Isso porque, de acordo com o mencionado no julgado recorrido, haveria a necessidade de revolvimento fático-probatório para entender o contrário da Corte local no tocante ao dever de indenizar pela parte contrária, motivo pelo qual houve a aplicação da Súmula7 desta Corte ao caso.
+Assim, não há nenhuma omissão, obscuridade, contradição ou falta de fundamentação neste ponto dadecisão.
+Contudo, em relação à alegação de omissão acerca da análise de ofensa ao art. 80 do CPC/2015, assiste razão à parte embargante.
+Quando da aplicação da multa de má-fé, o Tribunal de origem assim consignou (e-STJ fls. 217/219):
+(..)
+Em arremate, passo ao exame e análise da conduta processual de Perfil Laboratório Fotográfico Ltda.-EPP.
+Conforme dispunha o art. 17 da Lei n. 5.869/73, vigente à época, correspondente ao art. 80 do NCPC, reputa-se litigante de má-fé aquele que odeduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso, alterar a verdade dos fatos, usar do processo para conseguir objetivo ilegal,opuser resistência injustificada ao andamento do feito, provocar incidentes flagrantemente infundados, ou interpuser recurso com intento manifestamente protelatório.
+(..)
+Na espécie, é evidente que Perfil Laboratório Fotográfico Ltda.- EPP. intentou ação infundada, na medida em que ingressou em juízo após já ter recebido administrativamente da Liberty Seguros S/A, sua seguradora, o importe R$ 22.500,00 (vinte e dois mil reais) relativo ao conserto da unidade de impressão a laser de fotografias, modelo Noritsu QSS-3300, montante que, aliás, já ultrapassava o valor do efetivo prejuízo, orçado em R$ 18.500,00 (dezoito mil e quinhentos reais).
+E mesmo percebendo um lucro de R$ 4.000,00 (quatro mil reais),ainda assim o laboratório fotográfico apelante movimentou a máquina judiciária parao o seu bel prazer, almejando auferir outros R$ 37.816,44 (trinta e sete mil, o o oitocentos e dezesseis reais e quarenta e quatro centavos) - que por si jamais o foram pagos -, conduta que atenta à dignidade da Justiça, revelando a intenção de conseguir objetivo ilegal, para tanto alterando a verdade dos fatos.
+E justamente por isso deve ser condenada à pena por litigância demá-fé, conferindo-se eficácia ao art. 18 da Lei n. 5.869/73, com correspondência no art. 81 do NCPC (..).
+Dessa maneira, o acolhimento da pretensão nesse ponto, a fim de afirmar que não é cabível a aplicação da multa, fica obstado pelo enunciado da Súmula. 7 desta Corte, tendo em vista que seria necessário o revolvimento fático-probatório dos autos. Nessa linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA 284/STF. COMPROVAÇÃO DA CELEBRAÇÃO DO CONTRATO DE EMPRÉSTIMO CONSIGNADO E LIBERAÇÃO DE VALORES EM FAVOR DO AGRAVANTE. LITIGÂNCIA DE MÁ-FÉ. SÚMULA 7/STJ.PRECEDENTES. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre, exarada na eg. Instância a quo.
+2. No caso, o Tribunal de Justiça, com base no acervo fático-probatório carreado aos autos, concluiu não configurados os danos morais, em virtude de ter sido comprovada a validade da relação jurídica entre as partes, pois os documentos apresentados pelo recorrido fazem prova da contratação de empréstimo, além de não ter ocorrido nenhum desconto, no benefício previdenciário da parte autora, oriundo do contrato em comento.
+3. A pretensão de alterar tal entendimento demandaria reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, a teor da Súmula 7/STJ.
+4. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que "o simples fato de haver o litigante feito uso de recurso previsto em lei não significa litigância de má-fé" (AgRg no REsp 995.539/SE, Terceira Turma, Rel. Min. NANCY ANDRIGHI, DJe de 12/12/2008). "Isso, porque a má-fé não pode ser presumida, sendo necessária a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo, nos termos do art. 80 do Código de Processo Civil de 2015" (EDcl no AgInt no AREsp 844.507/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/10/2019, DJe de 23/10/2019).
+5. Na hipótese, a Corte estadual aplicou a sanção pela litigância de má-fé, tendo em vista a conduta maliciosa da parte recorrente, traduzida na propositura da presente demanda, em evidente tentativa de locupletamento ilícito sustentando uma fraude inexistente, de modo a denotar efetivamente a deslealdade processual. A revisão desse entendimento fica obstada pela Súmula 7/STJ.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1647493/MS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 31/08/2020, DJe 23/09/2020).
+Ante o exposto, ACOLHO PARCIALMENTE, SEM EFEITOS INFRINGENTES, os embargos de declaração.
+Publique-se. Intimem-se.
