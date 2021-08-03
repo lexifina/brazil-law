@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de Recurso em Mandado de Segurança, com pedido de efeito suspensivo, interposto por EDVALDO JOSÉ DA CUNHA, em 03/03/2021 (fl. 988e), contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"MANDADO DE SEGURANÇA. ANULAÇÃO DE ATO ADMINISTRATIVO. PRELIMINARES. ILEGITIMIDADE PASSIVA DO GOVERNADOR DO ESTADO DE MINAS GERAIS. INCOMPETÊNCIA DA JUSTIÇA COMUM. REJEIÇÃO. DEMISSÃO DE POLICIAL MILITAR. PROCEDIMENTO ADMINISTRATIVO REGULARMENTE CONDUZIDO. OBSERVÂNCIA DO CONTRADITÓRIO E DA AMPLA DEFESA. NOTIFICAÇÃO QUANTO À DECISÃO DO RECURSO ADMINISTRATIVO. INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO. LIMINAR REVOGADA. EFEITOS RETROATIVOS. SÚMULA 405 STF. ORDEM DENEGADA.
+- O Governador do Estado de Minas Gerais tem competência privativa para aplicação da pena de demissão a servidor público estadual, vinculado ao Poder Executivo (art. 90, III, CE/89).
+- De acordo com a interpretação do Supremo Tribunal Federal em relação ao artigo 125, § 4º, da Constituição da República, no julgamento do Agravo no Recurso Extraordinário nº 691.306 - MS, com repercussão geral, é competente a Justiça Comum Estadual para julgar infração disciplinar militar.
+- Deve ser descartada a alegação de irregularidade no Procedimento Administrativo Disciplinar que tramitou regularmente, sendo o servidor intimado de todos os atos levados a efeito, restando garantida a apresentação de defesa prévia e a produção de provas, colhendo-se o seu depoimento, as declarações das testemunhas por ele apresentadas, tudo com observância dos princípios do contraditório e da ampla defesa.
+- Quanto à ausência de ciência dos motivos pelos quais o recurso administrativo fora negado, após as informações prestadas pelas autoridades, que, por emanarem de agente público têm presunção de veracidade e legitimidade (STJ, AgRg no HC 553.388/SP, DJe 13/03/2020), ficou demonstrado que o impetrante recusou o recebimento da notificação, tendo sido a mesma recebida pelo advogado e encaminhada via e-mail ao advogado do impetrante, anexada a documentação referente ao resultado do recurso, assegurando-lhe pleno acesso aos documentos que ensejaram sua demissão.
+- Consoante disposto na Súmula 405 do Supremo Tribunal Federal, "Denegado o mandado de segurança pela sentença, ou no julgamento do agravo dela interposto, fica sem efeito a liminar concedida, retroagindo os efeitos da decisão contrária".
+- Segurança denegada, com revogação da medida liminar, operando-se efeitos "ex-tunc"" (fl. 683e).
+Sustenta a parte recorrente, em síntese, que houve violação ao princípio da publicidade, pois não teve acesso à íntegra do parecer que subsidiou o Despacho 102/2019, o qual contém decisão ratificadora do Governador do Estado de Minas Gerais, ora recorrido, da decisão que resultou na demissão do recorrente, em total infringência ao disposto no art. 37 da CF/88.
+Aduz a existência de cerceamento de defesa e afronta aos princípios da ampla defesa e contraditório, vez que o interrogatório não ocorreu ao final de toda instrução processual, em desacordo com o disposto na Lei 11.719/2008.
+Alega, ainda, ser nulo o ato demissional, uma vez que os antecedentes do recorrente que o fundamentam decorrem de processos administrativos já arquivados e que, a seu ver, não têm o condão de produzir efeitos em seu desfavor (fls. 974/980e).
+Por fim, requer "Seja provido o presente recurso para reformar o acordão guerreado, para declarar nulo o ato demissionário exarado pela douta autoridade, ora Recorrida, com vistas a reintegrar o Recorrente às fileiras da PMMG com retroação" (fl. 982e).
+Contrarrazões, a fls. 992/996e, pelo improvimento do recurso.
+Parecer do MPF, a fls. 1.022/1.024e, pelo não conhecimento do recurso.
+Com razão o Parquet Federal.
+Conforme verifica-se dos autos, o recorrente fora intimado do acórdão recorrido em 04/02/2021 (fl. 710e.) Registre-se, ainda, que o próprio recorrente assim o afirma, a fl. 972e.
+O presente recurso, porém, somente foi interposto no dia 03/03/2021 (fl. 988e), quando já expirado o prazo de 15 (quinze) dias úteis, previsto no art. 1.003, § 5º, do CPC/2015.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA CONTRA DECISÃO DA PRESIDÊNCIA DESTE EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA. INTEMPESTIVIDADE DO RECURSO. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. No caso dos autos, a parte agravante foi intimada do acórdão recorrido em 18.12.2018, sendo o Recurso em Mandado de Segurança interposto somente em 8.2.2019, quando já esgotado o prazo recursal de 15 dias úteis, nos termos do art. 33 da Lei 8.038/1990 e art. 1.003, § 5o., e 219, caput, todos do CPC/2015.
+2. Agravo Interno do Particular a que se nega provimento" (STJ, AgInt no RMS 60.945/AC, Rel. Ministro MANOEL ERHARDT (Desembargador Federal convocadoTRF/5ª Região), PRIMEIRA TURMA, DJe de 11/06/2021).
+Ressalte-se que, nos termos do § 6º do art. 1.003 do CPC/2015, para fins de aferição de tempestividade, a ocorrência de feriado local deverá ser comprovada, mediante documento idôneo, no ato da interposição do recurso.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso.
+I.
