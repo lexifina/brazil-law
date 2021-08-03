@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo ESTADO DE SÃO PAULO contra decisão que homologou o pedido de desistência do recurso interposto pela parte contrária.
+Aponta a existência de omissão no decisum argumentando "o termo de aceite anexo à petição de desistência impõe que a parte contrária desista dos recursos e, também, renuncie ao direito em que se funda a ação.  .. Por outro lado, destaca-se que, segundo o artigo 90, caput, do CPC, nos casos de sentença com fundamento em desistência ou renúncia, as despesas e os honorários serão pagos pela parte que renunciou. Assim, é necessário que esse egrégio órgão jurisdicional se pronuncie sobre o pagamento de custas e honorários pela parte desistente-renunciante, o que deve contemplar, ainda, a fixação de honorários recursais, conforme estabelece o artigo 85, §11, do NCPc" (fl. 432).
+Assim, requer o provimento destes embargos de declaração para que sejam afastados os vícios apontados.
+Na impugnação de fls. 435/437, a embargada afirma que "concorda com a manifestação do Embargado no tocante ao pedido de renúncia ao direito em que se funda a ação e informa que, após a prolação da decisão dos embargos de declaração, renunciará ao direto em que se funda ação, bem como que desistirá também do Recurso Extraordinário interposto. Contudo, ressalta que o peticionamento no Tribunal de Justiça de origem não está disponível no momento, considerando que o processo ainda não foi baixado ao Tribunal a quo,  ..  Contudo, discorda no tocante à majoração de honorários" (fls.435/436)
+É o relatório.
+Inicialmente, registro que os embargos de declaração foram opostos após a entrada em vigor do Novo Código de Processo Civil, ocorrida em 18/3/2016.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+De fato, analisando a decisão embargada, nota-se que assiste razão em parte à embargante.
+Quanto à renúncia, a embargada afirma que somente requereu a desistência do recurso, não havendo que se falar em omissão.
+No pertinente à condenação nas despesas e honorários, tem-se que, apesar de haver norma expressa (art. 90 do CPC/2015) quanto à referida condenação em caso de desistência da demanda, no caso, por decorrência lógica da desistência do recurso, a empresa embargada terá que arcar com as despesas e honorários estabelecidos na sentença.
+No que diz respeito à fixação de honorários recursais, em caso de desistêncianão há o julgamento do recurso nesta instância superior, não sendo assim cabível a condenação. Nesse sentido: Desis no REsp. 1.764.949/SP, Rel. Min. GURGEL DE FARIA, DJe 16.8.2019;Desis no REsp. 1.769.961/RJ, Rel. Min. HERMAN BENJAMIN, DJe 21.8.2019; EDcl na Desis no AREsp. 1.273.194/SP, Rel. Min. LUÍS FELIPE SALOMÃO, DJe 16.11.2018.
+Ante o exposto, acolho os embargos de declaração para sanar os vícios apontados, sem efeitos infringentes.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OCORRÊNCIA DE OMISSÃO. EMBARGOS ACOLHIDOS, SEM EFEITOS INFRINGENTES..
