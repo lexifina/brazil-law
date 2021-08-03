@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário interposto, com fundamento no art. 105, II, "b", da CF, contra acórdão do TJMS, o qual denegou a ordem, em acórdão assim ementado (e-STJ fls. 373/381):
+CONSTITUCIONAL E ADMINISTRATIVO - MANDADO DE SEGURANÇA - POLÍCIA MILITAR DO ESTADO DE MATO GROSSO DO SUL - EXPECTATIVA DE PROMOÇÃO - MAJOR - TENENTE-CORONEL - DISTRIBUIÇÃO DO EFETIVO (DECRETO ESTADUAL Nº 13.584/2013) QUE LIMITOU POSSIBILIDADE DE ASCENSÃO - PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA - INEXISTÊNCIA DE LEI EM TESE (SÚMULA 266 STF) - DECADÊNCIA NÃO CONFIGURADA - MUDANÇA DE REGIME JURÍDICO - INEXISTÊNCIA DE DIREITO ADQUIRIDO - AUSÊNCIA DE DIREITO LÍQUIDO E CERTO - SEGURANÇA DENEGADA.
+Defende o recorrente, em resumo, que: a) o Decreto Estadual n. 13.584/2013 seria materialmente inconstitucional, por violar o princípio da igualdade, visto que teria imposto uma inexistente hierarquia entre os profissionais de saúde, além de ter praticado conduta discriminatória; b) o referido decreto também apresentaria vício formal, por ter tratado de questão típica de lei complementar.
+Contrarrazões (e-STJ fls. 423/448)
+Parecer do MPF opinando pelo não provimento do recurso (e-STJ fls. 462/463)
+Passo a analisar a controvérsia.
+Entendo que o recurso não pode ser conhecido, pois a falta de combate aos fundamentos que embasaram o aresto impugnado, suficientes para mantê-lo, acarreta a incidência do óbice da Súmula 283do STF e 284 do STF.
+O Tribunal a quo centrou sua decisão em três fundamentos claros, bem resumidos no seguinte parágrafo (e-STJ fl. 381):
+Em suma, seja porque a Lei Complementar n. 151/2010, em seu art. 2º, autoriza a o Chefe do Poder Executivo a aprovar, por meio de Decreto, os quadros da organização (Q.O.) elaborados pelo Comandante da Corporação, seja porque as atividades do impetrante são distintas das dos Oficiais Médicos, seja, finalmente, porque o policial militar não detém direito adquirido a regime jurídico, afastam-se as teses de inconstitucionalidade do Decreto n. 13.584/2013 e de ofensa aos princípios da igualdade e da ilegalidade.
+O acórdão recorrido, valendo-se do parecer do órgão ministerial, havia mencionado ser legal impor desigualdade entre os oficiais médicos e os oficiais veterinários porque seria natural àqueles a reserva dos maiores postos hierárquicos destinado à gestão de unidade de saúde humana.
+Além disso, mencionou textualmente a autorização que a lei complementar daria ao Governador do Estado a dispor sobre os quadros de organização, como no particular, em razão dissonão teria tratado de tema reservado à legislação em sentido estrito.
+O recorrente, porém, limitou-se a reiterar os argumentos que já tinha apresentado na inicial, sem nenhumapreocupação em rebater, concretamente, os fundamentos erigidos no juízo de origem.
+Consoante jurisprudência do STJ, padece de irregularidade formal o recurso em que a recorrente descumpre seu ônus de impugnar especificamente os fundamentos do acórdão recorrido, deixando de atender ao princípio da dialeticidade (AREsp 1.519.064/CE, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 22/10/2019, DJe 05/11/2019)
+A propósito: AgInt no RMS 58.200/BA, desta Relatoria, Primeira Turma, DJe 28/11/2018; AgRg no RMS 44.887/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 11/11/2015; AgRg no RMS 43.815/MG, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 27/5/2016.
+Ante o exposto, NÃO CONHEÇO DO RECURSO.
+Publique-se. Intimem-se.
