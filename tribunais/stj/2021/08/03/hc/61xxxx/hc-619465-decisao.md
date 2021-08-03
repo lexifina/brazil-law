@@ -1,0 +1,42 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio impetrado em benefício de Luiz Alexandre,contra acórdão do Tribunal de Justiça do Estado de Santa Catarina (Embargos de Declaração na Apelação Criminal n. 0005665-96.2015.8.24.0011/50000).
+Consta dos autos que o Juízo de primeiro grau condenou opaciente a 1 ano de reclusão, inicialmente no regime aberto, substituída por medidarestritivade direitos, como incurso no art. 155,caput, do Código Penal (furto).
+Interposta apelação, pela defesa, o Tribunala quonegou provimento ao recurso.
+Opostos embargos declaratórios, foram eles rejeitados, em julgamento assim resumido:
+"EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CRIMINAL. RECURSO DEFENSIVO. ALEGADA OMISSÃO QUANTO À ANÁLISE DO CABIMENTO DO BENEFÍCIO DO ACORDO DE NÃO PERSECUÇÃO PENAL. VIGÊNCIA DA LEI 13.964/2019 POSTERIORMENTE À APRESENTAÇÃO DAS RAZÕES RECURSAIS. INOCORRÊNCIA. FATOS OCORRIDOS ANTES DA ALTERAÇÃO LEGISLATIVA.DENÚNCIA JÁ RECEBIDA. EMBARGOS CONHECIDOS E REJEITADOS.
+ ..  "conforme Enunciado n. 20 do Conselho Nacional de Procuradores-Gerais, "cabe acordo de não persecução penal para fatos ocorridos antes da vigência da Lei nº 13.964/2019, desde que não recebida a denúncia", o que já ocorreu no caso dos autos."(TJSC, Apelação Criminal n.0005155-50.2017.8.24.0064, de São José, rel. Júlio César M. Ferreira de Melo, Terceira Câmara Criminal, j.18-08-2020)."(fl. 239, grifei)
+No presente mandamus, aimpetrante reitera a tese manejada na origem, buscando a concessão da ordem para que as partes entabulem acordo de não persecução penal, nos termos delineados no art. 28-A, do Código de Processo Penal - CPP.
+Subsidiariamente, aduz constrangimento porquanto as instâncias ordinárias não apresentaram fundamentação idônea paraa substituição da reprimenda por multa, nos termos do art. 44, § 2º, do CP.
+Indeferido o pedido liminar e prestadas as informações pela autoridade coatora, oMinistério Público Federal opinou pela concessão da ordem (fls. 293/297).
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque o acórdão recorrido está em consonância com a jurisprudência desta Corteno julgamento de casos análogos. Confira-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ACORDO DE NÃO PERSECUÇÃO PENAL.NÃO OCORRÊNCIA. RETROATIVIDADE ATÉ O RECEBIMENTO DA DENÚNCIA. AGRAVO IMPROVIDO.
+1. No julgamento do HC 628.647/SC, em 9/3/2021, a Sexta Turma do Superior Tribunal de Justiça, por maioria de votos, alinhando-se ao entendimento da Quinta Turma, firmou compreensão de que, considerada a natureza híbrida da norma e diante do princípio "tempus regit actum" em conformação com a retroatividade penal benéfica, o acordo de não persecução penal incide aos fatos ocorridos antes da entrada em vigor da Lei 13.964/2019, desde que ainda não tenha ocorrido o recebimento da denúncia.
+2. Recebida a denúncia em 20/4/2018 e proferida sentença condenatória em 5/11/2019, não se aplica o acordo de não persecução penal, nos termos do art. 28-A do Código de Processo Penal, introduzido pela Lei 13.964/2019. Ressalva do entendimento pessoal do Relator, à luz do parágrafo único do art. 2º do Código Penal.
+3. Agravo regimental improvido.
+(AgRg no HC 648.864/MS, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 18/06/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ART. 28-A DO CPP. ACORDO DE NÃO PERSECUÇÃO PENAL. NORMA DE NATUREZA PROCESSUAL.RETROATIVIDADE APENAS AOS FEITOS EM QUE NÃO HOUVE O RECEBIMENTO DA DENÚNCIA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR MULTA NÃO RECOMENDÁVEL SOCIALMENTE. FUNDAMENTAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O STJ, por ambas as turmas de direito criminal, unificou entendimento de que o art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019 (Pacote Anticrime), é norma de natureza processual cuja retroatividade deve alcançar somente os processos em que não houve o recebimento da denúncia. Precedentes.
+2. Na hipótese, o feito estava na fase recursal e com possível trânsito em julgado.
+3. A substituição da reprimenda privativa de liberdade pela prestação pecuniária foi justificada na circunstância de, no caso concreto, não ser socialmente recomendável a substituição pela multa, haja vista o fato desta estar prevista no preceito secundário do tipo penal violado.
+4. Agravo regimental não provido.
+(AgRg no HC 640.125/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 23/06/2021).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. CRIMES DE FURTO QUALIFICADO E CORRUPÇÃO DE MENORES.CONDENAÇÃO EM SEDE DE APELAÇÃO CRIMINAL. APLICAÇÃO RETROATIVA DO ART. 28-A DO CÓDIGO DE PROCESSO PENAL. INCOMPATIBILIDADE COM O PROPÓSITO DO ACORDO DE NÃO PERSECUÇÃO PENAL. PRECEDENTES. DOSIMETRIA DA PENA. AFASTAMENTO DO CONCURSO MATERIAL DE CRIMES. CORTE DE ORIGEM ENTENDEU QUE HOUVE DESÍGNIOS AUTÔNOMOS. INVERSÃO DO JULGADO.NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO DOS AUTOS.IMPOSSIBILIDADE NA VIA ELEITA. WRIT NÃO CONHECIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.Precedentes: STF, STF, HC 147.210-AgR, Rel. Ministro EDSON FACHIN, DJe de 20/2/2020; HC 180.365AgR, Relatora Ministra ROSA WEBER, DJe de 27/3/2020; HC 170.180-AgR, Relatora Ministra CARMEM LÚCIA, DJe de 3/6/2020; HC 169174-AgR, Relatora Ministra ROSA WEBER, DJe de 11/11/2019; HC 172.308-AgR, Rel. Ministro LUIZ FUX, DJe de 17/9/2019 e HC 174184-AgRg, Rel. Ministro LUIZ FUX, DJe de 25/10/2019. STJ: HC 563.063-SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/6/2020; HC 323.409/RJ, Rel. p/ acórdão Ministro FELIX FISCHER, Terceira Seção, julgado em 28/2/2018, DJe de 8/3/2018; HC 381.248/MG, Rel. p/ acórdão Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 22/2/2018, DJe de 3/4/2018.
+2. A Quinta Turma do Superior Tribunal de Justiça firmou o entendimento de que a retroatividade do art. 28-A do Código de Processo Penal, introduzido pela Lei n. 13.964/2019, mostra-se incompatível com o propósito do instituto do Acordo de Não Persecução Penal (ANPP) quando já recebida a denúncia e já encerrada a prestação jurisdicional nas instâncias ordinárias, estando o feito sentenciado, inclusive com condenação confirmada em sede de apelação criminal.
+3. Na hipótese, a Corte local reconheceu, fundamentadamente, a existência do concurso material entre os delitos em questão, uma vez que o paciente praticou duas condutas distintas, com desígnios autônomos, de modo que a alteração desse entendimento, sob a alegação de não haver dolo do paciente em corromper o menor, implicaria inegável revolvimento do acervo fático-probatório dos autos, procedimento incompatível com a via eleita.
+4. Habeas corpus não conhecido.
+(HC 625.609/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 07/12/2020).
+Noutro enfoque,a pertinência da substituição da pena corporal por medidas restritivas de direitos e multa, bem ainda a escolha dentre as opções traçadas pelo legislador "enquadram-se na discricionariedade regrada do julgador, motivo pelo qual não se vislumbra qualquer ilegalidade a ser sanada na via do writ" (HC 403.346/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 28/11/2017).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS.EMBRIAGUEZ AO VOLANTE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. ART. 44 DO CÓDIGO PENAL - CP. FACULDADE DO JULGADOR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte tem entendido que fixada a pena corporal nos patamares delineados no art. 44, § 2º, doCódigo Penal, compete ao julgador a escolha do modo de aplicação da benesse legal.
+2. Observada a discricionariedade do Magistrado e o respeito aos parâmetros legais, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+3. Agravo regimental desprovido.
+(AgRg no HC 480.656/SC, de minha relatoria, QUINTA TURMA, DJe 08/03/2019).
+Diante do exposto, não conheço da impetração.
+Publique-se.
+Intimem-se.
