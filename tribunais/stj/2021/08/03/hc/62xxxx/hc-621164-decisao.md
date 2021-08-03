@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deLUIZ ALVES CELESTINO JUNIOR, contra ato doTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁSno julgamento da Apelação n. 0245006-57.2016.809.0164.
+Extrai-se dos autos que o paciente foi condenado pela prática do delito tipificado no art. 157, § 2º, incisos I e II, por duas vezes, do Código Penal - CP (roubo majorado), à pena de 10 anos e 8 meses de reclusão em regime inicial fechado, negado o direito de recorrer em liberdade.
+Irresignada, a defesa interpôs apelação perante o Tribunal estadual, ainda pendente de julgamento conforme extrato de andamento processual acostado às fls. 75/77.
+No presentemandamus,alega excesso de prazo para o julgamento da apelação, interposta em 13/12/2019 e ainda pendente de apreciação pelo Tribunala quo. Assevera que os autos aguardam digitalização desde 4/6/2020.
+Pondera que a custódia cautelar foi efetivada em 12/12/2019 e em breve o paciente terá cumprido 1/6 da pena imposta sem que a condenação tenha sido revista em segundo instância.
+Destaca que o paciente respondeu à ação penal em liberdade e compareceu aos atos processuais para os quais foi intimado, razão pela qual é suficiente a aplicação de medidas alternativas ao cárcere enquanto aguarda o julgamento do apelo.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas ao cárcere, nos termos do art. 319 do CPP, bem como seja determinado ao Tribunal de Justiça do Estado de Goiás o imediato julgamento do recurso defensivo.
+Indeferida a liminar (fls. 38/39) e informações prestadas (fls. 88/96,98/101 e 113/119), o Ministério Público Federal opinou pela denegação da ordem (fls. 121/130).
+É o relatório.
+Decido.
+O writ está prejudicado.
+Isso porque, das informações colhidas na página eletrônica do Tribunal Estadual, constatou-se que, em 24/6/2021, a Apelação n. 0245006-57.2016.8.09.0164,de que aqui se trata,foi julgada, tendo a Corte de origemnegado provimento ao recurso, nos termos da seguinte ementa:
+APELAÇÃO CRIMINAL. ROUBO CIRCUNSTANCIADO. CERCEAMENTO DE DEFESA. APRESENTAÇÃO DE PROVAS APÓS AS ALEGAÇÕES FINAIS, SEM POSTERIOR VISTA À ACUSAÇÃO. NULIDADE RECHAÇADA. A documentação trazida à baila pela defesa após a apresentação das alegações finais cumpriu a sua função, muito embora não tenha se prestado a isentar a responsabilidade do réu. Em verdade, sequer foi utilizada na sentença para condenar o réu. Logo, verifica-se que os documentos apresentados pela defesa não influíram no julgamento da causa e a falta de oportunidade para o Parquet se pronunciar sobre eles afigura-se processualmente irrelevante.2- CERCEAMENTO DE DEFESA. NÃO REABERTURA DA INSTRUÇÃO CRIMINAL PARA A REALIZAÇÃO DE NOVO EXAME PROSOPOGRÁFICO. NULIDADE REFUTADA. O requerimento de novo exame prosopográfico foi efetivado pela defesa após o fim da instrução processual. No momento oportuno, durante a audiência de instrução e julgamento e na fase do artigo 422 do Código de Processo Penal, a defesa nada requereu. Com efeito, o momento pertinente para realizar tais requerimentos não foram observados pelo causídico. Nesse caso, não há que se falar em cerceamento de defesa.3- PEDIDO DE ABSOLVIÇÃO. INSUCESSO.Incabível o pedido de absolvição quando a prova colhida não deixa dúvida acerca da materialidade e autoria do delito.APELO CONHECIDO E DESPROVIDO.
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
