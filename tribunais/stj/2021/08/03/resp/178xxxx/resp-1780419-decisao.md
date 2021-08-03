@@ -1,0 +1,41 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que FERNANDO ASSIS DE OLIVEIRA (FERNANDO) ajuizou ação declaratória cumuladacom restituição de valores contra BANCO BRADESCO FINANCIAMENTOS S/A (BRADESCO) pretendendo a revisão contratual, bem como a devolução dos valores ilegalmente cobrados.
+No curso da ação, o d. Juízo de primeira instância proferiu decisão declinando de ofício a competência e determinando que fossem remetidos os autos para a Comarca de Caratinga/MG.
+Contra essa decisão interlocutória, FERNANDO interpôs agravo de instrumento sustentando que (1) o endereço do réu se encontra nas delimitações do foro de Belo Horizonte; e(2) a competência territorial não pode ser alterada de ofício.
+Foi negado conhecimento ao recurso de agravo de instrumento em decisão monocrática proferida pela Desembargadora relatora JULIANA CAMPOS HORTA (e-STJ, fls. 146/149)
+O agravo interno posteriormente interposto por FERNANDO foi desprovido pelo TJMG em acórdãoassim ementado:
+EMENTA: AGRAVO INTERNO - DECISÃO QUE DECLINA DA COMPETÊNCIA - HIPÓTESE QUE NÃO ADMITE INTERPOSIÇÃO DE AGRAVO DE INSTRUMENTO - RECURSO NÃO CONHECIDO - INTELIGÊNCIA DO ART. 1.015 DO NOVO CÓDIGO DE PROCESSO CIVIL - ROL TAXATIVO.
+- O reconhecimento da competência ou incompetência para processar e julgar determinada demanda não se encontra previsto em nenhum dos incisos do art. 1.015 do Novo Código de Processo Civil, que estabelece rol taxativo das situações que admitem a interposição de agravo de instrumento
+- Considerando a intenção do legislador em não admitir o cabimento de agravo de instrumento contra decisão sobre competência, não é dado ao órgão julgador, na atividade interpretativa, criar hipóteses de recorribilidade de decisões interlocutórias não previstas no Novo Código de Processo, sob pena de desvirtuar essa intenção de limitar a utilização deste recurso às situações que demandam a pronta e imediata análise pela instância revisora (e-STJ, fl. 208).
+Inconformado, FERNANDO interpôs recurso especial com fundamento no art. 105, III, c, da CF, apontando dissídio jurisprudencial, tendo por paradigmas precedentes desta Corte Superior e do Tribunal de Justiça do Estado do Rio de Janeiro, por reputar que o rol previsto no art. 1.015 do NCPC admite interpretação extensiva, a possibilitar o conhecimento do agravo de instrumento manifestado na origem quando a decisão agravada envolver competência.
+Foram apresentadas as contrarrazões (e-STJ, fls. 255/258).
+Em juízo de admissibilidade, a terceira vice-presidência do Tribunal mineiro admitiu o apelo nobre (e-STJ, fls. 262/263).
+Foi determinada a devolução do processo ao TJMG para que permanecesse suspenso até a publicação do acórdão referente ao recurso representativo da controvérsia, em decisão monocrática de minha lavra assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DECISÃO QUE DECLINA DA COMPETÊNCIA PARA OUTRO JUÍZO. AGRAVO DE INSTRUMENTO. CONTROVÉRSIA ACERCA DO ROL DO ART. 1.015 DO NCPC. MATÉRIA AFETA A JULGAMENTO SOB A SISTEMÁTICA DE RECURSO REPETITIVO. SUSPENSÃO. SOBRESTAMENTO NA ORIGEM. RETORNO DOS AUTOS.(e-STJ, fl. 269).
+Recebidos os autos do STJ, o agravo interno emagravo de instrumento foi desprovido pelo Tribunal de Justiça do Estado de Minas Gerais em acórdão assim ementado:
+EMENTA: AGRAVO INTERNO - JUÍZO DE RETRATAÇÃO - AGRAVO DE INSTRUMENTO - CABIMENTO DO RECURSO RESTRITO ÀS HIPÓTESES PREVISTAS NO ARTIGO 1015 DO NCPC  TAXATIVIDADE MITIGADA  ENTENDIMENTO DO SUPERIOR TRIBUNAL DE JUSTIÇA  MODULAÇÃO DOS EFEITOS.
+- O rol previsto no artigo 1.015 do Novo CPC é taxativo quanto ao cabimento do agravo de instrumento e, dessa forma, somente as decisões ali previstas são impugnáveis via agravo de instrumento.
+- Sobre a taxatividade mitigada, o Superior Tribunal de Justiça entendeu por bem modular os seus efeitos, a fim de que a tese jurídica apenas seja aplicável às decisões interlocutórias proferidas após a publicação do acórdão que fixou a tese. (e-STJ, fl. 282).
+Em juízo de admissibilidade, a terceira vice-presidência do Tribunal mineiro admitiu o apelo nobre (e-STJ, fl. 293).
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso especial foi interposto contra acórdão publicado na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+FERNANDO apontou dissídio jurisprudencial, por reputar que o rol previsto no art. 1.015 do NCPC admite interpretação extensiva, a possibilitar o conhecimento do agravo de instrumento manifestado na origem quando a decisão agravada envolver competência.
+O Tribunal mineiro consignou que tal decisão não está acobertada pelas hipóteses previstas no rol taxativo do art. 1.015 do NCPC.
+A Corte Especial do STJ, na sessão realizada aos 5/12/2018, no julgamento dos recursos representativos da controvérsia, REsps nºs 1.696.396/MT e 1.704.520/MT, fixou a tese de que o rol do art. 1.015 do NCPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+Insta sublinhar que esta orientação teve seus efeitos modulados na mesma ocasião, de modo que a taxatividade da listagem legal foi atenuada apenas para as decisões interlocutórias proferidas após a publicação do respectivo acórdão (19/12/2018), consoante já assentado em julgados específicos:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. CPC/2015. DECLINAÇÃO DE COMPETÊNCIA. CABIMENTO DE AGRAVO DE INSTRUMENTO. MITIGAÇÃO DA TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC/2015. TEMA 988/STJ. MODULAÇÃO DOS EFEITOS DA DECISÃO. APLICAÇÃO DA TESE PARA AS DECISÕES INTERLOCUTÓRIAS PROFERIDAS APÓS A PUBLICAÇÃO DO ACÓRDÃO. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1808782/AL, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 10/12/2019, DJe 17/12/2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.015 DO CPC/2015. NATUREZA JURÍDICA. MITIGAÇÃO DA TAXATIVIDADE. EFEITOS DA DECISÃO. MODULAÇÃO. PUBLICAÇÃO DO ACÓRDÃO. DECISÃO INTERLOCUTÓRIA POSTERIOR. TESE. APLICAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos da jurisprudência do Superior Tribunal de Justiça, o rol do art. 1.015 do CPC/2015 é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação.
+3. Tese jurídica que somente se aplicará às decisões interlocutórias proferidas após a publicação do acórdão do REsp 1.704.520/MT (Tema 988), representativo da controvérsia.
+4. Agravo interno não provido.
+(AgInt no REsp 1825024/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 09/12/2019, DJe 11/12/2019)
+No caso em apreço, o TJMG concluiu pela taxatividade do rol do art. 1.015do NCPC, tendo a decisão interlocutória sido publicada em 27/10/2017(e-STJ, fl. 20), de modo que a tese jurídica revela-se inaplicável.
+Nessas condições, NEGO PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. AÇÃO DECLARATÓRIA CUMULADA COM RESTITUIÇÃO DE VALORES. DECISÃO INTERLOCUTÓRIA QUE DECLINOU DE OFÍCIO DA COMPETÊNCIA.ART. 1.015 DO NCPC. JULGAMENTO EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA. TAXATIVIDADE MITIGADA. APLICABILIDADE RESTRITA ÀQUELAS PROFERIDAS APÓS A PUBLICAÇÃO DO CORRESPONDENTE ACÓRDÃO (19/12/2018). NEGATIVA DE INCIDÊNCIA DA TESE JURÍDICA AO CASO. PRECEDENTES. RECURSO ESPECIAL NÃO PROVIDO.
