@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Aldimar Gomes de Oliveira contra ato coator proferido pela Primeira Turma Criminal do Tribunal de Justiça de Minas Gerais, que, nos autos do HC n. 1.0000.19.099234-7/000, denegou a ordem, mantendo o paciente preso preventivamente pela suposta prática de conduta descrita como homicídio qualificado (Processo n.0019940642019, em trâmite na 1ª Vara Criminal da comarca de Janaúba/MG).
+O impetrante alega, em síntese, que foi preso, em 24/4/2019, por força de mandado de prisão temporária por fatos ocorridos em 22/12/2018. Apesar de ter comparecido espontaneamente em 15/1/2019, o paciente foi preso temporariamente; e, depois, em maio de 2019, teve a prisão temporária convertida em preventiva.
+Sustenta quesomente 4 meses após os fatos, o paciente teve a prisão, sem motivos concretos para tanto.
+Afirma que o paciente já foi pronunciado, ocasião em que foi mantida a prisão preventiva, encontrando-se pendente recurso em sentido estrito na origem.
+Pede a concessão da ordem com a soltura do paciente (fls. 59/60).
+Liminar indeferida às fls. 102/103.
+Informações prestadas pela origem às fls. 125/142.
+O Ministério Público Federal pugna pelo não conhecimento do writ ou, caso conhecido, pela denegação da ordem, conforme resume a ementa do parecer (fl. 144):
+HABEAS CORPUS SUBSTITUTIVO DO RECURSO CABÍVEL. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PRESENÇA DOS FUNDAMENTOS PARA A MANUTENÇÃO DA CONSTRIÇÃO CAUTELAR. GRAVIDADECONCRETA DA CONDUTA. NECESSIDADE DE ACAUTELAR A ORDEM PÚBLICA. AUSÊNCIA DE CONTEMPORANEIDADE ENTRE OS FATOS E ADATA DA PRIVAÇÃO DA LIBERDADE. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. PARECER PELO NÃO CONHECIMENTO DO WRIT, E SE CONHECIDO, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+A impetração pretende a revogação da prisão preventiva, haja vista a ausência de contemporaneidade e o excesso na formação da culpa.
+A impressão que tive ao indeferir a liminar se mantém.
+De fato, conforme destacado pelo Ministério Público Federal, o decreto de prisão está bem fundamentado, com base na gravidade concreta da conduta, a questão relativa à falta de contemporaneidade não foi discutida na instância local e a gravidade da conduta desautoriza a imposição de cautelares diversas.
+Por essa razãoe também por economia processual, adoto as bem-lançadasrazões ministeriais como fundamento, nos termos do permissivo jurisprudencial(fls.146/147):
+Não assiste razão à Defesa. A prisão preventiva do Paciente está adequadamente fundamentada em elementos concretos extraídos dos autos. A Corte local destacou o modus operandi do caso em tela, em que o homicídio foi supostamente praticado em concurso de agentes, com indícios de premeditação do delito, mediante recurso que dificultou a defesa da vítima, por motivação fútil, na presença de testemunhas. Além disso, apesar de ser réu primário, há elementos concretos que indicam a periculosidade do Paciente. Nesse sentido, ""Se as circunstâncias concretas da prática do crime indicam, pelo modus operandi, a periculosidade do agente ou o risco de reiteração delitiva, está justificada a decretação ou a manutenção da prisão cautelar para resguardar a ordem pública, desde que igualmente presentes boas provas da materialidade e da autoria" (HC n. 126.756, Relatora Ministra ROSA WEBER, Primeira Turma, julgado em 23/6/2015, publicado em 16/9/2015)"(HC n. 513.809/PB, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julg.19/9/2019, DJe 27/9/2019).
+Quanto à ausência de contemporaneidade entre os fatos e a datada prisão cautelar, a Corte local não se manifestou a esse respeito e, sob pena de indevida supressão de instância, essa tese defensiva não deve ser diretamente examinada por essa Colenda Corte Superior.
+Outrossim, as condições subjetivas pessoais favoráveis do Paciente não são impedimento à decretação da prisão cautelar, se estiverem presentes, como na hipótese, os requisitos autorizadores da referida segregação, não estando demostrado constrangimento ilegal. É de se observar que qualquer outra medida alternativa à prisão, que não a prisão preventiva, mostra-se inadequada e insuficiente para o caso em tela, ante a gravidade concreta da conduta imputada ao Paciente.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES.PRISÃO TEMPORÁRIACONVERTIDA EM PRISÃO PREVENTIVA. ART. 312 DO CPP. AUSÊNCIA DOS REQUISITOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. FALTA DE CONTEMPORANEIDADE. MATÉRIA NÃO DISCUTIDA NO ATO COATOR. CAUTELARES DIVERSASINSUFICIENTES PARA O CASO CONCRETO. PARECERACOLHIDO COMO RAZÕES DE DECIDIR.
+Ordem denegada.
