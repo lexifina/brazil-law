@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Ordinário em Mandado de Segurança interposto contra acórdão assim ementado:
+Mandado de segurança preventivo. Alegação de que decisões seguidas do Tribunal de Contas, examinando a regularidade de procedimentos licitatórios voltados à prestação de serviços complementares de saúde, junto ao SUS, recusam a possibilidade de participação ou convênios com associações e com cooperativas. Pretensão veiculada a que, para deliberações futuras, seja respeitado o teor do artigo 199, par. 1º, da CF/88, que se assevera vir sendo vulnerado. Descabimento da via eleita. Necessidade de que, à impetração preventiva, haja ato concreto que signifique risco ao direito do impetrante, no caso ausente. Impossibilidade de se impor prévio controle de conteúdo de decisões futuras do Tribunal de Contas ou de seu Presidente. Carência. Segurança denegada.
+A parte recorrente alega:
+Por primeiro, convém rebatermos a fundamentação do v. Acórdão, de que não existe ato concreto que poderá lesionar direito da impetrante, hábil a ensejar a segurança em mandado de segurança preventivo.
+Dada máxima vênia, temos que existe o ato concreto e ele já está desencadeando seus efeitos. Conforme decisões exaradas pelo Tribunal de Contas do Estado de São Paulo, a corte consolidou o entendimento de que deve haver vedação à participação em licitações de serviços de saúde as associações sem finalidade lucrativa.
+O writ tem por escopo afastar reiteradas decisões do Tribunal de Contas de São Paulo que excluem o recorrente, associações sem fins lucrativos, e as filantrópicas da possibilidade de contratação com os entes públicos na prestação de serviços de Saúde.
+Pois, bem por mais que se pretenda fazer crer que os torneios regidos pela Lei nº 8.666/93 sejam destinados apenas à pessoas jurídicas constituídas na forma de empresa, a qual articula seu mister com vistas a prestação serviços de saúde e obtenção de lucro, na essência, adotada a interpretação sistemática do arcabouço jurídico, não merece prevalecer esse entendimento.
+Foram apresentadas contrarrazões (fls. 286-297, e-STJ).
+O Ministério Público Federal emitiu parecer assim ementado, manifestando-se pelo nãoprovimento do Recurso Ordinário:
+PROCESSO CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA PREVENTIVO CONTRA EVENTUAIS E FUTURAS DECISÕES DO TCU. IMPOSSIBILIDADE. INADEQUAÇÃO DA VIA ELEITA.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 28.6.2021.
+Não se pode conhecer do recurso.
+A Corte de origem denegou a ordem, com base nos seguintes argumentos: a) ilegitimidade ativa; b) incompetência para julgamento das demais autoridades apontadas como coatora que não o Presidente do Tribunal de Contas; e c) inadequação da via eleita:
+De fato, e em primeiro lugar, a impetrante não detém legitimidade para representar oupostular em nome de outras entidades, mesmo que de análoga finalidade, assim ademais de quem sejam os seus próprios associados.
+Depois, e do ponto de vista da autoridade impetrada, apenas atos do Presidente do Tribunal de Contas se sujeitam a mandado de segurança cuja competência está afeta a este Órgão Especial (art. 74, III, da Constituição do Estado).
+Porém, já para além disso, realmente a via eleita é inadequada.
+Certo dizer-se que preventiva a impetração. Mas nem por isso se deve assumir a possibilidade de assim se estabelecer controle prévio de decisões futuras do Tribunal de Contas, ou de seus Conselheiros, como que a pautar de antemão a linha de suas deliberações, e posto que na esteira de precedentes que se citem, mas como se só fossem cogitáveis futuras decisões  se e quando proferidas  de igual teor.
+Como com razão apontado no parecer ministerial, remetendo a precedente da Suprema Corte (MS-AgR 35.523, Re. Min. DIAS TOFFOLI, 2 Turma, DJe 21.06.2018), o mandado de segurança preventivo exige "efetiva ameaça a direito líquido e certo", decorrente "de atos concretos da autoridade apontada como coatora".
+Porém, seja dado reiterar, assim não se podem tomar decisões de casos futuros, envolvendo a regularidade deprocedimentos licitatórios voltados à prestação de serviços complementares de saúde, junto ao SUS, bem como a possibilidade de participação ou convênios com associações e com cooperativas.
+Insista-se em que, agora na lição sempre citada, de Hely Lopes Meirelles, ao mandado de segurança preventivo "não basta a suposição de um direito ameaçado; exige-se um ato concreto que possa por em risco o direito do postulante." (Mandado de segurança, Malheiros, 17" ed, p. 20) No caso, todavia, o que se afirma de concreto são decisões anteriores do Tribunal de Contas. De modo prospectivo se aduz  ou se supõe  é que estes precedentes levariam, em casos futuros, a deliberações de mesmo teor, assim a ameaçar direito líquido e certo da impetrante. Convenha-se, nada do que represente, consoante acima se expressou, "um ato concreto que possa por em risco o direito do postulante" e que, desta maneira, autorize o socorro ao mandado de segurança preventivo.
+Ante o exposto, nos termos do artigo 6º, par. 5º, da Lei 12.016/09, e/e o artigo 485, VI, do CPC, DENEGA-SE a ordem.
+O recorrente, contudo, apenas impugna o terceiro argumento.Como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre os demais pontos, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"), incidente também, nos termos da jurisprudência do STJ, ao Recurso Ordinário.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. ACÓRDÃO RECORRIDO DENEGATÓRIO DA SEGURANÇA. PREJUDICIAL DE DECADÊNCIA ACOLHIDA. PEDIDO DE REVISÃO DE DECISÃO DA CORTE ESTADUAL DE CONTAS, DESTITUÍDO DE EFEITO SUSPENSIVO, QUE NÃO INTERROMPE O PRAZO DECADENCIAL PARA A IMPETRAÇÃO DO WRIT.INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 420 DO STF. AUSÊNCIA DE IMPUGNAÇÃO, NO RECURSO, DOS FUNDAMENTOS DO ACÓRDÃO DO TRIBUNAL DE ORIGEM, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF, POR ANALOGIA. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA NÃO CONHECIDO.
+(..)VII. Pacífica a jurisprudência desta Corte no sentido de que "a Súmula nº 283 do STF prestigia o princípio da dialeticidade, por isso não se limita ao recurso extraordinário, também incidindo, por analogia, no recurso ordinário, quando o interessado não impugna, especificamente, fundamento suficiente para a manutenção do acórdão recorrido" (STJ, AgRg no RMS 30.555/MG, Rel. Ministro OG FERNANDES, SEXTA TURMA, DJe de 01/08/2012), como no caso.
+VIII. Recurso Ordinário em Mandado de Segurança não conhecido.
+(RMS 64.840/ES, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 11/05/2021, DJe 14/05/2021)
+AGRAVO INTERNO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SÚMULA 267/STF. AUSÊNCIA DE DEMONSTRAÇÃO DA TERATOLOGIA DA DECISÃO IMPUGNADA. FUNDAMENTOS DO ACÓRDÃO RECORRIDO, ADEMAIS, NÃO IMPUGNADOS PELAS RAZÕES DO RECURSO. SÚMULA 283/STF.
+1. O mandado de segurança impetrado contra ato judicial é medida excepcional, cabível apenas em caso de flagrante ilegalidade, abuso de poder ou teratologia, o que não ocorre no caso concreto (incidência da Súmula 267/STF).
+(..)3. As razões do recurso não fazem impugnação específica a todos os fundamentos do acórdão recorrido, o que atrai a incidência, por analogia, do verbete 283 da Súmula do Supremo Tribunal Federal.
+(..)5. Agravo interno a que se nega provimento.
+(AgInt no RMS 54.301/SC, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/06/2020, DJe 05/06/2020)
+Por tudo isso, não conheço do Recurso Ordinário.
+Publique-se.
+Intimem-se.
