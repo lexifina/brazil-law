@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porRAFAEL ESTEVES MEDEIROS DE BARROS,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 03/11/2020.
+Concluso ao gabinete em: 28/06/2021.
+Ação: de rescisão contratual cumulada com reintegração de posse de imóvel ajuizada por RAFAEL ESTEVES MEDEIROS DE BARROS em desfavor de MARIVALDO BISPO DOS REIS.
+Sentença: julgou procedente o pedido dereintegração de posse.
+Acórdão: deu provimento ao apelo da parte demandada para, acolhendo tese de cerceamento de defesa em razão do julgamento antecipado, declarar a nulidade da sentença e determinar a produção de provas. A ementa restou assim redigida:
+Apelação. Ação de resolução contratual fundada no inadimplemento do adquirente cumulada com reintegração de posse e perdas e danos. Alegação de cerceamento de defesa em razão do julgamento antecipado. Acolhimento. Réu que trouxe indícios da realização de pagamento das prestações do preço, apresentando protocolo de depósitos em caixa eletrônico na conta indicada no contrato, bem como imagem de outros cheques que teriam sido compensados. Sentença que não considerou os documentos como prova adequada do pagamento. Autor que não nega recebimento de valores, contudo, sustenta que estes corresponderiam ao pagamento apenas da entrada ajustada no negócio. Data dos comprovantes de depósito que contradiz a versão do requerente. Réu que havia protestado, em caso de negativa de recebimento, pela expedição de ofícios aos bancos envolvidos e apresentação de extratos de conta corrente. Providências que são pertinentes ante o começo de prova produzida. Forma de pagamento ajustada no contrato, mediante depósito em conta corrente, que autoriza produção da prova requerida pelo apelante. Nulidade da sentença. Julgamento citra petita. Ação resolutória do contrato que, além da reintegração de posse, também continha pedido de indenização e declaração de perda dos valores pagos. Pedidos não apreciados. Necessidade de deliberar sobre eventual liquidação do contrato, inclusive sobre pedido de perda de valores e eventual restituição. Acolhimento da apelação para retomada da instrução. Valor da causa. Impugnação. Acolhimento. Pedido de resolução do contrato que determina adoção do valor do contrato como critério legal de atribuição do valor da causa. Discussão que não é parcial, mas envolve todo o negócio. Retificação do valor da causa e determinação de complementação de custas por ambas as partes. Recurso provido.
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dosarts. 475 e 476 do CC. Assevera que "as partes firmaram contrato de compra e venda, com obrigaçõesmútuas, o recorrido como devidamente demonstrado, não cumpriu com suas obrigações, não obstante a isto agiu em flagrante má-fé".
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+OTJ/SP anulou a sentença e determinou a retomada da instrução, com a devida produção das provas requeridas pela parte demandada, concluindo que "existem questões que demandavam apreciação na sentençacomo a alegação de que a posse teria sido restituída ao autor por pessoa que não a exercia e nemcontava com autorização do réu para tanto: a alegação de que não se trata da assinatura do requerido na notificação para constituição em mora: a alegação deinadimplemento quanto a obrigação de arcar com pagamento dos impostos sobre o imóvel. sendo necessário aferir a constituição do requerido em mora a respeito desta obrigação".
+Além de os argumentos invocados pelo agravante não demonstrarem como o acórdão recorrido violou os arts. 475 e 476 do CC, as razões do recurso estão dissociadas da fundamentação doaresto impugnado, o que acarreta deficiência na exata compreensão doapelo, óbice ao seu conhecimento, sendo aplicável, no particular, a Súmula284/STF.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RECISÃO CONTRATUAL C/C REINTEGRAÇÃO DE POSSE.FUNDAMENTAÇÃO. DEFICIENTE. SÚMULA 284/STF.
+1. Ação de rescisão contratual c/c reintegração de posse.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo conhecido. Recurso especial não conhecido.
