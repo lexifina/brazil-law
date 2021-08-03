@@ -1,0 +1,27 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos por RIO DOCE CAFE S A IMP E EXP, MC KINLAY S/A, USICAFE COMISSARIA E EXPORTADORA LTDA contra acórdão da Quarta Turma do Superior Tribunal de Justiça, derelatoria daMinistra Maria Isabel Gallotti, assim ementado:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. COBRANÇA. EXECUÇÃO. DEPÓSITO JUDICIAL. EXPURGO INFLACIONÁRIO. DEPÓSITOS REALIZADOS NA SEGUNDA QUINZENA DO MÊS. MATÉRIA NÃO JULGADA NA FASE DE CONHECIMENTO. DISCIPLINAMENTO. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA.
+1. Não ofende a coisa julgada a apreciação, em sede de execução, de matéria a respeito da qual não houve decisão na fase de conhecimento do processo. Precedentes.
+2. Agravo interno a que se nega provimento. (e-STJ, fl. 1.044)
+As embargantes alegam, em síntese,a existência de dissídio com os acórdãosproferidos nos EDcl no AgRg nos EDcl no REsp 1.309.826/RSe no AgInt no AREsp 1.764.013/SC, oriundos da Terceira Turma do STJ.
+Defendem queo entendimento predominante é de que, até mesmo as questões de ordem pública, se não suscitadas na fase de conhecimento, são alcançadas pela coisa julgada, sendo inviável discuti-las na fase de cumprimento de sentença.
+Assim, pleiteiam o conhecimento e provimento dos embargos de divergência para fazer prevalecer o entendimento adotado nos acórdãos paradigmas.
+É o relatório.
+Decido.
+Os embargos de divergência são manifestamente inadmissíveis.
+A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ,sãocabíveis embargos de divergência, recurso cujo escopo éauniformização dajurisprudência desta Corte, eliminando as dissidênciasinternas quanto àinterpretação do direito em tese, quando determinadoórgão fracionário,julgando recurso especial, dissente de julgamento atualde qualquer outroórgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pela parteembargante nãoestáconfigurado, na medida em que não há similitude fática e jurídicaentre ojulgado recorrido e os acórdãos paradigmas da 3ª Turma.
+Isso porque a 4ª Turma, ao negar provimento ao agravo interno, assentou a tese de que, "não se pode concluirque aexclusão,do cálculo da condenação, dedepósitos judiciaisefetuados na segunda quinzena do mês, configura desrespeito àcoisa julgada,sabendo-se que o próprio título não especificou (não distinguiu) os depósitos compreendidos na condenação. Noutros termos, afigura-se-me inviável falar em inobservância do que decidido na fase de conhecimento se, nessa fase, não ficou determinado (ou esclarecido) que a condenação abarcaria tanto osdepósitos judiciaisefetuados na primeira quinzena do mês como os realizados na segunda. O acórdão recorrido registrou, recorde-se, que a matéria não foi apreciada (pelo menos com esse nível de detalhamento) na fase de conhecimento" (e-STJ, fls. 1.053/1.054).
+Sendo assim, o acórdão ora embargado tratou de uma condição específica presente nos autos, qual seja, o próprio título executivo, da ação de cobrança de expurgos inflacionários, não deixou claro (não ficou determinado/não ficou esclarecido) os depósitos judiciais compreendidos na condenação.
+E, nesta perspectiva, condicionou o seu julgamento a uma particularidade - "se não existe no título exequendo alusão alguma aosdepósitos judiciaisefetuados na segunda quinzena do mês (seja determinando expressamente sua inclusão na condenação, seja excluindo-os dela), não subsiste, ao meu modo de pensar, vedação à discussão do tema na fase executória" (e-STJ, fl. 1.054).
+De forma diversa, o acórdãoparadigma - EDcl no AgRg nos EDcl no REsp 1309826/RS -,trata da impossibilidade da exceção de coisa julgada serapresentada na fase de cumprimento de sentença, por não ser causa impeditiva, modificativa ou extintiva da obrigação surgida após a sentença. Assim,consignou que como a exceção de coisa julgada não foi suscitada na fase de conhecimento, tendo havido o trânsito em julgado da sentença de mérito, e não sendo fato superveniente a esta, a alegação poderia ter sido feita apenas na via da ação rescisória, sob pena de violação à coisa julgada.
+Já osegundo acórdão paradigma -AgInt no AREsp 1764013/SC, também proferido pela Terceira Turma, fundamentou que "até mesmo as matérias de ordem pública que podiam ser deduzidas na fase de conhecimento são alcançadas pela eficácia preclusiva da coisa jugada, não cabendo mais requentá-las na fase de cumprimento de sentença, como é a hipótese dos autos" (e-STJ, fl. 1.182).
+Bem se vê, portanto, que os precedentes colacionados, por não se referiràsmesmas circunstâncias, não infirma a orientação adotada pelo acórdãooraembargado.
+Ante o exposto, com fulcro no art. 266-C, do RISTJ, indefiro liminarmente os embargos de divergência.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUALCIVIL.DISSÍDIONÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTREOS CASOSCONFRONTADOS.
+1.A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ,sãocabíveis embargos de divergência, recurso cujo escopo éauniformização dajurisprudência desta Corte, eliminando as dissidênciasinternas quanto àinterpretação do direito em tese, quando determinadoórgão fracionário,julgando recurso especial, dissente de julgamento atualde qualquer outroórgão do mesmo tribunal.
+2.No caso, entretanto, o dissídio aventado pela parte embargante nãoestáconfigurado, na medida em que não há similitude fática e jurídicaentre ojulgado recorrido e os acórdãos paradigmas da 3ª Turma.
+3. Embargos de divergênciaindeferidos.
