@@ -1,0 +1,41 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1013798-96.2021.8.11.0000
+AGRAVANTE(S):
+GEAP AUTOGESTÃO EM SAÚDE
+AGRAVADO(S):
+GILSON OLIVEIRA DOS SANTOS
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo recursal interposto por GEAP AUTOGESTÃO EM SAÚDE contra decisão interlocutória proferida pela MM. Juíza de Direito da 11a Vara Cível da Comarca de Cuiabá/MT, Dra. Olinda de Quadros Altomare Castrillon, que nos autos da Ação Cominatória de Obrigação de Fazer no 1021996-96.2021.8.11.0041, ajuizada por GILSON OLIVEIRA DOS SANTOS, que determinou à agravante que autorize/custeie o tratamento do agravado na Clínica Florence em Salvador/BA.
+Em suas razões recursais a agravante aduz que se trata de entidade de direito privado e está classificada junto à Agência Nacional de Saúde Suplementar – ANS como Operadora de Saúde na modalidade de autogestão multipatrocinada, cujo Estatuto está em conformidade com as normas existentes no segmento da saúde suplementar, em especial a Lei no 9.656/98. Logo, não celebrou contrato com o agravado e que este apenas aderiu ao contrato firmado entre a Fundação e a Instituição Pública, e aos planos e programas oferecidos pela GEAP.
+Alega que a determinação judicial lhe causa lesão grave e de difícil reparação, uma vez que terá que arcar com os custos do tratamento que, por força da lei não está obrigada a autorizar/custear.
+Ressalta que “os planos da GEAP não se amoldam à hipótese de relação de consumo segundo as definições previstas no Código de Defesa do Consumidor” (sic).
+Explica que “embora tenha sido deferido o custeio das despesas de internação tratamento do Agravado em hospital não credenciado, tal medida vai de encontro ao estabelecido contratualmente” (sic).
+Defende que tal autorização impacta diretamente em toda a carteira, por se tratar de um plano de autogestão, no qual todo custo é rateado entre os beneficiários.
+Discorre que há de se ponderar que, atualmente, o agravado já possui condições de remoção, podendo ser transferido para um prestador igualmente capacitado e pertencente a rede credenciada da Operadora Agravante, até que ele possa receber alta médica e/ou ser transferido para sua cidade de domicílio.
+Com base nos pressupostos legais, requer a concessão do efeito suspensivo, “para que se suspenda de plano e casse ‘in limine’ a r. decisão agravada, pelas razões acima referendadas” (sic), possibilitando a transferência do agravado para um hospital credenciado à Operadora Agravante. No mérito, pugna pelo provimento do recurso “para revogar, em caráter definitivo, a decisão que determinou o custeio de tratamento do Agravado na Clínica Florence e no Hospital São Rafael” (sic).
+Preparo recursal recolhido, conforme comprovante de Id. 96511492.
+É o relatório.
+Decido.
+Por tempestivo e próprio recebo o recurso na forma do art. 1.015, inc. I c/c art. 1.017, ambos do CPC.
+Constata-se pela leitura do recurso interposto, que a agravante postula, de início, a concessão de efeito suspensivo à decisão vergastada, que lhe impôs que autorize/custeie o tratamento médico do agravado em hospital não conveniado.
+Na espécie dos autos, atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, não se verifica os pressupostos autorizativos para a concessão do efeito suspensivo/ativo pretendido.
+A título de esclarecimento: consta dos autos que o autor/agravado é usuário dos serviços prestados pela requerida/agravante, idoso com 74 (setenta e quatro) anos e, no mês de maio, em viagem para Salvador/BA, foi acometido pela COVID-19. Em razão do isolamento, não pode retornar para Cuiabá.
+No dia 05 de junho de 2021, apresentou piora em seu quadro de saúde e, ao procurar a unidade hospitalar, precisou ser internado em unidade de terapia intensiva – UTI, para o uso de auxilio respiratório com colocação de máscara VNI (ventilação não invasiva).
+No dia 13 de junho de 2021 apresentou quadro de piora, com febre alta, suspeita de infecção bacteriana e perda da oxigenação, sendo necessária sua intubação. E, ao solicitar a cobertura do tratamento ao plano de saúde, obteve resposta negativa. Então, em tutela de urgência, foi concedido o direito ao tratamento a ser custeado pela agravante.
+Posteriormente, em 20/07/2021, atendendo requerimento do agravado foram ampliados os efeitos da antecipação de tutela urgência para determinar que a requerida/agravante autorize/custeie, o tratamento na Clínica Florence em Salvador/BA, tendo em vista que não seria possível restringir o tratamento a um único estabelecimento, em que pese a singela melhora de saúde do agravado “com paulatino desmame de equipamentos respiratórios, a equipe médica do Hospital São Rafael indicou o seu encaminhamento à CLÍNICA FLORENCE, instituição de “transição de cuidado para a conclusão de desmame ventilatório, reabilitação motora, reabilitação de disfagia e a retirada de traqueostomia”, conforme relatório médico em anexo”.
+Foi esta decisão que causou o inconformismo da recorrente, motivo da interposição do presente recurso.
+A princípio, entendo necessário ressaltar que, em casos tais, deve prevalecer a proteção da vida, saúde e da dignidade do paciente/autor, principalmente por ser evidente no caso o caráter de urgência do tratamento prescrito, em virtude do diagnóstico do agravante.
+A tese recursal funda-se em inexistência da relação de consumo e inaplicabilidade do CDC diante da súmula n. 608/STJ e ausência de obrigatoriedade de fornecer procedimento não previsto no rol 428 de 2017 da Agência Nacional de Saúde.
+Entretanto, como bem salientado pelo juízo a quo, “os contratos de planos de saúde estão submetidos ao Código de Defesa do Consumidor, nos termos do artigo 35 da Lei 9.656/98, pois envolvem típica relação de consumo. Assim, incide, na espécie, o artigo 47 do CDC, que determina a interpretação das cláusulas contratuais de maneira mais favorável ao consumidor”.
+Por outro lado, a alegação de que o tratamento não consta no rol de procedimentos da ANS não constitui óbice à pretensão do agravado, tendo em vista que o aludido rol é meramente exemplificativo, contendo apenas o mínimo obrigatório de procedimentos a serem cobertos pela operadora do plano de saúde.
+Com a concessão do efeito suspensivo recursal restaria frustrado o próprio objetivo do contrato, qual seja, a preservação da saúde do paciente/agravado em ambiente hospitalar adequado.
+Nesse viés, não se verifica a relevância dos fundamentos recursais da parte agravante, uma vez que o direito ao bem estar do paciente deve sobrepujar a conveniência da agravante, à luz do princípio da dignidade da pessoa humana e seus consectários lógicos, os direitos à vida e saúde, bem maiores do ser humano, resguardados pela Constituição Federal em seus artigos 1o, III, 5o, “caput” e 6o, “caput”.
+Outrossim, a existência de fundado risco de dano irreparável ou de risco ao resultado útil do processo, funciona em sentido diametralmente oposto pela própria natureza jurídica do bem ora tutelado, qual seja, a saúde do agravado, circunstância que justifica a ampliação dos efeitos da antecipação de tutela de urgência, na forma concedida pelo juízo de primeiro grau, sem prejuízo de sua revogação a qualquer tempo, desde que comprovada a desnecessidade do tratamento, o que depende de maiores elementos de prova.
+De mais a mais, ao que tudo indica, a discussão não é consubstanciada em valor vultoso, não ao ponto de tornar impossível a reparação por parte do ora agravado em caso de insucesso ao final demanda.
+Entendo, portanto, a necessária manutenção da decisão agravada, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será feito pelas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Com essas considerações, ausentes os pressupostos legais, NÃO CONCEDO o efeito suspensivo/ativo vindicado.
+Intime-se a parte agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá, 03 de agosto de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
