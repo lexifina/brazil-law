@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO contra decisão do TJ/SP, o qualinadmitiu recurso especial aviadocontra acórdão assim ementado (e-STJ fl. 476):
+EMBARGOS DE DECLARAÇÃO  Ação Civil Pública  Apelação julgada pelo Colegiado como intempestiva, porém, juntado nos embargos prova de que houve suspensão do prazo pelo Presidente do Tribunal de Justiça  Tempestividade da apelação reconhecida neste momento, com o seu respectivo conhecimento e apreciação  Embargos acolhidos com efeito modificativo.
+AÇÃO CIVIL PÚBLICA  Contratação de empresa de publicidade sem a prévia licitação  Conquanto não se identifique no caso a ocorrência de prejuízo ao erário, é possível constatar ofensa aos princípios da Administração, com infringência do art. 11 da Lei nº 8.249/92  Prestação do serviço realizada, sem apresentar qualquer superfaturamento  Sentença reformada em parte - Procedência parcial mantida com ajuste da condenação dos réus nos termos do art. 12, III, da Lei nº 8.429/92  Verba honorária não devida ao Ministério Público, não se confundindo com dano moral coletivo  Recurso de apelação provido em parte para este fim.
+Os embargos de declaração foram rejeitados.
+No apelo especial, o MP/SPaponta violação doartigo1.022, II, do CPC/15 - omissão do julgado-e 11 da Lei n. 8.429/1992. Sustenta que o acórdão recorrido não individualizou as sanções impostas na origem, notadamente a suspensão dos direitos políticos, aplicada indistintamente aos réus, inclusive em relação a pessoa jurídica.
+O apelo nobre de UBIRAJARA ROBERTO MORI, em que apontaviolação do art. 458 do CPC/1973 e do art. 11da Lei de Improbidade Administrativa, também foi inadmitido.
+Manifestação ministerial pelo provimento do recurso do MP/SP (e-STJ fls. 596/606).
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, são admitidos embargos de declaração quando houver, no acórdão ou sentença, omissão, contradição, obscuridade ou erro material no julgado.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, o Tribunal de origem, mesmo provocado, deixou de se manifestar a respeito da questão alusiva à aplicação indistinta da sanção de suspensão dos direitos políticos imposta aos recorridos, uma pessoa física e uma pessoa jurídica, esta última insusceptível de sofrer tal reprimenda.
+Esse esclarecimento afigura-se de extrema relevância para o presente caso, tendo em conta que a supressão da referida penalidade poderá ensejar o redimensionamento da dosimetria imposta na origem.
+Assim, configurada a violação do art. 1.022 do Código de Processo Civil/2015, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que os vícios sejam sanados pelo Tribunal de origem.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. AUSÊNCIA DE INTIMAÇÃO PARA APRESENTAR CONTRARRAZÕES AO AGRAVO REGIMENTAL. PRINCÍPIO DA AMPLA DEFESA E DO CONTRADITÓRIO. EMBARGOS DECLARATÓRIOS. OMISSÃO QUANTO À QUESTÃO FUNDAMENTAL PARA ANÁLISE DA DEMANDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. É imprescindível a intimação do agravo para apresentar contrarrazões, em atenção aos princípios da ampla defesa e do contraditório.
+2. Não tendo o Tribunal a quo se manifestado sobre questão fundamental para o julgamento da controvérsia, justifica-se a anulação do julgado por esta Corte, por afronta do artigo 535 do Código de Processo Civil.
+3. Agravo regimental desprovido. (AgRg no REsp 1.236.975/GO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, DJe 15/02/2012).
+PROCESSUAL CIVIL. QUESTÃO RELEVANTE PARA A SOLUÇÃO DA LIDE. AUSÊNCIA DE VALORAÇÃO. OMISSÃO CONFIGURADA.
+1. A ausência de valoração de tema relevante para a solução da lide configura omissão, nos termos do art. 535 do CPC.
+2. Na leitura do acórdão recorrido conclui-se que houve omissão quanto à análise de pontos relevantes para o deslinde da controvérsia, em especial no que tange aos juros e correção monetária e à aplicação, na espécie, do art. 1º-F da Lei 9.494/1997, com redação dada pela Lei 11.960/2009, que modificou os índices e forma de contagem dos juros e correção monetária nas condenações impostas à Fazenda Pública, sobre os quais, mesmo instado a se manifestar por meio dos Embargos de Declaração opostos, o Tribunal local permaneceu silente.
+3. Caracterizada, assim, a violação do art. 535 do CPC, fica prejudicado o Recurso Especial interposto pela segurada.
+4. Dou provimento ao Recurso Especial do INSS, determinando o retorno dos autos à Corte de origem, para novo julgamento dos Embargos de Declaração, e julgo prejudicado o Recurso Especial de Marly Rodrigues Lins. (REsp 1.337.055/PE, Relator Ministro HERMAN BENJAMIN, Segunda Turma, DJe 11/09/2012).
+Registre-se que a presente decisão prejudica o exame do outro recurso.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo do MINISTÉRIO PÚBLICO/SP para DAR PROVIMENTO ao recurso especial, com base no art. 255, § 4º, III, do RISTJ,de modo a anular o acórdão recorrido, por violação do art. 1.022 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que reaprecie os embargos de declaração e sane o vício de integração ora identificado. Recurso de UBIRAJARA ROBERTO MORI prejudicado.
+Publique-se. Intimem-se.
