@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelaFAZENDA NACIONAL, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 1ª Região, assim ementado:
+"TRIBUTÁRIO E PROCESSUAL CIVIL - IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS-IPI - APROVEITAMENTO DE CRÉDITOS - REPETIÇÃO DE INDÉBITO - HIPÓTESE DIVERSA - PRESCRIÇÃO DECENAL - INADMISSIBILIDADE - PRESCRIÇÃO QUINQUENAL - COMPENSAÇÃO - CORREÇÃO MONETÁRIA INEXIGÍVEL ANTES DO ADVENTO DA LEI Nº 9.779/99 - RESISTÊNCIA DO FISCO - LEGITIMIDADE PARA OS CRÉDITOS OCORRIDOS ATÉ O ADVENTO DA LEI Nº 9.779/99 - EXPURGOS INFLACIONÁRIOS - SUPERIOR TRIBUNAL DE JUSTIÇA, SÚMULA Nº 411 - APLICABILIDADE LIMITADA AOS CRÉDITOS OCORRIDOS A PARTIR DE 20/01/1999" (fl. 375e).
+Embargos de Declaração rejeitados (fls. 409/412e).
+No Recurso Especial da FAZENDA NACIONAL, manejado com apoio nas alíneas a e c do permissivo constitucional, aponta-se a existência de dissenso pretoriano e ofensa aos arts. 458 e 535, do CPC/2015, 49do CTNe 11 da Lei 9.779/99.
+Sustenta-se, no que ora importa, o seguinte:
+"O acórdão deixou de manifestar-se sobre ponto nodal ao deslinde da controvérsia. Isto porque deferiu, sem muito dizer, o direito ao creditamento. Ocorre que, como disse a União em sede de embargos de declaração, após a vigência da lei 9.779/99 não houve resistência da administração em preservar os créditos relativos a insumos adquiridos que eram tributados.
+Ora, o acórdão não poderia ter deferido este ou aquele crédito se tal já era assegurado pela própria administração. Então, claramente, o acórdão não passa de uma grande contradição. Vejamos:
+(..)
+Aliás, o acórdão é genérico de uma forma tão extrema que parece não estar prestando jurisdição, mas tão somente tecendo considerações sobre questões jurídicas, independente de as referidas questões serem ou não objeto de controvérsia. :
+Acrescente-se que, em alguns momentos, o acórdão afirma que "quando"(condicional incondizente com a atividade sentenciai) houver óbice ao aproveitamento, há direito à correção monetária. Mas não soluciona a questão mais importante, que é dizer se neste específico caso há ou não resistência da União ao aproveitamento da parte.
+Mesmo diante de tamanha clareza nos embargos da União, o acórdão resiste na omissão e na contradição. Ora, tal é causa de nulidade.
+Assim, a nulidade do acórdão nasceu no momento em que o Tribunal "a quo" rejeitou os embargos de declaração. Com efeito, a nulidade do julgado surgiu no momento em que a Turma rejeitou os embargos declaratórios, violando o art. 535, II, do CPC. Até aquele momento era possível corrigir o equívoco no âmbito do próprio Tribunal, contudo, com a rejeição dos embargos, o aresto se tornou nulo de pleno direito" (fls. 487/488e).
+Requer-se, por fim, "o conhecimento e o provimento do presente recurso especial, a fim de anular o acórdão por ofensa ao art. 535, do CPC ou reformar o v. acórdão recorrido, reconhecendo-se a violação ao art. 11 da Lei n. 9.779/99" (fl. 492e).
+Sem contrarrazões.
+Recurso Especial admitido (fls. 494/495e).
+A irresignação merece prosperar.
+Está devidamente configurada a omissão, no acórdão recorrido.
+Dessarte, o Tribunal de origem foi expressamente instado, inclusive mediante Embargos de Declaração, a apreciar a alegação de que não teria havido, na vigência da Lei 9.779/99, resistência oposta pela Fazenda Pública ao aproveitamento de créditos por parte do contribuinte, de modo que inexistiria causa jurídica, no caso em comento,para a incidência de correção monetária sobre os créditos escriturais.
+Entretanto, sobre tal ponto, quedou-se, o Tribunal de origem, silente. A bem da verdade, como corretamenteapontado na petição recursal fazendária, a Corte a quo se limitou a fixar tese jurídica sobre a querela - cabimento da correção monetária do crédito escritural na hipótese em que o Fisco levanta óbice injustificado ao seu aproveitamento -, mas nada afirmou, especificamente, sobre a caracterização, ou não, no caso dos autos, dessa resistência injustificada.
+Como eventualdescaracterização dessa resistência teria o poder deinfluir, decisivamente, no julgamento da causa, tem-se que seu exame era de rigor, sob pena de negativa de prestação jurisdicional e violação ao art. 535, II, do CPC/73.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento aoRecurso Especial da FAZENDA NACIONAL, de modo a determinar, ao Tribunal de origem, o rejulgamento dos Aclaratórios fazendários, com o expresso enfrentamento da questão concernente à existência, ou não, na vigência da Lei 9.779/99, de resistência injustificada do órgão fazendário ao aproveitamento dos créditos escriturais em comento.
+I.
