@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por MARIA DE ABREU PEREIRA MOREIRA,mediante o qualse impugna acórdão, promanado do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+"REPETIÇÃO DE INDÉBITO TRIBUTÂRIO - CONTRIBUIÇÃO PARA CUSTEIO DE ASSISTÊNCIA MÉDICA, HOSPITALAR, ODONTOLÓGICA E FARMACÉUTICA -ART. 85 E §§ DA LEI COMPLEMENTAR ESTADUAL 62102 - INVIABILIZAÇÃO EM 1º GRAU - RESTITUIÇÃO DEVIDA, TENDO COMO TERMO A INSTRUÇÃO NORMATIVA 02, DE 0410512010.
+O direito de repetição do indébito tributário prescinde dos próprios serviços que tenham sido impostos à Administração como fonte de seu custeio e a própria obrigação legal de sua prestação remanesce, ainda que a contribuição social imposta ao servidor não se mostre dentro da competência constitucionalmente assegurada ao Estado Membro, tal como decidido pelo Supremo Tribunal Federal, deixando de ser devida a restituição a partir da opção do segurando em manter ou não o desconto para tal fim.
+JUROS MORATORIOS, A PARTIR DO TRANSITO EM JULGADO - LEI 9.494197 - NÃO-INCIDÊNCIA - APLICAÇÃO DO CTN.
+O art. 10-F da Lei 9.494197, refere-se à incidência de juros de mora em relação ao pagamento de verbas remuneratórias, incluindo-se aios benefícios previdenciários e demais verbas de natureza alimenta, no entanto, em se tratando de repetição de indébito tributário não há falar em sua aplicação, porquanto, nesses casos, são devidos juros de mora na mesma proporção dos que aqueles passíveis de exigência no momento do pagamento do tributo, ou, na falta de disposição legal, a aplicação do art. 161 c/c art. 167, § único, do Código Tributário Nacional, de modo que a correção dos valores a repetir deve incidir da data da retenção até o trânsito em julgado e a partir dai incide a Taxa Selic, na forma do art. 127 da Lei Estadual 6.763/75, Lei Federal 9.250195 e ad. 17, § 4º, da Lei Federal 9.779199.
+HONORÁRIOS ADVOCATÍCIOS - ASSISTÊNCIA JUDICIÁRIA -APLICAÇÃO ANALÓGICA DA LEI ESTADUAL 13.166/99 - HONORÁRIOS MÍNIMOS.
+A imposição contida no art. 20, § 4º, do Código de Processo Civil, mormente nos casos em que houver deferimento de assistência judiciária gratuita, sustenta a aplicação analógica da Lei Estadual 13.166199, para o momento da fixação dos honorários advocatícios, aplicando-se o convênio firmado entre a OAB/MG e o Estado de Minas Gerais, que antevê os honorários mínimos devidos pelo Estado para as ações previdenciárias, sendo tal valor submetido ao regime de correção do art. 1-F da Lei Federal 9.494197, com a imposição dos juros de mora a partir da sentença, por força do art. 407 do Código Civil Brasileiro.
+Reformada parcialmente a sentença no reexame necessário, prejudicado o recurso voluntário" (fl. 79e).
+Embargos de Declaração rejeitados (fls. 110/122e), com imposição de multa.
+No Recurso Especial, interposto com base nas alíneasae c do permissivo constitucional, aponta-se a existência de dissenso pretoriano e violação aos arts. 20, 535 e 538 do CPC/73.
+Sustenta, a parte recorrente, em síntese, o seguinte:
+"Preliminarmente, argüi a Recorrente a nulidade da decisão recorrida, tendo em vista a ocorrência de negativa de prestação jurisdicional, quando se rejeitou os embargos declaratórios, especialmente, no que tange à omissão nele posta.
+Como frisado nos embargos declaratórios, era (e é) importante, até mesmo para fins de prequestionamento e, principalmente, para fins de definição da base legal, para a caracterização de divergência jurisprudencial, que houvesse uma manifestação clara do Tribunal sobre a distribuição dos honorários de sucumbência, eis que o Recorrente/Autor, teve seu pedido inicial integralmente provido.
+A nulidade do julgado é evidente. A jurisprudência desse Colendo SUPERIOR TRIBUNAL não deixa dúvidas.
+(..)
+Os Embargos Declaratórios interpostos pelo Recorrente tiveram dois objetivos primordiais:
+Prequestionar a matéria referente aos irrisórios honorários de sucumbência fixados; e, ainda, tentar elucidar o motivo da distribuição do ônus referente aos honorários em 60% - 40%, eis que o Autor teve seu pedido integralmente atendido.
+O autor, interessado na celeridade processual, não tem ou teve qualquer interesse nem motivo para procrastinar o feito, pelo contrário, é o único interessado em acelerar seu julgamento, eis que somente receberá a restituição dos valores indevidamente cobrados ao final da ação.
+Qual o motivo da aplacação da multa  Que diga-se de passagem é maior do que os honorários de sucumbência devidos à parte Autora.
+Tolher o direito de recurso  Tolher o direito dos embargos  A aplicação e manutenção da multa ao Autor é uma aberração que visa impedir e elucidar a contradição do acórdão.
+(..)
+Na sentença hostilizada fixou-se o valor dos honorários de sucumbência em R$ 120,00 (R$ 600,00 total 60% autor e 40% Réu, a serem compensados). Valor maior do que a multa pelo fantasioso caráter protelatório dos Embargos.
+A manutenção do honorários fixados implicará em ínfimos honorários, em torno de R$ 120,00, eis que o pólo ativo consta de somente um Autor e a contribuição à assistência à saúde refere- se a valor baixo.
+Ora, data máxima vênia, o valor fixado na sentença ora hostilizada não remunera, com justiça, o trabalho feito pelos patronos da Recorrente. Antes e pelo contrário, até mesmo avilta a dignidade da profissão necessária a administração da justiça (art. 133 da CF).
+Ressalta-se que muito tempo será exigido dos advogados da Recorrente, não pela complexidade do caso, mas, pela insistência dos Recorridos em contrariar a verdade dos fatos. Tudo isto envolveu e envolverá prestação de serviços advocatícios, que demonstraram grau de zelo profissional, fazendo jus a honorários advocatícios a serem criteriosamente arbitrados por este Egrégio Tribunal.
+Não é demais dizer que o processo em análise, com absoluta certeza, seguirá ainda por mais um tempo considerável, sendo que o recebimento do valor a ser apurado só se dará por meio. de RPV e precatório.
+Por fim, vale frisar que tal quantia não equivale nem a um nono do salário mínimo vigente em nosso país. A título de exemplo, um despachante imobiliário cobra para realizar um serviço simples de obtenção de certidões a quantia de 01 salário mínimo.
+Foge da razão que um advogado, após anos de dedicação, receba, a título de honorários de sucumbência, a quantia irrisória de R$ 80,00 (oitenta reais)" (fls. 128/133e).
+Requer, por fim:
+"(..) seja conhecido e provido seu Recurso Especial para:
+1) Que seja conhecido e provido o presente Recurso para os fins de ser anulado o julgamento que rejeitou os Embargos de Declaração, para que outra decisão seja prolatada com o esclarecimento da omissão, da obscuridade e da contradição, ou
+2) Reformar a decisão de segundo grau, a fim de excluir a multa de 1% sobre o valor da causa, e Seja dado o devido provimento ao recurso, a fim de majorar a verba honorária para um valor justo e condizente com a prática da advocacia, nos termos da inicial, além da justa redistribuição dos ônus sucumbenciais, eis que a ação foi julgada totalmente procedente ao Autor; uma vez que restou comprovada a contrariedade aos art. 20 e 538 do CPC, além do dissídio jurisprudencial, estando nestas hipóteses sendo realizada a verdadeira JUSTIÇA" (fl. 139e).
+Sem contrarrazões.
+Recurso Especial admitido (fls. 186/189e).
+O presente recurso não merece prosperar.
+À partida, registre-se que o Recurso Especial, na parte em que se alega a ocorrência de omissão no julgado e fixação irrisória de honorários, perdeu seu objeto.
+É que com a retratação do acórdão inicialmente proferido, no regime do recurso repetitivo, o pedido inicial restou julgado integralmente improcedente. Assim, não mais existe a atacada condenação emsucumbência recíproca,tampouco interesse, da parte autora, ora recorrente, em majorar os honorários sucumbenciais.
+Quanto à multa processual aplicada, salvo hipótese de flagrante finalidade prequestionadora, ausente na espécie, não é possível, em sede de Especial, avaliar a legitimidade da afirmação, feita nas instâncias ordinárias, acerca do caráter protelatório dos Embargos de Declaração, por demandar revolvimento dos fatos e das circunstâncias da causa, providência vedada, mais uma vez, pelaSúmula 7/STJ.
+Senão, vejamos:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO. MULTA DEVIDA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.SÚMULA 7/STJ.
+1. Não há falar em violação ao art. 535 do CPC se o acórdão recorrido, julgando integralmente a causa, deu aos dispositivos de regência a interpretação que, sob sua ótica, se coaduna com a espécie.
+2. Hipótese em que o aresto recorrido concluiu "que a interposição dos embargos é manifestamenteprotelatória"e aplicou multa de 1% sobre o valor da causa, com base no art. 538, parágrafo único, do CPC.
+3. A revisão do entendimento do Tribunal de origem quanto ao intuito protelatório dos Embargos de Declaração implica reexame de fatos e provas, obstado pelo teor daSúmula 7/STJ.
+4. Agravo Regimental não provido" (STJ, AgRg no REsp 1.446.290/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 24/06/2014).
+"PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO MUNICIPAL. INDENIZAÇÃO. DEMORA NA CONCESSÃO DA APOSENTADORIA. MULTA POR EMBARGOS PROTELATÓRIOS. APLICADA PELO JUÍZO DE 1º GRAU. REVISÃO. REEXAME DE PROVAS.SÚMULA 7/STJ.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.
+1. Afastar as conclusões a que chegou o juízo de primeiro grau de que os embargos de declaração contra a sentença de piso foram protelatórios demandaria o reexame do conjunto fático-probatório dos autos, inviável em sede de recurso especial, nos termos do enunciado nº 7 da Súmula deste Pretório.
+2. É inadmissível o recurso especial se o dispositivo legal apontado como violado não fez parte do juízo firmado no acórdão recorrido e se o Tribunal "a quo" não emitiu qualquer juízo de valor sobre a tese defendida no especial (Súmulas nºs 282 e 356/STF).
+3. Recurso especial não conhecido" (STJ, REsp 1.370.852/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe de 28/08/2013).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+I.
