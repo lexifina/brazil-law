@@ -1,0 +1,25 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico de drogas. Prisão preventiva. Pedido de extensão. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 672.278, em tramitação no Superior Tribunal de Justiça (STJ).
+    2.  A parte impetrante afirma que a paciente foi condenada à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, pelo crime previsto no art. 33, caput, da Lei n. 11.343/06, vedado o direito de recorrer em liberdade; enquanto a corré Joyce Silva Nascimento foi condenada à pena de 7 anos de reclusão, em regime inicial semiaberto, “agraciada com a liberdade provisória”. Alega, contudo, a possibilidade da extensão à paciente dos efeitos da decisão do Juízo de origem que revogou a prisão preventiva da corré Joyce, tendo em vista a identidade de situação entre ambas.
+    3. A defesa requer a concessão da ordem a fim de revogar a prisão processual da acionante.
+    4. Decido.
+    5. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF e de decisões teratológicas.
+    6. O caso não autoriza a superação do entendimento da Súmula 691/STF.
+    7. Para além de observar que a petição inicial do habeas corpus não foi instruída com cópia da decisão do Tribunal estadual, as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o imediato acolhimento da pretensão defensiva.
+    8. Inicialmente, registro que a hipótese é de paciente condenada pelo tráfico de 2,090 kg de cocaína e 2,745 kg de crack, tendo o Juízo de origem destacado “o poder de liderança da acusada na reiterada traficância intermunicipal de entorpecentes de alta periculosidade”.
+    9. Acrescento que o art. 580 do Código de Processo Penal estabelece que, no, “caso de concurso de agentes (Código Penal, art. 25), a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros”. Vejam-se jugados deste Tribunal:
+    “DECISÃO EXTENSÃO A CORRÉU ARTIGO 580 DO CÓDIGO DE PROCESSO PENAL. A incidência do artigo 580 do Código de Processo Penal pressupõe identidade de situação jurídica.” (RHC 115.995-Extn, Rel. Min. Marco Aurélio)
+    “HABEAS CORPUS. CONSTITUCIONAL. PENAL. PROCESSUAL PENAL. PEDIDO DE EXTENSÃO DE ORDEM. AUSÊNCIA DE IDENTIDADE DE SITUAÇÕES. PRECEDENTES. 1. A exposição dos fatos e a verificação das circunstâncias presentes e comprovadas no presente pedido conduzem ao indeferimento da extensão pretendida, em razão da ausência de identidade entre a situação do Paciente e a dos corréus em benefício de quem foi deferida a ordem. 2. Recurso ao qual se nega provimento.” (RHC 116.381, Relª. Minª. Cármen Lúcia)
+    10. No caso, o Juízo da Vara Criminal da Comarca de Nova Andradina/MS revogou a prisão preventiva da corré Joyce Silva Nascimento, considerando o encerramento da instrução criminal e a primariedade da acusada. Contudo, na mesma ocasião, manteve a custódia da paciente, em razão da “prática, em tese, de traficância habitual”. De modo que não se me afigura cabível, no caso, a extensão dos efeitos da decisão que revogou a custódia preventiva da corré, em benefício da acionante. Transcrevo, nesse sentido, o seguinte trecho da decisão do Juízo de origem:
+    “IV- Considerando o encerramento da instrução processual e que a ré Joyce é primária, não vislumbro a subsistência dos elementos necessários para a manutenção da prisão cautelar, verificando ser suficiente a aplicação das medidas cautelares diversas, amainando assim o periculum libertatis. Por outro lado, mantenho a prisão da corré Vanessa por denotar a prática, em tese, de traficância habitual, tendo em vista o vasto material probatório acostado às p. 119-151 dos autos.
+    Posto isso, revogo a prisão preventiva da acusada Joyce Silva Nascimento, impondo-lhe, entretanto, medidas cautelares diversas da prisão:
+    (a) Não poderá ausentar-se da comarca onde reside, sem prévia autorização judicial, devendo informar atual endereço no prazo de cinco dias, bem como comunicar eventuais mudanças;
+    (b) Deverá recolher-se diariamente na residência indicada, desde às 20h00min até às 5h00min do dia seguinte, e, em período integral, nos finais de semana, feriados e eventuais folgas;
+    (c) Deverá comparecer a todos os atos do processo;
+    (d) Uso de tornozeleira eletrônica pelo prazo de 6 (seis) meses, sem prejuízo de eventual renovação” (sem grifos no original).
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 03 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
