@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que inadmitiu o recurso especial com fundamento na Súmula 7 do STJ.
+Sustenta o agravante que a matéria deduzida no recurso especial prescinde de revolvimento fático-probatório, razão pela qual requer o seu provimento.
+Apresentada contraminuta, manifestou-se o Ministério Público pelo improvimento do agravo.
+O recurso é tempestivo e ataca os fundamentos da decisão agravada, razão pela qual deve ser conhecido para julgar o recurso especial.
+No recurso especial, aponta violação dos arts.44, § 2º, do CP e 315, § 2º do CPP, por ausência de fundamentação para asubstituição da pena privativa de liberdade por pecuniária, a qual foi negada em razão da ousadia da conduta do agente, que teria colocado bens em um carrinho e tampadocom a mochila(fl. 205).
+O agravante foi condenado à pena de 8 meses de reclusão e 6 dias-multa, como incurso no art. 155 c/c art. 14 do CP. Interposto recurso de apelação, foi parcialmente provido para reconhecer o privilégio, substituindoa pena de reclusão por detenção, em regime aberto.
+Nos termos da orientação jurisprudencial desta Corte,"Reconhecida a figura do furto privilegiado a faculdade conferida ao julgador de substituir a pena de reclusão pela de detenção diminuí-la de 1 (um) a 2/3 (dois terços), ou aplicar somente a pena de multa requer fundamentação concreta, como exige o próprio princípio do livre convencimento fundamentado (arts. 157, 381 e 387 do CPP c/c o art. 93, inciso IX, segunda parte da Lex Maxima), o que, de fato, ocorreu na espécie" (AgRg no HC 610.177/SC, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021).
+De fato,"Ao se aplicar a previsão do § 2º do art. 155 do CP, ao magistrado é conferido escolher, desde que o faça de forma fundamentada, entre as três alternativas legais apresentadas: a) substituir a pena de reclusão por detenção; b) diminuir a pena privativa de liberdade de um a dois terços; c) aplicar somente a pena de multa" (AgRg no REsp 1825972/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/08/2019, DJe 10/09/2019).
+Na hipótese,o fundamento de que "aaplicação exclusivamente da pena pecuniária não seriam suficientes, tendo em vista a ousadia do réu que, despreocupadamente, em estabelecimento comercial, tentou subtrair diversos bens, colocando-os no carrinho e tampando com a mochila, a demonstrar a maior reprovabilidade da sua conduta" (fl. 168) não desborda do tipo penal de furto privilegiado, razão por que deve ser provido o recurso para aplicar apenas a pena pecuniária, mais favorável ao réu.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial para estabelecer a pena do agravante em 10dias-multa, nomínimo legal.
+Publique-se.
+Intimem-se.
