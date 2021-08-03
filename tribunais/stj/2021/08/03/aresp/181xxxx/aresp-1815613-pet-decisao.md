@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de Petição 00636137/2021,às fls. 434-440, por meio da qual se apresenta o comprovante de depósito judicial do montante integral devido pela requerente a título de IPVA do ano de 2011.
+Por tal motivo, se requera intimação do Distrito Federal sobre a suspensão do crédito tributário relativo ao IPVA do ano de 2021 do veículo de placa PBK0363 (Renavan 01155678327), bem como a Secretaria de Fazenda do Distrito Federal - SEFAZ-DF e o DETRAN-DF, órgãos do Governo Distrital responsáveis pela fiscalização do pagamento do tributo.
+Solicita, ainda,a concessão de decisão com força de mandado, atestando o depósito do montante integral e a suspensão da exigibilidade do crédito tributário a título de IPVA do ano de 2021, a fim de evitar a apreensão do veículo pelos órgãos distritais e federais de fiscalização.
+Pelo que se observa, a referida petição foi protocolizada somente após proferida decisão monocrática (fls. 410/411), publicada em 24/03/2021(fl. 412), pela qual não se conheceu do recurso especial, diante de sua intempestividade.
+Nesse contexto, incabível o pleito, formulado a destempo, quando já entregue a prestação jurisdicional.
+Impende salientar que se aplica às decisões dos recursos, nos tribunais, o disposto no art. 494 do CPC/2015, segundo o qual, publicada a sentença, o juiz só poderá alterá-la: I - para lhe corrigir, de ofício ou a requerimento da parte, inexatidões materiais, ou lhe retificar erros de cálculo; II - por meio de Embargos de Declaração.
+Por outro lado, não se aplica ao caso o princípio da fungibilidade, para fins de recebimento da aludida petição como Embargos de Declaração ou como Agravo Regimental, visto que a requerente não observou os requisitos de admissibilidade inerentes a esses recursos interponíveis contra as decisões proferidas no STJ.
+Considerando que houve a interposição de agravo interno contra a decisão monocrática proferida às fls. 410-411, após, voltem os autosconclusos para a análise do agravo interno às fls. 414-422.
+Ante o exposto,não conheço da Petiçãon.º 00636137/2021.
