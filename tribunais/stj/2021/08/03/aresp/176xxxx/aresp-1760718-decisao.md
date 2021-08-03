@@ -1,0 +1,104 @@
+DECISÃO
+CONDOMÍNIO EDIFÍCIO NAIR CÂNDIDA ANDRADE (CONDOMÍNIO) promoveu ação de reintegração de posse cumulada com pedido demolitório contra LEANDRA ROSSI SUEDT, MILENA ROSSI SUEDT e NADIR MOREIRA ROSSI SUEDT (LEANDRA e outras), alegando que estas se apossaram de parte daárea da garagem do edifício que fica contígua ao apartamento delas, no segundo subsolo. Destacou que o apartamento de LEANDRA e outras não possui vaga de garagem, mas que elas se utilizaram da área comum de 30,78 metros quadrados da garagem, de propriedade do condomínio, para aumentar seu imóvel. Requereu, assim, a procedência dos pedidos, com a consequente demolição das obras realizadas.
+Em primeira instância, os pedidos foram julgados procedentes para determinar a imediata reintegração da posse do CONDOMÍNIO na área objeto do pedido, fixando o prazo de 15 (quinze) dias para a demolição das obras efetuadas por LEANDRA e outras, sob pena de multa diária. Na ocasião, LEANDRA e outras foram condenadas ao pagamento das custas e despesas do processo e dos honorários advocatícios fixados em 10% do valor da causa corrigido, observada a justiça gratuita.
+Os embargos de declaração opostos por LEANDRA e outras foram rejeitados.
+A apelação interposta por LEANDRA e outros não foi provida pelo Tribunal de Justiça de Minas Gerais, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL - REINTEGRAÇÃO DE POSSE - CONDOMÍNIO - FECHAMENTO DE ÁREA COMUM - AUSÊNCIA DE CONSENTIMENTO DOS DEMAIS CONDÔMINOS - PRELIMINAR - AUSÊNCIA FUNDAMENTAÇÃO - INOCORRÊNCIA - ILEGITIMIDADE ATIVA - INEXISTENTE - NULIDADE POR AUSÊNCIA DE CITAÇÃO - NÃO INOPERÂNCIA - PRESCRIÇÃO - AFASTADA - ESBULHO - CONFIGURADO - PROCEDÊNCIA DO PEDIDO - MEDIDA QUE SE IMPÕE.
+- A fundamentação sucinta não macula a sentença com nulidade, mas a ausência de fundamentação, o que não se verifica dos autos.
+- Não há que se falar em ilegitimidade ativa para demandar quando o Condomínio esteja devidamente representado pela figura do sindico com poderes para tanto.
+- Não há que se falar em nulidade de processo por ausência de citação de cônjuge nas ações possessórias uma vez que não se trata de composse ou ato praticado por ambos.
+- Impossível se falar em inicio de computo de prazo prescricional em determinado período em que aquele que estaria legal possível de representar o Condomínio fosse o próprio esbulhador.
+- O cômputo do prazo prescricional ocorre a partir do momento que o próprio esbulhador deixa de ser o representante legal daquele que esta sendo esbulhado.
+- Uma vez incontroverso que o proprietário violou Convenção de Condomínio ao isolar parte da área comum sem o consentimento necessário dos demais condôminos, a reintegração de tal área ao Condomínio autor se mostra adequada, uma vez que configurado o esbulho (e-STJ, fl. 457).
+Os embargos de declaração opostos por LEANDRA e outras foram rejeitados.
+Inconformadas, LEANDRA e outras manejaram recurso especial, com amparo no art. 105, III, alínea a, da CF, alegando violação dos arts. 4º, 489, § 1º, IV, e 1.013, § 1º, do NCPC. Sustentaramque (1) o aresto recorrido foi omisso quanto à parte do imóvel que foi esbulhada; (2) elas tiveram seu direito de defesa prejudicado por não ter sido delimitada qual a área considerada esbulhada; (3) o Tribunal deve enfrentar todas as questões suscitadas no seu apelo; (4) a petição inicial foi inepta; (5) o acórdão rechaçado ficou desprovido de fundamentação; e(6) elas têm o direito de obter, em prazo razoável, a solução integral do mérito.
+Contrarrazões (e-STJ, fls. 509/514).
+O apelo nobre interposto por LEANDRA e outras não foi admitido em virtude da incidência das Súmulas nºs 282, 283 e 356 do STF e 7 e 211 do STJ.
+Seguiu-se o agravo em recurso especial interposto por LEANDRA e outras, oportunidade em que elas rebateram os óbices apontados, tendo reiterado os termos do seu apelo nobre.
+Sem contraminuta (e-STJ, fl. 589)
+É o relatório.
+DECIDO.
+O inconformismo não merece prosperar.
+De plano, vale pontuar que o presente recurso foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da suposta contrariedade ao art. 4º do NCPC
+Inicialmente, oconteúdonormativodo art. 4º doNCPC,que versasobre a primazia do julgamento do mérito em tempo razoávelnão foiobjeto de debate pelo Tribunal estadual, sob o viés pretendido, nem mesmo após a oposição dos embargos de declaração, de modo que está ausente o indispensável requisito do prequestionamento.
+Além disso, nos embargos de declaração, verificou-se a ausência de omissão, obscuridade, contradição ou erro material.
+Incide, portanto, a Súmula nº 211 do STJ:Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunala quo.
+Na hipótese, caberia à parte interessada indicar ofensa ao art. 1.022 do NCPC nas razões do seu recurso especial para que se possibilitasse ao Órgão julgador verificar a existência do vício no acórdão recorrido, o que não ocorreu.
+A propósito, confiram-se os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. TRANSPORTE AÉREO INTERNACIONAL DE CARGAS. EXTRAVIO DE MERCADORIAS. REEXAME DE CONTEÚDO CONTRATUAL. SÚMULA N. 5/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ. INDENIZAÇÃO. TARIFAÇÃO. LIMITES. CULPA GRAVE. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. JUROS DE MORA. SEGURADORA. CAUSADOR DO SINISTRO. TERMO INICIAL. EFETIVO DESEMBOLSO. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que demandem a interpretação do contrato (Súmula n. 5 do STJ).
+2. No caso concreto, o Tribunal de origem analisou os termos do contrato para concluir que o agente de logística que assinou o recibo não tinha poderes para dar quitação em nome da recorrida.
+Alterar esse entendimento demandaria reexame do conjunto probatório do feito, vedado em recurso especial.
+3. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, mesmo após a oposição de embargos declaratórios, obsta o conhecimento do recurso especial, por falta de prequestionamento. Incidência da Súmula n. 211/STJ.
+4. "O art. 248 do Código Brasileiro de Aeronáutica tem disposição harmoniosa com o art. 22, alínea 5, da Convenção de Montreal, que estabelece que a limitação indenizatória não se aplicará se for provado que o dano é resultado de uma ação ou omissão do transportador ou de seus prepostos, com intenção de causar dano, ou de forma temerária e sabendo que provavelmente causaria dano, sempre que, no caso de uma ação ou omissão de preposto, se prove também que este atuava no exercício de suas funções" (REsp 1.341.364/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/4/2018, DJe 5/6/2018).
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático dos autos (Súmula n. 7 do STJ).
+6. Na ação de reparação de danos ajuizada por seguradora contra o causador do sinistro, os juros de mora devem fluir a partir da data do efetivo desembolso, e não da citação. Precedentes.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 905.346/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 24/8/2020, DJe 28/8/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. 1.LEGITIMIDADE PASSIVA CONFIGURADA. ALTERAÇÃO. SÚMULA N. 7 DO STJ. 2. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. 3. RESPONSABILIDADE SOLIDÁRIA. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 4. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu pela legitimidade passiva de Edson Marques da Silva Filho. A modificação das premissas firmadas na origem, de modo a acolher a irresignação recursal, demandaria o reexame do acervo fático-probatório dos autos, procedimento inviável no âmbito do recurso especial, nos termos da Súmula n. 7 do STJ.
+2. Não tendo havido, mesmo após a interposição de aclaratórios, pronunciamento do Colegiado estadual acerca da impossibilidade de se responsabilizar o administrador sem que se proceda à desconsideração da pessoa jurídica, incide na espécie o enunciado n. 211 da Súmula do STJ, ante a ausência do necessário prequestionamento viabilizador do recurso especial, requisito indispensável ao acesso às instâncias excepcionais.
+3. A revisão das conclusões estaduais quanto à responsabilidade solidária da agravante demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas no âmbito do recurso especial, ante os óbices das Súmulas 5 e 7 do STJ.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.779.403/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 23/3/2020, DJe 30/3/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESERVA DE HONORÁRIOS. ART. 22 DA LEI Nº 8.906/1994. HABILITAÇÃO DE CRÉDITO. RECUPERAÇÃO JUDICIAL. EXPEDIÇÃO DE MANDADO. TESE. PREQUESTIONAMENTO FICTO. AUSÊNCIA. SÚMULA Nº 211/STJ. ART. 1.025 DO CPC/2015. NÃO DEMONSTRAÇÃO. ART. 1.022 DO CPC/2015. AFRONTA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+3. Esta Corte não reconhece o prequestionamento pela simples oposição de declaratórios. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do Código de Processo Civil de 2015, sob pena de perseverar o óbice da ausência de prequestionamento.
+4. Se a questão levantada não foi discutida pelo tribunal de origem, e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.529.862/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 16/3/2020, DJe 19/3/2020)
+Da alegada contrariedade ao art. 1.013, § 1º, do NCPC
+Outrossim, LEANDRA e outras sustentaram que o aresto recorrido foi omisso, porque não ficou individualizada qual área teria sido esbulhada e que cabe ao Tribunal se pronunciar sobre todas as questões suscitadas.
+Sobre o tema,assim se manifestou o TJMG:
+Compulsando os autos, verifica-se ter restado incontroverso aexistência de esbulho por parte das requeridas sobre área comum docondomínio autor.
+Isto porque é nítido que o imóvel da parte requerida possui áreaconforme registro junto ao CRI de 90,42m2, tendo sido verificada pelaprova pericial produzida sob o crivo do contraditório uma área de126,90m2.
+Também é inconteste que a parte requerida teria se utilizado daárea do condomínio quando pretende se defender utilizando o direito ausucapião.
+Em que pese todas as irresignações da parte apelante,vislumbro que os autos foram muito bem analisados pelo magistradosingular, motivando a procedência do pleito inaugural.
+Isto porque é crível que o fato de uma das requeridas ter sidosindica do condomínio por 23 anos já afasta a sua intenção de possuira área como dona, posto que sabia ser do condomínio e a elacompetia a guarda e defesa dos direitos dos condôminos quanto aárea comum, não se podendo admitir qualquer contagem de prazopara prescrição aquisitiva para este período.
+O que se verifica é que a requerida que era sindica docondomínio por longos anos se aproveitou da sua condição deadministradora e defensora dos bens comuns do condomínio para seapossar da área comum.
+Por este motivo, é de se afastar por completo a alegação detentativa de aquisição pela usucapião.
+Assim, entendendo que a posse das requeridas sobre a área,ainda que por longos anos, foi precária por se tratar de área comum epor ter se iniciado justamente no período que uma das requeridas erasindica do Condomínio, devem restituir a área esbulhada.
+Também pertinente afastar a alegação das apelantes de queárea não pertenceria nem ao Condomínio autor nem a nenhum outro,tendo em vista que se a área esta dentro do Condomínio autor é a elepertencente ou a alguém que não as apelantes, posto que restoucomprovado que quando da aquisição somente o fizeram em relação aárea total de 90,42m2, não tendo restado demonstrada outramotivação para apuração por pericial de uma área maior, atualmente.
+ ..
+Destarte, tendo verificado o esbulho perpetrado pela parte requerida, é de se considerar a manutenção da decisão hostilizada (e-STJ, fls. 463/465).
+Nesse contexto, LEANDRA e outraslimitaram-se a afirmar que o aresto recorrido foi omisso, porque não ficou individualizada qual área teria sido esbulhada e que cabe ao Tribunal se pronunciar sobre todas as questões suscitadas.
+LEANDRA e outras deixaramde impugnar especificamente os fatos de que (1) seu imóvel possui área de 90,42 metros quadrados segundo o Cartório de Registro de Imóveis; (2) o laudo pericial mostra uma área ampliada para 126,90 metros quadrados; (3)ficou comprovado que uma das partes se aproveitou da sua qualidade de síndica por longos anos para se apropriar de área comum do CONDOMÍNIO; e(4) ficou demonstrado o esbulho perpetrado, considerando a posse precária de área comum do CONDOMÍNIO.
+Dessa forma, as razões do especial, como se vê, indicam a ausência de impugnação específica dosfundamentos utilizados no aresto recorrido, havendo dissociação das razões recursais do apelo nobre, o que caracterizaa deficiência na fundamentação e fazincidir a Súmula nº 284 do STF, que dispõe:É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Sobre o tema, seguem os precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. HONORÁRIOS ADVOCATÍCIOS. PRINCÍPIO DA CAUSALIDADE. INÉRCIA DO EXEQUENTE NA PROPOSITURA DO CUMPRIMENTO DE SENTENÇA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO ATACADO. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. Deve ser afastada a inobservância à dialeticidade recursal quando a parte impugna especificamente os fundamentos da decisão recorrida.
+2. Consoante entendimento jurisprudencial, "a responsabilidade pelo pagamento de custas e honorários advocatícios deve ser fixada com base no princípio da causalidade, segundo o qual a parte que deu causa à instauração do processo deve suportar as despesas dele decorrentes" (AgInt no AREsp 1.542.033/MT, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/05/2020, DJe de 25/05/2020).
+3. No caso, a caracterização da prescrição lastreou-se na demora do exequente para a propositura do cumprimento de sentença, sendo legítima a condenação imposta a título de honorários em seu desfavor.
+4. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1.680.324/SC, Rel. Ministro RAUL ARAÚJO, Quarta Turma, j. 19/10/2020, DJe 16/11/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.PUBLICAÇÃO. REDE SOCIAL. DIREITO DE INFORMAÇÃO. EXTRAPOLAÇÃO. OFENSA À INTIMIDADE. HONRA E IMAGEM. DIREITO CONSTITUCIONAL. FUNDAMENTAÇÃO.ACÓRDÃO. RECURSO EXTRAORDINÁRIO. NECESSIDADE. SÚMULA Nº 126/STJ.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. RAZÕES DISSOCIADAS. SÚMULAS NºS 283 E 284/STF.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Aplicável a Súmula nº 126/STJ quando, no acórdão recorrido, há fundamento constitucional não atacado por recurso extraordinário.
+3. A despeito de o art. 1.032 do Código de Processo Civil de 2015prever a aplicação do princípio da fungibilidade ao apelo nobre que versar acerca de questão constitucional, a aplicação está condicionada à hipótese em que há um equívoco quanto à escolha do recurso cabível, sendo que, no caso dos autos, além da inexistência de recurso em separado no tocante ao capítulo decisório de fundamento constitucional, não foi apontada contrariedade a preceitos constitucionais, de modo que não há falar na aplicação do princípio antes referido.
+4. A ausência de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283 do Supremo Tribunal Federal.
+5. É inadmissível o inconformismo por deficiência na sua fundamentação quando as razões do recurso estão dissociadas do que decidido no acórdão recorrido. Aplicação da Súmula nº 284 do Supremo Tribunal Federal.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.561.355/GO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 4/5/2020, DJe 7/5/2020)
+Da assertiva de ofensa ao art. 489, § 1º, IV,do NCPC
+LEANDRA e outras deduziram a ausência de fundamentação do aresto recorrido, sob o argumento de que não foi individualizada a área considerada esbulhada.
+No entanto, conforme a transcrição acima,o TJMGemitiu pronunciamento, de forma fundamentada, de toda a controvérsia posta em debate, ainda que de forma contrária ao pretendido pela parte.
+O que se vê, na verdade, é a irresignação de LEANDRA e outrascom o resultado que lhe foi desfavorável, pretendendo, por meio da tese de violação do disposto no art. 489do NCPC, obter novo julgamento da matéria, com notório intuito infringente, o que se mostra inviável, já que inexistentes os requisitos elencados no mencionado artigo.
+Sobre o tema, confira-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.VEÍCULO ZERO QUILÔMETRO. DEFEITO. RELAÇÃO DE CONSUMO. DEVER DE REPARAR. ARTS. 489 E 1.022 DO CPC/2015. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. DANO MORAL. CONFIGURAÇÃO. REVISÃO.REEXAME. SÚMULA Nº 7/STJ. INDENIZAÇÃO. REDUÇÃO. RAZOABILIDADE.SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, ausente violação dos arts. 489 e 1.022 do CPC/2015, visto inexistir no acórdão recorrido omissão ou carência de fundamentação idônea.
+3. No caso concreto, verifica-se a deficiência de fundamentação do recurso porque as alegações da agravante são insuficientes para infirmar o juízo emitido pelo tribunal local.
+4. O acolhimento da tese recursal de que não houve comprovação de nenhum ato ilícito ou prova dos vícios no veículo exigiria o reexame das circunstâncias fáticas, procedimento obstado pela Súmula nº 7/STJ.
+5. A jurisprudência do Superior Tribunal de Justiça entende que os casos em que o consumidor de veículo zero quilômetro necessitar retornar à concessionária por diversas vezes para reparar defeitos apresentados no veículo adquirido configuram dano moral suscetível de indenização.
+6. Na hipótese, rever o valor fixado a título de danos morais exigiria exceder os fundamentos do acó rdão impugnado e adentrar no exame das provas, procedimento vedado em recurso especial, a teor da Súmula nº 7/STJ.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.485.844/MA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 22/6/2021, DJe 30/6/2021)
+Nessas condições,CONHEÇOdo agravo paraNÃO CONHECERdo recurso especial.
+Considerando a aplicabilidade do NCPC, MAJORO em 5% o valor dos honorários advocatícios anteriormente fixados em desfavor de LEANDRA e outras, nos termos do art. 85, §§ 2º e 11, do NCPC, observada a justiça gratuita.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretará condenação às penalidades fixadas nos arts. 1.021, § 4º,ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC.AÇÃO DE REINTEGRAÇÃO DE POSSE CUMULADA COM PEDIDO DEMOLITÓRIO. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ.FUNDAMENTAÇÃO DEFICIENTE. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO ARESTO RECORRIDO.APLICAÇÃO DA SÚMULA Nº 284 DO STF, POR ANALOGIA. ART. 489DO NCPC. PRETENSÃO DE NOVO JULGAMENTO DA CAUSA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
