@@ -1,0 +1,25 @@
+DECISÃO
+VALDINEI TEIXEIRA FARIA e DAVIDSON FELIPE MARTINS PIRES alegam sofrer coação ilegal, em decorrência de decisão do Desembargador relator do HC n. 1.0000.21.113806-0/000, em trâmite no Tribunal de Justiça do Estado de Minas Gerais, que indeferiu o pedido liminar.
+A defesa pretende "trancamento do Processo Administrativo Disciplinar - PAD - Portaria nº 101.868/2011" em favor dos pacientes - condenados, respectivamente a 14 anos de reclusão e 12 anos de reclusão pelos crimes de homicídio qualificado e por abuso de autoridade -, sob o argumento de violação do princípio ne bis in idem.
+Decido.
+I. Vedada supressão de instância
+De acordo com o explicitado na Constituição Federal (art. 105, I, "c"), não compete a este Superior Tribunal conhecer de habeas corpus impetrado contra decisão denegatória de liminar, por desembargador, antes de prévio pronunciamento do órgão colegiado de segundo grau.
+Em verdade, o remédio heroico, em que pesem sua altivez e sua grandeza como garantia constitucional de proteção da liberdade humana, não deve servir de instrumento para que se afastem as regras de competência e se submetam à apreciação das mais altas Cortes do país decisões de primeiro grau às quais se atribui suposta ilegalidade, salvo se evidenciada, sem necessidade de exame mais vertical, a apontada violação ao direito de liberdade do paciente.
+Somente em tal hipótese a jurisprudência, tanto do STJ quanto do STF, admite o excepcional afastamento do rigor da Súmula n. 691 do STF (aplicável ao STJ), expressa nos seguintes termos: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Nesse sentido, permanece inalterado o entendimento dos Tribunais Superiores: HC n. 179.896 AgR, Rel. Ministro Alexandre de Moraes, 1ª T., DJe 2/4/2020; HC n. 182.390 AgR, Rel. Ministro Cármen Lúcia, 2ª T., DJe 24/4/2020; AgRg no HC n. 561.091/RJ, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 16/4/2020; AgRg no RHC 119.330/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 02/12/2019; AgRg no HC n. 548.761/PE, Rel. Ministra Laurita Vaz, 6ª T., DJe 4/2/2020.
+III. Ato apontado como coator
+Constato, de plano, que a pretensão não envolve direito líquido e certo que recai na liberdade direta de ir e vir, de modo a viabilizar seu exame por meio de habeas corpus.
+Já decidiu esta Corte Superior que "A jurisprudência deste Tribunal se mostra firme quanto ao cabimento do Habeas Corpus somente quando haja real e concreta possibilidade de privação da liberdade." (HC 134.218/GO, Rel. Ministro Napoleão Nunes Maia Filho, 5ª T., DJe 8/9/2009).
+No mesmo sentido:
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. POLICIAL CIVIL. PERDA DO CARGO PÚBLICO. EFEITO EXTRAPENAL ESPECÍFICO DA SENTENÇA CONDENATÓRIA. NECESSIDADE DE FUNDAMENTAÇÃO.
+AUSÊNCIA DE VIOLAÇÃO OU AMEAÇA DE VIOLÊNCIA AO DIREITO AMBULATÓRIO. VIA INADEQUADA. NÃO CONHECIMENTO.
+ ..  2. A exclusividade de proteção da liberdade de locomoção pelo habeas corpus se deve pela grande relevância do bem jurídico no convívio social dentro de um Estado Democrático de Direito, razão pela qual, na sua regulamentação dada pelo legislador ordinário, recebeu um rito célere e sumário, com o intuito de que, caso verificada a ilegalidade ou abusividade do ato tido como coator, o direito ambulatório reclamado seja restituído ao indivíduo com a maior brevidade possível, minimizando-se, assim, as consequências nefastas da sua restrição indevida.
+3. A reclamada falta de fundamentação na parte da sentença que decretou a perda do cargo público como efeito extrapenal específico da condenação é matéria que não importa qualquer violação ou ameaça ao direito ambulatório do paciente, surtindo efeito apenas na esfera administrativa de direitos do indivíduo, sendo certo que existem no ordenamento jurídico outros meios pelos quais a alegada ilegalidade pode ser adequadamente analisada. Precedente.
+ ..  (HC 148.109/MG, Rel. Ministro Jorge Mussi, 5ª T., DJe 7/6/2010)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. DECISÃO EM QUE NÃO SE CONHECEU DE RECURSO ORDINÁRIO INTERPOSTO PERANTE ESTA CORTE SUPERIOR. PEDIDO DE AFASTAMENTO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INEXISTÊNCIA DE PERIGO OU RESTRIÇÃO À LIBERDADE DE LOCOMOÇÃO. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Inexistindo qualquer argumento apto a afastar as razões consideradas no decisum ora agravado, no qual não se conheceu de recurso em habeas corpus interposto com o fim de afastar medidas cautelares diversas da prisão, por ausência de perigo ou restrição à liberdade de locomoção do Agravante, a decisão atacada deve ser mantida por seus próprios fundamentos.
+2. Agravo regimental desprovido.
+(AgRg no RHC 32.445/RS, Rel. Ministra Laurita Vaz, 5ª T., DJe 06/03/2013)
+IV. Dispositivo
+À vista do exposto, indefiro liminarmente este habeas corpus, com fulcro na Súmula n. 691 do STF e no art. 210 do RISTJ.
+Publique-se. Intimem-se.
