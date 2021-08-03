@@ -1,0 +1,24 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO TEMPORÁRIO. NULIDADE DA CONTRATAÇÃO. FGTS. PRESCRIÇÃO. ACÓRDÃO COM FUNDAMENTO CONSTITUCIONAL NÃO IMPUGNADO. SÚMULA 126/STJ.RECURSO ESPECIAL DO PARTICULAR A QUE SE NEGAPROVIMENTO.
+1. Trata-se de Recurso Especial interposto por MARCIANO DE ALMEIDA VIEIRA, com fundamento no art. 105, III, alíneas a e c da Constituição Federal, contra acórdão proferido pelo egrégio Tribunal de Justiça do Estado do Espírito Santo, assim ementado:
+APELAÇÃO CÍVEL - CONTRATO TEMPORÁRIO - CONTRATAÇÃO DE SERVIDOR NECESSIDADE TEMPORÁRIA POSSIBILIDADE DEPÓSITOS DO FGTS DIREITO - PRESCRIÇÃO PARTE ERROR IN JUDICANDO - NÃO OCORRÊNCIA - RECURSO CONHECIDO E IMPROVIDO.
+1 - A Constituição Federal determina ser a regra para ingresso no serviço público a prévia aprovação em concurso público. Todavia, excepcionalmente, é possível a contratação temporária de servidores, sem aprovação em concurso, desde que seja para atender necessidade temporária de excepcional interesse público, conforme especificação legal.
+2 - Decreto 20.910/32, que destaca, em seu art. 1o, que: As dívidas passivas da União, dos Estados e dos Municípios, bem assim todo e qualquer direito ou ação contra a Fazenda federal , estadual ou municipal, seja qual for a sua natureza, prescrevem em cinco anos contados da data do ato ou fato do qual se originarem.
+3 - O apelante pretende a percepção de verbas do FGTS relativas ao contrato temporário firmado e encerrado sucessivamente com a Administração entre o período de 1999 a 2012, mas somente veio a ajuizar a ação originária em 22/08/2012, estando realmente prescritas as parcelas anteriores a data de 22/08/2007.
+4 - Não ocorreu error in judicando na sentença proferida pela MM. Juíza, ao acolher a prescrição quinquenal na forma do Decreto no20.910/32, e não a Lei Federal 8.036/90, onde o Supremo Tribunal de Justiça, Superior Tribunal de Justiça e este Egrégio Tribunal de Justiça pacificaram, que para recebimento de crédito relativo ao FGTS, prescreve em 05 (cinco) anos.
+5 Recurso Conhecido e Negado Provimento. (TJES, Classe: Apelação, 024120303649, Relator : WALACE PANDOLPHO KIFFER, Órgão julgador: QUARTA CÂMARA CÍVEL , Data de Julgamento: 24/09/2018, Data da Publicação no Diário: 03/10/2018).
+2. Em suas razões recursais, sustenta a parte recorrente violação doart. 23, § 5º,da Lei 8.036/1990, aduzindo, em suma, que todos os créditos vindicados na exordial possuem termo inicial da contagem do prazo prescricional em data anterior à data do julgamento do ARE 709.212, em 13.11.2014, conclui-se que não há prescrição a ser declarada (fls. 195).
+3. Com as contrarrazões, o recurso foi admitido às fls. 211/213.
+4. É o relatório.
+5. O recurso não merece prosperar.
+6.Ao analisar a questão da prescrição do direito de percepção de depósitos em conta vinculada doFGTS,o Tribunal de origem consignou:
+"O próprio Ministro Gilmar Mendes, no Julgamento doRE nº 709.212, diz que a antiga jurisprudência do STFque adotava a prescrição trintenária - não apresentava concorde com o ordenamento constitucional quando entendia ser o prazo prescricional trintenário aplicável tanto aos casos de recolhimento do FGTS ,quanto nos casos de não recolhimento.
+Isso porque o art. 7º, inciso XXIX da Carta Magna contém a determinaçãoacerca do prazo prescricional aplicável à propositura das ações atinentes à créditosresultantes das relaçõesde trabalho.
+Artigo 7º, inciso XXIX, da Constituição Federal, in verbis:
+"Art. 7ºSão direitos dos trabalhadoresurbanos e rurais, além deoutros que visem à melhoria de sua condição social:
+XXIX - ação, quanto aos créditos resultantes das relações de trabalho, com prazo prescricional de cinco anos para trabalhadores Urbanos e rurais, até o limite, de dois anos. após a extinção do contrato de trabalho". (Sem grifos no original).
+Portanto, o inciso XXIX do art. 7º da Constituição Federal, estabelece que o direito de ação de cobrança dos créditos das relações de trabalho prescreve em cinco anos, que conflitava fortemente com a previsão da prescrição trintenária da cobrança dos depósitos do FGTS, o que causava uma grande insegurança jurídica (fls. 184).
+7. Verifica-se que o Tribunal de origem utilizou tanto fundamento infraconstitucional, quanto constitucional para dirimir a controvérsia. Entretanto, não consta dos autos a interposição do competente Recurso Extraordinário, a fim de impugnar a motivação constitucional, suficiente à manutenção do aresto.
+8. Incide, portanto, o óbice daSúmula 126do STJ, que assim dispõe: é inadmissível Recurso Especial quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.
+9. Ante o exposto, nego provimento ao Recurso Especial do Particular.
+10. Publique-se.Intimações necessárias.
