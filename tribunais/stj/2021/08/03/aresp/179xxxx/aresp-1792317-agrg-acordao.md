@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA. DESNECESSIDADE. CRIME PRATICADO MEDIANTE UMA ÚNICA AÇÃO CONTRA VÍTIMAS DIFERENTES E NO MESMO CONTEXTO FÁTICO. CONCURSO FORMAL DE CRIMES. FRAÇÃO DE AUMENTO. PROPORCIONALIDADE. INCIDÊNCIA DA SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do RESP n. 1499050/RJ, no âmbito da Terceira Seção deste Superior Tribunal de Justiça, prevaleceu o entendimento de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. No caso dos autos, os agravantes obtiveram a posse dos bens, após emprego de grave ameaça, ainda que por breve período de tempo, o que caracteriza a forma consumada do delito de roubo.
+3. A jurisprudência desta Corte é firme no sentido de que o delito de roubo, praticado mediante uma única ação contra vítimas diferentes e em um mesmo contexto fático, configura o concurso formal de crimes e não a ocorrência de crime único, pois violados patrimônios distintos.
+4. "Nos termos da jurisprudência deste Superior Tribunal de Justiça, o aumento decorrente do concurso formal tem como parâmetro o número de delitos perpetrados, dentro do intervalo legal de 1/6 a 1/2. Nesses termos, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações e 1/2 para 6 ou mais infrações"(HC 603.600/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+5. In casu, observa-se que o aumento da pena estipulado pelas instâncias ordinárias em 1/3 (um terço) revela-se benéfico aos agravantes, tendo em vista que se trata de 24 vítimas (22 pessoas físicas, EBCT e Banco Postal), que permitiria aumento superior.
+6. Nos termos do enunciado n. 231 desta Corte, é inviável a aplicação de circunstâncias atenuantes para fins de redução da pena a patamar aquém do mínimo legal.
+7. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 797/803, em que neguei provimento ao recurso especial, porquanto a hipótese dos autos demonstra que houve a consumação dos delitos, em concurso formal, além do óbice contido na Súmula n. 231/STJ.
+O agravante repisa os argumentos expendidos no apelo especial, alegando que não houve a consumação do delito, a ocorrência de crime único e a possibilidade de se reduzir a pena aquém do mínimo legal, na segunda fase da dosimetria.
+Pleiteia, assim, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA. DESNECESSIDADE. CRIME PRATICADO MEDIANTE UMA ÚNICA AÇÃO CONTRA VÍTIMAS DIFERENTES E NO MESMO CONTEXTO FÁTICO. CONCURSO FORMAL DE CRIMES. FRAÇÃO DE AUMENTO. PROPORCIONALIDADE. INCIDÊNCIA DA SÚMULA N. 231 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. No julgamento do RESP n. 1499050/RJ, no âmbito da Terceira Seção deste Superior Tribunal de Justiça, prevaleceu o entendimento de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. No caso dos autos, os agravantes obtiveram a posse dos bens, após emprego de grave ameaça, ainda que por breve período de tempo, o que caracteriza a forma consumada do delito de roubo.
+3. A jurisprudência desta Corte é firme no sentido de que o delito de roubo, praticado mediante uma única ação contra vítimas diferentes e em um mesmo contexto fático, configura o concurso formal de crimes e não a ocorrência de crime único, pois violados patrimônios distintos.
+4. "Nos termos da jurisprudência deste Superior Tribunal de Justiça, o aumento decorrente do concurso formal tem como parâmetro o número de delitos perpetrados, dentro do intervalo legal de 1/6 a 1/2. Nesses termos, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações e 1/2 para 6 ou mais infrações"(HC 603.600/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 14/9/2020).
+5. In casu, observa-se que o aumento da pena estipulado pelas instâncias ordinárias em 1/3 (um terço) revela-se benéfico aos agravantes, tendo em vista que se trata de 24 vítimas (22 pessoas físicas, EBCT e Banco Postal), que permitiria aumento superior.
+6. Nos termos do enunciado n. 231 desta Corte, é inviável a aplicação de circunstâncias atenuantes para fins de redução da pena a patamar aquém do mínimo legal.
+7. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, nesse contexto, não há razões para alterar a decisão agravada, que ora mantenho, in verbis (fls. 799/803):
+"Acerca da pretensão recursal, o Tribunal de origem consignou que (fls. 647/651):
+"As provas coligidas demonstram que o roubo se consumou em sua totalidade, com a inversão da posse dos objetos subtraídos mediante grave ameaça, sendo oportuno relembrar que a consumação deste crime prescinde de que o agente mantenha posse mansa e pacífica do bem subtraído ou que este saia da esfera de vigilância da vitima (cf. STJ, REsp 1.499.050; TRF3, ACR 61.524, ACR 60.516).
+Dessa forma, ficou comprovado que os acusados tiveram a posse dos objetos subtraídos (valores em espécie, celulares e relógios), embora por um curto período de tempo, mas que é suficiente para reconhecer a consumação, como se verifica do enunciado da Súmula nº 582 do STJ:
+(..)
+Os corréus não trouxeram nenhuma prova no sentido de que os celulares foram recolhidos para que ninguém chamasse a Polícia, até porque, além dos celulares, eles arrecadaram 06 (seis) relógios, como se pode ver pelo Auto de Restituição (fls. 21, 23, 24, 26 e 28), ônus que lhes competia, na forma do artigo 156 do Código de Processo Penal.
+(..)
+O concurso formal de crime, previsto no artigo 70 do Código Penal, é de se reconhecido, posto que, na hipótese dos autos, os réus lograram praticar o crime de roubo contra os Correios, apoderando-se de valores em espécie, no importe de R$ 12.574,30 (Auto de Apreensão, fls. 34/35), e contra vários clientes e funcionários dos Correios (celulares e relógios, cf. Auto de Restituição, fls. 21/28), estando, assim, correta a r. sentença na sua aplicação, na terceira fase da dosimetria da pena.
+O aumento de pena, em razão do concurso formal de crimes, deve ser medido pelo número de crimes cometidos. Se, mediante uma só ação e em um mesmo contexto fático, os acusados praticaram vários crimes, o aumento deve ser aplicado.
+Por fim, como cediço, consoante o disposto no artigo 68, caput, do Código Penal, a aplicação da pena é constituída de três fases distintas,sendo que, para a primeira e segunda fases, deve-se observar os limites mínimo e máximo cominados para o tipo penal. Assim, apenas será possível eventual diminuição da pena aquém de seu mínimo legal, na terceira fase da aplicação da reprimenda.
+No presente caso, individualmente considerado, a pena-base já foi fixada no mínimo legal.
+(..)
+Na segunda fase, a r. sentença deixou de aplicar a atenuante da confissão prevista no artigo 65, 1H, "d" do Código Penal porque a Súmula 231-STJ não permite a redução da pena aquém do mínimo legal.
+Correta a sentença. Isto porque a insurgência de inconstitucionalidade da Súmula 231 do STJ, assim redigida:"A incidência dacircunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal", já foi questão analisada pelo eg. -Plenário do Supremo Tribunal Federal, em sede de repercussão geral e, por unanimidade, chancelou-se a compreensão pela inexistência de inconstitucionalidade na vedação de redução da pena aquém do mínimo legal:"
+No julgamento do RESP n.1499050/RJ, no âmbito da Terceira Seção deste Superior Tribunal de Justiça, prevaleceu o entendimento de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.
+Eis a ementa do aludido julgado:
+RECURSO ESPECIAL. PROCESSAMENTO SOB O RITO DO ART. 543-C DO CÓDIGO DE PROCESSO CIVIL. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. ROUBO. MOMENTO CONSUMATIVO. POSSE MANSA E PACÍFICA DA RES FURTIVA. DESNECESSIDADE. RECURSO PROVIDO. 1. Recurso Especial processado sob o regime previsto no art. 543-C, § 2º, do CPC, c/c o art. 3º do CPP, e na Resolução n. 8/2008 do STJ.TESE: Consuma-se o crime de roubo com a inversão da posse do bem, mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida a perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.2. A jurisprudência pacífica desta Corte Superior e do Supremo Tribunal Federal é de que o crime de roubo se consuma no momento em que o agente se torna possuidor da coisa subtraída, mediante violência ou grave ameaça, ainda que haja imediata perseguição e prisão, sendo prescindível que o objeto subtraído saia da esfera de vigilância da vítima. Jurisprudência do STF (evolução).3. Recurso especial representativo de controvérsia provido para, reconhecendo que a consumação do crime de roubo independe da posse mansa e pacífica da res furtiva, restabelecer a pena e o regime prisional fixados na sentença.
+(REsp 1499050/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, TERCEIRA SEÇÃO, DJe 09/11/2015).
+No caso dos autos, os agravantes obtiveram a posse dos bens, após emprego de grave ameaça, ainda que por breve período de tempo, o que caracteriza a forma consumada do delito de roubo.
+A jurisprudência desta Corte é firme no sentido de que o delito de roubo, praticado medianteuma única ação contra vítimas diferentes e em um mesmo contexto fático, configura o concurso formal de crimes e não a ocorrência de crime único, pois violados patrimônios distintos.
+A propósito:
+RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO E ROUBOS CIRCUNSTANCIADOS. JÚRI. ROUBOS COM VÍTIMAS DIVERSAS. QUESITAÇÃO. SÉRIE ÚNICA. NULIDADE. PRECLUSÃO. DOSIMETRIA. PENA-BASE. FUNDAMENTO DA SENTENÇA DESLOCADO PARA VETORIAL DIVERSA. POSSIBILIDADE. REFORMATIO IN PEJUS. NÃO OCORRÊNCIA. ROUBO. MAJORANTES. CRIME ANTERIOR À LEI 13.654/18. AUSÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 443/STJ. CONCURSO FORMAL. NÚMERO DE DELITOS. TRÊS ROUBOS. FRAÇÃO DE 1/5. RECURSO PARCIALMENTE PROVIDO.
+(..)
+5. Inviável o acolhimento da tese subsidiária de crime único, porquanto, "praticado o crime de roubo em um mesmo contexto fático, mediante uma só ação, contra vítimas diferentes, tem-se configurado o concurso formal de crimes, e não a ocorrência de crime único, visto que violados patrimônios distintos"(AgRg no REsp 1853865/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020).
+(..).
+10. Recurso especial parcialmente provido para reduzir a fração de aumento pela incidência das majorantes do crime de roubo e do concurso formal, redimensionando a pena dos recorrentes.
+(REsp 1860184/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 04/09/2020).
+Ademais, "Nos termos da jurisprudência deste Superior Tribunal de Justiça, o aumento decorrente do concurso formal tem como parâmetro o número de delitos perpetrados, dentro do intervalo legal de 1/6 a 1/2.Nesses termos, aplica-se a fração de aumento de 1/6 pela prática de 2 infrações; 1/5, para 3 infrações; 1/4 para 4 infrações; 1/3 para 5 infrações e 1/2 para 6 ou mais infrações.(HC 603.600/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA,DJe 14/09/2020).
+No caso dos autos, observa-se que o aumento da pena estipulado pelas instâncias ordinárias em 1/3 (um terço)revela-se benéfico aos agravantes, tendo em vista que se trata de24 vítimas (22pessoas físicas, EBCT e Banco Postal), que permitiria aumento superior.
+Nos termos do enunciado n. 231 desta Corte, é inviável a aplicação de circunstâncias atenuantes para fins de redução da pena a patamar aquém do mínimo legal.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ENUNCIADO N. 182 DA SÚMULA DO STJ. INSURGÊNCIA NÃO CONHECIDA.
+(..)
+ROUBO CIRCUNSTANCIADO. ATENUANTE PREVISTA NO ART. 65, INCISO III, LETRA "B", DO CP. IMPOSSIBILIDADE DE REDUÇÃO DA PENA INTERMEDIÁRIA ABAIXO DO MÍNIMO LEGAL. SÚMULA 231/STJ.
+1. A jurisprudência desta Corte Superior possui entendimento no sentido de não ser possível a redução da reprimenda, na segunda fase do dosimetria, em patamar inferior ao mínimo previsto legalmente. Súmula 231 deste Sodalício.
+2. Assim, fixada a pena-base no piso legal, inviável a aplicação da atenuante do arrependimento posterior com redução da sanção intermediária, sob pena de malferimento ao referido enunciado sumular.
+3. Agravo não conhecido.
+(AgRg no AREsp 859.444/MG, Rel. Ministro JORGE MUSSI, QUINTA TURMA,DJe 04/05/2018).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO AO TRÁFICO DE DROGAS. ABSOLVIÇÃO. REEXAME DE PROVAS. INCABÍVEL. REDUÇÃO DA PENA AQUÉM DO MÍNIMO LEGAL. SÚMULA N. 231 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. Esta Corte Superior solidificou o entendimento de que, conquanto haja a reprimenda sido reduzida para o seu mínimo legal, não pode ser ela ainda mais abrandada, em razão do enunciado da Súmula n. 231 do STJ, in verbis: "A incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+3. Agravo regimental não provido.
+(AgRg no AREsp 843.757/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA,DJe 12/09/2019)."
+Ante o exposto, voto pelo desprovimento do agravo regimental.
