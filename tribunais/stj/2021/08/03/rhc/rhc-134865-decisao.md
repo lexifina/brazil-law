@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por INAIARA NUNES DE NUNEScontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (HC n. 0073482-73.2020.8.21.7000).
+Infere-se dos autos que a recorrente foi condenada a 4 anos e 2 meses de reclusão, inicialmente no regime semiaberto, como incursa no art. 33 da Lei n. 11.6343/06 (tráfico de drogas).
+Impetrado préviowrit, buscando a concessão de prisão domiciliar, a Corte estadual denegou a ordem, em julgamento assim resumido:
+"HABEAS CORPUS . TRÁFICO DE DROGAS. PRISÃO DOMICILIAR. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+A paciente foi condenada à pena de 04 anos e 02 meses de reclusão, em regime inicial semiaberto. A defesa postula a substituição do regime inicial por prisão domiciliar, com fundamento nos artigos 317 e 318 do Código de Processo Penal, por ser a condenada mãe de uma criança em fase de amamentação. Não houve a expedição do PEC definitivo, e a acusada está submetida a medidas cautelares alternativas à prisão, conforme decisão no HC nº 70077870624. Não há ameaça concreta ao direito de locomoção da paciente, pois ausente previsão para a normalização das atividades jurisdicionais, com manuseio e remessa de processos físicos. De todo modo, uma vez expedido o PEC, eventuais benefícios executórios devem ser requeridos ao Juízo da Execução, com fundamento na Lei de Execuções Penais. Ausente, portanto, coação ilegal a ser atribuída ao Magistrado a quo.
+ORDEM DENEGADA."(fl. 82).
+Nas razões do recurso, reitera-se a tese já manejada, asseverando que Inaiara "tem um filho com idade tenra, pouco mais de um ano, que depende exclusivamente dos seus cuidados, pois caso venha a ser enclausurada, o Infante teria de ser entregue para alguma instituição de menores, o quecertamente causaria irreversíveis transtornos na formação da criança" (fls. 97/98).
+Nestes termos, requer o provimento do recurso, para fixar o cumprimento da reprimenda em regime domiciliar.
+O Ministério Público Federal opinou pelo provimento do inconformismo.
+É o relatório.
+Decido.
+O presente recurso não merece ser conhecido, porque a matéria deduzida no presente mandamusnão foi apreciada pelo Tribunal de origem. A propósito, confiram-se os fragmentos extraídos do voto condutor do acórdão recorrido:
+"Ausente notícia da expedição do Processo de Execução Criminal, a situação da paciente ainda é aquela que substituiu a prisãopreventiva por cautelares alternativas, consoante decisão no HC nº 70077870624.
+ ..
+Conforme consignei quando do indeferimento da liminar, uma vez transitada em julgado a sentença condenatória e determinado o início da execução da pena, eventuais benefícios executórios devem ser analisados pelo Juízo da Execução, com base na Lei de Execuções Penais."(fls. 84/85)
+Tal circunstância impede o pronunciamento desta Corte, sob pena de indevida supressão de instância. No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA.MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO.QUANTIDADE DE ENTORPECENTE. PETRECHOS USADOS NA COMERCIALIZAÇÃO DE ENTORPECENTES. CADERNOS COM ANOTAÇÕES TÍPICAS DO TRÁFICO.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo o entendimento firmado neste Tribunal Superior, a natureza e a quantidade da droga apreendida constituem elementos aptos a justificar o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+2. No caso, não se vislumbra ilegalidade na dosimetria da pena, tendo em vista que a Corte de origem baseou-se em fundamentação idônea, lastreada na quantidade da droga apreendida, para afastar a suscitada minorante, bem como pelo fato de terem sido encontrados "outros objetos e instrumentos comumente utilizados na prática da traficância, além de vários cadernos com anotações típicas de tráfico de drogas, tudo a indicar um acentuado envolvimento no comércio de drogas" (e-STJ fls. 34/35).
+3. No que se refere à prisão domiciliar, verifica-se que o tema não foi debatido perante a Corte de origem, sendo vedada a análise da matéria, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC 617.532/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 02/03/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PEDIDO DE PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. EXPEDIÇÃO DE GUIA DE EXECUÇÃO PENAL. IMPOSSIBILIDADE. ART. 105 DA LEP. RÉU FORAGIDO.RECOMENDAÇÃO N. 62/2020 DO CNJ. PRISÃO DOMICILIAR. INVIABILIDADE.NÃO COMPROVAÇÃO DE RISCO IMINENTE À SAÚDE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.AGRAVO NÃO PROVIDO.
+1. O pedido de prisão domiciliar não foi analisado pelo Tribunal de origem, tendo o acórdão impugnado apenas reiterado o entendimento esposado pelo Juiz sentenciante, no sentido de que a competência para análise de pedido de prisão domiciliar, após o trânsito em julgado da condenação, é do Juízo da execução. Neste contexto, a apreciação direta do pedido de prisão domiciliar, por esta Corte Superior, fica obstada, sob pena de se incorrer em indevida supressão de instância.
+2. O entendimento desta Corte é de que, a teor do art. 105 da LEP, o Juiz ordenará a expedição da guia de recolhimento para execução da pena somente se o réu estiver ou vier a ser preso.(AgRg no HC467.416/PE, Ministra Laurita Vaz, Sexta Turma, DJe 2/8/2019; e EDcl noAgRg no HC 400.294/SP, Ministro Felix Fischer, Quinta Turma, DJe30/10/2017, HC 343.429/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/05/2016, DJe 24/05/2016).Assim, estando o paciente foragido, conforme informado pelo Juízo de origem, não há se falar em ilegalidade na expedição de mandado de prisão para posterior expedição da guia de recolhimento.
+3. A recomendação n. 62 do CNJ prevê várias medidas sanitárias para se evitar o contágio e a disseminação da Covid-19 na população carcerária. Todavia a colocação do apenado em regime domiciliar não é providência automática, devendo ser aferida a particularidade de cada situação. No caso, a instância ordinária consignou não estar comprovado o iminente risco à saúde do paciente quando de seu eventual encarceramento, não sendo possível afirmar, neste momento, que a unidade prisional em que restará custodiado não tem a estrutura necessária para manter sua integridade física.
+4. Agravo regimental não provido.
+(AgRg no HC 616.339/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 26/02/2021).
+Ante o exposto, não conheço do presente recurso ordinário.
+Publique-se.
+Intimem-se.
