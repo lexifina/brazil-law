@@ -1,0 +1,36 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração, opostos por RODRIGO MOREIRA KHOURI, contra decisão assim ementada:
+PROCESSUAL CIVIL (CPC/15). AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/15. AGRAVO NÃO CONHECIDO.
+O embarganteaponta omissãoda decisão recorrida, notadamente quanto aos fundamentos suscitados e ao fato de que "seria contraditório entender que a desconsideração da personalidade jurídica é o objeto principal do recurso quando se pleiteia a responsabilização direta das pessoas físicas", de sorte que o cernedo recurso aviado diz respeito à"Lei de Parcelamento do Solo Urbano (artigo 47 da Lei n. 6.766/1979), e não aquele referente à desconsideração da personalidade jurídica" (e-STJ Fls. 1426/1427).
+Aduzque teria combatido pontualmente todos os fundamentos da decisão de inadmissão, sobretudo a incidência das Súmulas 5 e 7/STJ, não havendo, ainda, em se falar em ausência de prequestionamento.
+É o breve relatório.
+Os embargos declaratórios não merecem acolhida.
+Nessa esteira, nos termos do art. 1.022 do CPC/2015 (art. 535 do CPC/1973), são cabíveis embargos de declaração apenas nas hipóteses de erro material, obscuridade, contradição ou omissão do julgado.
+No caso, entretanto, não se configura a existência de quaisquer das deficiências em questão, pois a decisão embargada enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+Preliminarmente, saliento que, nos termos da jurisprudência colacionada à e-STJ Fl. 1416/1417, não há se falar em capítulos autônomos da decisão de inadmissão, razão pela qual a impugnação deve ser total e pormenorizada, sendo insuficiente a alegação de que "está evidente que a discussão de violação ao dispositivo legal referente à desconsideração da personalidade se dá apenas de forma eventual e circunstancial (invocada a título de argumentação, inclusive do juiz, na sentença) e isso considerando que o ponto primordial do recurso especial é a não observância das regras contidas no artigo 47 da Lei n. 6.766/1979 e dos dispositivos do CDC" (e-STJ Fl. 1426).
+De toda sorte, cumpre ressaltar que a tese de ataqueaos óbices da decisão de inadmissão e preenchimento dos requisitos de admissibilidade recursal foi expressamente analisada e fundamentada na decisão objurgada, mormente considerando a argumentação à e-STJ Fls. 1415/1417, verbis:
+(..)
+Com efeito, o Tribunal de origem não admitiu o recurso especial do agravante ante aos seguintes fundamentos: a) ausência de prequestionamento do art. 134, § 2º, do CPC (Súmula 282/STF); b) incidência da Súmula 283/STF no que tange ao pleito de desconsideração da personalidade jurídica, tendo em vista que "não houve pedido nesse sentido (fls. 7), tendo o Recorrente incluído os sócios diretamente no polo passivo da demanda e requerendo sua responsabilização direta" (e-STJ Fls. 1182/1183); c) incidência das Súmulas 5 e 7/STJ, considerando as peculiaridades citadas à e-STJ Fls. 1183 e à impossibilidade de responsabilização direta dos sócios; e d) ausência de prequestionamento, ainda, do art. 926 do CPC (Súmula 282/STF), a par de fundamentação suficiente acerca do entendimento firmado na ação citada à e-STJ Fls. 1183/1184, mormente ante a inexistência de seu trânsito em julgado e ausência de submissão ao Colegiado.
+Do exame do agravo em recurso especial, verifica-se que a parte agravante não impugnou de forma específica, objetiva e consistente os fundamentos da decisão agravada.
+Limitou-se o agravante, nesse passo, a reprisar a sua argumentação de mérito e a tecer considerações meramente genéricas acerca dos óbices referidos, deixando de demonstrar, sobretudo, o efetivo prequestionamento, no acórdão recorrido, dos dispositivos apontados, bem como o desacerto das Súmulas 5 e 7/STJ no caso concreto, óbices inclusive corroborados por suas razões, de acordo com as peculiaridades citadas.
+Saliente-se que é dever da parte agravante impugnar especificamente todos os fundamentos utilizados para a inadmissão do apelo, sob pena de não conhecimento do agravo em recurso especial, a teor do que dispõe o art. 932, inciso III, do CPC/2015, in verbis:
+(..)
+A propósito, é ônus do agravante evidenciar o desacerto da decisão, sendo insuficiente argumentação genérica acerca de existência de prequestionamento implícito e de mera revaloração probatória ou a remissão a fundamentos anteriores, senão vejamos:
+(..) (g.n.)
+A aplicação do art. 932, inciso III, do CPC/2015à espécie se deu, assim, com fulcro nos fundamentos referidos,sendo que pretensão do embargante, nesse passo, é descaracterizar a incidência de tal fundamentação à hipótese, o que não se coaduna com a estreita via dos embargos de declaração.
+Não há, portanto, qualquer vício a ser sanado no ponto, não havendo se falar em omissão.
+O verdadeiro intento dos presentes declaratórios é a obtenção de efeito infringente, pretensão que esbarra na finalidade integrativa do recurso em tela, que não se presta à rediscussão da causa já devidamente decidida.
+A atribuição de efeito modificativo aos embargos é providência de caráter excepcional, incompatível com hipóteses como a dos autos, que revelam tão-somente o inconformismo da parte com o julgado.
+Neste sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE OMISSÃO OU CONTRADIÇÃO. PLEITO DE REEXAME DO JULGADO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorrem a omissão ou a contradição alegadas e previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que não restou perfeito e acabado o ato de adjudicação e, desta forma, atingido pela decisão de recuperação judicial a atrair a competência do juízo especializado.
+3. Embargos de declaração rejeitados. (EDcl no AgInt no AREsp 866060 / SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJ 13/09/2016, DJe 16/09/2016) - g.n.
+Destarte, não podem ser acolhidos embargos de declaração que, em verdade, traduzem inconformismo com a decisão posta, pretendendo rediscutir o que já foi decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/15. VÍCIOS. OMISSÃO.INEXISTÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+ACLARATÓRIOS REJEITADOS.
