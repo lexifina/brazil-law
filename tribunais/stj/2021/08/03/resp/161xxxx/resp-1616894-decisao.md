@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por MORGAN DO BRASIL COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA., com base na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 233):
+DIREITO TRIBUTÁRIO. AGRAVO LEGAL. APELAÇÃO. CORREÇÃO MONETÁRIA DE BALANÇO. LEI Nº 8.088/90 E DECRETO Nº 332/91. JURISPRUDÊNCIA DESTA CORTE E DAS CORTES SUPERIORES CONSOLIDADA.
+Consolidada a jurisprudência desta Corte e das Cortes Superiores firme no sentido de reconhecer a higidez da Lei nº 8.088/90 e art. 41 do Decreto nº 332/91 na correção monetária de balanço do período base de 1990.
+Agravo legal desprovido.
+A parte recorrente alega, em essência, que (e-STJ fl. 240):
+ ..  a decisão Colegiada nega vigência a aplicação da Lei nº 7799/89 - artigo 10, visto que, o Pleno do C. Supremo Tribunal Federal, no julgamento do RE 201.465/MG, Rel. p/acórdão o E. Min. Nelson Jobim (DJ de 17/10/2003, p. 00014), decidiu que a Lei nº 8.200/91, "..(i) em nenhum momento, modificou a disciplina da base de cálculo do imposto de renda referente ao balanço de 1990, (2) nem determinou a aplicação, ao período-base de 1990, da variação do IPC; (3) tão-somente reconheceu os efeitos econômicos decorrentes da metodologia de cálculo da correção monetária. O art. 3º, I (L. 8.200/91), prevendo hipótese nova de dedução na determinação do lucro real, constituiu-se como favor fiscal ditado por opção política legislativa". Decidiu, também, pela "inocorrência, no caso, de empréstimo compulsório".
+Contrarrazões às e-STJ fls. 266/268.
+O recurso especial foi admitido na origem (e-STJ fl. 293/296).
+Passo a decidir.
+Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+Considerado isso, o recurso especial origina-se de acórdão do Tribunal Regional Federal da 3ª Região, segundo o qual devem ser observados os índices impostos pela lei para correção monetária das demonstrações financeiras.
+Segundo pacífica orientação da jurisprudência do STJ, "nos recursos de fundamentação vinculada, como é o caso de recurso especial, a simples demonstração de insatisfação não possibilita o reexame da questão" (AgRg no REsp 1.478.870/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 05/02/2015, DJ 12/02/2015). A parte recorrente, além de apontar o dispositivo de lei federal ofendido, deve, efetivamente, demonstrar de que modo teria ocorrido tal ofensa.
+Nesse sentido, cito os seguintes julgados:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. INEXISTÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO FUX. NO MÉRITO, CONQUANTO MENCIONE BREVEMENTE O ART. 393 DO CC/2002, O RECURSO ESPECIAL NÃO APONTA, DE MANEIRA ESPECÍFICA E OSTENSIVA, QUAIS DISPOSITIVOS DE LEIS FEDERAIS TERIAM SIDO VIOLADOS PELO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 284/STF, CONFORME O ENTENDIMENTO DESTA CORTE SUPERIOR. ALEGADA AUSÊNCIA DE NEXO CAUSAL OU DE DANO. INVERSÃO DO JULGADO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. AGRAVO INTERNO DO ENTE ESTADUAL A QUE SE NEGA PROVIMENTO.
+1. O presente Recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no Código Fux (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+ ..
+3. A respeito das teses de inexistência de nexo causal (pela força maior ou caso fortuito) e de dano moral, o Recurso Especial não indicou os dispositivos de Lei Federal que teriam sido violados pelo acórdão recorrido, o que atrai a incidência da Súmula 284/STF. A falta de indicação específica e ostensiva do texto legal tido por ofendido impede o conhecimento do Apelo Nobre - sendo certo que a simples menção genérica ou transcrição de determinado dispositivo, como no presente caso, não satisfaz a exigência de fundamentação vinculada. Julgados: AgInt no AREsp. 1.452.890/MS, Rel. Min. ASSUSETE MAGALHÃES, DJe 17.3.2020; AgInt no AREsp. 1.534.811/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 12.12.2019.
+ ..
+6. Agravo Interno do Ente Estadual a que se nega provimento.
+(AgInt no AREsp 1.390.381/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 11/05/2020, DJe 14/05/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AÇÃO CIVIL PÚBLICA. CONCURSO PÚBLICO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. PROVA PRÉ-CONSTITUÍDA. EXISTÊNCIA. REVISÃO.
+IMPOSSIBILIDADE. ENUNCIADOS 5 E 7/STJ. INCIDÊNCIA. DECISÃO MANTIDA.
+ ..
+3. Anota-se, ainda, que "houve, nas razões do recurso, indicação genérica de violação a lei federal, circunstância que não firma fundamentação adequada ao Recurso Especial, do qual se exige menção clara, específica e eficiente dos dispositivos de lei federal tidos como violados pelo acórdão impugnado". A indicação genérica de violação a lei federal, no apelo extremo, atrai também a aplicação da Súmula 284/STF.
+4. Lembremos que, segundo a jurisprudência do STJ, a falta de indicação dos artigos tidos por violados revela fundamentação deficiente, o que faz incidir a Súmula 284/STF. Isso porque o Recurso Especial tem fundamentação vinculada, "não lhe sendo aplicável o brocardo iura novit curia e, portanto, ao relator, por esforço hermenêutico, não cabe extrair da argumentação qual dispositivo teria sido supostamente contrariado a fim de suprir deficiência da fundamentação recursal, cuja responsabilidade é inteiramente do recorrente" (AgInt no AREsp 1.411.032/SP, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 24/9/2019, DJe 30/9/2019).
+ ..
+7. Agravo Interno não provido.
+(AgInt no AREsp 1.609.807/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2020, DJe 01/10/2020).
+A parte recorrente limitou-se a fazer menção do art. 10 da Lei n. 7.799/1989 e a transcrever excerto de julgado do Supremo Tribunal Federal.Não desenvolveu argumentos tendentes a demonstrar, especificamente, na presente hipótese, eventualmente, em que medida teria havido ofensa à legislação federal indicada. Incide in casu,pois, por analogia, o óbice da Súmula 284 do STF.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem condenação ao pagamento de honorários recursais, por se tratarde recurso interposto na vigência do CPC/1973.
+Publique-se. Intimem-se.
