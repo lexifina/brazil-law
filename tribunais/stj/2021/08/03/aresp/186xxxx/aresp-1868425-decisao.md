@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CLAUDIO DE OLIVEIRA MARTINS, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 07/01/2021.
+Concluso ao gabinete em: 30/06/2021
+Ação: rescisória movida pelo agravante, contra LUIZ AUGUSTO XIMENEZ, visando a rescisão de ação movida por aquele e julgada improcedente, para a condenação do agravado a pagar faturas de celular que teria utilizado.
+Acórdão: julgou improcedente a ação rescisória, por unanimidade, nos termos da ementa:
+PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. DECADÊNCIA. PRORROGAÇÃO DO PRAZO. INDISPONIBILIDADE DO SISTEMA ELETRÔNICO (PJ-E). ART. 966, V, DO CPC. VIOLAÇÃO À NORMA JURÍDICA. EXIGÊNCIA DE PROVA NEGATIVA E ACOLHIMENTO DE TESE EM INOVAÇÃO RECURSAL. CABIMENTO DA AÇÃO. MERA DISCORDÂNCIA DA PARTE. IMPROCEDÊNCIA DO PEDIDO RESCISÓRIO.
+1. Ação rescisória ajuizada com fundamento na existência de violação à norma jurídica (art. 966, V, do CPC) ao argumento de que o acórdão rescindendo teria exigido do autor a produção de prova negativa, além de acolher tese inovadora deduzida pelo réu em apelação.
+2. Considerando o trânsito em julgado em 03/10/2016, a indisponibilidade do sistema do PJ-e no último dia do prazo, e a sua prorrogação para o dia útil seguinte, nos termos do artigo 12, inciso II, do Provimento Judicial do TJDFT, aplicado ao processo judicial eletrônico, a ação foi ajuizada antes do término do prazo bienal indicado pelo art. 975 do Código de Processo Civil.
+3. Embora a situação não se subsuma especificamente a nenhuma das hipóteses de prorrogação do prazo previstas no § 1º do artigo 975 do Código de Processo Civil, a parte não pode ser prejudicada por problemas atribuíveis ao sistema do Judiciário.
+4. A ação rescisória, por significar um sacrifício pontual do princípio da segurança jurídica, resultando na relativização da coisa julgada, somente é admitida em hipóteses excepcionalíssimas, conforme rol do art. 966 do CPC.
+5. A ação rescisória ajuizada com amparo no art. 966, V, do CPC, pressupõe a ocorrência de erro crasso no julgado rescindendo. Se as normas jurídicas invocadas pela parte foram aplicadas pelo órgão jurisdicional na ação de conhecimento, não há violação à norma jurídica, mas entendimento em sentido diverso daquele pretendido pela parte.
+6. O acórdão rescindendo não exigiu a produção de prova de fato negativo, registrando apenas que incumbia ao autor, nos termos do artigo 333, inciso I, do CPC/1973, comprovar o uso indevido da linha telefônica pelo réu.
+7. Em seu apelo o réu reiterou as alegações deduzidas na defesa e, diante da conclusão esposada pelo MM. Juiz, de que a mera utilização do telefone seria suficiente para obrigá-lo a arcar com os respectivos valores, argumentou que, nesta hipótese, caso tivesse de fato utilizado a linha, o teria feito com o consentimento do autor. Tal insurgência somente pôde ser manifestada pelo réu após a prolação da r. sentença, não se verificando a alegada inovação recursal, tampouco o acolhimento, pelo acórdão rescindendo, de tese ventilada inoportunamente pela parte.
+8. Pedido rescisório julgado improcedente.(e-STJ fl. 770)
+Recurso especial: alega violação dos arts. 333, I e II, 334, II, 515, § 1º e 517 do CPC/73. Sustenta que o acórdão da ação origináriadeve ser rescindido uma vez que violou frontalmente os arts.333, I e II, 334, II do CPC/73. Defende para tanto que o TJDFT exigiu do agravante que fizesse prova de fato negativa (prova diabólica), pois impôs a este que provasse "a inexistência de consentimento". Ainda, defende a rescisão do acórdão originário por violação dos arts.515, § 1º e 517 do CPC/73, pois houve inovação recursal. Aduz para tanto que o agravado defendeu em sua contestação da ação rescindenda que inexistia vinculo laboral, ao contrário do que alegou o agravante na inicial. No entanto, a inovação ocorreu no momento em que, apenas em sede de apelação, o agravado passou a alegar que se tivesse utilizado a linha, o teria deito com o consentimento do autor.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ação rescindenda ter sido julgada improcedente pela falta de elementos suficientes para justificar a condenação do agravado ao pagamento das faturas, não pela ausência de provas de que o autor não teria anuído com a utilizaçãodesta ou mesmo pela alegação do então réu na apelação da ação rescindendano sentido de que houve o consentimento do agravante,exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da causa(e-STJ fls. 776) para 15%, observada a concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Ação rescisória.
+2. Modificar a conclusão do Tribunal de origem no sentido de que a ação rescindenda foi julgada improcedente pela falta de elementos suficientes para justificar a condenação do agravado ao pagamento das faturas, implica reexame de fatos e provas.
+3. Agravo conhecido. Recurso especial não conhecido.
