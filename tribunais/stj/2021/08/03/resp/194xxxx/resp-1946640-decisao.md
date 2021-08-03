@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. INFRAÇÃOADMINISTRATIVA. RECONHECIMENTO DE GRUPO ECONÔMICO. NÃO APLICAÇÃO DO CÓDIGO TRIBUTÁRIO NACIONAL. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. A instauração do incidente de desconsideração de personalidade jurídica é de rigor nos casos de redirecionamento da execução fiscal fulcrado na existência de grupo econômico que tenha por fundamento exclusivamente as normas previstas no art. 50 do Código Civil, pois nesse caso aresponsabilidade depende da jurisdição, não estando fundamentadadiretamente nas leis tributárias. Precedentes da Turma" (fl. 48e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 59/62e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO. Embargos de declaração improvidos porque inocorrentes quaisquer das hipóteses do art. 1.022 do CPC" (fl. 71e).
+Nas razões do Recurso Especial (fls. 80/87e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aos arts. 1.022do CPC/2015, sustentando que houve negativa de prestação jurisdicional.
+Pondera que "o julgado não apreciou os fundamentos fáticos do agravo, no sentido de que as empresas possuem os mesmos sócios, idêntico administrador e mesmo nome comercial e fantasia, além de operarem o mesmo tipo de atividade, o que claramente evidencia a confusão patrimonial das empresas" (fl. 82e). Alega ter apresentado elementos concretos acerca do pleito de redirecionamento ante a sucessão empresarial.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fl. 94e).
+A irresignação não merece prosperar.
+Inicialmente, em relação ao art. 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.129.367/PR, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada TRF/3ª Região), SEGUNDA TURMA, DJe de 17/06/2016; REsp 1.078.082/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 02/06/2016; AgRg no REsp 1.579.573/RN, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 09/05/2016; REsp 1.583.522/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 22/04/2016.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte (fls. 52/53e):
+"No caso, de acordo com as CDAs anexadas na inicial, a empresa executada se trata de AGILIZA TRANSPORTES SA.
+A agravante pretende que seja reconhecida a existência de Grupo Econômico e que, assim, também integre o polo passivo da demanda a empresa AGILIZA TRANSPORTES E LOGISTICA EIRELI.
+Ocorre que, em se tratando de multa por infração administrativa, não são aplicáveis as disposições do CTN e, a pretensão fulcrada no art. 50 do Código Civil pressupõe a instauração de incidente de desconsideração da personalidade jurídica, previsto no art. 133 do CPC. Neste sentido:
+(..)
+Destarte, deve ser mantida a decisão recorrida, que determina a inclusão, no polo passivo do feito, da empresa que consta na CDA e a exclusão da empresa em relação a qual, para que também venha a integrar o polo passivo da demanda, é imprescindível a instauração do incidente de desconsideração da pessoa jurídica".
+Assim, não há se falar que os fundamentos fáticos apresentados não foram analisados, já que a conclusão do acórdão não foi pela inexistência de confusão patrimonial, mas sim de necessidade de instauração de procedimento específico para analisar as alegações.
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+I.
