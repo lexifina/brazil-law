@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido de liminar, interposto por ANDRE RODOLFO DE OLIVEIRA, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, conforme a seguinte ementa:
+"Habeas Corpus - Homicídio qualificado tentado - Pedido de concessão de liberdade provisória - Decisão que justifica suficientemente a custódia cautelar - Presença dos pressupostos e fundamentos para a sua manutenção - Pandemia de Covid-19 que não tem o condão de justificar a soltura pretendida - Constrangimento ilegal não configurado - Ordem denegada." (e-STJ, fl. 325).
+Consta nos autos que o recorrente foi preso preventivamente e pronunciado como incurso nas penas do art.121, § 2º,II e IV, c. c. artigo 14, II, ambos do Código Penal.
+Nesta Corte, o recorrente alega, em síntese, a ausência dos requisitos autorizadores da custódia cautelar, destacando que é primário, possui bons antecedentes, trabalhador e com residência fixa na cidade de Ribeirão Preto. Pondera a possibilidade de aplicação de medidas cautelares.
+Sustenta também que a fundamentação da prisão preventiva é inidônea por não observar o disposto no art. 315do Código de Processo Penal.
+Requer, ao final, o provimento deste recurso para que seja restabelecido o seu status libertatis.
+Liminar indeferida (e-STJ, fl. 361).
+Informações apresentadas (e-STJ, fls. 367-380, 381-398 e 401-402).
+Parecer do Ministério Público Federal pelo não provimento do recurso (e-STJ, fls. 407-409).
+É o relatório.
+Decido.
+Inicialmente, vale destacar que, em consulta aositedo juízo de origem, Ação Penal nº0018738-51.2015.8.26.0506, constata-se a superveniência de sentença, em 28/06/2021,que condenou o recorrenteà pena de 16anose 4meses de reclusão, em regime inicial fechado, pela prática do delito tipificado no art. 121, §2º, II e IV, c/c art. 14, II. c/c o art. 61, I e II, "c", todos do Código Penal, tendo sido negado ao réu o recurso em liberdade.
+No ponto, cumpre registrar que, a jurisprudência desta Quinta Turma tem entendimento de quea sentença penal condenatória superveniente, que nãopermite ao réu recorrer em liberdade, constitui novo título judicial eprejudica o exame dohabeas corpusnesta Corte somente quando contiver fundamentos diversos daqueles utilizados na decisão que decretou a prisãopreventiva,o que não é a hipótese dos autos(RHC 56.073/MG, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/08/2015, DJe de25/08/2015; HC 307.754/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 28/04/2015, DJe de 21/05/2015).
+Portanto, vejamos os motivos apresentados para a decretação da custódiacautelar:
+"(..)
+A conduta do acusado tal como narrada nos depoimentos colhidos no curso das investigações evidencia alto grau de periculosidade social. Tal circunstância, e o fato de tratar-se de homicídio tentado duplamente qualificado, torna-se suficiente para embasar o decreto da prisão cautelar; isso sem olvidar da gravidade em concreto do delito, que recomenda maior rigor a fim de ser preservada a ordem pública e assegurada a aplicação da lei penal - o que torna inadequada e insuficiente medida cautelar diversa da prisão." (e-STJ, fl. 58).
+Por sua vez, quando da prolação da sentença, a segregação cautelar foimantida nos seguintes termos:
+"(..)
+Encerrada a votação, voltou o Júri a funcionar em sessão pública. Na presença do réu e das partes a MMª. Juíza Presidente procedeu à leitura da sentença: "VISTOS..Posto isso, CONDENO o réu ANDRE RODOLFO DE OLIVEIRA, qualificado, à pena de 16 (dezesseis) anos e 04 (quatro) meses de reclusão, por prática do crime previsto no artigo 121, §2º, incisos II e IV, c.c o artigo 14, inciso II, c.c o artigo 61, incisos I e II, alínea "c", todos do Código Penal, na forma do artigo 1º, inciso I, da Lei nº 8.072/90. O réu está preso. A custódia cautelar deve ser mantida porque, além de ainda persistentes as mesmas razões para tanto, houve significativa alteração da situação fática com a condenação hoje em plenário. A custódia visa agora, depois do édito do Júri Popular, assegurar a ordem pública e viabilizar a efetiva aplicação da lei penal. Diante desse quadro, do montante da pena e porque fácil concluir que, na eventualidade de soltura, o réu fugiria do distrito da culpa, nego a ele o direito do recurso em liberdade."
+Como se vê, foramagregados novos fundamentos ao decreto preventivo,encontrando-se superada a discussão acerca da legalidade da primeira decisão, pois, configurando a sentença um novo título, necessária a préviasubmissão da matéria ao Tribunal a quo, sob pena de indevida supressão de instância.
+Ante o exposto, julgo prejudicadoo pedidodeste recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
