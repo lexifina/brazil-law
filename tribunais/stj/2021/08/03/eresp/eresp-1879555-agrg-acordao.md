@@ -1,0 +1,58 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL: TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INVIABILIDADE, CONTUDO, DE PRONUNCIÁ-LA ANTES DO TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito em julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa." (EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+2. Conforme o atual entendimento das Cortes Superiores, o acórdão confirmatório da condenação interrompe a prescrição.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por JOSE HENRIQUE ROLDI contra decisão monocrática que negou provimento ao recurso especial (e-STJ, fls. 1.073-1.075).
+A parte agravante aduz, em síntese, que: (I) o julgamento singular da causa violaria o princípio da colegialidade; (II) o termo inicial da prescrição da pretensão executória é o trânsito em julgado para a acusação; e (III) o acórdão confirmatório da condenação não seria capaz de interromper o prazo prescricional.
+Pede, ao final, o provimento do agravo regimental, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL: TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INVIABILIDADE, CONTUDO, DE PRONUNCIÁ-LA ANTES DO TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito em julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa." (EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+2. Conforme o atual entendimento das Cortes Superiores, o acórdão confirmatório da condenação interrompe a prescrição.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Inicialmente, cumpre ressaltar que, nos termos da jurisprudência desta Corte, é possível que o relator negue seguimento a recurso ou a pedido manifestamente inadmissível, improcedente, prejudicado ou em confronto com súmula ou jurisprudência dominante, sem que se configure ofensa ao princípio da colegialidade, o qual sempre estará preservado, diante da possibilidade de interposição de agravo regimental.
+A corroborar esse entendimento:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONTINUIDADE DELITIVA. APLICAÇÃO DA TEORIA PURAMENTE OBJETIVA. IMPOSSIBILIDADE. AUSÊNCIA DE AVALIAÇÃO DO REQUISITO SUBJETIVO. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. PREVISÃO LEGAL DE DECISÃO MONOCRÁTICA PELO RELATOR. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Consoante previsto no Código de Processo Civil, no Regimento Interno do Superior Tribunal de Justiça e sintetizado no Enunciado Sumular n. 568 desta Corte Superior, " o  relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", como na hipótese, de modo que a prolação de decisão monocrática não constitui ofensa ao princípio da colegialidade.
+ ..
+3. Agravo regimental não provido."
+(AgRg no REsp 1751924/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/03/2020, DJe 09/03/2020).
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. DISPENSA OU INEXIGÊNCIA INDEVIDA DO PROCESSO LICITATÓRIO. PRINCÍPIO DA COLEGIALIDADE. USURPAÇÃO DE COMPETÊNCIA DO COLEGIADO. INOCORRÊNCIA. SÚMULA 284/STF E AUSÊNCIA DA DEVIDA DEMONSTRAÇÃO DA DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO REGIMENTAL DESPROVIDO.
+I - Não constitui ofensa ao princípio da Colegialidade a prolação de decisões monocráticas no âmbito desta Corte, estando tal entendimento inclusive sedimentado por ocasião da edição da Súmula n. 568/STJ. Ademais, sempre haverá a possibilidade de a decisão monocrática estar sujeita à apreciação do órgão colegiado, em virtude de eventual recurso de agravo regimental, como na espécie.
+Precedentes.
+ ..
+Agravo regimental desprovido."
+(AgRg no AREsp 1598147/MG, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 11/02/2020, DJe 28/02/2020).
+Essa questão foi, inclusive, objeto da Súmula 568/STJ, publicada no DJe de 17/3/2016, com o seguinte teor: "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema". Se, por outro lado, o recurso não ultrapassa a barreira do conhecimento, quem permite o julgamento monocrático é o art. 932, III, do CPC/2015 e, no RISTJ, os arts. 253, parágrafo único, I e II, "a", e 255, § 4º, I.
+No que se refere à prescrição da pretensão executória da pena imposta ao agravante, a pretensão recursal não merece acolhimento.
+O art. 112, inciso I, primeira parte, do Código Penal, estabelece que a prescrição, após a sentença condenatória, começa a correr "do dia em que transita em julgado a sentença condenatória, para a acusação".
+Sobre o tema, a atual jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado. Nesse sentido: AgRg no HC 590.235/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/8/2020, DJe 31/8/2020 e AgRg no RHC 107.738/SE, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 14/5/2019, DJe 23/5/2019.
+Todavia, "embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito em julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa." (EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+No caso em apreço, como o feito não transitou em julgado até o momento para a defesa, não há possibilidade de reconhecimento da prescrição da pretensão executória.
+Nesse sentido:
+" ..
+1. Segundo a jurisprudência desta Corte Superior, somente quando houver o trânsito em julgado da sentença condenatória, para ambas as partes, é que deve ser reconhecido o início da contagem da prescrição da pretensão executória.
+2. Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito em julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa (EDcl no AREsp n. 651.581/MS, Ministro Jorge Mussi, Quinta Turma, julgado em 13/12/2018, DJe 19/12/2018) - (AgRg no HC n. 473.344/PB, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2020).
+3. Agravo regimental improvido." (AgRg no REsp 1.832.665/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 8/9/2020, DJe 15/9/2020)
+" ..
+3. Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito um julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa.
+4. Embargos de declaração rejeitados." (EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+" ..
+1. "Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito em julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa." (EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+2. Esta Corte possui entendimento de que a análise do pleito de extinção da punibilidade pela prescrição da pretensão executória cabe ao juízo da execução, uma vez que demanda a verificação de diversas informações, não apenas quanto ao trânsito em julgado para a acusação e início da execução da pena, como também acerca da ocorrência de incidentes que interferem diretamente na contagem do prazo prescricional, nos termos do disposto nos arts. 116, parágrafo único e 117, incisos V e VI, ambos do CP. Julgado: AgRg no HC 457.810/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 8/11/2018, DJe 23/11/2018.
+3. Agravo regimental não provido." (AgRg no HC 473.344/PB, de minha relatoria, QUINTA TURMA, julgado em 10/3/2020, DJe 26/3/2020)
+Outrossim, ao contrário do que alega a defesa, o atual entendimento das Cortes Superiores - seguindo a tese firmada pelo STF no julgamento do HC 176.473 - é o de que o acórdão confirmatório da condenação interrompe, sim, o prazo prescricional. A propósito:
+"HABEAS CORPUS. ALEGADA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO PELO ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. 1. A prescrição é o perecimento da pretensão punitiva ou da pretensão executória pela inércia do próprio Estado; prendendo-se à noção de perda do direito de punir por sua negligencia, ineficiência ou incompetência em determinado lapso de tempo. 2. O Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão para fins de interrupção da prescrição. O acórdão que confirma a sentença condenatória, justamente por revelar pleno exercício da jurisdição penal, é marco interruptivo do prazo prescricional, nos termos do art. 117, IV, do Código Penal. 3. Habeas Corpus indeferido, com a seguinte TESE: Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+(HC 176473, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 27/04/2020, DJe 9/9/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
