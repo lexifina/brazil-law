@@ -1,0 +1,35 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por SOCIEDADE BRASILEIRA DE DERMATOLOGIAcontra decisão do Tribunal de Justiça do Estado do Rio de Janeiroque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fl. 875):
+APELAÇÃO CIVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MORAIS. EXAME DE TITULAÇÃO. AUTORA OBJETIVANDO QUE A RÉ ADOTE AS MEDIDAS NECESSÁRIAS NA EMISSÃO DO TÍTULO DE ESPECIALISTA EM DERMATOLOGIA. SENTENÇA DE IMPROCEDÊNCIA. APELANTE QUE CONCLUIU 3 ANOS DE CURSO DE ESPECIALIZAÇÃO EM ENTIDADE AUTORIZADA PELO MINISTÉRIO DA EDUCAÇÃO E CULTURA E PELO CONSELHO FEDERAL DE MEDICINA. EDITAL COM EXIGÊNCIA DE QUE O ESTÁGIO TENHA SIDO CUMPRIDO EM INSTITUIÇÃO CREDENCIADA À SOCIEDADE BRASILEIRA DE DERMATOLOGIA QUE SE AFASTA, EIS QUE DISSONANTE DOS PRINCÍPIOS DA ISONOMIA E RAZOABILIDADE. RECURSO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: art. 485, VI,do CPC eart. 502do CC/02.
+Sustenta que não pode haver uma decisão concessiva de danos morais fundada em liminar definitivamente cassada. E que, resultando disso, a parte não tem legitimidade ou interesse processual para figurar na demanda.
+Pugna pelo reconhecimento da legalidade do item 2.6 do edital para exame de titulação em dermatologia.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade érealizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+Quanto as alegações de que não pode haver uma decisão concessiva de danos morais fundada em liminar definitivamente cassada e que, resultando disso, a parte não tem legitimidade ou interesse processual para figurar na demanda, verifica-se que não houve o prequestionamento da alegação de ofensa.
+Com efeito, essas teses não foram objeto de análise pelo Tribunal de origem no acórdão recorrido, em face do qual sequer foram opostos embargos de declaração. Portanto, em face da ausência de prequestionamento, revela-se inviável o seu conhecimento, nos termos das Súmulas 282 e 356 do Supremo Tribunal Federal, aplicáveis por analogia.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. ERRO MÉDICO. ESQUECIMENTO DE CORPO ESTRANHO NA CAVIDADE ABDOMINAL. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. SÚMULA N. 284/STF. DANO MORAL. VALOR. DECISÃO MANTIDA.
+1. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor das Súmulas . 282 e 356 do STF.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1509917/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. 1. IMPENHORABILIDADE DE IMÓVEL BEM DE FAMÍLIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. 2. DISTRIBUIÇÃO DO ÔNUS DA PROVA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356 DO STF. 3. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. Se o conteúdo normativo contido no dispositivo apresentado como violado não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incide, na espécie, o rigor das Súmulas n. 282 e 356 do STF.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1683495/MT, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 02/12/2019, DJe 05/12/2019)
+Por fim, quanto ao pedido de reconhecimento da legalidade do item 2.6, a parte recorrente olvidou-se da indicação clara e inequívoca dos dispositivos de lei federal tidos por violados pelo acórdão impugnado, o que caracteriza deficiência na fundamentação recursal.
+Assim, diante da ausência de indicação de artigo infraconstitucional supostamente vergastado nas razões do recurso especial, observa-se que a fundamentação do recurso é deficiente, aplica-se, portanto, na espécie, por analogia, a Súmula 284 do Supremo Tribunal Federal.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. PRELIMINAR. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL. DEFICIÊNCIA DA FUNDAMENTAÇÃO. INCOMPREENSÃO DA CONTROVÉRSIA. SÚMULA 284 DO STF. ASTREINTES. VALOR FIXADO QUE ATENDE AOS PRINCÍPIOS DA RAZOABILIDADE E DA PROPORCIONALIDADE. RECURSO IMPROVIDO. 1. A não indicação, quando da apresentação das razões recursais, dos dispositivos supostamente violados, faz incidir, à hipótese, o teor da Súmula 284 do STF. (..) 4. Recurso especial não provido. (REsp 1.352.426/GO, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, DJe 18/05/2015, grifei)
+PROCESSUAL CIVIL. ADMINISTRATIVO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. 1. O STJ entende ser inviável o Recurso Especial, fundado na alínea a do permissivo constitucional, que não especifica quais normas legais foram violadas. Incide, na espécie, por analogia, o princípio contido na Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia." 2. No que toca ao apontado dissídio jurisprudencial, do mesmo modo verifico que o Recurso Especial não indica dispositivo de lei federal acerca do qual o Tribunal de origem teria adotado interpretação divergente daquela firmada por outros tribunais. Dessa forma, constata-se a deficiência da motivação. Aplica-se a Súmula 284/STF. 3. Recurso Especial não conhecido. (REsp: 1377145 RJ 2013/0116963-6, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/05/2013, DJe 22/05/2013)
+Vale ressaltar que "a Corte Especial do STJ decidiu, no julgamento do AgRg no Resp 1.346.588/DF, Relator o Ministro Arnaldo Esteves Lima, que no recurso especial interposto com base na divergência jurisprudencial (art. 105, III, c, da CF), é imprescindível a indicação dos dispositivos legais sobre os quais se baseia o dissenso interpretativo, sob pena de não conhecimento do recurso" (AgRg no REsp 1.579.618/PR, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, Dje em 01/7/2016).
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL.AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA POR DANOS MORAIS. VIOLAÇÃO AOS ARTS.485, VI, DO CPC E ART. 502 DO CC/02. AUSÊNCIA DE PREQUESTIONAMENTO PELA CORTE LOCAL. SÚMULAS 282 E 356/STF. LEGALIDADE DE ITEM DO EDITAL DE CONVOCAÇÃO PARA EXAME DE TITULAÇÃO EM DERMATOLOGIA. A PARTE QUEDOU-SE DA INDICAÇÃO DE ARTIGO TIDO POR VIOLADO, O QUE PREJUDICA O ENTENDIMENTO DA CAUSA. SÚMULA 284/STF.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
