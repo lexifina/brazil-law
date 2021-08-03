@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprioimpetrado em benefício de SÉRGIO ROSA, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA proferido no julgamento da Apelação Criminal n. 0001420-37.2016.8.24.0066.
+Extrai-se dos autos que o Juízo de primeiro grau condenou o paciente a 1 ano, 6 meses e 10 dias de reclusão, inicialmente no regime aberto, substituída por medidas restritivas de direitos, como incurso no art. 171,caput,do Código Penal (estelionato).
+Interposta apelação, pela defesa, o Tribunala quodeu parcial provimento ao recurso, reduzindo a reprimenda para 1 ano de reclusão, nos termos do julgamento assim resumido:
+"APELAÇÃO CRIMINAL. CRIME DE ESTELIONATO SIMPLES (CP, ART. 171, CAPUT). SENTENÇA CONDENATÓRIA. RECURSO DO ACUSADO.
+NULIDADE DO PROCESSO POR CERCEAMENTO DE DEFESA. PEDIDO DE DILIGÊNCIAS PROBATÓRIAS INICIALMENTE DEFERIDO PELA MAGISTRADA, PORÉM, EM MOMENTO POSTERIOR, INDEFERIDO. ALEGAÇÃO DE PRECLUSÃO PRO JUDICATO. ELEMENTO QUE NÃO INCIDE EM MATÉRIA PROBATÓRIA SEGUNDO ENTENDIMENTO DO STJ. ALEGAÇÃO AFASTADA.
+DOSIMETRIA. CULPABILIDADE. CONDUTA DESDOBRADA EM VÁRIOS ATOS. CRIME PLURISSUBSISTENTE. ELEMENTO QUE NÃO CONFIGURA MAIOR REPROVAÇÃO PENAL.CIRCUNSTÂNCIAS DO CRIME. ARDIL COMETIDO POR MEIO DE LIGAÇÃO DE TERCEIRO. CIRCUNSTÂNCIA NORMAL À PRÁTICA DO DELITO DE ESTELIONATO.PENA REDUZIDA AO MÍNIMO LEGAL.
+RECONHECIMENTO DA ATENUANTE DA CONFISSÃO ESPONTÂNEA. CONFISSÃO UTILIZADA NA FUNDAMENTAÇÃO DA SENTENÇA. BENESSE RECONHECIDA.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO." (fl. 163)
+No presente writ, a Defensoria Pública alega constrangimento ilegal porquanto a magistrada da instrução teria renovado decisão anterior de produção de provas.
+Assevera que"o reconhecimento da preclusão pro iudicato no âmbito do processo penal suplanta as fronteiras de uma ação, devendo- se afirmar como a mais pura garantia ao devido processo legal dentro do processo penal" (fl. 7).
+Requer, assim, o reconhecimento denulidade no feito, por cerceamento de defesa.
+A liminar foi indeferida por decisão de fls. 178/179.
+OMinistério Público Federal opinou pela denegação da ordem, em parecer que recebeu a seguinte ementa:
+"PENAL - PROCESSUAL PENAL - HABEAS CORPUS - ART.171, CAPUT - DILIGÊNCIAS - PRECLUSÃO PRO JUDICATO.NÃO INCIDÊNCIA EM MATÉRIA DE INSTRUÇÃO PROBATÓRIA.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.PARECER PELA DENEGAÇÃO DA ORDEM."(fl. 185)
+É o relatório.
+Decido.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida segundo orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável o processamento do feito para verificar a existência de eventual constrangimento ilegal.
+Confiram-se fragmentos extraídos do voto condutor no acórdão recorrido:
+Sustenta o apelante que houve preclusão pro judicato e em razão dela deve ser considerado nula a sentença condenatória.
+Segundo se extrai de seu recurso, o apelante à fls. 69-70 requereu o envio de ofício à empresa Claro, o que foi deferido pela magistrada de primeiro grau à fl. 71.
+Contudo, à fl. 85, a juíza emitiu a seguinte decisão:
+A diligência reiterada na data de hoje já havia sido autorizada por este Juízo à pág. 71. Foi expedido ofício à pág. 75, não sobrevindo resposta. Em que pese essa situação, entendo que o processo comporta julgamento. Ainda que sejam fornecidos os dados cadastrais do referido número telefônico, certo é que essas informações jamais se prestariam a finalidade de comprovar a autenticidade do título de crédito, sendo este o objetivo apontado para o requerimento. No mais, como bem assinalou o representante do Ministério Público, bastaria que o defensor efetuasse a ligação para o referido número e constatasse a veracidade desta informação, arrolando como testemunha. Por fim, há que se ter presente que a autoridade policial procedeu diligências no mesmo sentido, não obtendo êxito. Assim sendo, indefiro a diligência ora reiterada, uma vez que desnecessária ao fim pretendido, sendo protelatória.
+No entanto, entende a jurisprudência do Superior Tribunal de Justiça, que em matéria probatória, não incide para o juiz a preclusão pro judicato."(fl. 167)
+Vê-se queo julgamento colegiado decidiu em conformidade com a orientação desta Corte, no sentido de que a revogação da decisão que defere a produção de prova pericial não induz preclusão pro judicato, instituto não aplicável em matéria probatória.
+A propósito:
+PENAL E PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS.CORRUPÇÃO ATIVA E PASSIVA. PRECLUSÃO TEMPORAL. CAPTURAS PARCIAIS DAS TELAS DO WHATSAPP. INVIABILIDADE DE CONFERÊNCIA DAS DATAS APONTADAS.AUSÊNCIA DE PERÍCIA. NÃO ENQUADRAMENTO DAS CONDUTAS NARRADAS NOS INDICADOS TIPOS PENAIS. NÃO APRECIAÇÃO DOS TEMAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PRECLUSÃO PRO JUDICATO. NÃO INCIDÊNCIA EM MATÉRIA DE INSTRUÇÃO PROBATÓRIA. PRINCÍPIOS DA BUSCA DA VERDADE E DO LIVRE CONVENCIMENTO MOTIVADO. DENÚNCIA ANÔNIMA E CAPTAÇÃO DE CONVERSAS POR TERCEIRO NÃO INTERLOCUTOR. NULIDADE NÃO EVIDENCIADA. POSSIBILIDADE DE PROMOÇÃO DE DILIGÊNCIAS PELO PODER PÚBLICO. IDENTIDADE OCULTA DAS TESTEMUNHAS. LEGALIDADE. MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO. PRESCINDIBILIDADE. DECRETAÇÃO DA INTERCEPTAÇÃO TELEFÔNICA E ORRESPONDENTES PRORROGAÇÕES.FUNDAMENTAÇÃO IDÔNEA. RECURSO ORDINÁRIO IMPROVIDO.
+1. Questões não enfrentadas pela Corte de origem não podem ser apreciadas diretamente por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+2. Em matéria de instrução probatória, não incide para o Juiz a preclusão pro judicato, em razão dos princípios da busca da verdade e do livre convencimento motivado. Precedente.
+3. Não se descurando do direito à intimidade e da vedação do anonimato, previstos na Constituição Federal, ecoa nos tribunais o entendimento de que possível se mostra a inauguração de investigações preliminares para averiguar a veracidade de comunicação apócrifa, desaguando em um cenário que sirva como supedâneo para um subsequente procedimento investigatório formal - inquérito policial -, caso existentes indícios da autoria e materialidade delitiva (HC 229.205/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 24/04/2014).
+4. O inciso IV do art. 7º da Lei n. 9.807/99, de forma especial, dispõe sobre a possibilidade de se preservar a identidade, a imagem e os dados pessoais de testemunha, observadas a gravidade e as circunstâncias do caso concreto (precedentes) (RHC 68.767/ES, Rel.
+Ministro Felix Fischer, Quinta Turma, DJe 05/05/2017).
+5. A ausência de manifestação prévia por parte do Ministério Público não é causa de nulidade da interceptação telefônica. Precedentes.
+6. Encontrando-se a decisão que decretou a interceptação telefônica devidamente fundamentada na presença de indícios de autoria e na imprescindibilidade da medida, inexiste flagrante ilegalidade.
+7. Recurso ordinário improvido.
+(RHC 79.848/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 03/09/2018).
+RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. RECURSO ORDINÁRIO INTEMPESTIVO. IMPOSSIBILIDADE DE CONHECIMENTO COMO HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. NULIDADE POR CERCEAMENTO DE DEFESA. INOCORRÊNCIA. ALEGADA PRECLUSÃO PRO JUDICATO. DISCRICIONARIEDADE DO MAGISTRADO NA APRECIAÇÃO DA PROVA. IMPROPRIEDADE DA VIA ELEITA. RECURSO ORDINÁRIO NÃO CONHECIDO.
+I - Consoante o disposto no art. 30 da Lei 8.038/1990, é intempestivo o recurso ordinário interposto fora do prazo de 5 (cinco) dias, contado em dobro, na hipótese.
+II - A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso ordinário (precedentes). As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (precedentes). Dessarte, não é possível o recebimento do presente recurso ordinário como habeas corpus substitutivo. Contudo, no caso de se verificar configurada flagrante ilegalidade apta a gerar constrangimento ilegal, recomenda a jurisprudência a concessão da ordem de ofício.
+III - A jurisprudência deste Superior Tribunal de Justiça possui entendimento no sentido de que, em matéria de instrução probatória, não há se falar em preclusão pro judicato, uma vez que, como fundamentos principiológicos daquela etapa processual, os princípios da busca da verdade e do livre convencimento motivado afastam o sistema da preclusão dos poderes instrutórios do juiz (precedentes).
+IV - Ademais, ainda que apontada no presente recurso a imprescindibilidade das provas requeridas e posteriormente indeferidas pelo d. Juízo de 1ª instância, o que não foi arguido, é certo que tal alegação demandaria análise minuciosa de matéria fático-probatória dos autos, exame que não encontra amparo nos estreitos limites do recurso ordinário em habeas corpus.
+Recurso ordinário não conhecido.
+(RHC 60.354/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA,DJe 17/02/2016).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
