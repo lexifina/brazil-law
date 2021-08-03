@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto por PRECIL PRÉ-MOLDADOS DE CIMENTO LTDA-ME em face de acórdão do Tribunal de Justiça do Estado de Tocantinscuja ementa é a seguinte:
+APELAÇÃO. EXECUÇÃO FISCAL. EMBARGOS. MULTA MORATÓRIA.PERCENTUAL. ADEQUAÇÃO. RECURSO PARCIALMENTE PROVIDO.
+Verificando-se que o percentual da multa fiscal apresenta-se irrazoável, considerando como referência o padrão adotado na jurisprudência, o Supremo Tribunal Federal admite a dosimetria do percentual com o fito de elidir o confisco, sendo estabelecido o percentual de 100% do valor da obrigação principal para multas punitivas, e 20% como patamar relativo às multas moratórias, senda este último o caso dos autos (multa por inadimplência fixada em 60%).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base na alínea a do permissivo constitucional, arecorrente aponta ofensa ao art. 1.022 do CPC/2015, bem como ao art. 6º do CTN e ao art. 2º, § 8º, da Lei 6.830/80, alegando, em síntese, que: (a) o acórdão recorrido manteve-se omisso, mesmo após a oposição de embargos de declaração; (b)"o Legislador Estadual entendeu que, na hipótese do não recolhimento do imposto declarado, antes de qualquer procedimento fiscal, a multa é de 10%, percentual aplicável no caso em tela, contribuinte declarou o imposto por meio da GIAM-Guia de Informação e Apuração Mensal do ICMS".
+Em suas contrarrazões, orecorridopugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi admitido pelo Tribunal de origem.
+É o relatório. Passo a decidir.
+Inicialmente, registre-se que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+Por outro lado, o Tribunal de origem entendeu que:
+Por sua vez, PRECIL PRÉ-MOLDADOS DE CIMENTO LTDA-ME postulou a aplicação do disposto no artigo 48, parágrafo único, da Lei n o 1.287, de 2001, que fixa 10% sobre o valor principal da obrigação, salientando que o título que lastreou a execução não seria dotado de certeza, liquidez e exigibilidade.
+Embora não tenha ocorrido manifestação expressa sobre o dispositivo de lei, não há de se falar em omissão processual, considerando ter sido consignado que a controvérsia citada não seria o bastante a infirmar o conteúdo da certidão de dívida ativa, sendo razoável, sobretudo com amparo em entendimento proclamado pelo Supremo Tribunal Federal, amoldar o percentual ao limite jurisprudencial (20%).
+Salientou-se, ainda, que embora o percentual (60%) estivesse na contramão do entendimento jurisprudencial citado, não há dúvidas de que se ateve ao que fora prescrito em lei (Artigo 48, I, da Lei n o 1.287, de 2001), até porque o caso dos autos houve a proclamação de procedimento fiscal, o que infirma a tese de que o título executivo não se reveste de liquidez, pela conjecturada inobservância à legalidade.
+Ademais, não obstante o primeiro embargante sustente que a fixação do patamar de 20% para multa moratória - percentual mantido pelo Supremo Tribunal Federal quando do julgamento do ARE 1.154.222 - seria aquele previsto em legislação estadual (SP), denota-se que tal percentual não está restrito ao citado Estado da Federação, haja vista que o mesmo percentual serviu como parâmetro pela Suprema Corte para a dosimetria do conteúdo da vedação ao confisco em outros casos, ocasião em que, inclusive, citei como referência o deslinde do AI-AgR 727.872 (RS) e ARE 938.538 AgR (SE), ambos de Relatoria do Ministro LUÍS ROBERTO BARROSO.
+Como se verifica, o Tribunal de origem resolveu a controvérsia com base na legislação estadual.
+Nesse contexto, não obstante arecorrente tenha apontado preceito de lei federal para fundamentar seu inconformismo, verifica-se que não é viável a reforma do aresto atacado, porquanto atrelada à verificação acerca da ocorrência ou não de afronta à legislação estadual.
+Aplica-se, por analogia, o disposto na Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário."
+Diante do exposto, com base no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ e a Súmula 568/STJ, conheço parcialmente do recurso especial e, nessa parte, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. EMBARGOS. DISCUSSÃO SOBRE O ADEQUADO PERCENTUAL REFERENTE À MULTA MORATÓRIA. ACÓRDÃO RECORRIDO BASEADO EM NORMA LOCAL. ÓBICE DA SÚMULA 280/STF (POR ANALOGIA).
+1. Não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+2. Por ofensa a direito local não cabe recurso especial (Súmula 280/STF, por analogia).
+3. Recurso especial parcialmente conhecido e, nessa parte, não provido.
