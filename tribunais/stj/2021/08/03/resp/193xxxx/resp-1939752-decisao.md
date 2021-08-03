@@ -1,0 +1,92 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pela FUNDAÇÃO NACIONAL DE SAÚDE, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+"ADMINISTRATIVO. DIREITO PROCESSUAL CIVIL. CIMPRIMENTO DE SENTENÇA. AGRAVO INTERNO. JUROS MORATÓRIOS. COISA JULGADA. TEMA 810/STF. TEMA 905/STJ. DECISÃO MONOCRÁTICA.
+INDEFERIMENTO AO AGRAVO DE INSTRUMENTO MANTIDO.
+1. Conforme entendimento firmado no Egrégio STJ, os juros de mora e a correção monetária são consectários legais da condenação, possuindo natureza eminentemente processual, e se caracterizam como matéria de ordem pública, e não mero erro material ou critério de cálculo, sendo cabível o seu pronunciamento de ofício (REsp 1258912/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 22/11/2011, DJe 02/12/2011).
+2. Embora o acórdão do Recurso de Apelação tenha sido proferido anteriormente à publicação da Lei nº11.960/09, este foi anulado pelo Superior Tribunal de Justiça quando já em vigor a Lei nº11.960/09, e, após novo julgamento dos Embargos de Declaração nesta Corte Regional, foi aberta a oportunidade de novos recursos pelas partes, culminando, inclusive, na oposição de declaratórios e de Recurso Especial, com nova remessa ao STJ, após cujo julgamento se deu o trânsito em julgado.
+3. Nos termos da orientação do Tema 905/STJ, que traz expressa a garantia da coisa julgada, há de ser indeferida a utilização da taxa de juros da caderneta de poupança, prevista na Lei nº11.960/09, bem como afastada a aplicação do Tema 810 do Supremo Tribunal Federal.
+4. Negado provimento ao Agravo Interno"(fl. 114e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação aoart. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, sustentando que:
+"Reconhecido na decisão recorrida que o julgamento nas instâncias ordinárias da ação de conhecimento é anterior à Lei 11.960/09. Portanto, não havia como requerer sua aplicação ao caso dos autos, incidindo à espécie dos autos o princípio tempus regit actum, conforme pacífica jurisprudência adiante colacionada.
+Portanto, aplicável a Lei 11.960/09 para regular juros e correção monetária, posto que sobreveio ao ordenamento jurídico somente em 29.06.2009.
+O fato de o trânsito em julgado ser posterior a lei, data venia, não infirma sua aplicação porquanto não houve a possiblidade de alegação na fase cognitiva. Ademais, como se demonstra adiante, a jurisprudência considera norma de direito processual aplicável de imediato aos processos em curso.
+(..)
+Destarte, configurada a aplicabilidade imediata para reduzir o percentual de juros de mora aos aplicáveis à caderneta de poupança, não sendo óbice que conste da coisa julgada, porquanto não era possível à Fazenda Pública alegar na fase de conhecimento nas instâncias ordinárias.
+Nesse sentido, ad argumentandum, percebe-se que no Tema 905/STJ, no item 4 consta ressalva atinente à coisa julgada para que seja aferida sua constitucionalidade/legalidade no caso concreto. Assim, se não era possível sua alegação, inexiste o empecilho da coisa julgada à sua aplicabilidade imediata ao feito.
+Como visto, o acórdão exarado nos autos originários foi publicado em 29.10.2007, ou seja, em data anterior ao advento da lei 11.960 de 29 de junho de 2009, de modo que não está inume aos seus efeitos, conforme entendimento consolidado pelo STF e pelo STJ.
+(..)
+Essa situação permite concluir que a obediência ao índice fixado na coisa julgada somente tem cabimento nas situações em que a decisão judicial foi exarada posteriormente aoadvento da citada norma e somente nessa situação em que se poderia invocar a eficácia preclusiva da coisa julgada.
+Assim, também se revela aplicável a superveniente Lei 12.703/12, disciplinando que os juros aplicados aos depósitos das cadernetas de poupança não se confundem com o percentual de 0,5%, posto que variáveis:
+(..)
+Assim, sendo possível seu conhecimento na fase executiva, eis que legislação superveniente aplicável de imediato à controvérsia por versar sobre questão de ordem pública.
+Nesse sentido:
+(..)
+Outrossim, trata-se de matéria de ordem pública de cogente aplicação pelo órgão jurisdicional, sem o empecilho da preclusão. Nesse sentido:
+(..)
+Por oportuno, ad argumentandum, reitera-se que descabe afirmar que o Tema 905/STJ impede a aplicabilidade imediata das leis 11.960/09 e 12.703/12, tendo em vista que posteriores à última oportunidade para alegar nas instâncias ordinárias, como decidido, mutatis mutandis, pelo STJ no Tema 476.
+Tanto assim o é que o item 4 do Tema 905/STJ, determina que a constitucionalidade/legalidade de sua aplicação seja aferida no caso concreto. Assim, aplicável por versar sobre matéria de ordem pública e pelo princípio tempus regit actum.
+É importante frisar que o percentual dos juros moratórios nas condenações da Fazenda Pública é norma de natureza processual, de aplicabilidade imediata, após a vigência da lei que a instituiu. Nesse sentido:
+(..)
+Portanto, considerada constitucional sua aplicação é de ser observada pelo juízo executivo.
+Por fim, o Tema 810/STF, s.m.j., vem ao encontro da tese recursal como se infere do trecho destacado:
+(..)
+De conseguinte, a partir da Lei 11.960/09, na exegese do E STF, há de ser aplicado o percentual de juros de mora aplicável à caderneta de poupança, reformando-se a decisão colegiada que manteve o percentual fixo de 6% ao ano"(fls. 138/149e).
+Por fim, requer "a Vossas Excelências que conheçam e dêem provimento ao presente Recurso Especial, anulando e/ou reformando o acórdão a quo, nos termos da fundamentação, para preservar a autoridade e integridade da legislação federal"(fl. 149e).
+Contrarrazões, a fls. 158/166e.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 169/170e).
+A irresignação não merece provimento.
+Na origem, trata-se de Agravo de Instrumento interposto pela parte ora recorrente, "em face de decisão que, definindo critérios para a retificação do cálculo pela Contadoria, afastou a aplicação dos juros fixados na Lei nº 11.960/09" (fl. 61e), que foi improvidopelo Tribunal local.
+Daí a interposição do presente Recurso Especial.
+Assim se pronunciou a Corte a quo sobre a controvérsia:
+"Transcrevo abaixo referida decisão monocrática, que ora adoto como parte da fundamentação deste acórdão:
+As novas regras insertas na Lei nº 13.105/2015 (Código de Processo Civil) passaram a restringir a interposição do agravo de instrumento às hipóteses expressamente previstas.
+A decisão noticiada desafia impugnação por meio do instrumental, porquanto proferida em cumprimento de sentença, consoante previsão do Parágrafo Único do art. 1.015 do CPC.
+Em 03/10/2019, o Pleno do Supremo Tribunal Federal, por maioria, rejeitou todos os embargos de declaração opostos no RE 870.947/SE, representativo do Tema 810 da Repercussão Geral, e não modulou os efeitos da decisão anteriormente proferida.
+Restou definido que o artigo 1º-F da Lei 9.494/1997, na parte em que disciplina os juros moratórios nas condenações oriundas de relação jurídica não-tributária, a fixação de juros idênticos aos aplicados à caderneta de poupança foi entendida como constitucional, permanecendo hígido, nesta extensão, o disposto no artigo 1º-F da Lei 9.494/1997, com a redação dada pela Lei 11.960/2009.
+Importa referir que a modulação dos efeitos da declaração de inconstitucionalidade da Emenda nº 62/2009 nas ADIs nºs 4.357 e 4.425 se aplica, exclusivamente, aos precatórios expedidos ou pagos até a data da mencionada manifestação judicial, não sendo o caso dos autos, em que se trata de fase anterior à atualização dos mesmos.
+De outro lado, no caso concreto faz-se necessária a análise de eventual ofensa à coisa julgada.
+No ponto, examinando o Tema nº 905, o Superior Tribunal de Justiça, estabeleceu as seguintes regras a serem observadas nas execuções promovidas contra a Fazenda Pública:
+"(..)
+2. Juros de mora: o art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), na parte em que estabelece a incidência de juros de mora nos débitos da Fazenda Pública com base no índice oficial de remuneração da caderneta de poupança, aplica-se às condenações impostas à Fazenda Pública, excepcionadas as condenações oriundas de relação jurídico- tributária.
+3. Índices aplicáveis a depender da natureza da condenação.
+3.1 Condenações judiciais de natureza administrativa em geral.
+As condenações judiciais de natureza administrativa em geral, sujeitam-se aos seguintes encargos: (a) até dezembro/2002: juros de mora de 0,5% ao mês; correção monetária de acordo com os índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) no período posterior à vigência do CC/2002 e anterior à vigência da Lei 11.960/2009: juros de mora correspondentes à taxa Selic,vedada a cumulação com qualquer outro índice; (c) período posterior à vigência da Lei 11.960/2009: juros de mora segundo o índice de remuneração da caderneta de poupança; correção monetária com base no IPCA-E.
+3.1.1 Condenações judiciais referentes a servidores e empregados públicos.
+As condenações judiciais referentes a servidores e empregados públicos, sujeitam-se aos seguintes encargos: (a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora:
+0,5% ao mês; correção monetária: IPCA-E; (c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária:
+IPCA-E.
+3.1.2 Condenações judiciais referentes a desapropriações diretas e indiretas.
+No âmbito das condenações judiciais referentes a desapropriações diretas e indiretas existem regras específicas, no que concerne aos juros moratórios e compensatórios, razão pela qual não se justifica a incidência do art. 1º-F da Lei 9.494/97 (com redação dada pela Lei 11.960/2009), nem para compensação da mora nem para remuneração do capital.
+3.2 Condenações judiciais de natureza previdenciária.
+As condenações impostas à Fazenda Pública de natureza previdenciária sujeitam-se à incidência do INPC, para fins de correção monetária, no que se refere ao período posterior à vigência da Lei 11.430/2006, que incluiu o art.41-A na Lei 8.213/91. Quanto aos juros de mora, incidem segundo a remuneração oficial da caderneta de poupança (art. 1º-F da Lei 9.494/97, com redação dada pela Lei n. 11.960/2009).
+3.3 Condenações judiciais de natureza tributária.
+A correção monetária e a taxa de juros de mora incidentes na repetição de indébitos tributários devem corresponder às utilizadas na cobrança de tributo pago em atraso. Não havendo disposição legal específica, os juros de mora são calculados à taxa de 1% ao mês (art. 161, § 1º, do CTN). Observada a regra isonômica e havendo previsão na legislação da entidade tributante, é legítima a utilização da taxa Selic, sendo vedada sua cumulação com quaisquer outros índices.
+4. Preservação da coisa julgada.
+Não obstante os índices estabelecidos para atualização monetária e compensação da mora, de acordo com a natureza da condenação imposta à Fazenda Pública, cumpre ressalvar eventual coisa julgada que tenha determinado a aplicação de índices diversos, cuja constitucionalidade/legalidade há de ser aferida no caso concreto."
+De acordo com o tema acima transcrito, deve-se respeitar a coisa julgada até posterior alteração legislativa (item 4).
+Da leitura das peças da Ação Ordinária Coletiva nº2004.70.00.014472-8/PR, digitalizada sob nº5045010-23.2016.4.04.7000, vê-se que o acórdão proferido no REsp 1388714 transitou em julgado em 18/05/2016, quando já em vigor a Lei nº 11.960/09.
+Neste contexto, preserva-se o título executivo que transitou em julgadoquando já vigente o diploma legal, em respeito à coisa julgada, não merecendo acolhida as razões recursais da FUNASA.
+Ante o exposto, nego provimento ao presente agravo de instrumento, forte no art. 932, IV, "b", do CPC.
+Intime-se. Na sequência, dê-se baixa e arquivem-se os autos.
+Em que pese a irresignação da parte agravante, não verifico razões para alterar o entendimento inicial.
+Conforme entendimento firmado no Egrégio STJ, os juros de mora e a correção monetária são consectários legais da condenação, possuindo natureza eminentemente processual, e se caracterizam como matéria de ordem pública, e não mero erro material ou critério de cálculo, sendo cabível o seu pronunciamento de ofício (REsp 1258912/MG, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 22/11/2011, DJe 02/12/2011).
+A/s alterações legais nos critérios de cálculo das referidas verbas tem aplicação imediata, devendo, contudo, incidir somente no período de tempo de sua vigência (princípio do tempus regit actum), respeitada a coisa julgada formada após sua entrada em vigor.
+Como referido na decisão monocrática, a aplicação do entendimento estabelecido no Tema 810/STF da Repercussão Geral ofenderia o instituto da coisa julgada, posto que, embora o acórdão proferido na Ação Civil Pública nº2004.70.00.014472-8 / 5045010-23.2016.4.04.7000 tenha sido proferido em 07/11/2007 (Cumprimento de Sentença, ev. 1, COMP8, fl. 10), seu trânsito em julgado se deu junto ao Superior Tribunal de Justiça em 18/05/2016 (Cumprimento de Sentença, ev. 1, COMP9).
+Observo que, embora o acórdão do Recurso de Apelação tenha sido proferido anteriormente à publicação da Lei nº11.960/09, este foi anulado pelo Superior Tribunal de Justiça quando já em vigor a Lei nº11.960/09, e, após novo julgamento dos Embargos de Declaração nesta Corte Regional, foi aberta a oportunidade de novos recursos pelas partes, culminando, inclusive, na oposição de declaratórios e de Recurso Especial, com nova remessa ao STJ, após cujo julgamento se deu o trânsito em julgado.
+Portanto, nos termos da orientação do Tema 905/STJ, que traz expressa a garantia da coisa julgada, há de ser indeferida a utilização da taxa de juros da caderneta de poupança, prevista na Lei nº11.960/09, bem como afastada a aplicação do Tema 810 do Supremo Tribunal Federal.
+Desta sorte, há de ser negado provimento ao presente Agravo Interno e mantida a negativa de provimento ao Agravo de Instrumento" (fls. 117/119e).
+Com efeito, o acórdão vergastado está em harmonia com a jurisprudência do STJ firmada no sentido de que,"sem que a decisão acobertada pela coisa julgada tenha sido desconstituída, não é cabível ao juízo da fase de cumprimento de sentença alterar os parâmetros estabelecidos no título judicial, ainda que no intuito de adequá-los à decisão vinculante do STF"(STJ, REsp 1.861.550/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de04/08/2020).
+Nesse sentido:
+"PROCESSO CIVIL E FINANCEIRO. AGRAVO INTERNO NO RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO N. 3/STJ. FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL (FUNDEF). EMBARGOS À EXECUÇÃO.CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA E JUROS DE MORA. COISA JULGADA. AGRAVO INTERNO PARCIALMENTE PROVIDO.
+1. Cinge-se a controvérsia acerca da possibilidade de aplicação imediata às ações em curso da Lei 11.960/09, que veio alterar a redação do artigo 1º-F da Lei 9.494/97, para disciplinar os critérios de correção monetária e de juros de mora a serem observados nas "condenações impostas à Fazenda Pública, independentemente de sua natureza", quais sejam, "os índices oficiais de remuneração básica e juros aplicados à caderneta de poupança".
+2. Impende mencionar que houve o prequestionamento do tema concernente à aplicação dos juros de mora, nos termos da Lei 11.960/2009.
+3. Colhe-se dos autos, que a decisão exequenda determinou a utilização da taxa SELIC para atualização das parcelas pretéritas.Em razão da necessidade de se preservar a coisa julgada, não é possível a reforma do acórdão recorrido.
+4. Agravo interno parcialmente provido"(STJ, AgInt no REsp 1.622.340/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/02/2019)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COISA JULGADA. MODIFICAÇÃO DE PERCENTUAL DE JUROS DE MORA. LIQUIDAÇÃO. PRECLUSÃO CONSUMATIVA.
+1. Consoante jurisprudência do STJ: i) não viola a coisa julgada pedido formulado na fase executiva que não pôde ser suscitado no processo de conhecimento, porquanto decorrente de fatos e normas supervenientes "à última oportunidade de alegação da objeção de defesa na fase cognitiva, marco temporal que pode coincidir com a data da prolação da sentença, o exaurimento da instância ordinária ou mesmo o trânsito em julgado, conforme o caso" (REsp 1.235.513/AL, Rel. Min. Castro Meira, Primeira Seção, DJe de 20.8.2012 - submetido ao regime dos recursos repetitivos); ii) é possível a revisão do capítulo dos consectários legais fixados no título judicial, em fase de liquidação ou cumprimento de sentença, em virtude da alteração operada pela lei nova (REsp 1.111.117/PR e REsp 1.111.119/PR, Rel.p/ Acórdão Ministro Mauro Campbell Marques, Corte Especial, DJe 2.9.2010 - submetido ao regime dos recursos repetitivos).
+2. No caso dos autos, contudo, a modificação, na fase de liquidação, do índice de juros de mora especificamente estabelecido em decisão transitada em julgado e proferida após o advento do Código Civil de 2002 e da Lei 11.960/2009 constitui inegável ofensa à coisa julgada.Isso porque a decisão, objeto de execução, foi proferida quando já em vigor os preceitos do Código Civil de 2002 e da Lei 11.960/2009, não tendo havido insurgência à época contra o percentual dos juros de mora.
+3. Agravo Interno não provido"(STJ, AgInt no REsp 1.565.926/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA,DJe de 22/10/2019).
+Destarte, aplica-se, ao caso, entendimento consolidado na Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
