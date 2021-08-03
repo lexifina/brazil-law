@@ -1,0 +1,14 @@
+DECISÃO
+CARLOS ALBERTO RODRIGUESalega sofrer coação ilegal em seu direito a locomoção, em decorrência de acórdãoproferido peloTribunal de Justiça do Estado de São Paulo, que não conheceu do HC n. 2210799-89.2020.8.26.0000, por entender não ser o habeas corpus substitutivo de agravo em execução penal.
+Nas razões recursais, a defesa postula, em síntese, sua progressão ao regime semaiberto, por entender preenchidos os requisitos legais.
+Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do recurso.
+Decido.
+Ressalto, inicialmente, que já houve anteriorinterposição de agravo em execução em favor do apenado em face da decisão denegatório da progressão de regime.
+Diverge a doutrina e, sobretudo, a jurisprudência sobre a viabilidade de se examinar habeas corpus quando há recurso pendente de julgamento. Dúvidas não há de que, em se tratando de discussão acerca da liberdade de locomoção, diretamente afetada por ilegalidade ou abuso de poder, o cabimento do remédio heroico é indiscutível.
+Esse tema talvez tenha assumido notável relevância em razão do espectro de abrangência que tem sido dado, pela jurisprudência, ao habeas corpus. Se saudável foi a aceitação do writ como remédio para "todos os males", impõe definir os contornos da situação em que o mandamus é impetrado simultaneamente com o recurso cabível e o assunto tratado naquele restringe-se a capítulo deste último.
+O agravo em execuçãopermite ao Tribunal ad quem examinar, com profundidade, toda a matéria posta em debate. Assim, agravo em execução é a via processual adequada para a impugnação das decisões proferidas no curso da execução penal, pois é esse recurso que devolve ao tribunal o conhecimento amplo de toda a matéria dos autos, permitindo a reapreciação de fatos e de provas, com todas as suas nuanças, sem a limitação cognitiva da via mandamental.
+Por isso mesmo é que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), bem como à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do(a) paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Assim, embora seja passível a análise, em recurso ordinário em habeas corpus, da pretendida progressão de regime, entendo que a apreciação dessa matéria implica considerações que merecem ser melhor examinadas em agravo em execução, já em trâmite perante o Tribunal de origem.
+Ressalto, portanto, ser indevida a subversão do sistema recursal e a avaliação, enquanto ainda não exaurida a prestação jurisdicional pelas instâncias ordinárias, das teses defensivas via os limites estritos do habeas corpus.
+À vista do exposto, não conheço do recurso ordinário em habeas corpus.
+Publique-se e intimem-se.
