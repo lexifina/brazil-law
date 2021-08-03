@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão que conheceu do Agravo para não conhecer do Recurso Especial.
+A parte embargante alega, em suma (fls. 3.387-3.394 , e-STJ):
+Contudo, nos casos em que a discussão não engloba a própria prestação do serviço público e/ou o Contrato de Concessão, como no presente caso, a Corte Especial já decidiu, nos autos do Conflito de Competência, ser o julgamento atribuição das Turmas de Direito Privado:
+(..)
+Tampouco é da competência das Turmas de Direito Público, mas sim das Turmas de Direito Privado a ação que envolve a prática/conduta da concessionária na fase pré- contratual do serviço concedido (publicidade)
+(..)
+Logo, partindo-se da premissa fática assentada nas instâncias ordinárias e reconhecida inclusive na decisão do Min. Ricardo Villas Bôas Cueva, a conclusão que se deve chegar é a de que o presente recurso especial deve ser submetido ao julgamento das Turmas de Direito Privado, o que não foi, d.v., apreciado por V.Exa., ensejando a oposição dos embargos declaratórios.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9.6.2021.
+De fato, não houve manifestação a respeito da competência do julgamento do presente caso.
+Preliminarmente, segundo o entendimento da Corte Especial, "Na definição da competência das Seções deste Superior Tribunal de Justiça, prevalece a natureza da relação jurídica litigiosa. Pouco importa o instrumento processual utilizado ou a espécie da lei que fundamentou a decisão recorrida ou que foi invocada no recurso  .. " (CC 29.481/SP, Corte Especial, Rel. Min. Cesar Asfor Rocha, DJ de 28/5/2001).
+No caso, os autores propuseramação de indenização por danos morais e materiais, na qual alegamsofrer com a morte de toneladas de peixes e espécies aquáticas em razão de dano ambiental.
+Assim, constitui competência da Primeira Seção as discussões sobre a adequação do serviço público concedido e a responsabilidade da concessionária.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONFLITO NEGATIVO DE COMPETÊNCIA. SERVIÇO PÚBLICO. LITÍGIO ENTRE USUÁRIO E EMPRESA CONCESSIONÁRIA. TELEFONIA. DISCUSSÃO SOBRE ADEQUAÇÃO DO SERVIÇO. NATUREZA DE DIREITO PÚBLICO DA RELAÇÃO JURÍDICA LITIGIOSA. LEI GERAL DE TELECOMUNICAÇÕES. LEI DE CONCESSÕES. RESOLUÇÃO 632/2014, DA ANATEL. PRECEDENTES DA CORTE ESPECIAL. COMPETÊNCIA DAS TURMAS DA PRIMEIRA SEÇÃO DO STJ.
+1. Trata-se de Conflito Negativo de Competência suscitado pela Quarta Turma em face da Primeira Turma, no âmbito de Recurso Especial interposto no curso de Ação de Obrigação de Fazer c/c pedido indenizatório proposta por Riomídia Informática Ltda. contra Telemar Norte Leste S/A, tendo como causa de pedir a recusa da concessionária de serviço de telefonia em adequar o plano contratado à real necessidade de consumo da empresa usuária.
+RELAÇÃO JURÍDICA LITIGIOSA
+2. Em se tratando de debate relativo à competência, o art. 9º do Regimento Interno do Superior Tribunal de Justiça estabelece como critério geral a "natureza da relação jurídica litigiosa".
+3. O Tribunal a quo reconheceu estar "caracterizada a falha na prestação do serviço de telecomunicações" e demonstrado o comportamento "desidioso da ré" (fl. 418). Desse modo, o conflito versa sobre o serviço público prestado, ainda que estejam em discussão aspectos relativos ao contrato.
+PRESTAÇÃO DE SERVIÇO PÚBLICO ADEQUADO E NORMAS PUBLICISTAS: LEI DE CONCESSÕES E LEI GERAL DE TELECOMUNICAÇÕES
+4. A resolução do tema de fundo perpassa pela interpretação e aplicação da Lei de Concessões (Lei 8.987/1995) e, em particular, da Lei Geral de Telecomunicações (Lei 9.472/1997).
+5. A propósito, o leading case da Primeira Seção, que apreciou o tema da legalidade da assinatura básica do serviço de telefonia, possui fundamentação firmemente ancorada na Lei Geral de Telecomunicações (REsp 911.802/RS, Rel. Ministro José Delgado, Primeira Seção, DJe 1º/9/2008).
+6. Os contratos de prestação de serviços de telefonia - fixa e móvel - sofrem amplo influxo de normas de direito público e forte controle exercido pela Anatel, órgão regulador das telecomunicações.
+7. A prestação de serviço público adequado está diretamente relacionada ao respeito à Lei 8.987/1995 (Lei de Concessões), às normas contratuais e outras pertinentes (p. ex., o Código de Defesa do Consumidor), conforme o art. 6º da Lei de Concessões: "Art. 6º Toda concessão ou permissão pressupõe a prestação de serviço adequado ao pleno atendimento dos usuários, conforme estabelecido nesta Lei, nas normas pertinentes e no respectivo contrato".
+8. Se a controvérsia gira em torno da inadequação na prestação de serviço público concedido e da responsabilidade civil (contratual ou não) decorrente, não há como dissociar do caso concreto a natureza jurídica de Direito Público. O simples fato de haver discussão contratual entre usuário e concessionária de serviço público não atrai para o Direito Privado a relação jurídica litigiosa. Se fosse assim, toda a matéria de licitações, de índole eminentemente contratual, deveria também ser julgada pela Segunda Seção.
+JURISPRUDÊNCIA DA CORTE ESPECIAL DO STJ
+9. Consoante a orientação assentada pela Corte Especial, é de Direito Público a relação jurídica litigiosa (art. 9º do RISTJ) entre usuário de serviço público e pessoa jurídica concessionária (CC 122.559/DF, Rel.Ministro Gilson Dipp, Corte Especial, DJe 25/9/2013; CC 108.085/DF, Rel. Ministro Aldir Passarinho Junior, Corte Especial, DJe 17/12/2010; CC 104.374/RS, Rel. Ministro Hamilton Carvalhido, Corte Especial, DJe 1º/6/2009; CC 102.589/RS, Rel. Ministra Laurita Vaz, Corte Especial, DJe 18/5/2009; CC 102.588/RJ, Rel. Ministro Felix Fischer, Corte Especial, DJe 20/4/2009; REsp 1.396.925/MG, Rel.Ministro Herman Benjamin, Corte Especial, DJe 26/2/2015).
+10. Em todos os casos acima referidos, ficou definido que tais conflitos são regidos predominantemente por normas publicistas sediadas na Constituição Federal, na Lei de Concessões e no Código de Defesa do Consumidor.
+PREDOMINÂNCIA DE NORMAS PUBLICISTAS NOS CONFLITOS ENTRE USUÁRIOS E EMPRESAS CONCESSIONÁRIAS DE SERVIÇO PÚBLICO
+11. Como adverte Celso Antônio Bandeira de Mello, a opção por classificar determinadas atividades como serviço público revela que "o Estado considera de seu dever assumi-las como pertinentes a si próprio (mesmo que sem exclusividade) e, em consequência, exatamente por isto, as coloca sob uma disciplina peculiar instaurada para resguardo dos interesses nelas encarnados: aquela disciplina que naturalmente corresponde ao próprio Estado, isto é, uma disciplina de direito público" (Grandes temas de direito administrativo, Malheiros, São Paulo, 2009, p.274).
+12. Sob essa perspectiva, afigura-se irrelevante para efeito de definição da competência de uma das Turmas da Seção de Direito Público a existência de debate sobre o contrato entabulado entre usuário e prestador do serviço e a ausência de discussão sobre cláusulas do contrato administrativo, poder concedente e normas regulamentares do setor.
+13. Cumpre delimitar que atraem a competência da Primeira Seção aqueles casos que caracterizam concessão em sentido estrito, e não as concessões/permissões/autorizações que poderíamos chamar de inespecíficas. Em outras palavras, apenas quando o próprio Estado, por sua natureza, possui competência para prestar o serviço, e não o faz - hipótese que não abrange, por exemplo, o serviço de táxi de passageiros -, e quando os insumos para a prestação da atividade de interesse público são constitucionalmente definidos como bens estatais (p. ex., os potenciais de energia hidráulica, nos termos do art. 20, VIII, da CF).
+CONCLUSÃO
+14. Conflito de Competência conhecido para declarar competente a Primeira Turma do STJ.
+(CC 138.405/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Rel. p/ Acórdão Ministro HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 17/08/2016, DJe 10/10/2016)
+Diante do exposto, acolho parcialmente os Embargos de Declaração, conforme fundamento acima, mas sem alteração do resultado.
+Publique-se.
+Intimem-se.
