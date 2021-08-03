@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de pedido de tutela provisória, com pleito liminar, formulado por CARLOS HENRIQUE AGUIAR RODRIGUES CATRAIO, visando atribuir efeito suspensivo ao recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Paraná(Processo n. 0031906-47.2020.8.16.0014), quedeu provimento ao recurso em sentido estrito do Ministério Público para receber o aditamento da denúncia.
+Sustenta a concessão do efeito suspensivo ao Recurso Especial interposto pelo ora requerente. Aduzviolação do art. 18 do CP e do enunciado da Súmula n. 524/STF.
+Alega que o perigo na demora está no fato deque o D. Juízo da 5ª Vara Criminal de Londrina/PR já foi informado sobre o provimento do Recurso em Sentido Estrito, para determinar a inclusão do Requerente no polo passivo da Ação Penal em curso e com audiência de início de instrução processual já designada.
+O pedido foi indeferido (e-STJ fls. 236/237).
+É o relatório que basta. Decido.
+A jurisprudência desta Corte Superior é no sentido de que asuperveniência do julgamento do recurso especial aoqual se buscava a concessão de efeito suspensivo, ainda que sem trânsito em julgado, prejudica o pedido de tutela provisória em razão da perda do objeto. Precedentes:AgRg no AgRg no TP 2.642/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 04/08/2020, DJe 31/08/2020;AgRg no TP 1.556/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/11/2018, DJe 14/12/2018;AgRg no TP 11/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/05/2017, DJe 30/05/2017;AgRg na MC 25.363/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 13/09/2016.
+Com o julgamento monocrático do Recurso Especial n. 1.944.187/PR, ao qual a defesa pretendia atribuir efeito suspensivo, verifica-se o encerramento da prestação jurisdicional nesta instância, mostrando-se incabível a pretensão formulada nos autos desse pedido de tutela provisória.
+Ante o exposto, nos termos do art. 34, XI, do Regimento Interno do STJ, julgo prejudicado o pedido da presente tutela provisória.
+Intimem-se.
