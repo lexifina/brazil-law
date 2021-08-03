@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por CIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO SABESP,em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo, que negou admissibilidade a recurso especial manejado contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - PRESTAÇÃO DE SERVIÇOS -FORNECIMENTO DE ESGOTO - AÇÃO DE OBRIGAÇÃO DE FAZER C. C. RESTITUIÇÃO DE INDÉBITO - Tarifa de esgoto decorrente de fonte alternativa (poço artesiano) - Ausência de previsão legal para cobrança em continuidade da ligação, em segunda faixa - Decreto nº 41.446/96 - Abusividade e desproporcionalidade - Ocorrência - Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, interposto com base na alínea a do permissivo constitucional, arecorrente aponta violação aos arts. 489, § 1º, IV c/c art. 1.022, I, do CPC,3º, I, "a" e "b" e 30, caput, e I, da Lei nº 11.445/2007 e 8º, 9º, 10 e 47, IV, do Decreto nº 7.217/10.
+Em síntese, aduz que o Tribunal de origem se mostrou obscuro e omissoquanto a questões suscitadas nos embargos de declaração, bem como reconheceuo direito do recorrido de ter seu esgoto relativo à ligação de fonte alternativa tarifado de forma autônoma, dissociada do restante do imóvel,ignorando a unicidade e indivisibilidade do serviço de coleta de esgoto e a sua dissociação do serviço de fornecimento de água, enão considerandoa necessária aplicação da tarifa referente ao serviço de esgotamento sanitário nas diferentes faixas de consumo, descumprindo-se assim a necessária progressividade tarifária.
+A inadmissão do recurso especial se fez à consideração de que: i) não se verificou a alegada ofensa aos arts. 489 e 1022 do CPC; ii) nãoficou demonstrada a alegada vulneração aos dispositivos indicados; iii) rever o entendimento adotado somente poderia ser feito mediante o reexame probatório dos autos, atraindo a incidência da Súmula 7/STJ.
+Nas razões de agravo, postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+É o relatório.
+Passo a decidir.
+Presentes os pressupostos de admissibilidade do agravo, passo à análise do especial.
+A pretensão não merece prosperar.
+Isso porque sem razão a parte recorrente quanto à alegada violação ao artigo 1.022 do CPC, sob a alegação de que o Tribunal de origem deixou de suprir a obscuridade referente à alegaçãode que há sim fundamentação legal na forma de cobrança efetivada pela Sabesp, contida tanto no Decreto Estadual nº 41.446/96, bem como na Lei Federal nº 11.445/07, e se omitiu acerca da alegação de que não haveria "cobrança a partir de segunda faixa", mas tão somente aplicação da necessária progressividade tarifária com alocação do consumo nas suas diferentes faixas de cobrança.
+Cumpre asseverar que as proposições poderão ou não ser explicitamente dissecadas pelo magistrado, cabendo-lhe decidir a questão com seu livre convencimento, baseando-se nos aspectos pertinentes à hipótese e na legislação que entender aplicável ao caso concreto, não estando obrigado a rebater um a um os argumentos apresentados pela parte quando já encontrou fundamento suficiente para decidir a controvérsia.
+A propósito, os seguintes trechos do acórdão embargado a corroborar referida fundamentação (fl. 111e-STJ) :
+(..)
+Com efeito, a r. decisão embargada não se ressente das alegadas imperfeições, uma vez que se baseou na convicção de que "o critério adotado pela agravante mostra-se desproporcional e abusivo em detrimento do consumidor, uma vez que não se verifica custo adicional que justifique a diferenciação de faturamento, ainda porque se trata no caso de ligação independente com registro cobrado individualmente (RGI 0428822223).". E, considerou que inexiste fundamento legal que sustente a cobrança realizada em poço artesiano de forma continuada da ligação da Sabesp, que acaba esbarrando na segunda faixa de consumo. Portanto, manteve a r. decisão agravada no sentido de "determinar que a ré proceda ao recalculo das tarifas de coleta de esgoto, decorrentes da fonte alternativa (poço artesiano), ou seja a ligação RGI nº 0428822223, partindo da primeira faixa de consumo fixada para a categoria.".
+Registra-se que o Poder Judiciário não está obrigado a emitir expresso juízo de valor a respeito de todas as teses e artigos de lei invocados pelas partes, bastando para fundamentar o decidido fazer uso de argumentação adequada, ainda que não espelhe quaisquer das linhas de argumentação invocadas.
+Nesse sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 489, § 1º E 1.022, II, DO CPC/15. ACÓRDÃO BASEADO EM FUNDAMENTAÇÃO EMINENTEMENTE CONSTITUCIONAL MATÉRIA INSUSCETÍVEL DE SER EXAMINADA EM RECURSO ESPECIAL.
+1. Verifica-se não ter ocorrido ofensa aos arts. 489, § 1º e 1.022, II do CPC/15, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos presentes autos.
+2. A Corte de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, circunstância que torna imprópria a análise da insurgência pelo STJ em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1630265/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/11/2016, DJe 06/12/2016)
+Ademais, como é cediço, a omissão apta a ensejar os aclaratórios é aquela advinda do próprio julgamento e prejudicial à compreensão da causa, e não aquela que entenda o embargante.
+Assim, não havendo no acórdão recorrido a existência de vício que caracterize ausência de prestação jurisdicional, e estando fundamentada a decisão, não fica caracterizada ofensa aos arts. 489 e1.022 do CPC.
+Quanto aos demais dispositivos indicados como violados, a controvérsia foi dirimida pelo Tribunal de origem nos seguintes termos (e-STJ fls. 92/93):
+(..)
+A r. decisão julgou procedente o pedido do agravado, determinando que a agravante proceda ao recálculo das tarifas de coleta de esgoto, decorrentes da fonte alternativa (poço artesiano), ou seja, a ligação RGI nº 0428822223, partindo da primeira faixa de consumo fixada para a categoria. E, quanto ao pedido de restituição dos valores pagos, fixou os pontos controvertidos, determinou a produção de prova pericial com nomeação de perita, cujos honorários serão arcados por ambas as partes. Em razão da hipossuficiência técnica do consumidor para apresentação de eventuais documentos, inverteu o ônus da prova.
+Com efeito, o Decreto Estadual nº 41.446/96 adotou critério de cálculo que considera a tarifa segundo a natureza dos usuários e também as faixas de consumo. De acordo com o disposto no artigo 5º do referido decreto: "Para efeito de cálculo da fatura/conta considerar-se-á o volume de esgoto coletado no período, o correspondente ao de água faturada pela Sabesp e/ou consumida de sistema próprio, medida ou avaliada pela Sabesp". Nada obstante, o art. 15 dispõe que: "A cada ligação de água e/ou esgoto corresponderá uma única fatura/conta por período de faturamento".
+No presente caso, há utilização de fonte alternativa de água (poço artesiano) pelo agravado, contudo, inexiste fundamento legalque sustente a cobrança realizada em continuidade a partir da segunda faixa de consumo, como propõe a agravante. Pois, o critério adotado pela agravante mostra-se desproporcional e abusivo em detrimento do consumidor, uma vez que não se verifica custo adicional que justifique a diferenciação de faturamento, ainda porque se trata no caso de ligação independente com registro cobrado individualmente (RGI 0428822223).
+Depreende-se do acórdão transcrito, ter sido a lide julgada à luz de interpretação de legislação local, qual seja o Decreto Estadual n. 41.446/96.
+Com efeito, da forma como ficou definido pelo Tribunal de origem, imprescindível seria a análise da lei local para o deslinde da controvérsia, providência vedada em sede de recurso especial.
+Desse modo, aplicável à espécie, por analogia, o enunciado da Súmula 280, do Supremo Tribunal Federal, segundo o qual "por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial".
+A propósito:
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI LOCAL.
+Se a reforma do julgado demanda a interpretação de lei local, o recurso especial é inviável (STF, Súmula nº 280). Agravo regimental não provido.
+(AgRg no AREsp 325430/PE, Rel. Ministro ARI PARGENDLER, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 03/06/2014)
+IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA (IRPJ). SUBVENÇÃO PARA INVESTIMENTO. PRODEC. LEI LOCAL. SÚMULA 280/STF.
+1. Verifica-se que a demanda foi dirimida com base em Direito local, in casu, na legislação estadual catarinense (Lei 3.342/05 e no Decreto 704/07). Logo, é inviável sua apreciação em Recurso Especial, em face da incidência, por analogia, da Súmula 280 do STF:"por ofensa a direito local não cabe recurso extraordinário."
+2.
+Agravo Regimental não provido.
+(AgRg no REsp 1433745/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/04/2014, DJe 22/04/2014).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. FORNECIMENTO DE ESGOTO. FONTE ALTERNATIVA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. DECRETO ESTADUAL Nº 41.446/96. SÚMULA 280/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR PROVIMENTO.
