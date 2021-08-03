@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial interposto por VILACINO GRACIANO FILHO contra acórdão prolatado pela 2ª Turma do Tribunal Regional Federal da 1ª Região, assim ementado (fls. 497/509e):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. CONVERSÃO DE TEMPO DE SERVIÇO COMUM EM TEMPO DE SERVIÇO PRESTADO EM CONDIÇÕES ESPECIAIS. EC 20/98.
+1. Consoante entendimento sedimentado no Eg. Superior Tribunal de Justiça, o segurado que presta serviços sob condições especiais faz jus ao cômputo do tempo nos moldes da legislação previdenciária vigente à época em que realizada a atividade e efetivamente prestado o serviço. É a consagração do princípio lex-ternpus-regrt-actum", em virtude do qual o deslinde da questão deve levar em conta a lei vigente à época dos fatos.
+2. A comprovação da exposição do segurado aos agentes prejudiciais à saúde deve ser aferida de acordo com o enquadramento do ramo de atividade que exercia, por presunção de existência de serviços ou atividades profissionais classificadas como insalubres, penosas ou perigosas (Lei n. 3.807, de 26/08/60 - LOPS); das relações de agentes nocivos constantes do anexo dos Decretos ns.
+53.831/64 e 63.230/68, cumulativamente conservadas por força do art. 1º, da Lei n. 5.527/68; Decreto n. 72.771/73, que regulamentou a Lei n. 3.807/60, com as alterações introduzidas pela Lei n. 5.890/73, permanecendo inalterada a situação com o advento do Decreto n. 77.077/76; acrescidas da classificação das atividades profissionais, segundo os agentes nocivos e segundo os grupos profissionais, de que tratam respectivamente os Anexos I e II do RBPS, dentre os nove que foram aprovados pelo Decreto nº 83.080/79; em idêntica direção seguiu o Decreto nº 89.312/84. Estes critérios foram todos reiterados pelo Decreto n. 611/92 até o advento do Decreto nº 2.172, de 05.03.97, que regulamentou a Lei n. 8.213/91, a partir de quando passou a ser observada a classificação de agentes nocivos prevista no seu Anexo IV.
+3. Mesmo considerando especial o tempo de serviço vindicado pelo autor, restou evidenciado que na data do primeiro requerimento administrativo do benefício, anterior à edição da Emenda Constitucional nº 20/98, de 16.12.1998, o autor ainda não havia implementado as condições necessárias à concessão da aposentadoria por tempo de serviço, nos moldes dos arts. 52 e seguintes da Lei n. 8.213/91, na medida em que perfazia aproximadamente 26 anos, 10 meses e 7 dias de tempo de serviço, já considerada a conversão do tempo especial em comum, não estando amparado pela garantia de direito adquirido prevista no art. 3º, § 2º, EC n. 20/98.
+4. Com relação ao seu segundo requerimento administrativo, datado de 23.04.2002, bem ponderou a sentença recorrida ao consignar que, nesta hipótese, o autor não teria preenchido os requi itos da regra de transição previstos no art. 9º da Emenda Constitucional 20/98, como idade 5íni a de 53 anos para homem e período adicional de contribuição de 40% do tempo que, na data d p blicação da Emenda, faltaria para atingir 30 anos, o que conduz ao indeferimento da pretensão.
+Opostos embargos de declaração, foram parcialmente acolhidos, consoante fundamentos resumidos na seguinte ementa (fls. 526/530e):
+PROCESSUAL CIVIL. ACÓRDÃO. OMISSÃO: INEXISTÊNCIA. MERO ERRO MATERIAL PASSÍVEL DE CORREÇÃO POR MEIO DOS EMBARGOS DE DECLARAÇÃO.
+(..)
+2. Embargos de declaração acolhidos em parte para fixar o cômputo total de tempo de serviço do autor, até a data de entrada do seu requerimento administrativo (DER: 29.09.1998), em 27 anos, 10 meses e 26 dias, mantendo, no mais, o acórdão embargado nos termos em que se acha lavrado.
+Opostos novos embargos de declaração, foram rejeitados (fls. 540/543e).
+Opostos os terceiros embargos de declaração, foram rejeitados (fls. 563/566e).
+Com amparo no art. 105, III, a, da Constituição da Repúblicaaponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Arts. 489, IV, e 1.022, II e III, do Código de Processo Civil de 2015 (art. 535, II, do Código de Processo Civil de 1973) - omissão quanto ao erro material na conversão do período de 28.10.1974 a 09.12.1991 pelo fator 1,1 (10%) quando deveria ter utilizado fator 1,2 (20%); eArt. 60, § 2º, do Decreto n. 83.080/1979 - a conversão do tempo especial em comum deve utilizar o fator de conversão previsto na tabela: 1,2.
+Sem contrarrazões (fl. 577e), o recurso foi admitido (fls. 578/579e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Assiste razão ao Recorrente quanto à violação ao art. 535, II, do Código de Processo Civil.
+O Recorrente sustenta a existência de omissão no acórdão recorrido não suprida no julgamento dos embargos de declaração, porquanto o tribunal de origem teria deixado de manifestar-se acerca da equivocada aplicação do fator 1,1 no lugar do fator 1,2 no período de 28.10.1974 a 09.12.1991.
+Observo tratar-se de questão relevante, oportunamente suscitada e que, se acolhida, poderiam levar o julgamento a um resultado diverso do proclamado. Ademais, a não apreciação da tese, à luz dos dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+Caracterizadas, portanto, a omissão, como o demonstram os seguintes arestos:
+PROCESSUAL CIVIL. RECURSOS ESPECIAIS. ART. 535 DO CPC. EXISTÊNCIA DE OMISSÃO NÃO SANADA. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO DOS EMBARGOS DE DECLARAÇÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Necessidade da análise de questão relacionada à decadência do direito de anulação do ato de demarcação das terras de marinha no Município de Joinville, por ter sido a ação ajuizada mais de cinco anos depois da homologação do procedimento administrativo que determinou a linha preamar média de 1831.
+3. Recurso especial da UNIÃO provido.
+4. Recurso especial de H CARLOS SCHNEIDER S/A COMÉRCIO INDÚSTRIA prejudicado.
+(REsp 1.343.519/SC, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 12/11/2013, DJe 20/11/2013)
+PROCESSUAL CIVIL. ART. 535 DO CÓDIGO DE PROCESSO CIVIL. OMISSÃO. VIOLAÇÃO OCORRIDA. ANULAÇÃO DO ACÓRDÃO.
+1. É omisso o julgado que deixa de analisar as questões essenciais ao julgamento da lide, suscitadas oportunamente pela parte, quando o seu acolhimento pode, em tese, levar a resultado diverso do proclamado.
+2. Recurso especial provido.
+(REsp 1213515/RS, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, SEGUNDA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+No mesmo sentido, as seguintes decisões monocráticas: REsp 1.529.187/RS, Rel. Min. Napoleão Nunes Maia Filho, DJe de 01.06.2015; REsp 1.444.331/ES, Rel. Min. Benedito Gonçalves, DJe de 18.05.2015; REsp 1.502.033/MG, Rel. Min. Sérgio Kukina, DJe de 05.06.2015.
+Posto isso, com fundamento no art. 557, § 1º-A, do Código de Processo Civil, DOU PROVIMENTO ao Recurso Especial, para determinar o retorno dos autos ao tribunal a quo, a fim de que seja suprida a omissão indicada.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
