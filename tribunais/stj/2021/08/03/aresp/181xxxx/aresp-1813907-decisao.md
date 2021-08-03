@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL -INSS, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, "a", da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Paraná, assim ementado (fl. 267):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO -PREVIDENCIÁRIO -AÇÃO DE CONCESSÃO DE AUXÍLIO-ACIDENTE - SENTENÇA PROCEDENTE - PREJUDICIAL DE MÉRITO - DECADÊNCIA -AFASTADA - PRAZO DECENAL QUE APENAS ATINGE PEDIDO CONCERNENTE À REVISÃO DE BENEFÍCIO - DEMANDA QUE SE LIMITA À CONCESSÃO DO AUXÍLIO-ACIDENTE - INCIDÊNCIA DA PRESCRIÇÃO - COM RAZÃO - PRAZO QUE ATINGE AS PARCELAS ANTERIORES AOS ÚLTIMOS CINCO ANOS CONTADOS DO AJUIZAMENTO DA AÇÃO - PRECEDENTES DESTA CÂMARA CÍVEL- MÉRITO - LAUDO PERICIAL QUE ATESTOU A EXISTÊNCIA DE INCAPACIDADE, PARCIAL E PERMANENTE, EM DECORRÊNCIA DE APLICAÇÃO DA TR PARA ACIDENTE DE TRABALHO - PLEITO DECORREÇÃO MONETÁRIA - NEGADO - CONSECTÁRIOS LEGAIS QUE DEVEM ATENDER AO ENTENDIMENTO FIRMADO NO RESP1.495.146/MG (TEMA 905) - HONORÁRIOS POSTERGADOS PARA A FASE DE LIQUIDAÇÃO DE SENTENÇA - RECURSO DE APELAÇÃO PARCIALMENTE PROVIDO E SENTENÇA CONFIRMADA EM PARTEEM REEXAME NECESSÁRIO.
+Nas razões do recurso especial, aponta o recorrente afronta aos arts. 1º do Decreto n. 20.910/32, e 103, parágrafo único, da Lei n. 8.213/91, na medida em que o acórdão recorrido reconheceu a prescrição apenas das parcelas de 5 anos anteriores ao ajuizamento da ação" (fl. 295)
+Afirma que "deve-se reconhecer a prescrição do próprio fundo de direito, sob pena de violação ao art. 103, Parágrafo Único, da Lei 8.213/91 e art. 1º, do Decreto 20.910/32. Verifica-se que o lapso temporal entre a cessação do auxílio-doença (2007) e a data do ajuizamento desta ação (2017) supera o prazo de cinco anos, previsto nas normas em referência" (fl. 295).
+"Requer-se seja provido o recurso especial para que seja declarada a prescrição do próprio fundo de direito, extinguindo o feito nos termos do art. 487, II, do CPC" (fl. 297).
+"O INSS pleiteia o provimento deste recurso para que seja reconhecida a TR como índice de correção monetária dos débitos previdenciários. Eis o art. 1º-F, da Lei 9.494/97" (fl. 297).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, conforme petição de fls. 310/319.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Inicialmente, no tocante aos juros e correção monetária (Lei nº 11.960/09), verifica-se a existência de juízo de admissibilidade proferido às fls. 344/349, negando seguimento ao apelo nobre,em razão de o acórdão estar em consonância com o entendimento sufragado no REsp 1.495.146/MG (Tema 905), não tendo havido recurso quanto a este particular.
+Sobre a ocorrência da chamada prescrição de fundo de direito, este Superior Tribunal de Justiça possui o entendimento consolidado no sentido de que essa não ocorre quando discutem-se benefícios previdenciários e/ou assistenciais.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DE FUNDO DE DIREITO. INAPLICABILIDADE NAS DEMANDAS PREVIDENCIÁRIAS QUE ENVOLVEM RELAÇÕES DE TRATO SUCESSIVO E ATENDEM NECESSIDADES DE CARÁTER ALIMENTAR, RAZÃO PELA QUAL A PRETENSÃO À OBTENÇÃO DE UM BENEFÍCIO É IMPRESCRITÍVEL. AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. As normas previdenciárias primam pela proteção do Trabalhador Segurado da Previdência Social, motivo pelo qual os pleitos previdenciários devem ser julgados no sentido de amparar a parte hipossuficiente e que, por esse motivo, possui proteção legal que lhe garante a flexibilização dos rígidos institutos processuais.
+2. Os benefícios previdenciários envolvem relações de trato sucessivo e atendem necessidades de caráter alimentar, razão pela qual a pretensão à obtenção de um benefício é imprescritível.
+3. É firme o entendimento desta Corte de que, cumpridas as formalidades legais, o direito ao benefício previdenciário incorpora-se ao patrimônio jurídico do beneficiário, não podendo ser objeto, dest"arte, de modificação ou extinção.
+4. Agravo Regimental do INSS desprovido.
+(AgRg no AREsp 311.396/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/03/2014, DJe 03/04/2014)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PRESCRIÇÃO. ART. 103, PARÁGRAFO ÚNICO, DA LEI 8.213/1991. INDEFERIMENTO DE BENEFÍCIO. NEGATIVA EXPRESSA DO INSS. FUNDO DE DIREITO. IMPOSSIBILIDADE. INTERPRETAÇÃO DO ART. 103 DA LEI 8.213/1991. DECADÊNCIA E PRESCRIÇÃO.
+1. A autarquia previdenciária pretende configurar a prescrição do fundo de direito em razão de o benefício ter sido negado administrativamente, com amparo no art. 103, parágrafo único, da Lei 8.213/1991 e na Súmula 85/STJ.
+2. O STJ sedimentou compreensão de que não há prescrição do fundo de direito dos benefícios previdenciários do Regime Geral de Previdência Social, e que tal instituto somente atinge as parcelas sucessivas anteriores ao prazo prescricional. Nesse sentido: AgRg no REsp 1.384.787/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 10.12.2013; AgRg no REsp 1.096.216/RS, Rel. Ministra Assusete Magalhães, Sexta Turma, DJe 2.12.2013.
+4. A interpretação contextual do caput e do parágrafo único do art. 103 da Lei 8.213/1991 conduz à conclusão de que o prazo que fulmina o direito de revisão do ato de concessão ou indeferimento de benefício previdenciário é o decadencial de dez anos (caput), e não o lapso prescricional quinquenal (parágrafo único) que incide apenas sobre as parcelas sucessivas anteriores ao ajuizamento da ação.
+5. A aplicação da prescrição quinquenal prevista no parágrafo único do art. 103 da Lei 8.213/1991 sobre o fundo de direito tornaria letra morta o previsto no caput do mesmo dispositivo legal.
+6. Agravo Regimental não provido.
+(AgRg no AREsp 451.468/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014).
+No julgamento do AgRg no AREsp 506.885/SE, DJe 02/06/2014, tive aoportunidade de me manifestar sobre o tema, conforme se observa da seguinte ementa:
+PREVIDENCIÁRIO. BENEFÍCIO NEGADO NA VIA ADMINISTRATIVA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. SÚMULA 85/STJ. INAPLICABILIDADE.
+1. A jurisprudência desta Corte é firme no sentido de que, mesmo na hipótese de negativa de concessão de benefício previdenciário e/ou assistencial pelo INSS, não há falar em prescrição do próprio fundo de direito, porquanto o direito fundamental a benefício previdenciário não pode ser fulminado sob tal perspectiva.
+2. Em outras palavras, o direito à obtenção de benefício previdenciário é imprescritível, apenas se sujeitando ao efeito aniquilador decorrente do decurso do lapso prescricional as parcelas não reclamadas em momento oportuno.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 506.885/SE, de minha relatoria, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 02/06/2014)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
