@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de WESLLEY DA SILVA LUCIO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0012386-10.2017.8.26.0635) assim ementado (fl. 263):
+RECEPTAÇÃO DOLOSA - Configuração. Autoria e materialidade demonstradas. Prova segura do conhecimento da origem ilícita do bem. Depoimentos dos policiais militares e da testemunha corroborados pelas demais provas dos autos. Réu revel Desclassificação para a modalidade culposa. Impossibilidade Condenação mantida.
+PENAS e REGIME PRISIONAL - Bases nos mínimos - Reincidência. Elevação no coeficiente de 1/6. Proporcionalidade - Regime inicial semiaberto - Incabível a substituição da pena privativa de liberdade por restritivas de direitos ou a concessão de sursis (CP, artigos 44, II; e 77, I) - Apelo provido em parte para reduzir as penas.
+O paciente foi condenado à pena de 1 ano e 2 meses de reclusão em regime semiaberto pela prática dodelitodescritonoart. 180, caput, do Código Penal.
+A defesa aponta constrangimento ilegal consistente na não substituição da pena privativa de liberdade por restritiva de direitos, argumentando que o benefício é permitido quando a medida seja socialmente recomendada e não haja reincidência pelo mesmo delito.
+Alega que as circunstâncias judiciais foram valoradas favoravelmente e que a medida é cabível ao caso, porquanto a pena é inferior a 4 anos, o crime foi praticado sem violência ou grave ameaça, o réu não é reincidente específico e nada há que indique não ser a substituição pretendida socialmente recomendável.
+Aduz ausência de fundamentação idônea para se negar ao paciente a substituição da pena privativa de liberdade por restritiva de direitos.
+Sustenta que o trânsito em julgado da condenação não consiste em óbice à análise do presente writdiante da manifesta ilegalidade apontada.
+Requer, liminarmente, a imediata soltura do paciente e, no mérito, a substituição da pena privativa de liberdade por restritiva de direitos.
+O pedido de liminar foi indeferido (fls. 311-312).
+As informações foram prestadas às fls. 317-331.
+O pedido de reconsideração (fls. 333-336) do indeferimento do pedido de liminar foi negadoàs fls. 342-343.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 348-352).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Tribunal a quo informou que a condenação do paciente é definitiva, pois houve o trânsito em julgado (fl. 318).
+Não há notícia de julgamento de méritonesta Cortepassível de revisão criminal em relação a essa condenação.
+Assim, o Superior Tribunal de Justiça não pode conhecer do writ, pois impetrado com a única finalidade de substituir revisão criminal que, no caso, compete ao Tribunal de origem.
+A propósito, confiram-se os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL.NÃO INAUGURADA A COMPETÊNCIA DO STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. Consoante dispõe o art. 105, I, "e", da Constituição Federal, a competência do STJ para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido.
+2. Agravo regimental improvido.(AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021.)
+AGRAVO REGIMENTAL. HABEAS CORPUS IMPETRADO CONTRA ACÓRDÃO TRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA A COMPETÊNCIA DO STJ. DOSIMETRIA. RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. INVIABILIDADE. AUSÊNCIA DE MANIFESTA ILEGALIDADE. HABEAS CORPUS INDEFERIDO LIMINARMENTE.
+1. O habeas corpus é sucedâneo de revisão criminal e, como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pela paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+2. No tocante ao reconhecimento do tráfico privilegiado, não visualizo manifesta ilegalidade, tendo o Tribunal afastado o benefício diante de todo o contexto fático-probatório que evidencia a dedicação e o envolvimento da paciente com a atividade criminosa, verificando-se a apreensão de grande quantidade e diversidade de drogas (aproximadamente 20 kg de maconha, cocaína e crack, além de eppendorfs e balança de precisão, instrumentos comumente empregados pelos traficantes para suas atividades rotineiras).
+3. Agravo regimental improvido.(AgRg no HC n. 615.343/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 4/3/2021.)
+Ademais, o Juízo a quoindeferiu o benefício, pois o paciente "possui condenação anterior por crime patrimonial, roubo, e agora é condenado por receptação" (fl. 186, destaquei).
+Em razão dessa reincidência, a Corte local manteve a negativa da substituição.
+Dessa forma, não se verifica flagrante ilegalidade a ensejar a concessão da ordem de habeas corpus de ofício, na medida em que é inviável a substituição de pena privativa de liberdade por restritiva de direitos em crimes cometidos com violência ou grave ameaça a pessoa.
+Nessa linha:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO. PENA INFERIOR A 4 ANOS. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA EM DELITO COMETIDO COM VIOLÊNCIA OU GRAVE AMEAÇA. FUNDAMENTAÇÃO IDÔNEA. AGRAVO IMPROVIDO.
+1. O art. 44, II, do Código Penal veda a substituição da pena privativa de liberdade por pena restritiva de direitos ao acusado reincidente em crime doloso, salvo se, em face de condenação anterior, a medida for socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime (§ 3º), ponto em que se ressente o recurso do requisito do prequestionamento.
+2. "Como bem destacou o Tribunal de origem, embora preenchido o requisito objetivo necessário à substituição da pena privativa de liberdade por restritivas de direitos, a reincidência configurada por crime cometido com grave ameaça a pessoa constitui fundamento idôneo para a negativa do benefício" (AgRg no HC 653.162/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/04/2021, DJe 27/04/2021).
+3. Agravo regimental desprovido.(AgRg no REsp n. 1.912.980/SP, relator Ministro Olindo Menezes,Desembargador convocado do TRF1, Sexta Turma, DJe de 18/6/2021.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TENTATIVA DE FURTO QUALIFICADO. NÃO SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REINCIDENTE ESPECÍFICO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+I - A parte que se considerar agravada por decisão de relator, à exceção do indeferimento de liminar em procedimento de habeas corpus e recurso ordinário em habeas corpus, poderá requerer, dentro de cinco dias, a apresentação do feito em mesa relativo à matéria penal em geral, para que a Corte Especial, a Seção ou a Turma sobre ela se pronuncie, confirmando-a ou reformando-a.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena, quando não for necessária uma análise aprofundada do conjunto probatório e houver flagrante ilegalidade.
+III - A substituição da pena privativa de liberdade descrita no o art. 44 do Código Penal deve ser interpretada de forma conjunta com o parágrafo 3º do mesmo dispositivo, ou seja, a substituição da pena deve ser socialmente recomendável e o réu não pode ser reincidente específico.
+IV - Na hipótese, o Tribunal de origem bem fundamentou a não substituição da pena privativa de liberdade por restritivas de direitos, uma vez que,"o réu é reincidente na prática de crimes contra o patrimônio (art. 44, inciso II e § 3º, do CP), sendo que sua condenação pretérita se refere ao cometimento de delito com emprego de grave ameaça ou violência".
+V - Considerando o quantum de pena estabelecido, a reincidência específica do paciente e a fundamentação concreta levada a efeito pelo eg. Tribunal de origem, inexiste constrangimento ilegal a ser sanado pela via do writ, nos termos do artigo 44, inciso II e § 3º, do Estatuto Repressivo. Qualquer incursão que escape a moldura fática ora apresentada, demandaria inegável revolvimento fático-probatório, não condizente com os estreitos lindes deste átrio processual, ação constitucional de rito célere e de cognição sumária.
+Agravo regimental desprovido.(AgRg no HC n. 644.709/SC, relator Ministro Felix Fischer, Quinta Turma, DJe de 9/4/2021.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
