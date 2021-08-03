@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo regimental interposto por Washington Genelhu da Silva contra a decisão que negou provimento ao recurso especial por ele interposto (fls. 694/697).
+RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. VIOLAÇÃO DOS ARTS. 14 DA LEI N. 10.826/2003; 1º E 386, III, AMBOS DO CPP. PLEITO DE ABSOLVIÇÃO. MUNIÇÕES ISOLADAMENTE CONSIDERADAS. COMPROVAÇÃO DA LESIVIDADE. MAIOR REPROVABILIDADE DA CONDUTA. MUNIÇÕES APREENDIDAS EM VIA PÚBLICA. CRIME DE MERA CONDUTA. TIPICIDADE CONFIGURADA. PRECEDENTES DO STJ E DO STF.
+Recurso especial desprovido.
+Sustenta o agravante que é PRIMÁRIO e de bons antecedentes, foi condenado por portar 3 munições (calibre 32) e 1 coldre de couro, não dispondo de arma de fogo para o pronto uso, assim como qualquer apetrecho que configuraria uma maior reprovabilidade de sua ação.  ..  A conduta perpetrada se mostra atípica, haja vista a absoluta falta de possibilidade de lesão ou de perigo de lesão ao bem jurídico tutelado, qual seja, a incolumidade pública (fl. 707).
+Assevera, no ponto, que, no caso concreto, embora a r. decisão tenha mencionado que o fato da apreensão das munições ter se dado em via pública representaria maior reprovabilidade da conduta a impedir a aplicação do princípio da insignificância (fl. 712).
+Ao final da peça recursal, o agravante requer seja reconsiderada a r. decisão monocrática, reformando-se o v. acórdão combatido de modo a se absolver o agravante da acusação de ter praticado o delito insculpido no art. 14da Lei 10.826/03, em face da atipicidade da conduta (fls. 713/714).
+Instada a manifestar-se (fl. 717), houve o decurso do prazo sem a manifestação da parte agravada.
+É o relatório.
+O recurso merece prosperar.
+Não se desconhece que a apreensão da munição em via públicademonstra uma maior reprovabilidade da conduta do agravante. Todavia, levando em consideração a sua primariedade, atestada à fl. 502, bem como a ínfima quantidade de munição apreendida - 3 (três) cartuchos calibre .32 e um coldre - verifica-se a excepcional possibilidade do reconhecimento da insignificância.
+Registre-se, ainda, que ao corréu Julieferson de Oliveira Freitasfoi realizada a mesma dosimetria da pena. Portanto, pelas razões expostas na presente decisão e com suporte no art. 580 do Código de Processo Penal, devem seus efeitos ser estendidos ao referido corréu.
+Ante o exposto, dou provimento ao agravo regimental parareconsiderar a decisão agravada para, com fundamento no art. 255, § 4º, III, do RISTJ, dar provimento ao recurso especial para absolver o agravantequanto à imputação do crime previsto no art. 14 da Lei n. 10.826/2003, com extensão de efeitos ao corréu Julieferson de Oliveira Freitas.
+Publique-se.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. LEGISLAÇÃO EXTRAVAGANTE. PORTE ILEGAL DE MUNIÇÃO DE USO PERMITIDO. VIOLAÇÃO DOS ARTS. 14 DA LEI N. 10.826/2003; 1º E 386, III, AMBOS DO CPP. PLEITO DE ABSOLVIÇÃO. PRIMARIEDADE E POUCA MUNIÇÃO APREENDIDA (3 CARTUCHOS CALIBRE .32). AUSÊNCIA DE ARTEFATO BÉLICO. VIA PÚBLICA. EXCEPCIONAL RECONHECIMENTO DA BAGATELA. ABSOLVIÇÃO QUE SE IMPÕE. MESMA DOSIMETRIA DA PENA-BASE CALCULADA AO CORRÉU JULIEFERSON DE OLIVEIRA FREITAS. EXTENSÃO DOS EFEITOS DA DECISÃO QUE SE IMPÕE. APLICAÇÃO DO ART. 580 DO CPP.
+Agravo regimental providopara reconsiderar a decisão agravadapara dar provimento ao recurso especial, com extensão de efeitos ao corréu Julieferson de Oliveira Freitas.
