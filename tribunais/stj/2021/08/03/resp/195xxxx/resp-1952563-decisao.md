@@ -1,0 +1,20 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que GODOFREDO GONÇALVES DE SOUZA e outro (GODOFREDO e outro), ambos representados pela inventariante, Mônica Gonçalves de Sousa, ajuizaram ação de cobrança cumulada com indenização por danos morais contra LUIZ HENRIQUE LOES AROEIRA e outra (LUIZ e outra), a qual foi julgada procedente.
+Acrescentam que, distribuída a execução, foi deferida a desconsideração da personalidade jurídica da empresa e penhorado imóvel do executado Luiz Henrique e sua esposa Letícia. Relatam que Letícia propôs Embargos de Terceiros, o qual, em 2ª instância, foi julgado procedente, por ter sido considerado bem de família.
+Contam que propuseram a penhora das vagas de garagem, mas perderam a demanda, encontrando-se pendente o julgamento de Recurso Especial. Informam que requereram o bloqueio dos dados do executado e de sua esposa através dos sistemas Bacenjud e Renajud, ressaltando que o pedido seria para que apenas 50% de eventuais valores bloqueados (de titularidade de Letícia) fossem transferidos para conta judicial, vez que o patrimônio do casal comunica-se, já que casados em comunhão parcial de bens, o que foi indeferido pelo douto magistrado de primeira instância.
+Defendem que ao negar a possibilidade de pesquisa de dados da agravada Letícia, o juízo de primeira instância está impedindo que os agravantes utilizem de todos os meios cabíveis para satisfazer sua pretensão. Sustentam que como os agravados são casados sob o regime de comunhão parcial de bens, comunicam-se todo o patrimônio adquirido na constância do casamento.
+Requerem a concessão da tutela antecipada recursal para que seja deferido o bloqueio de 50% dos bens de Letícia Vilela Aroeira através dos sistemas Bacenjud e Renajud e, ao final, o provimento do agravo de instrumento confirmando a tutela deferida.
+No curso da ação, o d. Juízo de primeira instância indeferiu o pedido o bloqueio de 50% dos bens de Letícia Vilela Aroeira através dos sistemas Bacenjud e Renajud.
+Contra essa decisão interlocutória, GODOFREDO GONÇALVES DE SOUZA e outro interpôs agravo de instrumento sustentando que (1) que como os agravados são casados sob o regime de comunhão parcial de bens, comunicam-se todo o patrimônio adquirido na constância do casamento; e (2) deve ser realizado o bloqueio de 50% dos bens de Letícia Vilela Aroeira através dos sistemas Bacenjud e Renajud.
+O Tribunal estadual deu provimento ao agravo de instrumento nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO -PROCESSO CIVIL -AÇÃO DE DESPEJO -CUMPRIMENTO DE SENTENÇA -CONSULTA BACENJUD EM NOME DO CÔNJUGE DO EXECUTADO -REGIME DE COMUNHÃO PARCIAL -POSSIBILIDADE -PROVEITO FAMILIAR. Se a dívida contraída ocorreu em proveito familiar, para o benefício comum do casal, a consulta BANCENJUD em nome do cônjuge do executado é medida que se impõe, cabendo a ela o ônus da prova de que o débito adquirido não beneficiou a família. (e-STJ, fls. 507/513).
+Os embargos de declaração opostos por GODOFREDO GONÇALVES DE SOUZA e outro foram acolhidos (e-STJ, fls. 600/603).
+Inconformada, LETICIA e outro, manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 1.664 do Código Civil e 506 do NCPC, ao sustentar que (1) não há qualquer mínima correlação entre a dívida em questão e os encargos familiares; e, (2) que não fez e não faz parte da execução. (e-STJ, fl. 647/649).
+Foram apresentadas as contrarrazões (e-STJ, fls. 637/641).
+O apelo nobre não foi admitido em virtude da aplicação do óbice contido na Súmula n. 7 do STJ (e-STJ, fls. 647/649).
+Nas razões do presente agravo em recurso especial, LETICIA e outro afirmaramque a análise dos autos não demandareexame de matéria fático-probatória, devendo ser afastado o óbice sumular aplicado na origem(e-STJ, fls. 658/672).
+Foi apresentada contraminuta (e-STJ, fls. 685/690).
+É o relatório.
+DECIDO.
+Para melhor examinar as controvérsias suscitadas, CONHEÇO do agravo para determinar a sua autuação como recurso especial (art. 253, II, d, do Regimento Interno do STJ).
+Publique-se. Intimem-se.
