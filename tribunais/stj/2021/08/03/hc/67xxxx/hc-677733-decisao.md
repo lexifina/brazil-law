@@ -1,0 +1,6 @@
+DECISÃO
+O paciente acoima de ilegal o acórdão proferido pelo Tribunal a quo.
+Ao analisar os autos, verifico que a defesa sustenta, em favor do paciente - condenado pelo crime de uso de documento falso -, que "estamos diante a um caso de crime impossível, tendo em vista que a tentativa de ludibriar a autoridade pública foi totalmente sem preparo  ..  uma vez que, a falsificação era grosseira se, qualquer capacidade de causar dano ou enganar alguém. Salienta, ainda, que "a autoridade pública, percebeu, de forma clara, a existência de disparidade em relação à assinatura original da vítima", consignando que "o DETRAN, que emite carteiras de motorista, possui em seu banco de dados as assinaturas dos motoristas aqui habilitados, sendo que a mera comparação das assinaturas levaria ao reconhecimento da falsidade daquelas apostas nos recursos administrativos".
+Portanto, o pedido de absolvição do paciente evidencia, por si só, a impossibilidade de conhecer-se a impetração, ante a incompatibilidade do pedido com a estreita via do habeas corpus, que não comporta o reexame de fatos e provas.
+À vista do exposto, indefiro liminarmente este habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
