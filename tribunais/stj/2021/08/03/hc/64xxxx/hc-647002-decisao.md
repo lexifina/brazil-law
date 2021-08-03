@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício deSanclairy da Silva Alves - preso pela prática, em tese, do crime de tráfico deentorpecentes, nos termos do art. 33 da Lei n. 11.343/2006 (12,9 g de cocaína - fl. 48)-, em que se aponta como autoridade coatora a Décima Segunda Câmara Criminal doTribunal de Justiça de São Paulo, que negou a ordem ali impetrada (Habeas Corpus n.2236551-63.2020.8.26.0000/SP), mantendo a prisão preventiva imposta pelo Juízo deDireito da 2ª Vara Criminal da comarca de Barretos/SP (Autos n. 1501472-60.2020.8.26.0066/SP).
+Esta, a ementa do acórdão impugnado (fl. 42):
+HABEAS CORPUS Tráfico de drogas Prisão preventiva Inteligênciados artigos 312 e 313 do Código de Processo Penal - Requisitos objetivos esubjetivos verificados Decisão fundamentada, nos termos do artigo 315 do Códigode Processo Penal Gravidade concreta - Paciente adoeceu antes da prisão e estácurado Adoção dos devidos cuidados no estabelecimento prisional - Liberdade
+provisória incabível Ordem DENEGADA.
+A presente impetração, em que se alega constrangimento ilegal, decorre dedecisão que, mediante fundamentação inidônea - pois apoiada somente na gravidadeabstrata dos delitos -, decretou a prisão preventiva dopaciente (fls. 3/24).
+Aduz a defesa que o paciente é primário e detentor de bons antecedentes.
+Postula, então, a revogação da prisão preventiva imposta ao paciente.
+Liminar deferida (fls. 52/54).
+Informações prestadas (fls. 59/87).
+Em parecer, o Ministério Público Federal opinou pela não concessão da ordem (fls. 104/107).
+É o relatório.
+Há constrangimento ilegal passível de ser reparado por meio da via eleita.
+Verifica-se, da análise da decisão que converteu a prisão emflagrante em preventiva, que o Magistrado singular se limitou aos seguintesfundamentos (fls. 31/32):
+ ..  Pelo flagrado, por intermédio da Defensoria Pública, foiapresentado pedido de liberdade provisória, apontando, em síntese, ausência dosrequisitos para a decretação da prisão preventiva (fls. 37/38).
+No entanto, no caso em concreto, deve ser acolhido o requerimento doMinistério Público (fls. 41/44), convertendo-se a prisão em flagrante em prisãopreventiva, na forma do artigo 310, inciso II, do Código de Processo Penal, umavez que há indícios suficientes de autoria e materialidade delitivas, consistentes noauto de prisão em flagrante delito (fls. 01/26), em que foram ouvidos policiaismilitares (fls. 03/04), laudo pericial de constatação provisória (fls. 20/22),verificando-se, mesmo em sede de cognição rasa, a presença dos requisitos paraa conversão da prisão em flagrante em preventiva, com a necessidade deestancamento da mercancia proscrita narrada nos autos.
+Em prol da ordem pública, deve-se verificar que o autuado foi visualizadoenquanto dispensava 53 eppendorfs contendo cocaína, bem como mantinha emsua posse no momento da abordagem outros 6 microtubos contendo a mesmasubstância, que no total pesaram 75 gramas, além de R$170,00 (cento e setentareais). O autuado, apesar de primário, foi surpreendido com elevada quantidade deentorpecentes e em local conhecido pelo intenso tráfico de drogas, o queevidencia, em sede de cognição sumária, risco concreto à ordem pública Não severifica a utilidade de nenhuma outra medida alternativa à prisão. Ademais,necessário o premente enfrentamento da traficância de drogas, crime esteapenado com pena privativa de liberdade máxima superior a 4 (quatro) anos,notadamente em época que se espera que as pessoas estejam recolhidas em suasresidências, não realizando a disseminação de drogas em Barretos.
+Ressalta-se, ainda, que as condições pessoais do indivíduo nãoensejam, por si só, qualquer obstáculo à decretação ou manutenção dacustódia provisória, quando presentes os requisitos ensejadores da prisão, comono caso em tela.
+Por fim, não há o que se falar em aplicação da Recomendação 62/2020,editada pelo Conselho Nacional de Justiça, haja vista que o autuado possui 27(vinte e sete) anos de idade e não há nos autos qualquer indicativo de que éacometido por enfermidade que o inclua no grupo de risco dos afetados peloCovid-19.
+Diante do exposto, de rigor o acolhimento do requerimento do MinistérioPúblico, de modo que CONVERTO a prisão em flagrante de SANCLAIRY DASILVA ALVES em prisão preventiva, com fundamento nos artigos 312 e 313, incisoI, do Código de Processo Penal.
+ ..
+Logo, observa-se, da leitura sumária dos autos, que, em princípio, a instânciade origem não apontou qualquer elemento contundente a respeito da necessidade dasegregação cautelar.
+Ademais, à primeira vista, denota-se que o paciente é primário e possui bonsantecedentes, e, além disso, a quantidade de entorpecente supostamente traficada é diminuta (12,9 g de cocaína - fl. 48), logo, apesar de minimamente fundamentada aprisão, não está demonstrada a periculosidade do agente, a ponto de justificar oencarceramento preventivo. A prisão, in casu, revela-se medida desproporcional (HC n.475.587/RS, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2019).
+Com efeito, existem medidas alternativas à prisão que melhor se adequam àsituação do paciente, uma vez que o crime imputado não foi cometido com violência ougrave ameaça à pessoa.
+Assim, a aplicação das medidas consistentes em: a) comparecimentoperiódico em juízo para informar e justificar suas atividades (art. 319, I, do CPP); b)proibição de ausentar-se da comarca e do País, sem autorização judicial (art. 319, IV,do CPP); e c) recolhimento domiciliar no período noturno e nos dias de folga (art. 319,V, do CPP) mostra-se suficiente para garantir a ordem pública, a conveniência dainstrução criminal e a aplicação da lei penal.
+Feitas essas considerações, verifico ilegalidade flagrante apta à concessão da ordem nos termos da jurisprudência deste Superior Tribunal.
+Pelo exposto, com base na jurisprudência firmada, expeço a ordem para substituir a prisão preventiva imposta ao paciente, nos Autos n. 1501472-60.2020.8.26.0066/SP, pelas medidas alternativas à prisão previstas no art. 319, I, IV e V, do Código de Processo Penal, a serem implementadas pelo Juízo de Direito da Vara Criminal da comarca competente.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. DIREITO PENAL. LEGISLAÇÃO EXTRAVAGANTE. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. AUSÊNCIA DE FUNDAMENTAÇÃO.CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
