@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de conflito negativo de competênciainstaurado entre o suscitante, Juízo de Direito da 5ª Vara Cível de Marília/SP,e o suscitado, Juízo Federal da 2ª Vara de Marília - SJ/SP, nos autos do cumprimento individual de sentença ajuizado por Ivana Hernandes Esteves Oliveira e outrosem desfavor do Banco do Brasil S.A.
+O feito foi apresentado, inicialmente, perante o Juízo Federal da 2ª Vara de Marília- SJ/SP, tendo este declinado da competênciasob estes fundamentos (e-STJ, fl. 257):
+Observo que, no presente feito as partes não constam do rol de pessoas e situações que a Constituição Federal definiu para processamento perante a Justiça Federal, nos termos do artigo 109 da Constituição Federal.
+Por tais razões, em se tratando de execução movida por particular perante o Banco do Brasil S.A., pessoas não elencadas no artigo 109 da Constituição Federal, reconheço a incompetência da Justiça Federal para o seu processamento, determinando a remessa dos autos à Justiça Estadual desta Comarca.
+Remetidos os autos ao Juízo de Direito da 5ª Vara Cível de Marília/SP, este, por compreender incumbir ao Juízo que decidiu a causa dar cumprimento à sentença ali proferida, suscitou o presente conflito de competência em decisão assim fundamentada (e-STJ, fl. 3):
+Com efeito, da análise dos documentos juntados, observa-se que a pretensão dos autores é a liquidação e posterior cumprimento de sentença proferida pela Justiça Federal, fazendo incidir, portanto, a regra do artigo 516, inciso II, do Código de Processo Civil vigente.
+Destarte, o Ministério Público Federal propôs a Ação Civil Pública sob nº 94.00.08514-1 em face do Banco do Brasil S/A e dos litisconsortes necessários União Federal e Banco Central do Brasil, cuja ação tramitou pelo Juízo da 3ª Vara Federal do Distrito Federal.
+Em primeira instância a ação foi julgada procedente e o recurso de apelação foi encaminhado ao Tribunal Federal da 1ª Região.
+Portanto, a presente liquidação/cumprimento de sentença deve processar-se perante o Juízo que decidiu a causa no primeiro grau de jurisdição, ainda que não se tenha mais a presença de pessoas e situações previstas no artigo 109 da Constituição Federal.
+Instado a se manifestar, o Ministério Público Federal opinou no sentido de que seja declarada competente a Justiça estadual (e-STJ, fls. 270-272).
+Brevemente relatado, decido.
+Discute-se, em síntese, a competência para processar liquidação individual de sentença coletiva ajuizada em desfavor do Banco do Brasil, com base na decisão proferida em ação civil pública (ACP n. 00094.008514-1) intentada pelo Ministério Público Federal contra o Banco do Brasil, o Banco Central e a União.
+Inicialmente, a Corte Especial do STJ fixou, sob o rito do art. 543-C do CPC/1973, que "a liquidação e a execução individual de sentença genérica proferida em ação civil coletiva pode ser ajuizada no foro do domicílio do beneficiário" (REsp n. 1.243.887/PR, Relator o Ministro Luis Felipe Salomão, Corte Especial, DJe de 12/12/2011).
+No caso em análise, além de se tratar de execução individual de sentença coletiva, a qual pode ser intentada no domicílio do exequente, verifica-se que o procedimento foi apresentado apenas em desfavor do Banco do Brasil S.A., não havendo no polo passivo nenhum ente público que possa justificar a aplicação do art. 109, I, da Constituição Federal, sendo a competência, portanto, do Juízo suscitante.
+Em situações absolutamente semelhantes à presente, esta Corte já declarou a competência da Justiça Estadual. Confiram-se: CC nº 159.253/MS, Rel. Ministro Luis Felipe Salomão, DJe 10/9/2018; CC nº 159.097/MS, Rel. Ministra Maria Isabel Gallotti, DJe 6/9/2018; CC nº 157.891/MS, Rel. Ministro Luis Felipe Salomão, DJe 2/8/2018, e CC nº 157.889/MS, Rel. Ministro Moura Ribeiro, DJe 15/6/2018.
+Diante do exposto, conheço do conflito para declarar competente o Juízo de Direito da 5ª Vara Cível de Marília/SP.
+Dê-se ciência ao Juízo suscitado.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. LIQUIDAÇÃO INDIVIDUAL DE SENTENÇA COLETIVA AJUIZADA EM DESFAVOR DO BANCO DO BRASIL. PREVENÇÃO DO JUÍZO PROLATOR DA SENTENÇA. INEXISTÊNCIA. AUSÊNCIA DE ENTES FEDERAIS ENVOLVIDOS NA DEMANDA. INTERPRETAÇÃO DO ART. 109, I, DA CF. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
