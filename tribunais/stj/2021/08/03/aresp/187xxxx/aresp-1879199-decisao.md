@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por MINISTÉRIO PÚBLICO DO ESTADO DO MARANHÃO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, assim ementado (e-STJ, fls. 11.130-11.169):
+"PENAL. PROCESSO PENAL. HABEAS CORPUS. POSSIBILIDADE EXCEPCIONAL DE TRANCAMENTO DA AÇÃOPENAL. PECULATO E CORRUPÇÃO PASSIVA QUALIFICADA. NULIDADE DAS INTERCEPTAÇÕES
+TELEFÔNICAS EM JULGAMENTO PROFERIDO PELO SUPREMO TRIBUNAL FEDERAL. AUSÊNCIA DE INDÍCIOSDE AUTORIA. CONDUTAS NÀO PRATICADAS PELO PACIENTE. JUSTA CAUSA INEXISTENTE. ORDEMCONCEDIDA.
+1. Otrancamento de ação penal através de Habeas Corpus é medida excepcional, merecendo ser utilizado quandohouver evidente comprovação da atipicidade da conduta, a incidência de causa de extinção da punibilidade,ou aausência de indícios de autoria ou prova sobre a materialidade do delito.
+2. No tocante às interceptações telefônicas, tal prova foi considerada nula pelo Supremo Tribunal Federal (Inq 3732,Relator(a): Min. CÁRMEN LÚCIA. Segunda Turma, julgado em 06/03/2016, ACÓRDÀO ELETRÔNICO DJe-053 DIVULG21-03-2016 PUBLIC 22-03-2016), o que acarreta a sua inadmissibilidade, nos termos do art. 157, caput, do Código deProcesso Penal, bem como de todas as outras dela derivadas.
+3. Não há nos autos, tampouco na própria denúncia, qualquer indício de que o paciente tenha praticado os atosimputados na peça acusatória (arts. 312 e 317, § i5, ambos do Código Penal).
+4. Embora investigado por anos, cumpre reconhecer que razão assiste à defesa do paciente quando reclama danulidade da decisão que recebeu a denúncia, por falta de apreciação das alegações defensivas.
+5. Não tendo o paciente praticado qualquer ação ou omissão relacionada aos fatos narrados na denúncia, inexiste nosautos delitos a serem imputados ao mesmo.
+6. O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa (art. 13 do CP).
+7. Em se tratando de ação penal, a falta de justa causa pode ser evidenciada, quando pela simples exposição dos fatosestá patente que a ação praticada é atípica, ou quando não há elemento indiciário que fundamente a acusação.
+8. Inexistem indícios mínimos de participação do paciente no esquema criminoso apontado pela acusação, bem como omesmo sequer foi denunciado por formação de quadrilha (art. 288 do Código Penal).
+9. No caso ora em exame, é totalmente desarrazoada a continuidade e o desenrolar de um processo penal, que tramitahá mais de uma década, sem a presença de qualquer elemento que aponte para a prática de qualquer crime pelopaciente. Resta caracterizado um constrangimento ilegal por qual se faz despiciendo que o paciente continue a passar.
+10 Convém ressaltar, ainda, que é indispensável que haja certa viabilidade na acusação, principalmente pelos gravesreflexos que advêm da instauração de um processo criminal, evitando-se. assim, a instauração de processo penal,desgastante e inócuo contra o acusado.
+11. Tais fatos dificultam o exercício do sacrossanto direito constitucional à ampla defesa e ao contraditório, devendo,pois ser trancada a ação penal com relação ao paciente, frente a ausência de justa causa para a persecutio criminis.
+12. Ordem concedida para trancamento da Ação Penal n.5 30359-91.2011.8.10.0001 (29860/2011), deflagrada contra oacusado. Maioria".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 41 e 395, III, do CPP. Aduz para tanto, em síntese, que "logrou delimitar na peça acusatória, de forma precisa, certa e determinada, fatos que constituem crimes, presentes, pois, neste momento, indícios suficientes de autoria e certeza de materialidade" (e-STJ, fl. 11.190).
+Com contrarrazões (e-STJ, fls. 11.201-11.224), o apelo nobre foi inadmitido na origem (e-STJ, fls. 11.227-11.230), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo provimento do recurso (e-STJ, fls. 11.290-11.300).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não ultrapassa a barreira do conhecimento.Sobre o tema em discussão, a Corte de origem constatou a ausência de justa causa, pela falta de indícios mínimos para a deflagração da ação penal (e-STJ, fls. 11.147-11.148).Assim, a inversão do julgado, no ponto, demandaria o reexame do conjunto fático-probatório dos autos, pois seria necessário revisar todas os elementos anexados peloParquetà exordial para verificar se há, realmente, indícios suficientes para o início da persecução penal. Tal providência é, como se sabe, inviável nesta instância especial, nos termos da Súmula 7/STJ. A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 2º, § 1º, DA LEI N. 8.176/91. TRANSPORTE SEM AUTORIZAÇÃO LEGAL DE MATÉRIA-PRIMA PERTENCENTE A UNIÃO. DENÚNCIA REJEITADA. AUSÊNCIA DE JUSTA CAUSA. EXISTÊNCIA DE INDÍCIOS DO ELEMENTO SUBJETIVO DO TIPO PENAL. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. In casu, o afastamento da rejeição da denúncia por ausência de justa causa (indícios mínimos de autoria) demandaria o reexame fático-probatório, providência vedada pelo enunciado n. 7 da Súmula do Superior Tribunal de Justiça - STJ, pois o Tribunal de origem apresentou fundamentação concreta para asseverar que inexistem indícios do elemento subjetivo do tipo penal.
+2. Agravo regimental desprovido".
+(AgRg no AREsp 568.031/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 21/11/2017, DJe 01/12/2017)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "a", do Regimento Interno do STJ,conheçodo agravo paranão conhecerdo recurso especial.
+Publique-se. Intimem-se.
