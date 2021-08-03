@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de DAVID LUAN FILOMENA, no qual se indica como ato coator o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n.21076862220208260000.
+Colhe-se nos autos que o Paciente foi preso em flagrante em 25/01/2020. A prisão foi convertida em preventiva.
+Requer-se, liminarmente e no mérito, a expedição de alvará de soltura no Processo-crime n.1500074-62.2020.8.26.0621, instaurado para apurar asuposta prática do crimeprevisto no art. 33 da lei n. 11.343/2006.
+Ocorre que, em consulta aositedo Tribunal de origem nainternet, constatei que em 29/10/2020 foi proferida sentença na causa principal, na qual o Juiz de primeiro grau consignou o que se segue:
+"Isto posto, julgo PROCEDENTE a ação penal, assim o fazendo para condenar DAVID LUAN FILOMENA, por violação ao tipo penal previsto no art. 33, §4º, da lei de drogas, aplicando-lhe uma pena de 01 ano e 08 meses de reclusão, e 166 dias-multa, diária em 1/10 do salário mínimo nacional, em regime inicial aberto.
+Embora o crime tenha sido praticado sem violência ou grave ameaça, a substituição da pena privativa de liberdade por restritivas de direitos não é cabível na espécie, uma vez que seria insuficiente à prevenção e repressão do ilícito penal.A respeito vale lembrar o entendimento do C. STJ: "Não parece razoável que o condenado por tráfico de entorpecentes, seja ele de pequeno, médio ou grande porte, seja beneficiado com essa substituição, porque, em todas as suas modalidades, trata-se de delito de extrema gravidade e causador de inúmeros males para a sociedade, desde a desestruturação familiar até o incentivo a diversos outros tipos de crimes gravíssimos, que, não raro, têm origem próxima ou remota no comércio ilegal de drogas, sem falar do problema de saúde pública em que já se transformou." (HC nº 203.403/SP, C. 5ª Turma, Rel. Min. Napoleão Nunes Maia Filho, j. 21/06/2011).
+Por conta da natureza do regime aplicado, faculto o apelo em liberdade.
+Expeça-se alvará de soltura clausulado."
+Como se vê, na oportunidade, foi reconhecido o direito do Sentenciado de apelar em liberdade e determinada a expedição de alvará de soltura.Em razão da desconstituição da prisão processual ora questionada quando da prolação do édito condenatório superveniente, não há mais interesse na tramitação desta via de impugnação, pois a pretensão defensiva formulada nos presentes autos foi satisfeita.
+Ante o exposto, JULGO PREJUDICADO o pedidodehabeas corpus, com fundamento noart. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PROCESSUAL. POSTERIOR REVOGAÇÃO DA MEDIDA, NA SENTENÇA CONDENATÓRIA. RECONHECIMENTO DO DIREITO DO PACIENTE DE APELAR EM LIBERDADE. SATISFAÇÃO DA PRETENSÃO DEFENSIVA. AUSÊNCIA SUPERVENIENTE DE INTERESSE DE AGIR. PEDIDO DE HABEAS CORPUSPREJUDICADO.
