@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de RICHARD ROMANO NICOLICHI, contra acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado (fl. 129):
+HABEAS CORPUS. ARTIGO 157, 2º-A, I, DO CÓDIGO PENAL DESCLASSIFICAÇÃO PARA A CONDUTA PREVISTA NO ARTIGO 155, DO CÓDIGO PENAL CONHECIMENTO IMPOSSIBILIDADE VIA INADEQUADA.
+REVOGAÇÃO DA PRISÃO PREVENTIVA E/OU CONCESSÃO DE LIBERDADE PROVISÓRIA - IMPOSSIBILIDADE - PRESENÇA DOS REQUISITOS AUTORIZADORES DA MANUTENÇÃO DA CUSTÓDIA CAUTELAR.
+ORDEM PARCIALMENTE CONHECIDA E, NA PARTE RESTANTE, DENEGADA.
+A defesa alega não preenchimento dos requisitos autorizadores da segregação cautelar efalta de fundamentação idônea para o decreto preventivo.
+Defende que, no caso, a imposição de medidas cautelares alternativas é suficiente. Afirmaque o paciente possui condições pessoais favoráveis.
+Requer arevogação daprisão preventiva, expedindo-se alvará de soltura.
+O pedido de liminar foi indeferido às fls. 135-136.
+O Ministério Público Federal manifestou-se "pelo não conhecimento da impetração" (fls. 172-175).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 131-132):
+ .. Vencida esta questão, examinando-se os autos, verifica-se que a decisão que converteu a prisão em flagrante em preventiva se encontra adequadamente fundamentada, nos seguintes termos (fls. 74/77):
+" ..  porque presentes os requisitos que autorizam a decretação da prisão preventiva (arts. 312 e 313 do CPP), não há de ser concedida liberdade provisória à parte autuada (art. 310, III, do CPP).
+Explico.
+A manutenção da prisão processual da parte autuada se faz necessária, porquanto os pressupostos e os fundamentos que a ensejaram (fumus comissi delicti et periculum libertatis), bem como os requisitos de admissibilidade, por ora se sustentam, nos termos do art. 302 c. c. o art. 313, I, do CPP, justificando-se a manutenção como garantia da ordem pública, em homenagem aos bens jurídicos tutelados (o patrimônio, a integridade física e a liberdade do indivíduo), haja vista a gravidade do fato indicado (roubo circunstanciado), que traz intranquilidadesocial e particular e a repercussão social e comunitária, mormente para uma cidade interiorana de proporções medianas, com é a Estância Turística de Olímpia.
+Além disso, as medidas cautelares diversas da prisão (art. 319, do CPP), especialmente aquelas estabelecidas pelos incisos II e III, considerando a conclusão do Delegado de Polícia (APF) e as Informações sobre a vida pregressa, se revelam insuficientes  .. ."
+O paciente está sendo acusado da prática de roubo praticado mediante emprego de grave ameaça exercida com emprego de arma de fogo, além de registrar duas condenações pela prática do mesmo crime, circunstâncias que evidenciam sua periculosidade e justificam sua custódia cautelar.
+Destarte, presentes os pressupostos da prisão preventiva, previstos no artigo 312, do Código de Processo Penal, não há que se falar em aplicação das medidas cautelares previstas no artigo 319, do Código de Processo Penal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Além disso, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Dessa forma, não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
