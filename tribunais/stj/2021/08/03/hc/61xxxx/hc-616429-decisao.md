@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de DENER ANDRÉ DA SILVA MOTTA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo(Apelaçãon. 1502264-81.2018.8.26.0228).
+Opacientefoi condenado às penas de 8anos, 11 meses e 10 dias de reclusão noregime inicial fechado e de 29dias-multa, pelaprática dos delitos descritos nos arts. 157, §§ 2º, II e V,2º-A, I, e 180, na forma do art. 69, todos do Código Penal.
+A Defensoria Públicaalega a existência de constrangimento ilegal por ser cabível o reconhecimento da atenuante da confissão espontânea, ainda que parcial, nos termos do art. 65, III, d, do CP.Sustenta ainda serpossível a compensação com a reincidência específica, já constatada.
+Requerseja reconhecida a atenuante da confissão espontânea e feita a compensação.
+O Ministério Público Federal opinou pelo não conhecimento do writ(fls. 112-117).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimentode que não cabe habeas corpusem substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se identificadaflagrante ilegalidade no ato judicial impugnado.
+No presente caso, a sentença, quanto à confissão, dispôs o seguinte (fls. 33-36):
+Com efeito, por ocasião da lavratura do auto de prisão em flagrante, os acusados não apresentaram qualquer versão aos fatos e permaneceram em silêncio. No contraditório, entretanto, negaram o cometimento do crime de receptação.
+E embora tenham admitido a responsabilidade pelo roubo, apresentaram versões inconsistentes, pouco críveis e que não corresponderam a verdade real dos fatos.
+ ..
+Essas parciais "confissões" não retrataram a verdade real dos fatos, não convenceram e foram afastadas pela prova produzida com contraditório, que os comprometeu sobremaneira.
+Ao contrário, o que se verifica é que a dinâmica do roubo se deu de forma bem diversa da que foi relatada pelos acusados, que tentaram convencer que desistiram da execução do crime, já que não conseguiram acionar a partida do carro roubado, e acabaram libertando a vítima, o que fizeram de forma espontânea.
+Por sua vez, o Tribunal de origem concluiu (fl. 84):
+Por outro lado, incogitável a atenuante prevista no artigo 65, III, "d", do Código Penal diante de réus que negaram parte da acusação, sem colaborar com a apuração da verdade real.
+Sem dúvida, "A pena é atenuada quando o agente confessa espontaneamente, perante a autoridade, a autoria do crime. Beneficia-se o autor do ilícito como estímulo à verdade processual, não se exigindo, como na lei anterior, que o ilícito seja de autoria ignorada ou imputada a outrem. Não basta, porém, a simples confissão para que se configure a atenuante: exige a lei que seja ela espontânea, de iniciativa do autor do crime, que seja completa e movida por um motivo moral, altruístico, demonstrando arrependimento" (JÚLIO FABBRINI MIRABETE, "Código Penal Interpretado", 7ª ed., Atlas, 2011, nº. 65. 7, pág. 353).
+Nos termos da Súmula n. 545 do STJ, "quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal". Referida súmula incide mesmo nas hipóteses de confissão qualificada ou parcial. Vejam-se estes julgados:AgRg no HC n. 558.930/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2020; eHC n. 528.390/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 25/3/2020.
+Relativamente à confissão parcial no crime de roubo, o STJ entende que,"embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo -crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial" (HC n. 396.503/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 6/11/2017).
+No mesmo sentido, confiram-se estes precedentes:
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CONFISSÃO QUALIFICADA UTILIZADA COMO ELEMENTO DE CONVICÇÃO PARA A CONDENAÇÃO. INCIDÊNCIA DA ATENUANTE PREVISTA NO ART. 65, III, "D", DO CÓDIGO. PENAL. POSSIBILIDADE.
+1. Consoante o enunciado sumular 545 desta Corte, quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, "d", do Código Penal.
+2. Na hipótese, a confissão do agravado serviu como fundamento para a sua condenação, pois, apesar de ter confessado o crime de furto, negando a prática da grave ameaça, a subtração também constitui uma das elementares do delito de roubo, o que contribuiu para a formação da convicção do julgador.
+3. Agravo regimental a que se nega provimento.(AgRg no AgRg no HC n. 512.003/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 27/2/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO DUPLAMENTE MAJORADO.RECONHECIMENTO DA CONFISSÃO ESPONTÂNEA. CONFISSÃO PARCIAL.POSSIBILIDADE. ENUNCIADO N. 545 DA SÚMULA DESTA CORTE. AGRAVO A QUE SE NEGA PROVIMENTO.
+- A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que, quando utilizada pelo juiz para fundamentar a condenação, incide a atenuante prevista no artigo 65, inciso III, alínea "d", do Código Penal, ainda que a confissão tenha sido parcial, entendimento que resultou na edição do enunciado n. 545 da Súmula desta Corte.
+- No caso, o paciente assumiu a prática do delito de roubo, apenas negou o uso de arma, o que atrai a incidência do referido enunciado.
+Ademais, nos termos da jurisprudência desta Corte, embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial (HC 396.503/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017).
+- Agravo regimental a que se nega provimento.(AgRg no HC n. 545.931/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe de 19/12/2019.)
+PROCESSUAL PENAL. AGRAVO REGIMENTAL. DOSIMETRIA. SEGUNDA FASE.CONFISSÃO ESPONTÂNEA DE FURTO EM DETRIMENTO DO ROUBO. CONFISSÃO PARCIAL. UTILIZAÇÃO PARA EMBASAR A SENTENÇA. INCIDÊNCIA DA ATENUANTE. COMPENSAÇÃO. AGRAVANTE DA REINCIDÊNCIA ESPECÍFICA.POSSIBILIDADE. PRETENSÃO DE SIMPLES REFORMA. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, se a confissão do réu, ainda que parcial, retratada ou qualificada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante. Súmula n. 545 desta Corte.
+2. "Embora a simples subtração configure crime diverso - furto -, também constitui uma das elementares do delito de roubo - crime complexo, consubstanciado na prática de furto, associado à prática de constrangimento, ameaça ou violência, daí a configuração de hipótese de confissão parcial." (HC 396.503/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/10/2017, DJe 06/11/2017)
+3. Mantidos os fundamentos da decisão agravada, porquanto não infirmados por razões eficientes, é de ser negada simples pretensão de reforma. (Enunciado n.º 182 desta Corte).
+4. Agravo regimental a que se nega provimento.(AgRg no HC 452.897/SP, relatoraMinistra Maria Thereza de Assis Moura, Sexta Turma, DJede 14/8/2018.)
+Ressalte-se que, não obstante o paciente tenhaconfessado a autoria da subtração e negado oemprego de violência contra a vítima, cabe o reconhecimento da incidência da atenuante da confissão espontânea (art. 65, III, d, do CP).
+Ademais, no julgamento do Recurso Especial repetitivo n. 1.341.370/MT, a Terceira Seção firmou o entendimento de que "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+Passo, assim, àanálise da dosimetria da pena.
+Na primeira fase, mantenhoa pena mínima para os delitos. Roubo: 4 anos de reclusão e 10 dias-multa. Receptação: 1 ano de reclusão e 10 dias-multa.
+Na segunda fase, reconhecida a confissão espontânea quanto ao delito de roubo, efetuoa compensação com a agravante da reincidência.
+Na terceira fase, procedo ao aumento na fração de 2/3, diante do reconhecimento de três qualificadoras no crime de roubo efixo a pena definitiva em 6 anos e 8 meses de reclusão e em 17 dias-multa.
+Reconhecido o concurso material de crimes, as penas totalizam 7 anose 8 meses de reclusão e 27 dias-multa.
+Mantenhoo regime inicial fechado.
+Ante o exposto, não conheço do habeas corpus, mas, de ofício,concedo a ordem apenas para reconhecer a incidência da atenuante da confissão espontânea,compensando-a com a agravante da reincidência ealterando a pena nos termos da fundamentação acima.
+Publique-se. Intimem-se.
