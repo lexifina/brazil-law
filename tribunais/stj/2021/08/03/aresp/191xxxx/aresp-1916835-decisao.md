@@ -1,0 +1,72 @@
+DECISÃO
+SALVATORE DE SALVO e NEYDE BUSCATO DE SALVO (SALVATORE e outra) ajuizaram ação de cobrança de pagamento de seguro cumulada com pedido de indenização por danos morais com tutela antecipada contra BANCO DO BRASIL S/A (BANCO) e COMPANHIA DE SEGUROS ALIANÇA DO BRASIL (SEGURADORA), alegando, serem pais de Mara Teresa de Salvo, falecida em outubro de 2015, e beneficiários do seguro da BB Seguros contratado por sua filha em novembro de 2010. Informam a recusa por parte da SEGURADORA ao pagamento da indenização, sob o fundamento de que a segurada deixou de declarar que era portadora de doença relacionada ao óbito. Narra que a segurada não tinha qualquer conhecimento quanto a possíveis doenças na época da contratação e que câncer, diabetes mellitus e miocardia hipertrófica foram detectadas somente após contratação.
+Em primeira instância, o pedido foi julgado parcialmente procedentes para condenar parte requerida ao pagamento dos prêmios dos seguros de vida contratados, no total de R$716.400,00, corrigido desde a data do falecimento, conforme a Tabela Prática do Tribunal de Justiça, e acrescido de juros moratórios de 1% ao mês a partir da citação. Em razão da sucumbência a maior, arcará a parte ré com o pagamento das custas e despesas processuais, bem como honorários advocatícios fixados em 10% (dez por cento) do valor atualizado da condenação (e-STJ, fls. 613/619).
+As apelações interpostas por BANCO e SEGURADORA não foram providas, pelo Tribunal de Justiça de São Paulo, nos termos do acórdão de relatoria do Des. ROSANGELA TELLES, assim ementado:
+APELAÇÃO. COBERTURA SECURITÁRIA. ILEGITIMIDADEDE PARTE. A seguradora e a instituição financeira pertencem ao mesmo grupo econômico e aquela utiliza as instalações e estrutura desta, inserindo-se na mesma cadeia de fornecimento de serviços, nos termos do art. 7º do CDC.
+CERCEAMENTO DE DEFESA. O juiz é o destinatário da prova. Perícia indireta que era desnecessária porque, à época em que firmada a declaração de saúde, 2010, a segurada não estava doente. As moléstias que culminaram na morte da segurada em 2015, foram descobertas em data posterior.
+RECUSA DE PAGAMENTO DE INDENIZAÇÃO. Descabimento. Morte da segurada. Recusa cobertura, sob alegação de doença preexistente. Contrato firmado em 2010 e renovado a cada ano, automaticamente. Quando do primeiro contrato, não foram exigidos exames prévios tampouco nos anos que se seguiram. Boa fé que é presumida.
+DISCORDÂNCIA DO VALOR INDENIZATÓRIO. Cálculo do valor indenizatório que tomou por base a cobertura ajustada para o primeiro contrato. Seguradora e instituição financeira que não trouxeram as apólices para os autos juntamente com a contestação. Afronta às disposições do artigo 434 CPC. Aplicável, ainda, o que consta do §1º, do art. 373, CPC - inversão judicial do ônus da prova, quando houver permissivo legal. Os apelados não poderiam trazer aos autos documentos bancários, ainda que fossem da própria filha, os quais estão protegidos pelo sigilo bancário. HONORÁRIOS RECURSAIS. Fixação.
+RECURSO IMPROVIDO (e-STJ, fl. 863).
+Os embargos de declaração opostos BANCO e SEGURADORA foram rejeitados (e-STJ, fls. 886/889; 905/909 e 985/986).
+Irresignada, SEGURADORA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando, a par de dissídio jurisprudencial,violação dos arts. 757, 766 e 884 do CC/02; e 435 do NCPC, ao sustentar que haviam doenças preexistentes omitidas por ocasião das contratações efetuadas em setembro de 2014, implicando na má-fé da segurada e a perda do direto à indenização.
+Foram apresentadas as contrarrazões (e-STJ, fls. 1.053/1.063).
+O apelo nobre não foi admitido em virtude (1) de não ter sido demonstrada a alegada vulneração aos dispositivos arrolados, pois as exigências legais na solução das questões de fato e de direito da lide foram atendidas pelo acórdão ao declinar as premissas nas quais assentada a decisão; (2) aplicação do óbice contido na Súmula n. 7 do STJ; e, (3) ausência de cotejo analítico (e-STJ, fls. 1.068/1.070).
+Nas razões do presente agravo em recurso especial, SEGURADORA afirmou (1) que houve demonstração das alegadas violações dos dispositivos arrolados;(2) pela inaplicabilidade do óbice contido na Súmula n. 7 do STJ; e, (3) que há cotejo analítico entre o acórdão recorrido e o acórdão paradigma (e-STJ, fls. 1.099/1.117).
+Foi apresentada contraminuta (e-STJ, fls. 1.137/1.151 ).
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Oacórdão recorrido debateu sobre a ausência de má-fé da segurada ao firmar o contrato de seguro, nos seguintes termos:
+Conforme já constou, o contrato de seguro fora celebrado entre as partes em 26.11.2010, com prazo de vigência de um ano. A indenização securitária para a hipótese de morte acidental ou natural era de R$ 59.700,00 (fls.318).
+Nessa oportunidade, a segurada firmou declaração de saúde e informou que não era portadora de nenhuma moléstia.
+Registre-se que a segurada, filha dos apelantes, aderiu de forma compulsória, na ocasião da contratação do negócio principal.
+O contrato celebrado entre as partes está sujeito ao Código de Defesa do Consumidor. Os apelantes se enquadram na condição de fornecedores de serviços (art. 3º). Segundo Rizzato Nunes:
+"não há exclusão alguma do tipo de pessoa jurídica, já que o CDC é genérico e busca atingir todo e qualquer modelo. São fornecedores as pessoas jurídicas públicas ou privadas, nacionais ou estrangeiras, com sede ou não no País, as sociedades anônimas, as por quotas de responsabilidade limitada, as sociedades civis, com ou sem fins lucrativos, as fundações, as sociedades de economia mista, as empresas públicas, as autarquias, os órgãos da Administração direta etc". 1
+Sendo assim, incidem as regras do Código de Defesa do Consumidor.
+MARIA TERESA, filha dos apelados, faleceu em 23.10.2015 (fls.28).
+A causa mortis foi miocardiopatia hipertrófica, diabetes mellitus e adenocarcinoma de intestino.
+Os apelados admitiram na petição inicial que os problemas de saúde tiveram início em 2012. Em 2015, houve seguidas internações e, finalmente, o óbito.
+Não há exames nos autos exigidos previamente pelos apelantes.
+Sequer nos anos que se seguiram, com as renovações automáticas, os apelantes exigiram os exames prévios. Nem quando o número de contratos se elevou a 12.
+Na verdade, os apelantes, na ganância de "vender produtos" e submeter seus funcionários ao cumprimento de metas extraordinárias, abandonam a cautela necessária. É possível concluir que são os apelantes que agem com má-fé, na medida em que nada exigem por ocasião da contratação do seguro e, depois de efetuado o pagamento do prêmio durante anos, negam-se à cobertura do sinistro.
+Por isso mesmo, desnecessária a produção de prova pericial médica indireta, uma vez que está fora de dúvida que em 2010, quando da contratação do seguro pela primeira vez, não havia qualquer moléstia que pudesse desacreditar a declaração prestada pela segurada.
+A simples alegação dos apelantes, baseada em diligências privadas, sem o crivo do contraditório, não faz crer que a de cujus tenha agido de má-fé no momento da contratação do seguro.
+Aliás, não há ilicitude em contratar seguro por pessoa gravemente enferma. A ilicitude reside na ausência de boa-fé, isto é, na apresentação de informações que não correspondam à verdade.
+E isto não se verificou, neste caso.
+A seguradora poderia realizar investigação sobre eventuais doenças preexistentes antes de celebrar o contrato, solicitando a realização de exame médico.
+Se não o fez, não pode agora beneficiar-se da própria conduta omissiva, pretendendo tornar inválido o contrato de seguro. Aceitou a proposta de seguro e recebeu o prêmiodurante longo período, sem exigir qualquer outra informação. Deve responder pela validade do contrato.
+A jurisprudência do Superior Tribunal de Justiça, tem firme entendimento de que, sem a exigência de exames prévios e não provada a má-fé do segurado, é ilícita a recusa da cobertura securitária sob a alegação de doença preexistente à contratação do seguro.
+Releva enfatizar que à época do óbito da segurada, os contratos vigiam porque havia renovação anula automática.
+Maliciosamente, a seguradora não trouxe as apólices aos autos, durante o trâmite em primeiro grau. Somente providenciou a juntada das apólices contratadas em julho/2014, com as razões de apelação (fls. 711/716). Mas não trouxe as apólices posteriores, já que mais uma vez houve renovação automática dos contratos de seguro. A omissão da seguradora inviabilizou a perícia em primeiro grau (fls. 593 e 611) e levou o MM. Juiz a calcular a indenização securitária em R$ 716.400,00, posto que multiplicou o valor da cobertura contratada em 26.11.2010, R$ 59.700,00, por 12 número de contratos).
+Os documentos de fls. 711/716 foram apresentadosintempestivamente, nos termos do art. 434 do Código de Processo Civil: Incumbe à parte instruir a petição inicial ou a contestação com os documentos destinados a provar suas alegações .
+Nessa condição, os referidos documentos não podem ser considerados porque (i) são intempestivos; (ii) não foram submetidos ao contraditório;e, (iii) não revelam a última contratação levada a efeito por Maria Tereza.
+Uma vez que a legislação consumerista se aplica ao caso, era dever da seguradora trazer aos autos as apólices, quando da apresentação da contestação.
+Aplicável o disposto no §1º, do art. 373, CPC, que cuida da inversão judicial do ônus da prova, quando houver permissivo legal (Código de Defesa do Consumidor art. 6º, VIII, da Lei n. 8078/90).
+Vale lembrar que os apelados não poderiam trazer aos autos documentos bancários, ainda que fossem da filha MARIA TERESA, os quais estão protegidos pelo sigilo bancário. Isto é, os apelados não teriam acesso às apólices e documentos da conta bancária. Caberia aos apelantes fazer a juntada.
+Diante disso, a r. sentença deve ser mantida integralmente (e-STJ, fls. 868/871, sem destaques no original).
+Assim, no caso em apreço, o Tribunal bandeirante se baseou nos elementos fático-probatórios para conceder a cobertura securitária pretendida, tendo em vista que a SEGURADORA não comprovou a má-fé do segurado no momento de contratação da apólice, já que para se chegar à conclusão diversa, seria necessário o reexame do acervo fático-probatório dos autos, conduta vedada em recurso especial ante o óbice da Súmula nº 7 do STJ.
+Nesse sentido, veja-se precedente:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL. SEGURO DE VIDA. FINANCIAMENTO IMOBILIÁRIO. ENFERMIDADE PREEXISTENTE. OMISSÃO DO SEGURADO. ATESTADOS COMPROBATÓRIOS DA SAÚDE DO SEGURADO NÃO EXIGIDOS. MÁ-FÉ DO SEGURADO NÃO COMPROVADA. EXCLUSÃO DE COBERTURA. IMPOSSIBILIDADE. SÚMULAS N. 7 E 83 DO STJ.
+1. A mera alegação de que o segurado se omitiu em informar enfermidade preexistente não é bastante para afastar o pagamento da indenização securitária se, no momento da contratação, a seguradora não exigiu atestados comprobatórios do estado do segurado nem constatou sua má-fé.
+2. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida". Incidência da Súmula n. 83/STJ.
+3. Concluir que o segurado omitiu, de má-fé, doença preexistente quando da contratação do seguro de vida demanda o reexame do conjunto fático-probatório dos autos. Aplicação da Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 353.692/DF, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 9/6/2015, DJe 11/6/2015).
+Ademais, esta Corte firmou o entendimento de não ser possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+Nesse sentido, confira-se precedente:
+AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. ALÍNEA C. INCIDÊNCIA. DECISÃO QUE SE MANTÉM POR SEUS PRÓPRIOS FUNDAMENTOS.
+I- Tendo o Tribunal de origem decidido com base no complexo fático-probatório delimitado e avaliado nas instâncias ordinárias, nova análise sobre o tema encontra óbice no teor da Súmula 7 desta Corte Superior.
+II- O óbice da Súmula 7 do STJ é aplicável também ao recurso especial fundado no artigo 105, III, "c", da Constituição.
+III- Não se divisa, nas razões deste regimental, argumentos aptos a modificar o decisum agravado, razão pela qual deve ser mantido por seus próprios fundamentos.
+IV- Agravo regimental a que se nega provimento.
+(AgRg no Ag 1.276.510/SP, Rel. Ministro PAULO FURTADO (Desembargador Convocado do TJ/BA), DJe 30/6/2010).
+Por fim, a jurisprudência do STJ firmou o entendimento de que não comprovada a má-fé do segurado quando da contratação do seguro saúde e, ainda, não exigida, pela seguradora, a realização de exames médicos, não pode a cobertura securitária ser recusada com base na alegação da existência de doença pré-existente (AgRg no AREsp 177.250/MT, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 23/10/2012, DJe 30/10/2012).
+Inafastável, portanto, o óbice da Súmula nº 568do STJ.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO aorecurso especial de SEGURADORA.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor de SEGURADORA em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SEGURO DE VIDA. MÁ-FÉ DASEGURADA. NÃO CONFIGURADA. REEXAME. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. DOENÇA PREEXISTENTE. AUSÊNCIA DE EXAMES MÉDICOS PRÉVIOS. SÚMULA Nº 568DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL DE SEGURADORA NÃO PROVIDO.
