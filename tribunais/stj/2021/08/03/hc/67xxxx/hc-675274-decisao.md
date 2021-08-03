@@ -1,0 +1,12 @@
+DECISÃO
+A controvérsia jurídica gira em torno da idoneidade defundamentação do acórdão denegatórioproferido pelo Tribunal de Justiça de São Paulo (HC n. 2069415-07.2021.8.26.0000 - fls. 97/104), que manteve a decisão do Juízo da Unidade Regional de Departamento Estadual de Execução Criminal (DEECRIM 1ª RAJ) da comarca de São Paulo, quanto à necessidade de realização do exame criminológico, para fins de aferição do requisito subjetivo do ora paciente (PEC n. 0018498-26.2020.8.26.0041 - fls. 73/75).
+Requer, assim,em caráter liminar e definitivo, seja concedida a ordem para determinar a colocação do paciente em regime intermediário, sem a necessidade de realização de exame criminológico (fl. 7). Subsidiariamente, requer seja concedida a ordem em menor extensão tão somente para determinar ao juízo de piso que analise o pleito progressional sem a necessidade de exame criminológico e baseado tão somente em fatos concretos surgidos durante o resgate da pena e, caso o laudo já tiver aportado aos autos, que seja determinado o seu desentranhamento (fl. 7).
+Deferi a liminar, em 29/6/2021, apenas para determinar ao Juízo da Vara de Execuções Criminais competente a imediata apreciação do pedido de progressão formulado em prol do ora paciente com base unicamente em fatos concretos surgidos no decorrer da execução penal (afastadas a reincidência, a gravidade abstrata do delito e a longevidade da pena).
+Prestadas informações(fls. 128 e 131/158), o Ministério Público Federal opinou pelo não conhecimento do writ e pela concessão da ordemde ofício (fls. 160/168).
+É o relatório.
+As informações prestadas pelo Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal da comarca de Presidente Prudente/SP (5ª RAJ) dão conta de que, em 2/7/2021, o pacientefoi promovido ao regime semiaberto(fl. 128), fato que esgota a pretensão contida na presente impetração, dada a alteração do cenário fático-processual.
+Consequentemente, perdeu o objeto o writ. Julgo-o, pois, prejudicado (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ). Por óbvio, fica sem efeito a liminar anteriormente deferida.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PEAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAME CRIMINOLÓGICO PELAS INSTÂNCIAS ORDINÁRIAS PARA AFERIÇÃO DO REQUISITO SUBJETIVO. GRAVIDADE ABSTRATA DO DELITO, REINCIDÊNCIA E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. SUPERVENIENTE PROMOÇÃO AO REGIME INTERMEDIÁRIO. ALTERAÇÃO DO CENÁRIO FÁTICO-PROCESSUAL. PERDA DE OBJETO.
+Writ prejudicado.
