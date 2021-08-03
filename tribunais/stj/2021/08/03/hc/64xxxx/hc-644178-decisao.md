@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de PATRICK JUAN SANTOS DE JESUS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2265783-23.2020.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva pela suposta prática do delito descrito no art. 157, caput, do Código Penal (fls. 114-116).
+O decreto prisional fundou-se no fato do paciente ter sido "beneficiado com a liberdade provisória  .. , tendo descumprido as medidas cautelares fixadas, a demonstrar que estas são insuficientes para a prevenção da prática de novos delitos e garantia da ordem pública" (fl. 115).
+Impetrado writ na origem, a ordem foi denegada.
+A defesa alega que a fundamentação para a decretação da prisão preventiva é insuficiente e que não persistem os requisitos autorizadores da segregação cautelar.
+Afirma que se trata de pessoa primária, com residência fixa e pai de uma criança de 2 anos de idade, sendo o único responsável por ela.
+Sustenta que a medida é desproporcional em face de eventual condenação.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente ou a substituição da prisão preventiva por medidas cautelares diversas.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 347-348.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso dele se conheça, pela sua denegação (fls. 370-377).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 115):
+No caso em apreço, a prova da materialidade e os indícios suficientes autoria do(s) crime(s) de roubo (artigo 157, caput, do Código Penal) encontram-se evidenciados pelos elementos de convicção constantes das cópias do Auto de Prisão em Flagrante, com destaque para as declarações da vítima que contou que o indiciado se aproximou, fingindo estar armado e gritando "perdeu, passa o celular".
+Assentado o fumus comissi delicti, debruço-me sobre o eventual periculum in libertatis.
+Observo que o réu foi beneficiado com a liberdade provisória em 09/03/2020 (fls. 47/48 e 49/50), tendo descumprido as medidas cautelares fixadas, a demonstrar que estas são insuficientes para a prevenção da prática de novos delitos e garantia da ordem pública.
+Ainda, confira-se como se manifestou o Juízo de primeiro grau ao decidir manter a segregação cautelar do paciente (fls. 264-266, destaquei):
+O indiciado foi preso em flagrante como suspeito da pratica de delito grave (roubo praticado mediante grave ameaça - simulação de arma de fogo), de modo que sua segregação cautelar se fundamenta na garantia da ordem pública, entendida esta como sendo a necessidade de se manter a ordem na sociedade, a qual, via de regra, é abalada pela prática de um delito. Se este for grave, de particular repercussão, como no caso dos autos, propiciando àqueles que tomam conhecimento da sua realização um forte sentimento de impunidade e de insegurança, cabe ao Judiciário determinar o recolhimento do agente.
+Ademais, o art. 282, inc. II do Código de Processo Penal expressamente autoriza que a gravidade do crime e as circunstâncias do fato devam ser consideradas na avaliação quanto à conveniência da custódia cautelar (art. 282, inc. II do Código de Processo Penal).
+De fato, em se tratando de infração penal grave, cometido com instrumento vulnerante, cabe ao Poder Judiciário uma resposta rápida e enérgica.
+ ..
+Lado outro, a medida extrema é conveniente à instrução processual a fim de garantir que as testemunhas, em especial a vítima, prestem depoimentos isentos e sem qualquer receio.
+Anoto que os indícios de autoria estão presentes nas declarações da vítima e de sua namorada. Eles relataram o ocorrido e reconheceram o acusado como sendo o autor do delito ( fls.18 e 19), sendo que o bem roubado foi localizado em poder do réu.
+ ..
+Ressalta-se que o acusado ostenta passagens infracionais e foi beneficiado com a liberdade provisória em 09/03/2020 (fls. 47/48 e 49/50), tendo descumprido as medidas cautelares fixadas, a demonstrar que estas são insuficientes para a prevenção da prática de novos delitos e garantia da ordem pública.
+ ..
+Por fim, o crime foi praticado com grave ameaça e violência, o que, por si só, impede a concessão de liberdade provisória nos termos do art. 4, inciso I, c, da recomendação 62/2020 do CNJ.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, justifica-se a prisão preventiva para garantia da ordem pública quando o paciente, beneficiado por liberdade provisória em ação penal diversa, comete nova infração, hipótese em que está evidente o risco de reiteração delitiva (AgRg no HC n. 613.145/GO, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/11/2020).
+Por sua vez, eventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+E ainda, segundo a jurisprudência do STJ, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Por fim, registre-se que, não obstante o disposto no art. 318, VI, do CPP e a decisão do Supremo Tribunal Federal no HC coletivo n. 165.704/DF, a prisão domiciliar de pai de criança de até 12 anos incompletos não é automática, depende da comprovação de ser ele o único responsável pelo menor. Além disso, as mesmas condições previstas no julgamento do HC n. 143.641/SP devem ser observadas, especialmente no que se refere à vedação da substituição da prisão preventiva pela domiciliar em casos de crimes praticados mediante violência ou grave ameaça ou contra os próprios filhos ou dependentes. Nesse sentido: RHC n. 132.628/RJ, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 26/10/2020; e HC n. 555.130/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 9/3/2020.
+Apesar de o paciente ter comprovado a paternidade e a guarda da criança menor de 12 anos (fls. 30-43), não demonstr ou ser o único responsável por ela, razão pela qual é inviável o acolhimento do pedido de substituição da custódia cautelar por prisão domiciliar
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
