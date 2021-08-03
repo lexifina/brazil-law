@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpus, sem pedido de liminar, impetrado em favor de ADRIANO APARECIDO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução Penal n. 9002845-32.2019.8.26.0050, assim ementado (fl. 11):
+"EMENTA: Agravo em execução. Pretendida cassação de decisão que julgou prejudicado pedido de comutação. Inexistência de saldo de penas a cumprir suscetível de aplicação do benefício pleiteado, com fulcro nos Decretos nº 6.294/2007 e nº 6.706/2008. Agravo improvido."
+No recurso impetrado na origem, o Reeducando requereu a comutação das penas, fundado nos Decretos n.6.294/2007 e n.6.706/2008.
+Na inicial do presente writ, todavia, a Defesa pretende que "a unificação das penas do paciente não altere a data-base para a incidência das frações de pena para o exercício de direitos em execução penal, que é a data da prisão em flagrante da execução nº 3" (fl. 9).
+Foram prestadas informações.
+O Ministério Público Federal ofereceu parecer às fls. 62-64, assim ementado (fl. 62; sem grifos no original):
+"HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO. TESES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO IMPUGNADO. INVIABILIDADE DA COMPREENSÃO DA ILEGALIDADE QUE SE ENTENDE COMETIDA. AINDA QUE ASSIM NÃO FOSSE, PENAS JÁCUMPRIDAS NÃO PODEM SER COMPUTADAS PARAFINS DE OBTENÇÃO DA COMUTAÇÃO. PARECER PELONÃO CONHECIMENTO DA ORDEM OU, CASO ASSIM NÃO SE ENTENDA, POR SUA DENEGAÇÃO."
+É o relato do necessário. Decido.
+Conforme esclareceu o Ministério Público Federal no parecer que ofereceu para instruir os presentes autos, "as teses lançadas na impetração estão dissociadas dos fundamentos do acórdão de origem, adstritos à impossibilidade de se computarem penas já cumpridas, para fins de análise do pedido de comutação" (fl. 83), pois a Defesa, no presentewrit, suscita violação do Tema Repetitivo n. 1.003 e requer "que a unificação das penas não altere a data-base para a incidência das frações depena para o exercício de direitos na fase de execução" (ibidem).
+Portanto, as razões destemandamus não refutam os fundamentos dodecisumimpugnado, motivo pelo qual a pretensão defensiva não pode ser apreciada.
+A propósito, cito os seguintes julgados desta Corte,mutatis mutandis:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOHABEAS CORPUS. RECEPTAÇÃO. ILEGALIDADE NA DOSIMETRIA. CORREÇÃO DO VÍCIO, DE OFÍCIO. PEDIDO DE DECLARAÇÃO DE NULIDADE DA SENTENÇA E DO ACÓRDÃO. IMPOSSIBILIDADE. INOVAÇÃO DE PEDIDO EM EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE. RAZÕES DISSOCIADAS DO ACÓRDÃO DE APELAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Se, no curso de processo, esta Corte verificar a falta de reconhecimento de atenuante genérica, é possível a correção da dosimetria de ofício, com o devido redimensionamento da pena. O pedido de concessão da ordem em maior extensão, para declaração de nulidade da condenação e desconstituição de seu trânsito em julgado não comporta acolhimento, uma vez que não se está diante de descumprimento de formalidade legal, mas de vício na aplicação da pena.
+2. É incabível a inovação de pedido em embargos de declaração, máxime quando suas razões estão dissociadas do aresto recorrido.
+3. Agravo regimental não provido." (AgRg nos EDcl no HC 503.516/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO RECORRIDA. PEDIDO RECURSAL NÃO CONHECIDO.
+1. Na hipótese, o writ não foi conhecido. O recurso contra o decisum, todavia, limitou-se a reiterar os fundamentos de mérito ventilados na petição inicial, sem impugnar a conclusão monocrática de que é vedado ao Superior Tribunal de Justiça incorrer em supressão de instância. Nessas circunstâncias, o agravo regimental não pode ser analisado, pois as razões recursais são dissociadas da motivação da decisão recorrida.
+2. Pedido recursal não conhecido."(AgRg no HC 457.533/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/02/2019, DJe 01/03/2019.)
+Por fim, vale referir que o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, precisa e objetiva, acompanhadas dos documentos que amparem o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Ante o exposto, em acolhimento à manifestação da Procuradoria-Geral da República, NÃO CONHEÇO do pedido dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. RAZÕES DISSOCIADAS. NARRATIVA DA INICIAL SOBRECONJUNTURA FÁTICA DIVERSA DA JULGADA NO ACÓRDÃO ORA IMPUGNADO. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO FEDERAL ACOLHIDA. PEDIDO DE HABEAS CORPUSNÃO CONHECIDO.
