@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RONALDO SEBASTIÃO DE MELO e OUTROS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Pernambuco (HC n. 1215-94.2021.8.17.9000).
+Os pacientes tiveram a prisão em flagrante convertida em preventiva diante de representação da autoridade policial (fls. 28-36) e foram denunciados por suposta prática do delito descrito nos arts. 312 do Código Penal, na forma do art. 71 (por mais de 10 vezes), c/c o art. 29 do CP, e 2º da Lei n. 12.850/2013.
+O decreto prisional fundou-se na garantia da instrução criminal e na contenção daprática de outros crimes. Impetrado writ na origem, a ordem foi denegada.
+A defesa alega que os pacientes são vítimas de constrangimento ilegal, pois háexcesso de prazo na formação da culpa.
+Requer, liminarmente e no mérito, a concessão da liberdade provisória dos pacientes e/ou asubstituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 205-206.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus(fls. 418-427).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRgno RHC n. 123.274/RJ, relator MinistroAntonioSaldanha Palheiro,DJede 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 146-148):
+Por seu turno, no voto proferido pelo desembargador relator a ordem de habeas corpus é concedida de ofício sob o fundamento de que os pacientes estão presos há mais de 9 (nove) meses, o que na sua visão configura constrangimento ilegal por excesso de prazo, ficando prejudicada a análise das alegações expostas na inicial.
+Com relação ao suposto excesso de prazo, a sua constatação não se dá pelo simples decurso de tempo, uma vez que devem ser levadas em consideração as circunstâncias do caso concreto, além de ser exigido que o atraso resulte de descaso injustificado do juízo, conforme jurisprudência pacífica do Superior Tribunal de Justiça (RHC 56.578/SP).
+Trata-se de matéria sumulada neste Tribunal de Justiça.
+ ..
+No caso presente, a documentação acostada aos autos aponta que a ação penal foi instaurada em face de 14 (quatorze) réus assistidos por advogados diversos, todos acusados de integrar organização criminosa dedicada, desde o ano de 2017, à manutenção de um esquema de apropriação de dinheiro público conhecido como "rachadinha", sendo-lhes imputadas as condutas correspondentesa peculato, falsificação de documentos e frustração de direitos trabalhistas.
+Ademais, segundo as informações prestadas pela autoridade coatora, os pacientes foram presos em 29/07/2020, a denúncia foi recebida em 13/08/2020 e foram analisados vários pedidos de revogação da prisão formulados pelos diversos acusados, encontrando-se o feito aguardando a apresentação da resposta escrita de apenas um réu para que em seguida seja designada audiência (ID 15274228).
+Importante destacar que durante a maior parte do ano de 2020 as atividades presenciais no Poder Judiciário permaneceram suspensas em razão da pandemia do novo coronavírus, situação que persiste neste início de 2021 face ao recrudescimento do quadro pandêmico, o que configura motivo de força maior que justifica eventual retardo na marcha processual.
+Consequentemente, não há que se falar em excesso de prazo; pelo contrário, os atos processuais vêm sendo praticados com regularidade pelo juízo de 1º grau, levando em consideração a complexidade do feito, as circunstâncias do caso concreto e a atual crise sanitária  .. .
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie" (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 12/3/2019).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
