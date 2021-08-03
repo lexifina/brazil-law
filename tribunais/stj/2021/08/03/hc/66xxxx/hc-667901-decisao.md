@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ARTUR ENRIQUE SILVA, apontando como autoridade coatora o Tribunal de Justiça de Minas Gerais.
+Consta dos autos que o paciente foi denunciado pela prática de furto qualificado, acusado de subtrair maços de cigarro e talonários de cheques, pertencentes ao dono do "Supermercado Paulistano". A denúncia foi recebida.
+Buscando o trancamento do feito, adefesa impetrou o writ originário. A ordem foi denegada pelo TJMG,nos termos da seguinte ementa:
+"HABEAS CORPUS". FURTO QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. NÃO CABIMENTO. EXAME APROFUNDADO DE PROVAS. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA.INVIABILIDADE. CONSTRANGIMENTO ILEGAL. NÃO CONFIGURADO.ORDEM DENEGADA.
+- O trancamento da Ação Penal é medida de exceção, devendo ser adotada somente quando for comprovada, de plano, a atipicidade da conduta, causa extintiva da punibilidade ou ausência de indícios mínimos de autoria.- Ordem denegada." (e-STJ, fl. 12)
+Nesta instância, o impetrante defende a aplicação do princípio da insignificância, diante da atipicidade material da conduta do agente. Afirma que, muito embora não tenha sido ainda devidamente avaliada,a res furtivapossui baixo valor, pois são apenas maços de cigarro.
+Pugna, inclusive liminarmente, pelo trancamento da Ação Penal n.0016181- 51.2016.8.13.0431, em trâmite no Juízo da Comarca de Monte Carmelo/MG.
+Liminar indeferida.
+Informações prestadas.
+O Ministério Público Federal ofertou parecer pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Com efeito, o "princípio da insignificância - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (HC n. 84.412-0/SP, STF, Rel. Ministro CELSO DE MELLO, DJU 19/11/2004.)
+Nesse passo, esta Corte Superior de Justiça possui entendimento consolidado no sentido de que, não se há falar em aplicação do princípio da insignificância quando o valor da res furtivae ultrapassar o montante de 10% do salário mínimo vigente à época do fato, sendo este o parâmetro a ser seguido. A respeito, cito:AgRg no REsp 1806705/RO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/09/2019, DJe 24/09/2019; eAgRg no REsp 1756430/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 02/04/2019, DJe 10/04/2019.
+Na hipótese dos autos, consoante informa o próprio impetrante, não houve até o momento confecção do laudo de avaliação do valor dos bens subtraídos, circunstância que impede o debate sobre a aplicação do princípio da bagatela. Na mesma linha, confiram-se:
+"HABEAS CORPUS. FURTO QUALIFICADO TENTADO. ART. 155, § 4º, IV C/C ART. 14, II, AMBOS DO CP. RECONHECIMENTO DO PRINCÍPIO DA INSIGNIFICÂNCIA. INVIABILIDADE. TENTATIVA DE SUBTRAÇÃO DE FIOS DE COBRE DE TRANSFORMADORES DE CONCESSIONÁRIA DE ENERGIA ELÉTRICA.AUSÊNCIA DE LAUDO DE AVALIAÇÃO DO VALOR DO BEM. CONCURSO DE PESSOAS.ÓBICES AO RECONHECIMENTO DA BAGATELA. FURTO PRIVILEGIADO.IMPOSSIBILIDADE. VALOR DO BEM NÃO CALCULADO. ORDEM DENEGADA.
+1. Sedimentou-se a orientação jurisprudencial no sentido de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) a mínima ofensividade da conduta do agente;
+b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+2. O crime de furto foi qualificado pelo concurso de agentes, circunstância objetiva que denota a maior reprovabilidade da conduta e inviabiliza a aplicação do princípio da insignificância.
+Precedentes.
+3. A ausência de realização de laudo de avaliação impossibilita a discussão de insignificância do dano, afastando, assim, a possibilidade de aplicação do princípio da insignificância.
+4. Nos termos da Súmula 511/STJ: É possível o reconhecimento do privilégio previsto no § 2º do art. 155 do CP nos casos de crime de furto qualificado, se estiverem presentes a primariedade do agente, o pequeno valor da coisa e a qualificadora for de ordem objetiva. No caso, a ausência de realização de laudo de avaliação impossibilita a discussão de valor do dano, o que obsta a aplicação do instituto previsto no art. 155, § 2º, do Código Penal.
+5. Habeas Corpus denegado."
+(HC 623.399/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/02/2021, DJe 17/02/2021, grifou-se);
+"PENAL. FURTO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. REINCIDÊNCIA CONFIGURADA. NÃO REALIZAÇÃO DE LAUDO DE AVALIAÇÃO DA RES FURTIVA.IMPOSSIBILIDADE DE SE AFERIR A INEXPRESSIVIDADE DA LESÃO JURÍDICA.PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO. PRECEDENTES.
+1. A jurisprudência desta Corte é firme no sentido de que "o fato de o réu ser reincidente e ostentar outros registros criminais, inclusive por delitos contra o patrimônio, obsta a aplicação do princípio da insignificância, por evidenciar maior grau de reprovabilidade do comportamento do acusado, salvo quando ínfimo o valor do bem subtraído, o que não se verifica no caso dos autos" (AgRg no AREsp 1150471/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018).
+2. Na espécie, diante da reincidência do condenado e da inexistência de laudo para aferir o valor da res furtiva, resta evidenciada a efetiva lesão ao bem jurídico tutelado pela norma penal incriminadora, o que torna inaplicável o princípio da insignificância.
+3. Agravo regimental desprovido."
+(AgRg no REsp 1720197/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 04/09/2018, DJe 12/09/2018, grifou-se)
+Consoanteinformações prestadas pelo Juízo processante (e-STJ, fl.292), a audiência de instrução e julgamento já foi designada. Na ocasião, poderão ser discutidas as particularidades do caso inclusivepara melhor aferição da possibilidade de incidência ou não do princípio da insignificância, o que a falta de dados mais precisos não permite no momento.
+Dessa forma, não vislumbro constrangimento ilegal a permitir a concessão da ordem nessa instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
