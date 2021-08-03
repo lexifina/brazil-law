@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Joel Ilan Paciornik votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA.SUBSTITUIÇÃO POR MEDIDASCAUTELARES ALTERNATIVAS. NÃO CABIMENTO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS.DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1.O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+3.São fundamentos idôneos para a decretação da segregação cautelar nocaso de tráfico ilícito de entorpecentes a quantidade, a variedade ou anatureza das drogas apreendidas, bem como a gravidade concreta do delito,o modus operandi da ação delituosa e a periculosidade do agente.
+4.Agravo regimental desprovido.
+RELATÓRIO
+RAMOM HENRIQUE DE SOUZA REZENDEinterpõe agravo regimentalcontra a decisão de fls. 326-329, que negou provimento ao recurso ordinário emhabeas corpuspor ele interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais(Processo n. 1.0000.20.49041-1/000).
+O agravante teve sua prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 272-275), pela prática dodelitodescritonoart.33, caput, daLei n. 11.343/2006.
+No presente writ,foi mantida a segregação cautelar para garantia da ordem pública,a fim de conter o risco de reiteração delitiva, tendo em vista a variedade e a expressiva quantidade de entorpecentes apreendida,a impossibilidade de condições pessoais favoráveis dopaciente, por si sós,desconstituírema custódia cautelar e a existência de ações penais em curso.
+O agravante aponta ofensa ao princípio da colegialidade, pois, segundo aduz, "não ficou demonstrada, no caso em análise, hipótese autorizativa de decisão singular" (fl. 334).
+Insiste na tese de que a quantidade de drogas apreendidas não é suficiente para justificar a manutenção da prisão preventiva.
+Requer o provimento do recurso para que seja anulada a decisãomonocrática e substituída por decisão colegiada.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EMHABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. DECISÃO MONOCRÁTICA PROFERIDA NA FORMA DO CPC E DO RISTJ. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. GARANTIA DA ORDEM PÚBLICA. RISCO DE REITERAÇÃO DELITIVA.SUBSTITUIÇÃO POR MEDIDASCAUTELARES ALTERNATIVAS. NÃO CABIMENTO. APREENSÃO DE EXPRESSIVA QUANTIDADE DE DROGAS.DECISÃO FUNDAMENTADA. AGRAVO REGIMENTAL DESPROVIDO.
+1.O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+2. A imprescindibilidade da prisão preventiva justificada no preenchimento dos requisitos dos arts. 312, 313 e 315 do CPP impede a aplicação das medidas cautelares alternativas previstas no art. 319 do CPP.
+3.São fundamentos idôneos para a decretação da segregação cautelar nocaso de tráfico ilícito de entorpecentes a quantidade, a variedade ou anatureza das drogas apreendidas, bem como a gravidade concreta do delito,o modus operandi da ação delituosa e a periculosidade do agente.
+4.Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida.
+O relator no STJ está autorizado a proferir decisão monocrática, que fica sujeita à apreciação do respectivo órgão colegiado mediante a interposição de agravo regimental, não havendo falar em violação do princípio da colegialidade (arts. 932, III, do CPC e 34, XVIII, a e b, do RISTJ).
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção dapreventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP. É o que se extrai dosseguintes excertos da decisão agravada (fl. 327):
+A propósito, assim se manifestou o Tribunal a quo (fls. 207-209):
+Verifico, com efeito, que a prática delitiva supostamente empreendida pela paciente encontra-se bem explicitada nos elementos carreados aos autos devidamente apontados tanto na decisão que converteu sua prisão em flagrante em preventiva quanto na que indeferiu o pedido de liberdade provisória (ordem 12), estando presentes os indícios de autoria e a materialidade delitiva, bem como os requisitos dos artigos 312 e 313 do Código de Processo Penal, os quais, aliás, se afiguram suficientes não apenas à decretação, mas à própria manutenção do acautelamento preventivo.
+ ..
+A argumentação trazida nas mencionadas decisões e os demais elementos encartados nos autos estão todos endereçados à conclusão que a prática do suposto crime tal como se deu, revela destacada gravidade concreta, cujo "modus operandi" não parece se coadunar com atividade meramente isolada ou eventual, sobretudo pela diversidade e pela imensa quantidade de drogas apreendida, sendo a maior parte de natureza altamente lesiva e viciante -282,88g de cocaína e 58,96g de maconha (Laudos Preliminares em ordem 08, fs. 25/31).
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No presente caso, a apreensão de quantidade expressiva deentorpecentes (282,88g de cocaína e 58,96g de maconha)e sua variedade foramconsideradas pelo Juízo de primeiro grau para a decretação da prisão preventiva, o que está de acordo com a orientaçãoda Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido,o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, omodus operandida ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Registre-se ainda que, em consulta ao site do Tribunal de origem, constatou-se que, em 18/12/2020, foi proferida sentença na Ação Penal n. 0028948-91.2020.8.13.0525, ocasião em que o recorrente foi condenado às penas de 5 anos de reclusão em regime inicial fechado e de 500 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, vedado o direito de recorrer em liberdade.
+Atualmente os autos encontram-se conclusos para julgamento do recurso de apelação.
+A manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória, que não concedeu ao agravante, que ficou presodurante toda a instrução processual, o direito de recorrerem liberdade, pois considerou mantidas as circunstâncias que justificaram a decretação da prisão preventiva.
+Portanto, visto que oagravante não apresentou argumento novo capaz de infirmar o decisum impugnado, mantenho-o por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
