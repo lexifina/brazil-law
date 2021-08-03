@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por TG CENTRO-OESTE EMPREENDIMENTOS IMOBILIÁRIOS S.A., com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fls. 343-344):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO RESCISÃO C/C REPARAÇÃO POR DANOS MATERIAIS E MORAIS - COBRANÇA DA COMISSÃO DE CORRETAGEM - VALIDADE - RESTITUIÇÃO PARCIAL DOS VALORES PAGOS - RECURSO PARCIALMENTE PROVIDO.
+Em consonância ao entendimento exarado pelo Superior Tribunal de Justiça, em sede de recurso representativo de controvérsia, é válida a cláusula contratual que transfere ao comprador a obrigação de pagar a comissão de corretagem nos contratos de compra e vendade unidade autônoma em regime de incorporação imobiliária, desde que previamente informado o preço total da aquisição da unidade autônoma, com o destaque do valor da comissão da corretagem.
+Por outro lado, o descumprimento contratual enseja a sua resolução, nos termos do artigo 475 do Código Civil.
+Havendo rescisão de contrato em razão de inadimplência, os valores das parcelas pagas deverão ser devolvidos ao consumidor, retendo-se o percentual de 15% (quinze por cento) pela promissária vendedora, a título de indenização por gastos administrativos e despesas com o contrato, em virtude da promitente compradora não ter ocupado o imóvel e a restituição de 25% (vinte e cinco por cento) do montante pago a título de sinal.
+Os embargos de declaração opostos foram acolhidos paradeclarar a rescisão do contrato havido entre as partes(e-STJ, fls. 367-378).
+Nas razões do recurso especial, a recorrente alegou violação aos arts. 85, § 2º, do Código de Processo Civil de 2015; e 396 do Código Civil.
+Sustentouque o acórdão recorrido se omitiu sobre os honorários advocatícios de sucumbência. Aduziu ser impossível a incidência de juros moratórios desde a citação.
+O Tribunal de origem deixou de admitir o recurso especial às fls. 435-438 (e-STJ), tendo sido interposto agravo em recurso especial às fls. 439-452 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, não obstante toda a argumentação expendida nas razões do recurso especial, verifico que os artigos apontados como violados não foram debatidos pelo Colegiado estadual, carecendo, no ponto, do imprescindível requisito do prequestionamento.
+Nos termos da jurisprudência consolidada nesta Corte Superior, a análisede tese no âmbito do recurso excepcional exige a prévia discussão peranteo Tribunal de origem, sob pena de incidirem as Súmulas n. 282 e 356 doSupremo Tribunal Federal, bem como o enunciado da Súmula n. 211/STJ.
+Registre-se, por fim, que, mesmo tendo sido opostos embargos dedeclaração, estes não tiveram o condão de suprir o devidoprequestionamento, razão pela qual deveria a parte, no recurso especial,ter suscitado a violação ao art. 1.022 do Código de Processo Civil de2015, demonstrando de forma objetiva a imprescindibilidade da manifestaçãosobre a matéria impugnada e em que consistiria o vício apontado.
+Diante do exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS TIDOS COMO VIOLADOS. SÚMULAS 282 E 356 DO STF E 211 DO STJ.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
