@@ -1,0 +1,19 @@
+DECISÃO
+Trata-sede recurso ordinário em habeas corpus, com pedido de liminar, interposto por DEIVID SILVA DOS SANTOS contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS que denegou a ordem no julgamento do Habeas Corpus Criminal n. 0810003-52.2020.8.02.0000..
+O recorrente foi preso em flagrante, e convertida a custódia em preventiva, pela suposta prática da crime previsto no art. 157, caput, c/c art. 14, II, ambos do Código Penal.
+Irresignada com o decreto prisional, a defesa impetrou a ordem originária, que foi denegada pelo Tribunal a quo, em acórdão ementado nos seguintes termos (e-STJ fl. 48):
+HABEAS CORPUS. ROUBO TENTADO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTOS PARA A PRISÃO PREVENTIVA. NÃO VERIFICAÇÃO.ELEMENTOS QUE INDICAM A NECESSIDADE DA SEGREGAÇÃO PROCESSUAL. PERICULOSIDADE DO AGENTE. PACIENTE QUE RESPONDE A OUTRO PROCESSO CRIMINAL. RISCO CONCRETO DE REITERAÇÃO DELITIVA. ILÍCITO SUPOSTAMENTE PRATICADO DURANTE O GOZO DE LIBERDADE PROVISÓRIA. MEDIDAS ALTERNATIVAS INSUFICIENTES. PLEITO DE APLICAÇÃO DA RECOMENDAÇÃO Nº 62 DO CNJ. INEXISTÊNCIA DE DIREITO ABSOLUTO À REVOGAÇÃO OU À SUBSTITUIÇÃO DA PRISÃO.PACIENTE QUE NÃO INTEGRA O GRUPO DE PESSOAS VULNERÁVEIS.EXISTÊNCIA DE HOSPITAL DE CAMPANHA DESTINADO, EXCLUSIVAMENTE, AO ATENDIMENTO DOS CUSTODIADOS.SITUAÇÃO DE RISCO NÃO EVIDENCIADA. ORDEM CONHECIDA E DENEGADA.
+Na presente oportunidade, o recorrente alega que a prisão foi decretada com base em argumentos genéricos atinentes à suposta gravidade abstrata do delito. Pondera que os pressupostos do art. 312 do Código de Processo Penalnão estão presentes.
+Diante disso, pleiteia, liminarmente e no mérito, a revogação da prisão preventiva do recorrente, mesmo mediante aaplicação de medidas cautelares alternativas.
+Contrarrazões àe-STJ fl. 79.
+Indeferido opedido liminar pela Presidência desta Corte Superior (e-STJ fls. 86/87), o Ministério Público Federal manifestou-se pela prejudicialidade do recurso, em parecer assim ementado (e-STJ fls. 91/93):
+RECURSO EM HABEAS CORPUS. ROUBO SIMPLES NA FORMA TENTADA.PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA SUPERVENIENTE.FIXAÇÃO DO REGIME ABERTO. ALVARÁ DE SOLTURA EXPEDIDO:RECURSO PREJUDICADO.
+É o relatório, decido.
+O seguimento do presente recurso ordinário emhabeas corpusestá prejudicado pela perda superveniente do objeto, uma vez que as informações prestadas pelo Ministério Públicorevelam quejá foiexpedido alvará de solturaem benefício da paciente, em virtude da fixação do regime aberto na sentença condenatória(e-STJ fl. 93), in verbis:
+8. Conforme os dados extraídos de consulta realizada ao andamento da ação penal originária (autos nº 0700665-39.2020.8.02.0067) no sítio eletrônico do Tribunal de Justiça/AL, constata-se que, em 09.04.2021, o Juízo de origem julgou procedente a pretensão punitiva, com a imposição da pena de 04 anos de reclusão, em regime aberto, deferindo, ainda, o direito do réu recorrer em liberdade.
+9. Aduza-se, ainda, constar da movimentação processual referenciada que o respectivo alvará de soltura foi expedido na sequência, com cumprimento imediato.
+Nesse sentido:
+ .. 3. A superveniência de decisão que revogou a prisão preventiva imposta ao recorrente na origem torna prejudicado o pedido aqui formulado relativamente à imposição de segregação cautelar.4. Recurso parcialmente conhecido e, nessa extensão, não provido.(RHC 103.259/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/04/2019, DJe 03/05/2019, grifo nosso).
+ ..  Encontra-se superada a matéria relativa à prisão cautelar, porqueexpedido alvará de soltura no processo de origem.  .. (RHC 89.620/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/11/2018, DJe 22/11/2018, grifo nosso)
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgoprejudicadoo presente recurso ordinário emhabeas corpus.
+Intimem-se. Publique-se.
