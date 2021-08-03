@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porBANCO DO BRASIL SAcontra decisão que inadmitiu recurso especial interposto contra acórdão que rejeitou embargos de declaração opostos contra acórdão proferido em julgamento de agravo interno interposto contra decisão que denegou recurso especial nos termos do art.1.030, I, "b", do CPC.
+Ação: declaratória c/c repetição de indébito ajuizada por LAURO ROBERTO LEÃO em face do agravante.
+O acórdão que negou provimento ao agravo interno interposto contra inadmissão do recurso especial teve a seguinte ementa:
+EMENTA: AGRAVO INTERNO. RECURSO ESPECIAL. DECISÃO DENEGATÓRIADE RECURSO ESPECIAL FUNDAMENTADA EM RECURSO REPETITIVO. APLICAÇÃO DO ARTIGO 1.030, INCISO I, ALÍNEA "B", DO CÓDIGO DEPROCESSO CIVIL. Uma vez que a matéria versada no presente feito amolda-se àquela apreciada pelo Superior Tribunal de Justiça no julgamento do representativo da controvérsia (REsp n. 1.361.730/RS - Tema 919) e tendo o acórdão objeto do Recurso Especial julgado no mesmo sentido, nessa parte, nega-se provimento ao Agravo Interno. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+Decisão de admissibilidade do TJ/GO: inadmitiu o recurso especial porque incabível a interposição de recurso especial contra acórdão proferido em agravo interno no agravo em recurso especial, inadmitido com base no art. 1040, I, do CPC, nos termos da jurisprudência do STJ, tendo em vista o Recurso Representativo de Controvérsia REsp nº 1.361.730/RS(Tema 919).
+ARESP de BANCO DO BRASIL SA: aduz que não há limitação legal para a interposição de novo recurso especial se insurgindo contra aplicação incorreta de precedente julgado sob asistemática dos recursos repetitivos, nada dizendo a respeito da jurisprudência desta Corte Superior de Justiça quanto ao não cabimento de novo recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, §11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 18% sobre o valor da condenação(e-STJ fl. 569) para 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
