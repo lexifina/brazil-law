@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se habeas corpus, com pedido liminar, impetrado em favor de Paulo Humberto Alves da Silva, apontando-se como autoridade coatora o Desembargador do Tribunal de Justiça de Minas Gerais, que negou provimento à apelação, mantendo incólume a condenação, em acórdão assim ementado, na parte que interessa (fl. 46):
+APELAÇÃO CRIMINAL - CRIMES CONTRA O PATRIMÔNIO - ROUBO MAJORADO (ART. 157, § 2º, INCISOS I E II, CP, POR DUAS VEZES) - RECURSO DAS DEFESAS - PRELIMINAR DE NULIDADE - AUSÊNCIA DE CORRELAÇÃO ENTRE A DENÚNCIA E A SENTENÇA - INOCORRÊNCIA - REJEIÇÃO - PLEITO DE ABSOLVIÇÃO - IMPOSSIBILIDADE - COMPROVAÇÃO DA MATERIALIDADE E AUTORIA DELITIVA - PENAS ADEQUADAMENTE FIXADAS - PROPORCIONALIDADE - PLEITO DE ISENÇÃO DAS CUSTAS PROCESSUAIS - MATÉRIA PERTINENTE AO JUÍZO DE EXECUÇÃO - SENTENÇA MANTIDA.
+- Estando narrada na denúncia a prática de dois delitos de roubo em desfavor de duas vítimas e, tendo a Magistrada de primeiro grau considerado tais fatos para a condenação do réu, não se pode falar em inobservância do princípio da correlação, tampouco em ofensa aos princípios do contraditório e ampla defesa, uma vez que o acusado se defende das condutas que lhe são imputadas na peça vestibular, e não da capitulação jurídica a elas conferida pelo Ministério Público.
+Os embargos de declaração que se seguiram foram rejeitados,o que motivou o ingresso de recurso especial pelos impetrantes (fl. 5), cujo juízo de admissibilidade está pendente de apreciação na origem.
+Diz a impetração que o paciente se encontra recolhido, em regime fechado, no presídio Jacy de Assis na cidade de Uberlândia-MG, desde 13 de março de 2019, quando a autoridade Coatora determinou a expedição de mandado de prisão para o cumprimento provisório da pena (fl. 6).
+Entretanto, não houve a expedição de guia de execução provisória de pena, o que configura constrangimento ilegal, haja vista que tal documento é imprescindível para que o acusado possa cumprir sua pena provisória (fl. 7).
+Alega que, mesmo tendo sido estabelecido o regime semiaberto para o início de cumprimento da pena, o paciente se encontra em regime fechado, ou seja, está cumprindo pena provisoriamente, sem expedição de guia provisória de penas e mais, em regime mais gravoso (fl. 9), configurando flagrante ilegalidade.
+Defende que, estando o recurso especial pendente de julgamento, o cumprimento provisório de pena, in casu, é temerário e poderá trazer graves danos ao Paciente, mormente pela possibilidade de reverter a pena e também pela possibilidade plausível de ser revisto o controverso entendimento do Supremo Tribunal Federal (fl. 11).
+Aponta, como fundamento para a concessão do pedido liminar, que o fumus boni iuris está na ausência de expedição de guia de execução provisória, na atual situação carcerária do Paciente que se encontra em regime aberto mais gravoso do que o fixado na sentença (fl. 12).
+Quanto ao perigo na demora, argumenta que decorre da própria situação de se encontrar presa em regime mais severo do que o fixado na sentença (fl. 12).
+Indeferido o pedido liminar (fls. 105/107), a defesa apresentou pedido de reconsideração (Petição n. 391.787/2019), que foi indeferido na decisão de fls. 148/149.
+Prestadas informações, a Subprocuradoria-Geral da República opinou pela denegação da ordem, em parecer assim resumido (fl. 237):
+HABEAS CORPUS. SUCEDÂNEO RECURSAL. INADEQUAÇÃO. IMPOSIÇÃO DE REGIME INICIAL SEMIABERTO. EXECUÇÃO PENAL. ALEGADO CONSTRANGIMENTO ILEGAL DECORRENTE DE EXECUÇÃO PROVISÓRIA EM SITUAÇÃO MAIS GRAVOSA. INOCORRÊNCIA. PACIENTE QUE SE ENCONTRA ACAUTELADO EM DECORRÊNCIA DE PRISÃO PROCESSUAL DECORRENTE DE FLAGRANTE. PARECER PELA EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO OU PELA DENEGAÇÃO DA ORDEM.
+Na Petição n. 542.423/2019 (fls. 246/254) a defesa apresenta novo pedido de reconsideração, insistindo nas mesmas alegações outrora rejeitadas.
+É o relatório.
+A impetração não merece acolhimento.
+De fato, como bem anotado no parecer ministerial, a despeito da ausência de informações detalhadas acerca da atual situação do apenado, da leitura da decisão proferida no processo de execução nº 440011-63.2018.8.13.0118, acostada às fls. 147, depreende-se que, ao contrário do alegado pela defesa, o paciente está acautelado em virtude de prisão processual decorrente de flagrante, e não da alegada execução provisória. Verbis:
+"Recebo a guia de recolhimento dos autos n. 0012516- 30.2015.8.13.0118.
+O regime inicial para cumprimento da pena é o aberto. Contudo, o reeducando encontra-se preso em virtude de prisão em flagrante.
+Isto posto, deixo de designar audiência admonitória vez que a prisão processual nos autos em instrução constitui impedimento à sua soltura."
+Ademais, inexistente o constrangimento ilegal aventado, pois o Tribunal de origem, analisando a condenação do paciente, afirmou que os acusados deverão cumprir as respectivas penas em estabelecimento prisional compatível com o regime que lhe fora fixado (fl. 74 - grifei).
+Ademais, verifico que a determinação de expedição de mandado de prisão (fl. 74) foi necessária, porque a sentença condenatória permitiu aos acusados recorrerem em liberdade, como já se encontravam (fl. 35), motivo pelo qual o Tribunal de Justiça mineiro, ao confirmar a condenação, determinou a segregação.
+Outrossim, as ilegalidades apontadasnão foram objeto de análise no acórdão atacado.
+Ante o exposto, adotando o parecer ministerial,denego a ordem, restando prejudicada a análise da Petição n. 542.423/2019 (fls. 246/254).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIME DE ROUBO CIRCUNSTANCIADO. SENTENÇA CONDENATÓRIA. REGIME INICIAL SEMIABERTO. EXECUÇÃO PENAL. ALEGADO CONSTRANGIMENTO ILEGAL DECORRENTE DE EXECUÇÃO PROVISÓRIA EM SITUAÇÃO MAIS GRAVOSA. INOCORRÊNCIA. PACIENTE QUE SE ENCONTRA ACAUTELADO EM DECORRÊNCIA DE PRISÃO PROCESSUAL DECORRENTE DE FLAGRANTE. PARECER MINISTERIAL ADOTADO.
+Ordem denegada.
