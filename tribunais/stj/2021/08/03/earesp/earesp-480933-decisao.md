@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de embargos de divergência em agravo em recurso especial opostos por ROMÁRIO CHAMARRO DE MIRANDA - ESPÓLIO, contra acórdão proferido pela 4ª Turma deste Tribunal.
+Embargos de divergência opostos em: 04/12/2018.
+Distribuído ao gabinete em: 23/02/2021.
+Ação: reivindicatória cumulada com indenização por aferição de frutos, em fasede cumprimento de sentença, ajuizada por ROMÁRIO CHAMARRO DE MIRANDA - ESPÓLIO E IZIDRO MORAES DA SILVA em face de ELIANE BARBOSA DE SOUZA DEL NERO E ANTÔNIO CARLOS DEL NERO.
+Decisão interlocutória: deferiu o pedido de alteração do polo passivo da demanda para figurar como devedores o ESPÓLIO DE HELUÁ BASÍLIO BARBOZA, representado pela inventariante HEDILHA BASÍLIO GONÇALVES e por seus herdeiros, LINDALVA BARBOZA DE LORGA e seu cônjuge ANTÔNIO PAULO DE LORGA, bem como HELBÂNIO BARBOZA DE SOUZA e sua esposa ANA MARIA BARBEIRO BARBOSA DE SOUZA, estes últimos como sucessores de ANTÔNIO BARBOSA DE SOUZA.
+Decisão monocrática: negou provimento ao agravo de instrumento interposto por HELBÂNIO BARBOZA DE SOUZA E ANA MARIA BARBEIRO BARBOSA DE SOUZA.
+Acórdão: negou provimento ao agravo regimental interposto por HELBÂNIO BARBOZA DE SOUZA E ANA MARIA BARBEIRO BARBOSA DE SOUZA, nos termos da seguinte ementa:
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO - DECISÃO MONOCRÁTICA QUE NEGA PROVIMENTO AO RECURSO - CUMPRIMENTO DE SENTENÇA - VALIDADE DA SUBSTITUIÇÃO PROCESSUAL - EXECUTADOS QUE FORAM REINTEGRADOS NO FEITO APÓS DESISTÊNCIA RETRATADAS - POSSIBILIDADE - PRINCÍPIO DO DESFECHO ÚNICO - SATISFAÇÃO DO CRÉDITO - DEVEDORES QUE INTEGRARAM LITISCONSÓRCIO PASSIVO ULTERIOR NA DEMANDA PRINCIPAL - RECURSO CONHECIDO E NÃO PROVIDO.
+Mantém-se a decisão monocrática que negou provimento ao recurso de agravo de instrumento manejado contra o decisum que deferiu o pedido de substituição processual.
+Não existe nulidade na decisão monocrática do relator, pela aplicação do artigo 557, caput ou § 1º-A, do Código de Processo Civil, quando forem colacionadas as jurisprudências que dão suporte ao entendimento externado no decisum, mormente porque a submissão do agravo regimental ao órgão colegiado sana qualquer vício.
+É princípio assente no ordenamento jurídico vigente que o procedimento executório deve ter como único fim a satisfação do credor, razão pela qual é possível que este exerça a retratação do pedido de desistência realizado nos autos, uma vez que cabe a ele dispor da execução.
+Havendo validade na reinclusão dos executados anteriormente excluídos, é possível a substituição destes pelos seus sucessores, à luz dos artigos 43 e 1.060, II, do CPC.
+Ocorrendo a formação de litisconsórcio passivo necessário ulterior na demanda principal, conclui-se pela existência de coisa julgada material entre as partes daquele feito, não sendo possível falar-se que somente os réus originários é que devem responder o cumprimento de sentença.
+Recurso conhecido e não provido.
+Embargos de declaração: opostos por HELBÂNIO BARBOZA DE SOUZA E ANA MARIA BARBEIRO BARBOSA DE SOUZA, foram rejeitados.
+Recurso especial: interposto por HELBÂNIO BARBOZA DE SOUZA E ANA MARIA BARBEIRO BARBOSA DE SOUZA, alegam, em síntese, ofensa aos arts. 555 e 557 do CPC/73, sob o argumento de que o relator não poderia ter julgado monocraticamente o agravo de instrumento que deu origem ao recurso especial, por não se encaixar o caso dos autos em nenhuma hipótese prevista no citado dispositivo.
+Alegam, ainda, violação do art. 468 do CPC/73, sustentando, em síntese, que o falecido ANTONIO BARBOZA DE SOUZA, a quem sucederam na demanda, não foi réu na ação reivindicatória, ajuizada pelo recorrido apenas contra sua filha ELIANE BARBOSA e o marido desta, ANTONIO CARLOS, de modo que não podem agora seus herdeiros serem atingidos pelo cumprimento de sentença.
+Por fim, impugnam a reinclusão de seu pai ANTONIO BARBOZA DE SOUZA no polo passivo da demanda após o pedido de desistência expressamente manifestado pelo exequente em relação a este ter sido homologado por sentença transitada em julgado.
+Prévio juízo de admissibilidade: o TJ/MS inadmitiu o recurso especial na origem, dando azo à interposição do agravo.
+Decisão unipessoal: conheceu do agravo para negar provimento ao recurso especial.
+Embargos de declaração: opostos por HELBÂNIO BARBOZA DE SOUZA E ANA MARIA BARBEIRO BARBOSA DE SOUZA, foram acolhidos, para, em reconsideração, reconhecendo ofensa à coisa julgada constante do título executivo judicial, conhecer do agravo e dar provimento ao recurso especial para determinar a exclusão dos recorrentes do cumprimento de sentença.
+Acórdão da 4ª Turma: negou provimento ao agravo interno interposto por ROMÁRIO CHAMARRO DE MIRANDA - ESPÓLIO E IZIDRO MORAES DA SILVA, nos termos da seguinte ementa:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. VIOLAÇÃO DA COISA JULGADA. RECONHECIMENTO NA DECISÃO DOS EMBARGOS DECLARATÓRIOS. EFEITOS INFRINGENTES. POSSIBILIDADE E ADEQUAÇÃO. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte de Justiça, é possível a atribuição de efeitos infringentes aos embargos de declaração, em situações excepcionais, "para corrigir premissa equivocada no julgamento, bem como nos casos em que o acolhimento dos embargos tiver como consectário lógico a alteração da decisão" (AgRg no AREsp 622.677/SP, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 17/03/2016, DJe de 1º/04/2016).
+2. A questão central trazida no recurso especial dizia respeito à possibilidade de inclusão, por substituição processual, dos sucessores de AB de S e HBB no polo passivo de cumprimento de sentença proferida em ação reivindicatória.
+3. Da interpretação lógico-sistemática da fundamentação e da parte dispositiva contidas no título executivo judicial, verificou-se que não houve condenação expressa dos possuidores anteriores, AB de S e HBB, mas apenas dos possuidores sem justo título, reconhecidos como sendo tão somente EB de SDN e ACDN.
+4. Não podendo AB de S e HBB serem considerados partes legítimas para figurar no polo passivo da execução da sentença proveniente da ação reivindicatória, é indevida, diante da ofensa à imutabilidade da coisa julgada, a pretendida substituição processual por seus sucessores.
+5. Agravo interno a que se nega provimento.
+Embargos de declaração: opostos por ROMÁRIO CHAMARRO DE MIRANDA - ESPÓLIO E IZIDRO MORAES DA SILVA, foram rejeitados.
+Embargos de divergência: opostos por ROMÁRIO CHAMARRO DE MIRANDA - ESPÓLIO E IZIDRO MORAES DA SILVA, alegam que o acórdão recorrido acolheu os aclaratórios da parte adversa sem declarar a existência de um de seus vícios ensejadores, rediscutiu matéria que já havia sido julgada definitivamente, bem com deixou de aplicar o óbice da Súmula 7/STJ, divergindo de entendimento da Corte Especial e das 2ª e 3ª Turmas.
+Decisão unipessoal da Corte Especial: os embargos foram distribuídos inicialmente para a Corte Especial com o fim de analisar a divergência entre os julgados da Corte Especial e da 2ª Turma, ocasião em que o Relator, Ministro Napoleão Nunes Maia Filho, indeferiu liminarmente os embargos, ante a ausência de similitude fática entre os acórdãos confrontados.
+Acórdão da Corte Especial: negou provimento ao agravo interno interposto por ROMÁRIO CHAMARRO DE MIRANDA - ESPÓLIO E IZIDRO MORAES DA SILVA, nos termos da seguinte ementa:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISCUSSÃO QUANTO À EVENTUAL REJULGAMENTO DA LIDE EM SEDE DE EMBARGOS DECLARATÓRIOS. AUSÊNCIA DE SIMILITUDE ENTRE O ACÓRDÃO RECORRIDO E O PARADIGMA. AGRAVO INTERNO DO PARTICULAR A QUE SE NEGA PROVIMENTO.
+1. Observa-se que seriam incabíveis os presentes Embargos Infringentes, porquanto não se está a questionar matéria de mérito, mas, sim, procedimental, no tocante à alegação de impossibilidade de revisitação de tema em embargos de declaração e, ainda, da não aplicação da Súmula 7/STJ.
+2. Assim, não se encontram evidenciados, na espécie, os requisitos de admissibilidade dos Embargos de Divergência, porquanto a tese jurídica manifestada no acórdão embargado e no paradigma não abordam os mesmos fatos e questões jurídicas.
+3. Agravo Interno do Particular a que se nega provimento.
+Embargos de declaração: opostos por ROMÁRIO CHAMARRO DE MIRANDA - ESPÓLIO E IZIDRO MORAES DA SILVA, foram rejeitados.
+Na sequência, os autos foram distribuídos à 2ª Seção para a análise da divergência quanto ao precedente da 3ª Turma.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: CPC/2015.
+- Da inviabilidade de exame de regra técnica de conhecimento do recurso especial
+Conforme a reiterada jurisprudência desta Corte, em razão de sua excepcional natureza, os embargos de divergência não se prestam a discutir o erro ou o acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial. Nesse sentido, confiram-se, à guisa de exemplo: AgInt nos EDv nos EAREsp 949.973/SC, Corte Especial, DJe de 24/05/2019; AgInt nos EREsp 1.726.692/SP, Corte Especial, DJe de 27/05/2019 e AgInt nos EDcl nos EAREsp 717.860/SP, Corte Especial, DJe de 01/04/2019.
+Por isso, não merece guarida, na hipótese dos autos, a pretensão da parte embargante de discutir a aplicação de óbice ao conhecimento do recurso especial interposto por HELBÂNIO BARBOZA DE SOUZA E ANA MARIA BARBEIRO BARBOSA DE SOUZA, qual seja, a incidência da Súmula 7/STJ.
+Nesses termos, em conclusão, mostra-se manifestamente inviável o processamento dos presentes embargos de divergência quanto ao paradigma remanescente (AgInt no AREsp 963.166/PR).
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, com amparo nos arts. 932, III, do CPC/15 e 266-C do RISTJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA QUANTO ÀS REGRAS TÉCNICAS DE ADMISSIBILIDADE RECURSAL. EXAME. DESCABIMENTO.
+1. Os embargos de divergência têm por finalidade precípua a uniformização da jurisprudência interna do STJ quanto à interpretação da legislação federal, não servindo para discutir o erro ou acerto do acórdão embargado quanto à aplicação, ou não, de regra técnica de admissibilidade do recurso especial.
+2. Embargos de divergência indeferidos liminarmente.
