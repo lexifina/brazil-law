@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça italiana solicita quese proceda à citação/notificação de EMG DO BRASIL INDÚSTRIA E COMÉRCIO DE EQUIPAMENTOS METALÚRGICOS LTDA. de ação de pagamento, com audiência marcada para o dia 24 de fevereiro de 2022, conforme texto rogatório (fls. 31-37).
+A intimação prévia foi recebida conforme documento de fl.105.
+A interessada compareceu, representada por advogado devidamente constituído(fls. 81-82)e apresentou os seguintes pontos: a) a ciência com relação à intimação para comparecimento na audiência; b) o advogado constituído no Brasil não possui a habilitação para representar a empresa na Justiça italiana, razão pela qual informa que irá constituir advogado habilitado para tanto e informará ao Tribunal de Cremona; e c) que seja remarcada a audiência prevista para fevereiro de 2022 devido à pandemia de covid-19 (fls.75-76).
+O Ministério Público Federal, considerando o comparecimento espontâneo dainteressada, por advogado devidamente constituído,opinou pela devoluçãodo processo via autoridade central, já que cumprida a diligência rogada(fls. 108-109).
+É, no essencial, o relatório. Decido.
+De início, não obstante as alegações aduzidas a respeito da habilitação do advogado e o pedido de remarcação da audiência, estas dizemrespeito à causa, razão pela qual serão analisadas exclusivamente pelo Juízo rogante.
+Ressalte-se que, conforme disposto noart. 216-Q, § 2º, do RISTJ, no processo de concessão de exequatur, a defesasó poderá versar sobre os documentos, a inteligência da decisão e aobservância dos requisitos previstos no regimento.
+O objeto da presente carta rogatória não atenta contraa soberania nacional, a dignidade da pessoa humana e/ou a ordem pública,razão pela qual, com fundamento no art. 216-O, c/c o art. 216-P do RISTJ,concedo o exequatur.
+Na espécie, a interessada compareceu nos autos. A Corte Especial jádecidiu que o comparecimento espontâneo da parte interessada é suficientepara consumar o cumprimento da diligência de citação, sendo desnecessáriaa remessa à Justiça Federal (AgInt na CR n. 10.434/EX, relatora MinistraLaurita Vaz, Corte Especial, DJe de 15/12/2016).
+Diante do comparecimento da parte interessada, considero consumado o objeto dacomissão, sendo desnecessária a remessa dos autos à Justiça Federal, edetermino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ)após o trânsito em julgado, por intermédio da autoridadecentral competente.
+Publique- se. Intimem-se.
