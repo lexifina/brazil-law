@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado pelo Estado de Goiás, com base no art. 105, III, c, da CF, contra acórdão proferido pelo Tribunal de Justiça daquele Estado, assim ementado (fl. 183):
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DECADÊNCIA. AUSÊNCIA DE ARGUMENTAÇÃO NOVA. I. O prazo para se efetuar o lançamento é o previsto no art. 173, I, do CTN, ou seja, cinco anos contados do primeiro dia do exercício seguinte àquele em que o lançamento poderia ter sido efetuado. 2. Tratando-se de tributo sujeito a lançamento por homologação, cujo pagamento ocorreu de modo antecipado, o prazo de que dispõe o Fisco para constituir o crédito tributário é de cinco anos, contados a partir do fato gerador. II. Se a parte agravante não traz nenhum argumento suficiente para acarretar a modificação da linha de raciocínio adotada na decisão monocrática, impõe-se o desprovimento do recurso, porquanto interposto à míngua de elemento novo capaz de desconstituir o decisum. III. Recurso conhecido e desprovido.
+A parte recorrente aponta dissídio jurisprudencial, com julgado do STJ, acerca do art. 173, I, do CTN. Sustenta, em resumo, que, na hipótese, "Como o crédito tributário foi constituído pelo auto de infração lavrado em 30.06.1999, não há que se falar em decadência" (fl. 206), sendo certo que "a data da inscrição do crédito na dívida ativa (12/08/2005), não se confunde com a data da constituição do crédito" (fl. 205).
+Transcorreu in albis o prazo para contrarrazões (fl. 228).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que a decisão recorrida foi publicada na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário do STJ na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 - devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+O Tribunal de origem não se manifestou sobre a alegação de que, na hipótese, "o crédito tributário foi constituído pelo auto de infração lavrado em 30.06.1999" (fl. 206), sendo certo que "a data da inscrição do crédito na dívida ativa (12/08/2005), não se confunde com a data da constituição do crédito" (fl. 205), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. DISSÍDIO JURISPRUDENCIAL. NÃO CONFIGURAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento do dispositivo apontado como violado no recurso especial, incide o disposto na Súmula nº 282 do Supremo Tribunal Federal, aplicada por analogia.
+3. Consoante iterativa jurisprudência desta Corte, a falta de prequestionamento impede a admissão do recurso especial tanto pela alínea "a" quanto pela alínea "c" do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.723.763/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/03/2021, DJe 09/03/2021)
+AGRAVO INTERNO. TRIBUTÁRIO. PROCESSUAL CIVIL. CRÉDITO TRIBUTÁRIO. AÇÃO ANULATÓRIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. NÃO INTERPOSIÇÃO DE EMBARGOS. ÔNUS PROBATÓRIO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. PRESUNÇÃO DE LEGALIDADE E LEGITIMIDADE DO CRÉDITO TRIBUTÁRIO. ÔNUS DA PROVA. CONTRIBUINTE. SÚMULA 568/STJ. DISSÍDIO JURISPRUDENCIAL, PREJUDICIALIDADE.
+1. Verifica-se que a Corte de origem não analisou, nem sequer implicitamente, os arts. 112 do CTN, 389, I, do CPC e 324, § único, do CC. O Tribunal de origem apenas entendeu que o autor não se desincumbiu de seu ônus probatório nos termos do art. 333, I, do CPC. Logo, não foi cumprido o necessário e indispensável exame da questão pela decisão atacada, apto a viabilizar a pretensão recursal da recorrente. Assim, incide, no caso, o enunciado das Súmulas 282 e 356 do Excelso Supremo Tribunal Federal.
+ ..
+4. É entendimento assente nesta Corte de que a ausência de prequestionamento obsta o conhecimento do recurso também pela alínea "c" do permissivo constitucional, haja vista a impossibilidade de confronto dos acórdãos trazidos como paradigmas com tese não enfrentada pelo julgado recorrido.
+5. Não cabe ao STJ examinar na via especial, ainda que a título de prequestionamento, eventual violação de dispositivo constitucional, por ser de competência reservada pela Constituição da República ao Supremo Tribunal Federal.
+Agravo interno improvido.
+(AgInt no AREsp 894.280/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 2/8/2016, DJe 10/8/2016)
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. AUSÊNCIA. VERBETES SUMULARES 282/STF E 211/STJ. INCIDÊNCIA. DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE EXAME. AGRAVO NÃO PROVIDO.
+1. Para a abertura da via especial, requer-se o prequestionamento, ainda que implícito, da matéria infraconstitucional. A exigência tem como desiderato principal impedir a condução a este Superior Tribunal de questões federais não debatidas no Tribunal de origem.
+Súmulas 282/STF e 211/STJ.
+2. A impossibilidade de se conhecer do recurso especial pela alínea a do permissivo constitucional, em razão dos verbetes sumulares 282/STF e 211/STJ, prejudica o exame do alegado dissídio jurisprudencial. Nesse sentido: AgRg no Ag 754.211/RS, Segunda Turma, Rel. Min. ELIANA CALMON, DJ 28/6/06, e REsp 969.273/MG, Segunda Turma Rel. Min. CASTRO MEIRA, DJ 10/9/07.
+3. Agravo regimental não provido.
+(AgRg no AREsp 233.322/RS, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 13/11/2012, DJe 23/11/2012)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
