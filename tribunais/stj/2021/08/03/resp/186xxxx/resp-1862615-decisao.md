@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO.APOSENTADORIA POR INVALIDEZ.DANOS MATERIAIS.AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de recurso especial interposto porMARIA EVA ATT, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TJSC, assim ementado:
+RESPONSABILIDADE CIVIL DO ESTADO - SERVIDOR PÚBLICO - INCAPACIDADE RESULTANTE DO TRABALHO - OBRIGAÇÃO OBJETIVA - REVISÃO DA APOSENTADORIA POR INVALIDEZ CONCEDIDA COM PROVENTOS PROPORCIONAIS - DANOS MATERIAIS DEVIDOS(fls. 488).
+2. Os embargos de declaração opostos foram rejeitados (fls. 510/514).
+3. Nas razões do seurecurso especial (fls. 518/544), a parte recorrentesustenta, além de divergência jurisprudencial, violação dos arts.186, 927, 949 e 950 do Código Civil.Argumenta, para tanto: (a)o laudo pericial acostado aos autos é conclusivo no sentido da existência de incapacidade parcial que acomete a partehavendo redução da capacidade laborativa, portanto faz jus ao recebimento da pensão mensal; (b)o Município recorrido deve ser condenado ao pagamento de todas despesas que a parte teve e tiver em razão das doenças ocupacionais, bem como ser condenada ao pagamento da pensão mensal vitalícia, independente do recebimento de beneficio previdenciário.
+4. Devidamente intimada, a parte recorrida não apresentou as contrarrazões (fls. 550).O recurso especial foi admitido na origem(fls. 552/556).
+5. É o relatório.
+6. A irresignação não merece prospera.
+7.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. Verifico que os arts.186, 927, 949 e 950 do Código Civil não foramapreciados pelo tribunal de origem, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo tribunal de origem da matériaimpugnada, objetodorecurso excepcional,impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+9.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+10. Ante ao exposto, nega-se provimento ao recurso especial do particular.
+11. Publique-se.Intimações necessárias.
