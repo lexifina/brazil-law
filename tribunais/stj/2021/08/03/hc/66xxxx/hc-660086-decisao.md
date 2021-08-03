@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Ewerton Pereira de Jesus - condenado a uma pena total de 18 anos, 8 meses e 21 dias de reclusão -, em que se aponta como autoridade coatora a Quinta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que deu parcial provimento ao Agravo de Execução Penal n. 0010211-38.2020.8.26.0344(fls. 72/75).
+Narra-se que o paciente obteve a progressão ao regime semiaberto no Processon. 1014821-32.2020.8.26.0344 (Execução Criminal n. 791.680 - fls. 51/53). Irresignado, o Ministério Público recorreu, tendo a Corte estadual cassado a decisão do Juízo da Vara das Execuções Criminais da comarca de Marília/SP e determinado o retorno do sentenciado ao regime fechado, no qualaguardará pronta providência do Juízo da Vara de Execuções Criminais competente no sentido de mandar examiná-lo por equipe multidisciplinar, após o que a nova decisão se dará ensejo (Agravo de Execução Penal n. 0010211-38.2020.8.26.0344 - fls. 72/75).
+Sobreveio o presente writ, em que se alega, em resumo, que o ora paciente preenche os requisitos legais (objetivo e subjetivo) exigidos para a concessão da benesse.
+Ressalta-se, ademais, que flagrante e inconstitucional o v. acórdão do TRIBUNAL-COATOR que negou a progressão de regime pleiteada pelo PACIENTE em face de longa pena a cumprir e exigindo-lhe a realização de exame criminológico contrário ao que dispõe a orientação legal e jurisprudencial (fls. 14/15).
+Busca-se a concessão da ordem para que seja cassado o acórdão hostilizado erestabelecida a decisão de primeiro grau.
+Em sede de liminar, requer-se a sustação da submissão do paciente ao regime de pena mais rigoroso.
+Liminar indeferida (fls. 79/81).
+Prestadas informações (fls. 85/87 e 90/95), o Ministério Público Federal opinou pelo não conhecimento do writ.
+É o relatório.
+A questão posta em discussão diz respeito à ilegalidade na cassação do benefício de progressão de regime prisional pelo Tribunal a quo, com determinação para submissão do ora paciente a exame criminológico, para fins de aferição do requisito subjetivo.
+Aos motivos já explicitados por ocasião do exame do pleito liminar (fls. 79/81), trago a lume, diante da precisão dos argumentos utilizados pelo Subprocurador-Geral da República (Francisco Xavier Pinheiro Filho), a fundamentação delineada no parecer, que adoto como razões de decidir, na parte em que interessa (fls. 101/104- grifo nosso):
+ ..
+É cediço que a execução progressiva da pena, com a transferência para regime menos gravoso, deve observar, cumulativamente, os requisitos objetivo e subjetivo previstos no art. 112 da Lei nº 7.210/84. Não se exige, de plano, a realização do exame criminológico, bastando o atestado de bom comportamento carcerário.
+Entretanto, buscando verificar o preenchimento do requisito subjetivo à luz do caso concreto, o magistrado pode determinar a realização do exame criminológico. Com efeito, se as peculiaridades da causa assim o recomendarem, ao determiná-lo, o Juiz atende ao princípio da individualização da pena (art. 5º, inc. XLVI, da Constituição Federal).
+Nesta diretriz, confira-se o enunciado da Súmula 439 dessa Corte Superior de Justiça: Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada.
+E, ainda, os seguintes precedentes:
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. ROUBO MAJORADO. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO. POSSIBILIDADE (SÚMULA VINCULANTE N. 26/STF E SÚMULA 439/STJ). FUNDAMENTAÇÃO IDÔNEA. APENADO REINCIDENTE EM CRIME COMETIDO COM VIOLÊNCIA OU COM GRAVE AMEAÇA À PESSOA E HISTÓRICO DE INFRAÇÕES DISCIPLINARES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+1. A Lei n. 10.792/2003 alterou o art. 112 da Lei n. 7.210/1984, retirando a obrigatoriedade do exame criminológico para a concessão de benefícios da execução penal, tendo este Superior Tribunal e o colendo Supremo Tribunal Federal sumulado o entendimento de ser possível a determinação do aludido exame, desde que em decisão devidamente fundamentada (Súmula Vinculante 26/STF e Súmula 439/STJ).
+2. Caso em que o exame criminológico foi determinado com fundamento nas circunstâncias concretas do caso, consistentes no fato de o apenado ser reincidente em crime cometido com violência ou com grave ameaça à pessoa, e ostentar faltas disciplinares de natureza grave.
+3. Agravo regimental improvido. (g.n.)
+(AgRg no HC 579.921/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020)
+No caso em apreço, apontando elementos concretos, o Tribunal de origem determinou a realização de exame criminológico para posterior análise do pedido de progressão de regime aos seguintes termos:
+(..)
+2. Pesem, não obstante, os doutos fundamentos que vêm expostos na decisão monocrática, a que se somaram cuidadosas alegações contidas nas contrarrazões recursais, não merece subsistir a r. sentença agravada.
+O término de vivência carcerária está previsto para o longínquo ano de 2032 (fls. 12), sendo temerário permitir que, sem a coleta de alvitres qualificados, autor de quatro roubos bimajorados e receptação (fls. 13/4) permaneça cerca de onze anos nos regimes mais suaves de cumprimento de pena. O semiaberto é, desgraçadamente, propício a evasões, o que implica em analisar com muito rigor os pressupostos para a progressão. A experiência no trato das questões penitenciárias indica ser incontroverso que o estágio intermediário, na atualidade e segundo a política pública desenvolvida pelo órgão competente do Poder Executivo, praticamente não é dotado de vigilância, assemelhando-se, em tudo e por tudo, ao modelo teórico de regime ABERTO.
+3. Chega-se assim à conclusão de que Ewerton, protagonista de crimes de especial gravidade, deve ser melhor observado antes de galgar regime brando - até porque o penitente: i) praticou a derradeira infração (receptação) aos 01.08.2018, quando em gozo de livramento condicional que lhe havia sido deferido meses antes, em 14.01.2018 (fls. 13/5); ii) ostenta duas faltas disciplinares de natureza grave, consistentes em "DESRESPEITO ÀS ORDENS E AMEAÇA" e "DESOBEDIÊNCIA" (perpetradas nos dias 11.02.2011 e 19.09.2013).
+Nesse contexto, nada melhor para observá-lo, inclusive com anamnese e prognósticos clínicos, do que estudo por equipe interdisciplinar (g.n.) (fls. 74/75 e-STJ).
+Da leitura dos trechos supracitados, extrai-se que a determinação de realização do exame pericial para aferir o preenchimento do requisito subjetivo encontra-se devidamente fundamentada, em especial diante das faltas praticadas durante a execução de pena e da prática de novo crime quando estava em liberdade condicional.
+Inexiste, destarte, o alegado constrangimento ilegal.
+Demais disso, entendo que a presente via não é meio hábil para desconstituir a conclusão da instância ordinária no sentido de que é necessária a realização de exame criminológico para aferir o preenchimento do requisito subjetivo para fins de progressão ao regime semiaberto.
+Com efeito, é inviável chegar-se à conclusão diversa quanto à satisfação do requisito subjetivo previsto no art. 112 da Lei de Execução Penal sem, antes, proceder à análise aprofundada do conjunto fático-probatório, providência que não se coaduna com a natureza do habeas corpus.
+A propósito, já decidiu esse Superior Tribunal de Justiça:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. AUSÊNCIA. MAU COMPORTAMENTO CARCERÁRIO. FALTAS GRAVES. MOTIVAÇÃO SUFICIENTE. PROGRESSÃO DE REGIME. INTERRUPÇÃO DO PRAZO. POSSIBILIDADE. SÚMULA 441/STJ. REQUISITO SUBJETIVO. AUSÊNCIA DE CUMPRIMENTO. DECISÃO FUNDAMENTADA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO.
+(..)
+VII - Não se vislumbra qualquer ilegalidade ou arbitrariedade no v. acórdão impugnado, tendo em vista as peculiaridades do caso concreto que justificam o indeferimento da progressão do regime prisional em razão da ausência do cumprimento do requisito subjetivo pelo apenado.
+VIII - Esta Corte possui entendimento consolidado no sentido de ser inviável, na via estreita do habeas corpus, examinar se estão ou não presentes os requisitos subjetivos e objetivos para o livramento condicional e a progressão de regime prisional, pois demandaria dilação probatória aprofundada.
+Habeas Corpus não conhecido. (g.n.)
+(HC 337.593/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 01/03/2016, DJe 11/03/2016)
+ ..
+De se mencionar, ainda, sobre o tema, os seguintes precedentes: AgRg no EDcl no HC n. 673.334/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 28/6/2021; HC n. 614.591/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/5/2021; AgRg no HC n. 646.741/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/3/2021; e AgRg no HC n. 645.621/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 8/3/2021.
+Por tais razões, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CASSAÇÃO DO BENEFÍCIO PELO TRIBUNAL A QUO. DETERMINAÇÃO DE SUBMISSÃO PRÉVIA DO APENADO A EXAME CRIMINOLÓGICO. HISTÓRICO EXECUCIONAL DESABONADOR (COMETIMENTO DE FALTAS GRAVES E COMETIMENTO DE NOVA INFRAÇÃO QUANDO EM GOZO DE LIVRAMENTO CONDICIONAL). FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES DESTA CORTE SUPERIOR. CONSTRANGIMENTO ILEGAL AUSENTE.
+Ordem denegada.
