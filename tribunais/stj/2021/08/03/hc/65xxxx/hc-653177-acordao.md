@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, denegar o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+HABEAS CORPUS. EXTORSÃO, ASSOCIAÇÃO CRIMINOSA, TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO, PORTE DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. REANÁLISE DE OFÍCIO DA PRISÃO PREVENTIVA SENTENÇA. ART. 387, § 1º, DO CPP. EXCESSO DE PRAZO. VIOLAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. ELEVADA REPRIMENDA.
+1.A exigência de revisão dos fundamentos da prisão preventiva do art. 387, § 1º, do Código de Processo Penal não se aplica ao julgamento da apelação, sendo a sentença o marco final de exigência da revisão de ofício da constrição.
+2.O tema está regido pelas normas atinentes aos recursos. Submete-se, por exemplo, ao efeito devolutivo, que determina a substituição do ato recorrido pelo julgamento de mérito do órgão a quo, que defere ou indefere o pleito.Eventual defeito de fundamentação no julgamento da apelação enseja provocação na via recursal adequada para que seja refeito, não acarretando a desconstituição da prisãoou de qualquer outro ponto da sentença.
+3.A jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação. Precedentes.
+4. Ordem denegada.
+RELATÓRIO
+Trata-se de habeas corpus impetrado em favor de Aloizio Ferreira da Silva contra ato coator proferido pela Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro, que, nos autos do processo n.0003943-89.2018.8.19.0066, deu parcial provimento ao apelo defensivo para redimensionar a pena a18anos, 4meses e 15dias de reclusão, em regime fechado, e 1.379 dias-multa, à razão mínima, pela prática de condutas descritas nos arts. 158, § 1º, 288, parágrafoúnico, ambos do Código Penal,33 e 35 da Lei n. 11.343/2006 e 14 e 16 da Lei n. 10.826/2003.
+O impetrante alega, em síntese, que o paciente é primário, sem condenações anteriores e encontra-se preso desde fevereiro de 2018.
+Sustenta que a prisão do paciente foi mantida por fundamentos genéricos e sem contemporaneidade, o que é vedado pela jurisprudência do Superior Tribunal de Justiça.
+Argumenta que o decreto de prisão vigente é o acórdão, em razão do efeito substitutivo do recurso, tornando a prisão ilegal.
+Pede a concessão da ordem para revogar a prisão (fls. 3/6).
+Liminar indeferida às fls. 163/164.
+Informações prestadas pela origem às fls. 167/182.
+O Ministério Público Federal opina pela denegação da ordem, conforme resumem os termos da ementa do parecer (fl. 186):
+PROCESSO PENAL. HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. EXTORSÃO. PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA FUNDAMENTADA PARA A GARANTIA DA ORDEM PÚBLICA.
+1. A prisão preventiva do paciente está devidamente fundamentada nos requisitos autorizadores, previstos no art. 312 do CPP, diante da gravidade concreta do delito e visto ainda ser necessária para a garantia da ordem pública.
+2. O acórdão do Tribunal de Justiça restou devidamente fundamentado no momento que manteve a prisão preventiva do paciente, após ter concluído ainda estarem presentes os requisitos autorizadores da prisão e que não teria havido nenhum fato novo que tivesse alterado a situação do paciente.- Parecer pela denegação do habeas corpus.
+É o relatório.
+EMENTA
+HABEAS CORPUS. EXTORSÃO, ASSOCIAÇÃO CRIMINOSA, TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO, PORTE DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. REANÁLISE DE OFÍCIO DA PRISÃO PREVENTIVA SENTENÇA. ART. 387, § 1º, DO CPP. EXCESSO DE PRAZO. VIOLAÇÃO DO PRINCÍPIO DA RAZOABILIDADE. ELEVADA REPRIMENDA.
+1.A exigência de revisão dos fundamentos da prisão preventiva do art. 387, § 1º, do Código de Processo Penal não se aplica ao julgamento da apelação, sendo a sentença o marco final de exigência da revisão de ofício da constrição.
+2.O tema está regido pelas normas atinentes aos recursos. Submete-se, por exemplo, ao efeito devolutivo, que determina a substituição do ato recorrido pelo julgamento de mérito do órgão a quo, que defere ou indefere o pleito.Eventual defeito de fundamentação no julgamento da apelação enseja provocação na via recursal adequada para que seja refeito, não acarretando a desconstituição da prisãoou de qualquer outro ponto da sentença.
+3.A jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação. Precedentes.
+4. Ordem denegada.
+VOTO
+A impetração preventiva pretende a revogação da prisão preventiva, tendo em vista a ausência de fundamentação do acórdão que julgou aapelação.
+Em análise mais aprofundada, entendo não prosperar o apelo.
+A prisão preventiva foi mantida por ocasião da sentença condenatória aos seguintes fundamentos (fl. 106):
+Da prisão cautelar: O acusado foi preso em flagrante. Finda a instrução processual e prolatada sentença condenatória, mostra-se inconteste a necessidade da manutenção da prisão cautelar do acusado, visto que a prova coligida aos autos, além de confirmar a ocorrência dos crimes relatados na exordial acusatória, evidenciam o abalo concreto à ordem pública. Nesse viés, os mesmos elementos de prova que permitiram o decreto condenatório, desvendam de maneira concreta o risco à ordem pública e garantia da aplicação da lei penal, consubstanciado na manutenção do acusado em liberdade. Por fim, entendo não ser possível substituir a prisão preventiva por quaisquer outras cautelares mencionadas no artigo 319 do CPP, por não serem estas adequadas para o caso em tela ( art. 282 do CPP). Por tais fundamentos, estando presentes osrequisitos previstos no artigo 312 do CPP, não concedo ao sentenciado o direito de recorrer em liberdade, uma vez que persistem os motivos ensejadores da prisão preventiva, ora reforçados por essa sentença condenatória.
+Provocado na via da apelação, o Tribunal local dispôs o seguinte (fls. 139 e 159):
+A Defesa de AISLAN e ALOIZIO persegue a absolvição dos apelantes com base no artigo 386, incisos I, II, II e IV ou, subsidiariamente, com fulcro no artigo 386, incisos V e VII do mesmo diploma legal.
+Já a Defesa de VITOR objetiva a absolvição do apelante com relação aos crimes inscritos no artigo 158, parágrafo 1º, e no artigo 288, parágrafo único, ambos do Código Penal, e no artigo 35 da Lei nº 11.343/2006 por alegada inexistência de provas. Quanto aos delitos inscritos nos artigos 14 e 16, da Lei nº 10.826/2003, objetiva a Defesa a absolvição do réu por suposta ausência de materialidade, alegando-se que o laudo técnico que embasa as condenações é imprestável e que não foi encontrada em poder do réu nenhuma arma. Subsidiariamente, objetiva o reconhecimento da causa especial de diminuição prevista no artigo 33, parágrafo 4º, da Lei nº 11.343/2003 e a revogação da prisão cautelar.
+ ..
+Por fim, mostra-se completamente desarrazoada a concessão de liberdade aos réus, que permaneceram presos durante toda a instrução e tiveram o direito de apelar em liberdade negado como forma de garantir a ordem pública e a aplicação da lei penal, sobretudo com a confirmação da sentença nesta instância revisora.
+Permanecem presentes os pressupostos do artigo 312 do Código de Processo Penal.
+O primeiro ponto a ser observado é que a exigência de revisãodos fundamentos da prisão preventivado art. 387, § 1º, do Código de Processo Penal não se aplica ao julgamento da apelação, sendo o marco final de exigência da revisão de ofício da constrição (AgRg no HC n. 601.151/PB, Ministro Reynaldo Soares daFonseca,QuintaTurma, DJe 23/11/2020).
+Isso posto, verifica-se que o tema está regido pelas normas atinentes aos recursos. Submete-se, por exemplo, ao efeito devolutivo, que determina a substituição do ato recorrido pelo julgamento de mérito do órgão a quo, que defere ou indefere o pleito.
+Eventual defeito de fundamentaçãono julgamento da apelação enseja provocação na via recursal adequada para que seja refeito, não acarretando a desconstituição da prisão, ou de qualquer outro ponto da sentença.
+No caso, a defesa de um corréu suscitou a revisão como ponto do recurso de apelação. Tendo em conta que o Juízo sentenciante manteve a prisão em capítulos autônomos da sentença, não necessariamente haveria extensão da decisão nesse ponto.
+Aindaassim, considerando tratar-se de uma mesma fundamentação (vide fls. 81/82, 93, 106), eventual inadequação não afasta a prisão preventiva, mas, na via adequada, em caso de procedência, pode ensejar o rejulgamento da questão.
+Além, disso, quanto ao alegado excesso de prazo,convém lembrar, no entanto, que a jurisprudência do Superior Tribunal de Justiça é firme em assinalar que a elevada reprimenda estabelecida na sentença condenatória deve ser considerada para fins de análise de suposto excesso de prazo no julgamento da apelação.
+Sobre o tema, por exemplo, estes julgados: AgRg no HC n. 549.040/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2020; e HC n. 414.264/MG, Ministro Reynaldo Soares daFonseca, Quinta Turma, DJe 1º/12/2017.
+Sobre o paciente, paira condenação à pena de mais de 18 anos de reclusão. Assim, embora sentenciado em 2018, a apelação já foi julgada em março de 2021, estando o feito aguardando o trâmite dos eventuais recursos extraordinários.
+Por fim, a questão da contemporaneidade não foi objeto de exame no acórdão impugnado, não havendo como instaurar tal discussão no âmbito deste Tribunal Superior.
+Ante o exposto, denego a ordem
