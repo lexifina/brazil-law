@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gabriela Souza Marcelino, no qual se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n. 1501344-60.2020.8.26.0318 - fls. 19/28).
+Colhe-se dos autos que o Juízo de Direito da Vara Criminal da comarca de Leme/SP condenou a ora paciente pelo crime de trafico de drogasà pena de 6 anos e 9 meses de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 670 dias-multa (fls. 12/18).
+O Tribunal de origem, por sua vez, deu parcial provimento à apelação interposta pela defesa, a fim de reduzir a reprimenda para 6 anos de reclusão, além do pagamento de 600 dias-multa, mantidas as demais cominações dasentença.
+Pretende a defesa, em suma, a absolvição ou a desclassificação para a figura prevista no art. 28 da Lei de Drogas, porquanto as provas constantes dos autos indicariam que a ré estava no local do flagrante na condição de usuária. Em tese subsidiária, pretende a aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, bem como a fixação de regime menos gravoso.
+Liminar indeferida (fls. 31/32), informações prestadas (fls. 35/47), o Ministério Público Federal opinou pelo não conhecimento da ordem, por meio de parecer proferido pelo Subprocurador-Geral da República Nívio de Freitas Silva Filho, assim ementado (fl. 49):
+HABEAS CORPUS. TRÁFICO DE DROGAS. OS REQUERIMENTOS DE ABSOLVIÇÃO E DESCLASSIFICAÇÃO PARA O DELITO DO ART. 28 DALEI 11.343/06 DEMANDAM O REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA, PROVIDÊNCIA INCOMPATÍVEL COM A VIA CÉLERE DO WRIT. O PLEITO DE CONCESSÃO DO TRÁFICO PRIVILEGIADO FOI DEVIDAMENTE OBSTADO ANTE A REINCIDÊNCIA ESPECÍFICA DA ORA PACIENTE. POR DERRADEIRO, O REGIME INICIAL DE CUMPRIMENTO DE PENA MAIS GRAVOSO É ADEQUADO ANTE A REINCIDÊNCIA DA PACIENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER PELO NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+Inicialmente, observo que o presente writ é substitutivo de revisão criminal, porquanto impetrado contra acórdão proferido no âmbito de apelação criminal, já transitado em julgado, de acordo com as informações prestadas pelo Tribunal de origem (fl. 35).
+Ora, nos termos da jurisprudência desta Corte, se o habeas corpus foi impetrado contra acórdão do Tribunal de Justiça  ..  transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido (HC n. 288.978/SP, da minha relatoria, rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Ademais, não há constrangimento ilegal a ser sanado.
+Com efeito, a pretensão de desclassificação do delito do art. 33, caput, da Lei n. 11.343/2006 para o delito do art. 28 da Lei n. 11.343/2006 não pode ser apreciada por este Tribunal Superior, na via estreita do habeas corpus, por demandar o exame aprofundado do conjunto fático-probatório dos autos (AgRg no HC n. 667.338/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/06/2021).
+Pelos mesmos motivos, inviável a análise da autoria delitiva.
+Quanto ao mais, em razão da reincidência da paciente, correta a negativa de aplicação da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, bem como a fixação do regime fechado para o inicio do cumprimento da reprimenda.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. ACÓRDÃO DA APELAÇÃO JÁ TRANSITADO EMJULGADO. WRITSUCEDÂNEO DE REVISÃO CRIMINAL. NÃOCONHECIMENTO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ não conhecido.
