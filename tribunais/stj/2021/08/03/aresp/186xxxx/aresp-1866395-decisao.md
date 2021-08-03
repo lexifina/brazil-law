@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por SONAR SERVIÇOS E FRANQUIAS LTDA., contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/11/2020.
+Concluso ao gabinete em: 07/07/2021.
+Ação: cobrança, ajuizada por SONAR SERVIÇOS E FRANQUIAS LTDA., em face de GLERSY ALIMENTOS LTDA., INAIA REIS FIGUEIREDO BORGES e GUSTAVO DE CASTRO BORGES.
+Sentença: acolheu a preliminar suscitada por INAIA REIS FIGUEIREDO BORGES e julgou extinto o processo, sem resolução de mérito, nos termos do art. 485, VII, do Código de Processo Civil e, em razão da sucumbência, condenou GLERSY ALIMENTOS LTDA. ao pagamento das custas e dos honorários, estes fixados em R$ 2.000,00, bem como condenou SONAR SERVIÇOS E FRANQUIAS LTDA. ao pagamento das custas e de honorários, estes fixados em R$ 3.000,00.
+Acórdão: negou provimento à Apelação interposta pela agravante e deu provimento à Apelação interposta por CAMARGO SILVA, DIAS DE SOUZA ADVOGADOS, para reformar a sentença no tocante aos ônus sucumbenciais, nos termos da seguinte ementa:
+"Direito Processual Civil. Ação de cobrança. Ação de rescisão contratual. Conexão. Contrato de franquia. Compromisso arbitral. Extinção sem resolução do mérito. Honorários advocatícios de sucumbência. Parâmetro legal. Valor da causa. Sentença parcialmente reformada.
+1. A existência de expressa convenção em contrato de franquia de que eventuais litígios seriam dirimidos por meio de arbitragem impõe o reconhecimento de que é do juízo arbitral a atribuição para a resolução do conflito de interesses instaurado, com precedência em relação ao Poder Judiciário, ainda que ambas as partes tenham promovido ação judicial.
+2. Por força legal, tanto as questões relativas ao descumprimento das cláusulas contratuais, bem como a questão da invalidade ou ineficácia da convenção ou da cláusula compromissária deverão ser avaliadas pelo árbitro, consoante o Art. 8º, parágrafo único, da Lei nº 9.307/1996.
+3. A conexão é urna das formas de modificação da competência e, uma vez reconhecida, leva ao julgamento único, conforme determina o §1º do Art. 55 do CPC. 3.1. No caso, onde foi suscitada exceção arbitral em um dos processos conexos, a consequência processual é a extinção de ambos os feitos, visto que a questão prejudicial obsta o julgamento de mérito de ambas as demandas.
+4. Mantida a sentença na parte em que acolhe a prejudicial de existência de convenção de arbitragem e extingue as ações conexas, com amparo no Art. 485, inc. VII, do CPC.
+5. A nova ordem processual civil estabelece que os honorários advocatícios devam ser fixados entre o mínimo de dez e o máximo de vinte por cento sobre o valor da condenação, do proveito econômico obtido ou, não sendo possível mensurá-lo, sobre o valor atualizado da causa, de acordo com o §2º do Art. 85 do CPC. Somente quanto o proveito econômico é inestimável ou irrisório, ou quando o valor da causa é muito baixo, é admissível o uso da equidade para a fixação da verba honorária.
+6. Observado o trabalho dos causídicos e o trâmite da demanda, que prescindiu a dilação probatória, são fixados os honorários advocatícios de sucumbência em 10% (dez por cento) sobre o valor da causa.
+7. Dada à sucumbência recursal de SONAR SERVIÇOS E FRANQUIAS S.A., majoro os honorários advocatícios recursais no montante de 10% (dez por cento) com acréscimo de 0,1% (zero vírgula um por cento) sobre o valor atualizado da causa, com suporte no Art. 85, § 11, do CPC.
+8. Apelo de SONAR SERVIÇOS E FRANQUIAS S.A. não provido. Provido o apelo de CAMARGO SILVA, DIAS DE SOUZA ADVOGADOS para reformar em parte a sentença e condenar GLERSY ALIMENTOS LTDA. ao pagamento de honorários advocatícios em favor do ora Apelante no importe de 10% (dez por cento) sobre o valor atualizado da causa." (e-STJ fl. 542/543)
+Embargos de Declaração: opostos, pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 54, 55, § 1º, 3º, 58, 59, 337, § 6º, CPC/15. Sustenta que, com a propositura de uma ação por parte da recorrida e de outra ação por parte da recorrente, ambas renunciaram à via arbitral para dirimir os conflitos decorrentes do contrato de franquia, bem como que a Corte local ignorou a prevenção, a conexão e a prorrogação da competência, conforme previsto na legislação processual.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pela agravante não demonstram como o acórdão recorrido violou os arts. 54, 55, § 1º, 3º, 58, 59, 337, § 6º, CPC/15, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "Depreende-se do anexo III do contrato de franquia entabulado que as partes convencionaram que qualquer controvérsia, inclusive com relação à existência, validade ou interpretação do instrumento, seria resolvida através de arbitragem, mediante árbitro escolhido de conformidade com as regras previstas pelo Conselho Arbitral do Estado de São Paulo (fl. 71 dos autos n. 2014.01.1.048481-4)", bem como que "as duas ações em julgamento têm como causa de pedir o mesmo contrato, o que impõe o reconhecimento da conexão e a reunião dos feitos no mesmo juízo, para julgamento simultâneo, evitando-se, assim, dois procedimentos instrutórios distintos e o risco de decisões conflitantes", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% (dez por cento) com acréscimo de 0,1% (zero vírgula um por cento) sobre o valor atualizado da causa (e-STJ fls. 556) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.
+1. Ação de cobrança.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+4. Agravo conhecido. Recurso especial não conhecido.
