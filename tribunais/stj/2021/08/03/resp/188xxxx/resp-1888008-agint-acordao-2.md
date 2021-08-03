@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1 A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+Trata-se de agravo interno (fls. 1152-1169) interposto contra decisão assim ementada (fl. 1127):
+TRIBUTÁRIO. RECURSO ESPECIAL. ISS. LC 116/03. PRODUÇÃO DE FITAS E FILMES SOB ENCOMENDA. NÃO INCIDÊNCIA, EM FACE DE VETO DO ITEM 13.01 DA LISTA QUE PREVIA A TRIBUTAÇÃO DESSE SERVIÇO. INTERPRETAÇÃO EXTENSIVA PARA ENQUADRAMENTO COMO ATIVIDADE DE CINEMATOGRAFIA, PREVISTA NO ITEM 13.03. IMPOSSIBILIDADE. ATIVIDADES QUE, EMBORA RELACIONADAS, NÃO CORRESPONDEM À MESMA OBRIGAÇÃO DE FAZER. RECURSO ESPECIAL NÃO PROVIDO.
+O agravante alega que "as associadas da Autora  ..  continuaram a se submeter à tributação pelo código 17.06 caso configurada a hipótese de incidência, dado que os serviços de elaboração de filmes publicitários não se confundem com Produção, gravação, edição, legendagem e distribuição de filmes, videotapes, discos, fitas cassete, compact disc, digital video disc e congêneres", e que "não se pode definir aprioristicamente se as associadas da Autora exercem ou não atividade de Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres" (fl. 1168).
+Pede a reforma da decisão monocrática que negou provimento ao Recurso Especial da Municipalidade, para julgar integralmente improcedente a demanda.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1 A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+Além da manifestação do inconformismo, inerente ao ato de irresignação, ao agravante se impõe o ônus de se contrapor especificamente, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade - o que não ocorreu no caso dos autos.
+A decisão agravada, no que importa ao conteúdo do agravo interno, possui a seguinte fundamentação (fl. 1128):
+A decisão recorrida, no que diz respeito à ilegalidade do enquadramento da produção e gravação de filmes e vídeos no disposto no item 13.03 da lista de serviços anexa à LC 116/2003, está em conformidade com a jurisprudência desta Corte, que entende incabível classificar tal atividade como cinematografia mediante interpretação extensiva.
+Neste sentido:
+TRIBUTÁRIO. RECURSO ESPECIAL. ISS. LC 116/03. PRODUÇÃO DE FITAS E FILMES SOB ENCOMENDA. NÃO INCIDÊNCIA, EM FACE DE VETO DO ITEM 13.01 DA LISTA QUE PREVIA A TRIBUTAÇÃO DESSE SERVIÇO. INTERPRETAÇÃO EXTENSIVA PARA ENQUADRAMENTO COMO ATIVIDADE DE CINEMATOGRAFIA, PREVISTA NO ITEM 13.03. IMPOSSIBILIDADE. ATIVIDADES QUE, EMBORA RELACIONADAS, NÃO CORRESPONDEM À MESMA OBRIGAÇÃO DE FAZER.
+1. Recurso especial que discute a incidência do ISS sobre a atividade de produção de filmes realizados sob encomenda à luz da LC 116/03. O acórdão recorrido, embora tenha afastado a incidência do tributo em face do item 13.01 (que previa expressamente tal atividade, mas foi vetado pela Presidência da República), manteve a tributação, mediante interpretação extensiva, com base no conceito de cinematografia, atividade prevista no item 13.03.
+2. A partir da vigência da Lei Complementar 116/03, em face de veto presidencial em relação ao item 13.01, não mais existe previsão legal que ampare a incidência do ISS sobre a atividade de produção, gravação e distribuição de filmes, seja destinada ao comércio em geral ou ao atendimento de encomenda específica de terceiro, até mesmo porque o item vetado não fazia tal distinção.
+3. Ademais, não é possível, para fins de tributação, enquadrar a atividade em questão em hipótese diversa, de cinematografia, pois: i) "Existindo veto presidencial quanto à inclusão de serviço na Lista de Serviços Anexa ao Decreto-lei 406/68, com redação da Lei Complementar 56/87, é vedada a utilização da interpretação extensiva" (REsp 1.027.267/ES, Rel. Ministra Eliana Calmon, Segunda Turma, DJe 29/04/2009);ii) Historicamente, a cinematografia já estava contida na lista anexa ao DL 406/68 (item 65) e nem por isso justificava a incidência do tributo sobre a gravação (produção) e distribuição de filmes, que estava amparada em hipótese autônoma (item 63);iii) a atividade de cinematografia não equivale à produção de filmes. A produção cinematográfica é uma atividade mais ampla que compreende, entre outras, o planejamento do filme a ser produzido, a contratação de elenco, a locação de espaços para filmagem e, é claro, a própria cinematografia.
+4. Afasta-se, portanto, a incidência do ISS sobre a atividade exercida pela empresa recorrente.
+5. Recurso especial provido. (REsp 1308628/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 26/06/2012, DJe 02/08/2012)
+TRIBUTÁRIO. IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA. PRODUÇÃO DE VÍDEOS POR ENCOMENDA. VETO PRESIDENCIAL. INTERPRETAÇÃO EXTENSIVA. PROIBIÇÃO.
+1. O item 13.03 da lista anexa à LC n. 116/2003 não autoriza a tributação pelo ISSQN do serviço de produção de filmes/vídeos por encomenda, porquanto essa atividade não se equipara aos serviços de cinematografia.
+2. Não é adequada a interpretação extensiva de item da referida lista, tendo em vista a existência de veto presidencial ao item 13.01, referente especificamente à "produção, gravação, edição, legendagem e distribuição de filmes, videotapes, discos, fitas cassete, compact disc, digital video disc e congêneres", de modo que não mais é adequado o raciocínio segundo o qual a encomenda do serviço de produção de vídeos atrairia a incidência do ISSQN (em vez do ICMS).
+3. Ressalvada a situação em que o próprio veto é objeto de questionamento judicial, haveria atuação indevida do Poder Judiciário caso se decidisse pela incidência tributária em hipótese vetada pelo Presidente da República.
+4. Caso em que o Tribunal de Justiça procedeu à interpretação extensiva de dispositivo que não a permite, porquanto, vetada a hipótese de incidência, o enquadramento do serviço correlato em outro item equivaleria à derrubada do veto, competência exclusiva do Congresso Nacional, o qual, caso assim entendesse, deveria ter agido em tempo próprio.
+5. Agravo interno desprovido. (AgInt no REsp 1627818/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 28/03/2017, DJe 06/04/2017)
+Na espécie, o agravante, cingindo-se a alegações genéricas, apenas reprisa a tese recursal, acrescentando que "não se pode definir aprioristicamente se as associadas da Autora exercem ou não atividade de Fotografia e cinematografia, inclusive revelação, ampliação, cópia, reprodução, trucagem e congêneres". Tal alegação, todavia, em nada se relaciona com o decidido, no sentido da mera declaração de ilegalidade do enquadramento da produção e gravação de filmes e vídeos no disposto no item 13.03 da lista de serviços anexa à LC 116/2003.
+A falta de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso incidindo o óbice da Súmula 182/STJ.
+Nesse sentido, confira-se entendimento da Corte Especial:
+AGRAVO INTERNO EM PEDIDO DE RECONSIDERAÇÃO EM EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO EM EMBARGOS DE DIVERGÊNCIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. RECURSO MANIFESTAMENTE INADMISSÍVEL E PROTELATÓRIO. APLICAÇÃO DE MULTA. 1. Nos termos do art. 1021, § 1º, do CPC e da Súmula 182/STJ, é inviável o agravo interno que não impugna especificamente todos os fundamentos da decisão agravada. 2. Agravo interno não provido, com aplicação de multa. (AgInt no RCD nos EDcl no AgInt nos EAREsp 913.041/MG, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 16/5/2018, DJe 23/5/2018)
+Ante o exposto, não conheço do agravo interno.
+É como voto.
