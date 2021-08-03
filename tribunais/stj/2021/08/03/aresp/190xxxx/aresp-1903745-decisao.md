@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial interposto (art. 105, III, "a", da Constituição da República) contra acórdão assim ementado (fl. 356, e-STJ):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO E PREVIDENCIÁRIO. SERVIDOR APOSENTADO QUE PRETENDE EQUIPARAÇÃO DE PROVENTOS COM A REMUNERAÇÃO DE SERVIDORES EM ATIVIDADE LABORAL. SENTENÇA DE PROCEDÊNCIA. HIPÓTESE DOS AUTOS QUE SE HARMONIZA COM O ARTIGO 40, § 8º, DA CONSTITUIÇÃO FEDERAL, ANTES DA EC 47/05, QUE ASSEGURAVA A PARIDADE DE TRATAMENTO ENTRE OS SERVIDORES DA ATIVA E OS APOSENTADOS, COM RELAÇÃO A QUAISQUER BENEFÍCIOS OU VANTAGENS, POSTERIORMENTE CONCEDIDOS AOS SERVIDORES EM ATIVIDADE, INCLUSIVE QUANDO DECORRENTES DA TRANSFORMAÇÃO OU RECLASSIFICAÇÃO DO CARGO OU FUNÇÃO EM QUE SE DEU A APOSENTADORIA OU QUE SERVIU DE REFERÊNCIA PARA A CONCESSÃO DA PENSÃO, NA FORMA DA LEI. A FIXAÇÃO E O AUMENTO DE VENCIMENTOS DOS SERVIDORES PÚBLICOS DEPENDE DE LEI ESPECÍFICA, OBSERVADA A COMPETÊNCIA CONSTITUCIONAL PARA A INICIATIVA PRIVATIVA DE CADA CASO (ART. 37, X, CF), NÃO CABENDO AO PODER JUDICIÁRIO, QUE NÃO TEM FUNÇÃO LEGISLATIVA, AUMENTAR VENCIMENTOS DOS SERVIDORES PÚBLICOS, SOB FUNDAMENTO DE ISONOMIA, PORQUANTO, SE ASSIM AGIR , ESTARÁ VIOLANDO OS PRINCÍPIOS CONSTITUCIONAIS DA SEPARAÇÃO DE PODERES E DA LEGALIDADE. EMBORA O AUTOR DA AÇÃO TENHA DIREITO A PARIDADE, RESTOU COMPROVADO QUE PERTENCE AOS QUADROS DO PODER EXECUTIVO DO MUNICÍPIO DE NOVA IGUAÇU, NÃO PODENDO REQUERER SUA EQUIPARAÇÃO SALARIAL AOS FUNCIONÁRIOS DO PODER LEGISLATIVO DO MESMO MUNICÍPIO DIANTE DA INEXISTÊNCIA DE PREVISÃO LEGAL. RECURSO AO QUAL SE DA PARCIAL PROVIMENTO.
+Os Embargos de Declaração foram rejeitados (fls. 389-394, e-STJ).
+A parte agravante, nas razões do Recurso Especial, alega que houve violação dos arts. 535 e 269, IV, do CPC/1973. Afirma, em síntese, que " ..  certo da impossibilidade de equiparação ao cargo ocupado pelo Embargado, com os dos servidores da Câmara, bem como ainda, corroborado através de documentação por hora já constantes aos autos às fls. 71/72, informando que os valores pagos ao servidor inativo, encontram-se nos mesmos "moldes" dos ativos. Pugnamos por conseguinte, que a presente ação seja declarada improcedente, por não encontrar nenhuma diferença a ser apurada em favor do Autor, devendo ainda, o segurado, arcar com todas as despesas judiciais arroladas em sentença" (fl. 405, e-STJ).
+Contrarrazões às fls. 412-415, e-STJ.
+Contraminuta às fls. 447-450, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste gabinete em 19/7/2021.
+A irresignação não merece prosperar.
+Inicialmente, destaco que a via estreita do Recurso Especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF. No caso em tela, o recorrente limita-se a realizar alegações genéricas, sem indicar como tais fundamentos se conectam aos dispositivos legais mencionados. Nessa esteira:
+AGRAVO REGIMENTAL. PROCESSO CIVIL. TAXA DE EXPEDIÇÃO. IMPORTAÇÃO. INCONSTITUCIONALIDADE DA LEI N. 2.145/33. COMPENSAÇÃO. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À PROPOSITURA DA AÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. AUSÊNCIA DE IMPUGNAÇÃO DE FUNDAMENTOS NODAIS DO ARESTO RECORRIDO. SÚMULAS 283 E 284 DO STF. MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+(..)
+3. Incide a Súmula 284 do STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."), acarretando a inadmissibilidade do recurso especial, quando os motivos que embasaram a alegação de violação não guardam pertinência com o disposto no dispositivo legal indicado (Precedentes: REsp 441.800/CE, 5ª T., Rel. Min. Jorge Scartezzini, DJ 06/05/2004; AGREsp 363.511/PE, 2ª T., Rel. Min. Paulo Medina, DJ 04/11/2002).
+(..)
+7. Agravo Regimental desprovido.
+(AgRg no REsp 947.901/PR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, DJe 6/8/2009)
+PROCESSO CIVIL. TRIBUTÁRIO. IR E CSSL. ART. 535 DO CPC. VIOLAÇÃO. NÃO-OCORRÊNCIA. PREJUÍZOS FISCAIS. COMPENSAÇÃO. LIMITES. LEI N. 8.981/95. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284/STF. DISSÍDIO JURISPRUDENCIAL. NÃO-COMPROVAÇÃO. SÚMULA N. 83/STJ.
+1. Alegação genérica de ofensa a lei federal não é suficiente para delimitar a controvérsia, sendo necessária a especificação do dispositivo legal considerado violado (Súmula n. 284 do STF).
+(..)
+5. Recurso especial parcialmente conhecido e, nessa parte, não-provido.
+(REsp 462.204/RN, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, DJ 18/8/2006 p. 366)
+Ademais, ao decidir a controvérsia, o Tribunal de origem consignou (fls. 361-362, e-STJ):
+Como bem ressaltado na sentença, o artigo 40, § 8º, da Constituição Federal, antes da EC 47/05, assegurava a paridade de tratamento entre os servidores da ativa e os aposentados, de modo que fosse assegurado aos últimos, inclusive, quaisquer benefícios ou vantagens, posteriormente concedidos aos servidores em atividade, inclusive quando decorrentes da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para a concessão da pensão, na forma da lei.
+Verifica-se que o autor se aposentou em 31 de março de 2005 (fl. 10), ou seja, antes da referida Emenda Constitucional, que ocorreu em 05 de julho de 2005, donde se conclui que possui direito a paridade, bem como de ver seus proventos revisados.
+Entretanto, verifica-se que a sentença combatida deixou de analisar a alegação dos réus, no sentido de que o recorrido pugna pela equiparação salarial de seus proventos do cargo de Técnico de Contabilidade com os funcionários em atividade, no entanto, utiliza-se, indevidamente, de uma legislação referente ao Plano de Cargos e Salários da Câmara Municipal de Nova Iguaçu, Lei nº. 4.074/2011.
+É cediço que o ordenamento jurídico brasileiro estabelece em sua carta Magna o princípio da separação dos poderes, nos termos do art. 2º da CRFB/88.
+A fixação e o aumento de vencimentos dos servidores públicos depende de lei específica, observada a competência constitucional para a iniciativa privativa de cada caso (art. 37, X, CF), não cabendo ao Poder Judiciário, que não tem função legislativa, aumentar vencimentos dos servidores públicos, sob fundamento de isonomia, porquanto, se assim agir, estará violando os princípios constitucionais da separação de Poderes e da legalidade.
+Nesses termos, embora o autor da ação tenha direito a paridade, restou comprovado que pertence aos quadros do poder executivo do Município de Nova Iguaçu (Secretaria Municipal de Plan. Economia e Finanças - índice 09), não podendo requerer sua equiparação salarial aos funcionários do poder Legislativo do mesmo Município diante da inexistência de previsão legal.
+Ainda que não fosse aplicável a Súmula 284/STF , a instância ordinária, ao analisar a questão de equiparação dos proventos, amparou-se diretamente em diversos dispositivos constitucionais, como a transcrição acima atesta.
+A ausência de interposição de Recurso Extraordinário atrai a incidência da Súmula 126/STJ: "É inadmissível Recurso Especial quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta Recurso Extraordinário."
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. MERA INSATISFAÇÃO COM O DESLINDE DA CONTROVÉRSIA. AUSÊNCIA DE INDICAÇÃO DE VÍCIOS NO JULGADO.
+1. Os embargos declaratórios somente são cabíveis para modificar o julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar eventual erro material na decisão.
+2. O embargante não aponta nenhuma omissão, contradição, obscuridade ou erro material nas razões recursais, buscando somente modificar o acórdão embargado.
+3. O Tribunal de origem concluiu que o STF, ao julgar o RE n. 363.852/MG, declarou inconstitucional as alterações trazidas pelo art. 1º da Lei n. 8.540/1992, que deu nova redação aos arts. 12, V e VII, 25, I e II, e 30, IV, da Lei n. 8.212/1991.
+4. Tendo o acórdão recorrido amparo em fundamentos eminentemente constitucionais, não compete ao STJ conhecer da proposição formulada no recurso especial, sob pena de invadir a competência exclusiva do STF.
+5. A revisão de entendimento a quo amparado no conjunto fático-probatório dos autos é vedada, em recurso especial, pela Súmula 7/STJ.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1.429.089/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 22/5/2014)
+Por fim, é inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido. Aplica-se, portanto, o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
+EMENTA
