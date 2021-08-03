@@ -1,0 +1,74 @@
+DECISÃO
+Trata-se de recurso especial interposto por DANIEL MACHADO FERREIRA, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, nesses termos ementado:
+ADMINISTRATIVO. CONCURSO PÚBLICO. REMESSA NECESSÁRIA. APELAÇÃO. MANDADO DE SEGURANÇA. NECESSIDADE DE DILAÇÃO PROBATÓRIA. INADEQUAÇÃO DA VIA ELEITA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DE MÉRITO. REMESSA NECESSÁRIA PROVIDA. APELAÇÃO PREJUDICADA.
+1. Trata-se de remessa necessária que tenho por submetida e de apelação interposta pela PETROLEO BRASILEIRO S. A. - PETROBRAS, tendo por objeto sentença(Evento 24/JF), proferida pelo Juízo da 5ª Vara Federal do Rio de Janeiro/RJ, nos autos deste Mandado de Segurança, com pedido de liminar, impetrado por DANIEL MACHADO FERREIRA contra ato do GERENTE EXECUTIVO DE RECURSOS HUMANOSDA PETROBRAS, objetivando "a concessão da segurança para que seja anulado o ato do impetrado que eliminou o impetrante do processo seletivo público para preenchimento de vagas e formação de cadastro de reserva em cargos de nível superior, por meio do Edital nº 1 - Petrobras/PSP RH 2017.2".
+2. O cerne da controvérsia cinge-se em perquirir se o impetrante/recorrido possui os aspectos fenotípicos adequados para participar de concurso, nas vagas reservadas aos candidatos pardos/negros.
+3. Ao que se apura dos autos, para o enfrentamento meritório do mandado de segurança é indispensável que a questão relativa aos aspectos fenotípicos do candidato, que fundamentou a eliminação do impetrante do certame, uma vez que não foi considerado pessoa preta ou parda pela comissão especificamente designada(Evento 12/Parecer 4 e 5), seja examinada por prova pericial, o que se verifica inviável na estreita via do mandando de segurança, que exige a comprovação do direito líquido e certo quando da respectiva impetração (art. 1º da Lei nº 12.016/09).
+4. A despeito do candidato ter sido considerado pardo no concurso para a ECT (Evento 1, Recurso 9), verifico que restou reprovado por duas comissões distintas no concurso para Petrobras (Evento 12/Parecer 4 e Parecer 5), o que afasta o direitolíquido e certo do impetrante.
+5. Nesse contexto, verifica-se inadequada a via mandamental, pois inobstante a juntada de provas, fato é que, em casos como o presente, onde se discute a interpretação divergente acerca do fato, entende-se como imprescindível a realização de produção de prova pericial para dirimir a contenda.
+6. Desse modo, o alegado direito não se apresenta líquido e certo, pois o rito mandamental não comporta dilação probatória, constituindo-se em via inadequada para a solução da lide.
+7. Remessa necessária provida para extinguir o processo, sem resolução do mérito, restando prejudicada a apelação interposta.
+Os embargos de declaração foram desprovidos (e-STJ fls. 438/440).
+Neste recurso, sustentaorecorrenteque o acórdão estadual contrariou as disposições dos arts. 5º, XXXVI e LXIX, da Constituição Federal;1º, 11 e 24 da Convenção Americana de DireitosHumanos e 1º da Lei nº 12.016/2009.
+Opõe-se à sua eliminação do concurso público para provimento do cargo de Engenheiro de Produção Júnior da Petrobrás, porquanto não foi considerado de cor pardapela Comissão de Veracidadede Autodeclaração.
+Acrescenta que outra comissão avaliadora- do concurso da Empresa Brasileira de Correios e Telégrafos -reconheceu o fenótipo pardo do recorrente.
+Assim, afirma que " ..  o v. acórdão não merece vigência no mundo jurídico, isto porque submeter o Recorrente a prova pericial técnica para aferir seu aspecto fenotípico seria uma grande violação aos direitos da honra subjetiva e da dignidade da pessoa humana" (e-STJ fl. 481).
+Defende, portanto, que o mandado de segurança impetrado na origem é o remédio correto para proteger o direito líquido e certo do recorrente de ser declarado como pessoa parda.
+Foram apresentadas contrarrazões.
+O Ministério Público Federal opinou pelo não provimento do recurso:
+PROCESSUAL CIVIL. ADMINISTRATIVO. CONCURSO PÚBLICO. COTAS RACIAIS. ASPECTOS FENÓTIPOS. IMPOSSIBILIDADE DE AFERIÇÃO EM SEDE DE RECURSO ESPECIAL. SÚMULAS 5 E 7/STJ. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. COMPETÊNCIA DO STF.
+1 - O Tribunal de origem, soberano na análise dos fatos e provas, denegou a segurança, pois entendeu que seria imprescindível a produção de prova pericial para dirimir a controvérsia, diante da reprovação por duas comissões distintas do concurso, que afastaram o enquadramento do recorrente no fenótipo pardo.
+2 - Considerando a fundamentação do acórdão recorrido, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, bem como a análise da cláusula editalícia, a fim de alcançar conclusão diversa, o que é vedado ante o que estabelecem as Súmulas 5 e 7/STJ.
+3 - O recorrente aponta violação a dispositivos constitucionais, oque afasta a possibilidade de revisão de suas premissas pelo Superior Tribunal de Justiça, sob pena de usurpação de competência do STF.
+4 - Parecer pelo não provimento do recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto à apontada ofensa ao art. 5º,XXXVI e LXIX, da Constituição Federal, importante destacar que não cabe ao Superior Tribunal de Justiça, em sede de recurso especial, analisar suposta violação a dispositivos da Constituição Federal, ainda que a título de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal.
+Ilustrativamente:
+PROCESSO CIVIL. ADMINISTRATIVO. RESPONSABILIDADE DA ADMINISTRAÇÃO. INDENIZAÇÃO POR DANO MORAL. ERRO MÉDICO. ALEGAÇÃO DE CONTRARIEDADE AO ART. 37 DA CF/88. ANÁLISE DE DISPOSITIVO CONSTITUCIONAL EM RECURSO ESPECIAL. IMPOSSIBILIDADE. USURPAÇÃO DA COMPETÊNCIA DO STJ. ALEGAÇÃO DE CONTRARIEDADE AO ART. 43 DO CÓDIGO CIVIL. RESPONSABILIDADE CIVIL. NEXO DE CAUSALIDADE. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. ALEGAÇÃO DE DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+ ..
+II - Preliminarmente, em relação à alegada contrariedade ao art. 37, § 6º, da CF/88, é forçoso esclarecer que, em recurso especial, é vedada a análise de dispositivos constitucionais, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+ ..
+(AgInt nos EDcl no REsp 1843195/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO DA UNIÃO CONTRA DECISÃO QUE NEGOU SEGUIMENTO A RECURSO ESPECIAL. NAUFRÁGIO DA EMBARCAÇÃO BATEAU MOUCHE IV. INDENIZAÇÃO. RESPONSABILIDADE CIVIL.  ..  IMPOSSIBILIDADE DE ANÁLISE DE OFENSA A DISPOSITIVO CONSTITUCIONAL, SOB PENA DE USURPAÇÃO DE COMPETÊNCIA DO STF.  ..
+ ..
+2. A responsabilidade da União foi reconhecida pelo Tribunal de origem com base na interpretação dada ao art. 37, § 6º, da Constituição Federal, sendo que este Superior Tribunal de Justiça não detém competência para examinar, em sede de Recurso Especial, eventual ofensa direta à Constituição Federal, cabendo tal apreciação ao Pretório Excelso, na via recursal extraordinária. A respeito: REsp. 891.242/ES, Rel. Min. FELIX FISCHER, DJU 21.5.2007 e AgRg no REsp. 758.202/RS, Rel. Min. MARIA THEREZA DE ASSIS MOURA, DJU 4.6.2007.
+ ..
+(AgRg no REsp 1107094/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/03/2018, DJe 12/03/2018)
+Sobre os pontos combatidos pelo recorrente, transcrevem-se os fundamentos do acórdão(e-STJ fls. 390/393):
+O cerne da controvérsia cinge-se em perquirir se o impetrante/recorrido possui os aspectos fenotípicos adequados para participar de concurso, nas vagas reservadas aos candidatos pardos/negros.
+A sentença recorrida merece reforma, conforme passo a examinar.
+In casu, o impetrante/recorrido prestou concurso público, consoante Editalnº 1 - PETROBRAS/PSP RH 2017.2, de 28 de dezembro de 2017, para provimento de vagas no cargo de Engenheiro de Produção Júnior para o polo do Rio de Janeiro -capital, na condição de cotista. Após aprovação nas etapas do certame, foi convocado para comparecer perante a Comissão de Veracidade da Autodeclaração, que o eliminou do certame, na forma do item 3.2.5.10 do Edital, que dispõe: "Os (as) candidatos(as) que não forem considerados (as) pretos (as) ou pardos(as) pela Comissão avaliadora serão eliminados (as) do presente Processo Seletivo Público, conforme previsto na Lei nº12.990/2014".
+Ao que se apura dos autos, para o enfrentamento meritório do mandado de segurança é indispensável que a questão relativa aos aspectos fenotípicos do candidato, que fundamentou a eliminação do impetrante do certame, uma vez que não foi considerado pessoa preta ou parda pela comissão especificamente designada (Evento12/Parecer 4 e 5), seja examinada por prova pericial, o que se verifica inviável na estreita via do mandando de segurança, que exige a comprovação do direito líquido e certo quando da respectiva impetração (art. 1º da Lei nº 12.016/09).
+Cumpre registrar que, a despeito do candidato ter sido considerado pardo no concurso para a ECT (Evento 1, Recurso 9), verifico que restou reprovado por duas comissões distintas no concurso para Petrobras (Evento 12/Parecer 4 e Parecer 5), o que afasta o direito líquido e certo do impetrante.
+Nesse contexto, verifica-se inadequada a via mandamental, pois inobstante a juntada de provas, fato é que, em casos como o presente, onde se discute a interpretação divergente acerca do fato, entende-se como imprescindível a realização de produção de prova pericial para dirimir a contenda.
+Desse modo, o alegado direito não se apresenta líquido e certo, pois o rito mandamental não comporta dilação probatória, constituindo-se em via inadequada para a solução da lide. (Grifei.)
+Nota-se da transcrição que a segurança foi denegada em razão da ausência de demonstração do direito líquido e certo, porquanto revelou-se imprescindível para o julgamento da causa a realização de prova pericial.
+A conclusão tomada pelo colegiado estadual sobre a impossibilidade de dilação probatória em sede de mandado de segurança não se afastou do entendimento do Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CANDIDATO QUE ALEGA SER DEFICIENTE FÍSICO. QUESTÃO CONTROVERTIDA GRAVITANTE EM TORNO DA PERÍCIA MÉDICA. NECESSIDADE DE DILAÇÃO PROBATÓRIA.
+1. É pacífica a jurisprudência desta Corte no sentido de que "o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus" (RMS 45.989/PB, Relator Ministro Herman Benjamin, Segunda Turma, DJe de 6/4/2015). Outros precedentes: AgRg no RMS 45.517/DF, Relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 12/8/2014; AgRg no RMS 45.562/MS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 6/e 10/2016.
+ ..
+3. Agravo interno não provido.
+(AgInt no MS 24.517/DF, Rel. Ministro BENEDITO GONÇALVES, CORTE ESPECIAL, julgado em 13/11/2018, DJe 21/11/2018)
+PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDOR PÚBLICO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO EM MANDADO DE SEGURANÇA.CONCURSO PÚBLICO PARA O CARGO DE JUIZ LEIGO.  .. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE.
+ ..
+4. "O Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus" (RMS 45.989/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 6/4/2015).
+5. Agravo interno não provido.
+(AgInt nos EDcl no RMS 64.957/GO, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 26/04/2021, DJe 29/04/2021)
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO.  .. DILAÇÃO PROBATÓRIA VEDADA NA VIA MANDADO DE SEGURANÇA.
+ ..
+IV - Dada a ausência de prova pré-constituída das alegações da recorrente, e da impossibilidade de dilação probatória na via do mandado de segurança, forçoso o reconhecimento da ausência de direito líquido e certo a ser amparado nesta via mandamental.
+V - Negado provimento ao recurso ordinário em mandado de segurança.
+(RMS 63.848/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/09/2020, DJe 30/09/2020)
+Ademais, o acolhimento da pretensão recursal, no sentido de reformar o acórdão para conceder a segurança a fim de declarar o recorrente como pessoa parda,exigiria a essa Corte Superior avançar no acervo cognitivo dos autos no intuito de se perquirir suposto equívoco da instância ordinária em sua ponderação, situação inviável em sede de recurso especial tendo em vista o óbice da Súmula 7/STJ.
+Nesse sentido, confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. CONCURSO PÚBLICO. COTAS RACIAIS.AUTODECLARAÇÃO. CANDIDATO PARDO. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. INVIABILIDADE. COMPETÊNCIA DO STF.  ..  CONTROVÉRSIA RESOLVIDA, PELA CORTE A QUO, À LUZ DAS PROVAS DOS AUTOS E DO EXAME DE CLAUSULAS EDITALÍCIAS. SÚMULAS 5 E 7/STJ.
+ ..
+4. Ademais, mesmo que ultrapassado tal óbice, verifica-se que o Tribunal de origem, soberano na análise de fatos e provas, deu provimento ao Mandamus ante a flagrante irregularidade do ato proferido por comissão da banca examinadora, que não reconheceu o enquadramento da ora agravada no fenótipo pardo, impedindo-a de prosseguir no certame nas vagas reservadas para candidatos integrantes do grupo da raça negra ou parda (fls. 286-287, e-STJ).
+5. Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, bem como a análise da cláusula editalícia, a fim de alcançar conclusão diversa, o que é vedado ante o que estabelecem as Súmulas 5 e 7/STJ.
+6. Agravo Interno não provido.
+(AgInt no AREsp 1595879/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/08/2020, DJe 14/09/2020)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ.CONCURSO PÚBLICO. ART. 5º, XXXVI e LXIX,DA CONSTITUIÇÃO FEDERAL. IMPOSSIBILIDADE DEANÁLISE DE DISPOSITIVO CONSTITUCIONAL.COMPROVAÇÃO DOFENÓTIPO. NECESSIDADE DE DILAÇÃO PROBATÓRIA EM MANDADO DE SEGURANÇA. IMPOSSIBILIDADE. PRECEDENTES. PRETENSÃO RECURSAL QUE ESBARRANA SÚMULA 7/STJ. RECURSO ESPECIALCONHECIDO EM PARTE E, NESSA EXTENSÃO, NEGADO PROVIMENTO.
