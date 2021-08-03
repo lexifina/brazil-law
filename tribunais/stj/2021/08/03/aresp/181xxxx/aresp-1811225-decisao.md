@@ -1,0 +1,6 @@
+DECISÃO
+Na petição doAgravo Interno opostos por ALEXANDRE HENRIQUE DE FARIA MENDES eORAL GOLDEN SPA CONSULTORIO ODONTOLOGICO EIRELI, os recorrentes,requerem a concessão dos benefícios da justiça gratuita, tendo em vista que foram afetados pela crise financeira gerada pela pandemia de maneira que momentaneamente não reúnem condições para arcar com as custas do processo, razão pela qual, pedem para que lhe seja concedida o benefício da gratuidade judiciária, como medida de justiça.
+A atual jurisprudência desta Corte perfilha o entendimento de que é viável a formulação, no curso do processo, de pedido de gratuidade da justiça na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito. Nesse sentido: AgRg nos EREsp 1.222.355/MG, Corte Especial, DJe 25/11/2015.
+Contudo, não obstante o requerimento dos recorrentes acerca da concessão dos benefícios da gratuidade da justiça, verifica-se que o pedido não está instruído com documentos que pudessem justificar o seu deferimento.
+Destarte, para que se possa promover o julgamento do agravo interno, intimem-se os recorrentes para que, no prazo de 05 (cinco) dias, nos termos do art. 99, §2º, do CPC/2015, comprovem o preenchimento dos pressupostos legais para a concessão do benefício, sob pena de seu indeferimento.
+Publique-se. Intimem-se.
