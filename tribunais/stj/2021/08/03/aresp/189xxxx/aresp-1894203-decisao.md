@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de agravo manejado por Reinaldo Pires Querido contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Tocantins, assim ementado (fl. 77):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE SEM APRECIAÇÃO DE MÉRITO. PERDA DE OBJETO PELO ACOLHIMENTO DE EMBARGOS À EXECUÇÃO. PRETENSÃO DE RECEBIMENTO DE HONORÁRIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Não se olvida que o acolhimento da exceção de pré-executividade que enseja a extinção da execução enseja a condenação do autor ao pagamento das despesas processuais e honorários de sucumbência. No entanto, no caso em tela, convém destacar que a decisão proferida nos embargos à execução deu fim à demanda executória, sendo que o magistrado, no aludido pronunciamento, arbitrou os honorários sucumbenciais pretendidos.
+2. Uma vez que a decisão agravada limitou-se a não analisar a exceção de pré-executividade, em razão da perda superveniente do seu interesse decorrente da sentença proferida nos embargos à execução, a fixação dos honorários sucumbenciais se mostra incabível.
+3. Recurso conhecido e não provido.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 85 do CPC. Sustenta, em síntese, que "o artigo 85 do CPC, em seu parágrafo 10, consagra o princípio da causalidade, onde nas hipóteses de perda do objeto do processo, os honorários serão devidos a quem deu causa a propositura ao processo, não fazendo qualquer espécie de distinção" (fl. 93).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que o Tribunal de origem não se manifestou sobre a alegação de que "o artigo 85 do CPC, em seu parágrafo 10, consagra o princípio da causalidade, onde nas hipóteses de perda do objeto do processo, os honorários serão devidos a quem deu causa a propositura ao processo, não fazendo qualquer espécie de distinção" (fl. 93), tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, à falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
