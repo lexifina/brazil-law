@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso ordinário interposto, com fundamento no art. 105, II, "b", da CF, contra acórdão do TJCE, assim ementado (e-STJ fl. 185):
+MANDADO DE SEGURANÇA. o ADMINISTRATIVO. DESCONTOS DE VALORES RECEBIDOS POR PENSIONISTA DE SERVIDOR POR FORÇA DE TUTELA DE URGÊNCIA. REVOGAÇÃO DA MEDIDA LIMINAR E EXTINÇÃO DO MANDAMUS. RESTITUIÇÃO DAS QUANTIAS. DESCONTO EM FOLHA. POSSIBILIDADE. SEGURANÇA NÃO CONCEDIDA.
+Fundamenta a parte impetrante, de início, vício no acórdão recorrido, por ter incorrido em premissas fáticas equivocadas e por não ter examinado o pedido sucessivo deduzido no writ.
+No mérito, aduz que, embora tenha recebido valores após a revogação de tutela de urgência, a qual antes garantia tal pagamento, isso somente ocorreu por inação do Poder Público. Defende que a Administração já poderia ter excluído o pagamento recebido a título precário desde 2009, quando revogada a medida liminar que lhe assegurava o recebimento da referida parcela remuneratória, mas apenas o fez em 2012. Advoga a tese de que, ao assim agir, a recorrida incorreu em situação comparável a erro, má interpretação de decisão judicial ou mesmo a anuência da Administração, o que os desobrigaria da devolução do montante pago indevidamente no referido lapso temporal, porque recebidode boa-fé por pessoa idosa.
+Contrarrazões (e-STJ fls. 228/234).
+Parecer do MPF àse-STJ fls. 312/314, em que opinapelo não provimento do recurso.
+É o que importava relatar.
+Adianto que o recurso merece parcial guarida.
+Num primeiro exame, verifica-se que, mesmo ancorado em fundamento jurídico distinto, o TJCE, de certa forma, atendeu ao entendimento firmado neste Tribunal sobre a inexistência de boa-fé em casos como o ora analisado, conforme se extrai do RMS 48.576/CE e RMS 46.942/CE.
+Todavia, observa-se que a parte impetrante havia deduzido pedido sucessivo de reconhecimento de excesso dos valores cobrados pelo Estado (e-STJ fl. 22, item "f"), pleito que não foi analisado na origem, mesmo após oposição de embargos de declaração aviados com esse propósito (e-STJ fl. 284, item "b").
+Com efeito, realmente o acórdão foi nulo nesse aspecto, não só por desatender o dever de suprir a omissão, como também por ter sido citra petita.
+De acordo com a jurisprudência desta Corte, não é possível aplicar a teoria da causa madura (art. 515, § 3º, do CPC/1973) em sede de recurso ordinário, sob pena de supressão indevida do juízo natural constitucionalmente estabelecido para a análise originária do mandado de segurança.
+Nesse sentido: AgInt no RMS 50.749/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 14/06/2021, DJe 16/06/2021 AgInt no RMS 45.729/GO, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 27/11/2020; RMS 49.972/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 09/06/2020; AgInt no RMS 48.321/MG, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 02/04/2020.
+Registre-se que não se aplicam os artigos 1.013, § 3º, e 1.027, II, § 2º, do CPC/2015 ao caso, porque o recurso em mandado de segurança foi protocolizado em 2015, e, assim, por força do Enunciado Administrativo n. 2 deste Superior Tribunal de Justiça, o seu processamento deve observar as disposições do Código de Processo Civil de 1973.
+Ante o exposto, anulando o acórdão recorrido, DOU PARCIAL PROVIMENTO ao recursoe determino o retorno dos autos à origem, para que corrija o vício acima citado.
+Publique-se. Intimem-se.
