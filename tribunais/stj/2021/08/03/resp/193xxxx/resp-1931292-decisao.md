@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, com fulcro nopermissivo constitucional, contra acórdão do TJ/PRassim ementado (e-STJ fl. 975):
+APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA EM FASE DE CUMPRIMENTO DE SENTENÇA - DESVIO DA FINALIDADE DOS RECURSOS DO FUNDO MUNICIPAL DA SAÚDE PARA PAGAMENTO PARCIAL DE PARQUE ECOLÓGICO E CONSTRUÇÃO DE CAPELA MORTUÁRIA - AÇÃO JULGADA PROCEDENTE PARA CONDENAR O MUNICÍPIO DE LARANJEIRAS DO SUL NO PAGAMENTO DE R$208.176,55 A SEREM DEPOSITADOS NO FUNDO MUNICIPAL DE SAÚDE - RECONHECIDA A NULIDADE DO CUMPRIMENTO DE SENTENÇA POR AUSÊNCIA DE REEXAME NECESSÁRIO - INCIDÊNCIA DO DUPLO GRAU DE JURISDIÇÃO OBRIGATÓRIO NAS AÇÕES QUE VERSAM SOBRE IMPROBIDADE ADMINISTRATIVA - PRECEDENTE DO SUPERIOR TRIBUNAL DE JUSTIÇA - REMESSA NECESSÁRIA - DETERMINAÇÃO DE RECOMPOSIÇÃO DOS RECURSOS AO FUNDO ESTADUAL DE SAÚDE - MEDIDA DESARRAZOADA - EVENTUAL PEDIDO DE RESSARCIMENTO QUE PODERÁ SER ENDEREÇADO AO GESTOR DA ÉPOCA DOS FATOS - RECURSO DE APELAÇÃO CÍVEL CONHECIDO E DESPROVIDO - SENTENÇA REFORMADA PARCIALMENTE EM REEXAME NECESSÁRIO.
+Nas suas razões, a parte recorrenteaponta violação dos arts.489, § 1º, inciso IV, e 1.022, inciso II, do Código de Processo Civil/2015, por entender que são evidentes a ausência de fundamentação e a negativa de prestação jurisdicional, além do art.27, inciso I, da LC n.141/2012, vistoque,constatada a utilização irregular dos valores do Fundo Municipal de Saúde, o ente federativo deve recompor esse montante
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fls. 1.123/1.124).
+Manifestação ministerial pelo provimento do apelo nobre (e-STJ fls. 1.141/1.146).
+Passo a decidir.
+Compulsando os autos, verifico que a irresignação recursal não merece prosperar.
+É que o Tribunal a quo, com arrimoem precedente da Suprema Corte,decidiu a controvérsia à luz de fundamentoeminentemente constitucional(proteção dos direitos fundamentais contemplados na CF/1988),cujo exame competetão somenteao Supremo Tribunal Federal por meio de recurso extraordinário.
+Assim, dada a incompetência desta Corte para a revisão da matéria, o apelo extremo manejado revela-se manifestamente inadmissível.
+Nessa linha de raciocínio, confira-se:
+AGRAVOS REGIMENTAIS. AÇÃO CIVIL PÚBLICA. OBRIGAÇÃO DE TRANSFERÊNCIA DE PRESOS QUE EXCEDAM O LIMITE DE LOTAÇÃO DE CADEIA PÚBLICA E DESTINAÇÃO EXCLUSIVA À CUSTÓDIA DE PRESOS PROVISÓRIOS. OMISSÃO NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. FUNDAMENTAÇÃO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DE ESPECIAL POR ESTA CORTE. RECURSO ESPECIAL NÃO CONHECIDO. DECISÃO MANTIDA.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+2. Trata-se de ação civil pública intentada pelo Ministério Público do Estado de São Paulo o objetivando compelir a Fazenda Pública do mesmo estado a proceder à remoção de todos os presos excedentes à lotação máxima considerada para a Cadeia Pública de Serra Negra e a destinar tal cadeia exclusivamente à custódia de presos provisórios.
+3. Ausência de prequestionamento. Súmula 211/STJ.
+4. Ademais, o acórdão proferido pelo Tribunal a quo denegou o pedido sob o fundamento de que não seria possível a intervenção judicial na implementação de políticas públicas especificamente para a questão carcerária, em razão: i) da separação dos poderes; ii) da natureza dos direitos sociais, apesar do princípio da dignidade da pessoa humana; iii) do princípio da reserva do possível. Tendo o Tribunal de origem decidiu a controvérsia com base em fundamentos eminentementes constitucionais, não cabe à esta Corte examinar a matéria em Recurso Especial, sob pena de usurpação da competência atribuída ao Supremo Tribunal Federal.
+5. Agravo regimental não provido.
+(AgRg no REsp 1323250/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/02/2015, DJe 19/03/2015) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
