@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo manejado pelo Estado da Paraíba contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fls. 248/249):
+MANDADO DE SEGURANÇA. UEPB. UNIVERSIDADE DOTADA DE AUTONOMIA ADMINISTRATIVA E FINANCEIRA. REPASSE DO DUODÉCIMO A MENOR PELO EXECUTIVO. VALOR FIXADO NO QUADRO DE DETALHAMENTO DA DESPESA . INOBSERVÂNCIA. MONTANTE REPASSADO NOS TERMOS DO CRONOGRAMA MENSAL DE DESEMBOLSO. IMPOSSIBILIDADE. ESTRITO CUMPRIMENTO A LEI ORÇAMENTÁRIA ANUAL. AUSÊNCIA DE DEMONSTRAÇÃO DE DIFICULDADE FINANCEIRA PARA ADIMPLIR DÉBITO CONSTITUCIONAL. DIREITO LÍQUIDO E CERTO REVELADO. VALORES PRETÉRITOS. ESTRITO EFEITO FINANCEIRO RETROATIVO. MARCO INICIAL. DATA DA IMPETRAÇÃO. PERÍODOS ANTERIORES. ÓBICE LEGAL. INVIABILIDADE. NATUREZA DA AÇÃO MANDAMENTAL. INCIDÊNCIA DAS SÚMULAS 269 E 271 DO STF. CONCESSÃO PARCIAL DA ORDEM.
+O repasse do duodécimo deve ser pautado nas previsões constantes na LOA, precisamente no Quadro de Detalhamento da Despesa, garantindo a autonomia financeira do órgão e o gerenciamento dos recursos a ele destinados.
+A Constituição Estadual, em seu art. 285 e a Lei nº 7.643/2004, art. 1º, reconheceram autonomia administrativa e de gestão financeira e patrimonial a UEPB. Por seu turno, a Lei previu ser incumbência do Poder Executivo transferir, diretamente à Universidade, os recursos que lhe forem destinados no orçamento do Estado, devendo o duodécimo ser repassado até o ú ltimo dia útil de cada mês.
+O não repasse integral do duodécimo mensal à UEPB, nos termos dos valores fixados no QDD, gera descumprimento de mandamento legal e caracteriza ato abusivo por parte do impetrado, apto a configurar violação a direito líquido e certo.
+O mandado de segurança não se presta a cobrar importâncias correspondentes às obrigações vencidas de repasse duodecimal das dotações orçamentárias referentes a períodos pretéritos a presente impetração.
+Neste aspecto, não é devido o direito líquido almejado pela autarquia, porquanto apenas os valores repassados a menor, a contar da impetração são executáveis nesta seara. Os meses anteriores devem ser postulados pela via ordinária.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação ao art. 493 do CPC. Sustenta que o houve a perda de objeto do mandado de segurança,tendo em vista que "o orçamento do exercício de 2017 já foi plenamente esgotado, encerrando sua eficácia em 31 de dezembro de 2017, de forma que o pleito formulado originalmente em sede de mandado de segurança restou prejudicado desde a mencionada data, ante a perda superveniente do seu objeto." (fl. 409).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A insurgência não prospera.
+Ao dirimir a controvérsia, a Corte local consignou (fl. 336):
+Primeiro que não se evidenciou a perda do objeto, pelo simples fato do exaurimento do orçamento de 2017.
+A discussão então estabelecida nos autos, não se esvaiu, porquanto não visa atacar a Lei Orçamentária Anual, mas sim deliberar se os valores repassados a título de duodécimo estariam correto.
+Por este fundamento, entendo que o interesse persiste, pois eventual ilegalidade nos repasses subsiste, independentemente da finalização do exercício financeiro.
+Afinal, desde a petição inicial o impetrante diz receber a menor, o que, de fato, detectou-se desde a apreciação da liminar.
+Naquele momento, entendi como devido o repasse com base na "previsão disposta no Cronograma Mensal de Desembolso disposto no Diário da Justiça de 25.01.2017"
+Todavia, esse entendimento, ao ser apreciado no mérito não somente foi mantido, mas também alargado, conquanto se compreendeu que o repasse deveria ir além dos valores disposto no referido cronograma. Eles deveriam ser pautados com base "nosvalores praticados no Quadro de Detalhamento de Despesa atrelado à Lei de Orçamento Anual, exercício 2017".
+Por conta dessa situação, por si só, evidencia-se que não houve perda de objeto, eis que ao impetrante perdura o direito de agir, para obter o ressarcimento dos valores do duodécimo, conforme decidido no mérito do writ.
+Verifica-se que a Instância a quo concluiu que não houve perda do objeto do mandado de segurança a partir da análise de premissas fáticas. Assim, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
