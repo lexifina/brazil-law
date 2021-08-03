@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CF, contra acórdão do TJMS, que denegou a segurança em acórdão assim ementado (e-STJ fls. 452/460):
+MANDADO DE SEGURANÇA - PROCESSO SELETIVO INTERNO. IMPETRANTE APROVADA FORA DO NÚMERO DE VAGAS INICIALMENTE PREVISTO SURGIMENTO DE NOVAS VAGAS E DENTRO DO PRAZO DE VALIDADE - AUSÊNCIA DE COMPROVAÇÃO ALUSIVA À HOMOLOGAÇÃO DO RESULTADO FINAL - SELEÇÃO ANTERIOR QUE AINDA PERSISTE E SOB A NORMATIZAÇÃO DA ÉPOCA - CLASSIFICAÇÃO LONGÍNQUA - ORDEM DENEGADA.
+Inexiste direito líquido e certo a ser reconhecido se, mesmo considerando-se o regramento vigente à época da aprovação, as novas vagas criadas ainda se afiguram distante da classificação obtida pela impetrante.
+Alega o recorrente, em resumo, que: a) por falta de homologação expressa, o edital do certame ainda está vigente, pelo que as vagas surgidas posteriormente a ele aproveitaria, sendo ilegal a deflagração de nova concorrência; b) a desistência de candidatos mais bem classificados faria com que certamente o impetrante ficasse dentro das vagas existentes.
+Contrarrazões (e-STJ fls. 740/757).
+Parecer do MPF pelo não provimento do recurso (e-STJ fls. 773/776).
+Passo a decidir.
+Entendo que o recurso não merece guarida.
+Em caso idêntico (RMS 46696), que foi submetido a esta relatoria, assim decidi:
+Pressupõe o recorrente que o fato de a Administração ter autorizado realização de novo concurso durante o prazo de validade do anterior convola a expectativa de direito à nomeação em direito adquirido.
+Todavia, a Corte Especial deste Superior Tribunal passou a seguir a orientação firmada pelo Supremo Tribunal Federal, no julgamento do RE 837.311/PI, segundo a qual "o surgimento de novas vagas ou a abertura de novo concurso para o mesmo cargo, durante o prazo de validade do certame anterior, não gera automaticamente o direito à nomeação dos candidatos aprovados fora das vagas previstas no edital, ressalvadas as hipóteses de preterição arbitrária e imotivada por parte da administração, caracterizada por comportamento tácito ou expresso do Poder Público capaz de revelar a inequívoca necessidade de nomeação do aprovado durante o período de validade do certame, a ser demonstrada de forma cabal pelo candidato." (Tema 784/STF) (AgInt no RE nos EDcl no AgInt no RMS 48.056/RJ, rel. Ministro Humberto Martins, Corte Especial, DJe 15.9.2017). No mesmo sentido: AgInt no RMS 52.114/GO, rel. Ministra Assusete Magalhães, Segunda Turma, DJe 25.8.2017.
+Com fundamento no precedente acima mencionado, entendo que a pretensão recursal não pode ser acolhida por duas razões:
+A primeira, porque não foi de fato deflagrado novo concurso durante o prazo de validade do certame ao qual concorreu o recorrente. Na verdade, houve apenas a autorização para realização de outro concurso, o qual, porém, só se iniciou quando expirado o prazo de validade do anterior.
+A segunda, porque mesmo se a só autorização pudesse manifestar necessidade de novas nomeações, a expectativa de direito do impetrante só se convolaria em direito adquirido se fosse demonstrada preterição arbitrária e imotivada por parte da administração.
+No particular, não só inexiste demonstração cabal dessa preterição arbitrária como, a bem da verdade, a parte ré fez prova do contrário.
+Verifica-se que o concurso seguinte ao do impetrante, atento à modificação legal, previu a possibilidade de participação apenas dos candidatos que estivessem no posto de cabo da polícia militar, ao passo que o requerente é soldado.
+Ou seja, mesmo que a Administração demonstrasse a necessidade de promover novas nomeações, e ainda que essas tivessem ocorrido, nem assim se poderia falar em preterição desmotivada do demandante, já que o fundamento da sua não convocação seria plenamente justificado pela alteração dos requisitos legais.
+Ademais, é irrelevante, para o caso, a discussão sobre a possibilidade de adequação do edital à legislação superveniente, uma vez que, na espécie, a modificação ocorreu em relação ao certame seguinte, pelo que plenamente correta.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Mantidas as premissas de fato e de direito da decisão acima transcrita, tenho que os fundamentos ali desenvolvidos devem ser aproveitados neste julgamento como razão de decidir, especialmente em atenção à segurança jurídica.
+Mesmo que assim não fosse, há outra razão para rejeição do recurso. É que o impetrante afirma que estaria dentro do número de vagas se considerasse a desistência de candidatos mais bem classificados, mas nem sequer há prova pré-constituída nesse sentido.
+Importante lembrar que na forma da pacífica jurisprudência do STJ, "o Mandado de Segurança visa resguardar direito líquido e certo de lesão ou ameaça de lesão, assim considerado o que pode ser demonstrado de plano, por meio de prova pré-constituída, inexistindo espaço para dilação probatória" (STJ, RMS 61.744/RO, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/05/2020).
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
