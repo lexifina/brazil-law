@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de agravo manejado por Neusa Garcia e outroscontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 231):
+SERVIDORES PÚBLICOS MUNICIPAIS São Paulo Conversão da URV em Real Lei n.º 8.880/94 Pretensão ao recebimento de diferenças pela conversão pretendida que cessa com a reestruturação da carreira do servidor público Precedentes Preliminar rejeitada Recurso desprovido.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1.022 do CPC/2015 (fls. 246/248).
+Nas razões do recurso especial, a parte agravante defende que aapuração e a comprovação da alegada reestruturação de carreira deve ocorrerna fase de liquidação da sentença. Sustenta a existência de diferenças salariais decorrentes da conversão dos proventos em URV.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+Com efeito, observa-se quea parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgInt no AgInt no AREsp 793.132/RJ, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 12/03/2021; AgRg no REsp 1.915.496/SP, Rel. Ministro Joel Ilan Paciornik, Quinta Turma, DJe 08/03/2021; e AgInt no REsp 1.884.715/CE, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 01/03/2021.
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
