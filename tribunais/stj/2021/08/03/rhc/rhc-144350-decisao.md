@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por JONATHAN SANTANA MACEDO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no HC n. 2258279-63.2020.8.26.0000.
+Consta dos autos que o Recorrente teve prisão preventiva decretada em 28/08/2020, e posteriormente denunciado, pela suposta prática do crime previsto no art. 157, §2.º, incisos II e V, e § 2.º-A, inciso I, do Código Penal. Isso porque, em tese, agindo em concurso de agentes, subtraiu, mediante grave ameaça exercida com emprego de arma de fogo, violência e restrição da liberdade das vítimas, um microondas, um televisor, um aparelho de som, um equipamento de TVa cabo com modem, um ventilador, um botijão de gás, um laser de tirar nível, uma makita, dois aparelhos celulares e um automóvel.
+Irresignada,a Defesa impetrou habeas corpus perante o Tribunal estadual, aduzindo a ilegalidade do reconhecimento pessoal. O Tribunal estadual, por sua vez, denegou a ordem nos termos do acórdão acostado às fls. 87-98.
+Na presente insurgência, alega-se violação do disposto no art. 226 do Código de Processo Penal. Sustenta-se que "não se pode admitir que uma prova obtida sem qualquer respeito às formalidades exigidas pela lei processual penal, as quais servem justamente para garantir a lisura da atividade, seja capaz de figurar com meio de prova de suposta autoria do Recorrente" (fl. 107).
+Requer-se, liminarmente e no mérito, seja declarada a ilegalidade do reconhecimento pessoal "e consequente extirpação da respectiva ação penal" (fl. 109).
+O pedido liminar foi indeferido (fls. 126-128).
+Prestadas as informações, o Ministério Público Federal opinou pelo não provimento do recurso (fls. 143-151).
+Às fls. 152-190, a Defensoria Pública atravessou petição em favor do corréu JACKSON SANTANA MACEDO, sob a alegação de que o pleito recursal deve ser a ele aproveitado, especialmente porque na audiência de instrução realizada em 07/04/2021 o reconhecimento fotográfico foi negado pelas vítimas.
+O Recorrente, às fls. 192-198, pede a reconsideração da decisão liminar, "lastreado em fato novo, consistente na prova juntada pela Defensoria Pública demonstrando que o reconhecimento fotográfico do qual deu ensejo a toda a ação penal foi forjado" (fl. 193).
+É o relatório.
+Decido.
+O Tribunal estadual, ao denegar a ordem de habeas corpus quanto à aduzida nulidade do reconhecimento fotográfico, assim consignou, in verbis (fls. 96-97):
+"Noutro giro, o reconhecimento pessoal realizado pelas vítimas carece de qualquer vício, não havendo desobediência ao art. 226, do Código de Processo Penal.
+É cediço que as regras do dispositivo supramencionado não são de observância obrigatória.
+Ademais, o que vale é a certeza do reconhecimento por parte das vítimas Gislaine, Eva e Enilson que reconheceram o Paciente (fls. 60, 63 e65, autos de origem). O conteúdo do reconhecimento se sobrepõe à sua forma.
+ ..
+Importante ressaltar que, a acusação decorre de que as vítimas tiveram a residência invadida pelo Paciente e seus comparsas e permaneceram com os roubadores por algum tempo. Ademais, o ofendido Enilson foi espancado e humilhado perante sua família.
+E a prisão não decorre única e exclusivamente do reconhecimento que se diz contaminado, havendo mesmo, independente deles, indícios suficientes de autoria devendo a análise mais aprofundada de eventual questionamento da legalidade de atos de investigação ser reservada para o momento oportuno e pela autoridade judiciária competente.
+Portanto, não se evidencia, até o presente momento, nenhum constrangimento ilegal de forma tão manifesta, tudo justificando a prisão preventiva do Paciente nos precisos termos em que imposta."
+Pois bem, embora seja alegadovício no reconhecimentofotográfico do Recorrente,vale referir que o standard probatório necessário à decretaçãoda prisão preventiva é muito menos rigoroso do que aquele para a formaçãodo juízo condenatório, quanto ao fato de que esta Corte, em diversosprecedentes, concluiu não ser possível a dilação probatória em habeascorpus nos quais se discutia a ausência de elementos de autoria ematerialidade para justificar a cautelar mais gravosa (AgRg no HC605.814/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em13/10/2020, DJe 20/10/2020; HC 602.451/SP, Rel. Ministra LAURITA VAZ,SEXTA TURMA, julgado em 06/10/2020, DJe 19/10/2020; v.g.)
+Na espécie, o Tribunal de origem ressaltou que "a prisão não decorre única e exclusivamente do reconhecimento que se diz contaminado, havendo mesmo, independente deles, indícios suficientes de autoria" (fl. 97).
+Assim,ao menos na  via  estreita  do  writ  e  na  fase  em  que  se  encontra  o  processo -crime,  não  se  mostra  possível  verificar  se  houve  a  observância  das  diretrizes  estabelecidas  pela  Sexta  Turma  do  Superior  Tribunal  de  Justiça  em  27/10/2020  no  HC  598.886/SC,  Rel.  Ministro  ROGERIO  SCHIETTI  CRUZ,  que  se  referem  ao  juízo  condenatório,  até  mesmo  porque  a  instrução  criminal  ainda  nem  se  encerrou.
+Note-se, ademais, que a decisão que decretou a prisão preventiva do Paciente faz explícita menção a outras circunstâncias capazes de evidenciar os indícios de autoria, ou seja, a segregação cautelar não foi decretada exclusivamente com amparo no reconhecimento supostamente nulo, consoante se colhe do seguinte trecho:
+"Como se não bastasse, há relatório de investigação dando conta de que os representados estariam, por meio do aplicativo whatsapp, divulgando imagens do roubo praticado, além de estarem tentando vender os objetos subtraídos."
+Nesse contexto fático, não há como reconhecer a nulidade da fundamentação da prisão preventiva sem o aprofundamento probatório incompatível com a via do habeas corpus, cabendo também observar que o Juízo não avaliou a legalidade do reconhecimento em juízo de cognição exauriente.
+A  propósito,  cito  o  seguinte  precedente:
+"AGRAVO  REGIMENTAL  EM  HABEAS  CORPUS  SUBSTITUTIVO  DE  RECURSO  PRÓPRIO.  IMPOSSIBILIDADE  DE  SUSTENTAÇÃO  ORAL.  AUSÊNCIA  DE  IMPUGNAÇÃO  DOS  FUNDAMENTOS  DA  DECISÃO  AGRAVADA.  SÚMULA  N.  182/STJ.  ROUBO  QUALIFICADO  E  TENTATIVA  DE  LATROCÍNIO.  PRISÃO  CAUTELAR  DEVIDAMENTE  FUNDAMENTADA.  GRAVIDADE  CONCRETA  DO  DELITO.  RECONHECIMENTO  FOTOGRÁFICO  QUE  NÃO  INFLUENCIA  NA  LEGALIDADE  DA  PRISÃO  CAUTELAR.
+ ..
+8.  Muito  embora  a  jurisprudência  mais  recente  desta  Corte  tenha  se  alinhado  no  sentido  de  que  eventual  reconhecimento  fotográfico  e/ou  pessoal  efetuado  em  sede  inquisitorial  em  descompasso  com  os  ditames  do  art.  226  do  CPP  não  podem  ser  considerados  provas  aptas,  por  si  sós,  a  engendrar  uma  condenação  sem  o  apoio  do  restante  do  conjunto  probatório  produzido  na  fase  judicial,  isso  não  implica  em  que  não  possam  ser  considerados  indícios  mínimos  de  autoria  aptos  a  autorizar  a  prisão  cautelar  e  a  deflagração  da  persecução  criminal.  No  caso  concreto,  quatro  vítimas  dos  delitos  foram  unânimes  em  indicar  o  ora  paciente  como  um  dos  autores  do  delito,  entre  12  (doze)  fotos  de  indivíduos  com  suspeita  de  mesmo  modus  operandi  que  fora  por  elas  previamente  narrado.
+ ..
+10.  Agravo  regimental  a  que  se  nega  provimento."  (AgRg  no  HC  638.887/RJ,  Rel.  Ministro  REYNALDO  SOARES  DA  FONSECA,  QUINTA  TURMA,  julgado  em  25/05/2021,  DJe  01/06/2021;  sem  grifos  no  original.)
+Dessa conclusão não discrepa a manifestação do Parquet federal (fls. 148-150):
+"As circunstâncias de que (i) os roubadores permaneceram tempo relevante dentro da residência das vítimas, (ii) de que todos os três ofendidas reconheceram o Recorrente e (iii) de que " t odas as vítimas foram uníssonas em reconhecer JACKSON SANTANA MACEDO como responsável por arrecadar os objetos e JONATHAN SANTANA MACEDO como o indivíduo que vigiava e praticava violência contra os ofendidos, sendo que ambos portavam armas de fogo", reduzem as chances de que elas pudessem se enganar quanto à identidade de um dos agressores.
+3.2 De qualquer sorte, ainda que, por hipótese, se invalidasse o reconhecimento fotográfico em questão, persistiriam indícios de autoria suficientes para subsidiar o prosseguimento da ação penal.
+ ..
+Isso porque foto de uma delas, amarrada no banheiro da residência no momento do crime circulou em aplicativos de celular e, levada ao conhecimento da autoridade policial, logrou-se identificar o Recorrente como um de seus autores.
+As informações constam de relatório de investigação preliminar acostado às fls. 20/24 dos autos do HC 611558/SP, no qual se lê:
+"Informamos a Vossa Excelência que dando continuidade às investigações de crimes patrimoniais, durante a realização de trabalho de campo, recebemos a informação de que indivíduos moradores no bairro Pq. Residencial Cocaia estariam se "vangloriando"pela realização de um assalto à residência.
+Os denunciantes colaboradores desta investigação, só aceitaram repassar a informação mediante total sigilo e anonimato.
+Deste modo, narraram que os irmãos conhecidos como "Grilo"e "Pingo"teriam efetuado assalto a uma casa e levado diversos objetos, bem como o veículo das vítimas, contudo não sabiam maiores detalhes.
+Os colaboradores ficaram indignados com a ousadia dos ladrões, que estavam exibindo atrás dos diversos grupos do aplicativo "whatsapp", fotografias dos objetos subtraídos no intuito de vendê-los.
+Além dos pertences subtraídos, zombavam da situação humilhante em que sem submeteram uma das vítimas, a qual foi amarradapor eles.
+Essa fotografia foi entregue a nossa equipe e nela constatamos que se tratava de um homem deixado ao solo, com as mãos amarradas para trás (figura abaixo).
+( )
+Posteriormente conseguimos identificar os suspeitos. O indivíduo de apelido "Grilo", à esquerda, é Jackson Santana Macedo ( ) e "Pingo", à direita, é Jonathan Santana Macedo ( ).
+O investigado Jackson possui passagens criminais por roubo e tráfico de drogas.
+O próximo passo foi solicitar a presença das vítimas nesta unidade, onde preliminarmente entrevistamo-los para entender melhor a dinâmica dos acontecimentos.
+( )
+Desta feita Enilson afirmou que teve os braços amarrados e ficou deitado no chão do banheiro, enquanto sua mulher e sobrinha ficaram na sala.
+Salienta que foi agredido com chutes e socos por um dos assaltantes e se reconheceu na foto exibida pela equipe com sendo ele deitado no chão.
+( )."
+3.3 Quanto a pretender a defesa a aplicação do entendimento adotado no HC 598.886/SC, da relatoria do Ministro Rogerio Schietti Cruz, as circunstâncias fáticas, por ora, são bastante distintas, cuidando-se ali, como bem observou a Ministra Relatora, de revisão de juízo de condenação, quando já esgotado, pelas instâncias ordinárias, o debate em torno das provas produzidas em juízo."
+Por fim, ressalto que as circunstâncias suscitadas pelo Recorrente no pedido de reconsideração de fls. 192-198 e pela Defesa do Corréu - atos instrutórios ocorridos supervenientemente ao julgamento do writ originário-não foram objeto de apreciação prévia pelo Tribunal estadual, e, por isso, o respectivo exame per saltum pelo Superior Tribunal de Justiça caracterizaria a indevida supressão de instância.
+Ante o exposto, NEGO PROVIMENTO ao recurso ordinário em habeas corpus. Ficam prejudicados os pedidos de extensão de fls. 152-190 e de reconsideração de fls. 192-198.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSO PENAL. ROUBO, MEDIANTE EMPREGO DE ARMA DE FOGO, CONCURSO DE AGENTES E RESTRIÇÃO DA LIBERDADE DAS VÍTIMAS. RECONHECIMENTO FOTOGRÁFICO. ALEGAÇÃO DE NULIDADE. INDÍCIOS DE AUTORIA POR OUTROS MEIOS. PROSSEGUIMENTO DA AÇÃO PENAL. RECURSO NÃO PROVIDO.
