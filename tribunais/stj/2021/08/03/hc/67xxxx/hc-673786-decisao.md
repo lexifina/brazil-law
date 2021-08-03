@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de ELIAS DA SILVA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo emExecução n. 0002700-62.2020.8.26.0158)assim ementado (fl. 47):
+PROGRESSÃO DE REGIME - Cassação do benefício com determinação da realização do exame criminológico - Possibilidade - Circunstâncias de cometimento do delito que recomendam cautela na aferição do requisito subjetivo - Agravo ministerial provido.
+O paciente cumpre pena em regime fechado, por tentativa de homicídio (art. 121, § 2º, II e IV, do Código Penal), com vencimento previsto para 10/5/2025.
+O Tribunal de origem deu provimento ao recurso ministerial para, cassando a decisão que concederaa progressão para o regime semiaberto, determinar o imediato retorno do paciente ao regime fechado e a realização de exame criminológico.
+A defesa aponta constrangimento ilegal, uma vez que o paciente cumpriu os requisitos legais exigidos para a concessão do benefício pleiteado.
+Aduz ausência de motivos para a determinação da realização deexame criminológico. Afirma que o fundamento utilizado foi a gravidade abstrata do delito. Aponta violação daSúmula Vinculante n. 26 do STF.
+Requer, liminarmente e no mérito, que seja restabelecida a decisão do Juízo da execução que deferiu o pedido de progressão para o regime semiaberto, dispensando-se o exame criminológico.
+O pedido de liminar foi indeferido (fls. 52-53).
+Prestadas as informações (fls. 57-63), o Ministério Público Federal opinou pelo não conhecimento da impetração, mas pela concessão da ordem de ofício (fls. 68-72).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Juízo da execução penal deferiu o pedido de progressão de regime nestes termos (fls. 26-27, destaquei):
+Primeiramente, desnecessária a perícia solicitada pelo Parquet, tendo em vista que não existe nos autos informação que torne essa medida imprescindível para o julgamento do pedido, sendo insuficientes, para tanto, a gravidade abstrata do delito e a longa pena a cumprir.
+ ..
+Conforme cálculo de penas , o executado cumpriu a fração necessária à benesse pleiteada, mantendo no período bom comportamento carcerário.
+Presentes, portanto os requisitos legais.
+Ademais, o regime semiaberto não coloca o sentenciado em liberdade, diretamente no convívio da sociedade extramuros, trata-se de regime de menor vigilância, em estabelecimento próprio, onde o executado terá maiores oportunidades de reintegração social e será observado e avaliado quanto a absorção da terapia penal.
+O Tribunal de origem deu provimento ao recurso do Ministério Público para determinar o retorno do paciente ao regime fechado, adotando os seguintes fundamentos (fls. 48-49):
+O sentenciado foi condenado por tentativa de homicídio bi-qualificada (motivo fútil e recurso que dificultou a defesa da vítima), com pena cumprir até 10.05.2025.
+Compulsando a execução subjacente, observei que a vítima sofreu lesões corporais de natureza gravíssima depois de receber golpes de facão, a ponto de ter um dos braços amputado, em razão de uma briga envolvendo escolha de música num jukebox (proc.0001366-27.2019.8.26.0158, fls. 03/05).
+Assim, muito embora o atestado de conduta carcerária tenha registrado que o sentenciado apresenta bom comportamento, é de se ter em conta que as circunstâncias de cometimento do delito indicam grave inclinação à violência exacerbada, fator que torna temerária a liberdade.
+Nesse cenário, não é só o documento administrativo que garante ao condenado o direito ao benefício pleiteado, necessário se faz avaliar se o tempo de cárcere experimentado, de fato, contribuiu para a alteração de seu ânimo criminoso.
+De se considerar que o atestado de bom comportamento carcerário - a despeito de sua importância - se limita a certificar a conduta do sentenciado no interior do presídio, não se reportando a dados importantes sobre a sua personalidade e conduta social.
+Em suma, por cautela, necessária se faz a realização de exame criminológico para fins de aferição do preenchimento do requisito subjetivo.
+A conclusão do Tribunal a quo é contrária à orientação do STJ, razão pela qual está constatada hipótese de constrangimento ilegal, passível de ser sanado na presente via.
+O Superior Tribunal de Justiça entende que a gravidade abstrata dos crimes pelos quais o sentenciado foi condenado e a longa pena a cumprir não são fundamentos idôneos para submeter benefícios da execução penal a prévia realização de exame criminológico.
+Nessa linha, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL DA PENA. DEFERIMENTO PELO JUÍZO DA EXECUÇÃO PENAL. CASSAÇÃO PELA CORTE DE ORIGEM. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. GRAVIDADE ABSTRATA DOS CRIMES. AGRAVO IMPROVIDO.
+1. Esta Corte Superior entende que não é idôneo o Tribunal estadual cassar a decisão do Juiz da Execução Penal que concedeu o livramento condicional da pena em favor do paciente, para condicionar esse benefício penal à realização prévia do exame criminológico, sob argumentação genérica, baseada na gravidade abstrata dos crimes, faltas disciplinares já reabilitadas, e na probabilidade de reincidência, não apontando elementos concretos extraídos da execução da pena, que pudessem justificar a necessidade do referido exame técnico.
+2. Não foi apresentada fundamentação válida para o exame criminológico, porque, da leitura do acórdão, extrai-se que, embora preenchido o requisito objetivo, o Tribunal a quo entendeu ser necessária a submissão do paciente à exame criminológico, porquanto os crimes cometidos pelo agravante são graves, envolvendo reiteração criminosa em crimes patrimoniais com exercício de violência ou grave ameaça, aparentando fazer do crime modo de vida. Desse modo, maior cautela deve haver para o deferimento de qualquer benefício, exigindo uma análise mais detalhada, sobretudo quanto ao requisito subjetivo.
+3. Agravo regimental improvido. (AgRg no HC 625.449/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 18/12/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LIVRAMENTO CONDICIONAL. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE ANTIGA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A gravidade abstrata do crime e a longa pena a cumprir não são aspectos relacionados ao comportamento do sentenciado durante a execução penal e não justificam o indeferimento dos benefícios do sistema progressivo das penas.
+2. Faltas disciplinares muito antigas também não podem impedir, permanentemente, a progressão de regime e o livramento condicional, pois o sistema pátrio veda as sanções de caráter perpétuo. É desarrazoado admitir que falhas ocorridas há vários anos maculem o mérito do apenado até o final da execução. A reabilitação do preso depende das peculiaridades de cada caso, mas, em regra, deve ser entendida como o aperfeiçoamento do seu comportamento por tempo relevante.
+3. Era de rigor a concessão da ordem, pois o benefício do art. 83 do CP foi indeferido com lastro em fundamentos inidôneos, consubstanciados na gravidade dos crimes praticados e em comportamento negativo regenerado.
+4. Agravo regimental não provido. (AgRg no HC n. 620.883/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 18/12/2020.)
+Ademais, verifica-se que o paciente possui bom comportamento carcerário (fl. 26) e atingiu orequisito objetivo para a benesse pleiteada. Portanto, o exame criminológiconão pode ser consideradoobstáculo à concessão do benefício pretendido.
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para cassar o acórdão do Tribunal de origem e restabelecer a decisão do Juízo da execução penal que concedeu ao paciente a progressão de regime.
+Publique-se. Intimem-se.
