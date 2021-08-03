@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de Gustavo Evangelista da Silva, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo.
+Infere-se dos autos que o paciente, preso em flagrante em 12/7/2020e denunciadopela prática, em tese, dos crimes descritos no art. 16, § 1º, IV, da Lei n. 10.826/2003, e art. 333 do Código Penal, ambos c/c o art. 69 do Código Penal, teve a prisão convertida em preventiva (fls. 46/48).
+Irresignada, a defesa impetrou o HC n. 2177739-28.2020.8.26.0000, objetivando a revogação da custódia cautelar, contudo, o Tribunal a quo, à unanimidade, denegou a ordem (fls. 92/95).
+Sobreveio a impetração, na qual o impetrante alega constrangimento ilegal suportado pelo ora paciente decorrente de: (i) ausência dos requisitos legais autorizadores da prisão preventiva (art. 312 do CPP); (ii) ausência de fundamentação idônea para amparar a segregação cautelar;(iii) risco de contaminação noestabelecimento prisional em razão do atual quadro da pandemia do coronavírus (Covid-19); e (iv) possibilidade, in casu, da aplicação de medidas cautelares diversas da prisão.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva decretada em desfavor do ora paciente.
+Liminar indeferida (fls. 98/99).
+Prestadas as informações (fls. 105/133 e 136/148), o Ministério Público Federal opinou pelo não conhecimento do writ(fls. 153/155).
+É o relatório.
+As informações obtidas no endereço eletrônico do Tribunal de origem dão conta de que, em 12/7/2021, oJuízo de Direito da 1ª Vara Criminal da comarca de Sumaré/SP julgou procedente a denúncia formulada pelo Ministério Público de São Paulo para condenar o ora paciente à pena de 7 anos de reclusão, em regime inicial fechado, e ao pagamento de 20 dias-multa, por infração ao art. 16, § 1º, IV, da Lei n. 10.826/2003 e art. 333, na forma do art. 69, ambosdo Código Penal.Na oportunidade, negou-lhe o recurso em liberdade (Ação Penal n. 1500485-78.2020.8.26.0630).
+Desse modo, na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso, consubstanciado em novo fundamento, qual seja,osefeitos da condenação (regime prisional de cumprimento de pena aplicado), cujo requisito específico, desafia, portanto, impugnação própria perante o Tribunal de origem. Nesse sentido, os seguintes julgados: AgRg no RHC n. 112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; AgRg no RHC n. 92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020; eAgRg no RHC n. 110.729/MA, da minha relatoria, Sexta Turma, DJe 20/2/2020.
+Tal o contexto, julgo prejudicado o presente habeas corpus (arts. 659 do CPP, 38 da Lei n. 8.038/1990 e 34, XI, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DESCRITOS NOART. 16, § 1º, IV, DA LEI N. 10.826/2003, E ART. 333, NA FORMA DO ART. 69, AMBOSDO CP. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO FUNDAMENTO. EFEITOS DA CONDENAÇÃO (REGIME PRISIONALDE CUMPRIMENTO DE PENA APLICADO). NOVO TÍTULO JUDICIAL LEGITIMADOR DA CONSTRIÇÃO CAUTELAR QUE DEVE SER ANTES SUBMETIDO À ANÁLISE DO TRIBUNAL A QUO. PRECEDENTES DESTA CORTE SUPERIOR. PERDA DE OBJETO.
+Writ prejudicado.
