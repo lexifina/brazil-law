@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOÃO CLÁUDIO DO NASCIMENTO, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (Agravo em Execução Penal n. 1.0000.20.083.636-9/002).
+O Juízo da execução penal deferiu o pedido de retificação de cálculo de pena do paciente e considerou o tempo de prisão cautelar para todos os benefícios.
+Após recurso ministerial, a data da última prisão foi fixada como marco inicial para contagem de prazos e o tempo de prisão provisória computado para fins de concessão de benefícios da execução.
+A defesa alega que o "acórdão impugnado interpreta divergentemente os artigos 42 do Código Penal e 112 da LEP, ao desprezar o tempo de prisão provisória como pena cumprida" (fl. 5).
+Requer, liminarmente e no mérito, seja fixada a data da prisão provisória como marco inicial da execução.
+O pedido de liminar foi indeferido (fls. 318-319).
+Prestadas as informações (fls. 323-330 e 331-341), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 346-350).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Tribunal de origem concluiu o seguinte (fls. 313-314):
+Com parcial razão. Explico.
+Trata-se de guia única. O agravado foi condenado pela prática do crime previsto no art. 121, §2º, do CPB, à pena de 12 anos de reclusão, em regime inicialmente fechado.
+E, a meu ver, não pode ser desprezado o tempo em que o sentenciado permaneceu provisoriamente preso para fins de contagem de prazo para concessão de benefícios da execução. Todavia, penso ser desnecessária a retificação do atestado de penas, devendo ser mantido o dia da última prisão como data-base.
+Vejo que o reeducando, em razão de prisão preventiva, foi recolhido em 19.04.18. No dia 20 daquele mês/ano, foi posto em liberdade. Posteriormente, em 18.04.19, foi preso em virtude de decreto condenatório.
+É certo que o tempo em que permaneceu solto não deve ser computado como tempo de prisão para fins de contagem de prazo para concessão de benefícios da execução. Entretanto, da mesma forma, o período em que réu esteve efetivamente preso não pode ser desprezado. Não é correto apenas descontar esse lapso do montante total da condenação, ignorando-o para o restante.
+O art. 387, §2º, do CPP inclusive determina que o tempo de prisão provisória seja computado para fins de determinação do regime inicial de cumprimento de pena, evidenciando a intenção do legislador de não desprezar o período de segregação cautelar.
+Assim, creio que agiu bem o i. magistrado ao determinar que o referido lapso seja "..considerado para todos os fins, especialmente para os fins executivos..". No entanto, o marco inicial para a contagem dos prazos deve permanecer inalterado - 18.04.19, dia da última prisão do réu.
+Então, dou parcial provimento ao recurso para determinar a retificação do atestado de pena, que deve constar o dia 18.04.19 como marco inicial, mantendo, todavia, a r. decisão a quo quando determina que o tempo de prisão provisória seja computado para fins de contagem de prazo para a concessão de benefícios da execução.
+No caso, há flagrante ilegalidade, visto que a conclusão adotada é contrária ao entendimento do STJ, razão pela qual está constatada hipótese de constrangimento ilegal passível de ser sanado na presente via.
+O Superior Tribunal de Justiça entende que, nos casos em que reeducando possui única pena privativa de liberdade e não havendo notícias de cometimento de falta grave, deve-se considerar o período de prisão provisória para o cálculo de benefícios relativos à execução da pena, ressaltando que o período em que esteve em liberdade não pode ser computado como pena cumprida para fins de análise do requisito objetivo para a progressão de regime.
+Nesse sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. DATA-BASE PARA FINS DE PROGRESSÃO AO REGIME ABERTO. DATA DA ÚLTIMA PRISÃO (PRISÃO CAUTELAR). IMPROCEDE. TEMPO JÁ SUBTRAÍDO NA SENTENÇA CONDENATÓRIA, PELA DETRAÇÃO. DATA EM QUE O PACIENTE PREENCHEU OS REQUISITOS PARA A CONCESSÃO AO REGIME ABERTO. PROCEDE. NATUREZA DECLARATÓRIA DA SENTENÇA CONDENATÓRIA, QUE FIXOU O REGIME INICIAL SEMIABERTO. CONSTRANGIMENTO ILEGAL. DETERMINAÇÃO PARA QUE O JUIZ DA EXECUÇÃO ADOTE COMO TERMO INICIAL PARA PROGRESSÃO AO REGIME ABERTO A DATA DO IMPLEMENTO DE TODOS OS REQUISITOS PARA A CONCESSÃO DA BENESSE. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+2. Após o julgamento proferido pelo Supremo Tribunal Federal no HC 115.254/SP, da relatoria do Ministro Gilmar Mendes, estabelecendo que na execução da pena, o marco para a progressão de regime será a data em que o apenado preencher os requisitos legais (art. 112, LEP), e não a do início do cumprimento da reprimenda no regime anterior. A decisão que defere a progressão de regime tem natureza declaratória, e não constitutiva. (HC 483.834/SP, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 07/02/2019, DJe 15/2/2019)
+3. Na espécie, o próprio Magistrado sentenciante, ao considerar o tempo de prisão cautelar decorrido, reconheceu que o paciente havia cumprido mais de 1/6 da pena aplicada, tempo esse que por direito, deveria ser contabilizado para fins de progressão ao regime aberto (art. 112 da LEP).
+ ..  (HC n. 482.139/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 14/6/2019.)
+HABEAS CORPUS. PROGRESSÃO DE REGIME. REQUISITO OBJETIVO. UM SEXTO DA PENA. CÔMPUTO DO PRAZO TOTAL DE PRISÃO PROVISÓRIA CUMPRIDA PELO PACIENTE. INVIABILIDADE DE CONCESSÃO DO BENEFÍCIO POR MEIO DO PRESENTE WRIT. ORDEM PARCIALMENTE CONCEDIDA.
+- Para fins do cálculo do requisito objetivo estabelecido no artigo 112 da Lei de Execução Penal, computa-se a totalidade do prazo de prisão cumprido, seja provisória ou por força de decisão condenatória definitiva, sendo irrelevante o fato de ter o paciente sido solto provisoriamente entre tais marcos.
+- O período de pena detraído deve integrar o cálculo para a concessão dos benefícios pleiteados em sede de execução penal.
+- Figura-se inviável o exame dos requisitos para a concessão da progressão de regime por meio da estreita via do habeas corpus.
+Ordem parcialmente concedida. (HC n. 65.496/RJ, relatora Ministra Jane Silva (Desembargadora Convocada do TJ/MG), Quinta Turma, DJ de 24/9/2007.)
+Ante o exposto, não conheço do habeas corpus, mas, de oficio, concedo a ordem, a fim de fixar a data da prisão provisória do paciente como termo inicial para a concessão dos benefícios da execução penal e considerar o tempo de prisão provisória como pena cumprida na apuração do requisito objetivo.
+Publique-se. Intimem-se.
