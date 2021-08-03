@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de GLEIZER KAWAN CAMPOS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS no julgamento do HC n. 5387238-72.2020.8.09.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante, em 19/07/2020, convertida em prisão preventiva, e restou denunciado, pela prática em tese dos crimes previstos nos arts. 33 e 35, ambos Lei n. 11.343/06 (tráfico de drogas e associação para o tráfico de drogas).
+Irresignada, a defesa impetrou habeas corpus originário, o qual teve a ordem denegada pelo Tribunal a quo, nos termos de acórdão que recebeu a seguinte ementa:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE DROGAS. NEGATIVA DE AUTORIA. VIA IMPRÓPRIA. NULIDADE DO FLAGRANTE. ALEGAÇÃO DE AGRESSÃO FÍSICA PERPETRADA POR POLICIAIS. SUPERADA. PRISÃO PREVENTIVA. REITERAÇÃO CRIMINOSA. CUSTÓDIA JUSTIFICADA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL. ISENÇÃO DO PAGAMENTO DAS CUSTAS PROCESSUAIS. 1) Em sede de habeas corpus não comporta discussão sobre negativa de autoria, por exigir dilação probatória.2) Resta superada a arguição de ilegalidade da prisão em flagrante, haja vista que, a partir da conversão desta em preventiva, a segregação do agente passa a ser a novo título 3) Incomportável a análise de prática de agressão física perpetrada por policiais, na via mandamental, por se tratar de matéria que exige análise do conjunto fático probatório. Além disso, a eventual responsabilização dos agentes públicos portais atos, deve ser apurada em procedimento específico e/ou por órgãos correicionais, não sendo causa para a revogação da custódia cautelar. 4) Estando a decisão combatida calcada em fundamento concreto em razão da gravidade da conduta perpetrada pelo paciente, consubstanciada na diversidade e natureza dos entorpecentes apreendidos - maconha e cocaína -entorpecentes de alto poder lesivo e viciante, além da recalcitrância criminosa do agente, somadas aos fortes indícios de autoria, demonstrada está a necessidade de garantia da ordem pública. 5)Por inexistirem custas processuais no habeas corpus, conforme disposição contida no artigo 5º, inciso LXXVII, da Constituição Federal, desnecessária a concessão dos benefícios da assistência judiciária. 6)ORDEM PARCIALMENTE CONHECIDA E DENEGADA" (fl. 40).
+No presente writ, aponta nulidade na prisão, tendo em vista que o paciente foi agredido no momento em que os policiais entraram em seu domicílio. Sustenta que a polícia entrou ao local, sem qualquer estado de flagrância, sem mandado judicial ou situação que autorizasse sua entrada no recinto.
+Aponta que se trata de perseguição policial, vinculando o paciente a ilícitos que não foram cometidos por ele, uma vez que os entorpecentes não foram encontrados em sua residência.
+Alega excesso de prazo para a conclusão do inquérito penal.
+Requer, em liminar e no mérito, a concessão da liberdade provisória ao paciente.
+Indeferida a liminar (fls. 44/45), e prestadas informações (fls. 50/52), o Ministério Público Federal opinou pela denegação da ordem (fls. 54/57).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, conforme informações obtidas em consulta ao endereço eletrônico do Tribunal de origem, em 20/11/2020, foi revogada a prisão preventiva do ora paciente, com expedição de alvará de soltura em seu favor.
+Assim, não há como negar a perda superveniente do objeto destehabeas corpus, tendo em vista terem cessado suas circunstâncias determinantes.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presentehabeas corpus.
+Publique-se.
+Intimem-se.
