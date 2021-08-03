@@ -1,0 +1,37 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ANDERSON BALLOCK DE OLIVEIRA(ANDERSON) promoveu cumprimento de sentençacontraMARCO ANTONIO BARROS DE CAMPOS(MARCO).
+No decorrer do feito, ANDERSON requereu a penhora de 30% do salário de MARCO, que foi indeferido pelo Juízo da causa.
+Dessa decisão, ANDERSON interpôs agravo de instrumento, aduzindo, em síntese, que é admissível a penhora de 30% da remuneração de MARCO,na medida em que tem o intuito de satisfazer o débito exequendo não gerará dano asua sobrevivência digna e de sua família (e-STJ, fls. 1/9).
+O Tribunal de Justiça de Mato Grosso do Sul negou provimento ao recursonos termos do acórdão, assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTODE SENTENÇA - PEDIDO DE PENHORA DE VERBA SALARIAL - IMPENHORABILIDADE DE VENCIMENTOS E SALÁRIOS - REGRA INSERTA NO ARTIGO 833, INCISO IV, DO CPC - APLICABILIDADE - REMUNERAÇÃO BRUTA DO EXECUTADO CONSTITUI IMPORTÂNCIA ÍNFIMA - ATO CONSTRITIVO QUE PODE COMPROMETER O SUSTENTO DA PARTE E OU DE SUA FAMÍLIA- DECISÃO MANTIDA- RECURSO CONHECIDO E DESPROVIDO(e-STJ, fl. 32).
+EDUARDO interpôs recurso especial com fundamento no art. 105, III, a e c, da CF, alegando, a par dedissídio jurisprudencial, violação dos arts. 833, IV e § 2ª do NCPC, sustentando, em síntese, que exauriu os meios para obter o crédito, entretanto, MARCOnão possui bens para saldar a dívida. Assim,a penhora de 30% do valor dos vencimentos mensais de MARCOmostra-se razoável e não gerarádanos a sua subsistência. Requereu, subsidiariamente, fosse fixado por essa Corte outro percentual dentro de um limite mínimo (e-STJ, fls.47/52).
+Foram apresentadas contrarrazões do recurso especial (e-STJ, fls.62/72).
+Em juízo de admissibilidade, o Tribunal inadmitiuo apelo nobresob o fundamento de incidência da Súmula nº 7do STJ(e-STJ, fls. 76/79).
+Dessa decisão, foi interposto o presente agravo em recurso especial refutando o juízo de prelibação (e-STJ, fls.81/85).
+Contraminuta apresentada (e-STJ, fls.101/108).
+É o relatório.
+DECIDO.
+O inconformismo merece prosperar, em parte.
+De plano, vale pontuar que o recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da possibilidade de penhora de rendimentos
+ANDERSON, nas razões da insurgência especial, sustentou, em síntese,serpossível a penhora de 30% dosrendimentos mensais de MARCOmostra-se razoável implicará em prejuízosa sua subsistência .
+OTJMS, de seu lado, consignou o seguinte quanto ao tema:
+Isso porque não verifico a necessidade nem possibilidade de reformada Decisão recorrida.
+Analisando os autos, reputo relevante a fundamentação da decisão agravada no sentido de que o art. 833 do CPC veda a penhora sobre "IV - os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal, ressalvado o § 2o;". Restou evidenciado nos autos, ainda, que o total bruto do salário recebido pela parte devedora é de cerca de R$2.300,00, o que reputo se tratar de valor módico, de modo que concluo que a penhora prejudicará a subsistência da parte Agravada e de sua família, o que impede a realização do ato constritivo, no moldes do dispositivo legal acima referenciado(e-STJ, fl.34).
+Segundo orientação jurisprudencial desta Corte,"a regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família" (AgInt no REsp nº 1.407.062/MG, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j.26/2/2019, DJe de 8/4/2019).
+Assim, a exceção à regra da impenhorabilidade de salários aplica-se apenas aos rendimentos superiores a 50 salários mínimos mensais, o que não se adequa ao caso dos autos.
+Confira-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AFETAÇÃO DE RECURSO PARA JULGAMENTO SOB O RITO DE RECURSOS REPETITIVOS. SUSPENSÃO DE PROCESSOS NO STJ.DESNECESSIDADE. DECISÃO QUE NADA DISSE A ESSE RESPEITO. SALÁRIO.IMPENHORABILIDADE. EXCEÇÃO. VALORES QUE EXCEDAM 50 SALÁRIOS MÍNIMOS.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Eventual afetação de tema ao rito dos repetitivos não impossibilita o julgamento do recurso a ele relativo, pois não implica a suspensão dos processos em curso no STJ, além de não significar necessariamente a existência de dissenso pretoriano.
+3. A exceção à impenhorabilidade das verbas salariais aplica-se apenas quando os rendimentos excederem 50 (cinquenta) salários mínimos. Precedentes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1.892.698/PR, Rel. Ministro MOURA RIBEIRO, Terceira Turma, DJe 10/3/2021)
+Nessas condições, CONHEÇO doagravo em recurso especial para NEGAR PROVIMENTO ao recurso especial.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85,§ 11, do NCPC, visto não sercabível na hipótese.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação nas penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. PENHORA DE REMUNERAÇÃO. RELATIVIZAÇÃO EXCEPCIONAL. AGRAVO CONHECIDO .RECURSO ESPECIAL NÃOPROVIDO.
