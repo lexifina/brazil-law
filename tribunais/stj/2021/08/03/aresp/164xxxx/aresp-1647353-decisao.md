@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Safra Leasing S.A. Arrendamento Mercantil, com base no art. 105, III, a e c, da Constituição Federal.
+Compulsando os autos, verifica-se que aagravadaingressou com ação ordinária de revisão contratual(e-STJ, fls. 1-19), tendo o Juízo de primeiro grau julgado procedentes os pedidos (e-STJ, fls. 180-190).
+Interposta apelação pela parteora agravante, o Tribunal estadual decidiu, por unanimidade, negar-lhe provimento, nos seguintes termos (e-STJ, fls. 258-259):
+APELAÇÃO CÍVEL. ARRENDAMENTO MERCANTIL. AÇÃO DE REVISÃO DE CONTRATO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR, POSSIBILIDADE DE REVISÃO DO CONTRATO E DECLARAÇÃO "EX OFFICIO" DA NULIDADE DE CLÁUSULAS ABUSIVAS. O Código de Defesa do Consumidor é norma de ordem pública, que autoriza a revisão contratual e a declaração de nulidade de pleno direito de cláusulas contratuais abusivas, o que pode ser feito até mesmo de ofício pelo Poder Judiciário.
+DESCARACTERIZAÇÃO DO CONTRATO. O pagamento antecipado do V.R.G. descaracteriza o contrato de arrendamento mercantil para compra e venda a prestações.
+JUROS REMUNERATÓRIOS. Não prevendo o contrato taxa de juros, esta não poderá superar 12% ao ano. Ademais, sendo inadmissível a excessiva onerosidade contratual, a cobrança de juros abusivos é nula, especialmente em período de estabilidade econômica. Aplicação do art. 51, IV, do CDC.
+CAPITALIZAÇÃO DE JUROS. Cabível a capitalização anual de juros, de acordo com o disposto no artigo 591 do CC, somente quando prevista expressamente.
+ENCARGOS MORATÓRIOS. - Comissão de Permanência. É vedada a cumulação de correção monetária com comissão de permanência. Súmula n2 30, do S.T.J. Também proibida a cobrança de comissão de permanência sem prévia estipulação de índice, em especial quando a sua apuração é contratualmente franqueada à instituição financeira. - Juros de mora. Mantidos em 1 % ao mês sobre a prestação em atraso, nos termos do art. 406 do Código Civil de 2002. - Inocorrência de Mora "Debendi". Em virtude da não configuração da mora do devedor, são inexigíveis os ônus a título de mora. CORREÇÃO MONETÁRIA. O I.G.P.-M. é o índice que melhor recompõe as perdas ocasionadas pela inflação.
+COMPENSAÇÃO DE VALORES E/OU REPETIÇÃO DE INDÉBITO. Diante da excessiva onerosidade e abusividade do contrato, é cabível a compensação de valores e/ou a repetição simples de indébito ainda que não haja prova de que os pagamentos a maior tenham sido ocasionados por erro.
+VEDAÇÃO DA INSCRIÇÃO DO NOME DO DEVEDOR EM CADASTROS DE INADIMPLENTES E MANUTENÇÃO NA POSSE DO BEM. Na pendência de ação revisional de contrato, justificase o deferimento de medida que objetiva excluir ou impedir o cadastramento do nome do devedor em órgãos de restrição ao crédito e de mantê-lo na posse do bem.
+AÇÃO DE REINTEGRAÇÃO DE POSSE. IMPROCEDÊNCIA. Uma vez descaracterizado o arrendamento mercantil para uma compra e venda a prestações e verificadas a excessiva onerosidade, abusividade e ilegalidades do contrato, não restaram caracterizados a mora "debendi" e o esbulho. Improcedência da ação possessória.
+APELAÇÃO PROVIDA, COM DISPOSIÇÃO DE OFÍCIO. RECURSO ADESIVO DESPROVIDO.
+Apresentados embargos de declaração pelaparte agravante, estes foram rejeitados(e-STJ, fls. 299-306).
+Nas razões do recurso especial (e-STJ, fls. 312-353), fundado no art. 105, III, a e c, da Constituição Federal, a parterecorrente alegou violação aos arts. 43 e 51 do CDC; 146, 394,397 e 877 do CC; 128, 460, 512, 515,535, 926 e 927 do CPC/1973; à Lei 4.595/1964, além de afirmar ofensa à Súmula 596/STJ e existência de dissídio jurisprudencial.
+Contrarrazões não apresentadas (e-STJ, fl. 437).
+Em novembro de 2018, o Terceiro Vice-Presidente do TJRS devolveu os autos à Câmara de origem para exercer juízo de retratação, em virtude do decidido no REsp 1.061.530/RS(e-STJ, fls. 480-484).
+Em juízo de retratação, a Décima Quarta Câmara do mencionado tribunal decidiu modificar o julgado, dando parcial provimento aos recursos interpostos(e-STJ, fls. 532-541).
+O Tribunal de origem negou seguimento ao recurso especial em razão do decidido no REsp 1.112.879 (Tema 233), no REsp 973.827/RS (Temas 246 e 247), e no REsp 1.058.114/RS (Tema 52), e não admitiu o seu processamentoem virtude da incidência das Súmulas n. 5, 7, 83 e 518/STJ (e-STJ, fls. 545-557).
+Brevemente relatado, decido.
+Com efeito, à luz da dialeticidade recursal, a parte agravante deve contestar motivadamente todos os fundamentos da decisão agravada, não sendo suficiente a apresentação de afirmações genéricas ou em sentido contrário ao julgado impugnado, nem a mera reiteração de argumentos já examinados por ocasião do julgamento do recurso anteriormente interposto (v.g. AgInt no AREsp 884.901/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 17/5/2016, DJe 27/5/2016; AgRg no AREsp 773.710/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 10/5/2016, DJe 17/5/2016; AgRg no Ag 1.056.913/SP, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 6/11/2008, DJe 26/11/2008).
+O entendimento desta Corte é no sentido de que a parte recorrente deve infirmar os fundamentos da decisão impugnada, mostrando-se inadmissível o agravo que não se insurge especificamente contra todos eles.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. DUPLO JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. NÃO VINCULAÇÃO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DA SÚMULA N. 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA E DOS ARTIGOS 932, III, E 1.021, § 1º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. NÃO CONHECIDO.
+1. "O recurso especial sofre um duplo juízo de admissibilidade, não estando vinculado ao juízo de admissibilidade do Tribunal de origem" (AgRg no AREsp 395.588/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 7/11/2013, DJe 21/11/2013).
+2. Constitui ônus da parte agravante a impugnação específica de todos os fundamentos da decisão agravada, à luz do princípio da dialeticidade. Incidência da Súmula n. 182 do Superior Tribunal de Justiça e aplicação dos artigos 932, III, e 1.021, § 1º, do estatuto processual civil de 2015. Precedentes.
+3. Agravo interno não conhecido.
+(AgInt nos EDcl no REsp 1810291/AM, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 29/06/2020, DJe 03/08/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. FIXAÇÃO DE HONORÁRIOS RECURSAIS. NECESSIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. O presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art.
+932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp 1595537/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+No caso em exame, nos termos da decisão de admissibilidade (e-STJ, fls. 545-557), o Tribunal originário não admitiu o recurso especial em razão da incidência das Súmulas 5, 7, 83 e 518/STJ.
+Todavia, da leitura da petição de agravo em recurso especial (e-STJ, fls. 560-583), constata-se que a parte agravante não procedeu à impugnação específica de todos os argumentos mencionados pela Corte estadual para inadmitir o apelo especial.
+Incontestável, portanto, que não houve impugnação específica da decisão ora agravada, circunstância que impede o conhecimento do agravo, conforme o disposto pelo art. 932, III, do CPC/2015.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO ORDINÁRIA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO AGRAVADA. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
