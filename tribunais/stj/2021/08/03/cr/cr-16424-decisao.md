@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de carta rogatória em que a Justiça italiana requer a notificação de C. DOSS. A.(fls. 4-7).
+A intimação da parte interessada foi recebida por terceiro (fls. 43-44). Representada por advogado constituído nos autos (fl. 49), apresentou impugnação às fls. 44-48, na qual requer que a carta rogatória seja remetida à Justiça italiana para processamento do feito.
+O Ministério Público Federal opinou pela remessa dos autos à Justiça rogante ante o cumprimento da comissão (fls. 61-62).
+É, no essencial, o relatório. Decido.
+Nota-se que a intimação prévia foi recebida por terceiro (fls. 43-44), manifestando-se espontaneamente a parte interessada por meio de advogado constituído nos autos (fls. 44-48), de forma a concluir que está ciente do teor da presente carta rogatória. Nesse sentido é a jurisprudência desta Corte:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA CARTA ROGATÓRIA. DIREITO CIVIL. ALEGAÇÃO DE INCOMPETÊNCIA DO REQUERENTE QUE ENCAMINHA A COMISSÃO. DESCUMPRIMENTO DA CONVENÇÃO RELATIVA À CITAÇÃO E À NOTIFICAÇÃO NO ESTRANGEIRO DOS ACTOS JUDICIAIS E EXTRAJUDICIAIS EM MATÉRIA CIVIL E COMERCIAL PROMULGADA PELO DECRETO N. 9.734, DE 20 DE MARÇO DE 2019. NÃO OCORRÊNCIA. INTIMAÇÃO PRÉVIA. AVISO DE RECEBIMENTO ASSINADO POR TERCEIRO. COMPARECIMENTO ESPONTÂNEO DA PARTE INTERESSADA. CONCESSÃO DE EXEQUATUR. DEVOLUÇÃO DOS AUTOS À JUSTIÇA ROGANTE ANTE O CUMPRIMENTODA DILIGÊNCIA. DESNECESSÁRIA REMESSA À JUSTIÇA FEDERAL. PRECEDENTES. PEDIDO DE ESCLARECIMENTOS AO JUÍZO ROGANTE. IMPOSSIBILIDADE. ART. 216-Q DO RISTJ.
+ ..
+2. A Corte Especial do STJ já decidiu que é válida a intimação prévia cujo aviso de recebimento foi assinado por terceiro e que a manifestação espontânea da parte interessada consuma o objeto da comissão, sendo desnecessária a remessa à Justiça Federal. Precedentes. (AgInt nos EDcl na CR n. 14948/EX, Ministro Humberto Martins, DJe de 16/11/2020.)
+Ademais, verifica-se que a presente carta rogatória preenche os requisitos do art. 963, parágrafo único, do Código de Processo Civil, bem como do art. 216-P do Regimento Interno do Superior Tribunal de Justiça, uma vez que oobjeto da presente carta rogatória não atenta contra a soberania nacional, a dignidade da pessoa humana e/ou a ordem pública, razão pela qual concedo o exequatur.
+Ante o cumprimento da diligência, determino a devolução dos autos à Justiça rogante por intermédio da autoridade central.
+Publique-se. Intimem-se.
