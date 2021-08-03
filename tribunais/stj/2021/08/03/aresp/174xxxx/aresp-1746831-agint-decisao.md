@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo Sindicato Nacional dos Docentes das Instituições de Ensino Superiorcontra decisão de fls. 626/627,que não conheceu do agravo emrecurso especial, ante a incidência daSúmula 182/STJ.
+Inconformado, o agravantedefende a inaplicabilidade do referido óbice, sob o argumento de que "no juízo de admissibilidade do recurso especial tão somente foi mencionada a alegação do Sindicato de violação ao art. 1.022 do CPC, deixando, contudo, de ser apreciada, pois o Des. Vice-Presidente entendeu que tal alegação restou prejudicada em vista da questão de fundo (violação ao art. 571 da CLT - legitimidade ativa do Sindicato) não reunir as condições de admissibilidade do recurso especial: "Em que pese a alegação de afronta ao art. 1.022 do Novo CPC, (..) cumpre observar, quanto à questão de fundo, que o presente recurso não reúne as necessárias condições de admissibilidade,tornando despiciendo o exame da violação, em tese, ao apontado dispositivo infraconstitucional.Portanto, em momento algum o E. Vice-Presidente do TRF4 examinou a alegação de violação ao art. 1.022 do CPC, pelo contrário, afirmou ser despiciendo seu exame! Razão pela qual, não se pode punir o Sindicato por não ter recorrido de questão que sequer foi analisada na decisão agravadado Tribunal de origem" (fls. 634/635).
+Não houve impugnação da parte agravada.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Melhor compulsando os autos e exercendoo juízo de retratação facultadopelos arts. 1.021, § 2º, do CPC/2015 e 259 do RISTJ, reconsidero a decisão agravada, tornando-a sem efeito.
+Após, voltem-me os autos conclusos para nova apreciação do agravo emrecurso especial.
+Publique-se.
