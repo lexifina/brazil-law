@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de Agravo de decisão que não admitiu o Recurso Especial interposto contra acórdão foi assim ementado (fls. 437-447, e-STJ):
+APELAÇÃO - Responsabilidade pelas obras de remoção de redes de transmissão de energia elétrica em rodovia - Inaplicabilidade do Tema nº 261 do STF - Decreto Federal nº 84.398/1980 inaplicável à hipótese - Matéria disciplinada no regulamento para autorização de uso da faixa de domínio de estradas e rodovias integrantes da malha rodoviária do DER - Inocorrência de coação quando da adesão do regulamento - Concessionária que deve arcar com os custos de remanejamento da infraestrutura instalada em faixas de domínio - Obrigação de manter serviço adequado, nos termos do artigo 175, parágrafo único, inciso IV, da Constituição Federal e artigo 6º, caput e § 1 º, da Lei nº 8.987/1995 - Sentença de procedência mantida Recurso desprovido.
+Os Embargos de Declaração foram desacolhidos (fls. 495-498, e-STJ).
+EDP - São Paulo Distribuição de Energia S.A. afirmou que houve, além de divergência jurisprudencial, ofensa aos arts. 1º, 2º e 6º do Decreto Federal 84.398/1980; 1º e11da Lei 8.897/1995; e 489, II, e 1.022, II, do CPC. Sustentou que o TJSP insiste em não analisar fundamento jurídico nodal para o feito, qual seja, a impossibilidade da cobrança pretendida pelo recorrido, expressamente previstapelo Decreto Federal 84.398/1980.
+Em seu Agravo defende (fls. 516-524, e-STJ):
+Os dispositivos do Decreto mencionado foram expressamente mencionados em todas as manifestações da Agravante, entretanto, apesar da cristalina violação aos artigos do Decreto Federal, bem como aos artigos do Código Civil mencionados, estes sequer foram objeto de análise pela decisão que inadmitiu o Recurso Especial.
+Contrarrazões às fls. 502-511, e-STJ, e contraminuta às fls. 516-524, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 6 de julho de 2021.
+A irresignação não merece acolhida. O Tribunal de origem consignou:
+Primeiramente, desnecessária nova análise da tese trazida pela apelante, acerca da necessidade de suspensão do feito até o julgamento do Tema nº 261 do Supremo Tribunal Federal, eis que a questão já foi fartamente discutida em decisão monocrática proferida por este Relator em Petição nº 2027715-85.2020.8.26.0000, posteriormente, por ocasião do julgamento do Agravo Interno nº 2027715-85.2020.8.26.0000/50000 (Voto nº 30101), ocorrido em 20/03/2020 (fls. 422/430), que transcrevo em parte:
+Inaplicável ao presente caso a tese do Tema 261 do STF, tendo em vista que esta diz respeito a ser inconstitucional a cobrança de taxa, espécie tributária, pelo uso de espaços públicos dos municípios por concessionárias prestadoras do serviço público de fornecimento de energia elétrica. No presente caso discute-se a responsabilidade pelo custeio de remoção dos postes de energia elétrica em razão da ampliação da rodovia, diferentemente do discutido no referido tema.
+Da mesma forma, também já analisada na mesma decisão supramencionada, a tese acerca da aplicabilidade ao caso do Decreto Federal nº 84.398/80, nos seguintes termos:
+Também resta superada a previsão contida no Decreto Federal nº 84.398/80, com a redação dada pelo Decreto Federal nº 86.859/82, conforme, inclusive, já decidido por esta C. 9ª Câmara de Direito Público:
+(..)
+À luz de todo o exposto, forçoso reconhecer que os regulamentos federais em comento não podem impor sua eficácia às normas dos demais entes federados. Sendo assim, inaplicável, na espécie, o contido no artigo 6º, inciso I, do Decreto nº 84.398/80, objeto de argumentação legal da ré, para impor à autora o ônus da retirada e recolocação dos postes em questão. (Apelação nº 0216755-43.2008.8.26.0000, Rel. Des. Rebouças de Carvalho, j. 04.03.2009).
+Ademais as previsões contratuais indicadas pela ré como fundamento de seus argumentos visam, apenas, regular as relações entre o poder público concedente e a concessionária tomadora dos serviços de administração da rodovia.
+(..)
+Assim sendo, inequívoca a inaplicabilidade ao caso das regras estabelecidas pelo Decreto Federal nº 84.398/80, devendo, portanto, ser observado o que dispõe a Portaria SUP/DER-050 de 21.07.2009, que aprovou o regulamento para autorização de uso da faixa de domínio de estradas e rodovias integrantes da malha rodoviária do DER, nos seguintes termos:
+(..)
+Ademais, é absurda a alegação da apelante de que teria aderido a tais regras mediante coação do DER, tendo em vista que sequer ingressou com consulta perante às agências reguladoras acerca do assunto ou ingressou com pedido de revisão dos termos definidos.
+Referido regulamento foi expedido em caráter geral e dentro das competências do DER, incidindo o que disciplina o art. 153 do Código Civil, no sentido que: "Não se considera coação a ameaça do exercício normal de um direito, nem o simples temor reverencial".
+E, como bem salientou o Magistrado de Primeiro Grau, a apelante é "uma empresa economicamente robusta e a adesão ao referido regulamento lhe impôs obrigações absolutamente normais, não havendo que se falar em nulidade das cláusulas contratuais".
+Assim sendo, por todo o acima exposto, bem como, pelo fato de ser a concessionária de energia elétrica quem usufrui diretamente dos lucros auferidos pela transmissão e distribuição da energia efetuada através da infraestrutura situada na rodovia administrada pela apelada, deverá arcar com os custos de remoção e realocação de postes e equipamentos da rede, uma vez que tais obras são relacionadas diretamente ao serviço público de distribuição de energia elétrica do qual tem a concessão, bem como em razão dos comandos constitucional e legal de manter um serviço adequado.
+(..)
+Diante disso, entendo correta a r. sentença que julgou procedente a ação, devendo ser mantida por seus próprios fundamentos.
+Por fim, em razão da interposição do presente recurso, nos termos do art. 85, §§1º e 11, do Código de Processo Civil, majoro os honorários advocatícios devidos pela apelante, para o patamar de R$ 6.000,00 (seis mil reais).
+Ocorrendo isto, NEGO PROVIMENTO AO RECURSO, nos termos supramencionados.
+Inicialmente, cumpre registrar que a jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que não incorre em negativa de prestação jurisdicional o acórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas não acatando a tese defendida pela recorrente.
+Da leitura atenta do voto condutor, vê-se que o Tribunal de origem se manifestou de maneira clara e embasada acerca das questões relevantes para o deslinde do conflito, inclusive daquelas em relação às quais a recorrente alega omissão.
+Dessa forma, correta a rejeição dos Embargos de Declaração ante a inexistência de omissão, contradição ou obscuridade a serem sanadas. Por conseguinte, deve-se concluir não ter havido ofensa aos artigos 489 e 1.022 do CPC/2015.
+Conclui-se que a instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos e na análise das cláusulas do contrato administrativo, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice das Súmulas 5 e 7 do STJ.
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Por tudo isso, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
