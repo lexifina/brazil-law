@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido de liminar interposto porLINCON RICARDO BARBOSA DO NASCIMENTOcontra acórdão doTribunal de Justiça do Estado de São Paulo(HC n. 2294175-70.2020.8.26.0000).
+O recorrente teve a prisão em flagrante -ocorrida em 8/11/2020-convertida em preventiva a pedido do Ministério Público (fls. 32-35)e foi denunciado por suposta prática do delito descrito no art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na apreensão de expressiva quantidade e variedade de entorpecentes-203,7g de maconha,51,2 g de cocaína e14,8g de crack- ede significativa quantia em dinheiro(R$ 1.165,25), bem comono fato de o crime envolver pessoa menor de idade.
+Impetrado writ originário, a ordem foi denegada.
+Orecorrente alega queestá sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar. Sustentaviolação do princípio da proporcionalidade.
+Requer o conhecimento e provimento do recurso para que lhe seja concedida a liberdade provisória.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso em habeas corpus (fls. 84-89).
+As informações foram prestadas às fls. 95-104 e 110-111.
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fl. 50):
+Ressalte-se, outrossim, a hediondez do crime de tráfico de drogas, o modo e as circunstâncias com que praticado, cuja gravidade concreta se revela essencialmente aguda e deve ser sopesada na hipótese, sobretudo se considerar a natureza, variedade e quantidade das drogas apreendidas (97 porções com 203,7g de maconha, 80 porções contendo 51,2 g de cocaína, e 39 porções contendo 14,8 g de crack), a considerável quantia em dinheiro apreendida no contexto do flagrante (R$ 1.165,25), e que a mercancia ilícita estaria sendo cometida juntamente com adolescente.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso,a apreensão de quantidade evariedadedeentorpecentes (203,7g de maconha, 51,2g de cocaína e 14,8 g de crack) ede significativa quantia em dinheiro (R$ 1.165,25) e o fato de o crime envolver pessoa menor de idadeforam considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
