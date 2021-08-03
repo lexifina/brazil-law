@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública do Estado de São Paulo em favor de JOSE MAURO TAURINO DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0001078-59.2020.8.26.0509).
+Consta dos autos que Juízo das Execuções Criminais indeferiu pedido de retificação do cálculo de penas para fins de progressão de regime, considerando o lapso temporal de 3/5 (60%), por ser o réu reincidente (e-STJ, fl. 25).
+Inconformada, a defesa interpôs agravo em execução perante a Corte estadual, pugnando, dentre outros argumentos, pela retificação do cálculo de penas do sentenciado.
+O Tribunal, contudo, negou provimento ao recurso (e-STJ, fls. 31/36).
+Na presente impetração, a Defensoria pública relata que o paciente é reincidente simples em crime comum, de modo que o lapso aplicável ao caso do sentenciado é de 40% (quarenta por cento) para progressão de regime.
+Argumenta que se, de um lado, o executado não é primário, como mencionado pelo inciso V do artigo 112 da Lei de Execução Penal, de outro, não é reincidente específico, como expressamente exige o inciso VII do mesmo artigo, deverá ser aplicada a norma mais favorável, como consequência lógica do princípio do favor rei.
+Pede, assim, liminarmente e no mérito, a retificação do cálculo de penas para constar o prazo de 40% (quarenta por cento) para fins de progressão de regime prisional.
+Às fls. 39/41, indeferi a liminar.
+Foram prestadas informações pelo Juízo de Direito da Unidade Regional de Departamento Estadual de Execução Criminal - DEECRIM 2ª RAJ - da Comarca de Araçatuba/SP, nas quais esclarece que "revendo entendimento anterior, passei a adotar o quanto decidido pelo E.STJ no julgamento dos AgRg no HC 616.267 - SP e 613.268 - SP, de modo que ao condenado em crime hediondo ou equiparado com resultado morte, não se tratando de reincidência específica, não possui previsão abarcada pela atual Lei 13.964/2019 (pacote anticrime), haja vista que o novo percentual previsto de 70% é apenas para o reincidente específico" (e-STJ fl. 48).
+Também o Tribunal de Justiça de São Paulo prestou informações às e-STJ fls. 59/60.
+Instado a se manifestar sobre a controvérsia, o órgão do Ministério Público Federal que atua perante esta Corte opinou "pela prejudicialidade do presente habeas corpus, uma vez que, segundo informações trazidas pelo magistrado de piso, foi determinada a aplicação do percentual de 40% do cumprimento de pena privativa de liberdade ao reeducando, em razão da novatio legis e diante da lacuna legislativa" (e-STJ fl. 86).
+É o relatório. Passo a decidir.
+Tendo em conta que a única irresignação posta na presente impetração dizia respeito à realização de novo cálculo da pena do paciente, aplicando-se o percentual de 40% (quarenta por cento) previsto no art. 112, V, da Lei de Execuções Penais, para fins de progressão de regime, e que, nas informações prestadas, o Juízo de 1º afirmou ter reconsiderado sua decisão anterior para determinar a realização de novo cálculo, nos moldes pleiteados pela defesa, não remanesce interesse na discussão posta nestes autos.
+Ante o exposto, com amparo no art. 34, XI e XX, do Regimento Interno do STJ, não conheço do presente habeas corpus, ante a perda superveniente de seu objeto.
+Intimem-se.
