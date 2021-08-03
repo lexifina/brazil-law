@@ -1,0 +1,36 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+2. Hipótese em que o agravante limita-se a reiterar mesma argumentação lançada nas razões do habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS(Relator):
+Trata-se de agravo regimental interposto por WILLIAM LUCAS DA SILVA contra decisão que negou provimento ao recurso em habeas corpus.
+Em razões, alega que, na hipótese, o contraditório para a prova foi subtraído, uma vez que, ao ser chamado ao ato de instrução na condição de testemunha, foi retirado do acusado a possibilidade de participar da produção da prova.
+Argumenta que a participação para a produção da prova pressupõe que seja dado ao agravante o tempo necessário para exercer o contraditório. Não se pode dar por satisfeito a mera presença do acusado sendo-lhe retirados a oportunidade de se preparar para uma audiência na qual figura de acusado.
+Afirma que a ausência de manifestação acerca da nulidade pelo advogado dativo apenas mostra a evidente deficiência de defesa. Aduz que a nulidade é de natureza absoluta e foi apontada na primeira oportunidade dada à defesa constituída, que se antecipou à própria apresentação de alegações finais pelo Ministério Público. Em contraposição à decisão agravada na parte em que refere que o réu foi acompanhado pelo seu procurador, aponta o direito do acusado de escolha de seu defensor.
+Sustenta que intimar um acusado na figura de testemunha não é mera irregularidade, mas um vício grave que subleva todo o arcabouço de garantias processuais e cria perigoso precedente. Aduz que a gravidade e o prejuízo da nulidade suscitada no presente recurso é grave e geradora de prejuízo à defesa.
+Requer a revisão da decisão agravada a fim de que sejam declarados nulos os atos instrutórios do processo desde a intimação do agravante para a AIJ na condição de testemunha.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+2. Hipótese em que o agravante limita-se a reiterar mesma argumentação lançada nas razões do habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS(Relator):
+"O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369-SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ-PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+Nas razões do recurso, a defesa sustentou que o ora agravante foi intimado para comparecer à audiência de instrução e julgamento na condição de testemunha. Todavia, se tratava de seu interrogatório como réu na ação penal. Apontou, assim, cerceamento de defesa e violação ao princípio do contraditório e requereu fosse declarada a nulidade de toda a instrução processual a partir da intimação do acusado para a audiência de instrução e julgamento na qualidade de testemunha.
+Na decisão agravada, esta Relatoria negou provimento ao recurso, salientando que o interrogatório do acusado foi anulado, com a determinação de seu refazimento, providência suficiente para sanar o equívoco ocorrido na intimação do recorrente, e que a pretensão de declarar nulidade integral da audiência de instrução não encontra justificativa, não tendo o recorrente comprovado o efetivo prejuízo à plenitude de sua defesa.
+Ressaltou-se que, não obstante o equívoco na intimação do réu, - devidamente reconhecido pela magistrada com a determinação de anulação do ato e sua renovação - este já tinha conhecimento da ação penal instaurada em seu desfavor, tendo sido assistido a todo tempo por defensor dativo que o acompanhou durante a audiência de instrução e julgamento, tendo-lhe sido oportunizada a arguição da vítima e das testemunhas arroladas, em pleno exercício da defesa técnica. Frisou-se, também, que o defensor dativo não alegou a ocorrência de quaisquer nulidades quando da realização da audiência.
+Dentro desse contexto, já devidamente determinada a renovação do interrogatório do acusado, foi registrado na decisão agravada que a pretensão de anulação de toda a instrução processual não se justificava, notadamente as oitivas das vítimas e das testemunhas, e o interrogatório do outro denunciado, uma vez que, em momento algum o recorrente logrou comprovar em que medida foi prejudicado.
+Foi como também se manifestou o representante do Parquet, em seu parecer:
+"In casu, não se vislumbra qualquer ilegalidade na decisão acima colacionada, pois, muito embora o ora recorrente tenha sido intimado na condição de testemunha, em audiência foi acompanhado por defensor dativo e, em decisão posterior, o juízo de primeiro grau decidiu por anular o interrogatório realizado, sendo remarcado para data futura.
+Oportuno ressaltar, ainda, que conforme observado pela magistrada de primeiro grau: "o acusado, quando citado, entendeu por bem se quedar inerte, razão pela qual sua defesa, até então, não foi patrocinada por advogado constituído, mas por defensor nomeado pelo juízo, o qual registra-se, não alegou a ocorrência de quaisquer nulidades quando da realização da audiência."(fl. 39).
+Desse modo, o acórdão de origem encontra-se em perfeita sintonia com o posicionamento desta Corte Superior segundo que entende que o prejuízo é condição necessária ao reconhecimento da nulidades." (e-STJ, fl. 129)
+Verifica-se, assim, que o agravante limita-se a reiterar as mesmas argumentações lançadas nas razões do recurso em habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+Diante do exposto, nego provimento ao agravo.
+É como voto.
