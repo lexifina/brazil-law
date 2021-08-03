@@ -1,0 +1,119 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Claudian Leonel dos Santos e Marcelo Guerra Felix de Lima, com base no art. 105, III, a, da Constituição Federal.
+Compulsando os autos, verifica-se que os agravantes ingressaram com ação de indenização por danos materiais e morais (e-STJ, fls. 4-43), tendo o Juízo de primeiro grau julgado improcedente o pedido (e-STJ, fls. 824-826).
+Interposto recurso de apelação pelos ora agravante, o Tribunal estadual decidiu, por unanimidade, negar-lhe provimento, em acórdão assim ementado (e-STJ, fls. 964-965):
+APELAÇÃO CÍVEL 1 E 2. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E DANOS MORAIS. SENTENÇA DE IMPROCEDÊNCIA DOS PEDIDOS FORMULADOS NA INICIAL. RECURSO DE APELAÇÃO 01 INTERPOSTO PELOS AUTORES. PRETENSÃO DE PROVAR A INTENÇÃO DE PESSOA MORTA POR PROVA ORAL. INVIABILIDADE. PROVA DISPENSÁVEL PARA A EVIDÊNCIA DOS FATOS ALEGADOS NO PROCESSO. CERCEAMENTO DE DEFESA. INOCORRÊNCIA. PRETENSÃO DE RECONHECIMENTO DE PRÁTICA DE ATO ILÍCITO PELOS REQUERIDOS. ALEGAÇÃO DE QUE A VERDADEIRA INTENÇÃO DO FALECIDO AO TRANSFERIR BENS À PESSOA JURÍDICA ERA POSSIBILITAR POSTERIOR PARTILHA DOS BENS ENTRE OS AUTORES. AUSÊNCIA DE COMPROVAÇÃO. ATO ILÍCITO NÃO DEMONSTRADO. PEDIDO DE APLICAÇÃO DA TEORIA DA PERDA DE UMA CHANCE. NÃO INCIDÊNCIA. PRETENSÃO DE INDENIZAÇÃO PELA PERDA DA PROBABILIDADE DE RECEBER BENS EM DOAÇÃO. MERA EXPECTATIVA. AUSÊNCIA DE PERDA DE PROBABILIDADE REAL. SENTENÇA DE IMPROCEDÊNCIA MANTIDA. RECURSO CONHECIDO E DESPROVIDO.
+1. O juiz indeferirá, em decisão fundamentada, as diligências inúteis ou meramente protelatórias. Cerceamento de defesa não configurado.
+2. Ausência de comprovação da existência de obrigação da pessoa jurídica que adquiriu os bens do falecido aos autores. Prática de ato ilícito não configurada.
+3. Doação de bens em vida que deve se dar em vida pelo doador, mediante ato solene.
+4. "A teoria da perda de uma chance não se presta a reparar danos fantasiosos, não servindo ao acolhimento de meras expectativas, que pertencem tão somente ao campo do íntimo desejo, cuja indenização é vedada pelo ordenamento jurídico, mas sim um dano concreto (perda da probabilidade)" (REsp 1.540.153/RS, Min. Luis Felipe Salomão). Recurso conhecido e desprovido.
+Apresentados embargos de declaração pelos ora agravantes, estes foram rejeitados (e-STJ, fls. 1.040-1.045).
+Nas razões do recurso especial, fundado no art. 105, III, a, da Constituição Federal, os recorrentes alegaram violação aos arts. 369, 371 e 492 do CPC/2015; 107, 186, 187, 402, 422 e 927 do CC (e-STJ, fls. 1.066-1.084).
+Contrarrazões apresentadas (e-STJ, fls. 1.111-1.121).
+O Tribunal de origem não admitiu o processamento do recurso especial em virtude da incidência das Súmulas n. 7 e 211/STJ e 282/STF (e-STJ, fls. 1.126-1.128).
+Foi interposto agravo em recurso especial às fls. 1.145-1.163 (e-STJ), e contraminuta apresentada às fls. 1.178-1.188 (e-STJ).
+Brevemente relatado, decido.
+De início, no que diz respeito ao alegado cerceamento de defesa, o Tribunal local não reconheceu a sua ocorrência, com base nos seguintes fundamentos (e-STJ, fls. 968-972):
+Os autores, ora apelantes 01, alegam que a prova testemunhal seria essencial para comprovar os fatos narrados na inicial e reforçar a intenção do falecido em deixar seus bens também aos apelantes, mediante a oitiva dos irmãos do falecido Sr. RIOLANDO CARLOS DE BARROS, bem como para comprovar o ilícito praticado pelos apelados, sobretudo o primeiro. Requerem, assim, a declaração de nulidade da sentença em razão do cerceamento de defesa.
+Não lhes assiste razão.
+Em que pese requerida pelos apelantes 1 a produção de prova testamental, o juiz de primeiro grau entendeu ser desnecessária a providência, ao argumento de que o conjunto probatório existente era suficiente para formar o convencimento do juízo (decisão de mov. 142.1).
+A possibilidade de julgamento antecipado do feito está disciplinada no artigo 335 do Código de Processo Civil de 2015:
+ ..
+O magistrado é destinatário das provas, cabendo a ele indeferir aquelas provas que são irrelevantes ao deslinde da controvérsia, conforme preceitua o artigo 370 do Código de Processo Civil de 2015:
+ ..
+Em decorrência do princípio da livre persuasão racional, o juiz possui a prerrogativa de indeferir, motivadamente, a produção de provas que se lhe apresentem desnecessárias ou inúteis, sem que isso represente ofensa aos princípios constitucionais do contraditório e da ampla defesa, consagrados no art. 5º, LV, da Constituição da República.
+A s s i m , c a b e a o m a g i s t r a d o d e l i m i t a r q u a i s p r o v a s devem ser produzidas, levando-se em consideração a relevância para o deslinde do feito, devendo indeferir cabe as provas que são irrelevantes ao deslinde da controvérsia.
+In casu, observa-se que o requerimento de produção de prova testemunhal veio desacompanhado da justificação da finalidade da prova, bem como de sua pertinência para o deslinde da demanda.
+Além da ausência de justificativa para a produção, os apelantes 01 não demonstraram a imprescindibilidade da prova que pretendiam produzir, bem como a sua utilidade.
+A existência da doação alegada nos autos é matéria eminentemente de direito, não havendo que se falar na produção de outras provas que não as documentais já acostadas aos autos. E não se pode comprovar por prova oral a intenção de pessoa morta em doar em vida seus bens aos autores (até porque a doação é, em regra, ato solene).
+Além disso, é possível extrair a análise do mérito a partir dos documentos acostados aos autos, isto é, a existência ou não de obrigação de transferência de bens em favor dos autores.
+Logo, é possível o julgamento antecipado da lide, sem qualquer ameaça de violação aos princípios da ampla defesa e do contraditório, haja vista que a produção de outras provas apenas atrasaria o andamento do feito.
+ ..
+Desta forma, não se verifica a ocorrência de cerceamento de defesa.
+Desse modo, infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade de produção de outras provas, tal como buscam os insurgentes, demandaria o reexame dos fatos e provas dos autos, providência vedada nessa esfera recursal, em razão da incidência da Súmula 7 do STJ.
+No mesmo sentido, guardadas as peculiaridades do caso, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL. CONTRATO BANCÁRIO. AÇÃO REVISIONAL. ALEGADO CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO DEMONSTRAÇÃO DE SIMILITUDE ENTRE O JULGADO DE REPETITIVO E OS PRESENTES AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O cerceamento de defesa sustentado na ausência de realização de provas pericial requerida foi afastado pelo Tribunal local - destinatário da prova - com respaldo no acervo fático e probatório dos autos, de forma que a sua revisão, na via especial, é obstada pela Súmula n. 7 desta Corte.
+2. Não configura cerceamento de defesa o julgamento da causa, com o julgamento antecipado da lide, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente. Precedentes.
+3. O disposto no art. 7º do CPC de 2015, não foi objeto de análise pelo Tribunal de origem falecendo ao tema o necessário prequestionamento. Incidência da Sumula 282/STF.
+4. A tese repetitiva fixada no recurso especial repetitivo 1.124.552/RS, julgado pela Corte Especial, deve ser observado no âmbito dos julgamentos relativos ao Sistema Financeiro da Habitação. O recorrente não demonstra a similitude fática e jurídica entre os casos tratados no julgamento do repetitivo e nesses autos, o que revela deficiência de fundamentação a atrair a súmula 284/STF.
+5. Agravo interno não provido. (AgInt no AgInt no AREsp 1.595.938/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/9/2020, DJe 29/9/2020 - sem grifo no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS E DE HONORÁRIOS ADVOCATÍCIOS. PROVA PERICIAL. INDEFERIMENTO. CERCEAMENTO DE DEFESA. OCORRÊNCIA. MATÉRIA DE NATUREZA FÁTICA, E NÃO APENAS DE DIREITO. NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. RETORNO DOS AUTOS À ORIGEM. PROVIMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça entende que não configura cerceamento de defesa o julgamento antecipado da lide quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção de prova pericial, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente; todavia, essa situação não se evidencia nos presentes autos.
+2. A matéria posta em exame possui natureza fática, e não meramente de direito, sendo o seu desate exigente de produção de provas, em especial a prova pericial, requerida desde a inicial, sob pena de caracterização de cerceamento de defesa. Precedentes.
+3. Agravo interno a que se nega provimento. (AgInt nos EDcl no REsp 1.803.933/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 6/2/2020, DJe 17/02/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL PELO JUÍZO DE PRIMEIRA INSTÂNCIA. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO PROVIDO PELO TRIBUNAL A QUO PARA RECONHECER A DESNECESSIDADE DE PRODUÇÃO DE PROVAS. PROLAÇÃO DE SENTENÇA NO PROCESSO PRINCIPAL. PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
+1. Conforme entendimento do Superior Tribunal de Justiça, fica prejudicado o Recurso Especial interposto contra acórdão que deu provimento a Agravo de Instrumento, haja vista a superveniência de decisão de mérito na origem.
+2. E ainda que assim não fosse, acresça-se, a título de obiter dictum, que os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento.
+3. Agravo Interno não provido. (AgInt no REsp 1.821.037/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/4/2020, DJe 30/4/2020 - sem grifo no original)
+Quanto à aduzida violação ao art. 492 do CPC/2015, verifica-se que o conteúdo normativo do referido dispositivo legal não foi objeto de debate pelo Tribunal de origem. Dessa forma, não tendo sido enfrentada a questão ou a tese relacionada ao artigo apontado como violado pelo acórdão recorrido, fica obstado o conhecimento do recurso especial pela ausência de prequestionamento.
+Assim, have ndo compatibilidade lógica no presente caso, incidem as Súmulas n. 282 e 356 do STF.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE BUSCA E APREENSÃO. ALIENAÇÃO FIDUCIÁRIA. NOTIFICAÇÃO EXTRAJUDICIAL. CONSTITUIÇÃO EM MORA. REALIZADA NO ENDEREÇO DA DEVEDORA. RETORNO NEGATIVO PELO MOTIVO "AUSENTE". PROTESTO DE TÍTULO. EDITAL. NÃO ESGOTAMENTO DOS MEIOS PARA LOCALIZAÇÃO DA DEVEDORA. FUNDAMENTO DO ARESTO COMBATIDO NÃO IMPUGNADO. SÚMULA Nº 283 DO STF, POR ANALOGIA. ARTS. 113 E 422 DO CC/02. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS NºS 282 E 356 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte é firme no sentido de que se faz necessária a comprovação do efetivo recebimento da notificação para a constituição em mora do devedor. Precedente.
+3. A falta de impugnação a fundamento suficiente para manter o acórdão recorrido acarreta o não conhecimento do recurso.
+Inteligência da Súmula nº 283 do STF, aplicável, por analogia, ao recurso especial.
+4. A ausência de debate no acórdão recorrido quanto ao tema suscitado no recurso especial e sobre o qual não foram opostos embargos de declaração evidencia a falta de prequestionamento, incidindo o disposto nas Súmulas nºs 282 e 356 do STF.
+5. Agravo interno não provido.
+(AgInt no REsp 1928759/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/06/2021, DJe 08/06/2021)
+No mais, o Tribunal a quo, ao julgar o recurso de apelação, consignou o seguinte (e-STJ, fls. 973-980, sem grifo no original):
+É incontroverso nos autos que CLAUDIAN LEONEL DOS SANTOS (primeiro apelante), MARCELO GUERRA FELIX (segundo apelante) e CARLOS ALBERTO CORDEIRO (primeiro apelado) prestaram serviços ao falecido Sr. RIOLANDO CARLOS DE BARROS por aproximadamente 15 (quinze) anos.
+ ..
+Consta na certidão de óbito que o de cujus era solteiro e não deixou filhos (mov. 1.8). Em 11/05/2016, foi lavrada escritura pública de inventário, partilhado o patrimônio deixado pelo de cujus no momento de seu óbito (1 imóvel e ativos financeiros) entre os seus 03 (três) irmãos (Roberto, Eloah e Humberto) - mov. 54.46 e seguintes.
+Pois bem.
+a. Da intenção do de cujus RIOLANDO em doar parte de seu patrimônio aos autores CLAUDIAN LEONEL DOS SANTOS e MARCELO FELIZ DE LIMA.
+Alegam os autores que a vontade do de cujus RIOLANDO era a de que todo o seu patrimônio fosse repartido igualitariamente entre os autores e o primeiro requerido CARLOS.
+Aduzem que há carta escrita de próprio punho redigida pelo de cujus RIOLANDO, que corroboraria a intenção de doar em vida parte de seu patrimônio aos apelantes, de forma que não pretendem a reivindicação de direitos sucessórios, mas sim em razão da prática de conduta danosa dos apelados.
+Argumentam que a destinação do patrimônio às partes decorre da manifestação "de última vontade por este expressada em sua carta escritura de próprio punho" (mov. 1.21) e que foi "maliciosamente desrespeitada pelos apelados" (mov. 171.1, página 12).
+Defendem que o requerido Carlos Alberto Cordeiro se utilizou de meios ardilosos e convenceu o Sr. RIOLANDO a transferir todos os seus bens à empresa "LONDRICON CONSTRUÇÕES ACABAMENTOS LTDA.", com a promessa de que transferiria os bens posteriormente aos demais autores, mototaxistas, para possibilitar a redução da carga tributária (considerando que o ITBI era de 2%, enquanto o ITCMD era de 4%).
+Requerem, assim, a reforma da sentença para condenar os réus ao pagamento de indenização, em razão do desrespeito da vontade do de cujus .
+Não lhes assiste razão.
+Inicialmente, cabe registrar que o aludido documento de mov. 21.1 - "Meu Útimo Desejo" - não tem o condão de comprovar a concretização de uma efetiva doação de bens pelo Sr. RIOLANDO aos autores.
+Observa-se, na realidade, que citado documento, dirigido aos familiares do proprietário dos bens objeto da lide, apenas informa a decisão de já ter doado em vida bens imóveis de sua propriedade.
+Logo, indica que as doações que pretendia fazer em vida já teriam sido realizadas, bem como de promessas de doação, não podendo os autores impugnar as doações que ele quis fazer em vida.
+Veja-se que o subscrevente solicita que "meus familiares respeitem a minha decisão de ter doado, em vida, bens imóveis de minha propriedade" (mov. 1.21). A seguir o subscrevente afirma se tratar de doação "em promessa " (mov. 1.21), ou seja, de ato ainda não formalizado.
+Além disso, alegam os apelantes 01 que o citado documento comprovaria a intenção do falecido Sr. RIOLANDO de doar em vida seus bens na proporção de 1/3 para cada uma das pessoas citados no documento:
+ ..
+Na realidade, o mencionado documento através do qual pretendem respaldar a pretensão autoral, não indiciou os percentuais de seu patrimônio que seriam doados a cada um dos beneficiados indicados, não se podendo simplesmente presumir que a cada um caberia a quota de 1/3 (divisão igualitária).
+Some-se a isso o fato de que ausente a descriminação do(s) bem(ns) supostamente objeto da doação, tendo o subscrevente se limitado a mencionar que realizou a doação de "imóveis de minha propriedade " (mov. 1.21),
+Cabe registrar que a doação é, em regra, ato solene. Por tal natureza, para que tenha validade, é necessária a sua formalização por escrito. É o teor do artigo 541 do Código Civil de 2002, in verbis :
+ ..
+Admite-se, apenas como exceção, a doação verbal, nos casos de bens móveis e de pequeno valor, nas situações previstas no parágrafo único do dispositivo acima citado.
+In casu, a doação alegada na inicial não se enquadra na exceção prevista no parágrafo único do art. 541 do Código Civil de 2002, na medida em que referente a bens imóveis.
+Ainda, a Lei Federal nº 6.015, de 31/12/197, que dispõe sobre os registros públicos, e dá outras providências, prevê a obrigatoriedade de se registrar na matrícula imobiliária do bem a doação entre vivos:
+ ..
+Conforme registrou a sentença apelada "não obstante a relação dos autores com o Sr. Riolando, os estreitos laços afetivos firmados e o conteúdo da carta de seq. 1.21, é certo que o documento apresentado não possui as formalidades necessárias para que pudesse ser considerado testamento e, consequentemente, produzir efeitos jurídicos que pudessem refletir nos atos praticados por Riolando" (mov. 160.1).
+Não se pode admitir esse documento como efetiva doação, pois não cumpriu as formalidades legais necessárias para formalização de uma doação de bem imóvel (tampouco de testamento particular)
+Observa-se que no período de 10/06/2014 a 09/06/2015, o falecido RIOLANDO alugou o imóvel localizado na rua Cuiabá, 107, ao autor MARCELO GUERRA FELIZ DE LIMA (mov. 1.23). Logo, os documentos constantes nos autos comprovam unicamente a relação de locatário desse autor com o aludido imóvel, inexistindo elementos que indiquem que o autor se comportava como futuro proprietário, em razão de suposta doação em vida pelo de cujus.
+ ..
+E a ação de nulidade do procedimento de inventário extrajudicial nº 0043133-73.2016.8.16.0014 ajuizada pelos autores foi extinta, sem resolução de mérito, diante da ilegitimidade dos autores (mov. 54.56), oportunidade em qual se registrou-se que "o documento apresentado não possui as formalidades necessárias para que pudesse ser considerado testamento" (mov. 54.56).
+Consequente, inexiste comprovação de que o primeiro requerido CARLOS ALBERTO CORDEIRO ou sua esposa teriam desrespeitado a intenção do de cujus RIOLANDO em deixar parte de seu patrimônio aos autores. Tampouco há desrespeito a algum negócio jurídico celebrado com o de cujus e a empresa "LONDRICON CONSTRUÇÕES ACABAMENTOS LTDA.", em prejuízo dos autores.
+E, inexistindo ato ilícito não há que se falar em condenação dos requeridos ao pagamento de indenização por danos morais, que não restou configurado.
+Desta feita, não merece provimento o recurso de apelação 01 nesse ponto.
+a. Da perda de uma chance de receber parte dos bens do Sr. RIOLANDO, supostamente frustrada pelos requeridos.
+ ..
+Não há que se falar na aplicação da teoria da perda de uma chance, sob o argumento que a intenção do Sr. RIOLANDO em proceder a divisão igualitária dos bens entre os 3 mototaxistas - autores e primeiro réu - teria sido frustrada em razão da conduta danosa do requerido.
+Ora, além de não ficar provada a intenção concreta do Sr. RIOLANDO em doar seus bens de forma igualitária ente os 3 mototaxitas, há que se registrar que não há empecilho para que uma pessoa capaz modifique a sua vontade de dispor seu patrimônio ao longo da vida .
+ ..
+Inexistem empecilhos para que uma pessoa capaz modifique a sua vontade de realizar uma doação "em promessa", ainda não concretizada. Logo, ainda que se admitisse a intenção do Sr. RIOLANDO de doar bens aos autores, o fato é que o Sr. RIOLANDO não formalizou qualquer doação em vida aos autores, tendo livremente optado, no gozo de suas faculdades mentais, por alienar imóveis a pessoa jurídica.
+Portanto, inexiste comprovação nos autos de que a verdadeira intenção do de cujus RIOLANDO era doar/testar 1/3 de seu patrimônio a cada um dos autores, inexistindo motivos para que, se assim fosse, não o tivesse feito - lembrando-se que a doação de bens imóveis é ato solene.
+Logo, enquanto ainda não formalizada a doação em favor dos autores, não havia óbice para que o de cujus RIOLANDO vendesse seus bens a quem quer que quisesse, havia somente esperança e mera expectativa de que o idoso a quem os autores prestavam serviços lhes doaria em vida parte de seu patrimônio.
+ ..
+Desta feita, não merece provimento o recurso de apelação 1, devendo ser mantida a sentença apelada na íntegra.
+Assim, atentando-se aos argumentos trazidos pelos recorrentes e aos fundamentos adotados pela Corte estadual (acima sublinhados), verifica-se que estes não foram objeto de impugnação nas razões do recurso especial, e a manutenção de argumento que, por si só, mantém o acórdão recorrido torna inviável o conhecimento do apelo nobre, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. CONTRATO DE COMPRA E VENDA DE UNIDADE IMOBILIÁRIA EM CONSTRUÇÃO. ATRASO NA ENTREGA DO IMÓVEL. INVERSÃO DA CLÁUSULA PENAL EM FAVOR DO CONSUMIDOR. POSSIBILIDADE. PRECLUSÃO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. DANO MORAL. CONFIGURAÇÃO. QUANTUM INDENIZATÓRIO ADEQUADO. REVISÃO. DESCABIMENTO. AGRAVO NÃO PROVIDO.
+1. Nos termos da jurisprudência desta Corte, é possível a inversão de cláusula penal em favor do consumidor, no caso de mora ou inadimplemento do promitente-vendedor.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+3. O simples inadimplemento contratual, em razão do atraso na entrega do imóvel, não é capaz, por si só, de gerar dano moral indenizável, sendo necessária a comprovação de circunstâncias específicas que podem configurar a lesão extrapatrimonial, como reconhecido pela Corte de origem. Precedentes.
+4. Quanto ao valor da indenização, o Superior Tribunal de Justiça firmou orientação de que somente é admissível o exame do valor fixado a título de danos morais nas hipóteses em que for verificada a exorbitância ou a índole irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade, o que, no entanto, não ocorreu no caso em exame.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1923321/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/06/2021, DJe 01/07/2021)
+Por fim, a alteração das conclusões adotadas pela Corte originária exigiria do Superior Tribunal de Justiça a profunda análise do contexto fático-probatório, devidamente vedado pela Súmula 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do
+advogado da parte agravada em 2% sobre o valor atualizado da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida à parte recorrente.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. 1. CERCEAMENTO DE DEFESA. MATÉRIA EMINENTEMENTE DE DIREITO. PRODUÇÃO DE PROVAS INÓCUA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA 7/STJ. 2. VIOLAÇÃO AO ART. 492 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS 282 E 356/STF. 3. RESPONSABILIDADE CIVIL. FUNDAMENTO INATACADO. INCIDÊNCIA DA SÚMULA 283/STF. 4. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
