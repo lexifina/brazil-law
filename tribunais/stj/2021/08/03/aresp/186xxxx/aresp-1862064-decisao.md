@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "c", da CF/1988) interposto contra acórdão assim ementado:
+EMENTA - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO FISCAL - PRELIMINAR DE CERCEAMENTO DE DEFESA AFASTADA - ISSQN - UNIDADE ECONÔMICA OU PROFISSIONAL - NÃO COMPROVAÇÃO DA EXISTÊNCIA - MERO DESLOCAMENTO DE RECURSOS HUMANOS - TRIBUTO DEVIDO AO LOCAL DO ESTABELECIMENTO PRESTADOR DO SERVIÇO - RECURSO CONHECIDO E IMPROVIDO.
+1. Não basta que a parte apenas requeira a produção de prova, é preciso que demonstre a relevância e a pertinência do meio probatório que lhe foi suprimido, além de sua aptidão para alterar o posicionamento adotado, o que não ocorreu no presente caso, restando afastada a preliminar de nulidade da sentença por cerceamento de defesa.
+2. O simples deslocamento de recursos humanos (mão-de-obra) e materiais (equipamentos) para a prestação de serviços não basta para configurar unidade econômica ou profissional. Precedentes do STJ.
+3. Considerando que os serviços prestados pela apelante não encontram-se insertos nos incisos I à XXV do art. 3º da Lei Complementar n. 116/2003, mas sim no subitem 14.01 da mencionada LC, o ISSQN é devido ao local do estabelecimento prestador do serviço, no caso, Município de Dourados.
+4. Recurso conhecido e improvido.
+A agravante defende que especificou os dispositivos de lei federal infringidos, não sendo aplicável o óbice da Súmula 284/STF, e que o acórdão hostilizado apenas fez menção a dispositivos constitucionais para contextualizar o tema do ISSQN, sem entretanto interpretá-los para a solução da lide, motivo pelo qual não se fez necessária a interposição de Recurso Extraordinário (cuja ausência justificaria, em tese, a incidência da Súmula 126/STJ). Nas razões do apelo nobre, a recorrente afirma que indicou a infração ao art. 4º da Lei Complementar 116/2003 e que o dissídio jurisprudencial com os acórdãos proferidos no REsp 471.322/RS e no REsp 1.539.797/DF ficou adequadamente demonstrado.
+Não há contrarrazões.
+É o relatório.
+Decido.
+Recebi os autos no Gabinete em 27 de julho de 2021.
+Impugnado o conteúdo da decisão agravada, conheço do Agravo para examinar o Recurso Especial.
+O apelo nobre não ultrapassa o juízo de admissibilidade.
+Com efeito, a leitura do Recurso Especial revela que a irresignação da parte foi veiculada exclusivamente com base na alínea "c", ou seja, a pretensão recursal é restrita à demonstração de dissídio, que, no caso, abrangeria dois pontos distintos: a) o indeferimento da produção de prova pericial;e b) a definição do Município competente para a arrecadação do ISSQN.
+Em relação ao primeiro tema (necessidade da produção de prova pericial), efetivamente é possível constatar que em momento algum a parte especificou ou individualizou dispositivo de lei federal que teria sido infringido, o que atrai a incidência da Súmula 284/STF.
+De outro lado, embora com menor grau de rigor técnico seja possível, em tese, admitir que idêntico defeito não se faz presente quanto ao outro fundamento do recurso (dissídio quanto à definição da competência para cobrança do ISSQN), verifico que não foi demonstrada a similitude fática e jurídica entre os acórdãos confrontados. O único ponto em comum entre ambos é que houve debate a respeito da identificação do Município competente para arrecadação do ISSQN. Entretanto, as premissas fáticas e jurídicas são diversas, pois no aresto paradigma identificou-se que a competência seria do Município de Florianópolis porque o "desenvolvimento de programas" (de informática) era desenvolvido por unidade profissional da prestadora de serviços lá localizada.
+Diversamente, na hipótese dos autos, além de o serviço prestado ser de outra natureza (manutenção e consertos em máquinas agrícolas), o Tribunal de origem concluiu que a empresa não comprovou possuir unidade econômica ou profissional no local por ela apontado, assim como que o simples deslocamento de mão de obra é insuficiente para qualificar a existência de unidade autônoma, com poder decisório, para fins de definição da sujeição ativa para cobrança do tributo.
+Consequentemente, não há elementos que efetivamente indiquem que foram adotadas soluções díspares sobre uma mesma base fática e jurídica.
+Diante do exposto, conheço do Agravo para não conhecer do Recurso Especial.
+Consubstanciado o que previsto no Enunciado Administrativo 7/STJ, condeno o recorrente ao pagamento de honorários advocatícios em 10% (dez por cento) sobre o valor total da verba sucumbencial fixada nas instâncias ordinárias, com base no § 11 do art. 85 do CPC/2015.
+Saliento que os §§ 3º e 11 do art. 85 do CPC/2015 estabelecem teto de pagamento de honorários advocatícios, o que deve ser observado quando a verba sucumbencial é acrescida na fase recursal, como no presente caso.
+Publique-se.
+Intimem-se.
