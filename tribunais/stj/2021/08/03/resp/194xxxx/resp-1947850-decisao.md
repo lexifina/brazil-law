@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por PEDRORUIZ HONORATO, com fundamento no art. 105, III, a e c, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fl. 256):
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. CONVERSÃO DA APOSENTADORIA PORTEMPO DE SERVIÇO/CONTRIBUIÇÃO EM APOSENTADORIA ESPECIAL. COMPROVAÇÃODAS CONDIÇÕES ESPECIAIS. RUÍDO. USO DE EPI. IMPLEMENTAÇÃO DOS REQUISITOS. JUROS E CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA.
+1. São requisitos para a concessão da aposentadoria por tempo de contribuição, de acordo com os arts.52 e 142 da Lei 8.213/91, a carência e o recolhimento de contribuições, ressaltando-se que o tempo de serviço prestado anteriormente à Emenda Constitucional 20/98 equivale a tempo de contribuição, a teor do seu art. 4º.
+2. Deve ser observada a legislação vigente à época da prestação do trabalho para o reconhecimento da natureza da atividade exercida pelo segurado e os meios de sua demonstração.
+3. A especialidade do tempo de trabalho é reconhecida por mero enquadramento legal da atividade profissional (até 28/04/95), por meio da confecção de informativos ou formulários (no período de29/04/95 a 10/12/97) e via laudo técnico ou perfil profissiográfico previdenciário (a partir de11/12/97).
+4. Para o agente ruído, considera-se especial a atividade desenvolvida acima do limite de 80dB até05/03/1997, quando foi editado o Decreto nº 2.172/97, a partir de então deve-se considerar especial a atividade desenvolvida acima de 90dB. A partir da edição do Decreto nº 4882 em 18/11/2003, o limite passou a ser de 85dB.
+5. O uso de Equipamento de Proteção Individual - EPI para o agente nocivo ruído, desde que em níveis acima dos limites legais, não descaracteriza o tempo de serviço especial.6. Reconhecida a atividade especial, deve o INSS proceder ao recálculo da renda mensal inicial (RMI)do benefício da parte autora.
+7. Juros e correção monetária pelos índices constantes do Manual de Orientação para a elaboração de Cálculos na Justiça Federal vigente à época da elaboração da conta, observando-se, em relação à correção monetária, a aplicação do IPCA-e em substituição à TR - Taxa Referencial, consoante decidido pelo Plenário do Supremo Tribunal Federal no RE nº 870.947, tema de repercussão geral nº810, em 20.09.2017, Relator Ministro Luiz Fux, observado quanto a este o termo inicial a ser fixado pela Suprema Corte no julgamento dos embargos de declaração.8. Inversão do ônus da sucumbência.
+9. Apelação da parte autora provida.
+Opostos embargos de declaração, foram rejeitados (fls. 282)
+Aponta o recorrente, além de divergência jurisprudencial, violação aos arts. 20 do CPC/73, 85 e 1.022, II, do CPC/2015, sustentando negativa de prestação jurisdicional, bem como, nos termos da Súmula 111/STJ, o marco final para a incidência "da verba honorária deve ser a data da prolação do v. acórdão, o seja, 12/2019, oportunidade em que o direito do seguradofoi reconhecido através de decisão judicial" (fl. 298).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+Verifica-se, inicialmente, não ter ocorrido ofensa ao art. 1.022, II, doCPC/2015, na medida em que o Tribunal de origem dirimiu,fundamentadamente, as questões que lhe foram submetidas, apreciandointegralmente a controvérsia posta nos autos, não se podendo, ademais,confundir julgamento desfavorável ao interesse da parte com negativa ouausência de prestação jurisdicional.
+Quanto à questão de fundo, melhor sorte socorre ao recorrente.
+Isso porque, a jurisprudência do STJ sefirmou no sentido de que a verba honorária em ações previdenciárias deveser fixada sobre as parcelas vencidas até a prolação da decisão concessivado benefício.
+Com efeito, mesmo após a vigência do CPC/15, permanece hígido o disposto naSúmula nº 111 do STJ.
+Nesse sentido, anotem-se os seguintes precedentes:
+PROCESSUAL CIVIL. DEMANDA PREVIDENCIÁRIA. HONORÁRIOS ADVOCATÍCIOS. TERMOFINAL. DECISÃO CONCESSIVA DO BENEFÍCIO. PRINCÍPIOS DA EFETIVIDADE E DADURAÇÃO RAZOÁVEL DO PROCESSO. APLICAÇÃO.
+1. A respeito do termo final dos honorários advocatícios em matériaprevidenciária, a orientação jurisprudencial do Superior Tribunal deJustiça é a de que deve ser fixado na data do julgamento favorável àconcessão do benefício pleiteado, excluindo-se as parcelas vincendas,conforme determina a Súmula 111 desta Corte.
+2. O Código de Processo Civil de 2015 não inovou em relação aos critériospara a fixação da verba honorária sucumbencial estabelecidos no § 2º doart. 85, pois a referida norma consubstancia-se repetição da legislaçãoanterior (art. 20, § 3º, do CPC/1973).
+3. A própria natureza da tutela previdenciária (dirigida a suprir ossegurados, ou seus dependentes, em caso de idade avançada, doença, e morteou os assistidos da Previdência Social, em situação de vulnerabilidade),aliada ao princípio da efetividade, evidencia a necessidade de adoção deinstrumentos que assegurem a duração razoável do processo, motivo peloqual permanece inalterado o escopo da Súmula 111 do STJ,de modo a evitarpossível conflito de interesses entre o patrono e seu representado.
+4. Agravo interno desprovido.
+(AgInt no REsp 1888117/SP, Rel. Ministro Gurgel de Faria, Primeira Turma,DJe 17/2/2021).
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DABASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marcofinal da verba honorária deve ser a decisão em que o direito do seguradofoi reconhecido: "Os honorários advocatícios, nas ações previdenciárias,não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito àaposentadoria especial, deve ser considerado como termo final. Nessesentido: AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. Sérgio Kukina,Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp 1.271.734/RS, Rel.Min. Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), DJede 18/4/2013; AgRg nos EDcl no AREsp 155.028/SP, Rel. Ministro MauroCampbell Marques, Segunda Turma, DJe 24/10/2012. 3. Recurso Especialprovido.
+(REsp 1831207/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe19/12/2019)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DASÚMULA 111/STJ.
+1. A questão trazida neste recurso se subsume ao disposto na Súmula111/STJ, verbis: "Os honorários advocatícios, nas ações previdenciárias,não incidem sobre as prestações vencidas após a sentença."
+2. Assim, são devidos honorários advocatícios sobre o valor da condenação,considerando-se, para fins de cálculo dessa verba, apenas as parcelasvencidas até a prolação da decisão que reconheceu o direito do segurado,excluindo-se as vincendas.
+3. Agravo regimental provido.
+(AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. SÉRGIO KUKINA, DJe de19/05/2014).
+No mesmo sentido, as seguintes decisões: REsp 1.907.072/SP, Rel. Min.BENEDITO GONÇAVES, DJe de 08/02/2021; REsp 1.903.657//SP, Rel. Min. HERMANBENJAMIN, DJ de 02/12/2020; REsp 1.889.173/SP, Rel. Min. FRANCISCO FALCÃO,DJe de 19/11/2020 e REsp 1.900.694/SP, Rel. Min. GURGEL DE FARIA, DJe de12/11/2020.
+ANTE O EXPOSTO, conheço parcialmente do recurso especial, e nesta parte, dou-lhe provimento.
+Publique-se.
