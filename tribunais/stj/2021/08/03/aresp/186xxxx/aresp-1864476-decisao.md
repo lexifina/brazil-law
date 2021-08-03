@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo interposto por Valdiane Alves do Nascimento eRicardo Freitas de Lima contra a decisão de fls. 246-248 (e-STJ), proferida em juízo prévio de admissibilidade, na qual foi negado seguimento ao recurso especial.
+O recurso especial foi deduzido em desafio aos acórdãos de fls. 195-198 e 212-214 (e-STJ), prolatados pelo Tribunal de Justiça do Estado de São Paulo, assim ementados:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - ALEGAÇÃO DE FRAUDE À EXECUÇÃO - ALIENAÇÃO DE VEÍCULOS - BENS SUJEITOS A REGISTRO - PRESUNÇÃO DE BOA FÉ DOS ADQUIRENTES, DIANTE DA INEXISTÊNCIA DE ANOTAÇÃO DE QUALQUER GRAVAME - Art. 972, §2º,do CPC - Decisão mantida - NEGARAM PROVIMENTO AO RECURSO
+EMBARGOS DECLARATORIOS  ALEGAÇÃO DE OMISSÃO - VÍCIO INEXISTENTE - PREQUESTIONAMENTO  DESNECESSIDADE. 1. Devem ser rejeitados os embargos declaratórios se não demonstrada a ocorrência de algum dos vícios processuais elencados no artigo 1.022 do CPC. 2. O contraditório requerido pelos embargantes não é o meio adequado para ser apreciado em cumprimento de sentença, o que poderia ser melhor exercido por meio de ação própria. 3. Há desnecessidade da oposição de embargos declaratórios para fins de prequestionamento, tendo em vista o disposto no artigo 1.025 do CPC. EMBARGOS DECLARATORIOS REJEITADOS.
+Nas razões do recurso especial (e-STJ, fls. 217-227), apontaram os insurgentes a existência de violação dos arts. 3º, 4º, 7º, 139, I, 370 e 1.022, II, do CPC/2015. Sustentaram, em síntese: i) ocorrência de negativa de prestação jurisdicional; e ii) falta de apreciação do pedido de constrição dos bens em tempo hábil.
+Contrarrazões às fls. 230-238 (e-STJ).
+A Corte de origem deixou de admitir o recurso sob os seguintes fundamentos: a) não ocorrência de negativa de prestação jurisdicional; e b) não demonstração da violação dos dispositivos arrolados, cumulada com a incidência da Súmula 7/STJ.
+Daí o presente agravo, no qual os insurgentes contestam a aplicação dos óbices.
+Contraminuta às fls. 261-265 (e-STJ).
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+Inicialmente, defenderamosrecorrentes a ocorrência de negativa de prestação jurisdicional. Alegaramque o Tribunal de origem foi omisso quanto aos seguintes pontos da lide: falta de análise, em tempo hábil, do pedido de bloqueio dos bens; e falta do contraditório, quando da liberação do bloqueio dos veículos.
+Quanto à segunda omissão apontada, verifica-se que o Tribunal estadual sobre ela se manifestou, concluindo que tal alegação deveria ser feita em ação própria.
+Veja-se à fl. 214 (e-STJ):
+Nada obstante os respeitáveis argumentos deduzidos pela embargante, as questões suscitadas e relevantes para o julgamento do recurso foram devidamente analisadas no venerando acórdão embargado, que sobre elas se pronunciou expressamente, sem nenhuma omissão.
+Em especial, cabe afirmar que o rito processual do processo de cumprimento de sentença é executivo, pelo que, o contraditório seria melhor exercido por meio de ação própria. E o sistema processual vigente se assenta no principio da livre convicção do juiz, a ser devidamente fundamentada, como se vê no v. acórdão. E se o exame das provas pelo órgão colegiado autorizar conclusão diversa daquela sustentada pela parte, nem por isso estar-se-á diante de uma omissão, mas sim de inconformismo com a decisão, o que justificaria a interposição de recurso especifico, mas não os presentes embargos.
+Dessa forma, não se verifica a alegada omissão quanto a esse ponto.
+Referente à alegada demora na penhora dos bens, eis que tal argumento se mostra irrelevante para alterar a decisão recorrida, no momento processual. Deveriam os recorrentes terem se insurgido contra ataldemora a tempo de evitar a alienação dos bens. Vale ressaltar que a decisão recorrida analisou a tese de fraude à execução na alienação dos veículos. Ou seja, o processo já está um passo adiante.
+A omissão que caracteriza negativa de prestação jurisdicional é aquela capaz de alterar a decisão.
+Nesse sentido:
+PROCESSO CIVIL E AMBIENTAL. AGRAVO INTERNO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. ESTAÇÃO DE TRATAMENTO DE ESGOTO. ALEGADA LEGITIMIDADE DO MINISTÉRIO PÚBLICO. FUNDAMENTAÇÃO DEFICIENTE. ÔNUS PROBATÓRIO. LICENCIAMENTO AMBIENTAL. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. RESOLUÇÃO. ATO NORMATIVO NÃO INCLUÍDO NO CONCEITO DE LEI FEDERAL. ÔNUS PROBATÓRIO. NEXO DE CAUSALIDADE. DANO AMBIENTAL. REEXAME DA MATÉRIA FÁTICA. ALEGADA VIOLAÇÃO À SEPARAÇÃO DOS PODERES. QUESTÃO CONSTITUCIONAL. MULTA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. RECURSO ESPECIAL PELA ALÍNEA "C". NÃO ATENDIMENTO DOS REQUISITOS LEGAIS.
+1. A controvérsia foi julgada de modo integral e suficiente pelo Tribunal de origem, não remanescendo omissão sobre ponto relevante (com potencial de alterar o resultado da demanda), por isso não há falar em negativa de prestação jurisdicional.
+2. Quanto à alegada ilegitimidade do Ministério Público, a recorrente insistiu na tese apresentada na apelação e não levou em consideração o fundamento do acórdão de que o bem jurídico tutelado seria o meio ambiente ecologicamente equilibrado, o que impede o conhecimento do recurso especial. Incidência das Súmulas 284 e 283 do STF.
+3. A revisão das conclusões adotadas pela Corte a quo em relação a ausência de licenciamento ambiental não implica em revaloração jurídica da prova, mas sim em incursão no conjunto probatório dos autos, o que é inviável em sede de recurso especial ante o óbice previsto na Súmula 7/STJ.
+4. A alegada violação à Resolução do CONAMA não pode ser apreciada por esta Corte, pois trata-se de ato normativo que não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da Constituição Federal.
+5. Com relação à determinação de relocalização da Estação de Tratamento, alterar a decisão do Juízo a quo depende de exame fático-probatório, o que é inadmissível na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+6. Esta Corte não pode examinar questão constitucional, sob pena de usurpação de competência da Suprema Corte e de infringência da regra de competência do art. 102, III da Carta Maior.
+7. O conhecimento do recurso, seja interposto pela alínea "a", seja pela "c" do permissivo constitucional, exige necessariamente a indicação do dispositivo de lei federal que se entende por violado - a ausência de indicação de ofensa direta a artigo de lei federal impede o conhecimento do recurso especial - Súmula 284/STF.
+8. Alterar o valor fixado a título de multa demandaria o revolvimento do acervo fático-probatório dos autos, o que é inviável, em sede de recurso especial, em face da Súmula 7 desta Corte.
+9. Não foram atendidos os requisitos necessários para o processamento do recurso especial pela alínea "c" do art. 105, III, da Constituição Federal, pois ausente o adequado cotejo analítico.
+10. Agravo interno não provido.
+(AgInt no REsp 1.797.425/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 20/08/2019, DJe 27/08/2019).
+No presente caso, mesmo que tenha havido a alegada demora no provimento do pedido de penhora, tal fato não é mais capaz de alterar a decisão que analisou suposta fraude na alienação dos bens que não estavam constritos.
+Sem razão, portanto, os recorrentes quando defendem a ocorrência de negativa de prestação jurisdicional.
+Com relação à defendida falta de análise do pedido de constrição dos veículosem tempo hábil,eis que a matéria está sem prequestionamento e se mostra preclusa, porquanto não foi arguida a tempo e modo, conforme exposto acima.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. FALTA DE APRECIAÇÃO DA TUTELA JURISDICIONAL EM TEMPO HÁBIL. FALTA DE PREQUESTIONAMENTO E PRECLUSÃO. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
