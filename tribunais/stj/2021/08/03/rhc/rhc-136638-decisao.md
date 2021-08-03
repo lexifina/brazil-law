@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por ANTONIO INÁCIO DOS SANTOS contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia no julgamento do HC n. 8009711-77.2020.8.05.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 18/4/2020 por ter supostamente praticado delito tipificado no art. 129, § 2º, do Código Penal (lesão corporal de natureza grave). Referida custódia foi convertida em preventiva (fls. 28/29).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"PROCESSO PENAL. HABEAS CORPUS. PACIENTE DENUNCIADO PELA PRÁTICA DE LESÃO CORPORAL GRAVÍSSIMA. PRISÃO PREVENTIVA DECRETADA PARA A GARANTIA DA ORDEM PÚBLICA. I. ALEGAÇÃO DE INIDONEIDADE DA FUNDAMENTAÇÃO CONTIDA NO DECRETO PRISIONAL. IMPROCEDÊNCIA. PACIENTE QUE, EM RAZÃO DE BOATOS SUPOSTAMENTE DIVULGADOS PELA VÍTIMA, MULHER IDOSA, DESFERIU-LHE, DE SÚBITO, GOLPES DE FACÃO, DECEPANDO SUA ORELHA, ALÉM DE LESIONAR SEU BRAÇO E SUA FACE. AÇÃO CRIMINOSA MARCADA POR INTENSA VIOLÊNCIA E DECORRENTE DE MOTIVO FÚTIL.EXPRESSA MENÇÃO JUDICIAL AOS ELEMENTOS DO CASO CONCRETO, BEM COMO À ELEVADA GRAVIDADE DA CONDUTA APURADA E AO RISCO DE REITERAÇÃO DELITUOSA. PREVENTIVA JUSTIFICADA PARA O RESGUARDO DA ORDEM PÚBLICA, COM RESPALDO EM MOTIVAÇÃO ROBUSTA. CONDIÇÕES PESSOAIS FAVORÁVEIS QUE SÃO DESINFLUENTES NA ESPÉCIE. NÍTIDA INADEQUAÇÃO E INSUFICIÊNCIA DAS MEDIDAS CAUTELARES DIVERSAS DA CUSTÓDIA. II. PRETENDIDA REAVALIAÇÃO DA PRISÃO CAUTELAR À LUZ DA PANDEMIA DE COVID-19 EM CURSO. MATÉRIA NÃO SUSCITADA PERANTE O JUÍZO DE ORIGEM, COMO PRECONIZA A RECOMENDAÇÃO N.º 62/2020 DO CNJ E O ATO CONJUNTO N.º 04/2020, DESTA CORTE. ANÁLISE INAUGURAL DA QUESTÃO QUE TRADUZIRIA INDEVIDA SUPRESSÃO DE INSTÂNCIA. FALTA DE COMPROVAÇÃO, ADEMAIS, DA PARTICULAR VULNERABILIDADE DO ORA PACIENTE AO CONTÁGIO, POR NÃO INTEGRAR GRUPO DE RISCO, OU DA PRECARIEDADE DAS CONDIÇÕES DE HIGIENE E SALUBRIDADE DA UNIDADE PRISIONAL. ORDEM CONHECIDA E DENEGADA."(fls. 112/113).
+No presente recurso, afirma que o decreto prisional carece de fundamentação idônea, uma vez que pautada exclusivamente na presunção de periculosidade e na gravidade abstrata do delito. Sustenta ausência dos requisitos previstos no art. 312 do Código de Processo Penal.
+Ressalta as condições pessoais favoráveis para a concessão da liberdade provisória. Indica suficiência, no caso concreto, da aplicação de medidas cautelares ao cárcere.
+Invoca a Recomendação n. 62/CNJ de 17/3/2020 e defende que a custódia cautelar deve ser revogada em virtude do maior risco de contaminação pelo COVID-19 à população carcerária.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, se for o caso mediante aplicação de medidas cautelares previstas no art. 319 do CPP.
+Indeferida a liminar (fls. 142/144), e prestadas informações (fls. 150/152, 161/165 e 166/173), o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 175/179).
+É o relatório.
+Decido.
+O recurso está prejudicado.
+Isso porque, conforme informações obtidas no endereço eletrônico do Tribunal de origem, aprisão preventiva do recorrente foi revogada em 3/3/2021,com expedição de alvará de soltura em seu favor.
+Assim, não há como negar a perda superveniente do objeto deste recurso em habeas corpus, tendo em vista terem cessado suas circunstâncias determinantes.
+Ante o exposto, com fulcro no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso ordinário em habeas corpus.
+Publique-se.
+Intimem-se.
