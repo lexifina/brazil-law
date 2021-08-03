@@ -1,0 +1,42 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. FRAUDE AO CARÁTER COMPETITIVO DO PROCEDIMENTO DE LICITAÇÃO. NÃO SUPERAÇÃO DA SÚMULA N. 691 DO STF. IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. FUNDAMENTAÇÃO CONCRETA. EVIDÊNCIAS DE HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A hipótese de autorizar a mitigação da Súmula n. 691 do STF deve ser excepcionalíssima, reservada aos casos insólitos em que a ilegalidade do ato apontado como coator é tão evidente que desperta o tirocínio do aplicador do direito, sem nenhuma margem de dúvida ou divergência de opiniões.
+2. As medidas cautelares alternativas à prisão foram impostas em virtude da necessidade de se assegurarem a ordem pública e a instrução criminal, ao argumento de haver evidências de habitualidade delitiva de associação criminosa com atuação reiterada em procedimentos licitatórios fraudulentos.
+3. Nos limites da cognição sumaríssima própria do pedido de superação da Súmula n. 691 do STF, não há como constatar flagrante ilegalidade que justifique a intervenção prematura desta Corte Superior, sob pena de indevido salto de instância.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+MARCELO PAULINO DE OLIVEIRA agrava de decisão da Presidência do STJ que indeferiu liminarmente o habeas corpus por não constatar ilegalidade flagrante na negativa do pedido de urgência pelo Tribunal de origem, situação que autorizaria a mitigação da Súmula n. 691 do Supremo Tribunal Federal.
+A defesa reitera que, "as medidas cautelares foram decretadas em desfavor do paciente em manifesta violação (i) ao artigo 4º, § 16, da Lei 12.850/2013 e (i) ao artigo 315, § 1º, do Código de Processo Penal, uma vez que a decisão de origem se pautou na palavra exclusiva de colaborador premiado e não apresentou fundamentação minimamente idônea" (fls. 1.740-1.741).
+Pleiteia a reforma da decisão agravada.
+O Ministério Público Federal opinou, às fls. 1.790-1.794, pelo não provimento do agravo regimental.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA. FRAUDE AO CARÁTER COMPETITIVO DO PROCEDIMENTO DE LICITAÇÃO. NÃO SUPERAÇÃO DA SÚMULA N. 691 DO STF. IMPOSIÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. FUNDAMENTAÇÃO CONCRETA. EVIDÊNCIAS DE HABITUALIDADE DELITIVA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A hipótese de autorizar a mitigação da Súmula n. 691 do STF deve ser excepcionalíssima, reservada aos casos insólitos em que a ilegalidade do ato apontado como coator é tão evidente que desperta o tirocínio do aplicador do direito, sem nenhuma margem de dúvida ou divergência de opiniões.
+2. As medidas cautelares alternativas à prisão foram impostas em virtude da necessidade de se assegurarem a ordem pública e a instrução criminal, ao argumento de haver evidências de habitualidade delitiva de associação criminosa com atuação reiterada em procedimentos licitatórios fraudulentos.
+3. Nos limites da cognição sumaríssima própria do pedido de superação da Súmula n. 691 do STF, não há como constatar flagrante ilegalidade que justifique a intervenção prematura desta Corte Superior, sob pena de indevido salto de instância.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão agravada, cuja conclusão mantenho.
+Na decisão atacada, foi apontado o óbice contido no enunciado da Súmula n. 691 do STF, orientação que tem sido observada por esta Corte nos casos que aqui aportam, originados pelo indeferimento de liminar na origem.
+Apenas em situações excepcionais o rigor da súmula é mitigado, quando o constrangimento ilegal é manifesto, o que não se verifica na hipótese.
+A decisão que determinou a imposição das medidas cautelares ao investigado dispõe (fls. 1.670-1.683):
+ ..
+II. Das medidas cautelares diversas da prisão em relação aos demais investigados
+As investigações preliminares realizadas pelo GAECO obtiveram êxito em colher elementos informativos de existência de associação ente empresários/particulares a fim de praticar fraudes a licitações em busca de vantagem indevida.
+Verifica-se dos documentos acostados aos autos que, ao menos em princípio, os elementos apresentados demonstram a participação de grande maioria dos investigados em algum (s) procedimento(s) licitatório(s) suspeitos de fraude, restando presente, portanto, o "fumus comissi delicti".
+Já o "periculum libertatis" resta caracterizado em relação àqueles investigados que possuem contra si elementos informativos que indicam uma atuação reiterada em supostas fraudes à licitação, quando então se tem o risco à ordem pública.
+A atuação destemida de alguns empresários e seus representantes, em diversos municípios, indicam reiteração delitiva, sendo necessária a fixação de medidas cautelares para resguardar a ordem pública, visto que, caso contrário, prosseguiriam com as supostas atividades criminosas.
+Assim, a medida cautelar requerida de comparecimento periódico em juízo, em relação a eles, tem como objetivo garantir que os investigados permaneçam à disposição do juízo. A proibição de participação em procedimentos licitatórios, por sua vez, mostra-se necessária para a garantia da ordem pública, de modo a evitar a reiteração delitiva. Por sua vez, a proibição de manter contato com determinadas pessoas e a proibição de frequentar sedes/adjacências das prefeituras se afiguram adequadas para a conveniência da instrução criminal, de modo a evitar qualquer comprometimento na produção de provas.
+Diante disto, defiro o pedido em relação aos seguintes investigados, em análise individual e separada por grupos econômicos:
+ ..
+Grupo empresarial Ativa: Marcelo Paulino de Oliveira (proprietário de uma das empresas e administrador do grupo empresaria; participação por meio da empresa em procedimentos licitatórios suspeitos de fraude, como no Pregão Presencial n. 141/2018 em Andirá e no Pregão Presencial n. 08/2019 em Florestopólis; informações prestadas por colaboradores).
+A prisão preventiva e as medidas cautelares alternativas são compatíveis com a presunção de não culpabilidade do acusado desde que não assumam natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+As medidas cautelares diversas da prisão foram impostas ao paciente em virtude da necessidade de se assegurarem a ordem pública e a instrução criminal, ao argumento de haver evidências de habitualidade delitiva de associação criminosa com atuação reiterada em procedimentos licitatórios fraudulentos. Não se trata de cognição baseaao exclusivamente nas declarações de colaborador premiado, visto tratar-se de ampla investigação.
+Destaque-se, ainda, o entendimento desta Corte Superior: "A necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa enquadra-se no conceito de garantia da ordem pública, constituindo fundamentação cautelar idônea e suficiente para a prisão preventiva (STF, Primeira Turma, HC n. 95.024/SP, Rel. Ministra Cármen Lúcia, DJe 20/2/2009)" (RHC n. 73.712/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 9/2/2017).
+Portanto, são suficientes os motivos invocados na instância de origem a fim de embasar a imposição das medidas cautelares diversas da prisão ao ora paciente, pois foram contextualizados, em dados concretos dos autos, conforme os vetores contidos no art. 312, 315 e 321 do Código de Processo Penal.
+Não há ilegalidade flagrante no indeferimento do pedido de urgência pelo Tribunal estadual que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal, daí não haver espaço para a imediata interferência desta Corte Superior.
+À vista do exposto, nego provimento ao agravo regimental.
