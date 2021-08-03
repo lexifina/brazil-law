@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio impetrado em favor de MARCO ANTONIO DE ARAUJO contra acórdão do Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1501228-43.2020.8.26.0548).
+Consta dos autos que o Juízo de primeiro grau condenou o paciente a 2 anos e 4 meses de reclusão, inicialmente no regime fechado, como incurso no art. 304, c.c art. 297, ambos do Código Penal - CP (uso de documento falso).
+Interposta apelação, pela defesa, o Tribunal a quo negou provimento ao recurso, consignando:
+"Descontente com tal desfecho, apela o réu. Diz que a guarda municipal não tem competência para exercer o policiamento ostensivo e, portanto, as provas trazidas aos autos são ilícitas. Por esta razão, pede ser absolvido (fls. 200/206).
+ ..
+De outra parte, a afirmação feita pela defesa, de que as provas coligidas aos autos são ilícitas, porque os guardas municipais que interpelaram ARAÚJO não teriam competência para fazer policiamento ostensivo, não se sustenta. Com efeito, se a Constituição não atribuiu, expressamente, às guardas municipais, poderes semelhantes aos das guardas estaduais, também não proibiu - e nem poderia mesmo ter proibido - que os integrantes das guardas municipais agissem como qualquer pessoa do povo." (fls. 36/38)
+No presente writ, o impetrante reitera a tese quanto à "ilegalidade da conduta dos guardas municipais envolvidos na diligência que culminou com a prisão do paciente" (fl. 4).
+Nestes termos, requer a absolvição do réu.
+A liminar foi indeferida por decisão de fls. 45/46.
+O Ministério Público Federal opinou pelo não conhecimento do mandamus e, subsidiariamente, pela denegação da ordem, em parecer que recebeu a seguinte ementa:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. FALSIFICAÇÃO DE DOCUMENTO PÚBLICO E USO DE DOCUMENTO FALSO. FLAGRANTE REALIZADO POR AGENTES DA GUARDA MUNICIPAL. LICITUDE DA PROVA COLHIDA. ARTIGO 301 DO CPP. POSSIBILIDADE DE PRISÃO EM FLAGRANTE DELITO POR QUALQUER DO POVO. PRECEDENTES DO STJ. PARECER POR NÃO CONHECIMENTO E/OU DENEGAÇÃO DO WRIT SUBSTITUTIVO." (fl. 54))
+É o relatório.
+Decido.
+Nos termos da jurisprudência desta Corte, o presente habeas corpus não merece ser conhecido, pois impetrado em substituição ao recurso próprio (cf.: HC 358.398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 09/08/2016).
+Embora seja possível a concessão da ordem, de ofício, se constatada a existência de manifesta ofensa à liberdade de locomoção do paciente, essa não é a hipótese dos autos.
+Isso porque o voto condutor no acórdão recorrido está em consonância com a jurisprudência desta Corte, no exame de casos análogos.
+A propósito, confiram-se julgados de ambas as Turmas que examinam matéria penal:
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. CRIME DE TRÁFICO DE DROGAS. NULIDADE. PRISÃO EM FLAGRANTE PELA GUARDA MUNICIPAL. POSSIBILIDADE. ART. 301 DO CPP. BUSCA PESSOAL EFETUADA SEM AUTORIZAÇÃO JUDICIAL. FUNDADA SUSPEITA. AUSÊNCIA DE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício. Precedentes: STF, HC 147.210-AgR, Rel. Ministro Edson Fachin, DJe de 20/02/2020; HC 180.365AgR, Relatora Ministra Rosa Weber, DJe de 27.03.2020; HC 170.180-AgR, Relatora Ministra Carmem Lúcia, DJe de 03/06/2020; HC 169174AgR, Relatora Ministra Rosa Weber, DJe de 11.11.2019; HC 172.308-AgR, Rel. Ministro Luiz Fux, DJe de 17/09/2019 e HC 174184-AgRg, Rel. Ministro Luiz Fux, DJe de 25/10/2019. STJ: HC 563.063-SP, Rel. Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 10/06/2020; HC 323.409/RJ, Rel. p/ Acórdão Ministro Félix Fischer, Terceira Seção, julgado em 28/02/2018, DJe 08/03/2018; HC 381.248/MG, Rel. p/ Acórdão Ministro Sebastião Reis Júnior, Terceira Seção, julgado em 22/02/2018, DJe 03/04/2018.
+2. Consoante a jurisprudência desta Corte Superior, inexiste óbice à realização da prisão em flagrante por guardas municipais, por força do disposto contido no art. 301 do Código de Processo Penal, não havendo, portanto, que se falar em prova ilícita no caso em tela.
+3. A teor do art. 244 do CPP, a busca pessoal justifica-se quando existente fundada suspeita de que a pessoa esteja na posse de arma proibida ou de objetos ou papéis que constituam corpo de delito. Na espécie, a busca policial se deu de forma legal, tendo em vista a existência de fundada suspeita de que o paciente estaria transportando droga em seu veículo. No caso, ao receberem a notícia de que o paciente fazia o transporte de drogas em seu veículo, os guardas municipais primeiro identificaram o referido automóvel e fizeram sinal de parada, o réu se negou a parar e tentou fugir, gerando a suspeita da prática de crime, o que justificou a abordagem. Na sequência, ao finalmente parar o carro, o réu saiu dizendo "ladrão", "perdi". Além disso, o veículo possuía cheiro de entorpecente. Tudo isso, motivou a busca veicular, a apreensão do entorpecente e a prisão em flagrante.
+4. Agravo Regimental improvido.
+(AgRg no HC 635.303/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 21/06/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. NULIDADE. ALEGAÇÃO DE ILICITUDE DA PROVA. PRISÃO REALIZADA POR GUARDAS MUNICIPAIS. SITUAÇÃO DE FLAGRÂNCIA. OCORRÊNCIA. FUNDADA SUSPEITA. USO DE DROGA NO MOMENTO DA ABORDAGEM. BUSCA NA RESIDÊNCIA DO ACUSADO FRANQUEADA. ILEGALIDADE. NÃO OCORRÊNCIA. MINORANTE DO TRÁFICO PRIVILEGIADO. REITERAÇÃO DE OUTRO HC. INADMISSIBILIDADE. AGRAVO IMPROVIDO.
+1. Considera-se lícita a revista pessoal executada por guardas municipais, com a existência da necessária justa causa para a efetivação da medida invasiva, nos termos do art. § 2º do art. 240 do CPP, bem como a prova derivada da busca pessoal.
+2. Configurada a situação de flagrância, com a demonstração de fundada suspeita, não se verifica ilegalidade na realização de abordagem pessoal por guardas municipais que estavam em patrulhamento com cães farejadores, encontrando drogas com o paciente e nas proximidades do local do flagrante, pois o acusado informou que estava usando drogas no momento em que foi abordado.
+3. A questão referente à aplicação da minorante, a matéria já foi analisada no HC 563.700/SP, tratando-se de mera reiteração de pedido.
+4. Agravo regimental improvido.
+(AgRg no HC 597.923/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 26/10/2020).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
