@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus sem pedido de liminarinterposto por ALEXSANDRO VITOR DE MELOem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n.2302865-88.2020.8.26.0000).
+O recorrente teve a prisão em flagrante convertida empreventivapor suposta prática do delito previsto no art. 157, §2º, II e V, do Código Penal.
+O decreto prisional fundou-se na necessidade de garantia da ordem pública, na gravidade do delito e na periculosidade do paciente. Impetradowrit na origem, a ordem foi denegada.
+O recorrente alega ser vítima de constrangimento ilegal em razão da ausência dos requisitos autorizadores da prisão preventiva.
+Defende que a gravidade do delito não constitui fundamento satisfatório para a decretação da prisão preventiva.
+Requer a expedição de alvará de solturae, se necessária, a aplicação de medidas cautelares alternativas.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 95-100)
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 65-66):
+Trata-se, portanto, de delito grave, que causa indignação e que indiscutivelmente compromete a paz pública, de sorte que, por aqui, a custódia cautelar decretada em desfavor do paciente não se reveste das características próprias do constrangimento ilegal, como aduzido pelo impetrante.
+No caso dos autos, são significativos e relevantes os indícios do envolvimento do paciente na grave ocorrência criminosa, como bem fundamentado nas decisões de fls. 15/18 e 22, principalmente se considerado, como já anotado no despacho liminar, que o ofendido, diante da autoridade policial, declarou que acompanhou o paciente e o coacusado Gean Aparecido da Silva até a residência do réu Paulo Henrique de Camargo e, lá, impedido de sair por este último, derrubado ao solo, oportunidade em que passou a ser agredido por ambos, com socos e pontapés, agressões que perduram por toda a noite, sendo libertado somente quando clareou o dia (cf. declarações de fl. 06 dos autos de origem).
+ ..
+Entretanto, no caso dos autos, entende-se que a prisãodecretada não se mostra ilegal ou arbitrária de modo a justificar a concessão da ordem, uma vez que foi suficientemente fundamentada, notadamente para garantia da ordem pública, em razão da gravidade concreta do crime ora tratado, que causa efeito prejudicial à sociedade, como também para assegurar a aplicação da lei penal
+ ..
+Além disso, eventual condição pessoal favorável do paciente não constitui motivo bastante para a revogação da prisão, já que os valores que devem ser sopesados, como na hipótese dos autos, são fundamentados na garantia da ordem pública e para assegurar a aplicação da lei penal, visando, assim, prevenir a reiteração criminosa e assegurar a boa prova criminal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, na hipótese de delito praticado com violência contra pessoa, a internação cautelar é solução idônea para adequar a situação subjetiva do paciente à necessidade de acautelamento da ordem pública (RHC n. 92.308/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 27/3/2018).
+Registre-se ainda que eventuais condições subjetivasfavoráveisdorecorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto,com base no art. 34, XVIII,b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
