@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de APARECIDO DE SOUZA DONARIO contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0007655-31.2021.8.26.0602.
+Consta dos autos que o Paciente cumpre pena unificada de 25 (vinte e cinco) anos, 1 (um) mês e 11 (onze) dias, com término previsto para 05/07/2035.
+O Juízo da Vara de Execuções Criminais indeferiu o pedido de livramento condicional formulado pelo ora Paciente (fl. 33).
+Irresignado, o Apenado interpôs agravo em execução, ao qual o Tribunal de origem deu provimento em parte, para determinar a realização de exame criminológico, com nova apreciação pelo Juízo da Execução Penal (fls. 11-17).
+Neste writ, a Impetrante sustenta, em suma, que o Paciente faz jus ao livramento condicional, ante o preenchimento dos requisitos legais. Alega que o Paciente está reabilitado da prática da última falta disciplinar e ostenta bom comportamento.
+Requer, assim, o deferimento do benefício do livramento condicional.
+O pedido liminar foi indeferido (fls. 54-55).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 85-92).
+É o relatório.
+Decido.
+O Juízo da Vara de Execuções Criminais indeferiu, em 18/09/2020, o livramento condicional e a progressão de regime, com base na seguinte fundamentação (fl. 33):
+"Não obstante estar aperfeiçoado o lapso temporal exigido para o livramento condicional, conforme cálculo de fls. 38/39, mister se faz considerar na análise do pedido que se trata de apenado pela prática de crime hediondo (artigo 213 do Código Penal) e de delitos graves contra o patrimônio, com 03 faltas disciplinares no curso da pena, sendo 02 delas de abandono do sistema carcerário e com extensa pena a cumprir (término previsto para 2035). Nesse contexto, mostra- se imprescindível, antes da concessão do benefício, que o postulante dê mostras efetivas de que está apto ao seu retorno ao convívio social, o que não se verifica no caso em tela.
+Frise-se que a "boa" conduta carcerária apresentada atualmente, queconstitui indício positivo de progresso no processo de ressocialização, não deve ser considerada isoladamente na análise do pressuposto de caráter subjetivo para a concessão, pois se trata de benefício dos mais amplos, que recoloca o indivíduo diretamente no meio social. Exige-se, pois, para tanto, a presença de indicativos concretos de que não voltará a delinquir.
+Destarte, entendo ser prematura a concessão do livramento condicional, que deve, portanto, ser postergado para uma outra oportunidade, até que se possa aferir com absoluta certeza que o reeducando reúne condições para o cumprimento de sua pena em liberdade vigiada, o que poderá ser feito no regime intermediário, por mostrar-se neste instante mais adequado."
+O Tribunal estadual, por sua vez, determinou a realização do exame criminológico, "como medida de prudência, a fim de que se ateste com a certeza necessária, a existência ou não de mérito e aptidão para o retorno à sociedade" (fl. 17).
+Cabe registrar que, para a concessão do livramento condicional, devem ser preenchidos pelo Apenado os requisitos de natureza objetiva e subjetiva.
+As instâncias ordinárias ressaltaram que o Apenado praticou faltas disciplinares graves no curso da execução penal, duas delas consistentes em fuga, sendo que a última evasão perdurou por mais de sete anos e reabilitada em datarecente (18/08/2020).
+Desse modo, diante das ponderações acima expostas e considerando que o requisito disciplinado no art. 83, inciso III, alínea a, do Código Penal (bom comportamento durante a execução da pena) permanece em pleno vigor, verifico que o indeferimento do benefício foi devidamente fundamentado pela Corte de origem.
+Nesse sentido, cito os seguintes julgados deste Tribunal Superior:
+"EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. LIVRAMENTO CONDICIONAL. INDEFERIMENTO. DECISÃO FUNDAMENTADA EM ELEMENTOS CONCRETOS DA EXECUÇÃO DA PENA. PRÁTICA DE FALTAS DISCIPLINARES DE NATUREZA MÉDIA E GRAVE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - Para a concessão do benefício do livramento condicional, nos termos do art. 83, do Código Penal, c.c. o art. 131 da Lei de Execução Penal, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (comprovado comportamento satisfatório durante a execução da pena, bom desempenho no trabalho que lhe foi atribuído e aptidão para prover à própria subsistência mediante trabalho honesto).
+III - In casu, segundo se pode aferir das decisões das instâncias ordinárias, a apenada cometeu, no curso da execução da pena, 1 (uma) falta disciplinar de natureza média, em 5/8/2016, e 1 (uma) falta disciplinar de natureza grave, em 6/1/2019, enquanto gozava de benefício do benefício de progressão ao regime semiaberto, o que afasta o preenchimento do requisito de natureza subjetiva, para fins de obtenção do livramento condicional.
+IV - Não se vislumbra qualquer ilegalidade no v. acórdão combatido tendo em vista as peculiaridades do caso concreto que justificam o indeferimento do benefício. Precedentes.
+Habeas corpus não conhecido." (HC 613.757/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 03/11/2020, DJe 18/11/2020.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. EXECUÇÃO PENAL. LATROCÍNIO. LIVRAMENTO CONDICIONAL. ART. 83 DO CP. NOVA REDAÇÃO DADA PELA LEI ANTICRIME. REQUISITO SUBJETIVO. FALTA DISCIPLINAR DE NATUREZA GRAVE. LIMITAÇÃO TEMPORAL. TRANSCURSO DE MAIS DE 12 MESES DA OCORRÊNCIA. INVIABILIDADE. NECESSIDADE DE COMPORTAMENTO SATISFATÓRIO DURANTE A EXECUÇÃO DA PENA. PARECER ACOLHIDO.
+1. O requisito previsto no art. 83, III, b, do Código Penal, inserido pela Lei n. 13.964/2019, consistente no fato de o sentenciado não ter cometido falta grave nos últimos 12 meses, é pressuposto objetivo para a concessão do livramento condicional, e não limita a valoração do requisito subjetivo necessário ao deferimento do benefício, inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime.
+2. A norma anterior já previa a necessidade de comportamento satisfatório durante a execução da pena para o deferimento do livramento condicional. E não se pode negar que a prática de falta disciplinar de natureza grave acarreta comportamento insatisfatório do reeducando. Precedentes.
+3. No caso, a fuga do paciente, no curso da execução da pena privativa de liberdade, ocorrida em 16/4/2019, serviu, nas instâncias ordinárias, como fator para considerar a ausência do pressuposto subjetivo necessário para o livramento condicional, negado em 28/4/2020.
+4. Ordem denegada." (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020.)
+Ressalto, ainda, que, em consulta ao andamento processual eletrônico, verifico que foi determinada em 15/06/2021 a submissão do Paciente ao exame criminológico.
+Ante o exposto, DENEGO a ordem de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. AUSÊNCIA DO REQUISITO SUBJETIVO. EXISTÊNCIA DE FALTAS DISCIPLINARES. EXIGÊNCIA DE BOM COMPORTAMENTO DURANTE O CUMPRIMENTO DA PENA. FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. ORDEM DENEGADA.
