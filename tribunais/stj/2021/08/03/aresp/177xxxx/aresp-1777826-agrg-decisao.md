@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravo regimental interposto contra a decisão de fls. 344/345, da Presidência desta Corte, que não conheceu do agravo em recurso especial, em razão da ausência de impugnação aos fundamentos da decisão recorrida.
+O agravante alega que impugnou todos os fundamentos da decisão.
+O Ministério Público Federal opinou pelo provimento do agravo regimental e desprovimento do recurso especial (fls. 363/373).
+É o relatório.
+Decido.
+O agravo regimental merece provimento.
+A Presidência desta Corte não conheceu do agravo em recurso especial, ao entendimento de que o agravante não teria impugnado o fundamento referente ao óbice contido na Súmula n. 283/STF.
+Ocorre que o Tribunal de Justiça do Estado de São Paulo utilizou o óbice contido na Súmula n. 283/STF de forma equivocada, tendo em vista que a deficiência da fundamentação se refere à Súmula n. 284/STF. Nesse contexto, analisando a petição de agravo em recurso especial (fls. 320/328), verifica-se que houve impugnação ao aludido fundamento, consoante trechos das razões do recurso (fl. 325):
+"De mais a mais, não há que se falar em deficiência de fundamentação.
+Com efeito, ao contrário da decisão ora agravada, o recurso especial interposto apontou clara e precisamente as razões do pedido de reforma da decisão recorrida, descrevendo minuciosamente o caso concreto e em que medida eles importaram em ofensa à lei vigente. Daí porque, não há que se arguir qualquer vício neste ponto.
+Registra-se que tanto não houve deficiência na fundamentação que a decisão agravada sequer foi capaz de precisar quais das 04 (quatro) teses defensivas padeciam deste vício.
+Assim sendo, também não prospera esse argumento para não recebimento do Recurso Especial apresentado pelo ora agravante."
+Assim, atendidos os requisitos de admissibilidade e impugnado o fundamento da decisão que inadmitiu o apelo especial, conheço do agravo.
+Passo à análise do recurso especial.
+A defesa do agravante aponta ofensa ao disposto no art. 33, § 4º, da Lei Federal n. 11.343/06 e arts. 33 e 186, ambos do Código Penal. Sustenta, em síntese, a nulidade da condenação, porquanto utilizado o silêncio do réu para embasar o édito condenatório e a absolvição criminal, ante a insuficiência de provas da autoria delitiva. Aduz, subsidiariamente, a aplicação do redutor do tráfico privilegiado e o abrandamento do regime prisional.
+O recurso merece parcial provimento.
+O Tribunal de origem, com base no acervo probatório, manteve a condenação do agravante, mediante seguinte fundamentação(fls. 258/263):
+"A materialidade delitiva restou comprovada pelo auto de prisão em flagrante de fls. 06, boletim de ocorrência de fls. 12/15, auto de exibição e apreensão de fls.16/17, laudo de constatação prévia (fls. 18/19), exame químico toxicológico de fls. 67/73, e pela prova oral produzida nos autos.
+O réu, na Polícia, permaneceu em silêncio (fls.10).
+Em Juízo, ao ser interrogado, o apelante negou o tráfico e envolvimento com as drogas encontradas. Disse que eu era usuário de crack na época e sua casa era aberta, não havia portão. Afirmou que o rapaz entrou na minha casa e se escondeu atrás da geladeira. Asseverou que na sua casa não havia entorpecentes. Relatou que não confessou, apensas disse que havia tráfico na região (mídia digital). Ocorre que a versão do réu, além deinverossímil, restou isolada dos autos e não foi confirmada pelo restante do conjunto probatório.
+Inicialmente, causa estranheza o fato de ter ficado em silêncio quando preso em flagrante.
+Sabedor de sua inocência, alegando não ter relação alguma com os fatos, preferiu ficar calado a explicar os fatos, permanecendo, assim, preso por vários meses, sob acusação da prática de um crime de natureza hedionda
+Assim, ainda que o silêncio não possa ser interpretado em desfavor do réu e não é hábil, por si só, a ensejar a condenação, nada impede que seja pontuado em cotejo com os demais elementos de convencimento.
+(..)
+O policial militar Tiago Roberto Longo, ao ser ouvido em Juízo, declarou que faziam patrulhamento pelo município, quando, em razão de uma outra prisão em flagrante, foram informados que um indivíduo de vulgo "Mael" gerenciaria o tráfico de drogas no Tinga. Foram até o local, e na Rua Miguel Adelaine, se depararam com o apelante, que fugiu ao perceber a aproximação da viatura. Ele entrou em um casa, que parecia abandonada, tipicamente utilizada por usuários de drogas. Questionado sobre o Mael, ele confirmou que ele gerenciaria o tráfico de drogas. No local foi encontrada uma sacola com as drogas e Alan, que estava escondido atrás de uma geladeira. Esse Alan declarou que usava o local para o consumo de entorpecentes e que foi lá para comprar a droga do apelante. Asseverou, ainda, que o apelante indicou ainda que em um local próximo havia mais drogas do Mael. Solicitaram o apoio do canil, que localizou uma mochila com o tijolo e balança de precisão. A balança de precisão estava na mochila que foi encontrada pelo canil. O apelante informalmente declarou que o Mael havia deixado drogas no local e que estava traficando por necessidade financeira (mídia digital).
+Carlos Eduardo dos Santos depôs no mesmo sentido (mídia digital).
+Portanto, temos que os policiais ouvidos prestaram depoimentos coerentes, claros e harmônicos, sendo que narraram os fatos com precisão e riqueza de detalhes, contando minuciosamente como se deu toda a abordagem, inclusive em Juízo, sob o crivo do contraditório.
+Eles foram unânimes em relatar que em patrulhamento em região conhecida pelo tráfico e com informações sobre outro traficante, avistaram o acusado, que correu para uma casa ao notar a presença da viatura. No local foram encontradas várias porções de drogas variadas, além de entorpecente a granel e uma balança de precisão. Um usuário queali estava confirmou que comprava drogas do apelante. Ele confessou informalmente o tráfico.
+Desse modo, não há nos autos quaisquer elementos capazes de rechaçar as falas dos policiais ouvidos. Com efeito, não foi demonstrada qualquer intenção ou motivos que teriam os policiais para incriminar falsamente o réu, inventando, assim, uma história, e buscando prejudicar pessoa que sequer conheciam.
+O Estado tem seus agentes concursados legalmente aptos a reprimir o crime e seus depoimentos somente podem ser afastados se demonstrada eventual irregularidade ou interesse particular na condenação do acusado, o que não se deu no caso em tela.
+Demais disso, as falas destes profissionais, que, escolhidos pelo Estado para desempenhar a nobre função de proteção da população, possuem fé-pública, sendo seus depoimentos dignos de crédito e plena validade.
+E não se pode desmerecer o depoimento da testemunha policial apenas por sua condição de agente da lei, sendo firme a jurisprudência neste sentido:
+(..)
+Ao contrário: é testemunha que depõe compromissada, com presunção de veracidade por ser funcionário público, narrando sobre os atos que, de ofício, foram praticados no exercício das suas funções.
+Saliente-se, ainda, que quando Alan foi ouvido na fase policial ela foi enfática em relatar que havia acabado de comprar drogas do apelante e que iria fazer uso ali mesmo (fls. 09).
+Portanto, ainda que o réu negue a traficância, alegando não ter relação com os entorpecentes ali encontrados, a Justiça não pode fechar os olhos para as evidências dos autos, devendo o Poder Judiciário estar sensível às artimanhas, cada vez mais aperfeiçoadas, utilizadas pelos criminosos para se furtarem da aplicação da lei penal.
+Dessa maneira, tendo em vista o local, a forma em que foi abordado, as drogas com ele encontradas, os depoimentos dos policiais, claro está que o acusado era o responsável pelo fornecimento de entorpecentes no local.
+Evidente que, cada um destes elementos, isoladamente, não ensejaria a condenação. Mas a reunião de todos eles, por óbvio, leva a certeza da prática do tráfico pelo réu.
+Condenação, portanto, irreparável."
+A jurisprudência do Superior Tribunal de Justiça tem entendido que a mera referência ao silêncio do réu, na fundamentação da sentença, não acarreta a nulidade do ato se o decreto condenatório está embasado em outras provas e elementos informativos(AgInt no AREsp 180.523/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 07/11/2016).
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PENAL E PROCESSUAL PENAL. ART. 16 DA LEI N. 10.826/2003. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. CRIME DE NATUREZA PERMANENTE. POSSIBILIDADE DE PRISÃO EM FLAGRANTE ENQUANTO PERDURAR A CONSUMAÇÃO. AMPLO EFEITO DEVOLUTIVO DA APELAÇÃO. PROVA PRÉ-CONSTITUÍDA. NECESSIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Não é nula a decisão que menciona o silêncio do réu quando tal referência não é considerada elemento incriminador e a condenação está fundada em outras provas.
+(..)
+6. Agravo regimental desprovido.
+(AgRg no HC 534.886/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 12/02/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. TRÁFICO ILÍCITO DE ENTORPECENTES. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. EXAME DO CONJUNTO FÁTICO-PROBATÓRIO INCABÍVEL NA VIA ELEITA. INEXISTÊNCIA DE NULIDADE NO ACÓRDÃO QUE FAZ REFERÊNCIA AO SILÊNCIO DOS RÉUS NA FASE INQUISITORIAL, SEM VALORAR NEGATIVAMENTE O FATO NOS MOTIVOS PARA MANUTENÇÃO DA CONDENAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+(..)
+3. Não é nulo o acórdão que faz alusão ao silêncio dos réus perante a autoridade policial, na fase inquisitorial, quando tal referência é feita en passant e não é considerada como elemento incriminador, visto que a condenação foi mantida com fundamento nos testemunhos dos policiais, aliados às drogas e à balança de precisão encontradas na casa em que moravam.
+4. Agravo regimental a que se nega provimento. (AgRg no HC 557.877/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/06/2020).
+No caso dos autos, acondenação do agravante não foi motivada apenas pelo seu silêncio perante a autoridade policial, mas, sim, pelos demais elementos colhidos durante as fases inquisitiva e judicial, o que afasta a alegada nulidade da condenação.
+Do mesmo modo, A revisão do entendimento firmado pelas instâncias ordinárias, no sentido de absolver o agravante demanda, necessariamente, o reexame de provas, providência vedada pela Súmula n. 7 do Superior Tribunal de Justiça -STJ (AgRg no AREsp 1742478/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 27/11/2020).
+Noque tange à dosimetria, a Corte de origem consignou que (fls. 263/267):
+"E, na terceira e última etapa, em que pesem os argumentos expendidos pela Defesa, correta a não aplicação do redutor que alude o §4º do art. 33 da Lei 11.343/06 haja vista as peculiaridades do caso. Embora o apelante seja primário, é inegável que a vasta quantidade de droga apreendida, denota intensa atividade de traficância, o que, conforme entendimento do Colendo STJ, é indicativo de participação em organização criminosa, o que impede a aplicação do redutor, ainda que possuidor de bons antecedentes.
+(..)
+Por fim, tendo em vista a quantidade de penas fixadas e o caso concreto, o único regime cabível é o fechado, sendo inviável, igualmente, a substituição das penas.
+Cumpre observar que o ilícito do qual ora se trata tem como principal engrenagem motora a dependência química e psíquica, principalmente por parte de jovens de diferentes classes sociais, o que acaba por resultar no aumento da criminalidade pelo cometimento de crimes mais graves em prol do sustento de tal vício.
+Daí o reconhecimento da alta periculosidade da conduta, de forma que o cumprimento de pena privativa de liberdade em regime mais severo permitirá ao réu uma maior recuperação, bem como a importante reflexão quanto ao impacto social e a gravidade de sua conduta."
+Prevalece nesta Corte Superior o entendimento de que a quantidade de droga apreendida, por si só, não justifica o afastamento do redutor do tráfico privilegiado, sendo necessário, para tanto, a indicação de outros elementos ou circunstâncias capazes de demonstrar a dedicação do réu à prática de atividades ilícitas ou a sua participação em organização criminosa (AgRg no REsp 1866691/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 29/05/2020).
+Na espécie, a Corte de origem afastou a aplicação do tráfico privilegiado com base exclusiva na quantidade dedroga apreendida, sendo necessária a aplicação do redutor previsto no § 4º do art. 33 da Lei Federal n. 11.343/06.
+Considerando quepara escolha do patamar de reduçãoé necessário o exame das peculiaridades do caso concreto, impõe-se a remessa dos autos ao Tribunal de origem para que refaça a dosimetria da pena, restando prejudicada a análise quanto ao regime prisional, pois, no presente momento.
+Ante o exposto, dou provimento ao agravo regimental para conhecer do agravo em recurso especial e, nos termos da Súmula n. 568/STJ, dar parcial provimento ao recurso especial para determinar que o Tribunal de origem refaça a dosimetria da pena do recorrente eaplique o redutor do tráfico privilegiado, procedendoa escolha do patamar de redução que melhor se adeque ao caso concreto, fixando-lhe o regime adequado.
+Publique-se. Intimem-se.
