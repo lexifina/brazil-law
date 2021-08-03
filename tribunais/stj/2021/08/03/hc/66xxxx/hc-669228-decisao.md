@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de habeas corpuscom pedido de liminar impetrado em favor RAFAELA VIEIRA BIZERRA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro(Apelaçãon. 0025436-34.2017.8.19.0042).
+Apacientefoi condenadaàs penas de 1ano e 2 meses de reclusão em regime inicial fechadoe de 11dias-multa, pelaprática dodelitodescritonoart. 180, c/c o art. 62, IV,do Código Penal.
+Oimpetrante alega constrangimento ilegal, afirmandoser cabível a substituição da pena privativa de liberdade por restritivas de direitos, socialmente recomendada, tendo em vista que o delito anterior era de tráfico e de associação para o tráfico.
+Outra ilegalidade diz respeito ao regime fechado para cumprimento inicial da pena, fixado sem motivação idônea, desrespeitando asSúmulas n. 269do STJ e 719 do STF.
+Requer, liminarmente e no mérito, seja substituída a pena privativa de liberdade por restritivas de direito e/ou alterado o regime inicial para o semiaberto.
+A liminar foi indeferida(fls. 813-814).
+Informações foram prestadas (fls. 817-836).
+O Ministério Público Federal opinoupela concessão parcial da ordem para se fixar o regime semiaberto (fls. 840-842).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimentode que não cabe habeas corpusem substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se identificadaflagrante ilegalidade no ato judicial impugnado.
+No presente caso, considerando a reincidência, a sentença concluiu que não havia razão para a concessão debenefícios como substituição de pena e sursis (fl. 62), o que foi mantido pelo Tribunal de origem.
+Inexiste a ilegalidade apontada, uma vez que o STJentende não sercabível a substituição da pena privativa de liberdade por restritiva de direitos na hipótese deréu reincidente em crime doloso, o que inviabiliza a benesse na forma do art. 44, II, do CP, por não se mostrar suficiente para a prevenção e repressão do delito praticado.
+Confiram-se julgados que tratam da questão:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTELIONATO.RECURSO EXTRAORDINÁRIO NÃO INTERPOSTO. INCIDÊNCIA DA SÚMULA N. 126 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. REINCIDÊNCIA EM CRIME DOLOSO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Diante da não interposição de recurso extraordinário, a irresignação não merece conhecimento, conforme disposto na Súmula n.126/STJ, segundo a qual:"é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+2. Quanto à alegada ofensa ao art. 44, § 3º, do Código Penal - CP,a jurisprudência desta Corte Superior é firme no sentido de que a substituição da pena privativa de liberdade por restritiva de direitos não é possível quando existente condição de reincidência do réu, ainda que não seja específica.
+3. Agravo regimental desprovido.(AgRg no AREsp n. 1.670.024/DF, relatorMinistro Joel Ilan Paciornik, Quinta Turma,DJe de 10/6/2020.)
+PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS.EMBRIAGUEZ AO VOLANTE. DOSIMETRIA. FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE. REQUISITOS NÃO PREENCHIDOS (ARTS. 33 E 44, DO CÓDIGO PENAL). REINCIDÊNCIA EM CRIME DOLOSO. OMISSÃO CONFIGURADA. EMBARGOS ACOLHIDOS SEM EFEITOS INFRINGENTES.
+I - São cabíveis embargos declaratórios quando houver, na decisão embargada, qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+II - Os requisitos para a imposição do regime aberto, constam no art. 33, § 2º, alínea "c", e § 3º, do Código Penal, quais sejam, a ausência de reincidência, condenação por um período igual ou inferior a 4 (quatro), bem como a inexistência de circunstâncias judiciais desfavoráveis. Na hipótese, sendo o paciente reincidente, e fixada a pena em 6 (seis) meses de detenção, o regime inicial semiaberto é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, alínea "c", do Código Penal.
+III - A reincidência em crime doloso do paciente, reconhecido na condenação, não autoriza a substituição de pena privativa de liberdade por outra restritiva de direitos, em virtude do não preenchimento de requisito subjetivo previsto no art. 44, inciso II, do Código Penal.
+Embargos de declaração acolhido, mas sem efeitos infringentes.(EDcl no HC n. 545.644/SP, relator Ministro Leopoldo de Arruda Raposo,Desembargador convocado do TJPE, Quinta Turma, DJe de 19/2/2020.)
+Asentença fixou o regime inicial fechado, considerando a reincidência, o que foi mantido pelo Tribunal de origem. Observe-se (fl. 62):
+As circunstâncias judiciais são favoráveis a esta ré. De sua folha penal emerge condenação pretérita, no entanto, a ser considerada na segunda fase do processo de dosimetria. Pena de 01 anos de reclusão, mais 10 dias-multa em valor mínimo unitário.
+Na segunda etapa da dosimetria, a reincidência de fls. 361v. Imponho o aumento de 1/6, atingindo 01 ano e 02 meses de reclusão, mais 11 dias-multa em valor mínimo unitário, tornada definitiva nesse patamar.
+Regime inicial fechado para o cumprimento, considerando-se a reincidência.
+A conclusão acerca do regime prisional diverge da orientação do Superior Tribunal de Justiça, razão pela qual se constata hipótese de flagrante ilegalidade, passível de ser sanada na presente via.
+Com efeito, dispõe a Súmula n. 269 do STJ que "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Assim, levando-se em consideração que, no presente caso, as circunstâncias judiciais foram favoráveis e que a pena-base foi fixada no mínimo, é cabível a fixação do regime semiaberto na hipótese em que constatada a reincidência específica do apenado.
+Confiram-se ainda os seguintes julgados:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. REGIME INICIAL SEMIABERTO. MODO MAIS GRAVOSO JUSTIFICADO. REINCIDÊNCIA. PENA-BASE FIXADA NO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 269/STJ.INCIDÊNCIA. INSURGÊNCIA DESPROVIDA.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso.
+2. Nos termos da Súmula n. 269 deste Superior Tribunal de Justiça, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais".
+3. Na espécie, conquanto a reprimenda fixada seja inferior a 4 anos de reclusão e a pena-base tenha sido estabelecida no mínimo legal, a existência de condenação anterior, apta à caracterização da reincidência, justifica o modo semiaberto determinado.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.591.889/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 19/12/2019.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA LICITAÇÃO. REGIME PRISIONAL SEMIABERTO. RÉU REINCIDENTE. LEGALIDADE. SUBSTITUIÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a reincidência é fundamento adequado e suficiente para justificar a adoção de regime inicial de cumprimento de pena mais gravoso.
+2. Aplica-se o regime prisional semiaberto ao réu reincidente condenado a reprimenda inferior a 4 anos de reclusão, se consideradas favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal (Súmula n. 269 do STJ). Inviável a substituição quando demonstrada ser insuficiente para reprovação do delito, à vista da própria reincidência do acusado.
+3. Agravo regimental não provido. (AgRg no HC n. 531.852/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 11/12/2019.)
+Convém considerar ainda o enunciado da Súmula n. 440 do STJ: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito". Em igual sentido, as Súmulas n. 718 e 719 do STF.
+Ante o exposto, não conheço do habeas corpus,mas de ofício, concedo a ordem apenas para alterar o regime inicial para o semiaberto, nos termos da fundamentação acima.
+Publique-se. Intimem-se.
