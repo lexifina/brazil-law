@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de Agravo, interposto pelo SERVIÇO NACIONAL DE APRENDIZAGEM INDUSTRIAL- SENAI,mediante o qual se impugna decisão que inadmitiu seu Recurso Especial, esse tirado de acórdão, promanado do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. COBRANÇA DE CONTRIBUIÇÃO SOCIAL. SENAI. ILEGITIMIDADE. SENTENÇA DE EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. MANUTENÇÃO DO JULGADO.
+Cobrança referente às competências 10/2013 a 13/2013; 01/2014, 06/2014, 07/2014 e 11/2014 a 13/2014, prevista no art. 6º, do Decreto lei 4.048/42. Alegação do apelante de que há legislação específica que permite sua fiscalização e cobrança do tributo. Impossibilidade. Lei 11.457/2007, que transferiu as atividades referentes à arrecadação, à cobrança e ao recolhimento das contribuições sociais vinculadas ao SENAI, à Secretaria da Receita Federal do Brasil. Apelante que deixou de ter legitimidade para cobrança relativa à contribuição social em comento. Jurisprudência desta Câmara. Extinção do feito, sem resolução do mérito, que se mantém. Majoração dos honorários para 15% (quinze por cento) do valor da causa.
+DESPROVIMENTO DO RECURSO" (fl. 213e).
+Embargos de Declaração rejeitados (fls. 251/256e).
+Em seu Recurso Especial, manejado com apoio nas alíneas a e c do permissivo constitucional, oora recorrente sustenta a existência de dissenso pretoriano e violação aos arts. 485, VI, e 1.022, II, do CPC/2015,2º, 3º e16 daLei11.457/2007,7º, 119 e142 doCTN, 6º e50 doDecreto494/62, 10doDecreto60.466/67 e 11 doDecreto-lei4.481/42.
+Sustenta, em síntese, que:
+"Atualmente, em razão do disposto nos artigos 2º e 3º da Lei 11.457/2007, a arrecadação da contribuição geral, via de regra, é de fato realizada pela Secretaria da Receita Federal do Brasil, que também se responsabiliza pelo repasse do montante arrecadado para o SENAI, mediante remuneração pelos serviços prestados.
+Ocorre que a contribuição adicional sempre foi arrecadada e fiscalizada pelo SENAI, nos termos dos artigos 6º e 50, ambos do Decreto 494/62, o que afasta a competência da Secretaria da Receita Federal para arrecadar ou mesmo cobrar referida contribuição" (fl. 290e).
+Requer, por fim:
+"a) seja reconhecida a violação ao art. 1.022, inciso II, do CPC, pelo acórdão ora recorrido, donde caracterizado o prequestionamento ficto disposto no art. 1.025, do CPC, de todos os temas e dispositivos legais fundamentais ao deslinde da presente controvérsia arguidos nos embargos de declaração opostos em segunda instância.
+b) seja o presente recurso especial conhecido e provido para reconhecer a divergência jurisprudencial, bem como a ofensa aos artigos 2º, 3º e 16º da Lei nº 11.457/2007, para, reformando o acórdão prolatado pelo tribunal de origem, considerar que a ora Recorrente possui legitimidade ativa para fiscalizar, arrecadar e cobrar judicialmente a contribuição adicional que lhe é devida, tendo em vista os permissivos legais insculpidos nos artigos 6º, parágrafo único, e 50, ambos do Decreto nº 494/62, determinando-se o retorno dos autos à origem para julgamento do recurso de apelação do SENAI;" (fl. 301e).
+Sem contrarrazões.
+Recurso Especial inadmitido (fls. 326/332e), com base na inocorrência de omissão e na Súmula 83/STJ, o que ensejou a interposição de Agravo (fls. 354/368e).
+Sem contraminuta.
+A irresignação merece prosperar.
+A Segunda Turma deste STJ teve a oportunidade, recentemente, de examinar a questão acerca dalegitimidadedoSENAIpara o ajuizamento de ação de cobrança visando à exigência decontribuição adicional.Entendeu-se, então, que, na linha de jurisprudência já consolidada, oSENAIcontinua a deterlegitimidadepara ajuizar referida ação, mesmo após a vigência da Lei 11.457/2007.
+Confira-se a ementa do aludido precedente:
+"PROCESSUAL CIVIL. AGRAVO INTERNO. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ.LEGITIMIDADEDOSENAIPARA PROMOVER AÇÃO DE COBRANÇA DACONTRIBUIÇÃO ADICIONAL.PRECEDENTES. RETORNO DOS AUTOS À ORIGEM PARA JULGAMENTO DAS QUESTÕES PREJUDICADAS.
+1. Esta Corte tem firme posicionamento no sentido dalegitimidadedoSENAIpara ajuizamento de ação de cobrança decontribuição adicionalprevista no art. 6º do Decreto-Lei 4.048/1942, mesmo após o advento da Lei nº 11.457/2007 que criou a "Super Receita" (ex: Resp 1.361.088/PE, REsp 1.621.025/AC, RESp 1.765.387/RJ, REsp 1670537/SP e REsp 1555158/AL). Nesse sentido, também: AgInt no AREsp 1.197.781/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 07/10/2019.
+2. Agravo interno não provido" (STJ, AgInt no AgInt no AgInt no AREsp 1.320.300/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 12/12/2019).
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, c, do RISTJ, conheço do Agravo para dar provimento ao Recurso Especial, determinado, uma vez reconhecida alegitimidadedo SENAR, o prosseguimento da ação de cobrança.
+I.
