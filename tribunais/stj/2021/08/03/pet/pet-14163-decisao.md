@@ -1,0 +1,7 @@
+DECISÃO
+DIREITO PROCESSUAL CIVIL. RECURSO ORDINÁRIO MOVIDO EM DESFAVOR DE DECISÃO PROFERIDA POR DESEMBARGADOR RELATOR EM APELAÇÃO INTERPOSTA CONTRA SENTENÇA EM MANDADO DE SEGURANÇA. HIPÓTESE EM QUE SERIA CABÍVEL, EM TESE, O RECURSO ESPECIAL, POR SE TRATAR DE ÚLTIMA INSTÂNCIA DO MANDADO DE SEGURANÇA, MUITO EMBORA INADMISSÍVEL CONTRA SOLUÇÃO UNIPESSOAL DE JULGADOR NA ORIGEM, POR DEMANDAR DESFECHO COLEGIADO. RECURSO ORDINÁRIO NÃO CONHECIDO.
+1. Trata-se de Recurso Ordinário interposto por ALONSO PAES DE FREITAS contra decisão monocrática de Desembargador Relator do egrégio TJ/PA que não conheceu de Apelação contra sentença em Mandado de Segurança, por não terem sido submetido a abalo lógico os fundamentos do julgado de primeiro grau (fls. 215/222).
+2. Se fosseinterposto, no caso, o recurso possível em tese, o Recurso Especial, ele não seria conhecido, pois teria sido manejado contra decisão unipessoal, e a referida modalidade recursal demanda solução colegiada final (art. 105, III, da CF/1988).
+3. Para além dessa circunstância crucial (insurgência contra decisão monocrática), a parte lançou mão deRecurso Ordinário, que não é nem mesmo adequado para a espécie que se está a apreciar, isto é, Apelação contra sentença proferida em Mandado de Segurança, sendo caso de última instância, não de única instância (Mandado de Segurança originário de Tribunal).
+4. Mercê do exposto, não se conhece do Recurso Ordinário objeto da petição autuada nesta Corte Superior.
+5. Publique-se. Intimações necessárias.
