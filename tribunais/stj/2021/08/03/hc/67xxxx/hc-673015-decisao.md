@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra acórdão que deu parcial provimento ao recurso de apelação.
+Sustenta o impetrante que "não houve lesão aferível ao patrimônio da vítima já queefetivamente o danotenha sidodezesseis garrafas de refrigerante Itubaína. Anote-se que, quando perguntado ao dono do estabelecimento comercial, este se referiu ao valor dos refrigerantes como "mixaria"(fls. 212), valendo aproximadamente R$20,00 (vinte reais)" (fl. 7).
+Nesse contexto, requer a concessão da ordem para absolver ospacientes.
+Prestadas informações, manifestou-se o Ministério Público pelo não conhecimento do writ, mas pela concessão da ordem de ofício.
+Erike foi condenado à pena de 2 anos de reclusão, em regime fechado, e o Marco Antonio à pena de 1 ano, 9 meses e 10dias de reclusão, em regime aberto, substituída a pena reclusiva por restritivas de direitos, como incursos no art. 155, §§ 1º e 4º, I e IV, c/c o art. 14, II, do CP. Interposto recurso de apelação, foi parcialmente providopara afastar a qualificadora do repouso noturno e reduzir o quantum da pena para ambos os acusados, fixando, ainda, o regime semiabertoao réu Erike.
+Relativamente à pretensão de reconhecimento do princípio da insignificância, o acórdãoencontra-se assim fundamentado (fls. 44/45):
+Os apelantes foram condenados porque, nas condições descritas na denúncia, em concurso de agentes, mediante arrombamento de porta e durante repouso noturno, tentaram subtrair dezesseis garrafas contendo refrigerante, produtos avaliados entre R$ 20,00 e R$ 30,00, pertencentes à empresa vítima "Frango na Brasa".  ..
+A conduta, ao contrário do que entende a defesa, possui relevância e periculosidade social. Ações como a dos acusados importam em custos adicionais aos estabelecimentos comerciais na contratação e manutenção de aparato de segurança. Os custos, decerto, são expressivos e autorizam a atuação do Estado para dissuadir o comportamento indesejado.
+No mais, abrangida pela lesividade da conduta os custos para reparo da porta de ferro arrombada.
+Sedimentou-se a orientação jurisprudencial, nesta Corte e no Supremo Tribunal Federal, de que a incidência do princípio da insignificância pressupõe a concomitância de quatro vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) reduzidíssimo grau de reprovabilidade do comportamento e d) inexpressividade da lesão jurídica provocada.
+Consoante ressaltado pelo Ministério Público Federal, apesar da reincidência de um dos acusados (Erike), tendo em vista o ínfimo valor da res furtivae (16 garrafas de refrigerante avaliadas em até R$ 30,00), sem olvidar que sequer houve a efetiva subtração de bens (cuidando-se na hipótese de tentativa)",insere- se no parâmetro quantitativo de 10% do valor do salário-mínimo fixado pela jurisprudência da Corte.
+Ademais, o dano consistente no reparo da porta de ferro arrombada,referente em "amolgadura de uma porta de enrolar" (fl. 35), apesar de mencionado pelo acórdão, não foi estimado pelas instâncias ordinárias.
+Ressalte-se que,"nos termos da pacífica jurisprudência desta Corte, consolidada na Súmula/STJ 511, é viável a incidência do privilégio na hipótese de furto qualificado, desde que a qualificadora seja de caráter objetivo"(HC 583.023/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/08/2020, DJe 10/08/2020).
+Assim, acolhe-se o parecer do Ministério Público Federal para reconhecer a atipicidade material da conduta ante o reduzidíssimo grau de reprovabilidade do comportamento dos agentes.
+Ante o exposto, concedo a ordem para, acolhendo o parecer do Ministério Público Federal,absolver os pacientes pela incidência do princípio da insignificância.
+Publique-se.
+Intimem-se.
