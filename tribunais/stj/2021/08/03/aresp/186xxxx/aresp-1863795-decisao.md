@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+TRIBUTÁRIO. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO FISCAL. CDA. LEGALIDADE. PRESCRIÇÃO DA PRETENSÃO EXECUTIVA. INOCORRÊNCIA. CONTRIBUIÇÃO DO FGTS. EXIGIBILIDADE. RETORNO DOS AUTOS PARA A FASE PROBATÓRIA. DESNECESSIDADE. INEXIGIBILIDADE DA CONSTRIBUIÇÃO DO FGTS INSTITUÍDA PELA LC 110/01. NÃO CONHECIMENTO. SENTENÇA MANTIDA.
+1. Quanto à inexigibilidade das contribuições sociais previstas nos arts. 1º e 2º da LC 110/01, as razões recursais não tangenciam as premissas e fundamentos da sentença a impedir o conhecimento do recurso. A parte recorrente não teceu uma linha sequer para impugnar os fundamentos lançados na sentença, que extinguiu a ação, nesta parte, sem resolução do mérito em virtude da ausência de interesse.
+2. O magistrado, valendo-se dos instrumentos legais previstos no art. 370, p. único, do CPC, bem como do seu livre convencimento motivado, acertadamente entendeu pela suficiência dos elementos probatórios, assim como pela dispensabilidade da produção de outras provas, inclusive pericial. Os documentos acostados aos autos são suficientes para o deslinde da causa. Se o conjunto probatório coligido aos autos permitiu o magistrado formar o seu livre convencimento, não traduz em cerceamento de defesa o julgamento antecipado do feito.
+3. Nos termos da Súmula 210 do mesmo E. STJ, bem como em consonância com a proposição originária da Súmula 362 do E. TST, a ação de cobrança das contribuições para o FGTS prescreve em 30 anos. Ocorre que o E. STF, na ARE 709212, reconheceu que o prazo prescricional para a cobrança de valores referentes ao FGTS é de 5 anos, por inconstitucionalidade do artigo 23 da Lei nº 8.036/1990 e do artigo 55 do Decreto 99.684/1990. Nesse julgamento, realizado em 13/11/2014, o E. STF modulou os efeitos dessa decisão, de modo que, para aqueles casos cujo termo inicial da prescrição (p. ex. a ausência ou insuficiência de depósito no FGTS) ocorra após a data desse julgamento, aplica-se desde logo o prazo de 5 anos; para casos em que o prazo prescricional já esteja em curso, aplica-se o que ocorrer primeiro: 30 anos, contados do termo inicial, ou 5 anos, a partir desse julgamento. Precedente.
+4. No caso dos autos, os fatos geradores mais antigos remontam a 09/2007, anteriormente, portanto, ao julgado do Supremo Tribunal Federal (13/11/2014). Desse modo, aplicando-se a regra da modulação de efeitos, o prazo prescricional aplicável é o quinquenal (o que ocorrerá primeiro), expirando em 13/11/2019. A execução fiscal foi ajuizada em 20/05/2016, o despacho citatório foi exarado em 14/07/2016 e a apelante foi citada em 19/05/2017, concluindo-se pela não ocorrência da prescrição em relação aos débitos de contribuição do FGTS.
+5. A CDA e seus anexos contêm todos os elementos exigidos no art. 2º, §§5º e 6º, da Lei 6.830/1980 e no art. 202 do CTN. Há farta indicação da legislação aplicável, data da inscrição, nome do devedor, bem como discriminação detalhada da origem dos débitos, em seu valor originário e atualizado, dela constando todos os requisitos previstos nos dispositivos legais de regência.
+6. As alegações genéricas não são aptas a afastar a presunção de veracidade e legalidade de que gozam os títulos executivos. Sendo ato administrativo enunciativo promanado de autoridade adstrita ao princípio da legalidade (art. 37, CF), goza a CDA de presunção de legitimidade.
+7. No que respeita à base de cálculo para o recolhimento da contribuição ao FGTS, deve ser dado exato cumprimento à previsão legal de regência, afastando-se, apenas, as parcelas elencadas no art. 28, §9º, da Lei n. 8.212/91, nos moldes estabelecidos pelo art. 15, §6º da Lei nº 8.036/90 8. Não há que se falar em inexigibilidade de contribuição do FGTS sobre a verba paga a título de terço constitucional de férias, auxílio-doença/acidente e aviso prévio indenizado, por não constarem no rol do art. 28, §9º, da Lei nº 8.212/91, sobre tais parcelas.
+9. Apelação conhecida parcialmente e não provida.
+A parte recorrente alega haver violação dos arts. 369 e 1.021 do CPC/2015 e dos arts. 202 e 203 do CTN.
+Contrarrazões às fls. 730-737, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2.7.2021.
+Quanto à alegada afronta ao art. 1.021 do CPC, a eventual nulidade da decisão monocrática prolatada fica superada com a reapreciação do recurso pelo órgão colegiado.
+O acórdão recorrido consignou:
+Da desnecessária reabertura da fase probatória
+O magistrado, valendo-se dos instrumentos legais previstos no art. 370, p. único, do CPC, bem como do seu livre convencimento motivado, acertadamente entendeu pela suficiência dos elementos probatórios, assim como pela dispensabilidade da produção de outras provas, inclusive pericial.
+No caso sob exame, a controvérsia sobre possível excesso de execução restringe-se a questão eminentemente de direito, cuja solução prescinde da produção de prova pericial, posto que se limita à determinação dos critérios aplicáveis aos encargos incidentes sobre o débito.
+Dessa forma, afigura-se absolutamente desnecessária a produção de prova pericial para a solução da lide. Nesse sentido, aponto precedente do Tribunal Regional Federal da 3ª Região:
+(..)
+Quanto às provas documentais, cumpria à embargante a juntada de toda a documentação juntamente com a interposição dos embargos. Além disso, verifica-se no presente feito que os documentos acostados aos autos são suficientes para o deslinde da causa. Se o conjunto probatório coligido aos autos permitiu o magistrado formar o seu livre convencimento, não traduz em cerceamento de defesa o julgamento antecipado do feito.
+(..)
+Da legalidade da Certidão de Dívida Ativa
+No que tange à suposta nulidade do título executivo, observo que a CDA e seus anexos contêm todos os elementos exigidos no art. 2º, §§5º e 6º, da Lei 6.830/1980 e no art. 202 do CTN:
+(..)
+Há farta indicação da legislação aplicável, data da inscrição, nome do devedor, bem como discriminação detalhada da origem dos débitos, em seu valor originário e atualizado, dela constando todos os requisitos previstos nos dispositivos legais supratranscritos.
+Ressalte-se que alegações genéricas não são aptas a afastar a presunção de veracidade e legalidade de que gozam os títulos executivos. Sendo ato administrativo enunciativo promanado de autoridade adstrita ao princípio da legalidade (art. 37, CF), goza a CDA de presunção de legitimidade. (fls. 679-684, e-STJ)
+A legislação processual civil consagra o princípio da persuasão racional, habilitando o magistrado a valer-se do seu convencimento, à luz das provas constantes dos autos que entender aplicáveis ao caso concreto. Não obstante, a aferição da necessidade de produção de determinado meio de prova impõe o reexame do conjunto fático-probatório encartado nos autos, o que é defeso ao STJ, ante o óbice erigido pela Súmula 7/STJ.
+O Tribunal a quo, com base na prova dos autos, concluiu que foram preenchidos os requisitos da CDA.
+A revisão desse entendimento demanda incursão no acervo fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ, cuja incidência é induvidosa no caso sob exame.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
