@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de Embargos de Declaração opostos contra decisão de fls. 67-70, e-STJ,que não conheceu do Conflito de Competênciaante a falta de prova suficiente para determinar o regime jurídico da relação existente entre a ora embargante e o Poder Público.
+A parte embargante sustenta, em suma, que pelos documento carreados aos autos é possível extrair que a embargante foi contratada pelo regime da CLT.
+Requer, ao final, o acolhimento dos Embargos com efeito modificativo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 9/6/2021.
+Os Embargos de Declaração não merecem prosperar, pois manifestam nítido caráter infringente, não apontando quaisquer das hipóteses do art. 1.022 do CPC/2015.
+Conforme consignei na decisão agravada, ajurisprudência do Superior Tribunal de Justiça cristalizou-se no sentidode que a competência é da Justiça laboral se o vínculo estabelecido entre o Poder Público e o servidor for trabalhista, e da Justiça Comum (Estadual ou Federal) se o vínculo for estatutário.
+Ademais, o Superior Tribunal de Justiça entende que compete à Justiça Comum, Estadual ou Federal, conforme o caso, processar e julgar demanda decorrente de contrato temporário de trabalho fundado no art. 37, IX, da Constituição Federal, assimcomo de contratação irregular com o poder público.
+Nessa ordem de ideias, transcrevo o seguinte trecho da decisão proferida pelo Juízo trabalhista, o suscitado (fls. 48-49, e-STJ):
+Ao que se extrai do trecho acima transcrito, após a efetivação das contratações advindas do PSS 002/2016 foi declarada a nulidade parcial do respectivo ato administrativo, por meio do Edital no 006/2018 - DG, publicado em 15.5.2018 (documento não juntado aos autos), com a transformação da modalidade de contratação, de prazo indeterminado para determinado, em conformidade com o artigo 37, IX, da Constituição Federal de 1988.
+É de conhecimento deste Juízo que a Reclamada se trata de Fundação Pública com personalidade jurídica de direito privado,sem fins lucrativos, de interesse coletivo e de utilidade pública, conforme dispõe a Lei Municipal no 4.084/2013. Consoante se extrai da legislação municipal,a finalidade da Reclamada é exclusivamente a prestação de serviços de interesse coletivo e de utilidade pública, com patrimônio totalmente público e captação de recursos - receita e renda resultantes de dotação especial pela Prefeitura Municipal de Foz do Iguaçu; recursos provenientes de contratos de gestão celebrados com o Poder Público Municipal, Estadual ou Federal e subvenções ou transferências financeiras do Município, União e Estados (art. 6º, da Lei Municipal nº4.084/2013.
+Assim, tratando se a Reclamada de ente integrante da Administração Pública Indireta, resta claro que a contratação de seus empregados sujeita-se à prévia aprovação em concurso público de provas ou de provas e títulos, conforme preconiza o art. 37, II, da Constituição Federal.
+No caso dos autos, todavia, conforme já analisado e decidido por este Juízo nos autos 0000313-23.2018.5.09.0658, após a efetivação do contrato de trabalho firmado em decorrência do Edital PSS 002/2016, que estabelecia a contratação por prazo indeterminado, foi declaradaa nulidade parcial do respectivo ato administrativo,por meio do Edital nº006/2018 - DG, com a transformação da modalidade de contratação para prazo determinado, em atenção ao disposto no artigo 37,IX, da Constituição Federal de 1988que autoriza as contratações por tempo determinado pelos entes da administração pública para atender necessidade temporária de excepcional interesse público.
+Ora, não é possível determinar, com os documentos carreados aos autos, se a embargante é empregada pública ou se firmou com o Poder Público contrato temporário, mesmo que nulo.
+Portanto, a controvérsia foi solucionada de forma a responder todos os argumentos trazidos pela parte embargante, razão por que não se configura erro material, omissão, contradição ou obscuridade, tampouco negativa de prestação jurisdicional.
+Diante do exposto, rejeito os Embargos de Declaração.
+Publique-se.
+Intimem-se.
