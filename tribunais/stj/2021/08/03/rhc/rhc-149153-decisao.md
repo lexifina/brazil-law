@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 60):
+HABEAS CORPUS. ROUBO MAJORADO NA FORMA TENTADA. CONCURSO DE AGENTES. SUPOSTA AUSÊNCIA DE FUNDAMENTAÇÃO PARA A DECRETAÇÃO DA SEGREGAÇÃO CAUTELAR. NÃO VERIFICAÇÃO. ELEMENTOS QUE INDICAM A NECESSIDADE DA MEDIDA EXTREMA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. CRIME SUPOSTAMENTE PRATICADO DURANTE O GOZO DE LIBERDADE PROVISÓRIA. PACIENTE CONDENADO EM DOIS PROCESSOS COM PENA SEGUINDO SEU CURSO REGULAR. CONSTRANGIMENTO ILEGAL. NÃO OCORRÊNCIA. MANUTENÇÃO DA MEDIDA RESTRITIVA DE LIBERDADE. ORDEM CONHECIDA E DENEGADA. UNÂNIME.
+Consta dos autos que o recorrente foi preso em flagrante no dia 29 de janeiro de 2021, pelaprática do crime de roubo majorado pelo concurso de agentes na forma tentada (art. 157, § 2º, II e/e art. 14, II, do Código Penal), sendo, posteriormente, convertida a prisão em flagrante em prisão preventiva.
+No presente recurso, sustenta que não estão presentes os requisitos autorizadores da prisão preventiva.Requer o provimento do recurso para que seja revogada a custódia cautelardo paciente ou substituída por medidas cautelares alternativas à prisão.
+A liminar foi indeferida.
+Foram prestadas informações.
+O Ministério Público Federal opina pelo desprovimento do recurso.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+Consta do decreto de prisão (fls. 15/16):
+Desta forma, depreende-se das peças iniciais, estarem presentes tanto o fitmus comissi delicti quanto o periculum libertatis.
+Pois bem, por fumus comissi delicti entende-se como a comprovação da existência de um crime e indícios suficientes de autoria. É a fumaça da prática de um fato punível. Já o periculum libertatis, significa o perigo que decorre do estado de liberdade do investigado.Vale salientar que o crime praticado é punido com reclusão. Importante destacar que o autuado possui relatório positivo de processos em que responde criminalmente (fls. 23), motivos pelos quais é patente a necessidade de conversão da prisão em flagrante em preventiva, garantindo a ordem pública.
+Importante destacar que o flagrado já possui em andamento 2 (dois) processos de execução de pena, em trâmite na 16a Vara Criminal, consoante autos de n OS 0008165-41.2019.8.02.0001 e 0011999-52.2019.8.02.0001. Por tais razões, presentes estão os requisitos conjugados dos arts. 312 e 313, I, ambos do CPP.
+Dito isso, considerando que a segregação, no caso em tela, é necessária para garantia da ordem pública, bem como diante da presença dos requisitos da prisão preventiva, DECIDO:
+a) homologar a prisão em flagrante efetuada, para que surta seus efeitos legais, dado que não se vislumbram quaisquer vícios de natureza formal ou material capazes de invalidá-las;
+b) Converter a prisão em flagrante em prisão preventiva em desfavor do conduzido WANDERSON LUIS DA SILVA, motivada pela suposta prática do crime de tentativa de roubo majorado, previsto no art. 157, §2", II, c/c art. 14, II, todos do Código Penal Brasileiro, para garantia da ordem pública, visto que presentes a prova do crime e os indícios suficientes de autoria e do perigo gerado.
+Como se vê, consta da decisão de prisão circunstância fática que demonstra a periculosidade do recorrente, haja vista que "possui em andamento 2 (dois) processos de execução de pena".
+Esta Corte tem compreendido que a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Havendo, portanto, a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
