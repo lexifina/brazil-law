@@ -1,0 +1,39 @@
+Decisão: Trata-se de recurso extraordinário interposto pela União (eDOC 4, p. 545-569) em face de acórdão do Tribunal Regional Federal da 4ª Região, assim ementado (eDOC 4, p. 477):
+    “TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE VERBAS INDENIZATÓRIAS. COMPENSAÇÃO.
+    Reconhecido o direito, o indébito pode ser objeto de compensação com parcelas relativas a tributo de mesma espécie e destinação constitucional, devidamente corrigidas pela SELIC desde a data do recolhimento.”
+    Os embargos de declaração foram rejeitados. (eDOC 4, p. 511-513)
+    No recurso extraordinário, interposto com base no art. 102, III, “a” e “b”, da Constituição Federal, busca-se (eDOC 4, p. 546):
+    “a) o reconhecimento pelo TRF da 4ª Região da inconstitucionalidade do art. 43, inciso II e § 1º, do CTN (Lei nº 5.172/66) e do art. 3º, §1º, da Lei 7.713/88, sem redução de texto, a afastar a incidência do IRPF sobre os juros de mora legais recebidos pelo pagamento em atraso de verba remuneratório, no julgamento da Arguição de Inconstitucionalidade n. 50207321120134040000;
+    b) o reconhecimento pelo TRF da 4ª Região da inconstitucionalidade do art. 12 da Lei 7.713/88, a determinar que os rendimentos recebidos acumuladamente devem ser tributados pelo regime de competência e não pelo regime de caixa, no julgamento da Arguição de Inconstitucionalidade n. 200272050004340;
+    c) reconhecimento da incidência da contribuição previdenciária sobre os juros de mora recebidos em demanda trabalhista, por ausência de inconstitucionalidade na sua incidência;
+    d) constitucionalidade da incidência da contribuição previdenciária sobre o terço constitucional das férias, o aviso prévio e os primeiros quinze dias de licença médica.”
+    Em 4.3.2016, determinei a remessa dos autos ao Tribunal de origem para adequação ao disposto no artigo 543-B do Código de Processo Civil, nos termos do art. 328 do RISTF, em razão dos Temas 163, 482 e 808 da Repercussão Geral (eDOC 8).
+    Em novo juízo de admissibilidade, a Vice-Presidência do Tribunal a quo exarou a seguinte decisão (eDOC 313):
+    “Trata-se de recurso extraordinário interposto pela União (Fazenda Nacional) com apoio no art. 102, III, a, da Constituição Federal, contra acórdão proferido por Órgão Colegiado desta Corte.
+    Em virtude da retratação pelo colegiado (Tema 985/STF) resta prejudicado o recurso sobre o terço constitucional de férias.
+    No evento 97 requer a Fazenda Nacional a desistência do recurso do recurso no tocante ao auxílio-doença e ao aviso prévio indenizado. Não conheço do pedido com relação ao auxílio-doença, uma vez que a rubrica não foi objeto do recurso interposto no evento 27.
+    Quanto à matéria remanescente, o recurso merece prosseguir, tendo em conta o prequestionamento da matéria relativa aos dispositivos supostamente contrariados, não envolvendo exame de provas. Além disso, encontram-se preenchidos os demais requisitos de admissibilidade.
+    Ante o exposto, homologo a desistência parcial do recurso no tocante ao aviso prévio indenizado e admito na parte remanescente.”
+    É o relatório. Decido.
+    Considerando a negativa de seguimento com aplicação de entendimento firmado em regime de repercussão geral, a retratação de parte do acórdão recorrido e a homologação da desistência parcial, o conhecimento do presente recurso é possível apenas quanto aos pedidos envolvendo: a incidência do IRPF sobre os juros de mora legais recebidos pelo pagamento em atraso de verba remuneratório; regime de tributação de rendimentos recebidos acumuladamente; a incidência da contribuição previdenciária sobre os juros de mora recebidos em demanda trabalhista; e a incidência da contribuição previdenciária sobre os primeiros quinze dias de licença médica.
+    Dessa forma, passo ao exame da parte não prejudicada do recurso.
+    A irresignação não merece prosperar.
+    Em relação ao pleito envolvendo a incidência do IRPF sobre os juros de mora legais recebidos pelo pagamento em atraso de verba remuneratório e sobre o regime de tributação de rendimentos recebidos acumuladamente, verifico que nada foi julgado sobre o tema pelo Tribunal de origem e nem faz parte do pleito contido na inicial que deu origem ao presente processo.
+    Nesse ponto, as razões recursais estão dissociadas dos fundamentos do acórdão recorrido e da realidade processual, o que torna aplicável ao caso o enunciado da súmula 284 do STF:
+    “É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.”
+    No que diz respeito a incidência de contribuição previdenciária sobre juros moratórios devidos em razão do atraso no pagamento de verba trabalhista, observo que esta Corte, embora analisando o critério material do imposto de renda, determinou como de natureza indenizatória a verba em questão em feito submetido à sistemática da repercussão geral. Foi no julgamento do RE 855.091, Tema 808, cuja a ementa possui a seguinte redação:
+    “Recurso extraordinário. Repercussão Geral. Direito Tributário. Imposto de renda. Juros moratórios devidos em razão do atraso no pagamento de remuneração por exercício de emprego, cargo ou função. Caráter indenizatório. Danos emergentes. Não incidência.
+    1. A materialidade do imposto de renda está relacionada com a existência de acréscimo patrimonial. Precedentes.
+    2. A palavra indenização abrange os valores relativos a danos emergentes e os concernentes a lucros cessantes. Os primeiros, correspondendo ao que efetivamente se perdeu, não incrementam o patrimônio de quem os recebe e, assim, não se amoldam ao conteúdo mínimo da materialidade do imposto de renda prevista no art. 153, III, da Constituição Federal. Os segundos, desde que caracterizado o acréscimo patrimonial, podem, em tese, ser tributados pelo imposto de renda.
+    3. Os juros de mora devidos em razão do atraso no pagamento de remuneração por exercício de emprego, cargo ou função visam, precipuamente, a recompor efetivas perdas (danos emergentes). Esse atraso faz com que o credor busque meios alternativos ou mesmo heterodoxos, que atraem juros, multas e outros passivos ou outras despesas ou mesmo preços mais elevados, para atender a suas necessidades básicas e às de sua família.
+    4. Fixa-se a seguinte tese para o Tema nº 808 da Repercussão Geral: “Não incide imposto de renda sobre os juros de mora devidos pelo atraso no pagamento de remuneração por exercício de emprego, cargo ou função”.
+    5. Recurso extraordinário não provido.”
+    Dessa forma, é de se reconhecer que, no ponto, o acórdão recorrido está em harmonia com a jurisprudência do STF.
+    No que se refere à controvérsia alusiva à incidência de contribuição patronal sobre os valores pagos a título de auxílio-doença durante os primeiros 15 (quinze) dias de afastamento do empregado, a questão já foi submetida à deliberação do Plenário Virtual desta Corte, correspondendo ao Tema 482 da Repercussão Geral, que tem como leading case o RE 611.505 (Rel. p/ acórdão Min. Ricardo Lewandowski) e reafirma a natureza infraconstitucional do debate. Veja-se a ementa do acórdão:
+    “REPERCUSSÃO GERAL. TRIBUTÁRIO. CONTRIBUIÇÃO PREVIDENCIÁRIA. INCIDÊNCIA SOBRE VALORES PAGOS PELO EMPREGADOR NOS PRIMEIROS QUINZE DIAS DE AUXÍLIO-DOENÇA. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. I A discussão sobre a incidência, ou não, de contribuição previdenciária sobre valores pagos pelo empregador nos primeiros quinze dias de auxílio-doença situa-se em âmbito infraconstitucional, não havendo questão constitucional a ser apreciada. II Repercussão geral inexistente (DJe 24.10.2014).”
+    Ante o exposto, nego provimento ao recurso extraordinário interposto pela União, nos termos do art. 932, IV, a e b, do Código de Processo Civil e art. 21, §1º, do RISTF.
+    Publique-se.
+    Brasília, 3 de agosto de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
