@@ -1,0 +1,20 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de declaração opostos por RIO NORTE IMOVEIS LTDA contra decisão (e-STJ, fls. 1469/1477) que não conheceu do conflito, haja vista a aplicação da Súmula 480/STJ, nos termos da seguinte ementa:
+CONFLITO DE COMPETÊNCIA. JUÍZO UNIVERSAL X JUÍZO DA EXECUÇÃO. RECUPERAÇÃO JUDICIAL. CONSTRIÇÃO DE IMÓVEL NÃO PERTENCENTE À RECUPERADA E ALIENADO NO CURSO DA RECUPERAÇÃO COM AUTORIZAÇÃO DO JUÍZO UNIVERSAL. SÚMULA 480/STJ. UTILIZAÇÃO DO INCIDENTE COMO SUCEDÂNEO RECURSAL. CONFLITO NÃO CONHECIDO.
+Alega a embargante, em síntese, a existência de omissão no julgado, pois "a questão da inclusão do crédito do Sr. Marcelo na Recuperação Judicial do Grupo PDG foi suscitada ao longo do trâmite processual, mas não foi objeto de análise pelo eminente Ministro Relator"(e-STJ, fl. 1486). Defende, também, a existência de contradição na decisão embargada no tocante à aplicação da Súmula 480/STJ, pois"se os imóveis foram alienados em cumprimento ao plano de recuperação judicial, estes estão abrangidos pelo PRJ, o que atrai a competência do juízo da Recuperação Judicial"(e-STJ, fl. 1489).
+A parte embargada apresentou impugnação às fls. 1497/15507 (e-STJ).
+É o breve relatório.Decido.
+Os embargos declaratórios não merecem acolhida.
+Nos limites estabelecidos pelo art. 1022, do Código de Processo Civil, os embargos de declaração destinam-se apenas a suprir omissão, afastar obscuridade, eliminar contradição ou sanar erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes quando algum desses vícios for reconhecido.
+No caso, o decisum embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no incidente, ao concluir pelo não conhecimento do conflito, haja vista que os imóveis objeto da controvérsia, e adquiridos pela suscitante, foram alienados em cumprimento ao Plano de Recuperação Judicial do Grupo PDG, logicamente, com a autorização do Juízo da recuperação judicial, ecom informação expressa na escritura de compra e venda sobre o processo de execução, aplicando-se ao caso a Súmula 480/STJ, que dispõe:"O Juízo da recuperação judicial não é competente para decidir sobre a constrição de bens não abrangidos pelo plano de recuperação da empresa".
+A decisão embargada também foi clara ao assentar que o conflito estava sendo utilizado como sucedâneo de recurso, uma vez que a suscitante tinha adquirido os imóveis ciente do ônus referente ao processo executivo.
+Destaco, relativamente à alegação de omissão no julgado acerca dainclusão do crédito executado no Plano de Recuperação Judicial, que tal matéria é irrelevante no caso, pois a decisão embargada que não conheceu do conflitofundou-se na aplicação da Súmula 480/STJ e na utilização do incidente como sucedâneo.
+Observo, nessa linha, que o conflito de competência não é via adequada para a discussão acerca da concursalidade ou extraconcursalidade do crédito objeto da controvérsia, devendo a parte utilizar-se dos meios processuais adequados para tanto.
+Do mesmo modo, também não há se falar em contradição nodecisumembargado, pois se os imóveisadquiridos pela suscitanteforam alienados no curso do Plano de Recuperação Judicial com a autorização do respectivo juízo, esse magistrado não detém competência para decidir sobre bem que não faz mais parte do patrimônio da recuperanda (Sum 480/STJ).
+Na realidade, o questionamento feito pelaparteembargantereflete mero inconformismo com o teor da decisão, pretendendo rediscutir o que já foi decidido. Portanto, não há qualquer vício na decisão embargada a ensejar a sua retificação.
+Ante o exposto, rejeito os embargos de declaração.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. PROCESSUAL CIVIL. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1022/CPC. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA. INVIABILIDADE. EMBARGOS REJEITADOS.
