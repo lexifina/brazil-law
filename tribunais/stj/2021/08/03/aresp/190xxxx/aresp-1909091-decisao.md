@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por BOA VISTA SERVICOS S.A, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, naalínea"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 16/04/2021.
+Concluso ao gabinete em: 19/07/2021.
+Ação: de indenização por danos moraisajuizada por MARCOS BATISTA GOMES contra a ora agravante, na qual alega que foi surpreendido com a inclusão de seu nome nos cadastros de inadimplentes, argumentando que não foi notificado pela parte agravante de que o apontamento seria realizado, consoante disposição expressa no art. 43, parágrafo 2º, CDC. Sustenta que a comunicação é essencial para ter conhecimento dos fatos que lhe são imputados e evitar a inscrição e suas consequências. Ressalta, ainda, que não possui adívida que ensejou a inclusão de seus dados nos órgãos de proteção ao crédito. Aduz que o dano moral se configura com a ausência de notificação prévia por parte da ré. Ao final, pede o cancelamento dos registros feitos de forma irregular e a condenação da parte ré em danos morais.
+Sentença: julgou parcialmente procedentes os pedidos para declarara inexigibilidade das dívidas nos valores de R$ 492,44 (quatrocentos e noventa e dois reais e quarenta e quatro centavos) e R$61,72 (sessenta e um reais e setenta e dois centavos). Determinoua imediata retirada do nome da parte agravadados cadastros restritivos de crédito, em decorrência dos referidos débitos.
+Acórdão: deu parcial provimento aos recursos de apelação interpostos por ambas as partes, nos termos da seguinte ementa:
+EMENTA: APELAÇÕES CÍVEIS - AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZATÓRIA - INSCRIÇÃO EM CADASTRO RESTRITIVO DE CRÉDITO SEM COMUNICAÇÃO REGULAR - SENTENÇA "ULTRA PETITA" -PRELIMINAR DE OFICIO -DANOS MORAIS "IN RE IPSA" - CONFIGURAÇÃO DO DEVER DE INDENIZAR -CRITÉRIOS PARA FIXAÇÃO DO "QUANTUM"- CORREÇÃO MONETÁRIA-JUROS DE MORA -RESPONSABILIDADE EXTRACONTRATUAL-TERMO INICIAL.
+I - Há sentença "ultra petita" quando concedida prestação jurisdicional além do pedido exordial. Na espécie, o julgador deferiu pedido diverso do postulado, sem, contudo, deixar de se pronunciar sobre o pleito autoral.
+II- Se não demonstrada a devida prévia notificação, o órgão mantenedor responde pela reparação dos danos decorrentes da inscrição do nome de devedor em seus cadastros restritivos, sendo os morais "in re ipsa", ou seja, decorrente simplesmente da anotação irregular;
+III- Diante da inexistência de parâmetros objetivos estabelecidos em lei para a quantificação do dano moral, doutrina e jurisprudência vêm se manifestando no sentido de que a indenização dessa natureza deve ser fixada em valor suficiente a compensar o ofendido pelo prejuízo experimentado, mas sem gerar indevido enriquecimento, desestimulando, lado outro, a reiteração da conduta agressora.
+IV -Consoante entendimento já sumulado pelo STJ, em se tratando de indenização decorrente de responsabilidade extracontratual a correção monetária sobre a indenização por danos morais incide a partir da data do arbitramento (Súmula 362) e os juros de mora desde o evento danoso (Súmula 54).
+Embargos de Declaração: opostos pela agravante, foram parcialmente acolhidos paraconsiderar o envio da prévia notificação e a regularidade da inscrição promovida no nome do agravado em relação ao débito de R$ 492,44 reais.
+Recurso especial: alegadissídio jurisprudencial quanto à interpretação do art. 43, §2º, do CDC. Afirma ter cumprido o dever de notificação prévia exigido pelo artigo 43, §2º, do Código de Defesa do Consumidor.Impugna a incidência dos juros de mora desde o evento danoso. Defende ser elevada a fixação da indenização no montante de R$ 8.000,00 (oito mil reais) e pretende a sua redução.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da divergência jurisprudencial
+A agravantenão apresentou adequadamente o dissídio jurisprudencial, devido a ausência de cotejo analítico entre os julgados, sendo certo, que para a demonstração da divergência não basta apenas a transcrição de ementas.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (comprovação do envio da notificação ao agravado e o valor fixado a titulo de danos morais), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+- Da fundamentação deficiente
+A via estreita do recurso especial, exige a demonstração inequívoca da ofensa ao dispositivo indicado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos.
+Na hipótese dos autos, deixou aagravante de indicar em seu recurso especial os dispositivos de lei que teriam sido violados pelo aresto recorrido quanto àdata de início da incidência dos juros de mora, o que revela a deficiência de fundamentação suficiente a atrair a incidência da Súmula 284 do Excelso Pretório.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 5% os honorários fixados anteriormente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO PREJUDICADO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COM INTERPRETAÇÃO DIVERGENTE. SÚMULA 284/STF.
+1. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+2. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+3. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+4. Agravo conhecido. Recurso especial não conhecido.
