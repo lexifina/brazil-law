@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo DNIT, com fundamento no art. 105, III, "a", da CF, contra acórdão do TRF da 5ª Região (e-STJ fls. 224/228), que não acolheu embargos de declaração opostos pelo ente federal.
+Defende a recorrente violação do art. 535 e 537 do CPC/73. Aduz que o juízo competente para analisar os embargos de declaração opostos contra decisão monocrática era o próprio relator isoladamente, e não o colegiado da Turma que ele integra.
+Contrarrazões (e-STJ fls. 253/263).
+Passo a decidir.
+No caso em apreço, o TRF da 5ª Região, por decisão monocrática do relator do processo, considerou a Corte Regional competente para o julgamento de mandado de segurança coletivo.
+Contra esta decisão, o DNIT opôs embargos de declaração, que foram julgados colegiadamente pela Primeira Turma daquele Tribunal. O ente público, então, opôs novos aclaratórios, alegando, dessa vez, que cabia ao próprio relator julgar monocraticamente o recurso, e não o colegiado, mas os embargos de declaração foram novamente rejeitados.
+Nesse passo, embora particularmente o julgamento colegiado não tenha provocado prejuízo à parte então embargante, o fato é que a jurisprudência desta Corte tem acolhido, em casos idênticos ao presente, a tese de nulidade da decisão a quo.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO NÃO CONHECIDO. AUSÊNCIA DE EXAURIMENTO DE INSTÂNCIA. AGRAVO DE INSTRUMENTO DECIDIDO MONOCRATICAMENTE. POSTERIOR ACÓRDÃO EM EMBARGOS DE DECLARAÇÃO. SÚMULA 281/STF. APLICAÇÃO DEVIDA. AGRAVO IMPROVIDO.
+1. Nos termos da jurisprudência firmada nesta Corte Superior, por ausência de exaurimento da instância ordinária, não merece ser conhecido recurso especial interposto contra decisão monocrática, integrada por acórdão em embargos declaratórios. 2. A Corte Especial, no julgamento do AgRg no REsp 1.231.070/ES (Rel. Min. Castro Meira, DJe de 10/10/2012), consagrou entendimento de que, "quando o órgão colegiado aprecia embargos de declaração opostos contra decisão monocrática, em verdade, não examina a controvérsia, mas apenas afere a presença, ou não, de um dos vícios indicados no art. 535, I e II, do CPC. Por conseguinte, o fato de existir decisão colegiada não impede nem inibe a subsequente interposição de agravo regimental, este sim, apto a levar ao órgão coletivo o exame da questão controvertida. Há, também, outra solução processual no ordenamento jurídico. Julgados colegiadamente os embargos de declaração opostos contra decisão monocrática de relator, deve a parte interessada opor novos aclaratórios, sob a alegação de erro no procedimento, viabilizando, assim, a interposição do recurso especial para que seja analisada, exclusivamente, a nulidade do julgado por ofensa ao art. 557 do CPC".
+3. Agravo interno improvido.
+(AgInt no AREsp 1088141/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/08/2017, DJe 18/08/2017) (Grifos acrescidos).
+Observe-se que o DNIT opôs os dois embargos acima mencionados, pelo que os fatos se encaixam no precedente paradigma.
+Ante o exposto, DOU PROVIMENTO ao recurso especial, a fim de anular as decisões de e-STJ fls. 164/167 e 224/228, determinando o retorno dos autos ao Tribunal de origem para que reaprecie monocraticamente os embargos de declaração opostos pelo ente público àse-STJ fls. 180/186.
+Publique-se. Intimem-se.
