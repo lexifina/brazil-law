@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por DJALMA COSTA BISPO FILHO,contra acórdão do Tribunal de Justiça do Estado de Goiás.
+Colhe-se dos autos que o recorrente teve a prisão preventiva decretada pela suposta prática dos delitos tipificados nos arts. 35 daLei n. 11.343/06 e 1º da Lei n. 9.613/98.
+Neste recurso, a defesa alega, em suma, excesso de prazo para formação da culpa.
+Destaca que o paciente está custodiado preventivamente desde 31/7/2020 e que a audiência de instrução foi realizada no dia 03/05/2021, todavia, apenas foram ouvidas 3 testemunhas de acusação, razão pela qual foi designada audiência de continuaçãopara o dia 07/06/2021.
+Sustenta que, provavelmente, não será possível a oitiva de todas as testemunhas na nova data aprazada, e que a complexidade do feito não justifica a designação do ato complementar para data tão distante.
+Aduz que orecorrenteestá segregado provisoriamente há 277 dias e, caso assim permaneça, terá completado311 de encarceramento na data da nova audiência marcada.
+Pleiteia a expedição de alvará de soltura mediante imposição de medidas cautelares diversas da prisão.
+Liminar indeferida (e-STJ, fl. 483).
+Informações prestadas (e-STJ, fls. 486-492)
+O Ministério Público Federal opinou pelo desprovimento do recurso (e-STJ, fls. 496-503).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+Quanto à alegação de excesso de prazo, o Tribunal de origem assim se manifestou:
+A autoridade impetrada informou que a prisão antecipada do paciente foi imposta, formulada a denúncia, recebida, os autos da ação penal aguardando a manifestação de um dos denunciados, para a audiência de instrução e julgamento, o excedimento temporal pela complexidade dos fatos, associação criminosa envolvida com o tráfico interestadual de entorpecentes, responsável pela comercialização de mais de 02 t (duas toneladas) de maconha, a participação de 12 (doze) pessoas, advogados distintos, o incidente de insanidade mental, não ocorrendo a desídia da máquina judiciária na condução do procedimento penal.
+Não configura constrangimento ilegal, o atraso na conclusão da ação penal movida contra o paciente, por violação do art. 35,caput, c/c art. 40, incisos IV e V, todos da Lei nº 11.343/06, art. 1º, caput, da Lei nº 9.613/98, estando ele no regime de custódia antecipada, a complexidade e a gravidade dos fatos, a multiplicidade de crimes e autores, advogados distintos, ausente a desídia da autoridade coatora. (e-STJ, fls. 316-317)
+Segundo orientação dos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Na hipótese,conforme informações prestadas pelo Tribunal "a quo" (e-STJ, fls. 487-489), observa-se que o recorrente foi preso preventivamente em 31/07/2020 e na mesma data foi oferecida denúncia. A custódia cautelar foi revisada e mantida, nos dias 19/10/2020, 18/01/2021 e 16/04/2021, por persistirem os fundamentos para a sua decretação. A denúncia foi recebida na data de23/03/2021 e foi designada audiência de instrução para a oitiva das 10 primeiras testemunhas arroladas na denúncia. Todavia, apenas puderam ser ouvidas 3 testemunhas no ato, sendo designada audiência de continuação para o dia 07/06/2021.
+Em consulta realizada no site do Tribunal de origem, verifica-se que foi realizada a audiência do dia 07/06/2021, entretanto, foi marcada nova audiência para o dia 20/07/2021, a fim de serem ouvidas as testemunhas faltantes.
+Sob tal contexto, não há se falar, por ora, em manifesto constrangimento ilegal decorrente de excesso de prazo na instrução criminal, tendo em vista a complexidade do feito, que reúne 12 réus com advogados distintos, de sorte que o prolongamento do trâmite processual se justifica, conforme elucidou o Juízo de origem pela: " ..  quantidade de testemunhas arroladas pelas partes e o número de incidentes que ocorreram ao longo da tramitação do feito, dentre pedidos de revogação de prisão preventiva, restituição de bens apreendidos/embargos de terceiros, instauração de incidente de insanidade mental, revogação de prisão domiciliar e até aditamento à denúncia".
+No mesmo sentido, os seguintes precedentes:
+" ..  6. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento da delonga injustificada deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+7. Fica afastado, ao menos por ora, o suscitado excesso de prazo se a demanda tramita regularmente e o prognóstico para o término do feito, com data prevista para a realização da audiência de instrução, é de que seja em breve.
+8. Ordem denegada."
+(HC 530.341/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/10/2019, DJe 14/10/2019)
+" ..  6. Não se verifica excesso de prazo na formação da culpa quando o processo segue regular tramitação, sendo que o maior prazo para o julgamento decorre da complexidade do feito, em que se apura a imputação a 3 réus da prática de tráfico e associação para o tráfico, em que foi necessária expedição de cartas precatórias para a oitiva de testemunhas para continuação da audiência de instrução e julgamento realizada em 12/11/2018. E, ainda, conforme verifica-se no sítio eletrônico do Tribunal de origem, a audiência ainda não foi realizada por ausência das testemunhas, sendo designada para 10/10/2019. Não há, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Judiciário a responsabilidade pela demora.
+7. Habeas corpus não conhecido."
+(HC 526.418/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/10/2019, DJe 08/10/2019)
+Ante o exposto, nego provimento ao recurso. Recomenda-se, entretanto, celeridade ao Juízo de 1º grau na conclusão da instrução processual.
+Publique-se. Intimem-se.
