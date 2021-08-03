@@ -1,0 +1,70 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CDA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 282/STF.DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. A matéria pertinente aosarts.41 da Lei n. 6.830/80 e 202 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2.No que diz respeito à tese de cerceamento de defesa, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF.
+3. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado por Passamanaria do Nordeste S.A. contra decisão que não conheceu do recurso especial, sob os seguintes fundamentos: (I)ausência de prequestionamento da matéria pertinente aos arts. 41 da Lei n. 6.830/80 e 202 do CTN(Súmula 282/STF); e (II) incidência da Súmula 284 do STF.
+A parte agravante, em suas razões, sustenta: (I) "nesse contexto, conforme exposto na narrativa fática, o cerne da contenda se consubstancia no cerceamento de defesa do contribuinte que teve afrontado seu direito à ampla defesa e ao contraditório em razão do extravio de processo administrativo que deu origem ao feito executivo.Dessa forma, ao contrário do que foi sustentado pelo Exmo. Ministro, no caso presente caso a matéria objeto do recurso especial foi amplamente enfrentada no acórdão recorrido pelo Tribunal de origem,  ..  " (fl. 369); e (II) "além disso, é cristalino que a argumentação e a fundamentação do direito da recorrente, ao longo do Recurso Especial interposto, são feitas em cima da violação ao art. 41 da Lei nº 6.830/80 e art. 202 do CTN, como o próprio Exmo. Ministro destaca no início de sua decisão.Portanto, é inequívoca a necessidade de conhecimento do REsp 2019/0079906- 2, posto que houve o prequestionamento da matéria no acórdão objeto do recurso, bem como que, através de uma breve leitura do texto recursal, percebe-se a indicação dos dispositivos legais foram violados." (fl. 373).
+Transcorreuin albis o prazo para a impugnação (fl. 379).
+É O RELATÓRIO.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. CDA. AUSÊNCIA DE PREQUESTIONAMENTO DE DISPOSITIVO DE LEI TIDO POR VIOLADO. SÚMULA 282/STF.DEFICIÊNCIA DE FUNDAMENTAÇÃO RECURSAL. SÚMULA 284/STF.
+1. A matéria pertinente aosarts.41 da Lei n. 6.830/80 e 202 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2.No que diz respeito à tese de cerceamento de defesa, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal. Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF.
+3. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): A irresignação não merece acolhimento, tendo em conta que a parte agravante não logrou desenvolver argumentação apta a desconstituir os fundamentos adotados pela decisão recorrida, que ora submeto ao Colegiado para serem confirmados:
+Trata-se de recurso interposto por Passamanaria do Nordeste S/A, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fls. 175/176):
+EMENTA: PROCESSUAL CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA.AUSÊNCIA DE PROCESSO ADMINISTRATIVO. ALEGATIVA DE NULIDADE. LANÇAMENTO DE OFÍCIO. DESNECESSIDADE DE PROCESSO ADMINISTRATIVO. PRECEDENTES. REQUISITOS ESSENCIAIS PARA A EXECUÇÃO FISCAL. RESP 1.138.202/ES, SUBMETIDO AO REGIME DO RECURSO REPETITIVO. OBSERVÂNCIA DOS REQUISITOS.RECURSO CONHECIDO E IMPROVIDO.
+1. O tema em debate cinge-se a discutir a execução fiscal em sede de exceção de pré- executividade intentada pelo Município de Fortaleza em face da empresa Passamanaria do Nordeste S.A. decorrente da CDA no.
+2005/00000816, a qual foi rejeitada por entender o Juízo a quo que a insurgência demandava dilação probatória, possível somente em sede de embargos do devedor.
+2. No processo de origem, a empresa agravante questiona a presunção de certeza e liquidez do título em face do extravio do processo administrativo que lhe deu origem. Inquirido a apresentar o referido processo, o Município exequente apresentou informações afirmando sobre a impossibilidade de entregar a documentação solicitada, em face do extravio da mesma.
+3. Revendo o posicionamento adotado em sede preliminar, e aprofundando o exame da questão controversa, pode-se verificar que o Superior Tribunal de Justiça possui entendimento assentado sustentando que "a ausência de processo administrativo não enseja a nulidade da Certidão de Dívida Ativa (CDA) nos casos de tributos sujeitos a lançamento de oficio".
+4. "Nos tributos com lançamento de oficio, a ausência de prévio processo administrativo não o enseja a nulidade da CDA, porquanto cabe ao contribuinte o manejo de competente processo administrativo caso entenda incorreta a cobrança tributária, e não ao Fisco que, com observância da lei aplicável ao caso, lançou o tributo" (AgRg no AgRg no AREsp 235.651/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/08/2014, DJe 25/09/2014).
+5. Em tese definida pelo STJ, em sede de julgamento repetitivo, através do REsp 1138202/ES, da Relatoria do Exmo. Ministro Luiz Fux, julgado em 09/12/2009, DJe 01/02/2010, restou firmado os requisitos essenciais para o ajuizamento da execução fiscal.
+6. Conclui-se, ante a estrita observância dos elementos imprescindíveis para a constituição da CDA, que a simples carência de apresentação do processo administrativo não enseja a o nulidade da Certidão de Dívida Ativa (CDA), e, portanto, a Ação de Execução Fiscal de nº. 0089321-60.2007.8.06.0001 deve prosseguir regularmente, devendo ser processada pelo de Plano, sem prejuízo da análise de possível insurgência à execução fiscal apresentada pela empresa Agravante.
+7. Recurso conhecido e improvido.
+Nas razões do recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação aos arts. 41 da Lei n. 6.830/80 e 202 do CTN. Sustenta, em resumo, que "a manutenção do processo administrativo que consubstancia a cobrança é indispensável para a higidez da execução, e a falta de apresentação dos referidos dados, nos moldes do que ocorre nos presentes autos, configura manifesto cerceamento do direito de defesa do contribuinte. Em adição, ressalte-se que o extravio do processo administrativo que originou a CDA não se trata apenas de mera formalidade, já que o §5º do art. 2º da mesma lei dispõe que o número do processo administrativo ou do auto de infração são requisitos obrigatórios ao Termo de Inscrição de Dívida Ativa, assim como sua disponibilização ao contribuinte quando solicitado, sob pena de cerceamento de sua defesa, e nulidade da CDA executada." (fl. 211) Contrarrazões às fls. 226/238.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, a matéria pertinente aos arts. 41 da Lei n. 6.830/80 e 202 do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+No que diz respeito à tese de cerceamento de defesa, cumpre observar que a parte recorrente não amparou o inconformismo na violação de qualquer lei federal.
+Destarte, a ausência de indicação do dispositivo legal tido por violado implica deficiência de fundamentação do recurso especial, atraindo a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."). Nesse diapasão: AgRg no AREsp 157.696/SC, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/11/2012; AgRg nos EDcl no Ag 1.289.685/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 6/8/2010.
+ANTE O EXPOSTO, não conheço do recurso.
+Publique-se.
+Diante do contexto, não houve o prequestionamento dos arts. 41 da Lei n. 6.830/80 e 202 do CTN, e a parte ora agravante nem sequer opôs aclaratórios para suprir eventual omissão, sendo inafastável o óbice da Súmula 282/STF no ponto.
+Oportuno relembrar que para a jurisprudência deste STJ o prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pelas partes nos recursos que aviaram perante aquele Sodalício.
+A propósito:
+DIREITO PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. CONSTITUCIONAL. TRIBUTÁRIO. IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO SUPERVENIENTE EM SEDE DE RECURSO ESPECIAL. REQUISITO CONSTITUCIONAL DO PREQUESTIONAMENTO. MATÉRIAS DE ORDEM PÚBLICA.
+1. Para a apreciação de matéria pelo STJ no julgamento de recurso especial, é necessário ter havido o efetivo debate da legislação infraconstitucional no Tribunal de origem.
+2. Não cabe a apreciação de direito superveniente invocado pela parte somente em recurso especial e no STJ, em face do não cumprimento do requisito constitucional do prequestionamento.
+3. A exigência do prequestionamento prevalece também quanto às matérias de ordem pública.
+4. Embargos de divergência rejeitados.
+(EREsp 805.804/ES, Rel. Ministro João Otávio de Noronha, Corte Especial, DJe 01/07/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. VIOLAÇÃO AO ART. 5º DA LINDB. FALTA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. PRÁTICA ABUSIVA. VALOR DA MULTA. VERIFICAÇÃO DE CRITÉRIOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. NORMA LOCAL. SÚMULA 280/STF. PORTARIA PROCON. ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. O STJ não considera suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes ou apenas citada no acórdão, mas sim que a respeito tenha havido efetivo debate no acórdão recorrido.  ..
+6. Agravo interno não provido.
+(AgInt no AREsp 1.145.530/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 31/10/2017)
+Por fim, conforme consignado no decisum agravado, a parte agravante não indicou o dispositivo legal que embasaria a tese de cerceamento de defesa. Assim, escorreita a decisão alvejada ao aplicar o obstáculo da Súmula 284/STF.
+Em reforço, ilustrativamente, vejam-se os julgados:
+PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL. ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE OMISSÃO. ART. 29, II, DA LEI N. 8.213/91. FATOR PREVIDENCIÁRIO. APLICABILIDADE AO TEMPO LABORADO EM CONDIÇÕES ESPECIAIS. SÚMULAS N. 7/STJ E N. 284/STF. INCIDÊNCIA PROPORCIONAL DO FATOR PREVIDENCIÁRIO. SÚMULA N. 211/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA N. 203/STJ.
+ ..
+XI - Não foi indicado com precisão o dispositivo legal que teria sido violado. Esclareça-se que a competência do Superior Tribunal de Justiça, na via do recurso especial, encontra-se vinculada à interpretação e à uniformização do direito infraconstitucional federal. Verificado que o recorrente deixou de indicar com precisão quais os dispositivos legais que teriam sido violados, apresenta-se evidente a deficiência do pleito recursal, atraindo o teor da Súmula n. 284 do STF. Confira-se: AgInt no AREsp n. 983.543/RJ, Rel. Ministro Herman Benjamin, DJe 5/5/2017; AgInt no REsp n. 1.597.355/CE, Rel. Ministro Francisco Falcão, DJe 10/3/2017.
+ ..
+XV - Agravo interno improvido.
+(AgInt no REsp 1.781.083/RS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 21/09/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO. INEXISTÊNCIA. JURISPRUDÊNCIA DOMINANTE. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. SÚMULA 568/STF. SÚMULAS 283 E 284/STF. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula 568 do STJ, o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema .
+2. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 11, 489 e 1.022 do Código de Processo Civil de 2015.
+3. A falta de indicação do dispositivo legal supostamente violado pelo acórdão proferido pelo Tribunal de origem caracteriza deficiência na fundamentação do recurso especial, o que atrai a incidência da Súmula 284 do Supremo Tribunal Federal.
+4. Os fundamentos do acórdão proferido pelo Tribunal de origem não foram devidamente impugnados. Incidência da Súmula 283/STF.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AgInt no AREsp 1.567.528/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, DJe 18/09/2020)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É como voto.
