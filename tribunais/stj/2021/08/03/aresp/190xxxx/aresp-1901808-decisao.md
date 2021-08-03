@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto por Renato Nunes de Oliveira Lima, com fundamento no art. 105, III, a e c, da Constituição Federal, para impugnar acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 224):
+PRESTAÇÃO DE SERVIÇOS. Empreitada. Construção de imóvel. Alegação do autor de que os réus foram contratados para elaboração de financiamento junto à Caixa Econômica Federal. Não comprovação. Impossibilidade de impor essa obrigação aos empreiteiros, que empreenderam esforços para concessão do crédito por mera liberalidade, já que a maior parte do pagamento do contrato de empreitada estava condicionada à aprovação do financiamento imobiliário. Rescisão do contrato por causa da demora na liberação do dinheiro que ocorreu por culpa do autor. Aplicabilidade da multa contratual de 20%. Admissibilidade. Valor da multa que deve ser compensado com o montante adiantado pelo autor. Quitação do débito. Reconhecimento. Ação parcialmente procedente para declarar a rescisão do contrato. Recurso não provido, embora por ouros fundamentos.
+Nas razões do recurso especial (e-STJ, fls. 231-250), o recorrente apontou divergência jurisprudencial e violação dos arts. 51, II e IV, § 2º, I e III, do CDC; 413 e 884 do Código Civil; e 489, § 1º, I e IV, do CPC/2015.
+Sustentou que o acórdão recorrido não garantiu o direito fundamental do duplo grau de jurisdição ao reproduzir fielmente a decisão de primeira instância. Argumentou não restar dúvida nos autos que os recorridos foram contatados para execução da obra e aprovação do financiamento junto à Caixa Econômica Federal.
+Afirmou que a manutenção da decisão recorrida gera injustiça, principalmente por ter agido o tempo todo de boa-fé. Defendeu, ainda, a aplicação do Código de Defesa do Consumidor, a existência de enriquecimento sem causa da parte recorrida, a não observância dos requisitos para distribuição da prova, e a existência de julgamento extra petita.
+O recurso especial não foi admitido na origem, o que ensejou a interposição do presente agravo.
+Brevemente relatado, decido.
+Presentes os pressupostos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Apesar de o recorrente ter indicado, nas razões recursais, os dispositivos que entende violados, não demonstrou, clara e precisamente, no que consistiu a alegada negativa de vigência à lei, ou mesmo qual a sua correta aplicação, o que impossibilita a exata compreensão da controvérsia, atraindo a aplicação, à hipótese, do enunciado 284 da Súmula do Supremo Tribunal Federal, por aplicação analógica.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO INCAPAZ DE ALTERAR O JULGADO. BRASIL TELECOM S.A. CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E O ENTENDIMENTO DESTA CORTE. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS Nº 211/STJ E Nº 282/STF.
+1. É inadmissível o inconformismo quando o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça.
+2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido como violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, ou apresenta argumentação dissociada da sua literalidade, circunstância que atrai, por analogia, a Súmula nº 284/STF.
+3. A ausência de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede o conhecimento do recurso especial (Súmulas nº 211/STJ e nº 282/STF).
+4. Agravo regimental não provido.
+(AgRg no AREsp 558.627/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 10/03/2016, DJe 28/03/2016)
+De qualquer modo, ainda que assim não fosse, a inversão do posicionamento esposado pelas instâncias ordinárias acerca da culpa pela rescisão contratual demandaria o reexame de todo o conjunto fático-probatório dos autos o que é vedado nesta via especial, ante o óbice do enunciado n. 7 da Súmula desta Corte Superior.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 3% sobre o valor da causa, suspensa a exigibilidade em razão da gratuidade de justiça deferida ao recorrente.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DANOS MORAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RESCISÃO CONTRATUAL. CULPA DO AUTOR. ENTENDIMENTO OBTIDO DA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
