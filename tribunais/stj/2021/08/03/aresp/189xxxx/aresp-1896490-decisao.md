@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto em face de decisão que inadmitiu o recurso especial pela incidência da Súmula 83/STJ.
+A agravante foi condenado pela prática do delito previsto no art. 33, caput, da Lei 11.343/06, a 5 anos e 3 meses de reclusão, além de 500 dias-multa, no regime inicial fechado.
+Em sede de apelação, o Tribunal de Justiça reformou parcialmente a sentença para reconhecer a causa de diminuição de pena do art. 33, § 4º, da Lei 11.343/06, e redimensionar a pena para 4 anos e 2 meses de reclusão, em regime inicial semiaberto, e 400 dias-multa.
+Nas razões do especial, aponta violação ao art. 33, §4ºda Lei 11.343/06, porquanto o TJTO, embora tenha reconhecido o tráfico privilegiado, não o fez em seu patamar máximo.
+No presente agravo, afirma a defesa que a análise das razões do recurso especial não exige reexame de provas, mas a correta aplicação da legislação federal.
+Requer, assim, o provimento do agravo para que o recurso especial seja conhecido e, no mérito, provido para que seja reconhecida a incidência da causa especial de diminuição de pena prevista no § 4.º do art. 33 da Lei 11.343/06, em seu patamar máximo de 2/3.
+Contraminuta apresentada, manifestou-se o Ministério Público Federal pelo desprovimento do recurso.
+O agravo é tempestivo e ataca os fundamentos da decisão agravada. Passo, portanto, à análise do mérito recursal.
+A respeito da 3ª fase da dosimetria da pena, o acórdão está assim fundamentado(fls. 256-257):
+Entretanto, no que diz respeito à causa de diminuição do § 4º do artigo 33 da Lei 11.343/06, entendo haver razão à defesa.
+Extrai-se dos autos que a Recorrente é primária, sem antecedentes, e, ao contrário do consignado em sentença, não subsistem elementos seguros a evidenciar a dedicação dela ao tráfico de entorpecentes, não sendo possível concluir de maneira diversa apenas pela quantidade de droga apreendida.
+Dessa forma, tendo em vista a primariedade, os bons antecedentes e a ausência de indicativos concretos que demonstrem que a Apelante se dedique a atividades criminosas ou integre organização criminosa, reconheço a causa diminuição do tráfico privilegiado.
+Nesses termos, passando à nova dosimetria da pena da Recorrente, mantenho as balizas estabelecidas na sentença em relação à primeira e segunda fases, em que se estabeleceu a reprimenda no mínimo legal de 05 (cinco) anos de reclusão e 500 (quinhentos) dias-multa, no valor unitário mínimo.
+Na terceira fase, aplico a causa especial de diminuição de pena do artigo 33, § 4º, da Lei 11.343/06, na fração mínima de 1/6, em razão da quantidade de droga apreendida, o que conduz a reprimenda a 04 (quatro) anos e 02 (dois) meses de reclusão, e 400 (quatrocentos) dias-multa, no valor unitário mínimo.
+No caso, em obediência ao disposto no artigo 33, § 2º, "b", do Código Penal, estipula-se o regime semiaberto para o início do cumprimento da pena.
+Desatendidos os pressupostos elencados nos artigos 44 e 77, do Código Penal, inviável é a substituição da pena privativa de liberdade por restritiva de direitos ou a concessão do sursis.
+Na hipótese, a quantidade de droga apreendida - cerca de 97,9g (noventa e sete gramas e nove decigramas) de maconha e 2 (duas) pedras de "crack", pesando 11g (onze gramas) - (fl. 139) não se mostra relevante, somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não ensejam a exasperação da pena-base, a vedação da minorante do tráfico no seu quantum máximo de 2/3, o recrudescimento do regime prisional ou a negativa à substituição das penas.
+Nesse sentido: AgRg no AREsp 1679878/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2020; AgRg no HC 554.893/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.
+Assim, considerada a primariedade da ré, o quantum de pena aplicado, e a não relevante quantidade de entorpecente, cabível a incidência da minorante do tráfico privilegiado, em seu patamar máximo, a fixação do regime aberto e a substituição da pena privativa de liberdade por penas restritivas de direitos, nos estritos termos dos arts. 33 e 44 do Código Penal.
+Assim, passo à dosimetria da pena.
+Mantenho a pena-base no mínimo legal de 5 anos de reclusão e 500 dias-multa, tornando-a provisória neste patamar, a despeito da confissão espontânea (súmula 231/STJ). Na terceira fase, aplico a minorante do tráfico privilegiado em 2/3, ficando a pena estabelecida em 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo a pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, conheço do agravo para dar provimento ao recurso especial, a fim de, reconhecida a minorante prevista no art. 33, § 4º, da Lei 11.343/06, em seu patamar máximo, fixar a pena da recorrente em 1 ano e 8 meses de reclusão, no regime inicial aberto, e 166 dias-multa, substituindo a pena privativa de liberdade por restritiva de direitos, a serem fixadas pelo Juízo da Execução.
+Publique-se.
+Intimem-se.
