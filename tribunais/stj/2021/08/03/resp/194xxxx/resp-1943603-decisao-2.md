@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de recurso especial interposto por RESIDENCIAL RAPOSO TAVARES LTDA e HELIO SEIBEL, fundamentado naalínea"a" do permissivo constitucional.
+Recurso especial interposto em: 10/03/2021.
+Concluso ao gabinete em: 18/06/2021.
+Ação: indenização por danos materiais e compensação por danos morais, ajuizada por TELMA DE SANTANA CARVALHO, em face de SP 12 EMPREENDIMENTOS IMOBILIARIOS LTDA - EM RECUPERACAO JUDICIAL edosrecorrentes,em razão de inadimplemento contratual em compra e venda de imóvel com alienação fiduciária em garantia.
+Sentença: julgou parcialmente procedentes os pedidos, para condenar os recorrentes eoutraréna obrigação de fazer de entregar o lote, com a infraestrutura prometida, em 30 dias do trânsito em julgado, sob pena de multa diária de R$ 200,00, limitada a 150 dias, bem como ao pagamento de 0,5% do preço do imóvel por mês desde os respectivos vencimentos e com juros de mora de 1% desde a citação.
+Acórdão: deu parcial provimento às apelações interpostas pelosrecorrentes e pelaoutraré, apenas para afastar a determinação de cumprimento da obrigação de entrega das obras e, consequentemente, as multas diárias, nos termos da seguinte ementa:
+INDENIZAÇÃO - Compromisso de compra e venda de imóvel - Demora na entrega do imóvel - Prazo certo fixado para conclusão do empreendimento e entrega à compradora, não observado - Não caracterização de ocorrência de força maior ou caso fortuito - Condições apontadas a revelar falta de regular previsão - Mora caracterizada - Falta das rés, inclusive, confessa - Conversão da obrigação de fazer em indenização por perdas e danos por todo o período da mora - Possibilidade - Obrigação das vendedoras de indenizarem a compradora por perdas e danos pelo período da mora na entrega da unidade, pela simples indisponibilidade do bem, que independe da destinação de seu uso, a partir da data prevista e tendo como termo final a data da conclusão final das obras de infraestrutura do loteamento - Fixação em valor mensal correspondente a 0,5% sobre o valor do imóvel, atualizado pela Tabela Prática deste Tribunal, incidindo juros de mora de 1% ao mês a contar da citação - Razoabilidade - Sentença em parte, reformada - RECURSOS PARCIALMENTE PROVIDOS.
+Recurso especial: alegamviolação dos arts. 485, VI, do CPC/15, 9º da Lei 6.766/79 e 186, 402, 884 e 927 do CC/02 . Sustentam que: i) são ilegítimos para ocupar o polo passivo da demanda, porquanto são apenas proprietários do terreno e não possuem qualquer poder de ingerência sobre as obras e administração do empreendimento; ii) não há inadimplemento, pois deve ser considerado o prazo de 4 anos e todas as obras foram entregues dentro desse prazo; iii) ocorreu caso fortuito; iv) o prejuízo não pode ser presumido quando não há no lote um imóvel pronto e, portanto, apto para locação.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 485, VI, do CPC/15, e 9º da Lei 6.766/79, indicados como violados, não tendo a recorrente oposto embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere à responsabilidade dosrecorrentes pelo atraso na entrega da obra de infraestrutura em loteamento, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Da Súmula 568/STJ
+O TJ/SP, ao manter a indenização por lucros cessantes, aplicou corretamente a jurisprudência do STJ no sentido de que o atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador (EREsp 1.341.138/SP, 2ª Seção, DJe de 22/5/2018).
+Ressalta-se que, embora referido julgado diga respeito à responsabilidade de construtora pela entrega do imóvel, pode ser aplicado o mesmo raciocínio para a presente hipótese (atraso na entrega de obra de infraestrutura em loteamento). Nesse sentido: AgInt no REsp 1.818.212/SP, 3ª Turma, DJe de 25/3/2021.
+Logo, o recurso especial não merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, a , do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da condenação (e-STJ fl. 425) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. INADIMPLEMENTO CONTRATUAL. COMPRA E VENDA DE IMÓVEL COM ALIENAÇÃO FIDUCIÁRIA EM GARANTIA.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE.LUCROS CESSANTES. CABIMENTO. PREJUÍZO PRESUMIDO. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de indenização por danos materiais e compensação por danos morais em razão de inadimplemento contratual em compra e venda de imóvel com alienação fiduciária em garantia.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+3. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial é inadmissível.
+4. O atraso na entrega do imóvel enseja pagamento de indenização por lucros cessantes durante o período de mora do promitente vendedor, sendo presumido o prejuízo do promitente comprador. Precedente.
+5. Recurso especial parcialmente conhecido e não provido.
