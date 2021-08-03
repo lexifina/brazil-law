@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Roberto Souza Silvério, em que se aponta como autoridade coatora a Quarta Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul.
+Consta dos autos que o paciente foi condenado, pelo Juízo da 9ª Vara Criminal, da comarca de Porto Alegre/RS, como incurso no art. 14, caput, da Lei n.10.826/2003, c/c o art. 61, I, do Código Penal, à pena de 3 anos de reclusão, em regime fechado, e 20 dias-multa, em face da apreensão deum revólver calibre .38, marca RubyExtra, com numeração suprimida, de uso permitido, municiado com 6 cartuchos de igual calibre (fls. 294/308).
+Em sede de apelação,a Quarta Câmara Criminal do Tribunal de Justiça do Rio Grande do Sul deu parcial provimento ao recursopara reduzir a pena a 2 anos e 10 meses de reclusão, no regime semiaberto, e15 dias-multa (fls. 417/452). Esta, a ementa do julgado (fl. 445):
+APELAÇÃO CRIME. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ART. 14, CAPUT, DA LEI Nº 10.826/03. SUFICIÊNCIA PROBATÓRIA. PALAVRA DOS POLICIAIS. CONDUTA TÍPICA. ATIPICIDADE DA CONDUTA PELA AUSÊNCIA DE LESIVIDADE AO BEM JURÍDICO AFASTADA. CONDENAÇÃO MANTIDA. VALIDADE. PENA PRIVATIVA DE LIBERDADE. REDIMENSIONAMENTO. REDUÇÃO DA MULTA.
+I - Materialidade e autoria delitiva consubstanciadas no registro de ocorrência, auto de apreensão, laudo pericial, bem como na prova oral. Muito embora o réu tenha negado a prática do crime, os depoimentos dos policiais militares são válidos como prova, colhidos sob o crivo do contraditório, e ausente dúvida razoável, são suficientes para a condenação.
+II - Por se tratar de crime de perigo abstrato, no qual a comprovação acerca do mero cometimento da conduta é suficiente a ensejar a tipicidade do crime, dispensando resultado naturalístico, não vinga a tese de atipicidade por ausência de lesão ao bem jurídico tutelado, sendo a lesividade presumida pelo tipo penal.
+III - Pena-base mantida em 02 (dois) anos e 06 (seis) meses de reclusão. Vetoriais negativas da culpabilidade e das circunstâncias negativas.
+IV - Configurada a reincidência, entretanto, não se trata de específica, desse modo reduzida a valoração fixada à agravante.
+V - Impositiva a alteração do regime de cumprimento da pena do acusado para o semiaberto, nos termos da Súmula 269, do STJ. VI - Redução da pena de multa para 15 (quinze) dias-multa, com o intuito de guardar devida proporcionalidade com a pena corporal.
+APELO DEFENSIVO PARCIALMENTE PROVIDO
+No presente writ, a defesa aponta excesso na fixação da penae requer o reexame da dosimetria, bem como abrandamento do regime (fls. 3/8).
+Decisão deste Relatorindeferindo a liminar (fls. 439/440).
+Parecer ministerial opinando pelo não conhecimento do writ (fls. 471/477).
+É o relatório.
+Na sentença, a pena-base para o paciente foi fixada em 2 anos e 6 meses de reclusão, portanto, 6 meses acima do piso mínimo. O Magistrado apresentou fundamento quanto à valoração negativa da culpabilidade, uma vez que o paciente estaria em livramento condicional quando da prática do delito, e foi flagrado emlocal conhecido como ponto de tráfico de drogas. O Tribunal manteve a elevação da pena-base. Entendo que não houve excesso no aumento da pena, pois devidamente justificada a valoração negativa da vetorial. Ainda que a defesa entenda que houve inidônea fundamentação, o Magistrado apresentou um fato concreto, de estar o réu em livramento condicional. Diante disso, deve-se respeitara livre convicção para valorar a pena, uma vez que não houve ausência de motivação. Esta Corte deve intervir somente quando flagrante o constrangimento ilegal, o que não se visualiza na hipótese.Na segunda fase, o Tribunal reduziu o aumento pela reincidência, de 6 meses para 4 meses. Também não há ilegalidade, mostrando-se a pena proporcional e adequado o quantum de aumento. O cumprimento da pena em regime semiaberto também não deve ser alterado, visto que o réu é reincidente, sendo devido o agravamento do regime.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS.CRIME DE PORTE ILEGAL DE ARMA DE FOGO. ALEGAÇÃO DE EXCESSO NAPENA-BASE. CONCRETA FUNDAMENTAÇÃO.AUSÊNCIA DE ILEGALIDADE. REGIME AGRAVADO PELA REINCIDÊNCIA.
+Ordem denegada.
