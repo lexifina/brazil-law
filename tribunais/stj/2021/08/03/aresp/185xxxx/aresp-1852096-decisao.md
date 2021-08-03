@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo manejado contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, "a", da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fls. 219/220):
+EMENTA:PREVIDENCIÁRIO. PENSÃO POR MORTE. QUALIDADE DE SEGURADAESPECIAL DEMONSTRADA. JUROS E CORREÇÃO MONETÁRIA.
+1. Apelação interposta pelo INSS, em face de sentença que julgou procedente o pedido de concessão de pensão por morte de trabalhadora rural.
+2. A pensão por morte encontra amparo no art. 201, V da Carta Magna, bem como nos arts. 74 e 16, I, II, da Lei nº 8.213/91. Assim, para obter o benefício da pensão por morte faz-se necessária à reunião de dois requisitos, quais sejam, a qualidade de dependente e a condição de segurado do falecido.
+3. Na hipótese, a controvérsia se cinge, tão somente, à demonstração da qualidade de segurada especial da de cujus.
+4. Para comprovar a qualidade de ruralista da , o demandante apresentou os seguintes de cujus documentos: Declaração de Exercício de Atividade Rural (Id. 4058001. 3216753); Certidão de Óbito, em que consta que a falecida era agricultora; Certidão de Casamento, em que constam o autor, comoagricultor, e a falecida como doméstica; Certidão emitida pela Justiça Eleitoral, em nome do autor, de2011; Declaração do Sindicato, em nome do autor, de 2010; Ficha do Sindicato; Carteira do Sindicato (Id.4058001.3216745), em nome do autor; Comprovante de Pagamento de ITR de 1995; Recibo de Entregada Declaração do ITR (Id. 4058001.3216723); e CTPS do autor e da falecida (Ids. 4058001.3216717,4058001.3216706 e 4058001. 3216701).
+5. A qualificação de agricultor do esposo da segurada falecida, na Certidão de Casamento, é extensível à mesma, nos casos de regime de economia familiar, conforme o entendimento jurisprudencial pacífico do Superior Tribunal de Justiça.
+6. Na hipótese, restou satisfatoriamente demonstrada, por meio de provas material e testemunhal, a qualidade de ruralista da segurada falecida, fazendo jus, portanto, o autor ao benefício de pensão por morte.
+7. Em relação à aplicação dos juros de mora e da correção monetária devem observar, com base no repetitivo do STJ (REsp nº 1.495.146/MG), que, os juros de mora incidentes sobre as parcelas vencidas devem aplicar a regra do art. 1º-F da Lei nº 9.494/97, com a redação da Lei nº 11.960/09, ao passo que a correção monetária deve ser aplicada segundo os índices do Manual de Cálculos da Justiça Federal, haja vista a inconstitucionalidade do referido dispositivo legal, nessa parte, de acordo com o julgamento das ADIs nºs 4357 e 4425, cuja existência, a propósito, dispensa o atendimento da exigência do art. 97 da CF/88.
+8. Condenação do INSS ao pagamento de honorários recursais, nos termos do art. 85, § 11, do CPC, devendo a verba honorária sucumbencial ser majorada de 10% (dez por cento) para 12% (doze por cento)sobre o valor da condenação.
+9. Apelação do INSS improvida.
+Opostos embargos de declaração, foram rejeitados (fls. 272/275).
+Nas razões do recurso especial, a parte agravante aponta afronta aos arts. 1º do Decreto n. 20.910/32 e 103 da Lei n. 8.213/91, sustentando que,tendo em vista que o direito vindicado no presente feito remonta ao indeferimento/cessação do benefício pelo INSS em 21/03/2011, tendo se passado mais de cinco anos do requerimento até oajuizamento da ação que requer a reforma da decisão administrativa foi ajuizada em 19/06/2018,encontra-se a mesma irremediavelmente tomada pela prescrição extintiva.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Sobre a ocorrência da chamada prescrição de fundo de direito, este Superior Tribunal de Justiça possui o entendimento consolidado no sentido de que essa não ocorre quando discutem-se benefícios previdenciários e/ou assistenciais.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DE FUNDO DE DIREITO. INAPLICABILIDADE NAS DEMANDAS PREVIDENCIÁRIAS QUE ENVOLVEM RELAÇÕES DE TRATO SUCESSIVO E ATENDEM NECESSIDADES DE CARÁTER ALIMENTAR, RAZÃO PELA QUAL A PRETENSÃO À OBTENÇÃO DE UM BENEFÍCIO É IMPRESCRITÍVEL. AGRAVO REGIMENTAL DO INSS DESPROVIDO.
+1. As normas previdenciárias primam pela proteção do Trabalhador Segurado da Previdência Social, motivo pelo qual os pleitos previdenciários devem ser julgados no sentido de amparar a parte hipossuficiente e que, por esse motivo, possui proteção legal que lhe garante a flexibilização dos rígidos institutos processuais.
+2. Os benefícios previdenciários envolvem relações de trato sucessivo e atendem necessidades de caráter alimentar, razão pela qual a pretensão à obtenção de um benefício é imprescritível.
+3. É firme o entendimento desta Corte de que, cumpridas as formalidades legais, o direito ao benefício previdenciário incorpora-se ao patrimônio jurídico do beneficiário, não podendo ser objeto, dest"arte, de modificação ou extinção.
+4. Agravo Regimental do INSS desprovido.
+(AgRg no AREsp 311.396/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/03/2014, DJe 03/04/2014)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PRESCRIÇÃO. ART. 103, PARÁGRAFO ÚNICO, DA LEI 8.213/1991. INDEFERIMENTO DE BENEFÍCIO. NEGATIVA EXPRESSA DO INSS. FUNDO DE DIREITO. IMPOSSIBILIDADE. INTERPRETAÇÃO DO ART. 103 DA LEI 8.213/1991. DECADÊNCIA E PRESCRIÇÃO.
+1. A autarquia previdenciária pretende configurar a prescrição do fundo de direito em razão de o benefício ter sido negado administrativamente, com amparo no art. 103, parágrafo único, da Lei 8.213/1991 e na Súmula 85/STJ.
+2. O STJ sedimentou compreensão de que não há prescrição do fundo de direito dos benefícios previdenciários do Regime Geral de Previdência Social, e que tal instituto somente atinge as parcelas sucessivas anteriores ao prazo prescricional. Nesse sentido: AgRg no REsp 1.384.787/CE, Rel. Ministro Humberto Martins, Segunda Turma, DJe 10.12.2013; AgRg no REsp 1.096.216/RS, Rel. Ministra Assusete Magalhães, Sexta Turma, DJe 2.12.2013.
+4. A interpretação contextual do caput e do parágrafo único do art. 103 da Lei 8.213/1991 conduz à conclusão de que o prazo que fulmina o direito de revisão do ato de concessão ou indeferimento de benefício previdenciário é o decadencial de dez anos (caput), e não o lapso prescricional quinquenal (parágrafo único) que incide apenas sobre as parcelas sucessivas anteriores ao ajuizamento da ação.
+5. A aplicação da prescrição quinquenal prevista no parágrafo único do art. 103 da Lei 8.213/1991 sobre o fundo de direito tornaria letra morta o previsto no caput do mesmo dispositivo legal.
+6. Agravo Regimental não provido.
+(AgRg no AREsp 451.468/SE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/03/2014, DJe 19/03/2014).
+No julgamento do AgRg no AREsp 506.885/SE, DJe 02/06/2014, tive a
+oportunidade de me manifestar sobre o tema, conforme se observa da seguinte ementa:
+PREVIDENCIÁRIO. BENEFÍCIO NEGADO NA VIA ADMINISTRATIVA. PRESCRIÇÃO DO FUNDO DE DIREITO. INOCORRÊNCIA. SÚMULA 85/STJ. INAPLICABILIDADE.
+1. A jurisprudência desta Corte é firme no sentido de que, mesmo na hipótese de negativa de concessão de benefício previdenciário e/ou assistencial pelo INSS, não há falar em prescrição do próprio fundo de direito, porquanto o direito fundamental a benefício previdenciário não pode ser fulminado sob tal perspectiva.
+2. Em outras palavras, o direito à obtenção de benefício previdenciário é imprescritível, apenas se sujeitando ao efeito aniquilador decorrente do decurso do lapso prescricional as parcelas não reclamadas em momento oportuno.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 506.885/SE, de minha relatoria, PRIMEIRA TURMA, julgado em 27/05/2014, DJe 02/06/2014)
+Portanto, o acórdão recorrido está em consonância com o entendimento desta Corte, no sentido de que não há falar em prescrição do fundo de direito,devendo-se considerar tão somente a prescrição quinquenal das parcelas anteriores ao quinquênio que antecedeu o ajuizamento da ação.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
