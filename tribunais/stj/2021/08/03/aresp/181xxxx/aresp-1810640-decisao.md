@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de ação civil pública a ajuizada por MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA contraa OI S.A. - EM RECUPERAÇÃO JUDICIAL, objetivando a regularização da publicidade dos serviços de internet fixa aos consumidores dos Municípios de São Bento do Sul e Campo Alegre, haja vista que se constatou a prática de publicidade enganosa, uma vez que a requerida está omitindo informações essenciais, quais sejam, os exatos percentuais de velocidades de conexão mínima e média dos planos ofertados.
+Cumpre registrar que o tema ora em debate -proteção dos direitos dos consumidores lesados pelas informações deficitárias e pela publicidade enganosa -,não versa sobre contratos de concessão ou prestação de serviços públicos, mas pura e simplesmente de direito do consumidor.
+Ressalto que o tema de publicidade enganosa ao consumidor, além de não estar abarcado pelo Conflito de Competência nº 138.405/DF (DJe 10/10/2016), emrecente julgado,a Corte Especial reconheceu a competências das turmas de Direito Privado:
+CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO CIVIL PÚBLICA. PUBLICIDADE ENGANOSA. SERVIÇO DE CHAT DE VOZ ("CHAT AMIZADE") FORNECIDO MEDIANTE LIGAÇÃO TELEFÔNICA. TARIFAÇÃO DISTINTA DAQUELA INFORMADA EM ANÚNCIOS EM RÁDIO E TELEVISÃO. RELAÇÃO JURÍDICA LITIGIOSA. DIREITO DO CONSUMIDOR. COMPETÊNCIA DAS TURMAS DA 2ª SEÇÃO.
+1. Ação ajuizada em 28/06/2005. Recurso especial interposto em 04/09/2012. Conflito suscitado em 31/03/2020. Conclusão ao Gabinete em 16/04/2020.
+2. Controvérsia que se cinge em definir se compete às Turmas integrantes da 1ª ou da 2ª Seção do STJ o julgamento de recurso especial interposto nos autos de ação civil pública na qual se alega a ocorrência de publicidade enganosa quanto à tarifação de serviço de chat de voz ("chat amizade"), fornecido mediante ligação telefônica.
+3. Nos termos do art. 9º, caput, do RISTJ, a competência das Seções deste Superior Tribunal de Justiça é fixada em razão da natureza da relação jurídica litigiosa.
+4. Hipótese em que o Ministério Público atua na defesa da coletividade de consumidores, quanto às práticas comerciais adotadas pela empresa fornecedora do serviço na fase pré-contratual, o que evidencia a natureza de consumo da relação jurídica debatida, cujo julgamento é da competência das Turmas da 2ª Seção deste Tribunal.
+CONFLITO CONHECIDO. DECLARADA A COMPETÊNCIA DA 4ª TURMA DO STJ.
+(CC 171.527/DF, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 02/09/2020, DJe 10/09/2020)
+Observa-se, portanto, que não há questão de Direito Público a ser dirimida pela Primeira Seção desta Corte Superior, e que a matéria é de competência da Segunda Seção do Superior Tribunal de Justiça, na esteira do que dispõe o art. 9º, § 2º, incisos II, VIII e XIV, do Regimento Interno do Superior Tribunal de Justiça.
+Assim sendo, DECLINO da competência para apreciar e julgar o presente feito e DETERMINO A REDISTRIBUIÇÃO dos autos a algum dos eminentes pares integrantes da Segunda Seção deste Tribunal.
+Publique-se.
+Intimem-se.
