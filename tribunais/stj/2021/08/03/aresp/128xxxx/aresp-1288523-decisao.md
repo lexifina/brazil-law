@@ -1,0 +1,32 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que LACEL - LATICÍNIOS CERES LTDA (LACEL) e L"ANNO INDÚSTRIA E COMÉRCIO DE LATICÍNIOS LTDA (L"ANNO) formularam pedido de recuperação judicial perante o Juízo da Comarca de Goiânia/GO.
+No curso da ação, o d. Juízo de primeira instância deferiu o pedido de processamento da recuperação judicial em questão, reconhecendo a competência absoluta do Juízo da Comarca de Goiânia/GO (e-STJ, fls. 1.482/1.487).
+Contra essa decisão interlocutória, LUCAS VANDER NAVA CARDOSO (LUCAS), na condição de terceiro interessado, interpôs agravo de instrumento sustentando a incompetência absoluta do Juízo da Comarca de Goiânia/GO, uma vez queLACEL, principal estabelecimento do grupo econômico, fixou sua sede em Rianápolis/GO, sendo necessária a remessa dos autos à Comarca de Rialma/GO.
+Por decisão monocrática, o Desembargador Relator deu provimento ao agravo de instrumentopara declararcompetente Vara Única da comarca de Rialma para processar e julgar o pedido de recuperação judicial(e-STJ, fls. 1.647/1.659).
+Os embargos de declaração opostos por LACEL e L"ANNO foram rejeitados (e-STJ, fls. 1.705/1.716).
+O Tribunal Goiano negou provimento ao agravo interno interposto por LACEL e L"ANNO nos termos do acórdão, assim ementado:
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. DESPACHO DE PROCESSAMENTO DO PEDIDO. COMPETÊNCIA. INSURGÊNCIA DE TERCEIRO PREJUDICADO. INTERESSE RECURSAL CONFIGURADO. PRELIMINAR AFASTADA. COMPETENTE FORO DO LOCAL ONDE ESTÁ SITUADO O CENTRO DE MAIOR APORTE ECONÔMICO DA EMPRESA. EXEGESE DO ARTIGO 3º DA LEI Nº 11.105/05. REMESSA À COMARCA DE RIALMA.RECURSOCONHECIDO AO QUAL SE DEU PROVIMENTO. POSSIBILIDADE DE APLICAÇÃO DO ARTIGO 557, § 1º-A, DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA DE ARGUMENTOS PLAUSÍVEIS CAPAZES DE ALTERAR O JULGAMENTO.I - Em se tratando de matéria em cujo respeito é dominante o entendimento nos Tribunais Superiores, veiculado em súmula ou jurisprudência, o Relator está autorizado, com lastro no § 10-A do artigo 557 do Código de Processo Civil, a decidir singularmente o recurso, o que não implica ofensa aos princípios do devido processo legal e da recorribilidade.II - Ao interpor agravo regimental da decisão que deu parcial provimento ao impulso aviado em seu desfavor, as insurgentes devem demonstrar o desacerto dos fundamentos do decisum recorrido, sustentando-se em elementos plausíveis que justifiquem o pedido de reconsideração, e não somente reiterar matéria já analisada e decidida. AGRAVO REGIMENTAL CONHECIDO E DESPROVIDO(e-STJ, fls. 1.742/1.743).
+Irresignada, DUX ADMINISTRAÇÃO JUDICIAL S/S LTDA (DUX) interpôs recurso especial com fundamento no art. 105, III, a e c, da CF, alegando além de dissídio jurisprudencial a violação do art. 3º, da Lei nº 11.101/05, ao sustentar que(1)a competência para julgamento e processamento recuperacional deve ser firmada no local de maior representatividade industrial/matriz social, e não pelo principal estabelecimento(1.801/1.821).
+O apelo nobre não foi admitido em virtude da (1) incidência do óbice da Súmula nº 7 do STJ; e(2) ausência de dissídio jurisprudencial, pois não houve a demonstração analítica da pretendida divergênciacom menção às circunstâncias que identificam ou assemelham os casos confrontados (e-STJ, fls. 1.930/1.932).
+Nas razões do presente agravo em recurso especial, DUX reitera as razões de seu apelo nobre (e-STJ, fls. 1.963/1.980).
+Não foi apresentada contraminuta (e-STJ, fl. 1.987).
+O Ministério Público Federal opinou pelo não provimento do agravo (e-STJ, fls. 2.034/2.038).
+É o relatório.
+DECIDO.
+A irresignação de DUX não comporta conhecimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Observa-se, da leitura das razões recursais, que o inconformismo não sedirigiu de forma específica contra os fundamentos da decisãoagravada, pois DUXnão infirmouseus esteios,na medida em que não refutou de forma arrazoada aincidência daSúmulanº 7 do STJ.
+Em suma, DUX limitou-se a repisar os fundamentos de seu apelo nobre.
+Assim, não tendo o recurso impugnado especificamente os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO RECORRIDA QUE MANTEVE A INADMISSÃO DO RECURSO ESPECIAL. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 182/STJ. PRINCÍPIO DA DIALETICIDADE, QUE IMPÕE O ATAQUE ESPECÍFICO AOS FUNDAMENTOS. PLEITO DE REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. FALTA DE PREQUESTIONAMENTO NÃO REBATIDO. MANUTENÇÃO DA DECISÃO ORA AGRAVADA. RECURSO NÃO PROVIDO.
+1. O agravo em recurso especial que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação específica aos fundamentos utilizados para a negativa de seguimento do apelo extremo, ônus do qual não se desincumbiu a parte insurgente. Aplicação, por analogia, da Súmula 182/STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no AREsp 964.429/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 16/9/2016 )
+Nessas condições, nos termos do art. 932, III, do NCPC, NÃO CONHEÇOdo agravo deDUX.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. DUX.AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNAOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
