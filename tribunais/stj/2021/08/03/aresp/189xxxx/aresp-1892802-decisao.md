@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MARIA DAS GRACAS FREIRE CAMARA, contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "c" do permissivo constitucional.
+Ação: de indenização por danos materiais e compensação por danos morais, ajuizada pelaagravante, em face da CAIXA ECONÔMICA FEDERAL e da MRV ENGENHARIA E PARTICIPACOES SA, decorrente de vícios de construção em imóvel adquirido por meio do programa "Minha Casa Minha Vida".
+Decisão interlocutória: reconheceu a ilegitimidade passiva da agravada e declarou a incompetência da Justiça Federal para julgamento da ação.
+Acórdão: negou provimento ao agravo de instrumento interposto pelaagravante, nos termos da seguinte ementa:
+DIREITO CIVIL. PROCESSUAL CIVIL. PROGRAMA MINHA CASA MINHA VIDA. PRETENSOS VÍCIOS DE CONSTRUÇÃO. CEF. ATUAÇÃO COMO MERO AGENTE FINANCEIRO. ILEGITIMIDADE PASSIVA. AGRAVO DE INSTRUMENTO IMPROVIDO.
+1. Trata-se de agravo de instrumento interposto por MARIA DAS GRACAS FREIRE CAMARA contra decisão proferida pelo Juízo da 1ª Vara Federal da Seção Judiciária do Rio Grande do Norte, nos autos do processo nº 0801038-33.2015.4.05.8400, (que determinou a exclusão da CAIXA do presente feito, em face de sua ilegitimidade passiva, declarando a incompetência deste Juízo para processar e julgar a lide)alegando, em resumo, que a CEF possui legitimidade passiva ad causam, porquanto é responsável pelos vícios de construção dentro do Programa Minha Casa Minha Vida.
+2. O cerne da controvérsia reside em definir se a Caixa Econômica Federal tem legitimidade para responder pelos pedidos de indenização por danos morais e materiais em razão de problemas estruturais nos imóveis adquiridos no âmbito do programa Minha Casa Minha Vida. No programa em questão(PMCMV), de acordo com a previsão contida nos arts. 6º-A, parágrafo 14 e 9º da Lei nº 11.977/2009, a CEF pode atuar ora como agente gestora dos recursos para fim de aquisição de unidade habitacional, ora como agente executora de políticas públicas federais para a promoção de moradia popular.
+3. In casu, a CEF não participou da realização da obra, atuando exclusivamente como agente financeiro que disponibilizou empréstimo em dinheiro para o adquirente de unidade imobiliária edificada por empresa particular.
+4. A jurisprudência do STJ e desta Corte Regional tem entendido que a atuação da CEF, quando apenas limitada a agente operadora do financiamento, não configura a sua legitimidade passiva. (STJ: STJ,AgRg no REsp n.º 1.577.530/RS, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de13/05/2016 e REsp nº 1.534.952/SC, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe de14/02/2017; TRF5: AC/PB nº 08016323620134058200, Rel. Des. Fed. Élio Wanderley de Siqueira Filho, Primeira Turma, Julgamento: 04/10/2017; AC/PB nº 08002097020154058200, Rel. Des. Fed. Walter Nunes Da Silva Júnior (Convocado), Segunda Turma, Julgamento: 16/03/2016; AC/PB nº08003254720134058200, Rel. Des. Fed. Cid Marconi, Terceira Turma, Julgamento: 09/05/2016 e AC nº597597/CE, Rel. Des. Fed. Edílson Nobre, Quarta Turma, DJE de 07/02/2018).
+5. Agravo de instrumento improvido.
+Recurso especial: alega dissídio jurisprudencial. Sustenta a legitimidade passiva da agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que, quanto à alegada divergência jurisprudencial, a agravante não indicou violação a qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Não é possível o conhecimento do recurso especial fundado no dissídio jurisprudencial na hipótese em que não há a devida indicação de qual dispositivo de lei teria sido ofendido. Isso porque o entendimento do Superior Tribunal de Justiça preconiza que o apelo excepcional sustentado na dissidência pretoriana depende do apontamento do artigo de lei violado, sob pena de incidência da mencionada súmula, como ocorreu na hipótese. Precedentes: AgRg no AREsp 637.381/SP, 4ª Turma, DJe de 02/03/2016e EDcl no AREsp 806.419/SP, 3ª Turma, DJe de 22/02/2016.
+Ademais, verifica-se que entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, § 1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DE DISPOSITIVO LEGAL VIOLADO. SÚMULA 284/STF. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1. Ação de indenização por danos materiais e compensação por danos morais.
+2. Não se conhece do recurso especial quando ausente a indicação expressa do dispositivo legal a que se teria dado interpretação divergente.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. Agravo conhecido. Recurso especial não conhecido.
