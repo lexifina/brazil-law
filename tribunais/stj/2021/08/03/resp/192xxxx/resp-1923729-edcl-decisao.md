@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pela UNIÃO contra decisão por mim proferida às e-STJ fls. 294/299, por meio da qual conheci em parte do recurso especial e, nessa extensão, neguei-lhe provimento, que restou assim ementada:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO AOS ARTS. 1022, 489, § 1º, IV, DO CPC/2015. OMISSÃO. INOCORRÊNCIA. OFENSA AO ART. 50, IV, E, § 2º, I E II, §§ 3º E 5º, I, II, III E IV, DA LEI Nº 6.880/80, COM A REDAÇÃO DADA PELA LEI Nº 13.954/19. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
+A embargante alega, em síntese, que a matéria objeto do presente recurso especial consta da Controvérsia nº 219/STJ (Recursos Especiais nº 1.880.238/RJ, 1.880.246/RJ, 1.871.942/PE e 1.880.241/RJ), estando pendente de julgamento perante esta Corte Superior sob a sistemática dos repetitivos.
+Sustenta que "é de interesse público que todas os recursos especiais/agravos que versam sobre a mesma questão de direito sejam julgados de maneira uniforme pelo Tribunal, em nome da segurança jurídica. Assim, necessário se faz o sobrestamento dos autos, até que a questão seja decidida sob a sistemática dos recursos repetitivos, nos termos do art. 1.036 do CPC/15, posta que a questão é relativa à crise de legalidade e não se trata de mero ordenamento inferior" (e-STJ fl. 303).
+Sem impugnação aos aclaratórios.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração representam recurso de fundamentação vinculada ao saneamento de omissão, contradição, obscuridade ou erro material, não se prestando, contudo, ao mero reexame da causa.
+No presente caso, a embargante não indicou, de forma específica, qual teria sido o vício constante da decisão ora embargada que justificasse a oposição dos aclaratórios, carecendo o recurso da devida fundamentação, o que impede o conhecimento dos embargos.Nesse sentido os seguintes precedentes desta Corte Superior:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. FALTA DE INDICAÇÃO DE QUAISQUER DOS VÍCIOS DO ART. 1022 DO CPC/15. IRREGULARIDADE FORMAL. NÃO CONHECIMENTO.
+1. De acordo com a norma prevista no art. 1022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição ou omissão da decisão recorrida.
+2. Todavia, no caso, a parte embargante limitou-se a externar sua irresignação com o que restou decidido, sem fazer referência a quaisquer dos vícios ensejadores dos embargos de declaração, em flagrante desobediência ao que preceituado no art. 1023 do CPC ("Os embargos serão opostos, no prazo de 5 (cinco) dias, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo"), o que acarreta o não-conhecimento do recurso.
+3. Embargos de declaração não conhecidos.
+(EDcl no AgInt nos EDcl no AREsp 1666728/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 08/03/2021, DJe 11/03/2021)
+PROCESSUAL CIVIL. ADMINISTRATIVO. AMBIENTAL. MULTA AMBIENTAL. AGRAVO INTERNO IMPROVIDO. EMBARGOS DE DECLARAÇÃO SEM INDICAÇÃO DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO. NÃO CONHECIMENTO DOS EMBARGOS.
+I - Trata-se de ação que objetiva declaração de inexigibilidade de multa aplicada em decorrência de infração ambiental. Na sentença, julgou-se improcedente o pedido. No Tribunal de Justiça do Estado de São Paulo, a sentença foi mantida.
+II - A jurisprudência do Tribunal Superior é firme no sentido de que não preenche os requisitos de admissibilidade a petição dos embargos de declaração que não indica nenhum dos vícios elencados no art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), caso dos autos, o que, por si só, é suficiente para o não conhecimento do recurso, na medida em que a deficiência da argumentação inviabiliza a compreensão exata da controvérsia a ser solvida, atraindo a incidência, por analogia, do enunciado n. 284 da Súmula do STF.
+III - Embargos de declaração não conhecidos.
+(EDcl no AgInt no AREsp 1381110/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 05/09/2019, DJe 16/09/2019)
+Ante o exposto, não conheço dos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. SERVIDOR PÚBLICO. EMBARGOS OPOSTOS EXCLUSIVAMENTE PARA FINS DE SOBRESTAMENTO DO FEITO. AUSÊNCIA DE INDICAÇÃO ESPECÍFICA DE VÍCIO NA DECISÃO EMBARGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. EMBARGOS NÃO CONHECIDOS.
