@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSO CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.SERVIDOR PÚBLICO. MUNICÍPIO DE CAMAQUÃ. PISO NACIONAL DO MAGISTÉRIO. LEI NACIONAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO. SÚMULA 284 DO STF. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Trata-se de recurso especial interposto porMONIQUE PIELECHOWSKI FAGUNDES, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TJRS, assim ementado:
+SERVIDOR PÚBLICO. MUNICÍPIO DE CAMAQUÃ. PISO NACIONAL DO MAGISTÉRIO. LEI NACIONAL. EXAME PELO SUPREMO TRIBUNAL FEDERAL EMAÇÃO DIRETA DEINCONSTITUCIONAILIDADE. HIPÓTESE DOS AUTOS EM QUE A APELADA PERCEBIA VENCIMENTOS SUPERIORES AO PISO NACIONAL, CONSIDERADO O VENCIMENTO BÁSICO. CONSIDERAÇÃO SOBRE O TEMA Nº 911DOS REPETITIVOS DO SUPERIOR TRIBUNAL DE JUSTIÇA(fls. 155).
+2. Os embargos de declaração opostos foram rejeitados (fls. 190/195).
+3. Nas razões do seurecurso especial (fls. 205/218), a parte recorrentesustenta, além de divergência jurisprudencial,que o acórdão recorrido viola manifestamente a ordem jurídica, a posição do STF e do STJ, além da Legislação local, Lei Municipal081/2000. Sustenta, ainda, que a Câmara não considerou o vencimento básico correto (Lei Federal11.738/08), quando da elaboração do cálculo do piso da parte recorrente.
+4. Devidamente intimada, a parte recorridadeixou de apresentar contrarrazões conforme a certidão de fls.227/228.O recurso especial foi admitido na origem(fls. 265/284).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. Quanto à violação da Lei 11.738/08, o recurso especial encontra-se deficientemente fundamentado, uma vez quenão foi indicadoexpressamente qual dispositivo de lei federal teria sido contrariado pelo acórdão recorrido. Tal circunstância consubstancia deficiência na fundamentação recursal, motivo pelo qual não pode ser conhecido o recurso especial. Incide, por analogia, a Súmula 284/STF:Éinadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+9. Ademais, a alegada ofensa a lei local não é apta a fundamentar o recurso especial, incidindo, também, o óbice da Súmula 280/STF, aqui aplicada analogicamente.
+10. Ante o exposto, não conheço do Recurso Especial.
+11. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+12. Publique-se.Intimações necessárias.
