@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por CONSTRUTORA QUEIROZ SILVEIRA LTDA contra decisão do Tribunal de Justiça de Goiás que não admitiu recurso especial manejado contra, acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL. CONTRATO DE PROMESSA DE COMPRA E VENDA. LEGITIMIDADE PASSIVA DA CONSTRUTORA RESPONSÁVEL PELO LEVANTAMENTO DO PRÉDIO. NULIDADE DA CLÁUSULA COMPROMISSÓRIA. EMPREENDIMENTO NA PLANTA. PEDIDO DE DISTRATO ANTES DO PRAZO ESTIPULADO PARA CONCLUSÃO DA OBRA. CULPA DO PROMISSÁRIO COMPRADOR. DEVOLUÇÃO IMEDIATA DA QUANTIA ACUMULADA, COM DESCONTO. ERRO MATERIAL. CORREÇÃO.
+1. É parte passiva legitima para figurar no polo passivo de ação de rescisão de contrato de promessa de compra e venda construtora que, apesar de não assinar o contrato, é a responsável pelo levantamento do empreendimento, tendo sua logomarca sido colacionada no memorial descrito e sido a responsável por conversar com o interessado.
+2. Conquanto seja clara a existência de cláusula compromissóriano contrato firmado entre as partes, denota-se a ausência dos requisitos legais à sua estipulação, notadamente a sua anuência ou o interesse na intenção de eleição do juízo arbitrai, o que é suficiente para reconhecer a ineficácia, haja vista que contraria o disposto no artigo 4º, § 2º, da Lei nº 9.307/96.
+3. Em havendo, por culpa exclusiva do comprador, a resolução de contrato de promessa de compra e venda de imóvel submetido ao Código de Defesa do Consumidor, deve ocorrer a imediata restituição, pela vendedora, de parte das parcelas pagas. Súmula 543/STJ, mas com o desconto de multa em percentual razoável.
+4. Deve ser corrigido erro material consistente na alteração do valor a ser restituído sem justificativa, devendo prevalecer a quantia de R$ R$ 47.154,43 estipulado na sentença. APELAÇÃO CÍVEIS CONHECIDAS. 1º PARCIALMENTE DESPROVIDA. SENTENÇA REFORMADA. PROVIDA. 2º
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 104, 107 e265 do Código Civil;54, §4º,do Código de Defesa do Consumidor;17 do Código de Processo Civil;31-A, § 1º, da Lei 4.591.
+Sustenta a validade da cláusula compromissória livremente firmadapor agentes capazes. Afirma, que não detém legitimidade para figurar no polo passivo da demanda, pois não firmou contrato com o recorrido.Aduz dissídio jurisprudencial em relação ao percentualde retenção dos valores pagos.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A controvérsia relacionada à cláusula compromissória foi decidida pela Corteestadual nos seguintes termos:
+Sobre a tese de incompetência absoluta do juízo para processamento e julgado do processo em virtude da existência de cláusula compromissória, também sem razão a 2ªrecorrente.
+A cláusula compromissória deve ser estipulada por escrito no próprio contrato ou em documento apartado que a ele se refira, com o destaque de que, nos contratos de adesão, a cláusula compromissória só terá eficácia se o aderente tomar a iniciativa de instituir a arbitragem ou concordar, expressamente, com a sua instituição, desde que por escrito em documento anexo ou em negrito, com a assinatura ou visto especialmente para essa cláusula (art. 4º, § 2º, Lei 9.307/96).
+(..)
+Constata-se que, nos contratos de adesão que envolvam relações de consumo, devem serrespeitados os requisitos definidos na Lei nº 9.307/96 e os direitos e garantias previstos no Código de Defesa do Consumidor, de modo que só haverá falar em validade/eficácia da cláusula compromissória prevista em contrato de adesão se o oblato/consumidor vier a tomar a iniciativa do procedimento arbitrai, ratificá-la no ato da contratação ou posteriormente a sua instituição, no momento do litígio em concreto, confirmando a intenção da eleição.
+In casu, observa-se que as partes originárias celebraram instrumento particular de compromisso promessa de compra e venda de imóvel, típico contrato de adesão, ante a existência de cláusulas estabelecidas pela vendedora do imóvel sem a possibilidade de modificação pelo consumidor
+Conquanto seja clara a existência de cláusula compromissória - cláusula vigésima segunda - no contrato, denota-se a ausência dos requisitos legais à sua estipulação, notadamente o interesse na intenção de eleição do juízo arbitrai, o que é suficiente para reconhecer a ineficácia, haja vista que contraria o disposto no artigo 4º, § 2º, da Lei nº 9.307/96.
+Desse modo, são nulas de pleno direito as cláusulas contratuais relativas ao fornecimento de produtos e serviços que determinem a utilização compulsória de arbitragem. (e-STJ fl. 261/262) grifou-se
+A reforma de tal entendimento exige reexame do conjunto probatório dos autos e a interpretação das cláusulas do contrato entabulado entre as partes, tarefas inadmissíveis em sede de recurso especial, em face dos impedimentos das Súmulas 5 e 7 desta Corte.
+Nos mesmos óbices incorre a questão dalegitimidadeda empresa, ora recorrente, para figurar no polo passivada demanda, na medida em que, a Corte local, com amparo no acervo fático e probatório dos autos concluiu que:
+Em que pese realmente o contrato ter sido celebrado entre a empresa citada acima e a parte autora, no memorial descritivo é possível visualizar que a Construtora Queiroz Silveira é a responsável pela efetivação do empreendimento, sendo inclusive quem respondeu aos e-mails enviados pelo promitente comprador, situação que a legitima a responder ação pleiteando a devolução de importâncias pagas, nos moldes do art. 17 do CPC.(e-STJ fl. 261)
+Nesse sentido:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.COMPROMISSO DE COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES E DANOS MORAIS. EXCLUSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO.SÚMULA N. 283/STF. LEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO.AFASTAMENTO. IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. DECISÃO MANTIDA.
+1.  ..
+5. No caso, o Tribunal a quo assentou que a agravante integrou a cadeia de fornecimento, motivo por que reconheceu sua legitimidade passiva para a demanda. Para entender de modo contrário, seria imprescindível nova análise do conjunto fático-probatório dos autos, medida vedada pelas Súmulas n. 5 e 7 do STJ.
+6. Divergência jurisprudencial não comprovada, ante a incidência das Súmulas n. 284, 282, 356 e 283 do STF e 5, 7 e 13 do STJ.
+7. Agravo interno a que se nega provimento.
+(AgInt no REsp 1926410/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/06/2021, DJe 14/06/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA.RESCISÃO CONTRATUAL. COMPRA E VENDA DE IMÓVEL. LEGITIMIDADE PASSIVA AD CAUSAM. CADEIA DE FORNECIMENTO. CARACTERIZAÇÃO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A conclusão da Tribunal a quo está em conformidade com o entendimento desta Corte Superior de que, segundo a teoria da asserção, as condições da ação, entre elas a legitimidade passiva, devem ser aferidas a partir das afirmações deduzidas na petição inicial.
+2. A Corte de origem, analisando as alegações constantes da inicial e o acervo fático-probatório dos autos, concluiu que tanto a recorrente quanto a pessoa jurídica que consta do contrato de compra e venda responsabilizaram-se, perante a autora, pela entrega do imóvel, de modo que fica patente a legitimidade passiva da recorrente.
+3. A modificação das conclusões da Corte a quo, tomadas com base no suporte fático-probatório dos autos, é inviável em sede de recurso especial, nos termos da Súmula 7 deste Pretório.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1666090/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/09/2020, DJe 21/10/2020)
+No tocante ao alegado dissídio jurisprudencial, o seu conhecimento se mostra inviável, uma vez quenão há, na fundamentação do recurso, a indicação adequada da questão federal controvertida, tendo deixado o recorrente de apontar os dispositivos de lei federal sobre os quais haveria divergência jurisprudencial, incidindo, na espécie, o óbice da Súmula 284 do STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE NEGÓCIO JURÍDICO CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. DIREITO PROCESSUAL CIVIL. 1. VIOLAÇÃO AOS ARTS. 369 E 477, § 1º, DO CPC/2015. RAZÕES DISSOCIADAS. SÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE ARTIGO DE LEI. SÚMULA 284/STF. 3. AGRAVO INTERNO IMPROVIDO.
+1.  ..
+2. É firme o entendimento de que a ausência de indicação do dispositivo de lei que haja interpretação divergente, por outros tribunais, não autoriza o conhecimento do recurso especial pela alínea c do inciso III do art. 105 da Constituição Federal. Incidência, por analogia, da Súmula 284 do STF.
+3. Agravo interno improvido.(AgInt no AREsp 1552950/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 04/05/2020, DJe 08/05/2020)
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro o percentual dos honorários de advogado a que condenada a parte requerida na origem em 2% observada a eventual e anterior concessão da gratuidade judiciária.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA DE IMÓVEL. RESCISÃO CONTRATUAL. LEGITIMIDADE PASSIVA. CADEIA DE FORNECIMENTO RECONHECIDA. REEXAME. SÚMULAS 5 E 7 DO STJ.CLÁUSULA COMPROMISSÓRIA. AUSÊNCIA DE REQUESITOS LEGAIS PARA ESTIPULAÇÃO. OCORRÊNCIA. SÚMULAS 5 E 7 DO STJ. RETENÇÃO DO VALOR PAGO. DISSÍDIO. AUSÊNCIA DE INDICAÇÃO DO ARTIGO VIOLADO. SÚMULA 284 DO STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
