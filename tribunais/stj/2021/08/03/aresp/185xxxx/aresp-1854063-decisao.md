@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Agravo contra decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão do Tribunal Regional Federal da 1ª Região cuja ementa é a seguinte:
+PROCESSUAL CIVIL  ADMINISTRATIVO  TRIBUTÁRIO  ILHA COSTEIRA  SÃO LUÍS/MA  EC 46/2005  DEMARCAÇÃO  NECESSIDADE DE NOTIFICAÇÃO PESSOAL, SOB PENA DE OFENSA AOS PRINCÍPIOS DA AMPLA DEFESA E DO CONTRADITÓRIO  PROPRIEDADE PARTICULAR  INEXIGIBILIDADE DA COBRANÇA DE TAXA DE OCUPAÇÃO E LAUDÊMIO  EFEITOS DA MEDIDA CAUTELAR NA ADI 4264-PE  ENTENDIMENTO FIRMADO NESTA CORTE.
+1. A Emenda Constitucional nº 46/2005 excluiu, do escopo dos bens da União, as ilhas que contenham sede de Municípios, com exceção das áreas afetadas ao serviço público ou a unidade ambiental federal e, também, as áreas que já se encontravam incorporadas aos domínios dos Estados, dos Municípios e dos particulares (arts. 20, IV e 26, II, CF).
+2. Os imóveis situados na ilha de São Luis/MA, por se localizarem, notoriamente, em sede de Município, a partir da vigência da Emenda Constitucional nº 46 não mais pertencem à União.
+3. A demarcação de linha preamar média de 1831, na Ilha de São Luis/MA, feita pela União, sem a notificação pessoal dos interessados, caracteriza afronta aos princípios do contraditório e da ampla defesa (AG 0074617-77.2011.4.01.0000/MA, Rel. Desembargador Federal LUCIANO TOLENTINO AMARAL, Sétima Turma, e-DJF1 p.394 de 09/03/2012).
+4. Inobservância, pela Administração Pública, nos procedimentos de exigência de taxa de ocupação e laudêmio de contribuintes com imóveis registrados em cartório, dos princípios do contraditório, da ampla defesa, da propriedade e da publicidade.
+5. As demarcações realizadas e as exações pagas anteriormente à data da decisão cautelar, pelo STF, na ADI 4.264-PE  16/03/2011  não devem ser anuladas ou repetidas até o seu julgamento definitivo. Foros e laudêmios não pagos não são exigíveis  mesmo que decorrentes de demarcações anteriores àquele acórdão  até o resultado final da ADI. (Precedente: AI 0074617-77.2011.4.01.0000/MA;
+Relator Des. Federal LUCIANO TOLENTINO AMARAL TRF1  7 3 Turma; e-DJF1 09/03/2012, p. 394).
+6. O entendimento do STF no julgamento do RE 636.199/ES, em 27/04/2017  no qual ficou definido que "A EC 46/2005 não interferiu na propriedade da União, nos moldes do artigo 20, VII, da Constituição da República, sobre os terrenos de marinha e seus acrescidos, situados em ilhas costeiras sede de municípios"  não se aplica ao presente caso, tendo-se em vista que a área em questão não é terreno de marinha e/ou acrescido. Precedente: EIAC 0052575-21.2013.4.01.3700/MA; Relator Des.Federal NOVÉLY VILANOVA; TRF1  4 3 Seção; e-DJF1 08/06/2017.
+7. Apelação e remessa oficial, tida por interposta, às quais se nega provimento.
+Os Embargos de Declaração foram rejeitados (fls. 110-116, e-STJ).
+A recorrente sustenta, em preliminar, que ocorreu violação do art. 489, II, e 1.022, II, do CPC/1975; e no mérito, dos arts. 127 do Decreto-Lei 9.760/1946, 1º do Decreto-Lei 1.561/1977 e 333, I, do CPC. Alega:
+Logo, é indiscutível que a propriedade do bem imóvel pertence a União, já que sua propriedade decorre da Carta Magna e a parte autora não comprovou a aquisição da propriedade através de domínio público, estando o v.acórdão assentado em fundamentação equivocada.
+(..)
+Por fim, a Fazenda Nacional detém legitimidade para cobrança do crédito tributário inscrito em divida ativa da União, cujo procedimento de constituição do crédito não foi objeto de impugnação especifica pelo executado, o que impõe concluir que as considerações acerca do processo de demarcação foram apenas obter dietum do julgado, sob pena de, ao contrário, configurar grave ofensa ao art. 333 do CPC/73(art. 373 do atual CPC) e, ainda, extrapolar o thema decidendum, ofendendo assim o principio da congruência.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 7.7.2021.
+A irresignação não merece prosperar.
+Constato que não se configura a ofensa ao art. 489 e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Ressalte-se que a mera insatisfação com o conteúdo da decisão embargada não enseja Embargos de Declaração. Esse não é o objetivo dos aclaratórios, recurso que se presta tão somente a sanar contradições ou omissões decorrentes da ausência de análise dos temas que lhe forem trazidos à tutela jurisdicional, no momento processual oportuno.
+No enfrentamento da matéria, o Tribunal de origem lançou os seguintes fundamentos (fls. 89-96, e-STJ):
+Verifica-se, sem maior esforço, que a referida Emenda excluiu, do escopo dos bens da União, as ilhas que contenham sede de Municípios, com exceção das áreas afetadas ao serviço público ou a unidade ambiental federal e, também, as áreas que já se encontravam incorporadas aos domínios dos Estados, dos Municípios e dos particulares (art. 26, II, CF). Os imóveis situados na ilha de São Luís, portanto, por se localizarem, notoriamente, em sede de Município, a partir da vigência da Emenda Constitucional, nº 46 não mais pertencem à União.
+(..)
+A Fazenda Nacional sustenta, ainda, que existiriam áreas localizadas em São Luis que teriam sido incorporadas ao patrimônio da União, por força de algum outro titulo aquisitivo, o que afastaria qualquer discussão sobre a aplicação da EC 46/2005.
+No entanto, uma demarcação, sem a notificação pessoal dos interessados, caracteriza afronta aos princípios do contraditório e da ampla defesa (AG 0074617- 77.2011.4.01.0000 / MA, Rel. Desembargador Federal LUCIANO TOLENTINO AMARAL, Sétima Turma, e-DJF1 p.394 de 09/03/2012).
+Como muito bem observado pelo eminente Desembargador Reynaldo Fonseca, Relator na AC 0009789-93.2012.4.01.3700/MA (Sétima Turma, e-DJF1 p.1590, de 06/12/2013), o magistrado sentenciante, naqueles autos, pontuou, com acerto, que a União, no procedimento de determinação da posição da linha de preamar média de 1831, na Ilha de São Luis, convidou os respectivos interessados para oferecer esclarecimentos nos trabalhos demarcatórios exclusivamente por editais, ferindo, claramente, o principio do contraditório, como decidido pelo Supremo Tribunal Federal, estando tal procedimento eivado de nulidade.
+Da leitura do acórdão recorrido, bem como das razões do Recurso Especial interposto pela recorrente, apesar de terem sido apontados dispositivos legais, depreende-se que a matéria foi debatida com fundamento eminentemente constitucional, sendo a sua apreciação de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+Assim, não é possível analisar a tese recursal sob pena de usurpar a competência do Supremo Tribunal Federal estabelecida nas alíneas do inciso III do art. 102 da Constituição Federal.
+Nessa linha, os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SUPOSTA OFENSA AOS ARTS. 19 E 20 DA LC 87/96. ACÓRDÃO RECORRIDO FUNDADO NO PRINCÍPIO DA NÃO-CUMULATIVIDADE (ART. 155, § 2º, I, DA CF/88). ENFOQUE CONSTITUCIONAL DA MATÉRIA. DISCUSSÃO ACERCA DA FORÇA PROBANTE DOS DOCUMENTOS PRESENTES NOS AUTOS. QUESTÃO ATRELADA AO REEXAME DE FATOS. SÚMULA 7/STJ. RECURSO ESPECIAL A QUE SE NEGA SEGUIMENTO.
+1. Não compete ao Superior Tribunal de Justiça, em sede de recurso especial, analisar eventual contrariedade a preceito contido na CF/88, nem tampouco uniformizar a interpretação de matéria constitucional.
+2. O reexame de matéria de prova é inviável em sede de recurso especial (Súmula 7/STJ).
+3. Agravo regimental não provido.
+(AgRg no REsp 1.494.255/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 18/2/2015, grifei).
+PROCESSUAL CIVIL. TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 458 E 535 DO CPC INEXISTENTE. ICMS. DIREITO DE CREDITAMENTO. PRINCÍPIO DA NÃO CUMULATIVIDADE. MATÉRIA CONSTITUCIONAL. ANÁLISE DE LEI LOCAL. INCIDÊNCIA DA SÚMULA 280/STF. DIREITO DE CREDITAMENTO. PRODUTO INTERMEDIÁRIO. ESSENCIALIDADE. BEM DE CONSUMO OU USO. LIMITAÇÃO TEMPORAL. LEGITIMIDADE. SACOLAS PLÁSTICAS. PRODUTO PRESCINDÍVEL E DESPROVIDO DE ESSENCIALIDADE À ATIVIDADE EMPRESARIAL. HONORÁRIOS. SÚMULA 7/STJ.
+1. Não há a alegada violação dos arts. 458 e 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, como se depreende da leitura do acórdão recorrido, que enfrentou a questão do direito de creditamento de ICMS.
+2. As razões recursais envolvem tema de índole eminentemente constitucional - princípio da não cumulatividade -, o que torna inviável sua apreciação por esta Corte, em especial quando embasada na alegação de violação aos arts. 19 e 20 da Lei Complementar n. 87/96, que reproduzem comando da Carta Magna (art. 155, § 2º, I). Precedentes.
+(..)
+Agravo regimental improvido.
+(AgRg no REsp 1.393.151/MG, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 19/12/2014, grifei).
+Diante do exposto,conheço do Agravo para conhecer, em parte, do Recurso Especial, somente no que tange à violação ao art. 1.022 do CPC e, nessa parte, nego-lhe provimento.
+Publique-se.
+Intimem-se.
