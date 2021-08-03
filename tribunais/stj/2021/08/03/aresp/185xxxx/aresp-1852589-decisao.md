@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de recurso especial interposto por ELIAS VICENTE DE SOUZAcom basena alínea "a" do permissivo constitucionalcontra acórdão proferido pelo Tribunal Regional Federal da 2ª regiãoassim ementado (e-STJ fls. 110/111):
+PRESCRIÇÃO INTERCORRENTE. EXECUÇÃO FISCAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PERIODO DA EC 8/77 ATÉ A CONSTITUIÇÃO DE 1988. PRAZO TRINTENÁRIO.
+1 - A análise do prazo prescricional a ser utilizado para as contribuições previdenciárias leva em consideração a evolução no entendimento jurisprudencial sobre sua natureza - se tributária ou não tributária. Nesse ponto, tem-se que o posicionamento dominante, mormente no STF, era o de sua natureza tributária (prazo de cinco anos - CTN), o que se modificou com as alterações promovidas na Constituição pela EC nº 8/77 (prazo de trinta anos - art. 144 da Lei nº 3.807/60, c/c art. 2º da Lei nº 6.830/80). Posteriormente, com o advento da Constituição de 1988, sua natureza voltou a ser tributária, e com a edição da Lei nº 8.212/91, o prazo passou a ser de dez anos (tendo voltado, porém, a ser de cinco, em razão da inconstitucionalidade dos artigos 45 e 46 dessa Lei, conforme Súmula Vinculante nº 8).
+2 - Quanto à prescrição intercorrente, é entendimento assente que seu prazo deve ser aquele mesmo prazo referente à prescrição do fundo de direito, de modo que, no caso das contribuições previdenciárias relativas ao período compreendido entre a EC nº 08/77 e a Constituição de 1988, tal prazo seria trintenário.
+3 - No caso dos autos, os débitos são de 1984. Assim, trata-se de época na qual as contribuições previdenciárias não eram tidas como tributos, sujeitando-se, conseguinte, à disciplina do art. 144 da Lei nº 3.807/60, c/c art. 2º da Lei nº 6.830/80. Desse modo, o prazo a ser considerado é o de trinta anos. Sendo assim, não há que se falar de prescrição intercorrente no caso.
+4 - Apelação e remessa providas.
+Os embargos de declaração foram rejeitados (e-STJ fls. 131/146).
+A parte recorrente alega violação dos arts. 40 da Lei n. 6.830/1980; 174 do CTN e 219, § 5º, do CPC/1973, por entender que deve ser reconhecida a prescrição intercorrente quinquenal, "sendo irrelevante tratar-se de crédito decorrente de fato gerador posterior à EC 08/77 e anterior à Constituição Federal, quando o lapso prescricional era trintenário" (e-STJ 158).
+Contrarrazões às e-STJ fls. 186/192.
+O recurso especial foi admitido na origem (e-STJ fl. 194/195).
+Por decisão proferida às e-STJ fls. 216/217, determinei a devolução dos autos, ao fundamento de que a questão jurídica referente à sistemática para a contagem da prescrição intercorrente foi submetida à Primeira Seção para ser julgada pela sistemática dos recursos repetitivos, tendo sido escolhido como representativo da controvérsia o REsp 1.340.553/RS.
+Sobreveio acórdão do Tribunal de origem, segundo o qual o presente caso não se amolda à hipótese do repetitivo acima mencionado (e-STJ fls. 286/300).
+Em novo juízo de admissibilidade, o recurso especial foi inadmitido, tendo sido interposto o presente agravo (e-STJ fl. 314/315 e 326/339).
+Passo a decidir.
+Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+De início, ao reexaminar a hipótese, verifico que, na linha exposta pelo Tribunal de origem, a hipótese não se amolda integralmente ao representativo de controvérsia de que cuida o REsp 1.340.553/RS, porquanto se discute qual o prazo de prescrição intercorrente a ser observado.
+Com efeito, o recurso especial origina-se de acórdão que afastou a alegação de prescrição intercorrente, ao fundamento de que, em se tratando de execução fiscal ajuizada para cobrança de contribuições previdenciárias relativas a fatos geradores ocorridos no período de vigência da Emenda Constitucional 8/1977, deve ser observado o prazo de 30 (trinta) anos, previsto no art. 144 da Lei n. 3.807/1960.
+Conforme pacífica orientação jurisprudencial, no período entre a Emenda Constitucional 8/1977 e a Constituição Federal de 1988, as contribuições previdenciárias eram desprovidas de natureza tributária, época em que se observou as disposições contidas no art. 144 da Lei n. 3.807/1960, que fixava prazo prescricional de 30 (trinta) anos.
+Restabelecida sua natureza tributária com o advento a partir de 05/10/1988, passou-se a observar a prescrição quinquenal. Outrossim, para fins de prescrição intercorrente, deve ser observada a regra vigente à época em que se operou o arquivamento do art. 40 da Lei n. 6.830/1980.
+Nesse sentido, colhem-se os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. EC 8/1977. PRESCRIÇÃO TRINTENÁRIA. SUPERVENIENTE REDUÇÃO DO PRAZO. PRESCRIÇÃO INTERCORRENTE. PRAZO. INTELIGÊNCIA DO ART. 40, § 4º, DA LEI 6.830/1980.
+1. A jurisprudência do STJ firmou-se no sentido de que, a partir da EC 8/1977, o prazo de prescrição das contribuições previdenciárias é trintenário.
+2. Com a nova ordem constitucional, restabeleceu-se a natureza tributária das contribuições sociais e, consequentemente, o prazo prescricional do art. 174 do CTN. Precedentes do STJ e do STF.
+3. "Se da decisão que ordenar o arquivamento tiver decorrido o prazo prescricional, o juiz, depois de ouvida a fazenda pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato" (art. 40, § 4º, da Lei 6.830/1980, com a redação dada pela Lei 11.051/2004).
+4. Para a decretação da prescrição intercorrente, deve-se levar em conta o prazo de prescrição conforme a lei vigente ao tempo do arquivamento da execução fiscal, nos termos do art. 40 da Lei 6.830/1980.
+5. Caso sobrevenha, durante o arquivamento do feito, modificação legislativa que reduza o prazo de prescrição, o termo inicial do novo prazo será o da data da vigência da lei que o estabelece, salvo se a prescrição, iniciada na vigência da lei antiga, vier a se completar, segundo a norma anterior, em menos tempo.
+6. Recurso Especial não provido.
+(REsp 1.015.302/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/10/2008, DJe 19/12/2008).
+PROCESSUAL CIVIL. CONTRIBUIÇÕES PREVIDENCIÁRIAS. NATUREZA TRIBUTÁRIA. REPETIÇÃO DE INDÉBITO. JUROS MORATÓRIOS. TAXA APLICÁVEL. SUSPENSÃO DO PROCESSO INDIVIDUAL NA PENDÊNCIA DE ADI SOBRE A CONSTITUCIONALIDADE DA NORMA.
+1. A existência de ADI não inibe, por si só, o ajuizamento e nem impõe a suspensão de demandas individuais com base no preceito normativo questionado.
+2. As contribuições sociais, inclusive as destinadas a financiar a seguridade social (CF, art. 195), têm, no regime da Constituição de 1988, natureza tributária. Precedentes do STF e do STJ.
+3. Inviável a aplicação do art. 1º-F da Lei 9.494/97, com redação dada pela MP 2.180-35/2001, aos casos de repetição de indébito tributário, pois sua incidência limita-se às hipóteses de pagamento de verbas remuneratórias devidas a servidores e empregados públicos.
+Precedentes: REsp 841.885/MG, Ministro José Delgado, Primeira Turma, DJ 05.10.2006; REsp 854.884/RS, Ministra Eliana Calmon, Segunda Turma, DJ 26.09.2006.
+4. Recurso especial a que se nega provimento.
+(REsp 907.248/PR, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 04/09/2007, DJ 01/10/2007).
+PROCESSUAL CIVIL E TRIBUTÁRIO. CONTRIBUIÇÕES PREVIDENCIÁRIAS. PERÍODO DE 2/1977 A 2/1978. PRESCRIÇÃO TRINTENÁRIA. EMENDA CONSTITUCIONAL N. 8/77. REDIRECIONAMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. É pacífico na jurisprudência desta Corte que, a partir da EC 8/1977, o prazo de prescrição das contribuições previdenciárias é trintenário. Com a nova ordem constitucional, restabeleceu-se a natureza tributária das contribuições sociais e, consequentemente, o prazo prescricional do art. 174 do CTN.
+2. Não é possível extrair do acórdão proferido pelo Tribunal de origem que o nome do sócio consta da CDA. O que inviabiliza esse reconhecimento em sede de apelo especial, por ser necessário o reexame do conjunto fático-probatório dos autos (Súmula 7/STJ).
+Agravo regimental improvido.
+(AgRg no AgRg no REsp 1.113.802/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 19/10/2010, DJe 27/10/2010).
+Na hipótese, houve o arquivamento da execução fiscal, com base no art. 40 da Lei n. 6.830/1980, em 02/03/2000 (e-STJ fl. 55), quando já promulgada a Constituição Federal de 1988, de modo que o acórdão recorrido atuou em desconformidade com a orientação da jurisprudência do Superior Tribunal de Justiça, ao assentar que deveria ser observada a prescrição trintenária.
+Ante o exposto, com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de restabelecer os efeitos da sentença, que reconhecera a prescrição intercorrente.
+Sem condenação ao pagamento de honorários recursais, por tratar-se de recurso interposto na vigência do CPC/1973.
+Publique-se. Intimem-se.
