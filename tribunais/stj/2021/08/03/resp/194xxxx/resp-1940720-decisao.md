@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso especial interposto por AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A, fundamentado naalínea"a"do permissivo constitucional.
+Ação: de obrigação de fazer cumulada com compensação por danos morais ajuizada por IRECE GEORGETE WARGHA VANCEVICIUS, em desfavor da recorrente, em que se busca sua manutenção e seus dependentes em contrato de plano de saúde coletivo, de titularidade de seu falecido marido.
+Sentença: julgou parcialmente procedente os pedidos, para determinar que a ré mantenha a autora, agora na qualidade de titular,no plano de saúde coletivo do qual era beneficiária, mediante o pagamento da mensalidade relativa à sua parte, excluído o de cujus.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+Obrigação de fazer c/c indenização por danos morais. Plano de saúde. Falecimento do marido da Autora, titular do plano. Ausente justificativa para exclusão da Autora do plano de saúde indicado. Pretendida rescisão unilateral do contrato pela Ré. Inadmissibilidade. Dependente que tem o direito de assumir a titularidade do contrato estabelecido. Incidência, por analogia, do art. 13, parágrafo único, II, da Lei nº 9.656/98, além de decorrência do parágrafo 3º do artigo 30 do mesmo diploma legal. Precedentes jurisprudenciais desta C. Câmara. Sentença de procedência mantida. Honorários sucumbenciais majorados. Recurso não provido.
+Embargos de Declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega violação doart. 30, § 1º, da Lei n. 9 656/98, sustentando não haver previsão legal para manutenção dos dependentes, após o falecimento do titular, por tempo indeterminado.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da manutenção de dependente em plano de saúde coletivo, após falecimento do titular.
+Nos termos da jurisprudência do STJ, "falecendo o titular do plano de saúde coletivo, seja este empresarial ou por adesão, nasce para os dependentes já inscritos o direito de pleitear a sucessão da titularidade, nos termos dos arts. 30 ou 31 da Lei 9.656/1998, a depender da hipótese, desde que assumam o seu pagamento integral" (REsp 1.871.326/RS, 3ª Turma, DJe 09/09/2020). Nesse sentido:AgInt no AREsp 1760277/PR, 4ª Turma, DJe 25/06/2021;AgInt no AREsp 1627179/SP, 3ª Turma, DJe 21/06/2021;AgInt no REsp 1923124/SP, 3ª Turma, DJe 22/04/2021;AgInt no REsp 1886697/SP, 4ª Turma, DJe 14/12/2020.
+Na hipótese, o TJ/SP determinou a manutenção da autora, na qualidade de titular, por tempo indeterminado, sem, contudo, analisar a situação do titular falecido, no momento de seu óbito, observadas as regras dos arts. 30 e 31 da Lei n. 9.656/98, sendo de rigor, portanto, a devolução dos autos ao Tribunal de origem.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para determinar o retorno dos autos ao Tribunal de origem para que proceda a novo julgamento do apelação, na esteira do devido processo legal, à luz da jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO POR DANOS MORAIS. CONTRATO DE PLANO DE SAÚDE COLETIVO. FALECIMENTO DA TITULAR. BENEFICIÁRIA DEPENDENTE. PRETENSÃO DE MANUTENÇÃO DO BENEFÍCIO. ARTS. 30 E 31 DA LEI 9.656/1998.
+1. Açãode obrigação de fazer cumulada com compensação por danos morais, em que se busca manutenção de dependenteem contrato de plano de saúde coletivo, após o falecimento do titular.
+2. Na hipótese de falecimento do titular do plano de saúde coletivo, seja este empresarial ou por adesão, nasce para os dependentes já  inscritos o direito de pleitear a sucessão da titularidade, nos termos dos arts. 30 ou 31 da Lei 9.656/1998, a depender da hipótese, desde que assumam o seu pagamento integral (REsp 1.871.326/RS, julgado em 01/09/2020, DJe 09/09/2020).
+3. Recurso especial conhecido e parcialmente provido.
