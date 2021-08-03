@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FERNANDO HENRIQUE GOMES DOS REIS, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0004708-65.2020.8.26.0496) assim ementado (fl. 34):
+Agravo em Execução Penal - Decisão judicial que determinou a retificação do cálculo de liquidação de penas a fim de suprimir a referência à fração de cumprimento para fins de livramento condicional, em face da reincidência específica do sentenciado, que possui duas condenações, sendo uma definitiva, pela prática de "tráfico de entorpecentes" - Decisão que deve prevalecer - Nova condenação por crime comum de tráfico de drogas que enseja o reconhecimento de "reincidência específica", impedindo a obtenção de "Livramento Condicional", conforme art. 83, V, do Código Penal e art. 44, § único, da Lei nº 11.343/2006 - Agravo desprovido.
+O paciente foi condenado à pena de 1 ano e 8 meses de reclusãoem regime inicial fechado, como incurso no art. 33, § 4º, da Lei n.11.343/2006.
+A impetrante sustenta constrangimento ilegal na decisão coatora que considerou o delito de tráfico privilegiado como crimehediondoou equiparado, sem respaldo legal.
+Afirma violação do princípio da proporcionalidade. Faz referência ao Tema Repetitivo n. 600 do STJ.
+Requer, liminarmente e no mérito,a retificação do cálculo elaborado para que nele seja considerado o crime de tráfico privilegiado como não hediondo.
+O pedido de liminar foi indeferido (fls. 42-43).
+Prestadas as informações (fls. 48-58 e 62-72), o Ministério Público Federal opinou pela pelo não conhecimento do writ, mas pela concessão da ordem, de ofício, a fim de que seja determinada a retificação do cálculo de pena para constar o cumprimento de crime comum, com nova análise do pedido de livramento condicional pelas instâncias de origem (fls. 75-81).
+É o relatório. Decido.
+A presente impetração está prejudicada.
+Segundo as informações prestadas pelo Juízo de origem em 28/5/2021, determinou-se a retificaçãodo cálculo elaborado para que nele seja considerado o crime de tráfico privilegiado como crime comum, nestes termos (fls. 48-58, destaquei):
+1. Por decisão datada de 30 de junho de 2020, foi determinada a retificação do cálculo de penas a fim de suprimir a fração para fins de livramento condicional tendo em vista a reincidência especifica do sentenciado (fls. 76).
+2. No entanto, a despeito da compreensão diversa deste Magistrado a respeito da questão, já externada alhures em diversas oportunidades, há entendimento consolidado no âmbito do Egrégio Superior Tribunal de Justiça de que o denominado "tráfico privilegiado" não é legalmente considerado crime hediondo e, portanto, não caracteriza reincidência especifica nessa prática, além de não impedir a concessão de livramento condicional, assim 16 de abril de 2021 foi determinado aelaboração de novo cálculo de pena, considerando-se: a) para fins de progressão de regime prisional, o cumprimento de 40% (quarenta por cento) da pena privativa de liberdade; b) que a condenação em razão da prática do delito denominado de "tráfico privilegiado" configura crime comum e não impede a concessão de livramento condicional, conforme decisão de fls. 138/140 e 164.
+Assim, considerando a nova realidade fático-processual, evidencia-se a prejudicialidade do pedido ora formulado, tendo em vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
