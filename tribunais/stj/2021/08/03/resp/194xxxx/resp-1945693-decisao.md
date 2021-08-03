@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso especial interposto por STRONG CONSULTORIA EDUCACIONAL LTDA E FUNDAÇÃO GETÚLIO VARGAS, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 09/12/2020.
+Concluso ao gabinete em: 06/07/2021.
+Ação: execução de título extrajudicial apresentada pelas agravantes em face de EVILASIO RIBEIRO GONÇALVES, em razão de prestação de serviços educacionais.
+Decisão interlocutória: indeferiu o pedido de bloqueio da CNH, do passaporte e dos cartões de crédito da parte executada.
+Acórdão: negou provimento ao recurso interposto pelas agravantes, nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA Restrição de direitos Parte que pretende bloqueio da CNH, passaporte e cartões de crédito da executada - Em que pese a nova sistemática trazida pelo art. 139, IV, do CPC/2015, deve-se considerar que a base estrutural do ordenamento jurídico é a Constituição Federal, que em seu art. 5º, XV, consagra o direito de ir e vir Restrição que fere a Constituição Federal e a Declaração Universal dos Direitos do Homem - Decisão mantida Recurso não provido.
+Recurso especial: alega violação dos art. 139, VI, do CPC, bem como dissídio jurisprudencial. Sustenta a possibilidade de concessão da medida executiva atípica pretentida e invoca precedentes do STJ no sentido da argumentação deduzida.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Dos meios executivos atípicos.
+Quanto ao cabimento dos meios executivos atípicos, o STJ tem entendimento de que, "a adoção de meios executivos atípicos é cabível desde que, verificando-se a existência de indícios de que o devedor possua patrimônio expropriável, tais medidas sejam adotadas de modo subsidiário, por meio de decisão que contenha fundamentação adequada às especificidades da hipótese concreta, com observância do contraditório substancial e do postulado da proporcionalidade." Precedentes: REsp 1896421/SP, Terceira Turma, julgado em 06/04/2021, DJe 15/04/2021 e AgInt no AREsp 1406203/RS, Quarta Turma, DJe 19/12/2019.
+Ressalte-se que a decisão que autorizar a utilização de medidas coercitivas indiretas deve, ademais, ser devidamente fundamentada, a partir das circunstâncias específicas do caso, não sendo suficiente para tanto a mera indicação ou reprodução do texto do art. 139, IV, do CPC/15 ou mesmo a invocação de conceitos jurídicos indeterminados sem ser explicitado o motivo concreto de sua incidência na espécie (art. 489, § 1º, I e II, do CPC/15).
+De se observar, igualmente, a necessidade de esgotamento prévio dos meios típicos de satisfação do crédito exequendo, tendentes ao desapossamento do devedor, sob pena de se burlar a sistemática processual longamente disciplinada na lei adjetiva.
+Vale destacar, por oportuno, que o CPC/15, em seu art. 8º, estabeleceu com norma fundamental do processo civil o atendimento aos fins sociais do ordenamento jurídico e às exigências do bem comum, observado o resguardo e a promoção da dignidade da pessoa humana, assim como da proporcionalidade, da razoabilidade, da legalidade, da publicidade e da eficiência.
+Respeitado esse contexto, portanto, o juiz está autorizado a adotar medidas que entenda adequadas, necessárias e razoáveis para efetivar a tutela do direito do credor em face de devedor que, demonstrando possuir patrimônio apto a saldar o débito em cobrança, intente frustrar sem razão o processo executivo.
+Frise-se, aqui, que a possibilidade do adimplemento - ou seja, a existência de indícios mínimos que sugiram que o executado possui bens aptos a satisfazer a dívida - é premissa que decorre como imperativo lógico, pois não haveria razão apta a justificar a imposição de medidas de pressão na hipótese de restar provada a inexistência de patrimônio hábil a cobrir o débito.
+Dessa forma, o Tribunal a quo ao indeferir a adoção das medidas atípicas requeridas, ao argumento genérico de que tais medidas destoam "dos critérios da razoabilidade e proporcionalidade" (e-STJ fl. 311), não se alinhou com o entendimento propugnado neste julgamento, de modo que se impõe a reforma do julgado. Aplica-se, portanto, a Súmula 568 do STJ.
+Forte nessas razões e com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, conheço do recurso especial e dou-lhe provimento para determinar a devolução dos autos à origem, a fim de que o requerimento de adoção de medidas atípicas, feito com fundamento no artigo 139, IV, do CPC, seja analisado de acordo com o caso concreto, mediante a observância dos parâmetros jurisprudenciais acima estabelecidos.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. APLICAÇÃO DE MEDIDAS EXECUTIVAS ATÍPICAS. ART. 139, IV, DO CPC/15. CABIMENTO, EM TESE. DELINEAMENTO DE DIRETRIZES A SEREM OBSERVADAS PARA SUA APLICAÇÃO.
+1. Ação de execução de título extrajudicial.
+2.A adoção de meios executivos atípicos é cabível desde que, verificando-se a existência de indícios de que o devedor possua patrimônio expropriável, tais medidas sejam adotadas de modo subsidiário, por meio de decisão que contenha fundamentação adequada às especificidades da hipótese concreta, com observância do contraditório substancial e do postulado da proporcionalidade.
+3. Situação concreta em que as circunstâncias definidas neste julgamento não foram devidamente sopesadas pelo Tribunal de origem, sendo de rigor a reforma do julgado.
+4. Recurso especial conhecido e provido.
