@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, impetrado em benefício deRobson José de Goes, em que se aponta como autoridade coatora a Segunda Câmara Criminal do Tribunal de Justiça de Santa Catarina.
+Consta dos autos que o paciente foi denunciado como incurso nos arts. 33 e 35, caput, ambos da Lei n. 11.343/2006, em face da apreensão de 1.513g de maconha, 933,5g de cocaína, 341,5g de substância branco-amarelada e uma balança de precisão. Na sentença, foi condenado, em concurso material, pelos delitos de tráfico de drogas e associação para o tráfico, à pena de 11 anos e11 meses de reclusão, e 1.716 dias-multa (fls. 445/472).
+Em sede de apelação, a defesa pediu o reexame da pena. A Segunda Câmara Criminal do Tribunal de Justiça de Santa Catarina negou provimento ao recursoe, de ofício, alterou a aplicação da pena "afastando-se os maus antecedentes e reconhecendo a agravante da reincidência, sem alteração do quantum final da pena aplicada (fls. 630/656).
+No presente writ, a defesa aponta ilegalidade no acórdão, ante o reconhecimento da agravante de reincidência, de ofício, pelo Tribunal,em um recurso exclusivo da defesa, e naausência de documento que comprovasse tal circunstância nos autos, o que demonstra a reforma para pior (fls. 3/15).
+Decisão deste Relator, indeferindo a liminar (fls. 664/665).
+Parecer ministerial, opinando pela denegação da ordem (fls. 768/772).
+É o relatório.
+Na sentença, a pena-base foi elevada para 6 anos e 8 meses de reclusão, em face da quantidade de drogas e dos antecedentes, em razão de uma condenação transitada em julgado. Em sede de apelação da defesa, a Corte estadual entendeu por desconsiderar os maus antecedentes, porém, reconheceu, de ofício, a reincidência em razão desta mesma condenação transitada em julgado. Assim, foi afastada a elevação da pena-base pelos antecedentes, e feito o recálculo da pena diante da agravante da reincidência.Não houve reformatio in pejus em reconhecer a agravante em sede de recurso da defesa, pois a pena do paciente não foi agravada, mantido o quantum final da pena. Com efeito,  ..  somente se verifica a existência de reformatio in pejus quando, em recurso exclusivo da defesa, o Tribunal promove o agravamento da situação do acusado, o que não se verificou na hipótese dos autos  ..  (RHC 147225/MG, Ministro Joel Ilan Paciornik, Quinta Turma,DJe 24/6/21).
+Quanto ao pedido de reconhecimento da confissão espontânea, não houve debate sobre a matéria no acórdão hostilizado, de modo que inviável a sua análise, em sede de habeas corpus, para que não se incorra em supressão de instância.
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE REFORMATIO IN PEJUS. RECONHECIMENTO NO TRIBUNAL, DE OFÍCIO, DA REINCIDÊNCIA, COM O AFASTAMENTO DOS MAUS ANTECEDENTES. PENA MANTIDA NO MESMO PATAMAR. AUSÊNCIA DE PREJUÍZO PARA O PACIENTE.PLEITO DE RECONHECIMENTO DA CONFISSÃO ESPONTÃNEA. SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO.
+Ordem denegada.
