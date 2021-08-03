@@ -1,0 +1,22 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção do processo RHC n. 123.276/PR (fl. 112).
+Trata-se derecurso em habeas corpus interposto por Rubens Venancio Bibiano, em que se impugna o acórdão proferido pela Oitava Turma Criminal do Tribunal Regional Federal da 4ª Região no AgRg no HC n. 5019291- 14.2021.4.04.0000/PR, assim ementado (fl. 65):
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS - REJEIÇÃO LIMINAR. EXPEDIÇÃO DE MANDADO DE PRISÃO À EXECUÇÃO DE PENA PRIVATIVA DE LIBERDADE COM REGIME INICIAL SEMIABERTO - HIGIDEZ DA DECISÃO HOSTILIZADA. QUESTÕES ATINENTES AO CUMPRIMENTO DA PENA - COMPETÊNCIA DO JUÍZO DA EXECUÇÃO PENAL. INEXISTÊNCIA DE EXCEPCIONALIDADE A JUSTIFICAR O MANEJO DE HABEAS CORPUS COMO SUCEDÂNEO RECURSAL. RECURSO IMPROVIDO.
+1. É infactível o manejo de habeas corpus como substitutivo de recurso próprio quando inexiste flagrante ilegalidade a justificar a impetração.
+2. Embora o regime semiaberto conceda ao apenado o direito do cumprimento da pena em estabelecimento prisional específico (artigo 91 da LEP) e em condições diferenciadas do regime fechado, ainda impõe restrições à sua liberdade, razão pela qual a sua captura é medida necessária ao início da execução da pena. As questões relativas ao cumprimento da pena deverão ser apreciadas pelo Juiz da Vara de Execuções Penais, após o cumprimento do mandado de prisão, a quem competirá a análise da necessidade de alteração do regime inicial de cumprimento da pena, em razão da eventual ausência de vaga ou de estabelecimento compatível com o regime semiaberto (TRF/4R, HC 5010245-69.2019.4.04.0000, 8ª Turma, Relator Des. Federal LEANDRO PAULSEN).
+3. Ausente suficiente combate aos fundamentos da decisão agravada, impõe-se o rechaço da pretensão recursal.
+4. Agravo regimental improvido.
+Depreende-se dos autos que o recorrente foi condenado à pena de 5 anos, 11 meses e 17 dias de reclusão, no regime inicial semiaberto, pela prática do crime previsto no art. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006 (Autos n. 5000238-84.2021.4.04.7004/PR), tendo o Juízo da 1ª Vara Federal de Umuarama/PR determinado a expedição de mandado de prisão para dar início ao cumprimento da pena imposta pela sentença penal, razão pela qual foi impetrado habeas corpus na origem.
+Nas razões recursais, sustenta a Defensoria Pública da União, em síntese, que o recorrente sofre constrangimento ilegal decorrente da expedição do mandado de prisão, tão somente para a expedição da guia de recolhimento (fls. 72/76).
+Alega que o recorrente será preso no regime mais gravoso por uma questão meramente administrativae registra que, no estado do Paraná, não há vagas para a prisão no regime semiaberto, o que demonstra, ainda mais, a desproporcionalidade da ordem de prisão, além do estado de pandemia de Covid-19, que reclama maior cautela nas determinações de prisão (fls. 76/80).
+Requer, ao final, o provimento do presente recurso ordináriopara que, liminarmente, seja determinado o imediato recolhimento do mandado de prisão expedido contra o ora recorrentee, caso a ordem já tenha sido cumprida, que seja o recorrente imediatamente posto em liberdade,e, ao final, confirmada a liminar deferida (fl. 96).
+Informações prestadas (fls. 120/138).
+O Ministério Público Federal ofereceu parecerpelo provimento parcial do recurso, para determinar ao Juízo das Execuções que observe a necessidade de garantir ao reeducando estabelecimento prisional compatível com o regime semiaberto ou, caso inexista vaga nesse regime, que se adote as orientações estabelecidas no RE641.320/RS. (fl. 146).
+É o relatório.
+O recurso perdeu o seu objeto, diante de substancial alteração no contexto fático-processual.
+Isso porqueas informações obtidas na página eletrônica do Tribunal de origem dão conta de que, em 15/6/2021, nos autos n.5000238-84.2021.4.04.7004/PR, houve a prolação de decisão revogando a determinação de expedição de mandado de prisãoem razão de o recorrente já ter dado início ao cumprimento da pena, com utilização de tornozeleira eletrônica.
+Ante o exposto, julgo prejudicado o recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. ALEGAÇÃO DE AUSÊNCIA DE VAGA NO REGIME SEMIABERTO. PLEITO DE REVOGAÇÃO DA EXPEDIÇÃO DE MANDADO DE PRISÃO. SUPERVENIÊNCIA DE REVOGAÇÃO DO MANDADO DE PRISÃO. CUMPRIMENTO DE PENA JÁ INICIADO COM A UTILIZAÇÃO DE TORNOZELEIRA ELETRÔNICA. ALTERAÇÃO FÁTICO-PROCESSUAL. PERDA DO OBJETO.
+Recurso prejudicado.
