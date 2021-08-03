@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a" e "c", da Constituição da República, contra acórdão assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO. APOSENTADORIA ESPECIAL. COMPROVAÇÃO DAS CONDIÇÕES ESPECIAIS. RUÍDO. USO DE EPI. AGENTES QUÍMICOS. IMPLEMENTAÇÃO DOS REQUISITOS. DIB. JUROS E CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL.HONORÁRIOS DE ADVOGADO.
+1. Deve ser observada a legislação vigente à época da prestação do trabalho para o reconhecimento da natureza da atividade exercida pelo segurado e os meios de sua demonstração.
+2. A especialidade do tempo de trabalho é reconhecida por mero enquadramento legal da atividade profissional (até 28/04/95), por meio da confecção de informativos ou formulários (no período de 29/04/95 a 10/12/97) e via laudo técnico ou Perfil Profissiográfico Previdenciário (a partir de 11/12/97).
+3. Para o agente ruído, considera-se especial a atividade desenvolvida acima do limite de 80dB até 05/03/1997, quando foi editado o Decreto nº 2.172/97, a partir de então deve-se considerar especial a atividade desenvolvida acima de 90dB. A partir da edição do Decreto nº 4882 em 18/11/2003, o limite passou a ser de 85Db.
+4. O uso de Equipamento de Proteção Individual - EPI para o agente nocivo ruído, desde que em níveis acima dos limites legais, não descaracteriza o tempo de serviço especial.
+5. A exposição habitual e permanente a hidrocarbonetos de petróleo torna a atividade especial, enquadrando-se no código 1.2.11 do Decreto nº 53.831/64 e no item 1.2.10 do Decreto nº 83.080/79.
+6. Embora o PPP aponte a exposição ao agente nocivo químico, é certo que a Lei nº 9.732, de 11/12/98, publicada em 14/12/98, alterou a redação do art. 58, §§ 1º e 2º, da Lei nº 8.213/91, passando a exigir, no laudo técnico, informação acerca da existência de tecnologia de proteção coletiva ou individual, passível de atenuar a intensidade do agente agressivo a limites de tolerância, hipótese que descaracteriza a insalubridade da atividade exercida.
+7. A exposição a hidrocarbonetos de petróleo prescinde de quantificação para configurar condição especial de trabalho, pois a análise da exposição a esse fator agressivo é qualitativa, e não quantitativa.
+8. A soma dos períodos redunda no total de mais de 25 anos de tempo de serviço especial, o que autoriza a concessão da aposentadoria especial, nos termos do art. 57 da Lei nº 8.213/91.
+9. DIB na data do requerimento administrativo.
+8. Juros e correção monetária pelos índices constantes do Manual de Orientação para a elaboração de Cálculos na Justiça Federal vigente à época da elaboração da conta, observando-se, em relação à correção monetária, a aplicação do IPCA-e em substituição à TR - Taxa Referencial, consoante decidido pelo Plenário do Supremo Tribunal Federal no RE nº 870.947, tema de repercussão geral nº 810, em 20.09.2017, Relator Ministro Luiz Fux.
+9. Honorários de advogado fixados em 10% do valor da condenação conforme o disposto §§ 2º e 3º do artigo 85 do Código de Processo Civil/2015, considerando as parcelas vencidas até a data da sentença, nos termos da Súmula nº 111 do Superior Tribunal de Justiça.
+10. Apelação do Instituto Nacional do Seguro Social - INSS não provida. Apelação do Autor provida.
+A parte recorrente afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 1.022 e85, caput e § 2º, do Código de Processo Civil.
+Sustenta:
+Na r. sentença, o douto magistrado a quo julgou improcedente os pedidos do autor, ora recorrente. Assim, a razão do pedido de fixação do termo final dos honorários sucumbenciais no v. Acórdão se dá tendo em vista que apenas no acórdão prolatado foi reconhecido o direito à concessão do benefício.
+Neste sentido, é necessária uma interpretação teleológica da Súmula nº. 111 do STJ, e não apenas gramatical. Isto porque, ao fixar que os honorários não incidiriam sobre as parcelas vencidas após a sentença, presumiu-se que o benefício fosse concedido neste momento.
+É cediço que a condenação apenas é fixada no momento do trânsito em julgado do decisum, por meio do qual o direito é definitivamente reconhecido. Destarte, a sucumbência não finda necessariamente com o advento da sentença, porque pode o processo seguir e persistir a resistência do réu sucumbente com interposição de infindáveis recursos, protelando a solução da lide.
+Transcorreu in albis o prazo para apresentação de contrarrazões.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 8/7/2021.
+A Corte de origem consignou:
+Condeno o Instituto Nacional do Seguro Social - INSS ao pagamento de honorários de advogado fixados em 10% do valor da condenação, consoante o entendimento desta Turma e o disposto §§ 2º e 3º do artigo 85 do Código de Processo Civil/2015, considerando as parcelas vencidas até a data da sentença, nos termos da Súmula nº 111 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento à apelação do INSS e dou provimento à apelação do autor para determinar a concessão da aposentadoria especial, a partir do requerimento administrativo, fixando os consectários legais nos termos explicitados na decisão.
+Merece prosperar a irresignação.
+Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença".
+Na hipótese, o acórdão recorrido, que concedeu o direito à aposentadoria especial, deve ser considerado como termo final.A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. SÚMULA N. 211/STJ. PARCELAS VENCIDAS ATÉ A DATA DA SENTENÇA. EXCLUSÃO DA BASE DE CÁLCULO DA VERBA HONORÁRIA. FIXAÇÃO DA VERBA HONORÁRIA SOBRE PARCELAS VINCENDAS ATÉ A PROLAÇÃO DA DECISÃO CONCESSIVA DO BENEFÍCIO. DATA DA SENTENÇA QUE CONCEDEU O DIREITO AO BENEFÍCIO REQUERIDO.
+(..)
+V - A jurisprudência do STJ entende que a verba honorária deve ser fixada sobre as parcelas vencidas até a prolação da decisão concessiva do benefício, na hipótese, a data da sentença, a qual concedeu o direito ao benefício requerido, em consonância com o disposto na Súmula n. 111 do STJ. Nesse sentido: "PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ. 1. Conforme teor da Súmula n. 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença". 2. Na hipótese, o acórdão recorrido, que concedeu o direito à aposentadoria especial, deve ser considerado como termo final. Nesse sentido: AgRg no AREsp n. 271.963/AL, relator para acórdão, Ministro Sérgio Kukina, Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp n. 1.271.734/RS, relatora Ministra Alderita Ramos de Oliveira (Desembargadora convocada do TJ/PE), DJe de 18/4/2013; AgRg nos EDcl no AREsp n. 155.028/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2012. 3. Recurso Especial provido. (REsp n.1.831.207/SP, relator Ministro Herman Benjamin, Segunda Turma, julgado em 12/11/2019, DJe 19/12/2019)." VI - Agravo interno improvido.
+(AgInt no REsp 1.867.323/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 18/11/2020)
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ.
+1. Conforme teor da Súmula 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser a decisão em que o direito do segurado foi reconhecido: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença".
+2. Na hipótese, o acórdão recorrido, que concedeu o direito à aposentadoria especial, deve ser considerado como termo final. Nesse sentido: AgRg no AREsp 271.963/AL, Rel. p/a. Acórdão, Min. Sérgio Kukina, Primeira Turma, DJe de 19/5/2014; EDcl no AgRg no REsp 1.271.734/RS, Rel. Min. Alderita Ramos de Oliveira (Desembargadora Convocada do TJ/PE), DJe de 18/4/2013; AgRg nos EDcl no AREsp 155.028/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 24/10/2012.
+3. Recurso Especial provido.
+(REsp 1.831.207/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2019)
+Dessa forma, por estar em dissonância com o entendimento desta Corte Superior, deve ser reformado o aresto proferido na origem.
+Diante do exposto, nos termos do art. 255, § 4º, III, do RI/STJ e da Súmula 568/STJ, dou provimento ao Recurso Especial.
+Publique-se.
+Intimem-se.
