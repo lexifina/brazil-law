@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial interposto por PARANAPANEMA S/A, com fundamento no art. 105, III, a, do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado ( fls.544/545):
+TRIBUTÁRIO. IMPOSTO DE RENDA. INCENTIVO FISCAL. LEI Nº 6.321/76. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR. PAT. PORTARIA INTERMINISTERIAL MTB/MF/MS Nº 326/77 E IN/SRF Nº 267/02. ILEGALIDADE. RECONHECIMENTO DO PEDIDO PELA UNIÃO EM SEDE DE CONTESTAÇÃO. REPETIÇÃO - PRESCRIÇÃO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS INDEVIDOS. ART. 19, § 1º, DA LEI Nº 10.522/02.
+1. Aplicável ao caso a prescrição quinquenal nos tenros da Lei Complementar n. 118/05, de 09.06.2005 (RE nº 566.621/RS- Pleno do STF em 04.08.2011).
+2. Os valores serão exclusivamente corrigidos pela taxa SELIC desde a data do pagamento indevido, sem acumulação com qualquer outro índice, restando indevida a incidência de qualquer suposto expurgo inflacionário, porquanto isso não aconteceu durante o período de pagamento ora recuperado.
+Indevida a incidência de juros de mora, além do que a incidência única é a da SELIC. Impõe-se ressaltar que existindo norma especial que emprega a SELIC para a atualização dos débitos do contribuinte para com a Fazenda Pública - § 4º do artigo 39 da Lei nº 9.250/95 - pelo critério da isonomia haverá de ser a SELIC utilizada na via inversa. Nenhuma outra norma, ainda que posterior, pode ser invocada para fins de correção monetária, se importar diminuição na recomposição do patrimônio do contribuinte lesado, já que a União Federal se vale da SELIC para fins de corrigir seus créditos. Nesse sentido pacificou-se a jurisprudência plenária do STF no julgamento do RE nº 870.947, julgado em 20 de setembro de 2017.
+3. Nas matérias de que trata o artigo 19, § 1º da Lei nº 10.522/02, o Procurador da Fazenda Nacional que atuar no feito deverá, expressamente, reconhecer a procedência do pedido, quando citado para apresentar resposta, hipótese em que não haverá condenação em honorários. No caso a União ao contestar a ação reconheceu expressamente a -procedência do pedido. - - 4. Apelo da União provido e apelação da autora desprovida.
+Os embargos de declaração foram rejeitados (fls. 563/571).
+Em suas razões, a parte recorrente alega, primeiramente, violação do art. 489 e 1022 do CPC/15, ao argumento de que a Corte local não se manifestou sobre pontos importantes para o deslinde da controvérsia, especificamente quanto aos honorários advocatícios, se efetivamente são devidos ou não, visto que houve provimento integral do recurso da Fazenda Nacional mas não consta menção ao quantum de honorários que supostamente seriam devidos pela recorrente.
+No mérito, alega violação dos art. 1.026, § 22, do CPC/2015, sustentando que os embargos de declaração opostos na origem não foram protelatórios, não havendo abuso do direito de recorrer.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fl. 616/618.
+É o relatório. Decido.
+Verifica-se que a recorrente pretende a anulação do acórdão proferido pela Corte de origem, em sede de embargos de declaração, sob o argumento de negativa de prestação jurisdicional, porquanto remanesce omisso o julgamento da controvérsia quanto à condenação nos honorários advocatícios.
+Os embargos de declaração foram rejeitados de forma genérica, conforme acórdão de fls. 563/571.
+Com efeito, apresenta-se omisso o acórdão relativamente a tema questionado nos embargos de declaração.
+A falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1022, II, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.
+A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1022DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO
