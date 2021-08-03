@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdãoassim ementado (fl. 190):
+ROUBO  PRETENDIDA A ABSOLVIÇÃO POR FALTA DE PROVAS OU A_DESCLASSIFICAÇÃO  PARA A MODALIDADE CULPOSA  NÃO ACOLHIMENTO  AUTORIA E MATERIALIDADE DELITIVA DEMONSTRADAS  PALAVRAS DA VÍTIMA E DOS AGENTES DA LEI VÁLIDAS  CONSUMAÇÃO EFETIVADA  INTELIGÊNCIA DA SUMULA Nº 582, DO COL. STJ - PENAS E REGIME INICIAL FECHADO ADEQUADAMENTE  ESTABELECIDOS - RECURSO NÃO PROVIDO.
+O recorrente foi condenado à pena de 4 anos e 8 meses de reclusão, no regime inicial fechado, além do pagamento de 11 dias-multa, pela prática do crime do art. 157, caput, do Código Penal.
+Interposta apelação, o recurso defensivo foi desprovido.
+Nas razões do especial, sustenta a defesaviolação aos artigos 33, 44, 59 e 67, todos do Código Penal, e 387, § 2º, do Código de Processo Penal, bem como violação às Súmulas 718 e 719 do Supremo Tribunal Federal, porquanto o TJSP, ao apreciar o apelo defensivo, negou provimento ao recurso, mantendo integralmente a sentença recorrida.
+Argumenta que embora reconheça o direito subjetivo do recorrente a que se aplique a atenuante de confissão espontânea, o Tribunal de Justiça não procedeu à integral compensação da agravante.
+Aponta a desproporcionalidade, bem como a fundamentação inidônea utilizada para a imposição do regime inicial mais gravoso.
+Requer o conhecimento e provimento do recurso.
+Contrarrazoado e admitido parcialmente na origem, manifestou-se o Ministério Público Federal pelo provimento do recurso especial.
+Quanto compensação integral da atenuante da confissão espontânea com a agravante da reincidência, o Tribunal de origem manifestou-se nos seguintes termos (fls. 198-199):
+Na segunda fase, pela presença da atenuante da confissão espontânea e agravante da reincidência (fls. 96/105), as penas foram majoradas em 1/6 (um sexto), resultando em 04 anos e 08 meses de reclusão, além do pagamento de 11 dias-multa, no piso.
+Conforme preceitua o art. 67, do Código Penal, "No concurso de agravantes e atenuantes, a pena deve aproximar-se do limite indicado pelas circunstâncias preponderantes, entendendo-se como tais as que resultam dos motivos determinantes do crime, da personalidade do agente e da reincidência".
+São três, portanto, segundo a letra da lei, as espécies de circunstâncias preponderantes, relacionadas:
+a) aos motivos determinantes do crime;
+b) à personalidade do agente;
+c) à reincidência.
+Os motivos determinantes são aqueles que estimularam o agente à prática delitiva, tais como o motivo fútil, torpe, de relevante valor social ou moral.
+A personalidade do agente implica em circunstâncias pessoais, inerentes à sua pessoa, como é o caso da idade (menor de 21 na data dos fatos, e maior de 70 anos na datada sentença).
+Já a reincidência demonstra que a condenação anterior não exerceu o efeito preventivo desejado, pois não obstante a censura precedente persistiu na senda criminosa ao praticar novo crime após o trânsito em julgado da decisão condenatória anterior, demonstrando, com isso, maior reprovabilidade.
+Percebe-se que tais elementos, preponderantes, são todos de natureza subjetiva e refletem na maior ou na menor reprovabilidade do agente.
+Deste modo, havendo o concurso de uma circunstância preponderante com outra que não tenha essa natureza, deve aquela prevalecer na segunda fase da aplicação da pena.
+A confissão espontânea, aliás, além de não estar relacionada à personalidade do agente, por vezes configura postura adotada em sua conveniência ou como estratégia da defesa, visando apenas à redução das reprimendas.
+Como se vê, na segunda fase da dosimetria da pena, as instâncias ordinárias majoraram a pena do recorrenteem 1/6, diante da presença da agravante da reincidência e da atenuante da confissão espontânea, ressaltando-se que a reincidência demonstra maior reprovabilidade e a confissão espontânea, além de não estar relacionada à personalidade do agente, por vezes configura postura adotada em sua conveniência ou como estratégia da defesa, visando apenas à redução das reprimendas.
+Entretanto, a Terceira Seção desta Corte, em 23/5/2012, por ocasião do julgamento do EREsp 1.154.752/RS, pacificou o entendimento segundo o qual a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante. Em 10/4/2013, o entendimento foi reafirmado no julgamento do REsp 1.341.370/MT, submetido ao rito dos recursos repetitivos.
+Revisitando o tema, em 11/10/2017, no julgamento do HC 365.693/SP, a Terceira Seção deste Tribunal firmou orientação no sentido de que a reincidência específica não impede a integral compensação com a atenuante da confissão espontânea. O acórdão foi assim ementado:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. Incidência da Súmula n. 545/STJ.
+IV - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência".
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+VI - A fração de aumento decorrente da continuidade delitiva foi fixada em 1/5 (um quinto) com base em elementos concretos e de acordo com a jurisprudência desta Corte sobre o tema, inexistindo flagrante ilegalidade ou desproporcionalidade na majoração da reprimenda.
+VII - Ainda que estabelecida a pena-base no mínimo legal, sendo o paciente reincidente e fixada a pena em 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, "b", do Código Penal.
+VIII - A eventual possibilidade de aplicação do § 2º do art. 387 do Código de Processo Penal não foi enfrentada pelo Tribunal de origem, sendo inviável sua análise neste Tribunal Superior, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido. Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação. (HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017).
+No que se refere ao regime prisional, consta do acórdão impugnado (fls. 201-202):
+DO REGIME PRISIONAL INICIAL
+Deve ser mantido o regime fechado.
+No caso específico, o réu revela, em seu histórico criminal, vida voltada ao cometimento de delitos patrimoniais, a demonstrar que a fixação de modalidade diversa de regime prisional não seria suficiente para a finalidade de retribuição e prevenção de crimes, atendendo-se, assim, aos parâmetros estabelecidos nos artigos 33, § 3º e 59, ambos do Código Penal.
+Seus impulsos criminógenos devem ser refreados.
+Ademais, ao fixar o regime prisional, não pode o magistrado se limitar apenas ao quantum da pena aplicada, devendo, pois, considerar ainda a culpabilidade, os antecedentes, a conduta social e a personalidade do agente, assim como as circunstâncias e consequências do crime.  .. .
+Da leitura do excerto, extrai-se que as instâncias de origem estabeleceram o regime fechado ao recorrente, condenado a 4 anos e 8 meses de reclusão, apontando fundamento concreto a justificar a imposição do regime mais gravoso que o previsto na regra do art. 33, § 2º, b, do Código Penal (semiaberto), tendo em vista a reincidência do recorrente, caracterizando, assim, justificativa apta ao regime mais gravoso.
+Portanto, tendo em vista a fundamentação concreta para o recrudescimento do regime, não merece reforma o acórdão atacado, mantendo-se o regime fechado, observados os arts. 33 e 59 do CP, bem como a orientação das Súmulas 440/STJ, 718 e 719 STF.
+Passo, assim, à nova dosimetria.
+Na primeira fase, mantenho a pena fixada em 4 anos de reclusão e 10 dias-multa, a qual deve ser mantida na segunda fase da dosimetria, compensando-se integralmente a agravante da reincidência com a atenuante da confissão espontânea. Ausentes causa especial de aumento ou de diminuição de pena, fixo a pena definitiva em 4 anos 4 de reclusão, e pagamento de 10 dias- multa.
+Ante o exposto, dou provimento ao recurso especial para alterar a pena do recorrente, tornando-a definitiva em 4 anos de reclusão, mais o pagamento de 10 dias- multa, mantendo-se, no mais, o decreto condenatório.
+Publique-se.
+Intimem-se.
