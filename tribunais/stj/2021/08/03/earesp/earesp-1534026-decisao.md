@@ -1,0 +1,58 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por Caixa de Previdência dos Funcionários do Banco do Brasil, com fundamento na alínea a do permissivo constitucional, desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado (e-STJ, fls. 369-370):
+AÇÃO RESCISÓRIA. PREVIDÊNCIA PRIVADA. ART. 485, V e IX DO CPC/73. VIOLAÇÃO LITERAL DE DISPOSITIVO DE LEI E ERRO DE FATO. AUXÍLIO CESTA ALIMENTAÇÃO. INOCORRÊNCIA. ILEGITIMIDADE DOS PROCURADORES DA AÇÃO ORIGINÁRIA. AUSENTE AS HIPÓTESES TAXATIVAMENTE PREVISTAS NO ART. 485 DO CPC/73. PRECEDENTES. AÇÃO IMPROCEDENTE.
+Ilegitimidade passiva dos procuradores -
+1. Cabe ressaltar que o polo passivo da presente ação rescisória deve conter somente os participantes como demandantes ou demandados da ação que se visa rescindir, sendo, pois, descabida a inclusão dos patronos dos litigantes, na hipótese dos autos.
+Mérito -
+2. Restou pacificado no Eg. STJ e STF que a mudança de jurisprudência não enseja a hipótese de rescisão de decisão transitada em julgado. Hipótese de aplicação da Súmula n.º 343 do STF, que preceitua: "não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+3. No caso em comento, a matéria debatida era notadamente controvertida nos tribunais pátrios, sendo inviável o acolhimento da hipótese vertida na exordial. Ilustrando:
+"Somente se justifica a rescisão baseada no artigo 485, V, do Código de Processo Civil quando a lei é ofendida em sua literalidade, ensejando exegese absurda; não, quando é escolhida uma interpretação dentre outras também possíveis, ..  devendo prevalecer, por isso, a segurança jurídica representada pelo respeito à coisa julgada" (AR 2.931/SP, Rel. Ministro CASTRO FILHO, Segunda Seção, julgado em 24/8/2005, Dl 12/2/2006).
+4. Multa por litigância de má-fé afastada.
+Ausente conduta da parte de qualquer das hipóteses dispostas no art. 17 do CPC/73 (art. 80 do CPC/15).
+ACOLHIDA PRELIMINAR DE ILEGITIMIDADE PASSIVA DOS PROCURADORES. NO MÉRITO, AÇÃO RESCISÓRIA IMPROCEDENTE.
+Em suas razões de recurso especial (e-STJ, fls. 403-419), a agravante alegou violação aos arts. 966, V e VIII, do Código de Processo Civil de 2015 (antigo art. 485, V e IX, do Código de Processo Civil de 1973); e 3º da Lei Complementar n. 108/2001.
+Sustentou, em síntese, o cabimento da ação rescisória, tendo em vista que a hipótese em questão trata de erro de fato, qual seja, o caráter indenizatório do auxílio-cesta-alimentação, previsto em norma coletiva.
+Enfatizou que, pela decisão rescindenda, não houve nenhum pronunciamento judicial acerca de estar expressamente previsto nas convenções coletivas que o auxílio-cesta-alimentação é verba não remuneratória e que, inversamente ao preconizado na decisão recorrida, não houve custeio para pagamento do auxílio-cesta-alimentação, na medida em que as contribuições vertidas pelos associados e patrocinadora não abarcaram a verba em questão, por ser esta de natureza indenizatória, não integrante do salário de participação.
+Foram apresentadas contrarrazões (e-STJ, fls. 427-434).
+O processamento do apelo especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta não apresentada, fl. 459 (e-STJ).
+Brevemente relatado, decido.
+Inicialmente, cabe observar o entendimento deste Superior Tribunal no sentido de que a data relevante para se aferir se o acórdão rescindendo é passível de rescisão, em face do óbice da Súmula 343/STF, é a data em que foi ele prolatado, e não a do respectivo trânsito em julgado, que pode ter sido posterior.
+Confira-se:
+AGRAVO INTERNO. PREVIDÊNCIA PRIVADA. CESTA-ALIMENTAÇÃO. ACÓRDÃO RESCINDENDO PROFERIDO QUANDO HAVIA DIVERGÊNCIA. AÇÃO RESCISÓRIA IMPROCEDENTE. PRECEDENTE DA CORTE ESPECIAL. SÚMULA Nº 83/STJ.
+1. "A pacificação da jurisprudência desta Corte em sentido contrário e posteriormente ao acórdão rescindendo não afasta a aplicação do enunciado n. 343 da Súmula do STF" (RESP 736650/MT, Relator Ministro ANTONIO CARLOS FERREIRA, CORTE ESPECIAL, DJe 1/9/2014).
+2. A data relevante para se aferir se o acórdão rescindendo é passível de rescisão, em face do óbice da Súmula 343/STF, é a data em que foi ele prolatado e não a respectivo do trânsito em julgado, que pode ter sido bastante posterior, em função de recurso julgado insusceptível de conhecimento.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.024.705/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 02/10/2018, DJe 15/10/2018)
+AGRAVO INTERNO NA AÇÃO RESCISÓRIA. PROCESSUAL CIVIL. PREVIDÊNCIA PRIVADA. AUXÍLIO-CESTA-ALIMENTAÇÃO. TEMA PACIFICADO À ÉPOCA. ALTERAÇÃO DE ENTENDIMENTO. VIOLAÇÃO LITERAL DE LEI. AFASTAMENTO. SÚMULA Nº 343/STF. APLICAÇÃO. ERRO DE FATO. NÃO CONFIGURAÇÃO. NATUREZA DA VERBA. EFETIVA DISCUSSÃO.
+1. A violação de literal disposição de lei que autoriza o ajuizamento de ação rescisória é aquela que enseja flagrante transgressão do "direito em tese". Assim, a pacificação da jurisprudência da Corte em sentido contrário e em momento posterior à prolação do acórdão rescindendo não afasta a incidência da Súmula nº 343/STF. Precedentes da Corte Especial.
+2. A ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 966, § 1º, do CPC/2015). Isso porque, se houve controvérsia na demanda primitiva, a hipótese é de erro de julgamento e não de erro de fato.
+3. Na situação em exame, a interpretação feita pelo acórdão rescindendo da legislação aplicável ao caso concreto não foi desarrazoada ou teratológica, tanto que seguiu a orientação jurisprudencial pacífica da época, o que atrai a incidência da Súmula nº 343/STF. Ademais, houve a efetiva discussão sobre a natureza jurídica do auxílio-cesta-alimentação - se verba de caráter remuneratório ou indenizatório -, a afastar a alegação de erro de fato.
+4. Agravo interno não provido.
+(AgInt na AR 5.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 23/08/2017, DJe 19/10/2017)
+Outrossim, ressalta-se que a jurisprudência do Superior Tribunal de Justiça é no sentido de que "a ação rescisória fundada em erro de fato pressupõe que a decisão tenha admitido um fato inexistente ou tenha considerado inexistente um fato efetivamente ocorrido, mas, em quaisquer dos casos, é indispensável que não tenha havido controvérsia nem pronunciamento judicial sobre ele (art. 485, IX, e § 2º, do CPC/73)" (AR 5.311/RJ, Rel. Ministro Raul Araújo, Rel. p/ Acórdão Ministro Paulo de Tarso Sanseverino, Segunda Seção, julgado em 28/02/2018, DJe 18/04/2018).
+No caso, o acórdão recorrido julgou o pleito no seguinte sentido (e-STJ, fls. 388-398):
+Como se percebe, na época da prolação do acórdão rescindendo, a matéria era notavelmente controvertida, não cabendo, pois, o acolhimento da tese ventilada pela parte autora, pois o julgamento anterior com base em jurisprudência posteriormente revisada não enseja a hipótese do artigo 485, inciso V e IX do CPC/1973.
+O que subsiste, a partir das razões expostas na inicial, é a busca de reforma do acórdão prolatada, não se vislumbrando qualquer ilegalidade ou violação vigente na decisão rescindenda.
+Como se sabe, a ação rescisória não é o meio hábil para discutir a alteração da interpretação dada pelo Julgador ao conjunto probatório e ao contexto fático, ainda que entenda a parte pela incorreção ou ilegalidade da decisão.
+Assim, pretendendo a autora a rediscussão de pontos já analisados e debatidos por ocasião do julgamento da ação originária, com o fim de obter resultado favorável a si, ao não se conformar com a decisão de mérito proferida, descabe o ajuizamento da presente ação rescisória.
+(..)
+Ademais, conforme entendimento jurisprudencial pacífico, "in casu", não se presta a ação rescisória à discussão do acerto ou da injustiça da decisão, propósito que resta evidenciado na presente demanda. Como visto, as questões debatidas na presente demanda já foram objeto de discussão e de julgamento nos autos da demanda precedente, e na medida das possibilidades encontradas pelos julgadores à luz daqueles autos, mostrando-se, portanto, evidente o propósito de rediscussão da causa na situação presente.
+Em conclusão, não se enquadra o presente caso em quaisquer das hipóteses previstas no art. 485 CPC/73.
+No ponto, o entendimento firmado pelo Colegiado estadual está em consonância com o desta Corte, o que atrai o óbice da Súmula n. 83/STJ.
+No que tange à ofensa do art. 3º da Lei Complementar n. 108/2001, verifica-se que seu conteúdo normativo não foi objeto de apreciação pelo Tribunal a quo. Portanto, ausente o prequestionamento, entendido como a necessidade de ter o tema objeto do recurso sido examinado na decisão atacada.
+Cumpre destacar que o Tribunal de origem, a despeito dos embargos de declaração suscitados, não se manifestou expressamente sobre os referidos artigos.
+O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial.
+Importante assinalar, ainda, que o prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, o recorrente suscitar a violação ao art. 1.022 do mesmo Diploma, pois somente dessa forma é que o Órgão julgador poderá verificar a existência do vício e proceder à supressão de grau.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido. (REsp 1639314/MG, Relatora Ministra Nancy Andrighi, Terceira Turma, julgado em 04/04/2017, DJe 10/04/2017)
+Diante do exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. CESTA-ALIMENTAÇÃO. MANEJO DE RESCISÓRIA PARA ADEQUAÇÃO DO JULGADO. INVIABILIDADE. SÚMULA 343/STF. ERRO DE FATO. NÃO CONFIGURAÇÃO. SÚMULA 83/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO SUSCITADA. INVIABILIDADE DE PREQUESTIONAMENTO FICTO. AGRAVO CONHECIDO PARA CONHECIMENTO PARCIAL DO RECURSO ESPECIAL, E NESSA PARTE, NEGAR-LHE PROVIMENTO.
