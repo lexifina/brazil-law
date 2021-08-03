@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso emhabeas corpussempedido de liminar interposto por THALLYSON SILVA SOUZAcontra acórdão do Tribunal de Justiça do Estado de Minas Gerais(Processo n. 1.0000.21.041321-7/000).
+Orecorrenteteve aprisão em flagrante convertida em preventiva a pedido do Ministério Público(fls. 62-64), por suposta prática dodelitodescritonoart. 33, caput,da Lei n. 11.343/2006.
+O decreto prisional fundou-se na garantia da ordem pública, na quantidade, variedade e nocividade dosentorpecentes apreendidos e na apreensão de apetrechos relacionados ao tráfico de drogas.
+O recorrente alegaque a decretação da prisão preventiva carece de fundamentação eque não estão preenchidos os requisitos autorizadores da custódia cautelar.
+Argumenta que a quantidade de drogas apreendidanão é expressiva e que "o fato de  .. responder inquérito da mesma natureza, tem-se que tal fundamento fere completamente o princípio constitucional da presunção de não culpabilidade, sendo inadmissível sua aceitação" (fl. 148).
+Pondera que é primário, possui residência fixa e ocupação lícita.
+Requer, liminarmente e no mérito, sejarevogadaaprisãopreventiva, expedindo-se oalvaráde soltura.Alternativamente, pleiteiaa substituição daprisãopela imposição de medidas alternativas referidas no art. 319 do CPP.
+O Tribunal de Justiça do Estado deMinas Geraisapresentou informações às fls. 175-177 e 178-182.
+O Ministério Público Federal opinou pelo provimento do recurso ordinário(fls. 163-169).
+É o relatório. Decido.
+Consta dos autos a informação de que, em 14/6/2021,foi proferida sentença na Ação Penal n. 0011130-82.2020.8.13.0184,ocasião em que orecorrentefoicondenadoàs penas de 8anos e9 mesesde reclusão em regime inicial fechado e de 871dias-multa, como incursono art. 33, caput, c/c o art. 40, VI, da Lei n. 11.343/2006, vedado o direito de recorrerem liberdade (fls. 179-181).
+Como o Juízo de primeiro grau manteve os fundamentos da prisão preventiva anteriormente decretada, não houve perda de objeto neste ponto.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fl. 130,destaquei):
+Consta dos autos que militares, durante patrulhamento de rotina, avistaram dois indivíduos em uma bicicleta, ambos em atitude suspeita, razão pela qual resolveram abordá-los. Ato contínuo, efetuada busca pessoal, os policiais lograram apreender em poder do paciente um pino contendo substância semelhante a cocaína, além da quantia de R$ 1.552,00, em espécie, em cédulas de diversificados valores.
+Diante do ocorrido, os brigadianos deslocaram-se até a residência do denunciado, ocasião em que lograram encontrar 20 buchas de substância análoga a maconha, invólucros plásticos comumente utilizados para dolagem de entorpecentes, além de uma balança de precisão e diversos pés de plantas semelhantes a maconha.
+Ante a situação, foi dada voz de prisão em flagrante delito ao imputado.
+Registre-se que o indiciado responde a Inquérito Policial pelo delito de tráfico de substância entorpecente, como faz certo a CAC de fl. 01-04 (sequencial 08).
+Não obstante, o paciente já foi beneficiado com a liberdade provisória, quebrando, com a prática de novo crime, o compromisso assumido com a Justiça.
+Dessa forma, não utilizou sua reinserção social para emendar-se, senão para retornar à senda criminosa, eis porque nova soltura importaria inelutável risco à ordem pública.
+Confira-se ainda excerto da decisão,mantida pelo Tribunal de origem, que, diantedas circunstâncias em que ocorria a prática delitiva, converteu a prisãoem flagrante em preventiva (fl. 63, destaquei):
+No caso em exame, o autuado foi preso pela prática, em tese, de crime grave, isto é, tráfico de droga, estando a gravidade concreta da conduta evidenciada pelo exame preliminar acostado nos autos e a apreensão de 01 (um) pino de cocaína, 20 (vinte) buchas de substância semelhante a maconha, sacolinhas de "chup-chup", uma balança de precisão, um vaso de planta com mudas de maconha e a quantia de R$ 1.552,00, indicativa da venda de entorpecentes.
+No presente caso, a apreensão de apetrechos relacionados ao tráfico, a existência de inquérito policial em curso e o fato deo recorrente, beneficiado com a liberdade provisória, ter cometido novo delitoforam consideradospelo Tribunal de origem para a manutenção daprisão preventiva.
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de27/11/2020).
+Conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ademais, justifica-se a prisão preventiva para garantia da ordem pública quando o recorrente, beneficiado por liberdade provisória em ação penal diversa, comete nova infração, hipótese em que está evidente o risco de reiteração delitiva (AgRg no HC 613.145/GO, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/11/2020).
+Registre-se ainda que eventuais condições subjetivasfavoráveisdo recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, conforme acima mencionado, em primeiro grau, já houve a condenação, tendo sido indeferido o pleito de recorrer em liberdade.
+A manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória, que não concedeu aorecorrente, que ficoupresodurante toda a instrução processual, o direito de recorrerem liberdade, pois considerou mantidas as circunstâncias que justificaram a decretação da prisão preventiva.
+Ante o exposto,com fundamento no art. 34, XVIII,b,do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
