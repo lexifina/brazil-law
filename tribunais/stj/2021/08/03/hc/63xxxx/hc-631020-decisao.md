@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLEIDER BARBOSA DIAS, contra acórdão do Tribunal de Justiça do Estado do Tocantins (HC n. 00120404020208272700) .
+O paciente foi preso preventivamente pela suposta prática dos delitos descritos no art. 157, § 2ª-A, I, na forma do art. 14, II, ambos do Código Penal.
+Em 11/8/2020, o juízo a quo reconheceu excesso de prazo na formação da culpa bem como a impossibilidade de realizar a audiência, seja presencialmente ou por videoconferência. Deste modo, revogou a prisão preventiva e impôs a medida cautelar de monitoração eletrônica, porém o equipamento não chegou a ser instalado por indisponibilidade.
+O Ministério Público interpôs recurso em sentido estrito, que foi provido pelo Tribunal de Justiça do Tocantins mantendo a custódia cautelar com fundamento no art. 312, caput, do Código de Processo Penal.
+A defesa alega que o paciente sofre constrangimento ilegal decorrente do excesso de prazo para tramitação do processo.
+Requer a concessão de liminara fim de que seja revogado o decreto de prisão preventiva e expedido alvará de soltura ou para que seja imposta medida cautelar diversa, a saber, monitoração eletrônica, conforme o art. 319, IX, do Código de Processo Penal.
+O pedido de liminar foi indeferido, nos termos da decisão defls. 35-36.
+As informações foram prestadas às fls. 43-45 e 56-57.
+O Ministério Público Federal manifestou-se pela denegação da ordem(fls. 62-63).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 18-21, destaquei):
+Registra que embora anteriormente o magistrado da origem tenha reconhecido que o recorrido representava perigo à ordem pública, ainda assim decidiu por revogar sua prisão preventiva, devendo este ser posto em liberdade ainda que não houvesse tornozeleira eletrônica disponível.
+Entende que a decisão tem o condão de pôr em risco a sociedade pela colocação em liberdade do acusado, haja vista que responde a outros processos criminais, pelo que se depreende ser indivíduo de elevado grau de periculosidade e significativa reprovabilidade de seu comportamento.
+ ..
+Ademais, inobstante as convicções pessoais do magistrado singular quanto a liberação hostilizada, fato é que, em princípio, a segregação cautelar do denunciado atende aos requisitos da norma de regência, que prevê a possibilidade de prisão cautelar para crimes cuja pena privativa de liberdade máxima cominada seja superior a quatro anos (artigo 313,inciso I, do Código de Processo Penal), além de estar a se tratar de indivíduo que comprovadamente possui inclinação à reiteração delituosa, com vasto histórico criminal, circunstância indicativa de que a prisão é fator de garantia da ordem pública por evitar que ele reitere na prática criminosa, conforme justificado na reavaliação sobre a prisão do mesmo, em 17.06.2020, (evento 98 dos autos de origem).
+Posto isso, voto por dar provimento ao presente Recurso em Sentido Estrito, para reformar a decisão recorrida, a fim de restaurar o decreto preventivo em desfavor do recorrido, com fundamento no artigo 312, caput, do Código de Processo Penal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+No que diz respeito ao excesso de prazo para a tramitação do processo, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, neste ponto, owrit não merece conhecimento.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
