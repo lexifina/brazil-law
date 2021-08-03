@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor PAULO RENATO DA SILVA SANTANA contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro (Apelação Criminal n. 0259169-96.2018.8.19.0001) assim ementado (fl. 14):
+APELAÇÃO CRIMINAL. DIREITO PENAL. FURTO SIMPLES. CRIME CONSUMADO. REVELIA. REINCIDÊNCIA. CONDENAÇÃO. CRIME DE BAGATELA. PRINCÍPIO DA INSIGNIFICÂNCIA. AUSÊNCIA DE PROVAS. ABSOLVIÇÃO DO ACUSADO. REVISÃO DA PENA.
+Subtração de botijão de gás e escada de alumínio articulada, praticada em condomínio de casas. Apossamento pacifico da res furtiva, escapando da esfera de vigilância. Crime consumado. Furtador fotografado com os objetos subtraídos. Acionamento da polícia militar. Prisão em flagrante realizada. Autoria dos fatos e materialidade delitiva fartamente comprovadas. Res furtivae recuperada. Intenção manifesta de subtrair para si ou para outrem externada na conduta do agente. Revelia. Relatos dos policiais firmes e coesos. Prova robusta. Juízo de censura mantido. Condenação acertada. Dosimetria. Circunstâncias judiciais favoráveis. Pena base no mínimo legal. Condenação passada em julgado caracterizadora de reincidência. Mácula que impede a concessão de benefícios e, por consequência, exige maior rigor na resposta penal. Conversão da PPL em PRD e Sursis inadmitidas. Regime prisional semiaberto. Réu solto. Detração penal inaplicável ao caso. Concessão de gratuidade a ser postulada no Juízo da Execução penal. Súmula nº74 do TJ/RJ. Prequestionamento rechaçado.
+NEGADO PROVIMENTO AO RECURSO.
+O paciente foi condenado, pela prática do crime descrito no art. 155, caput, do Código Penal, à pena de 1 ano e 2 meses de reclusão em regime inicial semiaberto.
+O impetrante aponta constrangimento ilegal na fixação do regime semiaberto para início de cumprimento da reprimenda, por ser desproporcional e fundamentada apenas na reincidência.
+Alega que o paciente estava febril, com muita tosse e dor no corpo no momento da prisão, defendendo a prisão domiciliar pela aplicação da Recomendação CNJ n. 62/2020, diante da atual situação de pandemia de covid-19.
+Requer, liminarmente e no mérito, a conversão do regime semiaberto em prisão domiciliar.
+O pedido de liminar foi indeferido (fls. 41-42).
+Prestadas as informações (fls. 46-59), o Ministério Público Federal opinou pela denegação da ordem de habeas corpus (fls. 61-63).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se identificada flagrante ilegalidade no ato judicial impugnado.
+No que diz respeito à substituição do regime prisional semiaberto por prisão domiciliar, em obediência à Recomendação CNJ n. 62/2020, a questão não foi enfrentada pela instância de origem. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Quanto à dosimetria da pena, o Juízo a quovalorou as circunstâncias judiciais favoravelmente ao paciente e fixou a pena-base no mínimo legal, em1 ano de reclusão e em 10 dias-multa. Verificada a reincidência, aumentou a pena para 1 ano e 2 meses de reclusão e 11 dias-multa, tornando-a definitiva em razão da inexistência de causas de aumento ou de diminuição. Estabeleceu o regime semiaberto para início de cumprimento da pena.
+O Tribunal de origem manteve o regime fixado na sentença "na forma do disposto no artigo 33, §§ 2º, "b"e 3º,Código Penal" (fl. 23).
+Na fixação do regime inicial de cumprimento da pena, deve o julgador, nos termos dos arts. 33, §§ 1º, 2º e 3º, e 59 do Código Penal, observar a quantidade de pena aplicada, a primariedade do agente e a existência de circunstâncias judiciais desfavoráveis.
+Ademais, dispõe a Súmula n. 269 do STJ que "é admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais".
+Assim, no presente caso, não obstante as circunstâncias judiciais terem sido favoráveis e a pena-base ter sido fixada no mínimo, diante da pena definitiva de 1 ano e 2 meses de reclusão, é cabível a fixação do regime semiaberto na hipótese em que constatada a reincidência do apenado.
+Vejam-se julgados que tratam da questão:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. REGIME INICIAL SEMIABERTO. MODO MAIS GRAVOSO JUSTIFICADO. REINCIDÊNCIA. PENA-BASE FIXADA NO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 269/STJ. INCIDÊNCIA. INSURGÊNCIA DESPROVIDA.
+1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime inicial não está atrelada, de modo absoluto, ao quantum da pena corporal firmada, devendo-se considerar as demais circunstâncias do caso.
+2. Nos termos da Súmula n. 269 deste Superior Tribunal de Justiça, "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a 4 (quatro) anos se favoráveis as circunstâncias judiciais".
+3. Na espécie, conquanto a reprimenda fixada seja inferior a 4 anos de reclusão e a pena-base tenha sido estabelecida no mínimo legal, a existência de condenação anterior, apta à caracterização da reincidência, justifica o modo semiaberto determinado.
+4. Agravo regimental desprovido. (AgRg no AREsp n. 1.591.889/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 19/12/2019.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CRIME CONTRA LICITAÇÃO. REGIME PRISIONAL SEMIABERTO. RÉU REINCIDENTE. LEGALIDADE. SUBSTITUIÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar que a reincidência é fundamento adequado e suficiente para justificar a adoção de regime inicial de cumprimento de pena mais gravoso.
+2. Aplica-se o regime prisional semiaberto ao réu reincidente condenado a reprimenda inferior a 4 anos de reclusão, se consideradas favoráveis as circunstâncias judiciais previstas no art. 59 do Código Penal (Súmula n. 269 do STJ). Inviável a substituição quando demonstrada ser insuficiente para reprovação do delito, à vista da própria reincidência do acusado.
+3. Agravo regimental não provido. (AgRg no HC n. 531.852/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 11/12/2019.)
+Não se verifica, pois, flagrante ilegalidade a ensejar a concessão da ordem de habeas corpus de ofício.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
