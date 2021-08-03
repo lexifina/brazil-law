@@ -1,0 +1,33 @@
+DECISÃO
+Vistos etc.
+Trata-se de reclamação apresentada por ANA MARIA DE OLIVEIRA RIBEIRO contra decisão da 3ª Vice- Presidência do Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 784/785) que não conheceu, por manifesta inadmissibilidade, do agravo em recurso especial interposto com base no art. 1.042 do CPC que, por sua vez, foi apresentado em face de decisão que negou seguimento a recurso especial interposto contra acórdão prolatado pelo Órgão Especial do TJRJ no julgamento do agravo interno interposto contra decisão da mesma 3ª Vice-Presidência que, denegando anterior recurso extraordinário interposto pela ora reclamante, aplicou a sistemática dos recursos repetitivos (CPC, art. 1.030, I) e negou seguimento ao recurso.
+Em suas razões, a reclamante aduziu, em síntese, que "tal decisão Flagrantemente Ilegal e Teratológica, age como se estivéssemos diante de caso onde se nega seguimento a Recurso Especial sob o fundamento de aplicação do Regime de julgamento de recursos repetitivos, quando na verdade a decisão objeto de Agravo no Recurso Especial se baseia, consoante acima já referido, em entendimento acerca da ausência de jurisdição com suposto azo no Art. 1.030, § 2º do CPC" (e-STJ, fl. 7).
+Referiu ainda, com fundamento na súmula 727/STF e art. 1.042, § 4º, do CPC, a competência do STJ para a realização do juízo de admissibilidade do agravo em recurso especial interposto.
+Pleiteou a concessão de liminar para que seja determinada a suspensão do processo em curso no Tribunal de origem.
+Requereu, ao final, que "seja ao final julgada procedente a presente Reclamação, de forma que seja determinado o seguimento do Agravo em Recurso Especial para o STJ" (e-STJ, fl. 33).
+Por meio da decisão de fls. 798/800 (e-STJ), indeferi o pedido de liminar, determinando, todavia, o processamento da reclamação.
+Em face desse decisum, a reclamante opôs embargos de declaração às fls. 823/831 (e-STJ), não impugnado (e-STJ, fl. 835).
+A autoridade reclamada prestou informações às fls. 806/822 (e-STJ) e a parte interessada apresentou contestação às fls. 837/840 (e-STJ), postulando a improcedência do pedido e a condenação da reclamante em litigância de má-fé.
+O Ministér io Público Federal opinou pelo não conhecimento da reclamação (e-STJ, fls. 845/848).
+É o relatório. Decido.
+A presente reclamação não pode ser conhecida.
+Nos termos do que dispõe os arts. 105, I, f, da Constituição Federal e 187 do RISTJ, "a reclamação, em razão de sua natureza incidental e excepcional, destina-se a preservação da competência e garantia da autoridade dos julgados somente quando objetivamente violados, não podendo servir como sucedâneo recursal para discutir o teor da decisão hostilizada" (AgRg na Rcl 6.199/SP, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe de 19/12/2011).
+Nesse mesmo sentido, os seguintes julgados: AgRg na PET na Rcl 9.615/MG (Rel. Ministro GILSON DIPP, CORTE ESPECIAL, DJe de 12/06/2013) e AgRg na Rcl 10.126/SP (Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, DJe de 15/04/2013).
+O Código de Processo Civil de 2015, por sua vez, ao regulamentar o instituto, explicita o seu cabimento nas seguintes hipóteses:
+Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+I - preservar a competência do tribunal;
+II - garantir a autoridade das decisões do tribunal;
+III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei 13.256, de 2016)
+IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência; (Redação dada pela Lei 13.256, de 2016)
+No caso, pretende-se com a reclamação a reforma de decisão da 3ª Vice- Presidência do Tribunal de Justiça do Estado do Rio de Janeiro (e-STJ, fls. 784/785) que não conheceu, por manifesta inadmissibilidade, do agravo em recurso especial interposto com base no art. 1.042 do CPC que, por sua vez, foi apresentado em face de decisão que negou seguimento a recurso especial interposto contra acórdão prolatado pelo Órgão Especial do TJRJ no julgamento do agravo interno interposto contra decisão da mesma 3ª Vice-Presidência que, denegando anterior recurso extraordinário interposto pela ora reclamante, aplicou a sistemática dos recursos repetitivos (CPC, art. 1.030, I) e negou seguimento ao recurso.
+Ora, ainda que dirigida imediatamente contra decisão que inadmitiu agravo em recurso especial, a decisão combatida incialmente pela reclamante, e que desencadeou a interposição do agravo interno, do recurso especial e do referido agravo em recurso especial, refere-se a negativa de seguimento do recurso extraordinário nos termos do art. 1.030, I, do CPC (e-STJ, fls. 597/601).
+Nessa linha, o Superior Tribunal de Justiça não detém competência para apreciar a presente reclamação (art. 105, I, f, da CF), pois, em última análise, ela não trata de preservação competência desta Corte Superior ou da garantia da autoridade de suas decisões, mas envolve discussão acerca de matéria constitucional relativa à inadmissibilidade do recurso extraordinário no Tribunal local. Assim, o conhecimento da reclamação certamente ocasionaria a usurpação de competência do Supremo Tribunal Federal.
+Há de se considerar, ainda, a precisa e oportuna jurisprudência listada nas informações apresentadas pela Des. Elisabete Dilizzola, Terceira Vice-Presidente do TJRJ, corroborando, inclusive, a negativa de seguimento (DJe de 22/03/2021), pelo Pretório Excelso, e posterior aplicação de multa (art. 1.021, § 4º, do CPC) no julgamento do respectivo agravo interno (DJe de 13/05/2021) na Rcl 43.570, também manejada pela ora reclamante contra a mesma decisão que originou a presente reclamação.
+Por fim, indefiro o pedido formulado pela parte interessada quanto à aplicação de multa por litigância de má-fé, tendo em vista o não conhecimento da reclamação em razão da incompetência desta Corte para sua apreciação.
+Ante o exposto, não conheço da reclamação, com a advertência de que a apresentação de incidentes manifestamente improcedentes ou protelatórios estará sujeita às penalidades legalmente previstas.
+Julgo prejudicada a apreciação dos embargos de declaração opostos às fls. 823/831 (e-STJ).
+Comunique-se a autoridade indicada como reclamada acerca da presente decisão.
+Intimem-se.
+EMENTA
+RECLAMAÇÃO. PROCESSUAL CIVIL. HIPÓTESES DE CABIMENTO: PRESERVAÇÃO DE COMPETÊNCIA OU DESRESPEITO À AUTORIDADE DE DECISÃO ESPECÍFICA DESTA CORTE. INCOMPETÊNCIA DO STJ PARA APRECIAR DISCUSSÃO RELATIVA À INADMISSIBILIDADE DE RECURSO EXTRAORDINÁRIO NO TRIBUNAL DE ORIGEM. ART. 105, I, "F", DA CF.
+RECLAMAÇÃO NÃO CONHECIDA.
