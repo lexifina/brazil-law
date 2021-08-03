@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ALEXANDRE DOS SANTOS SOUZA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido noAgravo de Execução Penal n.0010251-04.2020.8.26.0996.
+Colhe-se nos autos que o Paciente cumpre pena de 19 (dezenove) anos, 8 (oito) meses e 12 (doze) dias de reclusão, em regime inicial fechado, pela prática de dois delitos de roubo, um deles circunstanciado, e porte ilegal de arma de fogo de uso restrito, com término de cumprimento previsto para o dia 27/01/2036.
+Nos autos da Execução da Pena n.0010044-28.2018.8.26.0041, o Reeducando formulou pedido de progressão ao regime semiaberto, que foi indeferido pelo Juízo das Execuções Penais, por ausência de preenchimento do requisito subjetivo.
+Irresignado, interpôs agravo em execução, ao qual o Tribunal de origem negou provimento.
+Nestewrit, a parte Impetrante alega, em síntese, que "a gravidade abstrata do delito e a duração da pena não podem ser invocadas como óbices à promoção de regime" (fl. 7).
+Sustenta que, " e m relação às faltas graves, é certo que o decurso do tempo conduz à reabilitação da conduta carcerária do apenado. Não é aceitável que uma falta de natureza grave cometida há muito tempo ainda seja admitida para macular todo o histórico prisional do apenado" (fl. 7).
+Requer, em liminar e no mérito, seja deferido ao Paciente o regime semiaberto.
+Deferi parcialmente o pedido liminar às fls. 82-85.
+Foram prestadas informações.
+Parecer do Ministério Público Federal às fls. 97-100, pelo não conhecimento.
+É o relatório. Decido.
+O Juízo da Execuções Criminais indeferiu o pedido de progressão ao regime semiaberto formulado pelo Paciente mediante a fundamentação a seguir transcrita (fls. 44-45):
+"A pretensão é improcedente.
+A despeito do cumprimento do requisito objetivo, o sentenciado não reúne méritos subjetivos para alcançar a progressão e possui considerável pena por cumprir, conforme cálculo de liquidação de penas.
+Outrossim, o sentenciado possui histórico prisional desfavorável eis que já cometeu delitos da mesma natureza, evidenciando a ausência de senso de responsabilidade e a inadequação à terapêutica penal aplicada.
+E mais. A reiteração da conduta demonstra a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando.
+Sendo que diante da situação específica do sentenciado apesar do atestado de bom comportamento carcerário não se pode dizer somente com base nele que está preenchido o requisito subjetivo pois os delitos cometidos pelo sentenciado demonstram com fatos concretos que ainda não desenvolveu meios próprios de autocensura.
+Diante do exposto, por ora, INDEFIRO a promoção do sentenciadoALEXANDRE DOS SANTOS SOUZA, RG: 59547953, RJI: 170305992-88, recolhido no(a) Penitenciária "ASP Adriano Aparecido de Pieri"de Dracena, ao regime semiaberto."
+O Tribunal de origem, por sua vez, manteve a decisão de primeiro grau fundado nas seguintes razões (fls. 65-68):
+"O agravante cumpre pena de 19 (dezenove) anos, 8 (oito) meses e 12 (doze) dias de reclusão, em regime fechado, pela prática de dois delitos de roubo, um deles majorado, e porte ilegal de arma de fogo de uso restrito, com término da expiação previsto para 27.1.2036 (fls. 23/26).
+Ou seja, ainda tem pouco mais de 15 (quinze) anos de pena por cumprir.
+Data vênia, prematura, pois, a concessão da progressão ao sentenciado, porquanto condenado pela prática de crimes revestidos das elementares de violência e grave ameaça contra a pessoa, minudência que demonstra, a esta altura pelo menos, possível despreparo para progredir ao regime semiaberto, o que poderia, em tese, colocar em risco a sociedade e o processo ressocializador.
+Destarte, a fim de se comprovar o grau de periculosidade do condenado, que praticou crimes graves, entendo conveniente para a espécie a oportuna determinação da realização de exame criminológico, estudo capaz de demonstrar à saciedade o mérito para eventual promoção prisional.
+A concessão de eventual progressão de regime necessita de uma análise mais acurada sobre o seu mérito, diante das circunstâncias acima mencionadas.
+Vale dizer, para a obtenção do benefício nos casos de crimes graves, como o dos autos, entendo ser necessário o prévio parecer ou laudo da Comissão Técnica de Classificação, a fim de que haja elementos suficientes para o deferimento da medida e acerto da decisão.
+Realmente, para que seja concedido o benefício ao ora recorrente, importante observar, se este, após permanecer em estabelecimento prisional com maior rigor, absorveu a terapêutica penal, adquirindo responsabilidade e condições de adaptação ao regime mais suave.
+Destarte, tendo mais liberdade, se o sentenciado não tiver autodisciplina, poderá novamente delinquir, prejudicando todo o seu trabalho de reinserção social que vem sendo desenvolvido."
+Embora tenha considerado a gravidade dos crimes e a longa pena a cumprir do Paciente, o Juiz de primeiro grau não declinou elementos concretos e individualizados, ocorridos durante o cumprimento da pena, que apontassem desabono ou demérito do Apenado.
+Ocorre que o Superior Tribunal de Justiça "pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal" (HC 444.132/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/05/2018, DJe 30/05/2018; sem grifos no original).
+Dessa forma, não obstante a motivação consignada, esta Corte considera que a hediondez ou a gravidade abstrata dos delitos cometidos, ou ainda a longa pena a cumprir, não são argumentos idôneos para impedir a progressão de regime carcerário. A propósito, destaco os seguintes julgados:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DEFERIMENTO PELO JUÍZO DAS EXECUÇÕES. CASSAÇÃO PELA CORTE DE ORIGEM. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. PRECEDENTES.
+1. Na hipótese, o Tribunal a quo entendeu pela necessidade de realização de exame criminológico, em razão da reincidência do apenado, da gravidade abstrata do delito (roubo) e da longa pena a cumprir. Todavia, nos termos da jurisprudência desta Corte Superior, fundamentos abstratos e genéricos, como os apresentados pela Corte de origem, não justificam a exigência de exame criminológico, bem como a análise do preenchimento do requisito subjetivo somente poderá fundar-se em fatos praticados durante a execução penal.
+2. Agravo regimental improvido." (AgRg no HC 590.322/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/08/2020, DJe 24/08/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. TRIBUNAL DE ORIGEM QUE NÃO DECLINOU ELEMENTOS CONCRETOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA QUE APONTASSEM O DEMÉRITO DO REEDUCANDO. REQUISITOS OBJETIVO E SUBJETIVO PARA A PROGRESSÃO DE REGIME PRISIONAL CONFIGURADOS. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça tem firme entendimento de que a hediondez ou a gravidade abstrata dos delitos pelos quais o Reeducando foi condenado, ou ainda a longa pena a cumprir, não são argumentos idôneos para impedir a progressão de regime carcerário - mesmo que condicionada à confecção de exame criminológico.
+2. No caso, embora a jurisdição ordinária tenha ressaltado a gravidade do crime praticado, não declinou elementos concretos e individualizados, ocorridos durante o cumprimento da pena, que apontassem desabono ou demérito do Sentenciado.
+3. Agravo regimental desprovido." (AgRg no HC 558.778/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 02/06/2020, DJe 15/06/2020.)
+Ante o exposto, CONCEDO PARCIALMENTE a ordem de habeas corpuspara ratificar a decisão liminar em que determinei ao Juiz das Execuções Criminais que, incontinenti,prosseguisse aanálise do pedido de progressão de regime prisional como entendessede direito,fundado tão somente em circunstâncias fáticas ocorridas concretamente durante o cumprimento da pena.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. NÃO RECONHECIMENTO DO REQUISITO SUBJETIVO PARA A PROGRESSÃO DE REGIME CARCERÁRIO. FUNDAMENTAÇÃO INIDÔNEA. AUSÊNCIA DE ELEMENTOS CONCRETOS OCORRIDOS DURANTE O CUMPRIMENTO DA PENA QUE APONTASSEM DESABONO OU DEMÉRITO DO PACIENTE. LIMINAR RATIFICADA. ORDEM DEHABEAS CORPUSPARCIALMENTECONCEDIDA.
