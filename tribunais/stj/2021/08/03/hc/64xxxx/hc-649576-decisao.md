@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JEAN DE OLIVEIRA SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2192447-83.2020.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva (fls. 31-34) e foi denunciado (fls. 40-43) pela suposta prática dos delitos previstos no art. 121, § 2º, II e IV, na forma tentada.
+O decreto prisional fundou-se na necessidade de assegurar a conveniência da instrução criminal, bem como na gravidade concreta da conduta.
+Impetradowrit na origem, o Tribunal denegou a ordem, pois considerou estarem preenchidos os requisitos autorizadores da custódia cautelar, além de destacarsua necessidade para garantia da ordem pública e para aplicação da lei penal.
+A defesa alega estar o paciente sofrendo constrangimento ilegal, pois não estão presentes os requisitos da prisão preventiva, uma vez que carece o decreto prisional de fundamentação idônea.
+Aduz ostentar o paciente condições pessoais favoráveis, sendo cabível a substituição da segregação preventiva por medidas cautelares alternativas (art. 319 do CPP).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e, alternativamente, sua substituição pelas medidas cautelares diversas previstas no art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 53-54.
+O Ministério Público Federal manifestou-se pelo não conhecimento dohabeas corpus (fls. 103-107).
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo:
+Ademais, os fatos foram concretamente graves, sendo que o paciente, em tese, teria concorrido na prática do crime de homicídio duplamente qualificado tentado, destacando que a vítima sofreu perfurações pelo corpo, laceração profunda na face e olho, bem como evisceração intestinal.
+Além disso, a vítima ainda não foi ouvida porquanto ficou internada em estado grave, de forma que, em liberdade, o paciente poderia intimidá-la. Cumpre destacar, ainda, que JEAN teria se evadido da cidade.
+Dessa forma,não se constata ilegalidade na prisãopreventiva para a garantia da ordem pública, para a conveniência da instrução criminal e para a aplicação da lei penal.
+Consequentemente, as medidas cautelares alternativas não seriam suficientes e adequadas à hipótese (art. 282, I e II, do CPP), bem como perde relevância a existência de predicados pessoais favoráveis.
+Tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+O Tribunal de origem entendeu que eventuais condições subjetivas favoráveisdo paciente, tais como primariedade, residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ, conforme os seguintes julgados:AgRgno HC n. 585.571/GO, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 8/9/2020; eRHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta TurmaDJede 2/9/2020.
+Ademais, oentendimento supracitado está em consonância com a jurisprudência do STJ de que não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+Ante o exposto, com base no art. 34, XX, do RISTJ, não conheço dohabeas corpus.
+Publique-se. Intimem-se.
