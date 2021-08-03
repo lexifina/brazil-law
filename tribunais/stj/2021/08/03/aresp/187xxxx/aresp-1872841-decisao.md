@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo manejado por DARCY BITTENCOURT, contra decisão da Vice-Presidência do Tribunal Regional Federal da 3ª Região, que não admitiu recurso especial com base nos seguintesfundamentos (fls. 235/237):
+O recurso não merece admissão.
+Acerca da alegação de eventual ofensa à lei federal e de inocorrência da prescrição da pretensão executória, a decisão recorrida assim fundamentou, consoante ementa:
+(..).
+No mais, o acórdão recorrido está em sintonia com o entendimento dominante no âmbito do Superior Tribunal de Justiça, firmado no sentido de não ser possível, em sede de execução, alegar matéria que não fora oportunamente suscitada e discutida no processo de conhecimento, em razão da preclusão e da coisa julgada. Nesse sentido:
+(..).
+Portanto, não merece prosperar a pretensão recursal por ressair evidente o anseio da recorrente pelo reexame dos fatos e provas dos autos, o que não se compadece com a natureza do recurso especial, consoante o enunciado da súmula nº 7, do colendo Superior Tribunal de Justiça, :in verbis:
+(..).
+Por conseguinte, não restaram demonstradas as hipóteses exigidas constitucionalmente, para que o colendo Superior Tribunal de Justiça seja chamado a exercer as suas elevadas funções de preservação da inteireza positiva da legislação federal, tornando-se prejudicada a formulação de juízo positivo de admissibilidade.
+Ante o exposto, o recurso especial
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De plano, verifica-se que o inconformismo nem sequer ultrapassa a barreira
+do conhecimento, pois a parte agravante deixou de impugnar a totalidadedos motivos adotados pelo Tribunal de origem para negar trânsito ao apeloespecial.
+No caso, as razões de agravo, deixoude rebater, de modo específico, o fundamento segundo o qual "acórdão recorrido está em sintonia com o entendimento dominante no âmbito do Superior Tribunal de Justiça, firmado no sentido de não ser possível, em sede de execução, alegar matéria que não fora oportunamente suscitada e discutida no processo de conhecimento, em razão da preclusão e da coisa julgada",fundamento autônomo e suficiente para manutenção dadecisão agravada, o que atrai a incidência da Súmula 182 desta Corte ("Éinviável o agravo do artigo 545 do CPC que deixa de atacar especificamenteos fundamentos da decisão recorrida").
+Nesse sentido, anotem-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIADE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA182/STJ.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, napetição do seu agravo interno, impugnar especificamente os fundamentos dadecisão agravada, o que, na hipótese dos autos, não foi atendido.
+2. Para afastar a incidência da Súmula 182/STJ, não basta que o recorrentetenha explicitado, de maneira genérica, a desnecessidade do reexame dasprovas dos autos para a análise da tese suscitada no apelo nobre. Faz-senecessário que o agravante, analiticamente, contraste as conclusões doacórdão combatido com os fundamentos da decisão de inadmissibilidade dorecurso especial, demonstrando que, na situação dos autos, a Súmula 7/STJfoi aplicada indevidamente. Isso contudo não ocorreu, devendo ser mantidaa decisão que aplicou o óbice da Súmula 182/STJ.
+3. Agravo interno não conhecido.
+(AgInt no AREsp 1.070.028/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA,julgado em 17/10/2017, DJe 20/10/2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO. FUNDAMENTOS DA DECISÃO AGRAVADA.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. ART. 1.021, §§ 1º E 3º, DO CPC/2015 ESÚMULA 182/STJ.
+1. Uma das principais mudanças de paradigma trazidas pelo Código deProcesso Civil/2015 diz respeito a uma maior exigência de motivação dasdecisões judiciais. Em especial, quanto ao julgamento do Agravo Interno, oart. 1.021, § 3º, do novo diploma adjetivo dispõe que "É vedado ao relatorlimitar-se à reprodução dos fundamentos da decisão agravada para julgarimprocedente o agravo interno".
+2. Ocorre que, não raro, a parte sucumbente interpõe Agravo Interno tãosomente repetindo os argumentos já aduzidos no apelo indeferidomonocraticamente. Nessa hipótese, à primeira vista, poderia ter-se a ideiade que o Magistrado deveria fazer uso da sua criatividade para adotarnovos fundamentos em face de argumentos repetidos.
+3. Entretanto, não foi esse o intento do legislador. Em contrapartida àimpossibilidade de o relator limitar-se à reprodução dos fundamentos dadecisão agravada, ficou estabelecido no art. 1.021, § 1º, do novo Codexque, "Na petição de agravo interno, o recorrente impugnaráespecificadamente os fundamentos da decisão agravada".
+4. Em busca do aperfeiçoamento do sistema processual pátrio, o legisladorinstituiu como peças de uma mesma engrenagem tanto a obrigação do julgadorde explicitar de forma particularizada as razões que ensejaram a prolaçãodo provimento jurisdicional quanto o ônus da parte recorrente de impugnarespecificadamente os fundamentos da decisão atacada.
+5. In casu, a parte agravante limitou-se basicamente a reiterar as razõesdo Recurso Especial, alegando, de forma genérica, a ocorrência de violaçãodos arts. 20, § 3º, e 535 do CPC/1973 (1.022 do CPC/2015) e a nãoincidência da Súmula 7/STJ, sem contrapor especificadamente os fundamentosque dão supedâneo ao decisum hostilizado.
+6. A ausência de impugnação específica faz incidir na espécie a Súmula182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacarespecificamente os fundamentos da decisão agravada"), que está emconsonância com a redação atual do CPC em seu art. 1.021, § 1º.
+7. Agravo Interno não conhecido.
+(AgInt no AREsp 933.639/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA,julgado em 10/11/2016, DJe 29/11/2016)
+Convém ressaltar que essa foi a linha de entendimento confirmada pelaCorte Especial do STJ, na assentada de 19 de setembro de 2018, ao julgar oEAREsp 701.404/SC e o EAREsp 831.326/SP, posição que passo a adotar.
+A propósito, vale a transcrição das ementas dos referidos julgamentos:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OSFUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973.ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente aeleição dos fundamentos objeto de sua insurgência, nos termos do art. 514,II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastadaquando houver expressa e específica disposição legal em sentido contrário,tal como ocorria quanto ao agravo contra decisão denegatória deadmissibilidade do recurso especial, tendo em vista o mandamentoinsculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator"não conhecer do agravo manifestamente inadmissível ou que não tenhaatacado especificamente os fundamentos da decisão agravada" - o que foireiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo aapreciação dos pressupostos de admissibilidade recursal. Seu dispositivo éúnico, ainda quando a fundamentação permita concluir pela presença de umaou de várias causas impeditivas do julgamento do mérito recursal, uma vez
+que registra, de forma unívoca, apenas a inadmissão do recurso. Não há,pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem comoparâmetro inafastável a sua parte dispositiva, e não a fundamentação comoum elemento autônomo em si mesmo, ressoando inequívoco, portanto, que adecisão agravada é incindível e, assim, deve ser impugnada em suaintegralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpreregistrar que o posicionamento ora perfilhado encontra exceção na hipóteseprevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravocontra decisão do Tribunal a quo que inadmitir o recurso especial, combase na aplicação do entendimento consagrado no julgamento de recursorepetitivo, quando então será cabível apenas o agravo interno na Corte deorigem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 701.404/SC, Rel. para Acórdão Ministro Luis Felipe Salomão, DJe
+20/11/2018)
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OSFUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973.ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente aeleição dos fundamentos objeto de sua insurgência, nos termos do art. 514,II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastadaquando houver expressa e específica disposição legal em sentido contrário,tal como ocorria quanto ao agravo contra decisão denegatória deadmissibilidade do recurso especial, tendo em vista o mandamentoinsculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator"não conhecer do agravo manifestamente inadmissível ou que não tenhaatacado especificamente os fundamentos da decisão agravada" - o que foireiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo aapreciação dos pressupostos de admissibilidade recursal. Seu dispositivo éúnico, ainda quando a fundamentação permita concluir pela presença de umaou de várias causas impeditivas do julgamento do mérito recursal, uma vez
+que registra, de forma unívoca, apenas a inadmissão do recurso. Não há,pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem comoparâmetro inafastável a sua parte dispositiva, e não a fundamentação comoum elemento autônomo em si mesmo, ressoando inequívoco, portanto, que adecisão agravada é incindível e, assim, deve ser impugnada em suaintegralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpreregistrar que o posicionamento ora perfilhado encontra exceção na hipóteseprevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravocontra decisão do Tribunal a quo que inadmitir o recurso especial, combase na aplicação do entendimento consagrado no julgamento de recursorepetitivo, quando então será cabível apenas o agravo interno na Corte deorigem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 831.326/SP, Rel. para Acórdão Ministro Luis Felipe Salomão, DJe
+20/11/2018)
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço doagravo.
+Em tempo, retifique-se a autuaçãopara que conste, AREsp 1.872.841/SP e não, AREsp 1.872.841/RJ,tendo em vista que setratade decisão de juízo de admissibilidade proveniente do TRF da 3ª Região, conforme fls. 235/238 dos autos.
+Publique-se.
