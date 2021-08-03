@@ -1,0 +1,37 @@
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE TUTELA PROVISÓRIA. PERDA DO OBJETO. ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE NA MANUTENÇÃO DA DETERMINAÇÃO DE SUSPENSÃO DO JULGAMENTO DA APELAÇÃO. RELAÇÃO DE PREJUDICIALIDADE RECONHECIDA NO PROCESSO PRINCIPAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Embargos de Declaração opostos contra acórdão que julgou prejudicado o Pedido de Tutela Provisória, ante o julgamento do mérito do Agravo no Recurso Especial n. 1.097.405/SP.
+2. A parte embargante alega persistir o interesse na suspensão do julgamento da Apelação enquanto pendente o julgamento dos Embargos de Declaração no Agravo de Instrumento em que se discute matéria probatória.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, apreciado o recurso cujo efeito suspensivo se buscou garantir, verifica-se a superveniente perda do objeto do Pedido de Tutela Provisória. No caso concreto, há expressa referência, no voto vencedor proferido no Agravo no Recurso Especial n. 1.097.405/SP, à relação de prejudicialidade entre o resultado do julgamento dos Embargos de Declaração no Agravo de Instrumento e a sentença, sendo desnecessária, portanto, ordem de suspensão do julgamento da Apelação enquanto pendente o julgamento dos Aclaratórios.
+4. Embargos de Declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Segunda Turma do Superior Tribunal de Justiça: ""A Turma, por unanimidade, rejeitou os embargos de declaração, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a)." Os Srs. Ministros Og Fernandes, Mauro Campbell Marques, Assusete Magalhães e Francisco Falcão votaram com o Sr. Ministro Relator."
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator) : Cuida-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ assim ementado:
+PROCESSUAL CIVIL. PEDIDO DE CONCESSÃO DE TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO SUSPENSIVO A AGRAVO EM RECURSO ESPECIAL. POSTERIOR JULGAMENTO DO RECURSO PRINCIPAL. PERDA DE OBJETO.
+1. Entende-se que o pedido de tutela de urgência com o fim de atribuir efeito suspensivo ao agravo no recurso especial se encontra prejudicado, por perda de objeto, em virtude do julgamento do Agravo no Recurso Especial n. 1.097.405/SP, ocorrido nesta mesma sessão de julgamento, para dar-lhe provimento.
+2. Com efeito, segundo a jurisprudência desta Corte Superior, apreciado o recurso cujo efeito suspensivo se buscou garantir, verifica-se a superveniente perda do objeto da medida cautelar, sendo, inclusive, desnecessário o trânsito em julgado ou mesmo a confirmação no órgão colegiado.
+3. Nesse sentido, vários são os julgados proferidos pelo Superior Tribunal de Justiça: AgInt na TP 304/RJ, de minha relatoria, Segunda Turma, DJe 23/6/2017; AgRg na TP 11/SP, Rel. Min. Nefi Cordeiro, Sexta Turma, DJe 30/5/2017; AgRg na TP 91/SP, Rel. Min. Maria Thereza de Assis Moura, Sexta Turma, DJe 11/5/2017; AgInt na TutPrv no REsp 1.578.155/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 13/10/2016; AgRg na MC 25.363/SP, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 13/9/2016; e AgRg na MC 20.112/AM, Rel. Min. João Otávio de Noronha, Corte Especial, DJe 26/6/2013.
+4. Pedido de tutela provisória prejudicado.
+Nas razões dos Aclaratórios (fls. 1841-1845, e-STJ), a embargante defende que o Pedido de Tutela Provisória não está prejudicado, pois persistiria o interesse na determinação do sobrestamento do julgamento da apelação enquanto não julgado o Agravo de Instrumento envolvendo a matéria probatória.
+Impugnação às fls. 1849-1851, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO DE TUTELA PROVISÓRIA. PERDA DO OBJETO. ALEGAÇÃO DE EXISTÊNCIA DE INTERESSE NA MANUTENÇÃO DA DETERMINAÇÃO DE SUSPENSÃO DO JULGAMENTO DA APELAÇÃO. RELAÇÃO DE PREJUDICIALIDADE RECONHECIDA NO PROCESSO PRINCIPAL. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Embargos de Declaração opostos contra acórdão que julgou prejudicado o Pedido de Tutela Provisória, ante o julgamento do mérito do Agravo no Recurso Especial n. 1.097.405/SP.
+2. A parte embargante alega persistir o interesse na suspensão do julgamento da Apelação enquanto pendente o julgamento dos Embargos de Declaração no Agravo de Instrumento em que se discute matéria probatória.
+3. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, apreciado o recurso cujo efeito suspensivo se buscou garantir, verifica-se a superveniente perda do objeto do Pedido de Tutela Provisória. No caso concreto, há expressa referência, no voto vencedor proferido no Agravo no Recurso Especial n. 1.097.405/SP, à relação de prejudicialidade entre o resultado do julgamento dos Embargos de Declaração no Agravo de Instrumento e a sentença, sendo desnecessária, portanto, ordem de suspensão do julgamento da Apelação enquanto pendente o julgamento dos Aclaratórios.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator) : Os autos foram recebidos neste Gabinete em 31/5/2021.
+No Agravo em Recurso Especial 1.097.405, ao qual se encontra vinculado o Pedido de Tutela Provisória em análise, esta Corte reconheceu a prejudicialidade entre a questão probatória e a decisão de mérito.
+Transcrevo parte do voto vista que proferi na ocasião (fl. 6491, e-STJ):
+Isto porque, em não havendo cogitar de preclusão da Decisão Interlocutória, o resultado final do julgamento do recurso subordinará a eficácia da sentença, não se podendo entender pela formação de coisa julgada material, já que o eventual provimento do recurso excepcional ensejará a anulação de todos os atos processuais ulteriores que com ele não sejam compatíveis, inclusive da própria sentença.
+Não há que se entender, portanto, pela perda superveniente do objeto recursal, uma vez que não há, na sentença, manifestação acerca dos fundamentos que conduziram à inadmissibilidade da produção de prova pericial.
+Considerando o parcial provimento do Recurso Especial, esta Corte considerou prejudicado o Pedido de Tutela Provisória 245. Extrai-se do voto do e. Ministro Og Fernandes (fl. 1826, e-STJ):
+Com efeito, segundo a jurisprudência desta Corte Superior, apreciado o recurso cujo efeito suspensivo se buscou garantir, verifica-se a superveniente perda do objeto da medida cautelar em razão da ausência do fumus boni iuris autorizador da pretensão, sendo, inclusive, desnecessário o trânsito em julgado ou mesmo a confirmação no órgão colegiado.
+Nesse sentido, vários são os julgados do Superior Tribunal de Justiça pela prejudicialidade do pedido de concessão de efeito suspensivo quando já julgado o recurso ao qual se buscava atribuí-lo.
+De fato, não há dúvida de que a jurisprudência do Superior Tribunal de Justiça é no sentido de que, apreciado o recurso cujo efeito suspensivo se buscou garantir, verifica-se a superveniente perda do objeto do Pedido de Tutela Provisória. No caso concreto, há expressa referência, no voto vencedor proferido no processo principal, à relação de prejudicialidade entre o resultado do julgamento dos Embargos de Declaração no Agravo de Instrumento e a sentença, sendo desnecessária ordem de suspensão do julgamento da Apelação enquanto pendente o julgamento dos Aclaratórios.
+Portanto, não se vislumbra omissão, contradição ou obscuridade a ensejar o acolhimento dos Aclaratórios.
+Ante o exposto, rejeito os Embargos de Declaração.
+É como voto.
