@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso especial manejado por Santo Antônio Energia S/A com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fls. 1.766/1.767):
+Processo civil. Apelação. Extinção sem mérito. Ausência de interesse de agir. Dano coletivo. Ação individual. Irrelevância. Inafastabilidade da jurisdição. Sentença nula. Erro de procedimento. Recurso provido.
+A lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito.
+A legislação oferece a opção para o jurisdicionado ingressar na ação coletiva como litisconsorte (art. 94 do CDC) ou utilizar o título executivo judicial para requerer a execução individual da sentença proferida no processo coletivo, mas não lhe retira o direito a promover ação individual para a discussão do direito subjetivo.
+Recurso provido.
+Opostos embargos de declaração, foram rejeitados (fls. 1.800/1.805).
+A parte recorrente aponta violação aos arts. 55, § 3º, 373, I, e 485, IV, do CPC; 17 e 81 do Código de Defesa do Consumidor; e 11 da Lei 9.074/95. Sustenta, em resumo, que: (I) a petição inicial deve ser indeferida por inépcia; (II) embora intimada, a parte autora não procedeu à emenda da inicial; (III) "a despeito de integrarem 30 (trinta) autores na lide, a petição inicial não sopesou a incidência dos danos morais na esfera pessoal de cada um deles" (fl. 1.946); e (IV) não há relação consumerista na espécie.
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não conhecimento do recurso especial (fls. 1.988/1.998).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, verifica-se que a insurgência não merece prosperar.
+Com efeito, a questão de fundo trazida à discussão restou assim decidida no acórdão recorrido (fls. 1.765/1.766):
+A sentença padece de erro de procedimento e deve ser reformada, na medida em que obsta o acesso dos autores à jurisdição sob o equivocado argumento de que as pretensões formuladas na inicial devem ser buscados por meio de ação coletiva.
+A Constituição Federal de 1988 prevê no artigo 5º, inciso XXXV, inserido rol de direitos e garantias fundamentais, o princípio da inafastabilidade da jurisdição, também chamado de cláusula do acesso à justiça, ou do direito de ação: "a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito".
+A necessidade do processo se faz presente, sem o qual a recorrente não conseguirá o resultado pretendido.
+Além disso, é cediço que a ação coletiva não induz litispendência ou continência para a ação individual, tampouco constitui impedimento às pretensões individuais, ainda que o dano tenha atingido uma coletividade.  ..
+Ademais, cediço que eventual futura propositura de uma ação coletiva não retira o direito individual daqueles que propuseram ações individuais, haja vista que a demanda coletiva para defesa de interesses de uma categoria convive de forma harmônica com ação individual para defesa desses mesmos interesses de forma particularizada.
+Trata-se de questão já pacificada no âmbito do STJ, segundo o qual, "a legislação dá a opção para o jurisdicionado ingressar na ação coletiva como litisconsorte (art. 94 do CDC) ou utilizar o título executivo judicial para requerer a execução individual da sentença proferida no processo coletivo, mas não lhe retira o direito a promover ação individual para a discussão do direito subjetivo". (REsp. 1722626 / RS, DJe 23/05/2018).
+Ante o exposto, voto pelo provimento do recurso para anular a sentença e determinar o retorno dos autos ao juízo de origem para o processamento da ação.
+Denota-se, pois que o Tribunal de origem, ao decidir a questão relativa ao ajuizamento da ação, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ ("É inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário"). Nesse mesmo sentido: AgInt no AREsp 1.702.175/GO, Rel. Ministro Marco Aurélio Belize, Terceira Turma, DJe 4/12/2020; AgInt no AREsp 1.642.570/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 27/11/2020.
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
