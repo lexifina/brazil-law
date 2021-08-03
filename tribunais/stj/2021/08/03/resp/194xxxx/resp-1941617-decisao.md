@@ -1,0 +1,46 @@
+DECISÃO
+Cuida-se de recurso especial interposto por Banco do Brasil S.A. contra os acórdãos de fls. 256-279 e 313-327 (e-STJ), proferidos pelo Tribunal de Justiça do Estado de Mato Grosso, assim ementados:
+AGRAVO DE INSTRUMENTO - PRELIMINAR - NÃO CONHECIMENTO DO RECURSO - OFENSA AO PRINCÍPIO DA DIALETICIDADE - REJEITADA NO MÉRITO - LIQUIDAÇÃO DE SENTENÇA POR ARBITRAMENTO - DANO MATERIAL - VALOR DOIMÓVEL RURAL OBJETO DE INDENIZAÇÃO - LAUDO TÉCNICO APRESENTADO PELA INSTITUIÇÃO BANCÁRIA - INDICAÇÃO DO VALOR QUE ENTENDE DEVIDO - MONTANTE INCONTROVERSO - CUMPRIMENTO DEFINITIVO DE SENTENÇA DO VALOR INCONTROVERSO - POSSIBILIDADE - RAZOÁVEL DURAÇÃO DO PROCESSO - SATISFAÇÃO DOS DIREITOS RECONHECIDOS PELA SENTENÇA - DECISÃO MANTIDA - RECURSO DESPROVIDO. Ainda que pendente a nomeação de perito para apuração do quantum debeatur, se a instituição bancária, em sede de liquidação de sentença, apresenta laudo técnico com o valor da indenização que entende devido, referido montante se apresenta incontroverso, o que torna possível o cumprimento definitivo de sentença em relação a tal quantia. A possibilidade de cumprimento da parte incontroversa quando ainda pendente a conclusão da liquidação de sentença alinha-se não só ao princípio da razoável duração do processo, estampado no art. 4º do CPC, bem como necessário também que a satisfação dos direitos reconhecidos pela sentença ocorra dentro de um prazo razoável.
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO  AGRAVO DE INSTRUMENTO  PRELIMINAR  NÃO CONHECIMENTO DO RECURSO  OFENSA AO PRINCÍPIO DA DIALETICIDADE  REJEITADA NO MÉRITO - LIQUIDAÇÃO DESENTENÇA POR ARBITRAMENTO  DANO MATERIAL  VALOR DO IMÓVEL RURAL OBJETO DE INDENIZAÇÃO  LAUDO TÉCNICO APRESENTADO PELA INSTITUIÇÃO BANCÁRIA - INDICAÇÃO DO VALOR QUE ENTENDE DEVIDO  MONTANTE INCONTROVERSO  CUMPRIMENTO DEFINITIVO DE SENTENÇA DO VALOR INCONTROVERSO  POSSIBILIDADE  RAZOÁVEL DURAÇÃO DO PROCESSO  SATISFAÇÃO DOS DIREITOS RECONHECIDOS PELA SENTENÇA - DECISÃO MANTIDA  RECURSO DESPROVIDO  OMISSÕES  AUSÊNCIA DE VÍCIOS  RECURSO DESPROVIDO Os embargos de declaração não se prestam ao rejulgamento ou, simplesmente, ao prequestionamento de normas jurídicas ou temas que, segundo a ótica da parte, deveriam guiar ou conduzir a solução do litígio.
+Nas razões do recurso especial (e-STJ, fls. 329-348), aponta oinsurgente a existência de violação dos arts. 141, 489, II, § 1º, IV e VI, 492, 509, 510, 513, 523 e1.022, II, parágrafo único, do CPC/2015. Sustenta, em síntese: i) ocorrência de negativa de prestação jurisdicional; ii) que o cumprimento definitivo da sentença exige o reconhecimento expresso da dívida, o que não ocorreu; iii) inexistência de pedido de conversão da liquidação em cumprimento definitivo; e vi) que não há previsão legal para pagamento em 5 (cinco) dias.
+Contrarrazões às fls. 404-426 (e-STJ).
+Admitido o processamento do recurso na origem (e-STJ, fls. 427-433), ascenderam os autos a esta Corte.
+Brevemente relatado, decido.
+Inicialmente, defende orecorrente a ocorrência de negativa de prestação jurisdicional, alegando que o Tribunal de origem foi omisso quanto aos seguintes argumentos recursais:que o reconhecimento da dívida que autoriza o cumprimento definitivo da sentença deve ser expresso; inexistência de pedido para conversão da liquidação em cumprimento definitivo; descabimento do cumprimento definitivo antes da conclusão da liquidação.
+Todavia, observa-se que o Tribunal local se manifestou satisfatoriamente sobre taisquestões.
+Veja-se às fls. 317-318 (e-STJ):
+O v. acórdão, ao manter a decisão agravada, exatamente nos pontos de irresignação destes declaratórios, entendeu que, embora a liquidação de sentença se encontrar pendente de conclusão de realização de perícia, no caso, em particular, verificou que o ora embargante, ao impugnar os valores de condenação apresentados pelos credores, ora embargados, trouxe laudo técnico no qual apresenta valor do imóvel objeto de indenização, portanto, que entende ser devido, o que autorizou a conversão da liquidação para cumprimentode sentença, desta parte tida por incontroversa, nos termos do art. 523, do CPC.
+Por seu turno, quanto ao pedido de conversão pelos credores embargados, o v. acórdão registrou que, embora não utilizada da melhor técnica, postularam pelo imediato cumprimento, nos termos do art. 523, do CPC, que trata do cumprimento definitivo de sentença.
+Assim, não assiste razão ao recorrente, quando defende a ocorrência de negativa de prestação jurisdicional, porquanto as questões consideradas omitidas foramapreciadas pelo órgão julgador, com fundamentação clara, coerente e suficiente.
+Quanto à tese de que o reconhecimento da dívida exige manifestação expressa, eis que o conteúdo normativodos dispositivos apontados como violados (509, 510, 513, 523 do CPC/2015) não é aptoa lastrear tal argumento.
+Dessa forma, incidente a Súmula 284/STF a obstar o conhecimento do recurso.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. RESPONSABILIDADE PELA DETERIORIZAÇÃO DE ALIMENTO TRANSPORTADO DO CHILE. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA DOS AUTOS. SÚMULA 07 DO STJ. RECURSO NÃO PROVIDO.
+1. O recorrente deixou de apontar o artigo do decreto-lei nº 1.866/96 supostamente violado. É importante ponderar que o recurso especial é de natureza vinculada e, para o seu cabimento, é imprescindível que o recorrente demonstre de forma clara os dispositivos apontados como malferidos pela decisão recorrida, sob pena de inadmissão. Incidência da Súmula 284 do STF.
+2. Ademais, a Súmula 284 da Suprema Corte também incide quando o conteúdo normativo do dispositivo legal apontado como violado não é apto a lastrear a tese vertida no recurso especial, porquanto deficiente a fundamentação.
+3. O Tribunal de origem concluiu, após análise das provas dos autos, que a responsabilidade pelos danos sofridos no transporte de mercadorias é do recorrente. Alterar o entendimento do acórdão recorrido demandaria reexame do conjunto - fático probatório dos autos, o que é vedado em razão da incidência da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1.033.441/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 27/04/2017, DJe 03/05/2017).
+Referente à alegada inexistência de pedido de conversão da liquidação em cumprimento definitivo, o Tribunal local assentou da decisão recorridaque houve tal pedido, embora não usada amelhor técnica.
+Veja-se à fl. 318 (e-STJ):
+Por seu turno, quanto ao pedido de conversão pelos credores embargados, o v. acórdão registrou que, embora não utilizada da melhor técnica, postularam pelo imediato cumprimento, nos termos do art. 523, do CPC, que trata do cumprimento definitivo de sentença.
+Rever tal conclusão demandaria nova incursão no conjunto probatório, medidaobstada pela incidência da Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DANOS MORAIS E MATERIAIS.
+MÓVEIS PLANEJADOS. FALHA NA PRESTAÇÃO DE SERVIÇOS. RESPONSABILIDADE SOLIDÁRIA. SÚMULA N. 7/STJ.
+1. Inviável a análise do recurso especial quando dependente de reexame de matéria fática da lide (Súmula n. 7 do STJ).
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.253.840/SP, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 08/09/2015, DJe 21/09/2015).
+Por fim, o argumento de inexistência de previsão legal para pagamento em 5 (cinco) dias se mostra dissociado dos fundamentos do acórdão recorrido, o qual confirmou decisão de primeiro grau que intimou o recorrente a pagar a parte incontroversa no prazo de 15 (quinze dias). o que faz incidir, uma vez mais, a Súmula 284/STF.
+Note-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 89 DA LEI N. 8.666/96 E 1º DO DECRETO-LEI N. 201/67 C/C 71 DO CP. DEFESA PRELIMINAR. NOTIFICAÇÃO. EXISTÊNCIA. SÚMULA 284/STF. JUSTA CAUSA. NATUREZA SINGULAR DA ATIVIDADE CONTRATADA. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE APRECIAÇÃO. SÚMULA 7/STJ. RECURSO IMPROVIDO.
+1. Estando as razões recursais dissociadas dos fundamentos do acórdão recorrido, incide o óbice do Enunciado n. 284 da Súmula do STF.
+2. O acórdão recorrido registrou estar configurada a justa causa para a ação penal, ressaltando que não ficou demonstrado, de plano, a natureza singular da atividade contratada, conclusão que não pode ser modificada por esta Corte ante o óbice do enunciado n. 7 da Súmula desta Corte.
+3. É incabível o exame do Recurso Especial pela alínea "c" do permissivo constitucional, quando incidente na hipótese a Súmula n.
+07/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp 979.659/MG, Rel. Ministro Reynaldo Soares Da Fonseca, Quinta Turma, julgado em 17/11/2016, DJe 28/11/2016).
+Diante do exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AGRAVO DE INSTRUMENTO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. NECESSIDADE DE RECONHECIMENTO EXPRESSO DA DÍVIDA. SÚMULA 284/STF. INEXISTÊNCIA DE PEDIDO PARA CONVERSÃO DA LIQUIDAÇÃO EM EXECUÇÃO DEFINITIVA. SÚMULA 7/STJ. INEXISTÊNCIA DE PREVISÃO LEGAL PARA PAGAMENTO EM 5 DIAS. SÚMULA284/STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
