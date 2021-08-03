@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se derecurso especial, apresentado por IBERIA INCORPORACOES IMOBILIARIAS 02 SPE LTDA, com fulcro no art. 105, inciso III, da Constituição Federal, contra acórdão proferido pelo Tribunal de origem.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de IBERIA INCORPORACOES IMOBILIARIAS 02 SPE LTDA, a parte recorrente foi intimada do acórdão recorrido em 26/11/2020, sendo o recurso especial interposto somente em 20/01/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ressalte-se que odocumentojuntadoàs fls. 1186/1187não éaptoà comprovação de feriado local e/ou suspensão de expediente forense. Conforme jurisprudência desta Corte, os feriados e suspensões devem ser comprovados por meio de documento idôneo,não servindo página extraída da rede mundial de computadores (AgInt no REsp 1687836/SP, relatorMinistro Paulo deTarsoSanseverino, TerceiraTurma,julgado em 02/09/2019, DJe 05/09/2019; AgInt no AREsp 1521541/SP, relatorMinistro MauroCampbellMarques, SegundaTurma, julgado em 10/03/2020, DJe 17/03/2020.)
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
