@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de DAVIDSON APARECIDO DEQUIGIOVANI SILVA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n. 5006219-66.2021.8.24.0000).
+O paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 89-91) e foi denunciado por suposta prática do delito descrito no art. 121, § 2º, I e VI, c/c o art.14, II, ambos do Código Penal.
+O decreto prisional fundou-se na garantia da ordem pública, na gravidade concreta do delito e na periculosidade do paciente, visto que o suposto delito foi cometido com grave violência contra a vítima. Impetrado writ na origem, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Ressalta primariedade e ausência de antecedentes criminais como bons predicados.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura em favor do paciente e/ou a substituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido às fls. 361-362.
+As informações foram prestadas às fls. 366-387 e 388-390.
+O Ministério Público Federal manifestou-se pelo não conhecimento dowrit(fl. 395).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJconsidera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 89-90, destaquei):
+ ..  Quanto à análise do disposto no art. 310, III, do CPP, a segregação do conduzido encontra amparo no art. 313, I, do CPP, uma vez que o crime apurado é doloso e punido com pena privativa de liberdade máxima superior a 4 (quatro) anos.
+No que toca aos requisitos constantes do art. 312 do CPP, a prova da materialidade e indícios suficientes de autoria restam devidamente demonstradas nos documentos reunidos nos autos, mormente pelo Boletim de Ocorrência, fotos do e. 1,depoimentos das testemunhas, da vítima e interrogatório do próprio conduzido.
+Além disso, entendo que a segregação cautelar do conduzido encontra fundamento na necessidade de garantia da ordem pública, considerando a gravidade dos crimes ora apurados, - tratando-se de delito cometido mediante violência, no âmbito das relações domésticas-, bem como a periculosidade em concreto do agente.
+Da análise dos documentos reunidos no Auto de Prisão em Flagrante, denota-se que o conduzido foi preso logo após ter violentado gravemente sua ex-esposa a ameaçado de morte, tudo isso em decorrência de supostas insatisfações com o relacionamento deles, sendo que o modo e motivação do delito ora apurado indicam a periculosidade do agente e o risco que oferece principalmente à vítima.
+Não só isso, da certidão de antecedentes criminais juntadas no e. 2 é possível se extrair que não é a primeira vez que o conduzido pratica atos violentos, sendo que possui outra ação penal em trâmite pela prática, em tese, de delito semelhante ao ora apurado.
+ .. Em suma, não resta outra alternativa senão a decretação da prisão ao conduzido, a fim de evitar um mal maior, assegurando a ordem pública e a segurança da vítima e de toda sociedade, porquanto é provável que em liberdade o indiciado continuará a delinquir. Os mesmos motivos que demonstram que as medidas de urgência e as cautelares previstas no art. 319 do CPP não são adequadas e suficientes neste momento ao caso presente, até porque se faz necessário retirar o conduzido do meio social para que não venha a consumar o delito que, por sorte, limitou-se a tentativa na data de hoje
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso, a prisão foimotivada na gravidade concreta e no fato de o paciente responder a outraação penal.
+Ademais, conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Por fim, eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
