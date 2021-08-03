@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido de liminar interposto porJOEDSON SANTOS GOMEScontra decisão doTribunal de Justiça do Estado de Alagoas(HC n. 0802561-35.2020.8.02.0000).
+O recorrente teve a prisão em flagrante convertida em preventiva, a pedido do Ministério Público, pela suposta prática do delitodescrito no art.121,§ 2º,II e IV, c/c o art. 14, II, ambos do Código Penal.
+O decreto prisional fundou-se na necessidade de garantia da ordem pública. Destacou-se que o recorrente responde a outros dois processos criminais.
+O recorrente sustenta ausência de fundamentação idônea do decreto prisional.
+Aduz ainda a necessidade de substituição da prisão por medidas cautelares diversas, enfatizando o perigo de propagação do vírus da covid-19 e a Recomendação CNJ n. 62/2020.
+Requer, liminarmente e no mérito, a revogação da prisão cautelar decretada na origem ou sua substituiçãopor medidas cautelares diversas do encarceramento, expedindo-se o pertinente alvará de soltura em seu favor.
+A liminar foi indeferida, nos termos da decisão de fls. 212-213.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 219-227).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. Confira-se excerto da decisão que decretou a segregação cautelar (fl. 48):
+ ..  Para a fumaça do bom direito, há, nos autos, prova da materialidade do crime apontado (com depoimento de parente da vítima e notícia acerca do encaminhamento desta para atendimento médico, e auto de exibição e apreensão de fl. 10) e indícios de autoria (extraídos dos depoimentos das testemunhas ouvidas).
+No que se refere ao periculum libertatis, tenho que a soltura do flagrado, neste instante, atenta contra a garantia da ordem pública, uma vez que já responde em feito criminal, nos autos de nº 0700356-54.2019.8.02.0034 e 000011-71.2015.8.02.0034, o que denota o perfil violento do preso. Existem, portanto, indicativos concretos que apontam para possibilidade de reiteração delitiva, o que merece intervenção do judiciário neste instante procedimental.
+Por outro lado, o crime atribuído ao autuado tem pena máxima abstrata superior a 4 anos, preenchendo o requisito do art. 313, 1, do CPP.  ..
+A propósito, assim se manifestou o Tribunal a quo (fls. 177-178):
+Em relação aos argumentos relacionados a necessidade e fundamentação do decreto de prisão, verifica-se que em 23/02/20 o magistrado decretou a prisão preventiva do paciente para a garantia da ordem pública, em razão da possibilidade de reiteração delitiva, revelada pelo fato de o paciente responder a outros processos criminais. ..
+Como se vê, ao contrário do alegado na impetração, verifica-se que a prisão é necessária para a garantia da ordem pública, em razão da possibilidade de reiteração delitiva, revelada, sobretudo, pelo fato de o paciente responder a outros processos criminais, inclusive, outro acusado de homicídio, conforme pontuado pelo Ministério Público na petição às folhas 17.
+Com efeito, além da gravidade da acusação (homicídio qualificado tentado), verifica-se que a prisão também se mostra necessária para evitar reiteração delitiva.
+Essas circunstâncias demonstram que a prisão preventiva é a única medida cautelar suficiente para garantia da ordem pública, razão pela qual entendo como inviável a substituição por medidas cautelares alternativas nesse momento.  ..
+Os entendimentos acima estãoem consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, o recorrente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
