@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deVINÍCIUS MATEUS DA SILVA contra acórdão denegatório proferido pelo Tribunal de Justiça do Estado de São Paulo, de seguinte ementa (fl. 65):
+"Habeas Corpus. Execução penal. Pleito objetivando o reconhecimento do direito do paciente à liberdade e, subsidiariamente, a concessão de prisão domiciliar.Inviabilidade. O paciente, que resgatou, em 13.08.2020, o lapso temporal para a progressão ao regime semiaberto, apresenta mau comportamento carcerário, não preenchendo o requisito subjetivo para a obtenção do benefício, nem tampouco os requisitos legais para a concessão de recolhimento domiciliar, observando-se que a Recomendação nº 62/2020 do CNJ não é norma cogente, cabendo ao julgador avaliar o caso concreto.Também não restou comprovado que a unidade prisional não esteja adotando as medidas necessárias à prevenção da disseminação da COVID-19, observando-se que o relatório de saúde acostado aos autos atesta que estão sendo ministrados, ao paciente, os cuidados adequados à sua condição de portador de hipertensão e asma. Ordem denegada."
+Colhe-se nos autos que o Paciente "cumpre pena privativa de liberdade de 7 anos de reclusão, em regime fechado" (fl. 66).
+Narra a Defesa, em petição padronizada, que "a pessoa assistida pela DPESP, ora paciente, encontra-se presa com trânsito em julgado, embora faça parte do grupo de risco do surto do COVID-19" (fl. 3)por ser diagnosticada com hipertensão e asma.
+Requer, liminarmente e no mérito, o deferimento de saída antecipada de prisão domiciliar, fundado na Recomendação n. 62/2020, do Conselho Nacional de Justiça.
+Ocorre que, em consulta ao site oficial da Corte estadual na internet, constatei,nos autos da Execução Penal n. 0004551-52.2017.8.26.0026queo Magistrado de primeiro grau, em 31/07/2020(ou seja, antes da impetração deste writ) deferiuao Reeducando livramento condicional.
+Desse modo, determinado, previamente, pelo Juiz das Execuções Criminais, provimentomais benéficoque opretendidopela Defesa nestes autos, verifica-se que não havia interesse processual quando domanejo do remédio heroico.
+Ante o exposto, NÃO CONHEÇO do pedido de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE PRISÃO DOMICILIAR. PACIENTE QUE, QUANDO DA IMPETRAÇÃO DO PRESENTEWRIT,ENCONTRAVA-SE EM LIVRAMENTO CONDICIONAL, DEFERIDO PELO JUIZ DAS EXECUÇOES CRIMINAIS.AUSÊNCIA DE INTERESSE PROCESSUAL. PEDIDO DE HABEAS CORPUS NÃO CONHECIDO.
