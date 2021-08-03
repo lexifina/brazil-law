@@ -1,0 +1,11 @@
+DECISÃO
+UGO HENRIQUE BRAGA DA SILVA ajuíza reclamação contra suposto descumprimento de decisão proferida por esta Corte no HC n. 666.535/SP, pelo Juízo de Direito da 1ª Vara Criminal da Comarca de Araçatuba - SP, o qual ainda não haveria realizado nova dosimetria da pena, conforme determinado no referido writ.
+Em suas razões, sustenta a defesa que "apesar de juntada a decisão proferida pelo E. Ministro do C. STJ em 18/05/2021, até a presente data não fora a decisão cumprida, de modo que a presente Reclamação se justifica, a fim de garantir a autoridade de sua decisão proferida em sede de habeas corpus, conforme determina o artigos 105 4 , I, alínea "f", da CF, ambos da Constituição Federal, bem como com fundamento no artigo 988, inciso II 5 , do Código de Processo Civil e artigos 187 a 192 do RISTJ" (fl. 4).
+Solicitadas informações, foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento da reclamação (fls. 143-145).
+Decido.
+De início, verifica-se que no HC n. 666.535/SP foi a ordem parcialmente concedida para determinar que a "Corte de origem proceda à nova dosimetria da pena, com a utilização da quantidade de drogas apreendidas em somente uma das etapas da dosimetria" (fl. 17, destaquei).
+Assim, a determinação se dirigiu ao Tribunal de origem e não ao Magistrado de primeiro grau, como aponta o reclamante. Tal situação denota a ilegitimidade passiva da autoridade apontada como reclamada.
+Além disso, como bem pontuou o Ministério Público Federal, "em consulta processual aos autos nº 1500591- 24.2020.8.26.0603 no sítio eletrônico do Tribunal de Justiça do Estado de São Paulo, infere-se que a 7ª Câmara Criminal do Tribunal de Justiça do Estado de São Paulo recebeu ofício comunicando a decisão do Superior Tribunal de Justiça em 18.05.2021, tendo iniciado julgamento virtual do feito em 18.06.2021, o qual se encontra pendente do voto do Desembargador Revisor" (fl. 144, grifei).
+Vale dizer, o Tribunal de origem iniciou o cumprimento da decisão proferida por este Superior Tribunal, situação que afasta, ao menos por ora, o alegado descumprimento da decisão proferida no HC n. 666.535/SP.
+À vista do exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da reclamação.
+Publique-se e intimem-se.
