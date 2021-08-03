@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto por Kakunen Kyosen desafiando decisão da 1ª vice-Presidência do Tribunal de Justiça do Estado do Paraná, que não admitiu recurso especial, por entender que o colegiado de origem analisou a matéria com fundamento constitucional, o que inviabiliza a análise do tema pelo Superior Tribunal de Justiça, sob pena de usurpação da competência do Supremo Tribunal Federal.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na espécie,o Tribunal de origem decidiu a controvérsia referente à alegada prescriçãoda pretensão de ressarcimento ao erárioà luz de fundamentoeminentemente constitucional (notadamente aquele alusivo ao art. 37, § 5º, da Carta Magna), matéria insuscetível de ser examinada em sede de recurso especial, com bem pontuou a decisão agravada.
+Convém destacar que o ora agravante, partindo da premissa de que as ações de ressarcimento seriam prescritíveis, apontou violação aos arts. 17, § 8º, e 23 da Lei nº 8.429/92, afirmando que, no caso concreto, a ação foi proposta após o prazo de quinquenal e que seria de rigor o não recebimento da exordial da subjacente ação civil pública por ato de improbidade administrativa.
+Nesse contexto, considerando os termos em que a questãoreferente a esses dispositivos da LIA foi suscitada pelo próprio agravante, a decisão,pelo Supremo Tribunal Federal, em recurso extraordinário com repercussão geral reconhecida (RE 852.475/SP), no sentido da imprescritibilidade das ações de ressarcimento ao erário, tornaprejudicada eventual discussão a respeito do tema nesta oportunidade.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
