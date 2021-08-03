@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DE OMISSÃO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida. Precedentes.
+2. Na hipótese, intenta o embargante afastar a decadência do direito à impetração, apontada no acórdão embargado, insistindo no argumento de omissão continuada, tese já rejeitada pelo Colegiado.
+3. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016).
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Cuida-se de embargos de declaração opostos porJosé Isaac Birercom o objetivo de integrar o acórdão de fls. 493/502, resumido na seguinte ementa:
+PROCESSO CIVIL. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. REQUERIMENTO ADMINISTRATIVO. DECADÊNCIA DO DIREITO DE IMPETRAÇÃO DO WRIT. ATOS DE EFEITO CONCRETO. INEXISTÊNCIA DE RELAÇÃO DE TRATO SUCESSIVO. IMPOSSIBILIDADE DO USO DA VIA MANDAMENTAL COMO SUCEDÂNEO DE AÇÃO DE COBRANÇA. RECURSO ORDINÁRIO NÃO PROVIDO.
+1. O provimento do recurso ordinário em mandado de segurança vai condicionado à demonstração de erro - de procedimento ou de aplicação do direito - na construção do acórdão recorrido.
+2. O prazo para impetração do mandado de segurança, a teor do que dispõe o art. 23 da Lei n.º 12.016/2009, é de 120 (cento e vinte) dias, "contados da ciência, pelo interessado, do ato impugnado".
+3. É pacífico o entendimento desta Corte Superior de que requerimentos administrativos ou pedidos de reconsideração não obstam o curso do prazo decadencial para impetração do writ.
+4. Não há falar em relação de trato sucessivo quando os atos que, em tese, teriam violado direito líquido e certo do recorrente foram únicos e tiveram conteúdo bem delimitado, com efeitos concretos gerados a partir de datas certas.
+5. A fundamentação centrada na impossibilidade de utilização da via mandamental como sucedâneo de ação de cobrança não destoa da jurisprudência pacífica do STJ.
+6. Recurso ordinário não provido.(fl. 491)
+Nas razões dos aclaratórios (fls. 505/514), a parte embargante alega que "a decisão embargada  ..  acolheu a tese da decadência da interposição do mandado de segurança manejado por este embargante sob premissas equivocadas e vícios" (fl. 506), afirmando que "o ato administrativo de 20.03.2012 tão só determinou a contagem e o pagamento de verbas atrasadas mediante dotação orçamentária. Não criou escala de prioridades, objeto da impetração" (fls. 506/507). Assere também que "não busca a cobrança de verbas atrasadas  ..  requer-se tão somente a revisão da escala de prioridades elaborada pelo órgão administrativo, bem como que os subsídios da magistratura não sejam reputados como verba de disponibilidade anulada, mas como verba alimentar e constitucional, com preferência máxima" (fl. 508). Insiste ainda no argumento de que "omissão quanto à reparação econômica é coação continuada no tempo, com relação à qual não caduca o direito de impetração da demanda" (fl. 509).
+Requer, por isso, que, "conhecido o presente recurso, seja o mesmo provido para esclarecer o teor da decisão de modo a superar e afastar a premissa equivocada e o erro evidente" (fl. 511).
+A Fazenda do Estado de São Paulo apresentou impugnação (fls. 520/523),pela qual requer o não acolhimento dos embargos de declaração.
+Recurso tempestivo.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INEXISTÊNCIA DE OMISSÃO. MERO INCONFORMISMO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida. Precedentes.
+2. Na hipótese, intenta o embargante afastar a decadência do direito à impetração, apontada no acórdão embargado, insistindo no argumento de omissão continuada, tese já rejeitada pelo Colegiado.
+3. A jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016).
+4. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Consoante o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou, ainda, para correção de erro material, não se revelando meio idôneo para fazer prevalecer o entendimento do embargante quanto à matéria já decidida.
+Essa é a razão pela qual a jurisprudência desta Corte é firme no sentido de que "os embargos de declaração têm a finalidade simples e única de completar, aclarar ou corrigir uma decisão omissa, obscura, contraditória ou que incorra em erro material, afirmação que se depreende dos incisos do próprio art. 1.022 do CPC/2015. Portanto, só é admissível essa espécie recursal quando destinada a atacar, especificamente, um desses vícios do ato decisório, e não para que se adeque a decisão ao entendimento dos embargantes, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida" (EDcl no AgRg no AREsp 859.232/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe 31/5/2016).
+No mesmo sentido:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. AUSÊNCIA DE OMISSÃO, DE OBSCURIDADE E DE CONTRADIÇÃO. MERO INCONFORMISMO DA PARTE EMBARGANTE. EMBARGOS DE DECLARAÇÃO DOS PARTICULARES REJEITADOS.
+1. A teor do disposto no art. 1.022 do Código Fux, os Embargos de Declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado, o que não se verifica no caso dos autos, porquanto o acórdão embargado dirimiu todas as questões postas de maneira clara, suficiente e fundamentada.
+2. Os Embargos de Declaração não se prestam à finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de direito material, de modo a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+3. Dos próprios argumentos apresentados nos Aclaratórios verifica-se não se tratar de qualquer omissão, contradição ou obscuridade a ser sanada, mas de mera pretensão de reforma do julgado com base no inconformismo da parte com a solução jurídica ali aplicada; pretensão incabível nesta via recursal.
+ ..
+5. Embargos de Declaração dos Particulares rejeitados.
+(EDclno AgInt no REsp 1861400/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 18/12/2020)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. ART. 1.022 DO CPC/2015. VÍCIOS NÃO APONTADOS.
+1. Os embargos de declaração estão previstos no art. 1.022 do CPC/2015, e somente são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida.
+2. No caso, a embargante não aponta quaisquer dos vícios previstos no dispositivo legal supracitado, demonstrando mero inconformismo com a conclusão do acórdão embargado.
+3. Embargos de declaração rejeitados.
+(EDclno AgInt no AREsp 1547580/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 01/07/2020)
+Na hipótese, a parteembargante não aponta quaisquer dos vícios elencados no art. 1.022 do CPC.
+As razões dos embargos, centradas na defesa denão ter ocorridoa decadência apontada no acórdão, em virtude denão se reconhecer a omissão continuada,exteriorizam tão somente o inconformismo da parte embargante com a solução contrária à sua pretensão, a qual deseja ver reformada. Mas, para esse fim, não se prestam os aclaratórios.
+ANTE O EXPOSTO, rejeito os presentes embargos de declaração, sem imposição, por ora, da multa prevista no art. 1.026 do CPC.
+É como voto.
