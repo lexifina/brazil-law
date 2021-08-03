@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALEX FERREIRA DUTRA, com base no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que deu parcial provimento à apelação defensiva para reduzir a reprimenda do recorrente.
+Nas razões recursais, alega contrariedade aoart. 68, parágrafo único, do CP.
+Sustenta, em síntese, que o número de majorantes não é fundamento válido para o aumento da pena em fração acima da mínima, na terceira fase. Cita, a seu favor, o enunciado da Súmula 443/STJ.
+As contrarrazões foram apresentadas (e-STJ, fls. 560-564).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 596-599).
+É o relatório.
+Decido.
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Observe-se que o Tribunal de origem fundamentou a majoração, na terceira fase, acima do mínimo, com base apenas na multiplicidade de causas de aumento:
+"O crime de roubo foi duplamente qualificado, de modo que admite o acréscimo de três oitavos (3/8), adotado por esta Colenda Câmara, diante de duas causas especiais de aumento, ou seja, cinco (05) anos e seis (06) meses de reclusão e treze (13) dias-multa" (e-STJ, fl. 522).
+Como se observa, a escolha da fração de 3/8, para o aumento da pena, não está apoiada em elementos fáticos que indiquem a maior reprovabilidade do roubo em apreço, mas somente nas duas majorantes.
+Portanto, o acórdão impugnado está em confronto com o entendimento firmado na Súmula 443/STJ, segundo o qual "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SÚM. 182/STJ. CONSTRANGIMENTO ILEGAL EVIDENCIADO NA DOSIMETRIA DA PENA. CONFISSÃO DO RÉU QUE EMBASOU A CONDENAÇÃO. RECONHECIMENTO. SUM. N. 545/STJ. COMPENSAÇÃO COM A REINCIDÊNCIA. PRESENÇA DE TRÊS MAJORANTES. CRITÉRIO QUANTITATIVO. SÚM. N. 443/STJ. IMPOSSIBILIDADE. REDUÇÃO DA REPRIMENDA QUE SE IMPÕE.
+(..)
+4. De acordo com a Súm. n. 443/STJ, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".
+5. Agravo regimental desprovido. Concessão de habeas corpus de ofício para, reconhecer a atenuante da confissão espontânea, compensando-a com a agravante da reincidência e alterar para 1/3 o aumento na terceira fase da dosimetria, reduzindo para 5 (cinco) anos e 4 (quatro) meses, em regime fechado, mais 13 (treze) dias-multa, a pena imposta ao agravante, incurso no art. 157, §2º, incs. I, II e V, c/c o art. 29, ambos do Código Penal." (AgRg no REsp 1.360.791/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/9/2016, DJe 5/10/2016);
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E EMPREGO DE ARMA DE FOGO. DOSIMETRIA. TERCEIRA FASE DO CÁLCULO. FRAÇÃO DE 2/5 APLICADA APENAS COM FUNDAMENTO NO NÚMERO DE MAJORANTES. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N. 443/STJ. FIXAÇÃO DO REGIME PRISIONAL MENOS GRAVOSO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula 443/STJ).
+2. Na espécie, a Corte de origem aplicou a fração de 2/5, superior à mínima prevista para o tipo penal em exame, com base apenas no número de majorantes, o que não encontra guarida na jurisprudência desta Corte, segundo a qual o aumento da reprimenda acima da fração mínima deve estar ancorado em circunstâncias concretas atinentes às próprias causas de aumento e que indiquem a maior reprovabilidade da conduta, como por exemplo, emprego de várias armas de fogo, armas de grosso calibre, dentre outros.
+(..)
+4. Agravo regimental a que se nega provimento." (AgRg no HC 361.208/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/9/2016, DJe 3/10/2016).
+Portanto, a partir dos parâmetros estabelecidos nas instâncias de origem, passo à dosimetria da pena.
+Considerando inexistirem circunstâncias desfavoráveis,fixo a pena-base em 4 anos de reclusão. Na segunda fase, compenso a agravante da reincidência com a atenuante da confissão.Na terceira fase, reformando o acórdão, majoro a pena em 1/3, face às causas de aumento do concurso de agentes e emprego de armas, fixando a reprimenda em5 anos e 4meses de reclusão e 13 dias-multa. Em razão do concurso formal, mantenho a fração de 1/5, tornando a pena definitiva em 6 anos, 4 meses e 24 dias de reclusão e 15 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou provimento ao recurso especial, para fixar a pena em 6 anos, 4 meses e 24 dias de reclusão e 15 dias-multa, mantendo, no mais, o acórdão recorrido.
+Publique-se. Intimem-se.
