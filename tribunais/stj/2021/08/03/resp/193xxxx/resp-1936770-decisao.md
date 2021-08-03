@@ -1,0 +1,88 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA, com fulcro no art. 105, inciso III, alíneasae c, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça local no Agravo de Execução Penal n.0001020-83.2020.8.24.0033.
+Consta dos autos que o Juízo de Direito da Vara de Execuções Penais da Comarca de Itajaí/SCimpôs o cumprimento de60% (sessenta por cento) da pena para fins de progressão de regime do Reeducando (fls. 1163-1164).
+Irresignada, a Defesa interpôs agravo de execução penal, ao qual a Corte de origem deu provimento (fls. 154-163).
+Nas razões do apelo nobre, a Acusação alega, além de dissídio jurisprudencial, contrariedade ao art. 112, inciso VII, da Lei de Execução Penal (fl. 197).
+Pondera, em suma, que condicionar a aplicação do art. 112, inciso VII, da LEP às hipóteses de reincidência específica fere aratiodo legislador, bem como privilegia os sentenciados reincidentes em detrimento daqueles que cumprem pena pelo primeiro delito(fls. 207-208).
+Pleiteia, assim, seja exigido do Reeducando o cumprimento de sessenta por cento do cumprimento da pena para a sua progressão de regime (fl. 213).
+Contrarrazões apresentadas às fls. 222-233. O recurso especial foi admitido (fls. 236-239).
+O Ministério Público Federal apresentou parecer, opinando pelo desprovimento do apelo nobre (fls. 255-261).
+É o relatório.
+Decido.
+O Tribunal de origem exigiu ocumprimento de 40% (quarenta por cento) da pena para a progressão de regime, nestes termos (fls. 157-163, grifei):
+"Compulsando os autos de origem, observa-se que o Agravante cumpre pena por seis delitos, a saber:
+1 - PEC 0022026-12.2012.8.24.0039 (comum) - à época primário
+Crime: art. 155, §4º, inciso IV, na forma do art. 71, ambos do Código Penal
+Pena: 2 anos, 4 meses e 24 dias de reclusão
+Data do crime: 20/09/2006
+Trânsito em Julgado: 23/11/2009
+2 - PEC 0000224-09.2016.8.24.0009 (comum) - reincidente
+Crime: art. 155, §1º, do Código Penal
+Pena: 1 ano, 6 meses e 20 dias de reclusão
+Data do crime: 17/05/2011
+Trânsito em Julgado: 17/03/2016
+3 - PEC 0000461-43.2016.8.24.0009 (comum) - reincidente
+Crime: art. 155, caput, do Código Pena
+Pena:1 ano, 4 meses e 10 dias de reclusão
+Data do crime: 17/02/2011
+Trânsito em Julgado: 04/06/2016
+4 - PEC 0020972-11.2012.8.24.0009 (comum) - reincidente
+Crime: 155, caput, e 155, caput, c/c art. 14, inciso II, ambos do CódigoPenal
+Pena: 2 anos e 8 meses de reclusão
+Data do crime: 25/04/2012
+Trânsito em Julgado:
+5 - PEC 0007242-59.2014.8.24.0039 (equiparado a hediondo) - reincidente
+Crime: 33, caput, c/c art. 40, inciso III, ambos da Lei 11.343/06
+Pena: 7 anos e 7 meses de reclusão
+Data do crime: 28/11/2013 Trânsito em Julgado: 26/08/2015 6 - PEC 0011243-87.2014.8.24.0039 (comum) - reincidente Crime: art. 289, §1º, do Código Penal Pena: 4 anos, 4 meses e 15 dias de reclusão Data do crime: 19/03/2012
+Trânsito em Julgado: 14/07/2014
+Ao proceder a soma/unificação das reprimendas, o total de pena a ser cumprido ficou em 13 anos, 6 meses e 10 dias de reclusão, conforme se vêda decisão de fls. 448-450 do PEC, proferida em 05 de julho de 2017.
+Ao analisar pedido de progressão ao regime semiaberto, a Magistrada de origem, na decisão vergastada, aplicou a fração de 3/5 (três quintos) para o cálculo da progressão do crime hediondo, dada a reincidência genérica reconhecida no PEC 0007242-59.2014.8.24.0039, e a de 1/6 (um sexto) para os delitos de natureza comum, de modo que o Reeducando teria de cumprir 3 anos, 10 meses e 2 dias para progredir para o regime semiaberto (data-base:21/05/2017).
+ ..
+No caso dos autos, veja-se, utilizando-se os parâmetros anteriores à inovação legislativa, o Apenado necessitaria cumprir 3/5 (três quintos) para o crime hediondo, em razão da reincidência genérica (antes admitida), e 1/6 (um sexto) para os crimes comuns.
+Por outro lado, com as alterações trazidas pela Lei n. 13.964/2019, deve-se aplicar o cálculo de 40% (2/5) para o crime hediondo (PEC 5), 16% para o crime de furto quando ele era primário (PEC 1) e 20% para os crimes comuns de furto em que foi reconhecida a reincidência (PEC"s 2, 3 e 6), nos moldes do art. 112, I e IV, da LEP.
+Porém, da análise dos autos não é possível apontar, com certeza, o período de pena que foi cumprido quanto ao crime comum quando ele era primário (PEC 1) e quanto aos demais crimes comuns em que foi reconhecida a reincidência (2, 3, 4 e 6), já que desde a soma, ocorrida em 05 de julho 2017, eles são considerados todos comuns, em razão da previsão da lei anterior.
+Assim, para evitar prejuízo ao Apenado, devem ser considerados os percentuais de 16% quanto aos crimes comuns e 40% em relação ao delito equiparado a hediondo.
+Logo, considerando a pena remanescente de crime comuns desde a data base (8 anos, 7 meses e 17 dias) e do delito hediondo (4 anos e 1 dia),conforme decisões de fls. 517-525 e 620-622, o Apenado deveria cumprir 16% quanto àqueles, totalizando 1 ano, 5 meses e 7 dias, e 40% quanto ao último, o que equivale a 1 ano, 7 meses e 6 dias.
+Portanto, para progredir de regime, o total de pena a ser cumprido é de 3 anos e 13 dias, lapso já atingido em 02/06/2020, fazendo jus o Apenado imediatamente à progressão de regime.
+Importante ressaltar que o requisito subjetivo já foi reconhecido na origem, em razão do Boletim Penal juntado às fls. 604-607, que atestou o bom comportamento carcerário em 14/07/20, sendo que a última falta grave foi praticada em 21/05/2017.
+Ante o exposto, voto no sentido de conhecer do recurso e dar-lhe provimento para aplicar a lei nova ao Apenado e deferir a progressão ao regime semiaberto, cujo requisito objetivo foi atingido em 02/06/2020.
+Este é o voto."
+Com efeito, acerca da fração necessária para a progressão de regime dos condenados por crimes hediondos, esta Corte Superior possuía entendimento de que a interpretação cabível para o art. 2.º, § 2.º, da Lei n. 8.072/1990 (redação dada pela Lei n. 11.464, de 28/03/2007) era a de que, no caso de condenação por crime hediondo ou equiparado, será necessário, para a progressão de regime prisional, o cumprimento de 2/5 (dois quintos) da pena se o apenado fosse primário, e de 3/5 (três quintos) do total da pena, se reincidente, sendo irrelevante se a reincidência fosse específica ou não.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. CRIME HEDIONDO. REINCIDÊNCIA ESPECÍFICA OU COMUM. IRRELEVÂNCIA. LAPSO TEMPORAL PARA PROGRESSÃO DE REGIME. FRAÇÃO DE 3/5 EM RELAÇÃO AOS CRIMES HEDIONDOS. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte firmou-se no sentido de que a Lei dos Crimes Hediondos não faz distinção entre a reincidência comum ou específica ao determinar a fração de 3/5 como lapso temporal para a progressão de regime, de modo que, unificadas as penas e constatada a reincidência, qualquer que seja ela (específica ou comum), para fins de progressão do regime, deverá ser aplicada a fração de 3/5 em relação aos crimes hediondos.
+2. Agravo regimental desprovido." (AgRg no REsp 1.780.929/RO, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/08/2019, DJe 29/08/2019.)
+Com a entrada em vigor da Lei n. 13.964/2019, os lapsos temporais necessários à progressão prisional passaram a ser previstos exclusivamente no art. 112 da Lei de Execução Penal, cujo teor é o seguinte:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça;
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça;
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça;
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça;
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for:
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou c) condenado pela prática do crime de constituição de milícia privada;
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+VIII - 70% (setenta por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional."
+Como se observa, a situação do Apenado - condenado pela prática de crimes comuns (furtos)e reincidente em decorrência de crime equiparado a hediondo (tráfico de drogas) - não encontra previsão específica na nova lei, razão porque, diante da lacuna legislativa, deverá o julgador integrar a norma, resolvendo a controvérsia de maneira mais favorável ao Sentenciado, isto é, aplicando o percentual previsto para o Réu primário.
+Assim, a Corte estadual adotou entendimento que se encontra em harmonia com a jurisprudência do Superior Tribunal de Justiça, fixada no sentido de que não há como fazer incidir a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime do Recorrido, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não corresponde à situação dos autos.
+Com efeito, na hipótese em exame, o Apenado alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 40% (quarenta por cento) da reprimenda, segundo o disposto no art. 112, inciso V, da Lei n. 7.210/1984.
+Nesse sentido:
+"HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL (INCLUÍDO PELA LEI N. 13.964/2019). PACOTE ANTICRIME. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. NÃO APLICAÇÃO. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDÊNCIA NÃO ESPECÍFICA. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO INCISO V. DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).  sic
+2. Ocorre que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+3. Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+4. Habeas corpus concedido para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime, salvo se cometida falta grave." (HC 605.783/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LEI N. 13.964/2019 (PACOTE ANTICRIME). RÉU CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM (ROUBO MAJORADO). REINCIDÊNCIA NÃO ESPECÍFICA. HIPÓTESE NÃO ABRANGIDA PELA NOVATIO LEGIS. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. ORIENTAÇÃO REVISTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Firmou-se nesta Corte Superior o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+2. Com a entrada em vigor da Lei n. 13.964/2019 (Pacote Anticrime), em 23/1/2020, todavia, foi revogado expressamente o art. 2º, § 2º, da Lei n. 8.072/1990 (art. 19, da Lei n. 13.964/2019), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/1984 (Lei de Execução Penal).
+3. A nova redação dada ao art. 112, da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos, a depender especialmente da natureza do delito.
+4. Na espécie, o apenado foi condenado pela prática do delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de roubo majorado (delito comum).
+5. Para tal hipótese - reincidência genérica ou não específica - inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, sendo certo que os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+6. Como é cediço, em direito penal, não se admite o uso de interpretação extensiva para prejudicar o réu, impondo-se, ante a omissão legislativa, a integração da norma mediante a analogia in bonam partem, para aplicar o percentual equivalente ao previsto para o primário (art. 112, inciso V, da LEP), qual seja, o de 40% (quarenta por cento), para fins de cálculo da progressão de regime prisional. Precedentes.
+7. Agravo regimental não provido." (AgRg no REsp 1.905.580/MT, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2021, DJe 04/02/2021, grifei.)
+Ante o exposto, CONHEÇO e NEGO PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO. PROGRESSÃO DE REGIME. APENADO CONDENADO POR CRIMES COMUNSE REINCIDENTE EM RAZÃO DE CONDENAÇÃO POR DELITO HEDIONDO (TRÁFICO DE DROGAS). EXIGÊNCIA DE CUMPRIMENTO DE 3/5 (TRÊS QUINTOS). IMPOSSIBILIDADE EM RAZÃO DA ENTRADA EM VIGOR DA LEI N. 13.964/2019. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. INCIDÊNCIA DO INCISO V DO ART. 112 DA LEI DE EXECUÇÃO PENAL. APLICÁVEL O PERCENTUAL DE 40% (QUARENTA POR CENTO), QUE CORRESPONDE À FRAÇÃO DE 2/5 (DOIS QUINTOS). RECURSO ESPECIAL CONHECIDO E DESPROVIDO.
