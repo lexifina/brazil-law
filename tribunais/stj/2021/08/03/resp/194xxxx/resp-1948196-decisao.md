@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da Constituição da República) interposto contra acórdão assim ementado:
+ADMINISTRATIVO. PROCESSO CIVIL. EMBARGOS À EXECUÇÃO. JUROS DE MORA SOBRE PARCELAS ADVOCATÍCIOS ADMINISTRATIVAMENTE PAGAS. DESCABIMENTO. HONORÁRIOS DEVIDOS SOBRE VALORES PAGOS NA VIA ADMINISTRATIVA, SEM PARTICIPAÇÃO DO PATRONO. DIREITO AUTÔNOMO DO ADVOGADO.
+1. Indevida a incidência de juros moratórias nas parcelas pagas administrativamente, uma vez que não há mora dos exeqüentes-embargados a justificar a sua aplicação. Precedente desta Corte.
+2. Os juros de mora, de acordo com o título judicial, devem incidir apenas sobre a condenação, ou seja, sobre a diferença apurada (valor devido menos valor pago administrativamente, corrigidos monetariamente), a partir da citação.
+3. A base de cálculo para apuração dos honorários de sucumbência deverá ser o montante integral do que seria devido aos exequentes, a título do reajuste de 11,98%, de acordo com o título executivo, devendo ser computados, portanto, os valores pagos administrativamente.
+4. Por outro lado, conforme se vê da petição de execução (fl. 318), os exequentes noticiaram e compensaram na conta embargada os valores objeto de pagamento administrativo realizado até a propositura da execução. Desse modo, a quitação administrativa da dívida durante o trâmite dos embargos à execução não pode resultar na conclusão de que a conta embargada continha incorreção, como pretende a União, com o objetivo de imputar aos exequentes os ônus da sucumbência.
+5. Apelação não provida.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente aponta violação, em preliminar, dos arts. 489 e 1.022 do CPC/2015; no mérito, doart. 1º-Eda Lei 9.494/1997; dos arts. 876 e 884 do CC/2002 e dos arts. 788 e 924, II, do CPC/2015.
+Contrarrazões às fls. 568-572, e-STJ.
+É o relatório.
+Decido.
+Os autos ingressaram neste Gabinete em 20.7.2021.
+Assiste razão à parte recorrente, no que tange à violação do art. 1.022 do CPC/2015.
+Nas razões do Recurso Especial, sustenta-se:
+Os acórdãos proferidos pelo TRF da 1ª Região padecem de vícios no que diz respeito ao enfretamento da questão debatida nos autos, qual seja, a possibilidade de compensação de valores pagos na via administrativa, uma vez que os valores adotados pelo exequente - relatando que haviam compensado os pagamentos - mostra-se dissonante com a base de cálculo da União.
+Com efeito, nas razões do Recurso Especial, bem como na petição dos aclaratórios, a parte recorrente destaca a tese jurídica de abatimento das parcelas pagas administrativamente.
+Porém, instada a se manifestar, verifica-se que não houve a análise pela Corte regional da questão suscitada pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+Reconhece-se, portanto, a existência de omissão no acórdão impugnado e, por conseguinte, a ofensa ao art. 1.022 do CPC. Nesse sentido:
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA. JUROS DE MORA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Assiste razão à parte recorrente, no que tange à violação do art. 1.022 do CPC/2015.
+2. Com efeito, nas razões do Recurso Especial, bem como na petição dos Aclaratórios, a parte recorrente destaca as teses jurídicas de existência de coisa julgada garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.
+3. Porém, instada a se manifestar, verifica-se que não houve análise, pela Corte local, das questões suscitadas pela parte recorrente, o que configura matéria relevante ao deslinde da controvérsia.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015 e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria importante para o deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial provido para determinar o retorno dos autos à origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca das teses jurídicas de existência de coisa julgada, garantindo a apuração dos juros moratórios até o efetivo pagamento da dívida, bem como, sucessivamente, do direito aos juros moratórios vencidos no curso da lide até a data da inscrição do crédito no orçamento.(REsp 1891151/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 12/04/2021)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. SALÁRIO-MATERNIDADE. ART. 1.022 DO CPC. VIOLAÇÃO. OCORRÊNCIA. MATÉRIA RELEVANTE. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que indeferiu o pagamento do salário-maternidade, por entender que não se paga o mesmo benefício duas vezes.
+2. Alega a recorrente que o acórdão vergastado partiu de premissa equivocada consequente da falta do correto exame da prova carreada ao feito, ao ter reformado a sentença de primeira instância sob o argumento de que a indenização constante do acordo trabalhista já teria englobado o período de salário maternidade, quando o referido documento é expresso em fazer constar o contrário.
+3. O recurso merece acolhida, ante a aparente violação ao artigo 1.022 do CPC, pela configuração de omissão relevante no julgado, relativa à análise da questão referente ao fato de não ter sido o benefício de salário-maternidade incluído no acordo trabalhista realizado pela parte autora com ex empregador, omissão essa não superada a despeito da oposição de Embargos Declaratórios.
+4. É cediço o entendimento de que a solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC e que o juiz não é obrigado a rebater todos os argumentos aduzidos pelas partes. Por outro lado, o juiz não pode deixar de conhecer de matéria relevante ao deslinde da questão, mormente quando sua decisão não é suficiente para refutar a tese aduzida, que, portanto, não abrange toda a controvérsia.
+5. Recurso Especial a que se dá parcial provimento, a fim de anular o v. aresto proferido nos Embargos de Declaração e determinar o retorno dos autos ao Egrégio Tribunal de origem para que profira novo julgamento e aborde a matéria omitida.(REsp 1697338/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 19/12/2017)
+Ao lume do exposto, dou provimento ao Recurso Especial e determino o retorno dos autos a origem a fim de que, em novo julgamento dos aclaratórios, o Tribunal a quo se manifeste expressamente acerca da tese jurídica de abatimento das parcelas pagas administrativamente.
+Publique-se.
+Intimem-se.
