@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALDENIR NUNES DE ALMEIDA e OUTROS, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de Mato Grosso assim ementado (e-STJ fl. 276):
+EMBARGOS DECLARATÓRIOS EM APELAÇÃO CÍVEL E REEXAME NECESSÁRIO - SUPOSTA OMISSÃO NO ACÓRDÃO EMBARGADO - NÃO CONFIGURAÇÃO DESSE VÍCIO - JULGADO QUE AVALIOU OS FATOS E FUNDAMENTOS EXPOSTOS PELA PARTE DE FORMA MOTIVADA- DECLARATÓRIOS REJEITADOS.
+O recurso de embargos de declaração é cabível tão-somente da decisão que apresentar obscuridade, contradição, omissão e/ou inexatidões materiais. Ausentes quaisquer dessas hipóteses de cabimento, o desprovimento dos aclaratórios é de rigor.
+Os embargos de declaração também não se prestam para a rediscussão da causa, devendo a parte, se entender que houve erro de julgamento pelo colegiado, insurgir-se pela via recursal apropriada.
+A parte recorrente aduz violação dos arts. 489, § 1º, I, II, III e IV, 1.022, IIe parágrafo único,1.024, § 2º, e 1.026, § 2º, do CPC/2015, sustentando que: a) os aclaratórios deveriam ter sido julgados obrigatoriamente pelo relator (e não pelo colegiado), já que opostos contra decisão monocrática; b) houve negativa de prestação jurisdicional; c) o recurso integrativo não eraprotelatório, não sendo cabível a aplicação de multa.
+Contrarrazões às e-STJ fls. 348/353.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Com efeito, em relação ao art. 1.024, § 2º, do CPC/2015, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de leifederal, a admissibilidade do recurso na instância excepcional pressupõeque a Corte de origem tenha se manifestado sobre a tese jurídica apontadapelo recorrente. Esse é o entendimento pretoriano consagrado na edição daSúmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário,quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Na hipótese, o Tribunal de origem nem sequer foi instado a se manifestar sobre a eventual inobservância do dispositivo em comento.
+Quanto às alegadas violações dos arts. 489, 1.022 e 1.026, § 2º, do CPC/2015, verifica-se que a recorrente não logrou êxito em demonstrar,objetivamente e nos capítulos recursais específicos,os pontos omitidos pelo acórdão recorrido, individualizando o erro, a obscuridade, a contradição ou a omissãosupostamente ocorridos, bem como sua relevância para a solução dacontrovérsia apresentada nos autos. Da mesma forma, não houve fundamentação suficiente a embasar o afastamento da multa aplicada. Essa circunstância atrai, portanto, a incidência da Súmula 284 do STF: "Inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO dorecurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelasinstâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dezpor cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11,do CPC/2015, observados, se aplicáveis, os limites percentuais previstosnos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, §3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
