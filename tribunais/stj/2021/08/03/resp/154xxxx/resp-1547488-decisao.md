@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recuso especial interposto contra acórdão proferido pelo TRF da 5ª Região, assim ementado (e-STJ fl. 417):
+PROCESSUAL CIVIL. SERVIDORA PÚBLICA, PORTADORA DE FIBROMIALGIA. REDUÇÃO DA JORNADA DE TRABALHO. POSSIBILIDADE. PERÍCIA MÉDICA REALIZADA POR PERITO IRREGULARMENTE INSCRITO: DESNECESSIDADE DE REALIZAÇÃO, POR JUNTA OFICIAL. COMINAÇÃO DE MULTA DIÁRIA CONTRA FAZENDA PÚBLICA. POSSIBILIDADE
+Alega a parte recorrente violação do art. 98, § 2º, da Lei n. 8.112/1990, defendendo a necessidade de realização de perícia por junta médica oficial para o acolhimento da pretensão autoral.
+Contrarrazões às e-STJ fls. 431/441.
+Passo a decidir.
+Entendo que o recurso não deve ser conhecido, pois o ente federal não impugnou todos os fundamentos do acórdão recorrido.
+O decisum impugnado, além de outros fundamentos, alicerçou-se no entendimentode que, embora a perícia realizada por junta médica oficial tivesse reconhecido a doença incapacitante da autora (fibromialgia), não se tratade pessoa com deficiência, visto que o conceito de deficiência a que equivocadamente se apegaestájuridicamente superado. Vejamos:
+Assim, por força da hierarquia das normas constitucionais, o parâmetro normativo que balizara a solução da lide não é o Decreto n. 3.298/1999, que regulamenta a Lei n 7.853, de 24 de outubro de 1989, sobre a Política Nacional para a Integração da Pessoa Portadora com Deficiência, como fez o INSS, e sim o novo entendimento trazido pela Convenção Internacional sobre os Direitos das Pessoas com Deficiência, equivalente à emenda constitucional, conforme o Decreto nº 6.949/2009. (e-STJ fl. 413)
+No recurso especial, por sua vez, a parte recorrente não impugnou esse argumento suficiente para manutenção do acórdão. Limitou-se a alegar que a deficiência deveria ser atestada por junta médica oficial, a qual, todavia, já havia reconhecido a incapacidade ainda na via administrativa, mas teria concluído não estarem presentes os requisitos do Decreto n. 3.298/1999, conclusão jurídica rejeitada na decisão recorrida não infirmada.
+Com efeito, "(..) como a fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal ao ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."" (REsp 1.666.566/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, julgado em 06/06/2017, DJe 19/06/2017).
+Igualmente aplicável o teor da Súmula 284 do STF, a qual disciplina: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ainda que assim não fosse, para julgar de maneira diversa à Corte Regional, seria necessário rever todo o contexto fático-probatório que levou o juízo originário a entender pela existência da deficiência no particular. Assim, aplicável a Súmula 7 desta Corte.
+Ante o exposto, NÃO CONHEÇO do apelo especial.
+Publique-se. Intimem-se.
