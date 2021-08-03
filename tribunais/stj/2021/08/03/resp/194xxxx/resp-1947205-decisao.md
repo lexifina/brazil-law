@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ASSOCIAÇÃO DOS PROPRIETÁRIOS EM GIARDINO D"ITÁLIA contra decisão que negou seguimento a recurso especial fundamentado nasalíneas"a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 18/12/2020.
+Concluso ao gabinete em: 01/07/2021.
+Ação:de cobrança ajuizada por ASSOCIAÇÃO DOS PROPRIETÁRIOS EM GIARDINO D"ITÁLIA em face de ALBERTO CARVALHO CURY e OUTRA na qual requer a declaração de existência de relação jurídica cumulando com pedido de recebimento de valores tendo em vista a administração, implantação de melhorias, manutenção e serviço de segurança do loteamento no qual os réus possuem o imóvel e aderiram livremente aos objetivos da associação.
+Sentença:julgouprocedentes os pedidos.
+Acórdão:deu provimento à apelação interpostapor ALBERTO CARVALHO CURY e OUTRA, nos termos da ementa abaixo:
+"COBRANÇA. Associação de moradores. Taxa de manutenção. Relação obrigacional que exige vontade expressamente declarada pelo proprietário do imóvel no sentido de associar- se. Orientação do STJ firmada nos REsps ns.1.439.163/SP e 1.280.871/SP. Réus que manifestaram expresso desejo de desligamento do quadro associativo.
+Despesas em cobro após o pedido de desligamento. Sentença reformada. Recurso provido." (fl. 429, e-STJ).
+Recurso especial:alega, além de dissídio jurisprudencial,violação dos arts.24,29 e36-A, da Lei 6.766/1979 e 884 do CC e daSúmula 882 do STJ.
+Sustenta, em síntese, a existência decláusula obrigacional constante de contrato padrão do loteamento sobre o pagamento detaxas de manutenção de loteamento. Aduz, ainda que"comprovou as despesas com segurança, manutenção, conservação e limpeza do loteamento, valorizando e beneficiando, indistintamente todas as propriedades ali inseridas" (fl. 458, e-STJ).
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento:aplicação do CPC/2015.
+1. Da distinção entre a hipótese dos autos e a situação submetida a julgamento no âmbito do recurso repetitivo (REsp 1.280.871/SP - Tema 882)
+Inicialmente, cabe frisar que a aplicação de um precedente judicial - na hipótese dos autos o recurso repetitivo REsp 1.280.871/SP (Tema 882) - apenas pode ocorrer após a aplicação da técnica da distinção (distinguishing), a qual se refere a um método de comparação entre a hipótese em julgamento e o precedente que se deseja a ela aplicar.
+A aplicação de tese firmada em sede de recurso repetitivo a uma outra hipótese não é automática, devendo ser fruto de uma leitura dos contornos fáticos e jurídicos das situações em comparação pela qual se verifica se a hipótese em julgamento é análoga ou não ao paradigma. Dessa forma, para aplicação de um precedente, é imperioso que exista similitude fática e jurídica entre a situação em análise com o precedente que visa aplicar.
+A jurisprudência deste STJ aplica a técnica da distinção (distinguishing), a fim de reputar se determinada situação é análoga ou não a determinado precedente. Nesse sentido: RE nos EDcl nos EDcl no REsp 1.504.753/AL (3ª Turma, DJe 29/09/2017), REsp 1.414.391/DF (3ª Turma, DJe 17/05/2016) e AgInt no RE no AgRg nos EREsp 1.039.364/ES (Corte Especial, DJe 06/02/2018).
+A hipótese dos autos refere-se à ação decobrança ajuizada por associação de moradores em face de proprietário de imóvel, cuja causa de pedir está fundada em contrato padrão levado a registro, o qual possui cláusula referente à imposição a todos os proprietários de imóvel de rateio das despesas concernentes aos benefícios promovidos pela associação, tais como manutenção de áreas comuns, segurança, portaria e fornecimento de água.
+Necessário salientar que a situação submetida a julgamento no bojo do recurso repetitivo REsp 1.280.871/SP (Tema 882), em razão de tratar-se de ação de cobrança ajuizada por associação de moradores, cuja causa de pedir encontra-se fundamentada em estatuto de associação civil e no princípio da vedação do enriquecimento sem causa, não se reporta à hipótese dos autos.
+Nota-se, portanto, a ausência de similitude entre as situações descritas, o que impossibilita a aplicação do recurso repetitivo mencionado na situação em análise.
+2. Da viabilidade da cobrança de taxas de manutenção com lastro em obrigações (contrato-padrão) levadas a registro (Súmula 568/STJ)
+O acórdão recorrido, ao concluir pela impossibilidade de se imputar a obrigação de pagamento das taxas de manutenção aosrecorridostendo em vista a incidência do Tema 882 do STJ, manteve dissonância com a jurisprudência do STJ quanto à questão, firmada no sentido de que é viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento/associação de moradores a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em obrigações (contrato-padrão) levadas a registro no respectivo cartório ao qual aderiu o adquirente (AgInt no REsp 1.349.713/SP, 4ª Turma, DJe de 29/6/2017; REsp 1.422.859/SP, 3ª Turma, DJe de 26/11/2015, AgInt no REsp 1.755.648/SP, 3ª Turma, DJe 16/11/2018).
+Além disso, o entendimento deste STJ é no sentido de que as restrições e obrigações constantes no contrato-padrão, depositado em cartório como condição para o registro do projeto de loteamento, incorporam-se ao registro e vinculam os posteriores adquirentes, porquanto dotadas de publicidade inerente aos registros públicos.
+Nesse sentir, necessária a devolução dos autos ao Tribunal de origem, para que - à luz da jurisprudência citada - se pronuncie sobre a questão.
+Logo, nesse ponto, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do recurso especialpara DAR-LHE PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, para determinar a remessa dos autos ao Tribunal de origem, a fim de que seja proferido novo julgamento da apelação, à luz da citada jurisprudência do STJ.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. AÇÃO DE COBRANÇA.DISTINÇÃO(DISTINGUISHING). TEMA 882 DO STJ. RECURSO REPETITIVO E HIPÓTESE DOS AUTOS. OCORRÊNCIA. TAXAS DE MANUTENÇÃO. CONTRATO-PADRÃO LEVADO A REGISTRO EM CARTÓRIO.
+1. Ação de cobrança.
+2. Inaplicabilidade do precedente firmado em sede de recurso especial repetitivo (REsp 1.280.871/SP, 2ª Seção, DJe 22/05/2015), por meio da aplicação da técnica da distinção (distinguishing).
+3. É viável a cobrança de taxas de manutenção ou de qualquer outra espécie pela administradora de loteamento/associação de moradores a proprietário de imóvel nele localizado, se esse vínculo foi estabelecido pelo loteador em obrigações (contrato-padrão) levadas a registro no respectivo cartório ao qual aderiu o adquirente. Súmula 568/STJ.
+4. Recurso especial conhecido e provido.
