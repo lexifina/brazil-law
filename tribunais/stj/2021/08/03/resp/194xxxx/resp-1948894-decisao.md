@@ -1,0 +1,56 @@
+DECISÃO
+JONES CARREIRO BARBOSA e VANIA OLIVEIRA DE LIMA (JONES e outra) ajuizaramação indenizatória cumulada com pedido de declaração de cláusula contratual e obrigação de fazer com pedido de tutela antecipada contraBRASCAN SPE RJ-5 S.AeBROOKFIELD ENGENHARIA S/A (BRASCAN e outra) em virtude de atraso na entrega de unidade imobiliária em construção.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes para (1)fixar como prazo de entrega do imóvel agosto de 2014; (2)inverter a cláusula penal moratória fixada na cláusula 6.1, condenando as rés ao pagamento de indenização contabilizada em 1% ao mês, no período balizado entre a mora e a entrega do habite-se, a ser apurada em liquidação de sentença; (3) condenara ré ao pagamento das seguintes verbas: (i) multa devida referente ao atraso na entrega do seu imóvel por mais de 180 dias, de 2% do valor atualizado do contrato, acrescida de 1% (um por cento) de juros moratórios por cada mês de atraso, também a ser apurado em liquidação de sentença; (ii) R$ 5.000,00 de indenização a título de danos morais a ambos os autores, corrigido pelos índices da CGJ, a contar da data da publicação desta sentença, à luz das súmulas 362 do STJ e 97 do TJERJ, e acrescido de juros de 1% ao mês, incidentes desde a citação; e (4) fixou, ainda asucumbência recíproca, condenando as rés ao pagamento de metade das custas e honorários sucumbenciais no percentual de 20% sobre o valor da condenação ao patrono dosautores e condeno a parte autora na outra metade das custas e em honorários no percentual de 10% do valor da condenação para cada uma das rés. (e-STJ, fls. 388/392).
+Oapelo de BRASCAN e outro não foi provido, em acórdão assim ementado:
+"PROCESSO CIVIL. APELAÇÃO CÍVEL. RELAÇÃO DE CONSUMO. INCORPORAÇÃO IMOBILIÁRIA.BRASCAN E BROOKFIELD. ATRASO NA ENTREGA DAS CHAVES.IMÓVEL ADQUIRIDO NA PLANTA.SENTENÇA DE PARCIAL PROCEDÊNCIA.INCONFORMISMO DAS RÉS. VALIDADE DA CLÁUSULA QUE PRORROGA A ENTREGA EM 180 DIAS. PERÍODO DE INADIMPLEMENTO CONTRATUAL DAS RÉS QUE SE DELIMITA ENTRE O DIA POSTERIOR AO TÉRMINO DO PRAZO DE TOLERÂNCIA E A EFETIVA DISPONIBILIZAÇÃO DAS CHAVES. INVERSÃO DE CLÁUSULA CONTRATUAL QUE PREVIA MULTA EXCLUSIVAMENTE PARA O CASO DE MORA DO CONSUMIDOR.
+POSSIBILIDADE. DEVE SER ESTENDIDA A APLICABILIDADE DA CLÁUSULA PENAL PARA A SITUAÇÃO EM QUE O FORNECEDOR SE TORNE INADIMPLENTE. DANO MORAL CONFIGURADO, TENDO EM VISTA A FRUSTRAÇÃO DAS LEGÍTIMAS EXPECTATIVAS DOS AUTORES, ALÉM DOS TRANSTORNOS CAUSADOS PELO NÃO CUMPRIMENTO DO PRAZO POR PARTE DAS RÉS.
+INDENIZAÇÃO FIXADA EM R$ 5.000,00 (CINCO MIL REAIS) QUE SÉ MANTÉM, POR ESTAR EM CONSONÂNCIA COM OS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE, OBSERVADAS AS PECULIARIDADES DO CASO CONCRETO. PRECEDENTES DESTA CORTE ESTADUAL DE JUSTIÇA. PRECEDENTE DO STJ.
+NEGADO PROVIMENTO AO RECURSO DAS RÉS" (e-STJ, fls. 443).
+Os embargos de declaração foram rejeitados (e-STJ, fl. 483/487).
+No recurso especial, interposto com esteio no art. 105, III, a e c, da CF,BRASCAN e outro alegaram violação dos arts. 884 e 944 do CC/02, 86, caput e parágrafo único, e 1022, ambos do NCPC,ao sustentar (1) a existência de omissão no acórdão quanto à impossibilidade de cumulação de lucros cessantes com a inversão da cláusula penal, nos termos da jurisprudência do STJ (tema 971); (2)o descabimento de indenização por danos morais pelo simples atraso na entrega do imóvel; e, (3) tendo decaído de parte mínima dos pedidos, os ônus sucumbenciais devem recair integralmente sobre os adquirentes do imóvel (e-STJ, fls. 489/502).
+Após a apresentação das contrarrazões, o recurso foi admitido na origem (e-STJ, fls. 586/599).
+É o relatório.
+DECIDO.
+O recurso comporta parcial provimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da alegada ofensa ao art. 1022 do NCPC
+Inicialmente, cumpre observar que, nas razões dos embargos de declaração, as insurgentes alegaram omissão quanto a impossibilidade de cumulação da cláusula penal moratória com os lucros cessantes, a teor do que dispõe a jurisprudência do STJ (Tema 971).
+De fato, compulsando os autos, observo que a matéria, embora arguida na petição dos embargos de declaração (e-STJ, fls. 471/477), não foi objeto de análise pelo Tribunal fluminense, que se limitou a declarar a inexistência de omissão no julgado e o acerto do acórdão que manteve a sentença na qual houve a condenação das rés ao pagamento de lucros cessantes com a cláusula penal invertida em favor dos autores.
+A esse respeito, confira-se:
+O autor ingressou com a demanda para o fim de ver sanadas as inconsistências na incorporação imobiliária de responsabilidade das rés, ora embargantes, sendo que restou sedimentado que as incorporadoras faltaram deveres de impontualidade contratual.
+ ..
+Sendo assim, não se configura nenhuma das hipóteses previstas no art. 1022 do NCPC, almejando a recorrente, sob o propósito de aparentes omissões no acórdão embargado, rediscussão do mérito da causa a fim de que suas teses seja acolhidas, o que não se revela cabível pela via dos aclaratórios (e-STJ, fls. 485/486).
+O tema também não foi tratado no acórdão de e-STJ, fls.443/451.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJRJ a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+É medida de rigor, portanto, oretornodosautosà instância ordinária para que sane o referido vício.
+Do dano moral.
+A recente orientação firmada nesta Corte é no sentido de que omero atraso na entrega do imóvel é incapaz de gerar abalo moralindenizável, sendo necessária a existência de uma consequênciafática capaz de acarretar dor e sofrimento indenizável por suagravidade.
+Nesse sentido, vejam-se os precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.ATRASO NA ENTREGA DE OBRA. DANOS MORAIS. INEXISTÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. SUCUMBÊNCIA MÍNIMA. VERIFICAÇÃO.IMPOSSIBILIDADE. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O mero atraso na entrega do imóvel é incapaz de gerar abalo moral indenizável, sendo necessária a existência de uma consequência fática capaz de acarretar dor e sofrimento indenizável por sua gravidade. Precedentes.
+ .. .
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.925.514/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta turma, j. 14/6/2021, DJe 17/6/2021)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ATRASO NA ENTREGA DA OBRA. DANO MORAL. INEXISTÊNCIA DE SITUAÇÃO EXCEPCIONAL. INDENIZAÇÃO. NÃO CABIMENTO. RECENTE ORIENTAÇÃO FIRMADA NA TERCEIRA TURMA DO STJ.
+AGRAVO INTERNO NÃO PROVIDO.
+ .. .
+2. A recente jurisprudência consolidada neste Sodalício é no sentido de que o mero inadimplemento contratual não se revela suficiente a ensejar dano de ordem moral hábil a perceber indenização, considerando como hipótese de mero dissabor do cotidiano. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.881.131/SP, de minha relatoria, Terceira Turma, j. 1º/3/2021, DJe 4/3/2021).
+No caso dos autos, ao menos a uma primeira vista, observa-se que opleito indenizatório não foi apresentado apenas com base no atraso da obra.
+A propósito, confira-se excerto da petição inicial:
+ ..  a violência que assola nossa população alcançou o bairro onde os Autores residem de forma mais agressiva e crescente como se vê diariamente nos meios de comunicações que noticiam a onde de assalto e a guerra do tráfico, pois buscaram algo que lhe atendesse de forma urgente para poder criar seu filho em local mais tranquilo. Esse fator foi determinante para que os Autores decidissem em adquirir a unidade oferecida pelas Rés, pois conforme consta do contrato, a unidade estaria pronta em 3 meses, ou, no máximo em 9 meses se a construtora utilizasse o prazo dos 180 dias.
+Os fatos fala por si e justificam a condenação das Rés a repararemos danos morais impostos ilicitamente aos autores, privados da propriedade e moradia que lhes pertence, e que, por infelicidade, resolveu adquirir das rés. Frise-se que os Autores não fores imitidos na posse do imóvel (e-STJ, fl. 11).
+E o acórdão recorrido, por sua vez,fundamentou a configuração dosdanos moraisunicamente na demora na entrega do imóvel, senão vejamos:
+ ..  na presente demanda, inegável que o atraso na entrega da obra trouxe angústia e apreensão aos autores, dada a frustração de suas legítimas expectativas. Há sim, ofensa à incolumidade psíquica e à dignidade, que não pode prescindir de reparação (e-STJ, fls. 451).
+Observa-se que o acórdão recorrido nãose manifestou acerca das alegações constantes da petição inicial relativas a outros elementos fáticos que permitissem um exame mais abrangente, providência determinante para aferir a ocorrência de lesão extrapatrimonial à luz da recente jurisprudência desta Corte, já destacada.
+Desse modo, faz-se necessário o retorno dos autos à Corte fluminensepara que, além sanar a omissão quanto à aplicação do tema 971 do STJ, relativo àimpossibilidade de cumulação da cláusula penal com o pagamento de indenização por lucros cessantes, verifique, também, apossibilidade de deferimento do pedido de dano moral com fundamento nas demais causas de pedir em respeito aos princípios constitucionais da ampla defesa e da inafastabilidade da jurisdição.
+Em conclusão, tenho que o recurso especial merece ser provido em relação a alegada ofensa ao art. 1022 do NCPC, para que sane a omissão no acórdão quanto àaplicação do tema n, 971 do STJ, bem como para, reconhecendo que a simples demora na entrega de imóvel em construção não autoriza indenização por dano moral em favor de JONES e outra, determinar oretorno dos autosao Tribunal fluminense, a fim de que realize novo julgamento da matéria, com observância da orientação jurisprudencial firmada nesta Corte Superior.
+Fica prejudicada a análise das demais violações apontadas no apelo especial.
+Nessas condições, CONHEÇO do recurso especial e, nesta extensão, DOU-LHE PARCIALPROVIMENTO, nos termos acima explicitados.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. ART. 1022 DO NCPC. OMISSÃO CONFIGURADA. DANO MORAL.ATRASO NA ENTREGA DE IMÓVEL. CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO GERA DANO MORAL INDENIZÁVEL. NECESSIDADE DE RETORNO DOS AUTOS À ORIGEM PARA EXAME DAS DEMAIS CAUSAS DE PEDIR. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
