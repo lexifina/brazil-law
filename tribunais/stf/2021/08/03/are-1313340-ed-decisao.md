@@ -1,0 +1,28 @@
+Trata-se de embargos de declaração opostos contra decisão por meio da qual neguei seguimento ao recurso extraordinário com agravo, com os fundamentos, os quais transcrevo, no que importa:
+    “[...] A pretensão recursal merece acolhida.
+    Isso porque o acórdão impugnado diverge do entendimento fixado por esta Corte na ADI 3.110/SP, de relatoria do Ministro Edson Fachin, que declarou a inconstitucionalidade da Lei 10.995/2001, do Estado de São Paulo, uma vez que a lei, a pretexto de proteger a saúde da população, disciplinou a instalação de antenas transmissoras de telefonia celular, adentrando esfera de competência privativa da União. Eis a ementa do referido precedente:
+    […]
+    Assim, diante dos fundamentos assentados na ADI 3.110/SP, verifico que a Lei Municipal 3.998/2001, com esteio na qual o Município de São Caetano do Sul/SP autuou a recorrente sob a alegação de instalação irregular de Estação Rádio-Base, usurpou a competência privativa da União para legislar sobre serviços de telecomunicações (art. 22, IV, da Constituição). Nesse sentido, menciono os seguintes precedentes:
+    […].” ( doc. eletrônico 19)
+    O embargante sustenta haver omissão na decisão recorrida, sob o argumento de que
+    “[...] há omissão nas proposições internas do v. acórdão, na medida em que não se manifestou que a Embargante não legislou sobre telecomunicações, mas acerca de assuntos de interesse local, nos termos do art. 30, I, da Carta Magna, baseando-se, ainda, na própria Lei Federal (Lei 9.472/97) que regulamento as telecomunicações é expressa (art. 74) no sentido de que as prestadoras de serviço de telecomunicações devem obedecer a legislação municipal.
+    5 – Com todas as vênias, vislumbra-se a falta de compatibilidade nas proposições do v. acórdão, já que foram violados não só os comandos da CLT (artigos: 887, ‘caput’ e §s; 888, §1º; 899), como também os artigos do CPC (797; 805; 891; 882, § 2), no que tange a demonstração do preço vil, falta de publicidade e ‘princípio da menor onerosidade’.
+    6 – Assim, há contradição nas proposições internas do v. acórdão vergastado, porquanto há absoluta falta de simetria ao afirmar que o acórdão impugnado diverge do entendimento fixado por esta Corte na ADI 3110/SP, de relatoria do Ministro Edson Fachin, que declarou a inconstitucionalidade da Lei 10.995/2001, do Estado de São Paulo, vez que não há similitude, pois naquela lide discutiu-se a disciplina de instalação das antenas sob o pretexto de proteção à saúde e nestes o interesse local, da qual as prestadoras não estão isentas, nos termos da Lei Federal.” (doc. eletrônico 20)
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico que os embargos declaratórios não merecem acolhida, tendo em vista a ausência dos pressupostos de embargabilidade.
+    Conforme colocado na decisão embargada, esta Corte julgou procedente a ADI 3.110/SP, de relatoria do Ministro Edson Fachin, declarando a inconstitucionalidade da Lei 10.995/2001, do Estado de São Paulo, que estabeleceu condições para a instalação de antenas transmissoras de telefonia celular, por adentrar à esfera de competência privativa da União (art. 22, IV, da CF).
+    Assim, diante dos fundamentos assentados na ADI 3.110/SP, restou evidente que a Lei Municipal 3.998/2001, com esteio na qual o Município de São Caetano do Sul/SP autuou a embargada sob a alegação de instalação irregular de Estação Rádio-Base, usurpou a competência privativa da União para legislar sobre serviços de telecomunicações (art. 22, IV, da Constituição).
+    Outrossim, o acórdão do tribunal de origem, ao reputar válidas normas locais, divergiu do entendimento firmado pelo Plenário deste STF
+    Evidencia-se que, a pretexto de sanar omissão ou contradição, a embargante tem o propósito de provocar o reexame da causa. Entretanto, os embargos de declaração não constituem meio processual adequado para a reforma do julgado, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes de ambas as Turmas desta Corte:
+    “EMBARGOS DECLARATÓRIOS EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO TRIBUTÁRIO. PIS/COFINS. SÚMULA 287 DO STF. AUSÊNCIA DE ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DECLARATÓRIOS OPOSTOS APÓS A VIGÊNCIA DO CPC/15.
+    1. Os embargos de declaração não constituem meio hábil para reforma do julgado sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material.
+    2. A parte Embargante busca rediscutir a matéria, com objetivo de obter excepcionais efeitos infringentes.
+    3. Fixação de multa em 2% do valor atualizado da causa, constatado o manifesto intuito protelatório. Art. 1.026, §2º, do CPC.
+    4. Embargos de declaração rejeitados.” (ARE 924.202-AgR-ED/DF, Rel. Min. Edson Fachin – Primeira Turma).
+    “EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. AUSÊNCIA DE OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. IMPOSSIBILIDADE DE REDISCUSSÃO DA MATÉRIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.” (RE 1.265.368-AgR-ED/AP, Rel. Min. Cármen Lúcia – Segunda Turma).
+    Dessa forma, após analisar detidamente a decisão impugnada, e atento ao que sustentado nos embargos declaratórios, entendo que o julgamento ora combatido não incorreu em nenhum dos vícios descritos pelo art. 1.022 do CPC/2015.
+    Isso posto, rejeito os embargos de declaração (art. 1.024, § 2°, do novo CPC).
+    Publique-se.
+    Brasília, 3 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
