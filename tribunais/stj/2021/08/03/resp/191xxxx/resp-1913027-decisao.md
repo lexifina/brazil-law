@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu provimento a agravo em execução para determinar a retificação do cálculo de pena, aplicando o percentual de 60% para progressão de regime, em crime hediondo.
+Aponta o recorrente violação do art. 112, inciso V, da Lei de Execução Penal, ao argumento de que "a progressão deverá ocorrer com o cumprimento dos 40% (quarenta por cento), visto que, o recorrente foi beneficiado pela aplicação do princípio da retroatividade da lei penal benéfica" (fl. 57).
+Requer o provimento do recurso para restabelecer a decisão de 1º Grau. Contrarrazoado e admitido, manifestou-se o Ministério Público pelo provimento do recurso especial.
+Insurge-se o recorrente contra acórdão que determinou a retificação do cálculo de pena para aplicar o percentual de 60% para progressão de regime, em crime hediondo, nos termos da seguinte ementa (fl. 37):
+AGRAVO EM EXECUÇÃO PENAL. CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE PARA FINS DE PROGRESSÃO DE REGIME. ALTERAÇÕES INTRODUZIDAS PELA LEI Nº 13.964/2019 (PACOTE ANTICRIME). REINCIDÊNCIA ESPECÍFICA. DESNECESSIDADE. APLICAÇÃO DA FRAÇÃO DE 60% (SESSENTA POR CENTO). RECURSO CONHECIDO E PROVIDO.
+1. A Lei nº 13.964/2019, de 24/12/2019, deu nova redação ao art. 112 da Lei de Execuções Penais e estabeleceu novos critérios para a progressão de regime, considerando, entre outros, a primariedade e a reincidência do agente, o emprego de violência à pessoa, o caráter hediondo do delito e o resultado morte. Houve considerável alteração nos percentuais mínimos de cumprimento da pena privativa de liberdade, os quais foram estabelecidos entre 16% a 70% do total da pena imposta.
+2. Agravado cumpre pena unificada de 07 anos e 04 meses de reclusão, dos quais 05 anos e 10 meses de reclusão referem-se à prática de crime hediondo ou equiparado, em cuja condenação foi considerado reincidente.
+3 . O artigo 112 da LEP, com redação dada pela Lei 13.964/2019 (Pacote Anticrime), não utiliza o termo "reincidente específico", não havendo distinção entre reincidência comum ou específica, devendo, portanto, incidir a fração de 3/5 ou 60% a todos os agentes reincidentes, independentemente da natureza do delito anteriormente cometido.
+RECURSO CONHECIDO E PROVIDO.
+A orientação adotada diverge do entendimento da Terceira Seção desta Corte, no REsp 1.910.240, representativo da controvérsia, julgado em 26/5/2021 (DJe 31/05/2021), de relatoria do Ministro Rogério Schietti Cruz, de que "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (Tema 1084).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a decisão de 1º Grau.
+Publique-se.
+Intimem-se.
