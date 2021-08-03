@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por SANTO ANTÔNIO ENERGIA S.A, contra decisão do Tribunal de Justiça do Estado de Rondônia, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Ação indenizatória. Filhos menores. Acordo extrajudicial. Validade. Intervenção do Ministério Público. Autorização judicial. Necessidade. Quitação pelo responsável. Impossibilidade. Ato que extrapola a simples gerência.
+A transação, por ser negócio jurídico bilateral, prescinde de autorização judicial e da intervenção do Ministério Público, porquanto não constitui ato de mera administração a autorizar o pai a praticá-la em nome dos filhos menores.
+Realizada nesses moldes, não pode a transação ser considerada válida, nem eficaz a quitação geral oferecida, ainda que pelo recebimento de direitos indenizatórios oriundos de atos ilícitos" (fl. 865e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 1.630, 1.634, VII e 1.689, II, do Código Civil, afirmando que "o v. acórdão ora recorrido manteve a r. sentença original, que concluiu e decidiu pela homologação parcial do acordo celebrado entre as partes, deixando de abranger os valores relativos à indenização por danos morais efetivamente pagos aos recorridos menores de idade, filhos da recorrida" (fl. 890e).
+Defende que "a representação legal serve para atender ao interesse do incapaz, e sendo a norma permissiva ao exercício da administração de bens de menores pelos pais, inclusive suprindo-lhes a vontade tanto em relações jurídicas judiciais ou extrajudiciais, tem-se que o acordo celebrado entre as partes no presente processo foi válido e regular" (fl. 893e).
+Por fim, requer o provimento do recurso.
+Contrarrazões não apresentadas.
+Inadmitido o Recurso Especial (fls. 969/971e), foi interposto o presente Agravo (fls. 978/989e).
+Sem contraminuta (fl. 1.006e).
+A irresignação não merece prosperar.
+De início, quanto à alegada ofensa aos arts. 1.630, 1.634, VII e 1.689, II, do Código Civil, o Recurso Especial não ultrapassa a admissibilidade, ante o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada").
+Isso porque, para que se configure o prequestionamento, não basta que o recorrente devolva a questão controvertida para o Tribunal, é necessário que a causa tenha sido decidida à luz da legislação federal indicada, bem como seja exercido juízo de valor sobre os dispositivos legais indicados e a tese recursal a eles vinculada, interpretando-se a sua aplicação ou não ao caso concreto.
+Nesse contexto, por simples cotejo das razões recursais e os fundamentos do acórdão, percebe-se que as teses recursaisvinculadas aos dispositivos tidos como violados não foramapreciadas no voto condutor, sequer de modo implícito, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DECLARATÓRIOS. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DA SUMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do recurso, de modo a impedir a compreensão da suposta ofensa ao dispositivo legal invocado, obsta o conhecimento do recurso especial (Súmula n. 284/STF).
+2. A simples indicação dos dispositivos legais tidos por violados, sem que o tema tenha sido enfrentado pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 282 do STF.
+3. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos ou interpretação de cláusula contratual, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+4. No caso dos autos, a modificação das conclusões do acórdão recorrido, a respeito da conduta protelatória do agravante, para fins de afastamento da multa por litigância de má-fé, demandaria análise do conteúdo fático dos autos.
+5. Agravo interno a que se nega provimento" (STJ, AgInt no AREsp 273.612/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 23/03/2018).
+Ademais,a Corte de origem, ao analisar a controvérsia, asseverou que "o acordo firmado não tem o condão de quitar a obrigação de indenizar os menores pelos danos morais pleiteados na inicial, uma vez que não foi firmado perante autoridade judicial e com a devida intervenção do Ministério Público, requisitos estes que se fazem prementes e essenciais, em se tratando de transação que envolva interesse de menores, em observância ao art. 1.691 do CC (386 do CC de 1916" (fl. 863e).
+Entretanto, tal fundamento não foi impugnado pela parte recorrente, nas razões do Recurso Especial. Portanto, incide, na hipótese, a Súmula 283/STF, que dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO DE SENTENÇA. AÇÃO REVISIONAL CUMULADA COM REPETIÇÃO DE INDÉBITO. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. FUNDAMENTO SUFICIENTE. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA Nº 283/STF. HONORÁRIOS ADVOCATÍCIOS. FASE LIQUIDAÇÃO. POSSIBILIDADE. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+4. É possível a fixação de honorários advocatícios na fase de liquidação de sentença com caráter contencioso. Precedentes.
+5. Agravo interno não provido" (STJ, AgInt no AREsp 864.643/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 20/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
