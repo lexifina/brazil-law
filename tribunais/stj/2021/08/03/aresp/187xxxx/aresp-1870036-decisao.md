@@ -1,0 +1,12 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. IPTU. VIOLAÇÃO DOS ARTS. 373 DOCPC, 136, 156 E161 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. AGRAVO EM RECURSO ESPECIAL DO ESTADO DO RIO DE JANEIROA QUE SE NEGA PROVIMENTO.
+1. Trata-se de Agravo interposto pelo ESTADO DO RIO DE JANEIRO, fundado naalíneaa do art. 105, III, da CF/1988, em face do acórdão proferido pelo TJ/RJ, assim ementado:
+Apelação Cível. Ação anulatória de débito fiscal, ICMS. Sentença de procedência. Recurso do réu. Prova da quitação da DARJ-ICMS, contendo todas as informações necessárias ã identificação do contribuinte, com autenticação mecânica emitida pelo Banco do Brasil S/A. Ausência de repasse do valor aos cofres do Estado em razão de fraude envolvendo funcionários do banco responsável. Documentação comprobatória juntada aos autos suficiente para comprovar o pagamento do crédito tributário cobrado, não havendo fato que justifique atribuir responsabilidade pela fraude à contribuinte. Alegações recursais não comprovadas. Recurso desprovido.
+2. No Apelo, a parte recorrente aponta violação(a)do art. 373 do CPC, por ilegal inversão do ônus da prova e (b) dos arts. 136, 156 e 161 do CTN, por reconhecer a existência de pagamento de tributo, sem que o Estado tenha recebido a respectiva quantia em dinheiro em seus cofres.
+3. Com contrarrazões (fls. 293/305), o recurso foi inadmitido na origem (fls. 330/332).
+4. É o relatório.
+5.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+6. Observa-se que o Tribunal de origem não apreciou o ponto referente à violação dos arts. 373 do CPC/2015, 136, 156 e 161 do CTN. Tampouco, a matéria foi suscitada em sede de Aclaratórios, o que impede a sua apreciação na via especial, porquanto não preenchido o requisito do prequestionamento, nos termos da Súmula 211/STJ.
+7. Ademais,o acolhimento das alegações deduzidas no Apelo atraia incursão no acervo fático-probatório da causa, o que encontra óbice na Súmula 7/STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+8. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial interposto pelo ESTADO DO RIO DE JANEIRO.
+9. Publique-se. Intimações necessárias.
