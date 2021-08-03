@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de LUISA FALCÃO MUCKS - em poder de quem, no dia 23/04/2020, foram apreendidos mais de7kg de maconha-, contra acórdão proferido pelo Tribunal de Justiça do Estado do Amazonas no HC n. 4002909-61.2020.8.04.0000, assim ementado (fl. 56):
+"HABEAS CORPUS- TRÁFICO ILÍCITO DE ENTORPECENTES - EXCESSO DE PRAZO PARA OFERECIMENTO DA DENÚNCIA - SUPERVENIÊNCIA DA EXORDIAL ACUSATÓRIA - ALEGADO EXCESSO DE PRAZO SUPERADO - PRISÃO CAUTELAR FINCADA NAS HIPÓTESES DO ART. 312 DO CPP - GARANTIA DA ORDEM PÚBLICA - NECESSIDADE DE MANUTENÇÃO DA CUSTÓDIA - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - RECOMENDAÇÃO Nº 62/2020 DO CNJ - COVID 19 - NÃO DEMONSTRAÇÃO DA EXCEPCIONALIDADE DA MEDIDA - CONSTRANGIMENTO ILEGAL INEXISTENTE - ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+1. Extrai-se dos autos que denúncia foi devidamente oferecida em no dia 01 de junho, restando, assim, superada a alegação de constrangimento ilegal pelo excesso de prazo no seu oferecimento, por não mais subsistir a suposta ilegalidade mencionada na exordial.
+2. A concessão de liberdade é cabível sempre que estiverem ausentes os motivos que justifiquem a segregação preventiva do acusado. Entretanto, não há constrangimento ilegal na manutenção da prisão processual da paciente quando o Magistrado a quo fundamenta a custódia cautelar nos requisitos legais previstos no art. 312 do Código de Processo Penal.
+3. Importante considerar a gravidade concreta dos fatos, uma vez que a paciente foi presa em flagrante no Aeroporto Internacional Eduardo Gomes ao tentar embarcar para a comarca do Rio de Janeiro, estando na posse de vultosa quantidade de entorpecente, a saber, 7 (sete) kg de maconha.
+4. Demonstrada a necessidade e razoabilidade da prisão processual, é despiciente a demonstração de condições pessoais favoráveis pois estas não constituem motivo suficiente para garantir a liberdade da paciente quando estão presentes os requisitos do artigo 312, do Código de Processo Penal. Precedentes.
+5. Por fim, observa-se não ter sido colacionado nenhum documento comprovando ser a paciente portadora de doença que a deixe mais vulnerável ao COVID-19, ou que de alguma forma esteve em possível contato com algum vetor de contaminação, não podendo a mera invocação da Recomendação nº 62 do CNJ, por si só, ser fundamento autorizador da concessão da medida.
+6.Habeas Corpusparcialmente conhecido e, nessa extensão, denegado."
+Alega-se, na presente impetração, em suma, que houve ilegal demora para o oferecimento da denúncia, que "a PACIENTE se encontra presa por 102 dias sem ao menos ter sido dado o devido início a instrução processual" (fl. 6) e que não estão configurados os requisitos da prisão preventiva notadamente em razão dos seus predicados e porque "o crime por ela cometido, embora grave, não foi com violência ou grave ameaça,nem estaria vendendo ou distribuindo drogas a ninguém" (ibidem).
+Requer-se, liminarmente e no mérito, a expedição de alvará de soltura.
+Ocorre que, em consulta aositedo Tribunal local nainternet, constatei queem 24/08/2020foi proferida sentença na qual a Paciente foi condenada nos seguintes termos:
+"Pelo exposto, JULGO PROCEDENTE A DENÚNCIA, para CONDENAR Luisa Falcão Mucks às penas do art. 33, da Lei 11.343/2006.
+Passo à dosimetria da pena. As circunstâncias judiciais do art. 59 do CP, se mostram desfavoráveis à ré, em razão da quantidade de droga.
+Por isso, fixo a pena base do crime do art. 33 da Lei 11.343/2006, em 6 (seis) anos de reclusão. Não há agravante. Milita a favor da Ré a atenuante da confissão, pelo que atenuo a pena em 1/6 (um sexto). A ré preenche os requisitos insculpidos no § 4º do art. 33, da Lei nº 11.343/2006, por isso reduzo a pena de 1/6 (um sexto) a ser compensada com a causa de aumento do art. 40, V, a qual também valoro em 1/6 (um sexto), tornando-a definitiva em 5 (cinco) anos de reclusão, a serem cumpridos em Regime Semiaberto.
+Tendo em vista o princípio da proporcionalidade, fixo a pena de multa em 500 (quinhentos) dias-multa, com o valor de cada dia-multa de 1/30 (um trigésimo) do salário mínimo.
+Ausentes os requisitos dos arts. 43 e seguintes do Código Penal, deixo de substituir a pena de reclusão por restritivas de direitos."
+Em 28/08/2020,foi certificado o trânsito em julgadonoProcesso-crime n.0654245-23.2020.8.04.0001, e a baixa definitiva ocorreu em02/02/2021.
+Assim, não há mais interesse na apreciação da pretensão defensiva, porque a prisão, antes cautelar, agora é definitiva.
+Nesse sentido, mutatis mutandis:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. LATROCÍNIO. PRISÃO PREVENTIVA. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DA SENTENÇA CONDENATÓRIA. PREJUDICIALIDADE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Ocorrido o trânsito em julgado da sentença condenatória, resta prejudicado o pedido de revogação da custódia cautelar, porquanto a prisão tornou-se definitiva.
+2. Agravo regimental improvido." (AgRg no HC 84.210/PB, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, DJe 28/09/2009.)
+Ante o exposto, JULGO PREJUDICADO o pedido dehabeas corpus, com fundamento noart. 34, inciso XX, c.c. o art. 209, todos do Regimento Interno do Superior Tribunal de Justiça.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PEDIDO DE REVOGAÇÃODA PRISÃO PREVENTIVA. ULTERIOR TRÂNSITO EM JULGADO DA CONDENAÇÃO. AUSÊNCIA SUPERVENIENTE DE INTERESSE PROCESSUAL.PEDIDO DEHABEAS CORPUSPREJUDICADO.
