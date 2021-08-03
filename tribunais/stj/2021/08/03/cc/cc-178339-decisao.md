@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de conflito de competência em que é suscitante CBAJ - COMPANHIA BRASILEIRA DE ADMINISTRAÇÃO JUDICIAL (CBAJ), administradora judicial nomeada nos autos da recuperação judicial nº 0015467-64.2019.8.16.0185 de IRTHA ENGENHARIA S.A e outras (GRUPO THÁ), tendo como suscitados o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE CURITIBA/PR e o JUÍZO DE DIREITO DA 2ª VARA CÍVEL DE CAMBORIÚ/SC.
+De acordo com os autos, a suscitante apresentou ao juízo paranaense plano de recuperação cujo processamento foi autorizado.
+Ocorre que na Justiça de Santa Catarina foi proposta ação de obrigação de fazer c/c adjudicação compulsória proposta pela credora TCP LATAM CONSULTORIA LTDA.
+No presente conflito aduziu-se que a Justiça de Santa Catarina não possui competência para dispor de bens e ativos da empresa em recuperação judicial, nos termos da jurisprudência do Superior Tribunal de Justiça.
+As informações foram prestadas pelo juízo suscitado às e-STJ, fls. 59/78.
+O Ministério Público Federal opinou pela declaração de competência do juízo do soerguimento (e-STJ, fls. 85/89).
+É o relatório.
+DECIDO.
+Com base no art. 105, I, d, da Constituição Federal, conheço do incidente instaurado entre juízes vinculados a tribunais diversos.
+A controvérsia gira em torno de se definir qual o juízo competente para decidir sobre os atos executórios do patrimônio de empresa em recuperação judicial.
+Na hipótese dos autos a Justiça de Santa Catarina determinou a baixa da hipoteca e a outorga da escritura definitiva dos dois lotes de matrículas de nº. 10692 e 10693 do Ofício de Registro de Imóvel de Camboriú/SC, porém o Juízo da recuperação judicial ainda não se manifestou quanto à concursalidade do crédito, estando pendente a análise de impugnação apresentada pela interessada.
+De início, observo que a discussão sobre a concursalidade do crédito não pode ser apreciada no âmbito do presente incidente processual, que se destina tão somente a definir a competência do juízo, sem adentrar no mérito das questões eventualmente controvertidas discutidas nas instâncias ordinárias.
+Os créditos extraconcursais, apesar de não se submeterem ao plano recuperacional, sujeitam-se ao juízo universal de modo a evitar que ocorra a expropriação de bens essenciais à continuidade das atividades da empresa em soerguimento.
+De fato, a competência do juízo do soerguimento visa garantir a preferência dos referidos créditos e direcionar a execução ao juízo universal que, ciente da não submissão à recuperação, deverá avaliar a essencialidade dos bens passíveis de constrição, bem como a solidez do fluxo de caixa da recuperanda.
+Em casos como o presente, é firme a jurisprudência do STJ no sentido de que é atribuição exclusiva do juízo universal apreciar os atos de constrição que irão interferir na atividade empresarial, sendo competente para constatar o caráter extraconcursal do crédito discutido nos autos da ação de execução bem como a essencialidade dos bens para a continuidade da empresa.
+Confiram-se os precedentes:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ARRESTO DETERMINADO POR OUTRO JUÍZO EM BENS CONSIDERADOS ESSENCIAIS PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO RECUPERACIONAL. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Segunda Seção, "há absoluta convergência, entre doutrina e jurisprudência, que, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não de algum bem ao funcionamento da sociedade cumpre ser realizado pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação do patrimônio da recuperanda, o que tem o condão, inclusive, de impedir a retirada de bens essenciais, ainda que garantidos por alienação fiduciária, da posse da sociedade em recuperação (art. 49, § 3º, da LRF)" (CC 153.473/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 26/06/2018).
+2. Nessa linha de entendimento, compete ao Juízo da Recuperação das suscitantes decidir sobre a essencialidade das sacas de milho, bem como acerca da definição de sua propriedade, como, de fato, foi feito, cabendo, a partir daí, a impugnação da parte contrária pelos meios recursais próprios.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no CC 169.116/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, j. 16/3/2021, DJe 24/3/2021)
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL E AÇÃO TRABALHISTA. INEXISTÊNCIA DE ATOS DE CONSTRIÇÃO DIRECIONADOS AO PATRIMÔNIO DA EMPRESA RECUPERANDA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA PROMOVIDA NO JUÍZO LABORAL. POSSIBILIDADE. CONFLITO NÃO CONHECIDO. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte Superior de Justiça possui firme o entendimento no sentido de que os atos de constrição tendentes à expropriação de bens essenciais à atividade empresarial e ao próprio soerguimento da empresa devem ser submetidos ao controle do Juízo da recuperação, até mesmo nos casos em que o crédito não se submeta ao plano de recuperação judicial, na esteira do regramento do artigo 49, e parágrafos, da Lei 11.101/2005.
+2. Todavia, no caso sob análise, inexiste demonstração de constrição patrimonial direcionada à suscitante, mas apenas à sócios e coobrigados.
+3. Segundo a redação da Súmula 581/STJ, "a recuperação judicial do devedor principal não impede o prosseguimento das ações e execuções ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória".
+4. A recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005 (REsp 1333349/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 26/11/2014, DJe 02/02/2015).
+5. Agravo interno não provido, ante a inexistência de conflito.
+(AgInt no CC 173.552/MT, Rel. Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. 2/3/2021, DJe 9/3/2021)
+Em suma, cabe ao juízo do soerguimento avaliar a essencialidade de bens pertencentes à empresa em recuperação judicial.
+Nessas condições, CONHEÇO do conflito para declarar competente o JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DE CURITIBA/PR.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO NCPC. RECUPERAÇÃO JUDICIAL. DISCUSSÃO SOBRE A CONCURSALIDADE DO CRÉDITO. VIA INADEQUADA. ESSENCIALIDADE DOS BENS. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
