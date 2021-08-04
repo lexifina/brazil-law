@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por COTRIJUI - COOPERATIVA AGROPECUÁRIA E INDUSTRIAL - EM LIQUIDAÇÃO, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul,assim ementado (e-STJ, fl. 111):
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. JUSTIÇA GRATUITA. PESSOA JURÍDICA. Segundo a jurisprudência do STJ e do STF, apenas é possível a concessão de gratuidade à pessoa jurídica que comprovar precária situação financeira. Ausente demonstração robusta nesse sentido, inviável o deferimento do benefício pleiteado. Precedentes jurisprudenciais. MÉRITO. DEPÓSITO E COMERCIALIZAÇÃO DE GRÃOS. SALDO EM CONTA CORRENTE DO ASSOCIADO. DEVER DE PAGAMENTO DO SALDO CREDOR. A parte autora é devedora confessa em relação aos fatos narrados em inicial, possuindo o agricultor cooperativado o direito de receber o saldo credor existente em sua conta corrente, mostrando-se descabida a tentativa de vincular o inadimplemento à existência de fluxo de caixa. APELAÇÃO DESPROVIDA.
+Opostos embargos de declaração, foram acolhidos mas sem efeitos infringentes.
+Nas razões do recurso especial, a recorrenteaponta, a par de dissídio jurisprudencial,violação doart. 4º da Lei 1.060/50 e art. 98 doCódigo de Processo Civil de 2015 alegando a possibilidade de concessão da gratuidade de justiça mediantesimples afirmação de que não possui condições de arcar comas custas do processo.
+Afirma que passa por liquidação voluntária e por ser uma cooperativa sem fins lucrativos faz jus à concessão do benefício da gratuidade de justiça.
+Sustenta a negativa de vigência dos arts. 3º, 44 e 89, parágrafo único, da Lei 5.764/71 e a possibilidade de imputação dos prejuízos aos associados, sendo devida a apuração de crédito em liquidação de sentença.
+Discorre sobre o princípio do cooperativismo nos termos da Recomendação 193 da Organização Internacional do Trabalho e nos arts.5º, XVIII, 146, III, alínea "c", 174, § 2º e 187, VI, todos da Constituição Federal.
+Assim delimitada a controvérsia, passo a decidir.
+A recorrente pretende a concessão do benefício da gratuidade de justiça em razão da sua condição de cooperativasem fins lucrativos e em estado de liquidação voluntária.
+Sobre o tema, o Tribunal de origem consignou que a recorrente não comprovou a carência de recursos para a concessão da gratuidade de justiça. Confira-se:
+A jurisprudência vem assentada no sentido de concessão da gratuidade às pessoas jurídicas em hipóteses excepcionais, desde que comprovada a carência de recursos que impossibilite o recolhimento das custas, o que não é o caso dos autos, pois a requerente não demonstra a necessidade capaz de ensejar a concessão do benefício.
+ ..
+Ademais, o STJ tem se manifestado no sentido de que cabe à pessoa jurídica fazer prova de que necessita da gratuidade de justiça, conforme julgados abaixo colacionados:
+ ..
+Assim sendo, e considerando que a agravante não logrou êxito em demonstrar situação econômica compatível com o benefício almejado, é de ser mantido o indeferimento da gratuidade da justiça  ..
+Verifica-se, portanto, que não houve debate quanto à possibilidade de concessão da gratuidade de justiça pelo simples fato de a recorrente ser pessoa jurídica sem fins lucrativos e, ainda, estar sob o efeito de liquidação voluntária.
+Assim, não há como ser analisada a questão, tal como posta no recurso especial, emvirtude da falta de prequestionamento.
+Quanto ao mais, o Tribunal de origem consignou que não foi comprovada a carência de recursos, sendo forçoso reconhecer que a revisão das conclusões quanto à hipossuficiência ou não demandaria o reexame do conjunto fático-probatório dos autos, providência inviável nesta fase de recurso.
+Incide, quanto ao tema, os óbices das Súmulas 282 do STF e 7 do STJ.
+No mérito, a pretensão deimputação dos prejuízos aos associados, nos termos dosarts. 3º, 44 e 89, parágrafo único, da Lei 5.764/71e a possibilidade de apuração de crédito em liquidação de sentença, também, não merece prosperar.
+Inicialmente cumpre esclarecer que o Tribunal de origem não rejeitou a alegação de que os cooperados são obrigados acontribuir com o rateio dos prejuízos àluz dos arts. 3º e 89 da Lei nº 5.764/71 mas apenas ressaltouque, no caso, não foi comprovada a deliberação da Assembleia Geral ordinária acerca do rateio dos prejuízos entre os associados e que era descabida a alegação genérica de dificuldade financeira sem a demonstração de que as perdas tenham sido apuradas. Confira-se:
+Efetivamente, não se desconhece das finalidades do ato cooperativo, bem como da possibilidade de rateio dos prejuízos da cooperativa entre os associados.
+Contudo ,não sobreveio aos autos prova de qualquer deliberação acerca do rateio de prejuízos entre os associados, o que deve ser definido em Assembléia - Geral Ordinária.
+ ..
+Nesse contexto, descabe tal alegação de dificuldade financeira, de forma genérica para o descumprimento da obrigação pela cooperativa, sem a demonstração de que as perdas tenham sido apuradas e o rateio tenha sido deliberado em Assembléia - Geral Ordinária, não havendo motivo para que associado aguarde o alegado saneamento que necessitaria a cooperativa para receber o seu crédito  ..
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo que não houve comprovação de que os prejuízos foram apuradose o rateio aprovado pela Assembleia Geral, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice daSúmula7 do STJ.
+Quanto ao mais, ajurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da CF.
+Com isso, não é possível a análise da violação ao princípio do cooperativismo nos termos da Recomendação 193 da Organização Internacional do Trabalho e dos arts. 5º, XVIII, 146, III, alínea "c", 174, § 2º e 187, VI, todos da Constituição Federal.
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
