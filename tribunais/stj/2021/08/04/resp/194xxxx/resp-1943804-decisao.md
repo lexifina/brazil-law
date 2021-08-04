@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por SAULO HENRIQUE GONÇALVES DUMONT, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (e-STJfl. 318):
+APELAÇÃO CÍVEL - AÇÃO ORDINÁRIA - CONCURSO PÚBLICO - CANDIDATO ELIMINADO EM TESTE FÍSICO REALIZADO DURANTE O CONCURSO - LIMINAR CONCEDIDA - AUSÊNCIA DE ILEGALIDADE OU ARBITRARIEDADE - TEORIA DO FATO CONSUMADO - NÃO APLICABILIDADE - REFORMA DA SENTENÇA.
+- Não obstante a Administração Pública e seus entes possuam poder discricionário no exercício administrativo, baseado na conveniência e oportunidade da garantia dos interesses coletivos, tal poder deve conciliar-se com as determinações da lei, admitindo-se a interferência do Poder Judiciário em casos excepcionais sem que haja violação ao princípio da separação dos poderes, consagrado no art. 2º, da CR/88.
+- O Superior Tribunal de Justiça se manifestou recentemente no sentido de que as situações constituídas por medidas liminares posteriormente cassadas não suportam o uso da Teoria do Fato Consumado (Aglnt no REsp 1288565/SE).
+Os embargos de declaração opostos foram rejeitados (e-STJfls. 346-353).
+Nas razões do especial, o recorrente alega violação dos arts. 489 e 1.013 do Código de Processo Civil, ao argumento de que o acórdão proferido pela Corte local carece de fundamentação, uma vez que não foi observado que a juntada da gravação do teste físico realizadoocorreuem razão de pedido da própria parte e que ficou comprovado que foi completado o exame. Assevera que houve omissão na análise da prova, pois ocorreu erro na contagem de abdominaise inobservância das regras do edital.
+Defende que, em hipóteses excepcionais, é admitida a aplicação da teoria do fato consumado com fundamento no art. 493 do CPC/2015. Ressalta que ocupa cargo de agente penitenciário há quase 12 anos.
+Afirma que não houve apenas simples cumprimento de medida liminar, mas sim verdadeira nomeação e posse para o cargo.
+É o relatório.
+Assiste razão à parte recorrente no ponto em que sustenta violação do art. 489 do CPC, pois uma análise detida das decisões proferidas pelo Tribunal de origem, em cotejo com os recursos interpostos pelo insurgente, revela que o acórdão recorrido não se manifestou sobre a alegação de ausência de apreciação da gravação relativa ao teste físico realizado e se tal documento comprova que a parte concluiu o teste físico.
+Por estar configurada a agressão ao disposto no art. 489 da legislação processual, impõe-se a decretação de nulidade do acórdão que apreciou os embargos declaratórios, a fim de que os vícios sejam sanados.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar provimento ao recurso especial, paraanular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado pela via declaratória.
+Publique-se. Intimem-se.
