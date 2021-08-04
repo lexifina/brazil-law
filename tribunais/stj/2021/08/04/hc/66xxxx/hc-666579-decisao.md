@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deCaique Ferreira Martinscontra o acórdão do Tribunal de Justiça de São Paulo proferido no HC n. 2085677-32.2021.8.26.0000, mantendo incólume a segregação cautelar.
+Colhe-se dos autos que opaciente tevea prisão em flagrante convertida em preventiva, em razão da suposta prática dodelitoprevistonoart. 33 da Lei n. 11.343/2006 e art. 329 do Código Penal(fls. 62/64).
+O pedido de revogação da custódia cautelar foi indeferido pelo Magistrado singular às fls. 47/48.
+Inconformada, a defesa impetrouhabeas corpusna origem. O Tribunala quodenegou a ordem em 29/4/2021 (fls. 40/46).
+Daí a presente impetração, em que se alega a existência de constrangimento ilegal ante a ausência de fundamentação idônea para a manutenção da constrição cautelar.
+Sustenta-se que a custódia preventiva está fundamentada na gravidade abstrata do delito, de forma genérica.
+Ressalta-se que a quantidade de drogas apreendidas não é de grande monta.
+Requer-se, assim, a revogação do decreto ou a aplicação de medidas cautelares diversas da prisão.
+Indeferida a liminar em 17/5/2021e solicitadas as informações, essas foram prestadas às fls. 71/129.
+O Ministério Público Federal, em seu parecer, opinoupelo não conhecimento dowrite, caso conhecido, pela denegação da ordem(fls. 133/136).
+Éo relatório.
+Aqui, busca-se a revogação da prisão preventiva imposta ao paciente, ao argumento da ausência de fundamentação para tanto.
+Diza jurisprudência do Superior Tribunal de Justiça que toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade.
+O Juízo de origem, ao decretar a preventiva, assim fundamentou a sua decisão no que interessa (fls. 63/64- grifo nosso):
+ ..
+Na espécie, a fumaça do cometimento do crime emerge dos elementos de informação colhidos até o momento, destacando-se os depoimentos dos policiais (que apresentaram relatos que vinculam o autuado às drogas apreendidas) e laudo de constatação provisória (que resultou positivo para cocaína e tetrahidrocannabinol- fls. 29/33). Também presente o periculum libertatis. O crime em questão não é concretamente grave. O autuado, contudo, é reincidente em roubo e inclusive se encontra em cumprimento de pena (fls. 42/47). Nesse contexto, resta evidenciado que a liberação do custodiado colocaria em risco a sociedade, uma vez que seu histórico criminal indica que se trata de pessoa acentuadamente propensa a atividades delitivas, sendo elevado o risco de reiteração delitiva. Assim, a prisão preventiva se mostra necessária para preservação da ordem pública, finalidade que, em razão da renitência criminosa, não pode ser alcançada com medida cautelar diversa.
+ ..
+O Tribunal estadual, por sua vez, ao denegar a ordem, convalidou a custódia cautelar imposta ao paciente, destacando que,em que pese a quantidade de entorpecentes apreendida não seja expressiva, o paciente é reincidente em roubo e, inclusive, encontra-se em cumprimento de pena, demonstrando que a acusação em questão não se trata de um fato isolado; pelo que entendo estar particularmente presente no caso o periculum libertatis, traduzido na necessidade de garantia da segurança pública local, vulnerada com sua conduta, porquanto presente o especial risco de recidiva(fl. 44).
+Não foi outra a opinião doSubprocurador-Geral da República José Adonis Callou de Araújo Sá em seu parecer (fls. 133/136).
+Assim, observa-se da análise dos trechos acima que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordináriasfizeram referências às circunstâncias fáticas justificadoras, destacando, alémdos entorpecentes apreendidos,o fato de o paciente ser reincidente em crime de roubo e está em cumprimento de pena no momento da prisão em flagrante, justificando o risco de reiteração delitiva, bem como ter resistido à prisão.Tudo a revelar a periculosidadein concretodoagente e justificar a manutenção da medida extrema.
+Com efeito, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo ainda entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Nesse sentido:ateor da jurisprudência desta Corte, a garantia da ordem pública, para fazer cessar a reiteração criminosa, é fundamento suficiente para a decretação e manutenção da prisão preventiva (RHC n. 55.992/SP, Ministro Jorge Mussi, Quinta Turma, DJe 16/4/2015). Confiram-se ainda: RHC n. 108.692/MG, de minha relatoria, Sexta Turma, DJe 24/5/2019; HC n. 481.404/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/5/2019; e RHC n. 107.989/PR, Ministro Jorge Mussi, Quinta Turma, DJe 7/5/2019.
+Há nos autos elementos hábeis a recomendar a manutenção da custódia preventiva, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+Ante o exposto,denegoa ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. RESISTÊNCIA.PRISÃO PREVENTIVA. CIRCUNSTÂNCIAS DO CRIME. RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Ordem denegada.
