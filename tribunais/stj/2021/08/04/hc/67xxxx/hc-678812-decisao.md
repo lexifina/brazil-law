@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de PAULO EDUARDO TOMAZ DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em Execução n. 0004598-32.2021.8.26.0496).
+Os autos dão conta de que o paciente formulou ao Juízo da Execução da Comarca de Ribeirão Preto/SP pedido de retificação de penas para que fosse considerado o quantum de 40% (quarenta por cento) para fins de progressão de regime. Contudo, o pleito foi indeferido, sob o fundamento de que o paciente é reincidente específico em crime hediondo ou equiparado.
+Irresignada, a defesa interpôs recurso em sentido estrito, ao qual foi negado provimento. O acórdão está assim ementado (e-STJ fl. 16):
+HOMOLOGAÇÃO DE CÁLCULOS Agravante reincidente, condenado pela prática de crime de tráfico de drogas Anterior condenação pela prática de crime de tráfico ilícito de entorpecentes - Pedido de retificação do cálculo que considerou a necessidade de cumprimento de 3/5 da pena, para fins de progressão Pretensão de aplicação do percentual de 40% de cumprimento de pena para tal fim, em razão do advento da Lei nº 13.964/19, que seria mais favorável ao sentenciado Não cabimento Reincidência específica atestada nos autos, a autorizar a aplicação da nova redação do art. 112, VII, da LEP Decisão mantida - Agravo desprovido (voto nº 44703).
+No presente writ, a defesa reitera a alegação de que o paciente não é reincidente por crime equiparado, mas sim por crime hediondo. Ademais, com a edição da Lei n. 13.964/2019, o lapsode 60% para progressão de regime é exigido somente em caso de reincidente específico e como o paciente não se enquadra em nenhuma das situações previstas em lei, deve ser aplicada a norma mais favorável.
+Requer, liminarmente e no mérito, a aplicação da lei penal mais benéfica, retificando-se o cálculo para constar o prazo de 40% para fins de progressão de regime prisional.
+O pedido liminar foi indeferido (e-STJ fls. 182/183).
+Informações prestadas às e-STJ fls. 191/201.
+O MPF manifestou-se pelo não conhecimento do writ (e-STJ fls. 188/190).
+É, em síntese, o relatório.
+Não assiste razão à defesa.
+Cumpre esclarecer que, com a redação dos incisos V e VII do art. 112 da Lei de Execução Penal, acrescidos pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência em delitos não hediondos nem equiparados.Tal situação, como prescrevem os princípios gerais do Direito Penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%), por se tratar de analogia in malam partem, possibilidade vedada em nosso ordenamento.
+Contudo, no caso em exame, verifica-se que o paciente é reincidente específico, o que afasta a sua pretensão de aplicação de 40%.
+Nesse sentido, consignou o voto condutor do acórdão atacado (e-STJ fls. 19/20):
+Com efeito, das certidões acostadas aos autos, depreende-se que o agravante, reincidente doloso, foi condenado, nos autos do Processo nº 0002958-76.2012.8.26.0506, pela prática do delito descrito no art. 33, caput, da Lei nº 11.343/06, ao cumprimento da pena de seis anos, nove meses e vinte dias de reclusão,, no regime fechado, com trânsito em julgado para o Ministério Público em 19.02.2014, e, para a defesa, em 29.01.2014, sendo julgada extinta a pena privativa de liberdade, pelocumprimento, em 12.08.2019 (fls. 19); posteriormente, Paulo foi novamente condenado, pela prática do delito previsto no art. 33, caput, da Lei nº 11.343/06, fatos praticados em 28.09.2020 (fls. 12)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
