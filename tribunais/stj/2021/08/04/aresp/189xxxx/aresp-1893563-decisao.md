@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Wanderson Carlos Gomes Pereira contra a decisão proferida pelo Tribunal de Justiça do Distrito Federal e dos Territórios, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando, por sua vez, o acórdão prolatado na Apelação Criminal n. 0712171-75.2020.8.07.0001, assim ementado (fls. 241/242):
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL. ROUBO. TENTATIVA. SIMULAÇÃO DE PORTE DE ARMA. GRAVE AMEAÇA. PROVA SUFICIENTE DA MATERIALIDADE E DA AUTORIA. DESCLASSIFICAÇÃO. FURTO. IMPOSSIBILIDADE. DOSIMETRIA DA PENA. MAUS ANTECEDENTES. REINCIDÊNCIA. CONDENAÇÕES DISTINTAS. BIS IN IDEM. AUSÊNCIA. CONDUTA SOCIAL. PRÁTICA DE CRIME DURANTE A EXECUÇÃO DA PENA. REGIME FECHADO. RÉU REINCIDENTE. CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. SUSPENSÃO MULTA E ISENÇÃO DE CUSTAS. JUÍZO DA EXECUÇÃO. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Nos crimes contra o patrimônio, a palavra da vítima assume particular importância, e mostra-se idônea como meio de prova para amparar a condenação, principalmente quando o depoimento prestado na fase extrajudicial é confirmado em juízo, de forma coesa e harmônica, além de se encontrar em consonância com os depoimentos das testemunhas policiais.
+2. A simulação de arma de fogo configura grave ameaça, assim como o fato de o autor emanar ordem de entrega do bem, incabível a desclassificação para o crime de furto.
+3. Não há que se falar em bis in idem se apenas uma das três condenações transitadas em julgado aptas a caracterizar a reincidência foi utilizada para valorar negativamente os antecedentes do réu.
+4. O fato de o agente ter cometido o novo delito enquanto cumpria pena que lhe fora fixada pela prática de crime anterior é circunstância idônea para motivar o incremento punitivo, com a valoração negativa da conduta social.
+5. Os pedidos de suspensão da pena de multa e de isenção do pagamento das custas processuais são de competência do Juízo das Execuções.
+6. Recurso conhecido e não provido.
+Nas razões do especial, a defesa apontou contrariedade ao art. 59 do Código Penal, aduzindo, em suma, a existência de ilegalidade na fixação da pena-base, em especial na valoração desfavorável do vetor da conduta social (fls. 263/266). Requereu a readequação da pena-base, afastando a valoração negativa da conduta social do recorrente (fl. 466).
+Apresentadas contrarrazões (fls. 289/291), o Tribunal distrital não admitiu o recurso, por incidência da Súmula 7/STJ (fls. 292/293).
+Daí o presente agravo (fls. 299/306). Instado a se manifestar, o Ministério Público Federal opinou não conhecimento do agravo, nos seguintes termos (fl. 325):
+AGRAVO EM RECURSO ESPECIAL. ROUBO TENTADO. DOSIMETRIA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CONDUTA SOCIAL DO AGENTE. RÉU EM GOZO DE PRISÃO DOMICILIAR. MOTIVAÇÃO ADEQUADA. ACÓRDÃO ATACADO QUE ESTÁ DE ACORDO COM O POSICIONAMENTO DESSA CORTE SUPERIOR. INCIDÊNCIA DA SÚMULA Nº 83 DO STJ. PARECER PELO NÃO CONHECIMENTO DO AGRAVO.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Busca a defesa a readequação da pena-base aplicada ao ora agravante, com o afastamento da valoração negativa da conduta social.
+Consta da sentença (fl. 164 - grifo nosso):
+ ..  II.3.1  Do crime de roubo tentado
+Na primeira fase, analiso as circunstâncias do art. 59 do Código Penal da seguinte forma: a culpabilidade não prejudica o réu, eis que o nível de reprovação de sua conduta é próprio do tipo; os antecedentes do réu são desfavoráveis (ID 67335249) possui condenação transitada em julgado por 03 (três) roubos, sendo que uma dessas condenações é agora utilizada para configuração dos maus antecedentes; a personalidade é desinfluente; a conduta social é desfavorável, pois praticou os fatos criminosos enquanto cumpria pena em regime de prisão domiciliar o que é caracterizador de conduta social vocacionada para pratica de crime, consoante entendimento jurisprudencial do TJDFT e do STJ; quanto aos motivos, às circunstâncias e às consequências do crime, esses são próprios do tipo, não havendo o que se sopesar negativamente nesta fase; o comportamento da vítima em nada influiu.  ..
+Por sua vez, o Tribunal distrital afirmou (fls. 247/249 - grifo nosso):
+ ..  Em relação à conduta social, sua valoração negativa se deve ao fato de o acusado ter praticado "os fatos criminosos enquanto cumpria pena em regime de prisão domiciliar o que é caracterizador de conduta social vocacionada para pratica de crime".
+A defesa, por sua vez, alega que a conduta social não pode ser considerada desfavorável sem uma análise subjetiva minuciosa da vida privada do acusado, o que, no seu entender, não foi realizado. Argumenta, também, que "o fato de ter realizado um crime enquanto cumpria pena em regime de prisão domiciliar deve ser levado em consideração no juízo de execução, pois trata- se da possível regressão da pena em que o acusado já cumpre em regime aberto, não deve ser punido mais de uma vez pela mesma conduta em diferentes processos" (ID 19654974 - Págs. 9/10).
+Deveras, o fato de o agente ter cometido o novo delito enquanto cumpria pena que lhe fora fixada pela prática de crime anterior é circunstância idônea para motivar o incremento punitivo.
+Tal conduta revela destemor do indivíduo diante do sistema de Justiça Criminal e indica sua postura reiterada de não obediência alguma à lei e às regras de convivência social.
+Sobre a matéria, confiram-se, a propósito, julgados do c. Superior Tribunal de Justiça, seguido por este e. Tribunal de Justiça:
+ ..
+O que se levou em conta para exasperar a pena do réu, não foi a condenação criminal em si, mas o evidente comportamento social desvirtuante e altamente nocivo do apelante, em não conter seus impulsos delitivos mesmo quando se encontrava cumprindo pena.
+No caso dos autos, segundo pesquisa no Sistema Eletrônico de Execução Unificado - SEEU, ao réu foi concedida a progressão ao regime aberto em 06/04/2020, contudo em 11/04/2020, poucos dias depois, cometeu novo crime (Ocorrência Policial nº 3.821/2020 - 5ª DP (ID 19654512 - Págs. 12/15).
+O aumento se justifica considerando que mais reprovável a conduta criminosa na medida em que o recorrente cometeu o novo crime, quando em gozo de benefício concedido pelo Juízo da Execução, pois é quando se esperava dele maior correção de atitudes.
+Correta, portanto, a análise desfavorável da conduta social.  ..
+Agiram com acerto as instâncias ordinárias.
+Firmou-se nesta Corte a orientação de que a prática de novo delito no curso de cumprimento de pena por crime anterior evidencia maior reprovabilidade da conduta perpetrada e constitui circunstância apta a exasperar a pena-base.
+Nessa linha: AgRg no AREsp n. 1.593.615/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 15/4/2020; HC n. 542.400/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 14/2/2020; AgRg no AREsp n. 1.396.333/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/12/2019; HC n. 497.060/DF, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 20/5/2019; AgRg no HC n. 346.799/SC, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 21/3/2017, dentre outros.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. ROUBO TENTADO. DOSIMETRIA. MAJORAÇÃO DA PENA-BASE. CONDUTA SOCIAL. DELITO PRATICADO DURANTE O CUMPRIMENTO DE PENA EM REGIME DE PRISÃO DOMICILIAR. MAIOR REPROVABILIDADE DA CONDUTA. FUNDAMENTAÇÃO IDÔNEA. SÚMULA N. 568/STJ.
+Agravo conhecido para desprover o recurso especial.
