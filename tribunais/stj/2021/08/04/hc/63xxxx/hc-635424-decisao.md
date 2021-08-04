@@ -1,0 +1,22 @@
+DECISÃO
+VITOR HUGO SILVA DE ANDRADE e ALEXANDRE DE SOUSA LIMA alegam sofrer coação ilegal, em face de acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Os réus foram condenados por tráfico de drogas e absolvidos da acusação de associação para o tráfico. O Tribunal aumentou a pena-base em razão da natureza e da quantidade de drogas e afastou a minorante, pelo mesmo motivo.
+Assim, por ser inviável a utilização de idênticos critérios para se sopesar na 1ª e na 3ª fasesda pena, a defesa requer o restabelecimento da sentença e, em liminar, a possibilidade de cumprimento da pena em regime mais brando.
+A liminar foi deferida para sobrestar os efeitos da condenação (fls. 73-74) e o Ministério Público Federal manifestou-se pela concessão parcial da ordem (fls. 87-93)
+Decido.
+Quanto ao almejado reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem entendeu pela não incidência do redutor, conforme trechos abaixo:
+Em que pese a primariedade dos agentes não é o caso de aplicação do art. 33, § 4º, do Código Penal. Isto porque tal redutor destina-se ao agente primário,de bons antecedentes, que não se dedique à atividade criminosa e nem integre organização criminosa. No caso, os apelantes não são criminosos ocasionais,pelo contrário, eles faziam do tráfico de drogas meio de vida, tanto que não comprovaram o exercício de atividade lícita, foram detidos com expressiva quantidade e variedade de drogas, circunstâncias que denotam o envolvimento habitual no comércio ilícito de entorpecentes, mesmo porque evidentemente queninguém confiaria o armazenamento de tal montante de droga a agente inexperiente.
+ ..
+Na espécie, observo que a quantidade da droga apreendida foi utilizada tanto para exasperar a pena-base quanto para afastar a incidência da minorante.
+Por ocasião do julgamento dos HCs n. 109.193/MG e 112.776, em sessão plenária ocorrida no dia 19/12/2013, o Supremo Tribunal Federal, por maioria de votos, firmou o posicionamento de que as circunstâncias relativas à natureza e à quantidade de drogas apreendidas só podem ser usadas, na dosimetria da pena, ou na primeira ou na terceira fase, sempre de forma não cumulativa.
+E esse fato privilegia, de acordo com o Relator (Ministro Teori Zavascki), o poder de discricionariedade concedido ao juiz na dosimetria, como também o princípio constitucional da individualização da pena. Para o Relator, sopesar a natureza e a quantidade de drogas em duas fases do cálculo da pena caracteriza bis in idem.
+Em 4/4/2014, a matéria foi objeto de nova apreciação pelo Supremo Tribunal Federal, em repercussão geral no ARE n. 666.334/AM, de relatoria do Ministro Gilmar Mendes, em que se reafirmou o entendimento de que as circunstâncias da natureza e da quantidade de drogas apreendidas devem ser levadas em consideração apenas em uma das fases da dosimetria da pena.
+Sobre a matéria posta em discussão, menciono o seguinte julgado desta Sexta Turma, em que já se seguiu a compreensão consagrada pelo Plenário da Suprema Corte: HC n. 294.636/SP, Rel. Ministra Maria Thereza de Assis Moura, DJe 29/9/2014. Na oportunidade, determinou-se que o Magistrado de primeiro grau procedesse à nova dosimetria da pena, utilizando a quantidade e/ou a natureza da droga somente em uma das etapas da dosimetria.
+Menciono, também, precedentes da Corte Suprema que seguiram a orientação do Pleno: HC n. 123.999/MT, Rel. Ministra Rosa Weber, 1ª T., DJe 28/10/2014; HC n. 123.534/RJ, Rel. Ministra Cármen Lúcia, DJe 10/10/2014.
+Dessa forma, uma vez que o mesmo fundamento (quantidade de entorpecentes apreendidos) foi utilizado para justificar tanto a exasperação da pena-base quanto para afastar a minorante do § 4º do art. 33, tenho como caracterizada a ofensa ao princípio do ne bis in idem.
+Como a ilegalidade adveio de ato emanado do Tribunal de origem, caberá a ele realizar nova dosimetria da pena, com a menção à tal circunstância em
+somente uma das etapas da dosimetria.
+À vista do exposto, concedo em parte a ordem, para, em face do indevido bis in idem, determinar à Corte de origem que proceda à nova dosimetria da pena, com a utilização da quantidade da droga apreendida em somente uma das etapas do cálculo, seguida de novo exame a respeito do regime inicial de cumprimento da reprimenda e da substituição da pena privativa de liberdade por restritiva de direitos.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias
+ordinárias.
+Publique-se e intimem-se.
