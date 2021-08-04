@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de MICHELE ARTIGAS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Paraná (Agravo em Execução n. 4000212-04.2021.8.16.0031).
+Depreende-se dos autos ter o Juízo das Execuções Penais indeferido o pleito de prisão domiciliar formulado em favor da ora paciente, decisão essa mantida pelo Tribunal de origem nos termos da seguinte ementa (e-STJ fl. 42):
+DIREITO PENAL E PROCESSO PENAL. AGRAVO EM EXECUÇÃO. INSURGÊNCIA DA APENADA. PEDIDO DE CONCESSÃO DE PRISÃO DOMICILIAR. FRAÇÃO DE 1/8 PARA PROGRESSÃO DE REGIME. IMPOSSIBILIDADE. IMPOSSIBILIDADE DO COMANDO DA HC 143.64. SOMENTE APRESENTAÇÃO DE CERTIDÃO DE NASCIMENTO NÃO É COMPROVAÇÃO SATISFATÓRIA DA VULNERABILIDADE DOS INFANTES. NEM EM SER SUA ÚNICA RESPONSÁVEL. PRISÃO ESPECIAL APENAS PARA CONDENADOS EM REGIME ABERTO. ART. 117 DA LEP. CONDENADA POR TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRECEDENTES. ART. 112, § 3º DA LEP. ORGANIZAÇÃO CRIMINOSA REFERE-SE APENAS AO ART. 1º, LEI 12.850/2013. SOB RECEIO DE INTERPRETAÇÃO EXTENSIVA IN MALAM PARTEM. REINCIDENTE ESPECÍFICA. CRIMES HEDIONDOS. INEXISTÊNCIA DE PRIMARIEDADE. RECURSO CONHECIDO E DESPROVIDO.
+No presente writ, sustenta a defesa que a paciente é a única pessoa responsável pelos seus dois filhos menores.
+Aduz que, "de fato, no caso, além de se presumir a necessidade dos cuidados maternos em relação as referidas crianças, ainda que, apenas no aspecto afetivo não se deve ignorar que a Paciente esteja associada com organizações criminosas, sendo certo, ademais, que o crime em questão não revela violência ou grave ameaça, circunstâncias essas que, em conjunto, ensejam, por ora, a atenuação da situação prisional da acusada. Com relação à alteração da fração, diante da publicação da Lei nº 13.769, as condenadas gestantes, mães ou responsáveis por crianças ou pessoas com deficiência, que não cometeram crimes com violência ou grave ameaça; tampouco cometeram crime contra seus filhos ou dependentes; apresentam bom comportamento carcerário; não integrem organização criminosa e apresentem condição de primariedade, desde que cumprido 1/8 da pena imposta" (e-STJ fl. 15).
+Alega que, "com relação ao comportamento carcerário, nada consta nos autos referente à eventual falta disciplinar, subentende-se que a sentenciada apresenta BOM comportamento carcerário. Assim, diante da nova lei mais benéfica e do comprovante da condição de gestante/mãe/responsável por criança ou pessoa com deficiência, requer-se a modificação da decisão da Colenda Terceira Câmara Criminal do TJ/PR, retificando-se a fração exigida para a obtenção de benefício de progressão de regime para a de 1/8. Demonstrado, portanto, os pressupostos autorizadores da progressão especial de regime, elencados no inciso V, § 3º, artigo 112, da Lei n. 13.769/2018" (e-STJ fls. 15/16).
+Busca, inclusive liminarmente, a concessão da prisão domiciliar, bem como a aplicação da fração de 1/8 para fins de progressão de regime.
+A medida liminar foi indeferida (e-STJ fls. 55/57).
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É o relatório.
+Decido.
+Quanto à pretendida prisão domiciliar e à aplicação da fração de 1/8 para fins de progressão de regime, o voto condutor foi assim entabulado (e-STJ fls. 44/50):
+A concessão de prisão domiciliar é disciplinada no artigo 117 da Lei de Execuções Penais, in verbis:
+"Art. 117. Somente se admitirá o recolhimento do beneficiário de regime aberto em residência particular quando se tratar de:
+I - condenado maior de 70 (setenta) anos;
+II - condenado acometido de doença grave;
+III - condenada com filho menor ou deficiente físico ou mental;
+IV - condenada gestante."
+Ao analisar o dispositivo, consigna-se que o benefício é aplicável para os condenados em regime aberto, com finalidade humanitária, para que cumpram suas penas no conforto do seu lar.
+No caso em tela, depreende-se que a agravante possui duas crianças menores de 12 anos (mov. 16.2 - autos sob nº 0001336-71.2013.8.16.0031, SEEU), porém encontra-se em confinada em regime fechado.
+Noutras palavras, mesmo a agravante preenchendo a hipótese prevista no inciso III do artigo, esse mandamento só seria possível para condenados em regime aberto, o que não é o caso.
+Nesse sentido entende Brito :
+ ..
+Vale ressaltar que a situação das presas gestantes e genitoras foi analisada pelo Supremo Tribunal Federal, em que proferiu um voto exemplar no HC 143.641, sendo relevante nesse caso, o trecho: "Quando a detida for tecnicamente reincidente, o juiz deverá proceder em atenção às circunstâncias do caso concreto, mas sempre tendo por norte os princípios e as regras acima enunciadas, observando, ademais, a diretriz de excepcionalidade da prisão."
+Em atenção ao caso concreto, a agravante não se enquadra na possibilidade excepcional de prisão domiciliar para condenadas que se encontram em regime fechado, considerando que apenas a apresentação da certidão de nascimento das crianças menores de 12 anos (mov. 16.2 - autos sob nº 0001336-71.2013.8.16.0031, SEEU), não é satisfatória para comprovar a situação de vulnerabilidade das crianças, como seu papel de única responsável pelos infantes.
+Ademais, salienta-se a gravidade do crime praticado, reputado por sua alta periculosidade ao corpo social, visto que considerado crime hediondo. Ainda, deve preservar-se o caráter preventivo da pena, isto é, a busca de inibir ao máximo a possível realização de novos atos ilícitos, visto que a agravante é reincidente específica no delito de tráfico de drogas e associação para o narcotráfico, torna-se plausível não conceder a prisão domiciliar, local este que era utilizado para mantimento de entorpecentes.
+Nesse sentido, trago julgados recentes do Superior Tribunal de Justiça e desta Corte de Justiça:
+ ..
+Em relação à concessão de monitoramento eletrônico, requerido pela agravante. Depreende-se que a apenada não faz jus aos requisitos previstos pelo Decreto Estadual nº 12.015, de 01/09/2014, que estabeleceu a regulamentação do dispositivo e instituiu a Central de Monitoração Eletrônica de Presos no âmbito da SEJU, em seu artigo 2º:
+ ..
+Além disso, a apenada sequer preencheu os requisitos objetivos e subjetivos previstos na Lei de Execuções Penais para fins de progressão de regime, que será explorada a seguir.
+Portanto, o indeferimento da prisão domiciliar se dá (i) pelo não preenchimento dos requisitos legais, previstos no artigo 117 da LEP; e (ii) por se tratar de condições excepcionalíssimas que afastam a aplicabilidade do disposto no HC 143.641.
+INAPLICABILIDADE DA FRAÇÃO DE 1/8
+A respeito da alteração da fração para fins de progressão de pena, pugnada pela Defesa (mov. 1.2), destaca-se in casu, a redação do artigo 112, § 3º da LEP:
+"Art. 112. (..) 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente:
+I - não ter cometido crime com violência ou grave ameaça a pessoa;
+II - não ter cometido o crime contra seu filho ou dependente;
+III - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior;
+IV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento;
+V - não ter integrado organização criminosa."
+No presente caso, como supracitado, o crime não foi cometido com violência ou grave ameaça a pessoa e não realizou-se contra os filhos da apenada, a questão em litígio é acerca da extensão do termo "organização criminosa" e a primariedade da agravante, pressupostos para a concessão da fração pretendida.
+Quanto à exegese do inciso V, do artigo 112, o Parquet sustenta que a "organização criminosa" prevista no dispositivo, refere-se a qualquer associação, e que a apenada não faz jus à fração de 1/8 (um oitavo) (mov. 1.4).
+Entretanto, deve prevalecer a jurisprudência da Corte Superior de Justiça no sentido de que "Em direito penal não é permitido o uso de interpretação extensiva para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem." (AgRg no HC 616.267/SP, Rel. Ministro Reynaldo Soares da Fonsenca, Quinta Turma, 09/12/2020, DJe 15/12/2020).
+Considerando que no referido dispositivo, foi utilizada a inteligência de "organização criminosa", irá incidir apenas para os casos previstos no artigo 1º, § 1º, da Lei nº 12.850/2013, in verbis:
+§ 1º Considera-se organização criminosa a associação de 4 (quatro) ou mais pessoas estruturalmente ordenada e caracterizada pela divisão de tarefas, ainda que informalmente, com objetivo de obter, direta ou indiretamente, vantagem de qualquer natureza, mediante a prática de infrações penais cujas penas máximas sejam superiores a 4 (quatro) anos, ou que sejam de caráter transnacional.
+Desse modo, afasta-se a redação para associação para o tráfico, em que a apenada foi condenada, previsto no artigo 35 da Lei 11.343/06 (Lei de Drogas), a fim da não ocorrência de interpretação in malam partem. Nesse sentido, cito julgados desta Câmara:
+ ..
+Enfim, o Código Penal define a reincidência como a prática de novo crime após o trânsito em julgado da sentença penal condenatória. In casu, observa-se a reincidência, considerando que o novo delito foi cometido no dia 30/09/2017 (autos sob nº 0017151-69.2017.8.16.0031), enquanto já havia transitado em julgado sentença condenatória em 15/04/2016 (autos sob nº 0007300-79.2012.8.16.0031).
+Diante disso, restou consignado o não preenchimento dos requisitos previstos no artigo 112, IV, da LEP, visto a inexistência de primariedade da apenada, para a concessão da fração de 1/8 (um oitavo) para fins de progressão de regime.
+Nos mesmos termos da Corte local, "o Superior Tribunal de Justiça tem entendimento no sentido de que, embora o art. 117 da Lei de Execuções Penais estabeleça como requisito para a concessão de prisão domiciliar o cumprimento da pena no regime prisional aberto, é possível a extensão do benefício aos Condenados recolhidos no regime fechado ou semiaberto, desde que demonstrada a excepcionalidade do caso concreto que demonstre a imprescindibilidade da medida, situação afastada pelas instâncias ordinárias, no caso em exame" (AgRg no HC n. 592.361/DF, relatora Ministra LAURITA VAZ, Sexta Turma, DJe 1º/3/2021).
+Neste caso, não demonstrou a impetrante ser a paciente imprescindível aos cuidados dos infantes ou outra excepcionalidade da realidade concreta que recomende a colocação da apenada em prisão domiciliar. Nesse sentido:
+EXECUÇÃO PENAL - HABEAS CORPUS - IMPETRAÇÃO COMO SUCEDÂNEO RECURSAL - IMPROPRIEDADE DA VIA ELEITA - INDULTO ESPECIAL DO DIA DAS MÃES - DECRETO Nº 14.454/2017 - CONDENAÇÃO POR TRÁFICO DE DROGAS, SEM INCIDÊNCIA DO § 4º DO ART. 33 DA LEI N. 11.343/2006 - VEDAÇÃO LEGAL - ART. 1º, III, "f", DO REFERIDO DECRETO - PRISÃO DOMICILIAR POR TER FILHO MENOR DE 12 ANOS - FALTA DE COMPROVAÇÃO DA IMPRESCINDIBILIDADE DOS CUIDADOS DA MÃE PARA COM A CRIANÇA - IMPOSSIBILIDADE - WRIT NÃO CONHECIDO.
+ ..
+4. A jurisprudência recente, tanto do STF quanto do STJ, admite a concessão da prisão domiciliar mesmo a apenados em regime prisional diverso do aberto, desde que a realidade concreta, devidamente comprovada, assim o imponha. A subsunção nas hipóteses previstas nos incisos do artigo 117 da LEP, para a concessão da prisão domiciliar, não é automática. Se faz necessária a comprovação da situação fática que exige a excepcionalidade.
+5. Nesse diapasão, "a melhor exegese do art. 117 da Lei nº 7.210/1984, extraída dos recentes precedentes da Suprema Corte, é na direção da possibilidade da prisão domiciliar em qualquer momento do cumprimento da pena, ainda que em regime fechado, desde que a realidade concreta assim o imponha" (HC 366.517/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 11/10/2016, DJe 27/10/2016), o que não é o caso da paciente. Trata-se de condenada em cumprimento de pena, em regime fechado.
+6. Impende ressaltar que a sentenciada ostenta condenação por tráfico de drogas, sendo que o delito foi praticado no interior da própria residência, situação que compromete, a toda evidência, o regular desenvolvimento do filho menor, inserido pela própria mãe em um ambiente absolutamente inadequado.
+7. De qualquer forma, não há nos autos prova cabal de que a paciente seja mãe de menor sob sua guarda, como também não há nenhuma comprovação da imprescindibilidade dos cuidados da paciente em relação à criança indicada.
+8. Habeas corpus não conhecido. (HC 452.911/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 7/8/2018, DJe 15/8/2018)
+Ademais, nos mesmos termos do julgado acima colacionado, a paciente é reincidente específica nos delitos de tráfico de drogas e de associação para o narcotráfico, demonstrando as instâncias ordinárias que a sua residência era usada para o armazenamento de entorpecentes, situação que não só indica a inadequação da prisão domiciliar, como também evidencia o comprometimento do desenvolvimento dos filhos menores, inseridos pela própria mãe em um ambiente delituoso e hostil.
+De outra banda, ao editar a Lei n. 13.769, de 19 de dezembro de 2018, o legislador promoveu alterações não somente no Código de Processo Penal, mas também na Lei de Crimes Hediondos (Lei n. 8.072/2018) e na Lei de Execução Penal (Lei n. 7.210/1984), com a finalidade de ampliar a proteção dada às mulheres gestantes, mães ou responsáveis por crianças ou pessoas com deficiência.
+Na Lei de Execução Penal foi incluído o § 3.º no art. 112, prevendo progressão de regime especial, in verbis:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..  § 3º No caso de mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência, os requisitos para progressão de regime são, cumulativamente:
+I - não ter cometido crime com violência ou grave ameaça a pessoa;
+II - não ter cometido o crime contra seu filho ou dependente;
+III - ter cumprido ao menos 1/8 (um oitavo) da pena no regime anterior;
+IV - ser primária e ter bom comportamento carcerário, comprovado pelo diretor do estabelecimento;
+V - não ter integrado organização criminosa. (Sem grifos no original.)
+Verifica-se que a lei exigiu a presença de cinco requisitos cumulativos para a concessão do benefício executório, dentre eles, a primariedade.
+No caso, consoante bem pontuado no acórdão impugnado, tendo em vista o fato de ser a reeducanda reincidente específica, inviável a concessão da benesse pleiteada.
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
