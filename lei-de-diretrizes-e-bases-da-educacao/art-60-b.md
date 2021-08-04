@@ -1,0 +1,2 @@
+Art. 60-B. Além do disposto no art. 59 desta Lei, os sistemas de ensino assegurarão aos educandos surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas materiais didáticos e professores bilíngues com formação e especialização adequadas, em nível superior.
+Parágrafo único. Nos processos de contratação e de avaliação periódica dos professores a que se refere o caput deste artigo serão ouvidas as entidades representativas das pessoas surdas.
