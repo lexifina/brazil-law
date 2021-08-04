@@ -1,0 +1,34 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial manejado por BANCO DO BRASIL SA, contra decisão que deixou de admitir recurso especial que interpusera (e-STJ fls. 343-356).
+É o breve relatório.
+Passo a decidir.
+O presente recurso não merece ser conhecido em virtude da ausência de impugnação aos fundamentos da decisão agravada.
+Com efeito, o recurso especial foi inadmitido em razão da incidência da Súmula 284/STF quanto ao art. 1.022 do CPC/2015; da aplicabilidade das Súmulas 211/STJ e 282 e 356/STF quanto aos arts.10, 43, 130, 131 e 276, todos do Código de Processo Civil e aos arts. 93 e 98, ambos do Código de Defesa do Consumidor; bem como da incidência da Súmula 83/STJe das Súmulas 283 e 284/STF.
+A parte agravante, no entanto, limitou-se a alegar que o recurso especial apresentadofoi direto e incisivo em suas razões ao apontar, de forma precisa, a indevida interpretação dada pelo Órgão Julgador no sentido de determinar a remessa dos autos à Justiça Estadual; que não apenas alegouafronta a texto legal, no caso, os arts. 10, 43, 130, 131 e 276, todos do CPC, e os arts. 93 e98 do CDC, masdissídio jurisprudencial devidamente comprovado; que, "ao analisar o teor do acórdão recorrido, nota-se que, dentre a jurisprudência juntada pelo órgão julgador quando de sua fundamentação, nota-se nestes arestos a discussão frontal e direta acerca dos textos ora apontados como infringidos"; que os dispositivos legais anteriormente citados foram cabalmente demonstrados,tanto no acórdão tido como paradigma, quanto nas razões propriamente ditas; que,em momento algum, aponta violação ao art. 1.022 do Código de Processo Civil, sendo inaplicável a Súmula 284/STF; que não há falar em ofensa à Súmula 211/STJ; bem como que "não se fazem presentes os requisitos necessários para fazer refletir os efeitos da Súmula 83 do STJ ao presente recurso".
+Desta forma, vislumbra-se que não houve impugnação, de forma específica e suficiente, aos fundamentos utilizados pelo Tribunal de origempara não admitir o recurso especial, quais sejam, àincidência das Súmulas 282 e 356/STF, da Súmula 211/STJ, e da Súmula 283/STF,de forma a evidenciar o seu efetivo desacerto.
+Saliente-se, por oportuno, que alegações genéricas são insuficientes à impugnação da decisão de inadmissão. Nessa esteira, para viabilizar o prosseguimento do recurso interposto, a irresignação há de ser total, objetiva e pormenorizada. Não basta a impugnação genérica ou a remissão a fundamentos anteriores.
+Veja-se o entendimento desta Corte quanto ao tema:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos. (EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018) - g.n.
+Destarte, a falta de ataque específico à decisão agravada acarreta o não conhecimento do recurso, a teor do que dispõe o art. 932, inciso III, do CPC/2015 (art. 544 do CPC/1973), in verbis:
+"Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ADMISSIBILIDADE. DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ART. 932, III, DO CÓDIGO DE PROCESSO CIVIL/2015 (ART. 544, § 4º, INCISO I, DO CPC/1973).
+1. Incumbe ao agravante infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo (arts. 932, III, do CPC/2015 e 544, § 4º, inciso I, do CPC/1973).
+2. Agravo interno não provido. (AgInt no AREsp 906.849/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 01/09/2016, DJe 16/09/2016) - g.n.
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, III, DO CPC. 2. AGRAVO IMPROVIDO.
+1. Cabe ao agravante, nas razões do agravo, trazer argumentos suficientes para contestar a decisão de inadmissibilidade do recurso especial proferida pelo Tribunal de origem. A ausência de impugnação de todos os fundamentos da decisão agravada enseja o não conhecimento do agravo, nos termos do art. 932, III, do CPC.
+2. Agravo regimental improvido. (AgRg no AREsp 821.544/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/05/2016, DJe 06/06/2016) - g.n.
+Inviável, pois, a pretensão da parteagravante.
+Ante o exposto,NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015.
+AGRAVO NÃO CONHECIDO.
