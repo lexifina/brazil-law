@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelaORDEM DOS ADVOGADOS DO BRASIL -SEÇÃO DE MINAS GERAIScontra decisão que não admitiu recurso especial com base no óbice da Súmula 83/STJ.
+Impugnada especificamente a decisão, conheço do agravo e passo à análise do recurso especial.
+O apelo nobre foi manejado, com amparo na alínea a do permissivo constitucional, em oposição a acórdão assim ementado (e-STJfl. 302):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. ORDEM DOS ADVOGADOS DO BRASIL. PRERROGATIVAS DOS ADVOGADOS NÃO ATINGIDA. AUSÊNCIA DE INTERESSE JURÍDICO. ASSISTÊNCIA SIMPLES. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. A assistência simples é modalidade de intervenção de terceiro cujo pressuposto é o interesse jurídico do assistente.
+2. Ausente o interesse jurídico, inviável a admissão da Ordem dos Advogados do Brasil como assistente simples na ação civil pública.
+3. Agravo de instrumento conhecido e não provido, mantida a decisão que indeferiu o pedido para admissão da Ordem dos Advogados do Brasil na ação civil pública.
+Os embargos de declaração opostos foram rejeitados (e-STJfl. 349).
+Nas razões do especial, a recorrente alega violação dos arts. 44, I e II, 49 e 54 do Estatuto da OAB. Defende, em síntese, que a instauração de um ação civil pública lastreada em parecer opinativo fere as prerrogativas profissionais do advogado e, desse modo, entende que há interesse da OAB em ingressar no feito.
+Parecer do Ministério Público Federal pelo desprovimento do recurso especial (e-STJfls. 455-459).
+É o relatório.
+Na origem, agravo de instrumento interposto por Ordem dos Advogados do Brasil - Seção de Minas Gerais em oposição àdecisão proferida pelo Juízo da Comarca de Raul Soares, que negou oingresso da requerente como assistente simples do réu, nos autos de ação civil pública por ato de improbidade administrativa ajuizada pelo Ministério Público de Minas Gerais contra o advogado Áser Barros de Paula.
+O Tribunal de origem negou provimento ao recurso de agravo de instrumento com base nos seguintes fundamentos (e-STJfls. 306-307):
+Ora, a Ordem dos Advogados do Brasil - OAB somente poderá ingressar no feito como assistente simples caso fique demonstrada a existência de interesse jurídico. Não obstante ela tenha atribuição de representar em juízo os interesses dos advogados inscritos em seus quadros, eventual condenação do interessado na ação de improbidade administrativa não será capaz de interferir na esfera jurídica da OAB, uma vez que o direito discutido é individual, não dizendo respeito à classe dos advogados como um todo.
+Assim, diante da ausência de interesse jurídico, resta inviável a admissão da Ordem dos Advogados do Brasil - OAB na ação civil pública na condição de assistente simples.
+A decisão recorrida está em harmonia com a orientação desta Corte Superiorde que é necessária ademonstração do interesse jurídico na intervenção de terceiro.
+As condutas de advogados que, em razão do exercício de seu múnus, venham a ser incluídos em polo passivo de ações cíveisnão estão a significar, diretamente, que a OAB seja afetada, porque, admitida tal possibilidade, qualquer advogado que cause dano material ou moral a outrem, poderia suscitar intervenção sob argumento de defesa de prerrogativa, o que contraria a razoabilidade.
+Se a demanda não trata das prerrogativas dos advogados, nem das "disposições ou fins" do Estatuto da Advocacia (art, 49, caput, da Lei 8.906/1994), descabe a intervenção da OAB em Ação de Improbidade Administrativa, como em qualquer outra.
+A propósito:
+PROCESSUAL CIVIL. INTERVENÇÃO DE TERCEIROS. ORDEM DOS ADVOGADOS DO BRASIL - OAB. ASSISTÊNCIA. INTERVENÇÃO NEGADA. AUSÊNCIA DE RELAÇÃO JURÍDICA A SER AFETADA PELO RESULTADO DA DEMANDA.
+1. Em Ação de Improbidade Administrativa cujo objeto é a contratação ilegal de serviços advocatícios, o Tribunal de origem determinou a indisponibilidade dos bens do réu e indeferiu o ingresso da OAB como assistente por entender: a) não versando a demanda sobre prerrogativas de advogado, inexiste repercussão na esfera jurídica da entidade; b) o alegado interesse em defender o direito à contratação de serviços advocatícios sem licitação não guarda pertinência com a hipótese dos autos, que se funda na desnecessidade da contratação realizada; c) não há interesse jurídico da OAB no caso, pois nenhuma relação jurídica entre esta e o assistido sofrerá abalo com o resultado da demanda.
+2. A OAB, em suas razões, aponta, entre outros, ofensa ao art. 49 da Lei 8.906/1994 com base no argumento de haver interesse jurídico em intervir como assistente dos réus para demonstrar a licitude da inexigibilidade de licitação para contratação de seus inscritos, pois o caso supostamente fere as prerrogativas da advocacia.
+3. A jurisprudência do STJ exige a demonstração do interesse jurídico na intervenção de terceiro, e "as condutas de Advogados que, em razão do exercício de seu múnus venham a ser incluídos em pólo passivo de ações cíveis, não estão a significar, diretamente, que a OAB seja afetada, porque, admitida tal possibilidade, qualquer advogado que cause dano material ou moral a outrem, poderia suscitar intervenção sob argumento de defesa de prerrogativa, o que contraria a razoabilidade". Precedentes: EREsp 1.351.256/PR, Rel. Ministro Mauro Campbell Marques, Corte Especial, DJe 19/12/2014; AgRg nos EREsp 1.019.178/DF, Rel. Ministra Eliana Calmon, Corte Especial, DJe 20/5/2013; RCD nos EREsp 448.442/MS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 13/06/2018, DJe 22/6/2018;EDcl nos EREsp 650.246/PR, Rel. Ministro Cesar Asfor Rocha, Primeira Seção, DJe 6/8/2012; AgInt no MS 15.828/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 19/12/2016.
+4. Se a demanda não trata das prerrogativas dos advogados, nem das "disposições ou fins" do Estatuto da Advocacia (art, 49, caput, da Lei 8.906/1994), descabe a intervenção da OAB em Ação de Improbidade Administrativa, como em qualquer outra.
+5. Recurso Especial não provido.
+(REsp 1.793.268/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 23/5/2019, DJe 30/5/2019).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO DE IMPROBIDADE. INGRESSO DA OAB COMO ASSISTENTE SIMPLES. IMPOSSIBILIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. De acordo com a jurisprudência do Superior Tribunal de Justiça, a Ordem dos Advogados do Brasil só poderá ingressar no feito como assistente simples nos casos em que demonstre interesse jurídico, sendo insuficiente o simples interesse econômico ou corporativo.
+3. No caso, eventual condenação no bojo da ação de improbidade administrativa não será capaz de interferir na esfera jurídica da OAB, de modo a autorizar o seu ingresso como assistente simples.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.682.547/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 25/4/2019, DJe 20/5/2019).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
