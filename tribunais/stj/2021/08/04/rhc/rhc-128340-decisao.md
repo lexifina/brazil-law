@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpuscom pedido liminar interposto por MARCELO MOREIRA FURTADOcontra acórdão do Tribunal de Justiça do Estado da Paraíba(HC n. 1.0000.18.093591-8/000).
+Depreende-se dos autos que o recorrente foi denunciado pelos crimes de homicídio qualificado (art. 121, § 2º, incisos I e IV, do Código Penal), furto (art. 155 do CP) e posse de arma de fogo de uso permitido (art. 10 da Lei n. 9.437/1997, revogada), por conduta praticada em 4/11/2000. Nãolocalizado,foi citado por edital. Em seguida, o processo e o prazo prescricional foram suspensos,assim como foi renovada a decisão que decretou a prisão preventiva. Em 18/10/2018 o recorrente foipreso na cidade do Rio de Janeiro.
+O Tribunal de origem denegou a ordem de habeas corpus que visava à revogação da prisão preventiva. Eis a ementa do acórdão proferido (e-STJ fl. 148):
+HABEAS CORPUS. ARTS. 121, § 2o, INCISOS I E IV, E 155 DO CP, ALÉM DO ART. 10 DA ANTIGA LEI 9.437/97, CRIMES, EM TESE. PRETENDIDA REVOGAÇÃO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE PROVAS DA AUTORIA, JÁ ANALISADA, ENTRETANTO, EM HC ANTERIOR. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. ARGUMENTO INSUBSISTENTE. TRÂMITE PROCESSUAL EM PRAZO RAZOÁVEL. PRIMEIRA FASE DA INSTRUÇÃO CONCLUÍDA. ANULAÇÃO DA PRISÃO PREVENTIVA DECRETADA. IMPOSSIBILIDADE. DECLARAÇÃO DE EXTINÇÃO DA PUNIBILIDADE PELA PRESCRIÇÃO. INOCORRÊNCIA. SUSPENSÃO DO PRAZO PRESCRICIONAL. DENEGAÇÃO DA ORDEM.
+Alegação atinente à ausência de provas da autoria delitiva exige revolvimento fático da matéria, inviável nesta via estreita, tendo sido, inclusive, já discutida em writ anterior
+Não se verifica constrangimento ilegal, quando o feito teve sua instrução criminal dentro de prazo razoável, estando o julgamento bem próximo de ser realizado, já que os autos encontram-se aguardando a apresentação dos memoriais finais
+Verifico que a mencionada anulação no processo não acarretou, de forma alguma, a anulação da prisão preventiva nem tampouco da suspensão do processo e dos prazos prescricionais.
+No presente recurso, o recorrente defende que a decisão que renovou a prisão preventiva, bem como suspendeu o processo e o curso do prazo prescricional é nula. Sustenta excesso de prazo da prisão preventiva, alegando, nesse ponto, que não se aplica o entendimento pacificado na Súmula n. 52/STJ. Alega que a custódia cautelar carece de fundamentação idônea, afirmando, inclusive, queo Ministério Público opinou favoravelmente por sua revogação.
+Ao final, requer que "seja concedida a liminar do presente recurso, determinando a imediata revogação da prisão preventiva ou relaxamento da prisão por excesso de prazo na formação de culpa". No mérito, postula a confirmação da medida de urgência bem como pleiteia que "seja declarada a extinção da punibilidade dos crimes a teor dos artigos 155 caput CP e 10 da lei 9.437 de 20 de fevereiro de 1997 nos termos do artigo 107 Inc. IV, em razão da anulação do ato que decretou a prisão preventiva, suspensão do processo e do curso prescricional", e pede "o reconhecimento da continuidade da fluidez do prazo prescricional,uma vez que a decisão de suspensão do curso prescricional (fl. 105) decorreu de ato declarado como nulo" (e-STJ fl. 160).
+O pedido liminar foi indeferido.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+O presente feito está prejudicado.
+Isso, porque, conforme informado pela própria defesa às e-STJ fls. 216/240, sobreveio sentença de pronúncia em desfavor do recorrente, ocasião em que foram enfrentadas as teses em discussão, tendo sido inclusive reconhecida a prescrição pleiteada.
+Portanto, julgo prejudicado o presente recurso ordinário.
+Publique-se. Intimem-se.
