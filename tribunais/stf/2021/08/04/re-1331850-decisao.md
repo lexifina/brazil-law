@@ -1,0 +1,25 @@
+DECISÃO
+RECURSO EXTRAORDINÁRIO. ADMINISTRATIVO. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. PRECATÓRIO DE NATUREZA ALIMENTAR. CONVERSÃO EM PRECATÓRIO COMUM. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL. RECURSO EXTRAORDINÁRIO AO QUAL SE NEGA PROVIMENTO.
+Relatório
+    1. Recurso extraordinário interposto com base na al. a do inc. III do art. 102 da Constituição da República contra o seguinte julgado do Tribunal de Justiça do Rio Grande do Sul:
+    “AGRAVO INTERNO. DESCABIMENTO. Não vindo aos autos questão capaz de alterar o julgamento monocrático é de ser mantida a decisão. AGRAVO INTERNO DESPROVIDO” (fl. 1, e-doc. 11).
+    Os embargos de declaração opostos foram rejeitados (e-doc. 15).
+    2. A recorrente alega ter o Tribunal de origem contrariado o art. 100 da Constituição da República e o § 4º do art. 78 do Ato das Disposições Constitucionais Transitórias.
+    Sustenta que “a agravante, no caso em comento, se seu crédito não possuísse caráter alimentar, poderia ter seu crédito adimplido, seja para fins de pagamento de tributos, inclusive mediante sequestro de recursos financeiros da entidade executada” (fls. 13-14, e-doc. 18).
+    Salienta que “a credora, pensionista, idosa, já prejudicada por não ter recebido um direito que lhe foi conferido pela Constituição Federal, a saber: a integralidade da pensão, é preterida, por possuir crédito de caráter alimentar” (fl. 15, e-doc. 18).
+    Pede “seja processado e admitido o presente Recurso Extraordinário, sob o manto do permissivo lançado pelo art. 102, inc. III, letra ‘a’, para, em decorrência final, dar-lhe provimento, reformando a decisão recorrida do Tribunal de Justiça do Rio Grande do Sul, declarando a conversão ou perda da natureza alimentar expedido para não-alimentar, diante da ausência de pagamento do débito dentro do prazo legalmente previso – não atenta contra a ordem cronológica estipulada no caput do art. 100, da CF” (fls. 19-20, e-doc. 18).
+    3. Em 8.9.2011, determinei a devolução deste processo para aguardar-se o julgamento de mérito no Recurso Extraordinário n. 631.537-RG, Relator o Ministro Marco Aurélio, Tema 361 de repercussão geral (e-doc. 34).
+    4. Em 13.8.2020, após o julgamento do mérito do Tema 361, a Primeira Vice-Presidente do Tribunal de Justiça decidiu não ser aplicável, na espécie, a tese de repercussão geral e determinou o retorno deste processo ao Supremo Tribunal Federal (e-doc. 24).
+    Examinados os elementos havidos no processo, DECIDO.
+    5. Razão jurídica não assiste à recorrente.
+    6. Na espécie vertente, o Tribunal de origem afirmou ser “inviável a conversão do precatório de caráter alimentar em não alimentar, pois inexiste previsão legal neste sentido. O art. 100 da Constituição Federal visa apenas garantir o princípio da isonomia entre os litigantes, não se admitindo a referida conversão para mera vantagem ao credor” (fl. 2, e-doc. 7).
+    Este Supremo Tribunal assentou a impossibilidade de alteração da natureza alimentar do precatório expedido, sem que haja previsão legal, para eventual enquadramento desse precatório na norma inscrita no § 4º do art. 78 do Ato das Disposições Constitucionais Transitórias, mesmo que seja para satisfazer alegado benefício do titular do crédito alimentício. Confiram-se os seguintes julgados:
+    “RECLAMAÇÃO. PRECATÓRIO TRABALHISTA. DÉBITO DE NATUREZA ALIMENTÍCIA. NÃO SUBMISSÃO AO PARCELAMENTO PREVISTO NO ART. 78 DO ADCT. SEQUESTRO DE RENDAS PÚBLICAS. NÃO COMPROVAÇÃO DE QUEBRA DE ORDEM CRONOLÓGICA DE PAGAMENTOS. DESCUMPRIMENTO DO QUE DECIDIDO NA AÇÃO DIRETA DE INCONSTITUCIONALIDADE 1.662/DF. RECLAMAÇÃO PROCEDENTE” (Rcl n. 2.640, de minha relatoria, Plenário, DJe 18.5.2011).
+    “A previsão de que trata o § 4º do art. 78 do ADCT da Constituição Federal, na redação dada pela Emenda Constitucional 30/2000, refere-se exclusivamente aos casos de parcelamento de que cuida o caput do dispositivo, não sendo aplicável aos débitos de natureza alimentícia. A única situação suficiente para motivar o sequestro de verbas públicas destinadas à satisfação de dívidas judiciais alimentares é a ocorrência de preterição da ordem de precedência. Precedentes. Reclamação procedente” (Rcl n. 2.452, Relatora a Ministra Ellen Gracie, Plenário, DJe 19.3.2004).
+    O acórdão recorrido ajusta-se a essa orientação jurisprudencial.
+    7. O Supremo Tribunal Federal reafirmou a jurisprudência no sentido de que “o único caso de autorização do sequestro de verbas públicas, previsto no art. 100 da Constituição da República e aplicável aos precatórios de caráter alimentar, consiste na hipótese de burla ao direito de precedência do credor” (RE n. 612.707, Relator o Ministro Edson Fachin, Plenário, DJe 8.9.2020).
+    8. Pelo exposto, nego provimento ao recurso extraordinário (al. b do inc. IV do art. 932 do Código de Processo Civil e § 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 4 de agosto de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
