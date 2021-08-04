@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO  DECISÃO INTERLOCUTORIA QUE INDEFERIU O PROCESSAMENTO DO CUMPRIMENTO DE SENTENÇA  SENTENÇA QUE SE LIMITOU A DECLARAR A IMPROCEDÊNCIA DO PEDIDO DE INEXIGIBILIDADE DO DÉBITO, MAS NÃO CONDENOU O AUTOR AO PAGAMENTO DO VALOR IMPUGNADO  AUSÊNCIA DE RECONVENÇÃO - NEGADO PROVIMENTO AO RECURSO
+Os embargos de declaração opostos foram rejeitados (fls. 36 - 41, e-STJ).
+Nas razões de recurso especial, alega a parte recorrente, em suma, divergência jurisprudencial e violação aos artigos 11, 489, § 1º, 515, I,e 1.022, do Código de Processo Civil de 2015.
+Sustenta a nulidade do acórdão por omissão e deficiência de fundamentação, destacando que: "Ora, se o artigo 515, inciso I, do CPC, citado expressamente no acórdão que julgou o agravo de instrumento, preconiza que dentre os títulos executivos judiciais estão as decisões proferidas no processo civil que reconheçam a exigibilidade de obrigação de pagar quantia, a parcela inadimplida pelo Recorrido deve ser objeto do cumprimento de sentença. A sentença é clara ao considerar "válida a cobrança realizada", ou seja, foi reconhecida a exigibilidade de obrigação de pagar quantia.Ocorre que esta parte da sentença não foi mencionada ou considerada no v.acórdão. Por mais que o i. relator tivesse uma leitura diferente desta parte da sentença, precisaria tê-la citado no acordão e explicitada a motivação do julgamento. Afirmar simplesmente que "a sentença declaratória.. não reconheceu a exigibilidade" não libera o julgador do ônus de enfrentamento do argumento da parte. A clareza da sentença é solar: "por qualquer ângulo que se analise a questão, válida a cobrança realizada pela requerida" (e-STJ, fl. 51).
+Não foram apresentadas contrarrazões.
+O recurso foi admitido na origem, nos termos da decisão de fls. 73 - 74, e-STJ.
+Assim posta a questão, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do novo Código de Processo Civil, conforme Enunciado Administrativo 3/2016 desta Corte.
+Assiste razão ao recorrente.
+Quanto à questão apresentada nos autos,há relevante entendimento extraído do julgamento do REsp1261888/RS, que deu origem ao Tema Repetitivo 509, segundo o qual: "Com a atual redação do art. 475-N, inc. I, do CPC, atribuiu-se "eficácia executiva" às sentenças "que reconhecem a existência de obrigação de pagar quantia". Confira-se a ementa do julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE CONTROVÉRSIA.ART. 543-C DO CPC. SENTENÇA QUE CONDENA CONCESSIONÁRIA DE ENERGIA ELÉTRICA EM OBRIGAÇÃO DE NÃO FAZER (IMPEDIMENTO DE CORTE NO FORNECIMENTO) E DECLARA LEGAL A COBRANÇA IMPUGNADA EM JUÍZO, SALVO QUANTO AO CUSTO ADMINISTRATIVO DE 30% REFERENTE A CÁLCULO DE RECUPERAÇÃO. APLICAÇÃO DO ART. 475-N, INC. I, DO CPC PELA CONCESSIONÁRIA EM RELAÇÃO À PARTE DO QUE FOI IMPUGNADO PELO CONSUMIDOR NA FASE DE CONHECIMENTO. POSSIBILIDADE NO CASO CONCRETO.
+1. Com a atual redação do art. 475-N, inc. I, do CPC, atribuiu-se "eficácia executiva" às sentenças "que reconhecem a existência de obrigação de pagar quantia".
+2. No caso concreto, a sentença que se pretende executar está incluída nessa espécie de provimento judicial, uma vez que julgou parcialmente procedente o pedido autoral para (i) reconhecer a legalidade do débito impugnado, embora (ii) declarando inexigível a cobrança de custo administrativo de 30% do cálculo de recuperação de consumo elaborado pela concessionária recorrente, e (iii) discriminar os ônus da sucumbência (v. fl. 26, e-STJ).
+3. Recurso especial provido. Acórdão submetido ao regime do art.
+543-C do CPC e da Resolução STJ n. 8/08.
+(REsp 1261888/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 09/11/2011, DJe 18/11/2011)
+Nesse contexto, a parte recorrente opôs embargos de declaração destacando o reconhecimento, em sentença, da exigibilidade do débito que pretende executar, e a necessidade de observação do entendimento jurisprudencial desta Corte Superior, acima estampado,sopesando que: (e-STJ, fl. 31):
+Ocorre que, com a devida vênia, o fundamento utilizado no acórdão ora embargado deixou de enfrentar o teor do seguinte parágrafo da sentença proferida:
+"Assim, por qualquer ângulo que se analise a questão, válida a cobrança realizada pela requerida, e, ante o inadimplemento da autora, legítimo o apontamento nos órgãos de proteção ao crédito.
+Logo, não há de se falar em inexigibilidade do débito e muito menos em indenização por danos morais, sendo de rigor a declaração da improcedência dos pedidos."
+A Corte de origem, todavia, não se manifestou quanto ao tema, que, por óbvio pode alterar a conclusão adotada, sendo de rigor o retorno dos autos à origem para que se manifeste de forma fundamentada acerca da aplicação ou não do Tema Repetitivo 509 desta Corte Superior à hipótese dos autos.
+Em face do exposto, dou provimento ao recurso especial, determinando o retorno dos autos à origem para que supra a omissão em apreço.
+Intimem-se.
