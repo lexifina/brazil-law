@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por SIDNEY ANTONIO SERAPIÃO, com fundamento nas alíneas "a" e "c" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim ementado (e-STJ, fls. 94-99):
+"REVISÃO CRIMINAL - SUPRESSÃO DE DOCUMENTO - DECOTE DA DETERMINAÇÃO DE PERDA DE CARGO PÚBLICO - REDUÇÃO DA REPRIMENDA FIXADA - IMPOSSIBILIDADE - PEDIDO DE REVISÃO INDEFERIDO. O ajuizamento de revisão criminal para fins de alteração da pena fixada é restrito a situações excepcionais, somente sendo admitido na hipótese de erro técnico ou evidente injustiça na aplicação da pena".
+Em suas razões recursais, a parte recorrente aponta violação dos arts. 59 e 92, parágrafo único, do CP. Aduz para tanto, em síntese, que: (I) deveria ser afastada a perda do cargo público, por ausência de fundamentação concreta; e (II) caberia a redução da peba-base ao mínimo legal, porque todas as circunstâncias judiciais lhe são favoráveis.
+Com contrarrazões (e-STJ, fls. 156-160), o apelo nobre foi inadmitido na origem (e-STJ, fls. 174-178), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo não conhecimento do recurso especial (e-STJ, fls. 216-219).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não prospera em seu mérito.
+Sobre a dosimetria da reprimenda e os efeitos da condenação, a revisão criminal tem cabimento restrito, apenas admitida quando, após a sentença, forem descobertas novas provas que demonstrem eventual equívoco do juízo sentenciante, ou na ocorrência de flagrante ilegalidade. Destarte, a revisão não pode ser utilizada como se apelação (ou recurso especial) fosse, para rediscutir, minuciosamente e à luz dos mesmos elementos probatórios, as circunstâncias que já foram valoradas no processo originário. Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. REVISÃO CRIMINAL JULGADA IMPROCEDENTE NA ORIGEM. REDUÇÃO DA PENA PELA APLICAÇÃO DE DELAÇÃO PREMIADA. ART. 621, I, DO CPP. VIA IMPRÓPRIA. NÃO CABIMENTO DA AÇÃO REVISIONAL. MERO REEXAME DE FATOS E PROVAS. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP. Precedentes.
+2. Inclusive no que diz respeito à dosimetria da pena, a revisão criminal tem cabimento restrito, somente se admitindo o exame quando, após a sentença, forem descobertas novas provas de elementos que autorizem a revisão da pena, o que não é a hipótese dos autos.
+3. Agravo regimental improvido".
+(AgRg no AREsp 1704043/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/09/2020, DJe 29/09/2020)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. 1) INDEVIDA APLICAÇÃO DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. NÃO VERIFICAÇÃO. JULGAMENTO DE AGRAVO REGIMENTAL QUE SANA EVENTUAL VÍCIO. 2) REVISÃO CRIMINAL. EXCEPCIONALIDADE. INDEVIDA UTILIZAÇÃO COMO SUCEDÂNEO DE APELAÇÃO. AUSENTES AS HIPÓTESES DO ART. 621 DO CÓDIGO DE PROCESSO PENAL - CPP. 3) DOSIMETRIA. DISCRICIONARIEDADE JURIDICAMENTE VINCULADA. AUMENTO DA PENA-BASE. FUNDAMENTAÇÃO CONCRETA. AUSÊNCIA DE ILEGALIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. 4) AFASTAMENTO DA CONTINUIDADE DELITIVA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. 5) INEXISTENTE FLAGRANTE ILEGALIDADE NA DOSIMETRIA DA PENA APLICADA AO RECORRENTE. INCIDÊNCIA DA SÚMULA N. 7/STJ. 6) AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. "A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas" (AgRg no AREsp 1563982/MT, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 5/12/2019).
+ ..
+6. Agravo regimental desprovido.
+(AgRg no REsp 1874238/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/06/2020, DJe 29/06/2020)
+No presente caso, não se colhe do acórdão recorrido (ou mesmo das razões recursais) a indicação de qualquer elemento novo, apto a reverter as conclusões alcançadas pelo Poder Judiciário quando da condenação do recorrente. Sua argumentação seria mais adequada, em verdade, para subsidiar a interposição de apelação ou recurso especialno processo originário, mas não para o ajuizamento de revisão criminal.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ,conheçodo agravo paranegar provimento ao recurso especial.
+Publique-se. Intimem-se.
