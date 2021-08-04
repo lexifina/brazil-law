@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Petição n. 661866/2021em que a defesa pleiteia o reconhecimento da prescrição da pretensão executória, ao argumento de que o Juízo de origem, mesmo após a concessão da ordem por esta corte, não reconheceu o transcurso demais de 6 anos da data do trânsito em julgado para a acusação.
+É orelatório.
+Decido.
+Inicialmente, relembro que a defesa, no habeas corpus impetrado nesta Corte (e-STJ fls. 3/12), apontou como ato coator o acórdão estadual que não havia reconhecido a prescrição executória em razão de que o termo inicial para a contagem do prazo seria a data do trânsitoem julgado para ambas as partes.
+Em 1º/7/2021 (e-STJ fls. 100/103), concedi liminarmente a ordem, de forma parcial, para determinar que o Juízo de primeiro grau verificasse a prescrição da pretensão executória considerando como marco inicial o trânsito em julgado para a acusação.
+Às e-STJfls. 106/107, o Juízo de primeiro grau informa que proferiu nova decisão, oportunidade em que julgou improcedente o pedido de reconhecimento da prescrição executória, sobre o fundamento de que "o prazo de seis anos para a prescrição executória iniciou-se no dia 02/10/2012, quando transitou em julgado para a acusação, porém foi interrompido com a publicação do acórdão confirmatório da sentença condenatória em 26/04/2016, nos termos do art. 117, IV do CPB, quando reiniciou-se o prazo de seis anos (art. 117, § 2º do CPB), não sendo possível declarar a extinção da punibilidade" (e-STJ fl. 107).
+Nesta petição, o requerente aponta ilegalidade produzida pelo Juízo singular;ocorre quea questão relativa à interrupção do prazo prescricional não foi analisada pelo colegiado estadual, de maneira que fica obstado o exame da matéria diretamente por esta Corte, sob pena de indevida supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal.
+Em outras palavras, percebe-se a incompetência desta Corte para o processamento e julgamento da controvérsia, já que inexiste, no ponto, ato coator emanado de tribunal sujeito à jurisdição do Superior Tribunal de Justiça, nos moldes do que exige o art. 105, I, "c", da Constituição Federal.
+Ante o exposto, indefiro o pedido.
+Publique-se. Intimem-se.
