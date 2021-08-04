@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de IGOR ANTONIO WIEDENHOFT CARDOSOno qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+Consta dos autos que o paciente foi preso, com a corré, com 6 pinos de cocaína (sem a especificação da quantidade) e com uma soma de dinheiro.
+Irresignada, a defesa impetrou habeas corpus no Tribunal de Justiça, que denegou a ordem nos termos da seguinte ementa (e-STJ fls. 191/192):
+HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. MANUTENÇÃO.
+1. Caso concreto em que policiais militares, durante patrulhamento de rotina em local conhecido pela existência de ponto de comercialização de drogas, teriam presenciado o momento em que o paciente IGOR e o coacusado TAYLOR transacionaram entorpecentes com o piloto de uma motocicleta. Este, no entanto, logrou êxito em fugir, enquanto os acusados restaram abordados. Realizada revista, foram localizados, na posse do paciente, R$ 12,95, enquanto TAYLOR portava 06 pinos de cocaína e R$ 80,00. Crime doloso, cujo máximo da pena privativa de liberdade cominada é superior a 04 anos. Contexto fático, somado à circunstância de que o paciente responde a outros três processos criminais, todos eles relacionados ao suposto cometimento de tráfico de drogas, apontando a possibilidade de maior envolvimento na atividade ilícita. A existência, em tese, de algumas condições pessoais favoráveis não enseja, por si só, a soltura do paciente, conforme já decidiu o STJ. Via estreita de habeas corpus que não comporta a análise aprofundada de mérito. A prisão cautelar não consiste em cumprimento antecipado de pena ou viola o princípio da presunção de inocência, tendo em vista tratar-se de segregação processual, de natureza cautelar. Necessária a adoção de conduta enérgica, consistente na segregação cautelar, não se mostrando suficientes as medidas cautelares diversas da prisão.Mantida a constrição cautelar.
+2. Ausência de demonstração de que a paciente esteja inserida no "grupo de risco" de contágio pelo Novo Coronavírus (COVID-19), a justificar a pretendida soltura ou colocação em prisão domiciliar, nos termos da Recomendação do CNJ e da decisão proferida pelo STF, nos autos da ADPF nº 347.
+3. Inocorrência de excesso de prazo, pois não verificada desídia por parte da acusação ou do juízo singular. Desde a prisão dos acusados, ocorrida há cerca de 09 meses, houve a conclusão do inquérito policial, o oferecimento e recebimento da denúncia, além da citação de IGOR e apresentação de resposta à acusação pela sua defesa. Foram analisados, ainda, pedidos de soltura, de ambos os réus, e determinadas providências para a citação do corréu, havendo, assim, demonstração de que a autoridade apontadacomo coatora busca para imprimir celeridade ao andamento processual. Nessas condições, verifica-se que o feito, mesmo com as adversidades ocasionadas pela pandemia de COVID-19, vem sendo impulsionado pelo juízo. Nos termos do entendimento do STJ, a contagem de prazo deve ser realizada de modo global, levando em consideração as circunstâncias do caso concreto. Ausente, portanto, o alegado excesso de prazo.
+ORDEM DENEGADA. UNÂNIME.
+A presente impetração funda-se na falta de fundamentação idônea para a decretação da segregação cautelar e no excesso de prazo.
+Diante disso, pleiteia a defesa, em tema liminar e no mérito, a revogação da prisão preventiva.
+Liminar indeferida às e-STJ fl. 262.
+O Ministério Público Federal manifestou-se pelo "não conhecimento do habeas corpus, em razão da perda superveniente de objeto" (e-STJ fl. 274).
+É, em síntese, o relatório.
+O presente writ está prejudicado.
+Isso, porqueinformações prestadas pela instância ordinária dão conta de que o Magistrado de piso revogou a prisão preventiva em comento, no dia 18/12/2020, substituindo-a por medidas cautelares. Veja-se (e-STJ fl. 269):
+Foi designada audiência para o dia 18/12/2020, na qual foi revogada a prisão preventiva dos . réus, em substituição por medidas cautelares.
+O feito encontra-se aguardando a designação de audiência de instrução.
+Assim, patente que o presente writ está prejudicadohaja vista a perda superveniente doobjeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
