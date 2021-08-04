@@ -1,0 +1,31 @@
+DECISÃO
+ROBERTO DOS SANTOS FERREIRA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2195118-79.2020.8.26.0000.
+A defesa busca a soltura do paciente, sob o argumento de que o indeferimento do direito de apelar em liberdade carece de fundamentação idônea.
+Todavia, o Juízo de primeira instância, ao condenar o réu a 7 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado, mais multa,pelo crime do art. 155, §§ 1º e4º, I, II e IV, do Código Penal, ressaltou o seguinte (fl. 73, grifei):
+Tendo os réus respondido ao processo presos, estando agora, com a condenação, ainda mais justificada a prisão cautelar, especialmente diante dos péssimos antecedentes e reincidência de ambos, não fazem jus ao recurso em liberdade. Ademais, a soltura precoce em casos de contínua reiteração consiste verdadeiro estímulo a novas reiterações criminosas, periclitando os bens jurídicos tutelados pelas normas penais.
+O Tribunal local manteve a prisão preventiva, ao consignar (fl. 17, destaquei):
+Ao contrário do que alega a impetrante, a r. sentença que manteve a prisão preventiva do paciente apresenta-se devidamente fundamentada, porquanto explicitou os motivos autorizadores da custódia cautelar, de modo que a medida é necessária para assegurar a ordem pública e a aplicação da lei penal, bem como porque o paciente respondeu o processo preso (fls. 66).
+O MM. Juiz, ao longo da sentença, levou em consideração as circunstâncias concretas do crime praticado pelo paciente, a sua forma de execução e a personalidade deturpada do agente, já que é reincidente em delitos patrimoniais, condição, aliás, que demonstra que, apesar de já ter cumprido pena anteriormente, insiste em manter-se avesso aos ditames da lei e aos padrões sociais, merecendo ser resguardada a ordem pública.
+No mais, o paciente esteve preso durante toda a instrução criminal, sendo ilógico permitir-lhe apelar em liberdade, vez que presentes os requisitos para sua custódia.
+Ajurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal; indicou motivação suficiente e concreta para decretar a prisão preventiva, ao salientar que o acusado é reincidente, por haver sido condenado antes poroutros delitos patrimoniais.Deveras, ao analisar a folha de antecedentes do acusado (fls. 37-50), observo que ele foi condenado anteriormentepor roubo majorado, receptação e furto qualificado (mais de uma vez), além de ter outras ações penais em que figura como réu.
+O STJ, em casos similares, entende que a existência de inquéritos policiais, ações penais em curso e condenações pretéritas denotam a necessidade de se acautelar a ordem pública, ante o risco concreto de recidiva criminosa.
+Confira-se:"O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+Nesse mesmo sentido:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. NEGATIVA DO APELO EM LIBERDADE. RÉU QUE PERMANECEU PRESO DURANTE TODA INSTRUÇÃO E FOI CONDENADO À PENA DE 6 ANOS E 8 MESES DE RECLUSÃO, EM REGIME SEMIABERTO. RÉU QUE POSSUI OUTROS REGISTROS CRIMINAIS. RISCO DE REITERAÇÃO. GARANTIA DA ORDEM PÚBLICA. CONDENAÇÃO AO REGIME INICIAL SEMIABERTO. GUIA DE EXECUÇÃO PROVISÓRIA EXPEDIDA. COMPATIBILIZAÇÃO.SÚMULA 716 DO STF. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. No presente caso, o paciente permaneceu preso durante toda a instrução e teve o direito de recorrer em liberdade negado para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada pelo efetivo risco de voltar a cometer delitos, porquanto responde a outras duas ações penais por crimes contra o patrimônio. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+4. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteraçãodelitiva, justificando a decretação ou a manutenção da prisão preventiva (RHC n. 68550/RN, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 31/3/2016)
+5. Eventuais condições subjetivas favoráveis do paciente, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+ ..
+7. Habeas corpus não conhecido.
+(HC n. 498.960/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 3/6/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. RÉU RENITENTE NA PRÁTICA DELITIVA. COVID-19. RECOMENDAÇÃO N. 62/2020 DO CNJ. INAPLICÁVEL.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso, a manutenção da prisão preventiva foi fundamentada no risco de reiteração delitiva, pois o réu possui extensa folha de antecedentes criminais, o que justifica de maneira idônea a segregação cautelar para resguardar a ordem pública.
+2. Não há comprovação precisa de que o paciente integre o grupo de risco ou que não esteja recebendo o devido tratamento no estabelecimento prisional.
+3. Agravo regimental não provido.
+(AgRg no HC n. 592.307/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/9/2020)
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
