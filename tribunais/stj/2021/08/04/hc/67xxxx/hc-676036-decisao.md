@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIS GUSTAVO RIBEIRO DIAS, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0001987-61.2021.8.26.0996).
+O paciente cumpre pena de 19 anos, 6 meses e 19 dias de reclusão, com vencimento previsto para 9/12/2032, pela prática de 3 roubos majorados.Registrou 5 faltas disciplinares- sendo 4 graves, tendo a última sido reabilitada no mês de abril de 2019-e bom comportamento carcerário.
+O Tribunal a quo negou provimento ao recurso da defesa, mantendo a decisão agravada que indeferiu o pedido de progressão ao regime semiaberto, por ausência de preenchimento do requisito subjetivo.
+A impetrante aponta constrangimento ilegal pois a gravidade abstrata dos delitos, a longa pena a cumprir e falta antiga não são fundamentos idôneos para negar-se o benefício.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para que o paciente seja promovido ao regime semiaberto.
+O pedido de liminar foi indeferido (fls. 86-87).
+Prestadas as informações (fls. 93-108), o Ministério Público Federal opinou pela denegaçãoda ordem(fls. 110-113).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração a fim de verificar a existência de flagrante ilegalidade que justifique a concessão da ordem de habeas corpus de ofício.
+O Tribunal de origem negou provimento ao recurso defensivo, mantendo a decisão da primeira instância, adotando os seguintes fundamentos (fls. 80-81):
+O agravante requereu a progressão ao regime semiaberto, eis que preenchidos o requisito objetivo.
+Contudo, quanto ao requisito subjetivo, entendeu o d. magistrado de primeiro grau que este não estava satisfeito, sob o fundamento de que:
+A despeito do cumprimento do requisito objetivo, o sentenciado não reúne méritos subjetivos para alcançar a progressão e possui longa pena por cumprir, conforme cálculo de liquidação de penas.
+Outrossim, o sentenciado possui histórico prisional desfavorável eis que já perpetrou falta disciplinar de natureza grave, evidenciando a ausência de senso de responsabilidade e a inadequação à terapêutica penal aplicada.
+E mais. tratando-se de crimes cometidos com violência ou grave ameaça à pessoa, no presente caso, roubos, demonstram a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar seu merecimento à progressão para regime mais brando.
+Sendo que diante da situação específica do sentenciado apesar do atestado de bom comportamento carcerário não se pode dizer somente com base nele que está preenchido o requisito subjetivo pois as várias faltas disciplinares anotadas em seu prontuário demonstram com fatos concretos que o sentenciado ainda não desenvolveu meios próprios de autocensura. (fls. 61/62).
+Verifica-se, portanto, que a decisão ora atacada está suficientemente fundamentada, uma vez que foram indicadas as razões pelas quais entendeu o magistrado que não deve o reeducando ser agraciado com a progressão de regime, não havendo que se falar em inidoneidade da fundamentação.
+Ora, para deferimento da progressão de regime necessário se faz o preenchimento simultâneo dos requisitosobjetivos e subjetivos, conforme dispõe o artigo 112, da lei de Execução Penal, sendo este último avaliado pela capacidade do condenado de se adequar a um regime menos rigoroso.
+A conclusão é contrária ao entendimento do STJ, razão pela qual está constatada hipótese de constrangimento ilegal, passível de ser sanado na presente via.
+O Superior Tribunal de Justiça entende que não são fundamentos idôneos para indeferir os benefícios da execução penal a gravidade abstrata dos crimes pelos quais o sentenciado foi condenado.
+Nessa linha, confira-se o seguinte julgado:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. ARTIGO 83 DO CÓDIGO PENAL - CP. REQUISITO SUBJETIVO. CUMPRIMENTO EM REGIME INTERMEDIÁRIO. DESNECESSIDADE. AUSÊNCIA DE PREVISÃO LEGAL. GRAVIDADE ABSTRATA DOS DELITOS. CONSTRANGIMENTO ILEGAL EVIDENCIADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio (cf.: HC 358398/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 9/8/2016).
+2. O art. 83 do Código Penal dispõe que o apenado deverá cumprir os requisitos de natureza objetiva e subjetiva para a obtenção do benefício do livramento condicional. Na hipótese, a origem indeferiu o benefício em questão com fundamento na gravidade abstrata dos delitos praticados e na necessidade de o ora paciente passar, primeiramente, pelo regime intermediário. Dessa forma, resta evidenciada a inidoneidade da fundamentação utilizada. Precedentes.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para afastar a exigência de progressão prévia para o deferimento do livramento condicional, determinando que o Juízo da Execução reaprecie o pedido. (HC n. 623.646/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 11/12/2020.)
+No que diz respeito ao não preenchimento do requisito subjetivo pela prática de falta disciplinar grave, o STJ já tem jurisprudência firmada no sentido de que falta grave antiga e já reabilitada não obsta a concessão de livramento condicional e progressão de regime.
+Veja-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. BENEFÍCIO INDEFERIDO. REQUISITO SUBJETIVO. NOTÍCIA DE FALTA GRAVE PRATICADA EM 2017. FALTA ANTIGA. REABILITAÇÃO DO APENADO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não há falar em desconsideração total do histórico carcerário do preso, mas sim em sua análise em consonância com os princípios da razoabilidade, proporcionalidade e individualização da pena, que regem não só a condenação, como a execução criminal.
+2. Considerando-se a data da última falta praticada, imperioso notar que há decurso considerável de tempo a se concluir pela reabilitação do apenado, dada a natureza progressiva do cumprimento de pena.
+3. Agravo regimental improvido. (AgRg no HC n. 513.650/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 12/9/2019.)
+Recentemente, o STJ decidiu que, para ser considerada como obstáculo ao deferimento do livramento condicional, a falta grave deve ter sido praticada nos últimos 12 meses, conforme determina o art. 83, III, b, do Código Penal, modificado pela Lei n. 13.964/2019 (Pacote Anticrime).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL E PROGRESSÃO DE REGIME. EXAME CRIMINOLÓGICO. IMPOSSIBILIDADE DE INTERPRETAÇÃO EXTENSIVA ÀS RESTRIÇÕES DO DECRETO DE INDULTO/COMUTAÇÃO. ATO DISCRICIONÁRIO DO PRESIDENTE DA REPÚBLICA. INTERPRETAÇÃO SISTEMÁTICA E TELEOLÓGICA PARA DEFERIMENTO DE INDULTO. PACOTE ANTICRIME. AGRAVO DESPROVIDO.
+1. Não se permite interpretação extensiva das restrições contidas no decreto concessivo de comutação/indulto. Em outras palavras, não se pode criar demais restrições à concessão da benesse que não sejam aquelas versadas expressamente na norma presidencial. A leitura que deve ser feita da lei é aquela com base em interpretação que empreste à norma maior concretude possível, porém sempre mantendo como vetor exegético os princípios insculpidos na Constituição Federal.
+2. Se para o indeferimento da comutação pela prática de falta grave é necessário que a referida infração disciplinar seja verificada nos 12 meses anteriores à publicação do Decreto concessivo, não há razão para que, no caso de progressão de regime e livramento condicional tal lapso de tempo não seja igualmente observado.
+3. Interpretação sistemática e teleológica do art. 4º, inciso IV do Decreto 9.246/2017, com seu inciso I.
+4. De acordo com o art. 83, III, do Código Penal (redação dada pela Lei 13.964/2019), falta grave praticada há mais de 12 meses não pode obstar a concessão do livramento condicional.
+5. Agravo regimental desprovido. (AgRg no HC n. 587.663/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+No presente caso, consta dos autos que a últimafalta foi reabilitada no mês de abril de 2019; portanto, não pode essa falta ser considerada obstáculo àconcessão do benefício pretendido.
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para cassar as decisões das instâncias ordinárias e determinar ao Juízo da execução que reaprecie o pedido de progressão aoregime semiaberto, afastada a fundamentação anterior.
+Publique-se. Intimem-se
