@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por ANGELO GONÇALVES, contra decisão em que não foi admitido o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado:
+APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. ATIVIDADE ESPECIAL. RUÍDO. CONJUNTO PROBATÓRIO. RECONHECIMENTO PARCIAL. TEMPO INSUFICIENTE. BENEFÍCIO ESPECIAL NÃO CONCEDIDO. REVISÃO DO BENEFÍCIO ORIGINAL CONCEDIDA. DIB MANTIDA. COREÇÃO MONETÁRIA. JUROS DEMORA. HONORÁRIOS ADVOCATÍCIOS REDUZIDOS. APELAÇÃO DO INSS REMESSA NECESSÁRIA PARCIALMENTE PROVIDAS.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte recorrente apontou a ofensa ao art. 465 do CPC/2015. Sustentou, em resumo, que o Tribunal de origem deveria ter reconhecido nulidade da produção probatória, pois o perito nomeado pelo juízo não teria habilitação técnica necessária para identificar corretamente sua condição mórbida de doença ortopédica que o incapacita para o trabalho.
+Após decisão em que foi inadmitido o recurso especial, com base no Enunciado Sumular n. 7/STJ, foi interposto o presente agravo, tendo a parte recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a parte agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não comporta seguimento.
+Verifico que a pretensão recursal implicaria a revisão do conjunto da produção probatória acerca das qualificações do perito e da ausência de habilitação técnico-científica para a produção do laudo na espécie.
+O Tribunal de origem entendeu que "o experto é especialista em medicina do trabalho, e elaborou o laudo pericial com informações suficientes ao deslinde da causa, tendo respondido aos quesitos de forma clara e conclusiva (fls. 184-190)." (fl. 407)
+No mais, concluiu que a parte recorrente não logrou produzir prova a "contrapor as conclusões da perícia judicial - ônus que lhe competia - uma vez que não apresentou evidências médicas recentes aptas a atestar sua suposta incapacidade. Sendo assim, diante da ausência de elementos técnicos que desqualifiquem o laudo pericial ora confeccionado, bem como de não restar demonstrada a existência de motivo relevante, afasta-se o pleito de nova perícia médica." (fl. 408).
+Nesse panorama, a pretensão recursal implicaria a revisão dos fatos objeto dos autos para que fosse anulada a produção probatória pericial. Incidência do Enunciado Sumular n. 7/STJ.
+De qualquer forma, a jurisprudência deste STJ está consolidada no sentido de se admitir perito com habilitação diversa da pretendida pela parte, bem assim, de ser desnecessária a comprovação da especialização do perito. A propósito: AgRg no REsp 1395776/PR, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 21/10/2013; AgRg no REsp 1230624/PR, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 21/10/2015; AgInt nos EDcl no AREsp 1689091/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 26/3/2021.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
