@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto por INDÚSTRIA DE CALÇADOS WEST COAST LTDA. - EM RECUPERAÇÃO JUDICIAL, com fundamento no art. 105, III, a, da Constituição Federal, visando à reforma do acórdão proferido pelo Tribunal Regional Federal da 4ª Região, que foi assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA (LEI Nº 12.546/2011, ARTS. 7º E 8º). SISTEMA DA NÃO-CUMULATIVIDADE. INAPLICABILIDADE.
+1. As contribuições sociais de que trata o artigo 195, caput, inciso I, alínea b, e inciso IV, da Constituição Federal são, via de regra, cumulativas.
+2. Os parágrafos 12 e 13 do artigo 195 da Constituição Federal permitem que o legislador estabeleça, expressamente, casos em que tais contribuições sejam não cumulativas.
+3. Na Lei nº 12.546/2011, que dispõe sobre a contribuição previdenciária alternativa sobre a receita bruta, o legislador não exerceu a opção de defini-la como não cumulativa.
+4. Não existe, portanto, previsão legal para que o contribuinte apure a contribuição previdenciária substitutiva, prevista na Lei 12.546/11, pelo sistema não cumulativo.
+5. Não há falar, assim, em aplicação do sistema de aproveitamento de créditos - próprio do regime da não cumulatividade - à contribuição previdenciária sobre a receita bruta. Precedentes.
+Nas razões do recurso especial, a parte recorrente acusou a ofensa aos arts. 108, I, do CTN e 4º da Lei de Introdução às Normas do Direito Brasileiro. Sustentou que o Tribunal de origem deveria ter reconhecido a inconstitucionalidade do art. 8º da Lei n. 12.546/11 e, subsidiariamente, o direito em recolher a CPRB no regime não-cumulativo, com fundamento no art. 195, I, b, e § 12º, da Constituição Federal.
+Foi também interposto recurso extraordinário pela parte ora recorrente.
+É o relatório. Decido.
+O recurso especial não comporta seguimento.
+A parte recorrente não demonstrou de que forma teriam sido violados pelo Tribunal de origem os apontados dispositivos: arts. 108, I, do CTN e 4º da Lei de Introdução às Normas do Direito Brasileiro. Apesar de trazer exposição da interpretação de dispositivos constitucionais e do art. 8º da Lei n. 12.546/11 à luz da Constituição Federal, não demonstrou como o Tribunal de origem teria violado lei federal. Ademais, a parte recorrente visa aplicar o regime jurídico da Contribuição ao PIS e da COFINS não cumulativos às contribuições sociais regidas pela Lei n. 12.546/2011, o que o Tribunal de origem reputou incongruente. Portanto, diante da fundamentação recursal deficiente, aplica-se a Enunciado Sumular n. 284/STF, por analogia.
+Ainda que fosse superado esse óbice, a fundamentação trazida nas razões do recurso especial e a do teor do acórdão recorrido tiveram embasamento em dispositivos constitucionais (em especial, o art. 195, I, b, e § 12º, da Constituição Federal).
+A parte recorrente tevecomo pedido principal a declaração de inconstitucionalidade do art. 8º da Lei n. 12.546/11.
+O Tribunal de origem assim se manifestou: "Não se sustenta, portanto, a tese apresentada pelo impetrante. É descabido tanto afastar a CPRB, por inteiro, por inconstitucionalidade, assim como, subsidiariamente, criar judicialmente autorizações de crédito e débito que inexistem na legislação, para, em nítida e vedada atuação como legislador positivo, o Poder Judiciário criar um regime não-cumulativo dependente de lei e que não foi criado pelo legislador." (fl. 739).
+Ocorre que não cabe ao Superior Tribunal de Justiça apreciar a alegada violação a dispositivos constitucionais ou reapreciar os fundamentos constitucionais em que o recurso e o acórdão recorrido se fundamentaram, sob pena de usurpação da competência do Supremo Tribunal Federal.
+A propósito: AgInt no AREsp. 1.528.081/RJ, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 13.5.2020; REsp 1811008/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 17/6/2019; AgInt nos EDcl no AREsp 1213905/SP, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 22/8/2019.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
