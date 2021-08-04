@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deANDERSON TAVARES DA CONCEICAOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO(Apelaçãon. 0041815-15.2018.8.19.0204, relator Desembargador João Ziraldo Maia).
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 84/88, in verbis:
+Trata-se de habeas corpus, com pedido liminar, impetrado pela Defensoria Pública com fundamento no art. 5o, inciso LXVIII, da Constituição Federal e nos artigos 647 a 667, todos do Código de Processo Penal, em favor de Anderson Tavares da Conceição, contra o acórdão prolatado pela 4ª Câmara Criminal do Tribunal de Justiça do Estado do Rio de Janeiro, que deu parcial provimento à apelação defensiva (autos n.º 0041815-15.2018.8.19.0204), apenas para reduzir a pena de multa aplicada no caso para 16 dias-multa, mantendo, no mais, a sentença que condenou o réu, ora paciente à pena de 06 anos e 08 meses de reclusão, em regime fechado, pela prática do crime de roubo majorado, tipificado no art. 157, § 2º, II, do Código Penal. O acórdão atacado foi assim ementado:
+ ..
+Sustenta a impetração, em síntese, a ocorrência de constrangimento ilegal na dosimetria da reprimenda, postulando a redução da pena-base, tendo em vista que a impossibilidade de negativação da circunstância judicial referente à personalidade do agente com base na folha de antecedentes do réu. Argumenta que "a análise da folha criminal, portanto, deve ser reservada exclusivamente à circunstância judicial dos antecedentes, os quais podem ser valorados de forma mais gravosa, conforme a presença de diversos registros de condenações definitivas". Afirma, ainda, que a utilização de simulacro de arma de fogo também não pode ser considerada para justificar a exasperação da pena-base, eis que "em nada altera o grau de reprovabilidade incidente sobre a conduta. Trata-se de circunstâncias evidentemente compreendida no desvalor da conduta tipificada no art. 157, caput, do CP, que é crime contra o patrimônio que prevê a violência e grave ameaça como elementos constitutivos do tipo, gerando verdadeiro bis in idem a sua consideração como determinante de exasperação da pena-base". Por fim, defende a possibilidade de alteração do regime prisional (e-fls. 03-14).
+O Ministro Relator indeferiu o pedido liminar e solicitou informações ao Tribunal de origem (e-fls. 70-71).
+Com informações (e-fls. 76-79), vieram aos autos, para parecer, a esta Procuradoria- Geral da República.
+É, do essencial, o relatório.
+O Parquet opinou pela concessão da ordem de ofício.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, "adosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp 1.661.671/PB, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/5/2020, DJe 27/5/2020).
+A primeira etapa de fixação da reprimenda, como é cediço, tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal. As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao prolator da sentença apresentar elementos concretos de convicção presentes no bojo do processo. Sendo assim, é inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade. Não atende à exigência do art. 93, inciso IX, da Constituição Federal a simples menção aos critérios enumerados no art. 59 do Código Penal, sem anunciar os dados objetivos e subjetivos que a eles se amoldam, ou a invocação de fórmulas imprecisas em prejuízo do condenado.
+Sendo assim, "a valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp 1.672.105/MS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 1º/9/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PENA-BASE. CONSEQUÊNCIAS. MOTIVAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Acerca das consequências, ficou registrado o trauma psicológico sofrido pelas vítimas - especialmente a que estava grávida de seis meses à época da ação criminal, que declarou que o bebê, após o crime, não manteve a taxa de crescimento e o peso esperado, nascendo abaixo do peso normal.
+2. As instâncias antecedentes apresentaram motivação idônea para a exasperação da pena-base do paciente, baseada em elementos concretos dos autos - os prejuízos materiais e extrapatrimoniais suportados pelas vítimas.
+3. Agravo regimental não provido.
+(AgRg no HC 490.633/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 29/11/2019.)
+Contudo, condenações definitivas por fatos posteriores à conduta descrita na denúncia não autorizam a fixação da pena-base acima do mínimo legal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO COMBATEU TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA.APLICABILIDADE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. DOSIMETRIA. PRIMEIRA FASE. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO INIDÔNEA. INQUÉRITOS E PROCESSOS EM ANDAMENTO. IMPOSSIBILIDADE DE CONSIDERAÇÃO. SÚMULA 444 DESTE STJ.PENA REDUZIDA. REGIME INICIAL MODIFICADO. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. É inviável o agravo que deixa de atacar, especificamente, todos os fundamentos da decisão agravada. Incidência do enunciado 182 da Súmula desta Corte.
+2. Consoante orientação sedimentada nesta Corte Superior, inquéritos policiais ou ações penais em andamento ou sem certificação do trânsito em julgado, ou mesmo condenações transitadas em julgado por fatos posteriores, não podem ser considerados como maus antecedentes, má conduta social ou personalidade desajustada, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Exegese do enunciado 444 da Súmula deste STJ, verbis: "É vedada a utilização de inquéritos policiais e de ações penais em curso para agravar a pena-base".
+3. Agravo regimental a que se nega provimento. Habeas Corpus concedido de ofício.
+(AgRg no AREsp 894.405/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/5/2016, DJe 13/6/2016.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO TENTADO. DOSIMETRIA. SÚMULA N. 444 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência deste Tribunal Superior pacificou entendimento no sentido de que nem mesmo condenações transitadas em julgado, por fatos posteriores ao delito em exame, podem ser consideradas reveladoras de má conduta social ou personalidade desajustada e servir como supedâneo a fim de justificar o afastamento da reprimenda básica do mínimo legalmente previsto em lei, sob pena de malferir o princípio constitucional da presunção de não-culpabilidade. Inteligência da Súmula n. 444/STJ.
+2. Agravo regimental desprovido.
+(AgRg no HC 550.993/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 31/8/2020.)
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO SIMPLES.DOSIMETRIA. PENA-BASE. AUMENTO EM RAZÃO DE USO DE SIMULACRO DE ARMA DE FOGO. IMPOSSIBILIDADE. SÚMULA 174/STJ CANCELADA. ILEGALIDADE DEMONSTRADA. REPRIMENDA INICIAL REDUZIDA. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+1. A jurisprudência desta Corte superior, desde o cancelamento da Súmula 174/STJ, não admite mais a exasperação da pena-base com fundamento em simulacro de arma de fogo, o qual é apto para caracterizar apenas a grave ameaça, circunstância inerente ao tipo penal de roubo.
+2. Agravo regimental improvido.
+(AgRg no HC 401.040/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/11/2017, DJe 24/11/2017.)
+Do mesmo modo, a utilização de simulacro de arma de fogo não é suficiente para tanto.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. CORRUPÇÃO DE MENORES. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME.PARTICIPAÇÃO DE ADOLESCENTE. SIMULACRO DE ARMA DE FOGO. FUNDAMENTO INERENTE AO TIPO PENAL. FUNDAMENTAÇÃO INIDÔNEA. AUMENTO. TERCEIRA FASE. DUAS MAJORANTES. AUSÊNCIA DE MOTIVAÇÃO CONCRETA.IMPOSSIBILIDADE. SÚMULA 443/STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+ ..
+2. Nos termos da jurisprudência desta Corte, "o uso de simulacro de arma de fogo não é elemento capaz de caracterizar especial desvalor da conduta do apenado, porquanto deve ser considerado como circunstância inerente à violência ou grave ameaça caracterizadoras do tipo penal do roubo" (AgRg no HC 568.150/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/5/2020, DJe 18/5/2020).
+ ..
+4. Agravo regimental improvido.
+(AgRg no AREsp 1705612/AL, Rel. Ministro OLINDO MENEZES,DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, SEXTA TURMA, julgado em 18/5/2021, DJe 24/5/2021.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.TENTATIVAS DE ROUBO DUPLAMENTE MAJORADO. DOSIMETRIA. CIRCUNSTÂNCIAS DO CRIME. VALORAÇÃO NEGATIVA. QUANTUM DE PENA REVISTO. OFENSA À SÚMULA 443/STJ NÃO CARACTERIZADA. REGIME PRISIONAL SEMIABERTO.PROPORCIONALIDADE. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. O emprego de simulacro de arma de fogo foi valorada para a tipificação da conduta como crime de roubo, caracterizando a elementar da grave ameaça, não podendo ser, pois, novamente utilizada para exasperar a pena-base, tendo as instâncias ordinárias incorrido em indevido bis in idem.
+4. Para fins do art. 59 do Código Penal, as circunstâncias do crime devem ser entendidas como os aspectos objetivos e subjetivos de natureza acidental que envolvem o fato delituoso. In casu, o decreto condenatório demonstrou que o modus operandi do delito revela gravidade concreta superior à ínsita aos crimes de roubo, pois houve invasão domiciliar e restrição da liberdade de quatro vítimas, além do emprego de grande violência na senda criminosa, que resultou, inclusive, na morte de um dos seus comparsas, restando, assim, motivada a elevação da básica.
+ ..
+8. Writ não conhecido. Ordem concedida, de ofício, a fim de reduzir a pena a 2 anos, 9 meses e 7 dias de reclusão, a ser cumprida em regime prisional semiaberto, salvo se, por outro motivo, o paciente estiver descontando reprimenda em meio diverso.
+(HC 595.958/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 18/8/2020, DJe 24/8/2020.)
+Sendo assim, imperioso redimensionara pena.
+Desse modo, e seguindo as demais diretrizes das instâncias ordinárias, a pena estabelece-se em 5 anos e 4 meses de reclusão, e 13 dias-multa.
+Ante o exposto, concedo a ordema fim de redimensionar a pena para 5 anos e 4 meses de reclusão, e 13 dias-multa.
+Publique-se. Intimem-se.
