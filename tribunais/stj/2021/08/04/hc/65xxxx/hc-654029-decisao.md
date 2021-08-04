@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Alex Tavares de Franca - preso preventivamente pela prática, em tese, dos crimes de tráfico e associação para o tráfico de drogas -, em que se aponta como autoridade coatora o Tribunal de Justiça de Pernambuco, que denegou a ordem ali impetrada (Habeas Corpus n. 0015710-80.2020.8.17.9000), mantendo a prisão cautelar imposta pelo Juízo de Direito do plantão judicial da comarca de Jaboatão dos Guararapes/PE (Autos n. 0001281-46.2020.8.17.0420), mantida pelo Juízo da 1ª Vara Criminal da comarca de Camaragibe/PE.
+Alegam os impetrantes, em síntese, constrangimento ilegal na instauração de ação penal contra o paciente, eivada de nulidade absoluta, tendo em vista que as circunstâncias em que ocorreu a prisão em flagrante denotam a invasão de domicílio, uma vez que a busca domiciliar se deu sem autorização judicial ou fundadas suspeitas da prática de crime.
+Postulam, então, a concessão liminar da ordem para que seja trancada a ação penal proposta contra o paciente.
+Em 24/3/2021, indeferi o pedido liminar (fls. 162/163).
+Dispensadas as informações, o Ministério Público Federal opinou pela denegação da ordem (fls. 169/171).
+É o relatório.
+O Tribunal de origem consignou que (fl. 34 - grifo nosso):
+ ..  muito ao revés do afirmado pelo defensor do acusado, depreende-se da peça incoativa, e ratificados em parte pela própria impetração, que os agentes públicos estavam realizando rondas no bairro de Timbi, quando presenciaram dois indivíduos em atitudes suspeitas e, ao abordá-los, encontraram com os mesmos grande quantidade de droga ilícita (dois quilos de maconha). Indagados os autuados sobre a origem da droga, apontaram ser a mesma de propriedade do paciente. Ato contínuo, os policiais se dirigiram à morada do paciente e, após realizarem buscas no imóvel, encontraram uma fração menor da mesma droga apreendida com os outros autuados, confirmando a prática do delito de tráfico ilícito de entorpecentes. No contexto descrito do auto de prisão em flagrante delito, é certa a situação de flagrância, estando demonstrada, portanto, a fundada razão para o ingresso dos agentes no imóvel, não se havendo falar em nulidade da prova obtida por ausência de mandado de busca e apreensão.
+ ..
+Da atenta análise do auto de prisão em flagrante verifica-se que a versão apresentada pelos policiais não destoa da apresentada pelos demais investigados, no sentido de que eles atribuíram a propriedade da droga ao réu, o que ensejou a entrada dos policiais em sua residência. Inexiste nos autos elementos dando conta da suposta entrada forçada, pois, ao que se tem, a esposa do paciente estaria no recinto, tendo o acusado sido contatado apenas depois.
+Assim, inviável reconhecer a alegada nulidade por invasão de domicílio, até porque existia fundada suspeita da prática de crime, decorrente da delação dos próprios corréus.
+Esta Corte tem decidido com base na orientação de que somente quando o contexto fático anterior à invasão permitir a conclusão acerca da ocorrência de crime no interior da residência é que se mostra possível sacrificar o direito à inviolabilidade do domicílio (AgRg no HC n. 642.733/PI, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 21/6/2021).
+Em face do exposto, denego a ordem.
+Publique-se.
+EMENTA
+PROCESSUAL PENAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO EM FLAGRANTE. ALEGAÇÃO DE NULIDADE. INVASÃO DE DOMICÍLIO. DELAÇÃO DE CORRÉUS QUE ATRIBUÍRAM A PROPRIEDADE DA DROGA AO PACIENTE. SUSPEITA FUNDADA. INEXISTÊNCIA, ADEMAIS, DE INDÍCIOS DE ENTRADA FORÇADA NA RESIDÊNCIA. CONSTRANGIMENTO ILEGAL. AUSÊNCIA.
+Ordem denegada.
