@@ -1,0 +1,20 @@
+DECISÃO
+RENATO CONCEICAO TAVARESalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HC n. 2283348-97.2020.8.26.0000.
+O paciente foi preso preventivamente pela suposta prática dos delitos tipificados nos arts. 33 e 35 da Lei n. 11.343/2006. O impetrante ressalta que os crimes teriam sido praticados, em tese, sem violência ou grave ameaça e que a quantidade da droga apreendida seria ínfima e se destinaria ao consumo próprio. Sustenta a inidoneidade dos fundamentos do decreto preventivo, que não teriam comprovado concretamente o preenchimento dos requisitos do art. 312 do Código de Processo Penal.
+Alega a ausência de provas concludentes da autoria delitiva. Aduz que as medidas cautelares diversas da prisão seriam adequadas e suficientes para alcançar o fim desejado com a prisão, notadamente diante do quadro de pandemia da Covid-19 e dos termos da Recomendação CNJ n. 62/2020.
+A liminar foi indeferida (fls. 62-63) e o Ministério Público Federal manifestou-se pela denegação da ordem (fls. 88-93).
+Decido.
+O Tribunal a quo assim se pronunciou acerca da manutenção da prisão preventiva:
+Com efeito, em face das informações prévias recebidas pelos policiais acerca do envolvimento do paciente com o tráfico de drogas, pelas porções de cocaína e dinheiro apreendidos, além de balança de precisão e eppendorfs usados para a embalagem de drogas, inclusive no estabelecimento comercial daquele, e tendo em vista a reincidência e os maus antecedentes de RENATO, o qual estava em cumprimento de pena no regime aberto (fls.48/51e57/68), não há constrangimento ilegal na prisão preventiva para a garantia da ordem pública.
+ ..
+Consequentemente, as medidas cautelares alternativas não seriam suficientes e adequadas ao caso (art.282,IeII,doCPP),bem como perde relevância a existência de predicados pessoais favoráveis.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicou motivaçãoconcreta para decretar a prisão preventiva, ao salientar areincidência e os maus antecedentes de Renato, o qual estava em cumprimento de pena no regime abertoquando cometeu, em tese, o delito objeto deste writ.
+O STJ, em casos similares, entende que a existência de inquéritos policiais, ações penais em curso e condenações pretéritas denotam a necessidade de se acautelar a ordem pública, ante o risco concreto de recidiva criminosa.
+Confira-se:"O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+Nesse sentido: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+As demais questões alegadas não foram analisadas pela Corte local, o que impede o exame do tema por essa Corte, sob pena de indevida supressão de instância.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
