@@ -1,0 +1,15 @@
+DECISÃO
+FERNANDO MARCALalega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulono HC n. 2297340-28.2020.8.26.0000.
+Nesta Corte, a defesa postula a revogação da prisão preventiva do paciente, mantida na decisão que o pronuncioupela incursão no art. 121, § 2º, III e IV, do Código Penal, sob os seguintes argumentos: a) ausência de indícios de envolvimento na prática ilícita, visto que, "em sede judicial, o Réu Eduardo  coacusado  chama para si a total responsabilidade pelo homicídio" (fl. 8); b) inidoneidade dos motivos exarados para a manutenção da medida, sobretudo diante das condições pessoais favoráveis do réu.
+Extrai-se dos autos que o ora paciente e o coacusado tiveram sua prisão em flagrante, pela suposta prática do crime de homicídio qualificado, convertida em custódia preventiva, "por se tratar de crime que envolveextrema violência, tendo os acusados golpeado várias vezes a cabeça e o braço da vítima causando sua morte imediata" (fl. 104, grifei).
+Ao pronunciar os réus, o Juízo singular consignou que, "apesar de os acusados serem tecnicamente primários,  ..  agravidade concreta do delito impõe que eles sejam mantidos no cárcere, já que os elementos do crime evidenciam tratarem-se de indivíduos violentos, cuja liberdade representa risco à ordem pública" (fl. 77, destaquei).
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Inicialmente, observo que, conquanto a defesa sustente não haver indícios suficientes de autoria delitiva, as instâncias ordinárias foram firmes ao asseverar que os elementos constantes dos autos são bastantes para evidenciar a participação do paciente na prática delitiva. Logo, para afastar essa conclusão seria necessária ampla dilação probatória, incompatível com a via estreita do habeas corpus.
+Na hipótese, são idôneos os fundamentos exarados para manter a prisão provisória do acusado, pois evidenciam a gravidade concreta da conduta supostamente perpetrada - homicídio em concurso de agentes mediante diversos golpes na cabeça e no braço da vítima -, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para lastrear a imposição da cautela extrema. A propósito:
+ ..
+1. A manutenção da prisão cautelar está suficientemente fundamentada, tendo sido amparada na especial gravidade da conduta, evidenciada pelo modus operandi do delito - pois as instâncias ordinárias salientaram que os Acusados teriam adentrado na residência e matado a ofendida com golpes na cabeça, provocados por um pedaço de madeira, e estocadas com arma branca no tórax, em razão de questão patrimonial. Tais circunstâncias são aptas a justificar a segregação cautelar para garantia da ordem pública.
+ ..
+6. Ordem de habeas corpus denegada, com recomendação de urgência na conclusão do feito.
+(HC n. 605.289/RS, Rel. Ministra Laurita Vaz, 6ª T., DJe 2/3/2021, grifei)
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
