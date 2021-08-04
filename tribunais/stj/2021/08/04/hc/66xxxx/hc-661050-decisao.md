@@ -1,0 +1,35 @@
+DECISÃO
+GUSTAVO BOSCO DE GODOYalegasofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que denegou o HC n. 5033747-11.2021.8.21.7000.
+Consta dos autos que o paciente foi preso preventivamente pela suposta prática dos crimes previstosnos arts. 33 e35, caput,da Lei n. 11.343/2006.
+A defesa aduz, em síntese, ausência dos requisitos legais para o decreto de prisão preventiva doréu.
+Requer, assim, seja revogada a custódia preventivaou seja substituída a prisão preventiva por medidas cautelares diversas.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento do writ e, caso conhecido, pela denegação do habeas corpus.
+Decido.
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, há motivos concretos e idôneos para embasar a ordem de custódia doacusado, porquanto o Juiz de primeiro grau, ressaltoua gravidade concreta da conduta, notadamente a quantidade dadroga apreendida e a forma que estava embalada, bem como a existência de denúncias "de que o local onde ocorreram as prisões era ponto de venda de drogas da facção conhecida como "os abertos", inclusive havia denúncias que os flagrados eraresponsáveis pela venda de drogas no local"(fl. 18, destaquei).
+Seguem trechos do decreto de prisão(fl. 18, grifei):
+A apreensão do narcótico (maconha, crack e cocaína), bem como a situação em que abordado os flagrados, conforme consta da ocorrência policial, firmam a materialidade da infração penal de tráfico de drogas.
+O delito, em tese, cometido, é por deveras grave, e denota flagrante atividade voltada ao tráfico de drogas, diante da natureza da droga apreendida. A quantidade apreendida é significativa, e a forma como estava acondicionada, remete ao modo hodierno de acomodada para a prática do delito em exame. Além disso, conforme ocorrência policial, havia denúncias de que o local onde ocorreram as prisões era ponto de venda de drogas da facção conhecida como "os abertos", inclusive havia denúncias que os flagrados era responsáveis pela venda de drogas no local.
+Assim, há, pois, prova da materialidade e indícios de autoria, configurando-se, portanto, as hipóteses autorizadoras de prisão preventiva, ou seja, para fins de garantia da ordem pública
+O Tribunal de origem, ao manter a custódia dopaciente, destacou (fls. 23-24, grifei):
+Veja-se que o modus operandi do paciente e comparsa, denota organização para a prática criminosa, pois, segundo o que foi relatado, enquanto um cuidava para evitar a prisão o outro vendia as drogas.
+No caso em tela, após informações da ocorrência de traficância, policiais militares dirigiram-se ao local informado, momento em que foi realizada a abordagem do paciente e de um codenunciado, os quais estariam traficando entorpecentes em frente à residência, bem como exercendo as funções de "cofre" e "olheiro" para os codenunciados que armazenavam as drogas. Ademais, de acordo com o Inquérito Policial, o paciente recepcionava os usuários que se dirigiam até o local.
+Ademais, as investigações realizadas pela Brigada Militar apontaram que o modus operandi utilizado dava-se por meio de dois indivíduos que permaneciam em frente à residência cuidando da movimentação, recepcionando os usuários, recolhendo o dinheiro e, posteriormente, entregando a droga, enquanto outros indivíduos permaneciam no interior da casa.
+Ainda, em revista ao codenunciado Lucas, que estava em frente à residência, foi encontrada uma bucha grande de cocaína. Ato contínuo, os policiais militares ingressaram na residência, momento em que os indivíduos que estavam no interior de casa, jogaram uma sacola plástica pela janela, a qual foi recuperada, constatando a presença de 39 gramas de maconha, 13 porções de crack, pesando 4,54 gramas e 3 buchas de cocaína, pesando 11,02 gramas, consoante Auto de Apreensão (Ev. 01 - fl. 13-14) e Laudo de Constatação da Natureza da Substância (Ev. 01 - fl. 60) dos autos do processo de origem (5000321-76.2021.8.21.0058/).
+Posteriormente, em revista à residência em questão, os policiais militares apreenderam cerca de R$ 2.271,80, os quais estavam escondidos embaixo do colchão.
+ ..
+Insta acentuar que as investigações apontaram que a residência mencionada seria comandada pelo líder da facção criminosa "Os Abertos", Anderson Correa Borghetti.
+Ademais, em consulta à Certidão de Antecedentes Criminais, extrai-se que o paciente é reincidente pelos delitos de furto e corrupção de menores, conforme colaciono:
+ ..
+Tais circunstâncias evidenciam que a constrição cautelar se mostra medida adequada e necessária para fragilizar a própria estrutura organizacional da qual o réu, em tese, fazia parte e, dessa forma, cessar a prática de novas infrações penais.
+A respeito do tema, a jurisprudência desta Corte Superior é firme em assinalar que "se justifica a decretação de prisão de membros de organização criminosa como forma de interromper as atividades do grupo" (RHC n. 70.101/MS, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 5/10/2016).
+Na mesma linha de raciocínio, o Supremo Tribunal Federal também possui o entendimento de que "a necessidade de interromper a atuação de organização criminosa e o risco concreto de reiteração delitiva justificam a decretação da custódia cautelar para a garantia da ordem pública" (AgR no HC n. 138.522/DF, Rel. Ministro Roberto Barroso, 1ª T., DJe 19/6/2017).
+Por idênticos argumentos, a adoção de medidas cautelares diversas não é adequada na hipótese, diante da gravidade da conduta em tese perpetrada (art. 282, II, do Código de Processo Penal), a denotar particular periculosidade doréu.
+Nesse sentido:
+ ..  6. Mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando a segregação encontra-se fundada na gravidade concreta do delito, indicando que as providências menos gravosas seriam insuficientes para acautelar a ordem pública.
+7. Ordem não conhecida.
+(HC n. 424.606/PR, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/2/2018).
+Por fim, ressalto que, sob o prisma do entendimento adotado por esta Corte Superior de Justiça acerca da necessidade de manutenção da prisão preventiva em casos como o dos autos, não há óbice a que se decida estehabeas corpus de forma monocrática, haja vista ser expressamente autorizado -pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal - que o Relator decida o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com a jurisprudência dominante acerca do tema.
+À vista do exposto, denego ohabeas corpus.
+Publique-se e intimem-se.
