@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto porROSELI MARIA DE BRITO CARDOSO com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. TEMPO DE LABOR RURAL. AUSÊNCIA DE INÍCIO DEPROVA MATERIAL. APOSENTADORIA POR IDADE RURAL. EXTINÇÃO DO FEITOSEM RESOLUÇÃO DE MÉRITO.
+- É assegurado o benefício da aposentadoria por idade aos trabalhadores rurais, na forma da Lei n. 8.213/91, ao segurado que completar 60 (sessenta) anos deidade, se homem ou 55 (cinquenta e cinco) anos, se mulher mediante a comprovação do exercício da atividade rural, ainda que de forma descontínua, no período equivalente à carência exigida, nos termos do art. 26, III, e art. 142 do referido texto legal.
+- Ausência de início de prova material do labor rurícola. Extinção do feito sem resolução de mérito.
+- Honorários advocatícios fixados em 10% do valor da causa, suspensa sua exigibilidade, por ser a parte autora beneficiária da assistência judiciária gratuita, nos termos dos §§2º e 3º do art. 98 do CPC.
+- Apelação prejudicada.
+No presente recurso especial, o recorrente aponta como violados os arts.39, I, 48, caput e § 1º, 55, § 3º e 142, todos da Lei 8.213/1991. Sustenta, em síntese, que apresentou vasta prova material para comprovação do labor rural. Ressalta que o marido da recorrente foi aposentado como rurícola em 2010 e que a comprovação do labor rural após esse período pode se dar por prova testemunhal. Indica divergência jurisprudencial com julgado do Superior Tribunal de Justiça.
+É o relatório. Decido.
+Sobre a prova material, o acórdão recorrido consignou:
+Como documentos aptos, inicialmente, a constituir início de prova material, foram coligidos aos autos: certidão de casamento, de 1974, na qual o marido da autora fora qualificado como lavrador (página 22); certidão de nascimento do filho, de 1979, na qual o marido constou com a qualificação de lavrador (página 23); e certidão de casamento da filha, de 1994, na qual o marido da requerente constou com a qualificação profissional de lavrador.
+No entanto, consta do CNIS carreado aos autos pela ré que o cônjuge da requerente se aposentou em 2010, não havendo prova posterior a essa data que indique que ele deu continuidade aos trabalhos rurais.
+Indispensável, portanto, que a requerente trouxesse provas documentais, posteriores à aposentadoria do marido, que a vinculassem diretamente às lides campesinas, o que não ocorreu.
+Contudo, há de se ressaltar que, segundo orientação desta Corte de Justiça, diante da dificuldade de se comprovar a atividade rural por intermédio de prova escrita, o rol de documentos hábeis à comprovação do exercício de atividade rural, inscrito no art. 106, parágrafo único, da Lei 8.213/1991, é meramente exemplificativo, e não taxativo, sendo admissíveis outros documentos além dos previstos no mencionado dispositivo, inclusive que estejam em nome de membros do grupo familiar, contanto que apoiados em robusta prova testemunhal.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. TRABALHO RURAL. INÍCIO DE PROVA MATERIAL. SÚMULA 7/STJ.
+1.A irresignação gira em torno da demonstração da atividade campesina, por meio de início de prova material corroborada por prova testemunhal.
+2. A jurisprudência do STJ se mostra firme no sentido de que o reconhecimento da condição de rurícola exige que a prova testemunhal corrobore um início razoável de prova material, sendo certo que o rol de documentos hábeis à comprovação do exercício de atividade rural, inscrito no art. 106, parágrafo único, da Lei 8.213/1991, é meramente exemplificativo, e não taxativo.
+3. No acórdão recorrido ficou consignado: "Não servem como início de prova material os documentos trazidos pelo autor com a inicial". (fl. 157, e-STJ)
+4. Nesse contexto, os argumentos utilizados para fundamentar a pretensão trazida no Recurso Especial somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, o que encontra óbice na Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1719021/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/03/2018, DJe 23/11/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. INÍCIO DE PROVA MATERIAL. DOCUMENTOS. VALIDADE.
+1. A Primeira Seção, em julgamento proferido sob o rito do art. 543-C do CPC/73, assentou a compreensão de ser "possível o reconhecimento do tempo de serviço mediante apresentação de um início de prova material, desde que corroborado por testemunhos idôneos" (REsp n. 1.348.633/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 28/08/2013, DJe 05/12/2014).
+2. O rol dos documentos previstos no art. 106 da Lei 8.213/91 não é taxativo, mas meramente exemplificativo. Precedentes.
+3. Hipótese em que o Tribunal de origem rechaçou como início de prova material o contrato de assentamento e a ficha do Sindicato dos Trabalhadores Rurais em que consta a profissão do recorrido como lavrador.
+4. A determinação para que o Tribunal de origem aceite os documentos apresentados como início de prova material não pressupõe o reexame de provas (vedado em sede de recurso especial pela Súmula 7 do STJ), mas a revaloração das provas existentes nos autos. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 967.459/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 19/12/2017)
+Ainda, no julgamento do REsp. n. 1.321.493/PR, sob o rito dos recursos repetitivos, o Superior Tribunal de Justiça firmou a tese correspondente ao Tema 554:
+Aplica-se a Súmula 149/STJ ("A prova exclusivamente testemunhal não basta à comprovação da atividade rurícola, para efeitos da obtenção de benefício previdenciário") aos trabalhadoresruraisdenominados "boias-frias", sendo imprescindível a apresentação de início deprova material.Por outro lado, considerando a inerente dificuldade probatória da condição de trabalhador campesino, a apresentação deprova materialsomente sobre parte do lapso temporal pretendido não implica violação da Súmula 149/STJ, cuja aplicação é mitigada se a reduzidaprova materialfor complementada por idônea e robusta prova testemunhal.
+No caso dos autos, a recorrente apresentou prova material datada de 2010, referente à aposentadoria rural de seu cônjuge, a qual foi desconsiderada pelo acórdão recorrido, divergindo, portanto, da orientação firmada pelo Superior Tribunal de Justiça.
+Estabelecidas estas premissas, entendo que o feito deve retornar à corte de origem para novo julgamento.
+Isto porque, afastada a inadmissibilidade do início de prova material apresentada, resta ainda a análise pela Corte a quo da prova testemunhal, para aferir, se de fato, houve o trabalho rural pugnado, dado que o início de prova material precisa ser corroborado por robusta prova testemunhal, comprovação que deve ocorrer nas instâncias ordinárias, destinatárias das provas.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para de forma que, superado o entendimento fixado quanto à inadmissibilidade do início de prova material apresentado, proceda à novo julgamento da causa aferindo a prova testemunhal apresentada.
+Publique-se. Intimem-se.
