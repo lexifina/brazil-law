@@ -1,0 +1,47 @@
+DECISÃO
+LITIELY GONÇALVES SILVA ALMEIDAalega sofrer coação ilegal seu direito de locomoção em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n. 5483630.11.2019.8.09.0000.
+Consta dos autos que foi nomeado advogado dativo para a defesa da insurgente, e que ela, após ser submetida a julgamento perante o Tribunal do Júri, foi condenada a 15 anos e 6 meses de reclusão, como incursa no art. 121, § 2º, I e IV, do Código Penal.
+Neste writ, a defesa afirma não haver sido intimada pessoalmente, com a entrega dos autos, acerca do resultado do julgamento pelo Conselho de Sentença. Relata que, mesmo sem ser intimada pessoalmente, interpôs apelação, que não foi recebida pelo Magistrado de primeiro grau por ser intempestiva. Inconformada, a defesa interpôs recurso em sentido estrito, ao qual foi negado provimento. Contra essa decisão, ainda, impetrou habeas corpus perante o Tribunal a quo, cuja ordem foi denegada.
+Requer, liminarmente e no mérito, "a anulação do processo a partir da interposição do recurso de apelação, reabrindo-se o prazo para apresentação das razões recursais com a consequente desconstituição do trânsito em julgado da condenação" (fl. 27). Pleiteia, ainda, a cassação da decisão que decretou a prisão da acusada para dar início à execução da pena.
+Indeferida a liminar (fls. 81-83) e prestadas as informações (fls. 87-115), veio o parecer do Ministério Público Federal (fls. 118-121), que opinou pela denegação da ordem.
+Decido.
+Ao proferir a sentença, logo após a condenação feita pelos jurados, o Magistrado de primeiro grau registrou (fl. 58): "Publicada em plenário de julgamento, saem as partes já intimadas para os fins de mister" (fl. 58, grifei).
+Ao analisar o assunto, a Corte estadual aduziu (fl. 75, destaquei):
+Dessa maneira, não há como acolher a pretensão sustentada na impetração a fim de se reconhecer a necessidade de intimação dos impetrantes mediante entrega dos autos com vista, pois estes não integram os quadros da defensoria pública estadual ou de qualquer outro órgão estatal de assistência judiciária, de forma que a sua intimação deve seguir nos moldes preconizados no Código de Processo Penal.
+Seguindo esta linha de raciocínio, observa-se que a intimação dos impetrantes da sentença penal condenatória, obedeceu às formalidades legais, já que foi realizada pessoalmente, conforme o disposto no artigo 370, § 4º do CPP, pois "nos processos de competência do Tribunal do Júri, publicada a sentença ao final da sessão de julgamento, ficam a acusação e a defesa intimadas pessoalmente nesse momento" (HC 259.602/MA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Quinta Turma, julgado em 21/02/2013, DJe 01/03/2013).
+Conforme dito anteriormente, as considerações trazidas pelo acórdão recorrido estão de acordo com o entendimento deste Superior Tribunal, pois "intimadas as partes com a ciência do inteiro teor do édito condenatório no plenário do Júri, inicia-se de imediato o prazo recursal, reputando-se intimada pessoalmente a Defensoria Pública, vez que presentes o réu e seu defensor(AgRg no AREsp 307.790/DF, Rel. Ministra MARILZA MAYNARD (DESEMBARGADORA CONVOCADA DO TJ/SE), QUINTA TURMA, julgado em 13/08/2013, DJe 30/08/2013, grifei).
+No mesmo sentido:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. HOMICÍDIO QUALIFICADO. LEITURA DA SENTENÇA CONDENATÓRIA NO PLENÁRIO DO JÚRI. PRESENÇA DAS PARTES. INTIMAÇÃO REALIZADA.CONSTRANGIMENTO ILEGAL INEXISTENTE.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. "Nos processos de competência do Tribunal do Júri, publicada a sentença ao final da sessão de julgamento, ficam a acusação e a defesa intimadas pessoalmente nesse momento" (HC 259.602/MA, Rel.Ministro SEBASTIÃO REIS JÚNIOR, Quinta Turma, julgado em 21/02/2013, DJe 01/03/2013).
+3. Quanto à alegada infração ao princípio do duplo grau de jurisdição, "a interposição intempestiva do apelo não tem o condão de anular o feito, por deficiência da defesa técnica, já que nem mesmo a ausência de interposição do recurso ensejaria tal nulidade, em face do princípio da voluntariedade recursal, insculpido no art.
+574, caput, do Código de Processo Penal" (HC 170434/MG, Quinta Turma, Rel. Min. JORGE MUSSI, DJe de 29/08/2011) .
+4. Habeas corpus não conhecido.
+(HC 460.404/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2018, DJe 26/10/2018)
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.HOMICÍDIO QUALIFICADO. SENTENÇA CONDENATÓRIA. RECURSO DE APELAÇÃO.ART. 798, § 5º, "B", DO CPP. INÍCIO DA CONTAGEM DO PRAZO RECURSAL.INTIMAÇÃO DAS PARTES EM PLENÁRIO DO JÚRI - INTEMPESTIVIDADE. AGRAVO NÃO PROVIDO.
+1. Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Este Superior Tribunal de Justiça possui entendimento, nos termos do art. art. 798, § 5º, "b", do CPP, de que, nos processos de competência do Tribunal do Júri, publicada a sentença ao final da sessão de julgamento, ficam a acusação e a defesa intimadas pessoalmente nesse momento. Precedentes.
+3. Na hipótese, a providência tomada pelo Juízo de primeiro grau, ao determinar nova intimação da sentença condenatória ao acusado já intimado em sessão, não é capaz de afastar o referenciado dispositivo legal que estabelece o início da contagem dos prazos recursais, sendo patente a intempestividade da apelação.
+4. Agravo regimental não provido.
+(AgRg no HC 580.209/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+No mais, consoante jurisprudência desta Corte, não se aplica o prazo em dobro, garantido às defensorias públicas, aos defensores dativos e, por exemplo, aos núcleos de prática jurídica pertencentes a universidades particulares.
+Nesse sentido:
+ ..
+1. O prazo para interposição do agravo em recurso especial é de 15 (quinze) dias corridos, contados a partir da intimação da decisão recorrida, no caso do Núcleo de Prática Jurídica mantidos por unidades particulares.
+2. Nos termos da jurisprudência consolidada no âmbito deste Superior Tribunal, " p ara valer-se da prerrogativa da contagem de prazos em dobro, deve o advogado, integrar o quadro da assistência judiciária organizado e mantido pelo Estado, não se aplicando tal benesse aos defensores dativos, aos núcleos de prática jurídica pertencentes às universidades particulares e ainda, aos institutos de direito de defesa" (AgRg no AREsp n. 1.328.889/RS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 26/3/2019).
+3. No caso, o Núcleo de Prática Jurídica foi intimado da decisão de admissibilidade do recurso especial em 8/5/2020, de modo que o início do prazo se deu em 11/5/2020 e seu término em 25/5/2020. Entretanto, o agravo em recurso especial somente foi interposto em 3/6/2020, considerado, portanto, intempestivo.
+4. Agravo regimental não provido.
+(AgRg no AREsp 1797455/DF, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE.
+COMPROVAÇÃO POSTERIOR DE RECESSO FORENSE. IMPOSSIBILIDADE. NÚCLEO DE PRÁTICA JURÍDICA. ENTIDADE PARTICULAR DE ENSINO. PRAZO EM DOBRO INDEVIDO. AGRAVO IMPROVIDO.
+1. É intempestivo o agravo em recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VIII, c/c 1.003, § 5º, e 1.042, todos do CPC, e também art. 798 do CPP.
+2. É dever do recorrente, no ato da interposição do recurso, comprovar a tempestividade, conforme o art. 1.003, § 6º, do CPC, inclusive a ocorrência de feriados locais e suspensão do expediente forense, sendo incabível a comprovação posterior.
+3. Para valer-se da prerrogativa da contagem de prazos em dobro, deve, o advogado, integrar o quadro da assistência judiciária organizado e mantido pelo Estado, não se aplicando tal benesse aos defensores dativos, aos núcleos de prática jurídica pertencentes às universidades particulares e ainda, aos institutos de direito de defesa (AREsp 398.352/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 24/8/2018).
+4. Agravo regimental improvido.
+(AgRg no AREsp 1328889/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 19/03/2019, DJe 26/03/2019)
+No mesmo sentido, o parecer do Ministério Público Federal:
+Assim, uma vez presentes a ré e seus defensores na sessão de julgamento, de onde saíram devidamente intimados da decisão, não há falar em violação do dever de intimação pessoal da sentença condenatória, iniciando-se o prazo para a interposição do recurso no dia útil imediatamente posterior. Nesse sentido:
+ ..
+Por fim, consoante definiu a Corte Especial desse Superior Tribunal de Justiça, o advogado nomeado para promover a defesa do acusado faz jus à intimação pessoal, mas não ao prazo em dobro, já que não integra o quadro estatal de assistência judiciária. Ilustrativamente (fl. 120-121, destaquei).
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
