@@ -1,0 +1,33 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado (e-STJfls. 180-181):
+ADMINISTRATIVO. MANDADO DE SEGURANÇA. INSS. EXERCÍCIO DA ADVOCACIA. REQUERIMENTO DE BENEFÍCIOS PREVIDENCIÁRIOS. LIMITAÇÃO QUANTITATIVA. NECESSIDADE DE AGENDAMENTO. EXIGÊNCIA AO ADVOGADO DE SENHA. APELAÇÃO DO INSS E REMESSA NECESSÁRIA DESPROVIDAS.
+1. É firme a jurisprudência no sentido de ser ilegal a restrição ao exercício profissional da advocacia, nos termos da Lei 8.906/1994, consistente na exigência de prévio agendamento para atendimento ou limitação no número de petições a serem protocoladas, o que não significa, porém, a dispensa da observância de fila ou senha para atendimento, como forma de ordenamento válido e regular do serviço administrativo, inclusive dada a própria existência de preferência legal para o atendimento de idosos, deficientes, gestantes.
+2. A restrição viola direito líquido e certo, em prejuízo à liberdade de exercício profissional, direito de petição e princípio da legalidade. A busca de isonomia mediante restrição de direitos é atentatória ao princípio da eficiência, pois ao Poder Público incumbe ampliar e não limitar o acesso do administrado aos serviços que presta, sendo, entretanto, inviável a pretensão de atendimento sem observância do sistema de filas e senhas, que preserva, inclusive, as preferências legais.
+3. Assim, os Impetrantes, como advogados, podem protocolar requerimentos acerca de benefícios previdenciários de seus mandantes sem limitação de quantidade por atendimento, bemcomo consultar os autos e extrair cópias, nos termos fixados na legislação, independentemente de prévio agendamento.
+4. Ressalve-se, no entanto, que deverão os Impetrantes sujeitarem-se às filas ou senhas de atendimento destinadas aos advogados, observando-se a ordem de chegada à repartição pública.
+5. Ademais, não viola as normas do Estatuto do Idoso e das demais Leis acima invocadas, tampouco os princípios da isonomia e da separação dos poderes, especialmente, com relação à garantia de atendimento preferencial e prioritário aos idosos, às pessoas com deficiência, gestantes, lactantes, pessoas com crianças de colo e aos obesos, o afastamento da limitação do número de requerimentos por protocolo, bem como de prévio agendamento.
+6. Remessa necessária e apelação desprovidas.
+Os embargos de declaração foram rejeitados (e-STJfls. 219-225).
+Assevera a autarquia, em síntese, que houve (i) violação dos arts.1º, 7º, VI, c, da Lei n. 8.906/1994, sustentando que não há previsão legal para conceder ao advogado tratamento preferencial em relação aos demais cidadãos; e ii) ofensa aos arts.3º da Lei n. 10.741/2003 e 9º da Lei n. 7.853/1989, pois o acórdão recorrido, ao garantir atendimento preferencial ao advogado Impetrante, acabou por desrespeitar o direito dos demais segurados, especialmente dos idosos, deficientes e gestantes, lactantes e pessoas acompanhadas por crianças de colo.
+Sem contrarrazões, o recurso especial foi admitido na origem(e-STJfls. 250-252).
+É o relatório.
+Inicialmente, a matéria referente aos art. 3º da Lei n. 10.741/2003 e 9º da Lei n. 7.853/1989 não foi objeto de análise pelo Tribunal de origem. Destarte, carece o tema do indispensável prequestionamento viabilizador do recurso especial, motivo pelo qual não merece ser apreciado, consoante o que preceituam as Súmulas 211/STJ e 282/STF.
+De outro lado, no tocante à necessidade de agendamento por parte do advogado, a Corte a quo entendeu que (e-STJfl. 167):
+Assim, os Impetrantes, como advogados, podem protocolar requerimentos acerca de benefícios previdenciários de seus mandantes sem limitação de quantidade por atendimento, bem como consultar os autos e extrair cópias, nos termos fixados na legislação, independentemente de prévio agendamento.
+Ressalve-se, no entanto, que deverão os Impetrantes sujeitarem-se às filas ou senhas de atendimento destinadas aos advogados, observando-se a ordem de chegada à repartição pública.
+A decisão recorrida encontra-se em harmonia com a orientação firmada por esta Corte Superior de que a administração pública não pode restringir o direito assegurado ao advogado pela Lei n. 8.906/1994, Estatuto da Advocacia, em virtude das razões de conveniência para o bom atendimento ao público.
+Ademais, como destacou a Corte local, somente a lei poderá restringir os direitos dos advogados, que são indispensáveis à administração da Justiça. Dessa forma, os advogados devem ser atendidos, dentro do horário do expediente do Instituto Nacional do Seguro Social - INSS, diretamente pelo servidor, sem necessidade de agendamento pelo chamado "Atendimento por hora marcada".
+Nesse sentido:
+PROCESSUAL CIVIL. ADVOGADOS. INSS. ATENDIMENTO. AGENDAMENTO. HORA MARCADA. ESTATUTO DA ADVOCACIA. AGRAVO INTERNO NÃO PROVIDO.
+1. Cuida-se, na origem, de Mandado de Segurança impetrado por Niglei Lima de Oliveira, advogada, ora agravada, contra ato do Instituto Nacional do Seguro Social - INSS, ora agravante, com o objetivo de lhe assegurar o direito de protocolizar mais de um requerimento de benefíciosprevidenciários ao mesmo tempo, independentemente de atendimento por hora marcada.
+2. O Juiz de primeiro grau denegou a segurança.
+3. O Tribunal a quo deu provimento à Apelação da ora agravada.
+4. Esclareça-se que o STF quando apreciou o Recurso Extraordinário 769.254/SP, afetado para a análise da existência de repercussão geral do Tema 741 (Validade da exigência do INSS de prévio agendamento para atendimento de advogados e da restrição a um único requerimento de benefício previdenciário por atendimento), entendeu pela sua inexistência por ser a matéria de cunho infraconstitucional.
+5. A Administração Pública não pode restringir o direito assegurado aoadvogado pela Lei 8.906/1994, Estatuto da Advocacia, por razões de conveniência para o bom atendimento ao público.
+6. Como bem destacou o Tribunal de origem, somente a Lei poderá restringir os direitos dos advogados, que são indispensáveis à administração da justiça.
+7. Assim, os advogados devem ser atendidos, dentro do horário do expediente do Instituto Nacional do Seguro Social - INSS, diretamente pelo servidor, sem necessidade de agendamento pelo chamado "Atendimento por hora marcada".
+8. Agravo Interno não provido.
+(AgInt no AREsp 659.677/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 17/5/2017).
+Ante o exposto, com fulcro no art.932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, assim como na Súmula 568/STJ,conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
