@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de TATIANE SOARES BATISTA e de VIVIANE SOARES BATISTA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL (Apelação n. 0092993-57.2020.8.21.7000).
+Consta dos autos que as pacientes foram condenadas, em sentença confirmada pela Corte a quo, como incursas no art. 1º, inciso II, da Lei n.8.137/90, na forma do art. 71, caput , do Código Penal, à pena de 2 anos, 6 meses e 10 dias de reclusão, em regime aberto, e 10 dias-multa,substituída a pena privativa de liberdade por duas restritivas de direitos, consistentes em prestação de serviços à comunidade e prestação pecuniária, no valor de um salário mínimo.
+Daí o presente writ, em que a Defensoria Pública do Estado do Rio Grande do Sul alega que a circunstância judicial dos antecedentes foi inidoneamente valorada, porquanto "não há informação sobre a data da prática do delito pelo qual ostentam condenação definitiva, sendo impossível, portanto, aferir se praticado antes ou após os fatos ora em julgamento" (e-STJ fl. 4).
+Afirma que "tal informação é imprescindível, posto que, conforme jurisprudência consolidada dessa Corte Superior, somente podem ser considerados maus antecedentes condenações com trânsito em julgado que se refiram a delitos praticados antes daqueles que estão em julgamento" (e-STJ fl. 5).
+Conclui que, "considerando que os fatos em julgamento ocorreram em maio de 2000, janeiro de 2001 e março a junho de 2001 (fls. 32) e o processo utilizado para configurar maus antecedentes foi distribuído em 25/08/2001, é possível que se refira a fato posterior a junho de 2001" (e-STJ fl. 6).
+Requer, liminarmente,a suspensão da decisão do Tribunal a quo até o julgamento final do presente write, no mérito, pugna pelo afastamento da vetorial dos antecedentes, redimensionando-se a pena.
+A medida liminar foi indeferida (e-STJ fls. 1626/1627).
+Prestadas as informações, manifestou-se o Ministério Público Federalpelo não conhecimento do writ e, caso conhecido, pela denegação da ordem.
+É o relatório.
+Decido.
+No tocante à dosimetria da pena, a Corte local assim se manifestou (e-STJ fl. 1.621):
+Pena-base fixada dois meses acima do mínimo legal para cada uma das rés, tendo em conta a existência de antecedentes, condenação criminal transitada em julgado, conforme certidões de fls. 719/724. Não há nos autos prova de que os fatos tenham ocorrido após junho de 2001, havendo apenas as datas de distribuição e recebimento da denúncia. Assim, mantida a pena-base como fixada, definitiva em 02 anos e 02 meses de reclusão, para cada uma das rés, ausentes causas alteradoras.
+Constato que, em relação àrevisão da dosimetria da pena-base, a reprimenda foi elevada tão somente em virtude da desfavorável consideração dos antecedentes das pacientes. No caso, como já relatado, alega a defesa que a condenação considerada para a elevação da pena-base pode ser posterior aos crimes ora apurados, sem, contudo, comprovar atese aventada.
+Sobre o ponto, as instâncias ordinárias afirmaram existir condenaçãoapta à negativação dos antecedentes, de modo que não havendo prova pré-constituída do direito alegado,a alteração do entendimento firmadodemandaria o revolvimento de matéria fático-probatória, o que é vedado nessa estreita via. No mesmo sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. ROUBO MAJORADO. DOSIMETRIA. MAUS ANTECEDENTES ATESTADOS PELAS INSTÂNCIAS ORDINÁRIAS. PLEITO DE AFASTAMENTO. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA EM SENTIDO CONTRÁRIO. ANÁLISE QUE DEMANDA REEXAME FÁTICO-PROBATÓRIO.INVIABILIDADE NA SENDA DO HABEAS CORPUS. TERCEIRA FASE DA DOSIMETRIA. PRESENÇA DE MAIS DE UMA CAUSA DE AUMENTO. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. SÚMULA 443/STJ. CONSTRANGIMENTO ILEGAL CONFIGURADO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. No caso, a pena-base do paciente foi exasperada em 8 meses pela análise negativa dos antecedentes. A impetrante alega que a condenação mencionada pelo Magistrado refere-se a fato posterior ao que foi apurado nesses autos, porém não juntou provas nesse sentido.
+Assim, tendo as instâncias ordinárias consignado a existência de condenações aptas a configurar os maus antecedentes do paciente - e não havendo prova pré-constituída em sentido contrário -, a alteração desse entendimento implicaria em reexame de fatos e provas dos autos, providência incabível na estreita via do habeas corpus.
+4. "O aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes" (Súmula 443/STJ). Hipótese em que a pena foi aumentada na fração de 3/8 com base, apenas, no número de majorantes.
+5. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar a pena do paciente, com extensão dos efeitos ao corréu, nos termos do art. 580 do CPP.
+(HC 582.608/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/6/2020, DJe 22/6/2020.)
+Assim, não há reparo a ser realizado.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
