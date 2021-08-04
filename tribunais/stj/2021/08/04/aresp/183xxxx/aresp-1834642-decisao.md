@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento aorecurso especial, no qual se alegaviolação doart. 1.022, II, do Código de Processo Civil.O acórdão recorrido está retratado na seguinte ementa (fls. 364/365):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL.
+1. PRELIMINAR CONTRARRECURSAL. LIMITAÇÃO RECURSAL. O RECURSO DE APELAÇÃO DA AUTORA APENAS DEVOLVE A ESTE ÓRGÃO JULGADOR A QUESTÃO ATINENTE À REVISÃO DO CONTRATO DE ADITAMENTO PARA PARCELAMENTO Nº 002479457470000. ASSIM, OS DEMAIS CONTRATOS OBJETOS DA AÇÃO NÃO MERECEM SER ANALISADOS NESTE GRAU. PRELIMINAR ACOLHIDA.
+2. APLICAÇÃO DO CDC. APLICA-SE O CDC À REVISÃO DE CONTRATOS BANCÁRIOS, DIANTE DA PROVA DA ABUSIVIDADE. MATÉRIA PACIFICADA NO STJ E NESTA CÂMARA. SÚMULA 297 DO STJ.
+3. JUROS REMUNERATÓRIOS. A ESTIPULAÇÃO DE JUROS REMUNERATÓRIOS SUPERIORES A 12% AO ANO, POR SI SÓ, NÃO INDICA ABUSIVIDADE. SÚMULA Nº 382/STJ. LEVANDO EM CONSIDERAÇÃO A TABELA DO BACEN PARA AS OPERAÇÕES DA ESPÉCIE, CONSTATA-SE QUE A TAXA PACTUADA NO CONTRATO ESTÁ SUPERIOR À TAXA MÉDIA, O QUE IMPÕE SUA LIMITAÇÃO.
+4. CAPITALIZAÇÃO DE JUROS. INOVAÇÃO RECURSAL. O REQUERIMENTO DE VEDAÇÃO DA CAPITALIZAÇÃO DE JUROS SOMENTE VEIO A SER FORMULADO NAS RAZÕES DO PRESENTE APELO, O QUE CONFIGURA INOVAÇÃO RECURSAL. APELO NÃO CONHECIDO, NO PONTO.
+5. DESCARACTERIZAÇÃO DA MORA. IMPÕE-SE A DESCARACTERIZAÇÃO DA MORA ATÉ O RECÁLCULO DO DÉBITO E, POR CONSEGUINTE, OS ENCARGOS MORATÓRIOS SOMENTE DEVERÃO INCIDIR APÓS O PERÍODO NO QUAL A MORA RESTAR DESCARACTERIZADA.
+6. CADASTROS DE INADIMPLENTES. HAVENDO O RECONHECIMENTO DA ABUSIVIDADE DE ENCARGOS DA NORMALIDADE, NÃO HÁ COMO ADMITIR A INSCRIÇÃO DO NOME DO CONSUMIDOR NOS CADASTROS DE INADIMPLENTES.
+PRELIMINAR CONTRARRECURSAL ACOLHIDA. APELAÇÃO CONHECIDA EM PARTE E, NA PARTE CONHECIDA, PROVIDA.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 386):
+EMBARGOS DE DECLARAÇÃO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. JUROS REMUNERATÓRIOS. HONORÁRIOS ADVOCATÍCIOS. REDISCUSSÃO DA MATÉRIA. TODA A MATÉRIA OBJETO DA CONTROVÉRSIA FOI DEVIDAMENTE ENFRENTADA PELA CÂMARA, NÃO HAVENDO OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NO CASO, A PARTE EMBARGANTE PRETENDE REDISCUTIR A MATÉRIA DE MÉRITO ACERCA DA MODALIDADE DA TAXA DE JUROS REMUNERATÓRIOS DIVULGADA PELO BACEN E DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS ARBITRADOS, O QUE É INVIÁVEL EM SEDE DE EMBARGOS DE DECLARAÇÃO.
+EMBARGOS DE DECLARAÇÃO DESACOLHIDOS.
+Sustenta que "amparado em glossário metodológico disponibilizado pelo Banco Central, o recorrente suscitou que a operação sub judice está inserida na modalidade de crédito relacionada ao cartão de crédito parcelado (códigos 25478 e 220231). Porém, inobstante a provocação da matéria em contrarrazões, o Tribunal local silenciou a respeito, adotando como parâmetro de abusividade a taxa média de mercado divulgada para modalidade alheia à espécie" (fl. 397), bem como afirma que "havendo insurgência relacionada à modalidade de crédito aplicável à espécie, essencial que o acórdão analise a principal prova produzida pelo recorrente para respaldar sua tese - seja para acolhê-la, seja para fundamentar o motivo pelo qual foi rejeitada" (fl. 398).
+Assim posta a questão, passo a decidir.
+Com efeito, verifico que procede a alegação de violação doart.1.022doCPC/2015,quanto à falta de pronunciamento pela Corte local"acerca do sumário metodológico disponibilizado pelo Banco Central, entidade divulgadora dos índices adotados como parâmetro, quanto à modalidade identificada na presente contenda" (fl. 373).
+O Tribunal de origem,instado a se pronunciar sobre a referida questão, não enfrentou acontrovérsia de forma específica, o que configura aofensaaoart.1.022 do CPC/2015.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial paraanular o acórdão dos embargos dedeclaração,edeterminarque outro sejaproferido, sanando-se aomissãonostermosacima.
+Intimem-se.
