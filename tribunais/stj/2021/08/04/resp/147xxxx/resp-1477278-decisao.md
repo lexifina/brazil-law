@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, desafiando acórdão do Tribunal Regional Federal da 4ª Região.
+Depreende-se dos autos que os recorridos foram condenados, pelos crimes previstos nos arts. 317 e 318, ambos do Código Penal, às penas de 4 anos e 1 mês de reclusão, a serem cumpridas inicialmente no regime fechado, bem assim ao pagamento de 22 dias-multa, tendo sido decretada, como efeito da condenação, a perda dos cargos públicos.
+Contra o édito condenatório insurgiram-se a acusação e a defesa.
+O Tribunal Regional Federal deu parcial provimento aos recursos para redimensionar as penas dos réus para 2 anos e 8 meses de reclusão, mais pagamento de 33 dias-multa, bem como para afastar a perda das funções públicas como efeito das condenações.
+Daí o presente recurso especial, no qual sustenta o MINISTÉRIO PÚBLICO FEDERAL a ofensa ao disposto no art. 92, inciso I, alínea a, do Código Penal. Sublinha a proporcionalidade da perda das funções pública, tendo em vista que os réus, "na condição de policiais rodoviários, praticaram delitos com evidente abuso de poder - ao exigir valores para a liberação do veículo e dos produtos descaminhados - e clara violação de dever para com a Administração Pública -, merecendo, por óbvio, a penalização prevista pelo art. 92, I, "a", do CP"(e-STJ fl. 1.244).
+Ouvido, o Ministério Público Federal manifestou-se pelo desprovimento do presente inconformismo (e-STJ fls. 1.540/1.559).
+É o relatório.
+Decido.
+Como é cediço, aprescrição,por se tratar de matéria de ordem pública, e nos termos do art. 61 do Código de Processo Penal, deve ser examinada a qualquer tempo, mesmo na instância superior.
+Inicialmente, consigne-se que o Supremo Tribunal Federal, no julgamento do HC n. 176.473/RR, de relatoria do Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, "nos termos do inciso IV do artigo 117 do Código Penal, oAcórdãocondenatório sempre interrompe aprescrição,inclusive quando confirmatório dasentençade 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 26/5/2020, DJe 1º/6/2020).
+Ainda a esse respeito, necessário ressaltar que, em 24/11/2020, esta Sexta Turma, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou que a referida Lei n. 11.596/2007, de 29/11/2007, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo daprescrição- não pode retroagir para alcançar os acusados por crimes ocorridos em datas anteriores".
+Pois bem.
+Na espécie, os atos criminosos praticados pelos recorridosse deu antes da entrada em vigor da norma em comento (2006, e-STJ fl. 956), de modo que deve ser considerada, como último marco interruptivo, asentençacondenatória.
+Portanto, publicada asentençaem 10/1/2012 (e-STJ fl. 984), e considerando o quantumdas condenações(2 anos e 8 meses), tenho que o prazo prescricional de 8 anos (art.109, IV, do Código Penal) foi ultrapassado desde então.
+Destarte, a pretensão punitiva estatal está fulminada pelaprescrição.
+Nesse contexto, rememoro que a "prescrição da pretensão punitiva do Estado apaga todos osefeitos da condenação, inclusive o secundário de perda do cargopúblico"(AgInt no MS 25.426/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 05/05/2020, DJe 12/05/2020)
+Ante o exposto, concedo a ordem de ofício para reconhecer aprescriçãoda pretensão punitiva, na modalidade intercorrente, razão pela qual extingo a punibilidade dos recorridos com espeque no art. 107, inciso IV, do Código Penal e, por conseguinte, julgoprejudicadoo recurso especial.
+Publique-se. Intimem-se.
