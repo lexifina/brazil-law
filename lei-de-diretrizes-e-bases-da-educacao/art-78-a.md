@@ -1,0 +1,3 @@
+Art. 78-A. Os sistemas de ensino, em regime de colaboração, desenvolverão programas integrados de ensino e pesquisa, para oferta de educação escolar bilíngue e intercultural aos estudantes surdos, surdo-cegos, com deficiência auditiva sinalizantes, surdos com altas habilidades ou superdotação ou com outras deficiências associadas, com os seguintes objetivos:
+I - proporcionar aos surdos a recuperação de suas memórias históricas, a reafirmação de suas identidades e especificidades e a valorização de sua língua e cultura;
+II - garantir aos surdos o acesso às informações e conhecimentos técnicos e científicos da sociedade nacional e demais sociedades surdas e não surdas.
