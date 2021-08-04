@@ -12,3 +12,4 @@ X - valorização da experiência extra-escolar;
 XI - vinculação entre a educação escolar, o trabalho e as práticas sociais.
 XII - consideração com a diversidade étnico-racial.
 XIII - garantia do direito à educação e à aprendizagem ao longo da vida.
+XIV - respeito à diversidade humana, linguística, cultural e identitária das pessoas surdas, surdo-cegas e com deficiência auditiva.
