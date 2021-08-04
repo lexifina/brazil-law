@@ -1,0 +1,19 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Furto qualificado. Deficiência na instrução do writ. Pedido de desclassificação. Prisão preventiva. Ausência de ilegalidade flagrante.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Quinta Turma do Superior Tribunal de Justiça, da Relatoria do Ministro João Otávio de Noronha, que negou provimento ao HC 667.065-AgR.
+    2. A parte impetrante afirma que o “Paciente foi preso em flagrante no dia 04/05/2021, pela suposta prática do crime de furto qualificado, pois, supostamente, estava desviando pequena parte da carga de frango (16 pacotes), avaliado em R$ 265,00 (duzentos e sessenta e cinco) reais que deveria ser entregue a clientes da vítima, Abatedouro Água de Pedra, e trocando-as, por marmitas em um restaurante”. Ocorre que o “Paciente é auxiliar do motorista, que carregavam toda a mercadoria no frigorifico, e iriam fazer as entregas, (...) [m]as, (...) após efetuar as entregas, sobraram alguns pacotes de frangos, e com esses pacotes, ele efetuou a troca por marmitex”. Sendo assim, “está claro que não houve um furto (...) O Paciente não subtraiu para si coisa alheia móvel, (...) o que de fato ocorreu foi que o Paciente apropriou de coisa alheia móvel, de que ele tinha a posse, em razão de seu emprego”.
+    3. Além disso, a defesa alega ausência de fundamentação idônea para a decretação da prisão preventiva. Por fim, sustenta a nulidade da prisão, tendo em vista que não foi realizada audiência de custódia.
+    4. A defesa requer a concessão da ordem a fim de revogar a prisão processual do acionante. Subsidiariamente, pleiteia a substituição da custódia por outra medida cautelar.
+    5. O habeas corpus foi protocolado no Supremo Tribunal Federal (STF), em 29.06.2021. Em 12.07.2021, por meio da Petição n. 70988/2021, a defesa requereu fossem os autos encaminhados à Presidência deste Tribunal para a apreciação do pedido liminar.
+    6. Em 16.07.2021, o Ministro Luiz Fux, no exercício da Presidência do STF, durante o período do recesso forense, não enxergou situação de urgência, nos termos do art. 13, VIII, do RI/STF, determinando a remessa dos autos ao meu gabinete.
+    7. Decido.
+    8. O habeas corpus não deve ser concedido.
+    9. A petição inicial do habeas corpus não foi instruída com cópia da decisão do Tribunal estadual e do acórdão do STJ. Fato esse que impede a exata compreensão da controvérsia, assim como atrai a orientação jurisprudencial do STF no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski).
+    10.  Não bastasse isso, o STF já decidiu que “o pleito de desclassificação de crime não tem lugar na estreita via do habeas corpus por demandar aprofundado exame do conjunto fático-probatório da causa, e não mera revaloração” (RHC 120.417, Rel. Min. Ricardo Lewandowski).
+    11. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a imediata revogação da custódia preventiva.
+    12. Por fim, o STF já decidiu que a “falta de audiência de custódia constitui irregularidade, não tendo o efeito, por si só, de afastar a preventiva imposta, uma vez assentados, pelo Juízo, os requisitos autorizadores do citado artigo 312 e observados os direitos e garantias versados na Constituição Federal” (HC 178.547, Rel. Min. Marco Aurélio). No mesmo sentido, cito o HC 198.798-AgR, Rel. Min. Alexandre de Moraes.
+    13.  Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 04 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
