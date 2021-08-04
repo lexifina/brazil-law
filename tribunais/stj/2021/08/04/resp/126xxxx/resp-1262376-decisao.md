@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo emrecurso especial interposto por LETICIA MERCHID BALTAR contra decisão proferida pela Presidência doTribunal Regional Federal da 1ª Região, que não admitiu o recurso especial interposto.
+A controvérsia foi bem sumariada pelo ParquetFederal, cujo excerto transcrevo a seguir (e-STJ fls. 421/422):
+Cuida-se de agravo em recurso especial interpostopor LETICIA MERCHID BALTAR, com fulcro no art. 544 do Código deProcesso Civil - em sua redação modificada pela Lei nº 12.322/10 - e na Lei nº8.038/90, contra decisão da Presidência do Tribunal Regional Federal daPrimeira Região, que negou seguimento a reclamo nobre agitado pela oraAgravante com arrimo na alínea a do permissivo constitucional, sob alegativa deofensa ao art. 5o, incisos X, XXXV e LVII, da Constituição Federal; aos arts. 119e 120 do Código de Processo Penal e ao art. 91, inciso II, do Código Penal.
+Para negar seguimento ao apelo especial, destacou oaludido Colegiado que a análise das questões suscitadas exige reexame de fatose provas, providência incabível no âmbito angusto de tal redamo, nos termos doEnunciado nº 07 da Súmula desse Augusto Sodalício (fls. 365/366).
+Agora, perante esse Tribunal Superior, almeja a oraAgravante a reconsideração do decisum que inadmitiu seu recurso especial,aduzindo estarem presentes seus requisitos de admissibilidade (fls. 372/383).
+Ao se manifestar, o Ministério Público Federal opinou pelo não conhecimento do agravo.
+É o relatório.
+O recurso está prejudicado.
+Como bem pontuou o Parquet (e-STJ fls. 529/532):
+Cumpre registrar, de início, que, na manifestação anteriormente ofertada pela Subprocuradora-Geral da República signatária deste pronunciamento (fls. 424/434), restou delineada a patente ilegalidade da decisão então fustigada, que culminou por decretar a constrição do patrimônio da ora Recorrida sem a motivação exigida para a imposição de tão gravosa medida, vez que o Juízo de Primeira Instância deixara de apontar os indícios da proveniência ilícita do bem objeto da medida assecuratória, nos autos da Ação Penal n.º 2008.36.01.004340-5/MT.
+Nessa linha de compreensão, este Órgão Ministerial manifestou-se no sentido do parcial conhecimento do recurso nobre e, na mesma extensão, pelo seu desprovimento.
+Agora, diante dos fatos novos trazidos aos autos, vê- se que, diferentemente do quanto sustentado pela Defesa, a absolvição sumária do acusado nas Ações Penais 2008.36.01.004339-5 e 2008.36.01.004340-5, oriundas da "OPERAÇÃO VULCANO DE CÁCERES" - que motivou a medida assecuratória no que tange ao bem móvel de propriedade da ora Recorrida - não enseja a efetiva perda do objeto do presente recurso.
+Com efeito, pela dicção do art. 131, inciso III, do Diploma de Ritos Penais 1 , será levantado o sequestro, se for julgada extinta a punibilidade do crime ou se o acusado for absolvido por sentença transitada em julgado.
+Na situação em apreço, todavia, colhe-se do in folio que somente a Ação Penal n.º 2008.36.01.004340-5/MT transitou em julgado, estando, por outro lado, pendente o julgamento do recurso de apelação manejado pelo Parquet nos autos da Ação Penal 2008.36.01.004339-5/MT.
+Dessarte, a ausência de definitividade do decisum absolutório, capaz de torná-lo imutável e indiscutível, impede o levantamento da medida assecuratória e, consequentemente, a extinção do processo incidente, que discute a origem do bem objeto de constrição, em atenção ao princípio da segurança jurídica.
+Noutra alheta, merece acolhida a argumentação da Defesa quanto ao pedido de desprovimento do recurso especial, razão pela qual, reiterando o parecer outrora ofertado, opina o Ministério Público Federal pelo conhecimento parcial do presente recurso especial e, na extensão conhecida, pelo seu desprovimento.
+De acordo com a manifestação ministerial, a partir da postulação defensiva (e-STJ fls. 451/522), a ressalvaquanto à perda do objetoestaria consubstanciada no fato de ainda não ter havido o trânsito em julgado da Ação Penal n. 2008.36.01.004339-5/MT, porquanto pendente de julgamento a apelação ministerial.
+No entanto, tal condicionante não subsiste mais, pois, em consulta ao sítio eletrônico do Tribunal de origem, houve o julgamento da referida apelação, tendo sido desprovido o apelo ministerial, com a consequente certificação do trânsito em julgado.
+Dessarte, não subsiste mais o interesse recursal, tendo sido esse, inclusive, o pleito defensivo de e-STJ fl. 456.
+Ante o exposto, julgo prejudicado o agravo em recurso especial.
+Publique-se. Intimem-se.
