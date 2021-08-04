@@ -1,0 +1,46 @@
+DECISÃO
+Vistos etc.
+Trata-se agravo em recurso especial interposto por GERCILEY LUIZ VIEIRA, contra decisão do Tribunal de Justiça do Estado de Goiás, que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fls. 149/150):
+Agravo Interno. Agravo de Instrumento. Ação Revisional. Impugnação ao cumprimento de sentença. Preclusão. Inocorrência. Apuração do quantum debeatur. Remessa à contadoria. Possibilidade. Ausência de fato novo ou argumento convincente. I - A adequação do valor executado para extirpar o excesso de execução, por tratar -se de matéria de ordem pública, pode ser alegada a qualquer tempo e analisada até mesmode ofício pelo julgador, não se ao submetendo regime da preclusão. II- O agravo interno deve ser improvido quando a matéria nele versada tiver sido suficientemente suficientemente analisada na decisão recorrida e a parte agravante não apresentar fato ou argumento novo convincente que justifique sua reforma. Agravo desprovido.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: 43º, 7º, 223, 300, 465, § 1º, III,485, V, 489, § 1º, VI, 502, 503, 505, 507, 508, 509, §§ 2º, e, 4º, 525, Caput, § 4º, 854, §§ 2º e 3º,II, 932, II e V, "a", 995, § Único, 1.019, I, 1.021, § 3º, 1.022, II, § Único, II,1.025 e 1.026, § 1º,do Código de Processo Civil/2015, além de divergência jurisprudencial.
+Sustenta, em síntese, suposta negativa de prestação jurisdicional, eis que, o acórdão recorrido não teria se manifestado sobre todas as questões postas em debate pela recorrente.
+Defende a ocorrência de preclusão temporal consumativa para a apresentação de peças impugnatórias apresentadas pela parte recorrida.
+Pede o provimento do recurso.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob a vigência da Lei 13.105/2015, razão por que o juízo de admissibilidade é realizado na forma deste novo édito, conforme Enunciado Administrativo nº 3/STJ.
+Inicialmente, no que tange à alegada violação dos arts.489, § 1º, inciso IV, e, 1.022, inciso II, do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência.
+Ocorre que o Tribunal de origem assim se manifestou acerca da controvérsia:
+"Como se vê, o pedido de reconhecimento de preclusão para apresentação de impugnação ao cumprimento de sentença foi indeferido, notadamente porque a adequação do valor executado para extirpar o excesso de execução pode ser alegada a qualquer tempo, não se submetendo ao regime da preclusão, podendo ser analisada até mesmo de ofício pelo magistrado.
+Outrossim, havendo divergência acerca do valor remanescente a ser executado recomenda a prudência a remessa dos autos à Contadoria Judicial para a conferência e acertamento do cálculo da quantia efetivamente devida e passível de se executar, sob pena de enriquecimento ilícito, o que é vedado pelo ordenamento jurídico pátrio, devendo o juiz sempre procurar a verdade real e a efetividade da prestação jurisdicional.
+Nesses termos, imbuído pela busca da efetividade da prestação jurisdicional, agiu com acerto o magistrado de primeiro grau, e, portanto, não há motivos plausíveis autorizadores da alteração do posicionamento anteriormente adotado, tendo em vista que a decisão recorrida somente seria passível de reforma caso a parte demonstrasse erro material ou trouxesse fatos novos e robustos capazes de alterá-la, o que não ocorreu, sendo que o mero descontentamento da parte recorrente com o julgado não autoriza a retratação pretendida.
+Nesse contexto, os argumentos apresentados pela agravante são incapazes de demonstrar a inadequação dos fundamentos invocados pela decisão combatida oua justificar a retratação prevista no § 2º do artigo 1.021 do CPC, motivo pelo qual deve ser desprovido o presente agravo interno."(e-STJ fl. 146, gn).
+Por ocasião do julgamento dos embargos de declaração opostos pela ora recorrente, acrescentaram-se os seguintes fundamentos:
+"A Embargante cita o julgamento do agravo de instrumento n.º 5435661-68, que entendeu que "o excesso de execução alegado pelo executado/agravante, por discordar dos juros remuneratórios, do termo inicial dos juros moratórios, do índice de correção monetária do débito e da incidência de honorários advocatícios na fase de cumprimento de sentença já foram objeto de apreciação no juízo de origem em decisão interlocutória anteriormente proferida. Desta forma, preclusa a sua reanálise".
+No caso em debate, a situação é diferente, não se tratando de impugnação ao cumprimento de sentença já decidida. Pela decisão atacada (evento 30 dos autos originários), se vê que o devedor e ora embargado impugnou a penhora on line do valor remanescente de R$ 15.419,89, alegando excessividade do valor cobrado, indicado como valor correto a quantia de R$ 7.470,12.
+Em razão da discrepância dos valores, o magistrado singular entendeu "necessária a elaboração de um cálculo por um órgão do Judiciário, a fim de apurar o quantum debeatur".
+Com efeito, sanada está a omissão.
+Ante o exposto, acolho os aclaratórios, apenas para sanar a omissão, sem implicar, todavia, em concessão de efeitos infringentes aos declaratórios" (e-STJ fl. 178, gn).
+Da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões pela ausência de preclusão no caso concreto, pois, "não se tratando de impugnação ao cumprimento de sentença já decidida.Pela decisão atacada (evento 30 dos autos originários), se vê que o devedor e ora embargado impugnou a penhora on line do valor remanescente de R$ 15.419,89,".
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. COBERTURA DE INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA. INTERPRETAÇÃO SOB A LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO ACERCA DOS LIMITES DA COBERTURA CONTRATADA. RECONHECIMENTO NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, g.n.)
+No mais, relativamente à suposta violação aos demais artigos de lei tidos por violados, melhor sorte não socorre àrecorrente, pois, elidir as conclusões do aresto impugnado, quanto à inocorrência de preclusão, no caso concreto, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada, novamente, nesta sede especial a teor da Súmula 07/STJ.
+Por fim, deixo de majorar os honorários nos termos do art. 85, § 11, do Código de Processo Civil tendo em vista que o recurso especial foi interposto nos autos de agravo de instrumento que ataca decisão interlocutória na qual não houve prévia fixação de honorários.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AGRAVO DE INSTRUMENTO. AÇÃO REVISIONAL. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA.PRECLUSÃO.INOCORRÊNCIA.IMPUGNAÇÃOÀPENHORA ON LINE DO VALOR REMANESCENTE DEVIDAMENTE APRESENTADA.REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE.APLICAÇÃO DA SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL, E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
