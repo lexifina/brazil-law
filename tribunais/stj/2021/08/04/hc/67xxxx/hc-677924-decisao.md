@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Mario Cesar Vidal, no qual se aponta como órgão coator o Tribunal de Justiça de Santa Catarina, que fixou a pena em 4 anos de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 16 dias-multa, pela prática do crime previstono art. 155, §§1º e 4º, IV, do Código Penal(Apelação n. 5017298-16.2020.8.24.0020 - fls. 49/57 e seus respectivos embargos de declaração - fls. 94/103).
+A defesa pretende, em síntese, o afastamento da qualificadora da escalada, com a consequente redução da reprimenda. Alega que, ..  para a comprovação da qualificadora de escalada prevista no inciso IV do § 4.º do art. 155 do Código Penal, é indispensável a realização de exame pericial, cuja ausência somente poderá ser suprida no caso de os vestígios do crime terem desaparecido por completo sem culpa atribuível ao Estado-investigação.Trata-se, na verdade, de caso típico de incúria estatal, cujo ônus não pode, a toda evidência, recair sobre o Paciente.Dessa forma, havendo flagrante violação aos arts. 158, 167 e 171 do Código de Processo Penal, torna-se imperativo o reconhecimento da ilegalidade do acórdão no ponto em que manteve a qualificadora de rompimento de obstáculo, para o fim de afastar a respectiva qualificadora, com a readequação da pena imposta(fls. 7/8).
+Liminar indeferida (fls. 368/369), informações prestadas (fls. 372/407), o Ministério Público Federal opinou pelo não conhecimento do writ, em parecer proferido pelo Subprocurador-Geral da República Nívio de Freitas Silva Filho, assim ementado (fl. 409):
+HABEAS CORPUS COM PEDIDO DE LIMINAR.SUBSTITUTIVO. INVIABILIDADE. FURTO. ESCALADA.PRESCINDIBILIDADE DE PERÍCIA. QUALIFICADORA COMPROVADA POR OUTROS MEIOS DE PROVA. NÃO CONHECIMENTO DO WRIT.
+É o relatório.
+Para manter a qualificadora (escalada), o Tribunal a quo assinalou a possibilidade de substituir o exame pericial por outros elementos de prova (fl. 103):
+Não fosse isso, a juntada da prova técnica não é imprescindível para a constatação da qualificadora da escalada se os elementos de prova são suficientes par a indicar a altura do obstáculo transposto e, neste sentido, o esforço incomum praticado pelo réu, nos exatos termos do que restou constatado nos autos de origem (A esse respeito: Apelação Criminal n. 0016694-30.2013.8.24.0039, de Lages, de minha relatoria, j. 04-07-2019).
+Sucede que, no âmbito desta Corte, predomina entendimento contrário, qual seja, de que, para o reconhecimento das qualificadoras em questão, é imprescindível a realização de exame pericial, sendo possível a sua substituição por outros meios probatórios somente se não existirem ou tenham desaparecido, ou se as circunstâncias do crime não permitirem a confecção do laudo (EDcl no HC n. 408.471/MS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 27/10/2017).
+A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. ROMPIMENTO DE OBSTÁCULO. RECONHECIMENTO. PERÍCIA PAPILOSCÓPICA. PERITOS POLICIAIS.POSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No julgamento do REsp n. 1.320.298/MG, a Sexta Turma desta Corte Superior examinou a possibilidade de, em razão das particularidades do caso concreto e em respeito ao sistema de livre apreciação da prova, reconhecer a incidência da qualificadora da escalada nos delitos de furto quando sua ocorrência for incontroversa nas provas colhidas nos autos, a despeito da ausência de laudo pericial que a ateste. Na oportunidade - na qual fiquei vencido -, firmou-se o entendimento de que o exame pericial é imprescindível para a configuração da qualificadora da escalada, entendimento este também aplicado ao rompimento de obstáculo.
+2. Laudo pericial papiloscópico que incidentalmente atesta a configuração do rompimento de obstáculo (avaria na janela) é suficiente para caracterizar a qualificadora prevista no inciso I do § 4º do art. 155 do Código Penal.
+3. É válida a perícia realizada por dois policiais com formação superior e nomeados pelo delegado de polícia para essa finalidade.
+4. Agravo regimental não provido.
+(AgRg no HC n. 564.811/MS, Ministro Rogerio Schietti Cruz, Sexta Turma,DJe 01/07/2020 - grifo nosso).
+No mesmo sentido: HC n. 207.588/DF, Ministro Og Fernandes, Sexta Turma, DJe 8/9/2011; HC n. 104.672/MG, Ministro Jorge Mussi, Quinta Turma, DJe 6/4/2009;e HC 557.197/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 27/02/2020.
+No caso, as instâncias ordinárias não consignaram nenhum óbice à confecção do exame pericial.
+Consequentemente, não há outra solução,senão excluir a qualificadora em questão, ante a inexistência de prova material.
+Todavia, tratando-se de caso em que permanece a qualificadora do concurso de agentes, entendo que os autos devem retornar ao Juízo de primeiro grau para nova dosimetria da pena.
+Ante o exposto, concedo a ordem a fim de afastar a qualificadora da escalada, devendo os autos retornarao Juízo de primeiro grau para que seja refeita a dosimetria da pena, como entender de direito.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO. QUALIFICADORA DA ESCALADA. AUSÊNCIA DE PERÍCIA. AFASTAMENTO. PRECEDENTES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
