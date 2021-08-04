@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SALVADOR contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia assim ementado:
+APELAÇÃO. DIREITO PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ISSQN SOBRE LOCAÇÃO DE VEÍCULOS. AUSÊNCIA DE PRESTAÇÃO DE SERVIÇO A TERCEIRO. INEXISTÊNCIA DE FATO GERADOR. NÃO INCIDÊNCIA DO TRIBUTO. HONORÁRIOS ADVOCATíCIOS FIXADOS CONTRA A FAZENDA PÚBLICA. OBSERVÂNCIA AO DISPOSTO NO ART. 85, §§ 3º E 4º, DO NCPC. SENTENÇA REFORMADA. APELO CONHECIDO E PROVIDO
+Opostos embargos de declaração, foram rejeitados.
+A parte recorrente alega violação dos arts. 489 e 1.022 do CPC/2015, sustentando, em síntese, omissão do órgão julgador quanto à verificação da prova a respeito do recolhimento indevido de ISSQN (fls. 573/577).
+Contrarrazões apresentadas por LUPA TRANSPORTES, COMÉRCIO E SERVIÇOS LTDA, nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 584/589).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 538/549):
+Ademais, perlustrando-se os fólios. dessume-se que o Município, de fato, realiza a cobrança do referido imposto, tendo como lido gerador da exação a locação de bens móveis efetivada pela Recorrente.
+Por oportuno. cumpre destacar que o STF já pacificou o entendimento de não ser cabível a incidência de ISS sobre operações de locação de bens móveis.
+Sobre o terna. a Súmula Vinculante IV 31: Súmula Vinculante a" 31: É inconstitucional a incidência do imposto sobre serviços de qualquer natureza sobre operações de locação de bens móveis. "
+Ademais, examinando-se a documentação acostada aos fólios, não se verifica o fornecimento de mão de obra, ou qualquer outra obrigação de fazer, ensejadora da incidência do tributo em questão, limitando-se a atividade desenvolvida ao aluguel de automóveis, definida como obrigação de dar ou de entregar.
+Nos embargos de declaração, a municipalidade alegou omissão quanto à prova do recolhimento indevido de ISSQN, apontando, inclusive, a prova pericial considerada pela sentença de improcedência (fls. 563/569).
+Porém, por ocasião do julgamento dos embargos de declaração, nada foi acrescido à fundamentação (fls. 563/569).
+Pois bem.
+Na locação de bens móveis, eventual incidência do imposto sobre a prestação de serviços se dá de forma indireta, razão pela qual obrigatória a observância da regra do art. 166 do CTN ("A restituição de tributos que comportem, por sua natureza, transferência do respectivo encargo financeiro somente será feita a quem prove haver assumido o referido encargo, ou, no caso de tê-lo transferido a terceiro, estar por este expressamente autorizado a recebê-la").
+A respeito, ainda em 2009 e na sistemática dos recursos repetitivos, a Primeira deste Tribunal Superior decidiu: "a pretensão repetitória de valores indevidamente recolhidos a título de ISS incidente sobre a locação de bens móveis  .. , hipótese em que o tributo assume natureza indireta, reclama da parte autora a prova da não repercussão, ou, na hipótese de ter a mesma transferido o encargo a terceiro, de estar autorizada por este a recebê-los" (REsp 1.131.476/RS, Rel. Ministro Luiz Fux, Primeira Seção, julgado em 09/12/2009, DJe 01/02/2010).
+Ainda sobre o tema, confiram-se, dentre outros: REsp 1121634/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 15/12/2009, DJe 18/12/2009; REsp 770.017/MG, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/09/2008, DJe 29/10/2008.
+De outro lado, por força dos arts. 489 e 1.022 do CPC/2015, os órgãos judiciais estão obrigados a se manifestarem, de forma adequada, coerente e suficiente, sobre as questões relevantes suscitadas para a solução das controvérsias que lhes são submetidas a julgamento, assim considerados os argumentos capazes de, em tese, infirmar a conclusão adotada pelo julgador. Nessa linha, se a integração pedida por meio dos aclaratórios é negada pelo órgão julgador, há violação dos referidos dispositivos.
+A respeito: REsp 1889046/RJ, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 04/05/2021, DJe 10/05/2021; AgInt no AREsp 798.810/PR, Rel. Ministro Antônio Carlos Ferreira, Quarta Turma, julgado em 01/03/2021, DJe 03/03/2021; EDcl no AgInt no REsp 1.584.428/RS, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 22/05/2017; REsp 1.661.018/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 02/05/2017.
+No caso dos autos, forçoso reconhecer omissão relevante do órgão julgador a quo, pois não houve fundamentação clara e suficiente a respeito da assunção do encargo financeiro pela parte autora.
+Ante o exposto, dou provimento ao recurso especial, casso o acórdão recorrido e determino novo julgamento dos embargos de declaração do Município de Salvador.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ISSQN. PROVA DA REPERCUSSÃO FINANCEIRA. OBRIGATORIEDADE. ACÓRDÃO RECORRIDO OMISSO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RECURSO PROVIDO.
