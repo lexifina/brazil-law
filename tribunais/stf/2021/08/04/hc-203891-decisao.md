@@ -1,0 +1,29 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas Corpus. Crime contra a ordem tributária. Condenação transitada em julgado. Dosimetria da pena. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Corte Especial do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Jorge Mussi, assim ementado:
+    “AGRAVO EM RECURSO EXTRAORDINÁRIO. DECISÃO QUE NEGA SEGUIMENTO A RECURSO EXTRAORDINÁRIO EM PROCESSO PENAL. MANIFESTO DESCABIMENTO. NÃO CONHECIMENTO DO RECLAMO.
+    1. Nos termos do art. 39 da Lei n. 8.038/1990 e do art. 798 do Código de Processo Penal, contra decisão que nega seguimento ao recurso extraordinário em processo penal cabe agravo regimental no próprio Superior Tribunal de Justiça, no prazo de cinco dias corridos, e não agravo em recurso extraordinário para o Supremo Tribunal Federal.
+    2. A interposição de agravo em recurso extraordinário contra o referido pronunciamento judicial configura erro grosseiro, impedindo a aplicação do princípio da fungibilidade. Precedentes do STJ e do STF.
+    3. Recurso não conhecido. ”
+    2. Extrai-se dos autos que os pacientes foram condenados à pena de 11 anos, 1 mês e 10 dias de reclusão, em regime inicial fechado, por infração ao art. 1º, II e III, da Lei 8.137/90.
+    3. Da sentença, a defesa interpôs apelação, tendo o Tribunal de Justiça do Estado de Santa Catarina dado parcial provimento ao recurso para readequar a sanção penal ao patamar de 5 anos 6 meses e 20 dias de reclusão, no regime inicial semiaberto.
+    4. Na sequência, sobreveio a interposição de recurso especial, inadmitido na origem. Ato contínuo, a defesa interpôs agravo em recurso especial (AREsp 1.729.428). A Presidência do STJ não conheceu do AREsp. Em seguida, foram opostos embargos de declaração, rejeitados. Após, houve a interposição de agravo regimental, desprovido. A defesa, então, opôs novos embargos de declaração, rejeitados. Contra a decisão, houve a interposição de recurso extraordinário, cujo seguimento foi negado pela Vice-Presidência da Corte Superior. Por fim, foi interposto agravo em recurso extraordinário, não conhecido.
+    5. Neste habeas corpus, a parte impetrante requer:
+    “[...]
+    c) […] sejam os autos devolvidos ao primeiro grau para a correta fundamentação e aplicação correta das reprimendas, ou alternativamente prover este Habeas Corpus, para:
+    d) Anular todos os atos desde a sentença de primeiro grau, e determinado o retorno dos autos para que seja prolatada nova sentença respeitando a Carta Cidadã e normas legais, corrigindo-se assim todas as nulidades apontadas;
+    e) Em não sendo devolvidos para nova sentença, que Vossa Excelência reduza a pena base ao mínimo legal de 02(dois) anos, no sentido de afastar a circunstância judicial, tudo conforme exposto;
+    f) E, seja decotado da pena a prescrição do delito do art. 1º, § único ante a prescrição declarada, bem como a punição em função da extinção pelo pagamento o do art. 1º, II, ambos da Lei 8.137/90;
+    g) Considerar a atenuante, ante ao pagamento integral e extinção da penal nos termos do art. 9º, §2º da Lei 10.684/03 (Extinção pelo Pagamento), considerando a ação positiva dos Pacientes que pagaram integralmente o valor cobrado pelo Estado de Santa Catarina quanto a Notificação Fiscal n.106030038168; e nas outras duas de n. 96030139559 e n. 106030038184 que tiveram pagamento parcial, referentes aos delitos descritos no art. 1º, II e III da Lei8.137/90;
+    h) Decotar a causa de aumento do art. 12, I, da Lei nº 8137/90, que se restringiu exclusivamente, à soma do montante geral (multas, juros, etc) do crédito tributário do delito de sonegação fiscal; bem como ante a ausência de descrição do que seja grave dano à coletividade, e ilegalidades mencionadas nos fundamentos;
+    i) Consequentemente, em face da apenação in concreto, modificar-se o regime de aprisionamento para o aberto e determinada a substituição da pena privativa de liberdade por restritivas de direitos;”
+    6. Decido.
+    7. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia. No caso, em consulta à página oficial do Superior Tribunal de Justiça na internet, verifico que a condenação transitou em julgado em 28.04.2021.
+    8. Ainda que assim não fosse, observo que as alegações da defesa não foram analisadas pelo STJ. Fato que impede o imediato exame das matérias pelo STF, sob pena de supressão de instância.
+    9. Não é caso de concessão da ordem de ofício.
+    10. A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível, em habeas corpus, a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence). No caso de que se trata, as peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o acolhimento da pretensão defensiva.
+    11. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 04 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
