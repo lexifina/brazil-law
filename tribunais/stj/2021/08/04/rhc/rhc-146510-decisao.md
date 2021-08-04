@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso emhabeas corpussem pedido de liminar interposto porUENDEL COUTINHO DA CRUZcontra acórdão doTribunal de Justiça do Estado da Bahia (HC n. 8024039-12.2020.8.05.0000).
+Orecorrente teve a prisão em flagrante -ocorrida em 10/2/2020 -convertida em preventiva a pedido do Ministério Públicoe foi denunciado por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade e na variedade dos entorpecentes apreendidos e em razão de orecorrente ter cometido o delito durante a liberdade provisória concedida em outro processo. Impetrado writ originário, a ordem foi denegada.
+O recorrente alega queestá sendo vítima de constrangimento ilegal, porquanto configurado o excesso de prazo na formação da culpa, já que está preso há um ano sem data definida para a audiência de instrução.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+As informações foram prestadas às fls. 374-378 e 379-387.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 366-368).
+É o relatório. Decido.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fl. 328, destaquei):
+Na espécie, o Magistrado a quo informou que o retardo para início da instrução se deu por culpa exclusiva da defesa do paciente, que recusou a realização de audiência virtual, a saber: "Quanto ao alegado excesso de prazo, e considerando que a audiência de instrução foi suspensa conforme decretos judiciários, não sendo possível a remarcação da audiência física até o momento em que havia sido analisado o pedido de relaxamento, apesar de possível a realização por meio telepresencial, mas sem manifestação de concordância da defesa, conforme recomendam as regulamentações do CNJ e TJBA.(..) Após, a defesa manifestou-se nos autos do pedido de relaxamento, momento em que se opôs à realização de audiência de instrução pelo sistema telepresencial, e não sendo possível a remarcação da audiência física, foi ratificada a decisão de folhas 130 e 131, conforme decisão de folha 153, dos autos"(ID nº10311851).
+Portanto, como bem observou a d. Procuradoria de justiça, o caso recomenda a aplicação da súmula 64 do Superior Tribunal de Justiça, "pois a dilação processual deve-se, como referido pelo Magistrado, à discordância da Defesa acerca da realização da audiência de instrução pelo sistema telepresencial."
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais, observo que além do atraso no processamento do recurso dar-se também "em decorrência de medidas preventivas decorrentes da situação excepcional da pandemia do COVID-19, que geraram a suspensão dos prazos processuais e o cancelamento da realização de sessões e audiências presenciais, por motivo de força maior" (HC n. 608.916/PE, relator Ministro Ribeiro Dantas, Quinta Turma, DJe 3/11/2020), houvecontribuição da defesa.
+Assim, nos termos da Súmula n. 64 do STJ,"não constitui constrangimento ilegal o excesso de prazo na instrução provocado pela defesa".
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
