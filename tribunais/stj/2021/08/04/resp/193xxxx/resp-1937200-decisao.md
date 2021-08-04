@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso especial interposto por ERIC MULLER ALVES DE LIRA, com fundamento no art. 105, inciso III, alínea a, da Constituição Federal, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA.
+Consta dos autos que o recorrente foi condenado à pena de 3 anos de reclusão, no regime inicialmente aberto, substituída a sanção corporal por duas medidas restritivas de direitos, além de 10 dias-multa, em razão da prática do crime previsto no art. 16, caput, da Lei n. 10.826/2003.
+Alega o recorrente violação do art. 12 da Lei n. 10.826/2003, ao fundamento de que os Decretos n. 9785/2019 e 9847/2019 "tornaram de uso permitido a arma de fogo cuja posse levou à denúncia do requerente, que, à época dos fatos, era de uso restrito, nos termos do art. 16 do Decreto nº 3.665/2000" (e-STJ fl. 402).
+Conclui que, "de acordo com o Informativo Técnico nº 32, de abril de 2018, da Companhia Brasileira de Cartuchos (CBC), as muniçães de calibre .40, .45 e 9mm produzem, a depender do seu tipo, entre 525-669 joules, 484-755 joules e 444-611 joules na saída do cano, respectivamente; ou seja, o Decreto nº 9.847/2019, é mais benigno do que o Decreto nº 3.665/2000, e deve retroagir para favorecer o Recorrente" (e-STJ fl. 402).
+Requer, portanto, em virtude da superveniência de ato normativo mais favorável ao réu, a desclassificação da conduta delitiva para a do art. 12 da Lei n. 10.826/2003.
+O Parquet Federal opinou pelo não conhecimento do recurso especial (e-STJ fls. 439/440).
+É o relatório.
+Decido.
+Quanto ao mérito recursal, observa-se que a questão, da forma como deduzida no recurso especial, somente foi suscitada perante a Corte a quo nos embargos de declaração opostos contra o acórdão de apelação.
+Ocorre que os referidos embargos de declaração não foram sequer conhecidos pela Corte local, porquanto intempestivos (e-STJ fls. 369/372).
+Primeiramente, pontuo que o pleito relativo à novatio legis in mellius trata-se de inovação recursal, uma vez que deduzido tão somente nos embargos de declaração, ao passo que, no recurso de apelação defensiva, a controvérsia limitou-se ao pleito absolutório.
+N esses termos, não admite este Superior Tribunal de Justiça, "em sede de agravo regimental ou embargos de declaração, ampliar a quaestio veiculada no recurso, inovando questões não suscitadas anteriormente (AgRg no REsp 1.592.657/AM, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/9/2016, DJe 21/9/2016)" (AgRg no HC n. 605.999/SP, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 2/3/2021, DJe 8/3/2021). A propósito, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. MINORANTE. REQUISITOS LEGAIS. AMPLO REVOLVIMENTO FÁTICO-PROBATÓRIO. NÃO CABIMENTO. PRISÃO DOMICILIAR. INOVAÇÃO. PRECEDENTES. AGRAVO IMPROVIDO.
+ ..
+3. "No âmbito de agravo regimental e de embargos de declaração, não se admite que a Parte, pretendendo a análise de teses anteriormente omitidas, amplie objetivamente as causas de pedir e os pedidos formulados na petição inicial ou no recurso (AgRg no RHC 144.661/BA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/04/2021, DJe 30/04/2021).
+4. Agravo regimental improvido. (AgRg no HC 657.254/SP, Rel. Ministro OLINDO MENEZES, DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, SEXTA TURMA, julgado em 1º/6/2021, DJe 7/6/2021, grifei)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE OFENSA AO ART. 70 DO CPP. TESE NÃO SUSCITADA NAS RAZÕES DA APELAÇÃO CRIMINAL, MAS APENAS POR OCASIÃO DOS EMBARGOS DE DECLARAÇÃO. PREQUESTIONAMENTO FICTO. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Não tendo o acórdão recorrido analisado a incidência do dispositivo tido por violado, fica obstado o julgamento do recurso por ausência de prequestionamento, nos termos da Súmula n. 211 do STJ.
+2. "Não há falar em adoção do prequestionamento ficto, haja vista sua inaplicabilidade quando a parte suscita a matéria apenas em embargos de declaração. Deveras, o art. 1.015 do CPC, aplicável analogicamente ao processo penal, tem o intuito de permitir à Corte ad quem sanar o vício de omissão, contradição ou obscuridade apontado pela parte e não apreciado pelo órgão a quo, mesmo quando opostos embargos declaratórios. Na espécie, a tese defensiva não foi formulada perante o Tribunal estadual em apelação, mas apenas nos aclaratórios, em evidente inovação recursal" (AgRg no HC n. 608.585/SC, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/12/2020, DJe 15/12/2020).
+3. Agravo regimental desprovido. (AgRg nos EDcl no AREsp 1049452/MG, de minha relatoria, SEXTA TURMA, julgado em 6/4/2021, DJe 13/4/2021, grifei)
+Não bastasse, tendo em vista que a pretensão recursal não foi debatida pelo Tribunal baiano, malgrado a oposição de embargos declaratórios, de rigor a incidência da Súmula n. 211/STJ à espécie, ante a ausência de prequestionamento da questão federal.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
