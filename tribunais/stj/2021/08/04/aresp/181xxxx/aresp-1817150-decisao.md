@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS Executada que não opõe embargos à execução tempestivamente Apresentação de exceção de pré-executividade Insurgência contra r. decisão que rejeitou a exceção apresentada Contrato de prestação de serviços advocatícios cuja condição de título executivo extrajudicial é expressa decorrência de previsão de lei (art. 784, inciso XII do CPC c/c art. 24 do EOAB) Executada alega que prestação dos serviços não teria sido efetivamente comprovada Questão que dependeria de dilação probatória, o que não pode ser arguido em sede de exceção de pré-executividade Negado provimento.
+Opostos embargos de declaração, esses foram rejeitados.
+No recurso especiala recorrente aponta violação aoartigo 803, I, do Código de Processo Civil/2015, sustentando que "O contrato de fls. 22/24 diz respeito a demanda judicial sobre ISS, inexistindo notícia a respeito; o contrato de fls. 25/27 fala sobre compensação de Imposto de Renda. Os autos não trazem notícias sobre qualquer desses assuntos, mostrando que não houve a prestação de serviços contratada, inexistindo obrigação certa, líquida e exigível, acarretando a nulidade da execução".
+Contrarrazões apresentadas.
+O recurso especial não foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+Assim, o instrumento processual utilizado deve ser rejeitado, uma vez que as questões argumentadas pelo autor no bojo da exceção de pré-executividade dependeria de dilação probatória (se houve ou não, de fato, a prestação de serviços), sendo que a condição de títulos executivos dos contratos exequendos é decorrência de incidência direta de previsão legal (art. 784, XII do Código de Processo Civil c/c art. 24 do Estatuto da Advocacia).
+ ..
+Na hipótese dos autos, a nulidade arguida pela ennbargante consiste na alegação de que os serviços advocatícios não teriam sido prestados, questão que demandaria dilação probatória. Esta, por seu turno, está preclusa, uma vez que, por desídia da embargante, não houve apresentação tempestiva de embargos à execução. Desse modo, ainda que arguição de nulidade seja matéria cognoscível a qualquer tempo, a preclusão da dilação probatória necessária ao deslinde da questão específica trazida aos autos pela executada não permite sua apreciação pelo Juízo.
+Se a matéria arguida incidentalmente nos autos demandasse apenas apreciação jurídica, não haveria óbice à manifestação do Juízo sobre o tema. Contudo, não pode o Órgão Jurisdicional premiar a desídia da executada, reabrindo a instrução probatória a destempo para que possa demonstrar sua tese defensiva de que os serviços não teriam sido prestados.
+Como se vê, o acórdão recorrido solucionou a controvérsia à luz do conjunto fático-probatório dos autos, de sorte que, para modificá-lo, seria necessário revisitar tal arcabouço, o que é vedado em sede de recurso especial, em razão do óbice erigido pela Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+Em face do exposto, nego provimento ao agravo.
+Descabida a majoração de honorários advocatícios com fundamento no art. 85, § 11, do Código de Processo Civil/2015, porque a decisão alvo do recurso especial tem natureza interlocutória, não comportando o estabelecimento de verbas sucumbenciais.
+Intimem-se.
