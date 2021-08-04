@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCELO VASQUES CAVALHEIRO contradecisão de e-STJ fls. 169/172, que não conheceu do habeas corpus.
+Aduz o embargante que a decisão é omissa no que toca ao alegado excesso de prazo para a formação da culpa.
+Assim, "requerer a oportuna ponderação/correção na presente decisão (conhecimento/análise do teor do Habeas Corpus impetrado perante este juízo Superior, uma vez que a questão relacionada aos requisitos da prisão preventivarestaram notadamente enfrentados pelo TJSC, além do segundo argumento relativo ao excesso de prazo que deixou de ser mencionado/apreciado na presente decisão), como medida de necessária e esperada justiça, uma vez que não se trata da alegada tentativa de supressão de instância." (e-STJ fls. 181/182).
+É, em síntese, o relatório.
+Decido.
+Os embargos merecem acolhimento.
+Com efeito, o Tribunal de origem manifestou-se acerca do alegado excesso de prazo, nos seguintes termos (e-STJ fl. 37):
+Portanto, conhece-se apenas do argumento que trata de possível constrangimento ilegal por excesso de prazo na formação da culpa (e-STJ fl. 37):
+No ponto, cumpre esclarecer que eventual reconhecimento da mácula depende da análise das peculiaridades do caso concreto sob a ótica do princípio da razoabilidade, ou seja, as intercorrências ao longo da instrução são mais importantes que a mera soma aritmética dos prazos processuais previstos na legislação.
+A respeito do tema, leciona Júlio Fabbrini Mirabete que "a duração da instrução deve ser considerada sempre com relação à complexidade do processo, de acordo com um critério de razoabilidade" (Código de processo penal interpretado, 8. ed., São Paulo:Atlas, 2000. p. 900).
+Neste contexto, consagrou-se a ideia de que o excesso de prazo para a formação da culpa exige, para sua configuração, morosidade imputável ao aparato estatal (órgão acusatório ou Poder Judiciário). De maneira mais simples, é necessário observar a existência de demora excessiva, cuja culpa seja do Ministério Público ou do próprio juiz presidente da instrução.
+Sobre o tema, "é firme o entendimento do Supremo Tribunal Federal de que somente o excesso indevido de prazo imputável ao aparelho judiciário traduz situação anômala que compromete a efetividade do processo, além de tornar evidente o desprezo estatal pela liberdade." (STF, HC 129.668/BA, rel. Min. Gilmar Mendes, j. 23-8-2016).
+No caso dos autos, o paciente está segregado desde 06.02.2020, quando da conversão da prisão em flagrante em prisão preventiva. A denúncia foi recebida em 04.03.2020 e o réu citado em 12.03.2020. A resposta a acusação foi apresentada apenas 27.04.2020, acompanhada de pedido para a instauração de incidente de insanidade mental.
+Em 30.04.2020 a defesa foi processada e o exame autorizado, sem suspender a instrução processual em razão de se tratar de réu preso.
+A audiência de instrução e julgamento transcorreu normalmente por meio de videoconferência em 16.07.2020, sendo que o encerramento da instrução depende apenas do encaminhamento do laudo do exame de insanidade mental que foi realizado no último dia 18.08.2020 (5034822-17.2020.8.24.0023 - evento 99).
+Do cenário descrito, é possível observar que não existiu demora excessiva imputável ao aparato estatal. A bem da verdade, um dos atos que mais demorou a ser praticado, foi justamente a resposta à acusação pela defesa. Nota-se que a citação ocorreu em 12.03.2020, mas apenas em 27.04.2020 a peça foi apresentada. Neste lapso de praticamente 45 dias, os defensores formularam pedido de revogação da prisão (evento 32 da Ação Penal) e impetraram Habeas Corpus.
+Assim sendo, afasta-se o alegado constrangimento ilegal por excesso de prazo na formação da culpa.
+De fato, como alega a defesa, houve a efetiva manifestação da Corte de origem.
+No entanto, em consulta ao sítio eletrônico do Tribunal de Justiça do Estado de Santa Catarina, constatei que foi prolatada sentença de pronúncia em desfavor do embargante, nos termos do dispositivo ora transcrito:
+Pelo exposto, com fundamento no artigo 413 do CPP, admito a denúncia para PRONUNCIAR oacusado MARCELO VASQUES CAVALHEIRO, já qualificado, como incursonas sanções do artigo121, § 2º, incisos III, IV e VI, §2º-A, inciso II, do Código Penal, além dosartigos 211, c/c artigo 14, inciso II, e 311, caput, ambos do Código Penal, em que figura como vítima Samantha Soares. Oacusadodeve ser submetidoa julgamento pelo Tribunal do Júri.
+A prisão preventiva do réu deve ser mantida, porquanto permanecem inalterados os fundamentos ensejadores da segregação, destacando neste contexto a garantia da ordem pública, bem como a gravidade e brutalidade da conduta cometida pelo acusado, o que torna a prisão necessária para assegurar a aplicação da lei penal e evitar a reiteração criminosa.
+Colho do Superior Tribunal de Justiça: Não há que se falar em constrangimento ilegal quando a custódia cautelar está devidamente justificada na garantia da ordem pública, em razão da gravidade efetiva do delito em tese praticado e da periculosidade social dos agentes envolvidos, bem demonstradas pelas circunstâncias em que ocorridos os fatos criminosos, notadamente quando o réu assim permaneceu durante toda a primeira fase do processo afeto ao Júri (RHC n. 55.498/SP, Rel. Ministro Jorge Mussi).
+Nego ao réu Marcelo, portanto, o direito em recurso em liberdade.
+Intimem-se.
+Assim, com a prolação da sentença da pronúncia, esvaziou-se a alegação de excesso de prazo.
+Tal o contexto, acolho os embargos de declaração para colmatar a lacuna apontada pelo embargante e julgo prejudicado o habeas corpus, ante a prolação da sentença de pronúncia.
+Publique-se. Intimem-se.
