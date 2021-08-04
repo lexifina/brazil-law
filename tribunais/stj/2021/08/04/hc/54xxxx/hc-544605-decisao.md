@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de JOILSON MALTA DE ABREU no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0313.15.023282-2/001).
+Depreende-se dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 1 ano, 1 mês e 14 dias de reclusão, em regime inicial aberto, como incurso nos crimes previstos no "art. 171, caput, e art. 171, caput, na forma do art. 14, II, c/c o art. 29", todos do Código Penal (e-STJ fl. 134).
+Irresignada, a defesa interpôs recurso de apelação, ao qual o Tribunal de origem deu parcial provimento para redimensionar a reprimenda para 3 meses e 14 dias de reclusão, em regime inicial aberto, e substituí-la por uma restritiva de direitos. Eis a ementa do acórdão (e-STJ fl. 133):
+APELAÇÃO CRIMINAL - ESTELIONATO TENTADO - ABSOLVIÇÃO - IMPOSSIBILIDADE - COAUTORIA - CONFIGURADA - ESTELIONATO CONSUMADO - ABSOLVIÇÃO - POSSIBILIDADE. 1. Se as provas dos autos, colhidas na fase de inquérito e reproduzidas em juízo, demonstram o envolvimento do acusado na prática do delito de estelionato tentado, impossível é acolher a tese de absolvição. 2. Restou comprovada a coautoria, diante da unidade de desígnios e participação decisiva do acusado, independente da realização de todos os atos executórios. 3. Não existindo provas seguras quanto à participação do réu no delito de estelionato consumado, deve ele ser absolvido em observância ao princípio do in dúbio pro reo.
+Os embargos de declaração opostos foram rejeitados nos termos doacórdão constante de e-STJ fls. 145/146.
+Daí o presente writ, no qual a defesa alega que ocorreu a prescrição da pretensão punitiva em sua modalidade intercorrente.
+Aduz que (e-STJ fls. 4/5):
+2.8. Interposta apelação pelo paciente, foi reformada a sentença reduzindo 03 (três) meses e 14 (quatorze) dias de reclusão mais o pagamento de 03 (três) dias-multa, substituída por uma pena restritiva de direito, já realizada a detração.
+2.9. Interposto embargos foram rejeitados. Entretanto, foi feita a seguinte ressalva:
+Por ora, não há como reconhecer a prescrição intercorrente, apesar da pena no acórdão ter sido concretizada em 03 (três) meses e 14 (quatorze) dias de reclusão - que prescreve em 03 (três) anos, conforme art. 109, VI, do CP desde o recebimento da denúncia (27.10.2016), não se passaram o período mencionado
+2.10. De acordo com a movimentação anexa, verifica-se que a denúncia foi recebida em 16/11/2015, e a sentença condenatória foi prolatada em 27/10/2016.
+2.11. Observa-se no caso em tela a ocorrência da prescrição intercorrente nos termos do art. 107, IV, e 109, inciso V, c/c 110, § 1º, todos do Código Penal, uma vez que a sentença foi prolatada em 27/10/2016, transcorrendo o prazo de 3 anos.
+2.12. Assim, o paciente está sofrendo coação ilegal de poder ser condenado a um crime no qual sua punibilidade está extinta, devendo assim em sede liminar conceder a suspensão do trâmite processual, até o julgamento do presente writ.
+Postula, liminarmente, a suspensão do processo até o julgamento em definitivo do writ.
+No mérito, requer (e-STJ fl. 7):
+ ..  c) seja concedida a ordem impetrada com base nos art. 647 e 648, inciso III do CPP, decretando-se o arquivamento do presente feito e a declaração da extinção de punibilidade do paciente nos autos do referido processo, como medida de justiça.
+A medida liminar foi indeferida (e-STJ fls. 311/313).
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+É, em síntese, o relatório.
+Decido.
+Com relação ao pleito prescricional, o voto condutor foi assim entabulado (e-STJ fl. 146 - grifei):
+Por ora, não há como reconhecer a prescrição intercorrente, apesar da pena no acórdão ter sido concretizada em 03 (três) meses e 14 (quatorze) dias de reclusão - que prescreve em 03 (três) anos, conforme art. 109, VI, do CP -, desde o recebimento da denúncia (27.10.2016), não se passaram o período mencionado.
+Como se vê, foi o paciente condenado pela prática delitiva prevista no art. art. 171, caput, na forma do art. 14, II,ambos do Código Penal, à pena de 3 meses e 14 diasde reclusão, cujo lapso prescricional é o de 3anos, consoante dispõe o art. 109, VI, também do CP.
+A teor das informações colhidas nos autos, verifica-se que entre nenhum dos marcos interruptivos decorreu o prazo prescricional, a saber: data dos fatos - 27/8/2015; recebimento da denúncia - 13/11/2015; publicação da sentença em cartório - 27/10/2016; e, por fim, prolação do acórdão confirmatório da condenação - 2/10/2019.
+Neste ponto, consigno que, muito embora os impetrantes tenham suscitado a ocorrência da prescrição, porquanto teria decorrido o prazo prescricional entrea data de publicação da sentença e a data da presente impetração, entende esta Corte que o acórdão confirmatório da condenação também configura marco interruptivo do cômputo da prescrição, consoante se extrai dos seguintes arestos:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO E CORRUPÇÃO DE MENOR. NÃO IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. SÚMULA 182/STJ. PRESCRIÇÃO DA PRETENSÃO PUNITIVA.NÃO OCORRÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA. MARCO INTERRUPTIVO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Noutro giro, "nos termos do inciso IV do art. 117 do Código Penal, o acórdão condenatório interrompe a prescrição, inclusive quando confirma a sentença de primeiro grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta (STF, HC n.176.473/RR)" (EDcl no AgRg no AREsp 1.375.327/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 2/3/2021, DJe 5/3/2021).
+4. No caso, o acórdão que confirmou a condenação do recorrente data de 13/4/2018, e, tendo sido condenado à pena de 1 ano, 6 meses e 20 dias de reclusão, não se operou a prescrição da pretensão punitiva (art. 110, § 1º, c.c. art. 109, V, ambos do Código Penal).
+5. Agravo regimental desprovido.
+(AgRg nos EDcl no AREsp 1450228/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 08/06/2021, DJe 11/06/2021 - grifei)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL.PENAL. FURTO SIMPLES. VIOLAÇÃO DO ART. 155 DO CP. PLEITO DE ABSOLVIÇÃO. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVAE: 1 NOTEBOOK AVALIADO EM R$ 1.300,00. BEM CUJO VALOR NÃO SE REVELA ÍNFIMO.REFERENCIAL ACIMA DE 10% DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DOS FATOS. PRECEDENTES DE AMBAS AS TURMAS. CRIME CONTRA A ADMINISTRAÇÃO PÚBLICA. PRINCÍPIO DA INSIGNIFICÂNCIA. NÃO INCIDÊNCIA. SÚMULA 599/STJ. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.PRESCRIÇÃO DA PRETENSÃO PUNITIVA INTERCORRENTE. VERIFICAÇÃO. NÃO OCORRÊNCIA. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. JURISPRUDÊNCIA DO PLENÁRIO DO STF. HC N. 176.473/RR, DJE 6/5/2020.
+ ..
+3. A despeito do entendimento do Superior Tribunal de Justiça, no sentido de que o acórdão que mantém a condenação não ser marco interruptivo da prescrição, o Plenário do Supremo Tribunal Federal, em julgamento finalizado no dia 24 de abril de 2020, no HC n.176.473, publicado no dia 6/5/2020, assentou que: Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta, nos termos do voto do Relator, vencidos os Ministros Ricardo Lewandowski, Gilmar Mendes e Celso de Mello.Plenário, Sessão Virtual de 17.4.2020 a 24.4.2020.
+4. Levando-se em consideração a publicação do acórdão da apelação em 1º/6/2018 (fl. 261), impõe-se a adoção do novo posicionamento do Plenário do Pretório Excelso, haja vista que o acórdão que julga a apelação sempre interrompe a prescrição.
+5. Agravo regimental provido para conhecer do recurso especial e negar-lhe provimento.
+(AgRg no AREsp 1612006/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 09/03/2021, DJe 15/03/2021 - grifei)
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
