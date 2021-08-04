@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Gabriel Rangel de Melo, em que se aponta como autoridade coatora a Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeiro.
+Consta dos autos (AçãoPenal nº 0156354-84.2019.8.19.0001) que o paciente foicondenado, peloJuízo de Direito da 4ª Vara Criminal da Comarca de Niterói/RJ, à pena de5 anos e 3 meses de reclusão, em regime fechado, e 1.080 dias-multa, por ter sido incurso no art. 35, caput, c/c art. 40, IV, da Lei nº 11.343/06 e art. 329, § 1º, do Código Penal, em face da apreensão de umaarma de fogo Taurus, calibre 9mm, municiada e uma pistola G-Cherokee, calibre 9mm, municiada (fls. 40/45).
+Em sede de apelação,a Primeira Câmara Criminal do Tribunal de Justiça do Rio de Janeironegou provimento ao recurso da defesa (fls. 21/39).
+No presente writ, a defesa aponta ilegalidade na dosimetriae requer também o abrandamento do regime de cumprimento da pena (fls. 3/20).
+Decisão deste Relatorindeferindo a liminar (fls. 74/75).
+Parecer ministerialopinando pelo não conhecimento do writ (fls. 89/95).
+É o relatório.
+Na sentença, quando feita a dosimetria relativa ao delito de associação para o tráfico, a pena-base foi fixada em 4 anos de reclusão e 760 dias-multa. O Magistrado considerou queoacusado é membro de facção criminosa violenta, Comando Vermelho, e foi detido em local que o grupo criminoso ao qual pertencia tentava tomar à força o controle da venda de drogas no Morro do Estado, das mãos do grupo rival, em ação que gerou ainda mais insegurança e perigo aos moradores da localidade(fl. 44). Não há ilegalidade na fixação da pena-base, pois houve concreta motivação, de modo que não há uma obrigatoriedade no aumento da vetorial na fração de 1/6. No caso, o Magistrado entendeu como devida a majoração nesse patamar, e a sentença está devidamente fundamentada. Esta Corte deve intervir apenas em casode flagrante ilegalidade, o que não se mostra na hipótese.
+Na segunda fase, por atenuante, a pena foi reduzida em 6 meses, portanto, 3 anos e 6 meses de reclusão, e 720 dias-multa. Já na terceira fase, foi reconhecida a causa de aumento prevista no art. 40, IV, da Lei n. 11.343/2006, e o Magistrado elevou a pena na fração de 1/2, em razão das armas apreendidas, duas delas sendo pistolas, armas semiautomáticas e um fuzilde alto poder lesivo.Aqui também não se mostra excessivo o quantum de aumento, pois, de fato, as armas apreendidas merecem um maior agravamento, conforme exposto na sentença.
+Pelo delito de resistência, o Magistrado fixou a pena em 2 anos de reclusão, trazendo a devida fundamentação, ou seja, ocrime foi praticado com disparos de armas de fogo levando perigo real e direto, não só aos agentes policiais contra terceiros, pois os tiros foram efetuados, em área residencial(fl. 44). Não há falar em inidônea motivação, pois devidamente justificado o aumento. Com o reconhecimento da atenuante de menoridade, a pena se tornou definitiva em 1 ano e 6 meses de reclusão.
+Inexistente ilegalidade no regime de cumprimento da pena,deverá ser mantido o regime fechado, como fixado pela instância ordinária, pela existência de ter sido a pena-base imposta acima do piso mínimo e pelo emprego de armas de fogo.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. RESISTÊNCIA. COMANDO VERMELHO. ALEGAÇÃO DE APLICAÇÃO DA PENA SEM A DEVIDA FUNDAMENTAÇÃO. AUSÊNCIA DE ILEGALIDADE. MOTIVAÇÃO CONCRETA. FRAÇÃO DE AUMENTO NA TERCEIRA FASEDEVIDAMENTE JUSTIFICADA. REGIME FECHADO MANTIDO.
+Ordem denegada.
