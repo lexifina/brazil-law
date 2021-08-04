@@ -1,0 +1,9 @@
+LEI COMPLEMENTAR N. 214, DE 4 DE AGOSTO DE 2021.
+
+INSTITUI a Microrregião de Saneamento Básico do Estado do Amazonas, e dá outras providências.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS
+
+DECRETA:
+
+CAPÍTULO I DISPOSIÇÕES PRELIMINARES
