@@ -1,0 +1,11 @@
+DECISÃO
+DAVID CRISTIANO FERREIRAalega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 3ª Região(Apelação Criminal n. 0009208-45.2011.4.03.6000).
+Consta dos autos que o paciente foi condenado à pena de 7anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, c/c art. 40, I, ambos da Lei n. 11.343/2006.
+Pleiteia a defesa, neste writ, a alteração do regime inicial de cumprimento de pena.
+A liminar foi indeferida e, dispensadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ ou pela denegação da ordem.
+Decido.
+No que tange ao modo de cumprimento de pena, o Tribunal de origem, ao dar parcial provimento ao apelo ministerial, estabeleceu o regime inicial fechado.
+Uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (como, por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Na espécie, embora o recorrente haja sido definitivamente condenado a reprimenda superior a 4 anos e inferior a 8 anos de reclusão, constato que a presença de circunstâncias judiciais desfavoráveis (tanto que a pena-base foi fixada acima do mínimo legal -fls. 44-45); a quantidadee a natureza dadrogaapreendida(2 tabletes com peso de 1.080 g de cocaína - fl. 36)e a existência de elementos concretos que evidenciam a dedicação do acusado ao narcotráfico (tanto que não foi beneficiado com a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas), justificam a fixação do regime inicial fechado, nos termos do art. 33, § 3º, do Código Penal, com observância ao disposto no art. 42 da Lei n. 11.343/2006.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
