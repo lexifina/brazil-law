@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por FERNANDO FERREIRA CLAUDIANO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(HC n. 2043841-79.2021.8.26.0000).
+Consta dos autos que o recorrente foi preso em flagrante, custódia essa convertida em preventiva, pela suposta prática dos crimes de tráfico de drogas e de resistência, pois foi ele flagrado na posse de26 comprimidos de ecstasy (10,9g - dez gramas e nove decigramas), 21 micropontos de LSD (0,2g - dois decigramas) e uma porção de MDMA (9,2g - nove gramas e dois decigramas), tendo "resistido à prisão,mediante violência contra a policial Erika, que suportou lesões corporais" - e-STJ fl. 199.
+Impetrado prévio writ na Corte local, a ordem foi denegada, em acórdão assim ementado (e-STJ fl. 197):
+Habeas corpus - Tráfico de drogas e resistência - Prisão em flagrante - Conversão em preventiva - Presença dos requisitos da custódia cautelar - Decisão bem fundamentada - Medidas cautelares insuficientes no caso concreto - Constrangimento ilegal - Não caracterização - Ordem denegada.
+Neste recurso, alega a defesa, em suma, que a segregação cautelar do recorrente mostra-se desproporcional, pois, além de ostentar predicados pessoais favoráveis, "o crime de tráfico previsto no art. 33, § 4º da Lei 11.343 não mais se equipara a crime hediondo, sendo deste modo, passível de pena restritiva de direito, ou de acordo de não persecução penal"(e-STJ fl. 209). Outrossim, afirma que o ambiente prisional, em razão da superlotação, favorece a disseminação da covid-19.
+Suscita a inidoneidade dos fundamentos do decreto prisional, porquanto a Lei n. 13.964/2019, expressamente, dispôs queo delito de tráfico previsto no art. 33, § 4º, da Lei n. 11.343/2006 não mais se equipara a crime hediondo, sendo, portanto, incabível a utilização de tal fundamento para justificar a prisão. Nesse ponto, ventila que "resta-se cabalmente comprovado que no presente caso foi utilizada lei mais grave que foi derrogada, quando em contrapartida, existe fundamentação atualizada e adequada ao caso que age em benesse do Recorrente" (e-STJ fl. 212).
+De outro norte, assinala que "a afirmação de resistência à prisão e a informação de que o recorrente indicou a existência de mais drogas em local distante do flagrante na mesma sentença, demonstra a incoerência em relação ao crime de resistência, basta olhar que se o recorrente tivesse o intuito de resistir, não teria o menor sentido cooperar com a autoridade coatora poucos instantes depois" (e-STJ fls. 216/217).
+Assim, requer, liminarmente e no mérito, a revogação da prisão preventiva, ainda que mediante a aplicação de cautelares diversas do cárcere.
+Liminar indeferida às e-STJ fls. 236/238.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso (e-STJ fls. 268/269).
+É o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso, porqueinformações prestadas pela instância ordinária àe-STJ fl. 243 dão conta de que foi proferida sentença condenatória em desfavor do ora recorrente e, na ocasião, o Magistrado de piso impôs regime aberto para resgate da reprimenda, bem como concedeu a possibilidade de recurso em liberdade, in verbis:
+ ..  aos 02 de junho último, foi proferida sentença pela qual foi Fernando condenado, em concurso material de delitos, como incurso no art. 33, caput e § 4º, da Lei nº 11.343/06, às penas de 01 ano e 08 meses de reclusão, em regime inicial aberto, e 166 dias-multa, bem como no art. 329 do Estatuto Repressivo, a 02 meses de detenção, em regime inicial aberto, permitido recorrer em liberdade, tendo a Defesa e o réu manifestado interesse em não recorrer do édito condenatório.
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
