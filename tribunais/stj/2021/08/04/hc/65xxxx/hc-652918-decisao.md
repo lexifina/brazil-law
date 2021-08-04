@@ -1,0 +1,13 @@
+DECISÃO
+O presente habeas corpus,impetrado em favor de Venicio Gomes Pereira, no qual se alega, em síntese, ausência de fundamentação idônea a justificar a constrição cautelar, perdeu seu objeto.
+Isso porque, diante das informações colhidas na página eletrônica do Tribunal local, nota-se que, em 23/6/2021, foi proferida sentença condenando o ora paciente e vedando-lhe o direito de recorrer em liberdade.
+A sentença condenatória constitui novo título judicial a motivar a custódia cautelar, razão pela qual prosseguir na análise deste feito implicaria inadmissível supressão de instância. Afinal, o novo decreto não foi ainda submetido à análise da instância originária.
+Consoante precedentes desta Corte,  h avendo sido prolatada sentença condenatória em desfavor de um dos acusados, ainda que lhe tenha sido vedado o direito de apelar em liberdade, é de se julgar prejudicado o exame do habeas corpus quanto à higidez dos fundamentos invocados originariamente pelo Juízo de primeiro grau para imposição de sua custódia preventiva, para não incorrer em supressão de instância (HC n. 423.213/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 4/6/2018).
+Na linha da jurisprudência desta Corte, fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação, ou seja, os efeitos da condenação penal (quantidade de pena e regime de cumprimento de pena aplicado), cujo requisito específico desafia, portanto, impugnação própria no Tribunal de origem.
+Nessa linha: HC n. 536.222/SC, Ministro Jorge Mussi, Quinta Turma, DJe 4/8/2020; AgRg no HC n. 568.997/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 27/5/2020; AgRg no HC n. 568.281/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/5/2020; e RHC n. 124.546/MG, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 24/3/2020.
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.De ofício,expeço a ordempara determinar que opaciente, salvo se estiverpresopor outro motivo,aguardeo julgamento de eventual recurso de apelação no regime fixado na sentençacondenatória, qual seja, no regime semiaberto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO.PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. SENTENÇA SUPERVENIENTE. NOVO TÍTULO. PERDA DO OBJETO.IMPOSIÇÃO DO REGIME SEMIABERTO. NECESSIDADE DE ADEQUAÇÃO.
+Writ prejudicado.Ordem expedida de ofício nos termos do dispositivo.
