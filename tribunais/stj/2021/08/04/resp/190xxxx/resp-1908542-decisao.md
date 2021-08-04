@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto peloMINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS, com fundamento no art. 105, inciso III, "a", da Constituição Federal de 1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 402/409, in verbis:
+1. Cuida-se de recurso especial interposto pelo MINISTÉRIO PÚBLICODO ESTADO DE MINAS GERAIS, com fundamento no art. 105, III, a, da CF, em face de acórdão do TJ-MG (e-STJ, fls. 256-264 e 325-328), que negou provimento ao agravo em execução ministerial para manter a decisão que autorizou, em caráter excepcional decorrente da pandemia da Covid-19, a prisão domiciliar ao recorrido.
+2. Em suas razões, o Parquet Estadual sustenta violação aos arts. 67, 112, caput e § 2º, e 117 da Lei de Execução Penal, alegando que a falta de intervenção do Ministério Público no processo de execução é causa de nulidade absoluta e que o recorrido cumpre pena total de 7 anos e 2 meses pela prática dos crimes de roubo majorado e de corrupção de menores, o que reforça a incompatibilidade do recolhimento domiciliar. Defende, ademais, que não há nenhuma informação que demonstre que o recorrido faça parte do grupo de risco da Covid-19 ou que o estabelecimento em que estava preso seja mais propenso à transmissão do vírus.
+3. Aduz, também, contrariedade ao disposto nos arts. 1º, 65, 66, III, f, todos da LEP, art. 804 do CPP e arts. 98, § 3º, 489, §1º, VI, 926, 927, IV e V, do CPC, sob o fundamento de que a competência para apreciar o pedido de suspensão da exigibilidade do pagamento das custas processuais é do Juízo da execução. Requer o provimento do recurso para que "seja declarada a nulidade da decisão do juízo da execução que determinou a prisão domiciliar do recorrido sem a prévia oitiva do órgão ministerial" (e-STJ, fl. 361). Subsidiariamente, requer seja revogada a prisão domiciliar e cassada a suspensão da exigibilidade das custas, pois tal matéria é de competência do Juízo da Execução.
+4. O recurso foi admitido às fls. 382-385.
+5. Em seguida, vieram os autos à Procuradoria-Geral da República, para manifestação.
+O Parquet opinou pelo provimento do recurso especial.
+É o relatório. Decido.
+Em consulta ao andamento da execução penal do recorrido no Sistema Eletrônico de Execução Unificado - SEEU (4400297-22.2020.8.13.0231), verifica-se que, em 18/3/2021, foi-lhe concedida a progressão ao regime aberto e, consequentemente, por falta de vaga em casa de albergado, mantida a prisão domiciliar.
+Sendo assim, julgo prejudicado o recurso especial.
+Publique-se. Intimem-se.
