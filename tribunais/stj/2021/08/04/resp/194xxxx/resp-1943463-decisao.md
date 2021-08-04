@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por PABLO RULIAN SOARES PEDROSA, com fundamento no art. 105, inciso III, alíneaa, da Constituição Federal, contra acórdão prolatado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS (Agravo em Execução n. 0013926-74.2020.8.27.2700).
+A controvérsia tratada nos autos foi devidamente relatada no parecer ministerial acostado às e-STJ fls. 118/119, in verbis:
+Narram os autos que o Juízo da execução homologou o cálculo de liquidação de penas, o qual estabeleceu o lapso de 3/5 (três quintos) para a progressão de regime do apenado Pablo Rulian Soares Pedrosa. A defesa requereu a aplicação, para efeito de progressão de regime, da fração de 2/5, e o pedido foi indeferido.
+Irresignada, a defesa interpôs recurso de agravo em execução sustentando que, embora seja o sentenciado reincidente, não é reincidente específico na prática de delito hediondo ou equiparado, pelo que dele deve ser exigido o cumprimento de apenas 40% (quarenta por cento) da pena para a progressão de regime, conforme estabelecido pela Lei 13.964/2019, mais benéfica, e não mais de 3/5 (três quintos), como decidido pelo Juízo da Execução. Levado a julgamento, o recurso foi desprovido.Transcrevo a ementa do acórdão que bem resume o seu conteúdo:
+AGRAVO DE EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDÊNCIA ESPECIFICA. DESNECESSIDADE.ARTIGO 112, INCISO VII, DA LEI DE EXECUÇÃO PENAL, COM NOVA REDAÇÃODADA PELA LEI Nº 13.964, DE 2019.REQUISITO NÃO PREVISTO EM LEI. APLICAÇÃO DA FRAÇÃO 3/5 (TRÊS QUINTOS) OU 60% (SESSENTA POR CENTO). REFORMA DA DECISÃO SINGULAR.
+1. Firmou-se no Superior Tribunal de Justiça o entendimento no sentido de que, nos termos da legislação de regência, mostra- se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo).
+2. Mesmo com a modificação do artigo 112, da Lei de Execuções Penais, por meio da Lei nº 13.964, de 2019, conhecida como Pacote Anticrime, de forma clara, a legislação não fez distinção entre os tipos de reincidência, seja comum ou específica, devendo ser aplicada a fração de 3/5 (três quintos) ou 60% (sessenta por cento) da pena ao condenado, para fins de progressão de regime.
+3. Recurso conhecido e não provido. (fls. 63)
+A defesa então interpôs o presente recurso especial buscando a reforma da decisão colegiada combatida, para que seja aplicada como parâmetro para todos os cálculos concernentes à progressão de regime o percentual de 40% (quarenta por cento) da pena que lhe restou imposta.
+Ao final, o Parquet Federal opinou pelo provimento do recurso.
+É o relatório.
+Decido.
+A presente irresignaçãonão merece conhecimento, pois se trata de mera reiteração de habeas corpusanteriormente dirigido a esta Corte (HC n. 659.445/TO), também manejadoem favor do ora recorrente, contra o mesmo acórdão prolatado pelo Tribunal de Justiça do Estado do Tocantins (Agravo em Execução n. 0013926-74.2020.8.27.2700), o qual teve a ordem concedidapor este relator, em 30/4/2021, a fim de determinar a retificação do cálculo de pena para ser definido o quantumde 40% para progressão de regime.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
