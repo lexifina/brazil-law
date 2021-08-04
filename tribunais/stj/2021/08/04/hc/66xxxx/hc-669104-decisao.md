@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de EMERSON DE JESUS BITTENCOURT apontando como autoridade coatora o Tribunal Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0005553-58.2020.8.26.0509).
+Depreende-se dos autos que o Juízo de primeira instância homologou cálculo daspenas do paciente, considerando, como data-base para progressão de regime, a data subsequente ao término do cumprimento da pena da execução anterior.
+Irresignada, a defesainterpôs recurso de agravo em execução, que foi desprovido pelo Tribunal de origem, nos termos da seguinte ementa (e-STJ fl. 57):
+AGRAVO EM EXECUÇÃO Superveniência de nova condenação - Alteração do marco inicial para contagem dos prazos Lapso para fins de obtenção de benefícios legais a partir do trânsito em julgado para o Ministério Público da última condenação No caso em concreto, foi fixada data- base para início de novo lapso em data anterior ao trânsito em julgado, considerando o fim da primeira execução s RECURSO NÃO PROVIDO.
+No presente habeas corpus, a defesa requer"seja determinada a retificação dos cálculos de penas elaborados pelo Juízo de Primeira Instância, de forma a afastar o reinício da contagem do prazo para fins de progressão de regime, considerando a data do cometimento do último crime ou da última falta grave como termo inicial do lapso para a progressão ao regime semiaberto, de acordo com art. 112, §6º, da LEP" (e-STJ fl. 9).
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão da ordem (e-STJ fl. 76).
+É o relatório.
+Decido.
+Assiste razão à defesa.
+Isso, porque a Terceira Seção desta Corte Superior de Justiça, ao julgar o Habeas Corpus n. 381.248/MG (relator para acórdão o Ministro Sebastião Reis Junior), pacificou o entendimento segundo o qual "inexiste respaldo legal para a alteração da data-base, a fim da concessão de futuros benefícios na execução, em razão da unificação das penas", acarretando "evidente excesso de execução a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação".
+Confira-se a ementa do precitado julgado:
+HABEAS CORPUS SUBMETIDO À TERCEIRA SEÇÃO. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. SUPERVENIÊNCIA DO TRÂNSITO EM JULGADO DE NOVA SENTENÇA CONDENATÓRIA. TERMO INICIAL PARA CONCESSÃO DE FUTUROS BENEFÍCIOS. AUSÊNCIA DE PREVISÃO LEGAL PARA ALTERAÇÃO DA DATA-BASE.
+1. A superveniência de nova condenação no curso da execução penal enseja a unificação das reprimendas impostas ao reeducando. Caso o quantum obtido após o somatório torne incabível o regimeatual, está o condenado sujeito à regressão a regime de cumprimento de pena mais gravoso, consoante inteligência dos arts. 111, parágrafo único, e 118, II, da Lei de Execução Penal. Em vez de haver o cumprimento progressivo de cada pena individualmente, há a soma do total de penas a serem cumpridas para que o apenado as cumpra de forma conjunta.
+2. Inexiste respaldo legal para a alteração da data-base a fim da concessão de futuros benefícios na execução em razão da unificação das penas.
+3. A execução da pena não se inicia apenas com a superveniência do título judicial exequível. Já se admite a execução provisória nas hipóteses de existência de prisão cautelar e, atualmente, quando há a confirmação da condenação pelo Tribunal de Justiça/Tribunal Regional e não há prisão preventiva.
+4. Acarreta evidente excesso de execução a desconsideração do tempo de prisão antes do trânsito em julgado da nova condenação.
+5. Ordem concedida, de ofício, para cassar o acórdão proferido no agravo em execução penal e restabelecer a decisão do Juízo da execução, proferida em 4/3/2016. (HC 381.248/MG, Terceira Seção, relatora Ministra Maria Thereza de Assis Moura, relator para acórdão Ministro Sebastião Reis Junior, DJe 2/4/2018, grifei.)
+À vista do exposto, tendo em vista que o entendimento consignado pelo Tribunal de origem destoa da orientação firmada neste Tribunal Superior, concedo a ordem paradeterminar a retificação dos cálculos das penas do paciente, de modo a considerara data do cometimento do último crime ou da última falta grave como termo inicial do lapso para a progressão de regime.
+Publique-se. Intimem-se.
