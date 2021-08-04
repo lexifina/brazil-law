@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de reclamação constitucional, com pedido liminar, ajuizada por APARECIDO PAULO DA SILVA, sob a alegação de descumprimento da ordem que concedi àsfls. 171-173 do HC n. 622.562/SP, Rel. Ministra LAURITA VAZ,que foi assim ementada (fl. 171 daqueles autos):
+"HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE TRANSFERÊNCIA PARA UNIDADE PRISIONAL PRÓXIMA AO NÚCLEO FAMILIAR. APRECIAÇÃO DO PEDIDO. INCUMBÊNCIA DO PODER JUDICIÁRIO. ORDEM CONCEDIDA."
+Naqueles autos, determinei ao Juízo de primeiro grau que apreciasseo pleito defensivo de transferência de unidade prisional, ainda que mediante prévias informações a serem prestadas pela administração penitenciária, fundada no entendimento de que "o ordenamento jurídico não condiciona a análise do referido pleito a prévio requerimento administrativo direcionado à administração penitenciária, sendo, portanto, incumbência inicial do Poder Judiciário a apreciação do pedido" (fl. 172 do feito conexo).
+Ao dar cumprimento à ordem do Superior Tribunal de Justiça, o Juiz das Execuções Criminais, em 17/05/2021, proferiu decisão na qual consignou o que se segue (fl. 32; sem grifos no original):
+"Trata-se de Pedido de Transferência de Estabelecimento Prisional, visando aproximação familiar, postulado em favor de Aparecido Paulo da Silva.
+O Ministério Público requereu o indeferimento do pedido por se tratar de medida concernente ao âmbito administrativo.
+É o breve relato.
+Decido.
+Preliminarmente, anoto que este Juízo nada tem a opor ao pedido de aproximação familiar requerido pelo sentenciado.
+Contudo, a transferência de sentenciados para outras unidades prisionais, como é sabido, compete à Secretaria de Administração Penitenciária, buscando conciliar a conveniência da Administração Pública com o interesse do reeducando, sempre que possível, desde que para unidade compatível com o regime prisional e de mesmo perfil do sentenciado.
+Posto isso, deixo de conhecer do pedido e determino o envio do expediente para a CROESTE (Coordenadoria de Unidades Prisionais da Região Oeste do Estado) para análise, ficando, desde já, dispensada a prestação de informações acerca da resolução do processo na esfera administrativa."
+Daí a inicial do presente feito, em que o Reclamante alega, em suma, que o "Magistrado das Execuções Criminais da Comarca de Presidente Prudente (DEECRIM 5ª RAJ), deixou de atender ao mandamento desse Egrégio Superior Tribunal de Justiça e relegou a decisão docaso para a CROESTE (Coordenadoria de Unidades Prisionais da Região Oeste do Estado)" (fls. 17-18).
+Requer, liminarmente e no mérito, seja determinado "ao respeitável Juízo da Execução Criminal, DEECRIM - 5ª RAJ (reclamado), que decida, conforme determinado pela v. decisão desse Colendo Superior Tribunal de Justiça, sobre a transferência do reclamante para Complexo Penitenciário da região de Sorocaba/SP, onde está situado o seu núcleo familiar, ou justifique o indeferimento do pedido" (fl. 18).
+Deferi a liminar às fls. 42-44.
+OMinistério Público do Estado de São Paulo, Interessado, foi citado para contestar o pedido reclamatórioem15 dias, nos termos do inciso III do art. 989 do Código de Processo Civil e do inciso III do art. 188 do RISTJ (fl. 47).
+O Juiz das Execuções Criminais prestou informações às fls. 49-50, nas quais informouque, após o provimento urgente deferido nestes autos, no qual foi "anulada a decisão proferida às fls. 134/135",determinou "a transferência de estabelecimento prisional, observada a situação processual do sentenciado, visando aproximação familiar, postulado em favor do reclamante" (fl. 49).
+Parecer do Ministério Público Federal às fls. 63-64, pela prejudicialidade.
+É o relatório.Decido.
+O direito invocado peloReclamante deve ser reconhecido.
+Na decisão que deu causa à impetração do HC n. 622.562/SP nesta Corte, o Juiz das Execuções Criminais consignou o que se segue (fl. 39 daqueles autos):
+"A transferência para outra unidade prisional é providência de natureza administrativa e está afeta à Secretaria da Administração Penitenciária do Estado de São Paulo a quem cabe estabelecê-la, obedecidos os critérios de discricionariedade e conveniência.
+Sendo assim, cabe à Direção da Unidade Prisional que custodia o sentenciado a verificação da conveniência, possibilidade, necessidade e análise do cumprimento dos requisitos administrativos necessários ao atendimento da demanda requerida."
+Conforme já relatei, na ordem que concedi,determinei ao Juízo de primeiro grau que apreciasse o pleito defensivo de transferência de unidade prisional, ainda que mediante prévias informações a serem prestadas pela administração penitenciária, fundada no entendimento de que "o ordenamento jurídico não condiciona a análise do referido pleito a prévio requerimento administrativo direcionado à administração penitenciária, sendo, portanto, incumbência inicial do Poder Judiciário a apreciação do pedido" (fl. 172 do feito conexo).
+Todavia, em vez de dar o devido cumprimento à decisãodesta Corte, o Magistrado de Primeiro Grau não conheceu do Pedido de Transferência de Estabelecimento Prisional formulado na Execução n. 0015568-17.2019.8.26.0996 e determinou "o envio do expediente para a CROESTE (Coordenadoria de Unidades Prisionais da Região Oeste do Estado) para análise, ficando, desde já, dispensada a prestação de informações acerca da resolução do processo na esfera administrativa"(fl. 32; sem grifos no original).
+Ou seja, na decisão reclamada,uma vez mais, o Julgador Singular deixou de analisar o mérito da pretensão defensiva, o que lhe competia.
+Ante o exposto, JULGO PROCEDENTE o pedido reclamatório para ratificar a liminar em que anulei asdecisõesproferidas nos dias 24/04/2021 e17/05/2021 no Processo Digital n. 0015568-17.2019.8.26.0996edeterminei ao Juiz das Execuções Criminais que desse,incontinenti, integral cumprimento à ordem queconcedi no Habeas Corpusn. 622.562/SP, Rel. Ministra LAURITA VAZ.
+Publique-se. Intimem-se.
+EMENTA
+RECLAMAÇÃO CONSTITUCIONAL.AUTORIDADE DA DECISÃO PROFERIDA NO HC N. 622.562/SP, REL. MINISTRA LAURITA VAZ, VIOLADA NO ATO DO JUÍZO RECLAMADO. LIMINAR RATIFICADA. PEDIDO RECLAMATÓRIO JULGADO PROCEDENTE.
