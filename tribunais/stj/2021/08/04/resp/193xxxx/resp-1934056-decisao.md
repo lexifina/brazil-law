@@ -1,0 +1,40 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloMUNICÍPIO DE SEROPÉDICA, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIROassim ementado (e-STJfl. 150):
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - PLEITO DE LICENÇA PARA OBRAS EM POSTO DE GASOLINA -REQUERIMENTO ADMINISTRATIVO - AUSÊNCIA DE APRECIAÇÃO PELO MUNICÍPIO - VIOLAÇÃO AO PRINCÍPIO DA DURAÇÃO RAZOÁVEL DO PROCESSO - ARTIGO 5º, INCISO LXXVII DA CONSTITUIÇÃO FEDERAL - DIREITO LÍQUIDO E CERTO -SEGURANÇA CONCEDIDA - SENTENÇA QUE SE MANTÉM.
+- Na hipótese em tela, o posto de gasolina impetrante protocolou, em 13/06/2017, junto à Secretaria Municipal de Obras de Seropédica, requerimento para concessão de licença de obras, contudo, o processo administrativo se arrastou por 12 (doze) meses sem que houvesse qualquer decisão. Com efeito, o art. 5º, inciso LXXVIII, da Constituição da República de 1988, assegura a todos, no âmbito judicial e administrativo, a razoável duração do processo e os meios que garantam celeridade na sua tramitação. De fato, houve uma demora excessiva na análise do pedido formulado pelo impetrante, o que viola os princípios constitucionais da razoável duração do processo e da eficiência que regem a Administração Pública. Sentença que se mantém.
+Negado provimento ao recurso.
+Os embargos de declaração foram rejeitados (e-STJfls. 183-187).
+O insurgente refere, em síntese: i)violação dos arts. 25 da Lei 12.016/2009 e 85 § 11, do CPC/2015, porquanto não seria cabível a majoração do valor a título de honorários advocatícios ante a impossibilidade de fixação de honorários de sucumbência em mandado de segurança; e ii) ofensa aos arts.496 e 1.012 do CPC/2015, visto quenão houve manifestação de nenhuma instância acerca da atribuição de efeito suspensivo aos recursos interpostos.
+Apresentadascontrarrazões (e-STJfls. 219-223), o recurso especial foi admitido na origem (e-STJfls. 226-235).
+Parecer pelo provimento parcial ao recurso especial(e-STJfls. 267-272).
+É o relatório.
+Inicialmente, verifica-se que os arts.496 e 1.012do CPC/2015 não serviram de embasamento a juízo de valor emitido na origem, carecendo do necessário prequestionamento. Aplicação da Súmula 282/STF.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. APOSENTADORIA ESPECIAL DE POLICIAL CIVIL. DECADÊNCIA. ALEGADA VIOLAÇÃO AOS ARTS. 1º E 9º DO DECRETO 20.910/32. INOVAÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. ART. 1.025 DO CPC/2015. INAPLICABILIDADE, NO CASO. ACÓRDÃO BASEADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO DA MATÉRIA EM SEDE DE RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DE FUNDAMENTO DO ACÓRDÃO COMBATIDO, SUFICIENTE PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNALDE ORIGEM, À LUZ DAS PROVASDOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIAESPECIAL. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO INTERNO IMPROVIDO.
+ ..
+III. Não tendo o acórdão hostilizado expendido juízo de valor sobre os arts. 1º e 9º do Decreto 20.910/32, a pretensão recursal esbarra em vício formal intransponível, qual seja, o da ausência de prequestionamento - requisito viabilizador da abertura desta instância especial -, atraindo o óbice da Súmula 282 do Supremo Tribunal Federal ("É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada"), na espécie.
+IV. Para que se configure o prequestionamento, não basta que orecorrente devolva a questão controvertida para o Tribunal, em suasrazões recursais. É necessário que a causa tenha sido decidida à luzda legislação federal indicada, bem como seja exercido juízo devalor sobre os dispositivos legais indicados e a tese recursal aeles vinculada, interpretando-se a sua aplicação ou não, ao casoconcreto.  ..
+XI. Agravo interno improvido.
+(AgInt no REsp 1.890.753/MA, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 3/5/2021, DJe 6/5/2021).
+No que tange à majoração do valor dos honorários advocatícios, assiste razão ao recorrente, visto que a jurisprudência desta Corte possui orientação no sentido de ser indevida a condenação em honorários advocatícios no processo de mandado de segurança, de acordo com o art. 25 da Lei n.12.016/2009, o que afasta, por conseguinte, o arbitramento previsto no art. 85, § 11, do CPC/2015.
+Nesse sentido:
+PROCESSUAL CIVIL. MANDADO DE SEGURANÇA. RECURSO ORDINÁRIO DIRIGIDO AO SUPERIOR TRIBUNAL DE JUSTIÇA. ACÓRDÃO DENEGATÓRIO DO WRIT PROFERIDO POR TURMA RECURSAL. NÃO CABIMENTO. CONDENAÇÃO EM HONORÁRIOS RECURSAIS, CONSOANTE PREVISÃO DO ART. 85, § 11, DO CPC/2015. IMPOSSIBILIDADE. PREVALÊNCIA DO ART. 25 DA LEI N. 12.016/2009.
+1. O recurso previsto no art. 105, II, "b", da Constituição Federal, e 1.027, II, "a" do CPC/2015 (antigo art. 539, II, "a", do CPC/1973) serve para impugnar" mandados de segurança decididos em única instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados, do Distrito Federal e Territórios, quando denegatória a decisão", não sendo meio idôneo a desafiar acórdão prolatado por Turma ou Conselho Recursal de Juizado Especial.
+2. Nesse sentido consolidou-se o posicionamento adotado pela Segunda Seção desta Corte, segundo o qual " ..  não há previsão constitucional para que o STJ julgue recurso ordinário em mandado de segurança interposto perante Turma ou Colégio Recursal de Juizado Especial" (AgRg na Rcl 2.286/SP, Rel. Min. Nancy Andrighi, DJe 19.5.2009).
+3. É indevida a condenação em honorários advocatícios no processo de mandado de segurança, de acordo com o art. 25 da Lei n. 12.016, de 7 de agosto de 2009. Essa previsão legal, por conseguinte, afasta a previsão de arbitramento de honorários advocatícios recursais do art. 85, § 11, do CPC/2015. Precedentes do STF e do STJ.
+4. Agravo regimental não provido.
+(AgInt no RMS 52.179/MA, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 1º/8/2017).
+ADMINISTRATIVO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. OMISSÃO VERIFICADA. ACOLHIMENTO, COM EFEITOS MODIFICATIVOS.
+1. De acordo com a norma prevista no art. 1.022 do CPC/2015, são cabíveis embargos de declaração nas hipóteses deobscuridade, contradição, omissão, ou erro material da decisão recorrida.
+2. No caso, verifica-se a existência de omissão quanto a ponto da argumentação exposta no agravo interno em recurso especial, apta a afastar a incidência dos honorários advocatícios em grau recursal, porquanto a ação subjacente ao recurso especial é mandado de segurança.
+3. Embargos de declaração acolhidos, com efeito modificativo, a fim de afastar a condenação da parte embargante ao pagamento de honorários advocatícios em grau recursal.
+(EDcl no AgInt no REsp 1.682.208/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 17/10/2019).
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO PREENCHIMENTO. HONORÁRIOS RECURSAIS. MANDADO DE SEGURANÇA. DESCABIMENTO.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. A rediscussão do julgado é desiderato inadmissível em sede de embargos declaratórios.
+3. Segundo orientação desta Corte de Justiça, é indevida a condenação em honorários advocatícios no processo de mandado de segurança, de acordo com o art. 25 da Lei n. 12.016/2009, o que afasta, por conseguinte, o arbitramento previsto no art. 85, § 11, do CPC/2015.
+4. Embargos de declaração parcialmente acolhidos, a fim de excluir a condenação de honorários advocatícios.
+(EDcl no AgInt no AREsp 1.153.633/BA, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe 23/4/2019).
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimentoparaafastar a fixação de honorários recursais e sua consequentemajoração, nos termos da fundamentação.
+Publique-se. Intimem-se.
