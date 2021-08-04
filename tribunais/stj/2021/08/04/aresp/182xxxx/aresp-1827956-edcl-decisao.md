@@ -1,0 +1,23 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE DISSÍDIO JURISPRUDENCIAL. OMISSÃO VERIFICADA.EMBARGOS DE DECLARAÇÃO DA EMPRESA ACOLHIDOS SEM EFEITOS MODIFICATIVOS.
+1. Trata-se de Embargos de Declaração opostos por DROGARIAS PACHECO S/A contra decisão que negou provimento ao seuAgravo em Recurso Especial,nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. REDIRECIONAMENTO DA EXECUÇÃO FISCAL.DESNECESSIDADE DE NOVO LANÇAMENTO. ART.133 DO CTN.SUCESSÃO EMPRESARIAL RECONHECIDA PELO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO,NESTA VIA RECURSAL, POR DEMANDAR REEXAME DE FATOS E PROVAS.AGRAVO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO..
+2. Nas razões recursais, a parte embargante alega omissão acerca do dissídio jurisprudencial relacionado ao redirecionamento da execução fiscal.
+3. Sem impugnação da parte contrária (certidão de fl. 1439).
+4. É o relatório.
+5.Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada.Na espécie, verifica-se que, de fato, a decisão embargadanão se pronunciou acerca do alegado dissídio jurisprudencial, razão pela qual desde já passo à análise do tema.
+6. O Tribunal de origem, soberano na análise de fatos e provas,certificou a presença dos requisitos previstos no art. 133 do CTN, bem como afirmou que naquele momento processual não haveria como afastar o reconhecimento da sucessão de empresas.
+7. Em vistas disso, a decisão embargada reconheceu a incidência da Súmula 7/STJ à hipótese, visto que a alteração das conclusões adotada pela Corte de origem demandariamnecessariamente o reexame do contexto fático-probatório dos autos, providência vedada em sede de Recurso Especial.
+8. No que concerne à divergência jurisprudencial decorrente do dispositivo de lei federal apontado como violado, é pacífico o entendimento desta Corte Superior de que os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a apreciação do dissídio jurisprudencial. Nesse sentido, cito os seguintes julgados deste Superior Tribunal de Justiça, naquilo que interessa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL/2015 E DOS ARTS. 186 E 927 DO CÓDIGO CIVIL/2002. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. INDENIZAÇÃO POR DANOS MORAIS NÃO RECONHECIDA PELO TRIBUNAL A QUO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Não se conhece de Recurso Especial no que se refere à violação aos arts. arts. 489 e 1.022 do Código de Processo Civil/2015 e aos arts. 186 e 927 do Código Civil/2002 quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+3. A revisão desse entendimento implica reexame de matéria fático-probatória, o que atrai o óbice da Súmula 7/STJ. Precedente: AgInt no AREsp 1.587.838/RJ, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 24.4.2020; e AgInt nos EDcl no REsp 1.839.027/MS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 19.6.2020.
+4. Assinale-se, por fim, que fica prejudicada a apreciação da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+5. Agravo Interno não provido (AgInt no REsp 1878337/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/12/2020, DJe 18/12/2020 - sem destaques no original).
+AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO. 3, 17%. DISPOSITIVO DE LEI TIDO POR VIOLADO QUE NÃO SUSTENTA A TESE RECURSAL APRESENTADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 284/STF. ASSISTÊNCIA JUDICIÁRIA GRATUITA. REVISÃO, DE OFÍCIO, PELO JUIZ. POSSIBILIDADE. HIPOSSUFICIÊNCIA COMPROVADA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. AFERIÇÃO DO GRAU DE SUCUMBÊNCIA. INCIDÊNCIA DA SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+(..)
+5. Os mesmos óbices impostos à admissão do recurso pela alínea a do permissivo constitucional impedem a análise recursal pela alínea c, ficando prejudicada a análise do dissídio jurisprudencial.
+6. Agravo interno a que se nega provimento (AgInt no REsp 1503880/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/02/2018, DJe 08/03/2018 - sem destaques no original).
+9. Diante disso, acolho os embargos de declaração da Empresa, para sanar a omissão apontada, sem, contudo, atribuir-lhes efeitos infringentes.
+10. Publique-se. Intimações necessárias.
