@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manifestadocontradecisão que negou seguimento a recurso especial, no qual se alega violaçãodos arts. 1.022, II, do Código de Processo Civil;1º e 4º, IX, da Lei n. 4.595/1964; 39, 51 e 52, II, do Código deDefesa do Consumidor; 397 e 406 do Código Civil, além de dissídio jurisprudencial. O acórdãorecorrido está retratado na seguinte ementa (fl. 222):
+APELAÇÃO CÍVEL. CONTRATOS DE CARTÃO DE CRÉDITO, AÇÃO REVISIONAL.
+CAPITALIZAÇÃO DE JUROS - INOVAÇÃO RECURSAL. TENDO EM VISTA QUE, NA PEÇA PATAMAR, NADA FOI SUSCITADO PELA PARTE APELANTE QUANTO À CAPITALIZAÇÃO DE JUROS, SE TRATA DE INOVAÇÃO RECURSAL, NÃO CABENDO, PORTANTO, O SEU CONHECIMENTO.
+CÓDIGO DE DEFESA DO CONSUMIDOR. A LEI N. 8.078/90 (CÓDIGO DE DEFESA DO CONSUMIDOR - CDC) É APLICÁVEL ÀS INSTITUIÇÕES FINANCEIRAS, PORTANTO, APLICA-SE AOS CONTRATOS OBJETO DA REVISÃO. SÚMULA N. 297 DO STJ. NO ENTANTO, A SUA INCIDÊNCIA DEPENDE DA COMPROVAÇÃO DE ABUSIVIDADE. JUROS REMUNERATÓRIOS. POSSIBILIDADE DA LIMITAÇÃO DA COBRANÇA DE JUROS REMUNERATÓRIOS, QUANDO COMPROVADA A ABUSIVIDADE, COMO NA HIPÓTESE DOS AUTOS. LIMITAÇÃO À TAXA MÉDIA DO MERCADO PREVISTA PARA A OPERAÇÃO DA ESPÉCIE.
+MORA. DIANTE DO RECONHECIMENTO DA ABUSIVIDADE DOS ENCARGOS EXIGIDOS, RESTA DESCARACTERIZADA A MORA, ATÉ O RECÁLCULO DO DÉBITO.
+APELAÇÃO CÍVEL CONHECIDA EM PARTE E, NA PARTE CONHECIDA, PROVIDA.
+Os embargos de declaração opostos foram rejeitados (fls. 242/247).
+Sustenta a agravante que os juros remuneratórios pactuados não são abusivos.
+Afirma que a mora da devedora está configurada.
+Assim posta a questão, passo a decidir.
+Inicialmente, com relação à suposta ofensa aoart.1.022 do CPC/2015, verifico que não existeomissão ou ausênciadefundamentaçãonaapreciaçãodas questões suscitadas.
+Além disso, não se exige do julgador a análise de todos os argumentos das partes, a fim de expressar o seuconvencimento.Opronunciamentoacercados fatos controvertidos, a queestá omagistradoobrigado,encontra-seobjetivamente fixado nas razõesdoacórdãorecorrido.
+Destaco, por outro lado, que o Tribunal de origem limitou a taxa de juros remuneratórios contratada, conforme se extrai doseguintetrecho(fl. 217):
+(..)
+Na hipótese dos autos, restou efetivamente demonstrada a abusividade na taxa de juros remuneratórios do contrato objeto da revisão, diante da taxa anual pactuada, de 471,26%, comparada à taxa média praticada no mercado, à mesma época (dezembro de 2019), de 318,75% ao ano, na operação de mesma espécie, ou seja, de cartão de crédito rotativo (código 22022), mesmo que se acresça a margem tolerável de 30%, o que totaliza 414,37% ao ano.
+(..)
+Observo, entretanto, que tal limitação não merece prosperar.
+Isso porque o Tribunal de origem não identificou nenhuma circunstância peculiar ao caso em julgamento que justificasse o afastamento da taxa dejuros contratada.
+A redução da taxa de juros pela Corte local, somentepelo fato de estar acima da média de mercado, sem mencionar nenhumacircunstância relacionada ao custo da captação dos recursos, à análise doperfil de risco de crédito do tomador e ao spread da operação, apenascotejando, de um lado, a taxa contratada e, de outro, o limiteaprioristicamente adotado pela Câmara em relação à taxa média divulgadapelo Bacen - está em confronto com a orientação firmada na Segunda Seçãodesta Corte, nos autos do REsp. n. 1.061.530/RS.
+Nesse sentido, cito o recente acórdão da Quarta Turma:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA.ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp.1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(AgInt no AREsp 1.522.043/RS, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17.11.2020, DJe de 10.3.2021)
+Registro, por fim, que a jurisprudência do STJ firmou o entendimento no sentido de que a mora do devedor somente é descaracterizada quando o abuso decorrer da cobrança dos encargos do período da normalidade contratual, tais como, juros remuneratórios e capitalização dos juros, o que não ocorre na presente situação.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para declarar a mora da devedora e paraque sejam observados os juros remuneratórios comopactuados. Condeno a recorrida nas custas e ao pagamento dos honoráriosadvocatícios, que fixo em 10% (dez por cento) sobre o valor da causa, ônussuspensos no caso de beneficiária da Justiça gratuita.
+Intimem-se.
