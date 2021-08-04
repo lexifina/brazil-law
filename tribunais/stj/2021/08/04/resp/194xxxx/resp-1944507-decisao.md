@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto porDIRCE ALVES DA SILVA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. INÍCIO DE PROVA MATERIAL INSUFICIENTE. EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO. RESP REPETITIVO 1352721/SP. INVERSÃO DO ÔNUS DA SUCUMBÊNCIA.
+1. O STJ, no RE 1352721/SP, decidiu que nos processos em que se pleiteia a concessão de aposentadoria por idade, a ausência de prova material apta a comprovar o exercício da atividade rural caracteriza carência de pressuposto de constituição e desenvolvimento válido do processo a ensejar a extinção da ação sem exame do mérito.
+2. Inversão do ônus da sucumbência. Exigibilidade condicionada à hipótese do § 3º do artigo 98 do CPC/2015.
+3. De ofício, processo extinto sem resolução de mérito. Recursos prejudicados.
+No presente recurso especial, a recorrente aponta como violados os arts. 48, 55, § 3º e 143 da Lei n. 8.213/91, sustentando, em síntese, que apresentou inúmeros documentos capazes de comprovar o exercício do labor rural. Salienta que a prova material em nome do cônjuge pode ser utilizada para a comprovação da atividade de rurícola. Indica divergência jurisprudencial com julgados do Superior Tribunal de Justiça.
+É o relatório. Decido.
+A Corte a quo considerou a prova material apresentada insuficiente para indicar o labor rural da autora na condição de segurado especial, ante os seguintes termos (fls.216/217):
+Para comprovar as suas alegações, a autora apresentou: I) certidão de casamento, realizado em 1979,na qual o marido figura como lavrador; II) certidões de nascimento de filhos, nascidos em 1981, 1989e 1991, nas quais o marido também figura como lavrador; III) título de eleitor do marido, datado de1976, no qual consta como lavrador; IV) certidão eleitoral do marido, datada de 2015, na qual foi qualificado como agricultor; V) registros imobiliários; VI) notificações/comprovantes de pagamento de ITR, datados de 1992/1996, em nome do marido; VII) recibos de entrega e declarações de ITR, relativos a 1999, 2002, 2003 e 2005/2015, nos quais o marido figura como contribuinte; VIII) certificados de imóvel rural - CCIR - 2006/2009 e 2010/2014, nos quais o marido figura como declarante.
+É pacífico o entendimento dos Tribunais, considerando as difíceis condições dos trabalhadores rurais, admitir a extensão da qualificação do cônjuge ou companheiro à esposa ou companheira.
+Assim, as certidões e o título de eleitor apresentados servem como início de prova material, mas não para comprovar o regime de economia familiar.
+Em se tratando de segurado especial, é necessário que a atividade seja comprovada através de documentos que demonstrem o efetivo exercício do labor rural em regime de economia familiar, como, por exemplo, aqueles elencados no art. 106 da Lei nº 8.213/91, ou outros que sirvam a tal mister.
+Os demais documentos relacionados servem para comprovar a propriedade do imóvel rural, mas também não servem início de prova material da atividade em regime de economia familiar.
+Tendo em vista que o conjunto probatório foi insuficiente para a comprovação da atividade rural, em regime de economia familiar, pelo período previsto em lei, de acordo com a técnica processual vigente, de rigor seria a improcedência da ação.
+Contudo, há de se ressaltar que, segundo orientação desta Corte de Justiça,diante da dificuldade de se comprovar a atividade rural porintermédio de prova escrita,orolde documentos hábeis à comprovaçãodoexercício de atividade rural, inscrito no art. 106, parágrafoúnico,da Lei 8.213/1991, é meramente exemplificativo, e não taxativo, sendo admissíveis outros documentos além dos previstos no mencionado dispositivo, inclusive que estejam em nome de membros do grupo familiar, contanto que apoiados em robusta prova testemunhal.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR TEMPO DE SERVIÇO. TRABALHO RURAL. INÍCIO DE PROVA MATERIAL. SÚMULA 7/STJ.
+1.A irresignação gira em torno da demonstração da atividade campesina, por meio de início de prova material corroborada por prova testemunhal.
+2. A jurisprudência do STJ se mostra firme no sentido de que o reconhecimento da condição de rurícola exige que a prova testemunhal corrobore um início razoável de prova material, sendo certo que o rol de documentos hábeis à comprovação do exercício de atividade rural, inscrito no art. 106, parágrafo único, da Lei 8.213/1991, é meramente exemplificativo, e não taxativo.
+3. No acórdão recorrido ficou consignado: "Não servem como início de prova material os documentos trazidos pelo autor com a inicial".(fl. 157, e-STJ)
+4. Nesse contexto, os argumentos utilizados para fundamentar a pretensão trazida no Recurso Especial somente poderiam ter sua procedência verificada mediante o reexame de matéria fática, o que encontra óbice na Súmula 7/STJ.
+5. Recurso Especial não conhecido.
+(REsp 1719021/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/03/2018, DJe 23/11/2018)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE.INÍCIO DE PROVA MATERIAL. DOCUMENTOS. VALIDADE.
+1. A Primeira Seção, em julgamento proferido sob o rito do art. 543-C do CPC/73, assentou a compreensão de ser "possível o reconhecimento do tempo de serviço mediante apresentação de um início de prova material, desde que corroborado por testemunhos idôneos" (REsp n. 1.348.633/SP, Rel.Ministro Arnaldo Esteves Lima, Primeira Seção, julgado em 28/08/2013, DJe 05/12/2014).
+2. O rol dos documentos previstos no art. 106 da Lei 8.213/91 não é taxativo, mas meramente exemplificativo. Precedentes.
+3. Hipótese em que o Tribunal de origem rechaçou como início de prova material o contrato de assentamento e a ficha do Sindicato dos Trabalhadores Rurais em que consta a profissão do recorrido como lavrador.
+4. A determinação para que o Tribunal de origem aceite os documentos apresentados como início de prova material não pressupõe o reexame de provas (vedado em sede de recurso especial pela Súmula 7 do STJ), mas a revaloração das provas existentes nos autos. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no AREsp 967.459/MT, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 19/12/2017)
+Estabelecidas estas premissas, entendo que o feito deve retornar à corte de origem para novo julgamento.
+Isto porque, afastada a inadmissibilidade do início de prova material apresentada, resta ainda a análise pela Corte a quo da prova testemunhal, para aferir, se de fato, houve o trabalho rural pugnado, dado que o início de prova material precisa ser corroborado por robusta prova testemunhal, comprovação que deve ocorrer nas instâncias ordinárias, destinatárias das provas.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para de forma que, superado o entendimento fixado quanto à inadmissibilidade do início de prova material apresentado, proceda à novo julgamento da causa aferindo a prova testemunhal apresentada.
+Publique-se. Intimem-se.
