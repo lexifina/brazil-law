@@ -1,0 +1,34 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar,impetrado em favor deLidiomar Barbosa de Souza- cumprindo pena privativa de liberdade nos autos da Execução n. 1004780-37.2020.8.26.0269 (1ª Vara da Execuções Penais de Campinas/SP) -sob aalegaçãode inidoneidade na fundamentação exarada na decisão que determinou a realização de exame criminológico, requer-se, inclusive em caráter liminar, seja cassada a decisão que condicionou a análise do benefício ao exame criminológico.
+É o relatório.
+A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que o julgador, antes de apreciar o pedido de progressão de regime, pode determinar a submissão do apenado a exame criminológico, desde que o faça de forma fundamentada, nos termos da Súmula 439/STJ (HC n. 505.302/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 1º/7/2019; e AgRg no HC n. 469.499/SP, Ministra Laurita Vaz, Sexta Turma, DJe 5/4/2019).
+No presente caso, a decisão que condicionou análise do benefício pretendido ao exame criminológico não ostenta fundamentos concretos aptos a demonstrar a necessidade do exame criminológico(fl. 199):
+ ..
+Cuida-se de pedido de progressão em que o Ministério Público requer a realização de exame criminológico.
+Frisa-se que o benefício não constitui direito absoluto do preso, pois está condicionado à segurança da vida em sociedade, cabendo ao Magistrado analisar as condições objetivas e subjetivas do sentenciado antes de deferir o pedido formulado, devendo estar plenamente convencido de que o condenado preenche todos os requisitos necessários a concessão da benesse.
+Tratando-se de apenado com que teve o ultimo benefício indeferido por ausência do requisito objetivo auferido em exame criminológico entendo necessária nova avaliação. A reintegração à comunidade deve ser cuidadosa, mesmo porque, em matéria de execução penal deve prevalecer o princípio in dubio pro societate.
+Como acentua Guilherme de Souza Nucci: "a jurisprudência, após a modificação introduzida pela Lei 10.792/2003, ao art. 112 da Lei de Execução Penal, tem, majoritariamente, adotado posição contrária à abolição padronizada do exame criminológico, exigível para a progressão de regimes, mormente de condenados por crimes violentos contra a pessoa. Em função da individualização executória da pena, não se pode permitir que um mero atestado de conduta carcerária cerceie o convencimento do magistrado, levando-o a estabelecer uma progressão-padrão" (Individualização da Pena, 3ª edição, Ed. RT, p. 11/12).
+Embora a realização do exame criminológico, a teor do art. 96 da LEP, não seja indispensável para instruir incidente da execução criminal, ainda constitui importante instrumento da execução penal, principalmente em caso como o presente. Faculto à defesa o prazo de 5 dias para apresentação de quesitos.
+ ..
+Em casos que tais, a jurisprudência desta Corte tem orientado no sentido da ilegalidade da decisão:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CABIMENTO. EXAME CRIMINOLÓGICO. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO. LONGA PENA E GRAVIDADE ABSTRATA. FALTA GRAVE MUITO ANTIGA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem, de ofício.
+II - "É assente o entendimento nesta Corte, segundo o qual, a gravidade abstrata do crime não justifica diferenciado tratamento à progressão prisional, uma vez que fatores relacionados ao delito são determinantes da pena aplicada, mas não justificam diferenciado tratamento à negativa da progressão de regime ou do livramento condicional, de modo que respectivo indeferimento somente poderá fundar-se em fatos ocorridos no curso da própria execução.Precedentes do STJ" (HC n. 519.301/SP, Terceira Seção, Rel. Min.Nefi Cordeiro, DJe de 13/12/2019).
+III - No caso concreto, o exame criminológico foi determinado apenas com base na longa pena a cumprir e na gravidade abstrata dos crimes cometidos. A indicação de uma falta grave muito antiga, de 2012, foi apenas nas informações aqui prestadas (fl. 67).
+Habeas corpus não conhecido. Ordem concedida, de ofício, para cassar as r. decisões a quo e determinar, ao d. Juízo da Execução Penal, que reavalie o pedido de livramento condicional do ora paciente, como entender de direito, observados termos deste acórdão.
+Recomenda-se celeridade.
+(HC n. 613.428/SP, Ministro Felix Fischer, Quinta Turma, DJe 12/11/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME PRISIONAL. NECESSIDADE DE SUBMISSÃO A EXAME CRIMINOLÓGICO.FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA DO DELITO E LONGA PENA.CONSTRANGIMENTO ILEGAL EVIDENCIADO. REVOLVIMENTO DE MATÉRIA FÁTICA.DESNECESSIDADE. AGRAVO DESPROVIDO.
+1. De acordo com a Súmula 439/STJ "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+2. No caso dos autos, a Corte de origem determinou a submissão do ora agravado ao exame criminológico sem a indicação de argumento idôneo, na medida em que se limitou a tecer considerações a respeito da gravidade do delito praticado e da longa pena a cumprir, o que consubstancia o alegado constrangimento ilegal, conforme o entendimento desta Corte. Precedentes.
+3. A análise da controvérsia prescinde do aprofundado reexame de provas, pois a mera leitura do acórdão recorrido é suficiente para se concluir pela ausência de fundamento idôneo, necessário à submissão do reeducando ao exame criminológico.
+4. Agravo regimental desprovido.
+(AgRg no HC n. 596.966/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 3/11/2020)
+Cumpre destacar, ainda, que, como expressamente reconhecido na Corte de origem, o pacientenão registra faltas disciplinares e exerce atividade laboral continuadamente(fl. 51 - grifo nosso), circunstâncias essas que robustecem a conclusão no sentido da inexistência de fundamentação concreta e idônea apta a justificar a necessidade de realização do exame criminológico.
+Ante o exposto,concedoa ordem paradeterminar que o Juízo da execução aprecie, com urgência, o pedido de progressão de regime do paciente, considerando apenas os elementos que já constam do processo de execução,sem a necessidade do exame criminológico (Execução n. 1004780-37.2020.8.26.0269, em curso na 1ª Vara da Execuções Penais de Campinas/SP).
+Comunique-se ao Tribunal local e ao Juízo de piso.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. EXIGÊNCIA DE EXAMECRIMINOLÓGICO. DECISÃO QUE NÃO OSTENTA FUNDAMENTAÇÃO IDÔNEA.ILEGALIDADE. PRECEDENTES DESTA CORTE. SÚMULA 439/STJ.
+Ordem concedida nos termos do dispositivo.
