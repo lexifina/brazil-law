@@ -1,0 +1,17 @@
+DECISÃO
+DIEGO LINHARES DE MELO alega sofrer coação ilegal em decorrência de acórdão do Tribunal a quo. O apenado do regime semiaberto busca o restabelecimento da prisão domiciliar, com fulcro na Recomendação n. 62/2020 do CNJ e da ordem concedida no Habeas Corpus Coletivo n. 575.495/MG.
+Decido.
+O paciente cumpre 6 anos e 3 meses de reclusão, atualmente no regime semiaberto, pela prática de tráfico de drogas, com término da execução previsto para 18/2/2024.
+Em 12/8/2020, no HC n. 575.495/MG, a Sexta Turma desta Corte concedeu a ordem coletiva, "para impor o regime domiciliar, especificamente aos reeducandos do sistema prisional do Estado de Minas Gerais que cumprem pena em regime semiaberto e aberto, que tiveram suspenso o exercício do trabalho externo, como medida preventiva de combate à pandemia, desde que não ostentem procedimento de apuração de falta grave", tendo em conta "a situação daqueles que têm contrato de trabalho vigente, de modo a permitir-lhes a sua continuidade".
+Logo, para ser beneficiado, o reeducando tem de estar em regime semiaberto ou aberto, com trabalho externo suspenso pelo Magistrado.
+Posteriormente, no dia 15/9/2020, por meio da Recomendação n. 78/2020, o Conselho Nacional de Justiça acrescentou o art. 5-A à Recomendação n. 62/2020, do mesmo órgão. Estabeleceu que as medidas preventivas à propagação da infecção pela Covid-19 não se aplicam às pessoas condenadas por crimes hediondos.
+In casu, o apenado do regime semiaberto cumpre pena por crime de tráfico de drogas, equiparada aos delitos hediondos. Ele não teve suspendo o exercício de trabalho externo, em razão da pandemia; tampouco exerceu atividade laboral enquanto esteve fora do cárcere.
+Ainda, não se verifica motivo de saúde para concessão excepcional de prisão domiciliar humanitária, pois o reeducando tem menos de 40 anos de idade, não há notícia de que padeça de alguma doença, não integra o grupo de risco da Covid-19 e não havia sinais de surto do novo coronavírus no local de sua reclusão, com números preocupantes de casos graves e óbitos entre os detentos.
+Aplica-se ao caso o entendimento:
+ ..
+5. Não se amolda aos contornos definidos no HC 575.495/MG a situação do paciente que, mesmo colocado em prisão domiciliar, não voltaria a exercer o trabalho que anteriormente desempenhava, mas apenas ficaria aguardando, em casa, o fim da pandemia ou a vacinação, situação essa que a jurisprudência somente tem admitido em casos específicos nos quais o detento comprova enquadrar-se no grupo de maior risco de contágio pelo vírus e, ainda, assim, quando demonstrado que a instituição prisional não promove medidas adequadas à prevenção do contágio e tampouco possui os recursos mínimos necessários para o tratamento do problema de saúde que sofre o executado. In casu, não há, nos autos, alegação de que o paciente, que cumpre pena em estabelecimento prisional adequado ao regime semiaberto, se enquadre no grupo de risco.
+6. Agravo regimental a que se nega provimento.
+(AgRg no HC 597.399/MG, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 11/2/2021).
+Com bem destacou o Subprocurador-Geral da República José Adonis Callou de Araújo Sá, " Recomendação nº 62/2020 do CNJ, desprovida de caráter vinculante em relação aos magistrados, não orienta a concessão geral de liberdade a quaisquer presos, mas sugere a análise individualizada dos casos e das condições do encarceramento" (fl. 249).
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
