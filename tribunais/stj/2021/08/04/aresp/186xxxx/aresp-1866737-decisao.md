@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por JOSÉANTÔNIO FERREIRAcontra decisão que negou seguimento a recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado deMato Grosso assim ementado (e-STJ, fl. 3.127):
+RECURSO DE AGRAVO DE INSTRUMENTO  AÇÃO DE OBRIGAÇÃO DE FAZER E RESTITUIÇÃO DE COISAS APREENDIDAS  DINHEIRO APREENDIDO EM ESPÉCIE  RESTITUIÇÃO - TUTELA DE URGÊNCIA INDEFERIDA  NÃO COMPROVAÇÃO DA ORIGEM LÍCITA - REQUISITOS DA TUTELA JUDICIAL INDEMONSTRADOS  DECISÃO MANTIDA - RECURSO NÃO PROVIDO.
+I - A rigor do artigo 300 do Código de Processo Civil, a obtenção da tutela de urgência, antecipada ou não, depende do grau de probabilidade do direito invocado e do perigo de dano ou risco ao resultado útil do processo.
+II - Incabível, de forma liminar, a restituição de elevada quantia em espécie, apreendida em contexto de crime onde o agravante inclusive foi condenado a 8 (oito) anos e 6 (seis) meses de reclusão, em regime inicial fechado, por porte ilegal de arma de fogo e formação de quadrilha.
+III - Não bastasse, o longo lapso de tempo decorrido desde a apreensão do valor (06.12.2009), milita em desfavor da urgência da medida.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, o recorrente aponta violação doart. 1.022 do Código de Processo Civil de 2015 em virtude da omissão do Tribunal de origem quanto àobrigatoriedade de depósito de valores apreendidos em processo judicial na conta única do Tribunal, bem como da sua vinculação ao processo.
+Sustenta que o valor apreendido encontra-se em posse da instituição financeira, sem nenhuma fiscalização ou prestação de contas ao Poder Judiciário.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da ausência de violação do art. 1.022 do CPC/2015 porque houve a devida manifestação do Tribunal de origem sobre o tema, tido por omitido.
+Nas razões do seu agravo em recurso especial, o agravante afirma a comprovação da omissão quanto ao pedido de depósito e vinculação obrigatória em conta judicial dos valores apreendidos e, portanto, a violação do art. 1.022 do CPC/2015.
+Contraminuta apresentada.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente agravo, verifico que esse não merece provimento, senão vejamos.
+No que se refere àviolação doart. 1.022 do CPC/2015, não há que se falar em omissão no acórdão, mas apenas julgamento contrário aos interesses do recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Atítulo de esclarecimento, da leitura das razões do agravo de instrumento interposto pelo ora agravante, verifica-se a realização do pedido alternativo de imediato depósito judicial para serem vinculados ao processo em conta única do Tribunal de Justiça que deverá ficar àdisposição do Poder Judiciário. Confira-se:
+Ainda como pedido alternativo, seja deferida a tutela de urgência para determinar ao agravado apresentar extrato de movimentação bancária e planilha de cálculo atualizado dos valores de acordo com os respectivos investimentos, bem como proceder ao imediato depósito judicial para serem vinculados ao processo em conta única do Tribunal de Justiça que deverá ficar a disposição do Poder Judiciário até julgamento do mérito deste agravo ou revogação superveniente da decisão e/ou do mérito da demanda na origem (e-STJ, fl. 34)
+Por esse motivo,no acórdão do julgamento dos embargos de declaração, o Tribunal de origem consignou queopedidoalternativoformuladopelo embargante não foiapreciadopelo juiz de primeira instância, de modo que a sua análise culminaria em supressão de instância. Confira-se:
+Com efeito, não obstante a irresignação da parte embargante, constata-se que o acórdão combatido discutiu exaustivamente a questão acerca da impossibilidade de restituição de elevada quantia em espécie, apreendida em contexto de crime onde o embargante inclusive foi condenado a 8 (oito) anos e 6 (seis) meses de reclusão, em regime inicial fechado, por porte ilegal de arma de fogo e formação de quadrilha.
+Ademais, os pedidos alternativos formulados pelo embargante em sede recursal sequer foram apreciados pelo juízo singular, de modo que a análise deles por esta Corte inegavelmente culminaria em supressão de instância, inadmitida pelo ordenamento jurídico ..
+Assim, apesar da rejeição dos embargos de declaração, não há como ser reconhecida a violação do art. 1.022 do CPC/15, porque houve expressa manifestação do Tribunal de origem quanto à impossibilidade de análise do tema relativo a transferência do valor para conta judicial vinculada ao processo porque configuraria a supressão de instância.
+Quanto ao mais,não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento, para tanto, basta o pronunciamento fundamentado acerca dos fatos controvertidos, o que se observa no presente caso, em que os motivos da decisãoencontram-seobjetivamente fixados nas razões do acórdão recorrido.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIREITO PROCESSUAL CIVIL. 1.022, I, II E III E 489 DO CPC/2015. VIOLAÇÃO. OMISSÕES, CONTRADIÇÕES E ERROS DE FATO. INEXISTÊNCIA. DANOS MATERIAIS E MORAIS E LUCROS CESSANTES. INEXISTÊNCIA. ANÁLISE. REEXAME DE PROVAS.VEDAÇÃO. SÚMULA 7/STJ. INCIDÊNCIA. ALÍNEA C. APLICAÇÃO DA SÚMULA 7/STJ QUANTO À ALÍNEA A. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE.IMPOSSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Todas as matérias foram devidamente enfrentadas pelo Tribunal de origem de forma fundamentada, sem omissões, contradições nem erros de fato. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+2. A conclusão a que chegou o Tribunal de origem, no sentido de que não existe comprovação nos autos da existência de danos materiais e morais e lucros cessantes, decorreu de convicção formada em face dos elementos fáticos existentes nos autos. Rever os fundamentos do acórdão recorrido importa necessariamente no reexame de provas, o que é vedado nesta fase recursal. Incidência da Súmula 7/STJ.
+3. Não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, resta prejudicada a divergência jurisprudencial.
+4. Agravo interno não provido.
+(AgInt no AREsp 1354927/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2021, DJe 29/06/2021)
+Afasta-se, portanto, a alegação de violação do art. 1.022 do CPC/2015.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
