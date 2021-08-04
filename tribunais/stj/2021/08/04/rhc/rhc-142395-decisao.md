@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por MARCIO VINICIUS ARAUJO DE JESUS contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo (HC n. 2234394-54.2019.8.26.0000).
+Depreende-se dos autos que o paciente foi condenado a 3 anos e 4 meses de reclusão, no regime inicialmente fechado, pela prática do delito inscrito no art. 33, § 4º, da Lei n. 11.343/2006.
+Interposta apelação pelas partes, foi provido o recurso do Ministério Público estadual e desprovido o do réu, a fim defixar a pena em 5 anos de reclusão, mantida no mais a sentença (e-STJ fls. 12/17).
+Esta Corte determinou a colocação do recorrente no regime semiaberto no bojo do HC n. 511.106/SP, de minha relatoria; e nos autos do RHC n. 126.730/SP, determinou que o Tribunal de origem procedesse à detração penal, para fins do disposto no art. 387, § 2º, do Código de Processo Penal.
+O Tribunal de origem, então, concedeu a ordem para efetuar a detração penal, sem, contudo, modificar o regime semiaberto de cumprimento de pena já aplicado pelo Superior Tribunal de Justiça (e-STJ fls. 149/153).
+Opostos os embargos de declaração,foram eles rejeitados (e-STJ fls. 149/153).
+Daí o presente recurso ordinário, no qual a defesa pleiteia, liminar e definitivamente, a aplicação da detração com a fixação do regime aberto para o cumprimento do restante da pena.
+A liminar foi indeferida (e-STJ fls. 170/171).
+Informações prestadas (e-STJ fls. 175/201).
+O Ministério Público Federal, às e-STJ fls. 203/205, manifestou-se pelo desprovimento do recurso.
+É o relatório.
+Decido.
+Acerca da controvérsia, assim consignou o Tribunal de origem (e-STJ fls. 131/132):
+Registro que esta Câmara Julgadora condenou MARCIO ao desconto de 5 anos de reclusão, em regime inicial fechado, em razão de ele ter sido pilhado embalando 327 cápsulas eppendorf de cocaína, 163 invólucros de crack e 414 porções de maconha, quer dizer, muita droga, na opinião dos Desembargadores componentes da Turma Julgadora.
+O Superior Tribunal de Justiça, todavia, houve por bem conceder a MARCIO o regime intermediário.
+Aliás, MARCIO permaneceu preso preventivamente entre os dias 15/FEV/2016 e 25/MAI/2017 (e está foragido desde então), período esse que considero para a fixação do regime de cumprimento de pena.
+De outra parte, é certo que MARCIO disseminava o uso de substâncias tóxicas ilícitas, as quais corroem não só a saúde, mas também a dignidade e o caráter dos usuários, além de desassossegar todas as pessoas que os cercam.
+E, de acordo com o artigo 33, parágrafo 3º, do Estatuto Repressivo "A determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Então, como o regime prisional será estabelecido "atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e consequências do crime, bem como ao comportamento da vítima, (e de maneira que seja) necessário e suficiente para reprovação e prevenção do crime", a escolha do regime intermediário é medida que se impõe, dado que abrandar ainda mais esseregime tornaria inóqua a punição aplicada a MARCIO e violaria não só a letra, mas também o espirito da Lei.
+Diante disso, CONCEDO a ordem, para efetuar a detração penal, sem, contudo, modificar o regime de cumprimento de pena já aplicado pelo Superior Tribunal de Justiça.
+Pois bem.
+Primeiramente,é preciso destacar que o Superior Tribunal de Justiça, apreciando o disposto no art. 387, § 2º, do Código de Processo Penal, fixou posicionamento segundo o qual a denominada detração "demanda a análise objetiva sobre a eventual redução da pena para patamar mais brando, mas consideradas as balizas previstas no §2º do art. 33 do Código Penal" (AgRg no AREsp n. 605.654/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/10/2017, DJe 23/10/2017).
+Ilustrativamente:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL. APLICAÇÃO DO ART. 387, § 2º, DO CPP. REGIME INICIAL DE CUMPRIMENTO DE PENA. ANÁLISE DOS REQUISITOS OBJETIVOS E SUBJETIVOS PARA A CONCESSÃO DA DETRAÇÃO PENAL. DESNECESSIDADE.
+1. O Superior Tribunal de Justiça possui o entendimento de que o art. 387, § 2º, do Código de Processo Penal se refere ao regime inicial de cumprimento de pena e não possui relação com o instituto da progressão de regime, devendo o juiz sentenciante verificar a possibilidade de se fixar um regime mais brando de acordo com a detração no caso concreto. Sendo assim, não há falar em análise dos requisitos objetivos e subjetivos, até porque tal exame implicaria invasão da competência do Juízo de Execuções, prevista no art. 66, III, b, da Lei n. 7.210/1984.
+2. Agravo regimental improvido.
+(AgRg no REsp 1540451/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/10/2015, DJe 05/11/2015)
+No caso, vimos, o recorrente, condenado à pena de 5 anos de reclusão, teve seu regime inicial adequado por esta Corte, para o semiaberto,por ocasião da análise doHC n. 511.106/SP.
+Após, realizada a análise da detração pela Corte de origem nos autos do writ originário, destacou o Tribunal local que o recorrente foi apreendido em posse de grande quantidade de drogas, bem como está foragido desde o mês de maio de 2017.
+Não verifico, portanto, nenhuma ilegalidade quanto à determinação do regime semiaberto em desfavor do recorrente, ainda que realizada a detração, porquanto o procedimento disposto no art. 387, §2º, do Código de Processo Penal, na hipótese, não importa simples subtração do tempo de prisão provisória a fim de definir o regime inicial de cumprimento de pena, haja vista as circunstâncias concretas que impediram o reconhecimento de tal pleito defensivo, bem como em função de o recorrente estar foragido, o que certamenteimpedirá o recorrente de descontar o restante de sua pena, em um primeiro momento, no regime menos gravoso.
+Outro não foi o posicionamento do Ministério Público Federal no parecer de e-STJ fls. 203/205, do qual destaco o seguinte excerto (e-STJ fl. 204):
+Malgrado o artigo 387, §2º, do CPP estabeleça que o tempo de prisão provisória, de prisão administrativa ou de internação, no Brasil ou no estrangeiro, seja computado para determinação do regime inicial de cumprimento de pena privativa de liberdade, estes autos carecem de elementos básicos para permitir análise de implicações da ká concedida detração penal sobre o montante de pena a cumprir e sobre o tipo de regime prisional devido. Isso porque o réu já havia iniciado a execução penal posto que provisória quando ao beneficiar-se de progressão de regime aproveitou para homiziar-se, passando à condição de "foragido da Justiça" (sic) e não mais se trata de regime prisional inicial. A resolução de tal vexata quastio passa por considerações também acerca da progressão de regime em si (e falta grave cometida, e eventual regressão, e etc), não havendo como afirmar, saber ou julgar, diversamente da tese defensiva, que a fixação do regime decorra única e exclusivamente do reconhecimento de um pretenso (e reconhecido) direito à detração penal.
+Ante o exposto, nego provimento ao recurso ordinário.
+Publique-se. Intimem-se.
