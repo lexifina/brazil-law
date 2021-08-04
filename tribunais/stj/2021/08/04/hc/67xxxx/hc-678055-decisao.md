@@ -1,0 +1,24 @@
+DECISÃO
+EDUARDO PEREIRA DE PAIVA alega sofrer coação ilegal em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502777-64.2019.8.26.0535.
+Requer, liminarmente e no mérito, a fixação do regime semiaberto, em razão da violação das Súmulas n. 440 do STJ e 718 e 719 do STF, na fundamentação do regime fechado.
+Decido.
+Consta dos autos que o paciente foi condenado à 6 anos e 8 meses de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 157, § 3º, II, c/c o art. 14, II, ambos do Código Penal.
+A Corte estadual manteve o regime mais gravoso fixado na sentença, sob a seguinte motivação (fl. 110, grifei):
+No tocante ao regime prisional, agiu com acerto o Digno Juízo "a quo" ao aplicar o mais gravoso, já que condenado o sentenciado por crime considerado hediondo, tendo incidência o disposto no § 1º, do artigo 2º, da Lei nº 8.072/90, o que também obsta a aplicação da detração prevista no artigo 387, § 2º, do Código de Processo Penal, posto que ao juízo das execuções criminais, contemplado com sua guia de recolhimento provisória expedida nas folhas 293/294, é possibilitada a exigência da realização de exame criminológico para a análise do preenchimento dos requisitos objetivo e subjetivo para a concessão de benefícios, já que estamos diante de condenação por crime que envolve violência, considerado hediondo.
+Quanto à almejada modificação do regime inicial para o semiaberto, cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+É dizer, para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena (HC n. 279.272/SP, Rel. Ministro Moura Ribeiro, 5ª T., DJe 25/11/2013; HC n. 265.367/SP, Rel. Ministra Laurita Vaz, 5ªT., DJe 19/11/2013; HC n. 213.290/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/11/2013; HC n. 148.130/MS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 3/9/2012).
+Feitas essas premissas, verifico que as instâncias antecedentes não apontaram nenhum elemento dos autos (como o a indicação de número excessivo de agentes ou de peculiaridades das armas usadas, por exemplo) que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso. Nesse sentido, entendo que os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+Ademais, saliento que não foi descrita uma situação de violência exacerbada que justifique a fixação do regime mais gravoso, além daquela inerente ao próprio delito.
+Esse, aliás, é o entendimento consolidado nas Súmulas n. 440 do STJ, 718 e 719 do STF, respectivamente:
+Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Nesse sentido, mutatis mutandis:
+ ..
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. A hediondez e a gravidade abstrata do delito praticado pelo paciente não justificam o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, segundo o entendimento desta Corte. Cabível, portanto, no caso concreto, o regime semiaberto, tendo em vista o quantum de pena, a primariedade do paciente e a inexistência de circunstância judicial negativa.
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para fixar o regime inicial semiaberto, nos termos do art. 33, §§ 2º e 3º, c.c. o art. 59, ambos do Código Penal - CP.
+(HC n. 510.038/RJ, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 17/6/2019)
+Assim, verifico a ocorrência do apontado constrangimento ilegal, pois, embora a pena-base haja sido estabelecida no mínimo legal, o quantum de pena tenha sido definido em 6 anos e 8 meses de reclusão e o réu seja primário, o regime inicial fixado foi o fechado.
+À vista do exposto, concedo a ordem, para fixar o regime semiaberto ao paciente.
+Publique-se e intimem-se.
