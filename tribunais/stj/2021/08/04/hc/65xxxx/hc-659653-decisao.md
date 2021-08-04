@@ -1,0 +1,18 @@
+DECISÃO
+CAIRE CORTEZ MORIAMA DE LELLIalega sofrer constrangimento ilegal diante de acórdão proferido peloTribunal de Justiça do Estado de São Paulono Recurso em Sentido Estriton. 0000379-53.2021.8.26.0050.
+Depreende-se dos autos que o paciente foi preso em flagrante, em 30/10/2020, por tráfico de drogas, havendo sido concedida liberdade provisória pelo Juiz de primeiro grau. Irresignado com o decisum, o Ministério Público estadual interpôs recurso em sentido estrito, que foi provido, para revogar o benefício concedido e decretar a prisão preventiva do acusado.
+Nesta Corte, a defesa sustenta, em síntese, a ausência de motivação idônea para impor a prisão preventiva ao paciente.
+Requer, assim, seja revogada a prisão preventiva.
+A liminar foi indeferida e prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ.
+Decido.
+A prisão provisória é compatível com a presunção de não culpabilidade doacusado desde que não assuma natureza de antecipação da pena e nãodecorra, automaticamente, da natureza abstrata do crime ou do atoprocessual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicialdeve apoiar-se em motivos e fundamentos concretos, relativos a fatos novosou contemporâneos, dos quais se possa extrair o perigo que a liberdadeplena do investigado ou réu representa para os meios ou os fins doprocesso penal (arts. 312 e 315 do CPP).
+Ao decretar a prisão preventiva do acusado, o Tribunal de origem salientou o que segue (fl. 266, grifei):
+O crime em apreço está no rol daqueles passíveis de decretação da custódia preventiva e convém sublinhar que foram apreendidos, no total, 11 (onze) blister de skunk, com peso de 7 gramas, 33 (trinta e três) pinos e 08 (oito) papelotes de cocaína, com peso de 16,9 gramas e 3,8 gramas, respectivamente, 47 (quarenta e sete) trouxas de maconha, com peso de 167,1 gramas, além de R$ 430,00 (quatrocentos e trinta reais) em cédulas variadas (fls. 12/13 e 14/17, dos autos de origem), o que, a princípio, não o qualifica como delinquente ocasional e de pequeno porte.
+Não se olvida, outrossim, que o paciente é renitente na prática de crimes patrimoniais, tendo sido colocado em liberdade em duas oportunidades recentes (08/04/2020 e 14/09/2020), mas, ainda assim, tornou a delinquir (fls. 30/31, dos autos de origem).
+Se não bastasse, o recorrido possui inúmeros envolvimentos por atos infracionais (fls. 32, dos autos de origem).
+Na hipótese, são idôneos os motivos exarados para justificar a imposiçãoda cautela extrema ao réu, por evidenciarem a gravidade concreta da conduta, tendo em vista a natureza e a diversidade dasdrogas apreendidas  11 (onze) blister de skunk, com peso de 7 gramas, 33 (trinta e três) pinos e 08 (oito) papelotes de cocaína, com peso de 16,9 gramas e 3,8 gramas, respectivamente, 47 (quarenta e sete) trouxas de maconha, com peso de 167,1 gramas e orisco de reiteraçãodelitiva, uma vez que,o pacienteé "renitente na prática de crimes patrimoniais, tendo sido colocado em liberdade em duas oportunidades recentes (08/04/2020 e 14/09/2020)" (fl. 266) epossuienvolvimentopor atos infracionais.
+"Segundo reiteradas manifestações deste Superior Tribunal, aexistênciade inquéritos, ações penais em curso, anotações pela prática deatosinfracionais ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem fundamentação idônea a justificarasegregação cautelar"(RHC n. 106.326/MG, Rel. Ministra Laurita Vaz, 6ªT., DJe 24/4/2019,destaquei).
+Concluo, pois, haver sido demonstrada a exigência cautelar autorizadora daprisão cautelar.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
