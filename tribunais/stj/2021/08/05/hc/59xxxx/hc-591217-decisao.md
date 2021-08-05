@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus preventivo impetrado em nome de Carlos Mônaco Pereira, apontando-se como autoridade coatora o Governador do Estado de São Paulo, em razão de possibilidade de decretação de lockdown ou restrição total de locomoção na cidade de São Paulo e/ou na região metropolitana (fl. 8).
+Alega-se constrangimento ilegal consistente em ameaça ao direito de locomoção do paciente, assentando que ausente a decretação de situações de exceção, não pode ser restrito o direito de locomoção, previsto no art.5º, XV, da Magna Carta, que reza que é livre a locomoção no território nacional em tempo de paz, podendo qualquer pessoa, nos termos da lei, nele entrar, permanecer ou dele sair com seus bens (fl. 9).
+Requer-se, então, a concessão da ordem, inclusive em caráter liminar, a fim de que seja expedido salvo-conduto em favor do paciente.
+Em 30/6/2020, foi indeferido o pedido liminar (fls. 39/41).
+Prestadas informações pelo Governador do Estado de São Paulo (fls. 46/51), o Ministério Público Federal opinou pela denegação do writ (fls. 54/55).
+É o relatório.
+Busca a impetração a expedição de salvo-conduto em favor do paciente a fim de sanar ameaça à sua liberdade de locomoção, em razão de possibilidade de decretação de lockdown na região metropolitana de São Paulo/SP.
+Inicialmente, registre-se que a autoridade coatora, em suas informações, consignou que (fls. 50/51):
+Destaque-se, ainda, que, segundo definição adotada pelo Ministério da Saúde (Boletim Epidemiológico nº 8), o bloqueio total (lockdown) consiste no "nível mais alto de segurança e pode ser necessário em situação de grave ameaça ao Sistema de Saúde. Durante um bloqueio total, TODAS as entradas do perímetro são bloqueadas por trabalhadores de segurança e NINGUÉM tem permissão de entrar ou sair do perímetro isolado". Tal medida, porém, não foi implementada pelos Decretos nº 64.881/2020 e 64.994/2020.
+De outro lado, cumpre assinalar que o artigo 4º do Decreto nº 64.881/2020, com a redação dada pelo Decreto 64.949/2020, apenas recomenda que a "circulação de pessoas no âmbito do Estado de São Paulo se limite às necessidades imediatas de alimentação, cuidados de saúde e exercício de atividades essenciais, observado o uso permanente de máscaras faciais, de uso profissional ou não". A finalidade dessa recomendação é reforçar a importância do distanciamento social como único meio de controle da doença, conforme orientação do Ministério da Saúde veiculada nos mencionados Boletins Epidemiológicos.
+Portanto, diferentemente do que alega o impetrante, inexiste ato normativo estadual do qual possa resultar ameaça, embaraço ou constrangimento ilegal à liberdade de locomoção do paciente, no contexto do combate à pandemia decorrente da COVID-19.
+Então razão não assiste à impetração, pois, nos termos no entendimento jurisprudencial desta Corte Superior, em caso similar ao dos presentes autos - impetração contra ato normativo de Governador de Estado, referente arestrições de locomoção em período pandêmico - assentou-se que o remédio constitucional, em sua feição preventiva, não tem cabimento contra o chamado ato de hipótese, futuro e incerto (AgRg no HC n. 520.143/RJ, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 15/10/2019).
+Outrossim, o Ministério Público Federal, em seu parecer, manifestou-se no sentido de que (fls. 192/195):
+Não há de ser acolhida a pretensão.
+ ..
+Evidencia-se indemonstrado pelo impetrante existência de ato ou ameaça real ou iminente contra liberdade de ir e vir do paciente, tratando-se de simples receio de que o governo do Estado de São Paulo venha a decretar lockdown (bloqueio total ou confinamento). A defesa nem ao menos esclarece de que modo as medidas adotadas pelo gestor público poderiam impedir o paciente de locomover-se para exercer atividades essenciais a sua sobrevivência e aos cuidados a sua genitora.
+Ademais, informa a autoridade coatora que o Decreto nº 64.881/2020 instituiu restrições que "recaem sobre o atendimento presencial ao público em estabelecimentos comerciais e prestadores de serviços, bem como o consumo local em bares, restaurantes, padarias e supermercados" (e-STJ, fl. 50), enquanto o Decreto nº 64.994/2020, que alterou o primeiro, estende a quarentena e instituir o denominado "Plano São Paulo" visando a uma atuação coordenada de Estado, Municípios e sociedade civil no combate à pandemia, sem implementar, em momento algum, o bloqueio total ou confinamento (lockdown).
+Observa-se, assim, não terem sido indicados quaisquer atos objetivos capazes de causar ameaça de ou restrição à liberdade de locomoção do paciente, tendo o impetrante impugnado mera possibilidade de constrangimento sem nem mesmo esclarecer de que modo se daria o suposto ato ilegal.
+Não se verifica, assim, fato concreto a indicar iminência de sofrer o réu constrangimento ilegal, devendo-se denegar o writ.
+Conclui-se, então, que a impetração não evidenciou a alegada ameaça ao direito de locomoção do paciente.
+Em razão disso, acolhendo parecer ministerial, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. SALVO-CONDUTO. POSSIBILIDADE DE DECRETAÇÃO DE LOCKDOWN. ALEGAÇÃO DE AMEAÇA À LIBERDADE DE LOCOMOÇÃO. NÃO OCORRÊNCIA. PRECEDENTE. LIMINAR INDEFERIDA. PARECER PELA DENEGAÇÃO DO WRIT. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PARECER ACOLHIDO.
+Ordem denegada.
