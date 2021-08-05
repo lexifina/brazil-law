@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de recurso extraordinário interposto por JOSÉ ROCHA DE SOUZA e DEUSA PEREIRA DE SOUZA, com fundamento no art. 102, inciso III, alínea a, da Constituição Federal, contra acórdão doSuperior Tribunal de Justiçaassim ementado (fl. 689):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - REQUISITOS - ACÓRDÃO EMBARGADO QUE NÃO ADENTROU O MÉRITO DA DEMANDA POR INCIDÊNCIA DA SÚMULA N.º 115/STJ - INVIABILIDADE. INCONFORMISMO DA PARTE AUTORA.
+1. Tendo em vista que o mérito do recurso especial não foi analisado, pela incidência do óbice da Súmula n.º 115/STJ, não é cabível a interposição de embargos de divergência, nos termos da Súmula n. 315/STJ, litteris: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+2. Agravo interno desprovido.
+Opostos embargos de declaração, foramacolhidos em parte sem efeitos modificativos,nos termos da seguinte ementa (fl. 742):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL - SÚMULS N.º 315/STJ - ACÓRDÃO EMBARGADO QUE NEGOU PROVIMENTO AO AGRAVO INTERNO MANTENDO O INDEFERIMENTO LIMINAR - OMISSÃO - AUSÊNCIA. INSURGÊNCIA DOS EMBARGANTES.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do NCPC.
+1.1. Na hipótese dos autos, merece acolhimento para sanar obscuridade quanto à aplicação da Súmula n.º 315/STJ, tendo em vista a situação dos autos versar sobre recurso especial e não agravo em recurso especial, como consignado.
+2. Inafastável a conclusão do acórdão embargado acerca da inadmissibilidade dos embargos de divergência, tendo em vista o recurso especial não ter prosperado, pela incidência da Súmula n.º 115/STJ, in casu.
+3. Embargos de declaração parcialmente acolhidos, sem efeitos modificativos.
+Orecorrente alega a existência derepercussão geral, bem comoviolação doart.5º, XXXV e XXXVI,da Constituição Federal.
+Aduz que(fl. 776):
+ ..  não se trata de falta de pressupostos de admissibilidade do Recurso Especial, trata-se da falta de análise na 2ª Seção/STJ, da aplicação do direito processual, pois no Julgamento da egrégia 3ª Turma/STJ, não foi debatido ou alegado falta de pressupostos de admissibilidade do Recurso, foi aplicado apenas o óbice da Súmula 115/STJ, para não julgar o Recurso Especial. Segundo um dos precedentes que deu origem à Súmula 115/STJ, por se tratar de representação processual, sua aplicação no caso em debate, trata-se de aplicação do direito processual.
+Sustentaque (fl. 785):
+Os Enunciados Administrativos nºs. 1 e 2/STJ, os incisos XXXV e XXXVI, do art. 5º, da Constituição Federal e o art. 6º da LINDB (LICC) não permitem tal julgamento com retroatividade, sendo nulo de pleno direito.
+Alega ainda:
+Ou seja, se nos Acórdãos paradigmas trazidos pelos Recorrentes orientam no sentido da inaplicabilidade da Súmula 115/STJ ou com determinação para sanar algum vício, já que a procuração ao Causídico consta nos autos e foi juntada novamente, ou ainda, para aproveitar o processo eletrônico com a Procuração anexada, não poderia o egrégio Juízo recorrido do Tribunal Superior julgar sem dignidade e com acepção de Jurisdicionados ou deixar de julgar o RECURSO ESPECIAL eximindo do seu mister constitucional, com proposição contrária, em tese, ao disposto no art. 105, III, da Constituição Federal de 1988."
+Foram apresentadas contrarrazões (fls.835-844).
+É, no essencial, o relatório. Decido.
+Não merece prosperar o recurso.
+O STF já consagrou,quanto ao art. 5º, inciso XXXV, da Carta Magna, que "não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito" (RE n.956.302-RG, relatorMinistro Edson Fachin,publicado em 16/6/2016 - Tema n. 895 do STF). Eis a ementa do julgado:
+PRINCÍPIO DAINAFASTABILIDADEDAJURISDIÇÃO.ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio dainafastabilidadedejurisdição,nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.(RE n. 956.302/GO-RG, relatorMinistroEdson Fachin, DJe de 15/6/2016.)
+Namesmalinha, cito o seguinte precedente:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO.OFENSA AOS PRINCÍPIOS CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. JULGAMENTO EM CONFORMIDADE COM O TEMA 225/STF.
+DESPROVIMENTO DO RECLAMO.
+1. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+2. A alegada violação ao princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. O acórdão recorrido está em perfeita consonância como o que decidido pelo STF no Tema n. 225, de que a Lei 10.174/01 não atrai a aplicação do princípio da irretroatividade das leis tributárias, tendo em vista o caráter instrumental da norma, nos termos do artigo 144, § 1º, do CTN.
+4. Agravo interno não provido.(AgInt no RE nos EDcl no AgInt no AREsp n. 1.528.929/PE, relatorMinistro Jorge Mussi, Corte Especial, DJe de 7/12/2020.)
+Ademais, oSupremo Tribunal Federal, por meio do ARE n. 478.371-RG (Tema n.660 do STF), firmou entendimentode queaalegada afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada (art. 5º, incisos XXXVI, LIV, LV, LVII, LXI eLXVI, da Constituição Federal), quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, exatamente como no caso dos autos, que trata deregra técnica de admissibilidade recursal.
+Eis a ementa do Tema n. 660 do STF:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da
+coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral. (ARE n. 748.371-RG, relator Ministro Gilmar Mendes, DJe de 1º/8/2013.)
+No mesmo sentido, confiram-se precedentes:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO.OFENSA AOS PRINCÍPIOS CONTRADITÓRIO, DA AMPLA DEFESA E DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. JULGAMENTO EM CONFORMIDADE COM O TEMA 225/STF.DESPROVIMENTO DO RECLAMO.
+1. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+2. A alegada violação ao princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. O acórdão recorrido está em perfeita consonância como o que decidido pelo STF no Tema n. 225, de que a Lei 10.174/01 não atrai a aplicação do princípio da irretroatividade das leis tributárias, tendo em vista o caráter instrumental da norma, nos termos do artigo 144, § 1º, do CTN.
+4. Agravo interno não provido.(AgInt no RE nos EDcl no AgInt no AREsp n. 1.528.929/PE, relatorMinistro Jorge Mussi, Corte Especial, DJe de 7/12/2020.)
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. NEGATIVA DE SEGUIMENTO.FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. TEMAS 895, 660 E 182 DO STF. AUSÊNCIA DE REPERCUSSÃO GERAL.DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. A alegada violação ao princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+3. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal e dos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+4. A insurgência quanto à valoração das circunstâncias judiciais previstas no art. 59 do Código Penal tem natureza infraconstitucional, não tendo repercussão geral (Tema 182/STF).
+5. Agravo regimental não provido.(AgRg no RE nos EDcl no AgRg no AgRg no AREsp n. 1.637.025/SP, relator Ministro Jorge Mussi, Corte Especial, DJe de 7/12/2020.)
+Não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade (ante o óbice da Súmula 115/STJ), não há repercussão geral, consoante o Tema n. 181/STF, sendo inviável a análise da violação dos artigos da Constituição Federal aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea a, do Código de Processo Civil, nego seguimento ao recurso extraordinário.
+Publique-se.Intimem-se.
