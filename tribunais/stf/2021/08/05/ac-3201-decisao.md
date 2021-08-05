@@ -1,0 +1,16 @@
+Decisão
+    Trata-se de Ação Cautelar ajuizada pelo Estado de Pernambuco em face da União, na qual o Autor requereu medida liminar para “SUSPENDER PREVENTIVAMENTE A INSCRIÇÃO DE INADIMPLÊNCIA DO REQUERENTE NO CAUC/SIAFI OU CADASTROS CORRELATOS – CADIN/CADPREV, cuja inscrição decorra da ausência de Certificado de Regularidade Previdenciária – CRP; 2. determinar à Requerida a imediata EMISSÃO DO CERTIFICADO DE REGULARIDADE PREVIDENCIÁRIA do Estado de Pernambuco; 3. determinar à Requerida que se abstenha de promover sanções do art. 7º da Lei 9.717/98”.
+    Em 10/08/2012, o Min. MARCO AURÉLIO, então Relator, deferiu parcialmente a liminar requerida, para determinar à “União que expeça a certidão de regularidade previdenciária nos moldes requeridos pelo Estado de Pernambuco, salvo se houver óbice diverso do estampado neste processo”. Essa decisão foi referendada pela Primeira Turma da CORTE em 29/04/2014.
+    Em 06/10/2012, o Estado de Pernambuco interpôs a ação principal respectiva, ACO 2040, a qual foi julgada procedente para “determinar à União que se abstenha de aplicar ao Estado de Pernambuco qualquer das providências previstas no art. 7º da Lei nº 9.717/1998, em razão da não renovação do Certificado de Regularidade Previdenciária, vencido em 04/08/2012”.
+    É o relatório. Decido.
+    Nos autos da ACO 2.040, o Autor requereu a suspensão de sua inscrição no SIAFI/CAUC/CADIN/CADINPREV ou a retirada de seu nome de tais cadastros, acaso já realizada; a emissão do Certificado de Regularidade Previdenciária e a não aplicação das penalidades previstas no artigo 7º da Lei 9.717/1998.
+    O Plenário do SUPREMO TRIBUNAL FEDERAL, ao apreciar a ação principal, ACO 2.040, proferiu acórdão, DJe de 02/06/2021, no qual, “por maioria, julgou procedente a ação cível originária para determinar à União que se abstenha de aplicar ao Estado de Pernambuco qualquer das providências previstas no art. 7º da Lei nº 9.717/1998, em razão da não renovação do Certificado de Regularidade Previdenciária, vencido em 04/08/2012, e condenou a União ao pagamento de honorários sucumbenciais, arbitrados em R$ 4.000,00 (quatro mil reais), com fundamento no art. 85, § 8º, do CPC/2015, nos termos do voto do Ministro Alexandre de Moraes, Redator para o acórdão, vencidos os Ministros Marco Aurélio (Relator), Roberto Barroso, Edson Fachin e Rosa Weber”.
+    Tal decisão transitou em julgado em 29/06/2021.
+    Esta CORTE já firmou entendimento no sentido de que com o julgamento definitivo da ação principal, fica prejudicada a ação cautelar a ela referente. Nesse sentido:
+    “Ação cautelar. Acessoriedade a recurso ordinário em mandado de segurança. Julgamento do feito principal. RMS nº 34.203/DF. Prejudicialidade da ação cautelar.1. É assente a jurisprudência da Corte no sentido de que, julgada em definitivo a ação principal referente à cautelar, ocorre a perda do objeto dessa última. Artigo 485, inciso VI, do Código de Processo Civil.2. Ação cautelar prejudicada.” (AC 3.980, Rel. Min. DIAS TOFFOLI, Segunda Turma, DJe de 20/3/2018)
+    Diante do exposto, considerando que a presente Ação Cautelar tem relação de dependência com a ACO 2.040, que já teve o mérito apreciado pela CORTE, DETERMINO A BAIXA IMEDIATA dos presentes autos.
+    Publique-se.
+    Brasília, 05 de agosto de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
