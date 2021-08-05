@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porAUTO VIAÇÃO URUBUPUNGÁ LTDA,contra decisão que negou seguimento a recurso especial fundamentadona(s) alínea(s) "a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 18/09/2020.
+Concluso ao gabinete em: 25/06/2021.
+Ação:compensação por danos morais, em fase de cumprimento de sentença, ajuizada por DAIANE PEREIRA DA SILVA, em face da agravante, em razão de ter sofrido em decorrência de ofensas verbais proferidas por seu preposto.
+Decisão interlocutória:definiuque o contador judicial deverá se ater à base de cálculo fixada em segundo grau no que se refere aos honorários sucumbenciais, ante a absoluta ausência de recurso.
+Acórdão:negou provimento ao agravo de instrumento interposto pela agravante, nos termos da seguinte ementa:
+CUMPRIMENTO DE SENTENÇA - Insurgência contra decisão que estabeleceu que o contador judicial deverá se ater à base de cálculo fixada em segunda instância no que tange aos honorários sucumbenciais -Pretensão de alteração da base de cálculo para a fim de que seja observado o valor da condenação, sob o argumento de ocorrência de erro material na parte do acórdão em que fixou a base de cálculo da verba honorária, por ter alterado o critério de cálculo sem pedido do então apelante - Insubsistência, uma vez que não há se falar em erro material na hipótese dos autos - Decisão transitada em julgado - Inaplicabilidade da teoria da relativização da coisa julgada - Decisão mantida -Recurso não provido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, §2º, 492, caput, 494, I, 489, §1º, 996, caput, 1.013, caput, e 1.022 do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i) é possível a correção de ofício de evidente erro material na base de cálculo dos honorários sucumbenciais; ii) na hipótese de erro material, a sentença pode ser alterada de ofício e a qualquer tempo, mesmo após o trânsito em julgado; iii) mesmo sem qualquer pleito da parte, o Tribunal alterou a base de cálculo dos honorários sucumbenciais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da possibilidade de correção de erro material, de ofício, mesmo após o trânsito em julgado
+Ao entender que o equívoco na fixação do critério de cálculo dos honorários advocatícios não é considerado erro material, o acórdão recorrido diverge da jurisprudência do STJ no sentido de que oerro material, passível de ser corrigido de ofício, e não sujeito à preclusão, é o reconhecido à primeira vista, consistente em equívocos materiais sem conteúdo decisório propriamente dito (AgInt nos EDcl na PET no AREsp 860.223/SP, 4ª Turma, DJe de 25/9/2017; eREsp 1.151.982/ES, 3ª Turma, DJe de 31/10/2012).
+Na presente hipótese, fica clara a ocorrência de erro material na base de cálculo dos honorários de sucumbência, porquanto, após a sentença fixar sobre o valor da causa, no julgamento dos embargos de declaração, foi corrigido o erro material para estabelecer que deveriam incidir sobre o valor da condenação.
+Além disso, ao decidir pela impossibilidade de alteração da base de cálculo dos honorários sucumbenciais após o trânsito em julgado, o TJ/SP também decidiu em discordância do entendimento do STJ no sentido de que é possível a correção de ofício de erro material, mesmo após o trânsito em julgado (REsp 1.294.294/RS, 3ª Turma, DJe de 16/5/2014; eREsp 502.557/RS, 4ª Turma, DJe de 9/3/2009).
+Logo, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, para corrigiro erro material referente à base de cálculo dos honorários sucumbenciais, passando a ser sobre o valor da condenação e não sobreo valor da causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. DECISÃO DEFININDO QUE O CONTADOR JUDICIAL DEVERÁ SE ATER À BASE DE CÁLCULO FIXADA EM SEGUNDO GRAU NO QUE SE REFERE AOS HONORÁRIOS SUCUMBENCIAIS, ANTE A ABSOLUTA AUSÊNCIA DE RECURSO. ERRO MATERIAL. OCORRÊNCIA. POSSIBILIDADE DE CORREÇÃO MESMO APÓS O TRÂNSITO EM JULGADO.
+1. Ação de compensação por danos morais, em fase de cumprimento de sentença, no bojo do qual foi proferida decisão definindo que o contador judicial deverá se ater à base de cálculo fixada em segundo grau no que se refere aos honorários sucumbenciais, ante a absoluta ausência de recurso.
+2. Oerro material, passível de ser corrigido de ofício, e não sujeito à preclusão, é o reconhecido à primeira vista, consistente em equívocos materiais sem conteúdo decisório propriamente dito. Precedentes.
+3. Épossível a correção de ofício de erro material, mesmo após o trânsito em julgado. Precedentes.
+4. Agravo conhecido. Recurso especial conhecido e provido.
