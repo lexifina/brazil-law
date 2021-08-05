@@ -1,0 +1,9 @@
+DECISÃO
+Vistos.
+Verifico que a controvérsia objeto do presente recurso guarda relação com o Tema Repetitivo n. 1.097 desta Corte - verificação da necessidade de observação dos art. 280 e 281 da Lei 9.503/1997 em relação à infração pela não indicação de condutor prevista no art. 257 § 7º e 8º, para definir a imperiosidade da notificação da infração e da notificação de eventual imposição de penalidade - afetado pela Primeira Seção, no Recurso Especial n. 1.925.456/SP, da relatoria do Sr. Ministro Herman Benjamin, julgamento 01.06.2021 e DJe 08.06.2021, no qual foi determinada a suspensão de todos os processos em trâmite no território nacional, nos termos do art. 1.037, II, do Código de Processo Civil, consoante os fundamentos estampados na seguinte ementa:
+RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA. RITO DOS ARTIGOS 1.036 E SEGUINTES DO CPC/2015. RESP 1.925.456/SP. ADMISSÃO.
+1. Admitida a afetação com a seguinte delimitação da tese controvertida: "Verificação da necessidade de observação dos art.280 e 281 da Lei 9.503/1997 em relação à infração pela não indicação de condutor prevista no art. 257 § 7º e 8º, para definir a imperiosidade da notificação da infração e da notificação de eventual imposição de penalidade".
+2. Recurso Especial do Sindicato das Empresas Locadoras de Veículos Automotores do Estado de São Paulo - Sindloc/SP submetido ao regime dos arts. 1.036 e seguintes do CPC.
+(ProAfR no REsp 1925456/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 01/06/2021, DJe 08/06/2021)
+Po sto isso, DETERMINO a devolução dos autos ao tribunal de origem , com a devida baixa, para que o processo permaneça suspenso até a publicação dos acórdãos dos Recursos Especiais acima identificados , a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se e intimem-se.
