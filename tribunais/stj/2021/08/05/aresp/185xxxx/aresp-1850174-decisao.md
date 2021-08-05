@@ -1,0 +1,32 @@
+DECISÃO
+PARCIAS GUINDASTES E TRANSPORTES ESPECIAIS EIRELI eRODRIGO MEDEIROS DA COSTA (PARCIAS e outro) opuseram embargos à execução contra CAIXA ECONÔMICA FEDERAL(CEF) objetivando a descaracterização da mora e o reconhecimento do excesso de execução. Alegaram que a capitalização mensal de juros não tem respaldo e a cobrança de comissão de permanência foi realizada com a taxa máxima de mercado, cumulada com juros, atualização monetária e multa.
+Em primeira instância, o pedido foi julgadoimprocedente.PARCIAS e outro foram condenados ao pagamento de honorários advocatícios fixados em 10% sobre o valor da causa, ficando suspensa a exigibilidade, em virtude da gratuidade de justiça deferida(e-STJ, fls. 144/150).
+Os embargos de declaração opostos porPARCIAS e outro foram acolhidos para sanar omissões acerca da inversão do ônus da prova e da produção de prova pericial, sem alterar o resultado do julgamento (e-STJ, fls. 171/173).
+A apelação interposta por PARCIAS e outro não foi provida pelo TRF da 2ª Regiãonos termos do acórdão, assim ementado:
+CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CÉDULA DE CRÉDITO BANCÁRIO - PRODUÇÃO DE PROVA PERICIAL CONTÁBIL - DESNECESSIDADE - REGULARIDADE DO TÍTULO EXTRAJUDICIAL - CAPITALIZAÇÃO DE JUROS - LEGALIDADE
+I - A diligência técnica não se mostra imprescindível ao julgamento da lide,pois a fixação de critérios de reajustamento das prestações e do saldo devedor decorre de interpretação das cláusulas contratuais ou, no caso de alteração do pactuado, de razões de direito que formem o convencimento do juízo, não restando configurado, portanto, qualquer cerceamento de defesa.
+II - Ademais, é cediço que ao julgador é assegurado o livre convencimento,sendo-lhe permitida a livre apreciação de provas, inexistindo qualquer irregularidade na ausência de produção de prova pericial na medida em que o magistrado entendeu que o conjunto probatório carreado aos autos foi suficiente para o deslinde da questão.
+III - A mera aplicação do Código de Defesa do Consumidor ao presente caso, nos termos da Súmula n. 297 do STJ, não torna prescindível a efetiva indicação e detalhamento, bem como a comprovação da ocorrência de abusividade contratual ou ilicitude por parte da instituição financeira.
+IV - Aplicável o entendimento sumulado pelo Superior Tribunal de Justiça(Súmula n. 539): "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000,reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada.".
+V- Recurso não provido (e-STJ, fl. 235).
+Os embargos de declaração opostos por PARCIAS e outro foram desprovidos(e-STJ, fls. 269/270).
+Irresignados, PARCIAS e outro interpuseram recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação dos arts. 489 e 1022,II, do NCPCe6º, VI, do CDC e art. 5º, LIV e LV,da CF. Sustentaram que(1) houve deficiência na fundamentação e não foram apreciadas todas as questões postas nos embargos de declaração; e,(2)houve cerceamento de defesa, porquanto não determinadaa inversão do ônus da prova e não permitida aperícia contábil (e-STJ, fls. 279/288).
+Foram apresentadas as contrarrazões (e-STJ, fls. 306/313).
+O apelo nobre não foi admitido em virtude da (1) impossibilidade de apreciação de dispositivos constitucionais; (2) ausência de ofensa aos dispositivos infraconstitucionais; e, (2) incidência das Súmulas nºs 5,7 e 83 do STJ(e-STJ, fls. 329/332).
+Nas razões do presente agravo em recurso especial, PARCIAS e outroafirmaram que houve ofensa aos arts. 6º, VI, do CDC e art. 5º, LIV e LV, da CF, ressaltando a inaplicabilidade dasSúmulas nºs 7 e 83 do STJ. No mais, repisaram as razões contidas no especial(e-STJ, fls. 341/350).
+Foi apresentada contraminuta (e-STJ, fls. 366/369).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de impugnação aos fundamentos da decisão agravada
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar especificamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+Da leitura das razões recursais, observo que o inconformismo não se dirigiu de forma específica contra todos os fundamentos da decisão agravada, pois PARCIAS e outro não refutaramo descabimento do recurso especial por ofensa ao texto constitucional, bem como a inaplicabilidade da Súmula nº 5 do STJ, fundamentos indicados na decisão de admissibilidade como obstáculo ao conhecimento do apelo nobre.
+E isso não fez porque somente afirmaram, nas razões do seu agravo em recurso especial, quehouve ofensa aos dispositivos arrolados e que não se trata de reexame de provas, além de afirmarem a inaplicabilidade da Súmula nº 83 do STJ.
+Assim, como não houve a demonstração do adequado enfrentamento dos fundamentos de incidência da Súmula nº 5 do STJe de impossibilidade de alegação de ofensa a dispositivos constitucionais como suporte à interposição de recurso especial, o recurso não deve ser admitido.
+Nessas condições, com fundamento no art. 932, III, do NCPC, NÃO CONHEÇO do agravo interposto
+MAJORO os honorários advocatícios anteriormente fixados em favor de CEF em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
