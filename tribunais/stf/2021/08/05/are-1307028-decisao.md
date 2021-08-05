@@ -1,0 +1,17 @@
+Despacho: Trata-se da Petição 76.008/2021 na qual Cinemark Brasil S/S requer a realização de sustentação oral na sessão presencial da Segunda Turma do STF.
+    Ressalto que é incabível pedido de sustentação oral em sede de agravo regimental em recurso extraordinário, nos termos do art. 131, § 2º, do RISTF. Vejam-se:
+    Agravo regimental no agravo de instrumento. Matéria criminal. Ofensa reflexa. Pedido de sustentação oral. Inadmissibilidade. Art. 131, § 2º, do Regimento Interno desta Corte. 1. Nos termos da jurisprudência deste Supremo Tribunal Federal, a afronta aos princípios da ampla defesa e do contraditório, entre outros, configura ofensa indireta ou reflexa à Constituição Federal e, por isso, não abre passagem ao recurso extraordinário. 2. Em sede de agravo regimental, não se admite a sustentação oral de suas razões junto à Corte (art. 131, § 2º, do RISTF). 3. Agravo regimental não provido (AI 791.703-AgR, Rel. Min. Dias Toffoli, Primeira Turma, DJe 11.10.2011).
+    RECURSO EXTRAORDINÁRIO COM AGRAVO AGRAVO INTERNO PEDIDO DE SUSTENTAÇÃO ORAL INADMISSIBILIDADE INOCORRÊNCIA DE QUALQUER DAS 3 (TRÊS) HIPÓTESES EXCEPCIONAIS PREVISTAS, TAXATIVAMENTE, NO § 3º DO ART. 937 DO CPC/2015 POSSIBILIDADE DE JULGAMENTO DESSE RECURSO EM MEIO VIRTUAL, POR INCABÍVEL A SUSTENTAÇÃO ORAL (RESOLUÇÃO STF Nº 587, DE 29/07/2016, ART. 4º, PARÁGRAFO ÚNICO). (…) GRAVO INTERNO IMPROVIDO (ARE 952.851-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe 13.03.2017 ).
+    EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMBARGOS ACOLHIDOS PARA PRESTAR ESCLARECIMENTOS, SEM MODIFICAÇÃO DA DECISÃO EMBARGADA. I - A jurisprudência da Corte é no sentido de que revestem-se de plena legitimidade constitucional as regras constantes do Regimento Interno do Supremo Tribunal Federal (RISTF) que não permitem sustentação oral em determinados processos (art. 131, § 2°) e que definem as hipóteses de desnecessidade de prévia inclusão em pauta de certos feitos (art. 83, § 1°, III). Precedentes. II - Embargos de declaração acolhidos para prestar esclarecimentos, sem modificação da decisão embargada (RE 1.018.956-AgR-ED-ED, Rel. Min. Ricardo Lewandowski, Segunda Turma, DJe 07.12.2018).
+    Extraio do voto condutor do acórdão deste último precedente, acima citado (RE 1.018.956-AgR-ED-ED), os seguintes fragmentos:
+    “(...) registro que o Regimento Interno do Supremo Tribunal Federal (RISTF) dispensa a inclusão em pauta, bem como veda a sustentação oral em certos feitos (arts. 83, § 1°, III; e 131, § 2°, do RISTF).
+    Tal procedimento não implica cerceamento de defesa ou ofensa ao contraditório.
+    Ademais, a inadmissibilidade de sustentação oral em recurso de agravo (interno ou regimental) revela-se justificável, seja em face da própria legislação processual civil, aplicável analogicamente ao processo penal (CPP, art. 3°) que somente prevê em seu art. 937, § 3°, a possibilidade de sustentação oral, em sede de agravo interno, em 3 únicas hipóteses (ação rescisória, mandado de segurança e reclamação), seja, ainda, considerado o contexto ora em exame. (....)”
+    Tampouco há previsão de sustentação no rol exaustivo do art. 937 do CPC, havendo o inciso VII, que tratava do recurso, sido vetado.
+    Assim, por se tratar de agravo regimental em recurso extraordinário com agravo, inexiste razão para acolher o pedido devido à incidência do art. 131, § 2º, do RISTF.
+    Indefiro.
+    Publique-se.
+    Brasília, 05 de agosto de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
