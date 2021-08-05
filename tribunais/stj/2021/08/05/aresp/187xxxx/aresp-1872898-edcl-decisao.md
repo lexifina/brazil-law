@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CARLOS EDUARDO CUNHA, em face da decisão de fls. 428/429, que não conheceu do recurso.
+Alega o embargante que a decisão deve ser reformada, haja vista que ""o rol do art. 1.015 do CPC é de taxatividade mitigada, por isso admite a interposição de agravo de instrumento quando verificada a urgência decorrente da inutilidade do julgamento da questão no recurso de apelação."", conforme decidido no REsp n. 1.704.520/MT, sob a relatoria da Ministra Nancy Andrighi, Corte Especial. (fl. 431)
+Nesse sentido, sustenta que o recurso é cabível ante a urgência do caso concreto, que envolve direito de pessoa idosa e portadora de doença grave, cuja longa discussão em juízo perdura há mais de 30 anos.
+Requer o conhecimento e acolhimento dos embargos declaratórios, com efeitos infringentes ou, caso seja outro o entendimento, o recebimento do agravo na forma do art. 1.042 do CPC.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, não tendo apresentado impugnação no prazo legal, conforme certidão de fl. 470.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Conforme decisão de fls. 428/429, o recurso interposto pela parte não se enquadra nas hipóteses de cabimento do agravo que atrai a competência dessa Corte, que se restringem àquelas previstas no art. 1.027, § 1.º, e no art. 1.042, do Código de Processo Civil.
+Não prospera o argumento de que o rol do art. 1.015 é de taxatividade mitigada, pois esse entendimento, conquanto acertado, foi fixado, sob a sistemática dos recursos repetitivos, apenas para esclarecer que o agravo de instrumento poderá ser manejado em situações outras que não àquelas estampadas no citado artigo, quando se vislumbrar inutilidade do julgamento da questão em grau de apelação, o que, inclusive, ratifica o cabimento dessa espécie recursal para atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição.
+Todavia, o recurso adequado, no caso em análise, seria o agravo em recurso especial, disciplinado no art. 1.042 do CPC, cabível para impugnar decisão que inadmite o apelo especial.
+Por isso, o recurso não foi conhecido, em razão do manifesto erro grosseiro na interposição do agravo fundado no art. 1.015 do Código de Processo Civil, o que torna inaplicável o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/05/2020.
+Nesse sentido, veja-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INADMISSÃO. AGRAVO DE INSTRUMENTO. INTERPOSIÇÃO. ERRO GROSSEIRO. PRINCÍPIO DA FUNGIBILIDADE. APLICAÇÃO. IMPOSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Nos termos do art. 1.042, § 2º, do Código de Processo Civil de 2015, o recurso cabível para impugnar a decisão que inadmitiu o recurso especial é o agravo em recurso especial, dirigido ao Presidente ou Vice-Presidente do tribunal de origem, e não o agravo previsto no art. 1.015 do CPC/2015.
+3. A interposição equivocada de recurso diverso daquele expressamente previsto em lei, quando ausente dúvida objetiva, constitui manifesto erro grosseiro, que inviabiliza a aplicação do princípio da fungibilidade. Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp n. 1.683.667/MS, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, Dje de 28/09/2020.)
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
