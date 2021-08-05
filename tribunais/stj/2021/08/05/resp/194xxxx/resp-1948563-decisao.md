@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de origem, assim ementado (fl. 1.264):
+TRIBUTÁRIO E ADMINISTRATIVO - COMPENSAÇÃO REQUERIDA EM 05/10/2006 - INDEFERIMENTO - NOTIFICAÇÃO EM 10/4/2007 - PEDIDO DE RECONSIDERAÇÃO PROTOCOLIZADO EM 18/6/2007 EM ANÁLISE ATÉ O AJUIZAMENTO DA VINDICAÇÃO EM 23/10/2007 - ORDEM CRONOLÓGICA DOS REQUERIMENTOS FEITOS PELOS CONTRIBUINTES - NECESSIDADE - ÔNUS DA PROVA - CÓDIGO DE PROCESSO CIVIL, ART. 333, I E II - APLICABILIDADE - INÉRCIA DA AUTORIDADE RESPONSÁVEL NÃO COMPROVADA - DEMORA JUSTIFICADA.
+ ..
+Os embargos de declaração foram rejeitados, conforme fls. 1.280-1.283.
+No apelo especial (e-STJ fls. 1.286-1.308),o recorrente alega violação ao art. 535, I e II, do CPC/1973, sob os seguintes argumentos: a)a contradição e/ou equivoco no sentido de que se trataria de um atraso de meros 30 (trinta) dias, quando as provas carreadas aos autos demonstram que o ATRASO É DE MAIS DE 1(UM) ANO, consequentemente, ferindo inclusive o prazo de 360 dias permitido no art. 24 da Lei 11.427/2007; e b) omissão quanto à majoração dos honorários advocatícios (a qual foi a única matéria recorrida/apelada), seguindo a lógica e a razoabilidade do art. 20 §§ 3º e 4º do CPC.
+Com Contrarrazões.
+Juízo positivo de admissibilidade às fls. 1.328-1.329.
+É o relatório. Passo a decidir.
+Preliminarmente, a análise pormenorizada dos presentes autos evidencia que o acórdão recorrido incorreu em afronta ao art. 535, II, do CPC/1973. Isso porque aquela Corte ao rejeitar os embargos do recorrente furtou-se a emitir juízo a respeito de ponto de suma relevância para o deslinde da controvérsia, qual seja:a contradição e/ou equivoco no sentido de que se trataria de um atraso de meros 30 (trinta) dias, quando as provas carreadas aos autos demonstram que o ATRASO É DE MAIS DE 1(UM) ANO, consequentemente, ferindo inclusive o prazo de 360 dias permitido no art. 24 da Lei 11.427/2007; e b) omissão quanto à majoração dos honorários advocatícios (a qual foi a única matéria recorrida/apelada), seguindo a lógica e a razoabilidade do art. 20 §§ 3º e 4º do CPC.
+Nesse sentido, ao rejeitar os embargos de declaração do ora recorrente, era mister da corte de origem se pronunciar no concernente à questão supra, em homenagem ao princípio do tantum devolutum quantum appellatum que o recurso de apelação encerra, porquanto é defeso ao Superior Tribunal de Justiça debruçar-se sobre a questão ventilada nos embargos de declaração pela primeira vez.
+Isso posto, dou provimento ao Recurso Especial para declarar violado o art. 535, II, do CPC/1973. E, como consectário, determino a remessa dos presentes autos ao Tribunal de origem, a fim de que aquela Corte se manifeste sobre a matéria articulada nos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO REJEITADOS PELO TRIBUNAL A QUO. OMISSÃO EVIDENCIADA. AFRONTA AO ART. 535 DO CPC/1973 CONFIGURADA.RECURSO ESPECIAL PROVIDO.
