@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo contra a decisão que inadmitiu o recurso especial interposto por JAIRON JOSÉMILHOMEM MEDRADO, com fundamento na alínea "a" do permissivo constitucional, em oposição a acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS que negou provimento à apelação defensiva(e-STJ, fls. 885-887).
+Em suas razões recursais, a parte recorrente aponta violação doart. 59 do CP. Aduz para tanto, em síntese, que: (I) seria excessiva a elevação da pena-base em 27 meses para cada circunstância judicial desfavorável, porque a dosimetria da reprimenda não poderia se restringir a um cálculo meramente matemático; (II) não haveria motivação idônea para a valoração negativa da personalidade, pela ausência de laudos psicossociais capazes de analisá-la; e (III) as circunstâncias do delito não teriam extrapolado a forma normal de cometimento do homicídio.
+Com contrarrazões (e-STJ, fls. 919-933), o apelo nobre foi inadmitido na origem (e-STJ, fls. 939-943), ao que se seguiu a interposição de agravo.
+Remetidos os autos a esta Corte Superior, o MPF manifestou-se pelo desprovimento do recurso (e-STJ, fls. 991-997).
+É o relatório.
+Decido.
+O agravo impugna adequadamente os fundamentos da decisão agravada, devendo ser conhecido. Passo, portanto, ao exame do recurso especial propriamente dito.
+Este, todavia, não prospera em seu mérito.
+A respeito da dosimetria da reprimenda, vale anotar que sua individualização é uma atividade vinculada a parâmetros abstratamente cominados na lei, sendo, contudo, permitido ao julgador atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, às Cortes Superiores é possível, apenas, o controle da legalidade e da constitucionalidade na dosimetria.
+Sobre o cálculo da pena-base em si, diante do silêncio do legislador, a jurisprudência e a doutrina passaram a reconhecer como critério ideal para individualização da reprimenda-base o aumento na fração de 1/8 por cada circunstância judicial negativamente valorada, a incidir sobre o intervalo de pena abstratamente estabelecido no preceito secundário do tipo penal incriminador. Veja-se:
+"PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 1º, I, DO DECRETO-LEI N. 201/1967, C/C ART. 71 DO CP. DESVIO DE VERBA PÚBLICA.DOSIMETRIA. PENA-BASE EXASPERADA. CULPABILIDADE E CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTOS IDÔNEOS. NÃO CONFIGURAÇÃO DE BIS IN IDEM.DESPROPORCIONALIDADE NÃO VERIFICADA. CONTINUIDADE DELITIVA. VIOLAÇÃO DO PRINCÍPIO DA CONGRUÊNCIA. NÃO OCORRÊNCIA. PLEITO DE RECONHECIMENTO DE CRIME ÚNICO. REEXAME DE MATÉRIA FÁTICA.INVIABILIDADE. RECURSO DESPROVIDO.
+ ..
+5. Acerca do quantum de aumento, o delito imputado ao paciente prevê pena abstrata de 2 a 12 anos de reclusão. Assim, tomando-se por base o intervalo entre as penas mínima e máxima cominadas, a elevação da pena-base em 2 anos e 4 meses pela valoração desfavorável de duas circunstâncias judiciais encontra-se, inclusive, em patamar abaixo da fração ideal de 1/8 de aumento - adotada pela jurisprudência - para cada moduladora analisada de forma negativa. Logo, não há falar em desproporcionalidade.
+ ..
+10. Recurso ordinário desprovido".
+(RHC 135.298/PE, de minha relatoria, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021)
+Ou seja: o critério de exasperação da pena-base em 1/8 sobre o intervalo das penas mínima e máxima, para cada vetorial desfavorável, encontra-se em plena sintonia com a jurisprudência deste STJ, não havendo abuso a corrigir.
+Quanto à valoração negativa da personalidade, esta Corte Superiorcompreende ser desnecessária a existência de prova pericial, bastando que se apontem elementos concretos capazes de demonstrar a maior reprovabilidade desta vetorial - o que efetivamente foi feito pelo TJ/TO, ao indicar a existência de uma lista de alvos mantida pelo réu e seu histórico de ameaças, a comprovar uma personalidade agressiva (e-STJ, fls. 874-875).
+Sobre a prescindibilidade da prova pericial, ao contrário do que aduz a defesa, confiram-se os seguintes julgados:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO DUPLAMENTE CIRCUNSTANCIADO. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. AÇÕES PENAIS EM CURSO. SUMULA 444/STJ. MOTIVAÇÃO INIDÔNEA. PERSONALIDADE DESVIRTUADA. AUSÊNCIA DE FUNDAMENTAÇÃO VÁLIDA. PRESENÇA DE DUAS CAUSAS DE AUMENTO. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. OFENSA À SÚMULA 443/STJ. REGIME SEMIABERTO ADEQUADO. PENA INFERIOR A 8 ANOS. CIRCUNSTÂNCIAS JUDICIAIS FAVORAVELMENTE VALORADAS. FLAGRANTE ILEGALIDADE EVIDENCIADA. WRIT NÃO CONHECIDO.
+ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+3. A personalidade do agente resulta da análise do seu perfil subjetivo, no que se refere a aspectos morais e psicológicos, para que se afira a existência de caráter voltado à prática de infrações penais, com base nos elementos probatório dos autos, aptos a inferir o desvio de personalidade de acordo com o livre convencimento motivado,independentemente de perícia.
+ ..
+8. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de reduzir a reprimenda do paciente para 6 anos, 2 meses e 20 dias de reclusão, e estabelecer o regime prisional semiaberto para o início do cumprimento da pena".
+(HC 642.018/PE, de minha relatoria, QUINTA TURMA, julgado em 09/03/2021, DJe 15/03/2021; grifei)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. NEGATIVAÇÃO DA VETORIAL REFERENTE À PERSONALIDADE. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. PRECEDENTES DO STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Segundo a jurisprudência desta Corte, a personalidade do agente resulta da análise do perfil subjetivo do paciente, no que se refere a aspectos morais e psicológicos, para que se afira a existência de caráter voltado à prática de infrações penais, com base nos elementos probatórios dos autos, aptos a inferir o desvio de personalidade de acordo com o livre convencimento motivado, independentemente de perícia (HC n. 443.678/PE, Ministro Ribeiro Dantas, Quinta Turma, DJe 26/3/2019).
+2. A negativação da circunstância judicial referente à personalidade do acusado encontra-se devidamente fundamentada, tendo o Magistrado motivado exaustivamente o critério adotado com base em elementos concretos extraídos dos autos, quais sejam, o fato de o homicídio contra o subtenente ter sido perpetrado durante diligência realizada pela polícia, no qual ficou evidente ser o réu um dos traficantes que, no momento da abordagem, encontrava-se em plena atividade ilícita, ostentado armas na localidade, atendendo, assim, à exigência da discricionariedade vinculada.
+3. Agravo regimental improvido".
+(AgRg no HC 488.363/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/08/2019, DJe 30/08/2019)
+Finalmente, a tese defensiva sobre as circunstâncias do delito também diverge da jurisprudência deste STJ, para quem a premeditação é, sim, um elemento válido para elevar a pena-base. Nesse sentido:
+"PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO. PENA-BASE. CIRCUNSTÂNCIAS JUDICIAIS.CULPABILIDADE, PERSONALIDADE E MOTIVOS. AUSÊNCIA DE FUNDAMENTAÇÃO CONCRETA. CIRCUNSTÂNCIAS DO DELITO. PREMEDITAÇÃO. POSSIBILIDADE.SÚMULA 83. CONSEQUÊNCIAS QUE EXTRAPOLAM A NORMAL DO TIPO. BIS IN IDEM. NÃO OCORRÊNCIA. SÚMULA 7. EMBARGOS ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, a teor do art. 619 do Código de Processo Penal - CPP, e erro material, conforme art. 1.022, III, do Código de Processo Civil - CPC.
+2. Demonstrada a hipótese de contradição, diante da procedência do argumento ora analisado, são cabíveis efeitos infringentes.
+3. Quanto à culpabilidade, à personalidade e aos motivos do crime, constata-se que não houve fundamentação a justificar o desvalor recaído sobre tais circunstâncias judiciais, razão pela qual deve ser decotado.
+4. No que se refere à conduta social, o fato de o agente ter ficado foragido por 3 (três) anos, por si só, não constitui elemento idôneo a fundamentar a desvaloração, mormente quando se tem presente que esse vetor judicial é apurado em face do comportamento do réu no meio social.
+5. A premeditação constitui elemento idôneo a justificar o desvalor das circunstâncias do delito, pois denota maior gravidade da infração penal.
+6. Não há bis in idem quando as consequências do crime são desvaloradas em razão do prejuízo que extrapola os limites inerentes ao tipo penal.
+7. Embargos declaratórios acolhidos, com efeitos infringentes, para conhecer do agravo, e, no mérito, reduzir a exasperação da pena-base, com reflexos na pena definitiva".
+(EDcl no AgRg no AREsp 633.304/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/04/2017, DJe 03/05/2017; grifei)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, "b", do RISTJ,conheçodo agravo paranegar provimento ao recurso especial.
+Publique-se. Intimem-se.
