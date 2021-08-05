@@ -1,0 +1,28 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face do Tribunal de Justiça do Estado de Mato Grosso do Sul, assim ementado (eDOC 14, p. 8):
+    “EMENTA - RECURSOS DE APELAÇÃO – CONSTITUIÇÃO DE SERVIDÃO ADMINISTRATIVA – INTEMPESTIVIDADE DO RECURSO DOS RÉUS – CERCEAMENTO DE DEFESA – PRELIMINAR PREJUDICADA – ÁREA AFETADA PELA SERVIDÃO ADMINISTRATIVA – MODIFICAÇÃO DA FÓRMULA DE CÁLCULO – REDUÇÃO DA INDENIZAÇÃO.
+    1. Nos termos do § 5º do artigo 1.003, o prazo para interpor apelação é de 15 (quinze) dias úteis. Protocolado após o término desse prazo, o recurso é intempestivo.
+    2. A preliminar de cerceamento de defesa fica prejudicada quando há conversão do julgamento do recurso em diligência e a prova considerada essencial pelo recorrente é produzida.
+    3. Imprescindível reduzir o valor da condenação quando o perito judicial reconhece equívoco relativamente à fórmula de cálculo usada para apurar o tamanho da área afetada pela servidão administrativa.
+    Recurso dos réus não conhecido e recurso da empresa autora parcialmente provido.”
+    No recurso extraordinário, com fundamento no art. 102, III, b, do permissivo constitucional, aponta-se ofensa ao art. 5º, XXIV, da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que “o acórdão recorrido deve ser reformado também quanto a esse ponto, de modo que seja adotada como base de cálculo para fixação dos juros compensatórios o valor correspondente a 80% (oitenta por cento) da diferença entre o valor ofertado e o fixado na sentença, em vez da totalidade da diferença.” (eDOC 20, p. 19).
+    A Vice-Presidência do TJ/MS inadmitiu o recurso extraordinário em virtude de incidir na hipótese a Súmula 284 do STF (eDOC 21, p. 11-15).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento da apelação, asseverou (eDOC 14, p. 12):
+    “A empresa autora insurge-se contra o valor de sua condenação, por não concordar com a conclusão do perito sobre o tamanho da área afetada pela servidão administrativa. Considera o cabo energizado mais distante do solo o eixo central da linha de transmissão. Reputa afetada pela servidão administrativa a área de 11.211,88 m² e não a área de 11.958,52 m², conforme adotado na sentença.
+    De acordo com item 05.02 do laudo pericial (f. 280), os postes 22, 23, 24 e 25 não estão no centro. Por isso o perito judicial elaborou croqui locando a faixa de servidão coincidindo com o eixo dos postes e da faixa de segurança. Por meio desse método, concluiu que 11.958,52 m² da área de propriedade dos réus foram afetados pela servidão administrativa.
+    Após conversão do julgamento da apelação em diligência, o perito judicial reconheceu seu equívoco e retificou o laudo pericial (f. 447/450).
+    Com fundamento na norma ABNT NBR – 5422/1985, disse que o eixo da faixa de segurança no circuito simples é determinado por intersecção deste plano vertical com a superfície do terreno. Elaborou croqui confrontando as coordenadas da faixa de segurança em consonância com a Resolução da ANEEL n. 5.452/2015 e a matrícula n. 110.898, georreferenciada e certificada pelo INCRA. Com essa nova fórmula de cálculo, reduziu o tamanho da área afetada pela servidão administrativa de 11.958,52 m² para 11.898,02 m².
+    Tendo em vista a redução do tamanho da área afetada pela servidão administrativa, imprescindível reduzir o valor da condenação da empresa autora para R$ 292.234,31 (duzentos e noventa e dois mil, duzentos e trinta e quatro reais e trinta e um centavos), pois não houve modificação do valor do metro quadrado do imóvel adotado pelo perito (R$ 57,12 – cinquenta e sete reais e doze centavos).
+    Relativamente ao desconto do valor depositado em juízo e encargos de atualização da condenação, a sentença permanece inalterada, porque não houve devolução dessas matérias no recurso da empresa autora.”
+    Como se depreende desses fundamentos, eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas constantes dos autos, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    “Agravo regimental em recurso extraordinário com agravo. 2. Direito Administrativo. 3. Desapropriação. Indenização. Justo valor. 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Necessidade de reexame do acervo probatório. Súmula 279 do STF. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento.” (ARE 1.154.893-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe 30.11.2018).
+    “DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO EXTRAORDINÁRIO COM AGRAVO. DESAPROPRIAÇÃO. JUSTA INDENIZAÇÃO. LAUDO PERICIAL. SÚMULA 279/STF. 1. A matéria depende da análise do conjunto fático-probatório, o que afasta o cabimento do recurso extraordinário. 2. Inaplicável o art. 85, § 11, do CPC/2015, uma vez que não houve fixação de honorários advocatícios contra o recorrente. 3. Agravo interno a que se nega provimento, com aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.” (ARE 1.047.575-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 25.10.2018).
+    Ante o exposto, nego provimento ao recurso, nos termos do artigo 932, IV, a, do CPC.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 05 de agosto de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
