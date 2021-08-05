@@ -8,3 +8,4 @@ VI - condições e forma de escolha de seus candidatos a cargos e funções elet
 VII - finanças e contabilidade, estabelecendo, inclusive, normas que os habilitem a apurar as quantias que os seus candidatos possam despender com a própria eleição, que fixem os limites das contribuições dos filiados e definam as diversas fontes de receita do partido, além daquelas previstas nesta Lei;
 VIII - critérios de distribuição dos recursos do Fundo Partidário entre os órgãos de nível municipal, estadual e nacional que compõem o partido;
 IX - procedimento de reforma do programa e do estatuto.
+X - prevenção, repressão e combate à violência política contra a mulher.
