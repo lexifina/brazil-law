@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de recurso especial interposto por LENITA THEISGES, fundamentado exclusivamente na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 15/01/2021.
+Concluso ao Gabinete em: 08/04/2021.
+Ação: de cobrança, ajuizada pela recorrente, em desfavor de BRADESCO VIDA E PREVIDÊNCIA S/A, por meio da qual objetiva a condenação deste ao pagamento de indenização prevista em seguro de vida em grupo para o caso de invalidez permanente.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. PRETENSÃO DEDUZIDA PELA SEGURADA. DOENÇA LABORAL INCAPACITANTE. QUADRO SEVERO DE VARIZES. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO DA DEMANDANTE.
+PRELIMINARES DE NULIDADE DO DECISUM POR CERCEAMENTO DE DEFESA. DEFENDIDA A NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. ANÁLISE DA PREFACIAL PREJUDICADA ANTE A AUSÊNCIA DE COBERTURA CONTRATUAL DE MOLÉSTIA PROFISSIONAL.
+ALEGAÇÃO DE EXISTÊNCIA DE COBERTURA. ARGUMENTAÇÃO INACOLHIDA. INOCORRÊNCIA DE ACIDENTE DE TRABALHO TÍPICO PATENTEADO NA PRÓPRIA CAUSA DE PEDIR REMOTA. SEQUELAS DERIVADAS DE DOENÇA OCUPACIONAL. GARANTIA EXPRESSAMENTE EXCLUÍDA NO CONTRATO. EQUIPARAÇÃO DA MOLÉSTIA CAUSADORA DA INCAPACIDADE A ACIDENTE DE TRABALHO. INVIABILIDADE. PREVISÃO CONTIDA NO ART. 19, CAPUT, DA LEI N. 8.213/91 RELATIVA ÀS LIDES PREVIDENCIÁRIAS QUE NÃO SE APLICA ÀS RELAÇÕES DE DIREITO PRIVADO. PRECEDENTES DESTA CORTE DE JUSTIÇA. LIBERDADE DE CONTRATAR. COMPLEXIDADE DO SISTEMA SECURITÁRIO. MUTUALIDADE. INVIABILIDADE DE INTERPRETAÇÃO AMPLIATIVA DAS COBERTURAS CONTRATADAS. DOENÇA LABORAL ALEGADA QUE POR GERAR INCAPACIDADE PARCIAL IGUALMENTE NÃO SE AJUSTA À COBERTURA POR INVALIDEZ FUNCIONAL PERMANENTE POR DOENÇA. GARANTIA QUE PELA SUA NATUREZA CARACTERIZA-SE TÃO SÓ NA HIPÓTESE DE QUADRO CLÍNICO IRREVERSÍVEL QUE INVIABILIZE O EXERCÍCIO DAS RELAÇÕES AUTONÔMICAS DO SEGURADO, SERVINDO COMO ANTECIPAÇÃO DA COBERTURA PARA O EVENTO MORTE. INVOCAÇÃO DA INTERPRETAÇÃO FAVORÁVEL AO CONSUMIDOR, NOS MOLDES DOS ARTS. 47 E 51, AMBOS DA LEI N. 8.078/90. INEXISTÊNCIA DE ABUSIVIDADE. NÃO RECONHECIMENTO DA NULIDADE DE PLENO DIREITO DAS CLÁUSULAS ATACADAS. PRECEITOS CONSUMERISTAS QUE NÃO POSSUEM O CONDÃO DE CRIAR OU AMPLIAR COBERTURAS, NOTADAMENTE QUANDO INEXISTE DÚVIDA ACERCA DA AUSÊNCIA DO DIREITO RECLAMADO. PACTO DE NATUREZA EMINENTEMENTE CIVIL QUE NÃO SE CONFUNDE COM AMPARO DE ÍNDOLE PREVIDENCIÁRIA. INVIABILIDADE NAS RELAÇÕES DE CUNHO SECURITÁRIO.
+VIOLAÇÃO DO DEVER DE TRANSPARÊNCIA E DE INFORMAÇÃO. INOCORRÊNCIA. CIENTIFICAÇÃO DOS COMPONENTES DO GRUPO SEGURADO VIA ESTIPULANTE DE ACORDO COM AS NORMAS DE REGÊNCIA. EQUIPARAÇÃO DA ESTIPULANTE AO PRÓPRIO SEGURADO. ATUAÇÃO QUE EQUIVALE A MANDATÁRIO DO INTERESSADO. SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO (e-STJ fls. 368-369).
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Recurso especial: alega a violação dos arts. 6º, III, IV, 14, 25, § 1º, § 2º, 34, 37, § 1º, § 3º, 46, 47, 51, I, III, e 54, § 3º, § 4º, do CDC. Sustenta que, em se tratando de seguro de vida em grupo, a seguradora e a estipulante são solidariamente responsáveis pela prestação de informações claras e adequadas ao segurado sobre as características do contrato de seguro previamente à contratação. Afirma que é objetiva e solidária a responsabilidade de todos os agentes envolvidos na atividade de colocação do produto ou serviço no mercado de consumo. Aduz que a cláusula contratual que transfere ao estipulante o dever de informação ao segurado e/ou exime a seguradora de responsabilidade em caso de descumprimento do referido dever é nula de pleno direito. Por fim, aponta que é inválida a cláusula limitativa de direito quando não for assegurada ao consumidor a oportunidade de tomar prévio conhecimento de seu conteúdo.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da oposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelo recorrente em seu recurso especial quanto aos arts. 6º, III, IV, 14, 25, § 1º, § 2º, 34, 37, § 1º, § 3º, e 51, I e III, do CDC, o que inviabiliza o seu julgamento. Aplica-se, neste caso, a Súmula 211/STJ.
+- Da Súmula 568/STJ
+O TJ/SC, ao reconhecer que "se a Seguradora providencia a comunicação do estipulante sobre os termos do contrato de seguro, cabe a este, como representante dos segurados, repassar os termos contratados aos beneficiários" (e-STJ fls. 383-384), alinhou-se ao entendimento mais recente do STJ quanto à matéria no sentido de que, no contrato de seguro coletivo em grupo, cabe à estipulante, e não à seguradora, o dever de fornecer ao segurado (seu representado) ampla e prévia informação a respeito dos contornos contratuais, no qual se inserem, em especial, as cláusulas restritivas (REsp 1.825.716/SC, 3ª Turma, DJe 12/11/2020; AgInt no AREsp 1.701.593/SC, 3ª Turma, DJe 01/06/2021; AgInt no REsp 1.908.859/PR, 3ª Turma, DJe 31/05/2021; EDcl no AgInt no REsp 1.892.113/SC, 3ª Turma, DJe 08/06/2021; e EDcl no AgInt no REsp 1.845.263/SC, 3ª Turma, DJe 25/06/2021).
+Forte nessas razões, com fundamento nos arts. 932, III, e IV, "a", do CPC/2015, CONHEÇO PARCIALMENTE DO RECURSO ESPECIAL e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% (doze por cento) sobre o valor da causa (e-STJ fl. 385) para 14% (catorze por cento), observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+DIREITO DO CONSUMIDOR. RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. SEGURO DE VIDA EM GRUPO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. DEVER DE INFORMAÇÃO. ESTIPULANTE.
+1. Ação de cobrança de indenização securitária fundada em seguro de vida em grupo.
+2. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais, não obstante a oposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. No contrato de seguro coletivo em grupo, cabe à estipulante, e
+não à seguradora, o dever de fornecer ao segurado (seu representado)
+ampla e prévia informação a respeito dos contornos contratuais, no
+que se inserem, em especial, as cláusulas restritivas..
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
