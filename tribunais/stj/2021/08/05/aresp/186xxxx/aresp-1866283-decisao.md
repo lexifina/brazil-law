@@ -1,0 +1,39 @@
+DECISÃO
+Extrai-se dos autos que EVERSON CORAZZA EUGENIO (EVERSON) requereu cumprimento da sentença proferida em ação civil pública, ajuizada pelo Ministério Público do Estado de São Paulo contra a TELEFÔNICA BRASIL S.A. (TELEFÔNICA), na qual esta foi condenada a emitir ações em favor dos consumidores ou indenizá-los pelo valor correspondente.
+O Juízo de primeiro grau determinou a observância do que ficou decidido no AI 2190684-86.2016.8.26.0000.
+O Tribunal de Justiça de São Paulo deu provimento ao agravo de instrumento interposto pela TELEFÔNICA em acórdão da relatoria do Desembargador ENIO ZULIANI assim ementado:
+Agravo de instrumento Despacho que determinou a observação do que se decidiu no AI 2190684-86.2016.8.26.0000 Inconformismo - Caso concreto em que a radiografia foi colacionada - Aquisição do plano de expansão em modalidade diversa da estabelecida na ação civil pública Inadmissibilidade de se contemplar aquele que, segundo o documento apresentado, não aderiu ao plano de expansão de telefonia, no período de 25.8.1996 a 30.6.1997, mas realizou o contrato mediante pagamento de tarifa de habilitação - A liquidação está contida nos limites do julgado, sendo inadmissível que se dilate ou diminua o seu espectro. Interpretação restritiva. Extinção (art. 485, VI do CPC) Condenação da parte demandante ao pagamento das verbas sucumbenciais. Honorários fixados em R$ 1.000,00, ressalvada eventual gratuidade Provimento (e-STJ, fl. 31).
+Os embargos de declaração opostos por EVERSON foram rejeitados (e-STJ, fls. 55/58).
+Inconformado, EVERSON interpôs recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação do art. 1.022 do NCPC, ao sustentar que o acórdão recorrido foi omisso ao não corrigir a interpretação da radiografia do contrato juntado aos autos, uma vez que partiu de premissa equivocada ao não concluir que o contrato firmado se tratava de plano de expansão.
+Foram apresentadas as contrarrazões (e-STJ, fls. 63/75).
+O apelo nobre não foi admitido por não ter sido demonstrada a violação do art. 1.022 do NCPC (e-STJ, fls. 76/77).
+Nas razões do presente agravo, EVERSON insiste na violação do referido dispositivo legal.
+Foi apresentada contraminuta (e-STJ, fls. 91/103).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da suscitada violação do art. 1.022 do NCPC
+Nas razões do seu recurso, EVERSON interpôs recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação do art. 1.022 do NCPC, ao sustentar que o acórdão recorrido foi omisso ao não corrigir a interpretação da radiografia do contrato juntado aos autos, uma vez que partiu de premissa equivocada ao não concluir que o contrato firmado se tratava de plano de expansão.
+Contudo, verifica-se que o TJSP se pronunciou sobre o tema, consignando expressamente que os contratos foram firmados na modalidade tarifa de habilitação, não estando inserido no dispositivo da ação civil pública.
+A propósito, confiram-se trechos do acórdão recorrido:
+O Tribunal de Justiça de São Paulo, pela sua 4" Câmara, está encarregado de cumprir a sentença que condenou a Telefônica a pagar as participações acionárias daqueles que adquiriram direitos de linha telefônica pelo plano de expansão no período de 25.8.1996 a 30.6.1997. Os documentos juntados ã fls. 19/20 demonstram que os contratos foram firmados na modalidade tarifa de habilitação, portanto não está inserto no dispositivo da ação civil pública. Diante disso o Tribunal rejeitou o pedido de liquidação.
+Os embargos insistem em obter direito que a sentença não outorgou. É difícil fazer a parte que não tem direito compreender o resultado. Pode até ser que o autor possua algum direito de reclamar, MAS NÃO NA AÇÃO CIVIL PÚBLICA.
+Aqui só são admitidas habilitações de contratos PEX - Plano de Expansão contratados no período de 25.8.1996 a 30.6.1997.
+A respeito da radiografia do contrato, cumpre destacar que sua juntada se mostra suficiente para a análise da satisfação da pretensão da parte requerente. Isso, porque, constatando que a parte tem direito a receber a diferença acionária, o cálculo do valor da ação será feito com base na data do transito em julgado.
+Ou seja, desnecessária a juntada de outros documentos. Ressalte-se, ainda, que a própria Telefônica, no processo de nº 1108734.34.2014, revelou a existência de um banco de dados interno integrado com o Banco Bradesco (agente custodiante) em que constam todas as informações dos contratantes com base no CPF/CNPJ. Dessa forma, levando-se em consideração, inclusive, que na transição da TELESP para TELEFÔNICA os contratos tiveram seus números modificados, considera-se correto o documento apresentado.
+Não havia razão para dar vista a parte recorrente antes de reunir os integrantes para a sessão de conferência de votos. A confirmação do veredicto não estava sendo fundamentada com base em documento novo, mas, sim, na falta de indícios de que caberia exibir documento importante para a relação jurídica subjacente.
+O extrato em que se baseou a decisão é do conhecimento da parte autora (porque reflete atos que ela praticou e que jamais deveria ignorar) e não modifica o panorama, representando uma confirmação de que o contrato anterior não lhe outorga direito de acesso na fase de cumprimento de sentença. Não se pode alegar afronta ao contraditório porque se trata de documento próprio (e-STJ, fls. 149/150 - com destaques no original)
+Assim, inexistem os vícios elencados, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte. Precedente: AgRg no ARESP 529.018/MS, Rel. Ministro SIDNEI BENETI, Terceira Turma, j. 19/8/2014, DJe 1º/9/2014.
+Nesse sentido, veja-se o seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. AUSÊNCIA DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015. 2. RESPONSABILIDADE PELOS SERVIÇOS PRESTADOS. INTERPRETAÇÃO DE CLÁUSULAS DA AVENÇA E REEXAME DE PROVAS. DESCABIMENTO. SÚMULAS 5 E 7 DO STJ. 3. PRINCÍPIOS DA CONGRUÊNCIA OU DA ADSTRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS. SÚMULAS N. 282 e 356 DO STF. 4. AGRAVO INTERNO DESPROVIDO.
+1. Não há ofensa ao art. 1.022 do CPC/2015, porquanto o Tribunal de origem decidiu a matéria de forma fundamentada. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando tiver encontrado motivação satisfatória para dirimir o litígio.
+ ..
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.487.975/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 17/2/2020, DJe 19/2/2020)
+Nessas condições, CONHEÇO d o agravo para NEGAR PROVIMENTO ao recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO MANEJADA SOB A ÉGIDE DO NCPC. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VIOLAÇÃO DO ART. 1.022 DO NCPC. INOCORRÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
