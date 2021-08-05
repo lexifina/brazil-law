@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO POMPÍLIO LEITEcontra decisão de Desembargador do Tribunal de Justiça do Estado de Mato Grosso que denegou a medida de urgência pleiteada naquela instância (HC n.1013493-15.2021.8.11.0000).
+Vislumbrando indícios de que o ora paciente exerceria posição de liderança em organização criminosa especializada em fraudes bancárias, o juízo da primeira instânciaconcluiuque a sua prisão preventiva seria imprescindível para garantir a ordem pública, ao passo que o relator do feito, na instância originária, negou o pedido liminar por meio do qual se procurava relaxar o cárcere.
+A defesa alega, em síntese, que a segregação cautelar é ilegítima, devido à ausência: (i)de contemporaneidade entre o suposto furto de carga e o decreto de prisão preventiva; e (ii) de fundamentação idônea quanto ao fumus comissi delictie aopericulum libertatis.
+Argumenta-se ainda que não foram descritos oselementos de estabilidade necessários para a configuração da associação criminosa, que o transporte realizado dentro no Estado do Pará tornaria incompetente o juízo do Estado do Mato Grossoe que se trata de réu primário, com residência fixa, ocupação lícita e bons antecedentes.
+Em liminar e no mérito, pede o relaxamento da prisão cautelar.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+No presente caso, não está configurada a ilegalidade flagrante que autorizaria a cognição de ofício da matéria.
+Isso porque o destinoda carga furtada é irrelevante para a aferição da competência territorial, porque ao paciente se atribuem os crimes defurto qualificado, receptação, associação criminosa e falsificação de documento particular, de modo que a distância de 7 meses entre a data do furto e do decreto de prisão cautelar não é suficiente para configurar a alegadaausência de contemporaneidade, e porque o juízo de primeira instância fundamentou os indícios da consideração de que a liberdade provisória do ora paciente representaria risco à ordem pública.
+Em resumo, não entendo configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+De todo modo, as questões suscitadas pela defesa serão tratadas oportunamente pela instância de origem, por ocasião do julgamento de mérito do mandamus, sem o qual esta Corte fica impedida de apreciar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente a petição inicial do presente habeas corpus.
+Intimem-se.
+Cientifique-se o Ministério Público Federal.
