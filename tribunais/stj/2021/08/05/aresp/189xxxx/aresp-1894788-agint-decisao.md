@@ -1,0 +1,27 @@
+DECISÃO
+Em face das razões do agravo interno de fls. 232/244 (e-STJ), RECONSIDERO a decisão agravada de fls. 226/229 (e-STJ) e passo a novo exame do agravo em recurso especial interposto porMARIA ELENA MARQUES DE OLIVEIRA, ROCKWAY COMERCIO DE ARTIGOS DO VESTUARIO, DISCOS E VIDEOS LTDA eANTONIO ENEAS DE OLIVEIRA, contradecisão que negou seguimento a recurso especial fundamentadonasalíneas"a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em:19/04/2021.
+Concluso ao gabinete em: 07/06/2021.
+Ação: de execução de título extrajudicial, embasada em contrato de locação e carta fiança, proposta por CONDOMÍNIO EDIFÍCIO METROPOLITAN BUILDING em face dos ora agravantes.
+Decisão interlocutória: aplicou aos agravantes multa por ato atentatório à dignidade da justiça, fixada em 10% sobre o valor atualizado do débito, a ser revertida em proveito do credor,em razão deatitudes reiteradas em prestar informações incorretas sobre os seus endereços.
+Acórdão: deu parcial provimento ao agravo de instrumento interposto pelos agravantes, para reduzir o percentual da multa para 5% o valor atualizado do débito, nos termos da seguinte ementa (e-STJ fl. 73):
+"AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CONTRATO DE LOCAÇÃO E CARTA DE FIANÇA. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. MULTA FIXADA EM 10% SOBRE O VALOR ATUALIZADO DO DÉBITO. DEVER DA PARTE EM FORNECER O PRÓPRIO ENDEREÇO. LONGO LAPSO TEMPORAL DO TRÂMITE DA EXECUÇÃO. BUSCA INTENTADA PELO EXECUTADO. INTIMAÇÃO DO EXECUTADO. EXECUTADO QUE NÃO JUSTIFICOU A IMPOSSIBILIDADE DE CUMPRIR A DECISÃO. ADVERTÊNCIA. INDICAÇÃO REITERADA DE ENDEREÇO INCORRETO. FRUSTRAÇÃO DA INTIMAÇÃO. PRINCÍPIOS PROCESSUAIS DA COLABORAÇÃO E DA LEALDADE. SUJEITOS PROCESSUAIS QUE ASSUMEM POSIÇÃO PARITÁRIA PARA OBTENÇÃO DE UM PROCESSO LEAL E COOPERATIVO. INFORMAÇÕES INCORRETAS QUE PREJUDICAM A PRESTAÇÃO JURISDICIONAL. MULTA. EXCESSIVIDADE FRENTE AO VALOR DO DÉBITO ATUALIZADO. REDUÇÃO PARA 5% DO VALOR ATUALIZADO DO DÉBITO. RECURSO PARCIALMENTE PROVIDO".
+Recurso especial: alega violação do art.744, III, do CPC/15, bem como dissídio jurisprudencial, sustentando que: (i) em que pese o retorno negativo dos mandados, foram prestadas as informações solicitadas pelo juiz do 1º grau de jurisdição; (ii) cabe ao credor diligenciar para a localização do devedor; (iii) não ficou demonstrado dolo ou culpa grave dos recorrentes a justificar a imposição da multa; (iv) subsidiariamente, deve ser reduzida a multa aplicada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à prática de ato atentatório à dignidade da justiça pelos ora agravantes, em razão da sucessiva indicação de endereços inválidos, bem como à razoabilidade do valor fixado,exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1029, §1º do CPC/2015 e 255, § 1º, do RISTJ.
+Outrossim, aausência de prequestionamento do tema que se supõe divergente, qual seja, a exigência de dolo ou culpa grave da parte para a imposição da multa por ato atentatório à dignidade da justiça, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, RECONSIDERO a decisão agravada e, em novo julgamento, CONHEÇO do agravo para NÃO CONHECER do recurso especial,com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MULTA POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA.REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA E COTEJO ANALÍTICO. AUSÊNCIA.PREQUESTIONAMENTO DO TEMA NÃO VERIFICADO. INVIABILIDADE.
+1. Cuida-se, na origem, de ação de execução de título extrajudicial.
+2. Alterar o decidido no acórdão impugnado, no que se refere à prática de ato atentatório à dignidade da justiça pelosagravantes, em razão da sucessiva indicação de endereços inválidos, bem como à razoabilidade do valor fixado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4.A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5. Decisão agravada reconsiderada. Agravo em recurso especial conhecido. Recurso especial não conhecido.
