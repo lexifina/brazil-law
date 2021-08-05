@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJRC, assim ementado (fls. 276):
+APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. SUPRESSÃO DE ÁRVORES EM ÁREA DE PRESERVAÇÃO PERMANENTE. AUTO DE INFRAÇÃO AMBIENTAL. RESPONSABILIDADE PELO DANO.
+O STJ sumulou os contornos da responsabilização por dano ambiental das pessoas que constam na cadeia sucessória de aquisição e transferência do bem imóvel, dispondo: "As obrigações ambientais possuem natureza propter rem, sendo admissível cobrá- las do proprietário ou possuidor atual e/ou dos anteriores, à escolha do credor (Súmula 623).
+Hipótese em que o autor não se desincumbiu de provar que não há responsabilidade sobre o imóvel, já que alienou mediante simples declaração a terceira pessoa.
+RECURSO DESPROVIDO.
+O recorrente aponta ofensa aos artigos 2º, §2º, da Lei n. 12.651/2012; 5º, XXXIV e XLV da CF/1988; 14, §1º da Lei n. 6.938/81; 95 do Decreto n. 6.514/08; 186 e 927 do CC/2002. Defende, em síntese, que:i) não foi analisada de forma aprofundada a legitimidade passiva do recorrente; ii)a prova nos autos não foi valorada corretamente, na medida em que "o v. Acórdão simplesmente NEGOU-SE a, apreciar os argumentos trazidos pelo recorrente no seu Recurso deApelação, visto de que ao negar o recurso, permitiu de que o Recorrente sofra injustamente com uma penalidade, do qual o mesmo não era partícipe como infrator, assim o órgão julgador permite a cobrança da multa, infringindo os Princípios da Razoabilidade, da Legitimidade, dá Legalidade e da Proporcionalidade." (sic) (fls. 299); iii)a aplicação da penalidade administrativa, não obedeceu a lógica da responsabilidade objetiva para a reparação dos danos causados, pois veja, deveria ter perpetuado pela teoria da culpabilidade, ou seja, .a conduta para ser punível deve ser cometida pelo alegado transgressor, com demonstração de seu elemento subjetivo e com demonstração de nexo causal entre a conduta e o dano.
+Com contrarrazões.
+Juízo positivo de admissibilidade às fls. 332.
+É o relatório. Passo a decidir.
+Inicialmente, nos termos do art. 105, inciso III, da Constituição da República, o recurso especial é destinado tão somente à uniformização da interpretação do direito federal, não sendo, assim, a via adequada para a análise de eventual ofensa a dispositivos constitucionais, cuja competência pertence ao Supremo Tribunal Federal. Por tal motivo, não se conhece do apelo especial no tocante à alegação de violação do artigo 5º, XXXIV e XLV da CF/1988.
+No que diz respeito aosartigos mencionados somente no início da peça recursal, verifica-se que não houve juízo de valor por parte da Corte de origem, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se ao caso a Súmula 282/STF.
+E ainda que assim não fosse,o recorrente apresentou argumentos genéricos, vagos a respeito da suposta ofensa aos artigos, e que se encontram desassociados dos fundamentos aplicados pelo acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recursoAplica-se à hipótese a Súmula 284/STF.
+Ante o exposto, não conheço o recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 282/STF.DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. RECURSO NÃO CONHECIDO.
