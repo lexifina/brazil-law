@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de recurso especial interposto por CASSIO AUGUSTO FERRARINI e WILSON RODRIGUES PEREIRA, fundamentado, exclusivamente,naalínea"a" do permissivo constitucional.
+Recurso especial interposto em: 02/12/2020.
+Concluso ao gabinete em: 30/07/2021.
+Ação: de revisão de contrato bancário (empréstimo pessoal), ajuizada pelo recorrente WILSON RODRIGUES PEREIRA, representado por seu advogadoCASSIO AUGUSTO FERRARINI, em face de CREFISA S/A CRÉDITO FINANCIAMENTO E INVESTIMENTOS.
+Sentença: julgou parcialmente procedente o pedido, para: (i) limitar a taxa de juros ao percentual de 8,92% ao mês; (ii) determinar, após o recálculo do contrato, a restituição ou compensação das quantias pagas a maior pela parte autora. Outrossim, reconheceu a sucumbência recíproca das partes, condenando-as a partilharem em 50% as custas processuais, além de condená-las ao pagamento de honorários advocatícios, "fixando-os em 10%(dez por cento) sobre o valor da condenação para a ré e em 10% (dez por cento) sobre o valor atualizado da causa para o autor"(e-STJ fl. 154).
+Acórdão: deu provimento à apelação interposta porWILSON RODRIGUES PEREIRA, para limitar os juros remuneratórios em 5,95% ao mês e em 100,17% ao ano, bem como para descaracterizar a mora debendi, majorando "a verba honorária devida pela ré ao autor-apelante para 15% sobre o valor atualizado da condenação".
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 85, § 2º, 489 e 1.022 do CPC/15. Além de negativa de prestação jurisdicional, sustenta que os honorários advocatícios devidos pela ré-recorrida devem ter por base de cálculo o valor atualizado da causa, haja vista que a demanda, que tem por objetorevisão de contrato bancário, não possui cunho condenatório.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido, em que pese de forma sucinta, decidiu pontualmente acerca da base de cálculos dos honorários advocatícios e o respectivo valor, de maneira que os embargtos de declaração opostos pela parte recorrente, de fato,não comportavam acolhimento.
+Assim, observado o entendimentodesta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15.
+- Da base de cálculo dos honorários advocatícios
+A 2ª Seção do STJ, por ocasião do julgamento do REsp 1.746.072/PR, definiu a fixação dos honorários advocatícios sucumbenciais na vigência do CPC/2015 e decidiu que, na aplicação conjunta dos §§ 2º e 8º do art. 85, háuma ordem de vocação para o arbitramento da verba honorária, a saber: (i) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (ii) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (ii.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (ii.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (iii) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+A par disso, observa-se que, na hipótese dos autos, o provimento jurisdicional final é pelo reconhecimento da abusividade da taxa de juros remuneratórios cobradas pelo Banco recorrido, bem como pela determinação do recálculo dos valores pagos a maior pela parte autora, a serem restituídos ou compensados com eventual saldo devedor em aberto.
+Desse modo, em que pese, de fato, a sentença não possua condenação líquida, é plenamente aferível o proveito econômico obtido pela parte autora, a impor a observância de tal parâmetro na fixação da verba honorária.
+Forte nessas razões, CONHEÇO do recurso especialpara DAR-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, III e V, "a", do CPC/15, bem como na Súmula 568/STJ, para fixar os honorários advocatícios devidos pelo Banco réu ao patrono da parte autora em 15% do proveito econômico obtido com a demanda, devidamente atualizado até o efetivo pagamento.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE REVISÃO DE CONTRATO BANCÁRIO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. BASE DE CÁLCULO. PROVEITO ECONÔMICO OBTIDO PELA PARTE VENCEDORA.
+1. Cuida-se, na origem, de ação revisional de contrato bancário.
+2. Não ocorreofensa aos arts. 489 e 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Segundo a jurisprudência firmada por esta Corte, na ausência de condenação, os honorários advocatícios de sucumbência devem ser fixados sobre o proveito econômico obtido pela parte vitoriosa, observada a ordem de vocação prevista no art. 85, § 2º, do CPC/15.
+4. Recurso especial conhecido eparcialmenteprovido.
