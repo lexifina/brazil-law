@@ -1,0 +1,72 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em benefício de ALEXANDRE MARIN FUSTAINOcontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento da Apelação Criminal n. 0000269-25.2018.8.26.0320.
+Consta dos autos que o paciente foi condenado à pena de 2 anos, 8 meses e 20 dias de reclusão, no regime inicial semiaberto, pela prática do delito tipificado no art.155, §4º, incisoIV, do Código Penal (furto qualificado).
+O Tribunal de Justiça, por sua vez, negou provimento ao recurso da defesa, nos seguintes termos:
+"Além disso, o reconhecimento do apelante pela vítima foi também corroborado pelo testemunho de seu próprio pai, que, quando inquirido informalmente pelos guardas civis municipais, e, mais adiante, na Delegacia Policial, asseverou que o seu filho, desde que posto em liberdade, vinha cometendo delitos semelhantes, sempre com a sua namorada.
+Assim, considerando todos os elementos de prova colhidos, e, especialmente, os testemunhos da vítima e do genitor do apelante, imperiosa a manutenção de sua condenação como incurso no artigo 155, § 4º, inciso IV, do Código Penal.
+A tipicidade delitiva não há de ser afetada pela incidência do princípio da insignificância, como requereu a Defesa. O pequeno valor dos bens subtraídos não torna, por si só, insignificante o ato praticado pelo apelante, o qual, na realidade, não pode permanecer impune e estimulado a novamente delinquir.
+ ..
+O Supremo Tribunal Federal vem entendendo, para a caracterização do princípio da insignificância, que, para além da inexpressividade da lesão jurídica causada, impõe-se o reconhecimento também da mínima ofensividade da conduta do agente, da ausência de periculosidade social em sua ação e do reduzido grau de reprovabilidade.
+ ..
+No caso dos autos, porém, além de reincidente, conforme asseverou seu genitor, o apelante praticava habitualmente o delito de furto, demonstrando, realmente, fazer da criminalidade o seu meio de vida, circunstância que afasta a possibilidade da incidência do princípio dainsignificância, já que eleva sobremaneira a reprovabilidade do seu comportamento.
+ ..
+Portanto, considerando a reprovabilidade da conduta do apelante e todas as provas de se dedicar ele à criminalidade para o seu próprio sustento, impossível o reconhecimento do princípio da insignificância, tratando-se, na realidade, de uma conduta típica, tanto formal quanto materialmente punível, sendo totalmente irrelevante a ausência de prejuízo à vítima.
+ ..
+Passo à análise da dosimetria de sua pena.
+Quando da primeira fase da dosimetria penal, a MM.ª Juíza "a quo", atenta à má-conduta social do apelante, dedicado à criminalidade, consoante anteriormente exposto, exasperou em 1/6 (um sexto) a sua pena-base.
+Na sequência, pela reincidência, agravou-a em mais 1/6 (um sexto).
+Ao contrário da argumentação defensiva, não há de se falar em incompatibilidade entre a utilização da reincidência para o agravamento da reprimenda e as disposições do Pacto de San José da Costa Rica: o Supremo Tribunal Federal, aliás, já se debruçou sobre a questão, quando do julgamento do Recurso Extraordinário 453.000/RS, e, então, pacificou o entendimento de que a agravante prevista no artigo 61, inciso I, do Código Penal, não configura bis in idem, nem se reveste de traços de um direito penal do autor.
+ ..
+Finalmente, a pena foi tornada definitiva, pois ausentes quaisquer majorantes ou minorantes.
+Ressalte-se que houve um erro material na r. sentença. Na sua fundamentação, a Magistrada de primeiro grau aduziu que reconhecia a tentativa e que minorava em 1/3 (um terço) a reprimenda do apelante.
+Todavia, a incidência do artigo 14, inciso II, do Código Penal, além de incompatível com as características inerentes ao presente caso, também não produziu quaisquer efeitos sobre a pena e não foi transposta ao dispositivo.
+Assim, apenas corrijo o erro material apontado e anoto que não foram reconhecidas quaisquer causas de aumento ou de diminuição, tendo sido o apelante condenado, justamente, à pena de 02 (dois) anos, 08 (oito) meses e 20 (vinte) dias de reclusão, e ao pagamento de 12 (doze) dias-multa.
+Relativamente ao regime inicial determinado ao apelante para o cumprimento de sua pena, frise-se que ele não faria jus sequer ao semiaberto. Isso porque a fixação deste regime prisional aos reincidentes somente é admitida, nos termos da Súmula nº 269 do Superior Tribunal de Justiça, quando, cumulativamente, (i) forem eles condenados a pena igual ou inferior a quatro anos de reclusão e quando (ii) forem a eles favoráveis as circunstâncias judiciais. Pois bem. No caso em apreço, o apelante somente atendeu ao primeiro requisito, visto que ostenta má conduta social.
+Assim, impossível o abrandamento do regime, pois ele já indevidamente foi beneficiado pela concessão do semiaberto."(fls. 64/67)
+Nesta impetração, a defesa alegaque seria possível a absolvição dopaciente pela atipicidade material da conduta, aplicando-se o princípio da insignificância.
+Afirma que "o réu não ofendeu a integridade física de qualquer pessoa, tratando-se de imputação de crime sem violência ou ameaça; não houve qualquer perigo à sociedade em sua ação, posto que se trata de mero furto; o comportamento foi de pouquíssima reprovabilidade, já que, além do valor da res furtiva não ser elevado, cuida-se de pessoa com condições precárias econômicas e de vida, sendo que, por fim, a lesão jurídica restou inexistente, já que os bens foram recuperados íntegros" (fl. 6).
+Deste modo, requer, a absolvição do paciente.
+Aliminar foi indeferida pordecisão de fls. 71/72.
+Parecer ministerial de fls. 76/77 pela denegaçãoda ordem.
+É o relatório.
+Decido.
+Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ.
+Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Pretende-se, no presente writa absolvição do paciente pela incidência do princípio da insignificância, em razão da alegada atipicidade material da conduta.
+Sobre o tema esta Corte Superior tem seguido o entendimento de que para a aplicação do princípio da insignificância deverão ser observados os seguintes vetores: a) mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) inexpressividade da lesão jurídica e d) reduzido grau de reprovabilidade do comportamento do agente. Tais vetores interpretativos encontram-se expostos de forma analítica no HC 84.412, Rel. Min. CELSO DE MELLO, SEGUNDA TURMA, julgado em 19/10/2004, DJ 19.11.2004.
+No julgamento do HC 123.108/MG, Rel. Ministro ROBERTO BARROSO, TRIBUNAL PLENO, julgado em 3/8/2015, DJe 1/2/2016 essas balizas foram revisitadas, conforme acórdão assim ementado:
+PENAL. PRINCÍPIO DA INSIGNIFICÂNCIA. CRIME DE FURTO SIMPLES. REINCIDÊNCIA.
+1. A aplicação do princípio da insignificância envolve um juízo amplo ("conglobante"), que vai além da simples aferição do resultado material da conduta, abrangendo também a reincidência ou a contumácia do agente, elementos que, embora não determinantes, devem ser considerados.
+2. Por maioria, foram também acolhidas as seguintes teses: (i) reincidência não impede, por si só, que o juiz da causa reconheça a insignificância penal da conduta, à luz dos elementos do caso concreto; e (ii) na hipótese de o juiz da causa considerar penal ou socialmente indesejável a aplicação do princípio da insignificância por furto, em situações em que tal enquadramento seja cogitável, eventual sanção privativa de liberdade deverá ser fixada, como regra geral, em regime inicial aberto, paralisando-se a incidência do art. 33, § 2º, c, do CP no caso concreto, com base no princípio da proporcionalidade.
+3. No caso concreto, a maioria entendeu por não aplicar o princípio da insignificância, reconhecendo, porém, a necessidade de abrandar o regime inicial de cumprimento da pena.
+4 Ordem concedida de ofício, para alterar de semiaberto para aberto o regime inicial de cumprimento da pena imposta ao paciente.
+(HC 123.108/MG, Rel. Ministro ROBERTO BARROSO, TRIBUNAL PLENO, DJe 1/2/2016)
+No caso concreto, constata-se que o acórdão atacado apontou circunstâncias concretas idôneas para afastar a possibilidade de aplicação do benefício, destacando que a conduta típica não se limita ao simples valor material do bens subtraídos, mas também ao fato de que o paciente "praticava habitualmente o delito de furto, demonstrando, realmente, fazer da criminalidade o seu meio de vida" (fl. 64).
+A esse respeito, confiram-se:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.INADMISSIBILIDADE. CRIME DE FURTO TENTADO QUALIFICADO. HABITUALIDADE DELITIVA. REINCIDÊNCIA ESPECÍFICA EM CRIMES CONTRA O PATRIMÔNIO.PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REGIME PRISIONAL SEMIABERTO. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. A aplicação do princípio da insignificância, segundo a orientação do Supremo Tribunal Federal, demanda a verificação da lesividade mínima da conduta, apta a torná-la atípica, considerando-se: a) a mínima ofensividade da conduta do agente; b) a inexistência de periculosidade social na ação; c) o reduzido grau de reprovabilidade do comportamento; e d) a inexpressividade da lesão jurídica provocada. O Direito Penal não deve ocupar-se de condutas que, diante do desvalor do resultado produzido, não representem prejuízo relevante para o titular do bem jurídico tutelado ou para a integridade da própria ordem social.
+3. A habitualidade criminosa do réu, representada na reincidência específica em crimes contra o patrimônio evidencia a acentuada reprovabilidade do comportamento, situação incompatível com a aplicação do princípio da insignificância.
+4. Em condenação inferior a 4 anos de reclusão, o reconhecimento da reincidência específica justifica a fixação de regime inicial semiaberto para o cumprimento da pena.
+5. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+6. Agravo regimental desprovido.
+(AgRg no HC 639.147/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA,DJe 28/06/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. DECISÃO MONOCRÁTICA. FURTO QUALIFICADO TENTADO. PLEITO DE RECONHECIMENTO DA ATIPICIDADE DA CONDUTA COM BASE NA APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA.INAPLICABILIDADE. RÉU PORTADOR DE REINCIDÊNCIA EM CRIME DE MESMA NATUREZA COM HISTÓRICO DE CRIMES PATRIMONIAIS. PRECEDENTES.INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.
+decisão vergastada pelos próprios fundamentos.
+II - Na hipótese, o princípio da insignificância foi afastado pela reincidência ostentada pelo paciente e pelo seu histórico na prática de crimes patrimoniais.
+III - É pacífico o entendimento desta Corte no sentido de que a prática do delito de furto qualificado por escalada, por arrombamento ou rompimento de obstáculo, por concurso de agentes, ou por ser o paciente reincidente ou possuidor de maus antecedentes, indica a reprovabilidade do comportamento a afastar a aplicação do princípio da insignificância.
+IV - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido.
+(AgRg no HC 655.749/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 25/05/2021).
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO SIMPLES. HABITUALIDADE DELITIVA. REINCIDÊNCIA E MAUS ANTECEDENTES.PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. REGIME INICIAL.INOVAÇÃO RECURSAL. AGRAVO PARCIALMENTE CONHECIDO E, NA PARTE CONHECIDA, DESPROVIDO.
+1. O "princípio da insignificância" - que deve ser analisado em conexão com os postulados da fragmentariedade e da intervenção mínima do Estado em matéria penal - tem o sentido de excluir ou de afastar a própria tipicidade penal, examinada na perspectiva de seu caráter material.  ..  Tal postulado - que considera necessária, na aferição do relevo material da tipicidade penal, a presença de certos vetores, tais como (a) a mínima ofensividade da conduta do agente, (b) nenhuma periculosidade social da ação, (c) o reduzidíssimo grau de reprovabilidade do comportamento e (d) a inexpressividade da lesão jurídica provocada - apoiou-se, em seu processo de formulação teórica, no reconhecimento de que o caráter subsidiário do sistema penal reclama e impõe, em função dos próprios objetivos por ele visados, a intervenção mínima do Poder Público." (STF, HC 84.412/SP, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJ 19/11/2004).
+2. A Quinta Turma reconhece que o princípio da insignificância não tem aplicabilidade em casos de reiteração da conduta delitiva, salvo excepcionalmente, quando demonstrado ser tal medida recomendável diante das circunstâncias concretas.
+3. Evidenciado que o recorrente, além de ser reincidente específico, é possuidor de maus antecedentes (e, ainda, em poucos dias praticou dois delitos contra o patrimônio em face da mesma vítima), resta demonstrada a habitualidade delitiva do réu, o que afasta, por consectário, a incidência do princípio da bagatela.
+4. Não há que se falar em atipicidade material da conduta, já que evidenciada a habitualidade delitiva do réu, o que afasta o reduzido grau de reprovabilidade ou a mínima ofensividade da conduta, além de demonstrar o seu desprezo sistemático pelo cumprimento do ordenamento jurídico.
+5. Teses omissas nas razões do recurso especial não podem ser conhecidas em sede de agravo regimental, por configurar inovação recursal.
+6. Agravo regimental parcialmente conhecido e, nessa parte, desprovido.
+(AgRg no AREsp 1.803.543/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 10/05/2021).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
