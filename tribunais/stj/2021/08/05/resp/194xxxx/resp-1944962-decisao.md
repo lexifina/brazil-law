@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TJMG, assim ementado (fls. 892):
+EMENTA: APELAÇÃO CÍVEL  INSTITUIÇÃO DE ENSINO PRIVADO - FIES - REAJUSTE DE MENSALIDADE - INOBSERVÂNCIA DO TETO ESTIPULADO PELO FNDES E MEC - REPETIÇÃO DO INDÉBITO  MÁ-FÉ - NÃO CONFIGURAÇÃO - DANOS MORAIS - MEROS ABORRECIMENTOS. As instituições de ensino superior que tenham efetuado adesão ao FIES se submetem às condições e aos limites de reajustamento das mensalidades impostos pelos atos governamentais.São indevidos os valores cobrados pelas instituições financeiras diretamente do aluno referentes a diferenças entre o valor da mensalidade e a quantia repassada pelo FIES!MEC. A repetição em dobro dos valores efetivamente cobrados a maior depende de prova da má-fé por parte do credor. O dano extrapatrimonial é aquele decorrente de situação capaz de lesar determinado interesse existencial tutelado juridicamente. Os meros dissabores cotidianos não são aptos a ensejar a reparação por danos morais.
+O recorrente discorrerepisando os argumentos anteriormente expendidos. Defende, em síntese, que "os Recorridos devem arcar com o pagamento de eventuais diferenças verificadas entre o valor da mensalidade cobrada e aquele acobertado pelo agente financiados, pelo que se mostra totalmente legítima a cobrança dos valores remanescentes levada a efeito pelo Recorrente, atentando contra o disposto no artigo 1º da Lei nº 9.870/1999." (fls. 927).
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 950.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+Inicialmente, verifica-se queo recurso especial contém alegações genéricas, imprecisas no que diz respeito a suposta violação do artigo.É dizer, o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido, situação que impede a exata compreensão da controvérsia deduzida.
+Além disso,o dispositivo indicado como malferido não contém comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido.
+E ainda que assim não fosse, a Corte de origem sobre a controvérsia posta nos autos, assim se manifestou (fls. 901/902):
+As negociações sobre os reajustes de mensalidades e limites estipulados pelo Governo devem se dar entre as instituições de ensino e o MEC/FNDE, não se podendo repassar qualquer diferença aos alunos, conforme já decidido por esta Câmara no Agravo deInstrumento 1.0439.16.014115Q/j de Relatoria do Des. Manoel dos Reis Morais.
+Registre-se, por fim, que o citado contrato de adesão de aditamento FIES, no qual diz-se existir previsão da cobrança da diferença decorrente do percentual de financiamento estabelecido no contrato e o valor total do encargo educacional praticado pela lES no âmbito do FIES, não foi juntado ao autos. Ademais, mesmo que juntado, não se aplicaria ao caso, tendo em vista que o financiamento abarca a integralidade do semestre.
+Mostra-se acertada, assim, a sentença que declarou ilegal a cobrança diretamente dos alunos, pela ré, da diferença entre o valor da mensalidade reajustada e aquele acobertado pelo FIES, através do FNDE (Fundo Nacional de Desenvolvimento da Educação).
+Assim, tem-se que a revisão da conclusão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos e de cláusulascontratuais,o que é vedado no âmbito do recurso especial. Incide ao caso asSúmulas 5 e 7/STJ.
+Ante o exposto, não conheço orecurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.REAJUSTE DE MENSALIDADE.DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL E AUSÊNCIA DE COMANDO NORMATIVO NODISPOSITIVO. SÚMULA 284/STF. RECURSO NÃO CONHECIDO.
