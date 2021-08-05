@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo interposto contra a decisão que inadmitiu o processamento do Recurso Especial em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, cuja ementa assim estabelece:
+APELAÇÃO Mandado de segurança preventivo ICMS Importação "por conta e ordem de terceiro" Pretensão de compelir a autoridade coatora a se abster de inscrever em dívida ativa débitos tributários constantes do AIIM"s Segurança denegada Nulidade de sentença Inocorrência Decisão devidamente motivada - Exame de todos os pontos controvertidos e exposição dos fundamentos do resultado do julgamento Pretensão de inversão do julgamento Impossibilidade - Tributo devido no Estado em que localizado o destinatário jurídico da operação, ainda que o desembaraço tenha ocorrido por meio de ente federativo diverso Ato administrativo que goza de presunção de legalidade e veracidade - Ausência, na hipótese, de direito líquido e certo Precedentes Rejeição da matéria preliminar - Não provimento da apelação.
+Os embargos de declaração foram rejeitados.
+Nas razões de recurso especial, fundamentado no artigo 105, III, a, do permissivo constitucional, o recorrente alega a violação aos artigos 535 do CPC/1973, 11, I, "d", da Lei Complementar 87/1996, 1614, § 1º, do CTN, o Convênio 36/2010 e ao Protocolo ICMS 23/2009, ao sustentar em síntese: (i) a omissão do acórdão recorrido, ante a rejeição dos embargos de declaração; (ii) a ilegitimidade do Estado de São Paulo para exigir o ICMS decorrente da importação de bens e mercadorias desembaraçadas nos portos localizados nos Estados de Santa Catarina, Paraná e Espírito do Santo; (iii) a ilegalidade da fixação da taxa de juros de mora imposta pelo Estado de São Paulo.
+Contrarrazões ao Recurso Especial às fls. 1.367/1.381 (e-STJ).
+Em decisão interlocutória, o Tribunal de origem inadmitiu o processamento do apelo especial, após o retorno destes autos à origem, conforme se extrai na decisão colacionada às fls. 1.529/1.532 (e-STJ).
+Da sobredita decisão, a parte interpôs Agravo em Recurso Especial.
+Contraminuta ao Agravo em Recurso Especial às fls. 1.633/1.637 (e-STJ).
+É o necessário relatar.
+Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC ".
+Verifico, inicialmente, que a questão jurídica objeto do presente recurso consiste em determinar qual o Estado da Federação é o titular do ICMS no caso de importação de mercadorias: se o Estado onde se encontra o estabelecimento em que se dá a entrada física da mercadoria, ou se o Estado onde ocorre o desembaraço aduaneiro.O referido tema, foi solucionado no julgamento do Recurso Extraordinário com Agravo nº 665.134/MG, proferido pelo Supremo Tribunal Federal, cuja ementa assim assevera:
+O sujeito ativo da obrigação tributária de ICMS incidente sobre mercadoria importada é o Estado-membro no qual está domiciliado ou estabelecido o destinatário legal da operação que deu causa à circulação da mercadoria, com a transferência de domínio.
+Perscrutar o enquadramento da tese exposta pelo recorrente ao tema julgado em recurso extraordinário sob repercussão geral é de competência do Supremo Tribuanal Federal, sobretudo porque envolve a exegese do artigo 155, § 2º, IX, da Constituição Federal. Nesse sentido, não prospera o conhecimento da tese exposta neste apelo especial, sob pena de usurpar a competência da Excelsa Corte.
+Quanto à preliminar de ofensa ao artigo 535 do CPC/1973, impende registrar que não caracteriza omissão ou falta de fundamentação a adoção de posicionamento contrário ao interesse da parte. Saliente-se, ademais, que o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como de fato ocorreu na hipótese dos autos.
+Assim, a alegada violação do artigo 535 do CPC não se efetivou no caso dos autos, uma vez que não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de tornar nula a decisão impugnada no especial, porquanto a Corte de origem apreciou a demanda de modo suficiente, havendo se pronunciado acerca de todas as questões relevantes, apenas adotando entendimento contrário aos interesses da parte recorrente.
+A propósito:
+PROCESSO CIVIL. PREVIDENCIÁRIO. APOSENTADORIA ESPECIAL.ART. 535 DO CPC. OMISSÃO. INOCORRÊNCIA. LABOR RURAL.COMPROVAÇÃO. REEXAME DE MATÉRIA FÁTICA. SÚMULA N. 7/STJ.
+1. Não constitui omissão do acórdão a conclusão diversa daquela defendida pelo agravante tirada das provas apresentadas nos autos, não havendo como se reconhecer a violação ao artigo 535 do Código de Processo Civil.
+2. Decidir de forma contrária, a entender pela caracterização do labor rural, demandaria necessário revolvimento de matéria fática, o que é obstado, na via especial, a teor da Súmula n. 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 207.252/RN , Segunda Turma, Relator Ministro Castro Meira, DJe 4/2/2013)
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO AO ART. 535 DO CPC.OMISSÃO. INOCORRÊNCIA. ISS. DESCONTO. BASE DE CÁLCULO.EXAME DE LEI LOCAL. SÚMULA 280 DO STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. HONORÁRIA SUCUMBENCIAL. PEDIDO DE REDUÇÃO. REVISÃO DE PROVAS.SÚMULA 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO E DE INDICAÇÃO DO DISPOSITIVO INTERPRETADO DE MODO ALEGADAMENTE DÍSPAR. SÚMULA 284D O STF.
+1. Não ocorre ofensa ao art. 535, II, do Código de Processo Civil se o tribunal de origem decide, fundamentadamente, as questões essenciais ao julgamento da lide, apenas não adotando a tese invocada pela recorrente.
+ ..  6. Recurso especial não conhecido.
+(REsp 1.412.951/PE, Relatora Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 21/11/2013, DJe 25/11/2013)
+Por seguinte, o recorrente alega que a taxa moratória definida pelo Estado de São Paulo é ilegal, nos termos da disposição do artigo 161, § 1º, do CTN.
+Com efeito, a pretensão recursal de se avaliar a legalidade de lei estadual demanda necessariamente a análise da Lei estadual n. 13.918/2009, o que é inviável em sede especial em virtude da vedação prevista na Súmula 280/STF, segundo a qual "Por ofensa a direito local não cabe recurso extraordinário".
+Ilustrativamente:
+PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. ICMS. PARCELAMENTO. ADESÃO AO PLANO DE PARCELAMENTO INCENTIVADO (PPI). NECESSIDADE DE GARANTIA. INTERPRETAÇÃO DE DIREITO LOCAL.IMPOSSIBILIDADE. SÚMULA 280/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+No tocante aos temas relacionados a Lei estadual n. 13.918/2009, o recurso não ultrapassa a barreira do conhecimento. Isso porq ue é inviável o exame de lei local em recurso especial, incidindo, por analogia, a Súmula 280/STF.
+(AgRg no AREsp 102.710/SP, Rel. MINISTRO TEORI ALBINO ZAVASCKI, julgado em 21/6/2012, DJe 2/8/2012)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO N. 2/STJ. OFENSA AO ARTIGO 535 DO CPC/1973. NÃO CARACTERIZAÇÃO. ICMS. IMPORTAÇÃO INDIRETA.SUJEITO ATIVO. ESTADO ONDE SITUADO O ESTABELECIMENTO IMPORTADOR. REPERCUSSÃO GERAL. TEMA DE COMPETÊNCIA DO STF. TAXA DE JUROS. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGO-LHE PROVIMENTO
