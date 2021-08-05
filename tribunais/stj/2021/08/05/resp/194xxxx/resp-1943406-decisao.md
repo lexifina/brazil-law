@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por SPE RESIDENCIAL PARQUE DOS IPÊS II EMPREENDIMENTOS IMOBILIÁRIOS LTDA., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"COMPRA E VENDA DE IMÓVEL - RESILIÇÃO DE CONTRATO CUMULADA COM RESTITUIÇÃO DE VALORES - Autora que pleiteia a desistência do negócio - Contrato de compra e venda com pacto adjeto de alienação fiduciária - Possibilidade de resilição do contrato, considerando que a alienação fiduciária não foi registrada na matrícula imobiliária - Registro imobiliário que constitui requisito para a constituição da propriedade fiduciária, nos termos do art. 23 da Lei nº 9.514/97 - A falta do registro faz prevalecer apenas o vínculo obrigacional entre as partes, não constituindo a garantia estabelecida na referida Lei - Natureza jurídica do negócio entabulado entre as partes caracterizado como mero compromisso de compra e venda - Precedentes do c. STJ - Restituição de valores pagos, com retenção de 15% em favor da vendedora - Manutenção - Súmula 01-TJSP - Impossibilidade de retenção das arras, considerando a natureza confirmatória do valor correspondente - Sentença reformada unicamente para fixar o trânsito em julgado como termo inicial dos juros de mora incidentes sobre os valores a serem restituídos à autora - Tese consolidada no REsp 1.740.911-DF, julgado pelo rito dos recursos repetitivos - RECURSO PARCIALMENTE PROVIDO" (fl. 163 e-STJ).
+Os embargos declaratórios opostos foram rejeitados (fls. 285/286 e-STJ).
+Nas razões recursais (fls. 180/197 e-STJ), a recorrente apontaviolação dos arts. 26 e 27 da Lei nº 9.514/1997, bem como divergência jurisprudencial.
+Sustenta, em síntese, que
+"(..)para que seja realizada a rescisão do contrato e a devolução dos valores despendidos pela recorrida, é de rigor a observância das regras previstas nos artigos 26 e 27 da referida lei.
+O fato de não ter havido registro da garantia na matrícula do imóvel, não inviabiliza a aplicação da lei, de modo que o contrato, nesta hipótese, faz lei entre as partes, e o registro visa apenas dar publicidade à terceiros da garantia instituída.
+(..)
+(..) em momento algum o contrato firmado prevê que os adquirentes percam a totalidade dos valores pagos, mas tão somente que a rescisão ocorrerá com a consolidação da propriedade em nome da recorrente, ao passo que a restituição à recorrida se dará por meio do valor que sobejar a venda do imóvel no leilão.
+(..)
+(..) considerando que (i) há previsão legal específica para a rescisão do contrato e devolução de valores pagos; (ii) os artigos do CDC não se aplicam ao caso dos autos; (iii) a ausência de registro não impede a aplicação da Lei, e (iv) o interesse de rescindir o contrato equivale à mora, levando os recorridos à situação de inadimplência; de rigor o provimento do recurso especial para reconhecer a violação aos artigos 26 e 27 da Lei 9.514/97, determinando-se, a reforma do v. acordão recorrido, para o fim de aplicar, nesta fase, a Lei de Alienação Fiduciária e julgar a ação improcedente" (fls. 184/185 e-STJ).
+Contrarrazões às fls. 290/315 (e-STJ).
+O recurso foi admitido às fls. 365/368 (e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Eis a letra da sentença e do acórdão recorrido, ora transcritos, respectivamente,no que interessa à espécie:
+"(..)
+São os adquirentes quem formulam a desistência do negócio e o desfazimento do contrato acarreta o retorno das partes ao estado anterior, cuja retenção de parte do valor pago é permitida pelo Código de Defesa do Consumidor, que veda a perda total.
+A retenção se faz necessária para a recomposição dos prejuízos resultantes do rompimento do contrato. (..)
+As cláusulas contratuais se mostraram abusivas e contrárias ao disposto no art. 51, IV, do CDC, em especial porque impõe o desconto de grande parte do valor pago a título de indenização e ressarcimento pelas despesas que incorreu com a venda, título de corretagem, publicidade, tributos, custas administrativas e judiciais, além de honorários advocatícios. Vale ressaltar que não houve a efetiva ocupação da unidade, nem foram demonstrados prejuízos superiores aos esperados nestas contratações, sendo certo que com o desenvolvimento da obra, o valor da unidade se valoriza.
+Mas um ponto é necessário consignar. A decisão da resilição unilateral foi em momento de crise financeira, cuja dificuldade de revenda do imóvel é maior. Desse modo, a retenção no percentual de 15% sobre o valor adimplido é suficiente para compensar os prejuízos havidos com a desistência do negócio" (fl. 98 e-STJ).
+"(..) é incontroverso que a resilição contratual foi causada por desistência da compradora, motivada pelas dificuldades financeiras em prosseguir com o negócio. Não se vislumbra, portanto, que a ré tenha logrado com culpa pela extinção da relação jurídica.
+No entanto, no caso específico dos autos, não se há falar da impossibilidade de resilição da avença por terem as partes celebrado contrato com pacto de alienação fiduciária em garantia.
+Isto porque o registro do instrumento particular perante o Cartório de Registro de Imóveis constitui um dos requisitos essenciais para a constituição da propriedade fiduciária.
+(..)
+No caso dos autos, consoante documento de fl. 38, nota-se que o instrumento celebrado entre as partes não foi levado a registro na matrícula do imóvel objeto de discussão, de modo que inaplicáveis as disposições da referida Lei. E a providência do registro, ao contrário do que entende a ré, compete ao credor, em favor de quem recai a propriedade fiduciária, até que a dívida seja quitada.
+(..)
+Possível, assim, a resilição da compra e venda e a restituição, ainda que parcial, dos valores pagos pela compradora, pois a falta do registro faz prevalecer apenas o vínculo obrigacional entre as partes, não constituindo a garantia estabelecida na referida Lei. Logo, a natureza jurídica do negócio entabulado entre as partes fica caracterizada como mero compromisso de compra e venda" (fls. 165/166 e-STJ).
+Tal posicionamento diverge da jurisprudência desta Corte Superior, firmada no sentido de que a quitação da dívida deve se dar na forma dos arts. 26 e 27 da Lei nº 9.514/1997 no caso de inadimplemento do devedor em contrato de alienação fiduciária em garantia de bens imóveis, não incidindo as regras previstas no Código de Defesa do Consumidor.
+Confiram-se:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL COM DEVOLUÇÃO DE VALORES. CÓDIGO DE DEFESA DO CONSUMIDOR. INAPLICABILIDADE. ARTS. 26 E 27 DA LEI 9.514/97. NORMA ESPECIAL QUE PREVALECE SOBRE O CDC. AGRAVO NÃO PROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça já firmou entendimento de que, ocorrendo o inadimplemento de devedor em contrato de alienação fiduciária em garantia de bens imóveis, a quitação da dívida deverá observar a forma prevista nos arts. 26 e 27 da Lei 9.514/97, por se tratar de legislação específica, o que afasta, por consequência, a aplicação do art. 53 do CDC. Precedentes.
+2. Agravo interno desprovido"(AgInt no REsp 1.848.934/SP, Rel. Ministro RAUL ARAÚJO, Quarta Turma, julgado em 11/5/2020, DJe 25/5/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE RESTITUIÇÃO DE VALORES C/C INDENIZAÇÃO POR BENFEITORIAS. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. CONTRATO DE COMPRA E VENDA DE IMÓVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. CÓDIGO DE DEFESA DO CONSUMIDOR, ART. 53. NÃO INCIDÊNCIA.
+1. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+2. A Lei nº 9.514/1997, que instituiu a alienação fiduciária de bens imóveis, é norma especial e também posterior ao Código de Defesa do Consumidor - CDC. Em tais circunstâncias, o inadimplemento do devedor fiduciante enseja a aplicação da regra prevista nos arts. 26 e 27 da lei especial.
+3. Agravo interno não provido"(AgInt no REsp 1.822.750/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 18/11/2019, DJe 20/11/2019).
+Além disso, esta Corte entende que a ausência de registro não gera a invalidade ou a ineficácia do negócio jurídico em relação aos contratantes, conforme se verifica dos seguintes julgados:
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE BUSCA E APREENSÃO. CONTRATO GARANTIDO POR ALIENAÇÃO FIDUCIÁRIA. AUSÊNCIA DE ASSINATURA. MERA IRREGULARIDADE. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. FUNDAMENTO DO TRIBUNAL DE ORIGEM NÃO IMPUGNADO. SÚMULA N. 283 DO STF. REGISTRO DO CONTRATO EM CARTÓRIO DE TÍTULOS E DOCUMENTOS.
+(..)
+3. A jurisprudência desta Corte entende que não é necessário o registro do contrato garantido por alienação fiduciária no Cartório de Títulos e Documentos para que tenha validade e eficácia, uma vez que tal providência tem o intuito apenas de dar ciência a terceiros.
+4. Agravo interno a que se nega provimento"(AgInt nos EDcl no AREsp 206.250/MG, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 4/4/2017, DJe 18/4/2017).
+"RECURSO ESPECIAL. CONTRATO DE ALIENAÇÃO FIDUCIÁRIA. VIOLAÇÃO AO ART. 535 DO CPC. NÃO OCORRÊNCIA. TRADIÇÃO DO VEÍCULO. CONTRATO DE NATUREZA REAL. REQUISITO DE VALIDADE DO NEGÓCIO JURÍDICO. ESCADA PONTEANA. ELEMENTOS ESSENCIAIS DO CONTRATO. NEGLIGÊNCIA DA PARTE AUTORA. MÁ-FÉ DA EMPRESA ALIENANTE. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7/STJ. VEDAÇÃO AO COMPORTAMENTO CONTRADITÓRIO. VALIDADE DO CONTRATO. REGISTRO EM CARTÓRIO. ANOTAÇÃO NO CERTIFICADO DE REGISTRO DO VEÍCULO. NECESSIDADE APENAS PARA PRESERVAR DIREITOS DE TERCEIRO. SÚMULA 83/STJ. MORA DO DEVEDOR. NOTIFICAÇÃO PESSOAL DESNECESSIDADE. ALEGAÇÃO DE VULNERABILIDADE E CABIMENTO DE INVERSÃO DO ÔNUS DA PROVA. SÚMULA 7/STJ. RECURSO NÃO PROVIDO.
+(..)
+5. A exigência de registro do contrato de alienação fiduciária em garantia no cartório de título e documentos e a respectiva anotação do gravame no órgão de trânsito não constitui requisitos de validade do negócio, tendo apenas o condão de torna-lo eficaz perante terceiros.
+(..)
+8. Recurso especial não provido"(REsp 1.190.372/DF, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 15/10/2015, DJe 27/10/2015).
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao tribunal de origem a fim de que proceda a novo julgamento da causa, com a aplicação da legislação específica - arts. 26 e 27 da Lei nº 9.514/1997.
+Publique-se.
+Intime-se.
