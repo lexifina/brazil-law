@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se deagravo interposto por NWS - NEW WIND SOLUTIONS LTDA., contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de NWS - NEW WIND SOLUTIONS LTDA., a parte recorrente foi intimada do acórdão recorrido em 03/12/2020, sendo o recurso especial interposto somente em 28/01/2021.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Ressalte-se que o documento juntado à fl. 340, além de ter sido juntado após a interposição do recurso, não é apto à comprovação de feriado local e/ou suspensão de expediente forense. Conforme jurisprudência desta Corte, os feriados e suspensões devem ser comprovados por meio de documento idôneo,não servindo mera relação de feriados extraídos do site do tribunal (AgInt no AREsp 1521541/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/03/2020; AgInt no AREsp 1514470/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 05/12/2019.)
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
