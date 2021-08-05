@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de MARCOS MARCEL DE SOUZA ou MARCOS MARCIEL DE SOUZA contra acórdão do Tribunal de Justiça do Estado de São Pauloproferido na Apelação Criminal n.0000888-65.2017.8.26.0618.
+Consta nos autos que, em primeiro grau,o Paciente foi condenado às penas de 2 (dois) anos de reclusão, em regime inicial aberto, pela prática do crime previsto no art. 155, § 4.º, inciso II, do Código Penal. A pena privativa de liberdade foi substituída por duas penas restritivas de direitos (fls. 13-22).
+O Ministério Público estadual interpôs recurso de apelação, que foi provido pelo Colegiado local "a fim de fixar o regime inicial semiaberto para cumprimento da pena e afastar a substituição da pena privativa de liberdade por restritivas de direitos, redimensionando as penas de Marcos Marcel de Souza a 2 anos e 8 meses de reclusão, e pagamento de 13 dias-multa, no piso mínimo, por infração ao artigo 155, § 4º, incisos II e IV, do Código Penal" (fls. 44-49).
+Neste writ, aImpetrante sustenta, em suma, que a Corte de origem afastou acircunstância atenuante da confissãopor entendê-la incabível quando se trata de confissãoparcial do delito, o que está em dissonância com a jurisprudência do Superior Tribunal de Justiça.
+Aduz que o regime prisional semiaberto foi fixado de modo inidôneo, pois o Paciente é tecnicamente primário, tendo em vista queas condenações anteriores definitivasutilizadas para caracterizar os maus antecedentes já foramatingidas pelo período depurador.
+Por fim, alega que o Paciente preenche todos os requisitos para a substituiçãoda pena reclusivapor penas restritivas de direitos.
+Requer, em liminar e no mérito, seja aplicada a atenuante da confissão espontânea, fixado o regime prisional aberto e substituída a pena privativa de liberdade por penas restritivas de direitos.
+O pedido liminar foi indeferido (fls. 53-55).
+O Ministério Público Federal opinou pelo denegação da ordem (fls. 66-68).
+É o relatório. Decido.
+O Juízo sentenciante dosou a reprimenda nos seguintes termos (fls. 18-20; sem grifos no original):
+"Na detida análise das circunstâncias do artigo 59, do Código Penal, observa-se que a culpabilidade que consiste na reprovabilidade da conduta mostra-se normal à espécie, nada havendo a se valorar.
+Na aferição dos antecedentes criminais, observo que a folha de antecedentes criminais (fls. 174/177) indica que dois dos processos foram alcançados pelo período depurador de 5 anos, os quais não refletem reincidência, como pacificado na jurisprudência (processo0037529-88.2009.8.26.0050, 0009108-64.2001.8.26.0278).
+Contudo, no entender deste Juízo, mencionados processos configuram maus antecedentes, hábeis à elevação da pena base. ..
+Não há elementos para aferir sua conduta social ou a personalidade do agente. Osmotivos do crime são afetos aos delitos patrimoniais, nada havendo a ser valorado.
+As consequências são naturais à espécie.
+As circunstâncias do crime se encontram relatadas nos autos, sendo incontroverso que o delito foi praticado mediante fraude, razão pela qual deve ser reconhecida a qualificadora prevista no artigo 155, §4.º, inciso II, do Código Penal.
+O comportamento da vítima em nada contribuiu para o delito.
+Assim, partindo do mínimo legal, acresço 1/5 e fixo a pena-base em 2 anos, 4 meses e 24 dias de reclusão e 12 dias-multa.
+Na segunda fase da dosimetria, verifico apenas a presença de uma atenuante: a confissão espontânea.
+Considerando que a Súmula 231 do Superior Tribunal de Justiça impede a redução da pena nesta fase do cálculo da pena a patamar aquém do mínimo legal, diminuo a reprimenda de 1/6, a qual retorna ao valor mínimo de 2 anos de reclusão e 10 dias-multa.
+Ausentes causas de aumento ou de diminuição da pena a serem aferidas na terceira fase da dosimetria, fixo em definitivo a pena em 2 anos de reclusão e 10 dias-multa.
+O regime inicial de cumprimento da pena será o aberto, em conformidade com o artigo 33, §2.º, alínea "c"e §3.º, do Código Penal. Não obstante os maus antecedentes do réu, entendo que as demais circunstâncias do artigo 59, do Código Penal lhe são favoráveis, inclusive o fato de ter confessado a prática delitiva em juízo."
+O Colegiado estadual deu provimento ao recurso ministerial e aplicou a reprimenda com base na seguinte fundamentação (fls. 47-49; sem grifos no original):
+"A qualificadora da fraude foi acertadamente reconhecida pelo magistrado a quo e consistiu em o acusado ludibriar a vítima, prestando-lhe falsa ajuda para realização do depósito, retirando sua atenção e realizando a troca dos envelopes, efetuando assim a subtração. Com relação à qualificadora do concurso de agentes, de rigor o acolhimento do pleito ministerial.  ..
+Dessa forma, de rigor o reconhecimento da majorante prevista no inciso IV, § 4º do artigo 155, do Código Penal.
+Das reprimendas:
+O magistrado a quo fixou a basilar em 1/5 acima do mínimo legal, em razão dos maus antecedentes do réu (fls. 174/177 - processo 0037529-88.2009.8.26.0050, 0009108-64.2001.8.26.0278).
+Contudo, a qualificadora do concurso de agentes, ora reconhecida, deve ser utilizada como circunstância judicial para agravar a pena-base. ..
+Dessa forma, de rigor o acolhimento do inconformismo ministerial, a fim de exasperar a basilar em 1/3 acima do mínimo legal, ou seja, 2 anos e 8 meses de reclusão, além do pagamento de 13 dias-multa, no piso mínimo.
+Na segunda fase, com a devida vênia, a atenuante da confissão espontânea deve ser cassada. Isso porque, a despeito de admitir a prática do delito, Marcos negou o envolvimento do assecla na empreitadacriminosa.
+Dessa forma, por ausentes circunstâncias modificativas, a reprimenda se tornou definitiva em 2 anos e 8 meses de reclusão, e pagamento de 13 dias-multa, no piso mínimo.
+À derradeira, de rigor o acolhimento do pleito ministerial para imposição do regime inicial semiaberto. Verifica-se que o apelante é portador de maus antecedentes (duas condenações pelo crime de furto qualificado com trânsito em julgado), a evidenciar que faz do crime meio de vida e que as condenações anteriores não foram suficientes para reeducá-lo, tanto que persiste na empreitada delitiva, a exigir tratamento severo. Pelos mesmos motivos, incabível a substituição da pena privativa de liberdade por restritiva de direitos."
+Quanto à circunstância judicial dos antecedentes, segundo a orientação desta Corte Superior, as condenações anteriores transitadas em julgado, alcançadas pelo prazo depurador de 05 (cinco) anos previsto no art. 64, inciso I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes. Nesse sentido: HC 567.261/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020; AgRg no HC 572.224/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 19/05/2020, DJe 29/05/2020.
+Referido entendimento foi consolidado peloSupremo Tribunal Federal, que, em sessão de julgamento realizada em 18/08/2020, por ocasião da análise do RE n. 593.818/SC, sob o rito de repercussão geral, firmou a Tese n. 150 - "Não se aplica para o reconhecimento dos maus antecedentes o prazo quinquenal de prescrição da reincidência, previsto no art. 64, I, do Código Penal".
+Assim, não há reparo a ser feito na primeira fase dosimétrica.
+Todavia, no que tange à confissão espontânea, verifico o constrangimento ilegal apontado. De fato, o"Superior Tribunal de Justiça tem entendimento firmado no Enunciado Sumular n. 545, de que a confissão espontânea do réu sempre deve ser reconhecida na segunda fase da dosimetria, ainda que tenha sido parcial, qualificada ou retratada em juízo, se utilizada para fundamentar a condenação" (AgRg no REsp 1.904.290/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/06/2021, DJe 21/06/2021; sem grifos no original).
+Passo, assim, ao redimensionamento da reprimenda.
+Na primeira fase de dosimetria, mantida a majoração em1/3 (um terço) em razão da qualificadora sobressalente(concurso de agentes)e dos maus antecedentes, a pena fica quantificada em2 (dois)anos e 8 (oito)meses de reclusão, e13 dias-multa.
+Na segunda etapa, ausente circunstância agravante e presente a atenuante da confissão espontânea, diminuo a reprimenda em 1/6 (um sexto),ficando a pena estabelecidaem 2 (dois) anos, 2(dois) meses e 20 (vinte) dias de reclusão, e 11 (onze) dias-multa.
+Na terceira fase, ausente causa de diminuiçãoe de aumento, estabeleço, definitivamente,a sanção penal em 2 (dois) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, e 11 (onze) dias-multa,no piso mínimo.
+Considerando a existência de circunstâncias judiciais desfavoráveise a quantidade de pena fixada, fica mantido o regime inicial semiaberto, nos termos do art. 33, §§ 2.º e 3.º, do Código Penal.
+Não é cabível a substituição da pena privativa de liberdade por penas restritivas de direitos, porquanto não está preenchido o requisito contido no art. 44, inciso III, do Código Penal, em razão dos maus antecedentes do Agente.
+Ante o exposto, CONCEDO PARCIALMENTE a ordem dehabeas corpus a fim de redimensionar a sanção penal para 2 (dois) anos, 2 (dois) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto,e 11 (onze) dias-multa, no piso mínimo.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. FURTO QUALIFICADO. DOSIMETRIA. CONDENAÇÃO DEFINITIVA ANTERIOR ALCANÇADA PELOPERÍODO DEPURADOR. MAUS ANTECEDENTES. POSSIBILIDADE.ENTENDIMENTO CONSOLIDADO PELO SUPREMO TRIBUNAL FEDERAL. CONFISSÃO PARCIAL. ATENUANTE. SÚMULA N. 545/STJ. REGIME SEMIABERTO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. SUBSTITUIÇÃO DA PENA RECLUSIVA POR PENAS RESTRITIVAS. IMPOSSIBILIDADE. ART. 44, INCISO III, DO CÓDIGO PENAL. ORDEM DE HABEAS CORPUSPARCIALMENTE CONCEDIDA.
