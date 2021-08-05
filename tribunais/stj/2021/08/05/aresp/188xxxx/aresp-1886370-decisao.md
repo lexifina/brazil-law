@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Instituto Nacional do Seguro Socialcontra inadmissão, na origem, de recurso especial que ataca acórdão do Tribunal Regional Federal da 3ªRegião, assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. AUXÍLIO-DOENÇA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO COMPROVADOS. TERMO INICIAL. JUROS E CORREÇÃO MONETÁRIA. MANUAL DE CÁLCULOS NA JUSTIÇA FEDERAL. HONORÁRIOS DE ADVOGADO.
+1. Qualidade de segurado e carência comprovados pelo extrato CNIS. Laudo médico pericial e demais documentos do conjunto probatório indicam a existência de incapacidade, com restrição para a atividade habitual. Auxílio doença concedido.
+2. Juros e correção monetária pelos índices constantes do Manual de Orientação para a elaboração de Cálculos na Justiça Federal vigente à época da elaboração da conta, observando-se, em relação à correção monetária, a aplicação do IPCA-e em substituição à TR - Taxa Referencial, consoante decidido pelo Plenário do Supremo Tribunal Federal no RE nº 870.947, tema de repercussão geral nº 810, em 20.09.2017, Relator Ministro Luiz Fux.
+3. Havendo requerimento administrativo em 02/01/2014, este é o termo inicial do benefício.
+4. Honorários de advogado corretamente fixados em 10% do valor da condenação, consoante o entendimento desta Turma e o disposto §§ 2º e 3º do artigo 85 do Código de Processo Civil/2015, considerando as parcelas vencidas até a data da sentença, nos termos da Súmula nº 111 do Superior Tribunal de Justiça.
+5. Apelação do INSS não provida. Apelação da parte autora parcialmente provida. Sentença corrigida de ofício.
+Os embargos declaratórios opostos pelorecorrente foram rejeitados.
+Em razões de recurso especial manejado com fulcro naalínea"a"do permissivo constitucional, aponta o INSS violaçãoaos artigos60, §§8º e 9º, da Lei 8.213/91;71da Lei 8212/91.
+Defende que "uma vez proferida decisão judicial - provisória ou definitiva - sem a fixação do prazo estimado de recuperação que permita a definição da DCB, vale a regra de direito material que estabelece a duração inicial de 120 dias para o auxílio-doença, com possibilidade de o segurado requerer a prorrogação do benefício. E não há que se falar em invasão do âmbito jurisdicional pelo legislador, na medida em que a regra positivada não impede a concessão de tutela provisória. O que ocorre é que, no caso do auxílio-doença, o objeto desta tutela é um benefício previdenciário de , que possui um prazo inicial de duração, não obstante a natureza temporária possibilidade de sua prorrogação".
+Pleiteia o provimento do recurso para "que seja afastada a necessidade de realização de perícia médica, salvo de houver pedido de prorrogação do segurado".
+Contrarrazões apresentadas defendendo a manutenção do acórdão..
+A inadmissão do recurso especial se fez com fundamento naSúmula83/STJ.
+Nas razões de agravo, o agravante postula o processamento do recurso especial, defendendo a sua viabilidade.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ.
+Preenchidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+A autora, ora recorrida, ajuizou ação em desfavor do INSS pleiteando a concessão do beneficio da aposentadoria por invalidez ou, subsidiariamente, pela concessão do beneficio do auxilio-doença.A sentença (ID 89622468), proferida em 25/11/2014, julgou procedente o pedido, condenando o réu à concessão do benefício de auxílio doença, com DIB fixada na data da perícia médica até a cessão de sua incapacidade.A parte autora apelourequerendo a fixação do termo inicial do benefício na data do requerimento administrativo; alteração dos critérios de juros de mora e correção monetária e majoração da verba honorária. Apelouo INSS pugnando pela reforma da sentença, alegando para tanto que a parte autora não possui qualidade de segurada, sendo indevido o benefício. Subsidiariamente, pede a reforma da sentença no tocante à correção monetária. O apelodo ora agravante foi improvido; o apelo da autora foi parcialmente acolhido,para fixar o termo inicial do benefício na data do requerimento administrativo e, de ofício, corrijo a sentença para fixar os critérios de atualização do débito.
+Com efeito,da leitura do inteiro teor do aresto recorrido verifica-se ausência de manifestação da Corte de origem sobre a tese recursal com enfoque nos dispositivos legais tido por violados. Incidência do óbice da Súmula 211/STJ.
+Ademais, resta patente que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283/STF e 284/STF, as quais dispõem, respectivamente: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia".
+Confira-se:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. DECISÃO DE ADMISSIBILIDADE. ACÓRDÃO RECORRIDO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. RAZÕES DISSOCIADAS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 283 E 284 DO STF.
+1. Inadmissível o recurso especial, quando a parte recorrente não impugna, de forma específica, os fundamentos do acórdão recorrido, apresentando razões dissociadas da motivação do julgado, como ocorreu na hipótese dos autos.
+2. Incide à espécie, por analogia, os enunciados das Súmulas 283 e 284/STF. Precedentes do STJ.
+3. Agravo interno a que se nega provimento.(AgInt no AREsp 1671555/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios visto que não houve prévia fixação pelo Tribunal a quo.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. AUSÊNCIA DE PREQUESTIONAMENTO.SÚMULA 211/STJ.RAZÕES DISSOCIADAS. SÚMULAS283/STF E 284/STF.AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
