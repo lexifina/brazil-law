@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se dehabeas corpusajuizado em nome deALTAIR TOMAZ DA ROSA JUNIOR,condenado pela prática do delito descrito no art. 33,caput, da Lei n. 11.343/2006, e no art. 16, § 1º, IV, da Lei n. 10.826/2003, à pena de 8 anos de reclusão (Processo n.1500957-75.2020.8.26.0599, da 2ª Vara da comarca de Monte Mor/SP),apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Alega-seconstrangimento ilegal consistente em negativa de aplicação da causa de diminuição da pena do tráfico privilegiado (art. 33, § 4º, da Lein. 11.343/2006). Aponta-seque o paciente é primário, possuidor de bons antecedentes eque não se dedica a atividade criminosa.
+Requer-se, então, a concessão da ordem para reduzir a pena do paciente, com a incidência da causa de diminuição prevista no art. 33, § 4º, da Lei n. 11.343/2006, assim como para estabelecer regime inicial de cumprimento de pena diverso do fechado.
+A liminar foi indeferida às fls. 64/65.
+Prestadas as informações (fls. 68/89), o Ministério Público Federal manifestou-se nos termos da seguinte ementa (fl. 91):
+HABEAS CORPUS. TRÁFICO. QUANTIDADE DA DROGA, ISOLADAMENTE, NÃO JUSTIFICA O INDEFERIMENTODA REDUTORA PREVISTA NO ART. 33, § 4º, DA LEI Nº11.343/06. POSSIBILITA, TODAVIA, QUE SEJA UTILIZADACOMO FUNDAMENTO PARA DETERMINAR O QUANTUM DE DIMINUIÇÃO. FIXAÇÃO DE REGIME PRISIONAL INICIAL MAIS RIGOROSO COM BASE NA QUANTIDADE DE DROGA APREENDIDA. POSSIBILIDADE. PELA CONCESSÃO PARCIAL DA ORDEM.
+É o relatório.
+O writ comporta parcial acolhimento.
+Na hipótese dos autos, o Tribunal de origem consignou o seguinte (fl. 50/52 - grifo nosso):
+Foram as penas de partida corretamente balizadas no mínimo legal, porquanto favoráveis os critérios norteadores do artigo 59, do Código Penal.
+Ao depois, na segunda etapa, inexistiram quaisquer circunstâncias agravantes e atenuantes que devessem ser consideradas.
+ ..
+Na terceira e última fase da dosagem, não era mesmo o caso de reconhecimento da causa especial de diminuição de pena contida no artigo 33, § 4º, da Lei de Drogas.
+Isto porque, apesar de primário e sem antecedentes criminais, a considerável quantidade de droga apreendida obstava o reconhecimento do aludido redutor, pois não é suficiente o mero preenchimento objetivo dos requisitos preconizados no aludido dispositivo legal primariedade, bons antecedentes e não dedicação às atividades criminosas ou participação em organização criminosa para que seja declarado o direito à diminuição da pena.
+Há, também, necessidade da fiel observância do artigo 42, da Lei nº 11.343/06, que estabelece que a natureza e a quantidade da substância ou produto entorpecente devem ser consideradas, com preponderância, sobre o que dispõe o artigo 59,do Código Penal, permitindo, por isso mesmo e por antítese ao primeiro dispositivo (artigo 42), até mesmo a negativa da redução.
+Assim, além das circunstâncias pessoais favoráveis (artigo 59, do CP) e por oposição à regra do artigo 42, da Lei de Drogas, não pode ser excessiva, como na hipótese dos autos, aquantidade de entorpecente apreendida e ilegalmente comercializada, sob pena de inaplicabilidade do redutor em questão.
+Vale lembrar que foram apreendidos, para fins de comércio, 583,44g de maconha (peso líquido fls. 109/111), entorpecente este que poderia ter sido distribuídos a inúmeras pessoas, quiçá crianças e adolescentes, o que constitui, por si só, fator bastante para que não seja considerada como quantia ínfima ou de reduzida potencialidade lesiva.
+Não poderia o apelante, por isso mesmo, ser rotulado de traficante eventual ou ocasional, este, sim, o único alvo da benesse legal criada, ainda que indevidamente, pelo legislador.
+Ao que se tem, a quantidade de entorpecente apreendida foi utilizada como fundamento para indeferir a aplicação da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006).
+Ocorre quea jurisprudência desta Corte está consolidada na linha de que a quantidade e diversidade de drogas, por si sós, não constituem fundamentação suficiente para afastar a incidência do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006(AgRg no HC n. 474.970/SP, de minha relatoria, Sexta Turma, DJe 26/4/2019).
+Ademais,a quantidade de entorpecente apreendida, apesar de não ser fundamento de afastamento da causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), justifica a modulação da fração da minorante. Precedente(AgRg no HC n. 467.377/SP, de minha relatoria, Sexta Turma, DJe 16/3/2020).
+Então, em casos com quantidade similar de entorpecente apreendido, esta Corte Superior aplicou o redutor em 1/3. Nesse sentido: HC n. 427.482/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 24/8/2018; e AgRg no HC 462.289/RS,Ministra Laurita Vaz, Sexta Turma, DJe 11/6/2019).
+Faz-se necessário, assim, o redimensionamento da pena imposta.
+Mantida a pena-base fixada no mínimo legal,ou seja, em 5 anos de reclusão e 500 dias-multa. Na segunda fase, sem alteração. Na terceira fase, aplica-se a causa de diminuição de pena do tráfico privilegiado (art. 33, § 4º, da Lei n. 11.343/2006), na fração de 1/3, totalizando,assim,3 anos e 4 meses de reclusão, e 333 dias-multa.
+Reconhecido o concurso material dos delitos de tráfico de entorpecentes ede posse ilegal de arma de uso restrito, as penas devem ser somadas, totalizando6 anos e 4 meses de reclusão, e pagamento de 343 dias-multa.
+Quanto ao mais,segundo o entendimento do Superior Tribunal de Justiça, nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, para a fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, a eventual existência de circunstâncias judiciais desfavoráveis e, em se tratando dos crimes previstos na Lei n. 11.343/2006, como no caso, deverá levar em conta o estabelecido no art. 42 da Lei n. 11.343/2006 (AgRg no REsp n. 1.401.348/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 6/9/2019). Assim, considerando a elevada quantidade de droga apreendida,deve ser mantido o regime fechado para o início do cumprimento da pena superior a 4 anos de reclusão.
+Não foi outra a opinião do Subprocurador-Geral da RepúblicaHindemburgo Chateaubriand Filhoem seu parecer (fls. 91/92 - grifo nosso):
+Não há, de fato, na fundamentação apresentada, qualquer dado concreto apto justificar o afastamento da causa especial de diminuição de pena do § 4º,do art. 33, da Lei nº 11.343/06, pois a indicação da quantidade de drogas apreendida, isoladamente, sem a expressa referência a circunstâncias concretas adicionais, não justifica o afastamento da minorante (AgRg no AREsp 1746751/SC, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 02/02/2021, DJe 08/02/2021).
+Não se perca de vista, contudo, que a quantidade da droga apreendida (583,44 g de maconha), muito embora não seja fundamento idôneo para, isoladamente, afastar a redutora, pode ser levada em consideração para a determinação da fração de diminuição.
+Nesse sentido:
+ ..
+Por fim, conforme a orientação dessa Corte Superior, a elevada quantidade de drogas apreendidas autoriza a fixação de regime inicial mais rigoroso que o decorrente do quantum da pena imposta (AgRg no HC 648.801/SP, Rel. Ministra Laurita Vaz, Sexta Turma, julgado em 23/03/2021, DJe 05/04/2021).
+Diante do exposto, o Ministério Público Federal manifesta-se pela concessão parcial da ordem.
+Ante o exposto,em consonância com o parecer ministerial,concedo parcialmente a ordem para fixar a reprimenda do paciente em 6 anos e 4 meses de reclusão, além do pagamento de 343 dias-multa,mantido, no mais, o acórdão impugnado (Apelação Criminal n.1500957-75.2020.8.26.0599).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (583,44G DE MACONHA)E POSSE ILEGAL DE ARMA DE FOGO. DOSIMETRIA.APLICAÇÃO DA CAUSA DE DIMINUIÇÃO PREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006.QUANTIDADE DE ENTORPECENTE APREENDIDO. FUNDAMENTO INIDÔNEO PARA AFASTAR A MINORANTE DO TRÁFICO PRIVILEGIADO. FUNDAMENTO IDÔNEO PARA ALTERAR A FRAÇÃO DA MINORANTE. PRECEDENTES. PENA REDIMENSIONADA.FIXAÇÃO DE REGIME PRISIONAL INICIAL MAIS RIGOROSO COM BASE NA QUANTIDADE DE DROGA APREENDIDA. POSSIBILIDADE.CONSTRANGIMENTO ILEGAL CONFIGURADO. PARECER ACOLHIDO.
+Ordem parcialmente concedida nos termos do dispositivo.
