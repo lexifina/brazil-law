@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Banco Votorantim S.A., fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+Apelação cível-ação anulatória-IPVA-alienação fiduciária-prescrição - notificação presumida-ônus do Estado quanto à prova de marco interruptivo - legitimidade passiva do credor fiduciário-responsabilidade solidária pelo pagamento do tributo-Lei Estadual 14.937 de 2003--lançamento de ofício - regularidade-previsão legal-não necessidade de procedimento tributário administrativo-recurso repetitivo no STJ - Tema 903-Tema 685 da repercussão geral STF-não ascendência-sucumbência recíproca-caracterização - primeira apelação a que se nega provimento-segunda apelação a que se dá parcial provimento.
+1-Conforme definido no julgamento do Tema 903, pelo STJ, a notificação do contribuinte para o recolhimento do IPVA perfectibiliza a constituição definitiva do crédito tributário, iniciando-se o prazo prescricional para a execução fiscal no dia seguinte à data estipulada para o vencimento da exação.
+2 - Por força dos art. 4o e art. 5o, inciso I e II da Lei Estadual 14.937, de 2003, bem como art. 121, parágrafo único, inciso II, do Código Tributário Nacional, a instituição financeira credora fiduciária ou arrendadora tem legitimidade para responder pelo não pagamento do IPVA.
+3 - Na forma do artigo 4o, da Lei Estadual 14.937 de 23.12.2003, no caso de alienação fiduciária ou arrendamento mercantil de veículo automotor, o contribuinte do imposto é a proprietária que é a arrendadora do veículo automotor, sendo o responsável solidário o arrendatário.
+4 - Por se tratar de tributo de lançamento de ofício, estabelecido nos termos da Lei Estadual 14.937, de 2003, o IPVA não necessita de procedimento tributário administrativo para a inscrição em dívida ativa.
+Opostos embargos de declaração, foram eles rejeitados.
+Em suas razões, a recorrente alega ofensa ao disposto nos artigos 1.022, II, do Código de Processo Civil, 1.228, 1.361, 1.365, 1.367 e 1.368-B do Código Civil e 110, 121, parágrafo único, I, e 124, I e II, do Código Tributário Nacional.
+Pugna pela nulidade do acórdão recorrido, ante a subsistência de omissões quanto aos aspectos suscitados nos embargos de declaração e tratados neste recurso. Afirma que a legislação tributária não pode alterar conceitos e alcances deinstitutos do direito privado para definir ou limitar competências tributárias.
+Defende que na alienação fiduciária não há transferência de propriedade, relativamente aos poderes de usar, gozar e dispor da coisa e de reavê-la, havendo tãosomente transferência de propriedade resolúvel, adstrita a figurar como garantia realquanto a débito assumido pelo fiduciante perante o fiduciário, de forma que este somente poderá reaver o bem nos caso de inadimplemento da obrigação.
+Assim, sustenta que a alienação fiduciária não pode servir de critério delimitador da competência dos Estados para instituir e cobrar o IPVA dos credores fiduciários.
+Invoca as alterações produzidas pela Lei no 13.043/2014 no Código Civil para afirmar que somente com a realização da garantia e a assunção da propriedade plena do bem o credor fiduciário passará a responder pelos tributos sobre a propriedade.
+Sustenta que a Lei Estadual no 14.937/2003 não poderia estabelecer o credor fiduciário como contribuinte do IPVA, por ausência de relação pessoal e direta com o fato gerador.
+Considera que o artigo 124, II, do Código Tributário Nacional, não autoriza a criação de outras hipóteses de responsabilidade tributária e que somente se pode falar em solidariedade tributária quando houver a prática conjunta do fato gerador da respectiva obrigação.
+Houve contrarrazões (e-STJ fls. 584/592).
+Sobreveio juízo negativo de admissibilidade pela ausência de negativa de prestação jurisdicional, pelaincidência da Súmula n. 280/STF e pela conformidade do acórdão recorrido com a jurisprudência desta Corte Superior.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 814/823).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante deixou de impugnar todosos fundamentosadotados na decisão de inadmissibilidade.
+Nas razões do agravo em recurso especial, a parte impugnou a incidênciada Súmula n. 280/STF, bem como reiterou a existência de negativa de prestação jurisdicional.
+Ocorre que, além dos mencionados óbices, a Corte a quo, nas razões da decisão que inadmitiu o especial,fundamentou que (e-STJ fls. 602/603):
+Não bastasse isso, verificam-se julgados no STJ que, além de aplicarem o óbice contido no Enunciado no 280 da Súmula do STF, afirmam estar sedimentado najurisprudência daquela Corte o entendimento de que "o credor fiduciário temlegitimidade para figurar no pólo passivo de Execução Fiscal cujo objetivo seja acobrança do IPVA de veículo alienado fiduciariamente" (AREsp no 1.458.963/SP, Rel.Min. Napoleão Nunes Maia Filho, DJe de 27/08/2019).
+Nesse sentido, confira-se, ainda:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. IPVA. ALIENAÇÃO FIDUCIÁRIA. PROPRIEDADE. CREDOR FIDUCIÁRIO. ILEGITIMIDADE PASSIVA. ANÁLISE DE LEI LOCAL. SÚMULA 280/STF. RESPONSABILIDADE SOLIDÁRIA. SÚMULA 83/STJ.
+1. Hipótese em que o Tribunal de origem analisou a ilegitimidade passiva com base na interpretação da Lei Estadual 14.937/2003.
+2. É inviável o Recurso Especial interposto contra acórdão que solucionou a lide mediante exegese de lei local (Súmula 280/STF).
+3.A jurisprudência do STJ é no sentido de que o credor fiduciário tem legitimidade para figurar no polo passivo da execução cujo objetivo seja cobrar o IPVA de veículo alienado fiduciariamente. 4. Recurso Especial não conhecido." (REsp no 1.685.654/MG, Rel. Min. Herman Benjamin, DJe de 11/10/2017)
+No ponto, o agravante restou inerte.
+Tal conduta revela combate não específico e inapto a reformar a decisão agravada, porque competia à parte demonstrar que a pretensão recursal está de acordo com a jurisprudência deste e.STJ.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado específica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. A decisão monocrática assentou: "Com relação ao Recurso Especial, embora tenha a parte agravante impugnado a motivação da decisão agravada, entendo que, no caso concreto, a pretensão deduzida no Recurso Especial não ultrapassa a esfera do conhecimento, esbarrando no óbice da Súmula 7 do STJ." (fl. 1594, e-STJ).
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não impugna os fundamentos do mérito da decisão recorrida.
+3. Ressalte-se que, para chegar a conclusão diversa, seria necessário reexame dos elementos fáticos que serviram de base à decisão recorrida, do contexto fático-probatório, o que é vedado pelas Súmulas 5 e 7 do STJ.
+4. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+5. Assim, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art.
+545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 6. Agravo Interno não conhecido.
+(AgInt no AREsp 1314827/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO PARCIAL DO NOBRE APELO SOB O FUNDAMENTO DE QUE O ACÓRDÃO RECORRIDO ESTÁ DE ACORDO COM ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. INTERPOSIÇÃO DE AGRAVO NO RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO DO TRIBUNAL DE ORIGEM. SÚMULA 182/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Na forma do artigo 1.030, § 2º, do Código de Processo Civil vigente, o recurso cabível contra a decisão que nega seguimento a recurso especial com base no art. 1.030, I, b, do mesmo Código Processual é o agravo interno 2. Não mais existindo dúvida objetiva quanto ao recurso cabível, a interposição de agravo em recurso especial nesses casos configura erro grosseiro, desautorizando a aplicação do princípio da fungibilidade recursal.
+3. Inviável a apreciação do agravo que deixa de atacar, especificamente, os fundamentos da decisão que não admitiu, na origem, o apelo nobre. Incidência, na espécie, da Súmula 182/STJ.
+4. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+5. Agravo interno não provido.
+(AgInt no REsp 1890530/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
