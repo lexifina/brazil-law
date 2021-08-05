@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ADRIANO ALVES DE VARGAS no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul no julgamento do Agravo em Execução Penal n. 5060192-66.2021.8.21.7000.
+Os autos dão conta de que o paciente cumpre pena total de 13 anos de reclusão, em regime fechado, tendo iniciado o cumprimento da pena em 29/10/2017.
+No dia 31/10/2019, o paciente cometeu falta disciplinar de natureza grave, uma vez que foi apreendido em seu poder um aparelho celular.
+Instaurou-se, então, o PAD n. 55/2019 para a apuração da prática de falta grave. Realizada audiência de justificação, o Juízo da Vara de Execuções Criminais da Comarca de São Luiz Gonzaga/RS homologou o PAD e reconheceu a falta grave praticada pelo paciente, alterando o termo inicial para futuros benefícios e decretando a perda de 1/3 dos dias remidos ou a remir.
+Irresignada, a defesa interpôs recurso de agravo em execução, tendo o Tribunal de origem negado provimento ao recurso, nos termos do acórdão assim ementado (e-STJ fl. 138):
+AGRAVO EM EXECUÇÃO. POSSE OU FORNECIMENTO DE APARELHO CELULAR. FALTA GRAVE CONFIGURADA. ARTIGO 50, INCISO VII DA LEP. APLICAÇÃO DOS CONSECTÁRIOS LEGAIS. PERDA DOS DIAS REMIDOS E ALTERAÇÃO DA DATA-BASE. LEGALIDADE. ALTERAÇÃO DA DATA-BASE QUE DEVE SER LIMITADA AO BENEFÍCIO DA PROGRESSÃO DE REGIME. AGRAVO EM EXECUÇÃO PARCIALMENTE PROVIDO.
+No presente writ, a Defensoria Pública do Estado do Rio Grande do Sul alega a ocorrência de constrangimento ilegal em razão da ausência de fundamentação idônea para determinar a perda dos dias remidos na fração máxima (1/3).
+Alega ser evidente a desproporcionalidade na sanção aplicada ao paciente, pois equipara um suposto ato de indisciplina a fatos notoriamente mais gravosos, tal como uma fuga ou prática de novo crime doloso.
+Por isso, requer seja afastada a perda da fração de 1/3 dos dias remidos.
+Liminar indeferida às e-STJ fls. 154/155.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do writ (e-STJ fls. 184/190).
+É o relatório.
+Decido.
+A despeito do esforço da diligente defesa, não há falar, a meu ver, em ausência de motivação ou em desproporcionalidade para a perda de 1/3 dos dias remidos, tendo em vista que, no ponto, consignou o Tribunal a quo o seguinte (e- STJ fl. 149):
+Com relação ao quantum de perda dos dias remidos, reputo adequado em face da gravidade do fato, dando vazão ao disposto no artigo 93, inciso IX da CF, motivo pelo qual vai mantida à razão de 1/3 (um terço), atendendo ao princípio da proporcionalidade.
+Veja que, em atenção ao disposto no artigo 57 da LEP, são desfavoráveis as circunstâncias e consequências do fato, em que o apenado Adriano dava emprestado seu aparelho celular a outro recluso, que o usava em redes sociais e postava fotos de dentro do presídio. Tal contexto, evidentemente, retira o caráter sancionatório da execução penal, além de pôr em xeque, perante a sociedade, todo o sistema estatal de controle e fiscalização do cumprimento de pena.(Grifei)
+Como se vê, a aplicação da penalidade máxima amparou-se no fato de que"sãodesfavoráveis as circunstâncias e consequências do fato, em que o apenado Adriano dava emprestado seu aparelho celular a outro recluso, que o usava em redes sociais e postava fotos de dentro do presídio. Tal contexto, evidentemente, retira o caráter sancionatório da execução penal, além de pôr em xeque, perante a sociedade, todo o sistema estatal de controle e fiscalização do cumprimento de pena" (e-STJ fl. 149).
+Logo, não vislumbro o constrangimento ilegal sustentado.
+Em casos análogos, guardadas as devidas particularidade, esta Corte assim se posicionou:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE.HOMOLOGAÇÃO. PERDA DE DIAS REMIDOS. FRAÇÃO DE 1/3. FUNDAMENTAÇÃO.GRAVIDADE CONCRETA DA INFRAÇÃO DISCIPLINAR. FUNDAMENTO IDÔNEO.PRECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. WRIT NÃO CONHECIDO.IMPUGNAÇÃO DO MINISTÉRIO PÚBLICO ESTADUAL. PARECER DO PARQUET FEDERAL PELO NÃO PROVIMENTO DO AGRAVO. ILEGALIDADE NÃO EVIDENCIADA.
+1. A decisão agravada deve ser mantida, uma vez que a utilização da fração de 1/3 para a perda dos dias remidos está devidamente fundamentada na gravidade concreta da infração disciplinar, isto é, a posse de celular para comunicação com o mundo exterior, nos termos do entendimento jurisprudencial desta Corte: não se verifica ilegalidade na fixação da fração de 1/3 para a perda dos dias remidos, com a indicação de fundamentação concreta sobre a gravidade da conduta e a reprovabilidade da falta grave (AgRg no HC n.593.104/SC, Ministro Nefi Cordeiro, Sexta Turma, DJe 13/10/2020).Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC 623.041/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 16/03/2021, DJe 22/03/2021, grifei)
+EXECUÇÃO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PERDA DOS DIAS REMIDOS. FRAÇÃO DE 1/3. DECISÃO CONCRETAMENTE FUNDAMENTADA.
+1. A perda dos dias remidos em grau máximo encontra-se devidamente fundamentada na natureza do fato, nas características do apenado e no seu histórico carcerário, não havendo, assim, falar em falta de fundamentação idônea ou desproporcionalidade da punição aplicada.
+2. Agravo regimental desprovido.
+(AgRg no HC 564.863/SC, de minha relatoria, SEXTA TURMA, julgado em 17/11/2020, DJe 3/12/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRÁTICA DE FALTA GRAVE. PLEITO DE AFASTAMENTO DA INFRAÇÃO. DESCABIMENTO. DESCLASSIFICAÇÃO PARA FALTA LEVE OU MÉDIA. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. VIA INADEQUADA. PERDA DE 1/3 DOS DIAS REMIDOS. FUNDAMENTAÇÃO CONCRETA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. Não há ilegalidade a ser sanada no presente writ, pois a conduta praticada pelo Agravante na unidade prisional onde cumpre pena, tal como descrita pela Corte a quo (subversão da ordem e da disciplina, pois "o sentenciado assumiu pertencer à organização criminosa, fazendo apologia ao PCC"), amolda-se à tipificada no art. 50, inciso I, c.c. o art. 52, ambos da Lei de Execução Penal.
+2. Ademais, o reexame das questões consubstanciadas na alegação de não configuração da falta grave, ou na configuração de falta média ou leve, bem como na atipicidade material dos fatos, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático- probatória, incabível nesta via.
+3. A partir da vigência da Lei n.º 12.433/2011, que alterou a redação do art. 127 da Lei de Execução Penal, a penalidade consistente na perda de dias remidos pelo cometimento de falta grave passou a ter nova disciplina, não mais incidindo sobre a totalidade do tempo remido, mas apenas até o limite de 1/3 (um terço) desse montante, cabendo ao Juízo das Execuções, com certa margem de discricionariedade, aferir o quantum, levando em conta "a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão", consoante o disposto no art. 57 da Lei de Execução Penal.
+4. Hipótese em que inexiste ofensa ao dever de fundamentação das decisões judiciais, pois o Juízo das Execuções Penais amparou a perda de 1/3 (um terço) dos dias remidos na gravidade concreta da conduta e nas circunstâncias fáticas.
+5. Agravo regimental desprovido.
+(AgRg no HC 465.680/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 28/3/2019, DJe 23/4/2019, grifei.)
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
