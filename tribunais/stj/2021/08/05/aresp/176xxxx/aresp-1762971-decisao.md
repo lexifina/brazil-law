@@ -1,0 +1,28 @@
+DECISÃO
+MONIQUE BRITO RIBEIRO (MONIQUE) ajuizou ação renovatória de aluguel comercial contraMÁRCIO DE ALMEIDA FIGUEIREDO (MARCIO).
+A sentença julgou o pedido improcedente (e-STJ, fls. 103/108).
+MONIQUE interpôs recurso de apelação apreciado pelo Tribunal estadual em acórdão assim ementado:
+RENOVATÓRIA.LOCAÇÃO NÃO RESIDENCIAL.SENTENÇA DE IMPROCEDÊNCIA.IRRESIGNAÇÃO DA AUTORA.NULIDADE DA SENTENÇA POR AUSÊNCIA DE MOTIVAÇÃO AFASTADA. SENTENÇA CONCISA CUJA MOTIVAÇAO SE REVELA SUFICIENTE PARA A SOLUÇÃO DA DEMANDA.INEXISTÊNCIA DE PREJUÍZO À AUTORA, ORA RECORRENTE, PARA DEDUZIR SUA IRRESIGNAÇÃO.PRECEDENTES DO E. STJ.A EXCEÇÃO DE RETOMADA GOZA DE PRESUNÇÃO RELATIVA DE SINCERIDADE, FICANDO A CARGO DO LOCATÁRIO ELIDI-LA E IMPEDIR O DEFERIMENTO DA RETOMADA.O LOCADOR NÃO ESTÁ OBRIGADO A RENOVAR O CONTRATO SE O IMÓVEL VIER A SER UTILIZADO POR ELE PRÓPRIO PARA FINS EMPRESARIAIS EM RAMO DIVERSO DAQUELE EXPLORADO PELA LOCATÁRIA.INTELIGÊNCIA DO ART. 52, INC. II, DA LEI Nº 8.245/91.ATIVIDADE EMPRESARIAL EXPLORADA PELA LOCATÁRIA, ORA APELANTE, NO IMÓVEL ALUGADO  VAREJO DE MATERIAIS PARA ESCRITÓRIO, PAPELARIA, BRINQUEDOS, BIJUTERIAS E BAZAR  DIVERSA DAQUELA A SER EXPLORADA PELO LOCADOR, ORA APELADO, EM SOCIEDADE EMPRESÁRIA CONSTITUÍDA POSTERIORMENTE NO RAMO DE LANCHONETE.A AUTORA, ORA APELANTE, NÃO SE DESINCUMBIU DO ÔNUS DE COMPROVAR A ALEGADA INSINCERIDADE DO RÉU, ORA RECORRIDO.SENTENÇA MANTIDA.PRECEDENTES DESTE E. TJRJ.NEGADO PROVIMENTO AO RECURSO(e-STJ, fl. 163).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 203/207).
+MONIQUE interpôs recurso especial com base no art. 105, III,aec, da CF, onde alegou violação doart. 52, II, da Lei 8.245/1991, e dissídio jurisprudencial, pois (1) foram preenchidos os requisitos necessários à renovação do contrato de locação; (2) o recorrido não foi sincero quanto aos motivos alegados para retomada do imóvel.
+Sem contrarrazões.
+O Tribunal de origem inadmitiu o apelo nobre por (1) a pretensão recursal encontrar óbice na Súmula nº7 do STJ; (2) o dissídio jurisprudencial não ficou configurado.
+MONIQUE ingressou com agravo em recurso especial onde, após reproduzir os termos da decisão agravada, renova os fundamentos do recurso especial e afirma que o dissídio jurisprudencial observouas regras necessárias à sua correte demonstração.
+Foi apresentada contraminuta (e-STJ, fls. 322/325).
+É o relatório.
+DECIDO
+A irresignação não comporta conhecimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Como visto, o Tribunal de origem inadmitiu o apelo nobre por entender que(1) a pretensão recursal encontrar óbice na Súmula nº 7 do STJ; (2) o dissídio jurisprudencial não ficou configurado.
+Nada obstante, observa-se que nas razões do agravo em recurso especial, não se refutou, de forma arrazoada, todos os fundamentos da decisão agravada, mais especificamente, a aplicação da Súmula nº 7 do STJ.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar objetivamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especialinterposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do NCPC e 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendoinsuficiente alegações genéricas de que o recurso nobre atendeu aos requisitos de admissibilidade.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUALCIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015. (..) 4. Agravo interno não provido. (AgInt no AgInt no AREsp 937.019/MG,Rel. Ministro RICARDO VILLAS BÔASCUEVA, Terceira Turma, DJe 15/5/2020).
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+LOCAÇÃO.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AÇÃO RENOVATÓRIA.AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC. AGRAVO NÃO CONHECIDO.
