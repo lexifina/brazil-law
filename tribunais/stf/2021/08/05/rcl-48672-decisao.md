@@ -1,0 +1,37 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por V. e S. Silveira Terceirização Industrial Ind. Com. do Pescado Ltda. contra decisão do Tribunal Superior do Trabalho (TST), que teria afrontado a autoridade do Supremo Tribunal Federal, ao negar seguimento ao recurso extraordinário em razão de má aplicação da tese firmada no julgamento do RE nº 828.040/DF (Tema 932 da repercussão geral).
+    Narra o reclamante que foi demandado no Processo nº 900-26.2010.5.04.0121, por meio do qual os autores requerem o ressarcimento de danos morais e materiais oriundos de acidente de trabalho.
+    Sublinha a dinâmica do referido acidente ao transcrever o seguinte trecho do acórdão proferido pelo TST em sede de agravo interno em recurso extraordinário:
+    “Constata-se que a 1ª Turma desta Corte não conheceu do recurso de revista, sob o fundamento que ’o empregado exercia a função de mestre da embarcação, quando faleceu em acidente de trabalho (naufrágio em alto mar), quando estava a serviço da empregadora’. Registrou que o ‘não obstante o acidente tenha ocorrido por fatores como o mau tempo, isso não implica isenção da responsabilidade da reclamada, proprietária da embarcação, em responder pelo infortúnio, visto não existir dúvidas de que o trabalhador falecido desenvolvia atividade exposto a risco acentuado de acidentes marítimos, em nível superior ao risco a que está exposto o trabalhador comum’. Consoante registrado na decisão agravada, o Supremo Tribunal Federal, ao julgar o RE 828.040/DF, fixou a seguinte tese no Tema 932 do ementário de Repercussão Geral: ’O artigo 927, parágrafo único, do Código Civil é compatível com o artigo 7º, XXVIII, da Constituição Federal, sendo constitucional a responsabilização objetiva do empregador por danos decorrentes de acidentes de trabalho, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida, por sua natureza, apresentar exposição habitual a risco especial, com potencialidade lesiva e implicar ao trabalhador ônus maior do que aos demais membros da coletividade’
+    (...)
+    Do cotejo do entendimento do Supremo Tribunal Federal com a tese exarada pelo órgão julgador desta Corte, percebe-se que a solução da controvérsia está em perfeita conformidade com a tese estabelecida em repercussão geral.   Registre-se que a Corte Suprema, ao firmar a tese do Tema 932 do ementário de Repercussão Geral, não tratou do que seja atividade de risco, pois a sua definição remete à legislação infraconstitucional. Portanto, é inviável a admissibilidade de recurso extraordinário, nos termos do art. 1.030, I, ’a’ do CPC/2015. Logo, não tem sucesso o agravo interno, mantendo-se a fundamentação estabelecida no decisum agravado. Ante o exposto, nego provimento ao agravo.” (edoc 1, p. 9-10).
+    Sustenta, acerca da decisão denegatória do recurso extraordinário que
+    “não está em consonância com o decidido no tema 932 do Supremo Tribunal Federal.
+    (...)
+    No caso concreto, evidentemente, o ato judicial impugnado se enveredou pela possibilidade de definir como atividade de risco a atividade pesqueira embora ela não seja legalmente definida como tal e não há vinculação a risco excepcional.
+    Não fosse isso, no caso em tela, há um sério agravante, a existência de uma tempestade (ciclone) e consequente existência de excludente do nexo de causalidade da responsabilidade civil, qual seja, a força maior.
+    Outro ponto que contraria o entendimento consolidado no tema 932 do STF é que a decisão reclamada colocou como risco da atividade um evento EXTERNO, INEVITÁVEL E IMPREVISÍVEL, COMO UM CICLONE (TEMPESTADE EM ALTO-MAR), dentro do risco da atividade.
+     Ora, as condições climáticas, em qualquer atividade não pode ser inserida dentro do risco da atividade.
+    Ou seja, aplicou a teoria da responsabilidade civil por risco integral, que não é adotada no nosso ordenamento jurídico e foi expressamente rechaçada quando do voto que deu origem ao referido tema 932 do STF.
+    (...)
+    Ora, evidentemente, deve existir o debate se a condição climática (evento externo, inevitável e imprevisível) pode ser inserida no âmbito da atividade empresarial, o que, salvo melhor juízo, não pode ocorrer e nem está abrangida na decisão do tema 932 do STF” (grifos do autor).
+    Argumenta, para tanto, ser
+    “indevida [a] condenação das Rés em danos morais, materiais e pensão vitalícia em ação trabalhista, DECORRENTE DA APLICAÇÃO DA TEORIA DA RESPONSABILIDADE CIVIL OBJETIVA PARA ATIVIDADE PESQUEIRA DECORRENTE DE UM ACIDENTE DE TRABALHO RESULTANTE DE FORÇA MAIOR/IRRESISTÍVEL EM QUE O FATOR HUMANO, MATERIAL OU OPERACIONAL EM NADA CONTRIBUÍRAM, CONFORME INQUÉRITO ELABORADO PELA CAPITANIA DOS PORTOS JÁ QUE OCORREU UMA ESPÉCIE DE CICLONE EXTRATROPICAL EM ALTO-MAR (FORÇA MAIOR), OCASIONANDO, INCLUSIVE, MUITOS ESTRAGOS NA CIDADE DE CONCEIÇÃO DA BARRA/BA, QUE DECRETOU ESTADO DE EMERGÊNCIA, EIS QUE 1.500 PESSOAS FICARAM DESABRIGADAS.” (grifos do autor)
+    Conclui, assim, que a questão não foi tratada sob a ótica da teoria do risco criado pela atividade desempenhada, mas sim pela teoria do risco integral, tendo a decisão reclamada se furtado da análise acerca da extensão do tema 932 e sua aplicação ao caso concreto.
+    Requer, assim, que seja deferido o pedido liminar para suspender o Processo nº 900-26.2010.5.04.0121.
+    No mérito, pugna seja julgado
+    “procedente o pedido formulado na presente Reclamação, cassando a decisão que negou seguimento ao recurso extraordinário, para que devolva ao órgão julgador para exerça a retratação e se adeque ao decidido pela Suprema Corte, nos termos do artigo 1.030, II, CPC ou, no mínimo, não obste o seguimento do recurso extraordinário com base no referido tema, ou determinando outra medida que entenda adequada à preservação da autoridade de suas decisões”.
+    É o relatório. Decido.
+    A jurisprudência do STF é no sentido de que eventual procedência da reclamatória tem o condão de desconstituir decisões proferidas após seu ajuizamento, inclusive o trânsito em julgado. Vide:
+    “I. Reclamação: subsistência à coisa julgada formada na sua pendência. Ajuizada a reclamação antes do trânsito em julgado da decisão reclamada, e não suspenso liminarmente o processo principal, a eficácia de tudo quanto nele se decidir ulteriormente, incluído o eventual trânsito em julgado do provimento que se tacha de contrário à autoridade de acórdão do STF, será desconstituído pela procedência da reclamação.
+    Reclamação: improcedência. Sentença de liquidação de decisão de Tribunal Superior não afronta a autoridade de acórdão do Supremo Tribunal exarado no processo de execução que se limitou a afirmar compatibilidade entre o julgado no processo de conhecimento e o do mesmo Tribunal Superior, que reputara ofensiva da coisa julgada, e conseqüentemente nula, a primitiva declaração de improcedência da liquidação” (Rcl nº 509/MG, Rel. Min. Sepúlveda Pertence, Tribunal Pleno, DJ de 4/8/2000).
+     Ante o exposto, indefiro o pedido liminar, ante a ausência do requisito do periculum in mora.
+    Solicitem-se informações à autoridade reclamada a respeito do quanto se alega na inicial (CPC, art. 989, I e RISTF, art. 157).
+    Cite-se a parte beneficiária da decisão reclamada (CPC, art. 989, III).
+    Por fim, abra-se vista à douta Procuradoria-Geral da República para elaboração de parecer (CPC, art. 991 e RISTF, art. 160).
+    Publique-se. Int..
+    Brasília, 5 de agosto de 2021.
+Ministro DIAS TOFFOLI
+Presidente
+Documento assinado digitalmente
