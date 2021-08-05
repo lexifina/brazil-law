@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto peloMINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO com fulcro no art. 105, inciso III, alíneaa, da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça daquela Unidade Federativa na Apelação Criminal n. 0513732-95.2014.8.19.0001.
+Segundo os autos, o Juízo de primeiro grau condenou oRecorridoàs penas de 1 (um) ano de reclusão e 15 (quinze) dias de detenção, como incurso nos arts. 180, caput, e 330, ambos do Código Penal, substituídas as penas reclusivas por restritivas de direitos (fl. 258).
+Irresignada, a Defesa interpôs apelação, à qual a Corte de origem deu provimento para absolver o Recorridodas imputações (receptação e desobediência), conforme se observa às fls. 318-324.
+Sustenta a Acusação, nas razões do recurso especial, ofensa aos arts. 29 e180, ambos do Código Penal(fl. 339), sob o argumento de não haver "nada que impeça a receptação de forma compartilhada, ou seja, não há razão lógica ou jurídica a tornar inviável o reconhecimento de que dois ou mais indivíduos conduzam, em conjunto, coisa que sabem ser produto de crime" (fl. 345; sem grifos no original).
+Afirma que a "interpretação acolhida pelo v. acórdão recorrido contraria o texto do art. 180 do Código Penal, pois seu núcleo inclui o verbo conduzir, o qual não contrasta com a ocorrência do concurso de agentes, admitindo-se, assim, a possibilidade de cooperação desenvolvida por várias pessoas para a prática dos ilícitos penais, englobando aí todo aquele que de qualquer forma concorre para o evento criminoso (art. 29, caput, do CP)" (fl. 346).
+Ainda, segundo a Acusação, "o concurso de pessoas ocorre toda vez que há uma participação ciente e voluntária de duas ou mais pessoas na mesma infração penal, ou, como bem leciona nossa doutrina, quando presentes os seguintes requisitos (1) pluralidade de agentes; (2) relevância causal das condutas; (3) vínculo subjetivo; e (4) unidade de crime" (fl. 347).
+Nesse sentido, aduz que"o ora recorrido, consciente e voluntariamente, em unidade de ações e desígnios com terceiros, conduzia (no sentido de levar, trazer) o veículo objeto de crime" (fl. 347).
+Ao final, pede a reforma do acórdão recorrido, a fim de condenar oRecorridocomo incursono art. 180, caput,do Código Penal (fl. 349).
+As contrarrazões foram apresentadas (fls. 353-358).
+O recurso especialfoi admitido na origem (fls. 361-364).
+O Ministério Público Federal manifestou-se às fls. 380-382, opinando pelo provimento dorecurso especial.
+É o relatório.
+Decido.
+O recurso especial não supera o exame de admissibilidade.
+Disse o Tribunal a quo, ao absolveroRecorridoquanto à imputação de receptação (fl. 323; grifos diversos do original):
+" .. impõe-se o desenlace absolutório quanto ao crime acessório e de natureza patrimonial, porquanto, em se tratando de quem transitava na posição de carona no automóvel, e em se considerando que os respectivos núcleos diretivos da conduta punível, livremente eleitos pelo dominus litis para reger a imputação foram os de "receber"e de "conduzir", tem-se por caracterizada a absoluta orfandade probatória quanto à ocorrência do primeiro destes e a inexistência da realização do segundo, cenário que ora se proclama como emoldurado, com fulcro no disposto pelo art. 386, inc. nº II do C. P. P. e o que ora se adota."
+No caso, a inversão do decidido pelainstânciaordinária,a fim de condenar oRecorrido -reconhecendo haver provas da realização de verbos nucleares do crime de receptação (com a necessária certeza de que o Réu conhecia a origem criminosa da res)-,é inviável no espectro de cognição do recurso especial, por demandar acurada análise do conteúdo fático-probatório dos autos, indispensável ao juízo de certeza exigido para formação da culpa. Portanto, aplica-se o entendimento consolidado no Verbete n.7 da Súmula do STJ, do seguinte teor: "A pretensão de simples reexame de prova não enseja recurso especial."
+Nesse sentido, ainda, cito o seguinte julgado:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AOS ARTS. 330 DO CP E 386, III E VII, DO CPP. ABSOLVIÇÃO. OFENSA AO ART. 155, § 4º, DO CP. DESCLASSIFICAÇÃO. REEXAME DE MATÉRIA FÁTICA. VEDAÇÃO. SÚMULA 7/STJ. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Cabe ao aplicador da lei, em instância ordinária, fazer um cotejo fático e probatório a fim de analisar a existência de provas suficientes a embasar a condenação, a absolvição e a desclassificação. Incidência da Súmula 7/STJ.
+2. Agravo regimental a que se nega provimento." (AgRg no AREsp 1.194.962/DF, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 24/04/2018, DJe 11/05/2018.)
+Com efeito, a pretensão do Recorrente não é a revaloração do quadro fático incontroverso descrito no acórdão recorrido à luz da lei penal interpretada por esta Corte Superior, mas, sim, a análise do seu conteúdo, formando um juízo de certeza apto a sustentar a condenação.
+Verifico, ainda, que a tese relativa ao concurso de agentes (art. 29 do Código Penal), na espécie, não foi analisada pelo Tribunal a quo nem foi objeto de embargos de declaração. Logo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual deixo de apreciá-lo, a teor dos Enunciados n. 282 e 356 do Supremo Tribunal Federal, respectivamente transcritos, in verbis:
+"É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+"O ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento."
+Ante o exposto, NÃO CONHEÇOdo recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. ART. 180 DO CÓDIGO PENAL. ABSOLVIÇÃO PELO TRIBUNAL A QUO.PROVAS. SUFICIÊNCIA. VERIFICAÇÃO. PEDIDO RECURSAL DE INVERSÃO DO DECIDIDO PELAINSTÂNCIAORDINÁRIA. IMPOSSIBILIDADE. REEXAME FÁTICO-PROBATÓRIO. VERBETE N.7 DA SÚMULA DO STJ. ART. 29 DO CÓDIGO PENAL. ENUNCIADOS N. 282 E 356 DA SÚMULA DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
