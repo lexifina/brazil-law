@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por RODRIGO REOLON contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alínea"a"da Constituição Federal.
+Agravo em recurso especial interposto em:27/01/2021.
+Concluso ao gabinete em:14/07/2021.
+Ação:de rescisão contratual cumulada com indenização por perdas e danosajuizada por ARI DALAGRANA e OUTROS em face de RODRIGO REOLONna qual requer a rescisão de contrato celebrado entre as partes paraentrega de unidade habitacional, bem como indenização por lucros cessantes e danos emergentes, e o pagamento de multa contratual.
+Sentença:julgou parcialmente procedentes os pedidos.
+Acórdão:deu parcial provimento às apelaçõesinterpostas porARI DALAGRANA e OUTROS e por RODRIGO REOLON, nos termos da seguinte ementa:
+"CÍVEL. APELAÇÃO CÍVEL. AÇÃO DE RESCISÃO CONTRATUAL C.C. INDENIZAÇÃO POR PERDAS E DANOS. SENTENÇA DE PARCIAL PROCEDÊNCIA. CESSÃO DE DIREITOS HEREDITÁRIOS INCIDENTES SOBRE LOTE DE TERRENO.
+ADIMPLEMENTO INTEGRAL DA OBRIGAÇÃO DOS CEDENTES.
+IMÓVEL ADJUDICADO PELO CESSIONÁRIO. PREÇO, TODAVIA, NÃO QUITADO INTEGRALMENTE. PARCELA FINAL, CORRESPONDENTE A UMA UNIDADE HABITACIONAL PARA CADA UM DOS CEDENTES, NO EMPREENDIMENTO A SER EDIFICADO NO LOCAL, NÃO ADIMPLIDA NO PRAZO PACTUADO. CESSIONÁRIO QUE ADQUIRIU TAMBÉM O TERRENO CONTÍGUO, DE TERCEIRA PESSOA. NEGÓCIOS DISTINTOS. IRRELEVÂNCIA DE O VENDEDOR DO SEGUNDO IMÓVEL SER PARENTE DOS AUTORES. DIFICULDADE ENFRENTADA PELO COMPRADOR EM REGULARIZAR A SITUAÇÃO DESTE SEGUNDO IMÓVEL QUE NÃO AFETA OS TERMOS DO NEGÓCIO FIRMADO COM OS AUTORES, ALUSIVOS AO PRIMEIRO IMÓVEL, SOBRETUDO PORQUE TINHA CIÊNCIA DAS PECULIARIDADES INCIDENTES SOBRE O SEGUNDO IMÓVEL IMPOSSIBILIDADE DE O CESSIONÁRIO ATRIBUIR AOS CEDENTES FATO DECORRENTE DE OUTRO NEGÓCIO. NÃO CARACTERIZAÇÃO, OUTROSSIM, DE ONEROSIDADE EXCESSIVA NA PACTUAÇÃO.
+INADIMPLEMENTO DO CESSIONÁRIO APELANTE CONFIGURADO. CONDENAÇÃO AO PAGAMENTO DA PARCELA FALTANTE, BEM COMO À MULTA CONTRATUAL.
+AFASTAMENTO, TODAVIA, DA DECLARAÇÃO DE RESCISÃO DO CONTRATO. INCOMPATIBILIDADE DOS PROVIMENTOS DE RESCISÃO COM O DE CUMPRIMENTO DO MESMOCONTRATO. JUROS DE MORA. TERMO INICIAL READEQUADO PARA A DATA DO INADIMPLEMENTO, PORQUE PREVIAMENTE FIXADA EM DATA CERTA, NO CONTRATO. SENTENÇA PARCIALMENTE REFORMADA. RECURSOS PARCIALMENTE PROVIDOS." (fls. 866/867, e-STJ).
+Embargos de declaração:opostos por RODRIGO REOLON, foram rejeitados.
+Recurso especial:alega violação dos arts. 141, 489, § 1º, IV, e 1.022, II,do CPC/2015.
+Sustenta, em síntese,i) a negativa de prestação jurisdicional e a deficiência de fundamentação doacórdão recorridoque deixoude julgara apelação nos exatos termos do aventado, bem como quanto à alegação de causa superveniente que impediu o cumprimento de contrato particular; e ii) o julgamento fora do pedido (extra petita) atinente à rescisão do negócio jurídico do qual não se elencou na apelação.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento:aplicação do CPC/2015.
+1.Da violação dos arts. 489 e 1.022 do CPC/2015
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação; ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente acerca dos pontos supostamente omissos, de maneira que os embargos de declaração opostos pelorecorrente, de fato, não comportavam acolhimento.
+Confirma-se que quanto à tese atinente ao julgamento fora do pedido (extra petita) relativoà rescisão do negócio jurídico e à causa superveniente, o acórdão que julgou os embargos de declaração assim assentou:
+"Ao pedir a reforma total da sentença com o julgamento de improcedência total dos pedidos formulados pelos autores vendedores (que abrangia o pedido de rescisão do contrato, que foi acolhido na sentença) inequivocamente o apelante embargante Rodrigo pugnou, sim, pela convalidação do negócio mas dilatando o prazo para ele adimplir a parcela final do preço.
+Em momento nenhum o embargante pugnou pela manutenção da sentença na parte em que rescindiu o contrato, até porque o desfazimento do negócio importaria na recomposição do status quo ante e ele sempre pugnou pela validade do negócio e sustentou que somente não adimpliu a última parcela por fato superveniente (dificuldade em regularizar o imóvel comprado de Agustinho que atrasou a unificação das matrículas do imóvel adquirido deste com o imóvel contíguo comprado dos autores apelados embargados Ari, Luiz Antonio e Nadir).
+É inequívoco, portanto, que o pedido recursal do embargante Rodrigo, que pediu a reforma integral da sentença abrangeu também a disposição nela contida quanto à rescisão do contrato. Contraditória, com a máxima venia, é a alegação nos embargos de declaração.
+Não houve, portanto, julgamento extra petita, muito menos erro ou contradição no acórdão." (fl. 959, e-STJ).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto a Súmula 568/STJ.
+Ademais, devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, também, em violação do art. 489 do CPC/2015.
+2. Do reexame de fatos e provas
+No tocante à alegação atinente ao julgamento fora do pedido (extra petita) quanto à reforma da sentença na parte que decretou a rescisão do negócio celebrado entre as partes,o acórdão recorrido assim se pronunciou:
+"A rescisão do negócio - que compreende a escritura pública de cessão de direitos hereditários (M. 1.6) e os contratos particulares de compromisso de cessão de direitos (Ms. 1.3 a 1.5) tornou-se concretamente inviável diante de fato superveniente narrado em audiência pela testemunha Jorge Wagih Massad e, posteriormente, pelo advogado do requerido, em plenário durante a sessão de julgamento. Tal fato consistiu na edificação sobre o imóvel alienado pelos autores (lote D, objeto da matrícula 83.610) assim como do imóvel vizinho (lote C, objeto da matrícula 45.804) de um conjunto residencial.
+Não é mais possível, assim, rescindir o contrato nem recompor o . Por outro status quo ante lado, deve ser confirmada a condenação do requerido apelante ao pagamento, a cada um dos autores, do valor correspondente ao valor de mercado de uma unidade habitacional com as mesmas características daquela prevista na cláusula 1ª do contrato particular de compromisso de cessão de direitos firmados com os autores (M. 1.3 a 1.5) bem como a multa de 10% sobre o valor da unidade habitacional, nos termos da cláusula 9ª." (fl. 876, e-STJ).
+Desse modo, alterar o decidido no acórdão impugnado, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7 do STJ.
+Forte nessas razões, CONHEÇO do agravo e,com fundamento no art. 932, III e IV, a , do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/2015, considerando o trabalho adicional imposto ao advogado da parte recorrida em virtude da interposição deste recurso, majoro os honorários fixados em 3% sobre o valor da condenação devidos pelo recorrente.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/2015. INOCORRÊNCIA.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+1. Ação de rescisão contratual cumulada com indenização por perdas e danos.
+2. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/2015 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015.
+4.O reexame de fatos e provas em recurso especial é inadmissível.
+5.Agravo em recurso especial conhecido. Recurso especial parcialmente conhecido e, nesta extensão, não provido.
