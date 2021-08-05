@@ -1,0 +1,27 @@
+DECISÃO
+GIULIANO ANTONIO BINDA DA SILVA alega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão proferido pelo Tribunal Regional Federal da 2ª Região na Apelação n. 0007367-81.2001.4.02.5001.
+Neste writ, a defesa requer o reconhecimento da atenuante da confissão espontânea e o redimensionamento da pena (fls. 3-12).
+O Ministério Público Federal manifestou-se pela concessão da ordem de ofício (fls. 79-82).
+Decido.
+Consta nos autos que o paciente foi condenado a 5 anos e 2 meses de reclusão, em regime semiaberto, mais 142 dias-multa, pela prática do delito previsto no art. 1º, I e II, c/c o art. 12 da Lei n. 8.137/1990.
+O Juízo de primeiro grau reconheceu a atenuante da confissão espontâneanos seguintes termos (fls. 31-44, grifei):
+ ..  os elementos probatórios acostados aos autos demonstram, mais do que satisfatoriamente, a materialidade do delito de sonegação fiscal, seja por omitir ou prestar declaração falsa, seja por fraudar a fiscalização, ao omitir operações que deveriam estar escrituradas em documentos e livros exigidos pela legislação (mas no caso verifica-se as duas situações, cumulativamente).
+Resta, no entanto, aferir-se sobre a autoria do delito e a responsabilidade penal dos Réus, para quais procederei à análise conjunta, cotejando os fatos relacionados na denúncia com as provas carreadas aos autos.
+A meu ver, a autoria também é inconteste e deve ser atribuída a ambos os Réus, tanto é que todos confessaram, esfera administrativa e em juízo os fatos, sendo reticentes, tão somente, quanto à ciência da ilicitude da conduta, bem como escusas visando justificar a prática delituosa.
+ ..
+Incide a circunstância atenuante da confissão (Art. 65, III, "d", do CP), razão pela qual atenuo a pena em 06 (seis) meses, passando a dosá-la em 03 (três) anos de reclusão.
+O Tribunal de origem, por sua vez, entendeu pela inaplicabilidade da atenuante (fls. 58-60, destaquei):
+Do mesmo modo, a autoria e o dolo de GIULIANO ANTÔNIO BINDA DA SILVA restaram comprovados. Não socorre à defesa a tese de que este não era efetivo administrador da sociedade empresária, uma vez que, além de seu nome constar como administrador na "Alteração Contratual  01" (fls. 132/133 do apenso II), parte da movimentação na conta de AGNALDO FELIX DE SOUZA foi realizada pelo próprio GIULIANO, o qual recebeu poderes de subestabelecimento da procuração outorgada a seu pai (fl. 20 do apenso III), de maneira a assinar cheques como gestor da referida conta.
+Além disso, o acusado admitiu saber das movimentações bancárias. Ainda que alegue que estas não tinham o objetivo de sonegar tributos. Portanto, tinha consciência das condutas, inclusive contribuindo para sua consumação. A defesa novamente não trouxe qualquer elemento de convicção que pudesse comprovar que GIULIANO seria mero empregado sem qualquer poder de decisão, o que realmente demandaria prova diante dos documentos que lhe atribuíam poderes específicos para atuar nessa movimentação bancária.
+ ..
+Na segunda fase da dosimetria não verifico atenuantes ou agravantes. Não incide a atenuante da confissão espontânea (art. 65, III, d, do CP), uma vez que ANTÔNIO, apesar de ter admitido a autoria no delito, negou seu dolo; enquanto GIULIANO negou por completo a autoria do crime. Na ausência de confissão espontânea e incondicionada, a atenuante deve ser afastada.
+Este Superior Tribunal possui o entendimento de que, se a confissão do acusado foi utilizada para corroborar o acervo probatório e fundamentar a condenação, deve incidir a atenuante, sendo irrelevante o fato de haver sido espontânea ou não, total ou parcial, ou mesmo que haja ocorrido posterior retratação.
+Dessa forma, constato o constrangimento ilegal de que está sendo vítima o insurgente, uma vez que suas palavras foram utilizadas para fundamentar a condenação, e, portanto, deve incidir a atenuante prevista no art. 65, III, "d", do Código Penal.
+No mesmo sentido foi editada a Súmula n. 545 do STJ, in verbis: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal".
+Menciono, ainda, o seguinte julgado: "Nos termos da jurisprudência do Superior Tribunal de Justiça, se a confissão dos réus, ainda que parcial (qualificada) ou retratada, for utilizada pelo magistrado para fundamentar a condenação, deve incidir a respectiva atenuante" (HC n. 237.252/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 26/2/2014).
+Passo ao redimensionamento da pena.
+A pena-base foi fixada em 2 anos e 6 meses de reclusão pela existência de circunstância judicial desfavorável.
+Na segunda etapa, ante o reconhecimento da confissão espontânea, reduzo a reprimenda a 2 anos de reclusão. Na terceira fase, com fulcro no art. 12, I, da Lei n. 8.137/1990, mantenho o aumento de 1/3 e estabeleço a sanção em 2 anos e 8 meses de reclusão e 91 dias-multa.
+Aplico a fração de 1/4, em razão do concurso formal, o que resulta 3 anos e 4 meses de reclusão e 114 dias-multa. Em virtude da continuidade delitiva, preservo a exasperação de 1/4da pena e torno-a definitiva em 4 anos e 2 meses de reclusão e 142 dias-multa. Conservo o regime semiaberto com fulcro no art. 33, § 2º, "b", e § 3º, do CP.
+À vista do exposto, concedo o habeas corpus para reconhecer a confissão espontânea e readequar a reprimenda a 4 anos e 2 meses de reclusão, em regime semiaberto, e 142 dias-multa.
+Publique-se e intimem-se.
