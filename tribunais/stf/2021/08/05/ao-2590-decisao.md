@@ -1,0 +1,12 @@
+Ação Originária. Declinação de competência com base no julgamento da ADI 4.412/DF (art. 102, I, ‘r’, da CF). Duplicidade de atuações. Arquivamento.
+    Vistos etc.
+    Trata-se de Ação Ordinária Anulatória, autuada nesta Suprema Corte como Ação Originária, proposta por Hugo Fernandes Levy Filho em face da União Federal, com o objetivo de desconstituir a punição de aposentadoria compulsória que lhe foi aplicada pelo Conselho Nacional de Justiça no julgamento do Processo Administrativo Disciplinar 0000787- 44.2009.2.00.0000 (evento 1).
+    O presente feito foi remetido a esta Suprema Corte pelo Juízo da 1ª Vara Federal Cível de Manaus/AM com base na ADI 4.412/DF, via da qual, em 18.11.2020, por maioria, esta Suprema Corte firmou tese no sentido de que ‘[n]os termos do artigo 102, inciso I, r, da Constituição Federal, é competência exclusiva do Supremo Tribunal Federal processar e julgar, originariamente, todas as ações ajuizadas contra decisões do Conselho Nacional de Justiça e do Conselho Nacional do Ministério Público proferidas no exercício de suas competências constitucionais, respectivamente, previstas nos artigos 103-B, § 4º, e 130-A, § 2º, da Constituição Federal’ (evento 05).
+    Todavia, verifico que houve dupla autuação do feito originário nesta Suprema Corte, considerando a distribuição anterior da PET 9.439 à minha relatoria, em 18.02.2021, reautuada como AO 2.561/DF, em 09.06.2021.
+    Realmente, enquanto a citada AO 2.561/DF foi declinada pelo TRF da 1ª Região em decorrência de recurso de apelação interposto no feito originário, os presentes autos decorrem da remessa a esta Suprema Corte (do mesmo feito originário) pelo Juízo de primeiro grau (Processo 1000420-93.2018.4.01.3200). De fato, conforme certificado na Vara de origem, ‘(...) o servidor [do TRF] informa haver encaminhado peças do processo ao Supremo Tribunal Federal (STF). Certifico, outrossim, que, em consulta ao STF, foi verificado que o presente feito se encontra em trâmite naquela Corte Suprema’ (evento 5, fl. 32).
+    Portanto, o presente feito corresponde à atuação duplicada do mesmo feito originário nesta Suprema Corte (sendo a primeira autuação a da AO 2.561/DF), de modo que não se justifica a sua tramitação autônoma.
+    Ante o exposto, determino o arquivamento imediato do presente feito.
+    Publique-se. Intimem-se.
+    Brasília, 05 de agosto de 2021.
+Ministra Rosa Weber
+Relatora
