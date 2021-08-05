@@ -1,0 +1,30 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. IPTU. ALIENAÇÃO FIDUCIÁRIA. LEI9.514/1997. CONFLITO ENTRE LEI ORDINÁRIA (LEI 9.514/1997) E LEICOMPLEMENTAR (CTN). TEMA CONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DASUPREMA CORTE.RECURSO ESPECIAL DO MUNICÍPIO DE SÃO PAULO/SP NÃO CONHECIDO.
+1. Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO, com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 3a. Região,assim ementado:
+PROCESSUAL CIVIL. APELAÇÃO. EXECUÇÃO FISCAL. IPTU. CAIXA ECONÔMICA FEDERAL.ILEGITIMIDADE. ALIENAÇÃO FIDUCIÁRIA. RECURSO IMPROVIDO.
+- A alienação fiduciária de bem imóvel é a operação através da qual o devedor (fiduciante), visando à garantia de determinada obrigação frente ao credor fiduciário, concede a este a propriedade resolúvel de um imóvel, cuja posse fica desdobrada entre o devedor, que passa a ser possuidor direto, e o credor que se torna possuidor indireto do bem, nos termos do art. 23 da Lei nº 9.514/97.
+- O art. 27, § 8º do diploma legal supracitado dispõe que: "responde o fiduciante pelo pagamento dos impostos, taxas, contribuições condominiais e quaisquer outros encargos que recaiam ou venham a recair sobre o imóvel, cuja posse tenha sido transferida para o fiduciário, nos termos deste artigo, até a data em que o fiduciário vier a ser imitido na posse".
+- Tal previsão, ao atribuir ao devedor fiduciante a responsabilidade pelo pagamento de tributos que recaiam sobre o imóvel, quando no exercício da posse direta, constitui-se em exceção à regra exposta no art. 123 do CTN(fls. 156).
+2. Nas razões do seurecurso especial (fls. 170/179), a parte recorrentesustenta, além de divergência jurisprudencial, violação dos arts. 1.359 e 1.360 do CC e 34, 117, inc. II, e 123 do CTN.Sustenta para tanto, em síntese, a legitimidade da CEF para figurar no polo passivo da execução fiscal ajuizada para cobrança de IPTU, issoporque na alienação fiduciária há efetiva transferência de propriedade do imóvel ao credor fiduciário.
+3. Segue afirmando que o § 8o. do art. 27 da Lei 9.514/1997 aplica-se tão somente àrelação contratual entre o credor fiduciário e o devedor fiduciante, não surtindo efeitos sobre os direitos de terceiros, em especial no que diz respeito às dívidas fiscais,pois o tema responsabilidade tributária está reservado àLei Complementar.
+4. Devidamente intimada (fls. 181), a parte recorrida deixou de apresentar contrarrazões.O recurso especial foi admitido na origem(fls. 183/187).
+5. É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, constata-seque os arts.1.359 e 1.360 do Código Civil não foramapreciadospela Corte local, tampouco foram opostos embargos de declaração com o objetivo de sanar eventual omissão da questão de direito controvertida. A ausência de enfrentamento pelo Tribunal de origem da matériaimpugnada, objetodorecurso excepcional,impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, das Súmulas 282 e 356 do STF.
+8. No mais,embora alegue-se ofensa a dispositivo de lei federal, da análise do Apelo Nobre, no qual o recorrente sustenta que uma Lei Ordinária (Lei 9.514/1997) não pode contrariar uma disposição reservada a uma Lei Complementar (Código Tributário Nacional), verifica-se o caráter constitucional da demanda,poisenvolve a análise do art. 146, III, da Constituição Federal. Posta a controvérsia nestes termos, percebe-se que não se trata dehipótese de cabimento de Recurso Especial, uma vez que a competência desta Corte refere-se à matéria infraconstitucional:
+Art. 105 - Compete ao Superior Tribunal de Justiça:
+(..).
+III - julgar, em Recurso Especial, as causas decididas, em única ou última instância, pelos Tribunais Regionais Federais ou pelos tribunais dos Estados, do Distrito Federal e Territórios, quando a decisão recorrida:
+a) contrariar tratado ou lei federal, ou negar-lhes vigência;
+b) julgar válido ato de governo local contestado em face de lei federal;
+c) der a lei federal interpretação divergente da que lhe haja atribuído outro tribunal.
+9. Cite-se, a título ilustrativo, o seguinte julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. BANCO BRADESCO S/A.ALIENAÇÃO FIDUCIÁRIA. ILEGITIMIDADE PASSIVA. IPTU. RESPONSABILIDADE DO FIDUCIANTE. ANÁLISE DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1. A controvérsia versa sobre a legitimidade passiva do Banco Bradesco S/A, como credor fiduciário, em execução fiscal de IPTU.
+2. A apreciação sobre a possibilidade de lei ordinária determinar quem é o contribuinte do IPTU refere-se a questão constitucional, prevista no artigo 146 da CF. Conforme dispõe o art. 105 da CF, a competência do Superior Tribunal de Justiça restringe-se à interpretação e à uniformização do direito infraconstitucional federal, impossibilitando-se o exame de eventual violação a dispositivos e princípios constitucionais, sob pena de usurpação da competência atribuída ao STF.
+3. Com efeito, das próprias razões do Recurso Especial é possível depreender o caráter constitucional da demanda, no qual o recorrente sustenta a tese de que lei ordinária não poderia alterar disposições de lei complementar. Por outro lado, o Tribunal de origem, ao decidir tal questão, amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido.
+4. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1600392/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/03/2020, DJe 12/05/2020)
+10.Ante o exposto, não se conhece doRecurso Especial do MUNICÍPIO DE SÃO PAULO/SP.
+11.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+12. Publique-se. Intimações necessárias.
