@@ -1,0 +1,33 @@
+DECISÃO
+REGINALDO MANSUR TEIXEIRA, PLUMA CONFORTO E TURISMO S/A, TRANSPORTADORA VALE DO SOL LTDA., AUTO ÔNIBUS BOTUCATU LTDA. e BOTUCATU EMPREENDIMENTO (REGINALDO e outros) ajuizaram ação de embargos à execução contra ROSANE GALIOTTO WILTGEN (ROSANE) , sob o fundamento de nulidade da execução.
+A sentença julgou o pedido de embargos à execução improcedente (e-STJ, fls. 978/986).
+PLUMA e outros interpuseram recurso de apelação apreciado pelo Tribunal estadual conforme acórdão assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. NOTAS PROMISSÓRIAS. DISCUSSÃO DA E OPOSIÇÃO DE CAUSA DEBENDI EXCECOES PESSOAIS DO DEVEDOR ADMITIDA NA SENTENÇA.MATÉRIA NÃO RECORRIDA. 1. CÁRTULAS ORIUNDAS DO CONTRATO PARTICULAR DE COMPRA E VENDA DE AÇÕES DA EMPRESA PLUMA S.A. INSTRUMENTO CONTRATUAL QUE VEDA A SUSPENSÃO DO PAGAMENTO DO PREÇO, O QUE TAMBÉM ABRANGE O ADIMPLEMENTO RELATIVO ÀS NOTAS PROMISSÓRIAS QUE DÃO LASTRO À EXECUÇÃO. 2.CONSTATAÇÃO DE PASSIVO SUPERIOR AO PREVISTO INICIALMENTE NO CONTRATO. FATO QUE NÃO IMPLICA MODIFICAÇÃO DO VALOR REPRESENTADO PELOS TÍTULOS DE CRÉDITO EXECUTADOS. 3. RESPONSABILIDADE DOS VENDEDORES POR EVENTUAL EXCESSO DO PASSIVO DA EMPRESA. QUESTÃO SER DISCUTIDA EM DEMANDA PRÓPRIA, POR NÃO GUARDAR RELAÇÃO COM O OBJETO DA EXECUÇÃO. 4. TÍTULOS EXECUTIVOS LIQUIDOS, CERTOS E EXIGIVEIS.
+1. Tendo os contratantes, no exercício da autonomia privada, pactuado no Contrato de Compra e Venda de Ações que o pagamento relativo à compra das ações não poderia ser suspenso, sob pretexto algum, vedada a suspensão do pagamento das notas promissórias que dão lastro à execução de título extrajudicial.
+2. O fato de ser apurado que o passivo da empresa é superior ao previsto inicialmente no instrumento contratual, não implica modificação do valor representado pelas notas promissórias executadas, bem como não autoriza a suspensão do pagamento da compra das ações.
+3. A responsabilidade dos vendedores por eventual excesso do passivo deve ser discutida em demanda própria e não nos presentes embargos, pois a questão não tem pertinência com o objeto da execução.
+4. Títulos executivos líquidos, certos e exigíveis, na forma do artigo 803, inciso I, do Código de Processo Civil.
+Apelação Cível não provida (e-STJ, fls. 1117/1118).
+Os embargos de declaração foram rejeitados (e-STJ, fls. 1193/1201).
+PLUMA e outros interpuseram recurso especial com base no art. 105, III,aecda CF, onde alegaram violação dos arts. 1022 do NCPC;138, 178, 317, 422, 478, 479 e 480, do CC/2002, além de dissídio jurisprudencial, pelos seguintes fundamentos (1) negativa de prestação jurisdicional; (2) violação ao princípio da boa-fé contratual; (3) é possível a revisão do valor de contrato de compra e venda e em consequência os valores dos títulos exequendos; (4) as notas promissórias foram emitidas mediante fraude e má-fé da recorrida, pois esta conhecia o real passivo da empresa PLUMA e encobriu esse fato; (5) os títulos executados são nulos.
+Foram ofertadas contrarrazões (e-STJ, fls. 1255/1266).
+O Tribunal de origem inadmitiu o apelo nobre por (1) não se verificar ofensa ao art. 1022 do NCPC; (2) se aplicarem as Súmulas nºs 5 e 7 do STJ.
+PLUMA e outros ingressaram com agravo em recurso especial sustentando que (1) ficou evidente a violação do art. 1022 do NCPC; (2) inexiste violação da Súmula nº 7 do STJ.
+Foi apresentada contraminuta (e-STJ, fls. 1316/1320).
+É o relatório.
+DECIDO
+A irresignação não comporta conhecimento.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Como visto, o Tribunal de origem inadmitiu o recurso por(1) não se verificar ofensa ao art. 1022 do NCPC; (2) se aplicarem as Súmulas nºs 5 e 7 do STJ.
+Nada obstante os termos do decisório agravado, observa-se que o agravante não refutou de forma arrazoada todos os fundamentos do decisório agravada, mais especificamente a aplicação da Súmula nº 5 do STJ.
+Consoante pacífico entendimento desta Corte, o agravante deve infirmar objetivamente todos os fundamentos da decisão agravada, demonstrando o seu desacerto, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo, não cabendo a impugnação genérica ou a reiteração das razões expostas no recurso especial.
+À luz do princípio da dialeticidade, que norteia os recursos, compete à parte agravante, sob pena de não conhecimento do agravo em recurso especial, infirmar especificamente os fundamentos adotados pelo Tribunal de origem para negar seguimento ao recurso.
+O agravo que objetiva conferir trânsito ao recurso especial obstado na origem reclama, como requisito objetivo de admissibilidade, a impugnação aos fundamentos utilizados para a negativa de seguimento do apelo extremo, consoante expressa previsão contida nos arts. 932, III, do NCPC e 253, I, do RISTJ, ônus da qual não se desincumbiu a parte insurgente, sendo insuficiente alegações genéricas de que o recurso nobre atendeu aos requisitos de admissibilidade.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, é o caso de incidir o art. 932, III, do NCPC.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUALCIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ). 2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015. (..) 4. Agravo interno não provido. (AgInt no AgInt no AREsp 937.019/MG,Rel. Ministro RICARDO VILLAS BÔASCUEVA, Terceira Turma, DJe 15/5/2020).
+Nessas condições, NÃO CONHEÇO do agravo em recurso especial.
+Por oportuno, previno as partes de que a interposição de recurso contraesta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação das penalidades fixadas nos arts. 1.021, § 4º ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL.AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC.EMBARGOS À EXECUÇÃO. AGRAVO EM RECURSO ESPECIAL QUE NÃO IMPUGNA TODOS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICAÇÃO DO ART. 932, III, DO NCPC.AGRAVO NÃO CONHECIDO.
