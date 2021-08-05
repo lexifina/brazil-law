@@ -1,0 +1,22 @@
+Decisão: Trata-se de embargos de divergência opostos contra acórdão da Segunda Turma, de minha relatoria, que negou provimento ao agravo regimental em recurso extraordinário, nos seguintes termos:
+    Agravo regimental em recurso extraordinário com agravo. 2. Direito Processual Civil. 3. Pagamento de custas de porte de remessa e retorno. Multa arbitrada. Deficiência recursal 4. Matéria infraconstitucional. Ofensa reflexa à Constituição Federal. Precedentes. 5. Ausência de argumentos capazes de infirmar a decisão agravada. 6. Agravo regimental a que se nega provimento. Majoração da verba honorária. (eDOC 23)
+    Nas razões recursais, o recorrente indicada como paradigma de divergência a decisão monocrática proferida pelo Min. Presidente no RE 951.733/RN.
+    Afirma que, não obstante as semelhanças entre as hipóteses fáticas, no caso concreto foi dada solução jurídica diversa daquela constante do paradigmas, em manifesta contrariedade à jurisprudência deste Supremo Tribunal Federal.
+    Requer o provimento do recurso nos seguintes termos:
+    “(…) espera e requer o embargante provimento do seu recurso para que prevaleça a tese do acórdão paradigma, alterando-se a decisão recorrida, aplicando-se o mesmo entendimento da Presidência deste Colendo Supremo Tribunal, como citado no RECURSO EXTRAORDINÁRIO 951.733/RN com a admissão e julgamento do mérito do Recurso Extraordinário agravado, sem o recolhimento da multa imposta visto que fora impetrado em sede de apelação, na origem, estando respaldado pelo artigo 1031 e parágrafos do CPC, concedendo-se a pretendida tutela jurisdicional em favor do Embargante, reconhecendo divergência citada em sede embargos como medida de inteira justiça, para após a análise de mérito do REXT Agravado, pugna pela reforma o v. acórdão recorrido, reformando a sentença de primeiro grau cessando o cerceamento de defesa e garantido a ampla defesa e o contraditório, valorando a CF/88.” (eDOC 24, p. 16)
+    Intimada, a parte embargada não apresentou contrarrazões (eDOC 28).
+    É o relatório. Decido.
+    De início, registro que os embargos de divergência têm por objetivo a uniformização dos entendimentos do Tribunal porventura dissonantes, de modo que não se prestam à mera revisão de acórdãos.
+    O art. 1.043, I, do Código de Processo Civil, prevê a possibilidade de oposição de embargos de divergência contra o acórdão de órgão fracionário que, em recurso extraordinário ou em recurso especial, divergir do julgamento de outro órgão do mesmo tribunal. Transcrevo, a propósito, o citado dispositivo:
+    Art. 1.043. É embargável o acórdão de órgão fracionário que:
+    I - em recurso extraordinário ou em recurso especial, divergir do julgamento de qualquer outro órgão do mesmo tribunal, sendo os acórdãos, embargado e paradigma, de mérito;
+    Nesse sentido, é assente nesta Corte o entendimento de que não se admitem os embargos de divergência quando não demonstrado o dissídio jurisprudencial entre o acórdão paradigma e o acórdão recorrido.
+    Conforme se depreende do art. 330, caput, do Regimento Interno do Supremo, a divergência que enseja o cabimento dos embargos é aquela verificada entre decisão de Turma e outro julgado da Turma ou do Plenário. Confira-se, a propósito, jurisprudência do Plenário sobre o tema:
+    EMBARGOS DE DIVERGÊNCIA NO AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. CONCURSO PÚBLICO. CANDIDATOS APROVADOS FORA DO NÚMERO DE VAGAS. NÃO PRORROGAÇÃO DA VALIDADE DO CONCURSO. EDITAL DO NOVO CERTAME PUBLICADO EM PERÍODO POSTERIOR À VALIDADE DO CONCURSO. DIREITO PROCESSUAL CIVIL. REQUISITOS DE ADMISSIBILIDADE. ARTIGOS 1.043 E 1.044 DO CÓDIGO DE PROCESSO CIVIL DE 2015. ARTIGOS 330, 331 E 332 DO REGIMENTO INTERNO DO SUPREMO TRIBUNAL FEDERAL. DECISÃO MONOCRÁTICA INDICADA COMO PARADIGMA. IMPOSSIBILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS JULGADOS CONFRONTADOS. ACÓRDÃO EMBARGADO EM HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. EMBARGOS DE DIVERGÊNCIA NÃO CONHECIDOS. (ARE 1064191 AgR-EDv, Rel. Min. Luiz Fux, Tribunal Pleno, DJe 6.7.2020, grifo nosso)
+    Contudo, na hipótese dos autos, o recorrente apontou como paradigma da divergência decisão monocrática do Presidente desta Corte, nos autos do RE 951.733/RN.
+    Ante o exposto, considerada sua manifesta inadmissibilidade, nos termos do artigo art. 330 do RISTF, nego seguimento aos embargos de divergência.
+    Publique-se.
+    Brasília, 5 de agosto de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
