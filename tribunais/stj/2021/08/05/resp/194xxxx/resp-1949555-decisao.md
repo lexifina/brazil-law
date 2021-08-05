@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com amparo na alínea "a" do inciso III do art. 105 da CF/1988, em oposição a acórdão assim ementado:
+PREVIDENCIÁRIO E CONSTITUCIONAL. AUXÍLIO-DOENÇA/APOSENTADORIA POR INVALIDEZ. TRABALHADOR(A) RURAL. PROVA MATERIAL PLENA. COMPROVAÇÃO DA INCAPACIDADE POR LAUDO OFICIAL.
+1. A sentença, proferida sob a égide do CPC/1973, está sujeita à remessa oficial, eis que de valor incerto a condenação imposta ao INSS, motivo pelo qual tem o potencial de ultrapassar 60 (sessenta) salários mínimos.
+2. A incapacidade laborai da parte autora foi comprovada pela perícia médica realizada, onde constatada a incapacidade total e definitiva, desde a infância (fls. 237). A qualidade de segurado especial, por sua vez, foi demonstrada pelo INFBEN (fls. 52), onde consta registro de concessão de auxílio-doença rural no período de 25/09/2000 a 25/09/2008. Ainda, consta laudo do INSS atestando DID em 1998 e DII em 2000 por problemas psiquiátricos (fls. 67) e HISMED (fls. 107) confirmando DID em 1998 e DII em 2000.
+3. Ainda que a doença da segurada seja pré-existente à filiação ao Regime Geral de Previdência Social, o direito ao benefício se configura por motivo de progressão ou agravamento, causando a incapacidade comprovada na perícia médica, o que resta constatado no laudo do INSS e no HISMED colacionado aos autos.
+4. Em relação à qualidade como segurado especial da parte autora, deve ser registrado que alguns documentos públicos constituem prova plena dessa condição, tornando assim desnecessária a produção da prova testemunhal. Assim, por exemplo, a existência de anotações na CTPS em relação a vínculos rurícolas, registros no CNIS e documentos comprobatórios da concessão de benefício anterior (auxílio doença, por exemplo) demonstram cabalmente a vinculação ao RGPS.
+5. Atendidos os requisitos indispensáveis à concessão do benefício  comprovação da qualidade de segurado especial da Previdência Social e, ainda, a incapacidade (parcial e definitiva ou total e temporária) para o exercício de atividade laborai  mostrou-se incorreta a sentença que reconheceu à parte autora o direito ao auxílio-doença.
+6. Apelação do INSS não provida. Apelação da parte autora provida e remessa oficial parcialmente provida.
+O recorrente alega violação doart.1.22 do CPC e argumenta que "é incontestável que já se encontram atingidas pela prescrição as parcelas anteriores ao quinquênio legal, nos termos do artigo 103, parágrafo único, da Lei 8.213/91 e nada obsta que venha a mesma ser acolhida no presente momento, mormente porque a questão foi tempestivamente levantada pela autarquia no curso do processo".
+Decido.
+No tocante à suscitada ofensa ao art. 1.022 do CPC, o recurso não merece ser conhecido diante da generalidade da alegação feita, cabendo a aferição do óbice da Súmula 284/STF.
+No tocante ao art. 103 da Lei n. 8.213/1991, há de se reconhecer a ausência de prequestionamento da tese trazida ao debate cabendo reconhecer a inviabilidade do recurso especial conforme as Súmulas 282 e 356/STF.
+Ante o exposto, com fulcro no art. 253, parágrafo único, inc. II, "a", do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
