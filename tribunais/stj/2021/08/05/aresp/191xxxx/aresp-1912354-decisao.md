@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se deagravo interposto por ANDERSON LUÍS MAZZEI SILVA, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de ANDERSON LUÍS MAZZEI SILVA, a parte recorrente foi intimada do acórdão recorrido em 27/11/2020, sendo o recurso especial interposto somente em 15/12/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Quanto a indisponibilidade do sistema, cabe citar que o feriado local e a indisponibilidade da comunicação eletrônica estão sujeitos a disciplinas jurídicas diferentes com, por conseguinte, consequências jurídicas diversas.
+É certo que, com a novel legislação processual, nos termos do art. 219, "Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias úteis".
+Por sua vez, nos termos do art. 216 do CPC, "Além dos declarados em lei, são feriados, para efeito forense, os sábados, os domingos e os dias em que não haja expediente forense.
+Conclui-se, portanto, que para fins de contagem dos prazos processuais (art. 220 c/c art. 216 do CPC), somente serão considerados os dias da semana (de segunda a sexta-feira), desde que não sejam feriados e desde que tenha havido expediente forense.
+Assim, de outra forma, se durante a semana houver algum dia que seja feriado ou que não tenha havido expediente forense, ele se torna um dia "não-útil", para fins de contagem de prazo processual, sendo excluído da respectiva contagem, se devidamente comprovado.
+Por outro lado, a indisponibilidade da comunicação eletrônica não torna esse dia "não-útil", ou seja, a disciplina desse fato processual não está regulada no art. 216 do CPC, mas sim, no art. 224, § 1º, do mesmo diploma processual, o qual sustenta que se "houver indisponibilidade da comunicação eletrônica" os "dias do começo e do vencimento do prazo serão protraídos para o primeiro dia útil seguinte".
+É o que aconteceu nos autos no que se refere aos dias 07e 08/12/2020, em que houve indisponibilidade do sistema de peticionamento eletrônico (fl. 726).
+A consequência jurídica da indisponibilidade da comunicação eletrônica está prevista no art. 224, § 1º, do CPC, que é a prorrogação do dia do começo ou do dia do final do prazo.
+No caso dos autos, o prazo do recurso especial começou no dia 27/11/2020e terminou em 14/12/2020, ou seja, não coincide com as datas acima mencionadas. Se a indisponibilidade da comunicação eletrônica ocorrer durante o transcurso do prazo recursal, trata-se de dia útil, que se soma à contagem do prazo processual, não havendo exclusão do referido dia.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
