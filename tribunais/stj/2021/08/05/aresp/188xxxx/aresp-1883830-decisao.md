@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Estado do Mato Grosso, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de Mato Grosso, assim ementado:
+TRIBUTÁRIO - RECURSO DE APELAÇÃO E REEXAME NECESSÁRIO DE SENTENÇA - MANDADO DE SEGURANÇA -PRELIMINAR: NULIDADE DA SENTENÇA POR DESCUMPRIMENTO DO ART. 7o, INCISO II, DA LEI N.o 12.016/2009 - COMPARECIMENTO ESPONTÂNEO DO ÓRGÃO DE REPRESENTAÇÃO JUDICIAL DA PESSOA JURÍDICA INTERESSADA - AUSÊNCIA DE PREJUÍZO - SUPRIMENTO DA IRREGULARIDADE-PRELIMINAR REJEITADA-MÉRITO: IMPOSIÇÃO DE SANÇÃO ADMINISTRATIVA AO DEVEDORTRIBUTÁRIO POR MEIO DE PORTARIA DA SEFAZ - OFENSA AO PRINCIPIO CONSTITUCIONAL DA LEGALIDADE E ART. 97, V, DO CTN - SUSPENSÃO DA EMISSÃO DAS NOTAS FISCAIS ELETRÔNICAS DO CONTRIBUINTE EM RAZÃO DA EXISTÊNCIA DE DÉBITOS FISCAIS - DESOBEDIÊNCIA A GARANTIA CONSTITUCIONAL DA LIVRE INICIATIVA E LIVRE EXERCÍCIO DA ATIVIDADE ECONÔMICA E SÚMULA 70 E 547 DO STF - DIREITO LÍQUIDO E CERTO VIOLADO -SENTENÇA QUE CONCEDEU A ORDEM RATIFICADA-RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, orecorrente alega violação dos seguintes dispositivos: a) arts. 489, § 1º, e 1.022, parágrafo único eII, do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissão; b) art. 113, § 2º, doCódigoTributário Nacional, aduzindo ser desnecessária lei para dispor acerca de obrigação acessória.
+Não houve contrarrazões.
+Sobreveio juízo negativo de admissibilidade pela ausência de ofensa ao art. 1.022 do CPC, bem como pela incidência das Súmulas n. 7/STJ e 280/STF.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Não houve contraminuta pela parte agravada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante deixou de impugnartodos osfundamentos adotados na decisão de inadmissibilidade.
+Ocorre que, nas razões do agravo, a parte limitou-se a reiterar a ofensaaosarts. 489, § 1º, e 1.022, parágrafo único e II, do Código de Processo Civil e aoart. 113, § 2º, do Código Tributário Nacional, reproduzindo as razões do recurso especial.No mais,restou inerte com relação aos óbices das Súmulas n. 7/STJ e 280/STF.
+Tal conduta revela combate não específico e inapto a reformar a decisão agravada.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado específica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. DECISÃO MONOCRÁTICA DO STJ QUE NÃO CONHECEU DO RECURSO ESPECIAL. INADMISSIBILIDADE DO RECURSO ESPECIAL. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O AGRAVO EM RECURSO ESPECIAL. INCIDÊNCIA DA SÚMULA 182/STJ. DECISÃO MANTIDA.
+1. A decisão monocrática assentou: "Com relação ao Recurso Especial, embora tenha a parte agravante impugnado a motivação da decisão agravada, entendo que, no caso concreto, a pretensão deduzida no Recurso Especial não ultrapassa a esfera do conhecimento, esbarrando no óbice da Súmula 7 do STJ." (fl. 1594, e-STJ).
+2. No presente recurso, a parte agravante deixa de observar a determinação do art. 1.021, § 1º, do CPC/2015, pois não impugna os fundamentos do mérito da decisão recorrida.
+3. Ressalte-se que, para chegar a conclusão diversa, seria necessário reexame dos elementos fáticos que serviram de base à decisão recorrida, do contexto fático-probatório, o que é vedado pelas Súmulas 5 e 7 do STJ.
+4. A iterativa jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que não se conhece de Agravo contra decisão monocrática que não ataca especificamente os fundamentos da decisão recorrida, de forma a demonstrar que o entendimento esposado merece modificação. Não bastam alegações genéricas em sentido contrário às afirmações da decisão agravada.
+5. Assim, a ausência de impugnação especificada faz incidir na espécie a Súmula 182/STJ, que está em consonância com a redação atual do CPC em seu art. 1.021, § 1º: "É inviável o agravo do art.
+545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 6. Agravo Interno não conhecido.
+(AgInt no AREsp 1314827/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 29/03/2021, DJe 06/04/2021)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE SEGUIMENTO PARCIAL DO NOBRE APELO SOB O FUNDAMENTO DE QUE O ACÓRDÃO RECORRIDO ESTÁ DE ACORDO COM ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL REPETITIVO. INTERPOSIÇÃO DE AGRAVO NO RECURSO ESPECIAL. NÃO CABIMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS ADOTADOS PELA DECISÃO DO TRIBUNAL DE ORIGEM. SÚMULA 182/STJ. AGRAVO INTERNO IMPROVIDO.
+1. Na forma do artigo 1.030, § 2º, do Código de Processo Civil vigente, o recurso cabível contra a decisão que nega seguimento a recurso especial com base no art. 1.030, I, b, do mesmo Código Processual é o agravo interno 2. Não mais existindo dúvida objetiva quanto ao recurso cabível, a interposição de agravo em recurso especial nesses casos configura erro grosseiro, desautorizando a aplicação do princípio da fungibilidade recursal.
+3. Inviável a apreciação do agravo que deixa de atacar, especificamente, os fundamentos da decisão que não admitiu, na origem, o apelo nobre. Incidência, na espécie, da Súmula 182/STJ.
+4. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar imprópria inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa.
+5. Agravo interno não provido.
+(AgInt no REsp 1890530/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO. SERVIDOR PÚBLICO ESTADUAL. IMPLANTAÇÃO DO PLANO REAL. APLICAÇÃO DE PRECEDENTE VINCULANTE. ARESP INCABÍVEL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS. SÚMULA 182/STJ.
+1. A decisão de inadmissibilidade da instância de origem possui dois fundamentos distintos e autônomos: a) em relação ao mérito - tese sobre conversão das retribuições dos servidores gaúchos em URV -, negou-se seguimento ao Recurso Especial com base no art. 1.030, I, "b", do CPC/2015, pois o acórdão teria fundamento no Tema 3/STJ, julgado no rito dos recursos repetitivos; e b) quanto à violação dos arts. 489, 1.022 do CPC/2015 e demais fundamentos, inadmitiu-se a pretensão.
+2. Deveria a parte prejudicada, para impugnar a decisão que negou seguimento ao Recurso Especial com amparo no Tema 3/STJ, ter interposto Agravo Interno, nos termos do art. 1.030, § 2º, do CPC/2015, o que não ocorreu.
+3. Agravo em Recurso Especial não conhecido quanto a esse ponto, ante a falta de cabimento.
+4. A inadmissão do Recurso Especial salientou também o prejuízo no que concerne à análise do dissídio jurisprudencial em razão dos óbices sumulares aplicáveis ao permissivo da alínea "a" do comando constitucional (fls. 195-196, e-STJ).
+5. Quanto a esse fundamento, todavia, não houve impugnação pela agravante. Tanto é que a parte abriu capítulo referente às alíneas "a" e "b" do permissivo constitucional, mas se olvidou com relação à alínea "c", erro no qual incorreu novamente neste Agravo Interno.
+6. O STJ perfilha entendimento de que é necessária a impugnação específica de todos os fundamentos que inadmitiram o Recurso Especial, sob pena de não conhecimento pela aplicação da Súmula 182/STJ. Precedentes.
+7. Agravo Interno não provido.
+(AgInt no AREsp 1672715/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/09/2020, DJe 14/12/2020)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
