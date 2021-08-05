@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de habeas corpus impetrado em favor de MANOEL HENRIQUE MOYSES FIELem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Habeas Corpusn.2100818-91.2021.8.26.0000).
+O paciente foi preso em flagrante e denunciado pela prática do delito previsto no art. 155, caput, c/c o art. 61, II, j, ambos do Código Penal.
+Alega o impetrante, em síntese, que: a) o paciente é primário e tem bons antecedentes; b) a imposição anterior de medidas cautelares não é requisito para conversão automática de flagrante em prisão preventiva; c) a vida pregressa do ora paciente e a presunção de que voltará a delinquir não é motivo idôneo para a conversão da prisão em preventiva; d) a manutenção do cárcere cautelar exige motivação concreta que explicite a imprescindibilidade da medida; e) não há elementos que demonstrem que o paciente pretende frustrar a instrução criminal ou a aplicação da lei penal; f) em observância ao princípio da proporcionalidade, a segregação cautelar não pode ser mais grave que a pena que poderia ser aplicada numa eventual condenação; g) de acordo com a Recomendação n. 62/20 do CNJ, somente excepcionalmente a prisão em flagrante será convertida em preventiva, nos casos de crime cometido sem violência ou grave ameaça.
+A decisão atacada ficou ementada nos seguintes termos:
+HABEAS CORPUS. Furto. Pedido de substituição da custódia por cautelares alternativas. Inadmissibilidade. Presença dos requisitos legais autorizadores da prisão preventiva. Paciente que possui "ficha criminal", fato que revela seu desajuste na vida em liberdade e dá a exata medida do grau de periculosidade de que é possuidor. Insuficiência das medidas cautelares diversas da prisão. Não cabimento das medidas excepcionais elencadas na Recomendação 62 do C. CNJ. Ausência de demonstração da efetiva vulnerabilidade da saúde do paciente. Constrangimento ilegal não caracterizado. Ordem denegada.
+Liminar indeferida às e-STJ fls. 104/106.
+O Ministério Público Federal manifestou-se pela prejudicialidade dowrit.
+Éo relatório.
+O presente writ está prejudicado.
+Isso, porqueinformações prestadas pela instância ordinária dão conta de que, no dia 19/7/2021, foi proferida sentença condenatória, impondo ao ora paciente a pena de 1 ano de reclusão, a ser cumprida em regime semiaberto, pela prática do delito previsto no art. 155,caput, do Código Penal (e-STJ fls. 113/114). Na ocasião, o Magistrado de piso negou a possibilidade de recurso em liberdade.
+Ademais, consoante parecer do Parquet Federal e informações complementares colhidas na página eletrônica do Tribunal de origem, sobreveio, em 26/7/2021 e 29/7/2021, respectivamente,o trânsito em julgado da condenação para o Ministério Público estadual e para a defesa(e-STJ fl. 168).
+Assim, patente que o presente writ está prejudicadohaja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
