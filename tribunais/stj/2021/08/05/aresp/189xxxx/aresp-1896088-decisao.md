@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Maria Aparecida Souzacontra decisão proferida pelo Presidente do Tribunal RegionalFederal da 1ª Região que negou seguimento ao seu recurso especial sob oóbice da Súmula 7/STJ.
+Em razões de agravo em recurso especial, sustenta o agravante areconsideração da decisão, alegando para tanto que a análise dopleito recursão não enseja oreexame do conjunto probatório dos autos.
+O prazo para apresentação de contrarrazões ao recurso especialtranscorreu in albis.
+O recurso especial que se pretende o seguimento, impugna acórdão assimementado:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA POR IDADE. TRABALHADORA RURAL. AUSÊNCIA INICIO DE PROVA MATERIAL EM NOME PRÓPRIO. CÔNJUGE URBANO. CONDIÇÃO DE SEGURADO ESPECIAL NÃO CARACTERIZADA. PEDIDO IMPROCEDENTE. SENTENÇA REFORMADA.
+1. A concessão do benefício pleiteado pela parte autora exige a demonstração do trabalho rural, cumprindo-se o prazo de carência, mediante inicio razoável de prova material, corroborada com prova testemunhal, ou prova documental plena.
+2. Conforme documento apresentado pela parte autora se constata que o requisito de Idade mínima foi atendido, pois contava com idade superior à exigida, quando do ajuizamento da ação.
+3. Não são considerados como inicio de prova material da atividade campesina, conforme jurisprudência pacifica desta Corte: a) documentos confeccionados em momento próximo do ajuizamento da ação ou do implemento do requisito etário; b) documentos em nome dos genitores quando não comprovado o regime de economia familiar e caso a parte postulante tenha constituído núcleo familiar próprio; c) certidões de nascimento da parte requerente e de nascimento de filhos, sem constar a condição de ruricola dos nubentes e dos genitores respectivamente; d) declaração de exercício de atividade, desprovida de homologação pelo órgão competente, a qual se equipara a prova testemunhal; e) a certidão eleitoral, carteira de sindicato e demais provas que não trazem a segurança jurídica necessária à concessão do benefício.
+4. Consoante o disposto art. 11, § 9º, inciso 1, da Lei 8.213/91, não se considera segurado especial o membro do grupo familiar que possuí outra fonte de rendimento, ressalvado o disposto no inciso 1, a pensão por morte e os auxilio-acidente e auxilio-reclusão, cujo valor seja inferior ou igual ao menor beneficio de prestação continuada.
+5. Há prova nos autos comprovando que o cônjuge da autora possui extenso vinculo de labor urbano (mais i " de 15 anos), encontrando-se, inclusive, aposentado nessa qualidade (aposentadoria especial), cujo beneficio supera e muito o valor do salário mínimo vigente. Condição de segurada especial não caracterizada.
+6. Deferida a gratuidade de justiça requerida na inicial, condeno a autora nos honorários de advogado que arbitro em R$ 1.000,00 (um mil reais), ficando suspensa a execução, enquanto perdurar a situação de pobreza do autor pelo prazo máximo de cinco anos, quando estará prescrita.
+7. A coisa julgada opera secundum eventum Mis ou secundum eventum probationis, permitindo a renovação do pedido ante novas circunstâncias ou novas provas.
+8. Apelação e remessa oficial providas para julgar improcedente o pedido inicial
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, o recorrente, ora agravante, alega que o Tribunal de origem violou o artigo 1.022 do CPC/2015, uma vez que foi omisso quanto ao início de prova material apto a comprovar a qualidade de segurada da requerente.Defende ainda que houve ofensa aos artigo 11 inciso I, II, V, VI e VII da Lei 8.213/91, art. 48, §1º e §2º da Lei 8.213/91 e art. 142 da Lei 8.2313/91, defendendoque comprovou o efetivo exercício da atividade em regime de economiafamiliar no período de carência.
+O prazo para apresentação de contrarrazões ao recurso especialtranscorreu in albis.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atraia incidência do Enunciado Administrativo n. 3/STJ: "Aos recursosinterpostos com fundamento no CPC/2015 (relativos a decisões publicadas apartir de 18 de março de 2016) serão exigidos os requisitos deadmissibilidade recursal na forma do novo CPC".
+O agravante impugnou devidamente o fundamento adotado na decisãoagravada e mostrando-se preenchidos os demais pressupostos deadmissibilidade do presente recurso, adentra-se o mérito.
+De início, quanto à alegada ofensa ao artigo 1.022 do CPC/2015,depreende-se do acórdão recorrido que o Tribunal de origem, de modofundamentado, tratou da questão suscitada, resolvendo, portanto, de modointegral a controvérsia posta.
+Na linha da jurisprudência do STJ, não há falar em negativa de prestaçãojurisdicional, tampouco em vício, quando o acórdão impugnado aplica tesejurídica devidamente fundamentada, promovendo a integral solução dacontrovérsia, ainda que de forma contrária aos interesses da parte.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. OFENSA AO ART. 1.022 DO CPC/2015INEXISTENTE. BENEFÍCIO PREVIDENCIÁRIO CONCEDIDO ANTES E APÓS A CF/1988.MATÉRIA SOB ENFOQUE EMINENTEMENTE CONSTITUCIONAL. IMPOSSIBILIDADE DEAPRECIAÇÃO EM RECURSO ESPECIAL. COMPETÊNCIA RESERVADA AO STF.
+1. Inexiste a alegada negativa de prestação jurisdicional, visto que aCorte de origem apreciou todos os pontos relevantes ao deslinde dacontrovérsia de modo integral e adequado, não padecendo o acórdãorecorrido de qualquer omissão, contradição ou obscuridade.
+2. O Tribunal a quo resolveu a questão da revisão do benefícioprevidenciário com fundamentação eminentemente constitucional, razão pelaqual não é possível sua revisão na via eleita.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.740.348/RS, Segunda Turma, Relator Ministro Herman Benjamin,julgado em 21/6/2018, DJe 22/11/2018)
+A alegada violação do artigo 1.022 do CPC/2015 não merece provimento.
+No mérito, o recurso especial tem por tese central o preenchimento daqualidade de segurado especial para fins de aposentadoria por idade rural.
+A jurisprudência do STJ se mostra firme no sentido de que aLei 8.213/1991, ao regulamentar o disposto no inciso I do artigo 202da redação original da Constituição Federal, assegurou ao trabalhadorrural denominado segurado especial o direito à aposentadoria, quandoatingida a idade de 60 anos, se homem, e 55 anos, se mulher, nos termos doartigo 48, § 1º.
+Os rurícolas em atividade por ocasião da Lei de Benefícios, em 24 dejulho de 1991, foram dispensados do recolhimento das contribuiçõesrelativas ao exercício do trabalho no campo, substituindo a carência pelacomprovação do efetivo desempenho do labor agrícola, conforme artigo 26, Ie artigo 39, I.
+Quanto à eficácia do início de prova material para a comprovaçãoda atividade rural, nesse aspecto o acórdão proferido pelo Tribunal aquo está respaldado na jurisprudência do STJ, que admite como início deprova material, certidões de casamento e nascimento dos filhos, nas quaisconste a qualificação como lavrador e, ainda, contrato de parceriaagrícola em nome do segurado, desde que o exercício da atividade ruralseja corroborado por idônea e robusta prova testemunhal.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. PREVIDENCIÁRIO. TRABALHADORRURAL. APOSENTADORIA. INÍCIO DE PROVA MATERIAL. DOCUMENTOS SUFICIENTES.PROVA TESTEMUNHAL.
+1. Este Superior Tribunal de Justiça considera que contrato deparceria agrícola e carteira de sindicato de trabalhadores rurais sãoaptos como início de prova material, para fins de comprovação de tempo deserviço de rurícola.
+2. A decisão agravada não contraria as Súmulas n. 7 e 149 desta Corte, aovalorar a prova analisada pela Corte Federal de origem.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.292.386/BA, Quinta Turma, Relator Ministro Jorge Mussi,DJe 21/11/2013)
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PREVIDENCIÁRIO. APOSENTADORIARURAL POR IDADE. VALORAÇÃO DE PROVA. INÍCIO DE PROVA MATERIAL.DESNECESSIDADE A QUE SE REFIRA AO PERÍODO DE CARÊNCIA SE EXISTENTE PROVATESTEMUNHAL RELATIVAMENTE AO PERÍODO.
+ ..
+3. As certidões de casamento e o contrato de parceria agrícola, emque consta a profissão de lavradora da segurada e de seu marido,constituem-se em início razoável de prova documental. Precedentes.
+4. É prescindível que o início de prova material abranja necessariamenteo número de meses idêntico à carência do benefício no períodoimediatamente anterior ao requerimento do benefício, desde que a provatestemunhal amplie a sua eficácia probatória ao tempo da carência, valedizer, desde que a prova oral permita a sua vinculação ao tempo decarência.
+5. Agravo regimental improvido.
+(AgRg no REsp 916.377/PR, Sexta Turma, Relator MinistroHamilton Carvalhido, DJe 7/4/2008)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. TRABALHADORRURAL. INÍCIO DE PROVA MATERIAL. CONTRATO DE PARCERIA RURAL E GUIADE RECOLHIMENTO DE CONTRIBUIÇÃO SINDICAL EXPEDIDA PELO MINISTÉRIODO TRABALHO. DOCUMENTAÇÃO APTA A SUPRIR O PRECEITO LEGAL DE INÍCIO DEPROVA MATERIAL.
+- A teor do disposto no artigo 106, II, da Lei nº 8.213/91, osdocumentos acostados aos autos se mostram aptos a comprovar a qualidadede trabalhadora rural da autora, ainda mais quando corroborados por idôneaprova testemunhal. Verifica-se a existência de Contrato deParceira Agrícola entre a autora e a Senhora Raimunda Miguel dos SantosOlegário, contemporâneo ao período da alegada atividade rural, bem comoguias de contribuição sindical rural de agricultor familiar, expedidaspelo Ministério do Trabalho, de recolhimento obrigatório pelo contribuinteepassível de juros e multa em caso de atraso.
+ ..
+- Agravo regimental improvido.
+(AgRg no REsp 735.615/PB, Sexta Turma, Relator Ministro HélioQuaglia Barbosa, DJe 13/6/2005)
+Destaque-se, ainda, que não é necessário que o início de provamaterial seja contemporâneo ao período de carência exigido, desde que asua eficácia probatória seja ampliada pela prova testemunhal colhidanos autos, o que ocorreu na espécie. Confira-se o Recurso EspecialRepetitivo 1.348.633/SP.
+No caso dos autos, o Tribunal a quo asseverou que restou descaracterizadoo regime de economia familiar, conforme se observa no seguinte trecho dosautos:
+Não obstante a parte autora tenha colacionado inicio de prova material da atividade campesina, corroborada pela prova testemunhal, há prova nos autos que o cônjuge da autora possui extenso vinculo de labor urbano (mais de 15 anos), encontrando-se, inclusiveaposentado nessa qualidade, cujo benefício percebido supera, e muito, o valor do salário mínimo vigente.
+Nesse contexto, os argumentos utilizados para fundamentar apretensão trazida no recurso especial somente poderiam ter suaprocedência verificada mediante o reexame de matéria fática, o que évedado ante o óbice da Súmula 7/STJ.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE.QUALIDADE DE SEGURADA. DESCARACTERIZAÇÃO. INVERSÃO. SÚMULA 7 DO STJ.INTERPOSIÇÃO DE SEGUNDO AGRAVO INTERNO CONTRA A MESMA DECISÃO.PRECLUSÃO CONSUMATIVA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Nos termos dos arts. 48, § 1º, 55, § 3º, e 143 da Lei n.8.213/1991, é devida a aposentadoria por idade ao trabalhador rural que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, por um início de prova material, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+3. Hipótese em que o Tribunal a quo manteve a sentença de improcedência por considerar descaracterizada a condição de segurada especial da parte autora, tendo em vista a suficiência da renda oriunda dos proventos de aposentadoria de seu cônjuge.
+4. "A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões" (AgRg no REsp n. 1.508.048/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/5/2015, DJe 22/6/2015).
+5. Agravo interno desprovido. Segundo agravo interno não conhecido.
+(AgInt no AREsp 1080190/PR, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/04/2018, DJe 05/06/2018)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art.253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecerparcialmente do recurso especial e, nessa extensão, negar-lheprovimento. Caso exista nos autos prévia fixação dehonorários advocatícios pelas instâncias de origem, determino suamajoração em desfavor da parte recorrente, no importe de 15% sobre o valorjá arbitrado, percentual esse justificado pelo tempo decorrido entrea interposição do recurso e julgamento e a complexidade da causa, nostermos do art. 85, § 11, do Código de Processo Civil. Os limitespercentuais previstos nos §§ 2º e 3º do referido dispositivo legal devemser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO 3/STJ. APOSENTADORIA POR IDADE RURAL. VIOLAÇÃO DO ARTIGO1.022 DO CPC/2015. NÃO OCORRÊNCIA. REGIME DE ECONOMIA FAMILIAR. VÍNCULOURBANO. QUESTÃO ATRELADA AO REEXAME DE MATÉRIA FÁTICA. SÚMULA 7/STJ.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
