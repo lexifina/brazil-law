@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos pelo MUNICÍPIO DE RIO DE JANEIRO à decisão de fls. 345/346, que determinou a baixa dos presentes autos ao tribunal de origem, tendo em vista a interposição do agravo de fls. 277/288.
+A parte embargante alega, em síntese, que a referida decisão é contraditória, "porquanto o recurso em tela foi corretamente identificado como agravo em recurso especial, havendo mero lapso na indicação do dispositivo, o que em nada altera ou afeta a substância das razões recursais." (fl. 349)
+Esclarece ainda que foram interpostos dois recursos em face da decisão que inadmitiu o recurso especial: o agravo interno (fls. 289/295), já julgado, para impugnar o não seguimento do recurso, na forma do art. 1.021, do Código de Processo Civil e o presente agravo (fls. 277/288), direcionado ao STJ, para tratar da inadmissão do apelo nobre nos demais pontos.
+Requer, ao fim, o conhecimento e acolhimento dos embargos declaratórios para que seja conhecido e processado o recurso como agravo em recurso especial.
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, deixando de se manifestar no prazo assinalado (fl. 356).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, observa-se que a parte embargante, no intuito de ver reconsiderada a decisão que determinou a baixa dos autos, sustentou que ela própria incorreu em erro ao elaborar a petição, "havendo, tão somente, mero lapso na indicação da norma legal, o que em nada afeta o seu processamento e julgamento por este d. órgão julgador." (fl. 350)
+Malgrado o equívoco na fundamentação legal, o tribunal de origem recebeu o recurso como agravo em recurso especial e determinou a subida dos autos ao Superior Tribunal de Justiça. (fl. 334)
+No entanto, ao contrário do que sustenta a parte embargante, não se trata de um mero desacerto ou equívoco na elaboração da petição recursal, e sim de indicação completamente errada do fundamento legal que ampara a pretensão.
+É da nossa jurisprudência que "a interposição do agravo previsto no art. 1.021 do CPC de 2015 quando cabível o agravo do art. 1.042 do mesmo codex, e vice-versa, configura erro grosseiro e leva ao não conhecimento do recurso erroneamente interposto" (REsp n. 1.926.705/AL, relator Ministro Gurgel de Faria, DJe de 30/3/2021), sendo inaplicável, portanto, o princípio da fungibilidade recursal.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
