@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em favor de EUCLIDES MARQUES VIANA FILHOcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação n. 1501527-21.2019.8.26.0559).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 6 anos e 8 meses de reclusão, em regime inicial fechado, e 666 dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006 (e-STJ fls. 25/32).
+Irresignado, o paciente interpôs recurso de apelação, o qual foi desprovido (e-STJ fls. 33/46), em acórdão assim ementado:
+APELAÇÃO - Tráfico de drogas - Sentença condenatória. Defesa de Marcos Antônio: sustenta a necessidade de absolvição por ausência probatória; Defesa de Euclides: pleiteia a aplicação do redutor (artigo 33, § 4º) alegando preenchimento dos requisitos, a fixação do regime mais brando e a substituição da pena privativa de liberdade por restritiva de direitos - Descabimento - Materialidade e autoria comprovada - Pena-base corretamente fixada, com base nas diretrizes do artigo 59 do Código Penal e do artigo 42 da Lei 11.343/06 - Regime fechado adequado e compatível com a gravidade do crime - Redutor previsto no art. 33,§ 4º da Lei 11.343/06, inviável - Conjunto probatório coligido aos autos suficiente para afirmar, o cometimento do delito de Trafico - RECURSOS NÃO PROVIDOS.
+Em anterior impetração que teve curso nesta Corte, foi reconhecida a confissão espontânea do paciente, motivo pelo qual a sua pena foi redimensionada para5 anos, 6 meses e 20 dias de reclusão e 555 dias-multa, mantidos os demais termos da condenação (e-STJ fls. 47/59).
+No presente mandamus (e-STJ fls. 3/21), oimpetrantesustentaque o acórdão impugnado impôs constrangimento ilegal ao paciente, pois manteve a sua condenação com base em prova ilícita, obtida mediante a violação do seu domicílio, sem a devida autorização judicial eausente situação de flagrância, sendo apenas dito pelos policiais que o paciente teria franqueado o ingresso na residência. Nesse contexto, entende que o paciente deve ser absolvido.
+Subsidiariamente, assevera que o paciente faz jus àcausa de diminuição prevista no art. 41 da Lei n. 11.343/2006,na medida em que acabou por auxiliou os milicianosna indicação do local em que os entorpecentes foram localizados.
+Em consequência da redução da pena,entende que o paciente farájus aregime prisional mais brando.
+Ao final, liminarmente e no mérito,pede a concessão da ordem para que seja reconhecida a nulidade da prova obtida na residência do paciente, com a sua consequente absolvição. Subsidiariamente, pede a aplicação da minorante prevista no art. 41 da Lei n. 11.343/2006, com o consequente abrandamento do regime inicial.
+É o relatório. Decido.
+Não obstante as razões deduzidas na petição inicial, não é possível dar seguimento ao presente writ.
+Afinal, as teses ora suscitadas - nulidade das provas obtidasmediante violação de domicílio e aplicação da causa de diminuição prevista no art. 41 da Lei n. 11.343/2006 - não foramobjeto de debate pelo Tribunal a quo.
+Dessa forma, revela-se incabível o respectivo exame no âmbito do Superior Tribunal de Justiça, sob pena de supressão de instância.
+Nesse sentido, segue a jurisprudência desta Corte:
+ ..  DOSIMETRIA. MATÉRIA NÃO ANALISADA NAS INSTÂNCIAS ORDINÁRIAS. CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA DESPROVIDA.
+1. Inviável a concessão de habeas corpus de ofício se a matéria relativa à aplicação da pena ainda não foi analisada pelas instâncias ordinárias, pois implicaria em indevida supressão de instância.
+2. Agravo regimental desprovido (AgRg no REsp 1.382.235/PR, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 26/10/2016).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NULIDADE DAS PROVAS. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte. Precedentes.
+2. "Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada a sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, da aventada nulidade das provas produzidas (..)" (HC 318.623/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/05/2015, DJe 28/05/2015).
+3. Agravo regimental não provido (AgRg no HC 196.282/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 18/10/2016).
+Ante o exposto, com base no art. 210 do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
