@@ -1,0 +1,21 @@
+Decisão: Trata-se de habeas corpus impetrado em face de acórdão do STJ, assim ementado (AgRg no HC 618.731 - eDOC 3, p. 353):
+    AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÂNSITO EM JULGADO. ALEGAÇÃO DE NULIDADE. MATÉRIA NÃO ARGUIDA PERANTE A CORTE A QUO. SUPRESSÃO DE INSTÂNCIA. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO. 1. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, cumpre ao agravante impugnar especificamente todos os fundamentos estabelecidos na decisão agravada (Súmula n. 182 do STJ). 2. No presente agravo regimental, a defesa limita-se a reiterar os argumentos do habeas corpus, olvidando-se de impugnar, de forma específica, os fundamentos da decisão agravada. 3. Agravo regimental não conhecido.
+    Os embargos de declaração foram rejeitados nos termos da seguinte ementa (eDOC 3, p. 386):
+    PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. OMISSÃO. NÃO OCORRÊNCIA. MERO INCONFORMISMO. EMBARGOS REJEITADOS. 1. Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte. 2. É pacífico o entendimento desta Corte de que não se pode confundir julgamento desfavorável à parte com negativa ou ausência de prestação jurisdicional (AgRg no REsp n. 1.836.959/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 23/10/2019; AgInt nos EDcl no REsp n. 1.451.163/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 24/4/2020; e AgRg no REsp n. 1.585.104/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe de 23/4/2018). 3. À míngua qualquer omissão no acórdão, verifica-se que o embargante busca tão somente um novo reexame da causa. Entretanto, não é possível dar efeitos infringentes aos aclaratórios sem a demonstração de eventual vício ou teratologia. 4. Embargos de declaração rejeitados.
+    Busca-se a declaração de deficiência na defesa do paciente e, por conseguinte, a cassação da certificação do trânsito em julgado de sua condenação criminal.
+    É o relatório. Decido.
+    1. Cabimento do habeas corpus:
+    A Corte compreende que, ordinariamente, o habeas corpus não se presta a rescindir provimento condenatório acobertado pelo manto da coisa julgada, daí a impossibilidade de figurar como sucedâneo de revisão criminal. Acerca do tema:
+    “O Supremo Tribunal Federal não admite a utilização do habeas corpus em substituição à ação de revisão criminal.” (HC 128693 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em 04/08/2015, grifei)
+    “O habeas corpus não pode ser utilizado como sucedâneo de revisão criminal.” (HC 123430, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 14/10/2014, grifei)
+    “(...) habeas corpus não pode ser utilizado, em regra, como sucedâneo de revisão criminal, a menos que haja manifesta ilegalidade ou abuso no ato praticado pelo tribunal superior.” (HC 86367, Relator(a): Min. ELLEN GRACIE, Segunda Turma, julgado em 30/09/2008, grifei)
+    No caso concreto, por contrariar frontalmente a jurisprudência do Supremo Tribunal Federal, o habeas corpus não merece conhecimento, na medida em que funciona como sucedâneo de revisão criminal.
+    2. Análise da possibilidade de concessão da ordem de ofício no caso concreto:
+    Devido ao caráter excepcional da superação da jurisprudência da Corte, a concessão da ordem de ofício configura providência a ser tomada tão somente em casos absolutamente aberrantes e teratológicos, em que a ilegalidade deve ser cognoscível de plano, sem a necessidade de produção de quaisquer provas ou colheita de informações, o que, no caso concreto, não se verifica.
+    Destarte, como não se trata de decisão manifestamente contrária à jurisprudência do STF ou de flagrante hipótese de constrangimento ilegal, não é o caso de concessão da ordem de ofício.
+    3. Diante do exposto, com fulcro no art. 21, § 1º, do RISTF, nego seguimento ao habeas corpus.
+    Publique-se. Intime-se.
+    Brasília, 5 de agosto de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
