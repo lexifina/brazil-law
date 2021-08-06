@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  favor  de  EDUARDO FELIPE DA SILVA,  contra  decisão monocrática  proferido  por Desembargador doTribunal  de  Justiça  do  Estado  de  Pernambuco no HC  n.  0013103-60.2021.8.17.9000.
+Consta  dos  autos  que  o  Juízo  das  Execuções  Criminais  julgou inviávelo pedido de contagem em dobro do período em que o paciente permaneceu recluso no Complexo do Curadoem virtude da admissão do Incidente de Resolução de Demandas Repetitivas nº 0008770-65.2021.8.17.9000, perante a Seção Criminal daquela corte Estadual  (e-STJ ,  fl.  37).
+A  defesa,  então,  insatisfeita,  ingressou com habeas corpus, perante a Corte de origem.  O  Desembargador,  contudo,  indeferiu o pedido de urgênciae determinou o sobrestamento do writ(e-STJ, fls. 39/53).
+Nesta impetração, a defesa sustenta que a Corte IDH (Resolução de 28/11/2018-Doc.072), bem como recente julgado deste Superior Tribunal de Justiça (AgRg no RHC 136.961/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, DJe 21/6/2021)reconheceramodireito ao cômputo em dobro do tempo em que o custodiadopermaneceu preso no Complexo Penitenciário do Curado.
+Aduz que as sentenças da Corte IDH têm eficácia imediata e efeito vinculante em relação ao estado brasileiro, nos exatos termos do Decreto 4.463/2002.
+Ressalta que o caso do Complexo do Curado foiobjeto de inúmeras inspeções, as quaisreconheceram areferidaunidadeinadequadapara a execução de penas, especialmente em razão de os presos se acharem em situação degradante e desumana,o queresultou na edição dareferidaResolução da Corte IDH.
+Argumenta, ademais, que não se tratando de recurso de agravo de execução, o que sequer pôde ser interposto na origem, o sobrestamento determinado pelo Relator coator, porque não se pode invocaro "entendimento firmado pela Seção Criminal".
+Pede, dessa forma, que seja computadoem dobro o tempo de reclusão do Paciente no Complexo do Curado ou que seja determinado ao Tribunal Estadual o julgamento de mérito do habeas corpus originário.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.").
+Ilustrativamente:
+"PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO.
+1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.  .. "(HC n. 486.900/SP, deste Relator, Quinta Turma, DJe de 26/2/2019).
+No caso, oDesembargador, na Corte de origem, julgou a questão da seguinte forma:
+" ..  Com efeito, a Seção Criminal, em sessão realizada no dia 19.06.2021, à unanimidade, decidiu pelo sobrestamento de todos os feitos que versem sobre o cômputo em dobro do tempo de prisão cumprido no Complexo Penitenciário do Curado, em observância a Resolução emitida pelo Corte Interamericana de Direitos Humanos. .. Portanto, não vejo, neste momento, a plausibilidade jurídica do pedido a autorizar a superação do entendimento firmado pela Seção Criminal desta Corte para prosseguir com o exame da pretensão deduzida. Pelo exposto, indefiro o pleito urgencial e, com escopo na decisão proferida pela Seção Criminal, determino o sobrestamento do writ.  .. "
+Ocorre que, na hipótese vertente, houve supressão de instância, haja vista que o recurso cabível seria o agravo regimental, a ser interposto na Corte de origem contra a referida decisão, que indeferiu liminarmente o writ.
+Observa-se, pois, que a decisão proferida pela Desembargadora Relatora não se encontra eivada de flagrante ilegalidade passível de justificar o processamento desta ordem.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
