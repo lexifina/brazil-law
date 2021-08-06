@@ -1,0 +1,47 @@
+DECISÃO
+Cuida-se de agravo apresentado por C.C. INCORPORADORA E ADMINISTRACAO DE BENS PROPRIOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO REIVINDICATÓRIA. Sentença que julgou procedente a ação para imitir a autora na posse do imóvel. Insurgência da apelante fundada na tese de que sua posse sobre o imóvel decorre de justo título. Imissão na posse que demanda, além do domínio sobre o imóvel, que também esteja demonstrada a posse injusta daquele que tem o imóvel em seu poder. Autora que adquiriu o imóvel de procurador do loteador em 1994. Apelante que demonstra ser cessionária de compromisso de compra e venda irretratável e irrevogável, com o que os loteadores anuíram em 1973, igualmente comprovando o pagamento do preço e o exercício da posse do imóvel sem a oposição de terceiros desde então. Posse justa da apelante que obsta o provimento da ação recurso provido.
+Alega violação dos arts. 1.227, 1.228 e 1.245 do CC, bem como divergência jurisprudencial, no que concerne à imissão na posse de imóvel do proprietário que, em caso de dupla venda do bem, primeiro promoveu o registro da transferência do domínio, em detrimento do possuidor que não levou a registro anterior contrato de compromisso de compra e venda, trazendo os seguintes argumentos:
+No presente caso o v. Acórdão contraria o mencionado artigo, negando os efeitos erga omnes ao ato de aquisição promovido e devidamente registrado pela RECORRENTE.
+ ..
+O v. Acórdão debatido prossegue assim em seu raciocínio: ".. apenas se está acolhendo a tese de defesa para assegurar a sua posse, porquanto fundada em justo título."  Ora, na notificação enviada à ré foi solicitada a desocupação do imóvel, o que não foi atendido, tornando a posse irregular. Não obstante, o decisum lhe nega o direito à imissão na posse do imóvel, considerando a posse como justa!
+ ..
+A contrariedade fica evidente na medida em que o acórdão nega à RECORRENTE o direito de reaver a coisa de quem vem exercendo a sua posse sem o seu consentimento mas, ao contrário, com expressa desautorização manifestada através da notificação extrajudicial que lhe foi encaminhada!
+ ..
+Assim, resta claro que, ao negar a RECORRENTE o direito de se imitir na posse de um imóvel adquirido de modo justo, e com as devidas cautelas de registro, o v. Acórdão fere os artigos supra citados da Lei Federal.
+ ..
+ ..  no presente caso a contrariedade aos artigos 1.227, 1.228 e 1.245 do CC é manifesta, caminhando na contramão do acórdão paradigma que traz a solução adequada a demanda, acórdão este proferido pela Décima Câmara Cível do Rio de Janeiro na apelação 0264261- 94.2014.8.19.0001-RJ, extraído do site do TJRJ:
+ ..
+ ..  no acórdão paradigma se aplicou adequadamente a norma federal contida no ordenamento jurídico especificamente os artigos 1.227, 1.228 e 1.245 do Código Civil que não abrem dúvidas quanto a configuração do direito de propriedade se dá com o registro do título no cartório respectivo, enquanto que no acórdão paradigmático ora impugnado, ocorreu diametralmente o oposto, com contrariedade manifesta dos mencionados artigos (fls. 1040/1051).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+A matrícula do imóvel, originada a partir do loteamento de área maior, indica como primeiros titulares do domínio José Cassio de Macedo Soares e sua mulher Maria do Carmo de Macedo Soares (fls. 18).
+Observa-se que José Cassio de Macedo Soares e Maria do Carmo de Macedo Soares eram proprietários de "área de terras contíguas" "destinadas a plano de loteamento, ao qual foi dada a denominação de "Jardim Maria do Carmo".
+O "instrumento particular de contrato de promessa de venda e compra", acostado às fls. 229/237 e subscrito em 13.12.1971, estabelece que:
+ ..
+Seguiu-se a cessão particular do aludido contrato à apelante em 12.07.1973, com a anuência do inventariante do espólio de José Cássio Macedo Soares, seus herdeiros e a viúva meeira (fls. 238/239).
+O instrumento de cessão indicava que as prestações deveriam ser pagas pelo cessionário a Consórcio Coronado de Implantações Ltda. (fls. 239), observando-se que a contestação está instruída com os comprovantes de pagamento à aludida pessoa jurídica (fls. 240/247).
+Do cotejo entre o aludido instrumento contratual e a matrícula do imóvel, aberta em 08.06.1994, observa-se tratar-se do mesmo imóvel, assim descrito pela respectiva matrícula:
+ ..
+Nessa medida, tem-se que os loteadores compromissaram o imóvel à venda em 13.12.1971 para Dorival Martinuci, por meio de negócio jurídico irrevogável e irretratável (fls.
+235), e transmitiram ao promissário comprador a posse do lote naquela data (cláusula VIII fls. 232), seguindo-se sua sucessão pela cessionária, ora apelante.
+Inobstante à preexistência do compromisso de compra e venda, os loteadores venderam o mesmo imóvel a Carlos Alberto Ruban em 08.03.1994, o qual o alienou à autora em 22.03.1994, sobrevindo em 08.06.1994 o registro da transferência do domínio.
+É certo que o compromisso de compra e venda não registrado não confere direito real à apelante, a qual, portanto, não dispõe de título translativo do domínio do imóvel.
+No entanto, ainda que do compromisso particular de compra e venda apenas decorram direitos de natureza obrigacional, este é suficiente para demonstrar que a raiz causal da posse direta da apelante e que esta decorre de justo título.
+ ..
+Nesse percurso, observa-se que, quando a apelada adquiriu o imóvel, este estava em poder da apelante, e a apelada não buscou imitir-se na sua correlata posse, mas sim rescindir o compromisso de compra e venda.
+Não se evidencia, portanto, oposição à posse da apelante que seja anterior ao ajuizamento da presente ação reivindicatória em 11.06.2014.
+O álbum probatório demonstra de modo satisfatório que a apelante, há mais de quarenta anos consecutivos, vem exercendo a posse do imóvel amparada em justo título (compromisso de compra e venda firmado com loteador) de forma contínua e pacífica e sem qualquer oposição.
+Por conseguinte, não está presente o requisito necessário ao acolhimento da pretensão reivindicatória de que, além do domínio registrário, também esteja demonstrada a posse injusta daquele que tem o imóvel em seu poder.
+Ressalte-se que nestes autos não se está equacionando definitivamente a questão do domínio sobre o lote, mas apenas se está acolhendo a tese de defesa para assegurar a sua posse, porquanto fundada em justo título (fls. 1027/1032).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à controvérsia pelal alínea "c", verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
