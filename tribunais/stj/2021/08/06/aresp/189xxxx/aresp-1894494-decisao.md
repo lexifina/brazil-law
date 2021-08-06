@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO DE LASERTERAPIA MED-LASER LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - Interposição contra a sentença que julgou improcedente ação de rescisão contratual. Multa contratual estabelecida em caso de infringência do pacto. Fixação, porém, no patamar de 10%. Aplicação do artigo 413 do Código Civil. Ação parcialmente procedente. Sucumbência recíproca. Sentença parcialmente reformada.
+Apelação parcialmente provida.
+Quanto à controvérsia apresentada, pelas alíneas "a" e "c" do permissivo constitucional, alega violação do art. 86, parágrafo único, do CPC, bem como aponta dissídio jurisprudencial, no que concerne à necessidade de afastamento da sucumbência recíproca, tendo em vista que a recorrente sucumbiu em parte mínima do pedido, trazendo os seguintes argumentos:
+O v. acórdão recorrido, de maneira acertada, deu provimento à Apelação da Recorrente, determinando a redução da cláusula penal prevista em 50% dos valores vincendos, para o patamar de 10%. Contudo, entendeu que a sucumbência deveria ser repartida entre as partes, apontando que ambas tiveram parte de seus pedidos acolhidos.
+Com efeito, segundo a regra do artigo 86, parágrafo único do Código de Processo Civil, é dever da parte vencida na maioria dos pedidos, em arcar com as despesas processuais e os honorários advocatícios.  ..
+ ..
+E como demonstrado, a presente ação foi ajuizada pela Recorrente com o objetivo de promover a redução da cláusula penal no contrato celebrado entre as partes, dada sua exclusividade, vez que originalmente foi pactuada no valor de 50% das parcelas vincendas.
+Com efeito, a Recorrente ajuizou a ação pretendendo a redução da mencionada multa ao patamar de 5% sobre as parcelas vincendas. Enquanto as Recorridas defenderam a improcedência da ação, pleiteando a manutenção do valor original.
+Neste contexto, sobreveio o v. acórdão vergastado julgando parcialmente procedente o pleito da Recorrente, reduzindo a cláusula penal para o patamar de 10% sobre as parcelas remanescentes.
+Neste aspecto, verifica-se que a Recorrente pleiteou a redução da multa no patamar de 45% (de 50% para 5% das parcelas remanescentes), enquanto o v. acórdão recorrido determinou a redução em 40% do valor da multa (vez que reduziu para o patamar de 10% sobre as parcelas restantes).
+Dessa forma, se a Recorrente requereu a redução de 45%, mas obteve a redução de 40%, tem-se que logrou êxito em 90% de seus pedidos, o que faz com a Recorrente tenha sucumbido na proporção de apenas 10%.
+Ora, evidente que a sucumbência na proporção de apenas 10% de seus pedidos trata de sucumbência mínima, já que a maior parte dos pedidos da Recorrente foi deferida, quedando-se vencida em apenas pequena parcela (10%).
+ ..
+Tanto é assim, que o valor atribuído à causa foi de R$ 66.000,00 (sessenta e seis mil reais), que corresponde a 50% do valor das parcelas vincendas do contrato, ao passo que o v. acórdão recorrido a reduziu para o valor de R$ 13.200,00 (treze mil e duzentos reais), que corresponde a 10% do valor das parcelas vincendas.
+Logo, é nítida a violação ao artigo 86, parágrafo único do Código de Processo Civil, cometida pelo E. Tribunal de Justiça de São Paulo, que não reconheceu a sucumbência mínima da Recorrente no caso em tela, em razão do proveito econômico obtido com o resultado do julgamento.
+ ..
+Não obstante, cumpre destacar que o v. acórdão recorrido parte da seguinte premissa para aplicar a sucumbência recíproca:
+A autora pleiteou a rescisão contatual, bem comoa desobrigação de adimplir quaisquer valores a partir de 08/11/18 e, ainda, a redução da cláusula penal.
+Tão somente foi acolhido o pedido de redução da multa contratual prevista. Logo, de rigor reconhecer que houve sucumbência recíproca, nos termos decididos pelo v. acórdão.
+Contudo, este entendimento está equivocado, uma vez que a Recorrente logrou êxito nos pedidos de redução do percentual da cláusula penal e da rescisão contratual, em face das Recorridas.
+ ..
+Notem I. Ministros. que as Recorridas em momento algum destes autos se insurgiram com relação ao pedido de rescisão contratual, tornando-o fato incontroverso. Logo, os únicos pontos controvertidos e analisados pelo E. Tribunal de Justiça de São Paulo são (i) a porcentagem devida a título de cláusula penal e; (ii) a data em que se operou a rescisão contratual.
+E como já destacado, houve êxito de 90% com relação ao proveito econômico na questão da redução da cláusula penal, o que demonstra a violação ao artigo 86 do CPC, cometido pelo E. Tribunal de Justiça de São Paulo.
+Contudo, caso esta C. Turma Julgadora entenda que a Recorrente tenha sucumbido com relação ao pedido de rescisão contratual, o que se admite apenas em atenção ao princípio da eventualidade, cumpre destacar que não representa expressiva repercussão no proveito econômico da demanda, de modo a ensejar a sucumbência recíproca prevista no artigo 86, caput do Diploma Processual.
+ ..
+Logo, é fácil a compreensão de que os VV. acórdãos recorridos violaram o art. 86, parágrafo único do Diploma Processual, uma vez que consideraram a Recorrente somente logrou êxito com relação ao pedido da porcentagem da multa pela quebra do contrato.
+No que concerne ao entendimento deste próprio C. STJ, é de se mencionar o v. acórdão paradigma extraído do Agravo Interno em Agravo em Recurso Especial nº 1.680.410/GO, em que figuram o Estado de Goiás como Agravante e João Marcio Alves de Oliveira e outros como Agravados.
+ ..
+De plano, é possível contemplar a existência de similitude fática entre o v. acórdão recorrido e o v. acórdão paradigma, haja vista que, em ambos os casos o pedido para redução da multa foi reduzido pelo Tribunal de origem, em razão de sua abusividade.
+Ocorre que, muito embora os casos sejam semelhantes do ponto de vista fático (redução da multa atribuída a parte, em razão do caráter abusivo), a conclusão adotada pelo v. acórdão recorrido é diametralmente oposto àquela adotada pelo v. acórdão paradigma  ..
+ ..
+No que tange o dissídio jurisprudencial, este é evidente, na medida em que o v. acórdão recorrido, apesar de dar provimento ao recurso de apelação, reduzindo a multa contratual em 90% de seu valor original, manteve a sucumbência recíproca, entendendo pela aplicação do artigo 86, caput do Código de Processo Civil.
+Enquanto o v. acórdão paradigma reconheceu a sucumbência mínima da parte vencedora, nos termos do artigo 86, parágrafo único da Lei Processual, após o Tribunal de origem reduzir a multa aplicada ao contribuinte, por entendê-la excessiva. (fls. 316-323).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, pela alínea "a" do permissivo constitucional, o Tribunal de origem se manifestou nos seguintes termos:
+ ..  O parcial provimento do apelo importa em modificação do ônus de sucumbência, que fica agora fixada de forma recíproca, na medida em que cada uma das litigantes se tornou, em parte, vencida e vencedora na demanda, razão pela qual devem arcar com custas e despesas processuais pela metade, como preconiza o artigo 86, caput, do Código de Processo Civil de 2015.  ..  (fl. 266).
+Em sede de embargos de declaração consignou o Tribunal a quo:
+Entretanto, não merece prosperar o recurso em relação à sucumbência, que restou fixada de forma recíproca, ante a parcial procedência da ação, nos termos do que preconiza o artigo 86, caput, do Código de Processo Civil de 2015.
+ ..
+A autora pleiteou a rescisão do contrato, bem como a desobrigação de adimplir quaisquer valores a partir de 08/11/18 e, ainda, a redução da cláusula penal.
+Tão-somente foi acolhido o pedido de redução da multa contratual prevista. Logo, de rigor reconhecer que houve sucumbência reciproca, nos termos decididos pelo v. acórdão. (fls. 282-283).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, a apreciação do quantitativo em que autor e réu saíram vencedores ou vencidos na demanda, bem como da proporção em que cada parte ficou sucumbente em relação ao pedido inicial, enseja o revolvimento de matéria eminentemente fática.
+Nesse sentido: "A jurisprudência do Superior Tribunal de Justiça é firme no sentido de não ser possível a revisão do quantitativo em que autor e réu decaíram do pedido, para fins de aferir a sucumbência recíproca ou mínima, por implicar reexame de matéria fático-probatória, procedimento vedado pela Súmula n. 7 do STJ". (AgInt no AREsp 969.868/MT, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/6/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.848.602/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/8/2020; AgInt no AREsp 1.571.133/MG, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/5/2020; AgInt no REsp 1.336.000/SC, relator Ministro Og Fernandes, Segunda Turma, DJe de 14/2/2020.
+Quanto à controvérsia, pela alínea "c" do permissivo constitucional, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
