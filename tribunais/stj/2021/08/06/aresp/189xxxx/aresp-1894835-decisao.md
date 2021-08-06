@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELENICE MARIA BORGES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - JUSTIÇA GRATUITA PESSOA FÍSICA REQUERENTE - HIPOSSUFICIÊNCIA FINANCEIRA NÃO COMPROVADA CONDIÇÕES DA REQUERENTE DE ARCAR COM DESPESAS PROCESSUAIS - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação do artigos 98 e 99, caput e §§ 2º e 3º, do CPC, no que concerne ao indeferimento do benefício de gratuidade da justiça, trazendo os seguintes argumentos:
+Ora, está demonstrado de maneira inequívoca nos autos que a recorrente não possui qualquer condição financeira de arcar com as despesas das centenas de ações ativas que tramitam contra a mesma. A dívida cobrada se avolumou de tal maneira, que hoje se encontra em um montante impagável. (fls. 195).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Importante, para o desfecho do julgamento, sinalizar que os agravantes sequer acostaram aos autos suas declarações de IRPF, uma vez que, regras de experiência impõem a compreensão de que, para se contrair dívidas dessa monta, deve, no mínimo, o tomador de empréstimo demonstrar capacidade mínima para arcar com o pacto.
+Nessa quadra, o postulante ao benefício da gratuidade de justiça, além de apresentar suas dívidas, deveria, no mínimo, também apresentar a relação de seu patrimônio, valendo aqui, transcrever parte da decisão proferida pelo juízo de 1º grau:
+Pelos valores envolvidos na negociação, nota-se que se trata o embargante de grande produtor rural. Por esta razão, fez-se necessário sua intimação para justificar o pedido de concessão dos benefícios da gratuidade de justiça.
+Entretanto, não fizeram prova da pobreza declarada, como determinado, limitando-se a repetir alegações já conhecidas do juízo.
+A existência de dívidas ou de obrigações contratuais não é por si só suficiente para corroborar a alegada precariedade financeira, havendo nos autos elementos que evidenciam a falta dos pressupostos legais para a concessão da gratuidade. (fl. 182)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não dos requisitos para a concessão da gratuidade de justiça às partes exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu sobre a "inviabilidade de verificar se as partes no caso poderiam ou não serem contempladas pelo benefício da gratuidade de justiça, por demanda reexame de contexto fático-probatório". (AgInt no AREsp 897.498/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 16/8/2016.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.570.272/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020; AgInt no AREsp 1.000.602/RS, relator Ministro Og Fernandes, Segunda Turma, DJe de 22/5/2020; AgInt no AREsp 1.564.850/MG, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/3/2020; AgInt no AREsp 1.173.115/RS, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 18/4/2018; REsp 1.784.623/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 11/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
