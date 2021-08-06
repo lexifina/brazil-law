@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por FABIO DE ABREU SLEIMAN contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO. PRESTAÇÃO DE SERVIÇOS. AÇÃO DE RESCISÃO CONTRATUAL E DEVOLUÇÃO DE VALORES. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. JULGAMENTO ANTECIPADO CABÍVEL, NO CASO. QUESTÃO PRELIMINAR REJEITADA. RECURSO NESTA PARTE IMPROVIDO. As questões postas ao crivo do Magistrado de primeiro grau cingiam-se, preponderantemente, a matéria de direito, sendo que mesmo os aspectos fáticos da demanda estavam suficientemente elucidados, prescindindo, assim, da reclamada dilação probatória. A prova documental é robusta na demonstração da conduta atribuída ao réu.
+APELAÇÃO. PRESTAÇÃO DE SERVIÇOS. AÇÃO DE RESCISÃO CONTRATUAL E DEVOLUÇÃO DE VALORES. VALOR PAGO PARA REALIZAÇÃO DE PESQUISA E LEVANTAMENTO DE INFORMAÇÕES E PENDÊNCIAS EM NOME DA CONTRATANTE. INFORMAÇÕES QUE PODERIAM SER OBTIDAS ÀS EXPENSAS DA CONTRATANTE QUE FICARIA ISENTA DE TAL PAGAMENTO. RECURSO NESTA PARTE PARCIALMENTE PROVIDO. O valor de R$ 1.857,14 não pode ser restituído, pois ele se refere à pesquisa e levantamento de informações e pendências financeiras da autora junto aos órgãos de proteção ao crédito. A autora gozava da possibilidade de levantar as informações às suas expensas e ficar isenta de tal pagamento; todavia, preferiu pagar para que tal providência fosse realizada. Entretanto, por comodidade, preferiu relegar essa tarefa também à ré. Inexiste qualquer irregularidade na referida cobrança, de modo que, com relação a ela, a autora não possui razão.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 5º, 6º e 10 do CPC, no que concerne à ocorrência de cerceamento do direito de defesa, trazendo os seguintes argumentos:
+O ponto a ser enfrentado por esta Colenda Corte é a decisão e fundamento invocados pelo Tribunal de Justiça de São Paulo, que ao determinar a manutenção da sentença atacada cerceou a defesa da Recorrida e incorreu em evidente contrariedade aos artigos 5º, 6º e 10 do Código de Processo Civil O veemente acórdão de fls. 133-142 na origem reconheceu expressamente que a Recorrente deveria fazer provas em sentido contrário das alegações da Autora.
+ ..
+Todavia a produção de provas não foi oportunizada a Recorrente, motivo pelo qual o processo não poderia ter sido sentenciado em desfavor da Recorrente utilizando como fundamento a "ausência de provas", logo após sequer consulta-la acerca do interesse em comprovar suas alegações.
+É a redação dos violados aos artigos 5º, 6º e 10º do Código de Processo Civil, que assim tutelam:
+ ..
+Como se nota da contestação, a Recorrente impugnou especificamente todas as alegações autorais e jamais renunciou a produção de demais provas para comprovar suas alegações, inclusive pretendia requerer a produção de prova testemunhal para a oitiva dos funcionários que realizaram os contatos com o banco credor, afastando a ausência de prestação de serviços que fundamentou a r. sentença.
+Em atenção ao princípio da boa-fé processual e ao disposto no artigo 10º do CPC, supracitado, deveria o juízo "a quo" ter oportunizado às partes a indicação de provas sob pena de julgamento antecipado.  ..
+ ..
+A ausência de provas que refutassem as alegações da Recorrida foi o único argumento que levou o juízo a dar procedência ao feito. Descabido que não se oportunize à parte indicar os meios de provas que entende cabível para, logo depois, julgar o feito baseando-se na ausência de provas.
+Sendo assim, a conduta praticada pelo juízo de primeira instância viola os dispositivos do Código de Processo Civil acima indicados, configurando evidente cerceamento de defesa (fls. 162/164).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+As questões postas ao crivo do Magistrado de primeiro grau cingiam-se, preponderantemente, a matéria de direito, sendo que mesmo os aspectos fáticos da demanda estavam suficientemente elucidados, prescindindo, assim, da reclamada dilação probatória.
+ ..
+A autora contratou a prestação de serviço da ré que se comprometeu a quitar a dívida com instituição financeira entre 3 a 18 meses. Ocorre que, após o decurso de 1 ano sem qualquer resultado, a autora resolveu entrar em contato com a instituição financeira credora de sua dívida, quando, para sua surpresa, descobriu que a requerida, após o decurso de todo esse período, não havia nem ao menos entrado em contato com aquela.
+Para refutar as alegações trazidas na petição inicial de que, depois do decurso de um ano, a contratada sequer havia entrado em contato com a instituição financeira, a ré deveria trazer provas em sentido contrário.
+ ..
+Desse modo, a ré deveria comprovar que estava encetando esforços para realizar acordo com a instituição financeira. Se entende conveniente que as tratativas sejam realizadas apenas por meio telefônico deveria gravar as ligações para comprovar a efetiva prestação de serviço.
+Todavia, não tomou referida precaução.
+A prova testemunhal consistente na oitiva de seus funcionários não seria apta a desconstituir as alegações da autora.
+Desse modo, não há falar que o julgamento antecipado cerceou direito de defesa da ré (fls. 139/141).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE TESTAMENTO. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA SENTENÇA. INOBSERVÂNCIA AO PRINCÍPIO DA DIALETICIDADE RECURSAL. ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83 DESTE TRIBUNAL. AGRAVO DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte quando considerada inútil ou meramente protelatória.
+2. A desconstituição do entendimento alcançado pelas instâncias ordinárias, a fim de se concluir pela imprescindibilidade da produção de prova testemunhal, demandaria o revolvimento de fatos e provas, o que esbarra no enunciado n. 7 da Súmula desta Corte.
+ ..
+4. Agravo interno desprovido. (AgInt no AREsp 1.686.380/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 3/3/2021.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
