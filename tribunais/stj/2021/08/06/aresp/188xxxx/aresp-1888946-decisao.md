@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo apresentado por AGRO COMERCIAL QUARTA GERAÇÃO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DUPLICATAS. Execução. Pedido de reconhecimento de sucessão de empresas. Suposta empresa sucessora que atua no mesmo ramo de atividade da executada e no mesmo ponto comercial. Ausência, porém, de prova da efetiva existência de patrimônio da executada transferível para a sucessora, bem como de encerramento irregular da executada. Fraude, desvio de finalidade social e transferência do fundo de comércio não caracterizados. Recurso não provido.
+O reconhecimento da sucessão empresarial, para fins de declaração de responsabilidade da sucessora por obrigações da sucedida, exige demonstração de transferência entre elas, de fundo de comércio, representado por bens do ativo e/ou estoque de mercadorias, com continuidade de exploração da mesma atividade econômica.
+Sustenta a parte recorrente, pelas alíneas "a" e "c" do permissivo constitucional, violação do art. 133 do CTN e dissídio jurisprudencial, no que concerne aos requisitos para a caracterização da sucessão empresarial, trazendo os seguintes argumentos:
+Nota-se no texto legal acima exposto que, para configuração da sucessão empresarial, basta a aquisição do fundo de comércio, com a consequente exploração comercial, sob a mesma razão social ou não.
+Fato estes que mostrou-se presente, pois houve exercício da atividade empresarial concomitantemente entre as empresas sucedida e sucessora, ainda que por curto espaço de tempo.
+E portanto, haja vista que o encerramento da sucedida, ora Recorrida deu-se já com o início da atividade da sucessora, resta claro que houve aquisição do fundo de comercio, bem como dos ativos da Recorrida.
+Ademais relata a R. decisão recorrida, que não fora demonstrado o encerramento da empresa Recorrida.
+ .. .
+Vejam, Nobres Ministros que o acórdão Paradigma mostra-se possível a caracterização da sucessão empresarial ainda que não se tenha comprovado a aquisição do fundo de comercio, bem como a inexistência de confusão societária, mas que através da observância dos fatos concretos, resta nítida a ocorrência da sucessão.
+Decisão esta que se assemelha em muito ao presente caso, onde ambas empresas exploram a mesma atividade comercial, bem como mesma clientela.
+Também assemelha-se no sentido do curto lapso temporal entre o encerramento da sucedida e início da sucessora.
+ .. .
+Restou demonstrado que a sucedida ora Recorrida, encerrou suas atividades após a saída da respectiva localidade onde ocorreu a sucessão, e portanto, mais uma prova de que a aquisição do fundo de comércio ocorreu. (fls. 77/80).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Com todo o respeito, as provas trazidas aos autos não atestam que houve efetiva sucessão da empresa devedora original pela empresa sucessora. Há sucessão quando uma empresa toma o lugar de outra e prossegue nos negócios.
+ .. .
+Os supostos indícios aventados pelas razões recursais infelizmente não fazem ligação convincente entre as empresas Romeus"s Supermercado Eireli e RJO Supermercados Eireli.
+Tais indícios, quando muito, atestam a exploração do mesmo ramo empresarial (Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios supermercados, padaria e confeitaria com predominância de revenda, comércio varejista de carnes açougues, comércio varejista de hortifrutigranjeiros), no mesmo ponto comercial, nada mais.
+O fato de ambas as empresas utilizarem os serviços do mesmo escritório contábil também não pode servir para comprovar a sucessão. Se assim fosse, deveria haver um escritório de contabilidade para cada empresa constituída, o que beira o absurdo.
+Enfim, era preciso uma demonstração mínima de fatores indeclináveis para a configuração do propalado desvio de finalidade e fraude.
+O principal deles consiste na necessária demonstração de que havia patrimônio de fôlego na posse da empresa originária quando de sua atuação com a empresa credora das duplicatas e que foi transmitido para a empresa pretensamente sucessora, mas nada de conclusivo foi apresentado nesse sentido.
+A propósito, observa-se que por ocasião da venda de mercadorias e emissão das cártulas, em 02.07.2018 e 06.07.2018, a empresa executada havia sido constituída a menos de um ano, em 31.08.2017 (fls. 139).
+ .. .
+Também o fato de que ambas as empresas supostamente teriam exercido suas atividades no mesmo local por ao menos 11 dias não foi minimamente comprovado. As datas de constituição e encerramento de empresas não necessariamente correspondem às datas de efetivo início e encerramento.
+Em tais condições, tudo analisado, penso que não foi comprovada a efetiva sucessão de empresas, por conseguinte não havendo como transferir a responsabilidade pela dívida executada à empresa RJO Supermercados Eireli, a qual, aliás, só foi constituída em 23.11.2018.
+O reconhecimento da sucessão empresarial, para fins de declaração de responsabilidade da sucessora por obrigações da sucedida, exige demonstração de transferência entre elas, de fundo de comércio, representado por bens do ativo e/ou estoque de mercadorias, com continuidade de exploração da mesma atividade econômica (fls. 65/67).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ademais, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
