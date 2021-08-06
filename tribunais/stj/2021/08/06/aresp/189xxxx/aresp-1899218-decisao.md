@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo BANCO DO BRASIL S.A. contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PENHORA EM CONTA-POUPANÇA VINCULADA A CONTA-CORRENTE - BLOQUEIO - VALOR QUE NÃO EXCEDE 40 SALÁRIOS MÍNIMOS - IMPENHORABILIDADE - ART. 833, X, DO CPC/2015 - RECURSO NÃO PROVIDO.
+"O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de que, até o limite de 40 (quarenta) salários mínimos depositados em qualquer tipo de conta bancária, a impenhorabilidade deve ser respeitada" (AgInt no AgInt no AREsp 1643889/SP).
+Alega divergência quanto à aplicação do art. 833, X, do CPC, com fundamento em que o acórdão recorrido "é divergente do entendimento proferido pelo Tribunal de Justiça do Estado do Paraná, conforme decidido no Acórdão Paradigma do Agravo de Instrumento nº 0006567-65.2019.8.16.0000, no qual reconheceu a possibilidade de penhora em conta poupança, quando há desvirtuamento da natureza jurídica da reserva financeira" (fl. 280).
+É, no essencial, o relatório. Decido.
+Na espécie, verifica-se que a tese recursal que serve de base para o dissídio jurisprudencial não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Dessa forma, reconhecida a ausência de prequestionamento da tese recursal objeto da divergência, inviável a demonstração do referido dissenso em razão da inexistência de identidade entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c" do permissivo constitucional.
+Nesse sentido: "A ausência de debate, no acórdão recorrido, acerca da tese recursal, também inviabiliza o conhecimento do recurso especial pela divergência jurisprudencial, pois, sem discussão prévia pela instância pretérita, fica inviabilizada a demonstração de que houve adoção de interpretação diversa". (AgRg no AREsp n. 1.800.432/DF, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 25/03/2021.)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
