@@ -1,0 +1,43 @@
+DECISÃO
+Cuida-se de agravo apresentado por GILBERTO GONCALVES DE CARVALHO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+PROCESSO CIVIL DIREITO ADMINISTRATIVO APELAÇÃO PENSÃO ESPECIAL LEI N 115202007 LEGITIMIDADE PASSIVA DO INSS PORTADOR DE HANSENÍASE HOSPITAL COLÔNIA DE CURUPAITI INTERNAÇÃO E SEGREGAÇÃO COMPULSÓRIA NÃO COMPROVAÇÃO IMPROCEDÊNCIA DO PEDIDO.
+Quanto à primeira controvérsia, pela alínea "c" do permissivo constitucional, alega divergência de interpretação do art. 1º da Lei n. 11.520/07, no que concerne ao direito à pensão mensal vitalícia, trazendo o(s) seguinte(s) argumento(s):
+Em consonância com a majoritária jurisprudência, conforme se observa em anexo (f) o primeiro voto e respectivo Acórdão reconheceu o direito ao sr. Liberto, justamente para o preencher os 3 quesitos citados no acórdão recorrido, tudo, devidamente comprovado, conforme admite também o próprio acórdão. Ato contínuo, após voto / vista, reforma-se a sentença sustentando a tese de que a exposição de motivos e não o texto legal, indica outros requisitos, tais como idade avançada, risco de morte, sequelas graves.
+ACÓRDÃO PARADIGMA TRF1
+No presente caso, a Autora pretende a Pensão Especial de Hanseniano, instituída pela Lei 11.520/2007, desde a data do requerimento administrativo junto à Secretaria Especial dos Direitos Humanos da Presidência da República, por ter sido internada compulsoriamente em colônia destinada ao confinamento de pessoas acometidas da doença.
+A finalidade da concessão da pensão especial em questão é compensar os danos causados aos portadores de hanseníase segregados, em razão da política sanitária de isolamento e internação compulsórios adotada pela União, bem como garantir meio para subsistência desses cidadãos que, pelas circunstâncias decorrentes desta política, seguiram sem base familiar e sem possibilidade concreta de ingressar no mercado de trabalho, a fim de adquirirseu meio de sobrevivência.
+Conforme a Lei 11.520/07, para que seja concedida a pensão especial, é necessária a comprovação de acometimento de hanseníase e a submissão a internação e isolamento compulsórios em hospitais-colônia, até 31 de dezembro de 1986.
+No caso dos autos, ficou demonstrado pelas provas materiais e testemunhais produzidas que a parte autora, acometida de hanseníase, esteve internada e isolada compulsoriamente em hospital-colônia no período alegado, preenchendo os requisitos necessários à concessão do benefício previsto no art. 1º da Lei 11.520/2007.
+Apelações e remessa oficial desprovidas.
+Diante deste contexto, com efeito, sem dúvida constata-se a similitude fática, entre o Acórdão Recorrido e o paradigma apresentado, bem como, tese diversa do mesmo dispositivo legal. (art. 1º da Lei 11.520/2007)
+De forma objetiva, apoiando-se nos autos e limitando-se o teor do art. 1º da lei 11.520/2007 o Acórdão paradigma decidiu a questão. (fls. 1.892-1.893).
+Quanto à segunda controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 1.022 do CPC, no que concerne ao não saneamento das contradições e omissões apostadas, trazendo o(s) seguinte(s) argumento(s):
+Em que pese o acórdão sustentar haver 3 requisitos para se ter direito a pensão Especial, o Colegiado reformou a sentença de piso, sob as seguintes alegações:
+ .. "Não se incluiu no público-alvo, com direito à pensão especial, um jovem nascido em 28/12/58 - então com 38 anos e 9 meses incompletos; 20 em 1979 (ano do diagnóstico); e 28 em 31/12/86 (data limite fixada na Lei 11.520/07)" ..
+Como se pode notar tantos outros critérios foram criados, tais como, idade avançada, risco de vida, idade, vários períodos para se apurar a idade enfim.
+Diante deste contexto os embargos suscitaram algumas questões por entender afronta ao Art. 1.022 NCPC.
+Produzindo quesitos além do texto legal o Acórdão recorrido deveria explicitar questões tais como:
+.  Importa que sejam esclarecidos os seguintes pontos quanto a tese jurídica:
+. Quais os pré-requisitos para a Concessão da pensão, quantos são e quais são
+.  A questão da sequela é pre requisito
+.  Idade mínima para a caracterização, existe, qual seria
+. Qual o marco cronológico para a apuração, 31/12/1986, o fechamento da Colônia, a publicação da lei
+. Sequelas adquiridas e idade, ou um ou outro
+Ocorre que os Acórdãos dos Embargos de Declaração mantiveram as contradições e omissões apontadas.
+Quanto a esta questão flagrante afronta ao at. 1.022 NCPC . (fls. 1.894).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Logo, correta a União ao ajustar que o Autor/Apelado, a despeito de comprovar que foi atingido pela Hanseníase e que houve tratamento especializado cumprindo-se a legislação em vigor à época, não logrou provar que foi submetido a isolamento e internação compulsórios no Hospital de Curupaiti no período de 1971 a 1986. Impõe-se, por conseguinte, a reforma da r. sentença a quo.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; e AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Assim, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que é obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Nesse sentido: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 284/STF, uma vez que a parte recorrente aponta violação do art. 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973), sem especificar, todavia, quais incisos foram contrariados, a despeito da indicação de omissão, contradição, obscuridade ou erro material.
+Nesse sentido: "É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem especificar quais foram os incisos violados. Aplica-se, na hipótese, o óbice da Súmula 284 do STF". (AgInt no AREsp n. 1.530.183/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 19/12/2019.)
+Confira-se também o seguinte julgado: AgInt no AREsp n. 1.559.920/SE, relator Ministro Francisco Falcão, Segunda Turma, DJe de 22/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
