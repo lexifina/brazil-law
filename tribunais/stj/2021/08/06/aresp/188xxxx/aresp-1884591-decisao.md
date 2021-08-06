@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DO RIO DE JANEIRO e OUTRO contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO DIREITO PROCESSUAL E PREVIDENCIÁRIO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alegam violação dos arts. 492, 503 e 505, I, do CPC no que concerne à violação dos limites objetivos da coisa julgada, trazendo o(s) seguinte(s) argumento(s):
+O v. acórdão hostilizado merece ser reformado, porquanto se revela incompatível com a atual fase do processo, pois, após regular prolação de decisão transitada em julgado, consagrou pedido novo do autor, o que viola os artigos 492, 503 e 505, I, do código de processo civil de 2015.
+Com efeito, deve-se destacar que a demanda diz respeito exclusivamente à revisão de pensão. A reversão da cota-parte não é matéria posta em inicial. Trata-se de inovação, a esta altura, já depois de anos de ajuizamento. Tal pleito não pode agora ser admitido, sob pena de ferir o princípio da estabilização da demanda e do princípio da congruência.
+Em verdade, o que pretendeu a agravante foi eternizar o feito, iniciando nova fase instrutória e buscando a prolação de nova decisão, tudo em franco descompasso com a coisa julgada formada.
+Evidentemente, a nova requisição das agravadas por motivos alheios ao tratado no processo originário configura nova causa de pedir, e a reversão da cota-parte, sem sombra de dúvida, novo pedido. Aliás, não há como admitir-se que determinado processo permaneça em atividade ad eternum, nunca alcançando seu termo final.
+Entender-se de forma diferente, com a devida venia, implicaria em direta afronta ao insculpido nos artigos 492, 503, 505, I, todos do Código de Processo Civil pátrio, in verbis:
+ ..
+Dúvida não há que o objeto da demanda, revisão da base de cálculo da pensão, não possui relação alguma com o instituto da reversão.
+O v. acórdão embargado sustenta em suas razões que a r. sentença transitada em julgado autorizava o presente pleito de reversão. Confira-se o dispositivo da decisão citada:
+ ..
+Ocorre que, até o momento da prolação da sentença, não havia qualquer demanda sobre reversão da cota da finada autora para suas filhas. Assim, a ÚNICA interpretação para o trecho grifado corresponde a comando judicial que julga procedente o pleito revisional, determinando que o pensionamento seja revisto a proporção de 100% dos vencimentos do cargo paradigma, respeitada a cota parte devida a cada beneficiária da pensão especial em comento.
+Qualquer outra interpretação deste dispositivo supratranscrito irá macular o princípio da congruência, já que o juízo originário teria, inequivocamente, produzido decisão de mérito extra petita, ou seja, teria concedido pedido diverso do pleiteado, conduta vedada pelo nosso ordenamento processual pátrio.
+Posto isso, pugnam os recorrentes pela reforma do acórdão. (fls. 136-138).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Dessa forma, evidencia-se que a discussão apresentada no recurso,persiste apenas em relação ao implemento ou não da pensão especial para as agravantes, filhas do falecido, da cota-parte que teria sido destinada à viúva. De fato a sentença, repita-se, que restou confirmada nesta instância, determinou a revisão da pensão, formulada pelas 2ª e 3ª apelantes, ora agravadas, para equipará-la a 100% dos vencimentos do cargo paradigma, incluindo as verbas do decreto lei 218/75 e da Lei 1581/89, o que implica na concessão da pensão especial, conforme se verifica da jurisprudência deste Tribunal:
+ ..
+E com isso concordam os agravantes, posto que, na inicial do recurso afirmaram:
+ ..
+Diante de tudo acima explicado, conclui-se serem duas as dúvidas persistentes no presente recurso.
+A primeira, é que os agravantes, embora concordem com a condenação ao pagamento da pensão especial, afirmam que não o vem fazendo como estabelecido na sentença, quando indicam serem devidas às três autoras originais os valores relativos à pensão, enquanto a sentença determinou o rateio entre as duas agravantes, face ao falecimento da viúva do ex-servidor, no percentual de 50% para cada uma.
+A segunda, diz respeito à possibilidade de reversão da cota-parte da viúva já falecida, às filhas do ex-segurado.
+Não obstante tenha sido derrogada posteriormente a legislação que fundamenta a pretensão da agravadas, não se pode deixar de aplicá-la ao caso concreto, em virtude da irretroatividade de lei superveniente, sob pena de violação ao direito adquirido das exequentes, uma vez que o benefício previdenciário já havia sido incorporado ao seu patrimônio, por força de sentença, com base na legislação então vigente.
+Assim, resta incólume o direito ao recebimento do benefício previdenciário integral pelas recorridas, o que aliás, não é contestado pelos agravantes.
+O que contestam, é a alegada ordem de eventual reversão da cota-parte da viúva para as filhas do falecido.
+ ..
+Contudo, no caso dos autos já restou afirmado, tanto na decisão agravada quanto naquela proferida nestes autos pelo relator, que quando da prolação da sentença, já havia ocorrido o falecimento da viúva, tendo sido determinado o rateio da verba, na proporção de 50% para cada uma das agravadas.
+Entretanto, diante do afirmado pelos agravantes, que procedem ao pagamento de um terço para cada uma das autoras originais, ou seja, para as duas filhas agravadas e para a viúva, já falecida, enquanto por força da sentença transitada em julgado, determinou-se o rateio em duas partes iguais dos valores entre as filhas, há que se apurar o valor total que deva ser o pensionamento.
+Desta forma, diante de tudo acima explicado, não há de se falar em reversão, enquanto a viúva por já ter falecido à época da prolação da sentença, não restou beneficiada com um terço do valor da pensão, como afirmam os agravantes.
+Assim sendo, considerando que a sentença determinou o pagamento de 100% do valor às agravadas, no percentual de 50% para cada uma, enquanto as agravantes afirmam dividir os valores em três partes, há que se apurar o que efetivamente vem sendo pago a cada uma das beneficiadas.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação à coisa julgada através da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/7/2020; REsp 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; e AgRg no AREsp 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
