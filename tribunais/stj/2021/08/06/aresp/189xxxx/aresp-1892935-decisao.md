@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por A ESPORTIVA COMERCIAL LTDA. contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Execução fiscal. Processo suspenso conforme o Tema nº 987 de repercussão geral. Levantamento do dinheiro penhorado. Impossibilidade. Decisão mantida. Recurso improvido (fl. 191).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alega violação do art. 47 da Lei n. 11.101/2005 no que concerne à impossibilidade de constrição de bens da empresa em recuperação judicial, trazendo os seguintes argumentos:
+A bem da verdade, em que pese a necessidade de suspensão da execução fiscal por força da determinação havida no Tema 987 do STJ, ainda assim, é certa a impossibilidade da manutenção das constrições realizadas visto sob a perspectiva da necessidade de soerguimento econômico da empresa recuperanda e a necessidade dos atos serem praticados pelo juízo universal da falência.
+ ..
+Nessa toada, a despeito da execução fiscal atualmente se encontrar suspensa, não há nenhum óbice para que a Recorrente possa se utilizar dos valores outrora constritos, sendo certo que a disponibilidade do respectivo recurso seria essencial para a superação da grave crise financeira vivenciada pela Recorrente.
+ ..
+Nesse ponto, é cristalina a contradição existente entre a constrição de bens da Recorrente e a necessidade de preservação da empresa como unidade geradora de empregos e receitas. Impondo-se o reconhecimento de que a r. decisão guerreada incorreu em violação ao artigo citado (fls. 201/203).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211 do STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; e AgRg no AREsp n. 1.779.940/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/5/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
