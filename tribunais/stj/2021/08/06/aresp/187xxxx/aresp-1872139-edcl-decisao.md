@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LUCIA ANTONIA FONSECA E OUTRO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que a decisão é contraditória, pois em sua petição teria indicado as razões do cabimento, alegando que "o Recurso Especial é um recurso eminentemente técnico, estando sua admissibilidade subordinada ao atendimento de determinados requisitos elencados no art. 1029 do NCPC e 105, III da CF, tais como divergência jurisprudencial na interpretação de lei federal ou violação de literal dispositivo de lei federal ou da Constituição Federal" (fl. 418).
+Afirma que sua pretensão é a reforma do acórdão recorrido em razão de divergência jurisprudencial, nos termos o art. 105, III, "c", da CF/88, e que indicou a jurisprudencial nas razões do especial.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado, sob pena de afronta aos princípios constitucionais do acesso à justiça, contraditório e ampla defesa.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Da releitura da petição do recurso especial, extrai-se que, conforme concluiu fundamentadamente a decisão embargada, a parte recorrente não indicou, de forma explícita, em qual das alíneas do art. 105, III, da CF/88 fundamentou sua interposição.
+Não demonstrada claramente a hipótese autorizadora da admissão do recurso, deficiente a fundamentação recursal, o que torna inviável sua apreciação pelo Superior Tribunal de Justiça, nos termos da Súmula 284/STF então aplicada.
+Igualmente, verifica-se que das razões recursais não se extrai com clareza quais dispositivos legais teriam sido interpretados de forma divergente pelo tribunal de origem. Constata-se que na peça recursal e nos julgados nela transcritos, há menção a artigos de lei federal. No entanto, não é possível identificar de forma clara e objetiva qual ou quais estariam sendo indicados como objeto do alegado dissídio jurisprudencial. A ausência de indicação expressa do dispositivo não permite verificar se houve, ou não, o alegado desacordo interpretativo.
+Nos termos do entendimento desta Corte, tanto os recursos pela alínea "a", quanto pela alínea "c" do permissivo constitucional, exigem a indicação do dispositivo legal malferido ou ao qual foi atribuída interpretação divergente, o que realmente não se verificou na hipótese.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. COBRANÇA DE DESPESAS CONDOMINIAIS. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC/1973. INEXISTÊNCIA. DISSÍDIO JURISPRUDENCIAL SOBRE CERCEAMENTO DE DEFESA. FALTA DE COTEJO ANALÍTICO E SÚMULA 284 DO STF. ILEGITIMIDADE ATIVA. SÚMULA 7 DO STJ. ILEGITIMIDADE PASSIVA. SÚMULAS 7 E 83 DO STJ.
+AGRAVO INTERNO NÃO PROVIDO.
+ ..
+2. Quanto ao dissídio jurisprudencial sobre cerceamento de defesa, a ausência de indicação do dispositivo legal a que se tenha dado interpretação divergente atrai o óbice previsto na Súmula 284/STF, por deficiência de fundamentação do recurso especial a impedir a exata compreensão da controvérsia.
+3. Ademais, o dissídio jurisprudencial sobre cerceamento de defesa não foi devidamente demonstrado, à míngua do indispensável cotejo analítico.
+ ..
+8. Agravo interno a que se nega provimento.
+(AgInt no REsp 1501768/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/06/2020, DJe 04/06/2020) (grifos meus)
+Esclareça-se que a contradição que dá ensejo à oposição de embargos declaratórios é a contradição interna, entre as proposições do próprio julgado impugnado, e não entre sua fundamentação e os argumentos das partes ou outras decisões constantes dos autos.
+Ausente, assim, a indispensável indicação do permissivo constitucional autorizador do recurso especial e da legislação objeto de divergência jurisprudencial, nada há de contraditório na decisão embargada, que com base em tais óbices, concluiu por conhecer do agravo para não conhecer do recurso especial.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
