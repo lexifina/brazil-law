@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo apresentado por ROSA MOREIRA JORGE contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+ADMINISTRATIVO EXECUÇÃO CONTRA A FAZENDA PÚBLICA PRESCRIÇÃO AUSÊNCIA DE INÉRCIA DO EXEQUENTE RECONHECIDA PELA TRIBUNAL DE ORIGEM REVOLVIMENTO FÁTICOPROBATÓRIO IMPOSSIBILIDADE SÚMULA 7STJ OBRIGAÇÃO DE PAGAR OBRIGAÇÃO DE FAZER PRESCRIÇÃO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 156, V, e 174, I e parágrafo único, do CTN, no que concerne à ocorrência da prescrição tributária, sendo inaplicável ao caso a Súmula n. 106 do STJ, trazendo o(s) seguinte(s) argumento(s):
+O processo de origem versa a respeito de Ação de Execução Fiscal ajuizada pelo Recorrido para cobrança de débito do IPTU, referente ao exercício de 2000 e 2001.
+Ao contrário do que entendeu o v. Acórdão recorrido, indubitável a ocorrência de prescrição no caso em tela.
+Como é cediço, a constituição definitiva do crédito tributário se opera como lançamento efetuado pela autoridade fiscal, mediante o procedimento administrativo, que tem cunho vinculativo e obrigatório.
+In casu, em se tratando de IPTU, o lançamento se opera de ofício, mediante simples envio do carnê para o endereço do imóvel ou outro do contribuinte, com o montante a ser pago.
+Da análise do artigo 174 do CTN conclui-se que o prazo prescricional de ação de cobrança de crédito tributário começa a fluir da data da sua definitiva constituição, ou seja, do lançamento.
+ ..
+O crédito tributário referente aos exercícios de 2000 e 2001 teve sua constituição definitiva em 01/01/2001 e 01/01/2002.
+No caso em tela,inobstante a execução ter sido proposta em 2004,houve substancial demora do ente público noque se refere à condução da ação, tendo o mesmo restado inerte, não se aperfeiçoando a citação válida dos Executados após mais de cinco anos, o que evidencia a configuração da prescrição intercorrente.
+Vale dizer: decorridos mais de cinco anos entre a constituição da dívida e a cientificação da Executada, ora Recorrente,ocorreu a prescrição, causa impeditiva do prosseguimento da execução, conforme determina o art. 174, do CTN.
+ ..
+Relativamente a não incidência da prescrição em decorrência de morosidade do judiciário, melhor sorte não assiste ao Recorrido, não merecendo aplicação a Súmula 106 do STJ.
+Nota-se que cabia ao Recorrido acompanhar o andamento do processo, atuando diligentemente e, diante da demora em se processar a citação da Recorrente, deveria ter peticionado, requerendo que a mesma se efetivasse.
+Vale dizer: incumbia ao Exequente, ora Recorrido, uma vez ajuizada a execução, praticar todos os atos necessários à formalização da citação, o que deixou de fazer, tendo o d. Juízo a quo prolatado sentença extintiva do crédito tributário sem que o ente Municipal adotasse qualquer conduta no sentido de aperfeiçoar a citação válida a tempo.
+Neste cenário, ao contrário do asseverado pelo v. Acórdão recorrido, não se pode atribuir responsabilidade exclusiva ao Poder Judiciário pela demora na tramitação do feito, eis que o Recorrido não atuou de forma diligente, de formar a permitir o regular andamento do feito.
+Por todos estes motivos, o caso em tela não se amolda no teor da Súmula 106 do STJ, porquanto a sua incidência pressupõe um autor diligente e ativo, que peticiona e protesta contra a inércia do aparelho judicial, durante o período de paralisação dos autos. Todavia, no caso em tela, a ausência de citação da Recorrente não é imputável apenas ao cartório, mas também à inércia do Município em efetivamente promove-la.
+ ..
+Desta forma, por demonstrar que a dívida tributária se encontra prescrita e que não se revela hipótese de aplicação da Súmula 106 do STJ, resta claro que o v. Acórdão recorrido violou os artigos 156, V e 174, I do CTN. (fls. 138-141).
+É, no essencial, o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Deve ser rechaçada a pretensão posta no Agravo Interno, no sentido de que seja afastado o reconhecimento da prescrição, eis que encontra óbice intransponível na Súmula 106 do Superior Tribunal de Justiça, aplicável a hipótese, e que serviu de esteio para a Decisão agravada, que assim dispôs acerca da questão:
+"(..) No caso dos autos, todavia, após a distribuição do feito, cujas Certidões de Dívida Ativa são datadas de 18/03/2002 e 21/03/2003, respectivamente, a Serventia do Juízo deixou de cumprir a determinação constante do despacho de fl. 34 (indexador 38), proferido em 04/03/2010, consistente em providenciar a juntada do AR de citação, deixando os autos paralisados, até a prolação da Sentença em 30/01/2017.
+Portanto, incide o raciocínio do verbete 106 da Súmula do Superior Tribunal de Justiça, não se operando a prescrição intercorrente, pois a paralisação do processo ocorreu por motivos inerentes ao mecanismo da Justiça.
+É assente o entendimento do Superior Tribunal de Justiça no sentido de que para a caracterização da prescrição não basta o transcurso do tempo, é necessária a presença concomitante da possibilidade de exercício de uma ação que tutele o direito e a inércia do seu titular.
+ ..
+Vale consignar que o ato citatório é dirigido à serventia, cabendo à mesma realizá-lo em tempo razoável, em observância ao princípio da efetividade da prestação da tutela jurisdicional.
+Ademais o Convênio de Cooperação Técnica e Material firmado entre este Egrégio Tribunal de Justiça e o Município não possui o condão de afastar o múnus cartorário de dar cumprimento as ordens judiciais, de citação e intimação, bem como de praticar todos os atos imprescindíveis ao impulso oficial do processo, consoante regrado artigo 152, inciso II do Código de Processo Civil.
+Dessa forma, considerando toda a dinâmica processual, resta claro que a prescrição intercorrente se deu por equívoco e morosidade da própria máquina judiciária.
+Logo, configurada a falha do Poder Judiciário, que não pode ser imputada ao exequente, conforme dispõe a Súmula nº 106 do Superior Tribunal de Justiça.
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; e AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
