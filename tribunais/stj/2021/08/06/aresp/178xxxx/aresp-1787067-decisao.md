@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo interposto por Vera Lúcia Gorricontra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal.
+Na origem, trata-se de ação de cobrança proposta por Vera Lúcia Gorri contra o Município de Bataguassu/MS, objetivando a complementação de sua aposentadoria, sob o argumento de queocupava ocargo de Assistente Administrativo, no qual tomou posse em 28/3/1988, tendo sido deleexonerada em 2/1/2018, em razão de ter obtido sua aposentadoria por tempo de contribuição junho ao INSS.
+Narra que a Lei Municipal n.1.136/2002 tornou obrigatória a filiação do servidor público municipal ao Regime Geral de Previdência Social por inexistir regime próprio do ente municipal, ecom advento da Lei Municipal n.1.140/2002 foi resguardadoo pagamento integral da aposentadoria dos servidores municipais, e, dessa forma, entende lhe ser devido a complementação de valor estabelecido conforme os limites previstos na referida legislação.
+Deu-se à causa o valor de R$ 9.173,88 (nove mil cento e setenta e três reais e oitenta e oito centavos) em dezembro de 2018.
+A sentença julgou improcedente o pedido.
+Foi interposta apelação, que teve seu provimento negado pelo Tribunal de Justiça do Estado do Mato Grosso do Sul, conforme acórdão assim ementado (fl. 369):
+APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃODE FAZER - PRELIMINAR DE NULIDADE DA SENTENÇA - REJEITADA - MÉRITO - PRETENSÃO DE COMPLEMENTAÇÃO DE APOSENTADORIA PARA RECEBIMENTO INTEGRAL - LEI MUNICIPAL DECLARADA INCONSTITUCIONAL - AUSÊNCIA DE REGIME PRÓPRIO DA PREVIDÊNCIA - SUBMISSÃO AO REGIME GERAL - SENTENÇA DE IMPROCEDÊNCIA MANTIDA - RECURSO DESPROVIDO.
+Afasta-se a preliminar de nulidade da sentença, pois a pretensão deduzida na inicial restou decidida em primeiro grau, baseado nos fatos, provas e legislação aplicável à espécie e dentro dos limites da lide.
+Com a declaração de inconstitucionalidade do art. 1º, § 1º, da Lei Municipal 1.140/2002, pelo Órgão Especial desta Corte, não há direito da autora à complementação do benefício pago pelo INSS para fins de recebimento da integralidade da remuneração.
+O art. 40, § 3º, da CF, com a sua redação originária (anterior a EC41/03), condiciona sua incidência a existência de lei, de modo que sua ausência impossibilita o acolhimento da tese autoral por ferir o princípio da legalidade.
+Opostos embargos de declaração, foram estes rejeitados.
+Contra a decisão cuja ementa encontra-se acima transcrita, foi interposto foi interposto o presente recurso especial, apontando, além de divergência jurisprudencial,violação do arts.489, II, § 1º, III, IV e V,494, II,e 1022, parágrafo único, II, do CPC/2015, aduzindo omissão no julgado.
+Aduz ainda violação do art. 195, § 5º, da CF/1988, ao argumento (fl. 448):
+(..)
+Na fase cognitiva no juízo de piso e nas razões de apelação a recorrente demonstrou fundamentadamente, à luz do artigo 54 da lei federal 9784/99, a decadência do poder-dever da Administração arguirvício de inconstitucionalidade da lei 1140/2002 por mero vício formal de ausência de indicação de previsão de dotação orçamentária (art. 195, § 5º, CF).
+(..)
+Aduza, por fim, violação do arts.332, § 1º e 487, II,do CPC/2015 e54 da Lei n. 9784/1999, argumentando a ocorrência da decadência.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisãoque inadmitiu o recurso especial,foi interposto o presente agravo, com apresentação de argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2.015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Considerando que foram atendidosos demais pressupostos de admissibilidade deste agravo, e impugnadasa fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+De início, da análise do acórdão, no que tange a indicada violação do arts. 489, II, § 1º, III, IV e V, 494, II, e 1022, parágrafo único, II, do CPC/2015, não se vislumbra a alegação de que o acórdão recorrido não se manifestou acerca de pontos tidos como essenciais para o julgamento da lide.
+De acordo com a orientação deste Superior Tribunal de Justiça, os embargos de declaração destinam-se a suprir eventual omissão, obscuridade ou contradição, não tendo o Órgão Julgador a obrigação de se manifestar expressamente acerca de todos as disposições legais que as partes entendam ser aplicáveis, devendo, é claro, motivar suas decisões, de maneira fundamentada.
+Neste sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. APLICAÇÃO DA SÚMULA 106/STJ. REEXAME PROBATÓRIO. SÚMULA 7/STJ. ART. 1.022 DO CPC/2015. ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU CARÊNCIA DE FUNDAMENTAÇÃO. AUSÊNCIA.
+1. Os embargos declaratórios, nos termos do art. 1.022, e seus incisos, do CPC/2015, são cabíveis quando houver: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se nesta última as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; ou d) o erro material. No caso dos autos, tais hipóteses não estão presentes.
+2. Não há vício de fundamentação quando o aresto recorrido decide integralmente a controvérsia de maneira sólida e fundamentada, tal qual se constata no caso concreto.
+3. A análise da tese recursal que busca afastar a aplicação da Súmula 106/STJ demanda incursão na seara probatória, o que não é cabível na via especial. Incidência da Súmula 7/STJ.
+4. Esta Corte Superior possui entendimento de que a existência de penhora no rosto dos autos do processo falimentar impõe à Fazenda Pública a paralisação do executivo fiscal até que se verifique a possibilidade de satisfação do crédito, sem que essa paralisação seja imputada à inércia do ente público.
+5. Embargos de declaração rejeitados."(EDcl no AgInt no AREsp 600.416/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/03/2017, DJe 27/03/2017.)
+Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação da embargantediante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+No mais, quanto aos demais artigos tidos por violados, o acórdão resolveu a questão nos seguintes termos (fls. 376-377):
+(..)
+Com efeito, ainda que o Município de Bataguassu não possua regime próprio de previdência, sujeitando-se seus servidores municipais ao regime geral de previdência social, a Lei Municipal nº 1.140/02 assegurou o direito à aposentadoria integral, com a complementação de aposentadoria, caso o valor do benefício pago pelo INSS seja inferior aos seus vencimentos.
+(..)
+Assim, inexistindo norma a amparar a pretensão da apelante, não há se falar em direito à complementação do benefício pago pelo INSS para fins de recebimento integral da remuneração.
+Ademais, cumpre destacar que o art. 40, § 3º, da CF1, coma sua redação originária, que garante a aposentadoria integral com base na remuneração do cargo efetivo, inclusive com a regra de transição por ter o apelante ingressado no serviço público antes da Emenda Constitucional 41/2003 e posteriormente se aposentado (em 2018), condiciona sua incidência à existência de lei, o que não mais subsiste por força da declaração de inconstitucionalidade da lei municipal que permitia a complementação da aposentadoria correspondente à diferença entre o valor recebido do INSS e o valor dos seus vencimentos.
+Logo, o acolhimento da tese apelante fere o princípio da legalidade.
+(..)
+Verifica-se que a questão demanda a análise da lei local, providência vedada em sede de recurso especial. Desse modo, aplicável, por analogia, o enunciado da Súmula n. 280, do STF, segundo o qual por ofensa ao direito local não cabe recurso extraordinário, ensejando o não conhecimento do recurso especial.
+Nesses termos:
+ACÓRDÃO FUNDAMENTADO EM LEI LOCAL. INCIDÊNCIA, POR ANALOGIA, DA SUMULA 280 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA.
+1. Verificar a violação apontada ao art. 1º da Lei Complementar Federal 51/1985 demanda a análise de lei local (Lei Complementar Estadual 1.062/2008), o que não é adequado em Recurso Especial (Súmula 280 do STF).
+2. Fica prejudicada a análise da divergência jurisprudencial, uma vez que a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional. Precedentes do STJ. 3. Recurso Especial não conhecido.
+(REsp 1672416 / SP, 2017/0104622-0, Rel. Ministro Herman Benjamin, julgado em 05/09/2017, DJe 13/09/2017.)
+Ademais, ainda que assim não fosse, a interpretação de dispositivos legais que exija o reexame dos elementos fático-probatórios não é viável em sede de recurso especial, em vista do óbice contido no enunciado n. 7 (a pretensão de simples reexame de prova não enseja recurso especial) da Súmula do STJ.
+Por sua vez, é cediço que não cabe ao STJ a análise de suposta violação a dispositivos constitucionais, ainda que para fins de prequestionamento, porquanto o julgamento de matéria de índole constitucional é de competência exclusiva do STF, consoante disposto no art. 102, III, da Constituição Federal. Nesse sentido: AgInt no REsp 1604506/SC, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 16/2/2017, DJe de 8/3/2017; EDcl no AgInt no REsp 1611355/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/2/2017, DJe de 24/2/2017.
+Por fim, no que tange ao dissídio jurisprudencial, de fato, não houve a demonstração analítica da divergência, apresentando-se as circunstâncias que identificam ou assemelham os casos confrontados, com a indicação da similitude fática e jurídica entre eles, nos moldes do artigo 255 do RISTJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Aplica-se o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), pelo que, majoro o valor relativo aos honorários advocatícios fixados na origemem um ponto percentual, respeitados os limites legais, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso.
+Publique-se. Intimem-se.
