@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por SEPHIRA MARKETING DE INCENTIVOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO  AÇÃO DE EXIGIR CONTAS  DISCUSSÃO ACERCA DA NECESSIDADE DE JUNTADA DE CONTRATOS FIRMADOS PELA AGRAVANTE COM TERCEIROS PARA O DESLINDE DA DEMANDA -Não se verificando, por ora, a existência de correlação entre os termos dos instrumentos firmados pela agravante com terceiras empresas com o pedido de exibição de contas formulados, vez que ele está fulcrado nas obrigações existentes entre as partes, desnecessária se faz, ao menos por ora, a exibição dos contratos firmados pela agravante nos termos em que determinados na r. decisão agravada.
+- De rigor se mostra o afastamento da multa fixada, nos termos do art. 1.026, § 2º, do CPC, pelo R. Juizo a quo, na medida em que se mostrava o questionamento trazido no bojo dos embargos de declaração opostos em Primeiro Grau, dada a contradição apontada entre o comando judicial e o objeto da demanda pela agravante ajuizada.
+RECURSO PROVIDO
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 370 e 371, ambos do CPC, no que concerne ao cerceamento de defesa por negativa de juntada de documentos, trazendo os seguintes argumentos:
+17. O que se percebe é que a Recorrida pretende, em verdade, uma prestação de contas que seria devida aos clientes finais Mercedes-Benz e Vivo, na medida em que busca informações e documentos que se destinam a atender eventual auditoria interna ou externa que possa ser realizada pelas referidas empresas.
+18. Daí porque, ao contrário do que constou do acórdão recorrido, a Recorrente justificou, sim, a necessidade de juntada dos documentos solicitados pelo juízo de origem, ao menos sob a ótica do fundamento invocado pela própria Recorrida em sua peça inicial.
+ .. .
+Ocorre que o Tribunal a quo entendeu que os documentos seriam, por ora, desnecessários para a solução da lide, o que implicou em grave interferência no livre convencimento do magistrado e no poder de direção do processo em busca da verdade formal. (fls. 871/872).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Isto porque, desnecessário se mostra para o deslinde da ação de exigir contas ajuizada pela ora agravante contra a ora agravada, o contrato firmado pela agravante com terceiro, os quais teriam dado azo à contratação feita com a agravada.
+Note-se que a ação de exigir constas está fulcrada no contrato de prestação e serviços colacionados às fls. 6 4 / 7 1 e dos aditivos respectivos (fls. 72/75), o qual tinha por objeto a prestação de serviços relacionados à premiação em campanhas de incentivo a serem desenvolvidas pela contratante.
+Neste contexto, oportuno ressaltar que as campanhas apontadas pelas agravantes eram aquelas denominadas "Turbine suas vendas" referente a empresa Vivo e "Universo MB", realizada em favor da empresa "Mercedes Benz", pretendendo, assim, ter conhecimento acerca dos recursos postos nas mãos da agravante, para a administração dela.
+Ademais, ao que se infere dos pontos aos quais a agravante se referiu no bojo da petição inicial dos autos de origem, que deveriam ser objeto de prestação de contas (vide fls. 42/43), neles não há nada que demande o conhecimento de contratos firmados pela agravante com terceiros, para que restasse reconhecido eventual direito de exigir contas por parte da agravante (fls. 848/849).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESCISÃO DE CONTRATO DE FRANQUIA E MANUTENÇÃO DE POSSE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. NEGÓCIO JURÍDICO. LESÃO. NÃO OCORRÊNCIA. REVISÃO.
+IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias. Precedentes.
+2. Para se concluir que a prova cuja produção fora requerida pela parte é ou não indispensável à solução da controvérsia, seria necessário se proceder ao reexame do conjunto fático-probatório, providência incompatível com a via estreita do recurso especial, nos termos da Súmula 7/STJ.
+ ..
+5. Agravo interno a que se nega provimento. (AgInt no AREsp 1.562.190/SP, relator Ministro Raul Araújo, Quarta Turma, DJe 1º/7/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
