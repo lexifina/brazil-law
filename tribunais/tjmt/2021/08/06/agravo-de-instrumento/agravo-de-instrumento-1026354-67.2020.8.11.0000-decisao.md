@@ -1,0 +1,81 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1026354-67.2020.8.11.0000
+Recorrente: Travessia Securitizadora de Créditos Financeiros X S.A.
+Recorridos: Edson Aparecido Andrade e Elisângela Carissimi Rosalino
+Vistos.
+Trata-se de recurso especial interposto por Travessia Securitizadora de Créditos Financeiros X S.A., com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, assim ementado (id 83357475):
+“AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - PROCESSAMENTO - DEFERIMENTO - PRODUTORES RURAIS - INSCRIÇÃO NA JUNTA COMERCIAL - 02 ANOS - COMPROVAÇÃO DO EFETIVO EXCERCÍCIO DA ATIVIDADE RURAL EM PERÍODO ANTERIOR – LITISCONSÓRCIO ATIVO – PLANO ÚNICO – CONTAGEM DOS PRAZOS – DECISÃO MANTIDA - RECURSO DESPROVIDO.
+O produtor rural, após obter o registro e passar ao regime empresarial, obtém condição de procedibilidade para requerer recuperação judicial bastando que comprove, no momento do pedido de recuperação, que explora regularmente a atividade rural há mais de 02 anos. Nesse caso, pode computar, para efeito de perfazer os mais de dois anos exigidos na lei (art. 48, da Lei n. 11.101/2005), o período anterior ao registro, quando exercia regularmente sua atividade rural sob o regime do Código Civil.
+Conquanto os autores, postulantes da recuperação judicial não ostentem a condição de casados, certo é que os documentos apresentados indicam a continuidade do grupo econômico, vale dizer, a intenção de manterem os negócios em parceria, próprio, no caso, da confusão patrimonial, daí porque, correto o reconhecimento do litisconsórcio ativo.
+De acordo com o art. 189 da Lei n. 11.101/2005, a regra de contagem dos prazos processuais em dias úteis, nos termos do art. 219 do CPC, continua aplicável aos processos de recuperação judicial, com exceção àqueles que ostentam natureza material e devem ser contados em dias corridos”. (TJMT – Quarta Câmara de Direito Privado – RAI n. 1026354-67.2020.8.11.0000, Relator: Desembargador GUIOMAR TEODORO BORGES, j. 14/04/2021, p. 19/04/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão de id 88516998.
+Na espécie, o presente recurso foi interposto contra o aresto que negou provimento ao agravo de instrumento proposto por Travessia Securitizadora de Créditos Financeiros X S.A., e manteve a decisão que deferiu o processamento da recuperação judicial das pessoas física e jurídica de Edson Aparecido Andrade e Elisângela Carissimi Rosalino.
+A parte recorrente alega violação aos artigos 489, § 1o, III e IV, e 1.022, II, do Código de Processo Civil, ante a suposta omissão e carência de fundamentação do julgado.
+Suscita afronta aos artigos 48 e 51 da Lei n. 11.101/2005, além de divergência jurisprudencial, ao argumento de que, embora não se negue a natureza declaratória do registro na junta comercial, a devedora Elisângela deixou de comprovar que exerce a atividade agrícola por outros meios, tendo em vista que todas as notas fiscais constantes no id 70162491 foram emitidas por Edson, e nenhuma delas em nome de Elisângela.
+Argui contrariedade aos artigos 69-G, § 1o, e 69-J, da Lei n. 11.101/2005, porquanto “a consolidação substancial é medida excepcional e apenas deve ser admitida se demonstrados o preenchimento dos requisitos para desconsideração da personalidade jurídica, por força do disposto no art. 69-J da Lei no 11.101/05. Todavia, no caso sub judice, em nenhum momento foram apresentados elementos de prova que demonstrem a alardeada confusão patrimonial”.
+Aduz ter havido ofensa ao artigo 187 do Código Civil, pois “ainda que se entenda que Edson comprovou o exercício da atividade empresária pelo biênio legal previsto no art. 48, caput, da Lei no 11.101/05 (ao contrário de Elisângela), é evidente que o registro foi efetuado de forma abusiva, porquanto realizado às vésperas da recuperação judicial, antes que seus credores e fornecedores pudessem tomar ciência da opção do produtor rural pelo regime empresarial”.
+Recurso tempestivo (id 91557450) e preparado (id 91501483).
+Contrarrazões no id 94811473.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos aos artigos 489, § 1o, III e IV, e 1.022, II, do CPC
+A partir da suposta ofensa aos artigos aos artigos 489, § 1o, III e IV, e 1.022, II, do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não analisou:
+a) que Elisângela deixou de apresentar diversos documentos obrigatórios, sendo eles: (i) a Declaração de Imposto sobre a Renda de Pessoa Física (DIRPF); (ii) as demonstrações contábeis relativas aos 3 (três) últimos exercícios sociais; (iii) a relação nominal de credores; e (iv) a relação integral dos empregados;
+b) a alegação de abuso de direito, se limitando a afirmar que o registro na junta é declaratório e que, portanto, produz efeitos ex tunc – o que, em nenhum momento, foi negado pela Recorrente; e
+c) que a consolidação substancial possui caráter excepcional e, portanto, deverá ser implementada apenas quando constatada interconexão entre os ativos e passivos dos devedores, de modo a poder caracterizar litisconsórcio ativo na recuperação judicial.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Vale dizer, o produtor rural, após obter o registro e passar ao regime empresarial, obtém condição de procedibilidade para requerer recuperação judicial bastando que comprove, no momento do pedido de recuperação, que explora regularmente a atividade rural há mais de 02 anos. Nesse caso, pode computar, para efeito de perfazer os mais de dois anos exigidos na lei (art. 48, da Lei n. 11.101/2005), o período anterior ao registro, quando exercia regularmente sua atividade rural sob o regime do Código Civil.
+Assim se entende, porque para os produtores rurais, a inscrição do registro é facultativa, de modo que o momento do registro não é elemento de prova da regularidade, por isso o descasamento entre o prazo de exercício da atividade e o de registro. Sendo assim, conclui-se que os produtores rurais que exercem atividade empresarial há mais de dois anos podem requerer sua recuperação judicial, ainda que estejam registrados há menos de dois anos, porquanto a regularidade da atividade é aferida pela constatação de seu regular exercício e não pelo registro pelo biênio legal.
+(...)
+Na hipótese, os agravados, demonstraram o efetivo exercício da atividade rural há bem mais de dois anos, o que pode ser aferido por meio dos documentos anexados, dentre eles, matrículas de imóveis com averbação de hipotecas com origem em Cédula Rural Hipotecária firmada com o Banco do Brasil S.A., ao menos desde o ano de 2013, bem como notas fiscais de aquisição de mercadorias para o desempenho da atividade rural.
+Vale aqui o registro que, conquanto os autores, postulantes da recuperação judicial não ostentem a condição de casados, certo é que os documentos apresentados indicam a continuidade do grupo econômico, vale dizer, a intenção de manterem os negócios em parceria, próprio, no caso, por conta da confusão patrimonial.
+Assim, em que pese não ter sido juntado aos autos notas fiscais de compra em nome da agravada Elisangela, tal fato, por si só não desnatura a sua condição de produtora rural, porque a atividade é exercida em conjunto com o agravado Edson, na condição de grupo econômico, em particular se observar que aparece como avalista e fiadora de diversos contratos firmados”. (id 83357475 - Pág. 7/8)
+Diante desse quadro, não há evidência de violação aos artigos 489, §1o, III e IV, e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Consoante a previsão da Súmula 7 do STJ, em sede de recurso especial não é possível o exame de fatos e provas, pois segundo se depreende do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se exclusivamente à aplicação e à uniformização da interpretação das leis federais.
+A parte recorrente, por sua vez, alega violação aos artigos 48 e 51 da Lei n. 11.101/2005, amparada na assertiva de que conquanto não se negue a natureza declaratória do registro na junta comercial, a devedora Elisângela deixou de comprovar que exerce a atividade agrícola por outros meios, tendo em vista que todas as notas fiscais constantes no id 70162491 foram emitidas por Edson, e nenhuma delas em nome de Elisângela.
+Arguiu, ainda, contrariedade aos artigos 69-G, § 1o, e 69-J, da Lei n. 11.101/2005, porquanto “a consolidação substancial é medida excepcional e apenas deve ser admitida se demonstrados o preenchimento dos requisitos para desconsideração da personalidade jurídica, por força do disposto no art. 69-J da Lei no 11.101/05. Todavia, no caso sub judice, em nenhum momento foram apresentados elementos de prova que demonstrem a alardeada confusão patrimonial”.
+No entanto, neste ponto, constou do aresto impugnado que “os agravados, demonstraram o efetivo exercício da atividade rural há bem mais de dois anos, o que pode ser aferido por meio dos documentos anexados, dentre eles, matrículas de imóveis com averbação de hipotecas com origem em Cédula Rural Hipotecária firmada com o Banco do Brasil S.A., ao menos desde o ano de 2013, bem como notas fiscais de aquisição de mercadorias para o desempenho da atividade rural”. (id 83357475 - Pág. 8)
+Salientou-se, ainda, no acórdão recorrido que “em que pese não ter sido juntado aos autos notas fiscais de compra em nome da agravada Elisangela, tal fato, por si só não desnatura a sua condição de produtora rural, porque a atividade é exercida em conjunto com o agravado Edson, na condição de grupo econômico, em particular se observar que aparece como avalista e fiadora de diversos contratos firmados”. (id 83357475 - Pág. 8)
+Logo, para rever a conclusão adotada no acórdão recorrido sobre a comprovação da atividade rural pela recorrente Elisangela Carissimi Rosalino, bem como sobre a demonstração de que faz parte do mesmo grupo econômico do recorrente Edson Aparecido Andrade, faz-se mister o reexame do quadro fático-probatório dos autos.
+Por se tratar de pretensão de reanálise de fatos e provas, o exame do aventado dissídio jurisprudencial fica prejudicado, em virtude da incidência da Súmula 7/STJ.
+A propósito:
+“PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTS. 489 E 1.022 DO CPC. INOCORRÊNCIA. ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. HONORÁRIOS ADVOCATÍCIOS. EQUIDADE. POSSIBILIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4o, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(...)
+VII O recurso especial não pode ser conhecido com fundamento na alínea c do permissivo constitucional, porquanto o óbice da Súmula n. 7/STJ impede o exame do dissídio jurisprudencial quando, para a comprovação da similitude fática entre os julgados confrontados, é necessário o reexame de fatos e provas.
+(...)
+X Agravo Interno improvido”. (AgInt no REsp 1912960/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021). [g.n.]
+Dessa forma, o recurso especial não alcança admissão neste ponto, em razão da inviabilidade de revisão do entendimento do órgão fracionário deste Tribunal, por demandar o reexame do conjunto fático-probatório dos autos.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ preconiza que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a parte recorrente alega ofensa ao artigo 187 do Código Civil, pois “ainda que se entenda que Edson comprovou o exercício da atividade empresária pelo biênio legal previsto no art. 48, caput, da Lei no 11.101/05 (ao contrário de Elisângela), é evidente que o registro foi efetuado de forma abusiva, porquanto realizado às vésperas da recuperação judicial, antes que seus credores e fornecedores pudessem tomar ciência da opção do produtor rural pelo regime empresarial”.
+No acórdão impugnado ficou consignado que “(...) os produtores rurais que exercem atividade empresarial há mais de dois anos podem requerer sua recuperação judicial, ainda que estejam registrados há menos de dois anos, porquanto a regularidade da atividade é aferida pela constatação de seu regular exercício e não pelo registro pelo biênio legal” (id 83357475 - Pág. 7).
+Observa-se que o entendimento do órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai da ementa do julgado abaixo:
+“AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. NECESSIDADE DE O PRODUTOR RURAL (PESSOA FÍSICA) ESTAR INSCRITO NA JUNTA COMERCIAL HÁ MAIS DE 2 (DOIS) ANOS PARA FAZER JUS AO BENEFÍCIO DA RECUPERAÇÃO JUDICIAL. IMPROCEDÊNCIA. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência atual desta Corte é pela desnecessidade de o produtor rural (pessoa física) estar inscrito há mais de 2 (dois) anos na Junta Comercial para ter direito ao benefício da recuperação judicial.
+2. A alegação de que o julgado colacionado como paradigma não reflete o entendimento desta Corte não é suficiente para a modificação da decisão.
+3. Razões recursais insuficientes.
+4. Agravo interno desprovido”. (AgInt no REsp 1870963/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021). [g.n.]
+Desse modo, deve ser aplicado o referido verbete sumular quanto à referida questão, visto que o entendimento exposto no acórdão recorrido encontra-se em sintonia com a orientação sedimentada no STJ.
+Por fim, consigne-se que, embora a Súmula 83 do STJ tenha sido formulada quando a alegação for fundada no permissivo da alínea “c” do artigo 105, III, da CF, esta é plenamente aplicável na hipótese da alínea “a”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. RESPONSABILIDADE CIVIL. CONCESSIONÁRIA DE ENERGIA ELÉTRICA. MORTE DE CRIANÇA POR ELETROCUSSÃO. RESPONSABILIDADE CIVIL. FALHA NA PRESTAÇÃO DO SERVIÇO. REEXAME DE FATOS E PROVAS. SÚMULA No 7/STJ. INCIDÊNCIA. FUNDAMENTO CONSTITUCIONAL. RECURSO EXTRAORDINÁRIO. NÃO INTERPOSIÇÃO. SÚMULA No 126/STJ. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. RECURSO NÃO PROVIDO.
+(...)
+4. Rever as conclusões do acórdão recorrido demandaria o reexame de matéria fática e das demais provas constantes dos autos, procedimento inviável em recurso especial, consoante o óbice da Súmula no 7/STJ.
+5. Incide a Súmula no 126/STJ na hipótese em que o acórdão recorrido se assenta em fundamentos de natureza infraconstitucional e constitucional (art. 37, § 6o, da Constituição), qualquer deles suficiente, por si só, para manter a conclusão do julgado e a parte vencida não interpôs o indispensável recurso extraordinário.
+6. É pacífico o entendimento desta Corte Superior de que a Súmula no 83/STJ se aplica a ambas as alíneas (a e c) do permissivo constitucional. Precedentes.
+7. Indenização arbitrada em quantia ínfima (R$ 20.000,00) se comparada a casos análogos.
+8. Agravo interno não provido”. (AgInt no AREsp 924.819/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018). (g.n.)
+Diante desse quadro, inviável a admissão do recurso neste ponto.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
