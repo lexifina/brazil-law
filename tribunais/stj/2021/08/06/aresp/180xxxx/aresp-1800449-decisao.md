@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto pela FARMÁCIA REGENTE FEIJO EIRELI contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a e c, da Constituição Federal, aviado contra o acórdão assim ementado, in verbis:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ICMS. DECISÃO QUE REJEITOU A EXCEÇÃO DE PRÉ-EXECUTIVIDADE, ANTE A INOCORRÊNCIA DA PRESCRIÇÃO. AÇÃO AJUIZADA NA VIGÊNCIA DA LEI COMPLEMENTAR Nº 118/2005, QUE ALTEROU O ART. 174, PARÁGRAFO ÚNICO, INCISO I, DO CPC. DESPACHO QUE ORDENOU A CITAÇÃO DA EXECUTADA EM 27/05/2008, QUE INTERROMPEU A PRESCRIÇÃO MATERIAL. REDIRECIONAMENTO DA EXECUÇÃO À EMPRESA INCORPORADORA. POSSIBILIDADE. MARCO INICIAL PARA O PRAZO PRESCRICIONAL. CIÊNCIA DO EXEQUENTE ACERCA DA INCORPORAÇÃO. AUSÊNCIA DE TRANSCURSO DE PRAZO SUPERIOR A 05 ANOS. PROSSEGUIMENTO DA EXECUÇÃO FISCAL. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente indica como violados os arts. 132 e 174, parágrafo único e inciso I, do CTN.
+Alega, em suma, queocorreu a prescrição intercorrente, em razão da inclusão da empresa após o transcurso do prazo de cinco anos, sendo caracterizada a inércia da recorrida, diante de seu desinteresse após a nomeação dos bens à penhora.
+Suscita ainda divergência jurisprudencial.
+Contrarrazões pela manutenção da decisão recorrida.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, se impõe o conhecimento do mesmo, passando ao exame do recurso especial interposto.
+O Tribunal a quo explicitou que a prescrição foi interrompida com o despacho que ordenou a citação em 27/5/2008.
+Afirmou que em novembro de 2012 o Estado anexou alteração contratual dando conta da incorporação da empresa executada, sendo expedido novo mandado de penhora em setembro de 2014.
+Com fundamentação per relatione afirmou que a demora no andamento do feito não deve ser imputada à desídia da Fazenda Pública.
+Do acima explicitado, conforme se verifica da convicção do julgador, baseada no conjunto probatório dos autos, remanesce a falta de inação da Fazenda Pública, a afastar a alegada prescrição.
+A análise de tal convicção impõe a revisitação do conjunto probatório dos autos, o que é vedado no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS À EXECUÇÃO FISCAL. ANUIDADES. CANCELAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO, SIMILITUDE FÁTICA E INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. SÚMULA 7/STJ. ANÁLISE PREJUDICADA. AGRAVO INTERNO NÃO PROVIDO.
+1. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional, nos termos do art. 1.029, § 1º, do CPC/2015 e do art. 255, § 1º, do RISTJ, exige o necessário cotejo analítico e demonstração de similitude fático-jurídica entre os acórdãos supostamente divergentes, bem como a indicação do dispositivo legal interpretado de modo dissentâneo, o que não restou comprovado no presente caso. Hipótese, por extensão, da Súmula 284/STF.
+2. A incidência da Súmula 7 do STJ nas questões controversas apresentadas é, por consequência, prejudicial para a análise de apontado dissídio jurisprudencial, e impede o seguimento do presente recurso pela alínea c do permissivo constitucional.
+3. Agravo interno não provido.
+(AgInt no AREsp 1518728/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/11/2019, DJe 22/11/2019)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO PROCESSUAL CIVIL. ADMINISTRATIVO. AÇÃO DE RESPONSABILIDADE. CADÁVER ENCONTRADO NO RESERVATÓRIO DE ÁGUA. PRETENSÃO DE REEXAME FÁTICO - PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação de responsabilidade em razão de danos causados em decorrência de cadáver encontrado no reservatório de água da cidade. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - A parte alega violação e divergência de interpretação em relação aos arts. 8º, 14, § 1º, 22, parágrafo único, do CDC e 927 do CC, no que concerne aos danos morais Na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que ela demanda o reexame do acervo fático-probatório juntado aos autos. Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, Relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+III - Consigne-se, ainda, que, quanto à alegação de existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea a e obstaculizada pelo enunciado da Súmula n. 7/STJ, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea c. Nesse sentido: "Ademais, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso" (AgInt no AREsp n. 1.312.148/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 20/9/2018).
+IV - Agravo interno improvido.
+(AgInt no AREsp 1546739/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 18/05/2020, DJe 20/05/2020)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
