@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE MARICÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. ALEGAÇÃO DE INEXISTÊNCIA DE TÍTULO PARA A COBRANÇA DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS E DE OFENSA À COISA JULGADA. CONDENAÇÃO DIRIGIDA AO EMBARGADO, ORA AGRAVADO, EM RAZÃO DE EVIDENTE ERRO MATERIAL. REJEIÇÃO. AUSÊNCIA DE DÚVIDA QUANTO À SUCUMBÊNCIA DO ORA AGRAVANTE NO PROCESSO EM QUE PROLATADA A SENTENÇA CONDENATÓRIA. POSSIBILIDADE DE PROSSEGUIMENTO DA EXECUÇÃO. PRECEDENTE DO STJ. DESPROVIMENTO DO AGRAVO.
+Quanto à controvérsia, alega violação dos arts. 494, I, 505, 507 e 508 do CPC, no que concerne à imutabilidade da coisa julgada, trazendo os seguintes argumentos:
+8. Embora tal decisão tenha sido fundamentada na regra do art. 494, inc. I, do CPC-15, urge dizer que o decisum acabou por violar o regramento da coisa julgada, tal qual indicado no agravo de instrumento.
+9. O Eg. Tribunal de Justiça Fluminense, por sua vez, afirmou que a correção de erro material pode ser realizada a qualquer tempo, mesmo depois de formada a coisa julgada.
+10. Com as escusas de estilo, embora seja possível a correção de inexatidões materiais, de ofício, pelo Juízo, fato é que a correção foi feita depois do trânsito em julgado, esvaziando a imutabilidade decorrente da coisa julgada.
+ ..
+15. Em outras palavras: a alteração da sentença via decisão interlocutória, aproximadamente três anos após a sua prolação e quase um ano depois do seu trânsito em julgado, está gerando um inequívoco abalo à segurança jurídica em prejuízo ao Município de Maricá, com reflexo efetivo nos atos processuais praticados depois do trânsito em julgado dos embargos à execução. (fls. 48-49).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O presente agravo não deve ser provido.
+Isso porque, analisando-se cuidadosamente os documentos que instruem os autos principais (processo nº 0033223-41.2020.8.19.0000), é possível observar que a parte dispositiva da sentença prolatada nos autos dos Embargos à Execução, que embasa a pretensão do agravado, padece de erro material na parte relativa à condenação no pagamento dos ônus sucumbenciais, que, em lugar de se voltar expressamente contra o embargante sucumbente, foi imputada ao embargado, ora agravado.
+Essa inequívoca falha na indicação do sucumbente dos embargos do devedor - que foram julgados integralmente improcedentes e, portanto, não podem gerar dúvidas quanto ao real destinatário da condenação em questão -, por si só, não torna inexistente o título executivo contra o ora agravante, que sucumbiu integralmente na referida demanda.
+Observe-se que esse entendimento não é considerado ofensivo à coisa julgada, como já decidiu o Superior Tribunal de Justiça em caso análogo (fls. 33-34, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste na revisão da premissa fática assentada pela Corte de origem quanto à identidade dos elementos caracterizadores da coisa julgada, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+A jurisprudência do STJ firmou-se no sentido de que, "em sede de recurso especial, não se admite o reexame dos elementos do processo a fim de se apurar a alegada afronta à coisa julgada, em face da incidência da Súmula 7/STJ". (AgInt no AREsp 784.774/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 13/4/2018.)
+Confiram-se ainda os seguintes julgados: REsp 1.814.142/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 15/6/2020; EDcl no REsp 1.776.656/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 9/6/2020; AgInt no REsp 1.629.962/AM, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/5/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
