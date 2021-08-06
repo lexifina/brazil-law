@@ -1,0 +1,12 @@
+DECISÃO
+RICARDO LUIZ FRANÇA REIS DA SILVAalega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que indeferiu a Revisão Criminal n.21040813420218260000.
+Consta dos autos que o paciente foi condenado - em decisão já transitada em julgado - à pena de 6 anos, 10 meses e 26 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, seja fixado o regime inicial semiaberto.
+Decido.
+É importante salientar que a condenação do acusado, após o trânsito em julgado, já foi submetida à nova avaliação pela Corte estadual, ocasião em que não se identificou nenhuma das hipóteses que poderiam autorizar a revisão do que decidido pelas instâncias ordinárias: a) sentença condenatória contrária ao texto expresso da lei penal ou à evidência dos autos; b) sentença condenatória fundada em depoimentos, exames ou documentos comprovadamente falsos; c) descoberta, após a sentença, de novas provas de inocência do condenado ou de circunstância que determine ou autorize diminuição especial da pena (art. 621 do Código de Processo Penal).
+Ademais, a Corte de origem, por ocasião do julgamento da revisão criminal, manteve a imposição do regime inicial fechado, "em razão do quantum de pena e das circunstâncias judiciais desfavoráveis,  ..  nos termos do artigo 33, do Código Penal, não existindo erro técnico quanto a sua fixação" (fl. 25).
+Assim, porque o paciente foi definitivamente condenado a reprimenda superior a 4 anos de reclusão e teve a pena-base estabelecida acima do mínimo legal, não identifico nenhuma ilegalidade manifesta no ponto em que lhe foi fixado o regime inicial fechado de cumprimento de pena, a teor do que enunciado no art. 33, § 2º, "a", e § 3º, do CP.
+Diante de tais considerações, uma vez que, tanto por ocasião da sentença
+condenatória quanto no julgamento da apelação, houve uma análise minudente e profunda dos elementos probatórios colacionados aos autos, em que se demonstraram os motivos pelos quais a condenação do acusado seria substancialmente justa e harmônica com as provas produzidas, não há razões para o processamento deste writ, em que se discute, novamente, matériaque já foi verticalmente analisada, inclusive já submetidaà revisão criminal.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
