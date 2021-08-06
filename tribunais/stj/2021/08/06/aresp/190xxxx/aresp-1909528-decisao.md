@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se deagravo interposto por MUNICÍPIO DE MONSENHOR GIL, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos,percebeu-se, no STJ, haver irregularidade na representação processual do recurso, uma vez quea parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes aocausídicoque representa o ente municipal, subscritordo recurso especial, Dr. Tarso Neto de Carvalho Ribeiro Rocha.
+A parte, regularmente intimada para sanar referido vício, manifestou-se nos autos para trazer a mesma procuração já constante dos autos (fls. 258 e 216), as quais, no entanto, não regularizam a atuação do citado causídico.
+Ressalte-se que "quando a representação do ente público faz-se mediante advogados privados, contratados, no comum dos casos, por prévio procedimento licitatório, é necessário que esse contrato de mandato prove-se pelo respectivo instrumento, vale dizer, pela procuração ou pelo substabelecimento" (AgInt no REsp 1603300/MG, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 22/2/2017).
+Dessa forma, o recurso não foi devida e oportunamente regularizado, sendo firmeo entendimento do STJ de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso (Súmula n. 115/STJ).
+Ainda que a parte houvesse regularizado a representação processual, os recursos não seriam conhecidos, porquanto intempestivos.
+Observa-se que o Ente Público foi intimado pessoalmente do acórdão recorrido em 15/02/2018, sendo o recurso especial somente interposto em 02/04/2018.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 30 (trinta) dias úteis, nos termos do art. 183 e do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029 e 219, caput, todos do Código de Processo Civil.
+Ademais, o Ente Público foi intimado pessoalmente da decisão agravada em 13/06/2019, sendo o agravo somente interposto em 26/07/2019.
+O recurso é, da mesma forma, intempestivo, porquanto interposto fora do prazo de 30 (trinta) dias úteis, nos termos do art. 183, do art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
