@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA ADELAIDE DA ROCHA DA SILVA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Agravo de instrumento. Decisão agravada que homologa desistência do Condomínio autor em relação ao segundo réu que consta como proprietário da unidade condominial inadimplente no RGI. Inexistência de litisconsórcio passivo. Teoria da asserção. Efetividade da tutela jurisdicional. Princípios da celeridade e economia processual para garantia da efetividade. Obrigação propter rem que adere à unidade condominial inadimplente independente de quem seja seu possuidor ou proprietário. Agravante que não tem legitimidade para representar e perseguir direito de terceiro. Recurso desprovido.
+Quanto à controvérsia, alega violação dos arts. 114 e 116 do CPC, relativo à existência de litisconsórcio necessário e unitário, trazendo os seguintes argumentos:
+Em primeiro lugar, a recorrente litigou por 8 anos com o co-proprietário na condição de co-réu e, sabe-se que, caso não estivesse o litisconsorte na demanda, seria possível à recorrente incluir o co-devedor até a contestação, motivo pelo qual, neste momento, ele não pode ser excluído.
+Além disso, trata-se de demanda de cobrança de cotas condominiais, que decorre e recai sobre imóvel de cônjuges, que são coproprietários, caracterizando solidariedade. Em consequência, essa solidariedade, no presente caso, induz ao litisconsórcio necessário e unitário, nos termos do artigo 114 e 116 do CPC (fls. 63-64).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não há litisconsórcio passivo necessário na hipótese sub judice, em que o Condomínio autor cobra cotas condominiais do condômino morador da unidade inadimplente, entre este e a pessoa que ainda consta como proprietária do imóvel no RGI.
+Prevalece initio litis a teoria da asserção esta que, de há muito, reconhece que é réu aquele que o autor entende ser o legitimado para responder pelo agravo a seu direito subjetivo.
+ ..
+Por outro lado a busca da efetividade da tutela jurisdicional faz com que o autor, na busca do ressarcimento do agravo a seu direito, possa buscar a celeridade e a economia processual que a lei processual, e a Constituição Federal, lhe garantem.
+Nessa linha não se olvide a natureza propter rem da dívida condominial que leva a garantia intrínseca na cobrança de cotas inadimplidas, de que o próprio imóvel, ao qual a dívida adere, responde pelo débito, seja quem for seu possuidor ou proprietário.
+ ..
+Ademais não tem a agravante legitimidade para representar interesse alheio, o do proprietário que consta eventualmente no RGI, não podendo portanto usar como argumento a seu favor, tese do interesse alheio (fls. 43-46, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "No caso concreto, o Tribunal de origem analisou as provas contidas no processo para concluir pela legitimidade passiva da recorrente e pela inexistência de litisconsórcio passivo necessário. Alterar esse entendimento demandaria o reexame do conjunto probatório do feito, vedado em recurso especial." (AgInt no REsp 1.721.823/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe 3/3/2021.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
