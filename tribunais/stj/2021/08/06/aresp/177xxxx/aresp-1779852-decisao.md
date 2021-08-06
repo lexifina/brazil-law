@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por DANIELE CRISTINA FONTOURAcontra a decisão proferida pelo Tribunal de Justiça do Estado do Paraná que não admitiu seu recurso especial fundado no art. 105, inciso III, alínea a, da Constituição Federal.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 988/995, in verbis:
+1. Trata-se de agravo interposto por Daniele Cristina Fontoura contra decisão que, em razão do óbice dos enunciados nºs 7 e 83, da súmula do Superior Tribunal de Justiça, negou seguimento ao seu recurso especial.
+O Ministério Público do Estado do Paraná ofereceu denúncia, a qual foi recebida em 20/2/2017, em desfavor de Daniele Cristina Fontoura, imputando-lhe a prática reiterada do crime tipificado no art. 168, § 1º, III, do Código Penal (CP), narrando, em suma, que, no período compreendido entre novembro de 2013 a junho de 2014, apropriou-se indevidamente dos pagamentos de aluguéis imobiliários, de que tinha posse em razão do emprego, quando trabalhava como auxiliar administrativa na empresa M. CAMARGO CORRETORA DE IMÓVEIS LTDA, sendo responsável pelo recolhimento de tais valores.
+O magistrado de primeiro grau julgou procedente a denúncia e condenou Daniele Cristina Fontoura, em regime aberto, à pena de 3 anos e 20 dias de reclusão, substituída por restritivas de direitos.
+A sentença condenatória foi publicada em 18/9/2019.
+A defesa de Daniele Cristina Fontoura interpôs recursode apelação, pleiteando a absolvição, por insuficiência probatória, ou a revisão da dosimetria.
+Em sessão realizada na data de 18/5/2020, a 5a Câmara Criminal do TJPR, por unanimidade, deu parcial provimento ao recurso, para excluir a pena restritiva de direito consistente na prestação de serviços à comunidade como condicionante regime aberto de cumprimento de pena, restando o acórdão assim ementado:
+ ..
+Contra esse acórdão, a defesa de Daniele Cristina Fontoura interpôs recurso especial, ambos com base na alínea "a", do permissivo constitucional, por contrariedade aos arts. 59 e 71 do CP, objetivando a exclusão da vetorial das conseqüências do delito, por ser inerente ao tipo penal, bem como o reconhecimento de crime único, por ter sido praticado apenas contra a empresa vítima.
+O 1o Vice-Presidente do TJPR negou seguimento ao recurso especial, em razão do óbice dos enunciados n.º 07/STJ e 83/STJ.
+Por fim, a defesa de Daniele Cristina Fontoura interpôs o presente agravo em recurso especial, aduzindo que a hipótese demanda apenas revaloração jurídica, quanto à existência ou não de crime único e dos motivos que deram à valoração negativa das conseqüências do delito.
+Os autos foram remetidos ao STJ e distribuídos à relatoria do Ministro Antônio Saldanha Palheiro; após, vieram com vista ao Ministério Público Federal, para a emissão de parecer.
+É o relatório.
+O Parquet opinou pelo não conhecimento do recurso especial.
+É o relatório.
+Decido.
+No que diz respeito à configuração de crime único, assim consignou o Tribunal de origem (e-STJ fl. 851):
+Consoante fundamentação supra, a ré se apropriou dos aluguéis pagos por clientes diferentes à empresa a qual laborava, quais sejam, Fluvio Ângelo da Silva, Daniele Fransciskicvz de Lima, Luana Renata Cardozo, Tania Regina de Souza, mensalmente, no período de 11/2013 a 06/2014.
+Assim, o ato não foi único, mas diversos atos mensais de apropriação.
+Nesse contexto, diante do que foi delineado no acórdão recorrido, não há como infirmar a conclusão do Tribunal a quo sem o reexame das provas do feito, procedimento defeso em recurso especial, nos estritos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRÁFICO INTERNACIONAL DE ARMAS DE FOGO E MUNIÇÕES. INCOMPETÊNCIA TERRITORIAL. NÃO OCORRÊNCIA. PREVENÇÃO. JUNTADA INTEGRAL DO INQUÉRITO POLICIAL. DESNECESSIDADE. AMPLO ACESSO AOS ELEMENTOS INDICIÁRIOS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. INTERCEPTAÇÕES TELEFÔNICAS. DESNECESSIDADE DE PERÍCIA. AUSÊNCIA DE PREVISÃO NA LEI Nº 9.296/96. CONDENAÇÃO BASEADA APENAS EM PROVAS OBTIDAS NA FASE INQUISITORIAL. NÃO OCORRÊNCIA. AUSÊNCIA DE OFENSA AO ART. 155 DO CPP. ATIPICIDADE. TESE ANALISADA NO JULGAMENTO DO HC 182.166/RS, IMPETRADO POR CORRÉUS. DESCLASSIFICAÇÃO DO DELITO E CONTINUIDADE DELITIVA. REVISÃO DE PROVAS. SÚMULA 7/STJ.
+1. Se a infração penal continuada ou permanente se estende por mais de uma localidade, a competência firma-se pela prevenção (CPP, artigo 71).
+2. A oposição de embargos declaratórios não é suficiente para suprir o requisito do prequestionamento, sendo indispensável o efetivo exame da questão pelo acórdão recorrido, em atenção ao disposto no artigo 105, inciso III, da CF/88, de modo a se evitar a supressão de instância.
+3. Se a defesa teve acesso amplo e integral aos autos do inquérito policial, não há falar em ocorrência de nulidade ante a ausência de juntada aos autos da ação penal de cópia integral do inquérito, por meio eletrônico, eis que não houve cerceamento nem prejuízo à defesa. 4. Tendo a condenação se amparado em provas outras, além das colhidas na fase inquisitorial, não há falar em violação do artigo 155 do Código de Processo Penal, na linha do entendimento consolidado desta Corte.
+5. Conforme decidido por este Colegiado no julgamento de writ impetrado por corréus, "a conduta de tráfico internacional de arma denota um plus de reprovabilidade que afasta a mens legis relativamente à abolitio criminis" da Lei n.º 10.826/2003. (HC 182.166/RS).
+6. Quanto ao pedido de desclassificação do delito de tráfico internacional de armas de fogo para o de posse irregular de armas de fogo de uso permitido, a análise da questão demandaria o reexame do contexto fático-probatório dos autos, o que é inviável nesta instância extraordinária, nos termos da Súmula 7 deste Superior Tribunal de Justiça.
+7. Se as instâncias ordinárias concluíram que o delito em exame foi praticado por três vezes, em continuidade delitiva, também nesse ponto há de ser mantida a aplicação do disposto na Súmula 7/STJ, não sendo possível nesta instância extraordinária avaliar reexaminar as provas dos autos.
+8. Agravo regimental improvido. (AgRg nos EDcl no REsp 1633461/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 28/03/2017, DJe 04/04/2017)
+Logo, conheço parcialmente do recurso especial.
+Cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, "a dosimetria da pena está inserida no âmbito de discricionariedade do julgador, estando atrelada às particularidades fáticas do caso concreto e subjetivas dos agentes, elementos que somente podem ser revistos por esta Corte em situações excepcionais, quando malferida alguma regra de direito" (AgRg no AREsp n. 1.661.671/PB, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/5/2020, DJe 27/5/2020).
+A primeira etapa de fixação da reprimenda, como é cediço, tem como objetivo estabelecer a pena-base, partindo do preceito secundário simples ou qualificado do tipo incriminador, sobre o qual incidirão as circunstâncias judiciais descritas no art. 59 do Código Penal. As circunstâncias judiciais são valores positivos; para inverter essa polaridade, é imperioso ao prolator da sentença apresentar elementos concretos de convicção presentes no bojo do processo. Sendo assim, é inadmissível o aumento da pena-base com fundamento em meras suposições ou em argumento de autoridade. Não atende à exigência do art. 93, inciso IX, da Constituição Federal a simples menção aos critérios enumerados no art. 59 do Código Penal, sem anunciar os dados objetivos e subjetivos que a eles se amoldam, ou a invocação de fórmulas imprecisas em prejuízo do condenado.
+Sendo assim, "a valoração negativa de circunstância judicial que acarreta exasperação da pena-base deve estar fundada em elementos concretos, não inerentes ao tipo penal" (AgRg no AREsp 1672105/MS, relatorMinistro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/8/2020, DJe 1º/9/2020).
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PENA-BASE. CONSEQUÊNCIAS. MOTIVAÇÃO CONCRETA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Acerca das consequências, ficou registrado o trauma psicológico sofrido pelas vítimas - especialmente a que estava grávida de seis meses à época da ação criminal, que declarou que o bebê, após o crime, não manteve a taxa de crescimento e o peso esperado, nascendo abaixo do peso normal.
+2. As instâncias antecedentes apresentaram motivação idônea para a exasperação da pena-base do paciente, baseada em elementos concretos dos autos - os prejuízos materiais e extrapatrimoniais suportados pelas vítimas.
+3. Agravo regimental não provido.
+(AgRg no HC 490.633/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 29/11/2019.)
+As consequências do delito são os desdobramentos derivados da conduta do agente, que transcendem o resultado típico, evidenciando maior dano ou perigo de dano ao bem jurídico tutelado pela norma incriminadora.
+Logo, o elevado prejuízo patrimonial ("próximo de oitenta mil reais" - e-STJ fl. 849) é suficiente para aumentar a pena-base.
+Nesse sentido:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO MAJORADO. DOSIMETRIA. CULPABILIDADE. MOTIVOS DO CRIME. COMPORTAMENTO DA VÍTIMA. CARÊNCIA DE FUNDAMENTAÇÃO PARA O INCREMENTO DA PENA-BASE. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS E DAS CIRCUNSTÂNCIAS DO CRIME. PENA REVISTA. WRIT NÃO CONHECIDO E ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+6. Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. In casu, conquanto o fato do bem não ter sido recuperado, de per si, não justifique o incremento da pena-base, o prejuízo suportado pela vítima deve ser reconhecido como superior ao ínsito aos delitos contra o patrimônio, considerando se tratar de roubo de R$ 25.000,00 (vinte e cinco mil reais), além de jóias, aparelhos de celular e de um notebook, o que autoriza a exasperação da reprimenda a título de consequências do crime.
+ ..
+9. Writ não conhecido. Ordem concedida, de ofício, a fim de estabelecer a pena em 9 anos, 4 meses e 15 dias de reclusão, ficando mantido, no mais, o decreto condenatório.
+(HC 556.481/PA, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/02/2020, DJe 12/02/2020, grifei.)
+Logo, deve ser mantido o aumento da pena-base.
+Ante o exposto, conheço ao agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
