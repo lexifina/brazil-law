@@ -1,0 +1,34 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por JOSE FERNANDO DE SOUZA em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE PRESTAÇÃO DE CONTAS. CONTRATO DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. ENTENDIMENTO DO C. SUPERIOR TRIBUNAL DE JUSTIÇA, NO SENTIDO DE QUE NOS CONTRATOS DE ADMINISTRAÇÃO DE CARTÃO DE CRÉDITO, O DEVEDOR NÃO POSSUI INTERESSE DE AGIR PARA A AÇÃO DE PRESTAÇÃO DE CONTAS, QUE TEM COMO PRESSUPOSTO UMA RELAÇÃO JURÍDICA DE ADMINISTRAÇÃO OU GESTÃO DE BENS ALHEIOS. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA E DESTA E. CORTE. INADEQUAÇÃO DA VIA ELEITA. MANUTENÇÃO DA SENTENÇA. MAJORAÇÃO DA VERBA HONORÁRIA NA FORMA DO ART. 85, §11 DO CPC. RECURSO DESPROVIDO. MAIORIA.
+Os embargos de declaração foram rejeitados.
+No recurso especial, o recorrente aponta, além de dissídio jurisprudencial, ofensa aos arts. 668 do CC e 550 do CPC, defendendo, em síntese, que "o Superior Tribunal de Justiça decidiu recentemente que há não que se falar em pedido genérico, nas demandas de prestação de contas de cartão de crédito ajuizadas pelos consumidores, quando haja vinculo jurídico e período delimitado que pretende esclarecimentos dos lançamentos, devidamente especificados, de natureza duvidosa e origem incerta, sendo este o caso em tela".
+Contrarrazões apresentadas.
+É o relatório.
+Passo a decidir.
+O recurso especial não pode ser conhecido.
+O STJ assentou entendimento no tocante às especificidades que compõem o pedido na ação de prestação de contas, dispondo acerca da necessidade de que se demonstre o vínculo jurídico entre autor e réu, a delimitação temporal do objeto da pretensão e os suficientes motivos pelos quais se busca a prestação de contas, para que esteja demonstrado o interesse de agir do autor da ação. (REsp 1.231.027/PR, Relatora Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 12/12/2012, DJe 18/12/2012).
+As instâncias ordinárias, soberanas na análise do conjunto-fático probatório dos autos, convergiram quanto à ausência de interesse de agir do recorrente.
+A propósito, o juízo sentenciante assentou o seguinte:
+Ocorre que a jurisprudência pátria pacificou entendimento quanto aos requisitos legais para a propositura da ação de prestação de contas, devendo haver, no mínimo, delimitação do período e indicação da presença dos lançamentos duvidosos que justificam a medida pleiteada.
+Destaca-se que a parte autora pretende a prestação de contas do período de 04/2008 à 12/2015,ou seja, delimitada o período, entretanto faz requerimento genérico consistente em "todos os lançamentos dos Créditos e débitos (compras e saques); os juros remuneratórios cobrados mensalmente, encargos financeiros, comissões, tarifas, impostos de operações financeiras, seguros, os encargos repassados e negociados no mercado financeiro na captação de recursos para financiar o saldo devedor do cartão de crédito ITAUCARD VISA de nº4593. XXXX. XXXX.0614", além de "Spread Bancário, isto é, a diferença entre a taxa de empréstimo cobrada no financiamento do saldo devedor do cartão de crédito e a média ponderada das taxas de captação de CDBs (certificados de depósito bancário, ou contestar ação".
+Ora, o pedido de prestação de contas de spreads bancários e demais encargos apontados como de "lançamentos duvidosos", sem especificar as cobranças, caracteriza verdadeira ausência de interesse processual porque não poderá substituir a demanda revisional, conforme acórdãos abaixo transcritos: (..)
+Frise-se que a demanda de prestação de contas é uma ação especial em que a pretensão final com a sentença, consoante artigo 918 do CPC, seria capacitar o titular da prestação de título executivo judicial.
+Assim, como a parte autora pretende questionar encargos e spread bancário, entendo que não há interesse na ação de prestação de contas, porque o autor possui pleno conhecimento das taxas aplicadas ao contrato de cartão de crédito e, por consequência o objetivo final seria a revisão contratual.
+Assim, considerando que o questionamento do autor fundamenta-se em esclarecimentos sobre encargos contratuais e spread, sem especificação dos "lançamentos duvidosos", não há interesse do requerente em propor o pedido de prestação de contas, devendo buscar o objetivo através da demanda revisional pertinente, cuja prestação de contas não tem o condão de substituí-la.
+Por sua vez, o Tribunal de origem acrescentou o que se segue:
+Não se alega, no caso presente, o pagamento indevido pela instituição financeira a fornecedores de produtos ou serviços adquiridos pelo usuário.
+Não foi alegado, específica e concretamente, nenhum pagamento efetuado pela administradora em nome do autor e por ela contestado, hipótese em que, em tese, caberia a prestação de contas dos valores desembolsados em nome da cliente.
+Assim, a ausência de delimitação do pedido inicial, nos moldes acima, é suficiente para caracterizar a falta de interesse de agir.
+Demais disso, a jurisprudência do C. Superior Tribunal de Justiça assenta que a ação de prestação de contas pelo titular de cartão de crédito reclama a comprovação do vínculo jurídico entre o autor e o réu e a indicação, na inicial, de período determinado em relação ao qual se postula esclarecimentos, expondo a existência de lançamentos duvidosos que justificam a provocação da jurisdição estatal, não se revelando o meio hábil à revisão de cláusulas contratuais.
+Assim, ilidir a conclusão das instâncias ordinárias - quanto à índole genérica do pedido -, demandaria, necessariamente, o reexame de fatos e provas dos autos, o que é vedado em sede de recurso especial, em razão do óbice da Súmula 7 do STJ.
+Ademais, como bem pontuado pelo juízo de 1º grau, é vedada a utilização da ação de prestação de contas para a revisão de cláusulas contratuais, pretensão que, como afirmado, ressoa dos autos (REsp 1497831/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 07/11/2016).
+Por fim, registro que os mesmos óbices impostos à admissão do recurso pela alínea "a" do permissivo constitucional impedem a análise recursal pela alínea "c", o que prejudica a análise do dissídio jurisprudencial.
+Diante do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC, majoro os honorários advocatícios devidos ao(s) advogado(s) da parte recorrida de R$ 1.200,00 (mil reais) para R$ 1.400,00 (mil e quatrocentos reais), observada a gratuidade da justiça.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo à aplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. CONTRATOS BANCÁRIOS. CARTÃO DE CRÉDITO. CARÊNCIA DE AÇÃO. AUSÊNCIA DE INTERESSE DE AGIR. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.
+RECURSO ESPECIAL NÃO CONHECIDO.
