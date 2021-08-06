@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de RONALDO JOSE HONORATO BARBOSA apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA(Apelação Criminal n. 0004984-33.2018.8.24.0008).
+A controvérsia foi bem sumariada pela Presidência desta Corte na decisão de indeferimento do pedido liminar, conforme excerto abaixo colacionado, in verbis (e-STJ fl. 408, com destaques):
+Opaciente foi condenado às penas de5 meses e 10 dias de reclusãoinicialmente no regime abertoe de 4dias-multa,por infração ao art. 155, § 1º, c/c o art. 14, inciso II, ambos do Código Penal.
+O recurso de apelação teve o provimento negado, porém, analisando os embargos de declaração opostos, o Tribunal de origem reconheceu de ofício a figura do furto privilegiado, reduzindo a pena em 1/3, a qual restou fixada em3 meses e 16 dias de reclusão e 2dias-multa.
+A impetrante sustenta que o paciente teria direito àaplicaçãosomente da pena de multa pelo reconhecimento do privilégio da conduta ou, subsidiariamente, àredução de2/3 de sua pena. Ainda, de forma subsidiária, afirma que a pena de reclusão poderia ser substituídaapenas por multa.
+Requer, liminarmente, o reconhecimentodas alegadas ilegalidades, para suspender os efeitos da condenação, até julgamento final do writ.
+No mérito, pugna pela concessão da ordem para que seja aplicadasomente a pena de multa pelo reconhecimento do privilégio ou que a pena seja diminuída em 2/3, ou, ainda, asubstituiçãoda pena de reclusão pela pena demulta.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pelo não conhecimento do habeas corpus e pela concessão de ofício da ordem.
+É, no essencial, o relatório.
+Decido.
+Relativamente ao pleito de aplicação exclusiva da pena de multa ou de que seja a sanção diminuída em 2/3 pelo reconhecimento do privilégio, assim se manifestou a Corte a quo (e-STJ fls. 398/400):
+Consoante prevê o § 2º do artigo 155 do Código Penal:
+"Art. 155  ..  § 2º - Se o criminoso é primário, e é de pequeno valor a coisa furtada, o juiz pode substituir a pena de reclusão pela de detenção, diminuí-la de um a dois terços, ou aplicar somente a pena de multa."
+Sobre a benesse em comento, sabe-se que é necessário o preenchimento de dois importantes requisitos, quais sejam: primariedade do agente e ser de pequeno valor a coisa furtada - este considerado, conforme reiterada orientação jurisprudencial, a importância não superior a um salário mínimo vigente à época dos fatos.
+In casu, embora responda por outros três procedimentos criminais, o embargante é tecnicamente primário (evento n. 118).
+O bem, objeto da tentativa de subtração, foi avaliado em R$ 500,00 (quinhentos reais), como faz prova o auto de avaliação (doc. 10, evento n. 01). Referido valor é inferior ao salário mínimo vigente à época dos fatos (R$ 954,00, no ano de 2018 - Decreto nº 9.255, de 29 de dezembro de 2017 ), perfazendo-se, assim, o requisito de pequeno valor da coisa furtada.
+Nesse viés, colhe-se da jurisprudência do Superior Tribunal de Justiça:
+ ..
+Para estabelecer o percentual a ser aplicado ao privilégio, deve-se levar em consideração as peculiaridades de cada caso. Em sendo assim, entendo apropriada a aplicação da causa de diminuição prevista no § 2º do art. 155 do Código Penal no patamar mínimo de 1/3 (um terço).
+Isso porque o valor da res furtiva, equivalente a mais de 50% do salário mínimo vigente à época dos fatos, associado ao fato de o embargante ostentar outras três ações penais em curso (evento n. 118), todas por crimes patrimoniais, justifica a aplicação da redutora na fração mínima.
+Nesse sentir:
+ ..
+Considerando, pois, que a pena definitiva foi fixada em 5 (cinco) meses e 10 (dez) dias de reclusão e 4 (quatro) dias-multa, cada um no valor de 1/30 (um trigésimo) do salário mínimo nacional vigente à época do fato (art. 49, § 1º, do CP), aplica-se a reduçãoda pena em 1/3 (um terço), restando a pena definitiva do embargante em 3 (três) meses e 16 (dezesseis) dias de reclusão e 2 (dois) dias-multa.
+Mantém-se a substituição da pena privativa de liberdade efetuada na sentença.
+Da mesma forma que a Corte local, entende este Superior Tribunal de Justiça que, reconhecida a figura do furto privilegiado, poderá o julgador substituir a pena de reclusão pela de detenção, diminuí-la de 1 a 2/3, ou aplicar somente a pena de multa, desde que mediante fundamentação idônea e concreta.
+No caso, como visto, decidiu a Corte local aplicar a redução da reprimenda no índice mínimo de 1/3, bem como afastara aplicação da pena isolada de multa, em tese, mais benéfica, com apoio em justificativa idônea e concreta, consubstanciada no fato de que "o valor da res furtiva, equivalente a mais de 50% do salário mínimo vigente à época dos fatos, associado ao fato de o embargante ostentar outras três ações penais em curso (evento n. 118), todas por crimes patrimoniais, justifica a aplicação da redutora na fração mínima" (e-STJ fl. 399). Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO PRIVILEGIADO. FRAÇÃO DE REDUÇÃO NO PATAMAR MÁXIMO.INVIABILIDADE. FUNDAMENTAÇÃO IDÔNEA. VALOR DA RES FURTIVA E CONDIÇÕES PESSOAIS DO AGENTE. PRECEDENTES. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE APENAS POR MULTA. INVIABILIDADE. FALTA DE CONDIÇÕES FINANCEIRAS PARA ARCAR COM O ENCARGO. CARÁTER RETRIBUTIVO DA PENA QUE NÃO SERIA ALCANÇADO. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Não há parâmetros legais estabelecidos para que se determine o grau de redução a ser dado pelo reconhecimento do furto privilegiado, de modo que sua aferição deve considerar as particularidades do caso concreto, em um exercício de discricionariedade motivada por parte do magistrado.
+- Na espécie, os fundamentos apresentados pela Corte estadual - o valor da res furtiva, equivalente a 25% do salário mínimo vigente à época dos fatos, associado ao fato de o paciente ostentar cinco ações penais em curso, todas por crimes patrimoniais - justificam a aplicação da fração de 1/3 (um terço) em razão do privilégio do art. 155, § 2º, do Código Penal. Precedentes.
+- Não merece reparo o acórdão recorrido que, aplicando o privilégio estabelecido no § 2º do art. 155 do CP, e visando ao caráter retributivo da pena, o qual não seria alcançado caso fosse aplicada somente a pena de multa, reduziu a sanção reclusiva imposta, justificando que a sanção pecuniária não poderia ser arcada pelo paciente, diante de sua falta de condições financeiras. Precedentes.
+- Agravo regimental não provido.
+(AgRg no HC 624.257/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 9/3/2021, DJe 15/3/2021.)
+HABEAS CORPUS. SUBSTITUTO DE RECURSO ESPECIAL. NÃO CABIMENTO. FURTO SIMPLES. INCIDÊNCIA DO PRIVILÉGIO DO ART. 155, § 2º, DO CÓDIGO PENAL. SUBSTITUIÇÃO DA PENA DE RECLUSÃO PELA DE MULTA. DESCABIMENTO.SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR UMA RESTRITIVA DE DIREITO. CABIMENTO. HABEAS CORPUS NÃO CONHECIDO.
+I - Reconhecida a figura do furto privilegiado, a faculdade conferida ao julgador de substituir a pena de reclusão pela de detenção, diminuí-la de 1 (um) a 2/3 (dois terços), ou aplicar somente a pena de multa requer fundamentação concreta, como exige o próprio princípio do livre convencimento fundamentado (arts. 157, 381 e 387 do CPP c/c o art.93, inciso IX, segunda parte da Lex Maxima), o que, de fato, ocorreu na espécie.
+II - No caso dos autos, verifica-se que o Tribunal a quo apresentou fundamentação idônea para fixar a pena de detenção e diminuir a reprimenda em 1/3 (um terço), tendo em vista o valor patrimonial da res furtiva.
+III - Tendo sido substituída a pena privativa de liberdade por restritiva de direitos, e não se mostrando prejudicial ao réu a escolha realizada pelo Tribunal a quo, não há qualquer ilegalidade a ser sanada pela concessão da ordem, ainda que de ofício.
+Habeas Corpus não conhecido.
+(HC 443.537/SC, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/5/2018, DJe 23/5/2018.)
+Por fim, quanto à substituição das penas, a Corte local confirmou os termos da sentença, assim proferida (e-STJ fl. 263):
+Preenchidos os requisitos do art. 44 do Código Penal, substituo a pena privativa de liberdade por pagamento de prestação pecuniária no valor de um salário mínimo, a ser recolhido ao Fundo de Penas Alternativas desta comarca.
+No presente caso, o paciente foi condenado pelo delito de furto, o qual já prevê, no preceito secundário, a aplicação da pena privativa de liberdade e multa.
+Desse modo, este Superior Tribunal de Justiça segue a orientação de que "não se mostra socialmente recomendável a aplicação de uma nova pena de multa, em caráter substitutivo, no caso de o preceito secundário do tipo penal possuir previsão de multa cumulada com a pena privativa de liberdade, devendo-se privilegiar a incidência de duas medidas restritivas de direitos nessa hipótese"(AgRg no HC n. 480.970/SC, relatorMinistro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/6/2019, DJe 18/6/2019). Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME DE FURTO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. COMPETÊNCIA DO JULGADOR. NÃO DEMONSTRAÇÃO DE DESPROPORCIONADADE. REVISÃO DE FATOS E PROVAS. TIPO PENAL INCRIMINADOR. MULTA SUBSTITUTIVA. SÚMULA N. 171 DO STJ. DECISÃO MANTIDA.
+1. Nos termos do art. 44, § 2º, primeira parte, do Código Penal, sendo a reprimenda igual ou inferior a 1 ano, é possível a substituição da pena privativa de liberdade por multa ou por uma pena restritiva de direitos, competindo exclusivamente ao julgador decidir, de forma fundamentada, por uma das referidas possibilidades.
+2. Salvo se demonstrada manifesta desproporcionalidade, deve ser mantida a pena restritiva de direitos imposta ao réu, pois a reversão do julgado quanto ao tema exige o revolvimento do conjunto fático-probatório dos autos, o que é inviável na via do writ.
+3. Se ao tipo penal incriminador -art. 155, caput, do Código Penal -é cominada pena privativa de liberdade cumulada com multa, não é socialmente recomendável a substituição da prisão por multa (Súmula n. 171 do STJ).
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido.
+(AgRg no HC 623.095/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 1º/6/2021, DJe 7/6/2021.)
+Ante o exposto, denego o habeas corpus.
+Publique-se. Intimem-se.
