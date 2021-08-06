@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado pela UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+RESPONSABILIDADE CIVIL UNESP  DOCENTE PERSEGUIÇÃO POLÍTICA  ASSÉDIO MORAL  AUSÊNCIA DE PROVAS DANOS MATERIAIS E MORAIS  IMPOSSIBILIDADE NÃO PROVADA A REITERAÇÃO DE ATOS ADMINISTRATIVOS INJUSTIFICADOS E NOCIVOS À REPUTAÇÃO DO PROFESSOR NÃO SE CONFIGUROU O ASSEDIO MORAL.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 85, §§ 2º e 3º, do CPC, no que concerne ao valor fixado à título de honorários advocatícios, trazendo o(s) seguinte(s) argumento(s):
+Imperioso destacar a redação do artigo 85, §§ 2º e 3º do Código de Processo Civil, que estabelece que os honorários advocatícios deverão ser fixados sobre o valor da condenação, do proveito econõmico obtido ou, não sendo possível, sobre o valor atualizado da causa, observados os requisitos já mencionados no antigo código, reproduzidos no § 2º. Em sendo a Fazenda Pública parte, os honorários igualmente devem observar os critérios estabelecidos no § 2% sendo o percentual mínimo, em ações cujo valor da causa , ou proveito econômico alcance até 200 salários mínimos ( hipótese dos autos), correspondente a 10%. (fls. 1218).
+ ..
+Como se vê, o valor fixado no v. acórdão recorrido, R$ 2.000,00, está à margem do ordenamento processual civil, estando inclusive desprovido de critérios de razoabilidade e proporcionalidade, pelo que, deve ser restabelecido o valor fixado na sentença de 1º Grau. 14. Outrossim, o valor fixado no acórdão recorrido, ratificado pelo acórdão embargado - a pretexto de falta de zelo da autarquia, que limitou o valor da verba a R$ 2.000,00 (dois mil reais) - contraria expressamente o texto de lei processual, equivalendo a menos de 1% do valor da causa e revela-se irrisório, sendo incompatível com o trabalho desenvolvido pela Procuradoria da Unesp. (fls. 1219).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+O art. 85, § 20, do NCPC, elenca como parâmetros para fixação do valor da causa, o seguinte:
+I - o grau de zelo do profissional;
+II - o lugar de prestação do serviço;
+III - a natureza e a importância da causa;
+IV - o trabalho realizado pelo advogado e o tempo exigido para o seu serviço ".
+Não se nota peculiaridade em nenhum desses parâmetros a justificar a aplicação literal do NCPC: não se trata de demanda complexa ou especialmente importante. Afinal, restringe-se ao imediato interesse das próprias partes, tão- somente.
+Não bastasse, o advogado da UNESP nem mesmo apresentou contrarrazões.
+Dessa forma, razoável a fixação dos honorários pela sucumbência do autor em R$ 2.000,00, já considerada a verba recursal. (fls. 1183).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas honorárias, essa restringe-se aos casos em que fixadas na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível, em recurso especial, a revisão dos valores fixados a título de honorários advocatícios e astreintes, pois tal providência exigiria novo exame do contexto fático-probatório constante dos autos, o que é vedado pela Súmula 7/STJ. Todavia, o óbice da referida súmula pode ser afastado em situações excepcionais, quando for verificado excesso ou insignificância das importâncias arbitradas, ficando evidenciada ofensa aos princípios da razoabilidade e da proporcionalidade, hipóteses não configuradas nos autos". (AgInt no AREsp 1.340.926/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 28/2/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.551.437/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.487.241/SC, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 14/8/2020; e AgInt no REsp 1.479.479/AM, relator Ministro Og Fernandes, Segunda Turma, DJe de 29/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
