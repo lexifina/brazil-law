@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por NOTRE DAME INTERMEDICA SAUDE S.A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÕES CÍVEIS ERRO MÉDICO AUTORA QUE SE SUBMETE A PROCEDIMENTO CIRÚRGICO DIVERSO DO INDICADO PELO MÉDICO ASSISTENTE LAUDO PERICIAL NO SENTIDO DA CARACTERIZAÇÃO DE ERRO MÉDICO PRELIMINAR DE NULIDADE POR CERCEAMENTO DE DEFESA E VÍCIO DE FUNDAMENTAÇÃO INOCORRÊNCIA RESPONSABILIDADE DO PLANO DE SAÚDE E DO MÉDICO PROFISSIONAL QUE NÃO PERTENCIA AO QUADRO DE FUNCIONÁRIOS DO HOSPITAL RÉU QUE POR SUA VEZ ATUOU APENAS NA CESSÃO DO ESPAÇO PARA A REALIZAÇÃO DA CIRURGIA AUSÊNCIA DE PROVA DE FALHA NOS SERVIÇOS DE HOTELARIA FORNECIDOS PELO HOSPITAL AUSÊNCIA DE RESPONSABILIDADE DO HOSPITAL DANO MORAL QUE SE REDUZ DE R 5000000 PARA R 30.000,00 REFORMA DA SENTENÇA DE PARCIAL PROCEDÊNCIA
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, a parte recorrente alega violação dos arts. 186, 187 e 927 do CC, no que concerne ao elevado valor de indenização, trazendo o(s) seguinte(s) argumento(s):
+Foi realizada perícia médica na qual apontou-se suposta falha diante da mudança de procedimento cirúrgico. Apesar disto, não se verificou qualquer consequência à saúde da autora.
+ ..
+Assim sendo, como bem pontuou o v. Acórdão, "O laudo pericial concluiu que o período de afastamento das atividades rotineiras da autora é de 15 dias e que o dano estético se deu em grau mínimo".  Apesar disto, fixou como valor indenizatório a quantia de R30.000,00(trinta mil reais).
+A indenização deve observar a extensão do dano sofrido.
+Não é o que se observa no r. Acórdão proferido.
+(fls. 556/558).
+É, no essencial, o relatório. Decido.
+O Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos não há necessidade de qualquer outra prova para a formação do juízo de convencimento de que houve falha na prestação do serviço médico dirigido à autora, acarretando a responsabilidade no evento danoso descrito nos autos.
+A prova técnica produzida na instrução foi no sentido de que o atendimento realizado pelo 2º réu não ocorreu dentro da boa prática médica. Do referido laudo, reprise-se suas conclusões (fls. 232):
+O atendimento realizado pelo 2º Réu não ocorreu dentro dá boa prática médica. A autora apresentou diagnóstico de Tenossinovite de De Quervain em Punho direito e foi submetida ao tratamento cirúrgico para Neurólise Nervo Mediano, procedimento compatível com o quadro de Síndrome do Túnel do Carpo.
+Em que pesem as alegações da apelante, conclui-se com base no acervo probatório, que houve falha no procedimento médico ao submeter a paciente a um procedimento cirúrgico distinto daquele indicado pelo seu médico assistente, devendo, portanto, ser imputado às demandadas os danos suportados decorrentes do resultado da cirurgia.
+A tese defensiva da operadora do plano de saúde, primeira apelante, não se sustenta, uma vez que, ao receber uma solicitação para um procedimento, jamais poderia ter indicado outro na ficha de autorização, conforme se vê do documento de fls. 28.
+Melhor sorte não socorre ao terceiro apelante, profissional médico que realizou a cirurgia equivocada. O fato de a capa do prontuário indicar um determinado procedimento cirúrgico não afasta o seu dever de examinar a paciente de modo a confirmar se o referido procedimento era o correto ou não. Não o fazendo, agiu com negligência, atraindo o dever de reparar os danos causados à autora.
+ ..
+A indenização por dano moral deve ser fixada em valor suficiente para reparar o dano, como se extrai do art. 944, caput, do Código Civil.
+A indenização deve ser compatível com a reprovação da conduta ilícita e a gravidade do dano produzido. Vale dizer, a reparação do dano moral não pode ser fonte de lucro, para a vítima nem servir de estímulo à violação de direitos pelo ofensor.
+O laudo pericial concluiu que o período de afastamento das atividades rotineiras da autora é de 15 dias e que o dano estético se deu em grau mínimo.
+Assim, considerando as peculiaridades do caso em exame, tenho que o valor arbitrado a título de danos morais deve ser readequado a patamar proporcional em virtude dos critérios da extensão e duração do dano, reprovabilidade da conduta, mas também desestímulo à reincidência, devendo ser reduzido para R 30.000,00 (trinta mil reais). (fls. 512/514).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
