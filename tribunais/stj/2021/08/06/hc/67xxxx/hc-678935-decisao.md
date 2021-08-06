@@ -1,0 +1,20 @@
+DECISÃO
+MARCELO PINHEIRO DE SOUZA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0006350-91.2021.8.26.0996, em que foi cassada sua progressão ao regime semiaberto e determinada a prévia realização de exame criminológico antes de novo pleito.
+A defesa assere que, "a gravidade dos delitos e a longa pena por cumprir não podem ser invocadas como óbices à promoção de regime" (fl. 9). Requer, liminarm ente e no mérito, a progressão ao regime intermediário.
+O Ministério Público Federal opinou pela concessão da ordem (fls. 103-111).
+Decido.
+Na hipótese, a Corte de origem, ao cassar a benesse, ressaltou (fls. 71-72, grifei):
+No caso vertente, verifica-se que o sentenciado, reincidente (fls. 48), foi condenado à pena total de seis anos, dois meses e vinte dias de reclusão, em regime fechado, pela prática de roubo duplamente agravado, crime grave a demandar indagações e respostas adequadas para a verificação sobre se o reeducando reúne, efetivamente, condições do ponto-de-vista subjetivo para a progressão de regime. O término do cumprimento da reprimenda deverá ocorrer apenas em 16 de abril de 2026, se nada de anormal ocorrer até lá, destacando-se que os tipos de crimes e o "quantum" das reprimendas corporais servem também, "data venia", para demonstrar a periculosidade do reeducando.
+E, "in casu", em que pese o fato de os subscritores do atestado terem afirmado que o sentenciado ostenta boa conduta disciplinar, não há qualquer documentação que, eventualmente, possa comprovar tal assertiva.
+Com efeito, a preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade: a prevenção de delitos" (BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+5. Por fim, a jurisprudência deste Superior Tribunal de Justiça consolidou entendimento no sentido de que não há obrigatoriedade de o(a) apenado(a) passar por regime intermediário para que obtenha o benefício do livramento condicional, ante a inexistência de previsão no art. 83 do Código Penal.
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada.
+(HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei).
+Portanto, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, a impor à paciente patente constrangimento ilegal, dado o preenchimento dos requisitos legais.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem para restabelecer a decisão que concedeu ao paciente a progressão ao regime semiaberto.
+Publique-se e intimem-se.
