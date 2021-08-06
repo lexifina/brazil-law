@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARINA DE MORAES SILVEIRA PEDREIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PLEITO DE CONCESSÃO DE GRATUIDADE DA JUSTIÇA hipótese de concessão do benefício elementos dos autos que fazem prevalecer a presunção de veracidade que brota da declaração de pobreza gratuidade da justiça concedida apelo conhecido independentemente de preparo.
+OBJEÇÃO PRELIMINAR CERCEAMENTO DE DEFESA NÃO OCORRÊNCIA dilação probatória desnecessária documentação trazida aos autos que permitia o desate antecipado da lide objeção rejeitada.
+APELAÇÃO EMBARGOS MONITÓRIOS REJEITADOS CONTRATO DE ABERTURA DE CRÉDITO EM CONTA CORRENTE CAPITALIZAÇÃO DE JUROS possibilidade da prática existência de pacto nesse sentido entendimento do STJ proferido em sede de recurso repetitivo.
+JUROS LIMITAÇÃO Lei nº 4.595/64 que está em vigor e afastou a incidência do Decreto-Lei nº 22.626/33 de todos os contratos celebrados com instituições integrantes do Sistema Financeiro Nacional Súmula nº 596 do STF precedente do STJ julgado em regime de processo repetitivo hipótese em que os contratos de empréstimo de valor certo e o contrato de abertura de crédito em conta corrente tinham taxas de juros prefixadas redução dos juros nessas circunstâncias (de existência de taxa pactuada) que só poderia se dar no caso de cobrança abusiva necessidade de demonstração que as taxas de juros aplicadas aos
+contratos discrepavam da média do mercado, o que não se evidenciou nos autos recurso desprovido.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação do art. 369 do CPC, no que concerne ao cerceamento de defesa, trazendo os seguintes argumentos:
+23. Nobres julgadores, a Recorrente deixou clara a necessidade de perícia contábil sobre o contrato firmado entre os litigantes. Não se trata de abstração, ou de alegações genéricas, mas de abusividade de taxas de usura TRADUZIDAS EM NÚMEROS, que foram comprovados nos embargos, qual seja, 50,827% ao ano.
+24. O caso, como incansavelmente demonstrado, carece de perícia contábil, dada a complexidade do negócio, e as evidentes divergências de valores, tanto pagos, quanto em aberto, entretanto, o juízo  a quo  indeferiu referida pericia, tendo o v. acórdão, mantido o indeferimento.
+ ..
+26. Posto isso, incorreu em clamorosa ofensa ao princípio do contraditório, ao passo que o juízo simplesmente aceita os valores apontados pelo recorrido como verdade, sem nenhuma comprovação isenta nos autos, mesmo após a devida impugnação da Recorrente.
+ .. .
+29. Ademais, ficou amplamente demonstrado nos embargos a gigantesca carga de juros, o que comprova a necessidade de perícia para a revisão do contrato, pois tratam-se de números impraticáveis em qualquer operação, devendo assim ser determinada a realização de perícia contábil para sanar os abusos cometidos pelo Recorrido, bem como analisar o valor residual tendo em vista a diminuição dos juros. (fls. 211/214).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Não é todo o indeferimento de prova ou diligência que constitui cerceamento de defesa. O juiz é o destinatário das provas e cabe a ele a condução do processo. Nesta linha, cumpre a ele indeferir a produção das provas desnecessárias inclusive, em homenagem ao postulado constitucional da duração razoável do processo.
+ .. .
+Nesse diapasão, se pela análise das alegações e provas acostadas com a inicial e contestação, já encontra o julgador elementos hábeis à formação de seu convencimento não vendo necessidade da produção de outras ou entendendo que aquelas pretendidas mostram-se inadequadas ou impertinentes para o desate da lide , deve proceder ao conhecimento direto do pedido, o que afasta a fase processual seguinte, que se inicia nos termos do artigo 357 do CPC.
+Não tem lugar a produção de provas adicionais quando se apresentar qualquer hipótese de extinção do processo sem julgamento de mérito, ou se for o caso de julgamento antecipado da lide.
+ .. .
+Tecidas tais genéricas considerações, especificamente na hipótese dos autos, o desate antecipado dos embargos não implicou cerceamento de defesa.
+Se a apelante pretendia apresentar cálculos, disso ela não foi tolhida, uma vez que teve inegável acesso ao contrato e à planilha de débitos que acompanhou a inicial.
+De posse de tais dados, a apelante tinha plenas condições de exibir demonstrativo contábil, caso assim desejasse (fls. 195/196).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O Tribunal local, atento ao acervo fático-probatório dos autos, considerou dispensável a produção de prova pericial e testemunhal, uma vez que a prova documental se mostrou suficiente para o desate da controvérsia. Rever tal conclusão, esbarra no óbice da Súmula 7/STJ." (AgInt no AREsp 1.027.435/GO, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 1º/9/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
