@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CAROLINA MIRELLA DA SILVA SANTOS à decisão de fls. 1142/1143, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Inicialmente, a despeito da decisão que inadmitiu o Recurso Especial ter sido publicada em 13/03/2020, sexta-feira, como exposto na decisão, há que ressaltar que logo no dia 16/03/2020, segunda-feira, houve a suspensão dos prazos processuais em virtude da Pandemia.
+Conforme exposto na Portaria Conjunta da Presidência n. 946/2020, editada pelo Tribunal de Justiça de Minas Gerais, os prazos processuais de processos físicos com matérias criminais foram suspensos em 16/03/2020 e somente retornaram em 14/09/2020, consoante os termos da Portaria n. 1047/2020 (fl. 1147).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso que pretende seja conhecido por esta Corte, providência que não foi cumprida.
+A propósito:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL INTERPOSTO SOB A ÉGIDE DO NOVO CPC. PRAZO LEGAL DE 15 (QUINZE) DIAS. CÔMPUTO EM DIAS CORRIDOS. INTEMPESTIVIDADE. ARTIGO 798 DO CPP. INSURGÊNCIA IMPROVIDA.
+1. Após a entrada em vigor da Lei n.º 13.105/2015, a Terceira Seção desta Corte Superior assentou entendimento no sentido de que, nos processos e recursos que tratam de matéria penal, o prazo continua a ser contado em dias corridos, em razão de disposição específica do art. 798 do Código de Processo Penal.
+2. No caso, a decisão proferida em Juízo Prévio de Admissibilidade foi publicada no Diário da Justiça Eletrônico em 18.12.2017, tendo início o prazo para interposição do agravo em recurso especial no primeiro dia útil subsequente, in casu, 2.1.2017, mostrando-se intempestivo o reclamo protocolado somente em 23.1.2018.
+3. A despeito da informação contida na peça recursal sobre a suspensão dos prazos no Tribunal a quo, não trouxe o agravante nenhum documento idôneo do respectivo Sodalício a respaldar sua alegação, não se desincumbindo, pois, de seu ônus. 4. A comprovação de suspensão do prazo deve ser realizada por meio de documento idôneo capaz de evidenciar a prorrogação do prazo do recurso.
+5. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1259368/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 17/8/2018.)
+Além disso, a jurisprudência referente ao CPC de 1973 admitia a comprovação posterior da tempestividade. (AgInt no REsp 1735131/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 21/10/2019; e EDcl no AgRg no AREsp 1238085/CE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 28/3/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso. (AgRg no AREsp 1686121/SE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 29/6/2020.)
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
