@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE GOIÂNIA contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, assim resumido:
+AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXECUÇÃO FISCAL. MULTA. INCIDÊNCIA SOBRE O DÉBITO PRINCIPAL E JUROS. VEDAÇÃO. EFEITO CONFISCATÓRIO. DECISÃO MANTIDA.
+1 - A vedação à utilização de tributos com efeito de confisco, nos moldes do artigo150, IV, da Constituição Federal, deve ser observada pelo Estado tanto na instituição de tributos, quanto na imposição das multas fiscais.
+2 - Não há, no ordenamento jurídico vigente, a previsão de calcular-se a multa moratória sobre a soma do tributo com os juros de mora, de modo que se mostra escorreita a decisão que determinou que a multa de 100% incida sobre o valor do débito.
+RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia recursal, alega a parte recorrente violação do art. 161 do CTN no que concerne à possibilidade de incidência da multa moratória sobre o valor devido a título de juros moratórios, trazendo os seguintes argumentos:
+Trata-se singularmente de discussão relacionada ao conteúdo normativo do caput do art. 161 do CTN, de sua melhor interpretação e alcance, mormente quanto à forma de calcular a multa moratória. No caso concreto, a referida regra foi, data venia, erroneamente interpretada pelo e. TJ/GO, como se verá adiante.
+ ..
+Deveras, da leitura do acórdão recorrido vê-se que o Tribunal local reputou inexistente previsão legal que permitisse calcular-se a multa moratória sobre a soma do tributo com os juros de mora.
+ ..
+Contra referido acórdão, foram opostos embargos de declaração, com objetivo de prequestionar a matéria,nos quais alegou-se justamente a ausência de manifestação do órgão julgador acerca da norma disposta no caput do art. 161 do CTN.
+ ..
+Ora, por ter reputado que não há, no ordenamento jurídico vigente, a previsão de calcular-se a multa moratória sobre a soma do tributo com os juros de mora, o e. TJ/GO contrariou o caput do art. 161 do CTN, o que ensejou tanto o desprovimento do agravo de instrumento quanto a rejeição dos aclaratórios opostos pelo Município de Goiânia (fls. 107/109).
+É, no essencial, o relatório. Decido.
+No que tange à controvérsia apresentada, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; e AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ademais, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; e AgRg no AREsp n. 1.779.940/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/5/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
