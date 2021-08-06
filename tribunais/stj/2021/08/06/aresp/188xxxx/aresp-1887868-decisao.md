@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo apresentado por RAFAEL GÓIS SILVA XAVIER e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - PENHORA DE DIREITOS POSSESSÓRIOS - POSSIBILIDADE. É possível a penhora sobre direito possessório, com base no artigo 835, XIII, do CPC, antigo artigo 655, XI, do CPC/73, por possuir referido direito claro valor econômico, já que o titular desse direito pode usufruir livremente do bem.
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação do art. 835, XIII, do CPC e do art. 1.231 do CC, no que concerne à impossibilidade de penhora de direitos possessórios de imóvel, na medida em que os recorrentes não possuem qualquer direito sobre o bem, trazendo os seguintes argumentos:
+Entretanto, conforme consta na matrícula atualizada do imóvel, o negócio entabulado não se concretizou e teve sua rescisão operada, motivo pelo qual o imóvel não é de propriedade do recorrente, nem mesmo possuía qualquer direito sobre o referido bem.
+Nesse sentido, foi providenciada a formalização da rescisão do negócio entre as partes, para fins de efetivamente corroborar o que reflete a realidade da matrícula do imóvel, bem como definitivamente deixar claro que o imóvel não é de propriedade do recorrente.
+Observa-se que o v. Acórdão ora recorrido viola frontalmente o que dispõe o artigo 835, XIII, do Código de Processo Civil:
+ ..
+Conforme consta nos autos não se concretizou o negócio entabulado com terceiro para aquisição de imóvel, tal fato corroborado pela documentação de id 296771847, id 296771848,id 296771849, id 296771851, id 296771852, id 296771854 e id 296771859.
+Nesse sentido, todos os comprovantes de pagamento em posse do executado já foram juntados aos autos conforme acima indicado. Observa-se de igual forma que conforme disposto em Termo de Transação para Rescisão Contratual as partes transacionaram no sentido de que para se evitar eventual questionamento judicial do negócio desfeito, ocorreu a quitação recíproca.
+Não há que se falar em penhora de direitos possessórios de imóvel, na medida em que sendo a posse um dos atributos da propriedade, impõe-se que o bem a ser constrito, esteja registrado em nome da parte sujeita à expropriação de patrimônio, o que não é o caso dos autos, conforme conjunto processual.
+ ..
+Significa dizer que o v. Acórdão também deu interpretação divergente ao que dispõe o artigo 1.231 do Código Civil, na medida em que desconsiderou a certidão constante no processo de que o imóvel consta em nome de terceiro, diverso do recorrente.
+Nesse contexto, o fato de o recorrente ter realizado contrato de compra e venda e posteriormente rescindindo com ampla quitação e ausência de devolução de qualquer valor, não pode significar que tenha qualquer direito decorrente, sobretudo acerca do que consta no registro imobiliário.
+ ..
+Dessume-se, portanto, que não há qualquer embasamento jurídico para manter o v. Acórdão recorrido, na medida em que o recorrido não afastou a presunção de plenitude do direito do terceiro que consta no registro imobiliário e estranho à lide.
+Não se discute a repercussão econômico-financeira da penhora sobre a posse imobiliária. Antes de qualquer outra medida, necessário se faz que o recorrido comprovasse, de forma inquestionável, a que título o recorrente possa ter adquirido a posse sobre o imóvel pertencente a terceiro, requisito inexistente nos autos.
+Com essas premissas, deve ser mantida a r. decisão interlocutória que indeferiu a penhora do imóvel, porquanto o registro imobiliário indica a propriedade de terceira pessoa, não participante da relação jurídica. (fls. 1451-1454).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, o Tribunal de origem se manifestou nos seguintes termos:
+E extrai-se desse contrato de promessa de compra e venda, cuja cópia está anexada ao documento nº 135, que a posse do bem foi transferida para a empresa Protec 120 dias após a assinatura do contrato, isto que se deu em 25 de janeiro de 2018.
+Assim, tenho que assiste razão ao agravante quando defende a possibilidade de penhora dos direitos possessórios decorrentes desse contrato.
+Este Tribunal já se manifestou, diversas vezes, sobre a possibilidade de a penhora recair sobre direito possessório, com base no artigo 835, XIII, do CPC, antigo artigo 655, XI, do CPC/73, por possuir referido direito claro valor econômico, já que o titular desse direito pode usufruir livremente do bem:
+ ..
+Insta salientar que a jurisprudência é uníssona no sentido de que a possibilidade de penhora de direitos possessórios independe de qualquer "registro no cartório", conforme jurisprudências acima citadas, posto que, como já dito, o que se discute aqui é o direito à posse e não à propriedade.
+Assim, tenho que é plenamente possível a pretensão do agravante de penhorar os direitos possessórios da parte agravada decorrentes do contrato de promessa de compra e venda de imóvel anexado ao documento nº 135. (fls. 1439-1440).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
