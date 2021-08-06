@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por UNIMED GRANDE FLORIANÓPOLIS - COOPERATIVA DE TRABALHO MÉDICO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C DANOS MORAIS. PLANO DE SAÚDE. RESCISÃO UNILATERAL. INADIMPLÊNCIA DA AUTORA POR VALOR IRRISÓRIO. NOTIFICAÇÃO PRÉVIA. EXEGESE DO ART. 13, PARÁGRAFO ÚNICO, INCISO II, DA LEI 9.656/98. INOBSERVÂNCIA DO PROCEDIMENTO PREVISTO PARA NOTIFICAÇÃO. PROCEDÊNCIA NA ORIGEM. INSURGÊNCIA DA PARTE RÉ. ALEGAÇÃO DE NOTIFICAÇÃO PARA RESCISÃO CONTRATUAL DENTRO DE PRAZO ESTABELECIDO NÃO VERIFICADA. TRATAMENTO DE CÂNCER INTERROMPIDO DURANTE O IMBRÓGLIO. INDENIZAÇÃO FIXADA DE ACORDO COM O PRINCÍPIO DA PROPORCIONALIDADE E RAZOABILIDADE. SENTENÇA MANTIDA.
+RECURSO CONHECIDO E DESPROVIDO.
+Quanto à controvérsia, alega violação dos arts. 186, 187, 188, I, e 927, todos do CC, no que concerne à inexistência de ato ilícito, trazendo os seguintes argumentos:
+Ocorre que, ao condenar a Recorrente ao pagamento de uma indenização por danos extrapatrimoniais, entende a Recorrente que o Tribunal a quo violou frontalmente o disposto nos artigos 186, 187, 188, inciso I e 927, todos do Código Civil, uma vez que, consoante os dispositivos legais mencionados, não houve ato ilícito perpetrado
+ ..
+Quanto ao ponto, é certo que a rescisão contratual por inadimplemento na situação dos autos, cujo inadimplemento e a existência de prévia notificação do inadimplemento são incontroversos, configura certamente a hipótese de exercício regular de um direito, situação esta que afasta o ato ilícito a teor do disposto no art. 188, inciso I do Código Civil.
+Assim, não havendo qualquer conduta por parte da Recorrente que pudesse configurar as condutas previstas nos artigos 186 e 187 do Código Civil e igualmente demonstrada à aplicação da excludente prevista no art. 188, inciso I do Código Civil, eis que novamente tanto o inadimplemento quanto a existência de prévia notificação do inadimplemento são incontroversos, não há que se falar na reparação prevista no art. 927 do Código Civil.
+Veja, ainda que se possa falar em dano moral para o mesmo existir deve haver a "violação do direito", o que no caso concreto não restou configurado, eis que o inadinnplennento e a existência de prévia notificação do inadinnplennento são incontroversos.
+Portanto, nenhum "direito" da Recorrida foi violado, seja em sua esfera contratual seja na pessoal. (fls. 370-372).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Verifica-se que, no período da rescisão contratual, a apelada fazia quimioterapia e mensalmente realizava uma série de exames de rotina.
+Nota-se ainda, que da data da rescisão contratual até a data do restabelecimento, mediante decisão judicial, a parte autora ficou aproximadamente vinte dias sem a cobertura do plano de saúde, o que por si só, causou-lhe prejuízos, vindo a interromper o tratamento, bem como, sofrer a angústia de eventualmente precisar do plano de saúde em caso de urgência e não ter essa disponibilidade (fls. 359).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. PLANO DE SAÚDE. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. INCIDÊNCIA DA SÚMULA 7/STJ. RECUSA INDEVIDA/INJUSTIFICADA. DANO MORAL. RECUSA DE TRATAMENTO. CONFIGURAÇÃO. SÚMULA N. 7. VALOR DO QUANTUM INDENIZATÓRIO. OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. SÚMULA N. 83/STJ. AGRAVO INTERNO DESPROVIDO.
+ ..
+2. A revisão do julgado importa necessariamente no reexame de provas, o que é vedado em âmbito de recurso especial, ante o óbice do enunciado n. 7 da Súmula deste Tribunal.
+3. Mostra-se razoável a fixação em R$ 10.000,00 (dez mil reais) para reparação do dano moral pelo ato ilícito reconhecido, consideradas as circunstâncias do caso e as condições econômicas das partes.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1.556.169/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 21/11/2019.)
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
