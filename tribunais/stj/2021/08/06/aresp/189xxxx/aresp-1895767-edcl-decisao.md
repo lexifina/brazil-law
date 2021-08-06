@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por TOCANTINS PARTICIPAÇÕES LTDA, à decisão de fls. 433/434, que não conheceu do recurso.
+Sustenta a parte embargante que:
+3. Com a devida vênia, entende a Embargante que a r.decisão não pode ser mantida, de vez que a Resolução CNJ no. 313, no seu art.
+5º., assim estabeleceu:
+"Art. 5º. - Ficam suspensos os prazos processuais a contar da data desta Resolução, até o dia 30 de abril de 2.020".
+4. Tratando-se de suspensão - e não interrupção, o prazo inicial foi computado considerando os dias úteis 06, 09, 10, 11, 12 e 13.03.2020 (06 dias úteis), e, os dias 04 a 08 e 11 a 13.05.2020 (8 dias úteis), não esgotando, portanto, o prazo previsto na legislação processual em vigor destinado a apresentação do recurso.
+5. Por outro lado, o § 5º. do art. 1.003 do CPC obriga a parte demonstrar a ocorrência de feriado local no momento da interposição do recurso, o que não é o caso dos autos, pois a suspensão dos prazos decorreu de determinação do CNJ, abrangendo todo o território inicial, além do feriado nacional de 01 de maio de 2.020 (fls. 436/437).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Veja-se que houve a disponibilização da decisão do acórdão recorrido em 4/3/2020, considerando-se publicada em 5/3/2020 (fl. 361). Excluindo-se o dia 5/3/2020 (primeiro dia), inicia-s ea contagem em 6/3/2020, até 18/3/2020. Exclui-se o período de 19/3/2020 a 30/4/2020 (Resolução n. 313 do CNJ), bem como o feriado nacional de 1º de maio, que não necessita ser comprovado. Após, a contagem é reiniciada no dia 4/5/2020, finalizando o prazo no dia 11/5/2020.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil, terminou no dia 11/5/2020, sendo que o recurso especial foi interposto somente em 13/5/2020, fora do prazo.
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ n. 313, de 19 de março de 2020, voltando a fluírem, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
