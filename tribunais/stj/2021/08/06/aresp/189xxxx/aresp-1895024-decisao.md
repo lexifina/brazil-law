@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de agravo apresentado por MSC MEDITERRANEAN SHIPPING CO S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+SOCIEDADE - Incidente de desconsideração da personalidade jurídica - Rejeição liminar do pedido de instauração de incidente para despersonalização da empresa-executada - Admissibilidade - A instauração de incidente de desconsideração da personalidade jurídica depende de indícios concretos de ocorrência de fraude - O encerramento irregular da sociedade, por si só, não constitui fundamentação suficiente à instauração do incidente - Sem indícios concretos não se justifica o chamamento de terceiros para discutissão incidental do tema - Precedentes do STJ e deste TJSP - Decisão mantida - Recurso desprovido.
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 133, 134 e 332 do CPC, relativo à necessidade de instauração de incidente de desconsideração de personalidade jurídica e à impossibilidade de improcedência in limine, trazendo os seguintes argumentos:
+No presente caso, ambas as instâncias ordinárias perfilharam caminho diverso, indeferindo in limine a instauração do incidente sobre o fundamento de que a recorrente não demonstrara os seus requisitos legais  mas no fundo, da forma como decidiram, deram-no por liminarmente improcedente, o que repugna à atual sistemática.
+ ..
+Assim, temos que, após o requerimento da parte ou do Ministério Público, a instauração do incidente é de rigor, devendo, inclusive, ser comunicada ao distribuidor. Deste modo, a apreciação do pedido e/ou do cabimento da desconsideração da personalidade jurídica não se deve dar liminarmente, mas em momento posterior à instauração do incidente.
+ ..
+Isso significa que a decisão que, liminarmente, indeferiu a desconsideração, indeferiu pedido; e se indeferiu pedido, julgou o mérito do incidente  e o fez, contudo, ao arrepio do disposto no art. 332 do Código: (fls. 165-168).
+Quanto à segunda controvérsia, pela alínea "c" do permissivo constitucional, sustenta divergência jurisprudencial atinente à interpretação dos supracitados dispositivos legais, indicando como paradigma aresto oriundo do TJ/DFT.
+É, no essencial, o relatório. Decido.
+No que concerne à primeira controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+2. O objetivo da regra do art. 50, "caput", do CC/2002, agora com a redação dada pela Lei 13.874/2019, é o de reprimir os abusos cometidos sob a proteção do princípio da autonomia patrimonial das pessoas jurídicas.
+Com a disciplina do tema também pelo novo diploma processual civil, o art. 134, § 4º, do CPC/2015 exige para a instauração do incidente a demonstração do preenchimento dos pressupostos legais específicos para a desconsideração da personalidade jurídica.
+Ou seja, é preciso haver elementos objetivos que justifiquem a citação dos terceiros, não se justificando o seu chamamento aos autos sem que se tenha um elevado grau de probabilidade do alegado abuso.
+ ..
+Assim, o fracasso das tentativas de constrição judicial de bens, a alteração do endereço da empresa ou o alegado encerramento irregular de suas atividades, sem a necessária individualização de dados concretos de má-fé dos membros que a integram, não são suficientes para a instauração do incidente de desconsideração da personalidade jurídica.
+É preciso haver, portanto, a indicação de elementos objetivos que justifiquem a citação dos terceiros e, na sua falta, é admissível a rejeição liminar do pedido de instauração daquele incidente.
+ ..
+Nesta linha, aliás, decidiu o STJ:
+ ..
+Do corpo do acórdão extrai-se o seguinte trecho:
+"(..) É possível afirmar, ademais, que além de a constatação da insolvência não ser suficiente à desconsideração - para o caso do art. 50 do CC -, com mais razão a inexistência de bens do devedor não pode ser condição para a instauração do procedimento que objetiva aquela decretação.
+Na verdade, pode a desconsideração da personalidade jurídica ser decretada ainda que não configurada a insolvência, desde que verificados o desvio de finalidade ou a confusão patrimonial, caracterizadores do abuso de personalidade.".
+ ..
+Ora, no caso em exame, a exequente-agravante justifica a instauração do incidente unicamente com o encerramento irregular das atividades da empresa agravada: "Foram, portanto, apresentadas provas do encerramento irregular e, por conseguinte, a fraude perpetrada pelos sócios, o que é suficiente para recebimento e instauração do incidente" (cf. fl. 15).
+A despersonalização da executada é medida de caráter excepcional e a instauração de incidente próprio depende de indícios concretos de abuso da personalidade jurídica, por meio da confusão patrimonial ou desvio de finalidade. Só assim se justificaria o chamamento de terceiros para a discussão incidental do tema.
+Cabe aqui destacar outro acórdão do Superior Tribunal de Justiça, assim ementado:
+"AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO. DISSOLUÇÃO IRREGULAR DA SOCIEDADE. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESCABIMENTO. ART. 50 DO CCB. 1. A desconsideração da personalidade jurídica de sociedade empresária com base no art. 50 do Código Civil exige, na esteira da jurisprudência desta Corte Superior, o reconhecimento de abuso da personalidade jurídica. 2. O encerramento irregular da atividade não é suficiente, por si só, para o redirecionamento da execução contra os sócios. 3. Limitação da Súmula 435/STJ ao âmbito da execução fiscal. 4. Precedentes específicos do STJ. 5. AGRAVO REGIMENTAL DESPROVIDO." (cf. AgRg. no REsp. 1386576/SC, Rel. Min. Paulo de Tarso Sanseverino, 3" T., DJe 25-5-2015, sem destaque no texto original).
+Destarte, não preenchidos os requisitos autorizadores da instauração do incidente, subsiste a decisão recorrida (fls. 153-158, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INCIDENTE FALIMENTAR. ANTECIPAÇÃO DE TUTELA. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. EXTENSÃO DOS EFEITOS DA FALÊNCIA. REEXAME DE PROVA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. Inviável a revisão do julgado no tocante à reavaliação dos requisitos autorizadores da desconsideração da personalidade jurídica, se tal procedimento demanda o reexame do conjunto fático-probatório dos autos. Incidência da Súmula n. 7 do STJ.
+Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no AREsp 984.475/MG, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 23/2/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à segunda controvérsia, verifica-se que a pretensão da parte agravante é de ver reconhecida a existência de dissídio jurisprudencial, que tem por objeto a mesma questão aventada sob os auspícios da alínea "a", que, por sua vez, foi obstaculizada pelo enunciado da Súmula n. 7/STJ.
+Quando isso acontece, impõe-se o reconhecimento da inexistência de similitude fática entre os arestos confrontados, requisito indispensável ao conhecimento do recurso especial pela alínea "c".
+Destarte: "A jurisprudência desta Corte firmou-se no sentido de que a incidência da Súmula 7/STJ também impede o conhecimento do recurso especial pela alínea c do permissivo constitucional, uma vez que falta identidade fática entre os paradigmas apresentados e o acórdão recorrido". (AgInt no AREsp 1.402.598/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 22/5/2019.)
+A propósito: AgInt no AREsp 1.521.181/MT, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 19/12/2019; AgInt no AgInt no REsp 1.731.585/SC, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 26/9/2018; e AgInt no AREsp 1.149.255/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 13/4/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
