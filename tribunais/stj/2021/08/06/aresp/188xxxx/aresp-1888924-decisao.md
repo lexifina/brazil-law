@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por RADIO FM ESTÂNCIA LIMITADA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA - Medida excepcional que se mostra prematura - O encerramento irregular, ainda que aliado à ausência de bens, não constitui, por si só, elemento bastante para a desconsideração da personalidade jurídica - Ausência de elementos que comprovem a utilização da pessoa jurídica como instrumento para a realização de atos fraudulentos - Decisão mantida - RECURSO NÃO PROVIDO.
+Quanto à controvérsia, alega violação do art. 50 do CC, no que concerne à desconsideração da personalidade jurídica, trazendo os seguintes argumentos:
+3.9. E no caso dos autos, a comprovada inexistência de bens foi acompanhada da demonstração do encerramento irregular das atividades e de outras circunstâncias que demonstram a existência de abuso da personalidade jurídica da empresa por parte dos sócios.
+3.10. Com efeito, conforme se depreende dos autos da ação originária (MONITÓRIA), a devedora JR&M PROPAGANDA E MARKETING LTDA., apesar de regularmente citada sequer respondeu à demanda.
+Notem-se que a ação foi precedida de uma notificação extrajudicial oportunizando o saneamento das contas por parte da devedora.
+3.11. Contudo, nem a notificação, nem tampouco a carta de citação foram respondidas, permanecendo os sócios da devedora inertes, tanto que decretada à revelia da PJ.
+3.12. Notem-se, ainda, que tanto a notificação extrajudicial quanto a carta de citação foram recebidas por pessoa do mesmo núcleo familiar de um dos sócios JOSÉ ROBERTO ALVES (vide fls. 24 e 29 da Monitória - docs. assinados por CLEONICE AP. NEVES ALVES).
+3.13. Não bastasse tudo isso, ainda se verifica que à época da constituição do título, a empresa já figurava com devedora em inúmeros processos judiciais (cf. fls. 8), o que revela a prática do abuso da personalidade jurídica por parte dos sócios que, a despeito de conhecerem o estado de insolvência da empresa, continuaram veiculando propaganda do seu negócio através da ora agravante.
+ ..
+3.21. O v. Acórdão de fls. 334/340 proferidos pela 11ª Câmara de Direito Privado do Tribunal de Justiça de São Paulo não faz a regular valoração das provas tendo em vista os documentos juntados aos autos é evidente a necessidade da análise para constatar para decretar a desconsideração da personalidade jurídica determinando-se a inclusão dos agravados no polo passivo da execução, permitindo a sua reforma por este Colendo Superior Tribunal de Justiça. (fls. 351-354).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+De acordo com os elementos constantes dos autos, forçoso concluir que inexistem, por ora, os requisitos autorizadores da aplicação da teoria da desconsideração da personalidade jurídica.
+Com efeito, não se ignora que as diligências realizadas pela exequente, para a busca de bens da executada, restaram infrutíferas.
+Ocorre que o fato de a exequente não ter localizado bens em nome da executada não é suficiente para a adoção da excepcional medida, sendo necessário que se demonstre a ocorrência de desvio de finalidade ou de confusão patrimonial, conforme estabelecido pelo artigo 50 do Código Civil (fls. 336-337).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL E CIVIL. AGRAVO DE INSTRUMENTO. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. IMPOSSIBILIDADE. AUSÊNCIA DOS REQUISITOS DO ART. 50 DO CC. MODIFICAÇÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. A desconsideração da personalidade jurídica, embora seja medida de caráter excepcional, é admitida quando ficar caracterizado desvio de finalidade ou confusão patrimonial, nos termos do art. 50 do Código Civil de 2002.
+2. Na hipótese, o Tribunal de origem concluiu que não foi caracterizado o desvio de finalidade ou confusão patrimonial, inviabilizando a desconsideração da personalidade jurídica pleiteada. A modificação de tal entendimento demandaria revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, conforme dispõe a Súmula 7/STJ.
+3. Inviável também conhecer da alegada divergência interpretativa, pois a incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+4. Agravo interno desprovido. (AgInt no REsp 1.873.770/SP, relator Ministro Raul Araújo, Quarta Turma, DJe 17/12/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
