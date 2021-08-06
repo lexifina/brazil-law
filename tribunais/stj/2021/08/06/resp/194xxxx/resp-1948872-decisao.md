@@ -1,0 +1,28 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL.VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. INTERPRETAÇÃO DE NORMAS INFRALEGAIS. IMPOSSIBILIDADE. PRECEDENTES DESTA CORTE. RECURSO ESPECIAL DESPROVIDO.
+1. Trata-se de Recurso Especial interposto por TISCHLER E CIA LTDA, com fundamento na alíneaado permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 4a. Região, assim ementado:
+ADMINISTRATIVO. APELAÇÃO. PROCEDIMENTO COMUM. CONTA DE DESENVOLVIMENTO ENERGÉTICO (CDE). FINALIDADES. LEI 10.438/2002. DECRETOS 7.945/2013, 8.203/2014, 8.221/2014 E 8.272/2014. AUSÊNCIA DE ILEGALIDADE NA REGULAMENTAÇÃO INFRALEGAL.
+1. Inexiste ilegalidade na regulamentação infralegal da Conta de Desenvolvimento Energético (CDE).
+2. A destinação dos recursos da CDE pelos Decretos 7.945/2013,8.203/2014, 8.221/2014 e 8.272/2014 encontra amparo nosobjetivos e finalidades estabelecidos na Lei n. 10.438/02.
+3. Apelação não provida.
+2. Opostos Embargos de Declaração, foram eles parcialmente acolhidos, tão só para fins de prequestionamento.
+3. Alega a parte recorrente violação dos arts. 1.022, II, do CPC/2015, 6º, § 1º, da Lei 8.987/1995, 13, caput,V e VIII, e § 1º, § 4º e § 12, da Lei 10.438/2002, na redação dada pela Lei 10.762/2003; pela Lei 12.783/2013, e pela Lei 12.839/2013, e ao art. 1º da Lei 12.783/2013, reputando omisso o acórdão recorrido, não obstante a oposição dos aclaratórios, bem como, quanto ao mérito, aduz ser ilegala majoração do valor do encargo tarifário da Conta de Desenvolvimento Energético - CDE, nos termos daResolução Homologatória ANEEL 1.857/2015.
+4. Contrarrazões às fls. 829/846.
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+8. Quanto ao mérito, verifica-se que a análise da adequação, ou não, da Resolução Homologatória ANEEL 1.857/2015 à legislação regente pressuporia, necessariamente, a interpretação e exame dos dispositivos contidos na referida resolução, de natureza infralegal, medida vedada na estreita via do Recurso Especial, destinado somente à interpretação de normas contidas em lei federal, nos termos do art. 105 da CF/1988. A propósito:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PODER DE POLÍCIA. POSSIBILIDADE DE DELEGAÇÃO.CONTROVÉRSIA QUE EXIGE ANÁLISE DA PORTARIA N. 213/2007 DO INMETRO.ATO NORMATIVO NÃO INSERIDO NO CONCEITO DE LEI FEDERAL.IMPOSSIBILIDADE. EXISTÊNCIA DE DELEGAÇÃO DA ATIVIDADE DE POLÍCIA.SÚMULA 7/STJ.
+1. A conclusão do acórdão de origem está fundamentada, essencialmente, no conteúdo disposto na Portaria n. 213/2007 do Inmetro. Dessa forma, o exame do especial requer a interpretação da referida portaria, o que é inviável na via eleita, tendo em vista que esse ato normativo não se enquadra no conceito de tratado ou lei federal de que cuida o art. 105, III, "a", da CF/1988.
+2. Para afastar o entendimento a que chegou a instância ordinária, de modo a albergar as peculiaridades do caso e verificar a pretensão recursal a fim de considerar a inexistência de delegação de atividade inerente ao poder de polícia, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos. A providência mostra-se inviável em recurso especial, conforme entendimento assentado na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1419566/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 21/09/2020, DJe 29/09/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ANÁLISE DE NORMA INFRALEGAL. IMPOSSIBILIDADE. MULTA COMPENSATÓRIA. REDUÇÃO DO VALOR. REEXAME FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS FIXADOS PROPORCIONALMENTE.
+(..).
+3. No que se refere à tomada de contas especial, a Corte local decidiu a controvérsia posta nos autos por meio do disposto na Instrução Normativa n. 5/2012 do Tribunal de Contas do Distrito Federal e dos Territórios, sendo certo que o exame da insurgência não prescinde da análise da referida norma infralegal, que foi aplicada pela instância de origem, o que não se afigura cabível no âmbito do apelo nobre, a teor do disposto no art. 105, III, a, da CF.
+(..).
+6. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1779052/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2021, DJe 20/05/2021)
+9. Ante o exposto, nega-se provimento ao Recurso Especial.
+10. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+11. Publique-se. Intimações necessárias.
