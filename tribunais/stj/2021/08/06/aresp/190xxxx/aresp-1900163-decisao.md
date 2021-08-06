@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAMILA PAOLA SAMPAIO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+APELAÇÃO CÍVEL Interposição contra sentença que indeferiu a inicial e julgou extinta, sem resolução do mérito, ação de busca e apreensão. Desnecessidade de juntada do contrato original de financiamento em ação de busca e apreensão. Determinação de prosseguimento do feito em seus ulteriores termos. Sentença anulada. Apelação provida (fl. 114).
+Alega violação do art. 485, IV, do CPC, no que concerne à necessidade de apresentação do contrato original firmado entre as partes, por ser "pressuposto para o regular processamento da demanda" (fl. 136), já que o contrato apresentado pela recorrida não contém a assinatura da recorrente. Traz os seguintes argumentos:
+O v. acórdão reconhece suposta assinatura como sendo a da recorrente. Todavia, impossível crer que a referida assinatura sequer existe, mais impossível ainda reconhecer como sendo a assinatura da ré.
+Ora, a recorrente não consegue apresentar prova negativa, ao passo que o recorrido teve oportunidade de apresentar o documento e não o fez, logo, o v. acórdão se mostra demasiadamente abusivo e contrário ao disposto na legislação processual no que se refere ao ônus da prova e produção de provas de forma idônea.
+Ocorre que o juízo de origem, ao contrário do E. TJ/SP, observou a impossibilidade de prosseguimento do feito sem a comprovação da realização do negócio jurídico, razão pela qual foi julgada extinta a demanda.
+Consideraram que o documento de fls. 29/32 encontra-se assinado, o que não pode ser aceito, haja vista que o único risco que é possível verificar pode ser qualquer coisa, inclusive assinatura falsificada, ou risco de caneta apenas, ou uma sujeira do scaner, etc., conforme abaixo:
+ ..
+Assim, sendo incontroverso que o recorrido não logrou êxito em cumprir com o ônus de apresentar o documento original ou qualquer outro documento que comprove o vínculo estabelecido entre as partes, de rigor que seja observada a autonomia do artigo 485, inciso IV do Código de Processo Civil, devendo, portanto, ser mantida a r. sentença de fls. 48/49 (fls. 137/138, grifos meus).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos, ao julgar o recurso de apelação:
+ ..  ao contrário do mencionado, da cópia do contrato de fls. 29/32 é possível ver a assinatura do emitente às fls. 29, apesar da pouca qualidade da cópia.
+Eventual multa por litigância de má-fé poderá ser aplicada, caso se confirme o contrário, inclusive à parte ré, se for o caso (fl. 116).
+Posteriormente, no julgamento dos embargos declaratórios opostos pela recorrente, entendeu:
+O acórdão foi claro ao destacar a desnecessidade da juntada do instrumento do contrato original e que do documento juntado é possível verificar a assinatura da emitente, apesar da pouca qualidade da imagem.
+Chama a atenção o apego ao formalismo da embargante, porém, em nenhum momento nega veementemente a existência do contrato de financiamento firmado e a aquisição do veículo através da instituição financeira.
+Dessa forma, repita-se o constou do acórdão quanto a possibilidade de aplicação de multa por litigância de má-fé, caso insista na negativa do contrato, em Primeiro grau, não obstante sequer negar a aquisição do veículo através do banco, e se confirme o contrário.
+O que se tem no momento é o preenchimento dos requisitos para a ação de busca e apreensão, como constou do acórdão, devendo o feito prosseguir em seus ulteriores termos (fls. 127/128).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
