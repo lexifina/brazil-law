@@ -1,0 +1,32 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1018360-25.2021.8.11.0000
+AGRAVANTE: BANCO DO BRASIL S/A
+AGRAVADO: ANADIR MANTERO RIBEIRO
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto pelo BANCO DO BRASIL S/A, contra decisão proferida pela MM. Juíza de Direito da 10a Vara Cível da Comarca de Cuiabá-MT, Dra. Sinii Savana Bosse Saboia Ribeiro, lançada nos autos da Ação de Obrigação de Fazer com c/c Declaração Inexistência de Debito Repetição Indébito c/c Pedido Indenização por Danos Morais com pedido liminar no 1018360-25.2021.8.11.0041, ajuizada por ANADIR MANTERO RIBEIRO, que deferiu em parte a medida pleiteada pela parte autora, ora agravada, para determinar a exclusão de seu nome dos órgãos de proteção ao crédito referente aos contratos n.o 869089822 e 869098910.
+Em suas razões recursais, o banco agravante aduz que “não restou demonstrada nenhuma irregularidade praticada por parte do Réu, pelo que não merece guarida o pedido de concessão de Antecipação de Tutela. Ademais, os fundamentos trazidos pela Parte Agravada não preencheram os requisitos necessários elencados nos artigos 300 e seguintes do CPC/2015, para a concessão da medida” (sic).
+Discorre que “não tendo havido qualquer alteração quanto ao conteúdo das obrigações previamente avençadas entre as partes, por evidente que persiste a possibilidade de inscrição nos cadastros de maus pagadores, tendo em vista a situação de inadimplência da parte agravada...” (sic).
+Destaca que “se as informações negativas não forem registradas, os bancos de dados não mais refletirão a verdadeira situação do cliente, tornando-se, dessa forma, inútil a sua própria existência, convertendo-se, assim, em letras mortas os dispositivos da Constituição Federal (art. 5o, LXXII, “a”) e do Código de Defesa do Consumidor (43 e ss.) que os preveem” (sic).
+Anota, ainda, que “o credor não cadastra o nome do devedor em tais organismos para satisfazer interesse exclusivamente próprio ou com o fito de impor-lhe punição. O faz para garantir e preservar a saúde do sistema creditício nacional, impedindo que seja contaminado por novas inadimplências decorrentes simplesmente da falta de informação sobre a verdadeira situação financeira do tomador do crédito.” (sic).
+Afirma que “não merece ser acolhida a tutela antecipada requerida pela Parte Agravada, no que se refere à retirada de seu nome nos órgãos de cadastros restritivo” (sic).
+Com estes argumentos, pugna pela concessão do efeito suspensivo recursal, e no mérito, pelo provimento do recurso para revogar a decisão agravada.
+Preparo recolhido (Id. 77667481).
+É o relatório.
+Decido.
+Por tempestivo e próprio, recebo o recurso na forma dos artigos 1.015, inc. I c/c 1.017 do Código de Processo Civil.
+Como visto, o agravante pretende suspender os efeitos da decisão que deferiu, em parte, a tutela de urgência e determinou a exclusão provisória do nome da requerente/agravada dos cadastros de restrição ao crédito.
+O parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Da análise dos autos, nesta fase de cognição incompleta, observo que não estão presentes os requisitos legais para a concessão da medida initio litis, isso porque, os documentos juntados aos autos não demonstram, de forma conclusiva, a probabilidade do direito invocado pelo recorrente e nem o perigo da demora, se deixar a análise do pleito para a ocasião do julgamento do mérito recursal.
+Verifica-se que a agravada interpôs perante o juízo de primeiro grau, ação declaratória de inexistência de débito, onde, em sede liminar buscou o fim de seu constrangimento com a negativação, em tese indevida, nos órgãos de proteção ao crédito.
+A parte agravada, nos autos de origem, afirma que teve seu nome incluído indevidamente nos cadastros dos órgãos de proteção ao crédito, ante a inadimplência de débitos existentes junto ao requerido, referente aos contratos 869089822 e 86909891, que já foram objeto da ação n.o 1005230-36.2019.8.11.0041 que tramitou, junto ao juízo da 6a vara cível de Cuiabá/MT, sendo que no referido processo as partes realizaram acordo.
+Observa-se que a agravada afirmou nos autos de origem que vem sofrendo enormes prejuízos de cunho patrimonial e moral, vez que tem seu crédito abalado no mercado, razão pela qual requereu o deferimento da tutela de urgência para determinar a exclusão de seu nome dos órgãos de proteção ao crédito.
+Como salientou a Douta Magistrado de primeiro grau, “a probabilidade do direito exigida pelo caput do artigo 300, do Novo Código de Processo Civil, entendida como aparência quanto à questão fática narrada e a sua adequação ao direito pretendido, com relação aos contratos n.o 869089822 e 869098910, vez que restou demonstrada no processo, principalmente por meio do documento de id. 56335341/56335353, que esses contratos foram objetos da Ação Declaratória n.o 1018360-25.2021, que tramitou na 6a Vara Cível, e pelo arquivo de id. 56331775, que demonstra a negativação do nome da autora nos bancos de dados do SPC/SERASA, com relação a eles.” (sic) (Id. 60561213– autos de origem).
+Assim, o perigo de dano é inverso, pois há grave risco de comprometimento da prática de atos da vida civil e aquisição de bens de consumo se persistir a inscrição do nome da agravada nos cadastros dos órgãos de proteção ao crédito.
+Imperioso ressaltar, também, que caso não seja verdadeira a pretensão deduzida pela autora/recorrida na origem, e ao final sejam julgados improcedentes os seus pedidos, não haverá grandes transtornos para o requerido/agravante, que poderá cobrar, então, o valor devido acrescido de seus consectários legais.
+De outro norte, o acatamento da pretensão do agravante, nesta fase, implicará em reconhecer de forma sumária a responsabilidade da agravada pelos débitos inscritos, o que importaria em precipitação temerária.
+Diante o exposto, NÃO CONCEDO o efeito suspensivo pleiteado, sem prejuízo do convencimento que formarei por ocasião do julgamento do mérito.
+Intime-se a agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá - MT, 06 de agosto de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
