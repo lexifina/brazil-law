@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo MUNICÍPIO DE TENENTE LAURENTINO CRUZ contra a decisão que não admitiu seu recurso especial, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim resumido:
+EMENTA: PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRETENSO RECEBIMENTO DE PROVENTOS E ANUÊNIOS. SENTENÇA PARCIALMENTE PROCEDENTE. APELAÇÃO CÍVEL.
+Alega violação dos arts. 37 e 167, inciso II, da Constituição Federal. Afirma que "o acórdão recorrido FERIU DE FORMA FLAGRANTE A CONSTITUIÇÃO FEDERAL 1988 (art. 37), pois o pagamento administrativo de atrasados, sem prévia dotação orçamentária, VIOLA O ARTIGO 167, INCISO II, DA CONSTITUIÇÃO DA REPÚBLICA, segundo o qual é vedada a realização de despesa que exceda os créditos orçamentários ou adicionais" (fl. 137).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, trata-se de matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; e EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor dos honorários sucumbenciais que serão fixados em liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
