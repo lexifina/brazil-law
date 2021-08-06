@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo apresentado por LEONOR MACHADO e OUTRO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. LIBERAÇÃO DE VALORES. ALTERAÇÃO DA VERACIDADE DOS FATOS. LITIGÂNCIA DE MÁ-FÉ. NEGADO PROVIMENTO.
+A conduta consubstanciada em alterar a realidade dos fatos, afirmando que o imóvel encontrava-se em situação fiscal regular e que a certidão apresentada serviria para tal finalidade, com o fim de forçar a liberação de valores, encontra-se perfeitamente inserida no art. 80, inciso II, do CPC/2015.
+Negado provimento ao agravo de instrumento (fl. 110).
+A parte recorrente, pela alínea "a" do permissivo constitucional, alegam violação dos arts. 5º, 9º, 10 e 80, II, do CPC, no que concerne à negativa de prestação jurisdicional, trazendo os seguintes argumentos:
+O diploma é claro, portanto, ao prever que as partes deverão ser ouvidas previamente antes de qualquer decisão, o que, data máxima vênia, não foi observado pelo acórdão proferido.
+ ..
+Importa destacar ainda, que além da decisão surpresa, sem observância dos preceitos legais, houve também a condenação no máximo permitido em lei (10%), o que pressupõe que a conduta tenha sido por demais grave, ou ainda trazido prejuízos de grande monta à outra parte, o que não houve.
+Ora, como podem os recorrentes serem condenados de má fé, por tentarem obter vantagem indevida, se possuíam e juntaram aos autos provas suficientes de suas alegações, provas essas que por algum motivo não foram observados pelo juízo, nem mesmo em sede de embargos de declaração, evento 117.
+ ..
+Logo, por restarem violados os arts. 5º, 9º e 10 do CPC, deve ser reformado o acórdão recorrido, ocorrendo a cassação da decisão atacada, para que seja afastada a litigância de má fé, tendo em vista que não houve dolo ou culpa pela recorrente, além de não ter sido assegurado os princípios constitucionais do contraditório e ampla defesa. (fls. 133/136).
+É, no essencial, o relatório. Decido.
+Primeiramente, com relação aos arts. 5º, 9º e 10 do CPC, na espécie, incidem os óbices das Súmulas n. 282 e 356 do STF, uma vez que as questões não foram examinadas pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ademais, o Tribunal de origem se manifestou nos seguintes termos:
+Quando da análise do pedido de efeito suspensivo, foi proferida a seguinte decisão:
+"Em que pese as alegações da parte agravante, tenho que deve ser prestigiada a decisão recorrida, tendo em vista que o juízo de origem está próximo das partes e dos fatos da causa, não existindo nos autos situação que justifique, nesse momento processual, alteração do que foi decidido.
+Com efeito, a conduta da parte agravante, consubstanciada em alterar a realidade dos fatos, afirmando que o imóvel encontrava-se em situação fiscal regular e que a certidão apresentada serviria para tal finalidade, com o  m de forçar a liberação de valores, encontra-se perfeitamente inserida no art, 80, inciso II, do CPC/2015:
+ ..
+Isto posto, indefiro o pedido de efeito suspensivo postulado."
+Inexistem razões para alterar o entendimento inicial, cuja fundamentação integra-se ao voto (fls. 113/114).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a revisão da conclusão do acórdão recorrido, no que se refere à caracterização de litigância de má-fé do recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em sede de recurso especial, ante o óbice do Enunciado n. 7/STJ" (AgInt no REsp 1.743.609/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/8/2020).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.644.759/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no AREsp 1.326.352/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/6/2020; e AgInt no AREsp 1.443.702/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
