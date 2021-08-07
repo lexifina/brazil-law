@@ -1,0 +1,19 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por MÁRIO GERALDO, com o fito de reformar a decisão que, nos autos da Carta Precatória de n. 1001739-12.2019.811.0044, extraída da Ação de Execução de Título Extrajudicial, ajuizada por ANTÔNIO VILLA, indeferiu o pedido de fracionamento do bem penhorado e manteve a hasta pública designada.
+Para tanto, o agravante alega que, além de não ter sido intimado da decisão que indeferiu o fracionamento do imóvel penhorado nos autos, teve o pedido de divisão do bem indeferido, mesmo demonstrando a possibilidade de destaque da área levada a leilão.
+Afirma que é desproporcional o valor do imóvel em relação ao da dívida e que a realização do fracionamento, inclusive, facilitará a localização de pessoas interessadas na arrematação do imóvel, além de satisfazer a dívida, sem prejudicar o direito de propriedade do agravante.
+Pugna pela concessão da liminar de efeito suspensivo e, no mérito, pelo provimento do recurso para que seja realizado o fracionamento do imóvel, na porção necessária à satisfação da dívida.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Na espécie, a relevância da argumentação veiculada pelo agravante, aliada à possibilidade de a decisão lhe causar lesão de difícil reparação, recomenda a concessão da liminar recursal pretendida.
+Isso porque, enquanto o bem penhorado foi avaliado em R$ 23.795.304,00 (vinte e três milhões, setecentos e noventa e cinco mil e trezentos e quatro reais), o valor da dívida atualizado alcança apenas a quantia de R$ 1.553.824,84 (um milhão, quinhentos e cinquenta e três mil, oitocentos e vinte e quatro reais e oitenta e quatro centavos).
+Nesse particular, a expropriação da área total do devedor aparenta ser desnecessária, uma vez que nada impede a venda de apenas parte do imóvel para satisfazer a dívida, o que, também, não causaria qualquer prejuízo ao credor.
+Diante desse quadro e, a fim de não causar prejuízos irremediáveis à parte executada, convém suspender o leilão determinado, ou os seus efeitos, caso já realizado, até que se resolva no mérito a questão discutida no agravo.
+Ante o exposto, CONCEDO A LIMINAR para suspender o leilão designado ou os seus efeitos caso já realizado, até a análise da questão acerca do fracionamento do bem pelo colegiado.
+Publique-se e intime-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
