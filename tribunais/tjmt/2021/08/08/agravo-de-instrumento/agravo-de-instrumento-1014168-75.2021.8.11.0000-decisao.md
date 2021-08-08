@@ -1,0 +1,17 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento, interposto por CARLOS ALBERTO CAPELETTI, com o fito de suspender a decisão que, nos Autos da Ação de Execução de Título Extrajudicial de no 1001804-98.2019.8.11.0046, ajuizada por GILMAR CARLOS BRUN, em face de WILSON ROBERTO PERRI BRUNETTA, deferiu o pedido de penhora e remoção de grãos de milho, localizados na Fazenda Porangatu II, situada na zona rural do município de Tapurah-MT, com matrícula no 5.125 do CRI local, até o limite do valor da execução de R$ 1.440.485,29 (um milhão, quatrocentos e quarenta mil, quatrocentos e oitenta e cinco reais e vinte e nove centavos), no montante correspondente à 20.726,4 sacas de milho de 60Kg.
+Para tanto, aduz o agravante, em síntese, que inexiste qualquer obrigação à título de pagamento em favor do executado, o Sr. Wilson Roberto Perri Brunetta, que por sua vez, tona ilegal qualquer incursão sobre seu patrimônio, para fins de satisfazer a dívida exequenda, máxime por se terceiro estranho à lide.
+Pugna pela concessão da liminar de efeito suspensivo.
+Sendo isto o que basta relatar, sigo aos fundamentos e ao final decido:
+Pois bem, ao revés do efeito ativo, a atribuição liminar de efeito suspensivo ao Recurso de Agravo de Instrumento depende da identificação de pressupostos próprios, nem sempre congruentes com aqueles que, por outro lado, serviram como fundamento da decisão agravada.
+Pelo disposto no parágrafo único do artigo 995 do CPC/15, a eficácia da decisão recorrida deve ser suspensa, apenas quando antevista a probabilidade de provimento do recurso, bem como a possibilidade da ocorrência de dano grave, de difícil ou impossível reparação.
+Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Nas palavras de Luiz Guilherme Marinoni:
+4. Suspensão da decisão recorrida: A suspensão da decisão recorrida por força de decisão judicial está subordinada à demonstração da probabilidade de provimento do recurso (probabilidade do direito alegado no recurso, o fumus boni iuris recursal) e do perigo na demora (periculum in mora). (Novo código de processo civil comentado. 2 ed. São Paulo: Revista dos Tribunais, 2016, p. 1055).
+Assim, da análise da questão posta, não decorre fundamento bastante para convencer da concessão da liminar recursal pretendida.
+É que, ao menos em sede de Juízo sumário de cognição, não há argumento suficiente que indique a probabilidade do direito em questão, mormente porque a discussão acerca da obrigação em questão, ao que tudo indica, encontra-se esgotada, tendo em conta decisão anteriores no curso da lide, quanto ao reconhecimento de que houve negócio entabulado entre o devedor e o terceiro interessado, ora agravante, Carlos Alberto Capeletti.
+Dessa feira, mostra-se escorreita a decisão que determinou a penhora de produtos agrícolas do agravante, para fins de satisfação da execução.
+Ante o exposto, NÃO ATRIBUIO efeito suspensivo ao recurso.
+Publique-se e intimem-se, advertindo-se os agravados do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
