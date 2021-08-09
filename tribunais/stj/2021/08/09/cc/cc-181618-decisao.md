@@ -1,0 +1,11 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, em que é suscitante VIAÇÃO NORDESTE LTDA e suscitados o JUÍZO DA 6ª VARA DO TRABALHO DE NATAL - RN e o JUÍZO DA 24ª VARA CÍVEL DE NATAL - RN.
+Ação em trâmite perante o juízo cível: recuperação judicial da suscitante.
+Ação em trâmite perante o juízo trabalhista: reclamatória, ajuizada pelo MINISTÉRIO PÚBLICO DO TRABALHO e OUTROS.
+Conflito de competência: afirma que o juízo trabalhista suscitado "está se perpetrando o bloqueio dos ativos da empresa, como se pode ver das telas dos bloqueios retiradas do processo e extrato comprovando as incessantes constrições bancárias" (e-STJ fl. 5). Alega que a prática de atos constritivos em suas contas bancárias "vai de encontro a determinação da suspensão das ações e execuções do Juízo da Recuperação - 24ª Vara Cível da Comarca de Natal/RN da competência universal para deliberar sobre o patrimônio e os ativos da recuperanda, que é da vara especializada" (e-STJ fl. 5). Aduz que o juízo trabalhista, mesmo cientificado acerca da recuperação judicial, manteve o prosseguimento do mandado de busca e apreensão de ônibus de sua propriedade. Pleiteia a concessão de medida liminar, a fim de que seja tornada sem efeito a ordem de busca e apreensão do ônibus placas NNM3099" (e-STJ fl. 14).
+RELATADO O PROCESSO, DECIDO.
+O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial, quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência. Nesse sentido: CC 79170/SP, Primeira Seção, DJe 19/09/2008; e CC 106.768/RJ, Segunda Seção, DJe 02/10/2009.
+Todavia, na espécie, verifica-se que o veículo em questão não integrava o acervo patrimonial da suscitante quando deferido o processamento de sua recuperação judicial, conforme consta à fl. 26 (e-STJ) dos autos.
+Por outro lado, não há qualquer demonstração acerca da alegação de bloqueio de ativos da recuperanda pelo juízo trabalhista, ônus que incumbia à suscitante.
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Comunique-se ao juízo trabalhista suscitado.Intime-se.
