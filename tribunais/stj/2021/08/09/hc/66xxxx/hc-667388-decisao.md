@@ -1,0 +1,33 @@
+DECISÃO
+DIEGO ALFONSO MARTINEZ GOMEZ alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2081643-14.2021.8.26.0000.
+A defesa busca substituição da prisão preventiva do paciente por medidas cautelares alternativas, sob o argumento de que a medida extrema é desnecessária. Afirma, ainda, haver excesso de prazo na formação da culpa.
+Todavia, o Juízo de primeira instância, ao converter a prisão em flagrante em preventiva,pela prática, em tese, de furto qualificado, ressaltou o seguinte (fl. 95, grifei):
+Em que pese o crime não tenha sido cometido com violência ou grave ameaça, o caso é de segregação cautelar, tendo em vista as circunstâncias do fato e as condições pessoais do agente Diego.
+A pena privativa de liberdade máxima supera os 04 anos de prisão, que autoriza a custódia cautelar.
+Não bastasse, o indiciado Diego é multireincidente (fls. 49/51) circunstância impeditiva, na eventualidade de condenação, da concessão de regime menos gravoso assentada a recalcitrância em condutas delituosas, cumpre prevenir a reprodução de novos delitos, motivação bastante para assentar a prisão ante tempus (STF, HC 95.118/SP, 94.999/SP, 94.828/SP e 93.913/SC), não como antecipação de pena, mas como expediente de socorro à ordem pública, fazendo cessar emergencialmente a prática criminosa.
+Logo, tendo em vista a recalcitrância no cometimento de ilícitos, evidente que a imposição de medidas cautelares diversas da prisão será insuficiente à garantia da ordem pública.
+O Tribunal local manteve a prisão preventiva, ao consignar (fl. 141, destaquei):
+In casu, não se pode desconsiderar a gravidade do delito e as circunstâncias em que se deram os fatos;entretanto, prevalece a necessidade de adequação subjetiva da medida a ser aplicada. Assim, à luz das condições pessoais do agente, tem-se que o paciente é reincidente, o que recomenda a adoção da medida extrema, pela insuficiência prática das demais cautelares previstas no artigo 319 do Código de Processo Penal.
+Ajurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal; indicou motivação suficiente e concreta para decretar a prisão preventiva, ao salientar que o acusado é reincidente.Deveras, ao analisar a folha de antecedentes do réu (fls. 59-71), observo que ele foi condenado anteriormentepor furto, além de responder a outros processos por crimes patrimoniais.
+O STJ, em casos similares, entende que a existência de inquéritos policiais, ações penais em curso e condenações pretéritas denotam a necessidade de se acautelar a ordem pública, ante o risco concreto de recidiva criminosa.
+Confira-se:"O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+Nesse mesmo sentido:
+HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. NEGATIVA DO APELO EM LIBERDADE. RÉU QUE PERMANECEU PRESO DURANTE TODA INSTRUÇÃO E FOI CONDENADO À PENA DE 6 ANOS E 8 MESES DE RECLUSÃO, EM REGIME SEMIABERTO. RÉU QUE POSSUI OUTROS REGISTROS CRIMINAIS. RISCO DE REITERAÇÃO. GARANTIA DA ORDEM PÚBLICA. CONDENAÇÃO AO REGIME INICIAL SEMIABERTO. GUIA DE EXECUÇÃO PROVISÓRIA EXPEDIDA. COMPATIBILIZAÇÃO.SÚMULA 716 DO STF. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. No presente caso, o paciente permaneceu preso durante toda a instrução e teve o direito de recorrer em liberdade negado para a garantia da ordem pública, em razão da periculosidade do agente, evidenciada pelo efetivo risco de voltar a cometer delitos, porquanto responde a outras duas ações penais por crimes contra o patrimônio. A prisão preventiva, portanto, mostra-se indispensável para garantir a ordem pública.
+4. Nos termos da orientação desta Corte, inquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteraçãodelitiva, justificando a decretação ou a manutenção da prisão preventiva (RHC n. 68550/RN, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 31/3/2016)
+5. Eventuais condições subjetivas favoráveis do paciente, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+ ..
+7. Habeas corpus não conhecido.
+(HC n. 498.960/RJ, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 3/6/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. INDEFERIMENTO DO DIREITO DE RECORRER EM LIBERDADE. RÉU RENITENTE NA PRÁTICA DELITIVA. COVID-19. RECOMENDAÇÃO N. 62/2020 DO CNJ. INAPLICÁVEL.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. No caso, a manutenção da prisão preventiva foi fundamentada no risco de reiteração delitiva, pois o réu possui extensa folha de antecedentes criminais, o que justifica de maneira idônea a segregação cautelar para resguardar a ordem pública.
+2. Não há comprovação precisa de que o paciente integre o grupo de risco ou que não esteja recebendo o devido tratamento no estabelecimento prisional.
+3. Agravo regimental não provido.
+(AgRg no HC n. 592.307/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/9/2020)
+Em razão das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.Nesse sentido: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018, grifei).
+No tocante ao aduzido excesso de prazo, não há como conhecer do pedido, uma vez que a matéria não foi analisada previamente pelo Tribunal de origem, a configurar supressão de instância.
+À vista do exposto, conheço parcialmente do habeas corpus e, nessa extensão,denego a ordem.
+Publique-se e intimem-se.
