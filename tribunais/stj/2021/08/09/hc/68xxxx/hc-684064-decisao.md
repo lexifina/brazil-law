@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em face de acórdão assim ementado (fl. 16):
+HABEAS CORPUS PRETENDIDA A REVOGAÇÃO DA PRISÃO PREVENTIVA IMPOSSIBILIDADE PRESENÇA DOS REQUISITOS DO ARTIGO 312 DO CPP Inexiste constrangimento ilegal em decisão que converte a prisão em flagrante em preventiva ou denega a liberdade provisória, diante da demonstração da materialidade do delito e da existência de indícios da autoria, fundamentada em fatos concretos indicadores da real necessidade da prisão cautelar do Paciente. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA PRETENDIDA A EXPEDIÇÃO DE ALVARÁ DE SOLTURA NÃO ACOLHIMENTO Prazos processuais aferidos com base nos princípios da proporcionalidade e da razoabilidade. Feito conduzido dentro dos padrões da normalidade. Ordem denegada.
+Consta que o paciente foi preso em flagrante, prisão convertida em preventiva, pela prática do crime previsto no artigo artigo 33, caput, da Lei nº 11.363/06.
+Sustenta a defesa que não há provas nem indícios do crime imputado ao paciente; que o entorpecente encontrado não lhe pertencia; e que ocorreu um flagrante armado ou preparado, com evidente abuso na conduta dos policiais.
+Alega, também, ter restado caracterizado constrangimento ilegal pelo excesso de prazo no término da instrução, com injustificável atraso superior a seis meses.
+Assevera, ainda, que a decisão que decretou a prisão preventiva do paciente carece de fundamentação idônea, por estarem ausentes os pressupostos previstos no artigo 312 do Código de Processo Penal.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva do paciente, com a imediata expedição de alvará de soltura. Subsidiariamente, requer seja deferida liminar para que seja reconhecido o excesso de prazo na formação da instrução; ou a concessão do direito de apelar em liberdade, se sobrevier sentença condenatória.
+Em consulta ao andamento processual no Tribunal de origem, verifica-se que a denúncia foi oferecida e, em 25/6/2021, foi apresentada resposta à acusação (processo n. 1501532-35.2021.8.26.0248 - Vara Criminal de Indaiatuba/SP).
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Inicialmente, salienta-se que no procedimento do habeas corpus não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva, bem como a atipicidade da conduta. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+Verifica-se, ainda, que a alegação de flagrante forjado/preparadonão foi objeto de análise do Tribunal de origem, nem sequer em sede liminar. Por esta razão, a matéria não poderá ser conhecida por esta Corte Superior, sob pena de indevida supressão de instância.
+No que se refere à prisão preventiva, verifica-se, compulsando o presente feito, que a peça inicial veio desacompanhada de documentação indispensável para o deslinde da controvérsia, no caso a cópia integral do decreto de prisão preventiva.
+Com efeito, é pacífico o entendimento desta Corte Superior que o procedimento do habeas corpus não permite a dilação probatória, pois exige prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração (AgRg no HC n. 289076/SP - 5ª T.- unânime -Rel. Min. Regina Helena Costa_ DJe 19/5/2014; AgRg no HC n. 291366/PE - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 29/5/2014; HC n. 269077/PE - 6ª T. - Rel. Min. Sebastião Reis Júnior - DJe 2/6/2014).
+Por outro lado, em relação à demora na instrução processual, tem-se que não obstante os prazos consignados na lei processual, deve atentar o julgador às peculiaridades de cada ação criminal.
+Com efeito, uníssona é a jurisprudência no sentido de que a ilegalidade da prisão por excesso de prazo só pode ser reconhecida quando a demora for injustificada, impondo-se adoção de critérios de razoabilidade no exame da ocorrência de indevida coação.
+Quanto ao tema, assim se manifestouo Tribunal de origem (fls. 26-28):
+Por fim, a alegação de excesso de prazo da prisão preventiva não pode ser acolhida, na medida em que, conforme entendimento de nossos tribunais, os prazos legais para a realização dos atos processuais não são absolutos, devendo ser aferidos de acordo com as particularidades do caso concreto, com base nos princípios da proporcionalidade e da razoabilidade. Confira-se:
+(..)
+Ademais, conforme entendimento pacífico em nossos tribunais, para aferir o prazo razoável para o encerramento da instrução processual não basta a simples soma aritmética dos prazos previstos isoladamente. Nesse sentido:
+(..)
+E, in casu, verifico que o feito foi conduzido dentro dos padrões de normalidade pelo I. Magistrado, tendo a duração da instrução processual se mostrado compatível com as circunstâncias do caso concreto, uma vez que, conforme as informações prestadas pela autoridade dita coatora, o Paciente foi preso em flagrante em 08.06.2021, sendo a prisão em flagrante convertida em preventiva no dia seguinte e, em 21.06.2021, ele foi denunciado como incurso no artigo 33, "caput", da Lei nº 11.343/06.
+Após, em 22.06.2021, foi determinada a notificação do Paciente e indeferido o pedido de liberdade provisória.
+Já em 25.06.2021, foi apresentada a defesa preliminar, aguardando-se a notificação do Paciente.
+Nesse contexto, em face da gravidade do delito e das particularidades do caso concreto, não há que se falar em excesso de prazo da prisão cautelar a justificar, por ora, a expedição do alvará de soltura.
+Dessa forma, presentes os requisitos do artigo 312 do Código de Processo Penal e tendo o processo sido conduzido pela autoridade dita coatora dentro dos padrões de normalidade, não há que se cogitar de constrangimento ilegal a ser sanado por meio do writ.
+Ante o exposto, denego a ordem.
+Consignou o Tribunal de origem queo Paciente foi preso em flagrante em 8/6/2021; a prisão em flagrante foi convertida em preventiva no dia seguinte; em 21/6/2021, foi oferecida denúncia; em 22/6/2021, foi determinada a notificação do Paciente e indeferido o pedido de liberdade provisória; e em 25/6/2021, foi apresentada a defesa preliminar, aguardando-se a notificação do Paciente.
+Logo, não se vê demonstrada ilegalidade no prazo da persecução criminal desenvolvida.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
