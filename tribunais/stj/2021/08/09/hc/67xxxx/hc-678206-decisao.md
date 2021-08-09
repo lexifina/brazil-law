@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em face do acórdão assim ementado:
+Habeas corpus. Homicídio qualificado tentado. Pretendida revogação da prisão preventiva. Inadmissibilidade. Presença dos motivos que a ensejam (art. 312 do CPP). Paciente que teria golpeado a vítima, sua ex-companheira, com quatro facadas, sendo submetida a cirurgia, diante da gravidade dos ferimentos. Constrangimento ilegal não verificado. Ordem denegada.
+Consta que opaciente está preso preventivamente, pela suposta prática dos delitos preceituados no art. 121, § 2º, incisos II, III, IV e V, c/c arts. 14, II, e 61, II, j, todos do Código Penal.
+Sustenta a falta dos requisitos para a decretação da prisão preventiva.
+Requer a concessão da ordem para que seja revogada a prisão provisória ou fixada cautelares diversas da prisão.
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+O rito do habeas corpus demanda prova documental pré-constituída do direito alegado pelo impetrante.
+Na hipótese, o impetrante não colacionou aos autos a íntegra do decreto preventivo. Dessa forma, a ausência de peças essenciais ao deslinde da controvérsia, impede o exame sobre as alegações. A propósito
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME AMBIENTAL. TRANCAMENTO DA AÇÃO PENAL. DEFICIÊNCIA NA INSTRUÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO DO PEDIDO FORMULADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. Cabe ao impetrante apresentar documentos suficientes para a apreciação dos pedidos formulados de modo a facultar a análise de eventual ilegalidade flagrante no ato atacado, providência não efetivada pelo impetrante, quer no momento da impetração, quer neste recurso.
+2. Neste caso, não há nos autos cópia da inicial acusatória nem a integralidade do acórdão denegatório do habeas corpus na origem, impossibilitando a apreciação dos pedidos formulados em face da deficiência da instrução.
+3. Agravo regimental improvido.
+(AgRg no HC 558.959/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/05/2020, DJe 27/05/2020)
+Ademais, ressalte-se que do trecho da decisão proferida pelo Juízo singular,extraído do acórdão impugnado, a existência de fundamentação concreta (fl. 14):
+Ao justificar a necessidade da constrição cautelar, o d. juízo pontuou que "Anoto, consoante alhures observado, que os fatos narrados demonstram que o agente do delito possui agressividade extrema, tendo em vista que esfaqueou pessoa indefesa, diante da filha pequena, sem se importar, o que revela, na realidade, a periculosidade do agente" (fls. 13/15).
+Com efeito, a jurisprudência desta Corte Superior é no sentido de que a constrição cautelar impõe-se pela gravidade concreta da prática criminosa, causadora de grande intranquilidade social, revelada no modus operandi do delito, e diante da acentuada periculosidade do acusado, evidenciada na conduta violenta. Confira-se: HC n. 299762/PR - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - Dje 2/10/2014; HC n. 169996/PE - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior DJe 1º/7/2014; RHC n. 46707/PE - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - Dje 18/6/2014; RHC n. 44997/AL - 6ª T. - unânime - Rel. Min. Marilza Maynard (Des. convocada do TJSE) - Dje 12/5/2014; RHC n. 45055/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - Dje 31/3/2014.
+Cabe destacar que, na esteira do entendimento adotado por esta Corte Superior, a existência de condições pessoais favoráveis, tais como primariedade, ocupação lícita e residência fixa, não têm o condão de, isoladamente, garantirem ao paciente a revogação da prisão preventiva se há nos autos elementos hábeis a recomendar a manutenção de sua custódia cautelar. A propósito: AgRg no RHC 124.020/RO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/04/2020, DJe 30/04/2020; e RHC 123.404/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/03/2020, DJe 16/03/2020.
+Havendo, portanto, a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, denego ohabeas corpus.
+Publique-se.
+Intimem-se.
