@@ -1,0 +1,69 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL.ADESÃO A PARCELAMENTO. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA.TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. CRÉDITO DECLARADO E NÃO PAGO. TERMO INICIAL. ENTREGA DA DECLARAÇÃO OU A DATA DO VENCIMENTO, O QUE FOR POSTERIOR.
+I - Trata-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por Rebel Indústria Eletromecânica Ltda. contra adecisão proferida pelo MM. Juízo a quo, que rejeitou a exceção de pré-executividade interposta. No Tribunal a quo, a decisão foi mantida.
+II - Eventuais erros materiais da decisão constantes no seu relatório ou em trechos que não fazem parte da fundamentação, em nada alteram o julgado, uma vez que não importam nenhum prejuízo à parte.
+III - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - No mérito, verifica-se que a só adesão ao parcelamento, ainda que indeferida, já propicia a interrupção do prazo prescricional, sendo inócuo tratar-se de adesão inicial ou consolidada. Nesse sentido:AgInt no REsp 1.892.405/PR, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 8/2/2021, DJe 11/02/2021 eAgInt nos EDcl no REsp 1.472.656/SP, relatorMinistro Sérgio Kukina, Primeira Turma, julgado em 7/12/2020, DJe 11/12/2020.
+V - Por outro lado, nos tributos sujeitos alançamento por homologação, o termo inicial do prazo prescricional é a data da entrega da declaração ou a data do vencimento, o que for posterior, conforme a remansosa jurisprudência doSuperior Tribunal de Justiça.
+VI - Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por Rebel Indústria Eletromecânica Ltda. contra a decisão proferida pelo MM. Juízo a quo, que rejeitou a exceção de pré-executividade interposta. No Tribunala quo, a decisão foi mantida, conforme a seguinte ementa do acórdão:
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ- EXECUTIVIDADE. PRESCRIÇÃO. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL.
+1. Trata-se de agravo de instrumento interposto em face da r. decisão proferida nos da execução fiscal nº. 0003850-58-2015.4.03.6130, que tem por fundamento a Certidão de Dívida Ativa (CDA) nºs. 80 4 09 030462-80 que totaliza a quantia de R$ 40.944,46 (quarenta mil, novecentos e quarenta e quatro reais e quarenta e seis centavos) em 20/04/2015.
+2. A constituição do crédito tributário, nos casos de tributos sujeitos a lançamento por homologação, ocorre com a data do vencimento ou com a entrega da declaração pertinente, o que for posterior, de acordo com o princípio da , tema já pacificado e mesmo objeto de actio nata Súmula do STJ.
+3. Desse modo, se não declarado o crédito, é considerada sua constituição definitiva quando da data do vencimento. Corretamente declarado e não pago ou pago a menor, considerada como de sua constituição definitiva a data da entrega da declaração.
+4. A interrupção da prescrição, seja pela citação do devedor, seja pelo despacho que a ordenar (conforme redação dada ao artigo 174, I, do CTN pela LC nº 118/2005), retroage à data do ajuizamento da ação, sendo esse, portanto, o termo de contagem do prazo prescricional, ad quem conforme decidiu a Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, submetido ao art. 543-C do CPC/73.
+6. Assim, conclui-se não ter ocorrido a prescrição, posto que não transcorreu prazo superior a cinco anos, já que a ação foi ajuizada em 05/05/2015, o despacho citatório foi proferido em 13/07/2015.
+7. Agravo de instrumento improvido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta violação dos arts. 489 e 1.022 do CPC/2015, alegando, em síntese, que o Tribunal a quo incorreu em omissão quando nãose manifestou sobre o fato de que a efetiva inclusão do débito no parcelamento especial ocorreu tão somente na etapa da consolidação (2011) e não em 2009 com a adesão genérica.
+Adiante, indicou como ofendidos os arts. 142, 150 e 174, parágrafo único, inciso I, do Código Tributário Nacional, e art.1º, §4º, §6º, §11, da Lei n.11.941/2009.
+Sustentou, em resumo, que a adesão inicial do parcelamento não interrompia a prescrição tributária nem suspendia a exigibilidade do crédito tributário.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+Após decisum que inadmitiu o recurso especial, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial."
+Interposto agravo interno, a parte agravante traz, resumidamente, os seguintes argumentos:
+ ..
+Neste sentido, importa esclarecer que a Fazenda Pública não deixou de ajuizar execuções fiscais contra os contribuintes que aderiram o Refis da Crise, ao contrário, após a referida data continuaram as cobranças extrajudiciais e judiciais dos débitos tributários, justamente porque não havia sido concluído o parcelamento com a efetiva fase de consolidação (efetiva indicação dos débitos a serem parcelados).
+Logo, é translúcido que NÃO há interrupção da prescrição tributária, e tampouco suspensa a exigibilidade do credito tributário com a adesão genérica ao Refis da Crise, devendo ser considerada a etapa da consolidação como o marco de interrupção, eis que somente esta fase concretizava o parcelamento (§11, do artigo 1o, da Lei no 11.941/2009).
+Ademais, independentemente do termo inicial da prescrição (data da entrega da declaração ou vencimento dos créditos tributário), o parcelamento do Refis da Crise foi realizado após o decurso do quinquênio.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. PRESCRIÇÃO. PARCELAMENTO. INTERRUPÇÃO DO PRAZO PRESCRICIONAL.ADESÃO A PARCELAMENTO. ALEGADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO VERIFICADA.TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. CRÉDITO DECLARADO E NÃO PAGO. TERMO INICIAL. ENTREGA DA DECLARAÇÃO OU A DATA DO VENCIMENTO, O QUE FOR POSTERIOR.
+I - Trata-se de agravo de instrumento, com pedido de efeito suspensivo, interposto por Rebel Indústria Eletromecânica Ltda. contra adecisão proferida pelo MM. Juízo a quo, que rejeitou a exceção de pré-executividade interposta. No Tribunal a quo, a decisão foi mantida.
+II - Eventuais erros materiais da decisão constantes no seu relatório ou em trechos que não fazem parte da fundamentação, em nada alteram o julgado, uma vez que não importam nenhum prejuízo à parte.
+III - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+IV - No mérito, verifica-se que a só adesão ao parcelamento, ainda que indeferida, já propicia a interrupção do prazo prescricional, sendo inócuo tratar-se de adesão inicial ou consolidada. Nesse sentido:AgInt no REsp 1.892.405/PR, relatoraMinistra Regina Helena Costa, Primeira Turma, julgado em 8/2/2021, DJe 11/02/2021 eAgInt nos EDcl no REsp 1.472.656/SP, relatorMinistro Sérgio Kukina, Primeira Turma, julgado em 7/12/2020, DJe 11/12/2020.
+V - Por outro lado, nos tributos sujeitos alançamento por homologação, o termo inicial do prazo prescricional é a data da entrega da declaração ou a data do vencimento, o que for posterior, conforme a remansosa jurisprudência doSuperior Tribunal de Justiça.
+VI - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Eventuais erros materiais da decisão constantes no seu relatório ou em trechos que não fazem parte da fundamentação, em nada alteram o julgado, uma vez que não importam nenhum prejuízo à parte.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+No mérito, verifica-se que a só adesão ao parcelamento, ainda que indeferida, já propicia a interrupção do prazo prescricional, sendo inócuo tratar-se de adesão inicial ou consolidada.
+Sobre o assunto, destacam-se:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. PROGRAMA DE PARCELAMENTO. ADESÃO. PRAZO PRESCRICIONAL. INTERRUPÇÃO.ALEGAÇÃO GENÉRICA DE OFENSA A DISPOSITIVO DE LEI FEDERAL. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL INTERPRETADO DIVERGENTEMENTE. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. INADEQUADA AO CASO CONCRETO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese. Inexistência de omissão, contradição, obscuridade ou erro material.
+III - É consolidado o entendimento nesta Corte segundo o qual a adesão a programa de parcelamento do crédito fiscal ou o seu requerimento, ainda que indeferido, são causas de interrupção da contagem do prazo prescricional, por tratar-se de inequívoca confissão extrajudicial do débito, nos termos do art. 174, parágrafo único, IV, do CTN.
+IV - Revela-se deficiente a fundamentação quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, bem quando o recurso não aponta o dispositivo de lei federal violado pelo acórdão recorrido.
+Incidência, por analogia, da Súmula n. 284/STF.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido.
+(AgInt no REsp 1892405/PR, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021.)
+TRIBUTÁRIO. PROCESSUAL CIVIL. FALTA DE PREQUESTIONAMENTO.SÚMULA 282/STF. ADESÃO A PARCELAMENTO. INTERRUPÇÃO DA PRESCRIÇÃO. OCORRÊNCIA.
+1. A matéria pertinente ao art. 155, § 2º, do CTN não foi apreciada pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. É remansoso o posicionamento do STJ de que o pedido de parcelamento do débito tributário interrompe a prescrição, nos termos do art. 174, IV, do CTN, por representar ato inequívoco de reconhecimento da dívida. Precedentes.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1472656/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020.)
+Por outro lado, nos tributos sujeitos à lançamento por homologação o termo inicial do prazo prescricional é a data da entrega da declaração ou a data do vencimento, o que for posterior, conforme a remansosa jurisprudência doSuperior Tribunal deJustiça, in verbis:
+TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. PRESCRIÇÃO.TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. CRÉDITO DECLARADO E NÃO PAGO. TERMO INICIAL. ENTREGA DA DECLARAÇÃO OU A DATA DO VENCIMENTO, O QUE FOR POSTERIOR. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A Primeira Seção do STJ, no julgamento do REsp 1.120.295/SP, Rel. Min. Luiz Fux, submetido ao rito dos recursos repetitivos, nos termos do art. 543-C do CPC e da Resolução 8/2008 do STJ, consolidou entendimento segundo o qual a entrega de Declaração de Débitos e Créditos Tributários Federais - DCTF, de Guia de Informação e Apuração do ICMS - GIA, ou de outra declaração dessa natureza prevista em lei (dever instrumental adstrito aos tributos sujeitos a lançamento por homologação) é modo de constituição do crédito tributário.
+2. O termo inicial do prazo prescricional para o fisco exercer a pretensão de cobrança judicial do crédito tributário declarado, mas não pago, é a data da entrega da declaração ou a data do vencimento, o que for posterior, em conformidade com o princípio da actio nata.
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
