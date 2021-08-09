@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por CLAUDIA DO CANTOcontra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Em primeiro grau, o recorrente foi condenado às penas de 2 anos, 9 meses e 18 dias de reclusão em regime semiaberto e de 14 dias multa, pela prática do delito descrito no art. 1, IV, da Lei n. 8.137/1990, por duas vezes, na forma do art. 71 do Código Penal.
+Alega encaixar-se nos requisitos do art. 5º, III, da RecomendaçãoCNJ n. 62/2020 para a concessão de prisão domiciliar, pois foi condenado à pena de 2 anos e 9 meses, é pessoa idosa, sofre de hipertensão arterial e tem câncer de próstata.Sustenta estarem tratamento oncológico e que este é o segundo tratamento contra o mesmo câncer no período de 3 anos.
+Declara não ter intensão de antecipar ou eximir-se do cumprimento dapenae nem de discutirbenefícios em sede de execução penal,
+Aduz que, ao contrário do consignado pelo Tribunala quo, é possível e cabível a impetração dehabeas corpusna modalidade preventivano presente caso, esclarecendo que já foi expedido mandado de prisão e que há recomendação do CNJ no sentido de concedero benefício da prisão domiciliar ao presos em regime semiaberto, tendo o recorrente preenchido todos os requisitos exigidos.
+Requer,por fim, que seja reconhecida a aplicabilidade da Recomendação do CNJ n. 62/2020 e suspensa a ordem de prisão exarada, bem como seja expedido salvo conduto a fim de impedir a expedição de mandado de prisão enquanto perdurar o risco à integridade físicae vida do recorrente. Pugna ainda que, caso inicie a execução penal no curso da situação de calamidade e/ou do tratamento oncológico, que seja concedido o regime domiciliar, com ou sem monitoramento.
+O pedido de liminar foi indeferido às fls. 218-219.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso ordinário (fls. 284-287).
+É o relatório. Decido.
+No que se refere à aplicação da Recomendação do CNJ n. 62/2020, aquestões não foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma,DJede 14/9/2018). Portanto, neste ponto, o recurso não merece conhecimento.
+No caso, o Tribunal de origem denegou a ordem, sob o argumento de não tratar-se de prisão ou iminência de prisão ilegal, pois o réu foi condenado. Ademais, apontaequívoco ao pleitear benefício nesta fase, pois apenas oJuiz da execução poderá concedê-loe que oprocesso de execução só será instaurado após o recolhimento.
+Nessa esteira, oportuno destacar que o caput do art. 5º da Recomendação do CNJ n. 62/2020 deixa claro que compete aos magistrados com competência sobre a execução penalconsiderarem a aplicação das medidas expressas no texto legal, logo,verifica-se tratar de benefícios concedidos no cumprimento da pena, conduto o processo de execução sequer foi instaurado.
+Ante o exposto, conheço em parte do recurso para negar-lhe provimento.
+Publique-se. Intimem-se.
