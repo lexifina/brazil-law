@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado do Rio de Janeiro cuja ementa é a seguinte:
+Direitos Reais. Embargos de terceiro. Penhora incidente sobre imóvel arrematado em processo judicial em curso na 39 2 Vara Cível. Sentença de procedência dos embargos, excluindo-se o imóvel da execução.
+Apelação. Descabimento. Tendo a penhora recaído sobre bem de posse da embargante e adquirido em data anterior à constituição da divida que ensejou feito onde ocorreu a constrição, descabe a constrição efetivada, independentemente da circunstância de que a escritura pública de compra e venda não tenha sido levada a registro. Precedente: 0044868- 65.2017.8.19.0001 - Apelação Des(A). Valéria Dacheux Nascimento - Julgamento: 26/06/2018 - Décima Nona Câmara Cível Enunciado n 2 84, da Súmula do STJ: "É admissivel a oposição de embargos de terceiro fundados em alegação de posse advinda do compromisso de compra e venda de imóvel, ainda que desprovido do registro." Desprovimento do recurso.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, interposto com base nas alíneas a e c do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022, I e II, do CPC, "já que o acórdão recorrido não considerou a circunstância de que a penhora do imóvel se deu em data anterior à sua arrematação pelos Terceiros Embargantes, ora Recorridos, e manteve a conclusão pela ilegitimidade da penhora, mesmo reconhecendo que a arrematação se deu em 12/8/2004 - que é data posterior, e não anterior à realização da penhora" (fl. 122).
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 141/143, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu que (fls. 110/111):
+No documento I, em anexo, constata-se que os embargantes arremataram em 12/08/2004 o apartamento no 1502, situado na Rua Jornalista Henrique Cordeiro no 160, com direito a uma vaga de garagem - Barra da Tijuca - RJ.
+Veja-se que, nos documentos II, III, IV, se constata o pagamento de 20% (vinte por cento) de sinal, 80% (oitenta por cento) restante e a devida comprovação nos autos que tramita na 39a Vara Cível, sob o 99.001.025118-Isso significa dizer que os embargantes prometeram adquirir o imóvel constrito e se colocaram na perspectiva de possuidores de boa-fé.
+Logo, tendo os apelados sofrido constrição do bem imóvel adquirido em data anterior à constituição da dívida objeto da ação onde ocorreu a penhora e tendo a mesma recaído sobre bem de posse dos embargantes, adquirido, repita-se, em data anterior à constituição da dívida, descabe a constrição efetivada, independentemente da circunstância de que a escritura pública de promessa de compra e venda tenha ou não sido levada a registro.
+Ou seja, constata-se, assim, que o enfoque jurídico dado pelo v.
+Acórdão foi suficientemente claro, não se vislumbrando qualquer omissão a ser sanada, tendo aquele julgado abordado todos os pontos relevantes para a solução do conflito.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+Ademais, não se pode confundir falta de motivação com fundamentação contrária aos interesses da parte, motivo pelo qual não resta caracterizada ofensa ao art. 489 do CPC/2015.
+No mesmo sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E FUNDAMENTAÇÃO DEFICIENTE. NÃO OCORRÊNCIA. HONORÁRIOS RECURSAIS. CABIMENTO EM CASO DE NÃO CONHECIMENTO INTEGRAL OU DE DESPROVIMENTO DO RECURSO PELO RELATOR OU PELO ÓRGÃO COLEGIADO COMPETENTE. DECISÃO AGRAVADA QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL. DESCABIMENTO DOS HONORÁRIOS RECURSAIS. 3. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. O entendimento desta Corte é no sentido de que, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. A jurisprudência deste Tribunal dispõe que a majoração da verba honorária, nos termos do art. 85, § 11, do CPC/2015, só se mostra cabível na hipótese de não conhecimento integral ou de desprovimento do recurso. Precedentes. Na hipótese, não prospera a pretensão da agravante, uma vez que o seu recurso especial foi parcialmente provido.
+4. Agravo interno desprovido.
+(AgInt no REsp 1761910/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/09/2019, DJe 18/09/2019)
+Diante do exposto, com fundamento no art. 932, IV, do CPC/2015, c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
