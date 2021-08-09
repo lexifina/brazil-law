@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por TUIUIU ADMINISTRADORES DE PLANO DE SAÚDE LTDA contraacórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiroassim ementado:
+INTERNAÇÃO HOSPITALAR SEM LIMITE TEMPORAL E REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO -DANO MORAL CONFIGURADO APENAS EM RELAÇÃO AO PLANO DE SAÚDE. PODER PÚBLICO QUE PRESTOU O DEVIDO ATENDIMENTO.
+Apelação. Ação de Obrigação de fazer c/c pedido compensatório. Pretensão de internação hospitalar sem limitação temporal e a realização do procedimento cirúrgico de que necessita para tratamento da fratura de fêmur esquerdo, e, caso não haja vaga no local, em qualquer outro hospital credenciado à sua rede bem como todos os procedimentos de urgência e de emergência, inclusive exames e medicamentos, que se façam necessários à sua sobrevivência. Subsidiariamente requer que os entes públicos réus transfiram imediatamente a autora, em transporte adequado ao seu quadro clínico, para internação hospitalar erealização do procedimento cirúrgico de que necessita ou custeiem até a efetiva transferência, a internação hospitalar e realização do procedimento cirúrgico de que necessita a autora.
+A sentença acolheu a tese de ilegitimidade e julgou extinto o processo com relação ao Hospital Memorial, julgou extinto o pleito de internação, realização de cirurgia e exames diante do falecimento da autora, condenou o Município e o Estado em compensação por danos morais no valor de R$ 2.500,00 e o réu Memorial Saúde em R$ 2.500,00 em compensação por danos morais.
+Apelam o Hospital Memorial, o Município, o Estadoe a Tuiuiupara que seja afastada a condenação em danos morais. Já a autora requer que seja majorado o valor da verba compensatória por danos morais para R$ 30.000,00.
+Ausência de interesse recursal do réu Hospital Memorial Fuad Chidid, eis que acolhida a tese de ilegitimidade passiva com a consequente extinção do feito em relação ao nosocômio.
+Ausência de responsabilidade dos entes públicos, neste caso, posto que houve determinação do tratamento na rede credenciada, não comprovando o plano de saúde que cumpriu a determinação judicial, mas, ao contrário, efetivou a transferência da autora para nosocômio público, local em que recebeu o tratamento adequado à sua necessidade.
+Ausência de resistência ao pedido por parte do Município e do Estado. Ordem que foi dirigida ao Hospital e ao Plano de Saúde.
+Acolhida e tratamento dispensado na rede pública. Afastada verba compensatória por danos moraisem relação ao Município e Estado.
+Danos morais configurados e majorados para o valor de R$ 10.000,00 em relação ao réu TUIUIU (MEMORIAL SAÚDE) por ter limitado o tempo de internação da autora a 12 horas apesar de seu grave estado de saúde, sendo necessária intervenção do Judiciário para garantir assistência à autora.
+RECURSO DO HOSPITAL MEMORIAL FUAD CHIDID LTDA NÃO CONHECIDO.
+RECURSOS DO MUNICÍPIO, ESTADO PROVIDOS.
+RECURSO DO RÉU TUIUIU (MEMORIAL SAÚDE) DESPROVIDO.
+RECURSO ADESIVO PARCIALMENTE PROVIDO.
+Nas razões do recurso especial, o recorrente indica a violação do art. 35-C da Lei 9.656/98, ao argumento de que a limitação temporal de internação hospitalar é possível em sede de plano exclusivamente ambulatorial, bem como a violação dos arts. 186 e 927 do Código Civil, ante a inexistência de negativa de internação de emergência/urgência e a busca por internação ilimitada em sede de plano exclusivamente ambulatorial.
+A competência das Seções e das Turmas que compõem o STJ é estabelecida conforme a natureza da relação jurídica litigiosa.
+No caso, tem-se ação de indenização em face de plano de saúde, a atrair a competência da Segunda Seção desta Corte.
+A esse respeito, cito os seguintes precedentes:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. DANO MORAL. NÃO OCORRÊNCIA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+2. No caso concreto, o Tribunal de origem analisou a prova dos autos para concluir que não houve ofensa aos direitos da personalidade da autora a ensejar indenização por dano moral.
+Alterar tal conclusão demandaria nova análise de prova, inviável em recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1898835/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/06/2021, DJe 01/07/2021)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PLANO DE SAÚDE. VIOLAÇÃO DO ART. 1.022 DO NCPC. NÃO OCORRÊNCIA. HOME CARE.TRATAMENTO DOMICILIAR PRESCRITO PELO MÉDICO ASSISTENTE. DEVER DE COBERTURA. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ.SÚMULA Nº 568 DO STJ. ROL DA ANS. INOVAÇÃO RECURSAL.IMPOSSIBILIDADE. RECUSA INDEVIDA. DANO MORAL CONFIGURADO. SÚMULA Nº 83 DO STJ. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. DESCABIMENTO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não há falar em omissão, falta de fundamentação ou negativa de prestação jurisdicional, na medida em que o Tribunal estadual dirimiu, fundamentadamente, a questão que lhe foi submetida, apreciando a controvérsia posta nos autos.
+3. Esta Corte possui o entendimento de que o serviço de home care (tratamento domiciliar) constitui desdobramento do tratamento hospitalar contratualmente previsto, que não pode ser limitado pela operadora do plano de saúde e ainda que, na dúvida, a interpretação das cláusulas dos contratos de adesão deve ser feita da forma mais favorável ao consumidor (REsp nº 1.378.707/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 15/6/2015).
+4. A questão relacionada à ausência de previsão do referido serviço no rol da ANS não foi deduzida no recurso especial, o que inviabiliza sua veiculação diretamente em agravo interno, por configurar inovação recursal.
+5. É assente a jurisprudência desta Casa no sentido de que, em regra, sendo indevida a negativa de cobertura pela operadora do plano de saúde do tratamento médico pleiteado, caracterizado fica o ilícito civil ensejador da reparação por danos morais. Precedentes.
+6. A jurisprudência do STJ orienta que a interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015.
+7. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1813690/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021)
+Assim sendo, nos termos do artigo 9º, § 2º, III, do Regimento Interno do STJ, REDISTRIBUAM-SE os AUTOS a uma das Turmas que compõem a 2ª Seção desse Sodalício.
