@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAQUIM LEMES CUNHA em face da decisão que rejeitou embargos de declaração (fls. 1592/1595) opostos contra decisão que não conheceu do agravo em recurso especial (fls. 1574/1576) em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fl. 1603):
+A impugnação ao argumento de que o recurso demandaria a reanálise de provas também foi totalmente comprovada, a Fls. 2287. Veja-se:
+"Tais questões não demandam, de nenhum modo, a análise limitada a Leis locais, ou ainda a reanálise de provas nos termos da mencionada Súmula do E. Superior Tribunal de Justiça, pelos motivos já lá expostos.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+O ora embargante, mais uma vez, repisa todos os argumentos antes utilizados, insistindo na mesma tese e se utilizando, basicamente, das mesmas palavras, frases e conclusões apresentadas nos aclaratórios anteriores.
+Ressalte-se, ainda, que o Superior Tribunal de Justiça pacificou o entendimento, nos termos do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, de que não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente um dos fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 7/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020, e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Outrossim, importante registrar que o momento adequado para impugnação dos fundamentos da decisão que inadmite o recurso especial é a interposição do agravo em recurso especial, sob pena de preclusão caso feita posteriormente.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e, outra conclusão não se faz possível senão a de que a reiteração de embargos de declaração opostos com o intuito de modificar o julgado revela caráter manifestamente protelatório, razão pela qual aplico a multa de 2% sobre o valor da causa, nos termos do artigo 1.026, § 2º, do Código de Processo Civil.
+Publique-se. Intimem-se.
