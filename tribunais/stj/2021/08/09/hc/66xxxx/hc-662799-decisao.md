@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor deEDVANDRO DE JESUS contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito SantonoHabeas Corpusn.0023019-41 2020.8.06 .0000.
+Consta nos autos que a prisão preventiva do Paciente foi decretada em 23/10/2020 no curso de investigação pela prática do delito previsto no art.art. 121, § 2.º, inciso VII, c.c. oart. 14, inciso II, ambos do Código Penal (fls. 176-179).
+Irresignada, a Defesa impetrouhabeas corpusno Tribunal de origem, cuja ordem foi denegada (fls. 208-209).
+Nestewrit, a Defesa sustenta, em síntese,que a prisão preventiva carece de fundamentação, pois amparou-se apenasna gravidade abstrata da conduta.
+Argumenta, ainda, que é possível a aplicação de medidas cautelares diversas da prisão, não havendo sido demonstradoque elas seriam insuficientesno caso.
+Pleiteia, liminarmente e no mérito, a revogação da prisão preventiva, com a aplicação de medidas cautelares diversas da prisão, se necessárias.
+Liminar indeferida às fls. 213-214.
+Informações prestadas às fls. 217-279.
+O Ministério Público Federal opinou pelonão conhecimento do writ (fls. 281-286).
+É o relatório.Decido.
+No caso, constata-se que as instâncias ordinárias fundamentarama necessidade da prisão preventiva na gravidade concreta da conduta do Paciente, evidenciado pelo modus operandi delitivo.Confira-se, a esse respeito, o seguinte excerto do decreto prisional:
+"De outra sorte, a segregaçãocautelar se mostra necessárianopresente Caso para garantia da ordem pública, sobretudo, pela periculosidadedo agente, caracterizada pelo modus operandi, ante a gravidade Concreta do delito,porquanto, extrai-se do caderno processual, que no dia 20 de setembro de 2020, noPatrimôniodo Bis, Zona Rural de Nova Venécia/ES, o investigado Edvandro  emconfronto coma policia  efetuou disparos de arma de fogo em desfavor dosagentes da Lei, nãoos atingindo por circunstânciasalheias àsua vontade, lograndoêxito, na sequência, em fugir do local do crime.
+Além disso, apósos fatos supracitados, Edvandro, com arma empunho, proferiu ameaças em face dos moradores do PatrimôniodoBis,demonstrando o risco real que sua liberdade representa para a ordem públicaepara a eficáciado processo.
+Diante do comportamento externado pelo investigado Edvandro,indicando completo desapego as normas de boa conduta social e, ainda, causandotemor aos moradores da Zona Rural deste Município, tenho comigo, nãoháoutraalternativa senãooafastamento cautelar deste individuo do convívioem sociedade,sobretudo para garantir a ordem pública, corroborando o periculum libertatisexigido para a decretaçãoda prisãopreventiva." (Fl. 178, sem grifos no original).
+Com efeito, os elementos domodus operandi criminososão fundamentos idôneos para o decreto prisional, pois, conforme destacado pelo Juízo de origem, trata-se de tentativa de homicídio qualificado, praticado mediante disparos comarmade fogo e em situação de confronto com agentes policiais, o que demonstra a periculosidade concretado Paciente e justifica a segregação cautelar.A esse respeito, confira-se:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. DOIS HOMICÍDIOS QUALIFICADOS TENTADOS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES.RECONHECIMENTO FOTOGRÁFICO DE PESSOA EM SEDE POLICIAL. LEGITIMIDADE.ALEGAÇÃO DE INOCÊNCIA. INCOMPATIBILIDADE. PRISÃO PREVENTIVA.GRAVIDADE CONCRETA. PERICULOSIDADE SOCIAL. MODUS OPERANDI. RÉ COM DIVERSOS REGISTROS CRIMINAIS ANTERIORES. RISCO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA.RECURSO IMPROVIDO.
+ ..
+4. Caso em que a prisão preventiva foi mantida pelo Tribunal para garantia da ordem pública em razão da periculosidade social da recorrente, evidenciada pelas circunstâncias concretas extraídas do crime - a ré, integrante de associação criminosa voltada para a prática do tráfico de entorpecentes, desferiu, juntamente com outros 2 corréus, diversos disparos de arma de fogo contra as vítimas, policiais militares que se encontram em patrulhamento de rotina.
+ ..
+8. Recurso improvido."(RHC 128.642/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/09/2020, DJe 28/09/2020, sem grifos no original).
+Ademais, há indícios de que o Paciente pudesse interferir na instrução processual, pois, segundo afirmado pelo Magistrado singular, este "com arma em punho, proferiu ameaças em face dos moradores do Patrimônio do Bis" e agiu"causando temor aos moradores da Zona Rural deste Município"(fl. 178), o que igualmente justifica a imposição da segregação preventiva para garantir a ordem pública e a assegurar a instrução processual.
+Nesse sentido:
+"PENAL. PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO.ALEGAÇÃO DE LEGÍTIMA DEFESA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL LOCAL. SUPRESSÃO DE INSTÂNCIA. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA, CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E DA APLICAÇÃO DA LEI PENAL. RISCO DE REITERAÇÃO DELITIVA. PACIENTE COM CONDENAÇÃO ANTERIOR TRANSITADA EM JULGADO. AMEAÇA A TESTEMUNHAS. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+6. Vale anotar que o Superior Tribunal de Justiça possui entendimento consolidado de que havendo menção a situações concretas que demonstrem ser a prisão preventiva necessária por conveniência da instrução criminal, qual seja, ameaças dirigidas às testemunhas, encontra-se devidamente justificada a custódia cautelar.
+7. Concluindo as instâncias de origem pela imprescindibilidade da custódia preventiva, resta clara a insuficiência e a inadequação da imposição de medidas cautelares mais brandas ao agente (HC 261.128/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, QUINTA TURMA, julgado em 23/4/2013, DJe 29/4/2013).
+8. Habeas corpus não conhecido."(HC 592.291/PR, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021, sem grifos no original).
+Por fim, no contexto dos autos, aplica-se o entendimento de que "mostra-se indevida a aplicação de medidas cautelares diversas da prisão, quando evidenciada a sua insuficiência para acautelar a ordem pública"(AgRg no HC 663.450/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/05/2021, DJe 01/06/2021).
+Ante o exposto, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PRISÃO PREVENTIVA. HOMICÍDIO QUALIFICADO TENTADO. GRAVIDADE CONCRETA DA CONDUTA. RISCO À INSTRUÇÃO PROCESSUAL. AMEAÇAS PROFERIDAS PELO PACIENTE. AUSÊNCIA DE ILEGALIDADE. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INAPLICABILIDADE. ORDEM DENEGADA.
