@@ -1,0 +1,129 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCEDÊNCIA DO PEDIDO FUNDAMENTADA EM CAUSA DE PEDIR NÃO APRESENTADA NA PETIÇÃO INICIAL. JULGAMENTO EXTRA PETITA. DECISÃO MANTIDA.
+1. "Há julgamento extra petita quando o juiz concede prestação jurisdicional diferente da que foi postulada ou quando defere a prestação requerida, porém, com base em fundamento não invocado como causa de pedir" (EDcl no AgRg no Ag 1225839/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 06/06/2013, DJe 12/06/2013).
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): Trata-se de agravo interno (e-STJ fls. 448/456) interposto contra decisão desta relatoria que conheceu do agravo para dar provimento ao recurso especial da agravada, a fim de, reconhecendo o julgamento extra petita, afastar a devolução dos valores determinada na sentença.
+Em suas razões, os agravantes alegam que, "como visto nos fundamentos do R. Acórdão do Tribunal de Justiça do Estado de São Paulo, comprovado que o reembolso da taxa de franquia é exigível, que o agravante não comprovou que os cheques emitidos para pagamento, relacionados em fl. 17, não foram compensados" (e-STJ fl. 454).
+Afirmam que, de acordo com a jurisprudência do STJ, o julgamento não foi extra petita.
+Ao final, pedem a reconsideração da decisão monocrática ou a apreciação do agravo pelo Colegiado.
+A agravada apresentou contrarrazões, requerendo o não conhecimento do recurso ou seu desprovimento, com aplicação de multa (e-STJ fls. 462/478).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCEDÊNCIA DO PEDIDO FUNDAMENTADA EM CAUSA DE PEDIR NÃO APRESENTADA NA PETIÇÃO INICIAL. JULGAMENTO EXTRA PETITA. DECISÃO MANTIDA.
+1. "Há julgamento extra petita quando o juiz concede prestação jurisdicional diferente da que foi postulada ou quando defere a prestação requerida, porém, com base em fundamento não invocado como causa de pedir" (EDcl no AgRg no Ag 1225839/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 06/06/2013, DJe 12/06/2013).
+2. Agravo interno a que se nega provimento.
+AgInt no AGRAVO EM RECURSO ESPECIAL Nº 1.285.769 - SP (2018/0099447-6)
+RELATOR
+:
+MINISTRO ANTONIO CARLOS FERREIRA
+AGRAVANTE
+:
+LUCIANA AGUIAR SOARES CACEREZ
+AGRAVANTE
+:
+KLEBER NANTES CACEREZ
+ADVOGADO
+:
+GUSTAVO ANTONIO CASARIM - SP246083
+AGRAVADO
+:
+PEARSON EDUCATION DO BRASIL S.A
+ADVOGADOS
+:
+SUSETE GOMES - SP163760
+RODOLFO MURARO FEITOZA - SP299732
+VANESSA MARTINS FERREIRA - SP274750
+MIRELLE LATTARO VEGETTE - SP272172
+VOTO
+O EXMO. SR. MINISTRO ANTONIO CARLOS FERREIRA (Relator): A insurgência não merece ser acolhida.
+Os agravantes não trouxeram nenhum argumento capaz de afastar os termos da decisão agravada, motivo pelo qual deve ser mantida por seus próprios fundamentos (e-STJ fls. 431/437):
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração de ofensa aos dispositivos legais apontados e falta de comprovação do dissídio jurisprudencial (e-STJ fls. 397/398).
+O acórdão recorrido está assim ementado (e-STJ fl. 304):
+SENTENÇA - Julgamento extra petita - Rescisão contratual -Pedido de devolução de taxa de franquia - Decurso de um ano antes da ruptura da parceria entre a franqueadora e o Instituto Embelleze - Aplicação da Cláusula 8ª do pré-contrato de franquia - Legitimidade - Inexistência de ressalva quanto à culpa de uma e outra parte pelo descumprimento das obrigações pré-contratuais para implantação da franquia - Hipótese em que embora autores narrem a ruptura da parceria, se ressentiram quanto à falta de suporte técnico e financeiro, o que teria causado a não implantação da unidade franqueada - Fundamentos jurídicos mais amplos do que os fatos narrados, abarcando o descumprimento das obrigações pré-contratuais da franqueadora - Julgamento extra petita inocorrente - Exigibilidade do reembolso da taxa de franquia - Apelação improvida.
+Dispositivo: negam provimento.
+Nas razões do recurso especial (e-STJ fls. 313/333), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 141 e 492 do CPC/2015 (128 e 460 do CPC/1973), porque o Tribunal de origem teria proferido julgamento extra petita, ao manter sentença que teria apreciado causa de pedir distinta da apresentada na petição inicial. Argumentou que (e-STJ fl. 325):
+ ..  os fundamentos jurídicos de fato utilizados pelos Recorridos para requerer a devolução da taxa de franquia estavam diretamente ligados à revogação dos cursos da marca EMBELLEZE.
+Contudo, embora afastada a causa de pedir com relação à revogação dos cursos da marca EMBELEZZE, o M. Juízo a quo, em flagrante julgamento extra petita, apreciou causa de pedir distinta daquela manifestada pelos Recorridos (repise-se, a revogação da parceria com a marca EMBELLEZE) e condenou a Recorrente na devolução dos valores pagos a título de "Taxa de aquisição de franquia", com o devido abatimento de 10% (dez por cento) do valor, com fundamento em causa de pedir distinta do apresentado pelos Recorridos (qual seja, a previsão na disposta na cláusula 8ª, parágrafo segundo do Pré-Contrato de Franquia - que não guarda qualquer relação com eventual revogação da parceria com a marca EMBELLEZE).
+Alegou que o acórdão recorrido, em flagrante violação aos artigos citados, manteve a sentença "afirmando que os fundamentos jurídicos são mais amplos do que os Recorridos haviam narrado na exordial" (e-STJ fl. 327), ampliando de forma indevida a causa de pedir.
+Sustentou que o julgador deve decidir a lide dentro dos limites apresentados pelas partes (fatos, causa de pedir e pedidos), sendo defeso conhecer de questões não suscitadas.
+Apresentou julgado do STJ, a fim de demonstrar a existência de dissídio jurisprudencial.
+No agravo (e-STJ fls. 401/413), declara a presença de todos os requisitos de admissibilidade do especial.
+Os recorridos apresentaram contraminuta (e-STJ fls. 418/422).
+É o relatório.
+Decido.
+Os agravados ajuizaram ação de rescisão contratual cumulada com pedido indenizatório, alegando que o "requerido, ou franqueador, não cumpriu com as obrigações contratuais, sendo revogação para comercialização dos cursos sob a marca EMBELLEZE, evidenciando assim, rompimento do contrato ora pactuado" (e-STJ fl. 2). Ao final da petição inicial, concluíram e requereram o seguinte (e-STJ fl. 5):
+Diante dos fatos e fundamentos relatados, os franqueados entendem impossível a continuação do contrato existente, vendo caracterizadas faltas graves do franqueador, o que faz com que, nos termos do contrato, que seja devolvido os valores pagos de R$ 34.900,00 (trinta e quatro mil e novecentos reais), devidamente corrigida, e a indenização por perdas e danos a ser estipulada por V. Exa.
+Nos termos do art. 402 do Código Civil Brasileiro, é devido também o que os franqueados deixaram de receber, devendo servir de base para este cálculo as informações previstas no site empreendedor online, no valor de no mínimo R$ 45 mil mensais, proporcional ao nº de meses que durou o contrato.
+Na sentença, que foi mantida pelo Tribunal de origem, o Juízo de primeiro grau reconheceu que "o fato de a parceria entre as franqueadoras ter acabado, não é causa de inadimplemento contratual por parte da ré" (e-STJ fl. 166). Entretanto, prosseguiu dizendo (e-STJ fl. 167):
+No que tange à devolução dos valores pagos pela franquia, a cláusula 8ª do contrato, sem seu § 2º prevê que ao final do prazo de vigência do pré- contrato, caso o promissário franqueado não tivesse cumprido todas as obrigações estabelecidas no instrumento, não seria considerado apto a integrar o sistema de franquias Microlins, o que acarretaria na não assinatura do contrato de franquia e na devolução dos valores pagos pelo promissário franqueado a título de taxa de aquisição de franquia, descontado o percentual de 10% para cobertura de custos operacionais da franqueadora.
+Nesse diapasão, fica clara a previsão contratual da devolução do valor pago pela aquisição da franquia em caso de não cumprimento de todos os requisitos, em tempo hábil, para a assinatura do contrato de franquia e consequente abertura da franquia. Notável que a referida cláusula não tem hipótese excludente de ressarcimento de quantia, prevendo apenas que o mero descumprimento das obrigações por parte do promitente franqueado acarretaria na devolução dos valores com certo abatimento.
+Sob esse prisma, restou comprovado que a partir do pré-contrato, os autores não cumpriram com todas as formalidades dentro do prazo, motivo pelo qual a própria enviou-lhes notificação informando acerca do encerramento do aludido contrato. Assim, ante a cláusula que prevê a devolução dos valores, de rigor a condenação da ré na devolução dos pagos pelos autores a título de "Taxa de aquisição de franquia", com o devido abatimento de 10% que foi destinado para cobertura de custos operacionais da franqueadora.
+Verifica-se, portanto, que os autores requereram, na inicial, a rescisão do contrato, sob o argumento de que a franqueadora não teria cumprido suas obrigações contratuais, razão pela qual teriam direito à devolução dos valores desembolsados, bem como à indenização prevista em contrato, além de perdas e danos.
+O Magistrado sentenciante, por sua vez, expressamente afastou o inadimplemento do contrato por parte da ré, afirmando, ainda, que "a não concretização do negócio deu-se por culpa exclusiva dos autores" (e-STJ fl. 168).
+Portanto, afastou a causa de pedir apresentada - consistente, repita-se, no descumprimento das obrigações contratuais por parte da ré -, o que implicaria improcedência do pedido de devolução dos valores supostamente pagos.
+Nada obstante, prosseguiu analisando o pré-contrato firmado entre as partes e, com base na cláusula 8ª do contrato, entendeu que a devolução da quantia mencionada deveria ocorrer na forma ali prevista.
+Entretanto, tal fundamento não foi apresentado na inicial e, portanto, não esteve sujeito ao contraditório.
+A jurisprudência do STJ é firme no sentido de que há julgamento extra petita não só quando se concede prestação jurisdicional diferente da postulada, mas também quando o deferimento do pedido apresentado se dá com base em fundamento não invocado como causa de decidir.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. CUMULAÇÃO INDEVIDA DE CARGOS. PEDIDO DE RESSARCIMENTO AO ERÁRIO. ARESTO DO TJ/RJ QUE, PARA NEGAR PROVIMENTO À APELAÇÃO, QUALIFICOU O ATO COMO ÍMPROBO SEM QUE TAL FATO TENHA SIDO OBJETO DA INICIAL OU DA SENTENÇA. JULGAMENTO EXTRA PETITA. PROCEDÊNCIA DO PEDIDO POR FUNDAMENTO NÃO INVOCADO NA CAUSA DE PEDIR PRÓXIMA (JURÍDICA) OU REMOTA (FÁTICA). NULIDADE. AGRAVO INTERNO DO ÓRGÃO ACUSADOR DESPROVIDO.
+1. Há julgamento extra petita quando o juiz concede prestação jurisdicional diferente da que foi postulada ou quando defere a prestação requerida, porém, com base em fundamento não invocado como causa de pedir (EDcl no AgRg no Ag 1.225.839/RS, Rel. Min. JOÃO OTÁVIO DE NORONHA, DJe 12.6.2013).
+2. Por sua vez, para que o julgamento ultra petita reste configurado é necessário que a decisão conceda mais do que foi pedido na inicial (REsp. 627.353/BA, Rel. Min. TEORI ALBINO ZAVASCKI, DJ 7.3.2005).
+3. Na hipótese, o acórdão recorrido apresenta, para negar provimento ao recurso de apelação, extensa fundamentação sobre atos de improbidade administrativa, sem que a causa sequer se ancore em tal fundamento, consoante se dessume do aresto (fls. 578/587).
+4. A adoção como fundamento determinante de elementos jurídicos sobre os quais não pende a causa é hipótese de nulidade absoluta do acórdão recorrido, pois viola reflexamente a inércia jurisdicional e o contraditório.
+5. Ademais, inaplicável à hipótese o brocardo jura novit curia, na medida em que a declaração de que os atos são ímprobos, para denegar pretensão recursal, à revelia de pedido das partes, importa em alteração dos fatos constitutivos do direito e não apenas enquadramento dos fatos à norma aplicável.
+6. Assim, os fundamentos do aresto não encontram amparo tanto na causa de pedir próxima (jurídica) como na remota (fática).
+7. Além disso, o acórdão recorrido, conforme narrado pelo recorrente, não se pronunciou acerca da suposta ocorrência de julgamento ultra petita pela sentença de primeiro grau, dada divergência entre os períodos apontados para ressarcimento na inicial e o determinado na sentença. Os autos devem retornar à origem para novo julgamento saneador das nulidades ora apontadas.
+8. Agravo Interno do Órgão Acusador desprovido.
+(AgInt no AREsp 832.007/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/11/2020, DJe 25/11/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. APONTADA VIOLAÇÃO AO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. RESCISÃO CONTRATUAL. PEDIDO DE INDENIZAÇÃO. ANULADA SENTENÇA QUE JULGOU PEDIDO IMPROCEDENTE. FUNDAMENTO EM CAUSA DE PEDIR DIVERSA DA CONTIDA NA PETIÇÃO INICIAL E NA QUAL FOI ESTABILIZADA A CONTROVÉRSIA. ARESTO MANTIDO. PROVIMENTO NEGADO.
+1. Não se verifica a alegada violação ao art. 535 do CPC/1973, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+2. O Tribunal de origem entendeu ser extra petita a sentença proferida pelo Juízo singular, uma vez que estaria assentada sobre fundamento distinto daquele no qual se estabeleceu a questão controvertida, a qual se centrou em saber se a rescisão unilateral motivada do contrato feito pela parte ré - por meio de notificação extrajudicial - não poderia produzir efeitos, ensejando inclusive o pagamento de indenização à parte autora.
+3. Nesse sentido, a jurisprudência desta Corte Superior está firmada no sentido de que, "Consoante o disposto pelo art. 128 do CPC, o autor fixa os limites da lide e da causa de pedir na petição inicial, cabendo ao juiz decidir de acordo com esse limite. É justamente por tal motivo que não é dado ao julgador proferir sentença acima, fora ou aquém daquilo que foi postulado" (REsp 1.351.005/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 1º/10/2013, DJe de 07/10/2013). Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt no AgInt no AREsp 932.909/PR, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017.)
+RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. MANDATO. SUCESSÃO. INCORPORADORA. VALIDADE. CONTRATO. PRORROGAÇÃO. RESCISÃO UNILATERAL. PRINCÍPIO DA ADSTRIÇÃO. VIOLAÇÃO. NULIDADE. RECONHECIMENTO.
+1. Se a incorporadora assume expressamente, na qualidade de sucessora, todos os direitos e obrigações da sociedade incorporada, o mandato validamente outorgado continua vigendo até que haja revogação expressa. Precedentes.
+2. Segundo o princípio da adstrição, o provimento judicial deve ter como balizas o pedido e a causa de pedir. Sob essa perspectiva, o juiz não pode decidir com fundamento em fato não alegado, sob pena de comprometer o contraditório, impondo ao vencido resultado não requerido, do qual não se defendeu.
+3. A Corte local, ao inovar no julgamento da apelação, trazendo a afirmação de que o contrato ajustado entre as partes era de agência, cerceou o direito de defesa do réu, impondo-lhe as consequências previstas pela Lei nº 4.886/1965 para a rescisão imotivada do contrato de representação comercial sem que houvesse requerimento da autora e sem possibilidade de apresentar argumentos ou produzir provas em sentido contrário.
+4. Recurso especial provido.
+(REsp 1641446/PI, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/03/2017, DJe 21/03/2017.)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. QUESTÃO ESTRITAMENTE PROCESSUAL. PEDIDO DETERMINADO. SENTENÇA. OBSERVÂNCIA DO PRINCÍPIO DA CONGRUÊNCIA. APELAÇÃO. EFEITO DEVOLUTIVO. COGNIÇÃO. LIMITES (CPC, ART. 515, § 1º). ACÓRDÃO EXTRA PETITA. NULIDADE. PRECEDENTES DO STJ.
+1. O agravante não trouxe argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada, razão que enseja a negativa de provimento ao agravo regimental.
+2. Segundo precedentes deste Superior Tribunal, "há julgamento extra petita quando o juiz defere pedido não formulado pelo autor; e há ofensa ao princípio da congruência quando o juiz decide a causa com base em fatos não invocados na inicial ou atribui aos fatos invocados conseqüências jurídicas não deduzidas na demanda". (c.f.: REsp 984.433/MG, Rel. Min. TEORI ALBINO ZAVASKI, Primeira Turma, DJe 10.9.2008).
+3. Agravo regimental não provido.
+(AgRg no REsp 1324968/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/08/2013, DJe 04/09/2013.)
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS. CAUSA DE PEDIR. ACÓRDÃO DO TRIBUNAL DE ORIGEM. FUNDAMENTOS DIVERSOS. JULGAMENTO EXTRA PETITA. NULIDADE.
+1. Verificada a existência de omissão e contradição na decisão embargada, os embargos de declaração devem ser acolhidos para sanar os vícios.
+2. Há julgamento extra petita quando o juiz concede prestação jurisdicional diferente da que foi postulada ou quando defere a prestação requerida, porém, com base em fundamento não invocado como causa de pedir.
+3. O julgamento ocorrido fora dos limites traçados pela parte está sujeito à declaração de nulidade.
+4. Embargos de declaração acolhidos com efeitos infringentes para dar provimento ao agravo regimental.
+(EDcl no AgRg no Ag 1225839/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 06/06/2013, DJe 12/06/2013.)
+RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. CONTRARRAZÕES. PRELIMINAR. SÚMULA Nº 207/STJ. NÃO CABIMENTO. VIOLAÇÃO DO ARTIGO 535 DO CÓDIGO DE PROCESSO CIVIL. INEXISTÊNCIA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. NÃO EXISTÊNCIA. SOCIEDADE LIMITADA. DISSOLUÇÃO PARCIAL POR MORTE DE SÓCIO. FRAUDE EM ALTERAÇÕES CONTRATUAIS DE TRANSFERÊNCIA DAS QUOTAS PARA SÓCIO REMANESCENTE. HERDEIROS. APURAÇÃO DE HAVERES. MOMENTO. JULGAMENTO EXTRA PETITA. OCORRÊNCIA. SENTENÇA RESTABELECIDA.
+ ..
+4. A decisão judicial não está confinada apenas pelo pedido formulado pela parte, mas também pela causa de pedir deduzida, sendo esta elemento delimitador da atividade jurisdicional na ação. Se o magistrado se restringe ao pedido formulado, considerando, entretanto, outra causa de pedir que não aquela suscitada pela parte, o que houve na hipótese, está incorrendo em decisão extra petita, restando configurada a nulidade do acórdão, ante a ofensa ao princípio da congruência.
+5. Recurso especial parcialmente provido para restabelecer a sentença quanto ao momento da apuração de haveres.
+(REsp 1352461/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/03/2013, DJe 14/05/2013.)
+O Tribunal de origem, no julgamento da apelação da empresa, ao analisar a alegação de sentença extra petita, assim se pronunciou (e-STJ fls. 308/309):
+Resta dirimir, pois, se a r. sentença é extra petita.
+"Consoante entendimento sedimentado no STJ, considera- se extra petita a decisão que aprecia pedido ou causa de pedir distintos daqueles apresentados pela parte postulante, isto é, aquela que confere provimento judicial sobre algo que não foi pedido. Sendo assim, não ocorre julgamento ultra petita se o Tribunal local decide questão que é reflexo do pedido na exordial." (STJ, AgRg no REsp 1553565/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/12/2015, DJe 05/02/2016).
+ ..
+Embora os autores narrem a ruptura da parceria com o Instituto Embelleze, depreende-se da exordial que os franqueados se ressentiram quanto à falta de suporte técnico e financeiro, o que teria causado a não implantação da unidade franqueada, conforme notificação datada de 23 de abril de 2012.
+Sob uma interpretação lógico-sistemática, com esforço, verifica-se que os fatos narrados resumem-se à ruptura de parceria, os fundamentos jurídicos são mais amplos, abarcando o descumprimento das obrigações pré- contratuais da franqueadora.
+Destarte, ao revés do que afirma a recorrente, o julgamento não é extra petita.
+E, como se viu, o reembolso da taxa de franquia é exigível.
+Portanto, aquela Corte, ao não reconhecer o julgamento extra petita, decidiu de forma contrária à jurisprudência do STJ, o que implica reforma do julgado.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de, reconhecendo o julgamento extra petita, afastar a devolução dos valores determinada na sentença.
+Condeno os recorridos ao pagamento das custas processuais e dos honorários advocatícios que arbitro em 10% (dez por cento) do valor da causa (e-STJ fls. 12/13 do Apenso 1), devidamente atualizado, nos termos do art. 20, § 4º, do CPC/1973, diploma em vigor quando da prolação da sentença e que deve ser observado, quanto ao ponto, até o trânsito em julgado (EAREsp 1.255.986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/3/2019, DJe 6/5/2019).
+Publique-se e intimem-se.
+Conforme exposto na decisão monocrática, de acordo com a jurisprudência do STJ, no caso em que o deferimento do pedido apresentado pela parte se dá com base em fundamento não invocado como causa de pedir, ocorre julgamento extra petita.
+No caso, o Juízo singular, na sentença que foi mantida pelo acórdão recorrido, apesar de afirmar que o negócio não se concretizou por culpa exclusiva dos autores, ora agravantes, afastando a causa de pedir do pleito ressarcitório, entendeu que a devolução dos valores pagos deveria se dar na forma prevista em uma das cláusulas contratuais, matéria não aventada na inicial e que, portanto, não esteve sujeita ao contraditório.
+Dessa forma, é de se reconhecer o julgamento extra petita.
+Assim, não prosperam as alegações constantes no recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Diante do exposto, NEGO PROVIMENTO ao agravo interno.
+Deixo de aplicar a multa prevista no art. 1.021, § 4º, do CPC/2015, uma vez que a parte agravante apenas exerceu seu direito de petição, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo.
+É como voto.
