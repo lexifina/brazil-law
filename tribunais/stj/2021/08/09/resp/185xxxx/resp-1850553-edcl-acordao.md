@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher os embargos de declaração, com efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. TEMA AFETADO COMO REPETITIVO. SOBRESTAMENTO.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Em sessão de julgamento realizada em 24/11/2020, a Corte Especial do STJ decidiu afetar à sistemática dos recursos repetitivos os REsps 1.850.512/SP, 1.877.883/SP e 1.906.623/SP, em que discutida a "definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados" - Tema 1.076/STJ; todavia, sem a determinação de suspensão nacional dos processos que versem sobre a matéria.
+3. Em julgamento realizado em 26/05/2021, a Primeira Seção, ao analisar a questão de ordem nos autos dos EDcl na AR 4.971/MG, decidiu que devem ser sobrestados os processos nos quais a discussão seja estritamente relativa à aplicabilidade do art. 85, § 8º, do CPC/2015, quando em debate a exorbitância da verba honorária, sendo esse o caso dos autos.
+4. Embargos acolhidos a fim de tornar sem efeito as decisões anteriores e determinar a devolução dos autos à origem para aguardar o julgamento dos recursos repetitivos.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de embargos de declaração opostos pelo ESTADO DO PARANÁ contra acórdão da Primeira Turma, de que fui relator, assim ementado (e-STJ fls. 1.128/1.129):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. IMPUGNAÇÃO ADEQUADA. REEXAME DE PROVA. DESNECESSIDADE. EMBARGOS À EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS. FIXAÇÃO. PERCENTUAL SOBRE O PROVEITO ECONÔMICO OBTIDO. APRECIAÇÃO EQUITATIVA. IMPOSSIBILIDADE.
+1. Impugnados no recurso especial todos os fundamentos consignados no acórdão recorrido, é de se afastar a alegada incidência da Súmula 283 do STF.
+2. A questão posta no recurso especial, concernente ao critério normativo adequado para o arbitramento dos honorários advocatícios, é eminentemente jurídica, dispensando, in casu, reexame de prova, sendo inaplicável o óbice da Súmula 7 do STJ.
+3. O Código de Processo Civil de 2015, em seu art. 85, dedicou amplo capítulo aos honorários advocatícios, estabelecendo novos parâmetros objetivos para a sua fixação, com a estipulação de percentuais mínimos e máximos sobre a dimensão econômica da demanda (§ 2º), inclusive nas causas envolvendo a Fazenda Pública (§ 3º), de modo que, na maioria dos casos, a avaliação subjetiva dos critérios legais a serem observados pelo magistrado servirá apenas para que ele possa justificar o percentual escolhido dentro do intervalo permitido.
+4. Nesse novo regime, a fixação dos honorários advocatícios mediante juízo de equidade ficou reservada para as causas "em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo" (art. 85, § 8º).
+5. Hipótese em que o estabelecimento da verba honorária deve observar a tarifação estabelecida pelo legislador, visto que os autos cuidam de embargos à execução julgados procedentes para anular, em caráter definitivo, os créditos lançados no auto de infração impugnado, sendo perfeitamente identificável e quantificável o proveito econômico obtido.
+6. Agravo interno desprovido.
+Nas suas razões (e-STJ fls. 1.142/1.144), o ente público alega que o acórdão ora embargado incorreu em omissão quanto à necessidade de sobrestamento do processo até o julgamento do Tema n. 1.076 do STJ, pela Corte Especial.
+A parte embargada apresentou impugnação (e-STJ fls. 1.147/1.150).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. TEMA AFETADO COMO REPETITIVO. SOBRESTAMENTO.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Em sessão de julgamento realizada em 24/11/2020, a Corte Especial do STJ decidiu afetar à sistemática dos recursos repetitivos os REsps 1.850.512/SP, 1.877.883/SP e 1.906.623/SP, em que discutida a "definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados" - Tema 1.076/STJ; todavia, sem a determinação de suspensão nacional dos processos que versem sobre a matéria.
+3. Em julgamento realizado em 26/05/2021, a Primeira Seção, ao analisar a questão de ordem nos autos dos EDcl na AR 4.971/MG, decidiu que devem ser sobrestados os processos nos quais a discussão seja estritamente relativa à aplicabilidade do art. 85, § 8º, do CPC/2015, quando em debate a exorbitância da verba honorária, sendo esse o caso dos autos.
+4. Embargos acolhidos a fim de tornar sem efeito as decisões anteriores e determinar a devolução dos autos à origem para aguardar o julgamento dos recursos repetitivos.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Na hipótese, de fato, o acórdão embargado não examinou a necessidade de sobrestamento do feito ante afetação da questão controvertida à sistemática dos repetitivos, estando, pois, caracterizada a omissão.
+Pois bem.
+Em sessão de julgamento realizada em 24/11/2020, a Corte Especial do STJ decidiu afetar à sistemática dos recursos repetitivos os REsps 1.850.512/SP, 1.877.883/SP e 1.906.623/SP, em que discutida a "definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados" - Tema 1.076/STJ.
+Ainda, foi afastada a determinação de suspensão nacional dos processos que versem sobre a matéria. Os julgados foram assim resumidos:
+PROCESSUAL CIVIL. PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. ART. 256-I C/C ART. 256-E DO RISTJ, NA REDAÇÃO DA EMENDA REGIMENTAL 24, DE 28/09/2016. ART. 85, § 8º, DO CPC. DEFINIÇÃO DO ALCANCE DO DISPOSITIVO NAS DEMANDAS EM QUE ELEVADOS O VALOR DA CAUSA OU O PROVEITO ECONÔMICO. MULTIPLICIDADE DE PROCESSOS. PARTICIPAÇÃO DE AMICI CURIAE. ART. 138 DO CPC. DESNECESSIDADE DE DETERMINAÇÃO DA SUSPENSÃO DOS PROCESSOS QUE VERSEM SOBRE A QUESTÃO. ART. 1.037, INC. II, DO CPC. PROPOSTA DE AFETAÇÃO ACOLHIDA.
+1. Delimitação da controvérsia: "Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados.".
+2. Recurso especial afetado ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I c/c art. 256-E do RISTJ, na redação da Emenda Regimental 24, de 28/09/2016).
+3. Convite à Ordem dos Advogados do Brasil - OAB, à União, ao Colégio Nacional de Procuradorias-Gerais dos Estados e do Distrito Federal - CONPEG, ao Instituto Brasileiro de Direito Processual - IBDP, e à Associação Norte e Nordeste de Professores de Processo - ANNEP, para atuação como amici curiae.
+4. Afastada a determinação de suspensão nacional dos processos que versem sobre a matéria.
+5. Acolhida a proposta de afetação do recurso especial como representativo da controvérsia, para que seja julgado na Corte Especial (afetação conjunta dos Recursos Especiais 1.850.512/SP e 1.877.883/SP).(Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgados em 24/11/2020, DJe 04/12/2020)
+Não obstante, em julgamento realizado em 26/05/2021, em que fiquei vencido, a Primeira Seção, ao analisar a questão de ordem nos autos dos EDcl na AR 4.971/MG, decidiu que devem ser sobrestados os processos nos quais a discussão seja estritamente relativa à aplicabilidade do art. 85, § 8º, do CPC/2015, quando em debate a exorbitância da verba honorária, sendo esse o caso dos autos.
+Dessa forma, encontrando-se o tema afetado à sistemática dos recursos repetitivos, esta Corte orienta que os recursos que tratam da mesma controvérsia devem aguardar o julgamento dos paradigmas, viabilizando, assim, o juízo de conformação, hoje disciplinado pelos arts. 1.039 e 1.040 do atual Diploma legal.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial deverá ser encaminhado para esta Corte Superior, para que aqui possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, ACOLHO os embargos de declaração, com efeitos modificativos, para tornar sem efeito as decisões anteriores e determinar a devolução dos autos à Corte de origem, com a respectiva baixa, para que, após a publicação dos acórdãos a serem proferidos no regime dos recursos repetitivos, em observância ao art. 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelo STJ; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+É como voto.
