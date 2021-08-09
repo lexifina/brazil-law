@@ -1,0 +1,20 @@
+DECISÃO
+DANIEL FONSECA BORGESalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido peloTribunal de Justiça do Estado da Paraíba,na Apelação n. 0020714-03.2031.815.0011.
+Neste habeas corpus, a defesa pretende a redução da pena, haja vista a ausência de proporcionalidade na exasperação da pena-base e a ilegalidade no aumento pelas majorantes do roubo.
+Indeferida a liminar (fl. 44) e dispensadas as informações, veio o parecer do Ministério Público Federal, que opinou pelo não conhecimento do writ (fls. 49-51).
+Decido.
+Consta dos autos que o paciente foi condenado à pena de 9 anos, 9 meses e 18 dias de reclusão, em regime fechado, mais multa, pela prática do delito tipificado no art. 157, § 2º, I e II, do Código Penal. A pena-base foi fixada em 2 anos de reclusão, pelos maus antecedentes do réu, "que já fora condenado em outras 10 oportunidades, inclusive por homicídio, porte de arma, dentre outros" (fl. 28, grifei).
+No tocanteaoquantum de exasperação,a jurisprudência uníssona das Turmas que compõem a Terceira Seção entende que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, decidir oquantumde exasperação da pena-base, em observância aos princípios da razoabilidade e da proporcionalidade.
+No caso, reputo proporcional e fundamentada a pena-base estabelecida ao paciente, diante da valoração negativa de uma circunstância judicial-2 anosacima do mínimo legal-, se considerados os patamares mínimo e máximo previstos para o tipo penal que incide na espécie-de 4 a 10 anos de reclusão-eis que fundamentado o aumento na existência de dez condenações caracterizadoras dos maus antecedentes.
+Em relação à terceira fase da dosimetria, o Juiz de primeiro grau, no que foi corroborado pela Corte estadual, elevou apenadorouboem 2/5, em razão das majorantes do concurso de pessoas e do uso de arma de fogo,"que demonstram a acentuada periculosidade do réu e aumentam bastante a gravidade da conduta" (fl. 29).
+No caso, as instâncias ordinárias entenderam devida a exasperação da reprimenda em 2/5, ante a caracterização de duas majorantes, fundamento que -não obstante, na minha opinião, evidencie maior temibilidade da conduta -, nos termos do pensamento majoritário da Sexta Turma não justifica, de maneira idônea, o aumento de pena acima do patamar mínimo, sendo necessária a indicação de outras circunstâncias concretasque evidenciem a maior desaprovação da conduta (número de agentes superior ao necessário para configurar o concurso, restrição da liberdade da vítima por longo período, emprego de arma de grosso calibre, ocorrência de disparo etc.), para justificar o percentual de aumento eleito.
+Ilustrativamente:
+ ..
+4. Não obstante haja sido particularizado o fato de o delito ter sido
+praticado com emprego de arma de fogo e com a participação de dois agentes, as instâncias ordinárias não apontaram nenhum elemento dos autos (modus operandi, por exemplo) que, efetivamente, evidenciasse real necessidade de exasperação da pena, na terceira fase da dosimetria, no patamar estabelecido. Ressalva do relator em relação à arma de fogo.
+ ..
+(HC n. 352.019/SP, Rel. MinistroRogerio Schietti, 6ª T., DJe 31/5/2016)
+Logo, identifico a violação legal apontada epasso à readequação dapena.
+Observados os parâmetros aplicados pelas instâncias antecedentes, verifico que apena-base foi fixada em 6anos de reclusão, pelos maus antecedentes. Reduzo, de ofício, a quantidade de dias-multa, uma vez que desproporcionais e realizo a sua readequação para 13 dias. Na segunda etapa, a pena foi elevada em 1 ano pela reincidência, o que resulta em 7 anos de reclusão, mais 15 dias-multa. Naterceira etapa, reconhecida a ilegalidade, aplico a fração de 1/3 para o aumento das majorantes, o que torna a pena definitivamente estabelecida em 9 anos e 4 meses de reclusão, mais 16dias-multa.
+À vista do exposto,concedo parcialmente a ordem, apenas a fim de aplicar a fração de 1/3 de aumento pelas majorantes, redimensionando apenapara9 anos e 4 meses de reclusão, mais 16 dias-multa.
+Publique-se e intimem-se.
