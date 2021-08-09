@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurge contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado (e-STJ, fl. 345):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. ACP Nº 94.00.08514-1. CRÉDITO RURAL. SUBSTITUIÇÃO DO ÍNDICE CORREÇÃO MONETÁRIA. IPC (84,32%) PELO BTNF (41,28%). PROVA DA QUITAÇÃO DO CONTRATO. INVERSÃO DO ÔNUS DA PROVA. COMPROVAÇÃO DE ELEMENTOS MÍNIMOS DA EXISTÊNCIA DA RELAÇÃO CONTRATUAL.
+Deve ser invertido o ônus da prova, a teor do disposto no art. 6º, VIII do CDC, para determinar que o Banco do Brasil apresente, oportunamente, os comprovantes dequitação e/ou pagamento das cédulas rurais pignoratícias, desde que o exeqüente tenha apresentado elementos mínimos acerca da relação contratual entabulada entre as partes, o que ocorreu no caso dos autos.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 432-436).
+No recurso especial, o recorrente aponta, além de divergência jurisprudencial, violação dos arts. 319, IV, 320, 373, I, 502, 503, 506, 507 508, 509, II,1.022 e 1.025 do novo CPC; e 6º, III, do CDC.
+Esclarece que se opõe ao acórdão que, sem apreciar todas as questões relevantes e o teor de dispositivos relacionadosà controvérsia, aplicou indevidamente normativos do Código de Defesa do Consumidor ao caso e determinou a inversão do ônus da prova. Aduz a ausênciada comprovação de elementos mínimos da comprovação do direito autoral. Pleiteia o provimento do recurso especial(e-STJ, fls. 441-454).
+Contraminuta não apresentada (e-STJ, fl. 484).
+Juízo positivo de admissibilidade do recurso especial(e-STJ, fl. 486).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo contradição a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 1.022 e 1.025 do novo CPC.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Analisando o acervo fático-probatório, aCorte de origem entendeu pela incidência do CDC e pelocabimento da inversão do ônus da prova em favor da parte autora. Justificou o aresto a existência de elementos mínimos do direito vindicado no cumprimento provisória de sentença.
+Veja (e-STJ, fls. 342-343):
+Por ocasião da apreciação do pedido de antecipação dos efeitos da tutela proferi decisão nos seguintes termos:
+No caso, se trata de cumprimento provisório de sentença coletiva proferida nos autos da Ação Civil Pública nº 94.00.08514-1, ajuizada pela Sociedade Rural Brasileira e pela Federação de Associações dos Arrozeiros do Rio Grande do Sul, visando à substituição do índice de correção monetária aplicado nos contratos de crédito rural (custeio e investimento) no mês de março/1990  IPC (84,32%) pelo BTNF (41,28%) , a qual ainda não transitou em julgado.
+A questão discutida no presente feito não comporta maiores digressões, eis que ambas as Turmas que julgam a matéria administrativa neste Tribunal já firmaram entendimento no sentido de que deve ser invertido o ônus da prova, a teor do disposto no art. 6º, VIII do CDC, para determinar que o Banco do Brasil apresente os comprovantes de quitação e/ou pagamento das cédulas rurais pignoratícias, desde que o exeqüente tenha apresentado elementos mínimos acerca da relação contratual entabulada entre as partes. Nesse sentido, os seguintes precedentes:
+ ..
+No caso, muito embora a parte agravante não tenha juntado cópia integral das cédulas de crédito rural, juntou certidão emitida pelo cartório de registro de imóveis na qual consta averbação junto a matrícula acerca da existência das cédulas nº 88/06376-3, 88/05722-4,88/05288-5 e 88/00770-7 (EVENTO1 dos autos originários), de modo que se justifica a inversão do ônus da prova para determinar que o Banco do Brasil apresente, oportunamente, as cédulas e os comprovantes de quitação dos referidos contratos.
+Ante o exposto, defiro a antecipação dos efeitos da tutela para determinar o prosseguimento do cumprimento provisório de sentença, independentemente da juntada dos comprovantes de quitação e/ou pagamento da cédula rural acima referida.
+Essas ponderações foram fundadas na incursão fática da causa, o que atrai a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO PROVISÓRIO DE SENTENÇA. OMISSÃO OU CONTRADIÇÃO INEXISTENTES. ACÓRDÃO DEVIDAMENTE FUNDAMENTADO. CONCLUSÃO NO SENTIDO DA EXISTÊNCIA DE ELEMENTOS PROBATÓRIOS MÍNIMOS DO DIREITO AUTORAL. APLICAÇÃO DO CDC E INVERSÃO DO ÔNUS DA PROVA. ENTENDIMENTO FUNDADO NA APRECIAÇÃO FÁTICA DA CAUSA. SÚMULA 7/STJ. RECURSO ESPECIAL DESPROVIDO.
