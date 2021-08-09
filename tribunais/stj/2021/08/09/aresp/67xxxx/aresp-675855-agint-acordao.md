@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ATO OMISSIVO DO ESTADO. TRATO SUCESSIVO. AÇÃO INDENIZATÓRIA. PRAZO PRESCRICIONAL. FLUÊNCIA A PARTIR DA SENTENÇA.
+1. O Tribunal a quo concluiu pela não ocorrência da prescrição na espécie, haja vista que a pretensão indenizatória quanto à omissão estatal no cumprimento da reintegração de posse somente surgiu a partir da sentença proferida na possessória, quando o curso do prazo prescricional foi interrompido em razão da propositura da ação cautelar, sendo retomada a sua contagem após o trânsito em julgado da referida sentença .
+2. Sobre o tema, cumpre dizer que este Sodalício possui entendimento no sentido de que "é de trato sucessivo o prazo prescricional nos casos de ato omissivo continuado por parte da administração pública, por se renovar periodicamente" (AgInt no REsp 1.687.916/RN, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/11/2018, DJe 10/12/2018).
+3. Na espécie, resta impossibilitado o acolhimento do pleito recursal quanto à ocorrência da prescrição, uma vez que, enquanto caracterizada a omissão do Estado no cumprimento da reintegração de posse, não há falar em curso do prazo prescricional para o ajuizamento da ação indenizatória.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto pelo Estado do Paraná desafiando decisão que negou provimento ao agravo em recurso especial, em razão de o acórdão a quo não destoar da jurisprudência do STJ.
+A parte agravante sustenta, em resumo, que o termo inicial da prescrição, pela teoria da actio nata, "é a data em que foi deferida a liminar para imissão de posse, ou seja 02/01/1998, data esta reconhecida pela sentença, motivo razoável a determinar a prescrição da pretensão indenizatória" (fl. 929).
+Requer, desse modo, a reconsideração do decisum, ou o provimento do agravo interno pelo órgão colegiado, para que seja reconhecida a prescrição do direito pleiteado.
+Impugnação às fls. 944/951.
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REINTEGRAÇÃO DE POSSE. ATO OMISSIVO DO ESTADO. TRATO SUCESSIVO. AÇÃO INDENIZATÓRIA. PRAZO PRESCRICIONAL. FLUÊNCIA A PARTIR DA SENTENÇA.
+1. O Tribunal a quo concluiu pela não ocorrência da prescrição na espécie, haja vista que a pretensão indenizatória quanto à omissão estatal no cumprimento da reintegração de posse somente surgiu a partir da sentença proferida na possessória, quando o curso do prazo prescricional foi interrompido em razão da propositura da ação cautelar, sendo retomada a sua contagem após o trânsito em julgado da referida sentença .
+2. Sobre o tema, cumpre dizer que este Sodalício possui entendimento no sentido de que "é de trato sucessivo o prazo prescricional nos casos de ato omissivo continuado por parte da administração pública, por se renovar periodicamente" (AgInt no REsp 1.687.916/RN, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/11/2018, DJe 10/12/2018).
+3. Na espécie, resta impossibilitado o acolhimento do pleito recursal quanto à ocorrência da prescrição, uma vez que, enquanto caracterizada a omissão do Estado no cumprimento da reintegração de posse, não há falar em curso do prazo prescricional para o ajuizamento da ação indenizatória.
+4. Agravo interno a que se nega provimento.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, conforme constou do julgado singular, o tema trazido à discussão restou assim decidido pelo Tribunal a quo (fls. 729/732):
+Contudo, melhor analisando os fatos e levando em consideração as circunstâncias ora levantadas, a despeito desta Câmara ter compartilhado do mesmo entendimento do Juiz a quo, nota-se que o termo inicial da prescrição, na verdade, não se deu em 02/01/1998, data da decisão que deferiu a liminar para a reintegração da posse, que não foi cumprida.
+Imprescindível destacar que a omissão estatal no descumprimento da decisão liminar que ordenou a reintegração de posse configura um ato continuo, de modo que se renovou a cada dia.
+Nesse sentido, este Tribunal entende razoável que se conte o prazo prescricional da sentença final proferida na ação de reintegração de posse:  ..
+No caso, como a sentença de reintegração de posse foi proferida em 08/05/2000 (fl. 79), o prazo prescricional da pretensão indenizatória se iniciou em 09/05/2000, data em que à ordem se tornou definitiva, de modo que os autores deveriam ajuizar a ação indenizatória até 09/05/2005.
+Ocorre que quando o prazo prescricional foi iniciado a citação na Ação Cautelar Antecipatória de Provas, que configura causa interruptiva da prescrição, já tinha sido realizada, de modo que a prescrição para o ajuizamento da indenizatória somente começou a fluir com o seu trânsito julgado, em 10/12/2003.
+Logo, com o trânsito em julgado em 10/12/2003, os autores poderiam ajuizar a ação de indenização até 10/12/2008. Como a demanda foi proposta em 2007 não há que se falar em prescrição.
+Ademais, foi apenas a partir de 10/12/2003, que os autores puderam efetivamente constatar a extensão dos danos causados na propriedade, até porque a ordem de reintegração jamais foi cumprida, o que reforça que o termo inicial da prescrição não se deu do primeiro descumprimento da ordem liminar.
+Denota-se, pois, que o Tribunal a quo concluiu pela não ocorrência da prescrição na espécie, haja vista que a pretensão indenizatória quanto à omissão estatal no cumprimento da reintegração de posse somente surgiu a partir da sentença (9/5/2000), ficando interrompido o curso do prazo prescricional em razão da propositura de ação cautelar, e sendo retomada a sua contagem após o trânsito em julgado (10/12/2003), de modo que a demanda indenizatória proposta em 2007 ainda não estava fulminada pela prescrição.
+Sobre o tema, cumpre dizer que este Sodalício possui entendimento no sentido de que "é de trato sucessivo o prazo prescricional nos casos de ato omissivo continuado por parte da administração pública, por se renovar periodicamente" (AgInt no REsp 1.687.916/RN, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 6/11/2018, DJe 10/12/2018).
+A propósito, veja-se:
+ADMINISTRATIVO. RESPONSABILIDADE CIVIL DO ESTADO. REPARAÇÃO DE DANOS. INVASÃO DE TERRAS POR FAMÍLIAS SEM TETO. REINTEGRAÇÃO DE POSSE. PRESCRIÇÃO. SÚMULA 7/STJ. APLICAÇÃO DA TEORIA DA RESPONSABILIDADE CIVIL PELA PERDA DE CHANCE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. O Tribunal de origem, com base no conjunto fático-probatório dos autos, afastou a alegação de prescrição quinquenal sob o fundamento de que "embora a área tenha sido invadida em 08/10/1996 e a ação indenizatória proposta em 2009, o que se observa dos presentes autos (fls. 35) é que o mandado de reintegração de posse foi expedido em 08/10/1996 sem que tenha sido cumprido até à propositura da ação em 2009. Outrossim, registre-se que inexiste termo inicial prescricional por descumprimento de ordem judicial, sendo que foi exatamente "a inatividade do poder de polícia ao longo dos anos que serviu de fundamento para a ação indenizatória" (fl. 521, e-STJ).
+2. Tal entendimento encontra amparo na jurisprudência do Superior Tribunal de Justiça no sentido de que, no caso de ato omissivo continuado praticado pela Administração Pública, a caracterizar a natureza permanente da lesão de direito, não fluem os prazos de prescrição e de decadência (MS 16.016, Rel. Min. Hamilton Carvalhido, Primeira Seção, Dje 09.05.2011).
+3. Ademais, é inviável analisar a tese defendida no Recurso Especial, a qual busca afastar as premissas fáticas estabelecidas pelo acórdão recorrido, pois inarredável a revisão do conjunto probatório dos autos. Incide a Súmula 7/STJ.
+4. Quanto à aplicação da Teoria da Responsabilidade Civil pela Perda de uma Chance ao caso dos autos, a irresignação não merece prosperar, uma vez que o Tribunal de origem não apreciou a questão.
+Incide, na espécie, a Súmula 211/STJ. Caberia à parte, nas razões do seu Recurso Especial, alegar violação do artigo 535 do CPC, a fim de que o STJ pudesse averiguar a existência de possível omissão no julgado, o que não foi feito.
+5. Recurso Especial conhecido em parte e não provido.
+(REsp 1.549.528/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/9/2016, DJe 7/10/2016)
+Assim, na espécie, não há como acolher o pleito recursal quanto à ocorrência da prescrição, uma vez que, enquanto caracterizada a omissão do Estado no cumprimento da reintegração de posse, não há falar em curso do prazo prescricional para o ajuizamento da ação indenizatória.
+ANTE O EXPOSTO, nega-se provimento ao agravo interno.
+É o voto.
