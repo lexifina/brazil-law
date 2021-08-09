@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de MANOEL PEREIRA DE ANDRADE NETO no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (RSE n. 0146718-02.2016.8.19.0001 - Relatora Des. Elizabete Alves de Aguiar).
+Consta dos autos que o Tribunal de origem manteve a pronúncia do paciente como incurso no art. 121, § 2º, I, III, IV e VI, do CP.
+Na presente impetração a defesa requer o reconhecimento da nulidade da sentença de pronúncia, por excesso de linguagem.
+Informações prestadas.
+Parecer ministerial pela denegação da ordem (e-STJ fls. 85/88).
+É, em síntese, o relatório.
+Decido.
+Consoante relatado, busca a defesa o reconhecimento de excesso de linguagem no acórdão confirmatório da pronúncia.
+No caso, o Tribunal de origem assim se manifestou (e-STJ fls. 20/21):
+"No que diz respeito à nulidade aventada, de reconhecimento de excesso de linguagem do Magistrado na prolatação da sentença de pronúncia, mister se faz a reprodução do trecho impugnado (fls. 291):
+"(..) Finalmente, observa-se não ser cabível a substituição da prisão preventiva do acusado por qualquer das medidas cautelares introduzidas pela Lei nº 12.403/2011, as quais se mostram absolutamente insuficientes, inadequadas e insatisfatórias para impedirem que o réu pratique novos crimes, exerça influência indesejável sobre as testemunhas ou permaneça à disposição deste Juízo, observando os elementos concretos acima elencados, razões pelas quais, com fundamento no artigo 312 e no artigo 413 § 3º, ambos do Código de Processo Penal, mantenho a prisão do acusado nessa oportunidade, para a garantia da ordem pública - o réu praticou o delito de homicídio contra sua companheira, mediante esganadura -, por conveniência da instrução criminal e para assegurar a eventual aplicação da lei.(..)"
+É cediço, que a decisão de pronúncia exige fundamentação suficiente dos motivos que determinaram a formação do julgador, indicando as razões de convencimento do mesmo quanto à materialidade e autoria da conduta delitiva, tud o em observância ao disposto no artigo 93, inciso IX, da Constituição Federal, bem como ao artigo 413 do Código de Processo Penal.
+Cabe frisar, entretanto, que no trecho em exame, o Magistrado sequer está tratando dos motivos que o levaram a pronunciar o réu, sendo discutida, in casu, a necessidade da mantença da custódia prisional cautelar do mesmo.
+Ademais, resta claro que a utilização de termos como, "pratique novos crimes", pelo Juiz primevo, não possuem o condão de influenciar os Jurados, atendo-se o mesmo a elencar os elementos de sua convicção para, repita-se, manter a prisão cautelar do ora pronunciado"
+A defesa alega que o Magistrado de piso, ao alegar que o réu praticou o delito de homicídio contra sua companheira mediante esganadura, ultrapassou os limites do juízo de admissibilidade da pretensão acusatória.
+Ora, os contornos da fundamentação da sentença de pronúncia são dados pelo art. 413 do Código de Processo Penal, nos seguintes termos:
+Art. 413. O juiz, fundamentadamente, pronunciará o acusado, se convencido da materialidade do fato e da existência de indícios suficientes de autoria ou de participação. (Redação dada pela Lei nº 11.689, de 2008)
+§ 1o A fundamentação da pronúncia limitar-se-á à indicação da materialidade do fato e da existência de indícios suficientes de autoria ou de participação, devendo o juiz declarar o dispositivo legal em que julgar incurso o acusado e especificar as circunstâncias qualificadoras e as causas de aumento de pena. (Incluído pela Lei nº 11.689, de 2008)
+§ 2o Se o crime for afiançável, o juiz arbitrará o valor da fiança para a concessão ou manutenção da liberdade provisória. (Incluído pela Lei nº 11.689, de 2008)
+§ 3o O juiz decidirá, motivadamente, no caso de manutenção, revogação ou substituição da prisão ou medida restritiva de liberdade anteriormente decretada e, tratando-se de acusado solto, sobre a necessidade da decretação da prisão ou imposição de quaisquer das medidas previstas no Título IX do Livro I deste Código. (Incluído pela Lei nº 11.689, de 2008)
+Tal decisão, que revela a admissibilidade da acusação no Tribunal do Júri, não pode converter-se em manifestação de mérito apta a influenciar os juízes de fato no futuro plenário.
+Nessa alheta, a pronúncia deve reduzir-se ao reconhecimento da existência do crime e de indícios de autoria. A decisão não deve invadir a esfera de mérito para afirmar certezas ou contundências. O excesso de linguagem nessa fase constitui antecipação de julgamento com reflexos destrutivos no devido processo legal substancial quanto à imparcialidade, à ampla defesa e à presunção de inocência.
+Nesse sentido, o valioso ensinamento doutrinário:
+" ..  se o juiz pronunciante, em vez de proporcionar um juízo de suspeita para os jurados, concluir por um verdadeiro juízo de certeza, viola a cláusula do devido processo legal, ensejando a decretação de sua nulidade." (BONFIM, Edílson Mougenot. Curso de Processo Penal. 7ª. Ed. São Paulo: Saraiva, 2012, p. 628.)
+"Ao fundamentar a decisão com linguagem prudente, o juiz evita manifestação própria quanto ao mérito da acusação e se abstém de aprofundamento sobre a prova. Com redação sóbria, serena, equilibrada e comedida, influência alguma sobre os jurados exercerá, sob pena de se antecipar ao julgamento, provocando nulidade ao decisório". (SILVA, Marco Antonio Marques da, FREITAS, Jayme Walmer de. Código de Processo Penal Comentado. São Paulo: Saraiva: 2012, p. 641.)
+Tenho que a manifestação do Magistrado de piso não encerrou qualquer juízo de certeza, sendo, portanto, inapta a influenciar os jurados.
+Conforme muito bem ressaltado pelo Tribunal de origem, "no trecho em exame, o Magistrado sequer está tratando dos motivos que o levaram a pronunciar o réu, sendo discutida, in casu, a necessidade da mantença da custódia prisional cautelar do mesmo" (e-STJ fl. 21).
+E no mesmo sentido, o parecer ministerial (e-STJ fl. 88):
+Com efeito, é correta a conclusão do Tribunal a quo de que o magistrado alicerçou "seu decisum em perfeita consonância com o momento processual em que se encontra a ação penal, restringindo-se ao exame sumário da existência de indícios mínimos de materialidade e autoria delitivas, nos estritos termos do artigo 413, caput e § 1º, do C.P.P., a evidenciar, por conseguinte, na decisão vergastada, a plena observância do disposto no inciso IX do artigo 93 da C.R.F.B." (fl. 24).
+Tal o contexto, denego a ordem de habeas corpus.
+Publique-se. Intimem-se.
