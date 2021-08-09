@@ -1,0 +1,32 @@
+DECISÃO
+RAIMUNDO SANTANA DA SILVAalegasofrer constrangimento ilegal, em razão deacórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, que denegou o HC n. 1.0000.21.034249-9/000.
+A defesa requer, liminarmente e no mérito, a revogação da prisão preventiva, decretada pela suposta prática dos delitos de homicídio duplamente qualificado e associação criminosa, ante a ausência de fundamentos idôneos para justificar a medida extrema.
+Indeferida a liminar (fls. 545-547) e prestadas as informações, veio o parecer doMinistério Público Federal, queopinou pelo não conhecimento do writou pela denegação da ordem (fls. 570-577).
+Decido.
+I. Contextualização
+Consta dos autos que o Juizde primeiro grau decretou a prisão preventiva do recorrente, em 9/2/2021, pela suposta prática de homicídio qualificado, pelos seguintes argumentos (fl. 62, grifei):
+Quanto ao "periculum libertatis", extrai-se não apenas da gravidade concreta da conduta dos representados (que supostamente decidiram ceifar a vida da vítima, em local aberto ao público e em razão de uma discussão banal sobre o pagamento de uma conta de bar), mas também, da periculosidade do representado SILKY, evidenciada a partir da análise de sua folha da antecedentes penais (ID. 80101495), que, além registrar condenações pela prática de crimes de tentativa de furto, porte de arma de fogo (esta última por de sentença oriunda do TJMG) tem o nome vinculado a diversos procedimentos investigatórios e judiciais relacionados ao outros, tais como lesões corporais danos (ID.8 1006114  dos autos do pedido de prisão temporária nº 0700232-49.2021.8.07.0006).
+A prisão também se justifica na segurança da aplicação da lei penal, já que ambos os indiciados se evadiram do distrito da culpa logo após o crime, sendo o corréu RAIMUNDO preso em flagrante em Planaltina-DF (pelo crime de porte de arma de fogo de uso permitido) e o correu SILKY, quando já estava no perímetro do estado de Minas Gerais  MG.
+O Tribunal local entendeu devidamente fundamentada a prisão, ante a periculosidade do paciente e o fato de haver se evadido do local do crime.
+De acordo com as informações existentes na página eletrônica do TJDFT, a prisão foi reavaliada e mantida em 14/7/2021 e a audiência de instrução e julgamento designada para 2/8/2021.
+II.Idoneidade da prisão preventiva
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+Apoiado nessa premissa, constato que são idôneos os motivos invocados para embasar a ordem de prisão, ao evidenciarem a gravidade concreta do delito e da periculosidade do recorrente, apontado como autor do crime de homicídio, "cometido mediante disparos de arma de fogo, em via pública, em plena luz do dia. em local de grande circulação de pessoas, por motivo fútil (discussão em um bar relacionada à conta) e com recurso que dificultou a defesa da vítima" (fl. 443, grifei).
+O STJ entende que omodus operandi(bem como suas circunstâncias) dos crimes - a revelar especial periculosidade -, pode justificar idoneamente a prisão preventiva. Confira-se:
+HABEAS CORPUS. HOMICÍDIO TRIPLAMENTE QUALIFICADO. OCULTAÇÃO DE CADÁVER. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO SUFICIENTE. ORDEM DENEGADA.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito, o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas, deve ser suficientemente motivada, com indicação concretra das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. O Juiz de primeira instância apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, ao salientar a gravidade extrema da conduta delitiva, cometida em uma cidade do interior - homicídio triplamente qualificado com ocultação de cadáver - e a periculosidade do réu - conhecido na comunidade por ser pessoa violenta, com posse irregular de arma de fogo em sua residência. Ademais, o Magistrado a quo ressaltou o risco à instrução criminal, em razão da pressão psicológica que o réu está exercendo sobre as testemunhas.
+3. Pelas mesmas razões, a adoção de medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+4. Habeas corpus denegado.
+(HC n. 526.299/GO, Rel. MinistroRogerio Schietti, 6ª T., DJe 2/12/2019)
+Ademais, a jurisprudência desta Corte Superior é firme em assinalar que,comprovada a condição de foragido do acusado, é válida a decretação de sua prisão preventiva para assegurar a aplicação da lei penal, situação ocorrida nos autos.
+Nesse sentido:
+ ..
+4. Não se pode desprezar também que, decretada a prisão preventiva do recorrente em 4/7/2017, o mandado de prisão não foi cumprido até o presente momento, tanto que a intimação da sentença deu-se de forma editalícia, encontrando-se o réu em local incerto e não sabido,sendo certo que, nos termos da jurisprudência desta Quinta Turma, a fuga do distrito da culpa, comprovadamente demonstrada nos autos, constitui motivação suficiente a embasar a segregação cautelar com o fim de assegurara aplicação da lei penal.
+5. Recurso ordinário em habeas corpus desprovido.
+(RHC n. 75.464/SC, Rel. MinistroJorge Mussi, 5ª T., DJe 16/4/2018, grifei)
+Quanto às alegações de "excesso acusatório", bem como do questionamento acerca das provas contidas nos autos e da configuração da legítima defesa, saliento a impossibilidade de conhecimento de tais matérias, haja vista a necessidade de dilação probatória, providência inviável na via estreita do habeas corpus.
+Ademais, saliento que a arguição de nulidade por cerceamento de defesa não foi conhecida pelo TJDFT, o que impede a sua análise, sob pena de indevida supressão de instância.
+III. Dispositivo
+À vista do exposto,conheço em parte do recurso e, nessa extensão, nego-lhe provimento.
+Publique-se e intimem-se.
