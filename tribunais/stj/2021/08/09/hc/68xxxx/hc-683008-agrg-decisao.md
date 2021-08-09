@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de petição, com estirpe de pedido de reconsideração, apresentada em favor de ALEX DONIZETE CAVALETTI,contra decisão de fls. 114/115, que indeferiu liminarmente o presentehabeas corpus,nos termos do art. 21, XIII, "c", c/c o art. 210 do Regimento Interno do Superior Tribunal de Justiça.
+Nos termos da jurisprudência desta Corte Superior, o pedido de reconsideração pode ser recebido como agravo regimental, ante o princípio da fungibilidade recursal, desde que apresentado no prazo legal, como ocorreu no caso dos autos.
+Assim, tendo em vista as razões lançadas na petição de fls. 118/120, conheço do pedido de reconsideração como agravo regimental e determino a vista ao "recorrente para, no prazo de 5 (cinco) dias, complementar as razões recursais, de modo a ajustá-las às exigências do art. 1.021, § 1º", aplicando-se, mutatis mutandis, o § 3º do art. 1.024 do Código de Processo Civil.
+Após, distribua-se o agravo regimental, nos termos do art. 21-E, § 2º, do Regimento Interno do Superior Tribunal de Justiça.
