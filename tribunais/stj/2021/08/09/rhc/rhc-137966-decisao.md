@@ -1,0 +1,3 @@
+DECISÃO
+Levando-se em consideração as informações prestadas às fls. 439-454, que noticiam a superveniência de decisão de pronúncia, fica sem objeto este recurso ordinário, o qual se voltava contra possível excesso de prazo para conclusão da instrução criminal. De fato, "a alegação de excesso de prazo para o encerramento da instrução fica superada pela superveniência da sentença de pronúncia, nos termos do enunciado n. 21 da Súmula do Superior Tribunal de Justiça" (RHC n. 138. 585/RJ, Rel. Ministro Joel Ilan Paciornik, DJe 24/6/2021). Assim, com fundamento no art. 34, XI, do RISTJ, julgo prejudicado este recurso em habeas corpus.
+Publique-se e intimem-se.
