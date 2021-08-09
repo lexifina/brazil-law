@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. DÍVIDA NÃO TRIBUTÁRIA. INDEFERIMENTO DE PROVAS. DESNECESSÁRIAS PARA O DESLINDE DA CONTROVÉRSIA. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA.FALTA DE ALEGAÇÃO DE NULIDADE DO ACÓRDÃO POR OFENSA AO ART. 1022 DO CPC/2015. AUSÊNCIA DE PREQUESTIONAMENTO. INAFASTÁVEL A INCIDÊNCIA DAS SÚMULAS 211/STJ E 282/STF. AGRAVO EM RECURSO ESPECIAL DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão queinadmitiu o recurso especial interposto pela SABARÁLCOOL S/A AÇÚCAR E ÁLCOOL,com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurgecontra acórdão proferido pelo TRF4, assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. DÍVIDA NÃO TRIBUTÁRIA. PROCESSUAL CIVIL. IMPUGNAÇÃO DE DECISÃO INTERLOCUTÓRIA. ART. 1.009, § 1º DO CPC. INDEFERIMENTO DE PROVAS. DESNECESSÁRIAS PARA O DESLINDE DA CONTROVÉRSIA. INOCORRÊNCIA DE CERCEAMENTO DE DEFESA. MULTA IMPOSTA PELA ANP. RESOLUÇÃO 26/2012. LEI 9.847/99. INFRAÇÃO CONFIGURADA. ADVERTÊNCIA. IMPOSSIBILIDADE. MULTA APLICADA EM VALOR MÍNIMO. MULTA MORATÓRIA. EFEITO CONFISCATÓRIO. INEXISTÊNCIA. DESPROVIMENTO (fls. 472).
+2. Nas razões do seu recurso especial (fls. 523/535), a parte agravante sustenta violação do art. 204 do CTN, argumentando, para tanto, que houve cerceamento de defesa quanto ao pedido de produção de prova testemunhal.
+3. Devidamente intimada,a parte agravadaapresentou as contrarrazões recursais (fls. 542/543).
+4. Sobreveio o juízo negativo de admissibilidade negativo (fls. 546/548), fundada na aplicação do óbice das Súmulas 282 e 356 do STF e 211/STJ, razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+5.É o relatório.
+6. A irresignação não merece prosperar.
+7. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+8. Ressalte-se que a parte agravante mesmo tendo oposto os embargos declaratórios, não alegou a violação do art. 1.022 do CPC/2015, único meio pelo qual seria possível a anulação do acórdão e retorno dos autos à Corte de origem para que a apreciação efetiva do ponto omisso, para que após o preenchimento do requisito do prequestionamento, poderia ser a legalidade apreciada por este STJ, em sede de Recurso Especial.
+9. Assim, a alegação de violação doart. 204 do CTN não estáa comportar cognição, porquanto omencionadodispositivonão foiobjeto de debate pelo Tribunal de origem, impondo-se o não conhecimento do Recurso Especial, por ausência de prequestionamento.
+10.Inafastável,portanto, a incidência dasSúmulas 211/STJ e 282/STF, talcomo constou da decisão agravada.
+11. Em face do exposto, negoprovimento ao Agravo em Recurso Especial da EMPRESA.
+12.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+13. Publique-se. Intimações necessárias.
