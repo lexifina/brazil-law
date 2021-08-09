@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. AÇÃO ORDINÁRIA DE INDENIZAÇÃO EM FASE DE LIQUIDAÇÃO DE SENTENÇA. ACÓRDÃO ILÍQUIDO.LIQUIDAÇÃO POR ARBITRAMENTO NOS LIMITES DA LIDE.PARÂMETROS PARA A REALIZAÇÃO DA PERÍCIA CONTÁBIL QUE DEVEM OBSERVAR OS PEDIDOS INICIAIS E SUA IMPUGNAÇÃO EM CONTESTAÇÃO. FATOS INCONTROVERSOS. RESPEITO AOS PRINCÍPIOS DA ADSTRIÇÃO E DA IMPUGNAÇÃO ESPECÍFICA DOS FATOS. DECISÃO REFORMADA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+A Companhia Paranaense de Energia alega, em síntese:
+(..)
+Em maio de 2014, veio aos autos laudo pericial da Liquidação de Sentença - produzido sem que o Perito (um geólogo) realizasse qualquer verificação dos dados mencionados na fase ordinária no processo - terminando por quantificar em cerca de 160 MILHÕES DE REAIS a indenização devida à Extração de Areia Zucchi. Para se ter uma dimensão de grandeza, essa quantia, devidamente atualizada, equivale ao custo de implantação de um parque eólico de 90MW de potência; ou de uma linha de transmissão de 500 kV capaz de ligar, por exemplo, as cidades de Curitiba e Blumenau.
+(..)
+O Perito da fase de Liquidação, repita-se, NÃO REALIZOU QUALQUER APURAÇÃO TÉCNICA A FIM DE CONFIRMAR DOS DADOS QUE HAVIAM SIDO TRAZIDOS AOS AUTOS, DURANTE A FASE ORDINÁRIA DO PROCESSO. Apenas e tão somente "escolheu", dentre as várias quantidades de volume e preço referidos na fase ordinária, aquelas capazes de atribuir o maior valor indenizatório à mineradora.
+(..)
+Ao rejeitar os Embargos de Declaração, contudo, o Eg. TJPR não supriu as omissões e a contradição constantes em sua decisão. Daí porque o v. Acórdão, por meio do qual se rejeitaram os Embargos, merece ser anulado, por ofensa a regra do artigo 1.022, II do CPC/2015.
+(..)
+No que tange à impugnação apresentada pela COPEL quanto volume de extração de areia admitido pelo Perito geólogo (qual seja: 180 m3 por dia), entendeu o TJPR que somente o argumento sucessivamente apresentado pela COPEL no Agravo deveria ser acolhido - qual seja, de que tal quantidade não poderia ultrapassar aquela que havia sido indicada na inicial, sob pena de violação ao princípio da congruência.
+O Agravo de Instrumento, portanto, foi só parcialmente provido, para se limitar o volume de extração de areia aos 120m3 diários, que a mineradora havia indicado no início do processo.
+Ocorre que, com todo o respeito, o primeiro fundamento invocado pela COPEL no Agravo quanto à questão da volumetria era ainda mais sério e não poderia ter sido superado pelo v. Acórdão. Ele se refere à inidoneidade do volume indicado no laudo pericial, já que não decorre que qualquer estudo técnico que o Perito geólogo tenha produzido.
+Com efeito, e como consta expressamente do Acórdão recorrido, o Perito da Liquidação de Sentença expressamente admitiu que, "na dificuldade dedeterminar o potencial de extração diário anterior ao ano de 1994, mantive o resultado apontado pelo autor, ou seja, de 180 m 3 /dia." 8 Quer dizer: o volume de 180m3/dia, confessadamente, é apenas a reprodução de um dado que já constava nos autos, dentre muitos outros - e cuja incerteza havia ensejado a determinação, pelo Acórdão liquidando, de que os danos fossem quantificados em Liquidação por Arbitramento.
+Ocorre que, com todo o respeito, se o v. Acórdão expressamente determinou que o volume a ser considerado no cálculo da indenização fosse apurado em Liquidação de Sentença, não faz qualquer sentido que o Perito dessa fase, simplesmente, reproduza um dado que já constava do processo, sem realizar qualquer apuração técnica capaz de confirmá-lo (ou infirmá-lo).
+(..)
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 27.7.2021.
+O Tribunal de origem, ao decidir avexata quaestio,consignou:
+(..)
+Verifica-se que, diante dos diversos quantitativos trazidos aos autos durante a fase de conhecimento determinou-se que a questão fosse dirimida em fase de liquidação de sentença por arbitramento, nos termos do Código de Processo Civil de 1973, alterado, neste ponto, pela Lei nº 11.232/2005.
+Iniciada a fase de liquidação de sentença, o perito geólogo apurou potencial de produção diário no quantitativo de 180m (mov. 1.135-1º grau), vejamos resposta ao quesito da Agravante:
+(..)
+Assim, como a perícia verificou a possibilidade de produção de 180m , e estando o pedido efetuadopelo Autor dentro deste parâmetro, o pagamento da indenização deve ficar limitado a este quantitativo pugnado pelo Autor em sua petição inicial, qual seja, 120m , em razão do princípio da adstrição.
+(..)
+No trecho da inicial acima colacionado efetivamente se verifica o pedido do pagamento da indenização com base no valor de extração no montante de R$25,00/m , fato que restou incontroverso ante a 3 ausência de impugnação da matéria em sede de contestação (mov. 1.4-1º grau), em ofensa ao princípiode eventualidade pela Ré.
+Desta feita, estando o valor dentro de média de mercado, conforme informado pelo Sr. Perito, e em razão da não impugnação pela Ré em momento oportuno com relação ao valor de extração de areia praticado pela Autora, em flagrante descumprimento ao princípio da impugnação específica dos fatos, este deve ser o utilizado no decorrer do processo, inclusive na presente fase de liquidação de sentença.
+Por tal razão, agravo não merece provimento neste ponto, mantendo-se a decisão agravada.
+E, por fim, quanto ao período fixado para o cálculo da indenização, fixado como termo inicial janeiro de 1994 e termo final dezembro de 2007, tem-se na fundamentação do acórdão que julgou procedentes os pedidos iniciais que "Então, presentes elementos objetivo periciais e documentos sobre a regularidade da empresa, cumpre afastar o decreto improcedencial para assim reconhecê-la desde , quando aprovada a tramitação das licenças junto ao DNPM." final do exercício de 1994 Em que pese a decisão agravada tenha reconhecido como o período a ser indenizado pela Agravante como termo inicial o mês de janeiro de 1994 e o termo final o mês de dezembro de 2007 (mov. 1.151-1º grau), esta merece reforma em ambos os parâmetros.
+Quanto ao termo inicial fixado, janeiro de 1994, a decisão não está de acordo com o acórdão que reconheceu o dever de indenizar, vez que este determinou que o dever de indenizar se dá desde o final de 1994.
+Da análise dos documentos apresentados pela Autora, tem-se que o pedido da concessão da licença junto ao DNMP (mov. 1.1, pg. 51-1º grau) se deu em 07/12/1994, devendo ser esta a data considerada como termo inicial para o cálculo da indenização a ser paga à Agravada, nos exatos termos em que fora determinado no acórdão que reconheceu a procedência dos pedidos iniciais da Autora.
+Já quanto ao termo final fixado, dezembro de 2007, igualmente merece reforma a decisão agravada, isto porque de acordo com os pedidos iniciais formulados pela Autora, o período a que pretende ser indenizada, limita-se ao período de 5 anos, conforme trecho da petição inicial acima colacionado, em respeito ao princípio da adstrição anteriormente tratado na fundamentação deste acórdão com relação ao quantitativo diário de extração.
+Assim, assiste razão à Agravante neste tópico a justificar a alteração da decisão agravada no ponto impugnado.
+(..)
+Preliminarmente, constata-se que não se configurou ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil, uma vez que o Tribunal a quo julgou integralmente a lide e solucionou a controvérsia, manifestando-se de forma clara quanto à base de cálculo utilizada para a apuração doquantumdevido a título de indenização. Assim, não há vícios de omissão ou contradição, pois a Corte de origem apreciou e decidiu, fundamentadamente, todas as questões postas ao seu crivo, não cabendo falar em negativa de prestação jurisdicional.
+Outrossim, extrai-se do acórdão vergastado e das razões de Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático probatório, especialmente do que consta de título executivo e de laudos periciais produzidos, o que não se admite ante o óbice da Súmula 7/STJ.
+Por tudo isso, conheço do Agravo para conhecer parcialmente do Recurso Especial, tão somente quanto à violação do art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
