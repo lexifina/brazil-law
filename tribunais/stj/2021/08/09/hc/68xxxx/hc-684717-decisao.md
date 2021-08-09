@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Roger Ryan Avelino de Paula contra ato coator proferido pelaDécima Quinta Câmara Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Processo n.1502724-58.2020.8.26.0047, deu provimento em parte ao recurso para fixar o regime semiaberto, mantendo a condenação à pena de3 anos, 10 meses e 20 dias de reclusão, e 388dias-multa, à razão mínima, pela prática de conduta descritano art. 33, § 4º, da Lei n.11.343/2006.
+O impetrante alega, em síntese, que deve ser cassada a aplicação da agravantedo art. 61, II,j, do Código Penal, pois não existe nexo causal entre a conduta e a calamidade pública causada pela pandemia de Covid-19.
+Sustenta ser aplicável a causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006, haja vista a pequena quantidade de droga apreendida, sendo cabível, ainda, a substituição da pena privativa de liberdade por restritiva de direitos.
+Pede, em caráter liminar e no mérito, a retificação da pena (fls. 3/11).
+É o relatório.
+A concessão de ordem de habeas corpus demanda demonstração, de plano, da ilegalidade, ônus que recai sobre o impetrante, a quem cumpre instruir o feito com a prova pré-constituída de suas alegações.
+In casu, verifico, de plano,a viabilidade do presente writ.
+Em relação à agravante do art. 61, II,j, do Código Penal, o Juízo de piso fixou a pena nos seguintes termos (fls. 19/20):
+Na segunda fase reconheço a agravante do art. 61, II, "j", do Código Penal, eis que o crime foi cometido durante o estado de calamidade pública causado pela pandemia de Coronavírus que irá durar até 31/12/2020, conforme reconhecido pelo Decreto Legislativo nº 6 de 20/03/2020. O réu faz jus à atenuante da menoridade relativa, pois tinha menos de 21 anos quandodo crime. Compenso uma pela outra e mantenho a pena no mesmo patamar
+Em apelação, o Tribunal local manteve a dosimetria no ponto (fl. 30):
+Na segunda etapa, o juiz sentenciante compensou a agravante do art. 61, II, "j", do Código Penal, eis que o crime foi cometido durante o estado de calamidade pública causado pela pandemia do Coronavírus, com a atenuante da menoridade relativa, pois o réu tinha menos de 21 anos quando do crime, mantendo-se, portanto, a pena inalterada.
+Nos termos do decidido pelo Superior Tribunal de Justiça, a incidência da agravante do art, 61, II,j, do Código Penal, exige demonstração concreta de que o agente se valeu do contexto de pandemia para prática do delito(HC n. 654.255/SP,de minha relatoria, SextaTurma,DJe 7/6/2021).
+No presente caso, verifico que as instâncias locais aplicaram a agravante de modo objetivo, sem fundamentar de modo concreto as razões pelas quais a agravante incide no caso.
+Configurado o constrangimento ilegal, necessário afastar a incidência da agravante.
+Em relação à causa de diminuição da pena, consta da sentença o seguinte (fls. 20/21):
+Levando-se a pequena quantidade de droga apreendida e a espécie de droga, a pena deve ser diminuída em 1/3 (um terço) e atinge o montante de 03 (três) anos e 10 (dez) meses e 20 (vinte) dias de reclusão e pagamento de 388(trezentos e oitenta e oito) dias-multa, cada qual no mínimo legal, em face da situação de desemprego, valor que deverá ser atualizado monetariamente até o efetivo pagamento, de acordo com o art. 49,caput, e § 2º c/c o art. 60,caput, ambos do Código Penal.
+Ao julgar a apelação, o Tribunal também manteve o patamar de diminuição aos seguintes termos (fl. 30):
+Na terceira fase da dosimetria, entendeu que deveria ser aplicada a redução de pena prevista no art. 33, §4º, da Lei 11.343/06, diante da ausência de maus antecedentes e de indícios de que se dedique a atividades criminosas e integre organização ilícita. Assim, levando em consideração a pequena quantidade de droga apreendida e a espécie de droga, foi a pena foi diminuída em 1/3 (um terço)resultando em 03 (três) anos e 10 (dez) meses e 20 (vinte) dias de reclusão e pagamento de 388 dias-multa.
+Apesar do pleito defensivo, entendo que nenhum reparo merece ser feito no quantum aplicado pelo juiz sentenciante, considerando a quantidade de droga apreendida, como bem fundamentado.
+Registre-se que consoante entendimento jurisprudencial do Superior Tribunal de Justiça, a quantidade, a natureza e a variedades das drogas podem ser utilizadas como elementos norteadores para embasar o percentual de redução nos casos de reconhecimento da figura do tráfico privilegiado (AgRg no HC 393.894/SP, Rel. Ministro Reynaldo Soares Da Fonseca, Quinta Turma, Julgado em 19/04/2018, DJe 30/04/2018).
+A jurisprudência do Superior Tribunal de Justiça admite a utilização da quantidade e da variedadede drogas para fins de fixação da pena, nos termos do art. 42 da Lei n. 11.343/2006, seja na primeira fase, exasperando pena base, seja na terceira fase, modulando a causa de diminuição do § 4º do art. 33 da Lei de Drogas eventualmente aplicado no caso concreto(AgRg no HC n. 635.412/RS, Ministro NefiCordeiro, SextaTurma, DJe 5/3/2021).
+O caso concreto cuida da apreensão de 22,78 g de maconha e 2,88 g de crack (fl. 13), quantidades e espécies normais ao tipo, incapazes de indicar gravidade exacerbada. Necessário aplicar a mencionada causa de diminuição em 2/3.
+Assim, mantida a pena-base em 5 anos e 10 meses de reclusão e 583 dias-multa, com a incidência atenuante da menoridade relativaem 1/6;e, em seguida,da causa de diminuição do § 4º do art. 33 da Lei n. 11.343/2006 em 2/3, passa a pena definitiva a 1 ano e 8 meses de reclusão, em regime aberto e 166 dias-multa, nos termos do art. 33 do Código Penal.
+A pena privativa de liberdade deve ser substituída por restritivas de direitos a serem especificadas pelo Juízo da execução.
+Ante o exposto, concedo liminarmente a ordem para reduzir a pena do paciente a 1 ano e8 meses de reclusão, em regime aberto, e 166 dias-multa, à razão mínima,e substituí-la por restritivas de direitosa serem especificadas pelo Juízo da Execução Penal.
+Comunique-se.
+Intime-se o Ministério Público de São Paulo.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS (22,78 G DE MACONHA E 2,88 G DECRACK). FIXAÇÃO DA PENA-BASE. DOSIMETRIA DA PENA. ARTS. 59 E 68 DO CP. DOSIMETRIA. AGRAVANTES E ATENUANTES. ART. 61, II, J, DO CP. CALAMIDADE PÚBLICA. CONTEXTO DEPANDEMIA.CAUSA DE DIMINUIÇÃO DA PENA.ART. 33, § 4º, DA LEI N. 11.343/2006. QUANTIDADE DE ENTORPECENTE NORMAL À ESPÉCIE. PENA REDIMENSIONADA. REGIME ABERTO E SUBSTITUIÇÃO DA PENA CONCEDIDOS.
+Ordem concedida liminarmentenos termos do dispositivo.
