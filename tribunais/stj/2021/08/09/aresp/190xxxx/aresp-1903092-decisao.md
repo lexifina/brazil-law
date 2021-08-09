@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por ELIAQUIM SANTOS DOS REIS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim resumido:
+CONTRATO DE PROTEÇÃO VEICULAR. AÇÃO DE COBRANÇA JULGADA IMPROCEDENTE. HIPÓTESE EM QUE O RECORRENTE NÃO LITIGAVA SOB O BENEPLÁCITO DA JUSTIÇA GRATUITA. DECISÃO DE RECOLHIMENTO EM DOBRO DO PREPARO, NOS TERMOS DO ART. 1.007, § 4º, DO CPC, NÃO CUMPRIDA. HIPÓTESE, PORTANTO, EM QUE O PREPARO NÃO FOI RECOLHIDO REGULARMENTE, MESMO TENDO SIDO DADA OPORTUNIDADE PARA O RECORRENTE ASSIM PROCEDER. DESERÇÃO VERIFICADA. Recurso de apelação não conhecido, com determinação (fl. 254).
+Alega violação do art. 1007, § 2º, do CPC, no que concerne à impossibilidade de se declarar "deserto o recurso sem a concessão de prazo para complementação" (fl. 265). Traz os seguintes argumentos:
+Trata-se de falha insanável, uma vez que não houve intimação através do advogado para suprir a insuficiência do valor do preparo, nos termos do artigo 1007, parágrafo segundo do CPC.
+Uma vez que a falta da publicação para suprir a insuficiência do valor do preparo, tem-se configurada falha insanável, em grave prejuízo ao contraditório e à ampla defesa.
+ .. .
+Assim, a deserção só poderia ocorrer após intimação através do advogado para suprir a insuficiência do valor do preparo no prazo de 5 (cinco) dias, o que não ocorreu no presente caso (fl. 267).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a alegada violação do art. 1007, § 2º, do CPC não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
