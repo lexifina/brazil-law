@@ -1,0 +1,8 @@
+DECISÃO
+WELDER JOSÉCORREAalega sofrer coação ilegal em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+A impetrante assinala que o "sentenciado encontra-se na Penitenciáriade Alfenas-Mg, mesmo após a progressão", o que consubstancia ilegal constrangimento ao seu direito de locomoção, uma vez que "esta unidade não é adequada a receber presos no regime semiaberto""(fl. 7).Requer a colocação do reeducando em prisão domiciliar, nos termos da Súmula Vinculante n. 56.
+Decido.
+Não existe, nestes autos, cópia de acórdão proferido pelo Tribunal de Justiça a quo, com a prévia manifestação sobre a tese defensiva. Ao que parece, nem sequer o Juiz de primeiro grau foi provocado pela defesa.
+Assim, não se verifica a competência constitucional deste Superior Tribunal para o conhecimento do habeas corpus, em indevida supressão de duas instâncias, nem possibilidade de identificar, ante aausência de prévio acórdão estadual, patente ilegalidade praticada por membro de Tribunalpassível de correção, de ofício. Em um país de dimensões constitucionais como o Brasil, com mais de 900 mil presos, não se pode pretender que esta Corte Superior decida, diretamente, os incidentes da execução. Por expressa previsão legal, essa atribuição é do Juiz das Execuções, que deverá oportunizara manifestação do Ministério Público, como fiscal do cumprimento da pena, antes de decidir a questão.
+Aplica-se ao caso o entendimento de que: "Matéria não apreciada pelo Tribunal de origem não pode ser analisada diretamente nesta Corte Superior, sob pena de indevida supressão de instância" (HC 589.175/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 27/08/2020).
+À vista do exposto, não conheço do habeas corpus
