@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de pedido de reconsideração em face dadecisão, de minha lavra,que indeferiu o pedido de concessão de efeito suspensivo a recurso especial.
+Nestaoportunidade, a requerente repisa as razões já declinadas, destacando queapós o indeferimento da liminarsobreveio o exame de admissibilidade do recusoespecial na origem, circunstância queautoriza a apreciação do pedido, de forma ampla,por esta Corte Superior(fls. 488-507).
+Os requeridos, a seu turno, alertam para a perda de objeto do pedido, tendo em vistaque o recurso especial, o qual forainadmitido na origem,não desafiou a interposição derecurso pelos requerentes, sendo certificado o trânsito emjulgado da decisãoem 20/2/2020 (fls. 510-518).
+Por fim, a requerente esclarece, no ponto, que a certificação do trânsitodeu-se por equívoco patente do Tribunal local, razão por quejá peticionoupela"reabertura do prazo processual" com vistas àinterposição do respectivo agravo em recurso especial.
+Decido.
+2. Do que se apresenta dos autos, verifica-se que a requerente, sem infirmar as razões que ensejaram o indeferimento da concessão do efeito suspensivo pleiteado, cinge-se a reiterar o cabimento da medida, razão pela qual a decisão deve ser mantida por todos os seus fundamentos.
+Por sua vez, o argumento de que houve o exame da admissibilidade na origem em momento posterior não é capaz de alterar a fundamentação adotada, notadamente porquea decisão combatida, independentemente da inauguração da competência do STJ,consignoude maneiraexpressaa ausência de requisito para a concessão excepcional, frise-se, do pedido formulado.
+Veja-se(fls. 482-485):
+ ..
+2. A medida liminar não merece ser concedida.
+Com efeito, nos termos do § 5º do artigo 1.029 do NCPC (com as alterações promovidas pela Lei n. 13.256/2016), a competência do STJ para apreciar o pedido de concessão de efeito suspensivo a recurso especial instaura-se, em regra, após o exercício do juízo prévio de admissibilidade pelo Presidente ou Vice-Presidente do tribunal recorrido. Confira-se:
+ ..
+No caso em exame, a própria parte requerente esclarece que o recurso especial interposto em face do acórdão do Tribunal de Justiça do Estado de São Paulo sequer recebeu análise de sua admissibilidade, não tendo sido, nos termos expostos alhures, inaugurada a competência deste Superior Tribunal para análise e concessão da tutela requerida.
+Reitere-se que, na hipótese, o órgão judicante competente indeferiu o pleito suspensivo ao recurso especial interposto pela requerente.
+Por sua vez, não verifica, na hipótese, qualquer circunstância apta a ensejar, de forma excepcional, a apreciação do efeito suspensivo por esta colenda Corte.
+4. Ademais, a pretensão recursal, ao menos em estreito juízo de cognição sumária, ao contrário do que se alega, não revela contornos de manifesta procedência, considerando que a controvérsia foi decidida à luz das peculiaridades da demanda, em análise de agravo que reconheceu hipótese de abuso de direito e concedeu a medida em antecipação de tutela e, em tal contexto, eventual reforma do acórdão recorrido, demandaria o reexame das provas dos autos, juízo obstado pelas Súmulas 5 e 7 do STJ.
+5. Ante o exposto, no exame perfunctório cabível nos limites estreitos do presente pedido, não estando presentes a fumaça do bom direito e o perigo da demora, indefiro o pedido de tutela provisória.
+Consigne-se, por oportuno, que a requerenteformulou novo pedido detutela provisória, PET n. 14.372, distribuído à minha relatoria no último dia24/6/2021, onde informa que, emboratenha sido concedido pelo Tribunalde origem a reabertura doprazo para apresentação do competente agravo em recurso especial, adecisão da Corte local enfrentou a interposição de agravo interno pela ora requerida, apontando que o recurso sequer ascendeu a esta Corte.
+A propósito:
+ ..
+Em razão de tal vício, o c. Tribunal reconheceu a irregularidade nas intimações, cancelo ua certidão de decurso de prazo e devolveu o prazo às partes para eventual interposição de agravo em recurso especial.
+Devolvido o prazo, já foi interposto o competente agravo em recurso especial em que delineadas todas as razões pelas quais o recurso especial deve ter seu trânsito admitido, com posterior conhecimento e provimento, para que seja reformado or. acórdão estadual que ilegalmente deixou de aplicara técnica de julgamento ampliado a agravo de instrumento em que se discute tutela de evidência cujo deferimento culminou com o enfrentamento parcial e antecipado do próprio mérito da controvérsia.
+Todavia, contra a decisão que reconheceu a nulidade da publicação, cancelou a certidão de decurso de prazo e devolveu o prazo para a interposição de agravo em recurso especial, os requeridos, com o evidente e manifesto propósito de protelar a subida dos autos a este Superior Tribunal de Justiça, interpuseram agravo interno, ainda não apreciado.
+Daí porque os autos ainda se encontram perante o Tribunal de Justiça do Estado de São Paulo, o que não impede a inauguração da jurisdição da competência deste E. Superior Tribunal de Justiça, a quem, nos termos do art. 1.029, § 5º, I, do Código de Processo Civil e SúmulasSTFnº634e635, compete apreciar pedido de tutela de urgência voltado à atribuição de efeito suspensivo a recurso especial já submetido ao juízo de admissibilidade na origem. Configurada está, portanto, a competência desta Corte Superior para análise do presente pedido de tutela de urgência.
+3. Diante do exposto, indefiro o pedido de reconsideração formulado.
+Publiquem-se. Intimem-se. Após, arquivem-se de imediato.
