@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por LEAUTO TOKYO LTDA à decisão de fls. 661/662, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Observa-se, ainda, a tempestividade da presente insurgência, dada a publicação da decisão de sobre os embargos de declaração, no Diário da Justiça, em 15/04/2020, com início do prazo recursal apenas em 04/05/2020, dada a suspensão dos prazos em razão da pandemia provocada pela COVID-19 (Ato Normativo nº 8/2020 TJRJ), certo que os prazos foram suspensos no dia 14/05/2020 (doc. anexo) e retornaram no dia 01/06/2020, com termo final dia 10/06/2020, conforme se depreende do calendário expedido pelo Tribunal de Justiça do Rio de Janeiro. Vejamos: (fl. 665).
+ ..
+Eminente Presidente do Superior Tribunal de Justiça é insofismável que a divulgação das suspensões dos prazos pelo TJRJ é o meio hábil e ocorre por um órgão oficial da Justiça para informar a suspensão dos prazos processuais no Estado do Rio de Janeiro.
+Frise-se que a cada ato exarado pelo Presidente do Tribunal de Justiça do Rio de Janeiro acerca da suspensão dos prazos processuais, este está informando respectiva publicação, conforme se depreende no calendário acima (fl. 667).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial. o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+Conforme consignado na decisão ora embargada, no caso, o calendário e/ou mera relação de feriados juntados às fls. 565/567, sem o inteiro teor dos respectivos atos normativos, não têm o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
