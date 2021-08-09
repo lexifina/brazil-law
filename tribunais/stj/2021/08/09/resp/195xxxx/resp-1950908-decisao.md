@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por UNIMED NORDESTE RS SOCIEDADE COOP DE SERV MÉDICOS LTDA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"ADMINISTRATIVO. ANS. RESSARCIMENTO AO SUS. INCONSTITUCIONALIDADE AFASTADA. PRESCRIÇÃO QUINQUENAL. TABELA TUNEP. LEGALIDADE. SELIC. APLICAÇÃO. LEGALIDADE.
+1. O artigo 32 da Lei nº 9.656/98 já teve a sua constitucionalidade reconhecida pelo STF, por ocasião do julgamento da ADIn nº 1931.
+2. O dever de ressarcimento está previsto no artigo 32 da Lei n.º 9.656/98. Essa imposição deve ser aplicada aos contratos firmados antes da vigência dessa Lei.
+3. Não há nenhuma ilegalidade na Tabela Única Nacional de Equivalência de Procedimentos (TUNEP), tampouco enriquecimento sem causa do Estado, porquanto os valores nela fixados não representam qualquer violação aos limites mínimos e máximos trazidos pelo parágrafo 8º do artigo 32 da Lei nº 9.656/98.
+4. À cobrança de ressarcimento ao SUS, com fulcro no art. 32 da Lei nº 9.656/98, incide o prazo prescricional qüinqüenal previsto no Decreto nº 20.910/32 (diploma aplicável à prescrição das ações pessoais sem caráter punitivo que envolvam pessoas de direito público da Administração). Aplicação do princípio da isonomia para cobrança de créditos em favor ou contra a Administração Pública" (fl. 2.130e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 2.136/2.143e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. HIPÓTESES DE CABIMENTO. INOCORRÊNCIA. REDISCUSSÃO DA MATÉRIA DECIDIDA. IMPOSSIBILIDADE. PREQUESTIONAMENTO. DISCIPLINA DO ARTIGO 1.025 DO CÓDIGO DE PROCESSO CIVIL.
+1. São cabíveis embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade ou eliminar contradição; suprir omissão ou corrigir erro material, consoante dispõe o artigo 1.022 do Código de Processo Civil.
+2. Não se verifica a existência das hipóteses ensejadoras de embargos de declaração quando o embargante pretende apenas rediscutir matéria decidida, não atendendo ao propósito aperfeiçoador do julgado, mas revelando a intenção de modificá-lo, o que se admite apenas em casos excepcionais, quando é possível atribuir-lhes efeitos infringentes, após o devido contraditório (artigo 1.023, § 2º, do CPC).
+3. O prequestionamento de dispositivos legais e/ou constitucionais que não foram examinados expressamente no acórdão, encontra disciplina no artigo 1.025 do CPC, que estabelece que nele consideram-se incluídos os elementos suscitados pelo embargante, independentemente do acolhimento ou não dos embargos de declaração" (fl. 2.183e).
+Em seguida, diante da interposição de Recurso Especial pelo ora recorrente, esta Relatoria deu provimento à alegada ofensa ao art. 1.022 do CPC/2015 para anular o acórdão dos aclaratórios e determinar o retorno dos autos à origem para novo julgamento (fls. 2.252/2.256e).
+Sendo assim, o Tribunal a quo proferiu novo acórdão, acolhendo os embargos de declaração antes opostos, nos seguintes termos:
+"ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. CONTRADIÇÃO. OBSCURIDADE. OMISSÃO. EXISTÊNCIA. COMPLEMENTAÇÃO DO JULGADO. PREQUESTIONAMENTO.
+1. Os embargos de declaração constituem recurso interposto perante o magistrado ou colegiado prolator da decisão com o objetivo de suprimir omissão, contradição, obscuridade ou erro material no texto que possa dificultar a exata compreensão da manifestação judicial. E mesmo quando opostos com o objetivo de prequestionar matéria a ser versada em provável recurso extraordinário ou especial, devem atender aos pressupostos delineados no artigo 1.022 do CPC, pois não se prestam, por si só, para forçar o ingresso na instância superior, decorrendo, sua importância, justamente do conteúdo integrador da sentença ou do aresto impugnado.
+2. Providos aos embargos de declaração para suprir omissão e para agregar fundamentação sem, contudo, modificar o resultado do julgamento" (fl. 2.281e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente aponta violação ao art. 32, § 4º, da Lei 9.656/98, sustentando que "a LPS se trata de norma especial (§ 4º do art. 32 da Lei nº 9.656/98) que se sobrepõe ao comando geral (art. 37-A da Lei nº 10.522/2002)" (fl. 2.307e).
+Por fim, requer o provimento do Recurso Especial.
+Contrarrazões, a fls. .316/2.321e.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 2.334/2.336e).
+A irresignação não merece prosperar.
+No que diz respeito à legislação aplicável à hipótese, constou do acórdão que julgou os Embargos Declaratórios:
+"Na hipótese, o que se observa é que o juízo a quo determinou que até a data do vencimento do débito referente ao ressarcimento incidem os encargos legais da Lei nº 9.656/98, sendo que, vencido e não pago, o débito passa a se enquadrar na hipótese da Lei nº 10.522/2002.
+O art. 37-A da Lei 10.522/02, incluído pela Lei 11.941/09 dispõe que:
+Art. 37-A. Os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais. (Incluído pela Lei nº 11.941, de 2009)
+Com efeito, o art. 37-A da Lei 10.522/02 prevê expressamente que os créditos das autarquias e fundações públicas federais, de qualquer natureza, não pagos nos prazos previstos na legislação, serão acrescidos de juros e multa de mora, calculados nos termos e na forma da legislação aplicável aos tributos federais; o que legitima a aplicação da SELIC para atualização da dívida ativa não tributária cobrada pela ANS (art. 61, § 3º da Lei 9.430/96).
+Há, portanto, previsão legal para aplicação de juros e multa de mora na forma da legislação aplicável aos tributos federais.
+Assim sendo, rejeita-se o pedido da embargante, porquanto o diploma legal referido pela embargante é anterior ao advento do art. 37-A, da Lei 10.522/02 (incluído pela Lei 11.941/09), que unificou os critérios de atualização de créditos das autarquias e fundações. Portanto, incabível a aplicação do art. 32, § 4º, da Lei 9.656/96, já que se trata de critério de correção monetária claramente revogado por norma posterior" (fls. 2.287/2.288e).
+Do exposto, verifica-se que o Tribunal de origem não se manifestou acerca da tese de que a LPS é norma especial que deve prevalecer sobre a norma geral. Por essa razão, à falta do indispensável prequestionamento, não pode ser conhecido o Recurso Especial no ponto, incidindo o teor da Súmula 211 do STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição dos embargos declaratórios, não foi apreciado pelo Tribunal a quo").
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido" (STJ, AgInt no AREsp 1.172.051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe de 23/03/2018).
+Ademais, o art. 32, § 4º, da Lei 9.656/98, indicado como violado, possui a seguinte redação:
+"Art. 32. Serão ressarcidos pelas operadoras dos produtos de que tratam o inciso I e o § 1o do art. 1o desta Lei, de acordo com normas a serem definidas pela ANS, os serviços de atendimento à saúde previstos nos respectivos contratos, prestados a seus consumidores e respectivos dependentes, em instituições públicas ou privadas, conveniadas ou contratadas, integrantes do Sistema Único de Saúde - SUS.
+(..)
+§ 4o O ressarcimento não efetuado no prazo previsto no § 3o será cobrado com os seguintes acréscimos:
+I - juros de mora contados do mês seguinte ao do vencimento, à razão de um por cento ao mês ou fração;
+II - multa de mora de dez por cento".
+Deste modo, verifica-se que o referido preceito legal não possui comando normativo suficiente apto a sustentar a tese da recorrente quanto à especialidade da Lei de Planos de Saúde em relação à Lei 10.522/2002. Incide, no ponto, a Súmula 284/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC") e, considerando a sucumbência recíproca estabelecida pelas instâncias ordinárias, majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, devido ao advogado da parte recorrida, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015, sendo vedada a compensação, nos termos do § 14 do aludido dispositivo legal.
+I.
