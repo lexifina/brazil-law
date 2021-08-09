@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão,assim ementado(fls. 118/119):
+APELANTE 1: MONICA CRISTINA SLEDZ E RODRIGO RODRIGUES - TORTURAQUALIFICADA PELO RESULTADO DE LESÃO CORPORAL GRAVE, POR UMAVEZ; TORTURA, POR QUATRO VEZES, TORTURA MAJORADA PELOCOMETIMENTO EM FACE DE ADOLESCENTES, POR SEIS VEZES, EEXTORSÃO MAJORADA PELO CONCURSO DE PESSOAS E PELO USO DE ARMADE FOGO, POR ONZE VEZES- MÉRITO: ALEGAÇÃO DE INOCORRÊNCIA DETORTURA - ATOS DE VIOLÊNCIA QUE NÃO ULTRAPASSARAM O LIMITEEXIGIDO PARA CONFIGURAÇÃO DO CRIME HEDIONDO -IMPOSSIBILIDADE - MATERIALIDADE E AUTORIA DEVIDAMENTEPROVADOS - LAUDOS DE LESÕES CORPORAIS QUE APONTAM O USO DETORTURA - PALAVRAS DAS VÍTIMAS FIRMES E COERENTES - DEZ CASOSDE LESÃO LEVE E UM CASO DE LESÃO GRAVE - USO DE ARMA PRÓPRIA EDE ARMAS IMPRÓPRIAS (CORRENTE, CHAVE DE RODA, COPO, ETC), BEMCOMO DE AGRESSÕES CONSISTENTES EM SOCOS, TAPAS, CHUTES EAMEAÇAS - VÍTIMAS DETIDAS EM UMA SALA POR SUPOSTAMENTETEREM SE UTILIZADO DE COMANDAS FALSAS - AÇÕES PERPETRADASPELOS RÉUS TIVERAM COMO DESIDERATO A OBTENÇÃO DE VANTAGEMDEVIDA - DESCLASSIFICAÇÃO DO CRIME DE EXTORSÃO PARAEXERCÍCIO ARBITRÁRIO DAS PRÓPRIAS RAZÕES - DOSIMETRIA DA PENA- EXASPERAÇÃO DA CIRCUNSTÂNCIA DA CULPABILIDADE COM BASE EMOBSERVAÇÕES DIVERSAS DO FATO - AFASTAMENTO É DE RIGOR -RECONHECIMENTO DE PARTICIPAÇÃO DE MENOR IMPORTÂNCIA EMFAVOR DA RÉ MÔNICA - REPRIMENDAS REDIMENSADAS. APELO CONHECIDO E PARCIALMENTE PROVIDO.  ..
+Consta dos autos que o paciente foi condenado pela prática do delito previsto no art. 1º, I, "a" e §3º da Lei nº 9.455/97, art.1º, I, "a" da Lei nº 9.455/97, art.1º, I, "a" e §4º, II, da Lei nº 9.455/97 e art.158, §1º do Código Penal, a 17 anos, 11 meses e 16 dias de reclusão, em regime inicial fechado, além do pagamento de 33 dias-multa.
+Irresignado, a defesa interpôs o recurso de apelação, o qual foi provido para redimensionara pena imposta para 7 anos e 6 meses de reclusão, em regime inicial fechado e mais 25 dias de detenção.
+Oposto os embargos de declaração para sanar a omissão quanto ao regime prisional, estes foram acolhidos parcialmente.
+No presente writ, a impetrante alega a fundamentação inidônea para a fixação de regime inicial mais gravoso.
+Requer, assim, liminarmente e no mérito, a concessão da ordem a fim de que seja fixado o regime semiaberto para início de cumprimento de pena.
+As informações foram prestadas e o Ministério Público manifestou-se pela denegação da ordem.
+Sobre a fixação do regime prisional, assim consta na sentença (fl.101):
+h) Do Regime Inicial de Cumprimento da Pena:
+Levando-se em conta o tempo da pena privativa aplicada, fixo o regime fechado para o início do seu cumprimento, de acordo com o disposto no artigo 33, § 2º, do Código Penal.
+O Tribunal de origem, por sua vez, entendeu que(fls. 28/32):
+2) Do erro material na fixação do regime inicial de cumprimento de pena de Rodrigo Rodrigues Lima.
+Aduz a defesa que no tocante ao regime inicial de cumprimento de pena, haveria "..contradição entre a parte da decisão que vinculou a fixação do regime às regras do art. 33, §2º do CP com a indicação do regime fechado, pois a pena final estabelecida foi de 7 (sete) anos e 6 (seis) meses de reclusão, ou seja, pena afeta ao regime semiaberto, conforme regra do art." 33, §2º, alínea "b" do Código Penal."
+Tal qual bem apreendido pela Douta Procuradoria de Justiça, a ".. menção ao artigo 33, ." §2º trata-se mero erro material, que merece ser sanado, mas sem modificar o regime prisional".
+Com efeito, deve ser sanado o erro apontado, constando a passar como fundamento do regime inicialmente de cumprimento de pena o fechado o art. 33, §3º do CP, haja vista a exasperação da reprimenda realizada na fase do art. 59 do mesmo diploma.
+Vê-se que o regime mais gravoso foi fixado haja vista a exasperação da reprimenda realizada na fase do art. 59 do mesmo diploma.
+O § 3º do art. 33 do Código Penal determina que "a determinação do regime inicial de cumprimento da pena far-se-á com observância dos critérios previstos no art. 59 deste Código".
+Assim, presente circunstância judicial desfavorável, o que justificou a fixação da pena-base acima do mínimo legal, não há ilegalidade na fixação do regime prisional mais gravoso. A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PORTE DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA. FIXAÇÃO DE REGIME MAIS GRAVOSO. FUNDAMENTAÇÃO IDÔNEA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AGRAVO IMPROVIDO.
+1.Nos termos do art. 33, §§ 1º, 2º e 3º, do Código Penal, na fixação do regime inicial de cumprimento de pena, o julgador deverá observar a quantidade da reprimenda aplicada, bem como a eventual existência de circunstâncias judiciais desfavoráveis (art. 59 do Código Penal). Ademais, na esteira da jurisprudência desta Corte, admite-se a imposição de regime prisional mais gravoso do que aquele que permite a pena aplicada, quando apontados elementos fáticos demonstrativos da gravidade concreta do delito.
+2.Na hipótese, diante do quantum de pena definitivamente aplicada ao acusado, caberia a imposição do regime inicialmente aberto; no entanto, a presença de circunstância judicial desfavorável justifica a manutenção do regime imediatamente mais gravoso, no caso, o semiaberto.Precedentes.
+3. Agravo regimental a que se nega provimento (AgRg no HC 608.958/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/12/2020, DJe 07/12/2020).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
