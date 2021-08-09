@@ -1,0 +1,31 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por ROSAURA BANDEIRA ESPINOSA, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJfls. 40/43):
+PREVIDENCIÁRIO AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO EXECUÇÃO DE SENTENÇA AUSÊNCIA DE INTIMAÇÃO DO INSS PARA CUMPRIR ESPONTANEAMENTE O JULGADO IMPOSSIBILIDADE DE CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS NEGAR SEGUIMENTO.
+1. Não havendo intimação da autarquia previdenciária do retorno dos autos da instância superior para que possa, espontaneamente, cumprir o julgado e concordando com os cálculos apresentados pela parte exequente, indevida a condenação em honorários advocatícios.
+2. O prazo para manifestação do devedor só tem início com a intimação acerca da baixa dos autos, não ocorrendo de forma automática, logo após o trânsito em julgado da decisão.
+Defende, em síntese,que o acórdão proferido peloTRF4 contraria e nega vigência ao art. 85, §§ 1º, 3º e 7º, do Código de Processo Civil, bem como diverge do entendimento de outros tribunaisao decidir que não seriam devidos honorários em cumprimento de sentença em desfavor do INSS.
+Sem contrarrazões, o recurso especial foi admitido na origem(e-STJfls. 112/113).
+É o relatório.
+No caso, o acórdão recorrido entendeu que, não havendo intimação da autarquia previdenciária do retorno dos autos da instância superior para que pudesse, espontaneamente, cumprir o julgado e concordar com os cálculos apresentados pelaparte exequente, seria indevida a condenação em honorários advocatícios (fl. 40).
+No entanto, a recorrente se volta contra a decisão ao argumento de que são devidos honorários advocatícios pelo INSS em cumprimento de sentença, bem como ao fato de que é possível, considerando o entendimento deste Tribunal, a condenação de honorários em cima de honorários sem que isso se considere bis in idem, caso realizada em fases processuais diferentes (fls. 49/56).
+Nota-se que a assertiva do acórdão recorrido, qual seja, a necessidade de intimação do INSS para dar cumprimento à obrigação,não foi devidamente impugnada pela insurgentenas razões doespecial, o que, por si só, mantém incólume o acórdão combatido. Isso porque, conforme a orientação firmada por esta Corte Superior, ocumprimento de sentença não ocorre de forma automática, sendonecessária a intimação do devedor, na pessoa do seu representante,para o pagamento da dívida (AgInt no REsp 1.473.684/SC, de minha relatoria, julgado em 16/2/2017, DJe 23/2/2017; REsp 1.532.486/SC, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 9/6/2015, DJe 6/8/2015).
+A não impugnação específica de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. QUANTIA DE ATÉ 40 SALÁRIOS MÍNIMOS. IMPENHORABILIDADE. CADERNETA DE POUPANÇA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+III - É pacífico o entendimento no Superior Tribunal de Justiça no sentido de que a impenhorabilidade da quantia de até quarenta salários mínimos poupada alcança não somente a aplicação em caderneta de poupança, mas, também, a mantida em fundo de investimento, em conta-corrente ou guardada em papel-moeda, ressalvado eventual abuso, má-fé ou fraude.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido.
+(AgInt no REsp 1.858.456/RO, Rel. Min. REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 15/6/2020, DJe 18/6/2020).
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS ADVOCATÍCIOS. DIREITO AUTÔNOMO DE EXECUÇÃO. ASSISTÊNCIA JUDICIÁRIA GRATUITA. INCOMUNICABILIDADE. DESERÇÃO. SÚMULAS 182 E 187/STJ; 280 E 283/STF. APLICAÇÃO.
+1. O Recurso Especial pedindo a condenação do Estado em honorários advocatícios foi declarado deserto em virtude de a assistência judiciária gratuita não aproveitar aos causídicos. Houve impugnação ao despacho, sem, contudo, se comprovar o pagamento do preparo.
+2. O Superior Tribunal de Justiça entende que o benefício da gratuidade de justiça é direito personalíssimo e, portanto, intransferível ao procurador da parte, (REsp 903.400/SP, Rel. Min. Eliana Calmon, Segunda Turma, DJe 6.8.2008).
+3. A parte recorrente não realizou o devido preparo, mesmo após o indeferimento do pedido e a concessão do prazo de cinco dias para sua regularização. Dessa forma, não há como conhecer do Recurso Especial ante a ocorrência de deserção (Súmula 187/STJ).
+4. A fundamentação supra é apta, por si só, para manter o decisum combatido e não houve contraposição recursal sobre o ponto, aplica-se na espécie, por analogia, o óbice da Súmula 283/STF: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+5. Recurso Especial não conhecido.
+(REsp 1.814.349/RS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 19/11/2019, DJe 19/12/2019).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015, deixo de majorar os honorários advocatícios, tendo em vista que não houve prévia fixação de honorários sucumbenciais em desfavor da parte autora pela Corte de origem.
+Publique-se. Intimem-se.
