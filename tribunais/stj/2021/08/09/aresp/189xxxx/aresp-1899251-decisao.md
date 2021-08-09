@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado pela FUNDAÇÃO MUNICIPAL DE SAÚDE DE RIO CLARO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. NULIDADE DA CDA. INOCORRÊNCIA.
+I - Constitui ônus do contribuinte ilidir a presunção de liquidez e certeza da CDA.
+II - Desnecessidade de detalhamento do fato gerador. Indicação do processo administrativo ou do auto de infração que é suficiente para garantir a validade do título executivo. Precedentes.
+III - Agravo de instrumento provido.
+Alega violação do art. 2º, § 5º, da Lei n. 6.830/1980, no que concerne à nulidade da CDA, trazendo o(s) seguinte(s) argumento(s):
+Nota-se que a Recorrida não indica a origem da dívida, nos termos do artigo inciso III do §5º do artigo 2º da Lei em comento, se limitando a apresentar o demonstrativo de cálculo, o que configura inegável cerceamento ao direito de defesa da Recorrente.
+Não se discrimina ainda, na CDA, a forma de cálculo dos juros e multas referentes a cada competência, aplicando-se os percentuais sobre o total apurado, o que acarreta inegável violação ao disposto no inciso II do §5º do artigo 2º da Lei 6.830/80.
+Frisa-se que a apresentação de valores globais, conforme CDA constante dos autos da execução fiscal, não satisfaz os ditames da lei, configurando, ainda, inegável ofensa ao direito de defesa da Recorrente.
+Deste modo, ao dar provimento ao recurso de Agravo de Instrumento, o v. acórdão objeto do presente recurso encontra-se inequivocamente em descompasso com a lei federal nº. 6.830 de 22 de setembro de 1980, em especial ao artigo 5º, §2º, conforme exposto anteriormente, razão pela qual deve ser dado provimento ao presente recurso (fls. 486/487).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Do exame das CDAs verifica-se que os títulos, acompanhados do discriminativo do crédito, consignam os dados pertinentes à apuração do débito, com discriminação dos valores originários, dos juros e da multa, dos termos iniciais de contagem do débito, também indicando os dispositivos legais em que se funda a cobrança, de forma a possibilitar à executada a conferência dos valores cobrados, não se deparando hipótese de CDAs com informes incompreensíveis e restando devidamente observadas as exigências da lei.
+Ressalte-se que a lei não exige que a exequente discrimine detalhadamente quanto do débito corresponde a cada um dos tributos em determinada CDA, tudo permitindo a simples indicação do número do processo administrativo ou do auto de infração por meio do qual foi apurado o débito (fl. 443).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1º/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; e AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
