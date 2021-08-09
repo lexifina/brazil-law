@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por BIANCA PEREIRA DE SOUZA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS, proferido no julgamento do HC n. 5503367-63.2020.8.09.0000.
+Extrai-se dos autos que arecorrente foi presa em flagrante, convertidaem preventiva, e em 15/4/2019, foi condenada à pena de 7 anos, 3 meses e 15 dias de reclusão, em regime inicial fechado, pela prática de delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de entorpecentes), tendo sido negado o direito de recorrer em liberdade (fls. 24/38). Ofertado posterior pedido de substituição da custódia por prisão domiciliar, o pleito foi indeferido (fls. 52/60).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. PRISÃO PREVENTIVA. MÃE DE MENOR DE 12 (DOZE) ANOS. PLEITO DE SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. IMPOSSIBILIDADE. REINCIDÊNCIA ESPECÍFICA. Em 20/2/2018. nos autos do HC 143.641/SP (Rei. Ministro Ricardo Lewandowski, DJe 9/10/2018). a 2ª Turma do Supremo Tribunal Federal concedeu habeas corpus coletivo para determinar a substituição da prisão preventiva pela domiciliar de todas as mulheres presas,, gestantes, puérperas, ou mães de crianças e deficientes, excetuados os casos de: a) crimes praticados por elas mediante violência ou grave ameaça: b) crimes praticados contra seus descendentes ou c) situações excepcionalíssimas, devidamente fundamentadas. In casu, conquanto demonstrado ser a paciente mãe de criança menor de 12 anos, a reincidência específica inviabiliza a substituição da prisão preventiva pela domiciliar. situação que se insere nas hipóteses excepcionalíssimasa que se refere o julgado da Suprema Corte (STJ. HC 532700). ORDEM CONHECIDA E DENEGADA" (fl. 114).
+No presente recurso, alega que a negativa ao direito de apelar em liberdade carece de fundamentação idônea, pautada exclusivamente na gravidade abstrata do delito.
+Indica que a paciente é mãe de uma criança com 10 anos de idade, que depende de seus cuidados, razão pela qual defende ser o caso de concessão da prisão domiciliar, nos termos do art. 318-A do CPP.
+Aponta o risco de contaminação pela COVID-19, destacando a maior vulnerabilidade da população carcerária. Pondera que o delito imputado à paciente não engloba delito praticado mediante violência ou grave ameaça, circunstância que reforça a necessidade de substituição do regime da custódia pelo domiciliar.
+Requer, assim, a revogação da prisão preventiva, se for o caso mediante aplicação de medidas cautelares alternativas ao cárcere. Subsidiariamente,requer a concessão da prisão domiciliar.
+Indeferida a liminar (fls. 137/138) e prestadas as informações solicitadas (fls. 144/157 e 159/162), o Ministério Público Federal manifestou-se pelo provimento do recurso (fls. 197/198).
+É o relatório.
+Decido.
+O presente writ encontra-se prejudicado.
+Isso porque, em consulta ao site do Tribunal de origem, verifico que o recurso de apelação foi julgado, sendo interpostoRecurso Especial, o qual não foi admitido, ocorrendo o trânsitoem julgado em 14/7/2021 (Processo n. 0162859-67.2018.8.09.0175 e n. de origem 201801628593).
+Assim, não há como negar a perda superveniente do objeto deste habeas corpus, tendo em vista que a prisão da recorrente decorre agora de pena definitiva.
+Ante exposto, com fundamento no art. 34, XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
