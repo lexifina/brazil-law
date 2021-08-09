@@ -1,0 +1,35 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5002299-72.2020.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: TELEFONICA BRASIL S.A.
+RECORRIDO: MARCILEIA DASSIE NERY
+RELATOR(A
+):FELIPE LEITAO GOMES
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+VOTOS
+DR. FELIPE LEITÃO GOMES – RELATOR
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA:
+RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. DIREITO DO CONSUMIDOR. DIREITO CIVIL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E MORAIS. (1). ALEGA A AUTORA QUE LHE FOI OFERTADO POR REPRESENTANTE COMERCIAL DA REQUERIDA PLANO DE INTERNET DE 50MB POR R$49,90. INFORMA QUE APÓS A CONTRATAÇÃO PARA DOIS PONTOS, RECEBEU FATURAS COM VALORES SUPERIORES AO CONTRATADO. REQUEREU O CANCELAMENTO DOS CONTRATOS, TENDO QUE PAGAR MULTA DE RESCISÃO. (2). SENTENÇA. REJEITADA A PRELIMINAR DE ILEGITIMIDADE ATIVA. PEDIDO INICIAL JULGADO PARCIALMENTE PROCEDENTE PARA:
+“[...] a) RESCINDIR o contrato firmado pelas partes, sem a incidência de eventual multa, devendo a ré cancelar em seu sistema qualquer cobrança referente ao objeto destes autos. b) CONDENAR a requerida a restituir o valor de R$ 156,59 (cento e cinquenta e seis reais e vinte e nove centavos) referente ao as duas faturas pagas diminuído apenas o valor contratado, e R$ 757,94 (setecentos e cinquenta e sete reais e noventa e quatro centavos) da multa rescisória, devidamente atualizados com correção monetária a partir do efetivo prejuízo e com juros de mora a partir da citação. b) CONDENAR as requeridas, solidariamente, a reparar os danos morais sofridos pela parte autora no importe de R$ 2.000,00 (dois mil reais); valor este a ser corrigido a partir do arbitramento (inteligência da Súmula 362/STJ) e com juros moratórios a partir da citação. [...]”
+(3). RECURSO DA RÉ. ALEGA INEXISTÊNCIA DE ELEMENTOS QUE COMPROVEM O DANO MORAL. REQUER A IMPROCEDÊNCIA DOS PEDIDOS INICIAIS. SUBSIDIARIAMENTE, REQUER A REDUÇÃO DA CONDENAÇÃO EM DANO MORAL. (4). CONTRARRAZÕES DA PARTE AUTORA. PRELIMINAR DE INÉPCIA DO RECURSO. NO MÉRITO, PUGNA PELA MANUTENÇÃO DA R. SENTENÇA. (5). REJEITADA A PRELIMINAR. AUSÊNCIA DE PROVAS QUE ESCLAREÇAM E LEGITIMEM AS COBRANÇAS A MAIOR. CONTUDO, NO CASO DOS AUTOS, A PARTE RECORRIDA NÃO COMPROVA QUE A SITUAÇÃO EXPERIMENTADA EFETIVAMENTE TENHA LHE CAUSADO LESÃO EXTRAPATRIMONIAL INDENIZÁVEL, DE MODO QUE A NARRATIVA PODE SER CONSIDERADA APENAS COMO UM MERO ABORRECIMENTO DECORRENTE DOS CONTRATEMPOS DO COTIDIANO, DE MANEIRA QUE MERECE SER AFASTADA A CONDENAÇÃO DA RECORRENTE AO PAGAMENTO DE DANOS MORAIS. DANO MORAL NÃO CONFIGURADO. (6)
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. SENTENÇA DE PISO REFORMADA A FIM DE AFASTAR A CONDENAÇÃO DO RECORRENTE AO PAGAMENTO DE VERBA INDENIZATÓRIA FIXADA NO IMPORTE DE R$2.000,00 (DOIS MIL REAIS). QUANTO AOS DEMAIS PONTOS, SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. (7). SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS.
+É COMO VOTO.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
