@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de Agravo Interno, interposto por EMPRESA PÚBLICA DE TRANSPORTE E CIRCULAÇÃO S/A,contra decisão doPresidente desta Corte, mediante a qual, com fundamento nos arts. 21-E, V, e 253, parágrafo único, I, ambos do RISTJ, não conheceu do Agravo em Recurso Especial, porquanto não teria atacadoespecificamente um dos fundamentos da decisão agravada.
+De início, em atenção ao exposto na petiçãode fls. 642/645e, registro que, nos termos da jurisprudência desta Corte, as execuções individuais decorrentes de ação coletiva devem ser livremente distribuídas, razão pela qual não há como acolher o pedido de "redistribuição dos autos, por prevenção, para a Primeira Turma desta Egrégia Corte, e Relatoria do Insígne Ministro Benedito Gonçalves" (fl. 643e).
+No mais, em juízo de retratação, consoante o disposto no § 2º do art. 1.021 do Código de Processo Civil de 2015, verifica-se o desacerto da decisão.
+Com efeito, analisando detidamente os autos, notadamente a fls. 238/239e, observa-se que a parte agravante impugnou, especificamente, o fundamento tido por inatacado pelo decisum ora agravado, razão pela qual de rigor sua reconsideração, a fim de que, oportunamente, o recurso seja novamente analisado.
+Posto isso, ante a relevância dos argumentos deduzidos, bem assim pela conveniência de análise do recurso pelo Órgão Julgador colegiado, reconsidero a decisão de fls. 621/623e e determinooretornodosautosà conclusão, para novo julgamento. Indefiroo pedido formulado a fl.643e.
+I.
