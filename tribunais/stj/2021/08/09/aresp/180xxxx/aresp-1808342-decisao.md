@@ -1,0 +1,72 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por AUGUSTA E RESPEITAVEL LOJA MAÇONICA FORÇA DE UNIÃO Nº 141 contra decisão do Tribunal de Justiça do Rio de Janeiro que não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. LOCAÇÃO NÃO RESIDENCIAL. AÇÃO DE DESPEJO. IRRESIGNAÇÃO DO LOCATÁRIO. LEGITIMIDADE ATIVA DO AUTOR/APELADO QUE FIGUROU NO CONTRATO COMO LOCADOR DO IMÓVEL. TERRENO DE MARINHA. COMPETÊNCIA DA JUSTIÇA ESTADUAL, PELA PRESENÇA DE INTERESSE DE PARTICULARES, SEM A PARTICIPAÇÃO DA UNIÃO FEDERAL. CERCEAMENTO DE DEFESA NÃO CONFIGURADO. PROVA PERICIAL DE ENGENHARIA QUE SE REVELA PROCRASTINATÓRIA, EM RAZÃO DA RENÚNCIA AO DIREITO DE INDENIZAÇÃO DAS BENFEITORIAS PELO LOCATÁRIO. ARTIGO 35 DA LEI 8.245/91. INCABÍVEL A SUSPENSÃO DO PROCESSO, COM FUNDAMENTO NO ARTIGO 313, V, A, DO CPC/2015, PORQUANTO A AÇÃO DE Nº 0006401-24.2007.8.19.0209, ENVOLVE PARTES E IMÓVEL DISTINTOS. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais:artigos 1.022, I e II, 489, § 1º, II e III, 490, 17 e 485, VI, 313, V, "a", do Código de Processo Civil;35 da Lei 8.245/91, 96 parágrafos 2º e 3º, 828, I, e 884, do Código Civil.
+Sustenta que, embora opostos os embargos de declaração, o Tribunal de origem fora omisso sobre as questões formuladas e os dispositivos legais invocados.
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese, que houve cerceamento de defesa, pois hánecessidade de prova pericial para apurar a indenizaçãodas benfeitorias realizadas no imóvel. Afirma a ilegitimidade ativa do recorrido. Defende a necessidade de suspensão do feito, considerando a existência de processos conexos.
+É o relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+No tocante à suposta violação aos arts. 489 e 1.022 do Código de Processo Civil, vislumbra-se a não ocorrência de nulidade por omissão, obscuridade, ou contradição, tampouco de negativa de prestação jurisdicional. Não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 11, 489, 1.022 DO CPC/2015. AUSÊNCIA DE VIOLAÇÃO.SUFICIÊNCIA NA FUNDAMENTAÇÃO. CONCLUSÃO DO ACÓRDÃO PELO INDEFERIMENTO DO PEDIDO DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. ANÁLISE BASEADA NAS CIRCUNSTÂNCIAS FÁTICO-PROBATÓRIAS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alegação de ofensa aos arts. 11, 489, 926, 927 e 1.022 do CPC/2015 não ficou configurada, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões que foram submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que tenha decidido em sentido contrário à pretensão da recorrente.
+2. A modificação da conclusão delineada no acórdão estadual - acerca da circunstância fática relativa à impossibilidade da desconsideração da personalidade jurídica - demandaria necessariamente o revolvimento dos fatos e das provas dos autos, permanecendo, incólume, o óbice da Súmula 7/STJ.
+3. Agravo interno improvido.
+(AgInt nos EDcl no AREsp 1547208/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/12/2019, DJe 19/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - EMBARGOS À EXECUÇÃO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA EMBARGADA.
+1. As questões trazidas à discussão foram dirimidas pelo órgão julgador de forma suficientemente ampla, fundamentada e sem omissões ou contradições, portanto, inexiste a alegada violação ao artigo 1.022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota para a resolução da causa fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta, como ocorre na hipótese. Precedentes.
+2. A análise dos fundamentos que ensejaram o reconhecimento da iliquidez, incerteza e inexigibilidade do título que embasa a execução, exige o reexame probatório dos autos, procedimento inviável por esta via especial, ante o óbice da Súmula 7/STJ. 3. Nos termos do artigo 85, § 11, do CPC/15, "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal", motivo pelo qual adequada a majoração realizada nesta Corte Superior em virtude da negativa de provimento do recurso.
+4. Agravo interno desprovido.(AgInt no AREsp 1439733/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 20/05/2019, DJe 22/05/2019)
+Ao analisar os elementos de informação acostados aos autos, a Corte estadual assim decidiu em relação à legitimidade ativa:
+De partida, registro que a legitimidade ad causam é verificada sob o aspecto abstrato, tomando-se por verdadeiras as assertivas do demandante em sua petição inicial. Logo, a análise quanto à legitimidade da parte deve ter em vista a relação jurídica afirmada pelo demandante, sendo certo que os fatos constitutivos do direito invocado adentram ao próprio mérito da causa, à luz da Teoria da Asserção.
+Nesse sentido, considerando que a parte autora/apelada é a locadora do imóvel, nos termos do contrato firmado entre as partes, index. 09, dúvidas não há sobre a sua legitimidade para figurar no polo ativo da presente demanda, sendo irrelevante eventual transferência do bem para terceiro, notadamente, porque não se discute quem seria o destinatário dos alugueres, tendo havido mero pedido de desocupação do imóvel.
+Assim, não há falar em conhecer do recurso, tendo em vista a conclusão irretorquível do acórdão que, com base nos conjunto fático-probatório presentes nos autos, reconheceu a legitimidade ativa do autor.Conclusão esta insindicável por esta Corte Superior ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE DEU PARCIAL PROVIMENTO AO RECLAMO DA ORA AGRAVANTE.IRRESIGNAÇÃO DA DEMANDADA.
+1. ..
+2. A alteração do entendimento sedimentado nas instâncias ordinárias acerca da legitimidade ativa, da ora agravada, demandaria o revolvimento dos elementos de fatos e reexame de provas, providência vedada em sede de recurso especial, a teor da Súmula 7 do STJ.
+3.  ..
+5. Agravo interno desprovido.(AgInt no REsp 1730605/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO SECURITÁRIA. VÍCIOS NA CONSTRUÇÃO DO IMÓVEL. 1. ANÁLISE DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF.2. NEGATIVA DE PRESTAÇÃO JURISDICIONAL E FALTA DE FUNDAMENTAÇÃO NÃO CONFIGURADAS. 3. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 4. ILEGITIMIDADE ATIVA DO AGRAVANTE.REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. 5. INVERSÃO DO ÔNUS DA PROVA. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. 6.DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 7. AGRAVO IMPROVIDO.
+1.  ..
+4. A revisão das conclusões estaduais (acerca da legitimidade ativa do ora agravante) demandaria, necessariamente, a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências vedadas na via estreita do recurso especial, ante os óbices dispostos nas Súmulas 5 e 7/STJ.
+5.  ..
+7. Agravo interno a que se nega provimento.(AgInt no AREsp 1482787/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 14/10/2019, DJe 22/10/2019)
+Consoante a jurisprudência do Superior Tribunal de Justiça, o julgamento da causa sem a produção da prova solicitada pela parte quando devidamente demonstrado, pelas instâncias de origem, que o feito se encontrava suficientemente instruído, afirmando-se a presença de dados bastantes à formação do convencimento, não configura cerceamento de defesa.
+Diante disso, mostra-se importante verificar as conclusões do Tribunal estadual acerca do tema:
+No mais, não se cogita do cerceamento de defesa afirmado pelo recorrente. Isso porque se revela procrastinatória a prova de engenharia para aferir as benfeitorias realizadas no imóvel, uma vez que o próprio contrato de locação previu a renúncia ao direito de retenção, indenização ou compensação das mesmas. (e-STJ fl. 370)
+Insta salientar que o princípio da persuasão racional ou da livre convicção motivada do juiz consigna caber ao magistrado apreciar livremente a prova, atendendo aos fatos e circunstâncias constantes dos autos, conferindo, fundamentadamente, a cada um desses elementos a sua devida valoração.
+De fato, a produção probatória se destina ao convencimento do julgador e, sendo assim, pode o juiz rejeitar a produção de determinadas provas, em virtude da irrelevância para a formação de sua convicção.
+A propósito, confiram-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO RESCISÓRIA. EXCEPCIONALIDADE. HIPÓTESES. TAXATIVIDADE. EXAURIMENTO DE INSTÂNCIA. PRESCINDIBILIDADE. ART. 485, V, DO CPC/73. LITERAL VIOLAÇÃO DE DISPOSITIVO LEGAL. INDICAÇÃO DA NORMA VIOLADA. ÔNUS DO AUTOR. CAUSA DE PEDIR. TRIBUNAL. VINCULAÇÃO. JULGAMENTO ANTECIPADO. PRODUÇÃO DE PROVA. INDEFERIMENTO MOTIVADO. REAPRECIAÇÃO. INVIABILIDADE. JUÍZO RESCINDENTE. LIMITES. EXTRAPOLAÇÃO. SUCEDÂNEO RECURSAL. CARACTERIZAÇÃO.
+1. ..
+9. O juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento fundamentado das diligências inúteis ou meramente protelatórias, em juízo cuja revisão demanda a reapreciação do conjunto fático dos autos. Precedentes.
+10. Na hipótese dos autos, o juízo rescindente promovido pelo Tribunal de origem ultrapassou os limites das causas de pedir deduzidas pelo autor na presente ação rescisória, além de não ter observado que o indeferimento da produção probatória e o julgamento antecipado da lide foi devidamente fundamentado.
+11. O acolhimento da pretensão de desconstituição da sentença transitada em julgado acarretou, portanto, a utilização da ação rescisória como sucedâneo recursal.
+12. Recurso especial provido.(REsp 1663326/RN, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 11/02/2020, DJe 13/02/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE. AGRAVO EM RECURSO ESPECIAL. FUNDAMENTOS IMPUGNADOS. DECISÃO AGRAVADA RECONSIDERADA. NOVO EXAME DO RECURSO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. INALAÇÃO DE GASES TÓXICOS EM RAZÃO DE INCÊNDIO. SENTENÇA DE IMPROCEDÊNCIA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. DANO MORAL. FALTA DE COMPROVAÇÃO DO DANO E DO NEXO DE CAUSALIDADE. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Em face da impugnação dos fundamentos da decisão que negou seguimento ao recurso especial, o agravo interno merece provimento.
+2. Não há cerceamento de defesa quando o julgador, ao constatar nos autos a existência de provas suficientes para o seu convencimento, indefere pedido de produção de prova. Cabe ao juiz decidir sobre os elementos necessários à formação de seu entendimento, pois, como destinatário da prova, é livre para determinar as provas necessárias ou indeferir as inúteis ou protelatórias.
+3.  ..
+5. Agravo interno provido para reconsiderar a decisão ora agravada e, em novo julgamento, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp 1639801/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/05/2020, DJe 01/06/2020)
+Portanto, para afastar as conclusões a que chegou o aresto impugnado seria indispensável reexaminar o conjunto fático-probatório dos autos, procedimento vedado em sede especial, conforme dispõe a Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. DANO AMBIENTAL. CERCEAMENTO DE DEFESA. DANO MORAL. REVISÃO. CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Alterar a conclusão do tribunal local acerca da ausência de cerceamento de defesa pelo julgamento antecipado da lide demandaria o revolvimento do acervo fático-probatório dos autos, procedimento obstado pela Súmula nº 7/STJ.
+3. Quando as conclusões da Corte de origem resultam da estrita análise das provas carreadas aos autos e das circunstâncias fáticas que permearam a demanda, não há como infirmar tal posicionamento em virtude da incidência da Súmula nº 7/STJ.
+4. Agravo interno não provido.(AgInt no AREsp 1493486/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020)
+Tocante à pretensão de suspensão do feito, dispôs o acórdão:
+Por fim, não se está diante da hipótese de suspensão do processo, nos termos do artigo 313, V, a, do CPC/2015, porquanto o imóvel objeto da presente ação é a fração ideal de 3,3769/6 da Ilha Edith Matilde, conforme se vê do contrato indexado ao nº 09, enquanto o pedido de despejo do processo nº 0006401-24.2007.8.19.0209 envolve partes e imóvel distintos.(e-STJ fl. 371)
+Com efeito, rever os fundamentos que ensejaram a conclusão da Corte estadual demandaria inevitável reexame de matéria fática, procedimento que encontra óbice noverbete7 da Súmula desta Corte.
+Por fim, com fundamento no §11 do art. 85 do CPC, majoro o percentual dos honorários de advogado a que condenada a parte requerida na origem em 3% observada a eventual e anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. LOCAÇÃO. AÇÃO DE DESPEJO. ILEGITIMIDADE ATIVA. CERCEAMENTO DE DEFESA. SUSPENSÃO DO FEITO. ALEGAÇÕES AFASTADAS PELO TRIBUNAL DE ORIGEM COM BASE NOS ELEMENTOS PROBATÓRIOS DOS AUTOS. REEXAME. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
