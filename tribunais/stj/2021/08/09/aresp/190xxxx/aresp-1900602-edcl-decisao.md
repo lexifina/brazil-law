@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JEFERSON DOS SANTOS LEITE à decisão de fls. 951/952, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Pela simples leitura da decisão, vê-se que o Exmo. Relator não se pronunciou acerca do requerimento de reconhecimento da nulidade da intimação presente no Diário Oficial aventada no Agravo.
+Resumiu-se somente a informar que o recurso era intempestivo, porém não analisou a validade da intimação no Diário Oficial (fl. 959).
+ ..
+Sendo assim, requer o Embargante o reconhecimento da nulidade da intimação e publicação do acórdão (eventos 94 e 100), em razão da ausência de intimação pessoal do acusado e invalidade da publicação sem o nome do Embargante ou de seu advogado constituído, requerendo que tal ilegalidade seja sanada, devendo ser ordenado o adiamento do ato, para considerar tempestivo o Recurso Especial apresentado ou ainda para que seja aberto novo prazo para a apresentação do mesmo (fl. 962).
+Alega também que:
+O seu pedido de justiça gratuita foi ignorado instância por instância, eis que o primeiro pedido formulado foi quando do Recurso de Apelação em 22/08/2019, evento 160 da Ação Penal nº 00027887820198240033 (fl. 962).
+ ..
+Em que pese ter requerido de forma expressa, mais uma vez tal pedido foi ignorado pelo Juízo aquo, sendo novamente levantado o pedido em sede de Recurso Especial presente no evento 105, e posteriormente em sede de Agravo em Recurso Especial, sem ter sido analisado o requerimento até o presente momento.
+Desta forma, mais uma vez o Embargante vem requerer por meio dos presentes Embargos que seja sanada a omissão, eis que há requerimento expresso nos pedidos de julgamento do pedido de justiça gratuita efetuado na sede recursal, motivo pelo qual anexa novamente os documentos já acostados aos autos da Ação Penal (fl. 963).
+Quanto à tempestividade, aduz que:
+Conforme informado na R. Decisão recorrida, os requisitos de admissibilidade a serem observados são os descritos no Código de Processo Civil e no Código de Processo Penal.
+Verifica-se que no presente caso, a data da publicação da intimação do acórdão recorrido se deu em 17/11/2020, iniciando os prazos processuais no primeiro dia útil após a publicação.
+Assim, se a disponibilização da informação no Diário de Justiça ocorreu em 16/11/2020, a data da publicação se deu no dia 17/11/2020, tendo iniciado o prazo para interposição do Recurso Especial no dia 18/11/2020, conforme art. 4º, §3 0 , da Lei 11.419/206:
+§ 4º Os prazos processuais terão início no primeiro dia útil que seguir ao considerado como data da publicação.
+A obscuridade que pretende-se esclarecer, é a aplicação ou não do artigo 798, parágrafo 1º do Código de Processo Penal, ao qual informa que o primeiro dia do prazo deve ser excluído da contagem.
+Art. 798. Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado.
+§ 10 Não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento.
+Sendo o primeiro dia no dia 18/11/2020 e este deve ser excluído da contagem, acrescentando-se o do vencimento, conclui-se que o prazo de 15 (quinze) dias encerrou-se no dia 03/12/2020 (fls. 965/966).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre registrar que a alegação de nulidade deveria ter sido argüida na primeira oportunidade que a parte teve de se manifestar nos autos, no caso, na petição de recurso especial. Porém, somente no agravo, e agora nos embargos, é que a parte trouxe os argumentos de nulidade, no entanto, não podem ser aceitos, em razão da preclusão. (AgInt no AREsp 1575724/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 05/04/2021; e AgInt no AREsp 1580827/RJ, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 11/12/2020).
+Ressalte-se que o Poder Judiciário não pode compactuar com a chamada nulidade guardada, conduta de quedar-se inerte para alegar o vício em caso de resultado desfavorável, uma vez que está demonstra a má-fé processual (AgInt nos EDcl no AREsp 1790001/RS, relatora Ministra Nancy Andrighi, Terceira Turma, Dje de 25/06/2021).
+No que se refere ao pedido de gratuidade de justiça, registro que é inoportuno neste momento processual, uma vez que não retroage para alcançar encargos anteriores. No mais, tanto o agravo como os embargos de declaração não exigem o recolhimento de custas. Assim, não há porque ser deferido neste momento processual (AgInt nos EAREsp 1456320/MG, relator Ministro Jorge Mussi, Corte Especial, DJe de 23/04/2020).
+Ademais, a lei 11.636/2007 em seu art. 7º, prevê que "Não são devidas custas nos processos de habeas data, habeas corpus e recursos em habeas corpus, e nos demais processos criminais, salvo a ação penal privada". Assim, inócuo o pedido, já que não há custas para o recurso especial em ação penal pública. (AgRg no REsp 1791285/TO, relator Ministro Nefi Cordeiro, Sexta Turma, Dje de 11/05/2020).
+Quanto à contagem do prazo recursal equivocou-se a parte embargante.
+Veja que nos termos do art. 798, § 5º, alínea a, do CPP, os prazos correrão da intimação da parte. Sendo que esta intimação, de acordo com art. 370, § 1º do mesmo diploma, far-se-á por publicação em órgão incumbido da publicidade, no caso, o diário de justiça (com algumas exceções). Voltando ao art. 798, § 1º, ficou estabelecido que não se computará no prazo o dia do começo, incluindo-se, porém, o dia do vencimento.
+Subsidiariamente, o art. 224 do CPC, nos mesmos termos do art. 798, § 1º do CPP, estabelece que, os prazos serão contados excluindo o dia do começo do prazo e incluindo o dia do vencimento. Para explicar o dia do começo do prazo, o legislador estabeleceu no art. 231, do CPC quais os dias serão considerados "o dia do começo do prazo" a depender da situação. No caso dos autos, ficou consignado no inciso VII deste dispositivo que "o dia do começo do prazo", será a data da publicação, quando a intimação se der pelo diário de justiça.
+Assim, se houve a disponibilização do acórdão recorrido no Dje em 16/11/2020, considera-se publicado em 17/11/2020 (fl. 762). Portanto, exclui-se da contagem o dia 17 - "dia do começo do prazo" (publicação), iniciando-se a contagem no dia 18/11/2020.
+Dessa forma, o prazo recursal de 15 (quinze) dias, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, e 1.029, todos do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal, terminou no dia 2/12/2020, sendo que o recurso especial foi interposto somente em 3/12/2020, ou seja, fora do prazo.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
