@@ -1,0 +1,58 @@
+DECISÃO
+1. Cuida-se de agravo interposto por FUNDAÇÃO PETROBRÁS DE SEGURIDADE SOCIAL PETROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. REVISÃO DE BENEFÍCIODE PENSÃO POR MORTE. PETROS. INTELIGÊNCIA DO ART. 31 DO REGULAMENTO INTERNO. PAGAMENTO A MENOR. SUPLEMENTAÇÃO DE PENSÃO DEVIDA SEM QUALQUER DESCONTO DO BENEFÍCIO RECEBIDO DA AUTARQUIA FEDERAL-INSS. PROVA PERICIAL INDEFERIDA. NECESSIDADE DE PARECER DE EXPERTCONTÁBIL. PROVIMENTO DO RECURSO.
+1. Trata-se de ação de revisão de benefício por pensão por morte, pretendendo a autora seja acrescida a parcela paga pelo INSS, no valor total devido.
+2. Perícia indeferida, sob o fundamento de ausência do direito autoral.
+3. Sentença de improcedência.
+4. Segundo o art. 31 do Regulamento da Petros, a suplementação da pensão por morte corresponde a uma parcela familiar equivalente a 50% da suplementação que seria paga ao falecido acrescida de 10% para a beneficiária.
+5. É devido o pagamento de suplementação equivalente a 60% do valor da aposentadoria que seria devida ao falecido sem o abatimento da parcela paga pelo INSS.
+6. Prova pericial necessária, eis que a matéria demanda a elaboração de laudo por expert com formação contábil, capaz de verificar se há, na hipótese, pagamento a menor.
+7. Provimento do recurso.
+Opostos embargos de declaração, foram rejeitados.
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto nos arts. 370 e 371 do CPC.
+A recorrente afirma que o art. 32 doregulamento do plano de previdência da Petrosestabelece o percentual a ser recebido pelos beneficiários a título de pensão por morte e que,somente depois, em liquidação de sentença, é que, se necessário, deve ser feita a perícia, com as balizas indicadas pelo juízo, para apuração do quantum devido.
+Acrescenta quesendo realizada períciaantes da definição do juízo sobre a interpretação do artigo, a interpretação da forma como deva ser aplicado será feita peloperito, o que não pode ser admitido.
+Nessa linha, alegaque o tribunal, ao anular a sentença para determinar a realização de prova pericial, que havia sido considerada desnecessária pelo juízo de piso, desrespeitou o princípio do livre convencimento motivado do magistrado.
+Ademais, sustenta quea jurisprudência pátria já consolidou o entendimento de que, o regulamento do plano de previdência privada aplicável ao beneficiário é aquele vigente ao tempo da obtenção do benefício e não o vigente na data da adesão ao plano.
+Assevera que, no presente caso, deve ser considerado o regulamento vigente na época em que a parte autora se tornou elegível para obtenção do benefício, afastandoa aplicabilidade de quaisquer outros regulamentos anteriores.
+Acrescenta que a entidade privada de previdência complementar não pode conceder qualquer tipo de prestação sem o necessário e prévio custeio, sendo imprescindível que parte autora promova o aporte financeiro necessário ao custeio do benefício de pensão, caso seja acolhida a pretensão inicial.
+É o relatório.
+DECIDO.
+2.A irresignação não prospera.
+Acerca dos fatos, manifestou-se o acórdão recorrido, nos seguintes termos (fls. 351
+Na hipótese, a autora alega, em síntese, que é pensionista junto a ré do marido falecido, recebendo um valor inferior ao devido, tendo em vista que deduzida a parcela paga pelo INSS.
+Com efeito, o direito da autora decorre de regras contratuais estabelecidas entre a apelante e o ex-empregado participante do plano de previdência privada, bem como dos princípios que regem os contratos, sobretudo o da boa-fé objetiva.
+O juízo de primeiro grau indeferiu a perícia, entendendo que a matéria, na fase de conhecimento, é eminentemente de direitocabendo, se for o caso, a apuração do valor do benefício em liquidação de sentença.
+A sentença julgou improcedente o pedido com base no fundamento de que a natureza suplementar do benefício pressupõe o desconto do valor recebido da previdência pública, sob pena de enriquecimento ilícito, ganhando a pensionista duas vezes o mesmo valor.
+No entanto, o art. 31 do Regulamento aplicável ao caso em tela dispõe que: A suplementado da pensão será constituída de uma parcela familiar igual a 50% (cinquenta por cento) do valor da suplementado da aposentadoria que o mantenedor-beneficiário percebia, ou daquela a que teria direito se, na data do falecimento, fosse aposentado por invalidez, e mais tantas parcelas iguais, cada uma, a 10% (dez por cento) do valor da mesma suplementação de aposentadoria quantos forem os beneficiários, até o máximo de 5 (cinco).
+Com efeito, como estabelece a regra citada, a suplementação da pensão corresponde a uma parcela familiar equivalente a 50% da suplementação que seria paga ao falecido acrescida de 10% para a beneficiária.
+O dependente do falecido, faz jus a uma suplementação equivalente a 60% do valor da suplementação de aposentadoria que seria devida ao de cujus sem o abatimento de qualquer valor pago pelo INSS.
+Desse modo, é necessária a produção de prova pericial, a fim de que seja elaborado laudo por expert contábil, capaz de verificar se há pagamento a menor, na hipótese.
+Por tais fundamentos, voto no sentido de dar provimento ao recurso, a fim de anular a sentença, para determinar o prosseguimento do feito, com a produção de prova pericial contábil.
+3. Inicialmente, saliente-se que não foi considerado pelo Tribunal Fluminense a questão relativa a qual seriao regulamento do plano de previdência privada aplicável na hipótese, não tendo havido manifestação sobre se as regras incidentes ao caso concreto derivavam do planovigente ao tempo da obtenção do benefício ou se vigente na data da adesão ao plano.
+Como de conhecimento,a jurisprudência assente nesta Corte orienta-se no sentido de que não é suficiente, para fins de prequestionamento, que a matéria tenha sido suscitada pelas partes, ou indicada como não violada pelo Tribunal a quo, mas sim que a respeito tenha havido debate no acórdão recorrido.
+Frise-se, por oportuno, que para fins de prequestionamento, é indispensável que o Tribunal de origem ao analisar o recurso interporto, exprima um juízo de valor, apreciando a matéria e o mérito da insurgência à luz da disposição traçada no artigo de lei federal tido por violado, não bastando alegar que considera prequestionados os referidos artigos.
+A simples oposição de embargos de declaração, sem que a Corte Estadual emita qualquer pronunciamento sobre os temas neles insertos, não é o suficiente para esgotar a instância de origem e prequestionar os dispositivos legais sobre os quais não se pronunciou. Nesse caso, afigura-se indispensável que a parte oponha os competentes aclaratórios e, se acaso permanecer omisso o pronunciamento, o recurso especial deve trazer alegação, também, de ofensa ao art. 1.022 do CPC/2015.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BRASIL TELECOM. QUESTÃO SUPOSTAMENTE SURGIDA NO JULGAMENTO DO TRIBUNAL DE ORIGEM. PREQUESTIONAMENTO. NECESSIDADE. SÚMULAS 282 E 356 DO STF. AUSÊNCIA. NÃO CONHECIMENTO. AGRAVO NÃO PROVIDO.
+1. A ausência de prequestionamento acerca do tema inviabiliza o conhecimento do recurso especial.
+2. Ainda que a questão federal tenha surgido somente no acórdão recorrido, entendendo a parte recorrente pela existência de algum vício deveria ter oposto embargos de declaração a fim de suprir a exigência do indispensável prequestionamento e viabilizar o conhecimento do recurso especial em relação aos referidos dispositivos legais.
+3.Caso persistisse tal omissão, imprescindível a alegação de violação do art. 535 do Código de Processo Civil, quando da interposição do recurso com fundamento na alínea "a" do inciso III do art. 105 da Constituição Federal, sob pena de incidir no intransponível óbice da ausência de prequestionamento.
+4. Agravo regimental não provido, com aplicação de multa
+(AgRg no AREsp 608.044/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/02/2015, DJe 13/02/2015)
+4. De outra parte, no caso, consigne-se que a conclusão a que chegou o Tribunal a quo, no tocante aos critérios utilizados para a determinação a cálculo inicial da renda mensal a ser pagar a autora, que é beneficiária de suplementação de pensão em razão da morte, decorreu de convicção formada em face dos elementos fáticos existentes nos autos.
+Ao contrário do quanto afirmado nas razões de recurso especial, o Tribunal de origem avaliou que as provas dos autos não foram capazes de demonstrar as alegações repisadas em sede de recurso especial.
+Nesses aspectos, constato que o acolhimento da pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos e a reinterpretação de cláusulas dos regulamentos e contratos firmados, em suas especificidades, o que é vedado em sede de recurso especial, nos termos dos enunciados das Súmulas 5 e 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+Aliás, nomesmo rumo, recente julgamento da Terceira Turma do STJ:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA.SUPLEMENTAÇÃO DE PENSÃO POR MORTE. CÁLCULO DO BENEFÍCIO PAGO PELA ENTIDADE DE PREVIDÊNCIA. MANUTENÇÃO DO CRITÉRIO APLICADO NA SENTENÇA. CONFORMIDADE COM A DIRETRIZ DO ART. 31 DO REGULAMENTO DA PETROS. ALTERAÇÃO DESSE ENTENDIMENTO. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. A alteração da conclusão adotada pela Corte de origem demandaria, necessariamente, a interpretação de cláusulas contratuais e novo exame do acervo fático-probatório constante dos autos, providências vedadas no âmbito do recurso especial, conforme os óbices previstos nas Súmulas 5 e 7 deste Tribunal Superior.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1736745/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/03/2021, DJe 15/03/2021)
+5. Outrossim, note-se que diversos dispositivos de lei invocados nas razões de recurso especial como violados não foram sequer objeto de menção nas instâncias ordinárias, sendo eles os seguintes:arts. 370 e 371 do CPC.
+Portanto, a matéria referente à suposta violação aos mencionados dispositivos de lei federal não foi objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmulas 282/STF e 211/STJ).
+Diga-se, uma vez mais, quenão se configura o prequestionamento implícito quando sequer a tese jurídica correspondente à suposta violação do dispositivo tenha sido objeto de exame pelo Tribunal de origem. A oposição de embargos de declaração rejeitados não atende ao requisito do prequestionamento.
+6. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelasinstâncias de origem, determino a sua majoração, em desfavor da parte agravante, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
