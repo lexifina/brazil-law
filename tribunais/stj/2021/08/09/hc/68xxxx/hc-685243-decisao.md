@@ -1,0 +1,32 @@
+DECISÃO
+ALAN FERREIRA DA COSTA alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execuçãon. 0001370-93.2021.8.26.0158.
+A impetrante pugna pelo restabelecimento da decisão do Juízo da execução que deferiu ao paciente a progressão ao regime aberto, independentemente da realização de exame criminológico.
+Decido.
+Infere-se dos autos que o Magistrado de primeiro grau deferiu a progressão ao regime aberto, em decisão assim fundamentada (fls. 16-17, destaquei):
+Primeiramente, desnecessária a perícia solicitada pelo Parquet, tendo em vista que não existe nos autos informação que torne essa medida imprescindível par o julgamento do pedido, sendo insuficientes, para tanto, a gravidade abstrata do delito e a longa pena a cumprir.
+ ..
+No mérito o pedido é procedente.
+Conforme cálculo de penas, o executado cumpriu a fração necessária à benesse pleiteada, mantendo no período bom comportamento carcerário.
+Ademais, a gravidade do delito fora analisada pelo juízo de conhecimento para o dimensionamento da pena e fixação do regime inicial de cumprimento da pena. Neste caso, considerar, novamente, a gravidade do delito praticado para concessão de benefícios executórios consistiria no agravamento da pena.
+Presentes, portanto os requisitos legais.
+Em que pesem as hipóteses do artigo 117 da L.E.P., o sentenciado que fizer jus ao regime aberto tem direito à prisão albergue domiciliar quando inexistir casa do albergado onde possa cumprir a pena 110 regime aberto fixado inicialmente ou pela progressão, pois o direito do sentenciado não pode ser prejudicado pela omissão estatal.
+O Tribunal estadual cassou odecisumsupra, sob os seguintes fundamentos (fls. 13-14):
+O presente recurso interposto pelo Ministério Público merece provimento. No presente caso, o sentenciado possui longa pena a cumprir o término de cumprimento da reprimenda está previsto para 28 de fevereiro de 2028 que foi originada da prática de crimes de roubo e uso de documento falso, o primeiro dos quais praticado com violência ou grave ameaça (art. 304 c. c. art. 297 caput e art. 157 § 2º, II, todos do CP), conforme Ficha do Réu de fls.326/328 dos autos principais.
+Tal quadro, por si só, conquanto o agravante tenha bom comportamento carcerário (fls. 31), aponta, com efeito, para sua periculosidade.
+O procedimento não se encontra, ademais, instruído com exame criminológico, que poderia, em tese, comprovara aptidão do sentenciado a vivenciar regime mais brando; afinal, como é cediço, o sistema aberto enseja maior liberdade ao apenado, razão pela qual é necessário que se demonstre tenha ocorrido ao menos uma mínima assimilação do programa de ressocialização proposto pelo Estado.
+Tratando-se o pleito de uma antecipação de liberdade, não se pode admitir que a sociedade seja exposta a risco, funcionando como verdadeiro laboratório para atestar-se a eficaz ressocialização do recorrido. Em vista disso, deve-se apenas conceder o benefício àqueles que demonstraram assimilação da terapêutica penal, face à manutenção da segurança social(prevalência do interesse público).
+Nesse ponto, cumpre destacar que, embora a Lei n. 10.792/03 tenha alterado o art. 112 da LEP, afastando a necessidade da realização de exame criminológico para a concessão da progressão de regime prisional; passando a exigir apenas a juntada do atestado de bom comportamento carcerário, comprovado pelo Diretor do estabelecimento prisional, e a fluência do lapso temporal, imperiosa a análise do caso concreto.
+Como no presente caso há fundada dúvida acercado merecimento e do preparo do sentenciado para a progressão de regime, pelo cometimento de crimes graves. É, assim, sempre recomendável a realização do exame criminológico para aferir, comum mínimo de segurança, sua efetiva aptidão para o convívio social, ainda que já tenha cumprido os requisitos objetivos e subjetivos previstos em lei.
+Diante desse quadro, precipitado foi, ao menos por ora, permitir a progressão para o regime aberto sem a realização de exame criminológico, elaborado por equipe multidisciplinar, único meio de constatar se o sentenciado reúne, ou não, condições pessoais de reinserção social, o que fica ora determinado.
+A preocupação em torno da readaptação do indivíduo censurado circunda, antes mesmo da execução penal, a própria dosimetria da reprimenda imposta, a qual se considera necessária à satisfação de uma concepção preventiva da pena. "Para as teorias relativas a pena se justifica, não para retribuir o fato delitivo cometido, mas, sim, para prevenir a sua prática.  ..  a pena deixa de ser concebida como um fim em si mesmo,  ..  e passa a ser concebida como meio para o alcance de fins futuros e a estar justificada pela sua necessidade:a prevenção de delitos"(BITTENCOURT, Cezar Roberto. Tratado de direito penal: parte geral. 17. ed. rev., ampl. e atual. São Paulo: Saraiva, 2012, p. 141, grifei).
+A esse respeito, destaco que a gravidade em abstrato dos delitos pelos quais foi condenado o paciente, bem como a longa pena a cumprir, sem maiores detalhamentos, não justificam a negativa da benesse ou a produção de prova pericial, uma vez que não refletem a avaliação do efetivo cumprimento da pena pelo condenado.
+Confira-se:
+ ..
+3. A gravidade dos delitos pelos quais o paciente foi condenado (roubo), bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal. Precedentes.
+4. Esta Corte Superior tem se manifestado no sentido de que faltas graves antigas e já reabilitadas não configuram fundamento idôneo para indeferir o pedido de progressão de regime. Por aplicação da mesma ratio decidendi, também não devem ser consideradas como motivo bastante para o indeferimento do livramento condicional.
+ ..
+6. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar que o Juízo das Execuções novamente analise o pedido de livramento condicional, afastada a fundamentação anteriormente adotada.
+(HC n. 508.784/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 22/8/2019, destaquei).
+Portanto, o que se percebe é que foi indeferida a benesse sem a devida fundamentação, a impor à paciente patente constrangimento ilegal, dado o preenchimento dos requisitos legais.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, concedo a ordem,in limine, para restabelecer a decisão que concedeu ao paciente a progressão ao regime aberto.
+Publique-se e intimem-se.
