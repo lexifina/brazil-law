@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado, em 03/08/2021, pela CÂMARA MUNICIPAL DE JANDIRA,contra decisão do DESEMBARGADOR COORDENADOR DA DIRETORIA DE EXECUÇÕES DE PRECATÓRIOS E CÁLCULOS DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+A parte impetrante sustenta, em síntese, que:
+"Conforme se extrai das inclusas cópias das decisões proferidas nos autos do processo nº 9001365-95.2017.8.26.0500/03, a Diretoria de Precatórios do Egrégio Tribunal de Justiça do Estado de São Paulo não agiu com o costumeiro acerto, ao determinar a inclusão de precatórios no mapa orçamentário da IMPETRANTE, não obstante tenha havido tempestiva insurgência, bem fundada no fato de que referida despesa deve ser suportada pela Municipalidade de Jandira.
+Isso porque, conquanto detentora de inscrição no CNPJ, não possui personalidade jurídica própria, mas apenas Personalidade Judiciária, como também não possui orçamento próprio, cabendo-lhe, tão somente, a gestão de repasse de duodécimo, que é feito mensalmente, pelo Poder Executivo local.
+Disso resulta que, não tendo orçamento próprio, também não possui autonomia financeira para pagamento de precatórios, donde se vê o descabimento da determinação contra a qual ora se insurge.
+Referida obrigação deve, por óbvio, recair sobre a Municipalidade de Jandira, a quem cumpria incluir o débito no mapa orçamentário de 2020, deixando de fazê-lo, não obstante tenha sido intimada para tal fim.
+Impor tal obrigação à impetrante, que não tem receita própria, limitando-se a gerir repasses mensais oriundos do Poder Executivo, equivale a inviabilizar as atividades do Parlamento Municipal, tendo como provável desdobramento o inadimplemento, inclusive, de salários dos seus servidores" (fl. 4e).
+Ao final, requer:
+"a) A concessão de medida liminar para o fim de suspender os efeitos da inclusa decisão do DEPRE, proferida nos autos do PGG -Gestão (9001365-95.2017.8.26.0500) (03), da lavra do Eminente Desembargador do Egrégio Tribunal de Justiça do Estado de São Paulo, WANDERLEY FEDERIGHI, aqui indicado como Autoridade Coatora, que atribuiu à Impetrante a obrigação de adimplir os precatório contidos naqueles autos, atribuindo, no mais, tal obrigação ao Poder Executivo local, por flagrante violação ao disposto no artigo 168, da Constituição da República Federativa do Brasil;
+b) A posterior confirmação, no mérito, da liminar concedida, declarando nula decisão atacada, atribuindo ao Município de Jandira a obrigação de pagar o títulos condenatórios que dão lastro aos precatórios contidos nos autos do PGG - Gestão (9001365-95.2017.8.26.0500) (03), pelos mesmos fundamentos acima expostos" (fls. 13/14e).
+A pretensão é manifestamente incabível.
+Nos termos do art. 105, I, a, da Constituição Federal, compete ao Superior Tribunal de Justiça julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+Além disso, nos termos da Súmula 41/STJ, "O Superior Tribunal de Justiça não tem competência para processar e julgar, originariamente, mandado de segurança contra ato de outros tribunais ou dos respectivos órgãos".
+Ante o exposto, com fundamento nos arts. 10 da Lei 12.016/2009 e 212 do RISTJ, indefiro liminarmente o Mandado de Segurança.
+I.
