@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 17):
+HABEAS CORPUS. FURTO QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. IRRESIGNAÇÃO DEFENSIVA. INVESTIGAÇÃO POLICIAL QUE CULMINOU NA IDENTIFICAÇÃO DOS PACIENTES COMO AUTORES DE FURTO PRATICADO CONTRA AGÊNCIA BANCÁRIA NA COMARCA DE SÃO MIGUEL DO OESTE. SUBTRAÇÃO DE MAIS DE R$ 11.000,00. PRESSUPOSTOS DA PRISÃO CAUTELAR VERIFICADOS. PERICULUM LIBERTATIS, ADEMAIS, DECORRENTE DA POSSIBILIDADE DE REITERAÇÃO CRIMINOSA. MODUS OPERANDI QUE REVELA PREMEDITAÇÃO E ORGANIZAÇÃO DO GRUPO. GRAVIDADE CONCRETA DA CONDUTA. ALÉM DISSO, EXISTÊNCIA DE INDÍCIOS DA PRÁTICA DE OUTROS CRIMES SIMILARES, QUE OCORRERAM NAS CIDADES DE PALMITOS E MARAVILHA NA MESMA ÉPOCA. ORDEM PÚBLICA AMEAÇADA. RISCO À APLICAÇÃO DA LEI PENAL IGUALMENTE VERIFICADO. PACIENTES QUE FORAM PRESOS QUANDO JÁ ESTAVAM NO ESTADO DO PARANÁ. AUSÊNCIA DE VÍNCULO COM O DISTRITO DA CULPA. RISCO DE EVASÃO. BONS PREDICADOS PESSOAIS QUE, NO CASO, MOSTRAM-SE INSUFICIENTES. MEDIDAS CAUTELARES QUE NÃO SÃO CAPAZES DE APLACAR O ALUDIDO RISCO. PRISÃO MANTIDA. ORDEM DENEGADA.
+A paciente foi presa preventivamente pelos delitos de furto qualificado e associação criminosa.
+Em síntese, a defesa aduz inidoneidade dos fundamentos da custódia e existência de condições pessoais favoráveis.
+Busca a revogação da custódia, inclusive em liminar, ainda que mediante fixação de cautelares menos severas.
+Na origem, a ação penal n.5001565-29.2021.8.24.0067 está em fase de instrução, tendo a defesa prévia sido apresentada em 29/4/2021, consoante informações disponíveis na página da Corte estadual em 25/6/2021.
+Indeferida a liminar, prestadas as informações, manifestou-se o MPF pelo não conhecimento dowrite, no mérito, pela denegação da ordem.
+Como cediço, a prisão preventiva,admitida excepcionalmente antes do trânsito em julgado de eventual sentença penal condenatória, deverá ser justificada em concreto e de forma individualizada, nos termos do art. 312 do Código de Processo Penal.
+O decreto de prisão preventiva lastreou-se nos seguintes fundamentos (fls. 20-25):
+  Segundo consta, os representados são suspeitos de praticarem o crime de furto na data de 28/2/2021, em desfavor da Instituição Financeira Cooperativa UNICRED, além de integrarem associação criminosa para o fim específico de cometer crimes.
+Após análise das imagens das câmeras de monitoramento, apurou-se que os indivíduos teriam chegado no local com um veículo Spin, dois teriam adentrado na agência e subtraído envelopes depositados nos caixas eletrônicos e um terceiro permanecido na frente do estabelecimento vigiando a movimentação.
+Na sequência, os três teriam embarcado no automóvel e empreendido fuga.
+Ainda que as câmeras de videomonitoramento da Agência Bancária e do sistema "Bem-te-vi" só tenham capturado a ação de três homens, o furto teria sido cometido por quatro homens e uma mulher, sendo eles: MOACIR FRANCO JÚNIOR, CAIO RODRIGO DE SILVA e CINTIA ALMEIDA SILVA.
+ ..
+No caso dos autos, a prática criminosa noticiada nos autos alcançou repercussão junto à ordem pública, não só porque se cuida de ilícito de absoluta gravidade, mas por agirem reiteradamente na prática delitiva de crimes contra o patrimônio, fazendo concluir que há necessidade de urgente providência visando cessar a prática criminal.
+Apesar da tenra idade de CINTIA e da aparente plena capacidade laborativa de ambos, os representados preferiram seguir o rumo do crime a fim de, neste Estado, angariarem lucro fácil, tudo isso aproveitando para conhecer Santa Catarina, conforme alegado por CINTIA.
+Porém, as marcas que deixaram com a astúcia empregada foi um altíssimo prejuízo econômico para a Instituição Financeira Cooperativa UNICRED e para a Caixa Econômica Federal (fatos que estão sendo apurados pela Polícia Federal).
+Como se vê, consta do édito preventivo fundamentação idônea, consistente na necessidade de fazer cessar a prática delitiva, tendo em vista os réus "agirem reiteradamente na prática delitiva de crimes contra o patrimônio", "além de integrarem associação criminosa".
+Nos termos dajurisprudência desta Corte, "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 107.238/GO, Relator Ministro ANTONIO SALDANHA PALHEIRO, Sexta Turma, julgado em 26/2/2019, DJe 12/03/2019).
+Outrossim, "Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC 573.598/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, denego a ordem.
+Publique-se.
+Intimem-se.
