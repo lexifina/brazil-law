@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE MACEIÓ em face de decisão proferida pelo Tribunal de Justiça do Estado do Alagoasque inadmitiu o recurso especial manejado contra acórdãoassim ementado:
+APELAÇÃO CÍVEL. SENTENÇA QUE DEIXOU DE CONDENAR A FAZENDA PÚBLICA MUNICIPAL AO PAGAMENTO DE VERBAS HONORÁRIAS EM FAVOR DA DEFENSORIA PÚBLICA ESTADUAL, EM VIRTUDE SE TRATAR DE AÇÃO CIVIL PÚBLICA. POSSIBILIDADE. PRECEDENTES DESTA CORTE DE JUSTIÇA. RECURSO CONHECIDO E PARCIALMENTE PROVIDO. DECISÃO UNÂNIME.
+Nas razões do recurso especial, interposto com base naalínea"a" do permissivo constitucional, orecorrente aponta a violação aosartigos 17 e 18 da Lei 7.347/85, ante a impossibilidade de condenação ao pagamento de honorários advocatícios em ação civil pública também em favor do réu, por interpretação isonômica e simétrica de tais dispositivos legais.
+Não foram apresentadas contrarrazões.
+O recurso especial foi inadmitido pelo Tribunal de origem à consideração de que de que incidem os óbices das Súmulas 7 e 83/STJ.
+Nas suas razões de agravo, o agravante impugna os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Não foi apresentada contraminuta.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+Cuida-se a hipótese em apreço, segundo se extrai do acórdão recorrido, de açãoproposta em face do Município de Maceió, visando ofornecimento de medicamento, a qual foi julgada procedente.
+Interpostaapelação pela parte autora visando a condenação da Municipalidade ao pagamento de honorários sucumbenciais, o Tribunal de origem deu parcial provimentoaorecurso, para condenar a Fazenda Pública Municipal em honorários sucumbenciais em favor da Defensoria Pública,com os seguintes fundamentos(e-STJ, fls. 105/108):
+"A apelante, no bojo de seu recurso, insurge-se unicamente contra a ausência de fixação de honorários sucumbenciais em favor da Defensoria Pública do Estado de Alagoas.
+Conforme já relatado, o Julgador a quo não concedeu os honorários sucumbenciais em prol da Defensoria Pública, sob a justificativa de serem incabíveis em sede de ação civil pública.
+Inicialmente, considero pertinente a análise da legalidade da fixação de honorários sucumbenciais em favor da Defensoria, no desenvolver de seu mister constitucional de prestação de assistência judicial ao hipossuficiente financeiro, inclusive em se tratando de ação civil púbica, diversamente da posição adotada pelo Ilustre Magistrado.
+Oportuno registrar que a matéria de honorários sucumbenciais em se tratando de ação civil pública é regulada pela própria legislação de regência - Lei de n.º 7.347/1985, não sendo cabível a condenação, somente se houver comprovada má-fé do autor da ação. A propósito, vejamos o que dispõem os artigos 17 e 18 da mencionada legislação, in verbis:
+Art. 17. Em caso de litigância de má-fé, a associação autora e os diretores responsáveis pela propositura da ação serão solidariamente condenados em honorários advocatícios e ao décuplo das custas, sem prejuízo da responsabilidade por perdas e danos.
+Art. 18. Nas ações de que trata esta lei, não haverá adiantamento de custas, emolumentos, honorários periciais e quaisquer outras despesas, nem condenação da associação autora, salvo comprovada má-fé, em honorários de advogado, custas e despesas processuais.
+Da leitura dos excertos supra, especialmente do art. 18, vê-se que, nas ações civis públicas, é incabível a condenação da "associação autora" em honorários advocatícios, custas e despesas processuais, salvo se comprovada a sua má-fé.
+Em vista disso, somente se aplicam os preceitos contidos neste dispositivo nos casos em que a parte autora for sucumbente e, ainda, seja comprovada a sua manifesta má-fé na propositura da ação, requisitos que não estão presentes, in casu, tendo em vista que, além de a apelante ter logrado êxito no atendimento do seu pleito, em nenhum momento foi suscitada a sua má-fé processual, mostrando-se de rigor o arbitramento dos honorários conforme pleiteado.
+Corroborando o entendimento perfilhado, trago à baila recentes julgados desta Corte de Justiça, ad litteram:
+ ..
+Assim sendo, merece reforma a sentença combatida. Isso porque é perfeitamente cabível a condenação do ente municipal, que foi vencido na demanda, ao pagamento dos honorários advocatícios sucumbenciais à Defensoria Pública Estadual mesmo em se tratando de ação civil pública"
+A jurisprudência desta Corte é no sentido de que, em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública, quando inexistente má-fé, tal como ocorre com a parte autora, por força da aplicação do art. 18 da Lei n. 7.347/1985.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.025 DO CPC/2015. PREQUESTIONAMENTO FICTO CONFIGURADO. LEI DE AÇÃO CIVIL PÚBLICA. HONORÁRIOS. REQUERIDO. NÃO CABIMENTO. PRINCÍPIO DA SIMETRIA. JURISPRUDÊNCIA DO STJ.
+1. Hipótese em que o recorrente opôs embargos de declaração na origem visando o pronunciamento a respeito da matéria ora sob exame e apontou a respectiva violação ao art. 1.022 do CPC/2015, tendo o Tribunal de origem, a despeito de não mencionar expressamente os dispositivos tidos por violados, examinado a matéria, o que configura, por derradeiro, o prequestionamento ficto (ex vi, art.1.025 do CPC/2015).
+2. Na forma da jurisprudência desta Corte Superior de Justiça, inclusive pela Primeira Seção, a previsão do art. 18 da Lei 7.347/1985 deve ser interpretada também em favor do requerido em ação civil pública, em homenagem ao princípio da simetria.Precedentes: AgInt no REsp 1.762.012/RJ, Rel. Min. Gurgel de Faria, Primeira Turma, julgado em 31/8/2020, DJe 8/9/2020; AgInt no REsp 1.829.391/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 5/10/2020, DJe 9/10/2020.
+3. Agravo interno não provido.
+(AgInt no REsp 1900610/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 10/05/2021, DJe 18/05/2021)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. IMPROBIDADE ADMINISTRATIVA. OMISSÃO. OCORRÊNCIA.CONDENAÇÃO DA PARTE REQUERIDA EM HONORÁRIOS ADVOCATÍCIOS. NÃO CABIMENTO. MÁ-FÉ NÃO RECONHECIDA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS COM EFEITOS INFRINGENTES.
+1. A atribuição de efeitos infringentes, em Embargos de Declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de omissão, contradição, obscuridade, ou erro material, vícios previstos no art. 1.022 do Código de Processo Civil de 2015.
+2. O STJ possui entendimento consolidado, ao interpretar o art. 18 da Lei 7.347/1985, de que, por critério de simetria, não cabe a condenação do réu, em Ação Civil Pública, ao pagamento de honorários advocatícios, salvo comprovada má-fé (EAREsp 962.250/SP, Rel.
+Ministro Og Fernandes, Corte Especial, DJe 21/8/2018). Nesse sentido: AgInt no REsp 1.127.319/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 18/8/2017; AgInt no REsp 1.435.350/RJ, Rel.
+Ministro Humberto Martins, Segunda Turma, DJe 31/8/2016; REsp 1.374.541/RJ, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 16/8/2017; REsp 1.556.148/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/11/2015.
+3. Embargos de Declaração acolhidos, com efeitos modificativos, para determinar o retorno dos autos ao Tribunal de origem para que sejam fixadas as penas, sem fixação de verba sucumbencial.
+(EDcl no REsp 1320701/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/03/2021, DJe 05/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA AJUIZADA PELA UNIÃO. CONDENAÇÃO DA PARTE REQUERIDA EM HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE MÁ-FÉ. DESCABIMENTO. ART. 18 DA LEI N. 7.347/1985. PRINCÍPIO DA SIMETRIA. PRECEDENTES.
+1. A jurisprudência desta Corte é no sentido de que, em razão da simetria, descabe a condenação em honorários advocatícios da parte requerida em ação civil pública, quando inexistente má-fé, tal como ocorre com a parte autora, por força da aplicação do art. 18 da Lei n. 7.347/1985. Precedentes: EAREsp 962.250/SP, Rel. Ministro Og Fernandes, Corte Especial, DJe 21/8/2018; EDcl nos EDcl no AgInt no REsp 1.736.894/ES, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 1/3/2019.
+2. Agravo interno não provido.
+(AgInt no REsp 1762284/SC, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/02/2021, DJe 11/02/2021)
+Incide à espécie a Súmula 568/STJ, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 253, II, "c", do RISTJ, conheço do agravo para dar provimento ao recurso especial, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. LEI DE AÇÃO CIVIL PÚBLICA. HONORÁRIOS. REQUERIDO. NÃO CABIMENTO. PRINCÍPIO DA SIMETRIA. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
