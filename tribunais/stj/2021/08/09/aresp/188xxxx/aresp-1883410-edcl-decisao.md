@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IGREJA EVANGELICA ASSEMBLEIA DE DEUS DO BRASIL, à decisão de fls. 561/562, que não conheceu do recurso.
+Sustenta a parte embargante que:
+A Embargante provou a tempestividade através dos atos normativos e calendário do Tribunal Local que o recurso foi interposto corretamente.
+Trata-se de suspensão dos prazos em virtude da pandemia, pois como os autos são físicos no TJMG, este ordenou a suspensão da sua tramitação como medida sanitária de combate a disseminação ao COVID 19.
+As prova destas alegações estão em folhas 530 a 543 (e-STJ), onde o detalhamento das datas está em fl. 498 (e-STJ) (fl. 566).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, impende esclarecer que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada sob a égide do novo codex Processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+Observe-se que houve a disponibilização da decisão de admissibilidade do recurso especial em 19/3/2020, considerando-se publicada em 20/3/2020 (fl. 495). Excluindo-se o dia 20/3/2020 (primeiro dia), bem como o período de 21/3/2020 a 14/6/2020 (suspensão dos prazos pelo CNJ), inicia-se a contagem no dia 15/6/2020, até o dia 3/7/2020.
+Dessa forma, o prazo recursal de 15 (quinze) dias úteis, nos termos art. 994, VIII, c/c os arts. 1.003, § 5º, 1.042, caput, e 219, caput, todos do Código de Processo Civil, terminou no dia 3/7/2020, sendo que o agravo em recurso especial foi interposto somente em 11/12/2020, fora do prazo.
+Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Veja-se que constam nos autos apenas a Portaria Conjunta Nº 946/PR/2020 que suspende os prazos processuais a partir de 16/3/2020 (fls. 532/533) e a Portaria Conjunta Nº 1085/PR/2020 que estabelece a retomada dos prazos a partir de 23/11/2020 (fls. 537/543). No entanto, não foi juntada comprovação de que os prazos restaram suspensos de 15/6/2020 a 23/11/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
