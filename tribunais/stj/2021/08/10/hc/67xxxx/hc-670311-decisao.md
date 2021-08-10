@@ -1,0 +1,31 @@
+DECISÃO
+EDUARDO DE PAULA SILVAalega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1502130-34.2020.8.26.0309).
+Consta dos autos que o paciente foi condenado à pena de 5anos e 10 mesesdereclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa busca, por meio deste writ, a desclassificação da conduta imputada ao réu para o delito descrito no art. 28 da Lei de Drogas, a incidência da minorantea fixação de regime inicial menos gravoso.
+A liminar foi indeferida e, dispensadas as informações, oMinistério Público Federal manifestou-se pelo não conhecimento do writ.
+Decido.
+I. Impossibilidade de desclassificação
+O Tribunal de origem, ao concluir pela prática do crime de tráfico de drogas, salientou o que segue (fls. 88-91, grifei):
+A materialidade restou demonstrada pelo auto de prisão em flagrante (fls. 1), boletim de ocorrência (fls. 6/8), auto de exibição e apreensão (fls. 9/10), laudo de constatação preliminar (fls. 12/14), laudo químico toxicológico(fls. 146/148) e prova oral produzida.
+A autoria é certa.
+Sob o crivo do contraditório, Eduardo rechaçou a imputação, afirmando que que voltava da casa de sua ex-esposa, quando foi abordado pelos policiais, que teriam lhe agredido e plantado a droga (fls. 199 - mídia).
+As testemunhas Lucas Barroso Petinati e Linara Luriani Pereira, policiais militares, de forma uníssona, declararam no depoimento prestado no dia dos fatos que estavam em patrulhamento de rotina perto do local dos fatos, que é conhecido como frequentemente utilizado para comercialização ilícita de drogas, oportunidade em que receberam denúncia anônima por parte de populares de que dois indivíduos estariam comercializando drogas no local. No local dos fatos, presenciaram três pessoas paradas, que se evadiram ante sua aproximação, sendo que dois deles conseguiram descer um barranco e ter acesso a um matagal e por isso não foram encontrados. Por outro lado, o indiciado até tentou evadir-se do local, mas foi rapidamente contido.Ele estava muito agressivo e foi necessário o uso moderado de força física a fim de contê-lo, bem como o uso de algemas. Submetido a revista pessoal, foram encontrados em suas vestes, em um shorts branco que o réu utilizava por baixo da calça, 12 (doze) eppendorfs de substância amarelada análogas ao crack e 07 (sete) invólucros de substâncias análogas a maconha, bem como a quantia de R$ 19,75(dezenove reais e setenta e cinco centavos) em dinheiro. Indagado, o indiciado negou a comercialização de drogas, relatando que somente estaria no local há cerca de vinte ou trinta minutos conversando com amigos e que estava com a droga porque teriam pedido para que ele a segurasse por alguns instantes (fls. 2/4).
+ ..
+Os autos não revelam elementos, minimamente concretos, aptos a depreciar a palavra dos agentes policiais e a regra é a de que agem nos termos e limites legais.
+ ..
+Os relatos coerentes e coesos dos policiais, aliados à apreensão das drogas em local conhecido como ponto de tráfico, dão certeza ao edito condenatório. Não há razões para acreditar que os policiais "forjaram" o delito, porquanto não conheciam o acusado.
+Todas as circunstâncias sopesadas bem evidenciam a traficância denunciada, não havendo que falar em fragilidade probatória.
+Ressalta-se que a caracterização do crime de tráfico de entorpecentes não depende, necessariamente, de prova flagrante de venda ou de entrega de substância entorpecente a terceiros. O tipo penal que define o tráfico de drogas possui vários verbos descritos na norma incriminadora, mais precisamente dezoito, e a realização de qualquer um deles, como sucedido no caso dos autos, é suficiente para a caracterização do crime, tal como denunciado.
+Neste contexto fático, a condenação de por tráfico de drogas era mesmo de rigor.
+Diante de tais fundamentos,mostra-se inviável a desclassificação da conduta imputada ao réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no caso.
+Registro, no particular, que, nos termos do art. 28, § 2º, da Lei n.11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+Por fim, esclareço que, para entender-se pela desclassificação da conduta imputada ao paciente para o delito descrito no art. 28 da Lei n.11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível na via estreita do habeas corpus.
+II. Minorante prevista no art. 33,§ 4º, da Lei n. 11.343/2006 e regime de cumprimento de pena
+Quanto ao almejado reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem entendeu pelanão incidência do redutor, considerando a reincidência do acusado.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis:
+§ 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Dessa forma, verifico que não há como ser reconhecida a incidência do redutor em favor do paciente, haja vista a vedação expressa da concessão desse benefício aos acusados reincidentes, conforme bem salientou o Tribunal de origem.
+Consequentemente, não há nenhum ajuste a ser feito no regime de cumprimento de pena, devendo ser mantida a imposição do modo inicial fechado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, porquanto o réu, além de ser reincidente, foi condenado a reprimenda superior a 4 anos de reclusão.
+III. Dispositivo
+À vista do exposto, denegoa ordem.
+Publique-se e intimem-se.
