@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICÍPIO DE SÃO PAULO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Apelação. Mandado de segurança. Imposto sobre serviços de qualquer natureza. Alegação de não incidência sobre receitas provenientes de cessão do direito de uso de marcas. Procedência. Inconstitucionalidade do item 3.01 da Lei Municipal 13.701/03 proclamada pelo Órgão especial desta corte. Sentença mantida. Recurso denegado.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega a incidência de ISS sobre receitas decorrentes de cessão do direito de uso de marcas.
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial porque a tese recursal é eminentemente constitucional, ainda que se tenha indicado nas razões do recurso especial violação ou interpretação divergente de dispositivos de lei federal.
+Com efeito, o Superior Tribunal de Justiça já decidiu no seguinte sentido: "Finalmente, ressalto que, apesar de ter sido invocado dispositivo legal, o fundamento central da matéria objeto da controvérsia e as teses levantadas pelos recorrentes são de cunho eminentemente constitucional. Descabe, pois, ao STJ examinar a questão, porquanto reverter o julgado significa usurpar competência do STF." (REsp 1.655.968/PE, relator Ministro Herman Benjamin, Segunda Turma, DJe de 2/5/2017.)
+No mesmo sentido: AgInt no AREsp 1.448.670/AP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 12/12/2019; AgInt no AREsp 996.110/MA, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/5/2017; AgRg no REsp 1.263.285/RJ, relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJe de 13/9/2012; AgRg no REsp 1.303.869/MG, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/8/2012.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
