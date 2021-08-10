@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por RODRIGO DE MORAIS ALBUQUERQUE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO OBRIGAÇÃO DE FAZER CURSO DE ENSINO SUPERIOR CONTRATO DE GARANTIA DE PAGAMENTO DO FINANCIAMENTO FIRMADO ENTRE AS PARTES RECUSA DA RÉ EM ARCAR COM O PAGAMENTO DAS PARCELAS DO FINANCIAMENTO ESTUDANTIL (FIES) ALEGAÇÃO DE QUE O AUTOR NÃO CUMPRIU AS EXIGÊNCIAS PARA TER DIREITO AO BENEFÍCIO COMPROVAÇÃO DE QUE O AUTOR QUE TIROU NOTA ABAIXO DA MÉDIA NA AVALIAÇÃO DO ENADE CIRCUNSTÂNCIA QUE AFASTA A RESPONSABILIDADE DA RÉ PELO PAGAMENTO DO FINANCIAMENTO DO AUTOR DANO MORAL NÃO CARACTERIZADO SENTENÇA MANTIDA RECURSO DESPROVIDO.
+Quanto à controvérsia, alega violação do art. 6º, incisos III e IV; art. 30; art.31; art. 37, §§ 1º e 3º; art. 38; art. 46 e art. 47, todos do CDC, no que concerne à violação do dever de informação ao consumidor, trazendo os seguintes argumentos:
+Assim, o Recorrente buscou o cumprimento da oferta junto à Recorrida, sendo que a negativa do pagamento do FIES violou o conteúdo dos artigos indicados da lei consumerista, sendo, pois, o caso de reforma do aresto combatido.
+De fato, a manutenção do entendimento assentado pela maioria do Tribunal de origem viola a norma federal apontada, na medida em que houve atribuição de efeito distinto para hipótese que o legislador quis garantir a proteção da parte consumidora de serviço, tal como ocorre no caso concreto. (fls. 324).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Já em relação a clausula 3.4, melhor sorte não socorre o apelante.
+Isso porque, o contrato previa claramente que o autor deveria obter média mínima no exame do ENADE. Contudo, na avaliação o autor obteve nota final abaixo da média (fls. 18).
+Nessa moldura, em razão do descumprimento de cláusulas contratuais por parte do autor, não há como responsabilizar a ré pelo pagamento do financiamento estudantil e de consequência não há falar em dano moral a ser indenizado.
+Importante salientar que a cláusula 3.7 do contrato estabelece de forma clara que em caso de descumprimento de qualquer das obrigações descritas no instrumento por parte do beneficiário, está a instituição de ensino desobrigada do pagamento do FIES.
+Assim, não há falar que faltou informações adequadas. (fl. 314).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
