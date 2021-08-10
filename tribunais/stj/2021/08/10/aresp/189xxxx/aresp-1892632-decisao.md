@@ -1,0 +1,18 @@
+DECISÃO
+DANILO GOMES DE OLIVEIRA agrava da decisão que não admitiu o seu recurso especial, interposto contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0076267-33.2018.8.26.0050).
+Depreende-se dos autos que o recorrente foi condenado à pena de 5 anos de reclusão, em regime inicial fechado, mais multa, por infração ao art. 33, caput, da Lei n. 11.343/2006.
+Nas razões do recurso especial, a defesa requer a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal local, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo provimento do recurso especial.
+Decido.
+Quanto ao almejado reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem entendeu pela não incidência do redutor, conforme trechos abaixo (fls. 218-219, grifei):
+Em que pese ser primário e não registrar antecedentes criminais, houve denúncia anônima do tráfico, com descrição dos agentes, entre eles o réu, que foi preso em flagrante na posse de uma porção de cocaína, bem como das chaves do carro onde foram encontradas outras 45 porções da referida substância, todas embaladas da mesma maneira.
+Tais aspectos, aliados à falta de efetiva comprovação de labor lícito, bem como a quantidade de entorpecentes apreendidos, que evidentemente, não poderiam ser comercializados de forma ocasional, evidenciam que o acusado fazia do tráfico verdadeiro meio de vida.
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, conforme visto, o Tribunal de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos que evidenciam que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Ademais, imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o recorrente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada em sede de recurso especial, a teor da Súmula n. 7 do STJ.
+Portanto, fica afastada a apontada violação legal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
