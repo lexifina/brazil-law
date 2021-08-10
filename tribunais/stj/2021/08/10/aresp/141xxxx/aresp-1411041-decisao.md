@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial, em virtude da ausência de violação dos dispositivos legais e da incidência da Súmula n. 7/STJ (e-STJ fls. 1.052/1.054).
+O acórdão recorrido está assim ementado (e-STJ fl. 789):
+AGRAVO DE INSTRUMENTO - DESPESAS DE CONDOMÍNIO - AÇÃO DE COBRANÇA - PROCEDÊNCIA - FASE DE CUMPRIMENTO DE SENTENÇA - PENHORA NO ROSTO DOS AUTOS - RECONHECIMENTO DE CRÉDITO FAVORÁVEL AOS EXECUTADOS - DETERMINAÇÃO DE TRANSFERÊNCIA EM SEU FAVOR - NECESSIDADE. A decisão contra a qual se insurge o agravante, não é teratológicae, a par disso, atende ao escopo de cumprir, de maneirafidedigna, o teor da sentença. LIMINAR REVOGADA. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 823/826).
+No recurso especial (e-STJ fls. 829/967), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alegou, além de dissídio jurisprudencial, violação dos arts. 489 e 1.022, II, do CPC/2015, pois o acórdão recorrido teria sido omisso quanto ao efeito suspensivo da apelação, à configuração de decisão surpresae à existência de preclusão.
+Sustentou ofensa aos arts. 141e 492 do CPC/2015, porque foiproferidadecisão extra petita.
+Argumentou inobservância dos arts. 9º, 10 e11 do CPC/2015, visto que (e-STJ fl. 938):
+(..) de RIGOR A ANULAÇÃO do v. Acórdão, pois o julgamento manteve a r. decisão singular mesmo estando com VICIO INSANÁVEL, sendo extra-petita e surpresa. Foi ultra e extra-petita ao ingressar de ofício em terreno de direito disponível, em decisão surpresa e questão PRECLUSA, ensejando NULIDADE, como observamos da leitura atenta do processo, das razões recursais e dos vv. acórdãos.
+Aduziu desrespeito aos arts. 492, 494, 505, 507, 1.000 e 1.003 do CPC/2015, pois houve violação da preclusão. Ressaltou que (e-STJ fls. 940/941):
+(..) a r. decisão supracitada de fl. 1711 não foi alvo de recurso, operando-se o FENÔMENO DA PRECLUSÃO QUANTO AO SALDO. Todavia, além de questão preclusa, conforme acima demonstrado a teor da r. decisão do Juízo "a quo", tal medida APENAS PREJUDICARÁ O CREDOR, uma vez que a quantia constante nos autos aguarda posterior manifestação de Superior Instância.
+Todavia, mesmo esgotado o provimento jurisdicional em 1º grau, após simples petição do Sr. Joaquim com protocolo no dia 14 de setembro de 2017, exatamente após 17 dias úteis da publicação da r. decisão que não conheceu dos Embargos de Declaração e da manifestação (fl. 1711), a qual não foi alvo de recurso, o Sr. Joaquim pede vista dos autos informando que há quantia nos autos depositada junto ao BB (fl. 1715). Destaca-se que conforme se observa da simples petição, o Sr. Joaquim NÃO PEDIU NENHUMA PROVIDÊNCIA, mas tão somente informou o saldo depositado e pediu carga para exame dos autos.
+Todavia, à fl. 1716, DE OFÍCIO E EM DECISÃO SURPRESA, sem fundamentação legal, após inclusive esgotado o provimento jurisdicional em primeiro grau, com pendência de Apelação interposta pelo Recorrente, o Juízo "a quo" reconsiderou o segundo parágrafo da r. decisão de fl. 1711, por entender que há valor remanescente pertencente AOS DEVEDORES.
+No agravo (e-STJ fls. 1.057/1.184), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Procede a irresignação referente à ofensa ao art. 1.022 do CPC/2015.
+Nos embargos de declaração, o recorrente sustentou omissão quanto às matérias referentes ao efeito suspensivo da apelação, à configuração de decisão surpresa e à existência de preclusão.
+A Corte local se limitou a decidir pela ausência de vício a ser sanado em declaratórios.
+Em tais condições, diante da omissão no acórdão recorrido, impõe-se o provimento do recurso especial para que o Tribunal a quo se pronuncie sobre a questão, sanando assim o vício apontado. Nesse sentido é a firme jurisprudência desta Corte, como se depreende, por exemplo, do seguinte julgado:
+PROCESSO CIVIL. DIREITO DAS OBRIGAÇÕES. NOVAÇÃO. POSSIBILIDADE DE ANÁLISE DO NEGÓCIO JURÍDICO ANTECEDENTE. MITIGAÇÃO DO PRINCÍPIO PACTA SUNT SERVANDA. SÚMULA 286 DO STJ. VIOLAÇÃO DO ART. 535 DO CPC CONFIGURADA. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM.
+1. A violação do art. 535 do CPC configurou-se, no caso dos autos, uma vez que, a despeito da oposição de embargos de declaração, nos quais os recorrentes apontam a existência de omissões, mormente no tocante à possibilidade de exame judicial de supostas ilegalidades substanciais nos contratos celebrados anteriormente à alegada novação com a instituição financeira (fls. 1.052-1.053), o Tribunal não se manifestou de forma satisfatória sobre o apontado vício, consoante se infere do voto condutor às fls. 1.061-1.066.
+2. A novação, conquanto modalidade de extinção de obrigação em virtude da constituição de nova obrigação substitutiva da originária, não tem o condão de impedir a revisão dos negócios jurídicos antecedentes, máxime diante da relativização do princípio do pacta sunt servanda, engendrada pela nova concepção do Direito Civil, que impõe o diálogo entre a autonomia privada, a boa-fé e a função social do contrato. Inteligência da Súmula 286 do STJ.
+3. Recurso especial provido para determinar o retorno dos autos ao Tribunal de origem.
+(REsp n. 866.343/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 2/6/2011, DJe 14/6/2011.)
+Diante do exposto, CONHEÇO do agravo e DOU PARCIAL PROVIMENTO ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que seja suprida a omissão apontada.
+Publique-se e intimem-se.
