@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de agravo manifestado por Simone de Souza Cruzcontra decisão que negouseguimentoarecurso especial, no qual se alega dissídio jurisprudencial.O acórdão recorrido está retratado naseguinte ementa(fl. 199):
+OBRIGAÇÃO DE FAZER - JULGAMENTO CITRA PETITA - DANOS MATERIAIS E MORAIS - CORTE DE FORNECIMENTO DE ENERGIA ELÉTRICA - HONORÁRIOS ADVOCATÍCIOS - COMPENSAÇÃO. Os limites da lide são traçados pela petição inicial e pela defesa, devendo o Magistrado atentar para a inteireza da prestação jurisdicional. Para a configuração do dever de indenizar é necessário que se verifique a presença simultânea de três elementos essenciais, quais sejam: a ocorrência induvidosa do dano; a culpa, o dolo ou má-fé do ofensor; e o nexo causal entre a conduta ofensiva e o prejuízo da vítima. Sofre dano moral o comerciante que vê cortada ilegalmente sua energia elétrica pelo dono do estabelecimento, tendo em vista sua inadimplência quanto ao valor dos aluguéis. Ao credor, compete pleitear o recebimento dos valores pela via judicial cabível, sendo sobremaneira reprovável a conduta de cortar a luz do devedor para compeli-lo a cumprir sua obrigação contratual. Os honorários advocatícios são verbas autônomas que pertencem aos advogados das partes, sendo, porém, possível sua compensação quando haja sucumbência recíproca.
+Foram opostos embargos de declaração, que ficaram retratados na seguinte ementa (fl. 234):
+EMBARGOS DE DECLARAÇÃO - OMISSÃO - CONTRADIÇÃO - EFEITOS INFRINGENTES - ERRO MATERIAL - CORREÇÃO. Havendo erro material na decisão embargada, devem ser acolhidos os embargos de declaração, para sanar o vício.
+Sustenta a agravante que os danos morais foram fixados de forma irrisória.
+Assim posta a questão, passo a decidir.
+No tocante ao valor fixado pelos danos morais, registroque esta Corteconsidera excepcionalmente cabívelo reexame do referido valor, quando foreleexcessivo ou irrisório.
+Na situação dos autos, a condenação da agravadaaopagamento de R$ 5.000,00 (cinco mil reais), mostra-seadequada paramitigar os danos morais sofridos pela agravante, sem ensejar a configuração deenriquecimento ilícito.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo, ônus suspensos no caso de beneficiária da justiça gratuita.
+Intimem-se.
