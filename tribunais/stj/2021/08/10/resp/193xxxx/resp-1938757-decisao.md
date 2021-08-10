@@ -1,0 +1,16 @@
+DECISÃO
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal local no Agravo em Execução n. 1.0000.20.567583-8/001.
+Nas razões recursais, o Parquet aponta a violação do art. 111 da Lei de Execução Penal e explica que a determinação do regime prisional tem de observar o resultado da soma das penas privativas de liberdade, porquanto constituem reprimendas da mesma espécie.
+Requer o provimento do recurso, "a fim de que se proceda à soma/unificação das reprimendas de detenção e reclusão do recorrido, com a subsequente determinação do regime prisional adequado" (fl. 217).
+Apresentadas as contrarrazões e admitido o recurso, o Ministério Público Federal manifestou-se pelo seu provimento (fls. 249-250).
+Decido.
+Observo que o especial suplanta o juízo de prelibação, haja vista que preenche dos demais requisitos de admissibilidade e comporta provimento, por decisão monocrática do relator, uma vez que o acórdão impugnado está em dissonância com o entendimento firmado por esse Superior Tribunal, in verbis:
+ ..
+A teor do art. 111 da Lei n. 7.210/1984, na unificação das penas, devem ser consideradas cumulativamente tanto as reprimendas de reclusão quanto as de detenção para efeito de fixação do regime prisional, porquanto constituem penas de mesma espécie, ou seja, ambas são penas privativas de liberdade.
+(AgRg no REsp n. 1.939.600/GO, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 28/6/2021)
+Com efeito, prevalece a compreensão de que, por força do art. 111 da LEP, em caso de condenação por mais de um crime, para determinação do regime de cumprimento considera-se o resultado da soma ou unificação das penas, independentemente de serem de detenção ou de reclusão. Os art. 33, 69 e 76 do CP, bem como o art. 681 do CPP não autorizam solução diversa, pois a execução é una e ocorre de forma simultânea em relação a sanções da mesma espécie. Ademais, conforme previsão do art. 33 do CP, a detenção deve ser cumprida em regime semiaberto ou aberto, "salvo necessidade de transferência a regime fechado".
+Deveras: "as reprimendas de reclusão e de detenção devem ser somadas para fins de unificação da pena, haja vista que ambas são modalidades de pena privativa de liberdade e, portanto, configuram sanções de mesma espécie"(AgRg no HC n. 538.896/ES, Ministro Ribeiro Dantas, 5ª T., DJe 2/3/2020).
+A "Lei de Execuções Penais não diferencia, para efeitos de unificação, as reprimendas de detenção e reclusão, ambas penas privativas de liberdade e da mesmas espécie. Prevalece a compreensão de que, por força do art. 111da LEP, o Juiz das Execuções considerará cumulativamente todas as condenações em curso do sentenciado para determinação do regime prisional" (AgRg no HC 556.976/ES, Rel. Ministro Rogerio Schietti, 6ª T., DJe 14/8/2020).
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial, para cassar o acórdão recorrido e restabelecer a unificação das penas do condenado, nos moldes do que foi decidido pelo Juízo da VEC.
+Comunique-se o inteiro teor dessa decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
