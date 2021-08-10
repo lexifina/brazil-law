@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo interposto pela FAZENDA PÚBLICA DO ESTADO DE SÃO PAULO contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, o contribuinte impetrou mandado de segurança, ao qual atribuiu o valor de R$ 172.948,12 (cento e setenta e dois mil, novecentos e quarenta e oito reais e doze centavos), objetivando garantir ao impetrante o benefício do diferimento do ICMS prescrito no art. 391 do RICMS.
+Após sentença que concedeu a segurança pleiteada, foi interposta apelação pela Fazenda Estadual, que teve seu provimento negado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ficando consignado o entendimento de que a interpretação da legislação estadual, sob o enfoque dos princípios constitucionais, confere ao contribuinte o direito ao diferimento no recolhimento do ICMS sobre a mercadoria importada.
+O referido acórdão foi assim ementado, in verbis:
+Tributário - ICMS Reconhecimento de direito ao diferimento do tributo na importação de pescado em lascas Inteligência do art. 391 do RICMS Possibilidade O simples fato de o peixe encontrar-se em lascas não lhe retira a característica in natura exigida pela legislação que confere o benefício fiscal Sentença concessiva da segurança mantida - Recurso de apelação e reexame mandatório desprovidos.
+Contra a decisão cuja ementa se encontra acima transcrita, a FAZENDA ESTADUAL interpôs recurso especial, apontando violação do art. 111 do CTN.
+Sustenta, em síntese, que é indevida a concessão do benefício fiscal de diferimento no recolhimento do ICMS, tendo em vista que o produto importado pelo contribuinte não está expressamente previsto no rol contido na legislação estadual.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 280 do STF, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O Tribunal a quo, para decidir a controvérsia, interpretou legislação local, in casu, a Lei n. 9.176/1995, o que implica a inviabilidade do recurso especial, aplicando-se, por analogia, o teor do enunciado n. 280 da Súmula do STF, que assim dispõe: "Por ofensa a direito local não cabe recurso extraordinário.".
+Nesse diapasão, confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSTALAÇÃO DE ESTAÇÃO DE RÁDIO-BASE DE TELEFONIA. AUSÊNCIA DE AUTORIZAÇÃO MUNICIPAL. LEI MUNICIPAL 13.756/04 E DECRETO MUNICIPAL 44.944/04. MATÉRIA DE DIREITO LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 26/08/2016, que, por sua vez, julgara recurso interposto contra decisão publicada na vigência do CPC/73.
+II. Segundo consta do acórdão recorrido, a "Prefeitura Municipal de São Paulo propôs ação demolitória, em face da Tim Celular S/A, perante o Juízo da 7ª Vara da Fazenda Pública da Comarca da Capital, objetivando a remoção da estação de rádio base instalada irregularmente, em razão de o equipamento estar em funcionamento sem prévio licenciamento urbanístico". O Tribunal de origem manteve a sentença de procedência.
+III. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento em leis locais (Lei municipal 13.756/04 e Decreto municipal 44.944/04). Assim, torna-se inviável, em Recurso Especial, o exame da matéria nele inserida, diante da incidência, por analogia, da Súmula 280 do STF, que dispõe: "Por ofensa a direito local não cabe recurso extraordinário". Nesse sentido: STJ, AgRg no AREsp n. 709.574/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe de 14/9/2015; REsp n. 1.455.034/DF, Rel. Ministro Herman Benjamin, Segunda Turma, DJe de 6/4/2015.
+IV. Agravo interno improvido.
+(AgInt no AREsp n. 970.011/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, julgado em 18/5/2017, DJe 24/5/2017.)
+PROCESSUAL CIVIL. SERVIDOR PÚBLICO. MUNICÍPIO DE SÃO PAULO. REAJUSTES REMUNERATÓRIOS. LEIS MUNICIPAIS. INCIDÊNCIA. MATÉRIA LOCAL. SÚMULA 280/STF.
+1. A Primeira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.217.076/SP, representativo de controvérsia repetitiva, firmou o entendimento de que "A discussão, na fase de liquidação, a respeito dos supervenientes reajustes concedidos pela legislação municipal (Lei 12.397/97) e seus reflexos no cálculo do percentual devido e no cumprimento da condenação imposta envolve exclusivamente interpretação e aplicação de direito local, insuscetível de reexame por recurso especial. Aplicação, por analogia, da Súmula 280 do STF" (Rel. Min. Teori Albino Zavascki, DJe 14/10/11).
+2. Agravo regimental não provido.
+(AgRg no AgRg nos EDcl no AREsp n. 4.111/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 14/10/2014, DJe 12/11/2014.)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
