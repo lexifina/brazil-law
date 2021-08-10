@@ -1,0 +1,21 @@
+DECISÃO
+PATRICK SCORSATTO alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulno HC n. 5023196-69.2021.8.21.7000.
+A defesa pretende a cassação do acórdão impugnado, com determinação de que o paciente seja posto em liberdade, ou, alternativamente, a concessão de prisão domiciliar.
+Aduz quea quantidade de drogas apreendidas em poder do acusado e o fato de ele responder a outras ações penais não indicam, por si sós, o perigo de liberdade. Sustenta que o decisum combatido não apontou elementos concretos a justificar a necessidade da prisão cautelar.
+Todavia, o Juízo de primeira instância, ao decretar a custódia ante tempus, ressaltou o seguinte (fl. 113, grifei):
+Importante considerar, também, que foram localizados com o suspeito LSD e Cocaína, além de vários aparelhos celulares e dinheiro em notas de vários valores, tudo a indicar a ocorrência da traficância.
+Ainda, em que pese a afirmação do flagrado no sentido de que as fotos foram uma brincadeira, a verdade é que a análise das imagens demonstram (sic) um explicito convite e oferta dos entorpecentes.
+No mais, em consulta à certidão de antecedentes juntadas ao expediente, verifiquei que o acusado responde a três outros processos pelo delito de tráfico de entorpecentes.
+Diante desse contexto, apesar de as referidas ações não configurarem reincidência, indicam a necessidade de segregação cautelar de PATRICK SCORSATTO, pois o fato de estar sendo processado não inibiu a sua ação criminosa, sendo imperiosa sua segregação.
+O Tribunal local manteve a prisão preventiva pelos motivos a seguir (fls. 69-70, destaquei):
+Em posse do paciente e no interior de sua residência foram apreendidas 10 peças de LSD, uma bucha de cocaína, a quantia de R$325,00 em moeda diversa e 04 aparelhos celulares, consoante auto de apreensão de Ev. 01, fls. 12-14 dos autos do processo de origem.
+ ..
+Evidenciadas a gravidade concreta do delito imputado ao paciente, a periculosidade dele e a clara possibilidade de reiteração, haja vista o fato de que, em que pese tecnicamente primário, responde a outros três processos pelo mesmo delito de tráfico de drogas, denotando claramente uma tendência à senda delitiva.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente e concreta para decretar a prisão preventiva, ao salientar que o acusado responde a três outros processos por tráfico de drogas, além de haverem sido apreendidas dez peças de LSD e uma bucha de cocaína.
+O STJ, em casos similares, entende que a existência de inquéritos policiais, ações penais em curso e condenações pretéritas denotam a necessidade de se acautelar a ordem pública, ante o risco concreto de recidiva criminosa.
+Confira-se:"O risco concreto de reiteração delitiva, demonstrado pela existência de maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou ações penais em curso, pode justificar a imposição da prisão preventiva devido à necessidade de se assegurar a ordem pública" (RHC n. 128.993/PI, Rel. Ministra Laurita Vaz, 6ª T., DJe 18/12/2020).
+Em razão das indicadas circunstâncias do fato e do concreto risco de reiteração delitiva, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.Nesse sentido: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
