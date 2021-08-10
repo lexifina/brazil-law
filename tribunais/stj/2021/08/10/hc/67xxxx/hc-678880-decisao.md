@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JAILTON JOSÉDOS SANTOS FILHO, contra acórdão do Tribunal de Justiça do Estado de São Paulo (HC n. 2095130- 51.2021.8.26.0000).
+O paciente foi condenado à pena de 1ano e 9 mesesde reclusãoem regime inicialmente fechadopela prática dos crimes dispostos no art. 1º, I,a, da Lei n.9.455/1997, com término previsto para 1/4/2022.
+O Juízo de primeiro grau indeferiu o pedido de livramento condicional.
+Impetrado habeas corpus, o qual não foi conhecido pelo Tribunal de origem.
+Neste writ, a defesa aponta constrangimento ilegal pela não concessão do benefício. Aduz que o paciente preenche os requisitos legais para a concessão do livramento.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para que seja expedido o alvará de soltura; subsidiariamente, pleiteia sejam aplicadas as cautelares previstas no art. 319 do Código de Processo Penal.
+O pedido de liminar foi indeferido às fls. 36-37.
+As informações foram prestadas às fls. 45-53.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 40-42).
+É o relatório. Decido.
+O Superior Tribunal de Justiça e o Supremo Tribunal Federal pacificaram a orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Consta do acórdão recorrido(fl. 13):
+Pretendem os impetrantes, nesta sede, que seja deferido o seu pedido de livramento condicional.
+Todavia, a ação constitucional de Habeas Corpus não é o meio idôneo para análise da pretensão do paciente. O livramento condicional, assim como quaisquer conflitos relativos ao processo penal executório, deve ser analisado pelo Juízo das Execuções, a quem compete decidir a presença de méritos objetivos e subjetivos para a eventual concessão do benefício almejado. Somente ele tem condições de apurar, com segurança, se o sentenciado faz jus ao benefício pleiteado, verificando o cumprimento de todos os requisitos legais.
+Além disso, o pedido formulado envolve exame aprofundado que não encontra espaço nos estreitos limites da ação constitucional, havendo recurso próprio que permite tal discussão (agravo em execução), razão pela qual não merece ser conhecido.
+Percebe-se, pois, que a impetração busca substituir o agravo em execução, recurso adequado e previsto em lei, pelo remédio constitucional que, como é cediço, não é meio idôneo para análise da pretensão do paciente por não configurar como sucedâneo recursal.
+Dessa forma, há flagrante ilegalidade ao não se analisar a matéria relacionada ao pleito de livramento condicional, o que inviabiliza o conhecimento diretamente pelo STJ, sob pena de indevida supressão de instância.
+Ademais, o STJ entende que a existência de recurso específico não inviabiliza a impetração de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena quando a análise recai sobre questão meramente de direito, como acontece no presente caso em relação ao tema de livramento condicional, intrinsicamente relacionado à liberdade de locomoção do indivíduo.
+Nesse mesmo sentido, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PEDIDO DE SUSTENTAÇÃO ORAL. INADMISSIBILIDADE. DESCABIMENTO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO RETROATIVA DA LEI N. 13.964/2019. QUESTÃO NÃO APRECIADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MATÉRIA DE DIREITO. VIABILIDADE DO MANDAMUS ORIGINÁRIO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. ORDEM CONCEDIDA, DE OFÍCIO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. É incabível o pedido de sustentação oral no julgamento de agravo regimental na esfera penal, pois, nos termos dos arts. 159, inciso IV, e 258 do Regimento Interno do Superior Tribunal de Justiça, o agravo regimental em matéria penal deve ser levado para julgamento em mesa.
+2. Como a matéria arguida não foi analisada pelo Tribunal a quo, não pode ser originariamente examinada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância. Precedentes.
+3. A existência de recurso específico não inviabiliza a impetração de ordem de habeas corpus para a aferição de eventual ilegalidade na fase de execução da pena, quando a análise recai sobre questão pacificada e meramente de direito, consubstanciada na análise da possibilidade de retificação do cálculo de penas do Paciente, com a aplicação retroativa da Lei n. 13.964/2019. A recusa em analisar o tema, pelo Tribunal de origem, constitui ilegalidade flagrante.
+4. Ressalte-se que, apesar de ser o agravo o recurso próprio cabível contra decisão que resolve incidente em execução, não há óbice ao manejo do habeas corpus quando a análise da legalidade do ato coator prescindir do exame aprofundado de provas e exista possibilidade de lesão à liberdade de locomoção do indivíduo, como na espécie.
+5. Agravo regimental desprovido. (AgRg no HC n. 609.783/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 23/10/2020.)
+RECURSO ORDINÁRIO DE HABEAS CORPUS. AUSÊNCIA DE EXAME DO MÉRITO DA CAUSA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INVIABILIDADE DO CONHECIMENTO DAS TESES DEFENSIVAS. NECESSIDADE DE RETORNO DOS AUTOS. RECURSO ORDINÁRIO PARCIALMENTE PROVIDO.
+1. In casu, constata-se que a Corte estadual limitou-se ao não conhecimento do writ originário, sem avaliar a existência de eventual ilegalidade perpetrada em desfavor do ora recorrente.
+2. De plano, mostra-se inviabilizado o conhecimento da questão suscitada no presente recurso, diretamente por esta Corte, sob pena de indevida supressão de instância, uma vez que o tema não chegou a ser apreciado pelo Tribunal a quo.
+3. Com efeito, nos moldes da orientação do STJ e do STF, é indispensável que se afaste por completo a existência de flagrante constrangimento ilegal, sob pena de ofensa ao art. 5º, LXVIII, da CF.
+4. Nesse contexto, a solução passa pelo retorno dos autos ao Tribunal de origem para que examine a fundamentação expendida pelo impetrante, ora recorrente.
+5. Recurso ordinário em habeas corpus a que se dá parcial provimento para determinar o retorno dos autos à instância de origem, a fim de que se examine o mérito do pedido, como for de direito. (RHC n. 104.808/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 19/12/2018.)
+Ante o exposto, não conheço do habeas corpus, mas, de ofício, concedo a ordem para determinar que o Tribunal de origem examine o mérito da impetração.
+Publique-se. Intimem-se.
