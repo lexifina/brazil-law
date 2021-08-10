@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo manejado por Benedita de Morais Fideliscontra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 306):
+Apelação Cível. Relação de Consumo. Sentença de procedência parcial do pedido. Recurso autoral que se insurge diante da improcedência do pedido de indenização por dano moral. Sentença que de forma correta reconheceu que não houve dano moral no caso em exame. Ocorrência de sucumbência recíproca. Alegação de inobservância da gratuidade de justiça deferida na cobrança das custas processuais e da fixação dos honorários advocatícios. Provimento parcial do recurso em relação a esse aspecto. Sentença parcialmente reformada.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 14 do CDC; 186 e 927 do CC. Sustenta, em síntese, que sofreu dano moral em decorrência da cobrança indevida de débitos de energia elétrica.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Ao dirimir a controvérsia, a Corte local consignou (fl. 309):
+A apelação não merece prosperar. A parte autora alega que a apuração de consumo de energia elétrica apurado entre março de 2013 e junho de 2016 no imóvel em que a parte reside não foi realizada de forma correta, uma vez que haveria a cobrança de valores elevados não correspondentes ao efetivo consumo. Pede a revisão das contas e indenização por dano moral.
+A pretensão recursal não merece prosperar, tendo em vista que, no caso em exame, a parte apelante não logrou demonstrar o defeito na prestação de serviços por parte da apelada a ensejar a reparação de dano moral.
+Cabe mencionar que, ainda que se trate de relação de consumo, regida pelas regras do Código de Defesa do Consumidor, a parte autora deve se desincumbir de forma mínima do ônus da prova.
+Compulsados os autos, verifica -se que o perito do Juízo atestou que não houve consumo registrado referente ao período de julho de 2013 e junho de 2016, de modo que o serviço foi prestado mas não houve a devida contraprestação pela apelante (fls. 223/230)
+Assim, andou bem a sentença ao julgar improcedente o pedido inicial, eis que não restou configurado qualquer conduta ilícita da parte ré que justifique a revisão das contas ou condenação para ressarcimento por dano moral.
+Verifica-se que a Instância a quo, com base em premissas fáticas, concluiu que não foi demonstrada a prática de conduta ensejadora de responsabilidade civil. Assim, aalteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir se houve ou não a prática de ato lesivo por parte da concessionária de energia elétrica, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. CORTE DE ENERGIA ELÉTRICA. DÉBITO PRETÉRITO.INEXISTÊNCIA DE NOTIFICAÇÃO PRÉVIA DO CONSUMIDOR. DANO MORAL.REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃO NO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+1. A alteração da conclusão adotada pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice previsto na Súmula 7 deste Tribunal Superior.
+2. Agravo interno improvido.
+(AgInt no AREsp 1706380/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+ANTE O EXPOSTO, nego provimento ao agravo. Levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte recorrente o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC), observando-se, contudo, o disposto no art. 98, § 3º, do CPC, em razão da concessão do benefício da assistência judiciária gratuita.
+Publique-se.
