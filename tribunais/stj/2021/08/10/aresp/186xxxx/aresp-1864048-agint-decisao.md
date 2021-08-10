@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo apresentado por MUNICIPIO DE UBA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre apresentado por MUNICIPIO DE UBA, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+REEXAME NECESSÁRIO APELAÇÃO CÍVEL MANDADO DE SEGURANÇA DIREITO PREVIDENCIÁRIO MUNICÍPIO DE UBÁ PENSÃO POR MORTE DIREITO À PARIDADE IPSEMG - INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO ESTADO DE MINAS GERAIS RESPONSABILIDADE PELO PAGAMENTO DO BENEFÍCIO LITISCONSÓRCIO PASSIVO NECESSÁRIO E UNITÁRIO AUSÊNCIA DE FORMAÇÃO VÍCIO NULIDADE DA SENTENÇA
+Quanto à primeira controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 6º, § 5º, da Lei n. 12.016/2009, no que concerne à necessidade de dilação probatória, trazendo o(s) seguinte(s) argumento(s):
+19. Pois bem, doutos julgadores, o que se compreende é que houve uma clara inobservância ao conceito de direito líquido e certo, sendo este decorrente da comprovação de plano quando do ajuizamento da ação. 20. De certo, por se tratar de uma ação mandamental os litígios em que se necessita de uma fase de instrução para comprovação das alegações não podem ser julgados sobre o panorama desse instrumento constitucional.  ..  22. Veja-se, nobres julgadores, que o acórdão inobservou quanto à pertinência da necessidade de provas e a inviabilização da segurança, ofendo a disposição do art. 6º, § 5º da Lei nº 12.016/2009. 23. Por todo o exposto, verifica-se que a decisão prolatada pelo Tribunal Mineiro acabou por ir de encontro com o próprio sistema adotado pelo nosso país, negando vigência ao artigo alhures mencionado. (fls. 606).
+É, no essencial, o relatório. Decido.
+No que concerne ao recurso apresentado por MUNICIPIO DE UBA, quanto à primeira controvérsia, na espécie, 4|1397
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
