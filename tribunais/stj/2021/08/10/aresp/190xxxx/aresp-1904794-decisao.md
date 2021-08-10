@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por NORBERTO DEFAVARI JUNIOR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ADICIONAL DE PERICULOSIDADE SERVIDOR MUNICIPAL DE PIRACICABA LEITOR DE HIDRÔMETRO INADMISSIBILIDADE AUSÊNCIA DE PREVISÃO LEGAL NA LEGISLAÇÃO LOCAL R SENTENÇA REFORMADA.
+Quanto à controvérsia, alega violação do art. 193, § 4º, da CLT; e do art. 7º, XIII, da CF/88, no que concerne ao cabimento do adicional de periculosidade e de adicionais legais por trabalhar de motocicleta, trazendo o(s) seguinte(s) argumento(s):
+Na sequência a Consolidação das Leis Trabalhistas regulamenta a matéria e dispõe EXPRESSAMENTE sobre o trabalho com ciclomotor. Vejamos:
+Art. 193. São consideradas atividades ou operações perigosas, na forma da regulamentação aprovada pelo Ministério do Trabalho e Emprego, aquelas que, por sua natureza ou métodos de trabalho, impliquem risco acentuado em virtude de exposição permanente do trabalhador a:
+§ 4 o São também consideradas perigosas as atividades de trabalhador em motocicleta.
+Ou seja, o v. acórdão AFRONTA claramente o dispositivo de lei!
+Esclarece-se, ainda, que em que pese o Recorrente seja empregado de Autarquia, de acordo com a Lei Municipal nº 1.657/59 que regulamenta o SEMAE, mais especificamente no artigo 10, § 2º, prevê que o contrato de trabalho do Recorrente é regido pela CLT (fl. 326).
+Veja-se que mesmo que a Municipalidade exija a regulamentação por Lei Especial e essa ainda não exista, os próprios dispositivos atuais da Autarquia indicam que os contratam são regidos pela CLT. Além do que, existindo previsão na Lei Federal para tanto, é certo que a falta da regulamentação por lei especial municipal não é fator determinante e tampouco exime a Autarquia de efetuar o pagamento do direito previsto em LEI FEDERAL! (fl. 327).
+É, no essencial, o relatório. Decido.
+Na espécie, é incabível o recurso especial quando visa discutir violação de norma constitucional porque, consoante o disposto no art. 102, inciso III, da Constituição Federal, é matéria própria do apelo extraordinário para o Supremo Tribunal Federal.
+Nesse sentido: "Não cabe a esta Corte Superior, ainda que para fins de prequestionamento, examinar na via especial suposta violação de dispositivo ou princípio constitucional, sob pena de usurpação da competência do Supremo Tribunal Federal". (AgInt nos EREsp 1.544.786/RS, relator Ministro Gurgel de Faria, Primeira Seção, DJe de 16/6/2020.)
+Confiram-se ainda os seguintes julgados: EDcl no REsp 1.435.837/RS, relator Ministro Ricardo Villas Bôas Cueva, Segunda Seção, DJe de 1º/10/2019; EDcl no REsp 1.656.322/SC, relator Ministro Rogerio Schietti Cruz, Terceira Seção, DJe de 13/12/2019.
+Ademais, não é cabível o recurso especial porque interposto contra acórdão com fundamento em legislação local, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal. Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "A tutela jurisdicional prestada pela Corte de origem com fundamento em legislação local impede o exame do apelo extremo, mediante aplicação da Súmula 280/STF". (REsp 1.759.345/PI, relator Ministro Og Fernandes, Segunda Turma, DJe de 17/10/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.657.693/RJ, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; AgInt no REsp 1.616.439/SC, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 1º/6/2020; AgRg no REsp 1.822.671/MT, relator Ministro Jorge Mussi, Quinta Turma, DJe de 7/4/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
