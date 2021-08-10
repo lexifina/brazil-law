@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJMS assim ementado (e-STJ fl. 141):
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO - ADOÇÃO DE PROVIDÊNCIAS PERTINENTES AO PROSSEGUIMENTO DA EXECUÇÃO - EXPEDIÇÃO DE CERTIDÃO - DIREITO E GARANTIA FUNDAMENTAL - COMPROVAÇÃO DA LOCALIZAÇÃO DE BEM CONSTRITADO - PROVIDÊNCIA QUE COMPETE AO DEVEDOR - RECURSO CONHECIDO E PROVIDO.
+O requerimento de expedição de certidão de penhora, para fins de registro, prescinde de comando judicial, tendo em mente o direito de certidão, previsto no art. 5º, XXXIV, "b", da Constituição Federal, norma de eficácia plena e aplicabilidade imediata, cuja negativa pode ser tutelada, inclusive, por mandado de segurança. A providência, ademais, encontra guarida no art. 659, § 4º, do CPC. 2. Embora pertença ao credor o ônus de localizar bens do executado passíveis de constrição, uma vez realizada esta, compete aos devedores comprovar sua localização e propriedade, devendo abster-se de atos que dificultem ou embaracem a realização da constrição, inclusive avaliação, nos termos do art. 656, § 1º, do CPC.
+A parterecorrenteopôs embargos de declaração, os quais foram rejeitados (e-STJ fls. 160/164).
+Em suas razões recursais (e-STJ fls. 169/186), fundamentadas no art. 105, III, alíneas "a" e "c", da CF, apontam divergência jurisprudencial e violação dos seguintes dispositivos legais:
+(a) art. 535 do CPC/1973, por negativa de prestação jurisdicional;
+(b) arts. 659, § 4º, 674 e 1.026 do CPC/1973, 1.791 e 2.023 do CC/2002, porque "somente após o encerramento do processo de arrolamento, com a individualização da cota hereditária do devedor, ora Recorrente, é que os atos constritivos poderão recair sobre os bens imóveis" (e-STJ fl. 180);
+(c) arts. 612 e 656, § 1º, do CPC/1973, pois caberia ao credor "apresentar informações acerca de bem imóvel já penhorado, uma vez que a sua adjudicação ou alienação em hasta pública se dará no intuito de satisfazer o crédito do exequente" (e-STJ fl. 181).
+A recorrida apresentou contrarrazões ao especial (e-STJ fls. 215/224).
+É o relatório.
+Decido.
+A insurgência merece parcial acolhida.
+O recurso especial foi interposto com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+Na origem, a Cooperativa de Crédito de Livre Admissão de Associados do Centro Sul do Mato Grosso do Sul - Sicredi Centro - Sul MS,interpôs agravo de instrumento contra decisão proferida nos autos de execução movida contra João Bosco Teixeira de Rezende e Maristela Moreira Andrade Rezende, quehavia indeferido providências requeridas pelo exequente.
+Eis o teor da decisão de primeira instância (e-STJ fl. 35):
+Indefiro os requerimentos formulados na petição de fls. 300/301 porquanto as informações em questão podem ser obtidas pessoalmente pela Credora, independentemente da intervenção e/ou requisição do Poder Judiciário.
+2- Indefiro por manifesta impertinência o requerimento de fls. 304, eis que a penhora realizada no rosto dos autos de inventário recai sobre eventuais bens que couberem aos Executados, portanto, por se tratar de mera expectativa de direito, não se sujeita a registro junto ao cartório imobiliário.
+3- Por fim, adote a Exequente, em quinze (15) dias, as providências necessárias à localização da área penhorada, à semelhança de um estudo de geodirecionamento, com base nos limites e confrontações constantes da matricula, sob penas de levantamento da constrição.
+A Corte estadual entendeu que, embora desnecessário o mandado judicial, o indeferimento do pedido de certidão não se justificava, considerando o art. 659, § 4º, do CPC/1973:
+A penhora de bens imóveis realizar-se-á mediante auto ou termo de penhora, cabendo ao exeqüente, sem prejuízo da imediata intimação do executado (art. 652, § 4º), providenciar, para presunção absoluta de conhecimento por terceiros, a respectiva averbação no ofício imobiliário, mediante a apresentação de certidão de inteiro teor do ato, independentemente de mandado judicial.
+O voto condutor do acórdão destacou, em seguida, que foi levado à penhora um imóvel rural, mas a avaliação não foi possível por não ter sido localizado.
+A conclusão foi de que, embora pertença ao credor o ônus de localizar bens do executado, havendo indicação pelosdevedores, lhes competiracomprovar a localização e propriedade.
+A determinação foi embasada no art. 656, § 1º, do CPC/1973:
+É dever do executado (art. 600), no prazo fixado pelo juiz indicar onde se encontram os bens sujeitos à execução, exibir a prova de sua propriedade e, se for o caso, certidão negativa de ônus, bem como abster-se de qualquer atitude que dificulte ou embarace a realização da penhora (art. 14, parágrafo único).
+A partir dessa avaliação, deu-se "provimento ao recurso para o fim de reformar a decisão e determinar a expedição de certidão do ato de penhora para fins de registro, tal como requerido pelo exequente, bem como para que os devedores apresentem em Juízo a cadeia dominial do imóvel mencionado nos autos e do mosaico de localização do respectivo imóvel, com as coordenadas geográficas obtidas junto ao INCRA, no prazo de 15 dias, sob as penas da lei" (e-STJ fl. 143).
+Os agravados, ora recorrentes, opuseram embargos de declaração, sustentando que o acórdão foi omisso, ao não considerar que a obrigação dos executados havia sido cumprida com a apresentação da matrícula do imóvel rural, e contraditório, ao reconhecer que a melhor solução seria o próprio credor realizar diligências para localização do bem.
+O acórdão não teria se manifestado ainda, "sobre o relevante fundamento de que os Embargantes indicaram para penhora os direitos hereditários de JOÃO BOSCO nos autos de inventário, de maneira que não podem ser obrigados a levar o oficial de justiça a outro bem para penhora" (e-STJ fl. 151).
+Alegaram também que não foi requerida a apresentação dos documentos mencionados no aresto, caracterizando julgamento ultra e extra petita.
+Por fim, teria havido omissão sobre argumento apresentado na contraminuta do agravo, relacionado à distinção entre penhora de bens imóveis e penhora de direitos no inventário.
+É pacíficoo entendimento segundo o qual, não havendo apreciação dos declaratórios em relação a ponto relevante, impõe-se a anulação do acórdão recorrido para que o recurso seja novamente apreciado.
+No caso, o Tribunal de origem deixou de se pronunciar sobre questão relevante, concernenteà distinção entre penhora de bens imóveis e penhora de direitos nos autos de inventário.
+Diante do exposto,DOU PARCIALPROVIMENTO ao recurso especial a fim de anular o acórdão dos embargos de declaração e determinar o retorno dos autos ao Tribunal de origem, para apreciação do tema ora apontado.
+Publique-se e intimem-se.
