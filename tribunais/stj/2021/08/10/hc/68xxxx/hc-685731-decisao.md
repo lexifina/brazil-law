@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  favor  de  JOSÉ ANTÔNIO DA MOTA contra  decisão liminar proferida por Desembargador doTribunal  de  Justiça  Militar  do  Estado  de  São  Paulo  no Hc n.0900215-35.2021.9.26.0000
+Consta  dos  autos  que  o Juiz de Direito da 5ª Auditoria Militar  indeferiu o pedido de saída temporária do "Dia dos Pais", a ser usufruído no período de 4 a 11 de agosto de2021  (e-STJ ,  fl.  18).
+A  defesa,  então,  insatisfeita,  interpôs gravo em execuçãoperante a Corte de origem.  O Relator,  contudo,  negou a medida urgente (e-STJ,  fls. 18/22).
+Nesta via, a defesa alega queo eminente Relator se ateve somente a sintetizar os atos processuais praticados, não tendo lançado em sua decisão qualquer fundamento para o indeferimento do pedido liminar libertatório.
+Sustenta, no mais, que aexigência do cumprimento de um sexto da pena para fins de saída temporária, a quem cumpre pena inicial no regime semiaberto, é ilegal, uma vez que é o mesmo requisito para a progressão para o regime aberto, entendimento esse do Superior Tribunal de Justiça e da Suprema Corte.
+Desse modo, requer a Saída Temporária de dia dos Pais, iniciando em 4 de agosto e findando em 11 de agosto do corrente ano ou,caso o presente seja julgado posteriormente, que seja deferidaa prorrogação de mais 7 dias.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.
+No mesmo sentido, confira-se o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA 691 DO SUPREMO TRIBUNAL FEDERAL - STF. DECISÃO DO RELATOR QUE, EMBORA SUCINTA, FUNDAMENTA O INDEFERIMENTO DA LIMINAR NA AUSÊNCIA DOS REQUISITOS EXIGIDOS. AUSÊNCIA DE FLAGRANTE ILEGALIDADE CAPAZ DE SUPERAR O ÓBICE DA SÚMULA N. 691/STF. IMPOSSIBILIDADE DE MANIFESTAÇÃO DESTA CORTE, SOB PENA DE INDEVIDA SUPRESSÃO DE INSTÂNCIA. RECURSO DESPROVIDO. 1. Não é teratológica a decisão do Desembargador relator que, vislumbrando a impossibilidade de apreciação da matéria em sede de juízo perfunctório, tendo em vista a faculdade que lhe é concedida, solicita informações ao Juízo de origem para melhor análise do pedido formulado no mandamus originário e delega ao colegiado o julgamento do mérito, após o parecer do Parquet, não se verificando, portanto, hipótese de superação do enunciado n. 691 da Súmula do STF. 2. De acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem. 3. Agravo regimental desprovido
+(AgRg no HC n. 529.007/SP, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 17/9/2019, DJe 23/9/2019).
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não constatada na espécie, não é de se admitir casos como o dos autos.
+Consignou a Corte de origem, no que interessa (e-STJ, fl. 21):
+O requisito temporal exigido pelo artigo 123, II, da Lei de Execuções Penais, se dará aos 29/08/2022 (ID 332392).
+Por certo, todas as questões suscitadas pela defesa do paciente serão tratadas naquele mandamus por ocasião do julgamento de mérito, sem o qual esta Corte fica impedida de apreciar (em ampla extensão e profundidade) o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+Em conclusão, entendo não configurada hipótese excepcional de flagrante ilegalidade que justifique a superação da Súmula 691 do Supremo Tribunal Federal, resultando incabível a presente impetração.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
