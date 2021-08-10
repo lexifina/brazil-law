@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloMINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁSassim ementado:
+AGRAVO REGIMENTAL NA APELAÇÃO CÍVEL AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA DECISÃO QUE NEGA SEGUIMENTO AO APELO APLICAÇÃO DO CAPUT DO ART 557 DO CPC JUNTADA DE DOCUMENTOS EM SEDE RECURSAL VEDAÇÃO INEXISTÊNCIA DE FATO NOVO MANUTENÇÃO DO DECISUM RECURSO CONHECIDO E DESPROVIDO
+Em aclaratórios, declarou-se a nulidade de todos os atos desde o recebimento da inicial, por ter sido feito por vara já então incompetente para o feito, por força de criação de nova vara especializada (e-STJfls. 1.292-1.332). Novos aclaratórios foram rejeitados (e-STJfls. 1.374-1.383).
+Defende, em síntese: i) vício de fundamentação acerca da data de  instalação da nova vara (arts. 535 do CPC/1973); ii) possibilidade de juntada de documentos sobre matéria levantada inauguralmente nos primeiros aclaratórios (art. 397 do CPC/1973); e iii) ser competente a vara anterior até a instalação efetiva, e não mera criação legislativa, de nova vara (art. 113, § 2º, do CPC/1973).
+Apresentadascontrarrazões (e-STJfls. 1.410-1.440), o recurso especial foi admitido na origem (e-STJfls. 1.444-1.447).
+Parecer pelo provimento (e-STJfls. 1.460-1.465).
+Houve sucessão processual em virtude do falecimento do réu, ora recorrido (e-STJfl. 1504).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/15, c/c a Meta 2/CNJ/2021- "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016e 95% dos distribuídos em 2017",Meta 4/CNJ/2021- "Identificar e julgar até 31/12/2021: 99% das ações de improbidade administrativa e das ações penais relacionadas a crime contra a Administração Pública distribuídas até 31/12/2018e 90% das ações distribuídas em 2019", Meta 6/CNJ/2021 - "Identificar e julgar até 31/12/2021: 99% dos recursos oriundos de ações coletivas distribuídos a partir de 1/1/2015" eMeta 12/CNJ/2021 - "Identificar e julgar 40% dos processos relacionados às ações ambientais, distribuídos até 31/12/2020").
+É o relatório.
+Há relevante vício de fundamentação na origem acerca da legislação e atos locais alusivos à instauração da vara. Com efeito, não se pode tratar a legislação local vigente como documentos, para conhecimento da matéria. Seria mesmo dever do tribunal, de ofício, considerá-los, independentemente de juntada expressa pelas partes.
+Essa omissão impede a apreciação da matéria diretamente nesta instância, ensejado claro prejuízo ao recorrente. Apenas se esclarecida a interpretação das normas e atos administrativos locais, com pronunciamento expresso do tribunal acerca da criação e da instalação da nova vara, bem como sobre a situação dos processos no hiato entre esses momentos, seria viável afastar-se o vício de fundamentação.
+O reconhecimento do vício impede o conhecimento das demais matérias.
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimento, para renovar o julgamento dos segundos aclaratórios, com enfrentamento expresso da matéria fática e normativa local suscitada.
+Publique-se. Intimem-se.
