@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 331):
+Agravo de instrumento. Cumprimento de sentença. Pedido de bloqueio de cartões de crédito e Carteira Nacional de Habilitação do Executado, com base no art. 139, inc. IV, do CPC. Inadmissibilidade. Medidas desproporcionais e excessivamente gravosas. Recurso desprovido.
+No recurso especial (e-STJ fls. 337/348), interposto com fundamento no art. 105, III, "a" e "c", da CF, a parte recorrente alega, além de divergência jurisprudencial, ofensa ao art. 139, IV, do CPC/2015. Sustenta que seria possível a suspensão da CNH do recorrido, bemcomo o cancelamento de cartões de crédito.
+Não foram apresentadas contrarrazões (e-STJ fl. 366).
+O recurso foi admitido na origem (e-STJ fls. 367/368).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, entendeu pela ausência de razoabilidade da medida pleiteada, assim consignando (e-STJ fl. 332):
+Não se desconhece as dificuldades enfrentadas pelo Exequente para satisfação de seu crédito. Entretanto, as medidas pleiteadas são demasiadamente gravosas ao Executado e não guardam relação direta com o cumprimento da obrigação de pagar, sendo ineficazes.
+Ademais, as restrições não guardam relação de proporcionalidade e razoabilidade com o valor da obrigação principal, nem são capazes de assegurar a satisfação da execução, motivo pelo qual o exagero em sua fixação acaba por frustrar sua própria finalidade.
+O entendimento do aresto estadual foi de que se deve buscar a providência mais eficaz e menos gravosa ao executado. Concluiu o colegiado que as medidas seriam excessivamente gravosas à parte executada e desproporcionais à obrigação de pagamento do débito.
+Ultrapassar a conclusão da instância de origem a fim de analisar as condições no caso concreto, com fito de autorizar constrições mais severas e excepcionais, demandaria inegável revolvimento fático-probatório, o que é vedado pelo teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRETENSÃO DE QUE SEJA SUSPENSA A CNH DO DEVEDOR COM BASE NO ART. 139, IV, DO CPC/2015. CONCLUSÃO NO SENTIDO DA INADEQUAÇÃO DA MEDIDA PARA O FIM COLIMADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu que a medida pleiteada - suspensão da CNH dos recorridos - é inadequada para o fim colimado, pois é desproporcional no caso em tela, especialmente porque atinge a pessoa do devedor, não seu patrimônio. Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.233.016/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/4/2018, DJe 17/4/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.283.998/RS, Relator Ministro LAZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 9/10/2018, DJe 17/10/2018.)
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
