@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73 manejado por Embraer - Empresa Brasileira de Aeronáutica S/A, com base no art. 105, III, a e c, da CF, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 359/360):
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. LEI 7.787/89.CONTRIBUIÇÃO SOCIAL INCIDENTE SOBRE A FOLHA DE PAGAMENTO.JULHO, AGOSTO E SETEMBRO DE 1989. LACUNA DE LEI. OFENSA AO PRINCÍPIO DA ANTERIORIDADE NONAGESIMAL. INADEQUAÇÃO DA VIA ELEITA. DESNECESSÁRIA A COMPROVAÇÃO DO NÃO REPASSE DO ENCARGO FINANCEIRO AO TERCEIRO
+1.0 mandado de segurança é via processual adequada para pleitear compensação tributária. Súmula 213 do Superior Tribunal de Justiça.
+2.Consoante entendimento firmado pelo Colendo Superior Tribunal de Justiça o prazo prescricional para a compensação da contribuição social incidente sobre a folha de salário, declarada inconstitucional pelo Supremo Tribunal Federal, recolhida indevidamente, é de cinco anos, contados a partir da data da declaração de inconstitucionalidade ou da publicação da Resolução do Senado suspendendo a exigibilidade.
+3. O Colendo Supremo Tribunal Federal, em decisão proferida pelo Pleno no RE nº 169740-7/PR, declarou a inconstitucionalidade da contribuição incidente sobre a folha de salários, instituída pelo art. 21, da Lei nº 7.787/89 por ofensa ao princípio da anterioridade nonagesimal (julgamento ocorrido em 27.09.1995, publicado em 17.11.1995).
+4. Ações distribuídas em 30.03.1999 e 22.04.1999,dentro do prazo prescricional de cinco anos.
+5. As contribuições previdenciárias não estão incluídas na categoria de tributos indiretos, não comportando a transferência do encargo financeiro ao consumidor. Inaplicabilidade do § 1º do artigo 89 da Lei n 8.212/91.
+6. A Lei nº 7.787/89 revogou o Decreto nº 83.081/79 somente a partir de setembro de 1989, uma vez que artigo 21 postergou a exigibilidade da alíquota majorada para aquela ocasião, sendo que as contribuições relativas às competências de julho e agosto de 1989 são exigíveis na forma estabelecida pela legislação em vigor.
+7.Preliminares rejeitadas. Recurso de apelação do INSS improvido e remessa oficial parcialmente provida.
+A parte recorrente interpôs agravo legal contra decisão que negou seguimento aos embargos de declaração. Eis a ementa (fl. 420):
+PROCESSUAL CIVIL - AGRAVO DO ART. 557, § 12, CPC, NEGADO SEGUIMENTO A EMBARGOS DE DECLARAÇÃO -VÍCIOS ALEGADOS NÃO CONFIGURADOS - EFEITO MODIFICATIVO DO JULGADO.
+1. Embargos de declaração aos quais foi denegado seguimento ao fundamento de que o v. acórdão analisou todas as questões relativas ao mérito da ação.
+2. Os embargos de declaração não são o meio processual adequado para modificar o julgado.
+3. Agravo Legal improvido.
+Nas razões do recurso especial, a parte recorrente aponta, além de divergência jurisprudencial, violação aos arts. 535, I e II, do CPC73 e 21 e 22 da Lei n. 7.787/89.Sustenta, em resumo: (I) tese de negativa de prestação jurisdicional; e (II) "após os procedimentos legais, a recorrente requer o conhecimento e o provimento integrais do recurso, para declarar a inexistência de relação jurídico -tributária entre as partes litigantes, que obrigue o contribuinte ao recolhimento da contribuição social sobre a folha de salários e autorizar a compensação dos valores recolhidos indevida e integralmente em agosto e setembro e parcialmente em outubro de 1989 (competências julho, agosto e setembro), nos exatos termos contidos na inicial, por ser medida que atende aos preceitos do direito e da justiça." (fl. 499).
+Contrarrazões às fls. 554/570.
+Parecer ministerial às fls. 636/644.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016 (Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+A pretensão recursal merece acolhida, pois a parte recorrente, nas razões aduzidas no agravo legal (fls. 390/395), sustentou que:
+ ..
+De fato, a agravante apontou que a ilustre relatora considerou válido o Decreto nº83.081/1979 até a vigência da Lei nº 7.787/1989, mas ressaltou que haviam outras questões a serem apreciadas, tais como o artigo 22, da referida Lei nº 7.787/1989, que revogou expressamente a legislação anterior; o artigo 2º, da Lei de Introdução ao Código Civil, o princípio da anterioridade mitigada, expostas desde a inicial e reforçadas nos embargos de declaração, por terem sido claramenteignorados no julgamento do recurso de apelação.
+Diante dessas circunstâncias, este recurso via à análise integral da matéria relativa à vacatio legis, sem que isso implique em reexame da causa.
+ ..
+Portanto, a simples alegação de que o Decreto nº 83.081/1979 seria válido até a vigência da Lei nº 7.787/1989 não supre a análise de toda a argumentação da agravante, corroborada por doutrina e jurisprudência  ..
+Contudo, observa-se que o Tribunal de origem, mesmo provocado em sede de embargos declaratórios, quedou-se silente sobre argumentações que se mostram relevantes para o deslinde da controvérsia, em franca violação ao art. 535 do CPC/73.
+ANTE O EXPOSTO, dou provimento ao recurso especial, em ordem a anular o acórdão que apreciou os embargos de declaração e, por conseguinte, determinar o retorno dos autos ao Tribunal de origem a fim de que seja realizado novo julgamento com o expresso enfrentamento da questão aqui tida por omitida.
+Publique-se.
