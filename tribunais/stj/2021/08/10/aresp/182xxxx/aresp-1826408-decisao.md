@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravointerposto por ADMINISTRADORA DE CONSÓRCIOS SICREDI LTDA contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdãoproferido pelo Tribunal de Justiça do Estado do Paraná, assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA C/C DECLARAÇÃO DE NULIDADE DE CLÁUSULAS CONTRATUAIS. CONTRATO DE CONSÓRCIO. PARCIAL PROCEDÊNCIA DOS PEDIDOS. INSURGÊNCIA DA RÉ. PRETENSÃO RECURSAL DE ABATIMENTO DOS VALORES REFERENTES À TAXA DE ADMINISTRAÇÃO E AO PRÊMIO DE SEGURO DE VIDA. NÃO CONHECIMENTO. FALTA DE INTERESSE RECURSAL. SENTENÇA QUE NÃO DETERMINOU A EXCLUSÃO DE TAIS VERBAS. PRELIMINAR DE CARÊNCIA DE AÇÃO POR FALTA DE INTERESSE PROCESSUAL AFASTADA. PRETENSÃO QUE ATENDE AO BINÔMIO NECESSIDADE/ADEQUAÇÃO. APLICAÇÃO DA TEORIA DA ASSERÇÃO. IMPOSSIBILIDADE DE RESTITUIÇÃO IMEDIATA DOS VALORES PAGOS PELO CONSORCIADO DESISTENTE. DEVOLUÇÃO QUE DEVE OCORRER NOS TERMOS DO ART. 22 C/C O ART. 30 DA LEI Nº 11.795/2008. ALEGAÇÃO DE ABUSIVIDADE INSUBSISTENTE. CONSÓRCIO DE LONGA DURAÇÃO. IRRELEVÂNCIA. ATUALIZAÇÃO DOS VALORES DE ACORDO COM O PREÇO DO OBJETO CONSORCIAL. INSUBSISTÊNCIA. CORREÇÃO MONETÁRIA. APLICAÇÃO DOS ÍNDICES OFICIAIS QUE MELHOR REFLITAM A DESVALORIZAÇÃO DA MOEDA. INCIDÊNCIA DESDE CADA DESEMBOLSO. ABATIMENTO DO VALOR REFERENTE À CLÁUSULA PENAL. DESCABIMENTO. NECESSIDADE DE DEMONSTRAÇÃO DO PREJUÍZO E/OU DA EFETIVA VANTAGEM AUFERIDA PELO CONSORCIADO. PREJUÍZO QUE NÃO PODE SER PRESUMIDO. SENTENÇA REFORMADA EM PARTE. READEQUAÇÃO DA SUCUMBÊNCIA. RECURSO PARCIALMENTE CONHECIDO E, NESSA PORÇÃO, PARCIALMENTE PROVIDO." (fl. 348 e-STJ).
+Os embargos declaratórios opostos foram acolhidos (fls. 406/408 e-STJ) para apreciar omissão, tendo concluído pelo abatimento das taxas de administração e do seguro.
+Nas razões recursais (fls. 418/434 e-STJ), a recorrente aponta, além da divergência jurisprudencial, a violação dos arts. 10, § 5º e 30 da Lei 11.795/08.
+Sem contrarrazões (fl. 460 e-STJ), foi negado seguimento ao recurso especial (fls. 463/465 e-STJ), dando ensejo à interposição do presente agravo (fls. 475/483 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O agravo não comporta conhecimento.
+O Tribunal de origem não admitiu o Recurso Especial da recorrente em razão da incidência da Súmula 83 do STJ.
+A parte alega que a edição da Lei 11.795, de 2008, teria o condão de superar o entendimento jurisprudencial firmado "no longínquo ano de 1996" (fl.479 e-STJ).Tal argumento, contudo, não é suficiente para considerar impugnada especificamente o fundamento da incidência da Súmula 83 do STJ, pois adecisão agravada - ao invocar o aludido óbice sumular - se fiou em precedentes de 2013, de 2016, de 2018 e de 2020 (fls. 464/465 e-STJ).
+O Superior Tribunal de Justiça entende que, nos casos em que do Recurso Especial não se conheceu com base no Enunciado nº 83 do STJ, incumbe à parte, no Agravo em Recurso Especial, pelo menos apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada. Não o fazendo, é correta a decisão que não conhece do Agravo nos próprios autos.
+A propósito:
+"DIREITO ADMINISTRATIVO E PROCESSUAL CIVIL. INADMISSIBILIDADE DO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE ESTÁ CONSOANTE JURISPRUDÊNCIA REITERADA DESTA CORTE. ÓBICE DA SÚMULA 83/STJ.
+AUSÊNCIA DE IMPUGNAÇÃO AO FUNDAMENTO ADOTADO. SÚMULA 182/STJ. INCIDÊNCIA.
+1. É inviável o agravo em recurso especial que deixa de atacar, de modo específico, os fundamentos adotados pelo Tribunal de origem para negar trânsito ao apelo especial. Incidência da Súmula 182 do STJ.
+2. Inadmitido o recurso especial diante do óbice contido na Súmula 83/STJ, cabe à parte agravante demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que os precedentes indicados não se aplicariam ao caso dos autos.
+3. A impugnação tardia dos fundamentos da decisão que não admitiu o recurso especial (somente por ocasião do manejo de agravo interno), além de caracterizar indevida inovação recursal, não tem o condão de afastar a aplicação do referido verbete 182/STJ, tendo em vista a ocorrência de preclusão consumativa. Precedentes.
+4. Agravo interno não provido." (AgInt no AREsp 1208054/MS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/10/2018, DJe 30/10/2018 - grifou-se)
+Ante o exposto, não conheço do agravo em recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 10% (dez por cento) do valor da causa, cabendo à recorrente, conforme arbitrado na origem,arcar com 40% (quarenta por cento) dessa verba.
+Em virtude do não conhecimento do presente agravo, o percentual dos honorários deveser majoradoem 2% (dois por cento) a serem pagos pela ora agravante ao patrono da parte contrária, nos termos do art. 85, §11º do Código de Processo Civil.
+Publique-se.
+Intimem-se.
