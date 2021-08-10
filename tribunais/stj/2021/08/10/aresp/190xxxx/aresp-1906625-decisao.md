@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por LAZARA APARECIDA DE FARIA RODRIGUES contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APOSENTADORIA POR IDADE TRABALHADOR RURAL INÍCIO DE PROVA MATERIAL INSUFICIENTE EXTINÇÃO SEM RESOLUÇÃO DE MÉRITO RESP REPETITIVO 1352721/SP HONORÁRIOS ADVOCATÍCIOS
+Quanto à primeira controvérsia, alega violação dos arts. 55, § 3º, 106 e 143, todos da Lei n. 8.213/91; e 442 e 355, I, do CPC, no que concerne à necessidade de concessão de aposentadoria por idade rural em razão de comprovação do início de prova material, trazendo o(s) seguinte(s) argumento(s):
+Ademais, como é sabido, são várias as dificuldades encontradas pelas trabalhadoras rurais no que diz respeito ao registro em CTPS, uma vez que, na maioria dos casos, as mesmaslaboram como diaristas e nem sempre é efetuado o registro em suas carteiras, e, sendo, assim, considerando as dificuldades encontradas pelas trabalhadoras do campo para comprovar o seu efetivo exercício no meio rural, reiteradas decisões do Superior Tribunal de Justiça, e em especial de sua Terceira Seção, têm admitido inclusive documentos em nome de terceiros como início de prova material, como podemos depreender do julgado que pedimos para abaixo transcrever: (..)
+ ..
+Por fim, vale acrescentar que, conforme entendimento jurisprudencial, a prova material não precisa se referir a todo o período de carência, nem ser contemporânea a referido período: (..) (fls. 147).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Emerge dos autos, portanto, que o conjunto probatório não é suficiente à comprovação do efetivo exercício pela parte autora da atividade rural pelo período de carência exigido.
+De imediato, diga-se que, consoante entendimento desta Eg. Sétima Turma, a extensão da qualificação de lavrador em documento de terceiro - familiar próximo, cônjuge - somente pode ser admitida quando se tratar de agricultura de subsistência, em regime de economia familiar, o que não é o caso dos autos.
+A seu turno, a prova testemunhal não é capaz de, por si só, comprovar o labor campesino no período de carência.
+ ..
+Considerando que o conjunto probatório foi insuficiente à comprovação da atividade rural pelo período previsto em lei, seria o caso de se julgar improcedente a ação, não tendo a parte autora se desincumbido do ônus probatório que lhe cabe, ex vi do art. 373, I, do CPC/2015. (fls. 134/135).
+Aplicável, portanto, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
