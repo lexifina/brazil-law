@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por CIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO SABESP contra a decisão que não admitiu seu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO PROCEDÊNCIA ALEGAÇÃO DE CERCEAMENTO DE DEFESA INOCORRÊNCIA PRESTAÇÃO DE SERVIÇOS ÁGUA E ESGOTO "FATOR K" CARGA DE POLUIÇÃO ATIVIDADE VAREJISTA SUPERMERCADO ATIVIDADE NÃO INDUSTRIAL AUSÊNCIA DE ESTUDO TÉCNICO PARA COMPROVAR A CARGA POLUIDORA ANTES DA COBRANÇA DA TARIFA INADMISSIBILIDADE SENTENÇA QUE DEVE SER MANTIDA RECURSO IMPROVIDO.
+Quanto à primeira controvérsia, alega violação dos arts. 7º e 370 do CPC no que concerne à nulidade do acórdão combatido por afronta ao princípio do contraditório substancial, trazendo o(s) seguinte(s) argumento(s):
+Dentre os princípios inovadores introduzidos pelo Novo Código merece destaque a inovação o princípio do contraditório substancial.
+Referido princípio prevê, que o processo deve observar não apenas no contraditório formal compreendido pelo binômio informação (ciência bilateral de todos os termos e atos do processo) e reação (possibilidade de reagir contra os atos e prejudiciais) mas, principalmente, o contraditório substancial.
+O contraditório substancial é composto pelo binômio influência (relacionada a participação de cada uma das partes em relação a influência do resultado do processo) e não surpresa (vedação de ser prolatada decisão sem submeter a matéria ao debate prévio).
+A Colenda 14ª Câmara de Direito Privado do E. TJ/SP manteve a procedência decretada pelo MM. Juiz  a quo , contrariando a referido princípio, afastou a incidência do fator  k  ao esgoto gerado no imóvel do apelado, nos termos seguintes:
+ ..
+Oportuno, ressaltar que o recorrido acostou, após sua manifestação em relação a produção de provas petição contendo trechos de decisões relacionadas a não comprovação de carga poluidora em face da inexistência de prova pericial e que o MM. Juiz de primeiro grau não deu ciência a ora recorrente e tampouco facultou-lhe a manifestação.
+Saliente-se, ainda, que a ora recorrente requereu, supletivamente, caso o MM. Juiz a quo não entende se tratar-se de matéria de direito, a produção de prova pericial.
+Sabe-se, de outro lado, que segundo expressa determinação do CPC vigente, incumbe, ao magistrado, de ofício ou a requerimento da parte, determinar a produção das provas necessárias ao julgamento do mérito (artigo 370).
+Foi, contudo, prolatada sentença de procedência fundamentada na não realização de estudos sobre a carga poluidora, toxicidade e vazão de dejetos, com a devida vênia, não se sustenta porquanto:
+ ..
+Referida decisão, com a devida vênia, afrontou a expressa determinação do artigo 7º do CPC cabe ao Juiz, em qualquer grau de jurisdição, zelar pelo efetivo contraditório.
+Com efeito, deveria o MM. Juiz, para fundamentar a improcedência na ausência de provas, possibilitado a ora recorrente a produção desta.
+A ausência de prova impossibilitou a recorrente de exercer a sua ampla defesa (fls. 463-466).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Inicialmente, convém destacar que não há que se falar, no presente caso, em cerceamento de defesa, vez que a produção de provas adicionais é desnecessária para a apreciação dos seus pedidos, que tratam de questões para as quais basta a interpretação documental tomando-se por base a lei e a jurisprudência (fl. 441).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
