@@ -1,0 +1,28 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. ASSOCIAÇÃO CRIMINOSA, ROUBO MAJORADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO E DE USO RESTRITO. SENTENÇA COM CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. REVISÃO CRIMINAL COM TRÂNSITO EM JULGADO. INEXISTÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.Na hipótese, não se constata o vício alegado. Precedentes.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Ribeiro Dantas, Joel Ilan Paciornik e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Felix Fischer.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de embargos de declaração apresentados pela defesa de MARCIO ANTONIO DA CONCEIÇÃO JUNIOR, contra acórdão da Quinta Turma que negou provimento ao agravo regimental. Eis a ementa do julgado (e-STJ fls. 163/164):
+AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO. ASSOCIAÇÃO CRIMINOSA, ROUBO MAJORADO E PORTE ILEGAL DE ARMA DE FOGO DE USO PROIBIDO E DE USO RESTRITO. SENTENÇA COM CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. REVISÃO CRIMINAL COM TRÂNSITO EM JULGADO. AUTORIA DELITIVA. INTERCEPTAÇÃO TELEFÔNICA. AUTORIZAÇÃO JUDICIAL. NULIDADE PROCESSUAL. NÃO OCORRÊNCIA. REEXAME. IMPOSSIBILIDADE. AGRAVO DESPROVIDO.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. Caso em que o paciente foi condenado à pena total de 17 anos e 17 dias de reclusão, no regime inicial fechado, pela prática dos crimes previstos nos arts. 288 e 157, § 2º, I, II e V (por três vezes), ambos do Código Penal, e nos arts. 14 e 16, parágrafo único, IV, da Lei n. 10.826/2003, já certificado o trânsito em julgado da Ação Criminal e da Revisão Criminal, estando o paciente em cumprimento da pena imposta nesta e em outras condenações.
+3. Acerca da suposta nulidade, ao contrário do que assegura a defesa, as escutas telefônicas foram autorizadas pela justiça e a participação do paciente nos crimes foi comprovada também por outras provas colhidas no curso da investigação. Segundo consta da sentença, durante o roubo à agência do Banco Bradesco, um dos autores deixou cair um aparelho celular. A partir da apreensão desse aparelho de telefone, a autoridade policial representou pela interceptação telefônica de diversos números que constavam do histórico de chamadas e a autoria teria levado em conta outras provas, como os depoimentos colhidos durante a instrução processual.
+4. Observa-se também que a mencionada nulidade não foi arguida na fase de instrução, em primeiro grau, ou mesmo nas razões do recurso de apelação, como se verifica do relatório do acórdão. Ainda, a defesa não juntou os elementos probatórios que comprovariam a mácula alegada. Ademais, as provas acerca da autoria foram exaustivamente debatidas no curso da instrução, no recurso de apelação e no pedido revisional, julgado em 15/7/2019 e certificado o trânsito em julgado, não havendo mais como desconstituir em habeas corpus as afirmações das instâncias ordinárias, soberanas no exame das provas. Precedentes.
+5. Agravo regimental a que se nega provimento.
+A Defensoria Pública alega omissão, argumentando que o pleito de redução da pena teria sido esquecido, pois a exasperação da primeira fase da dosimetria teria sido aplicada como base em fundamentos inidôneos.
+Diante disso, pede para acolher o pedido.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Os embargos de declaração são recurso com fundamentação vinculada, sendo imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal. Podem ser admitidos, ainda, para correção de eventual erro material e, excepcionalmente, para alteração ou modificação do decisum embargado.
+É insuficiente, todavia, a mera irresignação com o entendimento apresentado na decisão, assim como inviável seu uso como mero meio de reanálise das alegações.
+A Defensoria Pública alega omissão no acórdão, porquanto não teria examinado pedido subsidiário formulado na inicial para análise da primeira fase da dosimetria.
+Todavia, não se constata o vício alegado. Isso porque, embora o pleito não tenha sido examinado na decisão monocrática, é certo que no recurso de agravo foi questionado apenas a suposta nulidade processual. Portanto, a alegação de omissão não se refere ao acórdão ora embargado, mas à decisão anterior, configurando, portanto, uma inovação recursal.
+Nesse sentido: AgRg no HC n. 648.216/SC, Relator Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 08/06/2021, DJe 15/06/2021 e AgRg no HC 657.254/SP, Relator Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), Sexta Turma, julgado em 1º/6/2021, DJe 7/6/2021.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
