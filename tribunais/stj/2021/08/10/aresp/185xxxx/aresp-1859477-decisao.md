@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial. O apelo extremo, interposto com base no art. 105, inciso III, alíneas "a" e "c", insurge-se contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Indenização por danos materiais e morais. Autora, pessoa idosa, que refere ter sofrido fratura em decorrência de queda em escadaria no estabelecimento da Ré. Código de Defesa do Consumidor que se aplica ao caso em debate. Responsabilidade objetiva do prestador de serviços. Situação, contudo, que não evidencia obrigação da Ré em reparar o dano, uma vez que não restou demonstrado ter ocorrido falha na prestação dos serviços. Sentença de improcedência mantida. Verba honorária majorada. Recurso não provido" (fl. 729 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+As razões do recurso especial alegam, além de divergência jurisprudencial, a violação dos arts. 489, § 1º, IV, e 1.022, II, do Código de Processo Civil e14, § 3º, do Código de Defesa do Consumidor.
+Sustenta que houve negativa de prestação jurisdicional e que ficou caracterizada a falha na prestação dos serviços da recorrida. Diz que, embora tenha o Tribunal local reconhecido se tratar de relação de consumo, afastou a responsabilidade objetiva da recorrida sem qualquer lastro probatório e fundamentação legal.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No que diz respeito à existência de falha na prestação de serviço apta a gerar indenização, o acórdão recorrido assim decidiu:
+"No caso em análise, considerados os termos em que formulada a petição inicial, tem-se que o conjunto probatório produzido não evidenciou a ocorrência de falha na prestação dos serviços da Ré, uma vez que não é possível se determinar o motivo da queda da Autora nas dependências do estabelecimento da Ré. Em que pese a Autora fazer referência de que a escada no interior do estabelecimento da Ré estar em desconformidade com as normas da ABNT NBR 9050:2004, não existe nenhuma prova a indicar que o motivo da queda sofrida pela Autora esteja vinculada à não observação das normas técnicas indicadas. Deve ser ressaltado que as exigências contidas em referida norma técnica, indicadas pela Autora a justificar a pretensão deduzida, alcança pessoas portadoras de deficiências físicas, o que não é o caso da Autora.
+A Autora é pessoa idosa, com 77 anos de idade na ocasião do acidente e usuária de "bengala". Conforme está indicado no documento de pág. 30, sofreu "queda da própria altura", o que sugere que a queda ocorreu quando já finalizada a utilização da escadaria e em decorrência de situação clínica da qual já era portadora a Autora.
+Nesse sentido, inexistente prova que indique qual foi a razão determinante da queda da Autora, não se pode atribuir qualquer responsabilidade àRé, considerado se tratar a Autora de pessoa idosa e já com histórico clínico de fraturas anteriores, inclusive no mesmo local indicado (fêmur direito) e portadora do "Mal de Alzheimer" em estágio inicial (pág. 35), tudo a apontar que os reclamados danos materiais decorrem da idade e condição física da Autora, sem interferência com o ocorrido nas dependências da Ré.
+Verifica-se, portanto, que a r. sentença atacada analisou de forma correta as questões suscitadas, com adequada fundamentação jurídica à hipótese em exame, além de bem avaliar o conjunto probatório. Qualquer acréscimo que se faça aos seus bem lançados fundamentos constituiria desnecessária redundância, enquanto os demais argumentos suscitados não são suficientes para infirmar os fundamentos acima enunciados para a solução da lide" (fls. 732/733 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Publique-se.
+Intimem-se.
