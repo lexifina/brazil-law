@@ -1,0 +1,38 @@
+DECISÃO:
+EMENTA: Penal. Habeas corpus. Furto qualificado. Condenação transitada em julgado. Princípio da insignificância. Inaplicabilidade. Inadequação da via eleita.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que denegou o HC 633.985, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi denunciado pela suposta prática do crime de furto qualificado (art. 155, §§ 1º e 4º, I, do CP). Narra a denúncia que:
+    “(...) o denunciado tentou subtrair, em proveito próprio, durante o período noturno e mediante arrombamento, bens financeiramente estimáveis, em prejuízo da vítima (...).
+    Segundo restou apurado, aproveitando-se do período noturno, (...) dirigiu-se ao local dos fatos, tratando-se de uma empresa denominada (...), de propriedade da vítima (...), e decidiu furtá-la.
+    Munido de um pedaço de madeira e de uma talhadeira (c.f. auto de exibição e apreensão de fls. 09), o denunciado arrombou um dos cadeados da porta de acesso da (...), entretanto, quando se preparava para arrombar o segundo cadeado, foi surpreendido por uma guarnição policial militar empenhada para o local via COPOM, com isso, impedindo-o de consumar o ato.”
+    3. Concluída a instrução criminal, o paciente foi condenado à pena de 1 ano, 9 meses e 23 dias de reclusão, em regime inicial fechado, pelo crime previsto no art. 155, §§ 1º e 4º, I, c/c o art. 14, II, do Código Penal.
+    4. O Tribunal de Justiça do Estado de São Paulo (TJ/SP) deu parcial provimento à apelação da defesa “para reconhecer a atenuante de confissão, aplicando-se a compensação com a agravante de reincidência”. Nessas condições, a Corte estadual reduziu a pena para 1 ano, 6 meses e 20 dias de reclusão, mantido o regime inicial fechado.
+    5. Na sequência, a defesa impetrou habeas corpus no Superior Tribunal de Justiça. A Relatora do HC 633.985, Ministra Laurita Vaz, denegou a ordem.
+    6. Neste habeas corpus, a parte impetrante sustenta a aplicabilidade, no caso, do princípio da insignificância. Afirma que, “[s]egundo a denúncia, o PACIENTE pretendia furtar ‘bens financeiramente estimáveis’, não mencionando qualquer valor, razão pela qual se depreende a insignificância do fato”. Além disso, destaca que a reincidência do acionante, assim como a incidência das qualificadoras no crime de furto, não impedem a aplicação do princípio da bagatela.
+    7. Prossegue a narrativa para alegar que o Juízo de origem “reconheceu maus antecedentes anteriores ao período depurador da reincidência, o que foi mantido tanto pelo TJSP como pelo STJ. Todavia, em relação às condenações já atingidas pelo período depurador de 5 anos mencionado no artigo 64, inciso I, do Código Penal, não há que se falar em reincidência ou em maus antecedentes”.
+    8. Ademais, a defesa insurge-se contra o percentual de redução da pena em razão da tentativa (art. 14, II, do CP). Afirma que “[o] iter criminis percorrido não poderia ter sido menor. (...) [O] paciente sequer entrou no local, tanto que na denúncia não há indicação do valor de eventual res que poderia ter sido subtraída”. A defesa ressalta que: (i) “o furto qualificado é incompatível com a causa de aumento do repouso noturno”; (ii) “se o delito foi praticado em estabelecimento comercial, não há que se falar em ‘repouso’, até mesmo porque o local possuía obstáculos que visavam impedir a entrada de pessoas. Aliás, tais obstáculos fizeram incidir até mesmo a qualificadora referente ao rompimento de obstáculo, de modo que a causa de aumento aqui reconhecida representa bis in idem”.
+    9. Por fim, a defesa sustenta a possibilidade da fixação do regime inicial aberto, assim como da substituição da pena privativa de liberdade por outra pena restritiva de direitos.
+    10. A defesa requer a concessão da ordem para:
+    “a) Reconhecimento da incidência do Princípio da Insignificância;
+    b) Seja reconhecida a inexistência de circunstâncias judiciais desfavoráveis;
+    c) O aumento, para o máximo legal, da causa de diminuição referente à tentativa;
+    d) A exclusão da causa de aumento referente ao repouso noturno;
+    e) A fixação do regime inicial aberto;
+    f) A substituição da pena privativa de liberdade por restritiva de direitos.”
+    11. Decido.
+    12. Do ponto de vista processual, o caso é de habeas corpus substitutivo de agravo regimental (cabível na origem). Nessas condições, tendo em vista a jurisprudência da Primeira Turma do Supremo Tribunal Federal (STF), entendo que o processo deve ser extinto sem resolução de mérito, por inadequação da via eleita (HC 115.659, Rel. Min. Luiz Fux).
+    13. Inexistindo pronunciamento colegiado do STJ, não compete ao STF examinar a questão de direito implicada na impetração. Nesse sentido foram julgados os seguintes precedentes: HC 113.468, Rel. Min. Luiz Fux; HC 117.502, Redator para o acórdão o Ministro Luís Roberto Barroso; HC 108.141-AgR, Rel. Min. Teori Zavascki; e o HC 122.166-AgR, julgado sob a relatoria do Ministro Ricardo Lewandowski, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. ALEGAÇÃO DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. CERCEAMENTO DE DEFESA. VIOLAÇÃO AO ART. 422 DO CÓDIGO DE PROCESSO PENAL. DECISÃO MONOCRÁTICA PROFERIDA POR MINISTRO DO STJ. AUSÊNCIA DE IMPUGNAÇÃO POR MEIO DE AGRAVO REGIMENTAL. SUPRESSÃO DE INSTÂNCIA. PRECEDENTES. FUNDAMENTOS DA DECISÃO AGRAVADA NÃO ATACADOS. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I - No caso sob exame, verifica-se que a decisão impugnada foi proferida monocraticamente. Desse modo, o pleito não pode ser conhecido, sob pena de indevida supressão de instância e de extravasamento dos limites de competência do STF descritos no art. 102 da Constituição Federal, que pressupõe seja a coação praticada por Tribunal Superior. Precedentes.
+    II – O agravante não atacou os fundamentos da decisão agravada, o que atrai, por analogia, o teor da Súmula 283 desta Corte.
+    III – Agravo regimental a que se nega provimento.”
+    14. Não é caso de concessão da ordem de ofício.
+    15. As peças que instruem o processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que justifique o deferimento da ordem. A hipótese é de paciente condenado por furto qualificado (com rompimento de obstáculo), cometido durante o repouso noturno, sendo certo que o acusado foi preso enquanto cumpria pena por crime anterior. Transcrevo, nesse sentido, o seguinte trecho do acórdão do TJ/SP:
+    “[...] A consideração de certo princípio de valor ínfimo é inconstitucional, esbarra na consagração constitucional do princípio da legalidade e, por obvio que não se tinha o valor do bem, pois foi flagrado antes que pudesse subtrair algo, mais sua intenção era de furtar, conforme admitiu. Tratava-se de um centro automotivo em que poderia se apoderar de vários objetos de valor. Destaca-se que o apelante já teve envolvimento anterior em vários crimes contra o patrimônio, foi flagrado arrombando a porta do estabelecimento vítima e isso deve ser levado em consideração pelo grau de reprovabilidade de sua conduta.
+    […]
+    O regime prisional deve ser mantido, sem qualquer outro beneficio visto que anteriormente concedido não se mostrou adequado para se evitar a reiteração do apelante pela senda criminosa. Anote-se que o apelante além de reincidente especifico, cumpria pena em liberdade quando tornou a pratica de conduta criminosa....”
+    16. Diante do exposto, com base no art. 21, §1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
