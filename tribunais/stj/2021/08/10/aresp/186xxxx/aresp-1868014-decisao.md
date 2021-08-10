@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo manejado por Paranapanema S/A e outro, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado (fl. 339):
+Apelação cível. Execução fiscal. Embargos à execução.Corresponsáveis. Ilegitimidade. Cerceamento de defesa. Não ocorrência. CDA. Nulidade. Requisitos. Preenchidos.
+Independe de comprovação de dolo ou fraude, o redirecionamento de execução fiscal contra os corresponsáveis quando inscritos, juntamente ao executado, na certidão de dívida ativa, sendo, portanto, legítimos para figurar no polo passivo da demanda.
+Em sendo os fatos unicamente de direito e produzida a prova documental requerida pela parte, não há falar em cerceamento de defesa decorrente do julgamento antecipado da lide.
+A CDA revela-se líquida, certa e exigível quando preenchidos todos os seus requisitos legais, não havendo, portanto, falar em nulidade.
+Negado provimento ao recurso.
+Opostos embargos de declaração, foram rejeitados (fls. 372/383).
+No apelo especial, a parte recorrente aponta violação aos arts.374, III e 489, caput, §1º, II, IV, V e VI, do CPC e 135, III, do CTN.
+Sustenta, em síntese: (I)" a)negativa de prestação jurisdicional por parte do acórdão recorrido, proveniente de deficiência na sua fundamentação;b) utilização de precedentes sem a devida correspondência à realidade fático-jurídica exposta nos presentes autos;c) omissão em relação a fundamentação, no que se refere a comprovação de que a empresa foi dissolvida irregularmente, não havendo que se falar em inversão do ônus probatório;d) omissão em relação a indicação do administrador (o Sr. Carlos Octávio Cavalcanti Lacombe) pessoa física, então diretor da PARANAPANEMA, como responsável pelo pagamento da exação." (fls. 401/402); (II) "considerando ter havido compreensão equivocada acerca dos fatos incontroversos, leia-se, nulidade da CDA, por ofensa ao disposto no inciso III do art. 5º da Lei 6.830/80 e o art. 202 do CTN, resta clarividente a malferição ao art. 374, inc. III da Novel Legislação Adjetiva Civil." (fl. 403); e (III) "ojulgador, no acórdão vergastado, partiu da premissaequivocada que a Executada, Mineração Taboca, fora dissolvida irregularmente, fato que nunca ocorreu, o que demonstra que o redirecionamento da presente execução fiscal aconteceu fora das hipóteses legais, e com clarividente inobservância das orientações jurisprudenciais remansosas e pacíficas sobre o tema, conduzindo então à posição irrefutável de negativa de vigência ao art. 135, do CTN;II- O redirecionamento da Execução aos coexecutados incluídos na CDA, sem a comprovação de dolo ou fraude, afronta, também o disposto no art. 135, CTN;" (fls. 411/412).
+Contrarrazões às fls. 419/428.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+Verifica-se, inicialmente, não ter ocorrido ofensa aoart. 489, caput, § 1º, II, IV, V e VIdo CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Ademais, destaca-se do acórdão recorrido a seguinte fundamentação (fls. 343/347):
+O Estado de Rondônia interpôs execução fiscal contra Mineração Taboca S/A, objetivando a cobrança do valor de R$50.921,92, decorrente do Auto de Infração n. 010354791, lavrado no dia 27.3.2002 e inscrito em dívida ativa no dia 9.6.2004 (fl. 196 dos autos digitais).
+O mandado de citação foi negativo porque, conforme certificado pelo Oficial de Justiça, a empresa, tampouco os sócios e bens passíveis de penhora foram localizados. Procedeu-se, então, com a citação por edital e petição da Fazenda pleiteando o prazo de 30 dias para novas diligências, ao que foi deferido pelo juízo.
+Somente no dia 20.6.2008, ou seja, passados mais de 3 anos da tentativa de citação da empresa, é que foi deferida a citação dos corresponsáveis, ora apelantes, afastando, portanto, a tese de ilegitimidade passiva suscitada pelos apelantes.
+Ademais, conforme consignado na sentença, a Certidão de Dívida Ativa n. 20040200001544, fez constar os nomes dos corresponsáveis pelo débito, ficando, portanto, a Fazenda Pública dispensada de comprovar a ocorrência das hipóteses listadas no art. 135 do CTN. Colaciono:
+ ..
+Desta forma, legítima é a figuração dos apelantes no polo passivo da execução fiscal.
+Com relação ao alegado cerceamento de defesa, ressaltam terem pedido a produção de todos os meios de provas admitidos na petição inicial e reiterado na fl. 113, entretanto houve o julgamento antecipado da lide, o que, segundo pontuam, causou prejuízos à sua defesa.
+Diversamente do alegado pelos apelantes, a petição de fl. 113 informa a necessidade da produção de prova documental, sendo esta devidamente juntada aos autos no prazo de 5 dias deferido pelo juízo, conforme observo dos documentos de fls. 125-156 dos autos digitais, sendo, inclusive, intimada a parte contrária para manifestar quanto aos documentos juntados.
+Desta forma, não há falar, portanto, em cerceamento de defesa.
+Por fim, os apelantes apontam a nulidade da Certidão de Dívida Ativa por não constar, segundo alegam, a origem, a natureza e o fundamento legal ou contratual da dívida, conforme art. 2º, §5º, III, da Lei 6.830/80, cujo teor colaciono:
+ ..
+A Certidão de Dívida Ativa n. 20040200001544, de fl. 196, consta o nome do sujeito passivo, dos corresponsáveis, o valor originário da dívida e respectivas atualizações, o número do processo administrativo relativo ao auto de infração cujo valor da dívida foi apurado, os juros de mora e o fundamento legal, preenchendo, portanto, todos os requisitos do §5º do art. 2º, inclusive o inciso III.
+ ..
+Com base nos fatos relatados, presentes os requisitos essenciais da certidão de dívida ativa, inexiste nulidade a ser sanada.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origem, no sentido de que élegítima a figuração dos apelantes no polo passivo da execução fiscal, bem como,não houve cerceamento de defesa e não há nulidade da CDA, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
