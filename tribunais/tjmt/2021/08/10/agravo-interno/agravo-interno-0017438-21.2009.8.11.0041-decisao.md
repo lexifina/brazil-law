@@ -1,0 +1,32 @@
+Agravo Interno no Recurso Especial e Extraordinário n. 0017438-21.2009.8.11.0041
+AGRAVANTE: DIGITAL TECNOLOGIA LTDA
+AGRAVADO: ESTADO DE MATO GROSSO
+Vistos.
+Tratam-se de agravos internos (id. 715575966 e id. 71475974) interpostos por DIGITAL TECNOLOGIA LTDA contra a decisão de id. 6847456, que negou seguimento ao recurso especial e ao recurso extraordinário em face da Súmula 07 do STJ e da Súmula 279 do STF, respectivamente.
+A parte agravante apresenta como causa de pedir recursal de ambos os recursos, pela inexigibilidade do ICMS sobre operações de comodato.
+Ao final, pugna pelo provimento dos agravos internos para que sejam admitidos os recursos.
+Tempestividade em id. 71576454.
+Contrarrazões em id. 77434681 e id. 77435077.
+É o relatório.
+Decido.
+Em observância ao artigo 1.030, I e III, e § 2o, do Código de Processo Civil, caberá agravo interno ao Tribunal local da decisão que:
+a) negar seguimento a Recurso Extraordinário, por não ter sido reconhecida a existência de repercussão geral, ou por ter sido interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+b) negar Recurso Especial interposto contra acórdão que esteja em conformidade com o entendimento do Superior Tribunal de Justiça, proferido na sistemática de julgamento de recursos repetitivos; e
+c) sobrestar o recurso que versar sobre controvérsia de caráter repetitivo ainda não decidida pelo Supremo Tribunal Federal ou pelo Superior Tribunal de Justiça, conforme se trate de matéria constitucional ou infraconstitucional.
+Na análise desse agravo, o Tribunal se limita a decidir tão somente se o recurso paradigma não se adequa ao caso concreto ou se trata de posicionamento já ultrapassado.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INADMITE RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EM CONFORMIDADE COM ENTENDIMENTO FIXADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA EM REGIME DE JULGAMENTO DE RECURSO REPETITIVO. ERRO GROSSEIRO. CABIMENTO DE AGRAVO INTERNO NO TRIBUNAL DE ORIGEM. PREVISÃO CLARA E EXPRESSA DO NOVO CÓDIGO DE PROCESSO CIVIL. 1. Nos termos do §2o do art. 1.030 do CPC, contra a decisão monocrática do presidente ou vice-presidente do tribunal recorrido que nega seguimento a recurso especial manejado face a acórdão sintonizado com entendimento fixado por esta Corte Superior em regime de julgamento de recursos repetitivos, cabe a interposição de agravo interno. 2. No caso, a interposição de agravo em recurso especial, no lugar do agravo interno, configura hipótese de erro crasso, grosseiro e indesculpável, que inviabiliza a aplicação do princípio da fungibilidade recursal.
+3. Agravo regimental não provido”. (AgRg no AREsp 1330687/MS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018).
+Todavia, em análise dos autos, percebe-se que esta Vice-Presidência decidiu pela negativa de seguimento do recurso especial em decorrência da aplicação da Súmula 07 do STJ, bem como negou seguimento ao recurso extraordinário em face da Súmula 279 do STF.
+Diante desse cenário, como a questão não foi decidida com base na sistemática de julgamento de recursos repetitivos, é patente que o recurso cabível é o agravo previsto no artigo 1.042 do CPC, o qual estabelece que “cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos”.
+Frente a isso, o presente agravo revela-se manifestamente inadmissível em virtude das previsões expressas do caput do art. 1.042 e do § 2o do art. 1.030, ambos do CPC, o que implica inviabilidade do seu seguimento.
+Nesse sentido é o entendimento do STJ, verbis:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. JUÍZO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. SEGUIMENTO NEGADO COM FUNDAMENTO NO ART. 1.030, I, b, DO CPC/2015. INTERPOSIÇÃO DE AGRAVO, NOS TERMOS DO ART. 1.042 DO CPC/2015, AO INVÉS DE AGRAVO INTERNO. CONFIGURAÇÃO DE ERRO GROSSEIRO. DESCABIMENTO DO AJUIZAMENTO DE RECLAMAÇÃO. RECURSO DESPROVIDO. 1. Consoante dispõe o art. 1.030, § 2o, do CPC/2015, o recurso cabível contra a decisão que nega seguimento a recurso especial, ao fundamento de que o acórdão recorrido está em conformidade com tese fixada em recurso repetitivo (NCPC, art. 1.030, I, b), é o agravo interno. 2. Logo, configura erro grosseiro a interposição do agravo previsto no art. 1.042, caput, do NCPC, quando o recurso previsto seria o agravo interno, sendo incabível o uso da reclamação com o objetivo de atacar a referida decisão. 3. Agravo interno desprovido.”(STJ - AgInt nos EDcl na Rcl: 39282 RJ 2019/0336367-0, Relator: Ministro MARCO AURÉLIO BELLIZZE, Data de Julgamento: 05/05/2020, S2 - SEGUNDA SEÇÃO, Data de Publicação: DJe 08/05/2020)
+A propósito, é também o entendimento do Supremo Tribunal Federal, como se vê:
+AGRAVO INTERNO. RECLAMAÇÃO. RECURSO EXTRAORDINÁRIO COM SEGUIMENTO NEGADO NA ORIGEM AMPARADO NO TEMA 800 DA REPERCUSSÃO GERAL (ART. 1.030, I, “A”, DO CPC). RECURSO CABÍVEL. AGRAVO INTERNO NA ORIGEM (ART. 1.030, § 2o, DO CPC). INTERPOSIÇÃO DE AGRAVO EM RECURSO EXTRAORDINÁRIO. IMPUGNAÇÃO RECURSAL MANIFESTAMENTE INCABÍVEL. INSTRUMENTO JURÍDICO-CONSTITUCIONAL UTILIZADO COMO EXPEDIENTE E ATALHO RECURSAL. INVIABILIDADE. 1. Cabe agravo interno contra a decisão da instância de origem que nega seguimento a Recurso Extraordinário com base em precedente do SUPREMO produzido sob o rito da Repercussão Geral (§ 2o do art. 1.030 do CPC). 2. O Juízo de origem não deve encaminhar ao SUPREMO o agravo em face da decisão que não admite recurso extraordinário com base em precedente formado sob a sistemática da repercussão geral. 3. Agravo Interno ao qual se nega provimento.
+(Rcl 31442 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/10/2018, PROCESSO ELETRÔNICO DJe-220 DIVULG 15-10-2018 PUBLIC 16-10-2018)
+Por fim, cumpre ressaltar que o agravante também interpôs o agravo ao STJ e ao STF (id. 71575970 e id. 71575976), na forma correta, nos termos art. 1.042 e do § 2o do art. 1.030, ambos do CPC, que serão analisado após o julgamento destes agravos internos.
+Ante o exposto, não conheço de ambos os agravos internos por ser manifestamente incabível.
+Intimem-se. Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
