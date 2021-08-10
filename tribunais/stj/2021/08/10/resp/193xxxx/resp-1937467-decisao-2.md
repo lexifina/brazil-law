@@ -1,0 +1,64 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por MIGUEL BATISTA DE SOUZA, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado (e-STJfl. 461):
+APELAÇÃO CÍVEL  AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA  PRELIMINAR DE VIOLAÇÃO AO DEVIDO PROCESSO LEGAL  REJEITADA  PRELIMINAR DE INADEQUAÇÃO DA VIA ELEITA PELA INAPLICABILIDADE DA LIA AOS AGENTES POLÍTICOS  AFASTADA  ALIENAÇÃO DE BEM PÚBLICO A PARTICULAR  COMPROVAÇÃO  IMPROB1DADE ADMINISTRATIVA  CONFIGURAÇÃO  SUSPENSÃO DOS DIREITOS POLÍTICOS  DESNECESSIDADE  OBSERVÂNCIA A EXTENSÃO DO DANO CAUSADO E DO PROVEITO ECONÔMICO OBTIDO PELO AGENTE - SENTENÇA MANTIDA.
+Descabe a alegação de violação ao devido processo legal, quando as alegações finais não são consideradas na sentença por ter sido apresentada intempestivamente.
+A lei de improbidade é aplicável aos agentes políticos, porquanto, conforme jurisprudência pacífica, o conceito de agente público abrange os agentes políticos.
+O ato de improbidade pressupõe em aproveitar-se da função pública para obter ou distribuir, em proveito próprio ou para outros, vantagem ilegal ou imoral, de qualquer gênero e, de alguma maneira, infringindo aos princípios que norteiam as atividades na Administração Pública.
+Comprovado nos autos que os requeridos praticaram atos de improbidade administrativa, deve ser mantida a sentença que julgou procedente o pedido inicial.
+Observada que as penalidades aplicadas pelo Juízo a quo observam a extensão do dano causado e do proveito econômico obtido pelo agente, descabe o pleito de suspensão dos direitos políticos.
+Preliminares rejeitadas. Recursos não providos.
+Os embargos de declaração opostos foram rejeitados (e-STJfls. 508-515).
+Nas razões do especial, o recorrente alega violação dos arts. 9º e 10 da LIA.
+Sustenta que não ficou comprovado que o tubulão alienado pertencia ao poder público. Ressalta que ficou demonstrado que o bem não tinha mais utilidade, desse modo, não há que se falar em dano ao erário.
+Aduz que não está demonstrado o elemento subjetivo na conduta.
+Por fim, afirma que as sanções foram fixadas sem a observância dos princípios da proporcionalidade e da razoabilidade em contrariedade ao disposto no art. 12 da Lei n. 8.429/1992.
+Parecer do Ministério Público Federal pelo não conhecimento do recurso especial de João de Carvalho Soares e pelo provimento parcial do recurso especial de Miguel Batista de Souza (e-STJfls. 585-586).
+É o relatório.
+Relativamente às condutas descritas na Lei n. 8.429/1992, esta Corte Superior possui firme entendimento segundo o qual a tipificação da improbidade administrativa para as hipóteses dos arts. 9º e 11 reclama a comprovação do dolo e, para as hipóteses do art. 10, ao menos culpa do agente. No aspecto:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. ACÓRDÃOS CONFRONTADOS. AUSÊNCIA DE DEMONSTRAÇÃO DA DIVERGÊNCIA. NECESSIDADE DE SIMILITUDE FÁTICO-JURÍDICA. INEXISTÊNCIA.
+ ..
+IV - No presente caso, denota-se que ambos os julgados consignaram exatamente a mesma tese de direito, qual seja, a de que a configuração da improbidade administrativa, nas hipóteses do artigo 10 da Lei nº 8.429/92, prescinde de comprovação de dolo, basta que haja culpa.
+ ..
+XII - Agravo interno improvido.
+(AgInt nos EREsp 1.430.325/PE, Rel. Min. FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 17/12/2019).
+Na espécie, o Tribunal de origem consignou que (e-STJfls. 478-481):
+Posto isso, no caso versado, verifica-se que o Ministério Público do Estado de Minas Gerais instaurou Procedimento Preparatório n"MPMG-0713.09.000010-8, a fim de apurar a "denúncia de venda ilegal de bens públicos a particular pelo representado".
+Consta dos autos que foi construída uma ponte interligando o município de Paula Cândido ao distrito de Airões, com verbas do ente público Municipal, sendo que o "tubulão" que a sustentava havia sido cedido pelo DER.
+Foi relatado, ainda, que em razão de uma forte chuva ocorrida em 2005 no local, a ponte foi destruída, sendo que seus materiais ficaram soterrados, atrapalhando o curso da água do rio.
+Em razão disso, funcionários da Prefeitura foram ao local, entre eles o Sr. Miguel Batista de Souza, ora terceiro apelante, a fim de retirar os objetos da água, o que, todavia, restou frustrado diante das dificuldades existentes no local e da suposta imprestabilidade dos bens, fato este comunicado ao Prefeito da época, Sr. João de Carvalho Soares, ora primeiro apelante.
+Posteriormente, constatada a inutilidade dos bens, foi noticiado nos autos que Miguel Batista de Souza, na condição de funcionário da Prefeitura, alienou peças do "tubulão" ao Sr. José Bittencourt, sendo o Prefeito João de Carvalho Soares posteriormente cientificado sobre o ato.
+Posto isso, no caso versado, da análise do conjunto probatório verifica-se a comprovação dos atos de improbidade praticados pelo requeridos.
+As alegações do primeiro e terceiro apelantes se restringem à ausência de comprovação de que o bem seja público, de que inexiste dolo e dano ao erário.
+Contudo, conforme ressaltado pela d. Magistrada de origem, conquanto inexista prova documental que o tubulão foi adquirido pelo Município, os documentos carreados aos autos evidenciam que se tratava de bem público.
+Em depoimento prestado por João de Carvalho Soares, Prefeito à época dos fatos, nos autos do procedimento preparatório, restou afirmado que:"Que no mandato de Antônio Agatão, o ex-Prefeito construiu uma nova passagem que ligasse Paula Cândido ao distrito de Airões; que o ex-Prefeito colocou um tubulão no córrego e aterrou por cima; que este tubulão dobrou, em razão do peso da terra colocada sobre o mesmo; que o tubulão não foi comprado pela Prefeitura, mas cedido de algum órgão; (..) (grifou-se) (f1.32).
+Por sua vez, quando do depoimento de Miguel Batista de Souza, foi informado que:"(..) que o declarante sabe informar que no final do mandato de Antônio Agatão, foi construída urna ponte na colônia; zona rural de Paula Cândido;
+que foi colocado um tubulão, mas o serviço foi feito às pressas e a boca do tubulão amassou em razão da quantidade de terra do aterro, fazendo peso sobre o mesmo; que a água começou a ficar represada; que então caiu uma chuva forte e o aterro arrebentou, as peças se soltaram e ficaram agarradas no brejo que se formou (..) (grifou-se) (fl. 22).
+ ..
+Desse modo, verifica-se que o conjunto probatório demonstra que os objetos utilizados para construção da ponte são públicos, devendo ser afastada as alegações dos recorrentes.
+No que tange à alegação de ausência de dolo e de dano ao erário, convém realizar algumas observações.
+Nos termos da Lei 8.666/93, o leilão é a modalidade de licitação entre quaisquer interessados para a venda de bens móveis inservíveis para a administração ou de produtos legalmente apreendidos ou penhorados, ou para a alienação de bens imóveis prevista no art. 19, a quem oferecer o maior lance, igual ou superior ao valor da avaliação.
+ ..
+In casu, constata-se que não houve a realização de leilão pelo ex-Alcaide, a fim de viabilizar a venda dos bens móveis inservíveis para a Administração Pública.
+Do mesmo modo, restou comprovado nos autos que o ex - funcionário da Prefeitura, Miguel Batista de Souza, alienou bem público a particular sem observar a necessidade de realização de leilão, conforme recibo de fl. 30, tendo recebido à época a quantia de R$600,00 (seiscentos reais)  .. .
+ ..
+Sendo assim, seja pela omissão praticada pelo ex-Prefeito, ora primeiro apelante, que gerou a perda patrimonial ao Município, seja pelo enriquecimento ilícito praticado pelo ex-funcionário, ora segundo apelante, ao receber valor relativo a venda de bem público, o conjunto probatório comprova os atos de improbidade administrativa praticados por ambos.
+Registre-se que não há que se falar em ausência de dano ao erário, na medida em que há comprovação nos autos no sentido de que houve o recebimento à época de R$600,00 (seiscentos reais), a título de alienação de bem móvel público, configurando, também, a perda patrimonial do Município.
+Em relação ao dolo, percebe-se que ele também restou demonstrado pelas condutas realizadas pelos requeridos, seja pela alienação propriamente dita realizada pelo terceiro apelante ou pela ciência e ausência de atitudes efetuada pelo primeiro apelante.
+Em relação ao dolo, percebe-se que ele também restou demonstrado pelas condutas realizadas pelos requeridos, seja pela alienação propriamente dita realizada pelo terceiro apelante ou pela ciência e ausência de atitudes efetuada pelo primeiro apelante. - grifos acrescidos.
+Da leitura do acórdão recorrido, dessume-se que a Corte local entendeu que os demandados incorreram em ato de improbidade administrativa, que está presente o elemento subjetivo em sua conduta e que houve dano ao erário.
+Desse modo, a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, consoante a Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. ATO CONFIGURADO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA. DOSIMETRIA. EXCESSO. CONFIGURAÇÃO.
+1. O Plenário do STJ decidiu que aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma nele prevista (Enunciado Administrativo 3 do STJ).
+2. O Superior Tribunal de Justiça tem o entendimento de que o julgamento antecipado da lide, por si só, não caracteriza cerceamento de defesa, já que cabe ao magistrado apreciar livremente as provas dos autos, indeferindo aquelas que considere inúteis ou meramente protelatórias.
+3. Conforme pacífico entendimento jurisprudencial desta Corte Superior, improbidade é ilegalidade tipificada e qualificada pelo elemento subjetivo, sendo "indispensável para a caracterização de improbidade que a conduta do agente seja dolosa para a tipificação das condutas descritas nos artigos 9º e 11 da Lei 8.429/1992, ou, pelo menos, eivada de culpa grave nas do artigo 10" (AIA 30/AM, Rel. Ministro Teori Albino Zavascki, Corte Especial, DJe 28/09/2011).
+4. Hipótese em que, em face das premissas fáticas assentadas no acórdão objurgado, que reconheceu o enquadramento do recorrente nos atos de improbidade administrativa (art. 11 da Lei n. 8.429/1992), com a indicação expressa do elemento subjetivo (dolo), a modificação do entendimento firmado pelas instâncias ordinárias demandaria induvidosamente o reexame de todo o material cognitivo produzido nos autos, desiderato incompatível com a via especial, a teor da Súmula 7/STJ.
+5. De acordo com a jurisprudência do STJ, para a configuração dos atos de improbidade que atentam contra os princípios da Administração (art. 11 da LIA), não se exige a comprovação do enriquecimento ilícito do agente ou prejuízo ao erário.
+6. Esta Corte consolidou o entendimento de que é viável a revisão da dosimetria das sanções aplicadas em ação de improbidade administrativa quando, da leitura do acórdão recorrido, verificar-se a desproporcionalidade entre os atos praticados e as sanções impostas.
+7. In casu, além da suspensão dos direitos políticos do recorrente por 3 (três) anos e a proibição de contratar com o Poder Público por igual prazo, foi imposta a multa civil no importe referente a 100 (cem) vezes a sua última remuneração, evidenciando, no tocante à sanção pecuniária, que a penalidade imposta se afastou dos princípios da razoabilidade e da proporcionalidade, viabilizando a intervenção desta Corte Superior.
+8. Agravo interno parcialmente provido para reduzir o valor atribuído à multa civil ao patamar de 5 (cinco) vezes o valor da última remuneração percebida no cargo público.
+(AgInt no AREsp 1.227.045/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, DJe 17/2/2021).
+Cumpre destacar que esta Corte admite a cumulação das penalidades e que, no presente caso, não se está diante de situação de manifesta desproporcionalidade das sanções, situação essa que, constatada, autorizaria a reanálise excepcional da dosimetria da pena. A propósito, vejam-se os seguintes precedentes: AgInt no REsp n. 1.774.729/MG, relator Ministro Francisco Falcão, Segunda Turma, julgado em 10/12/2019, DJe 13/12/2019; AgInt no REsp n. 1.776.888/MG, relator Ministro Benedito Gonçalves, Primeira Turma, julgado em 22/10/2019, DJe 19/11/2019; AgInt nos EDcl no AREsp n. 437.764/SP, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 27/2/2018, DJe 12/3/2018; AgRg no AREsp n. 173.860/MS, relator Ministro Herman Benjamin, Segunda Turma, julgado em 4/2/2016, DJe 18/5/2016.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
