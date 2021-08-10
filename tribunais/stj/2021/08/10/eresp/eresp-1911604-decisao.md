@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de divergência interpostos por Ana Luiza Fleck Saibrocontra acórdão da Primeira Turma assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. IMPOSTO DE TRANSMISSÃO CAUSA MORTIS E DOAÇÃO - ITCMD. PROGRESSIVIDADE DE ALÍQUOTA. LEI DO ESTADO DO RIO GRANDE DO SUL. DECLARAÇÃO DE INCONSTITUCIONALIDADE. REPERCUSSÃO GERAL RECONHECIDA. CONSTITUCIONALIDADE AFIRMADA PELO SUPREMO TRIBUNAL FEDERAL. DECADÊNCIA. NÃO OCORRÊNCIA. PRETENSÃO VINCULADA AO EXAME DE PROVAS. INADMISSIBILIDADE.
+1. À luz das Súmulas 7 e 83 do STJ, não se conhece de recurso especial na hipótese em que, além de o acórdão recorrido estar em conformidade com a orientação jurisprudencial deste Tribunal Superior, a situação fática nele descrita não permitir sua revisão sem reexame de fatos ou provas.
+2. Embora pacífica a orientação jurisprudencial deste Tribunal, pela possibilidade de lançamento do imposto de transmissão causa mortis e doação - ITCMD na hipótese em que suspensa a exigibilidade com o fim de evitar a decadência, não pode ser observada na situação em há posterior declaração de constitucionalidade, pelo STF, do sistema de progressividade de alíquota prevista na lei estadual (RE 562.045/RS), a qual fora anteriormente afastada pelo órgão julgadora quo ao pretexto de sua inconstitucionalidade. Precedente.
+3. No caso dos autos, o recurso não foi conhecido porque o órgão julgador a quo, em juízo de conformação, afastou a decadência porque "a questão da progressividade ou não da alíquota do imposto pendia de resolução na Suprema Corte - RE 562.045/RS, de forma a impedir o lançamento da complementação do tributo pelo Fisco". Acórdão cuja conclusão não pode ser revista sem reexame de provas e em conformidade com a orientação jurisprudencial deste Tribunal Superior.
+4. Agravo regimental não provido.
+A insurgente aduz que, "ausente qualquer impedimento ao lançamento tributário, em decorrência da decisão judicial proferida nos autos do inventário, que dispôs sobre a alíquota do ITCD aplicável à transmissão causa mortis, o fisco deveria ter constituído o crédito tributário, para prevenir a decadência, no quinquênio subsequente ao primeiro dia do exercício seguinte à homologação da partilha". Indica como paradigma o acórdão da Segunda Turma proferido noAgInt no AREsp 1.735.947/RS, Rel. Min. Assusete Magalhães.
+É o relatório.
+Leio no aresto paradigma, decidindo caso análogo:
+ ..  as decisões judiciais interlocutórias que, ao declararem a inconstitucionalidade das alíquotas progressivas do ITCMD, determinaram a aplicação da alíquota mínima desse imposto, produziram, como efeito delas decorrente, a suspensão da exigibilidade do tributo, com alíquota diversa da mínima, mas não impediram o Fisco de efetuar o lançamento tributário suplementar, para evitar a decadência, independentemente de a discussão judicial acerca da progressividade das alíquotas ter-se travado, no citado AREsp 1.596.915/RS, em sede de mandado de segurança (art. 151, IV, do CTN), e, no presente caso, em outra espécie de ação judicial (art. 151, V, do CTN), isto é, em processo de inventário.
+Ante o exposto,demonstrada, em princípio, a divergência, admito os embargos.
+Vista à parte embargada para apresentar impugnação no prazo de 15 (quinze) dias.
+Decorrido o prazo acima, remetam-se os autos ao Ministério Público Federal.
+Após, retornem conclusos, com brevidade.
+Publique-se. Intimem-se.
