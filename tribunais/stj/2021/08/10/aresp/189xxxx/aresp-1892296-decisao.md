@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto pelaFAZENDA DO ESTADO DE SÃO PAULO, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"TRIBUTÁRIO. ICMS. Afastada sua incidência na operação de importação de medicamento por não contribuinte, eis que a edição da Lei estadual nº 11.001/01 ocorreu antes do advento da Lei Complementar federal nº 114/02. Obediência ao que foi decidido no julgamento do RE nº 439.796/PR. Precedentes. Ordem concedida.
+REEXAME NECESSÁRIO E RECURSO VOLUNTÁRIO DA FAZENDA NÃO ACOLHIDOS" (fl. 192e).
+Opostos Embargos de Declaração (fls. 227/231e), restaram assim decididos, nos termos da seguinte ementa:
+"PROCESSUAL CIVIL. Recurso. Embargos de Declaração. Inexistente vicio autorizador da insurgência, certo que o julgado lastreia-se em tese fixada pelo Supremo Tribunal Federal em sede de repercussão geral.
+REJEIÇÃO" (fl. 238e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora agravante aponta violação aos arts. 2º, § 1º, I, e 4º, parágrafo único, I, da Lei Complementar 87/96.
+Sustenta, para tanto, que: a) não existe "identidade do caso em tela com o julgado pelo STF no REX 439.796/PR" (fl. 276e); b) há incidência de ICMS na importação por pessoa física no Estado de São Paulo (fl. 280e); c) "no Estado de São Paulo há sim, legislação posterior à edição da Emenda Constitucional nº 33/2001, criando o tributo incidente sobre a importação de bem do exterior por quem não é regular contribuinte do ICMS, nos termos permissivos da Lei Maior" (fl. 287e), concluindo que "no caso do Estado de São Paulo, após a edição da Emenda Complementar nº 33/2001, foi promulgada a Lei Estadual nº 11.001/2001. Por sua vez, a Lei Complementar nº 114/2002 veio a lume um ano depois, em 17 de dezembro de 2002. Portanto, conclui-se que o caso de São Paulo não se amolda às decisões do STF transcritas pela Autora, pois a legislação paulista foi promulgada em momento posterior à Emenda e anterior à Lei Complementar, aqui não se implementando a condição mencionada no julgado" (fl. 293e).
+Requer, ao final, "seja provido este recurso especial, a fim de que seja reformado o Acórdão recorrido e declarada a improcedência da ação, carreando-se com exclusividade à Recorrida os encargos da sucumbência" (fl. 293e).
+Contrarrazões apresentadas (fls. 336/349e), foi o Recurso inadmitido na origem (fls. 432/433e), ensejando a interposição do presente Agravo (fls. 439/444e).
+Recurso Extraordinário (fls. 250/269e) admitido na origem (fls. 430/431e),
+A irresignação não merece prosperar.
+Para melhor elucidação, transcrevo a fundamentação do acórdão recorrido, no que interessa à espécie:
+"A farta documentação que instruiu a inicial, não impugnada pela Fazenda, demonstra que a impetrante, portadora de leucemia de células plasmocitárias, procedeu à importação, exclusivamente para uso próprio, dos medicamentos Darzalex e Kyprolis, prescritos pelo médico que a assiste e não disponíveis no mercado interno.
+Porém, no momento do desembaraço, a autoridade fiscal condicionou a liberação dos fármacos ao pagamento do ICMS, o que - anote-se desde logo - afronta a Súmula 323 do Supremo Tribunal Federal, que prescreve:
+(..)
+A par dessa circunstância, tem-se que a cobrança do imposto não se justifica.
+Isso porque o Supremo Tribunal Federal, em sessão de 6.11.2013, ao julgar o RE nº 439.796/ PR, relatado pelo Min. Joaquim Barbosa e submetido ao regime de repercussão geral, definiu que o ICMS é exigível em relação a produtos importados para consumo próprio por não contribuinte somente na hipótese em que a lei autorizadora da exação tenha sido posteriormente editada à Emenda Constitucional nº 33/01 e à Lei Complementar nº 114/ 02.
+Eis a ementa do julgado, no que interessa:
+(..)
+Em outras palavras, a cobrança do ICMS em circunstâncias como a ora examinada torna-se viável apenas se conjugadas três condições: a) o advento da Emenda Constitucional nº 33/01; b) a edição de lei complementar federal que defina as hipóteses de incidência do tributo, abrangendo a importação de bens independentemente da finalidade da operação e atribuindo a qualidade de contribuinte a qualquer pessoa; c) e, por fim, a promulgação de lei estadual posteriormente à emenda e à lei complementar.
+A Lei estadual nº 11.001/01, que deu nova redação à Lei estadual nº 6.374/89, veio, entretanto, no interregno das edições da Emenda Constitucional nº 33/01 e da Lei Complementar nº 144/02.
+A edição da lei local revela-se, sim, precipitada, porquanto ocorreu anteriormente à da Lei Complementar nº 144/02; diante disso, forçoso é reconhecer a impossibilidade da incidência do tributo no caso concreto.
+Esse é o posicionamento reiteradamente adotado por esta C. Câmara:
+(..)
+Diante desse quadro, reconhece-se a inexigibilidade do recolhimento do ICMS sobre os medicamentos importados pela impetrante.
+Assinale-se, afinal, que a diretriz fixada pela Suprema Corte, de um lado, evidencia o direito líquido e certo afirmado na inicial e a irrelevância do fato de a importação ter ocorrido após a promulgação da Emenda Constitucional nº 33/01; e, de outro, torna inócua da extensa argumentação desenvolvida pela Fazenda, quanto a sua conduta encontrar-se respaldada nos artigos 155, §2º, inciso IX, letra "a", da Constituição Federal, 2º, §1º, inciso I e 4º, parágrafo único, inciso I, da Lei Complementar nº 87/96, 37 do Anexo I do RICMS e 8º da Portaria CAT nº 59/07.
+Isto posto, não se acolhem o reexame necessário e o recurso voluntário da Fazenda.
+Eventual insurgência em face deste acórdão estará sujeita a julgamento virtual, nos termos da Resolução nº 549/2011 do Colendo Órgão Especial deste Egrégio Tribunal de Justiça, facultado às partes, no momento da interposição do recurso, opor-se à forma do julgamento ou manifestar interesse no preparo de memoriais.
+No silêncio, privilegiando-se o princípio da celeridade processual, prosseguirá o julgamento virtual, na forma dos §§ 1º a 3º do artigo 1º da referida Resolução" (fls. 193/198e).
+Com efeito, verifica-se que a controvérsia foi dirimida, pelo Tribunal de origem, sob enfoque eminentemente constitucional, competindo ao Supremo Tribunal Federal eventual reforma do acórdão recorrido, sob pena de usurpação de competência inserta no art. 102 da Constituição Federal.
+Dessa forma, é inviável o exame da insurgência, tal como posta, em sede de Recurso Especial, que se restringe à uniformização da legislação infraconstitucional.
+Ilustrativamente:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. REAJUSTE DE VANTAGEM PESSOAL INCORPORADA JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO ESTRITAMENTE CONSTITUCIONAL. INVIABILIDADE DO APELO NOBRE.
+1. Não ocorre julgamento extra petita quando o juiz aplica o direito ao caso concreto com base em fundamentos diversos dos apresentados pela parte. Não há falar, assim, em violação dos arts. 128 e 460 do CPC/1973.
+2. O Tribunal de origem decidiu a controvérsia à luz de fundamento eminentemente constitucional (art. 37, XIII, da Constituição Federal), circunstância que torna inviável o exame da matéria em sede de recurso especial.
+3. Agravo interno não provido" (STJ, AgInt no REsp 1.478.367/CE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe de 14/03/2018).
+Ademais, observa-se que a questão foi decidida pela Corte de origem mediante análise de legislação local, qual seja, a Lei estadual 11.001/2001. Assim, inviável a análise do ponto, ante o óbice da Súmula 280/STF: "Por ofensa a direito local não cabe recurso extraordinário".
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ACÓRDÃO EMBASADO EM NORMA DE DIREITO LOCAL. LEI MUNICIPAL N. 4.994/95. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 280/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015 para o presente Agravo Interno, embora o Agravo em Recurso Especial e o Recurso Especial estivessem sujeitos ao Código de Processo Civil de 1973.
+II - Não cabe ao Superior Tribunal de Justiça, no Recurso Especial, rever acórdão que demanda interpretação de direito local, à luz do óbice contido na Súmula n. 280 do Supremo Tribunal Federal.
+III - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+IV - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V - Agravo Interno improvido" (STJ, AgInt no AREsp 1.170.491/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 09/03/2018).
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, já que, conforme orientação fixada pela Súmula 105/STJ, não é admitida a condenação ao pagamento de honorários advocatícios em Mandado de Segurança.
+I.
