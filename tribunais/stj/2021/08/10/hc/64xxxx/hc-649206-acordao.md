@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, conceder o habeas corpus, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA ARMADA, POSSE DE ARMAS DE FOGO, MUNIÇÕES E ARTEFATOS EXPLOSIVOS. CONDENAÇÃO. RÉU RESPONDEU PARTE DOPROCESSO EM LIBERDADE. DECRETAÇÃO DA PRISÃO PREVENTIVA NO JULGAMENTO DA APELAÇÃO. AUSÊNCIA DE REFERÊNCIA A ARGUMENTOS NOVOS, CAPAZES DE JUSTIFICAR A SUPERVENIÊNCIA DA PRISÃO. RECURSO EXCLUSIVO DA DEFESA. REFORMATIO IN PEJUS. OCORRÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Hipótese em queo paciente permaneceu solto por mais de dois anos, inexistindo no acórdão que lhe impôs a prisão preventivaqualquer registro quanto à alteração do contexto fático a tornar imprescindível a segregação corpórea, evidenciada a falta de contemporaneidade da medida.
+2.Diante da inexistência de apelo ministerial requerendo a custódia cautelar do acusado, o Tribunal de origem promoveu indevida reformatio in pejus, agravando a situação do réu em recurso exclusivo da defesa.
+3. Ordem concedidapara assegurar ao paciente o direito de aguardar solto o trânsito em julgado da condenação, salvo se por outro motivo estiver preso. Liminar confirmada.
+RELATÓRIO
+Trata-se de habeas corpus ajuizado em nome de Flávio Lourenço Lopera, ante a decretação da custódia preventiva do paciente pelo Tribunal de Justiça de São Paulo na Apelação n. 0000963-11.2016.8.26.0628.
+Pugnando-se pela imediata expedição de contramandado de prisão, menciona-se, na inicial desta impetração, que o paciente respondeu em liberdade parte da ação penal, pois, em 16/5/2018, foi-lhe concedida liberdade provisória, contudo, ao julgar o apelo defensivo, a Corte estadual novamente lhe impôs a custódia preventiva, sem que estivessempresentes os requisitos previstos no art. 312 do Código de Processo Penal.
+Deferi medida liminarpara assegurar ao paciente o direito de aguardar solto o trânsito em julgado da condenação, salvo em caso de prisão outromotivo (fls. 138/140).
+Informações prestadas pela Corte estadual (fls. 146/147).
+Parecer do Ministério Público Federal opinando pelo não conhecimento do writ e, caso conhecido, pela denegação da ordem, cassando-se a liminar deferida (fls. 245/248).
+Ainda encontra-se pendente o esgotamento da instância recursal ordinária - em30/06/2021, fora publicado o acórdão que rejeitou os embargos de declaração opostos pelas defesas.
+É o relatório.
+EMENTA
+HABEAS CORPUS. ASSOCIAÇÃO CRIMINOSA ARMADA, POSSE DE ARMAS DE FOGO, MUNIÇÕES E ARTEFATOS EXPLOSIVOS. CONDENAÇÃO. RÉU RESPONDEU PARTE DOPROCESSO EM LIBERDADE. DECRETAÇÃO DA PRISÃO PREVENTIVA NO JULGAMENTO DA APELAÇÃO. AUSÊNCIA DE REFERÊNCIA A ARGUMENTOS NOVOS, CAPAZES DE JUSTIFICAR A SUPERVENIÊNCIA DA PRISÃO. RECURSO EXCLUSIVO DA DEFESA. REFORMATIO IN PEJUS. OCORRÊNCIA. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+1. Hipótese em queo paciente permaneceu solto por mais de dois anos, inexistindo no acórdão que lhe impôs a prisão preventivaqualquer registro quanto à alteração do contexto fático a tornar imprescindível a segregação corpórea, evidenciada a falta de contemporaneidade da medida.
+2.Diante da inexistência de apelo ministerial requerendo a custódia cautelar do acusado, o Tribunal de origem promoveu indevida reformatio in pejus, agravando a situação do réu em recurso exclusivo da defesa.
+3. Ordem concedidapara assegurar ao paciente o direito de aguardar solto o trânsito em julgado da condenação, salvo se por outro motivo estiver preso. Liminar confirmada.
+VOTO
+No caso, como visto, busca-se a concessão do direito de o paciente aguardar solto o trânsito em julgado da condenação havida na Ação Penal n.0000963-11.2016.8.26.0628,da 2ª Vara Criminal da comarca de Irapecerica da Serra/SP.
+Quando da prolação da sentença condenatória, o Juízo processante consignou queos réus que atualmente respondem soltospoderão recorrer em liberdade, por não constar notícia de que haja descumprimento das condições impostas por ocasião da concessão do benefício (fl. 127). Em tal condição encontrava-se o acusado Flábio Lopera.
+Contudo, a Corte paulista, no julgamento dos apelos defensivos, especificamente em relação ao ora paciente, ponderou o seguinte (fl. 62):
+ ..
+Por derradeiro, convém decretar a prisão preventiva do corréu FLÁVIO LOPERA diante do pronunciamento agora verificado a esgotar a jurisdição fático- probatória, destacada a necessidade de segregação cautelar para garantir a aplicação da lei penal diante da elevada reprimenda imposta, sem se desprezar a gravidade concreta das condutas típicas a desnudar o "periculum libertatis", não sendo tal agente, portanto, merecedor de solução distinta daquela verificada com relação aos demais apelantes, que respondem presos à ação penal desde o início (pelo menos em maioria).
+Cuida-se de situação que não se confunde com singela "prisão automática" após a condenação em segundo grau, porquanto, aqui, as peculiaridades da conduta e, sobretudo, a elevadíssima reprimenda imposta, justificam a segregação cautelar para assegurar a pretensão executória estatal.
+Anota-se que o apelante teve deferida a liberdade provisória diante da aparente similitude de situação relativa aos corréus absolvidos (fls. 2.378), conclusão modificada através de análise mais detida do acervo probatório a indicar a efetiva participação de FLÁVIO LOPERA no grupo criminoso permitindo a persistência na senda de crimes de ímpar e concreta gravidade, consideradas as peculiaridades e circunstâncias adversas antes esmiuçadas ínsitas a delinquente contumaz, em prol da ordem pública.
+ ..
+Na espécie, em que pesem as considerações constantes do acórdão, tem-se que o paciente permaneceu solto por mais de dois anos, inexistindo, no referido decisum, qualquer registro quanto à alteração do contexto fático a tornar imprescindível a segregação preventiva, o que demonstra a falta de contemporaneidade da medida. Não houve a indicação de elementos concretos a evidenciar a dita reiteração por parte do acusado enquanto respondia a ação penal em liberdade.
+Afora isso,diante da inexistência de apelo ministerial requerendo a custódia cautelar do paciente, adecretação da prisão preventiva do réu, pelo Tribunal de Justiça, em recurso exclusivo da defesa, configura o vedado reformatio in pejus. Precedentes do STF e desta Corte. (HC . 333.573/PR, Ministro Reynaldo Soares Da Fonseca, Quinta Turma, DJe 4/11/2015).
+Com efeito,não obstante a gravidade dos crimes pelos quaiso paciente foi condenado, o acórdão impugnado não trouxe nenhum fundamento novo que autorizasse a sua segregação provisória, não se podendo olvidar de que até então havia ele respondido a todo o processo em liberdade (HC n. 285.843/PR, de minha relatoria, DJe 14/10/2014).
+Nesse contexto, verifico a presença de constrangimento ilegal capaz de justificar a revogação da custódia cautelar do paciente.
+Ante o exposto, confirmando a liminar, concedo a ordempara assegurar ao paciente o direito de aguardar solto o trânsito em julgado da condenação, salvo se por outro motivo estiver preso.
