@@ -1,0 +1,17 @@
+DECISÃO
+LUCIMAR MOUTINHO PEREIRA alega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais no HC n. 1.0000.21.053217-7/000.
+Nesta Corte, a defesa postula a concessão de liberdade provisória ao réu, por considerar inidôneos os motivos elencados para convolar a prisão em flagrante, pela suposta prática dos crimes de tráfico de drogas e associação para o narcotráfico, em custódia preventiva. Alega que, durante a oitiva do condutor e das testemunhas, em sede policial, não foi permitida a presença de advogados, o que "gera nulidade do ato por contrariar lei federal, Lei 8.906/94, e o que narra a Súmula 14 do STF" (fl. 135, grifei).
+Ao converter o flagrante em prisão cautelar, o Juízo singular ressaltou que, "a priori, todos os indiciados foram flagrados em situação iminente de prática dos crimes imputados, havendo indícios suficientes de autoria com relação a todos os indiciados, sendo certo ademais quefoi apreendida grande quantidade de droga e materiais relacionados ao tráfico de drogas" (fls. 21-22, destaquei).
+O acórdão recorrido consignou que: a) "o paciente foi preso em flagrante delito na posse de cerca de 876kg de maconha, pés da mesma substância e 552g de cocaína, drogas que estavam acondicionadas em um estabelecimento "pesque e pague"onde, segundo denúncias, ocorria o tráfico" (fl. 114, grifei); b) "se trata de réu reincidente específico, conforme comprova a CAC juntada no doc de ordem 12" (fl. 116, destaquei).
+De início, observo que a suscitada nulidade do flagrantenão foi analisada no aresto combatido, o que inviabiliza seu exame nesta oportunidade, por configurarsupressão de instância.
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Na hipótese, são idôneos os motivos elencados para justificar a prisão preventiva do paciente, por evidenciarem a gravidade concreta da conduta em tese perpetrada, diante da apreensão de 876 kg de maconha e 552 g de cocaína, circunstânciasuficiente, nos termos da jurisprudência desta Corte Superior, para justificar a imposição da cautela extrema. Nesse sentido:
+ ..
+1. O agravante foi preso em flagrante pela prática, em tese, do crime previsto no art. 33, caput, da Lei n. 11.343/2006, uma vez que foi surpreendido por policiais enquanto mantinha em depósito, para o comércio, 231 (duzentos e trinta e um) invólucros de maconha, com o peso de 170g (cento e setenta gramas), e 58 (cinquenta e oito) invólucros com cocaína, com o peso de 20,93g (vinte gramas e noventa e três centigramas), além de balança de precisão, R$ 167,00 (cento e sessenta e sete reais) em notas trocadas e de substância entorpecente recipientes plásticos utilizados para embalar porções individuais de substâncias entorpecentes.
+2. A custódia cautelar do acusado encontra-se devidamente justificada nos termos do art. 312 do Código de Processo Penal, diante da necessidade de proteção da ordem e da saúde públicas, consideradas a natureza e a expressiva quantidade da droga apreendida, num contexto que faz presumir a dedicação à prática habitual da atividade ilícita.
+ ..
+4. Agravo regimental desprovido.
+(AgRg no HC n. 582.995/MG, Rel. Ministro Jorge Mussi, 5ª T., DJe 25/8/2020, grifei)
+Logo, não constato a ocorrência de flagrante ilegalidade na espécie.
+À vista do exposto, nego provimento ao recurso.
+Publique-se e intimem-se.
