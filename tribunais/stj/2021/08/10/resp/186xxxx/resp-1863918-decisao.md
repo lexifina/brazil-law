@@ -1,0 +1,19 @@
+DECISÃO
+Adoto o relatório elaborado pelo Ministério Público Federal (e-STJ fls. 163/164):
+Trata-se de recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto pelo Ministério Público do Estado do Tocantins, contra acórdão prolatado pela 1ª Câmara Criminal do Tribunal de Justiça/TO, que deu provimento ao recurso de apelação defensivo (autos n.º 0022464-30.2019.827.0000) para absolver o ora recorrido da prática da contravenção penal prevista no artigo 19, caput, do Decreto-Lei n.º 3.688/41 (porte de arma branca).
+O acórdão hostilizado possui a seguinte ementa:
+APELAÇÃO. CONTRAVENÇÃO PENAL. PORTE DE ARMA BRANCA. FACA DE COZINHA. LICENÇA DA AUTORIDADE. AUSÊNCIA DE REGULAMENTAÇÃO.ATIPICIDADE DA CONDUTA. ABSOLVIÇÃO. REFORMA DA SENTENÇA.
+Em relação ao porte de arma branca, a conduta continua a ser prevista como contravenção penal, especificamente, no artigo 19 do DecretoLei nº 3.688, de 1941. Contudo, em consideração aos Princípios da Legalidade e da Anterioridade da Lei Penal (artigo 5º , incisos II e XXXIX da Constituição da República), é inaplicável o artigo 19 da Lei das Contravenções Penais, pois exige para a sua configuração que o porte de arma pelo agente (faca de cozinha) esteja desacompanhado de licença da autoridade, e por não existir lei regulamentando o porte de arma branca, não há a possibilidade de obtenção da licença para portá-la, o que torna o dispositivo legal inócuo, carecedor de elemento normativo. (e-fl. 115)
+Alega o recorrente, essencialmente, que "o acórdão atacado violou o artigo 19 do Decreto Lei nº 3688/1941, na medida em que a conduta de portar arma branca fora dos limites residenciais configura contravenção penal, vez que o dispositivo em questão se encontra em inteiro vigor e aplicabilidade plena, não necessitando de qualquer regulamentação complementar." (e-fl.102). Pede, ao final, pelo conhecimento e provimento do presente recurso, "a fim de que seja reformado o acórdão combatido e, por conseguinte, condenado o recorrido BENVINDO COSTA QUINTANILHA na contravenção penal prevista no artigo 19, caput, da Lei das Contravenções Penais (porte de arma branca)" (e-fl. 139).
+Com contrarrazões (e-fls. 140-147) e após o juízo positivo de admissibilidade (e-fls.150-154), foram os autos encaminhados a esse Superior Tribunal de Justiça, vindo, na sequência, para parecer, a esta Procuradoria-Geral da República.
+Ao final, manifestou-se pelo provimento do recurso.
+É, em síntese, o relatório.
+O acórdão recorrido, ao afirmar a necessidade de regulamentação do art. 19 da Lei de Contravenções Penais,divergiuda orientação firmada nesta Corte, "no sentido da possibilidade de tipificação da conduta de porte de arma branca como contravenção prevista no art. 19 do Decreto-Lei n. 3.688/1941" (RHC n. 56.128/MG, RelatorMinistro Ribeiro Dantas, DJe 26/3/2020).
+No mesmo sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL.CONTRAVENÇÃO PENAL DE TRAZER CONSIGO ARMA FORA DE CASA (DUAS FACAS). ART. 19 DO DECRETO-LEI N.º 3.688/1941. TRANCAMENTO.IMPOSSIBILIDADE. DISPOSITIVO LEGAL EM VIGÊNCIA. PRISÃO PREVENTIVA.IMPOSSIBILIDADE. RECURSO PARCIALMENTE PROVIDO, CONFIRMANDO A LIMINAR.
+1. A edição da Lei n.º 9.437/97 - diploma que instituiu o Sistema Nacional de Armas e elevou à categoria de crime o porte não autorizado de armas de fogo - não revogou o art.19 da Lei das Contravenções Penais, subsistindo a contravenção quanto ao porte de arma branca.
+(..)
+3. Recurso ordinário em habeas corpus parcialmente provido para, nos termos da liminar anteriormente deferida, revogar a prisão preventiva da Recorrente, se por outro motivo não estiver presa.
+(STJ - RHC 118.193/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/02/2020, DJe 02/03/2020)
+Ante o exposto, dou provimento ao recurso para restabelecer a sentença condenatória.
+Publique-se. Intimem-se.
