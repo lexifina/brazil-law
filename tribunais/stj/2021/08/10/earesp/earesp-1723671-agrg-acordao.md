@@ -1,0 +1,45 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO RETROATIVA DA LEI 11.343/2006. INVIABILIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. PROPORCIONAL À GRAVIDADE CONCRETA DO DELITO. AGRAVO NÃO PROVIDO.
+1. Considerando a inviabilidade de incidência da causa de diminuição prevista no art. 33, § 4º da Lei n. 11.343/2006 no caso em apreço, é mais favorável ao réu a aplicação integral da legislação anterior (Lei n. 6.368/1976). Súmula 501/STJ.
+2. Diante da extrema gravidade do delito - tráfico de drogas praticado por policiais civis envolvendo aproximadamente 150kg de cocaína, entorpecente este que estava sob custódia do Estado em delegacia de polícia e mesmo assim foi subtraído pelos acusados -, não se revela manifestamente desproporcional a fixação da pena-base em 8 anos, sobretudo diante dos limites máximo e mínimo previstos no preceito secundário do então art. 12 da Lei n. 6.368/1976 (3 a 15 anos de reclusão).
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Convocado o Sr. Ministro Jesuíno Rissato (Desembargador Convocado).
+RELATÓRIO
+O EXMO. SR . MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por MAHMOD DA SILVA DEGHAICE contra a decisão de fls. 3763-3769 (e-STJ), que negou provimento ao seu recurso especial.
+O agravante, em suma, renova as seguintes teses: I) possibilidade aplicação retroativa da Lei n. 11.343/2006, pois seria mais favorável ao recorrente; II) ilegalidade do aumento excessivo da pena-base; e III) constrangimento ilegal na fixação do regime inicial fechado.
+Requer a reconsideração da decisão agravada ou a submissão deste agravo regimental à Quinta Turma para que seja provido seu recurso especial, nos termos pleiteados.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. APLICAÇÃO RETROATIVA DA LEI 11.343/2006. INVIABILIDADE. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. PROPORCIONAL À GRAVIDADE CONCRETA DO DELITO. AGRAVO NÃO PROVIDO.
+1. Considerando a inviabilidade de incidência da causa de diminuição prevista no art. 33, § 4º da Lei n. 11.343/2006 no caso em apreço, é mais favorável ao réu a aplicação integral da legislação anterior (Lei n. 6.368/1976). Súmula 501/STJ.
+2. Diante da extrema gravidade do delito - tráfico de drogas praticado por policiais civis envolvendo aproximadamente 150kg de cocaína, entorpecente este que estava sob custódia do Estado em delegacia de polícia e mesmo assim foi subtraído pelos acusados -, não se revela manifestamente desproporcional a fixação da pena-base em 8 anos, sobretudo diante dos limites máximo e mínimo previstos no preceito secundário do então art. 12 da Lei n. 6.368/1976 (3 a 15 anos de reclusão).
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR . MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não merece guarida, pois a decisão ora guerreada foi proferida em consonância à orientação jurisprudencial desta Corte Superior.
+Acerca da aplicação retroativa da Lein. 11.343/2006, conforme já adiantado, o acórdão estadual está alinhado ao entendimento consolidado naSúmula 501 desteSTJ: "É cabível a aplicação retroativa da Lei n. 11.343/2006, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei n. 6.368/1976, sendo vedada a combinação de leis". No caso, tendo em vista o contexto impeditivodo deferimento da benesse prevista no art. 33, § 4º da Lei n. 11.343/2006 -quantidade e natureza da droga (150kg de cocaína) ecrime praticado por policiais-, a incidência da antiga Lei de Drogas, na integralidade, mostra-se mais benéfica ao réus, sobretudo por conter pena mínima menor.
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. RECURSO ESPECIAL MINISTERIAL PROVIDO. COMBINAÇÃO DE PONTOS ESPECÍFICOS DE DUAS NORMAS DIVERSAS (LEI N. 6.368/1976 E LEI N. 11.343/2006). IMPOSSIBILIDADE. SÚMULA 501/STJ. PRECEDENTES.DECISÃO MONOCRÁTICA MANTIDA.
+Conforme consignado no decisum monocrático reprochado, a jurisprudência desta eg. Corte Superior é pacífica no sentido de que "Consoante o enunciado 501 da Súmula desta Corte, é cabível a aplicação retroativa da Lei 11.343/06, desde que o resultado da incidência das suas disposições, na íntegra, seja mais favorável ao réu do que o advindo da aplicação da Lei 6.368/76, sendo vedada a combinação de leis." (AgRg no AREsp 175.898/SP, Sexta Turma, Rel.Min. Nefi Cordeiro, DJe 16/12/2016, grifei). Precedentes.Agravo regimental desprovido."
+(AgRg no REsp 1845021/MS, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019, grifou-se)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA.MINORANTE DO ART. 33, § 4º, DA LEI N. 11.343/2006. NÃO APLICAÇÃO.GRANDE QUANTIDADE DE ENTORPECENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. FIXAÇÃO DE REGIME INICIAL MENOS GRAVOSO E SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR PENAS RESTRITIVAS DE DIREITOS.IMPOSSIBILIDADE. QUANTUM FINAL ESTABELECIDO ACIMA DE 4 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Segundo o entendimento firmado neste Tribunal Superior, a natureza e a quantidade da droga apreendida constituem elementos aptos a justificar o afastamento da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006.
+2. No caso, não se vislumbra ilegalidade na dosimetria da pena, tendo em vista que a Corte de origem baseou-se em fundamentação idônea, lastreada na grande quantidade das drogas apreendidas - 210g (duzentos e dez gramas) de cocaína, 2,115kg (dois quilos e cento e quinze gramas) de maconha e 13l (treze litros) de lança-perfume -, para afastar a suscitada minorante.
+3. Com a pena definitiva fixada em 5 anos de reclusão, inviável a aplicação de regime inicialmente aberto e a substituição da pena corporal por restritivas de direitos em razão de extrapolar os limites objetivos previstos nas normas de regência.
+4. Agravo regimental desprovido."
+(AgRg no HC 609.367/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 02/02/2021, DJe 09/02/2021, grifou-se)
+Acerca da dosimetria da pena, não foram verificadas hipóteses de manifesta ilegalidade ou arbitrariedade, aptas a autorizar a intervenção desta Corte Superior.
+Com efeito, a pena-base foi fixada em 8 anos de reclusão em virtude da valoração negativa das seguintes circunstâncias judicias: culpabilidade, circunstâncias, quantidade e natureza da droga apreendida. Nesse ponto, consignou o Tribunal de Justiça:
+"Quanto aos pedidos dos apelantes de afastamento das circunstâncias judiciais valoradas como negativas, razão também não lhes assiste.
+Não se olvida que o julgador detém poder de discricionariedade na fixação da pena-base, de modo que pode estabelecer o montante de aumento que entender ser razoável e proporcional à conduta perpetrada e ao grau de reprovação necessário, até porque a legislação não previu percentuais mínimo e máximo de aumento da pena-base pela incidência das circunstâncias judiciais desfavoráveis.
+Consoante se infere da sentença (itens 1.1 a 4.3 - p. 3069/3079), as circunstâncias judicias valoradas como negativas foram concreta e suficientemente fundamentadas, além do quantum aplicado a todos os apelantes mostrar-se razoável e proporcional à conduta perpetrada e ao grau de reprovação necessário.
+Aliás, não se pode esquecer que estamos aqui a tratar da subtração pelos apelantes (policiais) de aproximadamente 150 kg de cocaína, numa engenhosa empreitada criminosa, merecendo, portanto, maior reprovação e exasperação da pena- base, na forma do art. 37 da Lei nº 6.368/76." (e-STJ, fl. 3345)
+Como se vê, as instâncias ordinárias destacaram as particularidades concretas, e extremamente gravosas, do delito em questão, que foram bem delineadas na sentença e no acórdão:tráfico de drogas praticado por policiais civis envolvendo aproximadamente 150kg de cocaína, entorpecente este que estava sob custódia do Estado em delegacia de polícia e mesmo assim foi subtraído pelos acusados.Assim, pode-se concluir que o aumento operado não se releva manifestamente desproporcional,sobretudo diante dos limites máximo e mínimo previstos no preceito secundário do então artigo 12 da Lei n. 6.368/76 (3 a 15 anos de reclusão).
+Inalterado o patamar da pena aplicada ao agravante - 10 anos e 8 meses de reclusão -, fica mantido o regime inicial fechado, nos termos do artigo 33, §2º, "a", do Código Penal.
+Por tais razões, a decisão merece ser mantida pelo seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
