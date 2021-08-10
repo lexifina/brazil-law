@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO CRIME. QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. RISCO DE REITERAÇÃO DELITIVA. PARTICIPAÇÃO EM FACÇÃO CRIMINOSA. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além dos apetrechos, da quantidade e variedade dos entorpecentes apreendidos, o fato de o recorrente ser reincidente específico e integrar facção criminosa denominada "Caveira".
+3. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental interposto por Mauricio Brito Angelo contra a decisão de minha lavra, às fls. 233/236, assim ementada:
+RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO CRIME. QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. RISCO DE REITERAÇÃO DELITIVA. PARTICIPAÇÃO EM FACÇÃO CRIMINOSA. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PARECER ACOLHIDO.
+Recurso improvido.
+Nesta via, o agravante reitera as alegações da impetração, sustentando que há ausência de fundamentação para a custódia cautelar.
+Ressalta que não se encontram presentes os requisitos da prisão preventiva.
+Defende que houve violação ao princípio constitucional da presunção de inocência.
+Requer a retratação da decisão hostilizada e, caso não seja possível, seja o presente regimental provido para que o recorrente possa ser colocado em liberdade.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO. CIRCUNSTÂNCIAS DO CRIME. QUANTIDADE E VARIEDADE DE DROGA APREENDIDA. RISCO DE REITERAÇÃO DELITIVA. PARTICIPAÇÃO EM FACÇÃO CRIMINOSA. INDICAÇÃO DE ELEMENTOS CONCRETOS. GARANTIA DA ORDEM PÚBLICA. MOTIVAÇÃO IDÔNEA. AUSÊNCIA DE MANIFESTA ILEGALIDADE.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível mediante decisão devidamente fundamentada e com base em dados concretos quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além dos apetrechos, da quantidade e variedade dos entorpecentes apreendidos, o fato de o recorrente ser reincidente específico e integrar facção criminosa denominada "Caveira".
+3. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): Não obstante os argumentos expendidos pelo agravante, esses não têm o condão de infirmar os fundamentos insertos na decisão agravada.
+Reafirmo os fundamentos da decisão combatida.
+Em relação aos fundamentos da custódia cautelar, de acordo com as reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade da restrição ao direito constitucional à liberdade de locomoção.
+Na espécie, ao converter a prisão em flagrante em preventiva, o Juízo de origem fundamentou a sua decisão na gravidade do delito e no risco reiteração delitiva, uma vez que ele é reincidente na prática de delitos e integra facção criminosa denominada "Caveira".
+Insatisfeita, a defesa impetrou habeas corpus no Tribunal a quo. Todavia, o Colegiado estadual denegou a ordem, concluindo que (fl. 173 - grifo nosso):
+ ..
+É dizer, a custódia cautelar objurgada foi decretada no dia 25.07.2019 em razão do modus operandi do tráfico, envolvendo considerável quantidade de entorpecentes (a saber, 38 pinos de cocaína, 34 porções e um tablete de 83g de maconha, 50 pedrinhas de crack, além de 214 pinos vazios e balança de precisão, conforme oficio de Id. 8193834), como também por conta de o Paciente estar em local incerto e não sabido desde 06.03.2018, dia dos fatos. Entrementes, inexiste, até então, noticia do cumprimento do respectivo mandado de prisão.
+Frise-se que, posteriormente, o Juízo a quo foi instado a se manifestar mais duas vezes sobre o caso, diante de sucessivos pedidos de revogação da prisão formulado pela defesa do increpado, quando os indeferiu nos dias 29.10.2019 e 18.06.2020, salientando, dentre outros aspectos, que Maurício possui uma condenação transitada em julgado perante a 2ª Vara de Tóxicos, fator que demonstra sua periculosidade e envolvimento com a marginalidade, sobretudo com o tráfico de entorpecentes (Id. 7941843, pág. 104; Id. 7942150, págs. 12-13).
+Trata-se, aqui, de elementos concretos que legitimam a decretação da preventiva, com supedâneo no imperativo de garantia da ordem pública, pois indicam perniciosidade social e risco de reiteração delitiva.
+ ..
+Assim, observa-se, da análise dos trechos acima, que a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fizeram referências às circunstâncias fáticas justificadoras, destacando, além dos apetrechos, da quantidade e variedade dos entorpecentes apreendidos, o fato de o recorrente ser reincidente específico e integrar facção criminosa denominada "Caveira". Tudo a revelar e indicar a necessidade da manutenção da medida extrema.
+Não foi outra a opinião do Subprocurador-Geral da República João Pedro de Saboia Bandeira de Mello Filho, em seu parecer (fls. 227/231).
+Com efeito, o Superior Tribunal de Justiça já decidiu que não há ilegalidade na manutenção da prisão preventiva quando demonstrada, com base em fatores concretos, a sua imprescindibilidade para garantir a ordem e a saúde públicas, dada a gravidade da conduta incriminada, evidenciada pelas circunstâncias em que se deu a prisão em flagrante do réu (RHC n. 113.892/MS, Ministro Jorge Mussi, Quinta Turma, DJe 20/8/2019), possuindo ainda entendimento consolidado no sentido de que a quantidade, a natureza e a diversidade dos entorpecentes encontrados podem servir de fundamento ao decreto de prisão preventiva (HC n. 515.676/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 12/11/2019).
+Ademais, esta Corte Superior entende ser fundamento idôneo para o decreto preventivo o risco de reiteração delitiva (AgRg no RHC n. 138.820/GO, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 4/2/2021; e RHC n. 133.757/RS, Ministra Laurita Vaz, Sexta Turma, DJe 17/2/2021).
+Além disso, o Superior Tribunal de Justiça é assente ao entender que se enquadra no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva (AgRg no RHC n. 126.375/MT, Ministro Felix Fischer, Quinta Turma, DJe 9/6/2020).
+Portanto, nota-se que estão presentes os requisitos autorizadores da decretação da medida constritiva de liberdade, não se mostrando suficientes, para o caso em análise, as medidas previstas no art. 319 do Código de Processo Penal.
+À vista do exposto, nego provimento ao agravo regimental.
