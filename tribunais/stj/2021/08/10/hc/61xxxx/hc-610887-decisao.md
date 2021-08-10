@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de LUCIANO BARBOSA PEREIRAcontra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido noAgravo em Execução Penal n. 9000954-69.2015.8.26.0032.
+Consta dos autos que o Juízo da Execução Penal deferiu o pedido do paciente de comutação da pena, na proporção de 1/5 sobre a pena remanescente nas datas indicadas no art. 2º dos Decretos n. 7.873/2012 e n. 8.380/2014.
+O Tribunal a quo deu provimento ao agravo de execução interposto pelo Ministério Público, para cassar a decisão que concedeu ao paciente a comutação de suas penas remanescentes, por ausência do requisito objetivo.
+No presente mandamus, a impetrante alega, em síntese, que o cometimento de falta grave, ainda que consistente em novo crime, não interrompe o prazo para fim comutação da pena, conforme o disposto no enunciado n. 535 da Súmula desta Corte.
+Requer, inclusive em liminar, que seja afastada a interrupção de lapso para comutação.
+Indeferido o pedido de liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem, nos termos da seguinte ementa:
+"Habeas Corpus. Execução Penal.
+- Comutação de pena. Decretos 7.873/2012 e 8.380/2014. Requisito objetivo. Novo crime praticado no curso da execução. Data do cometimento do último delito fi xada como marco inicial da benesse. Ausência de previsão na legislação e nos decretos concessivos. Teor do enunciado 535 da Súmula do STJ.
+Constrangimento ilegal constatado.
+- Promoção pelo não conhecimento do writ, com a concessão da ordem de ofício, nos moldes deste parecer"(fl. 96).
+É o relatório.
+Decido.
+Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo a atual orientação jurisprudencial do Supremo Tribunal Federal e do próprio Superior Tribunal de Justiça. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+Na hipótese, o Tribunal a quo, cassando a decisão que havia deferido a comutação de penas, deu provimento ao agravo em execução interposto pelo Ministério Público para reconhecer que a falta grave (consistente na prática de fato definido como crime doloso) interrompe a contagem do lapso para concessão de novos benefícios da execução, assim consignando:
+" ..
+Embora entenda que a prática de falta disciplinar de natureza grave, não seja causa interruptiva do lapso temporal para concessão de comutação, como inclusive agora inserido nos arts. 4º, Parágrafo único, dos Decretos Presidenciais em análise, no caso, a situação é bem diversa.
+Ocorre que o Agravado praticou na realidade novo crime doloso, aos 14.10.2007 (Processo Crime nº 79607/2007 ou 1625/07  6 a Vara Criminal do Foro Central da Comarca de São Paulo  Execução nº 4) que embora constitua falta disciplinar de natureza grave, nos termos do art. 52, da Lei da Execução Penal, a situação é bem mais gravosa.
+Ilógico considerar que o condenado preencheria o requisito objetivo - lapso temporal para indulto parcial - considerando o período de cumprimento de pena que antecede a própria prática do crime, em relação ao qual está sendo também beneficiado.
+Com isso, tenho que deva ser considerado como termo inicial para o benefício, a data do último crime e o término de cumprimento de pena que passou a ser previsto.
+Na hipótese, o condenado não cumpriu 2/3 da pena referente ao crime impeditivo  1/3 do remanescente da pena do crime comum, a partir do último crime (14.10.2007), considerando a data referência para o Decreto, o que somente ocorrerá aos 05.06.2017 (Pena do crime impeditivo: 06 anos; 2/3: 04 anos. Pena dos crimes comuns: 16 anos, 11 meses e 03 dias; 1/3: 05 anos, 07 meses e 21 dias. Deveria ter cumprido 09 anos, 07 meses e 21 dias)"(fls. 64/66).
+Quanto ao tema, a Terceira Seção desta Corte, no julgamento do EREsp n. 1.176.486/SP, relator Ministro Napoleão Nunes Maia Filho, uniformizou o entendimento de que a falta disciplinar de natureza grave resulta na alteração da data base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena. Eis a ementa do julgado:
+EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. EXECUÇÃO PENAL. FALTA DISCIPLINAR GRAVE. INTERRUPÇÃO DO PRAZO PARA CONCESSÃO DE BENEFÍCIOS, ENTRE ELES A PROGRESSÃO DE REGIME, EXCETO LIVRAMENTO CONDICIONAL E COMUTAÇÃO DAS PENAS. PRECEDENTES DO STJ E STF. EMBARGOS PROVIDOS PARA ASSENTAR QUE A PRÁTICA DE FALTA GRAVE REPRESENTA MARCO INTERRUPTIVO PARA OBTENÇÃO DE PROGRESSÃO DE REGIME PRISIONAL.
+1. O cometimento de falta grave pelo sentenciado no curso da execução da pena, nos termos do art. 127 da Lei 7.210/84, implica a perda integral dos dias remidos pelo trabalho, além de nova fixação da data-base para concessão de benefícios, exceto livramento condicional e comutação da pena; se assim não fosse, ao custodiado em regime fechado que comete falta grave não se aplicaria sanção em decorrência dessa, o que seria um estímulo ao cometimento de infrações no decorrer da execução.
+2. Referido entendimento não traduz ofensa aos princípios do direito adquirido, da coisa julgada, da individualização da pena ou da dignidade da pessoa humana. Precedentes do STF e do STJ.
+3. Para reforçar esse posicionamento, foi editada a Súmula Vinculante 09/STF, segundo a qual o disposto no artigo 127 da Lei 7.210/1984 (Lei de Execução Penal) foi recebido pela ordem constitucional vigente, e não se lhe aplica o limite temporal previsto no caput do artigo 58.
+4. Entender de forma diversa, como bem asseverou o eminente Ministro CARLOS AYRES BRITTO, quando do julgamento do HC 85.141/SP, implicaria tornar despidas de sanção as hipóteses de faltas graves cometidas por sentenciados que já estivessem cumprindo a pena em regime fechado. De modo que não seria possível a regressão no regime (sabido que o fechado já é o mais severo) nem seria reiniciada a contagem do prazo de 1/6. Conduzindo ao absurdo de o condenado, imediatamente após sua recaptura, tornar a pleitear a progressão prisional com apoio em um suposto bom comportamento (DJU 12.05.2006).
+5. Embargos providos para assentar que a prática de falta grave representa marco interruptivo para obtenção de progressão de regime prisional.
+(EREsp 1176486/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, TERCEIRA SEÇÃO, DJe 01/06/2012).
+Cumpre ressaltar que o Superior Tribunal de Justiça editou os Enunciados Sumulares ns. 441 e 535, pelos quais a falta grave não interrompe o prazo para a concessão do livramento condicional, comutação de pena ou indulto, por ausência de previsão legal. respectivamente:
+"A falta grave não interrompe o prazo para obtenção de livramento condicional".
+"A prática de falta grave não interrompe o prazo para fim de comutação de pena ou indulto".
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para restabelecer a decisão do Juízo da Execução.
+Publique-se.
+Intimações necessárias.
