@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravocontra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado de Mato Grosso do Sul assim ementado:
+"AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA COLETIVA - PRELIMINAR DE COISA JULGADA AFASTADA - RETRIBUIÇÃO DE AÇÕES - EXTRATO SEM RECEBIMENTO DO CREDOR - SEM VALOR PROBATÓRIO - LITIGÂNCIA DE MÁ-FÉ VERIFICADA - INTUITO MANIFESTAMENTE PROTELATÓRIO - RECURSO CONHECIDO E DESPROVIDO.
+1. Houve notícia na fase de conhecimento da demanda coletiva acercado pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento. A decisão agravada, por isso, não ofende a coisa julgada, ficando afastada a preliminar arguida nesse sentido.
+2. Os documentos apresentados pela agravante não comprovam o efetivo recebimento das ações pela parte credora.
+3. A interposição de inúmeros recursos sobre várias decisões com mesmo teor só demonstra o intuito de retardar seu trânsito em julgado, bem com a finalização da fase de cumprimento/liquidação de sentença, em nítido espírito procrastinatório, de forma que devida a aplicação de multa por litigância de má-fé"(fl. 44 e-STJ).
+No especial, além de dissídio jurisprudencial, aagravante alegaviolação dos artigos 80, 81, 425, IV, e 502 do Código de Processo Civil de 2015.
+Sustenta, em síntese, quedeveser afastadaamultapor litigância de má-fé aplicada, visto que inexistente o caráter protelatório na lide.
+Afirma, ainda, que houve desrespeito à coisa julgada, pois deve ser reconhecida a entrega das ações.
+Conclui que o extrato bancário emitido pela instituição financeira é prova apta a comprovar o pagamento das ações, uma vez que não houve a contestação da veracidade do documento pela parte recorrida.
+Sem as contrarrazões, o recurso foi inadmitido na origem, sobrevindo daí o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O recurso não merece prosperar.
+Acórdão impugnado pelo presente recurso especial publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+No que diz respeito à violação da coisa julgada, não há como reconhecê-la, já que a quitação das ações não foi reconhecida na sentença, conforme consta do acórdão, nos seguintes termos:
+"(..) houve notícia na fase de conhecimento da demanda coletiva acerca do pagamento de ações a 10.115 titulares de crédito, porém esta quitação não foi reconhecida na sentença, nem mesmo de forma parcial, tendo sido determinada a retribuição de ações sem qualquer abatimento" (fl. 46 e-STJ).
+No que diz respeito à prova da entrega das ações, o acórdão recorrido assim decidiu:
+"Importante observar que os documentos apresentados pela agravante como prova de recebimento e, inclusive, posterior transferência pela parte credora/agravante, consistem em simples extrato do Banco Santander que, mesmo em conjunto com procuração existente nos autos principais do BNDES à Telebrás S/A, nada prova, se desacompanhado do Certificado de Depósito de Ações (art. 43 da Lei n. 6.404/76) e/ou dos Livros Sociais (art. 100 da Lei n. 6.404/76) ou de qualquer recebimento expresso da parte credora" (fl. 47 e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Não cabe ao Superior Tribunal de Justiça reexaminar as premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete amplo juízo de cognição da lide.
+Ademais, a Corte de origem aplicou amulta por litigância de má-fé com base nos seguintes fundamentos:
+"(..)
+Observa-se que as matérias arguidas no presente recurso já foram afastadas em inúmeros outros agravos de instrumento interpostos pela empresa OiS/A, não sendo necessário sequer pesquisa ao sistema SAJ.
+Ademais, diante da prevenção deste julgador para a análise de todos os recursos que versarem sobre a liquidação/cumprimento da sentença proferida na Ação Civil Pública em questão, por certo não haverá divergência sobre as matérias questionadas pela agravante.
+(..)
+Este é o caso dos autos, pois a interposição de inúmeros recursos sobre várias decisões com mesmo teor só demonstra o intuito de retardar seu trânsito em julgado, bem com a finalização da fase de liquidação/cumprimento de sentença, em nítido espírito procrastinatório" (fl. 48 e-STJ).
+Desse modo, no que se refere ao afastamento da pena porlitigânciademá-fé,o acolhimento da pretensão recursal, nos termos em que posta, também demandaria o reexame de matéria fática e das demais provas constantes dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito:
+"PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃODE RESSARCIMENTO POR COMPRA DE GARAGEM COM METRAGEM INFERIOR À CONTRATADA. ABATIMENTO PROPORCIONAL DO PREÇO. PRAZO DECADENCIAL DE UM ANO. PRECEDENTES.CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.DISSÍDIO INTERPRETATIVO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Na linha dos precedentes desta Corte, o prazo que o consumidor dispõe para perseguir o abatimento proporcional do preço, em situações como a dos autos, é decadencial de um ano previsto no art.
+501 do CC/02.
+3. Tendo o Tribunal paulista afirmado expressamente que a natureza da ação ajuizada pelo agravante é de abatimento proporcional do preço, afasta-se, por não se tratar de pretensão indenizatória, o prazo prescricional geral de 10 (dez) anos previsto no art. 205 do CC/02.
+4. A exclusão da multa por litigância de má-fé depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula nº 7 do STJ.
+5. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+6. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+7. Agravo interno não provido."
+(AgInt no AREsp 1.809.808/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021 - grifou-se)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. SUCESSÕES. INVENTÁRIO. LITISPENDÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. ART. 18 DO CPC/1973. AFASTAMENTO. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. CONDENAÇÃO DE OFÍCIO. POSSIBILIDADE. AGRAVO DESPROVIDO.
+(..)
+3. Rever a conclusão adotada no v. acórdão recorrido sobre a caracterização de litigância de má-fé do agravante demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+4. A multa por litigância de má-fé pode ser decretada de ofício quando estiverem preenchidas as condutas descritas no art. 17 do CPC.
+5. Agravo interno a que se nega provimento" (AgInt no REsp 1.487.062/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/5/2019, DJe 14/6/2019).
+Acrescenta-se, ainda, que a aplicação daSúmulanº7/STJ quanto ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o art. 85, § 11, do CPC/2015, por não terem sido arbitrados na origem.
+Publique-se.
+Intimem-se.
