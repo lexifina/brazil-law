@@ -1,0 +1,17 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração opostos por Daiby S. A. contra decisão que indeferiu liminarmente os embargos de divergência, com fundamento no enunciado 168/STJ (e-STJfls. 1.876-1.879).
+Nos declaratórios, a parte insurgente afirma"a existência de possível erro material no julgado, uma vez que aplicou a regra posterior aos pedidos de ressarcimento discutidos na presente ação, que objetiva declarar o direito à correção pela SELIC, no período compreendido entre a data de protocolo dos pedidos de ressarcimento originários (anos de 1998 e março de 2007), até a data do efetivo ressarcimento ou compensação, quando transcorrido o prazo superior ao previsto na legislação, qual seja, o prazo 150 dias, haja vista que o prazo de 360 dias passou a viger após o advento da Lei nº 11.457/07, em maio de 2007" (e-STJfl. 1.882).
+A parte embargada não apresentoucontrarrazões.
+É o relatório.
+Os embargos de declaração, como dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição existente no julgado.
+Inexiste omissão, obscuridade,contradição ou erro material na decisão questionada.
+O aspecto trazido agora em declaratórios pela insurgente não foi analisado no julgamento do agravo interno que originou o aresto embargado, nem submetido à apreciação da Primeira Turmapor meio das vias adequadas.
+Friso que a Primeira Turmamanteve pronunciamento individual do relator do recurso especial, por meio do qual parcialmente provido o apelo fazendário, "a fim de que o termo a quo da correção monetária seja o fim do prazo que a administração tinha para apreciar o pedido, que é de 360 dias" (e-STJfl. 1.797).
+Dessa forma, prevalece o fundamento consignado na decisão ora embargada de que a conclusão do acórdão objeto dos embargos de divergência não destoa da posição privilegiada pela Primeira Seção no julgamento do Tema Repetitivo n. 1.003 (Recursos Especiais n. 1.767.945/PR, 1.768.060/RS e 1.768.415/SC, todos relatados pelo Min. Sérgio Kukina):
+O termo inicial da correção monetária de ressarcimento de crédito escritural excedente de tributo sujeito ao regime não cumulativo ocorre somente após escoado o prazo de 360 dias para a análise do pedido administrativo pelo Fisco (art. 24 da Lei n. 11.457/2007).
+Por tal razão, foi afirmado que "não merece, portanto, reparos o aresto embargado, porquanto, tal como afirmado no julgamento sob a sistemática dos repetitivos, "a correção monetária, a exemplo do que ocorre na espécie examinada, terá seu termo inicial somente a partir do escoamento do prazo de 360 dias, nos termos da exegese do multicitado art. 24 da Lei n. 11.457/07"(e-STJfl. 1.831)" (e-STJfl. 1.878).
+Ademais, friso a existência de decisão da Suprema Corte, já acobertada inclusive pela coisa julgada, no sentido da inexistência de repercussão geral e de matéria constitucional da discussão estampada nos presentes autos - Tema 1.106/STF: definição do termo inicial da incidência de correção monetária referente ao ressarcimento de créditos tributários escriturais excedentes de tributo sujeito ao regime não cumulativo, quando excedido o prazo a que alude o art. 24 da Lei n. 11.457/2007.
+Desse modo, percebe-se que a parte embargante maneja os presentes aclaratórios em virtude tão somente deinconformismo com a decisão ora combatida, não se divisando, na hipótese, nenhum dos vícios previstos no art. 1.022 do Código de Processo Civil a inquinar tal pronunciamento.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
