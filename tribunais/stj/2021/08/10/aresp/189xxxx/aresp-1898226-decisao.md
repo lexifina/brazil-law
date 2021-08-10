@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de agravo apresentado por WILSON FERNOCHI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+AGRAVO DE INSTRUMENTO. DANOS MORAIS. CUMULAÇÃO DE PEDIDOS. VALOR DA CAUSA. COMPETÊNCIA DO JUIZADO ESPECIAL CÍVEL.
+No que se refere ao dano moral, a jurisprudência deste Tribunal é no sentido de que o valor atribuído à indenização desta natureza não pode ultrapassar ou ser desproporcional aos valores vencidos e vincendos.
+Compete ao Juiz corrigir, mesmo de ofício, o valor da causa quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor.
+Alega violação dos arts. 292, inciso VI, e § 1º, 327 e 356, do Código de Processo Civil. Afirma que, "como minuciosamente demonstrado no Recurso de Agravo de Instrumento, o vigente Código de Processo Civil estabelece expressamente a possibilidade de cumulação de pedidos (artigo 327), em que o valor da causa deverá corresponder a soma dos valores de todos os pedidos (artigo 292, VI), inclusive quando incluir parcelas vencidas e vincendas (artigo 292, §1º), sendo que a decisão que limitou o valor do dano moral abaixo do pretendido pelo Agravante é de mérito (artigo 356)" - fl. 116.
+E complementa: "No caso em apreço, foram observados e cumpridos tais critérios, de modo que não existe óbice ao pedido de concessão de benefício previdenciário cumulado com indenização por danos morais" (fl. 116).
+Aduz, ainda, a ocorrência de divergência jurisprudencial quanto a essa controvérsia.
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+No caso concreto, as parcelas correspondentes ao benefício pretendido foram calculadas em R$ 45.897,04 (evento 1, CALC3 da origem), acrescidos de R$ 45.897,04 a título de dano moral pleiteado, atingindo a causa o valor total de R$ 91.794,07, acima do limite da competência do Juizado Especial Federal, que era de R$ 62.700,00 (60 salários mínimos) à época do ajuizamento da ação em 31.03.2020.
+Assim, o julgador retificou o valor da causa referindo:
+No caso concreto, considerando que a soma das prestações vencidas com uma prestação anual do valor do benefício correspondia a R$ 45.897,04 quando do ajuizamento e que o teto do Juizado Especial Federal à época correspondia a R$ 52.800,00, o autor não pode pretender, a título de indenização por danos morais, montante superior a R$ 6.902,96.
+De tal modo, com vistas a adequar o feito aos parâmetros acima estabelecidos, retifico, de ofício, o valor da causa, nos termos do art. 292, § 3º, do CPC, fixando-o em 60 salários-mínimos. Anote-se.
+Nesse contexto, revendo posição anterior, compartilho do entendimento firmado pelo magistrado na origem, pois o valor atribuído à causa, aleatoriamente, desborda dos parâmetros de razoabilidade e proporcionalidade referidos, mostrando-se excessivo, ainda que não ultrapassado o valor buscado a título benefício previdenciário.
+Nesse sentido, destaco trecho do voto proferido pelo Exmo. Juiz Federal convocado Marcelo Malucelli, nos autos nº 5033822- 76.2019.4.04.0000, em sessão de 29.10.2019, o qual acompanhei na ocasião:
+..
+É flagrante a tentativa de burlar a competência absoluta dos Juizados Especiais.
+A aleatoriedade e excessividade restam demonstradas, ainda, pelos precedentes de julgados exemplificativamente relacionados:
+ ..
+O valor da causa não pode ser atribuído de forma aleatória ou arbitrária.
+Deve ser fixado pelo autor de modo a corresponder, o mais aproximadamente possível, ao proveito econômico buscado com a ação, podendo o Juiz inclusive, nos casos em que isto não for observado, determinar sua retificação - até mesmo porque a adequada fixação é imprescindível para a definição justamente da competência.
+Destaco que o controle do valor da causa pelo julgador vai ao encontro do seu dever de direção do processo e do zelo pela aplicação das normas de direito público.
+Com efeito, tendo em vista que compete ao Juiz corrigir, mesmo de ofício, o valor da causa quando verificar que não corresponde ao conteúdo patrimonial em discussão ou ao proveito econômico perseguido pelo autor, tenho que não merece reforma a decisão.
+Neste sentido, cito recente precedente da 6ª turma deste Tribunal em caso análogo:
+(..) (fls. 73/75, destaque meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Por fim, não foi demonstrado o dissídio jurisprudencial, pois inexistente a necessária similitude fática entre o acórdão recorrido e aquele(s) apontado(s) como paradigma(s), tendo em vista que são diversas as circunstâncias concretas neles delineadas.
+Nesse sentido, o STJ decidiu: "Quanto à apontada divergência jurisprudencial, observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata da prescrição quanto à indenização pela demora injustificada na concessão de aposentadoria, os acórdãos paradigmas cuidam do termo inicial da prescrição para requerer a conversão de licença-prêmio não gozada em pecúnia". (AgInt no REsp 1.659.721/SC, relator Ministro Francisco Falcão, Segunda Turma, DJe de 29/5/2020.)
+Confiram-se ainda os seguintes precedentes: AREsp 1.241.527/RS, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/3/2019; AgInt no AREsp 1.385.820/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 2/4/2019; AgInt no AREsp 1.625.775/RS, relator Ministro Raul Araújo, Quarta Turma, DJe de 25/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
