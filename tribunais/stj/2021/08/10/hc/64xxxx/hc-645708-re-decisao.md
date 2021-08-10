@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto pelo MINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 179):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. EXECUÇÃO PENAL. CONDENAÇÃO PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE GENÉRICO (NÃO ESPECÍFICO). REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO. PRECEDENTES. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Não há como abrigar agravo regimental que não logra desconstituir o fundamento da decisão atacada.
+2. Agravo regimental improvido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 196-199).
+Sustenta o recorrente a existência repercussão geral da matéria debatida, consubstanciada na ocorrência de violação doart. 5º,incisos II e XLVI,da Constituição Federal.
+Afirma que, "em atenção ao ordenamento constitucional, não seria possível à Lei nº 13.964/2019 dar tratamento igualitário a reincidentes e não reincidentes em relação ao percentual de cumprimento de pena para progressão de regime. E não o fez, uma vez que manteve a necessidade de que os reincidentes, para fins de progressão de regime, cumpram ao menos 60% (3/5) da pena, a teor do que determina o inciso VII do art. 112 da LEP" (e-STJ fl. 206).
+Aduz que "a aplicação do percentual de 40%, como realizada pela decisão recorrida, além de contrariar o princípio da individualização da pena (art. 5º, XLVI, da CF), na medida em que confere percentual de cumprimento da pena menos rigoroso para a progressão de regime, considerando-se a condição de reincidente e de condenado por crime hediondo, vai de encontro ao princípio da isonomia (art. 5º, caput, da CF), conferindo igual tratamento a quem se encontra em situação desigual" (e-STJ fl. 208).
+Defende a aplicação dopercentual de 60% aos condenados por crimes hediondos que sejam reincidentes, independentemente de se tratar de reincidência específica ou não.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (e-STJ fl. 219).
+É o relatório.
+Ao julgar o AI n. 754.008 RG/RS, o Supremo Tribunal Federal firmou o entendimento de que não apresenta repercussão geral o recurso extraordinário que versa sobre a análise dos requisitos para concessão de progressão de regime previstos no art. 112 da Lei de Execução Penal.
+Confira-se, por oportuno, a ementa do acórdão:
+RECURSO. Extraordinário. Inadmissibilidade. Progressão de regime. Requisitos. Interpretação do art. 112 da LEP. Lei nº 10.792/03. Exame criminológico. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, versando sobre a análise dos requisitos para concessão de progressão de regime à luz da nova redação do art. 112 da LEP, pela Lei nº 10.792/03, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), trata de matéria infraconstitucional.
+(AI 754008 RG, Relator(a): CEZAR PELUSO, Tribunal Pleno, julgado em 24/09/2009, DJe-195 DIVULG 15-10-2009 PUBLIC 16-10-2009 EMENT VOL-02378-10 PP-02048)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou (e-STJ fls.181/182):
+(..) de acordo com o afirmado anteriormente, a Lei n. 13.964/2019 (Pacote Anticrime) revogou o art. 2º, § 2º, da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime e modificou o art. 112 da Lei de Execução Penal. A norma é expressa ao afirmar que a porcentagem (60%) deve ser aplicada aos condenados reincidentes em crimes hediondos ou equiparados.
+A interpretação extensiva para considerar reincidente específico na prática de crime hediondo ou equiparado aquele que cometeu apenas um crime hediondo é contra o espírito da lei, pois se puniria igualmente quem pratica dois ou mais crimes hediondos e o que pratica apenas um crime hediondo.
+A situação do paciente não se ajusta expressamente a nenhuma das hipóteses da nova redação do art. 112 da Lei de Execução Penal.
+Como a lei penal deve ser interpretada restritivamente quando prejudicial ao apenado, e extensivamente no caso contrário, nossa jurisprudência está alinhada quanto ao entendimento de que, ao condenado por crime hediondo ou equiparado que seja reincidente genérico, deverá incidir o percentual equivalente ao que é previstopara o primário, vale dizer, de 40% ou 50%, na forma do art. 112, V e VI, a, da Lei de Execução Penal, a depender do caso (se houve ou não resultado morte).
+Na espécie, ele é reincidente, foi mais recentemente condenado pela prática de tráfico de drogas (art. 33, caput, c/c 40,VI, da Lei n. 11.343/2006) e possui anteriores condenações por crime comum (associação para o tráfico). Para fins de progressão de regime, é exigível que o paciente tenha cumprido 40% (2/5) da pena, e não 60% (3/5), como o era antes da entrada em vigor da Lei n. 13.964/2019.
+(..)
+Da leitura das referidas passagens, verifica-se que a discussão cinge-se à questão da alteração dos patamares de progressão de regime de cumprimento da pena previstos no art. 112 da Lei de Execução Pena, matéria que, nos termos do Tema 205/STF, possui natureza infraconstitucional e carece de repercussão geral, o que inviabiliza o prosseguimento deste apelo extremo.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", segunda parte, do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOSPREVISTOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL. MATÉRIA INFRACONSTITUCIONAL.TEMA 205/STF.AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
