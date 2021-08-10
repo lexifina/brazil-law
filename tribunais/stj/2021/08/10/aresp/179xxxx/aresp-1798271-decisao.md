@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto pelo MUNICÍPIO DE GUARUJÁ contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal.
+Na origem, o Município interpôs agravo de instrumento contra decisão que, em causa avaliada em R$ 9.861,23 (nove mil, oitocentos e sessenta e um reais e vinte e três centavos), reconheceu a preferência do crédito dos honorários advocatícios em relação aos de natureza tributária, em ação decorrente de cobrança de quotas condominiais.
+O referido recurso teve seu provimento negado pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, ficando consignado o entendimento de que os créditos de honorários advocatícios têm natureza alimentar e se equiparam aos trabalhistas, preferindo então aos de caráter tributário nos termos do artigo 186 do CTN.
+O referido acórdão foi assim ementado, in verbis:
+Agravo de instrumento. Créditos de honorários advocatícios têm natureza alimentar e se equiparam aos trabalhistas, preferindo então aos de caráter tributário nos termos do artigo 186 do CTN. Decisão mantida. Agravo improvido.
+Contra a decisão cuja ementa se encontra acima transcrita, o MUNICÍPIO DE GUARUJÁ interpôs o presente recurso especial, apontando violação dos arts. 130, 186 e 187 do CTN e 908 do CPC.
+Sustenta, em síntese, que o crédito tributário possui preferência no pagamento em relação aos honorários advocatícios, tendo em vista que a verba sucumbencial não pode ser equiparada a crédito trabalhista.
+É o relatório. Decido.
+A jurisprudência do Superior Tribunal de Justiça é pacífica no sentido de que os honorários advocatícios, tanto os contratuais quanto os sucumbenciais, tem natureza alimentar e destinam-se ao sustento do advogado e de sua família, razão pela qual possuem preferência em relação ao crédito tributário. In verbis:
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA JURÍDICA ALIMENTAR. EQUIPARAÇÃO A CRÉDITO TRABALHISTA. PREFERÊNCIA SOBRE O CRÉDITO TRIBUTÁRIO. ACÓRDÃO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de agravo de instrumento interposto pela Prefeitura Municipal de Guarujá contra a decisão que, nos autos de cumprimento de sentença de débitos condominiais, reconheceu a preferência do crédito dos honorários de sucumbência e das despesas de condomínio ao crédito tributário. No Tribunal a quo, negou-se provimento ao recurso. Nesta Corte, conheceu-se do recurso especial para negar-lhe provimento.
+II - O acórdão recorrido encontra-se em consonância com a jurisprudência recente do STJ, no sentido de que os créditos referentes a honorários advocatícios são equiparados aos trabalhistas para fins de reconhecimento da preferência no concurso de credores, nos termos da ressalva contida no art. 186 do CTN. Nesse sentido, confiram-se: (REsp n. 1.812.770/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 17/9/2019, DJe de 14/10/2019 e REsp n. 1.133.530/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 16/6/2015, DJe 25/6/2015).
+III - Agravo interno improvido.
+(AgInt no REsp 1869435/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+PROCESSUAL CIVIL. EXECUÇÃO FISCAL. HONORÁRIOS ADVOCATÍCIOS CONTRATUAIS. NATUREZA ALIMENTAR. PREFERÊNCIA SOBRE O CRÉDITO TRIBUTÁRIO.
+1. Trata-se, na origem, de Agravo de Instrumento interposto contra decisão que negou o recebimento do montante correspondente a honorários advocatícios contratuais, visto que não goza "de preferência sobre os créditos tributários".
+2. A Corte Especial, quando apreciou os EREsp 1.351.256/PR, Relator Ministro Mauro Cambpell Marques, DJe, de 19.12.2014, ratificou o entendimento proferido no REsp 1.152.218/RS, Rel. Ministro Luis Felipe Salomão, julgado sob o rito dos Recursos Repetitivos, de que os créditos resultantes de honorários advocatícios têm natureza alimentar e equiparam-se aos trabalhistas para efeito de habilitação em falência.
+3. O STJ, ao analisar os Embargos de Declaração nos EREsp 1.351.256/PR, consignou que a "controvérsia a ser analisada diz respeito à classificação do crédito relativo a honorários advocatícios no concurso de credores em sede de execução fiscal." Dessa forma, não há mais dúvidas de que os honorários advocatícios estão incluídos na ressalva do art. 186 do CTN.
+4. O Superior Tribunal de Justiça entende que "os honorários advocatícios, tanto os contratuais quanto os sucumbenciais, tem natureza alimentar e destinam-se ao sustento do advogado e de sua família" (REsp 1.557.137/SC, Rel. Ministro Mauro Campebell Marques), portanto preferem ao crédito tributário.
+5. Recurso Especial provido.
+(REsp 1812770/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2019, DJe 14/10/2019)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
