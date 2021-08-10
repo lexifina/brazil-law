@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Pyramid Comercial Importadora e Exportadora Ltda- Microempresa,desafiando decisão denegatória de admissibilidade a recurso especial, este interposto com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina, assim ementado (fl. 226):
+TRIBUTÁRIO. ICMS. COMERCIALIZAÇÃO DE MILHO.MATERIAIS E INSUMOS AGREGADOS À PRODUÇÃO AGRÍCOLA QUE SÃO ISENTOS OU GARANTEM CREDITAMENTO FUTURO. PRETENDIDA ACUMULAÇÃO DE CRÉDITOS QUANTO AOS SERVIÇOS DE FRETE NA COMERCIALIZAÇÃO DO PRODUTO. IMPOSSIBILIDADE.EXEGESE DO ART. 40, § 3º, II DO RICMS/SC E DA PORTARIA N. 132/2012 DA SECRETARIA DA FAZENDA.SERVIÇO DE TRANSPORTE QUE NÃO SE AGREGA OU MESMO COMPÕE A MERCADORIA FINAL. PRESTAÇÃO MERAMENTE ACESSÓRIA, REALIZADA TÃO SOMENTE PARA PERFECTIBILIZAR A VENDA. RECURSO CONHECIDO E DESPROVIDO.
+Opostos embargos de declaração, foram rejeitados (fls. 245/250).
+Nas razões do recurso especial, a parte agravante aponta violação aoart. 20, caput e§ 1º da Lei Complementar 87/96.Sustenta, em resumo, "o provimento do presente Recurso Especial, para o fim de reformar integralmente o acórdão recorrido, em virtude da violação havida ao art. 20, caput e § 1º da Lei Complementar n. 87/1996, reconhecendo o direito de inclusão do valor do frete na reserva de créditos de ICMS, com todos os consectários daí decorrentes, nos termos da fundamentação supra." (fl. 261)
+Contrarrazões às fls. 275/279.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não merece prosperar.
+De início, a matéria pertinente art. 20, caput e § 1º da Lei Complementar 87/96não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+Ademais, destaca-se da fundamentação do acórdão recorrido o seguinte trecho (fls. 228/232):
+Trata-se de apelação cível interposta por Pyrarmid Comercial Importadora Exportadora Ltda. ME em face da sentença de improcedência proferida pelo magistrado Otávio José Minatto na ação movida contra o Estado de Santa Catarina objetivando a inclusão do valor do frete na reserva de créditos de ICMS.
+Relata a autora ser pessoa jurídica de direito privado, atuando na "importação, exportação, compra e venda no atacado e no varejo, distribuição e revenda de produtos, inclusive agrícolas" (fl. 2), nos termos da Cláusula Terceira da 5 a Alteração Contratual (fl. 13).
+Assevera que, por realizar "operações de saída de milho dirigida a produtor, cooperativa de produtores, indústria de ração animal ou órgão oficial de fomento e desenvolvimento agropecuário vinculado ao Estado" goza de isenção no recolhimento do ICMS, fazendo jus também à "manutenção integral de seus créditos, na forma do art. 31, inciso II e 34-A do Anexo 2 do RICMS/SC" (fl. 2).
+Para tanto, efetuou, em 17.08.2017, o "Protocolo de Solicitação de Reserva de Crédito n. 173200176856", no qual requereu a devolução de R$ 12.679,74 (doze mil, seiscentos e setenta e nove reais e setenta e quatro centavos) (fl. 20).
+Extrai-se da resposta apresentada pela Diretoria de Administração Tributária do Estado de Santa Catarina:
+ ..
+Com efeito, o pleito autoral baseou-se no art. 40, §3º, inciso II, do RICMS/SC, segundo o qual:
+ ..
+Em relação à atividade desempenhada pela apelante, o art. 31, II, do Anexo II do RICMS/SC dispõe que "enquanto vigorar o Convênio ICMS 100/97, ficam isentas as saídas internas dos seguintes produtos: II  milho, quando destinado a produtor, à cooperativa de produtores, à indústria de ração animal ou a órgão oficial de fomento e desenvolvimento agropecuário vinculado ao Estado ou Distrito Federal (Convênios ICMS 57/03 e 123/11)". (sem grifo no original).
+E, na sequência, estabelece o art. 34-A que "nas operações previstas nesta Seção fica assegurada a manutenção integral do crédito doimposto".
+O procedimento para obtenção do montante acumulado (reserva de créditos) encontra previsão no art. 3.2.13.2 da Portaria SEF n. 153/2012, o qual exige seja apontado o valor das mercadorias, materiais e serviços, tendo a recorrente postulado a restituição dos fretes amparada nesta última modalidade.
+Extrai-se da redação do mencionado dispositivo:
+ ..
+A negativa, conforme supracitado, baseou-se no fato de que os fretes "não integram o valor dos produtos isentos e não tributados" (fl. 77). Afirma o ente estal, no ponto, que "o título do item é "mercadorias, materiais e serviços empregados", porém a descrição do item especifica que os valores a serem informados no item 030 do quadro 41 da DIME são os de aquisição de matéria - prima, material secundário, material de embalagem, material de consumo de bens incorporados ao ativo permanente, empregados nas mercadorias com saídas isentas com manutenção de crédito que gera crédito acumulado de ICMS passível de transferência".
+Analisando-se a justificativa da entidade tributante em face das alegações formuladas pelo autor em sua peça exordial, adianto que razão assiste ao Estado de Santa Catarina.
+Isso porque o serviço de frete não se incorpora diretamente à produção do milho comercializado, sequer podendo ser considerado um insumo material para seu plantio ou colheita, por exemplo.
+O transporte da mercadoria já pronta para venda  no caso, omilho a granel  configura prestação absolutamente acessória em relação ao processamento do produto.
+Veja-se que a ratio da legislação tributária catarinense em análise é tão somente permitir o creditamento das "Mercadorias, Materiais e Serviços Empregados em Produtos com Saída Isenta ou Não Tributada no Mês".
+Tanto é assim que o item 030 do quadro 41 da DIME pontua que são creditáveis os insumos de "aquisição de matéria-prima, material secundário, material de embalagem, material de consumo de bens incorporados ao ativo permanente, empregados nas mercadorias com saídas isentas com manutenção de crédito que gera crédito acumulado de ICMS passível de transferência".
+Dessa forma, a partir do momento em que a mercadoria (na hipótese, o milho) teve seu processo de beneficiamento e transformação perfectibilizado, não há razão para o contribuinte se creditar de outras prestações e serviços acessórios à venda, tais como o frete para comercialização.
+Nesse ponto, rememora-se que a própria Lei Kandir (Lei Complementar n. 87/1996) adota a doutrina do creditamento físico como mote autorizativo do benefício fiscal.
+A jurisprudência deste Tribunal de Justiça é assente no sentido de exigir (para fins de creditamento) a incorporação dos produtos intermediários no bem manufaturado, de forma que "não basta a relação com a finalidade empresarial, mas os tais insumos devem compor (no sentido literal da palavra) a mercadoria" (Apelação Cível n. 0300107-62.2018.8.24.0012, de Caçador, rel. Hélio do Valle Pereira, Quinta Câmara de Direito Público, julgada em 04.08.2020).
+Em sentido semelhante, já decidiu esta Câmara de Direito Público na Apelação Cível n. 0041755-27.2012.8.24.0038, de Joinville, rel. Des. Jaime Ramos, Terceira Câmara de Direito Público, julgada em 15.10.2019:
+ ..
+À vista do exposto, considerando que o frete do milho comercializado ocorre após seu beneficiamento e processamento, e não se tratando de bem ou serviço que se agrega à própria produção da mercadoria, não há como se reconhecer o creditamento pretendido.
+Diante desse contexto,o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
