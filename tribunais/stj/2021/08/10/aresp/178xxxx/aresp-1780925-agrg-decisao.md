@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JOÃO VITOR GONÇALVESe EVERSON LOURENCO DA SILVA contra a decisão proferida pela Presidência desta Corte que não conheceu de seu agravo em recurso especial.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 577/581, in verbis:
+Trata-se de agravo regimental interposto contra decisão da Presidência desse Superior Tribunal de Justiça que não conheceu do agravo em recurso especial interposto por JOÃO VÍTOR GONÇALVES e EVERSON LOURENÇO DA SILVA, sob o fundamento de que os agravantes deixaram de impugnar especificamente os fundamentos da decisão agravada.
+Tal como se vê dos autos, JOÃO VÍTOR GONÇALVES e EVERSON LOURENÇO DA SILVA foram condenados pela prática dos crimes previstos nos artigos 33, caput e 35, caput, da Lei nº 11.343/2006, respectivamente, às penas de 9 (nove) anos, 7 (sete) meses e 6 (seis) dias de reclusão, e multa, e 11 (onze) anos, 2 (dois) meses e 12 (doze) dias de reclusão, e multa.
+Contra a sentença, os réus interpuseram recurso de apelação, sustentando a insuficiência de provas para o decreto condenatório ou o afastamento do crime de associação. Subsidiariamente, requereram a readequação da dosimetria.
+A Corte Estadual, por seu turno, deu parcial provimento ao recurso, reajustando a dosimetria da pena de ambos os acusados em virtude do reconhecimento da atenuante da menoridade, restando as penas assim aplicadas: 8 (oito) anos de reclusão para JOÃO VÍTOR e 11 (onze) anos, 2 (dois) meses e 12 (doze) dias de reclusão para EVERSON LOURENÇO.
+Opostos embargos de declaração a essadecisão, foram eles rejeitados.
+Ainda irresignados, os réus interpuseram recurso especial com arrimo no artigo 105, III, "a", da Constituição Federal, alegando contrariedade ao artigo 35 da Lei nº 11.343/06 e aos artigos 59 do Código Penal e 42 da Lei de Drogas, ao argumento de que não houve a comprovação do dolo de se associar quanto ao crime de associação para o tráfico e que o aumento operado na primeira fase da dosimetria da pena em virtude da quantidade da droga apreendida se revela desproporcional, haja vista que essa quantidade não pode ser considerada excessiva ou anormal.
+A Corte Estadual inadmitiu o recurso especial em virtude do óbice da Súmula 7 dessa Corte Superior ante a necessidade de reexame de provas para acolhimento da tese recursal e do óbice da Súmula 284/STF ante a deficiência na fundamentação do recurso.
+Contra essa decisão de trancamento do recurso especial foi interposto agravo em recurso especial, no qual se afirma, em relação ao óbice da Súmula nº 7/STJ, que não se trata de reexame de fatos, mas sim da correta aplicação dos artigos apontados como violados. Em relação à Súmula nº 284 do STF, os recorrentes afirmaram que houve fundamentação apta a autorizar o processamento do recurso.
+Autuado o feito nesse STJ, a Presidência, monocraticamente, decidiu não conhecer do agravo, sob o fundamento de que os agravantes não impugnaram de forma efetiva, concreta e pormenorizada a incidência da Súmula nº 7/STJ o que, como se sabe, atrai a incidência da Súmula nº 182 dessa Corte Superior.
+Em seguida, foi interposto o agravo regimental ora analisado, no qual se afirma que aquela decisão deve ser reconsiderada, haja vista que houve, sim, impugnação adequada dos fundamentos da decisão agravada.
+O Parquet opinou pelo desprovimento do agravo regimental.
+É o relatório. Decido.
+Verifica-se que os fundamentos da decisão de inadmissibilidade do recurso especial foram suficientemente impugnados, razão pela qual reconsidero a decisão ora agravada.
+Sobre a configuração do crime de associação para o tráfico de drogas, consignou o Tribunal de origem (e-STJ fl. 450/451):
+Há prova da configuração do crime tipificado no art. 35 da Lei nº 11.343/2006. Para existir, deve haver comprovação de estabilidade e continuidade da parceira na realização do crime.
+No caso dos autos, pelo narrados pelos policiais João foi detido, tinha quantidade razoável de droga, indicou o gerente Everson, com quantidade maior de entorpecente e petrechos compatíveis com essa atividade. Eles agiam junto para o comércio ilícito, não uma vez só, mas já vinham fazendo isso há algum tempo.
+"(..) Portanto, o delito em questão não se tipifica com a ocorrência de concurso eventual de pessoal em atuação transitória e ocasional. Para a caracterização desse tipo penal é necessário o vínculo estável entre os agentes para a prática dos crimes (..)" (Apelação nº 0002208-94.2009.8.26.0404 - 6a Câmara de Direito Criminal do Tribunal de Justiça de São Paulo - Rei. Des. José Raul Gavião de Almeida - J. 10.5.2012).
+No sentido do afirmado vide, exemplificativamente, Apelações ns. 0001935-09.2012.8.26.0470 - 5ª Câmara do Tribunal de Justiça de São Paulo - Rei. Des. Pinheiro Franco -J. 9.5.2013; 0005880-88.2012.8.26.0248 - 16ª Câmara do Tribunal de Justiça de São Paulo - Rei. Des. Newton Neves - J. 7.5.2013; 9000002-03.2009.8.26.0323 - 15ª Câmara do Tribunal de Justiça de São Paulo - Rel.Des. Encinas Manfré - J. 25.4.2013 e 0003702-62.2009.8.26.0058 - 6ª Câmara do Tribunal de Justiça de São Paulo - Rei. Des. José Raul Gavião de Almeida - J.28.6.2012.
+Dessa forma, outra não poderia ser a solução senão o édito condenatório.
+A análise da tese recursal de não configuração, no caso, do delito de associação para o tráfico de entorpecentes demanda o reexame dos elementos fático-probatórios dos autos, o que é defeso em âmbito de recurso especial, em virtude do disposto na Súmula n. 7 desta Corte.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DA SÚMULA N. 568 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. REDUÇÃO DA PENA DE MULTA E PLEITO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. TRÁFICO PRIVILEGIADO.INAPLICABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. Consoante dispõe a Súmula n. 568/STJ, a prolação de decisão monocrática, pelo ministro relator, é possível, quando houver entendimento dominante acerca do tema, hipótese ocorrida nos autos.
+2. "A pretensão de redução da pena de multa demanda o reexame de matéria fático-probatória, o que esbarra na vedação contida na Súmula n. 7/STJ (AgRg no AREsp 791.982/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 27/2/2018, DJe 7/3/2018)" (AgRg no AREsp 1675120/PR, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 15/9/2020, DJe 22/9/2020).
+3. A revisão do entendimento firmado pelas instâncias ordinárias a fim de absolver os agravantes pela prática criminosa descrita no art. 35 da Lei n. 11.343/06 demanda, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n. 7/STJ.
+4. O entendimento do Tribunal a quo está em consonância com a jurisprudência desta Corte, que é firme no sentido da inviabilidade da aplicação da causa especial de diminuição da pena prevista no § 4º do art. 33 da Lei de Drogas quando o agente foi condenado também pela prática do crime previsto no art. 35 do mesmo diploma legal, por estar evidenciada a sua dedicação a atividades criminosas.
+5. Agravo regimental desprovido.
+(AgRg no AREsp 1762911/RJ, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/02/2021, DJe 17/02/2021)
+Nesse ponto, não conheço do recurso especial.
+Ademais, verifica-se que o acórdão recorrido não examinou especificamente a questão relacionada à desproporcionalidade do aumento da pena-base.
+Em que pese a oposição de embargos de declaração, a matéria não pode ser analisada, ante o que preceitua a Súmula 211/STJ. Persistindo a omissão, cabia à defesa ter alegado, nas razões do apelo especial, a ocorrência de violação ao art. 619 do Código de Processo Penal, ônus do qual não se desincumbiu.
+A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 253 DO RISTJ. DECISÃO MONOCRÁTICA DO RELATOR. CONHECIMENTO DO AGRAVO PARA NEGAR-LHE PROVIMENTO, POIS CORRETA A DECISÃO QUE NÃO ADMITIU O RECURSO ESPECIAL. NÃO OCORRÊNCIA DE VIOLAÇÃO AO PRINCÍPIO DA COLEGIALIDADE. RECURSO ESPECIAL QUE NÃO ULTRAPASSOU OS ÓBICES DE ADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 7, 83 E 211 DO STJ. RECURSO NÃO PROVIDO.
+ ..
+4. Não houve prévia análise do art. 65, § 3º, do Decreto Lei n. 5.123/2004 e a parte, a despeito da oposição de embargos, não provocou a manifestação do Tribunal de origem, o que atrai a incidência da Súmula n. 211 do STJ, em razão da falta de prequestionamento.
+ ..
+5. Agravo regimental não provido.
+(AgInt no AREsp 373.458/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2016, DJe 17/05/2016)
+Ante o exposto, reconsidero a decisão agravada para conhecer do agravo,a fim de não conhecer do recurso especial.
+Publique-se. Intimem-se.
