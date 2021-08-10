@@ -1,0 +1,21 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Posse de arma de fogo com numeração suprimida. Condenação transitada em julgado. Prisão domiciliar. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 636.117/SP, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado a 4 anos, 4 meses e 16 dias de reclusão, em regime inicial fechado, pela prática do delito previsto no art. 16, parágrafo único, IV, da Lei 10.826/03. A sentença condenatória transitou em julgado.
+    3. Neste habeas corpus, a parte impetrante sustenta a ilegalidade do regime inicialmente fechado para o início do cumprimento da pena imposta ao paciente. Argumenta que o acionante é acometido de vários problemas de saúde, o que autorizaria a concessão de prisão domiciliar, na linha do que decidido por esta Corte, no julgamento do HC 188.820. Aponta a excessiva demora da autoridade impetrada para o julgamento do habeas corpus alvo desta impetração.
+    4. Com esses argumentos, a defesa postula a concessão da ordem para suspender o cumprimento do mandado de prisão expedido em desfavor do paciente até o julgamento do HC impetrado no STJ. Subsidiariamente, pugna pelo deferimento da ordem para que o paciente inicie o cumprimento da pena no regime semiaberto.
+    5. Decido.
+    6. O habeas corpus não deve ser conhecido.
+    7. A orientação jurisprudencial do Supremo Tribunal Federal é no sentido de que o habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia.
+    8. O Supremo Tribunal Federal consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). De modo que não há como deixar de reconhecer a inadequação da via eleita .
+    9.  Não é caso de concessão da ordem de ofício.
+    10. Para além de não se extrair dos autos a comprovação de desídia ou injustificada demora por parte da autoridade impetrada, as peças que instruem este processo tampouco evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a suspensão dos efeitos da sentença condenatória imposta ao paciente. Seja porque a alegada fragilidade do estado de saúde do acionante não foi decidida pelas instâncias de origem; seja porque não verifico patente ilegalidade no regime inicialmente fechado, assim justificado pelo Tribunal de segundo grau:
+    “[...] Com efeito, o recorrente foi condenado pelo crime de posse ilegal de arma de fogo de uso permitido, com a numeração suprimida, porque na data indicada pela denúncia, portava uma pistola calibre 380, marca Taurus, municiada com cinco cartuchos íntegros, sem autorização e em desacordo com determinação legal ou regulamentar, consoante auto de exibição e apreensão de fls. 08/09 e laudo pericial de fls. 244/247.
+    E a irresignação cinge-se ao regime prisional, não se insurgindo o apelante contra a conclusão condenatória, ou ainda contra a dosimetria penal.
+    Pois bem. Fixada a pena-base acima do mínimo legal – em virtude da antecedência delitiva –, foi aumentada novamente em 1/6 na sequência, haja vista a multirreindência já que compensada uma condenação anterior com a atenuante da confissão, prestando-se a condenação remanescente para agravar a pena , não mais se alterando.
+    Nesse contexto, tendo em vista a quantidade da pena privativa de liberdade aplicada (maior que 4 anos de reclusão), somada ao vasto histórico de reiteração delitiva do acusado (ao menos cinco crimes pretéritos com condenação transitada em julgado), o regime prisional adequado era mesmo o fechado (art. 33, § 2º “a”, e § 3º, do Código Penal) […].”
+    11. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 10 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+Relator
