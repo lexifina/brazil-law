@@ -1,0 +1,24 @@
+RAI 1013964-31.2021.8.11.0000
+Vistos,
+Recurso de agravo de instrumento, interposto por JA Alhos Comércio de Alimentos LTDA, contra a decisão proferida pelo Juízo da 3a Vara Cível da Comarca de Sinop/MT, nos autos da ação de reintegração de posse no 1005092-79.2021.8.11.0015, que determinou a emenda da inicial, no prazo de 15 (quinze) dias.
+A parte agravante contextualiza o recurso narrando que “arrematou em 30.10.2020, via leilão público extrajudicial, o imóvel matriculado sob o no 46.155, do 1o Cartório de Registro de Imóveis de Sinop/MT, localizado na Rua N, no 425, lote 40 da quadra 3, Residencial Campo Verde, Jardim Primavera, Sinop/MT, CEP: 78553-416. O Agravado, por sua vez, era devedor-fiduciante do Banco Itaú, proprietário fiduciário do referido imóvel e seu possuidor indireto. Como o devedor-fiduciante inadimpliu valores devidos ao credor-fiduciário, após regular procedimento da Lei 9.514/1997, com a devida notificação e constituição da mora, a propriedade - e posse plena - se consolidaram em nome do Banco credor, como se aduz do art. 30 da Lei 9.514/1997.” (Id. 96686971, pág. 3)
+Sustenta que “(i) a Lei 9.514/1997 é expressa no sentido de que a ação cabível para recuperar a posse ao credor fiduciário ou seus cessionários ou sucessores é a ação de reintegração de posse e (ii) a Agravante, enquanto sucessora do Banco credor fiduciário, é possuidora plena do bem, de modo que a permanência do Agravado representa esbulho passível de ação de reintegração.” (Id. 96686971, pág. 4).
+Defende que estão presentes os requisitos para a concessão do efeito suspensivo à decisão agravada. A probabilidade do direito decorre do fato do recorrente ter adquirido o bem por meio de leilão extrajudicial; Por sua vez o perigo da dano é patente, eis que a petição inicial será indeferida.
+Ao final requer a atribuição do efeito suspensivo para suspender ao recurso para se evitar o indeferimento da inicial; Seja deferida decisão liminar para determinar a reintegração de posse à Agravante do imóvel objeto da demanda, determinando a desocupação voluntária do Agravado em 60 (sessenta) dias corridos (em razão de ser prazo de direito material), independentemente de audiência da parte contrária, deixando-o livre de pessoas e coisas, nos termos do art. 30, da Lei 9.514/1997, sob pena de se proceder a desocupação coercitiva; Seja deferida decisão liminar de natureza cautelar determinando-se, desde logo, o bloqueio do valor de R$ 38.586,59, sobre os bens do Agravado, de modo a garantir o resultado útil deste processo. No mérito pugna pela reforma da decisão para que o processo originário prossiga sem a emenda da inicial.
+É o relato do essencial.
+Decido.
+A concessão do efeito suspensivo condiciona-se à relevância da fundamentação formulada pelo agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 995, § único, do Código de Processo Civil:
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+Assim, a concessão da antecipação da tutela recursal ou a suspensão do processo, prevista no artigo 1.019, inciso I, do Novo Código de Processo Civil, exige a prova inequívoca do alegado, além dos requisitos mencionados no artigo 300 do Código de Processo Civil.
+Pois bem.
+Nesse contexto, identifico a presença dos pressupostos autorizadores para deferir tão somente o efeito suspensivo, especialmente em decorrência da possibilidade cancelamento da distribuição do feito de origem.
+Esclareço desde já que não é possível analisar neste recurso o pedido de reintegração de posse e nem o pleito para bloqueio de bens do agravado, porquanto tais questão não foram apreciadas pelo magistrado de origem, razão pela qual não podem ser analisadas em grau de recurso, sob pena de supressão de instância.
+Ante o exposto, DEFIRO o efeito suspensivo, para o fim de suspender os efeitos da decisão agravada até o julgamento deste recurso, sem prejuízo de eventual decisão em sentido contrário quando da apreciação do mérito deste recurso.
+Comunique-se ao Juiz da causa requisitando-lhe informações.
+Intime-se a Agravada, na forma do art. 1.019, II do CPC, para que responda no prazo legal.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
