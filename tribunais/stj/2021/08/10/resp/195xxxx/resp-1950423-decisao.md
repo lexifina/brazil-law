@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por POZZA S.A. INDUSTRIAL MOVELEIRA, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado:
+"APELAÇÃO. ADMINISTRATIVO. CONTA DE DESENVOLVIMENTO ENERGÉTICO (CDE). LEGITIMIDADE PASSIVA DA CONCESSIONÁRIA NA DISCUSSÃO REFERENTE À CDE. FINALIDADES DA CDE. LEI 10.438/2002. DECRETOS 7.945/2013, 8.203/2014, 8.221/2014 E 8.272/2014. AUSÊNCIA DE ILEGALIDADE NA REGULAMENTAÇÃO INFRALEGAL. SENTENÇA REFORMADA. APELAÇÃO DA RGE PARCIALMENTE PROVIDA. APELAÇÕES DA ANEEL E DA UNIÃO PROVIDAS" (fl. 777e).
+Nas razões do Recurso Especial (fls. 802/817e), interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aoart.13, § 1º, da Lei10.438/2002.
+Pondera que as novas finalidades, que alargaram o alcance da CDE, foram fixadas por meio de decretos e não por intermédio de lei.
+Argui que"não poderiam os Decretos nºs 7.945/2013, 8.203/2014, 8.221/2014 e 8.272/2014 promoverem a alteração das Leis nºs 10.438/02; 10.762/03; 12.783/13 e 12.839/13 para incluir na Conta de Desenvolvimento Energético, novas finalidades que impactam diretamente no custo de manutenção da conta" (fl. 812e).
+Afirma que "ante a ausência de reciprocidade entre a finalidade instituída pelos Decretos nºs 7.945/2013, 8.203/2014, 8.221/2014 e 8.272/2014 e o Ônus Tarifário imputado aos consumidores, requer seja declarada inexigível o valor da CDE 2015, 2016 e 2017, homologadas pelas Resoluções Homologatórias nº 1857/2015, 2018/2016 e 2202/2017, por afronta direta ao primado previsto no art. 175, p.ú., III da Constituição da República, bem como que as finalidades instituídas pelos Decretos nº 7.945/2013, 8.203/2014, 8.221/2014 e 8.272/2014 sejam declaradas inexigíveis para os demais exercícios financeiros" (fl. 815e).
+Sustenta queo comando do § 1º, do art. 13, da Lei 10.438/2002é imperativo, na medida em que não deixa margens para que a União opte em repassar osvalores ai descritosou não.
+Requer arepetição dos valores pagos a maior em relação a cota CDE.
+Contrarrazões, a fls. 845/868e,919/936e e 939/972e.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 1.014/1.015e).
+A irresignação não merece conhecimento.
+Não conheço da apontada violação aoart. 13, § 1º, da Lei 10.438/2002,porquanto, do exame atento das razões recursais, observa-se que a parte ora recorrente não logrou demonstrar suficientemente de que forma o acórdão regional teria malferido a literalidade dodispositivoinfraconstitucional tidopor malferido, carecendo, portanto, o especial de fundamentação, a atrair a incidência da Súmula 284/STF.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
