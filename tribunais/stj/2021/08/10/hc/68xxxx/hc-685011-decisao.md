@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de Carmen Miriam de Azevedo Alves contra decisão de Desembargador do Tribunal de Justiça de Pernambuco,proferidono Habeas Corpus n. 0001954-82.2021.8.17.9480.
+Extrai-se dos autos que apaciente foi foi denunciada pela suposta prática do crime do art. 1º,I (crime de responsabilidade de prefeito), do Decreto-Lei nº 201/1967.
+Foi impetrado o writ originárioperante a Corte Estadual, onde foi alegado que "a paciente sofre constrangimento ilegal por ter sido preterido seu direito de apresentar resposta à acusação, nos termos do art. 396-A, do CPP, pois, após o recebimento da denúncia na ação penal de origem, a secretaria judiciária certificou que a acusada já teria apresentado a defesa escrita, quando se tratava, em verdade, da defesa prévia, do art. 2º, I, do Decreto-Lei 201-1967".
+Aliminar foi indeferida nos termos da decisão de fls. 24/25.
+Daí o presente mandamus no qualsua defesa, em síntese, reitera a alegação de nulidade por ausência de apresentação da resposta à acusaçãoprevista no art. 396 do Código de Processo Penal.
+Requer, em sede liminar e no mérito, a concessão da ordem "para, de imediato, determinar a suspensão da audiência designada para o dia 16/08/2021, no âmbito da Ação Penal nº 0000094-68.2018.8.17.0130,, até o julgamento do mérito do Habeas Corpus Criminal TJPE n.º 0001954-82.2021.8.17.9480,em razão da ausência de peça de defesa indispensável(art. 396do CPP)à defesa da paciente, e ainda ao processamento regular da ação penal em epígrafe, somado ao fato da iminência da realização da audiência de instrução e julgamento sem a oportunidade de inquerir as testemunhas de defesa;" (fl. 23).
+É o relatório.
+Decido.
+Não há como dar seguimento ao mandamus.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n.691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão indeferitória de liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum, o que não ocorre no presente caso.
+Nesse sentido, destaco o seguinte precedente:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PRINCÍPIO DA COLEGIALIDADE.AUSÊNCIA DE OFENSA. DECISÃO PROFERIDA COM OBSERVÂNCIA DO RISTJ E DO CPC. ATO COATOR: DECISÃO SINGULAR DE DESEMBARGADOR DA INSTÂNCIA DE ORIGEM. INDEFERIMENTO DA LIMINAR. AUSÊNCIA DE TERATOLOGIA OU ILEGALIDADE MANIFESTA QUE AUTORIZE A RELATIVIZAÇÃO DA DIRETRIZ DA SÚMULA 691 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prolação de decisão monocrática pelo ministro relator, ou mesmo pela Presidência no período de férias forenses, está autorizada não apenas pelo RISTJ, mas também pelo CPC. Nada obstante, como é cediço, os temas decididos monocraticamente sempre poderão ser levados ao colegiado, por meio do controle recursal, o qual foi efetivamente utilizado no caso dos autos, com a interposição do presente agravo regimental.
+2. A jurisprudência do Superior Tribunal de Justiça, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, entende que não cabe habeas corpus contra decisão que indefere liminar na origem.
+3. Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado (HC n. 318.415/SP, Rel. Min. REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/15, DJe 12/8/15).
+4. No caso destes autos, não há ilegalidade flagrante, abuso de poder ou teratologia a autorizar a superação do obstáculo contido na Súmula 691/STF.5. Agravo regimental não provido." (AgRg no HC 556.937/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/03/2020)
+Na hipótese não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência, embora sucinto, pautou-se em fundamentação idônea, tendo o relator assim asseverado:
+"Trata-se de remédio constitucional de habeas corpus, com pedido liminar, impetrado pelo advogado Moreno de Azevedo Alves, OAB/PE nº 54.802, em favor de CARMEN MIRIAM DEAZEVEDO ALVES, apontando como autoridade coatora o Juízo de Direito da Vara Única da Comarca de Agrestina, nos autos do processo nº 0000413-70.2017.8.17.0130.
+Extrai-se dos autos que a paciente foi denunciada pela suposta prática do crime do art. 1º,I (crime de responsabilidade de prefeito), do Decreto-Lei nº 201/1967.
+Alega o impetrante, em síntese, que a paciente sofre constrangimento ilegal por ter sido preterido seu direito de apresentar resposta à acusação, nos termos do art. 396-A, do CPP, pois, após o recebimento da denúncia na ação penal de origem, a secretaria judiciária certificou que a acusada já teria apresentado a defesa escrita, quando se tratava, em verdade, da defesa prévia, do art. 2º, I, do Decreto-Lei 201-1967.
+Aduziu que a acusada, ora paciente, sofreu prejuízo a sua ampla defesa, pois perdeu a oportunidade de apresentar questões preliminares, de arrolar testemunhas e apresentar documentos que poderiam conduzir à sua absolvição sumária.
+Sustentou ainda que o juízo a quo, ao receber a denúncia, sequer analisou detidamente a defesa prévia apresentada pela acusada, motivo pelo qual haveria nulidade por desrespeito ao dever de fundamentação das decisões judiciais insculpido no art. 93, IX, da CF/88.
+Diante destes fatos, postula, em sede de liminar, a concessão de ordem de habeas corpus para que seja determinada a suspensão da audiência de instrução que está marcada para16/08/2021, e no mérito que seja confirmada a liminar e ainda anuladas a decisão que recebeu a denúncia e as demais a ela subsequentes, referentes aos artigos 396 e 397 do CPP.
+Juntou documentos.
+É o relatório. DECIDO.
+O art. 5º, inc. LXVIII da Constituição Federal estabelece que seja concedido habeas corpus sempre que alguém se achar ameaçado de sofrer coação ilegal em seu direito de locomoção.
+Por sua vez, a concessão de liminar em habeas corpus não está prevista em lei, sendo medida de extrema exceção, criada pela doutrina e jurisprudência como forma de sanar ilegalidades inquestionáveis, nos casos em que reste demonstrados o periculum in mora, quando há probabilidade de dano irreparável, e o fumus boni iuris, quando os elementos da impetraçãoindiquem a existência de ilegalidade.
+Destarte, compulsando os autos, não constatei, ao menos nesta fase de cognição sumária, a presença dos requisitos autorizadores da medida, sendo necessários, no meu entender, maiores esclarecimentos por parte do juízo processante.
+Diante todo exposto, indefiro o pedido de liminar.
+Oficie-se à autoridade indigitada coatora requisitando o envio, no prazo de 48 (quarenta e oito) horas, de informações pormenorizadas necessárias ao deslinde da causa.
+Com as informações, remetam-se os autos à Procuradoria de Justiça para emissão de parecer.
+Intime-se. Cumpra-se." (fls. 24/25)
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a superação do enunciado sumular.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
