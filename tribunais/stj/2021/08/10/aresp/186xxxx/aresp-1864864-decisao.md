@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto pelo INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+EMENTA: APELAÇÃO CÍVEL - Restabelecimento de "auxílio-acidente" - Admissibilidade - Benefício cessado em virtude de o segurado ter solicitado emissão de Certidão de Tempo de Contribuição ao INSS -Ilegalidade - Inviabilidade da adoção do art. 129, do Decreto nº 3.048/99 Prevalência do art. 86, §1º, da Lei nº 8.213/91 - Aplicação do princípio da hierarquia das normas - Precedentes - Ação julgada procedente - Recurso da autarquia e reexame necessário - Juros de mora contados de modo englobado até a citação e, após, mês a mês, decrescentemente ,correspondentes ao índice de remuneração da caderneta de poupança, na forma do art. 1º-F, da Lei nº 9.494/97, com a redação dada pela Lei nº 11.960/09, segundo uma das teses definidas pelo Col. STF no julgamento do RE nº 870.947/SE, ao apreciar o Tema 810, com repercussão geral reconhecida, aplicando-se o IPCA-e na correção monetária dos atrasados desde 30.06.2009, data de vigência da Lei nº 8.213/91, na medida em que, ao rejeitar, por maioria de votos, em 03.10.2019, em acórdão publicado em 03.02.2020, todos os "embargos de declaração" opostos ao aludido Recurso Extraordinário, não modulando os efeitos da decisão anteriormente proferida, o Pretório Excelso considerou aquele índice empregável desde junho de 2009 em diante para a atualização dos débitos judiciais das Fazendas Públicas - Apelo do INSS não provido, provido, em parte, o outro recurso, confirmada a tutela de urgência para o imediato restabelecimento do benefício.
+Os embargos de declaração opostos pela autarquia foramrejeitados.
+Nas razões do recurso especial, a autarquia apontaviolação dos arts.1º, 10, 12, 18, 86, 94 e 120, todos da Lei n.º 8.213/1991, ao alegar "perda da qualidade de segurado do regime geral de previdência social e, portanto, da impossibilidade de receber benefício próprio desse regime" (fl. 113).
+Não foram apresentadas as contrarrazões.
+No presente agravo, o recorrente apresenta argumentos objetivando rebater os fundamentos apresentados pelo julgador.
+É o relatório. Decido.
+Tendo o agravante impugnado a fundamentação apresentada na decisão agravada e atendidos os demais pressupostos de admissibilidade do presente agravo, passa-se ao exame do recurso especial.
+Sem razão a autarquia.
+Quanto à questão de fundo, o Tribunal de origem consignou no acórdão dos embargos declaratórios, reafirmando o quanto decidido na apelação(fl. 105):
+Não vislumbro a necessidade da providência solicitada pelo embargante em suas razões recursais, porquanto, ao contrário do quer fazer crer, a fundamentação do aresto de fls. 84/92 aplicou ao caso o princípio da hierarquia das normas, deixando muito bem claro, em razão disso, que o restabelecimento do "auxílio-acidente" se fundou na prevalência do disposto no art. 86, §1º, da Lei nº 8.213/91, sobre o preceituado no art. 129, do Decreto nº 3.048/99, não socorrendo ao suposto direito da parte, portanto, os dispositivos legais expressamente prequestionados por ela ao longo destes "embargos". (Grifei)
+Porém, quanto a tais argumentos, o INSS não os rebateu especificamente em sua petição de recurso especial.
+Sendo assim, tenho que incide ao recurso as Súmulas 283 e 284, ambas do STF, in verbis:
+Súmula n. 283.
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ademais,verifica-se que a irresignação da parte recorrente vai de encontro às convicções do julgador a quo, que tiveram como lastro o conjunto probatório constante dos autos. Nesse diapasão, para rever tal posição seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
