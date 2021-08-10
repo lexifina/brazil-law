@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por DIVALDO MORETTI JÚNIOR e REGIANE PERON MORETTI, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"ILEGITIMIDADE ATIVA. Não acolhimento. Embora não conste o nome da requerente nos dois primeiros contratos celebrados, consta na escritura pública de venda e compra do lote. Anulação do contrato que se pretende deu origem a escritura. Preliminar afastada. CERCEAMENTO DE DEFESA. Não configurado. Provas dos autos suficientes para o julgamento da lide. Desnecessidade de dilação probatória. Preliminar rejeitada. COMPRA E VENDA. RESCISÃO. DEVOLUÇÃODEVALORES. Atraso em obras de infraestrutura de loteamento. Aplicação do CDC. Relação contratual existente entre as partes deve ser compreendida como havida desde 15.08.2014. Pelo compromisso assumido na ação civil pública, o prazo máximo é de 02 anos a partir da publicação do decreto homologatório da aprovação do loteamento, em 27.08.2015. Decreto Municipal nº 9.012/15. Súm. 161, do TJSP. Questões administrativas para aprovação do empreendimento que não se confundem com caso fortuito ou força maior. Não há que se falar em prorrogação do prazo, pois a requerida começou a vender irregularmente os lotes em 2014. Mora da ré na entrega do lote desde 27.08.2017. Atraso configurado. Rescisão do contrato. Retorno das partes ao status quo ante. Direito de devolução da integralidade dos valores pagos pelo autor, ante a culpa da ré pela rescisão. Lucros cessantes. Pedido incompatível com a rescisão do contrato. Recebimento de indenização, além da devolução de valores, implicaria em enriquecimento sem causa dos autores. IPTU. Valor a ser devolvido a ser apurado em liquidação de sentença, mediante comprovação do pagamento pelos autores. Danos morais. Não configurados. Mero descumprimento contratual. Sentença parcialmente reformada. Sucumbência. Distribuição proporcional. Recurso da ré parcialmente provido e dos autores não provido"(fl. 815e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, os recorrentes apontam violação dos artigos 186, 402, 403 e927do Código Civil e1.022 do CPC/2015. Indicamomissão no julgado e pleiteiam o pagamento dos lucros cessantes edanos morais.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar em parte.
+No tocante à alegada negativa de prestação jurisdicional, agiu corretamente o Tribunal de origem ao rejeitar osdeclaratórios por inexistir omissão, contradição, obscuridade, erro material ou ausência de fundamentação no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+Quanto ao pedido de indenização por danos morais, segundo orientação jurisprudencial do Superior Tribunal de Justiça, em regra, a demora na entrega do imóvel constitui mero inadimplemento contratual, o que, por si só, não gera o dever de indenizar. No caso sob exame, não restou evidenciada situação excepcional capaz de superar o mero inadimplemento contratual(fl. 822e-STJ).Rever tais fundamentos encontra óbice na Súmula nº 7/STJ.
+A esse respeito:
+"AGRAVO INTERNO. RECURSO ESPECIAL. DIREITO CIVIL. COMPRA E VENDA DE IMÓVEL. ATRASO NA ENTREGA. LUCROS CESSANTES. TERMO FINAL. DANOS MORAIS.
+(..)
+2. Inviabilidade de alterar a conclusão da Corte local para fixar a data de entrega das chaves como termo final do pagamento dos lucros cessantes resultante de da análise das circunstâncias fáticas, bem como da interpretação de cláusulas contratuais. Incidência dos óbices das súmulas 5 e 7/STJ.
+3. A jurisprudência desta Corte firmou-se no sentido de que o simples descumprimento contratual, por si só, em regra, não é capaz de gerar danos morais.
+4. Indicada concretamente, situação específica, desvinculada dos normais aborrecimentos, capaz de gerar dor e sofrimento indenizável, seria imprescindível o reexame do conjunto fático-probatório dos autos para alterar a conclusão de ocorrência de dano moral, atividade inviável nesta via especial. Súmula n. 7 do STJ.
+5. Agravo interno não provido"
+(AgInt no REsp 1.798.456/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 25/6/2019, DJe 28/6/2019).
+No que diz respeito aos lucros cessantes, o acórdão recorrido destoa da orientação traçada no Superior Tribunal de Justiçano sentido de que
+"(..) a ausência de entrega do imóvel na data acordada no contrato firmado entre as partes acarreta o pagamento de indenização por lucros cessantes, tendo em vista a impossibilidade de fruição do imóvel durante o tempo da mora. Incidência da Súmula 83/STJ" (AgRg no AREsp 689.877/RJ, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 1º/3/2016, DJe 10/3/2016).
+Sobre o tema:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. TESES JURÍDICAS ACERCA DA IMPUTAÇÃO DA MORA E DA QUALIFICAÇÃO DA PARTE ADVERSA. INOVAÇÃO RECURSAL. NÃO CABIMENTO. ATRASO NA ENTREGA DO BEM.LUCROS CESSANTES. PREJUÍZO PRESUMIDO. PRECEDENTES. REDUÇÃO DO PATAMAR INDENIZATÓRIO. ANÁLISE INVIABILIZADA. DEFICIÊNCIA DO COTEJO ANALÍTICO. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+1. É vedado à parte insurgente, nas razões do agravo interno, apresentar teses que não foram aventadas no momento da interposição do recurso especial, em virtude da preclusão.
+2. A jurisprudência desta Corte Superior é firme no sentido de que, descumprido o prazo para a entrega do imóvel, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento dos lucros cessantes. Esse entendimento, inclusive, vem sendo aplicado por este Colegiado aos casos de atraso na entrega de lote não edificado.
+3. A análise da pretensão de redução do patamar indenizatório, deduzida por meio da alínea c do permissivo constitucional, encontra-se obstada em razão da deficiência do cotejo analítico.
+4. Agravo interno parcialmente conhecido e, nessa extensão, desprovido"
+(AgInt no REsp 1.818.212/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021).
+Ante o exposto, dou parcial provimento ao recurso especial para condenar o
+recorrido ao pagamento de lucros cessantes, determinando o retorno dos autos ao Tribunal de origem para definição do valor.
+Publique-se.
+Intimem-se.
