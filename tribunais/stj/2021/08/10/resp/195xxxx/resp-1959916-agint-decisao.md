@@ -1,0 +1,10 @@
+DECISÃO
+Em vista das razões de agravo interno (fls. 785/808), reconsidero a decisão de fls. 773/780, tornando-a sem efeito, e passo à análise do recurso.
+Trata-se de agravo interposto por PAULO WALDIR LUDWIGcontra decisão que negou seguimento a recurso especial, fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal,manejado em face de acórdão assim ementado (fl. 432):
+APELAÇÃO CÍVEL. HONORÁRIOS DE PROFISSIONAIS LIBERAIS. AÇÃO DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS. MATÉRIA DE FATO. CASO CONCRETO. PRESCRIÇÃO RECONHECIDA. SENTENÇA MANTIDA.
+1. Prescreve em 5 (cinco) anos a pretensão dos profissionais liberais para a cobrança dos honorários pelos serviços prestados. Inteligência dos artigos 206, §5º, II, do Código Civil e art. 25 do Estatuto da OAB. 2. Cessando o mandato em razão de o autor ficar inabilitado para exercer ou substabelecer os poderes a ele conferidos, nasce, então, a pretensão ao recebimento dos honorários advocatícios. Logo, no caso concreto,tenho que o mais correto é considerar que a partir do ano de 2002 iniciou-se o prazo prescricional, sem aplicação das causas suspensivas invocadas. 3. Tendo em vista o ajuizamento da ação somente no ano de 2013, impõe-se a manutenção do reconhecimento da prescrição da pretensão do autor.
+RECURSO DE APELAÇÃO DESPROVIDO.
+Os embargos de declaração opostos na origemforam rejeitados (462-470, e-STJ).
+O agravante sustenta, nas razões de recurso especial, ofensa aos arts. 489, § 1º, IV eV, e 1.022 do Código de Processo Civil; 25, I e V, da Lei 8.906/93; e 125, 189, 199, I, II, 682, III, e 884 do Código Civil, bem como divergência jurisprudencial, alegando a ocorrência denegativa de prestação jurisdicional e, no mérito,que o termo inicial do prazo prescricional da pretensão da cobrança de honorários advocatícios contratados por êxitosomente se iniciou com o levantamentodo alvará judicial pelo contratante.
+Em face da relevância da matéria, dou provimento ao agravo e determinoconversão dos autos em recurso especial.
+Intimem-se.
