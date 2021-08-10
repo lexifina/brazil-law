@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Elenildo Francisco da Silva, com amparo nas alíneas "a" e "c"do inciso III do art. 105 da CF/1988, em oposição a acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJfls. 174-175):
+EMBARGOS À EXECUÇAO DE TÍTULO JUDICIAL. CONDENAÇAO DA UNIAO E HEMOPE, PRO RATA, NA IMPLANTAÇAO DE PENSIONAMENTO. CONTAMINAÇAO POR HEPATITE C.
+I. Apelação interposta contra sentença prolatada nos autos de embargos opostos pela HEMOPE à execução de título judicial nº 0013224-72.2011.4.05.8300, ao argumento da existência de excesso de execução, no importe de R$ 939.279,23.
+II. O HEMOPE defende, em síntese: a) a impossibilidade de antecipar a pensão indenizatória até o ano de 2049; b) que cumpriu a obrigação de pagar pensão mensal desde o mês de setembro de 2013; c) como índice de correção monetária, o correto seria a utilização da TR, a partir de julho de 2009; d) o exequente utilizou juros de mora a razão de 1%, quando deveria observar o disposto no art. 1º F da Lei nº 9.494/97, a partir da citação valida; e e) os juros de mora incidentes sobre os honoráriosde sucumbência foram calculados da data do arbitramento e não da data do trânsito em julgado.
+III. O julgador monocráticodecidiu pela procedência parcial dos embargos à execução, reconhecendo como correto o valor indicado pela Contadoria do Juízo. Excluiu as parcelas referentes à antecipação da pensão e afastou a condenação em honoráriosadvocatícios, em razão da sucumbência recíproca.
+IV. O exequente apelou, pugnando pelo pagamento do pensionamento em parcela única, bem como para que a verba honorária seja fixada em 10% sobre o valor da condenação.
+V. Convém destacar que a ação principal foi julgada por este Tribunal (AC540883, em 24.07.2012), encontrando-se transitada em julgado. Restou ali decidido que a União e o HEMOPE foram condenados à implantação de pensão vitalícia, pro rata, no montante de 05 (cinco) saláriosmínimos, até que o exequente completasse 75 anos.
+VI. Em observância à coisa julgada, deve-se limitar a execução, no que se refere à pensão vitalícia, aos atrasados, observada a prescrição quinquenal, até a data do seu implemento pelo HEMOPE, uma vez que restou arbitrado o pagamento mensal no valor de 05 (cinco) saláriosmínimos, inexistindo menção à liquidação da obrigação em parcela única.
+VII. No tocante aos honoráriosadvocatícios, não deve haver condenação, tendo em vista a sucumbência recíproca, como bem decidido pelo juízo a quo.
+VIII. Apelação improvida.
+Os embargos de declaração opostos pelo contribuinte foram rejeitados.
+Em suas razões, o insurgente alega violação dos arts. 502, 505e 507do Código de Processo Civil/1973; e 950, parágrafo único, do Código Civil brasileiro.
+Defende, em síntese, a possibilidade de o pensionamento vitalício ser pago em uma única parcela nos casos de responsabilidade civil derivada da incapacitação da vítima para o trabalho.
+Sustenta, ainda, que a exclusão dos honorários advocatícios nos parâmetros impostos no título judicial excutido viola a coisa julgada material. Aduz ainda que a verba deve ser paga no percentual de 10% sobre o valor global da condenação, conforme arbitrados na fase de conhecimento.
+Contrarrazões recursais apresentadas às e-STJ, fls. 288-292.
+Admitido o recurso especial na origem (e-STJfl. 295), subiram os autos a esta Corte.
+O Ministério Público Federal, por meio do parecer de e-STJfls. 304-309, opinou pelo parcial provimento do recurso, mantido o acórdão em relação aos honorários advocatícios.
+Decido.
+Cinge-se a controvérsia à possibilidade do pagamento de pensão vitalícia fixada no título executivo judicial, em uma única parcela, com base no art. 950, parágrafo único, do Código Civil, em virtude da precária condição de saúde do requerente, que, além de incapacitado para o trabalho, é portador de hemofilia.
+A regra contida no art. 950, parágrafo único, do Código Civil, ao explicitar que "o prejudicado, se preferir, poderá exigir que a indenização seja arbitrada e paga de uma só vez", apenas pode ser suscitada pela parte interessada na fase de conhecimento, pois é o momento que a indenização é arbitrada e que são aferidas as circunstâncias exigidas no caput do mencionado normativo para a substituição do regime de pensão.
+Transcrevo, a título elucidativo, o dispositivo legal em referência:
+Art. 950. Se da ofensa resultar defeito pelo qual o ofendido não possa exercer o seu ofício ou profissão, ou se lhe diminua a capacidade de trabalho, a indenização, além das despesas do tratamento e lucros cessantes até ao fim da convalescença, incluirá pensão correspondente à importância do trabalho para que se inabilitou, ou da depreciação que ele sofreu.
+Parágrafo único. O prejudicado, se preferir, poderá exigir que a indenização seja arbitrada e paga de uma só vez.
+No caso, consoante bem acentuou o aresto recorrido, o pedido de pagamento em parcela única apenas foi aduzido no momento da execução, sendo incompatível com o título judicial exequendo.
+Em situação análoga, é o precedente:
+PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. CUMPRIMENTO DE SENTENÇA. PENSIONAMENTO. PRETENSÃO DE RECEBER POR PARCELA ÚNICA. MOMENTO DO REQUERIMENTO. FASE DE CONHECIMENTO. DIREITO POTESTATIVO. AUSÊNCIA. PRECLUSÃO. AUSÊNCIA. APLICAÇÃO DO PRINCÍPIO NULLA EXECUTIO SINE TITULO. CONHECIMENTO DE OFÍCIO. POSSIBILIDADE. RECURSO NÃO PROVIDO.
+1. A regra contida no art. 950, parágrafo único, do Código Civil, ao explicitar que "o prejudicado, se preferir, poderá exigir que a indenização seja arbitrada e paga de uma só vez", apenas pode ser suscitada pela parte interessada na fase de conhecimento, pois é o momento que a indenização é arbitrada e que são aferidas as circunstâncias exigidas no caput do mencionado normativo para a substituição do regime de pensão.
+2. No caso, o aresto recorrido concluiu que o requerimento para o pagamento da pensão por meio de parcela única apenas ocorreu na fase de execução, não tendo constado do título judicial transitado em julgado. A modificação desse ponto é vedada no âmbito do apelo especial, haja vista a incidência da Súmula 7/STJ.
+3. Não se opera preclusão para o Juízo de origem reconhecer a impossibilidade da conversão do pensionamento em parcela única, devendo prevalecer o princípio da "nulla executio sine titulo".
+4. Além disso, a aplicação do art. 950, parágrafo único, do Código Civil não se configura como direito potestativo da parte, cumprindo ao juiz avaliar a possibilidade de pagamento por meio de parcela única à luz das circunstâncias do caso concreto. Precedentes.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.797.688/PE, de minha relatoria, SEGUNDA TURMA, julgado em 13/8/2019, DJe 19/8/2019).
+Portanto, incabível a pretensão de ver executado o referido pensionamento em uma única parcela por constituir ofensa à coisa julgada, pois precluso o momento de postular em tal sentido.
+Por fim, no que tange aos honorários advocatícios fixados no título judicial excutido,não sepode conhecer do recurso especial,pois a questão não foi tratada no bojo do acórdão impugnado, que apenas decidiu sobre a verba honorária cabível na própria execução de sentença.
+Nesse contexto, ainda a questão tenha sido provocada por meio de embargos de declaração dirigidos àquela Corte, caberia à parte interessada, nas razões do especial, indicar ofensa ao art. 535 do CPC/1973, providência da qual não se desincumbiu.
+Na compreensão firmada por este Tribunal Superior, a ausência de prequestionamento da matéria suscitada no apelo nobre, a despeito da oposição de embargos de declaração, impede o conhecimento do recurso, conforme a orientação da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo").
+No ponto:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. EFETIVO DEBATE PELO TRIBUNAL A QUO. NECESSIDADE.
+1. No caso, o Tribunal de origem não se pronunciou sobre a matéria versada nos arts. 150, § 4º, 156, VII e 168, I, do CTN, apesar de instado a fazê-lo por meio dos competentes embargos de declaração. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ ("Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo.").
+2. O prequestionamento da matéria pressupõe o efetivo debate pelo Tribunal a quo sobre a tese jurídica veiculada nas razões do recurso especial, não sendo suficiente, para tanto, que a questão tenha sido suscitada pela parte nos recursos que interpôs perante as instâncias ordinárias.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1.424.985/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, Julgado em 21/10/2014, DJe dia 24/10/2014).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, assim como na Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
