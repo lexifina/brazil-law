@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pelo BANCO DO BRASIL S/A, contra decisão que inadmitiu recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 19/11/2020.
+Concluso ao gabinete em: 03/08/2021.
+Ação: de cumprimento provisório de sentença proposta por HIDELBRANDO FONSECA MACHADO em face de BANCO DO BRASIL S/A,objetivando o cumprimento individual de sentença genérica proferida na Ação Civil ajuizada em desfavor do Banco do Brasil S. A., do Banco Central do Brasil e da União, onde se discutiu o índice aplicável no mês de março de 1990 para a correção dos contratos celebrados por intermédio de Cédulas de Crédito Rural, que tramitou perante a 3ª Varada Seção Judiciária do Distrito Federal.
+Decisão interloctória:  Juízo de origem declarou a incompetência da Justiça Federal para o processamento e julgamento da ação, bem como determinou a remessados autos para a Justiça Estadual.
+Acórdão: negou provimento ao agravo de instrumento interposto por HIDELBRANDO FONSECA MACHADO, nos termos da seguinte ementa:
+"CONSTITUCIONAL E PROCESSUAL CIVIL. CÉDULA DE CRÉDITO RURAL. AÇÃOCOLETIVA PROCESSADA NA JUSTIÇA FEDERAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA NA LIDE DE ENTE ELENCADO NO ART. 109, I, DA CF/88. AÇÃO PROPOSTAUNICAMENTE CONTRA O BANCO DO BRASIL S. A.. COMPETÊNCIA DA JUSTIÇAESTADUAL. PRECEDENTES DO STJ. RECURSO NÃO PROVIDO.
+1. Já decidiu o STJ ao apreciar questão idêntica à discutida nos autos que, "não figurando na lide quaisquer dos entes previstos no artigo 109, I, da CF, considerando que o autor optou pela propositura da liquidação e execução em face exclusivamente do Banco do Brasil, que possui natureza jurídica de sociedade de economia mista, é de se declarar a competência da Justiça Estadual para o julgamento de cumprimento de sentença coletiva que tramitou perante a Justiça Federal". (CC nº 159.253, Relator Ministro Luis Felipe Salomão, pub. em 10/09/2018).
+2. Hipótese em que a ação de cumprimento individual da sentença genérica, proferida em sede de ação civil pública, foi proposta unicamente contra o Banco do Brasil S. A., perante o juízo federal do domicílio da parte autora.
+3. Agravo de instrumento a que se nega provimento." (e-STJ fl. 80).
+Recurso especial: alega violação dos arts. 520, 522, inciso II e 995 do CPC/2015. Sustenta que a anulação da sentença deve ser afastada; e que "seja declarada a competência exclusiva da Justiça Federal, sendo determinada a tramitação do feito perante a mesma, com a respectiva remessa dos autos" (e-STJ, fl. 95).
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, quanto à anulação da sentença e à competência exclusiva da Justiça Federal, os arts.520, 522, II, e 955 do CPC/2015 não possuem conteúdonormativo suficiente, capaz de realizar a correspondência entre a violação dodispositivo legal àseuinconformismo, ensejando em deficiência recursal,incidindo na hipótese, também, a Súmula 284/STF.
+- Da existência de fundamento não impugnado
+O agravante não impugnou os fundamentos utilizados pelo TJSC no sentido de que "por se tratar de obrigação solidária entre os réus da ação civil pública, poderia a parte autora, ora agravante, ter optado por ajuizar a ação de cumprimento individual de sentença genérica contra quaisquer dos devedores solidários, consoante disposição prevista no artigo 275, caput, do Código Civil."; "o STJ fixou o entendimento de que "é possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticia da transferência do crédito à União" (AgInt no AREsp 1309643/RS, Rel. Ministro LUISFELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019). (g. n.)No caso, não há indicação de que o crédito teria sido transferido à União." ; "nos casos de cumprimento individual de sentença coletiva, relativa à Cédula de Crédito Rural, não se justificaria "(..) o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide"; "assim, que é pacífico o entendimento jurisprudencial de que prevalece a regra de competência ratione personae (CF, art. 109) sobre a regra de competência funcional estabelecida no artigo 516, II, do CPC."; "por se tratar de cumprimento de sentença, aforada no local de domicílio da parte autora, na qual o único requerido é o Banco do Brasil S. A., resta configurada a incompetência da Justiça Federal." (e-STJ, fls. 74/77), razão pela qual deve ser mantido o acórdão recorrido.Aplica-se, na hipótese, a Súmula 283/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III
+e IV, "a", do CPC/2015, para NÃO CONHECER do Recurso especial.
+Deixo de majorar os honorários recursais pois o presente recurso é decorrente de decisão interlocutória em que não houve a fixação de honorários de sucumbência.
+Previno as partes que a interposição de recurso contra esta decisão, sedeclarado manifestamente inadmissível, protelatório ou improcedente,poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, §4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Cumprimento individual de sentença.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3.A existência de fundamento do acórdão recorrido não impugnado,quando suficiente para a manutenção de suas conclusões,impede a apreciação do recurso especial.
+4. Agravo em recurso especial conhecido. Recurso especial não conhecido.
