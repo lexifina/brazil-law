@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial, no qual se alega violação dos arts. 1º e 4º, IX, da Lei n. 4.595/1964, 39, 51 e 52, II, do Código de Defesa do Consumidor, além dedissídiojurisprudencial. O acórdão recorrido está retratado naseguinteementa(fl. 221):
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. ABUSIVIDADE CARACTERIZADA. DESCARACTERIZAÇÃO DA MORA. MANUTENÇÃO DA SENTENÇA COMBATIDA. HONORÁRIOS RECURSAIS.
+1. A jurisprudência do Superior Tribunal de Justiça - STJ orienta que o fato de a taxa de juros remuneratórios praticada pela instituição financeira exceder a taxa média de marcado não induz, por si só, à conclusão de cobrança abusiva, consistindo a referida taxa em um referencial a ser considerado, e não em um limite que deva ser necessariamente observado pelas instituições financeiras.
+2. A excepcionalidade da revisão dos juros remuneratórios é admitida, desde que caracterizada a relação de consumo e que a abusividade reste cabalmente demonstrada, ante as peculiaridades do julgamento concreto.
+3. No caso em estudo, restando demonstrado que as taxas de juros pactuadas e aquelas aferidas (taxa média de mercado) excede o percentual que norteia a orientação do STJ, conclui-se como iníqua e abusiva a obrigação entabulada, razão pela qual não há se falar em reforma da sentença neste ponto.
+4. O reconhecimento da abusividade nos encargos exigidos no período da normalidade contratual, contratual, como ocorre in casu, no tocante aos juros remuneratórios, descaracteriza a mora da parte devedora, ora Apelada.
+5. Por força do disposto no artigo 85, parágrafo 11, do Código de Processo Civil - CPC, majoro o importe arbitrado a título de verba honorária à parte autora, ora Apelante, pelo juízo primevo nesta fase recursal, de 10% (dez por cento) para 13%(treze por cento) sobre o valor da causa.
+APELAÇÃO CÍVEL CONHECIDA E DESPROVIDA.
+Foram opostos embargos de declaração, que foram rejeitados (fls. 242/250).
+Sustenta o agravante que a taxa de juros remuneratórios contratada não é abusiva.
+Assim posta a questão, passo a decidir.
+Verifico que o Tribunal de origem conclui ser abusiva a taxa de remuneratórios pactuada, conforme os seguintes fundamentos (fl. 214):
+(..)
+No caso em estudo, trata-se de contrato de financiamento para aquisição de veículos - pessoa física, com juros remuneratórios previstos à taxa de 2,51% a. m. e 34,64% a. a..
+Por meio de consulta realizada no sítio do Bacen o percentual de contratação média prevista para o período da contratação (junho de 2016) para a modalidade é de 1,89% ao mês e 25,22% ao ano.
+Logo, denota-se que a diferença entre as taxas pactuadas e aquelas aferidas excede o percentual que norteia a orientação do STJ, o que permite concluir como iníqua e abusiva a obrigação pactuada.
+Desta feita, restando demonstrado que as taxas de juros pactuadas no caso em tela afrontam os parâmetros de aferição de abusividade, não há se falar em reforma da sentença neste ponto.
+(..)
+Observo, entretanto, que tal limitação não merece prosperar.
+Isso porque o Tribunal de origem não identificou nenhuma circunstânciapeculiar ao caso em julgamento que justificasse o afastamento da taxa de
+juros contratada.
+A redução da taxa de juros pela Corte local, somente pelo fato de estaracima da média de mercado, sem mencionar nenhuma circunstância relacionada ao custo da captação dos recursos, à análise do perfil de risco de créditodo tomador e ao spread da operação, apenas cotejando, de um lado, a taxacontratada e, de outro, o limite aprioristicamente adotado pela Câmara emrelação à taxa média divulgada pelo Bacen - está em confronto com aorientação firmada na Segunda Seção desta Corte nos autos do REsp.1.061.530/RS.
+Com efeito, registro que o parâmetro abstratamente eleito pela Corte deorigem não vincula o STJ nem deve prevalecer sobre o pactuado,especialmente em caso como o presente, em que as prestações do mútuo foramprefixadas, de modo que não havia como o consumidor alegar desconhecimentoda dívida assumida. Nesse sentido, cito o recente acórdão da Quarta Turma:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO REVISIONAL. CÉDULA DE CRÉDITO BANCÁRIO. TAXA DE JUROS REMUNERATÓRIOS CONTRATADA.ABUSIVIDADE. AUSÊNCIA. ORIENTAÇÃO FIRMADA NO RESP N. 1.061.530/RS.
+1. De acordo com a orientação adotada no julgamento do REsp.1.061.530/RS, sob o rito do art. 543-C do CPC/73, "é admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, § 1º, do CDC) fique cabalmente demonstrada, ante as peculiaridades do julgamento em concreto."
+2. Prevaleceu o entendimento de que a taxa média de mercado apurada pelo Banco Central para cada segmento de crédito é referencial útil para o controle da abusividade, mas o simples fato de a taxa efetiva cobrada no contrato estar acima da taxa média de mercado não significa, por si só, abuso. Ao contrário, a média de mercado não pode ser considerada o limite, justamente porque é média; incorpora as menores e maiores taxas praticadas pelo mercado, em operações de diferentes níveis de risco. Foi expressamente rejeitada a possibilidade de o Poder Judiciário estabelecer aprioristicamente um teto para taxa de juros, adotando como parâmetro máximo o dobro ou qualquer outro percentual em relação à taxa média.
+3. O caráter abusivo da taxa de juros contratada haverá de ser demonstrado de acordo com as peculiaridades de cada caso concreto, levando-se em consideração circunstâncias como o custo da captação dos recursos no local e época do contrato, a análise do perfil de risco de crédito do tomador e o spread da operação.
+4. A redução da taxa de juros contratada pelo Tribunal de origem, somente pelo fato de estar acima da média de mercado, em atenção às supostas "circunstâncias da causa" não descritas, e sequer referidas no acórdão - apenas cotejando, de um lado, a taxa contratada e, de outro, o limite aprioristicamente adotado pela Câmara em relação à taxa média divulgada pelo Bacen - está em confronto com a orientação firmada no REsp. 1.061.530/RS.
+5. Hipótese, ademais, em que as parcelas foram prefixadas, tendo o autor tido conhecimento, no momento da assinatura do contrato, do quanto pagaria do início ao fim da relação negocial.
+6. Agravo interno provido.
+(AgInt no AREsp 1.522.043/RS, Rel. Ministro MARCO BUZZI, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17.11.2020, DJe de 10.3.2021)
+Igualmente, assim decidiu a Quarta Turma, ao julgar o Agravo Interno no AREsp. 1.493.171-RS.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para afastar a limitação da taxa de juros remuneratórios nocontratodiscutidoacima. Diante da sucumbência mínima do banco, condeno a parte recorrida aopagamento das custas processuais e dos honorários advocatíciosque fixo em 10% (dez por cento) sobre o valor da causa, ônus suspensos no caso de beneficiária da justiça gratuita.
+Intimem-se.
