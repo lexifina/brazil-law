@@ -1,0 +1,24 @@
+Recurso de Agravo de Instrumento no 1014178-22.2021.8.11.0000 – Rio Branco
+V I S T O S.
+Trata-se de recurso de agravo de instrumento interposto por Massa Falida de Ympactus Comercial S.A em face da decisão proferida pelo MM. Juiz de Direito da Vara Única de Rio Branco, que nos autos do cumprimento de sentença que lhe move Rosimeire dos Santos Carneiro, indeferiu o pedido de justiça gratuita.
+Aduz o agravante, em suma, que não restou correta a interpretação formada pelo douto magistrado, aduzindo que teve todos os seus bens indisponibilizados pela 2a Vara Cível da Comarca de Rio Branco/AC, nos autos da Medida Cautelar n. 0005669-76.2013.8.01.0001 e da Ação Civil Pública n. 0800224-44.2013.8.01.0001, ambas propostas pelo Ministério Público do Estado do Acre, alegando que todos os seus bens se encontram bloqueados.
+Sustenta, também, que o passivo provisório gira em torno de R$ 4.869.965,15 (quatro bilhões, oitocentos e sessenta e nove milhões, novecentos e sessenta e cinco mil e quinze centavos), o que revela a insolvência econômica a justificar o pedido de assistência judiciária. Requer a concessão do efeito suspensivo.
+É o relatório.
+Decido.
+Ab initio, faz-se necessário analisar o preenchimento dos requisitos de admissibilidade do presente recurso.
+Como se sabe, para cada tipo de decisão corresponde um recurso, observando-se que a inadequação da via eleita acarreta a sua inadmissibilidade, em consonância ao princípio da taxatividade recursal.
+Da interpretação da legislação processual, verifica-se que o Código de Processo Civil prevê taxativamente as hipóteses de cabimento do recurso de agravo de instrumento, de modo que este se enquadra no inciso V, do art. 1.015, do CPC.
+Dito isso, para a concessão da antecipação da tutela recursal prevista no art. 1.019, inc. I do CPC, faz-se necessária a presença dos requisitos previstos no art. 300, do aludido diploma processual, quais sejam, a probabilidade de suas alegações e o perigo de dano.
+O art. 98, do CPC, prevê:
+“A pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei.”
+Destarte, para ser amparado pelo benefício, é necessária a comprovação da impossibilidade de arcar com os encargos financeiros do processo, que pode ser feita por documento público ou particular, desde que retratem a real situação financeira do requerente do benefício.
+Conforme bem ponderou o d. magistrado de origem, os balancetes e documentos desatualizados apresentados não são suficientes a ensejar o deferimento da gratuidade pretendida, uma vez que não demonstram a atual inexistência de bens móveis ou imóveis, bem como de rendimentos auferidos.
+Portanto, em princípio e por prudência, não concedo a antecipação almejada, devendo se aguardar a manifestação do douto magistrado a quo, bem como da contraminuta que poderá trazer elementos que possibilitem a melhor análise da questão agravada.
+Ressalto que os fundamentos aqui postos não vinculam a análise do mérito do agravo.
+Diante do exposto, indefiro a tutela antecipada recursal almejada.
+Dessa forma, intime-se a agravada para, querendo, apresentar resposta no prazo de 15 (quinze) dias, nos termos do inc. II, do art. 1.019, do CPC.
+Oficie-se ao douto juiz a quo e solicite-se informações.
+P. I.
+Cuiabá, 11 de agosto de 2021.
+CARLOS ALBERTO ALVES DA ROCHA
+Relator
