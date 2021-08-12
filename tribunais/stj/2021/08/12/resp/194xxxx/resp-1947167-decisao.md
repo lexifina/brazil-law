@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de recursoespecialinterpostopelo INSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, alíneaa, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5a. REGIÃO, assim ementado, in verbis:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RESTABELECIMENTO DE APOSENTADORIA PORINVALIDEZ. COISA JULGADA. INOCORRÊNCIA. NECESSIDADE DE PRODUÇÃO DE PROVAS. ANULAÇÃO DA SENTENÇA. RETORNO DOS AUTOS AO JUÍZO DE ORIGEM.
+1. Caso em que a autora busca o restabelecimento de aposentadoria por invalidez, que, segundo informa, fora cancelado indevidamente, considerando o disposto no art. 101, §§ 1º e 2º, da Lei nº8.213/91, que prevê que o beneficiário maior de 65 anos não estaria sujeito a perícias periódicas, para avaliação do respectivo estado de saúde, hipótese que seria a dos autos, já que ela, autora, tinha mais de 67 anos à época da perícia administrativa. O magistrado singular restou por extinguir o feito sem resolução do mérito, por entender pela configuração da coisa julgada;
+2. Constatando-se que a causa de pedir da ação anterior é diversa da presente demanda, uma vez que na primeira o pedido de restabelecimento se fundamentara na pretensa manutenção da incapacidade e nesta segunda é motivada pela suposta violação ao artigo 101, da Lei nº 8.213/91, não resta caracterizada a tríplice identidade necessária ao reconhecimento da coisa julgada;
+3. Não estando a causa madura para julgamento, considerando a inexistência de elementos suficientes à análise e deslinde da questão, faz-se necessária a anulação da sentença, a fim de se oportunizar o prosseguimento do feito;
+4. Apelação provida para afastar a coisa julgada e declarar a nulidade da sentença, determinando-se o retorno dos autos ao juízo .
+Os embargos de declaração opostos pelo INSS foram rejeitados.
+Nas razões do recurso especial, a autarquia aponta, inicialmente, violação doart. 1.022 do CPC/2015. Aduz que a "não foi apreciada a alegada incidência do artigo 508 do CPC no caso dos autos" (fl. 217).
+Alega, ainda, violação dos arts. 485, V, § 3º, 502, 503, 506, 507 e 508 do CPC. Argumenta a existência de coisa julgada e que"a reapreciação da questão, não restando demonstrada a existência de situação fática nova pela parte autora, configura burla à coisa julgada" (fl. 221).
+É o relatório. Decido.
+Conforme delimitado no art. 1.022 do CPC/2015, os embargos de declaração, além da correção de erro material, têm o desiderato de escoimar contradição, omissão ou obscuridade, de ponto ou questão sobre a qual devia o julgador se pronunciar. Não está incluída dentre as finalidades dos embargos a imposição ao magistrado de examinar todos os dispositivos legais indicados pelas partes, mesmo que para os fins de prequestionamento.
+Nesse panorama, a oposição dos embargos declaratórios contra acórdão que enfrentou a controvérsia de forma integral e fundamentada caracteriza, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 1.022 do CPC/2015, conforme pacífica jurisprudência do Superior Tribunal de Justiça:
+EMBARGOS DE DECLARAÇÃO. ADMINISTRATIVO. SERVIDOR PÚBLICO. EX-CELETISTA. ADIANTAMENTO DO PCCS. NATUREZA SALARIAL RECONHECIDA PELA JUSTIÇA DO TRABALHO. REAJUSTE. REFLEXOS SOBRE O PERÍODO ESTATUTÁRIO. COMPETÊNCIA DA JUSTIÇA FEDERAL. PRESCRIÇÃO. NÃO OCORRÊNCIA. INEXISTÊNCIA DE QUAISQUER DOS VÍCIOS DO ART. 1.022 DO NOVO CPC/2015.
+1. De acordo com a norma prevista no artigo 1.022 do Novo CPC/2015, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão da decisão recorrida ou erro material.
+2. No caso, não se verifica a existência de quaisquer das deficiências em questão, pois o acórdão embargado enfrentou e decidiu, de maneira integral e com fundamentação suficiente, toda a controvérsia posta no recurso.
+3. Não cabe ao Superior Tribunal de Justiça, ainda que para fins de prequestionamento, examinar na via especial suposta violação a dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1611355/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/02/2017, DJe 24/02/2017)
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OMISSÃO. INEXISTÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. IMPOSSIBILIDADE.
+1. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 535 do CPC, razão pela qual inviável o seu exame em sede de embargos de declaração.
+2. No caso em tela, a embargante visa ao reexame das questões suficientemente analisadas no acórdão, que, de forma escorreita, entendeu que: "Os juros incidentes na devolução dos depósitos judiciais possuem natureza remuneratória e não escapam à tributação pelo IRPJ e pela CSLL, na forma prevista no art. 17, do Decreto-lei n. 1.598/77, em cuja redação se espelhou o art. 373, do Decreto n.
+3.000/99 - RIR/99, e na forma do art. 8º, da Lei n. 8.541/92, como receitas financeiras por excelência." (REsp 1138695/SC, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 22/05/2013, DJe 31/05/2013).
+3. A ocorrência de um dos vícios previstos no art. 535 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg nos EREsp 1463979/SC, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/12/2015, DJe 14/12/2015)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO. OMISSÃO NO JULGADO EMBARGADO. NÃO OCORRÊNCIA. PRETENSÃO VISANDO AO DEBATE ACERCA DE DISPOSITIVO DA CONSTITUIÇÃO FEDERAL EM ACLARATÓRIOS. IMPOSSIBILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos declaratórios são recurso de fundamentação vinculada às hipóteses de cabimento previstas no incisos I e II do art. 535 do antigo CPC (atual art. 1.022 do novo CPC), portanto, restrito às situações de existência de obscuridade, contradição ou omissão no julgado. Eles não se prestam ao rejulgamento da lide, mas apenas à elucidação ou ao aperfeiçoamento do decisum caso se verifiquem as situações acima descritas.
+2. No caso dos autos, nota-se que não ocorre nenhuma dessas hipóteses. Com efeito, o julgado embargado está devidamente fundamentado, inclusive com suporte na jurisprudência desta Corte; ademais, o julgador não está obrigado a enfrentar e rebater todos os argumentos da parte, mas apenas a declinar os fundamentos de seu convencimento de forma motivada.
+3. "Nos termos do art. 105, inciso III, da Constituição Federal, não compete a esta Corte o exame de dispositivos constitucionais em sede de embargos de declaração, ainda que manejados para fins de prequestionamento, sob pena de invasão da competência atribuída ao Supremo Tribunal Federal" (EDcl no AgInt no AREsp 833.296/MT, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/9/2016, DJe 4/10/2016).
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 713.546/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/11/2016, DJe 25/11/2016)
+No mais, verifico que o Tribunal a quo, com base no conjunto fático-probatório constante dos autos, expressamente consignou e reiterou em embargos declaratórios que não há falar em coisa julgada.
+E o entendimento deste Superior Tribunal de Justiça é no sentido de que o reexame de configuração ou não de coisa julgada importa em reexame do conjunto fático-probatório dos autos, o que encontra óbice na Súmula 7 deste Tribunal.
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. VIOLAÇÃO AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. OFENSA À COISA JULGADA. REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Não ocorreu omissão no aresto combatido, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta nos autos, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+2. A alteração das conclusões adotadas pela instância ordinária, acerca da existência de coisa julgada em relação ao reconhecimento do exercício de atividade laboral em condições especiais no período ora pleiteado, tal como colocada a questão nas razões recursais, demandaria novo exame do acervo fático-probatório, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 996.170/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/05/2017, DJe 30/05/2017)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. EXCEÇÃO DE COISA JULGADA. MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Hipótese em que o Tribunal de origem afastou expressamente a caracterização de coisa julgada, no caso, entendendo tratar-se de nova causar de pedir. Rever tal entendimento implica reexame da matéria fático-probatória, o que é vedado em Recurso Especial (Súmula 7/STJ).
+2. Recurso Especial não conhecido.
+(REsp 1603527/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2016, DJe 05/09/2016)
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. APOSENTADORIA POR IDADE RURAL. CONFIGURAÇÃO DA COISA JULGADA MATERIAL. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+I. Conforme entendimento deste Superior Tribunal de Justiça, "o reexame de ofensa à coisa julgada importa em reexame do conjunto fático-probatório, o que encontra óbice na Súmula 7 deste Tribunal" (STJ, AgRg no AREsp 646.393/RJ, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 11/03/2015).
+II. Na espécie, o acórdão do Tribunal de origem, à luz dos elementos fáticos, concluiu que a autora, ora recorrente, repetiu causa já decidida, reconhecendo, destarte, a configuração da coisa julgada material.
+III. Agravo Regimental improvido.
+(AgRg no REsp 1369424/PR, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 25/08/2015, DJe 04/09/2015)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
