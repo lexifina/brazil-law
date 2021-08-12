@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por FELIPE PIRES MALAQUIAS contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro (Habeas Corpus n. 0090124-29.2020.8.19.0000, de relatoria do Desembargador Francisco Jose de Asevedo).
+Os autos dão conta de que o paciente foi preso em flagrante, pela suposta prática dos crimes previstos no art. 157, caput, c/c o art. 14, II, e no art. 155, caput, todos do Código Penal;isso, porque, segundo narra a denúncia (e-STJ fls. 99/100):
+No dia 08 de novembro de 2019, por volta das 12h1Omin, no interior do estabelecimento comercial "Horto Caminho Verde", localizado na Rua Berna, bairro Vila Central, nesta Comarca, O DENUNCIADO, consciente e voluntariamente, tentou subtrair, para si ou para outrem, mediante grave ameaça, consistente no uso de palavras de ordem e em simular o porte de arma de fogo, coisa alheia móvel, qual seja, o aparelho celular de propriedade da vítima Mariana Eugênio da Conceição.
+Iniciada sua execução, o crime acima descrito não restou consumado por circunstâncias alheias à vontade do denunciado, pois a vítima notou que o acusado não estava armado e reagiu à ação, munindo-se de um facão para se defender, razão pela qual o denunciado empreendeu fuga do local.
+Nas mesmas circunstâncias de tempo e espaço, logo após a prática do delito acima descrito, O DENUNCIADO, consciente e voluntariamente, subtraiu, para si ou para outrem, coisa alheia móvel, qual seja, a bicicleta da marca POTY, de propriedade da vítima Mariana Eugênio da Conceição.
+Durante a realização da audiência de custódia, o Juízo de plantão indeferiu o pedido de liberdade provisória e converteu a prisão em flagrante em preventiva (e-STJ fls. 107/109) e, posteriormente, o Juízo da Vara Criminal da Comarca de Queimados/RJ indeferiu os pedidos de relaxamento da prisão (e-STJ fls. 97/98 e 48/49).
+Irresignada, a defesa impetrou habeas corpus no Tribunal de origem, que denegou a ordem nos termos do acórdão assim ementado (e-STJ fls. 55/58):
+HABEAS CORPUS.PACIENTE PRESO PREVENTIVAMENTE E DE- NUNCIADO PELOS CRIMES DE ROUBO TEN- TADO E FURTO, EM CONCURSO MATERIAL (ART. 157, CAPUT, C/C ART. 14, II, E ART. 155, CA- PUT, AMBOS NA FORMA DO ART. 69, TODOS DO CÓDIGO PENAL).ALEGADO CONSTRANGIMENTO ILEGAL POR EXCESSO DE PRAZO NA INSTRUÇÃO CRIMI- NAL, DIANTE DO ADIAMENTO DE DUAS AUDI- ÊNCIAS EM RAZÃO DA PANDEMIA DE COVID- 19, ALÉM DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PRISIONAL, BASEADO NA GRAVIDADE EM ABSTRATO DOS CRIMES IMPUTADOS, AUSÊNCIA DE REQUISITOS QUE AUTORIZAM A CUSTÓDIA CAUTELAR E DES- NECESSIDADE DA MEDIDA EXTREMA POR- QUE O PACIENTE POSSUI RESIDÊNCIA FIXA, SENDO-LHE FAVORÁVEL A RECOMENDAÇÃO N.º 62/2020 DO CONSELHO NACIONAL DE JUS- TIÇA, EM RAZÃO DA MENCIONADA PANDEMIA.
+PRETENSÃO AO RELAXAMENTO OU À REVOGAÇÃO DA PRISÃO PREVENTIVA, COM APLICAÇÃO DE UMA DAS MEDIDAS CAUTELARES PREVISTAS NO ART. 319 DO CÓDIGO DE PROCESSO PENAL, OU, AINDA, À CONCESSÃO DA PRISÃO DOMICILIAR QUE SE NEGA.
+DECISÃO DEVIDAMENTE FUNDAMENTADA, COM OBSERVÂNCIA AO ART. 93, IX, DA CONSTITUIÇÃO DA REPÚBLICA. PRISÃO FUNDADA NA GARANTIA DA ORDEM PÚBLICA, POR CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL E PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL, NA FORMA DO ART. 312 DO CÓDIGO DE PROCESSO PENAL.
+EXCESSO DE PRAZO NÃO CONFIGURADO. PROCESSO QUE SEGUE SEU TRÂMITE REGULAR. PACIENTE PRESO EM FLAGRANTE EM 08/11/2019. AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO REALIZADA EM 23/02/2021 COM OITIVA DAS TESTEMUNHAS E DESIGNADA NOVA DATA PARA AUDIÊNCIA EM CONTINU- AÇÃO. PRESTAÇÃO JURISDICIONAL QUE SE AVIZINHA. AUDIÊNCIAS ANTERIORES ADIA- DAS EM RAZÃO DA PANDEMIA DE COVID-19. DESÍDIA OU INÉRCIA DA AUTORIDADE IMPETRADA NÃO CONFIGURADAS.
+O EXCESSO DE PRAZO NA INSTRUÇÃO NÃO AUTORIZA A LIBERTAÇÃO DO PACIENTE. AUSÊNCIA DE PREVISÃO LEGAL. O ART.
+648, II, DO CÓDIGO DE PROCESSO PENAL, É RELATIVO À PRISÃO DECORRENTE DE CONDENAÇÃO. O EXCESSO DE PRAZO SÓ PODE SER SANADO COM A DETERMINAÇÃO PARA QUE A AUTORIDADE COATORA CONCLUA A INSTRUÇÃO, SENTENCIANDO, O QUE NÃO É O CASO DOS AUTOS.
+PACIENTE QUE, EM QUEIMADOS/RJ, TENTOU SUBTRAIR, PARA SI OU PARA OUTREM, MEDIANTE GRAVE AMEAÇA, CONSISTENTE NO USO DE PALAVRAS DE ORDEM EM SE DIZER INTEGRANTE DO TRÁFICO LOCAL E QUE IRIA LEVAR A VÍTIMA PARA A BOCA DE FUMO E EM SIMULAR O PORTE DE ARMA DE FOGO, O CELULAR DA OFENDIDA MARIANA, NÃO OBTENDO SUCESSO UMA VEZ QUE A VÍTIMA, AO PERCEBER QUE O ROUBADOR NÃO ESTAVA ARMADO, MUNIU-SE DE UM FACÃO, OCASIÃO EM QUE O ACUSADO CORREU EM FUGA, SUBTRAINDO, NO CAMINHO, A BICICLETA DA OFENDIDA.
+GRAVIDADE EM CONCRETO DAS CONDUTAS IMPUTADAS AO PACIENTE. NECESSIDADE DE SE ACAUTELAR O MEIO SOCIAL, A FIM DE EVITAR A REITERAÇÃO CRIMINOSA, O QUE COLOCARIA EM RISCO A ORDEM PÚBLICA. ACUSADO REINCIDENTE E COM INÚMERAS ANOTAÇÕES CRIMINAIS.
+PLEITO RELACIONADO À PANDEMIA DE CO- VID-19 QUE NÃO AUTORIZA A LIBERTAÇÃO INDISCRIMINADA DE PRESOS, SEM QUE SEJA PONDERADA A PERICULOSIDADE DOS AGEN- TES, EVIDENCIADA PELA GRAVIDADE CONCRETA DOS DELITOS PERQUIRIDOS. AUSÊN- CIA DE COMPROVAÇÃO DE QUE O PACIENTE ESTEJA DEBILITADO OU QUE NÃO POSSA SER ASSISTIDO NA UNIDADE DE SAÚDE DO SISTEMA PRISIONAL.
+RESIDÊNCIA FIXA QUE, POR SI SÓ, NÃO JUSTIFICA A CONCESSÃO DE LIBERDADE PROVISÓRIA, QUANDO EXISTEM OUTROS DADOS QUE EVIDENCIAM A NECESSIDADE DA CUSTÓDIA.
+MEDIDAS CAUTELARES INADEQUADAS, ANTE A GRAVIDADE DAS CONDUTAS IMPUTADAS AO PACIENTE E CUJA PENA MÁXIMA PREVISTA PARA O CRIME DE ROUBO É SUPERIOR A 04 ANOS.
+PRISÃO DOMICILIAR QUE É MEDIDA DE EXCEÇÃO E DEVE SER DEFERIDA À LUZ DAS PECULIARIDADES DO CASO CONCRETO, O QUE NÃO RESTOU ESTREME DE DÚVIDA. PA- CIENTE QUE NÃO PREENCHE QUAISQUER DAS HIPÓTESES PREVISTAS NO ART. 318 DO CÓDIGO DE PROCESSO PENAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+DENEGAÇÃO DA ORDEM.
+Nas razões do presente recurso, a Defensoria Pública do Estado do Rio de Janeiro alega excesso de prazo na formação da culpa, destacando que (e-STJ fls.79/80):
+ o recorrente  Foi preso em flagrante e recolhido ao ergástulo em data de 08 de novembro de 2019, ou seja: há mais de 01(um) ano e 04 (quatro) meses.
+A prisão foi convertida em preventiva na audiência de custódia.
+A audiência marcada para o dia 13 de agosto de 2020, não foi realizada.
+Nova data foi então aprazada: 09 de fevereiro de 2021 sendo redesignada para 23 de fevereiro de 2021.
+Mais uma vez adiada, houve remarcação para o longínquo dia 01 de julho de 2021.
+Como se pode observar, até o presente momento, embora esteja o paciente recolhido ao presídio, não foi sequer iniciada a fase de instrução criminal.
+Por isso, requer, inclusive liminarmente, a expedição de alvará de soltura em favor do recorrente(e- STJ fls. 78/85).
+Liminar indeferida às e-STJ fls. 145/148.
+Prestadas as informações, o Ministério Público Federal opinou pelo desprovimento do recurso(e-STJ fls.166/178).
+É o relatório.
+Decido.
+Pois bem. Informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 30/7/2021, de sentença condenatória em desfavor do ora recorrente, de modo que não há mais falar em excesso de prazo para a formação da culpa.
+Ante o exposto, com base no art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
