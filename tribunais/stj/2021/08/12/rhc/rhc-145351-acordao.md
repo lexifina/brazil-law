@@ -1,0 +1,64 @@
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+No caso, a prisão preventiva foi decretada como forma de acautelar a ordem pública, em razão do fundado receio de reiteração delitiva, uma vez que o recorrente, "beneficiado com prisão domiciliar nos autos do processo 0000821-64.2016.8.21.0072, em 21/02/2021 foi flagrado cometendo o crime de furto (processo 5001735-64.2021.8.21.0073), sendo que esta Magistrada, entendeu pela concessão da liberdade provisória com condições, dado tratar-se de delito cometido sem violência contra pessoa. Ocorre que, poucas horas após sua soltura, foi novamente preso, cometendo o mesmo delito de furto, além de responder a outros processos, sempre por delitos contra o patrimônio, inclusive com condenações transitadas em julgado por delitos da mesma natureza" (e-STJ fl. 53).
+3. Aliás, da folha de antecedentes do recorrente vê-se que uma das duas condenações anteriores foi pela prática de roubo qualificado e ao menos dez outros registros criminais tiveram a punibilidade extinta pela prescrição (e-STJ fls. 8/16).
+4. Vale destacar que o agente descumpriu a prisão domiciliar e as condições da liberdade provisória concedida no mesmo dia da prática do delito objeto deste recurso, evidenciando a insuficiência das medidas cautelares diversas, diversamente do que defendeu o parquet.
+5. Dessa forma, justifica-se a imposição da prisão preventiva do recorrente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais em curso são motivação idônea para a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+6. Recurso ordinário desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso ordinário nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de recurso ordinário em habeas corpus interposto por JAISSON DOS SANTOS SILVEIRA desafiando acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul.
+Depreende-se dos autos que o recorrente encontra-se em custódia preventiva pela prática, em tese, do delito de furto qualificado tentado.
+Impetrado prévio writ na origem, a ordem foi denegada (e-STJ fls. 52/58).
+Daí o presente recurso ordinário, no qual sustenta a defesa a ilegalidade da custódia preventiva ante a ausência dos requisitos autorizadores da prisão e a falta de fundamentação idônea do decreto prisional.
+Diante dessas considerações, pede a revogação da prisão preventiva, com ou sem a imposição de medidas cautelares diversas, nos termos do art. 319 do Código de Processo Penal.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso para substituir a prisão por medidas cautelares diversas, entre elas o monitoramento eletrônico (e-STJ fls. 97/100).
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, estes foram os fundamentos invocados para a conversão da prisão em flagrante em preventiva, in verbis (e-STJ fls. 53/54):
+Trata-se de representação da autoridade policial que pugnou pela decretação da prisão preventiva de JAISSON DOS SANTOS SILVEIRA, a quem foi imputada a prática do delito de furto qualificado.
+Segundo consta do expediente, o representado, poucas horas após ser solto no processo 5001730-42.2021.8.21.0073, foi novamente flagrado cometendo delito contra o patrimônio.
+O flagrante foi homologado, a audiência de custódia dispensada e as partes (MP e Defesa) ouvidos no prazo de 08 horas, enquanto o MP manifestou-se pela conversão do flagrante em preventiva, enquanto a defesa pugnou pela liberdade do flagrado.
+É o breve relatório. DECIDO.
+Inicialmente, vale dizer que embora o delito cometido pelo flagrado não se revista de violência ou grave ameaça à pessoa, tratando-se de furto qualificado, não há como deixar de considerar, no caso concreto, as condições pessoais do flagrado.
+O flagrado JAISSON, beneficiado com prisão domiciliar nos autos do processo 0000821-64.2016.8.21.0072, em 21/02/2021 foi flagrado cometendo o crime de furto (processo 5001735-64.2021.8.21.0073), sendo que esta Magistrada, entendeu pela concessão da liberdade provisória com condições, dado tratar-se de delito cometido sem violência contra pessoa. Ocorre que, poucas horas após sua soltura, foi novamente preso, cometendo o mesmo delito de furto, além de responder a outros processos, sempre por delitos contra o patrimônio, inclusive com condenações transitadas em julgado por delitos da mesma natureza.
+A reiteração criminosa do flagrado é evidente, demonstrando que não tem freios inibitórios e, caso solto, voltará a cometer delitos da mesma natureza, expondo a risco toda a população. A garantia da ordem pública encontra-se deveras ameaçada pela reiteração criminosa ora verificada e a soltura do flagrado, nessas condições, importaria em deboche ao trabalho policial e à própria população local, que reiteradamente é vitimada com o comportamento de JAISSON.
+Já decidiu o Tribunal de Justiça Gaúcho que situações como a dos autos devem ser coibidas e, não, incentivadas com o constante "prende e solta" de indivíduos que reiteradamente cometem delitos dessa natureza. Nesse sentido:  ..
+Assim, evidente o risco à ordem pública caso o flagrado seja novamente posto em liberdade, em especial diante do perfil do agente que, ao que tudo indica, voltará a delinquir tão logo seja liberado, sendo forçoso prever, inclusive, que solto poderá "evoluir" nas práticas criminosas.
+Por derradeiro e oportuno, as medidas cautelares previstas na Lei nº 12.403/2011, diversas da prisão preventiva, não se coadunam ao perfil do agente, bem como ao considerável risco de nova investida contra a ordem pública, conforme explicitado.
+III - Ante o exposto, HOMOLOGO a prisão em flagrante do autuado JAISSON DOS SANTOS SILVEIRA e, não sendo profícua outra medida cautelar diversa da prisão (Código de Processo Penal, art. 282, § 6º), CONVERTO-A em prisão preventiva, já que presentes os requisitos para a segregação cautelar do agente ( fumus comissi delicti e periculum libertatis), o que faço com intuito de garantir a ordem pública e por conveniência da instrução criminal, nos termos do art. 312 do CPP. (Grifei.)
+Como se vê, a prisão foi decretada como forma de acautelar a ordem pública, em razão do fundado receio de reiteração delitiva, uma vez que o recorrente, "beneficiado com prisão domiciliar nos autos do processo 0000821-64.2016.8.21.0072, em 21/02/2021 foi flagrado cometendo o crime de furto (processo 5001735-64.2021.8.21.0073), sendo que esta Magistrada, entendeu pela concessão da liberdade provisória com condições, dado tratar-se de delito cometido sem violência contra pessoa. Ocorre que, poucas horas após sua soltura, foi novamente preso, cometendo o mesmo delito de furto, além de responder a outros processos, sempre por delitos contra o patrimônio, inclusive com condenações transitadas em julgado por delitos da mesma natureza" (e-STJ fl. 53).
+Aliás, da folha de antecedentes do recorrente vê-se que uma das duas condenações anteriores foi pela prática de roubo qualificado e ao menos dez outros registros criminais tiveram a punibilidade extinta pela prescrição (e-STJ fls. 8/16).
+Vale destacar que o agente descumpriu a prisão domiciliar e as condições da liberdade provisória concedida no mesmo dia da prática do delito objeto deste recurso, evidenciando a insuficiência das medidas cautelares diversas, diversamente do que defendeu o parquet.
+Dessa forma, justifica-se a imposição da prisão preventiva do recorrente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais em curso são motivação idônea para a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+Nesse sentido os seguintes precedentes desta Corte:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+5. O Juízo de primeiro grau destacou que o recorrente registra em sua folha de antecedentes a prática de outros delitos, já havendo sido preso anteriormente, o que reforça a necessidade de sua prisão provisória.
+6. Configurada a dedicação aparentemente habitual ao cometimento de crimes e o descumprimento de medida cautelar imposta em oportunidade pretérita, a substituição pleiteada pela defesa não constitui instrumento eficaz para obstar a reiteração delitiva, o que se mostra atingível apenas mediante a custódia preventiva do réu.
+7. Recurso não provido.
+(RHC 76.929/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. PRECEDENTES. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, IMPEDIR/DIFICULTAR A REGENERAÇÃO NATURAL DE VEGETAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. JUSTIFICATIVA IDÔNEA. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As circunstâncias do flagrante indicam atuação intensiva no tráfico de drogas, em razão da quantidade de arbustos plantados para comercialização (25 mil pés de maconha), bem como a ousadia do paciente, que, segundo a acusação, cultivava a droga em área de preservação ambiental permanente. Além do entorpecente, foram apreendidas armas e munições. Ademais, há risco concreto de reiteração criminosa, diante dos maus antecedentes e da reincidência do acusado.
+ ..
+5. Habeas Corpus não conhecido.
+(HC 389.098/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/05/2017, DJe 31/05/2017, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ESTELIONATO, EXTORSÃO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA DEVIDAMENTE JUSTIFICADA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. RISCO CONCRETO DE REITERAÇÃO CRIMINOSA. EXCESSO DE PRAZO. INOCORRÊNCIA. AÇÃO PENAL COMPLEXA. DIVERSOS RÉUS. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS. IMPULSO REGULAR PELO MAGISTRADO CONDUTOR DO FEITO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Na hipótese, havendo prova da materialidade do delito e indícios de autoria, justifica-se a prisão preventiva para garantia da ordem pública. A gravidade concreta das condutas imputadas e o modus operandi revelam articulada organização voltada para a prática de ilícitos contra o patrimônio. O paciente responde a 18 ações penais por crimes contra o patrimônio, cometidos em diversas comarcas do estado, havendo fortes elementos, portanto, de que o acusado fazia do crime um meio de vida.
+4. Nos termos da jurisprudência desta Corte, a existência de ações penais em curso, ainda que sem o trânsito em julgado, pode autorizar a prisão preventiva para garantia da ordem pública, à luz das peculiaridades do caso concreto, consubstanciando forte indicativo de dedicação à atividades criminosas.
+ ..
+8. Habeas corpus não conhecido.
+(HC 364.847/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2016, DJe 27/10/2016, grifei.)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
