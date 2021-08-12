@@ -1,0 +1,15 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por MAURÍCIO FARIA contra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 482):
+COMPRA E VENDA. Vício Redibitório. Ação de indenização por danos morais e materiais. Sentença de parcial procedência. Preliminares de carência de ação e ilegitimidade passiva afastadas. Mérito. Relação de consumo. Veículo que apresentou vícios redibitórios. Provas que demonstram que a fabricante tomou todas as medidas que estavam ao seu alcance para sanar os vícios apresentados pelo veículo. Laudo pericial que constatou o reparo dos vícios apontados. Rescisão do contrato e restituição dos valores dispendidos incabíveis. Danos morais não caracterizados. Não se verifica conduta ilícita das rés que tenha atingido a esfera da dignidade do autor. Inversão do ônus da sucumbência. Sentença reformada. RECURSO DAS RÉS PROVIDOS. RECURSO DO AUTOR NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 505-509).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração aos arts. 11, 371; 489, I e II e §1º, IV, V e VI; e 1022, I e II, do CPC; 12; 13, 14 e 18, §1º, II do CDC. Afirma que os embargos de declaração opostos objetivaram sanar vícios e prequestionar a matéria, devendo ser afastada a multa aplicada, prevista noart.1026, §2º do CPC.Assevera que o acórdão se omitiu na apreciação de todo o conjunto probatório constante nos autos que comprovam que os vícios não foram sanados no prazo legal, prova documental não impugnada pelos recorridos juntada às fls. 38/49, 160/161, 185/190, 354, 357/359, 502/504; 1026, §2º do CPC. Aduz que(e-STJ fl. 526):
+Portanto, sendo incontroverso os atendimentos pelas recorridas atinentes aos vícios do veículo relatados na inicial ocorreram em dez oportunidades no período de 15.10.2014 a 24.06.2016, resta claro que o prazo legal de 30 dias não foi cumprido pelos recorridos, sendo, portanto, aplicável o artigo 18, §1º, II do Código de Defesa do Consumidor.
+Aduz que seu objetivo é que esta Corte analise se o direito previsto no artigo 18, §1º, II, do Código de Defesa do Consumidor e defina sua aplicação aos fatos incontroversos consignados nas decisões, bem como se os fatos incontroversos são hábeis a produzir ofensa moral que a lei qualifique como tal.
+Foram apresentadas contrarrazões (e-STJ fls. 533-550 e 552-557).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 558-563), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial e para melhor análise da controvérsia, converto o presente agravo em recurso especial.
+Ante o exposto dou provimento ao agravo, determinando sua conversão em recurso especial.
+Após a regularização do novo registro, retornem os autos conclusos para julgamento.
+Intimem-se.
