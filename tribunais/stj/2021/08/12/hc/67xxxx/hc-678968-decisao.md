@@ -1,0 +1,57 @@
+DECISÃO
+FERNANDA HAYDEE SILVA LIMA DE MORAES, pacienteneste habeas corpus, alegasofrer constrangimento ilegal em seu direito a locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502198-33.2020.8.26.0616.
+Depreende-se dos autos que a paciente foi condenadaà pena de 5 anos de reclusão, no regime inicial fechado, mais multa, pela prática do crime previstono art. 33, caput, da Lei n. 11.343/2006.
+Nas razões deste writ, a defesa postula, resumidamente, a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, pois aré é primária, não possui maus antecedentes, tampouco se dedicaa atividades ilícitas ou integraorganização criminosa.
+A liminar foi indeferida.
+Instado a se manifesta, oMinistério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+I. A minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006
+A Corte estadual assim fundamentou a impossibilidade de incidência do redutor em questão, verbis (fl. 348, destaquei):
+Na derradeira, realmente a apelante não faz jus à aplicação do benefício previsto no §4º, do artigo 33, da Lei nº 11.343/06, posto que, repita-se, a grande quantidade de drogas apreendidas é seguro indicativo de que ela se dedica às atividades criminosas, ou seja, é traficante.
+Com efeito, para a aplicação da minorante em comento, são exigidos, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa e que não se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "A mens legis da causa de diminuição de pena seria alcançar os condenados neófitos na infausta prática delituosa, configurada pela pequena quantidade de droga apreendida, e serem eles possuidores dos requisitos necessários estabelecidos no art. 33, § 4º, da Lei nº 11.343/06." (AgRg no REsp n. 1.389.632/RS, Rel. Ministro Moura Ribeiro, 5ª T, DJe 14/4/2014).
+Nesse contexto, saliento o entendimento segundo o qual a apreensão de grande quantidade de drogas, a depender das peculiaridades do caso concreto, é hábil a denotar a dedicação do acusado a atividades criminosas e, consequentemente, a impedir a aplicação da causa especial de diminuição de pena, prevista no § 4º do art. 33 da Lei n. 11.343/2006, porque indica maior envolvimento do agente com o mundo das drogas. Exemplificativamente: STJ, AgRg no AREsp n. 359.220/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 17/9/2013; STF, HC n. 111.666/MG, Rel. Ministro Luiz Fux, DJe 23/5/2012.
+Com efeito, consoante afirmou a Corte estadual, parece compatível concluir que se dedica a atividades criminosas acusadaapreendido com quase2kg de maconha.
+Faço lembrar que, segundo entendimento consolidado no Supremo Tribunal Federal, "A dosimetria da pena é matéria sujeita a certa discricionariedade judicial. O Código Penal não estabelece rígidos esquemas matemáticos ou regras absolutamente objetivas para a fixação da pena. Cabe às instâncias ordinárias, mais próximas dos fatos e das provas, fixar as penas e às Cortes Superiores, em grau recursal, o controle da legalidade e da constitucionalidade dos critérios empregados, bem como a correção de eventuais discrepâncias, se gritantes ou arbitrárias" (HC n. 122.184/PE, Rel. Ministra Rosa Weber, 1ª T., DJe 5/3/2015), situação que entendo devidamente caracterizada nos autos.
+II. Regime inicial e substituição da pena
+Quanto ao regime inicial de cumprimento da sanção reclusiva, a Corte estadual preservou o regime fechado com base nos argumentos seguintes (fls. 348-352):
+O regime prisional inicial fechado foi fixado com absoluto acerto pela gravidade do crime, de catastróficas consequências àsaúde pública, e responsável, também, pela desagregação familiar e social.
+O crime de tráfico de entorpecentes privilegiado continua sendo grave, aliás, um dos mais graves dentre os elencados no Código Penal e em Leis Especiais.
+Logo, soa, no mínimo, incongruente a fixação de regime diverso do fechado para o crime de tráfico de drogas.
+Há, como é de sabença, crimes graves, mas que não são tidos como hediondos, como, por exemplo, o de roubo agravado, o de homicídio simples, dentre outros. Mesmo o tráfico de drogas, considerado o § 4º, do artigo 33 da respectiva Lei Especial, é, sem dúvida, crime grave.
+Mas há os considerados hediondos.
+Hediondo quer significar horrendo, gravíssimo, repulsivo, absolutamente intolerável.
+Ora, sendo assim, como aplicar-se para um crime hediondo, como o tráfico de entorpecentes, regime que não o inicial fechado
+O traficante, perante a lei penal tal como está em vigor, é tido como um pária da sociedade, que destrói, não só a saúdedas pessoas, especialmente a dos jovens, deixando muitos deles incapacitados para estudar ou mesmo trabalhar, pois é sabido que a cocaína e o "crack", por exemplo, além de causarem dependência, destroem os neurônios, como ainda arrasam os patrimônios das famílias, com gastos desmesurados com tratamentos e internações, e o que é pior: com mínimas chances de recuperação.
+Bem porisso que se trata de crime hediondo.
+A sociedade não tolera o traficante, não podendo o Poder Judiciário fazer ouvidos moucos ao clamor social.
+O legislador, com a edição da Lei nº 11.343/06, passou a punir o tráfico de forma mais severa exatamente porque o Poder Legislativo percebeu, sentiu que o tecido social estava se esgarçando cada vez mais e que os valores deveriam ser preservados.
+Uma sociedade repleta de viciados e dependentes é uma sociedade que caminha a passos largos para sua própria destruição com o prejuízo de todos, menos dos traficantes que, com o dinheiro e patrimônio amealhados de forma criminosa, poderão deixar o País e mudarem-se para outros lugares, onde, com certeza, passarão a destroçar outras sociedades, outrasinúmeras famílias.
+Em suma, a sociedade e o Brasil como um todo é o que menos os preocupa.
+O Poder Judiciário tem que, igualmente, dar o exemplo, tal como procedeu o Legislativo.
+Bem porisso que a substituição por restritivas de direito é absolutamente inadmissível.
+Como aplicar ao traficante, por exemplo, a prestação de serviços à comunidade se ele, exatamente, não presta serviço social algum. Ao contrário, só destrói a sociedade em que elevive!
+O tráfico de entorpecentes, por se tratar de crime equiparado aos hediondos, não admite a pretendida substituição. Tanto é que a lei penal até previa o regime inicial fechado, numa demonstração de que se trata de crime gravíssimo.
+Mas, mesmo que, em alguns casos, possa não ser mais considerado hediondo, ainda assim o crime de tráfico é sempre muito grave, comportando, dessarte, o regime inicial fechado, não sendo admitida a substituição de pena, mesmo nos casos de aplicação do § 4º, do artigo 33 da Lei de Drogas. Em liberdade,ou mesmo em regime prisional mais ameno, especialmente o aberto, óbvio que o agente irá continuar exercendo o nefando comércio. Nem a mais ingênua das pessoas iria acreditar no contrário!
+Imperioso salientar que, por ocasião do julgamento do HC n. 111.840/ES, realizado em sessão extraordinária do dia 27/6/2012, o Pleno do Supremo Tribunal Federal, por maioria de votos, declarou, incidentalmente, a inconstitucionalidade do art. 2º, § 1º, da Lei n. 8.072/1990, com a nova redação dada pela Lei n. 11.464/2007, afastando, assim, a obrigatoriedade de imposição do regime inicial fechado para os condenados pela prática de crimes hediondos e de outros a eles equiparados.
+Dessa forma, reconhecida a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990,a escolha do regime inicial de cumprimento de pena deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto(como, por exemplo, a quantidade e a natureza de drogas apreendidas), para que, então, seja determinado o regime carcerário que, à luz do disposto no art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n. 11.343/2006 - se mostre o mais adequado para a prevenção e a repressão do delito perpetrado.
+Na espécie, verifico que as instâsncias ordinárias entenderam devida a imposição do regime inicial fechado, com base na gravidade abstrata do delito e em sua hediondez. Como visto, não foi citada um única linha sequer em que se mencionasse as nuanças do caso concreto ou a quantidade de drogas apreendida.
+Ou seja, não se apontounenhum elemento dos autos que, efetivamente, comprovasse a real exigência de fixação do modo inicialmente mais gravoso para o cumprimento da pena.A justificativa deu-se, como visto, em fundamentos não idôneos para a imposição de regime inicial mais gravoso, consoante disposto nos §§ 2º e 3º do art. 33 do Código Penal.
+Caracterizada encontra-se, pois, a violação do art. 33, § 2º, "b", do Código Penal, consoante dispõem as Súmulas n. 718 e 719 do STF, respectivamente:
+A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Nesse sentido, confiram-se os seguintes julgados desta Corte de Justiça,mutatis mutandis:
+ ..
+1. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+2. O Tribunal de origem apenas menciona a gravidade abstrata do crime de roubo majorado, sem citar nenhum dado concreto que evidencie a maior reprovabilidade da conduta. Assim, os elementos apresentados não se revestem da devida idoneidade para sustentar a fixação do regime mais gravoso do que o permitido em razão da sanção aplicada.
+ ..
+(HC n. 376.122/SP,Rel. MinistroRogerio Schietti, 6ª T., DJe 7/4/2017)
+ ..
+5. Os fundamentos utilizados no decreto condenatório não constituem motivação suficiente para justificar a imposição de regime prisional mais gravoso do que o indicado pela quantidade de pena imposta à agente (art. 33, §§ 2º e 3º, do Código Penal), nos termos da Súmula 440 desta Corte. Tratando-se de ré primária, cujas circunstâncias judiciais foram favoravelmente valoradas, condenada à pena de 5 anos e 4 meses de reclusão, deve a reprimenda ser cumprida em regime semiaberto.
+ ..
+(HC n. 449.410/SP, Rel. MinistroRibeiro Dantas, 5ª T., DJe 1º/8/2018)
+Entendo, assim, que o regime semiaberto é o mais adequado ao caso.
+III. Dispositivo
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ,concedo parcialmente a ordem, tão somente para fixar o regime semiabertopara o início de cumprimento de pena relativa ao tráfico de drogas.
+Comunique-se, com urgência, o inteiro teor dessa decisão ao Tribunal de Justiça estadual e ao Juízo de primeiro grau, para as providências cabíveis.
+Publique-se e intimem-se.
