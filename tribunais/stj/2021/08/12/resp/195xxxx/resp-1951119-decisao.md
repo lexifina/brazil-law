@@ -1,0 +1,35 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto porI LOCAÇÕES DE VEÍCULOS LTDA, contra acórdão prolatado, por unanimidade, pelo Tribunal Regional Federal da 5ª Região, em julgamento de apelação, assim ementado (fl. 194e):
+PROCESSUAL CIVIL E TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCLUSÃO DO PIS E DACOFINS NA BASE DE CÁLCULO DO IRPJ E CSLL CÁLCULADOS SOB A FORMA PRESUMIDA. AUSENTE DIREITO LÍQUIDO E CERTO. MANUTENÇÃO DA TRIBUTAÇÃO. RECURSO DOPARTICULAR IMPROVIDO.
+1."As bases de cálculo do IRPJ e da CSLL apurados pelo lucro presumido têm por parâmetro a aplicação de determinado percentual sobre a "receita bruta" e não sobre a "receita líquida". Quisera o contribuinte deduzir os tributos pagos (tal como ocorre no ICMS), deveria ter feito a opção pelo regime de tributação com base no lucro real, onde tal é possível, a teor do art. 41, da Lei n. 8.981/95 e art. 344 do RIR/99(Decreto n. 3.000/99)" REsp n. 1.312.024, Rel. Min. MAURO CAMPBELL MARQUES, DJE (STJ,2. T.07/05/2013).
+2. Ao reverso do que defende a impetrante, não se aplica ao caso em apreço a tese firmada pelo Supremo Tribunal Federal no julgamento do RE 574.706/PR (STF, Tribunal Pleno, Rel. Min. Cármen Lúcia, j.:15/03/2017), uma vez não ter sido analisado no citado paradigma a pretensão deduzida nos presentes autos. (exclusão do ISS no cálculo do IRPJ e CSLL, sob o lucro presumido).
+3. Caso em que se afigura impositiva a manutenção da sentença denegatória, de modo a manter hígida a inclusão do PIS e da COFINS no cálculo do IRPJ e da CSLL, apurados sob o lucro presumido.4. Apelação improvida. Sem condenação em honorários recursais sucumbenciais (art. 25 da Lei12.016/2009).
+Opostos embargos de declaração, foram rejeitados(fls. 231/233e).
+Com amparo no art. 105, III, a, da Constituição da República, a Recorrente defende, em síntese, o direito de "apurar e recolher o IRPJ e CSLL, na modalidade do lucro presumido, sem a inclusão dos valores de PIS e COFINS na Receita Bruta utilizada como base de cálculo" (fl. 261e).
+Com contrarrazões, o recurso foi admitido.
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (fls. 409/412e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+O recurso especial não pode ser conhecido por ausência de indicação do dispositivo de lei federal violado.
+Em consonância com o entendimento desta Corte, nos casos em que a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se ao recurso especial, por analogia, o entendimento da Súmula 284, do Colendo Supremo Tribunal Federal, in verbis: É inadmissível o recurso extraordinário, quando a deficiência na fundamentação não permitir a exata compreensão da controvérsia.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENERGIA ELÉTRICA. ALEGAÇÕES GENÉRICAS DE VIOLAÇÃO AOS DISPOSITIVOS LEGAIS. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. AÇÃO DE COBRANÇA. DÉBITO DE TERCEIRO. OBRIGAÇÃO DE NATUREZA PESSOAL. RESPONSABILIDADE DO CONSUMIDOR QUE EFETIVAMENTE UTILIZOU O SERVIÇO.
+1. O recurso especial não pode ser conhecido no tocante à alegada ofensa à Resolução ANEEL 456/00. Isso porque o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+2. A mera indicação dos dispositivos legais tidos por violados, sem que haja demonstração clara e objetiva de como o acórdão recorrido teria malferido a legislação federal, não enseja a abertura da via especial, devendo a parte recorrente demonstrar os motivos de sua insurgência, o que não ocorreu no caso em exame. Hipótese em que incide a Súmula 284/STF, por deficiência na fundamentação.
+(..)
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 401.883/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/02/2014, DJe 18/02/2014).
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. ACÓRDÃO ASSENTADO EM FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL. NÃO COMPROVAÇÃO DE QUE FOI INTERPOSTO RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.
+(..)
+3. No que tange à apontada violação do art. 292 do Código de Processo Civil, a insurgente restringe-se a alegar genericamente ofensa à citada norma sem, contudo, demonstrar de forma clara e fundamentada como o aresto recorrido teria violado a legislação federal apontada.
+4. Agravo Regimental não provido.
+(AgRg no AREsp 441.462/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/02/2014, DJe 07/03/2014).
+Por fim, no que tange aos honorários advocatícios, da conjugação dos enunciados administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos, quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais, em favor do patrono da parte recorrida, está adstrita às hipóteses de não conhecimento ou improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/15), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Posto isso, com fundamento no art. 932, III, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, NÃO CONHEÇO doRecurso Especial.
+Publique-se e intimem-se.
