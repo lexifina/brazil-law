@@ -1,0 +1,30 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido liminar, ajuizada por Paulo Machado da Costa Filho contra ato do Tribunal de Justiça do Estado do Rio Grande do Sul que indeferiu a liberação de valores provenientes de precatório, tendo, supostamente, desrespeitando a autoridade do Supremo Tribunal Federal e o julgado nas ADI nºs 4357/DF e 4425/DF.
+    O reclamante afirma que o ato reclamado teria contrariado “os dispositivos das ADIN’s 4357/DF e 4425-QO que anularam o Regime Especial de pagamento de precatórios imposto pela EC 62/2099, com modulação dos efeitos da decisão”.
+    Aduz, para tanto, que
+     “[o] regime especial incluso pela Emenda Constitucional nº 62, através da nova redação do Art. 97 da ADCT quedou-se por inconstitucional. Porém, devido à modulação de efeitos, teve sobrevida por cinco exercícios, findados em 31/12/2020”
+    Defende, por fim, que
+     “[e]ventuais alterações legislativas posteriores, ainda que por Emenda Constitucional, não tem o condão de ferir a coisa julgada, salvaguarda ins-culpida no Art. 5º, XXXVI, sendo cláusula pétrea do nosso ordenamento jurídico. Assunto já abordado pelas ADIN’s em tela”.
+    Requer que “os valores referentes aos precatórios dos autores sejam imediatamente liberados para levantamento”.
+    É o relatório. Decido.
+    De início, registro que a modulação dos efeitos da declaração de inconstitucionalidade parcial da EC nº 62/2009, nos autos das ADI nº 4.357/DF e 4.425/DF, pretendeu protrair, em 5 (cinco) exercícios financeiros a partir de 1º/1/2016, a repristinação de sistemática constitucional de pagamento de precatórios anteriormente vigente, no qual não havia vinculação de percentual mínimo de receita corrente líquida do ente devedor (com o objetivo de quitar o saldo de precatórios) nem a instituição de sanções no caso de descumprimento dessa vinculação.
+    Ocorre que sobrevieram as Emendas Constitucionais nº 94/2016, nº 99/2017 e nº 109/2021, estando vigente a nova redação dada ao art. 101 do ADCT, que institui a data de 31/12/2029 como termo final para que cada ente quite seus “débitos vencidos e os que vencerão dentro desse período”, determinando que seja depositado mensalmente
+    “[...] 1/12 (um doze avos) do valor calculado percentualmente sobre suas receitas correntes líquidas apuradas no segundo mês anterior ao mês de pagamento, em percentual suficiente para a quitação de seus débitos e, ainda que variável, nunca inferior, em cada exercício, ao percentual praticado na data da entrada em vigor do regime especial a que se refere este artigo.” (grifo nosso)
+    Resta, portanto, superada a controvérsia acerca da aplicação da EC nº 62/2009, objeto das ADI nº 4.357 e nº 4.425/DF, ante a superveniência de ato proveniente do Poder Constituinte Derivado Reformador, com a implantação de nova sistemática de pagamento de precatórios.
+    Com efeito, vê-se que o ato reclamado assim dispôs:
+    “Não obstante os termos da manifestação do Evento 05, indefiro o pedido para liberação imediata de valores em razão do julgamento das ADINS 4375 e 4425, em face do estabelecido pelas Emendas Constitucionais 94/2016, 99/2017 e 109/2021.
+    Assim, aguarde-se o pagamento do precatório pela ordem cronológica de apresentação” (edoc. 8 e 9).
+    Diante deste contexto, verifico que não há aderência estrita entre o ato reclamado e as decisões desta Suprema Corte indicadas como paradigmas aptos a instaurar, em sede reclamatória, o exercício da jurisdição pelo Supremo Tribunal Federal, uma vez que invocado o regime de pagamentos de precatórios implantado pelas Emendas Constitucionais nº 94/2016, nº 99/2017 e nº 109/2021, tema que extrapola o objeto das ADI nºs 4357/DF e 4425/DF.
+    A competência originária desta Suprema Corte se submete a regime de direito estrito, estando fixada, em numerus clausus, no rol do artigo 102, inciso I, da Constituição Federal (vide Pet nº 1.738/MG-AgR, Relator o Ministro Celso de Mello, Tribunal Pleno, DJ de 1º/9/99), exigindo-se, para conhecimento da reclamação a aderência estrita do objeto do ato reclamado ao conteúdo do paradigma. Nesse sentido:
+    “(...) INADMISSIBILIDADE DA RECLAMAÇÃO PELO FATO DE O ACÓRDÃO ORA IMPUGNADO NÃO SE AJUSTAR, COM EXATIDÃO E PERTINÊNCIA, AO PARADIGMA DE CONFRONTO INVOCADO PELA PARTE RECLAMANTE – PRECEDENTES – RECLAMAÇÃO NÃO CONHECIDA – INTERPOSIÇÃO DE RECURSO DE AGRAVO – PARECER DA PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO DO RECURSO – RECURSO DE AGRAVO A QUE SE NEGA PROVIMENTO” (Rcl nº 16.492/SP-AgR, Relator o Ministro Celso de Mello, Segunda Turma, DJe de 6/11/14).
+    “Agravo regimental na reclamação. Ausência de identidade de temas entre o ato reclamado e a ADI nº 3.460/DF. Reclamação como sucedâneo de recurso. Agravo regimental não provido. 1. Deve haver aderência estrita do objeto do ato reclamado ao conteúdo da decisão paradigmática do STF para que seja admitido o manejo da reclamatória constitucional. 2. Agravo regimental não provido” (Rcl nº 11.463/DF-AgR, de minha relatoria, Primeira Turma, DJe de 13/2/15).
+    Ante o exposto, nego seguimento à reclamação, nos termos do artigo 21, § 1º, do RISTF.
+    Observo que a parte reclamante não cumpriu integralmente os requisitos da petição inicial, deixando de atribuir valor à causa (arts. 291 c/c art. 319, inciso V, do CPC/2015).
+    Deixo de determinar sua emenda (art. 321 do CPC) ante o indeferimento liminar da inicial. Entretanto, na eventualidade de interposição de recurso desta decisão, seu conhecimento fica condicionado ao saneamento dos defeitos juntamente com a peça recursal, oportunidade em se procederá à análise a correção do valor da causa e eventual juízo de adequação (CPC/2015, art. 292, §3º).
+    Considerando que o uso de meios processuais manifestamente inadmissíveis gera efeitos danosos à prestação jurisdicional, a parte reclamante fica também advertida, na hipótese de recurso, da possibilidade de aplicação ipso facto da multa processual prevista no art. 1.021, §4º, do CPC/2015.
+    Publique-se. Intime-se.
+    Brasília, 12 de agosto de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
