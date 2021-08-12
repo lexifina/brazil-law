@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos declaratórios opostos pelo Sindicato Nacional dos Auditores Fiscais da Receita Federal no Estado de São Paulo contra acórdão, assim ementado (fls. 1.720-1.726):
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. AUSÊNCIA. AÇÃO RESCISÓRIA NA ORIGEM. PROCEDÊNCIA. DESCONSTITUIÇÃO DO CAPÍTULO DA SENTENÇA QUE VERSA SOBRE A FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DISSÍDIO. AUSÊNCIA DE COTEJO. FUNDAMENTO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF.
+1. Caso em que a Primeira Seção do TRF 3ª Região julgou procedente ação rescisória ajuizada União Federal para desconstituir o capítulo da sentença que versa sobre a fixação dos honorários advocatícios e, prosseguindo no julgamento, em juízo rescisório, arbitrou a referida verba em R$ 2.000,00 (dois mil reais) para cada um dos substituídos (num total de 39): R$ 2.000,00 x 39 = R$ 78.000,00.
+2. O Tribunal de origem examinou as questões importantes para o deslinde da controvérsia, manifestando-se de maneira clara e fundamentada. Ou seja, a tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+3. O dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+4. Por fim, a demanda foi julgada ao fundamento de que, no caso dos autos, "não se está  ..  discutindo os critérios da aplicação dos honorários por equidade, porquanto tal providência pressuporia juízo de ordem subjetiva incompatível com a noção de violação a literal disposição de lei. Está-se, na verdade, corrigindo aplicação inexata de norma jurídica à hipótese concreta". 5. Todavia, o recorrente deixou de impugnar o referido fundamento apto, por si só, a manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não o impugnou. Incide, na espécie, o teor da Súmula 283/STF. 6. Agravo interno não provido.
+(AgInt no AREsp 1.304.771/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 10/3/2021)
+O embargante em suas razões argumenta houve, sim, violação do artigo 535 do CPC/1973, visto que "o Tribunal Regional Federal da 3ª Região, não obstante tenha invocado o entendimento vinculante dessa Corte, julgou equivocadamente procedente a ação rescisória, para desconstituir o capítulo que trata da condenação da Fazenda Pública, que está em observância ao recurso representativo da controvérsia, REsp 1.155.125/MG" (fl. 1.733).
+Requer, ao final, o acolhimento dos embargos declaratórios, a fim de que "o TRF da 3ª Região se manifeste quanto à impossibilidade de o magistrado, com base no § 4º do artigo do CPD/1973, aplicar o percentual de 10% de honorários advocatícios em desfavor da Fazenda Pública" (fl. 1.734).
+Decorreu o prazo para resposta (cf. certidão de fl. 1.741).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS.
+1. Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. Não há vício a ensejar esclarecimento, complemento ou eventual integração do que decidido no julgado, pois a tutela jurisdicional foi prestada de forma clara e fundamentada.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Na espécie, esclarece-se que o ora embargante desde a origem se insurge contra acórdão da Primeira Seção do TRF 3ª Região. que julgou procedente ação rescisória ajuizada União Federal para desconstituir o capítulo da sentença que versa sobre a fixação dos honorários advocatícios e, prosseguindo no julgamento, em juízo rescisório, arbitrou a referida verba em R$ 2.000,00 (dois mil reais) para cada um dos substituídos (num total de 39): R$ 2.000,00 x 39 = R$ 78.000,00.
+O acórdão embargado, às fls. 1.72-1,726, negou provimento ao agravo interno, nos seguintes termos:
+Da alegada violação do artigo 535 do CPC
+O recorrente em suas razões alega inicialmente que o acórdão recorrido não se manifestou quanto à impossibilidade de o magistrado aplicar o percentual de 10% (dez por cento) com fundamento nos critérios previstos no §3º do artigo 20 do Código de Processo Civil de 1973.
+Colaciona-se, por importante, parte da fundamentação do voto condutor:
+ ..
+Consoante jurisprudência desta Corte Superior, "o julgador não está obrigado a rebater, um a um, todos os argumentos invocados pelas partes quando, por outros meios que lhes sirvam de convicção, tenha encontrado motivação satisfatória para dirimir o litígio. As proposições poderão ou não ser explicitamente dissecadas pelo magistrado, que só estará obrigado a examinar a contenda nos limites da demanda, fundamentando o seu proceder de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto" (AgInt nos EDcl no REsp 1.722.410/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 01/12/2020).
+Acerca do dissídio jurisprudencial, em nova análise, constata-se que, de fato, o recurso não merece êxito, haja vista que não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do CPC/1973 e 255, § 1º do RISTJ, tendo em vista que não foi realizado o devido cotejo analítico, com a demonstração clara do dissídio entre os casos confrontados, identificando os trechos que os assemelhem, não se oferecendo, como bastante, a simples transcrição de ementas ou votos.
+No mais, o recorrente alega ofensa ao artigo 20, § 4º, do CPC/1973 e direciona a tese quanto à impossibilidade de o magistrado aplicar o percentual de 10% (dez por cento) com fundamento nos critérios previstos no §3º do artigo 20 do Código de Processo Civil de 1973.
+Todavia, a Corte de origem julgou a demanda ao fundamento de que, na hipótese dos autos, "não se está  ..  discutindo os critérios da aplicação dos honorários por equidade, porquanto tal providência pressuporia juízo de ordem subjetiva incompatível com a noção de violação a literal disposição de lei. Está-se, na verdade, corrigindo aplicação inexata de norma jurídica à hipótese concreta".
+Dessa forma, conforme já consignado na decisão agravada, o recorrente deixou de impugnar o referido fundamento do acórdão recorrido apto, por si sós, a manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou.
+A falta de impugnação específica aos fundamentos do acórdão recorrido; a argumentação dissociada; bem como alegação a dispositivos infraconstitucionais não prequestionados impedem o conhecimento do recurso. Incide, por analogia, os enunciados das Súmulas 283 e 284 do STF. A propósito:
+ ..
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
+Dessa forma, ao contrário do que sustenta o embargante, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Com efeito, "verificada a deficiência de fundamentação do agravo interno, com a aplicação do óbice contido na Súmula 182/STJ, fica prejudicado o exame dos demais argumentos elencados no recurso, seja no tocante ao prequestionamento da legislação federal impugnada, seja quanto à tese de mérito defendida no apelo nobre" (EDcl no AgInt no REsp 1.587.279/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 25/4/2017).
+Advirta-se, por fim, que eventual oposição de novos embargos de declaração sem argumentação plausível para o recurso, apenas para solicitar rejulgamento da controvérsia, pode ensejar a aplicação da multa prevista no artigo 1.026, § 2º, do CPC/2015.
+Ante o exposto, rejeito os embargos declaratório.
+É o voto.
