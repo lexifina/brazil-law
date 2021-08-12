@@ -1,0 +1,31 @@
+DECISÃO
+Vistos.
+Trata-se de Recurso Especial interposto por MARIA JOSÉ PAMPLONA DE OLIVEIRAcontra acórdão prolatado, por unanimidade, pela 19ª Câmara Cível do Tribunal de Justiça doEstado de Minas Gerais no julgamento de apelação, assim ementado (fls. 345e):
+APELAÇÃO CÍVEL. DIREITO ADMINISTRATIVO. SERVIDOR ESTADUAL. APOSENTADORIA. INCORPORAÇÃO DAS HORAS EXTRAS. ADICIONAL POR SERVIÇO EXTRAORDINÁRIO. ART. 201,§11 DA CF188. HABITUALIDADE. NATUREZA TRANSITÓRIA. IMPOSSIBILIDADE.
+- Nos termos do art. 7º da Lei Complementar Estadual n.06412002, os proventos da aposentadoria, por ocasião de sua concessão, corresponderão à soma do vencimento do cargo efetivo em que se der a aposentadoria, dos adicionais por tempo de serviço e das gratificações de caráter permanente, incorporáveis na forma da lei.
+- A despeito de ter sido percebida por longo período de tempo, a gratificação por horas extras não é permanente, existindo apenas enquanto o servidor labora em sobre jornada.
+- Não sendo incorporada ao salário do servidor, indevida a sua incidência sobre os proventos de aposentadoria.
+- Recurso desprovido.
+Opostos embargos de declaração, foram rejeitados (fls. 368/372e).
+Com amparo no art. 105, III, a, da Constituição da República,aponta-se ofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 1.022, I e II, do Código de Processo Civil - não houve manifestação quanto ao fato de que ocorreu a incidência de contribuição previdenciária sobre os adicionais de horas extras recebidos pela servidora de forma habitual e permanente, fazendo com que o adicional tivesse que ser incorporado aos proventos da Recorrente. Há contradição pois a pretensão formulada encontra amparo nos dispositivos constitucionais elencados na decisão recorrida; e
+Art. 1º, X, da Lei n. 9.717/98 - durante grande parte da sua vida laboral a Recorrente prestou serviços extraordinários, recebendo gratificação por serviços extraordinários, contudo esta gratificação não foi incorporada à sua aposentadoria.
+Comcontrarrazões (fls. 433/445e), o recurso foi inadmitido (fl. 447/449e).
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, a e c, e 255, I e III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida, bem como a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Sustenta a Recorrente haver omissão a ser sanada nos termos do art. 1.022, I, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e, iii) corrigir erro material.
+Ao prolatar o acórdão mediante o qual os embargos de declaração foram analisados, o tribunal de origem consignou (fls. 368/372e):
+Em análise acurada do acórdão embargado, não verifico a ocorrência de nenhum dos vícios de julgamento tendo sido analisado, de forma clara e precisa, a natureza jurídica da verba discutida nesses autos e a possibilidade de sua incorporação para fins de cálculo da aposentadoria do embargante:
+Feitas essas considerações, cabe analisar a natureza do adicional por serviço extraordinário (hora extra) cuja incorporação ora se pretende para fins de cálculo de aposentadoria.
+A meu ver, o adicional por serviço extraordinário é um benefício propter laborem, ou seja, é devido enquanto ocorre a prestação de serviços em horário superior àquele para o qual o servidor foi efetivamente contratado.
+O caráter temporário desta bonificação é induvidoso, tendo em vista que, o pagamento só é efetuado quando o empregado executa o trabalho em sobre jornada, de forma que se trata de mera compensação. O adicional será, portanto, imediatamente suprimido caso o servidor deixe de laborar em excesso de jornada.
+(..)
+Em se tratando, portanto, de um benefício de caráter transitório, e não permanente, como exige a lei, tem -se que incabível a sua incorporação à base de cálculo dos vencimentos da apelante, para fins de aposentadoria, nos exatos termos em que fora proferida a sentença. (fls. 313/314)
+No caso, assiste razão à Recorrente, porquanto há omissão no julgado, não suprida no julgamento dos embargos de declaração, uma vez que o tribunal de origem deixou de manifestar-se acerca das alegações da Recorrente, notadamente aseguinte:houve incidência de contribuição previdenciária sobre os adicionais de horas extras recebidos pela servidora de forma habitual e permanente, fazendo com que o adicional tivesse que ser incorporado aos proventos da Recorrente.
+Observo tratar-se de questão relevante, oportunamente suscitadae que, se acolhida, poderialevar o julgamento a um resultado diverso do proclamado. Ademais, a não apreciação das teses, à luz dos dispositivos constitucional e infraconstitucional indicados a tempo e modo, impede o acesso à instância extraordinária.
+Posto isso, com fundamento nos arts. 932, III e V, do Código de Processo Civil de 2015 e 34, XVIII, a e c, e 255, I e III, do RISTJ, DOU PROVIMENTO ao Recurso Especial para determinar o retorno dos autos ao tribunal a quo, a fim de que sejam supridas as omissões indicadas.
+Prejudicada a análise das demais questões trazidas no especial.
+Publique-se e intimem-se.
