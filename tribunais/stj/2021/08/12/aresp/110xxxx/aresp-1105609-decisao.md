@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 282e 284do STF e 7 do STJ (e-STJ fls. 523/525).
+O acórdão recorrido está assim ementado (e-STJ fls. 452/453):
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO. RECONVENÇÃO. IMPROCEDENTE. PLEITO AUTORAL PARCIALMENTE PROCEDENTE. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO DENTRO DOS MOLDES LEGAIS. COMPENSAÇÃO EFETIVADA. REITERAÇÃO DOS PEDIDOS. INEXISTÊNCIA DE FUNDAMENTOS CAPAZES DE SE SOBREPOR AO QUE RESTOU DECIDIDO.
+1. Considerando que foram devidamente observados os requisitos dispostos nos artigos 20 e 21, ambos do CPC e ,as particularidades do caso concreto, incluindo-se aí a improcedência da reconvenção e a parcial procedência dos pedidos autorais, a manutenção do montante arbitrado a titulo de verba advocatícia, bem como a compensação efetivada em primeiro grau, é medida que se impõe;
+2. Não trazendo o Recorrente nenhum elemento novo capaz de sustentar a pleiteada alteração da decisão fustigada, deve ser desprovido o recurso.
+Agravo Interno conhecido e desprovido. Decisão mantida.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 462/469).
+As razões do recurso especial (e-STJ fls. 473/491), fundamentadas no art. 105, III, alínea "a", da CF, versavam sobre afronta:
+(i) ao art. 535 do CPC/1973, porque (e-STJ fls. 480/481):
+Os "embargos declaratórios" ainda destacou que no item 2 do Agravo, afirmou-se que "a decisão agravada se limitou a manter a "compensação dos honorários" (cf. fls. 301-306), sem, contudo, enfrentar diretamente os argumentos (jurídicos) recursais descritos nas fls. 11-24 (itens 3 e 5.1)" (fl.315).
+Da mesma forma, asseverou-se que a decisão monocrática "não enfrentou os fundamentos contidos nas razões de fls. 11-16 (item 3)"- (fl. 317, letra "a").
+Também se afirmou, por ocasião do "Agravo", reafirmado nos "declaratórios", que o eminente Relator "não enfrentou os argumentos e pedidos condizentes à majoração dos honorários destacados nas fls. 21-24 (item 5.1) e fl. 29, letra "c", do Agravo de Instrumento interposto" (fl. 319, letra "b.1").
+Dessa forma, foi demonstrado que a Corte de origem não poderia ter adotado "as mesmas razões de decidir" daquelas expendidas às fls.293-308, sem, contudo, enfrentar diretamente os ponderosos argumentos conditos no "Agravo Interno", os quais trouxeram elementos novos (que não haviam sido apreciados alhures) capazes de sustentar a pleiteada alteração da decisão fustigada.
+ ..  Do mesmo modo, registrou-se, expressamente, ter a Corte omitido na apreciação das questões federais veiculadas no Agravo Interno, como por exemplo, aquelas consistentes nos dispositivos previstos nos arts. 2º, 128, 20, § 2º, 302, todos do Código de Processo Civil; art. 368, do Código Civil; e arts. 7º, IX, e 23, ambos da Lei 8.906/94.
+ ..  Noutras palavras, o acórdão de fls. 353-358 persistiu omisso acerca das questões suscitadas alhures e se limitou a repristinar os mesmos fundamentos utilizados no decísum embargado, sem, no entanto, repita-se, enfrentar expressamente o temas propostos.
+(ii) ao art. 7º, IX, da Lei n. 8.906/1994, uma vez que seria possível sustentação oral, considerando que (e-STJ fl. 483):
+ ..  a Lei 8.906/94 é uma lei especial, pois regula a atividade advocatícia, e, por ser o seu art. 7º, inciso IX, incompatível com dispositivos distintos contidos no Código de Processo Civil e/ou Regimento Interno do Tribunal, tem-se que deverá prevalecer perante eventual disposição em contrário ou omissão acerca da desnecessidade de intimação e/ou proibição da sustentação oral nos agravos.
+(iii) aos arts. 2º, 128 e 302 do CPC/1973, pois (e-STJ fls. 484/485):
+Na própria petição de Agravo de Instrumento alhures interposto pelos Recorridos (cf. AI nº 394152-24.2012.8.09.0000-Anexo 4- fls. 214-221), os mesmos reconheceram que devem aos Recorrentes, advogados da empresa Royal Tour Viagens e Promoções Turísticas Ltda., 12% sobre o valor da causa a título de honorários advocatícios
+ ..  Desse modo, tendo o magistrado de primeira instância, em decisão mantida pelo Tribunal a quo, trazido à baila, ex officio, discussão a respeito do valor dos honorários advocatícios devidos aos Recorrentes, os quais não foram impugnados, modificando o pleito dos Agravantes/Recorrentes, sem a necessária provocação dos Recorridos(que sequer tinham interesse no assunto, dado que não impugnaram e concordaram com o valor), violou-se, claramente, os arts. 2º, 128, e 302,todos do Código de Processo Civil; razão porque há de ser reformada a decisão recorrida, porquanto extra petita, restabelecendo-se, via de consequência, a verba advocatícia pleiteada pelos Recorrentes em 12% sobre o valor atualizado da causa.
+(iv) aos arts. 20, § 3º, e 125, I, do CPC/1973e aos (e-STJ fl. 486):
+ ..  princípios da igualdade das partes ou da paridade de tratamento, da proporcionalidade e da razoabilidade, na medida em que manteve para os Recorridos os honorários fixados com base no art. 20, § 3º, do Código de Processo Civil, no montante de 12% sobre o valor da causa (R$120.000,00) atualizado; enquanto para os Recorrentes (vencedores na ação principal), o valor correspondeu àquele fixado em sede de Reconvenção (míseros R$ 1.000,00).
+ ..  Da mesma forma, ao fixar novos honorários(R$ 1.000,00), em completa dissonância com aqueles estabelecidos anteriormente (12% sobre o valor da causa), a decisão recorrida promoveu verdadeiro reformatio in pejus (indireta) contra os Agravantes/Recorrentes, eis que sobre o tema não houve interposição de apelo pelos Agravados/Recorridos; apenas os Recorrentes interpuseram recurso sobre a matéria; sendo, pois, defeso ao juiz, em sede de "cumprimento de sentença" (execução), agravar sua situação.
+(v) aos arts. 21 do CPC/1973, 386 do CC/2002 e 23 da Lei n. 8.906/1994, pois (e-STJ fls. 488/489):
+ ..  manteve-se a determinação da compensação de honorários fixados em duas decisões distintas, uma proferida na fase cognitiva (sentença) e outra (decisão) na fase incidental ("reconvenção")1; o que não é possível, pois não há que se falar em compensação de duas verbas honorárias fixadas em decisões distintas, ante a ausência de sucumbência recíproca.
+No agravo (e-STJ fls. 530/538), afirmama presença de todos os requisitos de admissibilidade do especial.
+A agravada apresentou contraminuta (e-STJ fls. 546/558).
+É o relatório.
+Decido.
+Da omissão
+De início, no que se refere à suposta ofensa ao art. 1.022 do CPC/2015, a parterecorrente limitou-se a citar o dispositivo, sem demonstrar, de forma específica, em que consistiu a omissão cometida pelo Tribunal de origeme quais tesesnão foram enfrentadas.
+Com efeito, diante da deficiente fundamentação recursal que impede a exata compreensão da controvérsia, é inafastável a incidência da Súmula n. 284/STF. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. PRESTAÇÃO DE SERVIÇOS. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. ALEGAÇÃO GENÉRICA. SÚMULA Nº 284/STF. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DO DIREITO DE DEFESA. REEXAME. SÚMULA Nº 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. O recurso especial que indica violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, mas traz somente alegação genérica de negativa de prestação jurisdicional é deficiente em sua fundamentação, o que atrai o óbice da Súmula nº 284 do Supremo Tribunal Federal, aplicada por analogia.
+ ..
+5. Agravo interno não provido.
+(AgInt no AREsp 1.140.214/SP, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 9/11/2017, DJe 20/11/2017.)
+Da sustentação oral e do julgamentoextra petita
+Quanto à alegação de ofensa ao art. 7º, IX, da Lei n. 8.906/1994, poisa sustentação oral teria por base o Estatuto da Advocacia,e de afronta aos arts. 2º, 128 e 302 do CPC/1973, por ser o julgamento extra petita, não houve pronunciamento do Tribunala quo, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência, por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Da fixação dos honorários
+A Corte local assim decidiu (e-STJ fls. 442/448):
+Desta feita, adoto como razões de decidir aquelas expendidas quando do ato judicial recorrido, ocasião em que, de formaexauriente, tratou-se da hipótese do presente recurso. Naquela oportunidade foi asseverado:
+ .. O que se vê do compulsar o feito, na verdade, é a tentativa dos patronos receberem verba que não fazem jus, sendo legal a compensação realizada pelo Juiz singular, tal como determinado pelo STJ à ocasião do julgamento dos EmDcl no AgRg no AgI, ou seja, houve o reconhecimento do direito dos Agravantes ao recebimento dos honorários advocatícios devidos pela Autora, devendo o montante em comento ser fixado pelo Juízo deorigem ante a falta de elementos pela instância extraordinária para tanto, exatamente como realizado pelo Juiz a quo, o qual, possui a discricionariedade, bem como o livre convencimento motivado, dentro da razoabilidade e proporcionalidade, para, diante do juízo de equidade, arbitrar a verba patronal de acordo com seu entendimento.  ..
+Contudo, no recurso especial, apontando contrariedade aos arts. 20, § 3º, e 125, I, do CPC/1973, os recorrentes sustentam somente a aplicação dos princípios da igualdade das partes, da paridade de tratamento e da proporcionalidade.
+Verifica-se, portanto, que a parte não impugnou os fundamentos do acórdão recorrido, especialmente o de que o magistrado possui discricionariedade, baseando-se no livre convencimento motivado, para arbitrar a verba patronal,apresentando alegações dissociadas do que ficou decidido no aresto.
+Incidem, portanto, as Súmulas n. 283 e 284 do STF.
+Ademais, quanto àalegação de non reformatio in pejus, não houve pronunciamento do Tribunal a quo sobre essa questão, tampouco a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência, por falta de prequestionamento. Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF.
+Da compensação
+O Tribunal de origem assim decidiu (e-STJ fls. 442/447):
+Desta feita, adoto como razões de decidir aquelas expendidas quando do ato judicial recorrido, ocasião em que, de forma exauriente, tratou-se da hipótese do presente recurso. Naquela oportunidade foi asseverado:
+ .. Por tais considerações, pode-se ver que, agiu o Magistrado de primeiro grau dentro dos parâmetros legais ao efetivar a compensação dos honorários, pois, assim como a Autora foi vencida na improcedência da ação principal, igualmente o foi a Ré Royal Tour em sua peça reconvinte e, ao contrário do que leva a crer as razões deste recurso, não está sendo efetivada a compensação entre os honorários devidos pela Ré Fênix à Autora com a verba devida pela Autora a Ré Royal Tour.
+ ..  A doutrina, por seu turno, dispõe a respeito da sucumbência recíproca e quanto à compensação de honorários da seguinte forma:
+"Há sucumbência recíproca quando uma das partes não obteve tudo que o que o processo poderia lhe proporcionar. Se o autor pediu 100 e obteve 80, sucumbiu em 20, ao mesmo tempo em que o réu sucumbiu em 80.  ..
+ .. Dessarte, é plenamente viável realizar a compensação de honorários quando ambas as partes são vencidas e vencedoras, cada uma em sua proporção do que fora postulado, inexistindo qualquer óbice a sua realização.
+Proferida a sentença na vigência do CPC/1973, aplicável a jurisprudência desta Corte Superior, que admitia a compensaçãoquando recíproca a sucumbência. Assim, com a sucumbência recíproca, é possível a compensação de honorários advocatícios fixados na ação principal e na reconvenção. Nesse sentido:
+CIVIL E PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO INDICAÇÃO DOS VÍCIOS. SÚMULA 284/STF. VIOLAÇÃO DOS ARTS. 165 E 458, II, DO CPC. NÃO OCORRÊNCIA. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. HONORÁRIOS ADVOCATÍCIOS. AÇÃO E RECONVENÇÃO. COMPENSAÇÃO. POSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1.Ação ajuizada em 02/06/2011. Recurso especial interposto em 20/05/2015 e atribuído ao gabinete em 25/08/2016. Julgamento: CPC/73.
+2. O propósito recursal é definir: i) se há negativa de prestação jurisdicional; ii) se há violação da coisa julgada; iii) se é possível a compensação de honorários advocatícios fixados na ação e na reconvenção; iv) se há dissídio jurisprudencial.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts.165, 458, II, 535, do CPC.
+4. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Em interpretação do CPC/73 o STJ já decidiu que a compensação de honorários advocatícios é válida nas hipóteses em que configurada sucumbência recíproca.
+7. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+8. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1656180/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 21/11/2017, DJe 29/11/2017.)
+Ante o exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao especial.
+Publique-se e intimem-se.
