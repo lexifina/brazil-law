@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+CONSTITUCIONAL E FINANCEIRO. PRESCRIÇÃO QUINQUENAL, FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO FUNDAMENTAL E DEVALORIZAÇÃO DO MAGISTÉRIO - FUNDEF. CÁLCULO DO VMAA - VALORANUAL MÍNIMO POR ALUNO. COMPLEMENTAÇÃO DE VERBAS PELA UNIÃO.ART. 6º, § 1º, DA LEI 9.424/1996. DECRETO 2.264/1997. JUROS DE MORA.LEGITIMIDADE DE ASSOCIAÇÃO DE MUNICÍPIOS PARA PROPOR AÇÃO DEPROTESTO.
+1. Nos termos do art. 5º, XVII e XVIII, da Constituição Federal de 1988, todos,sem distinção de qualquer natureza, poderão associar-se para fins lícitos,com a criação de associações, que não sofrerão interferência estatal em seufuncionamento.
+2. No art. 59, XXI, a CF/1988 estabelece que as entidades associativas,quando expressamente autorizadas, têm legitimidade para representar seusfiliados judicial ou extrajudicialmente, sem diferenciações entre os filiados -se pessoas físicas, pessoas jurídicas, pessoas de direito público, ou dedireito privado.
+3. A associação legalmente constituída tem legitimidade, na condição desubstituta processual, para ajuizar ação na defesa dos interesses de seusassociados e não depende de autorização expressa ou da apresentação delistas de filiados.
+4. A prescrição do direito de pleitear ressarcimento dos valores devidos pelaUnião a título de complementação do FUNDEF, por se tratar de matéria dedireito financeiro, não tributário, baseia-se no Decreto-Lei 20.910/1932,que estabelece ser o prazo quinquenal.
+5. O piso para fixação do Valor Mínimo Anual por Aluno - VMAA éestipuladopelo § 1º do art. 6º da Lei 9.424/1996 e representa a média nacionaldescrita como a razão entre o total para o fundo e a matrícula total doensino fundamental no ano anterior, acrescida do total estimado de novasmatrículas, levando-se em conta os dados do país como um todo, não decada estado da federação isoladamente.
+6. A correção monetária deve ser aplicada desde quando devidos osrespectivos pagamentos, de acordo com os índices adotados pelo Manual deCálculos da Justiça Federal,  taxa Selic até junho de 2009, a partir dequando se utilizará o IPCA-E/IBGE.
+7. Em relação aos juros de mora, aplica-se, a partir da citação, a taxa Selicatéjunho/2009 (vigência da Lei 11.960/2009). Após essa data, devem serobservados os índices de variação mensal da poupança, nos termos da Lei11.960/2009, que deu nova redação ao art. 1º-F da Lei 9.494/1997, cujaaplicação é imediata, sem, contudo, retroagir a período anterior a suavigência.
+8. Nas causas em que não houver condenação ou vencida a Fazenda Pública,os honorários advocatícios deverão ser fixados mediante apreciaçãoequitativa do juiz (art. 20, § 3º, a, be c, e S 40, do CPC).
+9. Apelação da União e sua remessa oficial a que se dá parcial provimentopara determinar que os juros de mora sejam calculados com a observânciado art. 12-F da Lei 9.494/1997.
+10. Apelação do Município a que se dá provimento para afastar aprescrição do ano de 2005 e majorar os honorários para 5% sobre o valorda condenação.
+11. Remessa oficial do Municipio a que se dá parcial provimento paraafastar a prescrição do ano de 2005.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, aponta a parte recorrente, além da divergência jurisprudencial,violação dos seguintes dispositivos: a) art. 12 do Código de Processo Civil de 1973,sustentandoa ilegitimidade da associação de municípios; b) arts. 6º, § 3º, da Lei n. 9.424/96 e 3º do Decreto n. 20.910/32, aduzindo a impossibilidade de ser a prescrição contada anualmente.
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Cuida-se, na origem, de ação proposta pelo municípioora recorrido pleiteando a condenação da União ao pagamento dadiferença dos valores repassados a título de complementação para o FUNDEF em razão da fixação do Valor Mínimo Anual por Aluno (VMAA) estar aquém do previsto em lei.
+Primeiramente, no que diz respeito à tese de ilegitimidade da associação de municípios, a recorrente argumenta que a jurisprudência dominante está no sentido de que não é possível a atuação de associação em substituição a pessoas jurídicas de direito público.
+Acerca da questão, o voto vista fundamentou que, o texto constitucional, em seu art. 5º, XVII, não faz distinção em relação aos associados, se pessoas físicas ou jurídicas, de direito público ou privado, de forma que não seria razoável restringir a liberdade de associação (e-STJ fls. 573/574).
+Entretanto, acerca do fundamento do acórdão, a recorrente restou inerte em suas razões recursais. No ponto, o especial atrai a incidência da Súmula n. 283/STF.
+Exemplificativamente, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.IPI. CREDITAMENTO. ENERGIA ELÉTRICA. INSUMO NO PROCESSO INDUSTRIAL.VIOLAÇÃO DO ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. CORREÇÃO MONETÁRIA. TAXA SELIC. FUNDAMENTO INATACADO. SÚMULA 283/STF.
+1. Não procede a suscitada contrariedade ao art. 535, II, do CPC/1973, tendo em vista que o Tribunal de origem decidiu, fundamentadamente, as questões essenciais à solução da controvérsia, concluindo de forma contrária à defendida pela parte recorrente, o que não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+2. O Superior Tribunal de Justiça possui entendimento no sentido de que a energia elétrica utilizada nos processos industriais bem como os combustíveis consumidos em tais processos não podem ser considerados insumos ou matéria-prima para os pretendidos fins de creditamento do IPI.
+3. A parte agravante não impugnou o fundamento adotado pelo acórdão combatido concernente ao registro de que, apesar de devida, em tese, a correção monetária dos créditos escriturais pela Taxa Selic, no caso dos autos não houve a comprovação da demora do fisco em apreciar os pedidos administrativos de ressarcimento. Incidência da Súmula 283/STF, em razão da inobservância do princípio da dialeticidade.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1516185/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 22/06/2021, DJe 29/06/2021)
+No mais, aduz-se queembora a complementação federal referenteaoFUNDEF apenas tenha seu valor apurado ao final de cada exercício, suarealizaçãoocorre mês a mês, de forma que o prazo prescricional deve sercontado da mesma maneira.
+Com efeito, à luz da jurisprudência deste e.STJ, a contagem deve se darmês a mês, uma vez que a complementação devida pela União é mensal,consoante dispõe o art. 6º, § 3º, da Lei n. 9.424/96.
+Dessa feita, a prescrição atingirá as parcelas anteriores ao quinquênioque procedeu à propositura da ação.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO ORDINÁRIA. COBRANÇADECOMPLEMENTAÇÕES RELATIVAS AO FUNDEF. OMISSÃO NO JULGADO. NÃOOCORRÊNCIA.PRESCRIÇÃO. PRAZO QUINQUENAL. CONTAGEM MÊS A MÊS.HONORÁRIOSADVOCATÍCIOS.JUÍZO DE EQUIDADE. REVISÃO DO VALOR.EXCESSONÃO VERIFICADO.SÚMULA 7/STJ.
+1. Inexiste violação do art. 535 do CPC/1973 quando o acórdãorecorridofundamenta claramente seu posicionamento, de modo a prestar ajurisdiçãoque lhe foi postulada.
+2. Conforme a orientação do Superior Tribunal de Justiça, oprazoprescricional da pretensão de cobrança das complementações derecursosrelativos ao FUNDEF (Fundo de Manutenção e Desenvolvimento doEnsinoFundamental e Valorização do Magistério) é de 5 anos, por forçadodisposto no art. 1º do Decreto n. 20.910/1932.
+3. A contagem deve se dar mês a mês, uma vez que a complementaçãodevidapela União é mensal, nos termos do art. 6º, § 3º, da Lein.9.424/1996.Assim, a prescrição atingirá as parcelas anteriores aoquinquênio queprocedeu à propositura da ação. Precedentes. Reforma dojulgado no ponto.
+4. Descabe, em recurso especial, examinar a correção do valor fixadoatítulo de honorários advocatícios, na medida em que a análisedascircunstâncias previstas nos §§ 3º e 4º do art. 20 do CPC/1973impõeincursão na seara fático-probatória dos autos. Incidência da Súmula7/STJ.
+5. A verba honorária é passível de modificação, nessa instância,apenasquando se mostrar irrisória ou exorbitante, o que não é o caso dosautos.
+6. Recurso especial parcialmente conhecido e, nessa extensão, parcialmenteprovido.
+(REsp 1456749/PI, Rel. Ministro OG FERNANDES, SEGUNDA TURMA,julgadoem03/04/2018, DJe 09/04/2018)
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015 c/c o art.255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e,nessa extensão, dou-lhe provimento, nos termos da fundamentação.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ.COMPLEMENTAÇÃO DE DIFERENÇAS RELATIVAS AO FUNDEF. ILEGITIMIDADE. ASSOCIAÇÃO. SUBSTITUIÇÃO DE PESSOA DE DIREITO PÚBLICO. SÚMULA N. 283/STF.PRESCRIÇÃO. PRAZOQUINQUENAL. CONTAGEM MÊS A MÊS. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTECONHECIDO E, NESSA EXTENSÃO, PROVIDO.
