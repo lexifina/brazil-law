@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deFELIPE EDUARDO SANTOS VITÓRIOapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelaçãon. 15010815720208260567).
+Depreende-se dos autos que o réu foi condenado a 6anos de reclusão, no regime inicialmente fechado, pela prática do delito inscrito no art. 33 da Lei n. 11.343/2006 (tráfico de drogas,e-STJ fl. 166).
+Interposta apelação, o Tribunal de origem deuprovimento ao recurso ministerial para aumentar a pena definitiva para 7 anos de reclusão(e-STJ fls. 238/246).
+Daí o presente writ, no qual sustenta a defesa que a confissão espontânea, ainda que parcial, deve compensar integralmente a agravante genérica da reincidência (e-STJ fl. 4).
+Requer, liminarmente e no mérito, a compensação da atenuante da confissão com a reincidência (e-STJ fl. 5).
+É o relatório.
+Decido.
+Preliminarmente, cumpre salientar que é competência do relator, em decisão in limine, aplicar jurisprudência pacífica do colegiado, conforme expressamente dispõem os incisos XVIII e XX do art. 34 do Regimento Interno do Superior Tribunal de Justiça, bem como julgados nesse sentido das turmas criminais desta Corte (vide AgRg no HC n. 622.778/RS, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020; AgRg no HC n. 622.822/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/11/2020).
+Sobre o tema da impetração, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, assim foi fundamentada a dosimetria da pena na sentença condenatória, ipsis litteris (e-STJ fl. 166):
+Passo a dosar as penas. Atento à diretriz do artigo 59, do Código Penal, observo que o réu ostenta maus antecedentes criminais, de sorte que fixo sua pena-base em 06 (seis) anos de reclusão e 600 (seiscentos) dias-multa, de menor valor. Além disso, Felipe é reincidente, mas como confessou espontaneamente a prática do delito, a pena-base torna-se inalterada e definitiva. Condenado pela prática de crime grave e por ser reincidente, não faz jus o acusado a qualquer benefício, devendo iniciar o cumprimento da pena em regime fechado. Preso preventivamente, merece ser mantida a custódia cautelar, para garantia da ordem pública e segurança da futura aplicação da lei penal, de modo que não poderá apelar em liberdade. Ante o exposto, JULGO PROCEDENTE a ação penal e condeno FELIPE EDUARDO SANTOS VITORIO, R. G. n.47188286/SP, às penas de 06 (seis) anos de reclusão, no regime fechado
+Já o Tribunal de origem assim se manifestou quanto à dosimetria (e-STJ fls. 242):
+Por outro lado, o caso é de agravamento da sanção pela reincidência, embora existente a confissão. Com efeito, em que pese o entendimento de que a confissão, quando utilizada para a formação do convencimento do julgador, atenua a pena (Súmula 545 do STJ) tem-se que, concorrendo confissão espontânea e reincidência, esta última, diante do hospedado no artigo 67 do Código Penal, deve prevalecer sobre a atenuante, não se podendo, portanto, falar em compensação entre elas.
+Delineada a situação fática, passo à análise das teses aviadas.
+Compensação entre confissão espontânea e reincidência específica
+Esta Corte firmou o entendimento de que a confissão espontânea deve ser compensada com o instituto da reincidência de forma ampla, seja específica ou não, excetuando-se apenas a multirreincidência, conforme se extrai dos seguintes julgados:
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO MAJORADO. DOSIMETRIA. COMPENSAÇÃO CONFISSÃO E REINCIDÊNCIA ESPECÍFICA. POSSIBILIDADE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - A Terceira Seção deste Superior Tribunal de Justiça, quando do julgamento do habeas corpus n. 365.963/SP, em 11/10/2017, firmou a compreensão da "possibilidade de se compensar a confissão com o gênero reincidência, irradiando seus efeitos para ambas espécies (genérica e específica), ressalvados os casos de multirreincidência".
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício. (HC n. 527.517/SP, relator Ministro LEOPOLDO DE ARRUDA RAPOSO, Desembargador convocado do TJPE), QUINTA TURMA, julgado em 12/11/2019, DJe 20/11/2019)
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+ ..
+Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação. (HC n. 365.963/SP, relator Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017)
+Portanto, de rigor a compensação integral entre a confissão e a reincidência.
+Ante todo o exposto,concedo a ordem liminarmentepara realizar a compensação entre a confissão e a reincidência e, por consequência, restabelecer a sentença de e-STJ fls. 164/166.
+Publique-se. Intimem-se.
