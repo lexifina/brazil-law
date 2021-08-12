@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DAVI PEREIRA DOS SANTOS contra decisão, de minha relatoria, que negou provimento ao recurso em habeas corpus.
+Sustenta o embargante que há contradição na decisão de fls. 255-260 (e-STJ) uma vez que "a informação equivocada de que a defesa já foi citada para apresentar defesa preliminar e não apresentou, foi dada em informações errôneas prestadas pelo juízo de piso, e foram reproduzidas pelo tribunal de justiça do Estado do Ceará e agora também reproduzidas nesta decisão". (e-STJ, fl. 264).
+Aduz que "No dia 13 de janeiro de 2021 realmente há um despacho determinando que fosse cumprido o despacho de fls. 86, no qual constava a determinação para que a secretaria procedesse a citação da defesa para apresentar a defesa preliminar, mas não houve o cumprimento do despacho do magistrado de piso, ou seja, a defesa não foi citada para apresentar defesa preliminar" (e-STJ, fl. 265).
+É o relatório.
+Decido.
+Nos termos do art. 619 do CPP, os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão na decisão impugnada.E "podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência." (EDcl no REsp 1.524.525/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018).
+No caso, ao contrário do afirmado, não se verifica contrariedade no decisum impugnado.
+Preliminarmente, vale anotar que "O vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ" (EDcl no AgInt nos EAREsp 1.125.072/RJ, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 14/03/2019, DJe 02/04/2019).
+Ressalta-se, ainda, que a questão impugnada se refere a matéria fática concernente à suposta informação equivocada prestada pelo Tribunal de origem quanto à efetuação ou não da citação do embargante para apresentar sua defesa nos autos originários.Desta feita, a análise acerca do equívoco na informação prestada pelo Tribunal de origem exigiria o reexame das circunstâncias fáticas, o que não é o objeto dosembargos declaratórios.
+Anote-se, por fim, que eventual constatação de imprecisão nos dados informados pelo Tribunal ou constantes no acórdão impugnado, não tem o condão de alterar o decidido, pois não se verifica, por ora, excesso de prazo na instrução criminal.
+Dessarte, não há de se falar em quaisquer contradiçõesa serem sanadas.
+Ante o exposto, rejeito os embargos de declaração.
