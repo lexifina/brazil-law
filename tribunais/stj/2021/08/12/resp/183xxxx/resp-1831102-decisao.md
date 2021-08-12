@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial, fundamentado no art. 105, III, "a" e "c", da CF, interposto contra acórdão proferido pelo TJSP assim ementado(e-STJ fl. 523):
+Previdência Privada. Revisão de suplementação. Diferenças decorrentes do reconhecimento de verbas de horas extras em ação trabalhista. Sentença de improcedência, reconhecendo a prescrição quinquenal. Prescrição do fundo do direito. Inocorrência. Prescrição quinquenal que alcança apenas as parcelas anteriores a cinco anos do ajuizamento. Prescrição afastada. Ilegitimidade passiva da patrocinadora do regime. Tese firmada em recurso repetitivo.Concessão de horas extras e reflexos decorrentes de demanda trabalhista transitada em julgado.Regulamento que prevê a verba variável no salário real de contribuição. Modulação em tese firmada para os fins de recursos" repetitivos. REsp1312736/RS. Deliberação jurisdicional que reflete na base de cálculo do benefício em questão, mas mediante prévio custeio. Provimento parcial do recurso do autor.
+A jurisprudência do Superior Tribunal de Justiça firmou entendimento de que o pagamento de complementação de aposentadoria é obrigação de trato sucessivo. Desse modo, a prescrição é quinquenal e alcança somente as parcelas vencidas antes do ajuizamento da ação e não o próprio fluido de direito (AgRg no Agravo de Instrumento n" 1.329/388//RS, Relator Min. Ricardo Villas Boas Cueva, 3" Turma, J. 12/06/2013).Nesses moldes, o reconhecimento da prescrição total é afastado.A jurisprudência do Superior Tribunal de Justiça também é firme em não reconhecer a legitimidade ala patrocinadora para figurar no polo passivo de litígios envolvendo participante e entidade de previdência privada, na qual se discute revisão de beneficias, sendo a matéria firmada em sede de recurso repetitivo (REsp 1370191/RJ).
+Consoante a tese definida para fins de recursos repetitivos (REsp1312736/RS e a decisão da Justiça do Trabalho transitada em julgado reconhecendo o direito do então empregado aos valores a título de horas extras, insere-se o caso na hipótese da modulação, cabendo a revisão da base de cálculo da complementação do autor, mediante prévio custeio, porquanto previsto no regulamento conto parte do salário real de contribuição.
+Os embargos de declaraçãoforam rejeitados (e-STJ fls. 547/554).
+Nas razões do especial (e-STJ fls. 557/579), fundamentado no art. 105, III, "a" e "c", da CF, o recorrente alega dissídio jurisprudencial e violação dos arts. 489, II, § 1º, II e IV, e 1.022, II, parágrafoúnico, II, do CPC/2015.
+A insurgência cuida dos seguintes temas: (a) negativa de prestação jurisdicional e (b) legitimidade da patrocinadora para integrar o polo passivo da ação.
+Foram oferecidas contrarrazões (e-STJ fls. 588/598 e 600/607).
+É o relatório.
+Decido.
+O Tribunal a quo decidiu a matéria controvertida de forma fundamentada, ainda que contrariamente aos interesses doagravante, deixando claros os motivos pelos quais entendeu que a patrocinadora não é parte legítima para integrar a lide. Assim, não incorreu em omissão, contradição ou obscuridade.
+Desse modo, quanto à alegada afronta aos arts.489, II, § 1º, II e IV, e 1.022, II, parágrafoúnico, II, do CPC/2015, não assiste razão à parte.
+No mais, quanto à suposta legitimidade da primeira recorrida, verifica-se que orecorrente deixou de indicar, nas razões do especial, quais os dispositivos legais que reputou violados, procedimento indispensável para confirmar a existência de afronta a lei federal, nos termos do art. 105, III, alínea "a", da CF. Desse modo, a deficiência na fundamentação impede a exata compreensão da controvérsia, o que atrai a aplicação da Súmula n. 284/STF.
+Por fim, o conhecimento do recurso especial pela alínea "c" do permissivo constitucional exige a indicação do artigo de lei ao qual foi atribuída interpretação divergente e a demonstração do dissídio, mediante o exame das circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC/1973).
+A recorrenteapenas transcreveutrechos dos julgados supostamente divergentes, sem indicar os dispositivos de interpretação controvertida nem demonstrar a similitude fática e as divergências decisórias. Ausente, portanto, o necessário cotejo analítico entre as teses adotadas.
+Nesse sentido, o seguinte precedente:
+PROCESSUAL CIVIL - AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL - DEFICIÊNCIA DE FUNDAMENTAÇÃO - SÚMULA 284/STF - AUSÊNCIA DE DISSÍDIO JURISPRUDENCIAL - DECISÃO AGRAVADA MANTIDA IMPROVIMENTO.
+(..)
+2.- Não houve demonstração de dissídio jurisprudencial, diante da falta do exigido cotejo analítico entre os julgados mencionados, bem como pela ausência de similitude fática, de maneira que inviável o inconformismo apontado pela alínea "c" do permissivo constitucional.
+(..)
+4.- Agravo Regimental improvido.
+(AgRg no AREsp n. 488.145/SC, Relator Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 24/4/2014, DJe 19/5/2014.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
