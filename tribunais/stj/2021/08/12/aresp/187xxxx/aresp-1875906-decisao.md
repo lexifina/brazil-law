@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de agravo manejado por DOLI MARIA DALVIT & CIA LTDAem face de decisão que negou admissibilidade ao recurso especial em razão da incidência da Súmula nº 284 do STF, eis que a recorrente não teria indicado o dispositivo legal interpretado de modo divergente para fins de comprovação da divergência interpretativa com base na alínea "c" do permissivo constitucional.
+A agravante insurge-se contra a decisão agravada alegando a não incidência da Súmula nº 284 do STF, uma vez que teria sido demonstrada a divergência interpretativa em torno dos arts. 12 do Decreto nº 1.598/1977 e 12 da Lei nº 12.973/2014, os quais teriam embasado o STF no RE 574.706 a afastar os tributos do conceito de receita bruta para fins de base de cálculo do PIS e da COFINS. No mérito pretendeseja reconhecida divergência interpretativa e ao final excluído oICMS-ST da base de cálculo do PIS e da COFINS.
+Requer o conhecimento e o provimento do agravo para que seja analisado o recurso especial.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou adequadamente os fundamentos da decisão agravada, razão pela qual conheço do agravo e passo ao exame do recurso especial.
+A irresignação não merece conhecimento.
+De fato, da análise da petição de recurso especial de fls. 414-424 e-STJ, verifica-se que a recorrente não indica o dispositivo legal sobre o qual alega divergência interpretativa entre o acórdão recorrido e o julgado paradigma, o que impossibilita o conhecimento do recurso especial em razão da deficiente fundamentação recursal a atrair o óbice da Súmula nº 284 do STF, in verbis: "É inadmissível o recurso extraordinário quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Ressalte-se que a alegação dedivergência interpretativa em torno dos arts. 12 do Decreto nº 1.598/1977 e 12 da Lei nº 12.973/2014 formulada apenas no agravo em recurso especial consubstancia inovação descabida em sede recursal a respeito da qual já se consumou a preclusão.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. CONTRIBUIÇÕES AO PIS/PASEP E COFINS. EXCLUSÃO DO ICMS-SUBSTITUIÇÃO (ICMS-ST). AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL OBJETO DA DIVERGÊNCIA. SÚMULA Nº 284 DO STF. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
