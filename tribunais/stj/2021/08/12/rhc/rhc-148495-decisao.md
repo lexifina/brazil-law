@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por Jonas dos Santos Evangelista contra o acórdão prolatado pela Segunda Câmara Criminal do Tribunal de Justiça do Ceará no HC n. 0625567-10.2021.8.06.000.
+Narram os autos que o recorrente estava preso preventivamente quando, em 8/5/2020, teve a custódia substituída pela prisão domiciliar com monitoramento eletrônico em razão de ter testado positivo para Covid-19. Consta, também, que o Juízo de primeiro grau, em decisão recente, indeferiu o pedido da defesa para excluir essas medidas cautelares.
+Neste recurso, a defesa alega que o recorrente vem cumprindo as determinações impostas nas medidas cautelares e, inclusive, está cursando faculdade de Direito.
+Menciona que existe um tratamento diferenciado ao corréu Danilo Anderson Franco de Sousa, que foi beneficiado com o relaxamento da prisão pelo excesso de prazo e está nas mesmas condições fático-processuais dos outros acusados.
+Requer, inclusive em liminar, a extensão do benefício concedido ao corréu Danilo Anderson Franco de Sousa, nos Autos n. 0001302-08.2019.8.06.0050, ao ora recorrente, revogando-se a prisão domiciliar com monitoramento eletrônico.
+Admitido, o recurso subiu a esta Corte.
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras da Subprocuradora-Geral da República Julieta E. Fajardo Cavalcanti de Albuquerque, pelo desprovimento do recurso.
+Em 6/8/2021, o recorrente juntou aos autos a Petição n. 00695892/2021, postulando a preferência do julgamento do feito, diante da necessidade de voltar aos estudos universitários na modalidade presencial (fl. 108).
+Em consulta à página eletrônica do Tribunal de Justiça do Ceará, observei que foi realizada uma audiência de instrução em 29/7/2021, contudo, ainda não foi prolatada sentença.
+É o relatório.
+O recurso não merece prosperar.
+Vejamos, no ponto, o que consta do acórdão impugnado (fl. 68 - grifo nosso):
+ ..
+Em análise à decisão que concedeu ao paciente a prisão domiciliar cumulada com monitoramento eletrônico de fls. 25-28, constata-se que o Juízo singular firmou seu posicionamento sobre a necessidade de segregação, ainda que domiciliar, diante do perigo á ordem pública representado pelo paciente, por ter este supostamente planejado a empreitada criminosa e realizado os disparos em desfavor da vítima, condições estas pessoais, para a dinâmica do fato criminoso, que demonstram o altíssimo grau de periculosidade do agente que, caso fosse plenamente solto, poderia coagir testemunhas a até se furtar à aplicação da lei penal.
+Em paralelo, a decisão paradigma cujos efeitos o impetrante pretende estender ao paciente (fl. 32), data do período pelo qual o corréu Danilo Anderson Franco de Sousa estava preso, no curso do inquérito, razão pela qual o juiz reconheceu o excesso de prazo e relaxou a prisão deste.
+Contudo, em data posterior, em 8 de maio de 2020, a prisão do referido corréu foi novamente decretada(fls. 661-662 dos autos de nº 0001239-80.2019.8.06.0050.0000) por ter se evadido do distrito da culpa.
+Desta feita, observa-se que a prisão domiciliar do ora paciente se justifica por circunstâncias eminentemente pessoais, de forma que seria inaplicável a previsão do Art. 580 do CPP, já que não existe pertinência a extensão dos efeitos de decisão proferida em período processual completamente díspar e sob circunstâncias distintas.
+ ..
+Na decisão de prisão preventiva, em 29/11/2019, disse o Magistrado que este Juízo, além de fundamentar o decreto condenatório, diferentemente do apontado pelo paciente em sede de Habeas Corpus, entendeu e esclareceu que as medidas cautelares previstas no art. 319, CPP não são aptas a tutelar a ordem pública especificamente abalada no caso, porquanto o deferimento de qualquer delas não impedirá a provável reiteração delitiva ou até mesmo a coação de testemunhas, tendo em vista que, conforme relatado pela autoridade policial, seus agentes, as testemunhas, bem como os familiares da vítima, vêm sofrendo diversas ameaças, inclusive com suspeitas de perseguição, tendo algumas testemunhas saído deste município com medo de serem assassinadas(fl. 97 - grifo nosso).
+Em 8/5/2020, o Magistrado de piso substituiu a prisão preventiva por prisão domiciliar com monitoramento eletrônico tão somente porque o ora recorrente havia testado positivo para a Covid-19, logo a segregação junto a outros presos representava perigo à saúde pública (fls. 27/28).
+A propósito, especificamente em relação à cautelar de monitoramento eletrônico, jádecidiu esta Corte que não se mostra desarrazoada ou desproporcional aocaso concreto, mormente quando se cuida de conduta delitiva de extremagravidade. Ademais, é certo que o monitoramento eletrônico éimperiosopara viabilizar o controle das atividades do agente, bem como documprimento das demais medidas impostas (RHC n. 117.677/PR, MinistroReynaldo Soares da Fonseca, Quinta Turma, DJe 14/10/2019 - grifo nosso).
+Assim, embora o recorrente ateste estar cumprindo as condições impostas pelo Juiz singular, a revogação da prisão domiciliar com monitoramento eletrônico, diante das peculiaridades apresentadas pelas instâncias ordinárias, seria precoce.
+Nesse sentido:HC n. 464.297/CE, Ministra Laurita Vaz, Sexta Turma, 10/4/2019.
+E, como destacou a nobre Subprocuradora-Geral da República, em seu parecer,não se vislumbra similitude fático processual do recorrente com o corréu apontado, de modo a justificar a revogação das medidas cautelares ora questionadas, em virtude da extensão de ordem de habeas corpus a este concedida. Aliás, cumpre destacar que o referido corréu se encontra preso, por ter se evadido do distrito da culpa, a revelar a insubsistência da própria decisão que agora pretende também o recorrente se ver beneficiado(fl. 102 - grifo nosso).
+Acerca do pedido feito à fl. 108, observo que a revogação da prisão domiciliar em razão da necessidade do recorrente de voltar às aulas presenciais da universidade deverá primeiro ser enfrentada pelo Juízo de origem, sob pena de supressão de instância.
+Ante o exposto,nego provimentoao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. REVOGAÇÃO DA PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. FUNDAMENTAÇÃO IDÔNEA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso improvido.
