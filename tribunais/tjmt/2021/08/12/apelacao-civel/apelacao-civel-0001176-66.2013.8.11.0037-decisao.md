@@ -1,0 +1,12 @@
+PODER JUDICIÁRIO DO ESTADO DE MATO GROSSO
+TRIBUNAL DE JUSTIÇA
+GAB. DES. DIRCEU DOS SANTOS
+RECURSO DE APELAÇÃO CÍVEL No 0001176-66.2013.8.11.0037
+APELANTE: OLIVIO JOSE LONGHI.
+APELADO: BANCO DO BRASIL S.A.
+Vistos.
+Defiro o pedido formulado pelo Banco do Brasil S. A., no Id. 88643968, quanto à redesignação da audiência de conciliação.
+Encaminhem-se os autos à CENTRAL DE CONCILIAÇÃO E MEDIAÇÃO DE 2o GRAU DE JURISDIÇÃO.
+Cumpra-se.
+Des. DIRCEU DOS SANTOS
+Relator
