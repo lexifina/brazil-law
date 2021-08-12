@@ -1,0 +1,39 @@
+DECISÃO
+TARCIRIO ANTONIO GEBERT e IZAIR CELI MILANESI GEBERTsuscitam conflito positivo de competência com pedido liminar, indicando como suscitados o JUÍZO DE DIREITO DA 2ª VARA DE POXORÉU - MT e o JUÍZO DE DIREITO DA 5ª VARA CÍVEL DO FORO REGIONAL DE SANTO AMARO/SÃO PAULO - SP.
+Informam os suscitantes que o pedido de recuperação judicial foi processado em 11/02/2020 (e-STJ fl. 180), ocasião em que foram suspensas ações e execuções contrárias.
+Aduzem que, não obstante, foi ajuizada Ação de Execução n. 110111895-83.2020.8.26.0100, no Juízo de São Paulo, na qual foi determinada a citação para pagamento, sob pena de penhora de ativos financeiros (e-STJ fl. 236).
+Discorrem a respeito do juízo universal da recuperação que, a partir do deferimento, passa a ser oúnico competente para a prática de atos que comprometam o patrimônio sujeito ao concurso.
+Liminarmente, postulam a suspensão da execução extrajudicial.No mérito, pedemo reconhecimento da competência exclusiva do Juízo da recuperação judicialpara tratar de atos que impliquem restrição de seus haveres.
+A tutela de urgência foi deferida (e-STJ fls. 251/253).
+O interessado BANCO RABOBANK INTERNATIONAL BRASIL S.A.interpôs agravo interno sustentando que o crédito teria natureza extracontratual, nos termos do art. 49, § 3º, da Lei n. 11.101/2005, tratando-se de cédula de crédito bancária, garantida por alienação fiduciária. Alega que "não cabe ao Juízo da recuperação judicial decidir sobre constrição de bem não abrangidos pelo plano de recuperação" (e-STJ fl. 262). Requer o prosseguimento da execução.
+Informações não foram prestadas (e-STJ fl. 276).
+Parecer do Ministério Público Federal pela competência do Juízo da recuperação, nos termos da seguinte ementa (e-STJ fl.280 ):
+DIREITO PROCESSUAL CIVIL E EMPRESARIAL. CONFLITO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO EJUÍZO DA EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. CREDOR FIDUCIÁRIO. NATUREZA. COMPETÊNCIA DO JUÍZOUNIVERSAL.
+- O Superior Tribunal de Justiça firmou orientação no sentido de que compete ao Juízo universal decidir acerca da essencialidade do bem, ainda que se trate de créditos garantidos por alienação fiduciária, afastando, desse modo, a exceção do § 3º do citado art. 49. Também cabe a ele a definição acerca do caráter extraconcursal das dívidas contraídas pela recuperanda a esse título.
+- Parecer pelo conhecimento do conflito, a fim de declarar competente o JUÍZO DE DIREITO DA 2ª VARA DE POXORÉU - MT.
+É o relatório.
+Decido.
+Seguindo orientação desta Corte Superior consolidada na Súmula n. 568/STJ, o relator pode decidir monocraticamente o conflito de competência, quando exista jurisprudência dominante do Tribunal sobre o tema.
+É esse o caso dos autos, em que se busca fixar o juízo competente para processar atos executivos contra o patrimôniodos recuperandos.
+Discute-se a competênciapara prática de atos de constrição contra o patrimônio dos recuperandos (empresários rurais), relativos à cédula de crédito bancária garantida por alienação fiduciária, segundo o interessado.
+Registre-seque, no incidente de conflito, apenas será determinado qual o juízo competente para decidir sobre os bens e,eventualmente, sua essencialidade para a recuperação judicial, cabendo às partes recorrer caso discordem da solução estabelecida na instância de origem.
+Nesse contexto, a jurisprudência desta Corte Superior sedimentou o entendimento no sentido de competir ao juízo universal decidir sobre o patrimônio esua essencialidade ao plano, nos termos dos arts. 47 e49, § 3º, da Lei n. 11.101/2005, respeitando o princípio da preservação da atividade empresarial.
+Oportuno citar os seguintes julgados:
+CONFLITO POSITIVO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. AÇÃO DE BUSCA E APREENSÃO. BEM MÓVEL. ALIENAÇÃO FIDUCIÁRIA. ATIVIDADE EMPRESARIAL. ESSENCIALIDADE DO BEM. AFERIÇÃO. COMPETÊNCIA DO JUÍZO UNIVERSAL.
+1. Ainda que se trate de créditos garantidos por alienação fiduciária, compete ao juízo da recuperação judicial decidir acerca da essencialidade de determinado bem para fins de aplicação da ressalva prevista no art. 49, § 3º, da Lei nº 11.101/2005, na parte que não admite a venda ou a retirada do estabelecimento do devedor dos bens de capital essenciais ao desenvolvimento da atividade empresarial.
+2. Impossibilidade de prosseguimento da ação de busca e apreensão sem que o juízo quanto à essencialidade do bem seja previamente exercitado pela autoridade judicial competente, ainda que ultrapassado o prazo de 180 (cento e oitenta dias) a que se refere o art. 6º, § 4º, da Lei n. 11.101/2005.
+3. Conflito de competência conhecido para declarar a competência do Juízo de Direito da 1ª Vara dos Feitos de Relação de Consumo Cíveis e Comerciais da Comarca de Barreiras/BA.
+(CC 121.207/BA, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 08/03/2017, DJe 13/03/2017 - grifei.)
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CÉDULA DE PRODUTO RURAL. CESSÃO FIDUCIÁRIA. JUÍZO ACERCA DA ESSENCIALIDADE DO BEM PARA A ATIVIDADE EMPRESARIAL.
+1. Há absoluta convergência, entre doutrina e jurisprudência, que, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não de algum bem ao funcionamento da sociedade cumpre ser realizado pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação do patrimônio da recuperanda, o que tem o condão, inclusive, de impedir a retirada de bens essenciais, ainda que garantidos por alienação fiduciária, da posse da sociedade em recuperação (art. 49, § 3º, da LRF).
+2. É inviável, na estreita sede do conflito de competência, a deliberação acerca da natureza extraconcursal do crédito, o que é da estrita competência do Juízo da recuperação, a partir daí cabendo, se for o caso, os recursos pertinentes.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da Vara Cível de Sertanópolis/PR.
+(CC 153.473/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 26/06/2018 - grifei.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL.ARRESTO DETERMINADO POR OUTRO JUÍZO EM BENS CONSIDERADOS ESSENCIAIS PELO JUÍZO DA RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO RECUPERACIONAL. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência desta Segunda Seção, "há absoluta convergência, entre doutrina e jurisprudência, que, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não de algum bem ao funcionamento da sociedade cumpre ser realizado pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação do patrimônio da recuperanda, o que tem o condão, inclusive, de impedir a retirada de bens essenciais, ainda que garantidos por alienação fiduciária, da posse da sociedade em recuperação (art. 49, § 3º, da LRF)" (CC 153.473/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 09/05/2018, DJe 26/06/2018).
+2. Nessa linha de entendimento, compete ao Juízo da Recuperação das suscitantes decidir sobre a essencialidade das sacas de milho, bem como acerca da definição de sua propriedade, como, de fato, foi feito, cabendo, a partir daí, a impugnação da parte contrária pelos meios recursais próprios.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no CC 169.116/MA, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 16/03/2021, DJe 24/03/2021.)
+Diante do exposto, CONHEÇO do conflito positivo de competência, a fim de DECLARAR COMPETENTE o JUÍZO DE DIREITO DA 2ª VARA DE POXORÉU - MT para decidir acerca dos atos de constriçãoque incidam sobre o patrimônio sujeito à recuperação judicial, praticados em decorrência dos Autos n. 110111895-83.2020.8.26.0100.
+Prejudicado o agravo interno (e-STJ fls. 259/270).
+Publique-se e intimem-se.
