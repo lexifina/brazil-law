@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso ordinário em mandado de segurança interposto por LARISSA KELLY DA GAMA FAVACHO, com fundamento no art. 105, II, b, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAPÁ, assim ementado (fls. 234-242):
+MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLÍCIA MILITAR. EXIGÊNCIA DE ALTURA MÍNIMA. POSSIBILIDADE.
+1) "É possível a estipulação de critérios limitativos da participação em concurso público, conforme a natureza da atividade a ser exercida, desde que estes se encontrem previstos em lei e no edital". Precedentes do STJ.
+2) Por questão de hierarquia jurisdicional, deve prevalecer o entendimento consolidado das cortes superiores, entendendo pela constitucionalidade e legalidade da exigência prevista em edital e na lei, estabelecendo os limites de altura mínima para o ingresso na carreira militar, não havendo de se falar, portanto, em ameaça a direito líquido e certo da impetrante, a qual não pode prosseguir no certame ao arrepio da exigência prevista no edital.
+3) Ademais, importante consignar que certamente inúmeras pessoas deixaram de se inscrever no concurso em respeito aos quesitos do Edital, carecendo de razoabilidade que a Impetrante ciente desde o ato de inscrição, de que não preenchia a exigência editálica, seja contemplada com beneplácito judicial para forçar sua permanência no certame, ressaltando-se que no caso concreto, a diferença entre a altura mínima prevista no edital e a altura da Impetrante é elevada -10 centímetros.
+4) Ordem denegada.
+Na origem, a parte ora recorrente impetrou mandado de segurança contra ato supostamente ilegal atribuído ao SECRETÁRIO DE ADMINISTRAÇÃO DO ESTADO DO AMAPÁ, com o objetivo de obter:
+(..) que a autoridade coatora, imediatamente, abstenha- se de eliminar a Impetrante na 5 2 fase - Exame de saúde, considerando-o APTO para a 6 2 fase do concurso (Investigação Social) no cargo de Soldado da Polícia Militar (..) (fls. 68-69)
+Valora dado à causa: R$ 1.045,00 (mil e quarenta e cinco reais) em novembro de 2020.
+No presente recurso ordinário, a recorrente reiterou as razões da exordial, afirmando, em síntese, que:
+Por todo o exposto apresentados nesta exordial, requer a procedência da ação, determinando a parte Recorrida seja considerada a Recorrente APTA na 5" fase  Exame de Saúde quanto ao critério de altura, em igualdade de condições com os demais candidatos que tiveram a liminar concedida e a procedência no julgamento do mérito. (fl. 322)
+Ao final, requereu o conhecimento e provimento do recurso para reformar o acórdão e conceder a segurança pleiteada.
+Foram apresentadas contrarrazões pelo desprovimento do recurso.
+O Ministério Público opina pelo não provimento do recurso
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Quanto ao mérito da questão trazida à baila pela recorrente, o Tribunal a quo, cujos fundamentos adoto, assim se pronunciou (fl. 240-241):
+Deste modo, por questão de hierarquia jurisdicional, deve prevalecer o entendimento consolidado das cortes superiores, entendendo pela constitucionalidade e legalidade da exigência prevista em edital e na lei, estabelecendo os limites de altura mínima para o ingresso na carreira militar, não havendo de se falar, portanto, em ameaça a direito líquido e certo da impetrante, a qual não pode prosseguir no certame ao arrepio da exigência. prevista no edital. Ademais, importante consignar que certamente inúmeras pessoas deixaram de se inscrever no concurso em respeito aos quesitos do Edital, carecendo de razoabilidade que a Impetrante ciente desde o ato de inscrição, de que não preenchia a exigência editálica, seja contemplada com beneplácito judicial para forçar sua permanência no certame, ressaltando-se que no caso concreto, a diferença entre a altura mínima prevista no edital e a altura da Impetrante é elevada - 1 0 centímetros.
+Da leitura do mencionado trecho, constata-se que a Corte local demonstrou a ausência da alegada violação a direito líquido e certo, na medida em que na medida em que a exigência de limite de altura constante no edital é considerada constitucional e legal pela jurisprudência pátria. No mesmo sentido é o entendimento do Parquet federal, cujo teor adoto como parte desta fundamentação.
+Com efeito, a jurisprudência desta Corte Superior é pacífica no sentido de que são permitidos limites de altura, bem como critérios específicos quanto ao sexo e à idade dos candidatos participantes de concursos públicos, em razão das características e peculiaridades do cargo objeto do certame, desde que tais critérios tenham previsão legal expressa.
+Nesse sentido:
+ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. POLICIAL MILITAR. EXIGÊNCIA DE ALTURA MÍNIMA. INOBSERVÂNCIA PELO CANDIDATO. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. IMPOSSIBILIDADE DE DILAÇÃO PROBATÓRIA.
+1. Não há direito líquido e certo a ser resguardado no caso dos autos, pois a exclusão do recorrente foi amparada nas normas editalícias.
+2. Por outro lado, não há prova nos autos a demonstrar a ocorrência de equívoco na medição da altura do candidato realizada pela Banca Examinadora do certame. Eventual conclusão em sentido diverso se apresenta inviável, pois a via mandamental não admite dilação probatória.
+3. Agravo interno não provido.
+(AgInt no RMS 61.445/MA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 09/03/2020, DJe 11/03/2020)
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em mandado de segurança.
+Publique-se. Intimem-se.
