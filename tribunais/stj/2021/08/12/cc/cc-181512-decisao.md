@@ -1,0 +1,16 @@
+DECISÃO
+O JUÍZO FEDERAL DA 5ª VARA CRIMINAL DE SÃO PAULO - SJ/SP suscita conflito de competência, em inquérito policial deflagrado em razão da possível prática de estelionato, diante do JUÍZO FEDERAL DA 5ª VARA DE LONDRINA - SJ/PR.
+A controvérsia estabelecida no presente incidente processual se resume em saber se a competência, nos casos de estelionato que não se enquadram na hipótese do art. 70, § 4º, do CPP, deve ser fixada pelo local onde foi efetivamente obtida a vantagem ou por aquele em que o estelionatário teria utilizado os dados pessoais da vítima para promover o registro familiar no Cadastro Único do Programa Bolsa Família, de modo que pudesse receber indevidamente os benefícios de tal programa.
+Ouvido, manifestou-se o Ministério Público pelo conhecimento do conflito para que seja declarado competente o Juízo suscitante (fls. 122-123).
+Decido.
+A orientação desta Corte se encontra consolidada na direção de que a competência, nos crimes de estelionato, desde que não se enquadre nas hipóteses previstas no art. 70, § 4º, do CPP, deve ser fixada pelo local onde efetivamente foi recebida a vantagem pelo agente criminoso.
+Nesse sentido:
+ ..
+1. O crime de estelionato previdenciário se consuma com o efetivo recebimento da vantagem indevida, no caso, com o início do pagamento da aposentadoria, que se deu na cidade do Rio de Janeiro/RJ.
+2. Assim, embora o local de recebimento do benefício previdenciário tenha sido posteriormente transferido para a cidade de Brasília/DF, a competência já havia sido fixada pelo lugar em que se consumou a infração, a teor do que dispõe o art. 70 do CPP.
+3. Conflito conhecido para reconhecer a competência do Juízo Federal da 1ª Vara Criminal da Seção Judiciária do Rio de Janeiro/RJ, o suscitado (CC n. 125.023/DF, Rel. Ministro Marco Aurélio Bellizze, DJe 19/3/2013, destaquei)
+Na espécie, segundo o relatório produzido pela autoridade policial da Delegacia de Polícia Federal em Londrina - PR, "todos os saques do benefício do Programa Bolsa Família supostamente realizados pela beneficiária  ..  ocorreram em casas lotéricas da cidade de São Paulo/SP, inclusive em competências anteriores às quais o órgão federal aponta recebimento indevido" (fl. 86, destaquei).
+Nessa direção também foi a manifestação da Procuradoria da República no Município de Londrina, quando salientou: "Ocorre que a CEF informou que todos os saques do referido programa em nome da beneficiária  ..  ocorreram em casas lotéricas da cidade de São Paulo/SP, tendo sido efetuados com a utilização de cartão (evento 4)" (fl. 90, grifei).
+E concluiu (fl. 90, destaquei): "No caso em tela, pois, o delito foi consumado, em tese, na cidade de São Paulo/SP, onde os saques indevidos teriam sido realizados, de modo que a competência para julgar eventual ação penal decorrente desta investigação é do Juízo Federal da capital paulista". Logo, embora o benefício possa até haver sido requerido e deferido no município de Santo Antônio da Platina - PR, o seu recebimento se deu em São Paulo. Portanto, é perante esta localidade que deverá ser fixada a competência.
+À vista do exposto, conheço do conflito para declarar competente o Juízo Federal da 5ª Vara Criminal de São Paulo - SJ/SP, ora suscitante.
+Publique-se. Dê-se ciência aos Juízos suscitante e suscitado.
