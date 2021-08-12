@@ -1,0 +1,47 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ARTS. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta do delito e pela periculosidade do paciente, apontado como mandante do homicídio, motivado por divergência no tráfico interestadual de drogas, além de destacar a sua condição de foragido.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ELSON FRANCISCO DOS SANTOS agrava da decisão de fls. 581-585, por meio da qual deneguei a ordem.
+No regimental, a defesa reafirma a ausência de fundamentos idôneos a embasar a decretação da prisão preventiva do paciente - pela suposta prática dos delitos de homicídio duplamente qualificado e de associação criminosa. Salienta que não foi justificada a impossibilidade de aplicação de cautelares diversas e que não perdura a condição de foragido do réu, uma vez que o mandado de prisão foi cumprido, em 9/6/2021 (fl. 596).
+Postula, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, para que seja concedida a ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO E ASSOCIAÇÃO CRIMINOSA. PRISÃO PREVENTIVA. ARTS. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. O Juízo singular apontou a presença dos vetores contidos no art. 312 do Código de Processo Penal, em especial a garantia da ordem pública, evidenciada pela gravidade concreta do delito e pela periculosidade do paciente, apontado como mandante do homicídio, motivado por divergência no tráfico interestadual de drogas, além de destacar a sua condição de foragido.
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos trazidos no regimental, não identifico razões para alterar o posicionamento exarado na decisão impugnada.
+No caso dos autos, o decisum impugnado foi claro ao afirmar a existência de fundamentos concretos e idôneos para a decretação da prisão preventiva do paciente, notadamente com base na gravidade concreta do delito e na periculosidade do paciente, apontado como mandante do homicídio, motivado por divergência no tráfico interestadual de drogas. Confira-se (fls. 582-584, grifos no original):
+ ..
+O Juiz de primeiro grau, ao decretar a prisão preventiva, salientou: "As prisões preventivas dos investigados são necessárias como garantia da ordem pública, tendo em vista a natureza e as circunstâncias do fato, homicídio qualificado, relacionado ao tráfico ilícito de drogas  .. , evidenciando a periculosidade dos seus agentes e o risco social gerado por seus estados de liberdade" (fl. 27, grifei).
+A denúncia assim narrou os fatos (fls. 486-488, destaquei):
+Conforme restou apurado, nas circunstâncias acima mencionadas, os denunciados Gabriel Alexandre Costa Farias e Jhonata Teixeiras Viegas, sob o comando e cumprindo determinação dos denunciados Edson Francisco Santos e Wilson Soares, e ainda mediante colaboração dos denunciados Jair Terêncio da Mota e Gabriel Moreira Zuza, compareceram no endereço acima descrito e desferiram diversos disparos de arma de fogo contra a vitima Bruno Sales de Oliveira, causando-lhe a morte, conforme Laudo de Necropsia de f. 29/30.
+Consta dos autos que em meados de 2020, a vítima Bruno foi procurada pelo denunciado Jair Terêncio da Mota para que providenciasse o transporte de grande quantidade de drogas de propriedade dos denunciados Edson Francisco Santos e Wilson Soares para o Estado do Espirito Santo.
+Aceita a proposta, a vítima entrou em contato com o denunciado Gabriel Moreira Zuza para que ele transportasse referida droga até o Estado de Espírito Santo, oferecendo-lhe a quantia de R$ 5.000,00 (cinco mil reais) para tanto.
+ ..
+Acontece que, segundo consta, referida carga chegou ao seu destino incompleta, o que foi o motivo de desavenças entre os componentes da associação em questão.
+Segundo restou apurado, a vitima Bruno assumiu a responsabilidade para pagamento da carga que estava faltando e, mesmo após ter transferido a quantia de R$ 70.000,00 (setenta mil reais) para a conta do denunciado Wilson Soares (f. 38/39), e ainda entregar um veículo Palio Weekend aos proprietários da carga, os denunciados Wilson e Edson, determinaram que Gabriel Alexandre Costa Farias e Jhonata Teixeiras Viegas executassem a vitima Bruno.
+Consta dos autos que dias antes do ocorrido, por diversas vezes, os denunciados Wilson Soares e Edson Francisco Santos ameaçaram a vítima de morte, lhe exibindo, inclusive, fotografias de bombas acondicionadas num saco preto, ameaçando explodir o supermercado da vítima quando ela estivesse no interior do imóvel.
+ ..
+O delito empreendeu-se por motivo torpe - vil, repugnante -eis que praticado por conta de suposta dívida oriunda do tráfico de drogas.
+Ademais, a vítima restou impossibilitada de se defender, pois, foi surpreendida, enquanto desarmada, por dois indivíduos fortemente armados que de imediato desferiram-lhe diversos disparos de arma de fogo.
+O Tribunal local entendeu devidamente fundamentada a prisão, ante a periculosidade do paciente, "que, em tese, foi um dos mandantes do homicídio motivado por divergências relacionadas ao tráfico interestadual de drogas" (fl. 535).
+O acórdão registrou, ainda, que "o paciente encontra-se foragido, o que reforça a necessidade da segregação preventiva também para assegurar a aplicação da lei penal" (fl. 536, grifei).
+De acordo com as informações prestadas pelo Juiz de primeiro grau, a denúncia foi recebida em 22/3/2021 e o feito aguardava a citação do paciente e de dois outros acusados. Salientou, ainda, que "o paciente permanece foragido" (fl. 555).
+ ..
+A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+Apoiado nessa premissa, constato que são idôneos os motivos invocados para embasar a ordem de prisão, ao evidenciarem a gravidade concreta do delito e da periculosidade do paciente, apontado como mandante do homicídio, motivado por divergência no tráfico interestadual de drogas.
+O STJ entende que o modus operandi (bem como suas circunstâncias) dos crimes - a revelar especial periculosidade -, pode justificar idoneamente a prisão preventiva. Confira-se:
+ ..
+Ademais, a jurisprudência desta Corte Superior é firme em assinalar que, comprovada a condição de foragido do acusado, é válida a decretação de sua prisão preventiva para assegurar a aplicação da lei penal, situação ocorrida nos autos.
+Reafirmo, então, haver sido demonstrada a exigência cautelar justificadora da manutenção da prisão preventiva do ora agravante e, por idênticos fundamentos, a adoção de medidas cautelares diversas não se mostra suficiente.
+Ademais, em que pese a defesa argumentar que não mais subsiste a condição de foragido do paciente, entendo que tal fundamento foi idôneo para justificar a sua segregação cautelar. Isso porque, não obstante informar que a prisão ocorreu em 9/6/2021, a sua decretação se deu em 11/2/2021, o que denota que o paciente permaneceu foragido por todo esse período, como destacaram as instâncias antecedentes.
+Assim, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
