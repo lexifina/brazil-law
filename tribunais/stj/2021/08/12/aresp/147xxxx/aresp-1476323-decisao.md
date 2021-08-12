@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo interposto por BRASILCRAFT COMÉRCIO DE ARTEFATOS DE COURO LTDA., contra decisão em que foi negado seguimento ao recurso especial fundamentado no art. 105, III, a, da Constituição Federal, objetivando a reforma de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado:
+TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. REJEIÇÃO. ALEGAL NULIDADE DA CDA. INFORMA PARCELAMENTO DO DÉBITO. CONFISSÃO DEDÍVIDA. DECISÃO INTERLOCUTÓRIA MANTIDA.
+1 - O agravante em suas razões recursais se insurge contra a decisão que rejeitou a exceção de pré-executividade ao argumento de que deve ser reconhecida a nulidade da CDA, por conter vícios que a impedem de executar a dívida tributária.
+2 - Contudo, o agravante nas mesmas razões recursais informa que aderiu ao parcelamento administrativo e nestas condições há uma incongruência, haja vista que, o parcelamento é causa bastante para a confissão da dívida de maneira irretratável e irrevogável.
+3 - Agravo de Instrumento da BRASILCRAFT COMÉRCIO DE ARTEFATOS DE COURO LTDA não provido.
+Os declaratórios opostos foram rejeitados.
+Nas razões do recurso especial, a parte recorrente suscitou a ofensa aos artigos 202, 203, 204 e 212, bem como 151, todos do CTN. Sustentou, em suma, que a CDA objeto da execução não preenche os requisitos legais, em especial, no que se refere à natureza e à origem do crédito tributário, em descumprimento também do dever de regulamentar a exação. Subsidiariamente, suscitou a necessidade de suspensão do feito executivo até o trânsito em julgado nos autos da ação de consignação em pagamento do débito, em razão da suspensão da exigibilidade do crédito.
+Após decisão em que não foi admitido o recurso especial com base no Enunciado Sumular n. 7/STJ, foi interposto o presente agravo, tendo a parte recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a parte agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não comporta seguimento.
+No caso, o Tribunal de origem sustentou o acórdão recorrido no fato de que a CDA exequenda apresentou os necessários fundamentos legais, bem como origem e natureza do débito.
+Cite-se trecho do acórdão recorrido:
+Os argumentos da agravante não prosperam e não são suficientes para reformar a decisão agravada que rejeitou a exceção de pré-executividade.
+Os mesmos argumentos genéricos são utilizados nas razões recursais e foram devidamente enfrentados pelo Juízo a quo que pontuou:
+In casu, o excipiente sustentou que a CDA que instrui a peça inicial não aponta corretamente a fundamentação legal da tributação, citando dispositivos legais dos mais diversos, inclusive já revogados.
+Nada obstante, verifica-se que os requisitos e dados da CDA (fls. 3/10),notadamente quanto à origem e natureza do débito, bem como os fundamentos legais, foram devidamente observados.
+Nesse tocante, não há falar em nulidade, visto que estão presentes todos os elementos obrigatoriamente previstos em lei, nos termos do § 5º do artigo 2º da Lei 6.830/80  .. .
+ ..
+Assim, em que pese a inserção de uma gama de normas aplicáveis à espécie ao longo do tempo, em tese dispensáveis, a CDA traz consigo igualmente os dispositivos legais atualmente em vigor, não havendo prejuízo ao executado em razão do acréscimo de informações constantes no título executivo.
+ ..  (fl. 84).
+O reexame do acórdão recorrido, em confronto com as razões do recurso especial, revela que a pretensão recursal implicaria o revolvimento do conjunto probatório dos autos para afastar as conclusões do Tribunal de origem e a presunção de validade da CDA. Incidência do Enunciado Sumular n. 7/STJ.
+Sobre a alegada necessidade de suspensão do feito executivo ou da exigibilidade do crédito tributário em razão do trâmite da ação consignatória, o recurso também não comporta seguimento. Verifico que a matéria não se apresentou como questão enfrentada, em termos de "causas decididas", conceito previsto do art. 105, III, da Constituição Federal, porque não foi abordada pelo Tribunal de origem. Incide, de qualquer sorte, o Enunciado Sumular n. 211/STJ, que dispõe que é "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo". Assim, "se a questão levantada não foi discutida pelo Tribunal de origem e não verificada, nesta Corte, a existência de erro, omissão, contradição ou obscuridade, não há falar em prequestionamento ficto da matéria, nos termos do art. 1.025 do CPC/2015, incidindo na espécie a Súmula nº 211/STJ." (AgInt no AREsp 1557994/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 15/5/2020). A propósito: AgInt no AREsp 1545423/GO, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 19/12/2019; AgInt no AREsp 1711642/SP, Rel. Ministro Marco Buzzi, Quarta Turma, DJe 4/12/2020; AgInt no REsp 1838034/PB, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 2/12/2020.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
