@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interno interposto por Itaú Unibanco S.A. contra a decisão de fls. 560-562 (e-STJ), da Presidência desta Corte, que conheceu do agravo para não conhecer do recurso especial, com base no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, haja vista a falta de impugnação específica da Súmula n. 83/STJ.
+Nas razões do agravo, o insurgente alega que refutou especificamente todos os fundamentos da decisão que inadmitiu o seu apelo especial.
+Não foi apresentada impugnação (e-STJ, fl. 584).
+No caso, cabe observar que a decisão do Tribunal de origem que inadmitiu o recurso especial foi impugnada pela parte agravante, ainda que sucintamente, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão agravada, tendo em vista a inaplic abilidade da Súmula n. 182/STJ, a fim de proceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+Trata-se de agravo interposto por Itaú Unibanco S.A. contra decisão que não admitiu o recurso especial, fundado na alínea a do inciso III do art. 105 da Constituição Federal, que desafia acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Sul assim ementado (e-STJ, fl. 499):
+APELAÇÃO CÍVEL. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. CÉDULAS DE CRÉDITO BANCÁRIO. PESSOA JURÍDICA. Nulidade da sentença. Sentença que, embora sucinta, atendeu de forma substancial os requisitos do artigo 489, inciso II do CPC/2015, trazendo adequada fundamentação quanto ao objeto da controvérsia. Nulidade não evidenciada. Juros remuneratórios. Incidem os juros remuneratórios contratados desde que não excedentes à taxa média de mercado aferida pelo Banco Central do Brasil. Caso em que se limita a taxa dos juros remuneratórios pactuada no contrato à taxa média de mercado divulgada pelo BACEN, para operações de mesma espécie e em igual período. Descaracterização da mora. Devidamente descaracterizada a mora da parte autora, em face da alteração das taxas e encargos previstos para o período da normalidade contratual, segundo orientação n 2 . 02 do STJ. APELAÇÃO PARCIALMENTE PROVIDA.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 489-496).
+Nas razões do recurso especial (e-STJ, fls. 508-518), o recorrente alegou a violação dos arts. 489 e 1.022 Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ausência de prestação jurisdicional e de fundamentação, alegando a indevida limitação dos juros remuneratórios à taxa média do BACEN.
+Foram apresentadas contrarrazões (e-STJ, fls. 573-590).
+O Tribunal local não admitiu o processamento do recurso especial ante a ausência de violação dos arts. 489 e 1.022 do CPC/2015; a incidência das Súmulas n. 5 e 7 do STJ; a impossibilidade de reexame de prova, em virtude do óbice da Súmula n. 7/STJ; bem como a ausência do devido cotejo analítico (e-STJ, fls. 525-534).
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação do art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+O Tribunal a quo, verificando que os juros remuneratórios contratados foram fixados em percentual significativamente superior ao parâmetro de mercado, concluiu pela abusividade da taxa de juros, adotando a seguinte fundamentação (e-STJ, fl. 452):
+Do mérito:
+Cuida-se de ação revisional objetivando a readequação de encargos contidos nas Cédulas de Crédito Bancário ng. 130692429#137 e ng. 128271226#137, acostadas às fls. 24/27 e 28/32, nos valores de R$ 50.000,00 e R$ 207.000,00, respectivamente.
+Dos juros remuneratórios:
+Quanto aos juros remuneratórios, o ST; já pacificou entendimento em julgamento sujeito ao rito do art. 543-C do CPC, de que a taxa de juros remuneratórios não está sujeita à limitação da Lei de Usura (Decreto 22.626/33), nos termos da Súmula 596 do STF, e que a revisão da taxa contratada só ocorre em situações excepcionais, como se observa do precedente abaixo:
+(..)
+No caso, a Cédula de Crédito Bancário nº. 130692429#137, firmada em 10/10/2014, às fls. 24/27, prevê a incidência da taxa dos juros remuneratórios à razão de 9,79% ao mês e 206,72% ao ano, percentual superior à média de mercado divulgada pelo BACEN para o mesmo período (24,30% ao ano), devendo a este patamar ser reduzido.
+Já a Cédula de Crédito Bancário nº. 128271226#137, firmada em 24/04/2014, às fls. 28/32, prevê a incidência da taxa dos juros remuneratórios à razão de 2,90% ao mês e 40,92% ao ano, percentual superior à média de mercado divulgada pelo BACEN para o mesmo período (23,70% ao ano), devendo a este patamar ser reduzido. (Sem grifo no original).
+Registre-se que o acórdão recorrido foi devidamente fundamentado, não havendo falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp n. 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Quanto ao mérito, os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares, como foi o caso dos autos, não merecendo reforma o aresto recorrido quanto ao ponto.
+Dessa forma, encontrando-se a decisão recorrida em harmonia com a jurisprudência desta Corte, inarredável a aplicação da Súmula n. 83/STJ, a obstar a análise do reclamo por ambas as alíneas do permissivo constitucional.
+Além disso, a revisão das conclusões estaduais demandaria, necessariamente, o reexame do acervo fático-probatório dos autos, o que não se admite no âmbito do recurso especial devido ao óbice da Súmula n. 7/STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DO STJ QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Os juros remuneratórios devem ser limitados à taxa média de mercado quando comprovada, no caso concreto, a significativa discrepância entre a taxa pactuada e a taxa de mercado para operações similares, como foi o caso dos autos, não merecendo reforma o aresto recorrido quanto ao ponto.
+1.1. Hipótese em que os juros em debate são superiores ao dobro da média praticada em operações financeiras similares.
+2. Para afastar a afirmação contida no acórdão atacado no sentido de que a taxa de juros remuneratórios da avença é abusiva, seria necessário promover o reexame do acervo fático-probatório dos autos e a interpretar as cláusulas contratuais, providências vedadas na via eleita, por força das Súmulas 5 e 7/STJ.
+3. Conforme entendimento jurisprudencial consolidado por este Superior Tribunal de Justiça, o reconhecimento da abusividade dos encargos cobrados no período da normalidade contratual traz, como consectário lógico, a descaracterização da mora do devedor.
+Incidência da Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.405.350/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/6/2021, DJe 1º/7/2021).
+Por fim, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7 do STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas de cada caso.
+Ante o exposto, em juízo de reconsideração, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento .
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para R$ 2.000,00 (dois mil reais).
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. JUÍZO DE RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO REVISIONAL. AUSÊNCIA DE AFRONTA AOS ARTS. 489 E 1.022 DO CPC/2015. JUROS REMUNERATÓRIOS. SIGNIFICATIVA DISCREPÂNCIA ENTRE A TAXA PACTUADA E A TAXA DE MERCADO. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. EM JUÍZO DE RETRATAÇÃO, AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
