@@ -1,0 +1,28 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por INDÚSTRIAS JOÃO JOSÉ ZATTAR S/A, contra decisão do Tribunal de Justiça do Estado do Paranáque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fls. 724/725):
+APELAÇÃO CÍVEL - AÇÃO DE REINTEGRAÇÃO DE POSSE - SENTENÇA DE IMPROCEDÊNCIA DO PEDIDO - IMÓVEL RURAL - POSSE FÁTICA EXERCIDA POR AMBAS AS PARTES - EXERCÍCIO POSSESSÓRIO EM MAIOR EXTENSÃO, PELA APELANTE, COM CULTIVO E EXTRAÇÃO DE ERVA-MATE - POSSE FÁTICA EM MENOR EXTENSÃO EXERCIDA PELO APELADO - OCUPAÇÃO DE PARCELA DA PROPRIEDADE DURANTE DÉCADAS - LOCAL ONDE O OCUPANTE NASCEU, CRESCEU, CONSTITUIU FAMÍLIA E CRIOU FONTE DE SUBSISTÊNCIA - POSSIBILIDADE DE INTERVERSÃO DA POSSE - MUTAÇÃO DA DETENÇÃO EM POSSE DIRETA - NECESSIDADE DE RESGUARDAR O DIREITO DE MORADIA AO APELADO - SENTENÇA REFORMADA -REINTEGRAÇÃO DA POSSE EM MAIOR EXTENSÃO À AUTORA E MANUTENÇÃO DA POSSE EXERCIDA PELO APELADO EM PARCELA DO IMÓVEL RURAL - APURAÇÃO DA ÁREA MENORMEDIANTE LIQUIDAÇÃO DE SENTENÇA - INVERSÃO DA SUCUMBÊNCIA.
+1. A área rural descrita na inicial é composta de duas matrículas imobiliárias e possui vasta extensão territorial.
+2. No caso concreto, o exercício possessório foi demonstrado por ambas as partes. A indústria comprovou exercer a posse em maior extensão, com o cultivo e extração de erva-mate, enquanto o Apelado demonstrou ocupar pequena parcela da propriedade, durante décadas, praticando atos possessórios, e não de detenção.
+3. A doutrina admite a possibilidade da interversão da detenção em posse, ou seja, o detentor poderá se tornar um possuidor direto, alterando a qualidade dos atos praticados, que passam de atos de conservação para atos possessórios, nos quais se inclui a possibilidade de desfrute no interesse próprio. Situação dos autos.
+4. Diante da ocupação de pequena área para fins de moradia, durante décadas, imperioso manter o Apelado na posse da áreaonde nasceu, cresceu e constituiu família, com apuração da extensão em liquidação de sentença, em homenagem ao direito de moradia e em respeito à dignidade humana, sem prejuízo decomposição entre as partes.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração por ambas as partes, foram rejeitados (e-STJ Fls. 1227/1230 e 1687/1690).
+Nas razões do recurso especial, manejado unicamente com fulcro na alínea c do permissivo constitucional (e-STJ Fl. 1702), a recorrentealegaofensa aos arts. 11, 371, 489, § 1º, IV, 502, 508 e e1.022, caput e II, do CPC/2015. A par da negativa de prestação jurisdicional, insurge-se contra a posse reconhecida às partes adversas, mencionando haver decisão transitada em julgado no ponto.
+Contrarrazões à e-STJ Fls. 1728/1735.
+É o breve relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, verifico que o recurso especial não pode ser conhecido por deficiência de fundamentação.
+Inicialmente, verifico que o recurso especial da agravante foi manejado única e exclusivamentecom fulcro naalínea c do inciso III do art. 105 da Constituição Federal (e-STJ Fl. 1702), não obstante não aponte nenhum julgado para confronto com o acórdão recorrido e indique, apenas,ofensa a dispositivos de lei federal.
+Assim, sua fundamentação édeficientee impede a exata compreensão da controvérsia. Aplica-se, por analogia, o enunciado n.284da Súmula do Supremo Tribunal Federal.
+De qualquer sorte, ainda que assim não fosse, há que se salientar que, mesmo considerando eventual interposição pela alínea a do permissivo constitucional, a incidência da Súmula 284/STF é inarredável na espécie.
+Isso porque se apresentadeficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 11, 489 e 1.022 do CPC/2015 se faz de forma genérica, não havendo a demonstração clara dos pontos do acórdão que se apresentam carentes de fundamentação, omissos, contraditórios ou obscuros. Aplica-se, assim, o óbice da Súmula 284/STF. Nesse sentido: AgRg no Ag 1.130.264/SP, 6ª Turma, Rel. Min. Vasco Della Giustina (Desembargador Convocado do TJ/RS), DJe de 01/07/2011; REsp 1.253.231/SC, 2ª Turma, Rel. Min. Castro Meira, DJe de 03/11/2011; REsp 1.268.469/SP, 2ª Turma, Rel. Min. Mauro Campbell Marques, DJe de 27/02/2012; e REsp 1.190.865/MG, 3ª Turma, Rel. Min. Massami Uyeda, DJe de 01/03/2012.
+Saliente-se, a propósito, que é imprescindível, para que seja configurada a negativa de prestação jurisdicional (ofensa ao art. 1.022 do CPC/2015), a explanação acerca da relevância da apreciação da questão tida por omissa e do modo em que ela repercutiria no resultado do julgamento, o que não ocorreu no caso concreto.
+Nesta mesma esteira, quanto à eventual alegação de ofensa aos arts.371,502 e508 do CPC/2015,exsurge deficiente a fundamentação recursal, pois a recorrente limita-se a citar os dispositivos supostamente violados, deixando de informar de que modo a legislação federal foi violada ou teve negada sua aplicação no acórdão recorrido, de acordo com sua fundamentação. Assim, não conheço do recurso, ante a incidência da Súmula 284/STF.
+Destarte, inviável a pretensão da recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015).DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INCIDÊNCIA DA SÚMULA 284/STF. DEFICIENTE FUNDAMENTAÇÃO RECURSAL.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
