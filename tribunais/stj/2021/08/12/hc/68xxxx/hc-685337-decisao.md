@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de RICARDO LACERDA DOS SANTOS apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (Apelaçãon. 0002726-12.2019.8.08.0024).
+Depreende-se dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, a ser cumprida em regime inicial fechado, pela prática do crime inserto no art. 33 da Lei n. 11.343/2006, por ter em depósito, "para o tráfico, em desacordo com determinação legal e regulamentar, três pinos da droga conhecida como "cocaína" e de pedras da droga conhecida como "crack"" (e-STJ fl. 77).
+Irresignado, o paciente interpôs recurso de apelação, tendo a Corte de origem negado provimento ao recurso, em acórdão assim ementado(e-STJ fl. 38):
+APELAÇÃO CRIMINAL - TRÁFICO DE DROGAS ABSOLViÇÃO - IMPOSSIBILIDADE - PROVAS DA AUTORIA E MATERIALIDADE REDlMENSIONAMENTO DA PENA-BASE IMPOSSIBILIDADE DUAS CONDENAÇÕES TRANSITADAS EM JULGADO - CIRCUNSTÂNCIA DOS ANTECEDENTES VALORADA MEDIANTE FUNDAMENTAÇÃO IDÔNEA - PENA-BASE FIXADA EM PATAMAR PROPORCIONAL - RECURSO DESPROVIDO.
+1. Na hipótese, o apelante sustenta a versão de que era um morador de rua que recebeu abrigo da mãe do corréu Deyvison, não tendo qualquer relação com o tráfico de drogas no local. Todavia, a versão do apelante não é crivel diante do contexto dos autos. A casa na qual o apelante foi encontrado não possuía características de um local residencial, pois não era guarnecidocom móveis, denotando ser um local destinado ao preparo e armazenamentodesubstâncias entorpecentes.
+2. Considerando tratar-se de réu com mais de uma ação penal transitada em julgada, é possível que uma seja utilizada para gerar a reincidência e a outra para negativar os maus antecedentes.
+3. Recurso desprovido.
+Daí o presente writ, no qual a defesa sustenta que"a apreensão das drogas supostamente encontradas na residência em que RICARDO LACERDA DOS SANTOS se encontrava ocorreu de forma manifestamente ilegal, a teor do art. 157, caput , do Código de Processo Penal, bem como do art. 5º, incisos XI e LVI, da Constituição Federal. Isso porque os agentes policiais não possuíam mandado judicial autorizador da busca domiciliar, tampouco existiam indícios concretos que justificassem a atuação em situação de flagrante delito" (e-STJ fl. 5).
+Requer a concessão da ordem para que o paciente seja absolvido.
+É o relatório.
+Decido.
+De saída, verifico que da questão suscitada no presente remédio constitucional - absolvição em razão dailicitude da prova obtida- não pode esta Casa conhecer diante da falta de manifestação sobre o tema pelo Tribunal de origem.
+Nessa alheta, fica impossibilitado o pronunciamento deste Sodalício, sobrepujando a competência da Corte estadual, sob pena de configuração do chamado habeas corpus per saltum, a ensejar supressão de instância e violação dos princípios do duplo grau de jurisdição e do devido processo legal substancial.
+Adequado à espécie, nessa perspectiva, o ensinamento de Renato Brasileiro, que, ao apreciar a matéria, destacou a inviabilidade do "pedido de julgamento de habeas corpus per saltum, ou seja, do julgamento do remédio heroico pelas instâncias superiores sem prévia provocação das instâncias inferiores acerca do constrangimento ilegal à liberdade de locomoção, sob pena de verdadeira supressão de instância e consequente violação do princípio do duplo grau de jurisdição" (LIMA, Renato Brasileiro. Manual de processo penal: volume único. 4. ed. rev., ampl. e atual. Salvador: JusPodivm, 2016, p. 2.470).
+Nesse mesmo caminhar:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. REGIME INICIAL. DETRAÇÃO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Tratando-se de irresignação per saltum não cabe a esta Corte a análise inaugural da matéria, sob pena de incidir em indevida supressão de instância.
+2. Agravo improvido.
+(AgRg no HC 522.299/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/10/2019, DJe 29/10/2019, grifei.)
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ROUBO CIRCUNSTANCIADO. DOSIMETRIA. EMPREGO DE ARMA. APREENSÃO E PERÍCIA. DESNECESSIDADE. RECONHECIMENTO COM BASE NO DEPOIMENTO DO RÉU E EM PROVA TESTEMUNHAL. POSSIBILIDADE. PRESENÇA DE DUAS CAUSAS DE AUMENTO. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. AUSÊNCIA DE MOTIVAÇÃO CONCRETA. OFENSA À SÚMULA 443/STJ. REGIME PRISIONAL FECHADO. GRAVIDADE ABSTRATA DA CONDUTA. FUNDAMENTO INIDÔNEO. PENA-BASE NO MÍNIMO LEGAL. RÉU PRIMÁRIO. SÚMULAS 440/STJ E 718 E 719 DO STF. DETRAÇÃO. TEMA NÃO ANALISADO PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+8. No que se refere à detração do tempo de prisão cautelar, verifica-se que o tema ora deduzido não foi objeto de cognição pela Corte de origem, o que obsta o seu exame por este Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+9. Writ não conhecido. Ordem concedida, de ofício, com o fim de reduzir a pena imposta ao paciente para 5 anos e 4 meses de reclusão, e estabelecer o regime prisional semiaberto para o início do desconto da reprimenda.
+(HC 579.177/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 09/06/2020, DJe 17/06/2020, grifei.)
+No mesmo sentido, a orientação do Supremo Tribunal Federal:
+Agravo regimental em recurso ordinário em habeas corpus. 2. Delito de vias de fato e violação de domicílio (art. 21, caput, do Decreto-Lei n. 3.688/41 e art. 150, § 1º, do Código Penal) 3. Inépcia da denúncia. Trancamento da ação penal por ausência de justa causa. Matéria não examinada nas instâncias anteriores. Supressão de instância. A extinção da ação penal de forma prematura somente é possível em situação de manifesta ilegalidade. Precedentes. 4. Agravo regimental a que se nega provimento.
+(RHC 133.585 AgR, Rel. Ministro GILMAR MENDES, Segunda Turma, julgado em 21/06/2016, DJe 1º/08/2016.)
+Ante o exposto, com fundamento no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o habeas corpus.
+Publique-se. Intimem-se.
