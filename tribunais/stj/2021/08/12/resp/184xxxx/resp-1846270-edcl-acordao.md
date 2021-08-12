@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
+1. Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício de integração a ser sanado, pois o acórdão é claro, coerente e expresso quando aponta os óbices sumulares ao conhecimento do recurso. O que pretende a embargante é o rejulgamento do recurso, fim para o qual servem os embargos de declaração.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por LG ELETRONICS DO BRASIL LTDA contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PROCON/SP. OPOSIÇÃO DE EMBARGOS PELO DEVEDOR. PRAZO. CDA. NULIDADE. PRETENSÃO VINCULADA AO EXAME DE PROVAS. INADMISSIBILIDADE.
+1. Com relação à tese relacionada à intimação da recorrente, o recurso não pode ser conhecido porque pacífica a orientação deste Tribunal Superior no sentido de que, "demonstrada ciência inequívoca do executado quanto à penhora on-line, é desnecessária sua intimação formal para que se tenha início o prazo para o ajuizamento dos embargos de execução" (AgInt no REsp 1756662/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 08/04/2019, DJe 11/04/2019).
+2. Quanto à alegação de impossibilidade de oposição dos embargos à execução fiscal, o conhecimento do recurso encontra óbice na Súmula 7 do STJ. E, com relação às certidões de dívida ativa, o conhecimento do recurso encontra óbice nas Súmulas 7 do STJ e 282 do STF, pois, além de não prequestionada a matéria, eventual conclusão pela nulidade depende do exame de prova.
+3. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 809/814):
+Basta uma leitura perfunctória dos autos para concluir que todas as premissas fáticas necessárias ao enfrentamento da questão ora debatida são incontroversas, razão pela qual se faz desnecessário o reexame das provas constituídas nos autos, mas sim uma interpretação lógica quanto (i) a legalidade do ato administrativo que pode ser afastada se apresentada prova em contrário, sendo exatamente o que ocorreu no presente caso, motivo pelo qual a Embargante não violou as disposições do Código de Defesa do Consumidor; e (ii) inobservância dos princípios da razoabilidade e da proporcionalidade na aplicação da multa imposta, sendo necessária à sua redução. Assim, a única questão que se coloca no presente recurso é meramente de direito e, ainda na remota hipótese deste egrégio Tribunal Superior permanecer no entendimento de que o recurso não merece acolhimento ante a suposta intempestividade dos Embargos à Execução, referida análise deverá se dar por meio de uma interpretação óbvia e não por reexame de provas  ..  ao negar provimento ao agravo interno interposto pela ora Embargante, essa c. Turma cometeu grave error in judicando, notadamente porque resta incontroverso nos autos que a discussão é puramente jurídica, relacionada à aplicação e interpretação dos artigos supracitados e não tendo o Recurso Especial ora interposto o objetivo de rever o conteúdo fático e probatório dos autos.15. Assim, sendo demonstrada a não incidência da Súmula 7 deste c. STJ, mister que os embargos sejam acolhidos para que, sendo suprida a omissão, essa c. Primeira Turma passe a analisar a violação aos dispositivos federais articulados no bojo do Recurso Especial.
+Sem impugnação pela parte embargada (fl. 821).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
+1. Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício de integração a ser sanado, pois o acórdão é claro, coerente e expresso quando aponta os óbices sumulares ao conhecimento do recurso. O que pretende a embargante é o rejulgamento do recurso, fim para o qual servem os embargos de declaração.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício de integração a ser sanado, pois o acórdão é claro, coerente e expresso quando aponta os óbices sumulares ao conhecimento do recurso; vide:
+Impossibilidade de opor os embargos à execução fiscal: na parte, o conhecimento do recurso encontra óbice na Súmula 7 do STJ, pois o delineamento fático descrito no acórdão recorrido não permite chegar à essa conclusão, sendo necessário, para esse fim, reexame de provas, o que não é adequado em recurso especial. Com relação às certidões de dívida ativa, o conhecimento do recurso encontra óbice nas Súmulas 7 do STJ e 282 do STF, pois, além de não prequestionada a matéria, eventual conclusão pela nulidade depender do exame de prova.
+O que pretende a embargante é o rejulgamento do recurso, fim para o qual servem os embargos de declaração.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
