@@ -1,0 +1,28 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+Trata-se de agravo interno interposto por José Roberto Tricoli, às fls. 3.633-3.653, contra decisão, assim ementada (fl. 3.539):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. IMPROBIDADE ADMINISTRATIVA. INEXIGIBILIDADE DE LICITAÇÃO. ESCRITÓRIO DE ADVOCACIA. CONTRATAÇÃO. EXCEPCIONALIDADE NÃO CONFIGURADA. REEXAME. IMPOSSIBILIDADE. SÚMULA 7/STJ. DANO IN RE IPSA. RECONHECIMENTO. INDEPENDÊNCIA DAS ESFERAS CIVIL, PENAL E ADMINISTRATIVA. PRESTAÇÃO DO SERVIÇO. RESSARCIMENTO. DESCABIMENTO. PRECEDENTES. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
+O agravante alega, em síntese, a existência de omissão na origem quanto a pontos importantes ao deslinde da controvérsia acerca da não ocorrência de dano ao erário. Assevera a ofensa ao art. 10, VIII, da Lei n. 8.429/1992, ao fundamento de que este exige a lesão ao erário para a sua caracterização. Sustenta ofensa ao art. 12 da LIA e divergência jurisprudencial com o REsp n. 488.842/SP ao argumento de que também devem ser excluídas as condenações às penas de proibição de contratar com a Administração Pública e suspensão dos direitos políticos.
+Alfim, aduz ofensa aos arts. 66 do CPP e 935 do CC, em virtude da absolvição no âmbito criminal, de modo a afastar qualquer imputação de conduta dolosa na presente demanda.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+A irresignação não merece prosperar.
+Isso porque a decisão agravada deu parcial provimento ao recurso especial, tão somente para decotar da condenação o ressarcimento ao erário dos valores pagos em decorrência da contratação ilegal, aos seguintes fundamentos: (a) inexistência de omissão; (b) necessidade de reexame do conjunto fático-probatório dos autos para rever a conclusão do Tribunal de origem acerca da demonstração do dolo para a configuração do ato ímprobo em apreço, tendo a contratação direta com seus diversos aditamentos configurado desvio de finalidade, em virtude da ausência de fundamentação plausível para justificar a inexigibilidade da licitação, na medida em que o objeto não era singular e o trabalho poderia ser facilmente prestado por qualquer dos Procuradores, não sendo necessária especialização para execução do serviço; (c) reconhecimento do dano presumido no caso vertente em razão da ofensa ao art. 10, VIII, da Lei n. 8.429/1992, consoante jurisprudência do STJ; (d) consonância do acórdão a quo com a jurisprudência desta Corte acerca da independência entre as esferas cível, penal e administrativa; e (e) negativa de vigência ao art. 12 da Lei n. 8.429/1992, haja vista a dissonância do acórdão impugnado com a jurisprudência do STJ segundo a qual é indevido o ressarcimento ao erário dos valores gastos com contratações quando efetivamente houve contraprestação dos serviços, a fim de evitar o enriquecimento ilícito da Administração, asseverando que a "vedação de restituição não desqualifica a infração inserida no art. 10, VIII, da Lei 8.429/92 como dispensa indevida de licitação. Não fica afastada a possibilidade de que o ente público praticasse desembolsos menores, na eventualidade de uma proposta mais vantajosa, se tivesse havido o processo licitatório (Lei 8.429/92 - art. 10, VIII)." (e-STJ fl. 3.546).
+Ocorre que o agravante não impugnou, especificamente, a incidência do óbice contido na Súmula n. 7 do STJ ao caso em apreço, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
