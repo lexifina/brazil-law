@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão, assim ementado (e-STJ fl. 287):
+Embargos à execução - Ação de execução por quantia certa contra devedor solvente - Contrato bancário - Limitação dos juros afastada Possibilidade de capitalização dos juros cobrança de período de inadimplência, desde que não cumulada comjuros remuneratórios, nem com correção monetária Prevalência das cláusulas e Condições, livremente, pactuadas pelas partes, no contrato - Cerceamento de defesa e continência não configurados Embargos julgados improcedentes - Recurso não provido.
+Os embargos declaratóriosforam rejeitados (e-STJ fls. 449/457).
+O recurso especial (e-STJ fls. 460/479), fundamentado no art. 105, III, alíneas "a" e "c", da CF, aponta ofensa aos seguintes dispositivos:
+(i) art. 535, II, do CPC/1973, "não foi enfrentado o tema que este Sodalício determinou (REsp no 1.083.545): Os cálculos apresentados pelo exequente no início da execução atende o art. 614, II, do CPC/73 .  .. . se faz necessário, novamente, anular o acórdão proferido quando do julgamento dos novos embargos declaratórios, para que outro venha em seu lugar, de modo que a 13a Câmarado Tribunal de Justiça de São Paulo aprecie a preliminar de nulidade do demonstrativo do débito (inc. II, do art. 614, do CPC/73)" (e-STJ fls. 467/458). Aduz que "o acórdão foi omisso deixando de lado a questão se para permitir a capitalização dos juros, com suporte no caput do art. 5% da MP 2.170-36/01, é necessário previsão expressa em contrato" (e-STJ fl. 468),
+(ii) art.614, II, do CPC/1973, "O demonstrativo elaborado pelo banco não atende os requisitos legais, pois não responde aos questionamentos primários" (e-STJ fl. 471). Informa que "a regra (inc. II, do art. 614, do CPC/ 73 / parágrafo único, do art. 798, do CPC/15) exige que o demonstrativo tenha conteúdo e, não, mera referencia. Ordena que se explique os elementos e critérios empregados para atingir o montante, v.g., a taxa de juros e a forma de capitalização; o índice (valor) de correção monetária (ter aplicado e sua base de cálculo.  .. . a revisional destacada, evidentemente, é mais ampla. Todavia, aqui, o que se pretende saber é se os contratos vinculados ao termo de renegociação de dívida, ou seja, que deram origem a formação do que está sendo colocado em cobrança, contém irregularidades a ponto de exigir a assinatura da confissão que se cobra ou era dispensável tal instrumento, posto que quitada a dívida pelas cobranças indevidas" (e-STJ fls. 472/473), e
+(iv) art. 5º,caput, da MP n. 2.170-36/2001, tendo em vista que ", a capitalização dos juros não pode ser n tolerada, in casu, só porque as instituições financeiras capitalizam os rendimentos das cadernetas de poupança, como no acórdão primitivo, ou porque cobram esses inicialmente, como concluiu o acórdão dos embargos de declaração. Afinal, capitalizar os rendimentos os poupadores ou cobrar os juros inicialmente, por si só, não dá licença para que as instituições financeiras infrinjam a Lei cogente" (e-STJ fls. 474/475). Neste ponto, aduz, ainda, divergência jurisprudencial.
+Não foram apresentadas contrarrazões (e-STJ fl. 502).
+É o relatório.
+Decido.
+Inicialmente, no REsp n. 1.083.545/SP, determinei o retorno dos autos à origem, tendo em vista a existência de omissão, nos seguintes termos:
+"Os recorrentes, nos embargos à execução (e-STJ fls. 11/13) e também no recurso de apelação (e-STJ fls. 231/233), afirmaram que os cálculos apresentados pelo exequente no início da execução não atendiam ao artigo 614, II, do Código de Processo Civil. O Tribunal de origem, todavia, a despeito dos embargos de declaração (e-STJ, fls. 306) não se manifestou sobre o tema.
+Portanto, o retorno dos autos à origem restringiu aos requisitosdo art. 614, II, do CPC/1973, não havendo, portanto, determinação de novo julgamento dos embargos de declaraçãoquanto à capitalização.
+Tanto que o acórdão dos embargos de declaração afirmou que "a questão posta resume-se à necessidade de sanar a omissão apontada no que tange à presença dos requisitos do artigo 614, inciso II, do Código de Processo Civil de 1973" (e-STJ fl. 452).
+Em relação ao teor do art. 614, II, do CPC/1973:
+Art. 614. Cumpre ao credor, ao requerer a execução, pedir a citação do devedor e instruir a petição inicial:
+ ..
+II - com o demonstrativo do débito atualizado até a data da propositura da ação, quando se tratar de execução por quantia certa;
+A parte reitera que não foi novamente apreciado seu pedido. Afirma que não foi cumprido o disposto no art. 614, II, do CPC/1973, pois não ficou claro no demonstrativo de débito "quais os índicesutilizadospara chegar nos valores demonstrados na inicial da execução.E, não basta dizer que esses estão disponíveis a todos, porque a regra manda (art. 614, II, do CPC 73) que no demonstrativo conste tais elementos, viabilizando o contraditório" (e-STJ fl. 468).
+Portanto, persiste a omissão, devendo o Tribunal de origem se manifestar sobre aseguintequestão:o demonstrativo do débito descrimina os índices utilizados para chegar aos valores demonstrados na inicial da execução
+Nesse mesmo sentido:
+EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. OMISSÃO. OBSCURIDADE. CONTRADIÇÃO. EXISTÊNCIA.
+1. Não havendo o Tribunal de origem apreciado as matérias suscitadas nos embargos de declaração opostos pelo ora embargante, configurada está a ofensa ao artigo 535 do Código de Processo Civil de 1973, a impor o retorno dos autos à origem para complementar a devida prestação jurisdicional.
+2. Embargos de declaração acolhidos com efeitos modificativos.
+Decisão e acórdão proferidos por esta Corte anulados.
+(EDcl no AgRg no AREsp 630.520/BA, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/08/2018, DJe 11/09/2018.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA DE NULIDADE DE TÍTULO EXTRAJUDICIAL - DUPLICATA EMITIDA SEM AS FORMALIDADES LEGAIS - ACÓRDÃO DESTE ÓRGÃO COLEGIADO QUE NEGOU PROVIMENTO AO AGRAVO REGIMENTAL, MANTENDO HÍGIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DO AUTOR.
+1. Embargos de declaração que merecem acolhida, com efeitos infringentes, em virtude de omissão na análise de questão imprescindível ao correto deslinde da controvérsia. Negativa de prestação jurisdicional arguida nas razões do recurso especial.
+Violação ao artigo 535 do CPC configurada. Acórdão do Tribunal de origem que deixou de se manifestar sobre pontos imprescindíveis ao adequado desenredo da contenda.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para reformar o acórdão que julgou o agravo regimental, a fim de acolher a preliminar de negativa de prestação jurisdicional formulada nas razões do apelo nobre e, uma vez anulado o acórdão de fls.
+477-478, determinar o retorno dos autos à origem a fim de que sane as omissões e contradições apontadas no petitório de fls. 448- 473.
+(EDcl no AgRg no REsp 1021214/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 14/04/2015, DJe 24/04/2015.)
+Prejudicadas as demais alegações.
+Diante do exposto, DOU PARCIAL PROVIMENTO ao recurso especial, determino o retorno dos autos ao Tribunal de origem para novo julgamento dos embargos de declaração, a fim deque supra aomissão apontada.
+Publique-se e intimem-se.
