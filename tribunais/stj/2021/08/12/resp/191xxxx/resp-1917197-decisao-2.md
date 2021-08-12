@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial por ausência de demonstração da ofensa aos dispositivos legais eincidência da Súmula n. 7 do STJ (e-STJ fls. 1.712/1.714).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.505):
+Ementa: Acidente de veículo. Atropelamento de pedestre em rodovia. Existência de passagem de nível insegura para pedestres e veículos. Responsabilidade objetiva da concessionária que administra a rodovia. Ausência de culpa exclusiva da vítima ou do condutor do automóvel. Risco da atividade. Sentença reformada. Recurso parcialmente provido.
+Os embargos de declaração foram acolhidos (e-STJ fl. 1.538):
+Ementa: Embargos de Declaração. Acolhimento para sanar vícios e prestar esclarecimentos, com alteração do julgado.
+No recurso especial (e-STJ fls. 1.589/1.607), fundamentado no art. 105, III, "a", da CF, a recorrente alega ofensa aos arts. 43, 186 e 927 do CC/2002. Sustenta que (e-STJ fls. 1.595/1.600):
+Distintamente do que entendeu o v. acórdão recorrido, a responsabilidade da Recorrente não é objetiva, mas sim subjetiva, exigindo, pois, necessária comprovação da culpa (no caso, ausente).
+ .. a responsabilidade imputada à Recorrente é subjetiva. Primeiro porque o dano não foi causado por qualquer de seus agentes. Ademais, a conduta a ela atribuída é omissiva  iluminação deficitária, ausência de equipamento eletrônico de controle de velocidade ("radar") e passarela no exato local do evento  e não comissiva.
+ .. Nas circunstâncias em que ocorreu o acidente, a Recorrente é efetivamente isenta de responsabilidade. Afinal, reitere-se:
+Como incontroverso, o acidente não foi ocasionado porque agentes da própria Recorrente confluíram para isso ou mesmo por descumprimento a quaisquer dos deveres intrínsecos à concessão.
+Ante as peculiaridades do caso, e conforme amplo conjunto probatório que instrui os autos, a causa determinante do sinistro consiste na culpa da própria vítima, porquanto negligente e imprudente em sua conduta.
+ .. Cumpre destacar, ainda, que o acidente não caracterizou um atropelamento. Houve, em verdade, uma colisão transversal entre dois veículos, no qual o motorista do veículo automotor VW Polo, placas GXO-4848, conduzido pelo Sr. Marcos Roberto Bertosti Gobo, colidiu com o veículo não motorizado (bicicleta) conduzido pela vítima (Jonathan).
+A vítima não trafegava "a pé", mas sim conduzia uma bicicleta. E o local da colisão, convém frisar, não se destinava a ciclistas.
+Afirma que (e-STJfl. 1.603):
+No caso em análise, não houve omissão culposa por parte da Recorrente, sendo que, para a ocorrência do acidente, não confluíram quaisquer falhas no cumprimento das obrigações assumidas, não concorrendo a Concessionária para a ocorrência do acidente; tampouco dando causa, total ou parcialmente, para a colisão.
+Outrossim, logo após o acidente, prestou-se o devido atendimento à ocorrência, com o pronto deslocamento de viaturas ao local, encaminhando equipe de resgate, bem como a sinalização e canalização do tráfego.
+No agravo (e-STJ fls. 1.720/1.737), afirma a presença de todos os requisitos de admissibilidade do especial.
+Os agravados apresentaram contraminuta (e-STJ fls. 1.740/1.742).
+Parecer do MPF pelo não conhecimentodo recurso (e-STJ fls. 1.777/1.783).
+É o relatório.
+Decido.
+A Corte local assim decidiu (e-STJ fls. 1.508/1.509):
+A falta de segurança constitui falha no serviço prestado, e os danos decorrentes do acidente devem ser reparados, independentemente da culpa da concessionária, diante do risco da atividade desenvolvida por ela (art. 37, § 6º, da CF).
+Não há no local vedação à passagem de pedestres com bicicletas, nem recomendação de uso de outra travessia para ciclistas. Há fotografias de outros ciclistas no local (fls. 102/103), que comporta o tamanho de uma bicicleta sem invadir a pista. Além disso, o art. 68, § 1º, do CTB equipara ao pedestre o ciclista desmontado empurrando a bicicleta. Reconhece-se, pois, o nexo causal entre o acidente a conduta do apelante.
+As fotografias de fls. 290, 291, 1045 e 1049 corroboram a afirmação das testemunhas de que a iluminação do local é fraca e insuficiente. O local é indiscutivelmente perigoso e já houve outros atropelamentos, inclusive com resultado fatal, conforme relatos das testemunhas José Roque e Everton e matérias jornalísticas colacionadas.
+O exame de dosagem alcoólica realizado na vítima restou negativo (fls. 107). ..  O laudo do instituto de criminalística considerou mais provável que a vítima conduzia a bicicleta a se lado, e não montada nela  ..
+Sendo assim, reformo a r. sentença de improcedência, reconhecendo a responsabilidade da requerida pelo acidente causado à vítima, diante da existência de passagem de nível insegura para pedestres e motoristas, em trecho mal iluminado, sem radar, redutor ou inibidor de velocidade.
+Na esteira da jurisprudência desta Corte Superior, as pessoas jurídicas de direito privado prestadoras de serviço público - concessionárias e permissionárias - respondem objetivamente pelos danos causados a terceiros, somente se furtando a tal responsabilidade mediante a comprovação de que o evento danoso derivou de culpa exclusiva da vítima, caso fortuito ou força maior. A propósito:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. ACIDENTE DE TRÂNSITO CAUSADO POR OBJETO CAÍDO EM RODOVIA. IMPROCEDÊNCIA DO PEDIDO. ART. 927 DO CC/02. RESPONSABILIDADE CIVIL DA CONCESSIONÁRIA NÃO COMPROVADA. CONCLUSÃO CALCADA EM ANÁLISE DA DINÂMICA DO ACIDENTE. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte já firmou o entendimento de que a responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público é objetiva relativamente a terceiros usuários e não usuários do serviço, segundo o art. 37, § 6º, da CF.
+Essa responsabilidade objetiva baseia-se na teoria do risco administrativo, segundo a qual basta a prova da ação, do dano e de um nexo de causa e efeito entre ambos, sendo, porém, possível excluir a responsabilidade em caso de culpa exclusiva da vítima, de terceiro, ou, ainda, em caso fortuito ou força maior. Precedente.
+3. Inviável o reexame do conjunto fático-probatório dos autos nessa instância especial, a fim de alterar as conclusões firmadas no acórdão proferido no Tribunal estadual. Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido.
+(AgInt no REsp 1646967/RJ, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 20/04/2020, DJe 23/04/2020.)
+Incide, portanto, a Súmula n. 83 do STJ.
+Ademais, dissentir das conclusões do acórdão impugnado quanto à falha na prestação do serviço e ausência de culpa da vítima, conforme requerido no especial, exigiria o reexame do acervo fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DE INDENIZAÇÃO.RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO.MANUTENÇÃO DE RODOVIAS. ACIDENTE CAUSADO POR OBJETO SOLTO NA PISTA.INEXISTÊNCIA DE EXCLUDENTES DE RESPONSABILIDADE. ALTERAÇÃO DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. A necessidade de impugnação específica - prevista no art. 932, III, do CPC/2015 e Súmula 182/STJ - não se aplica ao fundamento relativo à violação de norma constitucional, pois se trata de matéria a ser apreciada no recurso extraordinário. Com isso, reconsidera-se a decisão agravada, passando-se a novo exame do recurso.
+2. Não configura ofensa ao art. 1.022 do CPC/2015 o fato de o col.Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+3. A responsabilidade civil das pessoas jurídicas de direito privado prestadoras de serviço público - concessionárias e permissionárias - por danos causados a terceiros é objetiva, sendo prescindível a demonstração da ocorrência de culpa. Precedentes.
+4. No caso, o Tribunal de origem observou que não houve comprovação de culpa exclusiva da vítima ou de terceiro e concluiu que o acidente sofrido pelo autor ocorreu em razão de objeto solto na pista, confirmando que a conduta omissiva da concessionária em providenciar a manutenção, fiscalização e limpeza da rodovia foi o fator fundamental para o acidente se concretizar. A alteração de tal entendimento demandaria, necessariamente, o reexame do conjunto fático-probatório, o que atrai a incidência da Súmula 7 desta Corte.
+5. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(AgInt no AREsp 1457778/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 06/08/2019, DJe 19/08/2019.)
+Ante o exposto, CONHEÇO do agravo e NEGO PROVIMENTO ao especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
