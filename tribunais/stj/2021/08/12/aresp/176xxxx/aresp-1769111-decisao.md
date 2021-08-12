@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por BANCO SANTANDER (BRASIL) S.A.,contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 585):
+Apelação Cível. Execução de sentença. Impugnação à execução. Alegação de excesso. Sentença de improcedência. Recurso de Apelação Cível. REFORMAP A R C I A L, pois o valor fixado em R$ 186.194,50 referente ao montante da multa que foi convolada em perdas e danos merece correção, considerando-se que esta Egrégia Câmara Cível quando do julgamento do agravo de instrumento nº 0009874-63.2007.8.19.0000 reduziu a multa para R$ 100,00 diários. Logo, não pode ser considerada a multa no patamar de R$ 500,00 diários, apontada equivocadamente na decisão de fls. 364/366 (doc. 000416). Por isso, deve ser reduzido o valor das perdas e danos para a importância de R$ 144.100,00, na forma dos cálculos apresentados pela autora às fls. 501/503 (doc. 000501), que mereceu a devida concordância do réu em seu apelo à fl. 559. Os cálculos realizados pelo Contador Judicial relativamente aos honorários advocatícios e quanto à data aplicada para atualização dos danos morais também merecem reparo, já que não observaram o determinado no julgado. Assim, acolhe-se parcialmente o recurso, para reduzir o valor das perdas e danos para a importância de R$ 144.100,00, bem como determinar que o Contador do Juízo proceda a novo cálculo, considerando a data correta da atualização do dano moral, qual seja, 16/07/2008, data da publicação da sentença, como também novos cálculos quanto ao valor dos honorários advocatícios (ação cautelar e principal). P R O V I M E N T O P A R C I A L D O R E C U R S O.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: 223, 507,e, 537, § 1º,do CPC/15, e, Súmula 410/STJ.
+Sustenta, em síntese, que o acórdão recorrido"aplicou de forma equivocada o instituto da preclusão, violando os artigos 223, 507, do CPC, bem como negou vigência ao artigo 537, §1 2 ,l, do código de ritos, ao não analisar o pedido de redução da astreinte" (e-STJ Fl. 644).
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Com efeito, no que se refere à alegada violação à Súmula 410/STJ, insta esclarecer que, em sede de recurso especial, não cabe invocar ofensa à Súmula de Tribunal, haja vista não ser esta equiparada à lei federal (Súmula 518/STJ).
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE ILEGIBILIDADE DE CRÉDITO CUMULADA COM INDENIZAÇÃO POR DANO MORAL. 1. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL TIDO COMO VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. 2. ALEGADA OFENSA DE ENUNCIADO DE SÚMULA. SÚMULA 518/STJ. 3. DIVERGÊNCIA JURISPRUDENCIAL. DANOS MORAIS. VALOR. IMPOSSIBILIDADE. 4. AGRAVO IMPROVIDO.
+1. Observa-se que o recorrente não apontou o dispositivo legal tido como violado a fim de viabilizar o conhecimento da insurgência a respeito da tese de mérito. Dessa forma, constata-se que a argumentação apresentada no recurso mostra-se deficiente, atraindo, assim, a incidência do verbete n. 284 da Súmula do Supremo Tribunal Federal.
+2. Não cabe a este Tribunal apreciar ofensa a súmula em recurso especial, uma vez que o enunciado de súmula não se insere no conceito de lei federal, previsto no art. 105, II, a, da Constituição Federal. Incide, ao caso, o óbice da Súmula 518 desta Corte.
+3. Esta Corte Superior já deixou assente a impossibilidade do conhecimento do dissídio lastreado na diferença entre os valores arbitrados a título de danos morais ante a inexistência de similitude fática, já que, "em se tratando de danos morais, torna-se incabível a análise do recurso com base na divergência pretoriana, pois, ainda que haja grande semelhança nas características externas e objetivas, no aspecto subjetivo, os acórdãos serão sempre distintos" (AgRg no Ag n. 1.179.405/SP, Relator o Ministro João Otávio de Noronha, Quarta Turma, DJe de 13/4/2010).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1112497/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/11/2017, DJe 17/11/2017) - g. n.
+No tocante à alegada violação aos artigos tidos por violados, extrai-se do acórdão recorrido que:
+(..)
+Essa questão acerca do valor da multa diária foi objeto de apreciação por esta E. Câmara Cível quando do julgamento do agravo de instrumento nº 0009874-63.2007.8.19.0000, que reduziu a multa para R$ 100,00 diários.
+Diante do descumprimento da decisão para entrega do DUT e IPVA"s foi iniciada a execução forçada dos valores a título de multa diária imposta, ocasião em que foi convertida a obrigação de fazer em perdas e danos, fixando-as em R$ 242.052,85 (montante da execução da multa diária), determinando a penhora dos ativos do executado, como se vê da decisão de fls. 364/366 (doc. 000416). Constrição efetuada conforme doc. 000376.
+O executado apresentou impugnação à execução (doc. 000465).
+A sentença de fls. 516/517, julgou improcedente a impugnação e, por consequência, deu por encerrada a execução, determinando a imediata transferência do valor penhorado para uma conta do juízo, e, por conseguinte, determinou a expedição demandado de pagamento em favor da autora da quantia em depósito judicial. Custas da execução e Honorários de 10% do valor exequendo pelo réu.
+O executado não se conformou com a sentença e apresentou o recurso de apelação de fls. 550/564.
+(..)
+Quanto à decisão de fls. 364/366 (doc. 000416) que converteu a obrigação de fazer em perdas e danos, de fato, como constou na sentença, ela restou irrecorrida, portanto, preclusa a matéria. Deveria o Banco ter interposto o recurso cabível à época, o que não ocorreu, sendo certo que referida decisão foi proferida em 2014"(e-STJ fls. 588/589, gn).
+Verifica-se que, rever os fundamentos que ensejaram a conclusão da Corte estadual de que preclusa a matéria de conversão da obrigação emperdas e danos e do valor arbitrado a título de astreintes, exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7 do STJ.
+Por fim, deixo de majorar os honorários recursais previstos no artigo 85, § 11, do Código de Processo Civil de 2015, porquanto não fixados na origem.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. IMPUGNAÇÃO À EXECUÇÃO.OBRIGAÇÃO CONVERTIDA EM PERDAS E DANOS. PRECLUSÃO RECONHECIDA PELA CORTE DE ORIGEM. REVISÃO DESTE ENTENDIMENTO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
