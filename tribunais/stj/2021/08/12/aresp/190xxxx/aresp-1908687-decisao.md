@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo contra decisão denegatória do recurso especial interposto por IMOBILIÁRIA E CONSTRUTORA CONTINENTAL EIRELI,com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal.
+Agravo em Recurso Especial interposto em: 03/03/2021.
+Processo distribuído ao Gabinete em: 06/08/2021.
+Ação:de rescisão contratualajuizada pela agravante, em face de EDILENE GUIMARÃES CARVALHO e OUTRO, devido o inadimplemento de contratual, buscando a rescisão do contrato firmado entre as partes, à reintegração de posse do imóvel descrito na inicial, bem como à indenização das perdas e danos decorrentes do uso do bem.
+Sentença:julgou procedenteo pedido inicial para Declarar a rescisão do contrato firmado entre as partes;Determinar a reintegração da parte autora na posse do bem imóvel descrito na inicial, condicionada à indenização da benfeitorias e acessões nele realizadas, a serem estimadas por meio de perícia técnica em sede de cumprimento de sentença;Condenar os réus ao pagamento do IPTU e contas de consumo relativas ao período de posse do imóvel, vencidos até a desocupação efetiva;Determinar que a autora restitua aos réus, de uma só vez, os valores efetivamente adimplidos em razão do contrato ora rescindido, com a possibilidade de retenção do percentual de até 20% (vinte por cento) sobre o montante, cujo somatório deverá ser aferido em fase de cumprimento de sentença, com correção monetária pela Tabela Prática do TJSP a contar da data de cada pagamento/desembolso e acrescido de juros de mora de 1% (um por cento) ao mês a partir da citação (artigo 405 do CC).
+Acórdão:deu provimento parcial à apelação interposta pela agravante, nos termos da ementa a seguir:
+Apelação. Compromisso de compra e venda.Loteamento. Rescisão do contrato em razão do inadimplemento dos réus. Possibilidade de retenção de percentual dos valores pagos. Percentual de 20% que se apresenta adequado e vai ao encontro da jurisprudência do C. STJ acerca do tema.Incidência dos juros de mora a partir do trânsito em julgado. Indenização pela fruição do bem.Possibilidade. Quantum indenizatório que deve ser calculado a partir da data em que os réus foram constituídos em mora. Manutenção da obrigação de indenizar pelas benfeitorias realizadas no imóvel.Consequência lógica da rescisão contratual.Eventual irregularidade administrativa da obra que não afasta o dever de indenizar. Vedação ao enriquecimento sem causa. Sentença parcialmente reformada. Recurso provido em parte.(e-STJ fl. 346).
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso Especial:a agravante alega, além de divergência jurisprudencial, negativa de vigência aos arts. 876 e 884 do Código Civil, aduzindo, em síntese, que "em razão da rescisão contratual, as partes devem ser restabelecidas ao status quo ante, sendo necessária a fixação de indenização por fruição a ser fixada desde a data da assinatura do contrato, sob pena de enriquecimento sem causa do recorrido, conforme determina a súmula 1 do TJSP" (e-STJ fl. 380). Aduz, ainda, que "considerando que o compromissário comprador, foi o único responsável pela rescisão contratual, não há que se falar que o termo inicial deve ser considerado da data do inadimplemento, tendo em vista, que o mesmo ficou auferindo lucro em detrimento da legítima proprietária, contudo, o marco inicial da referia indenização, não foi determinado em consonância com o entendimento majoritário, ao considerar como marco inicial a data do inadimplemento" (e-STJ fl. 381).
+RELATADO O PROCESSO. DECIDE-SE.
+- Julgamento:CPC/15
+- Do reexame de fatos e da interpretação de cláusulas contratuais.
+No mais, verifica-se que a conclusão a que chegou o Tribunala quopara o termo inicial para a contabilização da indenização pela fruição do bem,decorreu de convicção formada pela análise dos elementos fáticos existentes nos autos e do termo contratual em questão.
+Desse modo, alterar o decidido pela Corte de origem, para reconhecer a ocorrência de enriquecimento sem causa, demandaria o reexame de fatos e provas, além da interpretação de cláusula contratual, o que não é admitido nesta via especial, ante o óbice das Súmulas 5 e 7 deste Sodalício.
+- Da divergência jurisprudencial
+Ademais, A incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 964391/SP, 3ª Turma, DJe de 21/11/2016.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL.REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ.SÚMULA 7/STJ. DISSÍDIO PREJUDICADO.
+1. Ação de rescisão contratual.
+2. O reexame de fatos e provas e interpretação de cláusulas contratuais em recurso especial é inadmissível.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. Agravo conhecido. Recurso especial não conhecido.
+.
