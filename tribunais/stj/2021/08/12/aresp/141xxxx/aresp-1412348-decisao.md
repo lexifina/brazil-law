@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu o recurso especial em virtude daausência de demonstração de ofensa aos dispositivos arroladose da aplicação da Súmula n. 7/STJ(e-STJ fls. 181/182).
+O acórdão recorrido está assim ementado (e-STJ fl. 144):
+EXECUÇÃO DE TÍTULO EXTRAJUDICIAL -PENHORA E ADJUDICAÇÃO DE BEM DO COEXECUTADO, CASADO COM COMUNHÃO DE BENS -RESPEITO À MEAÇÃO, COM PENHORA SOMENTE SOBRE A PARTE DO EXECUTADO - REGISTRO DA CARTA DE ADJUDICAÇÃO QUE REVELOU QUE A METADE REMANESCENTE DO IMÓVEL CONTINUA CONSTANDO EM NOME DO CASAL -PEDIDO DA ESPOSA, FEITO NOS AUTOS DA EXECUÇÃO, PARA A RETIFICAÇÃO DO REGISTRO IMOBILIÁRIO - DESCABIMENTO -Conquanto as partes concordem com a incorreção do registro imobiliário do bem adjudicado, referido pedido não deveria ser feito judicialmente, mas de forma administrativa à Corregedoria Geral da Justiça. Falta de interesse processual e recursal à agravante. Precedentes. Recurso não conhecido.
+Nas razões do recurso especial (e-STJ fls. 150/163), interposto com fundamento no art. 105, III, "a", da CF, a recorrente apontou ofensa aos seguintes dispositivos de lei:
+(a) arts. 13 da Lei n. 6.015/1973, 3º, caput, 17 e 1.015, parágrafo único,do CPC/2015, pois,havendo comando legal expresso no sentido de que os registros e retificações serão praticados por ordem judicial e diante do reconhecimento do acórdão recorrido de ser compreensível a pretensão da recorrente, "tem-se presentes nos autos a real necessidade e a utilidade do recurso de agravo de instrumento para a Recorrente, com o intuito de prevenir ameaça ou reprimir lesão à direito. Em outras palavras, tem-se caraterizado o interesse processual da Recorrente" (e-STJ fl. 159),
+(b) arts. 502 e 505, caput, do CPC/2015, uma vez que, "ao condicionar a apreciação do pedido formulado pela Recorrente à comprovação de "ocorrência da extinção da sociedade conjugal, assim como a partilha do bem"violou os princípios da coisa julgada, do direito adquirido e da segurança jurídica, já que aquele D.Juízo já havia, há tempos, deferido o mesmo requerimento de que a adjudicação recaísse apenas sobre os 50% do cônjuge executado, ressalvados os 50% do cônjuge remanescente, de modo que os ofícios já haviam, inclusive, sido expedidos pela D. Serventia e encaminhados pela peticionária aos respectivos registros imobiliários, e só voltaram à pauta em razão da injustificável recusa do Registro Imobiliário de Itapetininga no atendimento das ordens que partiram deste D. Juízo" (e-STJ fl. 160). Afirmou quenão foi interposto recurso contra a decisão quedeterminou a expedição de ofícios,a qual teriatransitadoem julgado.
+No agravo (e-STJ fls. 185/197), declara a presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentou contraminuta (e-STJ fls. 200/202).
+É o relatório.
+Decido.
+Airresignação não merece prosperar.
+O Tribunal de origem não conheceu do agravo de instrumento, entendendo ausentesinteresse recursal e processual à agravante, sob o fundamento de que "o pedido de retificação de registro imobiliário deve ser pleiteado em sede própria, porquanto se trata de questão de cunho administrativo e não jurisdicional, cuja competência é da Corregedoria Geral de Justiça" (e-STJ fl. 145).
+Verifica-se, portanto, que osdispositivos de lei arrolados no especial como violadosnão foram objeto de pronunciamento pelaCorte local. Também não foram opostos embargos de declaração, a fim de provocar o Colegiado estadual a se manifestar sobre os temas.
+Dessa forma, o recurso não pode ser admitido por falta de prequestionamento.
+Incidente, portanto, a Súmula n. 282/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
