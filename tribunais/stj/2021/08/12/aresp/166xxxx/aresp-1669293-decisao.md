@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial diante da incidência das Súmulas n. 7e 83 do STJ.
+O acórdão recorrido está assim ementado (e-STJ fl. 373):
+APELAÇÃO CÍVEL - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. SENTENÇA QUE RECONHECEU A PRESCRIÇÃO INTERCORRENTE- REQUERIMENTO DE MAJORAÇÃO DE HONORÁRIOS - INDEVIDA. DESARRAZOABILIDADE NA CONDENAÇÃO DA INSTITUIÇÃO FINANCEIRA SEQUER NO PAGAMENTO DE VERBA HONORÁRIA, QUIÇÁ EM MAJORAÇÃO - IMPOSSIBILIDADE DE RECURSO ÚNICO COM PREJUÍZO A RECORRENTE - RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 378/388), interposto com base no art. 105, III, "a" e "c", da CF, a recorrente apontou violação doart.85, § 2º, do CPC/2015, alegando que "interpôs o competente recurso de apelação com objetivo de reformar a sentença proferida, no sentido de que os honorários sucumbenciais fossem fixados de acordo com a regra geral prevista no art. 85, § 2º, do CPC" (e-STJ fl. 379).
+Busca, em suma, o provimento do recurso especial para o fim de ser (e-STJ fls. 387/388):
+(..)o presente recurso recebido e processado, na forma da lei, sendo conhecido e, quando de seu julgamento, dado total provimento para o fim de afastar as violações à legislação federal e a divergência jurisprudencial demonstrada e, porconsequência, reformar a decisão recorrida para o fim de fixar os honorários advocatícios sucumbenciais em, no mínimo, de 10% sobre o valor do proveito econômico obtido pela recorrente nos autos da ação de nº 0004738-97.1995.8.12.0001 ou, subsidiariamente, sobre o valor atualizado da causa, nos termos da regra geral prevista no art. 85, § 2º, do CPC.
+No agravo (e-STJ fls. 419/423), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Quanto à possível violação do art. 85, § 2º, do CPC/2015, não houve pronunciamento do Tribunal a quo sobre a matéria tratada no dispositivo legal, nem a Corte local foi instada a fazê-lo por via de embargos declaratórios, circunstância que impede o conhecimento da insurgência por falta de prequestionamento.
+Assim, devem ser aplicadas as Súmulas n. 282 e 356 do STF. Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO DA MATÉRIA VENTILADA NO RECURSO ESPECIAL. SÚMULAS 282 E 356/STF. REEXAME DE MATÉRIA PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é exigência inafastável contida na própria previsão constitucional, impondo-se como um dos principais pressupostos ao conhecimento do recurso especial. Por isso que, não decidida a questão pela instância ordinária e não opostos embargos de declaração, a fim de ver suprida eventual omissão, incidem, por analogia, os enunciados n. 282 e 356 da Súmula do Supremo Tribunal Federal.
+2. O Tribunal de origem consigna a legitimidade somente de quem transferiu a posse e o domínio da coisa, para responder pelos riscos da evicção, nos termos do art. 453 c/c 1.219 do CC. Assim, salienta que a responsabilidade solidária daquele de quem o devedor direto adquiriu o bem alienado para o evicto não existirá sem prova de conluio e má-fé ou de responsabilidade pelo vício, hipóteses não configuradas no caso vertente. Outrossim, destaca que ante a ausência de erro ou vício no processo de registro, a conduta do oficial do cartório de registro não causou, tampouco contribuiu de forma relevante para o dano. A reforma do a resto, nestes aspectos, demanda reexame do acervo fático-probatório soberanamente delineado perante as instâncias ordinárias, providência inviável de ser adotada em sede de recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.142.635/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 8/5/2018, DJe 14/5/2018.)
+A Corte de origemreputou "desarrazoado que o devedor deixe de cumprir sua obrigação e o credor, além de não receber o que lhe é devido, seja obrigado a pagar honorários advocatícios, mormente sobre o valor da dívida não paga ou sobre proveito econômico. A condenação em questão fere o princípio da causalidade" (e-STJ fl. 374).
+A respeito de tais razões de decidir, arecorrente não se manifestou, limitando-se a alegar que os honorários sucumbenciais foram mantidos equivocadamente, por equidade.
+Assim, não estando impugnado fundamento suficiente para manter o acórdão recorrido, aplicável a Súmula n. 283/STF.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
