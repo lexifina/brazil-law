@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto por AMADO ZONATTO contra decisão que inadmitiu o recurso especial, sob o fundamento de incidência da Súmula n. 284/STF (e-STJ fls. 1.537/1.541).
+O acórdão recorrido está assim ementado (e-STJ fls. 1.235 e 1.237):
+AÇÃO DECLARATÓRIA DE NULIDADE DE ATO JURÍDICO C/C PERDAS E DANOS E INDENIZAÇÃO POR ABALO MORAL. AGRAVO RETIDO - BM&F BOVESPA S.A - PRESCRIÇÃO E INAPLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. ANÁLISE PREJUDICADA. QUESTÕES JÁ ANALISADAS. AUSÊNCIA DE CAUSA DE PEDIR. NÃO OCORRÊNCIA. DESNECESSIDADE DE INTIMAÇÃO DA CVM. CONHECIDO EM PARTE E NESTE DESPROVIDO. APELO 1 - BANCO BANESTADO S/A - PRELIMINARES DE PRESCRIÇÃO E IMPROCEDÊNCIA DA DENUNCIAÇÃO DA LIDE. NÃO CONHECIDAS. QUESTÕES JÁ DECIDIDAS EM AGRAVO DE INSTRUMENTO. FRAUDE COMPROVADA. RESPONSABILIDADE DA APELANTE DEMONSTRADA. RECURSO CONHECIDO EM PARTE E, NA PARTE CONHECIDA DESPROVIDO. APELO 2 - AMADO ZONATTO. DANO MORAL NÃO CONFIGURADO. RESSARCIMENTO PELO VALOR DA AÇÃO DA DATA DO EVENTO DANOSO. RECURSO DESPROVIDO. APELO 3 - BRASIL TELECOM S/A. RESPONSABILIDADE DA COMPANHIA EM VERFICAR A REGULARIDADE DAS TRANSFERÊNCIAS DAS AÇÕES DE SUA EMISSÃO. RECURSO DESPROVIDO. APELO 4 - BM&BOVESPA S/A - BOLSA DE VALORES, MERCADORIAS E FUTUROS. ALEGAÇÃO DE AUSÊNCIA DE PRÁTICA DE ATO IRREGULAR AFASTADA. DEVER DE CUIDADO NÃO VERIFICADO. RESPONSABILIDADE SOLIDÁRIA AS DEMAIS REQUERIDAS. RECURSO DESPROVIDO.
+Os embargos de declaração opostos por BRASIL TELECOM S/A e por BM&F BOVESPA S/A - BOLSA DE MERCADORIAS E FUTUROS foram rejeitados e os de AMADO ZONATO não foram conhecidos (e-STJ fls. 1.332/1.350).
+Nas razões do recurso especial (e-STJ fls. 1.394/1.398), fundamentado no art. 105, III, "a", da Constituição Federal, o recorrente alegou(e-STJ fls. 1.396/1.398):
+ ..  o ora recorrente interpôs Embargos de Declaração para que a Ilustre Relatora do Acórdão recorrido se pronunciasse sobre a omissão apontada que é o analise do Art. 261 do CPC, ou seja, sobre o valor da causa não impugnado pelos recorridos.
+Protocolou os citados Embargos no prazo de 10 dias, após a publicação do Acórdão, citando a tempestividade do recurso, com fundamento no artigo 191 do CPC, que diz:
+Art.191- Quando os litisconsortes tiverem diferentes procuradores, ser-lhes-ão contados em dobro os prazos para contestar, para recorrer e, de modo geral, para falar nos autos.
+A ilustre Relatora não conheceu dos Embargos Declaratórios por intempestivo dizendo que o prazo em dobro no processo e só para as partes do mesmo pólo.
+Acontece que o artigo 191 do CPC diz que o prazo será em dobro para os litisconsortes, quando tiverem diferentes procuradores.
+ ..
+Mesmo que prevaleça a decisão da ilustre Relatora prolatada nos Embargos Declaratórios, que mesmo recebido poderia não ser provido porque os Embargos Declaratórios não tem o condão modificativo do acórdão esse Egrégio Superior Tribunal pode analisar e fazer a melhor justiça.
+A melhor justiça porque se prevaleça a condenação com data base na venda das ações, o valor não cobriria as despesas com as custas processuais que o recorrente teve considerando que o ano de 1993 até esta data houve algumas variações da moeda em nosso pais, que mesmo corrigindo os valores não alcançara o valor das ações quando da propositura da Ação.
+Pode fazer a melhor justiça, também, concedendo um valor indenizatório para suprir o abalo moral sofrido pelo recorrente ao saber que suas ações tinham sido vendidas ilegalmente.
+Assim sendo, considerando que os julgados foram omissos com relação ao valor dado a ação, que se quer foram impugnados pelos recorridos, ou seja, (art. 261 do Código de Processo Civil) que o presente Recurso Especial seja conhecido e provido para reformar em parte o acórdão recorrido, para fixar o valor base da condenação aquele dado na inicial, devidamente corrigido com juros e correção monetária mantendo a verba honorária, bem como, para condenar os recorridos no pagamento de indenização pelo abalo moral sofrido pelo ora recorrente, como de Direito.
+Foram apresentadas contrarrazões às fls. 1.413/1.428 (e-STJ), 1.430/1.443 (e-STJ) e 1.449/1.458 (e-STJ).
+No agravo (e-STJ fls. 1.545/1.546), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminutas apresentadas pelos recorridos (e-STJ fls. 1.618/1.628, 1.630/1.647 e 1.649/1.661).
+É o relatório.
+Decido.
+O recurso especial e o agravo nos próprios autos foram interpostos com fundamento no Código de Processo Civil de 1973, motivo por que devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, com as interpretações dadas pela jurisprudência desta Corte (Enunciado Administrativo n. 2/STJ).
+O recorrente não apontou, de maneira clara e específica, quais artigos de lei entedia violados, o que demonstra carência de fundamentação, a atrair a Súmula n. 284/STF.
+Nas razões do agravo, afirma que "o recurso foi interposto porque o julgamento de primeira e segunda instância não analisou o contido no art. 261 do Código de Processo Civil, ou seja, a condenação teria que ser sobre o valor dado a ação que era o valor das ações na época do ajuizamento , e não impugnado pelos agravados e também, porque não houve a condenação por abalo moral" (e-STJ fl. 1.545).
+Mesmo que se considere a indicação do citado artigo, o recurso não prospera.
+O art. 261 do CPC/1973e a tese de que os réus, por não terem impugnado, aceitaramo valor dado à causa não foramobjeto de manifestação pelo Tribunal de origem.
+É bem verdade que o recorrente opôs embargos de declaração aduzindo tal matéria, mas referido recurso não foi conhecido por intempestividade.
+E, como bem observou aCorte estadual, em consonância com o entendimento do STJ, o prazo em dobro previsto no art. 191 do CPC/1973 se aplica apenas às partes integrantes do mesmo polo da relação processual, caso estejamrepresentadas por procuradores distintos. Nesse sentido:
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. APELO NOBRE E AGRAVO EM RECURSO ESPECIAL APRESENTADOS FORA DO PRAZO LEGAL. INEXISTÊNCIA DE LITISCONSÓRCIO. PRAZO EM DOBRO. ART. 191 DO CPC/73.INAPLICABILIDADE. INTEMPESTIVIDADE. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Esta Corte já consolidou o entendimento de que o prazo em dobro previsto no art. 191 do CPC/73 tem cabimento apenas às partes integrantes do mesmo polo da relação processual e se estiverem representadas por procuradores distintos.
+3. No caso dos autos, trata-se de partes litigantes em polo diversos, o que não configura o litisconsórcio.
+4. O agravo em recurso especial foi interposto na vigência do CPC/73, portanto, aplicável o prazo de 10 dias, e não o previsto no NCPC.
+5. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+6. Agravo interno não provido.
+(AgInt no REsp 1609102/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 05/06/2017.)
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE. AGRAVO DE INSTRUMENTO.INTEMPESTIVIDADE. PRAZO. CONTAGEM. TERMO INICIAL. AUSÊNCIA DE EXPEDIENTE FORENSE. NÃO JUNTADA DE CERTIDÃO. LITISCONSÓRCIO NO PÓLO CONTRÁRIO. PRAZO EM DOBRO. INAPLICABILIDADE.
+1. Embargos de declaração recebidos como agravo regimental, com fundamento nos princípios da fungibilidade recursal e da economia processual.
+2. Se o prazo para a apresentação do recurso tem por termo inicial dia em que não houve expediente no Tribunal de Justiça, decretado por ato local, é obrigação do agravante juntar documento hábil a essa comprovação, o qual deverá integrar o instrumento, sob pena de não conhecimento. Precedentes.
+3."O prazo em dobro para o litisconsórcio, previsto no artigo 191 do CPC, é aplicado apenas para as partes do mesmo pólo, e não para o pólo contrário." (AgRg no Ag 914.111/RJ, DJ 03.12.2007) 4. Agravo regimental desprovido.
+(EDcl no Ag 814.213/MT, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 26/02/2008, DJe 10/03/2008.)
+Dessa forma, inexistindo manifestação do TJPR sobre a ausência de impugnação ao valor da causa, o recurso não pode ser conhecido, no ponto, por faltade prequestionamento. Incidente a Súmula n. 211/STJ.
+O recorrente mencionaainda omissão do Tribunal a quo sobre a matéria, bem como defende a existência de dano moral. Entretanto, o art. 261 do CPC/1973em nada se relaciona às citadas teses, não tendo sido indicado nenhum artigo de lei que as sustente.
+Issocaracteriza deficiência na fundamentação recursal, a teor da Súmula n. 284 do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ATO ILÍCITO. INEXISTÊNCIA. DANOS MORAIS. VALOR INDENIZATÓRIO. INVIABILIDADE. HONORÁRIOS. REDUÇÃO. REEXAME. IMPOSSIBILIDADE. SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. NÃO INDICAÇÃO DO DISPOSITIVO DE LEI FEDERAL VIOLADO. DEFICIÊNCIA DE FUNDAMENTAÇÃO. APLICAÇÃO, POR ANALOGIA, DA SÚMULA N. 284 DO SUPREMO TRIBUNAL FEDERAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. NÃO PROVIDO.
+1. Consoante o decidido pelo Plenário desta Corte, na sessão realizada em 9.3.2016 - Enunciado Administrativo n. 3 -, o regime de recurso será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória, bem como, via de regra, revisar honorários fixados pelo Tribunal de origem, à luz do óbice contido na Súmula n. 7 do Superior Tribunal de Justiça, exceto quando quantificados em valor irrisório ou exorbitante, o que não é o caso dos autos. Precedentes.
+3. A jurisprudência desta Corte considera deficiente a fundamentação do recurso que não aponta o dispositivo de lei federal violado pelo acórdão recorrido, circunstância que atrai, por analogia, a incidência do entendimento da Súmula n. 284 do Supremo Tribunal Federal.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1504947/GO, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 30/3/2020, DJe 2/4/2020.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se. Intimem-se.
