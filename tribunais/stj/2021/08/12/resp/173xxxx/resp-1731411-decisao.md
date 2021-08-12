@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se  de  recurso  especial  interposto  contra  acórdão  do  TJRJassim  ementado  (e-STJ  fls.  882/883):
+APELAÇÃO.  PREVIDENCIÁRIO.  FURNAS  CENTRAIS  ELÉTRICAS  S/A.  FUNDAÇÃO  REAL  GRANDEZA.  PREVIDÊNCIA  PRIVADA  COMPLEMENTAR.  DIFERENÇA  ATINENTE  A  ADICIONAL  DE  APOSENTADORIA.
+LITISCONSÓRCIO  PASSIVO.  PATROCINADORA.  INEXISTÊNCIA.  ACERTO  DA  EXTINÇÃO  DO  FEITO  EM  RELAÇÃO  À  PRIMEIRA  RÉ.
+ PRESCRIÇÃO  QUINQUENAL.  NOS  TERMOS  DAS  SÚMULAS  Nº  291  E  Nº  427  DO  STJ.
+APLICAÇÃO  DAS  NORMAS  CONSUMERISTAS.  SÚMULA  Nº  321  DO  STJ.  REGRA  DA  BOA-FÉ  OBJETIVA,  IMPOSTA  AOS  CONTRATANTES  PELO  CÓDIGO  CIVIL  E  PELO  CÓDIGO  DE  DEFESA  DO  CONSUMIDOR.  SEGUNDA  RÉ,  APELADA,  QUE  ALTEROU  UNILATERALMENTE  O  REGULAMENTO  AO  QUAL  ADERIU  A  APELANTE.  AUSÊNCIA  DE  OPORTUNIDADE  DE  OPÇÃO  PELA  BENEFICIÁRIA.  PRETENSO  PREJUÍZO  À  CONTINUIDADE  DA  RÉ,  EM  DECORRÊNCIA  DA  AUSÊNCIA  DA  RESERVA  MATEMÁTICA  PARA  CUSTEAR  O  BENEFÍCIO.  COMPENSAÇÕES  OU  DEDUÇÕES  QUE  NÃO  PODEM  SER  IMPUTADAS  À  DEMANDANTE  APELANTE.CONTRIBUIÇÕES  A  SEREM  REALIZADAS  NA  FORMA  PREVISTA  NO  REGULAMENTO  001.A.  CONFLITO  PRINCIPIOLÓGICO  CONSISTENTE  NA  MANUTENÇÃO  DO  EQUILÍBRIO  ECONÔMICO-ATUARIAL  DA  FUNDAÇÃO  E  NA  IMPOSSIBILIDADE  DE  PAGAMENTO  DE  BENEFÍCIOS  SEM  A  DEVIDA  CONSTITUIÇÃO  E  RESERVAS  TÉCNICAS,  PRECONIZADO  PELO  ARTIGO  202  DA  CRFB/88,  COM  AQUELE  RELATIVO  AO  DIREITO  DO  CONSUMIDOR,  CONSAGRADO  NA  CF,  QUE  SE  RESOLVE  PELA  PREVALÊNCIA  DESTE  ÚLTIMO,  PRESERVANDO-SE  O  VALOR  FUNDAMENTAL  DA  DIGNIDADE  DA  PESSOA  HUMANA.
+RECURSO  INTERPOSTO  SOB  A  ÉGIDE  DO  CPC/73  E  JULGADO  NA  VIGÊNCIA  DA  NOVA  ORDEM  PROCESSUAL  CIVIL.  OBSERVÂNCIA  DAS  REGRAS  DE  TRANSIÇÃO  PREVISTAS  NOS  ARTIGOS  14  E  1.046  DO  CPC/15.ENUNCIADO  ADMINISTRATIVO  N.º  2  DO  STJ.
+CONTRIBUIÇÕES  QUE  TERIAM  QUE  SER  REALIZADAS  NA  FORMA  PREVISTA  NO  REGULAMENTO  001.A,  CONFORME  ITEM  110  DO  REGULAMENTO  001.C.  FUNDAÇÃO  REAL  GRANDEZA,  ASSIM,  QUE  DEVE  PROCEDER  À  REVISÃO  DO  ADICIONAL  DE  APOSENTADORIA  DESDE  A  DATA  DA  CONCESSÃO,  CONSOANTE  O  ITEM  29  DO  REGULAMENTO  001A,  BEM  COMO  AO  PAGAMENTO  DAS  DIFERENÇAS  PAGAS  A  MENOR,  DEVIDAMENTE  ATUALIZADAS  E  COM  JUROS  DE  MORA,  A  CONTAR  DO  SEU  VENCIMENTO,  OBSERVADA  A  PRESCRIÇÃO  QUINQUENAL,  TUDO  A  SER  APURADO  ATRAVÉS  DE  LIQUIDAÇÃO  DE  SENTENÇA  POR  ARBITRAMENTO.  PRECEDENTES.  RECURSO  AUTORAL,  POIS,  AO  QUAL  SE  DÁ  PARCIAL  PROVIMENTO.  INVERSÃO  DOS  ÔNUS  SUCUMBENCIAIS.
+PARCIAL  PROVIMENTO  DO  RECURSO.
+Opostos embargos de declaração pelas partes, a Câmara julgadora determinou a suspensão da apreciação dos recursos, nos termos do art. 313, V, "a", do CPC/2015, a fim de aguardar o julgamento do Recurso Especial repetitivo n. 1.435.837/RS por esta Corte (e-STJ  fls.  934/954).
+A recorrente opôs novos aclaratórios, os quais foram rejeitados (e-STJ fls. 1.021/1.027).
+Nas  razões  recursais  (e-STJ  fls.  1.029/1.040),  fundamentadas  no  art.  105,  III,  "a" ,  da  CF,  a  recorrente  aponta  ofensa  aos  arts.  141,313, V, "a", 489, § 1º, V e VI, 492 e 1.022, III,do CPC/2015.
+ A  insurgência  cuida  dos  seguintes  pontos:  (a)  negativa de prestação jurisdicional,  (b)  descabimento da suspensão do processo por tratar de "matéria manifestamente distinta do objeto da ação em referência" (e-STJ fl. 1.031), e (c) julgamento extra petita.
+Não foram  apresentadas  contrarrazões  (e-STJ  fls.  1.057/1.082).
+É  o  relatório.
+Decido.
+O interesse em recorrer, tal como o de agir, deve ser mensurado à luz do benefício prático proporcionado à parte recorrente.
+No caso, oREsp repetitivon. 1.435.837/RS, RelatorMinistro PAULO DE TARSO SANSEVERINO, Relatorp/ Acórdão Ministro RICARDO VILLAS BÔAS CUEVA, que ensejou a suspensão do julgamento dos embargos de declaração opostos pelas partes, foi julgado pela Segunda Seção, em 27/2/2019, DJe de 7/5/2019.
+Nesse contexto,evidencia-sea superveniente falta de interesse processual, por perda de objeto do presente recurso especial.
+Diante do exposto, JULGO PREJUDICADO o recurso por perda de objeto e determino o retorno dos autos ao Tribunal de origem para que prossiga no exame dos três embargos de declaração opostos.
+Publique-se e intimem-se.
