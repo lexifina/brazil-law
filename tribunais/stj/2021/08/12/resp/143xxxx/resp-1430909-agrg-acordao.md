@@ -1,0 +1,32 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NOVA REDAÇÃO DO INCISO IV DO ART. 117 DO CÓDIGO PENAL INSTITUÍDA PELA LEI N. 11.596/2007. ACÓRDÃO CONDENATÓRIO COMO NOVO MARCO INTERRUPTIVO. INAPLICABILIDADE AOS DELITOS COMETIDOS ANTERIORMENTE À REFERENCIADA LEI, PORQUANTO MAIS GRAVOSA. RECURSO REJEITADO.
+1. O Supremo Tribunal Federal, no julgamento do HC n. 176.473, de relatoria do Exmo. Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal, pacificou novo posicionamento acerca do tema (prescrição), fixando a premissa segundo a qual, " n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/5/2020, DJe 1º/6/2020).
+2. Ainda, a esse respeito, necessário ressaltar que, em 24/11/2020, esta Sexta Turma, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou que a referida Lei n. 11.596/2007, de 29/11/2007, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datasanteriores".
+3. Na espécie, os atos criminosos imputados ao ora agravado deram-se antes da entrada em vigor da norma em comento, visto que praticados no ano de 2001, de modo que deve ser considerada, como último marco interruptivo, a sentença condenatória.
+4. Portanto, publicada a sentença em 20/11/2007, e considerando que a pena final imposta ao agravado não supera 4 anos, tenho que, de fato, o prazo prescricional previsto no art. 109, IV, do Código Penal, foi ultrapassado desde então.
+5. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior, Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra a decisão monocrática que reconheceu e declarou a prescrição da pretensão punitiva na ação penal de que aqui se cuida, e julgou prejudicado o exame das demais alegações veiculadas no recurso especial.
+Depreende-se dos autos que o agravado foi condenado à pena de 2 anos de detenção, pelo crime do art. 90 da Lei n. 8.666/1933, e à pena de 2 anos de reclusão, aumentada para 3 anos em razão da continuidade delitiva, pelo crime do art. 1º, I, segunda parte, do Decreto-Lei n. 201/1967.
+Da decisão condenatória tanto a acusação quanto a defesa interpuseram recursos de apelação. O Tribunal de origem entendeu por dar "parcial provimento à apelação da defesa; de oficio, declarar extinta a punibilidade do acusado pela prescrição retroativa, em relação ao delito tipificado no art. 90 da Lei 8.666/93 e dar parcial provimento à apelação do Ministério Público Federal" (e-STJ fl. 497) para majorar a reprimenda imposta ao agravado.
+Daí o recurso especial, no qual a defesa apontou violação ao disposto nos arts. 564, I e II, 567 e 568, todos do Código de Processo Penal.
+Ao final, o Parquet Federal opinou pelo desprovimento do recurso especial (e-STJ fls. 866/872).
+Contra a decisão de e-STJ fls. 877/878, que declarou extinta a punibilidade do ora agravado pela prescrição da pretensão punitiva, em relação ao delito que lhe é imputado nestes autos, e julgou prejudicado o seu recurso especial, o Parquet Federal interpõe o presente agravo regimental.
+Em suas razões, argumenta que o acórdão que confirma a condenação em apelação criminal também deve ser considerado marco interruptivo da prescrição.
+Assim, requer a reconsideração da decisão agravada ou a submissão do presente recurso à apreciação da Turma competente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A despeito dos argumentos apresentados pelo agravante, não vislumbro motivos para alterar a decisão impugnada que reconheceu a prescrição da pretensão punitiva.
+Acerca do tema, o Supremo Tribunal Federal, no julgamento do HC n. 176.473, de relatoria do Exmo. Ministro Alexandre de Moraes, ao interpretar a alteração trazida pela Lei n. 11.596/2007 ao inciso IV do art. 117 do Código Penal, pacificou novo posicionamento acerca do tema, fixando a premissa segundo a qual, " n os termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1.º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta" (EDcl no AgRg no RHC n. 109.530/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 26/5/2020, DJe 1º/6/2020).
+Ainda, a esse respeito, necessário ressaltar que, em 24/11/2020, esta Sexta Turma, no julgamento do HC n. 603.139/SP, relator Ministro Rogerio Schietti Cruz, consignou que a referida Lei n. 11.596/2007, de 29/11/2007, por ser "lei penal mais gravosa - porque criou um novo marco interruptivo da prescrição - não pode retroagir para alcançar os acusados por crimes ocorridos em datasanteriores".
+Pois bem. Na espécie, os atos criminosos imputados ao ora agravado deram-se antes da entrada em vigor da norma em comento, visto que praticados no ano de 2001 (e-STJ fl. 3/13), de modo que deve ser considerada, como último marco interruptivo, a sentença condenatória, máxime em razão de ser pacífico "o entendimento desta Corte Superior no sentido de que o acórdão que confirma a condenação, ainda que majore ou reduza a pena, não constitui marco interruptivo da prescrição" (AgRg no REsp n. 1.863.639/BA, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/6/2020, grifei).
+Portanto, publicada a sentença em 29/11/2011, e considerando que a pena final imposta ao agravado não supera 4 anos (e-STJ fls. 437/488), tenho que, de fato, o prazo prescricional previsto no art. 109, IV, do Código Penal, foi ultrapassado desde então.
+Assim, como visto, a decisão agravada não enseja retratação ou reforma.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
