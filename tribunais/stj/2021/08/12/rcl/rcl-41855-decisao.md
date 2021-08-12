@@ -1,0 +1,17 @@
+DECISÃO
+RODRIGO CID GONÇALVES SANTOS ajuíza reclamação contra ato do Juízo da 5ª Vara de Execuções Criminais de São Paulo, que estaria descumprindo decisão proferida por esta Corte no HC n. 640.504/SP.
+O reeducando obteve o direito de ter seu pedido de progressão de regime apreciado sem a realização de exame criminológico. Contudo, o Magistrado indeferiu o benefício com fundamentos expostos exclusivamente no referido estudo.
+Requer, por isso, a cassação da "decisão proferida nos autos da Execução  ..  determinando, liminarmente, a  sua  progressão  ..  ao regime semiaberto" (fl. 16).
+Decido.
+Em 22/7/2020, o Juiz da VEC indeferiu o pleito de progressão do reclamante ao regime semiaberto e determinou a sua submissão a exame criminológico. A decisão foi mantida pelo Tribunal de Justiça.
+No dia 19/2/2021, ao julgar o HC n. 640.504/SP, esta Corte reputou ilegal a exigência. A ordem foi concedida "para determinar ao Juízo da Execução Penal que aprecie, com urgência, a possibilidade de progressão de regime do apenado independentemente de sua submissão a exame criminológico, uma vez que não foi justificada a realização do estudo.
+O Magistrado, em novo ato judicial, indeferiu a progressão de regime "em razão de 04 fatores distintos: (a) o exame criminológico desfavorável; (b) parecer negativo de 04 Diretores da Unidade Prisional; (c) relatório da SAP afirmando que o reclamante apresenta "altíssima periculosidade"; (d) o fato de o reclamante registrar envolvimento com facção criminosa", pois uma das suas condenações "é por associação transnacional para o tráfico de drogas, em processo crime que teve origem com a Operação Leviatã, focada em organização criminosa sediada em São Paulo" (fl. 550).
+Ao examinar a reclamação, deferi a liminar para determinar que a autoridade reexaminasse o pedido da defesa, sem levar em consideração o estudo desfavorável, pois indevidamente realizado. Apliquei ao caso o entendimento de que:
+ ..
+1. Reputada ilegal, por esta Corte, a determinação do Tribunal de Justiça de realização de exame criminológico, para fins de avaliação do requisito subjetivo necessário à progressão de regime durante execução penal, dado que amparada a determinação apenas na gravidade abstrata do delito e na longa pena por cumprir, ainda que o resultado de tal exame tenha sido juntado aos autos no mesmo dia em que proferido o julgado deste Tribunal Superior, seu resultado não pode ser considerado como óbice superveniente à concessão da progressão de regime ao apenado.
+2. Reclamação julgada procedente, para restabelecer a decisão do Juízo de Execuções que concedera ao Reclamante progressão para o regime semiaberto, desconsiderando-se o resultado do exame criminológico considerado ilegal no AgRg no HC n. 593.388/SP.
+(Rcl 41.231/SP, Rel. Ministro Reynaldo Soares da Fonseca, 3ª S., DJe 11/3/2021, grifei).
+Consoante consulta ao sítio eletrônico do Tribunal de origem, verifica-se que a autoridade, em 10/7/2021, negou o benefício do art. 112 da LEP sem considerar o resultado do exame criminológico. Entendeu o Juiz, ante os sinais de que o reeducando integra facção criminosa, que não era possível deferir a progressão de regime, por falta de requisito subjetivo.
+Não há outra providência cabível nesta reclamação. A inédita decisão traz elemento não relacionado ao exame criminológico.
+Ante o exposto, julgo prejudicada a reclamação, ante a superveniência de nova decisão em conformidade com a ordem concedida no HC n. 640.504/SP.
+Publique-se e intimem-se.
