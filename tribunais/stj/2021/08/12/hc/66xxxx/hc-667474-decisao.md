@@ -1,0 +1,30 @@
+DECISÃO
+Neste habeas corpus, com pedido liminar, impetrado em favor de Cicero Otoniel dos Santos- condenadonos autos da Ação Penal n. 0000107-51.2018.8.17.11170(Vara única de Quipapá/PE) -, sob alegação de excesso de prazo no julgamento da apelação defensiva, requer-se, em liminar e no mérito, seja revogada a prisão cautelar.
+A liminar e o pedido de reconsideração foram indeferidos (fls. 35/36e 42/44).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do mandamuscom recomendação para que seja dada celeridade no julgamento da apelação. Eis o resumo do parecer (fl. 72):
+HABEAS CORPUS. INADEQUAÇÃO DA VIA ELEITA. NÃO CONHECIMENTO. ROUBO MAJORADO. CUSTÓDIA CAUTELAR. ALEGAÇÃO DE EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO INTERPOSTA PELA DEFESA.NÃO OCORRÊNCIA. REGULARIDADE E RAZOABILIDADE NO CURSO DO PROCESSO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. NÃO CONHECIMENTO.
+- A jurisprudência do STJ e do STF é assente no sentido de que o habeas corpus não deve ser conhecido quando consistir em utilização inadequada da garantia constitucional, em substituição aos recursos ordinariamente previstos nas leis processuais.
+- A lei processual não estabelece um prazo para o julgamento do recurso de apelação criminal, o qual submete-se aos princípios da razoabilidade e proporcionalidade, devendo considerar-se a complexidade da causa e a pena imposta na sentença condenatória, com o fito de se verificar a ocorrência ou não de constrangimento ilegal.
+- Outrossim, nos termos da jurisprudência desse Superior Tribunal de Justiça, eventual excesso de prazo no julgamento da apelação deve ser aferido em face da quantidade de pena imposta na sentença condenatória. Assim, considerando a pena total a que foi condenado o paciente - 17 anos, 2 meses e 19 dias de reclusão -, não se verifica flagrante excesso de prazo para o julgamento do recurso, pois não foi demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir de benefícios relativos à execução da pena.
+- Parecer pelo não conhecimento do habeas corpus, com recomendação ao eg. Tribunal de Justiça do Estado de Pernambuco para que imprima maior celeridade no julgamento do recurso de apelação criminal interposto pela defesa do paciente.
+É o relatório.
+Busca a impetração orevogação daprisão preventiva mantida na sentença ao argumento de excesso de prazo no processamento e julgamento daapelação no Tribunal estadual.
+Conforme reiterada jurisprudência deste Tribunal Superior, o excesso deprazo não resulta de um critério aritmético, mas de uma aferição realizadapelo julgador à luz dos princípios da razoabilidade e daproporcionalidade, levando em conta as peculiaridades do caso concreto, demodo a evitar o retardo abusivo e injustificado na prestaçãojurisdicional.
+A esse respeito, veja-se o HC n. 481.713/PE, Ministro Ribeiro Dantas,Quinta Turma, DJe 8/4/2019.
+Convém lembrar, no entanto, que a jurisprudência do Superior Tribunal deJustiça é firme em assinalar que a elevada reprimenda estabelecida nasentença condenatória deve ser considerada para fins de análise de supostoexcesso de prazo no julgamento da apelação.
+Sobre o tema, por exemplo, estes julgados: AgRg no HC n. 549.040/SP,Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 17/3/2020; e HC n.414.264/MG, Ministro Reynaldo Soares daFonseca, Quinta Turma, DJe1º/12/2017.
+No presente caso, opacientefoisentenciadoda seguinte forma (trecho extraído da sentença - fls. 27/30 - grifo nosso):
+Cícero Otoniel dos Santos, pelo crime do artigo 157, § 3º, última parte, com redação anterior a Lei n. 13.654/2018,c/c art. 14, II, ambas do CP, à pena de 16 anos, 1 mês e 10 dias, além de 192 dias-multa, a ser cumprida no regime inicial fechado.
+Sobre o andamento e processamento do recurso no Tribunal local, oportunotranscreveras informações prestadas peloDesembargador Alexandre Guedes Alcoforado Assunção(fl. 52- grifo nosso):
+Atendendo solicitação do Superior Tribunal de Justiça, através do malote digital nº 81720213414672, a fim de instruir o julgamento do Habeas Corpus nº 667474/PE (2021/0152422-1), cujo paciente é Cícero Otoniel dos Santos, informo a Vossa Excelência o seguinte: em 11/12/2019 o ora paciente interpôs a Apelação Criminal de nº 0544932-5 distribuído a minha relatoria, retornando concluso após diligências em 07/05/2020, ainda pendente de julgamento.
+ ..
+Infere-se dos autos que a sentença condenatóriafoi proferida em 14/6/2019,distribuído o recurso de apelação em11/12/2019 eretornando concluso ao Relator após diligências em 7/5/2020.
+Como se sabe, a legislação pátria não estabelece prazo para o julgamento da apelação, sendo que eventual atraso no andamento processual não caracteriza, por si só, excesso de prazo, devendo-se utilizar o princípio da razoabilidade na análise de eventual ocorrência de constrangimento ilegal. Nesse sentido, ver o HC n. 360.953/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 18/10/2016.
+No caso,embora se verifique certa dilação no trâmite da apelação,não vislumbroqualquer desarrazoabilidade e,conforme assinouo parecerista, deve ser aferido oquantum de pena imposta na sentença condenatória (16 anos, 1 mês e 10 dias - fls. 28 e 72/76).
+Notória, no entanto, a necessidade em emprestar maior celeridade naanálise do apelo,sob pena de caracterização do apontado constrangimento ilegal por excesso de prazo.
+No mesmo sentido, o Ministério Público Federalopinou pelonão conhecimento do habeas corpus, com recomendação ao eg. Tribunal de Justiça do Estado de Pernambuco para que imprima maior celeridade no julgamento do recurso de apelação criminal interposto pela defesa do paciente(fl. 76).
+Ante o exposto,denegoa ordem comrecomendaçãoao Tribunal de Justiça de Pernambuco para que imprima celeridade no julgamento daApelação n. 0000107-51.2018.8.17.1170(0544932-5).
+Publique-se.
+EMENTA
+HABEAS CORPUS.LATROCÍNIO (TENTADO).PRISÃO PREVENTIVA. SENTENÇA CONDENATÓRIA.PENA DE 16ANOS, 1MÊSE 10DIAS DE RECLUSÃO.EXCESSO DE PRAZO NO JULGAMENTO DA APELAÇÃO. AUSÊNCIA DE DEMORA INJUSTIFICADA. PARECER ACOLHIDO.
+Ordem denegadacom recomendação.
