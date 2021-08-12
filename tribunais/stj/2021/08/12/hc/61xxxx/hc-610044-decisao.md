@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de JOSE ANTONIO RODRIGUES ANA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA no julgamento do HC n. 5024005-60.2020.8.24.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 28/7/2020, convertido em preventiva, e restou denunciado pela suposta prática dos delitos tipificados no arts. 33, caput, e 35, ambos da Lei n. 11.343/2006 (tráfico de entorpecentes e associação para o narcotráfico).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão assim ementado:
+"HABEAS CORPUS. PRISÃO PREVENTIVA DECRETADA PELA PRÁTICA, EM TESE, DOS CRIMES DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO (ARTS. 33 E 35 DA LEI 11.343/06). ALEGADA A AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA. INSUBSISTÊNCIA. DECRETO SEGREGATÓRIO FUNDADO NA GRAVIDADE CONCRETA DO DELITO. PACIENTE PRESO EM FLAGRANTE NA POSSE DE 1 (UM) QUILOGRAMA DE MACONHA. FUNDAMENTOS QUE APONTARAM A NECESSIDADE DA PRISÃO PREVENTIVA COM O ESCOPO DE ACAUTELAR A ORDEM SOCIAL DA COMARCA EM QUE OCORREU O SUPOSTO DELITO. PREDICADOS SUBJETIVOS POSITIVOS QUE, POR SI SÓ, NÃO AUTORIZAM A SOLTURA DO PACIENTE. PANDEMIA DO COVID19 QUE NÃO INVIABILIZA, NESTE CASO CONCRETO, A PRISÃO DO PACIENTE. RECOMENDAÇÃO N. 62 DO CONSELHO NACIONAL DE JUSTIÇA QUE NÃO POSSUI FORÇA DE LEI. AUSÊNCIA DE PROVA PRÉ-PRODUZIDA NO SENTIDO DE QUE O ERGÁSTULO EM QUE O PACIENTE ESTÁ RECLUSO NÃO POSSUI CONDIÇÕES DA GARANTIR A SUA SAÚDE. PARECER DA PROCURADORIA GERAL DE JUSTIÇA NO SENTIDO DE DENEGAR A ORDEM. ORDEM CONHECIDA E DENEGADA" (fl. 214)
+No presente mandamus, aduz que a inexistência de investigações pretéritas acerca do envolvimento do paciente com o tráfico de entorpecentes evidencia a ausência de periculum libertatis.
+Alega que o decreto prisional carece de fundamentação idônea, uma vez que pautado exclusivamente na gravidade abstrata do delito. Sustenta não estarem presentes os requisitos previstos no art. 312 do Código de Processo Penal - CPP.
+Ressalta as circunstâncias pessoais favoráveis do paciente e aponta suficiência, no caso concreto, da aplicação de medidas cautelares alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a revogação da prisão preventiva, ainda que mediante imposição de medidas cautelares previstas no art. 319 do Código de Processo Penal.
+A liminar foi indeferida às fls. 225/226. Informações prestadas às fls. 232/260 e 261/266. O Ministério Público Federal opinou pelo não conhecimento do writ em parecer acostado às fls. 270/276.
+É o relatório.
+Decido.
+De acordo com informações obtidas na página eletrônica do Tribunal de origem,verificou-se que, em 15/12/2020, nos autos da Ação Penal n. 5001344-95.2020.8.24.0159, sobreveio sentença condenando o ora paciente, pela prática dos delitos previstos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/2006, à pena de 8 anos de reclusão, em regime inicial semiaberto, bem como ao pagamento de 1200 dias-multa, tendo sido mantida a custódia cautelar com base em fundamentos diversos daqueles utilizados na decisão da preventiva.
+In casu, da leitura da sentença condenatória, verifica-se que o Magistrado de primeiro grau manteve a custódia cautelar do réu, agregando fundamentos novos ao decreto prisional, consoante se extrai do seguinte trecho do julgado, in verbis:
+"Mantenho a prisão preventiva dos acusados Artur Nunes Cardoso e José Antônio Rodrigues Ana, considerando-se que permaneceram segregados durante todo o trâmite processual e não há razões para soltá-los agora que foram condenados"
+Nesse contexto, verifica-se que, diante da alteração do cenário fático-processual, consubstanciada no advento de novo título judicial decorrente da sentença condenatória proferida em desfavor do ora paciente, fica superada a alegação trazida na impetração que ataca os fundamentos na manutenção da prisão preventiva por ocasião do reanálise do decreto preventivo.
+Ademais, conforme sedimentado pela jurisprudência do Superior Tribunal de Justiça, os fundamentos acrescidos ao novo título adotado para justificar a custódia cautelar, devem ser submetidos à análise do Tribunal de origem antes de serem aqui apreciados, sob pena de se incidir em indevida supressão de instância.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar.
+2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido.
+(AgRg no HC 461.932/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 19/08/2019).
+Ante o exposto, com fundamento no art. 34, XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
