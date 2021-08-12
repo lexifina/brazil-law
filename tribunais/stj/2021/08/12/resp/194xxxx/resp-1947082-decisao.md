@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TJRJ, assim ementado (fl. 584):
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. Ofensa ao princípio da congruência não configurada. Preliminar de nulidade rejeitada. Dever do município de fiscalização e controle da ocupação do solo urbano, incluídas a prevenção, minimização e o gerenciamento de deslizamento de encostas. Obrigação legal de evitar ocupação desordenada de encostas em regiões vulneráveis. Risco de desmoronamento da encosta de longa data. Perigo iminente à segurança da edificação e à incolumidade dos moradores de condomínio situado no sopé do talude rochoso. Omissão específica no cumprimento daquele dever constitucional imposto à municipalidade. Necessidade e urgência das providências atestadas por laudo pericial, a impor a execução de obras estabilizantes. Alegada necessidade de prévia demolição de benfeitorias não identificada na perícia. Condicionamento descabido ao cumprimento da obrigação de fazer imposta no título judicial. Primeiro apelo desprovido e segundo provido
+Embargos de declaração rejeitados.
+O recorrente alega violação dos artigos 374, I do CPC/2015; 15 a 17 da Lei Complementar 101/2000;e403, 927 e 945do CC/2002. Argui que a responsabilidade do Município deve ser afastada, considerando (a)a natureza privada do imóvel e (b) que a norma que vedou a construção é posterior à existência dos imóveis, de modo que não há como se cogitar de omissão ou negligência da Administração Municipal.
+Comcontrarrazões.
+Juízo positivo de admissibilidade às fls. ..
+É o relatório. Passo a decidir.
+O Tribunala quomanifestou-se quanto ao ponto controverso adotando as seguintes razões de decidir:
+Cediço que constitui dever dos Municípios promover o ordenamento territorial e fiscalizar e controlar a ocupação do solo urbano, instituído pelos artigos 30, inciso VIII, e 182, da Constituição da República.
+Sob outro enfoque, irrelevante para o deslinde da causa o caráter privado da construção, uma vez que o dever de zelar pela ocupação ordenada do solo está atrelado à melhor organização do espaçourbanístico à luz do interesse coletivo.
+De fato, o sistema de controle do uso e do solo municipal abrange expressamente as ocupações irregulares em encostas, como se depreende do disposto no art. 324, da Lei complementar municipal nº111/11, que institui o plano diretor de desenvolvimento urbano sustentável do município do Rio De Janeiro.
+Não por outra razão, a concepção de instrumentos de prevenção, minimização e o gerenciamento de deslizamento de encostas insere-se dentre as diretrizes da política de serviços públicos, definidas no art. 220, daquela Lei complementar.
+Outrossim, osartigos220e 228,do mesmo diploma, inserem a proteção geotécnica de encostas dentre os programas prioritários de políticas públicas, incumbindo à municipalidade identificar e mapear as áreas de restrição de ocupação urbana e priorizar obras estabilizantes em áreas de risco.
+Registre-se que aquele diploma veda expressamente a construção de imóveis em áreas de risco, incluídas aquelas próximas a encostas, como se verifica do art. 15, daquele diploma (..)
+Malgrado o diploma local seja posterior à construção descrita na inicial, ele ilustra o dever da municipalidade de fiscalizar as construções erguidas no solo urbano e impedir a consecução de obras em áreas de risco, erigido, também, da própria Constituição.
+Verifica-se, assim, que acontrovérsia foi dirimida com fundamento constitucional, especificamente com base nos artigos 30,VIII, e 182da Constituição Federal, e em dispositivos da Lei Complementar Municipal n.111/2011, sendo certo que o exame da insurgência não prescinde da análise de referidas normas. Desse modo, o recurso especial não deve ser conhecido nesta Corte Superior, sob pena de se usurpar a competência reservada pela Constituição ao Supremo Tribunal Federal, bem como por demandar intepretação de normativo estranho à legislação federal, o que atrai a incidência da Súmula 280 do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL.INTERPRETAÇÃO DE LEI LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF. RECURSO NÃO CONHECIDO.
