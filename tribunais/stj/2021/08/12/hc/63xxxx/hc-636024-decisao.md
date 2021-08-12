@@ -1,0 +1,46 @@
+DECISÃO
+CLÁUDIO JOSÉ DA SILVAalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina na Apelação n.0007045-66.2015.8.24.0008.
+Neste writ, a defesa assevera ser cabível o oferecimento doacordo de não persecução penal (ANPP) ao paciente, por ser instituto benéfico a ele e, portanto, ter aplicação retroativa, ainda que o processo esteja em fase recursal.
+Subsidiariamente, sustenta que o réu faz jus ao reconhecimento da confissão espontânea, porque ele haveria confirmado, na fase pré-processual, a ingestão de bebida alcoólica, a caracterizar o delito do art. 306, § 1º, II, do Código de Trânsito Brasileiro.
+Requer a determinação de intimação do Parquet estadual para oferecer o ANPP ou a readequação da pena.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 132-133).
+Decido.
+I. Contextualização
+O paciente foi inicialmente absolvido da imputação feita pelo órgão acusatório. Em apelação, a Corte local o condenou a 6 meses de detenção, em regime inicial aberto, multa e suspensão do direito de dirigir, pela prática do crime tipificado no art. 306, § 1º, II, do Código de Trânsito Brasileiro.
+O Tribunala quose pronunciou da seguinte forma acerca das matérias formuladas nesta impetração (fl. 82, grifei):
+E, ainda que coubesse a apreciação da questão, esta Câmara Criminal, consoante voto deste relator proferido no julgamento da Apelação Criminal 0000282- 32.2015.8.24.0143, de Rio do Campo, em 6-8-2020, cujos fundamentos passam a incorporar também a presente decisão, fixou o entendimento de que não é possível estender o benefício a todos os processos em trâmite, especialmente aqueles já sentenciados, como no caso em tela, isso porque, salvo melhor juízo, o marco temporal para a proposta é o recebimento da denúncia, que, na hipótese, ocorreu em 03-08- 2015 (evento 11).
+E, a despeito de a Sexta Turma do Superior Tribunal de Justiça ter recentemente adotado solução distinta no julgamento do Agravo Regimental em Habeas Corpus 575.395/RN, em 8/9/2020, admitindo a retroatividade do benefício para todos os processos ainda não transitados em julgado, a questão ainda é divergente na Corte da Cidadania, especialmente porque, na mesma data, a Quinta Turma, no julgamento dos Embargos de Declaração 1681153/SP, sob relatoria do Min. Félix Fischer, reafirmou a tese ora esposa por esta Câmara.
+Não fosse suficiente, no caso concreto, o embargante não confessou formal e circunstancialmente a prática da infração penal (caput do art. 28-A do CPP).
+No que tange o pleito de reconhecimento da atenuante da confissão espontânea, prevista no art. 65, III, "d", do Código Penal, igualmente incabível seu reconhecimento de ofício, visto que, conforme já ventilado no acórdão (evento 13), se tratou de confissão informal, tendo o embargante escolhido se manter em silêncio durante a persecução penal.
+Além disso, constata-se que tal fato não foi determinante para a formação do convencimento desta Corte, a qual fundamentou o édito condenatório nos demais elementos probatórios reunidos nos autos.
+II. Acordo de não persecução penal
+A primeira controvérsia deste mandamusreside no alcance da retroatividade a ser dada à nova disposição contida no art. 28-A do CPP, introduzida pela Lei n. 13.964/2019, com a seguinte redação:
+Art. 28-A. Não sendo caso de arquivamento e tendo o investigado confessado formal e circunstancialmente a prática de infração penal sem violência ou grave ameaça e com pena mínima inferior a 4 (quatro) anos, o Ministério Público poderá propor acordo de não persecução penal, desde que necessário e suficiente para reprovação e prevenção do crime, mediante as seguintes condições ajustadas cumulativa e alternativamente.
+Tal previsão, de modo semelhante ao que ocorre com a transação penal ou com a suspensão condicional do processo, introduziu, no sistema processual, mais uma forma de justiça penal negociada. O acordo de não persecução penal é instituto em que o órgão acusatório e o investigado celebram negócio jurídico no qual são impostas condições, que, se cumpridas em sua integralidade, conduzem à extinção de punibilidade do agente.
+O caráter predominantemente processual,em que pese ter reflexos penais, e a própria razão de ser do instituto - evitar a deflagração de processo criminal -, conduzem a se sustentar que sua retroatividade, diversamente do que ocorre com as normas híbridas com preponderante conteúdo material (de que é exemplo o dispositivo que condiciona a ação penal a prévia representação da vítima), deve ser limitada ao recebimento da denúncia, isto é, à fase pré-processual da persecutio criminis.
+Deveras, apartir do julgamento do HC n. 628.647/SC, a Sexta Turma do Superior Tribunal de Justiça passou a adotar esse entendimento,de quea retroatividade da norma que introduziu o ANPP deve se limitar aos casos em que não houve o recebimento de denúncia.
+Essa também é a posição adotada pelaQuinta Turma: "a jurisprudência da Quinta Turma desta Corte, reconhecendo o caráter eminentemente processual da norma trazida no art. 28-A do Código de Processo Penal (acordo de não persecução penal), vem decidindo pela sua aplicação somente aos processos em curso até o recebimento da denúncia" (AgRg no HC n. 621721/SC, Rel. Ministro Ribeiro Dantas, DJe 8/2/2021).
+Veja-se, ainda:
+ ..
+5. A jurisprudência firmou entendimento no sentido de que, "iniciada a persecução penal com o recebimento da denúncia e, no caso, com a condenação, inclusive, do paciente em segunda instância, resta afastada a possibilidade de acordo de não persecução penal, por não se coadunar com o propósito do instituto despenalizador pré-processual" (AgRg no HC N. 644.020/SC, relator Ministro Felix Fischer, Dje de 12/3/2021).
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RE nos EDcl no AgRg nos EAREsp n.1.533.884/PB, Rel. Ministro Humberto Martins, C.E., DJe 25/6/2021, grifei)
+A Primeira Turma do STF tem a mesma compreensão acerca da matéria:
+ ..
+1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: "o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia".
+ ..
+(HC n. 191.464 AgR, Rel. Ministro Roberto Barroso, 1ª T., DJe25/11/2020, destaquei)
+Na espécie, o acórdão impugnado está em consonância com a jurisprudência do STJ, uma vez que não havia possibilidade de oferecimento do acordo de não persecução penal por já haversido recebida a denúncia.Conforme afirmou a Corte local, adenúncia foi recebida em 3/8/2015- antes das alterações promovidas pela Lei n. 13.694/2019-e o acórdão condenatório já fora prolatado quando a defesa formulou o pedido de abertura de vista ao órgão acusatório para oferecimento do ANPP.
+III. Confissão espontânea
+Quanto ao reconhecimento da confissão espontânea, assiste razão à defesa.
+De acordo com a Súmula n. 545 desta Corte Superior: "Quando a confissão for utilizada para a formação do convencimento do julgador, o réu fará jus à atenuante prevista no art. 65, III, d, do Código Penal."
+Na hipótese, o Tribunal estadual deixou de aplicar a circunstância legal genérica prevista no art. 65, III, "d", do Código Penal porque o réu haveria confessado apenas extrajudicialmente.
+Todavia, as declarações prestadas pelo acusado foram sopesadas para corroborar o acervo fático-probatório e fundamentar a sua condenação pela prática do crime de embriaguez ao volante. O Juízo de segundo grau registrou o seguinte: "Ao ser questionado, o apelado confirmou que havia ingerido bebida alcoólica e se recusou a realizar o exame de etilômetro, motivo pelo qual foi encaminhado para a Delegacia" (fl. 50).
+Dessarte, deve ser reconhecida a atenuante em favor do agente. Contudo, não haverá impacto na reprimenda, uma vez que a pena-base foi fixada no mínimo legal, sem agravantes na segunda fase da dosimetria. Aplicável, à espécie, o entendimento da Súmula n. 231 do STJ, in verbis: "A incidência da circunstânciaatenuantenão pode conduzir à redução da pena abaixo domínimo legal".
+IV. Dispositivo
+À vista do exposto, concedo parcialmente a ordem, tão somente para reconhecer a atenuante do art. 65, III, "d", do CP, sem que haja reflexos na pena do agente por força da Súmula n. 231 do STJ.
+Publique-se e intimem-se.
