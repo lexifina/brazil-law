@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto porTHIAGO JOSE SOAREScom fundamento no art. 105, inciso III, "a", da Constituição Federal de 1988, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Consta dos autos que o recorrente foi condenado a 1 ano de reclusão, em regime inicial aberto, em razão da prática de crime de receptação (art. 280 do Código Penal). Essa pena foi substituída por uma restritiva de direito.
+Em apelação criminal manejada pela defesaa sentença foi mantida.
+Nas razões do recurso especial, o recorrente defende a aplicação do benefício previsto no art. 155, § 2º, do CP.
+É o relatório.Decido.
+Segundo a jurisprudênciadesta Corte, "no que se refere à figura do furto privilegiado, o art. 155, § 2º, do Código Penal impõe a aplicação do benefício penal na hipótese de adimplemento dos requisitos legais da primariedade e do pequeno valor do bem furtado, assim considerado aquele inferior ao salário mínimo ao tempo do fato, tratando-se, pois, de direito subjetivo do réu, embora o dispositivo legal empregue o verbo "poder", não configurando mera faculdade do julgador a sua concessão"(AgRg nos EDcl no HC n. 511.233/SP, RelatorMinistro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/4/2021, DJe 16/4/2021).
+Essa norma é aplicávelao crime de receptação, conforme expressa disposição do § 5ºdo art. 180 do CP.
+A propósito:
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS.RECEPTAÇÃO DOLOSA. DOSIMETRIA. PENA-BASE. MAUS ANTECEDENTES.FUNDAMENTAÇÃO IDÔNEA. GUARDA DE BENS PRODUTO DE CRIME. MODALIDADE PERMANENTE DE RECEPTAÇÃO. CONSUMAÇÃO DO DELITO QUE SE PROTRAI NO TEMPO. CONDENAÇÃO SUPERVENIENTE POR FATO ANTERIOR À INTERRUPÇÃO DA EXECUÇÃO DO DELITO ORA APENADO. REDUÇÃO PROPORCIONAL DO QUANTUM DE INCREMENTO PUNITIVO APLICADO NA PRIMEIRA FASE. RECEPTAÇÃO PRIVILEGIADA. REQUISITOS LEGAIS. PRIMARIEDADE TÉCNICA DO AGENTE.PEQUENO VALOR DA RES. EXISTÊNCIA DE MAUS ANTECEDENTES NÃO IMPEDE A APLICAÇÃO DA BENESSE. INCIDÊNCIA DO ART. 155, § 2.º C.C. 180, § 5.º, DO CÓDIGO PENAL. AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+ ..
+- Sendo o agravado/paciente tecnicamente primário, e os bens receptados de pequeno valor - considerando como parâmetro o salário mínimo à época dos fatos - impõe-se a incidência do privilégio do art. 180, § 5º, o qual remete ao art. 155, § 2º, ambos do Código Penal.
+- Conquanto haja motivação idônea para o desvalor atribuído aos antecedentes criminais do agravado/paciente, embora em menor medida do que fora feito pela instância a quo, uma vez que apenas duas condenações definitivas são aptas à configuração da vetorial, isso, por si, não impede o reconhecimento do privilégio do art. 180, § 5º, c.c. art. 155, § 2º, ambos do Código Penal, pois um dos requisitos legais da benesse é a primariedade do apenado.
+- Agravo regimental provido em parte e reformada a decisão de fls.90/99, para conceder a ordem, de ofício, cassando o acórdão de origem e determinando o refazimento da dosimetria da pena do agravado/paciente, com redução de sua pena-base ao patamar de 1/3 sobre o mínimo legal e aplicação do art. 155, § 2.º, c.c. o 180, § 5.º, do Código Penal, devendo ser reexaminados o regime prisional inicial e a possibilidade de substituição da prisão por penas alternativas.
+(AgRg no HC 516.263/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 03/09/2019, DJe 12/09/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. PRINCÍPIO DA INSIGNIFICÂNCIA. INAPLICABILIDADE. VALOR DOS BENS SUBTRAÍDOS.RECURSO DESPROVIDO.
+1. A aplicação do princípio da insignificância reflete o entendimento de que o Direito Penal deve intervir somente nos casos em que a conduta ocasionar lesão jurídica de certa gravidade, devendo ser reconhecida a atipicidade material de perturbações jurídicas mínimas ou leves, essas consideradas não só no seu sentido econômico, mas também em função do grau de afetação da ordem social que ocasionem.
+2. Segundo a jurisprudência do Supremo Tribunal Federal, o princípio da insignificância tem como vetores a mínima ofensividade da conduta, nenhuma periculosidade social da ação, o reduzido grau de reprovabilidade do comportamento e a inexpressividade da lesão jurídica provocada. 3. Inviável a incidência do referido brocardo, in casu, porquanto o valor dos bens subtraídos não pode ser considerado de lesividade mínima, circunstância apta a ensejar a incidência do Direito Penal.
+4. O simples fato de os bens furtados terem sido restituídos à vítima não conduz, necessariamente, à aplicação da bagatela.Precedentes.
+PRIVILEGIO. ART. 155, § 2º, DO CP. CABIMENTO. FLAGRANTE ILEGALIDADE.HABEAS CORPUS. CONCESSÃO DE OFÍCIO.
+1. Embora a conduta seja típica, tendo em vista que o valor do bem subtraído corresponde a valor inferior ao salário mínimo, tal montante deve ser considerado pequeno, fazendo jus o acusado à diminuição da pena imposta, tal como previsto no art. 155, § 2º, do Código Penal.
+2. Cumpre reconhecer a ocorrência de ilegalidade manifesta nesse ponto, que reclama a concessão de habeas corpus de ofício, operando-se o redimensionamento da reprimenda.
+3. Agravo regimental desprovido. Ordem concedida de ofício para reduzir a pena imposta.
+(AgRg no AREsp 958.354/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 18/05/2017, DJe 24/05/2017)
+Sendo assim, considerando observados os requisitos, deve ser aplicado o benefício.
+Todavia, considerando que o valor do bem subtraído se aproxima do relativo ao salário mínimo vigente à época dos fatos, reduzo a pena em 2/3, resultando em 4 meses de reclusão.
+Ante o exposto, dou provimento ao recurso especial para redimensionar a pena para 4 meses de reclusão.
+Publique-se. Intimem-se.
