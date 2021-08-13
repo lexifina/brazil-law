@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por COMPANHIA ESTADUAL DE ÁGUAS E ESGOTOS - CEDAE, com respaldona alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+Ação de Obrigação de Fazer cumulada com Restituição de Indébito e Indenizatória - Cobrança de tarifa de coleta e tratamento de esgoto sanitário - CEDAE. Prazo prescricional decenal - Aplicação do artigo 205 do Código Civil e da Súmula nº 412 do Superior Tribunal de Justiça. Relação de consumo - Artigos 6º, inciso IV, 39, inciso V, e 51, inciso IV do Código de Defesa do Consumidor. Possibilidade da cobrança parcial da tarifa, quando o serviço não for prestado na sua integralidade, considerando-se que a CEDAE afirma que a coleta e transporte do esgotamento sanitário da localidade do demandante são prestados através de redes de manilhas por ela mantidas, e que realiza os serviços de manutenção e desobstrução respectivos. No que se refere ao pedido de indenização por dano moral, não é possível vislumbrar que a conduta da concessionária tenha gerado qualquer lesão a direito da personalidade do apelado, restringindo-se a questão à esfera patrimonial das partes, não cabendo a verba pretendida. As despesas processuais e os honorários advocatícios devem ser suportados pela ré - Artigo 21, parágrafo único do Código de Processo Civil de 1973, vigente quando proferida a Sentença - Provimento parcial do recurso de Apelação.
+Em suas razões, a parte recorrente aponta violação dos arts.206, § 3º, IV, do Código Civil,3º da Lei n.11.445/2007,9º do Decreto n.7.217/ 2010e485, VI, do Código de Processo Civil/2015.
+Contrarrazões.
+No primeiro juízo de admissibilidade do Tribunal de origem, o feito foi remetido ao Órgão Julgador para juízo de retratação, tendo sido reformado o aresto recorrido (e-STJ fls. 937/946).
+Passo a decidir.
+Verifico que a pretensão recursal está prejudicada.
+De fato, a Corte local, por ocasião do juízo de retratação do art. 1.030, II, do CPC/2015, reviu o aresto proferido na apelação e julgou improcedentes os pedidos iniciais, conforme acórdão a seguir ementado (e-STJ fls. 938/939):
+Ação Declaratória de Inexigibilidade de Débito c/c Repetição de Indébito - Cobrança de tarifa de coleta e tratamento de esgoto sanitário - CEDAE.
+Sentença de procedência dos pedidos autorais, determinando que a ré se abstenha de efetuar qualquer cobrança a título de esgotamento sanitário, até que o serviço fosse integralmente prestado.
+Acórdão proferido por esta Câmara que modificou a Sentença, provendo o Apelo da ré, em parte, para declarar a nulidade da cobrança de 50% da tarifa de esgoto, enquanto o serviço não fosse integralmente prestado.
+Recurso Especial Repetitivo. Tema 565. Divergência entre o Acórdão proferido por esta Câmara e a orientação pacificada pelo Superior Tribunal de Justiça, que firmou entendimento no sentido da legalidade da cobrança de tarifa de esgoto sanitário.
+Retorno dos autos à Câmara para reexame, na forma do artigo 1.030, inciso II, do Código de Processo Civil.
+Em conformidade com o artigo 927, inciso III do Códigode Processo Civil, compete aos juízes e tribunais a observância aos Acórdãos proferidos pelo Superior Tribunal de Justiça no âmbito dos recursos repetitivos, no caso, Recurso Especial nº 1339313/RJ, que possibilita a cobrança integral da tarifa de esgotamento sanitário, independentemente das fases cujos serviços são efetivamente prestados.
+Portanto, cabe a revisão do Acórdão proferido em Apelação para julgar improcedentes os pedidos iniciais, condenando-se o autor ao pagamento dos ônus sucumbenciais.
+Juízo de Retratação positivo. Reforma do Acórdão proferido em Apelação, consoante o artigo 1.041 do Código de Processo Civil, dando-se provimento ao recurso da Cedae, julgando-se improcedentes os pedidos iniciais.
+Ante o exposto, JULGO PREJUDICADO o presente recurso, nos termos do art. 34, XI, do RISTJ.
+Publique-se. Intimem-se.
