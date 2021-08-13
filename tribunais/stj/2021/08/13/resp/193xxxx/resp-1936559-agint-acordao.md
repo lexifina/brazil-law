@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO DE COBRANÇA. SEGURO DE VIDA. JULGAMENTO DO RECURSO POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. EVENTUAL ABUSIVIDADE DE CLÁUSULA LIMITATIVAE FALHA NO DEVER DE INFORMAÇÃO. OMISSÃO DO TRIBUNAL ESTADUAL. QUESTÃO OPORTUNAMENTE SUSCITADA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS DECLARATÓRIOS. AGRAVO INTERNO DESPROVIDO.
+1.Efetivamente, a legislação processual e o Regimento Interno do Superior Tribunal de Justiça (arts. 932 do CPC/2015; 34, XVIII, e 255, § 4º, do RISTJ, c/c a Súmula 568 do STJ) permitem ao relator julgar, monocraticamente, recurso inadmissível ou, ainda, aplicar a jurisprudência consolidadadeste Tribunal.
+2.Verifica-se que o Tribunal de origem deixou de analisar questão fundamental para a solução da lide mesmo após a oposição de embargos de declaração, tornando imperioso o reconhecimento da negativa de prestação jurisdicional.
+3.Agravo internodesprovido.
+RELATÓRIO
+Na origem, NEWTON KOJI TSUZURA e SHIZUE WATANABE TSUZURA ajuizaram ação de cobrança contra CAIXA SEGURADORA S.A. postulando a condenação da ré ao pagamento de indenização securitária decorrente de doença coberta pelo seguro de vida, além de indenização a título de danos morais.
+O Magistrado de primeiro grau julgou os pedidos improcedentes. Diante da sucumbência, os demandantes foram condenados ao pagamento de custas e honorários advocatícios arbitrados em 10% sobre o valor da causa.
+Interposta apelação pelos autores, o Tribunal de Justiça do Estado do Mato Grosso negou provimento ao recurso nos termos do acórdão assim ementado (e-STJ, fl. 320):
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA DE SEGURO DE VIDA - COBERTURA POR DOENÇA GRAVE -CERCEAMENTO DE DEFESA -PEDIDO DE PERÍCIA JUDICIAL - DESNECESSIDADE - EXAME REALIZADO NA VIA ADMINISTRATIVA COM INFORMAÇÕES PRESTADAS PELO PROFISSIONAL QUE ACOMPANHAVA O AUTOR - PRELIMINAR REJEITADA - COBERTURA SECURITÁRIA - AUSÊNCIA DE INVALIDEZ PERMANENTE - NEOPLASIA MALIGNA DIAGNOSTICADA LOGO NO INÍCIO, COM TRATAMENTO CIRÚRGICO E POSSIBILIDADE CONCRETA DE CURA - SEGURADO QUE ENCONTRA-SE TRABALHANDO, APENAS COM LIMITAÇÕES LEVES - INEXISTÊNCIA DE DEVER DE INDENIZAR -SENTENÇA MANTIDA - HONORÁRIOS RECURSAIS - ARTIGO 85, §11º, DO CPC - APLICABILIDADE - RECURSO NÃO PROVIDO.
+O julgamento antecipado do feito com indeferimento de produção de prova não implica cerceamento de defesa quando essa providência for totalmente desnecessária para a resolução da lide.
+Não configurada a presença de invalidez permanente, não cabe o pagamento de indenização securitária.
+Ao julgar o Recurso, o Tribunal deverá majorar a verba honorária anteriormente fixada, levando em conta o trabalho adicional realizado em grau recursal (art. 85, §11º, do CPC).
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 345-351).
+Inconformados, os insurgentes interpuseram recurso especial, com amparo na alíneaado permissivo constitucional, apontando violação aos arts. 85, § 11, 355, I, 369, 370, 464, 489, II, § 1º, IV, e 1.022, II, e 1.025 do CPC/2015; 186 e 757 do Código Civil; 6º, 51, IV, e 54, §§ 3º e 4º, do CDC.
+Sustentaram, preliminarmente, a negativa de prestação jurisdicional por parte do acórdão recorrido, porque o julgado não analisou as alegações da parte recorrente quanto:
+a)à abusividade da cláusula contratual que exige, em conjunto, o acometimento da doença e o resultado invalidez permanente para haver a cobertura securitária;
+b)à legitimidade da exigência de submissão do segurado à junta médica da própria seguradora;
+c)à falta de clareza ao consumidor acerca das condições contratuais.
+Afirmaram, ainda, a ocorrência de cerceamento de defesa pelo julgamento antecipado da lide e pela utilização de perícia médica realizada unilateralmente pela seguradora.
+Defenderamfazer jus à cobertura do seguro de vida, independentemente das consequências da doença prevista contratualmente, haja vista que ficou comprovado que o segurado foi diagnosticado com neoplasia maligna de mau prognóstico a curto prazo.
+Argumentaram ter havido falha no cumprimento ao dever de informação ao consumidor sobre as cláusulas limitativas do seguro.
+Alegaram que a recusa injustificada da cobertura securitária enseja a indenização por danos morais.
+Por fim, pleitearam o redimensionamento dos ônus de sucumbência.
+Contrarrazões às fls. 598-607 (e-STJ).
+O Tribunal de origem admitiu o processamento do recurso especial, ascendendo os autos a esta Corte (e-STJ, fls. 610-612).
+Às fls. 422-426(e-STJ), esta relatoria proferiu decisão monocrática reconhecendo a ocorrência de negativa de prestação jurisdicional por parte do acórdão recorrido,nos termos da seguinte ementa:
+RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA. OMISSÃO DO TRIBUNAL ESTADUAL. QUESTÃO OPORTUNAMENTE SUSCITADA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS DECLARATÓRIOS. RECURSO ESPECIAL PROVIDO.
+Daí a interposição deste agravo interno (e-STJ, fls. 429-439), no qual CAIXA SEGURADORA S.A., em síntese, assevera que é descabido o julgamento monocrático do recurso especiale afirma que não ficou configurada a omissão do acórdão recorrido, porque "a patologia que acomete o segurado não caracteriza a Cobertura por Doença Grave por neoplasia maligna grave" (e-STJ, fl. 431).
+Defende, ainda, que não houve o preenchimento dos critérios necessários previstos no instrumento contratual firmado entre as partes para a cobertura securitária requerida pelo segurado, apontando que a pretensão veiculada no recurso especial é obstada pela incidência das Súmulas 5 e 7/STJ.
+Pleiteia, assim, a reconsideração da decisão agravada ou o julgamento pelo órgão colegiado.
+Impugnação às fls. 441-443 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL.AÇÃO DE COBRANÇA. SEGURO DE VIDA. JULGAMENTO DO RECURSO POR DECISÃO MONOCRÁTICA. POSSIBILIDADE. EVENTUAL ABUSIVIDADE DE CLÁUSULA LIMITATIVAE FALHA NO DEVER DE INFORMAÇÃO. OMISSÃO DO TRIBUNAL ESTADUAL. QUESTÃO OPORTUNAMENTE SUSCITADA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS DECLARATÓRIOS. AGRAVO INTERNO DESPROVIDO.
+1.Efetivamente, a legislação processual e o Regimento Interno do Superior Tribunal de Justiça (arts. 932 do CPC/2015; 34, XVIII, e 255, § 4º, do RISTJ, c/c a Súmula 568 do STJ) permitem ao relator julgar, monocraticamente, recurso inadmissível ou, ainda, aplicar a jurisprudência consolidadadeste Tribunal.
+2.Verifica-se que o Tribunal de origem deixou de analisar questão fundamental para a solução da lide mesmo após a oposição de embargos de declaração, tornando imperioso o reconhecimento da negativa de prestação jurisdicional.
+3.Agravo internodesprovido.
+VOTO
+Os argumentos trazidos pela recorrente não são capazes de modificar as conclusões da deliberação unipessoal.
+De início, quanto à alegada impossibilidade de julgamento monocrático, é preciso ressaltar que o art. 932, III, do CPC/2015 estabelece como atribuição do relator não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Outrossim, os arts. 34, XVIII, e 255, § 4º, do RISTJ autorizam o relator a decidir monocraticamente para não conhecer do recurso inadmissível, prejudicado ou daquele que não tiver impugnado especificamente todos os fundamentos da decisão recorrida.
+Na mesma linha, a Corte Especial do Superior Tribunal de Justiça editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Nessas hipóteses, não há falar em usurpação de competência dos órgãos colegiados diante do julgamento monocrático do recurso, porquanto o princípio da colegialidade é resguardado pela possibilidade de submissão da decisão singular ao controle recursal por meio da interposição de agravo interno, como ocorre na espécie.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. JULGAMENTO MONOCRÁTICO. POSSIBILIDADE. COMPROMISSO DE COMPRA E VENDA. ATRASO PARA ENTREGA DE UNIDADE IMOBILIÁRIA. CASO FORTUITO OU FORÇA MAIOR. NÃO OCORRÊNCIA. REVISÃO DO JULGADO. IMPOSSIBILIDADE. INCIDÊNCIA DO ENUNCIADO N.º 7/STJ. DANO MORAL.OCORRÊNCIA. JULGAMENTO "EXTRA PETITA". NÃO OCORRÊNCIA.
+1.O relator está autorizado a decidir monocraticamente recurso fundado em jurisprudência dominante. Ademais, eventual nulidade da decisão singular fica superada com a apreciação do tema pelo órgão colegiado em agravo regimental.
+2. O Tribunal de Justiça de origem analisou as provas contidas no processo para afastar a alegação de caso fortuito ou força maior.
+3. Alterar esse entendimento demandaria reexame do conjunto probatório do processo, vedado em recurso especial.
+4. Existência de julgados no âmbito do Superior Tribunal de Justiça no sentido de que o atraso da promitente vendedora em entregar o imóvel no prazo contratual, injustificadamente, não acarreta, por si só, danos morais.
+5. Por outro lado, a jurisprudência do Superior Tribunal de Justiça entende cabível a indenização por danos morais, nos casos de atraso na entrega do imóvel, quando este ultrapassar o limite do mero dissabor.
+6. Na hipótese dos autos, o Tribunal de Justiça reconheceu a existência de dano moral em razão de o atraso na entrega do imóvel ter perdurado por mais de dois anos.
+7. Conforme a jurisprudência do Superior Tribunal de Justiça, se a controvérsia é decidida dentro dos limites delineados na petição inicial, não há falar em julgamento extra, citra ou ultra petita.
+8. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+9. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt nos EDcl no REsp 1764598/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 21/09/2020, DJe 24/09/2020, sem grifo no original)
+No que diz respeito à negativa de prestação jurisdicional por parte do acórdão recorrido, registra-se que a Corte estadual, mantendo a sentença que julgou improcedentes os pedidos autorais, entendeu que o segurado não faz jus à indenização securitária, considerando, a despeito do seu diagnóstico de neoplasia maligna, que não houve o preenchimento dos critérios estabelecidos no contrato para a cobertura de doença grave, de acordo com as seguintes justificativas (e-STJ, fls. 325-327 - sem grifo no original):
+Partindo dessa premissa, a discussão cinge-se à existência ou não de cobertura na apólice para a situação do apelante, já que na sentença ficou consignado que ele é portador da doença alegada, porém não ficou caracterizada nos autos a incapacidade laborativa total e sim parcial apenas devido ao pós-operatório ao qual foi submetido
+(..)
+E na conclusão do laudo consta que  A neoplasia do segurado foidiagnosticada precocemente, havendo a retirada integral do tumor, sem evidências de invasão local ou de doença à distância. Apresenta ainda certas limitações pelo pós-operatório recente, mas já se encontra trabalhando e a possibilidade de cura é concreta (sic)  (id. 65731950 - Pág. 25). Como visto, na hipótese dos autos, foram constatadas apenas limitações temporárias devido ao pós-operatório
+E conforme consignado na apólice, para a cobertura nos casos de neoplasia maligna, é necessário que a patologia apresente estágio avançado e que sejam preenchidos fatores cumulativos de alterações celulares próprias das neoplasias, capacidade de invasão tissular local, capacidade de propagação metastática e acometimento, tanto pela neoplasia quanto pelas metástases, de funções e de órgãos de importância vital e gravidade com risco de vida (id. 65731951- Pág. 32), o que não ficou demonstrado nos autos pois, conforme descrito, o perito atestou concreta possibilidade de cura e os documentos juntados pelos autores mencionam que os demais órgãos não apresentavam particularidades (id. 65731479 -Pág. 24) e que a extensão do tumor era limitada ao rim (id. 65731479 - Pág. 25).
+Os então embargantes, por seu turno, nas razões dos aclaratórios, apontaram a ocorrência dos seguintes vícios no julgado acima referido, conforme se observa dos trechos a seguir transcritos (e-STJ, fls. 340-341 - sem grifo no original):
+Sobreveio aos autos acórdão confirmando integralmente a sentença de 1a instância, com idêntico fundamento, qual seja, pelo fato de que a neoplasia maligna (câncer) que acometeu o segurado não resultou em invalidez permanente, razão pela qual esta E. Corte entendeu correta a negativa de cobertura securitária.
+No entanto, o v. acórdão objurgado não analisou o segundo fundamento de mérito da Apelação, pelo qual os Apelantes postulam a declaração de abusividade da cláusula contratual que exige o resultado invalidez permanente, não se contentando com o fato de ter contraído o segurado a neoplasia maligna.
+(..)
+Desta forma, é desarrazoado exigir que, além da neoplasia maligna, esta ainda produzida o resultado invalidez permanente, o que sem sombra de dúvidas coloca o consumidor em desvantagem exagerada, restringindo direitos e obrigações inerentes à natureza do contrato, ameaçando seu objeto e rompendo o equilíbrio contratual.
+Por esta razão, a cláusula de exclusão da cobertura, consubstanciada na cláusula 6.3.1, se revela abusiva, devendo ser extirpada sua parte final, que exige que o segurado seja considerado inválido para todo e qualquer trabalho em consequência do tratamento, mesmo quando extirpada a lesão neoplásica maligna.
+(..)
+Outra abusividade não analisada é o fato de a seguradora submeter o segurado ao parecer de junta médica da própria seguradora. A matéria não foi analisada sob este prisma, conforme postulado na Apelação, onde se pede a declaração de nulidade das cláusulas contratuais 6 e as sub-cláusulas 6.1, 6.2 e 6.3, que impõem limitação ao direito do segurado, ante à falta de clareza, destaque e de informação ao consumidor, eis que sequer a apólice lhe fora enviada, além de limitar o direito dos Embargantes.
+Dito isso, verifica-se que o Colegiado local, em que pese decidir de modo claro e fundamentado quanto à exigência da submissão do segurado à junta médica, reconhecendo inexistirem vícios no julgado embargado concernentes às outras matérias, limitou-se a reiterar a conclusão vertida no aresto combatido (e-STJ, fls. 342-362).
+Dessa maneira, conforme enfatizado na decisão agravada, visto que os temas - atinentes à eventual abusividade da cláusula contratual que exige, em conjunto, o acometimento da doença e o resultado invalidez permanente, para haver a cobertura securitária, e à suposta falha no cumprimento ao dever de informação ao consumidor sobre as cláusulas limitativas do seguro - foram oportunamente suscitados pelos recorrentes, o Tribunal local deveria ter examinado as alegações que, a esse respeito, foram-lhe submetidas.
+Nesse contexto, ratifica-se a conclusão de que a persistência na omissão, diante da rejeição dos embargos de declaração sem apreciação da referida questão jurídica relevante, deu azo à violação do art. 1.022 do CPC/2015.
+Por tais motivos,impõe-se o retorno dos autos para que o órgão competente realize novo julgamento dos embargos de declaração, com a devida apreciação das questões suscitadas pelosentão embargantes,como entender de direito.
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. PLANTA COMUNITÁRIA DE TELEFONIA - PCT. ESPECIFICIDADES. OMISSÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. RECONHECIMENTO.
+1. Admite-se que os embargos, ordinariamente integrativos, tenham efeitos infringentes desde que constatada a presença de um dos vícios do art. 1.022 do Código de Processo Civil de 2015, cuja correção importe alterar a conclusão do julgado.
+2. Constatada a existência de omissões não sanadas no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento da violação do artigo 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3 . Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao agravo interno.(EDcl no AgInt no AREsp 1637994/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 29/03/2021, DJe 07/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. ARGUMENTOS RELEVANTES. VÍCIO CARACTERIZADO.
+1. Há violação do art. 535 do CPC/1973 quando o colegiado, apesar de provocado por meio dos embargos de declaração, deixa de se manifestar sobre ponto relevante para a solução da controvérsia.
+2. No caso, o Tribunal a quo não se manifestou a respeito do devido processo legal, da preclusão e do princípio da segurança jurídica, temas oportunamente apresentados.
+3. Recurso especial provido, com determinação de retorno dos autos à origem.(AgInt no REsp 1329416/RJ, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 23/02/2021, DJe 15/03/2021)
+De outro lado, conforme consignado na decisão combatida, diante do reconhecimento da apontada violação do art. 1.022 do CPC/2015, as teses remanescentes vertidas no recurso especial interposto porNEWTON KOJI TSUZURA e SHIZUE WATANABE TSUZURAficaram, pelo menos neste momento processual, prejudicadas, não havendo falar em incidência dos óbices das Súmulas 5 e 7/STJ quanto a tais pontos.
+Em arremate, uma vez que as alegações feitas no presente agravo interno não são capazes de modificar o convencimento manifestado no aresto impugnado, permanece inalterada a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
