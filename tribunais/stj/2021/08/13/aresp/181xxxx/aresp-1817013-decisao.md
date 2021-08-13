@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto porUNIMED CUIABÁ  COOPERATIVA DE TRABALHO MÉDICO,contra decisão que negou seguimento ao recurso especial por incidência das Súmulas n. 7 do STJ e 282 do STF e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 1.241/1.245).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.011):
+Ementa - Plano de saúde - Solidariedade entre operadoras Unimed - Provas nos autos suficientes - Cerceamento de defesa inexistente - Condenação da Central Unimed limitada à pretensão deduzida neste processo, único do qual participou - Beneficiária Apelada usou rede credenciada, mas não obteve solução para sua emergência - Despesas com estabelecimentos não-credenciados reembolsáveis no limite do contrato (Lei n. 9.656/1998, art. 12, inc. VI) - Recursos parcialmente providos.
+Osembargos de declaração foram rejeitados(e-STJ fls. 1.033/1.035 e 1.060/1.062).
+No especial (e-STJ fls. 1.174/1.209), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts.7º, 355 e 369 do CPC/2015 por cerceamento de defesa em decorrência da impossibilidade de produção de provas.
+Apontou afronta aosarts. 98 e 99 do CPC/2015, afirmando não ser caso de concessão dos benefícios da justiça gratuita.
+Indicou contrariedade aos arts.6º, VI e VIII, 14, 47 e 51, IV, do CDC, 421 e 422 do CC/2002 e 12, II, "e", da Lei n. 9.656/1998, sustentando a inexistência de obrigação ao custeio de tratamento realizado forada rede credenciada e fora da abrangênciado contrato.
+No agravo (e-STJ fls. 1.248/1.273), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela parte recorrida (e-STJ fls. 1.306/1.324).
+É o relatório.
+Decido.
+Quanto ao cerceamento de defesa, extraem-se as seguintes razões de decidir do aresto recorrido (e-STJ fl. 1.016):
+Quanto à alegação de cerceamento de defesa por impedimento de produção de provas, entendo que os documentos trazidos aos autos foram suficientes para sua elucidação. A questão sobre a obrigação da operadora em cobrir hospital não credenciado pode ser esclarecida com base nos instrumentos contratuais colacionados, sendo desnecessárias outras provas. A suficiência da rede credenciada para oferecer serviços à Apelada foi demonstrada adequadamente pelos documentos juntados, sendo igualmente dispensável perícia.
+O acórdão recorrido, com base no conjunto fático-probatório, concluiu pela inexistência de cerceamento de defesa e pela presença das condições para o julgamento antecipado da lide. Não há como modificar tal entendimento no âmbito do recurso especial, incidindo, nesse caso, a Súmula n. 7 do STJ.
+Do mesmo modo, para rever a concessão dos benefícios da justiça gratuita e reconhecer que não foram preenchidos os requisitos legais,implicariareexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto naSúmulan.7 do STJ.
+Com relação à cobertura contratual, o Tribunal de origem consignou que(e-STJ fl. 1.018):
+A Lei (n. 9.656/1998, art. 12, inc. VI) prevê que (1) caso obeneficiário se depare com emergência, ou seja, situação que imponha perigo imediato à vida ou de lesão irreparável (cf. art. 35-C da Lei n.
+9.656/1998), e (2) não sendo possível usar a rede credenciada, suas despesas com estabelecimento não-credenciado deverão ser cobertas pela operadora contratada no limite dos valores pagos à rede credenciada.
+Pelo que se verificou no relatório, a beneficiária usou a rede credenciada, a qual, contudo, não esclareceu a origem de seu problema de saúde, motivando a beneficiária a usar serviços particulares em Cuiabá e em São Paulo.
+É dizer: a Apelada não recorreu a inúmeros estabelecimentos nem desembolsou R$44.000,00 em táxi aéreo entre Cuiabá e São Paulo (fls. 264/6) por mero arbítrio, mas porque efetivamente não obtinha diagnóstico e solução para sua situação, que a própria unidade de pronto-atendimento da operadora Apelante declarou ser "muito urgente" (cf. fls. 128/33).
+Noto que a Apelante não convence ao dizer que sua rede credenciada tinha como oferecer os serviços obtidos pela Apelada em São Paulo.
+De fato, os documentos trazidos pela Apelante evidenciam que sua rede credenciada oferecia hemodiálise e plasmaferese (v. fls.
+445/6). No entanto, a Apelada sequer sabia que eram esses os serviços que garantiriam sua sobrevivência. Como visto, a rede credenciada daApelante não chegou ao diagnóstico de SHUA, alcançado apenas pelo hospital paulistano não-credenciado, que permitiu prescrever a hemodiálise e a plasmaferese.
+À vista da caracterização da emergência e da necessidade de recurso a estabelecimento não-credenciado, entendo preenchidos os requisitos do art. 12, inc. VI, da Lei n. 9.656/1998 e devido o reembolso das despesas havidas pela Apelada pelas operadoras Apelantes, no limite do valor máximo que pagariam à rede credenciada.
+Para alterar os fundamentos acima transcritos e reconhecer que não estaria caracterizada a inviabilidade de tratamento em rede credenciada, bem como o caráter emergencial do tratamento, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Com relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência mediante o cotejo analítico dos acórdãos recorrido e paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
