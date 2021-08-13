@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal(e-STJ fls. 129/131).
+O acórdão recorrido está assim ementado (e-STJ fl. 95):
+Agravo de instrumento -execução de título extrajudicial -devedora que se encontra em recuperação judicial -pretensão de extinção da ação em razão da aprovação do plano de recuperação judicial pela Assembleia Geral de Credores -indeferimento na origem, determinando-se a suspensão pelo prazo de um ano, bem como a prescrição, nos termos do §1º, art. 921, III, do CPC -insurgência- descabimento - inteligência dos artigos 59, 61, § 1º, e 62, da Lei n. 11.101/05- Suspensão da execução até o encerramento da recuperação judicial ou decretação de falência - decisão mantida - recurso desprovido.
+Os embargos de declaração foram rejeitados(e-STJ fls. 120/125).
+Nas razões do recurso especial (e-STJ fls. 101/112), fundamentado no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aoart. 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou ainda afronta aos arts. 49, 58, 59 e 73 da Lei n. 11.101/2005, sustentando, em síntese,a necessidade de extinção da execução em relação à empresa/recorrente recuperanda, em razão da aprovação do plano de recuperação judicial e da consequente novação da dívida.
+No agravo (e-STJ fls. 134/141), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Não há falar em ofensa ao art. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 96/97):
+Não obstante a previsão constante na primeira parte do artigo 59 da citada legislação no sentido de que "o plano de recuperação judicial implica novação dos créditos anteriores ao pedido (..)" essa novação depende do cumprimento do plano de recuperação judicial.
+Assim, muito embora aponte a agravante para a aprovação do plano de recuperação judicial, esse fato não acarreta na automática perda superveniente do interesse do credor para a execução, até porque, em caso de descumprimento do plano no prazo de dois anos, será convolada a recuperação judicial em falência, tendo os credores reconstituídos seus direitos e garantias nas condições originalmente contratadas, nos termos do artigo 61 e parágrafos da Lei nº 11.101/2005:
+(..)
+E, o art. 62, por seu turno, prevê que, após o decurso do prazo acima assinalado, no caso de descumprimento de qualquer obrigação prevista no plano de recuperação judicial, o credor poderá requerer a execução específica ou a falência com base no art. 94 desta Lei.
+Assim, da leitura dos referidos artigos é possível concluir que a novação no plano de recuperação judicial não acarreta automaticamente a extinção da execução, mas sim sua suspensão, na forma como corretamente decidiu o juízo de piso.
+A decisão recorrida está em confronto com a jurisprudência desta Corte,no sentido de que, após a aprovação do plano de recuperação judicial, as execuções individuais contra a recuperanda devem ser extintas, ante a existência da novação. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL DIREITO EMPRESARIAL E CIVIL.RECUPERAÇÃO JUDICIAL. APROVAÇÃO DO PLANO. NOVAÇÃO. EXECUÇÕES INDIVIDUAIS AJUIZADAS CONTRA A RECUPERANDA. EXTINÇÃO. SUSPENSÃO OU EXTINÇÃO DE AÇÕES AJUIZADAS CONTRA DEVEDORES SOLIDÁRIOS E COOBRIGADOS EM GERAL. IMPOSSIBILIDADE. INTERPRETAÇÃO DOS ARTS. 6º, CAPUT, 49, § 1º, 52, INCISO III, E 59, CAPUT, DA LEI N. 11.101/2005.
+1. "A novação resultante da concessão da recuperação judicial após aprovado o plano em assembleia é sui generis, e as execuções individuais ajuizadas contra a própria devedora devem ser extintas, e não apenas suspensas" (REsp 1272697/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 02/06/2015, DJe 18/06/2015).
+2. A Segunda Seção do STJ, em sede de recurso repetitivo, definiu a tese de que "a recuperação judicial do devedor principal não impede o prosseguimento das execuções nem induz suspensão ou extinção de ações ajuizadas contra terceiros devedores solidários ou coobrigados em geral, por garantia cambial, real ou fidejussória, pois não se lhes aplicam a suspensão prevista nos arts. 6º, caput, e 52, inciso III, ou a novação a que se refere o art. 59, caput, por força do que dispõe o art. 49, § 1º, todos da Lei n. 11.101/2005" (REsp 1333349/SP, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 26/11/2014, DJe 02/02/2015).
+3. Agravo interno não provido.
+(AgInt no REsp n. 1804816/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/8/2019, DJe 21/8/2019.)
+DIREITO EMPRESARIAL E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. JURISPRUDÊNCIA DOMINANTE. DECISÃO MONOCRÁTICA.POSSIBILIDADE. RECUPERAÇÃO JUDICIAL. APROVAÇÃO DO PLANO. EXECUÇÕES INDIVIDUAIS CONTRA A RECUPERANDA. EXTINÇÃO. DECISÃO MANTIDA.
+1. Conforme a Súmula n. 568/STJ e os arts. 34, XVIII, "c", e 255, § 4º, III, do RISTJ, o relator está autorizado a julgar monocraticamente recurso, quando houver jurisprudência consolidada sobre o tema.
+2. Após a aprovação do plano de recuperação judicial pela assembléia de credores e posterior homologação pelo juízo competente, devem ser extintas - e não apenas suspensas - as execuções individuais até então propostas contra a recuperanda, sem nenhum tipo de condicionante à novação de que trata o art. 59 da Lei n.11.101/2005. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1367848/SP, minha relatoria, QUARTA TURMA, julgado em 19/4/2018, DJe 26/4/2018.)
+Ante o exposto, DOU PARCIAL PROVIMENTO ao recurso especialpara determinar a extinção da execução individual promovida contra a parte recorrente.
+Publique-se e intimem-se.
