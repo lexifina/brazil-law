@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de EDJAU(L)MA ANDRADE DOS SANTOS JUNIOR, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (fls. 33-37).
+Daí o presente habeas corpus, no qual a d. Defesa sustenta que o lapso imposto pelo eg. Tribunal de origem para a progressão de regime dependeria de reincidência específica em crime hediondo.
+Alega que a Lei nº 13.964/2019 é norma penal posterior mais benéfica.
+Requer a concessão da ordem, inclusive LIMINARMENTE, com a retificação dos cálculos da execução penal, para a progressão de regime. No mérito, a confirmação da liminar, com a ordem definitiva.
+Liminar indeferida (fls. 40-42).
+Informações, às fls. 45-64.
+O d. Ministério Público Federal se manifestou, às fls. 66-73, em r. parecer, pela concessão do writ, nos termos da seguinte ementa:
+"HABEAS CORPUSSUBSTITUTIVO DE RECURSO PRÓPRIO. EXECUÇÃO PENAL. CÁLCULO PARA FINS DE PROGRESSÃO DE REGIME. LEI 13.964/2019. REINCIDÊNCIA GENÉRICA. APLICAÇÃO DO PERCENTUAL DE 40% (2/5) EM VEZ DE 60% (3/5). ANALOGIA IN BONAM PARTEM. INTERPRETAÇÃO DO ART. 112 DA LEP. ACÓRDÃO IMPUGNADO EM DESACORDO COM O ENTENDIMENTO FIRMADO EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA (RESP 1.910.240/MG).
+- Parecer pelo não conhecimento do habeas corpus, concedendo-se a ordem de ofício para determinar a retificação dos cálculos de pena do paciente para que conste o percentual previsto no art. 112, V, da Lei de Execução Penal, qual seja, 40%."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo de recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para a proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Desta forma, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para delimitar a quaestio, o v. acórdão vergastado (fls. 33-37):
+"Cuida-se de agravo em execução interposto por EDJAUMA ANDRADE DOS SANTOS JUNIOR contra a decisão de fls. 18/19, datada de 6.7.2020, da Unidade Regional de Departamento Estadual de Execução Criminal da Comarca de Sorocaba, que, nos autos da Execução Penal nº 0010130-14.2018.8.26.0521, indeferiu o pedido de retificação do cálculo de penas.
+(..)
+Essa Câmara também já se posicionou nesse sentido, em acórdão relatado pelo ilustre Des. Tetsuzo Namba, no Agravo em Execução nº 0002411-10.2020.8.26.0521, julgado no dia 8.6.2020. Diante do exposto, nega-se provimento ao recurso."
+Pois bem.
+Incialmente, tem-se que a d. Defesa confirma a reincidência (embora não específica, no caso concreto).
+Explicou-se que (fl. 35): "Edjauma conta com condenação total de cinco anos e dez meses de reclusão pela prática do crime de tráfico de entorpecentes. Iniciou o cumprimento da pena em 9.10.2017 e o vencimento dela está previsto para o dia 5.8.2023. Pois bem. Embora o agravante não seja reincidente específico, pois condenado anteriormente por crime de roubo, não é possível aplicar ao caso o disposto no artigo 112, inciso V, da Lei de Execução Penal, cuja porcentagem de 40% destina-se aos réus primários."
+No presente caso, verifica-se que o eg. Tribunal de origem determinou fosse observada a fração própria à reincidência dos crimes hediondos em geral, com a aplicação do atual art. 112, VII, da Lei de Execução Penal.
+Verbis:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+(..)
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+(..)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado (..)" (grifei)
+Contudo, em Sessão de 9/12/2020, esta Quinta Turma, em alinhamento ao que já vinha sendo determinado pela Sexta Turma desta eg. Corte Superior, passou a decidir em sentido diametralmente oposto ao seu entendimento anterior, pelos fundamentos abaixo mencionados.
+Vejamos a ementa do HC n. 613.268/SP, in verbis:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. VIA INADEQUADA. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM (FURTO QUALIFICADO). HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. ORIENTAÇÃO REVISTA. AGRAVO REGIMENTAL PROVIDO. CONCESSÃO DE HC DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção do Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade.
+2. Firmou-se nesta Superior Corte o entendimento no sentido de ser irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo). Interpretação da Lei 8.072/90. Precedentes.
+3. Com a entrada em vigor da Lei 13.964/19 - Pacote Anticrime-, foi revogado expressamente o art. 2º, §2º, da Lei n. 8.072/90 (art. 19 da Lei n. 13.964/19), passando a progressão de regime, na Lei de Crimes Hediondos, a ser regida pela Lei n. 7.210/84.
+4. A nova redação dada ao art. 112 da Lei de Execução Penal modificou por completo a sistemática, introduzindo critérios e percentuais distintos e específicos para cada grupo, a depender especialmente da natureza do delito.
+5. No caso, o paciente foi sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido à condenação definitiva anterior pelo crime de furto qualificado (delito comum). Para tal hipótese, inexiste na novatio legis percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+6. Em direito penal não é permitido o uso de interpretação extensiva, para prejudicar o réu, devendo a integração da norma se operar mediante a analogia in bonam partem. Princípios aplicáveis: Legalidade das penas, Retroatividade benéfica e in dubio pro reo. - A lei penal deve ser interpretada restritivamente quando prejudicial ao réu, e extensivamente no caso contrário (favorablia sunt amplianda, odiosa restringenda) - in NÉLSON HUNGRIA, Comentários ao Código Penal, v. I, t.I, p. 86. Doutrina: HUMBERTO BARRIONUEVO FABRETTI e GIANPAOLO POGGIO SMANIO, Comentário ao Pacote Anticrime, Ed. Atlas, 2020; RENATO BRASILEIRO DE LIMA. Pacote Anticrime: Comentários à Lei 13.964/19, Ed. Jus Podium, 2020; PAULO QUEIROZ, A nova progressão de regime - Lei 13.964/2019, https://www.pauloqueiroz.net; ROGÉRIO SANCHES CUNHA, Pacote Anticrime: Lei n. 13.964/2019 - Comentários às alterações no CP, CPP e LEP. Salvador: Editora Jus Podvim, 2020; e PEDRO TENÓRIO SOARES VIEIRA TAVARES e ESTÁCIO LUIZ GAMA LIMA NETTO; NETTO LIMA, Pacote Anticrime: As modificações no sistema de justiça criminal brasileiro. e-book, 2020. Precedentes: HC n 581.315/PR, Rel. Min. SEBASTIÃO REIS JÚNIOR e HC n. 607.190/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, ambos julgados em 06/10/2020.
+7. Agravo regimental provido, concedendo habeas corpus de ofício para que se opere a transferência do paciente a regime menos rigoroso com a observância, quanto ao requisito objetivo, do cumprimento de 40% da pena privativa de liberdade a que condenado, salvo se cometida falta grave." (AgRg no HC 613.268/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 15/12/2020, grifei).
+Não se olvide que, mais recentemente, a Terceira Seção desta eg. Corte pacificou a matéria (Tema nº 1084), nos mesmos moldes do acima julgado.
+Veja-se: "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante" (REsp 1.910.240/MG, Terceira Seção, Rel. Min. Rogerio Schietti Cruz, DJe 31/5/2021).
+Este foi o tema do Informativo de Jurisprudência n. 699/STJ, de 7/6/2021.
+Diante disso, tenho que o v. acórdão a quo configura flagrante ilegalidade, passível de concessão da ordem nesta impetração, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para que o d. J uízo da Execução, em nova análise atualizada da situação do apenado, observe os termos desta decisão, de forma a aplicar o percentual de 40% na progressão de regime ao não reincidente específico em crimes hediondos SEM resultado morte.
+Tudo a ser confirmado pelo d. Juízo da Execução, em nova análise do caso concreto, tendo em vista a instrução restrita da presente impetração.
+Recomenda-se celeridade nesta apreciação.
+Intime-se, com urgência, o d. Juízo da Execução.
+P. I. C.
