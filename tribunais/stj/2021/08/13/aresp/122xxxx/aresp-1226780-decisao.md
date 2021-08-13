@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto pela VIACAO CIDADE DE IBIUNA LTDA EM RECUPERACAO JUDICIAL - EPP , fundado no art. 105, III, alíneas "a" e "c" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+Responsabilidade civil Atropelamento Criança que se encontrava na beira da pista Ausência de acostamento Culpa do motorista comprovada pelas provas dos autos Caso em que deveria ter mais cautela, pois se tratava de descida, cm pista sem acostamento, diante de escola Indenização por danos materiais, morais e estéticos Despesas médicas demonstradas Pensão mensal devida Recurso improvido. (fl. 612)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, a agravante alega, além de divergência jurisprudencial, violação aos artigos 535 do Código de Processo Civil de 1973; 186, 932, II e 945 do CC/02, sustentando, em síntese, além de negativa de prestação jurisdicional, a ausência de sua responsabilidade civil, visto a culpa exclusiva da vítima.
+Aduz, ainda, a necessidade de redução do montante indenizatório a título de danos materiais, morais, estéticos e da pensão mensal, a qual não pode ser vitalícia.
+Por fim, pugna pelo afastamento da sua condenação por lucros cessantes.
+Contrarrazões às fls. 738-745.
+É o relatório.
+Decido.
+A irresignação não procede.
+De início, cumpre salientar que o presente recurso será examinado à luz do Enunciado 2 do Plenário do STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Além disso, não prospera a alegada ofensa ao art. 535 do Código de Processo Civil de 1973 tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Quanto às teses de necessidade de redução do montante indenizatório a título de danos materiais, morais, estéticos e da pensão mensal, a qual não pode ser vitalícia, bem como do afastamento da condenação por lucros cessantes, observa-se que a recorrente não indica qual ou quais dispositivos entende violados, tornando patente a falta de fundamentação do apelo especial, circunstância que atrai a incidência do enunciado nº 284 da Súmula do Supremo Tribunal Federal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. QUEIMA DE CANA DE AÇÚCAR - REEXAME DE PROVA. SÚMULA 7 DO STJ. FUNDAMENTAÇÃO DEFICIENTE. SUMULA 284 DO STF. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A reforma do julgado quanto à ocorrência ou não do dano, que gerou a obrigação de indenizar, demanda inegável necessidade de incursão nas provas constantes dos autos, o que é vedado em sede de recurso especial. Incidência do óbice da Súmula 7 desta Corte.
+2. A alegação de ofensa genérica à lei, sem a particularização dos dispositivos eventualmente violados pelo aresto recorrido, implica deficiência de fundamentação, conforme pacífico entendimento desta Corte Superior, fazendo incidir o enunciado da Súmula 284/STF.
+3. A admissibilidade do recurso especial pressupõe-se uma argumentação lógica, demonstrando de plano a violação do dispositivo legal pela decisão recorrida, a fim de demonstrar a vulneração existente, o que não ocorreu na hipótese da alegada violação ao art.
+38, § 4º, da Lei 12.651/12.
+4. Agravo regimental não provido". (AgRg no AREsp 721.287/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 27/08/2015)
+Na hipótese, o Tribunal de origem, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise soberana do contexto fático-probatório dos autos, entendeu pela responsabilidade civil da agravante, rechaçando a tese de culpa exclusiva ou concorrente da vítima, conforme se insere do seguinte excerto do aresto estadual:
+Ao que tudo indica, o acidente não ocorreu por culpa da vítima, como afirmou a apelante. mas, sim, por culpa de seu preposto. que passou rente às crianças que estavam na beira da pista, assumindo o risco de provocar um acidente.
+Portanto, a criança não agiu de forma a colaborar para a ocorrência do acidente, pois estava fora da pista, na margem da mesma, que não possui acostamento, mais um motivo para que o motorista da apelante tomasse todas
+as cautelas, sabendo que se trata de local de travessia dc vários estudantes.
+A testemunha Benedita Antunes dos Reis, do réu, esclareceu que não enxerga bem e que, no dia dos autos, estava sem os óculos (fls. 303), não podendo, portanto, afirmar que jogaram um tênis no meio da pista e que o autor o foi buscar.
+Como bem observou o douto Promotor de Justiça, a fls. 387, o depoimento do motorista na polícia não merece credibilidade, pois, em juízo, esclareceu que a história do tênis na pista foi repassada a ele por uma testemunha, depois do acidente.
+A testemunha Roseneide de Carvalho (298) relatou que o motorista desceu rapidamente a via e acabou atingindo Rafael, que era o primeiro de uma fila de várias crianças e estava na beirada de uma valeta. Disse que não viu nenhuma criança atirar tênis no meio da rua e que o ônibus passou bem rápido.
+A testemunha Isaias Morais da Silva (fls. 299) também afirmou que o ônibus passou em velocidade excessiva no local e que não havia acostamento no local.
+Ambas as testemunhas prestaram testemunho semelhante também na Polícia (fls. 33 e 34).
+Nem se diga que a velocidade apresentada pelo tacógrafo, de 25 km/h (fls. 91), era a velocidade empreendida pelo motorista. Ele próprio afirmou que estava a 40 km/h. desmentindo a versão apresentada pela empresa apelante.
+Embora os testemunhos de Maria Rosa Antunes, Benedita Antunes dos Reis e Ednelson Godinho sejam em sentido diverso, analisando as declarações prestadas em juízo e na polícia, verifica-se que não se mostram convictos, seguros dos fatos, havendo algumas contradições em seus relatos.
+Como bem observou a sentença, o motorista do coletivo, em juízo, declarou que não viu ninguém arremessar tênis algum na via, diferentemente do que contaram as testemunhas da requerida, não se podendo compreender como o preposto da ré, que dirigia o veículo e deveria prestar atenção a tudo, deixou de ver o tal tênis sendo jogado na pista.
+Havendo contradições nos testemunhos produzidos pela recorrente, há de se acolher a versão apresentada pela parte contrária, que se mostra mais segura, clara, precisa, verossímel, afinado com as demais provas produzidas nos autos.
+Veio, portanto, comprovado nos autos, que o motorista da recorrente não agiu de forma cautelosa, pois passou "rente" às crianças que saíam da escola e que se encontravam à beira de pista, sem acostamento e em declive acentuado.
+Era de se esperar que andasse lentamente e que prestasse muita atenção ao movimento das crianças ao redor da via pública.
+Se assim não agiu e veio a causar a tragédia noticiada nos autos, não há como afastar sua responsabilidade pelos danos materiais, morais e estéticos causados, pois a culpa do acidente é sua e não da criança, que se encontrava na beira da pista. (fl. 614-615 - g.n.)
+Nesse contexto, a modificação de tais entendimentos lançados no v. acórdão recorrido, nos moldes em que ora postulado, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável na sede estreita do recurso especial, a teor do que dispõe a Súmula 7 do Superior Tribunal de Justiça.
+Por fim, o recurso não merece prosperar pela alínea "c" do permissivo constitucional em razão do descumprimento do disposto nos arts. 541, parágrafo único, do CPC/73 e 255, § 2º, do RISTJ. Com efeito, para a caracterização da sugerida divergência jurisprudencial, não basta a simples transcrição de ementas. Devem ser mencionadas e expostas as circunstâncias que identificam ou assemelham os casos confrontados, sob pena de não serem atendidos, como na hipótese, os requisitos previstos nos mencionados dispositivos.
+Confiram-se os seguintes julgados:
+"PROCESSUAL CIVIL E TRIBUTÁRIO. QUITAÇÃO DE OBRIGAÇÃO TRIBUTÁRIA. TÍTULOS DA DÍVIDA PÚBLICA. DAÇÃO EM PAGAMENTO. IMPOSSIBILIDADE. FALTA DE PREVISÃO LEGAL. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+(..)
+III - Já é firme o entendimento desta Corte, segundo o qual a simples transcrição de ementas não basta para que se configure a divergência jurisprudencial alegada. Impõe-se a demonstração do dissídio com a reprodução dos segmentos assemelhados ou divergentes entre os paradigmas colacionados e o aresto hostilizado, o que inocorreu no presente caso.
+IV - Agravo regimental improvido." (AgRg no REsp 738.797/RS, Relator o eminente Ministro FRANCISCO FALCÃO, DJ de 03.10.2005)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AFRONTA AO ART. 535 DO CPC. EMBARGOS DE DECLARAÇÃO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. EXAME DE MATÉRIA CONSTITUCIONAL E DE LEI LOCAL. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO CARACTERIZADO. ART. 255 DO RISTJ.
+(..)
+IV - Em casos nos quais só a comparação das situações fáticas evidencia o dissídio pretoriano, indispensável que se faça o cotejo analítico entre a decisão reprochada e os paradigmas invocados. A simples transcrição de ementas, sem que se evidencie a similitude das situações, não se presta como demonstração da divergência jurisprudencial.
+Agravo regimental desprovido." (AgRg no REsp 754.475/AL, Relator o eminente Ministro FELIX FISCHER, DJ de 26.09.2005)
+Ante o exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
