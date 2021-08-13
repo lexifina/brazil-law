@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fls. 56-57):
+APELAÇÃO CRIMINAL. CRIME DE TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI N. 11.343/2006). SENTENÇA CONDENATÓRIA. RECURSO DA DEFESA.
+PLEITO DE ABSOLVIÇÃO POR INSUFICIÊNCIA DE PROVAS. IMPOSSIBILIDADE. MATERIALIDADE E AUTORIA DELITIVAS DEVIDAMENTE DEMONSTRADAS. RELATOS FIRMES E COERENTES DOS AGENTES PÚBLICOS QUE NÃO PERMITEM DÚVIDAS QUANTO A PRÁTICA DELITIVA. CIRCUNSTÂNCIAS DO CASO CONCRETO QUE EVIDENCIAM O COMÉRCIO ESPÚRIO. CONJUNTO PROBATÓRIO ROBUSTO. VERSÃO DEFENSIVA NÃO COMPROVADA.
+DESCLASSIFICAÇÃO PARA A CONDUTA DESCRITA NO ART. 28 DA LEI N. 11.343/2006. INVIABILIDADE. CONDIÇÃO DE USUÁRIO QUE POR SI SÓ NÃO AFASTA A NARCOTRAFICÂNCIA. CONDENAÇÃO MANTIDA.
+DOSIMETRIA. TERCEIRA FASE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/06 FIXADA EM 1/2 (UM MEIO). PRETENSA ALTERAÇÃO PARA O PATAMAR MÁXIMO DE 2/3 (DOIS TERÇOS). NÃO CABIMENTO. QUANTIDADE E NATUREZA DO ENTORPECENTE APREENDIDO QUE RECOMENDAM A APLICAÇÃO DA FRAÇÃO DE 1/2 (UM MEIO). ADEMAIS, OBSERVÂNCIA À DISCRICIONARIEDADE DO SENTENCIANTE. PRECEDENTES DESTA CORTE. REPRIMENDA IRRETOCÁVEL.
+PLEITO DE SUBSTITUIÇÃO DA REPRIMENDA CORPORAL POR RESTRITIVAS DE DIREITOS. ACOLHIMENTO. ACUSADA QUE PREENCHE OS REQUISITOS LEGAIS PREVISTOS NO ART. 44, INC. I, DO CÓDIGO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR DUAS RESTRITIVAS DE DIREITOS.
+RECONHECIMENTO DA INCONSTITUCIONALIDADE DA PENA DEMULTA. NÃO OCORRÊNCIA. QUESTÃO DE POLÍTICA CRIMINAL. COMPATIBILIDADE COM O TEXTO CONSTITUCIONAL. PRECEDENTES.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+A paciente foi condenada às penas de 2 anos e 9 meses de reclusão, em regime aberto, e 275 dias-multa, por ofensa ao art. 33, caput, c/c o § 4º, da Lei 11.343/2006, substituída a pena privativa de liberdade por duas restritivas de direitos, conforme a ementa acima.
+Pugna a impetrante, liminarmente e no mérito, pelo afastamento do aumento da pena-base e aplicação da minorante prevista na Lei de Drogas no seu patamar máximo.
+A liminar foi indeferida.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Em 1º grau, assim foi arbitrada a pena da paciente (fls. 606-607):
+ .. Analisando as circunstâncias judiciais do art. 59 do CP verifico que a culpabilidade (grau de reprovabilidade da conduta) extrapola a normalidade, tendo em conta a quantidade de drogas apreendida. A ré não ostenta antecedentes. A conduta social é normal. Não existem elementos indicadores da personalidade da ré. A motivação é inerente ao tipo, ou seja, o lucro fácil às custas do vício alheio, deixando de ser considerada. As circunstâncias do crime foram normais. As conseqüências foram normais ao delito. Não há comportamento da vítima a ser sopesado.
+Havendo uma circunstancia judicial desfavorável, procedo o aumento de 1/10 (um décimo) da pena base, ficando em 05 (cinco) anos e 06 (seis) de reclusão, e pagamento de 550 (quinhentos e cinquenta) dias-multa.
+Sem agravantes. Reconheço a atenuante de confissão espontânea para restabelecer a pena no mínimo legal. A pena de multa não sofre alterações nesta etapa.
+Na última fase não existem causas de aumento. Aplico a redução de 1/2 (metade) pela causa de diminuição prevista no § 4º do art. 33, considerando a quantidade de entorpecentes encontrada, o tipo de droga (crack) e a venda realizada no meio da tarde, o que revela uma maior reprovabilidade da conduta do agente.
+Assim, torno definitiva a pena de 02 (dois) anos e 09 (nove) meses dereclusão e pagamento de 275 (duzentos e setenta e cinco) dias-multa, cada dia no valor mínimo de 1/30 (um trigésimo) do salário mínimo vigente à época do fato. ..
+Do aresto impugnado, extrai-se (fl. 52):
+ .. o magistrado singular aplicou na terceira fase da pena, a causa especial de diminuição prevista no § 4º do art. 33 da Lei n. 11.343/06 em 1/2 (um meio), em face da quantidade do entorpecente apreendido. Isso porque, no caso em análise, foram apreendidos em posse da acusada 24 (vinte e quatro) pedras de crack, totalizando 3,3g da substância entorpecente, conforme auto de exibição e apreensão (evento 1 - doc. 9) e, Laudo Pericial de evento 169, dos autos.
+E em situações como esta, leia-se em que a quantidade do entorpecente somada às circunstâncias da apreensão transparecem maior gravidade do crime, mostrando-se inviável a aplicação do benefício anotado no art. 33, § 4º, da Lei n. 11.343/06 em seu grau máximo.
+Nesse ponto, a contrario sensu do alegado pela defesa, o Pleno do Supremo Tribunal Federal, em sessão realizada no dia 19.12.2013, ao julgar os processos de Habeas Corpus de números 112.776 e 109.193, ambos de relatoria do Min. Teori Zavaski, assentou o entendimento de que na condenação por tráfico de entorpecentes a natureza e quantidade da droga apreendida somente poderá ser levada em consideração em uma das fases dosimétricas, inexistindo óbice, todavia, que estas circunstâncias sejam consideradas, alternativamente, na primeira (pena-base prevista nos art. 42 da Lei n. 11.343/06 combinado com o art. 59 do Código Penal) ou terceira fase da dosimetria (fixação de causa especial de redução de pena prevista no § 4º, do art. 33, da Lei n. 11.343/06).
+E como visto, no caso dos autos, o magistrado singular agiu com acerto, quando, na terceira fase dosimétrica, considerou a quantidade da droga apreendida, para então inviabilizar a fixação do quantum maior de diminuição. ..
+Como se vê das transcrições acima, a pena inicial foi majorada, tão somente, em razão da quantidade de droga apreendida, aplicando-se a minorante prevista na Lei de Drogasna fração de 1/2, "considerando a quantidade de entorpecentes encontrada, o tipo de droga (crack) e a venda realizada no meio da tarde".
+De acordo com o entendimento desta Corte, " e mbora a exasperação da pena-base possa ter como fundamento a nocividade da droga apreendida, se a quantidade não for considerada expressiva, é desproporcional sopesar negativamente tal circunstância" (AgRg no HC 647.938/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 20/04/2021, DJe 26/04/2021).
+No presente feito, como visto, foram apreendidos com apaciente 3,3gramas de crack,quantidade essa que não se mostra expressiva, mesmo diante da alta nocividade do entorpecente em questão.
+Sendo assim, passa-se à nova dosimetria.
+Fixa-se a pena inicial no seu mínimo legal, qual seja, 5 anos de reclusão e 500 dias-multa, a qual permanece inalterada, na segunda fase, em virtude do enunciado da Súmula 231/STJ: " a incidência da circunstância atenuante não pode conduzir à redução da pena abaixo do mínimo legal".
+Na terceira etapa, aplicado o redutor do art. 33, § 4º, da lei em apreçono seu grau máximo - 2/3 -, torna-se definitiva a reprimenda no total de 1 ano e 8 meses de reclusão, e 166 dias-multa.
+Ante o exposto, concedo o habeas corpus para reduzir a pena privativa de liberdade da paciente para 1 ano e 8 meses de reclusão, e 166 dias-multa, mantendo, no mais, o acórdão condenatório.
+Comunique-se.
+Publique-se.
+Intimem-se.
