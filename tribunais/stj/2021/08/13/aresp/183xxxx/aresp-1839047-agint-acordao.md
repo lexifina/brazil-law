@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E AÇÃO MONITÓRIA. JULGAMENTO CONJUNTO. 1. CERCEAMENTO DE DEFESA. MATÉRIA EMINENTEMENTE DE DIREITO. PRODUÇÃO DE PROVAS INÓCUA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA7/STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.3. AGRAVO IMPROVIDO.
+1. Rever a conclusão do Tribunal local, para acolher a pretensão recursal quanto à inexistência de cerceamento de defesa, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2.A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Comércio de Bebidas Vila Nova Ltda.contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 1626):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E AÇÃO MONITÓRIA. JULGAMENTO CONJUNTO. 1. CERCEAMENTO DE DEFESA. MATÉRIA EMINENTEMENTE DE DIREITO. PRODUÇÃO DE PROVAS INÓCUA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE.REEXAME DE PROVAS. SÚMULA 7/STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante pretende a reforma da decisão agravada.
+Para tanto, sustenta a inaplicabilidade daSúmula7/STJ, uma vez que não pretende a reanálise de provas, mas a aplicação correta do direito com o reconhecimento do cerceamento de defesa e a negativa de vigência aos arts. 369, 371, 375 e 464 do CPC/2015.
+Ao final, a insurgente pugna pelo provimento do agravo para conhecimento e provimento do recurso especial, a fim de ensejar-lhe oexercício do direito à ampla defesa e ao contraditório decorrente do julgamento antecipado da lide, sem que fosse oportunizada a realização de prova pericial contábil-financeira.
+Impugnação apresentada às fls. 1.650-1.670 (e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL E AÇÃO MONITÓRIA. JULGAMENTO CONJUNTO. 1. CERCEAMENTO DE DEFESA. MATÉRIA EMINENTEMENTE DE DIREITO. PRODUÇÃO DE PROVAS INÓCUA. INVERSÃO DO JULGADO. IMPOSSIBILIDADE. REEXAME DE PROVAS. SÚMULA7/STJ. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.3. AGRAVO IMPROVIDO.
+1. Rever a conclusão do Tribunal local, para acolher a pretensão recursal quanto à inexistência de cerceamento de defesa, demandaria o revolvimento do acervo fático-probatório dos autos, o que é vedado ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+2.A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+3. Agravo interno improvido.
+VOTO
+O recurso não comporta provimento.
+Com efeito, em que pese às alegações deduzidas pela agravante, conforme consignado na decisão agravada, no que diz respeito ao alegado cerceamento de defesa, o Tribunal de origem não reconheceu a sua ocorrência, por entender que, na hipótese, aprova pericial, englobava matériaeminentemente de direito, com base nos seguintes fundamentos (e-STJ, fl. 1.494 - sem grifo no original):
+Sustenta a apelante que o julgamento antecipado cerceou seu direito de defesa, pois não permitida a produção de prova pericial relevante para o deslinde do feito, devendo a sentença ser anulada.
+Sem razão.
+Observo que, na petição inicial da ação revisional e razões recursais, a apelante alegou a abusividade da utilização de CDI, a abusividade da cobrança de juros remuneratórios muito acima da média de mercado e ilegalidade da cobrança de capitalização de juros. Juntou parecer técnico recalculado os valores devidos, limitando os juros a média de mercado.
+Intimada a se manifestar sobre a produção de provas, a parte apelante pleiteou a produção de prova pericial, "com escopo de comprovar a veracidade das alegações trazidas com a exordial".
+Em embargos à monitória, da mesma forma, a parte apelante sustentou haver valor cobrado a maior, em decorrência da aplicação da CDI para indexar as operações e a abusividade de taxa de juros, aplicadas muito acima da média, o que é vedado pelo ordenamento jurídico.
+A tese da parte apelante - abusividade dos juros remuneratórios, ilegalidade da utilização da CDI e ilegalidade da capitalização de juros - é matéria de direito que não depende de prova pericial.
+Nestas circunstâncias, não houve cerceamento de defesa, pois seria inócua produção de prova pericial, no contexto processual em que os pedidos efetivos formulados dependem de análise eminentemente jurídica.
+Nesse contexto, é inafastável o óbice daSúmula7/STJ. Isso porque infirmar o entendimento alcançado pelo acórdão recorrido com base nos elementos de convicção juntados aos autos, a fim de se concluir pela imprescindibilidade de produção de outras provas, tal como busca a insurgente, demandaria o imprescindível reexame dos fatos e provas dos autos, providência vedada nesta esfera recursal, não sendo caso de revaloração de prova.
+No mesmo sentido, guardadas as peculiaridades do caso, confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APELAÇÃO CÍVEL.CONTRATO BANCÁRIO. AÇÃO REVISIONAL. ALEGADO CERCEAMENTO DE DEFESA.NÃO OCORRÊNCIA. REVISÃO. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. NÃO DEMONSTRAÇÃO DE SIMILITUDE ENTRE O JULGADO DE REPETITIVO E OS PRESENTES AUTOS. AGRAVO INTERNO NÃO PROVIDO.
+1. O cerceamento de defesa sustentado na ausência de realização de provas pericial requerida foi afastado pelo Tribunal local - destinatário da prova - com respaldo no acervo fático e probatório dos autos, de forma que a sua revisão, na via especial, é obstada pela Súmula n. 7 desta Corte.
+2. Não configura cerceamento de defesa o julgamento da causa, com o julgamento antecipado da lide, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente. Precedentes.
+3. O disposto no art. 7º do CPC de 2015, não foi objeto de análise pelo Tribunal de origem falecendo ao tema o necessário prequestionamento. Incidência da Sumula 282/STF.
+4. A tese repetitiva fixada no recurso especial repetitivo 1.124.552/RS, julgado pela Corte Especial, deve ser observado no âmbito dos julgamentos relativos ao Sistema Financeiro da Habitação.O recorrente não demonstra a similitude fática e jurídica entre os casos tratados no julgamento do repetitivo e nesses autos, o que revela deficiência de fundamentação a atrair a súmula 284/STF.
+5. Agravo interno não provido.(AgInt no AgInt no AREsp 1.595.938/RS, Rel. MinistroLUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/9/2020, DJe 29/9/2020 - sem grifo no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. DEFERIMENTO DE PRODUÇÃO DE PROVA PERICIAL PELO JUÍZO DE PRIMEIRA INSTÂNCIA. DECISÃO INTERLOCUTÓRIA. AGRAVO DE INSTRUMENTO PROVIDO PELO TRIBUNAL A QUO PARA RECONHECER A DESNECESSIDADE DE PRODUÇÃO DE PROVAS. PROLAÇÃO DE SENTENÇA NO PROCESSO PRINCIPAL. PERDA DE OBJETO. RECURSO ESPECIAL PREJUDICADO.
+1. Conforme entendimento do Superior Tribunal de Justiça, fica prejudicado o Recurso Especial interposto contra acórdão que deu provimento a Agravo de Instrumento, haja vista a superveniência de decisão de mérito na origem.
+2. E ainda que assim não fosse, acresça-se, a título de obiter dictum, que os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstrada a instrução do feito e a presença de dados suficientes à formação do convencimento.
+3. Agravo Interno não provido. (AgInt no REsp 1.821.037/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/4/2020, DJe 30/4/2020 - sem grifo no original)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS E DE HONORÁRIOS ADVOCATÍCIOS. PROVA PERICIAL.INDEFERIMENTO. CERCEAMENTO DE DEFESA. OCORRÊNCIA. MATÉRIA DE NATUREZA FÁTICA, E NÃO APENAS DE DIREITO. NECESSIDADE DE PRODUÇÃO DE PROVA PERICIAL. RETORNO DOS AUTOS À ORIGEM. PROVIMENTO DO RECURSO ESPECIAL. AGRAVO INTERNO NÃO PROVIDO.
+1. O Superior Tribunal de Justiça entende que não configura cerceamento de defesa o julgamento antecipado da lide quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção de prova pericial, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente; todavia, essa situação não se evidencia nos presentes autos.
+2. A matéria posta em exame possui natureza fática, e não meramente de direito, sendo o seu desate exigente de produção de provas, em especial a prova pericial, requerida desde a inicial, sob pena de caracterização de cerceamento de defesa. Precedentes.
+3. Agravo interno a que se nega provimento.(AgInt nos EDcl no REsp 1.803.933/SP, Rel. MinistroRAUL ARAÚJO, QUARTA TURMA, julgado em 6/2/2020, DJe 17/02/2020)
+Outrossim, impende registrar que, consoante iterativa jurisprudência desta Corte,aincidência da Súmula n. 7/STJ impede o conhecimento dorecursolastreado, também, pela alíneacdo permissivo constitucional, umavez quefalta identidade entre os paradigmas apresentados e os fundamentosdoacórdão, tendo em vista a situação fática de cada caso.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS. INCONFORMISMO QUANTO A INCIDÊNCIA DA SÚMULA 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA.SÚMULA 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. TEMA 677.NÃO INCIDÊNCIA. DEPÓSITO ANTERIOR A FASE EXECUTÓRIA.
+1. Ação de obrigação de fazer cumulada com indenização por danos materiais e compensação por danos morais.
+2. A insurgência do agravante quanto à incidência da Súmula 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ele manejado.
+3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. A questão posta em debate não se subsume ao Tema 677 desta Corte, pois está caracterizado no acórdão recorrido que o depósito foi realizado pelo agravado antes da fase executória, configurando-se em situação fática distinta.
+5. Agravo interno não provido.(AgInt no AREsp 1.803.725/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 8/6/2021, DJe 11/6/2021 - sem grifo no original)
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
