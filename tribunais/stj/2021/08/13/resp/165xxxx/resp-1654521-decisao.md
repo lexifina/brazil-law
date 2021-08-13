@@ -1,0 +1,93 @@
+DECISÃO
+Trata-se de recurso especial interposto pela FAZENDA NACIONAL, com fundamento na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região assim ementado (e-STJ fl. 1.356):
+AGRAVO LEGAL. MANDADO DE SEGURANÇA.EXPEDIÇÃO DE CERTIDÃO DE REGULARIDADE FISCAL.DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA. POSSIBILIDADE.
+1. Presentes os requisitos estabelecidos no caput do art. 557 do CPC, ante a jurisprudência consolidada no âmbito do E. Superior Tribunal de Justiça e deste E. Tribunal Regional Federal, cumpre ao Relator desde logo julgar o feito com arrimo no aludido dispositivo processual.
+2. Agravo improvido.
+Nas razões de recurso (e-STJ fls. 169/175), a FAZENDA aponta violação dos arts. "96, 100 e 113, §§ 2º e 3º, do CTN, dos arts. 168, inciso I; art. 150, §§ 1º e 4 e art. 156, incisos I e VII,do Código Tributário Nacional e do art. 3º da Lei Complementar n.118, de 9 de fevereiro de 2005" (e-STJ fl. 171).
+Em síntese, defende que a omissão de entrega de Declaração de Imposto de Renda Retido na Fonte (DIRF)impediria a emissão de Certidão Negativa de Débito (CND).No ponto, argumenta que (e-STJ fl. 171):
+de fato, nos termos do inciso II do parágrafo único do artigo 2º, combinado com o caput do artigo 3º da IN SRF nº 734/2007, a regularidade fiscal, no âmbito da Receita Federal caracteriza-se pela inexistência de pendências cadastrais. Considera-se pendência, nos termos expressamente previstos na referida Instrução Normativa, a omissão da entrega de DIRF.
+ ..
+Ressalta-se que as obrigações instrumentais previstas na IN nº 734/07 encontram fundamento nos artigos 96, 100 e 113 do Código Tributário Nacional
+As contrarrazões encontram-se às e-STJ fls. 180/186.
+Às e-STJ fls. 213/214, em função do decidido pelo STJnos autos do REsp 1.042.585/RJ,a eminenteVice-Presidente do Tribunala quodeterminou o retorno dos autos à Turma julgadora para fins do previsto no art. 543-C,§ 7º, II, do CPC/1973.
+Diante da falta de identidade entre as questões tratadas nos julgados do TRF e do STJ,o eminente Relator entendeu não ser o caso de retratação (e-STJ fls. 216/221).
+Juízo positivo de admissibilidade do recurso especial pelo Tribunal de origem às e-STJ fls. 235/236.
+O Ministério Público Federal opinou pelo não provimento do recurso, em manifestação que possui a seguinte ementa (e-STJ fl. 251):
+TRIBUTÁRIO E PROCESSUAL CIVIL. IRPJ.
+Segurança concedida, "determinando a expedição de certidão negativa de débitos, nos termos do artigo 205 do CTN, em nome da impetrante Bowring Marsh Corretora de Resseguros Ltda., desde que o único óbice à sua expedição seja a ausência de entrega de DIRF no ano de 2007". Decisão que negou seguimento à Apelação, à remessa oficial e ao agravo retido. Recurso especial interposto contra Acórdão que negou provimento ao Agravo Interno. Alegada violação aos artigos 96, 100, I, e 113, §§2º e 3º, do CTN. Prequestionamento verificado. O mero descumprimento de obrigação acessória, como no caso dos autos - ausência de entrega da DIRF, não caracteriza impedimento legal para a expedição da certidão negativa de débito, porque não demonstrada, no caso concreto, a existência de crédito tributário definitivamente constituído. Inteligência do art. 205 do CTN.
+Decisões do STJ no mesmo sentido. Recurso especial que deve ser conhecido e, no mérito, não deve ser provido.
+Passo a decidir.
+Inicialmente, cumpre registrar que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2 do STJ).
+Considerado isso, importa mencionar que o recurso especial teve origem em mandado de segurança (e-STJ fls. 5/15), cuja ordem foi concedida nos seguintes termos (e-STJ fls. 87/92 e 107/108)
+ ..  CONCEDO a segurança determinando a expedição de certidão negativa de débitos, nos termos do artigo 205 do CTN, em nome da impetrante BOWRING MARSH e CORRETORA DE RESSEGUROS LTDA., desde que o único óbice à sua expedição seja a ausência de entrega da DIRF no ano de 2007.
+O Tribunal de origem negou provimento ao agravo legal e manteve a decisão que havia negado seguimento à apelação. Na parte que interessa ao presente recurso, o acórdão teve a seguinte fundamentação (e-STJ fls. 160/164):
+Trata-se de agravo legal interposto em face de decisão que, nos termos do caput do art. 557 do CPC, negou seguimento à apelação da União e à remessa oficial, mantendo a sentença recorrida, que concedeu a segurança para determinar a expedição de CND em favor da impetrante, desde que o único óbice para tanto fosse a ausência da entrega da GFIP/2007.
+Não vejo razões, em sede de revisão do decisum, para modificar o entendimento inicialmente por mim manifestado.
+Apreciando monocraticamente a controvérsia, assim decidi:
+"Trata-se de apelação e remessa oficial em mandado de segurança com pedido de liminar, no qual pretende a impetrante obter provimento que lhe garanta a obtenção de certidão de regularidade fiscal.
+O mandado de segurança foi impetrado em 18/12/09, tendo sido atribuído à causa o valor de R$ 20,000,00.
+A liminar foi deferida para determinar às autoridades coatoras que expeçam, em 48 horas, certidão positiva de débitos com efeitos de negativa (CPD-E1V) em nome da impetrante, desde que o único óbice seja a ausência da entrega da DIRF/2007.
+Em face de tal decisão, interpôsa União agravo de instrumento, o qual foi convertido em retido.
+As autoridades impetradas prestaram informações às fls. 43/48 e 55/60.
+A sentença concedeu a segurança, determinando a expedição de certidão negativa de débitos (CND) em nome da impetrante, desde que o únicoóbice à sua emissão seja a ausência da entrega da GFIP/2007 Deixou de fixar honorários, por incabíveis.
+A impetrante opôs embargos de declaração para, sanando o vício apontado, determinar a expedição de CND em seu nome, desde que o único óbice seja a ausência de entrega da DIRF/2007, os quais foram acolhidos.
+Apelou a União requerendo a reforma da sentença.
+Parecer do Ministério Público Federal pelo prosseguimento do feito, ante a ausência de interesse público primário.
+Com contrarrazões, vieram os autos a esta Corte.
+Decido.
+A hipótese comporta julgamento nos termos do caput do art. 557 do CPC.
+Ressalte-se, inicialmente, ter a União cumprido o disposto no caput do art. 523 do CPC, requerendo o conhecimento do agravo retido por ocasião do julgamento da apelação.
+A matéria nele ventilada confunde-se com o mérito, razão pela qual será com ele analisada.
+Alega a impetrante, em síntese, estar impedida de participar de licitações e de firmar contratos que exigem a apresentação de certidão de regularidade fiscal uma vez que, apesar de sua situação regular, a Secretaria da Receita Federal do Brasil está condicionando a expedição de tal documento ao cumprimento de obrigação acessória, qual seja, a apresentação da DIRF/2007.
+A sentença não merece reforma.
+O não cumprimento de obrigação acessória, qual seja, a entrega de declaração (DIRF), referente ao ano de 2007, não constitui fator impeditivo à liberação da certidão de regularidade fiscal, já que não evidencia a falta de recolhimento de tributo.
+Nos termos do art. 113 do CTN, o inadimplemento de obrigação acessória faz surgir para o fisco tão-somente o direito de constituir o crédito tributário, sendo ilegítimo o impedimento de expedição de CND ou CPD-EN por esta razão.
+Veja-se:
+Art. 113. A obrigação tributária é principal ou acessória.
+..
+§2º. A obrigação acessória decorre da legislação tributária e tem por objeto as prestações, positivas ou negativas, nela previstas no interesse da arrecadação ou da fiscalização dos tributos.
+§3º. A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente à penalidade pecuniária.
+Consequentemente, para que uma obrigação acessória se torne obrigação principal, é necessário que seja feita a sua conversão mediante constituição do crédito tributário, através de lançamento administrativo, nos termos do artigo 142 do CTN: "compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento, assim entendido o procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente, determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo e, sendo caso, propor a aplicação da penalidade cabível".
+Como visto, a constituição do crédito tributário, que ocorre pela atividade do lançamento, é pressuposto essencial a ensejar a certeza e liquidez do crédito. Não tendo havido lançamento, não há débito do contribuinte que impeça a expedição da certidão requerida.
+Confira-se o entendimento da jurisprudência pátria a esse respeito:
+"TRIBUTÁRIO - CND - ESPÓLIO - DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA - POSSIBILIDADE 1. A certidão, como documento público, deve retratar fielmente determinada situação jurídica 2. A entrega da declaração de renda se constitui em obrigação acessória, decorrente da legislação tributária, e voltada ao interesse da arrecadação ou da fiscalização. 3. O inadimplemento da obrigação acessória não a converte em obrigação principal. Ele faz nascer para o fisco o direito de constituir um crédito tributário contra o inadimplente, cujo conteúdo é precisamente a penalidade pecuniária, vale dizer, a multa correspondente. 4. O mero descumprimento de obrigação acessória não impede por si só, a expedição de certidão negativa ou positiva com efeitos de negativa se não foi apurada a existência de qualquer débito fiscal" (AMS 195739, TRF 3, 6ºTurma, relator Juiz Federal Miguel Di Pierro, j. 01/02/06).
+"PROCESSUAL CIVIL E TRIBUTÁRIO - CONTRIBUIÇÃO PREVIDENCIÁRIA - EXECUÇÃO FISCAL CONTRA PESSOA JURÍDICA DE DIREITO PÚBLICO - INEXISTÊNCIA DE PENHORA - GFIP - INCORREÇÃO NOS DADOS FORNECIDOS - OBRIGAÇÃO TRIBUTÁRIA ACESSÓRIA - CRÉDITO TRIBUTÁRIO NÃO CONSTITUÍDO - CERTIDÃO POSITIVA COM EFEITO DE NEGATIVA - POSSIBILIDADE DE EXPEDIÇÃO - PRECEDENTES - ACÓRDÃO EM SINTONIA COMA JURISPRUDÊNCIA DO STJ.
+I. Confirmação da decisão que negou seguimento ao recurso especial, nos termos do art. 557 do CPC, ao concluir que o acórdão recorrido orientou-se conforme a jurisprudência dominante desta Corte, ao reconhecer que, não havendo crédito tributário constituído, não se justifica a recusa no fornecimento da certidão negativa de débito (CND),
+2. Agravo regimental improvido" (AgRg no Resp 497146/SC, STI, 2ºTurma, relator Ministra Eliana Calmon, j. 25/10/05).
+PROCESSUAL CIVIL TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ERRO DE FATO. OCORRÊNCIA. ACOLHIMENTO DOS ACLARATÓRIOS.DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA. AUSÊNCIA DE LANÇAMENTO. DIREITO À CND. PRECEDENTES DE AMBAS AS TURMAS QUE COMPÕEM A PRIMEIRA SEÇÃO.
+1. Cuida-se de embargos de declaração opostos pela Fazenda Nacional contra acórdão que negou provimento agravo regimental para manter decisão monocrática que aplicou a Súmula 284 do STF, ao entendimento de que o apelo especial é deficiente por não terem sido indicados os dispositivos de lei federal que foram violados pelo julgado regional.
+2. É possível, em sede de embargos de declaração, a correção de erro de fato, especialmente, se o provimento embargado partir de premissas distantes da realidade delineada no processado. Na espécie, a decisão singular, confirmada pelo Colegiado da Primeira Turma, fundamentou- se em premissa fática equivocada, pois, efetivamente, nas razões do recurso especial de fls. 179/184, a recorrente apresentou de forma específica os dispositivos de lei federal que afirma violados pelo acórdão do TRF da 4" Região. Ante tal constatação, deve-se afastar o óbice da Súmula 284 do Supremo Tribunal Federal.
+3. O acórdão regional apresentou os seguintes fundamentos: a) de acordo com a inteligência do art. 205 do CTN, somente a partir da formalização do crédito tributário é que a autoridade .fiscal poderá recusar-se ao fornecimento de certidão negativa de débitos; e b) na espécie, o simples descumprimento de obrigação acessória (entrega de DCTF e DIPJ) não caracteriza óbice à expedição da CND vindicada.
+4. É entendimento deste Tribunal de a mera alegação de descumprimento de obrigação acessória, no caso, entrega de DCTF e DIP.I, não legitima a recusa ao fornecimento de certidão de regularidade fiscal (CND), mormente se não constatada a existência de débito vencido em favor da Fazenda, devidamente constituído. Precedentes: (REsp 831.975/SP, Rel.Min. Castro Meira, DJ de 5/11/2008, REsp 944.744/SC, Re1 Min. Luiz Fux, DJ de 7/8/2008, Edcl No AgRg no Ag 449.559/SC, Rel. Min.Humberto Martins, DJ de 24/06/2008, REsp 1.074.307/RS, Desta Relatoria, DJ de 5/3/2009).
+5. Embargos de declaração opostos pela Fazenda Nacional acolhidos para afastar a aplicação da Súmula 284 do STF e, na sequência, negar provimento ao recurso especial" (STJ, 1ºTurma, Edcl no AgRg no Resp nº 1037444/RS, relator Ministro Benedito Gonçalves, Die 03/12/09).
+Ante o exposto, com fundamento caput do art. 557 do CPC, nego seguimento à apelação, à remessa oficial e ao agravo retido.
+Transitada em julgado a decisão, baixem os autos à E. Vara de origem.
+Intimem-se".
+A despeito do inconformismo da agravante, a decisão agravada está calcada em precedentes do E. Superior Tribunal de Justiça e deste E. Tribunal Regional Federal, valendo ainda consignar que os argumentos suscitados nos autos e necessários ao enfrentamento da controvérsia já foram suficientemente analisados pelos referidos órgãos julgadores.
+Diga-se, por fim, que, para que seja cabível a decisão monocrática nos termos do caput do art. 557 do CPC, não há necessidade de a jurisprudência dos Tribunais ser unânime ou de existir súmula dos Tribunais Superiores a respeito. A existência de jurisprudência dominante nos Tribunais, ou nos Tribunais Superiores, já se afigura suficiente.
+Ante o exposto, nego provimento ao agravo.
+É como voto.
+Pois bem.
+A pretensão recursal não merece acolhimento, pois o entendimento do Tribunal de origem não diverge de julgados deste Tribunal Superior. Ilustrativamente:
+PROCESSUAL CIVIL TRIBUTÁRIO. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ERRO DE FATO. OCORRÊNCIA.ACOLHIMENTO DOS ACLARATÓRIOS. DESCUMPRIMENTO DE OBRIGAÇÃO ACESSÓRIA. AUSÊNCIA DE LANÇAMENTO. DIREITO À CND. PRECEDENTES DE AMBAS AS TURMAS QUE COMPÕEM A PRIMEIRA SEÇÃO.
+ ..
+3. O acórdão regional apresentou os seguintes fundamentos: a) de acordo com a inteligência do art. 205 do CTN, somente a partir da formalização do crédito tributário é que a autoridade fiscal poderá recusar-se ao fornecimento de certidão negativa de débitos; e b) na espécie, o simples descumprimento de obrigação acessória (entrega de DCTF e DIPJ) não caracteriza óbice à expedição da CND vindicada.
+4. É entendimento deste Tribunal que a mera alegação de descumprimento de obrigação acessória, no caso, entrega de DCTF e DIPJ, não legitima a recusa ao fornecimento de certidão de regularidade fiscal (CND), mormente se não constatada a existência de débito vencido em favor da Fazenda, devidamente constituído.Precedentes: (REsp 831.975/SP, Rel. Min. Castro Meira, DJ de 5/11/2008, REsp 944.744/SC, Rel. Min. Luiz Fux, DJ de 7/8/2008, Edcl No AgRg no Ag 449.559/SC, Rel. Min. Humberto Martins, DJ de 24/06/2008, REsp 1.074.307/RS, Desta Relatoria, DJ de 5/3/2009).
+5. Embargos de declaração opostos pela Fazenda Nacional acolhidos para afastar a aplicação da Súmula 284 do STF e, na sequência, negar provimento ao recurso especial.
+(EDcl no AgRg no REsp 1.037.444/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 19/11/2009, DJe 03/12/2009).
+PROCESSUAL CIVIL. TRIBUTÁRIO. INEXISTÊNCIA DE LANÇAMENTO. DIREITO A CND.1. O STJ firmou a orientação no sentido de que se o lançamento se efetivar pela DCTF, GIA ou documento equivalente constituirá diretamente o crédito tributário. Precedentes.
+2. "A mera alegação de descumprimento de obrigação acessória, consistente na entrega de Guia de Recolhimento do FGTS e Informações à Previdência Social (GFIP), não legitima, por si só, a recusa do fornecimento de certidão de regularidade fiscal (Certidão Negativa de Débitos - CND), uma vez necessário que o fato jurídico tributário seja vertido em linguagem jurídica competente (vale dizer, auto de infração jurisdicizando o inadimplemento do dever instrumental, constituindo o contribuinte em mora com o Fisco), apta a produzir efeitos obstativos do deferimento de prova de inexistência de débito tributário"(REsp 671.219/RS, Rel. Min. Teori Albino Zavascki, DJU de 30.06.08).
+3. No caso dos autos, no entanto, não houve apresentação da DCTF e constituição do crédito tributário. Caberia ao Fisco, nesse caso, promover o lançamento de ofício, ante a omissão do contribuinte, nos termos do art. 149, II, do CTN. Assim, se não constituído devidamente o crédito, legítimo o direito à certidão negativa de débito.
+4. Recurso especial provido.
+(REsp 831.975/SP, Rel. Ministro CASTRO MEIRA, SEGUNDA TURMA, julgado em 07/10/2008, DJe 05/11/2008).
+TRIBUTÁRIO. CERTIDÃO NEGATIVA DE DÉBITOS. FGTS. AUSÊNCIA DE LANÇAMENTO. IRREGULARIDADE NA GFIP. POSSIBILIDADE DE EMISSÃO DA CERTIDÃO.
+1. Descumprimento na entrega do GFIP ou documento equivalente, por si só, não pode obstar a emissão de certidão de regularidade fiscal.
+2. Cabe ao Superior Tribunal de Justiça dar interpretação a dispositivo de lei federal.
+3. Para fins de interposição de recurso especial, o conceito de "lei federal" não abrange as súmulas, sejam vinculantes ou não, especialmente quando a decisão do Tribunal de origem é anterior à edição do verbete considerado violado.
+4. A suposta malversação do art. 97 da Constituição Federal de 1988 deve ser apreciada pelo Supremo Tribunal Federal, sendo o recurso especial via inadequada para suscitá-la. Precedentes.
+5. Agravo regimental não provido.
+(AgRg no REsp 720.472/PE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 23/06/2009, DJe 06/08/2009).
+Assim, o acórdão não merece reforma.
+Incide, portanto, a Súmula 83 do STJ (não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida), que "não se aplica apenas aos recursos especiais interpostos com fundamento na alínea "c" do art. 105, III, da CF, sendo aplicável também aos recursos fundados na alínea "a"" (AgInt no AREsp 895.402/SP, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 23/8/2016, DJe 30/8/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
