@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor deHUGO MIGUEL NUNEScontra decisão indeferitória de provimento urgente do Desembargador Relator doHC n.1.0000.21.144157-1/000, que tramita no Tribunal de Justiça do Estado de Minas Gerais.
+Extrai-se dos autos que, em 19/10/2020, oMagistrado singulardecretou a prisão preventiva do Paciente (preso em 19/11/2021,fl. 21) e de outros Investigados,supostamente integrantes de organização criminosa dedicada ao tráfico interestadual de drogas. Em 19/11/2020, o Recorrente foi denunciado, juntamente com outros 17 (dezessete) Acusados.
+Foi indeferido o pedido de revogação da custódia, em 06/08/2021 (fls. 28-32).
+Impetrado prévio writperante a Corte local, o Relator do feito indeferiu o pedido liminar (fls. 26-27).
+Nesta insurgência, a Parte Impetrante alegaa necessidade de observância ao disposto no art. 580 do Código de Processo Penal, afirmandoque o Pacienteestaria em situação fático-processual ainda melhor que outra advogada, também investigada, que já obteveliberdade.
+Sustenta, ainda,constrangimento ilegal por excesso de prazo na formação da culpa, não atribuível à Defesa do Paciente.
+Requer, em liminar e no mérito, o relaxamento da prisão preventiva, ainda que mediante imposição de medida cautelar alternativa.
+É o relatório.
+Decido.
+Consoante o posicionamento firmado pela Suprema Corte e por este Tribunal Superior, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o que está sedimentado na Súmula n. 691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, ao Superior Tribunal de Justiça (AgRg no HC 558.161/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/03/2020, DJe 10/03/2020; HC 543.255/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/03/2020, DJe 12/03/2020).
+Assim, em regra, não pode ocorrer a superação de tal óbice processual, salvo nas hipóteses em que se evidenciar situação absolutamente teratológica e desprovida de qualquer razoabilidade, por forçar o pronunciamento adiantado da Instância Superior, suprimir a competência da Inferior e subverter a regular ordem do processo.
+Na espécie, todavia, não é possível ultrapassar tal vedação, pois não se constata ilegalidade flagrante ou teratologia capaz de justificar a supressão de instância.
+Consoante assinalouo Relator do feito na origem, "por se tratar de relaxamento da prisão por excesso de prazo, faz-se necessário o prévio pronunciamento da douta autoridade apontada como coatora, para que esclareça as peculiaridades que envolvem o caso" (fl. 26).
+Anote-se que,conforme a jurisprudência pacífica desta Corte Superior, " e ventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional" (RHC 124.116/GO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 09/03/2020; sem grifos no original).
+Portanto, o simples transcurso do tempo não é argumento suficiente para afirmar a ocorrência do excesso de prazo, sendo imprescindível examinar detidamente todas as circunstâncias da tramitação processual, o que certamente será realizado pelo Tribunal de origem após a apresentação das informações requisitadas ao Juízo de primeira instância.
+O mesmo se diga quanto ao pleito de aplicação do art. 580 do CPP ao Paciente, pois se mostra inviável, neste momento, a extensão de eventual benefício concedido a Corréu sem queo Tribunal de origem se manifeste, previamente, sobre a alegada similitude fático-processual entre ambos.
+Considerada toda essa conjuntura, não havendo notícia de que o Tribunal de Justiça do Estado de Minas Geraistenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada nohabeas corpusoriginário, sendo defeso ao Superior Tribunal de Justiça adiantar-se nesse exame, sobrepujando a competência da Cortea quo, mormente se owritestá sendo regularmente processado.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSOPENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
