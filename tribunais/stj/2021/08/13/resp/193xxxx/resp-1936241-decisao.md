@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por PAULO ROBERTO FARIAS DOS SANTOS, contra acórdão assim ementado (fl. 410):
+AGRAVO DE INSTRUMENTO - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - DECISÃO QUE RECONHECEU ILEGITIMIDADE PASSIVA DO AGRAVADO - PREVISÃO DO ART. 37 DA LEI nº 8.245/91, DE QUE NOS CONTRATOS DE ALUGUÉIS O LOCADOR PODE EXIGIR VÁRIAS MODALIDADES DE GARANTIA, DENTRE ELAS A FIANÇA, QUE DEVE SER ESCRITA E NÃO SE ADMITE INTERPRETAÇÃO EXTENSIVA, CONSOANTE ART. 819 DO CÓDIGO CIVIL - AUSÊNCIA DE ASSINATURA DO AGRAVADO COMO FIADOR - MANUTENÇÃO DO DECISUM QUE EXTINGUIU O FEITO SEM RESOLUÇÃO DE MÉRITO EM RELAÇÃO A ESTE EXECUTADO - RECURSO CONHECIDO E DESPROVIDO- DECISÃO UNÂNIME.
+Em suas razões, a parte recorrente alega afronta ao art. 819 do Código Civil, bem como dissídio jurisprudencial, aduzindo que no "contrato vigente, fls. 09/11, há EXPRESSA nomeação do Sr. Adierson Carneiro Monteiro como representante da Locatária e, cumulativamente, como FIADOR" (fl. 434) e que a jurisprudência firmada nos Tribunais vem entendendo "e pela desnecessidade de assinatura duplicada no mesmo contrato nestes casos, vez que o TJ/PE, decidiu que quando o representante legal da empresa figura também como fiador, a mera ausência de assinatura no campo garantidor não é capaz de afastar a sua responsabilidade" (fl. 435).
+Passo a decidir.
+O Tribunal de origem, ao julgar o agravo de instrumento, considerou a parte ora recorrida ilegitimada passiva, assim se pronunciando (fl. 411):
+Em exceção de pré-executividade, o Agravado alegou que jamais poderia ter figurado no cumprimento de sentença, por simples motivo de jamais ter subscrito o contrato locatício na condição de fiador e sim apenas na de representante legal da empresa Locatária.
+O Juízo a quo acolheu a exceção e reconheceu sua ilegitimidade passiva, extinguido o cumprimento de sentença em relação ao mesmo.
+Alega o agravante, todavia, que o representante do locatário anuiu a todos os termos do contrato, ou seja, se obrigou no contrato, tanto na qualidade de representante legal da empresa locatária, como na qualidade de fiador.
+Pois bem.
+A garantia fidejussória é pessoal e deve ser subscrita de maneira expressa pelo garantidor, nos termos do art.819 do CC, vejamos:
+(..)
+Infere-se, portanto, que a obrigação do fiador deve ser expressa, por escrito e de forma clara, para ter validade, não sendo admissível a interpretação extensiva.
+No caso em tela, o Agravado não assinou o contrato pessoalmente, mas sim apenas representando a empresa Locatária.
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que "O fiador que subscreveu o acordo moratório, ainda que na condição de representante legal da pessoa jurídica locatária, tem ciência inequívoca do ato, o que afasta a pretensão de ser exonerado da garantia com base no art. 1.503, inciso I, do Código Civil de 1916" (REsp 865.743/RS, Rel. MinistraLAURITA VAZ, DJe 31.5.2010). Na mesma direção:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA. FIANÇA. LEGITIMIDADE. OFENSA AO ART. 535 DO CPC. INOCORRÊNCIA. TERMO ADITIVO. ASSINATURA DO FIADOR COMO SÓCIO DA EMPRESA AFIANÇADA. CIÊNCIA DO ATO.
+1.- Não há falar em omissão, contradição ou obscuridade no acórdão recorrido, que apreciou todas as questões que lhe foram submetidas de forma fundamentada, ainda que de modo contrário aos interesses dos Recorrentes.
+2.- "O fiador que subscreveu o acordo moratório, ainda que na condição de representante legal da pessoa jurídica locatária, tem ciência inequívoca do ato, o que afasta a pretensão de ser exonerado da garantia com base no art. 1.503, inciso I, do Código Civil de 1916" (REsp 865.743/RS, Rel. Min. LAURITA VAZ, DJe 31.5.2010).
+3.- Agravo Regimental improvido. (AgRg no AREsp 114.965/PR, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, DJe 4.2.2013)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial para reconhecer a legitimidade passiva da parte ora recorrida e determinar o retorno dos autos ao Tribunal de origem, a fim de que examine o agravo de instrumento como entender de direito.
+Intimem-se.
