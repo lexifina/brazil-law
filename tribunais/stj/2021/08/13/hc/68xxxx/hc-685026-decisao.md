@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 147):
+HABEAS CORPUS. PRISÃO PREVENTIVA. 1. GARANTIA DA ORDEM PÚBLICA. 1.1. PERICULOSIDADE DO AGENTE. QUANTIDADE E VARIEDADE DE DROGA. 1.2. POSSIBILIDADE DE REITERAÇÃO CRIMINOSA. AÇÃO PENAL EM CURSO. 2. PRISÃO DOMICILIAR.MULHER COM FILHO MENOR DE DOZE ANOS (CPP, ART. 318, V). TRÁFICO DE DROGAS. ARMAZENAMENTO DE DROGAS EM CASA.
+1.1. O fato de o agente, em tese, possuir considerável quantidade de distintas espécies de entorpecentes (2,2kg de maconha e 144g de cocaína) é elemento revelador de sua periculosidade social, a impor sua segregação preventiva como modo de acautelar a ordem pública.
+1.2. É cabível a prisão preventiva, fundada na garantia da ordem pública, se evidenciado que o paciente, caso posto em liberdade, voltará a delinquir. E a existência de ação penal em curso referente à prática de delito da mesma espécie que aquele ora apurado é indicativo nesse sentido.
+2. Não é devida a substituição da prisão preventiva por prisão domiciliar, na hipótese de mulher com filho menor de 12 anos de idade, se a agente foi presa em razão da prática de tráfico de drogas e se ela foi acusada e condenada, em duas ocasiões distintas, por armazenar narcóticos na residência em que morava com sua prole.
+ORDEM DENEGADA.
+Consta dos autos que a paciente foi condenada em primeiro graucomo incursa no art. 33,caput, da Lei 11.343/2006,à pena de 6 anos e 8 meses de reclusão, em regime inicial fechado, além de 666 dias-multa, sendo mantida pela sentença a prisão cautelar, estandopendente de julgamento recurso de apelação.
+Sustentam os impetrantes que a paciente faz jus à prisão domiciliar, por possuir filho menor de 12 anos de idade.Argumenta que o infante encontra-se aos cuidados da avó paterna, que "não goza das condições necessárias para garantir o interesse da criança" (fl. 15).
+Requer, liminarmente e no mérito, a concessão da ordem para substituir a custódia preventiva por prisão domiciliar.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+No tocante à prisão domiciliar, consta do acórdão impugnado (fls. 150-151):
+Não ignoro a determinação feita pelo Supremo Tribunal Federal, por ocasião do julgamento do Habeas Corpus 143.641 (Rel. Min. Ricardo Lewandowski, j. 20.2.18).Mas a própria Corte Constitucional, naquele julgamento, fez expressas ressalvas concernentes ao alcance da ordem lá concedida:
+ ..
+Como se vê, é possível a manutenção da custódia em casos "excepcionalíssimos". E, aparentemente, é diante de um caso desses que se está, dada a grande quantidade de entorpecentes que eram armazenadas na residência em que a Paciente residia com seus filhos, e o fato de que esta é a segunda vez em que ela é presa em flagrante, no mesmo local, e pela prática do mesmo crime.
+Aparentemente, portanto, a prole da Paciente era criada em meio assolado pelo narcotráfico, o que indica que a restituição da liberdade de Samara de Freitas Carvalho pode ser mais prejudicial às crianças do que sua custódia (de forma que a prisão domiciliar serviria apenas para atender os interesses da Acusada, e não dos infantes).
+Como se vê, o pedido deprisão domiciliar foi indeferido "dada a grande quantidade de entorpecentes que eram armazenadas na residência em que a Paciente residia com seus filhos, e o fato de que esta é a segunda vez em que ela é presa em flagrante, no mesmo local, e pela prática do mesmo crime".
+A orientação adotada corrobora o entendimento desta Corte de que a substituição da custódia preventiva pela domiciliar não resguarda o interesse dos filhos menores de 12 anos de idade, quando o crime é praticado na própria residência da agente, onde convive com os infantes. Nesse sentido, os seguintes julgados: RHC 45.434/SC - 6ª T - unânime - Rel. Min. Rogerio Schietti Cruz - DJe 4/8/2014; HC 416.501/RS- 6ª T - maioria- Rel. Min. Sebastião Reis Júnior - Rel. p/ Acórdão Min. Maria Thereza de Assis Moura - DJe 9/4/2018; HC n. 424.604/SC - 5ª T - unânime - Rel. Min. Felix Fischer - DJe 16/2/2018.
+Conforme oacórdão, "a prole da Paciente era criada em meio assolado pelo narcotráfico", enfatizando, nesse contexto, a grande quantidade de droga apreendida (2,2 kg de maconha e 144g de cocaína)e a reiteração delitiva, dada condenação anterior por crime da mesma espécie, não havendo falar em ilegalidade na manutenção da prisão preventiva da paciente.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
