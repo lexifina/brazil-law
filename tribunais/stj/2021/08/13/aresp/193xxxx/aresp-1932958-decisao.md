@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se deagravo interposto por DIEGO DE OLIVEIRA SERRICCHIO e OUTRO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de DIEGO DE OLIVEIRA SERRICCHIO e OUTRO, o recurso especial não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento, tendo em vista o pedido de gratuidade de justiça realizado à fl. 1146.
+O tribunal de origem informou que o benefício da justiça gratuitafoi indeferido pela Turma Julgadora no acórdão de fls. 1722/1725 e concedeu prazo de 5 (cinco) dias para que a parte pudesse realizar o recolhimento do preparo, sob pena de deserção (fl. 223).
+Apesar de devidamente intimada para sanar o referido vício, a parte recorrente não regularizou, uma vez que juntousomente aguia DARE-SP (fls. 1822/1823).
+Intimada,novamente,para regularizar opreparo(fl. 1824), a parte não regularizou.Veja que intimada para regularizar o preparo em 03/02/2020 (fl. 1825), a parte só se manifestou em11/02/2020 (fl. 1827), fora do prazo legal de 5 (cinco) dias.
+Ainda que assim não fosse,apesar ter sido juntado, o comprovante de pagamento das custas processuais (fl. 1829) encontra-se ilegível, impossibilitando a verificação da regularidade do preparo.
+O Superior Tribunal de Justiça consolidou o entendimento no sentido de que "os recursos especiais devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção". (AgInt no REsp 1795100/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020).
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
