@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por VISIONE EMPREENDIMENTOS IMOBILIÁRIOS LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. RESPONSABILIDADE CIVIL DO FORNECEDOR DE PRODUTOS. INFILTRAÇÃO EM IMÓVEL NOVO.
+Conforme narrado na petição inicial, o apelante ficou afastado de sua residência pelo período de um mês a fim de que o problema relativo à infiltração fosse resolvido pelo apelado. A contestação não impugnou especificamente este fato, presumindo-se verdadeira a alegação, nos precisos termos do artigo 341, do Código de Processo Civil, porquanto não cuida de exceção à presunção de veracidade
+-O aparecimento de infiltrações em unidade residencial adquirida na planta, seis meses após a entrega das chaves, provocando mofo em bens móveis do consumidor e ocasionando quadro clínico de alergia à pessoa que ali reside, atrai a responsabilidade do fornecedor pelo fato do produto, o qual somente dela se exonerará quando provar que o defeito inexiste ou a culpa exclusiva do consumidor ou de terceiro, nos termos do § 3º do art. 12, do Código de Defesa do Consumidor. Inocorrência.
+-Dano material configurado. Apuração. Liquidação de sentença.
+-Fatos que extrapolam o limite do razoável e justificam indenização por danos morais. Quantificação. R$ 15.000,00 (quinze mil reais).
+-Recurso conhecido e provido.
+Quanto à controvérsia, alega violação do art. 944 do CC, relativo ao quantum arbitrado a título de danos morais, trazendo os seguintes argumentos:
+Da análise dos autos, verifica-se que não se extrai do conjunto probatório a existência de um abalo psicológico em relação aos recorridos, a justificar o acolhimento do pleito recursal e condenação das recorrentes ao pagamento de indenização por dano moral, não havendo qualquer prova contundente das alegadas infiltrações na unidade imobiliária adquirida, bem como, que isso tenha causado ao mesmo qualquer dor psíquica, visto que tal fato não configura dano moral, não passando de mero aborrecimento.
+ ..
+Desta feita, cabe ressaltar que o acórdão acima suscitado, ao modificar a r. sentença a quo, impondo à condenação da recorrente ao pagamento de verba indenizatória por dano moral em valor de R$ 15.000,00 (quinze mil reais) é, portanto, incompatível com as circunstâncias do caso concreto, assim como a jurisprudência dessa Corte Superior, afrontando os princípios da razoabilidade e da proporcionalidade.
+ ..
+Ademais, a indenização para  reparação moral  tem uma função compensatória e nunca satisfatória, de modo que não pode servir de base para proporcionar um enriquecimento sem causa, sob pena de tornar as demandas judiciais um comércio rentável, com a consequente distorção do seu fim primordial e função social. (fls. 187-190).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, o apelante provou a existência do dano material (indexador 036) e sua quantificação deverá ser apurada em fase de liquidação de sentença.
+O aparecimento da infiltração e danificação de bens móveis do consumidor, aliado ao fato de que o consumidor teve que permanecer por um mês fora de sua residência, além do desenvolvimento de alergia em pessoa residente na casa (fls. 14/16 e 18/23) são fatos que extrapolam o limite do razoável e justificam indenização por danos morais.
+Deste modo, a quantia de R$ 15.000,00 (dez mil reais) corresponde à extensão dos danos (fls. 153, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que, muito embora possa o STJ atuar na revisão das verbas fixadas a título de danos morais, esta restringe-se aos casos em que arbitrados na origem em valores irrisórios ou excessivos, o que não se verifica no caso concreto.
+Nesse sentido: "Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do óbice da Súmula n. 7 do STJ para possibilitar sua revisão. No caso, a quantia arbitrada na origem é razoável, não ensejando a intervenção desta Corte". (AgInt no AREsp 1.214.839/SC, relator inistro Antonio Carlos Ferreira, Quarta Turma, DJe 8/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.672.112/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 27/8/2020; AgInt no AREsp 1.533.714/RN, relator Ministro Francisco Falcão, Segunda Turma, DJe de 28/8/2020; e AgInt no AREsp 1.533.913/RJ, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 31/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
