@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por CARLOS ALBERTO CAPELETTI e outros com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim sintetizado:
+"AGRAVO DE INSTRUMENTO - EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - PROPOSTA DE HONORÁRIOS - INTIMAÇÃO DOS EXECUTADOS - ART. 465, § 3º, DO CPC - AUSÊNCIA DE MANIFESTAÇÃO - HOMOLOGAÇÃO DO LAUDO - DECISÃO MANTIDA - RECURSO DESPROVIDO.
+A alegada inobservância do art. 465, § 3 º, do CPC, isto é, de que não lhe foi oportunizada a manifestação sobre a proposta dos honorários periciais, não subsiste, isto porque os executados foram intimados pelo DJE e, além disso, tiveram ciência dos atos, quando fizeram diligência nos autos." (fl. 222)
+Os embargos de declaração foram rejeitados (fls. 260-270).
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 465, § 3º, e 1.022, I, do Código de Processo Civil de 2015; bem como divergência jurisprudencial, sustentando, em síntese, (a) a negativa de prestação jurisdicional; e (b) ausência de preclusão do direito à produção de prova pericial.
+Apresentadas contrarrazões ao apelo nobre (fls. 299-307).
+É o relatório.
+Inicialmente, afasta-se a alegação de negativa de prestação jurisdicional, porque o Tribunal de origem enfrentou a matéria debatida, apenas decidindo em sentido contrário à pretensão da recorrente - v.g. EDcl no AgRg no AREsp 617.798/DF, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 27/10/2015, DJe 25/11/2015; e AgRg no Ag 1.160.319/MG, Rel. Ministro Vasco Della Giustina (Desembargador convocado do TJ/RS), Terceira Turma, julgado em 26/4/2011, DJe 6/5/2011.
+O eg. Tribunal a quo consigna que "além dos agravantes terem sido intimados via DJE para manifestarem sobre a proposta de honorários periciais, inequivocamente, tiveram acesso a ela, por meio de diligência feita pelo escritório que representa os agravantes, tanto que mencionam na petição o valor dos honorários periciais constante da proposta. Dessa forma, não há que se falar em inobservância do procedimento previsto no art. 465, § 3º, do CPC, isto é, uma vez que os agravantes foram intimados da proposta de honorários periciais, porém não se insurgiram no momento oportuno." (fl. 227).
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido no que tange a ocorrência da preclusão do direito a produção de prova pericial, demandaria revolvimento do suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+Diante do exposto, nos termos do art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se.
