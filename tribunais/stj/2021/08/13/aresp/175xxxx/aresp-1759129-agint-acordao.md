@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. O conhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata de discussão sobre o resultado jurídico da subsunção de normas federais, mas, sim, de revisão das premissas subjacentes.
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto contra decisão monocrática, da lavrada da presidência deste Superior Tribunal de Justiça, da qual retiro o seguinte excerto:
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Observo que dos autos constam os atos de nomeação e exoneração, além das fichas financeiras concernentes a todo o período laborado, confirmando, portanto, o vínculo com a Administração Municipal, o cargo ocupado e o lapso temporal do respectivo exercício (fls. 12/45). É sabido que competiria à Municipalidade, conforme determina o art. 333, inciso II, do CPC/73I, então vigente, comprovar oportunamente o adimplemento dos valores reclamados pelo servidor. Não cabe ao autor, por óbvio, efetuar prova negativa, ou seja, no caso em tela, de que não teria recebido as verbas pleiteadas. Pois bem. Do cotejo dos elementos de prova presentes no caderno processual, é forçoso concluir pelo adimplemento parcial das verbas perseguidas. É que as fichas financeiras acostadas pelo próprio autor dão conta do pagamento dos salários reclamados, bem como da gratificação natalina proporcional ao ano de 2012, consoante se lê às fls. 31/32 (fls. 107/108).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+No presente recurso, sustenta-se que
+levando-se em consideração fatos incontroversos postos nos autos, busca-se a devida aplicação do direito ao caso, observando-se corretamente a lei federal aplicável à matéria, e não a discussão quanto aos fatos narrados e provas acostadas aos autos. Nesta esteira, não há que se falar em incidência da Súmula nº 7 do STJ, tendo em vista que o Recurso Especial interposto versa unicamente sobre a violação à Lei Federal de nº 13.105/15, ao CPC/73 e a divergência jurisprudencial sobre a matéria posta à apreciação do Poder Judiciário. Logo, não é necessário o revolvimento fático-probatório, uma vez que a violação a matéria fática discutida é incontroversa. Para a análise do Recurso Especial interposto, NÃO se faz necessário analisar se a Parte Autora/Recorrida provou ou não a constituição do seu direito, pois a própria Decisão recorrida é clara quanto à ausência de prova por parte daquela; logo, é FATO INCONTROVERSO. O que pretende discutir é que, nos termos do Código de Processo Civil vigente, o ônus da prova, quanto a fatos constitutivos do seu direito, recai sobre o Autor/Agravado, que alega ter direito a cobrança das verbas pleiteada através de Ação de Cobrança. Neste sentido, a respeito dos fatos incontroversos e a não aplicação da súmula 07 do STJ  .. .
+Pugna, por fim, a reconsideração da decisão, em juízo de retratação, ou a remessa do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. REVISÃO DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+1. O conhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata de discussão sobre o resultado jurídico da subsunção de normas federais, mas, sim, de revisão das premissas subjacentes.
+2. Agravo interno não provido.
+VOTO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O presente agravo não merece lograr êxito.
+Em que pese o arrazoado, observa-se que a parte agravante não trouxe argumentos novos capazes de infirmar os fundamentos que embasaram a decisão agravada, o que faz subsistir o entendimento nela externado.
+O conhecimento do tema esbarra no óbice da Súmula nº 7/STJ - "a pretensão de simples reexame de prova não enseja recurso especial" -, uma vez que não se trata de discussão sobre o resultado jurídico da subsunção de normas federais, mas, sim, de revisão das premissas subjacentes.
+A revaloração jurídica de provas em recurso de natureza especial pressupõe que, para as mesmas premissas de fatos (as quais são jungidas aos autos com soberania pela Corte a quo), seja possível determinar outra consequência jurídica. O pedido de revaloração, em caso tal, deve conter, necessariamente, a demonstração de duas coisas: (a) o quadro fático, tal como delineado no decisum objurgado; (b) o resultado jurídico resultante de má aplicação do direito federal (sem olvidar os outros limites processuais e constitucionais da via recursal). O pedido genérico de afastamento da incidência da Súmula nº 7/STJ constitui defeito grave de fundamentação recursal, que leva ao não conhecimento da matéria arguida.
+Esclareço, outrossim, que a decisão que se pretende cassar é com base no art. 932, inciso III, c.c. o art. 1.030, § 2º, do Código de Processo Civil de 2015, não trazendo a parte qualquer motivo hábil para sua anulação.
+Com essas considerações, nego provimento ao agravo interno.
+É como voto.
