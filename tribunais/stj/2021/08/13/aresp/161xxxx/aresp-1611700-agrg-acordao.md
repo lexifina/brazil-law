@@ -1,0 +1,41 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO CONDENATÓRIA. RESP INADMISSÍVEL. INCIDÊNCIA DO ÓBICE PREVISTO NA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido estabeleceu não ter havido, em relação às condutas investigadas nesta ação penal, cobrança de honorários além do que fora acordado com as vítimas idosas. Assim, para modificar essa premissa seria necessário incursão na prova dos autos além daquela examinada pela Corte antecedente, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIS agrava de decisão de minha relatoria em que conheci do agravo para não conhecer do recurso especial e, como consequência, foi mantida a absolvição do acusado, reconhecida pelo Tribunal de origem, pelo crime do art. 102 da Lei n. 10.741/2003.
+O agravante assevera que, "havendo provas extrajudiciais e judiciais, devidamente transcritas no aresto, quanto à tipicidade da conduta descrita no artigo 104 do Estatuto do Idoso bem como prova acerca do dolo do acusado, imperiosa sua condenação, não havendo que se falar em reexame de provas, não incidindo, na espécie, a súmula 7 deste Superior Tribunal" (fl. 1.300).
+Requer a reconsideração do decisum agravado ou o julgamento do agravo regimental pelo colegiado.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRETENSÃO CONDENATÓRIA. RESP INADMISSÍVEL. INCIDÊNCIA DO ÓBICE PREVISTO NA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido estabeleceu não ter havido, em relação às condutas investigadas nesta ação penal, cobrança de honorários além do que fora acordado com as vítimas idosas. Assim, para modificar essa premissa seria necessário incursão na prova dos autos além daquela examinada pela Corte antecedente, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante o esforço do agravante, os argumentos apresentados são insuficientes para infirmar a decisão agravada, cuja conclusão mantenho.
+O decisum impugnado consignou (fls. 334-336, grifos no original):
+I. Não admissibilidade do recurso especial
+O agravado foi condenado, em primeira instância, pelo crime do art. 102 da Lei n. 10.741/2003,a 30 anos, 2 meses e 3 dias de reclusão mais 504 dias-multa, em regime fechado.
+Atribuiu-seao réua conduta de apropriar-se indevidamente de valores de proventos previdenciários de idosos, mediante a retenção doscartões bancários e respectivas senhas, a título de honorários advocatícios.
+A Corte de origem assim se manifestou (fls. 1.151-1.155, destaquei):
+ ..
+Conforme se constata em leitura aos depoimentos acima, algumas vítimas se dirigiam elas próprias ao escritório do acusado para pagar os honorários combinados em razão do serviço advocatício prestado, outras deixavam o cartão com o réu, inclusive explicando que o advogado as entregava corretamente os valores mensais que não se destinavam ao pagamentodos honorários.
+As vítimas, quase em sua totalidade, afirmaram ter ficado satisfeitas com os serviços prestados. Além disso, explicaram que os valores eram repassados ao réu ou sacados por ele a título de pagamento das prestações de honorários, cessando os repasses ou as retiradas assim que atingida a quantidade de parcelas combinadas a título de pagamento, o que confirma que não se tratava de apropriação indevida.
+As vítimas relataram que procuravam os serviços do advogado ora acusado para obterem benefício previdenciário, não pagando quantia alguma inicialmente, mas apenas arcando com os honorários quando obtinham êxito em ter aprovado o benefício que pleitearam, conforme confessado pelo próprio acusado.
+ ..
+Embora a versão do réu destoe, em parte, dos relatos das vítimas, entendo não haver se configurado, na hipótese, o tipo legal de apropriação indébita, simplesmente pelo fato de não ter o réu se apossado indevidamente de coisa alheia, visto que a retenção de valores se fazia de maneira consentida e autorizada e não se tratava de dinheiro indevido e nem mesmo com destinação diversa da finalidade, uma vez que se prestou ao pagamento de serviço realizado.
+Aliás, quando o cartão bancário estava em posse do acusado, ao cessarem os pagamentos dos valores combinados, a targeta era devolvida ao seu proprietário ou este era orientado, pelo próprio acusado, a pleitear uma segunda via junto à instituição bancária, não havendo relatos de que o réu teria retirado das contas dos clientes que lhe confiavam o cartão mais dinheiro do que o combinado.
+Assim, além de não restar configurada a figura da apropriação indébita, não se caracterizou o dolo do réu de apropriar-se indevidamente, mas, conforme tudo o que exposto alhures, remunerar-se pelos serviços prestados.
+Ademais, a forma eleita pelo réu de se remunerar, bem como avençada com seus clientes, por si só, não configura os crimes que lhes foram imputados pela denúncia, ainda que, considerando o bom exercício da advocacia, pode não ser considerada a melhor forma de cobrança.
+Vale deixar claro que os valores cobrados a título de honorários, desde que observem o patamar mínimo sugerido pela tabela da OAB, dizem respeito ao preço de cada profissional da advocacia, não se configurando o crime de apropriação indébita o simples fato de o preço aplicado pelo profissional estar acima da referida tabela, mormente quando se considera que foi aceito pelos clientes que receberam o serviço.
+Ressalte-se que o fato de se tratarem as vítimas de pessoas simples e/ou idosas também não é capaz de caracterizar a prática pelo réu do crime de apropriação indébita, visto que, conforme os depoimentos alhures, as pessoas procuravam os serviços do réu de maneira consciente e dele se beneficiavam obtendo junto ao INSS os benefícios aos quais faziam jus, mas que não eram capazes de obter por conta própria.
+Dito isso, considerar imoral, irregular ou abusiva a maneira de cobrança dos honorários advocatícios realizada pelo réu é questão que não envolve a seara do Direito Penal no que se refere ao crime de apropriação indébita, ao menos em relação especificamente às vítimas examinadas nestes autos, cabendo, se for o caso, intervenção do Órgão de Classe.
+O Ministério Público alega que (fls. 1.207-1.208):
+ .. sem sombra de dúvida, o réu incidiu nas sanções do art. 102 do Estatuto do Idoso, ao apropriar-se dos proventos recebidos pelas vítimas, dando-lhe aplicação diversa da de sua finalidade, já que não eram destinados ao sustento das mesmas e sim ao suposto pagamento de honorários advocatícios, fixados em valores exorbitantes.
+Em que pese a argumentação do recorrente, o acórdão impugnado destacou, em essência,não obstante o meio utilizado pelo acusadopara o adimplemento dos honorários advocatícios (retenção dos cartões bancários e das respectivas senhas), não haver sidoidentificada, em relação às vítimas destes autos, apropriação de valores além doacordado entre as partes.
+Dessa forma, ainda que se questione se os honorários eram ou não abusivos, entre outros aspectos desta prestação de serviços,o acolhimento da pretensão condenatória demandaria o revolvimento fático-probatório dos autos,procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+Em que pese a argumentação do Parquet estadual, a pretensão é inadmissível. O acórdão recorrido estabeleceu não ter havido, em relação às condutas investigadas nesta ação penal, cobrança de honorários além do que fora acordado com as vítimas. Assim, para modificar essa premissa seria necessário incursão na prova dos autos além daquela examinada pela Corte antecedente, procedimento vedado, em recurso especial, pelo disposto na Súmula n. 7 do STJ.
+À vista do exposto, nego provimento ao agravo regimental.
