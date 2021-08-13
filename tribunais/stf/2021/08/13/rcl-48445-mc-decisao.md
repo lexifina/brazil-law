@@ -1,0 +1,19 @@
+Decisão: 1. Trata-se de reclamação ajuizada em face de decisão prolatada pelo Juízo da 13ª Vara Federal de Curitiba/PR na Ação Penal 5057686-95.2019.4.04.7000, que indeferiu acesso a acordo de colaboração premiada e ao respectivo registro audiovisual da audiência de homologação, por suposta violação à Súmula Vinculante 14.
+    Narra a defesa constituída que (a) o reclamante foi denunciado junto ao Juízo da 13ª Vara Federal de Curitiba/PR com base na colaboração premiada de Shinko Nakandakari, falecido nos idos de 2019; (b) no bojo da persecução penal, foi-lhe indeferido o acesso ao acordo de colaboração, “sob o fundamento de que os documentos atinentes à acusação acima referida já estariam acautelados nos autos do processo-crime n.º 5057686-95.2019.4.04.7000, bem como em razão de que, além dos termos de depoimento 01 e 02, haveriam mais dois depoimentos (números 03 e 04) que não dizem respeito aos Reclamantes” (e.Doc. 1, fl. 3); (c) em razão da recente orientação da Segunda Turma do Supremo Tribunal Federal firmada no julgamento da RCL 46.875/RJ, a defesa reiterou o pedido de acesso ao vídeo da audiência de colaboração, tendo-lhe sido novamente indeferido.
+    Sustenta, nesse contexto, o interesse da defesa em obter acesso a documentos fundamentais à acusação ministerial, sobre os quais ainda recai a alegação de nulidade.
+    Aduz, para tanto, que o depoimentos foram prestados pelo colaborador em leito hospitalar com a saúde debilitada e de modo deveras expedito, sem a observância do regime da produção antecipada da prova previsto no art. 225 do Código de Processo Penal.
+    Ressalta, nesse sentido, que impedir o acesso a elementos indispensáveis ao esclarecimento das teses suscitadas pelo reclamante representaria inevitável cerceamento ao direito de defesa.
+    Reforça que “eventual diligência em andamento, envolvendo o termo de depoimento 04, certamente está sendo levada a cabo em seu respectivo inquérito policial ou procedimento investigatório criminal, de modo que o acesso aos autos da colaboração de Shinko Nakandakari nada irá revelar além daquilo que já se sabe” (e.Doc. 1, fl. 9).
+    Com essas considerações, formula pedido liminar para o fim de “I) conceder acesso aos elementos pleiteados ou II) suspender o processo-crime n.º 5057686-95.2019.4.04.7000, até o julgamento do mérito da presente reclamação”.
+    É o relatório. Decido.
+    2. Cumpre registrar que o deferimento da medida liminar, resultante do concreto exercício do poder geral de cautela outorgado aos juízes e tribunais, somente se justifica em face de situações que se ajustem aos seus específicos pressupostos, a saber: (i) a existência de plausibilidade jurídica (fumus boni juris); (ii) a possibilidade de lesão irreparável ou de difícil reparação (periculum in mora). Sem que concorram esses requisitos, essenciais e cumulativos, não se legitima a concessão do provimento cautelar.
+    Num juízo de cognição sumária, próprio desta específica fase processual, não depreendo ilegalidade flagrante na decisão atacada a justificar a concessão da liminar.
+    Depreende-se do ato reclamado que “[N]ão cabe franquear à Defesa documentos que não lhe sejam pertinentes e que ainda instruem outras investigações em curso” (e.Doc. 14),
+    3. Sendo assim, prima facie, não verifico ilegalidade evidente, razão pela qual, sem prejuízo de ulterior reapreciação da matéria no julgamento final da presente reclamação, indefiro a liminar.
+    Nos termos do art. 157 do RISTF, solicitem-se informações ao Juízo da 13ª Vara Federal de Curitiba acerca do alegado descumprimento do enunciado n. 14 da Súmula Vinculante do Supremo Tribunal Federal, a serem prestadas no prazo de até 5 (cinco) dias.
+    Dê-se vista à Procuradoria-Geral da República para manifestação pelo mesmo lapso temporal.
+    Publique-se. Intime-se.
+    Brasília, 13 de agosto de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
