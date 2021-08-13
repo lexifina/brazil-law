@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 196/200).
+O acórdão recorrido está assim ementado (e-STJ fl. 119):
+AGRAVO DE INSTRUMENTO -AÇÃO DE EXECUÇÃO -MEDIDAS CONSTRITIVAS -SUSPENSÃO DA CNH E BLOQUEIO DE CARTÃO DE CRÉDITO - INADMISSIBILIDADE. As medidas pleiteadas pelo exequente não são úteis ao cumprimento da obrigação e apenas restringem os direitos individuais do executado. Não há relação direta entre o cumprimento da obrigação de pagar e a adoção das medidas pleiteadas-suspensão da CNH e bloqueio de cartão de crédito -, sendo, portanto, ineficazes ao fim pretendido.
+Os embargos de declaração foram rejeitados(e-STJ fls. 133/138).
+No especial (e-STJ fls. 142/149), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 5º, 6º, 8º, 139, IV, e 805, parágrafo único,do CPC/2015, sustentando, em síntese, a necessidade de deferimento do pedido de aplicação da medida coercitiva indireta, que consistena suspensão da CNH e no bloqueio do cartão de crédito da parte recorrida.
+No agravo (e-STJ fls. 202/204), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 122):
+E em que pese os argumentos da Agravante, não se vislumbra a possibilidade de satisfação do crédito por meio das medidas pretendidas.
+Isso porque os pedidos da Agravante não serão úteis ao cumprimento da obrigação, constituindo-se apenas de meios para restringir os direitos individuais do Agravado, não havendo relação direta entre o cumprimento da obrigação de pagar e a adoção das medidas pleiteadas.
+Esclarece-se que a pretensão da Agravante esbarra na norma do art. 8º do CPC/15, devendo ser observada a proporcionalidade, a razoabilidade e o princípio segundo o qual a execução deve se dar da forma menos gravosa para o devedor.
+Oentendimento do aresto estadual foi de que se deve buscar a providência mais eficaz e menos gravosa ao executado. Concluiu o colegiado que as medidas seriam excessivamente gravosas à parte executada e desproporcionais à obrigação de pagamento do débito.
+Ultrapassar a conclusão da instância de origem a fim de analisar as condições no caso concreto, com fito de autorizar constrições mais severas e excepcionais, demandaria inegável revolvimento fático-probatório, o que é vedado pelo teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRETENSÃO DE QUE SEJA SUSPENSA A CNH DO DEVEDOR COM BASE NO ART. 139, IV, DO CPC/2015. CONCLUSÃO NO SENTIDO DA INADEQUAÇÃO DA MEDIDA PARA O FIM COLIMADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu que a medida pleiteada - suspensão da CNH dos recorridos - é inadequada para o fim colimado, pois é desproporcional no caso em tela, especialmente porque atinge a pessoa do devedor, não seu patrimônio. Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.233.016/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/4/2018, DJe 17/4/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.283.998/RS, Relator Ministro LAZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 9/10/2018, DJe 17/10/2018.)
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
