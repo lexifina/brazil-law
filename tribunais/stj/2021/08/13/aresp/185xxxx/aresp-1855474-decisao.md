@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto por RICARDO ELOI, fundado no art. 105, III, alínea "a" da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 599):
+AGRAVO DE INSTRUMENTO. Decisão que rejeitou a alegação de impenhorabilidade do imóvel indicado nos autos, mantendo a penhora incidente nos direitos respectivos. Oficial de justiça que compareceu no imóvel por mais de uma vez e o encontrou fechado, com aspecto de desocupação. Ausência de prova hábil a demonstrar utilização do imóvel como residência da família, bem como de que seja o único imóvel do agravante.
+Devedor, ademais, que foi citado, em execução, em imóvel diverso do mencionado nos autos. Decisão mantida. Recurso desprovido.
+Nas razões do recurso especial, a agravante alega violação aos arts. 1º, 3º, 5º, da Lei 8.099/90; 1º, III, 6º, 93, IX, da Constituição Federal; 489 do CPC/15. Para tanto, sustenta, em síntese, que: (i) "comprovou de forma cabal e incontroversa o preenchimento dos requisitos para o enquadramento do imóvel como bem de família" - (fl. 610); (ii) "a fundamentação genérica impede o pleno exercício do contraditório e ampla defesa" - (fl. 616); (iii) o julgado violou o princípio da vedação da decisão surpresa.
+Foram apresentadas contrarrazões às fls. 689/699.
+É o relatório.
+De início, no tocante à alegada ofensa aos artigos 1º, III, 6º, 93, IX, da Constituição Federal, observa-se que, por trata-se de matéria a ser apreciada na suprema instância, não é viável a análise de contrariedade a dispositivos constitucionais, nesta via recursal, o que implicaria em usurpação de competência constitucionalmente atribuída ao Eg. Supremo Tribunal Federal (CF, art. 102).
+Ademais, não prospera a alegada ofensa ao art. 489 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia acerca da classificação do imóvel como bem família.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Quanto ao mérito, a Corte de origem, com base no lastro probatório colacionado aos autos, consignou que a parte ora recorrente não logrou êxito em demonstrar que o imóvel objeto da penhora possui natureza de bem de família, como se depreende do trecho do acórdão a seguir (fls. 601/602):
+"O STJ entende que "cabe ao devedor o ônus da prova do preenchimento dos requisitos necessários para enquadramento do imóvel penhorado na proteção concedida pela Lei n. 8.009/90 ao bem de família, quando a sua configuração não se acha, de pronto, plenamente caracterizada nos autos." (AgRg no Agravo de Instrumento n.
+655.553/RJ, Rel. Min. Fernando Gonçalves, j. 05/05/2005).
+Logo, para o reconhecimento da impenhorabilidade do bem de família, imprescindível prova de que o imóvel é utilizado como residência familiar, e que seja o único imóvel do interessado.
+Diante das provas apresentadas, efetivamente não há meios de se presumir que o imóvel em questão se caracteriza como bem de família, sendo dotado, portanto, de impenhorabilidade.
+As faturas enviadas ao endereço do agravante não constituem prova cabal de moradia, podendo se tratar de imóvel secundário; e o fato de o imóvel estar sempre desocupado não colabora para o acolhimento do pedido deduzido.
+De se destacar que o agravante, no âmbito da presente execução, foi citado em outro imóvel, localizado na Rua Pirambola, 1082, em Santo André (fls. 238 e seguintes), presumindo-se que seja esse seu domicílio.
+Dispõe o art. 5º da Lei n. 8.009/90: Para efeitos de impenhorabilidade, de que trata esta Lei, considera-se residência o único imóvel utilizado pelo casal ou pela entidade familiar para moradia permanente.
+Não comprovou o agravante que o imóvel penhorado serve como sua residência. Com isso, deve ser mantida a penhora que recaiu sobre o imóvel."
+Nesse contexto, a modificação de tal entendimento lançado no v. acórdão recorrido para aferir se o imóvel objeto da demanda preenche ou não os requisitos exigidos pela Lei 8.009/90 demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório. Em reforço:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA NÃO CONHECER DO APELO ESPECIAL. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. No caso, concluiu o Tribunal de origem, a partir da valoração das provas acostadas aos autos, não ter sido comprovado que o imóvel constitui bem de família. A alteração de tais conclusões é vedada em sede de recurso especial, a teor da Súmula 7 desta Corte, pois demandaria o reexame do conjunto fático-probatório. Precedentes.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1750797/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)"
+Quanto à alegada ofensa ao artigo 10 do CPC/15, o Tribunal de origem consignou o que se segue, in verbis (fl. 650):
+"Malgrado o acórdão efetivamente tenha mencionado que o local onde citado o agravante é diverso do penhorado, o que, em tese e em princípio, configuraria "elemento surpresa", esse, a bem de ver-se, não é o cerne da questão controvertida.
+O que importa e possui relevância é que o agravante deixou de demonstrar que o imóvel penhorado possui natureza de bem de família, e de que é o único imóvel do agravante."
+Ocorre que a parte recorrente não impugnou a fundamentação acima, autônoma e suficiente à manutenção do aresto hostilizado, a qual permaneceu incólume. Dessa forma, incide, na espécie, o óbice da Súmula 283 do STF, segundo a qual "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles". Veja-se:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. AFRONTA AO ART. 535 DO CPC. INOCORRÊNCIA. APELAÇÃO DESERTA. ARTS. 158 e 511, § 2º, DO CPC. FALTA DE PREQUESTIONAMENTO. SÚMULAS Nº 211/STJ E Nº 282/STF. FUNDAMENTO INATACADO. SÚMULA Nº 283/STF. COMPROVAÇÃO DA OCORRÊNCIA DO ESBULHO E HONORÁRIOS EXORBITANTES. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7/STJ. DECISÃO MANTIDA.
+(..)
+3. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado, impõe o não conhecimento da pretensão recursal - Súmula nº 283/STF.
+(..)
+5. Agravo regimental a que se nega provimento."
+(AgRg no AREsp 595.189/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/11/2014, DJe 27/11/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
