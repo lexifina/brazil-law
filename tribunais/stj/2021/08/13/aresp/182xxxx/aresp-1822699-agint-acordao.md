@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS COM MEDICAMENTO DESTINADO A TRATAMENTO DE PATOLOGIA ONCOLÓGICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO DESPROVIDO.
+1.Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356/STF.
+2.A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+3.Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Vision Med Assistência Médica Ltda. contra decisão monocrática desta relatoria, proferida nos seguintes termos (e-STJ, fl. 680):
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS COM MEDICAMENTO DESTINADO A TRATAMENTO DE PATOLOGIA ONCOLÓGICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões (e-STJ, fls. 686-696), a agravanteaduz a inexistência de controvérsia fática, sendo a questão unicamente de direito; a inaplicabilidade das Súmulas n. 283 e 284/STF, uma vez que o recurso possui argumentação lógica que permite a devida compreensão da controvérsia; que no presente caso se discute a legalidade das cláusulas limitativas, matéria que foi devidamente prequestionada; e a violação literal ao art. 10 da Lei n. 9.656/1998.
+Foi apresentada impugnação (e-STJ, fls. 698-705).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. REEMBOLSO DE DESPESAS COM MEDICAMENTO DESTINADO A TRATAMENTO DE PATOLOGIA ONCOLÓGICA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF. AGRAVO INTERNO DESPROVIDO.
+1.Se o conteúdo normativo contido nos dispositivos apresentados como violados não foi objeto de debate pelo Tribunal de origem, evidencia-se a ausência do prequestionamento, pressuposto específico do recurso especial. Incidem, na espécie, os rigores das Súmulas n. 282 e 356/STF.
+2.A falta de impugnação de argumento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, na esteira dos enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+3.Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Conforme consignado na decisão agravada, os dispositivos legais apontados pela recorrente - arts. 188, 474 e 757 do Código Civil de 2002; e 13 da Lei n. 9.656/1998 - não foram enfrentados pelo acórdão impugnado, tampouco foram opostos embargos de declaração quanto a esse ponto.
+Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, ainda que em embargos de declaração, o que, na espécie, não ocorreu. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+Ressalte-se que o entendimento jurisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida.
+O Tribunal de origem, ao julgar a apelação, consignou o seguinte (e-STJ, fls. 471-472):
+No caso dos autos, a pretensão articulada pelo autor objetiva o reembolso de valores dispendidos para aquisição do medicamento denominado "IBRUTINIB"(IMBRUVICA), destinado ao tratamento de patologia oncológica (Linfoma não Hodgkin da Zona do mando -CID10. C83.0). Narra o autor que, em razão da recusa da parte ré em custear seu tratamento oncológico, e não podendo posterga-lo, mobilizou suas economias para adquirir parte da medicação a um custo total de R$ 169.487,13 (cento e sessenta e nove mil, quatrocentos e oitenta e sete reais e treze centavos).
+Restou comprovado, no curso da demanda, que nos autos do processo número 0370286-97.2015.8.19.0001 foi reconhecido o direito do autor ao tratamento de sua enfermidade com o referido fármaco quimioterápico, em razão de a doença ser coberta pelo serviço contratado.
+Ora, sendo reconhecido o direito do autor ao tratamento descrito na exordial e estando comprovado nos autos o efetivo pagamento de seus custos, não há que se cogitar em reembolso parcial dos valores dispendidos pelo autor -a cobertura do tratamento da doença deve ser integral, pois é obrigação da operadora do plano de saúde o fornecimento do medicamento para o tratamento quimioterápico. Consequentemente, é irrelevante não ter o autor pleiteado o reembolso dos valores administrativamente, vez que sua pretensão tem esteio em decisão judicial transitada em julgado.
+Outrossim, a tabela contratual que limita o reembolso não se aplica ao caso, pois a hipótese não é de custeio de despesas médica e hospitalares, mas, sim, de tratamento de doença coberta pelo plano de saúde, cuja obrigação de custear o medicamento integrante do tratamento já foi reconhecido por sentença judicial e, pelas circunstancias do quadro clinico do paciente (recidiva de câncer), pensar diversamente implica em comprometer o próprio objeto do contrato de assistência médica. (Sem grifo no original).
+Ratifica-se que a recorrente não se desincumbiu de demonstrar as razões pelas quais considera violadas as normas legais apontadas, tampouco impugnou os fundamentos do acórdão recorrido, incidindo, por analogia, as Súmulas n. 283 e 284/STF, que dispõem, respectivamente: "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"; e "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia."
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
