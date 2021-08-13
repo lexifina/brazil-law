@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial, fundadonoart. 105, III, "a", daConstituição Federal, interposto por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIALcontra v. acórdão do eg. Tribunal de Justiça doEstadode São Paulo,assim ementado (fls. 1.870):
+"Agravos de Instrumento Ação ordinária em fase de liquidação de sentença Nova divergência entre as partes acerca da interpretação do v. Acórdão proferido em apelação na fase de conhecimento Cálculos que devem adotar a capitalização mensal, no cálculo da remuneração mínima, conforme cláusula contratual Questão acobertada pelo manto da coisa julgada - Decisão parcialmente reformada Agravo dos autores acolhido, rejeitado o recurso da parte ré."
+Os embargos de declaração foram rejeitados às fls. 1.926-1.937 e 1.946-1.954.
+Nas razões do recurso especial, a parte recorrente alega violação aos arts. 11, 141, 477, § 3º, 489, 502, 503, 505, 507,508,1.022 e 1.026, §2º, do CPC/2015. Sustenta, em síntese, que: a) o acórdão está omisso; b) no contrato não havia previsão de capitalização mensal da remuneração mínima, motivo pelo qual deve haver nova perícia sobre o tema; e c) a multa por embargos de declaração protelatórios deve ser afastada.
+É o relatório. Decido.
+Cumpre observar que o recurso especial foi interposto contraacórdãopublicado publicado já na vigência do CPC de 2015, aplicando-se aocaso oEnunciado Administrativo n.º 3 do Plenário do STJ: "Aosrecursosinterpostos com fundamento no CPC/2015 (relativos a decisõespublicadas apartir de 18 de março de 2016) serão exigidos os requisitosdeadmissibilidade recursal na forma do novo CPC".
+O recurso em apreço merece prosperar em parte.
+Da detida leitura do v. acórdão estadual, infere-se que o eg. Tribunalaquo analisou os pontos essenciais ao deslinde da controvérsia,dando-lhesrobusta e devida fundamentação, motivo pelo qual deve serrejeitada aalegada violação aos arts. 11, 489 e 1.022 do CPC/2015.
+Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido dequeo magistrado não está obrigado a responder a todos osargumentosapresentados pelos litigantes, desde que aprecie a lide em suainteireza,com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA-DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIADADEMANDADA.
+1. As questões postas à discussão foram dirimidas pelo órgão julgadordeforma suficientemente ampla, fundamentada e sem omissões, portanto,deveser afastada a alegada violação ao artigo 1.022 do CPC/15.
+(..)
+3. Agravo interno desprovido."
+(AgInt no AREsp 1447412/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 20/05/2019, DJe 22/05/2019)
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. AGRAVO EM RECURSO ESPECIAL.AÇÃODECLARATÓRIA DE NULIDADE DE TÍTULO DE CRÉDITO CUMULADA COMINDENIZAÇÃO PORDANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CÓDIGO DE PROCESSOCIVIL DE 2015.NÃO OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROTESTO INDEVIDO.REEXAME FÁTICODOS AUTOS. SÚMULA N. 7/STJ. APLICAÇÃO DA SÚMULA N. 385/STJ.FUNDAMENTO DOACÓRDÃO RECORRIDO NÃO IMPUGNADO. SÚMULA N. 283/STF.
+1. O acórdão recorrido analisou todas as questões necessárias aodeslindeda controvérsia, não se configurando omissão, contradição ounegativa deprestação jurisdicional.
+(..)
+4. Agravo interno a que se nega provimento."
+(AgInt nos EDcl no AREsp 1324793/MT, Rel. Ministra MARIA ISABEL GALLOTTI,QUARTA TURMA, julgado em 14/05/2019, DJe 20/05/2019)
+No tocante à forma de cálculo dos juros e necessidade de novo laudo pericial, o Tribunal de origem, com arrimo no acervo fático-probatório, assim dirimiu a controvérsia:
+"Uma vez presentes os pressupostos de admissibilidade, conheço dos recursos, haja vista a presença dos pressupostos de admissibilidade, para dar provimento à insurgência da parte autora, negando guarida à manifestada pela parte ré. Como já pontuado em julgamento anterior proferido por esta C. Câmara, nos autos do Agravo de Instrumento nº 2021304-65.2016.8.26.0000, a ação ordinária interposta por NBS Shopping Centers Ltda. e outros, foi julgada procedente em 15.06.2005, oportunidade em foi declarada a existência de crédito, no montante de R$ 243.596,86,decisão modificada, em parte, por v. Acórdão datado de 24.07.2007 que acolheu parcialmente o apelo interposto pela parte ré. Na fase de execução, sobrevieram discordâncias em relação aos cálculos elaborados nos autos, em especial quanto à remuneração mínima, objeto da presente análise. Após cotejar os termos do v. Acórdão proferido em sede de apelação (fase de conhecimento), bem como o conteúdo da cláusula 22 da avença firmada entre as partes, mantida integralmente pelo referido julgado, assinalamos que a remuneração mínima, capitalizada mensalmente, viera prevista no pacto em guisa de comento, restando mantidos em sede recursal os moldes e prazos ali estabelecidos (grifei). Como já registrado anteriormente, nada há de ilegal quanto à capitalização mensal sobre a remuneração mínima pactuada entre as partes, que na hipótese está acobertada pelo manto da coisa julgada, o queafasta eventuais interpretações diversas. Nessas circunstâncias, impertinente eventual modificação na fase de execução, pelo que resta afastada a insurgência manifestada pela parte ré e acolhido o recurso dos autores para reformar, em parte, as decisões agravadas e homologar os cálculos periciais que apontam saldo credor no importe de R$ 22.094.354,02, para maio de 2017 (fl. 318 AI 2013438-64.2020.8.26.0000)."
+Da leitura do excerto ora transcrito, verifica-se que o Tribunal de origem concluiu que a capitalização mensal sobre a remuneração mínima estava prevista no contrato, que passou incólume no título, estando acobertada pela coisa julgada. Asseverou, ainda, a desnecessidade de revisão dos cálculos apresentados.
+Nesse contexto, a pretensão de modificar o entendimento firmado, acerca da forma de capitalização da remuneração e necessidade de novo laudo pericial, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. ENSINO SUPERIOR. MENSALIDADES. DISCUSSÃO DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. AMPLIAÇÃO DO LAPSO TEMPORAL PREVISTO NO TÍTULO EXEQUENDO. COISA JULGADA. INFRINGÊNCIA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 7 E 126/STJ.
+1. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. "É inadmissivel recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Enunciado 126 da Súmula do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1773560/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/06/2021, DJe 24/06/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA.
+PRESTAÇÃO DE SERVIÇOS. CONTRATO DE EMPREITADA. INDEFERIMENTO DE OITIVA EM AUDIÊNCIA DO PERITO JUDICIAL E DO DEPOIMENTO DOS ENGENHEIROS DA PARTE RÉ. ALEGADO CERCEAMENTO DE DEFESA. ACÓRDÃO RECORRIDO APOIADO NAS PREMISSAS FÁTICAS CONSTANTES DOS AUTOS.
+IMPOSSIBILIDADE DE SUA REVISÃO NA VIA ESPECIAL. APLICAÇÃO DA SÚMULA N. 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O cerceamento de defesa sustentado na ausência de realização de oitiva do perito em audiência, a fim de prestar esclarecimentos, ou de realização de novo laudo pericial, foi afastado pelo juiz - destinatário da prova - com respaldo no acervo fático e probatório dos autos, de forma que a sua revisão, na via especial, é obstada pela Súmula n. 7 desta Corte.
+2. Agravo interno não provido.
+(AgInt no AREsp 997.023/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+Por fim, com relação à multa aplicada nos embargos de declaração, combaseno art. 1026, § 2º, do CPC/2015, observa-se que os aclarátórios,naespécie, foram opostos com o intuito de prequestionamento, emconformidadecom a Súmula 98/STJ, razão pela qual deve ser afastada apenalidadeimposta pelo Tribunal local.Nesse sentido:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE DUPLICATASC/CPEDIDO DE CANCELAMENTO DE PROTESTO E REPARAÇÃO POR DANOSMORAIS.DEFICIENTE FUNDAMENTAÇÃO DO RECURSO. SÚMULA 284/STF. DISSÍDIONÃOCONFIGURADO. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL COMINTERPRETAÇÃODIVERGENTE. SÚMULA 284/STF. REEXAME DE FATOS E PROVAS.IMPOSSIBILIDADE.SÚMULA 7/STJ. MULTA DO ART. 1026, §2º, DO CPC. AFASTADA.SÚMULA 98/STJ.
+1. Ação anulatória de duplicatas c/c pedido de cancelamento de protestoereparação por danos morais.
+2. A deficiente fundamentação do recurso impede o seu conhecimento.
+3. Não se conhece do recurso especial quando ausente a indicaçãoexpressado dispositivo legal a que se teria dado interpretaçãodivergente. Súmula284/STF.
+4. O reexame de fatos e provas não é possível na via especial devidooóbice da Súmula 7 desta Corte.
+5. Afasta-se a multa aplicada quando não se caracteriza ointentoprotelatório na interposição dos embargos de declaração. AplicaçãodaSúmula 98/STJ.
+6. Agravo interno parcialmente provido, tão-somente para afastar amultarevista no art. 1026, §2º, do CPC." (AgInt no REsp 1773391/MG,
+Rel.Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 19/08/2019,DJe21/08/2019, g.n.)
+Com essas considerações, tem-se que o recurso comporta parcialprovimento.
+Diante do exposto, dou parcial provimento ao recurso especial,afim deafastar a multa aplicada no julgamento dos embargos de declaração.
+Publique-se.
