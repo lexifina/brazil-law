@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. AUSÊNCIA DE INDIVIDUALIZAÇÃO NO REGISTRO IMOBILIÁRIO. EXTINÇÃO DA DEMANDA SEM RESOLUÇÃO DO MÉRITO. MANUTENÇÃO DA SENTENÇA. SUCUMBÊNCIA RECURSAL.
+1. O imóvel objeto da demanda não está devidamente individualizado perante o Registro de imóveis, o que permite manter a sentença de extinção da ação de adjudicação compulsória, por ausência de pressuposto de constituição e de desenvolvimento válido e regular do processo (art.
+485, inciso VI do CPC/15), uma vez que eventual decisão de procedência se tornaria inexequível.
+2. No caso, trata-se de uma área com 12ha, cujo imóvel da parte autora é mero desmembramento do todo maior, o que denota parcelamento irregular do solo.
+3. O art. 85, §11º do CPC/15 estabelece que o Tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal.
+4. Sucumbência recursal reconhecida e honorários fixados em prol do procurador da parte demandada majorados.
+NEGARAM PROVIMENTO AO APELO.
+Não foram opostos embargos de declaração.
+No recurso especial, além de divergência jurisprudencial os recorrentes apontam violação aos artigos 1416 e 1418, do Código Civil; 15 e 16, § 2º do Decreto-Lei nº 58/1937, sustentando o cabimento da adjudicação compulsória, apesar de não existir a individualização do bem perante o registro de imóveis, visto que "a ação de adjudicação possui o escopo de suprir a omissão do promitente vendedor, pessoa capaz de promover o parcelamento do solo no ofício registral".
+Aduz que "a decretação de extinção do feito por ausência de interesse processual revela-se equivocada, pois o processo se desenvolveu "inclusive com a realização de audiência para a oitiva de testemunhas" e, "em sendo matéria de direito, caberia o reconhecimento da ausência de interesse processual em momento anterior a audiência".
+Contrarrazões apresentadas.
+O recurso especial foi admitido na origem.
+Assim delimitada a controvérsia, passo a decidir.
+Destaca-se que a decisão recorrida foi publicada após a entrada em vigor da Lei 13.105 de 2015, estando o recurso sujeito aos requisitos de admissibilidade do Código de Processo Civil/2015, conforme Enunciado Administrativo 3/2016 desta Corte.
+O recurso não merece prosperar.
+Inicialmente importa destacar que o interesse processual é matéria de ordem pública, que pode ser analisada a qualquer tempo, não havendo nenhum óbice legal para que ele seja reconhecido após a fase probatória. Nesse sentido "a jurisprudência do STJ é firme no sentido de que a matéria relativa às condições da ação - legitimidade, interesse processual (interesse de agir) e possibilidade jurídica do pedido -, por configurarem matéria de ordem pública, comportam apreciação a qualquer tempo e grau de jurisdição, não estando, portanto, sujeitas à preclusão" (AgRg no REsp 1444360/SE, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe 22/5/2014).
+Ao solucionar a controvérsia, o Tribunal de origemassim dispôs:
+No presente caso, pretende a parte demandante a adjudicação de uma fração ideal de 2ha, localizados dentro de um todo maior de 12 hectares, conforme matrícula nº 5019 do Registro de Imóveis da 3ª Zona de Porto Alegre (fls. 14/17), ou seja, ainda não individualizados no Registro de Imóveis, o que obsta a pretensão.
+E, no caso, trata-se de uma área com 12ha e 8.030m, cujo imóvel da parte autora (2ha) é mero desmembramento do todo maior, o que denota parcelamento irregular do solo.
+De efeito, é pacífico, nesta Corte, o entendimento de que, ausente a regularidade do registro imobiliário, a ação de adjudicação compulsória deve ser extinta, sem resolução de mérito.
+Nesse passo, muito embora a parte apelante sustente haver possibilidade de deferimento de seu pedido, por já ter quitado o preço ajustado pelo bem, e mesmo tendo citada por edital a parte demandada, deve ser mantida a extinção da ação de adjudicação compulsória, em razão da ausência de individualização do imóvel.
+ ..
+Inexistindo o registro de toda a área, com a devida individualização, não se mostra possível o acolhimento do pedido, porquanto romperia a cadeia dominial conforme mencionado pelo julgador singular, uma vez que o primeiro registro a ser lançado não guardaria sequência com o último.
+Ademais, não se discute da validade, existência ou eficácia do contrato havido, eis que esse argumento não serve para resolver a lide, inclusive a questão perpassa pela correta individualização do imóvel para fins de ensejar a adjudicação do imóvel. E, eventual precedente citado no apelo (fls.219/220), condiz com situação diversa da descrita nos autos.
+Desta forma, não há falar em comprovação da vontade das partes quando da celebração do contrato de compra e venda, considerando que é imprescindível que o imóvel esteja individualizado para que possa ser efetuada a adjudicação compulsória.
+Tampouco prevalece a tese de impossibilidade de defesa dos apelantes frente a outros credores da parte demandada, argumento este que não pode ser tomado para fins de acolhimento do pedido. Ainda que haja outras restrições de ordem judicial na matrícula do todo maior (fls. 14/17) poderão os promitentes compradores resguardarem a sua parte/fração mediante apresentação de defesa cabível, se for o caso de venda/alienação judicial, via embargos de terceiros.
+Com efeito, o recurso especial esbarra no óbice das Súmulas 7/STJ e 83/STJ, porquanto o acórdão recorrido está em consonância com a jurisprudência do STJ, e para a sua modificaçãoseria necessário o reexamedas provas, e dos fatos já analisados, providência vedada em sede de recurso especial.
+A propósito, conforme apontou o acórdão recorrido:
+RECURSOS ESPECIAIS. REGISTROS PÚBLICOS. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. AÇÃO ANULATÓRIA DE NEGÓCIO JURÍDICO DE COMPRA E VENDA DE IMÓVEL. AÇÃO DE DESPEJO COM RECONVENÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. ART. 535 DO CPC/1973. NÃO OCORRÊNCIA. CONTRATO DE COMPRA E VENDA. IMÓVEL. DESMEMBRAMENTO. AVERBAÇÃO. NECESSIDADE. MATRÍCULA INDIVIDUALIZADA. AUSÊNCIA. REGISTRO DO TÍTULO. IMPOSSIBILIDADE JURÍDICA. ADJUDICAÇÃO COMPULSÓRIA. AÇÃO. CONDIÇÃO. COAÇÃO. FALTA DE PAGAMENTO DO PREÇO. ALEGAÇÃO. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Os recursos especiais têm origem em três ações (ação de adjudicação compulsória, ação de anulação de negócio jurídico de compra e venda de imóvel e ação de despejo com reconvenção) julgadas em sentença única.
+3. As questões controvertidas nos presentes recursos especiais podem ser assim resumidas: (i) se o acórdão recorrido padece de vício de nulidade por negativa de prestação jurisdicional; (ii) se a ausência de averbação do desdobro do imóvel prometido à venda no Registro de Imóveis é obstáculo à procedência da ação de adjudicação compulsória; (iii) se o negócio jurídico de compra e venda está viciado pela coação e (iv) se houve pagamento do preço pela venda do imóvel objeto do contrato.
+4. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+5. A averbação do desmembramento do imóvel urbano, devidamente aprovado pelo Município, é formalidade que deve anteceder qualquer registro da área desmembrada.
+6. A existência de imóvel registrável é condição específica da ação de adjudicação compulsória.
+7. No caso dos autos, o desmembramento do terreno não foi averbado na matrícula do imóvel, condição indispensável para a procedência da ação de adjudicação compulsória.
+8. A inversão das conclusões das instâncias de cognição plena - quanto às alegações de coação e de ausência de pagamento do preço - demandaria o reexame de matéria fático-probatória, procedimento inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+9. Recursos especiais não providos.
+(REsp 1851104/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 18/5/2020).
+CIVIL. PROCESSUAL CIVIL. CONTRATO DE PROMESSA DE COMPRA E VENDA DE PARCELA DE GLEBA RURAL NÃO DESMEMBRADA. AUSÊNCIA DE MATRÍCULA INDIVIDUALIZADA. AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA. IMPOSSIBILIDADE JURÍDICA DO REGISTRO DO TÍTULO. CARÊNCIA DE AÇÃO DECLARADA. RECURSO NÃO PROVIDO.
+1. Na ação de adjudicação compulsória, o ato jurisdicional, para ser exequível, deve reunir todas as exigências previstas na Lei de Registros Públicos, e nas demais ordenadoras do parcelamento do solo, a fim de facultar o registro do título no cartório respectivo.
+2. Detectada, no caso concreto, a impossibilidade jurídica do pedido de registro, haja vista a falta de prévia averbação do desmembramento de gleba rural originária, e posteriores aberturas de matrículas individualizadas das glebas desvinculadas e prometidas à venda pelo réu. Ausente, portanto, de uma das condições específicas da ação de adjudicação compulsória, na dicção do art. 16, § 2º, do Decreto-lei n. 58/1937 - existência de imóvel registrável.
+3. Recurso especial a que se nega provimento.
+(REsp 1297784/DF, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 24/9/2014).
+PROMESSA DE VENDA E COMPRA. ADJUDICAÇÃO COMPULSÓRIA. FALTA DE INDIVIDUALIZAÇÃO DO IMÓVEL. IMPOSSIBILIDADE JURÍDICA DO PEDIDO. CONSTITUI UMA DAS CONDIÇÕES ESPECÍFICAS DA AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA A INDIVIDUALIZAÇÃO DO IMÓVEL OBJETO DO PEDIDO. SEM TAL REQUISITO, TORNA-SE INEXEQUÍVEL O JULGADO QUE PORVENTURA A DEFIRA. RECURSO ESPECIAL CONHECIDO E PROVIDO. (REsp 51.064/CE, Rel. Ministro BARROS MONTEIRO, QUARTA TURMA, DJ 19/8/1996, p. 28485).
+Em face do exposto, nego provimento ao recurso especial.
+Deixo de majorar os honorários advocatícios nos termos do art. 85, § 11, do CPC/15, diante de sua fixação no patamar máximo pelas instâncias de origem.
+Intimem-se.
