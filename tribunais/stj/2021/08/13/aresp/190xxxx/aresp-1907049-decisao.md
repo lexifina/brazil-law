@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo apresentado por ESTADO DO AMAZONAS contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim resumido:
+MANDADO DE SEGURANÇA COLETIVO DIREITO ADMINISTRATIVO PROMOÇÃO DE PRAÇAS À PATENTE DE 2º TENENTE REALIZAÇÃO DE CURSO DE HABILITAÇÃO DE OFICIAIS DA ADMINISTRAÇÃO AUTORIZAÇÃO DO COMANDO INDISPENSÁVEL CURSO FREQUENTADO PELOS REPRESENTANTES DO IMPETRANTE SEM A DEVIDA AUTORIZAÇÃO PROMOÇÃO CONCEDIDA A OUTROS POLICIAIS FORMADOS NO MESMO CURSO SEM AUTORIZAÇÃO REGRA CONSTITUCIONAL DA IGUALDADE SEGURANÇA CONCEDIDA EFEITOS MODULADOS
+Alega o recorrente violação do art. 1.022, II, do CPC, porque omisso o acórdão recorrido em relação à inconstitucionalidade do art. 25 da Lei Estadual n. 4.044/2014, trazendo os seguintes argumentos:
+Em sede de Embargos de Declaração, o Estado do Amazonas requereu manifestação sobre relevante questão de ordem pública, qual seja, a de que o artigo 25 da Lei nº 4044/14, que fundamenta o pedido de promoção objeto do presente Mandado de Segurança é inconstitucional.
+É que a segurança foi concedida por terem sido considerados atendidos os requisitos legais do artigo 25 da Lei nº 4044/2014, sem ter sido analisada, entretanto, a constitucionalidade do dispositivo.
+Com efeito, como é notório, é dever do Judiciário analisar de ofício a constitucionalidade da legislação que aplica.
+No caso concreto, a inconstitucionalidade do referido dispositivo é patente, eis que permite que um policial integrante do quadro de praça combatente mude para o quadro de oficial administrativo, sem a realização de concurso público, em clara ofensa ao disposto no artigo 37 da CF/88. (fls. 507/508).
+É de se ver, ainda, que no dia 11/02/2020 foi ajuizada pelo Ministério Público do Estado do Amazonas a ADI nº 4000854-40.2020.8.04.0000, com pedido de liminar, em que se pleiteia a declaração de inconstitucionalidade do artigo 25 da Lei nº 4044/14.
+Apesar de tudo que foi exposto, os aclaratórios foram rejeitados, subsistindo a omissão no Acórdão que concedeu a segurança para conferir direito aos Imperantes no sentido de que sejam beneficiados com promoção fundamentada em dispositivo flagrantemente inconstitucional (artigo 25 da Lei nº 4044/14, in casu).
+Faz-se necessário, assim, novo julgamento da lide, vez que violado o art. 1022, II, do Código de Processo Civil. (fls. 510).
+É, no essencial, o relatório. Decido.
+Na espécie, a alegação de nulidade do acórdão recorrido, porquanto deixou de apreciar questão de natureza constitucional, refoge à competência do Superior Tribunal de Justiça.
+Com efeito, a jurisprudência desta Corte fixou-se no sentido de "não caber ao STJ, com vistas a examinar suposta ofensa ao art. 535 do CPC/73, aferir a existência ou não de omissão no Tribunal de origem acerca de matéria constitucional, sob pena de usurpação da competência do STF". (AgInt nos EAREsp n. 731.395/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 9/10/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.679.519/SE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 26/4/2018; AREsp 1.303.124/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 26/9/2019; REsp 1.825.790/RS, relator Ministro Herman Benjamin, Segunda Turma, DJe de 29/10/2019; REsp 1.601.539/RJ, relatora Ministra Nancy Andrighi, Terceira Turma, REPDJe 18/3/2020, DJe de 25/11/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
