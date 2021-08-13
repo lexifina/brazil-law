@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de pedido de uniformização de interpretação de lei e jurisprudência apresentado por BRIGIDA DOS SANTOS PICOTO, com fundamento no art. 14, §1º,da Lei n. 10.259/2001, c/c os arts. 926, caput, e 927, V, do CPC/2015,contra acórdão prolatado pela 4ª Turma Recursal dos Juizados Especiais do Estado do Paraná, que desproveu recurso inominado interposto contra sentença de improcedência do pedido de indenização por dano moral advindo da interrupção do fornecimento dos serviços de água e de esgoto (e-STJ fls. 750/754).
+Eis a ementa do acórdão hostilizado (e-STJ fls. 751/752):
+SOCIEDADE DE ECONOMIA MISTA. SANEPAR. APLICAÇÃO DA TESE FIXADA NO IRDR 1.676.846-4. FALHA NO FORNECIMENTO DOS SERVIÇOS. FORTES CHUVAS.INUNDAÇÃO DA ESTAÇÃO DE CAPTAÇÃO DE ÁGUA QUE ABASTECE A CIDADE DE ROLÂNDIA. CASO FORTUITO E FORÇA MAIOR. EXCLUDENTES DE RESPONSABILIDADE.RÉ QUE REALIZOU A LOCAÇÃO DE POÇOS ARTESIANOS E DISPONIBILIZOU CAMINHÕES PIPA AOS MORADORES, A FIM DE ATENUAR OS DANOS.POR SENTENÇA DE IMPROCEDÊNCIA MANTIDA SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95. RECURSO CONHECIDO E NÃO PROVIDO.
+1. Caracteriza-se o caso fortuito quando o evento que impede o cumprimento da obrigação não era previsível a partir de diligência normal; e a força maior quando, apesar de previsível, o fato não podia ser evitado. No caso, as inundações oriundas de fortes chuvas que acarretaram prejuízos em estação de captação de abastecimento de água revelam a ocorrência de situação de força maior, capaz, por sua natureza, de excluir a responsabilização civil.
+2. A alegação de prazo não razoável para regularização do fornecimento não colhe, em razão da (i) ausência de comprovação do prazo para a regularização na situação especifica dos autos; (ii) dos comprovados intentos de ao menos amenizar a calamidade oficialmente reconhecida pelo ente público.
+3. Não havendo distinguishing a ser realizado quanto ao definido no IRDR 1.676.846-4, impõe-se, por imparcialidade argumentativa, a sua observância.
+4. Recurso conhecido e não provido.
+O requerente aponta, em síntese, interpretação diversa de outras turmas recursais do Tribunal de Justiça do Estado do Paraná, com relação ao reconhecimento da responsabilidade objetiva, nos termos do art. 14, caput, do CDC.
+Remessa dos autos ao STJ pela Presidência da Turma Recursal Reunida do Paraná (e-STJ fl. 817).
+Passo a decidir.
+O art. 14, § 4º, da Lei n. 10.259/2001 dispõe que o incidente de uniformização dirigido ao STJ é cabível contra acórdão da Turma Nacional de Uniformização que, apreciando questão de direito material, contrarie súmula ou jurisprudência dominante neste Sodalício.
+No caso, o incidente está amparado no §1º do referido preceito e aponta divergência entre Turmas da mesma Região, cujo julgamento é de competência das Turmas em conflito reunidas, sob a Presidência de Desembargador indicado pelo Tribunal de Justiça.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO PEDIDO DE UNIFORMIZAÇÃO DE INTERPRETAÇÃO DE LEI. CÓDIGO DE PROCESSO CIVIL DE 2015.APLICABILIDADE. INFRAÇÃO DE TRÂNSITO. DIVERGÊNCIA COM ENTENDIMENTO JURISPRUDENCIAL NÃO SUMULADO. AUSÊNCIA. NATUREZA DA AÇÃO. ASPECTO MATERIAL. INADEQUAÇÃO. DIVERGÊNCIA ENTRE TURMAS DO MESMO TRIBUNAL.INADEQUAÇÃO DO INSTRUMENTO. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I -Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II -A decisão combatida não confronta súmula desta Corte, razão pela qual o pedido em exame não há de ser conhecido.
+III -O pedido de Uniformização de Interpretação de Lei dirigido ao Superior Tribunal de Justiça não se presta ao reexame dos aspectos fáticos, mas apenas para dirimir divergência entre teses jurídicas atinentes ao direito material e contrárias à Súmula.
+IV -Inviável o conhecimento do pedido direcionado a esta Corte de Justiça quanto ao dissídio entre os órgãos do mesmo Estado, cujo julgamento compete às Turmas em conflito reunidas, sob a presidência de desembargador indicado pelo Tribunal de Justiça do Distrito Federal e Territórios.
+V -Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VI -Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII -Agravo Interno improvido.
+(AgInt no PUIL 1.459/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 30/06/2020, DJe 03/08/2020)
+Ante o exposto, determino a DEVOLUÇÃO dos autos ao Presidente da Turma Recursal Reunida dos Juizados Especiais do Paranápara julgamento do presente incidente como entender de direito.
+Publique-se. Intimem-se.
