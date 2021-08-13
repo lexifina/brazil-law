@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por MARIA ODETE BENTA DE LIMA contra a decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, aviado contra o acórdão assim ementado, in verbis:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. TRABALHADOR RURAL. APOSENTADORIA POR IDADE. AUSÊNCIA DE COMPROVAÇÃO DA CONDIÇÃO DE SEGURADO. DESCUMPRIMENTO DOS REQUISITOS DA LEI 8.213/91. IMPOSSIBILIDADE DE CONCESSÃO DO BENEFÍCIO.
+1. O benefício de aposentadoria por idade, disciplinado no art. 143 da Lei 8.213/91, exige a demonstração do trabalho rural, ainda que descontinuo, mediante início razoável de prova material, corroborada com prova testemunhal ou prova documental plena (Lei 8.213/1991, art. 55, § 3º e Súmulas 149 /STJ e 27/TRF da 1" Região), além de idade superior a 60 anos para homem e 55 anos para mulher (art. 48, § 1º).
+2. No caso dos autos, as provas apresentadas mostram-se insuficientes para a comprovação do exercício da atividade alegada, sob-regime de economia familiar, por tempo suficiente a cumprir a carência exigida em lei. Assim, correta a sentença que extinguiu o processo, sem resolução de mérito ou julgou improcedente o pedido, pois, segundo a nova orientação jurisprudencial do Superior Tribunal de Justiça, em recente julgamento submetido à sistemática dos recursos repetitivos para aplicação restrita às ações previdenciárias, "a ausência de conteúdo probatório eficaz a instruir a inicial, conforme determina o art. 283 do CPC, implica a carência de pressuposto de constituição e desenvolvimento válido do processo, impondo a sua extinção sem o julgamento do mérito (art. 267, IV do CPC), e a consequente possibilidade de o autor intentar novamente a ação (art. 268 do CPC), caso reúna os elementos necessários a tal iniciativa" (REsp n. 1.352.721-SP, Rel. Min. Napoleão Nunes Maia Filho, Corte Especial, julgado em 16/12/20 15, DJe 28/4/2016).
+3. Extinção do processo, sem resolução do mérito.
+4. Apelação prejudicada.
+No presente recurso especial, arecorrente indica como violados os arts. 11, VII, a, 48, §§ 1º e 2º, 55, § 3º, e 143, todos da Lei 8.213/91, e os arts 369 e 442, ambos do CPC/2015.
+Sustenta, em síntese, que foram coligidas provas suficientes para a comprovação do exercício da atividade rural, visando o reconhecimento da qualidade de segurado.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, se impõe o conhecimento do mesmo, passando ao exame do recurso especial interposto.
+O presente recurso não é cognoscível.
+Tendo em vista que o Tribunal a quo considerou insuficiente a prova coligida, observa-se que para o exame dos dispositivos legais apresentados pelo recorrente se faz impositivo o reexame do conjunto probatório, o que é indevido no âmbito do recurso especial. Incidência da súmula 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
