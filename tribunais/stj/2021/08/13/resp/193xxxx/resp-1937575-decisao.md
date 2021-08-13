@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARLENE DE LIMA, contra acórdão assim ementado (fl. 659):
+APELAÇÃO Embargos de Terceiro Sentença de procedência Recurso da embargada Alegação de fraude à execução Ocorrência Alienação de bem no curso de ação monitória Desnecessária a verificação da hipótese estampada na súmula 375, do C. STJ Sentença reformada Recurso provido.
+APELAÇÃO Embargos de Terceiro Sentença de procedência Recurso da embargante Pretensão que visa à majoração da verba honorária Recurso interposto sem recolhimento integral do preparo Determinado a complementação das custas Não atendimento Deserção configurada Recurso não conhecido.
+Em suas razões, a parte ora recorrente alega violação dos arts. 615-A e 659, § 4º, do Código de Processo Civil/1973; e 799, IX, 828 e 844 do Código de Processo Civil/2015arguindo afronta à sistemática dos recursos repetitivos ao afirmar, em síntese, a boa-fé presumida, não a má-fé. Aduz que "Somente o fato de não levantar certidões de distribuições" (fl. 694) não é o suficiente "para convencer os preclaros Desembargadores de que a compradora não agiu com boa-fé no momento da celebração do negócio jurídico e que, portanto, estaria caracterizada a fraude à execução" (fl. 748).
+O juízo de admissibilidade entendeu pela admissão do especial com base na interpretação dada ao Tema 243/STJ.
+Passo a decidir.
+Com razão a recorrente.
+O Tribunal de origem, ao julgar a apelação, entendeu que configurada a fraude à execução, assim se pronunciando (fl. 662):
+(..) não pode a apelada alegar que estava de total boa-fé quando da celebração da avença com os alienantes. Isto, pois agiu com total descuido quando da celebração da compra do referido imóvel, sem requerer certidões de distribuição em nome dos executados, o que lhe possibilitaria saber que este possuía ação de conhecimento em curso desde 1999.
+Em outras palavras, na medida em que a parte dispensou uma cautela básica da aquisição de bem imóvel, qual seja a apresentação das certidões nos distribuidores cíveis locais, por certo assumiu os riscos decorrentes dessa decisão, inclusive o de vir a perder o bem em razão da fraude à execução verificada.
+Assim, em que pese não se tenha sido averbada qualquer restrição no imóvel em tela, ao tempo da alienação havia ação contra os vendedores, hipótese do art. 593, II, CPC/73, atual 792, II CPC/15, de modo a caracterizar a fraude à execução.
+Por outro lado, a sentença consideroutratar-se, o caso dos autos, de fraude contra credores, nos seguintes termos (fls. 580/581):
+Assim, a credora/embargada decaiu do direito de pleitear a anulação da referida compra e venda.
+Por outro lado, não se pode reconhecer que a transferência do imóvel foi feita em fraude à execução e que, por isso, o ato é absolutamente nulo, o que inviabilizaria o reconhecimento da decadência.
+Isso porque é pacífico na doutrina e na jurisprudência que os atos praticados em fraude à execução são ineficazes perante o credor, mas não são nulos, e não houve reconhecimento judicial da fraude à execução.
+Logo, não se tratando de ato nulo, o direito de anulação dos registros efetuados na matrícula do imóvel se submete ao prazo decadencial previsto no art. 178, inciso II do Código Civil.
+Esta Corte, no julgamento do Tema Repetitivo n. 243 determinou que "O reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula n. 375/STJ)".
+Destaque-se que, nos termos da jurisprudência sedimentada neste Superior Tribunal de Justiça, "A presunção de boa-fé é princípio geral de direito universalmente aceito, sendo milenar a parêmia: a boa-fé se presume; a má-fé se prova (REsp 956.943/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro JOÃO OTÁVIO DE NORONHA, Corte Especial, j. 20/8/2014, DJe 1º/12/2014).
+Ao analisar os julgados proferidos na sentença e no acórdão recorrido e, considerando o que devidamente transcrito neste último, não se pode afirmar que comprovada a má-fé da parte ora recorrente, o que afasta o cumprimento da exigência contida no enunciado da Súmula 375/STJ e no Tema Repetitivo n. 243. A contrario sensu:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIROS. TEMPESTIVIDADE. TERMO INICIAL A PARTIR DO ESBULHO OU TURBAÇÃO. TERCEIRO QUE NÃO TINHA CIÊNCIA DO PROCESSO. SÚMULA 83/STJ. FRAUDE À EXECUÇÃO. NÃO OCORRÊNCIA. AUSÊNCIA DE MÁ-FÉ DO TERCEIRO ADQUIRENTE. REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+1. O termo inicial do prazo para opor embargos de terceiros inicia-se a partir do esbulho ou turbação, na hipótese de o terceiro não ter ciência da execução, como ocorre na presente hipótese. Precedentes.
+2. Conforme Tema Repetitivo n. 243: "O reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente (Súmula n. 375/STJ)."
+3. No caso em apreço, o eg. Tribunal de origem, com fundamento nas provas documentais trazidas aos autos, concluiu que o terceiro adquirente não agiu de má-fé.
+4. A modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a Súmula 7 deste Pretório.
+5. Agravo interno provido para reconsiderar a decisão agravada, e, em novo exame, conhecer do agravo para negar provimento ao recurso especial.
+(Quarta Turma, AgInt no AREsp 1.595.423/MG, Rel. Ministro RAUL ARAÚJO, unânime, DJe de 1º.7.2020)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especialpara restabelecer a sentença de fls. 578/582.
+Intimem-se.
