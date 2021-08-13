@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de petição apresentada por ROBERTO ANASTÁCIO DE LIMA às fls. 482/485, na qual requer a suspensão do presente feito até o pronunciamento definitivo desta Corte Superior em recurso repetitivo que debate a mesma questão de direito.
+É, no essencial, o relatório. Decido.
+Inicialmente, quanto ao pedido de suspensão do feito em razão da afetação do tema discutido nestes autos ao rito dos recursos repetitivos, verifica-se que já houve decisão pelo não conhecimento do agravo em recurso especial, ante a ausência de impugnação específica dos fundamentos de inadmissão do recurso especial, decisão esta já publicada no Dje (fls. 481).
+Sendo assim, o fato de a controvérsia de mérito porventura discutida nestes autos ter sido afetada à sistemática dos recursos repetitivos não impede a análise de recurso que sequer preenche os requisitos de admissibilidade recursal (AgInt no AREsp 1521318/DF, Rel. Ministro Marco Aurélio Bellize, Terceira Turma, julgado em 16/03/2020, DJe 20/03/2020).
+Nesse mesmo sentido:
+ADMINISTRATIVO. PROCESSUAL CIVIL. FORNECIMENTO DE MEDICAMENTOS. AFETAÇÃO DO TEMA À PRIMEIRA SEÇÃO EM RECURSO ESPECIAL REPETITIVO. RECURSO MANIFESTAMENTE INADMISSÍVEL. SOBRESTAMENTO. DESNECESSIDADE. VIOLAÇÃO DO ART. 535 DO CPC. DEFICIÊNCIA DE FUNDAMENTAÇÃO. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. FALTA DE PREQUESTIONAMENTO. SÚMULA 282 DO STF. MULTA DIÁRIA. ART. 461, § 4º, DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1 - O fato de a questão de mérito ter sido afetada a julgamento pela Primeira Seção pela sistemática do art. 543-C do CPC não obsta a pronta negativa de seguimento de recurso especial que sequer ultrapassa a barreira de admissibilidade recursal, hipótese dos autos.
+2 - É deficiente a fundamentação do especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+3 - A tese jurídica debatida no recurso especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+4 - A jurisprudência do STJ orienta-se no sentido de que, em regra, não se mostra possível em recurso especial a revisão do valor fixado a título de multa diária (astreintes) pelo descumprimento de decisão judicial, pois tal providência igualmente exigiria incursão na seara fático-probatória dos autos, atraindo a incidência da Súmula 7/STJ.
+5 - Agravo regimental a que se nega provimento. (AgRg no AREsp n. 763.135/PE, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/11/2015.)
+Ante o exposto, considerando que o agravo em recurso especial sequer foi conhecido, indefiro o requerimento de suspensão do processo.
+No mais, como o pedido não tem o condão de interromper ou suspender o prazo para o recurso cabível, certifique-se o trânsito em julgado da decisão de fls. 478/480, e após, sejam os autos baixados à origem pra as providências cabíveis.
+Publique-se. Intimem-se.
