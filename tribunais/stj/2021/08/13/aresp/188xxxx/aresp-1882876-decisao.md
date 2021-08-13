@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal eincidência da Súmula n. 7 do STJ (e-STJ fls. 920/921).
+O acórdão recorrido está assim ementado (e-STJ fl. 882):
+PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS. Programa "Uniesp Paga". Ação de obrigação de fazer e indenização por danos morais. Legitimidade do Banco do Brasil. Contratos coligados. Contrato de abertura de crédito de financiamento estudantil. Agente financeiro que se arrogou da incumbência da cobrança de débitos em atraso. Litisconsórcio passivo necessário. FNDE. Inocorrência. Demanda que não versa sobre regras instituídas sobre o FIES, não se discutindo os termos do contrato, mas apenas sua exigibilidade. Comprovação da contratação sequer demonstrada em primeiro grau. Ciência do autor acerca das condições do contrato. Disposições claras e expressas quanto às obrigações do beneficiário. Autor que sequer demonstrou a conclusão do curso superior. Documentos que demonstram o descumprimento da obrigação de "excelência no rendimento escolar e frequência às aulas". Danos morais não configurados. Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 896/907), fundamentado no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 421,423,427 e 429 do CC/2002 e 6º, I, III e VIII,30,31,35, I,37,46, 47 e 51, IV e XV, do CDC, sustentando, em síntese, "na condição de consumidor, a presunção de que teve violado direitos básicos de consumo estabelecidos na lei, pelo que lhe assiste o direito de pleitear que as IES cumpram com o que prometido na propaganda, especialmente que garanta o pagamento das prestações do FIES e a indenize pelos danos sofridos, que no caso restou caracterizado pela falha na prestação de serviços e pelas graves consequências advindas" (e-STJ fl. 907).
+No agravo (e-STJ fls. 924/930), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta(e-STJ fls. 933/935).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 890):
+Ressalte-se que, ante o exposto, não se verifica verossimilhança nas alegações do autor, que afirmou ter cumprido o contrato e sido surpreendida pelo inadimplemento das rés.
+Nesse contexto, ainda que a relação existente entre as partes seja de consumo, na medida em que o autor tinha conhecimento deque deveria atender aos requisitos especificados no contrato para ter direito ao pagamento do financiamento estudantil pelas rés, mas não atendeu a todos eles, impunha-se o não acolhimento dos pedidos relativos a tal obrigação.
+Fica assim mantida a rejeição dos pedidos iniciais quanto à condenação das rés no ressarcimento dos prejuízos materiais sofridos e na obrigação de quitar todo o débito decorrente do FIES a que aderiu a autora junto ao Banco do Brasil.
+Por consequência, por inexistir conduta ilícita por parte dos réus, fica rejeitado o pedido de condenação ao pagamento de indenização por danos morais.
+Dissentir das conclusões do acórdão impugnado e reconhecer a existência de propaganda enganosa ou de deficiência no dever de informaçãoimplicaria análise das cláusulas contratuais e reexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto nas Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
