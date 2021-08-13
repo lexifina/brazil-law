@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, impetrado em face de acórdãoassim ementado (fl. 155):
+HABEAS CORPUS - TRÁFICO DE DROGAS - NEGATIVA DE AUTORIA - IMPOSSIBILIDADE DE ANÁLISE NESTA VIA- REVOGAÇÃO DA PRISÃO PREVENTIVA - INVIABILIDADE - PRESENÇA DOS REQUISITOS DO ARTIGO 312 DO CÓDIGO DE PROCESSO PENAL - PRISÃO FUNDAMENTADA NA GARANTIA DA ORDEM PÚBLICA E NO RISCO DE REITERAÇÃO DELITIVA - CONDIÇÕES PESSOAIS FAVORÁVEIS -INSUFICIÊNCIA - PANDEMIA CAUSADA PELO NOVO CORONAVÍRUS -POLÍTICAS PÚBLICAS JÁ ADOTADAS PARA CONTENÇÃO DA DISSEMINAÇÃO DA DOENÇA - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. A negativa de autoria ou a desclassificação para crime menos grave pressupõe análise de mérito e necessária incursão probatória, o que é inviável na via estreita. Não há ilegalidade na decretação da prisão preventiva quando demonstrado, com base em fatos concretos, que a segregação é necessária para acautelar a ordem pública, principalmente diante da gravidade concreta da conduta, em tese, praticada pelo paciente. As condições pessoais favoráveis do paciente, por si sós, não obstam a manutenção da prisão preventiva. A revogação da prisão preventiva de todos os presos provisórios por causa da pandemia causada pelo novo coronavírus vai de encontro à recomendação da OMS de isolamento social e coloca em risco a paz social.
+O recorrente foi preso em flagrante, convertido em preventiva, como incurso no art. 33 da Lei n. 11.343/2006.
+A defesa alega, em síntese, que se trata de usuário, e que apenas lhe pertencia a pequena porção de droga encontrada em seu poder; os demais entorpecentes, bem como as armas, encontrados dentro da residência em cuja frente o recorrente foi abordado, não lhe dizem respeito.
+Aduz condições pessoais favoráveis eausência dopericulum libertatis.
+Liminarmente e no mérito, busca a revogação da custódia.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal opinou pelaprejudicialidade do recurso.
+Segundo as informações prestadas, "O feito teve seu regular andamento e aos fundamentos expostos na sentença que envio em anexo, o paciente foi condenado apenas nas iras do artigo 28 da Lei nº 10.826/03, sendo absolvido dos crimes previstos nos artigos 14, caput, e 16, caput, da Lei nº 10.826/03, oportunidade em que foi determinada sua soltura" (fl. 322).
+Ante o exposto, julgo prejudicado o recurso em habeas corpus.
+Publique-se.
+Intimem-se.
