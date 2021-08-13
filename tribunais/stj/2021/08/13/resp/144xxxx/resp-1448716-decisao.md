@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto peloESTADO DE MINAS GERAIS, com respaldo nasalíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça daquela unidade da Federaçãoassim ementado (e-STJ fl. 221):
+DIREITO ADMINISTRATIVO - SERVIDOR PÚBLICO ESTADUAL - CONTRATAÇÃO TEMPORÁRIA - DÉCIMO TERCEIRO SALÁRIO, FÉRIAS E TERÇO CONSTITUCIONAL - VERBAS DEVIDAS A TODO TRABALHADOR.
+- Compete ao ente público o pagamento da contra prestação ao servidor contratado temporariamente que tenha prestado o serviço, independentemente da existência de ilegalidade na contratação, sob pena de configurar-se o enriquecimento ilícito da Administração.
+- O 13.º salário e as férias são garantias constitucionais concedidas a todos os servidores, integrando a remuneração do trabalho em regime temporário, nos termos do art. 39, § 3.º, da Constituição Federal de 1988.
+Rejeitados os aclaratórios (e-STJ fls. 241/245).
+Nas suas razões, a parte recorrente apontaviolaçãodos arts. 219, 475, I, do CPC/1973 e 5º da Lei n.11.906/2009, bem como da Súmula 45 do STJ,sustentainexistênciade pedido respeitante aos juros de mora e questionao índice aplicado, bem como a necessidade de suaincidência somente após a citação.
+Contrarrazões às e-STJ fls. 276/280.
+Juízo positivo de admissibilidade parcial pelo Tribunal de origem à e-STJ fls. 339/343; no tocante à matéria repetitiva, a inadmissão se deu com fundamento no art. 1.040, I, do CPC/2015.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+Feita essa consideração, observa-se que a irresignação recursal não merece prosperar.
+Nopertinente às matérias não abrangidas pelainadmissãocom fundamento no art. 1.040, I, do CPC/2015,no que toca ao termo inicial dos juros moratórios, adiante-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente, o que não ocorreu no particular.
+Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF: "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+No mais,o STJ entende que os juros de mora e a correção monetária integram os chamados pedidos implícitos, razão pela qual sua alteração não configura julgamento extra ou ultra petita (REsp 1.865.035/PE, Rel. Ministro MAURO CAMPBELL MARQUES, Segunda Turma, julgado em 16/06/2020, DJe 25/06/2020; AgInt no REsp 1.551.390/RS, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 09/03/2020, DJe 12/03/2020).
+Por igual motivo, também não se sujeitam à preclusão (AgInt no REsp 1.874.050/RS, Rel. Ministro OG FERNANDES, Segunda Turma, julgado em 23/11/2020, DJe 01/12/2020; AgRg no AREsp 132.418/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Primeira Turma, julgado em 18/10/2016, DJe 26/10/2016), também não havendo que falar em reformatio in pejus (AgInt nos EDcl no REsp 1840583/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/09/2020, DJe 24/09/2020; AgInt no REsp 1742460/CE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 14/09/2020, DJe 18/09/2020.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE SENTENÇA. JUROS DE MORA. CORREÇÃO MONETÁRIA. MATÉRIAS DE ORDEM PÚBLICA. NATUREZA PROCESSUAL. APLICAÇÃO IMEDIATA AOS PROCESSOS EM CURSO. COISA JULGADA. NÃO VIOLAÇÃO.
+1. É firme o entendimento nesta Corte, no sentido de que "a aplicação de juros e correção monetária pode ser alegada na instância ordinária a qualquer tempo, podendo, inclusive, ser conhecida de ofício. A decisão nesse sentido não caracteriza julgamento extra petita, tampouco conduz à interpretação de ocorrência de preclusão consumativa, porquanto tais institutos são meros consectários legais da condenação" (AgInt no REsp 1353317/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 3/8/2017, DJe 9/8/2017).
+2. No que diz respeito aos juros de mora, a Corte Especial do Superior Tribunal de Justiça assentou a compreensão de que a alteração do artigo 1º-F da Lei 9.494/1997, introduzida pela Medida Provisória 2.180-35/2001, tem aplicação imediata aos processos em curso, incidindo o princípio do tempus regit actum.
+3. Ainda na linha de nossa jurisprudência, "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicadas no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/9/2015, DJe 25/9/2015).
+4. Agravo interno não provido.
+(AgInt no AREsp 1.696.441/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 23/02/2021, DJe 26/02/2021).
+Nesse aspecto, o aresto hostilizado não diverge daorientação aludida.
+Assim, aplica-sena hipótesea Súmula 83 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
