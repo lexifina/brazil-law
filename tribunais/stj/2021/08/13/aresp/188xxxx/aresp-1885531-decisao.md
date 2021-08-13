@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 83 do STJ (e-STJ fls. 349/353).
+O acórdão recorrido está assim ementado (e-STJ fls. 277/278):
+EMENTA: APELAÇÃO CÍVEL. LAUDÊMIO. ENFITEUSE. COBRANÇA A MAIOR. BASE DE CÁLCULO. VALOR DO TERRENO. EXCESSO CONFIGURADO. RESTITUIÇÃO. CABIMENTO. MANUTENÇÃO DA SENTENÇA. Preliminares: Rejeição. Prazo para a cobrança da taxa de ocupação e de laudêmio é de cinco anos. Resp 1.133.696/PE: "(..) Em síntese, a cobrança da taxa in foco, no que tange ã decadência e à prescrição, encontra-se assim regulada: (a) o prazo prescricional, anteriormente ã edição da Lei 9.363/98, era qüinqüenal, nos termos do art. 1e, do Decreto 20.910/32; (b) a Lei9.6366/98, em seu art.477, institui a prescrição qüinqüenal para a cobrança do aludido crédito; (c) o referido preceito legal foi modificado pela Lei 9.8211/99, que passou a vigorar a partir do dia 24 de agosto de 1999, instituindo prazo decadencial de cinco anos para constituição do crédito, mediante lançamento, mantendo se, todavia, o prazo prescricional qüinqüenal para a sua exigência; (d) consectariamente, os créditos anteriores ã edição da Lei n. 9.821/99 não estavam sujeitos ã decadência, mas somente a prazo prescricional de cinco anos (art. 1e do Decreto ne 20.910/32 ou 47 da Lei n.9.636/98); (e) com o advento da Lei 10.8522/2004 , publicada no DOU de 30 de março de 2004, houve nova alteração do art.477 da Lei9.6366/98, ocasião em que foi estendido o prazo decadencial para dez anos, mantido o lapso prescricional de cinco anos, a ser contado do lançamento. (..)" Ilegitimidade ativa. Rejeição. Autores que fizeram prova do encargo financeiro decorrente do pagamento do laudêmio, o que lhes confere legitimidade para questionar a correção do valor pago. Mérito: Apelante e questão de excesso de cobrança de laudêmio em Petrópolis já conhecidos pela jurisprudência deste tribunal. Alegações de respeito ao ato jurídico perfeito e reconhecimento da renúncia onerosa que não podem prosperar sobre a existência de cobrança excessiva e ilegal do valor. Pedido de letra "e", sobre a base de cálculo, que deve ser realizado em sede de cumprimento de sentença. Jurisprudência. Majoração dos honorários para 15%, observada a gratuidade. REJEIÇÃO DAS PRELIMINARES E DESPROVIMENTO DO RECURSO
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 297/301).
+Nas razões do recurso especial (e-STJ fls. 303/309), interposto com base no art. 105, III, "a", da CF, a recorrente apontou violação dos arts. 6º da LINDB e 2.035 do CC/2002, sustentando, em síntese, ser indevida a repetição do indébito pleiteado, devendo ser respeitado o ato jurídico perfeito em cujo contrato fora determinada forma de atribuição de valor diversa das contidas em alterações legislativas anteriores.
+No agravo (e-STJ fls. 377/382), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 387/390).
+É o relatório.
+Decido.
+Em relação à alegada violação do art. 6º da LINDB, a jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que a via dorecurso especial não é adequada para impugnar tal violação, devendo ser interposto, para tanto, o competente recurso extraordinário, por se tratar de matéria de índole constitucional. Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. PROCESSUAL CIVIL.PREVIDÊNCIA COMPLEMENTAR. EX-PARTICIPANTES. ANÁLISE DE VIOLAÇÃO DE DISPOSTIVO CONSTITUCIONAL. USURPAÇÃO DE COMPETÊNCIA. PRESCRIÇÃO DE 5 (CINCO) ANOS.
+1. Não cabe ao STJ, conforme a jurisprudência pacificada desta Corte, manifestar-se acerca de supostas violações de dispositivos constitucionais, sob pena de usurpação da competência do Supremo Tribunal Federal.
+2. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, com o advento da Constituição Federal de 1988, os princípios contidos na Lei de Introdução às Normas do Direito Brasileiro (LINDB) foram alçados a status constitucional, motivo pelo qual esta Corte não pode apreciar eventual violação do referido preceito.
+3. A ação de cobrança de parcelas de complementação de aposentadoria pela previdência privada, nos termos do enunciado n.º 291, da Súmula de Jurisprudência do STJ, prescreve em cinco anos, ressalvando-se o direito ao benefício.
+4. A Segunda Seção desta Corte Superior firmou o entendimento, inclusive em recurso especial repetitivo, de que o prazo quinquenal de prescrição se aplica tanto na cobrança de parcelas de complementação de aposentadoria (Súmula nº 291/STJ) quanto na pretensão a diferenças de correção monetária incidentes sobre a restituição da reserva de poupança, cujo termo inicial, nessa hipótese, é a data em que houver a devolução a menor das contribuições pessoais recolhidas pelo associado ao plano previdenciário.
+5. Não apresentação de argumentos novos capazes de infirmar os fundamentos que alicerçaram a decisão agravada.
+6. AGRAVO INTERNO CONHECIDO E DESPROVIDO.
+(AgInt no REsp n. 1750179/AM, RelatorMinistro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 8/3/2021, DJe 10/3/2021)
+No mais, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 281/287):
+O prazo para a cobrança da taxa de ocupação e de laudêmio é de cinco anos.
+(..)
+Quanto a ilegitimidade ativa, esta também deve ser rejeitada, pois os autores fizeram prova do encargo financeiro decorrente do pagamento do laudêmio, o que lhes confere legitimidade para questionar a correção do valor pago.
+No mérito, menos razão assiste ao apelante.
+Veja que o apelante e questão de excesso de cobrançade laudêmio em Petrópolis já são conhecidos pela jurisprudência deste tribunal.
+(..)
+As alegações de respeito ao ato jurídico perfeito e reconhecimento da renúncia onerosa não podem prosperar sobre a existência de cobrança excessiva e ilegal do valor.
+Não se discute o laudêmio, mas sim o valor cobrado e não há o que se discutir como má-fé se as partes teriam que pagar o valor cobrado para fechar o negócio.
+Já o pedido de letra "e", sobre a base de cálculo, deve ser realizado em sede de cumprimento de sentença.
+Oconteúdo doart.2.035 do CC/2002 não foi analisado pela Corte local. Incidente, portanto, a Súmula n. 211/STJ por falta de prequestionamento.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
