@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial, interposto por TELMOMAR NUNES MOREIRA, com fundamento no art. 105, III, "a" e "c", da Constituição Federal, contra acórdão do eg. Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (e-STJ, fl. 183):
+"APELAÇÃO CIVEL. ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. AÇÃO REVISIONAL.
+1. POSSIBILIDADE DE INCIDÊNCIA DE CAPITALIZAÇÃO MENSAL DE JUROS APÓS A EDIÇÃO DA MEDIDA PROVISÓRIA Nº 2.170/2001 E DESDE QUE EXPRESSAMENTE PACTUADA NO CONTRATO (RESP 973827/RS, J.27/06/2012). AINDA, AUSENTE ILEGALIDADE NA PACTUAÇÃO DE CAPITALIZAÇÃO DIÁRIA DE JUROS (AGRG NO RESP 1355139/SP, J.05/08/2014).
+2. A DESCARACTERIZAÇÃO DA MORA DEPENDE DO RECONHECIMENTO DA ABUSIVIDADE DOS ENCARGOS PREVISTOS PARA O PERÍODO DA NORMALIDADE.
+RECURSO PROVIDO."
+Nas razões do recurso especial, aponta a parterecorrente violação aos arts. 6º, 46, 47, 52, I a III, do CDC, 28, § 1º, I, da Lei 10.931/04,bem como divergência jurisprudencial, sustentando, em síntese, isto: (I) impossibilidade da capitalização diária de juros; (II) afastamento da mora debendi ante as irregularidades do contrato.
+É o relatório. Passo a decidir.
+Em relação à capitalização diária dos juros, a Segunda Seção desta Corte Superior consolidou o entendimento acerca do tema debatido no recurso especial, sob a sistemática dos recursos repetitivos, nos termos do acórdão assim ementado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC:
+- "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada."
+- "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (grifo nosso).
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido"
+(REsp 973.827/RS, Rel. p/ acórdão Ministra MARIA ISABEL GALLOTTI, DJe de 24/9/2012).
+Na espécie, o Tribunal de origem convergiu com o entendimento deste Superior Tribunal ao afirmar que:
+"Nos contratos de financiamento bancário, conforme estabelece o artigo 5º da Medida Provisória nº 2.170-36/2001 e o artigo 4º da MP 2.172-32, e em cédulas de crédito bancário (arts.28, §1º, I, e 29, V, da Lei nº 10.931/04), as instituições integrantes do Sistema Financeiro Nacionalestão autorizadas a capitalizar juros com periodicidade inferior a um ano, desde que o pacto seja firmado após 31/03/2000 e haja previsão contratual nesse sentido. Assim, não há falar em incidência do artigo 4º da Lei de Usura e da Súmula 121 do STF.
+Outrossim, nos termos da jurisprudência consolidada do E. Superior Tribunal de Justiça em sede de julgamento de incidente repetitivo (Recurso Especial n. 973827/RS, Quarta Turma, Rel. Min. Luis Felipe Salomão, julgado em 27/06/2012), a "previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada". Ainda, ausente ilegalidade na pactuação de capitalização diária de juros (AgRg no REsp 1355139/SP, j. 05/08/2014).
+Logo, ante a expressa previsão de capitalização de juros no ajuste, não há ilegalidade que determine a alteração judicial do contrato."
+Assim, o acórdão recorrido, ao afirmar que a capitalização diária dos juros é possível, está de acordocom a orientação consolidada neste Superior Tribunal de Justiça, que permite a capitalização dos juros em periodicidade inferior à anual, desde que celebrados a partir de 31/3/2000 e expressamente pactuada, não merecendo, portanto, reforma.
+No mesmo sentido, é o seguinte precedente:
+"EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. RECURSO ESPECIAL. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. SÚMULA 382/STJ. CAPITALIZAÇÃO DIÁRIA. MP 2.170-36/2001. APLICAÇÃO DA SÚMULA 83 DO STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Nos contratos bancários não se aplica a limitação da taxa de juros remuneratórios em 12% ao ano, sendo necessária a demonstração, no caso concreto, de que a referida taxa diverge de forma atípica da média de mercado para caracterização de abusividade em sua cobrança.
+2. A Segunda Seção, ao apreciar os recursos especiais 1.112.879/PR e 1.112.880/PR, entendeu que nos contratos celebrados após 31.3.2000, data da publicação da Medida Provisória 1.963-17, em vigência atual como MP 2.170-36/2001, e desde que expressamente pactuada, é admissível em período inferior a um ano.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento"
+(EDcl no REsp 1.455.536/SC, Rel. Ministra MARIA ISABEL GALLOTTI, DJe 1º/6/2015).
+Confira-se, a propósito, o seguinte trecho do decisum:
+"Quanto à capitalização dos juros, verifico que o acórdão recorrido declarou expressamente pactuada a capitalização diária dos juros, a qual, todavia, proibiu por se tratar de cobrança abusiva.
+Ocorre que os contratos discutidos nos autos são posteriores à Medida Provisória nº 2.170-36/2001, segundo a qual é admitida a capitalização de juros em periodicidade inferior a um ano em operações realizadas por instituições financeiras. Naturalmente, a capitalização diária se subsume na nova regra legal.
+Assim, é o caso de manter-se a validade da capitalização diária, expressamente contratada."
+No que toca à mora, verifica-se que, consoantepacíficajurisprudênciadesta C. Corte Superior de Justiça, a mora dodevedor é descaracterizadatão somente quando a abusividade decorrer dacobrança dos chamadosencargos do "período da normalidade" - jurosremuneratórios ecapitalização dos juros - (REsp nº1.061.530/RS, Rel.Min. NANCY ANDRIGHI,Segunda Seção, DJe 10/3/2009; AgRg no REsp nº1.115.213/RS, Rel. Min.VASCO DELLA GIUSTINA (Des. Convocado do TJRS), 3ªTurma, DJe 10/5/2010;EREsp nº 860.460/RS, Rel. Min. FERNANDO GONÇALVES,Segunda Seção, DJe22/5/2009).
+Diante do exposto, nego provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro oshonorários advocatícios devidos à parte recorrida de R$ 2.000,00 (dois milreais) para R$ 2.200,00 (dois mil e duzentos reais), ressalvada aconcessão do benefício da assistência judiciária gratuita.
+Publique-se.
