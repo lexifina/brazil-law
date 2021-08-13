@@ -1,0 +1,14 @@
+DECISÃO
+DIEVERSON MARCOS DA SILVAalega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão do Tribunal de Justiça do Estado do Rio Grande do Sulno Agravo em Execução n. 0140000-84.2016.8.21.7000.
+Consta dos autos que, no curso da execução penal, sobreveio a notícia de que o paciente, em livramento condicional, haveria cometido o crime descrito no art. 180, caput, do Código Penal, em 22/11/2015 (Processo n. 010/2.15.00157403). O Juízo das Execuções Criminais, de seu turno, "suspendeu o exame da falta grave referente à prática de fato previsto como crime doloso pelo apenado DIEVERSON MARCOS DA SILVA até o julgamento definitivo do novo processo criminal (fl. 1, grifei).
+Irresignado, o Ministério Público estadual interpôs agravo em execução perante o Tribunal de origem, que, ao dar parcial provimento ao recurso, determinou a imediata apreciação do fato criminoso, a fim de se apurar a incorrência ou não na falta grave.
+Sustenta a Defensoria Pública a ocorrência de constrangimento ilegal, pois "apenas com o devido procedimento administrativo disciplinar é que poderá ser reconhecida da falta grave" (fl. 2), além do que o STJ firmou entendimento quanto àimprescindibilidade do PAD - Procedimento Administrativo Disciplinar - para sua apuração no REsp. n. 1.378.557/RS e na Súmula 533.
+Pugna, por isso, a anulação do processo diante da ausência de instauração do PAD.
+A medida urgente foi indeferida (fls. 124-129).
+Decido.
+Ao denegar o pedido liminar, consignei que se trata, aqui,de cometimento de novo delito no curso da execução da pena, mas fora do estabelecimento prisional, falta grave cuja apuração, por conseguinte, não se encontra apenas no âmbito de atuação atinente ao diretor do presídio.
+Não bastasse isso, independentemente da instauração do processo administrativo disciplinar vindicado, houve,na ação penal em questão, a juntada de resposta àacusação e realização de audiência de instrução em 2/5/2016, momento, inclusive, em que foi concedidaao acusado a liberdade provisória, o que demonstra que o réu foi ouvido e teve oportunidade de apresentar defesa, finalidade maior, como visto, da imprescindibilidade de instauração prévia do procedimento administrativo, qual seja, o exercício do contraditório e da ampla defesa.
+Ademais, em consulta ao site do Tribunala quo(www.tjrs.jus.br), o gabinete verificou queo paciente foi condenado, em 7 de maio de 2018, nos autos do Proc. n. 010/2.15.0015740-3 (CNJ: 0054104-28.2015.8.21.0010), à pena de 2 anos e 6 meses de reclusão, a ser cumprida no regime semiaberto, pela prática do crime do art. 180, caput, c/c o art. 61, inciso I, ambos do Código Penal.
+Evidencia-se, portanto, a prejudicialidade do pedido aqui formulado.
+Àvista do exposto, julgoprejudicadoohabeascorpus, pela perda superveniente de seu objeto.
+Publique-se e intimem-se.
