@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de RAFAEL HENRIQUETEODORO DE PAULAcontra decisão de desembargador do Tribunal Regional Federal da 1ª Regiãoque indeferiu pedido liminar no HCn.1026497-34.2021.4.01.0000.
+Extrai-se dos autos que o paciente foi condenado à pena de 16 anos, 1 mês e 27 dias de reclusão, em regime inicial fechado, e ao pagamento de 2.098 dias-multa, pela prática do delito previsto no art. 33, caput, e35, c.c. art.40, I, ambosda Lei n. 11.343/2006 (tráfico de entorpecentes e associação para tráfico, com causa de aumento de pena), concedido o direito de recorrer em liberdade (fls. 975-1.005).
+Irresignada, a defesa interpôs recurso deapelação perante o Tribunal Regional, que encontra-se pendente de julgamento.
+No presente writ, o impetrante sustenta que "ao ser requerido ao juízo de piso a disponibilização do arquivo da mensagem de texto utilizadapara motivar a sentença, o D. Juiz a quo informou que o referido arquivo não existe" (fls. 13-14), sendo que o paciente e os seus patronos deveriam ter pleno acesso aos documentos originais.
+Assevera que "No presente caso, diante da confirmação da inexistência e falha de arquivos constantes na sentença utilizados para condenar o Paciente, depreende-se que, além da quebra da cadeia de custódia da prova, a r. decisão (Doc.11) não é constitucionalmente válida, fundamentada e eficaz, uma vez não ter sido preparada no âmbito do due process of law" (fl. 43).
+Pugna, assim, em liminar, pela suspensão dos efeitos da condenação do paciente até o julgamento do writ. No mérito, requer aconcessão da presente ordem de habeas corpus para declarar a invalidade da prova decorrente da interceptação telefônica e telemática, determinar o desentranhamento integral do material colhido nas interceptações edeclarar a nulidade da r. sentença que condenou o Réu Rafael Henrique Teodoro de Paula, com oconsequente trancamento da Ação Penal n. 0005229-48.2011.4.01.3602.
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ALEGADO SURGIMENTO DE NOVA PROVA. REVISÃO CRIMINAL. PEDIDO LIMINAR INDEFERIDO NA ORIGEM. PEDIDO DE SUSPENSÃO DA EXECUÇÃO DA PENA. INDEFERIMENTO LIMINAR DO HABEAS CORPUS. SUPERAÇÃO DA SÚMULA N. 691 DO SUPREMO TRIBUNAL FEDERAL. NÃO OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. "O ajuizamento da revisão criminal não obsta a execução da sentença condenatória, tendo em vista a ausência de efeito suspensivo" (AgRg no HC n. 391.687/PR, Rel. Ministro NEFI CORDEIRO, Sexta Turma, julgado em 18/4/2017, DJe de 26/4/2017).
+3. Na hipótese, a decisão que indeferiu o pedido liminar contido na Revisão Criminal não ostenta ilegalidade evidente e apta a desafiar o controle antecipado por este Superior Tribunal, pois, numa análise própria do pedido liminar, encontra-se suficientemente fundamentada.
+4. Esta Corte Superior, ademais, possui jurisprudência no sentido de que, quando a revisão criminal é ajuizada em vista do surgimento de novas provas ou de reconhecimento de falsas provas que fundamentaram a sentença condenatória, é necessário que este fato novo seja concreto e não apenas mero indício ou especulação, sob pena de violar o princípio da segurança jurídica.
+5. Agravo regimental improvido.
+(AgRg no HC 551.122/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 19/12/2019).
+Na hipótese, ao menos em juízo perfunctório, não vislumbro a possibilidade de superação do mencionado enunciado sumular. Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto e detectável de plano, de modo que a análise das alegações foi reservada ao colegiado.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da ação revisional pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se.
