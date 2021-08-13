@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por inexistência de violação de lei federal, incidência das Súmulas n. 5 e 7 do STJ e ausência de comprovação do dissenso jurisprudencial(e-STJ fls. 1.654/1.662).
+O acórdão recorrido está assim ementado (e-STJ fl. 1.484):
+APELAÇÃO CÍVEL. AÇÃO PELO PROCEDIMENTO ORDINÁRIO. PROMESSA DE COMPRAE VENDA. RESILIÇÃO DO CONTRATO PELO PROMITENTE COMPRADOR. POSSIBILIDADE. PREVISÃO CONTRATUAL EXPRESSA. COMISSÃO DE CORRETAGEM. POSSIBILIDADE DE COBRANÇA DO PROMITENTE COMPRADOR, DESDE QUE PREVISTA DE FORMA CLARA NO CONTRATO. ORIENTAÇÃO DO ÍNCLITO STJ. RETENÇÃO DE PARTE DO VALOR PAGO PELO PROMITENTE COMPRADOR. POSSIBILIDADE. RETENÇÃO DE 10%. ORIENTAÇÃO DO ÍNCLITO STJ. DESPROVIMENTO DO RECURSO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 1.531/1.534).
+Nas razões do recurso especial (e-STJ fls. 1.536/1.574), fundamentado no art. 105, III, "a" e "c", da CF, arecorrente alegou, além de divergência jurisprudencial, ofensa aos arts. 489 e 1.022 do CPC/2015, por negativa de prestação jurisdicional.
+Apontou contrariedade aos arts. 10, 355, I, 357 e 373 do CPC/2015, por cerceamento de defesa.
+Destacou violação dos arts. 389, 394, 413 e 884 do CC/2002, pois o acórdão teria reduzido, sem parâmetros claros, a cláusula penal avençada entre as partes.
+Afirmou desrespeito aos arts. 51 do CDC,32-A, § 1º, II, da Lei n. 6.766/1979, 473, parágrafo único, e 884 do CC/2002, por entender cabível a restituiçãode forma parcelada dos valores pagos pelo promitente comprador.
+Indicouafronta aos arts. 884 do CC/2002 e 67-A, III, da Lei n. 4.591/1964, pois seriadevida a retenção da taxa de ocupação.
+Defendeu ainda negativa dos arts. 489 e 1.022 do CPC/2015, argumentando a possibilidade de retenção dos valores pagos a título de comissão de corretagem.
+No agravo (e-STJ fls. 1.712/1.729), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 1.740/1.752).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Com relação ao alegado cerceamento de defesa, o TJRJ consignou que(e-STJ fl. 1.485):
+Destaco que as alegações de existência de error in procedendo alegadas pela recorrente e que em tese dariam azo à anulação da sentença, em verdade se confundem com o próprio mérito, revelando-se, caso constatadas, em error in judicando, mormente porque diriam respeito à comprovação do fato constitutivo do direito autoral, sendo, portanto, apreciadas por ocasião da análise do mérito recursal.
+Ao contrário do sustentado pela recorrente não é possível sereconhecer ofensa ao disposto no art. 373, I, do CPC, haja vista que a matéria se revela como matéria meramente de direito, eis que já resta pacificada junto ao Ínclito STJ a possibilidade de resolução pelo promitente comprador, resolução esta que caso ocorra em razão de culpa do promitente comprador permite apenas a retenção de parte do valor já pago.
+Dissentir das conclusões do acórdão impugnado e reconhecer a existência de cerceamento de defesaimplicariareexame do conjunto fático-probatório dos autos, o que é vedado em recurso especial, ante o disposto naSúmulan.7 do STJ.
+Quanto à cláusula penal, ajurisprudência do Superior Tribunal de Justiça tem considerado razoável que o percentual de retenção dos valores pagos pelo promitente comprador - que deu causa à rescisão contratual - seja arbitrado entre 10% (dez por cento) e 25% (vinte e cinco por cento), conforme as circunstâncias de cada caso.
+Para tanto, devem ser avaliados os prejuízos suportados, notadamente com "as despesas administrativas havidas com a divulgação, comercialização e corretagem, o pagamento de tributos e taxas incidentes sobre o imóvel e a eventual utilização do bem pelo comprador" (REsp n. 1.224.921/PR, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/4/2011, DJe 11/5/2011).
+O Tribunal de origem, soberano na análise do material cognitivo dos presentes autos, concluiu que o percentual de retenção de 10% (dez por cento) sobre os valorespagos bastaria para indenizar a recorrente pelos prejuízos oriundos da resilição contratual.
+Alterar tal entendimento exigiria o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede recursal, a teor da Súmula n. 7/STJ.
+No que se refere à devolução das parcelas adimplidas, a matéria ficou assim decidida(e-STJ fl. 1.486):
+No que tange ao pedido de parcelamento dos valores a serem devolvidos, lobrigo que não assiste razão à recorrente, eis que a Súmula supramencionada impõe o pagamento imediato dos valores devidos, valores estes que podem ser integrais ou parciais, não havendo ressalva na hipótese em que a devolução não seja integral.
+Adecisão recorrida está em consonância com a jurisprudência desta Corte, sedimentada no enunciado da Súmula n. 543 do STJ: "Nahipótese de resolução do contrato de promessa de compra e venda de imóvel submetido aoCódigo de Defesa do Consumidor, deve ocorrer a imediata restituição das parcelas pagaspelo promitente vendedor/construtor, ou parcialmente, caso tenha sido o comprador quem deucausa ao desfazimento".
+No que diz respeito à taxa de ocupação, a matéria não foi suscitada quando da interposição do recurso de apelação, razão pela qual o Tribunal de origem não estava obrigado a se manifestar sobre o tema.
+Para alterar ofundamentodo acórdão, de que houve ofensa ao dever de informação com relação à comissão de corretagem(e-STJ fl. 1.486), seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Em relação ao dissídio jurisprudencial, o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a recorrente não se desincumbiu.
+Além disso,a incidência da Súmula n. 7/STJ também inviabiliza o exame do recurso especial pela alínea "c" da norma autorizadora.
+Diante do exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20% (vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
