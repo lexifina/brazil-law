@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão do TJPB, o qual recebeu a seguinte ementa (e-STJ fls. 270/271):
+AGRAVO INTERNO. APELAÇÃO. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. CONTRATO DE EMPRÉSTIMO. AUSÊNCIA DE PROVA DA REGULARIDADE DO CONTRATO. DEPÓSITO DOS VALORES. NECESSIDADE DE COMPENSAÇÃO. FALTA DE COMPROVAÇÃO DOS FATOS DESCONSTITUTIVOS DO DIREITO DO AUTOR. NÃO DESINCUMBÊNCIA DO ONUS PROBANDI. ART. 6º, VIII, CDC, E ART. 373, II, CPC. NEGLIGÊNCIA CARACTERIZADA. RESPONSABILIDADE OBJETIVA DO BANCO. DANO MORAL CARACTERIZADO. MINORAÇÃO. SÚMULA N. 479, DO STJ. MANUTENÇÃO. SÚMULA 568 DO STJ. APLICAÇÃO DO ART. 932, IV DO CPC. MANUTENÇÃO DA SENTENÇA. DECISUM MANTIDO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, CPC. DESPROVIMENTO DO AGRAVO INTERNO.
+- Consoante Súmula 479 do Superior Tribunal de Justiça, "as instituições financeiras respondem objetivamente pelos danos gerados por fortuito interno relativo a fraudes e delitos praticados por terceiros no âmbito de operações bancárias".
+- Ante a fragilidade da prova desconstitutiva do direito do autor, haja vista a falta de comprovação, por parte da instituição financeira, da legalidade e da validade do contrato de empréstimo, a concessão do pleito autoral se afigura impositiva, sob pena de afrontas ao direito vindicado, consoante art. 6º, VIII, do CDC e art.373, II, do CPC.
+- Prescreve o art. 1.021, § 4º, do CPC, que "Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa."
+No recurso especial (e-STJ fls. 293/306), fundamentadono art. 105, III, "a", da CF, orecorrenteapontaofensa ao art. 944 do CC/2002, sustentando, em síntese, a modicidade do valor fixado a título de danos morais.
+Apontaainda afronta ao art. 1.021, § 4º, do CPC/2015, afirmandonão ser caso de incidênciade multa processual.
+Foram apresentadas contrarrazões (e-STJ fls. 309/319).
+É o relatório.
+Decido.
+Apenas em hipóteses excepcionais, quando manifestamente irrisório ou exorbitante o valor da indenização por danos morais, a jurisprudência desta Corte permite o afastamento da Súmula n. 7/STJ para possibilitar a revisão.
+No caso, o Tribunal de origem consignou que (e-STJ fls. 286/287):
+Já quanto ao argumento de que os danos morais são cabíveis in casu, entendo que a tese ventilada deve prosperar, de vez que os descontos efetuados pelo banco apelado foram indevidos, fruto de empréstimo não contratado pela apelante. Indevidos os descontos, e inequívoca a responsabilidade da apelada diante da negligência e falha na prestação de serviços, impõe-se o dever de indenizar.
+(..)
+Diante disso, considerando as particularidades do caso, entendo que o quantum a ser fixado a título de danos morais, deve ser minorado para o patamar de R$2.000,00 (dois mil reais), porquanto inequivocamente justo e razoável com os danos suportados, não importando enriquecimento ilícito e evitando a reincidência na conduta lesiva.
+Portanto, a Corte de origem, apreciando as particularidades da hipótese em questão, fixou a indenização por danos morais, em decorrência de descontos indevidos por empréstimo não contratado, no montante deR$ 2.000,00 (dois mil reais), o que não se mostra irrisório a justificar a reavaliação, em recurso especial, da verba reparatória fixada.
+Por fim, no que se refere ao art. 1.021, § 4º, do CPC/2015, a interposição do recurso, na Corte de origem, decorreu do legítimo exercício do direito de recorrer da parte, que se valeu do referido apelo para tentar reverter a decisão desfavorável, o que não constitui ato protelatório, a ensejar a sanção processual prevista no referido dispositivo. Dessa forma,deve ser afastada a multa aplicada.
+Diante do exposto, DOU PROVIMENTO PARCIAL ao recurso especial a fim de afastar a condenação ao pagamento da multa do art. 1.021, § 4º, do CPC/2015.
+Publique-se e intimem-se.
