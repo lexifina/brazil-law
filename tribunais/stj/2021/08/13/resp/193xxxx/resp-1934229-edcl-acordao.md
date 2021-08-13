@@ -1,0 +1,50 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PERCENTUAL PARA PROGRESSÃO DE REGIME. PACIENTE REINCIDENTE NÃO ESPECÍFICO. ALTERAÇÃO DA LEI N. 13.964/2019. LEI MAIS BENÉFICA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+2. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+3. O Parquet apenas reitera as razões anteriormente expostas e, conforme exaustivamente explicitado, dado que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, pois o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima e o patamar de 60% fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+O MINISTÉRIO PÚBLICO FEDERAL opõe embargos declaratórios contra o acórdão de fls. 131-135, por meio do qual a Sexta Turma negou provimento ao agravo regimental.
+Em suas razões, sustenta o Parquet Federal que o acórdão foi omisso quando deixou de observar que "o móvel inspirador do Pacote Anticrime" é o de "aperfeições e endurecer as regras penais, processuais penais e executivas, notadamente, aqueles relacionadas aos delitos hediondos e equiparados" (fl. 147).
+Pleiteia, assim, o acolhimento dos aclaratórios e provimento do recurso especial.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PERCENTUAL PARA PROGRESSÃO DE REGIME. PACIENTE REINCIDENTE NÃO ESPECÍFICO. ALTERAÇÃO DA LEI N. 13.964/2019. LEI MAIS BENÉFICA. EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Os embargos declaratórios são inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+2. A irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+3. O Parquet apenas reitera as razões anteriormente expostas e, conforme exaustivamente explicitado, dado que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, pois o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima e o patamar de 60% fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+4. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Não obstante os esforços perpetrados pelo ora embargante, não constato o vício apontado na decisão embargada. O acórdão impugnado, acerca das alterações promovidas pela Lei n. 13.964/2019, consignou o seguinte (fls. 133-134, destaques do original):
+ ..
+A esse respeito, reitero que, após as alterações promovidas pela Lei n. 13.964/2019, tornaram-se cruciais para a avaliação do lapso de progressão de regime outros fatores além da hediondez - quais sejam, a ocorrência ou não do resultado morte e a primariedade, a reincidência genérica ou, ainda, a reincidência específica do apenado.
+Na hipótese, o agravado foi condenado por crime hediondo e crime comum, de modo que se trata de reincidente genérico. Todavia, os patamares definidos pela legislação atual não contemplam tal hipótese, ou seja, há uma lacuna legal. Confira-se a nova redação do art. 112 da LEP, incluída pela Lei nº 13.964/2019, que prevê (destaquei):
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+ ..
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pe la prática de crime hediondo ou equiparado, se for primário;
+VI - 50% (cinquenta por cento) da pena, se o apenado for:
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional;
+ ..
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado;
+Dessa forma, dado que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, pois o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima, diferentemente dos autos, que tratam de tráfico de drogas, além do fato de o patamar de 60%, como já apontado pela defesa, fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+Urge consignar:
+ o  ato jurídico perfeito e a retroatividade da lei penal mais benéfica são direitos fundamentais de primeira geração, previstos nos incisos XXXVI e XL do art. 5º da Constituição Federal. Por se tratarem de direitos de origem liberal, concebidos no contexto das revoluções liberais, voltam-se ao Estado como limitadores de poder, impondo deveres de omissão, com o fim de garantir esferas de autonomia e de liberdade individual.
+(HC n. 583.837/SC, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 12/8/2020).
+Assim, tendo em vista as ponderações acima, concluo que a hipótese em análise trata de lei penal mais benéfica ao apenado, de forma que é mister o reconhecimento de sua retroatividade, porquanto o percentual por ela estabelecido - 40% das reprimendas impostas -, é inferior à fração de 3/5, anteriormente exigida para a progressão de condenados por crimes hediondos, sejam específicos.
+Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual:
+ ..  com a alteração promovida pela Lei 13.964/2019 (Pacote Anticrime), o legislador trouxe novas nuances ao tema, pois ao revogar o art. 2º, § 2º da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime, modificando também o art. 112 da Lei de Execução Penal.
+ ..
+(HC n. 607.190/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 14/10/2020).
+Na oportunidade, o Ministro relator salientou:
+No caso dos autos, o paciente, que não é primário, não se enquadra nos exatos termos do inciso V, tampouco seu caso se amolda ao inciso VII, uma vez que não é reincidente na prática de crime hediondo ou equiparado. Desse modo, forçoso reconhecer que, diante das duas situações, em obediência ao princípio do favor rei, ao paciente se deve aplicar a norma penal mais benéfica, no caso a incidência do percentual de 40% previsto no inciso V do art. 112 da Lei 7.210/1984 para fins de progressão de regime (Idem, destaquei).
+Convém esclarecer que os embargos de declaração são cabíveis somente nas hipóteses do art. 619 do Código de Processo Penal, isto é, nos casos de ambiguidade, obscuridade, contradição ou omissão no acórdão embargado.
+São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, a reapreciação do caso.
+Apenas excepcionalmente, se constatada a necessidade de mudança no resultado do julgamento em decorrência do próprio reconhecimento da existência de algum desses vícios, é que se descortina a possibilidade de se emprestarem efeitos infringentes aos aclaratórios.
+Noto que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi desfavorável. Não há nenhum fundamento que justifique a oposição dos embargos de declaração, os quais se prestam apenas a sanar eventual omissão, contradição ou obscuridade do julgado, e não a reapreciar a causa.
+O Parquet apenas reitera as razões anteriormente expostas no regimental e, conforme exaustivamente explicitado, dado que a lei não dispõe sobre o lapso de progressão para condenado pela prática de crime hediondo e reincidente genérico, é necessário suprir a lacuna legal, o que se dá por meio da aplicação do patamar referente ao condenado primário, pois o percentual de 50% se destina aos delitos hediondos que resultam em morte da vítima e o patamar de 60%, como já apontado pela defesa, fazer referência apenas aos reincidentes específicos, situação também diversa da apresentada.
+Esta é a compreensão do Superior Tribunal de Justiça, que, por meio de voto de minha relatoria, no julgamento dos Recursos Especiais Representativos da Controvérsia n. 1.910.240/MG (3ª S., DJe 31/5/2021) e 1.918.338/MT (3ª S., DJe 31/5/2021), assentou a seguinte tese:É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante.
+À vista do exposto, rejeito os embargos de declaração.
