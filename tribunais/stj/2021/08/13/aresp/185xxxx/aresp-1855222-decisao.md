@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO SANTANDER S/A contra decisão que negou seguimento a recurso especial manejadoem face de acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - CUMPRIMENTO DE SENTENÇA - VERBA HONORÁRIA FIXADA SOBRE PROVEITO ECONÔMICO - NECESSIDADE DE OBSERVÂNCIA AO PRINCÍPIO DA FIDELIDADE AO TÍTULO EXEQUENDO - DECISÃO PARCIALMENTE REFORMA - RECURSO CONHECIDO E PARCIALMENTE PROVIDO. Verificando-se que os honorários advocatícios de sucumbência foram fixados sobre o proveito econômico obtido com a declaração da prescrição intercorrente da ação executiva promovida pelo banco/agravado, em observância ao princípio da fidelidade ao título, há que ser realizado novos cálculos.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, a parte agravante apontou existência de dissídio jurisprudencial, ante a violação dos artigos 85, 523 e 524 do Código de Processo Civil.
+Alega que o acórdão estadual procedeu reformatio in pejus, haja vista o tema do modelo de correção do débito exequendo estar precluso, bem como não houve irresignação da parte adversa.
+Sustenta que os juros de mora incidentes sobre honorários sucumbenciais devem contar-se a partir da superação do prazo para o pagamento espontâneo do executado.
+Assim delimitada a controvérsia, passo a decidir.
+Com referência à aventada inovação do julgado estadual, verifica-se que não houve debate na origem quanto ao ponto. De modo que as razões do recurso especial não são convincentes, já que nele não está indicado trecho ou passagem do acórdão recorrido em que tenha havido a abordagem da matéria controvertida, merecendo, assim, a aplicação das Súmulas 282 e 356 do STF, visto que ausente o indispensável prequestionamento com referência a essa questão ventilada no recurso especial, do qual não estão isentas sequer as questões de ordem pública.
+De igual teor:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC/2015. MATÉRIA NÃO DEBATIDA NA ORIGEM. FALTA DE PREQUESTIONAMENTO.
+1. Em que pese a omissão do acórdão recorrido ao tratar do termo inicial da prescrição quinquenal, não se poderia conhecer da irresignação, pois a tese legal apontada não foi analisada pelo acórdão hostilizado. Ausente, portanto, o indispensável requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282 do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Acrescento que o recorrente não opôs Embargos de Declaração a fim de sanar possível omissão no julgado.
+2. O STJ possui compreensão pacífica no sentido da necessidade de prequestionamento, inclusive de matérias de ordem pública.
+3. Embargos de Declaração acolhidos, sem efeitos infringentes.
+(EDcl no REsp 1682995/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017)
+Quanto ao outro ponto, o Tribunal de origem baseou-se na interpretação de fatos e do título judicial, para concluir pela correção do valor exequendo, nos seguintes termos (fls. 41-42, e-STJ):
+Note-se que em momento algum se falou em valor atualizado da causa.
+Pois bem.
+Ao ingressar com cumprimento de sentença visando receber os honorários sucumbenciais, o ora agravante apresentou cálculo segundo o qual o valor originário de CR$ 46.662.908,59 foi atualizado pelo IGPM/FGV e acrescido de juros de mora de 1% ao mês desde a propositura da ação executiva (extinta) até fevereiro/2020, alcançando a cifra de R$ 4.812.252,49. Posteriormente, atualizou o valor obtido em hasta pública desde dezembro/1997 até fevereiro/2020, procedendo-se o respectivo abatimento, resultando no montante de R$ 4.703.629,83, sobre o qual foi aplicado o percentual de 10% sendo apurado o valor de R$ 470.362,98, pleiteado pelo agravante.
+Como bem destacado pelo recorrente, acaso a execução tivesse prosseguido, certamente seriam cobrados os encargos contratuais avençados entre o banco agravado e o então executado (cliente do agravante).
+Assim, seguinte a orientação contida no acórdão já transitado em julgado (princípio da fidelidade ao título), tem-se que de acordo com o Instrumento Particular de Confissão de Dívida com Garantia Fiduciária acostado (f. 19-35), restou expressamente pactuado juros de 1% ao mês e correção monetária pela TR (f.20).
+Portanto, no cálculo apresentado pelo credor, restou equivocada a aplicação do IGPM/FGV, devendo ser substituído pela TR, por ser este o índice que efetivamente corrigiria o débito cobrado pelo banco.
+Afora isso, de acordo com o acórdão (trecho acima transcrito) ficou determinado que a correção do saldo devedor, seria corrigido até a data de julgamento do recurso de apelação - outubro/2019. Todavia, o agravante procedeu sua correção até fevereiro/2020, de forma que deverá ser observado o termo final estipulado.
+Consequentemente, apurado o saldo devedor em outubro/2019,sobre o mesmo deverá ser aplicado o percentual de 10%, para fins de se identificar o montante devido a título de honorários sucumbenciais, podendo a partir daí ser aplicado o IGPM/FGV, já que não há mais se falar em encargos contratuais.
+Quanto aos juros moratórios, pelo que se vislumbra da peça recursal, o próprio agravante concorda que estes deverão incidir à partir da citação no cumprimento de sentença.
+Rever as conclusões do acórdão recorrido acerca da interpretação do título judicial e do valor do proveito econômico, demandaria o reexame de matéria fático-probatória e cláusulas contratuais, o que é vedado em recurso especial pela Súmula 7 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSO CIVIL. LIQUIDAÇÃO DE SENTENÇA. VIOLAÇÃO AOS ARTS. 458 E 535 DO CPC/1973. INEXISTÊNCIA. ARBITRAMENTO E ARTIGOS. NECESSIDADE DE COMPROVAÇÃO DE FATOS NOVOS. SÚMULA 7 DO STJ.
+1. Não há violação ao art. 458 e 535, II, do CPC, quando, rejeitados os embargos de declaração, a matéria em exame é devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente.
+2. Para a apuração do montante da indenização devida, por vezes, há a necessidade de se alegar e provar fatos novos, ainda não discutidos na ação de conhecimento, caso em que se revela adequado o uso da liquidação por artigos, prevista no art. 475-E do CPC/1973.
+3. Tendo o acórdão recorrido concluído pela desnecessidade de comprovação de fato novo, rever seus fundamentos importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal, ante o óbice da Súmula nº 7/STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1336014/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 16/3/2017)
+Ademais, verifica-se a falta de interesse de agir quanto ao ponto, em razão da pretensão exposta nesse recurso ser reconhecida na origem (AgInt no AREsp 1087186/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, DJe 1º/10/2020).
+De igual teor:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL.EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. PROCEDÊNCIA.1. MULTA DO ART. 1.021, § 4º, DO CPC/2015 EM RAZÃO DO JULGAMENTO DO AGRAVO REGIMENTAL. NÃO CABIMENTO. RECURSO QUE NÃO SE MOSTROU MANIFESTAMENTE PROTELATÓRIO OU ABUSIVO. 2. HONORÁRIOS DE SUCUMBÊNCIA. CORREÇÃO MONETÁRIA A PARTIR DO ARBITRAMENTO OU MAJORAÇÃO. JUROS DE MORA. TERMO INICIAL. DATA DA INTIMAÇÃO DO EXECUTADO PARA PAGAMENTO, NA FASE DE CUMPRIMENTO DE SENTENÇA. 3.EMBARGOS ACOLHIDOS, SEM EFEITOS MODIFICATIVOS.
+1. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da referida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, circunstâncias não demonstradas na espécie.
+2. Nos termos da jurisprudência desta Corte Superior, o termo inicial dos juros moratórios na cobrança de honorários de sucumbência é a data em que o executado é intimado para pagamento na fase de cumprimento da sentença, caso a obrigação não seja adimplida de forma voluntária. Já a correção monetária tem incidência a partir da data do arbitramento da verba honorária, ou de sua majoração, como ocorrido na hipótese.
+3. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgRg no REsp 1563325/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 7/3/2017)
+Diante do exposto, nego provimento ao agravo.
+Intimem-se.
