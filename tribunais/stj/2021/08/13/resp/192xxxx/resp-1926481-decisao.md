@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão proferido pelo TJSP assim ementado (e-STJ fl. 418):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO DE TÍTULOEXTRAJUDICIAL. NÃO LOCALIZAÇÃO DE BENS DO DEVEDOR PASSÍVEIS DE CONSTRIÇÃO. PRETENSÃO AO DEFERIMENTO DA SUSPENSÃO DE CARTEIRA DE HABILITAÇÃO PARA DIRIGIR VEÍCULO E DE PASSAPORTE, BEM COMO O BLOQUEIO DE CARTÕES DE CRÉDITO DO AGRAVADO.
+IMPOSSIBILIDADE DE ACOLHIDA DA PRESTENSÃO SEM OFENSA A DIREITOS E GARANTIAS INDIVIDUAIS CONSTITUCIONALMENTE ASSEGURADOS.
+INTELIGÊNCIA DO INCISO IV, DO ART 139, CPC. MEDIDA EXCEPCIONAL QUE NÃO SE AMOLDA AO CASO CONCRETO. PROVIDÊNCIAS ALVITRADAS QUE IMPORTARIAM RESTRIÇÕES SEVERAS AOS ATOS CIVIS DA VIDA NORMAL DO DEVEDOR, CONSIDERADO O MOMENTO HISTÓRICO DO ATUAL VIVER DO HOMEM. PREVISÃO LEGAL QUE É NO SENTIDO APENAS DA RESPONSABILIDADE PATRIMONIAL DO DEVEDOR E NÃO DA SUA PESSOA. INTELIGÊNCIA DO ART. 789, CPC. DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+No recurso especial (e-STJ fls. 428/436), interposto com fundamentono art. 105, III, "a", da CF, a parterecorrentealegaofensa ao art. 139, IV, do CPC/2015. Sustentaque seria possível a suspensão da CNH e do passaporte da parterecorrida, bem como o cancelamento de cartões de crédito.
+Não foramapresentadas contrarrazões(e-STJ fl. 440).
+O recurso foi admitido na origem (e-STJ fls. 441/442).
+É o relatório.
+Decido.
+O Tribunal de origem, com base nos fatos e nas provas dos autos, entendeu pela ausência de razoabilidade da medida pleiteada, assim consignando (e-STJ fl. 420):
+Há destaque também de que, além do mais, restrições impostas como a de proibição de dirigir e impedimento de utilização de cartão de crédito não trarão utilidade prática ao processo de execução em que se busca a expropriação de bens para satisfação da dívida e que as medidas previstas no inciso IV do art. 139 do Código de Processo Civil devem ser excepcionais, com observação dos princípios da razoabilidade e proporcionalidade, sempre à evidência sem perder sua utilidade prática tendo em conta o que se busca com o processo, no caso, satisfação de crédito.
+O entendimento do aresto estadual foi de que se deve buscar a providência mais eficaz e menos gravosa aos executados. Concluiu o colegiado que as medidas seriam excessivamente gravosas à parte executadae desproporcionais à obrigação de pagamento do débito.
+Ultrapassar a conclusão da instância de origem a fim de analisar as condições no caso concreto, com fito de autorizar constrições mais severas e excepcionais, demandaria inegável revolvimento fático-probatório, o que é vedado pelo teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRETENSÃO DE QUE SEJA SUSPENSA A CNH DO DEVEDOR COM BASE NO ART. 139, IV, DO CPC/2015. CONCLUSÃO NO SENTIDO DA INADEQUAÇÃO DA MEDIDA PARA O FIM COLIMADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu que a medida pleiteada - suspensão da CNH dos recorridos - é inadequada para o fim colimado, pois é desproporcional no caso em tela, especialmente porque atinge a pessoa do devedor, não seu patrimônio. Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.233.016/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/4/2018, DJe 17/4/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.283.998/RS, Relator Ministro LAZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 9/10/2018, DJe 17/10/2018.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
