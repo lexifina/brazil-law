@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CF, contra acórdão do TJMG, o qual concedeu parcialmente a ordem, para sustar, em parte, os efeitos da decisão que determinou cancelamento de precatório, mantendo-se reserva bancária dos respectivos valores até que seja decidido o recurso em que se discute a validade da decisão que anulara a execução (e-STJ fls. 257/262).
+Sustentam os recorrentes, em síntese, que fazem jus ao recebimento dos valores referentes ao Precatório GV-173, uma vez que o acórdão, que tornou sem efeito a ordem de cancelamento do referido precatório, foi atacado por recurso especial, o qual não possui efeito suspensivo (e-STJ fls. 283/294).
+Contrarrazões (e-STJ fls. 313/318).
+Parecer do MPF em e-STJ fls. 334/338, opinando pelo não acolhimento do recurso.
+É o que importava relatar.
+Dito isso, entendo que o recurso não merece guarida.
+Transcrevo os fundamentos apresentados pelo órgão ministerial, aos quais me filio como razão de decidir (e-STJ fls. 337/338):
+ ..  o Acórdão proferido pelo Tribunal de origem, que deu provimento ao Recurso de Apelação n.º 1.0024.95.031490-6/005, cassando a sentença recorrida e tornando sem efeitos a ordem de cancelamento dos precatórios já expedidos em favor dos Recorrentes, foi atacado por recurso especial, ainda pendente de julgamento.
+Na ocasião, determinou-se a reserva em conta judicial dos valores devidos aos Recorrentes, em virtude da possibilidade de irreversibilidade dos efeitos da liberação do crédito, o que foi realizado pela entidade devedora.
+Assim, não há falar em preterição e quebra da ordem cronológica de pagamento, uma vez que a quantia referente ao Precatório GV-173 está reservada em conta bancária judicial, cuja liberação dependerá do resultado daquela ação ajuizada pelos Recorrentes e que se encontra em fase de recurso especial, pendente de julgamento.
+Ressalte-se que a ausência de efeito suspensivo do recurso especial, e a consequente possibilidade de execução provisória da decisão proferida nos autos da Apelação n.º 1.0024.95.031490-6/005 em nada repercutem no presente mandado de segurança, mas somente no âmbito daquele processo.
+É dizer, os Recorrentes podem, perfeitamente, pleitear a execução provisória do referido julgado, nos termos do art. 475-O do CPC, devendo fazê-lo, entretanto, no âmbito daquela relação processual, perante o Juízo que decidiu a causa no primeiro grau de jurisdição, conforme determina o art. 575 do CPC, e não neste mandado de segurança, perante o Tribunal de Justiça de Minas Gerais, que não detém competência para executar decisão proferida em demanda diversa.
+Assim, não há direito líquido e certo a ser amparado na hipótese dos autos, devendo o Acórdão recorrido ser mantido por seus próprios fundamentos.
+Reservado o crédito do precatório expedido, em compasso com o julgamento da apelação que cassou a decisão a qual havia cancelado o requisitório, não cabia à autoridade delegada da presidência do Tribunal determinar a imediata satisfação do pagamento, sem que o juízo da execução assim tivesse autorizado.
+Cabe ao juízo da execução o julgamento de questões incidentes surgidas durante o cumprimento do precatório, tendo o Presidente do Tribunal (ou a autoridade delegada) atribuições de índole meramente administrativa.
+Nesse sentido: AgInt no RMS 49.070/MG, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 24/04/2018, DJe 27/04/2018; AgInt no RMS 51.930/MG, rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe de 23/03/2017; AgRg no RMS 45.794/SP, rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 01/09/2014.
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
