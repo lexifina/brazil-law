@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA DA CONCEIÇÃO MAGALHÃES TEIXEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE, assim resumido:
+AGRAVO DE INSTRUMENTO. REUNIÃO DE EXECUÇÕES DE TÍTULOS EXECUTIVOS JUDICIAIS. HONORÁRIOS. POSSIBILIDADE. EFETIVIDADE DA EXECUÇÃO. MANUTENÇÃO DA DECISÃO AGRAVADA. RECURSO CONHECIDO E IMPROVIDO. DECISÃO UNÂNIME.
+Segundo a clara dicção do art. 780 do CPC, o exequente pode cumular várias execuções, ainda que fundadas em títulos diferentes, quando o executado for o mesmo e desde que para todas elas seja competente o mesmo juízo e idêntico o procedimento.
+Quanto à controvérsia, alega violação dos arts. 523, 771 e 780 do CPC, relativo ao "principio da menor onerosidade ao executado e ao procedimento que rege o cumprimento de sentença" (fl. 224), trazendo o seguinte argumento:
+Impende frisar que, apesar de a execução de título judicial, por ser um procedimento diferenciado da fase de conhecimento, ter por princípio norteador o da satisfação/satisfatividade do direito do credor, não significa, necessariamente, que o procedimento executório reger-se-á exclusivamente em tais moldes. Não se pode olvidar da existência de princípio igualmente importante, qual seja, o da menor onerosidade ao executado, muito menos é possível esquecer as regras do CPC. (fls. 225).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Em miúdos, se tem nos autos postos à mesa, uma execução de honorários de "pequena monta" se comparada ao único bem da interponente, de valor venal mil vezes maior que o débito.
+Entretanto, tramitam no mesmo juízo outras ações igualmente de pouca repercussão em pecúnia, que seriam, se isoladamente consideradas, inaptas a justificar a penhora de um imóvel de alto padrão.
+Daí, a solução encontrada teria sido reunir os débitos para que, executados em conjunto, justificassem a penhora do imóvel, o que se fez com escora no art.780 do CPC:
+"Art. 780. O exequente pode cumular várias execuções, ainda que fundadas em títulos diferentes, quando o executado for o mesmo e desde que para todas elas seja competente o mesmo juízo e idêntico procedimento".
+Ocorre que a interponente esgrime a tese de que o dispositivo não se aplica ao caso em análise por estar direcionado às execuções de títulos executivos extrajudiciais e não aos títulos judiciais.
+Quanto a isso não vislumbramos nenhum impedimento, pois o dispositivo se refere textualmente à "reunião de execuções" e a "Títulos" sem nenhum discrímem que indique estar a se referir aos títulos executivos de natureza judicial ou extrajudicial.
+Ora, é conhecida a lição hermenêutica segundo a qual, "onde a lei não distingue, não cabe ao intérprete distinguir", de modo que não nos cabe, a título de exegese, diferenciá-los neste contexto.
+Com base em tais argumentos, voto pelo conhecimento e improvimento do presente agravo de instrumento para manter indene a decisão agravada (fl. 205, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
