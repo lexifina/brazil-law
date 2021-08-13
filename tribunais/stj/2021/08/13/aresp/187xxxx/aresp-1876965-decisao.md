@@ -1,0 +1,73 @@
+DECISÃO
+Cuida-se de agravo (art. 1.042, CPC/15), interposto por MITDIESEL TRANSPORTES E COMÉRCIO DE COMBUSTÍVEIS EIRELI, em face de decisão que inadmitiu o recurso especial do insurgente.
+O apelo extremo, manejado com amparo na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 361, e-STJ):
+CIVIL. PROCESSUAL. ADMINISTRATIVO. AÇÃO COBRANÇA.PROCEDIMENTO COMUM. CONTRATO DE MÚTUO BANCÁRIO.LIMITAÇÃO TAXA DE JUROS. IMPOSSIBILIDADE. ILEGALIDADE DA UTILIZAÇÃO DA CDI AFASTADA. DESCARACTERIZAÇÃO DA MORA.IMPOSSIBILIDADE. REPETIÇÃO DE INDÉBITO. IMPOSSIBILIDADE.
+1. É entendimento do Superior Tribunal de Justiça que somente é possível a limitação da taxa de juros remuneratórios quando comprovado que discrepantes em relação à taxa média de mercado para a operação contratada, o que não se evidenciou no presente caso.
+2. Não caracteriza abusividade a utilização da taxa de CDI como parâmetro para pós-fixação de encargos. Trata-se de critério flutuante, acolhido por ambas as partes, que varia de acordo com a realidade do mercado financeiro.
+3. Na presente lide não foi reconhecida nenhuma ilegalidade dentro do período de normalidade contratual (juros remuneratórios abusivos ou capitalização ilícita), não havendo falar em descaracterização da mora.
+4. Tendo em vista o improvimento do apelo, a improcedência da sentença e como o apelante se limitou a afirmar mas não demonstrou onde e como teria ocorrido cobrança abusiva, não há falar em devolução ou compensação de valores pagos a maior.
+Nas razões do recurso especial (fls. 378-391, e-STJ), o insurgenteapontaviolação aos arts. 6º e 51 do CDC e396 do CC, aduzindo a abusividadeda taxa de juros remuneratórios, posto que superior à taxa média de mercado, devendo, ainda, ser excluída a taxa CDI aplicada.
+Não foram apresentadas contrarrazões.
+Em juízo de admissibilidade, o Tribunal a quo negou seguimento ao recurso especial (fls. 401-405, e-STJ), dando ensejo a interposição do presente agravo (fls. 415-439, e-STJ).
+Não foi apresentada contraminuta.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, a jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto n.º 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF (cf. REsp n.º 1.061.530/RS, de 22.10.2008, julgado pela Segunda Seção segundo o rito dos recursos repetitivos).
+A aferição de eventual abusividade dos juros remuneratórios ajustados entre as partes se dá por força do art. 51, inc. IV, do CDC.
+Para essa tarefa, a orientação deste Tribunal Superior toma por base os parâmetros referentes à taxa média de mercado praticada pelas instituições financeiras do país, mas não a erigindo como um teto das contratações.
+Logo, para que se reconheça abusividade no percentual de juros, não basta o fato de a taxa contratada suplantar a média de mercado, devendo-se observar uma tolerância a partir daquele patamar, de modo que a vantagem exagerada, justificadora da limitação judicial, deve ficar cabalmente demonstrada em cada caso.
+O Tribunal de origem, ao analisar a controvérsia, assim decidiu (fls. 365-366, e- STJ):
+Registro, ainda, que é entendimento do Superior Tribunal de Justiça que somente é possível a limitação da taxa de juros remuneratórios quando comprovado que discrepantes em relação à taxa média de mercado para a operação contratada.
+(..)
+A abusividade dos juros, segundo o STJ, deve ser analisada pelo magistrado, em cada caso concreto, conforme as ponderações da Min. Nancy Andrighi, em voto exarado, como Relatora, por ocasião do julgamento do REsp 1.061.530 pela Segunda Seção, um dos precedentes da Súmula 382 daquela Corte Superior, verbis:
+(..)
+Dessa forma, não prospera a tese defendida pelo apelante, eis que, além de pactuado livremente no contrato, a taxa de juros não excede ao admitido pela Corte superior.
+Ademais, a aplicação de taxa de juros pós- xada não implica ilegalidade ou abusividade, pois atrelada à Taxa Referencial, taxa de juros de referência calculada pelo BACEN.
+Por conseguinte, não demonstrada a discrepância em relação à taxa média de mercado estipulada para as modalidades de crédito em questão, deve ser mantida a taxa de juros aplicada.
+Como se vê, o órgão julgador, ao decidir a controvérsia, baseou seu entendimento na orientação firmada pelo STJ sobre juros remuneratórios e diante das peculiaridades do caso concreto e a partir da interpretação das cláusulas do contrato celebrado entre as partes, não constatou a abusividade da taxa de juros remuneratórios prevista nos contratos.
+O entendimento da Corte Estadual, no ponto, encontra-se em harmonia com a jurisprudência desta Corte Superior sobre a matéria, no sentido de que "os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº. 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos".Desse modo, incide o teor da Súmula 83/STJ, a impedir o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+Ademais, para derruir as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a abusividade ou não da taxa de juros contratada, seria imprescindível a incursão no acervo fático e probatório dos autos e a análise de cláusulas contratuais, providências vedadas na via estreita do recurso especial, ante aos óbices estabelecidos pelas Súmulas 5 e 7/STJ.
+A propósito, citam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE. TAXA MÉDIA DO MERCADO. REVISÃO. SÚM. 7/STJ.
+1. A jurisprudência desta Corte é assente no sentido de que os juros remuneratórios cobrados pelas instituições financeiras não sofrem a limitação imposta pelo Decreto nº 22.626/33 (Lei de Usura), a teor do disposto na Súmula 596/STF, de forma que a abusividade da pactuação dos juros remuneratórios deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+2. É inviável rever a conclusão do Tribunal estadual de que os juros remuneratórios, no caso, são abusivos quando comparados à taxa média de mercado, pois demandaria reexame de provas e interpretação de cláusula contratual, providências vedadas em recurso especial (Súmulas 5 e 7/STJ).
+Precedentes.
+3. Agravo interno não provido.(AgInt no AREsp 1.338.605/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04.12.2018, DJe 12.12.2018)  grifou-se
+DIREITO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CONTRATO BANCÁRIO. JUROS REMUNERATÓRIOS. ABUSIVIDADE RECONHECIDA PELO TRIBUNAL DE ORIGEM. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DECISÃO MANTIDA.
+1. "É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art.
+51, § 1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto" (REsp n. 1.061.530/RS, submetido ao rito do art. 543-C do CPC, Relatora Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 22/10/2008, Dje 10/03/2009).
+2. O Tribunal de origem, apreciando o conjunto probatório dos autos, concluiu que a taxa de juros cobrada é abusiva, considerando a significativa discrepância percebida entre o índice estipulado e a taxa média de mercado. Alterar esse entendimento ensejaria revolvimento das provas dos autos, circunstância vedada pelo óbice da Súmula n. 7 do STJ.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1250227/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 16/08/2018, DJe 22/08/2018)  grifou-se
+2. Em relação à insurgência quanto à validade da aplicação do indexador CDI, o Tribunal de origem assim concluiu (fls. 366-367, e-STJ):
+O CDI representa o custo do dinheiro entre os bancos, sendo coerente a adoção deste indexador para corrigir os valores devidos em caso de inadimplência.
+Não caracteriza abusividade a utilização da taxa de CDI como parâmetro para pós-fixação de encargos. Trata-se de critério flutuante, acolhido por ambas as partes, que varia de acordo com a realidade do mercado financeiro.
+(..)
+Com efeito, não há falar em nulidade da utilização da CDI no período de inadimplência, conforme pleiteia o apelante.
+Neste particular, salienta-se que essa Corte possui o entendimento de que: "Não é potestativa a cláusula que estipula os encargos financeiros de contrato de abertura de crédito em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), visto que tal indexador é definido pelo mercado, a partir das oscilações econômico-financeiras, não se sujeitando a manipulações que possam atender aos interesses das instituições financeiras." (AGInt no AREsp 1645706/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 19/10/2020, DJe 29/10/2020).
+A propósito:
+RECURSO ESPECIAL. DIREITO BANCÁRIO. CONTRATO DE ABERTURA DE CRÉDITO.ENCARGOS FINANCEIROS. FIXAÇÃO. PERCENTUAL SOBRE O CDI.POSSIBILIDADE. SÚMULA Nº 176/STJ. INAPLICABILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ação revisional de contrato bancário na qual se discute se é ou não admissível a estipulação dos encargos financeiros de contrato de abertura de crédito em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), à luz do disposto na Súmula nº 176/STJ.
+3. De acordo com as normas aplicáveis às operações ativas e passivas de que trata a Resolução nº 1.143/1986, do Conselho Monetário Nacional, não há óbice em se adotar as taxas de juros praticadas nas operações de depósitos interfinanceiros como base para o reajuste periódico das taxas flutuantes, desde que calculadas com regularidade e amplamente divulgadas ao público.
+4. O depósito interfinanceiro (DI) é o instrumento por meio do qual ocorre a troca de recursos exclusivamente entre instituições financeiras, de forma a conferir maior liquidez ao mercado bancário e permitir que as instituições que têm recursos sobrando possam emprestar àquelas que estão em posição deficitária.
+5. Nos depósitos interbancários, como em qualquer outro tipo de empréstimo, a instituição tomadora paga juros à instituição emitente. A denominada Taxa CDI, ou simplesmente DI, é calculada com base nas taxas aplicadas em tais operações, refletindo, portanto, o custo de captação de moeda suportado pelos bancos.
+6. A jurisprudência do Superior Tribunal de Justiça é firme no sentido de que é potestativa a cláusula que deixa ao arbítrio das instituições financeiras, ou associação de classe que as representa, o cálculo dos encargos cobrados nos contratos bancários.
+7. Não é potestativa a cláusula que estipula os encargos financeiros de contrato de abertura de crédito em percentual sobre a taxa média aplicável aos Certificados de Depósitos Interbancários (CDIs), visto que tal indexador é definido pelo mercado, a partir das oscilações econômico-financeiras, não se sujeitando a manipulações que possam atender aos interesses das instituições financeiras.
+8. Eventual abusividade deve ser verificada no julgamento do caso concreto em função do percentual fixado pela instituição financeira, comparado às taxas médias de mercado regularmente divulgadas pelo Banco Central do Brasil para as operações de mesma espécie, conforme decidido em precedentes desta Corte julgados sob o rito dos recursos repetitivos, o que não se verifica na espécie.
+9. Recurso especial provido.
+(REsp 1781959/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/02/2020, DJe 20/02/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. CÉDULA DE CRÉDITO BANCÁRIO. ENCARGOS FINANCEIROS. CDI. POSSIBILIDADE. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULAS 5 E 7/STJ. HONORÁRIOS ADVOCATÍCIOS.MAJORAÇÃO. ART. 85, § 11 DO CPC. DESCABIMENTO. EXCESSO. LIMITE ESTABELECIDO NO CÓDIGO DE PROCESSO CIVIL.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial amparado no dissídio jurisprudencial, quando não demonstrada a semelhança entre as hipóteses confrontadas.
+3. A conclusão das instâncias ordinárias, de que não foi verificada abusividade nos encargos pactuados com base na variação do certificado de depósito interbancário (CDI), fixado pela CETIP, foi obtida pela análise do conteúdo fático e contratual dos autos, cuja revisão encontra óbice nas Súmulas 5 e 7 do STJ.
+4. A Corte Especial, no julgamento do recurso especial sob o rito dos repetitivos (REsp 1520710/SC, Rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 18/12/2018, REPDJe 02/04/2019, DJe 27/02/2019), firmou a tese de que "os embargos do devedor são ação de conhecimento incidental à execução, razão porque os honorários advocatícios podem ser fixados em cada uma das duas ações, de forma relativamente autônoma, respeitando-se os limites de repercussão recíproca entre elas, desde que a cumulação da verba honorária não exceda o limite máximo previsto no § 3º do art. 20 do CPC/1973".
+5. A entrada em vigor do atual Código de Processo Civil não alterou a referida limitação máxima da verba honorária de sucumbência, conforme se pode depreender da interpretação sistemática das normas pertinentes à matéria.
+6. Inviável, in casu, a elevação da verba de sucumbência a título dos chamados honorários recursais se ultrapassam o limite máximo estabelecido pelo Código de Processo Civil.
+7. Agravo interno parcialmente provido para afastar os honorários recursais.
+(AgInt no AREsp 1248069/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/03/2021, DJe 16/04/2021)
+Desse modo, estando o acórdão recorrido em conformidade com a jurisprudência do STJ, incide a Súmula 83/STJ, impedindo o conhecimento do recurso por ambas as alíneas.
+3. Do exposto, nego provimento ao agravo.Com base no art. 85, § 11, do CPC/2015, majoro em 2% (dois por cento) o valor dos honorários recursais (fl. 368, e-STJ), totalizando em 14% (doze por cento) o percentual da verba honorária.
+Publique-se.
+Intimem-se.
