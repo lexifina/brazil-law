@@ -1,0 +1,18 @@
+DECISÃO
+IGOR LEONEL MESSIAS DE SOUZAalega sofrer coação ilegal ante acórdão doTribunal de Justiça a quo.
+A impetrantese insurge contraaregressão do paciente ao regime semiaberto, em face de descumprimento de condiçãodo regime aberto na modalidade disciplinar. Afirma que a decisão é nula e deve ser invalidada, pois não houve prévia oitiva do reeducandonem manifestação do defensor, o que viola os princípios constitucionais do contraditório e da ampla defesa.
+Além disso, não ficou caracterizada a inobservância da condição do regime aberto, poiso comparecimento mensal em Juízo estava suspenso em virtude da pandemia e, inclusive, esse período deve ser considerado como efetivo cumprimento da pena, uma vez que a situaçãonão decorreu da vontade do reeducando.
+Finalmente, assinala a possibilidade de impetrarhabeas corpuspara sanar a ilegalidade, uma vez que não houve interposição de agravo em execução.
+Requer a concessão da ordem, como retorno do paciente ao regime aberto.
+Decido.
+A"matéria não analisada pelo Tribunal de origem não pode ser diretamente enfrentada neste momento, sob pena de supressão de instância" (RHC n. 98.130/MG, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 16/10/2018).
+Entretanto, verifico que a defesa suscitou as teses na impetração originária, não conhecida ao fundamento de que não é possível autilização do writ em substituição aoagravo em execução. Este posicionamento, contudo, não tem o condão de subtrair do órgão julgador a verificação quanto à existência de ilegalidadeflagrante na decisão do Juiz da VEC. É desnecessáriorealizar dilação probatória ou emitir outro juízo subjetivo sobre provas para averiguar se: a) a regressão de regime foi precedida de oitiva do reeducando e de manifestação da defesa técnica e b) o comparecimento mensal em juízo estava suspenso, em virtude da pandemia, por ato do Tribunal. Assim, as alegações, eminentemente jurídicas, comportam conhecimento em remédio constitucional.
+Se for constatada a não interposição do agravo em execução, o writ é o único instrumento de que dispõe o apenado para corrigir a pretensa ilegalidade a direito de locomoção.
+Assim, reconheço a negativa de prestação jurisdicional, de ofício.Com efeito:
+ ..
+2. O Tribunal de Justiça indeferiu liminarmente o writ, deixando de apreciar o pleito formulado na impetração, ao fundamento de que "a via eleita não se presta a funcionar como substitutivo do agravo em execução, recurso cabível para o reexame da matéria ora ventilada".
+Entretanto, esta Corte Superior de Justiça consolidou o entendimento de que "é bem verdade que o STJ não mais tem admitido a impetração de habeas corpus, quando substitutivo de recursos próprios. Todavia, tal posicionamento não tem o condão subtrair do magistrado a verificação quanto à existência de ilegalidade flagrante, caso em que deverá conceder habeas corpus de ofício. Inteligência do art. 654, § 2º, do CPP" (HC n. 301.883/SP, relator Ministro Nefi Cordeiro, Sexta Turma, julgado em 23/10/2014, DJe 10/11/2014).
+3. Agravo a que se nega provimento. Ordem concedida de ofício, tão somente para determinar que o Tribunal de Justiça do Estado de São Paulo aprecie o mérito do habeas corpus originário como entender de direito.
+(AgRg no HC 561.747/SP, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 4/8/2020).
+À vista do exposto, não conheço do recurso em habeas corpus, haja vista a supressão de instância. Contudo, de ofício,determinoao Tribunal de Justiça a quoque aprecie, como entender de direito, uma vezverificada a não interposição de agravo em execução, se existe patente ilegalidadena decisão do Juiz da VEC.
+Publique-se e intimem-se.
