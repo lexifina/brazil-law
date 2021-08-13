@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de EDUARDO JOSE ROEHSLERcontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido na Revisão Criminal n. 0193507-62.2013.8.21.7000.
+Consta dos autos que o Paciente foi condenado, em primeiro grau de jurisdição, como incurso no art. 157,§ 3.º, do Código Penal à pena reclusiva de 25 (vinte e cinco anos), no regime inicial fechado, mais o pagamento de 100 (cem) dias-multa.
+Interposto recurso de apelação, o Tribunal estadual deu-lhe provimento em parte para tão-somente reduzir a pena pecuniária para 10 (dez) dias-multa.
+Na sessão realizada no dia 28/11/2024, o pedido de revisão criminal foi julgado improcedente pela Corte de origem (fls. 617-643).
+Daí a presente irresignação, em que a Parte Impetrante aduz a ausência da elementar do tipo previsto no art. 157,§ 3.º, do Código Penal, porquanto "nada foi subtraído. Não houve roubo a estabelecimento ou a pessoa. Neste caso estaríamos diante de crime contra a vida em abstrato e não crime entre a vida e ao patrimônio" (fl. 10).
+Sustenta, também, a ausência de prova de autoria, especialmente porque, "durante o inquérito policial, as vítimas já declaravam não reconhecer o Paciente pelo fato, eis que os autores do fato estavam de capacete, o que dificulta a prova de autoria" (fl. 12). Dessa forma, defende a insuficiência de provas.
+Requer, liminarmente e no mérito, seja declarada "a nulidade do feito, por ausência de autoria, erro de tipo e do procedimento" (fl. 13).
+É o relatório.
+Decido.
+De início, verifico que a matéria referente à ausência de subsunção do fato ao tipo descrito no art. 157,§ 3.º, do Código Penal não foi objeto de apreciação pelo acórdão ora impugnado.Assim, é inviável o respectivo exame na presente via.
+Quanto à tese de negativa de autoria, o decisum impugnado ressaltou o seguinte trecho do acórdão condenatório, in verbis (fls. 622-623):
+"Já o envolvimento de Eduardo José Roehsler foi, inicialmente, constatado a partir de denúncias anônimas, descritas nas informações de fls. 14, 24-25, pois o episódio que resultou na morte de uma das vítimas teve repercussão nos meios de comunicação, motivando a colaboração de terceiros não identificados.
+E a prova não se resume aos apontamentos anônimos, tendo as indicações servido de ponto de partida para as investigações policiais.
+Com origem nelas, chegou-se à pessoa de Eduardo, que estava internado no Hospital Cristo Redentor em Porto Alegre, por ter sofrido um tiro de arma de fogo no rosto. Na ocasião, teria dado baixa no nosocômio e mentindo o nome. Pelo que se apurou dos fatos, o ferimento resultou do disparo da arma de fogo dado pelo réu Vilmar, que acertou o ofendido Gustavo, atravessando-lhe o corpo e repercutindo no comparsa Eduardo.
+Além disso, foi realizada interceptação telefônica entre uma conversa mantida por Vilmar e terceira pessoa não identificada, da qual sobressai a induvidosa autoria do crime por este denunciado e o envolvimento de Eduardo (fls. 134-138), havendo referência, inclusive, à prisão de Eduardo no hospital em Porto Alegre e ao crime cometido na cidade de Garibaldi.
+Não é difícil concluir pelo envolvimento de Eduardo, considerando que ele e Vilmar eram foragidos do Presídio Estadual de Lajeado (fls. 271-272), respondendo, inclusive, pela prática de roubo em outro estabelecimento comercial, dias antes do fato descrito na denúncia, também no Município de Garibaldi.
+Por fim, não há como ignorar que os apelantes agiam em parceria, respondendo, assim, a processos criminais pela prática de delitos de roubo.
+Este é o material probatório colacionado aos autos.
+E, adentrando em sua análise, verifico que, apesar da negativa de autoria sustentada pelos denunciados, os elementos de convicção colhidos durante a instrução demonstram plenamente a conduta descrita na inicial acusatória. Os réus, em comunhão de vontades, tentaram subtrair bens móveis pertencentes às vitimas. Durante a ação delitiva, no entanto, desferiram disparos com armas de fogo contra os ofendidos, ocasionando lesões corporais em uma das vitimas e a morte da outra."
+Como se vê, o Tribunal de origem, soberano quanto à análise do contexto fático-probatório pertinente aos autos, concluiu estarem devidamente demonstradas a materialidade e a autoria no tocante ao delito previsto no art. 157, § 3.º, do Código Penal. Nesse contexto, o pleito absolutório apresentado na impetração veicula simples pretensão de revolvimento das provas. Contudo, não é possível, no estreito âmbito do habeas corpus, realizar nova análise do caderno processual para aferir a correção da tese fática admitida pelas instâncias ordinárias.
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. LATROCÍNIO TENTADO. NEGATIVA DEAUTORIA. ANÁLISE FÁTICO-PROBATÓRIA. INADMISSIBILIDADE NA VIA ELEITA.RECURSO EM LIBERDADE NEGADO NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃOCONCRETA. PERICULOSIDADE DO AGENTE. MODUS OPERANDI. RISCO AO MEIOSOCIAL. GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTEA INSTRUÇÃO DO PROCESSO. MEDIDAS CAUTELARES ALTERNATIVAS.INSUFICIÊNCIA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSOCONHECIDO EM PARTE E, NESTA EXTENSÃO, DESPROVIDO.
+1. É inadmissível o enfrentamento da alegação acerca negativa daautoria delitiva, ante a necessária incursão probatória,incompatível com a via estreita do recurso ordinário em habeascorpus.
+ ..
+6. Recurso ordinário conhecido em parte e, nesta extensão,desprovido." (RHC 119.986/PA, Rel.Ministro JOEL ILAN PACIORNIK,DJe 03/12/2019.)
+Ante o exposto, CONHEÇO em parte da impetração e, na parte conhecida, DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. REVISÃO CRIMINAL. LATROCÍNIO. PLEITO ABSOLUTÓRIO. NEGATIVA DE AUTORIA. NECESSIDADE DE INCURSÃO NO SUBSTRATO FÁTICO-PROBATÓRIO. INVIABILIDADE NO ÂMBITO DO MANDAMUS. ALEGAÇÃO DE AUSÊNCIA DE ELEMENTAR DO TIPO PENAL. MATÉRIA NÃO EXAMINADA NO ACÓRDÃO IMPUGNADO. WRIT CONHECIDO EM PARTE E, NESTA EXTENSÃO, DENEGADO.
