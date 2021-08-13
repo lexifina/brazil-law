@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo manejado por OI S.A.contra decisão que não admitiu seu recurso especial, este, por sua vez, interposto, com fundamento no art. 105, inciso III, a, da Constituição Federal, visando reformar acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJ, fl. 1.233):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. LIMITES DO JULGADO. COISA JULGADA.
+1. A fase de cumprimento de sentença deve prosseguir nos exatos termos da sentença, sob pena de ofensa à coisa julgada.
+2. Não há como reabrir-se a discussão acerca de matéria que deveria ter sido alegada na fase de conhecimento, pois, transitada em julgado a sentença demérito, as partes ficam impossibilitadas de alegar qualquer outra questão, dada a eficácia preclusiva da coisa julgada.
+3. Agravo desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ, fls. 1.258-1.265).
+Nas razões de recurso especial (e-STJ, fls. 1.270-1.280), a parte agravante alegou violação ao art. 535 do CPC/1973.
+Sustentou, em síntese, a ocorrência de omissão e obscuridade no acórdão recorrido, tendo em vista que não enfrentou a questão da sistemática do grupamento de ações, questão imprescindível para o adequado deslinde da causa.
+Apontou que não foi devidamente aplicado o critério de conversão, conforme a cotação na bolsa de valores da data do trânsito em julgado. Defendeu que houve erro de cálculo, sobre matéria de ordem pública, insuscetível de preclusão.
+Contrarrazões apresentadas (e-STJ, fls. 1.291-1.296).
+O Tribunal de origem não admitiu o processamento do recurso especial, o que levou a insurgente à interposição de agravo.
+Contraminuta não apresentada, conforme certidão à fl. 1.313 (e-STJ).
+Brevemente relatado, decido.
+De início, no tocante à suposta violação ao art. 535 do CPC de 1973, observa-se que o acórdão recorrido resolveu satisfatoriamente as questões deduzidas no processo, notadamente a respeito dos elementos autorizadores do levantamento das importâncias depositadas judicialmente a título de pagamento do débito, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Assim, tendo o Tribunal de origem decidido de modo claro e fundamentado, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, inexistem vícios suscetíveis de correção por meios dos embargos de declaração apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+Desse modo, aplica-se à espécie o entendimento pacífico do STJ segundo o qual "não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp n. 1.638.961/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 2/2/2017).
+No mais, o Colegiado de origem, após minuciosa análise dos elementos de fato e de prova dos autos, manteve o cumprimento de sentença nos exatos termos do julgado, sob pena de ofensa à coisa julgada, conforme se verifica do trecho a seguir transcrito (e-STJ, fls. 1.235-1.237):
+Este agravo vem tirado contra a decisão copiada a fls.182/183, que rejeitou a impugnação da agravante/executada que buscou a apuração do valor patrimonial das ações devidas ao agravado com base na cotação da data do trânsito em julgado do processo de conhecimento e não do balancete do mês da integralização e, também, que fossem observadas as operações de grupamento de ações ocorridas após a privatização nos cálculos que-embasam a fase executiva.
+Porém, a decisão agravada deve ser mantida.
+O despacho que recepcionou o recurso foi lançado nos seguintes termos (fls.1.173/1.175):
+"2. Não é possível vislumbrar, ao menos nesse juízo sumário, o requisito da verossimilhança das alegações da agravante.
+Colhe-se dos autos que a sentença objeto da fase de cumprimento, copiada a fls.621/624, determinou que "o cálculo das ações devidas deverá levar em conta o valor patrimonial apurado com base no balancete do mês em que foi realizado o pagamento"", aplicando, assim, o verbete sumular nº371/STJ.
+Assim, sabendo-se que "a fase de cumprimento de sentença deve prosseguir nos exatos termos do julgado, sob pena de ofensa à coisa julgada."(cf. Acórdão da la T/Cível, de 12.03.2012, no AGI nº2011 00 2019.705/3, relator Des. Lecir Manoel da Luz, registro nº570.724), observa-se que, em princípio, os termos do julgado foram fielmente cumpridos.
+Em relação ao critério de grupamento de ações, há de se ver que a matéria sequer foi objeto de alegação na "fase de acertamento do direito, daí porque não conhecido o recurso de apelação da empresa de telefonia quanto ao ponto, conforme trecho do acórdão copiado a fls.829.
+Não há, portanto, como reabrir-se a discussão já na fase de cumprimento do julgado, porquanto a questão está acobertada pela eficácia preclusiva da coisa julgada. Quer isso dizer, em outras palavras, que a matéria deveria ter sido alegada pela ora agravante por ocasião da apresentação de sua defesa na primeira fase da demanda, pois, segundo dispõe o art.474/CPC, transitada em julgado a sentença de mérito, ficam repelidas todas as alegações que as partes poderiam ter feito na petição inicial ou ha contestação a respeito da lide e não fizeram (cf. Barbosa Moreira. A eficácia preclusiva da coisa julgada material no sistema do processo civil brasileiro; pag.100)."
+Como ressalvado, a questão relativa à forma de calcular as ações devidas pela agravante encontra-se sob o manto da coisa julgada, considerando que foram definidos no comando da sentença que se executa, não podendo, portanto, ser reapreciada, nos termos do art.467 do Código de Processo Civil.
+De outro lado, não há como ser reaberta a discussão acerca do critério de grupamento de ações, pois, "transitada em julgado a sentença demérito, as partes ficam impossibilitadas de alegar qualquer outra questão relacionada com a lide. Como bem anotam NELSON NERY JÚNIOR e ROSAMARIA DE ANDRADE NERY, "a este fenômeno dá-se o nome de eficácia preclusiva de Coisa julgada" (in. Código de Processo Civil Comentado, 11ª edição, Ed. Revista dos Tribunais, pag.739).
+III. Por essas razões, nego provimento ao recurso.
+É como voto.
+A respeito do tema, nos termos da jurisprudência consolidada pelo Superior Tribunal de Justiça, "as matérias de ordem pública estão sujeitas à preclusão pro judicato, razão pela qual não podem ser revisitadas se já foram objeto de anterior manifestação jurisdicional" (AgInt no REsp 1.756.189/SP, Rel. Ministro Paulo De Tarso Sanseverino, Terceira Turma, julgado em 08/06/2020, DJe de 12/06/2020).
+Ademais, a revisão das conclusões estaduais demandaria, necessariamente, o reexame de fatos e provas, providência inviável na via estreita do recurso especial, ante a aplicação da Súmula 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECUPERAÇÃO JUDICIAL. LIBERAÇÃO DE VALORES. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. REEXAME DO PLANO RECUPERACIONAL E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático probatório dos autos, a teor do que dispõem as Súmulas n. 5 e 7 do STJ.
+3. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à não observância dos critérios fixados no plano de recuperação judicial para a liberação de valores em autos próprios, demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1626174/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/06/2020, DJe 22/06/2020)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. AÇÃO DE ADIMPLEMENTO CONTRATUAL CUMULADA COM INDENIZAÇÃO POR PERDAS E DANOS. RECUPERAÇÃO JUDICIAL. OMISSÃO. NÃO OCORRÊNCIA. LEVANTAMENTO DE VALORES. POSSIBILIDADE. REVISÃO. INVIABILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. TRÂNSITO EM JULGADO. HABILITAÇÃO. DESNECESSIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando omissão alguma ou negativa de prestação jurisdicional.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. Tendo transitado a impugnação ao cumprimento de sentença antes da recuperação judicial, desnecessária a habilitação do crédito.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1592361/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 15/06/2020, DJe 17/06/2020)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. PAGAMENTO DE INDENIZAÇÃO DECORRENTE DE CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA.OMISSÃO E OBSCURIDADE. NÃO OCORRÊNCIA. CONCLUSÃO DO TRIBUNAL ESTADUAL PELA OCORRÊNCIA DA COISA JULGADA. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
