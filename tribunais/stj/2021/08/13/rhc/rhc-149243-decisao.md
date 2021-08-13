@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido liminar, interposto em face de acórdão assim ementado (fl. 99):
+HABEAS CORPUS - TRÁFICO - PREVENTIVA - PARCIAL CONHECIMENTO - PROVA DO CRIME E INDICIOS DE AUTORIA - PRESSUPOSTOS PRESENTES - MEDIDAS CAUTELARES DIVERSAS - INVIABILIDADE - ORDEM PARCIALMENTE CONHECIDA E, NESTA PARTE, DENEGADA.
+I - Sendo impossível o exame de qualquer valoração do conjunto probatório por meio da via estreita do Habeas Corpus, não se conhece da parte em que o paciente alega ofensa ao princípio da homogeneidade, que não admite a prisão preventiva em caso que seja possível antever que eventual sentença condenatória não resultará em regime fechado.
+II - Presente o fumus comissi delicti (prova da materialidade e indícios de autoria) e o periculum libertatis (risco à ordem pública, à instrução criminal ou à aplicação da lei penal), bem como o requisito instrumental de admissibilidade do artigo 313, I , do CPP (delito abstratamente apenado a mais de 04 quatro anos de reclusão), e irrecomendável a aplicação das medidas cautelares do art. 319 do CPP, denega-se ordem de habeas corpus que visa revogar prisão cautelar imposta por decisão suficientemente fundamentada em elementos concretos, quando a acusação é pela prática de crime extremamente grave, tráfico de 3.089,7 (três mil e oitenta e nove quilos e setecentos gramas) de maconha.
+III - Ordem parcialmente conhecida e, na parte conhecida, denegada.
+Consta dos autos que o recorrente foi preso em flagrante, em 27/4/2021, custódia convertida em prisão preventiva, pela suposta prática docrimeprevisto noart. 33 da Lei 11.343/2006.
+Nas razões recursais, a defesa alega, em síntese, constrangimento ilegal em razão da ausência de fundamentação idônea para a decretação da prisão preventiva, fundamentada unicamente na gravidade abstrata do delito de tráfico de drogas.
+Aduz a desnecessidade da segregação cautelar, tendo em vista a primariedade, residência fixa e emprego lícito.
+Sustenta, outrossim, a possibilidade de aplicação de medidas cautelares alternativas previstas no art. 319 do CPP.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva, com ou sem imposição de medidas cautelares previstas no art. 319 do CPP.
+Indeferida a liminar, e prestadas informações, o Ministério Público Federal manifestou-se pelo conhecimento parcial do recurso e, nessa extensão, pelo seu desprovimento (fls. 173-180).
+A decisão que converteu a prisão em flagrante em preventiva está assim fundamentada(fl. 36):
+Na hipótese versante, reputo necessária a manutenção da prisão provisória do flagrado. A prisão preventiva deve ser decretada com o fito de garantir a ordem pública, tendo em vista a gravidade em concreto de sua conduta, qual seja, transporte de mais de 3.000kg (três toneladas) de droga. A quantidade da droga é grande, o que acaba por fundar a prisão para garantir a ordem pública, a qual estaria sendo colocada em risco com a imediata soltura do flagrado.
+Diante do exposto, parece-me fora de dúvida que a segregação cautelar do conduzido tem o mérito de resguardar os valores da garantia da ordem pública.
+Nesse contexto, o decreto prisional apresenta fundamentação que se mostra idônea para a custódia cautelar, evidenciadana quantidade de drogas apreendida,maisde 3.000kg (três toneladas) de droga.A propósito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE. AUSÊNCIA. RISCO DE CONTAMINAÇÃO PELA COVID-19. AUSÊNCIA DE COMPROVAÇÃO. RECOMENDAÇÃO 62 DO CNJ. NÃO APLICAÇÃO. EXCESSO DE PRAZO. NECESSÁRIO O EXAME APROFUNDADO DO CASO. WRIT INDEFERIDO LIMINARMENTE. SÚMULA 691 DO STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. WRIT INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Apresentada fundamentação concreta para justificar a prisão preventiva, evidenciada nas circunstâncias do crime, que envolveu a apreensão de grande quantidade de droga (1.025g de maconha e 585g de cocaína), não há que se falar em ilegalidade.
+ ..
+5. Agravo regimental improvido. (AgRg no HC 573.792/PB, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/05/2020, DJe 04/06/2020.)
+Ademais, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Por fim, ressalta-se que"Condições pessoais favoráveis não têm, em princípio, o condão de, isoladamente, revogar a prisão cautelar, se há nos autos elementos suficientes a demonstrar sua necessidade, como na espécie." (RHC 111.746/TO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 13/8/2019). No mesmo sentido: RHC 105308/PA, Relator(a) Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/02/2019.
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se.
+Intimem-se.
