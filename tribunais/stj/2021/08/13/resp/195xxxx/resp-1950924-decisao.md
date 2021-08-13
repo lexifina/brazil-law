@@ -1,0 +1,13 @@
+DECISÃO
+SONIA REGINA BRASIL SUCUPIRAinterpõe recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1525521-04.2019.8.26.0228.
+A defesasustenta violação aos arts. 33,§§ 2º e 3º, e 59, ambos do Código Penal, sob o fundamento de que a recorrente é primária eteve a pena-base fixada no mínimo legal, por isso, faz jus ao cumprimento da pena em regime inicial aberto.
+Contrarrazões às fls. 244-252 e decisão de admissibilidade à fl. 308.
+O Ministério Público Federal manifestou-se peloprovimento do recurso especial.
+Decido.
+Consta nos autos que aréfoi condenadaa 2anos e 6 meses de reclusão, em regime semiaberto, mais 250dias-multa, pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006.
+Quanto ao regime inicial de cumprimento da sanção reclusiva, imperioso salientar que, uma vez reconhecida, incidentalmente, a inconstitucionalidade do óbice contido no § 1º do art. 2º da Lei n. 8.072/1990 (STF, HC n. 111.840/ES, DJe 17/12/2013), a escolha do regime inicial deve levar em consideração a quantidade da reprimenda imposta, a eventual existência de circunstâncias judiciais desfavoráveis, bem como as demais peculiaridades do caso concreto (por exemplo, a quantidade, a natureza e/ou a diversidade de drogas apreendidas), para que, então, seja fixado o regime carcerário que se mostre o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33 e parágrafos do Código Penal - com observância também ao disposto no art. 42 da Lei n.11.343/2006.
+Na hipótese, o Tribunal de origemestabeleceuo regime inicial intermediário sem, no entanto, ter apontado elementos concretos dos autos que, efetivamente, evidenciassem a imprescindibilidade de imposição do modo mais gravoso.
+Assim, entendo que o regime inicial semiabertose mostra excessivamente gravoso no caso. Isso porque arecorrente era tecnicamente primáriaao tempo do delito, teve a pena-base fixada no mínimo legal (fl. 215), foi condenadaà pena inferior a 4 anos de reclusão e não foi apreendidacom quantidade excessiva de drogas (12invólucros de maconha, 51 de crack e 15 microtubos contendococaína).
+Portanto, à luz das particularidades do caso concreto, entendo que o regime inicial aberto é, efetivamente, o que se mostra o mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 3º, do Código Penal e do disposto no art. 42 da Lei n. 11.343/2006.
+À vista do exposto, douprovimento ao recurso especial, para estabelecer o regime inicial aberto de cumprimento de pena (Ação Penal n. 1525521-04.2019.8.26.0228).
+Publique-se e intimem-se.
