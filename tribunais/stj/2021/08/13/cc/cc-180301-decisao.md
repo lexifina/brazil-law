@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo d. Juízo da 2ª Vara Federal dos Juizados Especiais Federais de Niterói-SJ/RJ em face do Col. Tribunal Superior do Trabalho, controvertendo acerca da competência para conhecer e julgar ação reivindicando o pagamento de Auxílio Cesta-Alimentação em face da Caixa Econômica Federal.
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, doCPC, deixa-se de colher a opinião ministerial, pois o presente conflitodecompetência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratamdeinteressepúblico ou social, interesse de incapaz oulitígioscoletivospela possede terra rural ou urbana (art. 178, CPC).
+Quanto ao mérito, no que tange à demandas que pretendem o recebimento ou a extensão, a aposentados, de benefício concedido a trabalhadores em atividade, como o caso do auxílio cesta-alimentação, o entendimento do Superior Tribunal de Justiça, consolidado em julgamento submetido ao rito dos recursos repetitivos, é uníssono em declarar a competência da Justiça Comum, Estadual ou Federal.
+Confira-se, a propósito a ementa do precedente uniformizador:
+RECURSO ESPECIAL PREVIDÊNCIA PRIVADA. COMPETÊNCIA. JUSTIÇA ESTADUAL. AUXÍLIO CESTA-ALIMENTAÇÃO. CONVENÇÃO COLETIVA DE TRABALHO. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. COMPLEMENTAÇÃO DE APOSENTADORIA INDEVIDA. EMBARGOS DE DECLARAÇÃO. MULTA. SÚMULA 98/STJ. RECURSO REPETITIVO.
+1. "Embargos de declaração manifestados com notório propósito de prequestionamento não têm caráter protelatório" (Súmula 98/STJ).
+2. Compete à Justiça Estadual processar e julgar litígios instaurados entre entidade de previdência privada e participante de seu plano de benefícios. Precedentes.
+3. O auxílio cesta-alimentação estabelecido em acordo ou convenção coletiva de trabalho, com amparo na Lei 6.321/76 (Programa de Alimentação do Trabalhador), apenas para os empregados em atividade, não tem natureza salarial, tendo sido concebido com o escopo de ressarcir o empregado das despesas com a alimentação destinada a suprir as necessidades nutricionais da jornada de trabalho. Sua natureza não se altera, mesmo na hipótese de ser fornecido mediante tíquetes, cartões eletrônicos ou similares, não se incorporando, pois, aos proventos de complementação de aposentadoria pagos por entidade de previdência privada (Lei 7.418/85, Decreto 5/91 e Portaria 3/2002).
+4. A inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada encontra vedação expressa no art. 3º, da Lei Complementar 108/2001, restrição que decorre do caráter variável da fixação desse tipo de verba, não incluída previamente no cálculo do valor de contribuição para o plano de custeio da entidade, inviabilizando a manutenção de equilíbrio financeiro e atuarial do correspondente plano de benefícios exigido pela legislação de regência (Constituição, art. 202 e Leis Complementares 108 e 109, ambas de 2001).
+5. Julgamento afetado à Segunda Seção com base no procedimento estabelecido pela Lei nº 11.672/2008 e pela Resolução STJ nº 8/2008.
+6. Recurso especial provido.
+(REsp 1207071/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 27/06/2012, DJe 08/08/2012)
+Ante o exposto, conheço do conflito para declarar a competência dod. Juízo da 2ª Vara Federal dos Juizados Especiais Federais de Niterói-SJ/RJ
+Publique-se.
