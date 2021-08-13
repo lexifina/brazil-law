@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de Hítalo Soares da Silvacontra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territóriosno Agravo em Execução n. 0737850-80.2020.8.07.0000.
+Narram os autos que o Juízo da Vara de Execuções Penais do Distrito Federal indeferiu o pedido de aplicação retroativa da Lei n. 13.964/2019, nos autos do Processo n. 0058495-06.2012.8.07.0015, uma vez que, ainda que posteriormente, o paciente veio a se tornar reincidente específico, irradiando tal condição para toda a execução.
+A defesa aponta, na presente impetração, constrangimento ilegal na execução penal do paciente, argumentando que a unificação da execução prevista no art. 111 da LEP não implica na extensão dos efeitos da reincidência à totalidade das execuções. A finalidade do dispositivo citado é apenas de organizar o procedimento executório. Assim, o início de cada nova execução penal, pautada em título condenatório específico, delimita as circunstâncias a serem observadas, bem como a legislação a ser aplicada (fl. 7).
+Diz que a avaliação do pleito de aplicação retroativa da Lei n. 13.964/2019 deve se dar individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório (fl. 8).
+Aduz que, superado o entendimento de que a reincidência configura condição pessoal do apenado, especialmente em razão das alterações promovidas pela Lei n. 13.964/2019, negar ao recorrido a retroatividade da Lei n. 13.964/2019 se consubstancia em um patente constrangimento ilegal, dado que o percentual por ela estabelecido é inferior à fração exigida sob a perspectiva da reincidência como condição pessoal do apenado (fl. 10).
+Busca a aplicação retroativa da Lei n. 13.964/2019, individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório (fl. 10).
+É o relatório.
+A impetração não merece prosseguir.
+Ao que se observa, o Tribunal de Justiça distrital manteve o indeferimento da aplicação retroativa da Lei n. 13.964/2019 (Pacote Anticrime) na execução penal do ora paciente, afirmando que a jurisprudência já sedimentou o entendimento de que a condição de reincidente é de caráter pessoal do condenado, e não específico de cada condenação, de modo que, unificadas as sanções, a reincidência deve incidir sobre a totalidade das penas, e não apenas a partir da condenação em que tal condição foi constatada(fl. 117- grifo nosso).
+Tal conclusão, a meu ver, coaduna-se com oentendimento do Superior Tribunal de Justiça de que, no advento da unificação de penas, a reincidência deve ser observada sobre a totalidade das penas, sendo incabível a aplicação de percentuais diferentes para cada condenação.
+A propósito, precedentes das duas Turmas criminais que compõem o Superior Tribunal de Justiça.:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. EXECUÇÃO PENAL.PROGRESSÃO. LEI N. 13.964/2019. APLICAÇÃO DO PERCENTUAL MAIS GRAVOSO, EM RAZÃO DA REINCIDÊNCIA, PARA A CONCESSÃO DA BENESSE.AUSÊNCIA DE FLAGRANTE ILEGALIDADE. HABEAS CORPUS NÃO CONHECIDO.DECISÃO AGRAVADA MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.decisão agravada por seus próprios fundamentos.
+II - A jurisprudência deste Superior Tribunal de Justiça é firme ao declarar que a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas.Precedentes.
+III - Não se vislumbra na espécie constrangimento ilegal apto para a concessão da ordem de ofício.
+Agravo regimental desprovido.
+(AgRg no HC n. 616.696/SP, Ministro FELIX FISCHER, QUINTA TURMA, julgado em 15/12/2020, DJe 18/12/2020 - grifo nosso)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. INCIDÊNCIA SOBRE A TOTALIDADE DAS PENAS.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. POSSIBILIDADE. QUESTÃO PACIFICADA NO JULGAMENTO DO ERESP N. 1.738.968/MG.
+1. Segundo o reiterado entendimento desta Corte, a reincidência é circunstância pessoal que interfere na execução como um todo. Sendo assim, a condição de reincidente, uma vez adquirida pelo sentenciado, estende-se sobre a totalidade das penas somadas, não se justificando a consideração isolada de cada condenação e tampouco a aplicação de percentuais diferentes para cada uma das reprimendas (HC n. 307.180/RS, Ministro Felix Fisher, Quinta Turma, DJe 13/5/2015).
+2. Em sessão realizada em 27/11/2019, a Terceira Seção do Superior Tribunal de Justiça pacificou o entendimento de que a intangibilidade da sentença penal condenatória transitada em julgado não retira do Juízo das Execuções Penais o dever de adequar o cumprimento da sanção penal às condições pessoais do réu (EREsp n.1.738.968/MG, Ministra Laurita Vaz, Terceira Seção, DJe 17/12/2019).
+3. Agravo regimental improvido.
+(AgRg no HC n. 506.275/MG, da minha relatoria, SEXTA TURMA, julgado em 4/2/2020, DJe 12/2/2020 - grifo nosso)
+Por conseguinte, estando o acórdão impugnado em conformidade com a jurisprudência do Superior Tribunal de Justiça, não há falar em constrangimento ilegal.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. APENADO REINCIDENTE. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. INCIDÊNCIA SOBRE A TOTALIDADE DAS REPRIMENDAS. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
