@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto por DIONATAN PAIM DO NASCIMENTOcontra decisão que inadmitiu o seu recurso especial manejado em face do v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o eg. Tribunal de origem, por unanimidade, deu provimento ao agravo em execução penal ali interposto pelo Parquet estadual (fls. 88-94). Eis a ementa do acórdão:
+"RECURSO DE AGRAVO. EXECUÇÃO PENAL (LEI 7.210/1984, ART. 197).DECISÃO QUE DEFERIU PEDIDO PARA A UTILIZAÇÃO DA FRAÇÃO DE DOIS QUINTOS (QUARENTA POR CENTO) NO CÁLCULO DA PROGRESSÃO DO REGIME PRISIONAL PARA A PENA DO CRIME DE TRÁFICO ILÍCITO DE SUBSTÂNCIAS ENTORPECENTES EM CUMPRIMENTO. INSURGIMENTO DO MINISTÉRIO PÚBLICO DO ESTADO DE SANTA CATARINA.PRETENSA REVOGAÇÃO DO DECISUM . ALEGAÇÃO DE QUE A NOVA REDAÇÃO DO ART. 112, VII, DA LEI DE EXECUÇÃO PENAL, INTRODUZIDA PELA LEI 13.964/2019, DENOMINADA PACOTE ANTICRIME, ESTIPULA O PERCENTUAL DE SESSENTA POR CENTO (TRÊS QUINTOS) NÃO APENAS PARA CONDENAÇÕES POR CRIMES HEDIONDOS OU EQUIPARADOS NA HIPÓTESE DE REINCIDÊNCIA ESPECÍFICA. PERTINÊNCIA. DISPOSITIVO QUE NÃO DIFERENCIA A RECIDIVA NA MESMA NATUREZA DELITIVA OU GENÉRICA.MONTANTE DE QUARENTA POR CENTO DO CORRELATO INCISO V APLICÁVEL SOMENTE AOS AGENTES PRIMÁRIOS. PRECEDENTES.PRONUNCIAMENTO REFORMADO. RECURSO CONHECIDO E PROVIDO."
+Sobreveio recurso especial, interposto com fundamento no art. 105, inciso III, alíneaa, do permissivo constitucional, no qual se sustentou ocorrência de dissídio jurisprudencial, por violação aoart. 112, inciso V, da Lei n. 7.210/1984(fls. 103-112). Para tanto, argumenta que:" ..  para fins de progressão, os condenados pela prática de crime hediondo ou equiparado, acaso primários em delitos desta espécie, devem cumprir 40% (quarenta por cento - o que corresponderia a 2/5 na antiga previsão) da pena, enquanto os que ostentarem reincidência específica devem cumprir 60 % (sessenta por cento - o que corresponderia a 3/5 na antiga previsão)" (fl. 109);
+Requer, ao final, "o conhecimento e o provimento do presente recurso especial para que, reformando-se o acórdão recorrido, seja reconhecida a ilegalidade da decisão proferida pelo TJSC e seja readequada a fração utilizada para progressão de regime, para aquela prevista no artigo 112, inciso V, da LEP" (fl. 112).
+Apresentadas as contrarrazões (fls. 132-145), o eg. Tribunal de origem admitiu o apelo nobre, e os autos foram encaminhados a este Superior Tribunal(fls. 148-151).
+O Ministério Público Federalmanifestou-se pelo não conhecimento do agravo, por ausência de interesse recursal(fls. 177-183). Confira-se a ementa do parecer:
+"RECURSO ESPECIAL. EXECUÇÃO DA PENA. LAPSO TEMPORAL PARA PROGRESSÃO DE REGIME.CONDENADO POR CRIME HEDIONDO REINCIDENTE EM CRIME COMUM. LEI N. 13.964/2019. QUESTÃO JÁ SUBMETIDA À APRECIAÇÃO DO STJ, NO HC 656600 - SC, ONDE A ORDEM FOI CONCEDIDA PARA DETERMINAR A RETIFICAÇÃO DO CÁLCULO DE PENA DE MODO A CONSTAR O PERCENTUAL DE 40% COMO LAPSO TEMPORAL PARA FUTURAS PROGRESSÕES DE REGIME.MERA REITERAÇÃO CONFIGURADA. NÃO CONHECIMENTO DO RECURSO."
+É o relatório.
+Decido.
+O presente recurso encontra-se prejudicado.
+Com efeito,por ocasião do julgamento do HC n. 656.600/SC, de minha relatoria, apósexaminar todas as teses ali aventadas,concedia ordem de habeas corpus, de ofício, para "que o d. Juízo da Execução, em nova análise atualizada da situação do apenado, observe os termos desta decisão, de forma a aplicar o percentual de 40% na progressão de regime ao não reincidente específico em crimes hediondos SEM resultado morte".
+De fato, ao decidir o referido writ, foi analisadaatesealegadano presente recurso.Transcrevo, por oportuno, no que interessa ao caso, excertos do referido decisum:
+"No presente caso, verifica-se que o eg. Tribunal de origem determinou fosse observada a fração própria à reincidência dos crimes hediondos em geral, com a aplicação do atual art. 112, VII, da Lei de Execução Penal.
+Verbis:
+"Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos:
+(..)
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário;
+(..)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado (..)" (grifei) Em Sessão de 9/12/2020, esta Quinta Turma, em alinhamento ao que já vinha sendo julgado pela Sexta Turma desta eg. Corte Superior, no julgamento dos HCs n. 613.268/SP e n. 616.267/SP, passou a decidir em sentido diametralmente oposto aoseu entendimento anterior, pelos fundamentos abaixo mencionados.
+Vejamos a ementa do HC n. 613.268/SP, verbis:
+ ..
+Diante disso, em face do novo entendimento, tenho que o v. acórdão a quo configura flagrante ilegalidade, passível de concessão da ordem nesta impetração, ainda que de ofício.
+Ante o exposto, não conheço do habeas corpus. Concedo a ordem, de ofício, para que o d. Juízo da Execução, em nova análise atualizada da situação do apenado, observe os termos desta decisão, de forma a aplicar o percentual de 40% na progressão de regime ao não reincidente específico em crimes hediondos SEM resultado morte.
+Recomenda-se celeridade nesta apreciação.
+Intime-se, com urgência, o d. Juízo da Execução."
+Nos termos do que consignado pelo d. representante do Ministério Público Federal, em seu parecer:
+"O presente recurso especial, autuado no dia 27/05/2021, é mera reiteração do HC HC nº 656600 / SC (autuado em 04/04/2021), pois formulado em favor da mesma parte (DIONATAN PAIM DO NASCIMENTO), combatendo o mesmo acórdão originário (Agravo em Execução nº. 5079323-56.2020.8.24.0023), com o mesmo pedido (retificação do cálculo de penas, para considerar o lapso temporal de 2/5 - ou 40% - para fins de progressão, tendo em vista a Lei nova mais benéfica).
+Ainda, verifica-se o julgamento do HC nº 656600 / SC, ocasião em que o Ministro Relator Felix Fischer, em decisão monocrática publicada em 20/05/2021, concedeu a ordem, de ofício, para que o d. Juízo da Execução, em nova análise atualizada da situação do apenado, observe os termos desta decisão, de forma a aplicar o percentual de 40% na progressão de regime ao não reincidente específico em crimes hediondos SEM resultado morte. A propósito, o teor do referido julgado" (fls. 1.611, grifei)
+Ante o exposto, nos termos do que preceitua o art. 34, inciso XI, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado orecurso especial.
+P. e I.
+EMENTA
+PENAL E PROCESSUALPENAL.RECURSO ESPECIAL. AGRAVO EM EXECUÇÃO PENAL. JULGAMENTO DO HC N. 656.600/SC. ORDEM CONCEDIDA, DE OFÍCIO. PLEITO DEFERIDO. IDÊNTICOS PEDIDOS. PARECER PELO NÃO CONHECIMENTO DO AGRAVO, POR FALTA DE INTERESSE RECURSAL. RECURSO ESPECIAL PREJUDICADO.
