@@ -1,0 +1,16 @@
+DECISÃO
+ISMAEL FELIPE WILBERT alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina (Apelação Criminal n.5017452-70.2020.8.24.0008).
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 mesesde reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pretende, em síntese, a fixação do regime inicial semiaberto, ocasião em que invoca o disposto no art. 33, § 2º, alíneas, do CP.
+Decido.
+A Corte de origem assim fundamentou a manutenção do regime inicial fechado de cumprimento de pena, in verbis(fls. 40-41):
+Não obstante o êxito parcial do recurso, no tocante à absolvição pelo crime de associação para o tráfico, as circunstâncias de desenvolvimento do tráfico de drogas, conforme bem exploradas na sentença e aqui repisadas demonstram, não permitem a adoção de regime inicial diverso do fechado.
+Entende-se que não só as circunstâncias que levaram à majoração da pena-base, como aquelas consideradas para a denegação do benefício previsto no § 4º do art. 33 da Lei de Drogas merecem especial destaque e constituem fundamentação idônea ao recrudescimento operado, em atenção ao verbete 719 da súmula de jurisprudência do Superior Tribunal deJustiça.
+ ..
+Delineado nos autos que os apelantes possuem vínculos com organização criminosa que permitiu que estes adquirissem drogas em número e valor elevados, não se mostra razoável, muito menos proporcional que o resgate da pena se opere em regime em que o sistema de vigilância do condenado mostra-se contida.
+Inclusive, a justificativa apresentada pelo Togado sentenciante para afastar o benefício do tráfico privilegiado, conforme transcrito anteriormente, aplica-se também ao presente ponto, não sendo necessário reproduzi-lo aqui novamente.
+Assim, não obstante o paciente haja sido definitivamente condenado a reprimenda inferior a 8 anos de reclusão, certo é que a Corte de origem apontou elementos concretos dos autos que justificam a imposição de regime inicial mais gravoso do que o permitido em razão da sanção imposta, quais sejam, a quantidade de drogas apreendidas(quase 5 kg de maconha), a fixação da pena-base acima do mínimo legal e a existência de elementos que evidenciam a dedicação do réu a atividades criminosas, notadamente ao narcotráfico.Não há falar, portanto, em inobservância ao enunciado nas Súmulas ns. 718 e 719 do STF e 440 do STJ.
+Diante de tais considerações, fica mantida inalterada a imposição do regime inicial fechado de cumprimento de pena, nos termos do art. 33, § 2º, "a", e § 3º, do CP.
+Por fim, ressalto que, sob o prisma do entendimento do STJ e do STF acerca da possibilidade de fixação do regime inicial fechado em casos como o dos autos, não vejo razões que impeçam o indeferimento, in limine, da ordem de habeas corpus, notadamente porque expressamente autorizado - pelo inciso XX do art. 34 do Regimento Interno deste Superior Tribunal - que o relator decida o habeas corpus, monocraticamente, quando a decisão impugnada se conformar com súmula do Superior Tribunal de Justiça e/ou do Supremo Tribunal Federal.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
