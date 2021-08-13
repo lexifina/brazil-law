@@ -1,0 +1,12 @@
+DECISÃO
+ACASSIO FERNANDO RODRIGUES alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que negou provimento à Apelação Criminal n.1501024- 97.2019.8.26.0559.
+Consta dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+A defesa pretende, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas no patamar máximo de 2/3 e a fixação de regime inicial mais brando.
+Decido.
+No que tange à pretendida aplicação da causa especial de diminuição de pena descrita no art. 33, § 4º, da Lei n. 11.343/2006, verifico que não há como ser reconhecido o benefício em favor do réu, haja vista a vedação legal expressa da concessão desse redutor aos acusados possuidores de maus antecedentes (Processo n. 3859/16).
+Esclareço à defesa, por oportuno, que, para o afastamento do referido redutor,não é necessário que esses maus antecedentes seja por condenação relativa também a crime de tráfico de drogas; basta que seja geradora de maus antecedentes, tal como no caso.
+Quanto ao regime de cumprimento de pena, constato que o Juiz sentenciante considerou devida a imposição do regime inicial fechado, com base, justamente, naspeculiaridades do caso analisado, ocasião em que salientou: " a  fixação do regime mais gravoso para o início do desconto da pena privativa de liberdade se justifica no caso em comento pela expressiva quantidade da substância entorpecente apreendida e pelas circunstâncias judiciais desfavoráveis do acusado" (fls. 40-41) - tanto quea pena-base foi fixada acima do mínimo legal.
+Taiselementos, de fato, justificam a imposição de regime prisional mais gravoso do que o cabível em razão da reprimenda aplicada.
+Portanto,em homenagem ao princípio do livre convencimento motivado,uma vez que foram apontados argumentos concretos e específicos dos autos para a escolha do regime prisional fechado e porque a pena-base do réu foi estabelecida acima do mínimo legal, deve ser mantida inalterada a fixação do regime inicial fechado, ex vi do disposto no art. 33, §2º, "a", e § 3º, do CP, com observância também ao enunciado no art. 42 da Lei n. 11.343/2006.
+À vista do exposto, com fundamento no art. 34, XX, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
