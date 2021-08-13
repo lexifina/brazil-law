@@ -1,0 +1,4 @@
+DECISÃO
+O recurso integrativo é cabível somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas na decisão embargada e são inadmissíveis quando, a pretexto da necessidade de esclarecimento,aprimoramento ou complemento da decisão impugnada, objetivam nova apreciação do caso.Na espécie, a defesa não apontou nenhuma das hipóteses previstas em lei, visto que fundamenta a existência de obscuridade na comparação da decisão embargada com outro julgado.
+Portanto, a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado. Não há nenhum fundamento que justifique a oposição do reclamo declaratório, que se presta tão somente a sanar um dos vícios previstos no art. 619 do CPP no acórdão combatido, e não a reapreciar a causa.No caso, o reclamo integrativo não comporta acolhimento, visto que a decisão ora embargada À vista do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
