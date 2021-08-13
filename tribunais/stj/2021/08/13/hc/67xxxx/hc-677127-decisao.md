@@ -1,0 +1,16 @@
+DECISÃO
+EDUARDO ARAÚJO DE LIMAS alegaser vítimade coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de Santa Catarina(Apelação Criminal n. 5017946-93.2020.8.24.0020).
+Consta dos autos que opacientefoicondenadoà pena de 5anos e 10meses de reclusão, em regime inicial fechado, pela prática docrimede tráfico de drogas.
+A defesa pretende, em síntese, seja fixado o regime inicial semiaberto. Afirma, para tanto, que, "pelo fato de ter sido o apenado condenado em processo anterior por um crime de furto, sem violência ou grave ameaça à pessoa, com pena de 1 ano em 5 meses convertida em Prestação de serviços à comunidade, em nada faz jus a manutenção de regime inicial de cumprimento de pena tão gravoso"(fl. 5).
+Não houve pedido de liminar. O Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+No que tange ao modo de cumprimento de pena, o Juiz sentenciante estabeleceu o regime inicial fechado, "especialmente considerando a grande quantidade de maconha apreendida e, ainda, porque o réu é reincidente"(fl. 22, grifei).
+O Tribunal de origem, por sua vez, manteve a fixação do regime inicial mais gravoso, conforme abaixo transcrito (fl. 11, grifei):
+Ademais, verifica-se que também não é aplicável o enunciado da Súmula 269 do Superior Tribunal de Justiça: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judicias".
+Na hipótese, o apelante é reincidente, porquanto condenado definitivamente, em 8/5/2020, pela prática do crime de furto qualificado (Evento 89, CERTANTCRIM1, autos originários), sendo irrelevante o fato de não ser a reincidência específica, além de ter-lhe sido imposta reprimenda de 5 (cinco) anos e 10 (dez) meses de reclusão.
+Outrossim, ostenta circunstância judicial desfavorável, consistente na apreensão de mais de duas toneladas de maconha, que guardava e mantinha em depósito em sua residência e, embora argumente que apenas efetuava a guarda do entorpecente, "os policiais civis, ouvidos em fase judicial e policial, narraram que extraíram conversas dos celulares apreendidos do réu, as quais apontavam que este não estaria apenas armazenando a droga, como também realizando a venda das substâncias" (Evento 91, SENT1, autos originários), de modo que, sem maiores delongas, é irreparável a fixação do regime fechado.
+Com efeito, segundo o enunciado na Súmula n. 269 deste Superior Tribunal, "É admissível a adoção do regime prisional semi-aberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais."
+Na espécie, verifico que não há como se aplicar o enunciado sumular anteriormente mencionado, pois, embora a reprimenda haja sido definitivamente estabelecida em patamar superior a 4 anos e inferior a 8 anos de reclusão, opacienteéreincidentee há circunstância judicial a eledesfavorável, tanto que apena-base foi fixada acima do mínimo legal (fl. 22).
+Portanto, à luz das peculiaridades do caso concreto, deve ser mantida inalterada a fixação do regime inicial fechado de cumprimento de pena.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
