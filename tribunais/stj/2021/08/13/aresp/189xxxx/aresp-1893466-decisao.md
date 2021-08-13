@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo interposto por Mayer Werke Engenharia e Equipamentos Industriais Ltda.contra decisão que não admitiu o recurso especial, fundado nas alíneas a e c do inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 173):
+AGRAVO DE INSTRUMENTO - SUSTAÇÃO DE PROTESTO - ALEGAÇÃO DE IRREGULARIDADE - IMPOSIÇÃO DE CAUÇÃO - POSSIBILIDADE - MANUTENÇÃO. 1. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo - artigo 300 do CPC/2015. 2. Caso a probabilidade do direito alegado esteja presente, mas exista risco de o réu suportar efetivo prejuízo em caso de não confirmação das alegações do autor na sentença, a caução poderá ser utilizada como medida assecuratória. 3. No caso dos autos, apesar da insurgência recursal, não há como dispensar a agravante do pagamento da caução, pois, além de não ter sido demonstrada sua hipossuficiência econômica, não há prova robusta de que a cobrança da dívida não é regular. 4. Decisão mantida.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 193-197).
+Nas razões do apelo especial (e-STJ, fls. 199-208), a recorrente alegou a violação dos arts. 300, 489 e 1.022do Código de Processo Civil de 2015, bem como a existência de dissídio jurisprudencial.
+Sustentou, em síntese, a ausência de prestação jurisdicional e de fundamentação; e a desnecessidade de caução quando comprovados os requisitos do art. 300 do CPC/2015.
+Foram apresentadas contrarrazões (e-STJ, fls. 214-218).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a inexistência de violação dos arts. 489 e 1.022 do CPC/2015; ea incidência da Súmula n. 7/STJ (e-STJ, fls. 219-221).
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação do art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte(e-STJ, fls. 176-177):
+Em detida análise dos autos, verifica-se que a decisão a quo não merece reparo.
+Considerando-se que a decisão agravada deferiu tutela provisória em favor do agravante, seu acerto deve ser analisado à luz do que determina o artigo 300 do CPC/15, que assim dispõe:
+(..)
+É importante destacar que a análise nesta instância recursal limita-se ao atendimento dos requisitos exigidos pela lei para concessão de tutela de urgência, uma vez que o momento processual não admite conclusões acerca do acertamento definitivo do direito sobre o qual as partes litigam.
+A possibilidade de condicionar a concessão da tutela de urgência à caução está prevista no § 1º do artigo 300 do C PC /15, in verbis:
+(..)
+O que se extrai da leitura conjunta do caput e do § 1º do artigo 300 do CPC/15 é que, caso a probabilidade do direito alegado esteja presente, mas exista risco de o réu suportar efetivo prejuízo em caso de não confirmação das alegações do autor na sentença, a caução poderá ser utilizada como medida asse curatória.
+(..)
+No caso dos autos, apesar da insurgência recursal, não há como dispensar a agravante do pagamento da caução, pois, além de não ter sido demonstrada sua hipossuficiência econômica, não há prova robusta de que o protesto fora indevido.
+Portanto, apesar da probabilidade do direito alegado pela agravante verificada em cognição sumária, a análise final das alegações e provas poderá conduzir à conclusão diversa, justificando a necessidade da caução.
+Assim, deve ser mantida a decisão que deferiu a tutela provisória requerida, condicionada à prestação de caução.
+Registre-se que o acórdão recorrido foi devidamente fundamentado, não havendo falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp n. 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Além disso, para a revisão dos requisitos necessários ao deferimento datutela de urgência, é necessário o revolvimento do conjuntofático-probatório dos autos, medida defesa em âmbito de recursoespecial, ante o óbice da Súmula n. 7 do Superior Tribunal de Justiça.
+A propósito, guardadas as devidas particularidades:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. TUTELA DE URGÊNCIA. DEFERIMENTO. NATUREZA PRECÁRIA E PROVISÓRIA DO DECISUM.REAVALIAÇÃO. INADMISSIBILIDADE.
+1. O Superior Tribunal de Justiça, em sintonia com o disposto na Súmula 735 do STF, firmou o entendimento de que, via de regra, "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp n. 438.485/SP, rel. Ministro Humberto Martins, DJe de 17/02/2014).
+2. O juízo de mérito desenvolvido em sede liminar, fundado na mera verificação da ocorrência do periculum in mora e da relevância jurídica da pretensão deduzida pela parte interessada, não enseja o requisito constitucional do esgotamento das instâncias ordinárias, indispensável ao cabimento dos recursos extraordinário e especial, conforme exigido expressamente na Constituição Federal - "causas decididas em única ou última instância".
+3. Esta Corte de Justiça admite a mitigação do referido Enunciado, especificamente quando a própria medida importar em ofensa direta à lei federal que disciplina a tutela provisória (art. 300 do CPC/2015).
+4. Hipótese em que o Tribunal a quo, nos autos de incidente de desconsideração da personalidade jurídica, analisou os requisitos do art. 300 do CPC/2015 e, com base no suporte fático-probatório constante nos autos, considerou "que os elementos fáticos que levaram o juiz de origem a liminarmente reconhecer o Grupo Econômico e decretar a indisponibilidade de bens (bacenjud, renajud e CNIB), no âmbito do incidente de desconsideração da personalidade jurídica, estão assentados em fundamentos bastante plausíveis".
+5. A desconstituição do entendimento adotado pelo acórdão recorrido demandaria o revolvimento do arcabouço probatório, providência incompatível com a via do recurso especial em virtude do óbice da Súmula 7 do STJ.
+6. Agravo interno desprovido.
+(AgInt no REsp n. 1.848.826/PE, RelatorMinistro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 26/4/2021, DJe 12/5/2021).
+Por fim, consoante iterativa jurisprudência desta Corte, a incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas de cada caso.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. SUSTAÇÃO DE PROTESTO. IMPOSIÇÃO DE CAUÇÃO. TUTELA DE URGÊNCIA. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
