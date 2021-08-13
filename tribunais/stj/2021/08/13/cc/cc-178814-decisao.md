@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido de liminar, suscitado por GAVILON DO BRASIL COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA - GDB em face do d. Juízo de Direito da 41ª Vara Cível do Foro Central de São Paulo/SP e d. Juízo de Direito da 5ª Vara Cível de Tangará da Serra/MT, perante os quais tramitam, respectivamente, ação de obrigação de fazer e ação resolutória de contrato.
+Afirma a suscitante que firmou contrato de compra de soja com o produtor rural ANTÔNIO DILCEU GUZAIT, no qual estabeleceram cláusula de eleição de foro, prevendo que o Foro Central de São Paulo/SP seria o competente para dirimir os litígios surgidos no cumprimento do contrato (fls. 4/5).
+Sustenta a suscitante que o produtor rural, todavia, somente depois de vencido o prazo contratual iniciou a entrega de parte da quantidade de soja comprada, o que a levou a propor "ação de obrigação de fazer, com pedido de tutela cautelar de sequestro de soja, processo nº 1033235-97.2021.8.26.0100, perante o Foro Central da Comarca de São Paulo/SP", o foro competente, segundo a cláusula de eleição de foro (na fl. 5).
+De outro lado, alega que o produtor rural manejou, perante o d. Juízo de Direito da 5ª Vara Cível de Tangará da Serra/MT, foro de seudomicílio, ação de resolução do contrato de compra e venda de soja em evidência nos autos (na fl. 5).
+Salienta que "o d. Juízo da 5ª Vara Cível de Tangará da Serra/MT desconsiderou a cláusula de eleição de foro e o domicílio da GDB (São Paulo/SP) e deferiu, liminarmente, a suspensão do Contrato" (na fl. 6).
+Afirma que o conflito positivo de competência está caracterizado, pois "existem decisões conflitantes acerca da validade e exigibilidade do Contrato. Uma proferida por Juízo competente (São Paulo/SP), determinando o cumprimento da avença e outra proferida por Juízo incompetente (Tangará da Serra/MT) suspendendo os efeitos contratuais, apesar do Produtor não ter cumprido suas obrigações anteriores no âmbito do Contrato" (na fl. 6).
+Requer, em sede de liminar, "a suspensão dos efeitos de todas as decisões proferidas pelo Juízo da 5ª Vara Cível de Tangará da Serra/MT na Ação Revisional", designando "o Juízo da 41ª Vara Cível do Foro Central da Comarca de São Paulo/SP como provisoriamente competente para decidir quaisquer questões relacionadas ao Contrato, notadamente no que tange a Ação Resolutória e a Ação de Obrigação" (fls. 13/14).
+No mérito, pede que seja declarada a competência do d. Juízo de Direito da 41ª Vara Cível do Foro Central de São Paulo/SP, pois é o competente segundo cláusula de eleição de foro (fl. 14).
+A liminar foi deferida parcialmente.
+As informações foram prestadas.
+É o relatório.
+Passo a decidir.
+Depreende-se dos documentos que instruem a inicial, que a suscitante, GAVILON DO BRASIL COMÉRCIO DE PRODUTOS AGRÍCOLAS LTDA-GDB, firmou com ANTÔNIO DILCEU GUZAIT contrato de compra de 2.400 (duas mil e quatrocentas toneladas) de soja no qual estabeleceram cláusula de eleição de foro, prevendo que o Foro Central de São Paulo/SP seria o competente para dirimir os litígios surgidos no cumprimento do contrato (fls.4/5).
+Outrossim, conforme narra a inicial, em face do descumprimento do prazo de entrega da mercadoria, bem como da entrega de apenas 788 (setecentas e oitenta e oito) toneladas de soja, a suscitante propôs, "ação de obrigação de fazer, com pedido de tutela cautelar de sequestro de soja, processo nº 1033235-97.2021.8.26.0100, perante o Foro Central da Comarca de São Paulo/SP", o foro competente, segundo a cláusula de eleição de foro (nas fls. 5 e 75/76).
+Do mesmo modo, infere-se que o produtor rural manejou, perante o d. Juízo de Direito da 5ª Vara Cível de Tangará da Serra/MT, foro de seu domicílio, ação de resolução do contrato de compra e venda de soja em evidência nos autos, na qual o d. Juízo suscitado deferiu "a liminar pleiteada, determinando-se a imediata suspensão das obrigações contratuais consistentes na entrega do produto soja do contrato descrito na inicial, devendo a requerida suspender quaisquer cobranças relacionadas ao contrato retro abstendo-se de efetuar a inscrição do nome do requerente perante os entes de proteção ao crédito, sob pena de aplicação de aplicação de multa diária no valor de R$ 1.000,00 limitando-se esse preceito cominatório a quantia de R$ 50.000,00" (nas fls. 5 e 95/97).
+O contrato de compra e venda de soja foi juntado nas fls. 36/40 e a cláusula 6.15 do instrumento dispõe:
+"Da Cláusula de Foro. Para dirimir quaisquer questões decorrentes deste Contrato, as Partes elegem o foro da Comarca de São Paulo, SP, ficando facultado ao Comprador, para haver seus direitos, optar pelo foro do domicílio do Vendedor, com o que o Vendedor desde já concorda e aceita em caráter irrevogável e irretratável" (grifou-se, na fl. 40).
+Desse modo, resta caracterizado o conflito positivo de competência.
+Com efeito, o entendimento desta Corte preconiza que a competência para o conhecimento e julgamento dos litígios decorrentes de contrato em que aposta a cláusula de eleição de foro é, via de regra, do Juízo do Foro eleito, sempre que a assinalada cláusula não for aposta em contrato em que um dos aderentes seja hipossuficiente, consumidor ou obreiro, situação inocorrente nos autos.
+Confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. AÇÃO DE NULIDADE DE ACORDO DE ACIONISTAS. CLÁUSULA DE ELEIÇÃO DE FORO. VALIDADE. SUMULA 335/STF. COMPROMISSO ARBITRAL.
+PRESENÇA. REGRAS DE COMPETÊNCIA TERRITORIAL. NÃO OBSERVÂNCIA.
+1. O propósito recursal consiste em avaliar a decisão monocrática, a qual, de plano, estabeleceu o juízo competente para a apreciação de lide acerca de questões societárias existentes entre J&F e MCL, relativas à participação na sociedade ELDORADO.
+2. Decisão agravada declarou a competência da 2ª Vara Empresarial de Conflitos de Arbitragem da Comarca de São Paulo/SP e, por consequência, retirar a eficácia as decisões proferidas pelo TJ/MS.
+3. De acordo com a Súmula nº 335/STF  é válida a cláusula de eleição do foro para os processos oriundos do contrato  e o Superior Tribunal de Justiça mantém essa mesma orientação. Na hipótese, há cláusula de eleição de foro em contrato de compra e venda de participação societária.
+4. O Juízo Suscitante não demonstrou qualquer ilegalidade da cláusula de eleição de foro e, assim, seu conteúdo deve se manter válido e íntegro, o que afasta a competência do Juízo suscitante, em favor do Juízo suscitado.
+5. A presença de cláusula compromissória afasta a apreciação das controvérsias do Poder Judiciário, considerando que o juízo arbitral possui prioridade lógica e temporal. Precedentes.
+6. Nos termos do art. 955, parágrafo único, I, do CPC/2015, nas hipóteses de ofensa a súmulas do STF ou STJ, é permitido ao relator julgar, de plano, o conflito de competência.
+7. As alegações da agravante estão fundamentadas na premissa de que a filial da Eldorado Brasil Celulose é localizada no Município de Três Lagoas/MS.
+Entretanto, a Eldorado não é parte na ação originária.
+8. Argumentos adicionais apresentados no agravo interno são incapazes de infirmar a decisão agravada.
+9. Agravo interno não provido.
+(AgInt no CC 171.855/MS, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 18/08/2020, DJe 21/08/2020) PROCESSO CIVIL.
+AGRAVO INTERNO CONFLITO DE COMPETÊNCIA.AFASTAMENTO DO ART. 952 DO CPC.
+1. A arguição de incompetência relativa por ambas as partes na instância ordinária afasta o óbice previsto no art. 952 do CPC, máxime tendo em vista que os juízos suscitados exararam provimentos incompatíveis entre si e que denotam a necessidade de este Tribunal Superior dirimir a controvérsia, nos exatos termos do art. 66 do CPC, uma vez que a situação de indefinição atenta contra a segurança jurídica, podendo gerar ainda inúmeras outras decisões conflitantes.
+Precedentes.
+2. A cláusula que estipula a eleição de foro em contrato de adesão é válida, desde que não obste o acesso ao Poder Judiciário nem a necessária liberdade para contratar, razão pela qual, para sua anulação, é imprescindível a constatação do cerceamento de defesa e a comprovação da hipossuficiência do aderente. Precedentes.
+3. Ostentando a hipossuficiência caráter excepcional, faz-se mister sua demonstração cabal pela parte que a alega, não sendo a mera condição de consumidor nem a constatação de contrato de adesão, por si sós, capazes de configurá-la per se.
+4. Agravo interno não provido.
+(AgInt nos EDcl no CC 156.994/SP, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, DJe 20/11/2018)
+Ante o exposto, conheço do conflito e declaro competente o dJuízo de Direito da 5ª Vara Cível de Tangará da Serra/MT.
+Publique-se.
