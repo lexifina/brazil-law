@@ -1,0 +1,68 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em face de acórdão assim ementado (fl. 229):
+PENAL E PROCESSO PENAL. AGRAVO DE EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. APLICAÇÃO DO PERCENTUAL DE 3/5 (TRÊS QUINTOS) DE CUMPRIMENTO DA PENA. PLEITO DE APLICAÇÃO DO PERCENTUAL DE 40% (QUARENTA POR CENTO). IMPROVIMENTO. RÉU CONDENADO POR CRIME HEDIONDO. PERCENTUAL QUALIFICADO DE 60% (SESSENTA POR CENTO). REINCIDÊNCIA NÃO ESPECÍFICA. IRRELEVÂNCIA. PERCENTUAL PRETENDIDO CONDICIONADO À PRIMARIEDADE DO RÉU. REINCIDÊNCIA INCONTROVERSA. AGRAVO CONHECIDO E IMPROVIDO. DECISÃO NÃO UNÂNIME.
+1. Nos termos do artigo 112, inciso VII, da lei de execução penal, se o apenado foi condenado por crime hediondo ou a ele equiparado e é reincidente, deve cumprir 60% (sessenta por cento) da pena para obtenção da progressão de regime, seja a reincidência específica ou não. Novo dispositivo, com redação dada pela lei nº 13.964/2019, que manteve o mesmo percentual de cumprimento de pena para a progressão de regime que era previsto no revogado artigo 2º, §2º da Lei nº 8.072/90, qual seja, 60% (sessenta por cento), que equivale a 3/5 (três quintos) da pena;
+2. A aplicação do pretendido percentual de 40% (quarenta por cento) é condicionada à primariedade do apenado condenado por crime hediondo. Hipótese em que a reincidência do agravante é matéria incontroversa;
+3. Recurso conhecido e improvido. Decisão por maioria.
+Consta dos autos que o paciente se encontra em cumprimento de pena privativa de liberdade pela prática de crime de tráfico de drogas.
+Sustenta a defesa que o paciente foi condenado à pena de 4 (quatro) anos de reclusão por roubo simples e, posteriormente, à pena de 5 (cinco) anos de reclusão por tráfico de drogas.
+Alega que o sentenciado tem direito à progressão de regime após o cumprimento de 40% (quarenta por cento) da segunda pena, por não ser reincidente específico na prática de crime hediondo.
+Reitera que o paciente ostenta reincidência simples e que não se enquadra nas hipóteses do inciso VI do art. 112 da LEP, e que a Lei nº 13.964/2019 constitui lei posterior mais benéfica, devendo retroagir para beneficiá-lo.
+Requer, liminarmente e no mérito, seja retificado o cálculo referente à progressão de regime, para que seja utilizada a fração de 40% para a progressão de regime do crime de tráfico de drogas, nos termos do art. 112, V, da LEP.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art.34, XVIII e XX, do RISTJ.
+Verifica-se que, na origem, a defesa requereu a aplicação do percentual de 40% (quarenta por cento) de cumprimento da pena para a progressão de regime, o que foi indeferido pelo Juízo de Execuções Penais, que manteve o percentual de 3/5 (três quintos) de cumprimento da pena para a referida progressão.
+A defesa interpôs agravo de execução, que foi desprovido pelo Tribunal de origem, por maioria, com base nos seguintes fundamentos (fls. 219-225):
+Conforme relatado, o agravante pleiteia que seja modificado o percentual de cumprimento de sua pena para a progressão de regime, de 60% (sessenta por cento) para 40% (quarenta por cento). Afirma que, conquanto não seja primário, a sua condenação anterior se deu por roubo simples, ou seja, crime comum, não hediondo, fazendo incidir na hipótese o dispositivo previsto no artigo 112, V, da lei de execução penal, com a redação dada pela lei nº 13.964/2019.
+Acrescenta o recorrente que o referido dispositivo legal é norma penal mais benéfica, pelo que deve retroagir para beneficiá-lo (novatio legis in mellius). Diz ainda ser insubsistente a interpretação sistemático-teleológica do dispositivo, que deve ser interpretado de maneira taxativa e restritiva, em obediência ao princípio da reserva legal. Ressalta a impossibilidade de se presumir equívocos no trabalho legiferante, aduzindo ainda que eventual erro na lei deve ser reparado pelo Poder Legislativo, não pelo Poder Judiciário.
+O pleito recursal não pode ser acolhido.
+O artigo 112 da lei de execução penal, cuja redação foi dada pela lei nº 13.964/2019, tem a seguinte redação:
+(..)
+A princípio, deve ser salientado que a reincidência do réu é fato incontroverso. Não há dúvidas de que ele cometeu novo crime, depois de transitar em julgado sentença que o condenou por crime anterior.
+O único ponto controvertido neste recurso são os efeitos da sobredita reincidência no tocante ao percentual de cumprimento de pena para a progressão de regime. Antes do advento da referida lei nº 13.964/2019, a progressão de regime, no caso dos condenados pelos crimes hediondos, ocorria após o cumprimento de 2/5 (dois quintos) da pena, se o apenado fosse primário, e de 3/5 (três quintos), se reincidente.
+Note-se que, ao tratar do reincidente condenado por crime hediondo, o percentual de cumprimento era maior (3/5), independente da natureza da reincidência, fosse ela específica ou não.
+O que defende o recorrente é que a nova lei inaugurou nova hipótese, deixando o percentual maior de cumprimento de pena (3/5 ou 60%) apenas para aqueles reincidentes específicos, ou seja, para os agentes que cometessem novo crime hediondo, após transitar em julgado sentença que os condenou por crime anterior também hediondo.
+Ora, não é bem isso que diz o novo dispositivo. Em primeiro lugar, a irresignação recursal não pode prosperar porque o recorrente sequer cumpre todos os requisitos do pretendido inciso V do artigo 112 da LEP. Pela interpretação literal e restritiva do dispositivo (tipo de interpretação que o recorrente pleiteia seja aplicada na hipótese), o réu condenado por crime hediondo só faz jus ao percentual de 40% (quarenta por cento) de cumprimento da pena para a progressão de regime, "se for primário".
+Ora, o recorrente não é primário, fato esse incontroverso.
+Ao contrário, é reincidente, posto que já havia sido condenado anteriormente por roubo simples, o que afasta por completo a aplicação do referido artigo 112, V da LEP.
+Quanto ao artigo 112, VII da mesma lei, devo reconhecer que a redação imprimida no dispositivo não é das melhores, pois traz margem de dúvida quanto à aplicação do percentual de 60% (sessenta por cento) de cumprimento de pena para progressão de regime do apenado reincidente não específico em crime hediondo.
+No entanto, penso que quando a lei menciona a palavra "reincidente" na prática de crime hediondo, não está a tratar apenas do reincidente específico, mas de qualquer reincidente.
+A bem da verdade, a lei diz que se a reincidência ocorre em razão da prática de um crime hediondo, ou equiparado a hediondo, é absolutamente indiferente a natureza da condenação anterior, seja ela por crime hediondo, seja ela por crime comum. Tanto isso é verdade que, como já dito, a mesma lei condicionou a aplicação do pretendido percentual de 40% (quarenta por cento) à primariedade do apenado condenado por crime hediondo.
+Sendo assim, não resta margem de dúvidas a respeito da fração que deve ser cumprida pelo ora agravante na hipótese. Aliás, dita interpretação está em absoluta consonância com a jurisprudência do Superior Tribunal de Justiça à época da vigência da lei nº 11.464/2007, para o qual o requisito objetivo para a progressão de regime em favor dos condenados por crime hediondo era o cumprimento de 3/5 (três quintos) da pena, independentemente da reincidência ser específica ou não.
+É de se notar, outrossim, que a nova legislação não faz uso da expressão "reincidente específico" (como faz diversos outros textos legais que tratam da matéria), fazendo menção apenas a "reincidente na prática de crime hediondo ou equiparado".
+Esse ponto é importante quando se verifica, em análise comparativa, que o legislador sempre usa a expressão "reincidente específico" quando pretende excepcionar o tipo de reincidência, fazendo-o de maneira expressa.
+Sendo assim, resta absolutamente evidente que o inciso VII do artigo 112 da LEP não é hipótese de novatio legis in mellius, pois manteve o mesmo percentual de cumprimento da pena para a progressão de regime, em caso de réus reincidentes que praticam crime hediondo, qual seja, 3/5 (três quintos), que equivale a 60% (sessenta por cento).
+Aliás, a 3ª Câmara Criminal desta Corte já se pronunciou no sentido de ser incabível a aplicação do percentual de 40% (quarenta por cento) aos reincidentes que cometem crime hediondo.
+Nesse sentido:
+(..)
+No mesmo sentido, trago à colação o seguinte precedente, proveniente do Tribunal de Justiça do Rio Grande do Sul:
+(..)
+Não é outro, aliás, o entendimento da Ministra Laurita Vaz, do Superior Tribunal de Justiça, que em decisão monocrática datada de 03/08/20, denegou ordem de habeas corpus nos seguintes termos (HC 584292 - SP - 2020/0123545-1):
+(..)
+Por todo o exposto, em total consonância com a Procuradoria de Justiça, voto pelo improvimento do recurso de agravo de execução penal, mantendo-se íntegra a decisão ora atacada.
+É como voto.
+O revogado §2º, do artigo 2º, da Lei nº 8.072/1990 determinava que "a progressão de regime, no caso dos condenados pelos crimes previstos neste artigo, dar-se- á após o cumprimento de 2/5 (dois quintos) da pena, se o apenado for primário, e de 3/5 (três quintos), se reincidente, observado o disposto nos §§ 3º e 4º do art. 112 da Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal)".
+A redação do referido parágrafo não gerava dúvida alguma, e por isso havia se firmado nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores - se por crime comum ou por delito hediondo (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019) - (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+Tal entendimento, contudo, era fundamentado na Lei de Crimes Hediondos, em especial no revogado § 2º do art. 2º da Lei n. 8.072/1990.
+Ocorre que, com o advento da Lei n. 13.964/2019 (Pacote Anticrime), os requisitos objetivos para a progressão de regime foram alterados, conforme a nova redação do art. 112 da Lei de Execução Penal:
+Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos: (Redação dada pela Lei nº 13.964, de 2019)
+I - 16% (dezesseis por cento) da pena, se o apenado for primário e o crime tiver sido cometido sem violência à pessoa ou grave ameaça; (Incluído pela Lei nº 13.964, de 2019)
+II - 20% (vinte por cento) da pena, se o apenado for reincidente em crime cometido sem violência à pessoa ou grave ameaça; (Incluído pela Lei nº 13.964, de 2019)
+III - 25% (vinte e cinco por cento) da pena, se o apenado for primário e o crime tiver sido cometido com violência à pessoa ou grave ameaça; (Incluído pela Lei nº 13.964, de 2019)
+IV - 30% (trinta por cento) da pena, se o apenado for reincidente em crime cometido com violência à pessoa ou grave ameaça; (Incluído pela Lei nº 13.964, de 2019)
+V - 40% (quarenta por cento) da pena, se o apenado for condenado pela prática de crime hediondo ou equiparado, se for primário; (Incluído pela Lei nº 13.964, de 2019)
+VI - 50% (cinquenta por cento) da pena, se o apenado for: (Incluído pela Lei nº 13.964, de 2019)
+a) condenado pela prática de crime hediondo ou equiparado, com resultado morte, se for primário, vedado o livramento condicional; (Incluído pela Lei nº 13.964, de 2019)
+b) condenado por exercer o comando, individual ou coletivo, de organização criminosa estruturada para a prática de crime hediondo ou equiparado; ou (Incluído pela Lei nº 13.964, de 2019)
+c) condenado pela prática do crime de constituição de milícia privada; (Incluído pela Lei nº 13.964, de 2019)
+VII - 60% (sessenta por cento) da pena, se o apenado for reincidente na prática de crime hediondo ou equiparado; (Incluído pela Lei nº 13.964, de 2019)
+VIII - 70% (setenta por cento) da pena, se o apenado for reincidente em crime hediondo ou equiparado com resultado morte, vedado o livramento condicional. (Incluído pela Lei nº 13.964, de 2019)
+Constata-se, assim, que o § 2º do art. 2º da Lei n. 8.072/1990 não diferenciava a reincidência específica da genérica para o cumprimento de 3/5 da pena para fins de progressão de regime, ao contrário da nova redação do inciso VII do art. 112 da LEP.
+Nessa linha de entendimento, a situação prevista no inciso VII do art. 112 da LEP refere-se aos casos de reincidência de crimes hediondos em geral, deixando o Pacote Anticrime de tratar sobre a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+Assim, em razão da omissão legal, não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% que trata sobre a reincidência em crime hediondo ou equiparado.
+Ao contrário, merece na hipótese o uso da analogia in bonam partem para fixar o percentual de 40% previsto no inciso V do art. 112, relativo ao primário e ao condenado por crime hediondo ou equiparado.
+O referido entendimento foi acatado pela Sexta Turma do Superior Tribunal de Justiça que, no julgamento do HC 581.315/PR, concluído em 6/10/2020, e por unanimidade de votos, concedeu a ordem de habeas corpus (DJe 16/10/2020).
+Há, portanto, constrangimento ilegal passível do deferimento do pedido.
+Ante o exposto, concedo liminarmente o habeas corpus para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime.
+Comunique-se.
+Publique-se.
+Intimem-se.
