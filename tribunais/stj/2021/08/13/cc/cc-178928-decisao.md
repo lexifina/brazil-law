@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO em face do JUÍZO DE DIREITO DA 9ª VARA CÍVEL DO FORO REGIONAL I - SANTANA/SÃO PAULO/SPem ação ordinária ajuizada em face entidade de previdência privada,visando, em síntese, "o reconhecimento da abusividade de valores cobrados, com sua manutenção e restabelecimento do plano, além da devolução dos valores pagos em excesso" (na fl. 255).
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela possede terra rural ou urbana (art. 178, CPC).
+Ademais, a questão, corriqueira nesta Corte, é de singela resolução.
+De fato, a eg. Segunda Seção desta Corte, no julgamento do Incidente de Assunção de Competência - IAC nº 5, consolidou o entendimento vinculante de que, compete à Justiça comum julgar as demandas relativas a plano de saúde, mesmo que organizadas sob a modalidade de autogestão empresarial e ainda que figure como parte trabalhador aposentado ou dependente do trabalhador, exceto quando o benefício for instituído por meio de convenção coletiva ou acordo coletivo de trabalho, hipótese em que a competência será da Justiça do Trabalho.
+Confira-se, a propósito, a ementa de um dos julgados que dão fundamento à tese vinculante:
+INCIDENTE DE ASSUNÇÃO DE COMPETÊNCIA. CONFLITO NEGATIVO DE COMPETÊNCIAS. CIVIL E PROCESSUAL CIVIL (CPC/2015). PLANO DE SAÚDE COLETIVO EMPRESARIAL. CONTROVÉRSIA ACERCA DA COMPETÊNCIA DA JUSTIÇA DO TRABALHO. CASO CONCRETO. DIREITO DE MANUTENÇÃO DE APOSENTADO POR INVALIDEZ. PLANO COLETIVO EMPRESARIAL. OPERADORA DE MODALIDADE NÃO AUTOGESTÃO. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Controvérsia acerca da competência da Justiça do Trabalho para julgamento de demanda entre usuário e operadora de plano de saúde coletivo empresarial.
+2. Teses para os efeitos do art. 947, § 3º, do CPC/2015:
+2.1. Compete à Justiça comum o julgamento das demandas entre usuário e operadora plano de saúde, exceto quando o plano é organizado na modalidade autogestão empresarial, sendo operado pela própria empresa contratante do trabalhador, hipótese em que competência é da Justiça do Trabalho.
+2.2. Irrelevância, para os fins da tese 2.1, da existência de norma acerca da assistência à saúde em contrato de trabalho, acordo ou convenção coletiva.
+2.3. Aplicabilidade da tese 2.1 também para as demandas em que figure como parte trabalhador aposentado ou dependente do trabalhador.
+3. Julgamento do caso concreto: 3.1. Demanda ajuizada na justiça estadual, por ex-empregada aposentada por invalidez, visando a sua manutenção no plano coletivo empresarial prestado por operadora de modalidade diversa da autogestão.
+3.2. Declinação de competência pelo Tribunal de Justiça ao juízo do trabalho, tendo este suscitado o presente conflito negativo de competências.
+3.3. Aplicação da tese 2.1, "a contrario sensu", para se declarar competente o juízo estadual, devendo dos autos retornarem ao Tribunal de Justiça suscitado.
+4. CONFLITO ACOLHIDO PARA SE DECLARAR COMPETENTE PARA A DEMANDA JUÍZO DA 18ª VARA CÍVEL DA COMARCA DE SÃO PAULO.
+(CC 167.020/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, julgado em 11/03/2020, DJe 17/03/2020)
+No caso,tanto as razões do pedido quanto os fundamentos da contestação fazem referência direta à Lei 9.656/1988 (fl. 165), sem demonstrar que o pretendido direito tenha origem em norma trabalhista.
+Desse modo, aplica-se ao caso a jurisprudência desta Corte acerca do assunto que alinha-se ao entendimento do col. Supremo Tribunal Federal adotado no julgamento dos Recursos Extraordinários nº 586.453/SE e nº 583.050/RS, assentando ser da Justiça Comum a competência para processar e julgar demandas dessa natureza.
+Confira-se, a propósito, a ementa desse último:
+EMENTA Recurso extraordinário - Direito Previdenciário e Processual Civil - Repercussão geral reconhecida. - Competência para o processamento de ação ajuizada contra entidade de previdência privada e com o fito de obter complementação de aposentadoria - Afirmação da autonomia do Direito Previdenciário em relação ao Direito do Trabalho - Litígio de natureza eminentemente constitucional, cuja solução deve buscar trazer maior efetividade e racionalidade ao sistema - Competência da Justiça comum para o processamento do feito - Recurso não provido.
+1. A competência para o processamento de ações ajuizadas contra entidades privadas de previdência complementar é da Justiça comum, dada a autonomia do Direito Previdenciário em relação ao Direito do Trabalho. Inteligência do art. 202, § 2º, da Constituição Federal a excepcionar, na análise desse tipo de matéria, a norma do art. 114, inciso IX, da Magna Carta.
+2. O intérprete diante de controvérsia em que há fundamentos constitucionais para se adotar mais de uma solução possível deve optar por aquela que efetivamente trará maior efetividade e racionalidade ao sistema. 3. Recurso extraordinário não provido. (RE 583050, Relator(a) p/ Acórdão: Min. DIAS TOFFOLI, Tribunal Pleno)
+Ante o exposto, conheço do conflito e declaro a competência do JUÍZO DE DIREITO DA 9ª VARA CÍVEL DO FORO REGIONAL I - SANTANA/SÃO PAULO/SP.
+Publique-se.
