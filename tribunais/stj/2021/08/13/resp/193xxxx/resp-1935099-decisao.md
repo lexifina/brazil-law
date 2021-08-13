@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. TÍTULO EXECUTIVO JUDICIAL. FASE DE CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. REJEIÇÃO. BASE DE CÁLCULO PARA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. QUESTÃO ANTERIORMENTE DECIDIDA. AUSÊNCIA DE OPORTUNA INTERPOSIÇÃO DE RECURSO. PRECLUSÃO. OCORRÊNCIA. REDISCUSSÃO. IMPOSSIBILIDADE.
+1. Considerando que a parte deixou de exercer, a tempo e modo oportunos, a faculdade de impugnar a decisão que fixou os honorários advocatícios com base no valor atualizado da causa, operou-se a preclusão da pretensão relativa à modificação do valor dos honorários advocatícios.
+2. Desse modo, mostra-se inviável a rediscussão da matéria em sede de agravo de instrumento interposto contra posterior decisão que rejeitou a impugnação ao cumprimento de sentença, confirmando os termos da r. sentença, exarada nos autos da ação de execução de título extrajudicial.
+3. Agravo de Instrumento conhecido e não provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a recorrente violação do artigo 292 do Código de Processo Civil.
+Alega que emendou a inicial alterando o valor da causa, com o intuito de adequar com o valor executado.
+O recurso foi admitido na origem, nos termos da decisão de fls. 221-222, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Com efeito, o Tribunal de origem, com base nos fatos e provas dos autos, rejeitou a impugnação ao valor exequendo, como se extrai dos trechos (fl. 172, e-STJ):
+Com efeito, não há como acolher a argumentação ventilada pela ora agravante, uma vez que a sentença que fixou os honorários advocatícios, tomando por base o valor da causa informada na inicial da ação de execução, transitou em julgado.
+Consoante o disposto no art. 507 do Código de Processo Civil (CPC) é vedado discutir novamente, no curso do processo, questões discutidas e acobertadas pela preclusão.
+Pois bem. Uma vez que a parte agravante não se insurgiu a tempo e modo contra a r. sentença, não pode, nos estreitos limites da impugnação ao cumprimento de sentença, discutir questão que deveria ter sido objeto de recurso próprio.
+Assim, caso a ora agravante pretendesse reformar a decisão que não modificou o valor da causa, deveria ter interposto o recurso no momento oportuno, de modo a não violar os limites objetivos da coisa julgada.
+Na hipótese sub examine, ficou caracterizada a ocorrência de preclusão, o que inviabiliza a rediscussão da referida questão, porquanto a base de cálculo utilizada para fins de fixação dos honorários advocatícios, repita-se, já havia sido analisada, operando-se a preclusão.
+A revisão do entendimento acerca da interpretação do título exequendo e das prestações jurisdicionais exaradas no curso do processo, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, o que é vedado, em sede de recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Confiram-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC NÃO CONFIGURADA. EMBARGOS À EXECUÇÃO DE HONORÁRIOS SUCUMBENCIAIS CONTRA A FAZENDA PÚBLICA. VIOLAÇÃO À COISA JULGADA. OBSERVÂNCIA AO TÍTULO JUDICIAL TRANSITADO EM JULGADO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA7/STJ.
+1. Inicialmente, constata-se que não se configura a ofensa ao art. 1.022 do Código de Processo Civil, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, em conformidade com o que lhe foi apresentado. Com efeito, o acórdão vergastado foi claro ao asseverar que, quanto à base de cálculo dos honorários constantes do título executivo, nota-se nas certidões emitidas pela Divisão de Cadastro e Pagamento da Secretaria de Recursos Humanos do TRF da 2ª Região e fichas financeiras acostadas aos autos que a incorporação do percentual de 11,98% aos vencimentos dos servidores/autores ocorreu em outubro de 2000, conforme decisão do Conselho da Justiça Federal no P.A. 200024005, e não em virtude daquilo que foi estipulado em decisão judicial.
+2. Não se olvida que o STJ possui o entendimento de que os valores pagos administrativamente devem ser compensados na fase de liquidação do julgado, mas tal compensação não pode interferir na base de cálculo dos honorários sucumbenciais. Todavia, repita-se, na hipótese específica dos autos, o Tribunal de origem estabeleceu que o pagamento realizado aos autores não decorreu da decisão judicial transitada em julgado, o que faz presumir não estarem esses valores pagos administrativamente sequer abarcados pela citada decisão judicial.
+3. Dessarte, extrai-se do acórdão vergastado e das razões do Recurso Especial que o acolhimento da pretensão recursal demanda reexame do contexto fático-probatório, mormente dos limites da decisão judicial transitada em julgado, o que não se admite ante o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1624166/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 22/10/2020)
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C REPETIÇÃO DE INDÉBITO E INDENIZAÇÃO POR DANOS MORAIS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRECLUSÃO DA JUNTADA DE DOCUMENTOS. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA N. 283/STF. NULIDADE DA SENTENÇA POR INOVAÇÃO DA LIDE. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. REGULARIDADE DE ASSINATURA EM CONTRATO. ÔNUS DA PROVA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 284/STF. LITIGÂNCIA DE MÁ-FÉ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INADMISSIBILIDADE. SÚMULA N. 7 DO STJ. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+3. No caso concreto, para alterar a conclusão do Tribunal de origem de que inexistiu nulidade na juntada dos documentos pela recorrida, seria necessária nova análise de circunstância fática-probatória, inviável em recurso especial.
+4. Além disso, o recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+6. No caso, a reforma do acórdão recorrido, que consignou que o julgamento se limitou aos pedidos iniciais e à defesa apresentada pela parte adversa, demandaria revolvimento do conjunto fático-probatório, vedado em sede de recurso especial.
+7. Não se afigura viável o agravo interno cujas razões estão dissociadas dos fundamentos da decisão impugnada (Súmula n. 284/STF).
+8. Não há como rever a conclusão do acórdão sobre a aplicação da pena por litigância de má-fé, porque demandaria reexame do conjunto fático-probatório dos autos, providência não admitida no âmbito desta Corte, a teor da Súmula n. 7/STJ.
+9. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao agravo em recurso especial.
+10. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1690814/MT, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 18/3/2021)
+Em face do exposto, nego provimento ao recurso especial.
+Intimem-se.
