@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência, suscitado pelo d. Juízo da 9ª Vara do Trabalho de São Paulo/SPem face do d. Juízo de Direito da 2ª Vara de Acidentes do Trabalho de São Paulo/SP.
+O incidente foi estabelecido nos autos de ação visando "indenização por danos morais e materiais, em razão de suposta fraude bancária e apropriação indébita de valor relativo à parcela de financiamento de veículo automotor paga equivocadamente pelo demandante" (na fl. 3).
+Od.Juízo Cível, perante quem a lide foi deduzida originariamente, declinou de sua competência para a Justiça do Trabalho, alegando que "sabe-se que a competência para processar e julgar ações de indenização por danos morais cabe à Justiça do Trabalho e não à Vara de Acidentes do Trabalho (sic)" (na fl. 16).
+Por sua vez,d. Juízo do Trabalho,a quem o feito foi distribuído, também declinando de sua competência, suscitou o presente conflito, sob o fundamento de que "questões relativas à indenização por danos morais e materiais decorrentes de relação de consumo, como o são tanto os contratos de financiamento de veículos quanto os casos de fraude no processamento do pagamento de boletos bancários, são típicas do Direito Civil e do Direito do Consumidor, não guardando, em absoluto, liame com o Direito do Trabalho" (na fl. 4).
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela posse de terra rural ou urbana (art. 178, CPC).
+Ademais, a questão é de singela resolução.
+Com efeito, como de trivial sabença, a competência em razão da matéria é fixada a partir da causa de pedir e do pedido deduzidos em juízo, conforme definidos na petição inicial da ação, na contestação e nos atos processuais posteriores.
+Assim, na análise das peças que instruem o presente, não obstante a aparente falta de atenção do d. Juízo Cível, colhe-se que a ação foi proposta por consumidor, suposta vítima de fraude bancária, não guardando qualquer correlação com indenização por danos morais, como referido pelo d. Juízo Cível suscitado, tampouco com qualquer espécie de relação jurídica tutelada pela Justiça do Trabalho.
+Assim, no caso em comento, como a causa de pedir e o pedido não remontam à atos cometidos no âmbito de relação de trabalho, o conhecimento e o julgamento da lide competem à Justiça comum.
+Ante o exposto, conheço do conflito para declarar a competência do d.Juízo de Direito da 2ª Vara de Acidentes do Trabalho de São Paulo/SP ou daquele a quem cabe o julgamento de ações de tal espécie segundo as normas de Organização Judiciária do Estado de São Paulo.
+Publique-se.
