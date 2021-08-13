@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EMPRESA DE TRANSPORTES LIMOUSINE CARIOCA S.A., com fundamento nos arts. 489 e 1.022 do novo CPC, à decisão monocrática desta relatoria de fls. 675-680 (e-STJ), que conheceu do agravo para conhecer parcialmente do recurso especial e, na extensão conhecida, negou-lhe provimento.
+Defende ter havido diversas omissões, carência de fundamentação e erromaterial e de fato na apreciação do acervo probatório da causa na decisão embargada. Nesse sentido, frisa queas imagens mostram que o ônibus não ultrapassou o terceiro veículo, como se notada sequência extraída da mídia arrolada nos autos. Destarte, enfatiza que a decisão tomacomo verdadeiro fato que não está demonstrado nos autos, sendo que este é adotado para sustentar a conclusão de que o ônibus estaria trafegando em velocidade incompatível e causado o acidente.
+Menciona que o Tribunal estadual julgou a lide a partir de causa de pedir que não compõe a pretensão autoral e condenou a embargante ao pagamento de danos morais, em valor exagerado, com base em fundamentos genéricos e abstratos e sem respaldo na legislação e no acervo fático da causa. Pleiteia o afastamento desses vícios processuais (e-STJ, fls. 683-710).
+Contraminuta apresentada (e-STJ, fls. 713-719).
+Brevemente relatado, decido.
+Não há nenhuma omissão, carência de fundamentação,contradição ou qualquer erro, material ou de fato, a serem sanados no julgado ora embargado, portanto inexistentes os requisitos para cabimento dos presentes embargos declaratórios, nos termos do art. 1.022 do novo CPC.
+A decisão desta relatoria dirimiu a controvérsia com base em fundamentação sólida, tendo apenas resolvido a celeuma em sentido contrário ao postulado pelos insurgentes. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Ao contrário do que sustenta a embargante, não se observa a apresentação de justificativas genéricas para manter o acórdão estadual. Com efeito, estão claras as circunstâncias que ensejaram a inviabilidade de provimento do recurso especial.
+Com base na apreciação de fatos e provas constantes nos autos, demonstrou-se que não houve má-fé da recorrida no manejo da lide efirmou-sea existência de culpa exclusiva da recorrente pelo acidente, fato que teria causado danos morais à parte autora. Nessa seara, inclusive, registrou-se com trecho do acórdão que a insurgente não juntou prova que era de sua responsabilidade a fim de esclarecer a velocidade do veículo no momento acidente, como o tacógrafo, mas não o fez.
+Igualmente, percebe-se que não há descompasso entre o decidido em comparação aos pedidos externados na petição inicial, porquanto o fundamento da demanda é a responsabilidade da ora recorrente pelo acidente.Esclareceu-se, ademais, que o valor da reparação teria sido razoável e proporcional. Em razão desse quadro fático, aplicou-se o teor da Súmula 7/STJ.
+Não cabe falar, portanto, em vícios processuais. A carência de menção específica a determinada tese da parte não configura omissão, sendo certo que o julgador é livre para apreciá-lae tomar sua conclusão, como de fato se observa nestes autos.
+A título exemplificativo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INDENIZATÓRIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.INEXISTÊNCIA. DANOS MORAIS. AFASTAMENTO. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. REVISÃO. DESCABIMENTO. SÚMULA 7/STJ.DECISÃO MANTIDA. RECURSO NÃO PROVIDO.
+1. Não configura ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015 o fato de o col. Tribunal de origem, embora sem examinar individualmente cada um dos argumentos suscitados pela parte recorrente, adotar fundamentação contrária à pretensão da parte, suficiente para decidir integralmente a controvérsia.
+2. Na hipótese, o tribunal estadual, à luz dos princípios da livre apreciação da prova e do livre convencimento motivado, bem como mediante análise do contexto fático-probatório dos autos, concluiu pela responsabilidade civil da recorrente.
+3. Infirmar a conclusão da Corte a quo, como ora postulado, exigiria, indubitavelmente, o revolvimento fático-probatório dos autos, o que não se admite no âmbito do recurso especial, ante o disposto na Súmula 7 do STJ.
+4. Somente é admissível o exame do valor fixado a título de danos morais em hipóteses excepcionais, quando for verificada a exorbitância ou a natureza irrisória da importância arbitrada, em flagrante ofensa aos princípios da razoabilidade e da proporcionalidade.
+5. No caso, não se mostra excessivo, a justificar sua reavaliação em recurso especial, o montante estabelecido pelo Tribunal de origem em R$ 6.000,00 (seis mil reais), visto que não é exorbitante nem desproporcional aos danos sofridos pela recorrida, a qual sofreu queimaduras de segundo grau em falange proximal de 2"QD da mão direita.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1720923/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/05/2021, DJe 18/06/2021)
+No tocante à condenação ao pagamento de danos morais in re ipsa, o julgado embargado estampou que o entendimento estadual estaria de acordo com a jurisprudência desta Corte Superior - Súmula 83/STJ. Não bastasse isso, houve referência aatendimento médico-hospitalar da parte, reforçando a ofenda moral justificadora da indenização.
+Destarte, como o julgado está devidamente fundamentado, não é caso de cabimento destes embargos de declaração. Fica nítido que se busca, em verdade, a concessão de efeitos infringentes, sem os vícios a ampará-los.
+Vejam-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL.
+1. Ação de indenização por danos morais.
+2. Rejeitam-se os embargos de declaração quando ausente omissão, contradição, obscuridade ou erro material a ser sanado.
+3. Embargos de declaração no agravo interno no recurso especial rejeitados.(EDcl no AgInt no REsp 1810951/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 10/02/2020, DJe 12/02/2020)
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração rejeitados.(EDcl no REsp 1789667/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA,TERCEIRA TURMA, julgado em 04/02/2020, DJe 13/02/2020)
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO, ERRO MATERIAL OU DE FATO, CARÊNCIA DE FUNDAMENTAÇÃOOU CONTRADIÇÃO NÃO VERIFICADOS. DECISÃO EMBARGADA DEVIDAMENTE FUNDAMENTADA. CONCLUSÃO AMPARADA NAS SÚMULAS7 E 83/STJ. INVIABILIDADE DE CABIMENTO DO RECURSO DO ART. 1.022 DO NOVO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
