@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo em face de decisão que inadmitiu recurso especial interposto por TG CENTRO-OESTE EMPREENDIMENTOS IMOBILIÁRIOS S.A.com fundamento noart. 105, "a" e "c", da Constituição Federal, em face de acórdão proferidopelo eg. Tribunal de Justiça do Estado do Mato Grosso do Sul, assim ementado (fl. 411):
+"EMENTA - APELAÇÕES CÍVEIS - AÇÃO DE RESCISÃOCONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. RECURSO DE APELAÇÃO DA REQUERIDA - CUMULAÇÃODE MULTA COMPENSATÓRIA E LUCROS CESSANTES - FALTA DEINTERESSE RECURSAL - MATÉRIA NÃO CONHECIDA - NÃO HOUVECONDENAÇÃO AO PAGAMENTO CUMULADO - DA PARTE CONHECIDA - LUCROS CESSANTES - COMPROVADOS - DEVER DE INDENIZAR O VALORREMANESCENTE DO CONTRATO, ABATENDO-SE O MONTANTE DA MULTAPENAL COMPENSATÓRIA - RECURSO PARCIALMENTE CONHECIDO E NAPARTE CONHECIDA DESPROVIDO. RECURSO ADESIVO DA AUTORA - DANOS MATERIAIS - NÃO DEMONSTRADOS - DANOS MORAIS (PESSOA JURÍDICA) - NÃOCOMPROVADA OFENSA À HONRA OBJETIVA - RECURSO CONHECIDO E DESPROVIDO. Em se tratando de pessoa jurídica, é imprescindível a prova de ofensa à honra objetiva, ou seja, de que o ato ilícito praticado tenha sido potencialmente lesivo à reputação da empresa, consistente em mácula à imagem, à admiração, ao respeito e à credibilidade comercial."
+Os embargos de declaração foram rejeitados, vide acórdão de fls. 439-443.
+Nas razões do recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação ao art. 413 do Código Civil. Sustenta, em síntese, que é vedada a cumulação de lucros cessantes com a multa contratual.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Com efeito, ao apontar violação ao art. 413 do CC, a parte recorrente defende a impossibilidade de cumulação dos lucros cessantes e da cláusula penal. Por sua vez, o TJ-MS, com arrimo no acervo fático-probatório, concluiu que carece de interesse a referida tese, uma vez que restou consignado o abatimento do valor da multa sobre o valor dos lucros cessantes, não sendo caso de cumulação. A título elucidativo, confira-se:
+"Cumulação de Multa Compensatória e Lucros Cessantes
+A apelante/requerida alega necessária a reforma da sentença no tocante à cumulação de Multa Compensatória e Lucros Cessantes sob o argumento de quando esta for fixada com a finalidade de compensar perdas e danos decorrentes da inexecução total do ajuste, não carece de amparo legal a pretensão cumulativa, visto que os dois institutos ostentam a mesma natureza jurídica.
+Pois bem.
+Adianto que não há interesse recursal nesse ponto do recurso, uma vez que não houve condenação cumulada da multa e do lucro cessante como se vê no dispositivo da sentença, inclusive negritado:"
+Nesse contexto, a pretensão de modificar o entendimento firmado pelo Tribunal de origem, acerca da ausência de interesse recursal, por não se tratar de cumulação dos valores, mas abatimento dos institutos, demandaria o revolvimento do acervo fático-probatório, o que é inviável em sede de recurso especial, nos termos da Súmula 7/STJ. A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. MEDIDA CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. INADEQUAÇÃO DA VIA ELEITA.SÚMULAS 5 E 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. SÚMULA Nº 7 DO STJ.
+1. A Corte de origem, soberana na apreciação do acervo fático-probatório e na interpretação das cláusulas previstas no instrumento contratual, asseverou que, na hipótese vertente, não há documentação específica e individualizada que possa ser considerada comum e passível de exibição. Ressaltou, ainda, que, em consonância com as obrigações assumidas no contrato, mostra-se inadequado o ajuizamento da presente exibição de documentos.
+2. No caso concreto, o acolhimento da pretensão recursal, no sentido de reconhecer o interesse processual para a propositura de medida cautelar de exibição de documentos, com a consequente comprovação da necessidade/utilidade da referida ação, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, bem como a interpretação das cláusulas previstas no instrumento contratual, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+3. Consigne-se, ainda, que, uma vez aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+4. Agravo interno não provido.
+(AgInt no REsp 1521509/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/08/2018, DJe 28/08/2018)
+Insta salientar que, conforme o entendimento desta Corte, a incidência daSúmula 7 pela alínea "a" também obsta o conhecimento do recurso pelaalínea "c" do permissivo constitucional. Nesse sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DEORIGEM. AUSÊNCIA DE AFRONTA AOS ARTS. 489, 508 E 1.022 DO CPC/2015. BAIXADE GRAVAME. DANO MORAL IN RE IPSA. INEXISTÊNCIA. SÚMULA N. 83/STJ.REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE.INCIDÊNCIA DA SÚMULA N. 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.DECISÃO MANTIDA.
+(..)
+5. A incidência da Súmula n. 7 do STJ impede o conhecimento do recursointerposto também com base na alínea "c" do permissivo constitucional.
+6. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1624793/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTATURMA, julgado em 21/09/2020, DJe 24/09/2020)
+Com essas considerações, conclui-se que o recurso não merece prosperar.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Com supedâneo no art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em 1%, observando eventual benefício de justiça gratuita, nos termos do art. 98, § 3º, do CPC/2015.
+Publique-se.
