@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, interposto pela NEGOCIAL FACTORING FOMENTO CML LTDA,fundado no art. 105, III, alíneas "a"da Constituição Federal, em face de acórdão proferido pelo eg. Tribunal de Justiça do Estado do Rio Grande do Rio do Norte, assim ementado:
+APELAÇÃO CÍVEL - OPOSIÇÃOINTERVENTIVA EM AÇÃO ANULATÓR1A -SENTENÇA QUE JULGOU EXTINTO O PROCESSO SEMRESOLUÇÃO DO MÉRITO - JULGAMENTO DA AÇÃOPRINCIPAL DE FORMA NÃO CONCOMITANTE COM AOPOSIÇÃO - JULGADO A QUO TRANSITADA EMJULGADO - INVIABILIDADE DE DESCONSTITUIÇÃODA COISA JULGADA - PARTE QUE, INTIMADA PARASE PRONUNCIAR NOS AUTOS, QUEDOU-SE INERTE -DESATENDIMENTO AO COMANDO JUDICIALEXTINÇÃO QUE SE IMPÕE, NOS TERMOS DO INCISOIII DO ART. 485 DO NCPC - POSSIBILIDADE DECOBRANÇA DA DÍVIDA CONTRA O EMITENTE DOSTÍTULOS DE CRÉDITO, POR OUTRAS VIAS -CONHECIMENTO E DESPROVIMENTO DO RECURSO.(fl. 145)
+Nas razões do recurso especial, aagravante alega violação aosarts.9º, 10, 685,686 e 1.022 doCódigo de Processo Civil,sustentando, em síntese, além de negativa de prestação jurisdicional, que, tendo em vista o apensamento da oposiçãoaos autos principais, deveria o Juízo a quo ter julgado ambas as ações namesma sentença.
+É o relatório.
+Decido.
+A irresignação não procede.
+Inicialmente, não prospera a alegada ofensa ao art. 1022 do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Além disso, a Corte estadualassentou que a anulação da sentença já transitada em julgado implicaria emafronta à coisa julgada, além de que a agravante restou intimada para manifestar interesse na continuidade do feito, contudo, quedou-se inerte, incidindo, assim, o disposto no art. 485, III, do NCPC, conforme se depreendedoseguinte excerto do aresto estadual:
+Apesar de ser fato incontroverso que a oposição apresentadanão foi julgada de forma simultânea à Ação Anulatória de nº 0123570-08.2011.8.20.0001,não há o que modificar na decisão impugnada, uma vez que a anulação da sentença játransitada em julgado nos autos acima referidos, como requerido, implicaria em indevidaafronta à coisa julgada.
+Registre-se que a sentença prolatada na ação principal, quedeu causa ao incidente de oposição, foi datada do ano de 2013, transitando em julgado em11/11/2013.
+Observa-se também que a parte recorrente foi intimada parademonstrar interesse no prosseguimento do feito (fls. 83/84), tendo quedado-se inerte,conforme certidão de fl. 85.
+Assim, sem tecer maiores considerações acerca do supostaimpropriedade do julgamento não conjunto da ação principal (de nº 0123570-08.2011.8.20.0001) e da Oposição nº 0132617-69.2012.8.20.0001, o certo é que a empresaopoente não atendeu a despacho prolatado pelo Juízo sobre o interesse no prosseguimentodo feito.
+Desta forma, uma vez que a parte desconsiderou o comandojudicial, quedando-se inerte, aplicável o disposto no inciso 111 do art. 485 do NCPC queinforma que o juiz não resolverá o mérito quando "não promover os atos e as diligênciasque lhe incumbir, o autor abandonar a causa por mais de 30 (trinta) dias".(fls. 148-149)
+Ocorre que aagravante não rebateu de forma específica e suficientereferida fundamentação, o que atrai, na hipótese, a incidência,por analogia das Súmulas nº 283 e 284 do Supremo TribunalFederal.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUALCIVIL. SÚMULA Nº 7/STJ E NºS 283 E 284/STF. DEFICIÊNCIA NA COMPROVAÇÃO DADIVERGÊNCIA.
+1. A ausência de impugnação dos fundamentos do aresto recorrido enseja onão conhecimento do recurso, incidindo, por analogia, o enunciado dasSúmulas nºs 283 e 284 do Supremo Tribunal Federal.
+2. A reforma do julgado demandaria o reexame do contextofático-probatório, procedimento vedado na estreita via do recursoespecial, a teor da Súmula º 7 do Superior Tribunal de Justiça.
+3. A divergência jurisprudencial, nos ermos do art. 541, parágrafo único,do CPC e do art. 255, § 1º, do RISTJ, exige comprovação e demonstração,esta, em qualquer caso, com a transcrição dos julgados que configurem odissídio, a evidenciar a similitude fática entre os casos apontados e adivergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo regimental não provido." (AgRg no AREsp 293.137/MS, Rel.Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/10/2014,DJe 29/10/2014)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RAZÕES DO RECURSOESPECIAL DISSOCIADAS DOS FUNDAMENTOS O ACÓRDÃO HOSTILIZADO. INCIDÊNCIA DASSÚMULAS 283 E 284/STF. NECESSIDADE DE REVOLVIMENTO DE MATÉRIAFÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVO REGIMENTAL
+NÃOPROVIDO.
+1.. A falta de impugnação objetiva e direta aos fundamentos do acórdão recorrido, denota a deficiência da fundamentação recursal que apegou-seaconsiderações secundárias eque de fato não constituíram objeto de decisãopelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+2. A análise da retensão recursal, a fim de se examinar a validadedaperícia realizada, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado emsede de recursoespecial, nos termos o enunciado da Súmula 7 do STJ.
+3. Inviável o conhecimento do recurso ela alínea "c" do permissivo constitucional, se a análise do dissenso pretoriano dependerdorevolvimento de matéria fático probatória.
+4. Agravo regimental não provido, com aplicação de multa." (AgRg no AREsp
+69.414/SP, Rel. Ministro LUIS FELIPE SALOMÃO , QUARTA TURMA, julgado em 02/10/2014, DJe 16/10/2014)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
