@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+AGRAVO DE INSTRUMENTO. INCIDENTE DE DESCONSIDERAÇÃO DE PERSONALIDADE JURÍDICA. CONDENAÇÃO ÀS PENAS DE LITIGÂNCIA DE MÁ-FÉ E AO PAGAMENTO DE HONORÁRIOS DE SUCUMBÊNCIA. RECONVENÇÃO. DESCABIMENTO. A aplicação das sanções processuais por litigância de má-fé pressupõe conduta maliciosa e temerária da parte que se vale de direito constitucionalmente assegurado (ação e defesa) a fim de alterar a verdade dos fatos, provocar incidente manifestamente infundado ou outra conduta descrita no artigo 80 do CPC, o que, na hipótese, não ocorreu. Ausência de previsão do pagamento de honorários de sucumbência na hipótese de Incidente de Desconsideração de Personalidade Jurídica, nos termos do artigo 85, §1º, do CPC. A reconvenção oferecida pelo recorrente mostra incompatível com a ritualística pontual e própria de mero incidente processual a formulação de uma "pretensão própria, conexa com a ação principal ou com o fundamento da defesa", nos termos do art. 343, caput, do CPC. Precedentes. Conhecimento e desprovimento do recurso.
+Alegou-se, no especial, violação dos artigos 85, § 1º, 80 e 81 do Código de Processo Civil sob o argumento de que são devidos honorários advocatícios e que as agravadas agem de má-fé.
+Assim delimitada a controvérsia, passo a decidir.
+Cuida-se, na origem, de incidente de desconsideração da personalidade jurídica aforado pelas agravadasem que, embora não acolhidos, não houve condenação nos honorários advocatícios e nem em litigância de má-fé.
+Esta Corte tem entendimento de que não cabe, de fato, a pretendida condenação em honorários advocatícios na hipótese dos autos.
+Assim:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PROCESSUAL CIVIL. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. IMPOSSIBILIDADE. AUSÊNCIA DE HIPÓTESE LEGAL. EXCEPCIONALIDADE NÃO EVIDENCIADA. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ.AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Decisão agravada reconsiderada, na medida em que o agravo em recurso especial impugnou devidamente os fundamentos da decisão que inadmitiu o apelo nobre. Novo exame do feito.
+2. "Conforme entendimento da Corte Especial do STJ, em razão da ausência de previsão normativa, não é cabível a condenação em honorários advocatícios em incidente processual, ressalvados os casos excepcionais" (AgInt no REsp 1.834.210/SP, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 12/11/2019, DJe de 6/12/2019).
+3. Estando a decisão de acordo com a jurisprudência desta Corte, o recurso encontra óbice na Súmula 83/STJ, que incide pelas alíneas a e c do permissivo constitucional.
+4. Agravo interno provido para reconsiderar a decisão agravada e, em novo exame, conhecer do agravo para não conhecer do recurso especial.
+(AgInt no AREsp 1691479/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 1/3/2021, DJe 22/3/2021)
+No que toca à pretendida condenação nas penas de litigância de má-fé, a Corte estadual concluiu "que o comportamento dos agravados no âmbito processual não se amolda em qualquer das hipóteses previstas no artigo 80 do Código de Processo Civil, de modo que nada justifica a aplicação da penalidade requerida pelo recorrente" (e-STJ, fl. 39).
+O reexame da causa, portanto, esbarra nas disposições do verbete n. 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao agravo em recurso especial.
+Intimem-se.
