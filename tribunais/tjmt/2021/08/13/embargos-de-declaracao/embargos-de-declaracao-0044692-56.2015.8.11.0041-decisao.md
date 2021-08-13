@@ -1,0 +1,22 @@
+SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+EMBARGOS DE DECLARAÇÃO No 0044692-56.2015.8.11.0041
+EMBARGANTE/APELANTE: JOSE ALENCAR DE SOUZA.
+EMBARGADO/APELADO: ESTADO DE MATO GROSSO.
+VISTOS,
+O Embargante/Apelante, JOSE ALENCAR DE SOUZA, por intermédio da sua r. causídica, compareceu no id.93908470, formulando pedido de renúncia ao direito sobre o qual se funda a pretensão, com anuência do Estado de Mato Grosso, na pessoa do Procurador-Geral do Estado, o qual, por sua vez, renunciou ao direito a recebimento de honorários advocatícios.
+Com a referida petição, juntou no id.93882983, “termo de transação coletiva por adesão”, firmado em 22/06/2021, por Sindicato dos Fiscais de Tributos Estaduais do Estado de Mato Grosso – SINDIFISCO e Sindicato dos Profissionais de Tributação, Arrecadação e Fiscalização do Estado de Mato Grosso – SIPROTAF com o Estado de Mato Grosso, cujo teor, no essencial é o seguinte:
+[...] 1- Relativamente às ações judiciais no. 0504877-92.2015.811.0041, 0504873-55.2015.811.0041, 0057004-98.2014.811.0041 e 0027980-25.2014.811.0041, AUGUSTO CESAR GONÇALVES NEVES, GUSTAVA DAS NEVES MOTTA E ALYSSON PIMENTA RODRIGUES renunciam aos direitos nela pleiteados e quaisquer consequência disso decorrente e, em contrapartida, o ESTADO DE MATO GROSSO renuncia ao recebimento de quaisquer honorários ou despesas processuais, motivando-se, pois, a extinção dos processos, com resolução do mérito, com base no art. 487, III, ‘c’, do Código de Processo Civil;
+2- Em prestígio aos princípios constitucionais citados, especialmente impessoalidade, isonomia, moralidade, publicidade e eficiência, mas sem abrir brecha para comportamentos contrários à boa-fé objetiva (insistência e postergação ao máximo, vindo a realizar acordo apenas após encerradas todas as possibilidades em sentido diverso) e para a ausência de responsabilidade civil e processual de pretensões esdrúxulas ou de má-fé, o Estado de Mato Grosso concorda com idêntico benefício (renúncia ao recebimento de quais honorários ou despesas processuais) relativamente aos demais potenciais interessados que se encontrarem em igual situação e também renunciarem ao direito sobre o qual se fundar suas pretensões, limitadamente (condições cumulativas):
+2.1. às ações ajuizadas por servidores públicos das categorias representadas pelo SINDIFISCO (Sindicato dos Fiscais de Tributos Estaduais do Estado de Mato Grosso) e SIPROTAF (Sindicato dos Profissionais de Tributação, Arrecadação e Fiscalização do Estado de Mato Grosso);
+2.2. às pretensões de ‘reconhecimento da natureza salarial de verbas indenizatórias’ e ‘pagamento de horas extras – e consectários disso decorrentes – para os servidores que trabalham em regime de plantão em postos fiscais’;
+2.3. às pretensões relativas a processo com decisões de mérito ainda não transitadas em julgado;
+2.3. àqueles que assim se manifestarem e aderirem ao presente termo até o dia 30 de julho de 2021, sexta-feira, diretamente nos respectivos processos judiciais, por meio de seus respectivos advogados com poderes especiais para transigir ou renunciar (CPC, art. 105), servindo o presente termo de acordo como anuência irrevogável e antecipada da Procuradoria-Geral do Estado (isto é, não há necessidade de novos requerimentos administrativos perante a PGE e de novos termos a serem assinados primeiramente na PGE);
+Todavia, não consta nos autos qualquer documento subscrito pelo Apelante corroborando com sua adesão ao referido termo ou renunciando expressamente ao direito que se funda a ação, e, no caso, a procuração outorgada por ele às r. causídicas (id.5743642) contém além da cláusula ad judicia, poderes especiais tão somente para confessar, transigir, desistir, firmar compromissos, receber e dar quitações, retirar documentos, inexistindo expressa menção à possibilidade de renunciar o direito e a petição de renúncia foi assinada somente pela patrona.
+Desta forma, não detém a advogada constituída legalmente legitimidade para requerer a renúncia ao direito sobre o qual se funda a ação.
+A par disso, em observância ao que dispõe o artigo 38 do CPC/73 e 105 do CPC/15, determino a intimação da parte Apelante para no prazo de 05 dias, cumprir as formalidades exigidas por lei para que o pleito seja atendido, sob pena de indeferimento.
+Com a juntada, colha-se o parecer ministerial e voltem os autos conclusos.
+Decorrido o prazo sem manifestação, voltem conclusos para nova inclusão em pauta de julgamento.
+Intimem-se. Cumpra-se.
+Cuiabá, data da assinatura digital.
+YALE SABO MENDES
+JUIZ CONVOCADO
