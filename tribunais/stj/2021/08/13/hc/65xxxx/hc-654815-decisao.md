@@ -1,0 +1,28 @@
+DECISÃO
+CASSIO SOUSA DE MANESES alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Cautelar Inominada n. 2031374-05.2020.8.26.0000.
+Requer, liminarmente e no mérito, a concessão da ordem a fim de que seja concedida a liberdade ao acusado, sob o argumento de que a prisão preventiva foi decretada com base na gravidade abstrata do crime, além de não haver observado a contemporaneidade da medida. Salienta as condições pessoais favoráveis do agentee a situação excepcional da pandemia.
+Indeferida a liminar (fls. 589-591) e prestadas as informações (fls. 594-630), veio o parecer do Ministério Público Federal (fls. 634-643), que opinou pela denegação da ordem.
+Decido.
+O paciente, acusado dehomicídio qualificado, teve seu pedido de prisão cautelar inicialmente indeferido pelo Juízo de primeira instância.
+Irresignado, o Ministério Público interpôs recurso em sentido estrito, ocasião em que a Corte local deu provimento ao pleito acusatório e decretou a custódiaante tempusdo réu pelo seguinte motivo:"os familiares da vítima e testemunhas tem sido ameaçados e constrangidos, além de prejudicar a própria instrução criminal, eis que há uma possibilidade real e concreta de que as referidas testemunhas e mesmo alguns dos acusados não confirmem seus depoimentos em Juízo, pelo risco que sentem das represálias que podem sofrer por tal conduta" (fl. 35, grifei).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Tais elementos afastam a plausibilidade jurídica do direito tido como violado. Diante dessas considerações, verifico que a fundamentação do decreto cautelar está em consonância com ajurisprudência do STJ, queadmite que a prisão preventiva seja motivada no risco à instrução criminal, nas hipóteses em que o acusado ameaça testemunhas.
+Nesse sentido, menciono:"Havendo menção a situações concretas que demonstram ser a prisão preventiva necessária por conveniência da instrução criminal, tais como ameaças dirigidas às testemunhas, como ocorrido na hipótese, encontra-se devidamente justificada a custódia cautelar"(RHC n. 97.109/MG, Rel. MinistroRibeiro Dantas, 5ª T., DJe 1º/8/2018, grifei).
+Ademais, o Juízo de segundo grau destacou agravidade concreta da conduta- "os recorridos agiram de forma premeditada, calculando minuciosamente todos os passos necessários para a prática do crime, com o cuidado de se livrar de suspeitas, tanto que Cassio deixou o seu carro na casa de outro denunciado, tudo para que não fosse ligado ao delito de nenhuma forma, agindo de emboscada e mediante recurso que dificultou a defesa da vítima, imbuído por motivo fútil" (fl. 35)-,fundamento idôneopara justificar a medida constritiva.
+Quanto à aduzida ausência de contemporaneidade, não a identifico de plano. Após o indeferimento da prisão preventiva pelo Juízo monocrático, em 31/1/2020, oParquetestadual prontamente interpôs orecursoemsentido estrito,em 19/2/2020,pretendendo a revisão do decisum. O provimento do pedido acusatório ocorreu na sequência, ainda que alguns meses após a insurgência do MP-SP.
+Ilustrativamente:
+ ..
+V - Consoante já decidiu esta Corte de Justiça, não há se falar em ausência de contemporaneidade entre o decreto prisional e os fatos que o ensejara, se, embora decorrido período razoável de tempo entre um e outro (mais de 5 anos), o risco de reiteração delitiva se mostra patente, concreto e atual, o que, in casu, é evidenciado pelo fato de o paciente ter sido preso outras vezes, inclusive por delitos patrimoniais, praticados posteriormente aos crimes objetos da presente impetração, e, em data recente, notadamente quando gozava do benefício de liberdade provisória.
+VI - Não é cabível a aplicação das medidas cautelares alternativas à prisão,in casu, haja vista estarem presentes os requisitos para a decretação da prisão preventiva, consoante determina o art. 282, § 6º, do Código de Processo Penal.
+Habeas corpus não conhecido.
+(HC n. 559.537/SP, Rel. MinistroLeopoldo de Arruda Raposo(Desembargador convocado do TJ/PE), 5ª T., DJe 24/3/2020, grifei)
+Por fim, quanto àprisão domiciliar pelos riscos da pandemia de coronavírus, a despeito das alegações feitas nowrit, da detida leitura do acórdão proferido pela Corte local, observo que a questão específica referente à aplicação da Recomendação n. 62/2020 do CNJ, não foi analisada na origem.O debate cingiu-se à validade dos requisitos lançados para a imposição da prisão preventiva.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste recurso em habeas corpus, sob pena desupressão de instância.
+Ilustrativamente:
+ ..
+2. Inviável a apreciação, diretamente por esta Corte Superior de Justiça, dada sua incompetência para tanto e sob pena de incidir-se em indevida supressão de instância, das teses de nulidade da sentença por ausência de análise de tese defensiva apresentada nas alegações finais e o consequente excesso de prazo na custódia, tampouco de imposição de regime inicial mais gravoso que o permitido ou de possibilidade de substituição da pena privativa de liberdade por restritiva de direitos, tendo em vista que tais questões não foram analisadas pelo Tribunal impetrado no aresto combatido, em razão da inadequação da via eleita, pendente de julgamento, ainda, apelação já interposta.
+ ..
+8. Habeas corpus não conhecido.
+(HC n. 347.010/SP, Rel. MinistroJorge Mussi, 5ª T., DJe 12/4/2016).
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
