@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+1 VERIFICADO O NEXO CONCAUSAL POSSÍVEL A CONVERSÃO DO AUXÍLIO DOENÇA PREVIDENCIÁRIO NO HOMÔNIMO ACIDENTÁRIO 2 CONSTATADA A INCAPACIDADE LABORATIVA PARCIAL E PERMANENTE DE RIGOR A CONCESSÃO DO AUXÍLIOACIDENTE
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 502 e 503 do CPC, no que concerne ao reconhecimento da coisa julgada em relação à concessão de benefício previdenciário (auxílio-acidente), eis que a causa já foi examinada em ação anteriormente transitada em julgado, trazendo o(s) seguinte(s) argumento(s):
+O v. acórdão que julgou a apelação do INSS erroneamente entendeu que não haver ofensa à coisa julgada. Tal entendimento é evidentemente equivocado.
+A autora narra na inicial que, no exercício de suas funções laborais, começou a sofrer problemas na coluna cervical e lombar.
+Verificou-se, contudo, que houve a propositura de outra demanda idêntica (processo 0006592-43.2017.403.6338), na Justiça Federal.
+ ..
+Não se pode afirmar que os exames destes autos são os mesmos apresentados nos autos da Justiça Federal, mas isso não invalida a existência da coisa julgada sobre o feito, pois o princípio da segurança jurídica impede que as ações sejam renovadas no tempo, o judiciário não existe para proferir decisões até que o Autor se dê por satisfeito.
+No caso dos autos, resta evidenciado que a parte autora, mas duas ações, na que transitou em julgado e na presente, pleiteia benefício em razão de acidente pela mesma causa.
+Assim, é inadmissível a concessão de outro benefício cuja causa já foi apreciada em ação anterior com trânsito em julgado (fls. 361/362).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Por sua vez, rejeita-se a preliminar de coisa julgada abordada nas razões recursais da autarquia, adotando-se os argumentos utilizados na sentença como razões de decidir: "De início, afasto a preliminar de coisa julgada, haja vista que a documentação acostada menciona genericamente as lesões reclamadas pela obreira perante a Justiça Federal, o que inviabiliza o cotejo entre as moléstias lá suscitadas com aquelas constantes destes autos, não se podendo afastar, por tal motivo, a hipótese de eventual agravamento do quadro clínico da demandante para os segmentos apontados, condição que afasta a tese da coisa julgada" (fls. 302) (fls. 350).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor a ser arbitrado quando da liquidação de sentença, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
