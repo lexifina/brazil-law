@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso emhabeas corpus, com pedido de liminar, interposto em face de acórdão assim ementado (fl. 43):
+HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO AO TRÁFICO DE DROGAS. PRISÃO PREVENTIVA MANTIDA. INSURGÊNCIA DEFENSIVA.
+AS CONDIÇÕES PESSOAIS DO AGENTE DEVEM SER AFERIDAS CONCOMITANTEMENTE COM AS CIRCUNSTÂNCIAS DO FATO E A GRAVIDADE DO CRIME.
+CIRCUNSTÂNCIAS DO FATO E GRAVIDADE DO CRIME DEMONSTRAM A NECESSIDADE E ADEQUAÇÃO DA MANUTENÇÃO DA SEGREGAÇÃO.
+APREENSÃO DE 20 GRAMAS DE COCAÍNA E 01 QUILO DE MACONHA. QUANTIDADE DE DROGAS QUE NÃO PODE SER DESCONSIDERADA PARA FINS DE PRISÃO PREVENTIVA.
+A SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR MEDIDA DIVERSA NÃO SERIA CAPAZ DE AFASTAR O PERICULUMLIBERTATIS.
+ORDEM DENEGADA.
+Consta dos autos denúncia pela prática dos crimes tipificados nos arts. 33 e 35 c/c o 40, V, da Lei 11.343/2006.
+Sustenta a defesa que a decisão que decretou a prisão preventiva carece de fundamentação idônea, por estar amparada na gravidade abstrata da conduta, e por estarem ausentes os pressupostos previstos no artigo 312 do Código de Processo Penal.
+Salienta a possibilidade de aplicação da recomendação n. 62/CNJ.
+Requer, liminarmente e no mérito, que seja relaxada a prisão ilegal.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+A matéria relativa à aplicação da recomendação n. 62/CNJnão foi examinada pelo Tribunal a quo. Tal circunstância obsta a apreciação da questão por essa e. Corte Superior, sob pena de se incorrer em indevida supressão de instância.
+Não debatida a questão pela Corte de origem, é firme o entendimento de que "fica obstada sua análise a priori pelo Superior Tribunal de Justiça, sob pena de dupla e indevida supressão de instância, e violação dos princípios do duplo grau de jurisdição e devido processo legal" (RHC 126.604/MT, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 07/12/2020, DJe 16/12/2020).
+No mais, verifica-se que a prisão em flagrante foi convertida em preventiva com base nos seguintes fundamentos (fls. 106/108):
+ ..  No caso, tenho a acusação por verossímil. Ao que os autos demonstram, os representados foram os autores do fato, não havendo nenhum dado a indicar o contrário.
+A imputação não comporta maiores digressões, na medida em que os representados foram flagrados em via pública, na posse de quantia expressiva de substâncias entorpecentes e com o montante de R$ 1.609,00 (um mil seiscentos e nove reais), em notas de diversos valores e moedas.
+Outrossim, as circunstâncias de os flagrados terem sido abordados quando chegavam no Município de Erval Grande, vindos de bairro de Chapecó/SC, evidenciam a prática de atividades ilícitas interestaduais, havendo inclusive declaração do motorista do aplicativo de transporte que não foi a primeira oportunidade que realizou o serviço aos representados e também suspeitou da ilicitude das condutas.
+Esses elementos são, na letra da Lei, indícios suficientes de autoria, o que positiva, sem sombra de dúvida, o fumus comissi delicti.
+2.2 Periculum libertatis. Outro requisito indubitavelmente presente no caso em análise, nas razões a seguir delineadas, uma vez que a manutenção do status libertatis dos representados significará o comprometimento ainda maior da ordem pública, considerando a natureza dos delitos praticados.
+Eis, nesta senda, a chamada excepcionalidade do decreto de prisão preventiva. Se o estado de liberdade dos cidadãos é a regra estipulada pela Constituição Federal, a obediência à Carta Magna terá de significar, sempre, a defesa desse postulado. No entanto, o postulado não é absoluto, deve ser visto com temperança e razoabilidade, de forma a que não se lance, para garantia do direito individual - embora sério e nobre - os direitos da coletividade a agressões injustas e contrárias aos mínimos valores que devem ser observados para o convívio social.
+No caso em exame, a circunstância, antes já apontada, de que os flagrados estavam praticando o trânsito interestadual de entorpecentes, bem como as declarações do motorista que os conduzia, indicam habitualidade - e não eventualidade - na conduta dos acusados. Nesta senda, está claro que, restituída aos flagrados a liberdade, existe risco concreto e evidente de que retornem à prática criminosa, o que, para evitar a reiteração delitiva e seus efeitos deletérios sobre a unidade social, configura-se a necessidade de se garantir a ordem pública como fundamento para a decretação da custódia cautelar.
+Portanto, mesmo que ainda presumidamente inocentes os flagrados, as circunstâncias apuradas indicam uma vida pessoal desregrada e a fragilidade na vinculação dos acusados ao respeito ao alheio, bem como contenção diante de eventual estímulo à atividade delinquencial pelo senso de convivência social.
+Vale ressaltar, também, que os crimes aos quais respondem os representados possuem pena privativa de liberdade máxima superior a quatro anos.
+Além disso, os requisitos do art. 313 do Código de Processo Penal não são cumulativos, bastando, portanto, apenas um deles para possibilitar a decretação da prisão preventiva, além, é claro, do fumus comissi delicti e periculum libertatis.
+ ..
+Não vislumbro, por ora, que outras medidas cautelares diversas da prisão sejam suficientes para o acautelamento da ordem pública, visto que dependem, em grande parte, do senso de auto-responsabilidade do sujeito, que quanto aos flagrados não está adequadamente demonstrado.
+Assim sendo, a representação deve ser acolhida. ..
+Como se vê, consta do decreto prisional fundamentação idônea com esteio no fato do paciente, junto com corréu, estar transportando grande quantidade de drogas (20g de cocaína e 1,1kg de maconha, fl. 40), além de sua vivência delitiva, uma vez que estava utilizando serviço de transporte por aplicativo de forma reiterada para consecução de tal prática.
+A periculosidade e riscos sociais podem justificar a custódia cautelar ao acusado pelo crime de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Ademais, a reiteração delitiva constitui motivação idônea para o decreto da custódia ca utelar, como garantia da ordem pública, como no caso dos autos. Nesse sentido: HC n. 286854/RS - 5ª T. - unânime - Rel. Min. Felix Fischer - DJe. 1º-10-2014; RHC n. 48002/MG - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 4/8/2014; RHC n. 44677/MG - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 24/6/2014.
+Assim, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão. A esse respeito: HC n. 325.754/RS - 5ª T. - unânime - Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE) - DJe 11/09/2015 e HC n. 313.977/AL - 6ª T. - unânime - Rel. Min. Maria Thereza de Assis Moura - DJe 16/03/2015.
+Ante o exposto, indefiro liminarmente o recurso emhabeas corpus.
+Publique-se.
+Intimem-se.
