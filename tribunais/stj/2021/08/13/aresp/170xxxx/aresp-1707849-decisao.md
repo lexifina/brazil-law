@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 126do STJ e ausência de comprovação do dissenso jurisprudencial (e-STJ fls. 366/367).
+O acórdão recorrido está assim ementado (e-STJ fl. 318):
+*AGRAVO DE INSTRUMENTO- Execução de título extrajudicial - Decisão indeferiu a apreensão da carteira de habilitação dos agravados executados, com fundamento no art. 139, IV, do CPC/15- Medida que não se presta à satisfação do crédito nem confere efetividade à execução -Providência fere princípios constitucionais (dignidade da pessoa humana) e infraconstitucionais (menor onerosidade da execução) -Aplicação do artigo 139 do CPC/15 que se submete à orientação contida no art. 8º daquele mesmo Diploma- Precedentes- Decisão mantida -Recurso negado.
+No especial (e-STJ fls. 326/349), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente alegou, além de divergência jurisprudencial,ofensa ao art. 139, IV, do CPC/2015, sustentando, em síntese, a necessidade de deferimento do pedido de aplicação damedidacoercitivaindireta consistente na suspensão da CNH dos recorridos.
+No agravo (e-STJ fls. 370/393), afirma a presença de todos os requisitos de admissibilidade do especial.
+Foi apresentada contraminuta (e-STJ fls. 422/427).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl. 321):
+Como visto, subsidiariedade das medidas judiciais atípicas com fundamento no dispositivo legal em comento torna necessário, para sua adoção, o exaurimento de todas as medidas típicas orientadas a satisfação da obrigação.
+Outras razões afastam o cabimento da pretensão do agravante.
+A providência pretendida pela exequente agravante não implica em constrição de bens, aferição de sua existência ou em medida forçando o devedor a dar cumprimento à medida judicial.
+A apreensão da carteira de habilitação dos agravados (executados) é medida que se encontra em descompasso com princípios constitucionais (Dignidade da Pessoa Humana) e infraconstitucionais (Princípio da Menor Onerosidade da Execução art.805 do CPC/15). A adoção de tal medida implicaria em mera contraprestação punitiva, não orientada por critério de razoabilidade ou de consecução da efetividade do processo de execução.
+A Corte local extraiu sua decisão de fundamentos constitucionais e infraconstitucionais, ambos aptos a manter, por si sós, o teor do acórdão recorrido. Não tendo a recorrente interposto o competente recurso ao STF, é inafastável a incidência da Súmula n. 126 do STJ. Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA COLETIVA. ENSINO SUPERIOR. MENSALIDADES. DISCUSSÃO DE MATÉRIA CONSTITUCIONAL. NÃO CABIMENTO. AMPLIAÇÃO DO LAPSO TEMPORAL PREVISTO NO TÍTULO EXEQUENDO. COISA JULGADA. INFRINGÊNCIA. REEXAME DE MATÉRIA FÁTICA. SÚMULAS 7 E 126/STJ.
+1. O recurso especial não é a sede própria para a discussão de matéria de índole constitucional, sob pena de usurpação da competência exclusiva do STF.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+3. "É inadmissivel recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário" (Enunciado 126 da Súmula do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1773560/PR, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 21/6/2021, DJe 24/6/2021.)
+Além disso, ultrapassar a conclusão da instância de origem a fim de analisar as condições no caso concreto, com fito de autorizar constrições mais severas e excepcionais, demandaria inegável revolvimento fático-probatório, o que é vedado pelo teor da Súmula n. 7/STJ. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. PRETENSÃO DE QUE SEJA SUSPENSA A CNH DO DEVEDOR COM BASE NO ART. 139, IV, DO CPC/2015. CONCLUSÃO NO SENTIDO DA INADEQUAÇÃO DA MEDIDA PARA O FIM COLIMADO. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O Tribunal estadual entendeu que a medida pleiteada - suspensão da CNH dos recorridos - é inadequada para o fim colimado, pois é desproporcional no caso em tela, especialmente porque atinge a pessoa do devedor, não seu patrimônio. Essa conclusão foi fundada na apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1.233.016/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/4/2018, DJe 17/4/2018.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MEDIDAS SATISFATIVAS DO CRÉDITO PERSEGUIDO DEVEM SER RAZOÁVEIS E PROPORCIONAIS, PARA QUE SEJAM MENOS GRAVOSAS AO DEVEDOR E MAIS EFICAZES. INCIDÊNCIA DA SÚMULA 83/STJ. PRECEDENTE. OBSERVÂNCIA DO PRINCÍPIO DA MENOR ONEROSIDADE DA EXECUÇÃO EM FACE DAS CIRCUNSTÂNCIAS DO CASO CONCRETO. REVOLVIMENTO DE CONTEÚDO FÁTICO-PROBATÓRIO. APLICAÇÃO DA SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. É assente a cognição jurisprudencial deste Sodalício no sentido de que as medidas de satisfação do crédito perseguido em execução não podem extrapolar os liames de proporcionalidade e razoabilidade, de modo que contra o executado devem ser adotadas as providências menos gravosas e mais eficazes. Precedente.
+2. No caso em exame, o Tribunal de origem, analisando o acervo fático-probatório dos autos, concluiu que os pedidos formulados pelo exequente, de suspensão de passaporte, de suspensão da CNH e de cancelamento dos cartões de crédito e débito, seriam excessivamente gravosos aos executados e desproporcionais à obrigação de pagamento do débito, mormente considerando que, no caso, o Juízo a quo já deferira medida adequada a compelir os devedores ao adimplemento, determinando inclusão de seus nomes nos cadastros de proteção ao crédito. A revisão de tal entendimento, na via estreita do recurso especial, sobretudo para perquirir a adequada aplicação do princípio da menor onerosidade no caso concreto, encontra óbice na Súmula 7 do STJ.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.283.998/RS, Relator Ministro LAZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 9/10/2018, DJe 17/10/2018.)
+Em relação ao dissídio jurisprudencial, importa ressaltar que o conhecimento do recurso pela alínea "c" do permissivo constitucional exige indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e demonstração da divergência, mediante cotejo analítico entre o acórdão recorrido e os paradigmas, de modo a verificar as circunstâncias que assemelhem ou identifiquem os casos confrontados, ônus dos quais a parte recorrente não se desincumbiu.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
