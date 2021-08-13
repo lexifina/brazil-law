@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por TG RIO DE JANEIRO EMPREENDIMENTOS IMOBILIÁRIOS S.A., atual denominação de Brookfield Rio de Janeiro Empreendimentos Imobiliários S.A. e TEGRA INCORPORADORA S.A.contra acórdão assim ementado (fls. 682/683):
+DIREITO DO CONSUMIDOR. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. FORTUITO INTERNO. RISCO DO EMPREENDIMENTO.
+RESPONSABILIDADE OBJETIVA.
+SOLIDARIEDADE. DANO MATERIAL E MORAL.
+IMPOSSIBILIDADE DE CUMULAÇÃO DE CLÁUSULA PENAL COM LUCROS CESSANTES.
+TEMA 970, STJ. SENTENÇA PARCIALMENTE REFORMADA. Trata-se de apelos interpostos à sentença de procedência parcial, proferida em ação indenizatória, visando à condenação indenizatória dos réus pelos prejuízos experimentados em razão da mora e descaso na entrega de unidade imobiliária.
+1. Preliminar de ilegitimidade passiva da primeira ré, acolhida pelo magistrado a quo que deve ser afastada, já que o Código de Consumidor em seu art. 3º determina que todos que participam da cadeia produtiva são fornecedores de produtos e serviços, independentemente da específica relação contratual firmada, pelo que o fato de o pagamento ter sido efetuado especificamente a outra pessoa jurídica não é hábil a retirar do demandado sua legitimidade passiva, que é patente, podendo este ingressar em juízo em face dos outros responsáveis, já que se trata de responsabilidade solidária de todos que participaram da cadeia de consumo - art. 7.º, § 1.º, do CDC.
+2. Taxa condominial que se consubstancia em obrigação propter rem, pacificado o entendimento de que o início da responsabilidade pelo seu pagamento se dá com a relação jurídica material com o imóvel, simbolizada com a imissão da posse pelo promissário comprador e pela ciência inequívoca do condomínio acerca da transação, o que não ocorreu na hipótese, pelo que, devida a devolução dos valores despendidos a esse título.
+3. Segunda Seção do Superior Tribunal de Justiça que fixou em recurso repetitivo - REsp 1.186.789/RJ - julgado em 24/05/2019, a tese de que não é possível cumular a cláusula penal por atraso na entrega do imóvel com lucros cessantes. Tema 970:
+A cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes.
+4. Cláusula penal validamente reconhecida que afasta a condenação das rés ao pagamento de indenização por lucros cessantes, descabendo a cumulação de cláusula penal com indenização por lucros cessantes, nos termos do julgado vinculante.
+5. Atraso na conclusão das obras que decorre de fortuito interno, risco do empreendimento a ser suportado pelos demandados.
+6. Dano moral que é inconteste. Indenização fixada em R$ 8.000,00 que se revela em consonância com os princípios da proporcionalidade e da razoabilidade, não cabendo alteração se a parte inconformada não demonstra objetivamente a exiguidade ou exasperação. Inteligência da Súmula n.º 343 desta Corte.
+7. Recurso aos quais se dá parcial provimento.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 743/749).
+Em suas razões, as recorrentes alegam violação dos arts. 186, 884, 927 e 944 do Código Civil, bem como dissídio jurisprudencial, afirmando que sedimentado na jurisprudência deste Superior Tribunal de Justiça que não configurado o dano moral quando há o "mero atraso na entrega do imóvel" (fl. 777).
+Passo a decidir.
+O Tribunal de origem, ao julgar a apelação, entendeu que configurado o dano moral indenizável, assim se pronunciando (fls. 687/688):
+No tocante ao pedido de indenização de dano moral, inconteste que a o atraso injustificado na entrega de unidade imobiliária não pode ser tratado como mero inadimplemento contratual, sendo patente a ofensa aos direitos da personalidade, frustrando a legítima expectativa da adquirente, em receber o imóvel no período estipulado no contrato, o que certamente foi objeto de muito planejamento e privações financeiras, além de causar profundo abalo emocional e grande ansiedade.
+(..)
+A sentença sopesou bem o dano moral, ao arbitrá-lo em R$ 8.000,00, valor que se revela em consonância com os princípios da proporcionalidade e da razoabilidade. De todo modo, não sendo manifestamente desarrazoado, e na espécie efetivamente não o é, não se altera o valor indenizatório arbitrado em primeiro grau de jurisdição se a parte inconformada não demonstra objetivamente a exiguidade ou exasperação.
+A conclusão acima reproduzida está em desarmonia com a jurisprudência adotada neste Superior Tribunal de Justiça, que já se posicionou no sentido de que não é cabível a condenação em indenização por danos morais na hipótese em que há simples atraso na entrega do imóvel pela incorporadora, pois o dissabor inerente à expectativa frustrada decorrente de simples inadimplemento contratual se insere no cotidiano das relações comerciais e não implica lesão à honra ou violação da dignidade humana. Orienta, ainda, a jurisprudência que deve haver uma consequência decorrente do descumprimento contratual para caracterização dos danos extrapatrimoniais indenizáveis. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MATERIAIS E MORAIS. PROMESSA DE COMPRA E VENDA. ATRASO NA ENTREGA. DANO MORAL. DESCUMPRIMENTO CONTRATUAL. NÃO OCORRÊNCIA. PRECEDENTES.
+1. Nos termos da jurisprudência do STJ, o simples inadimplemento contratual, em regra, não configura dano indenizável, devendo haver consequências fáticas capazes de ensejar o dano moral.
+Precedentes.
+2. Agravo interno a que se nega provimento. (AgInt no REsp 1780448/RJ, Rel. Ministra de minha relatoria, QUARTA TURMA, DJe 1.7.2019)
+AGRAVO INTERNO NO RECURSO ESPECIAL. OBRA. ENTREGA. ATRASO. DANOS MORAIS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+3. Agravo interno não provido. (AgInt no REsp 1715930/RO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 1.7.2019)
+Em face do exposto, nos termos do art. 34, XVIII, "c", do Regimento Interno do Superior Tribunal de Justiça, dou provimento ao recurso especial, para determinar que seja excluída da condenação a parcela referente aos danos morais. Em face da sucumbência mínima da parte ora recorrida, mantenho os honorários de sucumbência conforme o anteriormente fixado.
+Intimem-se.
