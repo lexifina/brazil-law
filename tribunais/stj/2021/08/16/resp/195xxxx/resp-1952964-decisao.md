@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por FERNANDO CESAR BARIONI contra acórdão proferido pelo Tribunal Regional Federal da 3ª Região, no qual alega, além da ocorrência de divergência jurisprudencial (REsp 1.240.632/RS), violação art. 19 da Lei n. 10.522/2002, por considerar que o reconhecimento parcial da procedência do pedido autoral, nos embargos à execução fiscal, não afasta a necessidade de condenação da Fazenda nos honorários sucumbenciais do advogado.
+Contrarrazões apresentadas pela FAZENDA NACIONAL (fls. 418/426).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Com relação à alegação de divergência jurisprudencial, não oportuniza o conhecimento do recurso, pois a situação fático-jurídica tratada no REsp 1.240.632/RS não considera a superveniente alteração da redação do art. 19 da Lei n. 10.522/2002.
+A propósito, no que se concerne aos honorários sucumbenciais do advogado, cumpre destacar pacífico entendimento jurisprudencial deste Tribunal Superior pela obrigatoriedade de observância da regra do art. 19, § 1º, inciso I, da Lei n. 10.522/2002 (na redação da Lei n. 12.844/2013). Confira-se:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO PELA FAZENDA NACIONAL DA PROCEDÊNCIA DO PEDIDO. CONDENAÇÃO EM HONORÁRIOS ADVOCATÍCIOS. PRECEDENTES.
+1. De acordo com a atual redação do inciso I do § 1º do art. 19 da Lei n. 10.522/2002, que foi dada pela Lei n. 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei n. 10.522/2002.
+2. Assim, o acórdão recorrido está em consonância com a jurisprudência do Superior Tribunal de Justiça, no sentido de que o reconhecimento da procedência do pedido implica a descaracterização da sucumbência, visto que não houve resistência à pretensão formulada pelo autor, de forma que, nos termos do art. 19 da Lei 10.522/2002, deve ser afastada a condenação em honorários.
+3. Agravo interno não provido.
+(AgInt no AgInt no AREsp 886.145/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 06/11/2018, DJe 14/11/2018)
+No mesmo sentido: AgInt no REsp 1871998/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 21/09/2020, DJe 23/09/2020; AgInt no REsp 1851216/PE, Rel. Ministro Francisco Falcão, Segunda Turma, julgado em 16/11/2020, DJe 18/11/2020; AgInt no REsp 1850404/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/10/2020, DJe 12/11/2020.
+No caso dos autos, o órgão julgador a quo decidiu: "tendo a matéria em testilha sido pacificada pelo Pretório Excelso no julgamento do RE 562.276, em julgamento proferido na sistemática do art.543-B do CPC/73, e o Procurador da Fazenda Nacional reconhecido expressamente a procedência do pedido (ilegitimidade passiva do coexecutado/embargante), deve ser afastada a condenação em honorários" (fl. 333).
+Portanto, considerada a situação fática descrita pelo órgão julgador, nota-se que o acórdão recorrido está em conformidade com a orientação deste Tribunal Superior, o que impede o conhecimento do recurso, à luz da Súmula 83 do STJ.
+A propósito, cumpre acrescer que este Tribunal Superior tem externado que a verificação da ocorrência de efetiva resistência pela Fazenda depende do reexame de provas, o que não é adequado em recurso especial, consoante enuncia a Súmula 7 do STJ.
+A respeito: AgInt no REsp 1898054/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, julgado em 03/05/2021, DJe 05/05/2021; AgInt no REsp 1850404/SC, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 26/10/2020, DJe 12/11/2020; AgInt no AREsp 1544450/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 10/12/2019, DJe 12/12/2019.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
