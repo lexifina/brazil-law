@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CUMPRIMENTO DE SENTENÇA. TÍTULO JUDICIAL DECORRENTE DE EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. LIQUIDAÇÃO DO JULGADO. NECESSIDADE. COMPLEXIDADE DE CÁLCULOS. PRECEDENTES. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Esta Corte consolidou orientação segundo a qual, se tratando de cumprimento de sentença de título judicial decorrente de empréstimo compulsório de energia elétrica, há necessidade de liquidação do julgado, à vista da complexidade dos cálculos envolvidos.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno desprovido.
+RELATÓRIO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (RELATORA):
+Trata-se de Agravo Interno interposto por TERMOTÉCNICA LTDA contra a decisão de fls. 148/150e, integrada às fls. 164/167e, que deu provimento ao recurso especial de CENTRAIS ELÉTRICAS BRASILEIRAS SA e determinou o retorno dos autos ao tribunal a quo, a fim de que seja reexaminado o agravo de instrumento nos termos da orientação desta Corte, "segundo a qual se tratando de cumprimento de sentença de título judicial decorrente de empréstimo compulsório de energia elétrica, há necessidade de liquidação do julgado, à vista da complexidade dos cálculos envolvidos" (fl. 149e).
+A Agravante sustenta, em síntese, que, "o objeto da causa demanda simples cálculos aritméticos para apurar os valores a serem restituídos, cujo cumprimento de sentença pode se dar a partir de cálculos das próprias partes -principalmente pela ELETROBRÁS, dada a facilidade da obtenção das informações necessárias pela mesma, incidindo ao caso o disposto no art. 509, § 2º, e art. 524, §§ 3º e 4º, ambos do CPC. Nesse diapasão, registre-se, como visto, que a decisão do STJ invocada no REsp que aqui se agrava internamente apenas afasta a incidência da multa agora prevista no art. 523, § 1º, do CPC/15 (art. 475-J do CPC/73), enquanto não liquidada a sentença, e por isso o v. aresto não se presta como fundamento para o caso concreto e, para fins de cumprimento de sentença" (fl. 171e).
+Ao final, requer o provimento do recurso, a fim de que seja reformada a decisão impugnada ou, alternativamente, sua submissão ao pronunciamento do colegiado.
+Impugnação às fls. 180/186e.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. CUMPRIMENTO DE SENTENÇA. TÍTULO JUDICIAL DECORRENTE DE EMPRÉSTIMO COMPULSÓRIO DE ENERGIA ELÉTRICA. LIQUIDAÇÃO DO JULGADO. NECESSIDADE. COMPLEXIDADE DE CÁLCULOS. PRECEDENTES. MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Esta Corte consolidou orientação segundo a qual, se tratando de cumprimento de sentença de título judicial decorrente de empréstimo compulsório de energia elétrica, há necessidade de liquidação do julgado, à vista da complexidade dos cálculos envolvidos.
+III - Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+IV - Agravo Interno desprovido.
+VOTO
+A EXCELENTÍSSIMA SENHORA MINISTRA REGINA HELENA COSTA (RELATORA):
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Não assiste razão à Agravante.
+Com efeito, esta Corte consolidou orientação segundo a qual, se tratando de cumprimento de sentença de título judicial decorrente de empréstimo compulsório de energia elétrica, há necessidade de liquidação do julgado, à vista da complexidade dos cálculos envolvidos, como segue:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONDENATÓRIA. DIFERENÇA DE CORREÇÃO MONETÁRIA DE EMPRÉSTIMO COMPULSÓRIO. SENTENÇA ILÍQUIDA. NECESSIDADE DE LIQUIDAÇÃO. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. A parte agravante não apresentou qualquer fundamento capaz de reverter as conclusões alcançadas no julgamento monocrático.
+2. A Corte Especial do STJ, no julgamento do REsp. 1.147.191/RS, em hipótese que trata de cumprimento de sentença de título judicial decorrente de empréstimo compulsório de energia elétrica, firmou o entendimento de que tais sentenças se submetem inafastavelmente à necessidade de liquidação do julgado, porque complexos os cálculos envolvidos (REsp. 1.667.620/PR, Rel. Min. HERMAN BENJAMIN, DJe 20.6.2017).
+3. Agravo Interno da Empresa a que se nega provimento.
+(AgInt no REsp 1629451/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020, destaquei).
+Foi nesse contexto que se determinou a devolução dos autos à Corte de origem apenas para que a demanda seja novamente julgada à luz do precedente colacionado (AgInt no REsp 1.629.451/RS).
+Dessa forma, em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir a decisão impugnada.
+No que se refere à aplicação do art. 1.021, § 4º, do Código de Processo Civil de 2015, a orientação desta Corte é no sentido de que o mero inconformismo com a decisão agravada não enseja a imposição da multa, não se tratando de simples decorrência lógica do não provimento do recurso em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso.
+Nessa linha:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO. JUÍZO DE ADMISSIBILIDADE. ACÓRDÃOS PARADIGMAS. JUÍZO DE MÉRITO. INADMISSIBILIDADE DOS EMBARGOS DE DIVERGÊNCIA. NEGADO SEGUIMENTO AOS EMBARGOS DE DIVERGÊNCIA. MULTA E HONORÁRIOS ADVOCATÍCIOS RECURSAIS. AGRAVO REGIMENTAL IMPROVIDO.
+I. Trata-se de Agravo Regimental ou interno, interposto em 05/05/2016, contra decisão publicada em 13/04/2016.
+II. De acordo com o art. 546, I, do CPC/73, os Embargos de Divergência somente são admissíveis quando os acórdãos cotejados forem proferidos no mesmo grau de cognição, ou seja, ambos no juízo de admissibilidade ou no juízo de mérito, o que não ocorre, no caso. Incidência da Súmula 315/STJ.
+III. Nos termos da jurisprudência desta Corte, "se o acórdão embargado decidiu com base na Súmula 7 do Superior Tribunal de Justiça, falta aos embargos de divergência o pressuposto básico para a sua admissibilidade, é dizer, discrepância entre julgados a respeito da mesma questão jurídica. Se o acórdão embargado andou mal, qualificando como questão de fato uma questão de direito, o equívoco só poderia ser corrigido no âmbito de embargos de declaração pelo próprio órgão que julgou o r ecurso especial" (STJ, AgRg nos EREsp 1.439.639/RS, Rel. Ministro OLINDO MENEZES (Desembargador Convocado do TRF/1ª Região), PRIMEIRA SEÇÃO, DJe de 01/12/2015). Em igual sentido: STJ, AgRg nos EAREsp 556.927/RS, Rel. Ministro OG FERNANDES, PRIMEIRA SEÇÃO, DJe de 18/11/2015; STJ, AgRg nos EREsp 1.430.103/RS, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, DJe de 15/12/2015; ERESP 737.331/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, DJe de 09/11/2015.
+IV. O mero inconformismo com a decisão agravada não enseja a necessária imposição da multa, prevista no § 4º do art. 1.021 do CPC/2015, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do colegiado.
+V. Agravo Regimental improvido.
+(AgInt nos EREsp 1311383/RS, Rel. Ministra ASSUSETE MAGALHÃES, PRIMEIRA SEÇÃO, julgado em 14/09/2016, DJe 27/09/2016, destaque meu).
+Não obstante o desprovimento do recurso, não configurada a manifesta inadmissibilidade, razão pela qual afasto a apontada multa.
+Posto isso, NEGO PROVIMENTO ao agravo interno.
