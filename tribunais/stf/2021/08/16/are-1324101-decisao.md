@@ -1,0 +1,25 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que inadmitiu recurso extraordinário interposto em face de acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (eDOC 16, p. 4/5):
+    “PENAL. PROCESSUAL PENAL. RECURSO EM SENTIDO ESTRITO CONTRA DECISÃO QUE NÃO RECEBEU A APELAÇÃO INTERPOSTA POR INTEMPESTIVA. INTIMAÇÃO DA SENTENÇA CONDENATÓRIA POR MEIO DO SISTEMA ELETRÔNICO PJE. VALIDADE. INTIMAÇÃO PESSOAL DOS RÉUS, QUANDO SOLTO E COM ADVOGADO CONSTITUÍDO. DESNECESSIDADE. RECURSO DESPROVIDO.
+    1. Recurso em sentido estrito interposto, em face da decisão proferida no Juízo da 16ª Vara Federal da SJ/CE, que declarou a intempestividade da apelação interposta pelos recorrentes, na ação penal que os condenou pela prática do crime tipificado no art. 90 da Lei nº 8.666/93.
+    2. Nos termos da Lei nº 11.419/2006, nos processos que tramitam por meio do Processo Judicial Eletrônico, como é o caso dos presentes autos, as intimações ocorrem por meio eletrônico, dispensando-se, inclusive, a publicação no DJE.
+    3. É pacífica a jurisprudência do eg. Superior Tribunal de Justiça no sentido de que a intimação efetivada para as partes através do sistema eletrônico, prevista no art. 5º da Lei 11.419/2016 é suficiente, prevalecendo, inclusive, sobre a intimação realizada pelo Diário da Justiça eletrônico. Colaciona-se excerto de decisão trazida pelo Parquet federal. Precedente.
+    4. Esta Corte Regional já se manifestou no mesmo sentido, firmando o entendimento de que é plenamente válida e legal a intimação realizada exclusivamente pelo sistema PJE, ante o disposto no art. 5º, da Lei nº 11.419/2006, não sendo necessário, pois, a publicação do referido ato no Diário da Justiça Eletrônico . (PROCESSO: 08006602320194058405, RSE - Recurso em Sentido Estrito, DESEMBARGADOR FEDERAL PAULO ROBERTO DE OLIVEIRA LIMA, 2ª Turma, JULGAMENTO: 18/02/2020, PUBLICAÇÃO: ).
+    5. Inexistência de fundamento na arguição de nulidade em razão da ausência de intimação pessoal dos réus quanto a sentença condenatória, uma vez que estes respondiam o processo em liberdade e possuíam defensor regularmente constituído nos autos, sendo o sistema PJE o meio adequado de acesso às intimações processuais, em consonância com o disposto no CPP, art. 392, bem assim, no art. 5º, da Lei nº 11.419/2006.
+    6. Quanto à suposta inconstitucionalidade do art. 5º da Lei nº 11.419/2006, o debate foi objeto da Ação Direta de Inconstitucionalidade nº 3880, ajuizada pelo Conselho Federal da Ordem dos Advogados do Brasil, juntamente com diversos outros dispositivos do mesmo diploma, tendo a ADI sido julgada improcedente, por unanimidade, pelo Supremo Tribunal Federal em Seção realizada por meio do seu plenário virtual, datada de 14 a 20 de fevereiro de 2020.
+    7. A intimação da sentença condenatória através do sistema eletrônico foi devidamente realizada no ia 03/06/2019, tendo o trânsito em julgado ocorrido, efetivamente, na data de 11/06/2019, de modo que a apelação interposta no dia 06/10/2019 é intempestiva.
+    8. Recurso em sentido estrito não provido.”
+    No recurso extraordinário, interposto com base no art. 102, III, a, do permissivo constitucional, alega-se violação aos arts. 5º, X, LV e LX, e 93, IX, da Constituição da República.
+    Nas razões recursais, sustenta-se, em suma, violação aos princípios constitucionais da ampla defesa e da publicidade, notadamente porque os recorrentes não foram intimados da sentença condenatória, tampouco houve a devida publicação da decisão no Diário Oficial.
+    Ao fim, assevera que, “condenado o réu, ainda que intimado seu defensor e que tenha este interposto o competente recurso, será necessário, também, a intimação do réu, pessoalmente ou, se não localizado, por edital” (eDOC 18, p. 14).
+    O Tribunal de origem inadmitiu o extraordinário por entender que o acórdão recorrido está em consonância com o entendimento proferido pelo STF no julgamento da ADI 3.880/DF (eDOC 22).
+    É o relatório. Decido.
+    Consabido, a admissibilidade dos recursos é aferida tanto na origem quanto no destino. O agravo destinado ao Tribunal ad quem permite garantir o juízo de dupla admissibilidade dos recursos especial e extraordinário. Registre-se, contudo, que o agravo, enquanto recurso, também está sujeito à decisão de admissibilidade.
+    Feitas essas observações, verifico que, in casu, o agravo sequer tem preenchidos os pressupostos processuais.
+    De plano, verifica-se que a negativa de seguimento do apelo extremo fundou-se na adequação do acórdão recorrido com o entendimento prolatado pelo STF no julgamento da ADI 3.880/DF. Ressalto, no entanto, que o agravante não se manifestou acerca de tal fundamento.
+    O agravo, portanto, não ataca todos os fundamentos da decisão que inadmitiu o recurso extraordinário. Sendo assim, torna-se inviável seu conhecimento, nos termos da Súmula 287 do STF.
+    Ante o exposto, não conheço do agravo, nos termos do art. 21, § 1º, RISTF.
+    Intime-se
+    Brasília, 16 de agosto de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
