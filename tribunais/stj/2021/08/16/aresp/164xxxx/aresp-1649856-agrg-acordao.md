@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRONÚNCIA. NULIDADE. LAUDO DE LESÕES CORPORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDÍCIOS DE AUTORIA. NECESSIDADE DE REVOLVIMENTO DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido não analisou o apelo defensivo acerca da apontada ausência de comprovação da materialidade delitiva em razão de não ter sido juntado aos autos o laudo de lesões corporais, circunstância que evidencia a ausência de prequestionamento acerca do tema e, portanto, não merece conhecimento.
+2. As instâncias de origem apontaram os elementos do processo por meio dos quais entenderam estar autorizada a pronúncia do réu e, concluir pela ausência de provas para tanto demandaria inexorável imersão vertical sobre o conjunto fático-probatório dos autos, providência inviável em recurso especial, diante do óbice contido na Súmula n. 7 do STJ.
+3. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+4. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+FLAVIO SANTOS RAMOS interpõe agravo regimental contra decisão da Presidência desta Corte que, com fundamento no art. 21-E, V, do RISTJ, conheceu do agravo para não conhecer do recurso especial
+Em suas razões, o agravante sustenta que "o novo Código de Processo Civil passou a prever a oposição de embargos de declaração como prequestionadora, por si só, das questões nele debatidas, mesmo que o Tribunal revisor não se manifeste sobre elas" (fl. 545).
+Aduz, ainda, que, "in casu, não se trata de tentativa de revolver prova, mas sim de impugnação a erro sobre critérios de valoração das provas" (fl. 546), motivo pelo qual não incidiria o óbice da Súmula n. 7 do STJ.
+Requer o acolhimento do regimental a fim de que seja provido o recurso especial.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. PRONÚNCIA. NULIDADE. LAUDO DE LESÕES CORPORAIS. AUSÊNCIA DE PREQUESTIONAMENTO. AUSÊNCIA DE INDÍCIOS DE AUTORIA. NECESSIDADE DE REVOLVIMENTO DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O acórdão recorrido não analisou o apelo defensivo acerca da apontada ausência de comprovação da materialidade delitiva em razão de não ter sido juntado aos autos o laudo de lesões corporais, circunstância que evidencia a ausência de prequestionamento acerca do tema e, portanto, não merece conhecimento.
+2. As instâncias de origem apontaram os elementos do processo por meio dos quais entenderam estar autorizada a pronúncia do réu e, concluir pela ausência de provas para tanto demandaria inexorável imersão vertical sobre o conjunto fático-probatório dos autos, providência inviável em recurso especial, diante do óbice contido na Súmula n. 7 do STJ.
+3. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+4. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos expendidos pela defesa, não identifico suficientes razões para alterar a conclusão da decisão impugnada, cujo teor transcrevo (fls. 536-538):
+O apelo nobre, fundamentado no art. 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO, assim resumido:
+RECURSO EM SENTIDO ESTRITO - HOMICÍDIO QUALIFICADO EM SUA FORMA TENTADA - IMPRONÚNCIA - IMPOSSIBILIDADE - "IN DUBIO PRO SOCIETATE - QUESTÃO A SER DECIDIDA PELO CONSELHO DE SENTENÇA - AFASTAMENTO DE QUALIFICADORAS - INVIABILIDADE - RECURSO CONHECIDO E IMPROVIDO.
+1. A pronúncia é um juízo de admissibilidade da acusação, de natureza declaratória e não condenatória. Demonstrada a materialidade do fato e estando presentes indícios suficientes de autoria, não há que se falar em impronúncia, eis que qualquer dúvida a respeito da intenção do agente deve ser analisada pelo Tribunal do Júri, a quem compete apreciar e valorar o contexto probatório. 2. Deve ser mantida a decisão do juízo "a quo"a fim de que o Júri Popular examine o mérito da questão, sanando eventuais dúvidas quanto a verdadeira intenção do recorrente referente a qualificadora prevista no artigo 121, § 2º, inciso I, do Código Penal. 3. Recurso conhecido e improvido.
+Quanto à primeira controvérsia, alega violação dos arts. 156 e 158 do Código de Processo Penal, no que concerne à indispensabilidade da realização do laudo de lesões corporais para a comprovação da lesão apontada na denúncia, trazendo os seguintes argumentos:
+Todavia, o crime do qual o recorrente está sendo acusado (homicídio tentado) é um dos tipos de crimes elencados no artigo 158 do CPP, pois trata-se de infração que deixa vestígios. E, sendo assim, indispensável a realização do laudo de lesões corporais. Entretanto, durante a instrução processual, não fora juntado o referido e indispensável laudo de lesões corporais, o que macula a instrução processual, no que pertine à materialidade do delito. (fl. 485).
+Tal assertiva não destoa do entendimento dessa E. Corte, reconhecendo que o exame pericial é IMPRESCINDÍVEL para o reconhecimento da qualificadora, sendo possível a sua substituição por outros meios probatórios somente se não existirem ou se estiverem desaparecidos os vestígios. (fl. 486).
+Quanto à segunda controvérsia, alega violação dos arts. 413 e 593, inciso III, alínea "d", do Código de Processo Penal, no que concerne à inexistência de provas suficientes para a prolação da sentença de pronúncia, trazendo os seguintes argumentos:
+Contudo, mesmo diante a demonstração da frágil materialidade, bem como o vazio acerca da autoria, o juízo de piso prolatou sentença de pronúncia em face do recorrente, contrariando assim, o artigo 413, do Código de Processo Penal. (fl. 489).
+Em resumo, se a própria vítima relata não ser o réu o autor dos disparos, e sendo este o único fundamento da sentença, inegável que não há indícios de autoria. (fl. 490).
+Ora, se há pronúncia envolvendo prova indiciária em desfavor do réu e, todavia, durante a instrução, a própria vítima, única prova incriminadora, retifica as declarações e de forma incontestável declara que não foi o réu quem atentou contra si, evidente estar-se diante de decisão contrária à prova dos autos. (fl. 487).
+É o relatório. Decido.
+Quanto à primeira controvérsia, na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; e REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019.
+Quanto à segunda controvérsia, na espécie, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)" (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 7/3/2019).
+Confiram-se ainda os seguintes precedentes: AgRg no AgRg no AREsp n. 1.374.756/BA, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 1º/3/2019; AgInt nos EDcl no AREsp n. 1.356.000/RS, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 6/3/2019; e REsp n. 1.764.793/RJ, relator Ministro Herman Benjamin, Segunda Turma, DJe de 8/3/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Inicialmente, cabe mencionar que o acórdão recorrido não analisou o apelo defensivo acerca da apontada ausência de comprovação da materialidade delitiva em razão de não ter sido juntado aos autos o laudo de lesões corporais.
+Apesar de a questão haver sido invocada nos embargos de declaração opostos naquela instância, a Corte de origem não se pronunciou sobre ela. Assim, está caracterizada a ausência de prequestionamento a impedir a admissibilidade da pretensão, consoante o entendimento previsto na Súmula n. 211 do STJ. A defesa deveria ter suscitado a violação do art. 619 do CPP, o que não ocorreu na espécie.
+Tal circunstância evidencia que o recurso especial carece do necessário prequestionamento e, portanto, não merece conhecimento. Nesse sentido:
+ ..
+4. A tese referente à ocorrência de bis in idem, no que tange à qualificadora do perigo comum, não foi apreciada pelo Tribunal a quo, ressentindo-se do indispensável requisito do prequestionamento, mesmo que, a despeito da alegação de oposição de embargos de declaração, deveria ser arguida ofensa ao art. 619 do CPP, o que não ocorreu, sendo de rigor a incidência das Súmulas 211/STJ e 282/STF.
+ ..
+7. Agravo regimental improvido.
+(AgRg no REsp n. 1.885.871/DF, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 5/3/2021, destaquei)
+No que tange à indigitada inexistência de prova da autoria, melhor sorte não assiste ao agravante. O Tribunal a quo destacou que, a despeito da negativa do réu em seu interrogatório, "através dos relatos das testemunhas ouvidas em juízo  .. , é possível constatar que se fazem presentes os indícios de autoria necessários para viabilizar a decisão de pronúncia" (fl. 458).
+Uma vez que as instâncias de origem apontaram os elementos do processo por meio dos quais entenderam estar autorizada a pronúncia do réu, concluir pela ausência de provas para tanto demandaria inexorável imersão vertical sobre o conjunto fático-probatório dos autos, providência inviável em recurso especial, diante do óbice contido na Súmula n. 7 do STJ.
+Nesse sentido:
+ ..  Encontrando-se a sentença de pronúncia devidamente fundamentada, desconstituição das premissas fáticas nela assentadas, para reconhecer a inexistência de lastro probatório para a pronúncia e para a inclusão da qualificadora, exigiria revolvimento fático-probatório, o que encontra óbice na Súmula 7 do STJ. 5. Agravo regimental provido para conhecer do agravo em recurso especial mas negar-lhe provimento.  ..  (AgRg no AREsp n. 1.231.426/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 24/8/2018)
+Portanto, ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+À vista do exposto, nego provimento ao agravo regimental.
