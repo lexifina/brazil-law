@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpusinterposto por Caio da Silva Coquejo contra o acórdão proferido pela Décima Terceira Câmara Criminal do Tribunal de Justiça de São Paulo.
+Consta dos autos que o recorrente foi condenadopelo Juízo da 2ªVara Criminal do Foro de Suzano/SP, como incurso no delito previsto no art.157, § 2º, I e II, do Código Penal, à pena de 7 anos, 7 meses e 20 dias de reclusão, em regime fechado, e17 dias-multa, por tersubtraído, para si, junto com outro indivíduo não identificado, mediante grave ameaça exercida com emprego de arma de fogo, um veículo Honda Civic (fls. 346/354).
+A defesa interpôs apelação, ainda pendente de julgamento (fls. 442/443).
+Em sede de habeas corpus, a defesa requereu o abrandamento do regime. ADécima TerceiraCâmara Criminal do Tribunal de Justiça de São Paulo denegou a ordem (fls. 455/459).
+No presente recurso, a defesa aponta ausência de fundamentação idônea para afixação do regime fechado, por ser o recorrente primário e de bons antecedentes e, ainda,por ser o quantum da pena inferior a 8 anos de reclusão (fls. 463/476).
+Parecer ministerial opinando pelo desprovimento do recurso (fls. 497/501).
+É o relatório.
+Na sentença, foi fixado o regime fechado em face de terem sido valoradas como negativas as circunstâncias e as consequências do crime. Confira-se trecho da sentença (fl. 352 - grifo nosso):
+ ..
+Portanto, as circunstâncias e consequências do crime foram tamanhas que em muito extrapolam o que de ordinário ocorreem crimes como o dos autos, o que está a demonstrar a completa inconsequência do réu quanto a suas ações. Os prejuízos, no presente caso, extrapolaram, exempli gratia, a esfera patrimonial da vítima do roubo, atingindo a conduta do réu também os proprietários dos demais outros dois veículos envolvidos no acidente causado pelo réu, além de causar ele, por fim, prejuízo também à rede pública de iluminação, segundo o estado de avaria do poste de iluminação retratado às fls. 279. Assim, valoro negativamente as circunstâncias e consequências do crime, para o fim de exasperar as penas em 2/3 (dois terços)
+ ..
+Na terceira fase da fixação da pena, diante do reconhecimento das causas de aumento de de pena previstas nos incisos I e II do § 2º do art. 157 do CP, e em atendimento ao enunciado da Súmula nº 443 do E. STJ, cumpre expormos as seguintes razões. No caso dos autos, a conduta do réu é merecedora de maior grau de reprovação, eis que, para melhor garantir o sucesso da empreitada criminosa, entendeu por bem não apenas atuar em concurso com um indivíduo ainda não identificado - o que fizeram com nítida divisão de tarefas  , mas, para além disso, a empreitada criminosa ainda envolveu o emprego de uma arma de fogo como meio de conferir maior eficácia à grave ameaça exercida contra a vítima que se encontrava no interior do veículo.
+Assim, em atendimento ao enunciado da Súmula nº 443 do E. STJ, há razõessobejas para a fixação da fração de aumento em patamar superior ao mínimo (um terço), de modo que, atentando ao entendimento consagrado em sede jurisprudencial (C. STJ, HC 121.686/SP, HC 112.296/SP), aumento as penas em 3/8 (três oitavos).
+Não há causas de diminuição de pena.
+Portanto, fixo, a título de pena definitiva, a pena privativa de liberdade de 07 anos, 07 meses e 20 dias de reclusão, e a pena de multa de 17 dias-multa, ambas majoradas em 3/8 (três oitavos).
+Diante da ausência de informações acerca da situação econômica do réu, nos moldes do art. 60, combinado com o art. 49, ambos do CP, o valor unitário dos dias-multa é fixado no mínimo legal de 1/30 (um trigésimo) do salário mínimo.
+Quanto ao regime inicial de cumprimento da pena privativa de liberdade de reclusão, nos moldes das Súmulas 718 e 719 do C. STF, encontram-se presentes circunstâncias excepcionais capazes de justificar regime mais gravoso, sendo certo que o regime inicial, de acordo com o comando legal previsto no art. 59, inciso III, todos do CP, deve levar em conta as circunstâncias judiciais.
+No caso, foram valoradas negativamente as circunstâncias e consequências do crime, consoante extensamente já fundamentado, de modo que, dando cumprimento ao comando contido no art. 33, § 3º, e no art. 59, caput, parte final, do CP, mostra-se necessária à prevenção e repreensão do crime praticado a fixação do regime inicial fechado.
+ ..
+Na sentença, houve idônea fundamentação para o aumento da pena-base, bem como para a fixação de uma fração superior na terceira fase da dosimetria. Da mesma forma, o regime de cumprimento da pena foi fixado no fechado por existirem vetoriais negativas, o que está de acordo com o entendimento desta Corte Superior, ou seja,épossível a fixação do regime inicial fechado a condenados à pena superior a quatro anos e inferior a oito anos, quando presente circunstância judicial desfavorável(AgRg no REsp n. 1.907.821/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 23/3/2021).
+Ante o exposto, nego provimento ao recurso emhabeas corpus.
+Publique-se.
+EMENTA
+RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PENA-BASE FIXADA COM O RECONHECIMENTO DECIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. REGIME INICIAL FECHADO. PRESENTE JUSTIFICATIVA. AUSÊNCIA DE ILEGALIDADE.
+Recurso em habeas corpus improvido.
