@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado embenefíciodeMagno Lopes do Livramento Silva, apontando-se como autoridadecoatoraoTribunal de Justiça de São Paulo.
+Consta dos autos que o Juízo daExecução Criminal - DEECRIM3ªRAJdacomarca de Bauru/SP deferiupedido da defesa a fim de constar no cálculo para progressão de regimeo percentual de 40% aplicado com basenanovaredação dada pela Lei n.13.964/2019 (Processon.0002455-63.2020.8.26.0154e Processo n. 0007910-05.2020.8.26.0026).
+O Parquet estadualingressou com agravo de execução(Autosn.0009038-60.2020.8.26.0026), que foi provido, por maioria, paracassar a decisão de primeiro grau e determinar novo cálculo de pena, aplicando-se o percentual de 60%.
+Neste writ, a impetrante alega, em suma, que, por seropacientereincidente genérico,deve-se consideraro percentual de40%paraprogressão de regime, àvistada ausência de dispositivonormatizando opercentual aplicável ao reincidente simples.
+Requer seja concedida a ordem para aplicar afraçãode40% paraprogressãode regime no cálculo de penas do paciente,porquantoreincidente não específico.
+É o relatório.
+No caso, há constrangimento ilegal passível de ser reparado por meiodavia eleita.
+A Lei n. 13.964/2019 (Pacote Anticrime) revogou o art. 2º, § 2º, da Lein.8.072/1990, dispositivo o qual não fazia diferenciação entreareincidência específica ou genérica para a progressão de regime,estabeleceu novos lapsos para progressão de regime e modificou o art.112da Lei de Execução Penal.A normaé expressa ao afirmar que aporcentagem de 60%deve ser aplicada aos condenados reincidentes em crimeshediondos ouequiparados.
+A interpretação extensivapara considerar reincidente específiconaprática de crime hediondo ou equiparado aquele que cometeu apenas umcrimehediondo é contra o espírito da lei, pois se puniria igualmentequempratica dois ou mais crimes hediondos e o que pratica apenas umcrimehediondo.
+A situação do paciente não se ajusta expressamente a nenhuma dashipótesesda nova redação do art. 112 da Lei de Execução Penal.
+Como a lei penal deve ser interpretada restritivamente quando prejudicial ao apenado, e extensivamente no caso contrário, a jurisprudência desta Casa estáalinhadaquanto ao entendimento de que, ao condenado por crimehediondo ouequiparado que seja reincidente genérico, deverá incidir opercentualequivalente ao que é previsto para o primário, vale dizer, de40% ou 50%,na forma do art. 112, V e VI, a, da Lei de Execução Penal, adepender docaso (se houve ou não resultado morte).
+Na espécie, o réu é reincidente, foi mais recentemente condenadopelaprática do crimede tráfico de drogas e possui condenação pretérita por crimecomum(tráfico privilegiado - fl. 15). Para fins deprogressão de regime, é exigível queo paciente tenha cumprido 40%(2/5)da pena, e não 60% (3/5), como o eraantes da entrada em vigor daLei n. 13.964/2019.
+Com efeito, a Terceira Seção desta Corte firmou o entendimento dequeéreconhecida a retroatividade do patamar estabelecido no art. 112, V,daLei n. 13.964/2019, àqueles apenados que, embora tenham cometidocrimehediondo ou equiparado sem resultado morte, não sejam reincidentesemdelito de natureza semelhante(REsp Repetitivo n. 1.910.240/MG,MinistroRogerio Schietti Cruz, Terceira Seção, DJe 31/5/2021).
+Nesse sentido, o HC n. 581.315/PR, da minha relatoria, Sexta Turma,DJe 19/10/2020; o AgRg no HC n. 595.609/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe20/11/2020; o AgRg no HC n. 609.231/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 28/10/2020; e o AgRg no HC n. 616.267/SP, MinistroReynaldo Soares da Fonseca, Quinta Turma, DJe 15/12/2020.
+Pelo exposto, concedo liminarmente aordem pararestabelecer adecisãoproferida peloJuízo da execução, que,aplicando a nova Lei n.13.964/2019, determinou a manutenção do percentual de 40% do cumprimentoda pena para fins deprogressão de regime,nos termos do art. 112, V, daLei de Execução Penal,isso na hipótese de nãohaver falta grave superveniente do paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME.CONDENAÇÃO PELAPRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. APENADO REINCIDENTE GENÉRICO (NÃOESPECÍFICO). REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTEANTICRIME).NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO. PRECEDENTES ERECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida liminarmentenos termos do dispositivo.
