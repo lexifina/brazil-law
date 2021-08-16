@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que não admitiu o recurso especial por incidência daSúmulan. 7 do STJ (e-STJ fls. 1.771/1.774).
+O acórdão recorrido assimementado (e-STJ fl. 1.601):
+DIREITO CIVIL E PROCESSUAL CIVIL - ENERGIA ELÉTRICA - MECANISMO DE AFERIÇÃO DE CONSUMO - TROCA - MEDIDOR EXTERNO - AUMENTO DE VALOR - DANO COMPROVADO - DISPARIDADE - HOMOLOGAÇÃO ANEEL - INEXISTÊNCIA - IRREGULARIDADE INTERNA - :
+- Constatou-se, a partir da prova dos autos, que a troca de medidores de energia se deu sem a necessária homologação da agência reguladora, resultando em aumento absurdo e injustificado no valor das faturas.
+- Constatado, no decorrer da instrução processual, que todas as demais faturas padeciam de ilegalidade, em decorrência da utilização de medidor não homologado, mostra-se possível a decretação de sua inexigáncia, mesmo que não tenha sido objeto de pedido inicial.
+- Eventual cobrança das respectivas faturas dependerá de demonstração inequívoca, em ação própria, do serviço efetivamente consumido.
+RECURSO CONHECIDO E IMPROVIDO.
+Os embargos declaratóriosforam rejeitados(e-STJ fls. 1.719/1.725).
+No especial (e-STJ fls. 1.729/1.740), fundamentado no art. 105, III, "a" , da CF, arecorrente apontou ofensa aos arts. 11, 141, 232, 489, §1º, incisos I, II e IV, 884, 1.022 e 1.026,§ 2º, do CPC/2015 e 884do CC.
+Suscitou a nulidade do acórdão recorrido por negativa de prestação jurisdicional e omissão, porquanto não teriam sido examinados argumentos imprescindíveis ao deslinde da controvérsia: "i) julgamento extra petita (arts. 141 e 492 do CPC) e não aplicabilidade do Art. 232 do CPC tendo em vista que mencionado artigo cria uma proteção ao CREDOR em relação ao DEVEDOR inadimplente e não ao DEVEDOR; ii) existência de enriquecimento ilícito da embargada, ora Recorrida, que mesmo confessando ter utilizado do serviço de energia ao longo de mais de 10 anos e tendo realizado depósito de valores incontroversos, teve declarada a nulidade de todas as faturas emitidas no curso da ação, o que é vedadopelo Art. 884 do CC1; iii) inaplicabilidade da multa de litigância de má-fé, seja pela nulidade da decisão que deixou de fundamentar o motivo pelo qual a multa foi aplicada (Art. 11 do CPC), seja pela inexistência de caráter procrastinatório (Art. 1.026, §2º do CPC)" (e-STJ fls. 1.737/1.738).
+Pediu o provimento do recurso especial no intuito de determinar aoTribunal de origem a análise dosargumentos expostos nos embargos de declaração ou para que "as faturas declaradas inexigíveis se restrinjam às de 26/06/2007 e 26/07/2007, (..)para condenar a Recorrida a pagar as demais faturas, de acordo com o posicionamento jurisprudencial desta Excelsa Corte"(e-STJ fl. 1.739).
+No agravo (e-STJ fls. 1.779/1.798), afirmaa presença de todos os requisitos de admissibilidade do especial.
+A recorrida apresentoucontraminuta (e-STJ fls. 1.816/1.821).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489, § 1º,incisos I, II e IV, e 1.022 do CPC/2015,pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há os vícios apontados quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 1.603/1.606):
+O apelo não há de ser provido.
+Ficou suficientemente comprovado nos autos que a instalação e medidor externo de energia se deu ao arrepio das normas regulamentadoras expedidas pela agência reguladora, além de sua necessária homologação.
+Como asseverou a magistrada de piso:
+"Verificou-se que a Agencia Nacional de Energia Elétrica emitiu Resolução Autorizativa nº 971 em 03 de julho de 2007 (fls. 132) em que autorizava a Manaus Energia S.A a implantar medição eletrônica externa em unidades consumidoras atendidas em media tensão, logo a concessionária, ora ré, não dispunha de homologação da ANEEL para realizar a instalação do sistema de medição encapsulado externo".
+Demais, foi colhido nos autos depoimento testemunhal, de um ex funcionário da concessionária, em audiência judicial, que a instalação se deu de maneira irregular:
+"A testemunha Waberto César foi eficaz ao deslinde da questão por ser ex funcionário da distribuidora de energia elétrica e quem instalou a tabela, esclareceu da existência das irregularidades internas da própria concessionária demonstrando os códigos, 04 e 84 respectivamente, medidor danificado e leitura absurda".
+Adiante, e após cuidadosa instrução, o perito judicial constatou que houve cobrança excessiva após -e em decorrência - da instalação do medidor externo, permitindo-se concluir que havia evidente erro na medição do consumo. Disse a magistrada:
+"Ao ser questionado em audiência, sobre a cobrança em dobro das faturas, o perito judicial asseverou que pelos comparativos não seria possível um valor demasiado como consta nos autos, que o medidor interno e o externo deveriam ter uma paridade das leituras com a instalação de um relógio externo e outro interno, o que não foi obedecido pela parte ré.
+Informou o perito em tela que o conjunto de medição adquirido em 2006 não estava homologado pela ANEEL e desde a substituição não estavam mais a disposição para aferição".
+A conclusão alcançada em sentença está acertada, de acordo com a prova dos autos:
+"Portanto, ficou comprovado nos autos pelas trocas dos medidores e o desconhecimento do preposto no tocante aos códigos que demonstraram as irregularidades com os medidores quanto a danificação e leitura absurda, e a impossibilidade de se aferir a real medição à época do consumo da unidade da empresa, vez que embora haja reclamação da Autora deixou de realizar a perícia interna com a presença dos interessados, fato que só com a aferição das grandezas geradas pelos medidores, e que hoje não há possibilidade pois são limitadas e apagam-se com as novas informações, a possibilidade das disparidades nas faturas.
+Assim, não resta outra alternativa para o judiciário a não ser tornar inexigíveis as faturas com cobranças absurdas emitidas pela Requerida que por incúria instalou medidores sem homologação da Agência regulamentadora, com danificação de equipamentos de medição, gerando valores acima da média de consumo como restou provado".
+Assim, não resta outra alternativa a não ser declarar a total irregularidade nas medições efetuadas após a instalação do medidor externo não homologado pela agência reguladora, e, em consequência, a inexlglbllldade das faturas de energia elétrica por ele medidas.
+E é justamente em decorrência de tal inafastável conclusão, em aplicação extensiva da regra inserta no art. 323 do Código de Processo Civil, que se pode admitir a declaração de inexigibilidade, por arrastamento, de todas as faturas emitidas em decorrência de medições por ele efetuadas.
+Não se trata, como faz querer crer o apelante, de presunção, senão de conclusão lógica.
+Constatada a Ilegalidade das medições efetuadas por aparelho não homologado, todas as faturas decorrentes das leituras efetuadas por tal aparelho são inexigíveis.
+Quanto aos honorários, o percentual deve ser calculado com base na condenação, ou seja, com a apuração do valor das faturas declaradas inexigíveis, por se tratar do efetivo proveito econômico alcançado.
+O fundamento central do julgado é a inexigibilidade das faturas de energia elétrica, em decorrência da irregularidade nas medições efetuadas por medidor externo não homologado pela agência reguladora, em observância ao disposto no art. 323 do CPC/2015. Tal ponto éapto, por si só, a sustentar o juízo emitido, não havendo falar nos vícios apontados.
+De outra parte, o julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, quando encontra motivação satisfatória para dirimir o litígio.
+Ademais, o conteúdo jurídico doart. 141 do CPC/2015 tidopor violadonão foiprequestionadopelo Tribunal de origem. Dessa maneira, incide a Súmula n. 211 do STJ.
+Ressalte-se que não há falar em contradição por se afastar a alegada violação do art. 1.022 do CPC e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, porquanto é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos suscitadospela parte.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA RECURSAL DO AGRAVANTE.
+1. Não há falar em ofensa ao art. 1022 do CPC/15, porquanto todas as questões fundamentais ao deslinde da controvérsia foram apreciadas pelo Tribunal a quo, sendo que não caracteriza omissão ou falta de fundamentação a mera decisão contrária ao interesse da parte, tal como na hipótese dos autos. Precedentes.
+2. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ. Precedentes.
+3. Não há contradição em se afastar a alegada ofensa ao art. 1.022 do CPC/15 e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+4. Agravo interno desprovido.
+(AgInt no REsp 1756231/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/10/2019, DJe 23/10/2019.)
+Outrossim, quanto aos demais dispositivos apontados como malferidos, a recorrente não demonstrou com clareza a alegada afronta, caracterizando-se, dessa maneira, a ausência de fundamentação jurídica e legal do recurso, razão pela qual inafastável a incidência da Súmula n. 284 do STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
