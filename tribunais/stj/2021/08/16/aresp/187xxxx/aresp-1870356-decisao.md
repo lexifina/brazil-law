@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por CONSÓRCIO CENTRAL DA CIDADANIA,contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Direito Administrativo. Contrato administrativo de prestação de serviços. Execução de título extrajudicial. R$ 9.252.283,60. Embargos à execução. Sentença de procedência. Fundamento de ausência de título executivo, ante a não comprovação da prestação do serviço. Apelo.
+Julgamento não unânime. Incidência do art. 942. Pagamento efetuado pelo apelado. Reconhecimento do pedido. Desnecessária a continuação do julgamento na forma do art. 942.
+Juros e correção monetária que devem incidir, ante o inadimplemento da obrigação.
+O Superior Tribunal de Justiça, em julgamento repetitivo submetido ao regime do art. 543-C, do CPC/73, já assentou entendimento de que a Lei 11.960/09, que alterou a redação do art. 1º-F da Lei 9494/97, deve ser imediatamente aplicada aos processos em curso.
+No que tange à correção monetária, em razão do reconhecimento da inconstitucionalidade parcial, por arrastamento, do art. 5º da Lei 11.960/09, no julgamento da ADI 4357/DF pelo Plenário da Corte Suprema - que proibiu a atualização monetária pelos índices da caderneta de poupança - ela deve ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada no período.
+Perda do objeto quanto ao pedido principal. Reconhecimento da incidência de juros e correção monetária" (fl. 266e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados, nos seguintes termos:
+"Direito Administrativo. Contrato administrativo de prestação de serviços. Execução de título extrajudicial. R$ 9.252.283,60. Embargos à execução. Sentença de procedência. Fundamento de ausência de título executivo, ante a não-comprovação da prestação do serviço. Apelo.
+Julgamento não unânime. Incidência do art. 942 do CPC.Pagamento efetuado pelo apelado. Reconhecimento do pedido.Desnecessária a continuação do julgamento na forma do art. 942 do CPC.
+Juros e correção monetária que devem incidir, ante o inadimplemento da obrigação.
+O Superior Tribunal de Justiça, em julgamento repetitivo submetido ao regime do art. 543-C do CPC/73, já assentou entendimento de que a Lei 11.960/09, que alterou a redação do art. 1º-F da Lei nº 9.494/97, deve ser imediatamente aplicada aos processos em curso.
+No que tange à correção monetária, em razão do reconhecimento da inconstitucionalidade parcial, por arrastamento, do art. 5º da Lei 11.960/09, no julgamento da ADI 4357/DF pelo Plenário da Corte Suprema - que proibiu a atualização monetária pelos índices da caderneta de poupança - ela deve ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada no período.
+Perda do objeto quanto ao pedido principal. Reconhecimento incidência de juros e correção monetária.
+Parcial provimento do recurso.
+Primeiros embargos de declaração. Discussão quanto ao valor da causa que servirá de base de cálculo para os honorários de sucumbência.
+Alegação do embargante de omissão da sentença quanto à preliminar de impugnação da causa apresentada. Matéria preclusa. Rejeitados.
+Segundos embargos de declaração. Discussão quanto à forma de atualização do valor devido. Imprestável a via declarativa para o atendimento da pretensão do ora embargante; outrossim, não é demais lembrar que os declaratórios não se prestam para questionamentos, mas para dirimir omissões, obscuridades ou contradições, tampouco servem para alterar a decisão. Rejeitados.
+Precedentes: EDcl nos EDd no REsp 1115454/RJ, Rel. Ministro Castro Meira, Segunda Turma, julgado em 02/09/2010, ale 22/09/2010AgRg no REsp 1169663/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 15/03/2012, ale 02/04/2012.
+Rejeição de ambos os embargos de declaração" (fls. 363/364e).
+Nas razões do Recurso Especial, interposto com fulcro nas alíneasa e cdo permissivo constitucional, aduz a parte recorrente, além da divergência jurisprudencial, a violação aos artigos 292, § 3º, 489, § 1º, IV, 490, 1.013, § 3º, III, e 1.022, II, do CPC/2015,com base nos seguintes argumentos:
+"22. Com efeito, a verdade é que o Tribunal a quo poderia  e deveria  adentrar na questão e julgar diretamente a preliminar de impugnação ao valor da causa arguida pelo Consórcio Recorrente, com fundamento no art. 1.013, §3º, III, do CPC, uma vez que toda a matéria impugnada pelo recurso, na época, foi devolvida ao Tribunal a quo, sendo evidente a constatação de omissão da sentença lançada pelo Juízo de piso.
+23. Além disso, conforme dispõe o art. 292, §3º,do CPC, sabe-se que o valor da causa pode ser modificado de ofício pelo magistrado, o que deveria ter sido feito pelo Tribunal a quo ao verificar que a omissão quanto à impugnação ao valor da causa persistia e, ainda, que a fixação do valor dos embargos à execução em patamar irrisório é medida totalmente incompatível com o valor da execução, a qual, como se viu, teve o pedido reconhecido pelo Estado!
+24. No entanto, considerando a rejeição dos embargos de declaração que serviram justamente para tentar sanar o apontado vício, restou ao Recorrente interpor este recurso especial, por meio do qual não apenas se demonstrará a persistência da omissão pelo acórdão recorrido  aí tendo havido manifesta violação aos artigos 489, §1º, IV, 490 e 1.022, II, do CPC  , como também a negativa de vigência aos mencionados artigos 292, §3º, e 1.013, §3º, III, do CPC, suscitando-se, ainda, a existência de dissídio jurisprudencial sob a alínea "c"do permissivo constitucional" (fl. 401e).
+Apresentadas as contrarrazões (fls. 531/540e), negado seguimento ao Recurso Especial (fls. 525/530e), foi interposto o presente Agravo (fls. 559/583e).
+A irresignação não merece acolhimento.
+Com efeito, a Corte de origem concluiu que ocorreu a preclusão da análise da matéria relativa à impugnação ao valor da causa,nos seguintes termos:
+"Alega, ainda, o primeiro embargante que a sentença proferida pelo magistrado a quo foi omissa, pois não teria analisado a preliminar de impugnação ao valor da causa apresentada em sua peça de defesa.
+Quanto a este argumento, melhor sorte não assiste ao recorrente.
+Ora, se entendia o exequente/embargado que o valor da causa atribuído pelo executado aos embargos à execução não estava correto, o momento oportuno para enfrentar tal questão seria em preliminar de apelação, conforme dispõe o art. 1.009, §1º da Lei Instrumental Civil.
+Art. 1.009. Da sentença cabe apelação.
+§ 1ºAs questões resolvidas na fase de conhecimento, se a decisão a seu respeito não comportar agravo de instrumento, não são cobertas pela preclusão e devem ser suscitadas em preliminar de apelação, eventualmente interposta contra a decisão final, ou nas contrarrazões.
+Uma vez analisada a apelação e não tendo sido arguida a questão pelo apelante, operou-se a preclusão.
+Nas palavras de Fredie Didier Jr., a preclusão é definida como a perdade uma situação jurídica ativa processual: seja a perda de poder processual das partes, seja a perda de um poder do juiz.
+(..)
+Portanto, como antes mencionado, o momento oportuno para debater a correção do valor atribuído à causa foi a apelação. Não o fez, contudo, a apelante, razão pela qual, preclusa a questão.
+Aplica-se à discussão quanto ao valor da causa na hipótese, o mesmo raciocínio aplicado pelo Código de Processo Civil, que prevê a preclusão caso o réu não apresente impugnação no primeiro momento.
+Veja-se:
+Art. 293. O réu poderá impugnar, em preliminar da contestação, o valor atribuído à causa pelo autor, sob pena de preclusão, e o juiz decidirá a respeito, impondo, se for o caso, a complementação das custas.
+Assim, não tendo a parte sequer mencionado a sua inconformidade quanto ao valor atribuído à causa, em sede de apelação, a matéria não foidevolvida para apreciação por esta instância, ocorrendo, conforme já delineado, a preclusão.
+Vedada, por conseguinte, discutir a questão.
+Art. 507. É vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão" (fls. 366/368e).
+Em relação aos arts. 489 e 1.022 do CPC/2015, deve-se ressaltar que o acórdão recorrido não incorreu em qualquer vício, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente.
+Vale ressaltar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. Nesse sentido: STJ, REsp 1.666.265/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 21/03/2018; REsp 1.667.456/RS, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 18/12/2017; REsp 1.696.273/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 19/12/2017.
+No mérito, "conforme consignado pelo Tribunal originário, as agravantes não impugnaram o valor da causa no momento oportuno, operando-se a preclusão"(STJ, AgInt no AREsp 1.568.762/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, DJe de 01/09/2020).
+Registre-se, ainda, que "ajurisprudência desta Corte é pacífica em afirmar que as matérias, inclusive as de ordem pública, decididas no processo, e que não tenham sido impugnadas em momento oportuno, sujeitam-se à preclusão"(STJ, AgInt no REsp 1.654.322/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 14/05/2020).
+Assinale-se, também, o não cabimento do Recurso Especial com base no dissídio jurisprudencial, pois as mesmas razões que inviabilizaram o conhecimento do apelo, pela alínea a, servem de justificativa quanto à alínea c do permissivo constitucional.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, b, do RISTJ, conheço do Agravo para negar provimento ao Recurso Especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, tendo em vista que, na origem, não houve prévia fixação de honorários sucumbenciais.
+I.
