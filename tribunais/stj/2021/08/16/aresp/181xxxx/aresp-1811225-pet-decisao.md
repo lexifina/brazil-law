@@ -1,0 +1,9 @@
+DECISÃO
+Na petição do Agravo Interno de fls. 406/427, e-STJ, os agravantes, ora requerentes, ALEXANDRE HENRIQUE DE FARIA MENDES eORAL GOLDEN SPA CONSULTORIO ODONTOLOGICO EIRELI, pretendem a concessão dos benefícios da justiça gratuita, tendo em vista a alegação de que não possuem condições de arcarcom os custos da presente ação.
+A atual jurisprudência desta Corte perfilha o entendimento de que é viável a formulação, no curso do processo, de pedido de gratuidade da justiça na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito. Nesse sentido: AgRg nos EREsp 1.222.355/MG, Corte Especial, DJe 25/11/2015.
+Contudo, não obstante o requerimento dos agravantes acerca da concessão dos benefícios da gratuidade da justiça, verificou-se que o pedido não estava instruído com documentos que pudessem justificar o seu deferimento.
+Assim, para que se pudesse promover o julgamento do agravo interno no agravo em recurso especial, procedeu-se à intimação dos agravantes para que, no prazo de 10(dez) dias, nos termos do art. 99, § 2º, do CPC/2015, comprovassem o preenchimento dos pressupostos legais para a concessão do benefício, sob pena de seu indeferimento.
+Por intermédio das Petiçõesnºs 00640274/2021 e 00715240/2021, os requerentes repetem o pleito realizado nas razões do agravo interno, sem que haja a apresentação de documentos que comprovem a sua condição econômico-financeira dehipossuficiência e a necessidade da concessão da justiça gratuita.
+Diante da análise das petições apresentadas às fls. 437/439 e 443/445, e-STJ, INDEFIRO o pedido de justiça gratuita formulado, nos termos do art. 99, § 7º, do CPC/2015.
+Aguardem as partes o julgamento doAgInt no Aresp1.811.225/DFinterposto por ALEXANDRE HENRIQUE DE FARIA MENDES e ORAL GOLDEN SPA CONSULTORIO ODONTOLOGICO EIRELI.
+Publique-se. Intimem-se.
