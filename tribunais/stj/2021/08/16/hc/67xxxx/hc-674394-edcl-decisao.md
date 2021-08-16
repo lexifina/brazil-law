@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaraçãoopostos porWANDERLAN PINHEIRO DE SOUSA contra decisão monocrática de minha lavraassim ementada (fl. 463):
+"HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTROHABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N. 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA."
+Nas razões recursais, o Embargante-condenado como incurso nas sanções dos arts. 33, caput, e 35, caput, da Lei n. 11.343/2006, na forma do art. 69 do Código Penal, à pena total de 8 (oito) anos e 10 (dez) meses de reclusão, em regime inicial fechado, além da pena de multa em 583 (quinhentos e oitenta e três) dias-multa-reitera a fundamentação e os pleitos formulados na inicial do presentemandamus, quais sejam, a nulidade absoluta do processo, ante a ausência de sua intimação para constituir novo patrono para a interposição do recurso de apelação ou para manifestar interesse em ser assistido pela Defensoria Pública.
+Em consulta ao andamento processual eletrônico, verificoque houve a superveniênciado julgamento do mérito dohabeas corpusoriginário pelo Tribunal de origem, em 10/06/2021, circunstância que acarretaa prejudicialidade dohabeas corpusimpetrado nesta Corte Superior e, consequentemente,dos presentes embargos de declaração.
+Nesse sentido: " s e a decisão liminar de Desembargador, originariamente impugnada nestes autos, já foi substituída por decisão terminativa de segundo grau, é forçoso reconhecer a perda superveniente de objeto do habeas corpus e do agravo regimental que buscavam a superação da Súmula n. 691 do STF" (AgRg no HC 447.377/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 28/08/2018).
+Ante o exposto,JULGO PREJUDICADOSos embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NOHABEAS CORPUS. IMPETRAÇÃO DIRIGIDA CONTRA DECISÃO DE DESEMBARGADOR RELATOR QUE INDEFERIU O PEDIDO LIMINAR NA ORIGEM. SUPERVENIÊNCIA DO JULGAMENTO DE MÉRITO NO TRIBUNALA QUO. EMBARGOSPREJUDICADOS.
