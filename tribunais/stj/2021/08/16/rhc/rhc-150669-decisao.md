@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por FABIO NEVES DE SANTANA contra acórdão do Tribunal de Justiça do Estado da Bahia (HC n. 5500584-14.2020.8.09.0125).
+Consta dos autos, que orecorrente foi condenado pela prática do crime previsto no art. 157, caput, do Código Penal, às penas de 6 anos, 9 meses e 7 dias de reclusão, a ser cumprida inicialmente no regime fechado, e ao pagamento de 141dias-multa, tendo-lhe sido vedado apelar em liberdade.
+Impetradohabeas corpus no Tribunal de origem, a ordem foidenegada.
+No presente reclamo, a defesasustenta a desnecessidade da segregação cautelar e a existência de flagrante ilegalidade, em razão da ausência de contemporaneidade para decretação da prisão na sentença.
+Alega que "o Paciente respondeu toda a ação penal em liberdade e na sentença, não foi demonstrado nem justificado elementos novos apto a decretar a prisão preventiva do mesmo" (e-STJ fl. 137).
+Aduz que possui residência fixa e ocupação lícita.
+Entende ser possível a substituição da prisão por medidas cautelares diversas.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja revogada a decretação de segregação, concedendo-lhe o direito de recorrer em liberdade. Subsidiariamente, sejam aplicadas medidas cautelares diversas da prisão.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo desprovimento do recurso.
+É o relatório.
+Insta consignar que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+Ao prolatar a sentença, o Juízo de piso negou ao acusado o direito de recorrer em liberdade nos seguintes temos (e-STJ fl. 43):
+NEGO ao sentenciado FÁBIO NEVES DE SANTANA o direito de apelar em liberdade, decretando-lhe a prisão preventiva, em garantia da ordem pública, em razão de encontrar-se cumprindo pena em regime fechado, na PLB, conforme ofício (fls.265), a fim de prevenir a reiteração criminosa. Expeça-se MANDADO DE PRISÃO PREVENTIVA com validade em 04/05/2020. Após efetiva custódia, expeça-se GUIA DE EXECUÇÃO PROVISÓRIA, nos termos do art.11 do Prov. N 0 CGJ 03/2017.
+O exame dos excertos acima transcritos, contidos na sentença condenatória, evidenciaque o disposto no art. 387, § 1º, do Código de Processo Penal foi devidamente observado, pois foram indicados fundamentos concretos para a imposiçãoda prisão cautelar.
+Segundo o disposto no referido comando normativo, "o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, a imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento de apelação que vier a ser interposta".
+Por tal razão, esta Corte firmou orientação de ser indispensável, por ocasião da prolação da sentença condenatória, que o magistrado fundamente, com base em dados concretos extraídos dos autos, a necessidade de manutenção ou imposição de segregação cautelar, ainda que tal fundamentação se dê mediante emprego da técnica per relationem, quando o juiz sentenciante faz expressa remissão aos motivos da decretação da prisão preventiva em razão da permanência das razões que ensejaram a custódia.
+Nesse sentido:
+RECURSO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CONSTITUIÇÃO DE MILÍCIA PRIVADA. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. NULIDADE.NÃO OCORRÊNCIA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. SUBSTITUIÇÃO POR MEDIDAS CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. RECURSO NÃO PROVIDO.
+ ..
+2. É válida a utilização da técnica da fundamentação per relationem, em que o magistrado se utiliza de trechos de decisão anterior ou de parecer ministerial como razão de decidir, desde que a matéria haja sido abordada pelo órgão julgador, com a menção a argumentos próprios, como na espécie, uma vez que a instância antecedente, além de fazer remissão a razões elencadas pelo Juízo natural da causa, indicou os motivos pelos quais considerava necessária a manutenção da prisão preventiva do réu e a insuficiência de sua substituição por medidas cautelares diversas.
+ .. (RHC n. 94.488/PA, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/4/2018, DJe 2/5/2018.)
+No caso, depreende-se da leitura da sentençaque a decretação da prisão teve como fundamento o fato de estar cumprindo pena em regime fechadoem decorrência de condenação anterior. Inequívoco, dessa forma, o risco de que, solto, perpetre novas condutas ilícitas.
+Dessa forma, justifica-se a imposição da prisão preventiva dorecorrente, pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma deevitar a reiteração delitiva e, assim, garantir a ordem pública.
+Nesse sentido os seguintes precedentes desta Corte:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+5. O Juízo de primeiro grau destacou que o recorrente registra em sua folha de antecedentes a prática de outros delitos, já havendo sido preso anteriormente, o que reforça a necessidade de sua prisão provisória.
+6. Configurada a dedicação aparentemente habitual ao cometimento de crimes e o descumprimento de medida cautelar imposta em oportunidade pretérita, a substituição pleiteada pela defesa não constitui instrumento eficaz para obstar a reiteração delitiva, o que se mostra atingível apenas mediante a custódia preventiva do réu.
+7. Recurso não provido.(RHC n. 76.929/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. PRECEDENTES. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, IMPEDIR/DIFICULTAR A REGENERAÇÃO NATURAL DE VEGETAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. JUSTIFICATIVA IDÔNEA. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As circunstâncias do flagrante indicam atuação intensiva no tráfico de drogas, em razão da quantidade de arbustos plantados para comercialização (25 mil pés de maconha), bem como a ousadia do paciente, que, segundo a acusação, cultivava a droga em área de preservação ambiental permanente. Além do entorpecente, foram apreendidas armas e munições. Ademais, há risco concreto de reiteração criminosa, diante dos maus antecedentes e da reincidência do acusado.
+ ..
+5. Habeas Corpus não conhecido.(HC n. 389.098/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/5/2017, DJe 31/5/2017, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ESTELIONATO, EXTORSÃO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA DEVIDAMENTE JUSTIFICADA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. RISCO CONCRETO DE REITERAÇÃO CRIMINOSA. EXCESSO DE PRAZO. INOCORRÊNCIA. AÇÃO PENAL COMPLEXA. DIVERSOS RÉUS. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS. IMPULSO REGULAR PELO MAGISTRADO CONDUTOR DO FEITO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Na hipótese, havendo prova da materialidade do delito e indícios de autoria, justifica-se a prisão preventiva para garantia da ordem pública. A gravidade concreta das condutas imputadas e o modus operandi revelam articulada organização voltada para a prática de ilícitos contra o patrimônio. O paciente responde a 18 ações penais por crimes contra o patrimônio, cometidos em diversas comarcas do estado, havendo fortes elementos, portanto, de que o acusado fazia do crime um meio de vida.
+4. Nos termos da jurisprudência desta Corte, a existência de ações penais em curso, ainda que sem o trânsito em julgado, pode autorizar a prisão preventiva para garantia da ordem pública, à luz das peculiaridades do caso concreto, consubstanciando forte indicativo de dedicação à atividades criminosas.
+ ..
+8. Habeas corpus não conhecido.(HC n. 364.847/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2016, DJe 27/10/2016.)
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SUPERVENIÊNCIA DE CONDENAÇÃO. NEGATIVA DO APELO EM LIBERDADE. MESMOS FUNDAMENTOS DO DECRETO PREVENTIVO. AUSÊNCIA DE PREJUDICIALIDADE. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. HISTÓRICO CRIMINAL DO AGENTE. ATOS INFRACIONAIS. FUNDADO RISCO DE REITERAÇÃO DELITIVA. CIRCUNSTÂNCIAS DO DELITO. RÉU QUE PERMANECEU CUSTODIADO DURANTE A INSTRUÇÃO PROCESSUAL. CONSTRIÇÃO JUSTIFICADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COAÇÃO ILEGAL NÃO EVIDENCIADA. WRIT NÃO CONHECIDO.
+ ..
+4. O fato de o paciente possuir anotações anteriores pela prática de atos infracionais, inclusive por delito análogo ao tráfico de entorpecentes, é circunstância que revela a sua periculosidade social e a sua inclinação à prática de crimes, demonstrando a real possibilidade de que, solto, volte a delinquir.
+ ..
+8. Habeas corpus não conhecido.(HC n. 442.874/SP, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/6/2018, DJe 1º/8/2018.)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES.SENTENÇA CONDENATÓRIA. PRISÃO MANTIDA. NEGADO O DIREITO A RECORRER EM LIBERDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE.ELEVADA QUANTIDADE DE DROGAS. REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO.  .. RECURSO DESPROVIDO.
+ ..
+2. No caso dos autos, tanto a prisão preventiva, quanto sua manutenção na sentença condenatória foram adequadamente motivadas, tendo sido demonstradas pelas instâncias ordinárias, com base em elementos extraídos dos autos, a gravidade concreta da conduta e a periculosidade do recorrente, evidenciadas pela elevada quantidade das drogas localizadas - 18 tijolos de maconha pesando 8,36 kg -, circunstâncias que, somadas à apreensão de balança de precisão, demonstram maior envolvimento com o narcotráfico e o risco ao meio social. Ademais, a prisão também se mostra necessária para evitar a reiteração na prática delitiva, uma vez que, conforme destacado, o recorrente ostenta condenação definitiva anterior. Tais circunstâncias recomendam a manutenção da custódia para garantia da ordem pública.
+3. Tendo o recorrente permanecido preso durante toda a instrução processual, não deve ser permitido recorrer em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada a soltura dele depois da condenação em Juízo de primeiro grau.
+ .. (RHC n. 127.561/GO, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/6/2020, DJe 29/6/2020.)
+Os fundamentos acima delineados indicam, portanto, a necessidade de se manter o recorrentesegregado, não se revelando adequado, por outro lado, possibilitar-lhe recorrer em liberdade.
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido.(RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido.(HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/08/2017, DJe 4/9/2017.)
+Ante o exposto, nego provimento ao recurso.
+Publique-se. Intimem-se.
