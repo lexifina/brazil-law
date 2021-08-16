@@ -1,0 +1,10 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, alíneas "a" e "c" da Constituição Federal.
+Ação: rescisória ajuizada por ASSOCIAÇÃO DOS MILITARES DA RESERVA REMUNARADA E PENSIONISTAS DAS FORÇAS ARMADAS  ASMIR/PE,em face de MARCOS ROBERTO ZANIN,
+Decisão de admissibilidade do TJ/PR: inadmitiu o recurso especial de ASSOCIAÇÃO DOS MILITARES DA RESERVA REMUNARADA E PENSIONISTAS DAS FORÇAS ARMADAS  ASMIR/PE,por entender que em recurso especial não é admitido a análise de ofensa a dispositivo constitucional; que não houve a negativa de prestação jurisdicional, que incidiu a Súmula 7/STJ e que restou prejudicada a análise da divergência jurisprudencial em razão da incidência da Súmula 7/STJ.
+ARESP do ASSOCIAÇÃO DOS MILITARES DA RESERVA REMUNARADA E PENSIONISTAS DAS FORÇAS ARMADAS  ASMIR/PE: não demonstrou, de maneira consistente, a inaplicabilidade da ausência de negativa de prestação jurisdicional, a impossibilidade de análise de dispositivo constitucional em sede de recurso especial eincidência da Súmula7/STJ e que restou prejudicada adivergência jurisprudencial, em razão da incidência da Súmula 7/STJ.
+Cumpre salientar, que na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula 7 do STJ, deve a parte agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, avaliados pelas instâncias ordinárias, o que, neste processo, não foi feito.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
