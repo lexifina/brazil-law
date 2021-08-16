@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial sob o fundamento de incidência daSúmulan. 7 do STJ(e-STJ fls. 264/265).
+O Tribunal de origem deu parcial provimento ao recurso da agravanteem julgado que recebeu a seguinte ementa (e-STJ fls. 223/224):
+APELAÇÃO CÍVEL. AÇÃO DE ADIMPLEMENTO CONTRATUAL. SUBSCRIÇÃO DE AÇÕES. SENTENÇA DE PROCEDÊNCIA.INSURGÊNCIA DA SOCIEDADE EMPRESÁRIA RÉ
+AGRAVO RETIDO.AUSÊNCIA DE PEDIDO EXPRESSO NA APELAÇÃO. RECURSO NÃO CONHECIDO.
+ILEGITIMIDADE ATIVA. ALEGADA CESSÃO DEDIREITOS. TRANSFERÊNCIA DO DIREITO À SUBSCRIÇÃO NÃO COMPROVADA. ÔNUS QUE COMPETIA A RÉ. EXEGESE DO INCISO II DO ARTIGO 373 DO CÓDIGO DE PROCESSO CIVIL. TEMA 657 DO SUPERIOR TRIBUNAL DE JUSTIÇA. RAZÃO NÃO PROVIDA.
+CARÊNCIA DE AÇÃO QUANTO AOS PEDIDOS DE PAGAMENTO DOS DIVIDENDOS E JUROS SOBRE O CAPITAL PRÓPRIO. OBRIGAÇÕES ACESSÓRIAS. CUMULAÇÃO SUCESSIVA DE PEDIDOS PERMITIDA. PARADIGMA DA CORTE SUPERIOR (RESP. N. 1.373.438/RS). APELO NÃO PROVIDO NO PONTO.
+ILEGITIMIDADE PASSIVA. TELEFONIAS FIXA E MÓVEL. APELANTE SUCESSORA DA TELESC. LEGITIMIDADE PARA FIGURAR NO POLO PASSIVO DA DEMANDA. ENTENDIMENTO CONSOLIDADO NO SUPERIOR TRIBUNAL DE JUSTIÇA  RESP. 1651814/SP. APELO NÃO PROVIDO NO PONTO.
+LEGALIDADE DAS PORTARIAS MINISTERIAIS. DIFERENCIAÇÃO ENTRE AS MODALIDADES CONTRATUAIS FIRMADAS. - CONTRATO DE PLANO DE EXPANSÃO (PEX). CÁLCULO DAS AÇÕES COM BASE NO BALANCETE DO MÊS DA INTEGRALIZAÇÃO. APLICAÇÃO DA SÚMULA 371 DO SUPERIOR TRIBUNAL DE JUSTIÇA.  CONTRATO DE PLANTA COMUNITÁRIA DE TELEFONIA (PCT). CÁLCULO DAS AÇÕES COM BASE NO ARTIGO 8º, §§ 2º E 3º, DA LEI N. 6.404/76 E NAS PORTARIAS MINISTERIAIS. APLICAÇÃO DO VALOR MÁXIMO ESTIPULADO ENTRE A RADIOGRAFIA DO CONTRATO E A PORTARIA MINISTERIAL APLICÁVEL AO CASO NOS CONTRATOS PCT. CONTRATO FIRMADO NAMODALIDADE PCT. RAZÃO PROVIDA.
+ARGUIÇÃO DE PRESCRIÇÃO TRIENAL CONFORME LEI N. 6.404/1976. PRESCRIÇÃO TRIENAL PREVISTA NO ARTIGO 206, § 3º, IV EV, DO CÓDIGO CIVIL. PRESCRIÇÃO VINTENÁRIA. PRESCRIÇÃO DE DIVIDENDOS. NÃO ACOLHIMENTO. DEMANDA AJUIZADA DENTRO DO PRAZO. PARADIGMA DA CORTE SUPERIOR. RECURSO REPETITIVO. APLICABILIDADE DOS ARTIGOS 177 DO CÓDIGO CIVIL DE 1916 E ARTIGOS 205 E 2.028 DO CÓDIGO CIVIL DE 2002. RAZÃO NÃO PROVIDA.
+RESPONSABILIDADE DO ACIONISTA CONTROLADOR. LEGITIMIDADE DA SOCIEDADEEMPRESÁRIA RÉ . TESE NÃO ACOLHIDA. CORREÇÃO MONETÁRIA DO VALOR PATRIMONIAL COM BASE NA PORTARIA 86/91. INEXISTÊNCIA DE RELAÇÃO ENTRE O VALOR PATRIMONIAL E O ÍNDICE DE CORREÇÃO MONETÁRIA. INSURGÊNCIA NÃO PROVIDA.
+DOBRA ACIONÁRIA. DIREITO ADQUIRIDO QUANDO DA CISÃO DA TELESC S. A EM ASSEMBLEIA GERAL EXTRAORDINÁRIA. ACIONISTAS QUE TERIAM DIREITO AO MESMO NÚMERO DE AÇÕES QUE DETINHAM DA TELEFONIA FIXA. DIREITO DO AUTOR RECONHECIDO.
+PEDIDOS SUBSIDIÁRIOS. OBRIGAÇÕES ACESSÓRIAS CUMULÁVEIS COM O PEDIDO PRINCIPAL. PRECEDENTES DA CORTE SUPERIOR E DESTE TRIBUNAL. APELO NÃO PROVIDO NO PONTO.
+HONORÁRIOS ADVOCATÍCIOS. PLEITO DE MODIFICAÇÃO DOS CRITÉRIOS PARA FIXAÇÃO. AÇÃO DE NATUREZA CONDENATÓRIA. PERCENTUAL FIXADO DE ACORDO COM OS PARÂMETROS ARBITRADOS POR ESTA CORTE. RAZÃO NÃO PROVIDA.
+HONORÁRIOS RECURSAIS. NÃO CABÍVEIS NA HIPÓTESE DIANTE DA PARCIAL PROCEDÊNCIA DO APELO. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+No recurso especial (e-STJ fls. 257/255), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente apontou violação do art. 100, § 2º, da Lei n. 6.404/1976, sustentando, em síntese, a ilegitimidade ativa, uma vez que o recorrido cedeu seus direitos aterceiro.Alegou, nesse contexto, que, "em relação aos contratos de participação financeira requerido pela parte recorrida, o recorrido cedeu todos os direitos referentes à emissão das ações representativas do capital social à Parcom S.A. Dessa forma, os cessionários não tem direito às ações que foram emitidas"(e-STJ fl. 253).
+Argumentou, ainda, que "resta evidente que os documentos juntados aos autos, são idôneos e reiteradamente aceitos e utilizados como meio substitutivo às informações, tanto nos contratos PEX, quanto nos contratos PCT, conforme prevê o art. 100, § 2º, da Lei n. 6.404/1976" (e-STJ fl. 254).
+Busca, em suma, o provimento do recurso especial, a fim de declarar "a violação ao artigo 100 p. 2ºda Lei das Sociedades por ações, tendo em vista a ilegitimidade ativa da recorrida efetivamente demonstrada nos autos pela radiografia, documento inidôneo"(e-STJ fl. 255).
+Não foram apresentadas contrarrazões(e-STJ fl. 263).
+No agravo (e-STJ fls. 267/272), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 276).
+É o relatório.
+Decido.
+Emrelação à legitimidade ativa do recorrido, eis o entendimento do Tribunal de origem(e-STJ fls. 228/229):
+A sociedade empresária apelante aduz a ilegitimidade ativa de Antônio Justino da Silva uma vez que transferiu sua posição acionária à terceiro (a).
+Acerca da cessão de direitos realizada nos contratos da espécie, o Superior Tribunal de Justiça, quando do julgamento do Recurso Especial n. 1.301.989/RS, em sede de recurso repetitivo, consolidou o entendimento de que é necessária a prova de que o cedente transferiu não só a linha telefônica, mas também os direitos acionários para que se caracterize a ilegitimidade do cedente para pleitear a subscrição das ações emitidas a menor quando da integralização, veja-se:
+ ..
+Dessa forma, competia a apelante comprovar que o autor Antônio Justino da Silva cedeu o direito à subscrição de ações a terceiro, nos termos do artigo 373, inciso II, do Código de Processo Civil.
+Contudo, a recorrente acostou aos autos apenas a radiografia do contrato de participação financeira (fl. 153), que não comprova o que englobou a cessão de direitos, logo, não é possível saber se foram transferidas apenas a titularidade da linha telefônica, das ações que lhe foram subscritas ou o direito à subscrição de ações.
+Logo, não há falar em ilegitimidade ativa.
+A Corte localconsignou a legitimidade ativa do recorrido, concluindoque não ficou comprovadanos autos a transferência do direito à subscrição das ações. Afirmou que a radiografia do contratoacostada ao processo, por si só,não é apta acomprovarse houve a efetiva transferência do direito à subscrição de ações, ou apenas a titularidade da linha telefônica.
+Contudo, no recurso especial, apontando contrariedade ao art. 100, § 2º, da Lei n. 6.404/1976, a recorrente sustenta tão somenteque a radiografia apresentada é documento inidôneo, a fim de embasar a ilegitimidade ativa da parte recorrida.
+Incidem, assim, as Súmulas n. 283 e 284 do STF, uma vez que a parte agravante apresentou alegações dissociadas do que ficou decidido no acórdão recorrido.
+Ainda que assim não fosse, não há como esta Corteanalisar a radiografia do contrato para concluir pela transferência dos direitos à subscrição das ações aterceiro, com a consequente declaração de ilegitimidade ativa. Isso porque,a teordas Súmulas n. 5 e 7 do STJ, o acolhimento da pretensão recursal exigiria o revolvimento dos elementos fáticos-probatórios dos autos.
+Ressalte-se, por fim, que a incidência dos referidos óbices impedem o conhecimento do dissídio jurisprudencial apresentado.
+Ante o exposto NEGO PROVIMENTO ao agravo em recurso especial. Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
