@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EMBARGOS À ARREMATAÇÃO. IMPENHORABILIDADE DO IMÓVEL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PRAZO PARA EMBARGOS À ARREMATAÇÃO. ASSINATURA DO AUTO.
+1. Ação de execução de título extrajudicial. Exceção de pré-executividade.
+2. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O prazo para a oposição dos embargos à arrematação inicia-se com a assinatura do auto de arrematação. Precedentes.
+6. As peculiaridades da espécie em julgamento referentes a interposição, improcedência e trânsito em julgado dos embargos à arrematação dos agravantes, e ao fato de que a exceção de pré-executividade se funda em vício do auto de arrematação já afastado - ausência de assinatura do juiz -, autorizam as conclusõesdo acórdão recorrido relativas a extemporaneidade e preclusão da tese sobre a impenhorabilidade do bem em litígio.
+7. Não caracterizada a manifesta inadmissibilidade ou improcedência do agravo interno, é descabida a aplicação da multa prevista no art. 1.021, § 4º, do CPC/15
+8. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interno deANTÔNIO VOLPATO e MARIA APARECIDA NEGRI VOLPATO em face de decisão monocrática que conheceu o agravo para não conhecer o recurso especial que interpuseram.
+Ação: execução de título extrajudicial proposta por INTEGRADA COOPERATIVA AGROINDUSTRIAL, em desfavor de ANTÔNIO VOLPATO e MARIA APARECIDA NEGRI VOLPATO.
+Decisão interlocutória: julgou procedente o pedido formulado na exceção de pré-executividade apresentada pelos agravantes, a fim de declarar impenhorável o imóvel rural por eles oferecido como garantia, e já arrematado na execução, ao entendimento de que referido imóvel se enquadrava no conceito de pequena propriedade rural.
+Acórdão: deu provimento ao agravo de instrumento interposto por Integrada Cooperativa Agroindustrial, para revogar a decisão agravada, ante o reconhecimento da extemporaneidade da discussão acerca da impenhorabilidade da pequena propriedade rural, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO - AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL - DECISÃO QUE ACOLHE A EXCEÇÃO DE PRÉ-EXECUTIVIDADE E RECONHECE A IMPENHORABILIDADE DA PEQUENA PROPRIEDADE RURAL - INSURGÊNCIA DA PARTE CREDORA-EXTEMPORANEIDADE DA ALEGAÇÃO DE IMPENHORABILIDADE CONSTATADA- IMÓVEL JÁ ARREMATADO (EMBARGOS À ARREMATAÇÃO JULGADOS IMPROCEDENTES) - ASSINATURA DO MAGISTRADO NO AUTO DE ARREMATAÇÃO, NESTE CASO EM ESPECÍFICO,QUE SE MOSTRA MERA FORMALIDADE. DECISÃO REVOGADA. RECURSO CONHECIDO E PROVIDO. (e-STJ fl. 92)
+Recurso especial: alegam violação do art. 903 do CPC/2015. Sustentam, em síntese, que a alegação de impenhorabilidade do bem dado em garantia ocorreu antes da assinatura do juiz, sendo, portanto, anterior ao ato de arrematação. Dizem que a assinatura não pode ser considerada mera formalidade, sendo necessária para a conclusãoda arrematação.
+Decisão monocrática: conheceu do agravo para não conhecer o recurso especial dos agravantes.
+Agravo interno: aduzemque ao contrário do decidido, nas razões do recurso especial todos os fundamentos do acórdão do TJPR foram impugnados e não há necessidade de revolvimentos de fatos e provas. Defendem que a discussãose restringe meramente à interpretação e aplicação do art. 903 do CPC/15 sobre fatos processuais incontroversos, notadamente, a inexistência de assinatura do juiz no auto de arrematação.
+No mais, reprisam os argumentos expendidos anteriormente no recurso especial no sentido de que "para a configuração da contrariedade ao art. 903 do CPC não importa inexistir obstáculo à assinatura do auto, ou o julgamento, ou o trânsito em julgado da decisão dos embargos de arrematação; importa a inexistência da assinatura, textualmente exigida pelo preceptivo"; que "art. 903 do CPC (equivalente ao art. 694 do CPC/73), reafirme-se, é literal e objetivo ao dizer que a assinatura do auto é o requisito para a perfectibilização da arrematação (..)" (STJfl. 914/917).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EMBARGOS À ARREMATAÇÃO. IMPENHORABILIDADE DO IMÓVEL. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. PRAZO PARA EMBARGOS À ARREMATAÇÃO. ASSINATURA DO AUTO.
+1. Ação de execução de título extrajudicial. Exceção de pré-executividade.
+2. A existência de fundamentos do acórdão recorrido não impugnados - quando suficientes para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. O prazo para a oposição dos embargos à arrematação inicia-se com a assinatura do auto de arrematação. Precedentes.
+6. As peculiaridades da espécie em julgamento referentes a interposição, improcedência e trânsito em julgado dos embargos à arrematação dos agravantes, e ao fato de que a exceção de pré-executividade se funda em vício do auto de arrematação já afastado - ausência de assinatura do juiz -, autorizam as conclusõesdo acórdão recorrido relativas a extemporaneidade e preclusão da tese sobre a impenhorabilidade do bem em litígio.
+7. Não caracterizada a manifesta inadmissibilidade ou improcedência do agravo interno, é descabida a aplicação da multa prevista no art. 1.021, § 4º, do CPC/15
+8. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A decisão agravada conheceu o agravo para não conhecer o recurso especial deANTÔNIO VOLPATO e MARIA APARECIDA NEGRI VOLPATO em razão da incidência dos óbices de conhecimento referentes às Súmulas 283 do STF e 7 do STJ.
+Pela análise das razões recursais apresentadas, contudo, verifica-se que osagravantes não trouxeram qualquer argumento novo apto a modificar a conclusão do julgado.
+O acórdão do TJPR declarou que na hipótese em julgamento:
+No presente caso, levando as peculiaridades que o envolvem, vislumbra-se a concretização da arrematação e, consequentemente, a extemporaneidade da discussão acerca da impenhorabilidade da pequena propriedade rural (deduzida em 04.05.2016 - mov. 78.1).
+Isso porque, a única situação que impedia a assinatura do auto era a análise dos embargos à arrematação opostos pelos devedores, julgados improcedentes em 25.11.2014, com trânsito em julgado em 02.09.2015.
+E uma vez julgados os embargos, sem o reconhecimento de qualquer vício, a assinatura seria o ato consectário, mera formalidade a ser cumprida.
+Além do mais, o magistrado singular deixou claro na sentença dos embargos à arrematação, no ano de 2014, que a discussão sobre a (im)penhorabilidade deveria ter sido travada nestes autos, mas, mesmo assim, os devedores quedaram-se inertes à época, alegando a tal impenhorabilidade somente em 04.05.2016.
+Ora, como o único obstáculo para assinatura do auto de arrematação foi resolvido - julgamento dos embargos-, sem o reconhecimento de qualquer vício, não há razão para considerar o ato como não concretizado, e a rubrica do magistrado, nesta hipótese específica, apenas uma formalidade. (grifou-se)(e-STJ fls. 94/95)
+Como se vê, o Tribunal de origem reconheceu sobre a tese da impenhorabilidade da pequena propriedade rural i) sua extemporaneidade, pois alegada somente na exceção de pré-executividade em04.05.2016, apesar da interposição deembargos à arrematação, julgados e transitados em julgado em 02.09.2015; bem como ii) sua preclusão, pela falta de insurgência sobre a questão nos aludidos embargos à arrematação.
+Frisa-se, que, com efeito, as peculiaridades da espécie em julgamento referentes a interposição, improcedência e trânsito em julgado dos embargos à arrematação dosagravantes, e ao fato de que a exceção de pré-executividade se funda em vício do auto dearrematação já afastado - ausência de assinatura do juiz -, autorizam a conclusão do acórdão recorrido.
+Inclusive, a superação da assinatura do juiz no auto de arrematação pela oposição e julgamento dos embargos à arrematação na hipótese, é corroborada pela jurisprudência do STJ no seguinte sentido:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. REEXAME DE PROVA. ANÁLISE DE PRONUNCIAMENTO JUDICIAL E DE SERVENTUÁRIO DA JUSTIÇA. INOCORRÊNCIA. EMBARGOS À ARREMATAÇÃO. TERMO "A QUO". ASSINATURA DO AUTO.
+1. A utilização de pronunciamentos do juiz da causa, bem como de informações de serventuário da justiça para a correta aplicação do direito à espécie não caracteriza reexame de provas, vedado pela Súmula 7/STJ.
+2. "O prazo para a oposição dos embargos à arrematação inicia-se com a assinatura do auto de arrematação. Incidência da Súmula 83/STJ"(AgRg no Ag 1136229/MG, Rel. Min. VASCO DELLA GIUSTINA (DESEMBARGADOR CONVOCADO DO TJ/RS), TERCEIRA TURMA, julgado em 04/02/2010, DJe 25/02/2010).
+3. AGRAVO REGIMENTAL DESPROVIDO. (AgRg no AgRg no REsp 302635 / SP, 3ª Turma, DJe de 25/02/2011)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EMBARGOS À ARREMATAÇÃO. PRAZO. INÍCIO. ASSINATURA DO AUTO DE ARREMATAÇÃO. QUESTÃO DECIDIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STJ. PRECEDENTES. DESPROVIMENTO. (AgRg no REsp 906785 / DF, 4ª Turma, DJe de 06/12/2010)
+Não há impugnação específica e suficiente no recurso especial dosagravantes apta a afastar aludidos fundamentos do acórdão recorrido, queobriga a manutenção da Súmula 283 do STF.
+Além disso, assim dirimida a controvérsia, eventual modificação do acórdão recorrido, quanto à ausência de insurgência referente à impenhorabilidade do imóvel nos embargos à arrematação, ouà existência de vício no auto de arrematação que autorizaria a alegação da impenhorabilidade como pretendem os agravantes,demandaria desta Corte, inevitavelmente, a incursão na seara fático-probatória dos autos, procedimento que, todavia, é vedado em sede de recurso especial pela Súmula 7 do STJ.
+Logo, a decisão agravada não merece reforma.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno, não se vislumbrando, por ora, sua manifesta inadmissibilidade ou improcedência, razão pela qual mostra-se descabida a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015.
