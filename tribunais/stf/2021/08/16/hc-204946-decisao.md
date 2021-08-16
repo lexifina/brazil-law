@@ -1,0 +1,20 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Tráfico de drogas. Dosimetria. Substituição da pena. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a medida cautelar requerida nos autos do HC 683.760, do Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que a paciente foi condenada à pena de 1 ano e 8 meses, em regime inicial aberto, pelo tráfico de 12,5 g de cocaína (art. 33, § 4º, da Lei 11.343/06). A pena privativa de liberdade foi substituída por duas penas restritivas de direito.
+    3. O Tribunal de Justiça do Estado de Rondônia (TJ/RO) deu parcial provimento à apelação do Ministério Público “para afastar da pena da recorrida (...) a causa especial de diminuição de pena do § 4º do art. 33 da lei n. 11.343/06 e desconstituir a substituição da pena privativa de liberdade por restritivas de direitos, e, como consequência, redimensionar a pena definitiva para 5 anos de reclusão, em regime inicial semiaberto”.
+    4. Na sequência, a defesa impetrou habeas corpus no STJ. O Ministro Jorge Mussi, no exercício da Vice-Presidência do Tribunal, indeferiu a medida cautelar.
+    5. Neste habeas corpus, a parte impetrante sustenta a aplicabilidade, no caso, da minorante prevista no art. 33, § 4º, da Lei de Drogas, destacando que “a existência de inquéritos policiais ou de ações penais não transitados em julgado não pode ser considerada como maus antecedentes na dosimetria da pena”.
+    6. A defesa requer a concessão da ordem a fim de que, “desde logo, se reconheça a causa de diminuição de pena prevista no art. 33, § 4º da Lei de Drogas em favor da paciente com a consequente substituição da pena privativa de liberdade por restritiva de direito”.
+    7. Decido.
+    8. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF de decisões teratológicas.
+    9. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF.
+    10.  A dosimetria da pena é questão relativa ao mérito da ação penal, estando necessariamente vinculada ao conjunto fático-probatório, não sendo possível às instâncias extraordinárias a análise de dados fáticos da causa para redimensionar a pena finalmente aplicada. Assim, a discussão a respeito da dosimetria da pena cinge-se ao controle da legalidade dos critérios utilizados, restringindo-se, portanto, ao exame da “motivação [formalmente idônea] de mérito e à congruência lógico-jurídica entre os motivos declarados e a conclusão” (HC 69.419, Rel. Min. Sepúlveda Pertence).
+    11. No caso, embora a quantidade da droga apreendida não impressione, o Tribunal estadual afastou a aplicação da minorante do art. 33, § 4º, da Lei 11.343/06 com base em dados objetivos da causa, notadamente porque a paciente responde a outra ação penal também pelo crime de tráfico de entorpecentes. Transcrevo, nesse sentido, o seguinte trecho do acórdão da apelação:
+    “A magistrada a quo concedeu a indigitada minorante, porque entendeu que, a despeito de (...) responder a outra ação penal por tráfico de drogas (0000655-36.2019.8.22.0010), tal fato não implica dizer que ela se dedica às atividades criminosas.
+    Entretanto, esta Câmara, alinhada à jurisprudência da 3ª Seção do STJ (EREsp n. 1.431.091/SP (DJe 1º/2/2017), tem entendimento firmado que, embora os inquéritos e ações penais em curso não se prestem a marcar os antecedentes do réu, servem de fundamento para caracterizar a dedicação às atividades criminosas para fins do § 4º do art. 33 da lei 11.343/06”.
+    12. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 16 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
