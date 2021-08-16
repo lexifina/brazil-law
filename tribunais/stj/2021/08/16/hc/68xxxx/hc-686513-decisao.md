@@ -1,0 +1,15 @@
+DECISÃO
+Estes autos foram a mim distribuídos por prevenção do processo HC n. 587.251/MA (fl. 28).
+Trata-se de habeas corpus impetrado em benefício de Vinicius Moraes Campos, apontando-se como autoridade coatora o Tribunal de Justiça do Maranhão, que, no julgamento do HC n. 0804348-43.2021.8.10.0000, denegou a ordem lá postulada.
+A impetrante relata que o paciente está custodiado, em razão de mandado de prisão preventiva, desde o dia 3/5/2019, pelo suposto cometimento dos crimes previstos no art. 121, § 2º, I, III e IV, c/c o art. 157, §§ 1º e 2º, II e 2º-A, I, na forma do art. 69 do Código Penal, e art. 121, § 2º, I, III e IV, c/c o art. 14, II, e art. 157, §§ 1º e 2º, II e 2º-A, I, na forma do art. 69 do Código Penal, por fato ocorrido em 30/4/2019. Durante toda a instrução processual, a defesa requereu a liberdade do paciente, a qual foi negada pelo Juízo singular, inclusive na sentença de pronúncia, encontrando-se o feito em recurso em sentido estrito (fl. 3).
+Sustenta, em síntese, a ausência de fundamentação e de motivação válida da decisão que decretou a prisão do paciente, a qual fere o princípio constitucional da presunção de inocência e da razoável duração do processo, visto que se tratade uma antecipação da pena, pois se encontra preso há mais de dois anos (fl. 5).
+Postula, liminarmente, a concessão da ordem com o propósito de colocar o paciente imediatamente em liberdade;e, no mérito, a confirmação da liminarpara conceder ao paciente o direito de aguardar o julgamento em liberdade, com imposição, se necessário, das medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal (fl. 7).
+É o relatório.
+Verifica-se que o presente mandamus foi impetrado desprovido da cópia integral do decreto preventivo, da decisão de pronúncia, bem como do acórdão impugnado (proferido no HC n. 0804348-43.2021.8.10.0000), o que inviabiliza o deslinde da controvérsia.
+Como é cediço, o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca e tempestiva, por meio de documentação que evidencie a pretensão aduzida, a existência do aventado constrangimento ilegal, ônus do qual não se desincumbiu a parte impetrante.
+Nessa direção, orienta-se a jurisprudência pacífica desta colenda Corte Superior de Justiça: HC n. 487.930/GO, Ministro Felix Fischer, Quinta Turma, DJe 13/2/2019; AgRg no RHC n. 99.489/CE, de minha relatoria, Sexta Turma, DJe 4/2/2019; e HC n. 466.466/PR, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 23/11/2018.
+Sob essa moldura, não conheço do presente habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO CONSUMADO, HOMICÍDIO QUALIFICADO NA FORMA TENTADA E ROUBO MAJORADO. PRISÃO PREVENTIVA. TESES DE INIDONEIDADE DA FUNDAMENTAÇÃO E EXCESSO DE PRAZO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DAS ALEGAÇÕES. AÇÃO DE NATUREZA MANDAMENTAL QUE EXIGE PROVA PRÉ-CONSTITUÍDA. ÔNUS QUE COMPETE À PARTE IMPETRANTE.
+Writ não conhecido.
