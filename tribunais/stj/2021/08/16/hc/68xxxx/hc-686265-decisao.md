@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de ANDERSON RODRIGO DE OLIVEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 0009343-55.2008.8.26.0320, assim ementado (fl. 13):
+"APELAÇÃO CRIMINAL - CRIME DE TRÂNSITO - HOMICÍDIO CULPOSO - Recurso defensivo - Pleito de absolvição - Impossibilidade - Agente que invadiu a contramão e colidiu seu veiculo contra veículo que vinha em sentido oposto, causando a morte de três vítimas - Vasto conjunto probatório -Materialidade e autoria comprovadas -Condenação mantida -Pena privativa de liberdade e regime corretamente estabelecidos -Suspensão da habilitação para dirigir veículo automotor que deve guardar relação de proporcionalidade com a pena privativa de liberdade -Redução -Possibilidade -Recurso parcialmente provido."
+Colhe-se nos autos que o Paciente foi definitivamente condenado à pena de 3 (três)anos, 3 (três) meses e6 (seis) dias de detenção, em regime inicial semiaberto, e suspensão da habilitação para dirigir veículo automotor pelo prazo de 3 (três) meses e 7 (sete) dias, por violar o art. 302, do Código de Trânsito Brasileiro, por três vezes.
+Defende o Impetrante que (fl. 4):
+"ante todas as circunstâncias fáticas, como a natureza culposa do delito, o grande lapso ultrapassado entre os fatos e o inicio do cumprimento de pena e, sobretudo, em razão do Paciente desde a ocasião dos fatos nunca ter se envolvido em qualquer ilícito, exercendo atividade laboral como empresário atualmente, portanto exercendo atividade eminente lícita, é totalmente desproporcional submete-lo ao cárcere, quando há outras medidas que seriam suficientes para cumprir seu caráter retributivo."
+Aduz, ainda, que "de acordo com as diretrizes do art.33, § 2.º, do Código Penal, o paciente faz jus ainda ao regime inicial aberto para cumprimento da pena, essencialmente em razão da natureza do delito, que é culposo" (fl. 10).
+Busca, assim, liminarmente e no mérito, seja o Paciente colocado em regime aberto esubstituída a pena privativa de liberdade imposta por pena restritiva de direitos.
+É o relatório. Decido.
+A questão já foi analisada nos autos do HC n. 672.389/SP, impetrado diantedo mesmo acórdão de apelação, em decisão monocrática da minha relatoria, publicada no DJe 21/06/2021, mantida em sede de agravo regimental, julgado em 03/08/2021, em acórdão pendente de publicação.
+Friso que a presente impetração não trouxe nenhuma modificação na situação fática que justificasse nova apreciação da matéria por esta Tribunal Superior de Justiça.
+Esta impetração, portanto, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambas o mesmo acórdão. Assim, concluo pela inadmissibilidade domandamus, porquanto"não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte"(AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PENAL.REITERAÇÃO DO PLEITO FORMULADO NO HC N.672.389/SP. LITISPENDÊNCIA. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL.
