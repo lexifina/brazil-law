@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por aplicação das Súmulas n. 7 do STJ e 283 e 284 do STF (e-STJ fls. 436/438).
+O Tribunal de origem deu parcial provimento aoagravo da recorrente em julgado que recebeu a seguinte ementa (e-STJ fl. 394):
+AGRAVO DE INSTRUMENTO. AÇÃO DE ADIMPLEMENTO CONTRATUAL. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DETERMINOU A EXIBIÇÃO DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA, NOS TERMOS DO ART. 524, §§ 4º E 5º, DO CPC. RECURSO DA EMPRESA DE TELEFONIA.
+SUSTENTADA A DESNECESSIDADE DE EXIBIÇÃO DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA E A SUFICIÊNCIA DAS INFORMAÇÕES CONTIDAS NA RADIOGRAFIA. PACTO FIRMADO NA MODALIDADE PEX. AVENÇA NECESSÁRIA PARA O TRANSCURSO DO CUMPRIMENTO DE SENTENÇA. DECISÃO ESCORREITA NO PONTO. TESE AFASTADA.
+PRETENDIDO O AFASTAMENTO DO ART. 524, § 5º, DO CÓDIGO FUX. EFEITO CONTIDO NO SUPRACITADO DISPOSITIVO QUE INCIDE APENAS EM FACE DAQUILO QUE SE PRETENDE PROVAR MEDIANTE O CONTRATO. RESPEITO AO CONTRADITÓRIO, À AMPLA DEFESA E À COISA JULGADA. TESE ACOLHIDA EM PARTE.
+RECURSO PARCIALMENTE PROVIDO.
+No recurso especial (e-STJ fls. 402/415), fundamentadono art. 105, III, "a" e "c", da CF, a recorrente apontou dissídio jurisprudencial e violação dos arts. 524, § 5º, do CPC/2015 e 100, § 2º, da Lei n. 6.404/1976, alegando:
+(i) suficiência da documentação apresentada (radiografia do contato) na fase de cumprimento de sentença, e
+(ii) inaplicabilidade da pena de presunção de veracidade pois inexistiu recusa injustificada ou ilegítima.
+Busca, em suma, o provimento ao recurso especial, a fim de reformar a decisão recorrida "ante a manifesta violação ao artigo 100, § 2º, da Lei nº 6.404/76, determinando, por conseguinte, a inaplicabilidade do art. 524, § 5º, do CPC, para o fim determinar que os documentos acostados pela recorrente são suficientes para a elaboração dos cálculos dos créditos dos recorridos"(e-STJ fl. 414).
+Não foram apresentadas contrarrazões (e-STJ fl. 435).
+No agravo (e-STJ fls. 440/447), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta não apresentada (e-STJ fl. 450).
+É o relatório.
+Decido.
+A Corte a quoafastou a suficiência da radiografia do contrato, manifestando-se nos seguintes termos (e-STJ fls. 397/399):
+Trata-se de agravo de instrumento interposto por Oi S/A  em Recuperação Judicial contra a decisão que determinou a exibição do contrato de participação financeira firmado com a credora, nos termos do art. 524, §§ 4º e 5º, do Código Fux.
+A agravante alega que não possui cópia física ou eletrônica do contrato celebrado durante a sistemática de participação financeira e destaca ser possível a substituição dos seus arquivos físicos por registros mecanizados ou eletrônicos, tais como a radiografia, documento elaborado em conformidade com o art. 100, § 2º, da Lei n. 6.404/1976.
+Sustenta que o valor a ser revertido em ações deve corresponder ao preço pago pelo consumidor, à vista ou parcelado, limitado ao máximo previsto em portaria ministerial vigente à época da contratação.
+Finaliza dizendo ser impossível a aplicação dos efeitos do art. 524, § 5º, do CPC/2015, ou a incidência da presunção de veracidade deve ocorrer de forma relativa.
+Sabe-se que o Programa Comunitário de Telefonia (PCT) era composto por associações, nas quais cada membro associado repassava os valores correspondentes ao terminal telefônico contratado à empresa responsável pela construção da rede de telefonia (intermediadora), a qual era futuramente avaliada pela Telesc S/A e incorporada ao seu acervo patrimonial, momento em que as ações eram efetivamente emitidas, levando em consideração a referida avaliação.
+Ou seja, não é o valor desembolsado inicialmente na contratação do terminal telefônico que deve ser revertido em ações, mas sim o total incorporado ao acervo patrimonial da operadora de telefonia, numerário que corresponde ao valor atribuído ao sistema telefônico implantado e recebido pela Telesc S/A, dividido pelo total de adquirentes de ramais telefônicos na regiãoonde houve a implantação.
+Por outro lado, nos Planos de Expansão (PEX) não existia a figura do intermediador, posto que os pagamentos eram efetivados diretamente à concessionária, na data de assinatura do contrato, motivo pelo qual neste regime contratual é o total do investimento realizado pelo acionista que deveria ser retribuído em ações, operação que dependia da opção pagamento avençada (à vista ou parcelado).
+ ..
+Sendo assim, uma vez constatado que as partes firmaram a contratação na modalidade PCT, torna-se desnecessária a exigibilidade da avença para fins de se conhecer o valor integralizado pelo consumidor, uma vez que tal informação não faz parte da celebração.
+Entrementes, necessário ressaltar que a necessidade de apresentação do contrato permanece indene nas avenças de modalidade PEX, pois como dito alhures, não existe a figura do intermediador na negociação, cujo investimento integralizado corresponde ao total adimplido pelo consumidor.
+No caso vertente, resta incontroverso que o contrato n. 365390 foi pactuado mediante o regime denominado PEX, conforme informações contidas na radiografia juntada pela própria agravante (fl. 27  autos principais).
+Assim, com base nessas perspectivas, mostra-se plenamente cabível a determinação contida na decisão objurgada, motivo pelo qual se afasta a alegação no sentido de ser desnecessária a apresentação da avença, assim como a relacionada à limitação do investimento ao máximo estabelecido em portaria ministerial vigente à época do contrato.
+Noutro norte, tem razão a recorrente quanto à extensão da penalidade prevista no art. 524, § 5º, do CPC, pois muito embora seja possível a aplicação da presunção de veracidade por ocasião do descumprimento da ordem exibitória de documentos, esta incide apenas em relação àquilo que a exequente pretende comprovar por meio do contrato, em respeito ao contraditório, à ampla defesa e à coisa julgada.
+Por fim, registre-se que embora a decisão tenha sido publicada na vigência do Código de Processo Civil de 2015, a ausência de arbitramento de honorários na origem, obsta a fixação da verba em sede recursal.
+Dissentir de tal entendimento é inviável no âmbito desta Corte, haja vista o teor da Súmula n. 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SUBSCRIÇÃO DE AÇÕES. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. RADIOGRAFIA DO CONTRATO INSUFICIENTE. NECESSIDADE DE JUNTADA DO CONTRATO ORIGINAL. CLÁUSULAS CONTRATUAIS. REEXAME FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal de origem concluiu ser necessária a apresentação do contrato de participação financeira, pois as informações trazidas no resumo do contrato ("radiografia") são insuficientes para cálculo do montante devido relativo à complementação acionária.
+2. A modificação do entendimento lançado no v. acórdão recorrido demandaria análise de cláusulas contratuais e revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõem as Súmulas 5 e 7 deste Pretório.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 831.795/SC, Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 17/5/2018, DJe 22/5/2018.)
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - SUBSCRIÇÃO DE AÇÕES - CONTRATO DE PARTICIPAÇÃO FINANCEIRA - AQUISIÇÃO DE LINHA TELEFÔNICA - CUMPRIMENTO DE SENTENÇA - ELABORAÇÃO DE CÁLCULOS - REEXAME - VEDAÇÃO DA SÚMULA 7/STJ - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DO EXEQUENTE.
+1. O recurso especial sustenta a suficiência da radiografia do contrato para subsidiar a elaboração do cálculo do valor devido. Contudo, o julgamento dessa questão demanda reexame de matéria fática e interpretação de cláusulas contratuais, a teor das Súmulas 5 e 7 do STJ. Precedentes: AgRg no AREsp 732634/SC, Rel. Min. Maria Isabel Gallotti, DJe de 07/03/2016; AgRg no AREsp 700530/SC, Rel. Min. Antonio Carlos Ferreira, DJe de 28/08/2015; AgRg no AREsp 553574/SC, Rel. Min. Ricardo Villas Bôas Cueva, DJe de 13/04/2015.
+2. Incide a Súmula 282/STF quando a pretensão recursal não foi objeto de debate pela Corte a quo, tampouco essa omissão foi suscitada em sede de embargos de declaração, ante a ausência do prequestionamento.
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 1.002.908/SC, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/2/2018, DJe 5/3/2018.)
+CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. SUBSCRIÇÃO DE AÇÕES. RECUPERAÇÃO JUDICIAL. PLEITO DE SUSPENSÃO DO PROCESSO QUE DEVE SER DIRIGIDO AO JUÍZO DE ORIGEM. ART. 475-B, § 2º, DO CPC/73. DESCUMPRIMENTO. RADIOGRAFIA DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A via especial não é própria para a realização do pedido de suspensão do processo em virtude de deferimento de processamento de recuperação judicial, de forma que ele deve ser formulado perante o Juízo de origem. Precedentes.
+3. Rever as conclusões do acórdão estadual acerca da suficiência ou não da radiografia do contrato de participação financeira para elaboração dos cálculos na fase de cumprimento de sentença, esbarra nas Súmulas nºs 5 e 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp n.1.022.255/SC, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 27/4/2017, DJe 22/5/2017.)
+Outrossim, esta Corte de Justiça possui entendimento de que a incidência da Súmula n. 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual foi dada a solução pela Corte de origem.
+Ante o exposto, NEGO PROVIMENTO ao agravo em recurso especial.
+Publique-se e intimem-se.
