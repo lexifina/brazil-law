@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público Federal, com fulcro no art. 105, III, "a", da Constituição Federal de 1988, contra acórdão oriundo do Tribunal Regional Federal da 1ª Região.
+Verifica-se que uma das questões tratada nos presentes autos diz respeito à caracterização de dano in re ipsa a dispensa indevida de processo licitatório, aqual é idêntica ao Tema n. 1.096, submetido ao rito do art. 1.036, § 5º, do CPC/2015 pela Primeira Seção desta Corte, nos autos do REsp 1.912.668/GO e do REsp 1.914.458/PI.
+Desse modo, em observância ao princípio da economia processual, é possível ao relator determinar o retorno dos autos à origem, onde ficarão sobrestados até a publicação do acórdão proferido nos autos do recurso representativo da controvérsia, devendo tais recursos serem apreciados na forma prevista no art. 1.040 do CPC/2015.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese do acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (art. 1.040 do CPC/2015).
+Publique-se. Intimem-se.
