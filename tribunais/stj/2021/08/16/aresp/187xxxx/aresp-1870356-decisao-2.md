@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por ESTADO DO RIO DE JANEIRO,contra decisão do Tribunal de Justiça do referido Estado, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"Direito Administrativo. Contrato administrativo de prestação de serviços. Execução de título extrajudicial. R$ 9.252.283,60. Embargos à execução. Sentença de procedência. Fundamento de ausência de título executivo, ante a não comprovação da prestação do serviço. Apelo.
+Julgamento não unânime. Incidência do art. 942. Pagamento efetuado pelo apelado. Reconhecimento do pedido. Desnecessária a continuação do julgamento na forma do art. 942.
+Juros e correção monetária que devem incidir, ante o inadimplemento da obrigação.
+O Superior Tribunal de Justiça, em julgamento repetitivo submetido ao regime do art. 543-C, do CPC/73, já assentou entendimento de que a Lei 11.960/09, que alterou a redação do art. 1º-F da Lei 9494/97, deve ser imediatamente aplicada aos processos em curso.
+No que tange à correção monetária, em razão do reconhecimento da inconstitucionalidade parcial, por arrastamento, do art. 5º da Lei 11.960/09, no julgamento da ADI 4357/DF pelo Plenário da Corte Suprema - que proibiu a atualização monetária pelos índices da caderneta de poupança - ela deve ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada no período.
+Perda do objeto quanto ao pedido principal. Reconhecimento da incidência de juros e correção monetária" (fl. 266e).
+O acórdão em questão foi objeto de Embargos de Declaração, os quais restaram rejeitados, nos seguintes termos:
+"Direito Administrativo. Contrato administrativo de prestação de serviços. Execução de título extrajudicial. R$ 9.252.283,60. Embargos à execução. Sentença de procedência. Fundamento de ausência de título executivo, ante a não-comprovação da prestação do serviço. Apelo.
+Julgamento não unânime. Incidência do art. 942 do CPC.Pagamento efetuado pelo apelado. Reconhecimento do pedido.Desnecessária a continuação do julgamento na forma do art. 942 do CPC.
+Juros e correção monetária que devem incidir, ante o inadimplemento da obrigação.
+O Superior Tribunal de Justiça, em julgamento repetitivo submetido ao regime do art. 543-C do CPC/73, já assentou entendimento de que a Lei 11.960/09, que alterou a redação do art. 1º-F da Lei nº 9.494/97, deve ser imediatamente aplicada aos processos em curso.
+No que tange à correção monetária, em razão do reconhecimento da inconstitucionalidade parcial, por arrastamento, do art. 5º da Lei 11.960/09, no julgamento da ADI 4357/DF pelo Plenário da Corte Suprema - que proibiu a atualização monetária pelos índices da caderneta de poupança - ela deve ser calculada com base no IPCA, índice que melhor reflete a inflação acumulada no período.
+Perda do objeto quanto ao pedido principal. Reconhecimento incidência de juros e correção monetária.
+Parcial provimento do recurso.
+Primeiros embargos de declaração. Discussão quanto ao valor da causa que servirá de base de cálculo para os honorários de sucumbência.
+Alegação do embargante de omissão da sentença quanto à preliminar de impugnação da causa apresentada. Matéria preclusa. Rejeitados.
+Segundos embargos de declaração. Discussão quanto à forma de atualização do valor devido. Imprestável a via declarativa para o atendimento da pretensão do ora embargante; outrossim, não é demais lembrar que os declaratórios não se prestam para questionamentos, mas para dirimir omissões, obscuridades ou contradições, tampouco servem para alterar a decisão. Rejeitados.
+Precedentes: EDcl nos EDd no REsp 1115454/RJ, Rel. Ministro Castro Meira, Segunda Turma, julgado em 02/09/2010, ale 22/09/2010AgRg no REsp 1169663/RS, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 15/03/2012, ale 02/04/2012.
+Rejeição de ambos os embargos de declaração" (fls. 363/364e).
+Nas razões do Recurso Especial, interposto com fulcro naalíneaado permissivo constitucional, aduz a parte recorrentea violação aos artigos 62 e 63 da Lei 4.320/64, argumentando que "há requisito essencial ao adimplemento de cada parcela, qual seja, a "apresentação das notas fiscais devidamente atestadas pelo servidor responsável pelo recebimento". Nesse sentido, só assim se pode efetivar as despesas na forma da lei estadual, da lei nº 4.320/64 e da Lei complementar nº 101". Consignou, então, que, "em nenhum momento é trazido aos autos documentação produzida bilateralmente, isto é, atestada por servidor público competente, o que não prova de que tais serviços tenham sido efetivamente prestados, sendo, assim, impossível a alegação de mora afirmada" (fl. 487e).
+Apresentadas as contrarrazões (fls. 508/523e), negado seguimento ao Recurso Especial (fls. 525/530e), foi interposto o presente Agravo (fls. 559/583e).
+A irresignação não merece acolhimento.
+Com efeito, a Corte de origem concluiu que ser devida a condenação ao pagamento de juros e correção monetária,nos seguintes termos:
+"No que tange ao pedido de condenação ao pagamento dos juros e correção monetária incidentes sobre o valor histórico pago, bem como do pedido de condenação ao pagamento de honorários recursais, assiste razão ao apelante.
+Os juros e correção monetária são devidos, considerando que o vencimento da obrigação ocorreu há diversos anos, devendo, portanto, incidir a regra prevista no art. 389 do CC.
+Art. 389 - Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e honorários de advogado.
+(..)
+Ressalte-se que, apesar do apelado alegar que não houve resistência à pretensão, está-se diante do julgamento de apelação nos autos de embargos à execução por ele proposto, o que, por si só, configura resistência.
+Diante de todo o exposto, entendo que resta prejudicada a continuação do julgamento quanto ao pedido principal, ante o pagamento efetuado.
+Por tais motivos, o voto é no sentido de julgar procedente em parte o presente recurso, ante a perda superveniente do objeto e reconhecer a incidência de juros e correção monetária.
+Os juros deverão ser calculados com base naqueles aplicados à caderneta de poupança, contados desde a citação inicial e a correção monetária pelo IPCA, a contar de cada inadimplemento" (fls. 276/279e).
+Desse modo, em relação aos arts. 62 e 63 da Lei 4.320/64, que tratam da liquidação de despesa, verifica-se que os dispositivos não contêmcomando para infirmar os fundamentos do acórdão recorrido, que versaram acerca da condenação ao pagamento de juros e correção monetária uma vez verificada a mora, aplicando-se, a Súmula 284 do STF, por deficiência na fundamentação do Recurso Especial.
+Ademais, considerando a fundamentação adotada na origem, o acórdão recorrido somente poderia ser modificado mediante o reexame do contrato administrativo celebrado entre as partes e dos aspectos concretos da causa, o que é vedado, no âmbito do Recurso Especial, pelas Súmulas 5 e 7 desta Corte.
+Em face do exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
