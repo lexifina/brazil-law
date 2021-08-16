@@ -1,0 +1,44 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. RAZÕES QUE NÃO INFIRMARAM TODOS OSFUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE.
+Agravo regimental não conhecido.
+RELATÓRIO
+Trago ao conhecimento da Turma o agravo regimental de MARIO FLAVIO FERREIRA LOPEScontra a decisão de fls. 190/193, mediante a qual deneguei o pedido de habeas corpus, conforme esta ementa:
+HABEAS CORPUS. CRIME DE TRÁFICO ILÍCITO DE DROGAS E ASSOCIAÇÃO PARA O MESMO FIM. CONDENAÇÃO. NEGATIVA DO RECURSO EM LIBERDADE. DEFICIÊNCIA NA INSTRUÇÃO DO WRIT.TEMA DECIDIDO NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO DA APELAÇÃO. ACÓRDÃO NÃO JUNTADO.INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Ordem denegada.
+Argumenta o agravante, em resumo, o seguinte (fls. 198/199 - grifo nosso):
+ ..  que denegar a ordem ao presente habeas corpus em epígrafe, monocraticamente, afronta ao principio da colegialidade. Não podendo o exame do mérito, ser realizado monocraticamente pelo Douto Min.Relator, para denegar a ordem. Sendo imperiosa que seja concedida a ordem de "Ofício", para cassar a presente decisão, e que se digne a determinar que o mérito do presente habeas corpus em epígrafe, seja apreciado pelo colegiado desta Colenda Sexta Turma do Superior Tribunal de Justiça, por tratar-se de medida de Lídima Justiça.
+Ora, Excelências, D.M.V., não é isso o que retrata a peça de Habeas Corpus impetrada pela defesa do paciente (Ora, Agravante). E sim, que em uma simples análise perfunctória dos documentos que instruem o presente "writ", V. Ex.as iram verificar, que é plenamente cabível que o paciente (Ora, Agravante), aguarde em liberdade o trânsito em julgado da sentença penal condenatória; e que os Doutos Ministros Julgadores desta Colenda Sexta Turma do STJ, de "Ofício", conceda ao paciente/agravante MÁRIO FLÁVIO FERREIRA LOPES, a liberdade para apelar solto, até que ocorra o trânsito em julgado de todos os recursos, com a consequente expedição do Alvará de Soltura, permitindo ao paciente (Ora, Agravante), Apelar em Liberdade. ..
+Requer (fl. 200):
+ ..  o juízo de retração sobre a Decisão monocrática de fls. , que denegou a ordem do presente "Writ". E que sendo retratado, seja apreciado o pedido de Liminar. Ou se este restar superado, requer a V. Exa., que seja concedida a ordem de "Ofício", para cassar a presente decisão, e que se digne a determinar que o mérito do presente habeas corpus em epígrafe, seja apreciado pelo colegiado desta Colenda Sexta Turma do Superior Tribunal de Justiça  ..
+Não abri prazo para o agravado apresentar contrarrazões ao agravo regimental.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS DENEGADO. RAZÕES QUE NÃO INFIRMARAM TODOS OSFUNDAMENTOS DO DECISUM ATACADO. INCIDÊNCIA DO ENTENDIMENTO DA SÚMULA 182/STJ. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA COLEGIALIDADE.
+Agravo regimental não conhecido.
+VOTO
+No caso, o agravante não se desincumbiu do ônus de demonstrar o desacerto da decisão agravada, mediante impugnação clara e específica dos fundamentos do decisum combatido, que foram assim expostos (fls. 190/193):
+Neste writ, alega-se que inexiste fundamentação idônea para negar a MARIO FLAVIO FERREIRA LOPES o direito de apelar em liberdade contra a sentença proferida no Processo n. 0409406-16.2016.8.19.0001, pelo Juízo de Direito da 33ª Vara Criminal da comarca do Rio de Janeiro/RJ.
+Argumenta-se que faltam os requisitos da prisão preventiva previstos no art.
+312 do Código de Processo Penal e que estão presentes condições pessoais favoráveis, tais como primariedade e bons antecedentes. Menciona-se, ainda, que é impossível a execução provisória da pena, visto que não transitada em julgado a condenação.
+Pede-se, assim, a concessão da ordem para que seja expedido alvará de soltura em favor do paciente.
+O pedido liminar foi analisado pela então Presidência desta Casa (fls.
+158/159).
+Depois de prestadas informações (fls. 162/175), o Ministério Público Federal opinou nos termos desta ementa (fl. 182):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. PROCESSO PENAL. CRIMES DE TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO À PENA TOTAL DE 09 ANOS, 07 MESES E 06 DIAS DE RECLUSÃO EM REGIME FECHADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. INDÍCIOS DE AUTORIA E MATERIALIDADE DO FATO COMPROVADOS. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA DOS DELITOS. GRUPO CRIMINOSO ALTAMENTE ESTRUTURADO ("COMANDO VERMELHO"). APREENSÃO DE MATERIAL BÉLICO DE ALTO CALIBRE. RÉU QUE PERMANECEU SEGREGADO DURANTE TODO O TRÂMITE PROCESSUAL. AUSÊNCIA DE ILEGALIDADE MANIFESTA. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório.
+Embora a impetração se volte contra a prisão cautelar do paciente, não houve nenhuma manifestação a respeito do tema no Tribunal de Justiça do Rio de Janeiro, não no acórdão proferido na apelação criminal, único juntado a estes autos.
+E, pelo que consta das informações, no acórdão dos embargos de declaração, superveniente a este writ, a Corte estadual disse que a custódia cautelardos réus foi mantida, na sentença, em decisão devidamente fundamentada, ainda que concisa, respeitados o mecanismo da fundamentação per relationem, uma vez que persistiram os motivos ensejadores da sua decretação, até porque o réu permaneceu preso durante toda a instrução criminal. Ademais, conhecido o recurso, perde sentido o pedido (fl. 173). O inteiro teor desse julgado, contudo, não está nos presentes autos.
+Quer dizer, o presente feito está mal instruído.
+De todo modo, segundo a manifestação do Ministério Público Federal, a alegação de ausência de fundamentação da decisão que decretou a segregação cautelar e daquela que a manteve não merece prosperar, pois a necessidade da prisão preventiva restou demonstrada, tendo entendido o Juízo de origem que a medida se impunha para garantir a ordem pública, ressaltando a existência de indícios de autoria e prova da materialidade, bem como a gravidade concreta do delito, evidenciada pela natureza e quantidade da droga aprendida, juntamente com armamentos, além do fato de que o réu possuir ligação com perigosa fação criminosa ("Comando Vermelho") - fl.186.
+Ademais, de acordo com a jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1º, do Código de Processo Penal, o entendimento de que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma (RHC n. 121.762/CE, Ministra LAURITA VAZ, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020). E, tendo o recorrente permanecido preso durante a instrução, não deve ser permitido o recurso em liberdade, especialmente porque, inalteradas as circunstâncias que justificaram a custódia, não se mostra adequada sua soltura depois da condenação em primeiro grau (AgRg no RHC n. 135.869/RJ, Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/3/2021, DJe 5/4/2021).
+Sobre o tema, ainda, HC n. 643.875/RN, da minha relatoria, SEXTA TURMA, julgado em 8/6/2021, DJe 15/6/2021.
+Pelo exposto, denego a ordem.
+Caberia ao agravante, nas razões do regimental, rebater esses fundamentos, um a um, o que não se verifica da leitura da peça. Limitou-se a alegar ofensa ao princípio da colegialidade e a repetir, de forma extremamente genérica, a teserefutada.
+Cumpre afastar a dita violação ao princípio da colegialidade, pois, a teor do art. 34, XVIII, b, do RISTJ e da Súmula 568/STJ, a decisão monocrática foi proferida com base na jurisprudência dominante do Superior Tribunal de Justiça, sem contar a constatação da deficiência da instrução do pedido.
+Permanecem incólumes os fundamentos expendidos pela decisão ora agravada. Entendo, portanto, que não é caso de conhecer deste agravo regimental, ante a incidência da Súmula 182/STJ.
+Afinal, éinviávelo agravo regimental ou interno que deixa de atacar os fundamentos da decisão agravada, de acordo com os arts. 932, III e 1.021, § 1º, do Código de Processo Civil - CPC de 2015 e a Súmula n. 182 do Superior Tribunal de Justiça. Precedentes (AgRg no AREsp n. 936.228/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 25/5/2017).
+Não conheço do referido recurso.
