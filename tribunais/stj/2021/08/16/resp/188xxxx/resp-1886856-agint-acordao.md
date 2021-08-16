@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. TESES NÃO ARGUIDAS ANTERIORMENTE. INOVAÇÃO RECURSAL. PRECLUSÃO. AÇÃO DE COBRANÇA. MANDADO DE SEGURANÇA COLETIVO. TRÂNSITO EM JULGADO. NECESSIDADE.
+1. É defeso à parte inovar em sede de agravo interno, apresentando teses não arguidas nas contrarrazões ao apelo especial e contraminuta ao agravo em recurso especial, dada a preclusão consumativa.
+2. O Tribunal de origem decidiu em dissonância com a jurisprudência desta Corte Superior, que entende que é necessário aguardar o trânsito em julgado da sentença em mandado de segurança coletivo para o ajuizamento da ação de cobrança que visa à percepção de parcelas pretéritas.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por JOSÉ WHYL BELLINI JUNIOR e OUTROS contra a decisão de e-STJ fls. 547/550, na qual conheci do agravo para dar provimento ao recurso especial interposto pela Fazenda do Estado de São Paulo, julgando prejudicado o apelo nobre dos particulares.
+Nas suas razões, a parte agravante sustenta que: (a) tanto o recurso especial como o agravo interpostos pela parte Fazenda paulista eram dignos de inadmissão por força da Súmula 283 do STF, bem como da Súmula 182 do STJ, porque não houve ataque a todos os fundamentos da decisão agravada; e (b) o STJ não "possui jurisprudência consolidada de que é necessário aguardar o trânsito em julgado da sentença em Mandado de Segurança Coletivo para o ajuizamento da ação de cobrança das parcelas pretéritas" (e-STJ fl. 564).
+Sem impugnação (e-STJ fls. 585/586).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. TESES NÃO ARGUIDAS ANTERIORMENTE. INOVAÇÃO RECURSAL. PRECLUSÃO. AÇÃO DE COBRANÇA. MANDADO DE SEGURANÇA COLETIVO. TRÂNSITO EM JULGADO. NECESSIDADE.
+1. É defeso à parte inovar em sede de agravo interno, apresentando teses não arguidas nas contrarrazões ao apelo especial e contraminuta ao agravo em recurso especial, dada a preclusão consumativa.
+2. O Tribunal de origem decidiu em dissonância com a jurisprudência desta Corte Superior, que entende que é necessário aguardar o trânsito em julgado da sentença em mandado de segurança coletivo para o ajuizamento da ação de cobrança que visa à percepção de parcelas pretéritas.
+3. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Não obstante os argumentos expendidos pela parte agravante, da análise dos autos, verifica-se que o recurso não merece prosperar.
+De início, observo que as teses de incidência das Súmulas 283 do STF e 182 do STJ não foram suscitadas anteriormente - nas contrarrazões do apelo nobre (e-STJ fls. 427/450 e na contraminuta do agravo (e-STJ fls. 520/534) - mostrando-se, portanto, impossível sua discussão na presente fase processual, tendo em vista que "as questões levantadas apenas no âmbito do agravo interno são insuscetíveis de conhecimento, por caracterizarem indevida inovação recursal e, com isso, preclusão consumativa" (AgInt no RCD no CC 155.496/RJ, Relator Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇAO, DJe 06/04/2020).
+Quanto ao mais, observo que, in casu, o acórdão recorrido, ao entender que "o fato de não ter ocorrido o trânsito em julgado no mandado de segurança coletivo não constitui óbice à demanda pelo período anterior ao seu ajuizamento" (e-STJ fl. 323), acabou por divergir da orientação jurisprudencial desta Corte Superior, razão pela qual não poderá remanescer.
+É que este STJ tem entendido pela necessidade de aguardar o trânsito em julgado da sentença proferida em mandado de segurança coletivo para o ajuizamento da ação de cobrança que visa à percepção de parcelas pretéritas. A propósito:
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. MANDADO DE SEGURANÇA COLETIVO. QUINQUÊNIOS E SEXTA-PARTE. COISA JULGADA. NECESSIDADE. ACÓRDÃO RECORRIDO ALINHADO COM A JURISPRUDÊNCIA DO STJ.
+I - Na origem, trata-se de ação de cobrança ajuizada por policial militar inativo, objetivando o recebimento de parcelas pretéritas à impetração do mandado de segurança coletivo, na qual determinou o recálculo dos quinquênios e sexta-parte, sobre os vencimentos permanentes.
+II - Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi reformada para extinguir o feito, por carência da ação. Nesta Corte, conheceu-se do agravo para não conhecer do recurso especial.
+III - Não merece reforma o julgado recorrido porquanto encontra-se em consonância com a jurisprudência desta Corte Superior, a qual é firme no sentido de que é necessário aguardar o trânsito em julgado da sentença em Mandado de Segurança Coletivo para o ajuizamento da ação de cobrança pretendendo o recebimento de parcelas pretéritas.
+IV - Ademais, o juízo a respeito da ocorrência ou não do trânsito em julgado da ação coletiva demandaria incursão no conjunto fático-probatório dos autos, de modo a atrair a incidência da Súmula n. 7/STJ. Nesse sentido: (AgInt no REsp 1.748.782/SP, Rel.
+Ministro Francisco Falcão, Segunda Turma, julgado em 21/2/2019, DJe 1º/3/2019, REsp 1.747.518/SP, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 12/2/2019, DJe 21/2/2019 REsp 1.764.345/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 2/10/2018, DJe 28/11/2018) V - Desta forma, aplica-se, à espécie, o enunciado da Súmula n. 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+VI - Agravo interno improvido. (AgInt no AREsp 1.390.849/SP, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 04/05/2020) (Grifos acrescidos).
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AÇÃO DE COBRANÇA. DIFERENÇAS PRETÉRITAS A MANDADO DE SEGURANÇA COLETIVO. AUSÊNCIA DE INTERESSE DE AGIR. DECLARAÇÃO DO TRIBUNAL DE ORIGEM PELA INEXISTÊNCIA DE COISA JULGADA NO MANDADO DE SEGURANÇA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚM. N. 7/STJ. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - Tendo os autores vinculado a causa de pedir da ação de cobrança ao título executivo a ser formado no mandado de segurança coletivo, o tribunal de origem extinguiu o processo, sem resolução de mérito. Pois, enquanto não formada coisa julgada no do mandado de segurança, não é possível demandar ação ordinária de cobrança das parcelas anteriores à impetração do writ.
+III - Declarada a inexistência de coisa julgada no mandado de segurança coletivo, o provimento do recurso especial quanto à existência de interesse de agir na presente ação de cobrança, depende da aferição de existência de trânsito em julgado de um título formado em sede de mandado de segurança coletivo. Incidência da Súm. n. 7/STJ.
+IV - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+V - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VI - Agravo Interno improvido. (AgInt nos EDcl no REsp 1.748.988/SP, Relatora Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 13/04/2020) (Grifos acrescidos).
+Deixo de aplicar a multa prevista no § 4º do art. 1.021 do CPC/2015, tendo em vista que o mero inconformismo com a decisão agravada não enseja a necessária imposição da sanção, quando não configurada a manifesta inadmissibilidade ou improcedência do recurso, por decisão unânime do Colegiado, como no caso em análise.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
