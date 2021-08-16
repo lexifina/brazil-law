@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus, substitutivo de recurso especial, com pedido liminar, impetrado em favor de LUIS FERNANDO DORTA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo no Agravo em execução n. 0009213-70.2020.8.26.0344.
+Depreende-se dos autos que o d. Juízo das execuções deferiu o pleito do paciente de progressão ao regime semiaberto (fls. 33-36).
+Por sua vez, o Ministério Público Estadual interpôs agravo em execução perante o eg. Tribunal de origem, que deu provimento ao recurso, nos termos do v.acórdão de fls. 37-40, sem ementa.
+No presente writ, assere a il. Defesa que "foi impetrado pedido de Habeas Corpus anteriormente (HC nº 660777) contra o mesmo Agravo em Execução nº. 0009213-70.2020.8.26.0344.Todavia, naquela ocasião a Defesa equivocadamente pretendia a dispensa da realização do exame criminológico" (fl. 5).
+Argumenta que "verifica-se no venerando acórdão uma afronta ao princípio da legalidade, uma vez que o artigo 112 da Lei de Execuções Penais é claro ao mencionar que os requisitos a serem preenchidos para a concessão de benefícios são o lapso temporal ali consignado e, o bom comportamento carcerário atestado pelo diretor do estabelecimento" (fl. 6).
+Aduz que "ofato de o sentenciado possuir histórico de falta disciplinar não é óbice ao deferimento do pedido em questão, haja vista que os benefícios em sede de execução penal requerem uma análise de prognose" (fl. 9).
+Requer, por fim, inclusive liminarmente, a concessão da presente ordem para cassar o v. acórdão, "que reformou a decisão que concedeu a progressão ao regime semiaberto, com o restabelecimento da sentença de primeira instância que havia concedido a progressão ao regime semiaberto" (fl. 14).
+O pedido liminar foi indeferido pela Presidência às fls. 43-44.
+O Ministério Público Federal, às fls. 47-48, manifestou-se pela extinção do feito, sem resolução do mérito, em r. parecer não ementado.
+As informações foram prestadas às fls. 51-57.
+É o relatório.
+Decido.
+O presente habeas corpus não comporta conhecimento porquanto configurada evidente reiteração de pedido apresentado em outro habeas corpus, cujo objeto é idêntico ao apresentado na inicial - HC n. 660.777/SP.
+Os argumentos constantes deste mandamussão em sua inteireza semelhantes aos já apreciados no HC n. 660777/SP, ou seja, não vieram fundamentos diversos, capazes de justificar o reexame das questões já apreciadas.
+Sobre a impossibilidade de conhecimento de habeas corpus, ou de recurso ordinário em habeas corpus, quando configurada reiteração de pedidos, confiram-se os seguintes julgados:
+"AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS INDEFERIDO LIMINARMENTE. REITERAÇÃO DE PEDIDO. AGRAVO DESPROVIDO.
+1. O recurso ordinário traz pedido idêntico ao formulado no HC 393.851/BA e em ambos se ataca acórdão do Tribunal de Justiça da Bahia no Habeas Corpus n. 0023373-89.2016.8.05.0000. Referida impetração teve seu mérito julgado em maio do corrente ano.
+2. Diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento do recurso ordinário.
+Agravo regimental desprovido." (AgRg no RHC 84.693/BA, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 16/08/2017).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. MATÉRIA ANALISADA EM PRÉVIO RECURSO EM HABEAS CORPUS. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO PARA JULGAMENTO DE RECURSO EM SENTIDO ESTRITO. RECURSO JÁ JULGADO. EVENTUAL DELONGA SUPERADA. RECURSO NÃO PROVIDO.
+1. Não se conhece de habeas corpus que objetiva mera reiteração de pedido analisado em recurso anteriormente interposto. 2. "Julgado o Recurso em Sentido Estrito, resta superada a alegação de excesso de prazo para análise do mérito do referido recurso" (RHC n. 66.467/GO, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 9/3/2016).
+3. Agravo regimental não provido." (AgRg no HC 403.778/CE, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 10/08/2017).
+No mesmo sentido, o seguinte precedente do col. Supremo Tribunal Federal:
+"Agravo regimental em recurso ordinário em habeas corpus. Processual Penal. Homicídio qualificado na modalidade tentada. Decisão de pronúncia. Alegada nulidade do acórdão que negou provimento ao recurso em sentido estrito. Excesso de linguagem. Não ocorrência. Excesso de prazo. Tema que se encontra em apreciação em outro habeas corpus impetrado na Corte. Reiteração. Precedentes. Regimental não provido. 1. A questão relacionada ao excesso de linguagem não prospera, pois o Tribunal de Justiça do Rio de Janeiro, para afastar o pleito defensivo de despronúncia, por suposta fragilidade probatória e inexistência de indícios de autoria delitiva, externou as razões de seu convencimento, por força do dever constitucional de motivação (CF, art. 93, IX), o que foi levado a efeito por aquela Corte estadual do ponto de vista eminentemente indiciário, respeitando os parâmetros legais para tanto. 2. Não se vislumbra, portanto, a existência de vício capaz de comprometer a imparcialidade do julgamento pelo Conselho de Sentença, não havendo que se falar em excesso de linguagem do acórdão confirmatório da pronúncia. 3. No tocante ao excesso de prazo da prisão do recorrente, registro que o tema encontra-se em apreciação em outro habeas corpus impetrado na Corte. Logo, não há razão para a análise da questão, visto que o recurso ordinário, neste ponto, é mera reiteração de impetração anterior. 4. Agravo regimental ao qual se nega provimento." (RHC 147748 AgR, Segunda Turma, Rel.: Min. Dias Toffoli, PUBLIC 04-04-2018, grifei).
+Ante o exposto, não conheço do habeas corpus.
+P. I.
