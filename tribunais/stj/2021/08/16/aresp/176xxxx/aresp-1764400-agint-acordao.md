@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COMERCIALIZAÇÃO DE PRODUTO IMPRÓPRIO PARA O CONSUMO. AQUISIÇÃO DE PACOTES DE MASSACONTENDOCORPO ESTRANHO.LESÃO EXTRAPATRIMONIAL CONFIGURADA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A eg. Terceira, no julgamento do REsp nº 1.644.405/RS (Rel. Ministra NANCY ANDRIGHI, j. 9/11/2017, DJe 17/11/2017) firmou o entendimento de quea aquisição de produto de gênero alimentício contendo em seu interior corpo estranho, expondo o consumidor à risco concreto de lesão à sua saúde e segurança, ainda que não ocorra a ingestão de seu conteúdo, dá direito à compensação por dano moral, dada a ofensa ao direito fundamental à alimentação adequada, corolário do princípio da dignidade da pessoa humana.
+3. Agravo interno não provido.
+RELATÓRIO
+SANDRA MIRA TRIGOLO (SANDRA)ajuizou ação indenizatória por danos moraiscontra PASTIFICIO SELMI S.A. (PASTIFICIO)alegando ter adquirido macarrão por esta produzido e que, no momento do preparo, percebeu que o alimento estava com insetos.
+Requereu a sua condenação ao pagamento de R$ 30.000,00 (trinta mil reais)por danos morais.
+Em primeira instância, o pedido foi julgado parcialmente procedente para condenar PASTIFICIO ao pagamento de R$ 5.000,00 (cinco mil reais),com correção monetária e juros de mora, bem como a arcar com custas e despesas do processo e com honorários advocatícios, estes fixadosem 15% sobre o valor da condenação.
+A apelação interposta por PASTIFÍCIOnão foi provida pelo Tribunal de Justiça de São Paulo nos termos do acórdão de relatoria do Des. CAMPOS PETRONI, assim ementado:
+Compra e venda de produto alimentício (macarrão). Ação indenizatória. Suposta presença de corpo estranho (insetos vivos e mortos). R. sentença de parcial procedência, com apelo só da fabricante ré. Preliminares de inépcia da inicial e carência de ação afastadas. Prova dos autos que indica a contaminação do alimento, sem indícios de consumo. Questão polêmica. Recente entendimento do C. STJ, com o qual se coaduna este signatário, que reconhece o abalo (desassossego) sofrido pela consumidora independentemente da ingestão. Defeito/fato do produto indicado.
+Produto que não oferece a segurança que legitimamente dele se espera. Responsabilidade objetiva. Danos morais vislumbrados e que foram arbitrados dentro da razoabilidade e/ou proporcionalidade. Sucumbência. Aplicação do enunciado da Súmula 326, do C. STJ. Decisum mantido na íntegra. Art. 252 do Regimento Interno. Nega-se provimento ao recurso da ré.(e-STJ, fl. 432)
+Os embargos de declaração opostos por PASTIFICIO foram rejeitados(e-STJ, fls. 513/522).
+Irresignado, PASTIFICIOinterpôs recurso especial com fulcro no art. 105, III,aec, da CF, alegando dissídio jurisprudencial ea violação doart. 12 do CDCao sustentar que não ficou caracterizado o dano moral, especialmente porque, além de o alimento não ter sido ingerido por SANDRA,oinseto encontrado no produto não oferece risco à saúde do consumidor.
+Foram apresentadas as contrarrazões (e-STJ, fls. 615/622).
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ(e-STJ, fls. 623/625).
+Seguiu-se oagravo em recurso especial interposto porPASTIFICIO que foi conhecido para negar provimento ao apelo nobre, nos termos da decisão monocrática de minha relatoria, assim ementada:
+CONSUMIDOR. PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL.AÇÃO INDENIZATÓRIA POR DANOS MORAIS. AQUISIÇÃO DE PACOTES DE MASSA COM CORPO ESTRANHO. NÃO INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E SEGURANÇA. FATO DO PRODUTO. DANO MORAL CONFIGURADO. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL IMPROVIDO. (e-STJ, fl. 698)
+Nas razões do presente agravo interno, PASTIFÍCIO defendeu que não há entendimento consolidado no STJ sobre o tema porque há precedentes recentes que assinalam que, ausente a ingestão do produto considerado impróprio para consumo, em virtude da presença de corpo estranho no alimento, não se configura o dano moral indenizável.
+É o relatório.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. CONSUMIDOR. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COMERCIALIZAÇÃO DE PRODUTO IMPRÓPRIO PARA O CONSUMO. AQUISIÇÃO DE PACOTES DE MASSACONTENDOCORPO ESTRANHO.LESÃO EXTRAPATRIMONIAL CONFIGURADA. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A eg. Terceira, no julgamento do REsp nº 1.644.405/RS (Rel. Ministra NANCY ANDRIGHI, j. 9/11/2017, DJe 17/11/2017) firmou o entendimento de quea aquisição de produto de gênero alimentício contendo em seu interior corpo estranho, expondo o consumidor à risco concreto de lesão à sua saúde e segurança, ainda que não ocorra a ingestão de seu conteúdo, dá direito à compensação por dano moral, dada a ofensa ao direito fundamental à alimentação adequada, corolário do princípio da dignidade da pessoa humana.
+3. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Do dever de indenizar
+PASTIFÍCIOpugnou pela reforma da decisão, sob o argumento de quenão há entendimento consolidado no STJ sobre o tema porque há precedentes recentes que assinalam que, ausente a ingestão do produto considerado impróprio para consumo, em virtude da presença de corpo estranho no alimento, não se configura o dano moral indenizável.
+Sem razão a insurgência.
+Em que pese a existência de precedente da eg. Quarta Turma de que a ausência de ingestão de produto considerado impróprio para o consumo não configura o dano moral indenizável, esta eg. Terceira Turma reafirmou sua jurisprudência no sentido de que a aquisição de produto de gênero alimentício contendo em seu interior corpo estranho, expondo o consumidor à risco concreto de lesão à sua saúde e segurança, ainda que não ocorra a ingestão de seu conteúdo, dá direito à compensação por dano moral, dada a ofensa ao direito fundamental à alimentação adequada, corolário do princípio da dignidade da pessoa humana (REsp 1.644.405/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe 17/11/2017).
+A esse respeito, confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. AQUISIÇÃO DE BISCOITO COM CONTENDO CORPO ESTRANHO EM SEU CONTEÚDO (FRAGMENTOS DE PLÁSTICO). NÃO INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E SEGURANÇA. FATO DO PRODUTO. DANO MORAL CONFIGURADO. PRECEDENTES DA TERCEIRA TURMA. DECISÃO AGRAVADA MANTIDA. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.867.651/CE, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, DJe 21/9/2020)
+RECURSO ESPECIAL. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO DE DANOS MATERIAIS E MORAIS. AQUISIÇÃO DE PACOTE DE MACARRÃO COM CORPO ESTRANHO (INSETO) EM SEU INTERIOR. AUSÊNCIA DE INGESTÃO. EXPOSIÇÃO DO CONSUMIDOR A RISCO CONCRETO DE LESÃO À SUA SAÚDE E SEGURANÇA. FATO DO PRODUTO. EXISTÊNCIA DE DANO MORAL. VIOLAÇÃO DO DEVER DE NÃO ACARRETAR RISCOS AO CONSUMIDOR.
+1. Ação ajuizada em 15/08/2016. Recurso especial interposto em 16/04/2019 e concluso ao Gabinete em 09/08/2019.
+2. A aquisição de produto de gênero alimentício contendo em seu interior corpo estranho, expondo o consumidor à risco concreto de lesão à sua saúde e segurança, ainda que não ocorra a ingestão de seu conteúdo, dá direito à compensação por dano moral, dada a ofensa ao direito fundamental à alimentação adequada, corolário do princípio da dignidade da pessoa humana. Precedentes.
+3. Hipótese em que se caracteriza defeito do produto (art. 12, CDC), o qual expõe o consumidor à risco concreto de dano à sua saúde e segurança, em clara infringência ao dever legal dirigido ao fornecedor, previsto no art. 8º do CDC.
+4. Na hipótese dos autos, a simples comercialização de produto contendo corpo estranho possui as mesmas consequências negativas à saúde e à integridade física do consumidor que sua ingestão propriamente dita.
+5. Recurso especial provido.
+(REsp 1.830.103/SP, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 4/8/2020, DJe 7/8/2020)
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
