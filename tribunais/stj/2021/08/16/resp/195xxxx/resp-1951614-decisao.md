@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ANA LUCIA DA CAS, contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+"APELAÇÕES CÍVEIS. DIREITO TRIBUTÁRIO. ISSQNINCIDENTE SOBRE SERVIÇOS CARTORÁRIOS,NOTARIAIS E DE REGISTRO. RECURSOS QUE NÃOATACAM OS FUNDAMENTOS DA SENTENÇA.
+As razões recursais do ente público impugnamparcela da sentença que não lhe foidesfavorável, não devendo a apelação serconhecida por ausência de interesse.
+Provimento que desconstituiu o lançamentotributário, razão pela qual desnecessária adeclaração de não incidência do tributo sobredeterminada parcela.
+APELAÇÕES NÃO CONHECIDAS" (fl. 385e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 399/403e), os quais restaram rejeitados, nos termos da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO. APELAÇÕESCÍVEIS. HONORÁRIOS ADVOCATÍCIOS.MAJORAÇÃO. DESCABIMENTO. RECURSOS DEAMBAS AS PARTES QUE NÃO FORAMCONHECIDOS.
+Descabe a majoração de honorários advocatíciosem grau recursal, na forma do art. 85, § 11, doCPC, se ambas as partes interpuseram recursosque não foram conhecidos.
+Os embargos de declaração não se prestam àrediscussão da causa. Recurso de integração enão de substituição.
+EMBARGOS DE DECLARAÇÃO NÃO ACOLHIDOS" (fl. 414e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aoart. 85, § 11, do CPC, sustentando que para que seja devida a majoração dos honorários sucumbenciais, nos termos do citado dispositivo legal,"basta somente que a decisão seja publicada na vigência do novo CPC, o recurso não seja provido (ou conhecido) e haja condenação da instância inferior" (fl. 434e), o que ocorreu no caso dos autos.
+Por fim, requer seja reformado o acórdão recorrido, "a fim de majorar arbitrar honorários recursais em razão do recurso de Apelação interposto pela parte adversa"(fl. 434e).
+Contrarrazões a fls. 446/453e.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 458/463e).
+Na origem, trata-se de Ação Declaratória ajuizada pela parte ora recorrente, com o objetivo de que seja declarada a inexistência de relação jurídico tributária em relação à Fazenda Municipal referente a obrigação de pagar ISSQN sobre os serviços cartorais que presta.
+Julgada procedentea demanda, recorreramautor eréu.
+O Tribunal local não conheceu dos recursos, deixando de majorar os honorários advocatícios em grau recursal, na forma do art. 85, § 11, do CPC.
+Daí a interposição do presente Recurso Especial, que merece prosperar.
+Com efeito, quanto à majoração dos honorários recursais, o entendimento do acórdão recorrido encontra-se em confrontocom a jurisprudência do Superior Tribunal de Justiça.
+Isso porque, no caso dos autos,édevida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, porque estão presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Nesse sentido, os seguintes precedentes:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. ART. 1.022 DO CPC.CORREÇÃO DE ERRO DE PREMISSA FÁTICA. ARBITRAMENTO DE HONORÁRIOS SUCUMBENCIAIS. REQUISITOS VERIFICADOS.
+1. O Superior Tribunal de Justiça consagrou o entendimento de que é apenas devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+2. No caso dos autos, observa-se que os requisitos supracitados estão presentes. Dessa forma, são devidos honorários sucumbenciais recursais.
+3. Embargos de declaração acolhidos para majorar em 5%, a título de honorários recursais, a verba honorária anteriormente fixada"(STJ, EDcl nos EDcl nos EDcl no AgInt no AgInt no REsp 1.714.418/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 29/06/2021).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS RECURSAIS. ART. 85, § 11, DO CPC/2015. CABIMENTO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+1. Nos termos do Enunciado Administrativo n. 7/STJ, somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC.
+2. O Superior Tribunal de Justiça consagrou o entendimento de que apenas é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: (a) decisão recorrida publicada a partir de 18.3.2016, momento em que entrou em vigor o novo Código de Processo Civil; (b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e (c) condenação em honorários advocatícios, desde a origem, no feito em que interposto o recurso.
+3. No caso, o acórdão recorrido foi julgado em 7.11.2016, sendo cabível a fixação dos honorários recursais, na forma do art. 85, § 11, do CPC/2015.
+4. Embargos de Declaração acolhidos para majorar, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal"(STJ, EDcl no AgInt no AREsp 1.229.772/GO, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, DJe de17/06/2021)
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao Recurso Especial, determinando aoTribunal de Justiça do Estado do Rio Grande do Sul que arbitre oshonorários advocatícios recursais, na forma doart. 85, § 11, do CPC/2015.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor a ser arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+I.
