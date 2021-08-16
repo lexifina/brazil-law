@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se dehabeas corpus, com pedido liminar, impetrado em benefício deMARCEL DOS SANTOS SOUZA, contra ato doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento do Recurso em Sentido Estrito n. 0002216-21.2018.826.0642.
+Extrai-se dos autos que o recorrente foi denunciado por ter supostamente praticado o delito previsto no art. 121, § 2º, incisos II e IV, c/c art. 14, inciso II, ambos do Código Penal - CP (homicídio qualificado tentado), tendo sido decretada a prisão preventiva por ocasião do recebimento da exordial acusatória. O mandado prisional foi cumprido em 27/1/2020.
+Irresignada, a defesa interpôs recurso em sentido estrito perante o Tribunal de origem, pendente de julgamento quando ajuizada esta ação mandamental.
+No presentemandamus, aponta excesso de prazo para o julgamento do recurso interposto perante a Corte estadual. Ressalta as condições pessoais favoráveis do paciente e alega, também, excesso de prazo para a formação da culpa, porquanto a custódia cautelar perdura por mais de um ano sem que a ação penal tenha sido concluída.
+Sustenta que eventual condenação fixará regime inicial diverso do fechado, razão pela qual é desproporcional a manutenção da prisão preventiva no presente caso.
+Assevera que não estão presentes os requisitos autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal - CPP. Aduz suficiência da aplicação de medidas alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+Indeferido o pedido de liminar (fls. 28/29) e prestadas as informações solicitadas (fls. 33/58); o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 60/67).
+É o relatório.
+Decido.
+Conforme relatado, busca-se, no presentemandamus, a expedição de alvará de soltura.
+Inicialmente, a alegação de excesso de prazo para julgamento do recurso em sentido estrito está prejudicada. Isso porque, após consulta aositedo Tribunal estadual, verificou-se o julgamento do reclamo em 18/6/2021. Foi certificado o trânsito em julgado do acórdão em 26/7/2021 e os autos foram recebido pelo Juízo de primeiro grau para prosseguimento da ação penal na mesma data.
+Por outro lado, todas as demais alegações não foram objeto de análise pela Corte estadual, o que obsta o exame por este Tribunal Superior, sob pena de se incorrer em indevida supressão de instância.
+Nesse sentido, é o seguinte precedente:
+HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ABIGEATO. SUBTRAÇÃO DE CERCA DE 700 CABEÇAS DE GADO. ALEGAÇÃO DE INOCÊNCIA. IMPROPRIEDADE DA VIA. REVISÃO PERIÓDICA DA PRISÃO. PRISÃO DOMICILIAR. SUPRESSÃO DE INSTÂNCIA. CUSTÓDIA PREVENTIVA. GRAVIDADE CONCRETA. NECESSIDADE DE PRESERVAÇÃO DA ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. ORDEM NÃO CONHECIDA.
+1. O habeas corpus não pode ser utilizado como substitutivo de recurso próprio, a fim de que não se desvirtue a finalidade dessa garantia constitucional, com a exceção de quando a ilegalidade apontada é flagrante, hipótese em que se concede a ordem de ofício.
+2. A tese de insuficiência das provas de autoria quanto ao tipo penal imputado consiste em alegação de inocência, a qual não encontra espaço de análise na estreita via do habeas corpus ou do recurso ordinário, por demandar exame do contexto fático-probatório.
+3. Já as teses de constrangimento ilegal por ausência de revisão da custódia nos termos do art. 316, parágrafo único, do Código de Processo Penal, e de possível substituição da prisão preventiva por domiciliar por ser portador de transtornos psiquiátricos, não foram objeto de impugnação perante a Corte a quo, de modo que não podem ser avaliadas diretamente por esta Corte, sob pena de incorrer-se em indevida supressão de instância.
+4. A prisão preventiva é uma medida excepcional, de natureza cautelar, que autoriza o Estado, observadas as balizas legais e demonstrada a absoluta necessidade, restringir a liberdade do cidadão antes de eventual condenação com trânsito em julgado (art. 5º, LXI, LXV, LXVI e art. 93, IX, da CF). Exige-se, ainda, na linha inicialmente perfilhada pela jurisprudência dominante deste Superior Tribunal de Justiça e do Supremo Tribunal Federal e agora normatizada a partir da edição da Lei n. 13.964/2019, que a decisão esteja pautada em motivação concreta de fatos novos ou contemporâneos, bem como demonstrado o lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato e revelem a imprescindibilidade da medida, vedadas considerações genéricas e vazias sobre a gravidade do crime.
+5. No caso, a prisão foi decretada com base na gravidade concreta da conduta, que extrapola o tipo penal abstratamente previsto, uma vez que o paciente teria, em tese, subtraído mais de 700 bovinos da fazenda onde era funcionário administrador, gerando um prejuízo superior a 1 milhão de reais.
+6. A elevada quantidade de animais removidos ilicitamente da propriedade denota especial ousadia, bem como indica a existência de comércio clandestino de grande vulto, uma vez que não foi emitida Guia de Transporte Animal para a movimentação do rebanho. Evidente, portanto, a necessidade da prisão de modo a preservar a ordem pública.
+ ..
+9. Ordem não conhecida. Recomendação ao Juízo a quo de revisão de ofício da prisão preventiva ordenada, nos termos do art. 316, parágrafo único do CPP, em sua redação atual.
+(HC 620.165/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 08/03/2021).
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
