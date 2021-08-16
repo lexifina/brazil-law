@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de ENIS TELES DA SILVA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0009052-92.2015.8.26.0196.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 167 (cento e sessenta e sete) dias-multa, como incurso nas iras do art. 33, caput, § 4º, da Lei n. 11.343/2006 (fls. 22-29).
+Inconformadas, a defesa e a acusação interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso defensivo e proveu o apelo acusatório, a fim de aumentar a reprimenda para 5 (cinco) anos de reclusão, mais o pagamento de 500 (quinhentos) dias-multa, consoante voto condutor do v. acórdão de fls. 30-40.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois a quantidade de droga apreendida não é elemento idôneo a afastar o tráfico privilegiado.
+Aduz que "não houve qualquer tipo de menção quanto a existência de provas ou então indícios que comprovassem a participação do paciente em atividades criminosas, o que seria imprescindível para não aplicação da causa de diminuição de pena" (fl. 11).
+Afirma que a quantidade de entorpecente apreendida não é expressiva.
+Defende a aplicação de regime inicial mais brando.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 44-45).
+Informações prestadas às fls. 47-70.
+O Ministério Público Federal, às fls. 72-75, manifestou-se pela concessão parcial da ordem, em parecer assim ementado:
+"HABEAS CORPUS. TRÁFICO. QUANTIDADE DA DROGA, ISOLADAMENTE, NÃO JUSTIFICA O INDEFERIMENTODA REDUTORA PREVISTA NO ART. 33, § 4º, DA LEI Nº11.343/06. POSSIBILITA, TODAVIA, QUE SEJA UTILIZADACOMO FUNDAMENTO PARA DETERMINAR O QUANTUM DE DIMINUIÇÃO. FIXAÇÃO DE REGIME PRISIONALINICIAL MAIS RIGOROSO COM BASE NA QUANTIDADEDE DROGA APREENDIDA. POSSIBILIDADE. PELACONCESSÃO PARCIAL DA ORDEM." (fl. 72).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a aplicação do tráfico privilegiado; e ii) a fixação de regime inicial mais brando.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Na terceira fase, deve ser afastada a incidência da causa de diminuição prevista não § 4, do artigo 33, de Lei ano 11.343 / 2006, pois restou demonstrada a integração do réu a uma organização criminosa maior e a sua dedicação à atividade ilícita.
+ ..
+Ocorre que um pequeno traficante não tem à sua disposição para o nefasto comércio quase 01 (um) quilo de maconha.
+Como apontam as alegações finais do Ministério Público, essa quantia é suficiente para a elaboração de aproximadamente 2.000 (dois mil) cigarros (fls. 176).
+O Supremo Tribunal Federal já decidiu que circunstâncias excepcionais do crime, como quantidade e natureza do entorpecente podem vedar o benefício: "Na espécie, os fatos que ensejaram a não-aplicação da causa de diminuição prevista na nova Lei de Tóxicos (quantidade da droga e forma de acondicionamento) são fígados e suficientes para atestar a dedicação do Recorrente às atividades criminosas. 3. A conduta social do agente, o concurso eventual de pessoas, a receptação, os apetrechos relacionados ao tráfico, a quantidade de droga e as situações de maus antecedentes exemplificam situações caracterizadoras de atividades criminosas" (RHC 94806 / PR Rel. Min. CÁRMEN LÚCIA, ONTEM 16-04-2010).
+No mesmo sentido já decidiu o Superior Tribunal de Justiça: "É justificável a não aplicação da causa de diminuição da pena prevista no § 4º do art. 33 da Lei nº 11.343/2006 quando há apreensão de grande quantidade de drogas. Ordem negado " (HC 185319/RJ, Relator Ministro OG FERNANDES, Dje 08/09/2011).
+ ..
+O regime mais drástico é o único necessário e suficiente à repressão e prevenção da conduta praticada.
+Consoante orientação do Superior Tribunal de Justiça, as circunstâncias da ocorrência podem recomendar estabelecimento prisional fechado para o cumprimento da pena privativa de liberdade, nos termos do artigo 33, §§2º e 3º, do Código Penal (HABEAS CORPUS nº 189.960/SC, Quinta Turma, Rel. Min. Laurita Vaz, j. 16.08.2012)" (fls. 37-40).
+Quanto ao pedido de incidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, frise-se que, na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+In casu, há fundamentação concreta para o afastamento do tráfico privilegiado, consubstanciada na quantidade e na natureza da droga apreendida: 902,5 g de maconha.
+Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Nesse sentido: HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017; e HC n. 379.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/2/2017.
+Por fim, a quantidade e a natureza do entorpecente - 902,5 g de maconha - são elementos aptos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: HC n. 488.679/SP, Quinta Turma Rel. Min. Ribeiro Dantas, DJe 11/06/2019; e AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
