@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 544, CPC/1973) interposto contra decisão que inadmitiu o recurso especial porincidência da Súmula n. 284do STF(e-STJ fls. 306/308).
+O acórdão recorrido está assim ementado (e-STJ fl. 246):
+COM DANOS MORAIS - PLANO DE SAÚDE COLETIVO - EMPREGADO DEMITIDO SEM JUSTA CAUSA - POSSIBILIDADE DE PERMANÊNCIA DO EMPREGADO EXONERADO/DEMITIDO SEM JUSTA CAUSA E DE SEUS DEPENDENTES NO PLANO DE SAÚDE, COM AS MESMAS CONDIÇÕES DO CONTRATO COLETIVO - . TEMA PACIFICADO NO ÂMBITO DO STJ - OPERADORA QUE NEGA TAL OPÇÃO AO EMPREGADO, OFERECENDO NOVO PLANO MAIS CARO - DANO MORAL CONFIGURADO - RECURSO PROVIDO.
+1. "Quando há a demissão imotivada do trabalhador, a operadora de plano de saúde deve lhe facultar e aos dependentes a prorrogação temporária do plano coletivo ao qual haviam aderido, contanto que arquem integralmente com os custos das mensalidades, não podendo superar o prazo estabelecido em lei: período mínimo de 6 (seis) meses e máximo de 24 (vinte e quatro) meses. Incidência do art. 30, caput e §§ 1º e 2º, da Lei nº 9.656/1998. Precedentes." (REsp 1525109/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/10/2016, DJe 18/10/2016) 2. Agravo interno não provido.
+2-A recusa da operadora de plano de saúde, em dar tal opção ao ex- empregado da empresa contratante, de continuidade do contrato, mediante o pagamento integral dos custos, com oferta de novo plano mais caro, implica falha na prestação do serviço e violação ao princípio da boa-fé que deve nortear as relações contratuais e de consumo. Tal situação gera transtornos que ultrapassam o mero aborrecimento cotidiano, passível de compensação por danos morais, ainda quando se trata de pessoa idosa que teve interrompido tratamento médico, por ausência de cobertura do plano de saúde.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 273/279).
+No especial (e-STJ fls. 281/292), interposto com fundamento no art. 105, III, "a", da CF, a recorrente alegou ofensa aos arts. 489 e 1.022 do CPC/2015 por negativa de prestação jurisdicional.
+Apontou afronta aos arts. 186 e 927 do CC/2002, sustentando, em síntese, a inexistência de danos morais.
+No agravo (e-STJ fls. 310/312), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada pela recorrida (e-STJ fls. 336/338).
+É o relatório.
+Decido.
+Não há falar em ofensa aos arts. 489 e 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+No que se refere aos danos morais,a Corte local consignou que (e-STJ fls. 251/252):
+Desse modo, diversamente do que considerou e entendeu o Julgador singular, tenho que houve falha na prestação do serviço e foi violada a boa-fé que deve nortear as relações contratuais e de consumo. Tal conduta da requerida culminou na peregrinação da autora para que lhe fosse garantida a prestação de serviços médicos, exames e outros, causando dissabor e angústia, considerando se tratar de pessoa idosa, que se encontrava em tratamento médico. Tal situação, é certo, gera transtornos que ultrapassam o mero aborrecimento cotidiano, passível de compensação, o quedetermina o dever de indenizar por danos morais.
+Para alterar tais fundamentos e afastar, no caso concreto, a existência de danos morais, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento) o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
