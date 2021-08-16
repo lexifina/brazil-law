@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de agravo interposto por DANIELA ANDRADE BUTARAem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"EXTINÇÃO DE CONDOMÍNIO. Imóveis recebidos por doação e gravados com cláusula de inalienabilidade, incomunicabilidade e impenhorabilidade. Pretensão de sub- rogação com o produto da venda. Inadmissibilidade.Ausências de motivos que justifiquem a mitigação da referida cláusula, contrariando a vontade dos doadores, por sinal, um é sua mãe e continua viva. Sem contar que não está demonstrado que o produto da alienação seria suficiente para a aquisição de outro imóvel, considerando-se a participação da autora de apenas 20% no resultado da alienação. Sentença mantida.
+RECURSO DESPROVIDO." (fl. 440)
+Os embargos de declaração foram rejeitados.
+Nas razões do recurso especial, o ora agravante aponta violação aoart. 1911, parágrafo único, do Código Civil de 2002 e divergência jurisprudencial, sustentando, em síntese, (a) a possibilidade de venda judicial de bem inalienável, com a sub-rogação do produto da venda em outros bens, nas hipóteses de conveniência econômica do donatário ou herdeiro e(b) divergência jurisprudencial com entendimento preconizado no RESP nº 729.701/SP, que recomenda a extinção e sub-rogação da cláusula de inalienabilidade quando existente conflito entre os condôminos
+Não foram apresentadas contrarrazões.
+É o relatório.
+Com efeito, a respeito da extinção do condomínio, com a respectiva alienação do bem gravado com cláusula de incomunicabilidade, o eg. Tribunal de origem consignou, com base na análise dos autos e provas realizadas, que a genitora que estabeleceu a cláusula de inalienabilidadecontinua viva, que não foi comprovada a necessidade de venda pela recorrente, bem como que o produto da alienação não seria suficiente para adquirir outro imóvel, nos seguintes termos:
+Embora a jurisprudência venha adotando o entendimento no sentido de possibilitar a mitigação da cláusula restritiva, certo é que a restrição deve ser afastada apenas em casos excepcionais.
+Na hipótese, a questão dos repasses dos frutos e rendimentos encontra-se sendo devidamente decidida em outros processos, não justificando a providência solicitada.
+Além disso, considero não ser caso de sub- rogação da referida cláusula em outro bem, porque isto contraria a vontade dos doadores, por sinal, a genitora ainda continua viva; não restou demonstrada a necessidade da venda pela recorrente; e tampouco há evidências nos autos de que o produto da alienação seria suficiente para que ela adquirisse outro imóvel na mesma localidade para gravá-lo com tais cláusulas, considerando-se que sua participação é de apenas 20%.(fl. 442)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DEALIENAÇÃO.EXTINÇÃO DO CONDOMÍNIO. BEM INDIVISÍVEL. EXTINÇÃO DO CONDOMÍNIO COM AALIENAÇÃOJUDICIAL DO BEM IMÓVEL. POSSIBILIDADE. AUSÊNCIA DE ACORDO ENTRE AS PARTES. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. A alteração das conclusões adotadas pela Corte de origem, ao concluir pela indivisbilidade do imóvel, demanda, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto no enunciado n. 7 da Súmula deste Tribunal Superior.
+2. Não se admite o recurso especial, por fundamentação deficiente, quando o conteúdo normativo do dispositivo legal apontado não é apto a lastrear a tese vertida na impugnação.
+3. Agravo interno improvido."
+(AgInt no REsp 1608718/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/12/2016, DJe 14/12/2016 -grifou-se)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.ALIENAÇÃODE BEM COMUM. SÚMULA 7/STJ E SÚMULAS 282 E 356 DO PRETÓRIO EXCELSO. AGRAVO DESPROVIDO.
+1 - A questão amparada no art. 265, I, do Código de Processo Civil não foi apreciada pelo Tribunal a quo e nem poderia ser por se tratar de inovação recursal alegada apenas nas razões do recurso especial. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do Pretório Excelso.
+2 - No mais, o Tribunal de origem, à vista das circunstâncias fáticas da causa, manteve a sentença que determinou a extinção do condomínio e determinou que o réu, ora agravante, arcasse com os encargos da sucumbência, bem como asseverou não estar preenchidos os requisitos para o reconhecimento da fraude à execução. Assim, o acolhimento das pretensões recursais, como ora perseguido, demandaria a análise do acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ, que dispõe: "A pretensão de simples reexame de prova não enseja recurso especial".
+3 - Agravo regimental a que se nega provimento."
+(AgRg no AREsp 43.227/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/08/2014, DJe 04/09/2014 - grifou-se)
+Quanto ao alegado dissídio jurisprudencial, a iterativa jurisprudência desta Corte é no sentido de que o conhecimento do recurso especial pela alínea "c" do permissivo constitucional resta prejudicada tendo em vista a incidência da Súmula 7 desta Corte quanto à matéria controversa, tendo em vista que o Tribunal de Origem solucionou a causa a partir da análise do acervo fático-probatório dos autos, restando ausente a identidade entre os paradigmas apresentados e os fundamentos do acórdão.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXCEÇÃO DE SUSPEIÇÃO. VIOLAÇÃO AO ART. 930, PARÁGRAFO ÚNICO, DO CPC/2015. OMISSÃO. OCORRÊNCIA. SÚMULA 211/STJ. DISSÍDIO JURISPRUDENCIAL. SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
+1. Os embargos de declaração são cabíveis quando houver, na decisão ou no acórdão, obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). No caso, os embargos de declaração devem ser acolhidos para suprir as omissões apontadas quanto à violação do art. 930, parágrafo único, do CPC/2015 e ao dissídio jurisprudencial.
+2. A falta de prequestionamento da matéria alegada nas razões do especial impede seu conhecimento, não obstante a oposição de embargos declaratórios. Incidência da Súmula 211 do STJ.
+3. A incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice para a análise do apontado dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea "c" do permissivo constitucional.
+4. Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl no AgInt no AREsp 1666839/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/03/2021, DJe 29/04/2021, g.n.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE REGRESSO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. A ausência de enfrentamento da matéria pelo Tribunal de origem impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. A jurisprudência deste Superior Tribunal de Justiça possui entendimento no sentido de que as matéria de ordem pública também devem atender ao pressuposto constitucional do prequestionamento.
+2. Derruir a afirmação contida no decisum atacado acerca da responsabilização da demanda ensejaria em rediscussão de matéria fática e interpretação de cláusula contratual, providências vedadas em sede de recurso especial pelas Súmulas 5 e 7/STJ.
+2.1. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1619798/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/10/2020, DJe 23/10/2020, g.n.)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido deR$ 1.000,00para R$ 1.100,00.
+Publique-se.
