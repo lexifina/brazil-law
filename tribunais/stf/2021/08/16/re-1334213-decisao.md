@@ -1,0 +1,22 @@
+Trata-se de recurso extraordinário interposto contra acórdão cuja ementa segue transcrita:
+    “TRIBUTÁRIO. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. PESSOA FÍSICA EMPREGADOR. CONSTITUCIONALIDADE.
+    O Plenário do Supremo Tribunal Federal, no julgamento do Recurso Extraordinário (RE) 718874, com repercussão geral, declarou constitucional, formal e materialmente, a contribuição social do empregador rural pessoa física, instituída pela Lei n.° 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção” (pág. 1 do documento eletrônico 121).
+    Neste RE, fundado no art. 102, III, a, da Constituição Federal, alega-se, em suma, a inexigibilidade da contribuição social em discussão. Sustenta-se, ainda, “[...] a existência de causa superveniente (Resolução 15/2017 do Senado Federal) sobre a questão e a inexistência de trânsito em julgado da decisão relativa ao Tema 669” (pág. 3 do documento eletrônico 343).
+    A pretensão recursal não merece acolhida.
+    Isso porque o acórdão recorrido está em consonância com o entendimento desta Corte firmado no julgamento do RE 718.874-RG/RS (Tema 669 da Repercussão Geral), redator para o acórdão o Ministro Alexandre de Moraes, no sentido de que é constitucional, formal e materialmente, a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/2001, incidente sobre a receita bruta obtida com a comercialização de sua produção. Confira-se, por oportuno, a ementa do mencionado julgado:
+    “TRIBUTÁRIO. EC 20/98. NOVA REDAÇÃO AO ARTIGO 195, I DA CF. POSSIBILIDADE DE EDIÇÃO DE LEI ORDINÁRIA PARA INSTITUIÇÃO DE CONTRIBUIÇÃO DE EMPREGADORES RURAIS PESSOAS FÍSICAS INCIDENTE SOBRE A COMERCIALIZAÇÃO DA PRODUÇÃO RURAL. CONSTITUCIONALIDADE DA LEI 10.256/2001.
+    1. A declaração incidental de inconstitucionalidade no julgamento do RE 596.177 aplica-se, por força do regime de repercussão geral, a todos os casos idênticos para aquela determinada situação, não retirando do ordenamento jurídico, entretanto, o texto legal do artigo 25, que, manteve vigência e eficácia para as demais hipóteses.
+    2. A Lei 10.256, de 9 de julho de 2001 alterou o artigo 25 da Lei 8.212/91, reintroduziu o empregador rural como sujeito passivo da contribuição, com a alíquota de 2% da receita bruta proveniente da comercialização da sua produção; espécie da base de cálculo receita, autorizada pelo novo texto da EC 20/98.
+    3. Recurso extraordinário provido, com afirmação de tese segundo a qual É constitucional formal e materialmente a contribuição social do empregador rural pessoa física, instituída pela Lei 10.256/01, incidente sobre a receita bruta obtida com a comercialização de sua produção” (grifos no original).
+    Além disso, registro que o Plenário do Supremo Tribunal Federal, no julgamento dos embargos de declaração no RE 718.874-RG/RS, resolveu as questões relativas à modulação de efeitos e ao alcance da Resolução 15/2017 do Senado Federal. A propósito, colaciono a ementa do referido julgado:
+    “PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. IMPOSSIBILIDADE DE REDISCUSSÃO DE QUESTÕES DECIDIDAS PARA OBTENÇÃO DE CARÁTER INFRINGENTE. INAPLICABILIDADE DA RESOLUÇÃO 15/2017 DO SENADO FEDERAL QUE NÃO TRATA DA LEI 10.256/2001. NÃO CABIMENTO DE MODULAÇÃO DE EFEITOS PELA AUSÊNCIA DOS REQUISITOS LEGAIS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    1. Não existentes obscuridades, omissões ou contradições, são incabíveis Embargos de Declaração com a finalidade específica de obtenção de efeitos modificativos do julgamento.
+    2. A inexistência de qualquer declaração de inconstitucionalidade incidental pelo Supremo Tribunal Federal no presente julgamento não autoriza a aplicação do artigo 52, X da Constituição Federal pelo Senado Federal.
+    3. A Resolução do Senado Federal 15/2017 não se aplica a Lei nº 10.256/2001 e não produz qualquer efeito em relação ao decidido no RE 718.874/RS.
+    4. A inexistência de alteração de jurisprudência dominante torna incabível a modulação de efeitos do julgamento. Precedentes.
+    5. Embargos de Declaração rejeitados” (grifei).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil/2015, majoro os honorários em 10% (dez por cento) do total da verba fixada a esse título, observados os limites legais.
+    Publique-se.
+    Brasília, 16 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
