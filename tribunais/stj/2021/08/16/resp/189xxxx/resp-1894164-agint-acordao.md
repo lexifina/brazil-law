@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. PEDIDO DE GRATUIDADE JUDICIÁRIA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. INDEFERIMENTO. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A teor da Súmula nº 481 do STJ: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3. O Tribunal de Justiça paranaense, soberano na análise das provas, reconheceu não estar comprovado nos autos os requisitos necessários para a concessão do benefício da assistência judiciária gratuita, de modo que alterar o entendimento ali firmado encontra óbice no enunciado da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+ERNESTO CESAR GAION (ERNESTO) ajuizou ação de indenização por dano moral contra VLADIMIR CASTRO JORDÃO (VLADIMIR) narrando que teve sua honra comprometida quando este, representando Pedro Paulo de Mello nos autos n. 87/2010, na ação de reintegração de posse, em trâmite na Vara Cível de Loanda/PR, imputou-lhe ofensas como "estelionatário" e "vive de falcatruas", entre outros.
+Pelo abuso de direito, pediu a condenação de VLADIMIR ao pagamento de danos morais, além de requerer a concessão dos benefícios da assistência judiciária gratuita.
+Em primeira instância os pedidos foram julgados improcedentes, com fulcro no art. 487, I, do CPC, sendo ERNESTO condenado ao pagamento das custas, despesas processuais e honorários advocatícios, estes fixados em 10% sobre o valor atualizado da causa (art. 85, § 2º, do NCP), suspensa a exigibilidade em virtude do deferimento da gratuidade judiciária (e-STJ, fls. 885/896).
+O recurso de apelação de ERNESTO não foi conhecido, em virtude da ausência de preparo, em ementa a seguir destacada:
+APELAÇÃO CÍVEL. AÇÃO INDENIZATÓRIA. JULGAMENTO MONOCRÁTICO. PEDIDO DE JUSTIÇA GRATUITA INDEFERIDO. AUSÊNCIA DE PREPARO DO RECURSO. ARTIGO 1.007 DO CPC. DESERÇÃO. - RECURSO NÃO CONHECIDO (e-STJ, fl. 1054).
+O agravo interno interposto por ERNESTO não foi provido, conforme ementa abaixo:
+AGRAVO INTERNO EM RECURSO DE APELAÇÃO.  GRATUIDADE DA JUSTIÇA NÃO CONCEDIDA EM PRIMEIRO GRAU E CONFIRMADA NO JULGAMENTO DE AGRAVO DE INSTRUMENTO. PRECLUSÃO CONSUMATIVA. ALTERAÇÃO SIGNIFICATIVA DA SITUAÇÃO FINANCEIRA NÃO DEMONSTRADA.
+INTIMAÇÃO PARA PREPARO DO RECURSO DE APELAÇÃO NÃO ATENDIDA. RECURSO NÃO CONHECIDO POR DECISÃO MONOCRÁTICA EM RAZÃO DA DESERÇÃO. DECISÃO ESCORREITA.  RECURSO CONHECIDO E NÃO PROVIDO (e-STJ, fl. 1153).
+Os embargos de declaração que se seguiram foram conhecidos, porém, rejeitados, senão vejamos:
+EMBARGOS DE DECLARAÇÃO EM AGRAVO INTERNO. CONTRADIÇÃO INEXISTENTE. PEDIDO DE GRATUIDADE DA JUSTIÇA ATINGIDO PELA PRECLUSÃO CONSUMATIVA. ALTERAÇÃO NA SITUAÇÃO FINANCEIRA NÃO DEMONSTRADA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. VIA RECURSAL INADEQUADA. PREQUESTIONAMENTO. AUSÊNCIA DE SITUAÇÕES DO ART. 1.022 DO CPC. INTUITO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. EMBARGOS DE DECLARAÇÃO CONHECIDOS E REJEITADOS (e-STJ, fl. 1295).
+Ainda insatisfeito, ERNESTO interpôs recurso especial, fundado no art. 105, III, a, da CF, alegando violação dos arts. 1022, 489, § 1º, IV e V, 99, § 2º, 493, 371, 1026, § 2º, 926 e 101, § 2º, do NCPC, ao sustentar (1) a existência de omissão no acórdão; (2) que não houve a correta valoração dos elementos de prova aptos a demonstrar a superveniente situação financeira do recorrente; e (3) os embargos de declaração não ostentavam caráter protelatório, razão pela qual deve ser afastada a multa do art. 1026, § 2º, do NCPC.
+O apelo nobre não foi provido, em decisão monocrática de minha relatoria, ementada nos termos abaixo consignados:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ARTS. 489 E 1022 DO NCPC. OMISSÃO E FALTA DE FUNDAMENTAÇÃO INEXISTENTES. PEDIDO DE GRATUIDADE JUDICIÁRIA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. INDEFERIMENTO. REFORMA DO ENTENDIMENTO. SUMULAS Nº 7 DO STJ. ART. 1026, § 2º, DO NCPC. EMBARGOS DE DECLARAÇÃO. CARÁTER PROTELATÓRIO NÃO EVIDENCIADO. AFASTAMENTO. SÚMULA Nº 98 DO STJ. RECURSO ESPECIAL PARCIALMENTE PROVIDO (e-STJ, fls. 1375/1383).
+Os embargos de declaração de ERNESTO foram rejeitados, conforme se vê da ementa a seguir transcrita:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. ART. 1022 DO NCPC. OMISSÃO INEXISTENTE. PEDIDO DE GRATUIDADE JUDICIÁRIA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. INDEFERIMENTO. DECISÃO CLARA E FUNDAMENTADA. PRETENSÃO DE EFEITO INFRINGENTE. EMBARGOS REJEITADOS (e-STJ, fl. 1412).
+No presente agravo interno, ERNESTO alegou que (1) faz jus ao benefício da gratuidade judiciária, pois, desde a data em que fora proferido o acórdão do agravo de instrumento por ele manejado (e-STJ, fl. 735/742) até a prolação da sentença, ocorrida em março de 2018, se passaram quatro anos e oito meses, período no qual teve sua situação financeira drasticamente alterada, razão por que, ao interpor o recurso de apelação, pleiteou a gratuidade judiciária, que foi injustamente indeferida; (2) há nos autos farta documentação comprovando que, após esbulhado de suas propriedades rurais, passou a depender exclusivamente dos rendimentos produzidos por seus imóveis destinados à locação e que "referidos imóveis não se encontravam, como não se encontram até a presente data, a gerar renda" (e-STJ, fls. 1423); e (3) as referidas provas jamais foram analisadas, de modo que a decisão monocrática se mostra extra petita, porque se pronunciou sobre questão diversa da preiteada nos autos, ou seja, sobre uma questão transitada em julgado quando a parte pretendia a apreciação de fatos supervenientes dos quais resultaram o agravamento de sua situação patrimonial e financeira.
+Não foi apresentada contraminuta (e-STJ, fl. 1434).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAL. PEDIDO DE GRATUIDADE JUDICIÁRIA. HIPOSSUFICIÊNCIA NÃO COMPROVADA. INDEFERIMENTO. REFORMA DO ENTENDIMENTO. SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A teor da Súmula nº 481 do STJ: "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3. O Tribunal de Justiça paranaense, soberano na análise das provas, reconheceu não estar comprovado nos autos os requisitos necessários para a concessão do benefício da assistência judiciária gratuita, de modo que alterar o entendimento ali firmado encontra óbice no enunciado da Súmula nº 7 do STJ.
+3. Agravo interno não provido.
+VOTO
+O agravo interno não comporta provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Do pedido de gratuidade judiciária formulado na origem
+No presente agravo interno, ERNESTO se insurgiu contra o decisão de minha relatoria, que manteve o indeferimento do pedido de gratuidade judiciária, repisando a tese de que sofreu alteração da sua situação financeira, de modo que não possuiu condições de arcar com o pagamento das despesas processuais referente à sua condenação dada a improcedência da ação indenizatória por ele manejada.
+Entretanto, conforme constou da decisão agravada, de acordo com a jurisprudência do STJ, o art. 98 do NCPC contém a presunção apenas relativa (juris tantum) de que o indivíduo que solicita o benefício não tem condições de pagar as despesas do processo sem comprometer seu próprio sustento ou de sua família, pois logo no artigo subsequente (art. 99, § 2º, do NCPC), faculta-se ao magistrado o indeferimento do pedido nos casos em que não se verifique nos autos a presença de elementos que evidenciem os pressupostos legais para a concessão da gratuidade.
+E, no caso dos autos, o Tribunal de Justiça paranaense, soberano na análise das provas, entendeu não ter ficado comprovado os requisitos para a concessão do benefício pleiteado, nos seguintes termos:
+Ernesto Cesar Gaion ingressou com ação de indenização por danos morais em face de Vladmir Castro Jordão e requereu a concessão do benefício da justiça gratuita (mov. 1.2).
+A juíza de primeiro grau solicitou a juntada de declaração de renda dos últimos três exercícios, bem como comprovante de rendimentos a fim de possibilitar a aferição dos requisitos do benefício (mob. 1.29, pag. 5).
+O autor opôs embargos de declaração contra a referida decisão (mov. 1.30), os quais foram rejeitados (mov. 1.32).
+O requerente interpôs agravo de instrumento pedindo pela anulação da decisão agravada ou sua reforma para que lhe seja deferido o benefício da justiça gratuita, visto que se encontra em situação financeira precária e que está impossibilitado de arcar com as custas e despesas processuais (mov.1.33).
+O réu Vladmir Castro Jordão apresentou contrarrazões pelo indeferimento da gratuidade da justiça (mov. 1.35).
+O agravo de instrumento foi desprovido, deixando de se conceder a assistência judiciária gratuita em razão da parte autora ser produtor rural, proprietário de vários bens e imóveis e residir em um dos mais valorizados bairros do setor imobiliário do país (mov. 1.48).
+O autor interpôs embargos de declaração, os quais foram rejeitados (mov. 1.48, pag.13), ato contínuo, apresentou recurso especial, ao qual foi negado seguimento (mov. 1.48, pag. 20).
+Julgada improcedente a ação, o Sr. Ernesto Cesar Gaion apelou e pleiteou a manutenção do benefício da justiça gratuita (mov. 62.1), o que foi negado pela decisão de mov. 7.1, tendo sido o autor intimado a efetuar o pagamento das custas recursais.
+Ante a inércia do apelante, o recurso foi julgado deserto.
+No presente recurso a parte autora pleiteia concessão do benefício da justiça gratuita, no entanto não traz aos autos nenhum fato novo que possibilite a rediscussão da matéria.
+A questão objeto do agravo interno foi atingida pela preclusão consumativa, uma vez que o indeferimento do pedido de justiça gratuita foi confirmado no julgamento do agravo de instrumento nº 984.130-1 e o recorrente não demonstrou que sua situação financeira sofreu alteração significativa desde então.
+ ..  A pretensão da agravante de rediscutir a concessão do benefício da gratuidade da justiça não encontra amparo no Código de Processo Civil e deve ser negada. (e-STJ, fls. 1155/1156).
+Assim é que, com base em tais razões, deve-se considerar inviável a alteração da conclusão a que chegou o TJPR quanto ao tema, pois mesmo após ter sido intimado a comprovar sua hipossuficiência, o insurgente não trouxe aos autos nenhum indício da alegada impossibilidade de arcar com as despesas processuais no caso concreto.
+Ao contrário, ficou reconhecido ser ele produtor rural, proprietário de vários bens e imóveis e residir em um dos mais valorizados bairros do setor imobiliário do país.
+Apesar disso, nas razões do presente agravo interno, ERNESTO se limitou a afirmar que os vários imóveis que possui não lhe geram renda capaz de prover as despesas processuais decorrentes da improcedência da ação indenizatória por ele aforada, sem, contudo, ter feito prova do quanto alegado.
+Portanto, diante desse cenário, é de se concluir que a pretensão recursal esbarra no entendimento da Súmula nº 7 do STJ, uma vez que haveria necessidade de um novo exame dos elementos de convicção dos autos, o que é sabidamente vedado em recurso especial.
+A propósito, confiram-se os julgados:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO. INSURGÊNCIA DA AGRAVANTE.
+1. A jurisprudência desta Corte já consolidou o entendimento de que o benefício da gratuidade de justiça pode ser indeferido quando as circunstâncias dos autos apontarem que a parte possui meios de arcar com as custas do processo em virtude da presunção relativa da declaração de hipossuficiência.
+ .. .
+6. Para Alterar a conclusão do Tribunal de origem, acolhendo-se a pretensão recursal de exonerar o agravante do dever de quitar o débito executado seria imprescindível nova análise da matéria fática, inviável em recurso especial. 7. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1.585.241/SP, Rel. Ministro MARCO BUZZI, Quarta Turma, j. 29/6/2020, DJe 3/8/2020 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PLEITO DE GRATUIDADE DA JUSTIÇA.
+PREPAROS RECURSAIS ANTERIORES ADIMPLIDOS. AUSÊNCIA DA DECLARAÇÃO DE HIPOSSUFICIÊNCIA. AGRAVO NÃO PROVIDO.
+1. O relator do recurso poder indeferir pedido de concessão do benefício da gratuidade da Justiça se as circunstâncias dos autos demonstrarem que o requerente não se encontra em estado de hipossuficiência econômica.
+2. Agravo interno não provido.
+(AgInt no REsp 1.839.595/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Corte Especial, j. 9/6/2020, DJe 15/6/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDEVIDA INOVAÇÃO RECURSAL. JUSTIÇA GRATUITA. PESSOA JURÍDICA. CONCESSÃO. POSSIBILIDADE. SÚMULA N. 481/STJ. REQUISITO . REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+ .. .
+2. "Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais." (Súmula n. 481/STJ) . O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7/STJ).
+4. No caso, o Tribunal de origem concluiu estarem ausentes os requisitos para a concessão do benefício da justiça gratuita. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.473.249/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 29/10/2019, DJe 5/11/2019).
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno, com imposição de multa.
