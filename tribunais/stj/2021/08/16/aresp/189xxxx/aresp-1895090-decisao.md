@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por ANTÔNIO ODINEU STOCCO JUNIOR, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: embargos à execução, opostos pelo agravante, em face de execução de título extrajudicial ajuizada em seu desfavor peloBANCO BRADESCO S/A.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta peloagravante, nos termos da seguinte ementa:
+EMBARGOS À EXECUÇÃO. NULIDADE DA SENTENÇA. AUSÊNCIA DE FUNDAMENTAÇÃO. Não ocorrência. Decisão de primeiro grau que abordou todos os temas trazidos com a pretensão inicial e fundamentou as razões da rejeição do pedido. Não se deve confundir fundamentação concisa com sua ausência. NULIDADE DOTÍTULO EXECUTIVO. Não ocorrência. Documento que embasou a execução devidamente subscrito pelo devedor e por duas testemunhas. Requisitos exigidos pelo artigo 784,III, do Código de Processo Civil, devidamente atendidos. RETIRADA DA SOCIEDADEE ISENÇÃO DE RESPONSABILIDADE PELA DÍVIDA. Inadmissibilidade. Sócio que assinou o contrato na qualidade de avalista e devedor solidário. Alteração do contrato social, sem menção expressa de desobrigação do sócio retirante e formal comunicação ao banco, não basta para excluir a responsabilidade expressamente pactuada no título executivo. Eventual direito que deverá ser perquirido pelas vias próprias. Sentença mantida. Apelação não provida.
+Recurso especial: alega a violação de dispositivos legais, bem como dissídio jurisprudencial.
+Decisão de admissibilidade:inadmitiu o recurso especial, com os seguintes fundamentos: i)incidência dos óbices das Súmulas 284/STF e 7/STJ; ii) inadmissibilidade do recurso especial fundado em violação de súmula; e iii) ausência de comprovação do dissídio jurisprudencial.
+Agravo em recurso especial: reitera a violação de dispositivos legais, além de sustentar, genericamente, a inaplicabilidade do óbice da 7/STJ e a comprovação do dissídio jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que o agravante se limitou a trazer alegações genéricas, mas demonstrou, de maneira consistente e específica, que não seria necessário o reexame de fatos e provas, e tampouco rebateu, pontualmente, o fundamento no sentido de que é inadmissível o recurso especial fundado em violação de súmula.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% do valor atualizado da causa para 14%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
