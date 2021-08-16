@@ -1,0 +1,85 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por FERNANDES & OLIVEIRA LTDAcontra decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 960):
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
+Sustenta a agravante ser inaplicável o Tema 339/STF, pois apesar de ter manejado sucessivos aclaratórios contra o acórdão proferido em embargos de divergência, esta Corte Superior não teceu "uma linha sequer no sentido de declinar as razões pelas quais se entendeu que o mérito do recurso especial não teria sido apreciado".
+Reitera a alegação de que o Superior Tribunal de Justiça adentrou aomérito do recurso especial quanto àinterpretação do art.133 do Código Tributário Nacional, embora não tenha conhecido do recurso, poraplicação da Súmula 7/STJ.
+Contrarrazões às fls. 990-993.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. NEGATIVA DE SEGUIMENTO. RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. DESPROVIMENTO DO RECLAMO.
+1. As decisões judiciais devem ser fundamentadas, ainda que de forma sucinta, não se exigindo análise pormenorizada de cada prova ou alegação das partes, nem que sejam corretos os seus fundamentos (Tema 339/STF).
+2. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 15.3.2021 (e-STJ fl. 967), cumpre atestar a tempestividade da insurgência, pois interposta no dia 8.4.2021 (e-STJ fl. 986), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelaagravante, a decisão monocrática deve ser mantida.
+Isso porque, ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118)
+Compulsando-se os autos percebe-se que a Quarta Turma deste Superior Tribunal de Justiça manteve decisão monocrática do Ministro Relator, a qual não conheceu do recurso especial, ante a incidência da Súmula 7/STJ. Eis os fundamentos do julgado (e-STJ fls. 671-672):
+Com efeito, no que tange à questão da sucessão empresarial para fins de transferência da responsabilidade tributária, nos moldes do art. 133 do CTN, a Corte a quo assentou que restou caracterizada, na hipótese dos autos, a aquisição do fundo de comércio ou estabelecimento, ou seja, da propriedade com todos os poderes inerentes ao domínio.
+Com efeito, o Tribunal de origem, soberano na análise das provas carreadas aos autos, entendeu que FERNANDES & OLIVEIRA LTDA. é sucessora empresarial da ÓTICAS SANTANAS LTDA., conforme pode se observar do seguinte trecho dos autos (fl. 438):
+"No caso dos autos, como bem fundamentou a Juíza de origem "há informação que a nova empresa exerce as mesmas atividades da executada, conforme documentos juntados pelo exequente às fls. 100/103 e 107/115, utilizando o mesmo nome fantasia inclusive".
+Restou evidenciado que Fernandes & Oliveira Ltda. é sucessora empresarial da Óticas Santanas, atua nas mesmas localidades, usando o mesmo nome fantasia, vendendo os mesmos itens e tendo as mesmas filiais, não havendo qualquer alteração entre o proceder da nova e da anterior Empresa."
+Nesse contexto, para infirmar essa premissa fática e adotar qualquer conclusão em sentido contrário ao que ficou expressamente consignado - entendendo que não houve sucessão empresarial -, é necessário o reexame do acervo fático-probatório constante dos autos, o que é inviável em sede de recurso especial, tendo em vista o óbice da Súmula 7/STJ.
+ ..
+Ressalte-se, ademais, que a incidência da regra contida no art. 133 do CTN não ocorre apenas na hipótese de sucessão formal, devidamente demonstrada mediante instrumento de transferência e aquisição do fundo de comércio, mas também nos casos de sucessão de fato, caracterizada e comprovada por elementos de prova (como na hipótese vertente).
+Opostos embargos de declaração, foram rejeitados por considerar-se que"o aresto embargado contém fundamentação suficiente para demonstrar que, no tocante à alegada tese de não caracterização da sucessão empresarial, a pretensão de revolvimento da matéria de fato, em sede de recurso especial, atrai o óbice de que trata a Súmula 7/STJ"(e-STJ fl. 704).
+Por decisão de fls. 766-768, o Ministro Presidente indeferiu liminarmente os embargos de divergência, ante a aplicação da Súmula 315/STJ, o que restou mantido em decorrência do não provimento do agravo regimental (e-STJ fls. 813-821).
+Irresignada, a parte opôs os primeiro embargos de declaração contra o acórdão da Corte Especial,os quais foram rejeitados aos seguintes fundamentos (e-STJ fls. 852-856):
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento pelo julgador dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado. Nesse sentido, confira-se a doutrina de Nelson Nery Junior e Rosa Nery:
+ ..
+No caso, a Embargante não aponta a incidência de nenhuma das hipóteses previstas no art. 1.022 do Código de Processo Civil, limitando-se a discordar do que restou decidido, razão pela qual se impõe a rejeição dos embargos declaratórios.
+Ademais, anoto ser firme a orientação desta Corte segundo a qual a ausência de manifestação sobre a matéria do mérito recursal não configura omissão capaz de ensejar nulidade no decisum por ofensa ao art. 1.022 do CPC/2015 quando o recurso não ultrapassa o juízo de admissibilidade, como é o caso dos autos.
+Ressalto que, conforme apontado, o órgão julgador não fica obrigado a responder um a um os questionamentos da parte se já encontrou motivação suficiente para fundamentar a decisão, sobretudo se notório o caráter de infringência, como o demonstra o julgado assim ementado:
+ ..
+No tocante à contradição, é firme o posicionamentodesta Corte, segundo o qual a contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador.
+O recurso integrativo não se presta a corrigir contradição externa entre o decisum impugnado e o entendimento da parte, ou entre este e outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+ ..
+Assim, a pretexto de omissão e contradição, a irresignação objetiva a revisão da própria pretensão recursal, clara e exaustivamente apreciada na decisão monocrática e no acórdão embargado, embora em adversidade aos interesses da parte, conforme se extrai da fundamentação (fls. 816/819):
+"Nesse contexto, não há que se falar em dissenso interpretativo entre julgados, quando não ultrapassado o juízo de admissibilidade do recurso especial, revelando-se inviável, em sede de Embargos de Divergência, a discussão sobre o acerto ou desacerto da aplicação de regra técnica de conhecimento recursal.
+ ..
+Na mesma linha, os seguintes julgados desta Corte: AgRg nos EAREsp n. 111.594/SP, Corte Especial, Rel. Min. João Otávio de Noronha, DJe de 29.05.2013; AgRg nos EREsp n. 1.134.638/MT, 1ª Seção, Rel. Min. Benedito Gonçalves, DJe de 31.08.2011; AgRg nos EREsp n. 1.325.163/PI, 2ª Seção, Rel. Min. Antonio Carlos Ferreira, DJe de 27.04.2015; e AgRg nos EDcl nos EREsp n. 1.270.581/SP, 3ª Seção, Rel. Min. Sebastião Reis Júnior, DJe de 01.08.2012. Tal orientação permanece válida sob a vigência do Código de Processo Civil de 2015, o qual, no art. 1.043, prevê:
+ ..
+O dispositivo não autoriza a revisão, em Embargos de Divergência, de acórdão que concluiu pelo não conhecimento do Recurso Especial em face da ausência de pressupostos recursais genéricos ou específicos. Apenas viabiliza a interposição dos Embargos de Divergência em caso de equívoco quanto ao resultado do julgamento do Recurso Especial, o qual concluiu pelo nãoconhecimento, quando apreciado o mérito recursal.
+Nesse sentido:
+ ..
+Na espécie, inviáveis os Embargos de Divergência, porquanto, no acórdão embargado, o recurso especial não foi conhecido em razão da aplicação de regra técnica consubstanciada na Súmula 7/STJ (fl. 672e) segundo a qual a pretensão de simples reexame de prova não enseja recurso especial."
+Nesse cenário, impõe-se reconhecer que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e do cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+O procedimento encontra amparo em reiteradas decisões no âmbito desta Corte Superior, de cujo teor merece destaque a rejeição dos embargos declaratórios uma vez ausentes os vícios do art. 1.022 do Código de Processo Civil de 2015 (v. g. Corte Especial, EDcl no AgRg nos EREsp 1431157/PB, Rel. Min. João Otávio de Noronha, DJe de 29.06.2016; 1ª Turma, EDcl no AgRg no AgRg no REsp 11041181/SP, Rel. Min. Napoleão Nunes, DJe de 29.06.2016; e 2ª Turma, EDcl nos EDcl no REsp 1334203/PR, Rel. Min. Assusete Magalhães, DJe de 24.06.2016).
+Desse modo, totalmente destituída de pertinência mencionada formulação, uma vez que não se ajusta aos estritos limites de atuação dos embargos, os quais se destinam, exclusivamente, à correção de eventual omissão, contradição, obscuridade ou erro material do julgado.
+Mais uma vez insubmissa, a ora agravante manejou novos embargos de declaração, os quais obtiveram a mesma solução dos anteriores, esclarecendo-se nessa oportunidade que (e-STJ fls. 895-899):
+Da leitura do recurso da Embargante, observo que a irresignação perpassa pelos mesmo pontos já debatidos no acórdão embargado, o que, a rigor, impõe o não acolhimento dos presentes aclaratórios. A fim de trazer claridade ao julgado, colaciono os trechos do acórdão (fls. 853/856):
+ ..
+Com efeito, depreende-se da leitura do acórdão que a controvérsia foi examinada de forma satisfatória, mediante apreciação da disciplina normativa e cotejo ao firme posicionamento jurisprudencial aplicável à hipótese.
+ ..
+Assim, não verifico, no caso, a existência de vício a ensejar a declaração do julgado ou sua revisão mediante embargos de declaração.
+Outrossim, no tocante à contradição, é firme oposicionamento desta Corte, segundo o qual a contradição sanável por embargos de declaração é aquela interna ao julgado embargado, a exemplo da grave desarmonia entre a fundamentação e as conclusões da própria decisão, capaz de evidenciar uma ausência de logicidade no raciocínio desenvolvido pelo julgador.
+O recurso integrativo não se presta a corrigir contradição externa entre o decisum impugnado e o entendimento da parte, ou entre este e outras decisões deste Tribunal, bem como não se revela instrumento processual vocacionado para sanar eventual error in judicando.
+ ..
+Por fim, a oposição, pela segunda vez, de embargos de declaração, com o escopo de rediscutir a suposta existência de vícios no julgado, enfrentados anteriormente nos primeiros embargos declaratórios, como ocorreu no caso em exame, constitui prática processual abusiva e manifestamente protelatória, sujeita à aplicação da multa prevista no art. 1.026, § 2º, do Código de Processo Civil de 2015.
+ ..
+Posto isso, REJEITO OS EMBARGOS DE DECLARAÇÃO e, com fundamento no art. 1.026, § 2º, do Código de Processo Civil de 2015, determino a aplicação de multa de 1% (um por cento) sobre o valor atualizado da causa.
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7.
+Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01- 09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1.
+No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
