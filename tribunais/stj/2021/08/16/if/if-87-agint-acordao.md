@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. A FRONTA AOS LIMITES DA COISA JULGADA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO RECLAMO.
+1. A alegada violação do princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+2. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por OSWALDO SALVADOR PETRILLI contra parte da decisão que negou seguimento ao recurso extraordinário, assim ementada (e-STJ fl. 2.051):
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. AFRONTA AOS LIMITES DA COISA JULGADA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO. DIREITO CONSTITUCIONAL. INTERVENÇÃO FEDERAL. COMPETÊNCIA PRIVATIVA DO PRESIDENTE DA REPÚBLICA PARA EXECUTAR A MEDIDA MEDIANTE PROVOCAÇÃO DA PRESIDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. COMUNICAÇÕES REALIZADAS. ESGOTAMENTO DA COMPETÊNCIA DO RELATOR DA INERVENÇÃO FEDERAL NESTA CORTE. OFENSA REFLEXA À CONSTITUIÇÃO. MATÉRIA INFRACONSTITUCIONAL. RECURSO NÃO ADMITIDO.
+Sustenta o agravante que "o art. 5º, incisos XXXV e XXXVI, da Constituição Federal, asseguram a inafastabilidade da jurisdição e o respeito à coisa julgada, e, no presente caso, para reconhecimento da violação a tais princípios não se passa pela análise de quaisquer normas infraconstitucionais, ou mesmo de provas ou de situação fática" (e-STJ fl. 2.065).
+Afirma que se discute se "a intervenção federal no Estado do Paraná foi efetivamente REQUISITADA pelo Poder Judiciário (art. 36, II, da CF), com a mera intimação pessoal do Sr. Presidente da República (com o suposto cumprimento dos arts. 315 do Regimento Interno deste Superior Tribunal de Justiça, do art. 22 da Lei n. 8.038/1990 e do art. 11 da Lei n. 12.562/2011), já que permanece a DESOBEDIÊNCIA À ORDEM JUDICIAL" (e-STJ fl. 2.065).
+Aduz que a ordem judicial que determinou a intervenção federal no Estado do Paraná deveria ser obedecida, sendo passível de análise de conformidade constitucional.
+Requer o provimento do reclamo para que o recurso extraordinário seja admitido e processado.
+As contrarrazões foram apresentadas às fls. 2.085/2.088.
+É o relatório.
+EMENTA
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. A FRONTA AOS LIMITES DA COISA JULGADA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO RECLAMO.
+1. A alegada violação do princípio da inafastabilidade de jurisdição, por implicar ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional e não possui repercussão geral (Tema 895/STF).
+2. A suposta afronta aos princípios do contraditório, da ampla defesa, do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, se dependente da análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional, não tendo repercussão geral (Tema 660/STF).
+3. Agravo interno não provido.
+VOTO
+Inicialmente, tendo em vista que a decisão impugnada foi publicada em 12.4.2021 (e-STJ fl. 2.056), cumpre atestar a tempestividade da insurgência, pois interposta no dia 3.5.2021 (e-STJ fl. 2.068), ou seja, dentro do prazo recursal.
+Não obstante as razões declinadas pelo agravante, a decisão monocrática deve ser mantida.
+Isso porque é assente na Suprema Corte o entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema 895/STF).
+Essa tese foi estabelecida pelo Supremo Tribunal Federal no julgamento do RE n. 956.302 RG/GO, que restou assim ementado:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE 956.302/GO RG, Relator(a): Min. EDSON FACHIN, julgado em 19/05/2016, PROCESSO ELETRÔNICO DJe-124 DIVULG 15-06-2016 PUBLIC 16-06-2016)
+Da mesma forma, pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, ao analisar a controvérsia, esta Corte Superior de Justiça assim se manifestou (e-STJ fls. 1.985/1.986):
+Estes autos originam-se de intervenção federal (IF) que tem como base o disposto no art.
+34, VI, da Constituição da República, ajuizada em razão do descumprimento de ordem judicial de requisição de força policial para cumprimento de reintegração de posse de imóvel invadido por integrantes do MST.
+O pedido foi julgado procedente pela Corte Especial, em 5/11/2008. Com o trânsito em julgado, houve a expedição dos respectivos ofícios, como mandam a Lei 8038/90 e o Regimento Interno desta Corte (art. 315).
+A Presidência do STJ efetivou a expedição de ofícios ao Presidente do TJPR (fl. 377), ao Ministro da Justiça e ao Governador do Estado do Paraná (fl. 378), inclusive requisitando a intervenção ao Presidente da República.
+Em 2015, as partes interessadas na reintegração de posse, que deu origem ao pedido de intervenção, requereram o desarquivamento dos autos, ocasião em que informaram o não cumprimento da ordem judicial e do acórdão de fls. 368-372.
+A decisão agravada (fls. 1929/1930) tornou nulas as decisões proferidas nos autos por este Ministro, desde às folhas 889, e determinou o arquivamento do processo, ao fundamento do esgotamento da competência jurisdicional, na espécie, para determinar medidas executivas nos autos.
+Sobre a execução e decretação da intervenção federal, a CF/1988 afirma que:
+Art. 84. Compete privativamente ao Presidente da República:
+(..)
+X - decretar e executar a intervenção federal;
+Ao atribuir a competência privativa do Presidente da República para "decretar e executar" a intervenção federal, a Constituição não permite ao Relator, no âmbito do STJ, que promova ou determine os atos executórios da Intervenção federal (IF).
+A intervenção federal é bipartida entre a fase cognitiva, de competência da Corte Especial do STJ, sob a Relatoria de um de seus Ministros, e a fase executória, de competência do Presidente da República, por expressa determinação Constituição, mediante provocação da Presidência do STJ, conforme manda o RISTJ (Art. 315).
+No caso dos autos, como acima salientado, já houve a devida notificação, pela Presidência do Superior Tribunal de Justiça, ao Presidente da República, de modo que a autoridade constitucionalmente competente para a marcha executória da intervenção já recebeu a requisição deste Tribunal.
+O exercício da jurisdição estatal pressupõe norma atributiva de competência; no caso, carece a ordem jurídica de qualquer comando normativo que determine a quem funcionou como Relator na fase cognitiva da intervenção federal competência para a marcha ou fase processual executória.
+O esgotamento do exercício jurisdicional do Ministro Relator do processo da intervenção federal ,julgado pela Corte Especial, se deu com o respectivo trânsito em julgado; a partir de então, o RISTJ (art. 315) atribui à Presidência do Tribunal a expedição da comunicação à autoridade competente para a execução e decretação do ato interventivo, o Presidente da República.
+Desse modo, intimados o Ministério Público, a União, o Estado do Paraná e as partes interessadas, bem como expedida a competente requisição ao Presidente da República, este Relator está com o seu exercício jurisdicional esgotado, desde o trânsito em julgado da intervenção federal.
+Da leitura das referidas passagens, depreende-se que a violação do art. 5º, incisos XXXV e XXXVI, da Constituição Federal é reflexa, pois depende da análise dos arts. 315 do Regimento Interno deste Superior Tribunal de Justiça, 22 da Lei n. 8.038/1990 e 11 da Lei n. 12.562/2011, razão pela qual incidem os Temas 895/STF e 660/STF.
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
