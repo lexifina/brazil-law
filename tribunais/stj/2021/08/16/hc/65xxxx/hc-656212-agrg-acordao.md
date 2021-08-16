@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO E EXTORSÃO. PRISÃOPREVENTIVA DECRETADA. PACIENTE PRESO DURANTE TODO O PROCESSO. SENTENÇA DE CONDENAÇÃO, COM CONCRETOS FUNDAMENTOS PARA A MANUTENÇÃO DAPRISÃO. AUSÊNCIA DE ILEGALIDADE.
+1. Esta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo TribunalFederal, que tem admitido a adequação dasegregação provisória ao regime fixado na sentença condenatória, como ocorre na hipótese.
+2. Agravo regimental improvido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Trata-se de agravo regimental em habeas corpus interposto por Luis Fernando dos Santos da Silva contra decisão de minha Relatoria, que denegou a ordem de habeas corpus. Esta, a ementa da decisão (fl. 57):
+PENAL E PROCESSUAL PENAL. HABEAS CORPUS. RECEPTAÇÃO E EXTORSÃO. PRISÃO PREVENTIVA DECRETADA. PACIENTE PRESO DURANTE TODO O PROCESSO. SENTENÇA DE CONDENAÇÃO, COM CONCRETOS FUNDAMENTOS PARA A MANUTENÇÃO DA PRISÃO. AUSÊNCIA DE ILEGALIDADE.
+Ordem denegada.
+Alega o agravante que a manutenção da prisão preventiva traz prejuízo ao paciente. Sustenta que, caso inicie o cumprimento da pena de imediato, a sua situação seria melhor do que seguir o que foi determinado na sentença. Assim, requer a revogação da prisão preventiva.
+É o relatório
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO E EXTORSÃO. PRISÃO PREVENTIVA DECRETADA. PACIENTE PRESO DURANTE TODO O PROCESSO. SENTENÇA DE CONDENAÇÃO, COM CONCRETOS FUNDAMENTOS PARA A MANUTENÇÃO DA PRISÃO. AUSÊNCIA DE ILEGALIDADE.
+1. Esta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória, como ocorre na hipótese.
+2. Agravo regimental improvido.
+VOTO
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR (RELATOR): A decisão deve ser mantida, por ausência de ilegalidade. O paciente esteve preso durante o curso da ação penal. Quando proferida a sentença, o Magistrado determinou que se recomendasse o réu ao presídio em que se encontra recolhido, devendo ser formado e remetido à VEC o PEC provisório (fl. 38). De acordo com o Ofício enviado pela 4ª Vara Criminal da comarca de Caxias do Sul/RS, o paciente foi preso preventivamente no dia 25/11/2020. Confira-se, ainda, parte do ofício (fl. 47):
+ ..  Em 6/8/2020, o réu foi condenado por incursão nas sanções dos arts. 180, caput e 158, caput, na forma do art. 68, caput, todos do CP, sendo-lhe aplicada a pena definitiva de 5 (cinco) anos e 3 (três) meses de reclusão, em regime inicial semiaberto, além de 25 (vinte e cinco dias-multa).
+Informo que a constrição cautelar do ora paciente foi mantida por ocasião da sentença, "considerando as circunstâncias fáticas, a natureza dos delitos (notadamente o de extorsão) e do montante da pena, sendo que o réu responde a diversos outros processos de mesma natureza, alguns já com condenações provisórias", fazendo-se presentes os requisitos legais. Com isso, determinou-se a formação e remessa do PEC provisório à VEC, cujo ofício de encaminhamento de peças se deu em 11/8/2020.  ..
+Esta Corte já se manifestou pela compatibilidade da manutenção da prisão preventiva e a fixação de regime semiaberto na sentença, alinhando-se ao entendimento consolidado pelo Supremo Tribunal Federal, que tem admitido a adequação da segregação provisória ao regime fixado na sentença condenatória, como ocorre na hipótese, em que, de acordo com as instâncias ordinárias, foi determinado o enquadramento do paciente no regime ao qual foi condenado (AgRg no HC n. 576.382/PI, Ministro Nefi Cordeiro, Sexta Turma, DJe 29/6/2020). Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REGIME INTERMEDIÁRIO. WRIT PREJUDICADO. INFORMAÇÕES DAS INSTÂNCIAS ORDINÁRIAS. DEFICIENTEMENTE INSTRUÍDO. PEÇAS FALTANTES:SENTENÇA CONDENATÓRIA E ACÓRDÃO PROFERIDO EM SEDE DE APELAÇÃO. INVIABILIDADE DO EXAME DO PEDIDO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Registre-se, de início, que a fixação do regime intermediário para início de cumprimento da reprimenda não constitui óbice à manutenção da segregação cautelar, consoante pacífico entendimento deste Superior Tribunal de Justiça. Não se olvida, contudo, que naqueles casos em que a sentença condenatória fixou-lhe o regime prisional semiaberto para o início do cumprimento da pena, deve a prisão provisória ser compatibilizada ao regime imposto, sob pena de tornar mais gravosa a situação daquele que opta por recorrer do decisum.
+ ..
+(AgRg no HC n. 623.957/SP, Ministro Ilan Paciornik, Quinta Turma, DJe 26/4/2021)
+Ademais, segundo a jurisprudência do Superior Tribunal de Justiça, a manutenção da custódia cautelar, no momento da sentença condenatória, em hipóteses em que o acusado permaneceu preso durante toda a instrução criminal, não requer fundamentação exaustiva, sendo suficiente, para a satisfação do art. 387, § 1º, do Código de Processo Penal, declinar que permanecem inalterados os motivos que levaram à decretação da medida extrema em um primeiro momento, desde que estejam, de fato, preenchidos os requisitos legais do art. 312 do mesmo diploma, o que ocorreu no caso (RHC n. 134.933/MG, Ministra Laurita Vaz, Sexta Turma, DJe 18/12/2020).
+Assim, não há ilegalidade para o paciente.
+Ante o exposto, nego provimento ao agravo regimental.
