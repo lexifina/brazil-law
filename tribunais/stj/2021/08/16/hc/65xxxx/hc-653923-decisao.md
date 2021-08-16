@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de LEANDRO DE SOUSA AFONSO apontando como autoridade coatora o TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO (HC n. 5033839-08.2020.8.21.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, dos delitos previstos nos arts. 1º, I, da Lei n. 9.613/1998, e 2º da Lei n. 12.850/2013, no âmbito da denominada Operação "Rei do Crime".
+Irresignada, a defesa impetrou prévio writ, tendo o Tribunal de origem denegado a ordem em relação ao ora paciente, em acórdão cuja ementa foi assim definida (e-STJ fl. 117):
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. LAVAGEM DE DINHEIRO. ANÁLISE DAS CONDIÇÕES PESSOAIS DE CADA UM DOS PACIENTES. ORDEM DENEGADA EM RELAÇÃO A LEANDRO. ORDEM CONCEDIDA EM RELAÇÃO A KETTY.
+1. Os pacientes e outros investigados foram presos preventivamente em decorrência da prática, em tese, dos delitos descritos no art. 1ª, inciso I da Lei 9.613/98 c/c art. 2º da lei 12.850/2013.
+2. A manutenção da prisão preventiva deve levar em consideração as condições pessoais de cada um dos pacientes.
+3. A prisão preventiva do paciente LEANDRO se revelou necessária com base em dados concretos coletados durante as investigações realizadas, que indicam o suposto envolvimento do paciente em organização criminosa voltada ao tráfico internacional de entorpecentes e lavagem de dinheiro, a respaldar a necessidade da manutenção da prisão preventiva para garantia da ordem pública e para assegurar a aplicação da lei penal.
+4. Em que pese KETTY participar da administração das empresas de LEANDRO, sopesando as circunstâncias e a forma de inserção da paciente nos fatos denunciados, pelo que foi até aqui apurado, as medidas cautelares alternativas revelam-se adequadas e suficientes para resguardar a ordem pública e a aplicação da lei penal, nos termos do que dispõe o artigo 282, § 6º, do Código de Processo Penal.
+5. Ordem denegada em relação ao paciente LEANDRO DE SOUZA AFONSO.
+6. Ordem concedida em relação à paciente KETTY SOUZA CRUZ, a fim de revogar a prisão domiciliar, substituindo-a pelas seguintes medidas cautelares diversas, cabendo à autoridade impetrada adotar as providências necessárias à expedição de alvará de soltura clausulado em favor da paciente, cabendo à autoridade impetrada adotar as providências necessárias à assinatura de termo de compromisso: a) comparecimento pessoal e obrigatório ao Juízo onde reside, mensalmente, para informar e justificar suas atividades; b) proibição de se ausentar da comarca onde reside por mais de 15 (quinze) dias, sem autorização judicial; e c) proibição de se ausentar do país sem autorização do Juízo, com o recolhimento de passaporte, se houver.
+Daí o presente writ, no qual alega a defesa, inicialmente, a ausência de fundamentação idônea para a manutenção da segregação cautelar..
+Destaca que a prisão preventiva estaria baseada na necessidade de interromper a administração de determinados postos de combustíveis pelo paciente, mas que, no entanto, a mesma decisão determinou a intervenção judicial nesses postos de combustíveis, de maneira que, mesmo solto, não poderia mais interferir nas empresas (e-STJ fls. 8/9).
+Sustenta que a prisão de outros acusados estaria fundamentada nas mesmas premissas da prisão do paciente, mas que esses outros agentes já estariam em liberdade, e que "o principal fundamento dessa distinção é a equivocada afirmação de que o Paciente já cumpriu pena no sistema penitenciário paulista", mas "a única condenação sofrida por ele, há mais de 18 anos, foi a uma pena restritiva de direitos" (e-STJ fl. 12).
+Acrescenta a existência de constrangimento ilegal pela negativa infundada da extensão dos efeitos da ordem concedida no HC n. 5027783-56.2020.4.03.0000 na origem (e-STJ fls. 12/13).
+Assere que não há elementos concretos que denotem a ligação do agente com organização criminosa voltada ao tráfico internacional de drogas e lavagem de dinheiro, e conclui que não estão presentes os requisitos da prisão, sendo aplicáveis à hipótese medidas cautelares diversas da prisão.
+Requer, inclusive liminarmente, a concessão da ordem para revogar a prisão, ainda que mediante a imposição de medidas cautelares diversas.
+O pedido liminar foi por mim indeferido (e-STJ fls. 29.647/29.650).
+Informações prestadas (e-STJ fls. 29.749/29.760, 29.776/29.790 e 29.808/29.822).
+Parecer ministerial pelo não conhecimento do habeas corpus e, caso conhecido, pela denegação da ordem, com recomendação para que o Juízo de origem verifique a possibilidade de desmembramento do feito em relação aos réus que permanecem presos (e-STJ fls. 29.823/29.833).
+É, em síntese, o relatório.
+Decido.
+Conforme decisão acostada aos autos às e-STJ fls. 30040/30044, verifico que o Juízo de primeiro grau substituiu a prisão preventiva do paciente por medidas cautelares alternativas e monitoramento eletrônico, tendo sido determinada a expedição do competente alvará de soltura em seu favor.
+Dessarte, é patente que a presente impetração, visando a revogação da custódia cautelar do paciente, está prejudicada, haja vista a perda superveniente de objeto.
+Ante o exposto, julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
