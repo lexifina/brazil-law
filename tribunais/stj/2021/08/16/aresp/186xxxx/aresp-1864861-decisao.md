@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto Nacional do Seguro Socialcontra decisão que inadmitiu recurso especial manejado em desfavor de acórdão do Tribunal Regional Federal da 2ª Região, assim ementado:
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. READEQUAÇÃO DA RENDAMENSAL DE BENEFÍCIO. REFLEXOS EM PENSÃO POR MORTE. TETO DAS EMENDAS CONSTITUCIONAIS 20/98 E 41/03. LEGITIMIDADEATIVA AD CAUSAM. DECADÊNCIA. CORREÇÃO MONETÁRIA. RECURSODESPROVIDO.
+I - As pessoas referidas no art. 112 da Lei 8.213/01 (dependentes habilitados à pensão por morte ou, na falta deles, os sucessores do segurado na formada lei civil) têm legitimidade ativa para postularem tanto a revisão da renda mensal do benefício, quantos as parcelas atrasadas daí decorrentes;
+II - Nas ações onde se requer a readequação de benefícios previdenciários aos novos tetos fixados pelas ECs nº 20/98 e nº 41/2003, não se aplica o instituto da decadência, porquanto tais pleitos objetivam o reajuste da renda mensal e não a revisão do ato concessório, na forma do art. 103 da Lei nº 8.213/1991, tratando-se de questão pacificada pelo STF, em sede de repercussão geral;
+III - O benefício do instituidor, concedido no período do "buraco negro", foi impactado pelo teto previdenciário, fazendo jus à revisão da sua renda mensal pela aplicação dos mesmos índices utilizados na fixação do teto de pagamento dos benefícios previdenciários, determinados pelas Emendas Constitucionais nº 20/1998 e nº 41/2003, com reflexos na pensão por morte percebida pela autora;
+IV - O Eg. Supremo Tribunal Federal já se posicionou no sentido da inconstitucionalidade da aplicação da TR na atualização das condenações impostas à Fazenda Pública, devendo ser mantida a sentença que determinou o IPCA-E como índice de correção monetária;
+V - Recurso de apelação desprovido. Majoração dos honorários de sucumbência em 1% do valor dos honorários fixados na sentença, de acordo com o art. 85, § 11, do CPC.
+Os embargos de declaração opostos pelo agravante foram rejeitados.
+Nas razões do recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, o recorrente alega violação aos arts. 18 do CPC e 112 da Lei 8.213/91.
+Argumenta que "o Recorrido pleiteou, em nome próprio, valores em atraso que seriam devidos ao instituidor por força da readequação da MR da aposentadoria de que era beneficiário, com base nos novos tetos instituídos pelas ECs 20/98 e 41/03, revisão jamais pleiteada em vida".
+Assevera que "o termo inicial do pagamento de atrasados deve ser fixado na DIB da pensão por morte nas hipóteses em que o deferimento desta seja posterior ao prazo de 05 anos anteriores ao ajuizamento da ação individual".
+Não foram apresentadas contrarrazões.
+Em sede de juízo de retratação, o acórdão foi mantido.
+Sobreveio juízo negativo de admissibilidade fundado na Súmula 284/STF.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial reúne condições de ser processado.
+Contraminuta apresentada.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preenchidos os pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+A insurgência não merece prosperar.
+A jurisprudência desta Corte assentou, em sede de recurso especial repetitivo, no sentido de queo titular de pensão por morte possuilegitimidadepara pleitear, em nome próprio, o direito à revisão do benefício previdenciário recebido pelo segurado falecido, instituidor da pensão, nos termos do art.112da Lei 8.213/1991.
+Confira-se:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPETITIVO. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. REGIME GERAL DE PREVIDÊNCIA SOCIAL - RGPS. ART. 112 DA LEI N. 8.213/1991. ÂMBITO DE APLICAÇÃO. AÇÃO REVISIONAL DE APOSENTADORIA DE SEGURADO FALECIDO E DE PENSÃO POR MORTE. AUSÊNCIA DE INICIATIVA DO SEGURADO EM VIDA. LEGITIMIDADE ATIVA DE PENSIONISTAS E SUCESSORES. ORDEM DE PREFERÊNCIA. DIFERENÇAS DEVIDAS E NÃO PAGAS. JULGAMENTO SUBMETIDO À SISTEMÁTICA DO ART.1.036 E SEGUINTES DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Aplica-se, no caso, o Código de Processo Civil de 2015.
+II - Acórdão submetido ao rito do art. 1.036 e seguintes do CPC/2015, fixando-se, nos termos no art. 256-Q, do RISTJ, as seguintes teses repetitivas: (i) O disposto no art. 112 da Lei n. 8.213/1991, segundo o qual "o valor não recebido em vida pelo segurado só será pago aos seus dependentes habilitados à pensão por morte ou, na falta deles, aos seus sucessores na forma da lei civil, independentemente de inventário ou arrolamento", é aplicável aos âmbitos judicial e administrativo;
+(ii) Os pensionistas detêm legitimidade ativa para pleitear, por direito próprio, a revisão do benefício derivado (pensão por morte) - caso não alcançada pela decadência -, fazendo jus a diferenças pecuniárias pretéritas não prescritas, decorrentes da pensão recalculada;
+(iii) Caso não decaído o direito de revisar a renda mensal inicial do benefício originário do segurado instituidor, os pensionistas poderão postular a revisão da aposentadoria, a fim de auferirem eventuais parcelas não prescritas resultantes da readequação do benefício original, bem como os reflexos na graduação econômica da pensão por morte; e (iv) À falta de dependentes legais habilitados à pensão por morte, os sucessores (herdeiros) do segurado instituidor, definidos na lei civil, são partes legítimas para pleitear, por ação e em nome próprios, a revisão do benefício original - salvo se decaído o direito ao instituidor - e, por conseguinte, de haverem eventuais diferenças pecuniárias não prescritas, oriundas do recálculo da aposentadoria do de cujus.
+III - Recurso especial do particular provido.(REsp 1856967/ES, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA SEÇÃO, julgado em 23/06/2021, DJe 28/06/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253,parágrafo único, II,a, do RISTJ, bem como na Súmula 568/STJ, conheço doagravo paraconhecerdo recurso especial e negar-lhe provimento.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em favor da parte recorrida, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. ART. 112 DA LEI N. 8.213/1991. LEGITIMIDADE ATIVA DE PENSIONISTAS E SUCESSORES.RESP REPETITIVO 1856967/ES. AGRAVO CONHECIDO.RECURSO ESPECIAL CONHECIDO E NÃO PROVIDO.
