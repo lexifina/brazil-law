@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MOISES TEODORICO VIANA e ANTONIO CELSO SIMOES, contra decisão interlocutória que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Ação: de obrigação de fazer, cumulada com compensação por danos morais e indenização por danos materiais, em fase de cumprimento de sentença, ajuizada por SUELEM LANNA LOPES VITORINO, em face de OPCAO MIL COMERCIO DE VEICULOS LTDA.
+Decisão interlocutória: deferiu o pedido de desconsideração da personalidade jurídica da ré, formulado pela agravada, para incluir os agravantes no polo passivo da ação.
+Acórdão: negou provimento ao agravo de instrumento interposto pelosagravantes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. BEM MÓVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAISC. C. OBRIGAÇÃO DE FAZER. CUMPRIMENTO DE SENTENÇA. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. ADMISSIBILIDADE. RELAÇÃO DE CONSUMO. AUSÊNCIA DE ATIVOS FINANCEIROS E DE BENS DA EXECUTADA. Desconsideração da personalidade jurídica que enseja a extensão das obrigações assumidas pela pessoa jurídica aos bens particulares dos administradores ou dos sócios. Manifesta a relação de consumo entre as partes, incide na espécie a teoria menor prevista no art. 28, § 5.º, do CDC, de tal forma que dispensa a comprovação do desvio de finalidade e da confusão patrimonial, bastando que a personalidade da pessoa jurídica caracterize óbice ao ressarcimento dos prejuízos causados ao consumidor. Recurso desprovido.
+Embargos de declaração: interpostos pelosagravantes, foram rejeitados.
+Recurso especial: alegam a violação de dispositivos legais, bem como dissídio jurisprudencial.
+Decisão de admissibilidade: inadmitiu o recurso especial, com os seguintes fundamentos: i) inadmissibilidade do recurso especial fundado em violação de dispositivo constitucional; ii) ausência de violação doart. 1.022 do CPC; e iii) incidência dos óbices das Súmulas 284/STF e 7/STJ; e iii) ausência de comprovação do dissídio jurisprudencial.
+Agravo em recurso especial: argumentam que não alegaram a violação de dispositivo constitucional. Reiteram a violação dos dispositivos legais, além de sustentarem, genericamente, a inaplicabilidade doóbiceda Súmula 7/STJ e a existência de dissídio jurisprudencial.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que os agravantes se limitaram a trazer alegações genéricas, mas não demonstraram, de maneira consistente eespecífica, a inaplicabilidade do óbice da Súmula 7/STJ, e tampouco rebateram, pontualmente, o fundamento no sentido de que o dissídio jurisprudencial não teria sido comprovado, com o cotejo analítico entre situações fáticas idênticas.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
