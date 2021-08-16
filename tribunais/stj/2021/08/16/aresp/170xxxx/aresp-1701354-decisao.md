@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial, sob os fundamentos de inexistência de violação do art. 1.022 do CPC/2015e aplicação da Súmula n. 7 do STJ (e-STJ fls. 357/367).
+O Tribunal de origem negou provimento ao recurso daagravanteem julgado que recebeu a seguinte ementa (e-STJ fl. 307):
+APELAÇÃO CÍVEL. DIREITO PRIVADO NÃO ESPECIFICADO. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. CASO CONCRETO. AMORTIZAÇÃO. SENDO O VALOR DEPOSITADO COM EXPRESSA FINALIDADE DE PAGAMENTO ANTES DE 21/06/2016 OU SENDO DEPOSITADO ANTES DA ALUDIDA DATA, COM PRECLUSÃO OU TRÂNSITO EM JULGADO, CABÍVEL A AMORTIZAÇÃO PARA FINS DE CÁLCULO DO VALOR DA CONDENAÇÃO E LIBERAÇÃO DE ALVARÁ EM FAVOR DO CREDOR, SALVO EVENTUAL SALDO EM FAVOR DA RÉ. RECURSO DESPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 327/331).
+No recurso especial (e-STJ fls. 335/350), com fundamento no art. 105, III, "a", da CF, arecorrenteapontouviolação doart. 1.022 do CPC/2015, afirmando negativa de prestação jurisdicional. Aduziu, nesse contexto, que o acórdão recorrido não observou a determinação do Juízo da recuperação judicial.
+Alegoutambém afronta aos arts. 49 e 59 da Lei n. 11.101/2005, sustentando que é inadmissível o levantamento de valores em processo cujo trânsito em julgado da impugnação ao cumprimento de sentença se deu após a recuperação judicial. Ressaltou que os valores devem se submeter ao plano aprovado na assembleia geral de credores.
+Não se ofereceram contrarrazões (e-STJ fl. 355).
+No agravo (e-STJ fls. 371/379), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Não foi apresentada contraminuta (e-STJ fl. 380).
+É o relatório.
+Decido.
+Inicialmente, verifico que há omissão e falha na fundamentação na análisedas questões suscitadas.
+O Tribunal de origem concluiu pela possibilidade de levantamento dos valores em discussão, assim se pronunciando (e-STJ fls. 309/312 - grifei):
+O recurso não comporta provimento.
+Na hipótese, não há discussão relativamente ao fato de o valor já estar depositado nos autos antes da data de 21/06/2016. O depósito, como se vê à fl. 260 dos autos em apenso, deu-se em 20.05.2015.
+Nesta senda, ainda que o trânsito em julgado da impugnação ao cumprimento de sentença tenha se dado apenas em 15/02/2017, após apurado o exato valor incontroverso, o montante deve ser liberado em favor da parte credora, em atenção à decisão que limitou a suspensão das demandas em desfavor da recuperanda, proferida nos autos do Agravo de Instrumento nº 0034576-58.2016.8.19.0000, nos termos do trecho abaixo colacionado:
+ ..
+Assim, insta ressaltar que a referida decisão do Agravo de Instrumento nº 0034576-58.2016.8.19.0000 impõe como requisitos não cumuláveis que: (i) o valor tenha a expressa finalidade de pagamento, sendo depositado antes de 21/06/2016; ou (ii) que o valor depositado antes da mencionada data já tenha operado a preclusão ou o trânsito em julgado, tornando-se incontroverso. Observo que a decisão não expõe que o trânsito em julgado ou preclusão tenha se configurado antes de 21/06/2016, mas tão somente que o depósito seja anterior, razão pela qual não há falar em impossibilidade de levantamento dos valores, no caso concreto
+Observa-se que foi proferida decisão no processo de recuperação judicial (Embargos no Agravo de Instrumento n. 0034576-58.2016.8.19.0000, julgado pela OitavaCâmara Cível do Tribunal de Justiça do Rio de Janeiro), onde explicitado que possível a liberação de valores nos seguintes casos:
+(a) Quando o depósito judicial/bloqueio tenha sido realizado pela OI S/A em data anterior a 21.06.2016 e (b) Quando acontecer quaisquer das seguintes situações: (i) o depósito tenha sido feito com a expressa finalidade de pagamento pela OI S/A antes de 21/06/2016; (ii) já tenha ocorrido o trânsito em julgado de embargos à execução ou da impugnação ao cumprimento de sentença, antes de 21/06/2016, ou (iii) já tenha ocorrido a preclusão do incidente de impugnação ao cumprimento de sentença, antes de 21/06/2016.
+Nopresente caso, a Corte de origem não deixa claro que o trânsito em julgado da impugnação ao cumprimento de sentença ocorreu antes do pedido de recuperação judicial, ou que o depósito tenha sido feito com a expressa finalidade de pagamento, e não apenas para fins de garantia do juízo, como alegado pela parte recorrente.
+Assim, constatada a omissão e considerando que a análise fático-probatória não pode ser realizada por este Juízo especial, os autos devem retornar ao Tribunal de origem a fim de que seja reavaliado o caso concreto com expressa observância às determinações do Juízo recuperacional.
+Ante o exposto, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, a fim de anular o acórdão proferido no julgamento dos embargos de declaração (e-STJ fls. 327/331) e determinar o retorno dos autos ao Tribunal de origem para exame das omissões apontadas.
+Publique-se e intimem-se.
