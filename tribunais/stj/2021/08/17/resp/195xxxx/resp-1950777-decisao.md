@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Agildo José da Silva e outros,com amparo na alínea "a" do inciso III do art. 105 da Constituição da República/1988, contra acórdão do Tribunal Regional Federal da 5ª Região Região assim ementado (e-STJfl. 359):
+ADMINISTRATIVO E PREVIDENCIÁRIO. COMPLEMENTAÇÃO DE APOSENTADORIA. EX-FERROVIÁRIO DA RFFSA. LEIS 8.186/1991 E 10.478/2002. INEXISTÊNCIA DE PROVA DA VIOLAÇÃO A PARIDADE ENTRE ATIVOS E INATIVOS. APELAÇÃO IMPROVIDA.
+Em suas razões, os recorrentes indicam violação aos arts.2º da Lei nº 8.186/1991; 2º da Lei nº 10.478/2002; 17, I, "a", da Lei nº 11.483/2007;118 da Lei nº 10.233/2010, ao argumento de que " .. a parte recorrente faz jus ao reajustamento de sua aposentadoria, de modo que seja assegurada a permanente igualdade entre os valores percebidos por esta e os estipêndios dos servidores em atividade  ..  e de acordo com o plano de cargos e salários da Companhia Brasileira de Trens Urbanos- CBTU, com a respectiva gratificação adicional por tempo de serviço, e ao pagamento das parcelas vencidas  .. " (e-STJfl. 397).
+Com contrarrazões.
+É o relatório.
+A irresignação não merece prosperar.
+Dos autos, constata-se que o entendimento assentado pelo Tribunal de origem alinha-se àjurisprudência hodiernafirmada nesta Corte Superior de Justiça, no sentido de que " ..  os cálculos da complementação de aposentadoria não devem seguir os valores da tabela salarial da CBTU, pois o art. 118, § 1º, da Lei n. 10.223/2001 (com redação dada pela Lei 11.483/2007) é expresso em determinar que a paridade de remuneração entre ativos e inativos terá como referência os valores previstos no plano de cargos e salários da extinta RFFSA, aplicados aos empregados cujos contratos de trabalho foram transferidos para quadro de pessoal especial da VALEC - Engenharia, Construções e Ferrovias S.A. (REsp 1.684.307/RJ, Rel. Min. Herman Benjamin, DJe 18/6/2019).
+A propósito:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. COMPLEMENTAÇÃO DE APOSENTADORIA. EX-FERROVIÁRIO. PARIDADE COM A REMUNERAÇÃO DO PESSOAL DA ATIVA DA CBTU. NÃO CABIMENTO. AUSÊNCIA DE PREVISÃO LEGAL. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I.Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II.O acórdão recorrido adotou entendimento contrário ao consolidado nesta Corte segundo o qual "a paridade de remuneração entre ativos e inativos terá como referência os valores previstos no plano de cargos e salários da extinta RFFSA, aplicados aos empregados cujos contratos de trabalho foram transferidos para quadro de pessoal especial da VALEC - Engenharia, Construções e Ferrovias S.A., nos termos preconizados no art. 118, § 1º, da Lei n. 10.233/2001" (AgInt no AgInt no REsp 1627535/PE, 2ªT., Rel. Min. Og Fernandes, DJe 29.08.2019).
+III.A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir a decisão recorrida.
+IV.Em regra, descabe a imposição da multa prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015 em razão do mero desprovimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+V. Agravo Interno improvido.
+(AgInt no REsp 1.791.657/PE, Segunda Turma, Rel. Min. REGINA HELENA COSTA, julgado em 31/8/2020, DJe 3/9/2020).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, c/c o art. 255, § 4º, II, do RISTJ e a Súmula 568/STJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
