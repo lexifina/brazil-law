@@ -1,0 +1,19 @@
+Decisão: Trata-se de reclamação constitucional com pedido liminar, ajuizada pelo Município de Bannach, em face de ato do Presidente do Tribunal de Justiça do Estado do Pará, nos autos do Precatório 051/2016 (Processo de origem 0000439-30.2009.814.0047).
+    Na petição inicial, a Municipalidade relata que foi efetivado o sequestro de valores em suas contas bancárias para fins de pagamento do Precatório 51/2016 no valor atualizado de R$ 91.247,53 (noventa e um mil duzentos e quarenta e sete reais e cinquenta e três centavos), fato que ao seu ver ofende o decidido no julgamento da ADPF 405, dado que a penhora efetivada recaiu sobre valores provenientes de receitas vinculadas, de repasses de convênios federais e estaduais, bem como sobre outras verbas com destinação específica.
+    Nesses termos, aduz que “o ato ora reclamado viola o princípio da separação dos poderes, uma vez que no caso em apreço, o juiz auxiliar do setor de precatórios do TJ/PA, sob a chancela da Presidente do Tribunal, ao deferir o pedido de sequestro de forma indiscriminada e sem resguardar a intangibilidade das receitas vinculadas à saúde e à educação (artigos 198, § 2º, III, e 212 da Constituição), bem como os valores recebidos em razão de convênio, acabou por bloquear valores oriundos de recursos de convênios estaduais e federais e outras verbas que possuem destinação específica, as quais não podem ser desviadas sobre qualquer pretexto, ante a falta de discricionariedade do gestor”. (eDOC 1, p. 13)
+    Requer assim a concessão de medida liminar para “SUSPENDER a decisão Reclamada e adotar-se a medida necessária, nos termos do art. 992 do CPC/2015, no sentido de determinar a liberação e o imediato estorno dos valores bloqueados e já transferidos para a subconta judicial vinculada ao Precatório nº 051/2016-TJPA”. (eDOC 1, p. 28)
+    No mérito postula a procedência da reclamação para que seja cassado o ato reclamado.
+    É o relatório. Passo à análise do pedido liminar.
+    Registro, a princípio, que a concessão de medida liminar em reclamação dá-se em caráter excepcional, em razão da configuração do fumus boni iuris e do periculum in mora.
+    Com efeito, é necessária a conjugação dos dois requisitos: fundamento relevante (fumus boni juris) e que o ato apontado como ilícito possa resultar na ineficácia da medida, caso seja apenas concedido o pedido ao final da tramitação da reclamação constitucional (periculum in mora).
+    Na hipótese, verifico a presença de ambos os requisitos a ensejar o deferimento do pleito de urgência, dadas as circunstâncias peculiares do caso concreto, visto constar nos autos a penhora de valores na conta do Município de Bannach para pagamento do Precatório 051/2016, o único devido pela Municipalidade (eDOC 7, p. 1), gerando desbalanceamento das contas (eDOCs 9, 10 e 11) e colocando em risco o provisionamento das verbas direcionadas às áreas de educação e/ou saúde.
+    Ante o exposto, reservando-me o direito a exame mais detido da controvérsia por ocasião do julgamento do mérito, defiro o pedido de liminar para determinar o retorno dos valores bloqueados e transferidos para conta judicial, que sejam oriundos de convênios e repasses federais com destinação específica, bem como suspender qualquer determinação de bloqueio de créditos supostamente existentes até o julgamento do mérito desta reclamação.
+    Solicitem-se informações à autoridade reclamada. (art. 989, I, CPC)
+    Citem-se o beneficiário. (art. 989, III, NCPC)
+    Intime-se o reclamante para que indique o beneficiário do ato impugnado nesta sede reclamatória e forneça o seu endereço, sob pena de extinção do feito (arts. 319, II; 321; e 989, III, do CPC).
+    Após, abra-se vista à Procuradoria-Geral da República. (art. 991, NCPC)
+    Publique-se.
+    Brasília, 17 de agosto de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
