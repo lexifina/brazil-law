@@ -1,0 +1,42 @@
+DECISÃO
+O retrospecto restou bem delineado no parecer exarado pelo MinistérioPúblicoFederal, verbis (fls. 596 - 599):
+"Trata-se de conflito negativo de competência estabelecido entre o Juízo Federal da 1ª Vara Cível e Criminal de Divinópolis - SJ/MG (suscitante) e o Juízo de Direito da 1ª Vara de Formiga/MG (suscitado).
+A questão na origem envolve competência para processar e julgar ação penal proposta pelo Ministério Público em face de Geraldo Magela AntunesCouto e outros pela prática da conduta de desvios de recursos provenientes do Sistema Único de Saúde (artigo 312, caput, por doze vezes e art. 288, caput, ambos do Código Penal).
+Distribuídos os autos ao Juízo de Direito da 1ª Vara de Formiga/MG, o feito tramitava regularmente perante aquele Juízo, quando,às fls. (e-STJ) 260/264, o referido magistrado, suscitou, de ofício, preliminar de incompetência e declinou da competência ao Juízo Federal para apreciar o feito, destacando, em suma, que o dano causado ao Sistema Único de Saúde atrai a competência da União. Nessa linha ponderou o mencionado magistrado às fls. (e-STJ) 260/264:
+"Não obstante as preliminares arguidas pelas defesas, analisando a denúncia de fls. 02d/09d suscito preliminar de ofício consistente naincompetência deste juízo para julgar o presente feito. Isso porque,conforme consta claramente na denúncia, a verba supostamentedesviada pelos acusados pertence ao Sistema Único de Saúde, deinteresse da União, o que atrai a competência para o âmbito daJustiça Federal.
+ ..
+Com base nos dispositivos enfocados e considerando-se que o delito em tela trata-se de dano ao Sistema Único de Saúde, sendo, pois, de interesse da União, forçoso é concluir que a competência para o regular e válido processamento da ação penal na espécie é da Justiça Federal.
+ ..
+Saliento, por fim, que o fato das verbas recorrentes do Sistema Único de Saúde tenham ou não sido incorporadas no patrimônio do ente federativo, não tem o condão de afastar a competência da justiça federal para apreciar a matéria.
+ ..
+Ante o exposto, acolho a preliminar e DECLINO a competência dopresente feito criminal para Justiça Federal."(grifamos).
+Irresignado, o Ministério Público interpôs recurso em sentido estrito contra a referida decisão, mas o Tribunal de Justiça do Estado de Minas Gerais negou provimento ao recurso, mantendo a decisão declinatória, conforme ementa de fls. (e-STJ) 328:
+"EMENTA: RECURSO EM SENTIDO ESTRITO ACUSATÓRIO - PECULATO E ASSOCIAÇÃO CRIMINOSA -VERBAS DO SISTEMA ÚNICO DE SAÚDE -INTELIGÊNCIA DO ART. 109, I, DA CF/88, C/C SÚMULAS 208 E 209 DOSTJ - COMPETÊNCIA DA JUSTIÇA FEDERAL - PRECEDENTES SUPERIORES. - Compete à Justiça Federal o processamento de crime praticado em sede municipal contra verba oriunda do Sistema Único de Saúde, uma vez evidenciado o interesse da União na correta aplicação daqueles recursos".
+O mencionado acórdão transitou em julgado, tendo sido determinado,por conseguinte, a remessa dos autos à Justiça Federal competente, fls. (e-STJ) 352.
+Todavia, remetidos os autos ao Juízo Federal da 1ª Vara Cível e Criminal de Divinópolis - SJ/MG, este suscitou o presente conflito, reconhecendo a incompetência da justiça federal.
+Alega o magistrado que, no presente caso, "não há qualquer referência nos autos de que as verbas desviadas fossem originárias da União". Além disso, o referido Juiz destaca que "os recursos repassados à Santa Casa de Caridade de Formiga seriam fiscalizados pelo município de Divinópolis/MG, por intermédio da Secretaria Municipal de Saúde, o qual também receberia os relatórios de prestação de contas", não havendo qualquer menção nos autos de fiscalização por partes deentidades federais a fim de atrair a competência do juízo federal. (..)"
+O Ministério Público Federal, manifestou-se pela competência do Juízo de Direito da 1ª Vara de Formiga/MG, o suscitado, consoante ementa a seguir transcrita (fls. 598):
+"PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIMES PREVISTOS NOS ARTS. 312 E 288, DO CÓDIGO PENAL. INEXISTÊNCIA DE INDÍCIOS DE QUE AS VERBAS DESVIADAS SERIAM ORIGINÁRIAS DA UNIÃO OU FISCALIZADAS POR ÓRGÃOS DA UNIÃO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. CONHECIMENTO DO CONFLITO PARA DECLARAR COMPETENTE O JUÍZO SUSCITADO."
+É o relatório.
+Decido.
+Razão assiste ao Juízo Suscitante.
+Conformeparecer do Ministério Público Federal (fls. 598 - 616):
+"(..)
+No tocante ao mérito propriamente dito do conflito, verifica-se que assiste razão ao Juízo suscitante, cabendo ao Juízo de Direito da 1ª Vara de Formiga/MG (suscitado)a competência para apreciar a ação penal em questão, tendo em vista que não se vislumbra, nas infrações penais imputadas na denúncia, ofensa direta a bens, serviços ou interesses da União, nos termos exigidos pelo art.109, IV, da Constituição da República, para atrair a competência para o Juízo federal.
+Na espécie, como bem ponderou o Juízo suscitante, "não há nos autos referências concretas ao envolvimento de verbas federais no caso em tela, caso em que a fiscalização dos recursos financeiros incumbe ao município ou ao Estado de Minas Gerais".
+Com efeito, para que a competência para o julgamento de infrações penais seja atraída para a justiça federal é preciso que a conduta delitiva afete concreta e diretamente bens, serviços ou interesses da União, de suas entidades autárquicas ou empresas públicas, o que não teria ocorrido no presente caso.
+Realmente, no caso em comento, como apontou o Juízo suscitante, os recursos transferidos seriam de origem municipal, além disso, a responsabilidade pela fiscalização, acompanhamento e prestação de contas também seriam do município. (..)"
+In casu, não está configurada, portanto, inequivocamente, a efetiva lesão a bens, serviços ou interesses da União, razão pela qual deve ser reconhecida a competência doJuízo de Direito da 1ª Vara de Formiga/MG, para processamento do feito.
+Sobre o tema, assim já se manifestou esta eg. Corte:
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. PENAL E PROCESSO PENAL. FRAUDE EM LICITAÇÃO E DESVIO DE RECURSO PÚBLICO MUNICIPAL.INEXISTÊNCIA DE INDÍCIOS DE QUE OS FATOS INVESTIGADOS NAS AÇÕES PENAIS POSSUEM VINCULAÇÃO COM VERBAS FEDERAIS. COMPETÊNCIA DA JUSTIÇA ESTADUAL. PRECEDENTES. AGRAVO REGIMENTAL IMPROVIDO.
+1. A inicial acusatória narra delitos relacionados à prática de fraudes em licitações e desvios de recursos municipais, não se verificando, neste momento processual, a vinculação com verbas federais.
+2. A inexistência de indícios de fluxo de valores entre as empresas objeto das ações penais e as empresas contratadas com recursos federais, assim como a ausência de indicativos de conexão entre tais fatos, impedem a fixação da competência da Justiça Federal.
+3. Agravo regimental improvido.(AgRg no CC 151.623/BA, Terceira Seção, Rel. Ministro Nefi Cordeiro,julgado em 11/10/2017, DJe 18/10/2017)
+"PROCESSUAL PENAL. CONFLITO NEGATIVO DE COMPETÊNCIA. CRIME PREVISTO NO ART. 288, 312 E 299, DO CÓDIGO PENAL E ART. 1º E 2º DA LEI Nº 9.613/98. MALVERSAÇÃO DE VERBAS DO CONSÓRCIO INTERMUNICIPAL DE SAÚDE - CISA. RECURSOS ORIUNDOS DOS MUNICÍPIOS CONSORCIADOS. AUSÊNCIA DE DEMONSTRAÇÃO DE RECURSOS DO SUS. COMPETÊNCIA DO JUÍZO SUSCITADO.
+1. A competência da Justiça Federal para julgamento de infrações penais, nos termos do art. 109, IV, da Constituição Federal, está configurada quando a conduta criminosa afeta bens, serviços ou interesses da União, de suas entidades autárquicas ou empresas públicas.
+2. Na hipótese dos autos, não restou constatada a aplicação de verbas federais no fundo gerido pelo Consórcio Intermunicipal de Saúde - CISA, inexistindo, inclusive na regra estatutária do consórcio, qualquer previsão acerca de repasses de valores de verbas que componham o Sistema Único de Saúde - SUS, afetando, dessa forma, apenas interesses do Consórcio Intermunicipal e do próprio Município de Crissiuma/RS.
+3. Declarada a competência do juízo suscitado."(CC 141.391/RS, Terceira Seção, Rel. Ministro Nefi Cordeiro, julgado em 23/09/2015, DJe 02/10/2015)
+Diante de tais considerações, conheço do presente conflito, e declaro competente para processo e julgamento do feito o Juízo de Direito da 1ª Vara de Formiga/MG, o suscitado.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. CRIMES PREVISTOS NOS ARTIGOS 312 E 288 DO CÓDIGO PENAL.INEXISTÊNCIA DE INDÍCIOS DE QUE AS VERBAS DESVIADAS SERIAM ORIGINÁRIAS DA UNIÃO OU FISCALIZADAS POR ÓRGÃOS DA UNIÃO.AUSÊNCIA DE EFETIVA LESÃO A BENS, SERVIÇOS OU INTERESSES DA UNIÃO.COMPETÊNCIA DA JUSTIÇA ESTADUAL.
