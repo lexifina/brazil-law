@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por VIAÇÃO SANTA TEREZA DE CAXIAS DO SUL LTDA.contra decisão que inadmitiu recurso especial fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal. O apelo nobre insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"APELAÇÃO CÍVEL. RESPONSABILIDADE CIVIL EM ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E ESTÉTICOS. TRANSPORTE DE PESSOAS. LESÃO DENTRO DO COLETIVO. QUEBRA-MOLAS. MAJORAÇÃO DO DANO MORAL. INCIDÊNCIA DE JUROS. DEDUÇÃO DO SEGURO DPVAT. O contrato de transporte de pessoas é regulado pelos artigos 734 e seguintes do Código Civil. Entre tais disposições, há a previsão de responsabilidade do transportador pelos danos ocasionados aos transportados durante o percurso (cláusula de incolumidade). Demonstrado nos autos que a autora sofreu violação de sua integridade física enquanto estava sendo transportada pela empresa ré, resta assente o dever de indenizar. Inegável a ocorrência dos danos morais e estéticos, pois a autora teve sua integridade física violada em razão do acidente, vindo a fraturar a coluna, sendo submetida à cirurgia e fisioterapia, restando limitada de várias atividades do dia a dia de dona de casa, além de restar com cicatriz no local da cirurgia. Quantum indenizatório fixado em R$ 5.000,00 20.000,00, que comporta majoração para R$ diante das circunstâncias do caso concreto e dos parâmetros adotados por este Colegiado em casos análogos. Correção monetária a contar da data do presente acórdão, nos termos da Súmula n. 362 do STJ e juros moratórios de 1% ao mês a contar do evento danoso, nos termos da Súmula n. 54 do STJ. A indenização do valor percebido do seguro DPVAT deve ser abatido da indenização judicialmente fixada. Súmula n. 246 do STJ. Ônus sucumbenciais mantidos.
+APELO DA AUTORA PROVIDO. APELO DA RÉ PARCIALMENTE PROVIDO. UNÂNIME" (fl. 268e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente alega violação dos arts. 734, 944 e 945 do Código Civil, 14 § 2º, do Código de Defesa do Consumidor e 85 do Código de Processo Civil de 2015. Sustenta, em síntese: i) negativa de prestação jurisdicional; ii) inexistência do dever de indenizar devido à culpa exclusiva da vítima eiii) que o valor indenizatório o e percentual dos honorários advocatícios devem ser reduzidos.
+Contrarrazões (e-STJ fls. 352-365), o recurso foi inadmitido na origem em exame de prelibação, motivo pelo qual adveio o presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial, que, todavia, não merece prosperar.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+De início, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese. Não há falar, portanto, em negativa de prestação jurisdicional apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+No que se refere à comprovação da existência de conduta danosa, valor do dano e honorários advocatícios, ao que se tem, o Tribunal de origem decidiu a questão a partir do exame das circunstâncias probatórias dos autos, como se vê do seguinte trecho do acórdão recorrido:
+No caso, resta incontroverso que a autora foi arremessada para cima com o impacto do quebra-molas e caiu sobre banco feito de material rígido, batendo violentamente, ocasionando fratura na coluna.
+Com efeito, as testemunhas confirmaram que a autora sofreu lesão no interior do coletivo, quando o veículo passou por um quebra-molas.
+Assim, demonstrado nos autos que a autora sofreu violação de sua integridade física enquanto estava sendo transportada pela empresa ré, resta assente o dever de indenizar.
+Acrescento que as alegações da demandada no que diz respeito aos cuidados da autora, que optou por não sentar em assento apropriado para idosos, não merecem acolhida, pois na época do fato a demandante tinha 59 anos (fl. 23), sendo "dispensada", portanto, da utilização de tais assentos especiais.
+No que tange à indenização por danos morais, essa Câmara tem entendido por fixá-la quando há lesão à integridade física da vítima do acidente.
+Com efeito, em razão do acidente, a autora fraturou coluna, que foi motivo de cirurgia e fisioterapia, tendo a recuperação perdurado por vários meses.
+Ademais, segundo o atestado, além de necessitar de acompanhamento pós-cirúrgico, a demandante restou com limitação funcional para realizar atividades por tempo indeterminado (fl. 35).
+Ainda, foram verificadas sequelas definitivas em razão do acidente, como constatou o laudo pericial, verbis:
+(..)
+O dano estético também pode ser verificado pelas fotografias das fls. 39/42, no qual se verifica a presença de cicatriz decorrente da cirurgia, a qual inegavelmente compromete a estética.
+No que se refere ao quantum indenizatório, tenho que comporta majoração.
+Segundo os documentos que acompanham a inicial, a autora teve fratura na coluna - r vértebra lombar, o que levou à necessidade de procedimento cirúrgico e fisioterapia complementar que perdurou por 12 meses com acompanhamento médico, restando com sequelas definitivas, déficit funcional parcial e permanente, conforme trecho do laudo transcrito, corroborando com o demonstrado nas fotografias de fls. 39/42.
+Salienta-se que a fixação da verba indenizatória deve atentar para a condição econômica da vítima e do ofensor, o grau de culpa, a extensão do dano e a finalidade da sanção reparatória.
+E, neste ponto, a quantia fixada na origem, R$ 5.000,00, não se mostrou adequada, comportando majoração para R$ 20.000,00, quantia esta que fica dentro dos parâmetros adotados por este Colegiado em casos análogos" (fls. 273-278 e-STJ).
+Desse modo, rever tais conclusões demandaria o reexame de matéria fático-probatória, o que é inviável em sede de recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça ("A pretensão de simples reexame de prova não enseja recurso especial".)
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial para negar-lhe provimento.
+Deixa-se de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), tendo em vista que já foi fixado no percentual máximo.
+Publique-se.
+Intimem-se.
