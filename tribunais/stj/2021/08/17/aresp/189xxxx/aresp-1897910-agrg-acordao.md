@@ -1,0 +1,39 @@
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. DEDICAÇÃO DO ACUSADO ÀS ATIVIDADES CRIMINOSAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Na hipótese em análise, as instâncias de origem concluíram que o agravante não faz jus à benesse do tráfico privilegiado, porquanto verificou-se que ele foi flagrado portando armas de fogo e planejando o extermínio de desafeto relacionado a dívidas de drogas, estando bastante embrenhado na criminalidade, realizando intensa disseminação de drogas, aliadas à quantidade de entorpecente apreendido (447,917g de maconha), o que evidencia a dedicação desse a atividades criminosas. Assim, para se acolher a tese de que o agravante não se dedica a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por MARCOS ARAÚJO GODINHO (e-STJ fls. 554/561) contra decisão monocrática de e-STJ fls. 548/550, que conheceu do agravo para não conhecer do seu recurso especial.
+A parte agravante alega a incidência do benefício do art. 33, § 4º, da Lei n. 11.343/2006, sob o argumento de que o acusado é primário, de bons antecedentes, e que não há nos autos prova de que se dedique a atividades criminosas ou integre organização criminosa.
+Requer, assim, a reconsideração da decisão agravada.
+É o relatório.
+EMENTA
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO. INCIDÊNCIA DO BENEFÍCIO DO ART. 33, §4º, DA LEI Nº 11.343/06. DEDICAÇÃO DO ACUSADO ÀS ATIVIDADES CRIMINOSAS. SÚMULA 7/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Para aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+2. Na hipótese em análise, as instâncias de origem concluíram que o agravante não faz jus à benesse do tráfico privilegiado, porquanto verificou-se que ele foi flagrado portando armas de fogo e planejando o extermínio de desafeto relacionado a dívidas de drogas, estando bastante embrenhado na criminalidade, realizando intensa disseminação de drogas, aliadas à quantidade de entorpecente apreendido (447,917g de maconha), o que evidencia a dedicação desse a atividades criminosas. Assim, para se acolher a tese de que o agravante não se dedica a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula 7/STJ.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+No que tange à pretensão de incidência do patamar máximo da causa especial de diminuição de pena do art. 33, § 4º, da Lei n. 11.343/2006, é sabido que o legislador, ao editar o mencionado diploma legal, objetivou dar tratamento diferenciado ao traficante ocasional, ou seja, àquele que não faz do tráfico o seu meio de vida, por merecer menor reprovabilidade e, consequentemente, tratamento mais benéfico do que o conferido ao traficante habitual.
+Para aplicação da referida minorante, o condenado deve preencher, cumulativamente, todos os requisitos legais, quais sejam, ser primário, de bons antecedentes, não se dedicar a atividades criminosas nem integrar organização criminosa, podendo a reprimenda ser reduzida de 1/6 (um sexto) a 2/3 (dois terços), a depender das circunstâncias do caso concreto.
+Na espécie, o juízo sentenciante, ao decidir pela não incidência da privilegiadora, consignou (e-STJ fl. 281/282):
+Por fim, vejo que a situação em que se deu a prisão do acusado, apesar de ser ele tecnicamente primário, ter bons antecedentes, não responder a outras ações penais e nem integrar organização criminosa, não ser apta a aplicação do redutor previsto no art. 33, §4º, da Lei nº 11.343/06.
+É que da análise do relatório policial (fls. 91/118), infere-se que ele foi flagrado portando armas de fogo e planejando o extermínio de desafeto relacionado a dívidas de drogas e que ele está bastante embrenhado na criminalidade, sendo, portanto, forçoso reconhecer a sua periculosidade.
+Além do mais, depreende-se que o denunciado mantém contato com supostos fornecedores e usuários de drogas, fato que contribui para uma intensa disseminação de drogas em meio a sociedade pirenopolina.
+Assim, diante da presença destas circunstâncias, uma maior rigidez na aplicação da pena ao acusado é medida impositiva, pois essas circunstâncias afastam completamente a aplicação do redutor previsto no artigo 33, § 4º, da Lei nº 11.343/06, o qual exige a incidência cumulada de todos os requisitos e a situação dos autos revelou que não é fato isolado na vida do réu.
+Por sua vez, a Corte de origem manteve o referido afastamento, conforme trecho abaixo (e-STJ fl. 453):
+Finalmente, considerando que restou eficazmente comprovado que o apelado se dedica a atividades criminosas (Relatório Policial de fls. 91/118), não faz jus ao benefício previsto no § 40 do artigo 33 da Lei de Drogas, conforme muito bem decidido na instância singela.
+Colhe-se das transcrições acima que, na hipótese vertente, as instâncias de origem concluíram que o agravante não faz jus à benesse do tráfico privilegiado, porquanto verificou-se que ele foi flagrado portando armas de fogo e planejando o extermínio de desafeto relacionado a dívidas de drogas, estando bastante embrenhado na criminalidade, realizando intensa disseminação de drogas, aliadas à quantidade de entorpecente apreendido (447,917g de maconha), evidenciando a dedicação desse a atividades criminosas.
+Assim, para se acolher a tese de que o agravante não se dedica a atividade criminosa, para fazer incidir o art. 33, § 4º, da Lei n. 11.343/2006, como requer a parte recorrente, imprescindível o reexame das provas, procedimento sabidamente inviável na instância especial. Inafastável a incidência da Súmula 7/STJ.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
