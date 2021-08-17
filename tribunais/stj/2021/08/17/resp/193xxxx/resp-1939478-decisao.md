@@ -1,0 +1,65 @@
+DECISÃO
+Vistos.
+Trata-se de RecursoEspecial interposto pelo ESTADO DO AMAZONASe Recurso Especial adesivo interposto por VALDENEIDE SOUZA DE OLIVEIRAcontra acórdão prolatado, por unanimidade, pela 3ª Câmara Cível do Tribunal de Justiça do Estado do Amazonas no julgamento de apelação, assim ementado (fls. 186/187e):
+EMENTA: DIREITO PROCESSUAL CIVIL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. ÔNUS DA PROVA. AUSÊNCIA DE COMPROVAÇÃO DAS PARCELAS SALARIAIS EM ATRASO. INADIMPLEMENTO ABSOLUTO. CONFIGURAÇÃO. DANO MORAL. POSSIBILIDADE. DECISÃO VERGASTADA MANTIDA.
+I - A sentença possui argumentos baseados em jurisprudência dos Tribunais Superiores e artigos da Norma Fundamental de 1988, até mesmo para arbitrar o dano moral, uma vez que estes devem ser fixados pelo Magistrado fazendo uso de todas as fontes do direito, notadamente, leis, doutrinas, jurisprudências, analogias, costumes e princípios gerais de direito, fixando equitativamente o abalo moral sofrido, portanto, rejeito a preliminar arguida;
+II - O dano moral restou evidenciado, visto que a ação dos policiais não se enquadra em nenhuma das excludentes de ilicitude, portanto, o Estado responde objetivamente pelos danos causados por seus agentes a terceiro, conforme artigo 37, §6. 0 da CF/88;
+III - O quantum debeatur a título de indenização por danos morais estipulado em R$250.000,00 encontra-se exacerbado, haja vista as circunstâncias do caso e o interesse jurídico, portanto, atendendo aos princípios da razoabilidade e proporcionalidade fixo em R$150.000,00 (cento e cinquenta mil reais);
+IV - Inexiste sucumbência recíproca, quando apenas o valor a título de dano moral não fora dado por inteiro, consoante Súmula 326 do STJ;
+V - Apelações conhecidas, a primeira provida parcialmente e a adesiva improvida.
+Opostos embargos de declaração, foram parcialmente acolhidos (fls. 332/350e), consoante fundamentos resumidos na seguinte ementa (fls. 332/350e):
+EMENTA: PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. INEXISTÊNCIA DE OMISSÕES. TESES JÁ AFASTADAS PELO DECISUM VERGASTADO. REDISCUSSÃO DO MÉRITO. OMISSÕES APENAS QUANTO AO ARTIGO 1.º - F DA LEI N. 9.494/97 E ARTIGO 20, § 4.º DO CPC. EMBARGOS PROVIDOS PARCIALMENTE APENAS COM EFEITOS INTEGRATIVOS.
+I - Para o acolhimento dos Embargos de Declaração é indispensável a existência de um dos vícios insertados no art. 535 do CPC, descabendo o acolhimento de Aclaratórios que não comprovam, remarque-se, qualquer uma das falhas ensejadoras da admissão;
+II - Inviável a utilização dos Aclaratórios, sob a alegação de pretensas omissões quando o que se almeja é, em verdade, reapreciar o julgado, objetivando a alteração do conteúdo meritório da decisão embargada;
+III - Inaplicável, portanto, o artigo 1º - F da Lei n. 9.494/97 quando se tratar de responsabilidade extracontratual, ademais o artigo 20, §4º do Código de Ritos fora respeitado, uma vez que a sentença já traz valor fixo de 10% de honorários de advogado sobre o valor da condenação apreciado equitativamente. Precedentes do STJ.;
+IV - Embargos de Declaração acolhidos parcialmente apenas com efeitos integrativos.
+Com amparo no art. 105, III, a, da Constituição da República, o Estado do Amazonas apontaofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Art. 944 do Código Civil - "(..) o dano moral, quando devido, não se presta ao enriquecimento injusto do ofendido, mas tão-somente deve representar apenas uma satisfação do dano sofrido, e na exata medida do efetivo e comprovado sofrimento, pelo que se requer provimento do presente recurso de modo a fixar, em patamares razoáveis, a indenização por danos morais, em observância o art. 944 do CC/02" (fl. 1.235e).
+e
+Com amparo no art. 105, III, a, da Constituição da República, aponta Valdeneide Souza de Oliveiraofensa aos dispositivos a seguir relacionados, alegando-se, em síntese, que:
+Considerando o caráter dúplice da reparação, e para que esta venha a atingir os seus fins, e levando ainda em consideração a função estatal de restabelecimento do equilíbrio do meio social, abalado pela repercussão do evento danoso, requer a recorrente a reforma da sentença de primeira instância, com a condenação do recorrido, pelos danos morais, em um valor arbitrado de modo que a indenização seja fixada no quantum indicativo de R$ 500.000,00, servindo de aviso ao recorrido e à sociedade, como um todo, de que o nosso direito não tolera aquela conduta danosa impunemente, devendo a condenação atingir efetivamente, de modo muito significativo, o patrimônio do causador do dano, para que assim o Estado possa demonstrar que o Direito existe para ser cumprido.
+Com contrarrazões (fls. 1.238e e 1.252/1.256e), o recurso foi admitido (fl. 1.257/1.258e).
+O Ministério Público Federal manifestou-se às fls. 1.271/1.276e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, a, e 255, I, ambos do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Em que pesem as alegações trazidas, os argumentos apresentados são insuficientes para desconstituir o acórdão recorrido, no qual foi reduzido o montante arbitrado a título de danos morais, consoante trecho que ora transcrevo (fls. 193/198e):
+Urge destacar que o montante de R$250.000,00 (duzentos e cinco mil reais) a título de indenização por danos morais fora questionado por ambas as partes, merecendo apreciação detalhada, a priori recorda-se que o Superior Tribunal de Justiça traz em seus julgados alguns critérios para serem adotados para a fixação do valor referente ao dano moral, confira-se:
+(..)
+De acordo com o caráter do dano moral pedagógico e compensatório é suficiente o valor de R$150.000,00 (cento e cinquenta mil reais) a fim de cumprir os critérios da Corte Cidadã. 02.15. No que diz respeito aos ônus de sucumbência não se enquadra na hipótese do artigo 21 do Código de Processo Civil, uma vez que está amparado na Súmula 326 do STJ:
+(..)
+Forte nessas razões, em consonância com o entendimento firmado pelo Graduado Órgão Ministerial (fls. 163/173), conheço e dou parcial provimento à presente Apelação Cível principal a fim de somente reduzir o valor do quantum indenizatório para R$150.000,00 (cento e cinquenta mil reais), porém conheço provimento à Apelação Cível adesiva.
+A jurisprudência desta Corte firmou-se no sentido de que somente é cabível a revisão do valor fixado a título de danos morais quando exorbitante ou ínfimo.
+No caso, como não houve excesso ou valor irrisório, haja vista a gravidade e a magnitude da situação, torna-se inviável a análise da questão sem que se proceda ao reexame do contexto fático-probatório dos autos, o que atrai o óbice da Súmula 7/STJ.
+Nesse sentido:
+ADMINISTRATIVO E CIVIL. AGRAVO REGIMENTAL. RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. PRISÃO ILEGAL. DANO MORAL. QUANTIFICAÇÃO DO DANO MORAL. INEXISTÊNCIA DE EXORBITÂNCIA OU IRRISORIEDADE. NECESSIDADE DE REEXAME DO CONTEXTO FÁTICO E PROBATÓRIO. SÚMULA Nº 7 DO STJ.
+1. No que concerne ao valor arbitrado a título de danos morais, a jurisprudência do Superior Tribunal de Justiça consolidou o entendimento no sentido de que somente pode ser revisto excepcionalmente, quando irrisório ou exorbitante, em afronta aos princípios da razoabilidade e da proporcionalidade, sob pena de ofensa ao disposto na Súmula 7 desta Corte.
+2. No caso, o Tribunal a quo manteve o valor de R$ 50.000,00 (cinquenta mil reais) a título de reparação por danos morais, em razão de erro judicial que resultou em prisão preventiva que perdurou por onze meses, quantum este que merece ser mantido. Conclusão em contrário esbarraria no óbice da citada Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp 1.397.288/AC, Rel. Ministra MARGA TESSLER - JUÍZA FEDERAL CONVOCADA DO TRF 4ª REGIÃO, PRIMEIRA TURMA, julgado em 26/05/2015, DJe 05/06/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO ESTADO. DANOS MORAIS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. REEXAME DO CONJUNTO FÁTICO E PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A jurisprudência do STJ admite a revisão do quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando configurada situação de anormalidade nos valores, sendo estes irrisórios ou exorbitantes.
+2. Na hipótese em questão, foi com base nas provas e nos fatos constantes dos autos que o Tribunal de origem entendeu que é justo o valor de R$ 25.000,00 (vinte e cinco mil reais), arbitrado a título de indenização por danos morais, em decorrência de prisão ilegal.
+Desta forma, a acolhida da pretensão recursal demanda prévio reexame do conjunto fático-probatório dos autos, o que é vedado ante o óbice preconizado na Súmula 7/STJ.
+3. Agravo regimental não provido.
+(AgRg no AREsp 677.188/CE, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 21/05/2015, DJe 27/05/2015).
+Por sua vez, ainadmissibilidade do recurso principal impede o conhecimento do adesivo, nos termos do art. 500 do Código de Processo Civil.
+No mesmo sentido:
+AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DESISTÊNCIA PELO AGRAVANTE. RECURSO ADESIVO. SUBORDINAÇÃO AO RECURSO PRINCIPAL (ART. 500, III, DO CPC). NÃO CONHECIMENTO.
+1. Desistência pelo agravante do agravo em recurso especial principal.
+2. Subordinação do recurso adesivo ao principal, nos termos do art. 500, III, do Código de Processo Civil.
+3. Precedentes do STJ.
+4. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no AREsp 205.955/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 10/09/2013, DJe 12/09/2013).
+PROCESSUAL CIVIL. EXECUÇÃO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. AÇÃO COLETIVA. CUMULAÇÃO DE HONORÁRIOS NA EXECUÇÃO E NOS EMBARGOS. POSSIBILIDADE. LIMITAÇÃO AO PERCENTUAL DE 20%. RECURSO ESPECIAL PRINCIPAL INADMITIDO. RECURSO ADESIVO. SUBORDINAÇÃO AO RECURSO PRINCIPAL (ART. 500, III, DO CPC). PRECEDENTES.
+1. Nos casos de procedência parcial ou integral dos embargos à execução, a verba honorária deverá ser fixada levando-se em consideração o grau de sucumbência verificado em cada um dos processos. Logo, caberá ao magistrado originário fixar a verba honorária, em obediência ao art. 20, § 3º, do CPC.
+2. A inadmissibilidade do apelo principal obsta que se conheça do recurso adesivo, em conformidade com a norma do art. 500 do CPC. Agravo regimental improvido.
+(AgRg no REsp 1439167/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 06/05/2014, DJe 13/05/2014).
+No que tange aos honorários advocatícios, da conjugação dos Enunciados Administrativos ns. 3 e 7, editados em 09.03.2016 pelo Plenário desta Corte, depreende-se que as novas regras relativas ao tema, previstas no art. 85 do Código de Processo Civil de 2015, serão aplicadas apenas aos recursos sujeitos à novel legislação, tanto nas hipóteses em que o novo julgamento da lide gerar a necessidade de fixação ou modificação dos ônus da sucumbência anteriormente distribuídos quanto em relação aos honorários recursais (§ 11).
+Ademais, vislumbrando o nítido propósito de desestimular a interposição de recurso infundado pela parte vencida, entendo que a fixação de honorários recursais em favor do patrono da parte recorrida está adstrita às hipóteses de não conhecimento ou de improvimento do recurso.
+Quanto ao momento em que deva ocorrer o arbitramento dos honorários recursais (art. 85, § 11, do CPC/2015), afigura-se-me acertado o entendimento segundo o qual incidem apenas quando esta Corte julga, pela vez primeira, o recurso, sujeito ao Código de Processo Civil de 2015, que inaugure o grau recursal, revelando-se indevida sua fixação em agravo interno e embargos de declaração.
+Registre-se que a possibilidade de fixação de honorários recursais está condicionada à existência de imposição de verba honorária pelas instâncias ordinárias, revelando-se vedada aquela quando esta não houver sido imposta.
+Na aferição do montante a ser arbitrado a título de honorários recursais, deverão ser considerados o trabalho desenvolvido pelo patrono da parte recorrida e os requisitos previstos nos §§ 2º a 10 do art. 85 do estatuto processual civil de 2015, sendo desnecessária a apresentação de contrarrazões (v.g. STF, Pleno, AO 2.063 AgR/CE, Rel. Min. Marco Aurélio, Redator para o acórdão Min. Luiz Fux, j. 18/05/2017), embora tal elemento possa influir na sua quantificação.
+Assim, nos termos do art. 85, §§ 2º e 11, de rigor a majoração, em 10% (dez por cento), dos honorários anteriormente fixados (fl. 94e).
+Posto isso, com fundamento nos arts. 932, III, do Código de Processo Civil de 2015 e 34, XVIII, a, e 255, I, ambos do RISTJ, NÃO CONHEÇO dos Recursos Especiais
+Publique-se e intimem-se.
