@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, sendo suscitante FERTIMIG FERTILIZANTES LTDA. - EM RECUPERAÇÃO JUDICIAL, tendo como suscitados o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE RONDONÓPOLIS - MT e o JUÍZO FEDERALDA 1ª VARA CÍVEL E CRIMINAL DE RONDONÓPOLIS - MT.
+A suscitante alega que, em 31/7/2017, pleiteou junto ao primeiro suscitado os benefícios da recuperação judicial (processo nº 1006062-57.2017.8.11.0003), nos termos da Lei nº 11.101/2005, cujo processamento foi deferido em decisão datada de 4/9/2017. Informa que o plano de recuperação judicial foi apresentado, aprovado em assembleia geral de credores e se encontra aguardando a devida homologação.
+Sustenta que, a despeito do deferimento do pedido, o segundo juízo suscitado, no cumprimento de sentença da ação monitória proposta pela Caixa Econômica Federal (nº10000025-59.2018.4.01.3602), determinou que a suscitante pagasse o débito consolidado, o que culminou no bloqueio de R$ 285.906,29 (duzentos e oitenta e cinco mil, novecentos e seis reais e vinte e nove centavos) das suas contas bancárias.
+A suscitante defende que
+"O entendimento do Juízo da Execução está equivocado na medida em que não lhe caberia agir de modo a prejudicar o processo de recuperação judicial da suscitante e sim determinar o sobrestamento de atos que importem na expropriação e bloqueio de seus bens, visto que todo o patrimônio dela está focado na manutenção da sua atividade econômica, no seu soerguimento, principalmente, no pagamento de seus fornecedores e empregados" (fl. 5 e-STJ).
+Aduz que o montante buscado na monitória é anterior ao pedido de recuperação.
+Nesse contexto, requer a concessão de liminar
+"para que seja determinada a suspensão do cumprimento de sentença nº. 1000025-59.2018.4.01.3602, bem como a liberação do numerário bloqueado nas contas bancárias da suscitante, além de ser designado o Juízo da 4ª Vara Cível de Rondonópolis/MT para resolver, em caráter provisório, as medidas urgentes (art. 955 do NCPC e 196 RI/STJ)" (fls. 16 e-STJ).
+Ao final, pugna pelo conhecimento do conflito com a declaração de competência do juízo recuperacional para a realização de atos que impliquem em restrição patrimonial da empresa.
+Na decisão de fls. 315/318 (e-STJ), foi parcialmente deferido o pedido de liminar.
+O Juízo recuperacional, às fls. 327/329 (e-STJ), atendendo solicitação, informou que, em 7/5/2021, homologou o plano e concedeu a recuperação da suscitante.
+O Juízo no qual se processa a monitóriainformou, às fls. 322/347 (e-STJ), que somente tomou ciência da recuperação judicial em comento após a suscitação do presente conflito de competência, tendo dado imediato cumprimento à decisão liminar.
+O Ministério Público Federal, em seu parecer (fls. 348/351 e-STJ), opinou pela declaração de competência do Juízo da recuperação judicial.
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Cumpre ressaltar que o tema não é novo nesta Corte, que já firmou entendimento no sentido de que, após o deferimento da recuperação, devem ser submetidos ao crivo do Juízo de falências e recuperação judicial os atos constritivos incidentes sobre o patrimônio das empresas recuperandas.
+Nesse sentido:
+"AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA - RECUPERAÇÃO JUDICIAL - EXECUÇÃO INDIVIDUAL - APÓLICE DE SEGURO - COMPETÊNCIA DO JUÍZO FALIMENTAR - PRECEDENTES DO STJ. INSURGÊNCIA DA INTERESSADA.
+1. O Juízo universal é o competente para a execução dos créditos apurados nas ações individuais propostas em face de empresa submetida à recuperação judicial. Precedentes.
+1.1. A execução da apólice de seguro pretendida pela ora agravante não pode ocorrer sem o crivo do juízo do soerguimento, a quem compete zelar pelo bom andamento do feito recuperacional, à luz dos princípios da preservação da empresa e da pars conditio crediturum.
+Precedentes.
+2. Agravo interno desprovido"(AgInt no CC 161.236/RJ, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 15/6/2021, DJe 17/6/2021).
+"AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. CONSTRIÇÃO INDIRETA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n.
+7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. Declarada a incompetência do Juízo laboral para prosseguir com a execução e reconhecida a competência do Juízo da recuperação, caso seja de seu interesse, incumbe ao credor-exequente diligenciar junto a este, no intento de satisfazer e viabilizar sua pretensão executória.
+4. Agravo interno não provido"(PET no CC 175.484/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/4/2021, DJe 20/4/2021).
+"CONFLITO DE COMPETÊNCIA. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. CARÁTER INFRINGENTE. AUSÊNCIA DE OMISSÃO. JUÍZO DA RECUPERAÇÃO JUDICIAL E JUÍZO TRABALHISTA. LEI N. 11.101/05. PRESERVAÇÃO DOS INTERESSES DOS DEMAIS CREDORES. MANUTENÇÃO DA ATIVIDADE ECONÔMICA. FUNÇÃO SOCIAL DA EMPRESA. INCOMPATIBILIDADE ENTRE O CUMPRIMENTO DO PLANO DE RECUPERAÇÃO E A MANUTENÇÃO DE AÇÕES INDIVIDUAIS. COMPETÊNCIA DO JUÍZO UNIVERSAL. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. A controvérsia posta nos autos encontra-se sedimentada no âmbito da Segunda Seção desta Corte, que reconhece ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, relativa a fatos anteriores ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação. Precedentes.
+3. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento"(EDcl no CC nº 129.226/SP, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 23/04/2014, DJe 28/04/2014).
+"CONFLITO DE COMPETÊNCIA. JUÍZO DA EXECUÇÃO FISCAL E JUÍZO DA VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS. EMPRESA SUSCITANTE EM RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO FALIMENTAR PARA TODOS OS ATOS QUE IMPLIQUEM RESTRIÇÃO PATRIMONIAL.
+1. As execuções fiscais ajuizadas em face da empresa em recuperação judicial não se suspenderão em virtude do deferimento do processamento da recuperação judicial, ou seja, a concessão da recuperação judicial para a empresa em crise econômico-financeira não tem qualquer influência na cobrança judicial dos tributos por ela devidos.
+2. Embora a execução fiscal, em si, não se suspenda, são vedados atos judiciais que reduzam o patrimônio da empresa em recuperação judicial, enquanto for mantida essa condição. Isso porque a interpretação literal do art. 6º, § 7º, da Lei 11.101/05 inibiria o cumprimento do plano de recuperação judicial previamente aprovado e homologado, tendo em vista o prosseguimento dos atos de constrição do patrimônio da empresa em dificuldades financeiras. Precedentes.
+3. Conflito conhecido para declarar a competência do JUÍZO DA JUÍZO DA VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO DISTRITO FEDERAL para todos os atos que impliquem em restrição patrimonial da empresa suscitante"(CC 116.213/DF, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 28/9/2011, DJe 5/10/2011).
+"PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUIZADO ESPECIAL CÍVEL. PROCESSO DE RECUPERAÇÃO JUDICIAL (LEI N. 11.101/05). AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. VALOR DA CONDENAÇÃO. CRÉDITO APURADO. HABILITAÇÃO. ALIENAÇÃO DE ATIVOS E PAGAMENTOS DE CREDORES. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES DO STJ.
+1. Com a edição da Lei n. 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, inclusive trabalhistas, ainda que tenha ocorrido a constrição de bens do devedor.
+2. Após a apuração do montante devido, processar-se-á no juízo da recuperação judicial a correspondente habilitação, sob pena de violação dos princípios da indivisibilidade e da universalidade, além de desobediência ao comando prescrito no art. 47 da Lei n. 11.101/05.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da 1ª Vara Empresarial do Rio de Janeiro (RJ)"(CC 90.160/RJ, Rel. Ministro JOÃO OTÁVIO DE NORONHA, SEGUNDA SEÇÃO, julgado em 27/5/2009, DJe 5/6/2009).
+Deverá, portanto, se submeterao crivo do juízo recuperacional a prática de atos de execução voltados contra o patrimônio daempresaem recuperação judicial. Ao mesmo juízo devemser encaminhados os bens constritos nos autos da ação monitória nº 10000025-59.2018.4.01.3602, que se encontra tramitando no JUÍZO FEDERAL DA 1ª VARA CÍVEL E CRIMINAL DE RONDONÓPOLIS - MT.
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 4ª VARA CÍVEL DE RONDONÓPOLIS - MT.
+Intimem-se.
+Oficiem-se.
+Publique-se.
