@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de LUCAS FELIPELIMA contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no julgamento do HC n. 2183105-82.2019.8.26.0000.
+Infere-se dos autos que o paciente cumpre pena total de 10 anos e 11 meses de reclusão, no Centro de Progressão Penitenciária de Pacaembu, em regime semiaberto, por duas condenações pelo crime de tráfico de drogas e uma condenação por receptação, com término de cumprimento de pena previsto para 25 de setembro de 2027.
+Consta ainda que o Juízo das Execuções indeferiu o pedido de detração do período em que esteve cumprindo as medidas cautelares alternativas à prisão, conforme decisão de fls. 15.
+Irresignada, a defesa impetrou o habeas corpus originário, cuja ordem foi denegado emacórdão assim resumido (fl. 11):
+"Habeas Corpus" Execução da pena - Decisão que indeferiu a aplicação da detração penal - Inexistência de constrangimento ilegal - Inadequação da via eleita - Os Tribunais Superiores pacificaram o entendimento de que não se admite "Habeas Corpus" quando a lei prevê recurso próprio para impugnar a decisão proferida pelo Juízo das Execuções Criminais - Matéria insuscetível de "habeas corpus" - Ordem não conhecida.
+Na presente impetração, alega o impetrante que opacienteestá submetidoa flagrante constrangimento ilegal em função da não detração do período em que cumpriu medidas cautelares alternativas à prisão.
+Pretende, assim, queseja "deferida a DETRAÇÃO da pena, já em sede liminar, computando-se o tempo em que o Paciente permaneceu em recolhimento domiciliar noturno nos termos do art.42, do CP, e em observância ao entendimento firmado pelo C. STJ" (fl. 9).
+É o relatório.
+Decido.
+Diante do novel posicionamento jurisprudencial do STF e desta Corte onde não deve ser conhecido o habeas corpus substitutivo de recurso próprio, tenho por prudente determinar o processamento do feito somente para verificação da existência de eventual constrangimento ilegal que autorize a concessão da ordem de ofício.
+No caso,verifico que a Corte estadual não apreciou a questão referente à detração da pena. Deixou-se de conhecer da matéria ao argumento deque "inexiste constrangimento ilegal apurável por meio desta ação constitucional, haja vista que o "habeas corpus", por conta de seus estritos limites, não é meio idôneo para a análise depretensão de benefícios em execução de sentença, que exige profundo exame da prova para verificação da presença dos requisitos objetivos e subjetivos" (fls. 13/14).
+Dessa forma, é inviável a análise da referida matéria diretamente por esta Corte, sob pena de indevida supressão de instância.
+Confira-se:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. NEGADO O DIREITO DE RECORRER EM LIBERDADE. GRAVIDADE CONCRETA DO DELITO. NATUREZA E QUANTIDADE DAS DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. GARANTIA DA ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. REGIME INICIAL, SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS E DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+ ..  4. Os temas relativos à fixação de regime prisional menos gravoso, substituição da pena privativa de liberdade por restritiva de direitos e aplicação da detração do tempo de prisão cautelar sequer foram apreciados pelo Tribunal de origem, o que impede esta Corte de analisar os pedidos, sob pena de incidir em indevida supressão de instância. Habeas corpus não conhecido." (HC 393.308/SP, da minha relatoria, QUINTA TURMA, DJe 06/04/2018)
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço do presente habeas corpus.
+Publique-se.
