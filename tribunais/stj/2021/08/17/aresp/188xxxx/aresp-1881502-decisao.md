@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por NOAIR BATISTA GODARTH e ROSIMEIRE LOPES GODARTH, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 01/07/2020.
+Concluso ao gabinete em: 22/07/2021.
+Ação: rescisória, ajuizada pelos agravantes, em face de VICENTE JOSÉ MAIA e OUTROS, fundada na violação manifesta à norma jurídica da sentença que julgou improcedente a ação de usucapião e procedente a ação possessória.
+Acórdão: negou/deu provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+AÇÃO RESCISÓRIA - Sentença que julgou improcedente ação de usucapião e procedente ação de reintegração de posse - Alegação de violação manifesta à norma jurídica e erro de fato pela exigência de requisitos de modalidade de usucapião diversa da pleiteada na inicial e por ter considerado inexistente fato efetivamente ocorrido - Não acolhimento - Cumpre ao juiz, ao analisar a situação fática, aplicar a norma cabível na espécie, não estando adstrito aos fundamentos invocados pela parte, devendo atribuir aos fatos apresentados o enquadramento jurídico adequado - Posse injusta dos autores, que ocuparam o imóvel invadido por terceiro, faltando-lhes "animus domini", requisito indispensável para a aquisição do bem por usucapião em qualquer modalidade, o que, por si, já justifica a improcedência do pedido reconhecida na sentença e afasta a tese deduzida na ação rescisória proposta - Sentença não recorrida no momento oportuno, não servindo a ação rescisória como sucedâneo recursal - Pedido improcedente.
+Embargos de declaração: opostos pelos agravantes, foram rejeitados.
+Recurso especial: alegam a violação dos arts. 1.223 e 1.240, caput, do CC/02, do art. 9º, caput, da Lei nº 10.257/01 e do art. 966, V e VIII, do CPC/15, bem como dissídio jurisprudencial.
+Sustentam que a sentença rescindenda teria sido fundamentada em razão de requisitos legais de espécie de usucapião diversa daquela pleiteada, bem como que o fato de não terem recorrido da sentença não seria óbice à admissibilidade da ação rescisória.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que deveria ser afastada a teses de violação manifesta à norma jurídica e de erro de fato deduzida pelos agravantes, pois a improcedência do pedido reconhecida na sentença, que entendeu que os agravantes não preenchiam os requisitos legais para o acolhimento da usucapião pretendida por se tratarem de meros invasores, estaria justificada pela caracterização da sua posse injusta, pois teriam ocupado o imóvel invadido por terceiros e lhes faltaria o "animus domini", exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts. 1.029, §1º, do CPC/15 e 255, §§ 1º e 2º, do RISTJ.
+Ademais, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente, também impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+- Da Súmula 568/STJ
+Ainda que assim não fosse, a Segunda Seção desta Corte Superior entende que "a manifesta violação da norma jurídica que propicia o ajuizamento da ação rescisória, na forma do art. 966, V, do CPC, pressupõe que o conteúdo normativo tenha sido ofendido de maneira evidente e flagrante, tornando a decisão de tal modo teratológica a consubstanciar afronta ao sistema jurídico vigente" (AgInt na AR 6.685/MS, Segunda Seção, DJe de 15/06/2021).
+Na hipótese, o Tribunal de origem entendeu pela improcedência do pedido, pois, apesar da argumentação apresentada pelos agravantes, relativas à violação manifesta à norma jurídica e erro de fato, não houve flagrante transgressão à lei (e-STJ, fls. 909/911), em consonância com o entendimento dominante sobre o tema nesta Corte. Aplica-se, portanto, a Súmula 568/STJ no particular.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor atualizado da causa (e-STJ, fls. 911) para 15%, observada eventual concessão da gratuidade da justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO RESCISÓRIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. SÚMULA 7/STJ. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação rescisória, fundada na violação manifesta à norma jurídica da sentença que julgou improcedente a ação de usucapião e procedente a ação possessória.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+5. A manifesta violação da norma jurídica que propicia o ajuizamento da ação rescisória, na forma do art. 966, V, do CPC, pressupõe que o conteúdo normativo tenha sido ofendido de maneira evidente e flagrante, tornando a decisão de tal modo teratológica a consubstanciar afronta ao sistema jurídico vigente. Precedente. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+6. Agravo em recurso especial conhecido. Recurso especial não conhecido, com majoração de honorários.
