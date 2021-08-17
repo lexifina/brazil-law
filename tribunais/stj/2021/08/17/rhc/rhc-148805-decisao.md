@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto por DAYS GOMES DA SILVA, contra o v. acórdão proferido pelo eg. Tribunal de Justiça do Estado do Piauíno Writ n. 0750810-28.2021.8.18.0000, assim ementado (fls.132-137):
+"HABEAS CORPUS. - ROUBO MAJORADO - CUMPRIMENTO DE PENA EM REGIME FECHADO. POSSIBILIDADE - CIRCUNSTÂNCIAS DO CASO CONCRETO QUE JUSTIFICAM A MANUTENÇÃO DO REGIME MAIS GRAVOSO. - SÚMULAS 718 E 719, DO STF. - CERTIFICAÇÃO SOBRE A INTENÇÃO DE RECORRER DE SENTENÇA. - DESNECESSIDADE.
+ORDEM DENEGADA.
+Conforme entendimento consagrado pelo STF nas Súmulas 718 e 719, a imposição do regime de cumprimento de pena mais severo do que a pena aplicada permitir exige motivação idônea, como no caso dos autos.
+Conforme jurisprudência dos Tribunais Superiores, não há previsão legal no sentido de que o réu deve ser questionado sobre a intenção em recorrer no momento da intimação da sentença.
+Ordem denegada."
+No presente recurso a Defesa alega, em síntese, que"verifica-se uma nulidade da certidão de trânsito em julgado da sentença, que fundamenta o presente remédio, pois é importante notar que a Ré/Paciente era assistida pela Defensoria Pública Estadual e não teve oportunizada a manifestação de vontade quanto a recorrer da sentença condenatória, quando pessoalmente intimada, logo, não há que se falar em transito em julgado da decisão com a mera intimação da Defensoria Pública" (fl. 151).
+Aduz ser evidente o"prejuízo para a Ré/Paciente, decorrente da inércia da Defensoria Pública Estadual, órgão que prestava assistência judiciária integral e gratuita, e mesmo sendo residual a sua nomeação para a defesa técnica, deveria zelar pelos interesses da Ré, mas nesse caso pontual não o fez, ou o fez de forma deficiente, ao ponto de acarretar inegável prejuízo processual que ora se busca remediar" (fl. 154).
+Sustenta, ainda, que, "diante da ausência de fundamentação concreta quanto à necessidade de imposição de regime inicial mais gravoso, se faz necessária areadequação do regime inicial de cumprimento de pena, com fundamentação o art. 33, §2º, alínea "b", para o regime semiaberto" (fls. 158-159).
+Requer, ao final, o conhecimento e provimento do recurso, inclusive liminarmente, para determinar"a concessão da ordem de habeas corpus, para que seja imediatamente suspensa a execução da pena até que sobrevenha o julgamento do mérito do presente writ, com expedição de alvará de soltura, determinando nova intimação da Ré/Paciente da sentença condenatória, reabrindo o prazo recursal, e ainda a readequação do regime inicial de cumprimento de pena para o semiaberto, para que cesse o constrangimento ilegal que está sendo imposto à paciente" (fl. 160).
+Despacho à fl. 168determinando a regularização da representação processual.
+É o relatório.
+Decido.
+O presente recurso ordinário não pode ser conhecido, porquanto interposto por advogados sem procuração nos autos.
+Incide, no caso, o óbice previsto noEnunciado Sumularn. 115/STJ: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Com efeito, não obstante se considere que na impetração de habeas corpus não se exija a produção de instrumento de mandato, uma vez que qualquer pessoa pode impetrar o writ, tal faculdade não se estende à interposição do respectivo recurso ordinário, caso em que, de acordo com o enunciado n. 115 da Súmula desta Corte, o recurso é inexistente.
+Nesse sentido, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. NOVOS ARGUMENTOS HÁBEIS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. DECISÃO MONOCRÁTICA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. ART.932, III, CPC. ART. 34, XVIII, "A", E XX, DO RISTJ. AUSÊNCIA DA PROCURAÇÃO. SÚMULA N. 115 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r.
+decisão vergastada pelos próprios fundamentos.
+II - Inexiste ofensa ao princípio da colegialidade na decisão monocrática que não conhece de "recurso inadmissível", nos termos do art. 932, III, do CPC, e do art. 34, inc. XVIII, "a" e XX, " do RISTJ.
+III - "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos" - enunciado n. 115 da Súmula deste Tribunal - A comprovação da capacidade postulatória somente é dispensada na hipótese em que o leigo impetra o habeas corpus e contra a decisão do writ, ele próprio interpõe recurso ordinário. Remanescendo o mesmo vício que impediu o conhecimento do recurso ordinário, ou seja, a ausência de procuração outorgada aos advogados do ora agravante, o presente agravo não pode ser conhecido.
+Agravo regimental não conhecido." (AgRg no RHC 69.183/AM, Quinta Turma, Min. Rel. Felix Fischer, DJe 18/10/2017)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO DUPLAMENTE CIRCUNSTANCIADO TENTADO. PETIÇÃO SUBSCRITA POR ADVOGADO. AUSÊNCIA DE JUNTADA DA PROCURAÇÃO. INCIDÊNCIA DO VERBETE N. 115/STJ. PRISÃO PREVENTIVA MANTIDA NA SENTENÇA. RÉU REINCIDENTE ESPECÍFICO. NECESSIDADE DA PRISÃO PARA ASSEGURAR A ORDEM PÚBLICA. SEGREGAÇÃO JUSTIFICADA. PRECEDENTES. RECURSO NÃO CONHECIDO.
+1. Não há como conhecer do recurso em habeas corpus, porquanto não foi juntada aos autos a procuração dos causídicos que o subscrevem. Note-se que, cuidando-se de petição subscrita por advogado constituído, imprescindível a juntada da procuração, sob pena de incidir no caso o enunciado n. 115 da Súmula do Superior Tribunal de Justiça, segundo o qual, "na instância especial, é inexistente recurso interposto por advogado sem procuração nos autos".
+ ..  4. Recurso não conhecido." (RHC 81.704/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe 15/05/2017, grifei)
+Acrescento que, embora tenha sido intimado por meio do DJe a regularizar a representação processual (fl. 169), a il. Defesa não cumpriu a determinação no prazo concedido.
+Ante o exposto, com fulcro no art. 34, inciso XVIII, "a", art. 210 e art. 246, todos do RISTJ, indefiro liminarmente o processamento do presente recurso ordinário.
+P. I.
