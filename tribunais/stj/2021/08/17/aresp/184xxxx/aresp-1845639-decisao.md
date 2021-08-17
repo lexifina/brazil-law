@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto por TAQUARITUBA AGROINDUSTRIA S.A. contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alíneas"a" e "c", da Constituição Federal desafia o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+"Prestação de serviços - Rescisão contratual c.c. restituição de valores e pagamento de multa - Nulidade - Ausência - Impugnação a documento acostado com a inicial que, levada em consideração, gerou a designação de perícia pela decisão saneadora - Documento submetido ao contraditório - Sentença apoiada também no laudo pericial e não apenas naquele documento - Impugnação, ademais, que se revelou genérica e não contrapôs os valores indicados no relatório apresentado pela autora - Perícia que confirmou ter a ré dado causa à rescisão do contrato e, portanto, às despesas com a remoção de equipamentos das dependências da ré, as quais, acrescidas ao débito total, refletiram no saldo devedor apontado na condenação - Improvimento" (fl. 466, e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No especial, a recorrente apontaviolação dos arts. 3º, 11, 489, § 1º, IV e 1.022 do Código de Processo Civil de 2015; 371, 402, 403, 413, 421, 422 e 478, do Código Civil de 2002.
+Sustenta em síntese,a existência de omissões, bem como deficiência de fundamentação do acórdão estadual.
+Afirma que o Tribunal estadual não observou a desproporção contratual e a excessiva onerosidade; a inexistência de prejuízo pela paralização das obras, bem como a necessidade de redução equitativa da multa contratual.
+Além disso, afirma que"a paralização das obras previstas no contrato objeto da controvérsia tenha decorrido em razão da alteração do mercado em que a Recorrente atua, as instâncias inferiores, em flagrante ofensa ao disposto nos artigos 478 e 317, ambos do CC, recusaram-se a promoverem o reequilíbrio contratual"(fl. 513, e-STJ).
+Com as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que toca à alegada negativa de prestação jurisdicional - violação do artigo 1.022 do Código de Processo Civil de 2015 -, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. EFEITOS INFRINGENTES PRETENDIDOS. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração de METHANEX CHILE S.A.rejeitados" (EDcl no REsp 1.596.081/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, Segunda Seção, julgado em 22/8/2018, DJe de 24/8/2018).
+Registra-se que, mesmo à luz do novel art. 489 do Código de Processo Civil/2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+Por outro lado, observa-se que a agravante aduziu nas razões do recurso especial violação dos arts. 371, 402, 403, 413, 421, 422 e 478, do CC/2002.
+Todavia, não demonstrou de forma direta, clara e particularizada como o acórdão estadual violou os dispositivos de lei federal trazidos como malferidos, o que faz incidir, nesse ponto, o óbice da Súmula nº 284/STF, de seguinte teor: "É inadmissível o recurso extraordinário, quando a deficiência de fundamentação não permitir a exata compreensão da controvérsia."
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE ANULAÇÃO. CONSÓRCIO. VÍCIO DE CONSENTIMENTO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA Nº 284/STF. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. REEXAME. SÚMULAS NºS 5 E 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar o preceito legal tido por violado, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido o teria contrariado, circunstância que atrai, por analogia, a Súmula nº 284/STF.
+3. Acolher a tese pleiteada pela parte agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido"(AgInt no AREsp nº 1.118.820/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 04/05/2020, DJe 07/05/2020).
+Não bastasse isso, nota-se queo Tribunal local ao dirimir a controvérsia, fundamentou o seguinte:
+"Narra a inicial que a autora tem como atividade principal a industrialização, comercialização e montagem de equipamentos destinados ao setor sucroalcooleiro, tendo firmado instrumento particular defabricação, compra e venda de equipamentos desse ramo de atividade com a ré,no valor de R$11.520.000,00, a ser pago em 36 prestações de R$320.000,00.
+Em maio de 2012 a ré estava inadimplente comalgumas parcelas, fato que vinha sendo tolerado pela autora. No entanto, aquela determinou a paralisação das obras, o que ensejou a elaboração de um relatório para apuração de haveres, restando realizada a retirada de diversos equipamentos já entregues, a fim de minimizar os prejuízos, e mesmo assim remanesce saldo devedor de R$80.185,85, daí a presente ação.
+Afasto, desde logo, a alegação de nulidade fundada no art. 489, IV do Código de Processo Civil.
+Além de genérica a impugnação deduzida a fls. 143 dos autos, certo que cabia à ré apontar minimamente as falhas do relatório que o apontou o débito de R$80.185,85, a decisão saneadora de fls. 197 apontou entre a os pontos controvertidos do feito quais os prejuízos da autora e as causas da g interrupção do contrato, para isto designando perícia de engenharia.
+Como se vê, aquele documento foi submetido ao contraditório, e a r. sentença julgou a ação procedente apoiada pela perícia, e não apenas com base no documento propriamente dito, dai porque também não se cogita de ausência de fundamentação do julgado.
+Neste ponto, e já adentrando ao mérito da ação, pesem as alegações de que as partes concordaram mutuamente com a redução, tanto dos serviços quanto dos respectivos pagamentos, nada nesse sentido restou comprovado, não tendo sido trazidas aos autos as propaladas mensagens eletrônicas com este conteúdo.
+Ao contrário, a perícia (fls. 2851287) apurou que a rédeu causa à rescisão, inicialmente porque atrasou pagamentos nos vencimentose, posteriormente, determinando a paralisação das obras devido a dificuldades financeiras, o que autorizou a autora, por força de reserva de domínioestabelecida na cláusula sétima do contrato, à retirada dos materiais dasdependências da ré a fim de transportá-los para seu parque industrial.
+Esta operação gerou custos à autora, detalhados e descritos a fls. 85, os quais, somados aos serviços prestados até então, deduzidos os R$1.500.000,00 pagos de forma incontroversa pela ré, resultaramem saldo devedor de R$80.185,85.
+É evidente que a remoção desses materiais causou, de a fato, despesas imprevistas à autora, e que apenas existiram ante a necessidade de remoção também imprevista, provocada pelo inadimplemento contratual da ré.
+Nenhum daqueles valores foi efetivamente impugnado pela apelante, assim como não demonstrado o mútuo consenso acerca da rescisão.
+E apesar da afirmação do expert de que não localizou previsão contratual para o ressarcimento das despesas acima mencionadas, é certo que a responsabilização da ré, que em última análise deu causa a elas, não dependia de previsão contratual, porquanto advém do artigo 186 do Código Civil. Em suma, a r. sentença deu exata solução à lide, não comportando reparos"(fls. 467-469, e-STJ).
+À vista do explanado, observa-se que ultrapassar e infirmar a conclusão alcançada pelo acórdão recorrido demandaria o reexame da relação contratual estabelecida e dos fatos e das provas presentes no processo, procedimentos inviáveis na estreita via especial em virtude dos óbices das Súmulas nºs 5 e 7/STJ.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DOAÇÃO. REINTEGRAÇÃO DE POSSE. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. NÃO IMPUGNAÇÃO. SÚMULA Nº 283/STF. REEXAME. CONJUNTO FÁTICO-PROBATÓRIO E CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo a Súmula nº 283/STF.
+3. Acolher a tese pleiteada pela agravante exigiria exceder os fundamentos do acórdão impugnado e adentrar no exame das provas e cláusulas contratuais, procedimentos vedados em recurso especial, a teor das Súmulas nºs 5 e 7/STJ.
+4. Agravo interno não provido"
+(AgInt no AREsp 1.509.609/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 28/10/2019, DJe 7/11/2019).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dozepor cento) sobre o valor da condenação, os quais devem ser majorados para 15% (quinze por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
