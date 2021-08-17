@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por EDMILSON GOMES contra acórdão doTribunal de Justiça do Estado de Mato Grosso do Sul(HC n. 1406335-11.2021.8.12.0000).
+Orecorrente teve a prisão em flagrante convertida em preventiva diante de representação da autoridade policial (fls. 46-47)e foi denunciado por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006 (fls. 27-28).
+O decreto prisional fundou-se na expressiva quantidade deentorpecenteapreendida (30 tabletes de maconha, pesando 19,950kg).
+Impetradowritna origem, a ordem foi denegada.
+O recorrente alega queestá sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.Afirma que os autos não demonstram a presença de indícios depericulum liberatisque justifique a medida cautelar.
+Destaca que a prisão preventiva é medida desproporcional para o caso concreto. Aduz que, em caso de sentença condenatória, seria possível a substituição da pena privativa de liberdade por pena restritiva de direitos. Alegaaindapossuir condições favoráveis.
+Requer, liminarmente e no mérito, a expedição de alvará de solturaea substituição da prisão preventiva por medidas cautelares alternativas.
+A liminar foi indeferida, nos termos da decisão de fls. 119-120.
+As informações foram prestadas às fls. 137-141 e 141-151.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 155-159).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fl. 46):
+Segundo consta dos autos, no dia 17/03/2021, o autuado foi surpreendido transportando no interior de um transporte público, 19,9 Kg de substância análoga à maconha.
+Tal fato vem provisoriamente confirmado pelas testemunhas ouvidas na fase policial e pela própria situação de flagrância do autuado, bem como pelo seu interrogatório, no qual confessou a prática delitiva, por conseguinte, presentes indícios de autoria e materialidade suficientes para esta fase processual.
+Por ora, tem-se que a conversão da prisão em preventiva é medida que impõe, pois verifica-se necessária para garantia da ordem pública, uma vez que trata-se do grave delito de tráfico de drogas, com significativa quantidade de maconha apreendida.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso,a quantidadedoentorpecenteapreendido(19,9kg de maconha) foiconsideradapelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, segundo a jurisprudência do STJ, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Por fim, eventuais condições subjetivasfavoráveisdo recorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
