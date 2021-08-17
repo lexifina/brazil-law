@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de VAGNER RAMIRO DE BRITO contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no Agravo de Execução Penal n. 0003462-52.2021.8.26.0996.
+Consta dos autos que o Juízo da Execução indeferiu os benefícios da progressão do paciente para o regime semiaberto e do livramento condicional, por falta do requisito subjetivo. O Tribunal a quo negou provimento ao recurso defensivo.
+No presente writ, o impetrante alega que o paciente preenche todos os requisitos exigidos para a concessão dos benefícios, ressaltando que a gravidade abstrata dos delitos e a longevidade da pena não são óbice para tanto.
+Requer a concessão da ordem nesse sentido.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem (fls. 104/108).
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Na hipótese dos autos, verifica-se que os pedidos de progressão de regime e livramento condicional foram indeferidos pela ausência do preenchimento do requisito subjetivo, com fundamento unicamente na longevidade da pena e na gravidade abstrata dos delitos praticados. Confiram-se, a propósito, os seguintes trechos:
+Decisão:
+" ..
+A despeito do cumprimento do requisito objetivo, no presente caso, a gravidade concreta do crime pelo qual o sentenciado foi condenado (roubos majorados) já revela se tratar de pessoa violenta, perigosa e nociva à sociedade.
+Além do mais, a longa pena a ser cumprida, com vencimento previsto para10/10/2032, possivelmente servirá de estímulo para que ocorra fuga e até cometa novos crimes.
+Por tais razões, apesar do atestado de bom comportamento carcerário e parecer favorável do exame criminológico a que foi submetido, recomenda-se o máximo de cautela na concessão de benefícios.
+Assim, tratando-se de crime cometido com violência ou grave ameaça à pessoa, torna-se evidente a necessidade de permanência maior no cárcere, visando absorver a terapia penal e revelar o merecimento à progressão para regime mais brando" (fl. 23).
+Acórdão:
+" ..
+Então, diante da gravidade dos delitos praticados por VAGNER, aliada à longa pena ainda por cumprir (fls. 57/59), é temerário conceder-lhe livramento condicional ou colocá-lo em regime semiaberto, independentemente do teor favorável do exame criminológico, porque salta aos olhos que ele não está apto para isso" (fl. 72).
+As decisões proferidas pelas instâncias ordinárias estão em dissonância com o entendimento firmado pela jurisprudência desta Corte Superior, no sentido de que a longevidade da pena e a gravidade abstrata dos delitos praticados, por si sós, não servem como fundamentos para impedir a progressão de regime prisional e o livramento condicional, devendo ser levados em consideração, para esse fim, os fatos ocorridos no curso da execução penal.
+Nesse sentido, confiram-se os seguintes julgados:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. ROUBOS QUALIFICADOS. PROGRESSÃO DE REGIME. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES CRIMINAIS E PELA CORTE DE ORIGEM COM BASE, TÃO SOMENTE, NA GRAVIDADE ABSTRATA DO DELITO E LONGA PENA A CUMPRIR. CONSTRANGIMENTO ILEGAL CONFIGURADO. CONCESSÃO DA ORDEM DE OFÍCIO.
+1. O Supremo Tribunal Federal, por sua Primeira Turma, e a Terceira Seção deste Superior Tribunal de Justiça, diante da utilização crescente e sucessiva do habeas corpus, passaram a restringir a sua admissibilidade quando o ato ilegal for passível de impugnação pela via recursal própria, sem olvidar a possibilidade de concessão da ordem, de ofício, nos casos de flagrante ilegalidade. Esse entendimento objetivou preservar a utilidade e a eficácia do mandamus, que é o instrumento constitucional mais importante de proteção à liberdade individual do cidadão ameaçada por ato ilegal ou abuso de poder, garantindo a celeridade que o seu julgamento requer.
+2. Na espécie, a progressão do reeducando para o regime semiaberto foi indeferida pelo Juízo das Execuções Criminais e pelo Tribunal de origem com fundamento, tão somente, na gravidade abstrata do delito pelo qual foi condenado o paciente e na longa pena a cumprir.
+3. Sobre a matéria, esta Corte Superior de Justiça pacificou entendimento no sentido de que fatores relacionados ao crime praticado são determinantes da pena aplicada, mas não justificam diferenciado tratamento para a progressão de regime, de modo que a avaliação do cumprimento do requisito subjetivo somente poderá fundar-se em fatos ocorridos no curso da própria execução penal.
+4. Habeas corpus não conhecido. Contudo, ordem concedida de ofício para cassar o acórdão proferido no Agravo em Execução Penal n. 9000202-08.2015.8.26.0482 e determinar, em consequência, que o Juízo das Execuções Criminais reaprecie o pedido de progressão de regime prisional, baseando-se em dados concretos relativos à execução da pena do ora paciente.
+(HC 356.576/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 29/6/2016).
+CONSTITUCIONAL. EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PROGRESSÃO DE REGIME PRISIONAL. INDEFERIMENTO. AUSÊNCIA DO REQUISITO SUBJETIVO. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL CONFIGURADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado, a justificar a concessão da ordem de ofício.
+2. O art. 122 da Lei de Execuções Penais exige para a concessão da progressão de regime o preenchimento dos requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário).
+3. A jurisprudência desta Corte Superior é assente no sentido de há constrangimento ilegal no indeferimento do pedido de progressão, quando a ausência do elemento subjetivo é fundamentada apenas na gravidade em abstrato do delito ou na longa pena a cumprir.
+4. Habeas corpus não conhecido. Ordem concedida, de ofício, para determinar ao Juízo das execuções que reaprecie o pedido de progressão de regime, baseando-se em dados concretos relativos à execução da pena.
+(HC 339.131/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/5/2016).
+HABEAS CORPUS. IMPETRAÇÃO EM SUBSTITUIÇÃO AO RECURSO CABÍVEL. UTILIZAÇÃO INDEVIDA DO REMÉDIO CONSTITUCIONAL. NÃO CONHECIMENTO.
+ ..
+EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO. GRAVIDADE DO DELITO COMETIDO E LONGEVIDADE DA PENA A CUMPRIR. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENTE. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1. De acordo com o art. 112 da LEP, o requisito subjetivo necessário à concessão de progressão prisional é aferido através de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento no qual o condenado cumpre sua sanção privativa de liberdade.
+2. No entanto, não é vedado ao magistrado o indeferimento do benefício quando, a despeito do reeducando apresentar atestado de bom comportamento carcerário, entender não implementado o requisito subjetivo, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado.
+3. Na hipótese, invocou-se tão somente a gravidade do delito pelo qual o paciente restou condenado - latrocínio -, bem como a longa pena a cumprir, para indeferir a sua promoção ao regime intermediário, tendo sido sugerida, ainda, a realização de exame criminológico para comprovação do preenchimento do requisito subjetivo para a obtenção do referido benefício.
+4. A gravidade do delito e a longevidade da pena, por si sós, não se mostram idôneos para a negativa de progressão prisional, na medida em que o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena, pois fatores relacionados ao delito pelo qual restou condenado já foram sopesados pelo Magistrado sentenciante no processo de conhecimento.
+5. Writ não conhecido. Ha beas corpus concedido de ofício para determinar que o Juízo da execução reexamine o pedido de progressão de regime formulado em favor do paciente, apontando, quando da análise do requisito subjetivo, dados concretos do curso da execução da pena, bem como para afastar a gravidade do delito cometido e a longa pena a cumprir como óbices à concessão da aludida benesse.
+(HC 333.030/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 4/5/2016).
+Ante o exposto, não conheço do habeas corpus, mas concedo a ordem, de ofício, para determinar que o Juí zo das Execuções Criminais reaprecie o pedido da defesa com base nos fatos ocorridos no curso da execução da pena do paciente.
+Publique-se.
+Intimações necessárias.
