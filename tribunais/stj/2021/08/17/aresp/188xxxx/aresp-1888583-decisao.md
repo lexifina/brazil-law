@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo interposto pelo Instituto de Previdência do Estado do Rio de Janeiro, desafiando decisão da 3ª Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial com base nos seguintes fundamentos: (I) ausência de omissão do acórdão recorrido; (II)a controvérsia acerca da isenção/extinção da obrigação tributária referente à taxa judiciária foi decidida pela instância ordinária com base em legislação local (Súmula 280/STF) e consoante jurisprudência do STJ (Súmula 83/STJ); e (III)a questão atinente à aplicação do artigo 1º-F da Lei nº 9.494/97 nas condenações impostas à Fazenda, foi solvida em conformidade com os Temas 810/STF e 905/STJ (fls. 363/373).
+É o relatório.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou todos os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial, deixando de rebater, de modo específico, o fundamento da decisão agravada que afastou a omissão do aresto estadual, sendo esteautônomo e suficiente para a manutenção da decisão ora agravada, bem como referente à aplicação dos Temas 810/STF e 905/STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+Diante do exposto, nos termos do art. 544, § 4º, I, do CPC, não conheço do agravo.
+Publique-se.
