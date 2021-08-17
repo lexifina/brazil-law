@@ -1,0 +1,9 @@
+DECISÃO
+A matéria discutida nos autos foi submetida a julgamento no rito dos recursos repetitivos (tema 1.075), que tem a seguinte ementa:
+ADMINISTRATIVO. REPRESENTATIVO DE CONTROVÉRSIA. SERVIDOR PÚBLICO.PROGRESSÃO FUNCIONAL. (I)LEGALIDADE DE DESCUMPRIMENTO DE DIREITO SUBJETIVO POR RESTRIÇÕES ORÇAMENTÁRIAS PREVISTAS NA LEI DE RESPONSABILIDADE FISCAL. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+1. Delimitação da controvérsia: Legalidade do ato de não concessão de progressão funcional do Servidor Público, quando atendidos todos os requisitos legais, sob o fundamento de que superados os limites orçamentários previstos na Lei de Responsabilidade Fiscal, referentes a gastos com pessoal de Ente Público.
+2. Recurso Especial submetido ao rito do art. 1.036 e seguintes do CPC/2015 (art. 256-I do RISTJ). em afetação conjunta com os Recursos Especiais 1.878.854/TO e 1.879.282/TO.
+(ProAfR no REsp 1878849/TO, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 24/11/2020, DJe 03/12/2020)
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma do art. 543-C, § 7º, e 543-B, § 3º, do CPC; e 1040 e seguintes do CPC/2015, conforme o caso.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1040 e seguintes do CPC/2015 e, após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia: a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se. Intimem-se.
