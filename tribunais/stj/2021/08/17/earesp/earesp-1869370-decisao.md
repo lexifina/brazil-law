@@ -1,0 +1,54 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CLAUDENIR BORTOLOZZO E OUTROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO TOCANTINS, assim ementado:
+EMENTA: APELAÇÕES. AÇÃO DEMARCATÓRIA. 3ª APELAÇÃO. PEDIDO DE GRATUIDADE PROCESSUAL.RECOLHIMENTO DO PREPARO COMPROVADO.INDEFERIMENTO DA BENESSE. PRELIMINARES DE JULGAMENTO EXTRA PETITA E DE CERCEAMENTO DE DEFESA. NÃO ACOLHIDAS.
+1. Indefere-se o pedido de gratuidade processual manejado no 3º apelo, tendo em vista que foi comprovado o recolhimento do preparo e não existe qualquer elemento probatório capaz de amparar a tese de hipossuficiência financeira.
+2. Não se configura julgamento extra petita, uma vez que a sentença guerreada foi exarada em adstrição e dentro dos limites do pedido demarcatório, sendo conseqüência da procedência do pedido de traçado da linha demarcatória a restituição da área invadida, na exata interpretação do artigo 581, parágrafo único do CPC.
+3. Igualmente não se acolhe a preliminar de cerceamento de defesa, pois apesar de regularmente intimados para a audiência de instrução e julgamento os apelantes não comparecerem ao ato, além do que o juiz é o destinatário das provas e como tal pode indeferir aquelas que não se mostrem úteis ao processo, assim como entender como suficientes as provas produzidas, proferindo julgamento desde logo, o que não configura cerceamento de defesa.
+MÉRITO. ANÁLISE CONJUNTA DA 1ª E 3ª APELAÇÃO. LAUDO PERICIAL PRODUZIDO SOB O CRIVO DO CONTRADITÓRIO EDA AMPLA DEFESA. ORIENTADO PELOS REQUISITOS DO ARTIGO 580 DO CPC. VALIDADE. CONFIGURADA A SOBREPOSIÇÃO DE ÁREAS E O ARRENDAMENTO SUPERIOR À AREA DOS IMÓVEIS DOS APELANTES. RECURSOS IMPROVIDOS.
+4. Em ação demarcatória a prova pericial assume especial relevo para o correto deslindo do feito, sendo certo que no caso versado o Laudo Pericial foi produzido sob o crivo do contraditório e da ampla defesa, oportunizando-se a apresentação de quesitos e a indicação de assistentes técnicos pelas partes, acompanhando-se, inclusive, os trabalhos de campo realizados.
+5. Não há nos autos qualquer fato ou fundamento capaz de infirmar as conclusões do Laudo Pericial, o qual foi produzido mediante trabalho de campo, ouvindo-se terceiros e analisando a documentação pertinente, não sendo imprescindível a medição das áreas litigiosas, até porque se trata de imóvel georreferenciado, restando atendidos os requisitos delineados no artigo 580 do CPC.
+6. A prova pericial foi clara em concluir que houve sobreposição de área sobre os imóveis dos apelados e arrendamento de área superior pelos apelantes, de modo que é necessário o provimento jurisdicional para estabelecer o traçado da linha demarcatória correta entre os imóveis, respeitando o quantitativo de área descrito nos títulos de propriedade e, por conseguinte, restituindo-se aos apelados/requerentes as áreas que lhe foram retiradas ou sobrepostas, em conformidade com as plantas apresentadas pelo perito do juízo, inteligência do artigo 581, parágrafo único, do CPC 7. Não merecem provimento a 1ª e 3ª apelações manejadas
+2ª APELAÇÃO. PEDIDO DE CONDENAÇÃO EM DANOS MATERIAIS E ALTERAÇÃO DO ÔNUS DA SUCUMBÊNCIA.AUSÊNCIA DE PROVA DO SUPOSTO DANO MATERIAL.ÔNUS PROCESSUAL DA PARTE. ARTIGO 333, INCISO I, DO CPC/1973. DECAIMENTO PROPORCIONAL DOS PEDIDOS.SENTENÇA MANTIDA
+8. Também não merece acolhida a pretensão de indenização por perdas e danos e de alteração da distribuição das verbas de sucumbência, veiculadas no 2º apelo, uma vez que para fins de condenação em danos materiais é imprescindível que seja produzida prova dos danos experimentados, o que não se encontra presente nos autos, deixando os apelantes de cumprir com a obrigação processual ditada pelo artigo 333, inciso I, do CPC/1973, reprisada no artigo 373, inciso I, do CPC/2015.
+9. De efeito, mantida a sentença que julgou procedente em parte o pedido, acolhendo a pretensão demarcatória e indeferindo o pedido de indenização, entendo que deve ser mantida a sucumbência recíproca, haja vista o respeito à proporção de decaimento de pedidos.
+10. Sentença mantida integralmente.
+Opostos embargos de declaração pela parte ora agravante e pela parte ora interessada, foram os dois recursos rejeitados.
+Opostos novos embargos de declaração pela parte ora agravante, foram rejeitados.
+Nas razões do recurso especial (fls. 3.100-3.109), aponta a parte recorrente ofensa ao disposto nos arts. 129 e 489 do CPC.Alega julgamento citra petita, uma vez que a questão da denunciação à lide pleiteada pelos recorridos não teria sido analisada. Aduzem que os recorrentes não sabem se foram sucumbentes ou não no presente feito. Afirmam que "os recorrentes não sabem se a invasão na propriedade é de sua responsabilidade ou não, sendo que, inclusive, sequer foi produzida prova nesse sentido na origem". Sustentam a necessidade de julgamento da denunciação da lide nos casos em que o denunciante é vencido na ação principal. Colaciona julgados.
+É o relatório.
+DECIDO.
+2.De início, observa-se que a Corte local apreciou as questões deduzidas, decidindo de forma clara e conforme sua convicção com base nos elementos de prova que entendeu pertinentes, lançando fundamentação jurídica sólida para o desfecho da lide, apenas não foi ao encontro da pretensão da parte recorrente, o que está longe de significar violação ao art. 489 do CPC/2015.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO DA DECISÃO MONOCRÁTICA. VIOLAÇÃO AO ART.489 DO CPC/2015. INOCORRÊNCIA. TERMO INICIAL DOS JUROS DE MORA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF.DANOS MORAIS. REVISÃO DO VALOR DA INDENIZAÇÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. AUSÊNCIA DE CONDENAÇÃO PRÉVIA EM HONORÁRIOS SUCUMBENCIAIS.
+1. Não houve ofensa ao art. 489 do CPC/2015, na medida em que o decisum ora vergastado dirimiu, fundamentadamente, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta no apelo nobre, não se podendo, ademais, confundir julgamento desfavorável ao interesse da parte com vício de prestação jurisdicional. Precedentes.
+ ..
+5. Agravo interno parcialmente provido.
+(AgInt no AREsp 1201795/RO, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/08/2019, DJe 29/08/2019)
+___________
+3.No que tange à violação aoart. 129 do CPC, a irresignação não prospera.
+Na espécie, a Corte local afastando a tese de sentença citra petita ou omissão de julgamento da denunciação da lide, consignou que houve aceitação da denunciação da lide pelos denunciados e oposição destes ao pedido dos autores, assumindo estes a condição de litisconsortes, não havendo pedido autônomo a ser analisado. Segue trecho do acórdão dos embargos de declaração:
+"Acrescento que uma vez efetivada a denunciação da lide pelos réus (evento 1 - OUT7, 8 e 9), os denunciados a aceitaram e assumiram a condição de litisconsortes dos denunciantes, na forma determinada pelo artigo 75, inciso I, do CPC/1973, vigente à época do ajuizamento, passando a se opor ao pedido dos autores de definição das linhas divisórias, com restituição de área e perdas e danos.
+De modo que a sentença julgou parcialmente procedente o pedido demarcatório, determinando o traçado das linhas divisórias e a restituição da área ocupada indevidamente pelos réus, porém indeferiu o pedido de indenização, restando claro que a sentença decidiu dentro dos limites do pedido, não havendo que se falar em decisão "citra petita", posto que os denunciados/embargantes assumiram a condição de litisconsortes dos réus, não havendo pedido autônomo a ser analisado." (fls. 3.029-3.030)
+Verifica-se que o entendimento da Corte local está em conformidade com a jurisprudência do STJ.
+Com efeito, esta Corte Superior possui entendimento de que, uma vez aceita a denunciação da lide e apresentada contestação quanto ao mérito da causa principal, como no presente caso, o denunciado integra o pólo passivo na qualidade de litisconsorte do réu, podendo ser condenado direta e solidariamente.
+Por oportuno,"Feita a denunciação pelo réu, o denunciado pode aceitar a denunciação e contestar o pedido do autor, situação que o caracterizará como litisconsorte do denunciante, com a aplicação em dobro dos prazos recursais, e que acarretará a resolução do mérito da controvérsia secundária e o resultado prático de sujeitá-lo aos efeitos da sentença da causa principal"(REsp 1637108/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/06/2017, DJe 12/06/2017).
+No mesmo sentido:
+_______________
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. LITISDENUNCIAÇÃO. SEGURADORA.CONDENAÇÃO E EXECUÇÃO DIRETA E SOLIDÁRIA. POSSIBILIDADE. FUNÇÃO SOCIAL DO CONTRATO DE SEGURO. SÚMULA 83/STJ.
+1. Comparecendo a seguradora em juízo, aceitando a denunciação da lide feita pelo réu e contestando o pedido principal, assume a condição de litisconsorte passiva.
+2. Possibilidade de ser condenada e executada, direta e solidariamente, com o réu.
+3. Por se tratar de responsabilidade solidária, a sentença condenatória pode ser executada contra qualquer um dos litisconsortes.
+4. Concreção do princípio da função social do contrato de seguro, ampliando o âmbito de eficácia da relação contratual.
+5. Precedentes específicos da Terceira e da Quarta Turma do STJ.
+6. AGRAVO REGIMENTAL DESPROVIDO.
+(AgRg no REsp 474.921/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 05/10/2010, DJe 19/10/2010)(g.n.)
+_______________
+CIVIL E PROCESSUAL. SINISTRO. VEÍCULO AUTOMOTOR. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. DENUNCIAÇÃO DA LIDE FEITA PELO RÉU. ACEITAÇÃO.CONTESTAÇÃO DO PEDIDO PRINCIPAL. CONDENAÇÃO DIRETA DA DENUNCIADA (SEGURADORA) E SOLIDÁRIA COM O RÉU. POSSIBILIDADE.
+1 - Se a seguradora comparece a Juízo aceitando a denunciação da lide feita pelo réu e contestando o pedido principal, assume ela a condição de litisconsorte passiva, formal e materialmente, podendo, em conseqüência, ser condenada, direta e solidariamente, com o réu.Precedentes do STJ.
+ ..
+(REsp 699.680/DF, Rel. Ministro FERNANDO GONÇALVES, QUARTA TURMA, julgado em 29/06/2006, DJ 27/11/2006, p. 288)(g.n.)
+_______________
+4.Quanto aos julgados colacionados observa-se que o conhecimento do recurso fundado em dissídio jurisprudencial pressupõe a demonstração analítica da alegada divergência. Para tanto, faz-se necessário a transcrição dos trechos que configurem o dissenso, mencionando as circunstâncias que identifiquem os casos confrontados, ônus do qual não se desincumbiu a parte recorrente.
+Nesse sentido o AgRg no Ag 1004354 / RS, Relator Ministro Carlos Fernando Mathias (Juiz convocado do TRF 1ª Região), DJe 04.08.2008 e o AgRg no Ag 657431/SC, Relator Ministro Fernando Gonçalves, DJe 23.06.2008.
+5. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
