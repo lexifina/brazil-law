@@ -1,0 +1,18 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. APROVAÇÃO NO ENEM (EXAME NACIONAL DO ENSINO MÉDIO). ART. 126 DA LEP. RECOMENDAÇÃO 44/2013 DO CNJ. REMIÇÃO DE PENA PELO ESTUDO. POSSIBILIDADE. AGRAVO IMPROVIDO.
+1. "A interpretação mais ampla do art. 126 da LEP, de acordo com a Recomendação n. 44/2013 do CNJ, permite a remição da pena pelo estudo ao apenado não vinculado a atividade regular de ensino que obtém, por esforço próprio, aprovação em exame nacional (ENEM) que certifique o ensino médio a jovens e adultos" (HC 420.682/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/05/2018, DJe 11/05/2018).
+2. A aprovação no ENEM, a despeito de "não mais ocasionar a conclusão do ensino médio, configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ" (AgRg no HC 629.666/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 11/02/2021).
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de agravo regimental interposto contra decisão que concedeu a ordem para reconhecer o direito à remição de pena.
+Sustenta o agravante que "a aprovação no ENEM, a partir de 2017, não autoriza a remição da pena, porquanto a participação nesse exame destina-se apenas, como mencionado, a possibilitar o acesso do participante à instituição de ensino superior, não servindo mais como certificado de conclusão do ensino médio" (fl. 220).
+Nesse contexto, requer o provimento do agravo regimental para denegar a ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Insurge-se o agravante contra a remição de pena pela aprovação no Exame Nacional do Ensino Médio (ENEM).
+A decisão agravada encontra-se em consonância com a orientação desta Corte de que "A interpretação mais ampla do art. 126 da LEP, de acordo com a Recomendação n. 44/2013 do CNJ, permite a remição da pena pelo estudo ao apenado não vinculado a atividade regular de ensino que obtém, por esforço próprio, aprovação em exame nacional (ENEM) que certifique o ensino médio a jovens e adultos" (HC 420.682/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 03/05/2018, DJe 11/05/2018).
+De fato, "já decidiu esta Superior Corte de Justiça, em hipótese idêntica à tratada no presente feito ( aprovação no ENEM a partir de 2017), que não há dúvida de que o benefício da remição deve ser aplicado, tendo em vista que aprovação do paciente no ENEM a partir da referida data, inobstante não mais ocasionar a conclusão do ensino médio, configura aproveitamento dos estudos realizados durante a execução da pena, conforme dispõem o art. 126 da LEP e a Recomendação n. 44/2013 do CNJ (AgRg no HC 629.666/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 11/02/2021).
+Nesse contexto, e afastada a exegese apenas literal do recorrente, com toda a vênia, deve ser mantida a decisão agravada por seus próprios fundamentos, razão por que nego provimento ao agravo regimental.
+É o voto.
