@@ -1,0 +1,24 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNIMED REGIONAL DA BAIXA MOGIANA COOPERATIVA DE TRABALHO MÉDICO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+PLANO DE SAÚDE - RECUSA DE COBERTURA DE MATERIAIS CIRÚRGICOS INDICADOS PELO MÉDICO ASSISTENTE NÃO CREDENCIADO QUE NÃO COMPARECEU À JUNTA MÉDICA CONVOCADA PELA RÉ - CIRCUNSTÂNCIA QUE, POR SI SÓ, NÃO SE REVELOU SUFICIENTE PARA AFASTAR A NECESSIDADE DE REALIZAÇÃO DE PERÍCIA MÉDICA - TENDO FEITO O PROTESTO GENÉRICO POR PROVAS SEM MENCIONAR A INTENÇÃO DA PROVA PERICIAL A RÉ NÃO SE DESINCUMBIU DO SEU ÔNUS DA PROVA (CDC, ART.6º, INCISO VIII) - RECUSA INJUSTIFICADA - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos arts. 4º, inciso I, da Lei n. 9.961/2000; 4º, inciso V, da Resolução Consu n. 8.
+Alega, em síntese, "ser de competência da ANS propor políticas e diretrizes gerais ao Conselho Nacional de Saúde Suplementar - Consu para a regulação do setor de saúde suplementar, que restaram violados no v. Acórdão ora combatido, bem como a Resolução CONSU nº 08 em seu artigo 4º, inciso V, que expõe a possibilidade da junta médica em caso de divergência de pareceres".
+É o relatório.DECIDO.
+2. De início, não é cabível a interposição de recurso especial por violação de Resolução de órgão administrativo, pois não se enquadra no conceito de lei federal a sofrer o controle de legalidade desta Corte.
+Ressalte-se que, o conceito de lei federal, para efeito de admissibilidade do recurso especial, à luz da hodierna jurisprudência do STJ, compreende regras de caráter geral e abstrato, produzidas por órgão da União com base em competência derivada da própria Constituição, como o são as leis (complementares, ordinárias, delegadas) e as medidas provisórias, bem assim os decretos autônomos e regulamentares expedidos pelo Presidente da República. Não se incluem nesse conceito os atos normativos secundários produzidos por autoridades administrativas, tais como resoluções, circulares e portarias, para fins de interposição de Recurso Especial.
+Sob esse enfoque, confiram-se, à guisa de exemplo, julgados desta Corte em hipóteses análogas:
+PROCESSUAL CIVIL E ADMINISTRATIVO - CONTRATO DE PRESTAÇÃO DE SERVIÇOS MÉDICOS E HOSPITALARES - PLANO REAL:
+CONVERSÃO - LEI 9.069/95 - ADMISSIBILIDADE DO RECURSO ESPECIAL - VIOLAÇÃO A RESOLUÇÃO DO CNS - RELAÇÃO JURÍDICA DE TRATO SUCESSIVO - PRESCRIÇÃO (SÚMULA 85/STJ).
+1. É inviável o recurso especial articulado sob alegação de ofensa a Resolução do CNS, uma vez que não se enquadra no conceito de lei federal, conforme disposto no permissivo constitucional.
+(..) 5. Recurso especial conhecido em parte e, nessa parte, provido.
+(REsp 720.345/PE, Relatora Ministra Eliana Calmon, DJ de 17/08/2006).
+PROCESSO CIVIL - AGRAVO DE INSTRUMENTO - NEGATIVA DE PROVIMENTO - AGRAVO REGIMENTAL - RESPONSABILIDADE CIVIL - INDENIZAÇÃO - RESOLUÇÃO - ATO NORMATIVO HIERARQUICAMENTE INFERIOR AO DECRETO - DISSÍDIO JURISPRUDENCIAL - NÃO COMPROVAÇÃO - DESPROVIMENTO.
+(..) 2 - Não pode ser conhecido o recurso especial na parte em que indica ofensa ao comando da Resolução n.º 1682 do BACEN, por não estar essa espécie de ato normativo compreendida na expressão "lei federal", constante da alínea a do inciso III do artigo 105 da Constituição Federal.(..) 4 - Agravo regimental desprovido.
+(AgRg no Ag 724.336/RS, Relator Ministro Jorge Scartezzini, DJ de 26/06/2006).
+PROCESSO CIVIL. RECURSO ESPECIAL. LEI FEDERAL. Resolução do Banco Central do Brasil não se assimila à lei federal para os efeitos do recurso especial. Agravo regimental não provido.
+(AgRg no Ag 702.221/GO, Relator Ministro Ari Pargendler, DJ de 29/05/2006).
+3. No mais, amatériatratadanoartigo4º, inciso I, da Lei n. 9.961/2000não foiobjeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito dareferidamatériatrazidaà cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
