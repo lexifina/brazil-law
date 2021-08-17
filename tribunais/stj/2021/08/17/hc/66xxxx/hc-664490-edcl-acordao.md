@@ -1,0 +1,40 @@
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE CONTRADIÇÃO NO JULGADO. DOSIMETRIA. MATÉRIA JÁ ANALISADA NO JULGAMENTO DE AGRAVO EM RECURSO ESPECIAL. REITERAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte, como na hipótese. No caso, não se vislumbra contradição a ser sanada na via dos aclaratórios.
+2. Conforme o reconhecido no acórdão ora embargado, malgrado tenha afirmado que a análise detida do pleito de afastamento da valoração negativa das consequências do crime na dosagem da básica demandaria revolvimento fático-probatório, no julgamento do AREsp 1.494.270/BA, este Colegiado afastou a ocorrência de vício no cálculo dosimétrico, por ter sido declinada motivação concreta para a a valoração negativa da referida vetorial.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Convocado o Sr. Ministro Jesuíno Rissato (Desembargador Convocado).
+RELATÓRIO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de embargos de declaração opostos por ELSON MARQUES VIANA JUNIOR contra o acórdão que negou provimento ao agravo regimental, assim ementado:
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. DOSIMETRIA. REITERAÇÃO DELITIVA. MATÉRIA JÁ ANALISADA NO BOJO DE AGRAVO EM RECURSO ESPECIAL. AGRAVO DESPROVIDO.
+1. Embora tenha afirmado que a análise detida do pleito de afastamento da valoração negativa das consequências do crime na dosagem da básica demandaria revolvimento fático-probatório, no julgamento do AREsp 1.494.270/BA, este Colegiado afastou a ocorrência de vício no cálculo dosimétrico, por ter sido declinada motivação concreta para a a valoração negativa da referida vetorial, conforme se infere da decisão colegiada proferida nos respectivos autos.
+2. Nos moldes do reconhecido no parecer ministerial, constata-se que a presente impetração constitui mera reiteração do pedido formulado no AREsp 1.494.270/BA, já que evidenciada a identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Apelação n. 029544-42.2012.4.01.3300), o que constitui óbice ao seu conhecimento.
+3. Agravo regimental desprovido" (e-STJ, fl. 137).
+Em razões, o embargante aponta contradição no julgado, por ser cabível a impetração de writ visando à reforma do cálculo dosimétrico, máxime se evidente a arbitrariedade dos critérios adotados na sentença.
+Pugna, assim, pelo acolhimento dos aclaratórios a fim de reduzir a pena-base ao mínimo legal.
+É o relatório.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE CONTRADIÇÃO NO JULGADO. DOSIMETRIA. MATÉRIA JÁ ANALISADA NO JULGAMENTO DE AGRAVO EM RECURSO ESPECIAL. REITERAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte, como na hipótese. No caso, não se vislumbra contradição a ser sanada na via dos aclaratórios.
+2. Conforme o reconhecido no acórdão ora embargado, malgrado tenha afirmado que a análise detida do pleito de afastamento da valoração negativa das consequências do crime na dosagem da básica demandaria revolvimento fático-probatório, no julgamento do AREsp 1.494.270/BA, este Colegiado afastou a ocorrência de vício no cálculo dosimétrico, por ter sido declinada motivação concreta para a a valoração negativa da referida vetorial.
+3. Embargos de declaração rejeitados.
+VOTO
+EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Razão não assiste ao embargante.
+Os embargos de declaração, como recurso de correção, destinam-se a suprir omissão, contradição e ambiguidade ou obscuridade existente no julgado. Não se prestam, portanto, para sua revisão no caso de mero inconformismo da parte, como na hipótese.
+Nesse sentido, o julgado desta Corte:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INJÚRIA RACIAL. SÚMULA 7/STJ. OFENSA A DISPOSITIVOS CONSTITUCIONAIS E TRATADOS INTERNACIONAIS QUE NÃO DIZEM RESPEITO À CONTROVÉRSIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO E OBSCURIDADE. SIMPLES PRETENSÃO DE REVISÃO DO JULGADO. EMBARGOS REJEITADOS.
+1. A ora embargante faz alusão a artigos da Constituição Federal e a tratados internacionais que não dizem respeito à controvérsia tratada nos autos, cuja análise refoge à competência desta Corte. Ademais, carecem do indispensável prequestionamento.
+ ..
+3. Os embargos de declaração são recurso com fundamentação vinculada. Dessa forma, para seu cabimento, imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do Código de Processo Penal, o que não logrou fazer a embargante. Destarte, a mera irresignação com o entendimento apresentado na decisão, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+4. Embargos declaratórios rejeitados." (EDcl no AgRg no AREsp 669.505/RN, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 25/8/2015, grifou-se).
+No caso, não se vislumbra contradição a ser sanada na via dos aclaratórios.
+Conforme o reconhecido no acórdão ora embargado, malgrado tenha afirmado que a análise detida do pleito de afastamento da valoração negativa das consequências do crime na dosagem da básica demandaria revolvimento fático-probatório, no julgamento do AREsp 1.494.270/BA, este Colegiado afastou a ocorrência de vício no cálculo dosimétrico, por ter sido declinada motivação concreta para a a valoração negativa da referida vetorial, conforme se infere da decisão colegiada proferida nos respectivos autos:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ARQUIVAMENTO. INQUÉRITO POLICIAL. FALTA DE JUSTA CAUSA. CONSTITUIÇÃO DEFINITIVA DO CRÉDITO TRIBUTÁRIO. DECISÃO REBUS SIC STANTIBUS. INOCORRÊNCIA DE COISA JULGADA MATERIAL. DOLO E ERRO DE PROIBIÇÃO. REVOLVIMENTO DE MATÉRIA FÁTICA. SÚMULA 7/STJ. PENA-BASE. VALORAÇÃO NEGATIVA DAS CONSEQUÊNCIAS. PREJUÍZO ESTIMADO NA DENÚNCIA. REVISÃO DO VALOR. SÚMULA 7/STJ. AGRAVO DESPROVIDO.1. O arquivamento do inquérito policial, para aguardar a consolidação do respectivo crédito tributário, gera coisa julgada rebus sic stantibus, apenas condicionando a persecução penal ao desfecho do procedimento administrativo de lançamento. Precedentes.2. Pressupostos pelas instâncias ordinárias o poder de mando e a consciência da fraude fiscal perpetrada no crime de sonegação previdenciária, o acolhimento da pretensão recursal, para excluir a culpabilidade, demandaria a revisão do contexto fático-probatório, inviável em sede especial. Incidência da Súmula 7/STJ.3. No caso, a valoração negativa da vetorial consequências do delito está ancorada no expressivo montante apropriado ou sonegado. Desse modo, a pretensão de afastar essa circunstância a partir do confronto entre o prejuízo causado e o período de efetivo exercício da presidência na sociedade empresária demandaria a revisão do contexto fático-probatório. Súmula 7/STJ.4. Agravo regimental desprovido".
+Nesse contexto, nos moldes do reconhecido no parecer ministerial, constata-se que a presente impetração constitui mera reiteração do pedido formulado no AREsp 1.494.270/BA, já que evidenciada a identidade de partes e da causa de pedir, impugnando os dois feitos o mesmo acórdão (Apelação n. 029544-42.2012.4.01.3300), o que constitui óbice ao seu conhecimento.
+Ante o exposto, rejeito os embargos de declaração.
+É o voto.
