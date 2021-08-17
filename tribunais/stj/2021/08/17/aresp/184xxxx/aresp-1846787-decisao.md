@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por TELPO HENRIQUE PENTEADO MONTAGNANI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+AGRAVO INTERNO. APELAÇÃO CÍVEL. DECISÃO MONOCRÁTICA QUE INDEFERIU A ASSISTÊNCIA JUDICIÁRIA GRATUITA REQUERIDA EM PRELIMINAR DO RECURSO DE APELAÇÃO. INDEFERIMENTO NOS AUTOS DE ORIGEM. INVESTIMENTOS DE GRANDE MONTA. APELANTE QUE BUSCA SE FURTAR DAS RESPONSABILIDADES INERENTES AO RISCO DE SUA ATIVIDADE. MANUTENÇÃO DA DECISÃO AGRAVADA, DETERMINANDO O RECOLHIMENTO DO PREPARO RECURSAL PARA PROCESSAMENTO DO RECURSO DE APELAÇÃO CÍVEL.
+AGRAVO INTERNO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos arts. 98 a 102do CPC. Busca "a gratuidade judiciária, ainda que tácita, por ser medida de direito e que se impõe, diante do claro, real e atual estado de necessidade que de há muito vem passando" (fl. 1942).
+Decido.
+2. De acordo com entendimento firmado nesta Corte, a declaração de pobreza, com o intuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa, admitindo, portanto, prova em contrário. Nesse sentido: REsp 1187633/MS, Rel. Ministro CASTRO MEIRA, 2ª Turma, julgado em 06/05/2010, DJe 17/05/2010; AgRg no REsp 712.607/RS, Rel. Ministro CELSO LIMONGI (DESEMBARGADOR CONVOCADO DO TJ/SP), 6ª Turma, julgado em 19/11/2009, DJe 07/12/2009; entre outros.
+Além disso, o Superior Tribunal de Justiça já decidiu que "o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado." (AgRg no Ag 881.512/RJ, Rel. Ministro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), QUARTA TURMA, julgado em 02/12/2008, DJe 18/12/2008).
+No caso, o Tribunal de origem assim se manifestou (fl. 1898):
+O Agravante defende que houve o deferimento tácito do benefício da justiça gratuita. Ocorre que, como é possível observar nos autos originários, em sede de embargos de declaração (mov. 138.1), o magistrado singular responsável pelos autos indeferiu o benefício da justiça gratuita ao recorrente, tendo em vista que não juntou qualquer documento comprobatório de sua situação econômica e consignando que " (..) o exequente, apenas no dia 03 de outubro de 2014, desembolsou aproximadamente, R$ 191.990,34 (cento e noventa e um mil novecentos e noventa reais e trinta e quatro centavos) para pagar pelas malfadadas cessões de crédito. É, inequivocamente, uma quantia elevada para ser desembolsada em um único dia, por uma pessoa física." Conforme teor do art. 98 do Código de Processo Civil "a pessoa natural ou jurídica, brasileira ou estrangeira, com insuficiência de recursos para pagar as custas, as despesas processuais e os honorários advocatícios tem direito à gratuidade da justiça, na forma da lei".
+Entretanto, a simples declaração da parte, nos moldes do art. 99, §3º, do CPC, não gera a presunção absoluta da hipossuficiência financeira.
+É inviável, em sede de recurso especial, rever as provas que levaram o julgador a decidir pelo indeferimento do pedido de justiça gratuita, em face do óbice da Súmula 7/STJ que impede o conhecimento do recurso, quando necessário reexame de provas.
+A propósito:
+AGRAVO INTERNO NO AGRAVO (ART. 544 DO CPC/73) - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - IMPUGNAÇÃO À JUSTIÇA GRATUITA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.IRRESIGNAÇÃO DA AGRAVANTE.
+1. Consideram-se preclusas as matérias que, veiculadas no recurso especial e dirimidas na decisão agravada, não são reiteradas no agravo interno. Precedentes.
+2. (..)
+3. Outrossim, a pretensão de que seja avaliada pelo Superior Tribunal de Justiça a condição econômica do agravado exigiria o reexame de provas, o que é vedado em sede de recurso especial, em face do óbice contido na Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 736.058/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/05/2018, DJe 28/05/2018)
+Além disso, cumpre consignar que "aausência de manifestação a respeito do pedido de justiça gratuita não implica deferimento tácito"(AgInt nos EDcl no AREsp 1594540/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 15/03/2021, DJe 18/03/2021)
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
