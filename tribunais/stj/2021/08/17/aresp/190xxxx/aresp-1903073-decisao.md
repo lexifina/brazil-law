@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por IRAN CARDOSO JUNIOR contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS, assim resumido:
+CIVIL E PROCESSUAL CIVIL. APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. SENTENÇA DE PROCEDÊNCIA. PEDIDO DE REFORMA. PROVAS SUFICIENTES QUANTO À PRESTAÇÃO DOS SERVIÇOS E AO INADIMPLEMENTO. SENTENÇA MANTIDA. RECURSO DESPROVIDO.
+1. Tendo em vista que a instituição de ensino demonstrou a efetiva prestação dos serviços educacionais, assim como o inadimplemento da parte adversa, deve ser mantida a sentença que condenou o apelante ao pagamento das mensalidades em atraso.
+5. Recurso desprovido.
+Quanto à primeira controvérsia, alega violação dos arts. 474, 476 do CC; e 42, parágrafo único, do CDC, no que concerne à interrupção ou descontinuidade do contrato de serviços e a ausência de contraprestação, trazendo os seguintes argumentos:
+Nessa esteira, a interrupção ou descontinuidade de Contrato de Serviços (em Entidade de Ensino Superior), impõe observância quanto à inteligência do disposto no art. 476 c/c art. 474 do Código Civil, e por isso, permissa venia, incide o Acórdão recorrido, em error in judicando, quando decide que a Recorrente tem que pagar por serviços não prestados, conforme se vê da tessitura que ressai na síntese do acórdão recorrido, no teor, ad litteram:
+ ..
+Não basta que a Instituição de Ensino tenha disponibilizados os serviços, impende saber se o contratante estivesse tomando esses serviços, e no caso, tendo conhecimento a Recorrida de que esses serviços não estavam mais sendo tomados, não se concebe que, sequer notificação tenha sido feita ao contratante, reside aí infringência ao disposto no 476 c/c art. 474 do Código Civil, conforme demonstrado na esteira desses fundamentos.
+Conforme se vê, no caso vertente, é dever da contratada, de alguma forma promover notificação á parte desistente, sob pena de evidenciar-se má fé da prestadora em dar continuidade/prosseguimento de contrato, muito embora tenha conhecimento de que não mais ocorre prestação, a extinção opera-se de pleno direito, quer seja por ato próprio da prestadora ou da contratante, ex vi do disposto no art. 476 c/c art. 474 do Código Civil.
+Abusiva e ilegal é a cláusula e conduta de prestador serviços de ensino, no sentido de permitir continuidade de um contrato que o sabe não ter a contrapartida da prestação dos serviços, e assim se beneficiar sob alegação de que os serviços estavam à disposição da Contratante, conforme ocorreu no caso vertente (fls. 160-162).
+Quanto à segunda controvérsia, alega violação dos arts. 373, I, do CPC, no que concerne à distribuição do ônus da prova, trazendo os seguintes argumentos:
+Por derradeiro, quanto à violação ao disposto no art. 373, I, do Código de Processo Civil, o ônus da prova é do credor/Recorrido e, se o credor não demonstrou a contento a prestação dos serviços educacionais ao apelante.
+Não há nos autos do processo quaisquer documentos assinados pelo Recorrente, no sentido de se demonstrar frequência às aulas.
+ ..
+Por fim, imperioso salientar com relação ao ônus da prova quanto ao fato constitutivo do direito de crédito recai sobre o autor de cobrança (art. 373 do CPC), no caso o recorrido.
+Assim, o descumprimento desse ônus acarreta a improcedência do pedido de execução. (fls. 163-164).
+É, no essencial, o relatório. Decido.
+No que concerne à primeira e à segunda controvérsias, o Tribunal de origem se manifestou nos seguintes termos:
+Portanto, não há dúvidas de que o apelante se matriculou e efetivamente cursou a referida matéria durante o 2º semestre de 2014.
+Além do mais, de acordo com o documento de ID 19033176, o qual demonstra detalhadamente o histórico financeiro do aluno enquanto esteve matriculado naquela instituição, percebe-se que se encontram sem pagamento as mensalidades relativas aos meses de setembro, outubro, novembro e dezembro de 2014.
+Por fim, como bem destacou a sentença, possível verificar que durante o segundo semestre de 2014, o apelante efetuou o pagamento de um acordo extrajudicial firmado junto à empresa CIBRAT, o que reforça a existência do direito perseguido pela apelada (fl. 148).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
