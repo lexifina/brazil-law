@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo interposto pela Companhia Estadual de Águas e Esgotos (CEDAE),desafiando decisão da Vice-Presidência do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial com base nos seguintes fundamentos: incide a Súmula 283/STF, por falta de impugnação a fundamento adotado no acórdão recorrido; e (II) aplica-se a Súmula 284/STF, em razão da falta de pertinência temática entre os fundamentos do recurso e o acórdão recorrido, assim como "não há no acórdão menção sobre a forma de cobrança da tarifa de esgoto." (fl. 779).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo não ultrapassa a barreira do conhecimento, pois a parte agravante não impugnou os motivos adotados pelo Tribunal de origem para negar trânsito ao apelo especial.
+Com efeito, apesar de afirmar, genericamente, que não é aplicável a Súmula 284/STF,a parte agravante não declinou os motivos pelos quais, no seu entender, o óbice apontado pela Corte de origem não seria aplicável ao caso concreto, deixando de tecer qualquer consideração sobre a ausência de pertinência temática dos dispositivos apontados como violados e sobre a ausência de manifestação da Corte a quo em relação à forma de cobrança da tarifa de esgoto.
+Em outras palavras, o agravo deixou de rebater, de modo específico, o fundamento adotado pela decisão agravada, o que atrai a incidência, por analogia, da Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO,nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
