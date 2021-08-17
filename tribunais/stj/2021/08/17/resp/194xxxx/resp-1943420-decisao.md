@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUnião,com fundamento no artigo 105, III, "a", da CF/1988, contra acórdão doTribunal Regional Federal da 4ª Região,assim ementado (e-STJ fls. 71-72):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. FAZENDA PÚBLICA. EXCESSO NOS CÁLCULOS. ERRO MATERIAL. PRECLUSÃO CONSUMATIVA. PROVIDO.
+1. Esclareça-se que erro material diz respeito a equívocos aritméticos (erros de operação aritmética), inclusão de parcela indevida no cálculo ou exclusão de parcela devida, podendo ser arguido a qualquer tempo e fase do processo e não se submetendo aos efeitos da preclusão. Todavia, não se estando diante de mero erro material no cálculo elaborado, as alegações, objeto da segunda impugnaçãoestão alcançadas pela preclusão consumativa, eis que não suscitadas no momento oportuno, qual seja a original impugnação ao cumprimento de sentença.
+2.Determinadaa pronta liberação dos valores reconhecidos como devidos pela União em sua primeira impugnação, restando impossibilitadaa devolução dos honorários advocatícios já levantados.
+Embargos de declaração rejeitados(e-STJ fls. 99-100).
+A parte recorrente alega, preliminarmente, violação doartigo1.022, I e II,do CPC/2015, aoargumento de que a Corte de origem não se manifestou acerca de questões imprescindíveis à correta apreciação da controvérsia.
+Quanto àquestão de fundo, sustenta ofensa aos artigos 666 da CLT e 884 do Código Civil combinado com o art. 535, III, do CPC/2015, na medida em que "não se trata de algum novo critério de cálculo trazido pela União, e sim de previsão legal do valor a ser recebido pelo juiz classista suplente pelo trabalho realizado".
+Defende, com isso, que o ponto objeto da controvérsia deve ser conhecido, inclusive, de ofício, pois trata-se de incorreta aplicação da lei que ocasionará enriquecimento sem causa do ora recorrido.
+Afirmaque:
+(i) "não procede o argumento no sentido de que o título não condicionaria o número de audiências ao pagamento integral da vantagem, justamente porque não pode o título judicial prevalecer sobre expressa previsão de lei que não foi declarada inconstitucional no âmbito da referida ação coletiva";
+(ii) "No cálculo, foi considerado como devida a PAE em seu valor máximo durante todo o período postulado. Entretanto, esse valor apenas é devido quando se tratar de pagamento integral a ativos, inativos e pensionistas, e não no caso dos juízes classistas, que recebiam pagamento por sessão";
+(iii) "conforme comprovam os documentos encaminhados pelo TRT4, os Magistrados não participaram de audiências todos os dias, durante todo o período da execução, de modo que as parcelas deveriam ter sido calculadas proporcionalmente ao número de sessões efetivamente realizadas";
+(iv) "recentemente, em comunicação recebida do TRT4, a União obteve o número de audiências às quais os exequentes compareceram, que devem embasar o cálculo dos valores efetivamente devidos";
+(v) "não se pode autorizar a execução de valores que não foram inseridos no título executivo"; e
+(vi) "a correção de erros meramente materiais nos cálculos pode ser feita a qualquer tempo, inclusive de ofício pelo juiz da causa, não sendo matéria sujeita a preclusão".
+Sem contrarrazões (e-STJ fl. 127).
+Juízo negativa de admissibilidade do recurso especial às e-STJ fls. 130-134.
+Provimento do agravo para determinar sua conversão em recurso especial (e-STJ fl. 172).
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+De início, afasta-se a alegada violação do artigo 1.022, I e II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+No caso dos autos, assentou a Corte de origem (e-STJ fls. 75-76):
+ .. esclareça-se que erro material diz respeito a equívocos aritméticos (erros de operação aritmética), inclusão de parcela indevida no cálculo ou exclusão de parcela devida, podendo ser arguido a qualquer tempo e fase do processo e não se submetendo aos efeitos da preclusão.
+Contudo, erros materiais não podem ser confundidos com critérios de cálculo ou interpretação do julgado, como ocorrein casu.
+A União, em impugnação ao cumprimento de sentença, primeira defesa apresentada, nada referiu acerca da matéria ora em comento (proporcionalidade da PAE ao número de sessões/mês).
+Com efeito, não se estando diante de mero erro material no cálculo elaborado, tais alegações, objeto da segunda impugnação, estão alcançadas pela preclusão consumativa, eis que não suscitadas no momento oportuno, qual seja a original impugnação ao cumprimento de sentença.
+Importa ressaltar que não se faz possível a interposição de múltiplos recursos contra uma única decisão, em respeito aos princípios da unirrecorribilidade das decisões e ao da citada preclusão consumativa, sob pena, inclusive, de se gerar tumulto processual.
+Desnecessário, portanto, qualquer esclarecimento ou complemento ao que já decidido pela Corte de origem, pelo que se afasta a ofensa ao artigo 1.022 do CPC/2015.
+No que se refere àalegada violação do art. 884 do Código Civil, face ao enriquecimento indevido da parte recorrida, observa-se que a Corte de origem não apreciou a controvérsia a luz do referido dispositivo de lei federal e da tese a ele vinculada, o que acarreta o não conhecimento do recurso especial pela falta de cumprimento ao requisito do prequestionamento. Aplica-se à hipótese a Súmula 211/STJ.
+Destaca-se inexistir contradição no decisum ao se afastar eventual violação ao art. 1022 do CPC/2015 e, ao mesmo tempo, entender por incidir a Súmula 211/STJ, quando as matérias se mostrarem autônomas e a decisão objurgada estiver suficientemente fundamentada para elucidar a controvérsia.
+Quanto àquestão de fundo, a Corte de origem entendeu não estar diante de mero erro de cálculo, mas de uma tentativa de reabrir a fase executiva, o que não seria possível neste momento. Infirmar a referida conclusão, adotando-se, para tanto, as razões recursais, pressupõe necessariamente revisitar o conjunto fático-probatório do feito, o que é obstado na via do apelo especial, por força da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. ERRO MATERIAL. PRECLUSÃO. ENRIQUECIMENTO SEM CAUSA. NECESSIDADE DE ANÁLISE DO TÍTULO EXECUTIVO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+2. Agravo interno não provido. (AgInt no AREsp 1.790.379/RS, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 24/6/2021)
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. PREVENÇÃO. COMPETÊNCIA DA SEGUNDA TURMA. NULIDADE RELATIVA ARGUIDA APENAS EM AGRAVO REGIMENTAL. PRECLUSÃO. VIOLAÇÃO AO ART. 535 DO CPC. INEXISTÊNCIA. PRESCRIÇÃO. ALEGAÇÃO EM FASE DE EMBARGOS À EXECUÇÃO. OFENSA À COISA JULGADA. ALEGAÇÃO DE EXCESSO À EXECUÇÃO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. A não observância da regra contida no art. 71 do RISTJ gera apenas nulidade relativa, de modo que, caso não seja reconhecida de ofício, deve ser suscitada até o início do julgamento do recurso pelo colegiado ou monocraticamente pelo relator, nos termos do § 4º do citado artigo.
+2. Os embargos de declaração têm como objetivo sanear eventual obscuridade, contradição ou omissão existentes na decisão recorrida. Não há omissão no acórdão recorrido quando o Tribunal de origem pronuncia-se de forma clara e precisa sobre a questão posta nos autos, assentando-se em fundamentos suficientes para embasar a decisão. Ademais, o magistrado não está obrigado a rebater, um a um, os argumentos trazidos pela parte.
+3. É firme a jurisprudência do Superior Tribunal de Justiça no sentido de que "só é possível a discussão quanto à prescrição, em sede de embargos à execução contra a Fazenda Pública, quando essa for superveniente à sentença, sob pena de ofensa à coisa julgada" (AgRg no REsp 973.098/SC, Rel. Min. MAURO CAMPBELL MARQUES, Segunda Turma, DJe 16/12/08).
+4. Desconstituir os fundamentos do acórdão recorrido no tocante à inexistência de excesso de execução ou de erro material nas contas homologadas, demandaria o reexame de matéria fática, o que é vedado em recurso especial, nos termos da Súmula 7/STJ. Precedentes.
+5. Agravo regimental improvido. (AgRg no Ag 1.392.923/RN, Relator Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 25/6/2014)
+Ante o exposto, conheço parcialmente do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. VIOLAÇÃO DOART.1.022 DO CPC/2015. NÃO OCORRÊNCIA. CUMPRIMENTO DE SENTENÇA. AGRAVO DE INSTRUMENTO. ART. 884 DO CÓDIGO CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO QUE ASSENTOUINEXISTIR ERRO DE CÁLCULO. REVISÃO. IMPOSSIBILIDADE. NECESSÁRIO REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. RECURSOPARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
