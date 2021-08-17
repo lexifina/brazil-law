@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de agravo interno interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBAcontra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu dorecurso especial por intempestividade (e-STJ fls. 1.075/1.076).
+Nas presentes razões (e-STJ fls. 1.079/1.169), a agravante alega, em síntese, que o próprio tribunal de origem atestou, na certidão de publicação, o início do prazo recursal para o dia 14/2/2018 (quarta-feira), decorrente do feriado de carnaval.
+Acosta aos autos o Decreto Judiciário nº 902/2017, o qual comprova a suspensão do expediente forense nos dias 12 e 13/2/2018.
+Ao final, requer a reconsideração da decisão atacada ou a submissão do feito ao colegiado.
+Devidamente intimada, a parte contrária não ofereceu impugnação (e-STJ fl. 1.173).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Assiste razão à agravante.
+A Corte Especial do Superior Tribunal de Justiça, por ocasião do julgamento do REsp nº 1.813.684/SP e da questão de ordem que lhe seguiu, reafirmou o entendimento de que o feriado local deve ser comprovado no ato da interposição do respectivo recurso (Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, julgado em 2/10/2019, DJe 18/11/2019), devendo ser observada, exclusivamente em relação ao feriado da segunda-feira de Carnaval, a modulação dos efeitos dessa decisão, nos termos do art. 927, § 3º, do CPC/2015, a fim de que a interpretação consolidada sobre o tema seja aplicada somente após a publicação do acórdão respectivo, ocorrida aos 18/11/2019.
+Assim, exercendo o juízo de retratação facultado pelo art. 259, § 6º, do Regimento Interno do Superior Tribunal de Justiça, reconsidero a decisão agravada (e-STJ fls. 1.075/1.076)e passo ao exame do recurso especial interposto por COMPANHIA DE HABITAÇÃO POPULAR DE CURITIBA,fundamentado nas alíneas "a" e "c" do permissivo constitucional,contra o acórdão proferido pelo Tribunal de Justiça do Estado do Paraná assim ementado:
+"RECURSO DE APELAÇÃO - FEITO SUBMETIDO A NOVO JULGAMENTO, POR DETERMINAÇÃO DO STJ - EMBARGOS DE TERCEIRO - AÇÃO DE COBRANÇA DE TAXAS CONDOMINIAIS EM FASE DE CUMPRIMENTO DE SENTENÇA - AÇÃO DE CONHECIMENTO INTERPOSTA EM FACE DOS PROMITENTES COMPRADORES - SENTENÇA TRANSITADA EM JULGADO - EXECUÇÃO INICIADA - PENHORA DO IMÓVEL GERADOR DO DÉBITO CONDOMINIAL - RETOMADA DA POSSE PELO PROPRIETÁRIO INDICADO NA MATRÍCULA DO IMÓVEL - PROPRIETÁRIO QUE NÃO FOI .INCLUÍDO NO POLO PASSIVO DA EXECUÇÃO, MAS APENAS INTIMADO COMO INTERESSADO, EM RAZÃO DA PENHORA DO IMÓVEL E DO RISCO DE POSTERIOR EXPROPRIAÇÃO - IMÓVEL QUE DEVE RESPONDER PELOS DÉBITOS CONDOMINIAIS - PRECEDENTE DO STJ, PROFERIDO NO JULGAMENTO DO RESP 1.345.331/RS, QUE NÃO SE APLICA AO PRESENTE CASO, POIS ANALISOU SITUAÇÃO FÁTICA DIVERSA - ACÓRDÃO MANTIDO EM JUIZO DE RETRATAÇÃO" (e-STJ fls. 828/829).
+Os embargos de declaração opostosforam rejeitados (e-STJ fls. 865/873).
+Nas razões recursais (e-STJ fls. 876/910), além de divergência jurisprudencial, a recorrente alegouviolação dos artigos4º, parágrafo único, 9º, 12, §4º, e 20 da Lei nº 4.591/1964;109, 489, II, 506, 513, § 5º, 674, § 2º, III,779, I, 789 e 1.022, I e II, do Código de Processo Civil de 2015 e 1.345 do Código Civil.
+Aduziu que o Tribunal de origem incorreu em negativa de prestação jurisdicional por omissão e contradição no tocante
+"(..) à aplicação dos dispositivos legais que embasariam o entendimento de que a constrição judicial sobre bem imóvel da COHAB-CT viola a coisa julgada, assim como o de que o promitente comprador deve responder pela demanda e que não há aplicação da norma do art. 1.345 do CC e 789 do NCPC (art. 592 do CPC/73)" (e-STJ fl. 886).
+Sustentou que a
+"(..) constrição judicial não pode recair sobre bens de terceiro, inexistindo assim a possibilidade de transferir a responsabilidade pelo pagamento das despesas condominiais em atraso à COHAB-CT, vez que esta Companhia nunca participou da relação processual, tampouco foi reconhecida como devedora no "título executivo"" (e-STJ fl. 887).
+Ressaltou que o entendimento do aresto recorrido contraria a jurisprudência consolidada do Superior Tribunal de Justiça no REsp 1.345.331/RS, julgado no rito do recurso repetitivo.
+Assinalouque a disponibilidade da posse transfere a responsabilidade pelo pagamento da taxa condominial ao promitente comprador no período em que ocupou o imóvel, devendo ser reconhecida sua ilegitimidade passiva.
+Afirmoua impossibilidade de se incluir terceiro no polo passivo da ação de execução de cobrança de taxas condominiais.
+Ao final, requereu o provimento do recurso.
+A parte contrária não apresentou contrarrazões (e-STJ fl. 1.067).
+A pretensão recursal não merece acolhida.
+De início, no tocante à violação dos artigos 489 e 1.022 do Código de Processo Civil de 2015, verifica-se que o Tribunal de origem motivou adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+No caso, o Tribunal de Justiça esclareceu que o STJ determinou que fosse realizado um novo julgamento com base em entendimento consolidado e não de acordo com a decisão proferida no recurso especial originário destes autos, de modo que é irrelevante tratar sobre a anuência da COHAB no contrato primevo.
+Não há falar, portanto, a existência de omissão apenas pelo fato de o julgado recorrido ter decidido em sentido contrário à pretensão da parte.
+De fato, na hipótese dos autos, instado a se manifestar por este Superior Tribunal de Justiça (e-STJ fls. 509/511) em relação à adequação do caso concreto ao entendimento consolidado em repetitivo, o aresto recorrido esclareceu que a situação fática em exame é distinta da analisada noREsp 1.345.331/RS, pois, conquanto o imóvel objeto de penhora tenha sido prometido, o negócio jurídico foi cancelado, sendo o bem retomado pela recorrente, conforme demonstra a leitura dos seguintes trechos do voto condutor do acórdão:
+"(..)
+Contudo, analisando a decisão proferida por este Colegiado, não nos pareceu existir relação entre o caso em análise e o entendimento pacificado pelo Superior Tribunal de Justiça, no Recurso Representativo da Controvérsia nº 1.345.331/RS, pois a situação fática, em ambos os casos, é diversa.
+(..)
+No caso destes autos, à época da propositura da ação de Cobrança, os promitentes compradores, ao contrário do ocorrido na hipótese do Acórdão paradigma, se encontravam na posse do imóvel e tal circunstância era do conhecimento do condomínio, pelo que a ação foi contra eles proposta, o que estava de acordo com o entendimento do Superior Tribunal de Justiça.
+Contudo, no curso da ação de cobrança o imóvel foi desocupado, conforme certidão do oficial de justiça juntada à fl. 45, datada de 30/08/2009.
+O compromisso de compra e venda foi rescindido por decisão judicial, conforme averbação na matrícula do imóvel, datada de 02/08/2007.
+De acordo com a sentença proferida nos autos de ação de resolução de contrato c/c indenização por perdas e danos c/c reintegração de posse (autos nº 0003442-97.2007.8.16.0004), movida pela Cohab em face de Euclides Garzon e Ângela Maria Machado Garzon, a efetiva desocupação do imóvel "presume-se ter sido em 31/12/2009, porquanto na declaração do síndico do Condomínio em que se encontra referido imóvel, consta estar o apartamento desocupado desde o mês de janeiro de 2010".
+Portanto, em virtude da rescisão contratual, a Cohab retomou a posse do imóvel, circunstância esta que não foi objeto de análise pelo STJ, no julgamento do Recurso Representativo da controvérsia.
+Veja-se que no caso do Recurso Representativo da Controvérsia, os embargantes e promitentes compradores ainda se encontravam na posse do imóvel e por isso o Superior Tribunal de Justiça determinou a manutenção da penhora sobre o imóvel pertencente aos terceiros, que não participaram da fase de conhecimento.
+(..)
+No caso destes autos, quando o imóvel foi penhorado, os promitentes compradores já não se encontravam mais na posse e isto era do conhecimento do condomínio, ou seja, a possuidora já era a Cohab, pelo que a penhora deve ser mantida" (e-STJ fls. 833 e 835/837).
+O entendimento acima transcrito está de acordo com a jurisprudência desta Corte em situações análogas.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL - EMBARGOS DE TERCEIRO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA EMBARGANTE.
+1. Em regra, o promitente vendedor não pode ser responsabilizado pelos débitos condominiais posteriores à alienação, contemporâneos à posse do promissário comprador, pois, ao alienar o imóvel, tem a intenção de desvincular-se do direito real sobre o bem.
+Entretanto, quando o promitente vendedor obtém a retomada do bem anteriormente alienado, em virtude da reaquisição, sua condição de proprietário e/ou titular de direito real sobre a coisa não se rompe, razão porque o adquirente de imóvel em condomínio responde pelas cotas condominiais em atraso, ainda que anteriores à aquisição, ressalvado o seu direito de regresso contra o antigo proprietário/possuidor. Precedentes.
+2. Na hipótese, a insurgente (promitente vendedora) readquiriu a titularidade do direito real sobre o bem imóvel anteriormente alienado, motivo pelo qual deve responder pelos débitos do condomínio, ainda que não tenha figurado como parte na ação de conhecimento no âmbito da qual formado o título executivo judicial, pois nos termos do art. 568, inc. III, do Código de Processo Civil/73, aplicável à hipótese, a alienação ou cessão do imóvel ou direito litigioso alcança o novo devedor que assumiu a obrigação.Precedentes.
+3. Agravo interno desprovido"(AgInt no REsp 1.288.890/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/11/2020, DJe 18/12/2020 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. TAXA CONDOMINIAL. CONTRATO DE PROMESSA DE COMPRA E VENDA ANULADO. REAQUISIÇÃO. RESPONSABILIDADE DO VENDEDOR.LEGITIMIDADE PASSIVA CONSTATADA. REVISÃO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. Segundo orientação deste Tribunal Superior, o promitente vendedor é responsável pelo pagamento das taxas condominiais quando, após o cancelamento do contrato de promessa de compra e venda, retoma a titularidade do bem.
+2. Concluindo a instância ordinária que o promitente vendedor sempre obteve a propriedade do imóvel cuja taxa condominial é devida, descabe ao Superior Tribunal de Justiça a modificação do posicionamento adotado, pois, para tanto, seria preciso o revolvimento de fatos e provas, vedado pela Súmula 7/STJ.
+3. Agravo interno desprovido"(AgInt nos EDcl no REsp 1.769.450/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 09/03/2020, DJe 13/03/2020).
+Incide ao caso, portanto, a Súmula nº 568/STJ.
+Ante o exposto, reconsiderando a decisão agravada (e-STJ fls. 1.075/1.076), nego provimento ao recurso especial.
+Em conformidade com o EAREsp 1.255.986/PR, deixo de majorar os honorários advocatícios por se tratar de recurso oriundo de sentença proferida sob a égide do Código de Processo Civil de 1973 (Rel. Ministro Luis Felipe Salomão, Corte Especial, julgado em 20/3/2019, DJe 6/5/2019).
+Publique-se.
+Intimem-se.
