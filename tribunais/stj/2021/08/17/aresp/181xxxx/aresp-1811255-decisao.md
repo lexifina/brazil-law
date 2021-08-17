@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por IJUÍ ENERGIA S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"Agravos de instrumento, com polos invertidos, direcionados contra a mesma decisão. Ação revisional de contrato que se encontra na fase de liquidação de sentença por arbitramento. Decisão homologatória do segundo laudo pericial contábil. Mérito da causa que restou imutável, com a determinação da revisão contratual e o restabelecimento de seu equilíbrio, em razão da onerosidade excessiva sofrida pela parte autora com a ociosidade dos trabalhadores e maquinários, causada pelas chuvas extraordinárias que ocorreram em novembro de 2009, o que opera a rejeição de qualquer outra pretensão indenizatória que se afaste disso. Determinação de liquidação da sentença, com apresentação de documentos comprobatórios dos prejuízos, que guarda correlação com o próprio pedido inicial. Segundo o artigo 504, §4º do Código de Processo Civil, a fase de liquidação do julgado não é a seara adequada para que se promova nova discussão da lide ou alteração do julgado que se tornou imutável. Autora que não pode arvorar-se na qualidade de credora de todo e qualquer valor operacional verificado durante o aludido período de prorrogação dos trabalhos. Considerando-se que o atraso para a entrega das obras não teve como causa exclusiva a ocorrência das chuvas extraordinárias, lastreando-se igualmente em problemas fundiários não imputáveis à ré, e ausentes outros parâmetros aptos a definir o grau de impacto de cada um dos motivos em cada um dos diferentes serviços prestados pela autora, não há dúvidas de que o critério da proporcionalidade dos gastos, em igualdade de condições, revela-se como o mais justo e adequado para a solução da controvérsia que envolve o quantum debeatur. Tese defensiva da ré, no sentido de restringir a indenização ao limite percentual de 12% (doze por cento) do total das despesas comprovadas e devidas, que igualmente não se sustenta. Improvimento de ambos os recursos" (e-STJ fl. 87).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, alega-se violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022, II, do Código de Processo Civil de 2015, ao fundamento de que o acórdão combatido incorreu em negativa de prestação jurisdicional ao não apreciar aspectos relevantes da demanda suscitados nos embargos declaratórios, e
+(ii) arts. 477, § 3º, 480 e 502 do Código de Processo Civil de 2015, haja vista a necessidade de intimação do perito judicial para complementação da perícia.
+Com as contrarrazões, foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No mais, cuida-se de agravo de instrumento interposto na origem contra decisão que, em sede de liquidação de sentença por arbitramento, homologou laudo pericial.
+O Tribunal de origem assim dirimiu a controvérsia:
+"(..)
+23. E pelos mesmos motivos, no que se refere ao recurso manejado pela Ijuí S/A, igualmente não se vê qualquer embasamento fático-jurídico que justifique a redução de tal proporcionalidade.
+24. Em primeiro lugar, porque a realização de um estudo pluviométrico nesta fase processual não é mais cabível, já que a matéria do atraso, afeta ao mérito da causa, já havia delimitado o atraso aos meses de março a novembro de 2010, sem quebra da continuidade.
+25. Por isso, revela-se completamente inviável sua tese de que, tendo sido o atraso nas obras de 10 (dez) meses e o período de ociosidade a ser ressarcido somente relativo ao mês de novembro/2009, a paralisação, por este motivo, não representaria mais do que 12% (doze por cento) do total das despesas comprovadas e devidas. Tal fato, repita-se, está acobertado sob o manto da coisa julgada.
+26. Por todo o exposto, não se vê motivação suficiente para desconstituir o laudo pericial apresentado em juízo, ou a metodologia por ele utilizada e, via de consequência, modificar-se a decisão que o acolheu" (e-STJ fls. 97/98 - grifos no original).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado da Súmula nº 7 deste Superior Tribunal.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Não cabe, na hipótese, a majoração dos honorários sucumbenciais prevista no art. 85, § 11, do Código de Processo Civil de 2015, pois o recurso tem origem em decisão interlocutória sem a prévia fixação de honorários.
+Publique-se. Intimem-se.
