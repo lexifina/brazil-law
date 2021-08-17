@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo interposto porZANON & ZANON ADMINISTRADORA DE FRANCHISING LTDA. contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"Franquia. Rescisão por culpa da franqueadora. Alegação de documentos juntados intempestivamente. Inocorrência. Pedidos dos autores que não possuem relação com o desrespeito ao prazo de entrega da COF, mas tão somente com o descumprimento das demais obrigações contratuais da franqueadora. Não comprovação, por parte dos autores, de que a franqueadora estivesse repassando comissões a menor ou de forma atrasada. Responsabilidade da franqueadora pela rescisão contratual, porém, consiste na disponibilização de software ao franqueado apresentando diversos problemas, ferramenta essencial ao exercício do negócio. Prejuízo por isso reconhecido que se atribuiu na forma de cláusula penal indevida. Incidência da previsão própria, o que se contém no pedido de indenização, formulado além do pleito de restituição das quantias pagas. Cláusula de não concorrência que, mesmo diante do reconhecimento da responsabilidade da franqueadora pelo desfazimento do negócio, deve ser aplicada. Recurso parcialmente provido." (fl. 236e-STJ).
+No recurso especial, a recorrente alega que houve violação dos arts. 141 e 492 e1.022 do Código de Processo Civil de 2015. Afirma, em síntese, que não houve pedido de condenação em multa contratual e que sua condenação ao pagamento dessa multa é nula, por configurar decisão ultra petita.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+No tocante à apontadadecisão ultra petita, esta Corte entende que "O provimento do pedido feito na inicial por fundamentos jurídicos diversos dos alegados pelo autor não implica julgamento extra ou ultra petita. O princípio da adstrição visa apenas a assegurar o exercício, pelo réu, de seu direito de defesa, de modo que é possível o acolhimento da pretensão por fundamento autônomo, como corolário do princípio da mihi factum dabo tibi ius, desde que não reflita na instrução da ação" (AgInt no REsp n. 1.201.556/MT, Relator Ministro Marco Buzzi, QuartaTurma, julgado em 4/5/2020, DJe 7/5/2020).
+No presente caso, o Tribunal de origem entendeu que
+"Tal a que serve, antes, a cláusula 31ª, que estipula cláusula penal compensatória de duas vezes (não dez) o valor da taxa inicial da franquia (fls. 68).
+Ademais, se esta cláusula penal também não foi expressamente referida na inicial, ali se vê que o autor postulou, além da restituição de tudo quanto pagou, indenização pelos prejuízos decorrentes do inadimplemento da ré. Mas esta indenização foi justamente aquela pré-fixada pelas partes na cláusula 31ª. Daí a sua incidência, reduzida então a condenação de dez para duas vezes o valor da taxa inicial da franquia" (e-STJ fl. 241)
+Ao contrário do alegado, a parte demandada, ora recorrida, ao interpora ação, pugnou pela condenação na indenização em perdas e danos, prevista no artigo 402 do CC (e-STJ fl. 11).
+Rever,a conclusão do acórdão estadual, fixada no sentido de que o contrato já teria pré-fixado a indenização por perdas e danos, esbarraria no disposto naSúmulanº5/STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 2.000,00 (dois mil reais), os quais devem ser majorados para R$ 2.400,00 (dois mil e quatrocentosreais)em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
