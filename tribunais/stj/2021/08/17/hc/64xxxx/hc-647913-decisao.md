@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de JOSÉ MARIA GERONIMO DA SILVA apontando como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Habeas Corpusn. 2204867-23.2020.8.26.0000).
+Os autos dão conta de que o Juízo de primeiro grau, na data de 14/7/2011, por ocasião do recebimento da denúncia, decretou a prisão preventiva do paciente pela suposta prática do crime previsto no art. 121, § 2º, IV, do Código Penal (homicídio qualificado).Isso, porque, segundo narra a exordial acusatória (e-STJ fl. 29):
+ .. em 03 de janeiro de 2005, por volta de 20h00m, na Rua Sebastião de Jesus Soares, defronte ao n. 169, Vila Jurema, nesta cidade de Ferraz de Vasconcelos/SP, JOSE MARIA GERONIMO DA SILVA, qualificado a fls. 243, fazendo uso de arma de fogo, mediante recurso que dificultou a defesa do ofendido, matou Alexandre Francisco dos Santos, o qual sofreu os graves ferimentos descritos no laudo de exame necroscópico de fls. 36 e atingiu Marcos Galdino da Silva, provocando-lhe os ferimentos descritos no laudo de exame de corpo de delito de fls. 181.
+A prisão preventiva foi efetivada na data de 9/8/2019. Em decisão proferida na data de 3/3/2020, o Juízo da 2ª Vara da Comarca de Ferraz de Vasconcelos/SP manteve a segregação e, em 18/8/2020, indeferiu o pedido de libertação do réu (e-STJ fls. 143/144).
+Irresignada, a defesa impetrouhabeas corpusno Tribunal de origem, que denegou a ordem, nos termos do acórdão de e-STJ fls. 173/177 (sem ementa).
+No presentewrit, a Defensoria Pública do Estado de São Paulo alega haver excesso de prazo na custódia, bem como aponta a desnecessidade de sua manutenção.
+Acrescenta, ainda, que a manutenção da prisão contribui para a disseminação do novo coronavírus (Covid-19), invocando a aplicação daRecomendação n. 62 do Conselho Nacional de Justiça.
+Por isso, requer, inclusive liminarmente, "seja concedida a ordem do presente "writ"para o relaxamento da prisão preventiva por excesso de prazo, ou, então, a concessão da liberdade provisória, ainda que com a aplicação de outras medidas cautelares, expedindo-se de imediato o competente alvará de soltura"(e-STJ fl. 13).
+O pedido liminar foi por mim indeferido (e-STJ fls. 843/846).
+Prestadas as informações de estilo, o Ministério Público Federal opinou pelo não conhecimento dowritou, no mérito, pela denegação da ordem (e-STJ fls. 914/917).
+É, em síntese, o relatório.
+Decido.
+Das informações extraídas do sítio eletrônico do Tribunal de origem, verifica-se que, nos autos da Ação Penal n. 0001844-24.2005.8.26.0191, objeto do presente writ, houve a prolação da decisão de pronúncia em 5/5/2021, ocasião em que foi mantida a segregação cautelar do paciente, aos seguintes fundamentos:
+Persistindo os pressupostos e requisitos anteriormente analisados para a decretação da prisão preventiva, e agora com maior razão diante da pronúncia do acusado, tendo em vista a necessidade de garantia da aplicação da lei penal e conveniência da instrução criminal, uma vezque o réu permaneceu foragido e o processo suspenso por cerca de 7 anos, do que se extrai o riscode que caso venha a ser colocado em liberdade volte e se evadir do distrito da culpa e não sejanovamente mais localizado, mantenho a custódia e nego ao réu o direito de recorrer em liberdade.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, encontra-se prejudicado o pleito de relaxamento de prisão em decorrência do alegado constrangimento ilegal pelo excesso de prazo na formação da culpa, em razão da superveniência de decisão de pronúncia, conforme inteligência da Súmula n. 21/STJ, que prescreve:
+Pronunciado o réu, fica superada a alegação do constrangimento ilegal da prisão por excesso de prazo na instrução. (Súmula 21, TERCEIRA SEÇÃO, julgado em 6/12/1990, DJ 11/12/1990.)
+Ademais,não havendo pronunciamento do Tribunal de origem sobre a manutenção da prisão provisória na decisão de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+Ante o exposto,julgo prejudicado o presente habeas corpus.
+Publique-se. Intimem-se.
