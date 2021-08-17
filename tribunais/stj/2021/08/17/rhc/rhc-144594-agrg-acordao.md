@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+2. Hipótese em que o agravante limita-se a reiterar mesma argumentação lançada nas razões do habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Convocado o Sr. Ministro Jesuíno Rissato (Desembargador Convocado).
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por SÉRGIO MASSOUD MITRI contra decisão que negou provimento ao recurso ordinário em habeas corpus.
+Em razões, alega que o Relatório de Inteligência Financeira do COAF não menciona o nome do ora agravante e, muito menos, de suas empresas, motivo pelo qual o Ministério Público não conseguiu descrever minimamente a conduta imputada.
+Sustenta que o objeto do recurso é a inépcia formal da denúncia em razão da deficiente descrição dos fatos imputados ao agravante relativamente à lavagem de dinheiro.
+Afirma que a denúncia não identificou o procedimento supostamente utilizado pelo agravante para ocultar a origem do dinheiro e reintroduzi-lo na economia formal.
+Argumenta que a denúncia é imprecisa, genérica e indeterminada e que a aferição de sua robustez não exige aprofundamento fático-probatório.
+Requer a reconsideração da decisão agravada ou a submissão do presente agravo à Quinta Turma, a fim de que seja determinado o trancamento da ação penal quanto ao crime de lavagem de dinheiro, diante da inépcia formal da denúncia.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+2. Hipótese em que o agravante limita-se a reiterar mesma argumentação lançada nas razões do habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS(Relator):
+"O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369-SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ-PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+Nas razões do recurso, a defesa sustentou que a denúncia não descrevia, em momento algum, a suposta conduta praticada pelo recorrente para converter os valores obtidos através de atividades ilícitas, em ativos lícitos e, tampouco, a forma como tais valores teriam sido utilizados na atividade econômica. Em outras palavras, afirmou que a denúncia não continha a especificação das operações financeiras supostamente realizadas pelo recorrente ou por intermédio das empresas por ele administradas. Requereu o reconhecimento da inépcia formal da denúncia pelo crime de lavagem de dinheiro, com o consequente trancamento da ação penal. Em suma, investe-se contra uma suposta inépcia formal da peça acusatória.
+Na decisão agravada, esta Relatoria negou provimento ao recurso, salientando que, conforme decidido pela Corte a quo, a denúncia atendia às exigências do art. 41 do Código de Processo Penal, descrevendo os fatos delituosos e permitido o exercício do direito de ampla defesa. Foi registrada a necessidade de prosseguimento da ação penal diante dos indícios de autoria e materialidade e porque devidamente caracterizada a subsunção da conduta do recorrente ao tipo penal descrito na denúncia, uma vez que foi denunciado por envolvimento em organização criminosa voltada para a comercialização ilícita de combustível, à constituição de empresas por meio do uso de dados de interpostas pessoas, à sonegação fiscal e à lavagem do dinheiro advindo de tais práticas, figurando como principal sócio de Carlos Alberto Barbosa de Souza, auxiliando-o nas atividades de compra, transporte, armazenamento, mistura e venda de combustíveis em desacordo com as especificações legais, além da ocultação das vantagens econômicas obtidas. Foi ressaltado, ainda, que o recorrente disponibilizava empresas construtoras registradas em seu nome para colocação dos valores obtidos com as fraudes perpetradas, proporcionando a quebra da cadeia de evidências sobre a origem ilícita dos recursos, dificultando o seu rastreamento.
+Foi como compreendeu o Ministério Público Federal:
+"7. O acórdão recorrido concluiu pela existência de indícios que autorizam o prosseguimento da ação, descrevendo a denúncia a conduta e o enquadramento ao respectivo tipo penal, de forma a garantir o exercício do direito de ampla defesa. Aduziu que eventuais omissões poderão ser supridas até o momento da sentença, bem como que a existência do crime precedente à lavagem de dinheiro foi devidamente narrada na denúncia, permitindo à defesa apresentação de provas e argumentos para demonstrar a licitude da conduta anterior e, assim, a conduta quanto à lavagem de dinheiro.
+8. Como assentado pelo TJ/ES, o trancamento da ação penal em habeas corpus é medida excepcional, somente adotada quando indiscutível a ausência de justa causa, que, como visto, não é a hipótese dos autos. Para se chegar à conclusão diversa imprescindível aprofundamento fático-probatório." (e-STJ, fls. 353-354).
+A denúncia, portanto, não é inepta, e ir além dessa análise implicaria aprofundamento em fatos e provas, incompatível com a via mandamental. A defesa há de se realizar, em sua plenitude, no seio da ação penal, cujo trancamento prematuro não parece viável, de momento.
+Verifica-se, assim, que o agravante limita-se a reiterar as mesmas argumentações lançadas nas razões do recurso em habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+Diante do exposto, nego provimento ao agravo.
+É como voto.
