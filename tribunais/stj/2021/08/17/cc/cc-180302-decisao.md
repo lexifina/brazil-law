@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO DE DIREITO DA 5ª VARA CÍVEL DE PETROLINA - PE e suscitadooJUÍZO DE DIREITO DA 1ª VARA DE FEITOS DE RELAÇÃO DE CONSUMO CÍVEL E COMERCIAIS DE JUAZEIRO - BA.
+Proposta ação de indenização junto aoJUÍZO DE DIREITO DA 1ª VARA DE FEITOS DE RELAÇÃO DE CONSUMO CÍVEL E COMERCIAIS DE JUAZEIRO - BA, este declinou da competência para oJUÍZO DE DIREITO DA 5ª VARA CÍVEL DE PETROLINA - PE sob os seguintes fundamentos:
+"Em tempo, observo ser este Juízo absolutamente incompetente para presidir e julgar este feito, porquanto se afere que a parte autora ajuizou tutela antecipada em caráter antecedente na Comarca de Petrolina/PE, que tramitou perante a 5ªVara Cível, sob o número 0004591-06.2016.817.1130.
+No caso, mesmo diante da sua extinção prematura, observo que, pelo critério adotado pelo CPC/2015, o registro ou a distribuição é que torna prevento o juízo (artigo 59 do CPC/2015), ainda mais diante da inegável conexão entre os feitos, que somente não continuou ali tramitando por não ter o autor promovido o aditamento da inicial, no prazo de 15 (quinze) dias concedido.
+Assim, considerando que a escolha de juízo fere o princípio do Juiz Naturale, portanto, a própria Constituição Federal, a competência passa a ser absoluta reconhecível pelo Juízo a qualquer tempo ou grau de jurisdição" (fl. 44 e-STJ).
+O Juízo pernambucano, por sua vez, suscitou o presente conflito nos seguintes termos:
+"Em que pese o alegado pelo juízo suscitado, não vislumbro conexão entre este processo (503564-06.2016.8.05.0146 - numeração Bahia / 0007013-60.2019.8.17.3130 - numeração Pernambuco e o Processo 4591.06-2016.8.17.1130, que tramitou na 5ª vara Cível de Petrolina.
+Analisando aqueles autos, observo que a ação 4591.06-2016.8.17.1130, foi sentenciada em 18 de agosto de 2017, sem que tenha havido a interposição de qualquer recurso, estando atualmente arquivado em definitivo.
+Ademais, aqueles autos tratavam apenas de uma tutela antecipada antecedente, com o objetivo de determinar que a Unimed procedesse a procedimento cirúrgico no autor. Ao passo que o processo em epígrafe se trata de indenização por danos morais e materiais em decorrência da negativa de atendimento pelo plano de saúde.
+O Código de Processo Civil dispõe em seu art. 286, em seu inciso I, que serão distribuídas por dependência as causas de qualquer natureza quando se relacionarem, por conexão ou continência, com outra já ajuizada.
+Observo que embora os fatos que deram ensejaram as duas ações sejam os mesmos, o pedido é diferente vez que na ação originária, o pedido era de uma obrigação de fazer para a promoção de cirurgia do requerente, ao passo que a presente ação trata apenas de indenização, trazendo ainda um fato novo, qual seja, os danos materiais suportados pelo autor em razão da demora no atendimento.
+Ademais, não há que se falar em risco de decisões conflitantes vez que a ação 4591.06-2016.8.17.1130,foi sentenciada em 18 de agosto de 2017 e o art. 55 § 1º CPC, expressamente exclui a possibilidade de reunião num mesmo juízo quando um processo já foi sentenciado"(fl. 40 e-STJ).
+O Ministério Público Federal, em seu parecer (fls. 52/54 e-STJ), opinou pela competência doJUÍZO DE DIREITO DA 1ª VARA DE FEITOS DE RELAÇÃO DE CONSUMO CÍVEL E COMERCIAIS DE JUAZEIRO - BA
+É o relatório.
+DECIDO.
+O conflito encontra-se configurado e deve ser dirimido.
+Conforme consignado pelo Juízo suscitante, o feito de nº 0004591-06.2016.817.1130já foi sentenciado, tendo ocorrido o respectivo trânsito em julgado, não havendo falar, portanto, em conexão entre as demandas.
+Independentemente da identidade ou não das causas de pedir e dos pedidos dos processos em referência, observa-se que, de fato, éhipótese de aplicaçãoda Súmula nº 235/STJ a qual dispõe que"A conexão não determina a reunião dos processos, se um deles já foi julgado".
+Esclareça-se, por oportuno, que tal enunciado sumular foi editado em plena vigência do Código de Processo Civil de 1973 e sua orientação acabou incorporadaao Código de Processo Civil de 2015, no seu artigo 55, § 1º.
+Transcreva-se:
+"Art. 55. Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou a causa de pedir.
+§ 1º Os processos de ações conexas serão reunidos para decisão conjunta, salvo se um deles já houver sido sentenciado."
+Nesse sentido,confiram-se, ainda, os seguintes precedentes:
+"CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUÍZO TRABALHISTA. AÇÃO CIVIL PÚBLICA EM TRÂMITE NA JUSTIÇA DO TRABALHO E AÇÃO CAUTELAR INOMINADA NO JUÍZO CÍVEL. AÇÃO CIVIL PÚBLICA SENTENCIADA. SÚMULA N. 235/STJ.
+1. Tendo em vista que a ação civil pública já se encontra sentenciada, ainda que se tratem de ações conexas, o que poderia ocasionar a reunião de processos, incide, no caso, a Súmula n. 235, do STJ - "A conexão não determina a reunião dos processos, se um deles já foi julgado".
+2. Agravo regimental improvido" (AgRg no CC 119.070/ES, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 13/11/2013, DJe 19/11/2013).
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. CONTRADIÇÃO, OBSCURIDADE OU OMISSÃO. INEXISTÊNCIA, TENDO A CORTE LOCAL APENAS PERFILHADO ENTENDIMENTO DIVERSO DAQUELE DEFENDIDO PELA PARTE. AÇÕES DE INDENIZAÇÃO DECORRENTE DE REPORTAGEM JORNALÍSTICA, JULGADAS POR JUÍZOS DIVERSOS. PREVENÇÃO DE ÓRGÃO JULGADOR QUE JULGOU UMA DAS AÇÕES. INEXISTÊNCIA.
+1. A conexão ou a continência, por decorrência da identidade da causa de pedir ou pedido, torna conveniente o julgamento conjunto, não só por medida de economia processual, mas também para evitar a possibilidade de prolação de decisões contraditórias, que trariam desprestígio à Justiça.
+2. É conveniente a reunião de feitos na mesma fase processual por efeito de conexão, não o sendo quando já foram julgadospor Juízos de primeira instância distintos, pois orienta a Súmula 235/STJ que a conexão não determina a reunião dos processos, se um deles já foi julgado, não sendo também cabível se tiver o condão de ocasionar tumulto ao Juízo, caso venha a receber todas as demandas.Precedentes do STJ.
+3. De qualquer modo, mesmo havendo afinidade jurídica entre as demandas e ponto fático em comum, a reunião de processos é faculdade do juiz, por isso só cabe ser efetivada se for oportuna e conveniente e, ainda assim, para julgamento conjunto das causas.
+4. Recurso especial parcialmente provido para anular o acórdão recorrido para que outro seja prolatado, dando por superado o entendimento de haver prevenção de outro Órgão julgador"(REsp 1.001.820/RJ, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/5/2012, DJe 29/5/2012).
+"AGRAVO REGIMENTAL NO CONFLITO DE COMPETÊNCIA. JUÍZOS ESTADUAL E FEDERAL. AÇÃO INDENIZATÓRIA PROPOSTA POR PARTICULAR CONTRA PESSOA JURÍDICA DE DIREITO PRIVADO. INEXISTÊNCIA DE COMPROVADO INTERESSE DA UNIÃO, QUE SEQUER FAZ PARTE DO PROCESSO. COMPETÊNCIA DA JUSTIÇA ESTADUAL. POSSIBILIDADE DE APLICAÇÃO DA SÚMULA Nº 235/STJ TAMBÉM AOS CASOS DE CONTINÊNCIA.
+1. É competente a Justiça estadual para o julgamento de ação indenizatória proposta por particular contra pessoa jurídica de direito privado, na qual não se tenha presente o interesse da União.
+2. A mera existência de ação de desapropriação intentada pela agravante contra o ora interessado, ação que tramita na Justiça Federal e na qual a União se afigura como interessada, não é causa suficiente para atrair a competência daquela ação indenizatória para o foro federal. A competência estabelecida para essa esfera, inserta no artigo 109 da Constituição Federal, não pode ser estendida por presunção.
+3. A Súmula nº 235/STJ pode ser aplicada em casos de continência.Precedente.
+4. Agravo regimental não provido"(AgRg no CC 115.232/TO, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/3/2012, DJe 16/3/2012).
+Ante o exposto, conheço do conflito para declarar competente oJUÍZO DE DIREITO DA 1ª VARA DE FEITOS DE RELAÇÃO DE CONSUMO CÍVEL E COMERCIAIS DE JUAZEIRO - BA - ora suscitado.
+Oficiem-se.
+Publique-se.
