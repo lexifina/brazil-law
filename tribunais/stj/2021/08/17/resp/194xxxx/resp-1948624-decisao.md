@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial manejado pela União Federalcom fundamento no art. 105, III, ada CF, contra acórdão proferido pelo Tribunal Regional Federal da 4ª Região, assim ementado (fl. 60):
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO DE SENTENÇA. NOMEAÇÃO.DIFERENÇAS. BASE DE CÁLCULO. CORREÇÃO MONETÁRIA.COISA JULGADA.
+1. Por possuírem previsão constitucional, sendo devidas a todos os servidores ocupantes de cargo público, cabível a inclusão da gratificação natalina e do adicional de férias na base de cálculo dos valores devidos.
+2 . O auxílio-alimentação integra a remuneração dos agentes penitenciários federais, independentemente de qualquer condição pessoal do servidor, de modo que tal verba deve ser considerada na apuração das diferenças pretéritas.
+3. Tratando-se a parcela "PER CAPITA - SAÚDE SUPLEMENTAR" de rubrica relacionada a condições pessoais do servidor, deve o exequente, para fazer jus a ela, comprovar o preenchimento dos requisitos impostos pela legislação de regência.
+4. Não tendo o exequente sequer prestado o labor, inviável a inclusão do adicional de insalubridade e do adicional noturno na base de cálculo das diferenças devidas, uma vez que o pagamento de tais parcelas exige a efetiva sujeição a condições específicas de trabalho.
+5. Tendo a decisão exequenda determinado expressamente a aplicação, a contar de 30/06/2009, do disposto no art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, deve a correção monetária dos valores devidos, a partir daquela data, observar a incidência dos índices oficiais de remuneração básica aplicados à caderneta de poupança (atualmente, a TR), inclusive no período posterior a 25/03/2015, sob pena de ofensa à coisa julgada.
+Opostos embargos declaratórios, foram rejeitados (fls. 89/95).
+A parte recorrente aponta violação aos arts. 535, I e II do CPC/1973, 22 da Lei nº 8.460/92, 1º do Decreto nº 4.978/2004 e 1º-F da Lei 9.494/97. Sustenta tese de negativa de prestação jurisdicional. Afirma a existência de excesso de execução, porquantosomente podem entrar na base de cálculo dos valores devidos ao autor as verbas de caráter geral, que seriam o vencimento básico e aGDAPEF. Invoca o princípio do não enriquecimento ilícito. Requer a revisão do índice de correção monetária.
+Os autos permaneceram sobrestados na origem, a fim de aguardar o julgamento da Excelsa Corte no RE 870.947 (Tema 810). Após referido julgamento, o Tribunal de origem, na decisão de fl. , exerceu juízo de retratação e adequou o decisum ao que restou decidido pelo STF (fls. 291/300), não havendo recurso da parte ora recorrente quanto ao ponto.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O inconformismo não prospera.
+De início, afasta-se a alegadaofensa ao art. 535, II do CPC/73, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+Lado outro, quanto aostemas referentes ao excesso de execução e enriquecimento ilícito, observa-se que a par da falta de rigor com que a recorrente expôs o seu inconformismo, não deixando claro de que forma os arts.22 da Lei nº 8.460/92, 1º do Decreto nº 4.978/2004 teriam sido violados pela instância ordinária, observa-se que tais dispositivos legais nãoguardam pertinência temática com a argumentação desenvolvida no apelo especial, circunstância que atrai a incidência da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.").
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ADMINISTRATIVO. MOVIMENTAÇÃO EXTRAORDINÁRIA. SERVIDORES DO TRIBUNAL SUPERIOR ELEITORAL. ILEGALIDADE RECONHECIDA. SITUAÇÃO CONSOLIDADA.
+DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284/STF.
+1. Os dispositivos legais apontados como violados, a saber, artigos 7º da Lei 9.421/96 e 21 da Lei Complementar 101/2002, não guardam pertinência temática com a fundamentação adotada pelo acórdãorecorrido, que assentou sua conclusão exclusivamente na chamada teoria do fato consumado. Assim, incide, no ponto, o entrave da Súmula 284/STF ("É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia").
+2. No tópico em que as razões recursais procuram demonstrar a inaplicabilidade da chamada teoria do fato consumado, não foi indicado nenhum dispositivo de lei federal eventualmente violado pelo acórdão recorrido, valendo observar que o apelo especial veio amparado apenas na franquia constitucional da letra a. Portanto, também nesse aspecto, o recurso especial apresenta-se deficientemente fundamentado, atraindo a incidência do já referido verbete 284 da Súmula do Supremo Tribunal Federal.
+3. Ademais, o apelo especial não impugnou fundamento basilar que ampara o acórdão recorrido, circunstância que atrai a incidência da Súmula Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 71.610/DF, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/12/2016, DJe 19/12/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONCURSO PÚBLICO E LEI DE LICITAÇÕES E CONTRATOS. IMPERTINÊNCIA TEMÁTICA. SÚMULA 284/STF. AGRAVO NÃO PROVIDO.
+..
+2. A ausência de pertinência temática entre o julgado recorrido e o dispositivo de lei federal, tido pela agravante como ofendido, faz incidir o óbice contido no verbete sumular 284/STF.
+3. Rever o entendimento firmado pelo Tribunal de origem no sentido de reconhecer a habilitação técnica do candidato demandaria o reexame de matéria fático-probatória, inviável em recurso especial, a teor do disposto na Súmula 7/STJ.
+4. Agravo regimental não provido.
+(AgRg no AREsp 167.117/RJ, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA TURMA, julgado em 18/10/2012, DJe 25/10/2012)
+ANTE O EXPOSTO, conheço em parte do recurso especial e, na parte conhecida, nego-lhe provimento.
+Publique-se.
