@@ -1,0 +1,72 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO ATIVA. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA OCORRÊNCIA DE SUSPENSÃO NO ATO DE INTERPOSIÇÃO DO APELO.FORMA DE CONTAGEM. DIAS CORRIDOS. INCIDÊNCIA DO ART. 798 DO CÓDIGO DE PROCESSO PENAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 15 (QUINZE) DIAS.AGRAVO REGIMENTAL DESPROVIDO.
+I - Onovo CPC exige, de forma expressa, que a comprovação da ocorrência de feriado local/suspensão de prazo seja feita no ato da interposição do recurso, a teor do disposto no art. 1.003, § 6º (AREsp 957821/MS, Rel. para o acórdão a Ministra Nancy Andrighi, DJe 19/12/2017).
+II -Cumpre salientar, por necessário, que a Terceira Seção deste Superior Tribunal de Justiça, ao julgar o AgRg na Rcl n. 30.714/PB, firmou a tese de que a contagem dos prazos em processo penal possui ordenação específica em dias corridos, consoante disposto no art. 798 do Código de Processo Penal.
+III - No caso, a decisão proferida foi considerado publicada em 27/07/2020, conforme certidão de fl. 387. Assim, o prazo recursal teve seu termo inicial em 28/07/2020, contudo, o recurso foi protocolado somente em 26/08/2020, conforme fl. 389, sem a comprovação da ocorrência da suspensão do prazo processual no ato da interposição. Nesse contexto, é inegável a intempestividade do agravo emrecurso especial, visto que foi protocolado após o prazo de 15 (quinze) dias corridos.
+Agravo regimental desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO: Trata-se de agravo regimental no agravo em recurso especial interposto porMICHEL VINICIUS COSTA BRITOcontra decisão da Presidência desta Corte(fls. 420-424), pela qual o apelo não foi conhecido, considerando a manifestaintempestividade.
+Neste regimental, a parte aponta pela tempestividade do recurso especial, ao argumento de que o eg. Tribunal de origem, com a finalidade de evitar o contágio, desde o inicio da pandemia, editou Diversos Decretos suspendendo os prazos físicos, os quais foram permanecem até a presente data.
+Afirma que "que o equívoco foi perpetrado pelo TJBA, que ao remeter os autos ao STJ, olvidou-se de informa/encaminhar os Decretos que suspenderam os prazos dos processos fisicos" (fl. 454). E mais, que "O STJ, possui Jurisprudência consolidada no sentido de possibilitar a parte comprovar a tempestividade em sede de Agravo regimental" (fl. 454).
+Requer a parte, nesses termos, a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao Colegiado.
+Por manter o decisum, apresento o feito à Turma para julgamento.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO ATIVA. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE COMPROVAÇÃO DA OCORRÊNCIA DE SUSPENSÃO NO ATO DE INTERPOSIÇÃO DO APELO.FORMA DE CONTAGEM. DIAS CORRIDOS. INCIDÊNCIA DO ART. 798 DO CÓDIGO DE PROCESSO PENAL. INTERPOSIÇÃO FORA DO PRAZO LEGAL DE 15 (QUINZE) DIAS.AGRAVO REGIMENTAL DESPROVIDO.
+I - Onovo CPC exige, de forma expressa, que a comprovação da ocorrência de feriado local/suspensão de prazo seja feita no ato da interposição do recurso, a teor do disposto no art. 1.003, § 6º (AREsp 957821/MS, Rel. para o acórdão a Ministra Nancy Andrighi, DJe 19/12/2017).
+II -Cumpre salientar, por necessário, que a Terceira Seção deste Superior Tribunal de Justiça, ao julgar o AgRg na Rcl n. 30.714/PB, firmou a tese de que a contagem dos prazos em processo penal possui ordenação específica em dias corridos, consoante disposto no art. 798 do Código de Processo Penal.
+III - No caso, a decisão proferida foi considerado publicada em 27/07/2020, conforme certidão de fl. 387. Assim, o prazo recursal teve seu termo inicial em 28/07/2020, contudo, o recurso foi protocolado somente em 26/08/2020, conforme fl. 389, sem a comprovação da ocorrência da suspensão do prazo processual no ato da interposição. Nesse contexto, é inegável a intempestividade do agravo emrecurso especial, visto que foi protocolado após o prazo de 15 (quinze) dias corridos.
+Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO: Em que pesem os argumentos dos agravantes, o recurso não merece prosperar, devendo ser mantido o decisum ora agravado.
+Com efeito, aCorte Especial, no julgamento do AREsp 957.821/MS, decidiu, por maioria, não admitir a comprovação do feriado local/suspensão de prazo em momento posterior à interposição do recurso, quando este for interposto contra decisão publicada na vigência do CPC de 2015, em respeito à regra contida no art. 1003, § 6º, do diploma processual.
+Eis o teor da ementa do julgado acima citado:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido" (AgInt no AREsp 957.821/MS, Corte Especial, Rel. Min. Raul Araújo, Relª. p/ Acórdão Minª. Nancy Andrighi, DJe de 19/12/2017).
+No mesmo sentido, os seguintes precedentes:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE. PRAZO DE 15 DIAS. SUSPENSÃO DOS PRAZOS PROCESSUAIS. RESOLUÇÃO CNJ N. 313/2020. RECURSO DESPROVIDO.
+1. O prazo para interposição de agravo em recurso especial é de 15 dias (arts. 994, VIII, 1.003, § 5º, e 1.042, caput, do CPC).
+2. Em razão da pandemia de covid-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme a Resolução CNJ n. 313/2020, voltando a fluir, em relação aos processos eletrônicos, em 4/5/2020.
+3. A suspensão dos prazos no tribunal de origem fora do período mencionado na Resolução CNJ n. 313/2020 deve ser comprovada no momento da interposição do recurso.
+4. Agravo regimental desprovido."(AgRg no AREsp 1826275/PB, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe 28/06/2021)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE. PRAZO DE 15 DIAS. SUSPENSÃO DOS PRAZOS PROCESSUAIS NA INSTÂNCIA DE ORIGEM. NECESSIDADE DE COMPROVAÇÃO. JURISPRUDÊNCIA DO STJ. RECURSO DESPROVIDO.
+1. O prazo para interposição de agravo em recurso especial é de 15 dias (arts. 994, VIII, 1.003, § 5º, e 1.042, caput, do Código de Processo Civil).
+2. É necessária a comprovação, por meio de documento idôneo e no momento da interposição do recurso, da suspensão dos prazos processuais na instância de origem (art. 1.003, § 6º, do CPC).
+3. Agravo regimental desprovido."(AgRg no AREsp 1.809.435/PB, Quinta Turma, Rel. Min. João Otávio de Noronha, DJe 28/06/2021)
+"AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. SUSPENSÃO DO PRAZO RECURSAL. SUPERVENIÊNCIA DE RECESSO NATALINO. COMPROVAÇÃO POR DOCUMENTO IDÔNEO. INEXISTÊNCIA.
+1. Com o advento da Resolução n. 8 do Conselho Nacional de Justiça, cada Tribunal estadual passou a deliberar sobre a regulamentação de seu expediente forense no recesso natalino.
+2. Assim, diante da possibilidade da existência de diferentes deliberações sobre o recesso forense, torna-se necessário aos recorrentes a comprovação da decisão do Tribunal local sobre a suspensão de seus prazos recursais, a fim de possibilitar a verificação da tempestividade recursal. Precedentes do STJ.
+3. A eventual suspensão do prazo recursal, decorrente de ausência de expediente ou de recesso forense, feriados locais, entre outros, nos Tribunais de Justiça estaduais, deve ser comprovada por documento idôneo, não servindo para tanto, a juntada de cópias de páginas extraídas da rede mundial de computadores. Precedentes.
+4. Agravo regimental improvido." (AgRg no AREsp 1.294.816/SP, Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 31/10/2018)
+"AGRAVO REGIMENTAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. MATÉRIA CRIMINAL. FRAUDE À LICITAÇÃO. ACLARATÓRIOS. OPOSIÇÃO. PRAZO LEGAL DE 2 DIAS. INTEMPESTIVIDADE. AGRAVO IMPROVIDO.
+1. O prazo para oposição de embargos declaratórios é de 2 dias quando se tratar de matéria criminal, nos termos do artigo 619 do Código de Processo Penal.
+2. Nos termos da jurisprudência deste Sodalício "a suspensão do curso dos prazos processuais prevista no art. 220 do Código de Processo Civil - CPC não incide sobre os processos de competência da justiça criminal, sendo que o recesso judiciário e o período de férias coletivas, em matéria processual penal, têm como efeito, em relação aos prazos vencidos no seu curso, a mera prorrogação do vencimento para o primeiro dia útil subsequente ao seu término, não havendo interrupção ou suspensão."(AgRg nos EDcl no AREsp 1279278/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/04/2019, DJe 22/04/2019)
+3. No caso, o acórdão do agravo regimental foi disponibilizado no Diário da Justiça Eletrônico/STJ em 18.12.2018, considerado publicado em 19.12.2018, e os aclaratórios foram opostos somente em 4.2.2019, sendo, portanto, intempestivos.
+4. Agravo regimental improvido." (AgRg nos EDcl no AgRg no AREsp 1.207.246/DF, Quinta Turma, Rel. Min. Jorge Mussi, DJe 25/06/2019, grifei)
+"PENAL. PROCESSUAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL NÃO COMPROVADO NO ATO DE INTERPOSIÇÃO DO RECURSO ESPECIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte Especial, no julgamento do AREsp n. 957.821/MS, pacificou o tema no âmbito desta Corte Superior, decidindo que "o art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+2. Agravo regimental desprovido." (AgRg no AREsp 1.242.016/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 24/08/2018, grifei)
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. ART. 1003, § 6º, CPC/2015. RECURSO IMPROVIDO.
+1. Nos termos da jurisprudência firmada pela Corte Especial do Superior Tribunal de Justiça, no julgamento do AgInt no AREsp n. 957.821/MS, a aferição da tempestividade dos recursos interpostos na vigência do novo Código de Processo Civil, na hipótese de feriado local, deverá ser comprovada mediante documento idôneo, no ato da interposição do recurso, nos termos da disposição expressa contida no § 6º do art. 1.003 do CPC/2015.
+2. É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c o art. 1.003, § 5º, do CPC e art. 798 do CPP.
+3. Agravo regimental improvido." (AgRg nos EDcl no AREsp 1.151.522/MS, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe 12/09/2018, grifei)
+Além disso, importa lembrar que o art. 798 do Código de Processo Penal, em seu caput e § 1º, determina que "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado" e que "Não se computará no prazo o dia do começo, incluindo-se, porém, o do vencimento".
+Nesse sentido, destaco o seguinte precedente:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVO CONTRA DECISÃO DENEGATÓRIA DE RECURSO ESPECIAL INTERPOSTO FORA DO PRAZO LEGAL. INTEMPESTIVIDADE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Nos termos do entendimento desta Corte, nas ações que tratam de matéria penal ou processual penal não incidem as regras do artigo 219 do novo Código de Processo Civil, referente à contagem dos prazos em dias úteis, porquanto o Código de Processo Penal, em seu artigo 798, possui disposição específica a respeito da contagem dos prazos, in verbis: "Todos os prazos correrão em cartório e serão contínuos e peremptórios, não se interrompendo por férias, domingo ou dia feriado".
+2. Agravo regimental a que se nega provimento" (AgRg no AREsp n. 962.681/DF, Sexta Turma, Relª. Minª. Maria Thereza Assis Moura, DJe de 27/9/2016, grifei).
+Cumpre salientar, por necessário, que a Terceira Seção deste Superior Tribunal de Justiça, ao julgar o AgRg na Rcl n. 30.714/PB, Rel. Ministro Reynaldo Soares da Fonseca, DJe de 4/5/2016, firmou a tese de que a contagem dos prazos em processo penal possui ordenação específica em dias corridos, consoante disposto no art. 798 do Código de Processo Penal.
+In casu, a decisão proferida foi considerado publicada em 27/07/2020, conforme certidão de fl. 387. Assim, o prazo recursal teve seu termo inicial em 28/07/2020, contudo, o recurso foi protocolado somente em 26/08/2020, conforme fl. 389, sem a comprovação da ocorrência da suspensão do prazo processual no ato da interposição.
+Assim sendo, "É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º e 1.029, todos do Código de Processo Civil, e também art. 798 do Código de Processo Penal." (AgRg no AREsp n. 1.215.894/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 29/06/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
