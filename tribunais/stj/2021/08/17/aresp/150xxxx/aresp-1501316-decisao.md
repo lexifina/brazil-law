@@ -1,0 +1,46 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por TEREZINHA ALVES DOS SANTOScontra decisão que inadmitiu o recurso especial combase na Súmula 7/STJ,por entender que a questãonecessitaria de reexame de prova, fundando-se unicamente em questões de fato(e-STJfl. 464).
+A parte agravante sustenta que, na verdade, se tratade hipótese de revaloração de prova, e não reexame(e-STJfls. 470/482).
+Contraminuta apresentada (e-STJfl. 498).
+Processo com prioridade legal (art. 1.048, I, do CPC/15, c/c o art. 71 da Lei n. 10.741/2003).
+É o relatório.
+Atendidos os requisitos de conhecimento do. presente agravo, passo a examinar o recurso especial interposto (e-STJfls. 426/451).
+Trata-se de recurso especial interposto, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOassim ementado (e-STJfls. 340/350):
+PREVIDENCIÁRIO CERCEAMENTO DE DEFESA NÃO CONFIGURADO RESTABELECIMENTO DE AUXÍLIO-DOENÇA CONVERSÃO EM APOSENTADORIA POR INVALIDEZ LEI Nº 8213/91 FRATURA DA CLAVÍCULA JÁ CONSOLIDADA E SEM SEQÜELA ORTOPÉDICA PERÍCIA OFICIAL ATESTA QUE NÃO HÁ INCAPACIDADE NÃO CONCESSÃO DO BENEFÍCIO IMPROVIMENTO À APELAÇÃO.
+1. Não há que se falar em cerceamento de defesa, tendo em vista que as questões apresentadas pela autora, quando intimada para este fim, foram respondidas pelo perito judicial, conforme se infere do laudo pericial e complementadas pelo parecer do perito, onde este esclarece acerca das tendinites e/ou tenossinovites apresentadas pela autora. A irresignação da parte autora consiste apenas no fato de a conclusão do laudo pericial judicial ser contrária ao dos atestados apresentados por seu médico particular.
+2. O auxílio-doença é um benefício de natureza temporária concedido para amparar o segurado que, cumprida a carência, for considerado incapaz para o trabalho, enquanto durar a incapacidade (artigo 59 da Lei nº 8.213/91). Quando a incapacidade for insusceptível de reabilitação para o exercício de atividade que lhe garanta a subsistência, será devida aposentadoria por invalidez, sendo o benefício pago enquanto permanecer nessa condição (art. 42 da Lei nº 8.213/91).
+3. No tocante à alegada inaptidão para o trabalho, a perícia médica oficial atesta que a pericianda foi acometida por trauma com fratura da clavícula já consolidada e sem sequela ortopédica, não havendo incapacidade e/ou limitação para o trabalho. Ressaltou o perito que "a paciente encontra-se com boa mobilidade sem apresentar dor no membro afetado com amplitude de movimentos normais, com manobras ortopédicas de instabilidade do ombro negativas", sustentando, ainda, que "a paciente ao exame apresenta-se normal".
+4. Desse modo, não há razoabilidade no restabelecido do benefício de auxílio-doença, tampouco a concessão da aposentadoria por invalidez. Precedente desta Corte.
+Os embargos de declaração foram rejeitados (e-STJfls. 381/388).
+Defende, em síntese, ter o acórdão recorrido contrariado dispositivos de leis federais, quais sejam os arts.42 e 44da Lei nº. 8.213/1991, uma vez que a paciente seriaincapaz para o trabalho e insuscetível de reabilitação para o exercício de atividade que lhe garanta a subsistência, o que foi afastado pelo juízo de origem com fundamento emlaudo pericial extremamente resumido e omisso (fls. 428/432).
+Apresentadas contrarrazões (e-STJfls. 456/458).
+Decido.
+O juízo de origem entendeu, com base na perícia médica, que a incapacidade que deu origem ao auxílio-doença deixou de existir, não sendo cabível o seu restabelecimento, tampouco a concessão de aposentadoria por invalidez (e-STJ fl. 347).Diante disso, alterar a conclusão a que se chegou na origem demandaria análise do conjunto probatório constante dos autos, o que atrai o óbice da Súmula 7/STJ.
+No ponto:
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. PENSÃO POR MORTE. DEPENDENTE. INVALIDEZ ANTES DA MORTE DO SEGURADO. COMPROVAÇÃO PERÍCIA ESPECIALIZADA. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+I - Na origem, trata-se de ação ordinária objetivando o restabelecimento de pensão por morte. Na sentença, julgou-se improcedente o pedido inicial. No Tribunal a quo, a sentença foi anulada para determinar o retorno dos autos à instância ordinária, a fim de que seja realizada a produção de prova pericial por médico especialista. Nesta Corte, não se conheceu do recurso especial.
+II - A jurisprudência desta Corte Superior é pacífica no sentido de que, em se tratando de dependente maior inválido, basta a comprovação de que a invalidez é anterior ao óbito do segurado.
+Nesse sentido: (AgInt no REsp n. 1.689.723/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 28/11/2017, DJe 5/12/2017 e REsp n. 1.551.150/AL, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/10/2015, DJe 21/3/2016).
+III - Desta forma, aplica-se, à espécie, o enunciado da Súmula n.
+83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida." Ressalte-se que o teor do referido enunciado aplica-se, inclusive, aos recursos especiais interpostos com fundamento na alínea a do permissivo constitucional.
+IV - Verifica-se que a irresignação do recorrente, acerca da comprovação ou não da invalidez, vai de encontro às convicções do julgador a quo, que, com lastro no conjunto probatório constante dos autos, decidiu que "não há como precisar se a incapacidade é preexistente ao óbito do instituidor da pensão (20/05/1998), requisito necessário à concessão do benefício pleiteado, razão pela qual se faz necessária a realização de perícia médica judicial (fl.589)".
+V - Dessa forma, para rever tal posição e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+VI - Agravo interno improvido.
+(AgInt nos EDcl no REsp 1.806.952/PB, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 24/8/2020, DJe 28/8/2020).
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PEDIDO DE CONCESSÃO DE BENEFÍCIO DE AUXÍLIO-ACIDENTE JULGADO IMPROCEDENTE PELAS INSTÂNCIAS DE ORIGEM EM RAZÃO DO NÃO RECONHECIMENTO DO NEXO CAUSAL E DA INCAPACIDADE LABORAL DA PARTE AUTORA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 18, § 1o. da Lei 8.213/91, o auxílio-acidente é devido ao segurado que tenha redução na sua capacidade laborativa em decorrência de acidente de qualquer natureza.
+2. Por sua vez, o art. 20, I da Lei 8.213/91 considera como acidente do trabalho a doença profissional, proveniente do exercício do trabalho peculiar à determinada atividade.
+3. In casu, o Tribunal a quo, soberano na análise fático-probatória da causa, confirmando a sentença, julgou improcedente o pedido inicial por entender que a moléstia não afeta de modo parcial e definitivo a capacidade laborativa da autora, nem tem nexo causal com a atividade por ela exercida.
+4. A alteração dessa conclusão, na forma pretendida, demandaria necessariamente o incursão no acervo fático-probatório dos autos, a fim de verificar se o autor encontra-se incapacitado para o trabalho. Contudo, tal medida encontra óbice na Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja Recurso Especial.
+5. Além disso, o ordenamento jurídico pátrio adotou o princípio do livre convencimento motivado do julgador, no qual o juiz pode fazer uso de outros meios para formar sua convicção, sendo certo que o magistrado não se encontra adstrito ao laudo pericial quando da apreciação e valoração das alegações e das provas existentes nos autos, podendo, inclusive, decidir contrário a ele quando houver nos autos outros elementos que assim o convençam, como ocorre na presente demanda.
+6. Se o magistrado entendeu não haver necessidade de nova perícia, uma vez que o laudo pericial não continha qualquer irregularidade técnica, não há que se falar em cerceamento de defesa na impugnação do pedido de nova perícia.
+7. Agravo Regimental desprovido.
+(AgRg no REsp 1.378.370/PR, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 4/12/2014, DJe 16/12/2014).
+Ressalta-se que, quanto à não aplicação da Súmula 7/STJ, em decorrência de revaloração de prova,as alegações são genéricas, não especificando como essa tese se aplicaria ao caso, o que não afasta o óbice da Súmula.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes:
+1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva;
+2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma;
+3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Publique-se. Intimem-se.
