@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpuscompedido de liminar impetrado em favor de EVERTON DOS SANTOS LUQUESIemque se aponta como autoridade coatora o Tribunal de Justiça de São Paulo(Processo n. 2104922-29.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 71-76)por suposta prática do delito descrito no art. 33, caput,da Lei n. 11.343/2006.
+O decreto prisional fundou-se na garantia da ordem pública e naquantidade de entorpecenteapreendido.
+A defesa alega que a decretação da prisão preventiva carece de fundamentação eque não estão preenchidos os requisitos autorizadores da custódia cautelar.
+Pondera que o paciente é primário, trabalha, possuiendereço fixo e foi apreendida uma pequena quantidade de entorpecente.
+Requer, liminarmente e no mérito,a revogação da prisão preventiva dopaciente, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da prisão pela imposição de medidas alternativas previstas no art. 319 do CPP,pois o caso se enquadra nas hipóteses referidas na Recomendação CNJ n. 62/2020.
+O Tribunal de Justiça de São Pauloapresentou informações às fls. 130-136 e 158-168.
+O Ministério Público Federalopinou pela concessão da ordem de ofício(fls. 200-203).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição a recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constataa existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Inicialmente, em consulta ao site do Tribunal de origem, constata-se que, em 10/8/2021, foiproferida sentença na Ação Penal n. 1500089-08.2021.8.26.0066, ocasião em que o pacientefoi condenado às penas de 5anos de reclusão em regime inicial fechado e de 500dias-multa, como incurso no art. 33, caput, c/c o art. 40, VI,da Lei n. 11.343/2006, vedado o direito de recorrer em liberdade
+Como o Juízo de primeiro grau manteve os fundamentos da prisão preventiva anteriormente decretada, não houve perda de objeto neste ponto.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretosquando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP,não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo(fl. 122,destaquei):
+E, de fato, tais razões, bem como a quantidade de droga apreendida, que não pode ser considerada irrisória, revelam ousadia e periculosidade, merecedoras de tratamento mais rigoroso, com a mantença da custódia cautelar. Demonstram, ainda, ainda, que são insuficientes, no presente caso, as medidas cautelares previstas no artigo 319 do Código de Processo Penal.
+Confira-se ainda excerto da decisão,mantida pelo Tribunal de origem, que, diantedas circunstâncias em que ocorria a prática delitiva, converteu a prisãoem flagrante em preventiva (fl. 73, destaquei):
+Noutro giro, a quantidade (47,39 gramas) da droga apreendida e as declarações prestadas pelo terceiro que confirmou ter comprado a quantia aproximada de 50 gramas de maconha do autuado logo após sua abordagem (fls. 07) levam, em tese, ao conceito de que se destinavam à comercialização com terceiros.
+No presente caso, a quantidade de entorpecente apreendido (47,39g de maconha) foi consideradapelo Juízo de origem para a decretação daprisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Registre-se ainda que eventuais condições subjetivasfavoráveisdopaciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, opaciente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessário o revolvimento de matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Por fim, conforme acima mencionado, em primeiro grau, já houve a condenação, tendo sido indeferido o pleito de recorrer em liberdade.
+A manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória, que não concedeu ao paciente, que ficou preso durante toda a instrução processual, o direito de recorrer em liberdade, pois considerou mantidas as circunstâncias que justificaram a decretação da prisão preventiva.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
