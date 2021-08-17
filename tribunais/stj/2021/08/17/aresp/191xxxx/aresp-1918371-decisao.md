@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por FLORINDA APARECIDA TAMPELINI NONCIMBONE e OUTRO contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA DE NULIDADE DECLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA. CÉDULA DE CRÉDITOBANCÁRIO GARANTIDA POR ALIENAÇÃO FIDUCIÁRIA DE IMÓVELEM EMPRÉSTIMO PESSOAL. PEDIDO JULGADO IMPROCEDENTE. RECURSO DOS AUTORES. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR ERELATIVIZAÇÃO DO PRINCÍPIO . PACTA SUNT SERVANDAFALTA DE INTERESSE RECURSAL. NÃO CONHECIMENTO. CERCEAMENTO DE DEFESA. MATÉRIA EMINENTEMENTE DEDIREITO E JULGAMENTO ANTECIPADO DA LIDE. DESNECESSIDADE DE PRODUÇÃO DE OUTRAS PROVAS. PRELIMINAR AFASTADA. VALIDADE DA CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA PARAGARANTIA DE EMPRÉSTIMO PESSOAL. LEI Nº /979.514(ARTIGO 22). POSSIBILIDADE DE SER CONSTITUÍDA APROPRIEDADE FIDUCIÁRIA DE BEM IMÓVEL PARAGARANTIA DE QUAISQUER OBRIGAÇÕES. APLICAÇÃO DOART. DA LEI /04 E DOS ARTIGOS A DO 5110.9311.3611.368. PRECEDENTES DESTA CORTE. CÓDIGO CIVILLIMITAÇÃO DOS JUROS REMUNERATÓRIOS. ABUSIVIDADENÃO EVIDENCIADA OU COMPROVADA. CAPITALIZAÇÃO DE JUROS. POSSIBILIDADE. PACTUAÇÃOEXPRESSA, ANTE A EXISTÊNCIA DE CLÁUSULACONTRATUAL ESPECÍFICA. PREVISÃO CONTRATUAL DETAXA ANUAL EFETIVA SUPERIOR AO DUODÉCUPLO DA TAXAMENSAL DE JUROS. RESP 973.827/RS. ENUNCIADO Nº 3 DAS 17ªE 18ª CÂMARAS CÍVEIS DO TJPR. SÚMULAS 539 E 541 DO STJ. NOTIFICAÇÃO EXTRAJUDICIAL. NULIDADE NÃOEVIDENCIADA. NOTIFICAÇÃO PARA FINS DE PURGAÇÃO DAMORA REALIZADA PELO OFICIAL REGISTRADOR DEIMÓVEIS. EFICÁCIA DO ATO. PROPRIEDADE CONSOLIDADAEM NOME DE CREDOR FIDUCIÁRIO. SUCUMBÊNCIA RECURSAL (ART. 85, §11, DO CPC). RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃOPROVIDO" (fls. 496-497, e-STJ).
+Os embargos declaratórios foram rejeitados (fls. 552-558, e-STJ).
+No recurso especial, osrecorrentes alegam que houve violação dos arts. 369 do Código de Processo Civil de 2015 e 6º, 46, 51, 52 e 54 doCódigo de Defesa do Consumidor.
+Inadmitido na origem em virtude da intempestividade do recurso especial, apresentou-se o presente agravo em recurso especial, no qual se alega, em suma, que, "(..) que ao analisar a tempestividade do recurso interposto, o tribunal de origem não observou o estabelecido pelo art. 220 do Código de Processo Civil" (fl. 655, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+A jurisprudência desta Corte se firmou no sentido de que, no período compreendido entre 7 a 20 de janeiro, há apenas a suspensão dos prazos, nada obstando a prática dos atos processuais.
+Assim, eventual suspensão do expediente forense, nesse último caso, deve ser comprovada pela parte recorrente no momento da interposição do recurso, o que não ocorreu na hipótese em exame.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. RESP Nº 1.813.684/SP. SEGUNDA-FEIRA DE CARNAVAL. MODULAÇÃO DE EFEITOS. FERIADOS DIVERSOS, SUSPENSÕES DE EXPEDIENTE E RECESSOS LOCAIS. NÃO ABRANGÊNCIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, não há como considerar o período citado no caput do art. 220 do CPC/2015 devido ao disposto no § 1º do referido diploma.
+3. Agravo interno não provido"
+(AgInt no AREsp 1.675.365/SE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020).
+"PROCESSO CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. INTEMPESTIVIDADE. CONTAGEM DO PRAZO RECURSAL. INTIMAÇÃO ELETRÔNICA. SUSPENSÃO DO EXPEDIENTE FORENSE. ART. 220 DO CPC. INÍCIO DO PRAZO RECURSAL EM 21 DE JANEIRO. AGRAVO NÃO PROVIDO.
+1. Em regra, não é possível considerar o período compreendido no caput do art. 220 do CPC como dia não útil, haja vista a disposição expressa constante do respectivo § 1º, no sentido de que os juízes, os membros do Ministério Público, da Defensoria Pública e da Advocacia Pública e os auxiliares da Justiça exercerão suas atribuições normalmente, ressalvadas as férias individuais e os feriados instituídos por lei.
+2. No âmbito da Justiça Federal, o art. 62, I, da Lei n. 5.010/1966 elenca como feriado o período de 20/12 a 6/1, sendo desnecessária a comprovação da suspensão do expediente forense em tal período.
+Contudo, no período compreendido entre 7/1 a 20/1, há apenas a suspensão dos prazos, nada obstando a prática dos atos processuais, como a intimação. Eventual suspensão do expediente forense, nesse último caso, deve ser comprovada pela parte recorrente, o que não ocorreu no caso concreto.
+3. O prazo sugerido pelo sistema do PJE não tem o condão de eximir a parte interessada de interpor o recurso no prazo legal, não vinculando o termo final do prazo à data sugerida nem dispensando a parte recorrente da confirmação. Precedentes: AgInt no AREsp 1.315.679/SE, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 25/6/2019; AgInt no AREsp 1.481.494/RN, de minha relatoria, Segunda Turma, DJe 9/10/2019.
+4. Logo, o prazo recursal começou a ser contado a partir do dia 21/1/2019, isto é, imediatamente após a suspensão disciplinada pelo art. 220 do CPC, esgotando-se no dia 8/2/2019. Tendo ocorrido a interposição do apelo no dia 11/2/2019, deve-se reconhecer a sua intempestividade.
+5. Agravo interno a que se nega provimento"
+(AgInt nos EDcl no REsp 1.814.598/PE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 20/2/2020, DJe 2/3/2020).
+Ante o exposto, nego provimento ao agravo.
+Na origem, os honorários sucumbenciais foram fixados em 12% (dozepor cento) sobre o valor da causa, os quais devem ser majorados para o patamar de 15% (quinzepor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
