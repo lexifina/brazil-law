@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 164):
+ACIDENTE DO TRABALHO. BENEFÍCIO. SOLDADORE OPERADOR DE EMPILHADEIRA. SEQUELASPERMANENTES NO OMBRO DIREITO E NA COLUNALOMBAR, COM LIMITAÇÃO PARA O EXERCÍCIO DOTRABALHO. PRESENTESNEXOCAUSALE INCAPACIDADELABORATIVAPARCIALE PERMANENTE, O TRABALHADOR FAZ JUS AOAUXÍLIO-ACIDENTE DE 50% DO SALÁRIO DEBENEFÍCIO, MAIS ABONO ANUAL.
+TERMO INICIAL DO BENEFÍCIO FIXADO NA DATADO AJUIZAMENTO DA AÇÃO.
+JUROS DE MORA E CORREÇÃO MONETÁRIA. TERMOS INICIAIS E ÍNDICES.
+HONORÁRIOS ADVOCATÍCIOS MANTIDOS EM 10%SOBRE AS PARCELAS VENCIDAS ATÉ A R. SENTENÇA.
+CUSTAS.ISENÇÃO DO INSS, RESPONDENDO, PORÉM, PELAS DESPESAS DO PROCESSO COMPROVADAS NOS AUTOS.
+TUTELA ANTECIPADA TORNADA DEFINITIVA. RECURSO DO INSS NÃO PROVIDO. REEXAME NECESSÁRIO PARCIALMENTE PROVIDO, COM OBSERVAÇÕES
+Opostos embargos de declaração, foram rejeitados (fl. 198).
+Aponta o recorrente violação aos arts..31 da Lei 10.741/03, 41-A da Lei 11.430/06, com a redação dada pela Lei 11.430/2006, 27 da Lei 9.868/99 e 1º-F da Lei 9.494/97, com a redação do art. 5º da Lei 11.960/2009, afirmando que "não há fundamento legal para o v. acórdão recorrido determinar que, a partir de 30.06.2009, a correção das parcelas em atraso na presente ação será apurada pela aplicação do IGP-DI, até a data da elaboração da conta, e, após pelo IPCA-E, tendo em vista que deve incidir o disposto na Lei nº 11.960/2009 para a atualização da condenação, sendo inconstitucional o índice ali colocado apenas para a atualização do precatório e, ainda, assim, a partir de 25/03/2015" (fl. 227).
+Devidamente intimada, a parte recorrida não apresentou contrarrazões ao recurso especial, conforme certidão de fl. 236.
+Em novo exame por força do art. 1.030, II, do CPC/2015, o acórdão foi parcialmente modificado, cuja ementa se colhe (fl.247):
+AÇÃO ACIDENTÁRIA - BENEFICIO DEFERIDO - CORREÇÃO DOS VALORES EM ATRASO - INDEXADOR A SE APLICAR - IPCA-E CONFORME ORIENTAÇÃO DEFINITIVA DO SUPREMO TRIBUNAL FEDERAL EM SEDE DO TEMA 810.
+Acórdão retificado em parte.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, ressalta-se que na sistemática introduzida pelo artigo 543-C do CPC/73, incumbe ao Tribunal de origem, com exclusividade e em caráter definitivo, proferir juízo de adequação do caso concreto ao precedente formado em repetitivo, sob pena de tornar-se ineficaz o propósito racionalizador implantado pela Lei 11.672/2008. Essa conclusão pode ser extraída da fundamentação constante da Questão de Ordem no Ag 1.154.599/SP, Rel. Ministro Cesar Asfor Rocha, DJe de 12/5/2011, submetida à apreciação da Corte Especial:
+"A edição da Lei n. 11.672, de 8.5.2008, decorreu, sabidamente, da explosão de processos repetidos junto ao Superior Tribunal de Justiça, ensejando centenas e, conforme a matéria, milhares de julgados idênticos, mesmo após a questão jurídica já estar pacificada.
+O mecanismo criado no referido diploma, assim, foi a solução encontrada para afastar julgamentos meramente "burocráticos" nesta Corte, já que previsível o resultado desses diante da orientação firmada em leading case pelo órgão judicante competente.
+Não se perca de vista que a redução de processos idênticos permite que o Superior Tribunal de Justiça se ocupe cada vez mais de questões novas, ainda não resolvidas, e relevantes para as partes e para o País.
+Assim, criado o mecanismo legal para acabar com inúmeros julgamentos desnecessários e inviabilizadores de atividade jurisdicional ágil e com qualidade, os objetivos da lei devem, então, ser seguidos também no momento de interpretação dos dispositivos por ela inseridos no Código de Processo Civil e a ela vinculados, sob pena de tornar o esforço legislativo totalmente inócuo e de eternizar a insatisfação das pessoas que buscam o Poder Judiciário com esperança de uma justiça rápida."
+Quanto à questão de fundo, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento e modificou o entendimento anteriormente exarado.
+Dessa forma, como houve alteração do fundamento adotado pela Corte de origem, a retificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia, da Súmula 579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo interno não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA.
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada.
+Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+Ademais, com relação aos Temas nº 905 do STJ e nº 810 do STF, o Tribunal a quo assim se pronunciou, in verbis (fls. 248/249):
+Considerada a posição externada pelo Superior Tribunal de Justiça em sede do Tema 905 e levando-se em conta o lapso temporal de incidência almejado pelo INSS (emprego do INPC até o advento da Lei 11.960/09), tem-se por inconsistente a pretensão deduzida porque, ao que se infere do contexto dos autos, o beneficio acidentário concedido no caso teve o termo inicial definido em data posterior à edição da aludida Lei 11.960/09, ou seja, 21.01.2014.
+II) Quanto à Taxa Referencial (TR) prevista pela Lei 11.960/09.
+Sabe-se que o Supremo Tribunal Federal, ao julgar o Recurso Extraordinário nº 870.947/SE, Tema 810 - tratado como de repercussão geral, definitivamente ratificou a inadmissibilidade da Taxa Referencial (TR), prevista pela Lei 11.960/09, como indexador e definiu o emprego do IPCA-E no seu lugar.
+Assim, em reanálise do ponto, a meu juízo a hipótese é de modificação do Acórdão, não efetivamente para admitir o emprego da Taxa Referencial (TR) como almeja o INSS, mas para readequar o critério de correção àquela orientação firmada pelo Supremo Tribunal Federal.
+Assim, ultimada a resolução da controvérsia em repercussão geral, denotando a primazia do viés constitucional do tema em debate, caso não é de enfrentá-lo na seara do Recurso Especial ou do Agravo dele decorrente (AREsp).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
