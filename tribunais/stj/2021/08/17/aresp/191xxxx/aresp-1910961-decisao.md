@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, assim resumido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA DE CONTROLE E FISCALIZAÇÃO AMBIENTAL. TRIBUTO SUJEITO A LANÇAMENTO POR HOMOLOGAÇÃO. PRESCRIÇÃO ANTERIOR AO AJUIZAMENTO. DECRETAÇÃO, DE OFICIO. POSSIBILIDADE. SÚMULA 409 DO STJ. APLICABILIDADE. APELAÇÃO NÃO PROVIDA.
+1. A Taxa de Controle e Fiscalização Ambiental é tributo sujeito a lançamento por homologação, cujo prazo prescricional segue a regra do art. 174 do CTN.
+2. "Em execução fiscal, a prescrição ocorrida antes da propositura da ação pode ser decretada de ofício (art. 219, § 5º, do CPC)" (Súmula 409 do STJ).
+3. A constituição definitiva dos créditos em discussão foi feita mediante notificação do contribuinte em 31/07/2009, e a propositura da ação em 12/12/2014, quando não mais exigível a obrigação.
+4. Inexistente causa suspensiva ou interruptiva entre a constituição definitiva dos créditos tributários e o ajuizamento da execução, indiscutível a prescrição do direito à cobrança.
+5. Apelação não provida.
+O recorrente alega violação dos arts. 173 e 174, do CTN, no que concerne à inocorrência de esgotamento do prazo prescricional, trazendo os seguintes argumentos:
+Compulsando o processo administrativo anexo, especialmente a fl. 078, verifica-se claramente que a alegada prescrição não ocorreu.
+O lançamento de ofício foi realizado pelo IBAMA porque o contribuinte não procedeu ao pagamento devido. De fato, a TCFA - Taxa de Controle e Fiscalização Ambiental, é tributo sujeito ao lançamento por homologação, todavia, na hipótese de o contribuinte não efetuar o pagamento devido, cabe ao IBAMA proceder ao lançamento de ofício, como ocorrera na espécie.
+Observa-se no processo administrativo de constituição do crédito que o IBAMA realizou "NOTIFICAÇÃO DE LANÇAMENTO DE CRÉDITO TRIBUTÁRIO - TCFA" em 2009.
+Logo, o direito de o IBAMA constituir o crédito tributário referente à TCFA deve ser exercido no prazo de cinco anos, a contar do primeiro dia do exercício seguinte Aquele em que o lançamento poderia ter sido efetuado.
+Nessa esteira, após a constituição do crédito, cogita-se ainda em prazo prescricional quinquenal para o ajuizamento da ação de cobrança, conforme previsão do artigo 174, capuz, do CTN e entendimento jurisprudencial pacífico.
+E, de acordo com o artigo 174 do CTN, a ação de cobrança do crédito tributário prescreve em cinco anos, contados da data da sua constituição definitiva, interrompendo-se com o despacho do juiz que ordenar a citação em execução fiscal (inciso I).
+ ..
+Portanto, conclui-se não ter decorrido o prazo prescricional, pois do primeiro dia do exercício seguinte àquele que poderia ter sido lançado até o lançamento não decorreram 5 anos, bem como da constituição definitiva do crédito até a data do despacho que ordenou a citação da devedora também não transcorreram cinco anos. (fls. 204/205).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Consoante pacífica jurisprudência, "em se tratando de tributo sujeito a lançamento por homologação, o termo a quo do prazo prescricional para o ajuizamento da ação executiva tem início com a constituição definitiva do crédito tributário, que ocorre com a entrega da respectiva declaração pelo contribuinte, declarando o valor a ser recolhido, ou do vencimento do tributo, o que for posterior" (AgRg no REsp 1.301.722/MG, STJ, Segunda Turma, Rel. Min. Og Fernandes, unânime, DJe 28/05/2014).
+A realidade dos autos demonstra que a constituição definitiva do crédito em discussão foi feita mediante notificação do contribuinte em 31/07/2009 (fls. 63/64), e que o ajuizamento da ação executiva ocorreu em 12/12/2014, quando não mais exigível a obrigação.
+A jurisprudência consolidada desta Corte é no sentido de que, "em execução fiscal, a prescrição ocorrida antes da propositura da ação pode ser decretada de ofício (art. 219, § 5º, do CPC)" (Súmula 409 do STJ).
+Nessa ordem de ideias, não comprovada a existência de causa suspensiva ou interruptiva entre a constituição definitiva do crédito tributário e o ajuizamento da execução indiscutível a prescrição do direito à cobrança. (fls. 197, grifo meu).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
