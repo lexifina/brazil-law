@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscompedido de liminar interposto por RAFAEL HENRIQUE DA MATTA DINIZ PEREIRA contra acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul(Processo n. 1410031-55.2021.8.12.0000).
+Orecorrentetevea prisão em flagrante convertida em preventiva(fls. 42-44)por suposta prática dos delitos descritos nos arts. 33, caput, e 35c/c o art. 40, VI,da Lei n. 11.343/2006.
+O decreto prisional fundou-se nagarantia da ordem pública ena expressiva quantidadedeentorpecenteencontradocom o recorrente.
+O recorrente alegaque a decretação da prisão preventiva carece de fundamentação eque não estão preenchidos os requisitos autorizadores da custódia cautelar.
+Argumenta que, "com o Recorrente foi encontrada pouca quantidade de droga, 1,2kg para ser exatos, de forma que não há elementos concretos no processo que demonstrem que ao acusado pertencia os outros dos 18 kg de entorpecentes. E, ainda, a quantidade de droga encontrada em sua casa, fazem jus ao afirmado de que era apenas usuário" (fl. 154).
+Alega que é pai de família,possui residência fixa e trabalho lícito.
+Requer, liminarmente e no mérito, sejarevogadaaprisãopreventiva, expedindo-se oalvaráde soltura.Alternativamente, pleiteia a substituição daprisãopela imposição de medidas alternativas referidas no art. 319 do CPP.
+O Tribunal de Justiça do Estado de Mato Grosso do Sul apresentou informações às fls. 201-207 e 211-218.
+O Ministério Público Federal opinou pelo desprovimento do recursoordinário(fls. 193-196).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fl. 139,destaquei):
+A despeito da negativa de autoria esposada pela defesa, a prisão cautelar vem acompanhada de indícios suficientes de autoria, pois o paciente foi denunciado por supostamente manter um imóvel que servia como depósito de narcóticos, sendo apreendidos, durante a operação policial, 19,5 kg de "maconha", dos quais 1,2 kg encontrava-se em poder do próprio paciente, o qual, ademais, foi delatado pelo adolescente que supostamente realizava a guarda do imóvel, que prestou informações no sentido de que no local já havia sido armazenados aproximadamente 250 kg (duzentos e cinquenta quilos) da mesma substância.
+Confira-se ainda excerto da decisão,mantida pelo Tribunal de origem, que, diantedas circunstâncias em que ocorria a prática delitiva, converteu a prisãoem flagrante em preventiva (fl. 42, destaquei):
+Outrossim, apesar da soma total de maconha apreendida totalizar 19,5kg (dezenove quilos e quinhentos gramas), há indícios de que Rafael e Marlon teriam armazenado aproximadamente 250kg (duzentos e cinquenta quilos) de maconha no imóvel denunciado à autoridade policial, segundo relatado pelo adolescente co-autor da traficância. Porém, o jovem não soube dizer o que foi feito com o resto do psicotrópico, sabendo apenas que 06kg (seis quilos) da droga foram levados por pessoas de Maracaju/MS.
+No presente caso, a expressiva quantidadedeentorpecente(1,2kg de maconha) apreendida foiconsideradapelo Tribunal de origem para a manutenção da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivasfavoráveisdorecorrente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto,com fundamento no art. 34, XVIII,b,do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
