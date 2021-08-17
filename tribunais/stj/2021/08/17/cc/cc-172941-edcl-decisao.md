@@ -1,0 +1,21 @@
+DECISÃO
+CONCEPTUSERVIÇOS EDUCACIONAIS LTDA.,EDUCANDARIO SOLNASCENTE S/S LTDA.,EDITORA OPIRUS LTDA.e COLÉGIO OLIMPO S.A.opõem embargos de declaração (fls. 276/281 e-STJ) contra decisão (fls. 262/268 e-STJ) que não conheceu do conflito sob o argumento de que o redirecionamento da execução a empresas do mesmo grupo econômico não abrangidas pelo plano de recuperação judicialnão caracteriza conflito de competência,
+Os embargantes defendem que a decisão embargada não se manifestou sobre pedido expresso para que fosse
+"(..) reconhecida e expressamente determinada a competência exclusiva do Juízo da Recuperação Judicial para apreciar a forma e validade do pagamento ocorrido no processo n. 0452938.97.2015.8.09.0051, objetivando que os Juízos Trabalhistas se limitem a reconhecer o cumprimento da obrigação após a comprovação, por meio da juntada dos boletins de Emissão e Subscrição de Ações, bem como determinem o arquivamento da execução com a perda do objeto" (fl. 12 e-STJ).
+Sustentam que ao consignar que quaisquer discussões acerca da comprovação dopagamento da dívida trabalhista deveria se limitar às vias ordinárias, a decisão embargada padece de obscuridade, pois carecede "clareza quanto a qual o juízo competente para se discutir acerca da comprovação do pagamento das dívidas trabalhistas" (fl. 279 e-STJ).
+É o relatório.
+DECIDO.
+Os presentes embargos não merecem prosperar.
+Primeiramente, cumpre esclarecer que, a teor do disposto no artigo 66 do Código de Processo Civil de 2015, esta Corte possui o firme entendimento de que a
+"configuração de conflito de competência, positivo ou negativo, é necessário que duas ou mais autoridades judiciárias, de esferas diversas, declarem-se competentes ou incompetentes para apreciar e julgar o mesmo feito, ou que incida a prática de atos processuais na mesma causa, por mais de um juiz" (CC 82.861/SC, Rel. Ministro MASSAMI UYEDA, SEGUNDA SEÇÃO, julgado em 24/11/2010, DJe 6/12/2010).
+Nesse sentido, confiram-se ainda o AgRg no CC 126.419/RS, Rel. Ministra Eliana Calmon, Primeira Seção, julgado em 25/9/2013, DJe 5/10/2013 e o AgRg no CC 106.979/SP, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 9/2/2011, DJe 18/2/2011.
+Partindo-se dessa premissa, observa-se que, junto à exordial que suscitou o presente conflito, não foi acostado nenhum elemento que demonstrasse que os Juízos ora envolvidos estivessem, efetivamente, decidindo de forma dissonante acerca da quitação ou não das dívidas trabalhistas, a ponto de denotar conflito de competência entre eles a esse respeito.
+Sequer consta nos autos alguma certidão exarada pelo Juízo recuperacional atestando a quitação da dívida eque tenha sido ignorada pelo Juízo laboral. Este nem mesmo questionou o pagamento dos créditos trabalhistas mediante a subscrição de ações, tal qual estipuladono plano de recuperação judicial, tendo até corroborado a forma de pagamento aceita pela maioria dos credores trabalhistas.
+OJuízo laboral, em decisão datada de 5/3/2020,apenas negou o pedido de extinção da execução por entender que não lhe foi apresentado documento hábil para comprovar o efetivo pagamento da dívida na forma determinada no plano homologado, razão pela qual determinou o prosseguimento da execução em face das empresas integrantes do grupo econômico não abrangidas pelo plano de recuperação judicial, o que, repita-se, não caracteriza conflito de competência segundo a jurisprudência consolidada nesta Corte.
+Considerando que, por óbvio, não há falar em extinção de execução sem a devida comprovação de quitação da dívida, a cautela do Juízo laboral não se apresenta conflitante com a competência do Juízo recuperacional, não sendo, pois, suficiente para configuração de conflito quanto a esse aspecto.
+Percebe-seque, da forma como posto, os suscitantes pretendem, na via do conflito de competência, iniciar o debate em torno do que entendem suficiente para a comprovação do pagamento, não se prestando o presente incidente para este propósito.
+Assim, não se podendo conhecer do presente conflito de competência sob qualquer um dos seus enfoques, não se configura a alegada omissão.
+O que os embargantes pretendem, em verdade, é o conhecimento de um suposto conflito em abstrato, o que não se pode admitir.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
