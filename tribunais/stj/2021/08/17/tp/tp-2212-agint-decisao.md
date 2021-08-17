@@ -1,0 +1,23 @@
+DECISÃO
+Trata-sede agravo interno interpostopor ITAÚ UNIBANCO S.A. contra a decisão de fls. 181-184 (e-STJ), que indeferiu o pedido de tutela provisória que objetivava a atribuição de efeito suspensivo a recurso especial.
+É o relatório.
+DECIDO.
+O presente recurso está prejudicado em virtude do término do julgamento do recurso especiala que se pretendia emprestar efeito suspensivo no âmbito do Colegiado da Terceira Turma.
+Distribuído nesta Corte Superior como AREsp nº 1.589.414/RJ, foi determinada a sua autuação como recurso especial (fls. 769-770 e-STJ daqueles autos). Pautado para a sessão de julgamentos da Terceira Turma de 24/11/2020, teve provimento negado, com acórdão considerado publicado em 4/12/2020 (fls. 827-861 e-STJ daqueles autos). A esse acórdão foram opostos embargos de declaração (fls. 862-879 e-STJ daqueles autos), rejeitados em 13/4/2021 (DJe de 16/4/2021 - fls. 915-921 e-STJ daqueles autos).
+Daí foram interpostos embargos de divergência pela parte ora agravada, cujoprocesso e julgamento se desenvolve perante a Segunda Seção, os quais restaramindeferidos liminarmente por decisão do Ministro Antonio Carlos Ferreira, publicada no DJe de 28/6/2021 (fls. 1.275-1.282 e-STJdaqueles autos)
+Com efeito, considerando-se que a finalidade precípua do pedido de tutela provisória é assegurar a eficácia do resultado do recurso principal, forçoso reconhecer que, tendo sido este julgado, a pretensão perde objeto em decorrência de sua natureza acessória.
+Nesse sentido, os seguintes precedentes:
+"AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA - EXECUÇÃO - EXTINÇÃO DE OFÍCIO POR ALEGADO ABANDONO DA CAUSA - TRIBUNAL DE ORIGEM QUE REFORMOU A DELIBERAÇÃO ANTE A AUSÊNCIA DE INTIMAÇÃO PESSOAL DA PARTE EXEQUENTE E INEXISTÊNCIA DE PEDIDO DO EXECUTADO QUE MANEJOU EMBARGOS DO DEVEDOR - PRETENSÃO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO E JULGOU PREJUDICADA A PRESENTE MEDIDA EM RAZÃO DA PERDA DE OBJETO - IRRESIGNAÇÃO DO EXECUTADO - AGRAVO INTERNO DESPROVIDO.
+1. Segundo a jurisprudência desta Corte Superior, apreciado o recurso cujo efeito suspensivo buscou-se garantir, tem-se a superveniente perda do objeto da medida cautelar, face a ausência do fumus boni iuris autorizador da pretensão, sendo desnecessário o trânsito em julgado ou a confirmação no órgão colegiado. Precedentes.
+2. Agravo interno desprovido." (AgInt no TP nº 895/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/11/2017, DJe de 27/11/2017 - grifou-se).
+"AGRAVO INTERNO NO PEDIDO DE TUTELA PROVISÓRIA. EFEITO SUSPENSIVO A RECURSO ESPECIAL. SUPERVENIENTE JULGAMENTO DO RECURSO. PERDA DE OBJETO. DECISÃO MANTIDA.
+1. Tendo em vista o superveniente julgamento do recurso especial ao qual se pretendia conferir efeito suspensivo, deve ser reconhecida a perda de objeto do pedido de tutela provisória.
+2. Agravo regimental a que se nega provimento." (AgInt no TP nº 744/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 7/11/2017, DJe de 13/11/2017 - grifou-se).
+"PROCESSO CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. EFEITO SUSPENSIVO. EXCEPCIONALIDADE NÃO DEMONSTRADA. RECURSO DESPROVIDO. PERDA DE OBJETO. DECISÃO MANTIDA.
+1. A atribuição de efeito suspensivo a recurso especial só se justifica diante de inequívoco risco de dano irreparável e sob o pálio de relevantes argumentos jurídicos, circunstâncias não verificadas no caso concreto.
+2. O desprovimento do agravo em recurso especial prejudica a tutela provisória requerida para conferir-lhe efeito suspensivo. Precedentes.
+3. Agravo interno a que se nega provimento." (AgInt na TutPrv no AREsp nº 932.343/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 5/10/2017, Dje de 9/10/2017 - grifou-se).
+Por tais fundamentos, julgo prejudicado o agravo interno, bem como o próprio pedido de tutela provisória.
+Publique-se.
+Intimem-se.
+Arquive-se.
