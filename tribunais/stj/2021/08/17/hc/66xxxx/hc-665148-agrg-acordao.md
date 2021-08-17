@@ -1,0 +1,34 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+2. Hipótese em que o agravante limita-se a reiterar mesma argumentação lançada nas razões do habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Convocado o Sr. Ministro Jesuíno Rissato (Desembargador Convocado).
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por THIAGO GONÇALVES contra decisão que não conheceu do habeas corpus.
+Em razões, alega que o procedimento disposto no art. 226 do Código de Processo Penal não foi observado. Volta a afirmar que foi relacionado ao delito em razão do reconhecimento ilegal do corréu Cristiano, uma vez que não foi identificado pela vítima ou pelas testemunhas, mas apenas em função de suas roupas. Faz referência à mais recente jurisprudência desta Corte, firmada a partir do julgamento do HC n. 598.886-SC.
+Requer a reconsideração da decisão ou a submissão do presente agravo à Quinta Turma desta Corte, a fim de que seja reconhecida a ilicitude das provas que embasaram a condenação do agravante.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE NOVOS ARGUMENTOS. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369/SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+2. Hipótese em que o agravante limita-se a reiterar mesma argumentação lançada nas razões do habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+"O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada por seus próprios fundamentos." (AgRg no RMS 60.369-SC, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ-PE), QUINTA TURMA, julgado em 19/11/2019, DJe 26/11/2019).
+Nas razões do habeas corpus, o impetrante alegava o seguinte:
+" ..  desrespeito ao disposto no art. 226 do Código de Processo Penal, nas fases extrajudicial e judicial. Afirma que o reconhecimento ilegal não foi somente usado para identificar o corréu Cristiano, mas, por meio dele, ligar o paciente ao delito.
+ ..  que a hipótese dos autos se adequa à recente jurisprudência desta Corte sobre o tema, argumentando que é no mínimo duvidosa a credibilidade da palavra da vítima e das testemunhas de acusação, uma vez que o reconhecimento foi realizado muito tempo depois dos fatos.
+ ..  que não foi realizado reconhecimento pessoal ou fotográfico em fase inquisitiva, mas tão somente em juízo, meses após a data do suposto fato delituoso, e que o paciente não foi reconhecido pela vítima e testemunhas, tendo sido relacionado ao delito em razão do reconhecimento ilegal do corréu.
+ ..
+No mérito, pretende a declaração de nulidade do reconhecimento pessoal, em razão da não observância do art. 226 do Código de Processo Penal, a fim de absolver o paciente." (e-STJ, fl. 263)
+Na decisão agravada, esta Relatoria concluiu pela ausência de qualquer nulidade a ser declarada. Foi registrado que apenas o corréu Cristiano foi reconhecido pela vítima Gelson, primeiramente, por fotografia, e, posteriormente, ao lado de outras 3 pessoas com características diferentes, na Delegacia de Polícia. E ainda, a vítima foi incisiva e firme ao reconhecer o acusado Cristiano, tanto no reconhecimento fotográfico, como no reconhecimento pessoal, como um dos praticantes do crime, além de ter descrito a ocorrência do delito de maneira totalmente harmoniosa. O reconhecimento extrajudicial do corréu Cristiano foi confirmado em juízo, convalidando o ato extrajudicial. Sendo assim, foi afastada a ocorrência de ilegalidade no reconhecimento do corréu Cristiano e a alegada afronta às determinações contidas no art. 226 do Código de Processo Penal.
+Registrou-se, também, que, ao contrário do que afirmava o impetrante e agora insiste o agravante, sua condenação não se deu em consequência puramente dessa identificação. Relativamente ao ora agravante, com efeito, a vítima Gelson afirmou que não pôde reconhecer sua fisionomia, pois ficou distante dele no momento da ação delituosa, porém reconheceu a blusa de moleton encontrada ao lado do veículo Astra, abandonado pelos acusados após o delito, como sendo "do outro assaltante" (e-STJ, fl. 53). Consta que no veículo foram encontrados, ainda, documentos em nome de Thiago e dois telefones celulares. Diante disso, os policiais foram até a residência do paciente, onde foram informados por sua esposa que ele havia saído cedo de casa em companhia do corréu, Cristiano, no veículo Astra. A sentença condenatória refutou as teses da defesa e considerou, também, as imagens do circuito de segurança do posto de combustível Shell, onde minutos antes da prática delitiva, o paciente foi abastecer o veículo. Nas imagens, o paciente aparece com uma camiseta branca, tal como descrita pela vítima. Foi considerado, ainda, o fato de que o paciente não deu justificativa plausível para sua fuga. Sendo assim, com o que se observa dos autos, a autoria delitiva foi comprovada a partir de vários outros elementos de prova constantes no caderno investigativo e confirmados judicialmente. Dentro desse contexto, fica afastada a alegação de nulidade da condenação.
+Verifica-se, assim, que o agravante limita-se a reiterar as mesmas argumentações lançadas nas razões do habeas corpus, sem apresentar qualquer fato novo tendente à modificação do julgado que, por tal razão, deve ser mantido por seus próprios fundamentos.
+Diante do exposto, nego provimento ao agravo.
+É como voto.
