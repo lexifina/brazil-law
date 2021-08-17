@@ -1,0 +1,12 @@
+DECISÃO
+1. Cuida-se de agravo do JUDENICE MARIA DA SILVA contra decisão que inadmitiu em recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C INDENIZATÓRIA POR DANOS MORAIS.
+Prestação de serviço de telefonia e internet. Cobranças mesmo após o pedido de cancelamento da assinatura. Sentença de parcial procedência. Pretensão da autora de procedência total da ação. DESCABIMENTO: A fatura paga pela autora refere-se ao período de agosto, tendo a apelante utilizado o serviço até o dia 23/08 quando pediu o cancelamento. Restituição devida apenas do lapso de tempo restante. Dano moral não configurado, tratando-se de aborrecimento simples. Sentença mantida.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, a parte recorrente busca a reforma do "venerando acórdão recorrido e sentença, para fins de fixar os danos morais, bem como, os honorários" (fl. 212).
+Decido.
+2.É imprescindível que no recurso especial fundado na alínea "a" do permissivo constitucional sejam particularizados de forma inequívoca os normativos federais supostamente contrariados pelo tribunal de origem, cuidando o recorrente de demonstrar, mediante argumentação lógico-jurídica competente à questão controversa apresentada, de que maneira o acórdão impugnado teria ofendido a legislação mencionada.
+O não atendimento quanto à indicação do dispositivo legal contrariado, ou que se lhe tenha sido negado vigência, devidamente acompanhado da argumentação jurídica pertinente, pela parte recorrente, a fim de demonstrar o acerto de sua tese, configura fundamentação deficiente e não permite a compreensão da exata controvérsia a ser dirimida. Isso porque a controvérsia a ser tratada no recurso especial, sob a baliza da alínea "a" do art. 105, inc. III, da CFRB, respeita solver discussão quanto à contrariedade ou negativa de vigência perpetrada pelo tribunal a quo à legislação ou tratado federal em sua aplicação ao caso concreto.
+O mero inconformismo não oferece os subsídios constitucionalmente exigidos para o julgamento do recurso especial, pois a falta de demonstração de possível violação de normativo infraconstitucional (argumentação deficiente) esvazia o sentido da controvérsia a ser dirimida nos termos impostos pelo art. 105, III, "a", da Constituição Federal (conferindo incompreensibilidade à questão), o que torna apropriada a aplicação, dada sua inteligência, da Súmula 284/STF.
+3. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
