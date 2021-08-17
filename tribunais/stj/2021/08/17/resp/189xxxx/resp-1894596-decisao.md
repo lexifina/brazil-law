@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL, com fundamento no art. 105, III, alínea a, da Constituição Federal, contra o acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Na instância de origem, a parte ora recorrente interpôs agravo de instrumento contra a decisão que, na fase de cumprimento, reconheceu a existência de crédito remanescente relativo aos juros de mora incidentes no período compreendido entre a conta de liquidação e a expedição do ofício requisitório e acolheu a conta de liquidação apresentada pelo credor.
+O valor atribuído à causa é de (fl. 11): R$ 1.000,00 (mil reais), em setembro de 2010.
+O Tribunal a quonegouprovimento ao recurso, em acórdão assim ementado (fl. 130):
+Agravo de Instrumento - Execução de sentença - Diferenças - Incidência de juros moratórios entre a data elaboração da conta e a da inscrição do precatório ou do protocolo do requisitório - Admissibilidade - Orientação firmada pelo STF no RE 579.431/RS, julgado em 19/04/2017 e transitado em julgado em 16/08/2018, em sede de repercussão geral (Tema 96) - Súmula Vinculante 17 do STF - Recurso desprovido.
+Opostos embargos de declaração, foram eles rejeitados (fls. 141-143).
+Nas razões do recurso especial, a autarquia alega ofensa aos seguintes artigos: a) 1.022, II, do CPC/2015, por omissão no acórdão recorrido quanto aos argumentos de anatocismo e de indevida utilização de cálculo não homologado para a apuração do montante devido; b) 507 do CPC/2015, porquanto o credor apresentou cálculo diverso daquele homologado judicialmente, bem como houve a prática de anatocismo ao ser consideradano cálculo a incidência de juros sobre juros.
+Contrarrazões às fls. 164-166.
+É o relatório. Decido.
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+No que diz respeito ao artigo 507 do CPC/2015, vinculado às teses de anatocismo e cálculo não homologado, verifica-se que a conclusão da Corte de origem a respeito das questões foi de que não era possível rediscuti-las no âmbito da apreciação das razões de apelação. Confira-se trecho do acórdão recorrido (fl. 142):
+Sustentou o embargante, em síntese, que o decisum afigura-se omisso por não haver enfrentado as teses de que a conta acolhida incorreu em indevida capitalização dos juros de mora (anatocismo), bem como partiu de cálculo diverso àquele homologado. Prequestionou matéria para fins recursais.
+ ..
+Com efeito, a matéria objeto de irresignação foi exaustiva e completamente decidida pela Turma Julgadora, não havendo qualquer obscuridade, contradição ou omissão a ser sanada.
+Efetivamente, a decisão recorrida abordou tão somente a questão atinente ao termo final de incidência dos juros moratórios, adotando o entendimento devem ser computados no período entre a conta de liquidação e a inscrição do precatório no orçamento, entendimento este reafirmado no aresto ora recorrido.
+Em verdade, como exsurge da própria leitura das razões recursais, o embargante pretende discutir questões que já foram abordadas preteritamente, as quais inclusive foram objeto de irresignação, não se podendo admitir, por óbvio, que o desacolhimento dos recursos interpostos sirva de fundamento à rediscussão da matéria.
+O recorrente, ao elaborar seus argumentos de recurso especial somente no sentido de impossibilidade de cálculo de juros sobre juros e de consideração de cálculo não homologado, se distanciou do fundamento adotado pelo acórdão recorrido a respeito do momento processual inoportuno para nova discussão das temáticas.
+Se as razões de recurso especial estão dissociadas do fundamento do acórdão combatido, que se mostra suficiente para manter o decisum atacado, resta inviabilizada a exata compreensão da controvérsia por deficiência na argumentação recursal. Incidência das Súmulas 284/STF e 283/STF. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. NOTIFICAÇÃO PARA APRESENTAÇÃO DE DEFESA PRÉVIA (ART. 17, §7º, DA LEI 8.429/92). NULIDADE RELATIVA. NÃO COMPROVAÇÃO DO PREJUÍZO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL. EXAME PREJUDICADO.
+1. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+2. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte deixa de impugnar fundamento suficiente para manter o acórdão recorrido, apresentando razões recursais dissociadas dos fundamentos utilizados pela Corte de origem. Incidência da Súmula 283.
+ ..
+(AgInt no REsp 1754247/RN, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 08/03/2021, DJe 10/03/2021, grifos nossos)
+TRIBUTÁRIO E PROCESSUAL CIVIL. INEXISTÊNCIA DE OMISSÃO. ART. 1.022, II, DO CPC. FUNDAMENTO NÃO ATACADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO PRODUZIDO NOS AUTOS. SÚMULA 7 DO STJ. APLICAÇÃO DA SÚMULA 283 DO STF.
+ ..
+5. Existe fundamento não impugnado pelo recorrente nas razões do Recurso Especial, visto que se limitou a manifestar seu inconformismo com o resultado que lhe foi desfavorável e deixou de refutar especificamente os fundamentos do acórdão objurgado. Logo, estando as razões do recurso dissociadas da fundamentação adotada na origem, incide na hipótese, por analogia, a Súmula 283 STF.
+6. Agravo Interno não provido.
+(AgInt nos EDcl no AREsp 1653723/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/02/2021, DJe 01/03/2021)
+Ademais, ainda que fosse possível superar o referido óbice, rever a conclusão do julgador em relação aos cálculo das execução, implicaria, necessariamente, no reexame do conjunto probatório, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ. Nesse sentido:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. NULIDADE DO TÍTULO EXECUTIVO. AUSÊNCIA DE DECISÃO DE MÉRITO. REVISÃO DO ENTENDIMENTO DO TRIBUNAL DE ORIGEM. REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A pretensão de revisão do entendimento proferido na origem acerca da alegação da nulidade por ausência de decisão meritória implica, no caso, reexame da matéria fático-probatória dos autos, o que é vedado em Recurso Especial, conforme Súmula 7/STJ.
+2. Recurso Especial não conhecido.
+(REsp 1661866/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/06/2017, DJe 30/06/2017)
+Ante o exposto, com esteio no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Deixo de aplicar o previsto no art. 85,§ 11, do CPC/2015, por não se tratar de hipótese de majoração de honorários recursais.
+Publique-se. Intimem-se.
