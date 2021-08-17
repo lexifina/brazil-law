@@ -1,0 +1,21 @@
+DESPACHO
+Na origem trata-se de agravo de instrumento contra decisão monocrática que negou o levantamento de valores. No Tribunala quonegou-se provimento ao agravo de instrumento, conforme o seguinte resumo de ementa do acórdão:
+AGRAVO DE INSTRUMENTO CUMPRIMENTO DE SENTENÇA HABILITAÇÃO DE HERDEIROS E LEVANTAMENTO DE QUANTIA RECONHECIDA COMO DEVIDA À SERVIDORA FALECIDA INDEFERIMENTO CONDICIONANDO A HABILITAÇÃO DOS HERDEIROS E O LEVANTAMENTO À COMPROVAÇÃO DA ABERTURA DE INVENTARIOARROLAMENTO CERTIDÃO DE ÓBITO DA SERVIDORA FALECIDA QUE ATESTA TER DEIXADO BENS RECORRENTES QUE NÃO NEGAM O FATO MAS APENAS AFIRMAM INEXISTIR INVENTÁRIO NECESSIDADE DE ABERTURA DE INVENTÁRIOARROLAMENTO PARA APURAÇÃO DE ATIVOS E PASSIVOS DECISÃO DE ORIGEM MANTIDA RECURSO DESPROVIDO
+Interposto recurso especial, nãofoi inadmitido na origem. Após interposição de agravo em recurso especial, vieram os autos ao Superior Tribunal de Justiça.
+É o relatório. Decido.
+Não há violação do 535 do CPC/73 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/73 e do art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+Conforme entendimento pacífico desta Corte "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão". A prescrição trazida pelo art. 489 do CPC/2015 confirma a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, "sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida". (EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (Desembargadora convocada TRF 3ª Região), Primeira Seção, julgado em 8/6/2016, DJe 15/6/2016).
+Todavia, o Acórdão contraria a jurisprudência desta Corte, que considera desnecessário que haja inventário para a habilitação dos herdeiros na execução. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. VALORES NÃO RECEBIDOS EM VIDA. PENSIONISTA. LEGITIMIDADE. INVENTÁRIO OU ARROLAMENTO DE BENS. DESNECESSIDADE.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Segundo a jurisprudência do STJ, em observância ao princípio da especialidade, há prevalência do art. 112 da Lei n. 8.213/1991 sobre as normas do diploma processual civil, motivo pelo qual os dependentes e, na falta deles, os sucessores do falecido, possuem legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens.
+3. Hipótese em que reconhecida a legitimidade de pensionista para perceber os valores devidos ao servidor falecido e não pagos em vida, não havendo que se falar em concorrência com os demais herdeiros.
+4. Agravo interno desprovido.
+(AgInt no REsp 1865204/RS, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL.SERVIDOR PÚBLICO. MORTE DO TITULAR DO DIREITO NO CURSO DA AÇÃO.HABILITAÇÃO PROCESSUAL DO BENEFICIÁRIO DE PENSÃO POR MORTE.DESNECESSIDADE DE INVENTÁRIO OU ARROLAMENTO DE BENS. PRECEDENTE DO STJ. RECURSO PROVIDO. MANUTENÇÃO.
+1. O acórdão recorrido se afastou da orientação jurisprudencial deste Superior Tribunal de que os dependentes previdenciários e, na falta deles, os sucessores do falecido têm legitimidade para pleitear valores não recebidos em vida pelo de cujus, independentemente de inventário ou arrolamento de bens.
+2. Provimento do recurso especial da parte agravada que merece ser mantido.
+3. Agravo interno não provido.
+(AgInt no REsp 1853332/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 31/08/2020, DJe 04/09/2020)
+Ante o exposto dou provimento ao recurso especial para o fim de determinar o prosseguimento da execução. Prejudicada a análise da alegação de divergência jurisprudencial.
+Publique-se. Intime-se.
