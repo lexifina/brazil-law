@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. MATÉRIAS NÃO EXAMINADAS. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os pleitos de concessão das benesse de progressão a regime mais benéfico ou de livramento condicional requerem o revolvimento do acervo fático-probatório, em dissonância com o rito célere atinente ao mandamus, especialmente diante da ausência de exame da matéria no habeas corpus originário, a sublinhar a impossibilidade de exame do pedido por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOSELTON PEREIRA DA SILVA agrava da decisão de fls. 98-99, em que a Presidência do Superior Tribunal de Justiça não conheceu do recurso em habeas corpus, dada a insuperável supressão de instância.
+Para tanto, assere que "não houve uma tentativa de banalização do Remédio Heróico para obter benefícios junto à Vara de Execução Penais, mas num cenário no qual o recurso pertinente SEQUER FORA AUTUADO, não restou alternativa ao impetrante senão pleitear através deste Remédio a concessão dos benefícios aos quais, há muito, o paciente tem direito" (fl. 104).
+Requer, assim, "seja conhecido o presente recurso para que seja concedida a ordem impetrada ou, em não sendo o entendimento de V.Exªs, que seja ao menos a ordem concedida de ofício, nos termos do art. 203, inciso II do RISTJ" (fl. 104).
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. LIVRAMENTO CONDICIONAL. MATÉRIAS NÃO EXAMINADAS. SUPRESSÃO DE INSTÂNCIA. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Os pleitos de concessão das benesse de progressão a regime mais benéfico ou de livramento condicional requerem o revolvimento do acervo fático-probatório, em dissonância com o rito célere atinente ao mandamus, especialmente diante da ausência de exame da matéria no habeas corpus originário, a sublinhar a impossibilidade de exame do pedido por esta Corte Superior, sob pena de incorrer em indevida supressão de instância.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme apontado na decisão vergastada, a defesa pleiteou a concessão dos benefícios da progressão ao regime aberto e do livramento condicional perante o Juízo da Vara de Execuções Penais do Rio de Janeiro, o que foi indeferido, consoante decisum acostado às fls. 61-62.
+Ao examinar o writ lá impetrado, o Desembargador relator extinguiu o feito sem julgamento do mérito, ao salientar que "se tratam de pleitos já formulados em sede de Agravo na Execução ainda não remetido a este Colegiado, manifestamente improcedente se mostra a pretensão mandamental de obtenção por esta estreita via, dos benefícios pleiteados naquele" (fl. 11, grifei).
+Por sua vez, o Tribunal a quo apontou, no respectivo agravo regimental, que " d esmerece acolhida a pretensão recursal defensiva, porquanto efetivamente descabe a banalização do manejo do remédio heroico, mercê da sua fungibilização na interposição do Recurso próprio, de conformidade com sedimentada posição adotada a respeito pelos nossos Tribunais Superiores, em hipótese que desafiava a utilização de Agravo na Execução, o qual, num primeiro momento, foi noticiado como tendo sido interposto e ainda estando em tramitação, mas sem que tivesse sido remetido a este Pretório" (fl. 21).
+Portanto, percebe-se que a Corte de origem não analisou o preenchimento dos requisitos legalmente exigidos para a eventual concessão das benesses de progressão de regime ou, ainda, livramento condicional.
+Assim, verifica-se ser defeso a esta Corte Superior adentrar o exame da questão aqui suscitada, dada a evidente e insuperável supressão de instância. A esse respeito:
+ ..  nota-se que a Corte originária não analisou as referidas questões. Impossibilidade de análise desses pontos da impetração pelo STJ, sob pena de atuar em indevida supressão de instância, com a consequente ampliação inconstitucional da competência recursal ordinária (CF, art, 105, II)  ..  (HC n. 486.103/MG, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 30/4/2019, grifei).
+ ..  A Corte estadual não analisou a tese ora trazida pela defesa no presente mandamus consubstanciada em nulidade decorrente da falta de manifestação do juízo primevo acerca das teses defensivas apresentadas na resposta à acusação. Limitou-se o Tribunal de origem a concluir que a matéria "é sanável por recurso próprio, do qual o Habeas Corpus não pode funcionar como sucedâneo" (fl. 335). Dessa forma, este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância  ..  (RHC n. 86.893/SP, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/11/2018, destaquei).
+À vista do exposto, nego provimento ao recurso.
