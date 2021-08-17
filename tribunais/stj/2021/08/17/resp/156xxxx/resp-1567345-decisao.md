@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pela União contra decisão do TRF da 4ª Região, assim ementada (e-STJ fl. 421):
+CUMPRIMENTO DE SENTENÇA. NULIDADE. NÃO RECONHECIMENTO, HONORÁRIOS ADVOCATÍCIOS. PRESCRIÇÃO QUINQUENAL.
+A teor do disposto no art. 1º do Decreto 20.910/32, a União, vencedora da ação de conhecimento, tinha o prazo de 05 anos para promover a execução da sentença no que pertine à verba honorária que lhe era devida.
+Não se tratando da reserva feita pelo parágrafo único do art. 245 do CPC, a questão da nulidade da decisão que direcionou a intimação de forma equivocada está preclusa, nos moldes do caput do art. 245 do CPC.
+Tendo em vista que houve o trânsito em julgado em 15/05/1998, com baixa dos autos em 20/10/2001 e efetiva execução pelo cumprimento de sentença apenas em 15/08/2012, está prescrita a pretensão executória quinquenal da União em relação à verba de honorários advocatícios fixada na fase de conhecimento.
+Sustenta o ente federal, preliminarmente, violação do art. 535, II, do CPC/1973. No mérito, alega contrariedade aos arts. 214, § 1º, 269, IV, 245, parágrafo único, 247, 248, 249, § 2º, todos do CPC/1973 e violação do art. 1ºdo Decreto n.20.910/1932 (e-STJ fls. 462/480).
+Contrarrazões (e-STJ fls. 492/496 e 498/500).
+Passo a decidir.
+Adianto que o apelo especial merece guarida.
+A princípio, verifico que o decisum originário se manifestou quanto às questões controvertidas, inclusive claramente sobre todos os aspectos da prescrição, rejeitando, ainda que por lógica (tacitamente), os fundamentos do ente federal. O que queria a parte então embargante era rediscutir o mérito da decisão no trecho em que lhe foi desfavorável, não se prestando os aclaratórios a essa função.
+Além disso, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/09/2014.
+Com efeito, não havia violação do art. 535, II, do CPC/1973.
+No mérito, porém, assiste razão jurídica à Fazenda Pública Federal.
+Constou do acórdão impugnado manifestação expressa sobre o instituto, no seguinte sentido (e-STJ fls. 418/419):
+O acórdão do TRF da 4ª Região transitou em julgado em 15/05/1998 (fl. 190), e, baixados à primeira instância, a União promoveu a execução, ainda na forma do art. 604 do CPC, em 07/02/2001 (fls. 192-194).
+Equivocadamente, a decisão da fl. 195 determinou a intimação da parte autora para que providenciasse a juntada das cópias necessárias para a citação, de modo que, acaso, cumprido, fosse procedida a citação conforme art. 730 do CPC.
+É evidente o erro de processamento, porque a execução era da União, e não contra a União.
+A parte autora - equivocadamente - foi intimada e reintimada e, por não cumprir o que, em verdade, não lhe cabia, os autos foram baixados e arquivados conforme decisão e atos da fl. 199, em 20/10/2001.
+Em 30/05/2012, a Gestão Documental desta Subseção Judiciária constatou o equívoco e devolveu os autos à Secretaria (fl. 200), ocasião em que se procedeu à intimação da União (fls. 201-202) e sobreveio a petição de cumprimento de sentença e cálculo das fls. 203-204, em 15/08/2012.
+Ao responder à impugnação, a União alega que a decisão da fl. 195 padece de nulidade, de modo que não pode ter contra si a alegação de prescrição, porque não foi inerte.
+Tendo a União trazido a questão para o plano da nulidade processual, é sob tal regime que a questão deve ser solucionada.
+Já se disse do evidente equívoco no direcionamento da decisão da fl. 195, erro este que se amolda à não observância das prescrições legais quanto à intimação (art. 247 do CPC), seja pelo erro no direcionamento da decisão, seja pela falta efetiva da intimação da parte correta.
+O prejuízo que a União sentiria com o não reconhecimento da nulidade seria a inviabilidade da execução.
+Firmado tal contexto e tendo-se presente a relevância de que a intimação tivesse sido realizada para o andamento da execução então proposta, o fato é que a nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão, o que não se verificou porque, intimada - agora da decisão das fls. 201-202 - a União limitou-se a requerer o cumprimento da sentença, sem nada argüir em relação à nulidade que lhe aproveitaria, não lhe cabendo suscitar que fez tal alegação quando ofertou resposta às impugnações, porque aquela resposta não foi a primeira oportunidade que teve para falar nos autos.
+No caso, o erro quanto à intimação, conquanto possa ser conhecido de ofício, não necessariamente deve sê-lo, já que a parte, voluntariamente, pode suprir a nulidade até por falta de citação. A respeito, o art. 214, §1º, do CPC. Outrossim, nenhum justo impedimento houve para que a União não tenha alegado a questão na petição da fl. 203.
+Portanto, não se tratando da reserva feita pelo parágrafo único do art. 245, a questão da nulidade da decisão da fl. 195 está preclusa, nos moldes do caput do art. 245 do CPC.
+Então, tendo em vista que houve o trânsito em julgado em 15/05/1998, com baixa dos autos em 20/10/2001 e efetiva execução pelo cumprimento de sentença apenas em 15/08/2012, está prescrita a pretensão executória quinquenal da União em relação à verba de honorários advocatícios fixada na fase de conhecimento do processo em epígrafe. (Grifos acrescidos).
+Conforme se constata da leitura do próprio julgado, especialmente dos trechos em destaque, a quase totalidade do tempo em que o processo permaneceu sem andamento foi ocasionada por erro reconhecidamente praticado pelo juízo da execução.
+Nesse passo, ainda que a União não tenha alegado a nulidade da intimação que equivocadamente lhe foi dirigida, o fato é que claramente se aplicaria ao caso a Súmula 106 desta Corte, a afastar o reconhecimento da prescrição.
+Em outras palavras: independente da discussão sobre a existência de preclusão para reclamar o vício de intimação, é incontroverso que o ente federal deflagrou a execução respeitando o prazo do art. 1ºdo Decreto n. 20.910/1932 e o enunciado da Súmula 150 do STF.
+No mais, o transcurso de excessivo tempo durante o cumprimento de sentença se operou não por desídia do exequente, mas por falhas do mecanismo do próprio sistema de justiça.
+A propósito, não desconheço que a Primeira Seção do STJ, sob o rito do art. 543-C do CPC/1973, concluiu ser tarefa vedada o exame da ocorrência da Súmula 106 nesta instância recursal, em razão do óbice da Súmula 7 desta Corte(REsp 1.102.431/SP, Rel. Min. Luiz Fux, DJe de 1.2.2010).
+Mas aqui cabe a distinção do precedente: a controvérsia no particular não era saber se houve ou não atraso na execução por razões exclusivamente associadas ao Judiciário. Esse pressuposto era incontroverso, pois reconhecido no bojo do próprio acórdão recorrido, dispensando o revolvimento da matéria fática.
+Ante o exposto, DOU PROVIMENTO ao recurso especial da UNIÃO, para reformar o acórdão recorrido e, afastando o reconhecimento da prescrição da pretensão executiva, determinara devolução do processo à origem, para continuidade da execução.
+Publique-se. Intimem-se.
