@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pela Central Nacional UNIMED - Cooperativa Central contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 481):
+Plano de saúde - Paciente portadora de câncer no cérebro - Indicação médica para realização de cirurgia com materiais e método adequado -Negativa de cobertura - Descabimento - Tratando-se de questões relativas à saúde deve prevalecer a indicação médica - Ocorrência de danos morais, razoavelmente arbitrados em R$ 10.000,00 - Solidariedade entre as integrantes do grupo Unimed - Precedentes - Recursos não providos.
+No Superior Tribunal de Justiça, "a competência das Seções e respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa", cabendo à Segunda Seção processar e julgar os feitos relativos a obrigações em geral de direito privado (art. 9º, caput e § 2º, inc. II, do RISTJ).
+Dessa forma, determino sejam os presentes autos encaminhados a um dos Ministros integrantes daquela Seção.
