@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto por OSVALDO RAMOS MARQUEScom fundamentona alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 4ª Região,assim ementado (fl. 677):
+PREVIDENCIÁRIO. JUÍZO DE RETRATAÇÃO. TEMA995/STJ. REAFIRMAÇÃO DA DER. Nos termos do Tema nº 995 do Superior Tribunal de Justiça, "é possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entregada prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e933 do CPC/2015, observada a causa de pedir."
+Opostos embargos de declaração, foram rejeitados (fls. 706/711).
+Sustenta a parte violação dos arts. 240, 927,III, e 1.022 do CPC; 394, 398 do CC, argumentando, além de negativa de prestação jurisdicional, que "a decisão, ao deixar de fixar juros de mora na DIB/DER reafirmada, ofende diretamente aos artigos de lei ora mencionados" (fl. 737).
+Aduz que "a fixação de juros apenas se o INSS não implantar o benefício no prazo de 45 dias após a intimação, nega vigência aos arts. 240, do CPC, art. 394, do Código Civil e até mesmo ao art. 398 do mesmo Codex e, por esse motivo, a decisão vergastada merece ser reformada" (fl. 739).
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifico que a pretensão recursal não merece prosperar.
+No caso em questão, inexistem omissão, contradição, obscuridade ou erro material, uma vez que, pela leitura do inteiro teor do acórdão embargado, depreende-se que este apreciou devidamente a matéria em debate e analisou de forma exaustiva, clara e objetiva as questões relevantes para o deslinde da controvérsia.
+Quanto à questão de fundo, colhe do acórdão recorrido o seguinte excerto, verbis(fl. 687):
+Em relação aos juros de mora, que considerando-se que a DER foi reafirmada para data posterior ao ajuizamento da ação, os juros de mora incidirão apenas sobre o montante das parcelas vencidas e não pagas a partir do prazo de 45 dias para a implantação do benefício.
+Ao que se observa, o Tribunal de origem nada mais fez que seguir os parâmetros estabelecidospelo STJ, no sentido de que os juros de mora apenas serão cabíveis, na hipótese de o INSS não cumprir a obrigação principal de implantar o benefício no prazo deaté quarenta e cinco dias após a condenação.
+Confira-sea ementa do aludido julgado:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL REPETITIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. REAFIRMAÇÃO DA DER (DATA DE ENTRADA DO REQUERIMENTO). CABIMENTO. RECURSO ESPECIAL PROVIDO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITO MODIFICATIVO.
+1. Embargos de declaração opostos pelo INSS, em que aponta obscuridade e contradição quanto ao termo inicial do benefício reconhecido após reafirmada a data de entrada do requerimento.
+2. É possível a reafirmação da DER (Data de Entrada do Requerimento) para o momento em que implementados os requisitos para a concessão do benefício, mesmo que isso se dê no interstício entre o ajuizamento da ação e a entrega da prestação jurisdicional nas instâncias ordinárias, nos termos dos arts. 493 e 933 do CPC/2015, observada a causa de pedir.
+3. Conforme delimitado no acórdão embargado, quanto aos valores retroativos, não se pode considerar razoável o pagamento de parcelas pretéritas, pois o direito é reconhecido no curso do processo, após o ajuizamento da ação, devendo ser fixado o termo inicial do benefício pela decisão que reconhecer o direito, na data em que preenchidos os requisitos para concessão do benefício, em diante, sem pagamento de valores pretéritos.
+4. O prévio requerimento administrativo já foi tema decidido pelo Supremo Tribunal Federal, julgamento do RE 641.240/MG. Assim, mister o prévio requerimento administrativo, para posterior ajuizamento da ação, nas hipóteses ali delimitadas, o que não corresponde à tese sustentada de que a reafirmação da DER implica na burla do novel requerimento.
+5. Quanto à mora, é sabido que a execução contra o INSS possui dois tipos de obrigações: a primeira consiste na implantação do benefício, a segunda, no pagamento de parcelas vencidas a serem liquidadas e quitadas pela via do precatório ou do RPV. No caso de o INSS não efetivar a implantação do benefício, primeira obrigação oriunda de sua condenação, no prazo razoável de até quarenta e cinco dias, surgirão, a partir daí, parcelas vencidas oriundas de sua mora. Nessa hipótese deve haver a fixação dos juros, embutidos no requisitório de pequeno valor.
+6. Quanto à obscuridade apontada, referente ao momento processual oportuno para se reafirmar a DER, afirma-se que o julgamento do recurso de apelação pode ser convertido em diligência para o fim de produção da prova.
+7. Embargos de declaração acolhidos, sem efeito modificativo.
+(EDcl no REsp 1.727.063/SP, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 19/05/2020, DJe 21/05/2020)
+ANTE O EXPOSTO, nego provimento ao recurso especial.
+Publique-se.
