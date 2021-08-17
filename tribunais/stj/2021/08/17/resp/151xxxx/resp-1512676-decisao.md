@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pela UNIÃO, com arrimo no permissivo constitucional,contra acórdão dodo Tribunal Regional Federal da 5ª Região assimementado (e-STJ fls. 181/182):
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. COMPLEMENTAÇÃO DAS VERBAS DO FUNDEF. VMAA. PENDÊNCIA DE AÇÕES CIVIS ORDINÁRIAS NO STF. IRRELEVÂNCIA. EXIGIBILIDADE DO TÍTULO JUDICIAL. NATUREZA JURÍDICA DO DÉBITO. AUSÊNCIA DE NECESSIDADE DE DEMONSTRAÇÃO DE DANO. INEXISTÊNCIA DE CAUSA MODIFICATIVA DA OBRIGAÇÃO. DESTINAÇÃO. NÃO DEMONSTRAÇÃO DE EXCESSO NOS CÁLCULOS. VALIDADE DA EXECUÇÃO.
+I - Apelação de sentença que julgou improcedentes embargos à execução (artigo 269, I, do CPC), em face de cumprimento de sentença relativa ao pagamento de diferenças devidas e não repassadas a título de complementação da transferência dos recursos do FUNDEF, em razão da fixação do VMAA.
+II - A sentença objeto de liquidação transitou em julgado, versando sobre matéria de natureza infraconstitucional, não podendo ser modificada, de maneira que a existência de ações civis ordinárias em trâmite no STF em nada alteram o curso da presente demanda.
+III - A complementação feita pela União para o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF, independentemente da natureza dos créditos utilizados, destina-se exclusivamente a assegurar recursos financeiros ao referido Fundo (artigo 5º da Lei 11.494/2007). Matéria que se refere ao Direito Administrativo.
+IV - Na medida em que o título executivo judicial não elencou qualquer condição para o pagamento das diferenças entre o VMAA estabelecido pelos decretos presidenciais e aquele que seria devido com base no texto legal, não há que se falar em necessidade de demonstração do dano a ressarcir, dada a reconhecida exigibilidade dos valores reconhecidos por sentença. O dano é presumido.
+V - Não há que se falar em existência de causa modificativa da obrigação, consubstanciada na existência de fato consumado. Os valores reconhecidos como devidos na sentença dizem respeito à transferência de valores que, à época. deveria ter sido efetuada, não importando que a disciplina jurídica e os critérios ora adotados divirjam do regime jurídico outrora vigente, ou seja, a extinção do FUNDEF e a criação do FUNDEB não tem o condão de extinguir as obrigações não cumpridas ou tornar inexigíveis os valores reconhecidos em sentença transitada em julgado.
+VI - No que se refere à exigência de destinação exclusiva dos recursos para à Educação do Município exequente, prospera o entendimento de que tal fato não altera a exigibilidade da dívida, cabendo aos órgãos de controle à verificação sobre o efetivo emprego das referidas verbas na sua finalidade específica, adotando, se for o caso, as medidas legais cabíveis.
+VII - A Contadoria do Foro elaborou os cálculos utilizando, a partir de junho de 2009, os mesmos critérios de correção da poupança (art. 1º-F da Lei nº 9.494/97). Desta feita, seguindo orientação fixada pelo Juízo, foi utilizada a correção pela TR  0,5% capitalizados mensalmente, tal como são atualizados os depósitos de poupança. Ou seja, adotando, no caso, corretamente, os critérios estabelecidos pelo STJ, no REsp 1.337.579 PB DJE 26/09/2013, Relatora Ministra Eliana Calmon). Não restou evidenciado o alegado excesso à execução.
+VIII - Apelação improvida.
+Embargos de declaração rejeitados.
+Sustenta a recorrente, em síntese, violação doart. 1º-F da Lei 9.494/1997,com a redação dada pelo art. 5ºda Lei n. 11.960/2009, dos arts. 20,30 e 60 da Lei n. 9.424/1996 edos arts. 741, V e VI, e 743, I, do Código de Processo Civil/1973. Impugna a capitalização mensal dos juros moratórios.
+Contrarrazões (e-STJ fls. 245/263).
+Admissão recursal (e-STJ fls. 362/363).
+Passo a decidir.
+Inicialmente, observo que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo 2 do STJ).
+Considerado isso, verifico que assiste razão à UNIÃO.
+É que o acórdão recorrido afastou-se do entendimento consolidado nesta Corte, segundo o qual a capitalização mensal dos juros só é cabível quando expressamente determinada por lei, o que não é o caso da disposição contida no art. 1º-F da Lei 9.494/1997, com a redação dada pela Lei n. 11.960/2009, que estabeleceucategoricamente a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. SERVIDOR PÚBLICO FEDERAL. EMBARGOS À EXECUÇÃO. ART. 1º-F DA LEI 9.494/97, COM A REDAÇÃO DADA PELA LEI 11.960/09. CAPITALIZAÇÃO MENSAL DOS JUROS.NÃO CABIMENTO. PRECEDENTES DO STJ.
+1. Conforme a jurisprudência desta Corte, a capitalização mensal dos juros só é cabível quando expressamente determinada por lei, o que não é o caso da disposição contida no art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/09. Nesse sentido: AgRg no REsp 1.360.196/RS, 2ª T., Min. Humberto Martins, DJe 16/12/2013; AgRg no REsp 1.382.105/RS, 2ª T., Min. Humberto Martins, DJe 01/08/2013;
+AgRg no AgRg no Ag 1.211.604/SP, 5ª T., Min. Laurita Vaz, DJe 21/05/2012.
+2. Agravo regimental não provido.
+(AgRg no REsp 1441493/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/04/2014, DJe 02/05/2014)
+PROCESSUAL CIVIL. JUROS DE MORA. NOVA REDAÇÃO DO ART. 1º-F DA LEI N.9.494/97. CAPITALIZAÇÃO MENSAL DE JUROS. NECESSIDADE DE PREVISÃO LEGAL.
+Conforme precedentes desta Corte, a capitalização de juros somente é permitida quando expressamente autorizada, de modo que não se pode ter como subentendida tal sistemática remuneratória.
+Agravo regimental improvido.
+(AgRg no REsp 1360196/RS, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 05/12/2013, DJe 16/12/2013)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. JUROS DE MORA. ART. 1.º-F DA LEI N.º 9.494/1997, COM A REDAÇÃO DA LEI N.º 11.960/2009. APLICAÇÃO IMEDIATA. CAPITALIZAÇÃO MENSAL. NECESSIDADE DE PREVISÃO LEGAL.PRECEDENTES.
+1. Nos termos do entendimento firmado pela Corte Especial, no julgamento do REsp n. 1.205.946/SP, submetido ao rito dos recursos repetitivos, o art. 1.º-F da Lei n.º 9.494/1997, com a redação dada pelo art. 5.º da Lei n.º 11.960/2009, tem aplicação imediata aos processos em curso.
+2. Constitui óbice à pretensão de capitalização mensal dos juros o texto do art. 1º, F, dado pela Lei n.º 11.960/2009, in verbis: "Nas condenações impostas à Fazenda Pública, independentemente de sua natureza e para fins de atualização monetária, remuneração do capital e compensação da mora, haverá a incidência uma única vez, até o efetivo pagamento, dos índices oficiais de remuneração básica e juros aplicados à caderneta de poupança." 3. Agravo regimental desprovido.
+(AgRg no AgRg no Ag 1211604/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 08/05/2012, DJe 21/05/2012)
+De rigor, portanto, o acolhimento da pretensão recursal.
+Ante o exposto, com arrimo no art. 255, §4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial, para vedar a capitalização mensal dos juros moratórios.
+Publique-se.Intimem-se.
