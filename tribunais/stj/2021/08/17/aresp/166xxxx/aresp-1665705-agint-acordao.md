@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. DESISTÊNCIA IMOTIVADA DO COMPRADOR. DIREITO DE RETENÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que, nos casos de rescisão contratual de promessa de compra e venda de imóvel por desistência imotivada pelo comprador, não havendo nenhuma particularidade que justifique a redução, deve prevalecer a retenção de 25% (vinte e cinco por cento) dos valores pagos como forma de compensação dos custos administrativos do empreendimento.
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por POLLYANA BANDEIRA DE ALENCAR AZEVEDO contra a decisão que conheceu do agravo para dar parcial provimento ao recurso especial da parte contrária (fls. 665/669, e-STJ).
+Em suas razões, a agravante defende, em síntese, a necessidade de aplicação dos óbices das Súmulas nºs 5 e 7/STJ.
+Afirma que o
+"(..)Superior Tribunal de Justiça estabelece como parâmetro da retenção um percentual que flutua entre 10% (dez por cento) e 25% (vinte e cinco por cento) do valor pago. A variação decorre, evidentemente, do exame de circunstâncias fáticas"(fl. 688, e-STJ).
+Ao final, requer a reforma da decisão atacada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO. DESISTÊNCIA IMOTIVADA DO COMPRADOR. DIREITO DE RETENÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O Superior Tribunal de Justiça consolidou entendimento no sentido de que, nos casos de rescisão contratual de promessa de compra e venda de imóvel por desistência imotivada pelo comprador, não havendo nenhuma particularidade que justifique a redução, deve prevalecer a retenção de 25% (vinte e cinco por cento) dos valores pagos como forma de compensação dos custos administrativos do empreendimento.
+3. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Trata-se, na origem, de ação de consignação em pagamento decorrente da rescisão de contrato de promessa de compra e venda de imóvel em virtude da inadimplência da ora agravante, que suscitou a abusividade da cláusula contratual que previu a retenção de 37% (trinta e sete por cento) do valor pago.
+A Corte local manteve o percentual definido na sentença de 10% (dez por cento) dos valores pagos, pois a rescisão ocorreu por culpa da compradora.
+A agravante defende a impossibilidade de majoração do percentual de retenção, visto que o Superior Tribunal de Justiça admite a flutuação do percentual de retenção entre10% (dez por cento) e 25% (vinte e cinco por cento) do valor pago.
+Entretanto, esta Corte Superior consolidou entendimento no sentido de que, nos casos de rescisão contratual de promessa de compra e venda de imóvel por desistência imotivada pelo comprador, como no caso dos autos, não havendo nenhuma particularidade que justifique a redução, deve prevalecer a retenção de 25% (vinte e cinco por cento) dos valores pagos como forma de compensação dos custos administrativos do empreendimento.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. PROMESSA DE COMPRA E VENDA DE IMÓVEL. RESCISÃO POR CONVENIÊNCIA DO COMPRADOR. RETENÇÃO DE 25% DOS VALORES PAGOS. POSSIBILIDADE. PRECEDENTES DA SEGUNDA SEÇÃO DO STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. A Segunda Seção do STJ, ao apreciar o REsp 1.723.519/SP (Relatora Ministra ISABEL GALLOTTI), reafirmou o entendimento de que, nas hipóteses de rescisão de contrato de promessa de compra e venda de imóvel por conveniência do comprador, ausente qualquer peculiaridade na apreciação da razoabilidade da cláusula penal contida nos contratos firmados antes da Lei 13.786/2018, deve prevalecer o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelo adquirente, conforme anteriormente estabelecido no julgamento dos EAg 1.138.183/PE (Relator Ministro SIDNEI BENETI, DJe de 4.10.2012), por ser adequado e suficiente para indenizar o construtor incorporador das despesas gerais realizadas e do rompimento unilateral imotivado do contrato.
+2. Agravo interno a que se nega provimento"(AgInt no AREsp 1.453.487/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 09/02/2021, DJe 12/02/2021).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE RESCISÃO CONTRATUAL. 1. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282/STF E 211/STJ. 2. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. 3. CONCLUSÃO DAS INSTÂNCIAS ORDINÁRIAS ESTABELECIDA COM BASE EM CLÁUSULAS CONTRATUAIS E NAS PROVAS DOS AUTOS. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 4. DIREITO DE RETENÇÃO. PERCENTUAL DE 25% DOS VALORES PAGOS. PRECEDENTE DA SEGUNDA SEÇÃO. 5. AGRAVO PARCIALMENTE PROVIDO.
+(..)
+4. De fato, a Segunda Seção desta Corte, no julgamento do REsp n. 1.723.519/SP, consolidou a orientação de que, nos casos de desistência imotivada pelo comprador de imóvel, não havendo nenhuma particularidade que justifique a redução, deve-se estabelecer a retenção de 25% (vinte e cinco por cento) dos valores pagos para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato.
+5. Agravo interno parcialmente provido para fixar em 25% (vinte e cinco por cento) a retenção sobre os valores pagos pelos adquirentes, os quais deverão ser restituídos com incidência de juros de mora a partir do trânsito em julgado"(AgInt no AgInt no AREsp 1.643.864/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/10/2020, DJe 26/10/2020).
+"RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. CONTRATO ANTERIOR À LEI 13.786/2018. INCORPORAÇÃO IMOBILIÁRIA. DESISTÊNCIA IMOTIVADA DO PROMISSÁRIO COMPRADOR. RESTITUIÇÃO PARCIAL. DEVOLUÇÃO AO PROMISSÁRIO COMPRADOR DOS VALORES PAGOS COM A RETENÇÃO DE 25% POR PARTE DA VENDEDORA. JUROS DE MORA. TERMO INICIAL. TRÂNSITO EM JULGADO. PRECEDENTE FIRMADO EM JULGAMENTO DE RECURSO REPETITIVO.
+1. A despeito do caráter originalmente irretratável da compra e venda no âmbito da incorporação imobiliária (Lei 4.591/1964, art. 32, §2º), a jurisprudência do STJ, anterior à Lei 13.786/2018, de há muito já reconhecia, à luz do Código de Defesa do Consumidor, o direito potestativo do consumidor de promover ação a fim de rescindir o contrato e receber, de forma imediata e em pagamento único, a restituição dos valores pagos, assegurado ao vendedor sem culpa pelo distrato, de outro lado, o direito de reter parcela do montante (Súmula 543/STJ).
+2. Hipótese em que, ausente qualquer peculiaridade, na apreciação da razoabilidade da cláusula penal estabelecida em contrato anterior à Lei 13.786/2018, deve prevalecer o parâmetro estabelecido pela Segunda Seção no julgamento dos EAg 1.138.183/PE, DJe 4.10.2012, sob a relatoria para o acórdão do Ministro Sidnei Beneti, a saber o percentual de retenção de 25% (vinte e cinco por cento) dos valores pagos pelos adquirentes, reiteradamente afirmado por esta Corte como adequado para indenizar o construtor das despesas gerais e desestimular o rompimento unilateral do contrato. Tal percentual tem caráter indenizatório e cominatório, não havendo diferença, para tal fim, entre a utilização ou não do bem, prescindindo também da demonstração individualizada das despesas gerais tidas pela incorporadora com o empreendimento.
+3. Nos termos da jurisprudência desta Corte, firmada pela Segunda Seção em julgamento submetido ao rito dos recursos repetitivos, "nos compromissos de compra e venda de unidades imobiliárias anteriores à Lei n. 13.786/2018, em que é pleiteada a resolução do contrato por iniciativa do promitente comprador de forma diversa da cláusula penal convencionada, os juros de mora incidem a partir do trânsito em julgado da decisão"(REsp 1.740.911/DF, DJe 22.8.2019).
+4. Recurso especial parcialmente provido"(REsp 1.723.519/SP, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 28/08/2019, DJe 02/10/2019).
+Assim, não prosperam as alegações postas no presente recurso, incapazes de alterar os fundamentos da decisão impugnada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
