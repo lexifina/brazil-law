@@ -1,0 +1,27 @@
+Visto.
+Trata-se de Agravo de Instrumento, com pedido de efeito suspensivo, interposto por VALDIR APARECIDO DA SILVA E OUTROS face a decisão proferida pelo Juízo da 1a Vara da Comarca de Mirassol D’oeste/MT, que rejeitou a Exceção de Pré-Executividade oposta pelos agravantes nos autos da Ação de Execução Fiscal no 1003782-21.2019.8.11.0011 e determinou o prosseguimento regular do feito.
+Aduzem que “em se tratando de ICMS, o contribuinte é a empresa que realizou o ato comercial, e conforme a CDA em anexo, “os sócios foram qualificados como 'corresponsáveis' e não como devedores'”, pois consta da mencionada CDA como devedora a contribuinte pessoa jurídica”.
+Sustentam que “não há como olvidar que a pessoa jurídica na qualidade de contribuinte do imposto trata -se da única devedora dos tributos até o presente. Ademais ainda que aplicável a tese desfavorável aos sócios, é de todo incabível exigir - se prova negativa da prática de atos com excesso de poderes ou infração de lei, contrato social ou estatutos, inclusive à vista do princípio geral do Direito segundo o qual a má-fé não se presume”.
+Ao final, pugnam pela concessão da tutela antecipada recursal, para que seja suspensa a execução fiscal até o julgamento do mérito do presente recurso, bem como que haja o deferimento da justiça gratuita.
+No mérito, requer a reforma da decisão agravada, para que seja acolhida a Exceção de Pré-Executividade e extinto o executivo fiscal.
+Em 14/07/2021 fora determinada a juntada de novos documentos hábeis a comprovar a alegada hipossuficiência (ID 94197992).
+Em 23/07/2021 houve a juntada de comprovante de pagamento do preparo recursal (ID 95366963).
+É o relatório.
+Decido.
+Em análise acurada aos elementos e circunstâncias que envolvem a controvérsia, tenho que o pedido de concessão do efeito suspensivo não merece acolhimento, face a ausência dos pressupostos autorizadores para o seu deferimento.
+Na espécie, não se verifica a plausibilidade do direito invocado a revelar, nesta fase de cognição sumária, a relevância da pretensão recursal.
+In casu, extrai-se dos autos que o ESTADO DE MATO GROSSO ajuizou a Execução Fiscal no 1003782-21.2019.8.11.0011 em face de M. V. COMÉRCIO DE ALIMENTOS LTDA - ME e dos sócios tidos como corresponsáveis VALDIR APARECIDO DA SILVA e MARIA DE LURDES CATELLAN SILVA, visando o recebimento de crédito tributário descrito na CDA no 2017475923.
+Fora interposta Exceção de Pré-Executividade alegando a ilegitimidade dos sócios para figurarem no polo passivo da demanda, que foi rejeitada e motivou a interposição do presente recurso.
+A controvérsia reside na ilegitimidade ou não dos sócios para responderam pela dívida executada.
+Na vertente hipótese, observa-se do título executado que além de constar o nome da pessoa jurídica, foi indicado na CDA o nome dos sócios como corresponsáveis.
+Com efeito, os indícios se pairam no sentido de que no caso dos autos deve ser aplicado o entendimento pacificado da Cidadania, por meio do recurso paradigma REsp. no 1104900 (Tema Repetitivo 103), o qual estabelece que quando consta o nome do sócio corresponsável na CDA executada, incumbe a ele o ônus de provar que não agiu com excesso de poder, infração a lei ou estatuto, como cito:
+“PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. CERTIDÃO DA DÍVIDA ATIVA. [...] Conforme sedimentado pela Primeira Seção, no julgamento do REsp 1.104.900/ES, "se a execução foi ajuizada apenas contra a pessoa jurídica, mas o nome do sócio consta da CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN, ou seja, não houve a prática de atos 'com excesso de poderes ou infração de lei, contrato social ou estatutos [...]". (STJ - AgInt no AREsp 706.930/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 13/12/2018, DJe 22/02/2019)
+“PROCESSUAL CIVIL. RECURSO ESPECIAL SUBMETIDO À SISTEMÁTICA PREVISTA NO ART. 543-C DO CPC. EXECUÇÃO FISCAL. INCLUSÃO DOS REPRESENTANTES DA PESSOA JURÍDICA, CUJOS NOMES CONSTAM DA CDA, NO PÓLO PASSIVO DA EXECUÇÃO FISCAL. POSSIBILIDADE. [...] 1. A orientação da Primeira Seção desta Corte firmou-se no sentido de que, se a execução foi ajuizada apenas contra a pessoa jurídica, mas o nome do sócio consta da CDA, a ele incumbe o ônus da prova de que não ficou caracterizada nenhuma das circunstâncias previstas no art. 135 do CTN, ou seja, não houve a prática de atos "com excesso de poderes ou infração de lei, contrato social ou estatutos". [...] 4. Recurso especial desprovido. Acórdão sujeito à sistemática prevista no art. 543-C do CPC, c/c a Resolução 8/2008 - Presidência/STJ”. (STJ - REsp 1104900/ES, Rel. Ministra DENISE ARRUDA, PRIMEIRA SEÇÃO, julgado em 25/03/2009, DJe 01/04/2009)
+Destarte, em consonância com os citados precedentes, a indicação na certidão de dívida ativa, do nome do corresponsável, confere ao indicado a condição de legitimado passivo para a relação processual executiva, salvo se ficar provado que não agiu com excesso de poder, infração a lei ou estatuto, que não é o caso dos autos.
+Feitas estas considerações, face a ausência da plausibilidade do direito invocado, bem como do perigo da demora, a decisão agravada deve permanecer incólume.
+Ante o exposto, indefiro o pedido de concessão do efeito suspensivo.
+Comunique-se o juízo de primeiro grau.
+Intime-se o agravado, para, querendo, apresentar contrarrazões.
+Cumpra-se.
+Des. MARIO ROBERTO KONO DE OLIVEIRA
+Relator.
