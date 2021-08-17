@@ -1,0 +1,37 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+SERVIDOR PÚBLICO. AGRAVO INTERNO NORECURSO ESPECIAL. AÇÃO DE COBRANÇA. POLICIAIS MILITARES. DECISÃO DEFINITIVA EM MANDADO DE SEGURANÇA COLETIVO QUE RECONHECEU O DIREITO AO RECEBIMENTO DO ALE (ADICIONAL LOCAL DE EXERCÍCIO) AOS INATIVOS. POSSIBILIDADE DE PLEITEAR PELA VIA ORDINÁRIA AS DIFERENÇAS SALARIAIS ANTERIORES À IMPETRAÇÃO. PRESCRIÇÃO AFASTADA. PRECEDENTES DO STJ.
+1.É firme a jurisprudência do Superior Tribunal de Justiça, segundo a qual "o mandado de segurança coletivo interrompe a fluência do prazo prescricional, sendo certo que, somente após o trânsito em julgado da decisão nele proferida, voltará a fluir a prescrição da ação ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ." (AgInt nos EDcl no AREsp 1572667/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 5/10/2020, DJe 16/10/2020).
+2.Precedentes de ambas as Turmas que compõem a Primeira Seção do STJ.
+3.Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto pela Fazenda doEstado de São Paulo e Outro contra decisão que negou provimento aorecurso especial, sob os seguintes fundamentos: (I) o acórdão recorrido foi proferido em consonância com a jurisprudência do STJ quanto à desnecessidadede ser comprovada a filiação dos autores/agravados à entidade de classe; e (II) firme entendimento nesta Cortede que o ajuizamento de ação coletiva interrompe a prescrição para fins de manejo de ação individual.
+Em suas razões, a parte agravante limita sua insurgência à tese de interrupção da prescrição em relação às verbas pretéritas ao ajuizamento da ação individual, desistindo expressamente de impugnar os demais capítulos da decisão ora alvejada.
+Sustenta que, "o que oESTADO DE SÃO DE PAULO defende é aplicação da prescrição parcelar da ação ordinária, com fulcro nos artigos 1º e 3º do Decreto 20.910/32 e na Súmula 85/STJ, de modo que todas as prestações vencidas antes do quinquênio anterior à propositura da ação de cobrança foram atingidas pelo advento da prescrição.De fato, conquanto interrompido o prazo prescricional para o ajuizamento da ação individual de cobrança com a impetração do writ, tal marco interruptivo não ostenta o efeito retroativo necessário para garantir o pagamentode todas as parcelas devidas entre o quinquênio anterior à impetração o writ até a propositura da ação de cobrança." (fls. 454/455).
+Enfatiza que "No caso específico dos autos, o mandado de segurança fora impetrado no dia 28/08/2008 e a ação de cobrança ajuizada apenas em 27/07/2015, de modo que se afigura inequívoca a ocorrência da prescrição de parcela dos débitos cobrados, referentes ao período quinquenal imediatamente anterior à impetração do writ coletivo." (fl. 457).
+Sustenta, subsidiariamente, que "uma vez interrompida a prescrição pela impetração do writ coletivo, premissa jurídica incontroversa - tem-se que o lapso prescricional é reduzido pela metade" (fl. 457).
+Assevera, por fim, a necessidade de afetação do tema, pois "O tema tratado na causa, relativo à prescrição parcelar e quinquenal e retroativa que antecede a ação de cobrança, é objeto de milhares de processos judiciais no âmbito do Estado de São Paulo, com díspares pronunciamentos judiciais acerca da controvérsia." (fl. 459).
+A parte recorrida apresentou impugnação, às fls. 466/473.
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. AGRAVO INTERNO NORECURSO ESPECIAL. AÇÃO DE COBRANÇA. POLICIAIS MILITARES. DECISÃO DEFINITIVA EM MANDADO DE SEGURANÇA COLETIVO QUE RECONHECEU O DIREITO AO RECEBIMENTO DO ALE (ADICIONAL LOCAL DE EXERCÍCIO) AOS INATIVOS. POSSIBILIDADE DE PLEITEAR PELA VIA ORDINÁRIA AS DIFERENÇAS SALARIAIS ANTERIORES À IMPETRAÇÃO. PRESCRIÇÃO AFASTADA. PRECEDENTES DO STJ.
+1.É firme a jurisprudência do Superior Tribunal de Justiça, segundo a qual "o mandado de segurança coletivo interrompe a fluência do prazo prescricional, sendo certo que, somente após o trânsito em julgado da decisão nele proferida, voltará a fluir a prescrição da ação ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ." (AgInt nos EDcl no AREsp 1572667/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 5/10/2020, DJe 16/10/2020).
+2.Precedentes de ambas as Turmas que compõem a Primeira Seção do STJ.
+3.Agravo interno não provido.
+VOTO
+Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Como antes asseverado, o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual "o mandado de segurança coletivo interrompe a fluência do prazo prescricional, sendo certo que, somente após o trânsito em julgado da decisão nele proferida, voltará a fluir a prescrição da ação ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ." (AgInt nos EDcl no AREsp 1572667/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 5/10/2020, DJe 16/10/2020)
+Emreforço, confiram-se:
+ENUNCIADO ADMINISTRATIVO Nº 3/STJ. PROCESSUAL CIVIL.MANDADO DE SEGURANÇA COLETIVO. INTERRUPÇÃO DA PRESCRIÇÃO.
+1. "O acórdão segue a orientação jurisprudencial do Superior Tribunal de Justiça, já declarada em hipóteses semelhantes à dos autos, no sentido de que a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional, de modo que tão somente após o trânsito em julgado da decisão nele proferida é que voltará a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ. A propósito: AgInt no REsp 1.473.917/RJ, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22.2.2019. (REsp 1814309/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/08/2019, DJe 05/09/2019)".
+2. Agravo interno não provido.
+(AgInt no REsp 1884574/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. POLICIAIS MILITARES APOSENTADOS. DECISÃO DEFINITIVA EM MANDADO DE SEGURANÇA COLETIVO QUE RECONHECEU O DIREITO AO RECEBIMENTO DO ALE (ADICIONAL LOCAL DE EXERCÍCIO) AOS INATIVOS. POSSIBILIDADE DE PLEITEAR PELA VIA ORDINÁRIA AS DIFERENÇAS SALARIAIS ANTERIORES À IMPETRAÇÃO. PRESCRIÇÃO AFASTADA.PRECEDENTES DO STJ.
+1. É firme neste Superior Tribunal o entendimento de que a impetração demandado de segurança interrompe o prazo prescricional em relação à ação de cobrança, de modo que somente a partir do trânsito em julgado do "mandamus" se inicia a contagem do prazo em relação à ação ordinária para a cobrança dos créditos recolhidos indevidamente (REsp 1222417/SP, Rel.Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 1/3/2011, DJe 15/3/2011).
+2. Agravo interno não provido.
+(AgInt no REsp 1867590/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
