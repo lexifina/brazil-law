@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido de liminar interposto por LEONARDO BRUNO PEREIRA DA SILVAcontra acórdão doTribunal de Justiça do Estado de São Paulo (HC n.2034393-82.2021.8.26.0000).
+O recorrente foi condenado às penas de 6 anos e 3 meses de reclusão em regime fechado e de 625 dias-multa, pela prática do crime descrito no art. 33, caput, da Lei n. 11.343/2006. Foi-lhe indeferido o direito de recorrer em liberdade.
+Impetrado writ originário, a ordem foi denegada.
+Nas razões do presente recurso, alega o recorrente sofrer constrangimento ilegal, tendo em vista a ausência de fundamentação no tocante ao regime de pena aplicado, violando-se as Súmulas n. 440 do STJ e 718 e 719 do STF, bem como o não preenchimento dos requisitos para manutenção da custódia cautelar.
+Ressalta primariedade e bons antecedentes como condições pessoais favoráveis. Afirma que a prisão preventiva não pode ser decretada apenas com base na gravidade abstrata do delito.
+Requer, liminarmente e no mérito, a aplicação do regime semiaberto e a expedição de alvará de soltura ou a substituição da prisão preventiva por medidas cautelares alternativas.
+A liminar foi indeferida, nos termos da decisão de fls. 585-586.
+As informações foram prestadas às fls. 590-592 e 593-594.
+O Ministério Público Federal apresentou parecer pelo conhecimento parcial do recurso emhabeas corpuse, na parte conhecida, pelo seu desprovimento(fls. 596-601).
+É o relatório. Decido.
+Aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Confira-se excerto da sentença, que, ao condenar o paciente à pena de6 anos e 3 meses de reclusãoem regime fechadoe ao pagamento de 625 dias-multaanos de reclusão em regime inicial fechado, considerou presentes os requisitos para manutenção de segregação cautelar (fl.375):
+Nessa toada, não concedo ao réu o direito de recorrer em liberdade.
+Aliás, "seria incongruente que o réu preso provisoriamente em virtude de medida cautelar, viesse, ao depois de condenado, ser libertado, ex vi da Lei 5941/73. Poder-se-ia, então, dizer que ficou preso pelo menos e foi posto em liberdade pelo mais." (RT 504/339).
+Diante do exposto e por tudo mais que dos autos consta, JULGO PROCEDENTE a ação e condeno LEONARDO BRUNO PEREIRA DA SILVA, RG 28.003.899, filho de Solange Pereira da Silva, como incurso na sanção do art. 33, "caput", da Lei nº 11.343/2006, impondo-lhes a pena 06 (seis) anos e 03 (três) meses de reclusão, em regime fechado, e ao pagamento de 625 (seiscentos e vinte e cinco) dias-multa, piso mínimo.
+A propósito, assim se manifestou o Tribunala quo(fls.544-545, destaquei):
+Segundo informações prestadas pela douta autoridade tida como coatora, o paciente foi condenado pela prática de crime previsto no artigo 33, caput da Lei 11.343/2006, à pena definitiva e total de seis (6) anos e três (3) meses de reclusão, a ser inicialmente cumprida em regime prisional fechado, negado o apelo em liberdade.
+Inviável o apelo em liberdade, obviamente sem prejuízo da presunção de inocência que assiste o paciente nesta altura da investigação dos fatos.
+Com efeito, o paciente respondeu preso preventivamente ao processo e sua situação, cabe dizer, de fato não foi alterada para melhor com a sentença condenatória. Se, no curso da instrução criminal, não foi deferido ao acusado o direito de responder ao processo em liberdade, não há qualquer ilegalidade na decisão que, acolhendo a imputação e impondo pena privativa de liberdade nãosuspensa, a ser inicialmente cumprida em regime fechado, lhe nega o apelo em liberdade.
+Os mesmos motivos que ensejaram o indeferimento da revogação da prisão cautelar, mormente a gravidade com que se realizou o delito e a necessidade de garantia da ordem pública, continuam a justificar, em princípio, a não soltura do acusado.
+Mantidas as circunstâncias que justificaram a decretação da prisão preventivado recorrente, que ficou preso durante toda a instrução processual, não há ilegalidade na sentença condenatória por não lhe conceder o direito de recorrer em liberdade (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; AgRg no HC n. 568.997/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta turma, DJe de 27/5/2020).
+Por fim, no que diz respeito à modificação do regime inicial de cumprimento de pena, a questão não foi enfrentada pela instância de origem, haja vista o entendimento de que a sua modificação é inviável em sede de habeas corpus, deixando para ser apreciada quando do julgamento da apelação já interposta pelo ora recorrente. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, neste ponto, o recurso não merece conhecimento.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, conheço em parte do recurso ordinário em habeas corpus e, na parte conhecida, nego-lhe provimento.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
