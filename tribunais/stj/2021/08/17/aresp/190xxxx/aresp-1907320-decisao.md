@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo apresentado por MANOELA ROSA MOREIRA MALTA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS - SENTENÇA DE IMPROCEDÊNCIA - LITIGÂNCIA DE MÁ-FÉ - APELAÇÃO DA AUTORA
+- Alegação de inclusão indevida do nome da autora no cadastro de inadimplentes - Inocorrência - Provas dos autos que demonstram de forma inequívoca a existência de relação jurídica entre as partes, bem como da dívida que deu origem à negativação - Sentença mantida.
+- Insurgência da autora quanto à condenação no pagamento de multa correspondente a 1% sobre o valor da causa corrigido e de indenização, em favor do réu, arbitrada em 20% do valor da causa atualizado, uma vez caracterizada a litigância de má-fé - Presença dos requisitos para a caracterização da litigância de má- fé - Inteligência do artigo 81 do CPC - Sentença mantida.
+Recurso não provido.
+Quanto à controvérsia apresentada, pela alínea "a" do permissivo constitucional, alega violação do art. 80, II a V, do CPC, no que concerne ao equívoco do acórdão recorrido, que condenou a recorrente ao pagamento de multa por litigância de má-fé, trazendo os seguintes argumentos:
+Note-se, portanto, Nobres Julgadores, que não há que se falar em litigância de má-fé, tendo em vista que o recorrente se valeu do seu direito de ação constitucionalmente assegurado, sem violar qualquer dever processual.
+Da análise dos autos, observa-se que a parte recorrente apenas utilizou de procedimento previsto em lei para defesa de seus interesses, o que é assegurado pelo nosso ordenamento jurídico, não havendo que se falar em condenação por litigância de má-fé, uma vez que durante o trâmite processual não houve qualquer conduta que enquadrasse naqueles elencadas no CPC.
+Ademais, as infrações previstas no Código de Processo Civil não devem ser analisadas com rigor objetivo, pois, do contrário, todo aquele que tivesse perdido a demanda seria litigante de má-fé." (Revista dos Tribunais, 609/122).
+ ..
+A má-fé deve ser demonstrada de forma clara, comprovado que a parte esteja agindo imbuída de dolo processual, e o fato da autora ter ajuizado a ação pleiteando indenização por danos morais, por si só, não configura má-fé.
+ ..
+Conforme se observa dos precedentes jurisprudenciais acima reproduzidos, Nobres Julgadores, há que ser demonstrado que a parte tenha agido com dolo específico para que seja aplicada a litigância de má-fé.
+A ora recorrente apenas exerceu o direito de ação que supostamente imaginava presente e não se demonstrou nos autos que o tenha exercido de forma abusiva. A recorrente não está impedida de defender direito próprio, tenha ela razão ou não. (fls. 213-216).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia exposta, o Tribunal de origem se manifestou nos seguintes termos:
+Restou evidente, assim, que a parte requerente, ao contrário do que afirma na inicial, tinha conhecimento da origem da dívida e de seu valor.
+O ajuizamento de ação mediante alegação de desconhecimento da origem de dívida que é claramente de conhecimento da parte requerente, que celebrou o contrato e recebeu regularmente as faturas, viola o Princípio da Lealdade Processual, configurando-se conduta temerária e atentatória à dignidade do Poder Judiciário, justificando, por si só, a imposição de multa por litigância de má-fé.
+ ..
+Agindo dessa forma, a parte requerente alterou a verdade dos fatos (alegando inexistir dívida que na verdade era de seu conhecimento, de forma evidente), além de proceder de forma temerária (art. 17, incisos II e V, do Código de Processo Civil), merecendo as penalidades próprias da litigância de má-fé."
+Deste modo, correta a condenação por litigância de má-fé, pois a autora alterou a verdade dos fatos (artigo 80, inciso II, do CPC), haja vista que ajuizou a presente ação alegando a irregularidade do apontamento, mas na contestação restou comprovado que a autora se utilizou do cartão de crédito administrado pelo banco e não efetuou o pagamento das faturas. (fl. 202-204).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à existência ou não de má-fé na conduta do litigante exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Nesse sentido, o STJ já decidiu que "a revisão da conclusão do acórdão recorrido, no que se refere à caracterização de litigância de má-fé do recorrido, demandaria o revolvimento do suporte fático-probatório dos autos, inviável em sede de recurso especial, ante o óbice do Enunciado n. 7/STJ" (AgInt no REsp 1.743.609/MG, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 21/8/2020).
+Confiram-se ainda os seguintes precedentes: AgInt no REsp 1.644.759/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 30/6/2020; AgInt no AREsp 1.326.352/SP, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 25/6/2020; e AgInt no AREsp 1.443.702/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 18/11/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
