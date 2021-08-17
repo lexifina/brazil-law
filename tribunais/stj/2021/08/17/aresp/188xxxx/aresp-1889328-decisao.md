@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO FEDERAL, contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. BENEFÍCIO DE AMPARO ASSISTENCIAL AODEFICIENTE. HIPOSSUFICIÊNCIA ECONÔMICA NÃO CARACTERIZADA.
+1. O benefício de prestação continuada, regulamentado Lei 8.742/93 (LeiOrgânica da Assistência Social - LOAS), é a garantia de um salário-mínimomensal à pessoa com deficiência e ao idoso com 65 (sessenta e cinco) anosou mais que comprovem não possuir meios de prover a própria manutençãonem de tê-la provida por sua família.
+2. Em respeito ao princípio da isonomia, deve-se também estender ainterpretação do Parágrafo único, do Art. 34, do Estatuto do Idoso, para excluirdo cálculo da renda familiar também os benefícios de valor mínimoper capitarecebidos por deficiente ou outro idoso.
+3. O critério da renda do núcleo familiar não é o único a serper capitaconsiderado para se comprovar a condição de necessitado da pessoa idosaou deficiente que pleiteia o benefício.
+4. Analisando o conjunto probatório, é de se reconhecer que não estáconfigurada a situação de vulnerabilidade ou risco social a ensejar aconcessão do benefício assistencial. Precedentes desta Corte.
+5. Apelação desprovida.
+No recurso especial, o recorrente apontou como violado os arts. 34, parágrafo único, do Estatuto do Idoso e 20, §3º, da Lei n. 8.742/1993, sustentando, em síntese, que é devida a concessão do benefício assistencial à pessoa deficiente ante a comprovação da hipossuficiência econômica familiar.
+Após decisum que inadmitiu o recurso especial, com base na Súmula n. 7 do STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que o agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+É irrefutável que o Tribunal de origem, ao apreciar o conteúdo fático e probatório dos autos, consignou expressamente que "no caso dos autos, mesmo que seja excluído o valor de um salário mínimo renda familiar, proveniente do benefício assistencial concedido à genitora, o conjunto probatório denota que não há miserabilidade.", concluindo, em seguida, que "analisando o conjunto probatório, é de se reconhecer que não está caracterizada a situação de vulnerabilidade e risco social a ensejar a concessão do benefício assistencial, ainda que se considere que a família do autor viva em condições econômicas modestas.".
+Dessa forma, para rever tal posição, relativa à suposta comprovação do preenchimento do requisito para a concessão do benefício assistencial ora pleiteado, e interpretar os dispositivos legais indicados como violados, seria necessário o reexame desses mesmos elementos fático-probatórios, o que é vedado no âmbito estreito do recurso especial. Incide na hipótese a Súmula n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
