@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. AUSÊNCIA DE INSTRUMENTO DE PROCURAÇÃO. ART. 76, CAPUT E § 2º, E ART. 932, PARÁGRAFO ÚNICO, DO CPC. CONCESSÃO DE PRAZO DE 5 DIAS PARA JUNTADA DO MANDATO. IRREGULARIDADE NÃO SANADA. ENUNCIADO SUMULAR N. 115/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Constatada a ausência de procuração, determinou-se a intimação da Defesa para que, no prazo de 5 (cinco) dias, acostasse aos autos o respectivo instrumento, sob pena de não conhecimento da irresignação.
+II - Os subscritores, contudo, deixaram de cumprir a exigência, pressuposto extrínseco de admissibilidade do recurso, cuja ausência implica o seu não conhecimento, nos termos do art. 76, § 2º, I, do Código de Processo Civil.
+III - Sem descuidar do entendimento fixado pelo col. Supremo Tribunal Federal no julgamento do HC n. 162.616/STF e das disposições do art. 76, caput, e do art. 932, parágrafo único, ambos do CPC, aplica-se à espécie o Enunciado Sumular n. 115 desta Corte Superior: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Agravo regimental não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de agravo regimental interposto por JANETE MARTINS contra decisão monocrática proferida pelo em. Min. Felix Fischer às fls. 233-235, na qual não foi o conhecido o agravo regimental interposto contra a decisão que não conheceu do presente habeas corpus.
+Nas razões deste agravo, a Defesa sustenta, em síntese, que,"afora a sólida jurisprudência do eg. STF no sentido de se prescindir de procuração para a interposição do recurso ordinário em habeas corpus, perfeitamente aplicável à presente hipótese, e especificamente no sentido de se prescindir de tal instrumento para a interposição do agravo regimental em habeas corpus, ao menos 04 (quatro) razões mostram o desacerto do entendimento esposado na r. decisão ora agravada, são elas:1. Não se está no âmbito da chamada "instância especial" referida na Súmula 115, que atina com o recurso especial e não com o HC, originariamente impetrado nesta Corte Superior;2. Os impetrantes são parte, não mandatários do paciente, e, portanto, recorrem em nome próprio;3. Não há lógica em se permitir o manejo do habeas sem procuração e, simultaneamente, exigir-se procuração para o recurso, no caso, o agravo regimental, interposto contra a decisão que não conhece da ação originária; e, 4. O Tribunal não pode criar condição extralegal para a impetração do habeas corpus, cuja petição, nos termos do art. 654, do CPP, "poderá ser impetrado por qualquer pessoa, em seu favor ou de outrem"" (fl. 237).
+Requer, ao final, seja exercido o juízo de retratação ou submetido o agravo ao Colegiado para, conhecendo-se dowrit, que se"declare a nulidade das r. decisões, singular e colegiada, anteriores e ora impugnadas, a fim de que outra seja proferida, após a oitiva prévia, no Juízo da Execução, da paciente/agravante" (fl. 242).
+Por manter a decisão agravada por seus próprios e jurídicos fundamentos, submeto o agravo regimental à apreciação da Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL DA DECISÃO QUE NÃO CONHECEU DO HABEAS CORPUS. AUSÊNCIA DE INSTRUMENTO DE PROCURAÇÃO. ART. 76, CAPUT E § 2º, E ART. 932, PARÁGRAFO ÚNICO, DO CPC. CONCESSÃO DE PRAZO DE 5 DIAS PARA JUNTADA DO MANDATO. IRREGULARIDADE NÃO SANADA. ENUNCIADO SUMULAR N. 115/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+I - Constatada a ausência de procuração, determinou-se a intimação da Defesa para que, no prazo de 5 (cinco) dias, acostasse aos autos o respectivo instrumento, sob pena de não conhecimento da irresignação.
+II - Os subscritores, contudo, deixaram de cumprir a exigência, pressuposto extrínseco de admissibilidade do recurso, cuja ausência implica o seu não conhecimento, nos termos do art. 76, § 2º, I, do Código de Processo Civil.
+III - Sem descuidar do entendimento fixado pelo col. Supremo Tribunal Federal no julgamento do HC n. 162.616/STF e das disposições do art. 76, caput, e do art. 932, parágrafo único, ambos do CPC, aplica-se à espécie o Enunciado Sumular n. 115 desta Corte Superior: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Agravo regimental não conhecido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): O presente agravo regimental não merece conhecimento.
+Compulsando os autos, verifica-se que osubscritor deste recursodeixoude juntar o instrumento de mandato que lhefoi outorgado, mesmo após a intimação para a respectiva regularização (fls. 208 e 218-219), sob pena de não conhecimento da irresignação.
+Observa-se que ocausídico, muito embora tenhapeticionado às fls. 210-216, em resposta à intimação, deixoude juntar o instrumento de procuração, pressuposto extrínseco de admissibilidade do recurso, cuja ausência implica o seu não conhecimento, nos termos do art. 76, § 2º, I, do Código de Processo Civil, o que ocasionou, em decorrência, o não conhecimento por esta relatoria do primeiro agravo regimental interposto (fls. 233-235).
+Desse modo, diante da insistência em não juntar o referido e necessário instrumento de procuração, sem descuidar do entendimento fixado pelo col. Supremo Tribunal Federal no julgamento do HC n. 162.616/STF, e das disposições do art. 76, caput, e do art. 932, parágrafo único, ambos do CPC, aplica-se à espécie o Enunciado Sumular n. 115 desta Corte Superior, ainda em pleno vigor: "Na instância especial é inexistente recurso interposto por advogado sem procuração nos autos".
+Colaciono nessa esteira os seguintes julgados:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. RECURSO PROTOCOLIZADO A DESTEMPO. INTEMPESTIVIDADE. AUSÊNCIA DE PROCURAÇÃO NOS AUTOS. SÚMULA N. 115/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Interposto o agravo regimental após o prazo de 5 dias previsto nos arts. 1021 do Código de Processo Civil - CPC e 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ, há que se reconhecer a sua intempestividade.
+2. As razões do recurso devem subscritas por defensor público ou advogado com procuração nos autos, ainda que decorrentes de decisão proferida em sede de habeas corpus.
+Agravo regimental não conhecido" (AgRg no HC n. 320.953/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 10/2/2017, grifei).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL PENAL. AÇÃO PENAL PRIVADA. RECURSO ASSINADO POR ADVOGADA SEM CADEIA COMPLETA DE PROCURAÇÃO/SUBSTABELECIMENTO. DESPACHO PARA REGULARIZAÇÃO NÃO CUMPRIDO. ÔNUS DO AGRAVANTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. É firme o entendimento do Superior Tribunal de Justiça de que a ausência da cadeia completa de procurações impossibilita o conhecimento do recurso, consoante se depreende do contido na Súmula n.º 115/STJ.
+2. Percebida, nesta Corte, a irregularidade na representação processual - razão pela qual houve a intimação do Agravante nos termos do art. 76 c.c. o art. 932, parágrafo único, do Código de Processo Civil -, o vício não foi saneado. Ônus que compete à parte Agravante, que dele não se desobrigou no momento processual próprio.
+3. Agravo regimental desprovido" (AgRg no AREsp n. 1.319.430/SP, Sexta Turma, Relª. Min.ª Laurita Vaz, DJe de 26/2/2019, grifei).
+Ante o exposto, não conheço do presente agravo regimental.
+É o voto.
