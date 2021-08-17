@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 114):
+ACIDENTÁRIA - APELAÇÃO INTERPOSTA PELOINSS - AUSÊNCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - IMPOSIÇÃO DA LEI ESTADUAL 11.608/03 - DESERÇÃO.
+"A ausência de comprovação do recolhimento do porte de remessa e retorno previsto pela Lei 11.608103 obsta o processamento de apelação interposta pelo INSS nas lides acidentárias".
+ACIDENTÁRIA - LESÕES POR ESFORÇOS REPETITIVOS NOS MEMBROS SUPERIORES -LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL RECONHECIDOS - INDENIZABILIDADE.
+"Reconhecido tecnicamente que as lesões por esforços repetitivos que acometem os membros superiores do obreiro guardam liame com a atividade profissional desempenhada e efetivamente restringem a sua capacidade de trabalho, de rigor a concessão do auxílio-acidente com início a partir da data da juntada do laudo médico-pericial aos autos. Os valores em atraso serão apurados na forma da Lei 8.213191 com atualização pelO IGP-DI e acrescidos de juros de mora (estes à base mensal conforme Lei 11.960109), adequando-se, no que couber, a modulação que advier do Supremo Tribunal Federal por força do julgamento da ADI 4.357. A renda mensal a ser implantada será reajustada pelos índices de manutenção".
+Apelação do INSS julgada deserta; recurso do autor desprovido; sentença de procedência mantida em sede do reexame necessário com observação.
+Opostos embargos de declaração, foram rejeitados (fls. 293/298).
+Aponta o recorrente violação aos arts. 535 do CPC/73; 31 da Lei 10.741/03 e 41-A da Lei 11.430/06;art. 5ºda Lei nº 11.960/2009 e art. 1º-F da Lei nº 9494/1997, sustentando que"não há fundamento legal para o v. acórdão recorrido determinar que, a partir de 30.06.2009, a correção das parcelas em atraso na presente ação será apurada pela aplicação do IGNDI, até a data da elaboração da conta, e, após pelo IPCA-E, tendo em vista que deve incidir o disposto na Lei ns 11.960/2009 para a atualização da condenação, sendo inconstitucional o índice ali colocado apenas para a atualização do precatório e, ainda, assim, a partir de 25/03/2015" (fl. 330).
+Devidamente intimada, a parte recorrida apresentou contrarrazões ao recurso especial, àsfls. 337/341.
+Em novo julgamento para eventual juízo de retratação, o acórdão foi mantido nos seguintes termos (fl. 194):
+AÇÃO ACIDENTÁRIA - BENEFÍCIO DEFERIDO - CORREÇÃO DOS VALORES EM ATRASO - INDEXADOR A SE APLICAR - ADEQUAÇÃO À ORIENTAÇÃO DEFINITIVA QUE
+ADVIER DO SUPREMO TRIBUNAL FEDERAL EM SEDE DO TEMA 810. Acórdão mantido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+Quanto ao mais, conforme se verifica dos autos, o Tribunal a quo, em juízo de retratação previsto no art. 1.030, II, do CPC/15, proferiu novo julgamento e alterou parcialmenteo entendimento anteriormente exarado, nos seguintes termos ( fls. 196/197):
+I) Quanto ao emprego do INPC.
+Considerada a posição externada pelo Superior Tribunal de Justiça em sede do Tema 905 e levando-se em conta o lapso temporal de incidência almejado pelo INSS (emprego do INPC até o advento da Lei 11.960/09), tem-se por inconsistente a pretensão deduzida porque, como se vê da análise dos julgados já prolatados no feito, o benefício acidentário concedido o foi a partir de 17.04.2013, ou seja, o termo inicial definido é posterior à edição da aludida Lei 11.960/09.
+II) Quanto à Taxa Referencial (TR) prevista pela Lei 11.960/09.
+Sabe-se que o Supremo Tribunal Federal, ao julgar o Recurso Extraordinário n" 870.947/SE, Tema 810 - tratado como de repercussão geral, em 20.09.2017, ratificou a inadmissibilidade da Taxa Referencial (TR), prevista pela Lei 11.960/09, como indexador e definiu o emprego do IPCA-E -Tio seu lugar.
+Não obstante, tal Acórdão da Corte Suprema ainda não transitou em julgado, porquanto há pendência de embargos dedeclaração recebidos excepcionalmente com efeito suspensivo, de sorte que o IPCA-E, definido como indexador, ainda carece de confirmação.
+No caso dos autos, conquanto o Acórdão de minha lavra lançado nas fls. 225/234 tenha definido o IGP-DI como fator de correção também deixou expressamente assentado que, à época da apuração dos valores em atraso, o cálculo de liquidação deverá se adequar, evidentemente no que tange ao critério de correção, à modulação que advier do Supremo Tribunal Federal em torno do assunto (ver fls. 234).
+Se assim foi, é de se reconhecer que o critério de correção aqui a se aplicar está condicionado à solução definitiva do Tema 810 já previsto nos autos, não se cogitando de retratação.
+Assim, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Ainda que assim não fosse, como houve alteração do fundamento adotado pela Corte de origem, a retificação do apelo nobre anteriormente interposto seria medida de rigor, sob pena de aplicação, por analogia e mutatis mutandis, daSúmula283/STF579/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 543-C, § 7º, INC. II, DO CPC/1973. ACÓRDÃO MANTIDO, MAS COM FUNDAMENTO NOVO. NECESSIDADE DE RATIFICAÇÃO DO RECURSO ESPECIAL. SÚMULA 579/STJ.
+1. Submetido o recurso especial a juízo de retratação e reapreciado o caso, conforme o art. 543-C, § 7º, inc. II, do CPC/1973, o acórdão hostilizado foi mantido, acrescentando-se, todavia, fundamento novo.
+2. Hipótese em que necessária a ratificação do recurso especial, providência não observada. Incidência, por analogia, da Súmula 579/STJ.
+3. Agravo não provido.
+(AgInt no AREsp 828.379/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/08/2017, DJe 25/08/2017)
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO PROFERIDO NOS TERMOS DO ART. 543-C, § 7º, II, DO CPC. FALTA DE RATIFICAÇÃO. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA
+1. "É inadmissível o recurso especial interposto antes da publicação do acórdão dos embargos de declaração, sem posterior ratificação" - Súmula 418/STJ.
+2. Hipótese em que o Recurso Especial foi submetido a juízo de retratação em razão de a matéria versada nele Recurso Especial ter sido submetida a julgamento no rito dos recursos repetitivos. Posteriormente, o órgão colegiado reapreciou o tema com base no art. 543-C, § 7º, II, do CPC; manteve-se o acórdão hostilizado, mas o Recurso Especial não foi reiterado ou ratificado pela parte interessada. Agravo regimental improvido.
+(AgRg no REsp 1.479.578/AL, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 15/12/2015, DJe 02/02/2016)
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
