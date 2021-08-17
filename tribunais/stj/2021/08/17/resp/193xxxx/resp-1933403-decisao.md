@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto por LOURDES CRISTINA DELMONTE PRINTES SANTOS fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça de São Pauloassim ementado:
+"RESPONSABILIDADE CIVIL - Ação de reparação de danos materiais e morais promovida por paciente em face de sua odontóloga e empresa que fornece produtos que deveriam ser utilizados no tratamento contratado - Decisão de Primeiro Grau que acolheu parcialmente os pleitos apenas para impor as rés, solidariamente, o pagamento de indenização por dano moral, fixada em R$ 3.000,00 - Apelo da empresa ré reiterando sua ilegitimidade passiva e, por consequente, inexistência do dever de indenizar - Reclamo da autora insistindo no direito de haver indenização por danos materiais de ambas as demandadas, mais elevação daquela de natureza moral - Acolhimento da preliminar suscitada pela corré - Inexistência de vício no produto e correlação entre sua conduta e o prejuízo suportado pela paciente - Ilícito imputável exclusivamente à profissional que recebeu adiantado o valor pelos serviços combinados e deixou, sem motivo justificado, de presta-los - Obrigação exclusiva desta de restituir os valores recebidos, sob pena de enriquecimento ilícito - Dano moral - Elevação descabida, ante a própria dúvida de sua incidência, em face da natureza contratual da ofensa - Manutenção do édito de Primeira Instância ante a ausência de recurso da interessada - Consequente reconhecimento da extinção da lide, sem julgamento de mérito, no tocante à empresa ré e procedência exclusiva em face da odontóloga - Apelo da corré ALIGN acolhido, provido em parte o da autora" (fls. 342/343, e-STJ).
+No recurso especial, foi alegada a violação dos artigos 7º, 14,20, 25, § 1º, e 34 do Código de Defesa do Consumidor.
+Sustenta, em síntese, a responsabilidade solidária da empresa recorrida pelos danos causados pela dentista que por ela indicada.
+Contrarrazões às fls. 371/380 (e-STJ).
+É o relatório.
+DECIDO.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No caso, o Tribunal de origem entendeu pela ilegitimidade passiva da empresa recorrida, com base nos seguintes fundamentos:
+"(..)
+Em primeiro lugar, desde logo se observa que a autora equivocou-se ao atribuir à empresa demandada responsabilidade pela reparação dos danos suportados, com base no disposto artigo 14, caput, do Código de Defesa do Consumidor, que trata daquela do fornecedor de serviços, pois esta, em realidade, não os presta, mas apenas fornece os "alinhadores"que usados seqüencialmente, produzem o efeito de corrigir problemas estéticos alinhamento do cientes.
+(..)
+Como se trata de produto relativamente novo, cuidou a empresa ré, como informado em sua defesa, de proporcionar cursos para os profissionais interessados em utilizá-los, de forma que estes pudessem aplicar a nova técnica de forma correta, advindo daí o chamado credenciamento, que consiste reconhecimento de que determinado ortodontista fez os cursos necessários paracompreender e bem utiliza-la.
+Sendo assim, a responsabilização da demandada ora recorrente, na verdade, deveria se fulcrar na norma contida artigo 12, caput, da lei consumerista, que estabelece a responsabilidade, dentre outros, do fabricante pelos danos causados "por defeitos decorrentes de projeto, fabricação, construção, fórmulas, manipulação, apresentação ou acondicionamento de seus produtos", circunstâncias certamente inexistentes nos casos dos autos, posto que os produtos sequer foram entregues à profissional que os encomendou, por falta do correspondente pagamento.
+(..)
+A conclusão lógica é que os danos suportados pela autora foram causados unicamente pela profissional contratada, que não respeitando seu grau e seu juramento profissional, recebeu dinheiro de sua cliente paracomprar os produtos que são vendidos pela empresa ré e, também por certo, para cobrir seus honorários, sem, contudo o repassar para a fornecedora deles e depois realizar os serviços contratados.
+(..)
+Certamente somente se justificaria a solidariedade perseguida se o produto fornecido se mostrasse inadequado, ou mesmo inadequada a conduta técnica do profissional, pois aí sim a empresa que oferece a técnica e habilita profissionais para aplica-la, poderia ser corresponsável com base no princípio da culpa in elegendo .
+Este, contudo, não é o caso dos autos, onde a autora foi vítima, repita-se, de suposto crime praticado pela profissional que a procurou, que recebeu valor e não comprou os produtos, nem prestou os serviços subsequentes.
+Por essas razões é que, se reconhece a ilegitimidade passiva adcausam da empresa corré, com, repita- se, a conseqüente extinção do feito, sem análise do mérito, nos termos do artigo 485, VI, do Código de Processo Civil.
+(..)" (fls. 348/351, e-STJ).
+Com efeito, rever o entendimento firmado pela Corte local, quedecidiu pela ilegitimidade passiva da recorrida por entender que esta não integrou a cadeia de prestação de serviços, demandaria a análise de fatos e de provas dos autos, o que é inviável no recurso especial pelo óbice da Súmula nº 7/STJ.
+No mesmo sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. ROUBO DE MERCADORIA. INAPLICABILIDADE DO CDC AO CASO CONCRETO. TRIBUNAL DE ORIGEM QUE CONSIDEROU QUE O SERVIÇO CONTRATADO FAZ PARTE DA CADEIA PRODUTIVA. NECESSIDADE DE REVOLVIMENTO DO ARCABOUÇO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA Nº 7 DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O pleito de incidência do CDC ao caso concreto porque além de ser a destinatária final do serviço de armazenagem contratado, este não integra sua cadeia produtiva, demanda inevitável revolvimento do arcabouço fático-probatório, o que é vedado em recurso especial nos termos da Súmula nº 7 desta Corte.
+3. (..)
+4. Agravo interno não provido, com imposição de multa" (AgInt nos EDcl no AREsp 602.184/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 13/6/2017, DJe 23/6/2017).
+Ante o exposto, não conheço do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados em desfavor da recorrente.
+Publique-se.
+Intime-se.
