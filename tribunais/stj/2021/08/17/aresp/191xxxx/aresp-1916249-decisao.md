@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social -INSS contra decisão que não admitiu recurso especial, este interposto comfundamento no art. 105, III, a, da CF, desafiando acórdão proferido peloTribunal Regional Federal da 5ª Região, assim ementado (fs. 127):
+PREVIDENCIARIO. PROCESSUAL CIVIL. APOSENTADORIA POR IDADE. TRABALHADOR RURAL. SEGURADO ESPECIAL. COMPROVAÇÃO. DEFERIMENTO DO BENEFICIO. REFORMA DA SENTENÇA.
+1 Caso em que a requerente busca a concessão de aposentadoria rural por idade, na condição de segurada especial, tendo o magistrado singular indeferido o beneficio ante a ausência de inicio de prova material;
+2 Comprovados o exercício e o tempo de atividade rural da postulante como segurada especial, por meio de inicio de prova material(certidão eleitoral, na qual consta aprofissão de agricultora, corroborado através de prova testemunhalconvincente, bem assim o implemento da idade mínima necessária a obtenção do beneficio não se verificam restrições a concessão da aposentadoria rural por idade;
+3 Apelação provida.
+Nas razões do apelo especial, aponta o recorrente violação aos arts. 55, § 3º, 142 e 143 da Lei 8.213/91, 1º-F da Lei 9.494/97, com a redação do art. 5º da Lei 11.960/2009;afirmandoque "O ÚNICO DOCUMENTO CONSIDERADO PELA E. TURMA COMO INÍCIO DE PROVA MATERIAL É O DE FL. 14, CERTIDÃO DA JUSTIÇA ELEITORAL QUE INFORMA A PROFISSÃO DECLARADA PELA AUTORA EM 01.07.2015, TRÊS MESES ANTES DO REQUERIMENTO ADMINISTRATIVO" (fl. 192).
+Aduz que"nenhum documento citado pela e. Turma dá conta do suposto exercício de agricultura em regime de economia familiar pelo período de 180 meses necessário para a concessão do benefício" (fl. 139).
+Alega que, "enquanto não efetuada a modulação dos efeitos da decisão proferida pelo Supremo Tribunal Federal quanto ao art. 1º-F, da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, a mesma continua em vigor, não podendo ser afastada a sua aplicação em nenhuma hipótese, notadamente tendo em vista o disposto no já transcrito art. 927, §§ 3º e 4º, do CPC" (fl. 147)
+Sem contrarrazões.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Inicialmente, quanto à aplicabilidade do art. 1º-F da Lei 9.494/97, com a redação dada pela Lei 11.960/2009, existe decisão de fls. 171/172, negando seguimento ao apelo nos termos do art. 1.040, I, CPC/2015.
+No tocante à contemporaneidade do início de prova material, para fins de percepção de aposentadoria rural por idade, esta Corte, nojulgamento do Recurso Especial Repetitivo n. 1.348.633/SP, da relatoria doMinistro Arnaldo Esteves Lima, examinando a matéria concernente àpossibilidade de reconhecimento do período de trabalho rural anterior aodocumento mais antigo apresentado, consolidou o entendimento de que aprova material juntada aos autos possui eficácia probatória tanto para operíodo anterior quanto para o posterior à data do documento, desde quecorroborado por robusta prova testemunhal.
+Confira-se a ementa do julgado:
+PREVIDENCIÁRIO. RECURSO ESPECIAL REPRESENTATIVO DA CONTROVÉRSIA.APOSENTADORIA POR TEMPO DE SERVIÇO. ART. 55, § 3º, DA LEI 8.213/91. TEMPODE SERVIÇO RURAL. RECONHECIMENTO A PARTIR DO DOCUMENTO MAIS ANTIGO.DESNECESSIDADE. INÍCIO DE PROVA MATERIAL CONJUGADO COMPROVA TESTEMUNHAL.PERÍODO DE ATIVIDADE RURAL COINCIDENTE COM INÍCIO DE ATIVIDADE URBANAREGISTRADA EM CTPS. RECURSO PARCIALMENTE PROVIDO.
+1. A controvérsia cinge-se em saber sobre a possibilidade, ou não, dereconhecimento do período de trabalho rural anterior aodocumento maisantigo juntado como início de prova material.
+2. De acordo com o art. 400 do Código de Processo Civil "a provatestemunhal é sempre admissível, não dispondo a lei de modo diverso". Porsua vez, a Lei de Benefícios, ao disciplinar a aposentadoria por tempo deserviço, expressamente estabelece no § 3º do art. 55 que a comprovação dotempo de serviço só produzirá efeito quando baseada em início de provamaterial, "não sendo admitida prova exclusivamente testemunhal, salvo naocorrência de motivo de força maior ou caso fortuito, conforme disposto noRegulamento" (Súmula 149/STJ).
+3. No âmbito desta Corte, é pacífico o entendimento de ser possível oreconhecimento do tempo de serviço mediante apresentação de um iníciode prova material,desde que corroborado por testemunhos idôneos.Precedentes.
+4. A Lei de Benefícios, ao exigir um"início de prova material"teve porpressuposto assegurar o direito à contagem do tempo de atividade exercidapor trabalhador ruralem períodoanterior ao advento daLei 8.213/91levando em conta as dificuldades deste, notadamente hipossuficiente.
+5. Ainda que inexista provadocumental do períodoantecedente ao casamentodo segurado, ocorrido em 1974, os testemunhos colhidos em juízo, conformereconhecido pelas instâncias ordinárias, corroboraram a alegação dainicial e confirmaram o trabalho do autor desde 1967.
+6. No caso concreto, mostra-se necessário decotar, dos períodosreconhecidos na sentença, alguns poucos meses em função de os autosevidenciarem os registros de contratos de trabalho urbano em datas que
+coincidem com o termo final dos interregnos de labor como rurícola, nãoimpedindo, contudo, o reconhecimento do direito à aposentadoriapor tempode serviço, mormente por estar incontroversa a circunstância de que oautor cumpriu a carênciadevida no exercício de atividade urbana, conforme
+exige o inc. II do art. 25 da Lei 8.213/91.
+7. Os juros de mora devem incidir em 1% ao mês, a partir da citaçãoválida, nos termos da Súmula n. 204/STJ, por se tratar de matériaprevidenciária. E, a partir do advento da Lei 11.960/09, no percentualestabelecido para caderneta de poupança. Acórdão sujeito ao regime do art.543-C do Código de Processo Civil.
+(REsp 1.348.633/SP, Rel. Ministro ARNALDO ESTEVES LIMA, PRIMEIRA SEÇÃO,julgado em 28/08/2013, DJe 05/12/2014)
+No caso dos autos, o Tribunal a quo, com base no conjuntofático-probatório dos autos, entendeu que a parte autora comprovou oexercício de atividade rural no período de carência, conforme se vê doseguinte fragmento do acórdão recorrido (fl. 124):
+Compulsando-se os autos, observa-se a existência de certidão eleitoral, na qual consta a profissão da demandante como agricultora (fl. 14) a qual constitui início de prova material a ensejar o exercício da atividade rurícola.
+Noutra banda, aprova testemunhal mostrou-se convincente e conhecedora dos fatos alegados, confirmando o labor agrícola exercido pela postulante, em regime de economia familiar (gravação em mídia).
+Assim, de plano, não se constata qualquer violação à lei federal, de modoque a alteração das conclusões adotadas pela Corte de origem, tal comocolocada a questão nas razões recursais, demandaria, necessariamente, novoexame do material probante dos autos, providência vedada em sede derecurso especial, a teor da Súmula 7/STJ.
+Por pertinente, colaciona-se a seguinte ementa:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA POR IDADERURAL.TRABALHADOR RURAL. BOIA-FRIA. ALTERAÇÃO DO ACÓRDÃO RECORRIDO. SÚMULA7/STJ.
+1. Constata-se que não se configura a alegada ofensa ao artigo 1.022 doCódigo de Processo Civil de 2015, uma vez que o Tribunal de origem julgouintegralmente a lide e solucionou, de maneira amplamente fundamentada, acontrovérsia, em conformidade com o que lhe foi apresentado.
+2. Ao decidir a controvérsia, o Tribunal a quo consignou: "A alegação doINSS, de que não existiria prova material apta a comprovar o exercício da
+atividade rural no período de carência, não merece prosperar, pois osdocumentos juntados consubstanciam início de provamaterial suficiente,que corroborada pela prova oral colhida confirmam o trabalho rural daparte autora."
+3. Com efeito, considerando a fundamentação do aresto recorrido, queconcluiu pela comprovação de labor rural pelo períodolegalmente exigido,e, portanto, pela existência dos requisitos para concessão do benefícioprevidenciário, este somente poderia ser modificado mediante o reexame dosaspectos concretos da causa, o que encontra óbice na Súmula 7/STJ.
+4. Ademais, o Superior Tribunal de Justiça entende ser desnecessária acontemporaneidade da prova material com todo o períododo exercício deatividade rural que se pretende comprovar, devendo haver ao menos uminício razoável de prova material contemporânea aosfatos alegados, desde
+que complementada mediante depoimentos de testemunhas.
+5. No caso dos autos, o Tribunal a quo atestou que o início de provamaterial é corroborado por outros elementos, como a prova testemunhal,motivo pelo qual a conclusão da Corte de origem não merece reparos.
+6. Recurso Especial não provido.
+(REsp 1.767.337/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgadoem 16/10/2018, DJe 16/11/2018)
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
