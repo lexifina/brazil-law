@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo apresentado por MARIA MARIA LANCHONETE EIRELI contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+PREPARO
+- Apelação - Alegação de insuficiência do valor - Sentença que impõe condenação - Taxa judiciária que é calculada sobre o valor da condenação - Inteligência do art. 4º, inc. II e § 2º, da Lei Estadual n. 11.608/2003:
+- Inviável o acolhimento da preliminar de insuficiência do preparo, arguida na resposta ao recurso, pois recolhida a taxa judiciária calculada sobre o valor da condenação, conforme previsto no art. 4º, inc. II e § 2º, da Lei Estadual n. 11.608/2003.
+PROVA PERICIAL
+- Ação de cobrança - Perícia contábil - Impugnação, por não ter sido cumprido o art. 431-A do CPC/1973, com ciência das partes da data e local de início da produção da prova - Ciência das partes que se colhe dos elementos constantes dos autos, e, ainda, inexistência de prejuízo, por se tratar de cálculos a serem elaborados com base nos documentos juntados aos autos pelas próprias partes - Impossibilidade - Parcialidade do perito e equívoco no conjunto do laudo - Não ocorrência:
+- Não demonstrando a parte o prejuízo por ela sofrido, em razão da não comunicação, pelo perito, acerca da data e local de início da produção da prova pericial, não há que se reconhecer sua nulidade, e ainda, não há demonstração de real parcialidade do perito e equívoco no conjunto do laudo, que está bem fundamentado.
+AÇÃO DE COBRANÇA
+- Ação de cobrança - Alegação de acordo verbal entre as representantes legais de dois restaurantes, do mesmo grupo familiar, para compartilhamento de cozinha, funcionários e estoques, na razão de 1/3 e 2/3 Prova oral que não é corroborada por elementos documentais, fiscais e contábeis, inclusive prova pericial - Não demonstração - Condenação pretendida - Impossibilidade:
+- Em que pese a prova oral tenha sido no sentido da alegação da autora, de compartilhamento de cozinha, funcionários e estoques, não houve corroboração por elementos documentais, fiscais e contábeis, inclusive prova pericial, que conduzissem à conclusão de que realmente havia acordo verbal entre as representantes legais de dois restaurantes, do mesmo grupo familiar, pelo qual suportariam a razão de 1/3 e 2/3 dos custos.
+CHEQUE
+Ação de cobrança - Título emitido com as formalidades legais Alegação de pagamento por outros meios - Prova da quitação - Inexistência - Inteligência dos arts. 319 e 321, do CC:
+- A alegação de quitação de cheque emitido com as formalidades legais por outros meios não pode ser acolhida à míngua de elementos nesse sentido, como se depreende dos arts. 319 e 321, do CC.
+RECURSOS NÃO PROVIDOS.
+Quanto à controvérsia, alega violação do art. 141 do CPC, no que concerne à ocorrência de julgamento extra petita, trazendo os seguintes argumentos:
+20. Conforme já brevemente exposto nos tópicos anteriores, o r. acórdão recorrido violou a legislação federal, ao manter a decisão judicial que condenou a Recorrente ao pagamento de cheque apresentado nos autos, sendo que a presente ação de cobrança sequer versava sobre a cobrança de tal cártula, não sendo um dos pedidos da Recorrida em sua petição inicial.
+ ..
+25. Notadamente, ao condenar a Recorrente ao pagamento do cheque apresentado exclusivamente como prova do suposto acordo verbal firmado entre as partes, os N. Julgadores a quo estão decidindo algo diverso do pedido formulado na inicial (fls. 4698-4701).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no Resp 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
