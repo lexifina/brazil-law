@@ -1,0 +1,52 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. DESPROPORÇÃO ENTRE O TEMPO DE CUSTÓDIA E O QUANTUM DA PENA. INVIABILIDADE DE ANÁLISE. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretosquando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas.
+3. Não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por TATIANE AMARAL DE OLIVEIRA contra a decisão de fls. 227-229, que não conheceu do habeas corpus.
+A agravante teve a prisão em flagrante convertida em preventiva pela suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na quantidade de entorpecentes encontrada com a agravante - 167,10g de cocaína e 80,20g de maconha -, bem como na apreensão de valores e no modus operandido delito praticado juntamente com o corréu. Impetrado writ originário, a ordem foi denegada.
+A agravante reafirma ateselançadana inicial de que não há fundamentação idônea para a manutenção da prisão cautelar, em razão da pouca droga apreendida. E apontaque a custódia não é proporcional à eventual pena a ser aplicada.
+Requer a reconsideração da decisão ou a submissão do recurso a julgamento para que seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REVOGAÇÃO. IMPOSSIBILIDADE. PREENCHIMENTO DOS REQUISITOS LEGAIS. SUBSTITUIÇÃO POR PRISÃO DOMICILIAR. DESPROPORÇÃO ENTRE O TEMPO DE CUSTÓDIA E O QUANTUM DA PENA. INVIABILIDADE DE ANÁLISE. RECURSO DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretosquando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. São fundamentos idôneos para a decretação da segregação cautelar no caso de tráfico ilícito de entorpecentes a quantidade, a variedade ou a natureza das drogas apreendidas.
+3. Não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso.
+4. Agravo regimental desprovido.
+VOTO
+A decisão agravada merece ser mantida.
+Registre-se que a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 160-162, destaquei):
+ .. o depoente e seu colega de farda, saíram em patrulhamento pelo bairro quando receberam informação de um motoqueiro que dois individuos estavam brigando indicando o endereço, então o depoente e seu colega de farda, retornaram ao local onde se encontravam os dois INDIVIDUOS, posteriormente identificados como Jeverson e Marciano, brigando desferindo socos; que os abordaram efetuaram pesquisas via PRODESP, mas não estavam procurados pela justiça; que tinha informação que seu irmão Jeverson estava traficando e que também tinha conhecimento que ele ja havia sido preso por trafico de drogas pela "Força Tática "com uma grande quantidade de drogas  ..
+Que, trata-se de um sobrado, onde sobre uma mureta, localizaram uma calça estendida e sob ela, o depoente localizou uma bexiga grande, de cor laranja, percebendo que a mesma estava pesada e em seu interior havia algo macio. Nesse momento o depoente questionou Jeverson sobre o conteúdo, ao que o mesmo disse: "Deixa eu ver" e pegando a bexiga tentou fugir, porém o depoente o segurou pela camiseta ao que o mesmo começou a se bater e perdendo o equilibrio, foi ao solo, e o depoente também, que Jeverson evadiu-se do local, deixando cair um sacolé, levando consigo a bexiga de cor laranja.
+O depoente acredita que havia mais de 500 gramas de cocaína dentro da bexiga, devido ao peso da mesma.
+Na sequencia o depoente questionou Tatiane, amásia de Jeverson, a qual informou que Jeverson estava traficando e apontou o local onde ele guardava a droga, sendo certo que e na parte superior da casa, no forro fora localizada 07 porções de droga com características de maconha .01 sacolé contendo droga com caraterísticas de "cocaína"; e 01 bexiga rosa contendo varias pedras de "cocaína".
+No interior da bolsa de Tatiane" fora localizada a importância de R$284,00 (duzentos e oitenta e quatro reais) em espécie; Tatiane disse que era de sua propriedade, no interior de uma gaveta da comoda no quarto de Jeverson vários extratos com diversos depósitos em seu nome e de outros.
+Diante de todas as evidências da participação de Tatiane no trafico de drogas, o depoente deu a ela voz de prisão.
+ ..
+Apesar dos argumentos lançados na impetração de que a prisão preventiva se mostraria desnecessária, resta evidenciada a configuração dos requisitos demonstrativos do cabimento da medida prisional, como demonstrado, inclusive, pela decisão do Douto Magistrado quando da conversão do flagrante em prisão preventiva, o qual fez constar nas folhas 111/123, que:
+"Os requisitos do art. 312, do CPP, estão presentes in casu. Vejamos.
+ ..
+Ademais, o periculum libertatis revela-se para a garantia da ordem pública, considerando a gravidade em concreto do delito, em razão da droga encontrada (oito unidades com peso bruto de 80,20 g de maconha e duas unidade com peso bruto de 167,10 g de cocaína), sendo quantidade elevada para o consumo, sendo que fracionados formariam dezenas de porções dos entorpecentes, o que engrossa a intenção da traficância, corroborado ainda com os extratos e depósitos bancários de 23/27 e declaração da própria Tatiane, que afirmou que tais entorpecentes eram comercializados.
+Embora tenha dito que quem realizava a venda das drogas era seu convivente Jeferson, alguns comprovantes bancários, indicam conta de sua titularidade, o que denota indícios suficientes de autoria.
+ ..
+Nesse cenário, a o modus operandi revela gravidade concreta, reitero, distanciando de atividade meramente isolada ou eventual, ressaltando a diversidade das drogas.
+Portanto, a quantidade de droga apreendida, aliada às circunstâncias em que foi efetuada a prisão, constituem elementos suficientes a indicarem que, solta, o autuada gera risco à ordem pública.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No presente caso, a quantidade e a variedade dos entorpecentes apreendidos - oito unidades com peso bruto de80,20g de maconha e duas unidades com peso bruto de 167,10g de cocaína -, os valores e os extratos bancários com evidências de habitualidade no comércio de drogas foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimentoestá em consonância com a jurisprudência da QuintaTurma de que a quantidade,avariedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva(AgRgno RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma,DJede 30/9/2020; eAgRgno HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Ademais, eventuais condições subjetivas favoráveis da agravante, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Por fim, segundo a jurisprudência do STJ, "não se pode dizer que a prisão preventiva é desproporcional em relação à eventual condenação que poderá sofrer ao final do processo, pois não há como, em sede de habeas corpus, concluir que o réu fará jus à pena mínima do delito em tela, especialmente em se considerando as circunstâncias do caso" (RHC n. 67.461/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/3/2016).
+Portanto, visto que a agravante não apresentou argumentos novos capazes de infirmar o decisum impugnado, mantenho-o por seus próprios fundamentos.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
