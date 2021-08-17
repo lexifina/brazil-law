@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCOS AUGUSTO CORDEIRO DOS SANTOScontra decisão de minha lavra, e-STJ fls. 413/422,em que não conheci do recurso especialem face da Súmula 7 do STJ.
+Nas suas razões (e-STJ fls. 424/432), a parte embargante sustenta que o decisumora impugnado incorreu em omissão.Para tanto, aduz que"na r. decisão a V. Exmo. se limitou a justificar a fixação dos honorários em 10% (dez por cento). No entanto, apenas para evitar eventuais discussões futuras, requer que seja explícito o percentual de 10% (dez por cento) sobre o valor da causa, conforme mencionado os termos do art. 85, § 11, do CPC/15" (e-STJ fl. 429).
+Requer, ao final, a majoração no arbitramento dos honorários sucumbenciais a ser fixado sobre o valor da causa.
+A parte embargada não apresentou impugnação (e-STJ fl. 438).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), vícios esses inexistentes na espécie.
+Digo isso porque, na espécie, o decisumembargado empregou ampla e clara fundamentação para adotar a tese de que (e-STJ fls. 419/420):
+quando o provimento alcançado em favor do sócio ficar limitado à sua exclusão do polo passivo da execução fiscal, permitindo o prosseguimento do feito executivo, há peculiaridade a ser observada para a fixação da verba de sucumbência: o crédito continua exigível em sua totalidade do devedor principal e/ou responsáveis.
+É que, na ação executiva fiscal, conforme estabelece o art. 6º, § 4º, da Lei n. 6.830/1980, "o valor da causa será o da dívida constante da certidão, com os encargos legais". Logicamente, em atenção ao princípio da especialidade, o "valor da condenação" e o "proveito econômico obtido" aos quais se refere o § 3º do art. 85 do CPC/2015 devem ter correlação com o crédito tributário e encargos legais constantes da certidão de dívida ativa (§ 5º do mesmo art. 6º).
+Essa anotação é necessária, visto que há situações jurídicas que implicam a extinção, parcial ou total, do processo executivo, sem, contudo, impactar o crédito inscrito em dívida ativa (valor originário, juros e demais encargos), o qual poderá continuar sendo cobrado, ou novamente cobrado, do mesmo devedor e/ou do solidário, se o exercício da pretensão executória ainda estiver dentro do prazo fixado pela lei.
+Acrescentei que "embora seja possível o arbitramento da verba honorária, deve-se reconhecer que o valor da causa não poderá ser o parâmetro único para essa providência, pois o crédito tributário continua sendo exigível em sua totalidade" (e-STJ fl. 420).
+Isso fica claro na conclusão da motivação contida no julgado impugnado, de que, os honorários advocatícios de sucumbência devidos pelo acolhimento da defesa voltada contra a pretensão executória fiscal, quando não atingido o crédito, devem ser fixados com base nos critérios do § 2º do art. 85 do CPC/2015, mediante apreciação equitativa do magistrado (§ 8º).
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
