@@ -1,0 +1,38 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porBAYER S/A,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 08/12/2020.
+Concluso ao gabinete em: 16/07/2021.
+Ação:repetição de indébito, ajuizada por AIRTON HOLLAS e OUTROS, em face da agravante, na qual requer a devolução de valores indeterminados e supostamente pagos a título de royalties entre 2010 e 2013, pela utilização de tecnologia na produção de soja.
+Decisão interlocutória:determinou a inversão do ônus da prova.
+Acórdão:deu parcial provimento ao agravo de instrumento interposto pela agravante, apenas para afastar a incidência das disposições do CDC, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. PROPRIEDADE INDUSTRIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. SOJA TRANSGÊNICA ADQUIRIDA POR PRODUTOR RURAL. ROYALTIES. AFASTADA A INCIDÊNCIA DAS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR. ÔNUS DA PROVA. REDISTRIBUIÇÃO DO ENCARGO DA PROVA.POSSIBILIDADE. TEORIA DA CARGA DINÂMICA DAS PROVAS.
+1. UMA VEZ QUE A RELAÇÃO DISCUTIDA NOS AUTOS ENVOLVE A AQUISIÇÃO DE INSUMOS PARA FOMENTO DA ATIVIDADE DO PRODUTOR RURAL E, EM ESPECIAL, A COBRANÇA DE ROYALTIES, INAPLICÁVEL AS DISPOSIÇÕES DO CÓDIGO DE DEFESA DO CONSUMIDOR, DEVENDO A RELAÇÃO ENTRE AS PARTES SER REGIDA PELO CÓDIGO CIVIL. PRECEDENTES DO E. SUPERIOR TRIBUNAL DE JUSTIÇA.
+2. EMBORA INCABÍVEL A APLICAÇÃO DA LEGISLAÇÃO CONSUMERISTA, O ORDENAMENTO JURÍDICO PREVÊ OUTRAS POSSIBILIDADES DE REDISTRIBUIÇÃO DO ENCARGO DA PROVA, CONSOANTE PRECONIZA O ARTIGO 373, §1º DO CPC.
+3. NO PRESENTE CASO, CONFORME ELENCADO PELA PARTE AUTORA, ORA AGRAVADA, EVIDENTEMENTE A PARTE RÉ ESTÁ EM MELHORES CONDIÇÕES PARA ARCAR COM O ENCARGO PROBATÓRIORELACIONADO AOS FATOS ELENCADOS NA EXORDIAL, EM ESPECIAL QUANTO À APRESENTAÇÃO DOS VALORES RETIDOS A TÍTULO DE ROYALTIES EM NOME DOS DEMANDANTES. INCLUSIVE, COM BASE NO DEVER DE COOPERAÇÃO DAS PARTES PARA O ENCONTRO DA VERDADE DOS FATOS, TEM-SE A POSSIBILIDADE DE FATO DA EMPRESA RÉ, POR SER A RESPONSÁVEL POR COMPROVAR A CORRETUDE DOS VALORES RETIDOS DA PARTE AUTORA, ASSUMIR O REFERIDO ÔNUS. MANTIDA A R. DECISÃO RECORRIDA, NO PONTO, AINDA QUE POR FUNDAMENTO DIVERSO.
+AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 7º, 9º, 10, 373, 937, VIII, e 1.022 do CPC/15, 173 do CTN e 206, §3º, do CC/02. Além de negativa de prestação jurisdicional, sustenta que: i) as partes deveriam ter sido intimadas para se manifestarem sobre a hipótese de ocorrência de hipossuficiência técnica dos agravados; ii) não há provas da hipossuficiência técnica dos agravados; iii) já se operou o efeito da prescrição para cobrança dos valores e não há obrigação legal da agravante guardar os documentos relativos a esses valores.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da violação do art. 1.022 do CPC/2015
+O TJ/RS foi claro ao concluir que: i) diante de uma situação concreta na qual se verifique dificuldade de uma das partes em cumprir o encargo da prova, o juízo pode, por decisão fundamentada, atribuir o ônus da prova de forma diversa daquela prevista no art. 373, I e II, do CPC/15; ii) evidentemente a agravante está em melhores condições para arcar com o encargo probatório relacionado aos fatos elencados na exordial; iii) a análise da prescrição está inviabilizada, em respeito ao duplo grau de jurisdição, vez que a implementação da prescrição não foi objeto de análise da decisão recorrida;iv) não se verifica ofensa ao princípio da não surpresa, porquanto a própria agravante, em suas razões recursais, analisa a matéria objeto do recurso sob a ótica do art. 373 do CPC/15, o qual foi utilizado para fundamentar a manutenção no ponto da decisão recorrida, inclusive discorrendo quanto à ausência de hipossuficiência dos agravados a autorizar a distribuição do ônus probatório de forma diversa daquela prevista nos incisos I e II do art. 373 do CPC/15; v) a apresentação dos valores pagos a título de royalties aos produtores rurais deve ser realizada pela agravante, porquanto está em melhores condições para arcar com o encargo probatório, com observância do dever da agravante de comprovar a corretude dos valores retidos dos agravados a título de royalities; vi) a agravante é empresa internacionalmente conhecida, de grande porte e com amparo contábil e jurídico a autorizar e evidenciar a maior facilidade na produção da prova.
+Dessa maneira, no acórdão recorrido não há omissão, contradição, obscuridade ou erro material. É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte (AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/15, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da fundamentação deficiente
+Os argumentos invocados pelaagravante não demonstram como o acórdão recorrido violou os arts. 937, VIII, do CPC/15, e 173 do CTN, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dosarts.7º, 9º, 10, e 937, VIII,do CPC/15, 173 do CTN e 206, §3º, do CC/02, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere à ausência de ofensa ao princípio da não surpresa eà distribuição dos ônus da prova, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. DECISÃO QUE DETERMINOU A INVERSÃO DO ÔNUS DA PROVA.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.REEXAME DE FATOS E PROVAS.INADMISSIBILIDADE.
+1. Ação de repetição de indébito no bojo da qual foi proferida decisão determinando a inversão do ônus da prova.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O reexame de fatos e provas em recurso especial é inadmissível.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
