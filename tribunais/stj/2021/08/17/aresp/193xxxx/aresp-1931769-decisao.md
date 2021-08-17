@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo manejado por Luc Artigos do Vestuário contra decisão da Primeira Vice-Presidência do Tribunal de Justiça do Estado de Minas Gerais que inadmitiu seu recurso especial, porquanto intempestivo, pois no ato de interposição do recursonão foi apresentado documento idôneo que comprovasse feriado local ou suspensão do expediente forense, não sendo possível regularização posterior, conforme jurisprudência do STJ.
+A agravante defende que "O disposto no § 6º, art. 1003 tem por objeto dar conhecimento ao tribunal dos feriados locais e assim poder aferir a tempestividade. Entretanto, in casu, este é dispensável uma vez ser este fixado pelo próprio TJMG,  .. . Ou seja, a autoridade judiciária que negou seguimento ao Especial, vice-presidente do Tribunal mineiro, tinha pleno conhecimento da ausência de funcionamento do judiciário na data apontada" (fl. 290)
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não houve impugnação específica ao motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial, qual seja, a intempestividade pela falta de comprovação, no ato de interposição do recurso, de feriado local ou suspensão do expediente forense, não sendo possível comprovação posterior, conforme jurisprudência do STJ.
+Incide, desse modo, por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, nos termos do art. 932, III, do CPC/2015, não conheço do agravo.
+Publique-se.
