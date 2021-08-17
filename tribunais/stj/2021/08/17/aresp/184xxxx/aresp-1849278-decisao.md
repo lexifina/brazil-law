@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por JULIO CEZAR FONTOURA ROEDEL, PLASTECNICA INDUSTRIA E COMERCIO DE PLASTICOS EIRELI EROBERTO CAUDURO ROEDEL,contra a decisão que inadmitiu o recurso especial. O apelo extremo fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal desafia o acórdão proferido pelo Tribunal Regional Federal da 4ª Regiãode assim ementado:
+"ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. CONTRATO BANCÁRIO. RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO. LIMITAÇÃO DA TAXA DE JUROS. CAPITALIZAÇÃO DE JUROS.
+1. A execução fica suspensa em relação à pessoa jurídica até que o crédito seja satisfeito na ação de recuperação judicial. Contudo, não há óbice quanto ao prosseguimento da execução em face dos avalista do contrato, por se tratarem de devedores solidários.
+2. Os apelantes não demonstraram que a taxa de juros contratada é superior à taxa média de mercado para a mesma operação, inexistindo qualquer indício de abusividade que justifique a intervenção do Poder Judiciário para modificar aquilo que foi pactuado pelas partes em relação aos juros remuneratórios.
+3. A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão, no contrato bancário, de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+4. Apelo desprovido" (fl. 209, e-STJ).
+No especial, osrecorrentes apontam violação doart. 51, IV e§ 1º, III, do Código de Defesa do Consumidor, alegandoa existência de cláusulas abusivas no contrato firmado com a Instituição financeira, em razão da cobrança da capitalização de juros sem previsão no contrato.
+Aduzem que,"só se permite a capitalização anual de juros e que para tanto deve ser pactuada expressamente. No presente caso, não houve qualquer estipulação de capitalização anual, mas sim mensal, devendo ser revista a cláusula contratual em questão" (fl. 234, e-STJ).
+Afirmam ainda, que não tem cabimento a cobrança de tarifas bancárias, tendo em visa que é um ônus inerente à atividade exercida pela instituição financeira ao oferecer seusprodutos e serviços.
+Defendem também, o afastamento da mora, bem como a exclusão de juros e demais encargos,em razão da cobrança de encargosilegais pela Instituição financeira
+Apontam ainda, violação aoart. 49, § 2º da Lei nº 11.101/2005, bem como dissídio jurisprudencial no tocante "à validade de cláusula do plano de recuperação judicial que prevê a suspensão de execuções e liberação dos coobriados por dívidas sujeitas à recuperação judicial, bem como a vinculação de todos os credores à tal previsão"(fl. 235, e-STJ).
+Destacam que no julgamento do REsp 1.700.487/MT, da relatoria o Ministro Marco Aurélio Belizze, esta Corte Superior entendeu que não há razão "paraimpedirque os credores, caso assim entendam necessária à consecução do plano de recuperação judicial, transacionem a supressão das garantias de que são titulares" (fl. 237, e-STJ).
+Narramque o plano de recuperação judicial aprovado em assembléia geral possui cláusula dispondo sobre a liberação dos coobrigados, nos termos da jurisprudência do STJ.
+Sem as contrarrazões e inadmitido o recurso na origem, sobreveio o presente agravo, no qual se busca o processamento do apelo nobre.
+Parecer do Ministério Público Federal pelo não provimento do recurso (fls. 388-394, e-STJ).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Em relação àcapitalização de juros, o acórdão atacado dirimiu a controvérsia nos seguintes termos:
+"(..)
+É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP 1.963-17/00, reeditada como MP 2.170- 36/01), desde que expressamente pactuada.
+A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada.
+O contrato em tela prevê a taxa de juros remuneratórios anual em valor superior ao duodécuplo da taxa de juros remuneratórios mensal. Essa previsão de taxa efetiva anual, aliada ao percentual mensal de juros, permite a sua capitalização, conforme antes retratado e fixado pelo STJ.
+Portanto, não havendo ilegalidade ou abusividade, deve ser mantida a capitalização mensal de juros"(fl. 217, e-STJ).
+Cumpre assinalar que, no julgamento do REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se a capitalização dos juros em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual pelo menos doze vezes maior do que a mensal, consoante se colhe da ementa de referido julgado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido"(Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012).
+No caso dos autos,a instância de origem consignou que o contrato prevê expressamente a cobrança dos juros capitalizados, rever as referidas conclusões demandaria a apreciação do conjunto fático-probatório dos autos e de cláusulas contratuais, o que encontra óbice nas Súmulas nºs 5 e 7/STJ. Dessa maneira,não há falar no afastamento da mora do agravante.
+Sobre a abusividade da cobrança de trarifas bancárias, verifica-se que falta ao agravante interesse recursal. Isso porque, o Tribunal Regional ressaltouque"nenhum valor foi cobrado pela CEF a título de tarifa de abertura e renovação de crédito pelo que fica extinto esse pedido sem exame do mérito por falta de interesse de agir"(fl. 217, e-STJ).
+Por outro lado, nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+No caso concreto, os recorrentes apontam julgado que não guarda similitude fática com a hipótese vertente, razão pela qual o dissídio jurisprudencial não restou configurado.
+Nesse sentido:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+(..)
+2. O alegado dissídio jurisprudencial não foi comprovado nos moldes estabelecidos nos artigos 541, parágrafo único, do Código de Processo Civil de 1973 e 255, parágrafos 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça.
+3. Agravo interno a que se nega provimento"
+(AgInt no AREsp 864.649/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/10/2016, DJe 7/11/2016).
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 6% (seispor cento) sobre o valor da causa,(considerando já terem sido fixados honorários de 10% na execução em favor da agravada), os quais devem ser majorados para 7% (sete por cento) em favor do advogado da parte contrária, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
