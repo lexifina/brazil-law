@@ -1,0 +1,40 @@
+DECISÃO
+O retrospecto restou bem delineado no parecer exarado peloMinistérioPúblicoFederal, verbis (fls. 58 - 61):
+"Trata-se de conflito negativo de competência suscitado pelo Juízo da 117ª Zona Eleitoral de Fortaleza/CE, suscitante, e o Juízo de Direito da 8ª Unidade do Juizado Especial Criminal de Fortaleza/CE, suscitado.
+Consta dos autos que Heitor Rodrigo Pereira Freire ofereceu queixa-crime contra Glaydis Barros sustentado que ela teria divulgado, em grupo de whatsapp, vídeo em que ele é acusado de ser mentiroso, vagabundo, traidor ecanalha, e que estava querendo se fazer com o dinheiro público.
+O Juízo de Direito da 5ª Vara Criminal da Comarca de Fortaleza/CE declinou da competência, determinando a remessa dos autos ao Juizado Especial Criminal competente.
+Por sua vez, o Juízo de Direito do 8º JECRIM, o suscitado, entendeu tratar-se de queixa-crime, cujas partes estão descritas acima, sendo que o fato ocorreu em fase de campanha eleitoral, ou seja, no calor de uma empreitada durante eleições envolvendo candidato a vereador (querelado) e o querelante, candidato a prefeito de Fortaleza. Corrobora, neste sentido, o parecer ministerial do ID 22024693.(fl. 50).
+Já o Juízo da 117ª Zona Eleitoral de Fortaleza/CE, o suscitante, entendeu tratar-se de um ataque direto ao querelado por um terceiro estranho às partes do processo, registrado em um vídeo que não está inserido em nenhum contexto de propaganda ou marketing eleitoral.
+Dessa forma, cuida-se de uma contenda entre particulares, ainda que existam motivações ligadas à disputa eleitoreira e o conteúdo faça alusão à verba do fundo eleitoral. O vídeo não está caracterizado com número, cores ou pedido de votos dirigido a eleitores que são característico da disputa e da propaganda político partidária, não se podendo deduzir que se trate de propaganda eleitoral apenas porque os personagens envolvidos são candidatos em disputa ou pessoas públicas (fl. 13)."
+O Ministério Público Federal opinou nosentido de conhecer o conflito paradeclarar a competência do Juízo de Direito da 8ª Unidade do Juizado Especial Criminal de Fortaleza - CE,o suscitado,consoante ementa a seguir transcrita (fls. 58 - 61):
+"CONFLITO NEGATIVO DE COMPETÊNCIA. CALÚNIA ELEITORAL. AUSÊNCIA DE CARACTERIZAÇÃO. CONFLITO ENTRE PARTICULARES. COMPETÊNCIA DA 8ª UNIDADEDO JUIZADO ESPECIAL CRIMINAL DEFORTALEZA/CE, O SUSCITADO.."
+É o relatório.
+Decido.
+O conflito de competência ocorre quando duas ou mais autoridades se julgamcompetentes (positivo), incompetentes (negativo), ou quando houverdivergência sobre a junção de processos, nos termos do artigo 114 doCódigo de Processo Penal.
+No caso concreto, tem-se conflito negativoexistente entre Juízosvinculados a Tribunais diversos, logo deve ser dirimido por este SuperiorTribunal de Justiça, nos termos do art. 105, inciso I, alínea d, da ConstituiçãoFederal.
+Ab initio, urge esclarecer que a questão orbita em torno dacompetência para processar e julgar crime de calúnia edifamação, cometido contra prefeito.
+A jurisprudência deste Sodalício firmou-se no sentido de que os crimescontra honra prescritos, respectivamente, nos arts. 325 e 326 do CódigoEleitoral exigem finalidade eleitoral para que restem configurados.
+Nocompasso, não se pode olvidar que vige no direito pátrio o princípio daespecialidade das normas, que impõe a aplicação do preceito legalespecial, quando cabível, em detrimento de preceito genérico.
+Nesse diapasão, infere-se da fundamentação apresentada pelod. Juízo suscitante àfl. 13:
+"(..) o fato narrado na exordial não se enquadra no conceito nem tem características de propaganda eleitoral. Além do que, está claro, que trata-se de um ataque direto ao querelado por um terceiro estranho às partes do processo, registrado em um vídeo que não está inserido em nenhum contexto de propaganda ou marketing eleitoral.
+Dessa forma, cuida-se de uma contenda entre particulares, ainda que existam motivações ligadas à disputa eleitoreira e o conteúdo faça alusão à verba do fundo eleitoral. O vídeo não está caracterizado com número, cores ou pedido de votos dirigido a eleitores que são característico da disputa e da propaganda político-partidária, não se podendo deduzir que se trate de propaganda eleitoral apenas porque os personagens envolvidos são candidatos em disputa ou pessoas públicas.
+Vale ressaltar ainda, que a querelada nem é a autora dos ataques contidos novídeo e está sendo processada por estar dando divulgação ao mesmo."
+A corroborar com o entendimento ora exposto, trago a baila os seguintesprecedentes desta Corte Superior:
+"PENAL. CONFLITO DE COMPETÊNCIA. CRIMES CONTRA A HONRA. CARTA ABERTA EMATÉRIA DIVULGADA NA IMPRENSA LOCAL. PROPAGANDA ELEITORAL OU COM FINS DEPROPAGANDA. NÃO OCORRÊNCIA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Os crimes de difamação e injúria prescritos, respectivamente, nos arts.325 e 326 do Código Eleitoral, exigem finalidade eleitoral para que restemconfigurados. Ou seja, esse tipo de delito "somente se concretiza quandoeventual ofensa ao decoro ou à dignidade ocorrer em propaganda eleitoralou com fins de propaganda" (CC 134.005/PR, Rel. Ministro ROGÉRIO SCHIETTICRUZ, TERCEIRA SEÇÃO, DJe 16/6/2014).
+2. Hipótese em que os crimes de difamação e injúria foram praticados pormeio de "carta aberta nesta Cidade", bem como de matéria divulgada naimprensa local, o que não se confunde com "propaganda eleitoral" ou"visando a fins de propaganda", suporte fático a caracterizar as condutastipificadas nos arts. 325 e 326 do Código Eleitoral.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da1ª Vara Criminal de Feira de Santana/BA, o suscitado" (CC n. 123.057/BA,Terceira Seção, Rel. Min. Ribeiro Dantas, DJe de 19/5/2016).
+"CONFLITO NEGATIVO DE COMPETÊNCIA. INJÚRIA. JUSTIÇA ELEITORAL E JUSTIÇACOMUM DO ESTADO. SUPOSTAS OFENSAS DESVINCULADAS, DIRETA OU INDIRETAMENTE,DE PROPAGANDA ELEITORAL. COMPETÊNCIA DA JUSTIÇA COMUM DO ESTADO.
+1. O crime previsto no art. 326 do Código Eleitoral possui nítida simetriacom o crime de injúria previsto no art. 140 do Código Penal, mas com estenão se confunde, distinguindo-se, sobretudo, pelo acréscimo de elementaresobjetivas à figura típica, que acabou por resultar em relevante restriçãoà sua aplicação, refletindo, também por isso, na maior especialização doobjeto jurídico tutelado.
+2. Na injúria comum, tutela-se a honra subjetiva, sob o viés da dignidadeou decoro individual e, na injúria eleitoral, protegem-se esses atributosante o interesse social, que se extrai do direito subjetivo dos eleitoresà lisura da competição eleitoral.
+3. A injúria eleitoral somente se perfectibiliza quando eventual ofensa aodecoro ou à dignidade ocorrer em propaganda eleitoral ou com fins depropaganda.
+4. As ofensas cometidas no âmbito doméstico, desvinculadas, direta ouindiretamente, de propaganda eleitoral, embora possam até ter sidomotivadas por divergências políticas, não configuram o crime previsto noart. 326 do Código Eleitoral.
+5. Conflito conhecido para declarar competente o Juízo de Direito doJuizado Especial Criminal da Comarca de Cruzeiro do Oeste/PR, orasuscitado" (CC n. 134.005/PR, Terceira Seção, Rel. Min. Rogério SchiettiCruz, DJe de 16/6/2014).
+"PENAL. CONFLITO DE COMPETÊNCIA. CRIME CONTRA A HONRA. OFENSA PROFERIDAFORA DO PERÍODO DE PROPAGANDA ELEITORAL. CRIME ELEITORAL NÃO CONFIGURADO.COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Os crimes contra a honra prescritos no Código Eleitoral exigemfinalidade eleitoral para que restem configurados.
+ ..
+3. Conflito conhecido para declarar a competência do Tribunal de Justiçado Estado da Bahia, suscitado" (CC n. 79.872/BA, Terceira Seção, Rel. Min.Arnaldo Esteves Lima, DJ de 25/10/2007 - grifei).
+Ante o exposto, conheço do presente conflito para declarar a competênciadoJuízo de Direito da 8ª Unidade do Juizado Especial Criminal de Fortaleza - CE, ora suscitado.
+P. e I.
+EMENTA
+CONFLITO DE COMPETÊNCIA. CRIMES CONTRA A HONRA.OFENSA NÃO PRATICADACOM FINALIDADE ELEITORAL, EM PROPAGANDA ELEITORAL OU COM FINS DE PROPAGANDA. CRIME ELEITORAL NÃO CONFIGURADO. COMPETÊNCIA DA JUSTIÇA ESTADUAL.
