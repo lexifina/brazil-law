@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pela União, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República/1988, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJfl. 303):
+APELAÇÃO. ADMINISTRATIVO. SERVIDOR PÚBLICO. CARREIRA DA DEFENSORIA PÚBLICA. SUCESSÃO LEGISLATIVA. LEI Nº 11.357/2006. AUSÊNCIA DE REGULAMENTAÇÃO.
+Embargos de declaração rejeitados.
+Em suas razões, a recorrente sustenta, inicialmente, violação do art. 1.022 do CPC/2015, ao argumento de omissão sobre pontos essenciais ao deslinde da controvérsia.
+Quanto à questão de fundo, aduz ofensa ao art. 6º do Decreto n. 84.669/1980 e aos princípios constitucionais da legalidade e separação dos poderes, ao argumento de que " .. em nenhum momento a legislação estabelece a progressão funcional automática pelo simples fato de o servidor ter completado um ano de serviço. Tampouco cita a progressão "a cada doze meses" sem nenhum outro critério, a partir do primeiro dia de exercício. Caso fosse esse o único critério para progressão funcional de um servidor, não haveria sequer a necessidade do resto do texto do Decreto, com toda a regulamentação e detalhamento do processo." (e-STJfl. 460).
+Com contrarrazões.
+É o relatório.
+Dos autos, não se conhece da suposta afronta aos arts. 489 e 1.022 do CPC/2015, pois a recorrente se limitou a afirmar de forma genérica a ofensa ao referido normativo sem demonstrar qual questão de direito não foi abordada no acórdão proferido emembargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem.
+No mérito, a recorrente, ao aduzir a tese de inexistência de progressão sem critério ou automática, deixou de impugnar o fundamento do acórdão recorrido segundo o qual, " ..  conforme reiteradas decisões do Eg. TRF desta 3ª Região, a aplicação das regras previstas nos arts. 10, §§1º e 2º e 19 do Decreto 84.669/80 fere o princípio da isonomia, atingindo, também, o princípio da legalidade, eis que dispensa tratamento igual para pessoas em situações manifestamente desiguais, agraciando pessoas ocupantes dos mesmos cargos e pelo mesmo lapso temporal, mas cujos requisitos tenham sido implementados em datas diversas, com efeitos financeiros da progressão a partir deu namesma data." (e-STJfl. 300).
+Incidência, por analogia, do teor da Súmula 283/STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.").
+Noutro passo,constata-se que, a despeito da oposição de embargos de declaração, não houve juízo de valor por parte da Corte de origema respeito dodispositivotidopor violado, bem como àtesevinculada, de forma que o exame da pretensão caracterizada indevida supressão de instância. Incidência da Súmula 211/STJ.
+Por fim,saliente-se que os princípios da legalidade e separação dos poderespossuemnatureza normativa constitucional, não cabendo a esta Corte Superior de Justiça o exame de sua possível irreverência sob pena de usurpação da competência do Pretório Excelso.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. intimem-se.
