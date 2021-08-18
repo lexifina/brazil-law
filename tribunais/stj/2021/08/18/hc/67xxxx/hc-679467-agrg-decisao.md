@@ -1,0 +1,70 @@
+DECISÃO
+Trata-se de agravo regimental interposto por THAYNA DE FREITAS LOPES contra decisão da Presidência do Superior Tribunal de Justiça que indeferiu o pedido liminar (fls. 295-296).
+Consta dos autos que a Agravante foi condenada, em primeiro grau de jurisdição, às penas de 2 (dois) anos de reclusão, em regime inicial fechado, e pagamento de 200 (duzentos) dias-multa, pela prática do delito do art. 33, caput, c.c o § 4.º, da Lei n.11.343/2006, por ter sido surpreendida na posse de 160g (cento e sessenta gramas) de cocaína. Na oportunidade, o Juízo sentenciante reconheceu à Ré o direito de recorrer em liberdade. Sentença acostada às fls. 221-225.
+Irresignada, a Defesa interpôs recurso de Apelação, desprovido por unanimidade pela Corte a quo, em acórdão assim ementado (fl. 270):
+"Apelação. Crime de tráfico de drogas. Atenuação das penas. Impossibilidade. Fixação de regime inicial mais brando. Impossibilidade. Substituição da pena privativa de liberdade por penas restritivas de direitos. Impossibilidade. Restituição do veículo apreendido. Não cabimento. Não provimento ao recurso."
+No presente mandamus, a Defesa alega que a Paciente-que preenchetodos os requisitos legais para a aplicação do disposto no art. 33, § 4.º, da Lei n. 11.343/2006, por ser primária, não se dedicar a atividades ilícitas e não participar de organização criminosa-faz jus à aplicação deregime inicial menos gravoso do que o fechado.
+No particular, argumenta que tal regime, fixado pelas instâncias ordinárias, não é o adequado ao caso dos autos, posto que aplicado com base na gravidade em abstrato do delito, cabendo o início de cumprimento de pena no regime aberto, notadamente em razão de não se tratar de quantidade exacerbada de entorpecentes apreendidos e de ter a pena-base sido fixada no mínimo legal, ante a situação favorável da Paciente em relação aos arts. 59 do Código Penal e 44 da Lei de Drogas.
+Ao final, requer a concessão de liminar para que seja fixado o regime semiaberto enquanto durar o julgamento do presente writ. No mérito, pugna pela fixação do regime aberto.
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do mandamus, mas pela concessão de ofício da ordem para que seja fixado o regime inicial aberto(fls. 331-337).
+Indeferido o provimento urgente pela Presidência desta Corte Superior de Justiça, a Defesa interpôs o presente agravo regimental.
+Nas razões do recurso, a Agravante reitera as alegações do writ, sustentando que o regime mais gravoso para desconto da reprimenda foi fixado contrariando-se o disposto no art. 33, § 2.º, alínea b, do Código Penal.
+Argumenta que o regime fechado foi estipulado sem a devida justificação, pois "a julgadora não fundamentou a escolha do regime mais gravoso com base em elementos concretos, além da sua opinião sobre a gravidade abstrata do crime de tráfico de entorpecente" (fl. 324).
+Sustenta que "o Tribunal de Justiça de São Paulo endossou tal decisão de forma ainda mais ilegal: nada discorreu sobre as alegações de defesa ou sobre a fundamentação da julgadora uníssona, repetindo os mesmos argumentos da julgadora de piso: grande quantidade, cujo requisito sequer foi considerado para elevar a pena-base.." (fl. 326).
+Afirma que, em se tratando de Ré primária, cuja pena definitiva aplicada foi de 02 (dois) anos, não tendo a quantidade de drogas sido sopesada para justificar qualqueraumento da pena-base, é cabível a fixação de regime inicial aberto.
+Invoca os termos das Súmulas n.440 do STJ e 718 e 719 do STF.
+Requer "seja revista a decisão agravada concedendo a liminar pleiteada" (fl. 327).
+É o relatório. Decido.
+O agravo não alcança conhecimento.
+Consoante reiterada jurisprudência deste Superior Tribunal de Justiça, não cabe agravo regimental contra decisão proferida em habeas corpus por meio da qual o Relator, fundamentadamente, defere ou indefere o pedido liminar.
+Nesse sentido, destaco os seguintes julgados:
+"EMBARGOS DE DECLARAÇÃO. PRINCÍPIO DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. DECISÃO QUE DEFERE A LIMINAR. NÃO CABIMENTO.
+1. Em respeito aos princípios da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, os embargos de declaração devem ser recebidos como agravo regimental.
+2. A jurisprudência desta Corte é pacífica no sentido de que não cabe agravo regimental contra decisão do relator que, em habeas corpus, defere ou indefere medida liminar, de forma motivada.
+3. Embargos de declaração recebidos como agravo regimental, o qual não se conhece." (EDcl no RHC 123.759/ES, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 24/03/2020; sem grifos no original.)
+"AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS. LIMINAR. NÃO CABIMENTO. IRRESIGNAÇÃO NÃO CONHECIDA.
+1. É assente na jurisprudência deste Superior Tribunal de Justiça o entendimento de que não é cabível a interposição de agravo regimental contra decisão de Relator que, fundamentadamente, em habeas corpus ou recurso em habeas corpus, defere ou indefere a liminar. Precedentes.
+2. Agravo regimental não conhecido." (AgRg no RHC 115.087/PA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/08/2019, DJe 19/08/2019.)
+No mesmo diapasão, menciono os precedentes do Supremo Tribunal Federal a seguir:
+"HABEAS CORPUS IMPETRADO, ORIGINARIAMENTE, PERANTE O SUPREMO TRIBUNAL FEDERAL - MEDIDA LIMINAR DENEGADA, PELO RELATOR DA CAUSA, EM DECISÃO PLENAMENTE FUNDAMENTADA - OPOSIÇÃO, EM FACE DESSE ATO DECISÓRIO, DE "EMBARGOS DE DECLARAÇÃO" - ATO DECISÓRIO INSUSCETÍVEL DE IMPUGNAÇÃO RECURSAL SEJA ATRAVÉS DE EMBARGOS DE DECLARAÇÃO SEJA POR MEIO DE RECURSO DE AGRAVO - PRECEDENTES - RECURSO NÃO CONHECIDO. - Não se revelam suscetíveis de conhecimento, por inadmissíveis, quaisquer recursos, inclusive embargos de declaração, deduzidos contra decisão do Relator que, motivadamente, defere ou, como na espécie, indefere pedido de medida liminar formulado em sede de "habeas corpus" originariamente impetrado perante o Supremo Tribunal Federal. Precedentes." (HC 112.860 ED-MC, Rel. Ministro CELSO DE MELLO, SEGUNDA TURMA, DJe 17/12/2012.)
+"Habeas corpus. Processual penal. Agravo regimental contra decisão de relator que indefere pedido de liminar em habeas corpus. Recurso não-conhecido pelo Superior Tribunal de Justiça. Impossibilidade de conhecimento de questão não-examinada no acórdão impugnado. Precedentes.
+1. O acórdão questionado está em perfeita consonância com a jurisprudência desta Corte Suprema no sentido de que não cabe agravo regimental contra decisão monocrática do relator que indefere pedido de liminar em habeas corpus.
+2. O não-conhecimento do agravo regimental pelo Tribunal a quo impossibilita o exame, por este Supremo Tribunal Federal, da questão relativa ao excesso de prazo, sob pena de incorrer em julgamento per saltum.
+3. Habeas corpus não-conhecido." (STF, HC 93.531/SP, PRIMEIRA TURMA, Rel. Ministro MENEZES DIREITO, DJe 30/05/2008.)
+Contudo, destaco que há ilegalidade patente apta à concessão da ordem de habeas corpus em diferente extensão, motivo pelo qual passo a analisar o mérito da impetração.
+No presentemandamus, a parte Impetrante requer, no mérito, a fixação do regime inicial aberto.
+A propósito do regime inicial de cumprimento de pena, pondero, preliminarmente, que, em 27/06/2012, o Tribunal Pleno da Corte Suprema, ao julgar o HC n. 111.840/ES, Rel. Ministro DIAS TOFFOLI, declarou incidentalmente, por maioria, a inconstitucionalidade do § 1.º do art. 2.º da Lei n. 8.072/1990 (redação dada pela Lei n. 11.464/07) e afastou a obrigatoriedade apriorística de se fixar o regime inicial fechado para os condenados por tráfico.
+Assim, independentemente do caráter hediondo do crime, deve o julgador, ao fixar o regime inicial de cumprimento da pena privativa de liberdade, observar o disposto no art. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal.
+No caso, o Juízo sentenciante, apesar de reconhecer a figura do tráfico privilegiado, ao fixar o regime inicial fechado, destacou que (fls. 223-225):
+"Para o crime do Art. 33, da Lei de Drogas, é prevista a pena de reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias- multa.
+Atendendo aos ditames do artigo 59 do Código Penal, não há circunstâncias a serem consideradas, sendo a quantidade expressiva de drogas considerada na terceira fase da dosimetria.
+Na segunda fase, não há circunstâncias agravantes a serem consideradas, tampouco atenuantes.
+Na terceira fase, verifico que a réfaz jus à redução prevista no § 4ª, artigo 33, da Lei 11.343/06, posto que primária e não há indícios que integre organização criminosa.
+Por outro lado, a quantidade expressiva da droga e a sua natureza impedem a redução máxima prevista. Por tais motivos, considerando as circunstâncias do caso em tela já explicitadas, bem como os parâmetros discricionários do parágrafo acima citado, diminuo a pena para alcançar o patamar de 02 (dois) anos de reclusão e 200 (duzentos) dias-multa.
+Ausentes outras circunstâncias torno a pena definitiva.
+Não há maiores dados a respeito da situação econômica da ré e, em razão disto, fixo o dia-multa em seu valor unitário.
+Considerando o disposto no art. 2º § 1º da Lei nº. 8.072/90, mas levando em conta também a gravidade in concreto do delito praticado, notadamente diante da quantidade e natureza da droga apreendida, deve ser fixado o regime fechado para início do cumprimento da pena privativa de liberdade.
+III - CONCLUSÃO
+Ante o exposto, JULGO PROCEDENTE o pedido para condenar o réu THAYNA DE FREITAS LOPES, qualificado nos autos, como incurso no artigo 33, "caput", da Lei 11343/06, a pena de 02 (dois) anos de reclusão, em regime inicial fechado e 200 (duzentos) dias-multa, em seu valor unitário.
+A ré poderá recorrer em liberdade."
+O Tribunal a quo negou provimento à apelação defensiva aduzindo que (fl. 274):
+" ..
+O regime prisional fixado para o início do cumprimento da reprimenda deve mesmo ser o fechado, seja por expressa previsão legal no artigo 2º, § 1º, da Lei nº 8.072/90, seja pela gravidade e hediondez do crime. Além disso, a imposição de regime prisional mais gravoso, mesmo com a aplicação indevida do esdrúxulo redutor especial, é uma necessidade social, reflexo de um juízo de valor da sociedade que clama por maior rigor da resposta estatal na reprimenda desse mal, especialmente em se tratando de crime de tamanha nocividade ao meio, como é o caso do tráfico de drogas, ainda mais em se considerando as circunstâncias fáticas essenciais.
+De outra parte, a fixação do regime inicial fechado (artigo 33, § 3º, do Código Penal), em cotejo com a quantidade da sanção penal estabelecida, não representa ofensa à regra da proporcionalidade, como já destacou o Superior Tribunal de Justiça (HC nº 331.685-SP, rel. Min. Jorge Mussi, 5ª T., j. em 23.02.2016):
+"1. A teor da jurisprudência reiterada deste Sodalício, a escolha do regime prisional inicial não está atrelada, de modo absoluto, ao quantum da pena firmada, devendo-se considerar as demais circunstâncias do caso versado"."
+Na espécie, embora considerando que as circunstâncias apreciadas na formulação da dosimetria levaram à fixação de reprimenda corporal inferior a 4 (quatro) anos de reclusão, bem como a ausência de circunstâncias judiciais negativas, a quantidade e a natureza da droga apreendida - 160 gramas de cocaína - justificam o estabelecimento do regime semiaberto e não recomendam a substituição por restritivas de direitos.
+Com igual conclusão, cito os seguintes precedentes:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. MODIFICAÇÃO DO REGIME PRISIONAL PARA O ABERTO. IMPOSSIBILIDADE. QUANTIDADE E VARIEDADE DOS ENTORPECENTES APREENDIDOS. PEDIDO DE CONCESSÃO DE HABEAS CORPUS DE OFÍCIO. DESCABIMENTO, INICIATIVA PRIVATIVA DO ÓRGÃO JULGADOR. RECURSO DESPROVIDO.
+ ..
+2. No caso, embora estabelecida a pena definitiva em 3 anos e 4 meses de reclusão, a quantidade e a diversidade de entorpecentes apreendidos (30 porções contendo 55,2 gramas de maconha, 60 porções com 60 gramas de cocaína e 33 ( porções com 16,3 gramas de cocaína em forma de "crack"), utilizadas na escolha do patamar de diminuição do benefício do art. 33, §4º, da Lei n. 11.343/2006, justificam a imposição de regime prisional mais gravoso, o semiaberto, em razão da quantidade, variedade e natureza dos entorpecentes apreendidos.
+3. As mesmas razões não recomendam a substituição da pena privativa de liberdade por penas restritivas de direitos.
+ ..
+5. Agravo regimental improvido." (AgRg no AgRg no AREsp 1.844.981/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021, sem grifos no original.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO. APLICAÇÃO DA MINORANTE. AFASTAMENTO COM SUPORTE NA AUSÊNCIA DE COMPROVAÇÃO DE ATIVIDADE LÍCITA E NA QUANTIDADE DE DROGA APREENDIDA. REGIME SEMIABERTO. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+ ..
+3. Fixado o regime prisional semiaberto em razão da relevante quantidade de entorpecentes apreendida, nos termos do reconhecido na sentença condenatória.
+4. Agravo regimental improvido." (AgRg no HC 581.222/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 01/09/2020, DJe 16/09/2020, grifei.)
+Ante o exposto, NÃO CONHEÇO DO AGRAVO REGIMENTAL. Contudo, CONCEDO A ORDEM de habeas corpus, em diferente extensão, para fixar o regime SEMIABERTO para o início do cumprimento da reprimenda.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. INDEFERIMENTO DO PEDIDO LIMINAR. DESCABIMENTO DE RECURSO. PRECEDENTES DESTA CORTE E DO SUPREMO TRIBUNAL FEDERAL. TRÁFICO DE DROGAS. REGIME INICIAL FECHADO. QUANTIDADE DE DROGAS EXACERBADA. POSSIBILIDADE DE FIXAÇÃO DO REGIME INICIAL SEMIABERTO. QUANTUM DE PENA INFERIOR A 4 ANOS, PACIENTE PRIMÁRIA, PENA-BASE FIXADA NO MÍNIMO LEGAL E CAUSA REDUTORA DO TRÁFICO PRIVILEGIADO RECONHECIDA PELAS INSTÂNCIAS ORDINÁRIAS. AGRAVO NÃO CONHECIDO. CONCESSÃO DA ORDEM DE HABEAS CORPUS, EM DIFERENTE EXTENSÃO, PARA FIXAÇÃO DO REGIME INICIAL SEMIABERTO.
