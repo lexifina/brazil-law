@@ -1,0 +1,15 @@
+Vistos etc.
+    Trata-se de embargos de declaração opostos por Violet Participações Ltda., de decisão monocrática da minha lavra, pela qual, na esteira da jurisprudência majoritária desta Suprema Corte, provido o recurso extraordinário para assentar a impenhorabilidade do bem de família dado em garantia de contrato de locação comercial.
+    A embargante aduz omisso o julgado “quanto ao fato de que o imóvel foi levado a leilão por outra parte em Ação de Cobrança de Condomínio e lá arrematado, muito menos podendo se falar em bem de família sobre saldo remanescente do leilão”. Alega inadmissível o apelo extremo ante a vedação à análise de fatos e provas. Argumenta “que é vedada reanálise de provas para que se discuta se o imóvel penhorado é ou não bem de família, conforme SÚMULA 279 DESTE EXCELSO STF, não poderia a r. decisão monocrática prover o recurso quando o V. ACÓRDÃO, assentado nas premissas fáticas e na análise das provas, entendeu que NÃO SE TRATAVA DE BEM DE FAMÍLIA, argumento que por si só, é suficiente para rejeição do recurso”. Afirma que “havendo fundamento que por si só é capaz de manter a decisão, e não tendo sido atacado pela Recorrente, é de se inadmitir o RExt, incidindo novamente a Súmula 283 desta Corte”. Sustenta a possibilidade de penhora do imóvel dado em garantia pelo embargado. Requer que “sejam os Embargos conhecidos e providos para que, uma vez sanadas as omissões, seja negado seguimento ao recurso por ausência dos pressupostos de admissibilidade, ou no mérito, seja-lhe negado provimento, mantendo-se integralmente o V. Acórdão e a r. decisão, pelos seus próprios e jurídicos fundamentos”.
+    É o relatório.
+    Decido.
+    Satisfeitos os pressupostos extrínsecos, passo à análise do mérito dos aclaratórios.
+    Após a publicação da decisão impugnada, a matéria relativa à penhorabilidade de bem de família de fiador em contrato de locação comercial restou submetida ao Plenário Virtual para análise quanto à existência de repercussão geral no RE 1.307.334-RG (Tema 1.127), verbis:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. CIVIL. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONTRATO DE LOCAÇÃO DE IMÓVEL COMERCIAL. BEM DE FAMÍLIA DO FIADOR. PENHORABILIDADE. TEMA 295. RE 612.360. DISTINGUISHING. FIANÇA DADA EM LOCAÇÃO RESIDENCIAL. MULTIPLICIDADE DE RECURSOS EXTRAORDINÁRIOS. DISSENSO JURISPRUDENCIAL. PAPEL UNIFORMIZADOR DO SUPREMO TRIBUNAL FEDERAL. RELEVÂNCIA DA QUESTÃO CONSTITUCIONAL. MANIFESTAÇÃO PELA EXISTÊNCIA DE REPERCUSSÃO GERAL” (RE 1307334 RG, Rel. Ministro Presidente, Tribunal Pleno, DJe 09.3.2021).
+    O art. 328 do RISTF autoriza a devolução dos recursos extraordinários e dos agravos aos Tribunais ou Turmas Recursais de origem para os fins previstos nos arts. 1.036 a 1.040 do CPC/2015.
+    Ante o exposto, reconsidero a decisão embargada para aplicar o paradigma da repercussão geral.
+     Devolvam-se os autos ao Tribunal a quo para os fins previstos nos arts. 1.036 a 1.040 do CPC/2015 considerado o RE 1.307.334-RG (Tema 1.127).
+    Publique-se.
+    Brasília, 18 de agosto de 2021.
+Ministra Rosa Weber
+Relatora
