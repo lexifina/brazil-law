@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de agravo em recurso especial que enfrenta acórdão com a seguinte ementa (fl. 613):
+APELAÇÃO CÍVEL. CO N CURSO PÚBLICO . FISCAL. DIVULGAÇÃO DA PRO VA. CAN DIDATO AUSEN TE. DAN O S M O RAIS. 1) A divulgação, por fiscais de concurso público, em redes sociais, de fotos de prova de candidato que não compareceu ao certame possui o condão de causar abalo moral indenizável. 2) o quantum da indenização por danos morais, nestas situações, deve observar as peculiaridades do caso concreto para que não importe em enriquecimento sem causa da vítima ou seja írrito a ponto de desmerecer o caráter pedagógico da medida. 3) Diante da responsabilidade solidária na reparação dos danos causados, é indevido o arbitramento de valor indenizatório com base em percentuais de participação de cada demandado, especialmente se o ato ilícito resultou da contribuição dos réus em conjunto. 4) Recursos não providos.
+No presente recurso especial, a parte recorrente aponta violação ao artigo 944 do Código Civil, eis que o valor arbitrado à título de danos morais é exorbitante.
+Neste agravo afirma que seu recurso especial satisfaz os requisitos de admissibilidade e que não se encontram presentes os óbices apontados na decisão agravada.
+É o relatório. Passo a decidir.
+Compulsando-se os autos, verifica-se que a Corte de origem, após ampla análise do conjunto fático-probatório, firmou compreensão de que são devidos os danos morais, pelo que fixou em R$ 20.000,00 (vinte mil reais) em razão "da divulgação das fotos da prova de concurso público para o qual o apelado não compareceu, conforme relatado no processo, por meio das redes sociais e jornais de grande circulação na capital, ocasionando ao autor abalos reconhecidos como a alegação de utilização de privilégios indevidos durante a aplicação da prova e hostilização pelos usuários da rede".
+Assim, tem-se que a revisão a que chegou o Tribunal de origem sobre a questão demanda o reexame dos fatos e provas constantes nos autos, o que é vedado no âmbito do recurso especial. Incide ao caso a Súmula 7/STJ.
+Frise-se que uma eventual discordância no âmbito desta Corte Superior de Justiça com o valor reconhecido pelas instâncias ordinárias não constitui fundamento suficiente a autorizar a revisão do quantum indenizatório, sendo necessária a caracterização da exorbitância ou irrisoriedade, em nítida afronta ao disposto no art. 944 do CC/2002, o que não ocorreu no caso dos autos.
+Ante o exposto, conheço agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DANO MORAL. VALOR. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.AGRAVOCONHECIDO PARA NÃO CONHECER O RECURSO ESPECIAL.
