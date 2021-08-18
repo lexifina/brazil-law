@@ -1,0 +1,49 @@
+DECISÃO
+INNOVAMAIS PRODUÇÕES E EVENTOS EIRELI E OUTRO (INNOVAMAIS e outro) ajuizaram ação de responsabilidade civil contra OCTAPLAN ARQUITETURA E PROMOÇÕES LTDA. - ME (OCTOPLAN) e , aduzindo em síntese a usurpação do direito à marca "Salão Bike Show" e seus frutos.
+Em primeira instância, o pedido foi julgado parcialmente procedente para condenar os réus Octaplan, Ramon, Gustavo, Isabel, Vera, IndigoBrasil e Flavio, a se absterem de utilizar a marca "RIO BIKE SHOW" a contar de 3 de fevereiro de 2015, pelo período de concessão de 10 anos, como informado no registro junto ao INPI, sob pena de ser devida multa no equivalente ao que deveriam pagar em indenização pela utilização indevida, com base no artigo 210, III, da lei 9.279/76, a ser liquidada por arbitramento (e-STJ, fls. 1.277/1.281).
+Dessa decisão as partes recorreram.
+O Tribunal de Justiça do Rio de Janeiro negou provimento aos apelos nos termos do acórdão assim ementado:
+APELAÇÕES CÍVEIS. Ação de obrigação de não fazer cumulada com pedido de reparação de danos materiais e morais, precedida das medidas cautelares de sequestro de bens, exibição e vistoria. Autor que reclama exclusividade na exploração da marca SALÃO BIKE SHOW e exige, com as cautelas preparatórias obtidas inaudita altera pars, o repasse dos ganhos obtidos entre janeiro de 2011 e janeiro de 2015 com a realização do evento sob esta denominação, ao argumento de que seu ex-sócio teria usurpado o projeto originalmente concebido e desenvolvido pela empresa autora. Registro expedido pelo INPI em 03/02/2015. Instrumento que não possui o alcance almejado pelos autores. Compete ao Poder Judiciário garantir proteção de marca a quem comprova efetivamente sua propriedade. Direito de uso exclusivo obtido após a realização dos eventos. Impossibilidade de imputar aos réus qualquer infração capaz de ensejar uma reparação civil, já que o direito de exclusividade sobre a marca exsurge apenas a partir da expedição do registro pelo órgão competente. Art. 129 da Lei n.º 9.279/96. Sentença que determina que os réus se abstenham da utilização da marca em eventos futuros. Medidas cautelares que perdem seu objeto pelo julgamento do mérito da ação principal. Decisão mantida. RECURSOS DESPROVIDOS (e-STJ, fl. 1.363).
+Os embargos de declaração opostos por INNOVAMAIS e outroforam rejeitados (e-STJ, fls. 1.410/1.415).
+Inconformado, INNOVAMAIS e outro manejaram recurso especial, fundamentado nas alíneas a e c do permissivo constitucional, alegando, a par de dissídio jurisprudencial, violação dos arts. 357, 369, 489 e 1.022 do CPC/15, sustentando, em síntese, (1) negativa de prestação jurisdicional, na medida em que o acórdão impugnado não apreciou o requerimento de produção de provas requerido na preliminar de apelação; e (2) cerceamento de defesa, pois o acordo impugnado afastou indevidamente a produção da prova requerida para alcançar a justa e inafastável prestação jurisdicional garantida na lei e na Constituição Federal.
+As contrarrazões foram apresentadas (e-STJ, fls. 1562/1.468).
+O apelo nobre não foi admitido na origem, ante a inexistência de negativa de prestação jurisdicional e incidência da Súmula n. 284 do STF (e-STJ, fls. 1.470/1.474).
+INNOVAMAIS e outro, então, interpuseram agravo em recurso especial, refutando os óbices de prelibação (e-STJ, fls. 1.601/1.625).
+Contraminuta não foi apresentada (e-STJ, fl. 1.630).
+É o relatório.
+DECIDO.
+O recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação dos arts. 489 e 1022 do NCPC
+INNOVAMAIS inicialmente alegou nas razões da insurgência especial,negativa de prestação jurisdicional, na medida em que o acórdão impugnado não apreciou o requerimento de produção de provas requerido na preliminar de apelação.
+Sem razão, contudo.
+O TJRJ, ao analisar o recurso aclaratório destacou que:
+5. Insurgem-se os recorrentes em face da omissão acerca dos requerimentos de produção de provas destinadas a apurar a extensão dos danos decorrentes da alegada usurpação da marca "Salão Bike Show", atribuída à conduta dos antigos sócios da INNOVAMAIS, contadores e produtores dos eventos que ocorreram entre os anos 2011 e 2015.
+Contudo, a pretensão deduzida nesta ação indenizatória não foi provida na medida em que os autores não detinham o direito de uso exclusivo da marca ao tempo da realização dos eventos, já que o registro de propriedade foi expedido apenas em 03/02/2015 pelo INPI, e somente a partir desta data estaria resguardado o direito de reivindicar o produto de sua exploração, pela inteligência do art. 129 da Lei 9.279/96.
+6. Deste modo, as razões de decidir adotadas por este julgador se restringiram ao cerne do caso proposto, qual seja, definir se os fatos narrados na exordial e sobre os quais não houve contradita foram capazes de ensejar o dever de indenizar, e neste aspecto, tanto a decisão proferida pelo juiz de primeiro grau quanto a deste Órgão Colegiado concluíram que não houve usurpação do direito de uso sobre a marca a partir de seu registro, e consequentemente, inexiste lesão passível de reparação.
+7. Afastada a ilicitude da conduta dos réus pela não comprovação do direito de exclusividade sobre a marca"Salão Bike Show", elide-se por completo a pretensão indenizatória dos recorrentes e, ao mesmo tempo, torna despicienda a produção de provas destinadas apenas à quantificação das perdas com o intuito de estimar o valor indenizatório que, ao final da instrução, o Magistrado entendeu indevido através do julgamento antecipado da lide.
+8. Justificado, portanto, o indeferimento do requerimento de produção das provas requeridas pelos autores já que nenhuma delas se dedica a constituir o direito pleiteado (e-STJ, fls. 1413/1415, sem destaques no original).
+Desse modo, tendo a Corte estadual se manifestado clara e fundamentadamente acerca dos pontos postos em debate, não há falar em omissão e/ou falta de fundamentação no julgado.
+Ademais, cumpre destacar que, se os fundamentos adotados no acórdão são aptos e suficientes para embasar a decisão, ainda que sentido contrário ao pretendido pelas partes, não há falar, assim, emafronta aos arts. 489 e 1022 do NCPC.
+(2)Do cerceamento de defesa
+O Tribunal bandeirante afastou a alegação de cerceamento de defesa pelo julgamento antecipado da lide, indeferindo, assim o pedido de realização de prova pericial, por entender que as provas constantes nos autos são suficientes para o julgamento da lide ao afirmar que a prova pericial não teria relevância para os autos, consoante destacado alhures.
+Assim, para alterar o entendimento acima, é necessário o reexame dos fatos
+da causa, o que encontra óbice no enunciado n. 7 do STJ.
+A esse respeito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO DE PEDIDO DE PRODUÇÃO DE PROVA. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA.REEXAME. SÚMULA 7/STJ.PLANO DE SAÚDE.CUSTEIO DE TRATAMENTO MÉDICO EM REDE NÃO CREDENCIADA. URGÊNCIA CONSTATADA. POSSIBILIDADE. SÚMULA 83/STJ. REEXAME. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. De acordo com a orientação jurisprudencial vigente nesta Corte Superior, pertence ao julgador a decisão acerca da conveniência e oportunidade sobre a necessidade de produção de determinado meio de prova, inexistindo cerceamento de defesa quando, mediante decisão fundamentada, indefere-se pedido de dilação da instrução probatória.
+2. A verificação da necessidade de produção da prova pericial requerida pela recorrente esbarra na Súmula 7/STJ.
+ .. .
+4. A modificação do posicionamento do Tribunal a quo acerca da inviabilidade da rede credenciada doplano de saúdepara a realização do tratamento médico exige o revolvimento de fatos e provas, o que não é possível diante da incidência da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.699.331/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 26/10/2020, DJe 29/10/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PLANO DE SAÚDE COLETIVO. REAJUSTE REPUTADO ABUSIVO. PROVA PERICIAL.INDEFERIMENTO. ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+2. O Tribunal de origem, com base nos elementos probatórios dos autos, afastou a alegação de nulidade da perícia. Alterar esse entendimento é inviável em recurso especial, de acordo com a referida súmula.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1102863/RJ, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 24/10/2017, DJe 30/10/2017).
+Nessas condições, CONHEÇO do agravo, para NÃO CONHECER do recurso especial.
+Majoro em 3% os honorários advocatícios anteriormente fixados em desfavor deINNOVAMAIS, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. MARCA. AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUJEITA ÀS NORMAS DO NCPC. AÇÃO DE RESPONSABILIDADE CIVIL. VIOLAÇÃO DOS ARTS. 489 E 1022 DO NCPC. OMISSÃO E FALTA DE FUNDAMENTAÇÃO INEXISTENTES. CERCEAMENTO DE DEFESA. PLEITO DE REALIZAÇÃO DE PERÍCIAL. DESNECESSIDADE. MUDANÇÃO DE ENTENDIMENTO. NECESSIDADE. REAPRECIAÇÃO DE FATOS E PROVAS. VEDAÇÃO. SÚMULA N. 7 DO STJ. AGRAVO CONHECIDO.RECURSO ESPECIAL NÃO CONHECIDO.
