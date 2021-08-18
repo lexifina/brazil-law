@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA.TESE DE PRECLUSÃO E VIOLAÇÃO À COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF.
+1. Verifica-se que as matérias pertinentes aos arts. 502 e 507 do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Agravo interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pelo Distrito Federalcontra decisão de fls. 117/119, que não conheceu do recurso especial, com base na incidência daSúmula282/STF.
+Inconformada, a parte agravante defende a inaplicabilidade do referido óbice, sob o argumento de que "o v. acórdão recorrido expressamente registrou que o Distrito Federal asseverou "que o agravante apresentou os cálculos que restaram devidamente homologados e que, no tocante aos parâmetros de atualização monetária, referida matéria está protegida pelo manto da preclusão, sendo que eventual discussão acerca do tema violaria os princípios da preclusão e da coisa julgada. Ao final, pugnou pelo desprovimento do recurso." (grifos nossos, v. fls.36).Ao dar provimento ao agravo da parte contrária assoma evidente, data vênia, que o v. acórdão recorrido rejeitou os fundamentos expostos pelo Distrito Federal em contrarrazões - preclusão e coisa julgada - na justa medida em que proclamado o entendimento de que "à data da propositura do cumprimento individual da sentença coletiva que reconheceu a exigibilidade de obrigação de pagar quantia certa pela Fazenda Pública (21/8/2019), o art. 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº 11.960/2009, ainda estava vigente quanto à atualização monetária da condenação imposta à Fazenda Pública, de natureza não-tributária, compreendendo o período entre o dano efetivo (ou o ajuizamento da demanda) e a imputação de responsabilidade à Administração Pública, em razão do efeito suspensivo deferido aos embargos de declaração interpostos no RE nº 870.947/SE (cuja decisão de mérito foi publicada em 3/2/2020), além de considerar que a ADI 5348 somente foi julgada consoante acórdão publicado no DJe de 28/11/2019, não se poderia exigir que o ora agravante apresentasse cálculos com aplicação de critério de atualização monetária diverso daquele estabelecido em lei. Visto isso, levando-se em consideração o decidido no RE 870.947/SE e na ADI 5348 e contemplando a jurisprudência do STF quanto à possibilidade de expedição de precatório complementar constatada a substituição de índices de atualização, não vislumbro óbice ao pleito do agravante referente à correção do cálculo e expedição dos requisitórios complementares, motivo pelo qual o presente recurso merece ser provido." (v. fls. 40)." (fl. 124).
+No mais, pretende ver reconhecida a preclusão e a violação à coisa julgada no caso dos autos.
+Houve impugnação às razões do recurso (fls. 137/146).
+É o relatório.
+EMENTA
+SERVIDOR PÚBLICO. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. CORREÇÃO MONETÁRIA.TESE DE PRECLUSÃO E VIOLAÇÃO À COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 282/STF.
+1. Verifica-se que as matérias pertinentes aos arts. 502 e 507 do CPC não foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que peseaos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Como antes asseverado,verifica-se que, de fato, as matérias pertinentesaos arts. 502 e 507 do CPCnão foram apreciadas pela instância judicante de origem, tampouco foram opostos embargos declaratórios para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 282/STF.
+A propósito:
+PROCESSUAL CIVIL. DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE.AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. RECURSO COM FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. DISPOSITIVO LEGAL APONTADO INAPTO A COMBATER AS CONCLUSÕES DO ARESTO IMPUGNADO. SÚMULA 284/STF. SERVIDOR PÚBLICO FEDERAL. MILITAR. REVISÃO DE ATO DE PROMOÇÃO. PRESCRIÇÃO DO FUNDO DE DIREITO.
+1. Não se pode conhecer do Recurso Especial Quanto à apontada afronta aos artigos da Constituição Federal de 1988, porquanto seu exame da violação de dispositivos constitucionais é de competência exclusiva do Supremo Tribunal Federal, conforme dispõe o art. 102, III, do permissivo constitucional.
+2. A irresignação do autor no que tange à necessidade de promoção não impugna os fundamentos trazidos pela Corte local, além de não se mostrar clara. Incide, por analogia, o óbice das Súmulas 283 e 284 do STF.
+3. Não se conhece de Recurso Especial quanto a matéria não especificamente enfrentada pelo Tribunal de origem, dada a ausência de prequestionamento. Incidência, por analogia, da Súmula 282/STF.
+4. Mesmo que considerássemos prequestionado o dispositivo, isso não seria bastante para infirmar as conclusões do acórdão. Aplicação, no ponto, por analogia, da já mencionada Súmula 284/STF.
+5. Mesmo que superados tais óbices processuais, o recurso não prosperaria, pois o STJ consolidou o entendimento de que, nas ações em que o militar postula sua promoção, como na hipótese dos autos, ocorre a prescrição do próprio fundo de direito após o transcurso de mais de cinco anos entre o ato de concessão e o ajuizamento da ação. Inaplicabilidade da teoria do trato sucessivo.
+6. Recurso Especial não conhecido.
+(REsp 1672894/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/06/2017, DJe 30/06/2017)
+Ante o exposto, nega-se provimento ao agravo interno.
+É o voto.
