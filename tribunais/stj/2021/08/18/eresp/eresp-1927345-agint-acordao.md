@@ -1,0 +1,57 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE.FORNECIMENTO DE MEDICAMENTO. ALEGAÇÃO DE NÃO CONSTAR NO ROL DA ANS. ROL EXEMPLIFICATIVO.PRECEDENTES DA TERCEIRA TURMA. NEGATIVA INDEVIDA DA ASSOCIAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em que pese a existência de precedente da eg. Quarta Turma de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS, esta eg. Terceira Turma, em recentíssimos julgados, reafirmou sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+4. Agravo interno não provido.
+RELATÓRIO
+CLAUDIA CRISTINA CAPOVILLA (CLAUDIA) ajuizou ação de obrigação de fazer em desfavor de ASSOCIAÇÃO DR. BARTHOLOMEU TACCHINI (ASSOCIAÇÃO), buscando o fornecimento de medicamento prescrito por seu médico.
+Em primeira instância, os pedidos foram julgados procedentes para, confirmando a decisão que antecipou os efeitos da tutela, condenar a ASSOCIAÇÃOao fornecimento da medicação Synvisc One, mediante infiltração intra-articular, pelo tempo necessário ao tratamento de CLAUDIA e na dosagem especificada na petição inicial (e-STJ, fls. 187/190).
+A apelação interposta pela ASSOCIAÇÃO não foi provida pelo Tribunal de Justiça do Rio Grande do Sul, nos termos do acórdão assim ementado:
+APELAÇÃO CÍVEL. SEGUROS. PLANO DE SAÚDE.APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR.CONDROMALÁCIA PATELAR DE GRAU IV. FORNECIMENTO DO FÁRMACO SYNVISC ONE. DEVER DE COBERTURA VERIFICADO.
+1. INCIDE O CÓDIGO DE DEFESA DO CONSUMIDOR NOS CONTRATOS DE PLANO DE SAÚDE, SALVO OS ADMINISTRADOS POR ENTIDADES DE AUTOGESTÃO, CONSOANTE DISPOSIÇÃO DO ARTIGO 3º, §2º, BEM COMO PELO QUE DISPÕE A SÚMULA Nº 608 DO SUPERIOR TRIBUNAL DE JUSTIÇA E O ARTIGO 35 DA LEI Nº 9.656/1998.
+2. AS COBERTURAS DE PROCEDIMENTOS MÉDICOS POR PLANOS DE SAÚDE SE SUJEITAM A UM ROL MÍNIMO EDITADO PELA ANS, O QUAL NÃO PODE PREVER AS HIPÓTESES DO ART.
+10 DA LEI Nº 9.656/98 E NÃO PODE EXCLUIR OU MITIGAR AS HIPÓTESES DO ART. 12 DA MESMA LEI.NÃO OBSTANTE, EVIDENTEMENTE QUE OS CONTRATOS FIRMADOS PODEM ALARGAR O ESPECTRO MÍNIMO DE COBERTURA, INCLUSIVE COBRINDO AS HIPÓTESES DO CITADO ART. 10.
+3. NO PONTO, CUMPRE DESTACAR QUE, CONFORME JURISPRUDÊNCIA DESTA C. CÂMARA CÍVEL, O ROL DE PROCEDIMENTOS E EVENTOS EM SAÚDE PUBLICADO PELA AGÊNCIA NACIONAL DE SAÚDE SUPLEMENTAR É TÃO SOMENTE REFERÊNCIA BÁSICA DE COBERTURAS OBRIGATÓRIAS NOS PLANOS PRIVADOS DE ASSISTÊNCIA À SAÚDE, NÃO POSSUINDO CARÁTER TAXATIVO.
+4. RESSALTE-SE, OUTROSSIM, QUE, CONFORME JURISPRUDÊNCIA DESTA C. CÂMARA CÍVEL, É FACULTADO AOS PLANOS DE SAÚDE ESTABELECEREM PARA QUAIS PATOLOGIAS IRÃO OFERECER COBERTURA; NO ENTANTO, NÃO PODEM LIMITAR O TRATAMENTO,POIS ESTE CABE SOMENTE AO MÉDICO ASSISTENTE DO PACIENTE SEGURADO, CONHECEDOR DAS PECULIARIDADES DE SEU QUADRO CLÍNICO, SENDO INDEVIDA RECUSA DE COBERTURA SOB A ALEGAÇÃO DE QUE SE TRATA DE MEDICAMENTO EXPERIMENTAL.
+5. NESTAS CIRCUNSTÂNCIAS, DEMONSTRADA A NECESSIDADE DO FORNECIMENTO DO FÁRMACO PLEITEADO PARA TRATAMENTO DE CONDROMALÁCIA PATELAR DE GRAU IV QUE ACOMETE A PARTE AUTORA E SENDO INCONTROVERSO QUE A DEMANDANTE É BENEFICIÁRIA DE PLANO DE SAÚDE OFERTADO PELA PARTE RÉ, ASSIM COMO QUE CUMPRIDAS TODAS AS CARÊNCIAS CONTRATUALMENTE EXIGIDAS, AFIGURA-RE IMPERIOSO O RECONHECIMENTO DO DEVER DE COBERTURA.
+6. POR FIM, PONTUO QUE, EVIDENTEMENTE, A COBERTURA DEVERÁ SE DAR ENQUANTO PERSISTIR PRESCRIÇÃO MÉDICA;
+NÃO OBSTANTE,DISCUSSÃO CONCERNENTE À PERIODICIDADE COM QUE DEVERÁ SER RENOVADA A PRESCRIÇÃO MÉDICA, NÃO DIZ RESPEITO À FASE COGNITIVA, MAS A PROCEDIMENTOS ADMINISTRATIVOS A SEREM ADOTADOS PELA OPERADORA RÉ E À FASE DE CUMPRIMENTO DE SENTENÇA.
+7. ASSIM, A MANUTENÇÃO DA R. SENTENÇA DE PROCEDÊNCIA É MEDIDA QUE SE IMPÕE.
+8. DEIXO DE MAJORAR OS HONORÁRIOS DE SUCUMBÊNCIA EM SEDE RECURSAL, POIS JÁ FIXADOS NO TETO PREVISTO PELA LEI, DE ACORDO COM O ARTIGO 85, § 11, DO CPC.APELO DESPROVIDO(e-STJ, fls. 290/291).
+Os embargos de declaração opostos pela ASSOCIAÇÃO foram rejeitados (e- STJ, fls. 308/314).
+Inconformada, a ASSOCIAÇÃO interpôs recurso especial com fundamento no art. 105,III,alíneas a e c da CF, apontando a violação do art. 10, I e § 4º, da Lei nº 9.656/98 e art. 4º, III, da Lei nº 9.961/2000, ao sustentar (1) que, comoo regulamento do plano de saúde em que CLAUDIA está inscrita traz o rol de procedimentos médicos e eventos em saúde obrigatórios cobertos, nos moldes instituídos pela legislação vigente, e nele não se encontram os tratamentos pretendidos na presente ação,não esta obrigada a custeá-lo; e (2) que são válidas as disposições que limitam os direitos dos pacientesaté porque orol emitido pela Agência Nacional de Saúde Suplementar (ANS) é exaustivo.
+O recurso especial não foi provido, nos termos da decisão monocrática da minha relatoria, assim sumariada:
+CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. TRATAMENTOS MÉDICOS.RECUSA INDEVIDA. DEVER DE COBERTURA PELA OPERADORA.PRECEDENTES DA TERCEIRA TURMA. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 364).
+Nas razões do presente agravo interno,a ASSOCIAÇÃO, reiterou sua alegação de que como o tratamento pleiteado não consta do rol taxativo da ANS, não estáobrigada ao seu custeio, de acordo com precedentes desta Corte.
+Foi apresentada impugnação (e-STJ, fls. 400/402).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE.FORNECIMENTO DE MEDICAMENTO. ALEGAÇÃO DE NÃO CONSTAR NO ROL DA ANS. ROL EXEMPLIFICATIVO.PRECEDENTES DA TERCEIRA TURMA. NEGATIVA INDEVIDA DA ASSOCIAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Em que pese a existência de precedente da eg. Quarta Turma de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS, esta eg. Terceira Turma, em recentíssimos julgados, reafirmou sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos.
+3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido.
+4. Agravo interno não provido.
+VOTO
+De plano, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as conclusões externadas na decisão recorrida.
+Não obstante a existência de precedente em sentido contrário - (REsp nº 1.733.013/PR, da relatoria do Ministro LUIS FELIPE SALOMÃO, Quarta Turma, DJe 20/2/2020) -, esta Terceira Turma, em recentes julgados, já reafirmou expressamente seu posicionamento quanto ao caráter exemplificativo do rol de procedimentos da ANS, de modo que a ausência de previsão no referido rol não afasta do plano de saúde a obrigação de custear medicamento necessário ao tratamento de moléstia coberta contratualmente.
+Nesse sentido, confiram-se:
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.TRATAMENTO PRESCRITO PELO MÉDICO. LIMITAÇÃO DE SESSÕES DE TERAPIA. CONDUTA ABUSIVA. INDEVIDA NEGATIVA DE COBERTURA. PRECEDENTES. SÚMULA N. 83/STJ.RESSALVA DE ENTENDIMENTO DA TERCEIRA TURMA. AGRAVO INTERNO IMPROVIDO.
+1. Conforme entendimento desta Corte de Justiça "o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tipo de terapêutica indicada por profissional habilitado na busca da cura.Desse modo, entende-se ser abusiva a cláusula contratual que exclui tratamento, medicamento ou procedimento imprescindível, prescrito para garantir a saúde ou a vida do beneficiário" (AgInt no REsp 1453763/ES, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 1º/6/2020, DJe 15/6/2020).
+2. A jurisprudência desta Corte é de que, embora o procedimento indicado não conste no rol da ANS, não significa que não possa ser exigido pelo usuário, não servindo de fundamento para a negativa de cobertura de procedimento cujo tratamento da doença está previsto contratualmente.
+2.1. Cabe ressaltar o advento de um julgado da Quarta Turma em sentido contrário ao deste voto - REsp n. 1.733.013/PR, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2019, DJe 20/2/2020. Entretanto, esse precedente não vem sendo acompanhado pela Terceira Turma, que ratifica o seu entendimento quanto ao caráter exemplificativo do referido rol de procedimentos.
+3. Agravo interno improvido.
+(AgInt no AREsp 1.621.529/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 1º/3/2021, DJe 3/3/2021 - sem destaqueno original)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. ROL DA ANS. EXEMPLIFICATIVO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O rol de procedimentos da ANS tem caráter meramente exemplificativo, sendo abusiva a negativa da cobertura pelo plano de saúde do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. Agravo interno não provido.
+(AgInt no REsp 1.882. 735/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 8/2/2021, DJe 12/ 2/2021 - sem destaque no original)
+Nesse contexto, não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo interno não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
