@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por J. C. MAGALHÃES & CIA COMERCIO E REPRESENTAÇÕES LTDA. (TECAMPO) - em recuperação judicial -, tendo como suscitados o JUÍZO DE DIREITO DA 12ª VARA CÍVEL DE MACEIÓ/AL (JUÍZO DA RECUPERAÇÃO) e o JUÍZO DE DIREITO DA 14ª VARA CÍVEL DO FORO CENTRAL DE SÃO PAULO - SP (JUÍZO DA EXECUÇÃO).
+De acordo com a inicial a suscitante teve sua recuperação judicial deferida pela Justiça alagoana aos 25/3/2020.
+Ocorre que na Justiça estadual de São Paulo foi proposta pelo BANCO SAFRA S.A. ação de execução de título extrajudicial, cédula de crédito bancário, garantida por cessão fiduciária de recebíveis (Processo nº 1037561-37.2020.8.26.0100).
+O pedido liminar foi indeferido (e-STJ, fls. 303/304).
+Contra o indeferimento da liminar a TECAMPO opôs embargos de declaração (e-STJ, fls. 313/324), tendo sido apresentada impugnação pelo BANCO SAFRA S.A. às e-STJ, fls. 329/335.
+As informações foram prestadas pelos juízos suscitados às e-STJ, fls. 311/312 e 341/354.
+O Ministério Público Federal opinou pelo não conhecimento do conflito (e-STJ, fls. 355/359).
+É o relatório.
+DECIDO.
+A controvérsia gira em torno de se definir qual o juízo competente para decidir sobre os atos executórios do patrimônio de empresa em recuperação judicial.
+Conforme constou no relatório, o pedido de recuperação judicial da TECAMPO foi deferido pelo juízo alagoano aos 25/3/2020. Apesar disso, o juízo paulista prosseguiu com atos de constrição contra o patrimônio da empresa recuperanda, nos autos da execução de título extrajudicial - cédula de crédito bancário garantida por cessão fiduciária de recebíveis, ajuizada pelo Banco Safra S.A.
+Conforme documentos juntados com a petição inicial, o crédito do Banco Safra foi incluído na lista dos créditos quirografários pelo administrador judicial (e-STJ, fls. 51/52).
+O juízo do soerguimento, nas informações prestadas, noticiou que a relação dos credores pelo administrador judicial foi publicada aos 11/5/2021 (e-STJ, fl. 311).
+Nas informações prestadas pelo juízo da execução constou que os créditos garantidos por alienação fiduciária são extraconcursais, nos termos do § 3º, do artigo 49, da Lei nº 11.101/2005. Ainda, pontuou que não ficou configurado o conflito porque o juízo da recuperação judicial não declarou os bens perseguidos na execução como essenciais:
+Com a máxima vênia, não parece que haja um conflito de competências entre os Juízos da Recuperação Judicial e da Execução de crédito extraconcursal, na medida em que este último apenas deu cumprimento a ordem daquele, ressalvou que nunca expressamente declarou os bens a suspensão perseguidos em nesta relação execução aos crédito como de essenciais natureza e, extraconcursal ao contrário, como aquele objeto do processo executivo em curso em São Paulo. (e-STJ, fl. 345)
+No entanto, observa-se que o juízo do soerguimento ainda não se manifestou sobre a inclusão do crédito do Banco Safra S.A. no quadro geral de credores, na qualidade de crédito quirografário, tampouco sobre a essencialidade dos bens objeto de execução.
+Desse modo, é o caso de se declarar a competência do juízo da recuperação judicial.
+De início, observo que a discussão sobre a concursalidade do crédito não pode ser apreciada no âmbito do presente incidente processual, que se destina tão somente a definir a competência do juízo, sem adentrar no mérito das questões eventualmente controvertidas objeto de discussão nas instâncias ordinárias.
+Os créditos extraconcursais, apesar de não se submeterem ao plano recuperacional, sujeitam-se ao juízo universal de modo a evitar que ocorra a expropriação de bens essenciais à continuidade das atividades da empresa em soerguimento.
+De fato, a competência do juízo do soerguimento visa garantir a preferência dos referidos créditos e direcionar a execução ao juízo universal que, ciente da não submissão à recuperação, deverá avaliar a essencialidade dos bens passíveis de constrição, bem como a solidez do fluxo de caixa da recuperanda.
+Em casos como o presente, é firme a jurisprudência do STJ no sentido de que é atribuição exclusiva do juízo da recuperação judicial apreciar os atos de constrição que irão interferir na atividade empresarial, sendo competente para constatar o caráter extraconcursal do crédito discutido nos autos da ação de execução.
+Confiram-se os precedentes:
+CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CÉDULA DE PRODUTO RURAL. CESSÃO FIDUCIÁRIA. JUÍZO ACERCA DA ESSENCIALIDADE DO BEM PARA A ATIVIDADE EMPRESARIAL.
+1. Há absoluta convergência, entre doutrina e jurisprudência, que, em conformidade com o princípio da preservação da empresa, o juízo de valor acerca da essencialidade ou não de algum bem ao funcionamento da sociedade cumpre ser realizado pelo Juízo da recuperação judicial, que tem acesso a todas as informações sobre a real situação do patrimônio da recuperanda, o que tem o condão, inclusive, de impedir a retirada de bens essenciais, ainda que garantidos por alienação fiduciária, da posse da sociedade em recuperação (art. 49, § 3º, da LRF).
+2. É inviável, na estreita sede do conflito de competência, a deliberação acerca da natureza extraconcursal do crédito, o que é da estrita competência do Juízo da recuperação, a partir daí cabendo, se for o caso, os recursos pertinentes.
+3. Conflito conhecido para declarar a competência do Juízo de Direito da Vara Cível de Sertanópolis/PR.
+(CC 153.473/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, Segunda Seção, j. 9/5/2018, DJe 26/6/2018 - sem destaques no original)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. AGRAVO IMPROVIDO.
+1. São incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência das empresas devedoras, de modo a configurar conflito positivo de competência.
+2. Tratando-se de crédito constituído depois de ter o devedor ingressado com o pedido de recuperação judicial (crédito extraconcursal), está excluído do plano e de seus efeitos (art. 49, caput, da Lei n. 11.101/2005). Porém, a jurisprudência desta Corte tem entendido que, como forma de preservar tanto o direito creditório quanto a viabilidade do plano de recuperação judicial, o controle dos atos de constrição patrimonial relativos aos créditos extraconcursais deve prosseguir no Juízo universal.
+3. Franquear o pagamento dos créditos posteriores ao pedido de recuperação por meio de atos de constrição de bens sem nenhum controle de essencialidade por parte do Juízo universal acabará por inviabilizar, a um só tempo, o pagamento dos credores preferenciais, o pagamento dos credores concursais e, mais ainda, a retomada do equilíbrio financeiro da sociedade, o que terminará por ocasionar na convolação da recuperação judicial em falência, em prejuízo de todos os credores, sejam eles anteriores ou posteriores à recuperação judicial.
+4. Agravo regimental improvido.
+(AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, j. 24/5/2017, DJe 31/5/2017- sem destaque no original)
+PROCESSUAL CIVIL E COMERCIAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DA RECUPERAÇÃO. CRÉDITOS GARANTIDOS FIDUCIARIAMENTE. EXCLUSÃO DO PROCEDIMENTO DE RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO.
+1. Segundo a jurisprudência da Segunda Seção, a análise do caráter extraconcursal das dívidas da empresa em recuperação garantidas por alienação fiduciária deve ser realizada pelo juízo universal.
+2. O estreito âmbito cognitivo do incidente de conflito de competência permite apenas a declaração do juízo competente para decidir determinada questão, sendo inadequada, nesta via, a classificação do crédito cobrado da empresa em recuperação.
+3. Agravo regimental a que se nega provimento.
+(AgRg nos EDcl no CC 143.015/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, Segunda Seção, j. 22/2/2017, DJe 1/3/2017 - sem destaque no original)
+Em suma, cabe ao juízo do soerguimento avaliar a natureza extraconcursal ou não do crédito debatido, bem como a essencialidade de bens pertencentes à empresa em recuperação judicial.
+Nessas condições, CONHEÇO do conflito para declarar competente o JUÍZO DE DIREITO DA 12ª VARA CÍVEL DE MACEIÓ/AL para deliberar sobre os atos executórios ordenados na ação de execução de título extrajudicial nº 1037561-37.2020.8.26.0100, em curso perante o Juízo de Direito da 14ª Vara Cível do Foro Central de São Paulo - SP.
+Em consequência, JULGO PREJUDICADOS os embargos de declaração opostos às e-STJ, fls. 313/324.
+Publique-se. Intimem-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. INCIDENTE MANEJADO SOB A ÉGIDE DO CPC/2015. RECUPERAÇÃO JUDICIAL. DISCUSSÃO SOBRE A CONCURSALIDADE DO CRÉDITO. VIA INADEQUADA. ESSENCIALIDADE DOS BENS. PRINCÍPIO DA PRESERVAÇÃO DA EMPRESA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
