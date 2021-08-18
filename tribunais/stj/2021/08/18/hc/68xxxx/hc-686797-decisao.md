@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de CAMILA SOARES ZACARIAS, apontando como Autoridade Coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que aPaciente -presapreventivamente em 22/05/2020 -, foi pronunciada comoincursa no art. 121, § 2.º, incisos I e IV, c.c. o art. 14, inciso II, ambos do Código Penal, sendo-lhe negado o direito de recorrer em liberdade.
+A Defesa impetrouhabeas corpusperante o Tribunal de origem (HC n. 1.0000.21.116780-4/000), que não conheceu da impetração em acórdão assim ementado (fl. 47):
+"HABEAS CORPUS  HOMICÍDIO QUALIFICADO NA FORMA TENTADA  NEGATIVA DE AUTORIA  EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA  RECURSO EM SENTIDO ESTRITO JÁ APRECIADO E JULGADO  REVISÃO E MANUTENÇÃO DA PRISÃO PREVENTIVA  COMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA (STJ) PARA ANALISE DO PRESENTE WRIT  HIPÓTESE DE NÃO CONHECIMENTO DO MANDAMUS. Uma vez que esta egrégia Corte de Justiça já se manifestou, em sede de Recurso em Sentido Estrito, acerca da necessidade de manutenção da prisão preventiva da paciente, passou a ser autoridade coatora, sendo incabível, portanto, o conhecimento do presente habeas corpus, por ausência de constrangimento ilegal por parte da autoridade apontada."
+Nestewrit, a parte Impetrante alega, em síntese,que há excesso de prazo para a realização do julgamento pelo Tribunal do Júri. Aduz, ainda, ser necessária a reavaliação da necessidade da custódia cautelar.
+Requer, em liminar e no mérito, o relaxamento da prisão provisória da Paciente ou, ainda, a substituição da custódia por medidas cautelares diversas.
+É o relatório.Decido.
+Observa-se, da acurada leitura dos autos, que a tese apresentadanas razões do presentewrit e também da impetração originária - consubstanciada na alegação de excesso de prazo para a realização do julgamento pelo Tribunal do Júri- não foi examinada e decidida pelo Tribunalde origem. Desse modo, a questão não pode ser originariamente apreciada por esta Corte, sob pena de indevida supressão de instância.
+Ante o exposto, NÃO CONHEÇO dohabeas corpus. Outrossim, determino o retorno dos autos ao Tribunal de Justiça do Estado de Minas Gerais, a fim de que aprecie a tese apresentada na impetração originária- relativa ao suposto excesso de prazo para a realização do julgamento da Paciente pelo Tribunal do Júri-, decidindo como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO TENTADO. TESE DE EXCESSO DE PRAZO PARA O JULGAMENTO PELO TRIBUNAL DO JÚRI. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. ORDEM DEHABEAS CORPUSNÃO CONHECIDA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM.
