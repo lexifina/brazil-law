@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu do agravo interno em virtude da incidência da Súmula nº 182 do STJ.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+RELATÓRIO
+PEDRO JOSÉ DO NASCIMENTO (PEDRO) promoveu ação de revisão contratual cumulada com repetição de indébito contra FAY PARTICIPAÇÕES E EMPREENDIMENTOS S.S. LTDA. (FAY) e COBANGE CONSTRUÇÕES LTDA. (COBANGE), objetivando a revisão das cláusulas do compromisso de compra e venda firmado entre as partes, sob a alegação de que continha cláusulas abusivas que culminaram na cobrança de valores ilegítimos. Pleiteou, ainda, a consignação em pagamento do valor incontroverso e a repetição do indébito.
+Em primeira instância, os pedidos foram julgados parcialmente procedentes, para declarar legítimos os depósitos judiciais realizados até a data da prolação da sentença, tomados como forma de pagamento parcial do débito. A tutela antecipada inicialmente concedida foi revogada e facultado à parte requerida o levantamento de valores depositados nos autos. Em razão da sucumbência, PEDRO foi condenado ao pagamento de custas e despesas processuais, bem como de honorários advocatícios arbitrados em 10% sobre o valor da causa (e-STJ, fls. 391/395).
+A apelação interposta por PEDRO foi parcialmente provida pelo Tribunal de Justiça de São Paulo, nos termos do acórdão de relatoria do Des. Luiz Antônio Costa, assim ementado:
+Contratos - Revisional - Inversão do ônus da prova - Preclusão - Cerceamento de defesa - Ausência - Próprio Apelante dispensou nova manifestação da Perita - Alegação de abusividade de IGPM acumulado expressamente enfrentada pelo d. Juiz "a quo" - Cláusula impõe associação irretratável a associação de moradores - Ofensa ao direito fundamental à liberdade associativa (CRFB 5º XX) - Precedentes - Recurso parcialmente provido (e-STJ, fl. 440).
+Os embargos de declaração opostos por PEDRO foram parcialmente providos para o fim de decretar nulidade da cláusula 6ª do contrato. E, em razão da sucumbência, por ter a parte apelante vencido parte dos pedidos, cada parte foi condenada a indenizar metade das custas e despesas processuais da outra, bem como a pagar metade dos honorários do representante da adversária fixados em 15% sobre o valor da causa atualizado, em razão do desenvolvimento de fase recursal (CPC 85 § 11) (e-STJ, fls. 481/487).
+Irresignado, PEDRO interpôs recurso especial, com fulcro no art. 105, III, a e c, da CF, alegando a violação dos arts 489, § 1º, I, II, IV, V e VI, 1.022, parágrafo único, II, 1.024 e 1.025 do NCPC.
+O apelo nobre não foi admitido em virtude da inexistência de ofensa aos arts. 489, 1.022 e 1.024 do NCPC.
+O agravo em recurso especial daí decorrente foi conhecido para negar provimento ao recurso especial em decisão monocrática de minha lavra assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. AÇÃO. REVISIONAL. REPETIÇÃO DE INDÉBITO. VIOLAÇÃO DOS ARTS 489, § 1º, I, II, IV, V E VI, 1.022, PARÁGRAFO ÚNICO, II, 1.024 E 1.025 DO NCPC. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO (e-STJ, fl. 560 - com destaque no original).
+Nas razões dos presentes embargos de declaração, PEDRO, repisando os argumentos trazidos nas razões do agravo interno, alegou que o agravo em recurso especial foi superado, pois foi julgado o recurso especial havendo erro no julgamento do agravo interno.
+Não houve impugnação ao recurso (e-STJ, fls. 638/640).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO, OBSCURIDADE, CONTRADIÇÃO OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. RECURSO PROTELATÓRIO. IMPOSIÇÃO DE MULTA. ART. 1.026, § 2º, DO NCPC. DECISÃO MANTIDA. EMBARGOS REJEITADOS, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexistentes as hipóteses do art. 1.022 do NCPC, não merecem acolhimento os embargos de declaração que têm nítido caráter infringente.
+3. Os aclaratórios não se prestam à manifestação de inconformismo ou à rediscussão do julgado que não conheceu do agravo interno em virtude da incidência da Súmula nº 182 do STJ.
+4. Em virtude da rejeição dos presentes aclaratórios, e sendo evidenciado o seu caráter manifestamente protelatório, incide ao caso a multa prevista no art. 1.026, § 2º, do NCPC, no percentual de 2% sobre o valor atualizado da causa.
+5. Embargos de declaração rejeitados, com imposição de multa.
+VOTO
+Os embargos de declaração não comportam acolhimento.
+De plano, vale pontuar que os presentes embargos de declaração foram opostos contra acórdão publicado na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece acolhimento em virtude da ausência dos vícios previstos no art. 1.022 do NCPC.
+O acórdão recorrido não foi obscuro, omisso, contraditório e tampouco apresentou erro material, tendo concluído que o agravo em recurso especial não impugnou os fundamentos da ausência de violação dos arts. 489, § 1º, I, II, IV, V e VI, 1.022, parágrafo único, II, 1.024 e 1.025 do NCPC, incidindo da Súmula nº 182 do STJ.
+Ficou explicitado que, nas razões do agravo interno, PEDRO, repisando os argumentos das razões recursais, somente havia alegado (1) que não houve indeferimento da inversão do ônus da prova; (2) que sempre houve a pretensão da correção monetária com base no IPGM anual acumulado, o que caracteriza sua incidência mensal e não anual; (3) que não houve a manifestação quanto a legalidade da capitalização do IGP-M; e (4) que o que se discute é a cumulação brutal do IGP-M desde a data da assinatura do contrato.
+Salientou-se, ainda, que, na hipótese em que se pretende impugnar, no agravo em recurso especial, o fundamento da violação dos arts. 489 e 1.022 do NCPC, a ausência de obscuridade, contradição, omissão ou erro e ausência de fundamentação, impõe-se ao agravante demonstrar que o Tribunal local não enfrentou, de modo fundamentado, todos os pontos necessários ao deslinde da controvérsia, o que não se observa no caso concreto.
+Destacou-seque não houve o adequado confronto do fundamento da decisão agravada no que tange aos óbices da ausência de violação dos arts. 489, § 1º, I, II, IV, V e VI, 1.022, parágrafo único, II, 1.024 e 1.025 do NCPC.
+Vale salientar que os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, j. 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+ ..
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaques no original)
+Em suma, a pretensão desborda das hipóteses de cabimento dos aclaratórios, previstas no art. 1.022 do NCPC.
+Assim, evidenciado o caráter manifestamente protelatório dos aclaratórios, uma vez verificado o não conhecimento do agravo interno e a rejeição dos presentes aclaratórios com pretensão de efeito infringente, postergando a efetividade da prestação jurisdicional, condeno PEDROao pagamento da multa de 2% sobre o valor atualizado da causaem favor de FAY e COBANGE, proporcionalmente, nos termos do art. 1.026, § 2º, do NCPC.
+Nessas condições, pelo meu voto, REJEITO os embargos de declaração, com imposição da multa.
