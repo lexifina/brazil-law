@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRF da 4ª Região, assim ementado (fls. 418):
+PREVIDENCIÁRIO. TEMPO DE CONTRIBUIÇÃO. CÔMPUTO DE PERÍODO EM QUE O SEGURADO ESTEVE EM GOZO DE AUXÍLIO- DOENÇA. POSSIBILIDADE, DESDE QUE INTERCALADO COM PERÍODOS CONTRIBUTIVOS.
+Não tem direito à aposentadoria por tempo de serviço/contribuição o segurado que, mediante a soma do tempo judicialmente reconhecido com o tempo computado na via administrativa, não possuir tempo su ciente e não implementar os demais requisitos para a concessão do benefício.
+A jurisprudência do TRF4  rmou posição reconhecendo a possibilidade de se computar o período em gozo de benefício de auxílio- doença ou aposentadoria por invalidez para  ns de carência, desde que intercalado com períodos contributivos.
+O recorrente aponta, além de divergência jurisprudencial,violação dos artigos 11, VI e 55, §3º, da Lei n. 8.213/91, sob o argumento de que deve ser reconhecido e averbado o tempo de serviço comum e especial, laborado como trabalhador avulso provisório para o Sindicato dos consertadores de carga e descarga dos Portos do Rio Grande do Sul.
+Por fim, alegaque o STJ tem decidido, deforma reiterada, pela consideração do período em gozode benefício por incapacidade, intercalado com períodos contributivos, como tempo de contribuição ficto e, inclusive como carência.
+Sem contrarrazões.
+Decisão de reversão em recurso especial às fls. 489.
+É o relatório. Passo a decidir.
+Quanto à questão primeira sobre o reconhecimento e averbaçãoo recorrente não indicou com precisão os normativos de lei federal ou tratado supostamente violados pelo acórdão recorrido, o que inviabiliza a exata compreensão da controvérsia e impede o conhecimento do recurso especial por deficiência na argumentação recursal, a teor da Súmula 284/STF.
+E ainda que assim não fosse, no caso, com relação a averbação do tempo de serviço comum em especial, colhe-se do acórdão recorrido a seguinte fundamentação (fls. 412/417):
+ ..
+O INSS insurge-se acerca do período de 19/09/1969 a 25/08/1974 reconhecido em face da ausência de prova material a comprovar a efetiva atividade do autor.
+O tempo de serviço urbano pode ser comprovado mediante a produção de início de prova material, complementada por prova testemunhal idônea - quando necessária ao preenchimento de eventuais lacunas - nãosendo esta admitida exclusivamente, salvo por motivo de força maior ou caso fortuito, a teor do previsto no artigo 55, § 3º, da Lei n.º 8.213/91.
+In casu, não se vislumbra início de prova material. Veja-se o documento colacionado com anotações do ano de 1972 não possui identi cação (evento 1 - padm9,  .8), assim, não tem valor probante. A declaração do Sindicato dos Consertadores de Carga e Descarga nos Portos do Estado do Rio Grande do Sul, informando o período de trabalho, presume-se realizada com base nos relatos do autor, já que a pesquisa da autarquia junto ao Sindicato (evento 8 - procadm 1,  . 46) constatou que não havia documentação.
+Dessa forma, considerando a ausência de início de prova material e não se admitindo a prova exclusivamente testemunhal, a sentença merece reforma no ponto.
+Assim, não reconhecido o período 19/09/1969 a 25/08/1974 como tempo de serviço urbano e, por consequência, a especialidade da atividade.
+Do que se observa, o Tribunal a quo consignou que não há como reconhecer o período de 19/9/1969 a 25/8/1974 como tempo de serviço urbano, afastando, portanto a especialidade da atividade.
+Assim sendo, é cediço que a alteração de tal conclusão, na forma pretendida pela insurgente, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que não é possível na via especial, a teor do óbice contido na Súmula 7/STJ.
+Nessa linha, confiram-se os seguintes precedentes (grifos nossos):
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. INSUFICIÊNCIA DOCUMENTAL. ENTENDIMENTO DO TRIBUNAL DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ. SENTENÇA TRABALHISTA MERAMENTE HOMOLOGATÓRIA. INÍCIO DE PROVA MATERIAL. IMPRESTABILIDADE. AUSÊNCIA DE OUTROS ELEMENTOS COMPROBATÓRIOS. JURISPRUDÊNCIA CONSOLIDADA DO STJ.
+1. A alteração das conclusões adotadas pela Corte local, no sentido da insuficiência comprobatória dos documentos acostados aos autos, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.  ..
+3 Agravo interno a que se nega provimento. (AgInt no AREsp 1.098.548/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 1/7/2019)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA POR TEMPO DE SERVIÇO. ATIVIDADE RURAL EM REGIME DE ECONOMIA FAMILIAR. SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O Tribunal a quo concluiu que a parte agravante não comprovou o exercício da atividade rural, porquanto, ausente inicio de prova material, devidamente corroborado por prova testemunhal. A revisão de tal entendimento encontra óbice na Súmula 7/STJ.
+2. O tempo de serviço do segurado trabalhador rural, prestado anteriormente à data de início de vigência da Lei n.º 8.213/91, será computado independentemente do recolhimento das contribuições a ele correspondentes, exceto para efeito de carência.
+3. Agravo interno não provido. (AgInt no REsp 1.793.400/RS, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 17/6/2019)
+Ainda,a divergência jurisprudencial suscitada não atende ao requisito da identidade fático-jurídica entre os acórdãos confrontados, uma vez que as peculiaridades do caso vertente não se encontram espelhadas nos paradigmas, os quais, a toda evidência, lastrearam-se em fatos, provas e circunstâncias distintas das constantes dos autos sob análise.
+Por fim,melhor sorte não socorre o recorrente, pois não rebateu o fundamento do acórdão recorrido, limitando-se a colacionar precedente do STF e desta Corte que corroboram com o entendimento adotado pela Corte de origem no sentido da possibilidade de o cômputo do tempo de gozo de benefício por incapacidade para aposentadoria, desde que haja intercalação com período contributivo. Assim, a Corte de origem nada mais fez do que aplicar a literalidade da lei e o entendimento sedimentado na jurisprudência desta Corte. É inviável o recurso especial quando o acórdão recorrido se orienta no sentido da jurisprudência assente no STJ.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APOSENTADORIA. CÔMPUTO.NÃO INDICAÇÃO DE DISPOSITIVO DE LEI FEDERAL SUPOSTAMENTE VIOLADO. SÚMULA 284/STF EREVISÃO DO ARCABOUÇO FÁTICO E PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. INCIDÊNCIA DASÚMULA83 DO STJ. RECURSO NÃO CONHECIDO.
