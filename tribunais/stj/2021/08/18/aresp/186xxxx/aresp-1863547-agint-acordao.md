@@ -1,0 +1,59 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA.GRATUIDADE DA JUSTIÇA. PESSOA NATURAL. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3.Agravo interno não provido.
+RELATÓRIO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente feito, pode-se inferir que RUBENS FERNANDES (RUBENS) promoveu ação de adjudicação compulsória contra MARIA LÚCIA DE FIGUEIREDO (MARIA), narrando que as partes firmaram contrato particular de compromisso de compra e venda com transferência de dívida do financiamento da casa residencial, objeto da avença. Alegou que está na posse do imóvel desde o ano de 1990, tendo quitado o financiamento do bem. Sustentou que, como desconhece o paradeiro de MARIA, seu pedido de adjudicação compulsória deve ser julgado procedente.
+Na ocasião, RUBENS requereu a concessão do benefício da assistência judiciária gratuita.
+Em primeira instância, o d. Juízo indeferiu o pedido de concessão do benefício pleiteado.
+Irresignado, RUBENS interpôs agravo de instrumento, alegando que é pessoa natural e que não possui condições de arcar com as custas e despesas processuais, sem prejuízo do sustento próprio e de sua família.
+O agravo de instrumento interposto por RUBENS não foi provido pelo Tribunal de Justiça de São Paulo, nos termos do acórdão relatado pelaDesembargadoraANA MARIA BALDY, assim ementado:
+JUSTIÇA GRATUITA. Indeferimento. Art. 5o, LXXIV, da Constituição Federal. Comprovação da alegada necessidade que se faz indispensável para a concessão do beneficio quando há elementos que infirmem o estado de pobreza. Requisitos para concessão do benefício não comprovados. Decisão mantida. RECURSO NÃO PROVIDO, com determinação (e-STJ, fl. 86).
+Inconformado, RUBENS manejou recurso especial, com amparo no art. 105, III, alínea a, da CF, alegando violação dos arts. 5º, XXXV, da CF, e 99, §§ 2º e 3º, do NCPC. Sustentou que não possui condições de arcar com as custas e despesas processuais, sem prejuízo do sustento próprio e de sua família.
+O apelo nobre interposto por RUBENS não foi admitido em virtude do seguinte (1) não cabimento de recurso especial alegando violação de norma constitucional; (2) ausência de afronta a dispositivo legal; (3) incidência da Súmula nº 7 do STJ; e(4) não comprovação da divergência jurisprudencial.
+Seguiu-se o agravo em recurso especial, que, por decisão monocrática da relatoria do Ministro Presidente do STJ, foi conhecido para não conhecer do apelo nobre, com amparo no art. 21-E, V, do RISTJ, por força da aplicação da Súmula nº 7 do STJ.
+Nas razões do presente agravo interno, RUBENS alegou que (1) foi violado o art. 99, § 3º, do NCPC; (2) não existe necessidade de revolvimento fático; (3) ele somente possui o imóvel sub judice; e(4) ele não possui condições de arcar com as custas e despesas processuais, sem prejuízo do sustento próprio e de sua família.
+Não houve impugnação ao recurso (e-STJ, fl. 141).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃO DE ADJUDICAÇÃO COMPULSÓRIA.GRATUIDADE DA JUSTIÇA. PESSOA NATURAL. INDEFERIMENTO. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3.Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+RUBENS insurgiu-se contra o acórdão recorrido, alegando ser cabível a concessão da gratuidade da justiça. Sustentou violação do art.99, §§ 2º e 3º, do NCPC, afirmando quenão possui condições de arcar com as custas e despesas processuais, sem prejuízo do sustento próprio e de sua família.
+A jurisprudência desta Corte é firme quanto ao deferimento da assistência judiciária gratuita para a pessoa física ou jurídica, desde que comprovada a impossibilidade de arcar com as despesas do processo sem prejuízo próprio.
+No entanto, ficou assentado que o Tribunal de Justiça bandeirante, soberano na análise das provas, entendeu não ter ficado comprovadosos requisitos para a concessão do benefício pleiteado, nos seguintes termos:
+Na hipótese dos autos, o agravante não traz elementos que demonstram indícios de carência que possam confirmar a declaração de pobreza acostada às fls. 11, não apontando com segurança para uma situação de necessitado.
+ ..
+No caso em comento, o agravante se absteve em apresentar qualquer documento, como carteira de trabalho, imposto de renda, extratos bancários, relações de bens, que pudessem comprovar de fato suas reais condições.
+Nesse contexto, tendo em vista que a presunção legal de pobreza prevista no artigo 99, §3º, do Código de Processo Civil às pessoas naturais é juris tantum e que compete aos interessados comprovar a ausência de condições financeiras para arcar com as despesas processuais de forma inequívoca, o que não aconteceu no caso em tela, de rigor a manutenção da r. decisão recorrida (e-STJ, fls. 88-89).
+Assim, deve-se considerar inviável a alteração da conclusão a que chegou o TJSP quanto ao tema, pois, para tanto, seria necessário reexaminar fatos e provas, providência vedada a esta Corte, de acordo com a Súmula nº 7 do STJ.
+A propósito, confiram-se os julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE NEGATIVA DE PRESTAÇÃO JURISDICIONAL. DEVER DE MOTIVAÇÃO. ART. 927 DO CPC/2015. JUSTIÇA GRATUITA. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA. REAVALIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. FALTA DE PREQUESTIONAMENTO. SÚMULA N. 211 DO STJ.PREQUESTIONAMENTO FICTO. OFENSA AO ART. 1.022 DO CPC/2015. ALEGAÇÃO ESPECÍFICA NECESSÁRIA. DECISÃO MANTIDA.
+1. Inexiste negativa de prestação jurisdicional quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. "Com exceção dos precedentes vinculantes previstos no rol do art.927 do CPC, inexiste obrigação do julgador em analisar e afastar todos os precedentes, acórdãos e sentenças, suscitados pelas partes" (AgInt no AREsp 1427771/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 24/06/2019, DJe 27/06/2019).
+3. O recurso especial não comporta o exame de questões que impliquem incursão no contexto fático-probatório dos autos, a teor do que dispõe a Súmula n. 7 do STJ.
+4. No caso concreto, o Tribunal de origem concluiu não ter sido demonstrada a situação de hipossuficiência do agravante. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, o que é vedado em recurso especial.
+5. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento.
+6. Prevalece no STJ o entendimento de que "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art.
+1.022 do CPC/2015, para que se possibilite ao órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp n. 1.639.314/MG, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017), o que não ocorreu no caso.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.491.014/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. 24/8/2020, DJe 28/8/2020)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. JUSTIÇA GRATUITA. PESSOA FÍSICA. ART. 1.022 DO CPC/2015. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. HIPOSSUFICIÊNCIA. AUSÊNCIA DE DEMONSTRAÇÃO. SÚMULA Nº 7/STJ. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Na hipótese, discute-se a revogação do benefício de assistência judiciária gratuita anteriormente concedida ao autor/agravante.
+3. Não subsiste a alegada ofensa ao art. 1.022, II, do CPC/2015, pois consta do acórdão recorrido o exame de todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia.
+4. O benefício da assistência judiciária gratuita pode ser pleiteado a qualquer tempo, sendo suficiente que a pessoa física declare não ter condições de arcar com as despesas processuais. Entretanto, tal presunção é relativa (art. 99, § 3º, do CPC/2015), podendo a parte contrária demonstrar a inexistência do alegado estado de hipossuficiência ou o julgador indeferir o pedido se encontrar elementos que coloquem em dúvida a condição financeira do peticionário. Precedentes.
+5. No caso concreto, o tribunal local concluiu pela ausência de documentos demonstrativos da alegada carência financeira do autor para arcar com as despesas processuais, revogando por isso o benefício da assistência judiciária. Não cabe ao Superior Tribunal de Justiça o reexame das premissas de fato que levaram o tribunal de origem a tal conclusão, sob pena de usurpar a competência das instâncias ordinárias, a quem compete o amplo juízo de cognição da lide. Incidência da Súmula nº 7/STJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.311.620/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 10/12/2018, DJe 14/12/2018)
+Assim, como RUBENSnão demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do recurso especial, por força daaplicação da Súmula nº 7 do STJ.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
