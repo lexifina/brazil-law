@@ -1,0 +1,55 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe – Processo Judicial eletrônico
+Recurso Especial no Agravo de Instrumento no 1003266-63.2021.811.0000
+Recorrente: RONALDO PADILHA DOS SANTOS
+Recorrida: AGRIBRASIL COMÉRCIO E EXPORTAÇÃO DE GRÃOS LTDA
+Vistos.
+Trata-se de recurso especial (id. 93215472) interposto por RONALDO PADILHA DOS SANTOS, com fundamento no art. 105, III, alínea “a”, da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, que deu provimento ao recurso de agravo de instrumento da recorrida, conforme a seguinte ementa (id. 85977981):
+“RECURSO DE AGRAVO DE INSTRUMENTO – PEDIDO DE TUTELA PROVISÓRIA DE URGÊNCIA CAUTELAR – SEQUESTRO DE PRODUTOS AGRÍCOLAS – REQUISITOS DEMONSTRADOS – DÍVIDA INADIMPLIDA – DECISÃO REFORMADA – RECURSO PROVIDO. I – Para a concessão da tutela cautelar, a parte deverá comprovar o preenchimento dos requisitos do artigo 300 do CPC, quais sejam o grau de probabilidade do direito invocado e o perigo de dano ou risco ao resultado útil do processo. II – O fumus boni iuris ficou evidenciado no instante em que o agravado deixou de cumprir com a obrigação de entregar o produto no prazo convencionado e na quantidade ajustada entre as partes, conforme resta cristalino no contrato. III – O periculum in mora ficou comprovado, diante do risco de prejuízos que a empresa recorrente pode vir a sofrer, com a falta dos produtos e o inadimplemento das próprias obrigações assumidas perante a sua cadeia de vendas. Além disso, cabe salientar que a não concessão da tutela judicial poderá esvaziar a própria pretensão da parte, no caso de o produto agrícola servir à satisfação de outras obrigações do agravado ou ser revendida para terceiros. (RAI n° 1003266-63.2021.811.0000, Rel. SERLY MARCONDES ALVES, QUARTA CÂMARA DE DIREITO PRIVADO, j. em 05/05/2021)”.
+Interpostos embargos de declaração, estes tiveram negado o provimento, conforme acórdão lançado no id. 89971983.
+O recorrente alega em suas razões violação aos arts. 489, § 1o, VI e 1.022, II do CPC, ao argumento de omissão no acórdão em relação a fatos, bem como em relação ao perigo de dano que paira sobre o recorrente. Sustenta que o acórdão foi superficial, considerando apenas o descumprimento contratual, mas sem levar em conta as razões que o ensejaram.
+Recurso tempestivo (id. 94158983).
+Devidamente preparado (Certidão de id. 94029459).
+Contrarrazões pelo não seguimento do recurso (id. 95796479).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+A hipótese prevista no art. 105, III, letra “a” da Constituição Federal prescreve a apreciação, pelo STJ, de recurso especial oposto contra acórdão que, em única ou última instância, tenha contrariado lei federal ou negado sua vigência.
+Entretanto, em que pesem as argumentações do recorrente, o recurso não pode alcançar o normal seguimento.
+Da suposta violação aos arts. 489, § 1°, IV e 1.022, II, do CPC.
+A partir da suposta ofensa aos arts. 489 § 1°, IV e 1.022, II, do CPC, o recorrente alega que o órgão fracionário deste Tribunal não teria abordado suficientemente as questões suscitadas nos autos, sendo omisso em relação a fatos, bem como em relação ao perigo de dano que paira sobre o recorrente, havendo analise superficial, considerando apenas o descumprimento contratual, mas sem levar em conta as razões que o ensejaram.
+Na hipótese dos autos, o juízo singular havia indeferido o pedido de tutela cautelar em caráter antecedente (sequestro de 26.000 sacas de soja 60kg, objeto de contrato de compra e venda n° 604, firmado entre as partes). Entretanto, o órgão fracionário deste Sodalício entendeu que, no caso, restaram preenchidos os requisitos do art. 300 do CPC, reformando a decisão de origem.
+Do exame do acórdão hostilizado, verifica-se a seguinte ponderação adotada nas razões de decidir:
+“O propósito recursal é analisar o acerto ou não da decisão que indeferiu o pedido liminar para determinar o sequestro de 26.000 (vinte e seis mil) sacas de soja de 60kg, objeto do Contrato de Compra e Venda no 604, firmado entre as partes.
+A respeito da tutela judicial discutida, infere-se do artigo 301 do Código de Processo Civil que o juiz poderá servir-se de medidas cautelares que busquem assegurar o direito pleiteado pela parte, mediante arresto, sequestro, arrolamento de bens, registro de protesto contra alienação fiduciária de bem ou qualquer outra medida idônea equivalente.
+Para a concessão da tutela cautelar, a parte deverá comprovar o preenchimento dos requisitos do artigo 300 do CPC, quais sejam o grau de probabilidade do direito invocado e o perigo de dano ou risco ao resultado útil do processo.
+A propósito:
+Art. 300. A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
+(...)
+Pelo que consta dos autos, o agravado, conforme indicado no Contrato de Compra e Venda de Soja no 604, assumiu perante o agravante a obrigação de entregar, entre os dias 01.01.2021 a 20.02.2021, a quantidade de 1.560.000 (um milhão quinhentos e sessenta mil) quilos de soja em grãos, no equivalente a 26.000 sacas de soja de 60kg, na Fazenda Santa Rita, na cidade de Feliz Natal-MT (id no 77789474).
+Nesse passo, o fumus boni iuris ficou evidenciado no instante em que o agravado deixou de cumprir com a obrigação de entregar o produto no prazo convencionado e na quantidade ajustada entre as partes, conforme resta cristalino no contrato.
+Sob a mesma ótica, o periculum in mora ficou comprovado, diante do risco de prejuízos que a empresa recorrente pode vir a sofrer, com a falta dos produtos e o inadimplemento das próprias obrigações assumidas perante a sua cadeia de vendas. Além disso, cabe salientar que a não concessão da tutela judicial poderá esvaziar a própria pretensão da parte, no caso de o produto agrícola servir à satisfação de outras obrigações do agravado ou ser revendida para terceiros.
+Assim, socorre à agravante, todos os requisitos da tutela de urgência cautelar, a fim de autorizar o sequestro do produto agrícola, na forma do contrato de compra e venda, condicionado ao depósito judicial do valor devido pelo comprador”. (grifei).
+O STJ já se pronunciou no seguinte sentido:
+“PROCESSUAL CIVIL. RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. 1. "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC". 2. Inexiste violação dos arts. 489, § 1o, IV, 1.013 e 1.022 do Código de Processo Civil de 2015 quando o Tribunal de origem enfrenta os vícios alegados nos embargos de declaração e emite pronunciamento fundamentado, ainda que contrário à pretensão da recorrente. 3. Agravo interno desprovido. (AgInt no AREsp 1431978/SP, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, j. em 09/09/2019, DJe 20/09/2019)”
+Diante desse quadro, não há evidência de violação aos art. 489 § 1°, IV e 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Ato decisório não definitivo (Súmula 735/STF)
+Nos termos do art. 105, III, da Constituição Federal, compete ao Superior Tribunal de Justiça a aplicação e a uniformização da interpretação de normas infraconstitucionais, contudo, impossibilitando o cabimento de recurso especial em face de acórdão proferido em sede de tutela provisória, dado o caráter precário da decisão.
+No caso dos autos, o acórdão hostilizado deu provimento ao agravo de instrumento, reformando a decisão que, na origem, havia indeferido pedido tutela cautelar.
+O órgão fracionário deste Sodalício decidiu no sentido de que, no caso, foram preenchidos os requisitos do art. 300 do CPC.
+Diante disso, neste caso, trata-se de decisão provisória, o que impede o seguimento do presente recurso ante o óbice da Sumula 735/STF (aplicável por analogia a esta via recursal):
+“Súmula 735/STF. Não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+Nesse sentido, vale conferir os seguintes julgados do STJ:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. TUTELA ANTECIPADA. NATUREZA PRECÁRIA E PROVISÓRIA DO JULGADO QUE, EM REGRA, NÃO AUTORIZA A INTERPOSIÇÃO DO RECURSO ESPECIAL. PRECEDENTES DO STJ. 1. A jurisprudência do Superior Tribunal de Justiça é no sentido de que, "à luz do disposto no enunciado da Súmula 735 do STF, em regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita à modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito. (...) 2. Agravo interno não provido. (AgInt no REsp 1845996/RS, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, j. em 01/06/2020, DJe 04/06/2020)” (grifei).
+“PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DIVERGÊNCIA INDEFERIDOS LIMINARMENTE. SÚMULA 315/STJ. INAPLICABILIDADE. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. SÚMULA 168/STJ. AGRAVO INTERNO PARCIALMENTE PROVIDO. I - Trata-se de agravo interno interposto contra decisão monocrática de indeferimento liminar dos embargos de divergência, diante da aplicação das Súmulas 315/STJ e ausência de similitude fática entre o acórdão embargado e os julgados paradigmas. (...) IV - A jurisprudência do Superior Tribunal de Justiça de acordo com o disposto sumula 735 do STF ("Não cabe recurso extraordinário contra acórdão que defere medida liminar"), entende que, via de regra, não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, pois "é sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas à base de cognição sumária e de juízo de mera verossimilhança. Por não representarem pronunciamento definitivo, mas provisório, a respeito do direito afirmado na demanda, são medidas, nesse aspecto, sujeitas à modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final. Em razão da natureza precária da decisão, em regra, não possuem o condão de ensejar a violação da legislação federal" (AgRg no REsp n. 1.159.745/DF, Segunda Turma, Min. Humberto Martins, DJe de 21/05/2010). Agravo interno parcialmente provido. (AgInt nos EAREsp 1517299/SP, Rel. Min. FELIX FISCHER, CORTE ESPECIAL, j. em 16/12/2020, DJe 18/12/2020)” (grifei).
+Portanto, ante a natureza precária da decisão, o recurso não alcança o juízo positivo de admissibilidade nesse ponto.
+Ante o exposto, nego seguimento ao recurso especial, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
