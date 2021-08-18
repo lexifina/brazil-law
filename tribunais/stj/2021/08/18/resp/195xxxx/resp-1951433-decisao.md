@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial, interposto por RONY GRUNER e OUTRA, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (fl. 266, e-STJ):
+APELAÇÃO CÍVEL. POSSE (BENS IMÓVEIS). AÇÃO DE REINTEGRAÇÃO DE POSSE. REQUISITOS DO ART. 561 DO CPC/15. PREENCHIDOS. POSSE ANTERIOR EVIDENCIADA. ESBULHO CONFIGURADO. POSSUIDOR DE BOA-FÉ. INDENIZAÇÃO POR BENFEITORIAS. DIREITO DE RETENÇÃO. POSSIBILIDADE. Reintegração de posse. A prova trazida aos autos é segura no sentido de que houve o esbulho por parte dos requeridos, pois incontroverso que edificaram a casa no terreno dos autores, demonstrando assim o preenchimento dos requisitos necessários para reintegração postulada. Dessa forma, preenchidos os pressupostos legais descritos no art. 561 do CPC/15 e considerando que os demandantes se desincumbiram do ônus imposto pelo art. 373, inciso 1, do CPC/15 e a parte ré, ao seu turno, não logrou êxito em provar fato modificativo, impeditivo ou extintivo do direito da parte autora, a manutenção da sentença é medida impositiva. Indenização por benfeitorias. É incontroversa a realização de benfeitorias pela parte ré/apelante, durante o tempo em deteve a posse do imóvel, fazendo jus à indenização pelas benfeitorias realizadas, bem como ao direito de retenção. Art. 1.219, do CC. Possuidor de boa-fé. A prova testemunhal atestou que não havia numeração indicativa ou placa nos lotes, havendo diversos terrenos baldios no loteamento, o que pode ter justificado a troca. E, em que pese as testemunhas terem relatado que o terreno seria cercado com arame farpado, este fato, por si só, não é suficiente para afastar a boa-fé dos réus/apelados, sobretudo porque foi solicitado até mesmo o levantamento topográfico antes de iniciar a construção. DERAM PARCIAL PROVIMENTO AO APELO. UNÂNIME.
+Opostosembargos de declaração, esses foram rejeitados (fls. 293-297, e-STJ).
+Nas razões de recurso especial (fls. 310-324, e-STJ), os recorrentes apontam, além de divergência jurisprudencial, violação ao art. 538, §1º do CPC/15, sustentando, em síntese, ausência de discriminação em contestação das benfeitorias realizadas.
+Contrarrazões às fls. 329-337, e-STJ.
+Após a decisão de admissão do recurso especial (fls. 339-343, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Cinge-se a controvérsia recursal quanto à ausência de discriminação em contestação das benfeitorias realizadas, sendo inviável, portanto, sua retenção.
+No particular, decidiu o Tribunal de piso (fls. 276-277, e-STJ - sem grifo no original):
+Com efeito, na ação possessória, o direito de indenização ou de retenção por benfeitorias pode ser deduzido na contestação, na forma de contrapedido, o que foi efetivamente atendido pelos réus/apelantes, que ratificaram o pleito através do presente recurso de apelação.
+As benfeitorias, por sua vez, devem ser devidamente especificadas na resposta, sob pena de preclusão, ressalvada apossibilidade de indenização mediante o ajuizamento de ação própria, nos termos do § 1º do art. 538 do CPC/2015:
+"A existência de benfeitorias deve ser alegada na fase de conhecimento, em contestação, de forma discriminada e com atribuição, sempre que possível e justificadamente, do respectivo valor".
+Para ilustrar, transcrevo lição de Silvio Venosa -1 , segundo o qual "as benfeitorias devem vir descritas e discriminadas. Simples menção genérica, sem conteúdo probatório no curso da ação possessória, é insuficiente para indenização e retenção".
+Não obstante a ausência de apontamento quanto ao valor devido, é incontroversa a existência das benfeitorias, não havendo óbice em se relegar à fase de liquidação para apuração do montante devido.
+Como se vê, o Órgão de origem, decidiu de acordo com a jurisprudência dessa Corte Superior, no sentido de que é necessário o pedido de retenção das benfeitorias em contestação.Nesse sentido:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. APLICAÇÃO DO CPC/15. AÇÃO DE RESOLUÇÃO DE CONTRATO C/C REINTEGRAÇÃO DE POSSE COM PEDIDO DE ANTECIPAÇÃO DE TUTELA C/C INDENIZAÇÃO POR DANOS MATERIAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA.
+VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. INDENIZAÇÃO POR BENFEITORIAS EM AÇÃO POSSESSÓRIA. NECESSIDADE DE FORMULAÇÃO DE PEDIDO AINDA QUE APÓS A CONTESTAÇÃO. PROVA DA EXISTÊNCIA E DISCRIMINAÇÃO DAS BENFEITORIAS. NECESSIDADE.
+1. Ação de resolução de contrato c/c reintegração de posse com pedido de antecipação de tutela c/c indenização por danos materiais, ajuizada em 09/08/2016. Autos conclusos para esta Relatora em 12/09/2019. Julgamento sob a égide do CPC/15.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Nas ações possessórias e considerando a natureza dúplice dessas, não é possível afastar a ocorrência de julgamento extra petita (fora do pedido) da indenização por benfeitorias, em benefício do réu revel, ante a não apresentação de contestação ou da ausência de formulação de pedido indenizatório em momento posterior.
+5. O deferimento do pleito de indenização por benfeitorias pressupõe a necessidade de comprovação da existência delas e da discriminação de forma correta. A fase de liquidação de sentença não é momento processual adequado para o reconhecimento da existência de benfeitorias a serem indenizadas, tendo o objetivo - apenas - de especificar o quantum debeatur (apuração do valor da indenização).
+6. Recurso especial conhecido e parcialmente provido.
+(REsp 1836846/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 22/09/2020, DJe 28/09/2020) -  grifou-se .
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO. INSURGÊNCIA DA DEMANDADA.
+1. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide, de modo que, ausente qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do CPC/73 2.Tendo o acórdão recorrido decidido a controvérsia relativa competência do órgão parcial para julgamento dos embargos de declação com base na interpretação de norma local - no caso, o Regimento Interno do Tribunal de Justiça -, incide, na espécie, o óbice da Súmula 280/STF, aplicável por analogia ao recurso especial.
+3. Consoante a jurisprudência deste Tribunal Superior, embora em sede de ação possessória, cujo comando judicial tem intensa força executiva, o pedido de retenção de benfeitorias deva ser formulado em sede de contestação, sob pena de preclusão consumativa e vedação à propositura de ação autônoma, nos feitos de natureza meramente declaratória o referido pedido pode ser manejado em ação própria.
+4. Agravo interno desprovido.
+(AgInt no REsp 1595685/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/06/2020, DJe 10/06/2020) - grifou-se .
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO POSSESSÓRIA. BENFEITORIAS. PEDIDO DE RETENÇÃO E ESPECIFICAÇÃO NA CONTESTAÇÃO. DECISÃO RECORRIDA NO MESMO SENTIDO DA JURISPRUDÊNCIA DO STJ. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. Na ação possessória, o pedido de retenção e a especificação das benfeitorias deve ser formulado na contestação. Precedentes.
+2. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+3. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1705437/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/08/2019, DJe 30/08/2019)  grifou-se .
+Com efeito, estando o entendimento do Tribunal de origem, no ponto, em harmonia com a jurisprudência deste Tribunal Superior sobre a matéria, inafastável a incidência do teor da Súmula 83/STJ.
+Ademais, alterara conclusão do Tribunal de origem, da maneira como exposta no apelo extremo,no sentido de que devidamente especificada as benfeitorias realizadas demandaria, necessariamente, a incursão no acervo fático-probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+2. Do exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
