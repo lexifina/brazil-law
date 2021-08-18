@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por UP BARROS COMERCIAL LTDA e OUTROScontra decisão que inadmitiu o recurso especial.
+O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", daConstituição Federal, por sua vez desafia acórdão prolatado pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 196,e-STJ):
+CIVIL E PROCESSUAL CIVIL - APELAÇÃO CÍVEL - EMBARGOS À EXECUÇÃO - CÉDULA DE CRÉDITO BANCÁRIO - PRODUÇÃO DE PROVA PERICIAL CONTÁBIL - DESNECESSIDADE - REGULARIDADE DO TÍTULO EXTRAJUDICIAL - CAPITALIZAÇÃO DE JUROS - LEGALIDADE
+I - A diligência técnica não se mostra imprescindível ao julgamento da lide, pois a fixação de critérios de reajustamento das prestações e do saldo devedor decorre de interpretação das cláusulas contratuais ou, no caso de alteração do pactuado, de razões de direito que formem o convencimento do juízo, não restando configurado, portanto, qualquer cerceamento de defesa.
+II - Ademais, é cediço que ao julgador é assegurado o livre convencimento, sendo-lhe permitida a livre apreciação de provas, inexistindo qualquer irregularidade na ausência de produção de prova pericial na medida em que o magistrado entendeu que o conjunto probatório carreado aos autos foi suficiente para o deslinde da questão.
+III - O reconhecimento da abusividade da taxa de juros aplicada está condicionado à comprovação de que a sua cobrança foi efetuada em patamar muito acima da taxa praticada pelo mercado.
+IV - Aplicável o entendimento sumulado pelo Superior Tribunal de Justiça(Súmula n. 539): "É permitida a capitalização de juros com periodicidade inferior à anual em contratos celebrados com instituições integrantes do Sistema Financeiro Nacional a partir de 31/3/2000 (MP n. 1.963-17/2000,reeditada como MP n. 2.170-36/2001), desde que expressamente pactuada.".
+V- Recurso não provido.
+Opostos embargos de declaração (fls. 207/209, e-STJ), esses foramdesacolhidos.
+Em suas razões recursais (fls. 242/252, e-STJ), osinsurgentes apontaramviolação aos artigos 489,1022, 798 e 803doCódigo de ProcessoCivil/15.Sustentaram, em síntese: i) negativa de prestaçãojurisdicional,por não terem sido supridas as omissões suscitadas nos aclaratórios emrelação ao valor da execução. Ovalor indicado na execução encontra-se lastreado em planilha de evolução de dívida relativa a outra pessoa jurídica, que não a agravante; ii) nulidade da execução, em razão da ausência de título líquido e certo; iii)o valor indicado na petição inicial da execução não guarda relação com o contrato celebrado com os Recorrentes, visto que se trata do montante devido por OUTRA EMPRESA.
+Contrarrazões às fls. 259/265, e-STJ.
+Em juízo de admissibilidade (fls. 299/302, e-STJ), negou-se oprocessamento do recurso especial, sob os seguintes fundamentos: i)ausência de negativa de prestação jurisdicional; ii)incidência da Súmula7 do STJ.
+Daí o agravo (fls. 312/318, e-STJ), buscando destrancar o processamentodaquela insurgência, no qual osinsurgentes refutaramos óbices aplicados pelaCorte estadual.
+Contraminuta às fls. 324/327, e-STJ.
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+1. Com efeito, no que tange à alegada violação aos artigos 489 e 1.022 do CPC/15,não merece acolhimento a insurgência, porquanto clara e suficiente afundamentação adotada pelo Tribunal de origem.
+Aduzem os agravantes a ocorrência de negativa de prestaçãojurisdicional,ao argumento de que o Tribunal de origem teria sido omisso em relação aoenfrentamento da questão relativa ao valor da execução. Alegam queovalor indicado na execução encontra-se lastreado em planilha de evolução de dívida relativa a outra pessoa jurídica, que não a agravante.
+Contudo, da leitura dos autos, constata-se que referida tese foiexpressamente examinada pela Corte a quo, consoante se denota dosseguintes trechos (fl. 191, e-STJ):
+Visto isso, da análise do título que fundamenta a ação de execução (Cédula de Crédito Bancário - Empréstimo PJ com Garantia FGO - Contrato n.º19.0970.558.0000023-75 - Evento 1, CONTR4 dos autos principais -50036494920194025101), não se constata qualquer ilegalidade no título negociado entre as partes.
+Verifica-se que o referido título de crédito está acompanhado de demonstrativo de atualização da dívida, informando o valor principal, a correção monetária, e a taxa de juros aplicada (Evento 1, PLAN7 dos referidos autos principais).
+Desse modo, não prospera a alegação de nulidade do título executivo extrajudicial, pois a CEF, ao ajuizar a ação executiva, a instruiu com a Cédula de Crédito Bancário e o respectivo demonstrativo do débito. Com isso, cumpriu-se a exigência dos artigos 28 e 29 da Lei 10.931/04, in verbis:
+Para melhor esclarecer, acresce-se os trechos da sentença (fls. 128/129,e-STJ):
+- DA ALEGAÇÃO DE NULIDADE DA EXECUÇÃOO
+O primeiro fundamento dos embargos é a nulidade da execução, uma vez que a exequente apresentou planilha referente a contrato diverso, pertencente à empresa J P J BAR E RESTAURANTE LTDA, a qual não teria relação com os ora embargantes.
+E a instrução inadequada do processo principal é evidente, pois, embora a execução refira-se ao contrato nº 19.0970.558.0000023-75, firmado com os ora embargantes, o cálculo constante do demonstrativo de débito (anexo 6 do evento 1 do processo principal) é do contrato nº 3187605000005770, firmado com a empresa J P J BAR E RESTAURANTE LTDA, no qual consta um débito total de R$ 212.272,98.
+No entanto, a planilha do anexo 7 daqueles autos refere-se ao contrato em execução, de nº 19.0970.558.0000023-75, apresentando em saldo devedor total de R$ 82.922,12 em 29/04/2017.
+Observa-se que a referida planilha indica claramente o valor contratado, a atualização monetária, a taxa de juros remuneratórios e moratórios, assim como a ausência de incidência da comissão de permanência.
+Nesse contexto, considerando o entendimento jurisprudencial consolidado no sentido de que a cédula de crédito bancário constitui título executivo extrajudicial (REsp 1291575/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDASEÇÃO, julgado em 14/08/2013, DJe 02/09/2013), e a existência de planilha suficiente à verificação da evolução da dívida, apesar do demonstrativo pertencer a contratodiverso, não se pode falar em ausência de liquidez, uma vez que os documentos apresentados permitem o pleno exercício do direito de defesa pela parte executada.
+Consequentemente, o efeito processual do equívoco cometido pela exequente, o qual, aliás, não foi corrigido mediante a apresentação de outro demonstrativo de cálculo, poderá ser o acolhimento do fundamento de excesso de execução, e não a extinção da execução.
+Desta forma, considerando que a questão trazida à discussão foi dirimidapelo Tribunal de origem de forma fundamentada e sem omissões oucontradições, merece ser afastada a alegada negativa de prestaçãojurisdicional.
+2. O Tribunal de origem, diante de todo o acervo fático-probatóriocarreado aos autos, entendeu que a ação está aparelhada com títulolíquido, certo e exigível apto a embasar a execução.
+A propósito, confira-se o seguinte excerto do acórdão recorrido (fl. 191,e-STJ):
+Visto isso, da análise do título que fundamenta a ação de execução (Cédula de Crédito Bancário - Empréstimo PJ com Garantia FGO - Contrato n.º19.0970.558.0000023-75 - Evento 1, CONTR4 dos autos principais -50036494920194025101), não se constata qualquer ilegalidade no título negociado entre as partes.
+Verifica-se que o referido título de crédito está acompanhado de demonstrativo de atualização da dívida, informando o valor principal, a correção monetária, e a taxa de juros aplicada (Evento 1, PLAN7 dos referidos autos principais).
+Desse modo, não prospera a alegação de nulidade do título executivo extrajudicial, pois a CEF, ao ajuizar a ação executiva, a instruiu com a Cédula de Crédito Bancário e o respectivo demonstrativo do débito. Com isso, cumpriu-se a exigência dos artigos 28 e 29 da Lei 10.931/04, in verbis:
+A modificação do entendimento lançado no v. acórdão recorrido, no tocanteà comprovação da certeza, liquidez e exigibilidade do título, demandaria orevolvimento do suporte fático-probatório dos autos, providência inviávelem sede de recurso especial, a teor do que dispõe o enunciado da Súmula7/STJ.
+Com essa orientação, confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDEDO NCPC. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO. CERTEZAE LIQUIDEZ.REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.IMPOSSIBILIDADE DE ANALISAR A DIVERGÊNCIA JURISPRUDENCIAL. INCIDÊNCIA DASSÚMULAS NºS 5 E 7, AMBAS DO STJ. AGRAVO INTERNO NÃO PROVIDO COM IMPOSIÇÃODE MULTA.
+(..)
+2. O acórdão estadual afirmou a liquidez, certeza e exigibilidade dotítulo executivo a partir da análise dos termos do contrato firmado entreas partes e das provas constantes dos autos. A revisão desse entendimento,na via especial, é obstada pelas Súmulas nºs 5 e 7, ambas do STJ.
+(..)
+5. Agravo interno não provido, com imposição de multa.
+(AgInt no AREsp 926.207/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA,julgado em 08/05/2018, DJe 18/05/2018)
+3. Ademais, quanto ao pedido dos agravantes para anular àexecução, uma vez que a exequente apresentou planilha referente a contrato diverso, pertencente à empresa J P J BAR E RESTAURANTE LTDA, a qual não teria relação com os ora embargantes, o Tribunal de origem consignou, in verbis (fls. 128/129, e-STJ):
+E a instrução inadequada do processo principal é evidente, pois, embora a execução refira-se ao contrato nº 19.0970.558.0000023-75, firmado com os ora embargantes, o cálculo constante do demonstrativo de débito (anexo 6 do evento 1 do processo principal) é do contrato nº 3187605000005770, firmado com a empresa J P J BAR E RESTAURANTE LTDA, no qual consta um débito total de R$ 212.272,98.
+No entanto, a planilha do anexo 7 daqueles autos refere-se ao contrato em execução, de nº 19.0970.558.0000023-75, apresentando em saldo devedor total de R$ 82.922,12 em 29/04/2017.
+Observa-se que a referida planilha indica claramente o valor contratado, a atualização monetária, a taxa de juros remuneratórios e moratórios, assim como a ausência de incidência da comissão de permanência.
+Nesse contexto, considerando o entendimento jurisprudencial consolidado no sentido de que a cédula de crédito bancário constitui título executivo extrajudicial (REsp 1291575/PR, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 14/08/2013, DJe 02/09/2013), e a existência de planilha suficiente à verificação da evolução da dívida, apesar do demonstrativo pertencer a contrato diverso, não se pode falar em ausência de liquidez, uma vez que os documentos apresentados permitem o pleno exercício do direito de defesa pela parte executada.
+Consequentemente, o efeito processual do equívoco cometido pela exequente, o qual, aliás, não foi corrigido mediante a apresentação de outro demonstrativo de cálculo, poderá ser o acolhimento do fundamento de excesso de execução, e não a extinção da execução.
+A modificação do entendimento lançado no v. acórdão recorrido, no tocante à comprovação da certeza, liquidez e exigibilidade do título por documento idôneo e demonstrativodo débito, demandaria o revolvimento do suporte fático-probatório dos autos, providência inviável em sede de recurso especial, a teor do que dispõe o enunciado da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. TÍTULO LÍQUIDO E CERTO. PLANILHA DE DÉBITO DEMONSTRANDO A EVOLUÇÃO DA DÍVIDA JUNTADA AOS AUTOS. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. ÔNUS DE SUCUMBÊNCIA.REDIMENSIONAMENTO. SÚMULA N. 7 DO STJ.
+(..)
+2. Rever o entendimento do Tribunal de origem, o qual afirmou que foi juntada aos autos a planilha de débito, onde se mencionou "todos os encargos incidentes sobre o valor do contrato, permitindo plena defesa pelos embargantes", e que destacou que o título é dotado de liquidez e certeza, demandaria reexame de matéria fática dos autos, o que encontra óbice na Súmula n. 7 do STJ.
+3. A revisão do julgado estadual, no tocante ao redimensionamento dos ônus sucumbenciais, também impõe incontornável reexame dos aspectos fáticos da lide, o que encontra, novamente, óbice na Súmula n. 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no Ag 1400243/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/02/2016, DJe 16/02/2016)
+4. Do exposto, com fulcro no artigo 932 do NCPC c/c a Súmula 568/STJ, nego provimento ao agravo, majorando em 10% (dez por cento) o valor dos honorários sucumbenciais fixados pelo Tribunal de origem, com base no art. 85, § 11, do NCPC.
+Publique-se.
+Intimem-se.
