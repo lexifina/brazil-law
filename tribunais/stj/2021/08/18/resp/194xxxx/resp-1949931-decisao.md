@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. HONORÁRIOS EM IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA.ARTIGO SUPOSTAMENTE VIOLADO NÃO PREQUESTIONADO PELO ACÓRDÃO RECORRIDO. INCIDÊNCIA DA SÚMULA 282/STF.RECURSO ESPECIAL DA FESP NÃO CONHECIDO.
+1. Trata-se de Recurso Especial interposto pela Fazenda do Estado de São Paulo,fundamentado na alínea ado permissivo constitucional, contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fls. 19):
+AGRAVO DE INSTRUMENTO - Cumprimento de sentença contra a Fazenda Pública - Alegação de excesso de execução em decorrência da aplicação do IPCA-E na correção monetária da condenação, quando o título judicial exequendo, transitado em julgado, determinou a aplicação da Lei 11.960/2009 - Alegação de violação à coisa julgada - Descabimento - Aplicação imediata das normas que veiculam os índices de atualização dos débitos - Ausência de violação à coisa julgada. Precedentes - Índices de atualização conforme as teses fixadas no julgamento do Tema nº 810 da Repercussão Geral e no Tema nº 905 dos Recursos Repetitivos -Impugnação ao cumprimento de sentença rejeitada - Necessidade de fixação de honorários advocatícios em favor dos exequentes Inteligência do art. 85, §§ 7º e 13, do CPC - RECURSO DOS EXEQUENTES PROVIDO.
+2. Opostos Embargos de Declaração, foram rejeitados (fls. 31/38).
+3. Nas suas razões, a parte recorrente aponta violação dos arts. 927, IV, do CPC/2015, por não observância da Súmula 519/STJ,in verbis: "Na hipótese de rejeição da impugnação ao cumprimento de sentença, não são cabíveis honorários advocatícios".
+4. Com as contrarrazões (fls. 50/56), o recurso foi admitido às fls. 71/72.
+5. É o relatório.
+6.A irresignação não merece prosperar.
+7. Verifica-se que a alegada violação do art. 927, IV, do CPC/2015e a tese a ele vinculada não foram debatidas pelo Tribunal de origem e não foram suscitadas nos Embargos de Declaração opostos. Carece, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356/STF.
+8. Na linha do entendimento desta Corte Superior, para que se tenha por prequestionada determinada matéria é necessário que a questão tenha sido objeto de debate, à luz da legislação federal indicada, com a imprescindível manifestação pelo Tribunal de origem, o qual deverá emitir um juízo de valor acerca dos dispositivos legais ao decidir pela sua aplicação ou seu afastamento em relação a cada caso concreto, o que não se deu na espécie.
+9. Diante do exposto, não conheço do Recurso Especial da Fazenda do Estado de São Paulo.
+10. Publique-se. Intimações necessárias.
