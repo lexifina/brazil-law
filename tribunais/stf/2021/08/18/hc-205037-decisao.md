@@ -1,0 +1,22 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico de drogas. Receptação. Prisão preventiva. Súmula 691/STF.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra decisão que indeferiu a cautelar requerida nos autos do HC 678.668, em tramitação no Superior Tribunal de Justiça (STJ).
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 9 anos de reclusão, em regime inicial fechado, pela prática dos crimes previstos nos artigos 33, § 1º, I, e 34, da Lei 11.343/2006, e no art. 180, caput, do Código Penal. Foi negado o direito de recorrer em liberdade.
+    3. Contra a prisão cautelar, a defesa impetrou habeas corpus no Tribunal de Justiça do Estado de São Paulo. Denegada a ordem, sobreveio a impetração de HC no STJ. A Presidência da Corte Superior indeferiu o pedido de liminar.
+    4. Neste habeas corpus, a parte impetrante sustenta, em síntese, a ausência de fundamentação idônea para a manutenção da custódia preventiva do paciente. Afirma que a “autoridade coatora teceu considerações genéricas sobre a gravidade abstrata dos crimes para decretar a prisão preventiva do paciente, ignorando o fato de ele ser primário, possuir residência fixa e ocupação lícita. Além disso, justificou a prisão cautelar na necessidade de assegurar a instrução, sendo que, consoante se nota, a instrução já foi encerrada”.
+    5. Com essa argumentação, a defesa requer a concessão da ordem, a fim de “revogar a prisão preventiva imposta ao paciente, assegurando a ele o direito de recorrer em liberdade”.
+    6. Decido.
+    7. O Supremo Tribunal Federal (STF) consolidou o entendimento no sentido da inadmissibilidade da impetração de habeas corpus contra decisão denegatória de provimento cautelar (Súmula 691/STF). No entanto, o rigor na aplicação do enunciado sumular vem sendo mitigado nos casos de evidente ilegalidade ou abuso de poder, de decisões de Tribunal Superior manifestamente contrárias à jurisprudência do STF e de decisões teratológicas.
+    8. A hipótese de que se trata não autoriza a superação do entendimento da Súmula 691/STF. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize a imediata revogação da custódia cautelar. Dou especial relevância às seguintes passagens do acórdão estadual:
+    “A necessidade da medida extrema, inclusive, já foi analisada em julgamento proferido por esta c. Turma Julgadora em outro writ impetrado pela Defesa nos autos de habeas corpus distribuído sob nº 2278829-16.2019, cujos termos seguem:
+    [...]
+    Entendo por denegar a ordem. A par das alegações defensivas, in casu, a decisão que decreta a prisão preventiva tem caráter de urgência, possibilitando, ao menos em uma análise perfunctória, seu decreto pelo juiz que primeiro toma conhecimento dos fatos.
+    Ademais, conforme consta dos autos do habeas corpus em epígrafe, houve ratificação da decisão que decretou a custódia cautelar pelo juízo de Jundiaí, com base em argumentação idônea e fundamentada, que ressaltou a necessidade da medida extrema, levando-se em consideração ‘a vasta quantidade de entorpecentes e bens apreendidos, e a necessidade da segregação, diante do risco de reiteração delitiva’ (fls. 798/799 - autos principais).
+    Consigno, ainda, que conforme a farta documentação acostada aos autos, há informações de que o paciente e outros investigados seriam membros de facção criminosa e estariam envolvidos intensamente na mercancia ilícita de forma organizada e com divisão de tarefas nesta comarca e em comarcas diversas, inclusive como membros de facção criminosa conhecida como PCC, o que revela abalo à ordem pública a ensejar a constrição cautelar (fl. 27/34)’.
+    Veja-se que o quadro apresentado, apesar de haver sofrido alteração agora com a absolvição do paciente nos quanto ao delito previsto no art. 35, da lei 11.343/06, em que pese os esforços da n. Defesa, não se vislumbra daí alteração fática suficiente a afastar a presença dos requisitos da constrição cautelar e a modificação da solução anteriormente adotada.
+    Ademais, o paciente permaneceu recluso durante toda a instrução penal e, ao final, sentenciado a pena bem superior ao patamar de 04 anos de reclusão o que justifica a custódia cautelar, a teor do art. 313, I, do Código de Processo Penal. ”
+    9. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 18 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+          Relator
