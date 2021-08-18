@@ -1,0 +1,10 @@
+DECISÃO
+Transitadaem julgado a decisão de fls. 283-288, a qual deu parcial provimento ao recurso especial do réu, o Tribunal de Justiça do Estado de São Paulo enviaàesta Corte Superior o agravo em recurso especial interposto por FELIPE GONÇALVES RODRIGUES PEREIRA em face da decisão que admitiu em parte seu recurso especial.
+Forçoso consignar que é incabível agravo em recurso especial quando a decisão agravada admite parcialmente o processamento do próprio recurso especial. Isso porque, nesses casos, há devolução integral do juízo de admissibilidade que será novamente avaliado por ocasião do julgamento do recurso especial.
+Como afirma Bernardo Pimentel, "é inadmissível agravo de instrumento da decisão de admissão parcial, já que a corte superior deve tomar conhecimento de toda a matéria impugnada no recurso constitucional, porquanto basta a admissão para que os respectivos autos sejam remetidos ao tribunal ad quem" (Introdução aos recursos cíveis e à ação rescisória. 6. ed. São Paulo: Saraiva, 2009, p. 607).
+Incide, nesse particular, o enunciado na Súmula n. 292 do STF, segundo o qual, "interposto recurso extraordinário por mais de um dos fundamentos indicados no art. 101, III, da Constituição, a admissão apenas por um deles não prejudica o seu conhecimento por qualquer dos outros" e, também o enunciado na Súmula 528 do STF, in verbis: "Se a decisão contiver partes autônomas, a admissão parcial, pelo Presidente do Tribunal a quo, de recurso extraordinário que, sobre qualquer delas se manifestar, não limitará a apreciação de todas pelo Supremo Tribunal Federal, independentemente de interposição de agravo de instrumento". Nesse sentido, menciono:
+ ..
+1. A admissão parcial do recurso especial, no Tribunal de origem, não impede seu exame integral pelo STJ. Não há interesse, portanto, em recorrer da decisão de admissão parcial. (REsp n. 1.281.210/GO, Rel. Min. Teori Albino Zavascki, DJe de 21/8/2012).
+E ainda: AgRg no Ag n. 1.049.794/SC, Ministro Mauro Campbell Marques, DJe 17/12/2008, e REsp 464.539/SP, Ministra Eliana Calmon, DJ 9/6/2003.
+À vista do exposto,não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
