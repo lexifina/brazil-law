@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração, opostos por RAINBOW COMÉRCIO E CONSULTORIA LTDA, em face de decisão monocrática da lavra deste signatário (fls. 1.270-1.272, e-STJ), que deu parcial provimento ao recurso especial da ora embargada para reconhecer a negativa de prestação jurisdicional.
+Opostos embargos de declaração (fls. 1.274-1.281, e-STJ), sustenta a embargante, em síntese, a existência de contradiçãono julgado com relação ao reconhecimento da negativa de prestação jurisdicional.
+Sem impugnação .
+É o relatório.
+Decido.
+Os aclaratórios não merecem acolhimento.
+1. Com efeito, nos estreitos lindes do artigo 1.022 do CPC/15, o recurso de embargos de declaração objetiva somente suprir omissão, dissipar obscuridade, afastar contradição ou sanar erro material encontrável em decisão ou acórdão, não podendo ser utilizado como instrumento para a rediscussão do julgado, como pretende a ora insurgente.
+Nesse sentido, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NA PETIÇÃO NO CONFLITO DE COMPETÊNCIA. OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. CARATER PROTELATÓRIO. MAJORAÇÃO DA MULTA. EMBARGOS DECLARATÓRIOS REJEITADOS. 1. Inexistentes as hipóteses do art. 535 do CPC/73, e 1.022 do NCPC, não merecem acolhida os embargos de declaração que têm nítido caráter infringente. 2. Os embargos de declaração não se prestam à manifestação de inconformismo ou à rediscussão do julgado. 3. Inexistindo a alegada omissão no acórdão embargado, mostra-se incabível o acolhimento dos aclaratórios. Precedentes. 4. Embargos de declaração rejeitados. (EDcl no AgRg na PET no CC 133.509/DF, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 11/05/2016, DJe 18/05/2016)  grifou-se
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. REITERAÇÃO DE EMBARGOS DECLATÓRIOS ADUZINDO AS MESMAS TESES, JÁ APRECIADAS. ELEVAÇÃO DA MULTA APLICADA E CERTIFICAÇÃO DO TRÂNSITO EM JULGADO. POSSIBILIDADE. EMBARGOS REJEITADOS. MULTA. 1. Depreende-se do art. 535, I e II, do CPC que os embargos de declaração apenas são cabíveis quando constar, na decisão recorrida, obscuridade, contradição ou omissão em ponto sobre o qual deveria ter se pronunciado o julgador. Eles não se prestam, portanto, ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso. 2. No caso, inexistem omissões ou contradições a serem sanadas, pois todas as teses da parte já foram apreciadas. O que se observa é o resistente inconformismo com a decisão exarada, contrária aos interesses da parte, circunstância a justificar a certificação do trânsito em julgado e a elevação da multa aplicada nos termos do art. 538 do CPC para 5%, ante a insistente oposição de embargos declaratórios aduzindo as mesmas questões. 3. Embargos de declaração rejeitados, com aplicação de multa e determinação de certificação do trânsito em julgado. (EDcl nos EDcl nos EDcl nos EDcl no AgRg no AREsp 552.667/MG, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2015, DJe 10/11/2015)  grifou-se
+Como bem já esclarecido por este Superior Tribunal Justiça no julgamento do Recurso Especial n. 1.250.367/RJ, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 15/08/2013, DJe 22/08/2013, "a contradição que autoriza o manejo dos embargos de declaração é a contradição interna, verificada entre os elementos que compõem a estrutura da decisão judicial, e não entre a solução alcançada e a solução que almejava o jurisdicionado".
+Nesse mesmo sentido, confiram-se os seguintes julgados anteriormente proferidos:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. SUPOSTA CONTRADIÇÃO. INEXISTÊNCIA.
+1. A contradição que autoriza a oposição de embargos de declaração é a interna, ou seja, aquela que se verifica entre a fundamentação e a conclusão do julgado, o que não ocorre na espécie.
+2. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+(EDcl no AgInt no AREsp 1107845/RJ, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/05/2018, DJe 18/05/2018)
+EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. CONTRADIÇÃO. NÃO OCORRÊNCIA. EMBARGOS REJEITADOS.
+1. Somente são devidos embargos de declaração para a correção de contradição interna do julgado, ou seja, aquela verificada entre a fundamentação e a conclusão da decisão.
+2. Não se caracteriza contradição, para os fins do art. 1.022 do CPC/2015, quando o acórdão proferido pelo órgão competente, julgando recurso adequadamente interposto pela parte interessada, reforma decisão monocrática anteriormente prolatada pelo Relator.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no AREsp 1028884/RJ, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 19/04/2018, DJe 25/04/2018)
+No caso em tela, os embargos de declaração opostos pelo insurgente não demonstraram qualquer contradição interna ao julgado embargado.
+Vê-se, portanto, que há compatibilidade lógica entre os fundamentos e a conclusão da decisão, razão pela qual não que se falar em contradição do julgado e, por consequência, rejeita-se a alegada violação ao artigo 1022 do CPC/15.
+Portanto, não se vislumbra quaisquer das máculas do artigo 1.022 do CPC/15 na decisão hostilizada.
+2. Não obstante a rejeição dos aclaratórios, deixa-se de se aplicar a multa prevista no artigo 1.026, § 2º, do CPC/15, pois, em se tratando de primeiros embargos de declaração que não ostentam caráter manifestamente protelatórios, pressuposto para aplicação da medida, descabida a sua incidência neste momento processual.
+No entanto, desde já se adverte que a reiteração de embargos de declaração, com intuito de rediscussão do julgado, poderá caracterizar o aludido caráter manifestamente protelatório, ensejando a aplicação da multa citada.
+3. Do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
