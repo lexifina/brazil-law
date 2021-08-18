@@ -1,0 +1,23 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico de drogas. Condenação transitada em julgado. Pedido de desclassificação. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Rogerio Schietti Cruz, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n. 11.343/2006). Por essas razões, mostra-se inviável a desclassificação da conduta imputada ao réu, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir o mérito da pretensão punitiva, para condenar ou absolver, desde que o faça fundamentadamente, tal como ocorreu no caso.
+    2. Nos termos do art. 28, § 2º, da Lei n. 11.343/2006, não é apenas a quantidade de drogas que constitui fator determinante para a conclusão de que a substância se destinava a consumo pessoal, mas também o local e as condições em que se desenvolveu a ação, as circunstâncias sociais e pessoais, bem como a conduta e os antecedentes do agente.
+    3. Para entender-se pela desclassificação da conduta imputada ao agravante para o delito descrito no art. 28 da Lei n. 11.343/2006, seria necessário o revolvimento de todo o conjunto fático-probatório produzido nos autos, providência, conforme cediço, incabível na via estreita do habeas corpus.
+    4. Agravo regimental não provido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 6 anos, 9 meses e 20 dias de reclusão, em regime inicial fechado, pelo crime previsto no art. 33, caput, da Lei 11.343/06.
+    3. O Tribunal de Justiça do Estado de São Paulo (TJ/SP) negou provimento à apelação da defesa.
+    4. Na sequência, foi impetrado habeas corpus no STJ. O Relator do HC 613409, Ministro Rogerio Schietti Cruz, indeferiu liminarmente o writ. Contra essa decisão foi interposto agravo regimental, não provido.
+    5. Neste habeas corpus, a parte impetrante sustenta que a droga apreendida em poder do paciente se destinava a consumo próprio. De modo que é possível a desclassificação do crime previsto no art. 33 da Lei 11.343/06 para o delito tipificado no art. 28 da mesma Lei.
+    6. Prossegue a narrativa para alegar que, “[c]om a desclassificação operada, o consequente legal seria o encaminhamento do feito a um dos Juizados Especiais Criminais, nos termos do art. 383, parágrafo 2°, do CPP. Entretanto, o caminho a ser seguido é a extinção da punibilidade do agente. Desse modo, merece ser julgada procedente a presente ação constitucional, para que seja declarada a prescrição da pretensão punitiva de acordo com o artigo 30 da Lei n° 11.343/06”.
+    7. A defesa requer a concessão da ordem “para cassar o acórdão proferido pela 4ª Câmara de Direito Criminal do Tribunal de Justiça do Estado de São Paul, de modo a desclassificar o delito imputado para a figura típica do artigo 28, da Lei de Tóxicos, bem como reconhecer a prescrição da pretensão punitiva acordo com o artigo 30 da Lei de drogas”.
+    8. Decido.
+    9. O habeas corpus não deve ser concedido.
+    10. A orientação jurisprudencial do Supremo Tribunal Federal (STF) é no sentido de que o “habeas corpus não se revela instrumento idôneo para impugnar decreto condenatório transitado em julgado” (HC 118.292-AgR, Rel. Min. Luiz Fux). Confiram-se, nessa mesma linha, os seguintes precedentes: HC 128.840-AgR, de minha Relatoria; RHC 116.108, Rel. Min. Ricardo Lewandowski; HC 117.762, Rel. Min. Dias Toffoli; HC 91.711, Relª. Minª. Cármen Lúcia. No caso, em consulta à página oficial do Tribunal de Justiça do Estado de São Paulo na internet, verifico que a condenação transitou em julgado para a defesa em 13.03.2020 e para a acusação em 05.05.2020.
+    11. Além disso, o entendimento do STF é no sentido de que “o pleito de desclassificação de crime não tem lugar na estreita via do habeas corpus por demandar aprofundado exame do conjunto fático-probatório da causa, e não mera revaloração” (RHC 120.417, Rel. Min. Ricardo Lewandowski).
+    12. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 18 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
