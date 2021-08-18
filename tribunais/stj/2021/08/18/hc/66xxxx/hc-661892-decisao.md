@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de NILCLAIR SANTOS contra decisão proferida pelo Desembargador Relator do Tribunal de Justiça do Estado de São Paulo proferida no HC n. 2086696-73.2021.8.26.0000.
+Informa a impetração que o Paciente foi preso em flagrante em 17/04/2021. A prisão foi convertida em preventiva, a requerimento do Ministério Público (fls. 26-30).
+O Paciente foi denunciado pela suposta prática do crime tipificado no art. 155, §§ 1.º e 4.º, inciso IV, do Código Penal (fls. 212-214). Consta dos autos queo Agente teria, em conjunto com outro Acusado, durante o repouso noturno, subtraído "para proveito comum, 3 (três) pacotes de linguiça toscana, marca confina; 7 (sete) rocamboles de carne moída recheado; 1 (uma) peça de bisteca suína; 1 (um) pacote de moela de galinha, marca perdigão; 3 (três) peças de panceta suína; 1 (uma) unidade de ave chester, marca seara; 2 (duas) peças de costela suína, marca confina; 7 (sete) pacotes de coxa e sobrecoxa de galinha, marca confina, produtos estes que foram avaliados em R$ 617,90 (seiscentos e dezessete reais e noventa centavos), pertencentes ao estabelecimento comercial  .. " (fl. 212).
+Irresignada, a Defesa impetrou habeas corpus perante a Corte de origem, cujo pedido liminar foi indeferido pelo Desembargador Relator, decisão contra a qual ora se insurge (fls. 24-25).
+Nas razões do presente writ, alega a Defesa que, na hipótese dos autos, não estão presentes os requisitos necessários à manutenção da prisão preventiva, uma vez que não comprovada a existência de indícios de autoria e materialidade do crime e o decreto prisional não atende aos requisitos do art. 312 do Código de Processo Penal.
+Argumenta que é caso de superação do óbice previsto na Súmula n. 691 do Supremo Tribunal Federal, uma vez que o Paciente preenche todos os pressupostos para responder ao processo em liberdade.
+Requer, liminarmente e no mérito, a imediata soltura do Paciente.
+O pedido liminar foi deferido "para determinar, incontinenti, a soltura do Paciente, se por al não estiver segregado, advertindo-o da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisãoprovisória, por fato superveniente a demonstrar a necessidade da medida, ou da imposição de outras medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada"(fls. 225-226).
+Prestadas as informações (fls. 230-259), o Ministério Público Federal opinou pelo não conhecimento do habeas corpus, mas pela concessão da ordem de ofício(fls. 263-266).
+É o relatório. Decido.
+Em consulta ao site do Poder Judiciário de São Paulo, verifico que, em09/08/2021,o Juízo de primeiro grau julgou procedente a pretensão punitiva estatalpara condenar o Paciente às penas de 01 (um) ano e 04 (quatro) meses de reclusão em regime aberto, nos termos da substituição imposta, e ao pagamento de 06 (seis) dias-multa, ambos pela prática do crime tipificado no art. 155, §§ 1º e 4º, inciso IV, do Código Penal. Foi deferido o direito de o Réu recorrer em liberdade.
+Constata-se, portanto, a superveniente perda do objeto desta impetração.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, JULGOPREJUDICADO o presentehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PENAL. PRISÃO PREVENTIVA. SUPERVENIÊNCIADE SENTENÇA CONDENATÓRIA. FIXAÇÃO DE REGIME ABERTO. DEFERIDO O DIREITO DE RECORRER EM LIBERDADE. PEDIDO PREJUDICADO.
