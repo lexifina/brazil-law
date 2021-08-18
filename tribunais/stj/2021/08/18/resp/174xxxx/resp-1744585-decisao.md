@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Estado de Minas Gerais, com fundamento nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do Tribunal de Justiça doEstado de Minas Gerais, assim ementado:
+APELAÇÃO CÍVEL - TRIBUTÁRIO IPVA DOMICÍLIO DOPROPRIETÁRIO - LEI ESTADUAL N.º 14.937/2003 - CÓDIGO DE TRÂNSITOBRASILEIRO-IMPOSTO DEVIDO AO ESTADO DE MINAS GERAIS. I- O art. 127,I, do CTN c/c art. 120 do CTB c/c arts. 70 e ss do CCB privilegiam o domicilioresidencial para a incidência de tributação. II- No Estado de Minas Gerais, a LeiEstadual n.º 14.937/2003, prevê, em seu art. 1º, p. único, que "o IPVA incide tambémsobre a propriedade de veículo automotor dispensado de registro, matrícula oulicenciamento no órgão próprio, desde que seu proprietário seja domiciliado noEstado". III- Logo, o IPVA deve ser pago ao Estado em que seu proprietário tenhadomicílio residencial.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, aponta a parte recorrente, além de divergência jurisprudencial,violação dos seguintes dispositivos: a) arts. 489, II, III e § 1º, III, IV e V, e 1.022 do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissão; b) art. 1.026, § 2º,do Código de Processo Civil, aduzindo inaplicabilidade da multa prevista no dispositivo na medida em que os aclaratórios opostos não possuíram caráter protelatório; c) art. 85, §§ 1º e 11,do Código de Processo Civil, alegando que a Corte local não poderia ter deixado de arbitrar honorários recursais.
+Não houve contrarrazões.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Preliminarmente, sustenta-se que o acórdão recorrido restou omisso com relação ao art. 85, §§ 1º e 11, do CPC na medida em que deixou de arbitrar honorários recursais a despeito da oposição de declaratórios e da demonstração de desnecessidade de comprovação de trabalho adicional do advogado para o arbitramento.
+Entretanto, acerca da questão, o acórdão recorrido assim fundamentou(e-STJ fl. 233):
+No que tange aos honorários advocatícios recursais, a teor do art.85, §11, do CPC/2015, estes devem ser arbitrados em favor do advogadoque contrarrazoou o recurso de apelação, em função da negativa deprovimento deste.
+Porém, no caso versado, apesar da negativa de provimento daapelação, considerando a não apresentação de contrarrazões (v. certidãoà fl. 193), há óbice ao arbitramento de honorários advocatícios recursais,eis que inexistente trabalho adicional do advogado do apelado apto aensejar a fixação da verba recursal
+No ponto, bem ou mal, o acórdão se manifestou expressamente acerca da impossibilidade de arbitramento dos honorários recursais. Portanto, ausente a suscitada negativa de prestação jurisdicional.
+No mérito, com razão o recorrente.
+No que tange aos honorários recursais, ajurisprudência do Superior Tribunal de Justiça é no sentindode se aplicar o disposto no art. 85, § 11, do CPC/2015 e noEnunciado Administrativo 7/STJ ("somente nos recursos interpostoscontra decisão publicada a partir de 18 de março de 2016 serápossível o arbitramento de honorários sucumbenciais recursais, naforma do art. 85, § 11, do NCPC"), impondo a majoração do percentualjá fixado, relativo aos honorários advocatícios, independe decomprovação do efetivo trabalho adicional pelo advogado da parterecorrida, sendo, portanto, devida mesmo quando não apresentadascontrarrazões.
+No mesmo sentido, os seguintes precedentes:
+PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. EXTINÇÃO. RECURSO ESPECIAL. ALEGAÇÃO DE VÍCIOS. HONORÁRIOS RECURSAIS. MAJORAÇÃO.COMPROVAÇÃO DE TRABALHO ADICIONAL. DESNECESSIDADE.
+I - Na origem, trata-se de agravo de instrumento interposto pelo Estado de São Paulo contra a decisão que rejeitou a impugnação ao cumprimento da sentença, no tocante ao pagamento de parcelas atrasadas de reajuste para a aplicação dos critérios da Lei n.
+11.960/2009, no cálculo da correção monetária, de acordo com o Tema n. 810 do STF.
+II - No Tribunal a quo, julgou-se, de ofício, extinto o cumprimento da obrigação de pagar. Nesta Corte, não se conheceu do agravo em recurso especial.
+III - O entendimento do Superior Tribunal de Justiça é no sentido de que a majoração da verba honorária sucumbencial, nos termos do art.
+85, § 11, do CPC/2015, independe de comprovação do efetivo trabalho adicional pelo advogado da parte recorrida, sendo, portanto, devida mesmo quando não apresentadas contrarrazões. A propósito: (AgInt no AREsp n. 1.495.172/MG, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 27/8/2020, AgInt no AREsp n. 1.604.570/GO, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 2/9/2020 e AgInt nos EDcl no REsp n. 1.759.494/PB, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 21/11/2019).
+IV - Embargos de declaração acolhidos, sem alteração do julgado.
+(EDcl no AgInt no AREsp 1682937/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/04/2021, DJe 23/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.EXAME DE DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE. COMPETÊNCIA DO STF. EXCLUSÃO DOS HONORÁRIOS RECURSAIS. DESCABIMENTO.
+1. O recurso especial não é via recursal adequada para analisar suposta ofensa a dispositivo constitucional, sob pena de usurpação da competência que, por expressa determinação da Constituição Federal, pertence ao Supremo Tribunal Federal.
+2. A Corte Especial do STJ, no julgamento do AgInt nos EAREsp n.
+762.075/MT, fixou entendimento de que é devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, não se exigindo comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida, quando estiverem presentes, simultaneamente, os seguintes requisitos: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou não provido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+3. Agravo interno não provido.
+(AgInt no AREsp 1528081/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 11/05/2020, DJe 13/05/2020)
+Acolhida a tese dos honorários recursais, únicotema dos aclaratórios opostos na origem, resta evidenciado o caráter não protelatório dos embargos de declaração.
+Desta forma, imperioso o afastamento da multa arbitrada na origem com fulcro no art. 1.026, § 2º, do CPC.
+Exemplificativamente:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. ART. 1.026, § 2º, DO CÓDIGO DE PROCESSO CIVIL. EXISTÊNCIA. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - O acórdão embargado não se manifestou sobre o pedido de condenação ao pagamento de multa em caso de embargos protelatórios, nos termos do art. 1.026, § 2º, do CPC.
+III - Rejeitada a requerida aplicação da multa do art. 1.026, § 2º, do Código de Processo Civil de 2015, por não considerar manifestamente protelatórios os embargos de declaração, na situação analisada.
+IV - Embargos de declaração acolhidos, sem efeitos infringentes.
+(EDcl nos EDcl no AgInt no AREsp 1506173/SP, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/02/2020, DJe 20/02/2020)
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015 c/c o art. 255, §4º, III, do RISTJ, dou parcial provimento ao recurso especial para determinaramajoração dos honorários advocatícios (a título de sucumbência recursal),em montante correspondente a 10% (dez por cento) sobre o valor estipuladona sentença e para afastar a multa prevista no art. 1.026, § 2º, do CPC.
+Observo que esta verba honorária recursal definida acima justifica-se tãosomente em razão do trabalho adicional realizado pelo recorrente nestainstância recursal, sendo que tal valor deverá ser levado em consideraçãoquando se for definir na instância de origem os limites e as faixas para aaplicação do artigo 85, §§ 2º e 3º do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. HONORÁRIOS RECURSAIS. TRABALHO ADICIONAL. DESNECESSIDADE. PRECEDENTES. ART. 1.026, § 2º, DO CPC. MULTA. NÃOCABIMENTO. RECURSO ESPECIAL PARCIALMENTE PROVIDO.
