@@ -1,0 +1,28 @@
+VISTOS.
+Trata-se de recurso especial interposto por SURVEYSEED WARRANTS LTDA, com fundamento no artigo 105, inciso III, alínea “a” da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público, que restou assim ementado (id. 84443460):
+TRIBUTÁRIO E PROCESSUAL CIVIL – RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE EXECUÇÃO FISCAL – NULIDADE DA CDA – EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO – CONSTATAÇÃO DE ERRO MERAMENTE FORMAL – POSSIBILIDADE DE SUBSTITUIÇÃO OU EMENDA – INTELIGÊNCIA DA SÚMULA 392 DO STJ – AUSÊNCIA DE INTIMAÇÃO DA FAZENDA PÚBLICA PARA REALIZAÇÃO DO ATO – SENTENÇA REFORMADA – RECURSO PROVIDO.
+Conforme a jurisprudência do Superior Tribunal de Justiça, mostra-se “incabível extinguir a Execução Fiscal com base na nulidade da CDA sem a anterior intimação da Fazenda Pública para emenda ou substituição do título executivo, quando se tratar de erro material ou formal. Precedentes do STJ." (AgRg no REsp 1268359/PE)
+Identificados eventuais vícios passíveis de serem sanados na Certidão de Dívida Ativa, deve a Fazenda Pública ser intimada para fazê-lo, consoante o que preleciona a Súmula 392 do STJ.
+Sentença reformada. Recurso provido.
+Nas razões do recurso especial, alega o recorrente, em síntese, violação aos artigos 202, incisos II e III do CTN e art 2o, parágrafo 5o, incisos II e III, da LEF, ao argumento de que “é flagrante que a decisão recorrida se encontra fundamentada em premissas equivocadas, sem amparo legal, violando os dispositivos infraconstitucionais acima indicados, conforme a seguir demonstrado”, pois “em se analisando a certidão de dívida ativa em questão, percebe-se que a mesma deixou de apresentar a origem da dívida, a sua natureza e o seu fundamento legal, bem como o critério utilizado como base de calculo da multa”. (sic.)
+Sendo assim, aduz que “diferentemente do alegado nas razões recursais, nos termos do entendimento do STJ, a ausência de fundamentação legal é vício insanável da CDA, não existindo a possibilidade de substituição do título, podendo o juízo extinguir a execução, pelo que não há falar em intimação da Fazenda para substituí-la”.(sic.)
+Com essas considerações, requer “seja admitido, conhecido e provido o recurso interposto, em face de todo o arrazoado no recurso, ensejando a anulação da decisão colegiada do Egrégio Tribunal de Justiça do Estado de Mato Grosso, ato que se traduz no mais lídimo sentimento de justiça”. (sic.)
+Recurso tempestivo e devidamente preparado, conforme certidões de ids. 90822966 e 90883955.
+Contrarrazões no id. 91704989.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Nas razões do recurso especial, alega o recorrente, em síntese, violação aos artigos 202, incisos II e III do CTN e art 2o, parágrafo 5o, incisos II e III, da LEF, ao argumento de que “é flagrante que a decisão recorrida se encontra fundamentada em premissas equivocadas, sem amparo legal, violando os dispositivos infraconstitucionais acima indicados, conforme a seguir demonstrado”, pois “em se analisando a certidão de dívida ativa em questão, percebe-se que a mesma deixou de apresentar a origem da dívida, a sua natureza e o seu fundamento legal, bem como o critério utilizado como base de calculo da multa”. (sic.)
+No entanto, para rever o entendimento firmado no aresto recorrido sobre este ponto, é necessário o reexame de prova, o que atrai o óbice sumular acima mencionado, conforme preconiza o STJ:
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. CERTIDÃO DE DÍVIDA ATIVA. VERIFICAÇÃO DOS REQUISITOS DE REQUISITOS DE VALIDADE. REEXAME PROBATÓRIO. INADMISSIBILIDADE. 1. A Fazenda Pública pode substituir a certidão de dívida ativa (CDA) até a prolação da sentença de embargos, quando se tratar de correção de erro material ou formal, vedada a modificação do sujeito passivo da execução (Súmula 392 do STJ) 2. A via do recurso especial não é adequada a análise da Certidão de Dívida Ativa CDA para o fim de verificar se houve o cumprimento dos requisitos de validade, pois essa providência caracteriza reexame de prova. 3. No caso dos autos, o recurso não pode ser conhecido, porquanto necessário o exame de prova para se constatar defeito insanável no título executivo, tendo em vista o órgão julgador a quo ter consignado que a CDA somente mencionava a legislação que respalda a cobrança, de forma genérica, e, por isso, autorizou sua substituição, por se tratar de vício formal. 4. Agravo interno não provido. (AgInt no REsp 1864387/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020) (g.n)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame de prova, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, nego seguimento ao recurso.
+Publique-se. Intimem-se.
+Cumpra-se.
+Às providências.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
