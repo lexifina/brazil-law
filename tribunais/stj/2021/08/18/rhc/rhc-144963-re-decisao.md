@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por LUIS GUSTAVO MONTEIRO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 215):
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIOS QUALIFICADOS CONSUMADO E TENTADO. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA.
+INEXISTÊNCIA. COMPLEXIDADE DO FEITO. RECURSOS INTERPOSTOS PELA DEFESA. SENTENÇA DE PRONÚNCIA AINDA NÃO TRANSITADA EM JULGADO. RECURSO DESPROVIDO.
+1. Esta Corte Superior tem o entendimento de que, somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+As instâncias ordinárias afirmaram que eventual mora na tramitação do processo não pode ser atribuída ao Juízo, mas às peculiaridades do caso e à complexidade do feito, considerando a prisão do paciente em 7/12/2018, a pronúncia em 8/10/2019, recurso em sentido estrito interposto pela defesa, que restou desprovido em 27/5/2020, recurso especial não admitido em 7/8/2020, agravo em recurso especial interposto em 24/8/2020, pendente de julgamento, tendo havido, durante a instrução, a necessidade de expedição de cartas precatórias e ofícios para a realização de diligências e intimações, análises de pedidos de liberdade provisória, prestação de informações em habeas corpus, com eventuais atrasos e remarcações ocorridos em virtude da pandemia de COVID-19.
+O processo seguiu trâmite regular, não havendo, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputada ao Judiciário a responsabilidade pela demora, mas sim aos recursos interpostos pela defesa, como motivou o Juízo de origem nas informações prestadas: "enquanto os autos 0002298-32.2018.8.16.0189 em que é pronunciado o paciente, aguarda o processamento de recursos frente a decisão de pronuncia, ou seja, ainda não houve trânsito em julgado da decisão de pronúncia".
+2 . Agravo regimental desprovido.
+Sustenta o recorrente a repercussão geral da matéria tratada, aduzindo que o aresto impugnado violaria o art. 5º, inciso LXXXVIII, da Constituição Federal.
+Afirma que está preso há mais de 29 meses sem que tenha sido julgado pelo Tribunal do Júri.
+Alega que "o Colendo Superior Tribunal de Justiça NÃO ENFRENTOU A SITUAÇÃO OBJETIVA DOS EXCESSOS NOS PRAZOS DE QUE NÃO SE ESTÁ MERAMENTE AO CAMPO DA PANDEMIA, EIS QUE FORAM SUCESSIVOS LAPSOS TEMPORAIS QUE SE EQUIVOCOU-SE O PODER INSTITUCIONAL, QUANDO FICARA LITERALMENTE TRAVADO AO SISTEMA, SEM MOVIMENTAÇÃO E QUE JAMAIS PODE SER RESPONSABILIZADA A DEFESA E, MUITO MENOS, AO ACUSADO QUE PREVÊ GUARIDA NOS DIREITOS FUNDAMENTAIS, ORA DE QUALQUER ACUSADO DE CRIME" (e-STJ fl. 237).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 262/263.
+É o relatório.
+Compulsando-se os autos, verifica-se que a controvérsia cinge-se à questão do alegado excesso de prazo na formação da culpa, estando o acórdão recorrido assim fundamentado (e-STJ fls. 218/211):
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+Com efeito, esta Corte Superior tem o entendimento de que, somente configura constrangimento ilegal por excesso de prazo na formação da culpa, apto a ensejar o relaxamento da prisão cautelar, a mora que decorra de ofensa ao princípio da razoabilidade, consubstanciada em desídia do Poder Judiciário ou da acusação, jamais sendo aferível apenas a partir da mera soma aritmética dos prazos processuais.
+As instâncias ordinárias afirmaram que eventual mora na tramitação do processo não pode ser atribuída ao Juízo, mas às peculiaridades do caso e à complexidade do feito, considerando a prisão do paciente em 7/12/2018, a pronúncia em 8/10/2019, recurso em sentido estrito interposto pela defesa, que restou desprovido em 27/5/2020, recurso especial não admitido em 7/8/2020, agravo em recurso especial interposto em 24/8/2020, pendente de julgamento, tendo havido durante a instrução a necessidade de expedição de cartas precatórias e ofícios para a realização de diligências e intimações, análises de pedidos de liberdade provisória, prestação de informações em habeas corpus, com eventuais atrasos e remarcações ocorridos em virtude da pandemia de COVID-19.
+Por conseguinte, o processo seguiu trâmite regular, não havendo, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputada ao Judiciário a responsabilidade pela demora, mas sim aos recursos interpostos pela defesa, como motivou o Juízo de origem nas informações prestadas: "enquanto os autos 0002298-32.2018.8.16.0189 em que é pronunciado o paciente, aguarda o processamento de recursos frente a decisão de pronuncia, ou seja, ainda não houve trânsito em julgado da decisão de pronúncia" (fl.
+101).
+Nesse sentido, seguem precedentes:
+ ..
+Desse modo, não se verifica a existência de ilegalidade na manutenção da custódia cautelar que justifique a reforma da decisão impugnada.
+Desse modo, a análise da matéria ventilada depende do exame dos prazos processuais previstos no Código de Processo Penal, razão pela qual eventual ofensa à Constituição Federal, se houvesse, seria reflexa ou indireta, não legitimando a interposição do apelo extremo.
+Ademais, para afastar os pressupostos fáticos adotados no julgamento do recurso seria indispensável o reexame dos elementos de convicção existentes nos autos, o que não é permitido em recurso extraordinário, diante do óbice contido no enunciado 279 da Súmula do Supremo Tribunal Federal,in verbis:
+"Para simples reexame de prova não cabe recurso extraordinário."
+Em casos semelhantes, assim tem decidido a Corte Suprema:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. EXCESSO DE PRAZO PARA O OFERECIMENTO DE DENÚNCIA. TRANCAMENTO DO INQUÉRITO. RAZOABILIDADE E PROPORCIONALIDADE: EXAME FÁTICO. SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 1244240 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 19/04/2021, PROCESSO ELETRÔNICO DJe-075 DIVULG 20-04-2021 PUBLIC 22-04-2021)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL PENAL. PRISÃO PREVENTIVA.EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. MATÉRIA INFRACONSTITUCIONAL. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ENUNCIADO 279 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
