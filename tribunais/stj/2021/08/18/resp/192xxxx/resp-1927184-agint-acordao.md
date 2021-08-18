@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL.BENEFÍCIO DE PRESTAÇÃO CONTINUADA.LOAS. DEFICIÊNCIA NÃO CONFIGURADA.INCAPACIDADE PARA O TRABALHO NÃO RECONHECIDA.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A Corte de origem consignou que a parte autora não se encontraincapacitada para o trabalho, razão pela não faz jus à concessão dobenefício assistencial.No caso, infirmar o entendimento do Tribunal a quo e acolher a pretensão da parte recorrente no sentido de reconhecer a existência de incapacidade, enseja o reexame do contexto fático-probatório dos autos, o que é vedado a esta Corte Superior, em face do óbice da Súmula 7/STJ. Precedentes.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado porJ. M. F. contra decisão que nãoconheceudo recurso especial.
+Aparterecorrentedefende, em síntese, a inaplicabilidade do óbice daSúmula 7/STJ.Argumenta que revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de probatório.
+Assevera que"ao realizar análise dos Laudos Periciais produzido pelos peritos do juízo, o Superior Tribunal de Justiça não estará reexaminando prova, mas sim constatando que existem elementos de fato que não foram considerados pelos julgadores do TRF 3ª REGIÃO, de modo a justificar a reforma do decidido considerando aquilo que antes não fora considerado" (e-STJ, fl. 259).
+Quanto ao mais, revisita a tese de queseria devida a concessão do benefício de assistência à pessoa com deficiência, tendo em vista a comprovação da incapacidade parcial permanente do particular.
+Sem contrarrazões.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL.BENEFÍCIO DE PRESTAÇÃO CONTINUADA.LOAS. DEFICIÊNCIA NÃO CONFIGURADA.INCAPACIDADE PARA O TRABALHO NÃO RECONHECIDA.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A Corte de origem consignou que a parte autora não se encontraincapacitada para o trabalho, razão pela não faz jus à concessão dobenefício assistencial.No caso, infirmar o entendimento do Tribunal a quo e acolher a pretensão da parte recorrente no sentido de reconhecer a existência de incapacidade, enseja o reexame do contexto fático-probatório dos autos, o que é vedado a esta Corte Superior, em face do óbice da Súmula 7/STJ. Precedentes.
+2. Agravo interno a que se nega provimento.
+VOTO
+A pretensão recursalnão merece êxito.
+Como consignado originalmente,o Tribunal de origem indeferiu o pleito de concessão do benefício assistencial sob o argumento de quea incapacidade seria apenas temporária e parcial,podendo o requerentedesempenhar várias funções.
+No ponto(e-STJ, fl. 186):
+Conforme constou no laudo médico "o Requerente, quando à época de suas atividades laborais, será Apto para o Trabalho, no intervalo entre as crises, para desenvolver apenas atividades que não o exponham a riscos, sendo formalmente contraindicado o uso de meios de locomoção do tipo bicicleta, ou motocicleta, bem como atuar na direção de quaisquer veículos automotores ou aquáticos, bem como atividades acima do nível do solo e diversas outras com máquinas ou equipamentos pelos riscos de acidentes com gravidades imprevisíveis que pode oferecer tais tipos de atividades, para os portadores de epilepsia, havendo desta forma limitações funcionais no presente caso. (..) Quanto às perspectivas laborais o Requerente em sua idade adulta, apresentará limitações funcionais para as atividades com máquinas e equipamentos em geral, trabalhos em altura e direção profissional, dentre outros que ofereçam riscos para o Autor e demais pessoas frente à possibilidade de crises convulsivas e suas consequências, o que reduz a sua competitividade no mercado de trabalho."
+Diante do conteúdo probatório dos autos, entendo que não restou configurada a deficiência alegada, ficando prejudicada a análise da hipossuficiência econômica, uma vez que os requisitos para a concessão do benefício são cumulativos.
+Contudo, em que pesea jurisprudência do Superior Tribunal de Justiça ser pacífica ao afirmar que a concessão do benefício assistencial à pessoa com deficiência não está vinculada à aferição de sua incapacidade absoluta, no caso em análise o Tribunal de origem, com suporte na documentação constante dos autos,foi expresso em afirmar que "não estaria configuradaa deficiência alegada"; bem como que o requerente seriaapto para desenvolver atividades que não o exponham a riscos.
+Dessa forma, infirmar o entendimento do Tribunala quoe acolher a pretensão da parte recorrente no sentido de reconhecer a existência deincapacidade, enseja o reexame do contexto fático-probatório dos autos, o que é vedado a esta Corte Superior, em face do óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial".
+A propósito, o seguinte julgado:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. APOSENTADORIA POR INVALIDEZ REQUISITOS LEGAIS PREENCHIDOS. CONCESSÃO. REVISÃO.MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial, com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+2. A via estreita do Recurso Especial exige a demonstração inequívoca da ofensa ao dispositivo inquinado como violado, bem como a sua particularização, a fim de possibilitar o seu exame em conjunto com o decidido nos autos, sendo certo que a falta de indicação dos dispositivos infraconstitucionais tidos como violados caracteriza deficiência de fundamentação, em conformidade com o Enunciado Sumular 284 do STF.
+3. A aposentadoria por invalidez é benefício de prestação continuada devido ao segurado que, estando ou não em gozo de auxílio-doença, for considerado incapaz para o trabalho e insuscetível de reabilitação para o exercício de atividade que lhe garanta a subsistência. Assim, ela é assegurada àquele que comprovar a condição de segurado, a carência de doze contribuições e a incapacidade.
+4. A instância de origem decidiu a questão com fundamento no suporte fático-probatório dos autos, cujo reexame é inviável no Superior Tribunal de Justiça, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+5. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.721.202/MS, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/2/2018, DJe 22/5/2018).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO ASSISTENCIAL DA LOAS. INCAPACIDADE.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. A Corte de origem consignou que a parte autora não se encontra incapacitada para o trabalho, razão pela não faz jus à concessão do benefício assistencial. No caso, a modificação do julgado esbarra no óbice da Súmula 7/STJ. A propósito: AgRg no AREsp 404.797/SP, Rel.
+Ministra Regina Helena Costa, Primeira Turma, DJe 11/05/2015; AgRg no AREsp 585.002/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 13/03/2015; AgRg no AgRg no AREsp 602.593/SP, Rel. Ministro Humberto Martins, Segunda Turma, DJe 13/04/2015; AgRg no AREsp 582.363/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 04/03/2015.
+2. Agravo regimental não provido.
+(AgRg no AREsp 647.365/SP, Rel. Min. BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 15/9/2015, DJe 23/9/2015)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
