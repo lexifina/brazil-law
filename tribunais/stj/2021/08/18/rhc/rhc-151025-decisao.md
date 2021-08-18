@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por RUAN DIAS BITENCOURT contra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul (Processo n. 0111207-96.2020.8.21.7000).
+O recorrente teve a prisão em flagrante convertida em preventiva (fls. 54-56) por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na garantia da ordem pública, na reincidência, nos maus antecedentes e na existência de ações penais em curso.
+O recorrente alega que a decretação da prisão preventiva carece de fundamentação e que não estão preenchidos os requisitos autorizadores da custódia cautelar.
+Argumenta que foi apreendida pequena quantidade de entorpecente e que a condição de reincidente, por si só, não justifica a manutenção da prisão preventiva.
+Requer, liminarmente e no mérito, seja revogada a prisão preventiva, expedindo-se o alvará de soltura. Alternativamente, pleiteia a substituição da prisão pela imposição de medidas alternativas referidas no art. 319 do CPP, pois o caso se enquadra nas hipóteses referidas na Recomendação CNJ n. 62/2020.
+O Tribunal de Justiça do Estado do Rio Grande do Sul apresentou informações às fls. 300-364.
+O Ministério Público Federal opinou no sentido da prejudicialidade do recurso ordinário (fls. 369-373).
+É o relatório. Decido.
+Consta dos autos a informação de que, em 19/2/2021, foi proferida sentença na Ação Penal n. 0000503-50.2020.8.21.0134, ocasião em que o recorrente foi condenado às penas de 9 anos e 4 meses de reclusão em regime inicial fechado e de 937 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, vedado o direito de recorrer em liberdade (fls. 300-313).
+Como o Juízo de primeiro grau manteve os fundamentos da prisão preventiva anteriormente decretada, não houve perda de objeto neste ponto.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+Está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo (fls. 220 e 224, destaquei):
+A gravidade concreta do delito e a periculosidade do paciente, estão demonstradas, ao menos em um primeiro momento, ante o laudo de constatação preliminar da natureza das substâncias ilícitas apreendidas e a reincidência específica do paciente, que está em pleno cumprimento de pena pelo delito de tráfico de drogas,consoante se pode observar do sistema SEEU.
+Outrossim, responde a diversos outros e ostenta condenações anteriores pelo crime de furto, bem como diversos Inquéritos Policiais, conforme certidão de antecedentes criminais, que ora colaciono:
+ ..
+O fato de ter sido apreendida, além de uma grande quantidade de drogas e apetrechos típicos da traficância em apartamento destinado a depósito, indica um envolvimento com organização criminosa para comercialização da droga.
+Confira-se ainda excerto da decisão, mantida pelo Tribunal de origem, que, diante das circunstâncias em que ocorria a prática delitiva, converteu a prisão em flagrante em preventiva (fl. 55, destaquei):
+Consta da ocorrência policial nº 111/2020 que Ruan fora preso em flagrante na madrugada de hoje portando 92 pedras de crack embaladas em papel alumínio, o valor de R$ 92,00 em espécie, sendo notas e moedas e um caderno com anotações diversas acerca da traficância.
+Trata-se de indivíduo conhecido pelo meios policiais pela prática de crimes diversos. Detentor de extensa ficha e antecedentes criminais. Possui processos com denúncia recebida pela prática dos crimes de furto qualificado (dois processos); furto; condenação pela prática de furto qualificado (9a e 10d); condenação pelo crime de tráfico de drogas (6 a), além de outros processos que tramitam nesta Comarca.
+Quando da prisão em flagrante Ruan usava tornozeleira eletrônica.
+No presente caso, a apreensão de apetrechos relacionados ao tráfico de drogas, a reincidência específica, os maus antecedentes e a existência de ações penais em curso foram considerados pelo Tribunal de origem para a manutenção da prisão preventiva.
+Ressalte-se que a apreensão de instrumentos geralmente utilizados nas atividades relacionadas ao tráfico de entorpecentes (balança de precisão, embalagens, caderno de anotações), de expressiva quantidade de dinheiro e de elevada quantidade e variedade de drogas evidencia o envolvimento habitual do agente com a narcotraficância (AgRg no HC n. 594.158/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de27/11/2020).
+A reincidência específica evidencia maior envolvimento do recorrente com a prática delituosa e constitui fundamento idôneo para a manutenção da custódia cautelar para garantia da ordem pública, com o objetivo de conter a reiteração delitiva (HC n. 603.340/MS, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ainda conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Ademais, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva para imp edir a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Por fim, conforme acima mencionado, em primeiro grau, já houve a condenação, tendo sido indeferido o pleito de recorrer em liberdade.
+A manutenção da custódia cautelar ganha reforço com a prolação da sentença condenatória, que não concedeu ao recorrente, que ficou preso durante toda a instrução processual, o direito de recorrer em liberdade, pois considerou mantidas as circunstâncias que justificaram a decretação da prisão preventiva.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
