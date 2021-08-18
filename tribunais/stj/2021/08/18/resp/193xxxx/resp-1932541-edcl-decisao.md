@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por JAZIER ROSA DA SILVA contra decisão por mim proferida, constante às e-STJ fls. 415/419, em que dei provimento ao recurso especial do ESTADO DO RIO DE JANEIRO para, "afastando o reconhecimento da prescrição intercorrente, determinar o retorno dos autos ao Tribunal de origem, a fim de que prossiga no julgamento do agravo de instrumento, analisando a outra causa de pedir suscitada pelo devedor, relativa à impenhorabilidade dos créditos bloqueados, como entender de direito".
+Nas suas razões (e-STJ fls. 422/425), o embargante aduz que, diversamente do afirmado na decisão ora impugnada, está caracterizada a prescrição intercorrente, pois a execução fiscal ficou sem movimentação por mais de 6 (seis) anos. Afirma, ainda, que o recurso especial não deveria ter sido conhecido, poisnãoprequestionadas as circunstâncias fáticas que embasam a irresignação fazendária e não demonstradodissídio jurisprudencial.
+A parte embargada apresentou impugnação (e-STJ fls. 430/435).
+Passo a decidir.
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015), vícios esses inexistentes na espécie.
+Digo isso porque, para afastar a ocorrência da prescrição intercorrente,a decisão embargada aplicou o precedente obrigatório formado no julgamento do Recurso Especial repetitivo 1.340.553/RS, segundo o qual o lapso prescricional somente se inicia após esgotado o prazo de um ano de suspensão do processo contado da intimação sobre a não localização do devedor ou de bens penhoráveis.
+No presente caso, não houve a referida intimação acerca da não localização de bens penhoráveis, sendo certo que a alegada paralisação do processo ocorreu depois de postulada e deferida a penhora sobre veículos, cuja alienação forçadaé atribuição exclusiva do Poder Judiciário.
+Acresço que não há falar em ausência de prequestionamento de premissas fática, visto que o histórico processual delineado no acórdão recorrido já é suficiente para aplicar o citado aresto vinculante na espécie.
+Saliento, ainda, que é desnecessário suscitar divergência jurisprudencial para o conhecimento de recurso especial interposto somente pela alínea "a" do permissivo constitucional.
+Ponderados esses elementos, constato que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Entretanto, sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
