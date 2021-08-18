@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FELIPE ALVES DOS SANTOS - preso cautelarmente no dia 13/8/2021 pela suposta prática do crime de tráfico de drogas - contra decisão do Desembargador Plantonista do Tribunal de Justiça do Estado do Rio Grande do Norte (0800279-85.2021.8.20.5400).
+Em suas razões, a defesa alega, em síntese, nulidade da prisão em razão do ingresso dos policiais no domicílio sem autorização, violando garantia constitucional que tornouilegal o estado de flagrância reportado posteriormente.
+Diante disso, pede, em liminar e no mérito, o relaxamento da prisão preventiva do paciente.
+É o relatório. Decido.
+O Superior Tribunal de Justiça tem jurisprudência firmada no sentido de não caber habeas corpus contra decisão que indefere liminar, a menos que fique demonstrada flagrante ilegalidade, nos termos do enunciado n. 691 da Súmula do STF, segundo o qual "não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Assim, salvo excepcionalíssima hipótese de ilegalidade manifesta, não é de se admitir casos como o dos autos. Não sendo possível a verificação, de plano, de qualquer ilegalidade na decisão recorrida, deve-se aguardar a manifestação de mérito do Tribunal de origem, sob pena de se incorrer em supressão de instância e em patente desprestígio às instâncias ordinárias.
+No caso, colhe-se da decisão liminar impugnada(e-SJT fl. 30):
+Assim, não se desincumbiu o impetrante do ônus previsto nos incisos citados de demonstrar, de forma cabal, a necessária urgência da análise dos pedidos formulados na exordial, em Plantão Noturno, o que, atrai, no caso em apreço, a aplicação da regra contida no parágrafo único do já mencionado ato normativo, mormente diante da situação fáticarelatada nos presentes autos pode aguardar o subsequente Plantão diurno, sem que advenha danos irreparáveis ao Paciente.
+Diante do exposto, deixo de analisar o pedido de liminar deduzido na inicial e determino o retorno dos autos à Secretaria Judiciária para que proceda a redistribuição do feito,nos termos do art. 22,§1º, do RITJRN, observadas as formalidades legais.
+Como visto, o pleito liminar não foi examinado no ato praticado pelo Desembargador plantonista e impugnado no presente writ, o que impede a análise direta nesta Corte, por configurar indevida supressão de instância.
+Como cediço, "matéria não apreciada pelo Juiz e pelo Tribunal de segundo grau não pode ser analisada diretamente nesta Corte, sob pena de indevida supressão de instância" (AgRg no HC n. 525.332/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, julgado em 17/12/2019, DJe 19/12/2019).
+Ademais, a questão posta em exame demanda averiguação mais profunda pelo Tribunal estadual, no momento adequado.Entendo, portanto, não ser o caso de superação do enunciado 691 da Súmula do Supremo Tribunal Federal.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
