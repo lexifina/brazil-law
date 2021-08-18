@@ -1,0 +1,43 @@
+DECISÃO
+Trata-se de agravo interposto por Fibracor Moc Ltda. contra decisão que não admitiu o recurso especial, fundado naalíneaado inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 224):
+APELAÇÃO CÍVEL - AÇÃO INDENIZATÓRIA - PRELIMINAR - NULIDADE DE SENTENÇA - INOCORRÊNCIA - PRESTAÇÃO JURISDICIONAL SUFICIENTE - LEGITIMIDADE PASSIVA - EQUIPAMENTO DE PREVENÇÃO A INCÊNDIO EM CALÇADA -CONSERVAÇÃO -ESTABELECIMENTO COMERCIAL LOCALIZADO NO IMÓVEL CORRESPONDENTE - RESPONSABILIDADE CIVIL - OMISSÃO - FALTA DE MANUTENÇÃO - SEGURANÇA - QUEDA DE TRANSEUNTE - LESÃO FÍSICA - DANOS MORAIS. Rejeita-se a preliminar de nulidade da sentença quando o julgador enfrenta os argumentos deduzidos no processo capazes de, em tese, infirmar sua conclusão. O reconhecimento da responsabilidade do réu pelos danos reclamados pelo autor a partir dos elementos constantes dos autos denota a ocorrência de prestação jurisdicional suficiente. No plano processual, a legitimidade para figurar no polo passivo da ação cabe a quem se dirige a pretensão autoral e que a ela resiste. Aquele que por ação ou omissão causar dano a outrem fica obrigado a repará-lo. A manutenção e conservação de equipamentos de segurança contra incêndio na calçada de via pública em que estão instalados é de responsabilidade do proprietário ou usuário do imóvel correspondente. A queda de transeunte causada por falta de manutenção dos equipamentos na calçada evidencia o nexo de causalidade entre o dano sofrido pela vítima e a omissão do responsável em garantir a segurança dos pedestres. A violação da integridade física da pessoa configura ofensa a direito da personalidade e é passível de reparação por danos morais. Deve ser mantido o montante indenizatório arbitrado com razoabilidade que atende a finalidade pedagógica da penalidade sem resultar em enriquecimento indevido. Preliminar rejeitada. Recurso não provido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 317-321).
+Nas razões do apelo especial (e-STJ, fls. 328-338), arecorrente alegou a violação dos arts. 11, 489 e1.022 do Código de Processo Civil de 2015.
+Sustentou, em síntese, a ausência de prestação jurisdicional e de fundamentação, aduzindo que não foi analisada a questão referente a sua ilegitimidade passiva.
+Não foram apresentadas contrarrazões (e-STJ, fl. 399).
+O Tribunal de origem não admitiu o processamento do recurso especial ante a inexistência de violação dos dispositivos apontados(e-STJ, fls.365-367).
+Brevemente relatado, decido.
+Consoante análise dos autos, a alegação de violação do art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, ainda que em sentido contrário à pretensão da parte recorrente.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte(e-STJ, fls. 226-229):
+A Apelante alega que a sentença não respondeu a alegação de ilegitimidade passiva pelo fato de que na data do acidente já havia encerrado suas atividades.
+De início, registra-se que o julgador não está obrigado a enfrentar todos os argumentos deduzidos no processo, apenas aqueles capazes de, em tese, infirmar sua conclusão.
+Verifica-se que o juízo de origem reconheceu a responsabilidade da Ré/Apelante pela conservação da tampa de incêndio que provocou o acidente sofrido pela Autora/Apelada, o que denota a ocorrência de prestação jurisdicional suficiente.
+O julgamento de mérito ultrapassa a necessidade de se declarar, no plano processual, que os titulares dos interesses em conflito são legitimados para a ação.
+Se a Autora diz que sofreu danos morais por ato ou omissão da Ré e esta nega, está patente a legitimidade de ambas para a ação, sem que isto se confunda com a procedência ou não do pedido.
+No caso, as partes controvertem sobre as consequências de um acidente ocorrido com a Apelada na calçada em frente ao estabelecimento comercial da Apelante no dia 17/10/2015.
+De se esclarecer que o fato de o acidente ter ocorrido por volta das 15h de um sábado, após o "enceramento das atividades" comerciais da loja naquele dia não interfere na verificação da pertinência de sua participação na lide, uma vez que não lhe está sendo atribuída uma ação, mas uma omissão.
+Com efeito, a legitimidade não "desaparece", pois a Apelante não é responsável pela conservação da calçada somente quando está aberta. A falta de fundamentação nesse sentido na sentença não caracteriza prestação jurisdicional incompleta.
+Com tais considerações, rejeita-se a preliminar de nulidade da sentença.
+Mérito
+Como visto, a controvérsia recursal está em aferir a configuração da responsabilidade civil da Apelante pelos danos sofridos pela parte Apelada e, sucessivamente, verificar a adequação do montante indenizatório.
+A responsabilização civil estabelece que aquele que causar danos a outrem por ato ilícito fica obrigado a repará-lo (CC, arts. 186 e 927).
+Extrai-se do boletim de ocorrência policial e prontuário médico constantes dos autos que a Apelada caminhava em frente à loja da Apelante quando pisou na tampa do dispositivo de segurança contra incêndio instalado na calçada, que "afundou" e provocou sua queda, causando-lhe ferimentos na perna esquerda, tendo sido socorrida por bombeiros e levada ao hospital (ordens n.7 e 9).
+Sobre o tema, tem-se que a manutenção e conservação de equipamentos de segurança contra incêndio na calçada de via pública em que estão instalados é de responsabilidade do proprietário ou usuário do imóvel correspondente.
+Destaca-se o disposto no Decreto Estadual n. 44.746, de 2008, em que se fundamenta a sentença:
+(..)
+Como bem esclarece a Apelada, tal sistema é composto por um "dispositivo de recalque" instalado na calçada de determinadas edificações, que deve ser coberto por uma tampa de ferro fundido identificada pela palavra "incêndio".
+A instalação e manutenção do Sistema de Hidrantes e Mangotinhos para Combate a Incêndio está regulamentada na Instrução Técnica -IT-17, do Corpo de Bombeiros Militar do Estado de Minas Gerais-CBMMG, que estabelece:
+(..)
+Nesse sentido, não há dúvida de que a "tampa de incêndio" deve ser de ferro fundido, justamente para garantir o trânsito seguro de pedestres pela calçada.
+Nota-se que a tampa quebrou sob o peso de uma criança de 13 anos, o que revela falta de resistência adequada e atendimento das especificações técnicas.
+Por outro lado, não há prova de que a tampa tenha sido danificada por "obras da prefeitura". Ainda que fosse, caberia à Apelante adotar as providências cabíveis perante a municipalidade.
+Ademais, essa alegação se afigura contraditória, pois se a tampa estava quebrada, não poderia permanecer sem sinalização. Se quebrou sob o peso da Apelada, estava em mau estado de conservação, patentemente inadequada para sua finalidade.
+As circunstâncias examinadas denotam negligência da Apelante que, por omissão, descumpriu sua obrigação de manutenção da tampa de incêndio, pondo em risco a segurança dos transeuntes e comprometendo a circulação de pedestres.
+A demonstração inequívoca de que houve dano causado por conduta ilícita enseja o dever de reparação civil. O nexo de causalidade é patente, pois a precariedade da tampa de incêndio ensejou a queda sofrida pela parte Apelada.
+Os danos morais são inegáveis, sendo que a integridade física constitui um dos atributos invioláveis da personalidade. (Sem grifo no original).
+Registre-se que o acórdão recorrido foi devidamente fundamentado, não havendo falar em violação ao art. 489, § 1º, do CPC/2015, até porque, conforme entendimento desta Corte, "se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp n. 1.584.831/CE, Relator Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+Ante o exposto, conheço do agravo para negar provimento aorecurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários fixados na origem para R$ 1.500,00 (mil e quinhentos reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL. AÇÃO INDENIZATÓRIA. EQUIPAMENTO DE PREVENÇÃO A INCÊNDIO EM CALÇADA. CONSERVAÇÃO. ESTABELECIMENTO COMERCIAL LOCALIZADO NO IMÓVEL CORRESPONDENTE. LEGITIMIDADE PASSIVA. AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
