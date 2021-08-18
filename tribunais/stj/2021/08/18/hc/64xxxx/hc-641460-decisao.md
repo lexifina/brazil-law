@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de JUCIMAR FRANCO JERÔNIMO contra acórdão proferido pelo Tribunal de Justiça do Estado do Paraná no julgamento doHC n. 0073188-10.2020.8.16.0000.
+Extrai-se dos autos que o paciente, no âmbito da Operação "Matrem", foi preso em flagrante em 5/12/2020, convertida em prisão preventiva, tendo sido denunciado pela suposta prática dos delitos dispostos nos arts. 33, caput, e 35, ambos da Lei n. 11.343/06 e nos arts. 12 e 16, § 1º, inciso IV, ambos da Lei n. 10.826/03 (tráfico de drogas, associação para o tráfico, posse irregular de arma de fogo de uso permitido e posse irregular de arma de fogo com numeração raspada).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS CRIME - (OFERECIDA A DENÚNCIA) - TRÁFICO DE DROGAS E ASSOCIAÇÃO, POSSE ILEGAL DE ARMA DE FOGO E PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO - DELITOS PREVISTOS NOS ARTIGOS 33, CAPUT, E 35 AMBOS DA LEI 11.343/06, 12 E 16 AMBOS DA LEI 10.826/03 - DECRETAÇÃO DA PRISÃO PREVENTIVA - FUMUS COMISSI DELICTI E PERICUL UM LIBERTATIS DEVIDAMENTE COMPROVADOS CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO - RECOLHIMENTO AO ERGÁSTULO NECESSÁRIO - GRAVIDADE CONCRETA DA CONDUTA - CIRCUNSTÂNCIAS DA APREENSÃO QUE INDICAM A TRAFICÂNCIA - PACIENTE QUE JÁ ERA ALVO DE INVESTIGAÇÕES - RISCO CONCRETO DE REITERAÇÃO DELITIVA - APREENSÃO DE VULTOSA QUANTIDADE DE DROGA - PRECEDENTES - NÃO RECOMENDÁVEL A APLICAÇÃO DE QUALQUER OUTRA MEDIDA PREVISTA NO ARTIGO 319 DO CPP.
+ORDEM DENEGADA" (fl. 472).
+No presente writ,a defesa destaca as condições pessoais favoráveis do paciente, alegando ausência dos requisitos da prisão preventiva, previstos no art. 312 do CPP.
+Sustenta ser cabívela aplicação da medidas cautelares diversas da prisão dispostas no art. 319 do CPP.
+Requer, assim, a revogação da prisão preventiva do paciente. Subsidiariamente, pleiteia pela substituição por medidas cautelares diversas da prisão (art. 319 do CPP).
+Indeferida a liminar (fls. 480/481) e informações prestadas (fls. 485/496), o Ministério Público Federal opinou pela denegação da ordem(fls. 500/503).
+É o relatório.
+Decido.
+De início, cumpre ressaltar que foi formulado pedido idêntico em benefício do mesmo paciente no RHC 147.492/PR, de minha Relatoria, no qual neguei provimento, em decisão proferida na presente data.
+Assim, tendo o presente mandamus a mesma parte e questionando matéria anteriormente arguida no referido recurso em habeas corpus, o qual diz respeito à mesma ação penal de origem,resta configurada inadmissível reiteração, o que impede o conhecimento das alegações.
+Confira-se a jurisprudência pacífica deste Tribunal:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC  112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo: não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz. que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP. Rei. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. INDEFERIMENTO LIMINAR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, XX, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. TRÁFICO. INEXISTÊNCIA DE PROVA DE AUTORIA E MATERIALIDADE. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. SÚMULA N. 52/STJ. COAÇÃO ILEGAL NÃO CONFIGURADA. INSURGÊNCIA DESPROVIDA.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. O art. 34, XX, do Regimento Interno desta Corte Superior, autoriza o relator a decidir o habeas corpus quando for manifestamente inadmissível, exatamente como ocorre na espécie, inexistindo prejuízo à parte, já que dispõe do respectivo regimental, razão pela qual não se configura ofensa ao princípio da colegialidade.
+3. As alegações de inexistência de prova da materialidade delitiva e de indícios de autoria, de falta de fundamentação e de requisitos para a manutenção da prisão cautelar ou da possibilidade de sua substituição por outras medidas cautelares já foram analisadas no RHC n. 88.794/SP e do HC n. 464.390 decididos anteriormente, o que configura a simples reiteração de pedido, o que autoriza o indeferimento liminar do writ.
+4. A prolação de sentença condenatória prejudica a análise de eventual excesso de prazo para a formação da culpa, nos termos do enunciado sumular n. 52 do Superior Tribunal de Justiça.
+5. Agravo regimental desprovido.
+(AgRg no HC 505.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/06/2019).
+Ante exposto, com fundamento no art. 932, III, do Código de Processo Civil e no art. 3º do Código de Processo Penal, não conheço do presente habeas corpus.
+Publique-se.
+Intimem-se.
