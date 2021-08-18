@@ -1,0 +1,23 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1013982-52.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por M. A. G., neste ato representada por sua genitora Flavia Taline Campos Gabriel de Andrade, em virtude da decisão proferida pela Juíza da 8.a Vara Cível da Comarca de Cuiabá que, nos autos da Ação de Obrigação de Fazer c/c Tutela Antecipada n.o 1027320-67.8.11.0041, ajuizada em face da UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO, deferiu parcialmente o pedido de tutela de urgência e determinou que a operadora do plano de saúde forneça a “Bomba de Infusão (SICI) Accu-Chek Spirit Combo Uma Unidade (uso contínuo) e o Monitor Inteligente (Smart Control) Accu-Chek Performa Combo Uma Unidade (uso contínuo)”, no prazo de 10 (dez) dias, sob pena de multa diária de R$ 1.000,00 (um mil reais).
+Além disso, a Juíza singular indeferiu o pedido atinente aos insumos e aparelho de monitoramento glicêmico diário denominado “Sensor Libre FreeStyle”, por se tratar de materiais de uso domiciliar e que já eram de responsabilidade da Agravante.
+Em suas razões recursais, a Agravante alega que é portadora de Diabetes Mellitus Tipo 1 e que, em razão do seu quadro clínico, foi indicado pelo médico que a acompanha a utilizar o Sistema de Infusão Contínua de Insulina por meio da “Bomba Infusora de Insulina do tipo – ACCU CHEK COMBO”, acompanhado de todos os insumos.
+Assevera que o sistema de monitoramente glicêmico utilizado pela Agravante é diferente daquele indicado pelo médico, e sem o monitor “FreeStyle Libre” a Bomba Infusora não funcionará corretamente.
+Sustenta que há risco a sua saúde se o método não for exatamente o prescrito pelo médico, tornando indispensável a cobertura integral pelo plano de saúde.
+Sob tais argumentos, pugnou pela concessão da tutela recursal, a fim de que seja fornecido pela Agravada todos os equipamentos e insumos indicados pelo médico, bem como o fornecimento do “Sensor Libre FreeStyle”. No mérito, pelo provimento do recurso e a reforma da decisão objurgada no ponto atacado.
+Eis o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois se enquadra na hipótese do artigo 1.015, inciso I, do CPC, bem como veio instruído com os documentos necessários para sua análise e conhecimento.
+É cediço que o artigo 1.019, inciso I, do Código de Processo Civil, dispõe que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada a plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Na hipótese, de acordo com o relatório médico acostado no ID 62045225, a Agravante foi diagnosticada com Diabetes Mellitus tipo 1 (CID: E10) em outubro de 2015.
+Denota-se do laudo que o profissional que acompanha a Agravante indicou a alteração do tratamento atual, mediante a substituição da aplicação de insulina por meio do uso de canetas para o método conhecido como “Bomba Accu-Ckek combo – Sistema de Infusão Contínua de Insulina”. Sugeriu, ainda, o kit completo composto pela Bomba e “Monitor Inteligente (Smart Control) Accu-Chek Performa” Combo, bem como os demais insumos necessários para o funcionamento do aparelho.
+Consta do relatório acostado no ID. 62045227 que a recomendação de uso desse dispositivo para infusão contínua de insulina e Sensor de Glicemia Intersticial Free Style Livre, tem por objetivo melhorar a qualidade de vida da paciente, ou seja, “visa-se diminuir necessidade de picadas para aplicação da insulina”.
+Em que pesem aos argumentos vertidos pela Recorrente, tenho que, neste juízo de cognição sumária, não há elementos suficientes para reformar a decisão objurgada, pois desde quando foi diagnosticada com diabetes, a Agravante passou a fazer uso de insulina com uso de equipamentos às suas expensas, não sendo caso de compelir, desde logo, a Agravada a fornecer os aparelhos e insumos solicitados e que, até então, estavam sendo custeados pela própria paciente.
+Ademais, a Agravante não demonstrou, de forma segura, que a utilização do atual sistema de monitoramento de glicemia – por meio de “canetas” - comprometerá o resultado do tratamento, de modo que não há demonstração de urgência ou emergência para exigir da Agravada o fornecimento do “Sensor de Glicemia Intersticial Free Style Livre” em substituição do equipamento que vem sendo.
+Feitas essas considerações, indefiro o pedido de efeito ativo.
+Comunique-se ao Juiz da causa.
+Intime-se a Agravada para contraminutar o recurso, nos termos do art. 1.019, II, do CPC.
+Publique-se.
+Cuiabá, 18 de agosto de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
