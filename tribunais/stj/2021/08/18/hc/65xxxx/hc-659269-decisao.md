@@ -1,0 +1,35 @@
+DECISÃO
+Cuida-se de habeas corpus preventivo, com pedido liminar, impetrado em benefício de CAIO DE MARINS SOUSA, apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO no julgamento da Apelação Criminal n. 0002431-70.2017.8.26.0338.
+Extrai-se dos autos que o paciente foi condenado ao cumprimento da pena de 10 anos, 8 meses e 10 dias de reclusão, em regime fechado, e ao pagamento de 25 dias-multa, como incurso nas sanções do artigo 157, § 2º, I, II e V, por quatro vezes, na forma do art. 70, todos do Código Penal (roubo majorado). Com a condenação, a magistrada decidiu pela prisão preventiva do paciente.
+A defesa impetrou habeas corpus perante o Tribunal de origem, que concedeu a ordem, deferindo ao ora paciente a liberdade provisória para que respondesse ao processo em liberdade. O alvará de soltura foi cumprido em 30/6/2020.
+Também foi interposta apelação perante o Tribunal de origem, o qual desproveu o recurso nos termos do acórdão assim ementado:
+APELAÇÃO CRIMINAL - Roubo triplamente circunstanciado em detrimento de quatro vítimas em concurso formal - Concurso de agentes, arma de fogo e mediante restrição de liberdade das vítimas - Pleito para aguardar o recurso em liberdade prejudicado porque já acolhido em sede de Habeas Corpus - Mérito - Absolvição por insuficiência de provas descabida - Uma das vítimas reconheceu o acusado, sem sombra de dúvidas, nas duas etapas da instrução - Demais provas que robustecem a autoria atribuída ao réu e enfraquece a prova defensiva - Condenação mantida - Dosimetria penal inalterada - Culpabilidade e conseqüências do crime que autorizam a fixação da pena-base 1/3 acima do mínimo - Agravante em razão de a vítima ser infante - Aumento de 3/8 proporcional à maior gravidade decorrente das causas de aumento de pena no caso concreto - Concurso formal - Quatro patrimônios distintos atingidos que justificam o incremento de 1/4 - Pena de multa fixada ao arrepio do art. 72 do CP - Regime fechado como único adequado à espécie - Apelação não provida. Sentença mantida. (fl. 17).
+Foram opostos embargos de declaração, que restaram rejeitados em 7/5/2021.
+No presente writ, a defesa sustenta que o paciente está em liberdade, todavia corre risco de que seja decretada sua prisão preventiva.
+Afirma que o paciente é réu primário, tem emprego fixo e residência certa, sendo que o delito ocorreu há 4 anos, inexistindo elementos concretos para a decretação da sua prisão preventiva. Ressalta a pandemia da COVID-19.
+Pleiteia, em liminar e no mérito, a cassação de quaisquer decisões que coloquem o paciente em cárcere ilegal por força de prisão preventiva, com a consequente revogação de um futuro decreto prisional e expedição do contramandado de prisão em seu benefício, para que possa responder ao processo em liberdade. Alternativamente, pugna a substituição da prisão preventiva por cautelares previstas no art. 319 do CPP. Pugna, em caso de ter sido cumprido o mandado de prisão preventiva, seja convertido por este juízo o contramandado de prisão em alvará de soltura em benefício do paciente.
+Liminar indeferida (fls. 28/30) e prestadas as informações (fls. 36/37 e 68/71), o Ministério Público Federal se manifestou pela prejudicialidade do writ (fls. 73/77).
+É o relatório.
+Decido.
+A impetração não deve ser conhecida.
+O habeas corpus é remédio constitucional que visa afastar ameaça ou violência contra a liberdade de locomoção, nos termos do art. 5º, LXVIII, da Carta Magna, verbis:
+Art. 5º (..) LXVIII - conceder-se-á habeas corpus sempre que alguém sofrer ou se achar ameaçado de sofrer violência ou coação em sua liberdade de locomoção, por ilegalidade ou abuso de poder;
+No caso dos autos, o impetrante busca a concessão preventiva do mandamus com a cassação de futuras decisões que coloquem o paciente em cárcere ilegal por força de prisão preventiva, com a consequente revogação de um eventual decreto prisional e expedição do contramandado de prisão em seu benefício, para que possa responder ao processo em liberdade.
+Nesse contexto, não verifico a indicação concreta da ocorrência, direta ou indireta, de lesão ou ameaça de lesão ao direito ambulatorial, pois, como se verifica dos autos o Tribunal Estadual concedeu a ordem em mandamus anterior, para garantir o direito de o paciente recorrer em liberdade.
+Ademais do julgamento da apelação e dos embargos de declaração, não se verifica determinação de prisão preventiva, estando, até o presente momento, resguardado do direito de o paciente permanecer em liberdade até trânsito em julgado da condenação, o que ainda não ocorreu, segundo se depreende do sítio eletrônico do Tribunal a quo.
+Não se identifica, assim, o pressuposto indispensável para o conhecimento do habeas corpus, qual seja, a salvaguarda do direito à liberdade de locomoção, o que inviabiliza, por si só, a utilização do remédio heroico.
+A propósito :
+AGRAVO REGIMENTAL EM RHC. CRIMES CONTRA A ORDEM TRIBUTÁRIA. REGIME SEMIABERTO. NÃO DEMONSTRAÇÃO DE QUE O AGRAVANTE IRÁ CUMPRIR PENA EM REGIME MAIS GRAVOSO. SALVO CONDUTO. NÃO CABIMENTO. AGRAVO IMPROVIDO.
+1. É inviável utilizar o remédio constitucional para obstar eventuais ilegalidades ou constrangimentos ainda não concretizados e sem fundado receio de que realmente ocorrerão (ut, AgRg no HC 573.860/RJ, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 18/05/2020).
+2. No caso em tela, não ficou devidamente demonstrado que o recorrente irá cumprir pena em regime mais grave do que o semiaberto.
+3. Agravo regimental desprovido.
+(AgRg no RHC 133.164/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 16/12/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. SUSTENTAÇÃO ORAL. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. MERA CONJECTURA SOBRE ATO DE HIPÓTESE. FUTURA E INCERTA DETERMINAÇÃO DE EXECUÇÃO IMEDIATA DA PENA. NÃO CABIMENTO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme em assinalar, nos termos dos arts. 159, IV, e 258, ambos do RISTJ, que o julgamento do agravo regimental prescinde de pauta e não comporta pedido de sustentação oral.
+2. Não há ofensa ao princípio da colegialidade diante da existência de previsão regimental para que o relator julgue, monocraticamente, o habeas corpus quando constatar as situações descritas no art. 34, XX, do RISTJ, como ocorreu no caso dos autos.
+3. Não há manifesto constrangimento ilegal ao direito de ir e vir do paciente. A defesa faz mera conjetura sobre ato de hipótese (futura e incerta determinação de execução imediata da pena privativa de liberdade por ocasião do julgamento da apelação) o que, consoante a jurisprudência deste Superior Tribunal, não dá ensejo a ação de habeas corpus.
+4. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada. 5. Agravo regimental não providp
+(HC 472.176/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 29/11/2018).
+Ante o exposto, com fundamento no art. 34, XVIII, a , do Regimento Interno do Superior Tribunal de Justiça, não conheço do habeas corpus.
+Publique-se.
+Intimem-se.
