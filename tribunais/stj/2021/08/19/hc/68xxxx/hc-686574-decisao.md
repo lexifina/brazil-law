@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de JUSSANA DA SILVA BECKERcontra decisão indeferitória de provimento urgente doDesembargadorRelatordo HC n.5136758-56.2021.8.21.7000, que tramita no Tribunal de Justiça do Estado do Rio Grande do Sul.
+Consta dos autos que a Paciente foi denunciada pela suposta prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006, pois, "tinha em depósito, vendia, oferecia, guardava e/ou trazia consigo, sem autorização e em desacordo com determinação legal ou regulamentar, para fins de comércio ou consumo alheio, cocaína" (fl. 17). Não há notícia da apreensão de entorpecentes no curso das investigações.
+Em 04/08/2021, o Juízo singular converteu a prisão temporária anteriormente decretada contra a Paciente em prisão preventiva (fls. 32-35).
+Contra o decreto prisional, a Defesa impetrou habeas corpus perante o Tribunal de origem.O Desembargador Relator, em 10/08/2021, indeferiu o pedido liminar (fls. 26-28).
+Neste writ, o Impetrante sustenta que a Paciente é mãe de uma criança de 4 (quatro)anos de idade que necessita dos seus cuidados.
+Afirma que "em nenhum momento fora apreendidasubstância entorpecente na posse da acusada, e muito menos, na sua residência onde mora com seu filho menor de 04 (quatro) anos" (fl. 13).
+Pugna, inclusive liminarmente, pela substituição da prisão preventiva pela domiciliar, nos termos do art. 318, inciso V, do Código de Processo Penal.
+É o relatório.
+Decido.
+Consoante o posicionamento firmado pela Suprema Corte e por este Tribunal Superior, não se admite habeas corpus contra decisão negativa de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância.
+É o entendimento sedimentado na Súmula n.691/STF ("não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar"), aplicável, mutatis mutandis, a este Superior Tribunal de Justiça (AgRg no HC 536.205/PB, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 12/11/2019, DJe 28/11/2019; e AgRg no HC 554.284/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 06/02/2020, DJe 14/02/2020).
+A despeito de tal óbice processual, tem-se entendido, que, em casos excepcionais, deve preponderar a necessidade de se garantir a efetividade da prestação da tutela jurisdicional de urgência para que flagrante constrangimento ilegal ao direito de liberdade possa ser cessado - tarefa a ser desempenhada caso a caso.
+Todavia, esse atalho processual não pode ser ordinariamente usado, senão em situações em que se evidenciar decisão absolutamente teratológica e desprovida de qualquer razoabilidade, na medida em que força o pronunciamento adiantado da Instância Superior, suprimindo a competência da Inferior, subvertendo a regular ordem do processo.
+Na situação dos autos, não se verifica, prima facie, ilegalidade patente que autorize a mitigação da Súmula n. 691 do Supremo Tribunal Federal, sobretudo porque o Desembargador Relator, ao indeferir a liminar no writ originário, salientou que "a paciente é suspeita de gerenciar o próprio ponto de tráfico, conhecido como "Boca da Jussana", utilizado para a venda de cocaína, conforme consta nos elementos informativos do inquérito policial, ensejando fundado receio de que tenha aprofundado envolvimento com a ilícita mercancia - inclusive por fazer da sua própria residência local destinado à venda de drogas" (fl. 28).
+Além disso,o Juízo singular asseverou que a Acusada possui condenação definitiva pela prática do crime de tráfico de drogas e ostenta condenação, não definitiva, por outro crime de tráfico (fl. 33).
+Confira-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. DIVERSIDADE E QUANTIDADE DE DROGAS. REITERAÇÃO.FUNDAMENTAÇÃO CONCRETA. PRECEDENTES. PRISÃO DOMICILIAR. DELITO PRATICADO NA RESIDÊNCIA. MÃE DE FILHOS MENORES. NÃO CABIMENTO.PROTEÇÃO À CRIANÇA. REVISÃO DAS CIRCUNSTÂNCIAS DO DELITO.IMPOSSIBLIDADE. AGRAVO IMPROVIDO.
+ ..
+3. A substituição da custódia preventiva pela domiciliar não resguarda o interesse dos filhos menores de 12 anos de idade quando o crime é praticado na própria residência da agente, onde convive com os infantes.
+4. Rever a circunstância em que ocorreu a apreensão de drogas, notadamente a tese de que não estaria na posse das drogas em residência, importa extensa incursão do acervo fático-probatório, o que não encontra espaço na via eleita.
+5. Agravo regimental improvido."(AgRg no HC 632.273/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 02/03/2021, DJe 05/03/2021; sem grifos no original.)
+Diante do que registrado acima - em que não se observa, ao menosprimo ictu oculi, nenhuma teratologia -, não há como se reconhecer, de plano, ilegalidade patente que autorize a mitigação da Súmula n.691 do Supremo Tribunal Federal, cuja essência vem sendo reiteradamente ratificada por julgados do Pretório Excelso e deste Superior Tribunal de Justiça.
+Destaque-se que, não havendo notícia de que o Tribunal local tenha procedido ao exame meritório, reserva-se primeiramente àquele Órgão a apreciação da matéria ventilada nowritoriginário, sendo defeso a esta Corte adiantar-se nesse exame, sobrepujando a competência da Corte de origem, mormente se owritestá sendo regularmente processado.
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSOPENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
