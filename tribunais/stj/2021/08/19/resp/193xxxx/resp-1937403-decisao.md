@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+RESTITUIÇÃO DE VALORES - Arrendamento Mercantil - Valor Residual Garantido (VRG) - Pretensão de reconhecimento da prescrição dos valores que seriam devidos ao banco réu - Valores ilíquidos - Prazo prescricional decenal (art. 205 do Código Civil) - Observação de que a atualização monetária deve se dar tanto para o valor das prestações adiantadas pelo autor arrendatário, como do valor contratado do VRG - Precedentes - Sentença mantida, com observação - Majoração dos honorários sucumbenciais devidos ao réu, nos termos do art. 85, §11, do CPC - Recurso improvido, com observação.
+Contra o referido acórdão, a parte recorrente opôs embargos de declaração, afirmando que a Corte de origem determinou a incidência de correção monetária sobre valor do VRG desde a data da pactuação, sem atentar para o fato de que o pagamento de tal consectário foi realizado de forma parcelada, circunstância que merece ser observada quando da incidência da atualização, para evitar o enriquecimento ilícito da parteex adversa.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 1.022do Código de Processo Civil.
+Em face do exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
