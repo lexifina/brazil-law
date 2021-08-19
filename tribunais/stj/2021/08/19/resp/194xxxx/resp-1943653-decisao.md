@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto por WALÉRIA DE AMORIM MOTA ALVES, com fundamento naalínea"a" do inciso III do artigo 105 da Constituição Federal, em face de acórdão proferido pela Oitava Turma Cíveldo Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 457):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. EMPRÉSTIMOS BANCÁRIOS. DESCONTOS. CONTA CORRENTE. LIMITAÇÃO. IMPOSSIBILIDADE. LIBERDADE CONTRATUAL.
+1. A liberdade de contratar submete-se à função social do contrato bem como ao princípio da dignidade da pessoa humana, consagrado no artigo 1º, III, da Constituição Federal.
+2. Não cabe ao Poder Judiciário imiscuir-se na seara das relações contratuais realizadas por pessoas maiores e capazes para desconstituir acordos legalmente ajustados.
+3. É válido o desconto sem limitação na conta corrente, relativo a mútuo livremente ajustado entre o consumidor e o banco, com expressa cláusula autorizativa do débito.
+4. Recurso do réu provido. Julgado prejudicado o recurso dos autores.
+Arecorrente sustentaofensa aos artigos 6º, 46 e 51 do Código de Defesa do Consumidor e833, IV,do Código de ProcessoCivil, alegando a ilegalidade dos descontos efetuados em sua conta-corrente referentes àsparcelas dos mútuospactuados com a instituição financeira ré acima do limite de 30% (trinta por cento) previsto para os empréstimos consignados em folha de pagamento,especialmente em razão da impenhorabilidade da verba salarial.
+Ocorre que a definição sobre a "aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário"foi afetada ao rito dos recursos Representativos de Controvérsia nos autos dos recursos especiais 1.872.441/SPe1.863.973/SP(Tema 1.085), ainda não julgados.
+Anoto que o referido órgão julgador decidiu pela suspensão do processamento dos feitos que versem sobre idêntica questão em tramitação no território nacional.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, a devolução dos autos ao Tribunal de origem é medida que se impõe, nos termos do art. 256, L, inciso I, do Regimento Interno do Superior Tribunal de Justiça.
+Em face do exposto, nos termos do inciso II do artigo 1.037 do CPC, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito dos recursos recebidos como representativos da controvérsia, e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil.
+Intimem-se.
