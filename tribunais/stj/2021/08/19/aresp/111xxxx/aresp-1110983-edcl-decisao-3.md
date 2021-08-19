@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por BradescoVida e Previdência S/A contra decisão mediante a qual conheci do agravo e dei provimento ao recurso especial, para determinar que a indenização securitária seja paga proporcionalmente à redução da capacidade funcional do segurado, em conformidade com a tabela de cálculos da Susep.
+Afirma a embargante que a decisão embargada não se manifestou sobre "o grau da perda ou redução funcional do membro ou órgão lesionado, bem como o limite máximo de comprometimento do capital segurado em relação ao membro ou órgão lesionado".
+Aponta, ainda, omissão na parte relativa ao pagamento do valor fixado a título de invalidez parcial permanente decorrente de acidente pessoal acrescido do adicional de indenização de 200% incidentes sobre a cobertura básica, sob o argumento de que esse excedente já está incluído no montante do valor fixado na apólice para o referido sinistro.
+Anotou, por fim, que, não houve fixação deverba advocatícia.
+Assim delimitada a questão, observo que tem razão em parte a embargante.
+E isso porquea tabela inserida no art. 5º da Circular Susep 29/1991 estabelece diversos percentuais para cobertura securitária decorrente de lesão parcial permanente nos membros superiores, esclarecendo o § 1º que, não sendo suprimidas totalmente as funções do órgão lesado (hipótese dos autos): "aindenização por perda parcial é calculada pela aplicação, à percentagemprevista na tabela para sua perda total, do grau de redução funcionalapresentado. Na falta de indicação da percentagem de redução e, sendoinformado apenas o grau dessa redução (máximo, médio ou mínimo), aindenização será calculada, respectivamente, na base das percentagens de 75%,50% e 25%".
+Diante disso, considerando que no caso em exame a perícia não se manifestou sobre o grau de redução funcional suportado pelo autor da ação, o percentual a ser aplicado no caso do ora embargado, bem assim qual o grau de sua redução funcional (máximo, médio ou mínimo)deverão ser apurados em liquidação de sentença.
+Também tem razão a embargante no tocante à impossibilidade da cumulação do pagamento da cobertura adicional com indenização por invalidezparcial permanente decorrente de acidente, tema ventilado nas razões do especial, mas sobre o quala decisão embargada, não se manifestou.
+Nesse sentido:
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUALCIVIL. CUMPRIMENTO DE SENTENÇA. VIÚVA.LEGITIMIDADE ATIVA. SEGURO DE VIDA EM GRUPO
+COM GARANTIA BÁSIC A POR MORTE E COBERTURAADICIONAL POR INVALIDEZ PERMANENTE.IMPOSSIBILIDADE DE CUMULAÇÃO DAINDENIZAÇÃO POR MORTE E A POR INVALIDEZ.EXCESSO DE EXECUÇÃO.
+(..)
+7. Jurisprudência do Superior Tribunal de Justiça no sentidode que, no seguro de vida em grupo, a cobertura adicional porinvalidez total e permanente por doença do segurado é umaantecipação do pagamento da indenização relativa à garantiabásica para o caso de sua morte.
+8. Como uma prestação é antecipação da outra, asindenizações relativas às garantias básica e adicional de IPDnão podem ser cumuladas.
+9. Extinção do cumprimento de sentença.
+10. RECURSO ESPECIAL PROVIDO.
+(RESP 1.769.644/DF, Terceira Turma, Relator Ministro Paulo de Tarso Sanseverino, DJ 29.10.2020)
+RECURSO ESPECIAL. CIVIL. SEGURO DE VIDA EM GRUPO E ACIDENTES PESSOAIS. GARANTIA IPA. LESÃO OCUPACIONAL.INCAPACIDADE PARCIAL DEFINITIVA. VALOR DA INDENIZAÇÃO.PROPORCIONALIDADE. GRAU DE INVALIDEZ. PREVISÃO CONTRATUAL E NORMATIVA. DEVER DE INFORMAÇÃO AO CONSUMIDOR. OBEDIÊNCIA.ADICIONAL AUTÔNOMO DE 200% SOBRE A COBERTURA BÁSICA DE MORTE.INEXISTÊNCIA. GARANTIA SECURITÁRIA E FÓRMULA DE CÁLCULO.CONCEITUAÇÃO.
+7. Não há falar na existência autônoma de um adicional de 200% (duzentos por cento) sobre a cobertura básica (de morte) paralela à garantia IPA, pois tal percentual já é a própria fórmula de cálculo dessa garantia adicional, ou seja, o seu valor é de até 200% (duzentos por cento) da cobertura básica (art. 2º, § 2º, II, da Circular SUSEP nº 17/1992). Na hipótese, a quantia máxima da cobertura IPA já estava dobrada quando comparada com a cobertura básica de "morte".
+8. Recurso especial provido.
+(RESP 1.727.718/MS, Terceira Turma, Relator Ministro Ricardo Villas Bôas Cueva, DJ 8.5.2018)
+Observo, por fim,a despeito do provimento do especial, que a decisão embargada não fixou os honorários advocatícios em favor da parte vencedora.
+Diante disso, verifico que a Corte Especial deste Tribunal consolidou a orientação no sentido de que a data da sentença constitui o marco para aplicação das normas relativas a honorários advocatícios de sucumbência. Nesse sentido:
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. NATUREZA JURÍDICA HÍBRIDA, PROCESSUAL E MATERIAL. MARCO TEMPORAL PARA A INCIDÊNCIA DO CPC/2015. PROLAÇÃO DA SENTENÇA. PRESERVAÇÃO DO DIREITO ADQUIRIDO PROCESSUAL.
+1. Em homenagem à natureza processual material e com o escopo de preservar os princípios do direito adquirido, da segurança jurídica e da não surpresa, as normas sobre honorários advocatícios de sucumbência não devem ser alcançadas pela lei processual nova.
+2. A sentença (ou o ato jurisdicional equivalente, na competência originária dos tribunais), como ato processual que qualifica o nascedouro do direito à percepção dos honorários advocatícios, deve ser considerada o marco temporal para a aplicação das regras fixadas pelo CPC/2015.
+3. Assim, se o capítulo acessório da sentença, referente aos honorários sucumbenciais, foi prolatado em consonância com o CPC/1973, serão aplicadas essas regras até o trânsito em julgado. Por outro lado, nos casos de sentença proferida a partir do dia 18.3.2016, as normas do novel diploma processual relativas a honorários sucumbenciais é que serão utilizadas.
+4. No caso concreto, a sentença fixou os honorários em consonância com o CPC/1973. Dessa forma, não obstante o fato de o Tribunal de origem ter reformado a sentença já sob a égide do CPC/2015, incidem, quanto aos honorários, as regras do diploma processual anterior.
+5. Embargos de divergência não providos. (EAREsp 1.255.986/PR, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 20/03/2019, DJe 06/05/2019)
+No caso presente, a sentença foi proferida em 13.11.2015e, portanto, os honorários advocatícios devem ser fixados com base nas regras do CPC/1973.
+Em face do exposto, acolho parcialmenteos embargos de declaração, para esclarecer que:
+a) o percentual correspondente à redução funcional, entre os estabelecidos no art. 5º e § 1º, da Circular Susep 29/1991, deve ser aplicado ao autor da ação, bem como o grau da referida redução (máximo, médio ou mínimo), deverão ser apurados em liquidação de sentença;
+b) fica afastado o pagamento da indenização adicional de 200% incidentes sobre a cobertura básica; e
+c) o autor da ação fica condenado ao pagamento das custas processuais e honorários advocatícios, que fixo em R$ 2.000,00 (dois mil reais), quantia estabelecida pela Quarta Turma, de forma equitativa, na generalidade dos casos de litígios estabelecidos entre segurados e seguradoras, nos quais não há condenação, com base no art. 20, § 4º, do CPC/1973, ônus suspensos em caso de concessão de justiça gratuita.
+Intimem-se.
