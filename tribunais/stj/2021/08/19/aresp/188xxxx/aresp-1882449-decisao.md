@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo interposto por BEATRIZ SIQUEIRA BRAGA contra decisão que negou seguimento a recurso especial manejado em face de acórdão proferido pelo Tribunal de Justiça do Estado do Tocantins, assim ementado (e-STJ, fl. 468):
+APELAÇÃO. AÇÃO DE USUCAPIÃO EXTRAORDINÁRIA. AUSÊNCIA DE COMPROVAÇÃO DOS REQUISITOS NECESSÁRIOS. POSSE QUE NÃO PASSOU DE MERA DETENÇÃO. SENTENÇA MANTIDA. RECURSO NÃO PROVIDO. - Comprovada que a posse da apelante era precária porque havia por mera detenção, correta a sentença que inadmite a usucapião, pela ausência dos requisitos necessários previstos pelo artigo 1.238, parágrafo único, do Código Civil.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 1.238 e 1.240do Código Civil, sustentando a comprovação dos requisitos para o reconhecimento da usucapião, uma vez que desde maio de 1990 reside no imóvel objeto da lide.
+Aduz que realizou o cadastro na empresa de energia elétrica 6 anos antes da aquisição do imóvel pelos recorridos e, portanto, eles não poderiam ter concedido o ato de permissão ou tolerância porque somente adquiriram o imóvel em 2/2/2004.
+Afirma que as testemunhas comprovam a sua residência no imóvel desde 1990 e, portanto, seu animus domini.
+Alega que houve a negativa de vigência dosarts. 7º e 8º, do Código de Processo Civil/2015 em virtude da nulidade do acórdão que convalidou sentença impregnada de error in judicando.
+E, finalmente, que houve contrariedade aos arts. 5º, LIV, LV, e 183, da Constituição Federal.
+Contrarrazões apresentadas.
+O recurso especial não foi admitido em virtude da impossibilidade de análise de violação aos arts.5º, LIV, LV, e 183, da Constituição Federal e aincidência da Súmula 7 do STJ.
+Nas razões do seu agravo em recurso especial, a agravante afirma que não incide o óbice da Súmula 7 do STJ, sendo possível a revaloração dos fatos expressamente indicados no acórdão recorrido; eque não há pedido de reconhecimento de violação à norma Constitucional.
+Assim delimitada a controvérsia, passo a decidir.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presenterecurso, verifico queelenão merece serprovido, senão vejamos.
+No mérito,a recorrente aponta violação dos arts. 1.238 e 1.240 do Código Civil,uma vez que foicomprovado orequisitopara o reconhecimento da usucapião, porque reside no imóveldesde maio de 1990, tendo realizadoo cadastro na empresa de energia elétrica 6 anos antes da aquisição do imóvel pelos recorridos e, portanto, que eles não poderiam ter concedido o ato de permissão ou tolerância porque somente adquiriram o imóvel em 2/2/2004.
+Sobre o tema, o Tribunal de origem consignou queo acervo probatório demonstrou que, inobstante a recorrenteresida no imóvel por vários anos(fato incontroverso), o fazpor mera tolerância dos réus. Confira-se:
+Para provimento do pleito de usucapião com base no artigo 1238, parágrafo único, do Código Civil, competia à parte autora demonstrar a posse ininterrupta, mansa e pacífica, com "animus domini", pelo prazo de 10 aos, além de moradia ou obras e serviços de caráter produtivo na área.
+Afirmou que desde 1990 exercia a posse nessas condições, e só depois os proprietários compraram o imóvel no qual a área pleiteada está inserida.
+Entretanto, tais afirmativas foram confrontadas pela defesa.
+Logo, se por um lado a autora logrou trazer aos autos prova do exercício regular da posse, o acervo probatório colacionado aos autos, por sua vez, demonstrou que inobstante ela resida no imóvel por vários anos (fato incontroverso), o tem por mera tolerância dos réus.
+Extrai-se dos autos que a requerente nunca exerceu a posse ad usucapionem sobre o imóvel, pois nunca teve, de fato, a posse do imóvel, pois o detinha e o detém por mera permissão e/ou tolerância dos requeridos, circunstância que não induz à posse ad interdicta ..
+Como se vê, o Tribunal de origem solucionou toda a controvérsia à luz das provas presentes nos autos, concluindo pela não comprovação dos requisitos para o reconhecimento da usucapião, de sorte que a modificação das conclusões adotadas no acórdão recorrido demandaria a análise do conjunto fático-probatório dos autos, providência que esbarra no óbice daSúmula 7 do STJ.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. USUCAPIÃO NÃO COMPROVADA. ALTERAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7 DO STJ. AGRAVO IMPROVIDO.
+1. A instância ordinária, ao dirimir a controvérsia, assentou o entendimento de que estão presentes os requisitos legais para a concessão da reintegração de posse e, ainda, afastou, com base na análise no acervo fático-probatório dos autos, que os elementos da usucapião pleiteada, por igual, não se demonstraram.
+2. Nesse contexto, reverter a conclusão do Tribunal local para acolher a pretensão recursal quanto ao reconhecimento da usucapião demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, consoante enunciado da Súmula n. 7 do Superior Tribunal de Justiça.
+3. Agravo improvido.
+(Terceira Turma, AgInt no AREsp 882.877/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, unânime, DJe de DJe de 30.11.2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE USUCAPIÃO. POSSE POR MERA TOLERÂNCIA. REVISÃO. NECESSIDADE DE REVOLVIMENTO DAS PROVAS JUNTADAS AOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No caso, para infirmar as conclusões do julgado, tem-se que esta Corte não se limitaria apenas a dar uma nova valoração jurídica aos fatos, na medida em que necessitaria de proceder ao revolvimento do suporte fático-probatório dos autos. Desse modo, infirmar as conclusões do julgado, para reconhecer a existência de usucapião, demandaria o revolvimento do suporte fático-probatório dos autos, o que encontra vedação no enunciado da Súmula 7 do Superior Tribunal de Justiça.
+2. Agravo interno não provido.
+(Quarta Turma, AgInt no AREsp 958.311/RS, Rel. Ministro LUÍS FELIPE SALOMÃO, unânime, DJe de 10.10.2016)
+Quanto ao mais, forçoso reconhecer a alegação genérica de violação dos arts. 7º e 8º, do CPC/2015, sob o fundamento denulidade do acórdão que convalidou sentença impregnada de error in judicando, sem a demonstração dos fundamentos jurídicos que subsidiam a sua alegação.
+Incide, sobre o tema, o óbice da Súmula 284 do STF.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.ROMPIMENTO DE ACORDO VERBAL PARA REALIZAÇÃO DE EVENTO DE ENTRETENIMENTO. SUPOSTA VIOLAÇÃO AOS ARTIGOS 1.022 E 489, § 1º, DO CPC DE 2015. NÃO OCORRÊNCIA. ARTIGO 240 DO CPC DE 2015. ALEGAÇÃO GENÉRICA DE VIOLAÇÃO À LEI FEDERAL. APLICAÇÃO DA SÚMULA N. 284/STF.ALEGADA OCORRÊNCIA DE DANOS MORAIS. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. APLICAÇÃO DA SÚMULA N. 284/STF. NÃO INDICAÇÃO DO DISPOSITIVO LEGAL QUE TENHA SOFRIDO INTERPRETAÇÃO DIVERGENTE.DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA N. 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se viabiliza o recurso especial pela indicada violação ao artigo 1.022, inciso II, do do Código de Processo Civil de 2015.
+Isso porque, embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da recorrente. A Corte local apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+2. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+3. A falta de articulação de argumentos jurídicos a embasar a assertiva de violação ao artigo 240 do CPC de 2015 caracteriza deficiência de fundamentação, que impede a exata compreensão da controvérsia e obsta o conhecimento do recurso especial. Incidência da Súmula n. 284/STF. Precedentes.
+4. Em relação à suposta ocorrência de danos morais, não cabe recurso especial quando o recorrente não declina, nas razões, qual o dispositivo legal afrontado. Deficiência na fundamentação que enseja a aplicação da Súmula n. 284/STF. Precedentes.
+5. Ainda em relação à suposta ocorrência de danos morais, a falta de particularização do dispositivo de lei federal objeto de divergência jurisprudencial consubstancia deficiência bastante a inviabilizar a abertura da instância especial. Incidência, mais uma vez, da Súmula n. 284/STF.
+6. Agravo interno não provido.
+(AgInt no AREsp 1788699/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/06/2021, DJe 14/06/2021)
+E, finalmente, no que se refere a contrariedadeaos arts. 5º, LIV, LV, e 183, da Constituição Federal, ajurisprudência pacífica desta Corte segue no sentido de serinadmissível, em recurso especial, a análise de supostaviolaçãode dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites previstos nos §§ 2º e 3º do referido dispositivo legal.
+Intimem-se.
