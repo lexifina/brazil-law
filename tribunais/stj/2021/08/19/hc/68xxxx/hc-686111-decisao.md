@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em favor de RAFAEL PADOVAN FELIX contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2161806-78.2021.8.26.0000.
+Consta dos autos que o Paciente foi definitivamente condenado à pena de 4 (quatro) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, além do pagamento de 26 (vinte e seis) dias-multa, pela prática dos crimes previstos noart. 155, § 4.º, inciso II, por oito vezes, na forma do art. 71,caput, e art. 180,caput, todos do Código Penal.
+Na decisão de fl. 29, o Juízo singular indeferiu o pedido de concessão da prisão domiciliar.
+Irresignada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem (fls. 14-18).
+Nestewrit, a Defesa alega que "o paciente tem direito de ficar em PRISÃO DOMICILIAR, de acordo com oartigo 318, inciso VI, do Código de Processo Penal" (fl. 4).
+Afirma que "o paciente é pai e único responsável de sua filha, criança de 03 anos de idade, sendo o único responsável pelo seu sustento e educação, sendo a substituição, medida de direito mais adequada a ser aplicada nesta fase processual" (fl. 12).
+Requer, inclusive liminarmente, a concessão da prisão domiciliar, nos termos do art. 318, inciso VI, do Código de Processo Penal.
+É o relatório. Decido.
+De início, destaco que "as disposições previstas nos arts. 64, III, e 202, do Regimento Interno do Superior Tribunal de Justiça não afastam do relator a faculdade dedecidir liminarmente, em sede dehabeas corpuse de recurso emhabeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores"(AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020; sem grifos no original).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+Ao ressaltar que não está "configurada a hipótese de substituição, uma vez que o réu está recolhido em estabelecimento penal em cumprimento de pena, com sentença transitada em julgado" (fl. 29), o Juízo singular (referendado pelo Tribunal local) não divergiu da orientação desta Corte Superior, pois, " q uando se tratar de condenação definitiva, não cabe a concessão de prisão domiciliar com fundamento no art. 318 do CPP e no entendimento firmado pela Suprema Corte no julgamento do HC coletivo n. 146.641/SP"(AgRg no HC 619.569/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 02/02/2021, DJe 08/02/2021; sem grifos no original).
+Com igual conclusão:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. EXECUÇÃO DEFINITIVA. INAPLICABILIDADE DO ART. 318 DO CPP OU DO ENTENDIMENTO FIRMADO PELA SUPREMA CORTE NO JULGAMENTO DO HC N.143.641/SP. ART. 117, III, DA LEP. POSSIBILIDADE DE APLICAÇÃO EXCEPCIONAL NÃO EVIDENCIADA. ORDEM DENEGADA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte é firme no sentido de que não cabe a concessão de prisão domiciliar com fundamento no art. 318 do Código de Processo Penal ou em vista do entendimento firmado pela Suprema Corte por ocasião do julgamento do HC n. 146.641/SP, quando se tratar de condenação definitiva. Precedentes.
+ ..
+4. Agravo regimental desprovido."(AgRg no HC 516.431/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 03/11/2020, DJe 16/11/2020; sem grifos no original.)
+Ainda que assim não fosse, para alterar a conclusão da Corte de origem de que a Defesa "não comprovou a inexistência de familiares aptos ao cumprimento do papel de cuidado da criança" (fl. 16),seria necessário, inevitavelmente, o aprofundado reexame do conjunto fático-probatório, que é impróprio nesta via.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEP.POSSIBILIDADE DE CONCESSÃO EM REGIME FECHADO E SEMIABERTO.IMPRESCINDIBILIDADE DE CUIDADOS DE FILHO MENOR. REQUISITOS NÃO DEMONSTRADOS. REEXAME PROBATÓRIO VEDADO. AGRAVO DESPROVIDO.
+ ..
+2. Ainda que o entendimento jurisprudencial dos Tribunais Superiores venha superando a interpretação literal de determinados comandos previstos na Lei de Execução Penal, a fim de abarcar e de dar efetividade ao princípio da dignidade da pessoa humana na individualização da pena e ao princípio da fraternidade, na hipótese, verifica-se que acórdão atacado, soberano na análise dos fatos, entendeu pela negativa do pedido de prisão domiciliar, ao fundamento de que não ficou provado que a presença da paciente é imprescindível aos cuidados de sua filha menor.
+3. Agravo regimental não provido."(AgRg no HC 563.805/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 08/09/2020, DJe 15/09/2020; sem grifos no original.)
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. FURTO QUALIFICADO E RECEPTAÇÃO.PRISÃO DOMICILIAR. EXECUÇÃO DEFINITIVA. INAPLICABILIDADE DO ART. 318 DO CÓDIGO DE PROCESSO PENAL. PRECEDENTES.ORDEM DENEGADA.
