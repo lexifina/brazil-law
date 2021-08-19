@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto por BANCO BRADESCO S.A. contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, insurgiu-se contra acórdão proferido pelo Tribunal de Justiça do Estado do Paranáassim ementado:
+"APELAÇÃO CÍVEL - AÇÃO REVISIONAL - CONTRATO DE CONTA CORRENTE - SENTENÇA DE PROCEDÊNCIA - PRINCÍPIO PACTA MITIGAÇÃO - POSSIBILIDADE - JUROS SUNT SERVANDA -REMUNERATÓRIOS - LIMITAÇÃO À TAXA MÉDIA DE MERCADO -M A N U T E N Ç Ã O - AUSÊNCIA DE PREVISÃO NO INSTRUMENTO CONTRATUAL - CAPITALIZAÇÃO DE JUROS -ILEGALIDADE - PACTUAÇÃO NÃO DEMONSTRADA -CONDENAÇÃO DA AUTORA AO ÔNUS DE SUCUMBÊNCIA -AUSÊNCIA DE INTERESSE RECURSAL - NÃO CONHECIMENTO DESTE PONTO. APELAÇÃO CÍVEL CONHECIDA EM PARTE E, NA PARTE CONHECIDA, NÃO PROVIDA." (fl. 522e-STJ).
+No recurso especial, orecorrente alegaa violação dosartigos 489, 1.022 do Código de Processo Civil de 2015,5º e 7º, da Medida Provisória nº 2.170-36/2001, 4º, do Decreto-Lei 22.626/33 e 354 do Código Civil.
+Sustenta, em síntese, a negativa de prestação jurisdicional e que é admitidaa cobrança decapitalização de juros em periodicidade inferior a um ano independente de revisão contratual expressa.
+Aduz, ainda, que "é perfeitamente possível ao ora Recorrente, e sem qualquer toque na ilegalidade, promover a cobrança autorizada dos juros na forma como realizada, não se vislumbrando na legislação a que se pede vigência conteúdo de exigência sobre expressa pactuação" (e-STJ fl. 603).
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que toca à alegada negativa de prestação jurisdicional, violação do artigo 1.022 do Código de Processo Civil de 2015, agiu corretamente o Tribunal de origem ao rejeitar os embargos declaratórios por inexistir omissão, contradição, obscuridade ou erro material no acórdão embargado, ficando patente, em verdade, o intuito infringente da irresignação, que objetivava a reforma do julgado por via inadequada.
+A propósito:
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE E ERRO MATERIAL NÃO VERIFICADOS. EFEITOS INFRINGENTES PRETENDIDOS. INVIABILIDADE.
+1. Ausentes quaisquer dos vícios ensejadores dos aclaratórios, afigura-se patente o intuito infringente da presente irresignação, que objetiva não suprimir a omissão, afastar a obscuridade, eliminar a contradição ou corrigir erro material, mas, sim, reformar o julgado por via inadequada.
+2. Embargos de declaração de METHANEX CHILE S.A. (e-STJ fls. 2.379/2.385)
+rejeitados" (EDcl no REsp 1.596.081/PR, Rel. Min. RICARDO VILLAS BÔAS
+CUEVA, Segunda Seção, julgado em 22/8/2018, DJe de 24/8/2018).
+Registra-se que, mesmo à luz do novel art. 489 do Código de Processo Civil/2015, o órgão julgador não estaria obrigado a se pronunciar acerca de todo e qualquer ponto suscitado pelas partes, mas apenas sobre aqueles capazes de, em tese, de algum modo, infirmar a conclusão adotada pelo órgão julgador (inciso IV).
+A motivação contrária ao interesse da parte ou mesmo omissa em relação a
+pontos considerados irrelevantes pelo julgador não autoriza o acolhimento dos embargos declaratórios.
+No mais, no julgamentodo REsp nº 973.827/RS, submetido à sistemática dos recursos repetitivos, restou decidido que nos contratos firmados após 31/3/2000, data da publicação da Medida Provisória nº 1.963-17, admite-se a capitalização dos juros em periodicidade inferior a um ano, desde que pactuada de forma clara e expressa, assim considerada quando prevista a taxa de juros anual em percentual pelo menos doze vezes maior do que a mensal, consoante se colhe da ementa de referido julgado:
+"CIVIL E PROCESSUAL. RECURSO ESPECIAL REPETITIVO. AÇÕES REVISIONAL E DE BUSCA E APREENSÃO CONVERTIDA EM DEPÓSITO. CONTRATO DE FINANCIAMENTO COM GARANTIA DE ALIENAÇÃO FIDUCIÁRIA. CAPITALIZAÇÃO DE JUROS. JUROS COMPOSTOS. DECRETO 22.626/1933 MEDIDA PROVISÓRIA 2.170-36/2001. COMISSÃO DE PERMANÊNCIA. MORA. CARACTERIZAÇÃO.
+1. A capitalização de juros vedada pelo Decreto 22.626/1933 (Lei de Usura) em intervalo inferior a um ano e permitida pela Medida Provisória 2.170-36/2001, desde que expressamente pactuada, tem por pressuposto a circunstância de os juros devidos e já vencidos serem, periodicamente, incorporados ao valor principal. Os juros não pagos são incorporados ao capital e sobre eles passam a incidir novos juros.
+2. Por outro lado, há os conceitos abstratos, de matemática financeira, de "taxa de juros simples" e "taxa de juros compostos", métodos usados na formação da taxa de juros contratada, prévios ao início do cumprimento do contrato. A mera circunstância de estar pactuada taxa efetiva e taxa nominal de juros não implica capitalização de juros, mas apenas processo de formação da taxa de juros pelo método composto, o que não é proibido pelo Decreto 22.626/1933.
+3. Teses para os efeitos do art. 543-C do CPC: - "É permitida a capitalização de juros com periodicidade inferior a um ano em contratos celebrados após 31.3.2000, data da publicação da Medida Provisória n. 1.963-17/2000 (em vigor como MP 2.170-36/2001), desde que expressamente pactuada." - "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada".
+(..)
+6. Recurso especial conhecido em parte e, nessa extensão, provido" (Rel. Ministro LUIS FELIPE SALOMÃO, Rel. p/ Acórdão Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 8/8/2012, DJe 24/9/2012).
+Na hipótese dos autos, consignando a instância de origem que não restou demonstrado nos autos a existência de previsão contratual expressa daincidência de capitalização dejuros (e-STJ fl. 528), rever as referidas conclusões demandaria a apreciação do conjunto fático-probatório dos autos e de cláusulas contratuais, o que encontra óbice nas Súmulas nºs 5 e 7/STJ.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, conforme determina o artigo 85, § 11, do CPC/2015, haja vista que estes não foram arbitrados na origem em desfavor da ora recorrente.
+Publique-se.
+Intimem-se.
