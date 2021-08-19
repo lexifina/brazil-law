@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional doSeguro Social contra acórdão proferido pelo Tribunal Regional Federal da1ª Região, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. APOSENTADORIA POR IDADE RURAL. TITULO EXECUTIVO. CONDENAÇÃO QUE NÃO ULTRAPASSA 60 SALÁRIOS MÍNIMOS.SENTENÇA LIQUIDA. DUPLO GRAU. INEXISTÊNCIA.
+1. "É líquida a sentença que contém em si todos os elementos que permitem definir a quantidade de bens a serem prestados, dependendo apenas de cálculos aritméticos apurados mediante critérios constantes do próprio título ou de fontes oficiais públicas e objetivamente conhecidas." (REsp 937.082/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 18/09/2008, DJe 13/10/2008).
+2. Embora a sentença não tenha sido submetida ao reexame necessário, fez-se notória que a condenação prevista no título executivo transitado em julgado não excederia os 60 (sessenta) salários mínimos, nos termos do § 2º do art. 475 do CPC, tanto que, em sede de liquidação, apurou-se como devido o valor total de R$ 7.727,30, atualizados em fevereiro de 2014.
+3. Apelação do INSS não provida.
+Opostos embargos de declaração, rejeitados.
+Em suas razões de recurso especial, sustenta o INSS que o Tribunal aquo violou o artigo 1.022 do CPC/2015, uma vez que teria sido omissoquanto à aplicação da Súmula 490 do STJ, que determina o reexame necessário no caso de sentenças ilíquidas.
+O prazo para apresentação de contrarrazões ao recurso especial transcorreuin albis.
+É o relatório, decido.
+Inicialmente é necessário consignar que o presente recurso atraia incidência do Enunciado Administrativo 3/STJ que dispõe in verbis:aos recursos interpostos com fundamento no CPC/2015 (relativos adecisões publicadas a partir de 18 de março de 2016) serão exigidos osrequisitos de admissibilidade recursal na forma do novo CPC.
+De início, observo que o tema reputado omisso,depreende-se da leitura do acórdão recorrido queo Tribunal de origem, de modo fundamentado, tratou daquestãosuscitada, resolvendo, portanto, de modo integral a controvérsia posta.
+Na linha da jurisprudência do STJ, não há falar em negativa deprestação jurisdicional, nem em vício no julgamento quando o acórdãoimpugnado aplica tese jurídica devidamente fundamentada, promovendo aintegral solução da controvérsia, ainda que de forma contrária aosinteresses da parte.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL.OFENSA AO ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA. APLICAÇÃO DO TETOPREVISTO NAS EMENDAS CONSTITUCIONAIS N. 20/1998 E N. 41/2003. FUNDAMENTOCONSTITUCIONAL. USURPAÇÃO DA COMPETÊNCIA DO STF.
+1. Não se configurou a ofensa ao art. 1.022, II, do CPC, pois o Tribunalde origem fundamentou, claramente, o posicionamento por ele assumido, demodo a prestar a jurisdição que lhe foi postulada.
+2. O fato de o Tribunal a quo haver decidido a lide de forma contrária àdefendida pelo recorrente, elegendo fundamentos diversos daqueles por ele
+propostos, não configura omissão nem outra causa passível de exame
+mediante a oposição de embargos de declaração.
+3. O Tribunal de origem fundamentou a decisão no acórdão proferido peloSupremo Tribunal Federal, em repercussão geral, no RE 564.354/SE, no qualse firmou o entendimento de que "não ofende o ato jurídico perfeito aaplicação imediata do art. 14 da Emenda Constitucional n. 20/1998 e doart. 5º da Emenda Constitucional n.41/2003 aos benefícios previdenciários limitados a teto do regime geral deprevidência estabelecido antes da vigência dessas normas, de modo a quepassem a observar o novo teto constitucional".
+4. Quando a controvérsia é solucionada com fundamento em princípios oudispositivos constitucionais, o recurso especial é inviável, sob pena deusurpação da competência reservada pela Constituição da República aoSupremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1741329/SC, Rel. Ministro OG FERNANDES, SEGUNDA TURMA,julgado em 15/03/2021, DJe 19/03/2021)
+Ressalte-se por oportuno que o Tribunal de origem se manifestou de formaclara e precisa acerca daquestão tidapor omissa, conforme se observado seguinte trecho do julgado:
+Não assiste razão ao apelante.
+O título executivo transitado em julgado assegurou à parte embargada a percepção de valores referentes a benefício previdenciário.
+Ainda que não submetida ao reexame necessário, fez-se notório que tal montante não excederia os 60 (sessenta) salários mínimos, nos termos do § 2º do art. 475 do CPC.
+Tanto que, em sede de liquidação, apurou-se como devido o valor total de R$ 7.727,30, atualizados em fevereiro de 2014. Ademais, como bem manifestou o STJ, "é líquida a sentença que contém em si todos os elementos que permitem definir a quantidade de bens a serem prestados, dependendo apenas de cálculos aritméticos apurados mediante critérios constantes do próprio título ou de fontes oficiais públicas e objetivamente conhecidas." (REsp 937.082/MG, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUARTA TURMA, julgado em 18/09/2008, DJe 13/10/2008). Nesse mesmo sentido decidiu esta Corte:
+APELAÇÃO CÍVEL. PREVIDENCMRIO. PENSÃO POR MORTE. RURAL. ARTS. 16, 18, II, "a", 74 DA LEI 8213/91. PROVA DOCUMENTAL. CÔNJUGE. DEPENDÊNCIA ECONÔMICA PRESUMIDA. PROVA TESTEMUNHAL. REQUISITOS ATENDIDOS. BENEFÍCIO DEVIDO. 1. Apesar de ilíquida a sentença, tendo em vista o curto período entre a data inicial do benefício (DIB) determinado na sentença e a publicação da mesma, bem como, o valor mínimo do benefício previdenciário, fica evidenciada a impossibilidade de a condenação de 1º grau ultrapassar o valor de 60 (sessenta) salários mínimos, devendo, assim, ser aplicado in casu o disposto no art. 475, § 2º, do CPC. 11. Reexame necessário de que não se conhece. Apelação a que se dá parcial provimento para para que a atualização das parcelas atrasadas observe as disposições do Manual de Cálculos da Justiça Federal, aprovado pela Resolução/CJF 134, de 21.12.2010.
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015 c/c o art. 255,§ 4º, II, do RISTJ, nego provimento ao recurso especial. Caso existanos autos prévia fixação de honorários advocatícios pelas instânciasde origem, determino sua majoração em desfavor da parte recorrente,no importe de 15% sobre o valor já arbitrado, percentual essejustificado pelo tempo decorrido entre a interposição do recurso ejulgamento e a complexidade da causa, nos termos do art. 85, § 11, doCódigo de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3ºdo referido dispositivo legal devem ser observados.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO 3/STJ. EMBARGOS À EXECUÇÃO. APOSENTADORIA POR IDADE RURAL. VIOLAÇÃO AO ARTIGO 1.022DO CPC/2015. NÃO OCORRÊNCIA. RECURSO ESPECIAL NÃO PROVIDO.
