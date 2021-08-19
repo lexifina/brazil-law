@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto peloMINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 423):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AÇÃO CIVIL PÚBLICA. MINISTÉRIO PÚBLICO FEDERAL. PROPOSIÇÃO E INTERPOSIÇÃO DE RECURSO ESPECIAL. CUSTOS LEGIS.MANIFESTAÇÃO. AUSÊNCIA. NULIDADE. INEXISTÊNCIA.LEGITIMIDADE ATIVA. INEXISTÊNCIA .
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, entende-se que, "nos termos do art. 5º, § 1º, da Lei n. 7.347/1985, a falta de intervenção do Ministério Público como fiscal do Direito, na Ação Civil Pública por ele mesmo proposta, não gera nulidade, mormente em razão do princípio da unidade. Julgados: AgRg no REsp.
+1.385.059/RJ, Rel. Min. Benedito Gonçalves, DJe 11.9.2014; REsp 814.479/RS, Rel. Min. Mauro Campbell Marques, DJe 14.12.2010" (AgInt no REsp 1.699.923/MG, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 25/03/2019, DJe 03/04/2019).
+2. É pacífica a jurisprudência do Superior Tribunal de Justiça no sentido de que, nos termos do disposto no art. 1º, parágrafo único, da Lei n. 7.347/1985, o Parquet não possui legitimidade para propor ação civil pública com o fim de discutir interesses relacionados à matéria tributária.
+3. Deve ser observada a especial distinção entre causa de pedir e pedido, de modo que tão somente quando o pedido versar tema de natureza tributária - e não a causa de pedir - reconhece-se a ilegitimidade do Ministério Público para ajuizar ação civil pública.
+4. Hipótese em que o acórdão regional recorrido acertadamente não reconheceu a legitimidade ativa do Parquet para o ajuizamento de ação civil pública com a finalidade de discutir a ocorrência de hipótese de dedução da base de cálculo do imposto de renda (gastos efetuados com instrução pelo próprio contribuinte ou seus dependentes - aquisição de livros, cursos de informática e de idiomas estrangeiros, cursos preparatórios para concursos e vestibular), em razão de sua natureza tributária.
+5. Agravo interno desprovido.
+Sustenta o recorrente a repercussão geral da matéria tratada, aduzindo que o aresto impugnado violaria os arts. 5º, inciso XXXII, 127 e 129, inciso II, todos da Constituição Federal.
+Afirma que "aAção Civil Pública em comento não foi proposta com finalidade de defender interesses tributários dos contribuintes, mas sim para preservar interesses de natureza social porque a incidência tributária nas despesas com educação tem como fundamento a incidência do imposto de renda considerando a capacidade contributiva do contribuinte" (e-STJ fl. 457).
+Considera ser evidente a "legitimidade ativa do Ministério Público para mover ação civil pública na defesa de relevante interesse social individual homogêneo de acesso à educação, nos termos dos art. 127, caput, c/c o art. 129, incisos III e IX da CF/88 e do art. 1.º, inc. IV da Lei n.º 7.347/85, situação que afasta a restrição do parágrafo único do art. 1.º dessa lei, uma vez que não se discute sobre a exigibilidade tributária no caso vertente, eis que a discussão principal é sobre isenção de limite para abate na renda bruta" (e-STJ fl. 459).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas as contrarrazões (e-STJ fl. 476).
+É o relatório.
+Ao julgar o ARE n. 694.294 RG/MG,o Supremo Tribunal Federalfirmou o entendimento de que o Ministério Público não possui legitimidade ativaad causampara, em ação civil pública, deduzir pretensão relativa à matéria tributária (Tema 645/STF).
+Confira-se, por oportuno, a ementa do acórdão:
+DIREITO CONSTITUCIONAL. TRIBUTÁRIO. APELAÇÃO INTERPOSTA EM FACE DE SENTENÇA PROFERIDA EM SEDE DE AÇÃO CIVIL PÚBLICA QUE DISCUTE MATÉRIA TRIBUTÁRIA (DIREITO DOS CONTRIBUINTES À RESTITUIÇÃO DOS VALORES PAGOS À TÍTULO DE TAXA DE ILUMINAÇÃO PÚBLICA SUPOSTAMENTE INCONSTITUCIONAL). ILEGITIMIDADE ATIVA "AD CAUSAM" DO MINISTÉRIO PÚBLICO PARA, EM AÇÃO CIVIL PÚBLICA, DEDUZIR PRETENSÃO RELATIVA À MATÉRIA TRIBUTÁRIA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DA CORTE. REPERCUSSÃO GERAL RECONHECIDA.
+(ARE 694294 RG, Relator(a): LUIZ FUX, Tribunal Pleno, julgado em 25/04/2013, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-093 DIVULG 16-05-2013 PUBLIC 17-05-2013)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou (e-STJ fls. 427/428):
+Conforme consignado na decisão agravada, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que, nos termos do disposto no art. 1º, parágrafo único, da Lei n. 7.347/1985, o Parquet não possui legitimidade para propor ação civil pública com o fim de discutir interesses relacionados à matéria tributária.
+ ..
+No caso, o acórdão regional recorrido não reconheceu a legitimidade ativa do Parquet para o ajuizamento de ação civil pública com a finalidade de discutir a ocorrência de hipótese de dedução da base de cálculo do imposto de renda (gastos efetuados com instrução pelo próprio contribuinte ou seus dependentes - aquisição de livros, cursos de informática e de idiomas estrangeiros, cursos preparatórios para concursos e vestibular). Trata-se, pois, de ação de natureza tributária.
+Verifica-se, portanto, que o acórdão proferido por este Sodalício está em consonância com a jurisprudência firmada pelo Pretório Excelso, razão pela qual incide o Tema 645/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", segunda parte, do Código de Processo Civil,nega-se seguimentoao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. DIREITO PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA. PRETENSÃO DE NATUREZA TRIBUTÁRIA. DEFESA DE CONTRIBUINTES. ILEGITIMIDADE ATIVA DO MINISTÉRIO PÚBLICO.ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ENTENDIMENTO DA SUPREMA CORTE. TEMA 645/STF. SEGUIMENTO NEGADO.
