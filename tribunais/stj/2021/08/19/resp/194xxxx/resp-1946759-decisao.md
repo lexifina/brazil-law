@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃOcom fundamento no art. 105, inciso III, alínea"a", da Constituição da República, contra o acórdão prolatado pelo Tribunal Regional Federal da 5ª Região, que proveu a apelação da recorrente para julgar improcedente o pedido da recorrida, mantendo os efeitos da penalidade aplicada no âmbito da Portaria nº 3/2016 referente à suspensão para licitar e impedimento para contratar com a União pelo prazo de 2 (dois) anos, invertendo-se os ônus dasucumbência.
+Opostos embargos de declaração, negaram provimento.
+Nas razões do especial, a recorrente sustenta violação ao artigo 85, § 8º, do CPC, sob o argumento de que o Tribunal de origem, embora tenha dado provimento ao seu Recurso de Apelaçãocom inversão dos ônus da sucumbência, verifica-se que o valor é irrisório, pois foi arbitrado em 10% do valor da causa, que é de R$1.000,00 (mil reais).
+Afirma que, "nos termos do § 8º, do art. 85, do CPC, nas causas em que o proveito econômico for irrisório ou inestimável, ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, sempre observando os critérios estabelecidos nos incisos do § 2º do artigo 85 do CPC/2015".
+Admitido o feito na origem, os autos ascenderam a esta Corte de Justiça.
+É o relatório.
+Passo a decidir.
+A pretensão não merece prosperar.
+Trata-se de recurso especial em que arecorrente alega violação ao artigo 85, § 8º, do CPC, sob o argumento de que o Tribunal de origem, embora tenha dado provimento ao seu Recurso de Apelação com inversão dos ônus da sucumbência, verifica-se que o valor é irrisório, pois foi arbitrado em 10% do valor da causa, que é de R$1.000,00 (mil reais).
+Alega quea ação tem natureza declaratória, posto que se pretende seja anulado ato administrativo, sem que a tutela jurisdicional concedida reflita economicamente no valor do convênio, pelo que deverá se aplicar o § 8º, do art. 85, do CPC/2015
+Contudo, verifica-se que ocomandonormativoe a tese recursal referenteaodispositivoindicadocomo violadonão comportam exame no âmbito desta Corte de Justiça, porquanto ausente o necessário prequestionamento.
+É bem verdade que, enfrentada a questão/tese pelo Tribunal a quo, haverá prequestionamento. No entanto, se a questão não houver sido examinada por esse, não obstante ter sido instadoa se manifestar - ainda que em sede de embargos declaratórios - é dever da parte recorrente interpor recurso especial por violação ao art. 1022 do CPC/2015, demonstrando em qual ponto o exame de tais dispositivos seria capaz de comprometer a verdade posta nos autos. Quedando-se inerte quanto a tal providência, incide, sim, à espécie o enunciado sumular nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo."
+A propósito:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. MITIGAÇÃO DA TAXATIVIDADE DO ROL DO ART. 1.015 DO CPC/2015. DECISÃO INTERLOCUTÓRIA PROFERIDA ANTES DO MARCO TEMPORAL DETERMINADO NO JULGAMENTO DO RECURSO ESPECIAL REPETITIVO. RAZÕES DO AGRAVO QUE NÃO IMPUGNAM, ESPECIFICAMENTE, A DECISÃO AGRAVADA. SÚMULA 182/STJ. ALEGADA VIOLAÇÃO AOS ARTS. 373 E SEGUINTES DO CPC/2015. CERCEAMENTO DE DEFESA. TESE RECURSAL NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. AGRAVO INTERNO PARCIALMENTE CONHECIDO, E, NESSA PARTE, IMPROVIDO.
+ ..
+IV. Por simples cotejo das razões recursais e dos fundamentos do acórdão recorrido, percebe-se que a tese recursal de cerceamento de defesa - arts. 373 e seguintes do CPC/2015 -, não foi apreciada, no voto condutor, não tendo servido de fundamento à conclusão adotada pelo Tribunal de origem, incidindo o óbice da Súmula 211/STJ.
+V. Nos termos da jurisprudência do Superior Tribunal de Justiça, "a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (STJ, REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 10/04/2017). Hipótese em julgamento na qual a alegada contrariedade ao art. 1.022 do CPC/2015 restou preclusa.
+VI. Agravo interno parcialmente conhecido, e, nessa parte, improvido.
+(AgInt no AREsp 1478465/SP, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 08/03/2021, DJe 15/03/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Intimem-se.
+Publique-se.
