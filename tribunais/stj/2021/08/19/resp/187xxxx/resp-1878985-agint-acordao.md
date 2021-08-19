@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUTADAEM RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL. PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL.IMPOSSIBILIDADE.
+1. Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido (ainda que não vencidos) e a aferição da existência ou não do crédito deve levar em consideração a data da ocorrência de seu fato gerador (fonte da obrigação).
+2. Resultando a obrigação de fato anterior ao pedido de recuperação, a ação de conhecimento somente deve prosseguir no juízo próprio até a formação do título. Ocorrido tal fato, não tendo transitado em julgado a recuperação judicial, o crédito deverá ser habilitado no quadro geral de credores. Precedentes.
+3. O fato de a penhora ter sido determinada pelo juízo da execução singular em data anterior ao deferimento do pedido de recuperação judicial não obsta o exercício da força atrativa do juízo universal.
+4. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por Jesuína Moltalvão de Brito em face da decisão monocrática que conheceu e deu provimento ao recurso especial de INCORPORAÇÃO GARDEN LTDA.
+Ação: de cumprimento de sentença proposta por Jesuína Moltalvão de Brito em face da recorrente. No curso da demanda, houve o bloqueio de R$ 15.230,42, via BacenJud, razão pela qual a recorrida postulou a expedição de alvará de levantamento do montante.
+Decisão interlocutória: declinou da competência para a 7ª Vara Cível da Comarca de Goiânia, na qual tramita o processo de recuperação judicial da recorrente, e determinou a transferência dos valores bloqueados a uma conta vinculado àquele Juízo.
+Acórdão: deu provimento ao agravo de instrumento interposto pela recorrida, conforme a ementa a seguir:
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL E RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. PLANO DE RECUPERAÇÃO JUDICIAL DEFERIDO EHOMOLOGADO POR OUTRO JUÍZO. NOME DA EXEQUENTE NÃO INSERIDO NO PLANO.DESCUMPRIMENTO DO ART. 51, III, DA LEI 11.101/2005 (LEI DE FALÊNCIAS). NÃOVINCULAÇÃO DO CRÉDITO À RECUPERAÇÃO JUDICIAL. QUANTIA BLOQUEADA PELOBACENJUD. DETERMINAÇÃO DE EXPEDIÇÃO DE ALVARÁ DE LEVANTAMENTO.POSSIBILIDADE. PROSSEGUIMENTO DO FEITO NO JUÍZO ATÉ A INCLUSÃO DOA QUONOME DA CREDORA NO PLANO DE RECUPERAÇÃO. RECURSO CONHECIDO EPROVIDO.
+1. Prossegue-se o cumprimento de sentença no Juízo originário contra empresa que teve deferida a sua recuperação judicial, quando o nome da parte exequente não está incluído no plano de recuperação judicial, conforme o art. 51, inciso III, da Lei 11.101/2005 (Lei de Falências).
+2. Não há novação da dívida de acordo com o plano de recuperação judicial deferido se o nome da credora não está inserido neste plano, consoante ao art. 59 da Lei 11.101/2005.
+3. Como a quantia de R$ 15.230,42 (quinze mil, duzentos e trinta reais, e quarenta e dois centavos) bloqueada no dia 16/11/2017 não está vinculada a recuperação judicial em tramitação, fica evidente o direito da exequente levantar o valor depositado há quase dois anos.
+4. É imperioso o prosseguimento do cumprimento de sentença no Juízo até a parte a quo executada/agravada comprovar a inclusão do nome da exequente no plano de recuperação judicial.
+5. RECURSO CONHECIDO E PROVIDO. Decisão reformada para determinar a expedição do valor penhorado e o prosseguimento do cumprimento de sentença no Juízo "a quo" até a inclusão do nome da exequente no plano de recuperação judicial.
+Recurso especial: sustenta violação aos arts. 47 e 49 da Lei 11.101/2005, além de divergência jurisprudencial. Defende, em suma, que o crédito está sujeito aos efeitos da recuperação judicial, não havendo a possibilidade de a execução individual prosseguir. Aduz que a penhora anterior ao pedido de recuperação judicial está sujeita aos efeitos recuperacionais. Refere, ademais, que as constrições dos ativos somente podem se dar mediante ordem expedido pelo juízo recuperacional.
+Juízo de admissibilidade: o TJ/DF admitiu o recurso especial.
+Decisão interlocutória: deferiu o pedido de concessão de efeito suspensivo ao recurso especial.
+Decisão monocrática: conheceu e deu provimento ao recurso especial, para reestabelecer a decisão proferida no primeiro grau de jurisdição.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+Agravo interno: argumenta já ter sido determinada a expedição de alvará concernente ao valor bloqueado, de modo que o valor já passou à sua propriedade. Menciona que, no momento da penhora, já havia esgotado o prazo para apresentar impugnação ao cumprimento de sentença, de modo que ocorreu preclusão temporal. Refere, ademais, não ter a recorrida comprovado a inscrição do crédito no rol de credores e aduz que o crédito em debate não se sujeita à recuperação judicial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. EXECUTADAEM RECUPERAÇÃO JUDICIAL. FATO GERADOR ANTERIOR AO PEDIDO DE RECUPERAÇÃO JUDICIAL. CRÉDITO CONCURSAL. PROSSEGUIMENTO DA EXECUÇÃO INDIVIDUAL.IMPOSSIBILIDADE.
+1. Estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido (ainda que não vencidos) e a aferição da existência ou não do crédito deve levar em consideração a data da ocorrência de seu fato gerador (fonte da obrigação).
+2. Resultando a obrigação de fato anterior ao pedido de recuperação, a ação de conhecimento somente deve prosseguir no juízo próprio até a formação do título. Ocorrido tal fato, não tendo transitado em julgado a recuperação judicial, o crédito deverá ser habilitado no quadro geral de credores. Precedentes.
+3. O fato de a penhora ter sido determinada pelo juízo da execução singular em data anterior ao deferimento do pedido de recuperação judicial não obsta o exercício da força atrativa do juízo universal.
+4. Agravo interno desprovido.
+VOTO
+Nos termos do art. 49, caput, da Lei 11.101/05, estão sujeitos à recuperação judicial todos os créditos existentes na data do pedido (ainda que não vencidos), sendo certo que a aferição da existência ou não do crédito deve levar em consideração a data da ocorrência de seu fato gerador (fonte da obrigação). Nesse sentido: REsp 1.634.046/RS, Terceira Turma, DJe 18/05/2017; CC 139.332/RS, Segunda Seção, DJe 30/04/2018.
+Na hipótese dos autos, de acordo com o que ficou assentado na origem, verifica-se que o fato gerador do crédito em discussão (15/01/2010) é anterior ao pedido de recuperação judicial (07/11/2017), de modo que não há dúvidas acerca de sua sujeição aos efeitos do processo de soerguimento.
+Tratando-se, contudo, de crédito derivado de ação na qual se demandava quantia ilíquida, a Lei de Falências e Recuperação de Empresas estabelece que ele somente passa a ser passível de habilitação no quadro de credores a partir do momento em que adquire liquidez, de modo que o prosseguimento da execução singular, desse momento em diante, deve ficar obstado (inteligência do art. 6º, § 1º, da Lei 11.101/05).
+Segundo entendimento deste Tribunal Superior, " t ratando-se  ..  de demanda cujos pedidos são ilíquidos, a ação de conhecimento deverá prosseguir perante o juízo na qual foi proposta, após o qual, sendo determinado o valor do crédito, deverá ser habilitado no quadro geral de credores da sociedade em recuperação judicial" (REsp 1.447.918/SP, Quarta Turma, DJe 16/5/2016). No mesmo sentido: REsp 1873081, Terceira Turma, DJe 04/03/2021; REsp 1727771/RS, Terceira Turma, DJe 18/05/2018.
+Anote-se que o fato de a penhora ter sido determinada pelo juízo da execução singular em data anterior ao deferimento do pedido de recuperação judicial não obsta o exercício da força atrativa do juízo universal (CC 100.922/SP, DJe 26/06/2009; CC 111.614/DF, DJe 19/06/2013; AgInt no CC 152.153/MG, DJe 15/12/2017).
+Por outro lado, e como é cediço, o art. 59, caput, da LFRE, prevê que o plano de recuperação judicial implica novação dos créditos anteriores ao pedido e obriga o devedor e todos os credores a ele sujeitos.
+Convém lembrar, quanto ao ponto, que a novação resultante da concessão da recuperação judicial após aprovado o plano em assembleia é sui generis, sendo que as execuções individuais ajuizadas contra a própria devedora devem ser extintas, e não apenas suspensas (REsp 1.272.697/DF, Quarta Turma, DJe 18/6/2015).
+O adimplemento das dívidas da recuperanda, destarte, deverá seguir as condições pactuadas entre os sujeitos envolvidos no processo de soerguimento, sempre respeitando-se o tratamento igualitário entre os credores de cada classe.
+Diante do que foi até aqui exposto, fica claro que, na espécie, o cumprimento da sentença condenatória sequer poderia ter sido deflagrado, uma vez que a satisfação do crédito correlato deverá ocorrer, após devidamente habilitado, de acordo com as disposições do plano de recuperação judicial.
+Assim, não há que se falar em direito adquirido da agravante, sendo imperiosa a habilitação e inclusão do crédito no plano de recuperação da
+sociedade devedora.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
