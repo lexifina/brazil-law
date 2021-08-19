@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por Vonpar Refrescos S.A., com base no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. FASE DO CUMPRIMENTO DE SENTENÇA. FIANÇA BANCÁRIA. PRAZO PARA IMPUGNAÇÃO. TERMO INICIAL DA FLUÊNCIA DO PRAZO. TEMPESTIVIDADE.
+Na fase do cumprimento da sentença, prevê-se o pagamento ou a impugnação. Com o pagamento, supera-se a multa prevista. Com o depósito, em dinheiro ou em fiança bancária, para discutir o valor executável, incide multa sobre o valor controverso e inicia-se o prazo para impugnar.
+Assim, o oferecimento da fiança bancária, independentemente da aceitação do credor, dá início ao prazo para impugnar.
+Nas circunstâncias do procedimento, este prazo esgotou-se e justifica a decisão do juízo quanto à intempestividade para impugnar.
+Nas razões do recurso especial, a recorrente alega, além de divergência jurisprudencial, violação dos arts. 266, 458, 469, I e II, 475-J, § 1º, 535, 656 e 657, todos do Código de Processo Civil de 1973, argumentando, para tanto, o seguinte (e-STJ, fls. 1231-1232):
+- o art. 266 do CPC dispõe que durante a suspensão do processo, é defesa a prática de qualquer ato processual; uma vez que (i) inquestionavelmente, o cumprimento de sentença encontra-se suspenso por força da liminar proferida pelo eminente Ministro Sidnei Beneti na Medida Cautelar nº 21.678/RS (o que inclusive foi noticiado no Agravo de Instrumentosubjacente em 24/09/13); e (ii) não se constata a necessidade de realização de ato urgente, tal dispositivo restou violado pelo r. acórdão;
+- restou igualmente violado o art. 475-3 § 1ºdo CPC, que nada dispõe acerca do oferecimento de carta -fiança equivaler a dinheiro ou à penhora e, ainda, determina a intimação do devedor acerca da penhora a ser lavrada e do prazo de 15 dias para apresentar impugnação (os arts. 656, § 20, e 657 do CPC, também violados, foram expressamente ventilados no recorrido);
+- foram violados, ainda, o art. 458 do CPC, na medida em que se entendeu que a liquidação de sentença estaria sentenciada e encerrada;
+- a recorrente opôs embargos declaratórios tanto para sanar omissões e contradições flagrantes do acórdão como para prequestionar as disposições pertinentes, não havendo que se falar no óbice do verbete n.211 desta E.Corte.
+Brevemente relatado, decido.
+Da análise das razões recursais, tem razão a recorrente no que concerne à apontada negativa de prestação jurisdicional.
+Com efeito, verifica-se que a Vonpar Refrescos S.A. sustentou, no agravo de instrumento interposto na origem, que a questão referente à inexistência de liquidação de sentença nunca foi apreciada pelas instâncias ordinárias, não havendo que se falar em preclusão.
+Ademais, consignou também que "a decisão de fl. 1395, tida pelo ora agravado como apta a aparelhar procedimento executivo, de modo algum pode ser considerada "título", uma vez que se limita a homologar o laudo de fís. 1274/1358 (que conforme tem se visto e será novamente demonstrado, sequer poderia ter sido considerado válido, eis que proferido em inobservância ao contraditório), sem sequer estar fundamentada" (e-STJ, fl. 15).
+Esses argumentos, contudo, não foram nem sequer mencionados pelo Tribunal de origem no acórdão recorrido, mesmo após a oposição de embargos de declaração pugnando pelo exame da questão.
+Tal o quadro delineado, revela-se evidente a omissão do decisum impugnado, devendo os autos retornarem à Corte local para o exame da questão, ficando, com isso, prejudicadas as demais alegações suscitadas no presente recurso especial.
+Ante o exposto, dou provimento ao recurso especial, para, reconhecendo a violação ao art. 535 do CPC/1973, determinar que o Tribunal de origem julgue novamente os embargos de declaração, devendo analisar o argumento da recorrente acerca da ausência de liquidação de sentença, como entender de direito, nos termos da fundamentação supra.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA.DISCUSSÃO ACERCA DA TEMPESTIVIDADE DA IMPUGNAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO DO ACÓRDÃO RECORRIDO ACERCA DA ALEGADA AUSÊNCIA DE LIQUIDAÇÃO DE SENTENÇA. RETORNO DOS AUTOS QUE SE IMPÕE. RECURSO PROVIDO.
