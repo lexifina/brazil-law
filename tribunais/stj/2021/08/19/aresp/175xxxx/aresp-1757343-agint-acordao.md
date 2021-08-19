@@ -1,0 +1,73 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INEXIGIBILIDADE DE OBRIGAÇÃO. NULIDADE DE TÍTULO DE CRÉDITO. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+RELATÓRIO
+BF DISTRIBUIDORA DE CARNES EIRELI (DISTRIBUIDORA) opôs embargos à execução, nos autos da execução de título extrajudicial, contra JBS S.A. (JBS), alegando a inexigibilidade dos títulos, porquanto as assinaturas constantes dos canhotos das notas fiscais não foram lançadas por nenhum preposto autorizado. Asseverou, ainda, que não reconhece os produtos constantes das referidas notas fiscais e não houve nenhuma tratativa entre as partes para aquisição das mercadorias. Esclareceu que não há como identificar as assinaturas lançadas nos canhotos e nem o carimbo da empresa, sendo impossível atestar o recebimento das mercadorias e, por esse motivo, não se mostra inexigível a obrigação. Requereu a extinção do feito executivo, por ser o título inexigível.
+Em primeira instância, os embargos à execução foram julgados improcedentes. Condenou a embargante ao pagamento das custas e dos honorários advocatícios, esses fixados em 10% do valor atualizado da causa (e-STJ, fls. 133/135).
+A apelação interposta por DISTRIBUIDORA não foi provida pelo Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT), nos termos do acórdão, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DUPLICATAS SEM ACEITE. NOTAS FISCAIS. RECIBOS ASSINADOS. PROTESTO POR FALTA DE PAGAMENTO.DOCUMENTOS HÁBEIS A INSTRUIR O PROCEDIMENTO EXECUTÓRIO. ÔNUS DA PROVA. NÃO COMPROVAÇÃO. APELO CONHECIDO E DESPROVIDO. A duplicata é título de crédito causal que necessita, para sua exigibilidade, a comprovação da entrega de mercadoria ou prestação de serviços constantes de nota fiscal ou fatura.
+Não obstante a ausência de aceite nas duplicatas, o procedimento executório foi instruído com cópia das notas fiscais, recibos assinados pela apelante e protestos realizados, o que comprova o recebimento dos produtos. O STJ já decidiu que "É ônus da embargante a prova de fato constitutivo de seu direito, qual seja, o de que a mercadoria não lhe foi entregue adequadamente e que a assinatura constante do canhoto da duplicata pertence à pessoa entranha aos seus quadros, haja vista a presunção legal de (STJ - Resp 844.191/Df, Rel. Min. LUIS FELIPE legitimidade que emana do título executivo."SALOMÃO, Quarta Turma, julgado em 02/06/2011, DJe 14/06/2011).A apresentação de argumentos contraditórios e que não afastam a possibilidade de recebimento da mercadoria por qualquer empregado, a inexistência de um procedimento próprio para a compra e recebimento da mercadoria, e não havendo dúvida sobre a autenticidade da assinatura, afasta-se a adequação da prova pericial. Por conseguinte, se o embargante não se desincumbiu do ônus da prova, a sentença não merece retoque. APELO CONHECIDO E DESPROVIDO (e-STJ, fl.181).
+Irresignada, DISTRIBUIDORA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação do art. 15, II, da Lei nº 5.474/1968, a par de dissídio pretoriano.
+O apelo nobre não foi admitido em virtude da incidência da Súmula nº 7 do STJ (e-STJ, fls. 260/262).
+O agravo em recurso especial daí decorrente foi conhecido para não conhecer do recurso especial em decisão monocrática de minha lavra assim ementada:
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL E RECURSO ESPECIAL MANEJADOS SOB A ÉGIDE DO NCPC. EMBARGOS À EXECUÇÃO. INEXIGIBILIDADE DE OBRIGAÇÃO. NULIDADE DE TÍTULO DE CRÉDITO. DUPLICATA SEM ACEITE. PROVA DA RELAÇÃO JURÍDICA. PROTESTO. ÔNUS DA EMBARGANTE DA DEMONSTRAÇÃO DO FATO CONSTITUTIVO DO DIREITO. NÃO COMPROVAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO. DISSÍDIO PRETORIANO. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 303 - com destaque no original).
+Nas razões do presente agravo interno, a DISTRIBUIDORA, repisando os argumentos trazidos nas razões recursais, alegou inaplicabilidade da Súmula nº 7 do STJ, por não haver necessidade do reexame fático-probatório, mas a revaloração da prova.
+Houve impugnação ao recurso (e-STJ, fls. 330/338)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. INEXIGIBILIDADE DE OBRIGAÇÃO. NULIDADE DE TÍTULO DE CRÉDITO. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, o v. acórdão concluiu, quanto a alegada violação do art. 15, II, da Lei nº 5.474/1968, sustentando que o título executado não contém o aceite do devedor, e mesmo que tenha sido protestado, deve estar respaldado em documento capaz de comprovar a entrega e o recebimento da mercadoria ou da prestação do serviço, que não obstante a ausência de aceite nas duplicatas, o procedimento executório foi instruído com cópia das notas fiscais, recibos assinados pela apelante e protestos realizados, o que comprova o recebimento dos produtos, consoante se vê dos seguintes trechos:
+A duplicata mercantil é um título de crédito regulamentado na Lei nº 5474/68.Segundo os ensinamentos de Gladston Mamede, "A duplicata é um título que é emitido pelo credor, declarando existir, a seu favor, um credito de determinado valor em moeda corrente, fruto -(e-STJ Fl.184) Documento recebido eletronicamente da origem obrigatoriamente - de um negócio empresarial subjacente de compra e venda de mercadoria ou de prestação de serviços, cujo pagamento é devido em determinada data (termo).
+É um título causal, vale dizer, um título cuja emissão está diretamente ligada a um negócio empresarial que lhe é subjacente e" (Direito empresarial brasileiro: títulos de crédito, volume 3 / Gladston Mamede. - 4. ed. -necessário São Paulo: Atlas, 2008, p.306).
+Para que seja exigível, nos termos do art. 15, da Lei nº 5.474/68, deve constar do título o aceite do sacado.
+Caso não conste, é imprescindível a prova documental da entrega e recebimento da mercadoria Em que pese a ausência de aceite nas duplicatas, observa-se que a requerente instruiu cuidadosamente o procedimento executório, trazendo aos autos cópias das notas fiscais eletrônicas (DANFES),acompanhadas dos recibos e protestos realizados.
+Verifica-se que consta assinatura da recorrente nos "DANFES", com indicação do recebimento das mercadorias e, além disso, foi realizado um protesto para cada duplicata emitida.
+Assim, a análise conjunta do acervo probatório permite concluir que a recorrida comprovou o seu direito ao crédito.
+Deste modo, consoante o disposto no inciso I do art. 373, do CPC, cabia à embargante demonstrar o fato desconstitutivo do título causal.
+A apelante limitou-se a alegar que seria impossível atestar o recebimento dos produtos, ao passo que não há como identificar as assinaturas e o carimbo da empresa apostos nos canhotos nas notas fiscais, bem como tais rubricas não seriam do preposto autorizado pela empresa.
+Essas alegações não só reforçam a inadequação da prova pericial, como reitera a possibilidade de recebimento da mercadoria por qualquer empregado da empresa, sem que daí resulte qualquer ilícito ou nulidade.
+De mais a mais, deixou-se de trazer qualquer ajuste entre as partes, de que somente seriam válidas as faturas que constasse a assinatura de recebimento da mercadoria por determinado empregado ou a existência de procedimento específico para sua encomenda e recebimento.
+Enfim, as alegações carecem de densidade que pudesse conferir ao menos verossimilhança no fato desconstitutivo ventilado nos embargos.
+Ressalta-se que em momento algum a embargante questionou os protestos efetuados pela exeqüente há mais de 08 (oito) meses, o que corrobora, até certo ponto, a aceitação acerca da existência da dívida.
+Nesse sentido, o STJ já decidiu que "É ônus da embargante a prova de fato constitutivo de seu direito, e que a assinatura constante do qual seja, o de que a mercadoria não lhe foi entregue adequadamente canhoto da duplicata pertence à pessoa entranha aos seus quadros, haja vista a presunção legal de (STJ - Resp 844.191/Df, Rel. Min. LUIS FELIPE."llegitimidade que emana do título executivo SALOMÃO, Quarta Turma, julgado em 02/06/2011, DJe 14/06/2011)  e-STJ, fls.183/185 .
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DEVEDOR.DUPLICATAS. VIOLAÇÃO AO ART. 535 DO CPC/73. INEXISTÊNCIA. VIOLAÇÃO AOS ARTS. 1º E 20 DA LEI Nº 5.474/68 E DISSÍDIO JURISPRUDENCIAL. SÚMULAS 5 E 7
+DO STJ.
+ ..
+2. A Corte local, com base nos elementos fático-probatórios e na
+interpretação do contrato firmado entre as partes, afastou a alegação de nulidade, bem como afastou a existência de qualquer irregularidade na duplicata, concluindo restar demonstrados os requisitos de liquidez, certeza e exigibilidade dos títulos, de modo que, para rever esse entendimento exposto pelo Tribunal local e acolher a pretensão recursal seria imprescindível o reexame de provas e a interpretação de cláusulas contratuais, o que é defeso nesta instância especial (Súmulas n. 5 e 7/STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 934.108/MG, Relator o Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 29/9/2016, DJe 7/10/2016)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. CÓDIGO DE DEFESA DO CONSUMIDOR. APLICAÇÃO. FALTA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. TEORIA DA APARÊNCIA. SÚMULA Nº 7/STJ.
+ ..
+2. Rever as conclusões do acórdão recorrido acerca da aplicação da teoria da aparência demandaria o reexame de matéria fático-probatória, o que é inviável em recurso especial, nos termos da Súmula nº 7 do Superior Tribunal de Justiça.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.514.002/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 21/3/2017, DJe 28/3/2017)
+De outra parte, a jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. ART. 535 DO CPC/1973. VIOLAÇÃO. NÃO OCORRÊNCIA. DEVOLUÇÃO EM DOBRO. MÁ-FÉ DO CREDOR. INEXISTÊNCIA. REEXAME. SÚMULA Nº 7/STJ. VERBA HONORÁRIA. APRECIAÇÃO EQUITATIVA. LIMITES. VALOR FIXO. CABIMENTO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ.
+ ..
+3. Não há como rever a conclusão do tribunal de origem, acerca da ausência de má-fé do credor a justificar a devolução em dobro dos valores pagos indevidamente, sem a análise de fatos e provas, o que é inviável no recurso especial devido à incidência da Súmula nº 7/STJ.
+ ..
+6. O reexame do conjunto fático-probatório da causa obsta a admissão do recurso especial tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.231.900/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 8/5/2018, DJe 15/5/2018).
+Assim, como não foi demonstrado o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
