@@ -1,0 +1,60 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor de Renato Alexandre dos Santos Nunes- condenado como incurso no crime de tráfico de drogas à pena de 4 anos e 2 meses de reclusão, em regime inicial semiaberto, além do pagamento de 416 dias-multa (Apelação Criminal n. 0000005-60.2020.8.26.0571, do Tribunal de Justiça de São Paulo) - sob a alegação de constrangimento ilegal no acórdão denegatório (HC n. 2167701-20.2021.8.26.0000),requer-se, em liminar, seja determinada a suspensão do mandado de prisão expedido para fins de cumprimento da pena remanescente; e, no mérito, a fixação do regime aberto para o cumprimento da reprimenda residual.
+É o relatório.
+A ordem não merece concessão.
+O art. 674 do Código de Processo Penal e o art. 105 da Lei de ExecuçãoPenal são expressos ao disporem que a guia de recolhimento para a execuçãopenal somente será expedida após o trânsito em julgado da sentença queaplicar pena privativa de liberdade, condicionando-se a expedição da guiade recolhimento ao cumprimento do mandado de prisão expedido, caso o condenadojá não esteja preso.
+Eis o que consta dos dispositivos (grifo nosso):
+Art. 674 do CPP. Transitando em julgado a sentença que impuser penaprivativa de liberdade, se o réu já estiver preso, ou vier a ser preso, ojuiz ordenará a expedição de carta de guia para o cumprimento da pena.
+Art. 105 da LEP. Transitando em julgado a sentença que aplicar penaprivativa de liberdade, se o réu estiver ou vier a ser preso, o Juizordenaráexpedição de guia de recolhimento para a execução.
+Não é outra a orientação do Conselho Nacional de Justiça (Resolução n.113/2010 - grifo nosso):
+Art. 1º A sentença penal condenatória será executada nos termos da Lei 7.210, de 11 de julho de 1984, da lei de organização judiciária local e da presente Resolução, devendo compor o processo de execução, além da guia, no que couber, as seguintes peças e informações:
+I - qualificação completa do executado;
+II - interrogatório do executado na polícia e em juízo;
+III - cópias da denúncia;
+IV - cópia da sentença, voto(s) e acórdão(s) e respectivos termos de publicação, inclusive contendo, se for o caso, a menção expressa ao deferimento de detração que importe determinação do regime de cumprimento de pena mais benéfico do que seria não fosse a detração, pelo próprio juízo do processo de conhecimento, nos termos do art. 387, § 2º, do Código de Processo Penal, acrescentado pela Lei 12.736/12; (Redação dada pela Resolução nº 180, de 03.10.13)
+V - informação sobre os endereços em que possa ser localizado, antecedentes criminais e grau de instrução;
+VI - instrumentos de mandato, substabelecimentos, despachos de nomeação de defensores dativos ou de intimação da Defensoria Pública;
+VII - certidões de trânsito em julgado da condenação para a acusação e para a defesa;
+VIII - cópia do mandado de prisão temporária e/ou preventiva, com a respectiva certidão da data do cumprimento, bem como com a cópia de eventual alvará de soltura, também com a certidão da data do cumprimento da ordem de soltura, para cômputo da detração, caso, nesta última hipótese, esta já não tenha sido apreciada pelo juízo do processo de conhecimento para determinação do regime de cumprimento de pena, nos termos do art. 387, § 2º, do Código de Processo Penal, acrescentado pela Lei 12.736/12; (Redação dada pela Resolução nº 180, de 03.10.13)
+ ..
+Logo, afigura-se inviável a expedição da guia de recolhimento, e,consequentemente, o início da execução penal, sem que seefetive o préviorecolhimento prisional do apenado.
+Nesse sentido, destaco:
+RECLAMAÇÃO. ORDEM CONCEDIDA PARA QUE O JUÍZO DA EXECUÇÃO EXAMINE QUAL ALEI MAIS BENÉFICA À SENTENCIADA. DESCUMPRIMENTO DO JULGADO. NÃOOCORRÊNCIA. PROCESSO DE EXECUÇÃO NÃO INICIADO. PEDIDO IMPROCEDENTE.
+1. A decisão do juízo sentenciante determinando que se aguarde a prisão dacondenada para que o processo possa ser encaminhado ao juízo da execuçãonão descumpre o julgado desta Corte, que ordenou ao juízo das execuçõesque avalie qual lei é mais benéfica à sentenciada, se a lei de drogasatual ou a anterior. Com efeito, para que a competência do juízo daexecução se estabeleça, mister o recolhimento da sentenciada com aconsequente expedição da guia de execução penal.
+2. Pedido improcedente.
+(Rcl n. 33.794/RN, Ministra Maria Thereza de Assis Moura, Terceira Seção, DJe15/8/2017)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. REGIME INICIAL ABERTOTRÂNSITO EMJULGADO DA CONDENAÇÃO. EXPEDIÇÃO DE MANDADO DE PRISÃO. PACIENTE EM LUGARINCERTO E NÃO SABIDO. ILEGALIDADE NÃO EVIDENCIADA. PEDIDO DE PRISÃODOMICILIAR. ILEGALIDADE MANIFESTA. INEXISTÊNCIA. RECURSO ORDINÁRIODESPROVIDO.
+1. (..).
+2. Nos termos da legislação em vigor, especialmente os arts. 674 do Códigode Processo Penal e o art. 105 da Lei de Execução Penal, a guia derecolhimento será expedida após o trânsito em julgado da sentença, quandoo réu estiver ou vier a ser preso. In casu, o paciente encontra-se emlugar incerto e não sabido, o que inviabiliza o início da execução.Ilegalidade não evidenciada.
+3. O pedido de prisão domiciliar não pode ser enfrentado nesta Corte,tendo em vista que não houve enfrentamento da tese no Tribunal a quo, alémdo trânsito em julgado da ação penal, o que revela a competência do Juízodas Execuções para a análise do pedido, quando for iniciado o cumprimentoda pena.
+4. Recurso ordinário desprovido.
+(RHC n. 46.699/MG, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe9/8/2016)
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃOCABIMENTO. NOVA ORIENTAÇÃO JURISPRUDENCIAL. PEDIDO DE FIXAÇÃO DO REGIMEABERTO. SUPRESSÃO DE INSTÂNCIA. PROGRESSÃO DE REGIME. EXECUÇÃO DA PENA QUEAINDA NÃO SE INICIOU. NECESSIDADE DE RECOLHIMENTO PRÉVIO DO PACIENTE ÀPRISÃO. AUSÊNCIA DE VAGAS NO REGIME SEMIABERTO. DILAÇÃO PROBATÓRIAINVIÁVEL NO WRIT. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+II - O pedido de fixação do regime aberto - aos argumentos de que já faria/jus à progressão de regime; não haveria vaga no regime intermediário; enecessitaria prosseguir com atividade empresarial - não merece ser sequerconhecido, uma vez que não foi objeto de exame pelo eg. Tribunal deorigem, não havendo como esta Corte proceder a tal análise, sob pena deindevida supressão de instância (precedentes).
+III - Da mesma forma, não há manifestação do Juízo das Execuções acerca dopedido de eventual progressão de regime, até porque não houve, ainda, oinício do cumprimento da pena, constando dos autos a informação de que foiexpedido mandado de prisão, até aquele momento (7/12/2015) ainda nãocumprido.
+IV - Não há como se pleitear benefícios que podem ser obtidos durante ocumprimento da pena se esse sequer se iniciou. Faz-se necessário orecolhimento prévio do paciente à prisão, para que seja expedida guia deexecução definitiva e tenha início a competência doJuízo das Execuções(precedentes).
+V - A avaliação da tese relativa à ausência de vagas em estabelecimentocompatível com o regime semiaberto demandaria dilação probatória inviávelno âmbito do writ, de cognição sumária, não sendo possível acolher opedido com base em mera suposição (precedentes). Habeas Corpus não conhecido.
+(HC n. 343.177/SP, Ministro Felix Fischer, Quinta Turma, DJe 10/6/2016)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. CONDENAÇÃO. TRÂNSITO EM JULGADO.EXPEDIÇÃO DE MANDADO DE PRISÃO. COMPETÊNCIA DO JUÍZO QUE PROFERIU ASENTENÇA CONDENATÓRIA. INTELIGÊNCIA DO ART. 105 DA LEP. CONSTRANGIMENTOILEGAL INEXISTENTE.
+1. Segundo a dicção do art. 105 da Lei n. 7.210/84, o processo de execuçãoapenas poderá ser instaurado após a prisão do condenado, oportunidade naqual será expedida a guia de recolhimento a ser encaminhada ao Juízo daexecução, iniciando, neste momento, a competência deste.
+2. Sendo a prisão do condenado condição indispensável para a emissão daguia de recolhimento, o que deve ser feito pelo Magistrado que proferiu oédito condenatório, quando do seu trânsito em julgado, não há falar emincompetência deste para determinar que se expeça o respectivo mandado deprisão.
+REGIME INICIAL SEMIABERTO. ALEGAÇÃO DE INDEVIDO RECOLHIMENTO EM MODO MAISGRAVOSO POR FALTA DE VAGAS. PEDIDO DE CUMPRIMENTO EM PRISÃO DOMICILIAR COMAUTORIZAÇÃO PARA TRABALHO. MATÉRIA NÃO APRECIADA PELA CORTE DE ORIGEM.SUPRESSÃO DE INSTÂNCIA.
+1. O recorrente, condenado a cumprir pena no regime inicial semiaberto,pretende que lhe seja concedido o direito de cumprir a reprimenda impostaem prisão domiciliar, ao argumento de que inexistiria unidade prisionaldestinada ao resgate da pena no modo intermediário na comarca de suaresidência.
+2. Tese que não foi alvo de deliberação pela Corte estadual no acórdãoobjurgado, o que impede o seu exame diretamente por este Sodalício, sobpena de se configurar a prestação jurisdicional em indevida supressão deinstância. Precedentes.
+3. Ainda que assim não fosse, este Sodalício tem o entendimento de que oconstrangimento ilegal decorrente da inexistência de vaga emestabelecimento prisional adequado deve ser analisado no caso concreto,depois do recolhimento do sentenciado, e não em situação abstrata, como nocaso em comento, em que o mandado de prisão expedido em desfavor doinsurgente não foi cumprido e a execução penal sequer foi iniciada.
+4. Recurso ordinário parcialmente conhecido e, nessa extensão, desprovido.
+(RHC n. 64.550/RJ, Ministro Jorge Mussi, Quinta Turma, DJe 4/5/2016)
+No caso, o paciente, embora condenado definitivamente ao cumprimento depena privativa de liberdade,não cumpriu a totalidade da pena no período em que permaneceu em prisão cautelar, sendo posto em liberdade no transcurso da ação penal, ostentando atualmente a condição de foragido,circunstância essa que,por si só,obsta o início da execução penal e, consequentemente, a análise de eventuais requerimentos defensivosdirigidos ao Juízo da execução, inclusive no sentido de postular a progressão de regime, sobretudo considerando que essa benesse demanda não só o implemento do requisito objetivo, mas também a análise do mérito subjetivo.
+Também é improcedente o argumento defensivo de que a detração do tempo de prisão cautelar teria o condão de ensejar o abrandamento do regime inicial de cumprimento, pois, como circunstanciado no julgamento do HC n. 652.535/SP, o regime inicial semiaberto fixado não decorre exclusivamente do patamar da pena fixado (superior a 4 anos), mas também de circunstância judicial negativa sopesada na primeira fase (pena-base acima do mínimo legal), fundamento esse, por si só, suficiente para justificar o agravamento doregime inicial de cumprimento, sendo indiferente eventual detração do tempo de prisão cautelar no caso.
+Nesse sentido, destaco o seguinte precedente:
+ ..
+6. A jurisprudência desta Corte possui o entendimento pacífico de que, estipulada pena superior a 4 anos de reclusão, a presença da circunstância judicial desfavorável autoriza a fixação do regime prisional fechado.
+Na hipótese, mostra-se inócua, para fins de escolha do regime inicial, a discussão acerca da detração do tempo de prisão provisória (art. 387, § 2º, do Código de Processo Penal), pois, conforme se observa, ainda que descontado o período de prisão cautelar da pena privativa de liberdade imposta, não haveria alteração do regime inicial fixado na sentença, tendo em vista que a pena-base foi fixada acima do mínimo legal.
+7. Habeas corpus não conhecido.
+(HC n. 564.239/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2020 - grifo nosso)
+Ante o exposto, denego a ordem (art. 34, XX, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.SUPOSTA ILEGALIDADE NO ACÓRDÃO QUE MANTEVE O MANDADO DE PRISÃO EXPEDIDO PARA FINS DE CUMPRIMENTO DA PENA PRIVATIVA DE LIBERDADE ENEGOU O PLEITO DEFENSIVO DE EXPEDIÇÃO DE GUIA DE RECOLHIMENTO PARA FINS DE EXECUÇÃO. IMPROCEDÊNCIA.CONDENAÇÃO DEFINITIVA (TRANSITADA EM JULGADO).RÉU FORAGIDO (MANDADO DE PRISÃO EXPEDIDO). INEXISTÊNCIA DE ILEGALIDADE. EXECUÇÃO QUE DEPENDE DO PRÉVIORECOLHIMENTO DO APENADO. ARTS. 674 DO CPP E 105 DA LEP E RESOLUÇÃO N. 113/210 (CNJ). PRECEDENTES DESTA CORTE. SUPOSTA ILEGALIDADE NO REGIME INICIAL. DETRAÇÃO DO TEMPO DE PRISÃO CAUTELAR. IRRELEVÂNCIA. PENA-BASE ACIMA DO MÍNIMO LEGAL.
+Ordem denegada.
