@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+MENEGHIM TRANSPORTES EXPRESS LTDA. (MENEGHIM) promoveu ação complementação de pagamento de indenização securitária contra AXA CORPORATE SOLUTIONS SEGUROS S.A. (AXA), sob a alegação de que sofreu prejuízo, o qual não foi indenizado pela segurado sob o argumento de deficiência de averbação de carga no período de julho a setembro de 2018.
+Em primeira instância, o pedido foi julgado improcedente (e-STJ, fls. 390/394).
+A apelação interposta por MENEGHIM não foi provida pelo Tribunal de Justiça doParaná, nos termos do v. acórdão assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA INDENIZAÇÃO SECURITÁRIA - TRANSPORTE RODOVIÁRIO DE CARGA - SENTENÇA DE IMPROCEDÊNCIA ACIDENTE DE TRÂNSITO TOMBAMENTO - PERDA CARGAS - SEGURADO NÃO SE ENQUADROU NA DEFINIÇÃO DE CONSUMIDOR NÃO DESTINATÁRIO FINAL DO SERVIÇO - INAPLICABILIDADE DO CDC - NEGATIVA DA SEGURADORA - DESCUMPRIMENTO DA OBRIGAÇÃO CONTRATUAL DE PRÉVIA AVERBAÇÃO AINDA QUE PARCIAL - INDENIZAÇÃO SECURITÁRIA INDEVIDA BOA FÉ NÃO CONFIGURADA REITERADAMENTE NÃO HOUVERAM AVERBAÇÕES INTEGRAIS DOS EMBARQUES REALIZADOS - ENTENDIMENTO STJ RECURSO CONHECIDO E NÃO PROVIDO (e-STJ, fl. 484).
+Inconformada, MENEGHIM interpôs recurso especial, com base no art. 105, III, a, da CF, alegando violação dos arts. 113, 422 e 765 do CC/2002 e 6º do DL nº 4.656/1942.
+O apelo nobre não foi admitido em virtude da incidência das Súmulas nºs 5 e 7 do STJ.
+Seguiu-se o agravo em recurso especial, que, em decisão monocrática do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, em virtude da incidência das Súmulas nºs 5 e 7 do STJ.
+Nas razões do presente agravo interno, MENEGHIM, repisando os argumentos trazidos nas razões recursais, alegou a inaplicabilidade das Súmulas nºs 5 e 7 do STJ, por não haver necessidade do reexame de fatos ou provas ou cláusulas contratuais.
+Houve impugnação ao recurso (e-STJ, fls. 626/640).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA. INDENIZAÇÃO SECURITÁRIA. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DAS CLÁUSULAS CONTRATUAIS. SÚMULAS N.os 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige interpretação de cláusula contratual e reapreciação do acervo fático-probatório da demanda, o que faz incidir as Súmulas nºs 5 e 7, ambas do STJ.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ, na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, o v. acórdão concluiu, quanto a alegada violação dos arts. 113, 422 e 765 do CC/2002 e 6º do Decreto-lei nº4.657/1942, no que concerne à necessidade da seguradora arcar com o pagamento da cobertura devidamente contratada, que o Tribunal local afirmou que agiu de modo a minorar os riscos ao enviar imediatamente um regulador de sinistro ao local do acidente que realizou a venda do salvado, a devolução de mercadorias pouco avariados aos embarcadores, entre outros, bem como quando soube do acidente a apelada tentou minorar os riscos cobertos antes mesmo de analisar a regularidade das cargas para viabilizar a indenização securitária, consoante se vê dos seguintes trechos:
+Conforme documento de mov. 1.8, a negativa da cobertura se deu em razão da deficiência de averbação em 19.02% nos embarques realizados no período avaliado entre julho e setembro. Saliente-se que o acidente de trânsito ocorreu em 13.06.2018 (mov. 1.6).
+Destaque-se que as partes cumpriram com o seguinte dispositivo legal do Código Civil, já que no dia da ocorrência do sinistro a apelada seguradora foi avisada (mov. 26.6) bem como se denota dos documentos de mov. 1.10 a 1.14:
+ ..
+Deste modo, a apelada agiu de modo a minorar os riscos ao enviar imediatamente um regulador de sinistro ao local do acidente que realizou a venda do salvado, a devolução de mercadorias pouco avariados aos embarcadores, entre outros.
+Nos termos da cláusula 8 da apólice de seguro (mov. 26.5, pág. 4):
+ ..
+Portanto, o dispositivo contratual acima transcrito é bem sucinto ao prescrever que a não averbação das mercadorias embarcadas, ainda que parcial, gerará perda da indenização securitária em caso de sinistro.
+ ..
+Em relação aos argumentos da apelante de que houve afronta ao princípio do venire contra factum e ao princípio da boa-fé objetiva, tem-se que na defesa a apelada tão somente informou o proprium alegado pela primeira de que não houve a averbação de determinadas cargas por falha operacional.
+No mais, quando soube do acidente a apelada tentou minorar os riscos cobertos antes mesmo de analisar a regularidade das cargas para viabilizar a indenização securitária, por força do parágrafo único do artigo 771 acima citado, não havendo que se cogitar de violação ao princípio da proibição de comportamento contraditório.
+Em que pese a alegação da apelante de valor ínfimo da mercadoria não averbada no valor de R$11.113,62, tem-se que não só este valor não foi registrado como também foi constatada uma deficiência de R$9.972.882,20 entre o período de julho à setembro de 2018 (mov. 26.7, pág. 6).
+ ..
+Assim, no caso em comento não é possível aplicar o princípio da boa-fé já que a apelante reiteradamente tem deixado de proceder a totalidade das averbações de modo que alterou o equilíbrio contratual e influiu no cálculo dos prêmios.
+Ainda que não seja possível fundamentar a recusa da cobertura securitária pela deficiência de averbação de julho a setembro de 2018, ou seja, por lapso de tempo posterior ao sinistro, tem-se que estes dados interferiram diretamente na aplicação do princípio da boa-fé que deve ser afastada (e-STJ, fls. 486/488 -sem destaque no original).
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CONTRATO DE SEGURO DE VIDA EM GRUPO. 1. FALHA NO DEVER DE INFORMAÇÃO. NÃO DEMONSTRAÇÃO. INEXISTÊNCIA DE CLÁUSULAS ABUSIVAS. DIREITO AO RECEBIMENTO DA TOTALIDADE DO PRÊMIO. REEXAME. SÚMULAS 5 E 7/STJ. 2. DEVER DE INFORMAÇÃO EXCLUSIVA DA ESTIPULANTE. ATUAL ENTENDIMENTO DESTA CORTE. 3. INCAPACIDADE PARCIAL PERMANENTE. VALOR DA INDENIZAÇÃO. PROPORCIONALIDADE AO GRAU DE INVALIDEZ. PRECEDENTE. 4. AGRAVO IMPROVIDO.
+1. Reverter a conclusão do Colegiado originário (acerca do fato de que o beneficiário não apresentou nenhuma prova quanto ao valor segurado, além de não ter sido configurada a falta no dever de informação pela seguradora, cujos termos da apólice poderiam ter sido verificados por força do acordo coletivo prévio) demandaria o revolvimento de cláusulas contratuais e do acervo fático-probatório dos autos, o que se mostra impossível ante a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.
+1.1. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática de cada caso.
+2. Com efeito, a Terceira Turma desta Corte, por ocasião do julgamento do REsp n. 1.825.716/SC, firmou entendimento no sentido de que, no contrato de seguro coletivo em grupo, cabe à estipulante, e não à seguradora, o dever de fornecer ao segurado (seu representado) ampla e prévia informação a respeito dos contornos contratuais, no que se inserem, sobretudo, as cláusulas restritivas.
+3. Em relação ao valor da indenização, o entendimento desta Corte Superior é no sentido de que, "quando a invalidez for parcial, o valor indenizatório deverá ser proporcional à diminuição da capacidade física sofrida pelo segurado com o sinistro, devendo ocorrer o enquadramento da situação em tabela prevista nas condições gerais e/ou especiais do seguro, a qual segue critérios objetivos (arts. 11 e 12 da Circular SUSEP nº 302/2005). Dessa forma, para cada grau de inutilização definitiva da estrutura física do indivíduo, haverá um percentual adequado do capital segurado máximo, uma fração, apto a indenizá-lo. Incidência dos princípios da proporcionalidade e da razoabilidade.
+4. Agravo interno improvido.
+(AgInt no AREsp 1.782.351/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 1º/6/2021, DJe 7/6/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL (CPC/2015). AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. CERCEMANETO DE DEFESA. SÚMULA Nº 7/STJ. MILITAR. ACIDENTE. INVALIDEZ PERMANENTE COMPROVADA. INDENIZAÇÃO DEVIDA. AUSÊNCIA DE PROVA ACERCA DA CIÊNCIA DO SEGURADO SOBRE A EXISTÊNCIA DE CLÁUSULAS LIMITATIVAS. REVISÃO DA CONCLUSÃO DO TRIBUNAL DE ORIGEM. REEXAME DE PROVAS E DE CLÁUSULA CONTRATUAL. SÚMULAS Nº 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. IMPOSSIBILIDADE DE COMPROVAÇÃO DO DISSÍDIO JURISPRUDENCIAL POR RECLAMAR CONSIDERAÇÃO SOBRE A SITUAÇÃO FÁTICA. PRECEDENTES. AGRAVO DESPROVIDO.
+(AgInt no AREsp 1.738.758/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. 1º/6/2021, DJe 8/6/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS, PROVAS E CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO. NÃO REALIZADO. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação de cobrança de indenização securitária c/c indenização e compensação - respectivamente - por danos materiais e morais.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Alterar o decidido no acórdão impugnado, no que se refere à ausência de abusividade das cláusulas do contrato objeto desta ação, no que tange à exclusão de furto ou de roubo parcial, exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, procedimentos que são vedados pelas Súmulas 5 e 7, ambas do STJ.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. Agravo interno não provido.
+(AgInt no AREsp 1.568.108/MG, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 4/5/2020, DJe 7/5/2020)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
