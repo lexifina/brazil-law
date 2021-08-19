@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Herman Benjamin, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. TENDINOPATIA E BURSITE NO OMBRO DIREITO E RADICULOPATIA CERVICAL E LOMBAR. ALEGADA VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação previdenciáriaobjetivando a concessão de auxílio-acidente. Na sentença, julgou-se procedente o pedido, concedendo-se o citado benefício com termo inicial a partir do dia seguinte à alta médica (9/9/2016), acrescido de abono anual, juros moratórios (contados desde a citação sobre o total acumulado até então e, após, sobre o valor de cada parcela vencida, mês a mês) nos termos da Lei n. 11.960/09, correção monetária pelo INPC, além da honorária advocatícia fixada em 15% dos atrasados até a r. sentença.No Tribunal a quo, a sentença foi reformada.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+RELATÓRIO
+Na origem, trata-se de ação previdenciária objetivando a concessão de auxílio-acidente. Na sentença, julgou-se procedente o pedido, concedendo-se o citado benefício com termo inicial a partir do dia seguinte à alta médica (9/9/2016), acrescido de abono anual, juros moratórios (contados desde a citação sobre o total acumulado até então e, após, sobre o valor de cada parcela vencida, mês a mês) nos termos da Lei n. 11.960/09, correção monetária pelo INPC, além da honorária advocatícia fixada em 15% dos atrasados até a r. sentença.
+No Tribunal a quo, a sentença foi reformada, conforme a seguinte ementa do acórdão:
+Auxílio-acidente - Tendinopatia e bursite no ombro direito e radiculopatia cervical e lombar - Ausência do nexo causal - Reparação infortunística indevida.
+Apelação autárquica e reexame necessário providos para julgar improcedente o pedido.
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, o recorrente aponta como violados os arts. 3º, 7º, 9º, 10 e 489, IV, do CPC/2015, sustentando, em síntese, que a utilização do laudo realizado na Justiça do Trabalho, em detrimento do laudo pericial produzido na presente demanda, não atentou para os diversos fatores que os diferenciam.
+Alega, ainda, violação dos arts. 20, 21, 21-A e 86 da Lei n. 8.213/1991. Salienta que a prova pericial demonstra o nexo causal e a incapacidade total e permanente para as funções habituais da parte recorrente.
+Após decisum que inadmitiu o recurso especial, com base no enunciado da Súmula n. 7/STJ, foi interposto o presente agravo, tendo o recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+A decisão recorrida tem o seguinte dispositivo: "Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial."
+Interposto agravo interno, a parte agravante traz argumentos contrários a decisão recorrida.
+A parte agravada foi intimada para apresentar impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. TENDINOPATIA E BURSITE NO OMBRO DIREITO E RADICULOPATIA CERVICAL E LOMBAR. ALEGADA VIOLAÇÃO DO ART. 1022 DO CPC/2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO STJ.
+I - Na origem, trata-se de ação previdenciáriaobjetivando a concessão de auxílio-acidente. Na sentença, julgou-se procedente o pedido, concedendo-se o citado benefício com termo inicial a partir do dia seguinte à alta médica (9/9/2016), acrescido de abono anual, juros moratórios (contados desde a citação sobre o total acumulado até então e, após, sobre o valor de cada parcela vencida, mês a mês) nos termos da Lei n. 11.960/09, correção monetária pelo INPC, além da honorária advocatícia fixada em 15% dos atrasados até a r. sentença.No Tribunal a quo, a sentença foi reformada.
+II - Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+III - Verifica-se que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Agravo interno improvido.
+VOTO
+O recurso de agravo interno não merece provimento.
+Não há violação do art. 535 do CPC/1973 (art. 1.022 do CPC/2015) quando o Tribunal a quo se manifesta clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, apreciando-a fundamentadamente (art. 165 do CPC/1973 e art. 489 do CPC/2015), apontando as razões de seu convencimento, ainda que de forma contrária aos interesses da parte, como verificado na hipótese.
+A Corte a quo analisou as alegações da parte com os seguintes fundamentos:
+Não há prova efetiva do nexo causal entre as patologias incapacitantes diagnosticadas na perícia médica e o trabalho exercido pelo segurado, sendo que no PPP juntado pelo empregador (fls. 136/139) se verifica que as funções por ele exercidas (comissário de voo e, posteriormente, assistente administrativo) não demandavam sobrecarga dos ombros, nem da coluna, já que não exigia carregamento de peso constante ou repetição de movimentos, o que está de acordo com o id quod plerumque accidit.
+Repise-se que não houve a emissão de CAT pelo empregador, nem a concessão de auxílio-doença acidentário na esfera administrativa.
+Não se pode olvidar que a indenização infortunística busca reparar tão somente a incapacidade laboral originada direta ou indiretamente do trabalho, nos termos do art. 19, da Lei nº 8.213/91, in verbis:
+Art. 19. Acidente do trabalho é o que ocorre pelo exercício do trabalho a serviço de empresa ou de empregador doméstico ou pelo exercício do trabalho dos segurados referidos no inciso VII do art. 11 desta Lei, provocando lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução, permanente outemporária, da capacidade para o trabalho.
+Ademais, na perícia médica e vistoria ambiental levadas a cabo perante a Justiça do Trabalho não se constatou a presença do nexo causal entre os males na coluna e nos ombros com o trabalho exercido pelo autor junto ao seu antigo empregador (fls. 304/341).
+Além disso, importante se registrar que, ainda que o TRT da 2ª Região tenha anulado a r. sentença de improcedência (fls. 519/524), o obreiro estava presente na vistoriai n loco realizada naquela demanda e, ainda assim, o liame de causalidade restou afastado (fls. 307), sendo certo que a nulidade decretada não disse respeito a este ponto aqui controvertido.
+(..) Portanto, deve ser afastada a presença do nexo causal entre as patologias incapacitantes e o labor, impondo-se a não concessão do benefício acidentário pretendido.
+Verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa, seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "Apretensão de simples reexame de provas não enseja recurso especial".
+Ante o exposto, não havendo razões para modificar a decisão recorrida, nego provimento ao agravo interno.
+É o voto.
