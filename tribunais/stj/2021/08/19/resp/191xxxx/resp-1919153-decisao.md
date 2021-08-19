@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a" e "c" , da Constituição Federal, contra acórdão proferido pelo TJSP, assim ementado (fl. 241):
+Ementa:Responsabilidade civil. Queda provocada por buraco na calçada. Fato provado. Falta do serviço evidenciada. Dever de indenizar inafastável. Valor da indenização ora reduzida para R$ 20.000,00. Termo inicial dos juros, na data da citação, mantido. Recurso parcialmente provido.
+O recorrente alega, além de divergência jurisprudencial, violação dos artigos 397 e 398 do Código Civil. Defende, em síntese, que o termo inicial dos juros de mora incide desde o arbitramento nos danos morais.
+Com contrarrazões.
+Decisão de conversão em recurso especial àsfls. 348.
+É o relatório. Passo a decidir.
+A Corte de origem assim se manifestou sobre o termo inicial dos juros moratórios (fls. 298/300):
+O V. Acórdão analisou a questão e manteve o termo inicial de juros adotado na sentença recorrida, registrando que a ora embargante já foi beneficiada pela contagem dos juros desde a citação.
+Assim, não existe o vício indicado.
+Não é possível conhecer do recurso especial que apresenta suposta violação dos artigos 397 e 398 do Código Civil, pois os dispositivos indicados como malferidos não contém comandos normativos capazes de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido que frisou que o recorrente já foi beneficiado pela contagem dos juros de mora desde a citação.Aplica-se à hipótese, portanto, a Súmula 284/STF.
+E ainda que superado o óbice acima, registra-se para fins de esclarecimento quea jurisprudência de ambas as Seções que integram este Tribunal, é no sentido de que os juros moratórios fluem a partir do evento danoso, sejam essesdanos morais ou materiais.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECUSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER, REPARAÇÃO DE DANOS MATERIAIS E MORAIS DECORRENTE DE FALHA NA PRESTAÇÃO DE SERVIÇO PÚBLICO DE TELEFONIA. JUROS MORATÓRIOS FLUEM A PARTIR DO EVENTO DANOSO. CARACTERIZAÇÃO DO DANO MORAL. QUANTUM INDENIZATÓRIO DE R$ 15.000,00 FIXADO RAZOAVELMENTE COM BASE NAS PECULIARIDADES DA CAUSA. AGRAVO INTERNO DA EMPRESA A QUE SE NEGA PROVIMENTO.
+1. O termo inicial para a incidência dos juros moratórios, nos termos da jurisprudência deste Tribunal Superior, é a partir do evento danoso. Precedentes: REsp. 1.662.785/SP, Rel. Min. HERMAN BENJAMIN, DJe 29.6.2017; AgInt no AREsp. 889.334/PR, Rel. Min. RAUL ARAÚJO, DJe 19.12.2016; AgInt no REsp. 1.333.963/SP, Rel. Min. LUIS FELIPE SALOMÃO, DJe 9.12.2016; AgInt no REsp. 1.394.188/SC, Rel. Min. SÉRGIO KUKINA, DJe 25.11.2016.
+2. O Tribunal de origem entendeu por bem diminuir o valor fixado a título de indenização por danos morais decorrente da falha na prestação do serviço de telefonia e do descaso em solucionar o problema, de R$ 30.000,00 para a quantia de R$ 15.000,00.
+3. A alteração de tal valor, fixado considerando o grau da lesividade da conduta ofensiva e a capacidade econômica da parte pagadora, com o intuito de amenizar a dor sofrida pela vítima e punir a empresa pelo dano causado, demanda necessariamente o revolvimento fático-probatório dos autos, providência vedada em sede de Recurso Especial.
+4. Agravo Interno da OI S.A. a que se nega provimento (AgInt no AREsp 832.779/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 28/08/2017)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FRAUDE PRATICADA POR TERCEIROS COM DOCUMENTOS DA AUTORA. RESPONSABILIDADE OBJETIVA DAS INSTITUIÇÕES FINANCEIRAS. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. QUANTUM INDENIZATÓRIO. RAZOABILIDADE. RELAÇÃO EXTRACONTRATUAL. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. AGRAVO IMPROVIDO.
+1. No julgamento do Recurso Especial Repetitivo 1.197.929/PR (Rel. Min. Luis Felipe Salomão, DJe de 12/9/2011), processado nos moldes do art. 543-C do CPC, foi firmado o entendimento de que as instituições bancárias respondem objetivamente pelos danos causados por fraudes ou delitos praticados por terceiros - como, por exemplo, abertura de conta-corrente ou recebimento de empréstimos mediante fraude ou utilização de documentos falsos -, porquanto tal responsabilidade decorre do risco do empreendimento, caracterizando-se como fortuito interno.
+2. A Corte de origem, mediante análise do conjunto fático-probatório dos autos, concluiu que ficou comprovado que não foi a autora quem contratou com a requerida, mas sim terceira pessoa por ela se fazendo passar. Nesse contexto, a alteração das premissas fáticas adotadas pela Corte de origem demandaria o reexame do acervo fático-probatório dos autos, o que é inviável em sede de recurso especial, nos termos da Súmula 7 do STJ.
+3. É possível a revisão do montante da indenização nas hipóteses em que o quantum fixado for exorbitante ou irrisório, o que, no entanto, não ocorreu no caso em exame. Isso, porque o valor da indenização por danos morais em razão da inscrição indevida do nome da autora em cadastro de inadimplentes, arbitrado em R$ 10.000,00 (dez mil reais), não é desproporcional ou desarrazoado.
+4. A jurisprudência das Turmas que integram a Segunda Seção deste Tribunal é uníssona no sentido de que os juros moratórios fluem a partir do evento danoso, em caso de responsabilidade extracontratual, sejam os danos morais ou materiais (incidência da Súmula 54/STJ).
+5. Agravo interno a que se nega provimento (AgInt no AREsp. 889.334/PR, Rel. Min. RAUL ARAÚJO, DJe 19.12.2016).
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. JUROS MORA. TERMO INICIAL. AUSÊNCIA DE COMANDO NORMATIVO NOS DISPOSITIVOS INDICADOS. SÚMULA 284/STF.RECURSO NÃO PROVIDO.
