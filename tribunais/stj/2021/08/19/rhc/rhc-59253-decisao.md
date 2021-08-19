@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de expediente avulso em razão de petição apresentada em favor de ADILSON CORREA, na qual aduz descumprimento de acórdão proferidopor esta Egrégia Quinta Turma nos autos do RHC59253.
+Aduz-se que noRHC59253 foi deferida em favor do requerente asubstituição daprisão preventiva por prisão domiciliar, mas "que essa comunicação do Egrégio Srlj à Primeira Vara de Guarulhos(SP) não ficou registrada nos termos do Processo Criminal em que o Requerente foi condenado, e muito menos não há registro) na Guia de Recolhimento e Mandado de Prisão que foram expedidos pela justiça de Guarulhos, passando a condição de pessoa portadora de TETRAPLEGIA e outros problemas crônicos de saúde, como soe ser o Requerente, in albis. ENCONTRA-SE PRESO O REQUERENTE DESDE QUARTA FEIRA, DIA 14 DE JULHO DE 2021, CONFORME SE VÊ DOS DOCUMENTOS DA AUDIÊNCIA DE CUSTÓDIA E MANDADO DE PRISÃO, AQUI COLIGIDOS, PORTANTO, HÁ QUARTORZE DIAS (DUAS SEMANAS) (fls. 45).
+Dos documentos apresentados, verifica-se que a recente prisão do requerente se deu em decorrência desentença penal condenatória vinculada ao processo 0000246-20.2018.4.03.6119 (fl. 19-21).
+A Coordenadoria de Processamento de Feitos de Direito Penal certificou que oRHC 59253foi remetido ao Tribunal local após o trânsito em julgado do acórdão de fls. 386/406 (fl. 53).
+Do que consta dos autos, verifica-se que o pedido formulado é absolutamente improcedente, já que o acórdão proferido nestes autos, que determinou a substituição da prisão preventiva por prisão domiciliartransitou em julgado em novembro de 2015, e o mandado de prisão contra o qual se insurge o agravante é posterior e motivado por título judicial condenatório.
+Assim, evidencia-se que restou devidamente encerrada a prestação jurisdicional desta Corte com o trânsito em julgado do acórdão proferido, eeventual insurgência do requerente acerca do cumprimento de novo mandado de prisão, deve ser submetido ao crivo das instâncias ordinárias pela via adequada.
+Ante o exposto, julgo improcedente o expediente avulso.
+Publique-se.
+Intimem-se.
