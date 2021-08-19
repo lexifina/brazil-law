@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO. INADIMPLÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. DISSÍDIO PREJUDICADO. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar aprestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas e interpretação de cláusulas contratuais não é permitida nesta via recursal.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por MARIA SUSETE SILVA MINETTO, em face de decisão monocrática que conheceu do agravo em recurso especial, para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Ação: embargos à execução opostos por Maria Susete Silva Minetto, nos autos da execução por quantia certa contra devedor solvente proposta por Ecisa Participações Ltda em desfavor de Hansen Martins - Calçados Ltda, Cesar Minetto e da agravante, objetivando a cobrança de valores inadimplidos decorrentes de contrato de locação.
+Sentença: julgou improcedentes os embargos à execução.
+Acórdão: negou provimento à apelação de Maria Susete Silva Minetto, nos termos da seguinte ementa:
+APELAÇÃO. EMBARGOS À EXECUÇÃO. Locação de espaço em shopping center para uso comercial. Sentença de improcedência. Apelo da embargante. Alegação de inexistência de título apto a embasar a execução. Rejeição. Título líquido, certo e exigível. Contrato de locação que atende aos requisitos previstos nos incs. II e VIII, do art. 784 do CPC. Excesso de execução. Não acolhimento. Embargante que não atendeu ao disposto no § 3º, do art. 917 do Codex de modo a impugnar a planilha de cálculos que instrui a inicial da execução. Cálculos elaborados pela credora que devem ser acolhidos. Nulidade da fiança por ausência de outorga uxória em aditamento contratual. Desnecessidade, no caso. Contrato aditado apenas para substituição do locatário pessoa física para locatária pessoa jurídica. Substituição que já estava prevista no contrato primitivo que foi firmado pela apelante como cofiadora. Por isso, o fiador deve responder pelas obrigações assumidas até a efetiva devolução das chaves. Dicção do art. 39,da Lei nº 8.245/91. Multa moratória de 10% que não é abusiva. Percentual fixado de forma livre pelas partes, no exercício do direito à livre iniciativa. Sentença mantida. RECURSO NÃO PROVIDO.(e-STJ fl. 427)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: sustenta violação dos arts. 489, §1º, IV, 1.022 e 1.647, III, do CPC/2015; 819 do Código Civil; e 39 da Lei 12.112/2009. Alega, em síntese: i) omissão do julgado; ii) que o contrato de locação objeto a discussão foi alterado, por meio de aditivo, sem anuência expressa da fiadora acerca da mudança do locatário por outra parte; iii) que diante da alteração contratual, sendo inserida pessoa diversa da beneficiada pela garantia fidejussória, não há que se falar em prorrogação do contrato por prazo indeterminado; e, iv) a invalidade do termo aditivo, ante a ausência de sua assinatura para a outorga uxória, o que foi devidamente impugnado no momento oportuno.
+Decisão monocrática: conheceu o agravo, para conhecer em parte do recurso especial e negar-lhe provimento.
+Agravo interno: alega que o acórdão restou omisso; que preencheu todos os requisitos para a interposição do recurso, inclusive impugnando todos os fundamentos do acórdão; diz que não pretende o reexame de provas nem do contrato devendo "ser feita uma distinção entre análise das circunstâncias fáticas da causa e atribuição de significado diverso aos fatos estabelecidos pelo acórdão recorrido" (e-STJ fl. 560); e que "apenas se está discutindo a aplicabilidade ou não do artigo 39 da Lei nº 12.112 de 2009 - uma vez que a contratação ocorreu em momento anterior à norma aplicada, bem como se discutiu se é ou não necessária a anuência de fiadores quando do aditamento contratual que visa à substituição do locatário, estendendo-se ou não a fiança a pessoa diversa daquela originariamente constante no contrato, mesmo sem assinatura da fiadora e como outorga uxória" (e-STJ fl. 560).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOAGRAVO EM RECURSO ESPECIAL. EXECUÇÃO. EMBARGOS À EXECUÇÃO. CONTRATO DE LOCAÇÃO. INADIMPLÊNCIA. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA.REEXAME DE FATOS E PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS 5 E 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. DISSÍDIO JURISPRUDENCIAL. NÃO DEMONSTRADO. DISSÍDIO PREJUDICADO. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO AGRAVADA.
+1. Ação de execução. Embargos à execução.
+2. Ausentes os vícios do art. 1.022 do CPC, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar aprestação jurisdicional, não há que se falar em violação do art. 489 do CPC.
+4. O reexame de fatos e provas e interpretação de cláusulas contratuais não é permitida nesta via recursal.
+5. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido.
+8. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada
+1. Da ofensa do art. 1.022 do CPC/15
+Inicialmente, constata-se que o artigo 1022 do CPC/15 realmente não foi violado, porquanto o acórdão recorrido não contém omissão, contradição ou obscuridade. Nota-se, nesse passo, que o Tribunal de origem tratou de todos os temas oportunamente colocados pelas partes, proferindo, a partir da conjuntura então cristalizada, a decisão que lhe pareceu mais coerente.
+Assim, o Tribunal de origem, embora tenha apreciado toda a matéria posta a desate, tratou da questão referente à outorga uxória e àimpugnação à assinatura no termo aditivo, sob viés diverso daquele pretendido pela parte agravante, fato que não dá ensejo à interposição de embargos de declaração.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+Por fim, observa-se que o agravante, na origem, se utilizou dos embargos de declaração com efeitos meramente infringenciais. Por essa razão, não se verifica, na hipótese, a pretensa ofensa ao art. 1.022 do CPC/15, sendo mantida a aplicação da Súmula 568/STJ.
+2. Da violação do art. 489 do CPC/15
+Analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar, de fato, em violação do art. 489 do CPC/15, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+- Da aplicação das Súmulas 5 e 7/STJ
+Aocontrário do alegado no recurso, as premissas que levaram o Tribunal de origem a reconhecer: a existência de liquidez, certeza e exigibilidade do título de crédito, e o preenchimento dos requisitos legais para tanto; e a desnecessidade da outorga uxória no termo aditivo, ao entendimento de que este configura mero desdobramento do contrato original, cuja cláusula segunda, §1º, previa a transferência da figura do locatário, o que era de pleno conhecimento da agravante, não podem ser revistas nesta Corte, em razão dos óbices previstos nas Súmulas 5 e 7/STJ, corretamente aplicados, na hipótese.
+- Da existência de fundamento não impugnado
+Ademais, não houve a impugnação dos fundamentos utilizados pelo TJ/SP, ao afastar as alegações da parte agravante.
+Com efeito, ficaram incólumes os argumentos de que, i) "se não houve a ausência de exoneração da fiança judicialmente ou de comum acordo, o fiador será responsável pela garantia prestada até a entrega das chaves" e de que ii) a formalização do aditamento contratual com o objetivo de transferir a locação para a empresa Hansen Martins Calçados Ltda, constituiu mero desdobramento da exigência prevista em contrato e era de pleno conhecimento da agravante, razão pela qual deve ser mantido o acórdão recorrido, diante da aplicação, na hipótese, da Súmula 283/STF.
+- Da divergência jurisprudencial
+Melhor sorte não assiste à recorrente quanto à divergência jurisprudencial. Não foi comprovada a similitude fática entre os arestos apresentados e o acórdão recorrido para demonstrar a divergência jurisprudencial.
+Constata-se que nas razões do recurso especial, a agravante limitou-se a colacionar ementas de julgados que entendem divergentes, sem demonstrar, de maneira analítica, a similitude entre os casos confrontados, a exigir única solução jurídica.
+Outrossim, o dissídio jurisprudencial também não pode ser conhecido, tendo em vista a aplicação da Súmula 7/STJ acerca dos temas que se supõem divergentes (distribuição do ônus probatório e caracterização de bem de família impenhorável). Nesse sentido: AgInt no AREsp n. 821.337/SP, Terceira Turma, DJe de 13/03/2017 e AgInt no AREsp n. 964.391/SP, Terceira Turma, DJe de 21/11/2016.
+A decisão agravada, portanto, deve ser mantida por seus próprios fundamentos.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
