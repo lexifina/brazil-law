@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO QUE RECONHECEU A INADEQUAÇÃO DO CUMPRIMENTO DE SENTENÇA, DECLARANDO SUA NULIDADE COM A CONSEQUENTE RETOMADA DO PROCESSO EXECUTÓRIO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. AUSÊNCIA DE PREJUÍZO. NULIDADE NÃO RECONHECIDA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Embargos à execução no bojo dos quais foi proferida decisão reconhecendo a inadequação do cumprimento de sentença e declarando sua nulidade com a consequente retomada do processo executório.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Para se reconhecer vício que cause a anulação de ato processual, exige-se a existência de prejuízo, ainda que se trate de nulidade absoluta, em obediência ao princípio da economia processual. Precedentes.
+4. Agravo interno no agravo em recurso especialnão provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por ONDINA DE QUEIROZ RAMPAZZO e OUTROS contra decisão unipessoal que conheceu do agravo para conhecer parcialmente do recurso especial que interpuseram e, nessa parte, negar-lhe provimento, pelos seguintes fundamentos: incidência da Súmula 7/STJ; e harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Ação: embargos à execução, opostos pelos agravantes, em face de FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS NAO-PADRONIZADOS ALTERNATIVE ASSETS I.
+Decisão interlocutória: reconheceu a inadequação do cumprimento de sentença apresentado pelo agravado e declarou sua nulidade, com a consequente retomada do processo executório.
+Acórdão: negou provimento ao agravo de instrumento interposto pelos agravantes, nos termos da seguinte ementa:
+AGRAVO DE INSTRUMENTO. DECISÃO RECORRIDA QUE ACOLHE IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA DE AÇÃO DE EMBARGOS À EXECUÇÃO PARA O FIM DE READEQUAÇÃO DO RITO - CONTINUIDADE DO PROCESSO EXECUTÓRIO. IRRESIGNAÇÃO RECURSAL ATINENTE A AUSÊNCIA DE CONDENAÇÃO DA PARTE EXEQUENTEAOSHONORÁRIOSADVOCATÍCIOSE IMPOSSIBILIDADEDE CONVALIDAÇÃODEATOSPROCESSUAISPRATICADOS. NÃO ACOLHIMENTO. DECISÃO MANTIDA. PRETENSÃO EXECUTÓRIA QUE SUBSISTE NOS AUTOS PRINCIPAIS, INAPLICABILIDADE DE CONDENAÇÃO EM VERBA HONORÁRIA. ERRO DE FORMA DO PROCESSO ACARRETA UNICAMENTE A ANULAÇÃO DOS ATOS QUE NÃO POSSAM SER APROVEITADOS - AUSÊNCIA DE PREJUÍZO À DEFESA DOS RECORRENTES.
+Agravo de instrumento desprovido.
+Recurso especial: alegam violação dos arts. 278, parágrafo único, 281, 283, parágrafo único, do CPC/15. Sustentam que: i) não é possível o aproveitamento de atos decorrentes de cumprimento de sentença nulo; ii) o corolário lógico do decreto de nulidade do cumprimento de sentença é que seja tornado sem efeito, retornando a execução ao seu estado anterior; iii) a perícia não atingiu sua finalidade, não se podendo admitir que a finalidade seja examinada exclusivamente em prol da parte credora; iv) o aproveitamento somente seria possível se benéfico aos agravantes; v) a nulidade é de ordem pública, não se sujeitando à preclusão.
+Decisão monocrática:conheceu do agravo para conhecer parcialmente do recurso especial interposto pelos agravantes e, nessa parte, negar-lhe provimento.
+Agravo interno:em suas razões, os agravantes afirmam que: i) remanesceu sem análise a questão alusiva aos honorários advocatícios devidos pelo acolhimento integral da impugnação ao cumprimento de sentença; ii) assim como o reconhecimento da nulidade do cumprimento de sentença não demandou em revolvimento fático-probatório algum, também a impossibilidade de aproveitamento de perícia para fins diversos não implica em vulneração à Súmula 7/STJ; iii) o decreto de nulidade do cumprimento de sentença já foi reconhecido, sendo impossível aproveitar perícia realizada incidentalmente.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. DECISÃO QUE RECONHECEU A INADEQUAÇÃO DO CUMPRIMENTO DE SENTENÇA, DECLARANDO SUA NULIDADE COM A CONSEQUENTE RETOMADA DO PROCESSO EXECUTÓRIO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. AUSÊNCIA DE PREJUÍZO. NULIDADE NÃO RECONHECIDA. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Embargos à execução no bojo dos quais foi proferida decisão reconhecendo a inadequação do cumprimento de sentença e declarando sua nulidade com a consequente retomada do processo executório.
+2. O reexame de fatos e provas em recurso especial é inadmissível.
+3. Para se reconhecer vício que cause a anulação de ato processual, exige-se a existência de prejuízo, ainda que se trate de nulidade absoluta, em obediência ao princípio da economia processual. Precedentes.
+4. Agravo interno no agravo em recurso especialnão provido.
+VOTO
+A decisão agravada conheceu do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento, ante a incidência da Súmula 7/STJ; e a harmonia entre o acórdão recorrido e a jurisprudência do STJ.
+Julgamento:CPC/15.
+1. Do reexame de fatos e provas
+Permanece a incidência da Súmula 7/STJ à espécie. Isso porquanto alterar as conclusões adotadas pelo Tribunal de origem quanto à ausência de prejuízo às partes do aproveitamento da perícia demandaria desta Corte, indubitavelmente, a incursão no conteúdo fático-probatório dos autos, conforme se depreende dos seguintes trechos:
+Com efeito, levando-se em conta que o juízo de primeira instância, por intermédio da decisão que ora se debruçam os recorrentes, apenas readequou o rito processual, impedindo a continuidade de cumprimento de sentença no bojo da execução já em curso para o correto desenrolar do procedimento anterior (a própriaexecução), e aproveitou os atos pertinentes, como por exemplo o laudo pericial -desdenhado pelos agravantes -, eis que constatou a inocorrência de violação de direito fundamental à ampla defesa, ao contraditório ou, ainda, ao devido processo legal, bem como vislumbrou os princípios da economia e celeridade processual, não há como acolher a alegação de impossibilidade de aproveitamento dos atos relevantes ao deslinde da demanda.
+Aliás, vale o registro que da prova pericial acostada no mov. 116.1 que os agravantes pretendem desqualificar, estes puderam expressar suas considerações a seu respeito (vide mov. 127.1), o que afasta qualquer alegação de prejuízo.
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal de origem, de maneira que a incursão nesta seara implicaria ofensa ao referido óbice sumular.
+2. Da harmonia entre o acórdão recorrido e a jurisprudência do STJ
+Aoentender pela possibilidade de aproveitamento do laudo pericial em razão da ausência de prejuízo paraquaisquer das partes, o TJ/PR aplicou de forma adequada a jurisprudência do STJ no sentido de quese exige a demonstração do prejuízo para o reconhecimento de vício que implique a anulação de ato processual, mesmo em se tratando de nulidade absoluta (AgRg nos EREsp 907.517/RS, Corte Especial, DJe de 02/02/2015).
+Osagravantes não trouxeram qualquer argumento novo capaz de demonstrar, de forma consistente, que oprecedenteindicadonão se aplicaà hipótese dos autos ou foisuperado. Ademais, trata-se de entendimento dominante do tema, porquanto foi aplicado pela Corte Especial do STJ.
+Assim, a decisão monocrática não merece reforma, mantendo-se a aplicação da Súmula 568/STJ.
+Por fim, ressalta-se que não foi analisado o tema dos honorários advocatícios, porquanto,por ocasião da admissibilidade do recurso especial, a esse foi negado seguimento, tendo em vista que o posicionamento adotado pelo acórdão recorrido encontra-se em harmonia com a orientação desta Corte Superior sedimentada em julgamento de recurso repetitivo. Portanto, é cabível a interposição de agravo interno na origem e não agravo em recurso especial, nos termos do art. 1.030, I, "b", e §2º, do CPC/15.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno no agravo em recurso especial.
