@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de pedido de extensãode decisão que concedeu a ordem dehabeas corpusem benefício de STEPHANY GONÇALVES DE AQUINO, formulado por PATRÍCIA PAULA PEITA.
+A paciente, presa preventivamente em 27/5/2021 pelasuposta prática dos delitos tipificados nos arts. 1º, § 4º, da Lei nº 9.613/98 e 2º,caput, da Lei n.12.850/2013, impetrou o presente writcontra acórdão que denegou pedido de revogação da sua custódia.
+A ordem não foi conhecida, mas concedida de ofício para, reconhecendo a ausência dopericulum libertatise considerando sua posição de subordinação no esquema criminoso, além das suascircunstâncias pessoais favoráveis, revogar a prisão preventiva, mediante fixação de medidas cautelares alternativas.
+No presente pedido de extensão, a requerente alega que a fundamentação para a prisão de ambas as acusadas foi idêntica. Além disso, afirma que as condições pessoais também são semelhantes, sendo ambas primárias, de bons antecedentes, com residência fixa e ocupação lícita, respondendo por delito destituído de violência ou grave ameaça.
+Requer, na forma do art. 580 do Código de Processo Penal, a extensão do benefício.
+Comunica ainda que o pedido de extensão prévio, formulado às e-STJ fls. 62/76, foi protocolado por advogado que não representa a requerente, instando que perca seus efeitos.
+É o relatório. Decido.
+Preambularmente, diante da declaração de e-STJ fl. 82, na qual a requerente declara a ausência de poderes do advogado que formulou o pedido de extensão de n.00732371/2021, juntado às e-STJ fls. 62/76, não conheço daquele pedido.
+Passo ao exame, portanto, da presente petição.
+Nos termos do art. 580 do CPP, no caso de concurso de agentes (Código Penal, art. 25), "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, "a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais)" (RHC n. 7.439/SP, Relator Ministro LUIZ VICENTE CERNICCHIARO, Sexta Turma, julgado em 18/8/1998).
+Em outras palavras, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+Não é o que ocorre no caso dos autos.
+Conforme exposto na decisão de e-STJ fls. 49/59:
+Relatam osautos que o grupo é estruturado em núcleos, sendo o primeiro responsável pelos ilícitos antecedentes, e o segundo, supostamente integrado pela paciente e mais dois acusados, encarregado do branqueamento dos capitais.
+O primeiro grupo conta com a participação do líder, Sílvio Lemos de Almeida, bem como membros cujas atribuições são descritas como "faz tudo", "setor operacional", logísticade veículos, segurança e transporte do dinheiro, além de possível policial responsável por passar informações e facilitar as atividades do bando.
+Já no grupo responsável pela lavagem de capitais, figuram três membros - Patrícia Paula Petta, Rogério Aparecido Cícero e Stéphany Gonçalves de Aquino, ora paciente.Relevante a informação de que Patrícia possui relacionamento amoroso com o líder do grupo, Sílvio, indicando sua posição de influência no núcleo. Quanto aos demais, não há qualquer indicação de preponderância.
+De fato, do exame das condutas imputadas à paciente, verifica não haver indicação de iniciativa ou protagonismo em suas ações, tendo se limitado a, em tese, disponibilizar a conta de sua pessoa jurídica para depósito de valores e possível uso das cifras para compra de veículo.
+Ou seja, adespeito dos elevados valores movimentados, não se verifica, o necessáriopericulum libertatispara justificar sua segregação. Diante de sua condição de subordinação e papel secundário na estrutura criminosa, sequer se sustenta o fundamento de que a custódia é necessária para evitar novas práticas, eis que com a prisão dos demais membros, não se mostra, do que consta dos autos, viável a reiteração delitiva.
+Ou seja, a ordem foi concedida de ofício à paciente devido à sua condiçãosubordinada e atuação desprovidade iniciativa, em grupo secundário dentro da estrutura criminosa.
+A ora requerente, todavia, - ao menos dos indícios extraídos dos autos - não só tem posição de destaque no grupo responsável pela lavagem de capitais, como possui relacionamento amoroso com o líder da estrutura criminosa, havendo indicações, ainda, de que sua atuação não se limitaria às atividades de branqueamento de valores.
+Consta da denúncia que "tais transferências ainda estão associadas às apreensões de dinheiro e material de jogo do bicho na residência de Patrícia, o que aumenta a certeza sobre a participação dessa denunciada, não apenas nas providências para a ocultação e dissimulação da origem do capital, mas também nas providências de administração da "banca"" (e-STJ fl. 42).
+De fato, ao contrário da paciente STEPHANY, denunciada apenas por delitos da Lei n.9.613/1998 e 12.850/2013, a requerente PATRÍCIA foi incursa também pelo crime do art. 58, "caput" e § 1º, alínea "d" do Decreto-Lei n.6.259/1944, revelando sua atuação, em tese, tanto na prática dos delitos antecedentes quantona respectiva lavagem de capitais- ou, em outras palavras, sua inserção completa nas atividades do grupo criminoso.
+São inaplicáveis, portanto, à requerente os fundamentos utilizados para a concessão da ordem em benefício da paciente. Incabível, pois, o pedido de extensão.
+Diante do exposto,indefiroo pedido.
+Intimem-se.
