@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto por SOMPO SAÚDE SEGUROS S.A., fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"Apelação cível. Seguro saúde. Ação de obrigação de fazer. Tratamento com equipe multidisciplinar prescrito ao autor, portador de transtorno do espectro autista (psicologia pelo método ABA, terapia ocupacional com integração sensorial, fonoaudiologia com formação em PECS e acompanhamento terapêutico em sala de aula. Sentença de parcial procedência, excluído o tratamento em ambiente escolar. Inconformismo da ré.
+Relatório médico. Prescrição de tratamento experimental ou não previsto no rol de procedimentos da Agência Nacional de Saúde Suplementar. Havendo expressa indicação médica, é abusiva a negativa de cobertura de custeio de tratamento sob o argumento da sua natureza experimental ou por não estar previsto no rol de procedimentos da ANS. Súmula nº 102 deste Egrégio Tribunal de Justiça do Estado de São Paulo.
+Código de Defesa do Consumidor. Aplicabilidade. Artigos 2º e 3º da Lei nº 8.078/1990. Súmulas nº 100 deste Egrégio Tribunal de Justiça e nº 608 do Colendo Superior Tribunal de Justiça. Fornecedor que deve assumir o risco do negócio que está fornecendo. Caveat venditor.
+Alegação de impossibilidade de reembolso integral. Acolhimento. Observância das regras e limites de reembolso previstos em contrato. Necessidade de consulta à tabela de reembolso da ré e de realização de operação matemática que não torna a cláusula abusiva, inexistindo violação ao Código de Defesa do Consumidor. Precedentes desta C. 6ª Câmara.
+Recurso parcialmente provido para determinar que os reembolsos deverão se dar nos limites do contrato" (fls. 293/294 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Em suas razões, arecorrente aponta a violação doart. 10 da Lei nº 9.656/1998, além de divergência jurisprudencial.
+Sustenta que não há obrigatoriedade de custeio, pelas operadoras de saúde, de tratamentos não previstos no rol da Agência Nacional de Saúde Suplementar (ANS).
+Com as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelorecurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Na espécie, o autor foi diagnosticado como portador de transtorno do espectro do autismo, sendo solicitadas,pelo médico responsável, fisioterapia motora no métodoABA, hidroterapia, terapia ocupacional, fonoaudiologia, musicoterapia, psicoterapia e psicopedagogiaem clínica específicaque não faz parte da rede credenciada.
+O pedido foi julgado procedente.
+A Corte local deu parcial provimento à apelação doplanoapenas para determinar que os reembolsos sejam efetuados de acordo com a tabela contratada.
+Com efeito, a jurisprudência desta Corte é no sentido de que são abusivas as cláusulas contratuais que impõem limitações ou restrições aos tratamentos médicos prescritos para doenças cobertas pelos contratos de assistência e seguro de saúde dos contratantes. Ademais, cabe ao profissional habilitado - e não ao plano de saúde - definir a orientação terapêutica a ser dada ao paciente.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DIALETICIDADE RECURSAL. OBSERVÂNCIA. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. PLANO DE SAÚDE. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. LIMITAÇÃO OU RESTRIÇÃO A PROCEDIMENTOS MÉDICOS, FONOAUDIOLÓGICOS E HOSPITALARES. CARÁTER ABUSIVO. RECONHECIMENTO. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. À luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes.
+4. Se há cobertura de doenças ou sequelas relacionadas a certos eventos, em razão de previsão contratual, não há possibilidade de restrição ou limitação de procedimentos prescritos pelo médico como imprescindíveis para o êxito do tratamento, inclusive no campo da fonoaudiologia.
+5. Agravo interno provido para afastar a falta de dialeticidade recursal, conhecer do agravo e negar provimento ao recurso especial"(AgInt no AREsp 1.527.318/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/3/2020, DJe 2/4/2020).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. LIMITAÇÃO DE TRATAMENTO. ABUSIVIDADE. FUNDAMENTOS DA DECISÃO AGRAVADA. IMPUGNAÇÃO. AUSÊNCIA. APLICAÇÃO ANALÓGICA DA SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. A "jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g.limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes" (AgInt no AREsp 1219394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019)" (AgInt no REsp n. 1.782.183/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/10/2019, DJe 28/10/2019).
+(..)
+3. Agravo interno a que se nega provimento"(AgInt no REsp 1.794.335/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 11/2/2020, DJe 18/2/2020).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. CONSUMIDOR. PLANO PRIVADO DE SAÚDE. OBRIGAÇÃO DE FAZER. COBERTURA DE TRATAMENTO. PACIENTE. MENOR IMPÚBERE PORTADOR DE PATOLOGIA CRÔNICA. LIMITAÇÃO DE SESSÕES. ABUSIVIDADE. OCORRÊNCIA. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior já sedimentou entendimento no sentido de que "à luz do Código de Defesa do Consumidor, devem ser reputadas como abusivas as cláusulas que nitidamente afetam de maneira significativa a própria essência do contrato, impondo restrições ou limitações aos procedimentos médicos, fonoaudiológicos e hospitalares (v.g. limitação do tempo de internação, número de sessões de fonoaudiologia, entre outros) prescritos para doenças cobertas nos contratos de assistência e seguro de saúde dos contratantes"(AgInt no AREsp 1219394/BA, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 7/2/2019, DJe 19/2/2019).
+2. Agravo interno a que se nega provimento"(AgInt no REsp 1.782.183/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 21/10/2019, DJe 28/10/2019).
+Ante o exposto, nego provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinzepor cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 17,5% (dezessete e meio por cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
