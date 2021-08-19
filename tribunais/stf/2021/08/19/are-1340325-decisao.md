@@ -1,0 +1,25 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo TRIBUNAL SUPERIOR ELEITORAL, que reconheceu a legitimidade da União para executar astreintes impostas pelo descumprimento de decisão da Justiça Eleitoral. O acórdão ficou assim ementado (Vol. 99, fl. 18):
+    “ELEIÇÕES 2016. EMBARGOS DE DECLARAÇÃO EM AGRAVO REGIMENTAL EM RECURSO ESPECIAL ELEITORAL. ASTREINTES/MULTA POR DESCUMPRIMENTO DE ORDEM JUDICIAL PROFERIDA PELA JUSTIÇA ELEITORAL. ILEGITIMIDADE DOS PARTICULARES PARA O CUMPRIMENTO DE SENTENÇA. OMISSÃO. PRESENÇA. EMBARGOS ACOLHIDOS. AGRAVO REGIMENTAL TEMPESTIVO. IMPUGNAÇÃO ESPECÍFICA. AUSÊNCIA. SÚMULA 26/TSE. EMBARGOS ACOLHIDOS. AGRAVO DESPROVIDO.
+    1. Inexistente pronunciamento jurisdicional acerca de recurso interposto por umas partes, incorre o acórdão embargado em omissão, passível, portanto, de ser reparado na presente via aclaratória.
+    2. A retirada dos autos por advogado sem procuração é inapta para afirmar a ciência inequívoca da demanda pela parte.
+    3. A ausência de impugnação específica aos fundamentos da decisão agravada atrai o óbice da Súmula n° 26/TSE.
+    4. Acolhe-se os embargos de declaração para negar provimento ao agravo interno”.
+    Opostos Embargos de Declaração (fl. 29, Vol. 99), foram rejeitados (Vol. 100, fl. 12).
+    No RE (Vol. 103, fl. 13), interposto com amparo no art. 102, III, “a”, da Constituição Federal, a parte recorrente sustenta que houve violação ao artigo 5º, caput, e XXXVI, da CF/1988. Afirma, em síntese, que “a pretensa ilegitimidade do recorrido é questão decidida, de forma definitiva, no processo de conhecimento, de maneira que, ainda que de ordem pública, não pode ser novamente debatida na fase executiva, sob pena de ofensa aos art. 5°, XXXVI, da CF”.
+    Aduz que, “embora tenha a UNIÃO FEDERAL ingressado nos autos para defender a sua legitimidade para a ‘execução das astreintes apuradas no presente feito’ (fl. 893), nada disse contra o v. aresto que afastou a sua pretensão, deixando transcorrer in albis o prazo recursal”, assim, “tendo a parte sucumbente se conformado com a v. decisão regional que assentara a impossibilidade de se modificar a sentença exequenda em face da imutabilidade da coisa julgada, impõe-se o reconhecimento de que o v. aresto regional proferido em sede de execução também transitou em julgado no particular” (Vol. 103, fl. 21).
+    Afirma, ainda, que “v. decisão ora recorrida aplica, assumidamente, entendimento jurisprudencial fixado depois do trânsito em julgado do processo de conhecimento, o que impede a sua aplicação em face do princípio da segurança jurídica”(Vol. 103, fl. 22).
+    Em juízo de admissibilidade, o TSE negou seguimento ao apelo, ao fundamento de que incide o Tema 181 da repercussão geral, “em que fixada a tese de que o preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral” (Vol. 106, fl. 6).
+    No Agravo, a parte defende a inaplicabilidade do Tema 181 da repercussão geral (Vol. 104, fl. 6).
+    É o relatório. Decido.
+    A jurisprudência desta CORTE firmou entendimento pela inadmissibilidade de agravo para o SUPREMO TRIBUNAL FEDERAL com o objetivo de impugnar decisão da instância de origem que aplica a sistemática da repercussão geral, seja inadmitindo o recurso extraordinário, seja sobrestando-o até a formação de precedente pela SUPREMA CORTE, pois, como destacado pelo Decano de nosso SUPREMO TRIBUNAL FEDERAL, Min. CELSO DE MELLO, “se revela incognoscível o recurso deduzido contra decisão que, ao aplicar os parágrafos do art. 543-B do CPC/73, faz incidir, no caso concreto, orientação plenária desta SUPREMA CORTE, não importando que se trate de ato decisório que deixa de reconhecer a existência de repercussão geral da controvérsia jurídica ou que se cuide de julgamento de mérito sobre matéria cuja repercussão geral tenha sido anteriormente proclamada” (RE 1.023.231/PR, DJe de 22/2/2017).
+    Dessa forma, não existindo, contra a decisão do Juízo de origem que aplicou a sistemática da repercussão geral, previsão legal de interposição de recurso para o STF (ARE 960.182-AgR, Rel. Min. CÁRMEN LÚCIA, Tribunal Pleno, DJe de 15/3/2017), com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Não se aplica o art. 85, § 11, do Código de Processo Civil de 2015, tendo em vista que não houve fixação de honorários advocatícios nas instâncias de origem.
+    Ficam TODAS AS PARTES advertidas de que:
+    - a interposição de recursos manifestamente inadmissíveis ou improcedentes, ou meramente protelatórios, acarretará a imposição das sanções cabíveis;
+    - decorridos 15 (quinze) dias úteis da intimação de cada parte sem a apresentação de recursos, será certificado o trânsito em julgado e dada baixa dos autos ao Juízo de origem.
+    Publique-se.
+    Brasília, 19 de agosto de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
