@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, a incidênciadas Súmulas nºs 284 do STF e 7 do STJ. Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+RELATÓRIO
+MARIA DAS NEVES PAULINO DE SOUZA e outros (MARIA e outros) ajuizaramação de revisão contratual e indenização por danos materiais e morais contra INVESTCO S.A. (INVESTCO), pretendendo a manutenção na posse de imóvel e que o cartório abstenha-se em proceder qualquer registro ou averbação concernente ao imóvel. Requereu, ainda, a revisão e anulação parcial dos contratos, declarando nulos em relação às partes das terras que não são necessárias aos reservatórios, além de pedido de indenização por danos materiais, morais e lucros cessantes.
+A ação foi julgada improcedente, sendo MARIA e outros condenados ao pagamento das despesas processuais, inclusive, honorários advocatícios fixados em R$ 3.000,00 (três mil reais).
+MARIA e outros interpuseram recurso de apelação que foi desprovido peloTribunal de Justiça do Tocantins nos termos do acórdão, assim ementado:
+APELAÇÃO. AÇÃO DE REVISÃO CONTRATUAL C/C INDENIZAÇÃO POR DANOS MATERIAIS. PRELIMINAR DE NÃO CONHECIMENTO DO APELO. REJEIÇÃO. ESCRITURA PÚBLICA DE CESSÃO DE MEAÇÃO E DIREITOS HEREDITÁRIOS. VÍCIO DE VONTADE. VÍCIO DE CONSENTIMENTO NÃO COMPROVADO. RECURSO IMPROVIDO. SENTENÇA MANTIDA.
+1. Para conhecimento do recurso de apelação basta que seja minimamente demonstrada a pretensão de reforma, com o combate aos fundamentos da sentença, ainda que de forma genérica, desde que compreensíveis as razões apresentadas. Preliminar rejeitada.
+2. Conforme disposto no art. 151 do CC, "a coação, para viciar a declaração da vontade, há de ser tal que incuta ao paciente fundado temor de dano iminente e considerável à sua pessoa, à sua família, ou aos seus bens", situação não demonstrada no caso dos autos.
+3. Incumbe ao autor o ônus da prova quanto ao fato constitutivo do seu direito, hipótese inocorrente quando não comprovado que o negócio jurídico relativo à indenização paga pela cessão de todos os direitos sobre a área de propriedade dos apelantes, situada na região impactada pela construção da UHE Lajeado, fora efetivado mediante coação (artigo 333, inciso i, do Código de Processo Civil).
+4. Recurso conhecido e improvido (e-STJ, fl. 713).
+Os embargos de declaração opostos por MARIA e outros foram rejeitados (e-STJ fls. 760/767).
+Inconformados, MARIA e outros manejaram recurso especial com fundamento no art. 105, III, a e c, da CF alegando, além de dissídio jurisprudencial, violação dos arts. 3º e 4º da Lei nº 3.365/41; 138, 139, 145, 146, 147, 151 e 152 do CC/02e 1.022 e 1.025 do NCPC ao sustentarem (1) omissão quanto ao fato de que a resolução da desapropriação foi específica e limitada, autorizando tão somente as desapropriações das áreas necessárias à implantação das instalações da Usina Hidrelétrica, estando fora desse limite um total de 35 hectaresque não interessaram à implantação da usina; (2) existiu erro na venda do imóvel; e (3) necessidade de realização de perícia técnica para se avaliar corretamente os valores da indenização pertinentes à terra nua, àsbenfeitorias, à cobertura florística eà exploração comercial da propriedade (e-STJ, fls. 788/812).
+Foram apresentadas as contrarrazões (e-STJ, fls. 853/864).
+O recurso especial foi parcialmente admitido por violação do art. 1.022 do NCPC.Quanto aos outros fundamentos do recurso, houve incidência dos óbices da Súmula nº 211 do STJ e Súmula nº 282 do STF (e-STJ, fls. 866/871).
+O recurso extraordinário interposto por MARIA e outros não foi admitido (e-STJ, fls. 872/875).
+Foi interposto agravo em recurso extraordinário por MARIA e outros (e-STJ, fls. 887/893).
+Orecurso especialfoi conhecido e, nessaparte, não provido,em decisão monocrática de minha lavra assim ementada:
+PROCESSUAL. RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO NCPC. AÇÃO DE REVISÃO CONTRATUAL. VENDA DE IMÓVEL. CONSTRUÇÃO DE USINA HIDRELÉTRICA. VIOLAÇÃO DOS ARTS. 1.022 E 1.025 DO NCPC. INEXISTÊNCIA. COAÇÃO, DOLO, FRAUDE. VENDA POR VALOR VIL. INOCORRÊNCIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO CORRESPONDENTE. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO(e-STJ, fl. 1.076).
+Nas razões do presente agravo interno, MARIA e outros, repisando os argumentos trazidos nas razões recursais, alegaram a necessidade de reforma do julgado (e-STJ, fls. 1.085/1.086).
+Houve impugnação ao recurso (e-STJ, fls. 1.090/1.096).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NORECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, § 1º, DO NCPC E INCIDÊNCIA DA SÚMULA Nº 182 DO STJ. ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO INTERNO NÃO CONHECIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo interno não impugnou as razões da decisão agravada, pois não refutou, de forma fundamentada, a incidênciadas Súmulas nºs 284 do STF e 7 do STJ. Inobservância do art. 1.021, § 1º, do NCPC e incidência da Súmula nº 182 do STJ.
+3. Agravo interno não conhecido.
+VOTO
+O recurso não merece conhecimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Incide ao caso a Súmula nº 182 do STJ.
+O agravo interno não impugnou as razões da decisão agravada, na medida em que não infirmarama aplicação das Súmulas nº 284do STF e 7do STJ.
+Na hipótese, MARIA e outrosolvidaram-se de infirmar os óbices apontados, tendo apenas repisado os termos de seu apelo nobre, o que acarreta a aplicação da Súmula nº 182 do STJ, pois não foram impugnados todos os fundamentos da decisão de inadmissibilidade do apelo nobre.
+Vale pontuar que o art. 1.021, § 1º, do NCPC determina que, na petição de agravo interno, o recorrente impugnará especificadamente os fundamentos da decisão agravada, o que, como visto, não foi observado no presente caso.
+Ademais, em obediência ao princípio da dialeticidade, exige-se da parte agravante o desenvolvimento de argumentação capaz de demonstrar a incorreção dos motivos nos quais se fundou a decisão agravada, técnica ausente nas razões dessa irresignação, a atrair a incidência da Súmula nº 182 desta Corte, do seguinte teor: É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada.
+Conforme já decidiu o STJ:
+À luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008)
+Nesse sentido, a Corte Especial, aos 19/9/2018, ao apreciar os EAREsp 746.775/PR, Rel. p/acórdão MINISTRO LUÍS FELIPE SALOMÃO, concluiu que a aplicação da Súmula nº 182 do STJ permanece incólume, aplicada aqui por analogia, pois cabe à parte impugnar, de forma específica, todos os fundamentos da decisão que inadmite o recurso especial.
+Segundo o entendimento exarado em voto pelo MINISTRO LUÍS FELIPE SALOMÃO, existem regras, tanto no Código de Processo Civil de 1973 quanto no atual, que remetem às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade de impugnação de todos os fundamentos da decisão recorrida. Ademais, conforme o mesmo entendimento, existem conceitos doutrinários para justificar a impossibilidade de impugnação parcial da decisão de inadmissibilidade do recurso especial, na medida em que tal decisão é incindível e deve ser impugnada em sua integralidade.
+Além disso, foi também consignado pelo em. Ministro relator que a ausência de impugnação a algum dos fundamentos da decisão, que negou trânsito ao reclamo especial, imporia a esta Corte Superior o exame indevido de questões já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em insurgir-se no momento oportuno, por meio da simples inclusão dos pontos ausentes nas razões do agravo (EARESP 746.775/PR).
+Em igual sentido, vejam-se precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO QUE DEIXA DE IMPUGNAR ESPECIFICAMENTE OS FUNDAMENTOS DA DECISÃO ORA AGRAVADA. INOBSERVÂNCIA DO ART. 1.021, §1º, DO CPC E INCIDÊNCIA DA SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC. AGRAVO NÃO CONHECIDO.
+1. Inexistindo impugnação específica, como seria de rigor, aos fundamentos da decisão ora agravada, essa circunstância obsta, por si só, a pretensão recursal, pois, à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida. Desse modo, no presente caso, resta caracterizada a inobservância ao disposto no art. 1.021, §1º, do CPC e a incidência da Súmula 182 do STJ.
+ ..
+3. Agravo interno não conhecido, com aplicação de multa.
+(AgInt no AREsp 825.386/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ E DO ART. 932, III, DO CPC/2015.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+II - Razões de agravo interno que não impugnam especificamente os fundamentos da decisão agravada, o que, à luz do princípio da dialeticidade, constitui ônus do Agravante. Incidência da Súmula n. 182 do STJ e aplicação do art. 932, III, do CPC/2015.
+III - Agravo interno não conhecido.
+(AgInt no AREsp 884.901/SP, Rel. Ministra REGINA HELENA COSTA, Primeira Turma, j. 17/5/2016, DJe 27/5/2016 - sem destaque no original)
+Por derradeiro, incabível a análise dos dispositivos apontados, como violados, somente nas razões do agravo interno, em virtude da inovação recursal, vedada nesse âmbito.
+Outrossim, de nada adianta alegar que o tema versado envolve matéria de ordem pública, sem a apresentação de nenhum fundamento pertinente.
+Assim, porque os argumentos que USINA trouxeram não atacaram o fundamento da decisão agravada, fica prejudicada sua análise em virtude da não admissão do recurso em razão da incidência da Súmula nº 182 desta Corte.
+Nessas condições, pelo meu voto, NÃO CONHEÇO do agravo interno.
