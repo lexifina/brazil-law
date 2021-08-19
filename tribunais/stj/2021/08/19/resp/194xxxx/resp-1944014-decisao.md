@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (e-STJ, fl. 222):
+APELAÇÃO CÍVEL - REVISIONAL DE CONTRATO - SENTENÇA "CITRA PETITA" - CAUSA MADURA - INÉPCIA DA INICIAL - PRELIMINAR REJEITADA - CONTRATOS DE CRÉDITO DIRETO AO CONSUMIDOR - JUROS REMUNERATÓRIOS - CAPITALIZAÇÃO DE JUROS - LEGALIDADE - ABUSIVIDADE NÃO COMPROVADA - PARCELAS DESCONTADAS EM CONTA SALÁRIO - LIMITAÇÃO DE DESCONTOS DEVIDA - DANOS MORAIS NÃO CONFIGURADOS.
+- É nula a sentença que omite apreciação sobre todos os pedidos formulados pelas partes. Estando a causa madura para julgamento (art. 1013, § 3º, do CPC/1 5), pode o Tribunal ad quem" seguir no exame do mérito, respeitando-se os limites da matéria devolvida ao Tribunal nas razões recursais, com fulcro no "caput" do referido dispositivo legal.
+- Estando a exordial devidamente fundamentada, sendo claros e inteligíveis o pedido e a causa de pedir, não há que se falar em inépcia da inicial.
+- Não se aplicando às instituições financeiras o Decreto n. 22.626133, sendo ainda editada a Súmula Vinculante n. 7 do STF, devem prevalecer nos contratos bancários os juros remuneratórios livremente pactuados pelas partes.
+- Com a edição da MP n, 2.170-3612001, admite-se a capitalização mensal dos juros, mas tão somente nos contratos firmados posteriormente à sua entrada em vigor e desde que haja previsão contratual expressa.
+- Verificando-se que o devedor anuiu com os descontos em sua conta corrente quando da contratação, é caso de se determinar apenas a redução para o percentual de 30% dos rendimentos líquidos do correntista, não havendo de se falar em indenização a título de dano moral
+Nas razões do recurso especial, orecorrente aponta violação dos arts. 1º e 2º da Lei 10.820/2003, uma vez que o limite de 30% somente é válido para empréstimos consignados contratadospelos empregados regidos pela CLT epara desconto em folha de pagamento.
+Sustenta que a recorrida contratou empréstimo diretamenteem sua conta e, portanto, não incide o limite previsto para os empréstimos consignados em folha de pagamento.
+Alega a existência de dissídio jurisprudencial sobre o tema.
+Contrarrazões apresentadas.
+Assim delimitada a controvérsia, passo a decidir.
+Adefinição sobre "aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário" foiafetadaao rito dos recursos Representativos de Controvérsia nos autos dos recursos especiais 1.863.973/SP, 1.877.113/SPe 1.872.441/SP(Tema 1.085), ainda não julgados.
+Confira-se a ementa da proposta de afetação:
+PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DISCUSSÃO CONSISTENTE EM DEFINIR SE, NO ÂMBITO DO CONTRATO DE MÚTUO BANCÁRIO, EM QUE HÁ EXPRESSA AUTORIZAÇÃO DO MUTUÁRIO-CORRENTISTA PARA O DESCONTO EM CONTA-CORRENTE DAS CORRELATAS PRESTAÇÕES, É APLICÁVEL OU NÃO, POR ANALOGIA, A LIMITAÇÃO DE 30% (TRINTA POR CENTO) PREVISTA NA LEI N. 10.820/2003.
+1. Delimitação da controvérsia: "Aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário".
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil.
+(ProAfR no REsp 1863973/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 23/03/2021, DJe 06/04/2021)
+A Segunda Seção aprovou a proposta de afetação coma determinação de suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem acerca da questão delimitada e tramitem no território nacional.
+Desse modo, caracterizada a identidade de questão de direito submetida à sistemática dos recursos repetitivos, a devolução dos autos ao Tribunal de origem é medida que se impõe, nos termos do art. 256, L, inciso I, do Regimento Interno do STJ.
+Em face do exposto, nos termos do inciso II do artigo 1.037 do CPC/2015, determino a devolução destes autos ao Tribunal de origem, com a respectiva baixa, para nele permanecerem sobrestados até o julgamento do mérito dos recursos recebidos como representativos da controvérsia, e, após, que se proceda em conformidade com os comandos dos artigos 1.040 e 1.041 do Código de Processo Civil de 2015.
+Intimem-se.
