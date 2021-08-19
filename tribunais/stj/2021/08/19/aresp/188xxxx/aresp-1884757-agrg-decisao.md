@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo regimental interposto por WILLIAN SOUZA DOS SANTOScontra decisão monocrática da Presidência desta Corte Superior, que nãoconheceudo agravorecurso especial (fls. 427-428).
+Consta dos autos que o juízo singular condenou oagravantepela prática do delito previsto no art. 157, § 3 º (segunda parte), c/c o art. 14, inciso II, ambos do Código Penal, à pena de 10 (dez) anos de reclusão, em regime fechado, e pagamento de 10 (dez) dias-multa (fls. 231-251).
+O eg. Tribunal de Justiça do Estado do Espírito Santonegou provimento ao recurso da defesa, em acórdão assim ementado (fl. 316):
+"APELAÇÃO CRIMINAL - LATROCÍNIO TENTADO (ART. 157, § 3 2 , SEGUNDA PARTE C/C ART. 14, II, AMBOS DO CP) - 1. IMPOSSIBILIDADE DE DESCLASSIFICAÇÃO PARA ROUBO - PROVAS DE ANIMUS NECANDI - ROUBO CONSUMADO E HOMICÍDIO TENTADO - PRECEDENTES DO STF E ST1 - 2. PENA-BASE JÁ FIXADA NO MÍNIMO LEGAL - AUSÊNCIA DE INTERESSE RECURSAL - 3. REGIME MANTIDO - PENA MANTIDA - 4. APELO IMPROVIDO.
+1. Não cabe falar em desclassificação para o tipo previsto no artigo 157, § 1º, do Código Penal. A despeito do tema ser tortuoso e incitar entendimentos distintos, posiciono-me seguindo a orientação pacífica do Superior Tribunal de Justiça, que consolidou o entendimento de que é plenamente possível a ocorrência do latrocínio em sua forma tentada, ainda que não se obtenha o resultado morte ou a existência de qualquer lesão, desde que haja inequívoca demonstração no caso concreto de que o agente teriha atuado com a intenção de matar a vítima ao praticar a conduta delitiva, não obtendo o resultado morte por circunstâncias alheias à sua vontade.
+2. Examinando a r. sentença condenatória, mais especificamente a dosimetria da pena realizada pelo MM. Juiz de 1º grau, não há interesse recursal neste sentido, tendo em vista ter sido a pena-base já fixada no mínimo legal, isto é, em 20 (vinte) anos de reclusão.
+3. Por ausência de redução da sanção, impossível a modificação do regime inicial de cumprimento de pena.
+4. Apelo improvido."
+Opostos embargos de declaração, estes foram rejeitados (fls. 339-352).
+Sobreveio recurso especial, interposto com fulcro na alínea a do permissivo constitucional, no qual a Defesa alegou violação ao art. 157, §§ 1º e 3º, do CP, porquanto "Alega-se a impossibilidade de tipificar a conduta imputada ao paciente como latrocínio na modalidade tentada, porquanto a lei demandaria, para tal tipificação, a ocorrência do resultado morte, o que não "e verificou no presente caso." (fl. 363).
+Por fim, a defesa requer "que seja desclassificado o crime previsto no artigo 157 §3º para o crime previsto no artigo 157. 1º. onde imprimiu violência ou grave ameaçapara garantir a impunidade." (fl. 366).
+Apresentadas as contrarrazões (fls. 374-381), o especial foi inadmitido na pela incidência da Súmula 7/STJ (fls. 383-385).
+Nesta Corte Superior, o agravo em recurso especial deixou de ser conhecido porquanto não forainfirmadoofundamentoempregadopela eg. Corte de origem para inadmitir o recurso.
+Neste regimental, a parte alega que combateu ofundamentoda decisão do Tribunal a quo que inadmitiu o recurso especial.
+O Ministério Público Federal em seu parecer manifestou-se pelo desprovimento do recurso especial(fls. 449-454).
+É o relatório.
+Decido.
+Em percuciente análise dos autos, constato que assiste razão aoagravante, pelo que reconsidero o decisum vergastado (fls. 427-428) de relatoria da Presidência, tornando-o sem efeito, e passo à nova análise do reclamo.
+Presentes, portanto, os requisitos de admissibilidade do agravo, passo ao exame do recurso especial.
+Nas razões do presente recurso a Defesa postula a desclassificação do crime do art. 157, §3º, para o crime do art. 157, §1º, ambos do CP, sob o fundamento de ausência de provas para condenação pelo crime de latrocínio.
+O eg. Tribunal de origem, no que importa ao caso,assim se manifestou sobre o ponto (fls. 318-326, destaquei):
+"Pois bem. Diante do detido exame dos autos, constato incontestes a materialidade e autoria delitivas do roubo perpetrado pelo apelante, não sendo objeto do presente recurso. Logo, não há maiores comentários em relação a esta questão.
+Alega a diligente defesa ausência de lesões corporais na conduta do recorrente PABLO DOS SANTOS MALAQUIAS. Todavia, no que tange ao pedido de desclassificação para o tipo penal de roubo simples, os disparos de arma de fogo perpetrados em direção à vítima possuíam a intenção de atingi -la, mas os projéteis não foram deflagrados por circunstâncias alheias a vontade do recorrente.
+Assim, a tese defensiva de desclassificação do crime de latrocínio para o delito de roubo deve ser rejeitada, pois as testemunhas do Juízo e o depoimento do próprio apelante convergem com as palavras da vítima e com a exordial acusatória, sendo a versão apresentada pela defesa isolada das provas colacionadas. A vítima CAIO HENRIQUE ALBURQUERQUE declarou perante a autoridade judicial, às fls. 158, o seguinte sobre os fatos!
+ ..
+Sendo assim, diante do material probatório dos autos, não há como acolher a tese de desclassificação do delito, ficando impossibilitado atribuir ao caso concreto a prática apenas de roubo simples.
+Ao meu sentir, pelos depoimentos colacionados, não resta dúvida de que o réu agiu inicialmente imbuído de animus furandi, e mais, sabendo que a vítima poderia repelir seu intento criminoso, decidiu efetuar disparos em sua direção, assumindo, portanto, o risco do resultado morte, que somente não ocorreu em razão das munições terem mascado, configurando, assim, as elementares inerentes ao tipo penal de tentativa de latrocínio, disposto no art. 157, § 3º, na forma do art. 14, inciso II, ambos do Código Penal.
+Digno de registro que o magistrado tem ampla e irrestrita liberdade para apreciar as provas que lhe são apresentadas para proferir a sua decisão, devendo atribuir-lhes o valor probante que entender mais justo, segundo as suas próprias impressões, desde que fundamentadas juridicamente.
+ ..
+Pelo teor do caderno processual, extrai-se que o apelante subtraiu para si coisa alheia móvel efetuando disparos de arma de fogo em direção da vítima para assegurar a sua fuga, não tendo resultado na morte da vítima por circunstâncias alheias a vontade do recorrente.
+A prova é clara quanto à caracterização da tentativa de latrocínio, não cabendo falar em desclassificação como requer a defesa do apelante. A propósito:
+ ..
+Assim, verifica-se que o delito de latrocínio somente não se consumou por circunstâncias alheias à vontade dos agentes, de modo que deve prevalecer a condenação pelo tipo penal do art. 157, § 3º, II, c/c art. 14, II, ambos do Código Penal.
+Não cabe falar em desclassificação para o tipo previsto no artigo 157, § 1º, do Código Penal. A despeito do tema ser tortuoso e incitar entendimentos distintos, posiciono-me seguindo a orientação pacífica do Superior Tribunal de Justiça, que consolidou o entendimento de que é plenamente possível a ocorrência do latrocínio em sua forma tentada, ainda que não se obtenha o resultado morte ou a existência de qualquer lesão, desde que haja inequívoca demonstração no caso concreto de que o agente tenha atuado com a intenção de matar a vítima ao praticar a conduta delitiva, não obtendo o resultado morte por circunstâncias alheias à sua vontade.
+ ..
+No caso dos autos, conforme restou demonstrado pelas provas coligidas aos autos, especialmente pelos testemunhos transcritos alhures, não há dúvida de que o apelante tentou ceifar a vida da vítima, somente não conseguindo seu intento por circunstâncias alheias à sua vontade.
+Dessa forma, em atenta análise dos autos, observa-se perfeitamente configurado também o animus necandi em desfavor da vítima, conforme bem verificado pelo magistrado competente.
+Assim, não há dúvidas de que o réu ao disparar contra a vítima agiu com a intenção de matá-la ou, no mínimo, assumiu o risco de fazê-lo, configurando-se, pois, o crime de latrocínio tentado.
+Portanto, verifica-se que a conduta do acusado amolda-se perfeitamente àquela prevista no artigo 157, §32, II (antiga última figura), c/c artigo 14, inciso II, do Código Penal, não havendo que se falar em desclassificação do delito para o tipo previsto no artigo 157, § 3º, I (antiga primeira parte), do mesmo dispositivo."
+Como se vê do excerto em referência, o eg. Tribunal de origem, apreciando detalhadamente a prova produzida nos autos, concluiu estarem presentes elementos suficientes para embasar o édito condenatório.
+Ora, está assentado nesta Corte que as premissas fáticas firmadas nas instâncias ordinárias não podem ser modificadas no âmbito do apelo extremo, nos termos da Súmula n. 7/STJ, segundo a qual "a pretensão de simples reexame de prova não enseja recurso especial".
+Na hipótese, entender de modo contrário ao estabelecido pelo Tribunal a quo, e desclassificar a conduta do recorrente para o delito do art. 157, § 1º, do CP,como pretende a defesa, demandaria o revolvimento, no presente recurso, do material fático-probatório dos autos, inviável nesta instância.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. DOLO DA CONDUTA. PLEITO DE ABSOLVIÇÃO. REVOLVIMENTO FÁTICO- PROBATÓRIO. IMPOSSIBILIDADE. INCIDÊNCIA DO VERBETE N. 7 DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo, ao apreciar as provas, concluiu pelo dolo na conduta do agente na posse do veículo de origem ilícita, de modo que entender de forma diversa, como pretendido, demandaria o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. Inafastável, assim, a aplicação do enunciado n. 7 da Súmula desta Corte.
+2. Agravo regimental desprovido". (AgRg no AgRg no AREsp 976.729/DF, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe de 22/09/2017)
+"PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXTORSÃO MEDIANTE SEQUESTRO. PRETENSÃO DE RECONHECIMENTO DO CONCURSO FORMAL DE CRIMES. INVIABILIDADE. NECESSIDADE DE REEXAME DE PROVAS. SÚMULAS 7/STJ E 279/STJ. RECURSO INTERPOSTO COM FUNDAMENTO NA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA NÃO APONTADA.
+I. O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários. (Súmula 07/STJ e Súmula 279/STF).
+ ..
+Agravo regimental desprovido." (AgRg no AREsp 460.287/RJ, Quinta Turma, Rel. Min. Felix Fischer, DJe 01/09/2015)
+Ante o exposto, nos termos do art. 259, § 6º, do RISTJ, reconsidero o decisum monocrático recorrido e, com fulcro no art. 253, parágrafo único, inciso II, a, também do RISTJ, conheço do agravo para não conhecer do recurso especial, nos termos da fundamentação acima declinada.
+P. e I.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. LATROCÍNIO.PLEITO DE DESCLASSIFICAÇÃO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO DELINEADO NOS AUTOS.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. DECISÃO MONOCRÁTICA RECONSIDERADA. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
