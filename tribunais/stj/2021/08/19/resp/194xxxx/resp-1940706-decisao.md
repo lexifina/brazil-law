@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por UNIMED DE GUARULHOS-COOPERATIVA DE TRABALHO MÉDICO, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 06/01/2021.
+Concluso ao gabinete em: 27/05/2021.
+Ação: cominatória cumulada com compensação por dano moral, ajuizada por M P F (MENOR), em face da recorrente,em razão da negativa de tratamento multidisciplinar, necessário para a evolução de sua condiçãomédica (menor com microcefalia e paralisia cerebral).
+Sentença: jugou parcialmente procedente o pedido a fim de condenar a ré a autorizar e custear integralmente os tratamentos e medicações, conforme prescrição médica, através de profissionais/clínicas credenciadas, estabelecendo que, no caso da parte autora optar por tratamento fora da rede credenciada da ré, os reembolsos serão de acordo com o patamar previsto no contrato; e condenar a ré ao pagamento do valor de R$ 10.000,00 (dez mil reais), a título compensação pordanos morais.
+Acórdão: negou provimento à apelação interposta pela recorrente, nos termos da seguinte ementa:
+Ementa: Plano de saúde Obrigação de fazer Aplicação do Código de Defesa do Consumidor Negativa de tratamento multidisciplinar, a paciente diagnóstica com microcefalia e paralisia cerebral, que ao completar um ano, não adquiriu o sentar, apresentava crises convulsivas, não mostrava marcha/troca de passos com andador e evidenciava fraqueza muscular da musculatura estabilizadora de tronco e membros inferiores e com o tratamento, adquiriu maior resistência de força muscular global e marcha, sendo sugerida sua continuidade de forma intensiva, com carga semanal de seis horas Requerida que alega exclusão contratual; que a ausência de cobertura decorre de texto legal, conforme o artigo 10, da Lei nº 9656/98; que a técnica não é prevista no rol da ANS; que o § 4º do mesmo artigo dispõe que a amplitude de cobertura será definida por normas da citada agência e que não há comprovação de que as terapias solicitadas são indispensáveis aos cuidados da apelada Abusividade reconhecida Manutenção da imposição de obrigação de custear todo o tratamento requisitado pelo médico dentro da rede credenciada ou em caso de a autora optar por tratamento fora da rede, ao reembolso das despesas pagas, nos termos do contrato Incidência do princípio do cuidado Precedentes Danos morais configurados Redução do quantum arbitrado Impossibilidade Fixação da citação como termo inicial dos juros Sentença mantida Apelo desprovido, com observação.
+Recurso especial: alega violação dos arts. 1, 2 e 10, VII da Lei 9656/98, e 186 e 927 do Código Civil, à Resolução 428 da Agência Nacional de Saúde, parecer técnico de nº 39/GEAS/GGRAS/DIPRO/20185, à Súmula n.6 da Turma Nacional de Uniformização, bem como dissídio jurisprudencial. Sustenta a ausência de cobertura contratual e de obrigação legal para o fornecimento de órtese.Insurge-se contra a condenação em dano moral, bem como aduz a exorbitância do valor fixado.
+Parecer do MPF: da lavra do I. Subprocurador-Geral JOSÉ BONIFÁCIO BORGES DE ANDRADA, opina pelo não conhecimento do recurso especial.
+RELATADO O PROCESSO, DECIDE-SE.
+- Do julgamento: CPC/15.
+- Da violação de dispositivode súmula e de resolução
+A interposição de recurso especial não é cabível quando ocorre violação de súmula, de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+- Do reexame de fatos e provas
+O TJ/SPao analisar o recurso interposto pelarecorrente, concluiu o seguinte:
+Sustenta a apelante que a ausência de cobertura através do método solicitado não decorre apenas da previsão contratual, mas principalmente de texto legal, conforme o artigo 10, VII, da Lei nº 9656/98, porém, o que se verifica que tal dispositivo não e aplica ao caso concreto, uma vez que não se cuida de fornecimento de próteses, órteses e seus acessórios não ligados ao ato cirúrgico, mas apenas de continuidade de tratamento multidisciplinar através de método que proporcionou à menor, o desenvolvimento esperado.(e-STJ, 293, sem grifos no original).
+Desse modo, alterar o decidido no acórdão impugnado, quanto ao ponto, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Além disso, a incidência da Súmula 7 desta Corte acerca do tema que se supõe divergente (ausência de obrigatoriedade do custeio de órtese), impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgInt no AREsp 821337/SP, 3ª Turma, DJe de 13/03/2017 e AgInt no AREsp 1215736/SP, 4ª Turma, DJe de 15/10/2018.
+- Da fundamentação deficiente
+Constata-se, da leitura das razões do recurso especial, que no que tangeà configuração do dano moral e àalegada exorbitância de seu valor, a parterecorrentenão relaciona seus fundamentos àviolação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, NÃO CONHEÇO do recurso especial, com fundamento no art. 932, III, do CPC/15.
+Deixo de majorar os honorários fixados anteriormente, porquanto já atingido o limite previsto no art. 85, § 2º, do CPC/15.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃOCOMINATÓRIA CUMULADA COM COMPENSAÇÃO POR DANO MORAL. CONTRATO DE PLANO DE SAÚDE.VIOLAÇÃO DE DISPOSITIVO DE SÚMULA E DE RESOLUÇÃO. DESCABIMENTO. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Açãocominatória cumulada com compensação por dano moral, em razão de negativa de custeio de tratamento médico prescrito.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional, de súmula ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. O reexame de fatos e provas em recurso especial é inadmissível. Ademais, aincidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+4. A falta de indicação do dispositivo legal sobre o qual recai a divergência inviabiliza a análise do dissídio.
+5. Recurso especial não conhecido.
