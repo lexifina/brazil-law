@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto por MARIA ESTELA RODRIGUES DE CARVALHO, com fundamento no art. 105, III, a, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fls. 121-134):
+APELAÇÃO CÍVEL  AÇÃO ORDINÁRIA DE COBRANÇA  SERVIDOR PÚBLICO ESTADUAL  ADICIONAL POR TEMPO DE SERVIÇO (QUINQUÊNIOS)  AUSÊNCIA DIREITO ADQUIRIDO À CONGELAMENTO  IMPROCEDÊNCIA  FORMA DE CÁLCULO  DIMINUIÇÃO DO VALOR NOMINAL  INOCORRÊNCIA  MANUTENÇÃO  DESPROVIMENTO.
+"A Lei complementar nº 58/03 de 30 de dezembro de 2003 revogou expressamente a Lei complementar nº 39/85 e as disposições em contrário, abrangendo também os dispositivos da Lei complementar nº 50/03. Os acréscimos incorporados aos vencimentos dos servidores antes da vigência da Lei Complementar nº 58/03 continuarão sendo pagos pelos seus valores nominais a título de vantagem pessoal, sendo reajustados de acordo com o art. 37, inciso X, da constituição federal." (TJPB; AC 200.2012.086.092-5/001; Terceira Câmara Especializada Cível; Rel. Juiz Conv. Ricardo Vital de Almeida; DJPB 14/06/2013; Pág. 12)
+Na origem, a recorrente ajuizou ação ordinária contra o Estado da Paraíba objetivando o pagamento de valores que entende cabíveis, conforme relacionados na inicial (fls. 7-8).
+Valor dado à causa: R$ 100,00 (cem reais), em junho de 2016.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, aponta-se violação do artigo 1.022, II, parágrafo único, II, do CPC, sustentando-se, em síntese que:
+Como visto, ao não enfrentar as duas omissões/contradições assinaladas nos embargos de declaração, o tribunal violou o disposto no art. 1.022, II, parágrafo único, II, CPC. De tal sorte que, considerando que não está fundamentada a decisão, deve ser ela anulada, para que sejam enfrentados os argumentos suscitados. (fls. 173-174)
+Foram apresentadas contrarrazões pelo não provimento do recurso.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2.016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Impõe-se o afastamento da alegada violação do art. 1.022, II, parágrafo único, II, do CPC/15, quando integralmente e escorreitamente apreciada a questão jurídica postulada, por meio do exame da matéria, inclusive dos argumentos apresentados pelas partes, que se mostraram relevantes ao deslinde da controvérsia, ou seja, capazes de, em tese, infirmar a conclusão adotada no julgado.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução. Nesse sentido: REsp 1486330/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 24/2/2015; AgRg no AREsp 694.344/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 2/6/2015; EDcl no AgRg nos EAREsp 436.467/SP, Rel. Ministro João Otávio De Noronha, CORTE ESPECIAL, DJe 27/5/2015.
+Ante o exposto, com esteio no art. 255, § 4º, II, do RISTJ, conheço do recurso especial para negar-lhe provimento.
+Publique-se. Intimem-se.
