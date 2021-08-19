@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de MARCOS ESTEVAN DE PAULA LEITE contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 0001003-58.2018.8.26.0616.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 5 (cinco) anos, 7 (sete) meses e 15 (quinze) dias de reclusão, em regime inicial fechado, mais o pagamento de 562 (quinhentos e sessenta e dois) dias-multa, como incurso nas iras do art. 33, caput, da Lei n. 11.343/2006 (fls. 17-24).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu provimento ao recurso, a fim de deferir o benefício da Justiça gratuita, consoante voto condutor do v. acórdão de fls. 26-44.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o paciente faz jus à aplicação do tráfico privilegiado.
+Pugna pela substituição da pena privativa de liberdade por restritiva de direitos e a fixação de regime inicial mais brando.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 52-53).
+Informações prestadas às fls. 55-86.
+O Ministério Público Federal, às fls. 88-94, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"PENAL - PROCESSUAL PENAL - HABEAS CORPUS -REVISÃO DE DOSIMETRIA - IMPROCEDÊNCIA -AUSÊNCIA DE FUNDAMENTAÇÃO - INOCORRÊNCIA - LIVRE CONVENCIMENTO FUNDAMENTADO DO JULGADOR - REEXAME DOS FATOS - IMPOSSIBILIDADE. MANUTENÇÃO DO REGIME INICIAL FECHADO - LEGALIDADE - PRECEDENTES DO STF. Para aplicação do regime prisional deve-se considerar as condições do Réu, o quantum da pena e as características do Fato. PARECER PELA DENEGAÇÃO DA ORDEM." (fl. 88).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a aplicação do tráfico privilegiado; ii) a fixação de regime inicial mais brando; e iii) a substituição da pena privativa de liberdade por restritiva de direitos.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Por fim, não há de incidir o redutor.
+De fato, a par da fundamentação da r. sentença aqui adotada, a quantia em dinheiro R$ 345,00 - e a expressiva quantidade de entorpecentes - 36 porções de maconha, com peso líquido de 80,7 gramas, e 22 microtubos plásticos de cocaína, com peso líquido de 15,9 gramas -, de si, apontam para intensa dedicação do réu às atividades criminosas, obstaculizando a incidência da causa de redução de pena do artigo 33 § 4º. da Lei nº. 11.343/2006.
+ ..
+Finalmente, imodificável o regime inicial fechado, estabelecido para o início de cumprimento da reprimenda. As circunstâncias concretas do fato em tela, de si, afastam a possibilidade de imposição de regime mais brando: notadamente a dedicação à atividade criminosa e o tráfico de droga altamente perniciosa (cocaína), praticado no período noturno, o que acentua a censurabilidade que recai sobre a conduta.
+A quantidade da reprimenda aplicada impede a substituição da pena privativa de liberdade por restritiva de direitos ou concessão de "sursis"" (fls. 36-38).
+Quanto ao pedido de incidência da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/2006, frise-se que, na ausência de indicação pelo legislador das balizas para o percentual de redução previsto no art. 33, § 4º, da Lei n. 11.343/06, a natureza e a quantidade de droga apreendida, assim como as demais circunstâncias do art. 59 do CP, podem ser utilizadas na definição de tal índice ou, até mesmo, no impedimento da incidência da minorante, quando evidenciarem a dedicação do agente ao tráfico de entorpecentes.
+In casu, há fundamentação concreta para o afastamento do tráfico privilegiado, consubstanciada na quantidade e na natureza da droga apreendida: 80,7 g de maconha e 15,9 g de cocaína.
+Assim, a Corte originária se convenceu de que o paciente se dedicava, efetivamente, às atividades criminosas, porque não se tratava de traficante ocasional.
+Ademais, rever o entendimento das instâncias ordinárias para fazer incidir a causa especial de diminuição demandaria, necessariamente, amplo revolvimento da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do mandamus. Nesse sentido: HC n. 372.973/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 23/2/2017; e HC n. 379.203/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 10/2/2017.
+No mais, a quantidade e a natureza do entorpecente - 80,7 g de maconha e 15,9 g de cocaína - são elementos aptos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: HC n. 488.679/SP, Quinta Turma Rel. Min. Ribeiro Dantas, DJe 11/06/2019; e AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017.
+Mantido o quantum de pena aplicado, o pedido de substituição da pena privativa de liberdade por restritiva de direitos encontra óbice no art. 44, I, do Código Penal.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
