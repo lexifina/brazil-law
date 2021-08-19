@@ -1,0 +1,15 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE SUBMISSÃO A ABALO DETODOS OS FUNDAMENTOS DA DECISÃO ADMISSIONAL NEGATIVA DO RECURSO ESPECIAL, O QUE RESULTA EM HIPÓTESE DE NÃO CONHECIMENTO DO RECURSO. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
+1. Trata-se de Agravo da ASSEMBLEIA LEGISLATIVA DO ESTADO DE MATO GROSSO, interposto contra decisão da Presidência do Tribunal de Justiça do Estado de Mato Grosso que indeferiu o processamento do Recurso Especial, aos seguintes fundamentos: (a) aplicação da Súmula 83/STJ; (b) ausência de prequestionamento.
+2. Nas razões de seu recurso, a parte vindica a reforma do exame admissional negativo, aos seguintes argumentos: (a) aviolação ventilada é objetiva, ou seja, argumentou -se no REsp que não caberia mais a discussão da matéria por ter ocorrido a prescrição e decadência, e também a consolidação dos fatos (segurança jurídica), previstas na LINDB e na Lei 4.717/1965. A questão está suficientemente abordada no recurso excepcional; (b)somente é inadmissível o recurso especial se a decisão se basear em tese fixada em julgamento de recursos repetitivos (art. 1.042 do CPC/2015), o que não ocorre no caso.
+3. Contraminuta às fls. 1.449/1.467, 1.468/1.507, 1.473/1.477, 1.478/1.486, 1.497/1.501.
+4. Em síntese, é o relatório.
+5. Para a cognoscibilidade do recurso dirigido às instância ad quem, é necessário que a parte lance argumentos necessários e suficientes a abalar a estrutura lógica do julgado, naquilo que ficou conhecido como integral impugnação aos fundamentos da decisão recorrida.
+6. É a ideia de dialeticidade, em que a parte deve buscar a reforma da decisão recorrida por meio de argumentos que possam superar o pensamento da decisão que se pretende ver reformada. Casos há em que, se a parte não emite argumentos suficientes a abalar todos os fundamentos, transita em julgado um capítulo da decisão, resultando impossibilidade de permanecer o trâmite quanto aos demais temas.
+7. No caso da decisão admissional do Recurso Especial, há o que se chama de parte dispositiva única, caracterizada pela proclamação de indeferimento do processamento da insurgência.
+8. Bem por isso, a parte deve submeter a impugnação todos os fundamentos do julgado, para então, por lógica binária, ver o não admitido para admitido.
+9. No caso dos autos, a decisão agravada se ancorou nos seguintes fundamentos:(a) aplicação da Súmula 83/STJ; (b) ausência de prequestionamento.
+10. Percebe-se que a Edilidade recorrente até tenta se desvencilhar do fundamento de que não teria promovido o prequestionamento da matéria federal.
+11. No entanto, quanto ao tópico da Súmula 83/STJ (afinação entre o entendimento da jurisprudência do STJ e da conclusão do aresto recorrido), a parte agravada nada tratou a respeito, limitando-se a dizer quesomente é inadmissível o recurso especial se a decisão se basear em tese fixada em julgamento de recursos repetitivos. Por essa razão, o agravo padece de sua cognoscibilidade, consoante dissertado.
+12. Mercê do exposto, não se conhece do Agravo em Recurso Especial.
+13. Publique-se. Intimações necessárias.
