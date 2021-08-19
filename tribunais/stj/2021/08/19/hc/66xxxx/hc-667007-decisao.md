@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado pela Defensoria Pública estadual em favor de KAREN KELLENMARTINS MATIAS e ALESSANDRO DE SOUZA OLIVEIRA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1502835-46.2019.8.26.0542.
+Depreende-se dos autos que os pacientes foram condenados, em primeira instância, às penas de: i) 1 (um) ano e 8 (oito) meses de reclusão, em regime inicial fechado, mais o pagamento de 166 (cento e sessenta e seis) dias-multa, por Karen ter praticado o delito descrito no art. 33, §4º, da Lei n. 11.343/2006; e ii) 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, mais o pagamento de 680 (seiscentos e oitenta) dias-multa, por ter Alessandro incorrido nas iras do art. 33, caput, da Lei de Drogas (fls. 30-37).
+Inconformadas, a defesa e a acusação interpuseram apelações perante o eg. Tribunal de origem, que, por unanimidade, negou provimento ao recurso defensivo e proveu o apelo acusatório, a fim de redimensionar a pena de Karen em 8 (oito) anos de reclusão, mais o pagamento de 1.200 (mil e duzentos) dias-multa, e a de Alessandro em 10 (dez) anos, 3 (três) meses e 20 (vinte) dias de reclusão, mais o pagamento de 1.496 (mil quatrocentos e noventa e seis) dias-multa, ambos no regime inicial fechado, consoante voto condutor do v. acórdão de fls. 38-52.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois não há demonstração da estabilidade e permanência, requisitos necessários para a configuração do delito de associação para o tráfico.
+Sustenta que a paciente Karen faz jus à aplicação do tráfico privilegiado.
+Em relação a Karen, afirma que o regime inicial fechado está fundado na gravidade abstrata do delito, em franco descompasso com as Súmulas 718 e 719 do STF.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 82-83).
+Informações prestadas às fls. 87-121.
+O Ministério Público Federal, à fl. 125, manifestou-se pelo não conhecimento do writ, em parecer sem ementa.
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a absolvição dos pacientes do delito de associação para o tráfico; ii) a aplicação do tráfico privilegiado a paciente Karen; e iii) a fixação de regime inicial mais brando a Karen.
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Lembre-se que KAREN, na fase administrativa, informou ser rotineira a busca de drogas por seu companheiro para entrega ao consumo de terceiros, empreitada da qual participava, quer como disfarce do réu, quer no recolhimento e guarda do dinheiro proveniente do comércio espúrio indicando, ainda, a participação de um terceiro na associação, ficando evidente o ânimo associativo do casal.
+No mais, a significativa quantidade de drogas que transportavam não permite concluir que tal associação era eventual, ficando clara a estabilidade do vínculo associativo que, ainda que não estivessem presentes, configurariam o crime.
+Respeitado entendimento em sentido contrário, não há necessidade de estabilidade para a configuração do delito previsto no artigo 35, da Lei de Drogas, pois se aplica a associações reiteradas ou não.
+ ..
+Necessária, portanto, a reforma da r. decisão, inclusive em relação à pena aplicada à ré KAREN.
+ ..
+Correto, ainda, o retorno das reprimendas ao patamar inicial em razão da menoridade de KAREN, mas o fato de estar agindo associada com ALESSANDRO, impede a aplicação do privilégio previsto no art. 33, § 4º, da Lei de Drogas.
+A jurisprudência do E. STJ já deixou assentado que a condenação simultânea nos crimes de tráfico e associação para o tráfico afasta a incidência da causa especial de diminuição prevista no art. 33, §4º, da Lei n. 11.343/06 por estar evidenciada dedicação a atividades criminosas ou participação em organização criminosa.
+ ..
+O regime prisional, não só pela hediondez da conduta, mas também pelo quantum a que condenados, lembrando-se ainda que ALESSANDRO é reincidente específico, não poderia ser diverso do fechado, que fica mantido" (fls. 48-52, grifei).
+Dos excertos transcritos, verifica-se que a Corte de origem atestou a prática da associação para o tráfico por ambos os pacientes, destacando a confissão extraprocessual da paciente Karen, os relatos dos policiais e a quantidade de droga apreendida.
+Desta feita, afastar a condenação do delito de associação para o tráfico, como pretende a defesa, demanda reexame de provas, medida interditada na via estreita do habeas corpus. A propósito: AgRg no REsp n. 1804625/RO, Sexta Turma, Relª. Minª. Laurita Vaz, DJe 05/06/2019; e HC n. 502.868/MS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 20/05/2019.
+No que tange ao pleito de reconhecimento do redutor do tráfico privilegiado, a teor do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+Na falta de parâmetros legais para se fixar o quantum dessa redução, os Tribunais Superiores decidiram que a quantidade e a natureza da droga apreendida, além das demais circunstâncias do art. 59 do CP, podem servir para a modulação de tal índice ou até mesmo para impedir a sua aplicação, quando evidenciarem o envolvimento habitual do agente com o narcotráfico.
+Na hipótese, mantida a condenação da paciente Karen pelo crime de associação para o tráfico de entorpecentes, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais, nos termos do art. 33, § 4º, da Lei de Drogas, tendo em vista a exigência de demonstração da estabilidade e permanência no narcotráfico para a configuração do referido delito. Confira-se: AgRg no HC 370.617/RJ, Sexta Turma, Rel. Min. Rogério Schietti Cruz, DJe 28/11/2017; e HC 408.878/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe 27/9/2017.
+Por fim, no que toca ao modo inicial de resgate de pena da paciente Karen, a quantidade e a natureza do entorpecente - 442 g de maconha - são elementos aptos a ensejar a aplicação do regime fechado, o que está em consonância com o entendimento desta Corte, ex vi do art. 33, § 2º, "a", e § 3º, do Código Penal, e art. 42, da Lei n. 11.343/2006. Confira-se: HC n. 488.679/SP, Quinta Turma Rel. Min. Ribeiro Dantas, DJe 11/06/2019; e AgRg no HC n. 380.021/SC, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 22/3/2017.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
