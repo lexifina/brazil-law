@@ -1,0 +1,21 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por REFINARIA DE PETROLEOS DE MANGUINHOS S/A - EM RECUPERACAO JUDICIALcontra inadmissão, na origem, de recurso especial fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (e-STJ fls. 160-161):
+PROCESSO CIVIL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. ALIENAÇÃO DE BENS. CESSÃO DE CRÉDITO CAPAZ DE REDUZIR A DEVEDORA À INSOLVÊNCIA. CRÉDITO TRANSFORMADO EM 25.373.138 AÇÕES ORDINÁRIAS E 6.786.569 AÇÕES PREFERENCIAIS DE EMPRESA EM RECUPERAÇÃO JUDICIAL E DE PROPRIEDADE DE EMPRESA COLIGADA. PEDIDO DE DECLARAÇÃO DE FRAUDE À EXECUÇÃO ANTERIOR AO DEFERIMENTO DO PROCESSAMENTO DA RECUPERAÇÃO JUDICIAL (11/16). DEVEDORA E EXECUTADA NÃO ENVOLVIDA NO PROCESSO DE RECUPERAÇÃO. INEXISTÊNCIA DE CONFLITO DE COMPETÊNCIA. COMPETÊNCIA ABSOLUTA, POR FUNCIONAL, DO JUÍZO DA EXECUÇÃO. ANTECIPAÇÃO DA TUTELA DEFERIDA. AÇÕES BLOQUEADAS. AGRAVO PROVIDO.
+A fraude à execução está disciplinada no atual CPC, art. 792, IV, face a oneração de bens capaz de reduzir a devedora à insolvência. Esta, por meio da cessão de crédito no decorrer do cumprimento da sentença exequenda cedeu seu crédito junto à empresa Refinaria de Petróleo de Manguinhos S/A na importância de R$ 54.302.000,00.
+Tal importância foi transformada em 23.573.138 ações ordinárias e 6.786.569 ações preferenciais da mencionada refinaria, atualmente detidos pela empresa Xoroque Participações S/A (ex Manguinhos Participações).
+Ao tomar conhecimento da alienação, os agravantes comunicaram ao juízo do cumprimento de sentença, antes mesmo do deferimento da recuperação judicial (11/16).
+Embora a executada e devedora não integrasse de nenhum modo a recuperação, o juízo declarou a sua incompetência para decretar a mencionada fraude à execução.
+A norma processual é clara, em tais circunstâncias, no sentido de a competência do juízo do cumprimento de sentença é absoluta e de natureza funcional.
+Mantida integra a antecipação de tutela, dou provimento ao presente agravo de instrumento para reconhecer a competência do juízo de origem para conhecer e decidir do pedido de fraude à execução formulado pelos agravantes.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 194-199).
+Nas razões de seu recurso especial, a parte recorrente sustenta vulneração ao art. 47 da Lei 11.101/2005. Afirma que o agravo de instrumento manejado pela parte ora recorrida foi provido pela Corte Estadual para determinara competência do juízo de origem para conhecer e decidir do pedido de fraude à execução no cumprimento de sentença de ação indenizatória, além de manter a decisão de bloqueio das ações ordinárias e preferenciais nas quantidades indicadas na inicial. Aduzque a consequência jurídica, caso haja o reconhecimento da fraude, é o desfazimento do negócio e a redução do capital social da Refinaria de Manguinhos, empresa em recuperação judicial. Assevera que (e-STJ fl. 229):
+"..eventual alteração do patrimônio da companhia recuperanda irá interferir, sobremaneira, naquilo que foi delineado no Plano de Recuperação Judicial, devidamente aprovado pela Assembleia Geral de Credores, homologado pelo Poder Judiciário e em franco cumprimento. A incompetência do Juízo Cível para analisar e julgar a questão é, desse modo, evidente".
+Defende que deve ser reformada a decisão recorrida para reconhecer a competência do Juízo da Recuperação Judicial para análise da matéria sub judice.
+Foram apresentadas contrarrazões (e-STJ fls. 283-304).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ fls. 307-309), o que ensejou a interposição do presente agravo.
+É o relatório. Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial e para melhor análise da controvérsia, converto o presente agravo em recurso especial.
+Ante o exposto dou provimento ao agravo, determinando sua conversão em recurso especial.
+Após a regularização do novo registro, retornem os autos conclusos para julgamento.
+Intimem-se.
