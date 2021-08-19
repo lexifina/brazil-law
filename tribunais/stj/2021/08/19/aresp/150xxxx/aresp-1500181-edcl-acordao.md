@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA DE AFRONTA AO ART. 1.022DO CPC/2015. INTUITO INFRINGENTE. DESCABIMENTO. EMBARGOS REJEITADOS.
+1.Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2.Embargos de declaração rejeitados.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por ANA LUIZA RUI ao acórdão proferido por esta Terceira Turma, nos termos da seguinte ementa (e-STJ, fl. 323):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATO DE MANDATO. REPARAÇÃO CIVIL. PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PRAZO PRESCRICIONAL DECENAL. ART. 205 DO CÓDIGO CIVIL. TERMO INICIAL DA PRESCRIÇÃO. TEORIA DA ACTIO NATA. CIÊNCIA INEQUÍVOCA DO ILÍCITO. DATA DA REPRESENTAÇÃO JUNTO À OAB. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O prazo prescricional das pretensões indenizatórias exercidas por mandante contra mandatário é o decenal. Incidência da Súmula 83/STJ no ponto.
+2. O início do prazo prescricional, com base na Teoria da Actio Nata, não se dá necessariamente no momento em que ocorre a lesão ao direito, mas sim quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão.
+3. Nesse contexto, para alterar os fundamentos do acórdão, que compreendeu ser o termo a quo do prazo prescricional a data da ciência inequívoca do ato lesivo ao direito, qual seja, a data do registro de representação junto ao Conselho de Ética da OAB, ante a falta de prova de que a autora teve ciência inequívoca sobre a prescrição da pretensão relativa à ação trabalhista patrocinada por sua então advogada, seria necessário o reexame fático-probatório dos autos, o que se mostra inviável dada a natureza excepcional da via eleita, conforme enunciado da Súmula 7/STJ.
+4. Agravo interno desprovido.
+Em suas razões (e-STJ, fls. 330-332), a embargante aduz, em suma,haver omissão no acórdão embargado no que diz respeito à desnecessidade do reexame conjunto fático-probatório dos autos para o fim de aferir se a pretensão do direito alegado pela embargadaestá fulminada pela prescrição.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. INEXISTÊNCIA DE AFRONTA AO ART. 1.022DO CPC/2015. INTUITO INFRINGENTE. DESCABIMENTO. EMBARGOS REJEITADOS.
+1.Consoante dispõe o art. 1.022 do CPC/2015, destinam-se os embargos de declaração a expungir do julgado eventual omissão, obscuridade, contradição ou erro material na decisão embargada, não se caracterizando via própria ao rejulgamento da causa.
+2.Embargos de declaração rejeitados.
+VOTO
+Os aclaratórios não merecem acolhimento.
+Não há nenhum vício a ser desfeito no julgado, porquanto inexistentes os requisitos para cabimento dos presentes embargos declaratórios, nos termos do art. 1.022 do CPC/2015.
+Ao analisar as questões aduzidas no agravo em recurso especial e no agravo interno, o acórdão embargado foi claro ao consignar queo acolhimento do recurso da embargante esbarra no óbice da Súmula 7/STJ, porque não prescindiria da revisão de fatos e provas a fim de que fossem estabelecidas conclusões em sentido contrário àquelas do acórdão estadual relativamente ao termo a quo do prazo prescricional ser a data em que a autora teve ciência inequívoca do ato lesivo ao direito alegado,conforme se verifica do seguinte trecho do julgado impugnado (e-STJ. fls. 327-328):
+De outra forma, a recorrente defende que, mesmo na hipótese de aplicação do prazo prescricional decenal, a pretensão da autora estaria fulminada, uma vez que a ação foi ajuizada após o esgotamento de tal prazo, porque a demandante, tendo ciência da eventual violação do seu direito no dia 1º/4/2006, somente ajuizou a respectiva ação no dia 1º/11/2017.
+O entendimento desta Corte Superior é de que o início do prazo prescricional, com base na Teoria da Actio Nata, não se dá necessariamente no momento em que ocorre a lesão ao direito, mas sim quando o titular do direito subjetivo violado obtém plena ciência da lesão e de toda a sua extensão.
+Confiram-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. COMPRA E VENDA. AÇÃO DE COBRANÇA. RESCISÃO DO NEGÓCIO. TRATATIVAS EXTRAJUDICIAIS. SUSPENSÃO DO PRAZO PRESCRICIONAL. DEVOLUÇÃO DE VALORES. REEXAME DE PROVAS. SÚMULA Nº 7/STJ. TEORIA DA ACTIO NATA.1. A reforma do julgado que entendeu pela suspensão do prazo prescricional para devolução do valor em função de tratativas extrajudiciais documentadas demandaria o reexame do contexto fático-probatório, procedimento vedado na estreita via do recurso especial, a teor da Súmula nº 7/STJ.2. Por aplicação da teoria da actio nata, o lapso do prazo prescricional somente começa com a ciência da efetiva lesão do direito tutelado, inexistindo, ainda, qualquer condição que impeça o exercício do direito de ação. Precedentes.3. Agravo interno não provido (AgInt no AREsp n. 982.198/SP, Relator o Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, julgado em 14/2/2017, DJe de 21/2/2017)
+(..)
+A Corte de origem, por sua vez, assentou as seguintes considerações acerca do termo inicial de fluência do prazo (e-STJ, fl. 234):
+No entanto, respeitado o entendimento contrário, não ocorreu a prescrição desta ação, movida em 4.11.2017, pois a regra a ser aplicada é a do art. 205, cujo prazo é de dez anos contados a partir da data em que a autora teve ciência da lesão a seu direito.
+No caso concreto, não há prova nos autos da data em que autora teve ciência do decreto de prescrição de sua pretensão na ação patrocinada pela ré. Apesar disso, como bem apontado pela sentença, é possível reconhecer que em 13.9.2013, quando a autora formulou representação junto ao Conselho de Ética da OAB em face da ré, fls. 116/117, ela tinha plena ciência de que seu direito havia sido violado. E isso evidencia que sua pretensão não está prescrita.
+Como visto, o Tribunal local afastou a ocorrência da prescrição, porque compreendeu ser o termo a quo do prazo prescricional a data da ciência inequívoca do ato lesivo ao direito, qual seja, a data do registro de representação junto ao Conselho de Ética da OAB, em 13/09/2013, ante a falta de prova de que a autora teve ciência inequívoca sobre a prescrição da pretensão relativa à ação trabalhista patrocinada por sua então advogada. Nesse contexto, para alterar as referidas conclusões alcançadas pelo acórdão combatido, a fim de reconhecer o escoamento do prazo prescricional decenal, sob o fundamento de que a autora teve ciência inequívoca da violação do seu direito no momento apontado pela recorrente, seria necessário o reexame fático-probatório dos autos, o que se mostra inviável no âmbito do recurso especial, conforme o óbice da Súmula 7/STJ.
+Com efeito, os embargos de declaração possuem índole particular e fundamentação vinculada, cujo objetivo é o esclarecimento do verdadeiro sentido de uma decisão eivada de obscuridade, contradição, omissão ou erro material (art. 1.022 do CPC/2015), não possuindo natureza de efeito modificativo.
+Por conseguinte, da leitura das razões dos embargos de declaração opostos, verifica-se que, na verdade, a parte embargante busca, mais uma vez, a rediscussão da matéria já decidida de maneira inequívoca pela Turma julgadora, pretensão esta que não se encontra em harmonia com a natureza e a função dos embargos declaratórios.
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. INEXISTÊNCIA. REEXAME DE MATÉRIA JÁ DECIDIDA. IMPOSSIBILIDADE. INOVAÇÃO NOS EMBARGOS DE DECLARAÇÃO. IMPOSSIBILIDADE.
+1. O inconformismo da parte com o resultado do julgamento não caracteriza vício na decisão, tampouco constitui hipótese de cabimento de embargos declaratórios.
+2. É vedado inovar nas razões dos embargos de declaração, ante o princípio da preclusão consumativa.
+3. Embargos de declaração rejeitados. (EDcl no AgRg no AREsp n. 313.771/GO, Relator o Ministro João Otávio de Noronha, Terceira Turma, julgado em 17/12/2015, DJe 2/2/2016)
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
