@@ -1,0 +1,47 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NA ORIGEM.RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Não há como conhecer do agravo em recurso especial que não impugna todos os fundamentos da decisão que inadmitiu o recurso na origem.
+2. Deixou oagravante de demonstrar ter impugnado, no agravo em recurso especial, a incidência da Súmula 126/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+RELATÓRIO
+Aladino Selmi Netointerpôs recurso especial contra os acórdãos de fls. 609-622 e 651-665 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementados:
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE ANULAÇÃO DE ATO JURÍDICO COM A INVALIDAÇÃO DE DOCUMENTO PÚBLICO - PRELIMINAR DE CERCEAMENTO DE DEFESA - PROVA TESTEMUNHAL DEFERIDA - SENTENÇA PROFERIDA DIANTE DA AUSÊNCIA DE AUDIÊNCIA DE INSTRUÇÃO PARA ARROLAMENTO DAS TESTEMUNHAS - ANULAÇÃO DA SENTENÇA POR AUSÊNCIA DE CONTRADITÓRIO E AMPLA DEFESA - ART. 5º, LV, DA CF/88 - PRINCÍPIO DA VERDADE REAL - PRELIMINAR ACOLHIDA - DISSONÂNCIA DO PARECER MINISTERIAL - 2º APELO - CONHECIDO E PROVIDO - 1º APELO -PREJUDICADO. A não realização da fase de instrução, quando requerida pelas partes litigantes, enseja nulidade da sentença por cerceamento de defesa. O julgamento antecipado da lide somente é possível quando a questão versada for apenas de direito ou, sendo de direito e de fato, não houver necessidade de dilação probatória. Deve ser reconhecido o cerceamento de defesa, ante a não existência de oportunidade para produção de provas, devidamente requerida e necessária ao seguro deslinde da demanda. O desrespeito ao procedimento necessário para o regular trâmite dos autos acarreta em atropelo de normas processuais e de princípios constitucionais, como o insculpido no artigo 5º, LV: "aos litigantes, em processo judicial ou administrativo, e aos acusados em geral são assegurados o contraditório e ampla defesa, com os meios e recursos a ela inerentes".
+EMBARGOS DE DECLARAÇÃO EM SEDE DE APELAÇÃO CÍVEL  AÇÃO DECLARATÓRIA DE ANULAÇÃO DE ATO JURÍDICO COM A INVALIDAÇÃO DE DOCUMENTO PÚBLICO  PRELIMINAR DE CERCEAMENTO DE DEFESA  PROVA TESTEMUNHAL DEFERIDA  SENTENÇA PROFERIDA DIANTE DA AUSÊNCIA DE AUDIÊNCIA DE INSTRUÇÃO PARA ARROLAMENTO DAS TESTEMUNHAS  ANULAÇÃO DA SENTENÇA POR AUSÊNCIA DE CONTRADITÓRIO E AMPLA DEFESA  ART. 5º, LV, DA CF/88  PRINCÍPIO DA VERDADE REAL  OMISSÃO, CONTRADIÇÃO E OBSCURIDADE  INEXISTÊNCIA  EQUÍVOCOS NÃODEMONSTRADOS  REJULGAMENTO  INVIABILIDADE  EMBARGOS REJEITADOS. Inexiste vício no julgado quando o colegiado se pronunciou acerca de todos os pontos discutidos no recurso, expondo claramente nas razões de decidir os fundamentos pelos quais se posicionou. Os embargos de declaração não se prestam para sanar eventual inconformismo, tampouco para reexame de matéria já decidida.
+A Corte de origem deixou de admitir o recurso ao argumento de incidência das Súmulas 284/STF e 126/STJ.
+Interposto o agravo em recurso especial, em decisão monocrática de fls. 722-724 (e-STJ), a Presidência do STJ não conheceu do recurso, concluindo pela ausência de combate a um dos fundamentos da decisão que inadmitiu o recurso na origem.
+Daí o presente agravo interno (e-STJ, fls. 727-732), no qual oagravante defende o conhecimento do agravo em recurso especial.
+Sem impugnação (e-STJ, fls. 735-736).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE UM DOS FUNDAMENTOS DA DECISÃO QUE INADMITIU O RECURSO NA ORIGEM.RAZÕES RECURSAIS INSUFICIENTES. AGRAVO INTERNO DESPROVIDO.
+1. Não há como conhecer do agravo em recurso especial que não impugna todos os fundamentos da decisão que inadmitiu o recurso na origem.
+2. Deixou oagravante de demonstrar ter impugnado, no agravo em recurso especial, a incidência da Súmula 126/STJ.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+VOTO
+Na decisão agravada, concluiu-se pelo não conhecimento do agravo em recurso especial, tendo em vista a ausência de impugnação de um dos fundamentos da decisão que inadmitiu o recurso na origem.
+Veja-se às fls. 722-723 (e-STJ):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de indicação do ponto omisso, contraditório ou obscuro - Súmula 284/STF e Súmula 126/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 126/STJ.
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+A propósito:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve serafastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.5. Embargos de divergência não providos. (EAREsp 746.775/PR, relator Ministro João Otávio de Noronha, relator p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ.
+Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Na presente insurgência, defende o agravante o conhecimento do agravo em recurso especial sem, contudo, demonstrar ter impugnado, no agravo em recurso especial, a incidência da Súmula 126/STJ.
+A jurisprudência desta Corte é no sentido de que a ausência de impugnação de algum dos fundamentos invocados pelo juízo provisório de admissibilidade impede o conhecimento do agravo em recurso especial.
+Nesse sentido:
+DIREITO PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C RESTITUIÇÃO DE VALORES C/C COMPENSAÇÃO POR DANOS MORAIS. IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE ADMISSIBILIDADE DO RECURSO ESPECIAL. AUSÊNCIA. SÚMULA 182/STJ.
+1. Ação declaratória c/c restituição de valores c/c compensação por danos morais.
+2. O agravo interposto contra decisão denegatória de processamento de recurso especial que não impugna, especificamente, todos os fundamentos por ela utilizados, não deve ser conhecido.
+3. Agravo interno não provido.
+(AgInt no AREsp 1.694.212/SP, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 24/08/2020, DJe 27/08/2020).
+Dessa forma, prevalece o fundamento da decisão agravada, por insuficiência das razões recursais.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
