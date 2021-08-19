@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECLAMAÇÃO. ALEGADA VIOLAÇÃO DETESE JURÍDICA FIRMADA NO JULGAMENTO DO IRDR. INCIDENTE QUENÃO TRANSITOU EM JULGADO. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada afronta a lei federal não foi demonstrada com clareza, pois as razões do recurso especial apresentado se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do apelo nobre e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+3. Agravo interno não provido.
+RELATÓRIO
+BRADESCO SAÚDE S.A. (BRADESCO) promoveu reclamação, do v. acórdão proferido pela 7ª Câmara de Direito Privado do TJ/SP, nos autos da ação revisional de reajuste abusivo de mensalidade de plano de saúde cumulada com repetição de indébito contra MARILZA DE FATIMA RINALDI (MARILZA).
+O Tribunal de Justiça de São Paulo (TJ/SP) indeferiu liminarmente a inicial, nos termos do v. acórdão prolatado pelo Desa. Viviani Nicolau, assim ementado:
+RECLAMAÇÃO ACÓRDÃO DA 7 CÂMARA DE DIREITO PRIVADO ALEGADA VIOLAÇÃO DA TESE JURÍDICA FIRMADA NO JULGAMENTO DO IRDR N 00439402520178260000 INADMISSIBILIDADE ACÓRDÃO PROFERIDO POR ESTA TURMA ESPECIAL DIREITO PRIVADO I NO JULGAMENTO DO REFERIDO INCIDENTE QUE AINDA NÃO TRANSITOU EM JULGADO DETERMINAÇÃO PELO RELATOR DAQUELE INCIDENTE DE SUSPENSÃO DA TRAMITAÇÃO DOS EMBARGOS DE DECLARAÇÃO OPOSTOS EM FACE DO ACÓRDÃO ATÉ A APRECIAÇÃO DOS TEMAS AFETADOS PELO STJ POSTERIOR DETERMINAÇÃO DO STJ DE FORMA EXCEPCIONAL DA RETOMADA DA TRAMITAÇÃO DO IRDR PARA ASCENSÃO ÀQUELA CORTE NÃO CABE RECLAMAÇÃO CONTRA ACÓRDÃO QUE SUPOSTAMENTE VIOLE A TESE JURÍDICA FIRMADA EM IRDR NÃO DOTADO DE EXIGIBILIDADE IMEDIATA RECLAMAÇÃO MANIFESTAMENTE INADMISSÍVEL INICIAL INDEFERIDA (e-STJ, fl. 138).
+Inconformado, o BRADESCO interpôs recurso especial, com fundamento no art. 105, III, alínea a, da CF, alegando violação do art. 985, caput e § 1º, do NCPC.
+O apelo nobre não foi admitido na origem em virtude da não demonstração da vulneração do dispositivo arrolado.
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da relatoria do Ministro Presidente do STJ, não foi conhecido, em virtude da incidência da Súmula nº 284 do STF.
+Nas razões do presente agravo interno, o BRADESCO, repisando os argumentos trazidos nas razões recursais, alegou a não incidência da Súmula nº 284 do STF não se podendo falar em razões dissociadas.
+Houve impugnação ao recurso (e-STJ, fls. 255/270)
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECLAMAÇÃO. ALEGADA VIOLAÇÃO DETESE JURÍDICA FIRMADA NO JULGAMENTO DO IRDR. INCIDENTE QUENÃO TRANSITOU EM JULGADO. RAZÕES RECURSAIS DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alegada afronta a lei federal não foi demonstrada com clareza, pois as razões do recurso especial apresentado se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do apelo nobre e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Conforme consignado na decisão agravada, as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, atraindo a incidência da Súmula nº 284 do STF, pois o TJ/SP consignou:
+Com base nestes fatos, constata-se que o acórdão proferido no julgamento do Incidente de Resolução de Demandas Repetitivas invocado sequer teve seu trânsito em julgado.
+A decisão proferida por este Tribunal naquela ocasião será objeto de apreciação, pelo STJ, no âmbito do julgamento do Tema nº 1.016 dos Recursos Especiais Repetitivos.
+Assim, forçoso constatar que inexistiu violação da tese firmada no julgamento do IRDR nº 0043940-25.2017.8.26.0000, posto que não transitou em julgado (e-STJ, fl. 144).
+Em suas razões recursais o BRADESCO afirmou:
+No caso dos autos, julgado o incidente de resolução de demandas repetitivas, cabia ao e. Tribunal a quo aplicar a tese fixada, nos termos do art. 985, caput, do Código de Processo Civil. Dessa forma, diferentemente do que entendeu a r. decisão agravada, não há dúvidas sobre o cabimento da reclamação apresentada, eis que voltada contra o v. acórdão reclamado, proferido em manifesto confronto com o entendimento da jurisprudência do e. Tribunal de Justiça de São Paulo, pacificado em sede de incidente de resolução de demandas repetitivas. (fls. 152).
+10. Em relação aos reajustes em razão da mudança de faixa etária, contudo, mostrava-se plenamente cabível esta reclamação, na medida em que o v. acórdão reclamado contrariou o entendimento fixado pelo e. TJSP que, ao julgar o Incidente de Resolução de Demandas Repetitivas (IRDR) nº 0043940-25.2017.8.26.0000 (Tema 11) concluiu que (i) é válido, em tese, o reajuste por mudança de faixa etária aos 59 anos de idade, desde que estejam previstos em cláusula contratual clara, expressa e inteligível, e os reajustes estejam em consonância com a Resolução nº 63/03 da ANS. (fls. 154).
+No caso dos autos, sendo incontroverso, porque reconhecido pelo v. acórdão reclamado, que o reajuste aplicado à apólice da autora respeita o que dispõe a RN 63/03 da ANS, é certo que os reajustes por faixa etária devem ser mantidos conforme lançados no contrato, tendo em vista que o tão só fato de o reajuste estar de acordo com a referida Resolução normativa retira a necessidade de comprovação do _nível de sinistralidade do grupo a que pertencem os autores_ e do _detalhamento dos custos dos serviços de assistência médica que justificassem esta pretensão_. 17. Resta clara, portanto, a divergência entre o v. acórdão reclamado e a jurisprudência do e. STJ (e- STJ, fl. 157).
+Nesse contexto, como as razões do especial, como se vê, não guardavam nenhuma relação com o que foi decidido pela Corte Estadual, fica caracterizada a deficiência na fundamentação, a incidir a Súmula nº 284 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAS E MORAIS. DISPOSITIVOS DE LEI FEDERAL INSUFICIENTES PARA SUSTENTAR A TESE DEFENDIDA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. INCIDÊNCIA DA SÚMULA Nº 211 DO STJ. DANOS MORAIS. CULPA. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte é firme no sentido de que, quando a parte apresenta razões dissociadas do que foi decidido pela Corte local, incide a Súmula nº 284 do STF, ante a impossibilidade de compreensão da controvérsia.
+ ..
+7. Agravo interno não provido.
+(AgInt no AREsp 1.601.126/SE, de minha relatoria, Terceira Turma, j. 15/6/2021, DJe 18/6/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. MILITAR. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. RAZÕES RECURSAIS DISSOCIADAS. FUNDAMENTAÇÃO. DEFICIÊNCIA. INDENIZAÇÃO SECURITÁRIA. CORREÇÃO MONETÁRIA. TERMO INICIAL. DATA DA CELEBRAÇÃO DO CONTRATO. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Ausente o prequestionamento, até mesmo de modo implícito, do dispositivo apontado como violado no recurso especial, incide, por analogia, o disposto na Súmula nº 282/STF.
+3. Estando as razões do recurso dissociadas do que decidido no acórdão recorrido, é inadmissível o inconformismo por deficiência na sua fundamentação. Aplicação da Súmula nº 28/STF.
+4. O acórdão recorrido está conforme a jurisprudência desta Corte Superior firmada no sentido de que os valores da cobertura de seguro de vida devem ser acrescidos de correção monetária a partir da data em que celebrado o contrato entre as partes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.622.589/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 1º/3/2021, DJe 9/3/2021)
+Assim, como não foi demonstrado o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
