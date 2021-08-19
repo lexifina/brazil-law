@@ -1,0 +1,26 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    SERVIDOR MUNICIPAL. SANTOS. Inativo. Preliminares afastadas. Pretensão de contagem do tempo de serviço prestado ao Município como extranumerário, sob a égide da Lei Municipal nº 2.180/59, com o cômputo do adicional por tempo de serviço e licença prêmio, nos termos da Lei Municipal nº 4.623/84, bem como a implantação em folha do devido percentual de quinquênio sobre o vencimento do cargo. Inocorrência da prescrição do fundo do direito. Prescrição parcelar. Incidência do Estatuto dos Servidores Municipais de Santos, em observância às Disposições Transitórias da Lei Orgânica do Município. Cabível o ajuste da contagem de tempo, tal como pretendido. Ação julgada procedente. Precedente desta C. Câmara. Sentença mantida, exceto quanto ao índice de correção monetária, a fim de que seja adotado o IPCA-E. Julgamento do Tema 810 STF. APELOS DAS PARTES DESPROVIDOS. REEXAME NECESSÁRIO PARCIALMENTE PROVIDO.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 2º, 5º, inciso II, 30, inciso III, 40, caput, 169 e 195, § 5º, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Verifica-se que o autor foi contratado em 05/05/1988, sob o regime jurídico dos servidores extranumerários, nos termos da Lei Municipal nº 2.180/1959.
+    A Lei Complementar nº 21/91, em seu art. 3º, §2º, inciso III, determinou o cômputo, para fins dos benefícios previstos na Lei nº 4.623/84, apenas do tempo de serviço prestado a partir de 01/02/91, ou seja, sob o regime estatutário.
+    Todavia, por ocasião do julgamento da ADIN nº 16.498-0/3, foi declarada a inconstitucionalidade dos art. 5º, §§1º a 4º e 7º da Lei Complementar nº 21/91, que investiam em cargo público, sem a exigência de concurso, os componentes do quadro extranumerário municipal, bem como do quadro de contratados pela CLT e, ainda, dos pertencentes ao quadro denominado “Regime eventual”.
+    Dessa forma, a opção realizada pelo servidor pelo regime estatutário, com base nessa Lei nº 21/91, não é válida e, por conseguinte, não confere, por si só, o direito aos benefícios e vantagens previstos no Estatuto dos Funcionários Públicos Municipais (Lei nº 4.623/84) nem pode ser considerada como marco inicial para a concessão desses benefícios.
+    Entretanto, apesar da invalidade da opção pelo regime estatutário, feita em 1991, o caso ostenta uma peculiaridade, qual seja a análise da questão com base nas Disposições Transitórias da Lei Orgânica do Município de Santos, sendo tal análise de fulcral importância para a verificação do pleito de cômputo do tempo de serviço público municipal, prestado sob a égide da Lei nº 2.180/59, para os fins da Lei Municipal n.º 4.623/84.
+    A Lei Orgânica do Município de Santos, em suas Disposições Transitórias, assegurou aos servidores provenientes do regime extranumerário as mesmas garantias do regime estatutário:
+    [...]
+    Conclui-se, com isso, que, a despeito de o autor não ser servidor estatutário, a ele é aplicável a Lei Complementar nº 4.623/84 (Estatuto dos Funcionários Públicos do Município de Santos), por força da previsão do citado artigo 19, que confere a ele os mesmos direitos dos servidores municipais.
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 19 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
