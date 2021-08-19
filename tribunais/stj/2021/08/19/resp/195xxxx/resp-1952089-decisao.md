@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se de recurso especial interposto por BANCO BRADESCO S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 08/04/2021.
+Concluso ao gabinete em: 13/08/2021.
+Ação: execução de título extrajudicial, com exceção de pré-executividade oposta por MADELAINE TESTON MARTININGHE e IRINEU ALFREDOMARTININGHE, em face do recorrente.
+Sentença: acolheu a exceção de pré-executividade, reconhecendo a prescrição intercorrente, e declarou extinta a execução. Fixou honorários advocatícios em favor da patrona dos recorridos no importe de 10% sobre o valor da causa.
+Acórdão: deu parcial provimento à apelação interposta pelo recorrente, para fixar os honorários advocatícios em R$ 2.000,00, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO DE EXECUÇÃO CONTRA DEVEDORES SOLVENTES DE TÍTULO EXECUTIVO EXTRAJUDICIAL. PRESCRIÇÃO INTERCORRENTE - INÉRCIA DO EXEQUENTE - HONORÁRIOS ADVOCATÍCIOS DEVIDOS. FIXAÇÃO DA VERBA HONORÁRIA POR EQUIDADE - POSSIBILIDADE. RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+São devidos honorários advocatícios pelo exequente quando a execução é extinta por inércia do credor.
+Os honorários advocatícios devem ser fixados por equidade, nos termos do art. 85, §8º 1 , do NCPC.
+Embargos de Declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, 5º, 6º, 85 e seu §10, 489, §1º, IV, e 1.022, II e parágrafo único, II, do CPC/15,bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que deve imperar o princípio da causalidade, eis que tanto o ajuizamento como a perda do objeto da execução se deram por causa dos recorridos.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da negativa de prestação jurisdicional
+O TJ/MS foi claro ao concluir que: i) na hipótese, a execução foi extinta em razão da inércia do exequente e não da ausência de bens penhoráveis; ii) considerando que o exequente deu causa à extinção da execução, é devido o arbitramento de honorários advocatícios de sucumbência.
+Dessa maneira, no acórdão recorrido não há omissão, contradição, obscuridade ou erro material. Ademais, foram devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte (AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018). Além disso, inexiste afronta ao art. 489 do CPC/15 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica (AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/2/2018; e AgInt no REsp 1.683.290/RO, 3ª Turma, DJe de 23/2/2018).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da imposição de sucumbência ao executado na hipótese de prescrição intercorrente
+O TJ/MS, ao impor os ônus de sucumbência em desfavor dorecorrente (exequente), contrariou a jurisprudência do STJ no sentido de que, em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, o devedor que deixou de satisfazer espontaneamente a obrigação - não tendo relação com a causa que ensejou a decretação da prescrição intercorrente (inação do credor durante o prazo prescricional). Nesse sentido: REsp 1.545.856/CE, 4ª Turma, DJe de 15/12/2020; e AgInt no AREsp 1.731.001/PR, 3ª Turma, DJe de 11/2/2021).
+Logo, nesse ponto, o recurso especial merece provimento, com base na Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do recurso especial, para DAR-LHE PARCIAL PROVIMENTO, com fundamento no art. 932, V, "a", do CPC/15, bem como na Súmula 568/STJ, para impor em desfavor dos recorridos (executados) os ônus de sucumbência fixados pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. RECONHECIMENTO DE PRESCRIÇÃO INTERCORRENTE.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO EM DESFAVOR DO EXEQUENTE. PRINCÍPIO DA CAUSALIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de execução de título extrajudicial extinta pela prescrição intercorrente, alegada em exceção de pré-executividade.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4.Em face do princípio da causalidade, não se justifica a imposição de sucumbência ao exequente, frustrado em seu direito de crédito, em razão de prescrição intercorrente. Isso porque quem deu causa ao ajuizamento da execução foi o devedor que não cumpriu a obrigação de satisfazer dívida líquida e certa. A causalidade diz respeito a quem deu causa ao ajuizamento da execução - no caso, o devedor que deixou de satisfazer espontaneamente a obrigação - não tendo relação com a causa que ensejou a decretação da prescrição intercorrente (inação do credor durante o prazo prescricional). Precedentes.
+5. Recurso especial conhecido e parcialmente provido.
