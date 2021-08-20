@@ -1,0 +1,61 @@
+DECISÃO
+Cuida-se de agravo apresentado por CONSELHO REGIONAL DE ENGENHARIA E AGRONOMIA DO PARANÁ contra a decisão que não admitiu seu recurso especial.
+O apelo nobre fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim resumido:
+ADMINISTRATIVO APELAÇÃO CÍVEL PROCEDIMENTO COMUM CREA/RS REGISTRO FISCALIZAÇÃO INCOMPETÊNCIA ATIVIDADE DE MANUTENÇÃO E REPARAÇÃO DE EXTINTORES DE INCÊNDIO.
+Alega violação dos arts. 7º, "g", 27, "f", e 59, todos da Lei n. 5.194/66; e 1º da Lei n. 6.839/80, no que concerne à necessidade de registro junto ao CREA-PR uma vez que a atividade exercida pela empresa é técnica e típica da Engenharia, trazendo o(s) seguinte(s) argumento(s):
+Ao concluir de modo fundamentado que a Recorrida necessita de registro neste Conselho diante das atividades que pratica, o Recorrente agiu em pleno e inquestionável atendimento ao interesse público da sociedade, exercendo o poder de polícia, não cabendo ao Poder Judiciário, com o devido respeito e nesse contexto, afastar a legitimidade da exigência do CREA-PR feito à Recorrida, haja vista que esta atitude representa indevida incursão na esfera do poder decisório do administrador público.
+O contrato social da Recorrida descreve em seu objeto social as atividades de  comércio varejista de extintores, exceto para veículos; manutenção e reparação de extintores de incêndio, cargas e preparados para incêndio . Também realiza testes hidrostáticos em mangueiras utilizadas em combates a incêndios (fls. 334).
+Conforme parecer emitido pela Câmara Especializada de Engenharia Mecânica do Recorrente: Teste hidrostático é um ensaio aplicado em vasos de pressão e outros equipamentos industriais pressurizados como tanques, tubulações ou mesmo mangueiras de incêndio, com o objetivo de verificar a ocorrência de vazamento ou alguma ruptura. Estes testes são realizados com os equipamentos fora de serviço através da pressurização, utilizando um fluido incompressível, com grandezas de até 1,5 vezes a pressão máxima de trabalho admissível (PMTA), simulando uma condição mais rigorosa com o objetivo de garantir que no serviço normal não ocorrerá falha ou vazamento (fls. 334).
+A Avaliação da Integridade Estrutural é um conjunto de atividades que analisam a deterioração da estrutura e a possibilidade de continuar em funcionamento de forma segura e requer um conjunto de ações que consistem em (i) conhecimento do mecanismo de dano e do comportamento do material; (ii) conhecimento da condição de operação passada e futura; (iii) identificação do mecanismo de dano, detecção e quantificação dos defeitos; (iv) propriedades dos materiais envolvidos e (v) influência do meio ambiente, assim como análise de tensões e análise de resistência (fls. 336).
+Nesse sentido, ainda que o teste hidrostático seja realizado por leigo, deve ficar sob a supervisão de Engenheiro que é quem possui atribuição para emissão de laudo. Logo, trata-se de um serviço de caráter técnico. Nos termos do art. 7ª, alínea  g , da Lei 5.194/66: Art. 7º As atividades e atribuições profissionais do engenheiro, do arquiteto e do engenheiro-agrônomo consistem em: (..) g) execução de obras e serviços técnicos (fls. 337).
+Veja-se, contudo, que o acórdão afastou a necessidade de registro sob o fundamento de que a atividade desenvolvida não se caracteriza como típica da Engenharia, quando na realidade sua previsão na lei é explícita, já que art. 7º,  g , da Lei 5.194/66, prevê como típica da engenharia a execução de serviço técnico. Sem desmerecimento da competência do profissional técnico ou do bacharel, a responsabilidade técnica por todo o processo deve ser de profissional (engenheiro ou tecnólogo) que, de acordo com as características de sua formação profissional, detém os conhecimentos necessários para supervisionar, conduzir, gerir e orientar tecnicamente o processo (fls. 337).
+Logo, é evidente que se trata de uma atividade técnica, tal como previsto no art. 7º,  g , da Lei 5.194/66: g) execução de obras e serviços técnicos. Portanto, ao proferir entendimento diverso no acórdão, tem-se que houve clara violação ao mencionado dispositivo legal. Isso sem mencionar as resoluções elaboradas pelo CONFEA, com base no poder normativo previsto pelo art. 27, "f", da Lei 5.194/66:
+"Art. 27 - São atribuições do Conselho Federal:
+(..)
+f) baixar e fazer publicar as resoluções previstas para regulamentação e execução da presente Lei, e, ouvidos os Conselhos Regionais, resolver os casos omissos (fls. 337/338).
+Com fundamento nesta previsão legal o Conselho Federal de Engenharia e Agronomia (CONFEA) baixou a Resolução nº 218/73, que descreve as atividades enquadradas como típicas da Engenharia, obrigando ao registro: Resolução nº 218/73 do CONFEA
+" Art. 1º - Para efeito de fiscalização do exercício profissional correspondente às diferentes modalidades da Engenharia, Arquitetura e Agronomia em nível superior e em nível médio, ficam designadas as seguintes atividades:
+01 - Supervisão, coordenação e orientação técnica;
+02 - Estudo, planejamento, projeto e especificação;
+03 - Estudo de viabilidade técnico-econômica;
+04 - Assistência, assessoria e consultoria;
+05 - Direção de obra e serviço técnico;
+06 - Vistoria, perícia, avaliação, arbitramento, laudo e parecer técnico; 07 - Desempenho de cargo e função técnica;
+08 - Ensino, pesquisa, análise, experimentação, ensaio e divulgação técnica; extensão;
+09 - Elaboração de orçamento;
+10 - Padronização, mensuração e controle de qualidade;
+11 - Execução de obra e serviço técnico;
+12 - Fiscalização de obra e serviço técnico;
+13 - Produção técnica e especializada;
+14 - Condução de trabalho técnico;
+15 - Condução de equipe de instalação, montagem, operação, reparo ou manutenção;
+16 - Execução de instalação, montagem e reparo;
+17 - Operação e manutenção de equipamento e instalação;
+18 - Execução de desenho técnico.  (destacou-se) (fls. 338).
+Art. 12 - Compete ao ENGENHEIRO MECÂNICO ou ao ENGENHEIRO MECÂNICO E DE AUTOMÓVEIS ou ao ENGENHEIRO MECÂNICO E DE ARMAMENTO ou ao ENGENHEIRO DE AUTOMÓVEIS ou ao ENGENHEIRO INDUSTRIAL MODALIDADE MECÂNICA:
+I - o desempenho das atividades 01 a 18 do artigo 1º desta Resolução, referentes a processos mecânicos, máquinas em geral; instalações industriais e mecânicas; equipamentos mecânicos e eletro-mecânicos; veículos automotores; sistemas de produção de transmissão e de utilização do calor; sistemas de refrigeração e de ar condicionado; seus serviços afins e correlatos (fls. 339).
+À vista disso, é fundamental consignar que o conteúdo da Resolução 218/73 não extrapola o poder regulamentar conferido ao CONFEA, já que não criou atividades não previstas em lei, mas apenas dispôs de normas técnicas relativas a seus objetivos institucionais, tudo em completa consonância com a Lei 5.194/66. Resta claro, por conseguinte, que as atividades realizadas pela parte Recorrida são, inequivocamente, contempladas pelas atividades da Engenharia Mecânica, estando sujeita a registro no CREA, nos termos do art. 1º da Lei nº 6.839/80, que estabelece que a inscrição nas entidades fiscalizadoras se orienta em razão da atividade básica ou em relação à profissão pela qual as pessoas jurídicas prestam serviços a terceiros (fls. 339).
+Art. 1º. O registro de empresas e anotação dos profissionais legalmente habilitados, delas encarregados, serão obrigatórios nas entidades competentes para a fiscalização do exercício das diversas profissões, em razão de atividade básica ou em relação àquela pela qual prestem serviços a terceiros (fls. 339).
+Desta feita, para a correta aplicação do art. 1º da Lei nº 6.839/1980, o qual determina que o registro das empresas nas entidades competentes far-se-á, em caráter compulsório, em função da atividade básica por elas desenvolvidas ou em relação àquela pela qual prestem serviços a terceiros, há que se interpretar em conjunto com as demais normais acima mencionadas, o que não foi feito pelo acórdão recorrido. E ao julgar pelo entendimento diverso, o acórdão recorrido afrontou claramente aos artigos 7º, "g", e 27, "f" da Lei 5.194/66, e art. 1º da 6.839/80, conforme explanado, razão pela qual merece reforma (fls. 339/340).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Denota-se, portanto, que o critério de vinculação dos estabelecimentos comerciais com as entidades fiscalizadoras do exercício das profissões está diretamente relacionado com a atividade básica que é explorada por eles.
+Especificamente quanto ao CREA, o art. 7º da Lei nº 5.194/66 dispõe sobre as atividades peculiares dos profissionais sujeitos a sua fiscalização (engenheiros, arquitetos e agrônomos), in verbis:
+Art. 7º As atividades e atribuições profissionais do engenheiro, do arquiteto e do engenheiro-agrônomo consistem em:
+a) desempenho de cargos, funções e comissões em entidades estatais, paraestatais, autárquicas, de economia mista e privada;
+b) planejamento ou projeto, em geral, de regiões, zonas, cidades, obras, estruturas, transportes, explorações de recursos naturais e desenvolvimento da produção industrial e agropecuária;
+c) estudos, projetos, análises, avaliações, vistorias, perícias, pareceres e divulgação técnica;
+d) ensino, pesquisas, experimentação e ensaios;
+e) fiscalização de obras e serviços técnicos;
+f) direção de obras e serviços técnicos;
+g) execução de obras e serviços técnicos;
+h) produção técnica especializada, industrial ou agro-pecuária.
+Parágrafo único. Os engenheiros, arquitetos e engenheiros-agrônomos poderão exercer qualquer outra atividade que, por sua natureza, se inclua no âmbito de suas profissões
+Com efeito, a atividade desenvolvida pela autora (manutenção e reparação de cilindros de ferro para extintores de incêncio; comércio varejista de equipamentos contra incêndio, peças e acessórios; reparação e manutenção executada por unidade especializada de extintores de incêndio; instalação de equipamentos de extintores de incêndio; comércio varejista de extintores de incêndio novos para veículos automotores; comércio atacadista de extintores de incêndio; comércio atacadista de cargas, preparados para extintores de incêndio; comércio varejista de cargas e preparados para incêndio; e comércio varejista de extintores de incêndio exceto automóveis - ev. 1, Contrsocial3 a 5), não se enquadra como privativa da engenharia.
+Assim, tendo em vista que as principais atividades desenvolvidas pela autora não são privativas da área de engenharia, não há fundamento legal para exigir o registro nos quadros do CREA, tampouco para a contratação de profissional nele habilitado e registrado (fls. 318/319).
+Assim, incidem os óbices das Súmulas n. 5 e 7 do STJ, uma vez que a pretensão recursal demanda reexame de cláusulas contratuais e reexame do acervo fático-probatório juntado aos autos.
+Portanto, "a pretensão de alterar tal entendimento, considerando as circunstâncias do caso concreto, demandaria o revolvimento de matéria fático-probatória e reanálise de cláusulas contratuais, o que é inviável em sede de recurso especial, conforme dispõem as Súmulas 5 e 7, ambas do STJ". (AgInt no AREsp 1.227.134/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 9/10/2019.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp 1.716.876/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, DJe de 3/10/2019; AgInt no AREsp 1.165.518/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 4/10/2019; AgInt no AREsp 481.971/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 25/9/2019; AgInt no REsp 1.815.585/DF, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 23/9/2019; e AgInt no AREsp 1.480.197/MG, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 25/9/2019.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
