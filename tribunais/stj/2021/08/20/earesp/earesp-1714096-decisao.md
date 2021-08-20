@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de divergência interpostos em sede de agravo em recurso especial contra acórdão proferido pela Terceira Turma, assim ementado (e-STJ fl. 1.052):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EMRECURSO ESPECIAL. ADVOGADO. AUSÊNCIA DE PROCURAÇÃO.CADEIA DE SUBSTABELECIMENTO INCOMPLETA. INTIMAÇÃO. FALTADE REGULARIZAÇÃO. SÚMULA Nº 115/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. Na hipótese, a agravante não atendeu, no prazo legal, ao despacho quedeterminou apresentação da procuração nos termos do art. 76, c/c o art.932, parágrafo único, do Código de Processo Civil de 2015.
+3. O Superior Tribunal de Justiça considera inexistente o recurso no qual oadvogado subscritor não possui procuração ou substabelecimento nosautos (Súmula nº 115/STJ).
+4. No caso concreto, aplica-se o teor do art. 76, § 2º, I, do CPC/2015, quedetermina que o descumprimento pela parte recorrente da intimação parasanar vício na representação processual acarretará o não conhecimento dorecurso.
+5. Agravo interno não provido.
+Aembargante sustenta, em suma, que o acórdão embargado diverge do entendimento consignado no julgamento dos EDcl nos EDcl no AgInt no AREsp 969.267/MT, pela Segunda Turma, com os seguintes argumentos (e-STJ fl. 1.066):
+14. Com efeito, e detida a análise de similaridade, restou demonstrado que o aresto paradigmático obteve recepção, eis que esse e. Tribunal, compreendeu que a questão afeta a hipótese de mácula a cadeia de representação, precedente a interposição do Recurso Especial, perante o tribunal de local, havia sido dirimida pela Corte estadual, o que enseja superação de eventuais ônus representativos a serem imputado (s) ao recorrente, vez que como de sabença, sem a comprovação de existência de tal documentação o dissenso sequer teria obtido trânsito, neste sentido.
+É o relatório. Passo a decidir.
+Como cediço, os embargos de divergência têm por escopo uniformizar a jurisprudência do Tribunal ante a adoção de teses conflitantes pelos seus órgãos fracionários, cabendo ao embargante a comprovação do dissídio pretoriano nos moldes estabelecidos no art. 266 do RISTJ.
+Sob esse enfoque, o recurso não merece prosperar, na medida em que, ao aplicar a Súmula n. 115/STJ, a Terceira Turma não analisou o mérito recursal. Logo, deve incidir o entendimento cristalizado na Súmula n. 315/STJ, no sentido de que: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial".
+À guisa de exemplo, colhem-se os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE ANÁLISE MERITÓRIA DO APELO ESPECIAL. INCIDÊNCIA DA SÚMULA 315/STJ. ACÓRDÃO EMBARGADO EM CONSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. INCIDÊNCIA DA SÚMULA 168/STJ. AUSÊNCIA DE COTEJO ANALÍTICO A FIM DE DEMONSTRAR A SIMILITUDE FÁTICA ENTRE OS ARESTOS EM CONFRONTO. I - Consoante o art. 1.043 do CPC/2015, os Embargos de Divergência somente são admissíveis quando os acórdãos embargado e paradigma forem de mérito, ou quando um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia. II - In casu, o acórdão embargado não apreciou a controvérsia, no mérito, eis que proferido em sede de agravo interno manejado em agravo em recurso especial, do qual não se adentrou a análise meritória, assentando-se o julgado na ausência de cadeia completa de procurações, com base na Súmula 115/STJ.
+III - Incidência, no particular, do teor da Súmula n. 315 do STJ, segundo a qual "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial". IV - Aplicabilidade da Súmula 168/STJ, pois a jurisprudência desta Corte Superior é pacífica no sentido de que é inexistente o apelo nobre interposto por advogado sem procuração nos autos, a teor da Súmula nº 115 do STJ.
+V - Mesmo em casos de divergência notória, o que não ocorreu nos presentes autos, não é mitigada a exigência do devido cotejo analítico.
+Agravo interno desprovido (AgInt nos EAREsp 1.020.888/MT, RelatorMinistro Felix Fischer, Corte Especial, DJe 13/9/2018).
+PROCESSUAL CIVIL. CADEIA RECURSAL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. NÃO APRECIAÇÃO DO MÉRITO DO APELO ESPECIAL. INTELIGÊNCIA DO ENUNCIADO 315 DA SÚMULA DESTA CORTE.
+1. Não têm cabimento os embargos de divergência quando o acórdão embargado não julga o mérito do recurso especial. Inteligência da Súmula n. 315/STJ.
+2. Agravo interno não provido (AgInt nos EAREsp 1.403.945/RJ, Relator Ministro Benedito Gonçalves, Corte Especial, DJe 3/12/2020).
+Isso posto, indefiro liminarmente os embargos de divergência.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO EMBARGADO QUE NÃO ANALISOU O MÉRITO DO APELO NOBRE. SÚMULA 315/STJ. EMBARGOS DEDIVERGÊNCIA LIMINARMENTE INDEFERIDOS
