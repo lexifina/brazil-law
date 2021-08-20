@@ -1,0 +1,26 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. REITERAÇÃO DELITIVA. EXISTÊNCIA DE AÇÃO PENAL EM CURSO. MOTIVAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL AUSENTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+2. Apresentada fundamentação válida para a prisão cautelar, evidenciada na reiteração delitiva do recorrente, que, "além de ter sido condenado definitivamente por furto qualificado nesta comarca, responde a outras persecuções de similar natureza", não há falar em ilegalidade.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO):  Trata-se de agravo regimental interposto contra decisão que negou provimento ao recurso em habeas corpus.
+Sustenta a defesa que Não há menção de qualquer comportamento objetivo que pudesse indicar a imperiosa necessidade da medida extrema, não podendo esta pautar-se em conjecturas genéricas e abstratas, restando ausente elementos concretos e objetivos (fl. 207).
+Reafirma, assim, as razões do mandamus, de que não se encontram presentes os requisitos do art. 312 do CPP, aduzindo ainda a ausência de fundamentação válida no decreto prisional. Requer a reconsideração da decisão ou a submissão do feito ao Colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A decisão agravada deve ser mantida por seus próprios fundamentos.
+A defesa do agravante afirma que não estão presentes os requisitos autorizadores da prisão preventiva, bem como que o decreto prisional carece de fundamentação idônea.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP, estando o decreto prisional assim fundamentado (fls. 14-15):
+Sobressai que o inculpado, conforme teor de fls. 24/28, além de ter sido condenado definitivamente por furto qualificado nesta comarca, responde a outras persecuções de similar natureza, uma delas com citação por edital, ressaltando que teve a prisão relaxada por este magistrado em maio deste ano nos autos do APF 030549-71.2020.805.0146.
+Assim sendo, há necessidade de decretação da prisão preventiva do investigado como garantia da ordem pública e aplicação da lei penal, diante do risco concreto de reiteração delitiva, bem como de se evadir do distrito da culpa.
+De mais a mais, os indicíos suficientes de autoria se encontram sobejamente demonstrados, já que preso em flagrante por populares ao tentar realizar a invasão de propriedade privada, bem como, ao atribuir-se nome falso em delegacia.
+Ante o exposto, com lastro no art. 312 do CPP, DECRETO A PRISÃO PREVENTIVA DE EDIMILSON PEREIRA DOS SANTOS.
+Vê-se que o decreto prisional utilizou-se de fundamentação que deve ser considerada idônea, ressaltando a contumácia delitiva do acusado, o qual, "além de ter sido condenado definitivamente por furto qualificado nesta comarca, responde a outras persecuções de similar natureza, uma delas com citação por edital".
+Com efeito, a periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública, como no caso dos autos. Nesse sentido: HC n. 286854/RS, 5ª T. unânime, Rel. Min. Felix Fischer, DJe. 1º-10-2014; RHC n. 48002/MG, 6ª T., unânime, Rel. Min. Maria Thereza de Assis Moura, DJe 4/8/2014; RHC n. 44677/MG, 5ª T., unânime, Rel. Min. Laurita Vaz, DJe 24/6/2014.
+Outrossim, registros criminais anteriores, anotações de atos infracionais, inquéritos e ações penais em curso, e condenações ainda não transitadas em julgado são elementos que podem ser utilizados para amparar eventual juízo concreto e cautelar de risco de reiteração delitiva, de modo a justificar a necessidade e adequação da prisão preventiva para a garantia da ordem pública (RHC 100.793/RR, Sexta Turma, Rel. Ministra Laurita Vaz, DJe. 23/10/2018).
+No mesmo sentido: RHC 106.136/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019; HC 479.323/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/02/2019, DJe 11/03/2019; HC 441.396/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019.
+Assim, estando o decreto prisional concretamente fundamentado na garantia da ordem pública, não há falar em constrangimento ilegal, restando mantida a decisão agravada. Nego provimento ao agravo regimental.
+É o voto.
