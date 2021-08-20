@@ -1,0 +1,43 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOHABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. DECRETAÇÃO NA SENTENÇA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA.SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretosquando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. O juiz, ao prolatar a sentença condenatória, poderá, de forma fundamentada, decretar a prisão preventiva (art. 387, § 1º, do CPP) de acusado que tenha respondido ao processo em liberdade.
+3.Agravo regimental desprovido.
+RELATÓRIO
+MARCIO DUARTE VIEIRAinterpõeagravo regimental contra a decisão de fls. 168-170, que não conheceu dohabeas corpusimpetrado em seu favor, em que fora apontado como autoridade coatora o Tribunal de Justiça do Estadode São Paulo (Processo n. 2155440-57.2020.8.26.0000).
+O agravantefoi condenado às penas de 3 anos de reclusão no regime inicial semiaberto e de 15 dias-multa, pela prática do crime descrito no art. 155, § 4º, I, II e IV, do Código Penal.
+A prisão preventiva foi decretada na sentença.
+Em suas razões, sustenta a ausência de fundamentação idônea na decretação da preventiva. Alega que "o juízo de primeiro grau se fundou, ainda, em inquérito policial em andamento em que sequer houve oferecimento de denúncia contra o paciente e, também, em investigação policial em que há dúvida sobre a participação do paciente" (fl. 7).
+Afirma quetrabalha e possui residência fixa, se apresentou em todos os atos processuais a que foi chamado e quenão interferiu no regular andamento do feito. Aduz aindaque não houvecometimento de crime novo, com condenação transitada em julgado.
+Requer o provimento do agravo regimental a fim de quepossa apelar em liberdade da sentença que o condenou em primeiro grau de jurisdição.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NOHABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. DECRETAÇÃO NA SENTENÇA. AUSÊNCIA DE ILEGALIDADE MANIFESTA. IMPRESCINDIBILIDADE DA PRISÃO PREVENTIVA FUNDAMENTADA.SUBSTITUIÇÃO POR MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. A prisão preventiva é cabível mediante decisão fundamentada em dados concretosquando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal.
+2. O juiz, ao prolatar a sentença condenatória, poderá, de forma fundamentada, decretar a prisão preventiva (art. 387, § 1º, do CPP) de acusado que tenha respondido ao processo em liberdade.
+3.Agravo regimental desprovido.
+VOTO
+A decisão agravada deve ser mantida por seus próprios fundamentos.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio, uma vez que a competência do STF e a do STJ estão relacionadas com a análise de matéria de direito estrito prevista taxativamente na Constituição Federal. Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofícioem caso de flagrante ilegalidade, o que não se verifica no caso em apreço.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que comprovem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunal a quo(fl. 41):
+A custódia cautelar está devidamente fundamentada, nos termos do artigo 93, inciso IX, da Constituição Federal.
+Isso porque, cabível a segregação cautelar do paciente, conforme dispõe o artigo 387, § 1º, do Código de Processo Penal, que dispõe que o juiz decidirá, fundamentadamente, sobre a manutenção ou, se for o caso, imposição de prisão preventiva ou de outra medida cautelar, sem prejuízo do conhecimento da apelação que vier a ser interposta.
+E o excelso Supremo Tribunal Federal decidiu que ofende o princípio da não culpabilidade a execução da pena privativa de liberdade antes do trânsito em julgado da sentença condenatória, ressalvada a hipótese de prisão cautelar do réu, desde presentes os requisitos autorizadores previstos no art. 312 do Código de Processo Penal (STF Informativo534).
+No caso dos autos, apesar de o paciente ter sido beneficiado com a liberdade provisória em 21.08.2019, ele foi preso no curso do trâmite processual por suspeita de participar de formação de quadrilha para a prática de crimes contra o patrimônio na região de Turmalina/SP.
+Desta forma, forçoso concluir que a prisão processual está devidamente fundamentada na necessidade de assegurar a ordem pública e a aplicação da lei penal, pois a reiteração delitiva no curso da instrução processual demostra que o paciente não consegue conter seus impulsos transgressores.
+Desta forma, a conduta do sentenciado coloca em risco a ordem pública pelo notório o prejuízo social decorrente da prática de crimes contra o patrimônio.
+Tendo a necessidadedaprisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Além disso, oSTJ pacificou o entendimento de que, nos termos do que dispõe o art. 387, § 1º, do CPP, o magistradopode, verificada a existência dos requisitos previstos nos arts. 312 e 313 do CPP, decretar a prisão preventivaainda que o acusado tenha aguardado em liberdade o encerramento da instrução processual (AgRg no RHC n. 103.467/PR, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 18/5/2020; HC n. 423.102/PR, relator para o acórdão Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 29/6/2018).
+No caso,o Juízo de origem decretou a custódia cautelardo paciente informando que ele já havia sido preso em flagrante no curso do processo em decorrência da prática de outros delitos, motivo pelo qual estaria presente o risco da reiteração delitiva e a garantia da ordem pública. É que o se extrai do seguinte excerto do voto condutor do acórdão(fl. 96):
+Por seu turno, o réu Márcio foi posto em liberdade em 21 de agosto de 2019 e em 30 de março de 2020 foi detido por suspeita de formação de quadrilha para realização de assaltos na região de Turmalina, sendo posteriormente liberado (fls. 661/663). O réu já havia sido preso em flagrante no curso do processo (fls. 326/327). Assim, o comportamento de Márcio ao longo do processo permite inferir com elevada certeza, que, em liberdade, voltará a delinquir, colocando em risco a população. Ao que tudo indica, fez da prática criminosa seu meio de vida,devendo ser mantido preso durante o curso do processo.
+O entendimento da instância ordináriaestá em consonância com a jurisprudência do STJde queo juiz, ao proferir a sentença penal condenatória, podedecretar a prisão preventivade forma fundamentada, demonstrada a ocorrênciade fatos novos supervenientes durante a instrução processual, no período de liberdade do denunciado.Vejam-se os seguintes precedentes:RHC n. 121.989/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma,DJe de 4/8/2020; RHC n. 93.457/MG, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJede 17/8/2018.
+Por fim,esta Corteadmite, de acordo com as circunstâncias do caso concreto, queinquéritos policiais ou ações penais em curso possam justificar a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ante o exposto,nego provimento ao agravo regimental.
+É o voto.
