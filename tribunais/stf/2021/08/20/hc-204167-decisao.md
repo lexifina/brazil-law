@@ -1,0 +1,15 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Descaminho. Posse de drogas para consumo pessoal. Regime inicial. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), AgRg no REsp 1.870.381, de Relatoria da Ministra Laurita Vaz, assim ementado:
+    “AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL. DESCAMINHO. DOSIMETRIA. MAUS ANTECEDENTES. NEGATIVAÇÃO. REGIME INICIAL SEMIABERTO. FIXAÇÃO. ILEGALIDADE. AUSÊNCIA. INOVAÇÃO. TESE. RECURSO INTERNO. DESCABIMENTO. PRECLUSÃO. AGRAVO REGIMENTAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO. 1. A existência de uma circunstância judicial negativa autoriza ao Julgador fixar regime inicial mais gravoso do que o permitido pelo quantum final da pena, ainda que seja o condenado primário. Sendo assim, inexiste ilegalidade ou desproporcionalidade a ser corrigida, no tocante ao regime inicial semiaberto. 2. Pela preclusão, é inviável a inovação de argumentos por ocasião do recurso interno. 3. Agravo regimental parcialmente conhecido e, nessa extensão, desprovido.”
+    2. Extrai-se dos autos que o paciente foi condenado à pena de 5 (cinco) meses de medida de comparecimento a programa ou curso educativo, pelo delito do art. 28 da Lei 11.343/2006, além de 1 (um) ano e 3 (três) meses de reclusão, em regime inicial semiaberto, pelo crime de descaminho. Contra a sentença condenatória, sobreveio apelação exclusiva da defesa, a que o Tribunal de origem deu parcial provimento, tão somente para reduzir o valor da prestação pecuniária. Os embargos de declaração foram rejeitados.
+    3. Na sequência, a defesa interpôs recurso especial, parcialmente provido, por decisão monocrática da Ministra Laurita Vaz. Fixou-se a pena de 1 ano pela prática do delito de descaminho, mantida, no mais, a sentença condenatória.
+    4. Neste habeas corpus, a Defensoria Pública da União, parte impetrante, alega ausência de fundamentação idônea para a imposição de regime inicial mais gravoso. Daí o pedido de concessão da ordem a fim de que seja fixado o regime inicial aberto
+    5. Decido.
+    6. O habeas corpus não deve ser concedido
+    7. A “imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea” (Súmula 719/STF). Mas o fato é que, no caso, o regime intermediário foi fixado com apoio em dados empíricos idôneos, extraídos da prova judicialmente colhida, notadamente em razão da existência de circunstância judicial desfavorável (maus antecedentes). De modo que não há ilegalidade ou abuso de poder que autorize a concessão do pedido, tendo em vista que o acórdão impugnado está em conformidade com a jurisprudência pacífica desta Corte (HC 169.227-AgR, Rel. Min. Edson Fachin; HC 142.602-AgR, Relª. Minª. Rosa Weber; HC 194.393 -AgR, Rel. Min. Dias Toffoli).
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 20 de agosto de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
