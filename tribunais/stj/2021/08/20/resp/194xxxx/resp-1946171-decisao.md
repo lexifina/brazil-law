@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto por JACKSON DANIEL DOS SANTOS, com fundamento no art. 105, inciso III, alínea a, da Constituição da República, contra o v. acórdão prolatado pelo eg. TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO,assim ementado (fl. 535):
+"APELAÇÃO CRIMINAL. Receptação. Sentença condenatória. Defesa requer a absolvição por insuficiência de provas. Subsidiariamente, pede a concessão da suspensão condicional da pena. Impossibilidade. Autoria e materialidade devidamente comprovadas. Versão defensiva infirmada pela prova oral e material. Comportamento do réu indica que sabia da origem espúria do objeto. Caracterizada a figura tipificada no artigo 180,caput, do Código Penal. Conjunturas fáticas o incriminam. Condenação de rigor. Dosimetria não comporta reparos. Fixado o regime aberto. Substituição da pena corporal por restritiva de direitos. Incabível a concessão da suspensão condicional da pena: nos termos do artigo 77 do Código Penal. Sentença mantida. Recurso improvido"
+Nas razões do recurso especial, a parte recorrente sustenta a violação do art. 77 do Código Penal, ao argumento de que o v. acórdão recorrido carece de fundamentação idônea para denegar a pretensão defensiva de concessão de sursis processual.
+Pondera, nesse sentido, que"não houve justificativa do porquê da inviabilidade da medida de sursis e, se assim o é, data maxima venia, a D. Câmara a quo infringiu diretamente a lei. Ou seja,data maxima venia, mas deveria ser aplicado o instituto do art. 77 do CP,uma vez que direito do sentenciado"(fl. 551)
+Afirma ainda que "É fato que a pena do recorrente fora substituída por restritiva de direitos, contudo, data venia, a aplicação do sursis deveria ter sido analisada e, caso entendido incabível, então que houvesse manifestação nesse sentido.A justificação legal para a não aplicação do sursis foi o "suposto" caráter subsidiário da medida, conforme excerto acima transcrito" (fl. 551).
+Alega que "Somado a tudo isso, observa-se que o artigo 697 do Código de Processo Penal impõe ao juiz a manifestação acerca desse direito, inclusive, já tendo o C. STJ decidido no seguinte sentido: .. " (fl. 553).
+Pretende, ao final, o provimento do apelo raro, a fim de que seja concedido ao recorrente o sursis processual.
+Apresentadas as contrarrazões (fls. 558-564), o recurso foi admitido na origem e os autos encaminhados a esta Corte Superior.
+A d. Subprocuradoria-Geral da República apresentou parecer pelo não conhecimentodo recurso especial (fls. 576-578).
+É o relatório.
+Decido.
+Consta dos autos que o recorrente Jacksonfoi condenado, em primeiro grau, à pena de 1 (um)anode reclusão, em regime aberto, além de 10 (dez) dias-multa, substituída a pena privativa de liberdade por uma restritiva de direitos, consistente na prestação de serviços à comunidade,pelo delito previsto no art. 180 do Código Penal.
+Em segunda instância, o eg. Tribunal a quo negou provimento ao apelo da defesa, mantendo a sentença condenatória.
+A questão a ser analisada cinge-se ao cabimento do sursis processualno presente caso. Aduz a defesa queo v. acórdão recorrido carece de fundamentação idônea para denegar a pretensão defensiva de concessão de sursis processual.
+O eg. Tribunal a quo, no que importa ao caso, assim se manifestou sobre o ponto (fls. 541-542):
+"Por fim, a Defesa pretende a aplicação da suspensão condicional da pena, prevista no artigo 77 do Código Penal.
+Todavia, sem razão.
+Isso porque, conforme se infere a partir da leitura domencionado dispositivo, a suspensão condicional da pena somente é aplicável aos casos em que não seja indicada ou cabível a substituição prevista no artigo 44 do Código Penal.
+E, na hipótese vertente, houve a mencionada substituição, não sendo cabível, portanto, a concessão do sursis.
+Desse modo, nada há a reparar.
+Ante o exposto, pelo meu voto, nego provimento ao recurso, mantendo-se, in totum, a r. sentença atacada, por seus próprios e jurídicos fundamentos"
+Da análise do excerto colacionado, verifica-se que a Corte de origem invocou fundamentos para denegar a pretensão defensiva de concessão do sursis processual que não comportam qualquer censura por parte deste Sodalício.
+Com efeito, como bem asseverado pelo parecer ministerial,"nos termos do art. 77, III, do CP, incabível a concessão de sursis, quando concedida na origem a substituição da pena privativa de liberdade por restritiva de direitos"(AgRg no AREsp n. 1557396/PR, Sexta Turma, Rel. Ministro Nefi Cordeiro, DJe 18/5/2020, grifei).
+No mesmo sentido, ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO. SUSPENSÃO CONDICIONAL DA PENA. DESCABIMENTO.SANÇÃO SUBSTITUÍDA POR RESTRITIVAS DE DIREITO. RECONHECER A IMPOSSIBILIDADE DE CUMPRIMENTO DA PENA RESTRITIVA DE DIREITOS.NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Nos termos do art. 77, III, do CP, incabível a concessão de sursis, quando concedida na origem a substituição da pena privativa de liberdade por restritivas de direitos (AgRg no AREsp 1557396/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 12/5/2020, DJe 18/5/2020).
+2. A revisão do entendimento firmado pelas instâncias ordinárias, para reconhecer a impossibilidade de cumprimento da pena restritiva de direitos, demandaria, necessariamente, o reexame do conjunto fático-probatório dos autos, providência vedada pela Súmula n.7/STJ.
+3. Agravo regimental desprovido."(AgRg no AgRg no AREsp 1686683/PR, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 13/10/2020, grifei)
+"PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CORRUPÇÃO ATIVA. VIOLAÇÃO DO ART. 386 E INCISOS DO CPP. PRETENSÃO ABSOLUTÓRIA. SÚMULA 7/STJ.SUSPENSÃO CONDICIONAL DA PENA. DESCABIMENTO. SANÇÃO SUBSTITUÍDA POR RESTRITIVAS DE DIREITO (PRESTAÇÃO PECUNIÁRIA E MULTA). PRECEDENTES.EMBARGOS DECLARATÓRIOS REJEITADOS.
+1. Os embargos de declaração são recurso com fundamentação vinculada e para o seu cabimento é imprescindível a demonstração de que a decisão embargada se mostrou ambígua, obscura, contraditória ou omissa, conforme disciplina o art. 619 do CPP, o que não logrou fazer o embargante. A mera irresignação com o entendimento apresentado no acórdão embargado, visando à reversão do julgado, não tem o condão de viabilizar a oposição dos aclaratórios.
+2. Na hipótese, o acórdão embargado esclareceu que a pretensão absolutória era incompatível com a via eleita, ante a indisfarçável necessidade de revisão de matéria fático-probatória, obstada pela Súmula 7/STJ.
+3. Nos termos do artigo 77, III, do CP, o benefício da suspensão condicional do processo somente é possível quando não seja indicada a substituição da reprimenda corporal por penas restritivas de direitos. No caso, substituída a sanção por uma pena de prestação pecuniária e multa, inviável o pedido de sursis.
+4. Embargos declaratórios rejeitados."(EDcl no AgRg no AREsp 626.548/SP, Quinta Turma,Rel. Ministro Reynaldo Soares da Fonseca, DJe 29/08/2016, grifei)
+Dessa forma, estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso o enunciado da Súmula 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Ante o exposto, com fulcro no art. 255, § 4º, inciso II, do Regimento Interno do STJ, nego provimentoaorecurso especial.
+P. e I.
+EMENTA
+PENAL. PROCESSUAL PENAL.RECURSO ESPECIAL. RECEPTAÇÃO.PRETENSÃO DEFENSIVA DE CONCESSÃO DE SURSIS. DESCABIMENTO. CARÁTER SUBSIDIÁRIO DA BENESSE. INTELIGÊNCIA DO ART. 77, INC. III, DO CP.FUNDAMENTAÇÃO IDÔNEA DO ACÓRDÃO RECORRIDO. SÚMULA 568/STJ.RECURSO ESPECIAL DESPROVIDO.
