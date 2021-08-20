@@ -1,0 +1,43 @@
+Trata-se de embargos de declaração opostos contra decisão por meio da qual foi negado seguimento ao mandado de segurança, tendo em vista a pendência de recurso administrativo com efeito suspensivo no Tribunal de Contas da União (documento eletrônico 31).
+    A embargante sustenta, em síntese, a existência de omissão e contradição na decisão impugnada, alegando que,
+    “antes mesmo da comunicação da decisão adm. pela corte de contas, os proventos já haviam sido cassados pela [sic] SVPM (Serviço de Veteranos e Pensionistas da Marinha), em virtude de determinação do TCU […].
+     A cassação do pagamento através dos efeitos da decisão administrativa da Corte de Contas relativo à Pensão Militar, só poderia ocorrer:
+    a) após o trânsito em julgado da decisão recorrida/indeferimento do recurso de reexame;
+    b) após o esgotamento do prazo para a interposição do recurso de reexame c/efeito suspensivo ou;
+    c) a partir de sua inadmissão em decorrência da carência em uma de suas condições (pressupostos).
+    [...]
+    O cabimento do mandado de segurança fundamenta-se, encontra cabimento na ilegalidade da cassação, no ato abusivo e ilegal que não respeitou os prazos processuais, que dirá os efeitos suspensivos da decisão previsto no recurso administrativo de reexame.
+    Os proventos da embargante estão cancelados desde novembro de 2020, friso uma vez mais: antes da comunicação da existência do processo e da decisão administrativa, que ainda possui previsão de recurso de reexame com efeito suspensivo.
+    Tal atitude da Corte de Contas demonstra-se arbitrária, abusiva, desrespeita o contraditório, a ampla defesa, e todos os meios a eles inerentes.
+    Além de ferir Súmula Vinculante nº 3 desta Suprema Corte, portanto, deve ser combatida até a última via recursal admitida.
+    Conforme asseverado na própria decisão: ‘é impossível atacar decisão administrativa que esteja suspensa em razão da atribuição de efeito suspensivo’.
+    […]
+    Por todo exposto, e diante de todas as contradições, para que se evite omissões que cominem em tolher os direitos e garantias Constitucionais da embargante, vista que nenhum elemento de prova trago aos autos comprova os efeitos suspensivos da decisão administrativa, fundamento para o indeferimento do writ.
+    Em contrapartida, comprovamos a cassação do benefício, o que por si só já demonstra que não foi respeitado o contraditório e a ampla defesa, que dirá o efeito suspensivo da decisão adm. previsto no pedido de reexame. Violaram expressamente a CF/88, e foram de desencontro à orientação sumulada (S.V.3) desta mais alta e nobre corte” (págs. 2-4 do documento eletrônico 35).
+    Ao final, requer o acolhimento dos declaratórios, com efeitos infringentes, para reformar a decisão impugnada, sanando-se os vícios suscitados (documento eletrônico 35).
+    A União, apesar de intimada, não apresentou contrarrazões (documentos eletrônicos 41 e 42).
+    É o relatório. Decido.
+    Bem examinados os autos, entendo ser o caso de acolher parcialmente os embargos de declaração, mas apenas para prestar esclarecimentos.
+    Isso porque o mandado de segurança não foi impetrado apenas contra ato do Tribunal de Contas da União – TCU proferido no Processo TC 013.500/2020-1, por meio do qual foi negado o registro do ato concessivo de pensão militar, mas também contra ato do Serviço de Veteranos e Pensionistas da Marinha – SVPM, tendo em vista a suspensão do pagamento da pensão.
+    Quanto ao ato praticado pela segunda autoridade coatora, verifico que Supremo Tribunal Federal não é competente para julgar a ação mandamental nesse ponto, pois o SVPM não se inclui entre aquelas do rol exaustivo inscrito no art. 102, I, d, da Constituição Federal – CF, verbis:
+    “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+    I - processar e julgar, originariamente:
+    [...]
+    d) o 'habeas-corpus', sendo paciente qualquer das pessoas referidas nas alíneas anteriores; o mandado de segurança e o 'habeas-data' contra atos do Presidente da República, das Mesas da Câmara dos Deputados e do Senado Federal, do Tribunal de Contas da União, do Procurador-Geral da República e do próprio Supremo Tribunal Federal” (grifei).
+    Em casos semelhantes, esta Suprema Corte já se pronunciou no sentido de que o TCU não é responsável por comando concreto e individualizado relativo à suspensão de pagamento de aposentadorias e pensões. Nesse sentido, são as ementas dos precedentes abaixo:
+    “MANDADO DE SEGURANÇA IMPETRADO CONTRA O TRIBUNAL DE CONTAS DA UNIÃO - ILEGITIMIDADE PASSIVA AD CAUSAM DO ÓRGÃO APONTADO COMO COATOR - ATO EMANADO DA CHEFIA DO SERVIÇO DE PAGAMENTO DE PESSOAL DO INCRA - AUSÊNCIA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL - NÃO-CONHECIMENTO DO MANDADO DE SEGURANÇA - AGRAVO REGIMENTAL IMPROVIDO.
+    - Não assiste, ao Supremo Tribunal Federal, competência originária para processar e julgar mandado de segurança impetrado contra ato que emanou, não do Tribunal de Contas da União, mas, sim, de outro órgão estatal absolutamente estranho ao rol exaustivo inscrito, em numerus clausus, no art. 102, I, ‘d’, da Constituição da República. Encaminhamento dos autos a órgão judiciário competente para apreciar a causa mandamental. Precedentes.
+    - Não assume relevo, para efeito de reconhecimento da competência originária da Suprema Corte, o fato de o órgão estatal - concretamente responsável pela prática do ato supostamente lesivo - haver invocado, como reforço de fundamentação, razões jurídicas constantes de deliberação proferida pelo Tribunal de Contas da União em procedimento que constituiu, para a parte impetrante, res inter alios acta” (MS 27.498-AgR/DF, Rel. Min. Celso de Mello).
+    “AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. IMPETRAÇÃO CONTRA ATO DO TRIBUNAL DE CONTAS DA UNIÃO. ILEGITIMIDADE PASSIVA AD CAUSAM. AUSÊNCIA DE COMPETÊNCIA ORIGINÁRIA DO SUPREMO TRIBUNAL FEDERAL PARA JULGAMENTO DO WRIT. Constatado que a alegada supressão remuneratória não decorreu de ato concreto e individualizado praticado pelo Tribunal de Contas da União, ausente a legitimidade do referido órgão para figurar no polo passivo do mandado de segurança. A competência do Supremo Tribunal Federal para processar e julgar, originariamente, mandado de segurança contra ato do Tribunal de Contas da União decorre de expressa previsão no art. 102, I, ‘d’, da Constituição da República. Emanado o ato impugnado de autoridade outra, não referida no rol taxativo do texto constitucional, a consequência é a não inserção do presente mandamus no âmbito da competência originária do Supremo Tribunal Federal. Agravo regimental conhecido e não provido” (MS 31.987-AgR/DF, Rel. Min. Rosa Weber).
+    Nessa linha, cito ainda as seguintes decisões: MS 32.651/DF, Rel. Min. Luiz Fux; MS 33.188/DF, Rel. Min. Rosa Weber; MS 36.933/DF, Rel. Min. Cármen Lúcia; MS 37.909/AP, Rel. Min. Dias Toffoli; MS 36.342/DF e MS 36.559/DF, Rel. Min. Alexandre de Moraes.
+    É de se ver, portanto, que o caráter estrito da competência constitucional do Supremo Tribunal Federal, definida em numerus clausus no art. 102, I, d, da CF, impede o conhecimento da impetração no tocante ao ato praticado pelo SVPM.
+    No mais, em relação ao ato emanado do TCU, não há qualquer omissão ou contradição.
+    Conforme ficou consignado na decisão embargada, o efeito suspensivo conferido ao pedido de reexame apresentado pela impetrante decorre do art. 48, parágrafo único, da Lei 8.443/1992, bem como dos arts. 285, caput, e 286, parágrafo único, do Regimento Interno da Corte de Contas.
+    Aliás, a própria impetrante reconheceu tal efeito na petição inicial. Confira-se:
+    “[...] 7. A pensão foi cassada em 24/11/2020, a comunicação da decisão data de 16/12/2020. O prazo inicial para a defesa em âmbito administrativo, conforme regimento interno do órgão, inicia-se do recebimento da comunicação por carta registrada, o que ocorreu em um sábado, dia 26/12/2020. O recurso administrativo com efeito suspensivo foi interposto tempestivamente (doc. 6), mas o benefício já havia sido cassado” (pág. 4 da inicial – grifei).
+    Por isso, ante o disposto no art. 5°, I, da Lei 12.016/2009, o mandamus mostrou-se incabível também em relação ao Acórdão 13.440/2020-1ª Câmara, proferido pelo TCU.
+    Isso posto, acolho parcialmente os embargos de declaração tão somente para prestar esclarecimentos quanto ao não conhecimento da impetração no tocante ao ato por meio do qual foi determinada a suspensão do pagamento da pensão.
+    Publique-se.
+    Brasília, 20 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
