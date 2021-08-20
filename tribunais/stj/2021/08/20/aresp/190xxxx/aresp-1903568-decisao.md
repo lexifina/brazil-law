@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado por CLAUDIO HENRIQUE RIBEIRO DE CARVALHO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+EMBARGOS DE DECLARAÇÃO EM EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL. AÇÃO DE PROCEDIMENTO COMUM. PEDIDO DE CONSTITUIÇÃO DE OBRIGAÇÃO DE FAZER (REINTEGRAÇÃO EM CARGO PÚBLICO), EM CÚMULO SUCESSIVO COM PAGAMENTO DE DIFERENÇAS E RESPONSABILIDADE CIVIL (DANO MORAL). ACÓRDÃO QUE, POR MAIORIA, MANTÉM A SENTENÇA DE IMPROCEDÊNCIA. PRIMEIROS DECLARATÓRIOS, A PRETEXTO DE 07 (SETE) OMISSÕES E PRÉ-QUESTIONAMENTO DOS ARTS. 189, 192 E 205 DO CÓDIGO CIVIL. RECURSO CONHECIDO E DESPROVIDO.
+NOVOS ACLARATÓRIOS. REPRISTINAÇÃO DE 03 (TRÊS) DAS OMISSÕES DEBATIDAS NOS PRIMEIROS EMBARGOS, BEM COMO NOVO PRÉ - QUESTIONAMENTO DOS MESMO DISPOSITIVOS. TEMAS EXAURIDOS NOS PRIMEIROS EMBARGOS. BUSCA DE PUROS EFEITOS INFRINGENTES.
+RECURSO NÃO CONHECIDO. INAPLICABILIDADE DA SÚMULA 98 DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS MERAMENTE PROTELATÓRIOS. APLICAÇÃO DA MULTA DO ART. 1026 § 3º, DO CÓDIGO DE PROCESSO CIVIL, FIXADA EM 3% (TRÊS POR CENTO) DO VALOR ATUALIZADO DA CAUSA.
+Alega violação do art. 1.026, §§ 2º e 3º, do CPC, ao fundamento de que a multa só poderia ter incidido no percentual de 2%, previsto no § 2º, tendo em vista que a penalidade prevista no § 3º só poderia incidir se os primeiros declaratórios houvessem sido considerados protelatórios, trazendo os seguintes argumentos:
+Além do aspecto referente ao mérito, o acórdão em razão do qual ora se recorre foi proferido em embargos de declaração (fls. 977/981), onde o recorrente foi condenado pela primeira e única vez em uma multa de 3% sobre o valor atualizado da causa, quando a previsão contida no artigo 1.026, § 2º, do CPC, prevê 2%.
+Sem que o recorrente tivesse sido anteriormente multado pela oposição de declaratórios que tivessem sido reputados procrastinatórios, o acórdão recorrido aplicou a penalidade prevista no artigo 1.026, § 3º, do CPC, ao invés, quando muito, daquela determinada pelo § 2º do mesmo artigo. Daí a violação ao artigo 1.026 e seus §§ 2º e 3º do CPC.
+ ..
+Da atenta leitura do § 3º do artigo 1.026 conclui-se que, para a sua incidência, necessário é que os primeiros declaratórios tenham sido reputados procrastinatórios. Note-se que trata ele de REITERAÇÃO de embargos procrastinatórios.
+No caso concreto, diante das omissões do aresto principal (fls. 821/835) apontadas pelo recorrente em primeiros embargos de declaração (fls. 873/893), o egrégio órgão colegiado proferiu acórdão (921/927), rejeitando os declaratórios, sem considerá-los procrastinatórios, razão porque concluiu (fl. 927):
+ ..
+Se fossem reputados procrastinatórios o colegiado poderia ter imposto a multa prevista no § 2º do artigo 1.026 do CPC, o que não ocorreu.
+Logo, em hipótese alguma os primeiros embargos de declaração poderiam ser julgados procrastinatórios porque declaração nesse sentido não existiu.
+ ..
+Por sua vez, quando da oposição dos segundos embargos de declaração o colegiado o reputou procrastinatório e impôs uma multa de 3% sobre o valor atualizado da causa, tomando por base o § 3º do artigo 1.026 do CPC (fls. 993/999).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "O Tribunal de origem não tratou do tema ora vindicado sob o viés da exegese dos artigos 131 e 139 do CPC/1973, e, tampouco o recorrente opôs embargos de declaração visando prequestionar explicitamente o tema. Incidência da Súmula 211/STJ". (AgInt no REsp n. 1.627.269/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/9/2017.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
