@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manejado por Claro S/A, contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido peloTribunal de Justiça do Distrito Federal e dos Territórios, assim ementado (fl. 712):
+APELAÇÃO CÍVEL. ADMINISTRATIVO. AÇÃO ANULATÓRIA DE DÉBITO. CONTRATO. DIREITO REAL DE USO. ÁREA PÚBLICA. ESTAÇÕES RÁDIO-BASE (ERBs). PRESCRIÇÃO. CÓDIGO CIVIL. PRAZO DECENAL. PAGAMENTO. ÔNUS DA PROVA. DESCUMPRIMENTO. HONORÁRIOS DE SUCUMBÊNCIA. FAZENDA PÚBLICA. CRITÉRIO DA EQUIDADE. POSSIBILIDADE. SENTENÇA PARCIALMENTE REFORMADA. PRESCRIÇÃO DE PARTE DO DÉBITO PRONUNCIADA.
+1. Apelações das partes autora e ré em face da sentença pela qual foi julgado improcedente o pedido de anulação de débitos de natureza não-tributária inscritos em dívida ativa, fixando-se honorários em favor da Fazenda Pública com amparo no critério da equidade (art. 85, § 8º, CPC).
+2. Conforme jurisprudência do Superior Tribunal de Justiça, a contraprestação pela concessão de direito real de uso ostenta natureza jurídica de preço público, razão pela qual a prescrição é regida pelo Código Civil, sendo de 10 anos, nos termos do seu artigo 205.
+3. Incumbe ao autor provar o fato constitutivo do direito alegado (art. 373, I, CPC). Assim, em ação anulatória de débito inscrito em dívida ativa, competia à parte autora provar o pagamento. Não havendo tal prova nos autos, o julgamento de improcedência é medida que se impõe.
+4. O regramento específico para a fixação de honorários de sucumbência quando a Fazenda Pública for parte, previsto no art. 85, §§ 3º, 4º e 5º, do CPC, não exclui o critério da equidade (§ 8º, art. 85), que deve ser seguido quando da regra do § 2º resultar montante excessivo diante da simplicidade da causa, sob pena de violação aos princípios da proporcionalidade e da razoabilidade.
+5. Apelação da Autora parcialmente provida. Apelação do Réu desprovida.
+Opostos embargos declaratórios, foram rejeitados (fls. 753/759).
+Nas razões do recurso especial, a parte agravante aponta violação aoart. 1.022, II, do CPC. Sustenta, em resumo, que,a despeito dos aclaratórios, o Tribunal a quo restou omisso acerca das questões neles suscitadas.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, cumpre dizer que este Relator, ao examinar o recurso especial manejado pela parte adversa, determinou o retorno nos autos à origem, onde, nos termos dos arts. 1.040 e 1.041 do CPC/2015, deverá ser realizado o juízo de conformação ou manutenção do acórdão local, frente ao que será decidido pelo Superior Tribunal de Justiça, em sede de recurso especial repetitivo, sobre oTema 1.076.
+Nesse contexto, ante a impossibilidade de cisão do julgamento, o presente agravo em recurso especial não deverá ser examinado neste momento processual, sendo imperioso aguardar o esgotamento da instância ordinária para o outro recorrente, antes de ser submetido a este Superior Tribunal de Justiça.
+ANTE O EXPOSTO, determino o sobrestamento do agravo em recurso especial manejado pela Claro S/A, até que o Tribunala quorealize o juízo previsto nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se.
