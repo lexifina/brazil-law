@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Hipótese em que a fundamentação consignada no acórdão embargado foi clara ao assentar que: (i) inexistiu violação, pelo acórdão regional, do art. 1.022 do CPC/2015; (ii) os arts. 332, § 1º e 487, II, do CPC/2015, tidos por violados, não possuem comando normativo apto a ensejar a reforma do julgado, incidindo a Súmula 284 do STF; (iii) o fundamento do acórdão recorrido (de que a coisa julgada e a preclusão atingem as questões de ordem pública apreciadas pelo Juízo, como na hipótese dos autos) não foi impugnado nas razões do apelo extremo, atraindo a incidência da Súmulas 283 do STF; (iv) afastar a premissa fática reconhecida na origem (de que ocorreu a coisa julgada no que tange à prescrição), demandaria necessariamente o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de embargos de declaração opostos por LMV INCORPORADORA E CONSTRUTORA LTDA.; CEREALISTA COMIMPEX LTDA.; INDUSTRIAL E COMERCIAL DE CEREAIS SINOP LTDA.;VANESSA WENDT CASARIN; e MÔNICA WENDT CASARIN contra acórdão assim ementado (e-STJ fl. 2638):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ACÓRDÃO COMBATIDO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INEXISTÊNCIA. FUNDAMENTAÇÃO. DEFICIÊNCIA. COISA JULGADA. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. De acordo com o art. 1.022, parágrafo único, II, combinado com o art. 489, § 1º, IV, ambos do CPC/2015, considera-se omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+2. Hipótese em que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, inclusive em relação à qual é alegada omissão, já que concluiu que os efeitos da coisa julgada e da preclusão atingem, inclusive, assuntos de ordem pública, desde que tenham sido apreciadas.
+3. Os arts. 332, § 1º e 487, II, do CPC/2015, tidos por violados, não possuem comando normativo apto a ensejar a reforma do julgado. Incidência da Súmula 284 do STF.
+4. O fundamento adotado pela Corte a quo (de que a coisa julgada e a preclusão atingem as questões de ordem pública apreciadas pelo Juízo, como na hipótese dos autos) não foi impugnado nas razões do recurso especial. Aplicação, in casu, da Súmula 283 do STF.
+5. Afastar a premissa fática reconhecida na origem (de que ocorreu a coisa julgada no que tange à prescrição), demandaria necessariamente o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+6. Agravo interno desprovido.
+A parte embargante alega que o acórdão foi omisso quanto às argumentações por ela defendidas em suas razões de agravo interno quanto a não incidência das Súmulas 283 e 284 à hipótese dos autos, bem como quanto à circunstância jurídica de que, no caso, em tela, não há trânsito em julgado de sentença que apreciou a prescrição, motivo pelo qual é impossível se falar em coisa julgada. Aduz, ainda, omissão quanto à divergência jurisprudencial demonstrada.
+Decorrido, in albis, o prazo para impugnação (e-STJ fl. 2.663).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. PRESSUPOSTOS. INEXISTÊNCIA.
+1. Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+2. Hipótese em que a fundamentação consignada no acórdão embargado foi clara ao assentar que: (i) inexistiu violação, pelo acórdão regional, do art. 1.022 do CPC/2015; (ii) os arts. 332, § 1º e 487, II, do CPC/2015, tidos por violados, não possuem comando normativo apto a ensejar a reforma do julgado, incidindo a Súmula 284 do STF; (iii) o fundamento do acórdão recorrido (de que a coisa julgada e a preclusão atingem as questões de ordem pública apreciadas pelo Juízo, como na hipótese dos autos) não foi impugnado nas razões do apelo extremo, atraindo a incidência da Súmulas 283 do STF; (iv) afastar a premissa fática reconhecida na origem (de que ocorreu a coisa julgada no que tange à prescrição), demandaria necessariamente o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado. In casu, não ocorreu nenhum dos vícios supracitados.
+Isso porque, a fundamentação consignada no acórdão embargado foi clara ao assentar que: (i) inexistiu violação, pelo acórdão regional, do art. 1.022 do CPC/2015; (ii) os arts. 332, § 1º e 487, II, do CPC/2015, tidos por violados, não possuem comando normativo apto a ensejar a reforma do julgado, incidindo a Súmula 284 do STF; (iii) o fundamento do acórdão recorrido (de que a coisa julgada e a preclusão atingem as questões de ordem pública apreciadas pelo Juízo, como na hipótese dos autos) não foi impugnado nas razões do apelo extremo, atraindo a incidência da Súmulas 283 do STF; (iv) afastar a premissa fática reconhecida na origem (de que ocorreu a coisa julgada no que tange à prescrição), demandaria necessariamente o revolvimento do conjunto fático-probatório constante nos autos, o que é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Vale acrescentar que não se conhece de recurso especial que não aponta o dispositivo legal violado no acórdão recorrido, incidindo na hipótese, por analogia, a Súmula 284 do Supremo Tribunal Federal. Idêntica compreensão é aplicada ao apelo nobre interposto com fundamento em divergência pretoriana, na esteira do posicionamento da Corte Especial (AgRg no REsp n. 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Constata-se que a insurgência do embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhes foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Por fim, advirto a parte recorrente de que a oposição de embargos de declaração manifestamente protelatórios pode ensejar a aplicação da multa prevista no § 2º do art. 1.026 do CPC/2015.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
