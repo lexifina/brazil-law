@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO - RIO-PREVIDÊNCIA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Revisão de benefício previdenciário devido ao filho de ex-servidor falecido em 30/01/2002. Súmula 340 do Superior Tribunal de Justiça. Aplicação do artigo 40, parágrafo 7º da Constituição Federal com a redação conferida pela Emenda Constitucional 20/98. Valor da pensão por morte deve corresponder a totalidade do valor percebido pelo servidor, se vivo fosse.
+Demonstração da defasagem por meio da prova documental produzida nos autos. Revisão devida.
+Percentual de honorários advocatícios deve ser fixado após a liquidação da Sentença, na forma do artigo 85, parágrafo 4º, inciso II do Código de Processo Civil.
+Provimento parcial da Apelação.
+Quanto à controvérsia, alega violação dos arts. 141 e 492 do CPC, no que concerne à vedação legal ao julgamento ultra petita, trazendo o seguinte argumento:
+A r. sentença de 1º grau afrontou os artigos 141 e 492 do Código de Processo Civil, vez que a parte autora, ora recorrida, requereu, em sua inicial, a condenação da parte ré, ora recorrente, ao pagamento dos atrasados referentes à diferença atualizada do valor da pensão da parte autora, ao passo que o magistrado singular condenou a autarquia estadual à revisão do benefício da autora, observada sua cota parte, desde a data do óbito do instituidor da pensão, a fim de que corresponda a 100% dos vencimentos do ex-segurado, excluídas as parcelas pro labore faciendo, e ao pagamento das diferenças devidas não atingidas pela prescrição quinquenal.
+De fato, o provimento jurisdicional extrapolou o pedido inicial, em flagrante afronta aos artigos 141 e 492 do CPC, posto se configurar julgamento ultra petita.
+ ..
+Isso posto, merece provimento o presente recurso especial, para que seja anulada a sentença na parte em que extrapolou o pedido autoral, limitando-se eventual condenação ao pagamento das diferenças atrasadas devidas, como expressamente mencionado no pedido da exordial. (fls. 211-214).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Cuida-se de Ação de Revisão de Benefício proposta por Pedro Henrique Gomes Santana, filho de ex-servidor falecido, em face do Fundo Único de Previdência Social do Estado do Rio de Janeiro - RioPrevidência, visando obter atualização de seu pensionamento, em paridade com os servidores da ativa, bem como o recebimento das diferenças pretéritas devidas pelo período em que seus benefícios permaneceram desatualizados.
+A alegação do apelante no sentido de que a Sentença é ultra petita não merece acolhimento, pois pela simples leitura da inicial, percebe-se, com clareza, que o autor objetiva a revisão da pensão deixada por seu falecido pai
+Aliás, ao iniciar sua contestação com um resumo da demanda, o réu, ora apelante, chegou a mesma conclusão, conforme se observa em fl. 44 (indexador 47). (fls. 182, grifos meus).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nessa linha: "A verificação da ocorrência de julgamento ultra petita, por contrariar premissa estabelecida pela origem, demandaria a revisão de matéria fática. Incidência da Súmula 7/STJ." (REsp 1.843.930/RS, relator Ministro Og Fernandes, Segunda Turma, DJe 9/10/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
