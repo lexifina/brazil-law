@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de agravo em recurso especial desafiando decisão que não admitiu recurso especial interposto por OLIVEIRA NUNES DA SILVA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, assim ementado:
+Apelação cível. Cartão de crédito consignado. Margem consignável. RMC.Benefício previdenciário. Relação jurídica comprovada. Assinatura do contratante.
+Ausência de vício. Recurso provido.
+Havendo prova da contratação do cartão de crédito com margem consignável, com assinatura do beneficiário, não há que se falar em ilegalidade da RMC, tampouco de dano moral, devendo-se operar o princípio do pacta sunt servanda.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, sustenta o recorrente, ora agravante, além de dissídio jurisprudencial, que o Tribunal a quo negou vigência aos arts. 39, IV, 46, 52, do CDC, na medida em que não reconheceu a vulnerabilidade do consumidor diante do contrato de cartão de crédito.
+Reforça que não foi cumprido por parte da instituição financeira o dever de informação dos termos do contrato, refletindo a ilicitude do negócio jurídico diante da fragilidade da parte,a que foi imputada a qualidade de contratante.
+Reitera que o dever de informação especifica contém o objetivo da norma consumerista, isto é,evitar o endividamento do consumidor.
+Defende, ainda, que o Tribunal a quo, ao não reconhecer qualquer irregularidade no ato de contratação, negou vigência aos arts. 113, 187, 422,do Código Civil, pois, no caso, não foi respeitado o dever de lealdade, a boa fé objetiva, a autonomia da vontade.
+Conclui que resta evidente o fato de que o Banco agravado não cumpriu seu mister de comprovar a efetiva contratação do cartão de de crédito consignado e anuência à reserva de margem consignável, referente ao desconto imposto em seu benefício previdenciário, conforme o disposto no artigo 372, II, do CPC/2015.
+Requero conhecimento e provimento do recurso especial, para que sejareconhecido o direito à anulação do contrato de adesão, o direito à repetição de indébito e à reparação de danos morais, com a consequente inversão do ônus da sucumbência.
+Apresentadas contrarrazões às fls. 569/582.
+O referido recurso não foi admitido, por se entender, essencialmente, incidente, na espécie, a Súmula 7/STJ.
+Daí porque foi interposto o presente agravo.
+A seguir, vieram os autos conclusos a este Relator.
+É o relatório. Passo a decidir.
+O recurso especial é oriundo de ação de repetição de indébito cumulada com indenização por danos morais ajuizada pelo ora agravante em face do agravado.
+A sentença julgou o pedido procedente em parte, paradeclarar nulo o contrato de cartão de crédito, bem como a cláusula que autoriza o desconto do valor mínimo do referido cartão nos vencimentos da parte autora, devendo a ré se abster de efetuar novos descontos do mínimo do cartão de crédito nos proventos da autora, sob pena de multa a ser arbitrada em sede de execução;converter o contrato de cartão de crédito em empréstimo consignado, com descontos diretamente nos proventos da parte autora;condenar a ré a devolver em dobro à parte autora os valores descontados a maior de seus vencimentos;condenar a requerida a pagar à parte autora, a título de indenização por danos morais, o valor atual de R$ 5.000,00 (cinco mil reais), corrigidos e com juros.
+Em sede de apelação, o Tribunal a quo, ao prover o recurso, julgou o pedido improcedente, considerando que houve a contratação de forma espontânea, não havendo qualquer ilegalidade no negócio jurídico.
+Confira-se por oportuno o voto condutor do acórdão recorrido in verbis:
+Presentes os requisitos legais, conheço do apelo.
+Ressalvo meu entendimento e, em atenção ao art. 927, V, do CPC, passo a adotar o entendimento do órgão a qual pertenço, que entende como legítima a contratação, não negada pelo apelado.
+Transcrevo, nesta oportunidade, os fundamentos postos na apelação 0010987-45.2015.8.22.0014, de relatoria do Des. MARCOS ALAOR DINIZ GRANGEIA, que passo a adotar o entendimento:
+A demanda fora proposta sob o argumento de que houve cobranças indevidas, de valores sob denominação RMC, no benefício previdenciário da autora, uma vez que teria contratado apenas empréstimo consignado com o banco apelado, não tendo utilizado o cartão de crédito, quiçá recebido.
+Pois bem, ficou devidamente comprovada a contratação do referido cartão do crédito pela cópia colacionada pela instituição financeira apelada (ID 1778341 - Pág. 46/79). Ademais, em réplica, o apelante admite ter firmado o documento, entretanto, alega que não houve clara informação acerca da contratação do cartão de crédito e da cobrança RMC.
+Conquanto, conclui-se que quando da assinatura do contrato, estavam assinaladas as opções de adesão ao:crédito pessoal, débito em conta corrente consignado, cartão crédito e folha de pagamento. Outrossim, a informação está presente na cláusula 5ª do instrumento em análise:
+5. O CREDITADO/FINANCIADO, ao assinar a presente Proposta de Adesão, requer a emissão de Cartão de Crédito, que será emitido pela Agiplan Financeira S.A. Crédito, Financiamento e Investimento e adere integralmente as cláusulas constantes nos Contratos de Prestação de Serviços registrado no Cartório de Título de Documentos de Porto Alegre sob os números 21627 e 21628, no caso do Cartão de Crédito.
+Logo, a apelante aderiu as cláusulas do contrato, o ônus da leitura e aquiescência era seu, não podendo agora alegar a ocorrência de venda casada sem a devida comprovação, nos termos do art. 373, I, do CPC.
+Ressalto que a constituição de reserva de margem consignável para utilização de cartão de crédito não configura prática ilícita da instituição, sendo possível mediante solicitação formal firmada pelo beneficiário. Assim dispõe o art. 15, inciso I, da instrução normativa nº 28/2008 do INSS/PRES:
+Art. 15. Os titulares dos benefícios previdenciários de aposentadoria e pensão por morte, pagos pela Previdência Social, poderão constituir RMC para utilização de cartão de crédito, de acordo com os seguintes critérios, observado no que couber o disposto no art. 58 desta Instrução Normativa:
+I - a constituição de RMC somente poderá ocorrer após a solicitação formal firmada pelo titular do benefício, por escrito ou por meio eletrônico, sendo vedada à instituição financeira: emitir cartão de crédito adicional ou derivado; e cobrar taxa de manutenção ou anuidade
+Assim, não há que se falar em venda casada ou ausência de informação adequada. E, inexistindo vício na contratação entre as partes, deve-se observar o princípio do pacta sunt servanda.
+Dessa maneira, ante a ausência do ilícito civil pela apelada, fica desprovido de razão o pleito de reparação por danos morais.
+Neste sentido, já se posicionou esta Câmara:
+TJ/RO. Apelação cível. Contrato de cartão de crédito consignado em benefício previdenciário. Reserva de margem consignável - RMC. Ausência de informação adequada não configurada. Descontos legítimos. Danos morais inocorrentes.
+Comprovada a contratação do cartão de crédito com margem consignável e a sua utilização, e a existência de cláusula expressa quanto ao desconto mensal do valor mínimo indicado na fatura, não há que se falar em restituição dos valores pagos a título de RMC, ou caracterização do dano moral, devendo-se observar o princípio pacta sunt servanda. (TJ-RO - APL:70024392520188220007 RO 7002439-25.2018.822.0007, Data de Julgamento: 27/03/2019)
+Neste contexto, considerando que houve a contratação de forma espontânea e, de acordo com o entendimento da Câmara, não há que se falar em ilegalidade.
+As demais questões postas no apelo restam prejudicadas.
+Para evitar eventual oposição de embargos de declaração, esclareço que com o acolhimento da teve posta no apelo, não há que se falar em violação aos dispositivos que retratam sobre a reparação por danos morais.
+Ante o exposto, dou provimento ao recurso e julgo improcedentes os pedidos formulados na inicial.
+Por consequência, inverto o ônus da sucumbência e condeno o apelado ao suporte das custas processuais e honorários advocatícios, os quais fixo em 10% (dez por cento) sobre o valor atualizado da causa, com a ressalva do art. 98, §3º, do CPC.
+É como voto.
+Com efeito, depreende-se do contexto firmado pelo Tribunal a quo, que o dever de informação não foi violado, poisa adesão ao contrato foi embasada na presença declara informação acerca da contratação do cartão de crédito e da cobrança da renda mensal consignável. O enfrentamento da pretensão recursal em ver reconhecida a abusividade na cobrança de valores pela instituição financeira, para fins de repetição do indébito e ressarcimento por danos morais, implica o revolvimento de fatos e provas, vedado pela Súmula 7/STJ.
+Outrossim,é impossível conhecer da alegada divergência interpretativa, poisa incidência da Súmula 7 do STJ na questão controversa apresentada é, por consequência, óbice também para a análise do apontado dissídio, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+No mesmo sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPETIÇÃO DO INDÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. CARTÃO DE CRÉDITO CONSIGNADO. CONTRATAÇÃO COMPROVADA POR PROVA DOCUMENTAL. EXERCÍCIO REGULAR DE DIREITO. SÚMULA 7/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal a quo expressamente consignou que a prova documental acostada nos autos comprova que o recorrente celebrou, através do sistema de autoatendimento e mediante utilização de cartão magnético e senha pessoal, contrato de reserva de consignação. Aduziu, ainda, que a reserva de margem consignável constituiu exercício regular de direito do banco recorrido resultante da contratação do serviço de cartão de crédito, consignando expressamente que em momento algum foi realizado qualquer desconto no benefício previdenciário do recorrente referente à reserva de margem consignável. Alterar esse entendimento demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial. Incidência da Súmula 7/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1349476/SP, de minha Relatoria, QUARTA TURMA, julgado em, 26/3/2019, DJe de 11/4/2019)
+Dessa forma, entende-se que o acórdão recorrido deve ser confirmado pelos seus próprios fundamentos.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial. E, quanto ao ônus da sucumbência recursal, em observância ao art. 85, §11, do CPC/2015, majoro os honorários de advogado para 11% sobre o valor atualizado da causa.
+Publique-se.
