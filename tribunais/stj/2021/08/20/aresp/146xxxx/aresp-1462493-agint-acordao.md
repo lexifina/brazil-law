@@ -1,0 +1,40 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. LEI LOCAL. EXAME. INVIABILIDADE. RESERVA DE PLENÁRIO. PREQUESTIONAMENTO. AUSÊNCIA.REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Inviável a verificação, em sede de recurso especial, de ofensa a dispositivo de lei estadual que traria previsão acerca das regras sobre amanifestação do contribuinte antes da decisão em processo administrativo tributário, ante o obstáculo da Súmula 280 do STF.
+2. No que concerne à alegação de inobservância da cláusula dereserva de plenário,ou o rito processual específico dos arts. 948 e 949 do CPC/2015,para a declaração de inconstitucionalidade do dispositivo da Lei estadual, tem-seque o tema não foi objeto de manifestação pelas instâncias ordinárias, mesmo com a oposição dos embargos de declaração, atraindo a incidência do óbice da Súmula 211 do STJ.
+3. Hipótese em que a Corte a quo declarou expressamente que o cerceamento de direito de defesano julgamento administrativo decorre do fato de que não fora oportunizadaàimpetrante a possibilidadede se manifestar e contribuirnas conclusões adotadas pelo órgão colegiado administrativo, sendo a matéria decidida de forma unilateral pelo fisco estadual, aplicando-se, no particular, a Súmula 7 do STJ.
+4. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo internointerposto pelo ESTADO DO PARANÁcontra decisão por mim proferida às e-STJ fls. 931/933, em que conhecido agravo para, com base nasSúmulas 211 e 7 do STJ e 280 do STF, não conhecerde recurso especial.
+A parte agravante alega, em síntese, que: (a) não se discute o comando normativo de dispositivo de lei estadual, mas a negativa de aplicação da lei estadual sem que se observasse a reserva de plenário, sendo inaplicável o óbice da Súmula 280 do STF; (b) o prequestionamento da alegação de descumprimento da cláusula de reserva de plenário é implícito, o que afastaria o óbice da Súmula 211 do STJ; e (c) a Súmula 7 do STJ não incidiria no caso, em razão do contexto fático descrito no acórdão recorrido ser suficiente para que se aprecie as alegações formuladas, não havendo necessidade de revolvimento de fatos e provas.
+Contraminuta apresentada.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. LEI LOCAL. EXAME. INVIABILIDADE. RESERVA DE PLENÁRIO. PREQUESTIONAMENTO. AUSÊNCIA.REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE.
+1. Inviável a verificação, em sede de recurso especial, de ofensa a dispositivo de lei estadual que traria previsão acerca das regras sobre amanifestação do contribuinte antes da decisão em processo administrativo tributário, ante o obstáculo da Súmula 280 do STF.
+2. No que concerne à alegação de inobservância da cláusula dereserva de plenário,ou o rito processual específico dos arts. 948 e 949 do CPC/2015,para a declaração de inconstitucionalidade do dispositivo da Lei estadual, tem-seque o tema não foi objeto de manifestação pelas instâncias ordinárias, mesmo com a oposição dos embargos de declaração, atraindo a incidência do óbice da Súmula 211 do STJ.
+3. Hipótese em que a Corte a quo declarou expressamente que o cerceamento de direito de defesano julgamento administrativo decorre do fato de que não fora oportunizadaàimpetrante a possibilidadede se manifestar e contribuirnas conclusões adotadas pelo órgão colegiado administrativo, sendo a matéria decidida de forma unilateral pelo fisco estadual, aplicando-se, no particular, a Súmula 7 do STJ.
+4. Agravo interno desprovido.
+VOTO
+Como assinalado na decisão agravada,o recurso especial origina-se de mandado de segurança impetrado pelo recorrido pleiteando o reconhecimento de direito líquido e certo à manifestação prévia em julgamento administrativo quanto ao pedido de compensação de créditos tributários por créditos de precatórios em acordo de parcelamento, sob pena de violação ao contraditório e ampla defesa.
+O magistrado de primeiro grau concedeu parcialmente asegurança para anular a decisão administrativa e determinar que o Fisco Estadualoportunize ao contribuinte a manifestação acerca das irregularidades encontradas nos créditos de precatórios ofertados em compensação de créditos tributários como parte do acordo de parcelamento.
+Opostos embargos de declaração, foram eles rejeitados.
+No especial, a partealegaviolação dosarts. 948 e 949 do CPC/2015 e art. 16, § 3º, da Lei Estadual n. 17.082/2012.
+Sustenta, em síntese:
+a) que a lei estadual prevê expressamente a impossibilidade de manifestação do contribuinte na decisão administrativa que não aceita oscréditos de precatórios ofertados como parte do acordo de parcelamento; e
+b) que a determinação judicial de que se oportunize nova manifestação ao contribuinte representa via transversa de declaração de inconstitucionalidade do dispositivo da lei estadual sem observar o rito especial do incidente processual.
+Após nova análise processual, provocada pela interposição do agravo interno, observo que a decisão combatida deve ser mantida.
+Conforme registrado nadecisão combatida, a alegada violação do art. 16, § 3º,da Lei Estadual n. 17.082/2012 não pode ser objeto de recurso especial, atraindo o óbice da Súmula 280 do STF, o que impede o exame do teor da legislação local que trataria daquestão relativa à oportunidade demanifestação prévia do contribuinte sobreirregularidades encontradas nos créditos de precatórios ofertados em compensação como parte do acordo de parcelamento.
+Quantoà segunda controvérsia, concernente ao julgamento do Tribunal não ter observadoa reserva de plenário ou o rito processual específico dos arts. 948 e seguintes para a declaração de inconstitucionalidade do dispositivo da Lei estadual, vale salientar que o tema não foi objeto de pronunciamento pelas instâncias ordinárias, mesmo com a oposição dos embargos de declaração, atraindo aincidência do óbice da Súmula 211 do STJ.
+Ademais, em atenção à alegação da parte recorrente, cumpre anotar que oart.1.025do CPC/2015 dispõe que se "consideram incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados,caso o tribunal superior considere existente erro, omissão, contradição ou obscuridade".
+A regra processual, portanto, exige o reconhecimento da violação do art. 1.022 do CPC/2015 para o fim de admissão do prequestionamento ficto.
+Nesse sentido, dentre outros:AgIntnoAREsp1224882/MA, rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 07/06/2018,DJe19/06/2018;AgIntnoREsp1707780/SC, rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 17/05/2018,DJe23/05/2018;AgIntnoREsp1669746/PR, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 15/05/2018,DJe18/05/2018;AgIntnoREsp1650256/RS, rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 03/04/2018,DJe09/05/2018.
+Ainda que assim não fosse, a Cortea quodeclarou expressamente que, na hipótese dos autos, o cerceamento de direito de defesa no julgamento administrativo decorre do fato de que não fora oportunizada impetrante o direito de interferir nas conclusões adotadas pelo órgão colegiado administrativo, sendo a matéria decidida de forma unilateral pelo fisco estadual.
+Assim, tem-se que a revisão da conclusão alcançada pelo Tribunala quosobre o tópicodemandaria o reexame dos fatos e provas constantes dos autos, o que é vedado no âmbito do recurso especial, nos termos daSúmula 7doSTJ.
+Por fim, embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual nãodeveseraplicadaa multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
