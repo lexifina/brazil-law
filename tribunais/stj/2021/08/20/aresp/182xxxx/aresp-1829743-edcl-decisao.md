@@ -1,0 +1,30 @@
+DECISÃO
+JÚLIA CAMARGO ANDREWS CARDOSO (JÚLIA) opôs embargos de terceiro contra ASSOCIAÇÃO DOS CONDÔMINOS DO MOGI SHOPPING CENTER (MOGI SHOPPING),pretendendo a declaração de nulidade de fiança prestada por seu cônjuge em contrato de locação sem sua autorização, bem como a desconstituição de constrição judicial de ativos financeiros bloqueados nas constas bancárias, via BacenJud.
+Em primeira instância, os embargos foram julgados procedentes para desconstituir os atos constritivos sobre os valores em nome de seu cônjuge, bem como condenar a embargada nas custas processuais e honorários advocatícios fixados em 15% sobre o valor atualizado da causa (e-STJ, fls. 132/135).
+O Tribunal de Justiça de São Paulo deu provimento ao recurso de apelação interposto por MOGI SHOPPING para julgar improcedente os embargos, mantendo integralmente válida a fiança prestada, em acórdão relatado pelo Des. WALTER EXNER, assim ementado:
+Apelação. Embargos de terceiro. Fiança oferecida em contrato de locação pelo cônjuge da embargante sem concessão outorga conjugal.
+Garantia prestada em data anterior ao casamento, não tendo o fiador, nos aditamentos posteriores, informado a alteração do estado civil.Ausência de outorga que não macula o ato praticado, quando o cônjuge presta declaração falsa, informando o estado civil de solteiro, em conformidade com a jurisprudência do Superior Tribunal de Justiça.
+Recurso provido (e-STJ, fl. 230).
+Inconformada, JÚLIA interpôs recurso especial com fulcro no art. 105, III, a e c, da Constituição Federal, apontando violação dos arts. 790, IV, do NCPC; 1.643, 1.644, 1647, III, 1.649 e 1.650 do CC/02, ao sustentar, em síntese, que deve ser mantida a eficácia apenas parcial da fiança prestada sem outorga conjugal, resguardando-se a meação do cônjuge que não participou do negócio jurídico.
+Assim, requereu a liberação de 50% dos valores bloqueados nas contas bancárias de seu cônjuge.
+Em juízo de admissibilidade, a presidência da Seção de Direito Privado do Tribunal de Justiça de São Paulo inadmitiu o apelo nobre.
+Nesta Corte, o agravo foi conhecido para dar provimento ao recurso recurso especial, nos termos da decisão monocrática da minha lavra assim indexada:
+CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. FIANÇA LOCATÍCIA. OUTORGA UXÓRIA. AUSÊNCIA.OMISSÃO DO ESTADO DE CASADO. RECURSO ESPECIAL.INTERPOSTO NA VIGÊNCIA DO NCPC. MITIGAÇÃO DA SÚMULA Nº 332 DO STJ. PRESERVAÇÃO DA MEAÇÃO DO CÔNJUGE QUE NÃO SE OBRIGOU COMO FIADOR. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL (e-STJ, fl. 321).
+Nestes integrativos JULIA afirma que o decisum padece do vício da omissão, na medida em que não houve manifestação quanto a fixação dos ônus da sucumbência em favor da embargante que passou a ser vencedora.
+A impugnação foi apresentada (e-STJ, fls. 334/340).
+É o relatório.
+DECIDO.
+De plano, vale pontuar que o recurso ora em análise foi interposto na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+JULIA afirma que o decisum padece do vício da omissão, na medida em que não houve manifestação quanto a fixação dos ônus da sucumbência em favor da embargante que passou a ser vencedora.
+O recurso comportaacolhimento.
+Isso porque na decisão embargada ficou expressamente assentado queo cônjuge da recorrente JÚLIA era solteiro quando assumiu a condição de fiador, não tendo informado a modificação de seu estado civil para casado em seus aditamentos realizados após o matrimônio, em violação do princípio da boa-fé objetiva.Assim, deve ser anulada parcialmente a fiança, preservando-se a eventual meação de JÚLIA, razão pela qual foi dado provimento ao apelo especial, sem, contudo, se fixar os ônus sucumbenciais.
+Forçoso reconhecer, nessa parte, a existência de violação do art. 1.022, do NCPC.
+Assim, a parte dispositiva da decisão ora embargada restará assim redigida (e-STJ, fl. 324):
+Nessas condições, com fundamento no art. 1.042, § 5º, do NCPC, c/c o art.253 do RISTJ (com a nova redação que lhe foi dada pela Emenda nº 22 de 16/3/2016, DJe 18/3/2016), CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial e declarar a nulidade parcial da fiança, preservando-se eventual meação de JÚLIA.Determino a liberação de 50% dos valores bloqueados em nome do cônjuge Fábio Fernandes Cardoso, invertendo-se os ônus sucumbenciais fixados no acórdão impugnado.
+Nessas condições, ACOLHO os embargos de declaração opostos por JULIA, para sanar a omissão apontada conforme explicitado.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022, DO NCPC.OMISSÃO APENAS QUANTO A FIXAÇÃO DOS ÔNUS SUCUMBENCIAIS.EMBARGOS DE DECLARAÇÃO ACOLHIDOS SEM EFEITOS INFRINGENTES.
