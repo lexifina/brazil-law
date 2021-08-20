@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Banco Votorantim S.A., fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de Minas Gerais, assim ementado:
+APELAÇÃO-EMBARGOS À EXECUÇÃO FISCAL-IPVA-FATO GERADOR-PROPRIEDADE FIDUCIÁRIA-INSTITUIÇÃO FINANCEIRA-QUALIDADE DE CONTRIBUINTE-ART. 121, DO CTN-ARTIGOS 1.367, 1.368-A E 1.368-B, DO CC-SUJEIÇÃO PASSIVA CARACTERIZADA-EXPRESSA PREVISÃO LEGAL-LEI N. 14.937/2003-COMPETÊNCIA LEGISLATIVA PLENA-RECURSO NÃO PROVIDO.
+- Em razão da competência plena outorgada pela Constituição da República aos estados federados para a regulamentação do IPVA (art. 24, § 3o, CF), inexiste a ilegalidade na figuração do credor fiduciário, na qualidade de proprietário do bem, como contribuinte do imposto, conforme previsto no artigo 4o, da Lei Estadual n. 14.937/2003, em consonância com o art. 121, parágrafo único, inciso I, do Código Tributário Nacional.
+- Recurso não provido.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, orecorrente alega violação dos seguintes dispositivos: a) art. 1.022, II, do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissões; b) arts.1.228, 1.361, 1.365, 1.367 e 1.368-B do Código Civil e 110 do Código Tributário Nacional, aduzindoalienação fiduciária não há transferência de propriedade, relativamente aos poderes de usar, gozar e dispor da coisa e de reavê-la, havendo tãosomente transferência de propriedade resolúvel, adstrita a figurar como garantia real quanto a débito assumido pelo fiduciante perante o fiduciário, de forma que este somente poderá reaver o bem nos caso de inadimplemento da obrigação; c) arts.121, parágrafo único, I, e 124, I e II, do Código Tributário Nacional,argumentando que a Lei Estadual no 14.937/2003 não poderia estabelecer o credor fiduciário como contribuinte do IPVA, por ausência de relação pessoal e direta com o fato gerador.
+Houve contrarrazões (e-STJ fls. 391/404).
+Sobreveio juízo negativo de admissibilidade pela ausência de negativa de prestação jurisdicional, pelaincidência da Súmula n. 280/STF e pela conformidade do acórdão recorrido com a jurisprudência desta Corte Superior sobre o tema.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 495/502).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante deixou de impugnaros fundamentos adotados na decisão de inadmissibilidade.
+Observo que é entendimento consolidado no âmbito do STJ segundo o qual a Corte a quo não usurpa competência desse Tribunal ao adentrar no mérito do recurso especial ainda no juízo prévio de admissibilidade, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia. Dessa forma, a argumentação da agravante não possui o condão de rebater os fundamentos da decisão proferida na origem, atraindo o óbice da Súmula n. 182/STJ.
+Exemplificativamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DA DECISÃO DE INADMISSIBILIDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. É entendimento consolidado no âmbito do STJ segundo o qual a Corte a quo não usurpa competência desse Tribunal ao adentrar no mérito do recurso especial ainda no juízo prévio de admissibilidade, por constituir atribuição do Tribunal examinar os pressupostos específicos e constitucionais relacionados ao mérito da controvérsia. Precedentes.
+2. Caberia ao agravante demonstrar o desacerto da decisão agravada, ou seja, a desnecessidade de revolvimento de matéria fático-probatória (Súmula n. 7/STJ) e de análise de direito local (Súmula n. 280/STF) e a efetiva realização de cotejo analítico quanto à alínea "c", o que não ocorreu in casu. Ausência de impugnação específica. Precedentes.
+3. Agravo interno não provido.
+(AgInt no AREsp 1490466/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 27/08/2019, DJe 30/08/2019)
+Uma vez aplicada a Súmula n. 280/STF, cabia à parte demonstrar as razões pelas quais o acolhimento da pretensão recursal não exigea análise da legislação local. Ademais, com relação à jurisprudência deste e.STJ aplicada na decisão de inadmissão, caberia ao agravantedemonstrar que o decisium combatido está contrário à jurisprudência dessa Egrégia Corte de Justiça, o que não ocorreu in casu.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. EXAME DE MÉRITO PELA CORTE DE ORIGEM. POSSIBILIDADE.AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
