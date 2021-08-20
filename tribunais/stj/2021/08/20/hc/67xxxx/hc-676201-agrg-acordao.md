@@ -1,0 +1,60 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. INDEFERIMENTO LIMINAR DO WRIT, PELA INCIDÊNCIA DA SÚMULA N. 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. AGRAVO DESPROVIDO.
+I - O mandamus impetrado na eg. Corte de origem teve o pedido de urgência indeferido. Assim, impetrado habeas corpus nesta Corte em face de tal decisão, e não se vislumbrando flagrante ilegalidade ou teratologia, incide ao caso o teor da Súmula n. 691/STF, segundo a qual "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+II - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo Regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto porEMERSON DA SILVA LINS,MARCIO HIDEO KUSAHARA,EVERTON CABRAL LIMA,em face de decisão monocrática queindeferiu liminarmente o writ, aplicando-se o disposto na Súmula n. 691/STF.
+Consta dos autos a prisão temporária dos pacientes, em razão da suposta prática do delito de homicídio.
+Aduz a agravantea ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar formulado em habeas corpus impetrado perante o Tribunal local, visando a soltura dos pacientes.
+Sustenta, em síntese, a existência de condições pessoais favoráveis aos pacientes, a desnecessidade da medida extrema e a ausência de contemporaneidade do decreto prisional.
+Requer a concessão da ordempara que sejam revogadas as prisões temporárias dos pacientes.
+O Ministério Público Federal, às fls. 209-211 manifestou-se pelo desprovimento do recurso.
+Por manter a decisão agravada, submeto o feito à Quinta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. INDEFERIMENTO LIMINAR DO WRIT, PELA INCIDÊNCIA DA SÚMULA N. 691/STF. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. AGRAVO DESPROVIDO.
+I - O mandamus impetrado na eg. Corte de origem teve o pedido de urgência indeferido. Assim, impetrado habeas corpus nesta Corte em face de tal decisão, e não se vislumbrando flagrante ilegalidade ou teratologia, incide ao caso o teor da Súmula n. 691/STF, segundo a qual "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+II - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+Agravo Regimental desprovido.
+VOTO
+Presentes os requisitos de admissibilidade, conheço do agravo.
+Pretende o agravante a reforma da decisão que fez incidir para o caso o enunciado n. 691, da Súmula do Supremo Tribunal Federal, uma vez que o habeas corpus investiu contra denegação de liminar na origem.
+Contudo, o recurso não merece provimento.
+Isso porque, como consignado na decisão agravada, o presente writ investe contra decisão proferida por em. Desembargador de Tribunal de Justiça que denegou o pedido liminar em habeas corpus impetrado na origem, no qual a Defesa pretende a revogação das prisões temporárias decretadas em desfavor dos pacientes.
+Insta consignar que a jurisprudência desta eg. Corte há muito já se firmou no sentido de que, ressalvadas hipóteses excepcionais, descabe o instrumento heróico em situação como a presente, sob pena de ensejar supressão de instância.
+Com efeito, na presente hipótese, não vislumbrei a existência de qualquer flagrante ilegalidade, apta a ensejar o afastamento do óbice contido na Súmula n. 691/STF. Não entendo configurada a existência de qualquer ilegalidade na decisão proferida na origem, pois não verificou o e. Desembargador Relator flagrante constrangimento ilegal capaz de ensejar o deferimento do pedido liminar.
+Assim, insta consignar, por mais uma oportunidade, que, não se vislumbrando flagrante ilegalidade no caso, ou teratologia da decisão que indeferiu a liminar em writ impetrado na origem, deve incidir o teor da Súmula n. 691/STF, segundo a qual "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Sobre o tema, confiram-se os seguintes precedentes desta eg. Corte:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DA INICIAL. SÚMULA 691/STF. NÃO COMPROVAÇÃO DE ILEGALIDADE OU TERATOLOGIA ALEGADA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Na hipótese, o Tribunal de origem indeferiu a liminar, pelo fundamento de que "policiais civis, por meio de investigações que evidenciaram o envolvimento do paciente e de Cristiano Pereira com o tráfico ilícito de drogas, chegaram à apreensão de grande quantidade e variedade de entorpecente (3.893 gramas de skunk, 18.450 porções de LSD, 2.884 comprimidos de Ecstasy), além de balança de precisão e anabolizantes, que estavam na posse do corréu Bruno Rodrigues de Souza, o qual, na oportunidade, declarou que conhecia o paciente, demonstrando profunda insatisfação com ele. Há notícia, ainda, de que Bruno seria distribuidor de entorpecente, fazendo entregas ao paciente."
+3. As possíveis ilegalidades e teratologias aptas à mitigação da mencionada Súmula a justificar manifestação antecipada deste Superior Tribunal de Justiça não foram apontadas pela defesa.
+4. Agravo regimental desprovido" (AgRg no HC n. 400.708/SP, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 27/9/2017).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. HC IMPETRADO CONTRA DECISÃO QUE INDEFERIU LIMINAR NO TRIBUNAL A QUO. SÚMULA 691/STF. EXECUÇÃO PROVISÓRIA DA PENA. ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS. AUSÊNCIA DE ILEGALIDADE FLAGRANTE. REGIMENTAL DESPROVIDO.
+1. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de não caber habeas corpus contra decisão que indefere liminar na origem, na esteira da Súmula n. 691 do Supremo Tribunal Federal, aplicável por analogia, salvo no caso de flagrante ilegalidade ou teratologia da decisão impugnada.
+2. A decisão atacada não se apresenta teratológica ou flagrantemente ilegal, porquanto o STF passou a admitir a execução provisória da pena, após o esgotamento das instâncias ordinárias, como no caso concreto.
+3. Agravo Regimental desprovido" (AgRg no HC n. 409.876/RS, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 26/9/2017).
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. IMPETRAÇÃO CONTRA DECISÃO DE DESEMBARGADOR QUE INDEFERIU PEDIDO LIMINAR. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. ÓBICE DA SÚMULA 691 DO STF. RECURSO NÃO PROVIDO.
+1. Nos termos do enunciado da Súmula n. 691 do Supremo Tribunal Federal, "não compete ao Supremo Tribunal Federal conhecer de "habeas corpus" impetrado contra decisão do relator que, em "habeas corpus" requerido a Tribunal Superior, indefere a liminar".
+2. O referido óbice é ultrapassado tão somente em casos excepcionais, nos quais a evidência da ilegalidade é tamanha, que não escapa à pronta percepção do julgador, o que, todavia, não ocorre na hipótese, em que foram apontados elementos concretos que, ao menos à primeira vista, evidenciam a gravidade concreta do delito em tese cometido, a ensejar, por conseguinte, a necessidade de manutenção da custódia preventiva para a garantia da ordem pública.
+3. Não está evidenciada, de maneira patente, nenhuma delonga injustificada para o eventual oferecimento de denúncia, capaz de ensejar a superação da Súmula n. 691 do Supremo Tribunal Federal, haja vista que os autos do inquérito policial têm tido tramitação regular, conforme informações prestadas pelo Juiz de primeiro grau.
+4. Agravo regimental não provido" (AgRg no HC n. 404.872/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 22/9/2017).
+Ademais, verifico que o agravante não aduz qualquer argumento novo e apto a ensejar a alteração da decisão ora agravada, devendo esta ser mantida por seus próprios fundamentos.
+Acerca do tema, cito os seguintes precedentes desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. FURTO QUALIFICADO TENTADO. CONCURSO DE AGENTES. MENORES. PRINCÍPIO DA INSIGNIFICÂNCIA. RES FURTIVA. 10% SALÁRIO-MÍNIMO. IMPOSSIBILIDADE DE INCIDÊNCIA. AGRAVO DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - Com efeito, este Tribunal Superior tem entendimento pacificado no sentido de que há a atipicidade material da conduta pela incidência do princípio da insignificância quando estiverem presentes todos os vetores para sua caracterização, quais sejam: (a) mínima ofensividade da conduta; (b) nenhuma periculosidade social da ação; (c) reduzido grau de reprovabilidade do comportamento, e; (d) inexpressividade da lesão jurídica provocada.
+III - Ocorre que, na hipótese dos autos, não é possível o reconhecimento do benefício, uma vez que o valor dos objetos subtraídos, avaliados em R$ 272,00 (duzentos e setenta e dois reais), não pode ser considerado irrisório, já que equivale a mais de 10% (dez por cento) do salário mínimo vigente à época do fato (R$ 937,00). Precedentes.
+IV - De mais a mais, "inviável o reconhecimento de crime bagatelar, in casu, porquanto o delito foi praticado em concurso de agentes e na companhia de menores, o que, nos termos da jurisprudência deste Tribunal Superior, impede a aplicação do referido brocardo" (AgRg nos EDcl no RHC n. 83.441/MG, Quinta Turma, Rel. Min. Jorge Mussi, DJe 13/04/2018).
+Agravo regimental desprovido" (AgRg no HC n. 542.737/PR, Quinta Turma, Rel. Min. Leopoldo de Arruda Raposo (Desembargador convocado do TJPE), DJe de 13/12/2019, grifei).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. INSIGNIFICÂNCIA NÃO CARACTERIZADA. REINCIDÊNCIA. INCOMPATIBILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O agravante não apresentou novos argumentos em relação à possibilidade de reconhecimento da bagatela ante a constatação da reincidência. Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+2. Agravo regimental não provido" (AgRg no AREsp n. 1.124.620/MG, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 1º/08/2018, grifei).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
