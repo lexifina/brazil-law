@@ -1,0 +1,67 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Buzzi e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Aplicabilidade do NCPC neste julgamento conforme o Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do NCPC).
+3. O alegado ponto omisso não ocorreu diante da ausência de demonstração da divergência alegada no recurso uniformizador, nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ, limitando-se a embargante a citar o número dos julgados paradigmas e a transcrever as respectivas ementas, o que constitui vício substancial insanável.
+4. Embargos de declaração rejeitados.
+RELATÓRIO
+JOSÉ DE PAULO DO NASCIMENTO JUNIOR e ALEXSANDRA RIBEIRO CAMELO (JOSÉ e outra) ajuizaram ação de reparação por danos morais contra a EMPRESA JORNALÍSTICA O POVO S.A. e TV JANGADEIRO LTDA. (EMPRESAS JORNALÍSTICAS), alegando que foi divulgada matéria que deu ensejo à ofensa de suas honras.
+A sentença julgou improcedente o pedido.
+o Tribunal de Justiça do Estado do Ceará deu provimento à apelaçãointerposta por JOSÉ e outra, reformando a sentença de primeiro grau para condenar as EMPRESAS JORNALÍSTICAS no pagamento do valor de R$ 20.000,00 (vinte mil reais), a título de reparação de danos morais, acrescido de juros desde a data do evento danoso e correção monetária a partir do acórdão.
+Inconformadas, as EMPRESAS JORNALÍSTICAS interpuseram recurso especial que não foi provido em decisão monocrática do Relator, Ministro MARCO BUZZI.
+Contra essa decisão foi interposto agravo interno, não provido pela Quarta Turma do STJ:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO EXTREMO. INSURGÊNCIA DA DEMANDADA.
+1. O acórdão recorrido está em consonância com a jurisprudência desta Corte a respeito da interpretação dada ao art. 200 do Código Civil, segundo a qual, em se tratando pretensão indenizatória fundada na responsabilidade civil por fato que fora apurado no juízo criminal, não corre a prescrição antes do advento da respectiva sentença penal. Incidência da Súmula 83/STJ.
+2. Na hipótese, para derruir as conclusões do acórdão recorrido, no sentido da existência de sentença penal relacionada aos fatos que deram ensejo a presente demanda, seria necessário o reexame do acervo fático-probatório dos autos, providência vedada na estreita via do recurso especial, a teor da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido.
+Na sequência, as EMPRESAS JORNALÍSTICAS apresentaram embargos de divergência apontando a existência de dissenso do acórdão da Quarta Turma com os seguintes julgados: (1) REsp n. 1.307.439/SP, proferido pela Terceira Turma, AgInt no AREsp n. 1.413.336/BA e AgInt nos EDcl nos EDcl no AgRg no AREsp n. 565.154/SP, proferidos pela Quarta Turma, ao entendimento de que a pretensão de compensação de danos morais decorrentes da publicação de matéria jornalística de conteúdo ofensivo pode ser proposta desde a publicação da matéria, não havendo que se falar em aplicação analógica da ação civil ex delicto ou em causa impeditiva de prescrição; (2) AgRg no AREsp n. 496.307/RS, proferido pela Terceira Turma, no sentido de que, uma vez veiculada matéria jornalística que se reputa ofensiva à honra, tem-se por configurado, em tese, dano moral capaz de ensejar ação de indenização, cujo termo inicial, para fins de prescrição, é a própria data da publicação da referida matéria; e (3) AREsp n. 1.382.409/SP, relatado pelo Ministro Marco Buzzi e AgInt no AREsp n. 1.279.030/SP, relatado pelo Ministro Luis Felipe Salomão, ao entendimento de que a pretensão de indenização por danos morais decorrentes de veiculação de matéria jornalística que noticia a existência de investigações ou ações penais em curso não depende do resultado na seara criminal. O dever de indenizar, nessa situação, provém do abuso do direito de informar, e não de eventual absolvição do réu, de modo que o lapso prescricional inicia na data da publicação da reportagem (e-STJ, fls. 1.061/1.126).
+Os embargos de divergência foram rejeitados liminarmente, por decisão do Presidente do STJ, Ministro JOÃO OTÁVIO DE NORONHA, diante da falta de comprovação da divergência nos termos do art. 1.043, § 4º, do NCPC e do art. 266, § 4º, do RISTJ.
+Contra essa decisão as EMPRESAS JORNALÍSTICAS interpuseram agravo interno sustentando que o dissenso jurisprudencial deve ser conhecido e provido porque o direito de acesso ao Judiciário foi violado diante da rejeição liminar dos embargos em virtude da falta de comprovação da divergência nos termos do art. 1.043, § 4º, do NCPC e do art. 266, § 4º, do RISTJ (e-STJ, fls. 1.140/1.170).
+A impugnação foi apresentada às e-STJfls. 1.172/1.185.
+Os autos foram a mim distribuídos, por força do art. 21-E, § 2º, do RISTJ (e-STJ, fl. 1.188).
+O agravo interno não foi provido pela Segunda Seção do STJ, em acórdão assim ementado:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DESATENDIMENTO AOS REQUISITOS PARA COMPROVAÇÃO DO DISSENSO PRETORIANO. MERA TRANSCRIÇÃO DO ACÓRDÃO PARADIGMA NÃO SUPRE A EXIGÊNCIA LEGAL E REGIMENTAL. VÍCIO SUBSTANCIAL INSANÁVEL. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do novo Código de Processo Civil, devendo ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A ausência de demonstração da divergência alegada no recurso uniformizador - nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ - constitui claramente vício substancial, resultante da não observância do rigor técnico exigido na interposição do presente recurso, apresentando-se, pois, descabida a incidência do parágrafo único do art. 932 da Lei n.
+13.105/2015 para complementação de fundamentação (AgInt nos EAREsp 1.238.270/RS, Rel. Ministro JORGE MUSSI, Corte Especial, j. 13/10/2020, DJe 27/10/2020).
+3. Agravo interno não provido. (e-STJ, fls. 1.192/1.193)
+Nesta oportunidade as EMPRESAS JORNALÍSTICAS opuseram os presentes embargos de declaração sustentando que o julgado é omisso porque a divergência foi demonstrada de acordo com o disposto no art. 1.043, § 4º, do CPC, devendo ser reconhecida a prescrição do direito autoral em face da reportagem objeto do processo (e-STJ, fls. 1.203/1.208).
+A impugnação foi apresentada às e-STJfls. 1.221/1.231.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. ART. 1.022 DO NCPC. OMISSÃO. INEXISTÊNCIA. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+1. Aplicabilidade do NCPC neste julgamento conforme o Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Os aclaratórios são espécie de recurso de fundamentação vinculada, exigindo para seu conhecimento a indicação de erro material, obscuridade, contradição ou omissão em que teria incorrido o julgador (art. 1.022 do NCPC).
+3. O alegado ponto omisso não ocorreu diante da ausência de demonstração da divergência alegada no recurso uniformizador, nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ, limitando-se a embargante a citar o número dos julgados paradigmas e a transcrever as respectivas ementas, o que constitui vício substancial insanável.
+4. Embargos de declaração rejeitados.
+VOTO
+Os embargos de declaração não merecem prosperar.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto, conforme o Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Os embargos de divergência foram opostos sustentando dissenso entre as Turmas que compõem a Segunda Seção do STJ quanto ao termo a quo do prazo prescricional da pretensão indenizatória fundada na responsabilidade civil por fato que foi apurado no juízo criminal.
+O recurso foi rejeitado liminarmente diante da ausência de demonstração da divergência alegada no recurso uniformizador, nos moldes exigidos pelo art. 1.043, § 4º, do CPC e pelo art. 266, § 4º, do RISTJ.
+Contra essa decisão foi interposto agravo interno, que não foi provido pela Segunda Seção do STJ.
+Nessa oportunidade foram opostos os presentes embargos de declaração, que não merecem acolhimento.
+O recurso em análise se constitui em tentativa de se alterar o julgado, pelo simples fato de não ter sido favorável, o que não se admite na via dos aclaratórios.
+Os embargos de declaração constituem recurso de estreitos limites processuais, somente sendo cabíveis nas hipóteses previstas no art. 1.022 do NCPC, ou seja, para sanar omissão, contradição, obscuridade ou corrigir erro material no acórdão, o que não ocorreu no caso presente.
+A mera veiculação de inconformismo não é finalidade a que se prestam.
+Nesse sentido, confiram-se os precedentes:
+EMBARGOS DE DECLARAÇÃO. OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO OU ERRO MATERIAL. INEXISTÊNCIA. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA.
+1. Rejeitam-se os embargos declaratórios quando, no acórdão embargado, não há nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+2. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 214.812/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Terceira Turma, julgado em 19/5/2016, DJe 24/5/2016 - sem destaque no original)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de meramente dar efeito modificativo ao recurso.
+2. No caso dos autos não ocorre nenhuma das hipóteses previstas no artigo 1.022 do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão.
+3. Na presente hipótese, ficou claro no aresto embargado que a alegação de desídia da parte ora embargada, que teria deixado de apresentar a procuração da parte contrária no momento da interposição do agravo de instrumento na origem (art. 525, I, do CPC/73), foi veiculada em momento inoportuno de modo a caracterizar inovação recursal.
+4. Ao STJ não é permitido interferir na competência do STF, sequer para prequestionar questão constitucional suscitada em sede de embargos de declaração, sob pena de violar a rígida distribuição de competência recursal disposta na Constituição. (EDcl no AgRg no AREsp 305.582/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 6/6/2013, DJe 13/6/2013).
+5. Embargos de declaração rejeitados.
+(EDcl no AgRg no AREsp 817.655/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 19/5/2016, DJe 27/5/2016 - sem destaque no original)
+O alegado ponto omisso não ocorreu diante da ausência da juntada aos autos o inteiro teor dos acórdãos paradigmas. As embargantes limitaram-se a citar o número dos julgados paradigmas e a transcrever as respectivas ementas, o que constitui vício substancial insanável.
+Em suma, é manifesto o caráter infringente da pretensão, uma vez que os embargos de declaração foram utilizados indevidamente como sucedâneo recursal e não com o intuito de sanar vício processual.
+Nessas condições, REJEITO os embargos de declaração.
+É o voto.
