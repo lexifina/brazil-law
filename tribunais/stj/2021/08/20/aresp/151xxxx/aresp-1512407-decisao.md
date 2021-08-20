@@ -1,0 +1,22 @@
+DECISÃO
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. AGENTE PÚBLICO. CONDUTA. IMPROBIDADEADMINISTRATIVA. CONFIGURAÇÃO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO EM RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto porNILTON REGIS CORREA BARRETO, com fundamento no art. 105, inciso III, alíneas a,da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Mato Grosso, assim ementado:
+ADMINISTRATIVO - APELAÇÃO CÍVEL COM REEXAME NECESSÁRIO DA SENTENÇA-AÇÃO CIVIL PÚBLICA- ATO DE IMPROBIDADE ADMINISTRATIVA - PRESIDENTE DO SERVIÇO ANTÔNOMO" DE ÁGUA E ESGOTO- PAGAMENTO A MAIOR DE VALORES REFERENTES À DIÁRIAS DE VIAGENS-DEMONSTRAÇÃO- NÃO RECOLHIMENTO DA PREVIDÊNCIA PATRONAL- PAGAMENTO POSTERIOR - CONFIGURAÇÃO DE ATO ÍMPROBO-VIOLAÇÃO AOS . PRINCÍPIOS ADMINISTRATIVOS-CARACTERIZAÇÃO DOS ARTIGOS 10 E 11, DA LIA- DEMAISCONDUTAS-MERASIRREGULARIDADES- SANÇÃO ADMINISTRATIVA- DEVER DE RESSARCIMENTO - MULTA CIVIL -PROPORCIONALIDADE - CONDENAÇÃO MANTIDA - RECURSO DESPROVIDO - SENTENÇA RATIFICADA.
+Constituem ato de improbidade administrativo que causa lesão ao erário e que ensejam a perda patrimonial desvio, apropriação, malbaratamento ou dilapidação dos bens públicos.
+As meras irregularidades não ensejam a aplicação das sanções previstas na Lei nº 8.429/1992, pois a legislação objetiva a punição do ato desonesto e corrupto.
+A penalidade de multa civil há de se ajustar às circunstâncias concretas, observados o princípios da razoabilidade e da proporcionalidade, justificando-se, na hipótese, a redução da multa civil imposta, em razão da inexistência de prejuízo ao erário (fls. 467).
+2. Os embargos de declaração opostos foram rejeitados (fls. 507/512).
+3. Nasrazões do seurecurso especial (fls. 515/523), a parte agravante sustenta violação dos artigos 10, caput, e 11 da Lei 8.429/92.Argumenta, para tanto, estar ausente, no presente caso, qualquer conduta dolosa nas ações praticadas.
+4. Devidamente intimada, a parte agravada apresentou as contrarrazões (fls. 538/554).
+5. Sobreveio o juízo de admissibilidade negativo(fls. 556/560),fundadona incidência da Súmula 7/STJ; razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8.Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9.Ainda, nos exatos termos do acórdão recorrido, o tribunal de origem assim se manifestou sobre o tema:
+Cada documento foi devidamente apreciado, e os que apresentaram distorções, entre o período realmente cumprido e respectivo pagamento, provaram que a sentença deve ser mantida, porque configurado o ato ímprobo previsto no artigo 10, da LIA, uma vez que o Embargante, incorporou ao seu patrimônio particular, valores a mais, referentes às diárias concedidas para viagens a serviço do município.
+De igual modo, quanto à condenação, em razão do não pagamento da previdência social, que ensejou a aplicação das sanções previstas no artigo12, III, da Lei de Improbidade Administrativa.
+Foi consignado na decisão que o não cumprimento da obrigação previdenciária configura a violação aos princípios administrativos, porque fere o dever do empregador e o direito do empregado, inerente à função remunerada, assim, o fato deter sido, posteriormente, quitada não afasta a sanção por descumprimento, em tempo hábil, do repasse das referidas verbas (fl. 511).
+10. Com efeito, a Corte localreconheceu estar caracterizado ato de improbidade administrativa, no presente caso, bem como concluiu haver dolo na conduta do agente. Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+11. Em face do exposto, nega-seprovimento ao agravo em recuso especial.
+12. Publique-se.
+13. Intimem-se.
