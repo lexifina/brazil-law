@@ -1,0 +1,14 @@
+DECISÃO
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ. AUSÊNCIA DOS VÍCIOS DESCRITOS NO ART. 1.022 DO CPC/2015. MERO INCONFORMISMO DA PARTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Trata-se de Embargos de Declaração no Agravo em Recurso Especial opostos por CALF - CALÇADOS E E EPISS/A. contra decisão de minha relatoria, ementada nos seguintes termos:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. MERA REITERAÇÃO DAS RAZÕES DO RECURSO ESPECIAL. SÚMULA 182 DO STJ. AGRAVO DA EMPRESA NÃO CONHECIDO.
+2. A embargante alegater impugnado os fundamentos da decisão agravada, bem como suscita negativa de prestação jurisdicional por omissão acerca de questões atinentes ao lançamento do crédito tributárioe à prescrição.
+3. Requer sejam acolhidos os presentes Embargos de Declaração, com fins de suprir a omissão apontada.
+4. É o relatório.
+5. O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+6. Destarte, infere-se que, não obstante pacífica a orientação acerca da natureza recursal dos Declaratórios, singularmente, não se prestam ao rejulgamento da lide, mediante o reexame de matéria já decidida, mas apenas à elucidação ou ao aperfeiçoamento do decisum em casos justamente nos quais eivado de obscuridade, contradição ou omissão; não têm, pois, de regra, caráter substitutivo ou modificativo, é dizer, o condão de alterar, livre e substancialmente, o decisório em seu dispositivo, mas aclaratório ou integrativo, daí não sendo seu processamento norteado pelos princípios do contraditório e da igualdade.
+7. Com efeito, os Embargos de Declaração não podem ser utilizados com a finalidade de sustentar eventual incorreção do decisum hostilizado ou de propiciar novo exame da própria questão de fundo, em ordem a viabilizar, em sede processual inadequada, a desconstituição de ato judicial regularmente proferido.
+8. Na vertente hipótese, verifico não estarem presentes os vícios descritos no art. 1022 do CPC/2015 porquanto a decisão agravada não conheceu do recurso por ausência de impugnação específica aos fundamentos da decisão de inadmissibilidade do recurso especial, notadamente, à incidência da Súmula 7/STJ.
+9. Assim, ante os argumentos expressos, observa-se que o embargante mostra-se insatisfeito com a decisão recorrida, o quenão é suficiente para o acolhimento dos embargos de declaração
+10. Diante do exposto, rejeitam-se os Embargos Declaratórios opostos porCALF - CALÇADOS E EPISS/A.
+11. Publique-se. Intimações necessárias.
