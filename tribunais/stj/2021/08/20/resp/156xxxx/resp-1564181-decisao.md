@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de recurso especial interposto pela Fazenda Nacional, com fundamento na alínea "a" do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 5ª Região, assim ementado:
+TRIBUTÁRIO. COMPENSAÇÃO DE CRÉDITO COM DÉBITO DE TERCEIRO. DECLARAÇÃO DE DÉBITOS E CRÉDITOS TRIBUTÁRIOS FEDERAIS (DCTF"S). MP No 135/2003. LEI No 9.430/96, ART. 74, §§ 6o, 12 E 13. NECESSIDADE DE LANÇAMENTO DE OFÍCIO. DECADÊNCIA. OCORRÊNCIA.
+1. A MP no 135 de 2003, posteriormente convertida na Lei no 10.833/2003, prevê, em seu artigo 18, não ser necessário o lançamento de ofício pela Fazenda Pública para cobrar diferença de débito apurado em DCTF oriunda de compensação indevida apenas a partir de 31 de outubro de 2010.
+2. O § 12, inciso II, alíneas "a" e "d", do art. 74 da Lei no 9.430 de 1996 preceitua que serão consideradas não declaradas a compensação em que o crédito seja de terceiro ou aquela que seja decorrente de decisão judicial transitada em julgado, respectivamente.
+3.In casu, o contribuinte protocolou junto à Receita Federal do Brasil Pedidos de Compensação de Crédito com Débito de Terceiro, visando compensar valores relativos a contribuição de PIS e COFINS dos períodos de apuração de outubro de 2001 a fevereiro de 2002, os quais foram informados nas Declarações de Débitos e Créditos Tributários Federais, recebidas pela Delegacia da Receita Federal em 07 de fevereiro de 2002 e 09 de maio de 2002.
+4. Depois de transcorridos dez anos dos pedidos de compensação e da informação nas DCTF"S, o contribuinte recebeu do Fisco cobrança dos referidos créditos em virtude de decisão do STJ, transitada em julgado em 2009, a qual revogou decisão anterior que reconhecia débitos da empresa S/A LEÃO IRMÃO AÇÚCAR E ÁLCOOL e determinava a compensação ora discutida.
+5. O crédito em questão remete a período anterior à MP no 135 de 2003, o que evidencia o dever da Fazenda em lançar de ofício os valores compensados indevidamente, de tal modo que não há que se falar em prescrição se não houve crédito constituído, havendo, contudo, até a presente data, a ocorrência da decadência.
+6. O § 13o do art. 74 da Lei no 9.430/96, ao afastar a aplicação do § 6o, estabelece que o requerimento decompensação apresentado ao fisco não se qualifica como confissão de dívida.
+7. Apelação provida.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, aponta a parte recorrente violação dos seguintes dispositivos: a) art. 535 do Código deProcessoCivil de 1973, sustentando que o acórdão recorrido padece de omissão; b) art. 156, II, do Código Tributário Nacional, aduzindo que não houvedecadênciado direito de lançar os créditos tributários na medida em que o Fisco estava impedido de agir em virtude de decisão judicial.
+Houve contrarrazões (e-STJ fls. 357/358).
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 2/STJ: "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça".
+Cuida-se, na origem, mandado de segurança impetrado pela ora recorrida pleiteando oreconhecimentoda inexigibilidade dos créditos tributários constantes nos Pedidos de Compensação de Crédito com Débitos de Terceiros. O pleito foi acolhido pela Corte local em virtude da decadência do direito do Fisco de lançar os valores indevidamente compensados.
+A insurgência não merece prosperar.
+Preliminarmente, sustenta-se que o aresto combatido restou omisso com relação à tese suscitada pela parte no sentido de que não houve inércia, uma vez que, à luz do art. 156, II, do CTN, o Fisco estava impedido de agir.
+No ponto, não verifico a omissão apontada.
+Acerca da questão, o Tribunal local expressamente fundamentou que (e-STJ fl. 309):
+Embora o apelado sustente que sua inércia decorreu do fato de estar submetido a decisão judicial que determinou a compensação, alegando que a exigibilidade do crédito estava suspensa, não há que se falar em exigibilidade se não houve crédito constituído. O dispositivo apresentado pela Fazenda, para afirmar a constituição do crédito, qual seja o art. 5o do Decreto-Lei no 2.124 de 13 de junho de 1984, refere-se a legislação do imposto de renda, quando nos autos o que se discute é a constituição de créditos relativos a contribuição para PIS e COFINS.
+Da leitura verifico que a tese restou devidamente analisada, embora em sentido contrário à pretensão recursal, de forma que não se pode falar em negativa de prestação jurisdicional.
+No mérito, a parte argumenta que o debate judicial sobre os créditos em questão impossibilitou o lançamento, não havendo que se falar em inércia fazendária.
+Sobre o tema, colaciono excerto do decisium combatido (e-STJ fls. 308/309):
+Os créditos em questão foram objeto de compensação, sendo protocolados os Pedidos de Compensação e, posteriormente, informados em DCTF"S. Tal fato, em uma primeira análise, poderia levar a compreender que a declaração por parte do contribuinte teria o condão de constituir o crédito, de tal modo que o Fisco estaria apto a proceder com sua cobrança, sem ter que se falar em decadência.
+No entanto, convém observar, que os períodos em que foram protocolados os pedidos de compensação, bem como em que foram prestadas as informações nas DCTF"S, recepcionadas pela Delegacia da Receita Federal em 07/02/2002 e 09/05/2002, são anteriores a edição da MP no 135 de 2003. A medida provisória em questão dispõe em seu artigo 18:
+"Art. 18. O lançamento de ofício de que trata o art. 90 da Medida Provisória no 2.158-35, de 24 de agosto de 2001, limitar-se-á à imposição de multa isolada sobre as diferenças apuradas decorrentes de compensação indevida e aplicar-se-á unicamente nas hipóteses de o crédito ou o débito não ser passível de compensação por expressa disposição legal, de o crédito ser de natureza não tributária, ou em que ficar caracterizada a prática das infrações previstas nos arts. 71 a 73 da Lei no 4.502, de 30 de novembro de 1964".
+Deste modo, antes da MP no 135/2003, as compensações declaradas em DCTF em que o Fisco constatasse diferença do débito apurado precisavam ser lançadas de ofício, respeitando o prazo decadencial de 5 (cinco anos) contados a partir do primeiro dia do exercício seguinte em que o lançamento poderia ter sido efetuado.
+Ademais, há de se ressaltar que o caso em questão se enquadra no disposto no art. 74 da Lei no 9.430/96, §§ 6o, 12 e 13. Conforme previsto nos autos, o crédito discutido decorre de processo judicial que não havia transitado em julgado até 2009, no qual se discutia a possibilidade de se compensar os débitos da empresa S/A LEÃO IRMÃOS AÇÚCAR E ÁLCOOL. Destarte, há de se inferir que a Fazenda Pública deveria ter considerado os créditos apresentados nas DCTF"S como não declarados, conforme previsto na norma:
+"§ 12. Será considerada não declarada a compensação nas hipóteses
+I - previstas no § 3odeste artigo;
+II - em que o crédito:
+a) seja de terceiros;
+b) refira-se a "crédito-prêmio" instituído pelo art. 1o do Decreto-Lei no 491, de 5 de março de 1969;
+c) refirase a título público;
+d) seja decorrente de decisão judicial não transitada em julgado; ou
+e) não se refira a tributos e contribuições administrados pela Secretaria da Receita Federal - SRF.
+f) tiver como fundamento a alegação de inconstitucionalidade de lei, exceto nos casos em que a lei:
+1 - tenha sido declarada inconstitucional pelo Supremo Tribunal Federal em ação direta de inconstitucionalidade ou em ação declaratória de constitucionalidade;
+2 - tenha tido sua execução suspensa pelo Senado Federal;
+3 - tenha sido julgada inconstitucional em sentença judicial transitada em julgado a favor do contribuinte; ou
+4 - seja objeto de súmula vinculante aprovada pelo Supremo Tribunal Federal nos termos do
+§ 13. O disposto nos §§ 2oe 5oa 11 deste artigo não se aplica às hipóteses previstas no § 12 deste artigo."
+Na medida que o § 13 afasta aplicação do disposto nos §§ 2oe 5oa 11 do artigo, também afastou a previsão de que os requerimentos de compensação apresentados pelo contribuinte se configuram como confissão de dívida, constituindo o crédito. Ou seja, mais uma vez, seja pelo fato dos requerimentos e declarações serem anteriores a MP no 135/2003, seja pela interpretação do art. 74 da Lei no 9.430/96, o fisco não deveria permanecer inerte, devendo lançar o crédito.
+Embora o apelado sustente que sua inércia decorreu do fato de estar submetido a decisão judicial que determinou a compensação, alegando que a exigibilidade do crédito estava suspensa, não há que se falar em exigibilidade se não houve crédito constituído. O dispositivo apresentado pela Fazenda, para afirmar a constituição do crédito, qual seja o art. 5o do Decreto-Lei no 2.124 de 13 de junho de 1984, refere-se a legislação do imposto de renda, quando nos autos o que se discute é a constituição de créditos relativos a contribuição para PIS e COFINS.
+Ou seja, os pedidos de compensação serem anteriores à edição da MP n. 135 deveria levar oFisco a considerar os créditos como não declarados, devendo proceder ao lançamento de ofício, respeitando o prazo decadencial.
+Com relação a esse fundamento, o especial restou inerte.Ademais, a tese sustentada no especialno sentido de que havia decisão judicialsuspendendo a exigibilidade do crédito não é apta a afastar a conclusão do aresto combatido na medida em que a decisão não era óbice ao lançamento.
+Assim, a argumentação recursal atrai a incidência das Súmulas n. 283 e 284 do STF.
+A propósito, cito:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. APOSENTADORIA. RECONHECIMENTO DE TEMPO URBANO. ESTÁGIO. ATIVIDADE ESPECIAL. EXPOSIÇÃO A AGENTES QUÍMICOS. AGENTE NOCIVO ELETRICIDADE. HABITUALIDADE. NÃO CARACTERIZADA. ART. 57, § 3º, DA LEI N. 8.213/91. NÃO INDICAÇÃO DE EXPOSIÇÃO A QUALQUER AGENTE NOCIVO. NÃO ENSEJA O RECONHECIMENTO DA ESPECIALIDADE DA ATIVIDADE. REEXAME FÁTICO-PROBATÓRIO. SÚMULA N.7/STJ. ARGUMENTO NÃO REBATIDO. SÚMULAS N. 283 E N. 284/STF. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE SIMILITUDE FÁTICA E JURÍDICA ENTRE OS ACÓRDÃOS.
+ ..
+VII - O fundamento apresentado naquele julgado, acerca da ausência de previsão das atividades desenvolvidas nos Anexos dos Decretos n.53.831/64 e 83.080/79, utilizado de forma suficiente para manter a decisão proferida no Tribunal a quo, não foi rebatido no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF.
+VIII - Quanto à alegada divergência jurisprudencial, verifico que a incidência do Óbice Sumular n. 7/STJ impede o exame do dissídio, na medida em que falta identidade entre os paradigmas apresentados.
+Nesse sentido, destaco: AgInt no REsp n. 1.612.647/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/2/2017, DJe 7/3/2017;
+AgInt no AREsp n. 638.513/SP, Rel. Ministro Marco Buzzi, Quarta Turma, julgado em 9/3/2017, DJe 15/3/2017.
+IX - Além disso, verifica-se que, conforme a previsão do art. 255, § 1º, do RISTJ, é de rigor a caracterização das circunstâncias que identifiquem os casos confrontados, cabendo a quem recorre demonstrar tais circunstâncias, com indicação da similitude fática e jurídica entre os julgados, apontando o dispositivo legal interpretado nos arestos em cotejo, com a transcrição dos trechos necessários para tal demonstração. Em face de tal deficiência recursal, aplica-se o constante da Súmula n. 284 do STF.
+X - Observa-se que os acórdãos confrontados não possuem a mesma similitude fática e jurídica, uma vez que, enquanto o acórdão recorrido trata de atividade especial por exposição à ruído e hidrocarbonetos, o acórdão paradigma cuida de exposição à eletricidade, agente nocivo diverso daqueles. Nesse sentido, confiram-se: AgInt no AREsp n. 1.002.220/BA, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 23/11/2017, DJe 4/12/2017; REsp n. 1.666.682/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 6/6/2017, DJe 19/6/2017.
+XI - Agravo interno improvido.
+(AgInt no AREsp 1657681/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/10/2020, DJe 22/10/2020)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. COMPENSAÇÃO DE CRÉDITO COM DÉBITO DE TERCEIRO. MP N. 135/03. LANÇAMENTO DE OFÍCIO. SÚMULAS N. 283 E 284 DO STF. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
