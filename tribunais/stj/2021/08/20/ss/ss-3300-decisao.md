@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de suspensão de segurança proposta pelo ESTADO DO MARANHÃO contra decisão do desembargador relator do Mandado de Segurança n. 0803123-85.2021.8.10.0000, em trâmite no Tribunal de Justiça do Estado do Maranhão, na qual foi deferida parcialmente a liminar para suspender o Decreto de Intervenção n. 36.431/2020, a fim de que fosse devolvida a gestão e administração do serviço público de transporte intermunicipal aquaviário àSERVI-PORTO SERVIÇOS PORTUÁRIOS LTDA. no prazo de 48 horas.
+Foi proferida decisão às fls. 247-251, deferindo a suspensão pleiteada.
+Foi apresentado agravo interno às fls. 257-285, por SERVI-PORTO (SERVIÇOS PORTUÁRIOS) LTDA., com relação ao qual foi protocolada impugnação pelo ESTADO DO MARANHÃO às fls. 520-525.
+À fl. 619, o Tribunal de Justiça do Estado do Maranhão informou, por meio do OFC-GabDesMCE-272021, que:
+Cumprimentando Vossa Excelência, informo que o Mandado de Segurança n.º 0803123-85.2021.8.10.0000, de minha Relatoria, teve liminar apreciada em 18.03.2021 e deferida para "suspender o Decreto de Intervenção n.º 36.431/2020, devendo ser devolvida a gestão e a administração do serviço à SERVIPORTO (SERVIÇOS PORTUÁRIOS) LTDA, no prazo de 48h (quarenta e oito horas), sob pena de multa diária de R$ 10.000,00 (dez mil reais), limitada a R$ 200.000,00 (duzentos mil reais)".
+Em seguida foi apresentada contestação pelo Estado do Maranhão, em 15.04.2021, estando atualmente o processo com vista ao órgão ministerial para, em seguida, ter seu mérito julgado pelo órgão colegiado competente.
+Em relação ao Mandado de Segurança n.º 0804734- 73.2021.8.10.0000, de Relatoria do Exmo. Desembargador João Santana Sousa, tenho a informar que fui cientificado do deferimento da liminar no referido mandamus para "suspender a liminar exarada no Mandado de Segurança n.º 0803123- 85.2021.8.10.0000, até o julgamento em definitivo da questão, restabelecendo, assim, os efeitos do Decreto Estadual n.º 36.431/2020".
+É, no essencial, o relatório. Decido.
+Vê-se que, no caso em tela, houve decisão em outro mandado de segurança, autos n. 0804734- 73.2021.8.10.0000, a qualsuspendeu a liminar proferida no Mandado de Segurança n. 0803123- 85.2021.8.10.0000, o que culminou na perda do objeto em razão da não subsistência, por decisão prolatada pelo Tribunal a quo, da decisão objeto da presente suspensão.
+Por conseguinte, está prejudicado o incidente de suspensão oferecido contra a decisão liminar questionada, uma vez que a medida só persiste enquanto subsistir a decisão cuja suspensão é requerida.
+Consequentemente, há impossibilidade de interposição de agravo interno contra a decisão de fls. 247-251, que deferiu a suspensão da liminar, pois não se admite o manejo desse recurso (contra decisão desta presidência) com vistas a restabelecer o provimento judicial interlocutório de segundo grau que ficou prejudicado, o que resultaria na falta de interesse recursal do agravante, do ponto de vista prático (utilidade).
+Nesse sentido, verifique-se entendimento do Superior Tribunal de Justiça em casos semelhantes:
+AGRAVO REGIMENTAL. SUSPENSÃO DE LIMINAR E DE SENTENÇA. LIMINAR CONCEDIDA EM AGRAVO DE INSTRUMENTO MANEJADO CONTRA OS EFEITOS DA APELAÇÃO. APELAÇÃO PROVIDA PARA ANULAR A SENTENÇA. AGRAVO DE INSTRUMENTO JULGADO PREJUDICADO. PERDA DO OBJETO DA SLS.
+1. Prejudicado o pedido de suspensão de liminar proferida em agravo de instrumento em razão do provimento da apelação a que aquele recurso conferiu efeito suspensivo.
+2. Agravo regimental provido. (AgRg na SLS n. 1.268/SP, relator para o acórdão Ministro João Otávio de Noronha, Corte Especial, julgado em 8/6/2012.)
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. EFEITOS DA DECISÃO AGRAVADA LIMITADOS TEMPORALMENTE PELA DECISÃO RESTABELECIDA NA ORIGEM. PRAZO EXPIRADO. TERMO FINAL IMPLEMENTADO. PERDA SUPERVENIENTE DE INTERESSE RECURSAL.
+1. A implementação do termo final ao qual estão adstritos os efeitos da decisão agravada esvazia o objeto do recurso contra ela interposto.
+2. Agravo interno prejudicado. (AgInt na SLS n. 2.485/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 24/5/2019.)
+Ademais, destaco que o Supremo Tribunal Federal (RMS n. 28.199/DF e STP n. 480) já decidiu que a superveniente alteração do quadro fático conduz à configuração de típica hipótese de prejudicialidade, por perda superveniente do interesse processual.
+Ante o exposto, julgo prejudicada a presente suspensão por perda de objeto.
+Publique-se. Intimem-se.
