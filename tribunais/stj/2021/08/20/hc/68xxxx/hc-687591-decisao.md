@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de LEONARDO DA SILVA RODRIGUES SIMARROem que se aponta como autoridade coatoraTribunal de Justiça do Estado de São Paulo(HC n. 2125756-53.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventivae foi denunciado por suposta prática dos delitos descritos nos arts. 33, caput, da Lei n. 11.343/2006 e 333, caput, do CP, na forma do art. 69do CP.
+O decreto prisional fundou-se na garantia da ordem pública, na gravidade concreta do delito e na expressiva quantidade deentorpecente apreendida- cerca de 1kg de maconha. Impetrado writ originário, a ordem foi denegada.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.
+Ressalta que o paciente possuiresidência fixa como condição pessoal favorável.
+Aponta a apreensão de ínfima quantidade de drogas.
+Por fim, requer a expedição de alvará de soltura em favor do paciente e/ou a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório. Decido.
+Ainda que inadequada a impetração dehabeas corpusem substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunala quo(fls. 16-18, destaquei):
+Com efeito, não se vislumbrou nesta instância o apontado constrangimento ilegal, porquanto a decisão à fls. 117/120, que converteu a prisão em flagrante do paciente em preventiva, reveste-se de fundamentação legítima, pautada pelos termos do art. 93, IX, da Constituição Federal, com substrato nos indícios de autoria, prova da materialidade e gravidade do delito.
+Destaque-se:
+"Consta dos autos que policiais militares receberam informação de que indivíduos estariam praticando tráfico de entorpecentes utilizando-se de dois veículos (Renault/Van, placaFPD2413 e GM/Corsa, placa CKC6I64) na região do bairro Rudge Ramos. Em diligências, encontraram o automóvel GMCorsa, que era conduzido pelo indiciado VICTOR. No interior do veículo, encontraramcinco frascos contendo maconha. Indagado, o indiciado informou o endereço onde havia obtido a droga. No local indicado, encontraram o Renault/Van, conduzido por LEONARDO, em cujo interior havia sete plantas de maconha e um pote, também com maconha. Ainda, segundo os policiais, LEONARDO teria oferecido dinheiro para não ser detido(com LEONARDO foi encontrada a quantia de R$14.420,00)" (fls.117).
+Ainda, segundo a inicial acusatória:
+" ..  LEONARDO DA SILVA RODRIGUESSIMARRO, qualificado à fl. 11, transportava e vendia, para fins de tráfico, uma porção e sete plantas de Cannabis Sativa L., popularmente conhecida como "maconha", com peso líquido aproximado de 142,99g, conforme laudo de constatação de fls. 28/30, sem autorização e em desacordo com determinação legal ou regulamentar" (fls. 65).
+Tais motivos são plenamente aptos a justificar a prisão com vistas à garantia da ordem pública, conveniência da instrução criminal e segurança da futura aplicação da lei penal.
+Outrossim, é certo que a legislação atual permite a liberdade provisória, inclusive, para crime havido como hediondo, tendo a Lei nº 12.403/2011 introduzido novas medidas cautelares alternativas à prisão em nosso ordenamento jurídico.
+Todavia, no presente caso, o paciente não fazjus à liberdade provisória pura e simples, bem como à soltura mediante a imposição de medidas alternativas, tampouco à concessão da prisão domiciliar, uma vez que a custódia se mostra necessária.
+Destacou ainda o excerto da decisão que decretou a segregação cautelar(fls. 137-138):
+Trata-se, em tese, de delito doloso cuja pena máxima supera os quatro anos e há, como dito, provas da materialidade e indícios da autoria.
+A prisão preventiva é necessária para a garantia da ordem pública, não apenas para evitar a reprodução de fatos criminosos, mas também para acautelar o meio social e a própria credibilidade da Justiça, em face da gravidade do crime e sua repercussão.
+ ..
+Nessas condições, em que pese a excepcionalidade da prisão preventiva no sistema jurídico brasileiro, a liberdade provisória e as medidas cautelares diversas da prisão, previstas no art. 319 do Código de Processo Penal, mostram-se inadequadas e insuficientes, justificada, pois, a imposição da medida mais gravosa.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade deprisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidascautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJede 21/9/2020).
+Note-se que, no presente caso,aquantidadedeentorpecenteapreendida(1kg de maconha) foi considerada pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Ademais, eventuais condições subjetivasfavoráveisdopaciente, como possuir residência fixa, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes:AgRgno HC n. 585.571/GO, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma,DJede 2/9/2020.
+A questão da desclassificação da conduta, por demandar exame aprofundado dos elementos de prova constantes do inquérito e/ou da ação penal, não pode ser analisada na estreita via dohabeas corpus(AgRgno HC n. 587.282/SP, relator Ministro Joel IlanPaciornik, Quinta Turma,DJede 8/9/2020.)
+Como visto, na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto,com fundamento no art. 34, XX, do RISTJ,não conheço do presentehabeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
