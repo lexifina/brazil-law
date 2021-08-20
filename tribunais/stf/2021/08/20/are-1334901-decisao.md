@@ -1,0 +1,21 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em desfavor de acórdão assim ementado:
+    “AGRAVO DE INSTRUMENTO – Pretensão da agravante de rediscutir os termos da sentença - Respeito à coisa julgada - Decisão mantida - Recurso improvido” (pág. 8 do documento eletrônico 13).
+    No RE, fundado no art. 102, III, a, da Constituição, sustentou-se, em suma, violação do art. 5°, XXXVI, da mesma Carta, sob o argumento de que,
+    “[...] em sede de Cumprimento de Sentença, a instância de primeiro grau realizou uma interpretação equivocada do comando sentencial para incluir na base de cálculo da multa os juros incidentes sobre o dano, o que não foi determinado pelo Juízo primevo, que condenou a ora Recorrente” (pág. 21 do documento eletrônico 15).
+    A pretensão recursal não merece acolhida.
+    Esta Corte entende ser inadmissível, em regra, a interposição de recurso extraordinário para discutir matéria relacionada aos limites da coisa julgada, quando a verificação dessa alegação depender de exame prévio de legislação infraconstitucional, por não configurar situação de ofensa direta à Constituição. Essa jurisprudência foi consolidada no julgamento do ARE 748.371-RG (Tema 660), de relatoria do Ministro Gilmar Mendes, em que se rejeitou a repercussão geral da matéria sob os seguintes fundamentos:
+    “Ementa: Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral”.
+    Ademais, para dissentir do acórdão recorrido e verificar a procedência dos argumentos consignados no recurso extraordinário, seria necessário o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula 279/STF. Nesse sentido, destaco precedentes de ambas as Turmas deste Tribunal:
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. MANDADO DE SEGURANÇA. EXCESSO DE EXECUÇÃO. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279 DO STF. LIMITES DA COISA JULGADA. MATÉRIA COM REPERCUSSÃO GERAL REJEITADA PELO STF NO ARE 748.371. TEMA 660. AGRAVO REGIMENTAL DESPROVIDO” (ARE 918.665-AgR/DF, Rel. Min. Luiz Fux, Primeira Turma).
+    “Ementa: Agravo regimental no recurso extraordinário. Alegada ofensa aos limites da coisa julgada. Infraconstitucional. Ofensa reflexa. Necessidade de reexame dos fatos e das provas dos autos. Súmula nº 279/STF.
+    1. A jurisprudência do STF está consolidada no sentido de que a afronta aos limites da coisa julgada, quando depende, para ser reconhecida como tal, da análise de normas infraconstitucionais, configura apenas ofensa indireta ou reflexa à Constituição da República, o que não enseja reexame da questão em recurso extraordinário.
+    2. Para acolher a pretensão recursal e ultrapassar o entendimento do Tribunal de origem acerca da identidade do presente feito com ação transitada em julgado, da existência da coisa julgada e de seus limites objetivos, seria necessário reexaminar o conjunto fático-probatório da causa, o que não é cabível em sede de recurso extraordinário. Incidência da Súmula nº 279 do STF.
+    3. Agravo regimental não provido” (RE 776.886-AgR/MA, Rel. Min. Dias Toffoli, Segunda Turma).
+    “Ementa: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. EXCESSO. AUSÊNCIA DE MATÉRIA CONSTITUCIONAL. REEXAME DE PROVAS. SÚMULA 279/STF. LIMITES OBJETIVOS DA COISA JULGADA.
+    Hipótese em que para dissentir do entendimento do Tribunal de origem seria necessária nova apreciação dos fatos e do material probatório constantes dos autos. Incidência da Súmula 279/STF. Precedentes.
+    De todo modo, o exame da alegação pressuporia a análise da legislação processual infraconstitucional que disciplina, de forma específica, o instituto da coisa julgada. Precedentes. Agravo regimental a que se nega provimento” (AI 741.886-AgR/SC, Rel. Min. Roberto Barroso, Primeira Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 20 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
