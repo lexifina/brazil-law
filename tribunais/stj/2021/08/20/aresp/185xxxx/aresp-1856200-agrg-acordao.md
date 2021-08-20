@@ -1,0 +1,43 @@
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ART. 180 DO CP. PENA INFERIOR A 4 ANOS. CIRCUNSTÂNCIA JUDICIAL NEGATIVA E REINCIDÊNCIA. REGIME MAIS GRAVOSO. ADEQUAÇÃO. PRECEDENTES. RECURSO DESPROVIDO.
+1. O regime inicial fechado foi estabelecido ao agravante por expressa determinação legal, nos termos do art. 33, § 2º, "b" e § 3º, do Código Penal, em função da existência de circunstância judicial desfavorável - antecedentes, o qual justificou a exasperação da pena-base, e de sua reincidência. Tais fundamentos são idôneos para recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta. Precedentes.
+2. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Cuida-se de agravo regimental interposto contra decisão de e-STJ fls. 280/282, de minha relatoria, em que conheci do agravo para negar provimento ao recurso especial por não vislumbrar ilegalidade na escolha do regime prisional fechado ao condenado à pena inferior a quatro anos, reincidente e que ostenta circunstância judicial desfavorável.
+A defesa se insurge contra essa decisão alegando que reincidência não obsta o abrandamento do regime prisional para os condenados com apenas uma circunstância judicial desfavorável. Aponta julgados sobre o tema.
+Objetiva, assim, a reconsideração da decisão agravada ou a remessa do feito à apreciação da Turma, a fim de que o agravo seja provido.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME DO ART. 180 DO CP. PENA INFERIOR A 4 ANOS. CIRCUNSTÂNCIA JUDICIAL NEGATIVA E REINCIDÊNCIA. REGIME MAIS GRAVOSO. ADEQUAÇÃO. PRECEDENTES. RECURSO DESPROVIDO.
+1. O regime inicial fechado foi estabelecido ao agravante por expressa determinação legal, nos termos do art. 33, § 2º, "b" e § 3º, do Código Penal, em função da existência de circunstância judicial desfavorável - antecedentes, o qual justificou a exasperação da pena-base, e de sua reincidência. Tais fundamentos são idôneos para recrudescer o regime prisional, em detrimento apenas do quantum de pena imposta. Precedentes.
+2. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que o agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Reitera-se que o regime mais gravoso é o adequado ao caso, considerando-se o quantum da pena aplicada (1 ano e 4 meses de reclusão), a existência de circunstância judicial negativa e a reincidência do recorrente. Confira-se os recentes julgados desta Corte:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. SÚMULA N. 182/STJ. PORTE ILEGAL DE ARMA DE FOGO. REGIME PRISIONAL FECHADO. PENA CORPORAL NÃO SUPERIOR A 4 (QUATRO) ANOS. RÉU REINCIDENTE. MAUS ANTECEDENTES UTILIZADOS PARA EXASPERAR A PENA-BASE E JUSTIFICAR O REGIME PRISIONAL MAIS GRAVOSO. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 283/STF. PRETENSÃO DE ABRANDAMENTO DE REGIME PRISIONAL. REGIME SEMIABERTO. IMPOSSIBILIDADE. SÚMULA 269/STJ. INAPLICABILIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A decisão agravada não conheceu do agravo em recurso especial interposto por ter a parte agravante deixado de impugnar especificamente a incidência de óbice ventilado pela Corte a quo.
+2. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada (despacho de inadmissibilidade do recurso especial) atrai a incidência da Súmula n. 182 desta Corte Superior.
+3. É firme a jurisprudência desta Corte Superior no sentido de que a subsistência de fundamentos inatacados, aptos a manter a conclusão do acórdão impugnado, conduzem ao não conhecimento do recurso, ante a incidência da Súmula n. 283/STF. Precedentes.
+4. Ademais, é pacífico o entendimento desta Corte Superior no sentido de admitir a adoção do regime prisional semiaberto aos reincidentes condenados à pena igual ou inferior a 4 (quatro) anos, se favoráveis as circunstâncias judiciais, o que culminou na edição do enunciado n. 269 da Súmula do STJ. Na espécie, contudo, o agravante, além de reincidente, possui maus antecedentes, tendo as instâncias ordinárias adotado a referida vetorial desfavorável para afastar a pena-base do seu mínimo legal, o que afasta a incidência da Súmula n. 269/STJ, representando fundamentação idônea para a manutenção do regime prisional fechado e a impossibilidade da substituição da pena. Precedentes.
+5. Agravo regimental não provido. (AgRg no AREsp 1691662/MS, desta Relatoria, DJe 30/06/2020)
+PENAL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. RECEPTAÇÃO. PLEITO DE REGIME PRISIONAL. PENA APLICADA INFERIOR À 4 (QUATRO) ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEISE REINCIDÊNCIA. INAPLICABILIDADE DA SÚMULA 269/STJ. MANUTENÇÃO DO REGIME FECHADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - No presente caso, da análise dos autos, nos limites da cognição in limine, verifico que, muito embora a pena do ora recorrente tenha sido fixada definitivamente em 1 (um) ano, 4 (quatro) meses e 10 (dez) dias de reclusão, a exasperação da pena-base em razão da existência de uma circunstância desfavorável - mau antecedente -, bem como a verificação da reincidência, são fundamentos idôneos para justificar a fixação do regime inicial fechado.
+II - Assim, constatada a reincidência do recorrente e mantida a circunstância judicial desfavorável, mostra-se adequado o regime inicial fechado para o cumprimento da pena, não sendo aplicável a Súmula n. 269/STJ: "É admissível a adoção do regime prisional semiaberto aos reincidentes condenados a pena igual ou inferior a quatro anos se favoráveis as circunstâncias judiciais". Precedentes.
+III - Quanto ao pedido da defesa de substituição da pena privativa de liberdade por restritivas de direitos, o v. acórdão recorrido asseverou que a reincidência e o mau antecedente impedem a substituição da pena privativa de liberdade por restritivas de direitos ou multa, ou à concessão do sursis (CP, 44, incisos II e III, e 77, incisos I, II e III, todos Código Penal), portanto, nada a reparar.
+Agravo regimental desprovido. (AgRg no REsp 1912984/SP, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 23/03/2021)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. FURTO QUALIFICADO. PENA-BASE. EXASPERAÇÃO. CRITÉRIO MATEMÁTICO. INAPLICABILIDADE. DESPROPORCIONALIDADE. INEXISTÊNCIA. PENA INFERIOR A QUATRO ANOS DE RECLUSÃO. REGIME PRISIONAL FECHADO. POSSIBILIDADE. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. MAUS ANTECEDENTES. PENA-BASE ACIMA DO MÍNIMO LEGAL. REINCIDÊNCIA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O quantum de aumento a ser implementado em decorrência do reconhecimento das circunstâncias judiciais desfavoráveis fica adstrito à prudente discricionariedade do juiz, não havendo como proceder ao seu redimensionamento nesta via. Ressalvados os casos de manifesta ilegalidade ou arbitrariedade, é inadmissível a revisão dos critérios adotados na dosimetria da pena por esta Corte Superior.
+2. Uma vez que o aumento da pena-base não está adstrito a critérios matemáticos e considerando-se o intervalo entre as penas mínima e máxima abstratamente cominadas ao delito de furto qualificado (2 a 8 anos de reclusão), não se verifica desproporcionalidade na exasperação da pena em 6 (seis) meses de reclusão, em razão do reconhecimento dos maus antecedentes.
+3. Embora a pena fixada não alcance 4 (quatro) anos, pela existência de circunstância judicial desfavorável ao Agravante que levou à fixação da pena-base acima do mínimo legal, além do reconhecimento da reincidência, está justificado o estabelecimento do regime prisional mais severo, conforme a interpretação conjunta dos arts. 59 e 33, §§ 2.º e 3.º, do Código Penal.
+4. Agravo regimental desprovido. (AgRg no HC 618.167/SC, Rel. Ministra LAURITA VAZ, Sexta Turma, DJe 05/04/2021)
+Com essas considerações, nego provimento ao agravo regimental.
+É como voto.
+Ministro REYNALDO SOARES DA FONSECA
+Relator
