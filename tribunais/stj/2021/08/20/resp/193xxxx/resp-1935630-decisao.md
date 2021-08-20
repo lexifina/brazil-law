@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaUniversidade Federal do Rio Grande do Norte,com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do TRF da 5ª Região, assim ementado (e-STJ fl. 342):
+ADMINISTRATIVO. SERVIDOR PÚBLICO LICENCIADOSEM VENCIMENTOS.REGIME DE DEDICAÇÃO EXCLUSIVA. POSSIBILIDADE. PRECEDENTE. APELAÇÃO IMPROVIDA.
+1. A sentença apelada julgou procedente o pedido, para determinar à UFRN que confira ao autor o direito de exercício do cargo de Professor do Magistério Superior, em regime de Dedicação Exclusiva, enquanto vigorar sua licença para trato de interesse particular junto ao ITEP/RN, onde exerce o cargo de Perito Criminal.
+2. No caso dos autos, a questão cinge em verificar o direito do autor ao desempenho do Magistério Superior, no regime de Dedicação Exclusiva, enquanto perdurar sua licença sem remuneração junto ao ITEP, onde exerce o cargo de Perito Criminal.
+3.A Lei n.º 12.772/2012 dispõe em seu art. 20, §2.º,que o regime de 40 (quarenta) horas com dedicação exclusiva implica o impedimento do exercício de outra atividade remunerada, pública ou privada, com as exceções previstas nesta Lei.
+4.Na hipótese vertente, o autor comprovou estar licenciado sem remuneração do cargo técnico de Perito Criminal no âmbito do Estado do RN,pelo prazo de 02 (dois) anos, de modo que, enquanto perdurar referida licença, não há óbice ao desempenho do Magistério Superior, no regime de Dedicação Exclusiva, com o percebimento da remuneração correspondente, tudo conforme art. 37, inciso XVI, "b", da Constituição Federal.Precedente da Quarta Turma: 08015453220194050000, Relator Edilson Nobre, DJU: 11/04/2019)
+5.Apelação da UFRN improvida. Honorários advocatícios majorados em 10% sobre o valor fixado na sentença, a título de honorários recursais.
+Os embargos de declaração foram rejeitados (e-STJ fl. 378).
+Arecorrente alegaviolação doart. 20, § 2º, da Lei 12.772/2012,ao argumento de que o autor não pode ocupar a vaga de Professor com dedicação exclusiva, pois "servidores em gozo de licença para tratar de interesses particulares ainda detém a titularidade de seu cargo, pelo que, a qualquer momento pode retornar ao cargo" (e-STJ fl. 393).
+Com contrarrazões (e-STJ fls. 398-406).
+Juízo positivo de admissibilidade àe-STJ fl. 408.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+Oacórdão recorrido ao solucionar a controvérsia referente à possibilidade do autor desempenhar o Magistério Superior, no regime de dedicação exclusiva, enquanto perdurar a licença para tratar de interesses particulares,adotou fundamentação constitucional (art. 37, XVI, "b", da Constituição Federal), que se mostra suficiente à solução do litígio.
+Ocorre que arecorrente não interpôs recurso extraordinário ao tempo e modo, circunstância que conduz ao não conhecimento do recurso especial. Incide ao caso a Súmula 126/STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. ANÁLISE QUANTO À COMPROVAÇÃO DO PREENCHIMENTO DOS REQUISITOS PARA FINS DE CONCESSÃO DE BENEFÍCIO ACIDENTÁRIO (NEXO CAUSAL). REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. TEORIA DA CONCAUSA. LEGITIMIDADE. CORREÇÃO MONETÁRIA. ARESTO QUE APRESENTA FUNDAMENTAÇÃO CONSTITUCIONAL E INFRACONSTITUCIONAL. AUSÊNCIA DE INTERPOSIÇÃO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. INCIDÊNCIA.
+1. A concessão de benefício acidentário apenas se revela possível quando demonstrados a redução da capacidade laborativa, em decorrência da lesão, e o nexo causal.
+2. No caso, o Tribunal a quo, com base no conjunto probatório dos autos, concluiu que ficou evidenciado o nexo causal entre a lesão sofrida pelo autor e a atividade laboral por ele exercida, motivo pelo qual o benefício seria devido.
+3. Assim, a alteração das conclusões adotadas pela Corte Estadual, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+4. Ademais, o acórdão recorrido decidiu em sintonia com a jurisprudência desta Corte, no sentido de que, "reconhecida a diminuição da capacidade laboral do obreiro e a concausa entre a moléstia e a atividade laboral, o Segurado faz jus à concessão do auxílio-acidente, preenchendo os requisitos legais" (AgInt no AREsp 965.138/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/10/2019, DJe 8/11/2019).
+5. Quanto à correção monetária, não é possível conhecer do recurso especial na hipótese em que o Tribunal de origem, ao decidir a questão posta a julgamento, ampara-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido, e o recorrente não interpõe o competente recurso extraordinário. Incidência, à espécie, da Súmula 126/STJ.
+6. Agravo interno a que se nega provimento. (AgInt no REsp 1.919.938/PR, Relator Ministro Sérgio Kukina, Primeira Turma, DJe 3/8/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÃO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. FUNDAMENTO CONSTITUCIONAL INATACADO. SÚMULA 126/STJ.
+1. É deficiente a assertiva genérica de violação do art. 1.022 do CPC/2015, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunal a quo e não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF
+2. Segundo o Tribunal a quo, a Lei n. 9.624/1998, que autoriza o pagamento da remuneração do cargo efetivo na hipótese de provimento em outro cargo na mesma esfera administrativa, aplica-se também quando distintos os entes federativos, com base no princípio da isonomia. Evidenciada a suficiência do fundamento constitucional do acórdão, a não interposição do recurso extraordinário inviabiliza a apreciação da matéria infraconstitucional. Aplicação da Súmula 126/STJ.
+3. A regra do art. 1.032 do CPC/2015, pertinente ao princípio da fungibilidade, incide apenas quando erroneamente interposto o recurso especial contra questão de natureza exclusivamente constitucional.
+4. Agravo interno a que se nega provimento. (AgInt no AREsp 1.768.968/DF, Relator Ministro Og Fernandes, Segundas Turma, DJe 01/7/2021)
+Ante o exposto, nãoconheçodo recurso especial.
+Majoro os honorários advocatícios em 3% (três por cento) sobre o valor arbitrado anteriormente, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.SERVIDOR PÚBLICO LICENCIADO SEM VENCIMENTOS. REGIME DE DEDICAÇÃO EXCLUSIVA. POSSIBILIDADE. ACÓRDÃO QUE CONTÉM FUNDAMENTO CONSTITUCIONAL SUFICIENTE À MANUTENÇÃO DO QUE DECIDIDO. NÃO IMPUGNAÇÃO POR MEIO DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. RECURSONÃOCONHECIDO.
