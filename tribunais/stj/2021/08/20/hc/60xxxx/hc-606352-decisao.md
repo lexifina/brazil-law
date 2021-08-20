@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Jeciany Santana da Luz,em que se aponta como autoridade coatora o Tribunal de Justiça de Roraima(HC n. 9001539-31.2020.8.23.0000).
+Consta dos autos que, em 30/7/2020, a Juíza de Direito da Vara de Execução Penal da comarca de Boa Vista/RR determinou a regressão cautelar de regime de pena para o semiaberto, com expedição de mandado de prisão, em razão do suposto descumprimento de regra imposta na execução (fls. 20/21 - Execução Penal n. 1000256-84.2017.8.23.0010).
+Inconformada, a defesa impetrou habeas corpus no Tribunal de origem, objetivando a revogação da decisão que determinou a regressão do regime aberto para o semiaberto, writ indeferido liminarmente pelo Desembargador Relator (fls. 38/39).
+No presente mandamus, sustenta a parte impetrante constrangimento ilegal consistente na ausência de motivação idônea para a regressão de regime da paciente (fl. 8).
+Aduz que,tendo indícios do cometimento de falta grave, o correto seria colher elementos informativos suficientes para demonstrar a suposta falta cometida, ou seja, primeiramente o juízo deveria determinar que o sistema prisional instaurasse um processo administrativo disciplinar para apurar os fatos, assim, garantindo os direitos constitucionais do contraditório e da ampla defesa, nos termos do art. 5º, inciso LV, da CF/1988, e da Súmula 533 do STJ(fl. 9).
+Ressalta que a paciente, pessoa com deficiência, possui dois filhos menores, que necessitam de seus cuidados (fl. 9).
+Requer, liminarmente e no mérito, a suspensão dos efeitos da decisão que determinou a regressão do regime aberto para o semiaberto, mantendo a paciente, até o julgamento do mérito do writ, no regime aberto com o benefício do albergue domiciliar, com a consequente revogação do mandado de prisão. Subsidiariamente, pede a revogação da decisão que indeferiu liminarmente o HC n.9001539-31.2020.8.23.0000 do Tribunal de origem, determinando que o mérito seja analisado de ofício e liminarmente (fls. 10/11).
+Liminar indeferida (fls. 43/46).
+Informações prestadas (fls. 52/62), o Ministério Público Federal ofereceu parecer pelo não conhecimento do habeas corpus e, em caso de conhecimento, pela denegação da ordem (fls. 66/69).
+É o relatório.
+O presente writ não comporta conhecimento.
+Isso porque se insurgiu a defesa contra decisão monocrática deDesembargador do Tribunal de Justiça de Roraima, contra a qualseria cabível agravo regimental, que, pelo que se tem dos autos, não foi interposto,impossibilitando, assim, o conhecimento deste habeas corpus.
+Sobre o tema:AgRg no HC n. 358.714/SP, Ministro Antonio SaldanhaPalheiro, Sexta Turma, DJe 1º/8/2016; e AgRg no HC n. 344.975/SP, MinistraMaria Thereza de Assis Moura, Sexta Turma, DJe 23/2/2016.
+Vale ressaltar que não há sequer, no caso, ilegalidade a ser sanada de ofício. Como bem afirmou oSubprocuradora-Geral da RepúblicaJulieta E. Fajardo Cavalcanti de Albuquerque, na espécie, foi determinada a regressão cautelar do regime de cumprimento de pena do aberto para o semiaberto, haja vista o relatório da DICAP (EP. 116) onde consta que a reeducanda estava descumprindo uma das condições impostas pela decisão que deferiu o regime que lhe foi concedido. Além disso, após a recaptura da reeducanda, designação de audiência de justificação para que a mesma indicasse por quê estava desrespeitando as regras do regime de cumprimento de pena. Ofício à Unidade Prisional para que apresente o PAD instaurado com relação ao Relatório Social acostado no EP. 92.1 no prazo de 10dias.  EP. 118.1  -(fls. 60/61).
+Com efeito, é pacífico o entendimento desta Corte no sentido de que,tratando-se de regressão cautelar, não é necessária a prévia ouvida do condenado, como determina o § 2º do art. 118 da Lei de Execução Penal, visto que tal exigência, segundo a jurisprudência desta Corte de Justiça, somente é obrigatória na regressão definitiva ao regime mais severo, sob pena de contrariar a finalidade da medida (precedentes)- (AgRg no HC n. 449.364/PR, Ministro Ribeiro Dantas, Quinta Turma,DJe 1º/2/2019).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL.WRITIMPETRADO CONTRA DECISÃO MONOCRÁTICADO RELATOR.AUSÊNCIADE INTERPOSIÇÃO DO RECURSO CABÍVEL. NÃO ESGOTAMENTO DAS INSTÂNCIAS ORDINÁRIAS.
+Writ não conhecido.
