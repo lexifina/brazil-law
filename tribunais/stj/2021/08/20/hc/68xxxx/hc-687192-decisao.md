@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor próprio por JORGE ORION PEREIRA DOS SANTOS apontando como autoridade coatora o Tribunal de Justiça Militar do Estado do Rio Grande do Sul.
+Consta dos autos que o Impetrante-Paciente cumpre desde 11/06/2018, pena de 6 (seis) anos e 9 (nove) meses de reclusão, em regime inicial fechado, por infração ao delito de peculato previsto no art. 303 do Código Penal Militar.
+O Juízo das Execuções indeferiu o pedido de remição pelo estudo, ao argumento que cursos realizados pela mera leitura de apostilas não se equivalem a educação à distância (fls. 87-88), entretanto, concedeu a remição de 4 (quatro) dias d e remissão da pena pela leitura (fl. 115).
+Narra a inicial que a decisão foi impugnada "nos autos do processo de Execução penal número 1000287-64.2018.9.21.0003, e confirmada pelo Egrégio Tribunal de Justiça Militar Sulista nos autos do writ n.º 00 90079-21.2019.9.21.0000" (fl. 1), em acórdão não juntado aos autos, que teria sido proferido em sede de agravo regimental interposto contra a decisão monocrática do Desembargador Relator que não conheceu da impetração.
+Defende o Impetrante-Paciente que é possível conceder a remissão pelo estudo e liminarmente e no mérito (fl. 4):
+"pugna o paciente pelo reconhecimento da remição pelo estudo promovido e certificado pela escola CENED na proporção de 1 (um) dia de pena para cada 12 (doze) horas de estudo. Devendo assim, ser determinada a correção no período remição pelo estudo dos quatro cursos concluídos pelo peticionário com carga horário de 180 horas cada, ensejando um somatório de 60 dias remidos."
+É o relatório. Decido.
+Verifico não ser possível analisar a viabilidade do pleito deduzido, diante da instrução deficitária do writ, visto que o Impetrante não acostou aos autos o acórdão impugnado. Consta dos autos apenas a decisão do Juízo da Execuções concedendo a remissão pela leitura e diversos documentos que comprovam a participação do Impetrante-Paciente em cursos de capacitação.
+Isso impede a devida apreciação do pedido, por não haver como examinar apropriadamente e de forma segura as alegações defensivas. Ou seja, a Parte Impetrante não se desincumbiu do seu ônus de formar adequadamente os autos.
+Como se sabe, "revela-se insuscetível de exame o habeas corpus desacompanhado de elementos que evidenciem o alegado constrangimento ilegal, porquanto a impetração deve fundamentar-se em inequívoca prova pré-constituída" (STF, HC 146.216-AgR, Rel. Ministro LUIZ FUX, TRIBUNAL PLENO, julgado em 27/10/2017, DJe 10/11/2017). Portanto, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso) - v.g.: STJ, HC 245.430/SP, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 21/02/2013, DJe 28/02/2013.
+No caso, a pretensão ora formulada não pode ser conhecida, pois a documentação trazida aos presentes autos é incompleta.
+Com igual conclusão, cito os seguintes precedentes do Superior Tribunal de Justiça:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR.  .. . AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. ÔNUS DA DEFESA. IMPOSSIBILIDADE DE JUNTADA POSTERIOR DE DOCUMENTOS.  .. . DESPROVIMENTO DO RECLAMO.
+1.  .. .
+2. O mandamus não foi instruído com a íntegra do acórdão impugnado, peça processual indispensável para a análise das ilegalidades suscitadas.
+3. O rito do habeas corpus e do recurso ordinário em habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos que evidenciem a pretensão aduzida, a existência do aventado constrangimento ilegal suportado pelo acusado, ônus do qual não se desincumbiu a defesa, exercida por profissional da advocacia.
+4. Cumpre à defesa zelar pela correta formação do caderno processual que será apresentado à apreciação judicial, em respeito ao princípio dispositivo que vige no ordenamento jurídico pátrio, resguardando-se, assim, a necessária imparcialidade do órgão julgador.
+5. É ônus do impetrante instruir corretamente a ação constitucional com toda documentação necessária à apreciação das alegações nele formuladas no momento da sua apresentação, não se admitindo a posterior juntada de documentos imprescindíveis ao exame do pedido e que não foram anexados tempestivamente. Precedentes.
+6.  .. .
+7. Agravo regimental desprovido." (AgRg no HC 547.736/MA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 03/12/2019, DJe 16/12/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSUAL PENAL. INSTRUÇÃO E NARRATIVA DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO E ESCLARECIMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. MANUTENÇÃO DA DECISÃO DE INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL QUE SE IMPÕE. AGRAVO DESPROVIDO.
+1. Compete à Defesa narrar e instruir completa e adequadamente o remédio constitucional do habeas corpus (ou seu respectivo recurso), por cuidar-se de procedimento que "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Min. JORGE MUSSI, Quinta Turma, DJe de 28/06/2018). Assim, ao não se desincumbir do ônus de formar e narrar adequadamente os autos quando da impetração do writ, a Parte Impetrante impede a apreciação do mérito do writ.
+2. Agravo regimental desprovido." (AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; sem grifos no original.)
+Ante o exposto, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMISSÃO PELO ESTUDO. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTAÇÃO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE.
