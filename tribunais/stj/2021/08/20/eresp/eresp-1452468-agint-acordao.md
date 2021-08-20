@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Mauro Campbell Marques.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacarespecificamente,de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Trata-se de agravo interno interposto pelo Município de Itajaí contra decisão que negou provimento aos embargos de divergência com base na aplicação da Súmula 168/STJ.
+Em suas razões, a parte agravante sustenta que "resta cristalina a prejudicialidade da decisão a ser exarada nos autos do AIRR nº. 0004078-30.2011.5.12.0022 sobre o julgamento do EResp nº. 1.452.468- SC, principalmente no que se refere a considerar-se nulos os autos de infração nº.011781513 e 011781521. O que, por seu turno, repercutirá na ausência de direito da União de pleitear os depósitos do FGTS por parte do Município de Itajaí."
+Quanto ao mais, reitera as teses anteriormente aduzidas nas razões dos embargos de divergência, enfatizando que "ainda que não cumpridos os requisitos legalmente estabelecidos para as contratações temporárias, não haverá a descaracterização da natureza administrativa do vínculo, o que afasta a obrigatoriedade do recolhimento das contribuições para o FGTS" (fl. 1.063).
+Por meio da petição de fls. 1.354/1.428, foi apresentado pedido de reconsideração.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacarespecificamente,de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Em que pese aos argumentos aduzidos no presente recurso, a decisão agravada não merece reparos.
+Inicialmente, verifica-se que foram manejadas 5 (cinco) petições de agravos internos de conteúdo idêntico (fls. 1.34/1.090; fls. 1.091/1.147; fls. 1.148/1.195; fls. 1.196/1.243 e fls. 1.244/1.347), bem assim apresentado o pedido de reconsideração de fls. 1.354/1.428, todoscontra a decisão de fls. 1.022/1.029. Pois bem, em atenção aos princípios da preclusão consumativa e da unirrecorribilidade, apenas o primeiro recurso (fls. 1.034/1.090 - Petição nº 00159314/2018) será apreciado.
+Não conheço, pois, das petiçõesde fls.1.091/1.147; fls. 1.148/1.195; fls. 1.196/1.243; fls. 1.244/1.347e 1.354/1.428 e passo à análise do recurso remanescente.
+Dito isso, de acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC e EAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/2/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, REPDJe 4/10/2018).
+O entendimento jurisprudencial assim consolidado conta, também, com o aval da autorizada doutrina. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem, nas razões do agravo interno em exame, não se impugnou o fundamento segundo o qual "o acórdão embargado foi proferido em consonância com a atual orientação desta Corte, circunstância que atrai a incidência da Súmula 168/STJ: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado."(fl. 1.028).
+Nesse contexto, incide a Súmula 182/STJ.
+Acrescente-seque os presentes embargos de divergência não são sede própria para discussão acerca deeventuais efeitos decorrentes de decisões proferidas no âmbito da Justiça do trabalho (referidas na petição de fls. 1.354/1.428), sobre o quanto decidido na ação ordinária proposta perante a Justiça Federal de que aqui se cuida.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
