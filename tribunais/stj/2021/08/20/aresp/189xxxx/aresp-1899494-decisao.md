@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo apresentado por INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO APELAÇÃO CÍVEL RESTABELECIMENTO DE AUXÍLIODOENÇA INEXISTÊNCIA DE RECUPERAÇÃO DA AUTORA INOBSERVÂNCIA DO ART 62 DA LEI 821391 RECURSO DA AUTORA PARCIALMENTE PROVIDO
+Alega o recorrente violação dos arts. 59 e 62 da Lei n. 8.213/1991, porque demonstrada nos autos, por meio da perícia judicial, a inexistência de incapacidade laborativa, trazendo os seguintes argumentos:
+O acórdão recorrido violou os arts. 59 e 62 da Lei nº 8.213/91. O benefício de auxílio doença é concedido em razão da incapacidade do segurado para o exercício de sua atividade habitual. Essa incapacidade deve ser temporária, pois, em caso de incapacidade definitiva, a hipótese é de aposentadoria por invalidez.
+Deve restar comprovado, também, que o segurado não era portador da doença ao filiar-se à Previdência, além de ter cumprido a carência exigida nos arts. 24 e 25 da Lei nº 8.213/91.
+Confira-se o disposto no art. 59 do mesmo Diploma Legal: (..)
+No caso específico dos autos, restou demonstrada, por meio da perícia judicial, a inexistência de incapacidade laborativa, razão pela qual não faz jus o Recorrido sequer à concessão do benefício de auxílio doença, violando-se o disposto no art. 59 da Lei nº 8.213/91.
+Ainda que houvesse incapacidade temporária, inexistiria óbice ao retorno do Recorrido ao exercício de sua atividade habitual, sendo totalmente descabida a obrigatoriedade de sua participação em programa de reabilitação profissional para capacitação em atividade diversa.
+Assim, há manifesta contrariedade também ao disposto no art. 62 da Lei nº 8.213/91, in verbis: (..) (fls. 259).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Assim, não tendo sido a autora reabilitada para o exercício de outra atividade profissional que demande menor esforço físico e lhe garanta a subsistência, e levando-se em conta, inclusive, as suas limitações físicas, formação escolar e demais condições pessoais, o recurso merece ser parcialmente provido, a fim de que seja mantido o benefício de auxílio-doença até que se verifique a plena recuperação da autora ou que a mesma seja reabilitada profissionalmente para o exercício de outra atividade compatível com as suas limitações físicas.
+Nesse sentido, aplica-se, mutatis mutandis, à orientação jurisprudencial que se extrai dos precedentes a seguir colacionados: (..) (fl. 156)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
