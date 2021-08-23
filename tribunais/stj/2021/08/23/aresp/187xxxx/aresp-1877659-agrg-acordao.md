@@ -1,0 +1,39 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBTENÇÃO DE FINANCIAMENTO MEDIANTE FRAUDE. TESE ABSOLUTÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias concluíram pela materialidade e autoria do acusado quanto ao crime de obtenção de financiamento mediante fraude (art. 19 da Lei 7.492/1986). Para se desconstituir a condenação proferida e acolher a tese defensiva de insuficiência de provas seria necessário o revolvimento de todo o conjunto fático-probatório, medida inviável em sede de recurso especial.
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Presidiu o julgamento o Sr. Ministro João Otávio de Noronha.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por LOACIR ELIAS EVARISTO contra decisão do Ministro Presidente do STJ, que, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 611-615).
+Nas razões recursais, a defesa destaca não ser hipótese de incidência das Súmulas 284/STF e 7/STJ. Afirma que a indicação do Código Penal foi mero equívoco, uma vez que pretendia apontar como violado o art. 386, V, do Código de Processo Penal. No mais, destaca que "analisando a narrativa dos fatos descritos na denúncia, somada a parca prova colhida durante a instrução, não há como sustentar a condenação com o fundamento utilizado no acórdão" (e-STJ, fl. 623).
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBTENÇÃO DE FINANCIAMENTO MEDIANTE FRAUDE. TESE ABSOLUTÓRIA. SÚMULA 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias concluíram pela materialidade e autoria do acusado quanto ao crime de obtenção de financiamento mediante fraude (art. 19 da Lei 7.492/1986). Para se desconstituir a condenação proferida e acolher a tese defensiva de insuficiência de provas seria necessário o revolvimento de todo o conjunto fático-probatório, medida inviável em sede de recurso especial.
+2. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Conforme destacado anteriormente, no que diz respeito à tese absolutória, merece destaque a seguinte passagem do acórdão combatido:
+"Após reavaliar as provas encartadas no caderno processual eletrônico, bem como os votos proferidos pelos magistrados que me antecederam, filio-me à posição apresentada pela Desa. Cláudia Cristina Cristofani. Afirmou a julgadora:
+ .. .
+Como se vê, há muitos elementos demonstrando que a conduta perpetrada pelo acusado se deu de forma deliberada, voluntária e plenamente ciente acerca do caráter ilícito da ação. LOACIR ativamente apôs assinatura falsa nos documentos (firma não condizente com seu verdadeiro nome), constituiu empresa de fachada que veio a ser utilizada para perpetrar a fraude financeira, foi pessoalmente até a revendedora de automóveis retirar o veículo adquirido de modo espúrio, mentiu às autoridades policiais negando qualquer participação no ato, porém acabou se contradizendo em sede de interrogatório judicial e, por fim, ostenta passado manchado por práticas similares" (e-STJ, fls. 531-538).
+Como se vê, as instâncias ordinárias, com base na persuasão racional acerca dos elementos de prova concretos e coesos dos autos, concluíram pela materialidade e autoria do acusado quanto ao crime de obtenção de financiamento mediante fraude (art. 19 da Lei 7.492/1986). Para se desconstituir a condenação proferida e acolher a tese defensiva de insuficiência de provas seria necessário o revolvimento de todo o conjunto fático-probatório, medida inviável em sede de recurso especial. A propósito:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. MOEDA FALSA. FALSIDADE GROSSEIRA. INOCORRÊNCIA. CAPACIDADE DE ENGANAR O HOMEM MÉDIO. LAUDO PERICIAL VÁLIDO. AUTORIA E MATERIALIDADE COMPROVADAS. DOLO EVIDENCIADO. ERRO DE TIPO E CRIME IMPOSSÍVEL NÃO OCORRÊNCIA. SÚMULA 7/STJ.
+1. O juízo de condenação foi construído a partir de conjunto probatório formado pelos elementos de informação reunidos na fase policial e por provas produzidas durante a instrução criminal, constando, ainda, no laudo pericial, que as cédulas questionadas apresentavam aspecto pictórico semelhante ao das autênticas de valor correspondente, podendo ser consideradas como de boa qualidade e, assim, iludir pessoas pouco observadoras e/ou desconhecedoras das características de segurança do papel moeda autêntico, principalmente tendo-se em conta as condições ambientais e a confiança depositada no portador das mesmas.
+2. As instâncias ordinárias consignaram, também, que as circunstâncias do caso concreto demonstram que o agir do réu era voltado à ciência da existência das notas falsas e da intenção em introduzi-las em circulação. As provas produzidas na instrução penal demonstraram que a versão do réu não condiz com a realidade fática (e-STJ fls. 412/413).
+3. Comprovado o dolo do recorrente, ou seja, a vontade livre e consciente de colocar em circulação as cédulas e o pleno conhecimento da falsidade, bem como o fato de se tratar de falsificação de boa qualidade atestada em laudo pericial, típica a conduta praticada.
+4. Rever os fundamentos da sentença condenatória e do acórdão que a confirmou, como pretende o recorrente, implica revolvimento do conjunto fático-probatório, tarefa vedada em recurso especial, nos termos do enunciado n.7 da Súmula do STJ.
+5. Agravo regimental a que se nega provimento".
+(AgRg no REsp 1872932/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO QUALIFICADO. PRONÚNCIA. VIOLAÇÃO AO ART. 159 DO CÓDIGO DE PROCESSO PENAL - CPP. INOCORRÊNCIA. AUTORIA E MATERIALIDADE DEMONSTRADAS. INCIDÊNCIA DO ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As instâncias ordinárias entenderam que há prova da materialidade e indícios suficientes de autoria delitiva para a pronúncia do acusado, uma vez que o Laudo de Exame Necroscópico, ainda que assinado por apenas um profissional, é bem claro e objetivo, não deixando nenhuma dúvida de que a vítima faleceu em decorrência de ter sofrido um golpe com objeto cortante na parte posterior da cabeça e há outras provas da ocorrência do crime em tela, consubstanciadas no interrogatório do Recorrente e na oitiva da testemunha presencial, além do próprio indiciado confirmar que de fato desferiu uma facada contra a vítima e a matou.1.1. Diante da conclusão das instâncias ordinárias que admitiram a existência de indícios de autoria e prova da materialidade, para se concluir de forma diversa seria inevitável o revolvimento das provas carreadas aos autos, procedimento sabidamente inviável na instância especial. A referida vedação encontra respaldo no enunciado n. 7 da Súmula desta Corte, verbis: "A pretensão de simples reexame de prova não enseja recurso especial".
+2. Agravo regimental desprovido.
+(AgRg no AREsp 1755674/AM, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 23/03/2021, DJe 05/04/2021)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
