@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de agravo interposto porCONSTRUTORA OAS S.A. -EM RECUPERAÇÃO JUDICIALcontra decisão que inadmitiu recurso especial (e-STJ, fls. 431-433)proposto para impugnar acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 393):
+Apelação Ação de obrigação de fazer e indenização por danos morais Agravo retido Cerceamento de defesa não configurado Infrações de trânsito Indicação equivocada de condutor Suspensão do direito de dirigir Processo administrativo Danos morais configurados Indenização reduzida.
+Inexistia a concreta necessidade de realização da prova testemunhal, que nada acrescentaria ao contraditório e à demonstração do direito afirmado na contestação. O deslinde da causa não estava, portanto, sujeito à produção de outras provas, sendo perfeitamente viável o julgamento antecipado da lide, nos termos da regra exposta no artigo 355, I, do Código de Processo Civil de 2015. Ademais, conforme a norma disposta no artigo 370, parágrafo único, do atual Estatuto Processual, o juiz indeferirá as diligências inúteis. A situação vivenciada é sim, situação passível de indenização por dano moral, sobretudo se considerado que o autor foi privado de exercer sua profissão, sofreu processo administrativo e precisou realizar curso de reciclagem. A quantificação deste tipo de indenização deve pautar-se pela razoabilidade, envolvendo-se o caráter repressivo de novas ofensas, por parte do agressor, e o caráter compensatório à vítima, levando-se em conta, ainda, a condição socioeconômica das partes e as circunstâncias do caso sob exame. Todavia, cabe sua redução, atendendo os objetivos repressivo e reparatório da indenização.
+Agravo retido desprovido, e apelação provida em parte.
+Opostos embargos de declaração, o acórdão recorrido foi integralizado pela seguinte ementa (e-STJ, fl. 408):
+Embargos de declaração - Prequestionamento. Inexistência de omissão, contradição ou obscuridade. Embargos de declaração rejeitados.
+Nas razões do recurso especial, arecorrente alegou, com base na alínea a do permissivo constitucional, violação aos arts. 489,§ 1º, IV, do CPC/2015; e 405 do CC/2002.
+Defendeu que o acórdão recorrido apresenta fundamentação deficiente. Sustentou que, em virtude de a relação jurídica entre as partes possuir natureza contratual, os juros de mora devem ser aplicados a partir da citação.
+Apreciada a admissibilidade do recurso excepcional, o Tribunal de origem inadmitiu a insurgência (e-STJ, fls. 431-433).
+Diante de tal fato, foi interposto agravo em recurso especial (e-STJ, fls. 436-442).
+Brevemente relatado, decido.
+De início, é importante ressaltar que o recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, sendo, desse modo, aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No apelo excepcional, aagravante defendeu a existência de deficiência na fundamentação quanto ao indeferimento do pedido de produção de provas.
+Em relação ao tema, é preciso deixar esclarecido que o aresto objurgado resolveu satisfatoriamente as questões deduzidas no processo, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação ao ponto controvertido relevante, cujo exame pudesse levar a um resultado diferente na prestação da tutela jurisdicional.
+Dessa forma, aplica-se à espécie o entendimento jurisprudencial do STJ, o qual manifesta-se no sentido de que " não se configura a ofensa aos arts. 489, § 1º, e 1.022 do Código de Processo Civil/2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia, tal como lhe foi apresentada" (REsp 1638961/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 13/12/2016, DJe 02/02/2017).
+Na hipótese em exame, constata-se que a instância originária fundamentou, de forma clara e precisa, a desnecessidade de produção dos meios de provas requeridos pela agravante.
+Logo, não há afronta ao art. 489, § 1º, IV, do CPC/2015.
+Em relação ao termo inicial da aplicação dos juros de mora, do exame dos fundamentos inseridos no acórdão recorrido, constata-se que a tese não foi objeto de debate no Tribunal estadual.
+Dessa forma, ausente o devido prequestionamento do tema, incide a Súmula 211/STJ.
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor dos advogados da parte recorrida em 3% sobre o valor fixado pela instância originária, devidamente atualizado.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INEXISTÊNCIA. AÇÃO DE OBRIGAÇÃO DE FAZER COM PEDIDO DE DANOS MORAIS. RELAÇÃO CONTRATUAL. JUROS DE MORA. TERMO INICIAL. DATA DA CITAÇÃO. TESE NÃO PREQUESTIONADA. SÚMULA 211/STJ. AGRAVO CONHECIDO PARA CONHECER EM PARTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
