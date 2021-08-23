@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por FERTICURZ COMÉRCIO E REPRESENTAÇÕES LTDA. à decisão desta relatoriaque negou provimento ao recurso especial (fls. 807-813 e-STJ).
+Nas razões recursais (fls. 815-834 e-STJ), a embargante aduz a ocorrência das seguintes inexatidões materiais: (i) a parte contrária se manteve inerte e silente; (ii) as questões relacionadas à violação dos princípios da segurança e da boa-fé jurídica foram devidamente prequestionadas e(iii) o dissídio jurisprudencial foi demostrado nos moldes legal e regimental.
+Alega também a existência de contradição interna ao argumento de que
+"(..)
+Com efeito, se a própria Decisão embargada registra que o Recorrido ajuizou ação anterior visando anular a alienação do imóvel em praça publica, todavia permitindo que a mesma fosse extinta sem julgamento de mérito, sem apresentar o competente recurso apelação contra a mesma e sem providenciar na citação da arrematante Ferticruz para contestar o pedido no prazo decadencial de quatro anos iniciado a contar da data da assinatura da carta de arrematação em 28-12-1998, a única conclusão que se pode chegar é que o Autor, ora Recorrido e Embargado, se manteve inerte e silente, e que à luz dos princípios da actio nata e da segurança jurídica e boa fé deve ser dado provimento ao recurso especial para restabelecer a sentença do Magistrado de piso" (fl. 825 e-STJ).
+Defende, ainda, a presença de omissões e de obscuridades, haja vista que a fundamentação ser apresenta vaga, incompleta einsuficiente.
+Requer, por fim, a acolhimento dos presentes declaratórios.
+Impugnação às fls. 838-851 e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Não colhe a inconformidade veiculada nos presentes aclaratórios.
+A decisão embargada não padece de nenhum dos vícios ensejadores dosembargos declaratórios, enumerados no art. 1.022 do Código de ProcessoCivil de 2015:obscuridade, contradição, omissão ou erro material, haja vista queenfrentou todos os argumentos relevantes à solução da controvérsia, apresentando, de forma clara e completa, os motivos que conferem sustentação jurídica ao julgamento.
+O decisum atacadoconcluiu que: (i) inexiste a alegada violação do art. 535 do CPC/1973; (ii) incide o óbice da Súmula nº 7/STJ em relação às preliminares de inépcia da petição inicial e da incompatibilidade dos pedidos formulados na ação de prestação de conta, assim como em relaçãoàs teses de cerceamento de defesa e da arremataçãodo imóvel por preço vil; (iii) os arts. 467, 486 e 694 do CPC/1973 e 206, § 3º, IV, do CC/2002 carecem de prequestionamento;(iv) o dissídio jurisprudencial não foi demonstrado conforme as normas legal e regimental e (v) aplica-se a Súmula nº 418/STJ.
+No tocante aos argumentos acerca da ocorrência de prescrição e de decadência, restou assentado que
+(..)
+"a Corte local afastou as alegações de prescrição e decadência do direito de anular a arrematação, conforme se extrai da leitura do voto condutor:
+"(..)Os documentos juntados pelas partes dão conta de que o autor, em momento algum, se conformou com a arrematação ocorrida, sustentando, desde o principio, a ocorrência de preço vil, tendo inclusive ajuizado ação anulatória à época (nº 59.426). A sentença (acostada à fl. 265) extinguiu o feito sem julgamento de mérito, porque na data de sua prolação (31/08/2000) já havia sido acolhido o pedido de outro credor de anulação da mencionada praça, razão pela qual a demanda do autor, ora apelante, havia perdido o seu objeto.
+Da decisão que anulou a praça, a ré, ora recorrente, interpôs os recursos cabíveis, tendo o STJ reformado a decisão do Juiz singular apenas em 13/04/2009, conforme se infere das cópias de fls. 16-18. Entretanto, no referido acórdão, deixou claro que cabia ao agravado (ora autor) a possibilidade de postular a anulação através de ação própria, tendo a presente sido ajuizada cerca de dois meses após, ou seja, em 18/09/2009."(fls. 507-508 e-STJ)
+Como se vê, em nenhum momento desde a arrematação o recorrido semanteve inerte. Pelo contrário, ajuizou ação visando anular a alienação do imóvel em praça pública, que foi extinta sem resolução do mérito porque outro credor obteve sucesso em pretensão idêntica. A discussão nesta última ação foi levada até o Superior Tribunal de Justiça, oportunidade na qual, em 13/4/2009, reformou a sentença e abriu ao recorrido a possibilidade de questionar a arrematação, sendo que a presente ação foi ajuizada em 18/9/2009.
+Nesse passo, conforme orientação desta Corte Superior, "o prazo extintivo do direito só pode ser imputado àquele que se manteve silente e inerte no decorrer do tempo quando poderia ter atuado"(AgInt no REsp 1.546.751/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 3/5/2018, DJe 14/5/2018)" (fls. 810-811 e-STJ).
+Nesse contexto, os fundamentos adotados pela decisão ora recorrida são claros e suficiente para afastar todas alegações tecidas no apelo especial, inexistido omissões, obscuridades ou inexatidões materiais.Ademais, o pressuposto para se afastar a prescrição e a decadência foi a ausência de inércia do embargado, sendo evidente que, neste ponto, não há contradição interna.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
