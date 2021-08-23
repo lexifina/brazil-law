@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por ACÁCIA INCORPORADORA LTDA e OUTRO,mediante o qual se impugna acórdãos, promanados do Tribunal de Justiça do Estado deSão Paulo, assim ementados:
+"AGRAVO INTERNO em AGRAVO DE INSTRUMENTO
+Cumprimento de sentença Honorários advocatícios. Impugnação: a) Gratuidade de justiça. Pessoa jurídica. Não cabimento, pois a sujeição ao regime de recuperação judicial, por si só, não demonstra hipossuficiência financeira. Necessidade de comprovação idônea, o que não ocorreu no caso Ademais, o indeferimento monocrático do pedido não foi objeto de recurso, o que gera preclusão; b) Extinção, ou remessa dos autos ao juízo da recuperação judicial. Não cabimento, pois o crédito em execução foi gerado depois do pedido de recuperação judicial.Inaplicabilidade dos arts. 49 e 59 da Lei 11.101/2005; c) Penhora de bens. Questão não tratada na decisão agravada não poderia ser objeto de apreciação na decisão anterior. Penhora "on-line" via BACENJUD. Regularidade, até porque o dinheiro prefere os demais bens.RECURSO IMPROVIDO" (fl. 350e).
+"AGRAVO INTERNO em AGRAVO DE INSTRUMENTO.
+Retorno dos autos para reexame de v. Acórdão à luz da tese jurídica editada pelo STJ. REsp. 1.843.382/RS, Tema 1.051, DJe de 17/12/2020, cujos termos são os seguintes: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador.Recuperação judicial requerida em 23/02/2017. Crédito exequendo constituído antes de tal data.Ausência de incompatibilidade da conclusão do Acórdão com aludida tese jurídica.Mantido o dispositivo do Acórdão, ie, RECURSO IMPROVIDO" (fl. 409e).
+No seu Recurso Especial, manejado com apoio nas alíneas a e c do permissivo constitucional, a parterecorrente aponta a existência de dissenso pretoriano e ofensa aosarts. 49, caput, da Lei 11.101/2005 e 92 do Código Civil.
+Sustenta, em breve síntese, o seguinte:
+"(..)a despeito do entendimento adotado pelo E. TJSP, inexistem dúvidas de que o crédito em discussão está sujeito à recuperação judicial, uma vez que: (i) não se enquadra nas exceções do art. 49 da LRF; (ii) possui fato gerador anterior à data do pedido de recuperação judicial" (fl. 543e).
+Requer, por fim:
+"(..) seja dado provimento ao recurso, com a reforma do acórdão impugnado para:
+(i) declarar a sujeição do crédito judicial titularizado pelo Recorrido à recuperação da Recorrente, devendo ser habilitado e recebido em conformidade com o plano aprovado e homologado pelo Juízo recuperacional;
+(ii) independentemente da natureza do crédito objeto de discussão, reconhecer e declarar a competência exclusiva do Juízo recuperacional para a prática de atos de constrição patrimonial em desfavor das Recorrentes, reformando-se a decisão no que diz respeito à autorização para realização da penhora online (BACENJUD)" (fl. 378e).
+Contrarrazões, a fls. 396/401e.
+Recurso Especial admitido (fls. 417/418e).
+A irresignação não merece prosperar.
+No concernente àcompetência do juízo da execução para determinar a medida constritiva, mostra-se impossível o conhecimentoda matéria, dada sua evidente falta de prequestionamento(Súmula 211/STJ).
+Quanto ao mais, orienta-se a jurisprudência do STJ no sentido de que: (a) a data do pedido de recuperação - em sendo, obviamente, deferido esse pedido - constitui o termo final paraa inclusãode créditos narecuperação judicial; e (b) o crédito relativo aoshonorários de sucumbência tem-se por constituído na data da sentença que o fixou.
+Senão, vejamos:
+"TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO.HONORÁRIOSADVOCATÍCIOS.RECUPERAÇÃO JUDICIAL.PLANO DE RECUPERAÇÃO. NATUREZA DOS CRÉDITOS. REEXAME PROBATÓRIO VEDADO. SÚMULA 7/STJ.
+1. O acórdão apenas se limitou a dizer que, "ainda que transitada em julgado a sentença que fixou oshonoráriosposteriormente ao pedido derecuperação judicial,referido crédito deriva de haveres anteriormente existentes, embora não declarados judicialmente" (fl. 32, e-STJ).
+2. "Em exegeselógicae sistemática, se a sentença que arbitrou oshonoráriossucumbenciais se deu posteriormente ao pedido derecuperação judicial,o crédito que dali emana, necessariamente, nascerá com natureza extraconcursal, já que, nos termos do art. 49, "caput" da Lei 11.101/05, sujeitam-se ao plano de soerguimento os créditos existentes na data do pedido derecuperação judicial,ainda que não vencidos, e não os posteriores. Por outro lado, se a sentença que arbitrou oshonoráriosadvocatícios for anterior ao pedido recuperacional, o crédito dali decorrente deverá ser tido como concursal, devendo ser habilitado e pago nos termos do plano derecuperação judicial"(REsp 1.841.960/SP, Rel. Ministra Nancy Andrighi, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Segunda Seção, julgado em 12/02/2020, DJe 13/04/2020).
+3. Inexistem, portanto, marcos temporais bem definidos no acórdão que possibilitem a incidência do novel precedente, como bem salientou o Parquet federal, haja vista que não é requerida a data do trânsito em julgado da sentença que fixa oshonorários,mas a data de sua prolação (em respeito ao "tempus regit actum"), a qual não necessariamente ocorrerá após o plano.
+4. Observa-se, portanto, que descabe revolver o acervo probatório para cotejar o precedente com o caso concreto, em respeito à Súmula 7/STJ.
+5. Agravo Interno não provido" (STJ, AgInt no REsp 1.861.446/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 18/12/2020).
+Acerca do momento da constituição do crédito, objeto da presente discussão, assim se manifestou, o Tribunal de origem:
+"No caso, conforme alegado pela agravante, a recuperação judicial foi requerida em 23/02/2017 (fls. 153/ss).
+Contudo, a decisão judicial em execução v. Acórdão de fls. 21/ss, data de 18/05/2018, o que demonstra que, na data do pedido da recuperação judicial, o crédito ainda não tinha sido gerado, razão pela qual inaplicável à espécie o art. 49 da LRF, nem a ideia de que o acessório segue o principal" (fls. 354/355e).
+Segundo a cronologia estabelecida no acórdão recorrido - que não mais pode ser modificada, nesta via recursal, dada a vedação contida na Súmula 7/STJ -, o crédito executado (e ainda não satisfeito) é posteriorao pedido derecuperação judicial,de modo que, nos termos do precedente mencionado, deve ser excluído do plano derecuperação judicial.
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço em parte doRecurso Especial e, nessa extensão, nego-lhe provimento.
+Sem honorários recursais. Decisão interlocutória.
+I.
