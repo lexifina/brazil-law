@@ -1,0 +1,20 @@
+DECISÃO:
+Ementa: Direito Constitucional. Ação Direta de Inconstitucionalidade. Ausência de documentos necessários à instrução do processo de controle de constitucionalidade.
+1. Ação direta de inconstitucionalidade ajuizada contra lei estadual que teria proibido a corrida de cachorros.
+2. A petição inicial não foi instruída com elementos essenciais à compreensão da controvérsia e também não apresenta documentos necessários à instrução do processo de controle de constitucionalidade, nos termos do art. 3º da Lei nº 9.868/99.
+3. Pedido a que se nega seguimento.
+    1. Trata-se de ação direta de inconstitucionalidade, com pedido de medida cautelar, ajuizada pela Associação Brasileira de Criadores de Greyhoumds – ABCG contra a Lei nº 196/2020, que teria proibido a corrida de cachorros no âmbito do Estado do Rio Grande do Sul. A autora alega que a referida lei foi editada sem qualquer estudo e sem que se tenha verificado situação de maus tratos contra animais. Requer a suspensão do ato em sede liminar e, no mérito, a procedência do pedido para que seja declarada a inconstitucionalidade do diploma impugnado.
+    2. Em 21.07.2021, a Ministra Rosa Weber, Vice-Presidente do Supremo Tribunal Federal, indeferiu a cautelar no período do recesso judiciário, pois o caso não se amolda à hipótese prevista no art. 13, VIII, do RI/STF. Na ocasião, registrou que a petição inicial não contém a indicação do ato normativo estadual questionado e não é acompanhada dos documentos necessários à instauração do processo de controle concentrado.
+    3. Findo o recesso judiciário, os autos vieram conclusos.
+    4. É o relatório. Decido.
+    5. Não é possível conhecer do pedido formulado na presente ação direta de inconstitucionalidade, tendo em vista que a petição inicial não apresenta elementos essenciais à compreensão da controvérsia, assim como não foi acompanhada de documentos necessários à instrução do processo de controle concentrado de constitucionalidade. A hipótese é de indeferimento liminar na forma do art. 4º da Lei nº 9.868/1999.
+    6. O autor não indica adequadamente qual a lei estadual impugnada, não menciona o teor dos seus dispositivos, assim como não apresenta cópia desse ato normativo. A petição inicial se limita a apontar como objeto a Lei nº 196/2020, mas não descreve o conteúdo exato de suas normas. Em breve consulta à página eletrônica da Assembleia Legislativa do Estado do Rio Grande do Sul, não consta nenhuma lei estadual aprovada com essa numeração. É possível identificar um projeto de lei com esse número, mas ele está prejudicado [1]. Também não foi juntada aos autos cópia do ato normativo, como exige o art. 3º, parágrafo único, da Lei nº 9.868/1999. Não é possível, portanto, identificar o objeto da controvérsia, o que prejudica o desenvolvimento dos fundamentos jurídicos do pedido e a compreensão da demanda.
+    7. Não bastasse isso, o instrumento de procuração não apresenta os dados da associação requerente, não foram juntados os seus atos constitutivos, de maneira que não é possível, tampouco, aferir a legitimidade da entidade para o ajuizamento da ação. No documento que foi juntado aos autos como procuração (Doc. 02), a qualificação da outorgante está em branco e seu estatuto social também não foi apresentado. Além de não estarem presentes elementos necessários para a regularidade do instrumento de mandato, não é possível aferir a representatividade nacional da requerente, na forma exigida pelo art. 103, IX da CF/1988 e pelo art. 2º, IX, da Lei nº 9.968/1999.
+    8. Como se observa, não foram apresentados elementos essenciais ao prosseguimento regular do feito.
+    9. Diante do exposto, nego seguimento ao pedido, nos termos do art. 4º da Lei nº 9.868/99, c/c o art. 21, § 1º, do RI/STF.
+    Publique-se. Intime-se.
+          Brasília, 23 de agosto de 2021.
+      Ministro LUÍS ROBERTO BARROSO
+Relator
+    [1]Disponível em:
+     www.al.rs.gov.br/legislativo/Exibeproposicao/SiglaTipo/PL/NroProposicao/2020/Origem/Px/Default.aspx, acesso em 13.08.2021.
