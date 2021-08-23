@@ -1,0 +1,26 @@
+RECURSO DE AGRAVO DE INSTRUMENTO N.o 1014491-80.2021.8.11.0000
+Vistos etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por BRAZ FERNANDES DA CUNHA em virtude da decisão proferida pelo Juiz da 2.a Vara da Comarca de Vila Rica que, nos autos de Ação Antecedente de tutela Antecipada n.o 1000193-33.2021.8.11.0049, que move o ESPÓLIO DE FLÁVIO PINHO DE ALMEIDA e outros, deferiu o pedido cautelar formulado pelos Recorridos, determinando a averbação da vertente ação nas margens da matrícula n. 179, bem como determinou a suspensão de eventual registro de certificação do bem imóvel obtida pelo Agravante junto ao INCRA.
+Inconformado, insurge-se o Agravante requestando a reforma da decisão objurgada, ao argumento de que a averbação da existência de ação na fase de conhecimento, restringe o direito da plena propriedade do Agravante no imóvel sub judice, causando-lhe graves prejuízos.
+Sustentam que, "ainda que haja entendimento no sentido de que eventual averbação da existência da ação junto ao registro não impossibilite o exercício do direito de propriedade, não há como negar que sua ocorrência impõe gravame e verdadeira restrição ao bem, especialmente em situações como a dos autos, quando as evidências indicam que o imóvel não está registrado em nome dos Agravados, como reconhecido por eles”.
+Por fim, aduz que foram observados os pressupostos autorizadores para a concessão da medida in limine recursal.
+Forte em tais argumentos, requer seja agregado efeito suspensivo ao recurso para, desde logo, sobrestar a decisão invectivada até o julgamento do mérito deste Instrumental. No mérito, requesta pelo provimento do recurso.
+É, no essencial, o relatório. DECIDO.
+O Recurso comporta recebimento como Agravo de Instrumento, pois a hipótese se encaixa no artigo 1.015, inciso I, do CPC, bem como veio instruído com os documentos necessários para sua análise e conhecimento, nos termos do art. 1.017, § 5.o do CPC.
+Como é cediço, o artigo 1.019, inciso I, do Código de Processo Civil, preconiza que o Relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+Ademais, o parágrafo único do artigo 995 do CPC estabelece que “a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.”
+Nesse contexto, é vedado nos estreitos limites deste Recurso o exame de questões de fundo do direito discutido, sendo necessário, portanto, aferir se estão, ou não, presentes os pressupostos necessários para o deferimento da aludida medida. Isso porque, o Agravante busca sobrestar os efeitos da decisão objurgada até o julgamento definitivo do recurso.
+Da análise dos autos, nesta fase de cognição sumária, não foi possível observar com clareza a confluência desses pressupostos para a concessão da medida in limine.
+Com efeito, examinando detidamente o caderno processual, observo que o Juiz singular limitou-se a determinar a anotação do processo originário à margem da matrícula do imóvel rural objeto da demanda, bem como determinou a suspensão de eventual registro de certificação do bem obtida pelo Agravante junto ao INCRA.
+Inobstante isto, não consta na decisão agravada determinação de expropriação ou indisponibilidade do imóvel.
+Nessa linha de intelecção, não entrevejo na averbação deferida pelo Julgador singular qualquer perigo de dano ou risco aos interesses do Agravante, posto que o ato não afeta diretamente a posse e/ou propriedade da coisa, tanto é verdade que o Recorrente se restringiu a pleitear perante o Juízo singular tão somente a baixa da averbação, sem qualquer alusão à manutenção ou reintegração de posse.
+Noutro vértice, eventual liberação da constrição judicial seria medida temerária, considerando, sobretudo, o risco de irreversibilidade do ato em si, vez que, com a baixa da anotação, o imóvel poderá ser alienado a terceiro que não tem conhecimento da controvérsia, e o próprio mérito da Ação poderá prejudicado (art. 300, §3° do CPC).
+Consigna-se que, para justificar o deferimento do pleito liminar não basta a aparente situação de prejuízo, mas é imprescindível a comprovação do perigo de que este prejuízo se torne irreversível ou de improvável recomposição caso a medida seja concedida apenas na fase de julgamento do mérito recursal, o que efetivamente não foi observado pelo Recorrente.
+Assim, pelo menos nesta quadra de cognição não exauriente, não vislumbro a probabilidade do direito invocado pelo Agravante, e tampouco o periculum in mora nas arguições suscitadas, posto que, como registrado alhures, a anotação lançada na matrícula objeto dos autos limita-se a informar a existência da Ação.
+Por tais considerações, indefiro o pedido de efeito suspensivo pleiteado.
+Comunique-se ao Juiz da causa.
+Intimem-se os Agravados para, querendo, apresentar contrarrazões, no prazo legal, nos termos do art. 1.019, II, do Código de Processo Civil.
+Cumpra-se.
+Cuiabá, 23 de agosto de 2021.
+Des.a Clarice Claudino da Silva
+Relatora
