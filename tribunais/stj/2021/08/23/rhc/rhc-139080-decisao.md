@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JEFFERSON BRUNO IBERNON FEITOSA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ no julgamento do HC n. 0809062- 69.2020.814.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 27/7/2020 por ter supostamente praticado o delito tipificado no art. 155, caput, do Código Penal (furto simples). Referida custódia foi convertida em preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS LIBERATÓRIO COM PEDIDO DE LIMINAR. ART. 155, CAPUT. DO CPB. CONVERSÃO DA PRISÃO EM FLAGRANTE EM PREVENTIVA. REPRESENTAÇÃO DA AUTORIDADE POLICIAL OU REQUERIMENTO DO MINISTÉRIO PÚBLICO. DESNECESSIDADE. FUNDAMENTO EM REQUISITO DO ART 312, DO CPPB. ORDEM DENEGADA. DECISÃO UNÂNIME.
+1. Não há o que se falar em constrangimento ilegal, tampouco em ilegalidade, quando a conversão da prisão em flagrante em custódia preventiva for decretada, de ofício, pelo Juízo a quo, mesmo sem representação da autoridade policial ou requerimento do ministério público, estando arrimada em requisito do art. 312 do CPPB,in casu, a ordem pública" (fl. 47).
+No presente recurso, assevera que o Juízo de primeiro grau decretou a prisão preventiva do recorrente de ofício ao homologar o flagrante, inexistindo representação da autoridade policial ou do Ministério Público nesse sentido, fato que caracteriza violação ao disposto no art. 311 do Código de Processo Penal.
+Requer, assim, a expedição de alvará de soltura em seu favor diante da flagrante ilegalidade.
+O pedido de liminar foi indeferido às fls. 72/73, as informações foram prestadas, às fls. 79/84, 85/118 e 130/143, e o Ministério Público Federal opinou pela prejudicialidade do recurso (fl. 123).
+É o relatório.
+Decido.
+O presente recurso encontra-se prejudicado.
+Isso porque, conforme informações prestadas pelo Desembargador do Tribunal de origem, às fls. 133/134, foi proferida sentença condenatória em 19/11/2020,sendo o recorrente condenado à pena de 2 anos e 6 meses de reclusão, em regime fechado, negado o direito de recorrer em liberdade.
+Dessaforma, resta prejudicada a alegação de nulidade na preventiva por ter sido decretada de ofício pelo Juiz primevo, em razão de novo título a embasar a segregação cautelar.
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ASSOCIAÇÃO PARA O TRÁFICO. TRÁFICO DE ENTORPECENTES (8.195,1 KG DE MACONHA E 1.129,3 KG DE COCAÍNA). POSSE ILEGAL DE ARMAS (FUZIS, PISTOLAS E REVÓLVERES DE CALIBRES DIVERSOS E DE USO PERMITIDO E RESTRITO, MUNIÇÕES). ARGUIÇÃO DE QUE O FLAGRANTE FOI CONVERTIDO EM PRISÃO PREVENTIVA DE OFÍCIO PELO MAGISTRADO. SUPERVENIÊNCIA DE SENTENÇA. PREJUDICIALIDADE. NOVO TÍTULO. QUESTÃO NÃO DISCUTIDA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE. MANUTENÇÃO DOS FUNDAMENTOS DA SEGREGAÇÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE SOCIAL DEMONSTRADA. PRISÃO PREVENTIVA. FUNDAMENTOS. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. A prolação de sentença condenatória prejudica o exame da arguição de nulidade da prisão preventiva decretada de ofício pelo Magistrado, tendo em vista que o decisum configura novo título judicial a embasar a constrição cautelar. Ainda que assim não fosse, a referida tese não foi discutida pela instância de origem, impedindo, assim, o seu exame por esta Corte, sob pena de indevida supressão de instância 2. Não prejudica o writ, contudo, no ponto relacionado à fundamentação da prisão preventiva, tendo em vista que as razões que levaram à manutenção do decreto foram as mesmas apontadas por ocasião da decisão primeva (RHC n. 88.388/PR, Ministro Jorge Mussi, Quinta Turma, DJe 28/6/2018).
+3. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fazem referência às circunstâncias fáticas justificadoras, destacando a grande quantidade de drogas (8.195,1 kg de maconha e 1.129,3 kg de cocaína) e armamentos apreendidos (fuzis, pistolas e revólveres de calibres diversos e de uso permitido e restrito, munições - quase mil), além de carregadores, coletes balísticos, máscaras, diversos automóveis (com compartimentos secretos), bloqueadores de celulares, e material utilizado para a embalagem de entorpecentes, tudo a demonstrar a necessidade de resguardar a ordem pública, dada a real periculosidade do paciente e a gravidade da ação delituosa.
+4. Agravo regimental improvido.
+(AgRg no HC 614.766/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 15/06/2021).
+Assim, não há como negar a perda superveniente do objeto do presente recurso ordinário em habeas corpus, haja vista que o pleito refere-se apenas à ilegalidade da prisão.
+Ante o exposto, julgo prejudicado o presente recurso, com fundamento no art. 34, XI, do RISTJ.
+Publique-se.
+Intimem-se.
