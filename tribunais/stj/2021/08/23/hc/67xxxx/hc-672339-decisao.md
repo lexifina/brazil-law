@@ -1,0 +1,24 @@
+DECISÃO
+JOELSON DE MOURA INÁCIO alega sofrer coação ilegal em seu direito de locomoção, em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0001652-04.2021.8.26.0071.
+Busca o impetrante seja concedida, ao paciente, a progressão ao regime aberto e, subsidiariamente, seja-lhe deferido livramento condicional, ao argumento, em síntese, de que estariam preenchidos os requisitos necessários para a concessão dos benefícios.
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que opinou pela denegação da ordem.
+Decido.
+Quanto à progressão de regime, urge consignar que, " a  teor dos precedentes deste Superior Tribunal, ao indeferir a progressão de regime por inadimplemento do requisito subjetivo, o julgador deve mencionar elementos relacionados ao histórico carcerário mais ou menos recente do apenado" (HC n. 505.302/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/7/2019, grifei).
+Na hipótese, o Juízo das Execuções Penais indeferiu o pleito de progressão de regime nos termos seguintes (fls. 63-65):
+O sentenciado é reincidente.
+O requisito objetivo foi cumprido em 22/03/2020.
+O sentenciado teve indeferido em 19/11/2020 semelhante requerimento de progressão ao regime aberto pois não restou comprovado de maneira plena o preenchimento do requisito subjetivo.
+Como anteriormente mencionado, fls. 32/34, o sentenciado registra condenações por crimes graves, praticados quando em gozo anterior de livramento condicional e de progressão ao regime aberto, como em 2017, quando o sentenciado foi beneficiado com o regime aberto e foi preso em flagrante delito, novamente, em 18/01/2018, pela prática do crime de roubo, demonstrando desrespeito às regras a serem seguidas quando do cumprimento da sanção penal.
+Devem ser considerados também os delitos praticados, que não é fator absoluto na análise da progressão, mas que devem ser conjuntamente analisados com outros elementosconcretos existentes nos autos.
+O sentenciado, além do acima mencionado, registra cinco (05) faltas graves.
+Quando da prática de falta grave, durante o cumprimento da sanção penal, segundo posição do Superior Tribunal de Justiça, a falta grave pode ser utilizada a fim de verificar o cumprimento do requisito subjetivo necessário para a concessão de benefícios da execução penal e a prática de falta grave no curso da execução penal constitui fundamento idôneo para negar o livramento condicional, ante a ausência de preenchimento do requisito subjetivo, como verifica-se na seguinte ementa:
+ ..
+Imperioso, assim, que o sentenciado permaneça no regime intermediário até que demonstre efetivamente a maturidade necessária para alcançar a liberdade, o que não ficou demonstrado, mantendo-se o status quo de quando do indeferimento anterior.
+Ausente o requisito subjetivo, indefiro o pedido de progressão ao regime aberto, comunicando-se ao estabelecimento prisional.
+Consoante se observa do excerto adrede colacionado, o Magistrado de primeiro grau negou o pedido de concessão dos benefícios por reputar ausente o requisito subjetivo.
+Destaco que, conquanto a falta grave não seja considerada marco interruptivo para o deferimento do benefício, o paciente possui histórico de mau comportamento durante o cumprimento da pena, incluindo o cometimento de novos delitosquanto beneficiado com o regime aberto e o livramento condicional, além do registro de 5 faltas disciplinares de natureza grave. Assim, o sentenciado não apresenta comprovação de comportamento satisfatório durante a execução da pena de maneira a ensejar o deferimento da benesse.
+Por essas razões, não constato nenhuma ilegalidade na decisão mantida pela Corte de origem, uma vez que a progressão de regime foi indeferida com base em elementos concretos dos autos que, efetivamente, evidenciam a ausência do cumprimento do requisito subjetivo.
+Não há que se falar, portanto, em constrangimento ilegal na decisão exarada pelo Tribunal de Justiça, porquanto " e sta Corte Superior pacificou o entendimento segundo o qual, ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo. Precedentes" (HC n. 468.765/RS, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 18/12/2018, sublinhei).
+Ademais, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar a concessão do benefício prisional, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, denego a ordem do habeas corpus.
+Publique-se e intimem-se.
