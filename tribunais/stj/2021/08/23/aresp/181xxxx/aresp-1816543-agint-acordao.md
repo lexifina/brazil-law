@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA. ANS. REAJUSTE. PLANO DE SAÚDE COLETIVO. REEXAME DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. VEDAÇÃO. SÚMULAS 5 E 7/STJ. AGRAVO NÃO PROVIDO.
+1.O Tribunal de origem concluiu por manter a multa administrativa aplicada pela ANS, considerando que as cláusulas contratuais pactuadas entre a operadora de saúde e a entidade fundacional não eram claras quanto aos critérios de reajuste da mensalidade e que tampouco houve a comprovação de efetiva negociação entre as partes.
+2. Assim,a reforma das conclusões da Corte de origem demandao revolvimento dos elementos probatórios da lide, bem como o reexame de cláusulas contratuais, o que é vedado nas instâncias extraordinárias, nos termos preconizados nas Súmulas 5 e 7/STJ.
+3.O argumento da agravante no sentido de que o aditamento contratual convalidaria os reajustes realizados anteriormente à sua celebração também atrai o óbice dos referidos enunciados sumulares, na medida em que a análise da observância ao disposto no art. 16, XI, da Lei n. 9.656/1998, nesse particular, implicaria o exame do referido instrumento aditivo, o que sequer foi realizado pela Corte de origem.
+4. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por Unimed Porto Alegre - Cooperativa Médica Ltda. contra decisão exarada pela Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, em razão do óbice constante da Súmula 7/STJ.
+A agravante sustenta que não se aplica o referido impeditivo sumular, uma vez que os fatos são incontroversos.
+Alega que o aresto recorrido afrontou o disposto no art. 16, XI, da Lei n. 9.656/1998, o qual permite a livre pactuação dos reajustes no âmbito dos planos de saúde coletivos.
+Defende que é indevida a multa aplicada pela ANS, pois a própria autarquia "já atualizou sua interpretação e reconhece atualmente em âmbito administrativo que os reajustes formalizados com aditivos contratuais são válidos e comprovam negociações anteriores, mesmo que assinados após a aplicação  .. " (e-STJfl. 446).
+Requer a reforma da decisão agravada, a fim de que o recurso especial seja conhecido e, no mérito, provido.
+A parte agravada apresentou impugnação (e-STJfls. 455-459).
+É o relatório.
+EMENTA
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA. ANS. REAJUSTE. PLANO DE SAÚDE COLETIVO. REEXAME DE CLÁUSULAS CONTRATUAIS E REVOLVIMENTO DE MATÉRIA FÁTICO-PROBATÓRIA. VEDAÇÃO. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.
+1.O Tribunal de origem concluiu por manter a multa administrativa aplicada pela ANS, considerando que as cláusulas contratuais pactuadas entre a operadora de saúde e a entidade fundacional não eram claras quanto aos critérios de reajuste da mensalidade e que tampouco houve a comprovação de efetiva negociação entre as partes.
+2. Assim,a reforma das conclusões da Corte de origem demandao revolvimento dos elementos probatórios da lide, bem como o reexame de cláusulas contratuais, o que é vedado nas instâncias extraordinárias, nos termos preconizados nas Súmulas 5 e 7/STJ.
+3.O argumento da agravante no sentido de que o aditamento contratual convalidaria os reajustes realizados anteriormente à sua celebração também atrai o óbice dos referidos enunciados sumulares, na medida em que a análise da observância ao disposto no art. 16, XI, da Lei n. 9.656/1998, nesse particular, implicaria o exame do referido instrumento aditivo, o que sequer foi realizado pela Corte de origem.
+4. Agravo interno a que se nega provimento.
+VOTO
+O Tribunal de origem concluiu por manter a multa administrativa aplicada pela ANS, considerando que as cláusulas contratuais pactuadas entre a operadora de saúde e a Fundação Ruben Berta não eram claras quanto aos critérios de reajuste da mensalidade e que tampouco houve a comprovação de efetiva negociação entre as partes.
+Veja-se, no ponto, a seguinte transcrição (e-STJfls. 329-330):
+Além de o contrato não estabelecer um índice claro e exato, não se demonstrou que o reajuste aplicado em fevereiro de 2011 tenha observado qualquer critério ou metodologia de cálculo. Outrossim, constata-se que tampouco houve efetiva negociação entre os contratantes.
+O documento mencionado pela operadora como "comunicação trocada entre as partes" a respeito do reajuste, nada mais é do que simples comunicação à Fundação Ruben Berta referente à "adaptação contratual ao estipulado pela Resolução Normativa - RN n. 195 da Agência Nacional de Saúde Suplementar e manutenção do equilíbrio econômico-financeiro do contrato", da qual consta o seguinte (p. 36/37 - PROCADM3 - Evento 1):
+"(..) Vimos pela presente, para todos os fins e efeitos de direito, NOTIFICÁ-LA que os referidos contratos serão mantidos, estando, no entanto, impedido o ingresso de novos beneficiários, ressalvados os casos de novo cônjuge e filhos do titular, consoante artigo 26 da já referida RN n. 195. Outrossim, também informamos que a partir do mês de janeiro será aplicado reajuste de 19% (dezenove por cento) às mensalidades, conforme faixas etárias previstas contratualmente.".
+Vê-se que comunicado da operadora à pessoa jurídica contratante sequer mencionava o reajuste anual previsto pelas cláusulas 45 e 46, mas sim o reajuste por faixa etária.
+Há, portanto, evidente violação ao que estabelece o art. 16, XI da Lei 9.656/98 quanto à necessidade de que conste do contrato dispositivos que apontem, com clareza, os critérios de reajuste e revisão das contraprestações pecuniárias; tendo a operadora aplicado reajuste da contraprestação pecuniária, por variação anual de custos, acima do contratado.
+O aditamento contratual datado de janeiro de 2014 (CONTR2 - Evento 29) não convalida os reajustes para o período anterior à sua celebração, pois o acordo entre as partes e previsão contratual deve ser prévio à cobrança.
+Reitero, em atenção aos documentos juntados pela apelante no Evento 3, que os elementos constantes dos autos demonstram cabalmente não ter havido , à época da aplicação do reajuste em questão (fevereiro/2011), tratativas ou livre negociação entre as partes, mas imposição unilateral do percentual de 19% a título de recomposição do equilíbrio-econômico financeiro.
+Deve, portanto, ser mantida a higidez do auto de infração 43016, lavrado nos autos do PA nº 25785.002423/2011-76, que deu origem à CDA nº 24028-15, cobrada no feito executivo; bem como a sentença que julgou improcedentes os presentes embargos à execução.
+Nesse contexto, observa-se que a reforma das conclusões da Corte de origem demandao revolvimento dos elementos probatórios da lide, bem como o reexame de cláusulas contratuais, o que é vedado nas instâncias extraordinárias, nos termos preconizados nas Súmulas 5 e 7/STJ, respectivamente: " A simples interpretação de cláusula contratual não enseja recurso especial" e " A pretensão de simples reexame de prova na enseja recurso especial.".
+O argumento da agravante no sentido de que o aditamento contratual convalidaria os reajustes realizados anteriormente à sua celebração também atrai o óbice dos referidos enunciados sumulares, na medida em que a análise da observância ao disposto no art. 16, XI, da Lei n. 9.656/1998, nesse particular, implicaria o exame do referido instrumento aditivo, o que sequer foi realizado pela Corte de origem.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
