@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de pedido de reconsideração apresentado por RUBENS PAULINO TITO, em face da decisão de fls. 123-124, que, com fundamento na Súmula n. 691 do STF, indeferiu liminarmente o habeas corpus impetrado em seu favor, no qual indicara como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2182025-15.2021.8.26.0000).
+O paciente teve a prisão em flagrante convertida em preventiva por suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na expressiva quantidade e variedade de entorpecentes apreendidos - 3 tijolos de maconha e 963 porções de crack -, além dos maus antecedentes do paciente, com registro de 3 condenações por roubo e receptação.
+Impetrado writ na origem, o relator no Tribunal de origem indeferiu a liminar.
+A defesa alega que o paciente está sofrendo constrangimento ilegal pois não estão preenchidos os requisitos mantenedores da custódia cautelar.
+Aponta nulidade na prisão, em razão de não ter sido realizada a audiência de custódia.
+Requer a concessão de liminar para que seja revogada a prisão preventiva do paciente ou substituída por medidas cautelares diversas.
+O Ministro do STF, Edson Fachin, relator do HC n. 205.282/SP, encaminhou cópia da decisão proferida no writ impetrado contra a decisãode fls. 123-124.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos e passo ao exame do mérito da impetração.
+Em relação à prisão preventiva, não visualizo, manifesta ilegalidade que autorize o afastamento da aplicação doverbete sumular n. 691 do STF, porquanto, com o indeferimento do pedido de liminar formulado no writ originário, ficou mantida a decisão que decretara a prisão preventiva dos pacientes, nos seguintes termos (fl. 119, destaquei):
+Examinando-se os autos e a decisão atacada, verifica-se que o paciente, em tese, mantinha em depósito, 3 (três) tijolos de maconha e 963 (novecentas e sessenta e três) porções de "crack" e admitiu, informalmente, a sua propriedade. Consta, ainda, que registra condenações por roubo e receptação.
+Destarte, indefiro a liminar pleiteada, que por ser providência excepcional, está reservada para os casos em que avulta flagrante o alegado constrangimento ilegal, o que não se verifica, nesta fase de cognição sumária. Caberá à Turma Julgadora a solução da questão em toda a sua extensão.
+No presente caso, a quantidade e a variedade dos entorpecentes apreendidos (3 tijolos de maconha e 963 porções de crack) - bem como os maus antecedentes do paciente, com registro de 3 condenações por roubo e receptação,foram consideradospelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Esse entendimento está em consonância com a jurisprudência da Quinta Turma de que a quantidade, a variedade ou a natureza das drogas apreendidas servem de fundamento para a decretação da prisão preventiva (AgRg no RHC n. 131.420/MS, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 30/9/2020; e AgRg no HC n. 590.807/RJ, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/9/2020).
+No mesmo sentido, o Supremo Tribunal Federal assentou que "a gravidade concreta do crime, o modus operandi da ação delituosa e a periculosidade do agente, evidenciados pela expressiva quantidade e pluralidade de entorpecentes apreendidos, respaldam a prisão preventiva para a garantia da ordem pública" (HC n. 130.708/SP, relatora Ministra Cármen Lúcia, Segunda Turma, DJe de 6/4/2016).
+Conforme orientação jurisprudencial do STJ, a existência de maus antecedentes e a reincidência justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 591.246/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 22/9/2020; e AgRg no HC n. 602.616/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 3/9/2020).
+Quanto à alegada nulidade por ausência de audiência de custódia, segundo informações encaminhadas pelo Supremo Tribunal Federal (fls. 156-167), o Ministro Edson Fachin, em 16/8/2021, no julgamento do HC n. 205.282/SP, concedeu a ordem de ofício, a fim de determinar a realização de audiência de custódia no prazo de 24 horas.
+Assim, nesse ponto, o feito não possui mais objeto.
+Como visto, na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de reconsideração da liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
