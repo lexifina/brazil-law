@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de embargos de declaraçãoopostos por BARIONI E CARVALHO - ADVOGADOS àdecisão desta relatoria que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento (fls. 1.122/1.126 e-STJ).
+Em suas razões, a embargante aponta obscuridade. Aduz que
+"(..) é preciso que esse Col. Superior Tribunal de Justiça esclareça (i) se a majoração da verba honorária foi realizada de modo equivocado, devendo-se aguardar a definição da Tese 1.046 ou (ii) se a majoração foi realizada de modo correto, mas provisoriamente, sem prejudicar o julgamento do AREsp interposto por BARIONI E CARVALHO -ADVOGADOS após a fixação da Tese 1.046" (fl. 1.133 e-STJ).
+Devidamente intimada, a parte contráriaapresentou impugnação (fls. 1.156/1.158 e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece acolhida.
+Com efeito, relativamente aos honorários recursais, a Terceira Turma do Superior Tribunal de Justiça firmou o entendimento de que, para a fixação da verba prevista no art. 85, § 11, do Código de Processo Civil de 2015, deverão ser observados determinados requisitos, conforme se verifica da seguinte ementa:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. OMISSÃO CONFIGURADA. ACOLHIMENTO DOS EMBARGOS PARA SANAR O VÍCIO. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS RECURSAIS. REQUISITOS.
+I - Para fins de arbitramento de honorários advocatícios recursais, previstos no § 11 do art. 85 do CPC de 2015, é necessário o preenchimento cumulativo dos seguintes requisitos:
+1. Direito Intertemporal: deve haver incidência imediata, ao processo em curso, da norma do art. 85, § 11, do CPC de 2015, observada a data em que o ato processual de recorrer tem seu nascedouro, ou seja, a publicação da decisão recorrida, nos termos do Enunciado 7 do Plenário do STJ: "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC";
+2. o não conhecimento integral ou o improvimento do recurso pelo Relator, monocraticamente, ou pelo órgão colegiado competente;
+3. a verba honorária sucumbencial deve ser devida desde a origem no feito em que interposto o recurso;
+4. não haverá majoração de honorários no julgamento de agravo interno e de embargos de declaração oferecidos pela parte que teve seu recurso não conhecido integralmente ou não provido;
+5. não terem sido atingidos na origem os limites previstos nos §§ 2º e 3º do art. 85 do Código de Processo Civil de 2015, para cada fase do processo;
+6. não é exigível a comprovação de trabalho adicional do advogado do recorrido no grau recursal, tratando-se apenas de critério de quantificação da verba.
+II - A título exemplificativo, podem ser utilizados pelo julgador como critérios de cálculo dos honorários recursais:
+a) respeito aos limites percentuais estabelecidos nos §§ 2º e 3º do art. 85 do CPC de 2015;
+b) observância do padrão de arbitramento utilizado na origem, ou seja, se os honorários foram fixados na instância a quo em valor monetário, por meio de apreciação equitativa (§ 8º), é interessante que sua majoração observe o mesmo método; se, por outro lado, a verba honorária foi arbitrada na origem com base em percentual sobre o valor da condenação, do proveito econômico ou do valor atualizado da causa, na forma do § 2º, é interessante que o tribunal mantenha a coerência na majoração utilizando o mesmo parâmetro;
+c) aferição do valor ou do percentual a ser fixado, em conformidade com os critérios estabelecidos nos incisos I a IV do § 2º do art. 85;
+d) deve ser observado se o recurso é parcial, ou seja, se impugna apenas um ou alguns capítulos da sentença, pois em relação aos demais haverá trânsito em julgado, nos termos do art. 1.002 do CPC de 2015, de modo que os honorários devem ser arbitrados tendo em vista o proveito econômico que a parte pretendia alcançar com a interposição do recurso parcial;
+e) o efetivo trabalho do advogado do recorrido.
+III - No caso dos autos, além de o recurso especial ter sido interposto quando ainda estava em vigor o CPC de 1973 e não haver sido fixada verba honorária na origem, por se tratar de decisão interlocutória, a parte ora embargante pretende o arbitramento dos honorários recursais previstos no § 11 do art. 85 do Novo CPC no âmbito do agravo interno, o que, como visto, não é cabível.
+IV - Embargos de declaração acolhidos para, sem atribuição de efeitos infringentes, sanar a omissão no acórdão embargado" (EDcl no AgInt no REsp 1.573.573/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 4/4/2017, DJe 8/5/2017 - grifou-se).
+Além disso, em sessão realizada em 9/3/2016, o Pleno do Superior Tribunal de Justiça elaborou o Enunciado Administrativo nº 7/STJ e deliberou que somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais.
+Confira-se:
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INEXISTÊNCIA DE VÍCIOS. EMBARGOS DE DECLARAÇÃO ACOLHIDOS PARA FINS DE ESCLARECIMENTOS, SEM EFEITOS MODIFICATIVOS.
+1. O Pleno deste Superior Tribunal de Justiça elaborou enunciados administrativos relativos ao Código de Processo Civil de 2015, com o intuito de orientar a comunidade jurídica acerca das questões de direito intertemporal, referentes à norma vigente aplicável a cada caso.
+2. Concernente aos honorários advocatícios, conforme o Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do artigo 85, § 11, do novo Código de Processo Civil.
+3. Acolho os embargos de declaração apenas para fins de esclarecimentos, sem efeitos modificativos" (EDcl no AgRg no AREsp 489.160/RS, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 14/6/2016, DJe 17/6/2016 - grifou-se).
+Compulsando os autos, observa-se que o presente grau de jurisdição iniciou-se diante de acórdão publicado em 19/12/2017 (fl. 912 e-STJ), que ensejou a interposição do recurso especial, portanto, após a entrada em vigor da Lei nº 13.105/2015, motivo pelo qual é cabível a fixação de honorários recursais.
+Destaca-se, ainda, que os honorários recursais foram majorados em virtudedo recurso especial da parte ARAÇATUBA EMPREENDIMENTOS E PARTICIPAÇÕES LTDA. ter tido o provimento negado, pois, conforme exposto, o art. 85, § 11, do Código de Processo Civil somente é aplicável quando inadmitido ou rejeitado o recurso interposto, ou seja, quando mantida integralmente a decisão recorrida.
+Assim, como os honorários recursais foram majorados em 30% (trinta por cento) - de R$ 1.000,00 (mil reais - fl. 840 e-STJ) para R$ 1.300,00 (mil e trezentos reais - fl. 1.125 e-STJ) -, caso o tribunal de origem, ao exercer o juízo de conformidade após a publicação dos acórdãos proferidos nos recursos representativos da controvérsia, entenda pela aplicação do art. 85, § 2º, do Código de Processo Civil de 2015, os honorários recursais, em virtudeda decisão proferida às fls. 1.122/1.126 (e-STJ), deverão ser fixados/majorados no percentual de 30% (trinta por cento) sobre o valor fixado pela instância de origem.
+Ante o exposto, acolho os embargos de declaração para prestar esclarecimentos, sem alteração no resultado do julgado.
+Publique-se.
+Intimem-se.
