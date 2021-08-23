@@ -1,0 +1,40 @@
+Decisão:
+    Vistos.
+    Cuida-se de reclamação constitucional, com pedido de liminar, ajuizada por José Eduardo Massa e Leonardo Massa, em face do Juiz de Direito da 17ª Vara Criminal da Capital/AL, cujo ato comissivo teria afrontado a autoridade do Supremo Tribunal Federal no que decidido na Súmula Vinculante nº 24.
+     Na peça vestibular, afirmam os reclamantes que a autoridade reclamada teria violado a súmula vinculante em questão ao receber a denúncia ofertada pelo Parquet Federal, em razão da artigos 2º, § 3º, da Lei 12.850/13, 1º da Lei 9.613/98 e 299 do Código Penal.
+    Aduzem, para tanto, que,
+    “[m]uito embora as imputações não se refiram especificamente aos crimes contra a ordem tributária, resta claro que os crimes de falsidade relatados são crimes-meio para a – suposta – prática de crime tributário, devendo assim ser absorvido pelo crime-fim, cabendo a imputação por essa última infração penal pelo princípio da consunção.
+    Ora, conforme constou na decisão judicial que decretou as prisões preventivas dos Reclamantes, o suposto esquema, segundo a autoridade policial, ‘contaria com a criação de empresas fantasmas visando a compensação indevida de ICMS (sic), gerando lucro ilícito em prejuízo ao erário’ (fls. 1458). (destaque nosso)
+    Logo, o objetivo principal da investigação capitaneada pelo Ministério Público de Alagoas, por intermédio dos Promotores integrantes de seu Grupo de Atuação Especial no Combate à Sonegação Fiscal e Lavagem de Bens – GAESF, sem sombra de dúvidas, por intermédio daquela Delegacia especializada, seria a persecução de crimes contra a ordem tributária, previstos na Lei 8.137/90.”
+    Prosseguem argumentado que
+    “o delito de falsidade atribuído ao primeiro Reclamante (JOSÉ EDUARDO MASSA), (e, cujo segundo Reclamante (LEONARDO MASSA) teria sido apenas e tão somente investigado pelo Núcleo especializado do Ministério Público de Alagoas, sem qualquer indício de autoria, razão pela qual sequer fora denunciado), seria um crime-meio para a – suposta – prática de crime tributário, devendo assim ser absorvido pelo crime-fim.
+    A narrativa da denúncia, sem sombra de dúvidas, aponta para o resultado mais grave, qual seja, o suposto dano causado ao erário de outros Estados membros da Federação, praticado por meio de atos sucessivos, em tese, para alcançar o bem maior juridicamente protegido, sendo que o último ato praticado absorve todos os anteriores.
+    Em suma, o princípio da consunção atua no sentido de o fato complexo absorver os fatos autônomos que o integram, prevalecendo o tipo resultante da reunião daquele.
+    Nesse ponto, resta claro e translúcido que, no caso concreto, os crimes imputados na denúncia são meramente crimes-meio, tendo como finalidade, em tese, a prática de crimes contra a ordem tributária previstos na Lei Federal nº 8.137/90, o que não se admite sem o esgotamento da via administrativa para apuração do crédito fiscal, cujo tangenciamento viola a autoridade da Súmula Vinculante nº 24 desse Egrégio Supremo Tribunal. ”
+    Requerem o deferimento da liminar para suspender o andamento da ação penal na origem e, por consequência, a revogação da custódia preventiva. E, no mérito, pedem a procedência da ação
+    “para que se faça valer a força vinculante e a autoridade dos julgados desse Colendo Supremo Tribunal Federal, determinando o trancamento da indigitada ação penal e a suspensão do Inquérito policial até o término, no caso de instauração de Processo Administrativo (...)”
+     Determinei a emenda da inicial, por ausência de indicação do valor da causa, o que foi atendido de forma tempestiva, bem como solicitei informações à autoridade reclamada (art. 157 do RISTF), que foram devidamente prestadas.
+    Examinados os autos, decido.
+    Das informações encaminhadas à Corte pela autoridade reclamada, transcrevo o seguinte excerto relativo ao que interessa:
+    “(...)
+    Nos autos principais (processo 0706238-28.202 I) o Ministério Público ofereceu denúncia em desfavor de JOSÉ EDUARDO MASSA, em 08 de julho de 2021, imputando-lhe prática dos delitos do art. 2º, c/c §3º da Lei 12.850/13 c/c art. 1º da Lei 9.613/98 (por 41x) c/c art. 299 (por 203x) do CP.
+    Julgando conveniente a separação processual como forma de privilegiar a celeridade processual e a duração razoável do feito em um caso tão complexo, o Ministério Público ofertou a denúncia em desfavor de LEONARDO MASSA no bojo dos autos 8027203-29.2021, no dia 23 de julho do 2021.
+    Fora imputado ao paciente LEONARDO MASSA as práticas delitivas do art. 2º, c/c §3º, da Lei 12.850/13 c/c art. 299 (por 100x) do CP, em continuidade delitiva, consoante art. 71 do CP.
+    Ambas as denúncias foram recebidas e aguardam a citação dos acusados.
+    (…)
+    Em que pese a defesa alegar violação da Súmula Vinculante n. 24, mencionam diversas vezes trecho extraído da decisão que decretou a prisão preventiva na fase investigativa com o jargão ‘dano ao erário’, com o oferecimento da denúncia, vê-se que os dignos Promotores de Justiça deixaram de fora a acusação de sonegação fiscal tomando prejudicado qualquer argumento de violação das orientações jurídicas da Suprema Corte.
+    A aplicação da consunção, como crime-meio da sonegação fiscal, neste momento inicial em que sequer houve a colheita probatória parece-nos forçoso. O feto de extrema complexidade, lista cada uma das falsificações ideológicas praticadas pelos investigados, parecendo-nos imprudente que cada uma das 203 falsificações em tese praticadas por JOSÉ EDUARDO MASSA ou cada uma das 100 falsificações em tese praticadas por LEONARDO MASSA não tenham constituído delito autônomo.” (Petição/STF nº 81873/21)
+    Não obstante os argumentos deduzidos pela defesa dos reclamantes, é certo que a ação penal apura formalmente a prática de delitos previstos nos artigos 2º, § 3º, da Lei 12.850/13, 1º da Lei 9.613/98 e 299 do Código Penal e o enunciado da Súmula Vinculante nº 24 exige o lançamento definitivo do tributo para a caracterização de crime material contra a ordem tributária, restringe-se, expressamente, ao tipo penal descrito no art. 1º, incisos I a IV, da Lei nº 8.137/90.
+    Logo, não há que se falar em descumprimento do que decidido na súmula vinculante em questão.
+    Salta aos olhos, portanto, a ausência de identidade material entre o conteúdo da decisão reclamada e comando do enunciado da Súmula Vinculante nº 24.
+    Consoante o entendimento da Corte, “a ausência de identidade de temas entre o ato reclamado e o paradigma desta Corte conduz à inadmissão da Reclamação” (Rcl nº 20.818/MT-AgR, Primeira Turma, Relator o Ministro Luiz Fux, DJe 14/10/15).
+    Perfilhando esse entendimento: Rcl nº 10.419/DF-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe 24/11/15; Rcl nº 20.727/PA-AgR, Primeira Turma, Relatora a Ministra Rosa Weber, DJe 13/11/15; Rcl nº 16.802/PE-AgR, Primeira Turma, Relator o Ministro Edson Fachin, DJe 28/10/15, entre outros.
+    Diga-se, ademais, que a observância da aplicação do princípio da consunção ao caso concreto, para se chegar às conclusões dos reclamantes, não foi objeto do que ficou assentado na súmula vinculante apontada como vilipendiada pela autoridade reclamada, sendo evidente, na hipótese, a pretensão da defesa de, saltando graus jurisdicionais, submeter a questão diretamente a este Supremo Tribunal, pela esta via constitucional, o que não é admissível.
+    Conforme bem destacado pelo eminente Ministro Celso de Mello,
+    “o remédio constitucional da reclamação não pode ser utilizado como um (inadmissível) atalho processual destinado a permitir, por razões de caráter meramente pragmático, a submissão imediata do litígio ao exame direto do Supremo Tribunal Federal. Precedentes” (Rcl nº 5.926/SC-AgR, Tribunal Pleno, DJe 13/11/09).
+    Por essas razões, nos termos do art. 21, § 1º, do Regimento Interno deste Supremo Tribunal, nego seguimento a presente reclamação, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 23 de agosto de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
