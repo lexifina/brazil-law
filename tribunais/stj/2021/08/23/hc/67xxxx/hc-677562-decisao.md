@@ -1,0 +1,84 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em benefício de EDUARDO HENRIQUE DOS SANTOS PACHECO apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio Grande do Sul (Agravo de Execução Penal n. 5084539-03.2020.8.21.7000).
+Depreende-se dos autos que o Magistrado singular reconheceu a prática de falta disciplinar grave pelo paciente, determinou a regressão do regime para o fechado e a alteração da data-base para a nova progressão de regime (e-STJ fls. 138/139).
+Irresignada, a defesa interpôs recurso de agravo em execução no Tribunal de origem, que lhe negou provimento nos temos do acórdão assim ementado (e-STJ fl. 7):
+AGRAVO EM EXECUÇÃO PENAL. CRIMES CONTRA O PATRIMÔNIO. RECONHECIMENTO DE FALTA GRAVE CONSISTENTE EM DESCUMPRIMENTO DAS CONDIÇÕES DA PRISÃO DOMICILIAR QUE, IN CASU, ACARRETA A REGRESSÃO DE REGIME PRISIONAL E A ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE NOVA PROGRESSÃO DE REGIME.
+RECONHECIMENTO DA FALTA GRAVE.
+Tendo o apenado descumprido, na prisão domiciliar, as condições que lhe foram impostas, possibilitando a sua fuga, configurada está a falta grave.
+REGRESSÃO DE REGIME.
+Cabível e adequada a regressão para regime de cumprimento de pena mais gravoso, por força do Art. 118, inciso I, da Lei de Execução Penal.
+ALTERAÇÃO DA DATA-BASE. LIMITAÇÃO DO CONSECTÁRIO PARA CONCESSÃO DE NOVA PROGRESSÃO DE REGIME.
+Praticada a falta grave, a alteração da data-base é limitada para a concessão de nova progressão de regime, tendo em vista o disposto no parágrafo 6º ao Art. 112 da Lei de Execução Penal, o qual foi inserido pela Lei nº 13.964/19.
+AGRAVO EM EXECUÇÃO PENAL DESPROVIDO.
+No presente writ, a Defensoria Pública do Estado do Rio Grande do Sul sustenta quefoi considerado como falta grave o fato de o paciente estar, supostamente, descumprindo as condições de sua prisão domiciliar, porque, nas ocasiões descritas no termo de ocorrência, teria sido encontrado em via pública, e deveria estar recolhido em seu domicílio em tempo integral.
+Destaca que a ausência do apenado de sua residência decorreu do fato de ele estar retornando do trabalho. Diante desse cenário, assere a "manifesta desproporção na sanção aplicada ao paciente, pois equipara um suposto descumprimento de condição da prisão domiciliar, justificado, com uma fuga e recaptura com prisão em flagrante pela prática de um crime doloso" (e-STJ fl. 4).
+Diante dessas considerações, pede, em tema liminar, a suspensão dos efeitos do acórdão local até o julgamento definitivo do presente remédio constitucional.
+No mérito, busca seja cassada a decisão que reconheceu a prática de falta disciplinar de natureza grave pelo paciente.
+Indeferida a liminar (e-STJ fls. 219/221) e prestadas as informações (e-STJ fls. 225/242 e 243/246), manifestou-se o Ministério Público Federal "pela inexistência de ilegalidade no acórdão estadual"(e-STJ fl. 253).
+É, em síntese, o relatório.
+No caso dos autos, o Tribunal de origem, ao negar provimento ao agravo defensivo, manteve a decisão de primeiro grau que reconheceu a prática de falta grave e, por isso, determinou a regressão do sentenciado ao regime fechado e, ainda, alterou o marco inicial para a concessão de nova progressão de regime. Eis os fundamentos adotados pelo mencionado acórdão(e-STJ fls. 212/215):
+O apenado cumpre pena privativa de liberdade total de 09 anos, 10 meses e 20 dias de reclusão, com saldo de pena a cumprir atual de 06 anos e 08 meses, aproximadamente.
+De acordo com o PAD nº 120/2020, o apenado estava cumprindo pena em prisão domiciliar, no regime semiaberto, quando, em 01/08/2020, foi abordado em via pública, às 20h20min, desrespeitando, assim, as obrigações impostas ao benefício (seq. 64 do PEC).
+Realizada a audiência de justificação, foi reconhecida a prática de falta grave, sendo regredido o regime para o fechado e alterada a data-base para a concessão de nova progressão de regime para a data da falta, qual seja, 01/08/2020 (ev. 3, OUT - INST PROC3, pp. 130-131, e seq. seq. 119.1).
+No ponto, vale citar a decisão do Juízo a quo que bem analisou a conduta faltosa do apenado, cuja fundamentação agrega-se ao que foi até aqui exposto:
+"Vistos.
+Trata-se de analisar o PAD nº 120/2020 (evento 64), instaurado para apurar o possível cometimento de falta grave pelo apenado.
+Conforme se depreende da análise da sindicância, no dia 01/08/2020, o apenado foi flagrado descumprindo as condições da prisão domiciliar concedida em caráter excepcional e temporário em razão do Covid-19, uma vez que foi abordado, em via pública, às 20h20min.
+Realizada audiência de justificação, de forma virtual, o apenado declarou que foi abordado por policiais militares quando retornava do trabalho (evento 104).
+Em memoriais, o Ministério Público requereu o reconhecimento da prática de falta grave e aplicação dos consectários legais, aduzindo que a justificativa apresentada pelo apenado, em audiência de justificação, não foi capaz deafastar a caracterização da falta grave praticada, pois não comprovada situação excepcional que autorizasse tal conduta (evento 112).
+A defesa, por seu turno, postulou o afastamento da falta grave, entendendo serem suficientes as sanções administrativas já aplicadas ao apenado (evento 116).
+Breve relato. Decido.
+Tenho que confirmado o descumprimento das condições da prisão domiciliar, pois, compulsando detidamente os autos, constato que o fato aqui analisado não é isolado, sendo que o reeducando registra outro episódio de descumprimento das regras impostas para a manutenção do benefício.
+Com relação ao fato pretérito, datado em 01/07/2020, o apenado foi flagrado em uma motocicleta após arremessar objetos, dentre eles um celular, para o interior do PEE. Na fuga do local, a motocicleta conduzida pelo apenado colidiu em um carro, sendo, então, recolhido ao Presídio. O condenado, conforme registro de ocorrência policial juntado ao evento 56, confirmou ser o autor do arremesso de pacotes para o interior do estabelecimento prisional.
+De qualquer maneira, mesmo que não confirmada a prática do crime previsto no artigo 349-A do Código Penal, tampouco haja oferecimento da denúncia com relação ao fato, verifico, da análise do PEC, que o apenado, desde que beneficiado com a prisão domiciliar, vem demonstrando comportamento absolutamente incompatível com a benesse que lhe foi concedida e extrema dificuldade em cumprir as condições estabelecidas, dada a reincidência em episódios de descumprimento da obrigação de permanecer recolhido ao domicílio.
+Razões expostas, HOMOLOGO O PAD nº 120/2020, pois formalmente válido, e RECONHEÇO A PRÁTICA DE FALTA GRAVE.
+REGRIDO O REGIME DO APENADO para o FECHADO, com fulcro no art.118, inciso I, da LEP.
+Nova progressão somente após cumprir novo lapso temporal, observando-se como marco interruptivo a alteração da data-base para a data de cometimento da última falta, qual seja, 01/08/2020.
+Deixo de determinar a perda dos dias remidos, tendo em vista que o apenado não registra remição.
+Retifiquem-se os registros.
+Intimem-se.
+Encaminhe-se cópia da presente decisão acompanhada de relatório da situação processual executória ou atestado de pena a cumprir à Casa Prisional, que deverá proceder na forma do artigo 6º, do Ato n. 10/2019-P.
+Dil. legais."
+Ressalto, inicialmente, que, diante das informações contraditórias acerca da situação jurídica do apenado no momento do cometimento da falta grave, em especial no tocante ao uso da tornozeleira eletrônica, foram solicitadas informações ao juízo da VEC (ev. 12.1), sendo esclarecido o que segue (ev. 15.1):
+"Vistos.
+Atendendo à determinação da instância superior (evento 219), esclareço que, à época de cometimento da falta grave apurada no PAD n. 120/2020, o apenado cumpria pena em regime semiaberto e usufruía de prisão domiciliar sem monitoração eletrônica, benefício deferido através da Portaria n. 011/ 2020- VECR, editada e publicada em virtude da situação de enfrentamento da pandemia provocada pela Covid-19.
+Saliente-se, no ponto, que, a fim de amenizar a situação de superlotação das casas prisionais, de reduzir os ingressos e saídas de apenados dos estabelecimentos e, por conseguinte, de conter a propagação da Covid-19 no interior das unidades prisionais, a referida Portaria concedeu prisão domiciliar, mediante condições, a todos os apenados do regime semiaberto com calendário de saídas temporárias homologado e/ou trabalho externo deferido judicialmente.
+O apenado em questão foi incluído na prisão domiciliar deferida através da Portaria n. 011/2020-VECR no dia 23/04/2020 (evento 54), após a homologação judicial de seu calendário de saídas temporárias, que se deu em 20/04/2020 (evento 45).
+A presente decisão deverá ser encaminhada à instância superior acompanhada de cópias das Portarias n. 011/2020-VECR e 005/2021-VECR.
+Dil. legais."
+Como se vê, o agravante, no momento do fato noticiado, estava cumprindo pena em prisão domiciliar, sem monitoração eletrônica, concedida em razão do contexto da pandemia da COVID-19, restando afastada, portanto, a alegação da Defesa de que o apenado estava sob vigilância permanente.
+Assim, verifica-se que o apenado descumpriu as condições impostas a ele quando da concessão da prisão domiciliar (seq. 65.1 do PEC) possibilitando a sua fuga do controle estatal, o que evidencia o seu desajustamento com o regime em que passou a cumprir a pena, bem como demonstra o seu descaso com as condições impostas pelo Juízo da Execução Penal.
+Destaca-se que o reeducando não se encontrava no local estabelecido para o cumprimento de sua pena, ainda que em prisão domiciliar.
+Como se vê, o apenado, mesmo tendo ciência das condições que lhe haviam sido impostas quando da concessão do benefício, deixou de cumpri-las, tratando-se o fato de falta disciplinar de natureza grave.
+ ..
+E o cometimento de falta grave, por sua vez, dá ensejo, dentre outras consequências, à regressão do regime prisional (Art. 118, inciso I, da Lei de Execução Penal) - e à alteração da data-base para nova progressão de regime (Art. 112, § 6º, da Lei de Execução Penal).
+Não há qualquer impropriedade na regressão do regime prisional, porquanto "se de um lado é imprescindível dotar a pena privativa de liberdade de progressão, que viabiliza ao condenado vislumbrar a possibilidade futura de vida livre, por outro não se deve enfraquecer a repressão social. Em caso de não se adaptar o condenado ao regime semiaberto ou aberto, demonstrando a inexistência de sua reintegração social, fica o condenado também sujeito à regressão".
+No que se refere à alteração da data-base, é importante de ter-se presente a superveniência da Lei nº 13.964/2019, que inseriu o parágrafo 6º ao Art. 112 da Lei de Execução Penal, o qual dispõe que o cometimento de falta grave durante a execução da pena privativa de liberdade interrompe o prazo para a obtenção da progressão no regime de cumprimento da pena.
+No mesmo sentido é a Sumula 534 do Superior Tribunal de Justiça, a qual dispõe que a prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração(grifei).
+Nessas circunstâncias, não vislumbro a ocorrência de constrangimento ilegal apto a ensejar a concessão da ordem, visto que, na forma como descrita pelo Tribunala quo, a conduta praticada pelo paciente se enquadra naquela tipificada no art. 50, V, da Lei de Execução Penal, a saber:
+Art. 50. Comete falta grave o condenado à pena privativa de liberdade que:
+ ..
+V- descumprir, no regime aberto, as condições impostas;
+Como quer que seja, a discussão sobre a configuração da infração disciplinar, ou até mesmo a sua desclassificação para falta de natureza média ou leve, demandaria o reexame de matéria fático-probatória, inadmissível na via estreita dohabeas corpus, como se extrai dos seguintes julgados:
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. DESVIRTUAMENTO. EXECUÇÃO PENAL. FALTA GRAVE. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. O Superior Tribunal de Justiça, alinhando-se à nova jurisprudência da Corte Suprema, também passou a restringir as hipóteses de cabimento do habeas corpus, não admitindo que o remédio constitucional seja utilizado em substituição ao recurso ou ação cabível, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do(a) paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+2. A via eleita não comporta dilação probatória necessária para desconstituir decisão judicial que reconheceu o cometimento de falta grave apurada em procedimento administrativo disciplinar.
+3. A configuração de falta disciplinar de natureza grave resulta em novo marco interruptivo para concessão de novos benefícios, exceto indulto, comutação e livramento condicional, conforme entendimento sedimentado pela 3ª Seção desta Corte, ao julgar os Embargos de Divergência no Recurso Especial n.º 1.176.486/SP.
+4. Habeas Corpus não conhecido. Concessão da ordem, de ofício, apenas para afastar a interrupção da contagem do lapso temporal para o livramento condicional, o indulto e a comutação de pena, salvo disposição expressa em contrário no decreto presidencial(HC 221.364/MG, relator o Ministro Rogerio Schietti Cruz, DJe de 10/3/2014, grifei).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO-CABIMENTO. RESSALVA DO ENTENDIMENTO PESSOAL DA RELATORA. EXECUÇÃO PENAL. FALTA GRAVE. TESE DE NÃO-CONFIGURAÇÃO DA FALTA GRAVE. REVISÃO. VIA IMPRÓPRIA. ORDEM DE HABEAS CORPUS NÃO CONHECIDA.
+1. A Primeira Turma do Supremo Tribunal Federal e ambas as Turmas desta Corte, após evolução jurisprudencial, passaram a não mais admitir a impetração de habeas corpus em substituição ao recurso ordinário, nas hipóteses em que esse último é cabível, em razão da competência do Pretório Excelso e deste Superior Tribunal tratar-se de matéria de direito estrito, prevista taxativamente na Constituição da República.
+2. Esse entendimento tem sido adotado pela Quinta Turma do Superior Tribunal de Justiça, com a ressalva da posição pessoal desta Relatora, também nos casos de utilização do habeas corpus em substituição ao recurso especial, sem prejuízo de, eventualmente, se for o caso, deferir-se a ordem de ofício, em caso de flagrante ilegalidade.
+3. Na espécie, verifica-se que a aplicação da falta grave deu-se mediante regular apuração na esfera administrativa, sendo reconhecida a sua prática fundamentadamente, conforme entendeu a Corte de origem.
+4.A análise da tese de não-configuração da falta grave, ou de desclassificação para falta de natureza média, não se coaduna com a via estreita do habeas corpus, dada a necessidade, no caso, de incursão na seara fático-probatória, incabível nesta sede. Precedentes.
+5. Ordem de habeas corpus não conhecida(HC 259.028/SP, relatora a Ministra Laurita Vaz, Quinta Turma, DJe de 07/03/2014, grifei).
+Quanto aos consectários, devo ressaltar que a caracterização de falta disciplinar de natureza graveé apta a ensejar a regressão de regime (art. 118, I, da LEP), além de resultar em novo marco interruptivo para concessão de futuros benefícios, exceto indulto, comutação e livramento condicional, conforme entendimento firmado pela Terceira Seção desta Corte ao julgar o EREsp n. 1.176.486/SP.
+Confira-se, ainda, o teor da Súmula n. 534/STJ:
+A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração (grifei).
+A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EXECUÇÃO PENAL. FALTA GRAVE. REGRESSÃO DE REGIME E ALTERAÇÃO DA DATA-BASE PARA FINS DE PROGRESSÃO DE REGIME. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- O Superior Tribunal de Justiça, acompanhando a modificação do Supremo Tribunal Federal no sentido de não mais admitir habeas corpus substitutivo de recurso próprio, passou a restringir o cabimento do remédio heróico utilizado no lugar do recurso legalmente previsto. Todavia, fica ressalvada a possibilidade de concessão da ordem de ofício nos casos de flagrante constrangimento ilegal.
+- A Terceira Seção desta Corte, uniformizou o entendimento de que o cometimento de falta grave no curso da execução enseja a regressão de regime e a interrupção do lapso temporal para a concessão de novos benefícios, exceto para o caso de livramento condicional e comutação de pena.
+Habeas corpus não conhecido (HC 292.691/RS, relator o Ministro Ericson Maranho, Desembargador Convocado do TJ/SP, Sexta Turma, DJe de 13/10/2014, grifei).
+Portanto, a decisão que, reconhecendo a prática de falta grave, determina a regressão de regime e, ainda, altera o marco inicial para concessão de nova progressão de regime está em harmonia com o entendimento do Superior Tribunal de Justiça, não havendo, portanto, constrangimento ilegal a ser sanado por esta Corte.
+Ante o exposto,denego a ordem.
+Publique-se. Intimem-se.
