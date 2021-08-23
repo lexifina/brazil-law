@@ -1,0 +1,2 @@
+DECISÃO
+Tendo em vista que as diligências para citação dainteressada INTECNIAL S.A. para responder à ação declaratóriaforamcumpridas (fl. 141), acolho o parecer do Ministério Público Federal (fls. 95-96), inclusive no tocante ao envio dacópia das decisões proferidas pela 2ª Vara de Erechim, e determino a devolução dos autos à Justiça rogantepor intermédio da autoridade central competente (art. 216-X do RISTJ).
