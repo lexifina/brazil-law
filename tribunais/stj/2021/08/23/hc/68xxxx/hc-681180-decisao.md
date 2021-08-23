@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de JONAS DE ALMEIDA, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DE SÃO PAULO (Recurso em Sentido Estrito n. 0007793-69.2016.8.26.0635).
+O paciente foi pronunciado como incurso no art.121, caput, do Código Penal.
+O Tribunal a quo deu parcial provimento ao recurso do Parquet para incluir na sentença de pronúncia a qualificadora do inciso IVdo § 2ºdo art.121do Código Penal (fls. 701/712). Tal decisão transitou em julgado (fl. 770).
+Neste writ, aimpetrante sustenta que a qualificadora do motivo torpe seria manifestamente improcedente, pois à atitude da vítima em roubar o paciente retira toda a possibilidade da existência de surpresa descrita na denúncia(fl. 19).
+Requer, liminarmente, a suspensão do processo até o julgamento final deste writ. No mérito, pugna pela concessão da ordem para que seja retirada da decisão de pronúncia a qualificadora de motivo torpe pela surpresa.
+O pedido liminar foi indeferido no período do plantão (fls. 761/762).
+Depois de prestadas informações (fls. 769/791), o Ministério Público Federal opinou nos termos desta ementa (fl. 793):
+PENAL E PROCESSO PENAL. HABEAS CORPUS. HOMICÍDIO.PRONÚNCIA. INSERÇÃO DA QUALIFICADORA PELO RECURSO QUE DIFICULTE A DEFESA DA VÍTIMA. EXCESSO ATRIBUÍDO A DEFESA. PROVA CONCRETA DA EXISTÊNCIA DE CIRCUNSTÂNCIA DE VULNERABILIDADE CABE A ACUSAÇÃO.
+PARECER PELA CONCESSÃO DA ORDEM.
+É o relatório.
+De início, registro o equívoco na menção à qualificadora de motivo torpe, feito na inicial do habeas corpus. Como consta do relatório, o paciente, em primeira instância, foi pronunciado como incurso no art. 121, caput, do Código Penal, tendo o Tribunal estadual acrescentado, ao dar provimento ao recurso da acusação, a qualificadora do inciso IV, relativo arecurso que dificulte ou torne impossívela defesa do ofendido.
+De todo modo, a argumentação trazida na impetração é pertinente e revela a existência de coação ilegal passível de ser reparada, mesmo que de ofício.
+Diz a jurisprudência do Superior Tribunal de Justiça que, em respeito ao princípio do juiz natural, somente é cabível a exclusão das qualificadoras na decisão de pronúncia quando manifestamente descabidas, porquanto a decisão acerca da sua caracterização não deve ficar a cargo do Conselho de Sentença.
+Na espécie, é perceptível que não há indícios da qualificadora do art. 121,§ 2º,IV,do Código Penal.
+Ora,ao prever como qualificadora o uso de recurso que dificulta ou torna impossível a defesa do ofendido, o legislador possibilitou que o intérprete insira analogicamente na norma situações inesperadas (elemento surpresa) que se harmonizam com os modelos explícitos de traição, emboscada, ou dissimulação (HC n. 198.377/SP, Ministra LAURITA VAZ, QUINTA TURMA, DJe 2/10/2013).
+Quer dizer, aqualificadora prevista no inciso IV do § 2º do art.121 do Código Penal caracteriza-se pelo comportamento insidioso do agente, no sentido de criar para a vítima uma situação imprevisível, que torne difícil ou impossível a sua defesa, a fim de obter maior êxito na empreitada delituosa(AgRg no AREsp n. 765.638/BA, Ministro GURGEL DE FARIA, QUINTA TURMA, DJe 28/10/2015).
+Assim, para configurar a qualificadora referente ao recurso que dificulte a defesa da vítima, a surpresa é o fator diferencial que se deve buscar(REsp n. 1.713.312/RS, da minha relatoria, SEXTA TURMA, DJe 3/4/2018).
+No caso,a dinâmica dos fatos não se deu de forma a caracterizar o elemento surpresa, não é preciso esforçohermenêutico para se chegar a essa conclusão. Confira-se este trecho da sentença de pronúncia (fl. 632 - grifo nosso):
+O réu também não agiu mediante recurso que dificultou a defesa do ofendido, uma vez que não há como afirmar que a vítima foi atacada de inopino, já que pelos depoimentos constantes dos autos estava em flagrante delito pelo crime de furto, tentando se evadir do local.
+Como bem observado pelo Subprocurador-Geral da República Paulo Eduardo Bueno, entende-se que, na aplicação da qualificadora da parte final do art.121, § 2º, IV do Código Penal, não basta narrar uma situação na qual genericamente se poderia supor a dificuldade de defesa, é indispensável que se comprove o meio insidioso (fl. 794).Entretanto o Tribunala quodecidiu inserir na pronúncia a qualificadora, visto que a defesa não demonstrou a inexistência de situação de vulnerabilidade da vítima do homicídio, vejamos (fl. 709 - grifo nosso):
+Diante de tal cenário, não há como se afastar de pronto a qualificadora atinente ao emprego de meio que dificultou, ou impossibilitou, a defesa da vítima, vez que tal não foi de vez rejeitada pelas provas amealhadas, não havendo demonstração inequívoca de que o ofendido realmente esperasse pelo tiro fatal, ainda que tivesse acabado de praticar um delito de furto, mormente quando já se encontrava abatido ao solo, após ter sido atropelado pelo carro do recorrido  ..
+Acolho a manifestação ministerial. De fato (fl. 794):
+Nesse sentido, entende-se pela reforma do acórdão pelo excesso atribuído a defesa, cuja prova da existência de situação que dificultou a defesa da vítima caber a acusação, visto que, como exposto pelo magistrado de piso, a vítima buscava fugir do local, pois estava em flagrante delito. Ainda, caberá ao Tribunal do Júri julgar a existência de legítima defesa.
+Então, como não háelemento surpresa revelado na descrição dos fatos, tampouco demonstração pela acusação deexistência de situação de vulnerabilidade da vítima do homicídio,deve ser afastadaa referida qualificadora.
+Com base nos precedentes e no parecer do Ministério Público Federal, concedo a ordempara, reformandoo acórdão impugnado no ponto, afastar a qualificadora descrita no inciso IV do § 2º do art. 121 do Código Penal (Processo n. 0007793-69.2016.8.26.0635, da 1ª Vara do Júri da comarca de São Paulo/SP).
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS.PRONÚNCIA. EXCLUSÃO DEQUALIFICADORA. POSSIBILIDADE. MANIFESTA IMPROCEDÊNCIA. ART. 121, § 2º, IV, DO CÓDIGO PENAL.RECURSO QUE DIFICULTEOU TORNE IMPOSSÍVEL A DEFESA DO OFENDIDO.AUSÊNCIA DO ELEMENTO SURPRESA. PRECEDENTES.VÍTIMA EM FUGA POR COMETIMENTO DE FURTO. FALTA DE DEMONSTRAÇÃO DEEXISTÊNCIA DE CIRCUNSTÂNCIA DE VULNERABILIDADE. PARECER ACOLHIDO. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+Ordem concedida nos termos do dispositivo.
