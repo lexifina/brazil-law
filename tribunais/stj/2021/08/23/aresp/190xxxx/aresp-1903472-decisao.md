@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de agravo interposto por RAFAEL DA CRUZ ALVES em adversidade à decisão que inadmitiu recurso especial manejadocontra acórdão do Tribunal de Justiça do Estado de São Paulo, cuja ementa é a seguinte (e-STJ fls. 214):
+APELAÇÃO CRIMINAL - ROUBO TRIPLAMENTE MAJORADO, CONCURSO DE AGENTES, EMPREGO DE ARMA DE FOGO E RESTRIÇÃO À LIBERDADE DAS VÍTIMAS - REDUÇÃO DA PENA, REGIME ABERTO OU PERDÃO JUDICIAL - IMPOSSIBILIDADE - CRIME PRATICADO HÁ MAIS DE 10 ANOS - CONFISSÃO EM JUÍZO - FATO ISOLADO NA VIDA DO RÉU - CONDENAÇÃO INARREDÁVEL - A PENA COMPORTA AJUSTE PARA CORRIGIR ERRO NO CÁLCULO - REGIME INTERMEDIÁRIO JUSTIFICADO - IMPOSSIBILIDADE DE AFASTAR A PUNIBILIDADE - DADO PARCIAL PROVIMENTO PARA REDUZIR A PENA, MANTENDO-SE, NO MAIS, A R. SENTENÇA GUERREADA.
+Nas razões do recurso especial (e-STJ fls. 979/992), fundado naalínea"a" do permissivo constitucional, alega a parte recorrente violação dos artigos 33, 59, 65, inciso III, alínea "d",e 66 do CP. Sustenta: (i) a incidência da atenuante da confissão e da prevista no art. 66 do CP; (ii) que, com o reconhecimento daatenuante de circunstância relevante, esta seja compensada com as causas de aumento reconhecidas; (iii) a fixação do regime aberto.
+Apresentadas contrarrazões (e-STJ fls. 239/252), o Tribunala quonão admitiu o recurso especial (e-STJ fls. 255/256), tendo sido interposto o presente agravo. O Ministério Público Federal, instado a se manifestar, opinou pelo não conhecimentodo recurso(e-STJ fls. 296/298)
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada, conheço do agravo.
+O recurso não merece acolhida.
+Primeiramente,a violação do art. 66 do CPnão foi objeto de debate pela instância ordinária, o que inviabiliza o conhecimento do recurso especial por ausência de prequestionamento. Incide ao caso aSúmulan. 282/STF.
+Ademais, mesmo que assim não fosse, apretensão de compensação de atenuantes genéricas com as causas especiais de aumento reconhecidas na terceira fase da dosimetria não encontra amparo legal.
+Em relação a atenuante da confissão, a Corte de origem consignou que,na segunda fase, registrou o ilustre Magistrado que estava presente a atenuante da confissão espontânea, mas não tem o condão de reduzir a pena aquém do mínimo legal, nos termos da Súmula 231 do Superior Tribunal de Justiça(e-STJ fls. 218).
+Verifica-se, no ponto, que a atenuante da confissão já fora reconhecida pela Corte de origem. Ocorre quena espécie, a pena-base do agravante foi fixada no mínimo legal, não havendo a possibilidade de redução da pena intermediária aquém desse patamar, ainda que aplicada a aduzida atenuante, ante a vedação da Súmula n. 231/STJ.Desse modo, patente a ausência de interesse recursal no caso concreto.
+Ante o exposto, com fundamento no art. 932, inciso III, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "a", parte final do RISTJ,conheçodo agravo paranão conhecerdo recurso especial.
+Intimem-se.
