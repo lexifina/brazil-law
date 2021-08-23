@@ -1,0 +1,81 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SALÁRIO. PENHORA. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso concreto, o tribunal de origem concluiu que as medidas de suspensão da CNH e de cancelamento do cartão de crédito da parte executadasão inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, procedimentovedado em recurso especial (Súmula nº7/STJ).
+4. Aimpenhorabilidade de remunerações disposta no artigo833, IV, do CPC/2015 comporta exceção quando se tratar de execução de dívida de natureza alimentarou quando a renda mensal for superior a 50 (cinquenta) salários mínimos. Precedentes.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por RAJ FRANCHISING LTDA.contra a decisão que negou provimento aorecurso especial em virtude(i) da aplicação dasSúmulas nºs 7 e 83/STJ e (ii) da ausência de demonstração daviolação do art. 1.022 do Código de Processo Civil de 2015.
+Nas presentes razões(fls. 328/347e-STJ), a agravante alega, em síntese, que não há necessidade de revisão do arcabouço probatório,tendo em vista que pretende o reconhecimento da violação do art. 139, IV, do CPC/2015.
+Afirma que devem ser deferidas medidas coercitivas em relação à executada, especialmente a suspensão da habilitação e o bloqueio de cartões de crédito.
+Insiste na negativa de prestação jurisdicional, haja vista a omissão perpetrada nos embargos opostos na origem.
+Ao final, sustentaque a regra da impenhorabilidade de salários admite mitigação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. MEDIDAS COERCITIVAS ATÍPICAS. ART. 139, IV, DO CPC/2015. OMISSÃO. INEXISTÊNCIA. REEXAME DE PROVAS. SALÁRIO. PENHORA. IMPOSSIBILIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. No caso concreto, o tribunal de origem concluiu que as medidas de suspensão da CNH e de cancelamento do cartão de crédito da parte executadasão inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, procedimentovedado em recurso especial (Súmula nº7/STJ).
+4. Aimpenhorabilidade de remunerações disposta no artigo833, IV, do CPC/2015 comporta exceção quando se tratar de execução de dívida de natureza alimentarou quando a renda mensal for superior a 50 (cinquenta) salários mínimos. Precedentes.
+5. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+O apelo nobre volta-se contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo que indeferiu a concessão de medidas coercitivas atípicas, previstas no art. 139, IV, do CPC/2015, e a penhora do salário.
+Ao dirimir a controvérsia, o Tribunal de origem assim consignou:
+"(..)busca a recorrente a mitigação da regra do artigo 833, IV, do Código de Processo Civil, que dispõe expressamente serem impenhoráveis "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal".
+Ademais, o artigo 7º, inciso X, da Constituição Federal assegura a "proteção do salário na forma da lei, constituindo crime sua retenção dolosa", o que demonstra a preocupação do legislador constitucional em salvaguardar tal direito.
+Cabe lembrar, ainda, e apenas para que não passe ao largo, que o projeto de lei que se converteu na Lei n. 11.382, de 6 de dezembro de 2006, previa, no § 3º do artigo 649, a possibilidade de penhora de 40% do salário cujo valor fosse superior a vinte salários mínimos, calculados após efetuados descontos de imposto de renda na fonte, contribuição previdenciária oficial e outros descontos compulsórios, mas tal dispositivo foi vetado pelo Presidente da República, de modo que, até o momento, o salário ainda é impenhorável em sua integralidade.
+(..).
+E, da mesma forma, não era mesmo caso de bloqueio das carteiras nacionais de habilitação e passaporte dos executados, dado o desproporcional gravame que dela se origina.
+Ainda que se compreenda o esforço empreendido pela exequente a fim de garantir a satisfação do crédito de que é titular, o caso era de indeferimento do pedido" (e-STJ fls. 205/207).
+Com efeito, as conclusões do tribunal de origem acerca do artigo 139 do CPC/2015decorreram da análise do conjunto fático-probatório carreado aos autos, o que se podeaferirda leitura dos fundamentos do julgado atacado, supratranscritos.
+Nesse contexto,o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, procedimentoinviável ante a natureza excepcional da via eleita, conforme dispõe aSúmula nº 7/STJ.
+Confiram-se:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO DE ALIMENTOS. SUSPENSÃO DO DIREITO DE DIRIGIR E APREENSÃO DO PASSAPORTE DO DEVEDOR. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. Segundo a jurisprudência desta Corte Superior, as medidas de satisfação do crédito devem observar os princípios da proporcionalidade e da razoabilidade, de forma a serem adotadas as providências mais eficazes e menos gravosas ao executado. Precedentes.
+2. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+3. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+4. No caso concreto, o Tribunal de origem concluiu que as medidas de apreensão do passaporte e suspensão da CNH do executado são inadequadas e desproporcionais aos propósitos da credora. Alterar esse entendimento demandaria o reexame das provas produzidas nos autos, oque é vedado em recurso especial.
+5. Agravo interno a que se nega provimento"(AgInt no REsp 1.805.273/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 29/10/2019, DJe 06/11/2019).
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS DECORRENTES DE MORTE EM ACIDENTE DE TRÂNSITO. CUMPRIMENTO DE SENTENÇA. MEDIDA COERCITIVA ATÍPICA. ART. 139, IV, DO CPC/2015. SUSPENSÃO DA CNH. REVISÃO DA CONCLUSÃO DO ACÓRDÃO RECORRIDO EM RELAÇÃO AOS CRITÉRIOS QUE AUTORIZARAM O DEFERIMENTO DA MEDIDA. DESCABIMENTO. SÚMULA 7/STF. RECURSO DESPROVIDO.
+1. Nos termos do art. 139, IV, do CPC/2015, incumbe ao juiz "determinar todas as medidas indutivas, coercitivas, mandamentais ou sub-rogatórias necessárias para assegurar o cumprimento de ordem judicial, inclusive nas ações que tenham por objeto prestação pecuniária."
+2. Para que o julgador se utilize de meios executivos atípicos, a decisão deve ser fundamentada e sujeita ao contraditório, demonstrando-se a excepcionalidade da medida adotada em razão da ineficácia das que foram deferidas anteriormente.
+3. No caso, segundo assinalou o órgão julgador, após esgotados os meios típicos de satisfação da dívida, a fim de reforçar os atos tendentes ao cumprimento da obrigação reconhecida pelo título judicial, optou o magistrado por eleger medida indutiva e coercitiva que considerou adequada, necessária, razoável e proporcional. Esse entendimento foi encampado pelo Tribunal local, que ainda ressaltou o fato de que o executado possui alto padrão de vida, incompatível com a alegada ausência de patrimônio para arcar com o pagamento da indenização decorrente do acidente que provocou.
+4. Para se ultrapassar a conclusão alcançada no tocante ao juízo de adequação, efetividade, razoabilidade e proporcionalidade da medida, a fim de acolher a tese recursal, seria necessário o reexame das circunstâncias fático-probatórias da causa, o que não se admite em âmbito de recurso especial, ante o óbice da Súmula nº 7 deste Tribunal, aplicável, também, em relação aos recursos interpostos com amparo na alínea c do permissivo constitucional (AgInt no REsp nº 1.679.274/PE, Relatora a Ministra Regina Helena Costa, DJe de 5/12/2017).
+5. Agravo interno desprovido"(AgInt no REsp 1.785.726/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/8/2019, DJe 22/8/2019 - grifou-se).
+Além disso, a agravante alega que houve negativa de prestação jurisdicional, tendo em vista que não foram supridas as omissões apontadas nos embargos de declaração.
+No ponto, afirma que o Tribunal local deixou de se manifestar acerca das medidas coercitivas que ainda estariam disponíveis para a exequente, dos parâmetros de adequação e de proporcionalidade das que foram pleiteadas.
+Do trecho do acórdão supramencionado, verifica-se que o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Assim, não há falar em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão da parte.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido"(AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Por fim, a jurisprudência desta Corte entende que a impenhorabilidade de remunerações de que trata o artigo 833,IV, do CPC/2015comporta exceção quando se tratar de execução de dívida de natureza alimentarou quando a renda mensal for superior a 50 (cinquenta) salários mínimos.
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CONSONÂNCIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de cobrança, em fase de cumprimento de sentença, fundada no inadimplemento de valores relativos à prestação de serviços de assistência médica domiciliar.
+2. A regra geral da impenhorabilidade dos vencimentos, dos subsídios, dos soldos, dos salários, das remunerações, dos proventos de aposentadoria, das pensões, dos pecúlios e dos montepios, bem como das quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, dos ganhos de trabalhador autônomo e dos honorários de profissional liberal poderá ser excepcionada, nos termos do art. 833, IV, c/c o § 2º do CPC/2015, quando se voltar: I) para o pagamento de prestação alimentícia, de qualquer origem, independentemente do valor da verba remuneratória recebida; e II) para o pagamento de qualquer outra dívida não alimentar, quando os valores recebidos pelo executado forem superiores a 50 salários mínimos mensais, ressalvando-se eventuais particularidades do caso concreto. Em qualquer circunstância, deverá ser preservado percentual capaz de dar guarida à dignidade do devedor e de sua família. Precedentes. Ante o entendimento do tema nesta Corte Superior, aplica-se, no particular, a Súmula 568/STJ.
+3. Agravo interno no agravo em recurso especial não provido"
+(AgInt nos EDcl no AREsp 1.656.096/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/04/2021, DJe 28/04/2021).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AFETAÇÃO DE RECURSO PARA JULGAMENTO SOB O RITO DE RECURSOS REPETITIVOS. SUSPENSÃO DE PROCESSOS NO STJ.DESNECESSIDADE. DECISÃO QUE NADA DISSE A ESSE RESPEITO. SALÁRIO.IMPENHORABILIDADE. EXCEÇÃO. VALORES QUE EXCEDAM 50 SALÁRIOS MÍNIMOS.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Eventual afetação de tema ao rito dos repetitivos não impossibilita o julgamento do recurso a ele relativo, pois não implica a suspensão dos processos em curso no STJ, além de não significar necessariamente a existência de dissenso pretoriano.
+3. A exceção à impenhorabilidade das verbas salariais aplica-se apenas quando os rendimentos excederem 50 (cinquenta) salários mínimos. Precedentes.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Agravo interno não provido"
+(AgInt no REsp 1.892.698/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 8/3/2021, DJe 10/3/2021).
+Nesse contexto, o acórdão recorrido, aoindeferir o pedido de penhorada remuneração do devedor,encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Além disso, não são desconhecidos osprecedentes que admitem a relativização da regra da impenhorabilidade de vencimentos para satisfação de crédito não alimentar em situações excepcionalíssimas.No entanto, observa-se que não foi demonstrada excepcionalidade suficiente para relativizar a impenhorabilidade em apreço,sendo inafastável, assim,a regra do artigo 833, inciso IV, do Código de Processo Civil de 2015.
+Registra-se, por fim, que, para acolher a pretensão da recorrente de que o percentual solicitado - 30% (trinta por cento) da remuneração líquida - não afetará a subsistência do recorridonem a sua dignidade, seria necessário o reexame de fatos e provas, procedimento inviável em recurso especial.
+Desse modo, as razões da agravantenão são suficientes para reformar a decisão atacada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
