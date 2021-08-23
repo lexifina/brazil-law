@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Antonio Carlos Ferreira, Ricardo Villas Bôas Cueva, Marco Buzzi e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento a Sra. Ministra Maria Isabel Gallotti.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO, PELO JUÍZO TRABALHISTA, DE CRÉDITOS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Oentendimento da Segunda Seção desta Corte é no sentido de ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais
+2.Tratando-se de crédito extraconcursal, como na hipótese, deve ser garantido o direito de preferência do crédito nascido após o pedido de recuperação e, ao mesmo tempo, direcionar o pagamento desses créditos ao Juízo recuperacional que, ciente da não submissão dos referidos valores à recuperação judicial, deverá sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+3.Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Kelly Moreira dos Santos contra a decisão de fls. 931-935 (e-STJ), assim ementada:
+CONFLITO POSITIVO DE COMPETÊNCIA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO, POR OUTRO JUÍZO, DE BENS INTEGRANTES DO PATRIMÔNIO DA RECUPERANDA.
+IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO RECUPERACIONAL.
+Sustenta a agravante, em síntese, que "não há conflito positivo de competência no presente caso, uma vez que não existe declaração de competência por 2 (dois) ou mais juízes" (e-STJ, fl. 945).
+Ademais, alega que, no presente feito, ocorreu a preclusão consumativa, uma vez que a ora agravada, "instada a se manifestar nos autos da Habilitação de Crédito no Cível, expressamente pugnou pelo reconhecimento da natureza extraconcursal do crédito pretendido e ausência de sujeição aos efeitos do juízo universal, sendo o caso de manutenção do processo trabalhista necessário para a efetiva consecução do pagamento dos valores devidos" (e-STJ, fl. 948).
+Busca, assim, "oconhecimento e recebimento do presente recurso para que o Relator, após os prazos legais, se retrate quanto ao reconhecimento da competência do Juízo de Direito da 1ªVara de Falências e Recuperações Judiciais de São Paulo - SP e, assim, reconhecer a competência do D. Juízo da 72ªVara do Trabalho de São Paulo - SP, para que estepossa dar regular prosseguimento aos atos executórios em face da AGRAVADA" (e-STJ, fl. 950).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. SOCIEDADE EM RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO, PELO JUÍZO TRABALHISTA, DE CRÉDITOS INTEGRANTES DO PATRIMÔNIO DA EMPRESA. IMPOSSIBILIDADE. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO. AGRAVO INTERNO DESPROVIDO.
+1. Oentendimento da Segunda Seção desta Corte é no sentido de ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais
+2.Tratando-se de crédito extraconcursal, como na hipótese, deve ser garantido o direito de preferência do crédito nascido após o pedido de recuperação e, ao mesmo tempo, direcionar o pagamento desses créditos ao Juízo recuperacional que, ciente da não submissão dos referidos valores à recuperação judicial, deverá sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação. Precedentes.
+3.Agravo interno desprovido.
+VOTO
+O agravo não merece provimento.
+Com efeito,o entendimento da Segunda Seção desta Corte é no sentido de ser o Juízo onde se processa a recuperação judicial o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução que envolvam créditos apurados em outros órgãos judiciais.
+Nesse sentido:
+PROCESSUAL CIVIL. CONFLITO POSITIVO DE COMPETÊNCIA. JUÍZO DE DIREITO E JUIZADO ESPECIAL CÍVEL. PROCESSO DE RECUPERAÇÃO JUDICIAL (LEI N. 11.101/05). AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. VALOR DA CONDENAÇÃO. CRÉDITO APURADO. HABILITAÇÃO. ALIENAÇÃO DE ATIVOS E PAGAMENTOS DE CREDORES. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES DO STJ.
+1. Com a edição da Lei n. 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o respectivo Juízo para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais, inclusive trabalhistas, ainda que tenha ocorrido a constrição de bens do devedor.
+2. Após a apuração do montante devido, processar-se-á no juízo da recuperação judicial a correspondente habilitação, sob pena de violação dos princípios da indivisibilidade e da universalidade, além de desobediência ao comando prescrito no art. 47 da Lei n. 11.101/05.
+3. Conflito de competência conhecido para declarar competente o Juízo de Direito da 1ª Vara Empresarial do Rio de Janeiro (RJ). (CC n. 90.160/RJ, Relator o Ministro João Otávio de Noronha, DJe de 5/6/2009)
+Ademais, conforme consignado na decisão agravada, ainda que o crédito da agravante tenha sido reconhecido como extraconcursal, inclusive pela própria recuperanda, isso não significa dizer que o Juízo Trabalhista pode determinar atos de constrição no patrimônio da suscitante sem nenhum controle, sob pena de se inviabilizar o respectivo plano de recuperação judicial.
+Por essa razão, é quea jurisprudência desta Corte proclama que, mesmo se tratando de crédito extraconcursal, deve ser garantido o direito de preferência do crédito nascido após o pedido de recuperação e, ao mesmo tempo, direcionar o pagamento desses créditos ao Juízo recuperacional que, ciente da não submissão dos referidos valores à recuperação judicial, deverá sopesar a essencialidade dos bens de propriedade da empresa passíveis de constrição, bem como a solidez do fluxo de caixa da empresa em recuperação.
+A esse respeito, confira-se:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. DEFERIMENTO DE RECUPERAÇÃO JUDICIAL. MEDIDAS DE CONSTRIÇÃO DO PATRIMÔNIO DA EMPRESA. CRÉDITO EXTRACONCURSAL. CONSTRIÇÃO INDIRETA. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL.
+1. Os atos de execução dos créditos promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-Lei n. 7.661/45 ou da Lei n. 11.101/05, bem como os atos judiciais que envolvam o patrimônio dessas empresas, devem ser realizados pelo Juízo universal.
+2. Ainda que o crédito exequendo tenha sido constituído depois do deferimento do pedido de recuperação judicial (crédito extraconcursal), a jurisprudência desta Corte é pacífica no sentido de que, também nesse caso, o controle dos atos de constrição patrimonial deve prosseguir no Juízo da recuperação. Precedentes.
+3. Declarada a incompetência do Juízo laboral para prosseguir com a execução e reconhecida a competência do Juízo da recuperação, caso seja de seu interesse, incumbe ao credor-exequente diligenciar junto a este, no intento de satisfazer e viabilizar sua pretensão executória.
+4. Agravo interno não provido.
+(PET no CC n. 175.484/MG, Relator o Ministro Luis Felipe Salomão, DJe de 20/4/2021 - sem grifo no original)
+Em resumo, mesmo que o crédito em comento não se submetaaos efeitos do plano de recuperação judicial e independentemente de ter sido a própria suscitante que reconheceu a sua natureza extraconcursal,o Juízo da Recuperação deverá analisar a melhor forma de pagamento desse crédito, não sendo possível ao Juízo trabalhista determinar atos de constrição do patrimônio da suscitante de forma genérica, razão pela qual não há que se falar em inexistência de conflito ou em preclusão consumativa.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
