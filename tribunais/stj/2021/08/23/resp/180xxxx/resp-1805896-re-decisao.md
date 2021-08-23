@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por VITOR QUINDERE AMORA,com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 4.239):
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DE PRAZO. AGRAVO REGIMENTAL DESPROVIDO.1. "No processo penal, iniciado o prazo recursal, seu curso não se interrompe ou se suspende em decorrência de feriado ou suspensão de expediente forense, exceto se coincidir com o termo final, hipótese em que será prorrogado para o primeiro dia útil seguinte"(AgRg no AREsp 1467990/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 23/5/2019).2. No caso concreto, para aferir a tempestividade após iniciada a contagem de dias para interposição do recurso especial, o recorrente considerou a suspensão de prazo processual pelo Tribunal de origem, sendo certo que houve expediente forense no dia do termo final.3. Agravo regimental desprovido.
+Na sequência, foram opostos dois recursos de embargos de declaração, os quais restaramrejeitados às fls. 4.301 e 4.358.
+Sustenta o recorrente que a questão é dotada de repercussão geral e aponta violação dos arts. 1º, incisos III e IV, 5º, incisosII, XXXVI,LIV e § 2º;6º, caput; 22, inciso I; 23, inciso I; 37, caput;41, capute§§ 1º e 2º; 105, incisoIII, "a" e170, incisoVIII, todos da Constituição Federal.Cita, ainda, os arts. 5 e 11 doPacto de San Jose da Costa Rica.
+Alega a ofensa ao princípio da segurança jurídica, afirmando quea contagem de prazos deveria ser efetuada em observância ao que dispõe o Código de Processo Civil de 2015.
+No ponto, aduz que houve violação ao princípio da legalidade e que esta Corte negou vigência a dispositivos legais.
+Questiona a penalidade aplicada, entendendo que o acórdão recorrido desrespeitou os princípios da proporcionalidade e da razoabilidade.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Apresentadas as contrarrazões (e-STJ fls. 4.460/4.471).
+É o relatório.
+O Supremo Tribunal Federal pacificou o entendimento de que não é cabível recurso extraordináriono qual se alegaviolação aoart. 105, inciso III, da Constituição Federal, questionandoo conhecimento ou não do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PRELIMINAR DE REPERCUSSÃO GERAL. FUNDAMENTAÇÃO INSUFICIENTE. ÔNUS DO RECORRENTE. INFRINGÊNCIA AO ART. 105, III, "A", DA CF/88. REPERCUSSÃO GERAL REJEITADA NO JULGAMENTO DO RE 598.365-RG (REL. MIN. AYRES BRITTO, TEMA 181). OFENSA À COISA JULGADA. MATÉRIA INFRACONSTITUCIONAL. REEXAME DE FATOS E PROVAS. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+(ARE 860192 AgR, Relator(a): TEORI ZAVASCKI, Segunda Turma, julgado em 28/04/2015, PROCESSO ELETRÔNICO DJe-087 DIVULG 11-05-2015 PUBLIC 12-05-2015)
+Com igual orientação:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. PROCESSUAL CIVIL. PONTAL DO PARANAPANEMA. NULIDADE DOS TÍTULOS DE DOMÍNIO EM RAZÃO DO VÍCIO NA ORIGEM DA CADEIA DOMINIAL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 105, III, DA CONSTITUIÇÃO. REEXAME DE DECISÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES. ADMISSIBILIDADE DE RECURSOS DE COMPETÊNCIAS DE CORTES DIVERSAS. INEXISTÊNCIA DE REPERCUSSÃO GERAL. RE 598.365. TEMA 181. NECESSIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL LOCAL E DE REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INCIDÊNCIA DAS SÚMULAS 279 E 280 DO STF. REITERADA REJEIÇÃO DOS ARGUMENTOS EXPENDIDOS PELA PARTE NAS SEDES RECURSAIS ANTERIORES. MANIFESTO INTUITO PROTELATÓRIO. MULTA DO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO INTERNO DESPROVIDO.
+(RE 1081829 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em 21/09/2018, PROCESSO ELETRÔNICO DJe-208 DIVULG 28-09-2018 PUBLIC 01-10-2018)
+Na espécie,o acórdão objeto do recurso extraordinário negou provimento ao agravo regimental, mantendo a decisão monocrática que não conheceu do recurso especial, em razão da sua intempestividade.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+Confira-se, por oportuno, a ementa do julgado:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF, sendo inviável a análise da violação dos arts. 1º, incisos III e IV, 5º, incisos II, XXXVI, LIV e § 2º; 6º, caput; 22, inciso I; 23, inciso I; 37, caput; 41, caput e §§ 1º e 2º e 170, inciso VIII, todos da Constituição Federal aventada no recurso extraordinário.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. VIOLAÇÃO DO ART. 105, INCISO III, DA CONSTITUIÇÃO FEDERAL. AFERIÇÃO DOS PRESSUPOSTOS DO RECURSO ESPECIAL. ADMISSIBILIDADE. MATÉRIA INFRACONSTITUCIONAL. INEXISTÊNCIA DE REPERCUSSÃO GERAL. TEMA 181/STF. SEGUIMENTO NEGADO.
