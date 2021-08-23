@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de petição apresentada por SUL AMÉRICA CAPITALIZAÇÃO S.A. - SULACAP, requerendo a concessão de efeito suspensivo a agravo nos próprios autos, interposto contra decisão que inadmitiu seu recurso especial, por ausência de violação do art. 1.022 do CPC/2015 e por aplicação das Súmulas n. 5 e 7 do STJ (e-STJ fls. 140/145).
+Em suas razões, a requerente alega que o periculum in mora está "caracterizado pelo indiscutível perigo de grave dano processual irreparável causado pelo prolongar do desfecho do presente feito, em desrespeito aos princípios da economicidade e celeridade processual, consiste na iminente possibilidade de ser instaurada EXECUÇÃO PROVISÓRIA em valor MILIONÁRIO, manifestamente indevido, em clara contrariedade aos próprios julgados de origem" (e-STJ fl. 4). Quantoao fumus boni iuris, afirma consistirna "plausibilidade jurídica dos relevantes argumentos da agravante deduzidos com o intuito de zelar pela manifesta necessidade de reforma do acórdão, para que seja determinado o pagamento da indenização com a corretaincidência dos juros moratórios, cujo exame urgente é indispensável, salientando que é altiva a possibilidade de provimento do recurso por essa Colenda Corte recursal, ante o crasso erro cometido pelo julgado de origem" (e-STJ fls. 4/5). Sustentater havido graveerro quanto à aplicação dos juros de mora, que deveriam incidir à razão de 0,5% (meio por cento) ao mês, mas foram fixados em 5% (cinco por cento) mensais.
+É o relatório.
+Decido.
+Para a concessão da liminar pleiteada, é necessária a presença concomitante da plausibilidade do direito e do perigo de dano irreparável ou de difícil reparação.
+No caso, arecorrente afirma que o periculum in mora estaria consubstanciado na possibilidade de ser instaurada execução provisória num valor milionário e indevido.
+Ocorre que, segundo a jurisprudência do STJ, a execução provisória não constitui, por si só, o perigo de dano exigido para a concessão de efeito suspensivo a recurso, uma vez que referido procedimento possui mecanismos próprios para evitar prejuízos ao executado.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA PETIÇÃO. EFEITO SUSPENSIVO A RECURSO ESPECIAL. INDEFERIMENTO. AUSÊNCIA DE PERICULUM IN MORA E DE FUMUS BONI IURIS.
+1. A concessão de efeito suspensivo é medida excepcional e somente é possível se preenchidos, cumulativamente, os seguintes requisitos: demonstração do periculum in mora e a caracterização do fumus boni iuris.
+2. A jurisprudência desta Corte é assente no sentido de que a execução provisória, não constitui, isoladamente, o periculum in mora exigido para a concessão de efeito suspensivo ao recurso especial, até mesmo porque esse procedimento possui mecanismos próprios para evitar prejuízos ao executado.
+3. Conforme reiteradamente destacado no âmbito deste Tribunal, "não há prejudicialidade externa que justifique a suspensão da demanda possessória até que se julgue a ação de usucapião  (AgRg no REsp 1483832/SP).
+4. Agravo interno não provido.
+(AgInt na PET na Pet 14.017/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021.)
+AGRAVO INTERNO NA PETIÇÃO. PROCESSUAL CIVIL. PEDIDO DE EFEITO SUSPENSIVO A AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL.PRESSUPOSTOS DA TUTELA DE URGÊNCIA. INOBSERVÂNCIA. AUSÊNCIA DE PROBABILIDADE DO DIREITO ALEGADO. CUMPRIMENTO PROVISÓRIO DA SENTENÇA. PENHORA DE IMÓVEL. PERIGO DE DANO NÃO COMPROVADO.EXISTÊNCIA DE MECANISMOS DE DEFESA NO PRÓPRIO PROCEDIMENTO.
+1. A tutela de urgência, para fins de concessão de efeito suspensivo a recurso especial, será concedida quando houver elementos que evidenciem a probabilidade do direito (viabilidade da pretensão recursal) e o perigo de dano ou o risco ao resultado útil do processo (arts. 300, caput, e 1.029, § 5º, II, do CPC/2015).
+2. Na hipótese, não foi demonstrada a teratologia ou a manifesta ilegalidade da decisão que não conheceu do agravo em recurso especial, não caracterizando probabilidade do direito alegado o simples fato de estar pendente de julgamento agravo interno.
+3. Para a caracterização do grave perigo de dano, não basta a alegação de que o cumprimento provisório de sentença ampara-se em valor considerável, existindo na fase de execução mecanismos próprios para evitar prejuízos ao executado.
+4. Agravo interno não provido.
+(AgInt na Pet 13.696/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 26/10/2020, REPDJe 12/11/2020, DJe 03/11/2020.)
+AGRAVO REGIMENTAL NA MEDIDA CAUTELAR - EXTINÇÃO DA MEDIDA CAUTELAR POR NÃO SE VERIFICAR A PRESENÇA CONCOMITANTE DOS CORRELATOS REQUISITOS.INSURGÊNCIA DOS REQUERENTES.
+1. A despeito da possibilidade de concessão de efeito suspensivo a recurso especial por meio de medida cautelar originária, tal pretensão apenas tem lugar quando presentes os seguintes requisitos: (a) plausibilidade dos fundamentos da insurgência, correspondente à demonstração de sua admissibilidade e a probabilidade de êxito, segundo a jurisprudência desta Corte; e, (b) prova do perigo concreto a justificar seu deferimento.
+2. O agravante não logrou êxito em demonstrar a presença concomitante do periculum in mora, notadamente porque o simples início da execução provisória do julgado, em si, não encerra, propriamente, perigo de ineficácia do provimento jurisdicional perseguido por meio do recurso especial. Precedentes: MC 13346/RS, Relatora Ministra NANCY ANDRIGHI, DJ 25/10/2007, TERCEIRA TURMA, DJ 25/10/2007; MC 23.079/SP, Rel. Min. Luis Felipe Salomão, DJe de 18/08/2014 (decisão monocrática).
+3. Na hipótese em foco, a partir dos elementos colacionados aos autos, inexiste, no atual momento processual, qualquer ato destinado a autorizar a execução provisória do julgado, tampouco providência judicial sem a observância das cautelas próprias do procedimento executório.
+4. Agravo regimental desprovido.
+(AgRg na MC 23.409/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/02/2015, DJe 20/02/2015.)
+No caso dos autos, segundo relata a requerente, a execução nem mesmo foi iniciada.
+Diante do exposto, ausente um dos requisitos, INDEFIRO o efeito suspensivo pleiteado.
+Publique-se e intimem-se.
