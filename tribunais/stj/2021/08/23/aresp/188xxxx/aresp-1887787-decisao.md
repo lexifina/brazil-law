@@ -1,0 +1,43 @@
+DECISÃO
+NILDETE MENDES DA SILVAagrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais(Apelação Criminal n. 1.0209.16.001124-0/001).
+Depreende-se dos autos que aacusadafoi condenadaà pena de 5anosde reclusão, em regime inicial semiaberto, mais multa, por infração aoart. 33, caput,da Lei n. 11.343/2006.
+Nas razões do recurso especial, adefesa pretendea absolvição da acusada e, subsidiariamente, a aplicação da minorante prevista no art. 33,§ 4º, da Lei n. 11.343/2006, com a consequentefixação de regime inicial mais brando.
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo ou, caso conhecido, o não provimento do recursoespecial.
+Decido.
+I. Impossibilidade de absolvição
+O Juiz sentenciante condenou a recorrente pela prática docrimeprevisto no art. 33, caput, da Lei n. 11.343/2006, conforme trechos abaixo (fls. 382-386, grifei):
+ ..
+No que diz respeito à autoria, esta converge para os acusados, consoante as provas coligidas aos autos, consistentes nas drogas encontradas na adega da residência dos acusados, a confissão do réu Wemerson, prova testemunhal, Relatório Circunstanciado de Investigações (fls. 28/37) e Relatório Circunstanciado de Investigações (autos de nº 0003940-32.2016, fls. 05/06).
+O policiais civis lograram êxito em localizar na residência dos acusados 127 (cento e vinte e sete) invólucros de "cocaína", no total de 126,80 g (cento e vinte e seis gramas e oitenta centigramas, além da quantia de R$1.585,00 (mil e quinhentos e oitenta e cinco reais) e 03 (três) aparelhos celulares e 01 (uma) balança de precisão, no momento em que policiais civis cumpriram mandado de busca e apreensão.
+O testemunhos dos policiais civis, confirmaram que a droga fora encontrada na residência dos acusados, na casa localizada a Rua B, nº 85, Bairro Esperança.
+ ..
+Assim, o panorama probatório apresentado, consubstanciado nas coerentes e harmônicas palavras dos agentes públicos (fls. 157/159), corroboradas pela apreensão 127 (cento e vinte e sete) invólucros de "cocaína", no total de 126,80 g (cento e vinte e seis gramas e oitenta centigramas) na adega da residência dos acusados, apreensão de dinheiro, 03 (três) aparelhos celulares e 01 (uma) balança de precisão, em local conhecido como ponto de tráfico de drogas, consoante se extrai do Relatório Circunstanciado de Investigações Complementar (fls. 28/37), é claro e conduz à conclusão de que os acusados tinham os entorpecentes em sua posse para fins de mercancia. Assim, os denunciados devem ser condenados nas sanções do art. 33, caput, da Lei nº 11.343/06. Portanto, inviável a absolvição da acusada Nildete, conforme requerido pela defesa, visto que o conjunto probatório revela-se contundente e apto a corroborar o édito condenatório.
+O Tribunal de origem, ao manter a condenaçãodarecorrente, assim fundamentou (fls. 493-494, grifei):
+ ..
+No que diz respeito àautoria, após detida análise do conjunto probatório formado nos autos, tenho que restou comprovada. Isto porque, o policial Henrique Correa da Silva foi categórico ao afirmar que a apelante foi vista entregando droga para os compradores:
+ ..
+No mesmo sentido, colhem-se as palavras do policial Felipe Henrique Guerra silva:
+ ..
+Como se pode ver, os testemunhos dos policiais são coesos e, diferentemente do alegado pela defesa, estão em plena harmonia com o conjunto probatório, não havendo dúvidas sobre o envolvimento da apelante com o tráfico de drogas.
+Neste ponto, deixo consignado meu entendimento no sentido de que a palavra da polícia é digna de credito e não deve ser descartada ou, de plano, ignorada, nem, tampouco, pode ser tidas como absoluta, devendo, como qualquer testemunho, ser confrontada com os demais elementos produzidos para a formação do convencimento do julgador.
+Neste contexto, a versão apresentada pelos policiais somente não pode ganhar credibilidade, a ponto de justificar uma condenação, quando for inverossímil e não estiver amparada por outros elementos de convicção, o que não se verifica na espécie.
+ ..
+Com efeito, contraposta aos depoimentos seguros e harmoniosos dos policiais, isentos de qualquer contradição e em plena consonância com os demais elementos de prova, restam comprovadas a materialidade e a autoria do crime de tráfico. Dessa forma, mantenho a condenação, afastando o pleito absolutório.
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória edo acórdão impugnado, verifico que as instâncias de origem, após toda a análise do conjunto fático-probatório amealhado aos autos, concluírampela existência de elementos concretos e coesos a ensejar a condenação daacusadapelo crime de tráfico de drogas (art. 33 da Lei n.11.343/2006).
+Por essas razões, mostra-se inviável a absolvição da ré, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Saliento, ademais, que qualquer outra solução que não a adotada pelas instâncias ordinárias implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em recurso especial, tendo em vista o óbice da Súmula n. 7 do STJ.
+II. Minorante prevista no art. 33,§ 4º, da Lei n. 11.343/2006
+Quanto ao almejado reconhecimento da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, o Tribunal de origem manteve a incidência do redutor, conforme trechos abaixo (fl. 500, grifei):
+Na hipótese, embora não tenha sido demonstrado que os acusados se reuniram de forma estável e permanente, com o propósito de traficar substâncias entorpecentes, incidindo, assim, nas iras do art. 35 da Lei 11.343106, não restam dúvidas de que ambos se dedicavam a atividades delituosas com habitualidade, o que obsta a concessão do benefício previsto no art. 33, §4ºda Lei Antidrogas.
+A quantidade de entorpecente, a apreensão de uma balança de precisão, bem como significativa quantia pecuniária, aliada às circunstâncias do caso concreto, evidenciam a dedicação dos apelantes a atividades criminosas (auto de apreensão de fls. 13).
+Destarte, evidenciada a dedicação a atividades criminosas, afasto o pleito de aplicação da minorante prevista no art. 33, §4º da Lei11.343/06.
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas.
+Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 é justamente punir com menor rigor o pequeno traficante, ou seja, aquele indivíduo que não faz do tráfico de drogas o seu meio de vida; antes, ao cometer um fato isolado, acaba incidindo na conduta típica prevista no art. 33 da mencionada lei federal.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, conforme visto, o Tribunal de origem - dentro do seu livre convencimento motivado - apontou elementos concretos dos autos que evidenciam que as circunstâncias em que perpetrado o delito em questão não se compatibilizariam com a posição de um pequeno traficante ou de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao tráfico de drogas, motivo pelo qual não há como reconhecer a incidência do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006.
+Ademais, imperioso salientar que, para entender de modo diverso, afastando-se a conclusão de que o recorrente se dedicaria a atividades criminosas, seria necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada em sede de recurso especial, a teor da Súmula n. 7 do STJ.
+Portanto, fica afastada a apontada violação legal decorrente da não incidência do art. 33, § 4º, da Lei n. 11.343/2006.
+III.Dispositivo
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
