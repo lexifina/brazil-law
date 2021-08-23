@@ -1,0 +1,18 @@
+DECISÃO
+(Petição/STF n. 3.142/2021)
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE POR OMISSÃO. AMBIENTAL. ALEGADA OMISSÃO INCONSTITUCIONAL DO PODER PÚBLICO NO COMBATE ÀS QUEIMADAS E AO DESMATAMENTO NA AMAZÔNIA. PEDIDO DE INGRESSO COMO AMICUS CURIAE. REQUERIMENTO DEFERIDO.
+Relatório
+    1. Associação Civil Alternativa Terrazul (e-doc. 48) requereu ingresso nesta ação direta de inconstitucionalidade por omissão como amicus curiae.
+    2. A intervenção do amicus curiae objetiva enriquecer o debate constitucional e fornecer informações e dados técnicos relevantes à solução da controvérsia jurídica.
+    Na Ação Direta de Inconstitucionalidade n. 2.130, Relator o Ministro Celso de Mello, assentou-se:
+    “A admissão de terceiro, na condição de amicus curiae, no processo objetivo de controle normativo abstrato, qualifica-se como fator de legitimação social das decisões da Suprema Corte, enquanto Tribunal Constitucional, pois viabiliza, em obséquio ao postulado democrático, a abertura do processo de fiscalização concentrada de constitucionalidade, em ordem a permitir que nele se realize, sempre sob uma perspectiva eminentemente pluralística, a possibilidade de participação formal de entidades e de instituições que efetivamente representem os interesses gerais da coletividade ou que expressem os valores essenciais e relevantes de grupos, classes ou estratos sociais. Em suma: a regra inscrita no art. 7º, § 2º, da Lei nº 9.868/99 - que contém a base normativa legitimadora da intervenção processual do amicus curiae - tem por precípua finalidade pluralizar o debate constitucional” (DJe 2.2.2011).
+    3. Nos termos do § 2º do art. 7º da Lei n. 9.868/1999, “o relator, considerando a relevância da matéria e a representatividade dos postulantes, poderá, por despacho irrecorrível, admitir, a manifestação de outros órgãos ou entidades”.
+    No julgamento da Questão de Ordem na Ação Direta de Inconstitucionalidade n. 2.187, concluiu-se:
+    “É de exigir-se, em ação direta de inconstitucionalidade, a apresentação, pelo proponente, de instrumento de procuração ao advogado subscritor da inicial, com poderes específicos para atacar a norma impugnada” (Relator o Ministro Octavio Gallotti, Plenário, DJ 12.12.2003).
+    4. A requerente informa ser “organização não governamental socioambientalista, fundada em 1999, que nos termos do art. 2º de seu estatuto ‘tem como objetivo a defesa da saúde e do meio ambiente, na perspectiva da qualidade de vida e da sociedade sustentável’, desta forma, tem atuado em projetos, programas, campanhas e ativismo no intuito de contribuir com a construção de sociedades sustentáveis tendo como referência os valores e princípios da Carta da Terra. (…) bem como foi admitida na condição de amicus curiae no por sua Excelência âmbito da ADPF 760, que trata das mudanças no processo sancionador ambiental” (e-doc. 48).
+    5. Pelo exposto, reconhecidas a relevância da matéria, a representatividade da postulante e a circunstância de estar representada por procuradores habilitados especificamente para a finalidade, defiro o ingresso de Associação Civil Alternativa Terrazul na presente ação direta de inconstitucionalidade por omissão como amicus curiae (§ 2º do art. 7º da Lei n. 9.868/1999), observando-se, quanto à sustentação oral, o § 3º do art. 131 do Regimento Interno do Supremo Tribunal Federal (alterado pela Emenda Regimental n. 15/2004).
+    À Secretaria Judiciária deste Supremo Tribunal, para incluir o nome da peticionária como amicus curiae e dos representantes legais e adotar as providências cabíveis.
+    Publique-se.
+    Brasília, 23 de agosto de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
