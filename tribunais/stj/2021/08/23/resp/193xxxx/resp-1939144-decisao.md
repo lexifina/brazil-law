@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por Christophe Pedrosa de Carvalho e outros, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão doTribunal de Justiça de Alagoas, assim ementado (e-STJ fls. 156-157):
+AGRAVO REGIMENTAL EM MANDADO DE SEGURANÇA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA QUE INDEFERIU A PETIÇÃO INICIAL DO MANDADO DE SEGURANÇA IMPETRADO PELOS ORA AGRAVANTES, TOMBADO SOB O N.º 0802558-85.2017.8.02.0000, EXTINGUINDO-O SEM RESOLUÇÃO DE MÉRITO, COM FULCRO NOS ARTS. 5º, II C/C 10 DA LEI N.º 12.016/2009, BEM COMO ART. 485, I, DO NOVO CÓDIGO DE PROCESSO CIVIL. NÃO CABIMENTO DO MANDADO DE SEGURANÇA. PELA DICÇÃO DA LEI DE MANDADO DE SEGURANÇA (LEI N.º 12.016/2009), O CABIMENTO DO WRIT OF MANDAMUS CONTRA DECISÃO JUDICIAL É EXCEPCIONAL, NOS TERMOS DO ART. 5º DA ALUDIDA LEI. ALÉM DISSO, A JURISPRUDÊNCIA PÁTRIA FIXOU ENTENDIMENTO NO SENTIDO DE QUE APENAS SERÁ CABÍVEL O MANDADO DE SEGURANÇA CONTRA DECISÃO JUDICIAL QUANDO ESTA FOR MANIFESTAMENTE ILEGAL OU ABUSIVA, OU AINDA, QUANDO FOR TERATOLÓGICA, OU SEJA, QUANDO A DECISÃO FOR ABSURDA, CONTRÁRIA À LÓGICA, AO BOM SENSO OU À MORALIDADE. IN CASU, NA EXORDIAL DO MANDADO DE SEGURANÇA, OS IMPETRANTES TACHAM DE TERATOLÓGICO O COMANDO JUDICIAL QUESTIONADO - VEICULADO NAS DECISÕES APONTADAS COMO COATORAS -, SEM QUE, CONTUDO, INDIQUEM AS RAZÕES PELA QUAL ESSE (O COMANDO) SERIA ABSURDO, CONTRÁRIO À LÓGICA, AO BOM SENSO OU À MORALIDADE. ACERTO DA DECISÃO JUDICIAL DE PRIMEIRA INSTÂNCIA IMPUGNADA NO MANDAMUS, A QUAL RESTOU FULCRADA NA PORTARIA N.º 004/2016 DAQUELE JUÍZO, NO ART. 255 DO CÓDIGO DE PROCESSO CIVIL C/C ART. 3º DO CÓDIGO DE PROCESSO PENAL, BEM COMO NO ART. 2º DA RESOLUÇÃO N.º 73/2009 DO CONSELHO NACIONAL DE JUSTIÇA, OS QUAIS LEVARAM O MAGISTRADO APONTADO COMO AUTORIDADE COATORA A CONCLUIR QUE, EM SE TRATANDO DO CUMPRIMENTO DE MANDADOS EM COMARCA CONTÍGUA, OS OFICIAIS DE JUSTIÇA NÃO FARIAM JUS AO RECEBIMENTO DE DIÁRIAS PELO TRABALHO, POR NÃO SE TRATAR DE ATRIBUIÇÃO EXTRAORDINÁRIA EXERCIDA EM CARÁTER EVENTUAL OU TRANSITÓRIO, MAS SIM DE FORMA DE EXERCÍCIO ORDINÁRIO DAS FUNÇÕES DOS SERVIDORES. POSSIBILIDADE DE IMPOSIÇÃO DE MULTA POR DESCUMPRIMENTO AOS OFICIAIS DE JUSTIÇA IMPETRANTES, PORQUANTO A DETERMINAÇÃO BASEIA-SE NO ART. 77, IV, §§ 2º E 5º DO CÓDIGO DE PROCESSO CIVIL. EVIDENTE DESCABIMENTO DO MANDADO DE SEGURANÇA, SENDO IMPERIOSO O INDEFERIMENTO DA PETIÇÃO INICIAL, NOS TERMOS DO ART. 10 DA LEI N.º 12.016/2009, BEM COMO DO INCISO I, DO ART. 485, DO NOVO CÓDIGO DE PROCESSO CIVIL, TAL QUAL FEITO NA DECISÃO AGRAVADA, CUJA MANUTENÇÃO É MEDIDA QUE SE IMPÕE. RECURSO CONHECIDO E NÃO PROVIDO. UNANIMIDADE.
+Os embargos de declaração foram rejeitados, com aplicação de multa(e-STJ fls. 223-224).
+Os recorrentes alegam violação dos artigos 77, IV, §§ 2º e 5º, do CPC/2015 e 3º do Código de Processo Penal, aosargumentos de quea decisão do Juiz singular, impugnada pelo Mandado de Segurança, é teratológica e viola direito líquido e certo dos impetrantes.
+Com contrarrazões (e-STJ fls. 475-480).
+Juízo positivo de admissibilidade às e-STJ fls. 482-485.
+Parecer do Ministério Público Federal, às e-STJ fls. 498-505, da lavra do Subprocurador-Geral Dr. Brasilino Pereira dos Santos, pelo não conhecimento do recurso especial.
+É o relatório. Passo a decidir.
+O recurso não merece prosperar.
+Não é possível conhecer do recurso especial que apresenta suposta violação dos artigos 77, IV, §§ 2º e 5º, do CPC/2015 e 3º do Código de Processo Penal,pois os dispositivos indicados como malferidos não contêm comando normativo capaz de sustentar a tese deduzida e infirmar a validade dos fundamentos do acórdão recorrido. Aplica-se à hipótese a Súmula 284/STF.
+Ademais,verifica-se que o Tribunal de origem indeferiu a inicial do Mandado de Segurançacom amparo nos seguintes fundamentos (e-STJ fls. 160-164):
+ .. verifica-se que a decisão agravada não merece qualquer reparo, uma vez que é evidente o descabimento do mandado de segurança veiculado. Isso porque o cômputo dos autos permite verificar, de plano, que, a despeito dos argumentos tecidos na exordial, os impetrantes não lograram êxito em comprovar o cabimento do mandado de segurança. Explico.
+12. Inicialmente, é relevante consignar que, pela dicção da Lei de Mandado de Segurança (Lei n.º 12.016/2009), o cabimento do writ of mandamus contra decisão judicial não é a regra. É o que se verifica da leitura do art. 5º da aludida lei:
+Art. 5º Não se concederá Mandado de Segurança quando se tratar:
+I - de ato do qual caiba recurso administrativo com efeito suspensivo, independentemente de caução;
+II - de decisão judicial da qual caiba recurso com efeito suspensivo;
+III - de decisão judicial transitada em julgado.
+13. Além disso, a jurisprudência pátria fixou entendimento no sentido de que apenas será cabível o Mandado de Segurança contra decisão judicial quando essa for manifestamente ilegal ou abusiva, ou ainda, quando for teratológica, ou seja, quando a decisão for absurda, contrária à lógica, ao bom senso ou à moralidade.
+ ..
+15. Desse modo, quando a decisão impugnada não for teratológica, manifestamente ilegal ou abusiva, ou quando houver meio de impugnação previsto em lei que não o Mandado de Segurança, não será este cabível.
+A detida leitura das razões do recurso especial, contudo, evidencia que a parte recorrente não impugnou a fundamentação acima destacada, adotada pelo Tribunal de origem para indeferir a petição inicial do Mandado de Segurança,o que enseja a aplicação da Súmula 283/STF, verbis: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL. PRESCRIÇÃO INTERCORRENTE. INÉRCIA DO EXEQUENTE. SÚMULA 283/STF. OFENSA AO ART. 505 DO CPC/2015. NÃO OCORRÊNCIA.
+1. A não impugnação de fundamento suficiente para manter o aresto recorrido atrai a aplicação do óbice da Súmula 283/STF, o que inviabiliza o conhecimento do apelo nobre.  ..
+3. Agravo interno a que se nega provimento (AgInt no REsp 1.835.325/PB, Rel. Ministro Og Fernandes, Segunda Turma, DJe 26/8/2020)
+ADMINISTRATIVO. PRETENSÃO DE RESSARCIMENTO DE VALORES DESPENDIDOS COM A REMOÇÃO DE POSTES DE ENERGIA ELÉTRICA LOCALIZADOS EM RODOVIA ESTADUAL. PRESCRIÇÃO QUINQUENAL. FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. SÚMULA 283/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+ ..
+2. O recurso especial deixou de impugnar fundamento basilar que amparou o acórdão recorrido, circunstância que atrai a incidência da Súmula 283/STF.
+ ..
+4. Agravo interno a que se nega provimento (AgInt no AREsp 1.590.041/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 31/8/2020)
+Ante o exposto, não conheçodorecurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. SERVIDOR PÚBLICO ESTADUAL. MANDADO DE SEGURANÇA. VIOLAÇÃO DOS ARTS. 77, IV, §§ 2º E5º, DO CÓDIGO DE PROCESSO CIVIL/2015 E 3º DO CÓDIGO DE PROCESSO PENAL.FALTA DE COMANDO NORMATIVO DOS DISPOSITIVOS APONTADOS COMO VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. RECURSONÃO CONHECIDO.
