@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por KW2 SERVIÇOS MÉDICOS LTDAcontra decisão que negou provimento ao seu agravo em recurso especial, por entender pela ausência de violação ao art. 489, do Código de Processo Civil/2015, e que a modificação do acórdão recorrido demanda o reexame do conjunto fático-probatório dos autos, o que é vedado em sede de recurso especial pela Súmula 7/STJ.
+A ora embargante requer "sejam recebidos os presentes embargos de declaração, para reconhecer a omissão em relação ao ponto supramencionado (inexistência de análise do balanço patrimonial da embargada do ano de 2018 em confronto com o do ano de 2017 - este último utilizado como premissa), aclará-la, e consequentemente atribuir o necessário efeito modificativo (infringente), para reconhecer a inexistência do preenchimento dos requisitos para concessão dos benefícios da assistência judiciária gratuita, e assim cancelando-a em perfeita sintonia ao Recurso Especial apresentado e atendimento aos artigos 5º, Inciso XXXV, 93, Inciso IX da Constituição Federal, artigo 489, §1º., todos es seus parágrafos e incisos do Código de Processo Civil Brasileiro; além do conteúdo da súmula 481 do STJ".
+Sem impugnação.
+Relatados, passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração são cabíveis quando há omissão, contradição, obscuridade ou erro material na decisão embargada, o que não se verifica na espécie.
+A embargante requer que seja analisado o balanço patrimonial da embargada, para que, à luz desses documentos, seja revogada a gratuidade da justiça que a ela foi concedida na origem.
+A decisão embargada foi clara ao não verificar ausência de fundamentação no acórdão recorrido e que "o Tribunal de origem decidiu a controvérsia à luz dos fatos e das provas presentes nos autos, reconhecendo a hipossuficiência para fins de concessão da gratuidade da justiça, que a recorrente pretende ver afastada na espécie, de sorte que a modificação do acórdão recorrido é providência que esbarra no óbice da Súmula 7/STJ, visto que demanda o reexame do conjunto fático-probatório levado em consideração para o deslinde da contenda".
+Em verdade, verifica-se que a embargante pretende o rejulgamento da causa, o que desnatura a oposição de embargos de declaração, que, conforme já dito, é recurso de fundamentação vinculada.
+Ademais, os embargos de declaração não se prestam à aplicação de entendimento que, segundo a ótica da parte embargante, deveria guiar ou conduzir a solução do litígio.
+Nesse sentido: EDcl no AgInt na Rcl 17.207/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, SEGUNDA SEÇÃO, DJe 27/11/2017).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
