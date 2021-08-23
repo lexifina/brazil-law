@@ -1,0 +1,75 @@
+DECISÃO
+Cuida-se de agravo interposto por Cláudio José da Silva desafiando decisão do Tribunal de Justiça do Estado de Minas Gerais que não admitiu o processamento do recurso especial, com fundamento no art. 105, inciso III, alíneas a e c, da Constituição Federal, manejado, por sua vez, contra acórdão assim ementado (e-STJ, fl. 386):
+APELAÇÃO CÍVEL  AÇÃO DE MANUTENÇÃO DE POSSE  ARGUIÇÃO DE IMPEDIMENTO E SUSPEIÇÃO DO PERITO  PRECLUSÃO  CONHECIMENTO PARCIAL DO RECURSO  INADEQUAÇÃO DA VIA ELEITA  INOCORRÊNCIA  ARTIGO 561 DO CPC/2015  REQUISITOS PREENCHIDOS  SENTENÇA MANTIDA.
+- Considerando que a parte não apresentou, em momento oportuno, a arguição de impedimento e suspeição do perito, tal questão se encontra preclusa, conforme dispõem os artigos 138, §1º e 245, ambos do CPC/73 (artigos 148, §1º, e 278, ambos do CPC/2015).
+- Não há que se falar em inadequação da via eleita, quando comprovado que o pedido inicial tem pertinência com a pretensão possessória de manutenção de posse.
+-Comprovado todos os requisitos previstos no artigo 561 do CPC/2015, deve ser mantida a procedência do pedido inicial.
+Os aclaratórios opostos foram rejeitados (e-STJ, fls. 415-433).
+Nas razões do recurso especial, o recorrente alegou dissídio jurisprudencial e ofensa aos arts. 3º, 4º, 148, 319, 489e 995 do NCPC; 138, § 1º, e 245 do CPC/1973. Sustentou negativa de prestação jurisdicional quanto à ausência de análise do incidente de impedimento/suspeição do perito.
+Pontuou que o prazo inicial para arguição do impedimento e suspeição do perito é a data em que se tomou conhecimento dos fatos, e não na primeira oportunidade quando teve conhecimento acerca da nomeação do perito. Pleiteou o deferimento do efeito suspensivo do recurso especial.
+Foram apresentadas contrarrazões (e-STJ, fls. 475-478).
+O Tribunal local inadmitiu o processamento do recurso especial pela incidência da Súmula n. 83 do STJ, bem como pela ausência de negativa de prestação jurisdicional.
+Irresignado, o recorrenteinterpõeagravo refutando os óbices apontados pela Corte estadual.
+Contraminuta às fls. 534-538 (e-STJ).
+Brevemente relatado, decido.
+De início, a concessão de efeito suspensivo ao reclamo deveserindeferida, pois somente será admitida emsituaçõesextremamenteexcepcionais, a saber: quando demonstrada aaltaprobabilidade deprovimento do recurso especial, nos casos de danodedifícil reparação, ouquando o acórdão for contrário àjurisprudênciapacífica desta Corte, oque não é o caso dos autos.
+No mais, no tocante aoprazo inicial para arguição do impedimento e suspeição do perito, o Tribunal estadual concluiu que (e-STJ, fls. 391-406):
+O requerido, ora apelante, em suas razões recursais, pleiteou pela nulidade do laudo pericial, sob o argumento de que o perito responsável pela elaboração do laudo pericial de ff. 116/153 deve ser declarado impedido/suspeito, tendo em vista a sua participação no processo administrativo que concedeu a legitimação de posse do bem em discussão à autora.
+(..)
+Primeiramente, registro que a referida alegação relacionada à suspeição/impedimento do perito deve ser analisada com base no Código de Processo Civil de 1973, uma vez que a nomeação do profissional ocorreu na vigência do referido Diploma Legal.
+Como é cediço, quando a prova do fato depender de conhecimento técnico ou científico o juiz será assistido por perito, que tem atribuição de auxiliar da justiça.
+O §1º do artigo 138 do CPC/73 previa que a parte interessada deverá arguir o impedimento ou a suspeição, em petição fundamentada e devidamente instruída, na primeira oportunidade em que couber falar nos autos, senão confira-se:
+"Artigo 138:
+(..) §. 1º A parte interessada deverá arguir o impedimento ou a suspeição, em petição fundamentada e devidamente instruída, na primeira oportunidade em que lhe couber falar nos autos; o juiz mandará processar o incidente em separado e sem suspensão da causa, ouvindo o arguido no prazo de 5 (cinco) dias, facultando a prova quando necessária e julgando o pedido".
+Neste mesmo sentido, o artigo 235 do CPC/73 dispunha que:
+"Art. 245. A nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão".
+No caso em apreço, verifica-se que o despacho de nomeação do perito se deu no dia 18 de dezembro de 2008 (f. 34), tendo aspartes sido devidamente intimadas de tal ato no dia 07 de janeiro de 2009, conforme publicação de f. 35.
+Observa-se que o requerido, ora apelante, ao invés de se insurgir quanto à nomeação do perito alegando os motivos da suspeição/impedimento, permaneceu inerte, se rebelando, apenas, após a prolação da sentença que lhe foi desfavorável, isto é, depois de se passados mais de 10 (dez) anos do ato de nomeação do expert.
+Nota-se, ainda, que, após a realização dos trabalhos efetuados pelo perito, o requerido (apelante) apresentou quesitos complementares às ff. 157/158, todavia, não alegou a suspeição/impedimento do ilustre expert.
+Deste modo, não se insurgindo o requerido (apelante) na primeira oportunidade quando teve conhecimento acerca da nomeação do perito, forçoso concluir que se encontra preclusa a questão relativa à eventual suspeição/impedimento do profissional nomeado pelo juízo.
+(..)
+Registro, ainda, que, muito embora o requerido (apelante) afirme que somente teve conhecimento dos fatos ensejadores da suspeição/impedimento do expert, após a prolação da sentença, pela análise do acervo probatório, entendo que o recorrente detinha meios de obter tais informações, no momento oportuno.
+Ora, pelos documentos juntados pelo próprio requerido (apelante) às fl. 214/222, verifica-se que os mesmos se encontravam arquivados junto a Câmara Municipal da Comarca de Ouro Preto/MG, desde os anos de 2003 e 2005, o que demonstra que o recorrente buscou informações acerca da vida pregressa do perito, após ocorrer o julgamento do feito, o qual, diga-se de passagem, foi lhe desfavorável.
+Portanto, restando preclusa a matéria referente à suspeição/impedimento do perito, deixo de conhecer dessa parte do presente recurso de apelação.
+Embora se apliquem os mesmos motivos de impedimento e de suspeição do juiz ao membro do Parquet, ao serventuário da justiça, ao perito, aos assistentes técnicos e ao intérprete, a alegação de impedimento, para esses sujeitos do processo, deve ser realizada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão, em conformidade com a previsão contida nos arts. 138, § 1º, e 245 do CPC/1973.
+Nesse mesmo sentido:
+PROCESSUAL CIVIL. TRIBUTÁRIO. AGRAVO DE INSTRUMENTO. EMBARGOS À EXECUÇÃO. PROVA PERICIAL EMPRESTADA DA AÇÃO CAUTELAR. ALEGAÇÃO DE SUSPEIÇÃO DO PERITO. PRECLUSÃO DA ARGUIÇÃO. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DO ENUNCIADO N. 211 DA SÚMULA DO STJ.
+I - O presente feito decorre de agravo de instrumento contra decisão judicial que, nos autos de embargos à execução fiscal, acolheu a alegação da Fazenda Pública de suspeição do perito nomeado nos autos. No Tribunal de Justiça do Estado de Minas Gerais, a decisão judicial foi reformada.
+II - Em relação à indicada violação do art. 535 do CPC/1973 pelo Tribunal a quo, não se vislumbra a alegada omissão das questões jurídicas apresentadas pela parte recorrente, tendo o julgador se manifestado expressamente sobre cada um dos pontos de insurgência no
+julgamento dos embargos de declaração.
+III - Nesse panorama, a oposição dos embargos declaratórios caracterizou, tão somente, a irresignação do embargante diante de decisão contrária a seus interesses, o que não viabiliza o referido recurso.
+IV - Descaracterizada a alegada omissão, tem-se de rigor o afastamento da suposta violação do art. 535 do CPC/1973, conforme pacífica jurisprudência do Superior Tribunal de Justiça: REsp n. 1.616.801/AP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado
+em 23/8/2016, DJe 13/9/2016 e AgInt no REsp n. 1.592.075/PE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 16/8/2016, DJe 26/8/2016.
+V - Quanto à matéria constante nos arts. 333 e 334, II e III, do CPC/73, verifica-se que o Tribunal a quo, em nenhum momento, abordou as questões referidas nos dispositivos legais, mesmo após a oposição de embargos de declaração apontando a suposta omissão. Nesse contexto, incide, na hipótese, a Súmula n. 211/STJ, que dispõe ser "inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+VI - Ressalte-se que a falta de exame de questão constante de normativo legal apontado pelo recorrente nos embargos de declaração não caracteriza, por si só, omissão. Mesmo quando a questão é afastada de maneira fundamentada pelo Tribunal a quo, ou ainda, não
+é abordada pelo Sodalício, e o recorrente, em ambas as situações, não demonstra, de forma analítica e detalhada, a relevância do exame da questão apresentada para o deslinde final da causa. Nesse sentido: AgInt no REsp n. 1.035.738/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe 23/2/2017 e AgRg no REsp n. 1.581.104/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 7/4/2016, DJe 15/4/2016.
+VII - De outro giro, nos termos do art. 138, III, § 1º, do CPC/73, aplicam-se aos peritos as mesmas causas de impedimento e de suspeição estabelecidas para os juízes. Entretanto, assim como a suspeição, o impedimento do perito deve ser alegado na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão.
+VIII - O dispositivo acima transcrito estabelece que, embora se apliquem os mesmos motivos de impedimento e de suspeição do juiz ao membro do Ministério Público, ao serventuário da justiça, ao perito aos assistentes técnicos e ao intérprete, a alegação de impedimento para esses sujeitos do processo, deve ser realizada "na primeira oportunidade em que lhe couber falar nos autos", sob pena de preclusão, em conformidade com o previsto no art. 245 do CPC/73. Nesse sentido: REsp n. 876.942/MT, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 25/8/2009, DJe 31/8/2009.
+IX - No caso dos autos, o Tribunal de origem decidiu em conformidade com a jurisprudência do STJ, declarando preclusa a alegação de suspeição do perito, visto que a parte quedou-se inerte após a nomeação do perito.
+X - Agravo interno improvido.
+(AgInt no REsp n. 1.708.814/MG. Relator Ministro Francisco Falcão, Segunda Turma, DJe 11/12/2018).
+DIREITO PROCESSUAL CIVIL E DO CONSUMIDOR. AÇÃO FUNDADA EM ALEGAÇÃO DE FATO DO PRODUTO. ACIDENTE AUTOMOBILÍSTICO. NÃO ACIONAMENTO DE AIRBAGS. INEXISTÊNCIA DE DEFEITO COMPROVADA POR PROVA PERICIAL. ALEGAÇÃO DE INAPTIDÃO DO PERITO. PRECLUSÃO. REGRAS DE INVERSÃO DO ÔNUS DA PROVA. IRRELEVÂNCIA. JULGADO APOIADO EM PROVA PERICIAL ROBUSTA. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Em se tratando de nulidade relativa, nos termos do art. 245 do CPC, deve ela ser arguida na primeira oportunidade em que couber à parte falar nos autos. Assim, diante da inércia do interessado quanto à nomeação do perito, opera-se a preclusão do direito de arguir sua incapacidade técnica.
+2. Diferentemente do comando contido no art. 6º, inciso VIII, que prevê a inversão do ônus da prova "a critério do juiz", quando for verossímil a alegação ou hipossuficiente a parte, o § 3º, do art. 12, preestabelece - de forma objetiva e independentemente da manifestação do magistrado -, a distribuição da carga probatória em desfavor do fornecedor, que "só não será responsabilizado se provar: I - que não colocou o produto no mercado; II - que, embora haja
+colocado o produto no mercado, o defeito inexiste; III- a culpa exclusiva do consumidor ou de terceiro". É a diferenciação já clássica na doutrina e na jurisprudência entre a inversão ope
+judicis (art. 6º, inciso VIII, do CDC) e inversão ope legis (arts. 12, § 3º, e art. 14, § 3º, do CDC). Precedente da Segunda Seção.
+3. No caso concreto, todavia, mostra-se irrelevante a alegação acerca do ônus da prova, uma vez que a solução a que chegou o Tribunal a quo não se apoiou na mencionada técnica, mas sim efetivamente nas provas carreadas aos autos. A improcedência do pedido indenizatório decorreu essencialmente da prova pericial produzida em Juízo, sob a vigilância de assistentes nomeados por autor e réu, prova essa que chegou à conclusão de que a colisão do veículo dirigido pelo consumidor não fora frontal e que, para aquela situação, não era mesmo caso de abertura do sistema de airbags.
+4. De fato, a despeito de a causa de pedir apontar para hipótese em que a responsabilidade do fornecedor é objetiva, este se desincumbiu do ônus que lhe cabia, tendo sido provado que, embora haja colocado o produto no mercado, o defeito inexist iu ", nos termos do art. 12,
+§ 3º, inciso II, do CDC. Tendo sido essa a conclusão a que chegou o Tribunal a quo, a reversão do julgado demandaria reexame de provas, providência vedada pela Súmula 7/STJ.
+5. Recurso especial não provido.
+(REsp n. 1.095.271/RS. Relator Ministro Luis Felipe Salomão, Quarta Turma, DJe 5/3/2013).
+PROCESSUAL CIVIL E ADMINISTRATIVO. DESAPROPRIAÇÃO POR INTERESSE SOCIAL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. MAGISTRADO DA CAUSA. NOMEAÇÃO DE IRMÃO. SENTENÇA PROFERIDA POR JUIZ DIVERSO. LAUDO NÃO UTILIZADO COMO FUNDAMENTO. SUSPEIÇÃO. MOMENTO PRÓPRIO. PRECLUSÃO. ARTS. 134, 136, § 1º, 138 e 245 DO CPC.
+1. Cuidam os autos de ação de Desapropriação por Interesse Social julgada procedente pelo Juiz Federal da 1ª Vara da Seção Judiciária de Mato Grosso.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. O Tribunal Regional Federal da 1ª Região anulou de ofício a sentença sob o fundamento de que o Juiz Federal nomeou seu irmão para atuar na causa como perito judicial.
+4. Os casos de impedimento e de suspeição do juiz estão previstos nos arts. 134 e 135 do CPC e são inteiramente aplicáveis ao perito, ex vi do art. 138, III, do mesmo diploma.
+5. Por força do art. 245 do CPC, a nulidade dos atos deve ser alegada na primeira oportunidade em que couber à parte falar nos autos, sob pena de preclusão.
+6. Na hipótese, merece reforma o aresto recorrido porque: a) inexistiu argüição da suspeição ou impedimento pelos expropriados em momento oportuno, operando-se a preclusão; b) o juiz que proferiu a sentença é diverso daquele que nomeou o irmão como perito; e c) foi
+adotado o laudo do Incra para a fixação do valor da indenização, não havendo qualquer prejuízo para as partes.
+7. Recurso Especial parcialmente provido.
+(REs0 n. 876.942/MT. Relator Ministro Herman Benjamin, Segunda Turma, DJe 31/8/2009).
+Observa-se, portanto, que a Corte de origem julgou a demanda em conformidade com o entendimento do STJ. Incidência da Súmula n. 83 do STJ.
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE MANUTENÇÃO DE POSSE. ARGUIÇÃO DE IMPEDIMENTO E SUSPEIÇÃO DO PERITO.PRECLUSÃO. PRECEDENTES. SÚMULA N. 83 DO STJ. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
