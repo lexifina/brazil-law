@@ -1,0 +1,54 @@
+DECISÃO
+Cuida-se de agravo interno interposto ANTONIO GUARACY DE ANDRADE FILHO contra decisão monocrática proferida pelo Presidente do STJ, proferida nos seguintes termos (e-STJ, fls. 725-727):
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: Súmula 7/STJ (art. 25, II, da Lei 8.906/94), Súmula 83/STJ e Súmula 7/STJ (art. 805 do CPC).
+Entretanto, a parte agravante deixou de impugnar especificamente: Súmula 83/STJ e Súmula 7/STJ (art. 805 do CPC).
+Nos termos do art. 932, inciso III, do CPC e do art. 253, parágrafo único, inciso I, do Regimento Interno desta Corte, não se conhecerá do agravo em recurso especial que "não tenha impugnado especificamente todos os fundamentos da decisão recorrida".
+Conforme já assentado pela Corte Especial do STJ, a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial.
+( )
+Ressalte-se que, em atenção ao princípio da dialeticidade recursal, a impugnação deve ser realizada de forma efetiva, concreta e pormenorizada, não sendo suficientes alegações genéricas ou relativas ao mérito da controvérsia, sob pena de incidência, por analogia, da Súmula n. 182/STJ. Ante o exposto, com base no art. 21-E, inciso V, c/c o art. 253, parágrafo único, inciso I, ambos do Regimento Interno do Superior Tribunal de Justiça, não conheço do agravo em recurso especial.
+Em suas razões (e-STJ, fls. 730-736), o agravante alega que impugnou todos os argumentos da decisão que inadmitiu seu recurso especial.
+Pugna pelo afastamento do óbice da Súmula 7/STJ, ao argumento de que se trata de "debate jurídico sobre a clara violação ao artigo 25, II, da Lei 8.906/94 (prescrição), e quanto a violação ao art. 833, IV, e § 2º cumulado com o art. 529, § 3º, do CPC (impenhorabilidade dos proventos de aposentadoria" (e-STJ, fl. 732).
+Afirma a ocorrência de divergência jurisprudencial quanto à impenhorabilidade de salário para pagamento de honorários advocatícios. Pleiteia, assim, a reconsideração da decisão agravada ou o encaminhamento para julgamento pelo Órgão Colegiado.
+Impugnação às fls. 739-746 (e-STJ).
+Em nova análise da questão, verifico haver plausibilidade nas alegações do agravante no tocante à impugnação efetivada, motivo pelo qual, com fundamento no art. 259, caput, do RISTJ, reconsidero a decisão de fls. 725-727 (e-STJ) e passo a novo exame do agravo em recurso especial.
+Compulsando os autos, verifica-se que o agravante interpôs agravo deinstrumento contra decisão interlocutória que indeferiu o pedido de desconstituição da penhora sobre a verba salarial, tendo o Tribunal estadual decidido, por unanimidade, negar-lhe provimento, em acórdão assim ementado (e-STJ, fl. 513):
+PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. NATUREZA ALIMENTAR. PENHORA. SALÁRIO. POSSIBILIDADE.
+1. De acordo com o artigo 85, § 14, do Código de Processo Civil de 2015, os honorários advocatícios são direito do advogado e possuem natureza alimentar.
+2. Dada a sua natureza alimentar, os honorários advocatícios incluem-se na exceção do § 2º do artigo 833 do Código de Processo Civil, sendo, assim, possível a constrição de verba salarial para a sua satisfação.
+3. Recurso conhecido e desprovido.
+Os embargos de declaração opostos foram conhecidos e parcialmente providos para sanar a omissão apontada.
+O acórdão está assim ementado (e-STJ, fl. 539):
+PROCESSO CIVIL. EMBARGOS DE DECLARAÇÃO. PEDIDO. NÃO APRECIAÇÃO. OMISSÃO. EXISTÊNCIA. EFEITOS MODIFICATIVOS.
+1. A via dos embargos de declaração destina-se a corrigir falha do comando judicial que comprometa seu entendimento, quando decorrente de contradição, omissão, obscuridade, além de correção de erro material.
+2. Reconhecida a omissão em razão da não apreciação de um dos pedidos, impõe-se o suprimento para, com efeitos modificativos, integrar o acórdão no sentido de afastar a prejudicial de prescrição.
+3. Embargos de declaração conhecidos e parcialmente providos.
+Nas razões do recurso especial, o insurgente apontou violação aos arts. 25, II, da Lei n. 8.906/1994; 529, § 3º, 805 e 833, IV, e § 2º, do CPC/2015, além da existência de divergência jurisprudencial.
+Sustentou, em síntese, a ocorrência da prescrição da execução dos honorários advocatícios, além da impenhorabilidade dos proventos de aposentadoria. Afirmou, ainda, que a execução deve ser realizada de forma menos gravosa ao devedor.
+Contrarrazões apresentadas às fls. 603-611 (e-STJ).
+Juízo negativo de admissibilidade (e-STJ, fls. 617-619).
+Brevemente relatado, decido.
+No tocante à penhorabilidade da verba salarial, o Tribunal de origem assim se manifestou (e-STJ, fl. 516):
+Com efeito, o artigo 833 do Código de Processo Civil elenca as hipóteses em que determinados bens e valores não podem ser alcançados pela constrição judicial, pois gravados com cláusula de absoluta impenhorabilidade, a fim de proteger o patrimônio mínimo do executado e estabelecer limites à satisfação da execução.
+Dentre os bens gravados pela legislação processual civil com a cláusula de impenhorabilidade estão "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal" (artigo 833, IV, CPC/15), ressalvada o caso de penhora para o pagamento de prestação alimentícia, independentemente de sua origem, bem como de importâncias excedentes a cinquenta salários mínimos mensais, o que não se constata na espécie, conforme estabelece o § 2º do mesmo artigo.
+A hipótese, sub judice, apresenta peculiaridades que inserem o caso no contexto da exceção prevista no § 2º do artigo 833 do Código de Processo Civil, pois tanto a verba que se pretende penhorar (salário), quanto à parte da verba exequenda (honorários advocatícios), constituem verba alimentar.
+Esse é o teor do artigo 85, § 14º, do Código de Processo Civil, segundo o qual "os honorários constituem direito do advogado e têm natureza alimentar, com os mesmos privilégios dos créditos oriundos da legislação do trabalho, sendo vedada a compensação em caso de sucumbência parcial".
+Nesse contexto, entendo que os honorários advocatícios, contratuais ou sucumbenciais, inserem-se na exceção do § 2º do artigo 833 do Código de Processo Civil, sendo, assim, plenamente possível o afastamento da impenhorabilidade das verbas salariais para a sua satisfação.
+( )
+Portanto, considerando a possibilidade de penhora de verba salarial para satisfação de honorários advocatícios, a inalterabilidade da penhora é medida que se impõe.
+Em relação ao tema, a Terceira Turma desta Corte, por ocasião do julgamento do REsp. n. 1.806.438/DF, de relatoria da Ministra Nancy Andrighi, publicado no DJe 19/10/2020, consignou que, "embora não se possa admitir, em abstrato, a penhora de salário com base no § 2º do art. 833 do CPC/15, é possível determinar a constrição, à luz da interpretação dada ao art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família".
+O acórdão está assim ementado:
+RECURSO ESPECIAL. ALEGADA OFENSA À SÚMULA VINCULANTE DO STF. NÃO CABIMENTO. EMBARGOS À EXECUÇÃO. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. PENHORA DA REMUNERAÇÃO DO DEVEDOR. EXCEÇÃO DO §2º DO ART. 833 DO CPC/15. INAPLICABILIDADE. DIFERENÇA ENTRE PRESTAÇÃO ALIMENTÍCIA E VERBA DE NATUREZA ALIMENTAR.
+INTERPRETAÇÃO DADA AO ART. 833, IV, DO CPC/15. POSSIBILIDADE DE PENHORA DA REMUNERAÇÃO A DEPENDER DA HIPÓTESE CONCRETA. JULGAMENTO PELO CPC/15.
+1. Ação de embargos à execução, ajuizada em 10/04/2015, atualmente na fase de cumprimento de sentença para o pagamento dos honorários advocatícios de sucumbência, de que foi extraído o presente recurso especial, interposto em 23/01/2019 e atribuído ao gabinete em 09/04/2019.
+2. O propósito recursal consiste em definir sobre a possibilidade de penhora da remuneração da recorrida para o pagamento de honorários advocatícios de sucumbência devidos ao recorrente.
+3. A interposição de recurso especial não é cabível com fundamento em violação de súmula vinculante do STF, porque esse ato normativo não se enquadra no conceito de lei federal previsto no art. 105, III, "a" da CF/88.
+4. No julgamento do REsp 1.815.055/SP, (julgado em 03/08/2020, DJe 26/08/2020), a Corte Especial decidiu que a exceção contida na primeira parte do art. 833, § 2º, do CPC/15 é exclusivamente em relação às prestações alimentícias, independentemente de sua origem, isto é, oriundas de relações familiares, responsabilidade civil, convenção ou legado, não se estendendo às verbas remuneratórias em geral, dentre as quais se incluem os honorários advocatícios.
+5. Registrou-se, naquela ocasião, todavia, que, na interpretação da própria regra geral (art. 649, IV, do CPC/73, correspondente ao art. 833, IV, do CPC/15), a jurisprudência desta Corte se firmou no sentido de que a impenhorabilidade de salários pode ser excepcionada quando for preservado percentual capaz de dar guarida à dignidade do devedor e de sua família (EREsp 1582475/MG, Corte Especial, julgado em 03/10/2018, REPDJe 19/03/2019, DJe de 16/10/2018).
+6. Assim, embora não se possa admitir, em abstrato, a penhora de salário com base no § 2º do art. 833 do CPC/15, é possível determinar a constrição, à luz da interpretação dada ao art. 833, IV, do CPC/15, quando, concretamente, ficar demonstrado nos autos que tal medida não compromete a subsistência digna do devedor e sua família.
+7. Recurso especial conhecido em parte e, nessa extensão, desprovido.
+(REsp 1806438/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/10/2020, DJe 19/10/2020)
+Na hipótese dos autos, não há como extrair do voto proferido pelo Tribunal de origem elementos concretos para aferição de que a penhora de 30% (trinta por cento) do salário bruto do agravante não compromete a sua subsistência digna.
+Ante o exposto, conheço do agravo, mediante juízo de reconsideração, para dar provimento ao recurso especial, a fim de determinar o retorno dos autos à origem para que proceda à nova análise do caso à luz da jurisprudência desta Corte.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. 1. RECONSIDERAÇÃO DA DECISÃO DA PRESIDÊNCIA DO STJ PARA NOVA ANÁLISE DO AGRAVO EM RECURSO ESPECIAL. 2. PENHORA DA VERBA SALARIAL. AFERIÇÃO DO COMPROMETIMENTO DA SUBSISTÊNCIA DIGNA DO DEVEDOR. NECESSIDADE DE DEVOLUÇÃO AO TRIBUNAL DE ORIGEM PARA ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO PELO TRIBUNAL DE ORIGEM. 3. AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RECONSIDERAÇÃO, PARA DAR PROVIMENTO AO RECURSO ESPECIAL.
