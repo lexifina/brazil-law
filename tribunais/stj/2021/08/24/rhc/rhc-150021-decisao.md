@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto porDURVAL DE LIMA contra acórdão do Tribunal de Justiça do Estado do Ceará (HC n. 0627264-66.2021.8.06.0000)assim ementado (fls. 44-45).
+HABEAS CORPUS. EXECUÇÃO PENAL. PLEITO DE CONCESSÃO DE PROGRESSÃO DE REGIME PRISIONAL.EXCESSO DE PRAZO NO PROCEDIMENTO EXECUTÓRIO.INVIÁVEL A IMPETRAÇÃO DO WRIT COMO SUCEDÂNEO AO RECURSO CABÍVEL. IMPOSSIBILIDADE DE SUPLANTAÇÃO DA COMPETÊNCIA DA AUTORIDADE IMPETRADA. DESÍDIA DO APARATO PRISIONAL QUE GERA PATENTE CONSTRANGIMENTO ILEGAL AO APENADO. WRIT NÃO CONHECIDO MAS DE OFÍCIO ORDEM PARCIALMENTE CONCEDIDA. DETERMINAÇÃO DE PRAZO PARA APRECIAÇÃO.
+O1. A tese veiculada, no presente remédio constitucional, insurge-se em face de suposta omissão da autoridade impetrada quanto à concessão da progressão de regime prisional do paciente.
+02. Inviável a utilização de habeas corpus como sucedâneo ao recurso cabível contra decisões ou eventuais omissões atribuídas ao juízo da execução penal. Afinal, a dicção objetiva do Art. 197 da LEP autoriza expressamente a interposição de Agravo em Execução em face de qualquer decisão proferida nessa fase processual, especialmente da decisão relativa à análise dos requisitos à progressão de regime.
+03. No entanto, diante da sequência de atos processuais, no curso do procedimento executório, de fato reconheço patente constrangimento ilegal imputado à autoridade impetrada, pois não se justifica, sob a perspectiva da razoável duração do processo, que o pleito de progressão de regime formulado, em 27/03/2020, ainda esteja pendente de apreciação final.
+04. Contudo, não caberia a este Colegiado suplantar a competência inerente ao juízo da execução penal, para aferir a existência dos requisitos necessários à progressão de regime (Art. 112 da LEP), embora seja exigível sanar ilegalidade por excesso de prazo, ao passo que o paciente não poderá mais suportar o ônus da inércia das autoridades responsáveis.
+05. Deixa-se de conhecer o presente writ, mas de oficio concede-se parcialmente a ordem requestada para o fim de determinar à autoridade impetrada que aprecie, no prazo de 10 (dez) dias, o requesto formulado pela defesa do paciente.
+Alega o recorrente estar sofrendo constrangimento ilegal, uma vez que faz jus ao regime semiaberto desde 12/12/2019, ingressoucom o pedido em 27/3/2020, mas,até o presente momento, não foi analisado pelo Juízo da execução.
+Aduz que, após o resultado do exame criminológicorealizado, em que o laudo foifavorável à progressão, ingressou com reiteração do pedido, sem êxito.
+Requer "seja concedida a progressão de regime  .. e seja seu processo declinado para a vara das execuções penais da cidade de Morada Nova, local do  seu  domicílio permanente" (fl. 3).
+O Ministério Público Federal opinou pela "conversão do julgamento em diligência, para que o Juízo de primeira instância seja instado a prestar informações, nos termos da fundamentação supra"(fl. 74).
+É o relatório. Decido.
+Em consulta ao sitedo Sistema Eletrônico de Execução Unificado (Processo n. 0023420-69.2018.8.06.0128), constata-se que, em 20/7/2021, o Juízo da execução concedeu ao paciente a progressão de regime.
+Considerando a nova realidade fático-processual, evidencia-se a prejudicialidade do pedido formulado, tendo em vista a perda superveniente de objeto, de modo que não há mais o que decidir nestes autos.
+Ante o exposto, julgo prejudicado este habeas corpus.
+Publique-se. Intimem-se.
