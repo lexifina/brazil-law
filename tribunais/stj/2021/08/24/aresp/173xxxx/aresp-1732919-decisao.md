@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por ICARO DE LIMA LINS contra decisão do Tribunal de Justiça do EstadodoParáque inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, dirigido contra o acórdão prolatado na Apelação Criminal n. 0007199-74.2012.8.14.0006.
+Segundo os autos, após nova sessão plenária de julgamento, o Agravante foi sentenciado àpenade 20 (vinte) anosde reclusão, em regime inicial fechado,pela prática de homicídio qualificado, nos termos doart. 121, § 2.º, incisos I e IV, do Código Penal (fl. 501).
+Irresignada, aDefesainterpôsapelação, tendo a Corte de origem dado provimento ao recurso para reduzir a penapara 17 (dezessete) anos de reclusão, levando em conta apenas a desproporcionalidade do quantum anteriormente fixado(fl. 504).
+Nas razões do recurso especial, em síntese, o ora Agravante se insurge contra o desvalor atribuído aos vetores circunstâncias e consequências do crime (fls. 521-522).
+Ao final, busca a readequação da dosimetria da pena (fl. 523).
+As contrarrazões foram apresentadas às fls. 532-537.
+O Recurso especial não foi admitido na origem (fls. 542-543).
+Interposto o agravo em recurso especial (fls. 550-557), o Parquet apresentou contraminuta (fls. 565-569).
+O Ministério Público Federal manifestou-se às fls. 586-589, opinando pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e impugnou os fundamentos da decisão agravada, razão pela qual passo ao exame dorecurso especial.
+No que interessa ao feito, o aresto atacadoapresenta a seguinte fundamentação (fls. 502-504; sem grifos no original):
+"Como consignei no relatório, o objeto do recurso é, exclusivamente, a reforma da dosimetria da pena-base. Assim, sem delongas desnecessárias, passo à análise, para tanto, entendo imperioso relembrar a sentença na parte que interessa:
+Considerando, finalmente, os princípios informativos do artigo 59, do Código Penal, passo a analisar as circunstâncias judiciais quanto ao réu: culpabilidade já punida pela tipicidade em abstrato; não registra antecedentes criminais; conduta social e personalidade não apuradas nos autos; os motivos do delito serviram para qualificar o delito, razão pela qual deixo valorá-los, a fim de evitar o bis in idem. Quanto às circunstâncias do crime lhe são desfavoráveis, vez que atingiu a vítima de surpresa; às consequências do crime considero graves, vez que a vítima perdeu sua vida quando ainda jovem. No que tange ao comportamento da vitima, entendo que esta em nada contribuiu para a prática do delito, mas em razão da Súmula n 0 18 do TJE-PA, considero neutra para efeito de fixação da pena base.
+ ..
+Da atenta leitura da decisão combatida, verifica-se que o juízo a quo, ao valorar os vetores judiciais do art. 59 do CPB, considerou, corretamente, como desfavoráveis ao apelante os seguintes: circunstâncias e consequências do crime. Porém, entendo necessário readequar a fundamentação no tocante às consequências do delito, considerando que o recorrente tirou a vida de um jovem inocente, confundido com outra pessoa pelo simples fato de usar uma vestimenta similar ao real desafeto do apelante, fato que deixou seus familiares prematuramente desamparados, razão pela qual, entendo por mantê-la como desfavorável.
+Em relação às circunstâncias do delito, à propósito, embora tenha sido reconhecida pelo conselho de sentença a qualificadora do art. 121, §2º, inciso IV do CP, não há que se falar em bis in idem, uma vez que a sentença guerreada empregou a qualificadora do inciso I  motivo torpe -, para qualificar a conduta ilícita, enquanto que a ora referida foi levada em consideração na análise do art. 59 do CPB.
+ ..
+No entanto, especificamente com relação ao quantum arbitrado pelo juizo sentenciante, assiste razão à defesa, uma vez que desproporcional, considerando a presença de apenas 02 vetores judiciais desfavoráveis, razão pela qual, aplicando a razoabilidade ao caso em exame, reduzo o patamar da reprimenda-inicial, fixando -a em 17 anos de reclusão.
+Prosseguindo na edificação da pena, na segunda fase, inexistem atenuantes ou agravantes.
+Na etapa final, não concorre nenhuma causa de aumento ou diminuição, pelo que torno a pena concreta e definitiva em 17 anos de reclusão, mantidas as demais cominações da r. sentença guerreada.
+Por todo o exposto, acompanhando o parecer ministerial, conheço do recurso e dou-lhe parcial provimento, para redimensionar a reprimenda do apelante para 17 anos de reclusão."
+Cumpre registrar serinadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena,ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade.
+No que concerne à fixação da pena-base, é certo que o Julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime, além das próprias elementares comuns ao tipo.
+Em relação àscircunstâncias do delito, verifica-se que as instâncias ordinárias empregaram a qualificadora descrita no art. 121, § 2.º, inciso IV, do Código Penal como circunstância judicial desfavorável, o que está em consonância com a jurisprudência desta Corte Superior.
+Com efeito, havendo duas circunstâncias qualificadoras reconhecidas pelo jurados, é possível que uma delas seja utilizada como agravante ou para avaliar negativamente as circunstâncias judiciais do art. 59 do Código Penal.
+A propósito:AgRg no AREsp 1.480.030/BA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/06/2020(DJe 23/06/2020);AgRg nos EDcl no AREsp 1.229.969/RJ, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/09/2019(DJe 26/09/2019).
+No mais, segundo decidido por esta Corte, " q uanto à alegada inidoneidade na valoração do vetor judicial das consequências do delito, a pouca idade da vítima, isoladamente considerada, tem o condão de exasperar a pena-base"(AgRg no REsp 1.835.097/PA, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 22/09/2020, DJe 28/09/2020; sem grifos no original.), o que impede, no caso, o reconhecimento de violação ao art. 59 do Código Penal.
+Ilustrativamente, ainda cito o seguinte julgado:
+"HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. NÃO CONHECIMENTO DO WRIT. HOMICÍDIO QUALIFICADO. DOSIMETRIA DA PENA. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. CULPABILIDADE. VALORAÇÃO NEGATIVA DA PERSONALIDADE E CONDUTA SOCIAL. ELEMENTOS CONCRETOS DEVIDAMENTE INDICADOS PELAS INSTÂNCIAS ORDINÁRIAS. CONSEQUÊNCIAS DO DELITO. VÍTIMA JOVEM. FUNDAMENTAÇÃO IDÔNEA. MESMA FUNDAMENTAÇÃO PARA VALORAR NEGATIVAMENTE AS CIRCUNSTÂNCIAS DO DELITO. BIS IN IDEM CONFIGURADO. MOTIVOS. AUSÊNCIA DE INDICAÇÃO DE FUNDAMENTAÇÃO CONCRETA. DECOTE DOS REFERIDOS VETORES. REDUÇÃO DA PENA-BASE. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+- Quanto às consequências do crime, esta Corte entende que a idade da vítima é fundamento que justificam o aumento da pena-base.Precedentes.
+- Contudo, impossível utilizar apenas este fundamento para considerar desabonadoras as circunstâncias e as consequências do delito, sob pena de indevido bis in idem, em razão do que mantenho o desvalor apenas das consequências.
+ ..
+- Habeas corpus não conhecido. Ordem concedida, de ofício, para reduzir a pena aplicada ao paciente para 15 anos e 4 meses de reclusão, mantidos os demais termos da condenação."(HC 429.419/ES, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/10/2018, DJe 26/10/2018.)
+Outrossim, mostra-se legítima a exasperação da pena-base pelas consequências do crime, pois o fato de a vítima jovem-confundidacom outra pessoa pelo simples fato de usar uma vestimenta similar ao real desafeto do Recorrente-ter deixado familiares desamparados, denota maior reprovabilidade da conduta.
+Mutatis mutandis, cito o seguinte julgado:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. HOMICÍDIO CULPOSO NA CONDUÇÃO DE VEÍCULO AUTOMOTOR. NULIDADE. FALTA DE FUNDAMENTAÇÃO.NÃO OCORRÊNCIA. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE. CONSEQUÊNCIAS DO CRIME. VÍTIMA QUE DEIXOU FAMILIARES DESAMPARADOS. FUNDAMENTO CONCRETO. SUSPENSÃO CONDICIONAL DA PENA. PENA SUPERIOR A 2 ANOS DE RECLUSÃO. NÃO CABIMENTO. AGRAVO IMPROVIDO.
+1. Expondo-se de forma clara os motivos relacionados à culpa exclusiva do réu, por adotar conduta imprudente, não há falar em nulidade, porquanto não se pode confundir fundamentação coesa com ausência de fundamentação.
+2. Mostra-se legítima a exasperação da pena-base pela consequências do crime, pois o fato de a vítima ter deixado familiares desamparados, na condição de varão do lar conjugal, denota maior reprovabilidade de sua conduta.
+3. Fixada a pena acima de 2 anos de reclusão com a valoração negativa de circunstância judicial, incabível a suspensão condicional da pena, nos termos do art. 77 do CP.
+4. Agravo regimental improvido."(AgInt no REsp 1.762.487/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 14/05/2019, DJe 23/05/2019; sem grifos no original.)
+Desse modo, aplica-se, quanto às questões apreciadas, o disposto no Enunciado n. 568 desta Corte, do seguinte teor: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Anteo exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.PENAL. HOMICÍDIO QUALIFICADO. PENA-BASE. CIRCUNSTÂNCIAS DO DELITO. EMPREGO DA QUALIFICADORA SOBEJANTE. POSSIBILIDADE. CONSEQUÊNCIAS DO CRIME. VÍTIMA JOVEM. FAMILIARES DESAMPARADOS. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
