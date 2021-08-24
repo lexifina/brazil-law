@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se dehabeas corpus, substitutivo de recurso especial, impetrado em favor deGEOVANI CIRQUEIRA ALVES, contra v. acórdão proferido pelo eg.Tribunal de Justiça do Estado de São PaulonoAgravo em execução n. 0009309-51.2020.8.26.0032.
+Depreende-se dos autos que o d. Juízo das execuçõesindeferiuo pleito do paciente de progressão ao regime semiaberto (fl. 49).
+Irresignada, a Defesa interpôs agravo em execução perante o eg. Tribunal de origem, quenegou provimento ao recurso, nos termos do v. acórdão de fls. 68-75assim ementado:
+"Agravo. Indeferimento de progressão ao regime semiaberto. Ausência do requisito objetivo. Interrupção do lapso temporal em razão de falta disciplinar grave. Precedentes. Decisão devidamente fundamentada. Agravo improvido."
+No presentewrit, sustenta que"o Excelentíssimo Senhor Juiz da Primeira Vara de Execuções Criminais de Araçatuba-SP., indeferiu de plano o pedido alegando que o mesmo não tinha lapso, pois foi utilizado para o cálculo como inicio da contagem de prazo a data da ultima falta grave 05/04/2017 e não de sua prisão (08/10/2009) (..)"(fl. 4).
+Alega que"no nosso entendimento ele foi lesado em seu direito liquido e certo, pois a sumula 441 do STJ diz "A falta grave não interrompe o prazo para obtenção de livramento condicional" (STJ - Súmula 441 - Data da Publicação/Fonte DJe 13/05/2010)"(fl. 5).
+Sustenta que "a interrupção do lapso temporal para a concessão do Semiaberto deve ser afastada. É que não se pode utilizar a data de falta disciplinar como marco para o reinício da contagem do prazo para a obtenção do benefício pelo condenado por falta de previsão legal expressa" (fl. 5).
+Assevera que "inexistência de disposição legal determinando a interrupção do prazo obsta esse efeito, a exemplo do que ocorre no livramento condicional (súmula nº 441). Dessa forma, embora seja possível considerar a falta grave na análise dos requisitos subjetivos para a progressão, não se justifica o reinício da contagem do prazo para a concessão do benefício" (fl. 6).
+Aduz que "não é recomendável ao judiciário, a pretexto de corrigir eventuais omissões da Lei de Execução, criar exigência ou requisito temporal que a própria lei não prevê expressamente" (fl. 6).
+Pugna para que "não seja utilizado como inicio da contagem de prazo a data da última falta grave do paciente, e sim a data de sua prisão concedendo assim o beneficio de semi aberto ao paciente já que satisfaz os requisitos necessários para tanto" (fl. 7)
+Requer, ao final,a concessão da ordem,"reformando-se, por conseguinte, o v. Acórdão prolatado pelo E. Tribunal de Justiça de São Paulo que negou provimento ao Agravo em Execução interposto por esta parte, mantendo inalterada a r. sentença de 1º grau de jurisdição, concedendo a ordem nos moldes do pedido de Habeas Corpus ora impetrado" (fl. 7).
+Não houve pedido liminar.
+Informações acostadas às fls. 87-98.
+O Ministério Público Federal, à fl. 100-102,manifestou-se peladenegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS. PRÁTICA DE FALTA GRAVE. INTERRUPÇÃO DO LAPSO TEMPORAL PARA FINS DE PROGRESSÃO DE REGIME. PRECEDENTES DO STJ. PARECER PELA DENEGAÇÃO DA ORDEM."
+É o relatório.
+Decido.
+ATerceira Seção desta Corte,seguindo entendimento firmado pelaPrimeira Turma do col. Pretório Excelso,sedimentou orientação no sentido de não admitirhabeas corpusem substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia dohabeas corpuscomo instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presentemandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, no entanto, passa-se ao exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para a adequada delimitação da quaestio, transcrevo os trechos do v. aresto que manteve a r. decisão do d. Juízo de 1º grau negando a progressão ao regime semiaberto, in verbis (fls. 69-74- grifei):
+"O agravante, reincidente, cumpre pena total de 55 anos, 01 mês e 12 dias de reclusão, pela prática de porte ou posse ilegal de arma de fogo e roubos qualificados, com término previsto para 17/10/2039 (fls. 13/19).
+O i. magistrado indeferiu a benesse por considerar não preenchido o requisito objetivo eis que o lapso será cumprido apenas em 14/03/2025 (fls.42).
+Conforme fls. 40, para data base utilizada para o cálculo de benefícios foi considerada em 05/04/2017, sendo que o cumprimento da fração de 1/6 da pena se dará apenas em 14/03/2025.
+Observa-se o registro de 05 faltas disciplinares de natureza grave consistentes em escavação de túnel (praticada em 22/03/2010), tentativa de fuga e dano ao patrimônio (28/09/2010), posse de aparelho celular e droga (07/02/2012), subversão a ordem e disciplina (28/01/2013) e desobediência (05/04/2017).
+Correto, pois, o cálculo de penas eis que a prática da falta disciplinar de natureza grave enseja a interrupção da contagem de tempo para a concessão de benefícios da execução penal.
+A Lei de Execução Penal, no artigo 127, tanto na sua redação anterior, que dispunha "o condenado que for punido por falta grave perderá o direito ao tempo remido, começando um novo período a partir da data da infração disciplinar", assim como em sua nova redação dada pela Lei12.433/2011 é clara ao mencionar que em caso de falta grave o juiz poderá revogar até um terço do tempo remido, recomeçando a contagem a partir da data da infração disciplinar.
+Trata-se de aplicação da cláusula rebus sic stantibus, sujeito o reconhecimento da remição a cláusula resolutiva, qual seja a prática de falta grave.
+Existindo a falta grave, nos termos legais, os dias remidos devem ser perdidos, reiniciando-se nova contagem a partir da data da falta.
+Ademais a Súmula Vinculante nº 9 do C. Supremo Tribunal Federal é clara "o disposto no artigo 127 da Lei nº 7.210/1984 foi recebido pela ordem constitucional vigente e não se aplica o limite temporal previsto no caput do artigo 58".
+E o novo cálculo da liquidação para fins de benefícios é consequência natural e tem fundamento no art. 127 da LEP, como visto.
+ ..
+Nesse sentido, inclusive, a Súmula 534, do C. Superior Tribunal de Justiça, publicada em 15.06.2015, que estabelece: "A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração"."
+Sobre a possibilidade de interrupção da contagem do tempo para progressão de regime por ocasião do cometimento de falta grave, a jurisprudência desta Corte Superior firmou-se no sentido de que o reconhecimento de falta grave no curso da execução penal autoriza a regressão de regime prisional.
+De igual modo, impõe a alteração da data-base da contagem do prazo para a concessão de benefícios executórios, salvo para fins de livramento condicional (Enunciado Sumular n. 441/STJ) e comutação de pena ou indulto (Enunciado Sumular n. 535/STJ).
+No mesmo sentido o Enunciado Sumular n. 534/STJ, verbis:
+"A prática de falta grave interrompe a contagem do prazo para a progressão de regime de cumprimento de pena, o qual se reinicia a partir do cometimento dessa infração."
+A propósito, confira-se os seguintes julgados desta corte:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO. DESCABIMENTO. EXECUÇÃO PENAL. FUGA DO ESTABELECIMENTO PRISIONAL. FALTA DISCIPLINAR GRAVE. AFASTAMENTO. REEXAME FÁTICO-PROBATÓRIO. ALTERAÇÃO DA DATA-BASE PARA A CONCESSÃO DE NOVOS BENEFÍCIOS. PERDA DE 1/6 DOS DIAS REMIDOS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. Tendo em vista o teor da fundamentação apresentada pelas instâncias ordinárias, o afastamento da falta grave praticada pelo ora paciente (art. 50, II, da Lei n. 7.210/84 Lei de Execução Penal - LEP) demanda o reexame de matéria fático-probatória, inadmissível na via estreita do habeas corpus.
+3. O cometimento de falta grave pelo apenado (a) importa na alteração da data-base para a concessão de novos benefícios, salvo livramento condicional, indulto e comutação da pena; (b) autoriza a regressão de regime e (c) a revogação de até 1/3 dos dias remidos (art. 127 da LEP).
+4. A perda de 1/6 dos dias remidos encontra-se devidamente fundamentada na natureza e nas circunstâncias da infração cometida pelo ora paciente, em consonância com o art. 127 c/c o art. 57 da LEP.
+Habeas corpus não conhecido" (HC n. 410.801/RS, Quinta Turma, Rel. Min. Joel Ilan Paciornik, de DJe 16/10/2017).
+"PROCESSUAL PENAL E EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. FUGA. FALTA GRAVE. ATIPICIDADE DA CONDUTA. AMPLO REEXAME DA MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE. REGRESSÃO DE REGIME. POSSIBILIDADE. MEDIDA PROPORCIONAL ANTE A GRAVIDADE DA FALTA E O PERÍODO FORAGIDO. ALTERAÇÃO DA DATA-BASE, SALVO LIVRAMENTO CONDICIONAL E INDULTO OU COMUTAÇÃO DE PENA. POSSIBILIDADE. PERDA DE 1/3 DOS DIAS REMIDOS. FUNDAMENTAÇÃO CONCRETA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+II - Segundo consignado pelas instâncias ordinárias, o paciente foi considerado foragido entre os dias 2/2/2016 e 9/2/2016. Rever esse entendimento para afastar a fuga demandaria, necessariamente, amplo reexame da matéria fático-probatória, procedimento que, a toda evidência, é incompatível com a estreita via do habeas corpus. Precedentes.
+III - Nos termos do art. 118, I, da Lei de Execução Penal, a prática de falta grave autoriza a regressão de regime prisional. Além disso, a regressão ao regime fechado mostra-se proporcional no presente caso, tendo em vista a gravidade da falta cometida (fuga) e o período no qual o paciente permaneceu foragido (sete dias).
+IV - O cometimento de falta grave no curso da execução penal autoriza a determinação de perda de até 1/3 dos dias remidos (art. 127 da LEP). In casu, a incidência da fração máxima encontra-se devidamente motivada em elementos concretos, mostrando-se idônea a fundamentação apresentada.
+V - A prática de falta grave importa na alteração da data-base do prazo para a concessão de benefícios executórios, salvo para fins de livramento condicional (Súmula 441/STJ), comutação de pena ou indulto (Súmula 535/STJ). Precedentes.
+Habeas corpus não conhecido. Contudo, ordem concedida de ofício para que a falta grave praticada pelo paciente em 2/2/2016 não interrompa o lapso temporal para fins de comutação de pena ou indulto, nos termos da Súmula 535/STJ" (HC n. 369.769/RS, Quinta Turma, Rel. Min. Felix Fischer, DJe de 14/03/2017).
+"EXECUÇÃO PENAL. HABEAS CORPUS IMPETRADO EM SUBSTITUIÇÃO A RECURSO PRÓPRIO. PRÁTICA DE FALTA GRAVE. HOMOLOGAÇÃO. REGRESSÃO DE REGIME. ALTERAÇÃO DA DATA-BASE PARA OBTENÇÃO DE NOVA PROGRESSÃO. FUNDAMENTAÇÃO IDÔNEA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Hipótese em que o apenado empreendeu fuga do estabelecimento prisional em 15/6/2014, tendo sido recapturado em 15/7/2014, fato que foi considerado falta disciplinar de natureza grave pela instância ordinária, com aplicação dos consectários legais.
+3. "A prática de falta grave interrompe o prazo para a progressão de regime, acarretando a modificação da data-base e o início de nova contagem do lapso necessário para o preenchimento do requisito objetivo" (REsp 1.364.192/RS, Rel. Ministro SEBASTIÃO REIS JUNIOR, Terceira Seção, DJe 17/9/2014).
+4. O cometimento de falta disciplinar de natureza grave implica, ainda, a regressão de regime, bem como a perda de até 1/3 (um terço) dos dias remidos, nos termos do art. 127 da Lei de Execução Penal.
+5. No caso em exame, o Tribunal de origem, de forma fundamentada, reconheceu a prática de falta grave pelo paciente, consubstanciada em fuga do estabelecimento prisional, determinando a regressão de regime e a alteração da data-base para benefício para o dia da recaptura, o que não configura ser desproporcional ou desarrazoado.
+6. Habeas corpus não conhecido" (HC n. 330.611/RS, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 03/05/2016).
+Dessarte, a r. decisão do eg. Tribunal de origem estáde acordo com o entendimento desta Corte Superior, ao considerar como data-base a data da última falta disciplinar de natureza grave, qual seja, 5/4/2017, a qual interrompeu o lapso temporal para concessão do benefício da progressão de regime.
+Não resta, assim,configurada a ilegalidade apontada.
+Ante o exposto,não conheçodo presentehabeas corpus.
+P. I.
