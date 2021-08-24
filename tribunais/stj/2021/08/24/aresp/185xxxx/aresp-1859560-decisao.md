@@ -1,0 +1,53 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO SAFRA S A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO AMAZONAS, assim ementado:
+APELAÇÃO CÍVEL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO.CRÉDITO ROTATIVO. TÍTULO EXECUTIVO EXTRAJUDICIAL. PREENCHIMENTO DOS REQUISITOS DO ART. 28, §2", I E II, DA LEI N" 10.931/2004. INOCORRÊNCIA. LIQUIDEZ E EXEQUIBILIDADE NÃO VISLUMBRADAS. MANUTENÇÃO DA SENTENÇA.
+- O STJ, no julgamento do Recurso Especial n º 1.291.575/PR, submetido ao rito do art.543-C do CPC/1973 (recurso repetitivo), consolidou o entendimento de que a Cédula de Crédito Bancário, ainda que vinculada a contrato de crédito rotativo, será título hábil a aparelhar processo de execução, se atendidas as exigências legais para tanto;
+- Para que a Cédula de Crédito Bancário ostente liquidez e exequibilidade, esta deverá estar acompanhada de documentação que demonstre, de modo claro, a evolução do débito, observando os termos do art. 28,§2º, incisos I e II, da Lei nº 10.931/2004;
+- In casu, o demonstrativo de saldo devedor e o extrato, juntados pelo recorrente nos autos da da ação de execução, não assinalam os valores que foram efetivamente utilizados pelos apelados;
+- Forçosa é a manutenção da sentença que extinguiu a execução manejada pelo apelante, em razão da ausência de liquidez e exequibilidade do título de crédito em comento;
+RECURSO CONHECIDO E DESPROVIDO
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 784, XII do CPC c/c 28 da Lei n. 10.931/04, alegando em síntese, que a cédula de crédito bancário é título executivo extrajudicial.
+Contrarrazões ao recurso especial às fls. 202-206.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3.Quanto à insurgência acerca da executividade da cédula de crédito, o Tribunal de origem assim se manifestou:
+Ou seja, consoante o julgado e o dispositivo legal supracitados, para que a Cédula de Crédito Bancário ostente liquidez e exequibilidade, esta deverá estar acompanhada de claro demonstrativo que contenha não só os valores que foram utilizados pelo cliente, como também a quantia que eventualmente foi amortizada e os encargos que incidiram no uso do crédito aberto. In casu, verifico que o demonstrativo de saldo devedor e o extrato, juntados pelo recorrente às fls. 07 e 09 do processo nº 0600570-24.2015.8.04.0001, mencionam o montante disponibilizado aos apelados, mas não o que foi efetivamente utilizado por aqueles. Esses documentos não trouxeram dados quediscriminassem, de forma compreensível, a real evolução do débito, em evidente inobservância das exigências do art. 28, §2º, incisos I e II, da Lei nº 10.931/2004. Diante de tais circunstâncias, tenho que o Magistrado de primeiro grau corretamente extinguiu a execução manejada pelo apelante, em razão da ausência de liquidez e exequibilidade do título de crédito em comento. (fls. 171-172)
+Nesse contexto, constata-se que o egrégio Tribunal de origem, após o exame acurado dos autos, do acervo fático-probatório, concluiu pelaausência de liquidez e exequibilidade do título de crédito.
+Rever o entendimentodo Tribunal local acerca da suficiência das provas produzidas demandariaoreexame do contexto fático probatório dos autos,oque é vedado pelaSúmula 7do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA PARTE DEMANDADA.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões.
+Deve ser afastada a alegada violação aos arts. 489, § 1º, IV e 1.022 do CPC/15.
+2. Rever o entendimento do Tribunal local acerca da suficiência das provas produzidas demandaria o reexame do contexto fático probatório dos autos, o que é vedado pela Súmula 7 do STJ.
+3. Derruir as conclusões contidas no decisum atacado e acolher o inconformismo recursal no sentido da inocorrência ou não do atraso na entrega do imóvel ou a exceção do contrato não cumprido, segundo as razões vertidas no apelo extremo, seria imprescindível o reexame de cláusulas contratuais e o revolvimento de matéria fático e probatória, providências que esbarram nos óbices das Súmulas 5 e 7 desta Corte.
+4. Alterar a conclusão acerca da abusividade da cláusula de tolerância esbarra, igualmente, nos óbices estabelecidos pelas Súmulas 5 e 7/STJ, providência inviável em sede de apelo extremo.
+5. Agravo interno desprovido.
+(AgInt no REsp 1890642/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 15/12/2020, DJe 01/02/2021)
+4. Ademais, incidência do referido óbice impede o conhecimento do recurso
+lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL  AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1. As questões trazidas à discussão foram dirimidas pelo Tribunal de origem de forma suficientemente ampla, fundamentada e sem omissões, devendo ser afastada a alegada violação ao art. 1.022 do CPC/15.
+2. Rever o entendimento do Tribunal de origem acerca da ausência de demonstração dos danos morais, forçosamente, ensejaria em rediscussão de matéria fática, com o revolvimento das provas juntadas ao processo, o que é vedado pela Súmula 7 do STJ.
+2.1.Ademais, a respeito da pretensão recursal com fulcro na alínea "c" do permissivo constitucional, esta Corte de Justiça tem entendimento no sentido de que a incidência do referido óbice sumular impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem.
+3. Considerando que o valor fixado pelo Tribunal Estadual a título de danos morais não se mostra excessivo, em relação ao reputado razoável por esta Corte em situações semelhantes, conclui-se que a pretensão dos recorrentes esbarra no óbice da Súmula 7 desta Corte, óbice que também impede a análise do dissídio jurisprudencial.
+4. Agravo interno desprovido.
+(AgInt no REsp 1905508/AM, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/06/2021, DJe 11/06/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL.DECISÃO QUE NÃO CONHECE DE RECURSO ESPECIAL INTERPOSTO CONTRA ACÓRDÃO EM CONFORMIDADE COM ENTENDIMENTO DO STJ EM RECURSO REPETITIVO. RECURSO CABÍVEL. AGRAVO INTERNO. IMPOSSIBILIDADE DE APLICAR-SE O PRINCÍPIO DA FUNGIBILIDADE RECURSAL. ERRO GROSSEIRO.AUSÊNCIA DE VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC. VIOLAÇÃO AOS ARTS. 9º, 10 E 933 DO CPC. PRINCÍPIO DA NÃO SURPRESA. CONEXÃO.SÚMULAS 5 E 7 DO STJ. DISSÍDIO JURISPRUDENCIAL. NÃO APONTAMENTO DO DISPOSITIVO DE LEI FEDERAL ACOIMADO DE VIOLADO. SÚMULA 284 DO STF.ART. 42 DO CÓDIGO DE ÉTICA DA OAB. NORMA INFRALEGAL. AUSÊNCIA DE COTEJO ANALÍTICO E SIMILITUDE. CONEXÃO. DIVERGÊNCIA PELA SÚMULA 7 DO STJ.
+1. A decisão agravada foi publicada já na vigência do atual Código de Processo Civil, o qual prevê, em seu art. 1.030, I, "b", § 2º, do CPC/2015, que cabe agravo interno contra a decisão que não conhece do recurso especial interposto contra acórdão em conformidade com entendimento do STJ em recurso repetitivo.
+2. Assim, diante da expressa previsão legal do cabimento de agravo interno, a interposição de agravo em recurso especial constitui falha inescusável que impede a aplicação do princípio da fungibilidade recursal.
+3. Não é possível admitir o presente recurso por violação aos arts.
+489 e 1.022, ambos do CPC, visto que não houve negativa de prestação jurisdicional, máxime porque a Corte de origem analisou a questão deduzida pelo recorrente.
+4. Não há falar também, no ponto, de violação aos arts. 9º, 10 e 933 do CPC, notadamente porque a Corte de origem apenas interpretou o contrato para chegar à conclusão de que as relações jurídicas de Orion Projetos e Empreendimentos Ltda e Multi KSR Participações Ltda eram distintas, com origem em contratos diversos, sendo que os serviços prestados nada teriam em comum. Dessa forma, não ocorreu violação ao princípio da não surpresa.
+5. O enunciado processual da não surpresa não implica exigir do julgador que toda solução dada ao deslinde da controvérsia seja objeto de consulta às partes antes da efetiva prestação jurisdicional. Precedentes.
+6. Não foi demonstrada a comunhão de pedidos ou de causa de pedir que ensejaria a reunião das demandas por conexão. Incidência das Súmulas 5 e 7 do STJ.
+7. No tocante à alegação de ocorrência de dissidio jurisprudencial, o recurso especial não merece acolhimento, uma vez que a recorrente se limita a indicar paradigmas, sem, contudo, indicar qual dispositivo legal teria recebido interpretação divergente.
+8. De acordo com a sólida jurisprudência desta Corte, cabe ao STJ, como missão precípua, uniformizar a interpretação das leis federais, nos termos do art. 105 da Constituição Federal, não sendo sua atribuição constitucional apreciar normas infralegais, tais como resoluções, portarias, regimentos internos, regulamentos, etc, razão pela qual o recurso não pode ser conhecido pela suposta afronta ao art. 42 do Código de Ética e Disciplina da OAB.
+9. No caso em tela, a parte agravante traz à colação ementa de julgados, contudo não procede ao cotejo, trecho a trecho, com o caso dos autos; apenas traça uma conclusão conveniente em face dos enunciados estampados nas ementas, não sendo aferível a similitude fática entre esses julgados e o do caso em julgamento.
+10. Além disso, quanto à conexão, deve-se acrescentar que não é possível conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo e não do entendimento diverso sobre uma mesma questão legal.
+11. Agravo interno não provido.
+(AgInt no AREsp 1598438/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 31/05/2021, DJe 07/06/2021)
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
