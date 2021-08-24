@@ -1,0 +1,21 @@
+DECISÃO:
+ Vistos.
+     Trata-se de agravo em recurso extraordinário interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 102, III, “a” e “b”, da Constituição Federal, no qual se alega contrariedade aos artigos 5º, inciso II, 194 caput e § único, 195, § 5º, 201 caput e §§ 2º e 11º, da Constituição Federal.
+    Na origem, trata-se de ação por meio da qual o ora recorrido pleiteia o reconhecimento das atividades exercidas no período de 12/7/2012 a 5/5/2016 como especial e sua consequente conversão em tempo de atividade comum.
+    Sustenta a parte recorrente que “o pedido pretendido nos autos não encontra respaldo legal, posto que pretende a parte autora, pura e simplesmente, a majoração da renda mensal de sua aposentadoria, utilizando contribuições vertidas após a aposentação, o que não se admite, em face de expressa vedação legal e, qualquer decisão nesse sentido importa em manifesta afronta aos princípios constitucionais da solidariedade, da seletividade e distributividade na prestação dos benefícios e serviços previdenciários.”.
+    O acórdão recorrido confirmou a sentença de procedência, consignando que “tem, pois, o segurado direito ao reconhecimento da especialidade da atividade desempenhada nessas condições”.
+    Opostos embargos de declaração, foram rejeitados.
+    Decido.
+    A irresignação não merece prosperar, uma vez que a Turma recursal, prolatora do acórdão atacado, se limitou a manter a sentença de primeiro grau que julgou procedente o pedido autoral para “declarar o período específico de atividade especial entre 12/07/2012 a 05/05/2016”, não tendo determinado, em nenhum momento, o recalculo do valor do benefício de aposentadoria do autor e, tampouco, sua substituição por outro benefício previdenciário.
+    Todavia, o recorrente, em suas razões recursais, requer unicamente a “reforma do acórdão recorrido para julgar improcedente o pedido de desaposentação”.
+    Nestes termos, resta clara a existência de deficiência na fundamentação das razões do recurso extraordinário, tendo em vista que, como afirmado categoricamente pela Corte de origem, “o pedido é de reconhecimento de tempo especial. A questão relativa à desaposentação não foi objeto da ação nem de decisão em primeiro lugar.”
+    Desse modo, é imperiosa a incidência da Súmula nº 284 desta Suprema Corte. Nesse sentido, os seguintes precedentes:
+    PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 284/STF. RECURSO NÃO CONHECIDO. (ARE nº 825.918/RJ-AgR-ED-EDv-AgR, Tribunal Pleno, Relator o Ministro Teori Zavascki , DJe de 17/3/15).
+    PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. INADMISSÃO. AGRAVO REGIMENTAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 284 DO STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - A decisão agravada teve em conta a inadmissibilidade de embargos de divergência contra acórdão proferido em julgamento de agravo regimental em agravo de instrumento, que teve o seguimento negado por ausência de requisitos processuais, sem avançar no mérito da questão, pois, considerados os termos do art. 330 do Regimento Interno desta Corte, as decisões que não guardam pertinência com o mérito da lide não se revelam aptas à demonstração de dissensão jurisprudencial. II É deficiente a fundamentação do agravo regimental cujas razões não atacam os fundamentos da decisão agravada. Incidência da súmula 284 desta Corte. Precedentes. III Agravo regimental a que se nega provimento. (ARE nº 726.706/MG-AgR-ED-EDv-AgR, Tribunal Pleno, Relator o Ministro Ricardo Lewandowski, DJe de 21/3/14).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 24 de agosto de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
