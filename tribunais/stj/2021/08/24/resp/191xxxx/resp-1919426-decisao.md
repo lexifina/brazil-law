@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de recurso especial interposto por RODOPOSTO SÃO CARLOS LTDA., no qual defende a ilegalidade da aplicação de alíquota do ICMS sobre fornecimento de energia elétrica e prestação de serviços de telecomunicação em patamar superior aofixadopara as operações em geral, por ofensaaos princípios da essencialidade eda seletividade.
+Passo a decidir.
+O Supremo Tribunal Federal, nos autos do RE n. 714.139/SC, decidiu que "possui repercussão geral a controvérsia relativa à constitucionalidade de norma estadual mediante a qual foi prevista a alíquota de 25% alusiva ao Imposto sobre a Circulação de Mercadorias e Serviços incidente no fornecimento de energia elétrica e nos serviços de telecomunicação, em patamar superior ao estabelecidopara as operações em geral - 17%" (Tema 745 do STF).
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça sobre a mesma controvérsia, os autos devem retornar à Corte de origem, para a oportuna realização do juízo de conformação com a decisão vinculativa a ser proferida peloSTF, hoje disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que proceda ao oportuno juízo de conformação com o acórdão a ser proferido no julgamento do RE 714.139/SC (Tema 745 do STF).
+Publique-se. Intimem-se.
