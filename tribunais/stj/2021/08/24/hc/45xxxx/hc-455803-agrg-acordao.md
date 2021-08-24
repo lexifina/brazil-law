@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. QUINZE CONDENAÇÕES POR ROUBO. RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. HABITUALIDADE CRIMINOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A jurisprudência desta Corte adota ateoria objetivo-subjetiva para o reconhecimento da continuidade delitiva.A ficção jurídica, criada por questões de política criminal, visa mitigar o rigordas penas cumuláveis a crimes praticados em desdobramento, desde que, reconhecida a similitude entre condições objetivas de tempo, lugar, modo de execução etc.,sejam todos havidos como sucessão de inaugural plano do agente. A mera reiteraçãode ilícitos, ainda que análogos,desafianão a premiação, mas o recrudescimento na aplicação da pena.
+2. A orientação do Tribunal a quo se firmou no mesmo sentido. Foi negado ao agravante a aplicaçãodoart. 71 do CPna fase da execução penal em face da sua habitualidade criminosa, evidenciada por quinze condenações distintas por roubos majorados.Conclusão em sentido contrário demandaria o reexame de provas nem sequer delineadas no acórdão recorrido,o que não é possível em habeas corpus.
+3. Agravo regimental não provido.
+RELATÓRIO
+ALEXANDRE DA SILVA FELINTO interpõe agravo regimental contra a decisão de fls. 2.501-2.503.
+O postulante pede o reconhecimento da continuidade delitiva na fase de execução penal, em relação a quinze condenações diversas por crimes de roubo majorados, as quais,a seu ver, poderiam ser dividas em três blocos de crimes únicos. Considera que estão preenchidos os requisitos da ficção legal.
+Requer a submissão do feito ao colegiado, com a consequente concessão da ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. QUINZE CONDENAÇÕES POR ROUBO. RECONHECIMENTO DA CONTINUIDADE DELITIVA. IMPOSSIBILIDADE. HABITUALIDADE CRIMINOSA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1.A jurisprudência desta Corte adota ateoria objetivo-subjetiva para o reconhecimento da continuidade delitiva.A ficção jurídica, criada por questões de política criminal, visa mitigar o rigordas penas cumuláveis a crimes praticados em desdobramento, desde que, reconhecida a similitude entre condições objetivas de tempo, lugar, modo de execução etc.,sejam todos havidos como sucessão de inaugural plano do agente. A mera reiteraçãode ilícitos, ainda que análogos,desafianão a premiação, mas o recrudescimento na aplicação da pena.
+2. A orientação do Tribunal a quo se firmou no mesmo sentido. Foi negado ao agravante a aplicaçãodoart. 71 do CPna fase da execução penal em face da sua habitualidade criminosa, evidenciada por quinze condenações distintas por roubos majorados.Conclusão em sentido contrário demandaria o reexame de provas nem sequer delineadas no acórdão recorrido,o que não é possível em habeas corpus.
+3. Agravo regimental não provido.
+VOTO
+Mantenho a decisão agravada.
+O paciente foi condenado, em ações penais distintas, por quinze crimes de roubo majorados, e cumpre 109 anos e 18 dias de reclusão em regime fechado.
+O Juiz da VEC assinalou: "da análise dos presentes delitos, não resultou comprovada qualquer evidência que aponte a existência de continuação, tratando-se, na verdade, de mera reiteração criminosa" (fl. 24).
+O Tribunal manteve o decisum (Agravo de Execução Penal n. 0278187-40.2017.8.19.0001, pois os roubos circunstanciados decorreram de desígnios autônomos, no âmbito de habitualidade delitiva impeditiva ao reconhecimento do crime continuado.
+Não há ilegalidade no aresto recorrido.
+A jurisprudência deste Superior Tribunal é firme em adotar a teoria objetivo-subjetiva para o reconhecimento da continuidade delitiva, por considerá-la mais adequada à interpretação do art. 71 do CP.
+A ficção jurídica, criada por questões de política criminal, visa mitigar o rigor excessivo das penas cumuláveis a crimes praticados em desdobramento, desde que, favorecidos os requisitos do art. 71 do CP, sejam todos havidos como sucessão da inaugural conduta do agente. Busca-se, com isso, evitar penas descomunais e desnecessárias em situações que não revelam maior censurabilidade.
+Apesar das inúmeras discussões sobre o tema, exige-se um elemento subjetivo para o reconhecimento da continuidade delitiva; uma espécie de propósito inicial que culmina na realização encadeada de condutas criminosas homogêneas, de forma a beneficiar com o tratamento benevolente somente os não contumazes violadores da norma penal.
+Somente os casos concretos que denotem a prática de crimes resultantes de uma só resolução devem atrair a fórmula normativa, sob pena de se frustrar o objetivo maior da legislação, de prevenir e reprimir as infrações penais, uma vez que a aplicação indistinta do art. 71 do CP seria verdadeiro prêmio e estímulo para criminosos profissionais, os quais desafiam não a moderação, mas o recrudescimento na aplicação da pena.
+O aresto recorrido não é ilegal, pois destacou a habitualidade delitiva, demonstrada pelas inúmeras condenações criminaisdo sentenciado, o que é suficiente para indeferir o pleito de aplicação do art. 71 do CP. Conclusão em sentido contrário demandaria o reexame de provas, o que não é possível em habeas corpus.
+Observa-se, no caso o entendimento de que: "Uma vez evidenciada a reiteração indicativa de delinquência habitual ou profissional, impossível reconhecer a continuidade delitiva em favor dos recorrentes (REsp 1655072/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/12/2017, DJe 20/02/2018)" (AgRg no HC 644.687/SC, Rel. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Sexta Turma, DJe 21/5/2021).
+Ilustrativamente: "O Tribunal a quo concluiu pela inexistência de unidade de desígnios entre as ações, tratando-se, na verdade, de habitualidade criminosa, entendimento que se encontra em linha com a jurisprudência desta Corte" (AgRg no AREsp 1727524/DF, Rel. Ministro Ribeiro Dantas, Quinta Turma, DJe 10/5/2021).
+À vista do exposto, nego provimento ao agravo regimental.
