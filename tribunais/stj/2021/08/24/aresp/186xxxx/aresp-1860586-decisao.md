@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo desafiando decisão da Vice-Presidência do Tribunal de Justiça Regional Federal da 3ª Região, que não admitiu recurso especial sob o fundamento de que incide à espécie as Súmulas 83 e 7 do STJ, na medida em que o "acórdão recorrido reconheceu a possibilidade de se considerar, para efeito de carência do benefício, o período de fruição de benefício por incapacidade intercalado com períodos de contribuição decorrentes do exercício de atividade laboral, entendimento esse que se revela em conformidade com a jurisprudência consolidada no âmbito do Superior Tribunal de Justiça" (fl. 264).
+Nas razões do agravo em recurso especial, o INSS alega que não pretende reexame de provas e a "legislação em vigor não permite o cômputo do tempo em gozo de benefício por incapacidade como CARÊNCIA, mas tão somente como tempo de serviço" (fl. 272).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial. No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgIntno REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, PrimeiraTurma, DJe 13/9/2019.
+Incide, desse modo,por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
