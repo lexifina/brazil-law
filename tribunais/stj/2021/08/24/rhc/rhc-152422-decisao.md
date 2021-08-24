@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por ERIVALDO JÚNIOR FERREIRA DA SILVA contra acórdão do Tribunal de Justiça do Estado da Paraíba(HC n. 0805212-43.2021.8.15.0000).
+Orecorrente teve a prisão preventiva decretada contra si por suposta prática do delito tipificado no art. 121, caput, do Código Penal.
+Impetrado writ originário, a ordem foi denegada.
+Orecorrente alega que está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar.Aponta que a prisão preventiva é medida desnecessária para o presente caso.Afirma que os fatos estão amparados pelaexcludentede ilicitude dalegítima defesa.
+Requer a revogação da prisão preventiva.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 117-119, destaquei):
+O impetrante pretende a concessão da ordem com escopo de repelir a violação ao status libertatis do paciente, em decorrência de suposto constrangimento ilegal, sob o argumento de desnecessidade da segregação cautelar em desfavor do paciente.
+ ..
+Segundo a exordial acusatória, réu e vítima mantinham desavenças. No fatídico dia, a vítima passou algumas vezes em frente à casa do acusado, portando uma faca, ameaçando matá-lo, bem como as suas filhas. Em um determinado momento, vítima e acusado se encontraram, e o paciente logrou êxito em tomar a faca que Carlindo portava, deferindo-lhe um golpe, que o levou a óbito .
+ ..
+Trata-se de delito doloso, punido com reclusão, e seu cometimento gera repercussão na comunidade, além do paciente ser acusado pelo crime de homicídio, responde a outro processo (disparo de arma de fogo em via pública), demonstrando, assim, tendência à criminalidade, consoante explanado pelo Juiz singular.
+Restou devidamente demonstrada a presença dos indícios veementes de autoria, bem como, provada a materialidade do delito (fumus boni juris) com arrimo em elementos dos autos,justificado o decreto preventivo na garantia da ordem pública, ante a gravidade concreta dos fatos praticados(periculum in mora).
+É nesse particular que entra o poder-dever de cautela do Estado-Juiz, de garantir a paz e o equilíbrio da sociedade, impedindo, por conseguinte, o comprometimento da ordem pública, da instrução criminal e da aplicação da lei, uma vez que, para adoção da prisão preventiva, que é uma medida cautelar, não se exige a mesma certeza necessária a um juízo condenatório, por incidir o princípio do. indubio pro societate.
+Em verdade, recomenda a norma penal que a prisão preventiva deva ser decretada pela segurança da ordem pública, a qual visa não apenas impedir a prática de novos delitos por parte do paciente, mas também acautelar o meio social e ainda a credibilidade da Justiça diante do crime praticado, somando-se também a repercussão social e/ou potencial periculosidade do agente.
+ ..
+Por conseguinte, em atenção aos demais requisitos autorizadores da segregação cautelar, tenho que configurada,in casu, a necessidade da aplicação da lei penal, a garantia da ordempública e a conveniência da instrução criminal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
