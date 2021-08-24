@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo interposto por ADIB MIGUEL SAPAG e OUTROS contra decisão do Tribunal de Justiça do Estado de São Paulo, que não admitiu recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o qualdesafia acórdão assim ementado (e-STJ fl. 512):
+Servidores estaduais. Recálculo do adicional por tempo de serviço, para que incida sobre os vencimentos integrais. Artigo 129 da Constituição Estadual. Inadmissibilidade.
+Ação ora julgada improcedente. Recursos, oficial e fazendário, providos. Recurso dos autores, prejudicado.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 528/530).
+No especial obstaculizado, a parte recorrente sustenta violação: (a) dos arts. 1.022, II, parágrafo único, II, c/c o 489, § 1º, VI, do CPC/2015, por negativa de prestação jurisdicional; e (b) dos arts. 926, 927, III, e 947, § 3º, do CPC/2015, ao argumento de que (e-STJ fls. 540/541):
+ ..
+Percebe-se, pois, pela simples leitura do citado precedente que, ao contrário do assentado no v. acórdão recorrido, o artigo 129 da ConstituiçãoEstadual prevê a base de cálculo do Adicional por Tempo de Serviço, qual seja: os vencimentos integrais, salvo as verbas eventuais. Além disso, também de forma contrária ao deduzido no v. acórdão recorrido, no precedente em apreço é apontado que a fórmula de cálculo pretendida pelos servidores públicos não encontra óbice no disposto no artigo 37, XIV, da Constituição Federal.
+Portanto, evidente a contrariedade aos artigos 927, III e 947, §3º ambos do CPC, na medida em que o v. acórdão recorrido não observou a tese firmada na Assunção de Competência nº 0087273-47.2005.8.26.0000, em que pese seu efeito vinculante.
+Demais disso, sobre o ponto em questão, é válido repisar que a esta c. Corte Superior sequer será necessário averiguar a divergência entre o decidido no caso dos autos e a tese jurídica firmada no julgamento da Assunção de Competência nº 0087273-47.2005.8.26.0000, isso porque, é expressamente reconhecido no v. acórdão recorrido tal divergência, como se pode extrair das fls. 515 dos autos.
+ ..
+Estadual prevê a base de cálculo do Adicional por Tempo de Serviço, qual seja: os vencimentos integrais, salvo as verbas eventuais. Além disso, também de forma contrária ao deduzido no v. acórdão recorrido, no precedente em apreço é apontado que a fórmula de cálculo pretendida pelos servidores públicos não encontra óbice no disposto no artigo 37, XIV, da Constituição Federal.
+Portanto, evidente a contrariedade aos artigos 927, III e 947, §3º ambos do CPC, na medida em que o v. acórdão recorrido não observou a tese firmada na Assunção de Competência nº 0087273-47.2005.8.26.0000, em que pese seu efeito vinculante.
+Demais disso, sobre o ponto em questão, é válido repisar que a esta c. Corte Superior sequer será necessário averiguar a divergência entre o decidido no caso dos autos e a tese jurídica firmada no julgamento da Assunção de Competência nº 0087273-47.2005.8.26.0000, isso porque, é expressamente reconhecido no v. acórdão recorrido tal divergência, como se pode extrair das fls. 515 dos autos.
+Contrarrazões às e-STJ fls. 555/567.
+Passo a decidir.
+Não obstante os argumentos tecidos, observa-se que a irresignação recursal não merece prosperar.
+Quanto à alegada ofensa do art. 1.022, do CPC/2015, não há que falar em omissão no aresto recorrido, que solucionou adequadamente a controvérsia, utilizando-se de fundamento suficiente e esclarecedor, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se vislumbra violação do preceito apontado.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO CONFIGURADA. IMPOSTO DE RENDA SOBRE RENDIMENTOS DE FUNDO DE RENDA FIXA DE CAPITAL ESTRANGEIRO. LEGALIDADE DA MAJORAÇÃO DE ALÍQUOTA PELA LEI 9.245/1995. AGRAVO INTERNO DO CONTRIBUINTE A QUE SE NEGA PROVIMENTO. 1. Rejeita-se a alegada preliminar de nulidade do acórdão de origem por negativa de prestação jurisdicional, porquanto não restaram evidenciadas quaisquer omissões, obscuridades ou contradições no aresto recorrido, que solucionou adequadamente a controvérsia utilizando-se de fundamento suficiente e esclarecedor; os Embargos Declaratórios, embora sejam um importante instrumento de aperfeiçoamento da prestação jurisdicional, não se prestam para forçar o Tribunal a se manifestar sobre uma questão jurídica sob uma determinada ótica, se já se optou por outra igualmente válida e pertinente.
+ ..
+5. Agravo Regimental desprovido. (AgRg no AREsp 163.417/AL, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 29/09/2014) (AgInt no REsp 1.382.087/SP, Rel. Ministro NAPOLEÃO NUNES MAIA PRIMEIRA TURMA, DJe 29/09/2014)
+Extrai-se do acórdão recorrido, que deu provimento ao apelo da Fazenda estadual(e-STJ fls. 514/516):
+ ..
+Trata-se de ação proposta por servidores públicos estaduais, que objetivam o recálculo do adicional por tempo de serviço, para que incida sobre a integralidade de seus vencimentos.
+No artigo 129 da Constituição Estadual assim está disposto:
+ ..
+O dispositivo constitucional versa sobre duas vantagens:
+o adicional por tempo de serviço, concedido a cada quinquênio sem qualquer referência à base de cálculo; e a sexta-parte, concedida após vinte anos de efetivo exercício e com determinação expressa de incidência nos vencimentos integrais.
+Logo, pela simples leitura do artigo supracitado, é incabível o cálculo do adicional por tempo de serviço sobre os vencimentos integrais, por ausência de amparo legal.
+Observe-se, ainda, que no artigo 37, inciso XIV, da Constituição Federal, com redação determinada pela Emenda Constitucional nº 19/98, veda-se expressamente o efeito "repicão" ou "cascata". Vejamos: "Os acréscimos pecuniários percebidos por servidor público não serão computados nem cumulados para fins de concessão de acréscimos ulteriores".
+E, no julgamento do Incidente de Uniformização de Jurisprudência nº 193.485.1/6, esclareceu-se a interpretação a ser dada ao disposto no artigo 129 da Constituição do Estado, que reconhece o direito à sexta-parte sob a condição de exercício da função pública por 20 anos e incidente sobre todas as verbas percebidas em caráter permanente ou transitório, excetuadas tão somente as eventuais.
+Logo, o Incidente de Uniformização refere-se somente à sexta-parte, não se aplicando em relação aos quinquênios.
+Não se aplica ao caso presente o decidido no Incidente de Assunção de Competência nº 0087273-47.2005.8.26.0000, de acordo com o regime do art. 927 do novo CPC, vez que aquele incidente foi decidido na vigência do CPC de 1973. (Grifos acrescidos).
+Não há quefalar, portanto, em negativa de prestação jurisdicional.
+Quanto ao mais, verifica-se que o aresto combatido apoia-se em fundamento constitucional, suficiente e autônomo à preservação do decisum.
+Ocorre que a parte recorrente não manejou o correspondente recurso extraordinário, tornando preclusa a matéria e inócuo o recurso especial interposto, sendo este manifestamente inadmissível, nos termos da Súmula 126 do STJ. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. FORNECIMENTO DE MEDICAMENTOS. TRATAMENTO DE SAÚDE. CERCEAMENTO DE DEFESA. REVISÃO. SÚMULA 7/STJ. ACÓRDÃO IMPUGNADO. DUPLO FUNDAMENTO. QUESTÃO CONSTITUCIONAL NÃO INFIRMADA. SÚMULA 126/STJ.
+ ..
+2. A despeito da existência de fundamento constitucional, a parte agravante limitou-se a interpor recurso especial, deixando de interpor o extraordinário, de competência do Supremo Tribunal Federal, o que atrai a incidência da Súmula 126/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1441750/RS, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 19/11/2015)
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. ART. 535 DO CPC. VÍCIO INEXISTENTE. REDISCUSSÃO DA CONTROVÉRSIA. FORNECIMENTO DE REMÉDIOS. NECESSIDADE DE RECEITA DE MÉDICOS CREDENCIADOS AO SUS. FUNDAMENTO CONSTITUCIONAL E INFRACONSTITUCIONAL DO ACÓRDÃO VERGASTADO. MATÉRIA NÃO IMPUGNADA POR RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. ENFERMA QUE JÁ É ACOMPANHADA POR MÉDICOS CREDENCIADOS AO SUS. AUSÊNCIA DE INTERESSE RECURSAL. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+ .. .
+2. Da leitura do acórdão recorrido depreende-se que foram debatidas matérias de natureza constitucional e infraconstitucional. No entanto, a recorrente interpôs apenas o Recurso Especial, sem discutir a matéria constitucional, em Recurso Extraordinário, no excelso Supremo Tribunal Federal. Súmula 126/STJ.
+ ..
+6. Agravo Regimental não provido. (AgRg no REsp 1517256/RJ, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2015)
+Ademais, da leitura do acórdão proferido pelo Tribunal de origem, constata-se que a controvérsia foi decidida à luz da interpretação da Constituição Estadual, razão porque se mostra inadequada a via do recurso nobre para infirmar o julgado, ante a incidência do óbice da Súmula 280 do STF. Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO ESTADUAL. CONTRARIEDADE A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL. EXAME VIA APELO ESPECIAL. IMPOSSIBILIDADE. VIOLAÇÃO DOS ARTS. 489, § 1º, III E IV, 502, 503, 505, 507 E 1.022, PARÁGRAFO ÚNICO, II, DO CÓDIGO DE PROCESSO CIVIL/2015 E DO ART. 6º DA LEI DE INTRODUÇÃO ÀS NORMAS DE DIREITO BRASILEIRO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. LEI ESTADUAL. SÚMULA 280/STF.
+ ..
+3. A demanda foi dirimida no acórdão recorrido com base em Direito local (art. 108 do Estatuto dos Funcionários Públicos Civis do Estado de São Paulo e do art. 129 da Constituição Estadual, fls. 123-126, e-STJ). Logo, é inviável sua apreciação em RecursoEspecial, em face da incidência, por analogia, da Súmula 280 do STF: "por ofensa a direito local não cabe recurso extraordinário."
+4. Agravo conhecido para não se conhecer do Recurso Especial. (AREsp 1.600.844/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 25/06/2020)
+Por fim, acolher a tese defendida pela parte recorrente, a fim de infirmar as razões de decidir da Corte de origem, encontra óbice na Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
