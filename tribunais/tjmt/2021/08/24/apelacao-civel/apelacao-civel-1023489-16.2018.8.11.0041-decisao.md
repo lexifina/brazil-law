@@ -1,0 +1,56 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1023489-16.2018.8.11.0041
+RECORRENTE: UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO
+RECORRIDO: MARILEI DE OLIVEIRA
+Vistos.
+Trata-se de recurso especial interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO com fundamento no artigo 105, inciso III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Primeira Câmara de Direito Privado, assim ementado (id 89195983):
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS – PLANO DE SAÚDE – PRELIMINAR DE ILEGITIMIDADE PASSIVA – REJEITADA - REALIZAÇÃO DE EXAME PET-CT – PROCEDIMENTO QUE CONSTA DO ROL DE COBERTURA OBRIGATÓRIA DA ANS PARA CASOS ESPECÍFICOS DE CÂNCER – CÂNCER DE MAMA METASTÁTICO - COBERTURA DEVIDA – DANO MORAL – CONFIGURADO – SENTENÇA MANTIDA – RECURSO DESPROVIDO. A jurisprudência do C. Superior Tribunal de Justiça é assente em reconhecer a legitimidade das unidades cooperativas ligadas à UNIMED, por aplicação da teoria da aparência. É firme a jurisprudência no sentido de que cabe ao médico que assiste o segurado a indicação do tratamento mais adequado ao restabelecimento de sua vida, no tratamento de doença com previsão de cobertura, sendo indevida a negativa de autorização para realização do exame. Ademais, o exame requestado nos autos consta no rol da ANS e a condição de saúde da apelada se enquadra nas hipóteses de utilização deste. “Importante consignar que, de fato, o mero descumprimento contratual não enseja, em regra, indenização por danos morais, todavia, diante das peculiaridades do presente caso, entendo que a conduta da ré causou danos morais ao autor, uma vez que restou configurada a dor, aflição psicológica e agonia, por ele suportadas em razão da negativa de cobertura do tratamento emergencial de um câncer.” (TJMG - Apelação Cível 1.0378.15.000848-0/002, Relator(a): Des.(a) Alberto Henrique, 13a CÂMARA CÍVEL, julgamento em 14/09/2017, publicação da sumula em 22/09/2017).
+(TJ-MT 10234891620188110041 MT, Relator: SEBASTIAO BARBOSA FARIAS, Data de Julgamento: 15/06/2021, Primeira Câmara de Direito Privado, Data de Publicação: 17/06/2021)
+O presente recurso foi interposto contra o acórdão proferido em sede de apelação, interposta por Unimed Cuiabá Cooperativa de Trabalho Médico, que negou provimento ao recurso e manteve a sentença que, na ação de obrigação de fazer c/c indenização por danos morais, julgou parcialmente procedentes os pedidos iniciais para confirmar a liminar deferida e determinar que a parte recorrente custeie todo o tratamento de saúde da parte recorrida, em especial o tratamento de câncer, composto pela realização do exame PET-CT, bem como para condená-la ao pagamento de indenização por danos morais no valor de R$ 8.000,00 (oito mil reais).
+A parte recorrente alega, além da divergência jurisprudencial, a violação ao artigo 17 do CPC, sob a alegação de que o vínculo contratual da parte recorrida foi firmado com a Unimed Norte de Mato Grosso, operadora de saúde diversa, razão pela qual é parte ilegítima para figurar no polo passivo da lide.
+Aponta a contrariedade aos artigos 186 e 927 do Código Civil.
+Recurso tempestivo (id 937009962) e preparado (id 93677954).
+Contrarrazões apresentadas (id 95641494).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ dispõe que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a alegada violação ao artigo 17 do CPC está amparada na assertiva de que a parte recorrente é ilegítima para figurar no polo passivo da lide, uma vez que o vínculo contratual da parte recorrida foi firmado com a Unimed Norte de Mato Grosso, operadora de saúde diversa.
+Neste ponto, consignou-se no acórdão recorrido:
+“(...) A apelante arguiu a preliminar de ilegitimidade passiva, vez que o contrato de plano de saúde firmado com a apelante é junto à Unimed Norte. Contudo, a arguição não merece prosperar.
+Conforme pontuado na sentença, o plano de saúde da apelada possui abrangência nacional. O C. STJ é assente no entendimento de aplicação da teoria da aparência às unidades cooperativas ligadas a Unimed.
+Neste sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO MONITÓRIA. AUSÊNCIA DE INTIMAÇÃO. TRIBUNAL DE ORIGEM ENTENDEU QUE NÃO HOUVE PREJUÍZO. ALTERAÇÃO. IMPOSSIBILIDADE.
+NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. LEGITIMIDADE PASSIVA. SISTEMA UNIMED. TEORIA DA APARÊNCIA. SOLIDARIEDADE ENTRE AS COOPERATIVAS. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO.
+1. O Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que a ausência de intimação não acarretou prejuízo à recorrente, uma vez que os demais advogados constituídos pela parte atenderam todas as intimações que lhes foram dirigidas. A pretensão de alterar tal entendimento demandaria o reexame do acervo fático-probatório, inviável em recurso especial, ante a incidência da Súmula 7/STJ.
+2. A jurisprudência desta Corte Superior é assente em reconhecer a legitimidade das unidades cooperativas ligadas à UNIMED, por aplicação da teoria da aparência (AgInt nos EDcl no AgInt no AREsp 833.153/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 06/11/2018, DJe de 13/11/2018).
+3. Estando o acórdão estadual de acordo com a jurisprudência desta Corte, o apelo especial encontra óbice na Súmula 83/STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1492299/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/12/2019, DJe 19/12/2019)
+Ante o exposto, rejeito a preliminar arguida. (...)”
+Verifica-se que o entendimento adotado pelo órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai do seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. AÇÃO MONITÓRIA. AUSÊNCIA DE INTIMAÇÃO. TRIBUNAL DE ORIGEM ENTENDEU QUE NÃO HOUVE PREJUÍZO. ALTERAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ. LEGITIMIDADE PASSIVA. SISTEMA UNIMED. TEORIA DA APARÊNCIA. SOLIDARIEDADE ENTRE AS COOPERATIVAS. DECISÃO DE ACORDO COM A JURISPRUDÊNCIA DESTA CORTE. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO DESPROVIDO. 1. O Tribunal de Justiça, com arrimo no acervo fático-probatório carreado aos autos, concluiu que a ausência de intimação não acarretou prejuízo à recorrente, uma vez que os demais advogados constituídos pela parte atenderam todas as intimações que lhes foram dirigidas. A pretensão de alterar tal entendimento demandaria o reexame do acervo fático-probatório, inviável em recurso especial, ante a incidência da Súmula 7/STJ. 2. A jurisprudência desta Corte Superior é assente em reconhecer a legitimidade das unidades cooperativas ligadas à UNIMED, por aplicação da teoria da aparência (AgInt nos EDcl no AgInt no AREsp 833.153/MS, Rel. Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 06/11/2018, DJe de 13/11/2018). 3. Estando o acórdão estadual de acordo com a jurisprudência desta Corte, o apelo especial encontra óbice na Súmula 83/STJ. 4. Agravo interno desprovido.
+(STJ - AgInt no AREsp: 1492299 RS 2019/0116201-1, Relator: Ministro RAUL ARAÚJO, Data de Julgamento: 05/12/2019, T4 - QUARTA TURMA, Data de Publicação: DJe 19/12/2019) (g.n)
+Com efeito, a destacada súmula deve ser aplicada quanto à afronta alegada, eis que os fundamentos do acórdão recorrido estão em sintonia com o pacífico entendimento do STJ.
+Além disso, destaca-se que, a aplicabilidade do enunciado da Súmula 83 do STJ não se restringe aos recursos interpostos com fundamento no permissivo constitucional da alínea “c” do artigo 105, III, da CF, eis que é pacífico o entendimento de que se aplica a ambas as alíneas “a” e “c”.
+Nesse sentido:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015. 3. É pacífico o entendimento do Superior Tribunal de Justiça de que a Súmula no 83/STJ se aplica a ambas as alíneas ("a" e "c") do permissivo constitucional. Precedentes. 4. Agravo interno não provido.”
+(STJ - AgInt no AREsp: 1517429 RJ 2019/0159288-9, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 28/09/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 01/10/2020) (g.n)
+A partir dessas premissas, inviável a admissão do recurso.
+Da deficiência na fundamentação (Súmula 284/STF)
+A admissibilidade dos recursos excepcionais enseja que as respectivas razões sejam redigidas de maneira precisa e completa e apontem, além do dispositivo legal violado, a respectiva controvérsia, bem como as circunstâncias de como ocorreu a violação suscitada, conforme estabelece a Súmula 284 do STF. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO. DANOS MORAIS. DANOS MATERIAIS. CUMPRIMENTO DE SENTENÇA. PRESCRIÇÃO. DEFICIÊNCIA NA FUNDAMENTAÇÃO DO RECURSO. SÚMULA No 284/STF. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. Considera-se deficiente de fundamentação o recurso especial que, apesar de apontar os preceitos legais tidos por violados, não demonstra, de forma clara e precisa, de que modo o acórdão recorrido os teria contrariado, circunstância que atrai, por analogia, a Súmula no 284/STF. 3. A demonstração do dissídio jurisprudencial pressupõe a ocorrência de similitude fática entre o acórdão atacado e os paradigmas. 4. Agravo interno não provido.
+(STJ - AgInt no AREsp: 1545403 SP 2019/0209710-2, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 31/08/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 03/09/2020)
+In casu, embora tenha alegado a violação aos artigos 186 e 927 do Código Civil, a recorrente não demonstrou de forma clara e objetiva a suposta contrariedade e de que maneira teria ocorrido, o que faz incidir a Súmula 284/STF e, por consequência, obsta a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
