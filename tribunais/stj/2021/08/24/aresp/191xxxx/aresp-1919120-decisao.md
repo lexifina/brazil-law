@@ -1,0 +1,44 @@
+DECISÃO
+1. Cuida-se de agravo interposto por RL COMÉRCIO VAREJISTA DE GÁS EIRELI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim ementado:
+CIVIL,. BANCÁRIO E PROCESSUAL CIVIL.APELAÇÃO CÍVEL. AÇÃO MONITORIA. COBRANÇA DE CONTRATO DE DESCONTOS DE DIREITOS CREDITÓRIOS FIRMADO ENTRE PESSOA JURÍDICA E BANCO PRIVADO. PRELIMINAR DE NÃO CONHECIMENTO DO RECURSO DO RÉU QUANTO À INCIDÊNCIA NA ESPÉCIE DA CAPITALIZAÇÃO MENSAL DE JUROS. PLEITO JÁ GARANTIDO NO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.PRELIMINAR DE NULIDADE DO PROCESSO POR CERCEAMENTO DE DEFESA. INDEFERIMENTO DA NECESSIDADE DE PERÍCIA. POSSIBILIDADE.VALORES JÁ DISCRIMINADOS NAS PLANILHAS APRESENTADAS PELO AUTOR DA DEMANDA.CÁLCULOS SIMPLES. MÉRITO. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR AOS CONTRATOS BANCÁRIOS. ADMISSIBILIDADE DE REVISÃO DAS CLÁUSULAS CONTRATUAIS. JUROS DENTRO DA MÉDIA PRATICADA NO MERCADO.AUSÊNCIA DE COMISSÃO DE PERMANÊNCIA.CONTRATO LEGAL. HONORÁRIOS FIXADOS DE ACORDO COM O CÓDIGO DE PROCESSO CIVIL.MANUTENÇÃO DA SENTENÇA. CONHECIMENTO E DESPROVIMENTO DO RECURSO.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 130, 131, 330, inciso I, 331, 334,420, 478, 479 e 480, do CPC de 2015; 478 e479, do CC; 6º, incisos III eVIII, 46 e 47, do CDC.
+Defende a necessidade de realização de perícia contábil. Aduz ter havido cerceamento de defesa, em virtude do julgamento antecipado da lide.
+Ressalta ter direito à revisão do contrato, e não a resolução deste.
+Enfatiza ser necessária a inversão do ônus da prova, por se tratar de parte hipossuficiente, além da facilitação de seu direito de defesa.
+Afirma que "o contrato de consumo precisa, por força de lei, ser redigido de forma clara e compreensível, a fim de que a parte vulnerável nessa avença tenha plena noção das obrigações que estão sendo contraídas".
+Salienta que, como o consumidor é a parte mais fraca da relação de consumo, os contratos consumeristas serão interpretados sempre em seu favor.
+É o relatório.DECIDO.
+2. As matérias tratadas nos artigos 478 e479, do CC; 6º, incisos III e VIII, 46 e 47, do CDC não foram objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito das referidas matérias trazidas à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. No mais, ao afastar o alegado cerceamento de defesa, o Tribunal de origem assim consignou:
+Por outro lado. arguiu a apelante a preliminar de nulidade do processo por cerceamento de defesa, ao argumento de que lhe foi negada a produção de prova pericial visando a demonstração, por parte da instituição financeira,dos métodos e taxas aplicadas no momento da celebração do contrato, através da apresentação dos extratos da conta corrente.
+Entretanto, em que pesem os argumentos expendidos pela recorrente, observa-se que os cálculos apresentados pelo banco autor da demanda são suficientes para a demonstração da dívida, sendo na realidade aqueles cálculos simplórios, havendo, por exemplo, aplicação do Imposto Sobre Operações Financeiras (IOF), juros,juros de mora e multa, discriminados por cada titulo ou duplicada,representando o desconto relativo ao contrato firmado entre as partes.
+Assim, rejeito a preliminar enfocada.
+Com efeito, não configura o cerceamento de defesa o julgamento da causa sem a produção da pretendida prova, quando a Corte local entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+Hão de ser levados em consideração o princípio da livre admissibilidade da prova e do livre convencimento do juiz, que permitem ao julgador determinar as provas que entende necessárias à instrução do processo, bem como o indeferimento daquelas que considerar inúteis ou meramente protelatórias.
+A par disso, rever os fundamentos que levaram a concluir pela ausência de cerceamento de defesa demandaria o reexame do conjunto fático-probatório, o que é vedado na instância especial, segundo o enunciado da Súmula 7/STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO (ARTIGO 544 DO CPC/1973) - AÇÃO DE COBRANÇA DE TAXA CONDOMINIAL - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS.
+1. Instâncias ordinárias que apreciando as circunstâncias de fato da causa e os documentos constantes dos autos, concluíram pela desnecessidade de prova pericial e por inocorrência de cerceamento de defesa, em virtude de a controvérsia ser afeta a questão eminentemente de direito. Incidência do óbice da súmula 7/STJ.
+2. A ausência de enfrentamento das teses relacionadas aos princípios da isonomia e boa-fé, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito do prequestionamento, nos termos da súmula 211 do STJ.
+3. Nos termos do art. 1.336, inciso I, do Código Civil, é dever do condômino "contribuir para as despesas do condomínio, na proporção das suas frações ideais, salvo disposição em contrário da convenção".
+4. Consoante a jurisprudência desta Corte, é obrigatória a observância do critério de rateio das despesas condominiais expressamente previsto na respectiva convenção do condomínio, especialmente quando o critério eleito é justamente aquele previsto como regra geral para as hipóteses em que ausente tal estipulação.
+Precedentes.
+5. Estando o acórdão recorrido em harmonia com a jurisprudência do Superior Tribunal de Justiça, incide a Súmula nº 83 desta Corte, aplicável por ambas as alíneas autorizadoras.
+6. Agravo interno desprovido.
+(AgInt no AREsp 816.278/MG, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 10/11/2016, DJe 18/11/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA POR INDEFERIMENTO DE PRODUÇÃO DE PROVA TÉCNICA. INCIDÊNCIA DA SÚMULA 7/STJ. RAZÕES RECURSAIS INSUFICIENTES. AGRAVO DESPROVIDO.
+1. A revisão da conclusão a que chegou o Tribunal de origem sobre a ausência de cerceamento de defesa no indeferimento do pedido de produção de prova pericial esbarra no óbice da Súmula 7 deste Tribunal, porquanto demandaria o reexame do acervo fático probatório.
+2. O agravante não trouxe no presente agravo interno razões suficientes para a reconsideração da decisão monocrática.
+3. Agravo interno desprovido.
+(AgInt no AREsp 951.337/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/10/2016, DJe 14/11/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM AÇÃO INDENIZATÓRIA. ALEGAÇÃO DE VIOLAÇÃO DOS ARTS. 128 E 460 DO CPC. NÃO CONFIGURADA. JULGAMENTO ANTECIPADO DA LIDE. CERCEAMENTO DE DEFESA. SÚMULA Nº 7/STJ.
+1. Não verificada, na hipótese dos autos, a suposta violação dos arts. 128 e 460 do CPC, uma vez que o Tribunal de origem corretamente consignou que houve pedido expresso acerca da liberação das ações na petição inicial.
+2. Não configura cerceamento de defesa o julgamento antecipado da lide, devidamente fundamentado, sem a produção das provas tidas por desnecessárias pelo juízo, uma vez que cabe ao magistrado dirigir a instrução e deferir a produção probatória que considerar necessária à formação do seu convencimento.
+3. Rever o acórdão que afastou o cerceamento de defesa implicaria o reexame do conjunto fático-probatório dos autos, o que é vedado pela Súmula nº 7/STJ.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 183.149/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, DJe 12/8/2015)
+4.Por fim, impõe-se anotar que a incidência da Súmula 7/STJ prejudica o exame do recurso especial pela alínea "c" do permissivo constitucional. Nesse sentido: REsp 1.086.048/RS, Rel. Ministro Arnaldo Esteves Lima, Quinta Turma, julgado em 21/06/2011, DJe de 13/09/2011; EDcl no Ag 984.901/SP, Rel. Ministra Maria Thereza de Assis Moura, Sexta Turma, julgado em 16/03/2010, DJe de 05/04/2010; AgRg no REsp 1.030.586/SP, Rel. Ministro Felix Fischer, Quinta Turma, julgado em 30/05/2008, DJe de 23/06/2008.
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
