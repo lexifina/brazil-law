@@ -1,0 +1,48 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE AO CARÁTER COMPETITIVO DA LICITAÇÃO. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II -Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada.
+III -Com efeito, em que pese entendimento diverso da combativa defesa, assentou-se no acórdão recorrido que "o eg. Tribunal de origem consignou, expressamente, que, "O réu, indubitavelmente, ao entabular acordo com o grupo empresarial da organização criminosa, fraudou o caráter competitivo das Cartas Convites 009 e 010/2004, a fim obter vantagem decorrente da adjudicação do objeto licitado em favor de empresa ligada à organização criminosa "Máfia dos Sanguessugas", incidindo, pois, na conduta delitiva do art. 90 da Lei n. 8666/93" (fl. 2.531), não havendo falar em omissão ou ausência de adequação da conduta ao tipo penal em referência.
+Embargos de declaração rejeitados.
+RELATÓRIO
+Trata-se de embargos de declaração interpostos por AMARILDO MARTINS DA SILVA contra acórdão da Quinta Turma, que negou provimento ao agravo regimental interposto pela defesa, na forma da seguinte ementa:
+"PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE AO CARÁTER COMPETITIVO DA LICITAÇÃO. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 07/STJ. AGRAVO REGIMENTAL NÃO PROVIDO.
+Na hipótese, em que pese os argumentos esposados pela defesa, verifica-se que a reforma do entendimento da eg. Corte Federal, de que o agravante praticou de forma dolosa o crime previsto no art. 90 da Lei n. 8.666/1993, demandaria inevitavelmente o reexame do quadro fático-probatório, sendo, todavia, vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias no âmbito dos recursos extraordinários (Súmula 07/STJ e Súmula 279/STF), não sendo caso de mera revaloração jurídica dos fatos incontroversos postos pelo acórdão recorrido.
+Agravo regimental desprovido."
+Nas razões deste recurso, a defesa alega a ocorrência de omissão no acórdão embargado, ao argumento de que"foram tecidas considerações genéricas sobre as teses apontadas no agravo regimental, além de não realizado o necessário exame de aspectos legais minudentemente suscitados, qual seja,a violação à lei federal, especificamente, ao art. 90 da Lei nº8666/93, acarretando omissão, dai a oposição dos presentes embargos de declaração"(fl. 2.536).
+Defende que "Não é o caso de aplicação da Súmula 7/STJ e Súmula 279/STF. Reitera-se que a análise da alegada ofensa ao art. 90 da Lei nº 8.666/93 exige somente a leitura do acórdão guerreado, que se faz suficiente para demonstrar que a atuação do embargante consistiu sim em mera realização de seu ofício pela edição de emendas parlamentares, não buscando burlar sistema licitatório"(fls. 2.536-2.537).
+Repisa os fundamentos do apelo raro não conhecido, na tentativa de demonstrar a suposta violação ao art. 90 da Lei de Licitações, asseverando que "Não há coerência em aplicar o artigo ao embargante diante da incompatibilidade da previsão do referido texto e a conduta descrita nos autos, sendo a condenação nestes termos manifestamente contra iegem. vez que o suposto envolvimento do agravante na denominada "Máfia das Sanguessugas", apontado pelo tribunal de origem, consistia na edição de emendas parlamentares orçamentárias para financiar esquema ilegal"(fl. 2.538).
+Aduz que"pela leitura dos autos é compreensível que o papelo do ora agravante era, tão somente, a apresentação de propostas de emendas parlamentares, ato inerente ao exercício legal do cargo de deputado federal"(fl. 2.539).
+Por fim, pugna pelo acolhimento dos embargos, com efeitos infringentes, a fim de que seja o ora embargante absolvido.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE AO CARÁTER COMPETITIVO DA LICITAÇÃO. PLEITO DE ABSOLVIÇÃO. NECESSIDADE DE ANÁLISE DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 07/STJ. AUSÊNCIA DE OMISSÃO. EMBARGOS REJEITADOS.
+I - Os embargos declaratórios não constituem recurso de revisão, sendo inadmissíveis se a decisão embargada não padecer dos vícios que autorizariam a sua oposição (obscuridade, contradição e omissão).
+II -Na espécie, à conta de omissão no v. acórdão, pretende o embargante a rediscussão, sob nova roupagem, da matéria já apreciada.
+III -Com efeito, em que pese entendimento diverso da combativa defesa, assentou-se no acórdão recorrido que "o eg. Tribunal de origem consignou, expressamente, que, "O réu, indubitavelmente, ao entabular acordo com o grupo empresarial da organização criminosa, fraudou o caráter competitivo das Cartas Convites 009 e 010/2004, a fim obter vantagem decorrente da adjudicação do objeto licitado em favor de empresa ligada à organização criminosa "Máfia dos Sanguessugas", incidindo, pois, na conduta delitiva do art. 90 da Lei n. 8666/93" (fl. 2.531), não havendo falar em omissão ou ausência de adequação da conduta ao tipo penal em referência.
+Embargos de declaração rejeitados.
+VOTO
+Os presentes embargos não reúnem condições de prosperar.
+Inicialmente, cumpre salientar que são cabíveis embargos declaratórios quando houver na decisão embargada qualquer contradição, omissão ou obscuridade a ser sanada. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência, sendo possível, excepcionalmente, a alteração ou modificação do decisum embargado.
+Nas razões do recurso integrativo, sustenta-se a ocorrência de omissão no r. acórdão embargado, ao argumento de não ter sido analisada a pretensão do embargante posta no recurso especial, quanto à suposta violação ao art. 90 da Lei n. 8666/1993.
+Contudo, verifica-se que o agravo regimental deixou de ser provido porque a análise da pretensão defensiva, de fato, exigiria o revolvimento fático-probatório dos autos, providência vedada pela Súmula 7/STJ, que implicou a prolação de decisão monocrática da minha lavra conhecendo do agravo para não conhecer do recurso especial.
+Com efeito, em que pese entendimento diverso da combativa defesa, assentou-se no acórdão recorrido que"o eg. Tribunal de origem consignou, expressamente, que, "O réu, indubitavelmente, ao entabular acordo com o grupo empresarial da organização criminosa, fraudou o caráter competitivo das Cartas Convites 009 e 010/2004, a fim obter vantagem decorrente da adjudicação do objeto licitado em favor de empresa ligada à organização criminosa "Máfia dos Sanguessugas", incidindo, pois, na conduta delitiva do art. 90 da Lei n. 8666/93" (fl. 2.531), não havendo falar em omissão ou ausência de adequação da conduta ao tipo penal em referência.
+Assim, verifica-se que o julgado recorrido não padece de qualquer vício, porquanto decidiu fundamentadamente a quaestio trazida à sua análise, não podendo ser considerado nulo tão somente porque contrário aos interesses do ora recorrente. O que pretende o embargante, na verdade, é o reexame de matéria já julgada, situação que não se coaduna com a estreita via dos declaratórios.
+Verifico, portanto, a nítida intenção do embargante de atribuir efeito infringente aos embargos declaratórios, diante da irresignação pelo resultado do julgamento que lhe desfavoreceu, o que não é possível nesta via. Nesse sentido, colaciono precedentes dessa Corte Superior de Justiça:
+"EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. OMISSÃO E CONTRADIÇÃO. EFEITOS INFRINGENTES. HIPÓTESE EXCEPCIONAL. INEXISTÊNCIA DOS VÍCIOS. EMBARGOS REJEITADOS.
+1. Os embargos de declaração são cabíveis somente nas hipóteses de ambiguidade, obscuridade, contradição ou omissão ocorridas no acórdão embargado, sendo inadmissíveis quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivem novo julgamento do caso.
+ ..
+4. A mera irresignação do embargante, em busca de reformar o vaticínio das instâncias ordinárias, torna inviável o inconformismo da parte, haja vista a natureza dos embargos de declaração, os quais se prestam a sanar eventual omissão, contradição, ambiguidade ou obscuridade do julgado, e não a reapreciar a causa.
+ ..
+6. Embargos rejeitados" (EDcl no REsp n. 1.122.806/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe de 13/10/2014, grifei).
+"EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. OMISSÃO. NÃO OCORRÊNCIA. MANIFESTAÇÃO FUNDAMENTADA DO ACÓRDÃO EMBARGADO SOBRE O PONTO SUSCITADO NOS ACLARATÓRIOS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. EMBARGOS DECLARATÓRIOS REJEITADOS.
+ ..
+2. Os embargos de declaração não se prestam para sanar o inconformismo da parte com o resultado desfavorável experimentado no julgamento ou para reapreciar matéria já decidida. Precedentes.
+ ..
+4. Embargos declaratórios rejeitados" (EDcl no REsp n. 1.374.213/MG, Quinta Turma, Rel. Min. Moura Ribeiro, DJe de 14/8/2014, grifei).
+Diante do exposto, rejeito os embargos de declaração.
+É o voto.
