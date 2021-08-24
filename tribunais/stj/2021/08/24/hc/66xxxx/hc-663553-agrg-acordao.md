@@ -1,0 +1,32 @@
+EMENTA
+AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. DESPROPORCIONALIDADE. IMPOSSIBILIDADE DE AFERIÇÃO ANTES DA SENTENÇA. AUSÊNCIA DE CONTEMPORANEIDADE. TEMA NÃO DEBATIDO NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. FUNDAMENTAÇÃO CONCRETA.
+1. A jurisprudência desta Corte superior é firme no sentido de que a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise.
+2. A tese referente à ausência de contemporaneidade da prisão não foi examinada pelo Tribunal de piso, o que inviabiliza o conhecimento da matéria por esta Corte superior, sob pena de indevida supressão de instância.
+3. As circunstâncias fáticas em que se deu o delito, considerando-se que o recorrente foi o condutor do veículo que assegurou a fuga dos demais acusados, justificam a manutenção da medida extrema, nos termos da jurisprudência do Superior Tribunal de Justiça.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de agravo regimental interposto contra decisão que denegou o writ (fls. 91-93).
+Alega a defesa, em síntese, reiterando os argumentos expendidos na inicial, ausência de fundamentação idônea do decreto, o qual teria se baseado na gravidade em abstrato dos delitos, bem como ausência de contemporaneidade e desproporcionalidade da prisão, frisando a primariedade do recorrente.
+Requer a reconsideração da decisão agravada ou a submissão do feito à Turma, de modo que seja o recurso conhecido e provido.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Conforme relatado, a defesa alega ausência de fundamentação idônea do decreto, o qual teria se baseado na gravidade em abstrato dos delitos, bem como a ausência de contemporaneidade e desproporcionalidade da prisão, frisando a primariedade do recorrente.
+A decisão combatida encontra-se fundamentada nos seguintes termos (fls. 92-93):
+ .. .
+De início, a tese referente à ausência de contemporaneidade da prisão não foi examinada pelo Tribunal de piso, o que inviabiliza o conhecimento da matéria por esta Corte superior, sob pena de indevida supressão de instância.
+Ainda, a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+No mais, não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+A decisão que manteve a prisão preventiva foi assim fundamentada (fl. 14):
+ .. .
+Conforme bem demonstrada na decisão de decretação da prisão preventiva Gustavo e Adilson ostentam maus antecedentes, notadamente em crimes patrimoniais. Ainda em relação ao denunciado Adilson Silva Júnior, o artigo 310, § 2º veda a concessão de liberdade provisória, eis que reincidente, conforme se vê da certidão de fls. 84/85.
+Outrossim, quanto ao denunciado Josimar, verifica-se pelos elementos apontados nos autos que supostamente teria sido o condutor do veículo que assegurava a fuga dos demais acusados, de modo que agiu ativamente para o sucesso da empreitada criminosa, inclusive colocando em risco a vida de policiais e eventuais pessoas que pudessem ser atingidas durante a fuga.
+ .. .
+Conforme já antecipado no exame do pleito de liminar, o decreto possui fundamentação que deve ser considerada idônea, evidenciada nas circunstâncias fáticas em que se deu o delito, pois, conforme descrito no decisum, quanto ao denunciado Josimar, verifica-se pelos elementos apontados nos autos que supostamente teria sido o condutor do veículo que assegurava a fuga dos demais acusados, de modo que agiu ativamente para o sucesso da empreitada criminosa, inclusive colocando em risco a vida de policiais e eventuais pessoas que pudessem ser atingidas durante a fuga.
+Esta Corte Superior entende majoritariamente que a tentativa de fuga no momento da abordagem policial, após a prática criminosa, inclusive com resistência física, perseguição em alta velocidade, e troca de tiros com agentes policiais, são circunstâncias fáticas que justificam a prisão preventiva. Conforme os seguintes precedentes: RHC 71.563/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 2/8/2016, DJe 9/8/2016; HC 398.318/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 17/8/2017, DJe 29/8/2017; HC 403.269/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/11/2017, DJe 1/12/2017; RHC 74.131/MG, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/12/2016, DJe 01/02/2017.
+Ante o exposto, denego o habeas corpus.
+A decisão deve ser mantida por seus próprios fundamentos, uma vez que em sintonia com a jurisprudência desta Corte superior, no sentido de que a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise.
+Ademais, a tese referente à ausência de contemporaneidade da prisão não foi examinada pelo Tribunal de origem, o que inviabiliza o conhecimento da matéria por esta Corte superior, sob pena de indevida supressão de instância.
+Por fim, a prisão preventiva foi fundamentada nas circunstâncias fáticas em que se deu o delito, pois consta dos autos que o recorrente teria sido o condutor do veículo que assegurou a fuga dos demais acusados, o que justifica a manutenção da medida extrema, nos termos da jurisprudência do Superior Tribunal de Justiça, pelo que nego provimento ao agravo regimental.
+É o voto.
