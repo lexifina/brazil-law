@@ -1,0 +1,36 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ALCEU SEBASTIÃO FERREIRA MENEZES e OUTROS contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+Apelação cível. Ação de responsabilidade obrigacional securitária. Ilegitimidade passiva reconhecida na sentença. Informações prestada pela COHAPAR no sentido de que a seguradora demandada nunca foi responsável pela cobertura securitária dos imóveis por ela financiados, em nenhum ramo. Decisão singular mantida. Honorários recursais.Artigo 85, § 11 do Código de Processo Civil.
+Recurso desprovido.
+1. De acordo com as informações prestadas pela Cohapar, a seguradora demandada na presente lide nunca foi responsável pela cobertura securitária dos imóveis por ela financiados, em nenhum Ramo, no âmbito do Sistema Financeiro de Habitação - SFH ou fora dele.
+2. Com o desprovimento do recurso de apelação, é de ser majorada a verba honorária, de acordo com o estabelecido pelo artigo 85, § 11 do Código de Processo Civil.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 17, 371, 412 e parágrafo único, do CPC de 2015; 47 e 54, § 4º, do CDC.
+Defendem que a seguradora agravada seria parte legítima para figurar no polo passivo da ação.
+Ressaltam que "o juiz deve analisar todas as provas dos autos, e analisar o documento por inteiro".
+Aduzem que "o seguro habitacional consiste em típico contrato de adesão, sendo que suas cláusulas contratuais devem ser interpretadas de maneira mais favorável ao consumidor".
+É o relatório.DECIDO.
+2. As matérias referentes aos artigos 371, 412 e parágrafo único, do CPC de 2015; 47 e 54, § 4º, do CDC não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. No mais, acerca da legitimidade passiva, o Tribunal de origem, com amparo nos elementos de prova constantes dos autos e na interpretação das cláusulas contratuais, afastou a responsabilidade da seguradora recorrida.
+A propósito, vale destacar o seguinte trecho do acórdão recorrido:
+Aduzem os autores que os contratos originários dos mutuários se iniciaram entre 1.988 e 1.996, portanto,anteriores a agosto de 2.000, o que comprova a vinculação ao Ramo 66, pois até esta data inexistiam outras apólices securitárias.
+Contudo, há que se considerar as informações constantes dos autos pela Cohapar, e que levou à extinção do feito ante o reconhecimento da ilegitimidade da seguradora demandada para responder à ação.
+Veja-se que consta expressamente do documento juntado no mov. 187.1 pela Cohapar, que as apólices fora do SFH (Ramo 68) ou Apólice SH-AM (Ramo 61/65) a Seguradora contratada é a Companhia Excelsior de Seguros. Já nas Apólices do SFH (Ramo 66), não existe mais a figura de uma seguradora líder, sendo a Caixa Econômica Federal a responsável pelo seguro dos imóveis ativos.
+Veja-se, igualmente, a declaração da Cohapar no corpo da petição de mov. 226.1, onde consta expressamente que a Seguradora Sul América Cia. Nacional de seguros "nunca foi responsável pela cobertura securitária dos imóveis financiados por esta COHAPAR, em nenhum Ramo, no âmbito do Sistema Financeiro de Habitação . - SFH ou fora dele".
+Desta forma, não há que se falar na reforma da decisão singular, devendo ser negado provimento ao presente recurso de apelação.
+Nesse contexto, a análise da pretensão recursal de que o contrato foi firmado no âmbito do SFH, pressuposto para a legitimidade passiva da ré, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, assim como interpretação das cláusulas contratuais, providências vedadas em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. AUSÊNCIA DO PREQUESTIONAMENTO. SÚMULA 211/STJ.ILEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não houve debate sobre a questão inserta no art. 6º, VIII, do Código de Defesa do Consumidor, situação esta que inviabiliza o exame da alegada contrariedade ao dispositivo citado por este Tribunal, em sede de especial, devido a falta de prequestionamento. Incidência da Súmula 211 do STJ.
+2. O Superior Tribunal de Justiça possui entendimento pacífico no sentido de que a seguradora tem legitimidade para figurar no polo passivo de ação que cinge contrato de seguro habitacional, regido pelas regras do Sistema Financeiro de Habitação. Precedentes.
+3. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas, e cláusulas contratuais, o que é vedado em razão do óbice da Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1202234/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/02/2018, DJe 28/02/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE SECURITÁRIA. ILEGITIMIDADE PASSIVA. MATÉRIA QUE DEMANDA REEXAME DO CONJUNTO FÁTICO - PROBATÓRIO DOS AUTOS E DO CONTRATO. SÚMULAS 5 E 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. No presente caso, o Tribunal de origem, amparado no acervo fático - probatório dos autos, concluiu que o contrato discutido na demanda se refere a apólices privadas; que a seguradora não foi responsável pelos seguros dos imóveis , uma vez que foram financiados pela COHAPAR, fora do Sistema Financeiro de Habitação; e que aquela não possui legitimidade para figurar no pólo passivo da demanda. Assim, alterar o entendimento do acórdão recorrido demandaria, necessariamente, reexame fatos, provas e cláusulas contratuais, o que é vedado em razão dos óbices das Súmulas 5 e 7 do STJ.
+2. Agravo interno não provido.
+(AgInt no AREsp 1306435/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/09/2018, DJe 11/09/2018)
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
