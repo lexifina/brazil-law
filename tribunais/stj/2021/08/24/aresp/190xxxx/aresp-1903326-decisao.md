@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por JULIO CEZAR SANTOS DE SANTANNA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+APELAÇÃO CÍVEL. AMPLA. INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. OSCILAÇÃO DE ENERGIA QUE RESULTOU NA QUEIMA DE DOIS APARELHOS ELETRÔNICOS (TELEFONE SEM FIO E MODEM). DANOS MATERIAIS COMPROVADOS. INOCORRÊNCIA DE DANOS MORAIS. AUSÊNCIA DE SITUAÇÃO VEXATÓRIA OU DE CONSTRANGIMENTO. RECURSO A QUE SE DÁ PARCIAL PROVIMENTO.
+Alega violação dos arts. 6º, VI e X, 14 e 22, parágrafo único, do CDC, no que concerne à condenação da recorrida ao pagamento de indenização por danos morais decorrentes da má prestação de serviço de fornecimento de energia elétrica, que resultou na queima de aparelhos eletrônicos da residência do recorrente, trazendo os seguintes argumentos:
+O v. Acórdão vergastado, integrado pelo v. Acórdão que rejeitou os Embargos de Declaração opostos reformou em parte a R. Sentença e, mesmo tendo reconhecido a relação de consumo entre as Partes, entendeu por não determinar a reparação pelos danos morais suportados pela Parte ora Recorrente.
+Ao entender dessa forma, o v. Acórdão vergastado, concessa venia, deixou de aplicar e/ violou os arts. 6º, incisos VI e X; Art. 14 e 22 e seu Parágrafo Único todos do C.D.C.
+ ..
+Com efeito, como bem explanado na Peça Exordial (indexador 0000003), o Recorrente ficou exposto não só aos danos materiais consolidados, mas também a toda sorte de riscos decorrentes da descarga elétrica no circuito da fonte, defeito do serviço imputado pelo próprio Decisum ora atacado ao Recorrido.
+ ..
+Deveria ter sido considerado no caso, assim, o fato de que a violação aos deveres anexos à boa-fé objetiva, como o dever de cooperação, tal qual ocorrido, enseja a compensação por dano moral - a chamada violação positiva (positive Vertragsverletzung).
+Com efeito, tal modalidade de violação afeta os direitos da personalidade do consumidor, devendo haver a correspondente compensação, o que, se considerado, afasta a justificativa de que não teria havido  a existência de qualquer tipo de situação vexatória ou de intranquilidade emocional excessiva , que acaba por não ter qualquer influência na procedência do pleito indenizatório.
+ ..
+De fato, o dano moral é devido não somente pela ofensa, mas também pela sua função pedagógica e disciplinar, de forma a desestimular a Recorrida quanto a tal conduta (fls. 202/204).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Com efeito, em que pesem os transtornos ao consumidor, em razão da queima de dois aparelhos eletrônicos (não essenciais), tal fato, por si só, não configura dano moral in re ipsa. O demandante, por outro lado, não comprova em momento algum a existência de qualquer tipo de situação vexatória ou de intranquilidade emocional excessiva.
+Grife-se que no caso em comento não houve corte ilegal do fornecimento de energia elétrica ou a inscrição do nome do demandante em cadastros restritivos de crédito, situações que teriam efetivamente o condão de causar abalo moral passível de indenização.
+Por outro lado, não há prova cabal nos autos que autorizem a aplicação, de ofício, da teoria do desvio produtivo do consumidor, sendo certo que as situações narradas no presente feito, a meu sentir, não causaram grave agressão à dignidade do autor (fl. 161).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
