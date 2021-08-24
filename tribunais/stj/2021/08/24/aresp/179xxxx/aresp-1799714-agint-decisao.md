@@ -1,0 +1,54 @@
+DECISÃO
+LUCIA SILVA DOS SANTOS (LUCIA) ingressou com ação de obrigação de fazer cumulada com indenização por danos morais contra AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A., (AMIL) alegando a ilegalidade da rescisão unilateral do contrato de plano de saúde coletivo empresarial firmado entre Amazonas Comércio e Indústria Médica Internacional e AMIL, do qual é beneficiária.
+Em primeira instância, os pedidos foram julgados procedentes para, ratificando a liminar concedida, a) declarar a nulidade da rescisão unilateral do contrato firmado entre Amazonas e AMIL, assegurando ooferecimento a LUCIA, em 15 dias, e sem solução de continuidade, de apólice individual, nos exatos termos da avença que vigia, assumindo esta, de forma proporcional, o valor da contraprestação, antes suportado pela Amazonas, com os reajustes nos mesmos percentuais estabelecidos pela ANS; e condenar AMIL ao pagamento b) de indenização por danos morais no valor de R$ 3.000,00, com os devidos acréscimos; e c) das custas e despesas processuais, além dos honorários advocatícios fixados em 15% do valor da causa (e-STJ, fls. 266/278).
+A apelação interposta pela AMIL não foi provida pelo Tribunal de Justiça da Bahia, consoante os termos do acórdão assim ementado:
+RECURSO DE APELAÇÃO. AÇÃO ORDINÁRIA. LEGITIMIDADE ATIVA DO BENEFICIÁRIO DO PLANO DE SAÚDE COLETIVO. LESÃO EXTRAPATRIMONIAL CONFIGURADA. COMPENSAÇÃO LIMITADA AO PEDIDO FORMULADO NA PETIÇÃO INICIAL.
+1. A alegação de ilegitimidade ativa não merece prosperar, haja vista ser possível ao beneficiário do plano de saúde coletivo buscar a tutela dos seus interesses em face da prestadora dos serviços ou mesmo da pessoa jurídica contratante.
+2. Na espécie, ficou evidenciada a responsabilidade da apelante, por ter suspendido a prestação dos serviços de saúde exatamente no período em que a recorrida deles mais necessitava, circunstância que ultrapassa a barreira do mero aborrecimento.
+3. Diante das circunstâncias do caso concreto, tem-se que a compensação pecuniária, fixada pelo juízo de primeiro grau no importe de R$ 3.000,00, se coaduna com os princípios da proporcionalidade e da razoabilidade.
+4. Recurso conhecido e não provido (e-STJ, fl. 387).
+Os embargos de declaração opostos pela AMIL foram rejeitados (e-STJ, fls. 474/480).
+Inconformada, AMIL manejou recurso especial com base no art. 105, III, a, da CF, alegando a violação dos arts. (1) 1.022, II, do NCPC, por omissão do acórdão recorrido acerca da aplicação da RN nº 19 do Conselho Suplementar de Saúde - CNS em substituição à RN nº 254/11 da ANS, bem como sobre o fato de que, ao migrar para o plano individual, nas mesmas condições praticadas no contrato coletivo, o valor das mensalidades não poderá ser mantido de acordo com o plano antigo;e (2) 478 do CC/02, uma vez que não é admissível a manutenção do valor das mensalidades aos beneficiários que migram do plano coletivo empresarial para o plano individual, tendo em vista as peculiaridades de cada regime e tipo contratual, gerando preços diferenciados.
+Houve o oferecimento de contrarrazões (e-STJ, fls. 520/524).
+O apelo nobre não foi admitido em virtude da a) ausência de negativa da prestação jurisdicional; e b) incidência da Súmula nº 7 do STJ (e-STJ, fls. 614/617).
+Seguiu-se o agravo em recurso especial interposto pela AMIL que, em decisão do Ministro Presidente desta Corte, não foi conhecido, com amparo no art. 21-E, V, c/c o art. 253, parágrafo único, I, do RISTJ, em virtude da ausência de impugnação da Súmula nº 7 do STJ (e-STJ, fls. 715/717).
+Nas razões do presente agravo interno, AMIL reiterou a argumentação deduzida no apelo extremo, afirmando ter se insurgido contra todos os fundamentos do juízo de admissibilidade do especial.
+Sem impugnação (e-STJ, fl. 735).
+É o relatório.
+DECIDO.
+Considerando as razões apresentadas no presente agravo interno, verifica- se que o agravo em recurso especial interposto por AMILimpugnou os fundamentos da decisão que inadmitiu o apelo nobre no tocante ao óbice da Súmulanº 7 do STJ. Assim, RECONSIDERO a decisão de, e-STJ, fls. 715/717e passo ao exame do recurso especial, o qual deve ser provido.
+Inicialmente, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Narram os autos queLUCIA ingressou com ação de obrigação de fazer cumulada com indenização por danos morais contra AMIL alegando a ilegalidade da rescisão unilateral do contrato de plano de saúde coletivo empresarial firmado entre Amazonas Comércio e Indústria Médica Internacional e a demandada, do qual é beneficiária.
+O TJBAnegou provimento à apelação da AMIL, confirmando os termos da sentença que julgou integralmente procedente o pedido autoral.
+Da omissão
+Nas razões do recurso especial, AMIL alegou violação do art. 1.022 do NCPC, por omissão do acórdão recorrido acercada aplicação da RN nº 19 do Conselho Suplementar de Saúde - CNS em substituição à RN nº 254/11 da ANS, bem como sobre o fato de que, ao migrar para o plano individual, nas mesmas condições praticadas no contrato coletivo, o valor das mensalidades não poderáser mantido de acordo com o plano antigo.
+Em relação a aplicação da RNnº 19 do CNS em substituição à RNnº 254/11 da ANS, trata-se de questão quem nem sequer foi suscitada nas razões dos embargos de declaração opostos na origem, razão pela qual não há se falar em negativa de prestação de jurisdicional a esse respeito, por se tratar de verdadeira inovação recursal.
+Todavia,no que se refere ao valor das mensalidades em decorrência da migração do plano de saúde coletivo para o individual, assiste razão à recorrente ao sustentar que o TJBA quedou-se inerte quanto ao ponto.
+Referida questão, como se observa, é essencial ao completo julgamento da causa.
+O Tribunal a quorejeitou os embargos declaratóriossem enfrentar essa questão. Aduziu, tão somente, que "o acórdão foi expresso ao consignar ser aplicável analogicamente o art. 35-C da Lei nº 9.656/98, haja vista ser incontroversa a gravidade da saúde da embargada, situação que impede a extinção da avença" (e-STJ, fl. 505).
+Ocorre que o referido dispositivo da Lei dos Planos e Seguros Privadosde Assistência à Saúde apenas disciplina os casos em que a cobertura do atendimento é obrigatória, de que são exemplos as situações de urgência e emergência, sem nada mencionar, contudo, a respeito do valor das mensalidades para a hipótese, como a dos autos, em que é determinada a manutenção do plano de saúde, mediante a migração do plano coletivo para o individual.
+Como é cediço, no cumprimento de sua função institucional, o STJ só está autorizado a examinar a matéria que tenha sido objeto de deliberação nas instâncias ordinárias, em virtude da necessidade de observância do requisito do prequestionamento.
+Assim, tendo sido o recurso especial interposto por ofensa ao art. 1.022, II, do NCPC e, em face da relevância da questão suscitada, se revela necessário o debateacerca do ponto acima destacado, de modo que a prestação jurisdicional seja entregue de forma completa à recorrente.
+Nesse sentido, confiram-se os seguintes precedentes desta Corte Superior:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL E NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. PLANO DE SAÚDE. IMPUGNAÇÃO DA DECISÃO AGRAVADA. FUNDAMENTO NÃO IMPUGNADO. SÚMULA 182.INCIDÊNCIA. RESCISÃO CONTRATUAL. MUDANÇA DE FAIXA ETÁRIA. ART. ART. 1.022 DO CPC/2015. OMISSÃO. OFENSA CONFIGURADA.
+1. Não merece conhecimento o agravo que não impugna, especificamente, todos os fundamentos da decisão denegatória de seguimento ao recurso especial.
+2. Há ofensa ao art. 1022 do CPC quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento da causa.
+3. Agravo interno no agravo em recurso especial não provido para manter o não conhecimento do agravo em recurso especial de LUIZ CARLOS STOCKER e o conhecimento e provimento do recurso especial de COMPANHIA DE SEGUROS ALIANÇA DO BRASIL.
+(AgInt no REsp nº 1.711.626/RS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado aos 2/8/2018, DJe de 10/8/2018, sem destaque no original)
+AGRAVO INTERNO. RECURSO ESPECIAL. CONTRATO DE HONORÁRIOS ADVOCATÍCIOS. RESCISÃO DO CONTRATO.ARBITRAMENTO JUDICIAL. HONORÁRIOS DE SUCUMBÊNCIA.DANOS MORAIS. EXORBITÂNCIA. AUSÊNCIA DE EXAME. ARTIGO 1.022 DO CPC/2015.
+1. Presente um dos vícios elencados no artigo 1.022 do Código de Processo Civil, é devida a devolução dos autos à origem para rejulgamento dos embargos de declaração e completa prestação jurisdicional.
+2. Agravo interno provido para dar parcial provimento ao recurso especial.
+(AgInt no REsp nº 1.708.003/BA, Rel. Ministro LÁZARO GUIMARÃES, Rel. p. acórdão Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado aos 7/8/2018, DJe de 21/8/2018, sem destaque no original)
+Assim, recusando-se o TJBAa se manifestar sobre a referida questão federal terminou por negar prestação jurisdicional à recorrente.
+A propósito:
+RECURSO ESPECIAL. ACÓRDÃO RECORRIDO QUE NÃO SE MANIFESTOU SOBRE PONTO RELEVANTE PARA O DESATE DA CONTROVÉRSIA. OFENSA AO ART. 535 CONFIGURADA.TEMPESTIVIDADE DO RECURSO ESPECIAL. REGULARIDADE.
+1. Muito embora o acórdão recorrido tenha afastado uma a uma as preliminares arguidas pela recorrente, silenciou quanto a ponto fundamental ao desate da controvérsia no mérito, qual seja, a ocorrência de mora do devedor, apesar de instado a fazê-lo em sede de embargos de declaração, o que caracteriza violação ao art. 535, II, do CPC.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.187.807/AM, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, julgado em 21/6/2012, DJe 28/6/2012)
+É medida de rigor, portanto, o retorno dos autos à Corte baianapara que seja sanada a omissão destacada.
+A análise da questão de mérito trazida no recurso especial fica prejudicada.
+Nessas condições, em juízo de reconsideração, passando a nova análise da causa,CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial, por ofensa ao art. 1.022, II, do NCPC, determinando o retorno dos autos ao TJBApara que analise a questão trazida nos embargos de declaração acima especificada, como entender de direito.
+Publique-se. Intimem-se.
+EMENTA
+CIVIL.PROCESSUALCIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSOMANEJADO SOB A ÉGIDE DO NCPC. PLANO DE SAÚDE. RESCISÃO UNILATERAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022, II, DO NCPC. OCORRÊNCIA. OMISSÃO A RESPEITO DE MATÉRIA RELEVANTE LEVANTADA NOS ACLARATÓRIOS. RECUSA DE ENFRENTAMENTO DO TEMA.NEGATIVA DA COMPLETA PRESTAÇÃO JURISDICIONAL. RECONSIDERAÇÃO. AGRAVO CONHECIDO. RECURSO ESPECIAL PROVIDO.
