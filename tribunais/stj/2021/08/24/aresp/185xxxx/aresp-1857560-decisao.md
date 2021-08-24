@@ -1,0 +1,14 @@
+DECISÃO
+ALYSON MIGUEL DA SILVA DE ARAUJO agrava de decisão que inadmitiu o recurso especial, interposto com fundamento no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de Mato Grosso do Sul na Apelação n. 0039029-54.2017.8.12.0001.
+O acusado foi condenado pela prática do crime previsto no art. 12, caput, da Lei n. 10.826/2003, à pena de 1 ano de detenção e pagamento de 10 dias-multa, em regime inicial aberto, substituída por uma restritiva de direitos. A defesa pretende que o réu seja absolvido com fulcro no reconhecimento da atipicidade material da conduta.
+A insurgência foi inadmitida no juízo prévio de admissibilidade pela incidência da Súmula n. 284 do STF ("a parte recorrente não indicou, expressa e satisfatoriamente, qual dispositivo infraconstitucional teria sido violado ou recebeu interpretação divergente"- fl. 363).
+Neste agravo, a defesa afirma que "não há que se falar em confronto com a Súmula 248 do STF, pois a afronta a Lei Federal, é clara e inconteste, sendo desnecessário o reexame de provas, bastando apenas a simples leitura do acórdão impugnado" (fl. 375).
+O Ministério Público Federal manifestou-se pelo não conhecimento do agravo (fls. 421-423).
+Decido.
+O agravo não comporta conhecimento, visto que a parte agravante deixou de rebater o fundamento relativo à aplicação da Súmula n. 284 do STF (não apontou qual dispositivo infraconstitucional teria sido violado ou recebido interpretação divergente). Com efeito, limitou-se a enaltecer a compreensão da controvérsia e a repisar os argumentos expostos no recurso especial.
+Incide, assim, a Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Registro, por oportuno, que, embora a legislação processual civil em vigor não seja a mesma que baseou a edição da Súmula n. 182 do STJ, há dispositivo semelhante no Código de Processo Civil atual (art. 1.042), de forma que o enunciado permanece aplicável.
+Nesse sentido, cito julgados desta Corte: AgRg no AREsp n. 162.038/CE (Rel. Ministro Rogerio Schietti, 6ª T., DJe 17/11/2016), AgInt no AREsp n. 943.953/RS (Rel. Ministro Ricardo Villas Bôas Cueva, 3ª T., DJe 28/10/2016) e AgRg no REsp n. 1.624.034/SC (Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 11/11/2016).
+Por fim, destaco que é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada, conforme acórdão firmado pela Corte Especial (EAREsp n. 746.775/PR, Rel. Ministro João Otávio de Noronha, Rel. p/ acórdão Luis Felipe Salomão, DJe 30/11/2018).
+À vista do exposto, com fundamento no art. 932, III, do CPC, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se e intimem-se.
