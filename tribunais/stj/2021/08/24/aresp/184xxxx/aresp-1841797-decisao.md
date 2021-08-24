@@ -1,0 +1,37 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ALEXIA DA SILVA CAMPOS NUNES DE SOUZA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+AGRAVO DE INSTRUMENTO. Decisão do Juízo da 1ª Vara Cível Comarca da Capital que determinou a penhora do bem imóvel e por ocasião da arrematação/adjudicação do imóvel penhorado e determinou o resguardo do percentual de 50% do produto da arrematação em favor da esposa do executado, que implicaria em reflexo no processo nº 0272523-77.2007.8.19.0001, em curso na 6ª Vara de Órfãos e Sucessões da Comarca da Capital.
+Muito embora alegue a recorrente que na qualidade de herdeira poderia se insurgir contra a decisão, por entender que a venda do bem implicaria em burla à salvarguarda do imóvel bem de família, todavia, a decisão agravada indeferiu os pedidos e determinou a reserva de 50% do produto da arrematação em favor do espólio da esposa do executado, decisão essa que não merece qualquer reparo, tendo em conta que a magistrada a quo de forma equânime e exata, preservou não só o direito dos credores, como também reservou 50% do produto da arrematação em favor do espólio da esposa do executado.
+Não há que se falar em burla ao bem de família, a uma pelo fato da anterioridade do crédito dos litigantes da 1ª Vara Cível da Comarca da Capital, a duas porque seus direitos de herdeira estariam resguardados a partir da partilha da reserva de valor determinada pelo juízo monocrático. Razão por que o recurso não merece provimento.
+No que tange ao pedido em condenação de má-fé da recorrente, tal requerimento não merece acolhida, haja vista que sua iniciativa de interpor o presente recurso de agravo, visando o resguardo de direito que entende possuir, não denota o dolo e o animus prejudicandi,necessários para tal punição.
+Desprovimento.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, ofensa ao disposto noart. 1º da Leinº 8.009/90 e à Súmula 486/STJ, alegando em síntese a impenhorabilidade do único bem da recorrente, cujo leilão foi ordenado pela vara de origem.
+Contrarrazões ao recurso especial às fls. 112/118.
+É o relatório.
+DECIDO.
+2. A irresignação não prospera.
+3.Quanto à insurgência acerca da impenhorabilidade da casacujo leilão foi ordenado pela vara de origem, o Tribunal de origem assim se manifestou:
+Verifica-se que, conforme informações prestadas pelo Juízo de Primeira Instância, os embargos de terceiro em fase de execuçãoonde a herdeira (agravante) pretende a suspensão do leilão e declaração da impenhorabilidade do imóvel objeto da execução, alegando que seria burla ao concurso de credores do espólio réu. Todavia, a decisão agravada indeferiu os pedidos e determinou a reserva de 50% do produto da arrematação em favor do espólio da esposa do executado, decisão essa que não merece qualquer reparo, tendo em conta que a magistrada a quo de forma equânime e exata, preservou não só o direito dos credores, como também reservou 50% do produto da arrematação em favor do espólio da esposa do executado. De outro Norte, muito embora a recorrente pondere que na qualidade de herdeira e que dependeria do imóvel para sua mantença financeira, não se poderia afastar a impenhorabilidade do bem de família. Contudo, tal assertiva não merece guarida, a uma pelo fato da anterioridade do crédito dos litigantes da 1ª Vara Cível da Comarca da Capital, a duas porque seus direitos de herdeira estariam resguardados a partir da partilha da reserva de valor determinada pelo juízo monocrático. (fls. 66/67)
+Nesse contexto, constata-se que o egrégio Tribunal de origem, após o exame acurado dos autos, do acervo fático-probatório,concluiu que não houve violação aos direitos da herdeira, pois "a uma pelo fato da anterioridade do crédito dos litigantes da 1ª Vara Cível da Comarca da Capital, a duas porque seus direitos de herdeira estariam resguardados a partir da partilha da reserva de valor determinada pelo juízo monocrático."
+Dessa forma, cuida-se, evidentemente, de matéria que envolve o reexame dos fatos e provas, o que é inadmissível em sede de recurso especial, por vedação da Súmula 7 do Superior Tribunal de Justiça.
+4. Ademais,não cabe ao Superior Tribunal de Justiça apreciar a violação a verbete sumular em recurso especial, visto que o enunciado não se insere no conceito de lei federal, previsto no art. 105, III, a, da Constituição Federal, consoante dispõe a Súmula 518 desta Corte.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA.REEXAME. SÚMULAS N. 7 E 481/STJ. ENUNCIADO DE SÚMULA. VIOLAÇÃO.SÚMULA N. 518/STJ. PETIÇÃO. EMENDA. CONTEÚDO. PREQUESTIONAMENTO.SÚMULAS N. 211/STJ E 282 E 356/STF. NÃO PROVIMENTO.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais (Súmula 481).
+3. Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula (Súmula 518).
+4. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1688862/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 08/03/2021, DJe 11/03/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM  DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. De acordo com a jurisprudência deste Tribunal Superior, é inviável o manejo de recurso especial em que se alegue ofensa a enunciado sumular exarado por esta Corte. Incidência da Súmula 518/STJ.
+2. De acordo com a jurisprudência da Casa, inexiste ofensa à coisa julgada quando o magistrado, em sede de cumprimento de sentença, interpreta o título judicial para melhor definir seu alcance e extensão. Precedentes.
+2.1. No caso em tela, restou assentado pelo Tribunal local que, dadas as particularidades da relação jurídica existente entre as partes, a condenação estipulada no título executivo não englobaria as parcelas cuja cobrança é ora buscada. Derruir tais conclusões demandaria revolvimento de matéria fático-probatória. Incidência da Súmula 7/STJ.
+3. A alegação de afronta ao artigo 489 do CPC/15 de forma genérica, sem a efetiva demonstração de quais seriam os vícios de fundamentação contidos no acórdão exarado pelo Tribunal local, impede o conhecimento do recurso especial, nos termos da Súmula 284/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1651888/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+5. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
