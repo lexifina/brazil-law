@@ -1,0 +1,40 @@
+DECISÃO
+1. Cuida-se de agravo interposto por JOÃO PEREIRA DOS SANTOS contra decisão do Tribunal de Justiça do Estado de São Paulo que negou seguimento ao seu recurso especial, por sua vez manejado com fundamento no art. 105, III, "c", da Constituição da República, em face de acórdão assim ementado:
+"PRESTAÇÃO DE SERVIÇOS DE FORNECIMENTO DE ENERGIA ELÉTRICA - Ação declaratória de inexigibilidade de débito c/c repetição de indébito -Apuração pela concessionária de violação do medidor de consumo, com lavratura de Termo de Ocorrência de Irregularidade (TOI) - Fraude bem demonstrada - Existência de Termo de Confissão de Dívida assinado livremente pelo autor - Não há que se falar em repetição de indébito - Princípio da proibição da "reformatio in pejus"- Sentença de parcial procedência mantida - Recurso improvido".
+___ .
+Nas razões do recurso especial, o recorrente narra que ajuizou a presente ação objetivando a declaração de inexistência de débito cumulada com repetição de indébito, em razão de valores cobrados pela recorrida. A ação foi julgada parcialmente procedente para reconhecer indevida a cobrança de parte da dívida, mas reconheceu a adulteração no medidor de consumo.
+Afirma que o acórdão recorrido, ao manter a sentença,divergiu do entendimento de acórdão proferido pelo Tribunal de Justiça de São Paulo na apelação cível n. 0002977-49.2012.8.26.0032.
+Aduz, ainda, que "Presente, pois, a orientação da Súmula 286/STF".
+O Tribunal de origem negou seguimento ao recurso especial ao fundamento de que não efetuado o devido cotejo analítico entre o acórdão recorrido e o apontado como paradigma. Também não admitiu o recurso ao fundamento de que tanto o acórdão recorrido quanto o acórdão paradigma foram proferidos pelo mesma Corte Estadual, qual seja, o Tribunal de Justiça do Estado de São Paulo, não podendo ser conhecida a divergência ante o disposto na Súmula 13/STJ: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+DECIDO.
+2. No presente caso, a decisão do Tribunal de origem inadmitiu o recurso especial do ora agravante ao fundamento de que não realizado o necessário cotejo analítico a fim de demonstrar a similitude fática entre os acórdãos confrontados bem como em virtude da incidência da Súmula 13/STJ que obsta o recurso especial, pela divergência, quando o acórdão recorrido e o acórdão paradigma são oriundos de um mesmo Tribunal.
+Todavia, nas razões do presente agravo em recurso especial, o agravante sustenta, genericamente, que não havia razão para que se negasse seguimento ao recurso especial, porquanto estariam presentes todos os requisitos legais para a sua admissibilidade, sendo manifesta a divergência jurisprudencial.
+3. Portanto, o ora agravante não rebate, de forma específica, clara e fundamentada, os argumentos da decisão agravada, notadamente a ausência de cotejo analítico e a incidência da Súmula 13/STJ, que traz a seguinte dicção: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Essa circunstância obsta, por si só, a pretensão recursal, pois à falta de contrariedade, permanecem incólumes os motivos expendidos pela decisão recorrida.
+Era esse o entendimento segundo a inteligência do disposto no inciso I, do § 4º, do art. 544 do Código de Processo Civil de 1.973, incluído pela Lei nº 12.322/2010, que tratava da sistemática dos agravos contra os despachos denegatórios dos recursos dirigidos a esta Corte e consigna ser dever do agravante atacar especificamente os fundamentos da decisão agravada, sob pena de não conhecimento de sua irresignação. Nesse sentido: AgRg no Ag 1270282/RS, Rel. Min. Paulo de Tarso Sanseverino, Terceira Turma, DJe 17/02/2012 e AgRg no Ag 1327361/MG, Rel. Ministra Maria Isabel Gallotti, Quarta Turma.
+E continua a ser esse o entendimento na vigência do Novo Código de Processo Civil, ao estipular que o relator não deve conhecer de recurso que não tenha impugnado especificamente os fundamentos da decisão recorrida (art. 932, III, Novo CPC).
+Ressalte-se que o art. 253, parágrafo único, I, do RISTJ também estabelece como ônus do agravante a impugnação a todos os fundamentos da decisão recorrida, sob pena de ver o seu agravo não conhecido.
+4. Ademais,tanto o acórdão recorrido quanto o acórdão paradigma foram proferidos pelo mesma Corte Estadual, qual seja, o Tribunal de Justiça do Estado de São Paulo.
+Todavia, a admissibilidade do recurso especial fundado na alínea "c" do permissivo constitucional requer a demonstração de que Tribunais distintos tenham dado interpretação divergente a um mesmo tema ou a uma mesma questão, fato não acontecido na espécie, o que atrai a aplicação da Súmula 13 do Superior Tribunal de Justiça: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO DE INSTRUMENTO - AÇÃO DE RESCISÃO DE CONTRATO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DO AUTOR.
+1. Não se admite recurso especial quanto à alegada violação a dispositivos de lei federal que não contêm comando normativo suficiente para infirmar as conclusões do acórdão recorrido.
+Incidência da Súmula 284/STF. Igualmente, a ausência de indicação clara e precisa dos dispositivos de lei federal em torno dos quais haveria divergência jurisprudencial atrai o óbice da referida súmula. Precedentes.
+2. Não se admite recurso especial por dissídio entre julgados do mesmo Tribunal nos termos da Súmula 13 do STJ. 3. É inviável conhecer o apelo nobre pela divergência, na medida em que apurar a similitude fática entre os paradigmas apresentados e os fundamentos do acórdão recorrido exigiria reexame do material fático-probatório dos autos. Incidência da Súmula 7/STJ. Precedentes.
+4. Agravo interno desprovido.
+(AgInt no Ag 1324730/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/06/2017, DJe 13/06/2017)
+___ .
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. GRATUIDADE DE JUSTIÇA.INDEFERIMENTO NA ORIGEM. AUSÊNCIA DE PROVA DE HIPOSSUFICIÊNCIA.INVERSÃO DO JULGADO. IMPOSSIBILIDADE. PLEITO QUE EXIGE REEXAME DE PROVAS. ENUNCIADO Nº 7/STJ. DISSÍDIO. NÃO CONHECIDO. SÚMULA Nº 13/STJ.
+1. Aferir a condição de hipossuficiência da recorrente, para o fim de aplicação da Lei Federal nº 1.060/1950, demandaria o reexame do contexto fático-probatório dos autos, o que é defeso a este Tribunal, em vista do óbice materializado no enunciado nº 7/STJ.
+2. O dissídio não pode ser conhecido, pois nos termos da Súmula 13 desta Corte "a divergência entre julgados do mesmo Tribunal não enseja recurso especial".
+3. Agravo interno não provido.
+(AgInt no AREsp 955.005/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2016, DJe 10/11/2016)
+___ .
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.DECISÃO MANTIDA.
+1. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+2. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, §§ 1º e 2º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF. Além disso, "não se admite recurso especial por dissídio entre julgados do mesmo Tribunal, nos termos da Súmula 13 do STJ" (AgInt no AREsp n. 1.383.885/SP, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 19/3/2019, DJe 29/3/2019).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1741821/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/05/2021, DJe 20/05/2021).
+___ .
+5.Ante o exposto, não conheço do agravo.
+Publique-se. Intime-se.
