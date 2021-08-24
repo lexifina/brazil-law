@@ -1,0 +1,7 @@
+DECISÃO
+PEDRO HENRIQUE DAMS MARTINS alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Paraná (Apelação Criminal n.0001139-30.2019.8.16.0121 e HC n.0025271-29.2019.8.16.0000).
+A defesa pretende, por meio deste writ, "seja reconhecida a ilegalidade do acórdão impugnado, para o fim de decretar a nulidade relaxamento da prisão em flagrante e, consequentemente, afastar a prisão preventiva decretada nos autos, devendo ser expedido alvará de soltura e revogação da prisão do paciente, substituindo-as por medidas cautelares até o julgamento definitivo da ação penal" (fl. 28).
+Em consulta processual realizada nos assentamentos eletrônicos desta Corte Superior de Justiça, verifico que, contra o acórdão da apelação, foi interposto recurso especial, o qual não foi admitido na origem. A defesa, então, interpôs agravo em recurso especial, que não foi conhecido. Na sequência, houve a interposição de agravo regimental, ao qual foi negado provimento. O acórdão transitou em julgado em 28/6/2021.
+Assim, uma vez que a condenação do paciente já transitou em julgado, fica esvaída a análise das matérias aventadas nesta impetração - todas com o objetivo de revogação da custódia preventiva do réu -,por tratar-se, agora, de prisão-pena, e não mais de prisão processual.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, julgo prejudicado o habeas corpus, pela perda superveniente do seu objeto.
+Publique-se e intimem-se.
