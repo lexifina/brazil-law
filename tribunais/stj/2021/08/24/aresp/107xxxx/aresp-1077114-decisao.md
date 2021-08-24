@@ -1,0 +1,58 @@
+DECISÃO
+1.  Cuida-se  de  agravo  interposto  pelo  MUNICÍPIO  DO  RIO  DE  JANEIRO  contra  decisão  que  não  admitiu  o  seu  recurso  especial,  por  sua  vez  manejado  em  face  de  acórdão  proferido  pelo  Tribunal  de  Justiça  do  Estado  do  Rio  de  Janeiro,  assim  ementado:
+Agravo  Instrumental.  Execução  por  Título  Executivo  Judicial  em  face  da  Fazenda  Pública.  Exceção  de  pré-executividade.  Alegação  de  excesso  de  execução.  Descabimento.  Não  se  tratando  de  questão  de  ordem  pública  ou  de  manifesta  nulidade  do  título,  incabível  esta  via  processual.  Necessidade  de  se  cumprir  o  art.  730  c/c  o  art.  741  do  antigo  CPC.  Decisão  mantida.  Recurso  desprovido.
+(fl.  41)
+Opostos  dois  embargos  de  declaração  pela  parte  ora  agravante,  ambos  não  foram  conhecidos  (fls.  58-61  e  fls.  77-79).
+Nas  razões  do  recurso  especial  (fls.  87-94),  fundamentado  na  alínea  "a"  do  permissivo  constitucional,  a  parte  ora  agravante  aponta  ofensa  ao  disposto  nos  artigos  535,  II,  do  CPC/73,  e  489  e  1022,  II,  do  CPC/15.  Ademais,  defende  a  aplicação  do  índice  de  atualização  previsto  no  art.  1º-F  da  Lei  9494/97,  com  redação  dada  pela  Lei  11960/09.
+Sustenta  que  a  rejeição  da  exceção  de  pré-executividade  foi  equivocada,  dado  que  a  verificação  de  índice  de  correção  monetária  é  matéria  apreciável  de  plano  e  sem  dilação  probatória.
+Argumenta  que,  mesmo  após  interposição  de  embargos  de  declaração,  a  corte  estadual  silenciou  em  relação  aos  pontos  essenciais  aduzidos  nos  referidos  aclaratórios.
+Acresenta  o  recorrente:
+(..)
+O  título  executivo  judicial  formado  e  os  posteriores  embargos  à  execução  ajuizados  não  cuidaram  do  índice  de  correção  monetária  aplicável,  razão  pela  qual,  no  silêncio  do  título,  deve  ser  o  índice  legal  então  em  vigor.
+A  utilização  de  índice  monetário  distinto  daquele  previsto  na  legislação  em  vigor  deve  ser  reconhecida  de  ofício  pelo  magistrado  já  que  se  trata  de  matéria  de  absoluta  ordem  pública  e,  também,  dispensa  dilação  probatória.  Portanto,  a  decisão  interlocutória  que  rejeitou  sua  apreciação  deve  ser  reformada.
+É  absolutamente  viável  a  análise  e  correção  de  índice  de  correção  monetária  equivocado  através  de  exceção  de  pré-executividade,  como  bem  reconhece  o  Superior  Tribunal  de  Justiça,  pois  se  trata  de  saber  se  deve  ou  não  ser  aplicado  o  art.  1o-F  da  Lei  9494/97  (com  redação  dada  pela  Lei  11.960/09)  no  período  em  que  vigente.
+(..)
+(fl.  89  -  g.n.)
+Menciona  que:  "Diante  do  silêncio  do  título  há  duas  soluções:  ou  se  mantém  o  índice  utilizado  pela  exequente  (UFIR/RJ),  para  o  período,  ou  se  adota  o  índice  legal  então  em  vigor,  com  a  aplicação  do  art.  1o-F  da  Lei  9494/97,  com  redação  dada  pela  Lei  11.960/09,  como  pretende  o  Município  na  presente  exceção  de  pré-executividade."
+Salienta  que,  tratando-se  de  matéria  de  ordem  pública  e  não  havendo  coisa  julgada  sobre  o  tema,  deve-se  evitar  prejuízo  ao  erário  com  a  não  aplicação  do  art.  1º-F  da  Lei  9494/97  à  atualização  do  débito  fazendário  objeto  da  lide.
+Assevera  que  o  título  judicial  formado  e  os  embargos  à  execução  não  cuidaram  do  índice  de  correção  monetária  equivocado,  e  que  a  utilização  de  índice  diferente  do  previsto  na  legislação  em  vigor  deve  ser  reconhecida  de  ofício,  por  ser  matéria  de  ordem  pública  e  estar  dispensada  a  dilação  probatória  para  tanto.
+Defende  ser  viável  o  exame  do  índice  de  correção  monetária  tido  como  equivocado,  por  meio  da  exceção  de  pré-executividade.
+Enfatiza  a  parte  agravante:
+ Desta  forma,  cabe  reforma  na  i.  decisão  no  sentido  de  declarar  indevida  a  quantia  de  R$  177.378,78,  atualmente  bloqueada,  pois  se  trata  de  questão  de  ordem  pública  não  submetida  à  coisa  julgada  material  e  que  pode  ser  analisada  a  qualquer  tempo,  evitando-se  a  lesão  aos  cofres  públicos,  de  natureza  imprescritível,  diga-se  de  passagem  (art.  37,  §5o,  CRFB/1988).
+(fl.  94-  grifos  no  original)
+Requer  o  provimento  do  recurso  especial,  reconhecendo-se  a  nulidade  do  acórdão  recorrido.  E,  caso  assim  não  se  entenda,  pleiteia  o  acolhimento  da  exceção  de  pré-executividade,  ou,  pelo  menos,  que  se ja  determinado  seu  processamento  e  julgamento.
+Decorrido  o  prazo  para  apresentação  de  contrarrazões  ao  recurso  especial,  conforme  certidão  de  fl.  100.
+É  o  relatório.
+DECIDO.
+2.  Não  se  viabiliza  o  recurso  especial  pela  indicada  violação  dos  artigos  535,  II,  do  CPC/73,  e  1022  e  489  do  Código  de  Processo  Civil  de  2015.  Isso  porque,  embora  não  conhecidos  os  embargos  de  declaração  opostos ,  a  matéria  em  exame  foi  devidamente  enfrentada  pelo  Tribunal  de  origem,  que  emitiu  pronunciamento  de  forma  fundamentada,  ainda  que  em  sentido  contrário  à  pretensão  da  parte  recorrente.  Não  há  falar,  no  caso,  em  negativa  de  prestação  jurisdicional.  A  Câmara  Julgadora  apreciou  as  questões  deduzidas,  decidindo  de  forma  clara  e  conforme  sua  convicção  com  base  nos  elementos  de  prova  que  entendeu  pertinentes.  No  entanto,  se  a  decisão  não  corresponde  à  expectativa  da  parte,  não  deve  por  isso  ser  imputado  vicio  ao  julgado.
+3.  Quanto  aos  demais  pontos  da  controvérsia  em  questão,  assim  se  manifestou  o  TJ/RJ  no  acórdão  guerreado:
+5.  O  presente  recurso  merece  ser  desprovido;
+6.  Com  efeito,  a  execução  por  quantia  certa  contra  a  Fazenda  Pública,  tem  procedimento  especial  regulado  nos  arts.  730  e  741  do  antigo  CPC,  sendo  inadmissível  a  escolha  da  via  eleita.  Hoje  a  matéria  é  repetida  nos  arts.  534  e  535  do  atual  CPC.
+7.  Aliás,  o  excesso  de  execução  é  até  previsto  como  fundamento  dos  Embargos  do  devedor,  não  se  admitindo,  pois,  esta  via,  que  tem  restrita  utilização.
+8.  Assim  sendo,  nega-se  provimento  ao  recurso.
+(fl.  42  -  grifos  no  original)
+Ultrapassar  os  fundamentos  do  acórdão  recorrido,  no  sentido  de  não  ser  cabível  no  caso  em  tela  a  exceção  de  pré-executividade,  e  acolher  a  tese  sustentada  pelo  ora  agravante  ,  demandaria  inevitavelmente  o  reexame  de  provas,  incidindo  o  óbice  da  Súmula  7  desta  Corte.
+A  propósito:
+PROCESSUAL  CIVIL.  AGRAVO  INTERNO  NO  RECURSO  ESPECIAL.  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  APLICABILIDADE.  VIOLAÇÃO  AO  ART.  1.022  DO  CPC.  INOCORRÊNCIA.  ALEGAÇÃO  DE  OFENSA  AO  PRINCÍPIO  DA  COLEGIALIDADE.
+NÃO  OCORRÊNCIA  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.  ACÓRDÃO  EMBASADO  EM  PREMISSAS  FÁTICAS.  REVISÃO.  SÚMULA  N.  7/STJ.  DISSÍDIO  JURISPRUDENCIAL  PREJUDICADO.  ARGUMENTOS  INSUFICIENTES  PARA  DESCONSTITUIR  A  DECISÃO  ATACADA.  APLICAÇÃO  DE  MULTA.  ART.  1.021,  §  4º,  DO  CÓDIGO  DE  PROCESSO  CIVIL  DE  2015.  DESCABIMENTO.
+I  -  Consoante  o  decidido  pelo  Plenário  desta  Corte  na  sessão  realizada  em  09.03.2016,  o  regime  recursal  será  determinado  pela  data  da  publicação  do  provimento  jurisdicional  impugnado.  Aplica-se  o  Código  de  Processo  Civil  de  2015.
+II  -  A  Corte  de  origem  apreciou  todas  as  questões  relevantes  apresentadas  com  fundamentos  suficientes,  mediante  apreciação  da  disciplina  normativa  e  cotejo  ao  posicionamento  jurisprudencial  aplicável  à  hipótese.  Inexistência  de  omissão,  contradição  ou  obscuridade..
+III  -  É  firme  o  posicionamento  desta  Corte  segundo  o  qual  a  confirmação  de  decisão  monocrática  do  relator  pelo  órgão  colegiado  supera  eventual  violação  do  art.  932  do  Código  de  Processo  Civil.
+IV  -  In  casu,  rever  o  entendimento  do  tribunal  de  origem  de  que  a  via  eleita  -  exceção  de  pré-executividade  -  seria  inadequada,  porquanto  necessária  dilação  probatória,  demandaria  revolvimento  de  matéria  fática,  o  que  é  inviável  em  sede  de  recurso  especial,  à  luz  do  óbice  contido  na  Súmula  n.  7  desta  Corte.
+V  -  O  recurso  especial  não  pode  ser  conhecido  com  fundamento  na  alínea  c,  do  permissivo  constitucional,  porquanto  o  óbice  da  Súmula  n.  7/STJ  impede  o  exame  do  dissídio  jurisprudencial  quando,  para  a  comprovação  da  similitude  fática  entre  os  julgados  confrontados,  é  necessário  o  reexame  de  fatos  e  provas.
+VI  -  Não  apresentação  de  argumentos  suficientes  para  desconstituir  a  decisão  recorrida.
+VII  -  Em  regra,  descabe  a  imposição  da  multa,  prevista  no  art.
+1.021,  §  4º,  do  Código  de  Processo  Civil  de  2015,  em  razão  do  mero  improvimento  do  Agravo  Interno  em  votação  unânime,  sendo  necessária  a  configuração  da  manifesta  inadmissibilidade  ou  improcedência  do  recurso  a  autorizar  sua  aplicação,  o  que  não  ocorreu  no  caso.
+VIII  -  Agravo  Interno  improvido.
+(AgInt  no  REsp  1695114/SP,  Rel.  Ministra  REGINA  HELENA  COSTA,  PRIMEIRA  TURMA,  julgado  em  28/11/2017,  DJe  06/12/2017  -  g.n.)
+TRIBUTÁRIO.  IPVA.  EXECUÇÃO  FISCAL.  EXCEÇÃO  DE  PRÉ-EXECUTIVIDADE.
+ALEGAÇÃO  GENÉRICA  DE  VIOLAÇÃO  DO  ART.  535  DO  CPC/73.  DEFICIÊNCIA  DA  FUNDAMENTAÇÃO.  INCIDÊNCIA,  POR  ANALOGIA,  DO  ENUNCIADO  N.  284  DA  SÚMULA  DO  STF.  AUSÊNCIA  DE  PREQUESTIONAMENTO.  PRETENSÃO  DE  REEXAME  FÁTICO-PROBATÓRIO.  INCIDÊNCIA  DO  ENUNCIADO  N.  7  DA  SÚMULA  DO  STJ.
+I  -  Em  relação  à  alegada  violação  ao  art.  535,  II,  do  CPC/73,  verifica-se  que  o  recorrente  limitou-se  a  afirmar,  em  linhas  gerais,  que  o  acórdão  recorrido  incorreu  em  omissão  ao  deixar  de  se  pronunciar  acerca  das  questões  apresentadas  nos  embargos  de  declaração,  o  fazendo  de  forma  genérica,  sem  desenvolver  argumentos  para  demonstrar  especificamente  a  suposta  mácula.  II  -  A  apresentação  genérica  de  ofensa  ao  art.  535,  II,  do  CPC/73  atrai,  por  analogia,  o  comando  do  enunciado  sumular  n.  284  da  Súmula  do  STF,  inviabilizando  o  conhecimento  dessa  parcela  recursal.
+III  -  Quanto  à  matéria  constante  nos  arts.  10,  11,  141,  142,  151  e  156,  VI,  do  CTN;  267,  VI  e  §3º,  295,  III,  598  do  CPC;  26  da  Lei  n.
+6.830/1980  ,  verifica-se  que  o  Tribunal  a  quo,  em  nenhum  momento  abordou  as  questões  referidas  nos  dispositivos  legais,  mesmo  após  a  oposição  de  embargos  de  declaração  apontando  a  suposta  omissão.
+Nesse  contexto,  incide  na  hipótese  o  enunciado  n.  211  da  Súmula  do  STJ,  que  assim  dispõe:  "Inadmissível  recurso  especial  quanto  à  questão  que,  a  despeito  da  oposição  de  embargos  declaratórios,  não  foi  apreciada  pelo  Tribunal  a  quo".
+IV  -  No  tocante  à  possibilidade  da  rejeição  da  exceção  de  pré-executividade,  a  Corte  a  quo  afirmou  que  a  questão  em  debate  demanda  dilação  probatória.  A  revisão  desse  entendimento  exige  o  reexame  do  acervo  fático-probatório  considerado  pelo  Tribunal  de  origem,  o  que  é  inviável  pela  via  do  recurso  especial,  nos  termos  do  enunciado  n.  7  da  Súmula  do  STJ.
+V  -  Agravo  interno  improvido.
+(AgInt  no  AREsp  1128105/SP,  Rel.  Ministro  FRANCISCO  FALCÃO,  SEGUNDA  TURMA,  julgado  em  24/10/2017,  DJe  31/10/2017  -  g.n.)
+4.  Ante  o  exposto,  nego  provimento  ao  agravo.
+Publique-se.  Intimem-se.
