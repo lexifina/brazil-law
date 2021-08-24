@@ -1,0 +1,8 @@
+DECISÃO
+Na petição de Recurso Especial, a recorrente, RUBI SPE 7 EMPREENDIMENTO IMOBILIÁRIO LTDA., requereu a concessão dos benefícios da justiça gratuita, tendo em vista que enfrenta atualmente período de imensa dificuldade financeira, o que a impossibilita de efetuar o recolhimento das custas processuais devidas. (e-STJ fl. 306)
+A atual jurisprudência desta Corte perfilha o entendimento de que é viável a formulação, no curso do processo, de pedido de gratuidade da justiça na própria petição recursal, dispensando-se a exigência de petição avulsa, quando não houver prejuízo ao trâmite normal do feito. Nesse sentido: AgRg nos EREsp 1.222.355/MG, Corte Especial, DJe 25/11/2015.
+Contudo, não obstante o requerimento da recorrente acerca da concessão dos benefícios da gratuidade da justiça, verificou-se que o pedido não estava instruído com documentos que pudessem justificar o seu deferimento.
+Destarte, para que se pudesse promover o julgamento do recurso especial, intimou-se a recorrente para que, no prazo de 05 (cinco) dias, nos termos do art. 99, §2º, do CPC/15, comprovasse o preenchimento dos pressupostos legais para a concessão do benefício, sob pena de seu indeferimento.
+Por intermédio da Petição nº 00713428/2021, a recorrente junta documentos, a fim de que o pedido seja analisado, e reitera a concessão do benefício.
+Diante da análise da documentação apresentada às fls. 377/781 (e-STJ), INDEFIRO o pedido de justiça gratuita formulado e, nos termos do art. 99, §7º, do CPC/2015, determino a intimação da recorrente para que comprove o recolhimento do preparo recursal, no prazo de 5 (cinco) dias, sob pena de deserção.
+Publique-se. Intimem-se.
