@@ -1,0 +1,60 @@
+PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO
+RECURSO DE AGRAVO DE INSTRUMENTO No 1011874-50.2021.8.11.0000
+AGRAVANTE: MAQMOVEIS INDUSTRIA E COMERCIO DE MOVEIS LTDA
+AGRAVADO: ESTADO DE MATO GROSSO
+DECISÃO MONOCRÁTICA
+Vistos, etc.
+Trata-se de Agravo de Instrumento com pedido de liminar interposto por Maqmoveis Indústria e Comércio de Móveis Ltda., contra decisão proferida pelo Juízo da 1a Vara Especializada da Fazenda Pública de Cuiabá, que, nos autos da Ação Declaratória no 1006558-30.2021.8.11.0041, ajuizada em desfavor do Estado de Mato Grosso, que acolheu a emenda a inicial proposta pela Agravante, determinando (...) a retificação do registro e autuação para constar à causa o valor de 115.818,00. Ato subsequente, ante o recolhimento das custas judiciárias sobre a quantia de R$ 100 mil, determino a expedição de guia complementar com intimação do requerente para adoção das providências necessárias em até 15 (quinze) dias, penas da lei.
+Por entender que o presente recurso não pode ser conhecido, haja vista se tratar de decisão que determinou a emenda da inicial, determinei a intimação do Agravante para se manifestar no prazo de 15 (quinze) dias (Id. 94067957).
+Atendendo a determinação, a Agravante alega a existência de urgência necessária na admissibilidade do presente recurso, não podendo aguardar que a análise da matéria se dê somente em recurso de Apelação, visto que causará dano grave e de difícil reparação à Agravante, uma vez que impedirá a concessão de tutela de urgência suspendendo a exigibilidade dos créditos tributários referentes às operações pretéritas.
+É o breve relato.
+Decido.
+O art. 932, III, do Novo Código de Processo Civil permite que o Relator não conheça do recurso quando constatar sua manifesta inadmissibilidade, quando o seu exame esteja prejudicado ou quando a parte não tenha impugnado especificamente os fundamentos da decisão recorrida.
+Na hipótese dos autos, verifica-se que o recurso sequer deve ser conhecido, a uma, porque se trata de decisão que determinou a emenda a inicial; a duas, porque não vislumbro interesse de agir na interposição do recurso.
+Explico.
+Imperioso consignar que a Recorrente ajuizou a ação declaratória de origem, com objetivo de obter: “a concessão da tutela antecipada de urgência, inaudita altera pars, para o fim de suspender a exigibilidade dos créditos tributários relativos ao DIFAL e Fundo de Combate à Pobreza (FCP), bem como seja afastada qualquer sanção pecuniária ou restritiva de direitos” e “no mérito seja confirmada a tutela de urgência e seja declarada a inexistência de relação jurídica tributária (...) se à Autora o direito de não recolher o DIFAL e FCP ao Estado, compreendendo as operações realizadas no período de cinco anos anteriores à propositura da presente ação e o período futuro”. Atribuiu à causa o valor de R$ 100.000,00 (cem mil reais)
+O Magistrado de Primeiro Grau entendeu que a pretensão da Recorrente de não recolher o DIFAL nos anos anteriores a propositura da ação possui valor certo e determinado, passível de apuração, motivo pelo qual, determinou a intimação da parte requerente para, no prazo de até 15 (quinze) dias, promover a emenda da inicial com a juntada de todos os documentos necessários ao processamento do feito, sem prejuízo de promover o recolhimento das custas processuais ou comprovar a hipossuficiência financeira, pena de indeferimento da inicial e/ou anuência e concordância tácita com eventual morosidade na entrega jurisdicional.
+Em atendimento a determinação, a Agravante pugnou pela emenda da inicial, juntando documentos que demonstram que o DIFAL relativo às operações realizadas pela Autora nos últimos cinco anos corresponde à quantia de R$ 115.818,00.
+Sendo assim, requereu:
+(...) requer seja recebida a presente emenda à petição inicial, de modo que sejam admitidas as modificações na exordial acima especificadas.
+Entretanto, subsidiariamente, caso Vossa Excelência entenda que não fora integralmente cumprida a determinação ID 50427981, requer a alteração do pedido para que seja declarada a inexistência de relação jurídica tributária entre a partes litigantes relativamente à exigência do DIFAL e FCP nas operações que destinem mercadorias para consumidor final não contribuinte localizado neste Estado, compreendendo as operações realizadas a partir da propositura da presente ação, (...) [Destaquei]
+Ato subsequente, o Magistrado proferiu a seguinte decisão:
+(...) Em atenção a decisão retro, a requerente promoveu a emenda da inicial para atribuir à causa o valor de R$ 115.818,00. Na ocasião, postulou “a alteração do pedido para que seja declarada a inexistência de relação jurídica tributária entre a partes litigantes relativamente à exigência do DIFAL e FCP nas operações que destinem mercadorias para consumidor final não contribuinte localizado neste Estado, compreendendo as operações realizadas a partir da propositura da presente ação”. Juntou documentos.
+Os pedidos são singelos e não comportam maiores elucubrações para deslinde. Assim, sem delongas, defiro-os.
+Determino a retificação do registro e autuação para constar à causa o valor de 115.818,00.
+Ato subsequente, ante o recolhimento das custas judiciárias sobre a quantia de R$ 100 mil, determino a expedição de guia complementar com intimação do requerente para adoção das providências necessárias em até 15 (quinze) dias, penas da lei.
+Contra a decisão, foram opostos embargos de declaração, que foram rejeitados.
+Inconformado, insurge-se a Recorrente, por meio do presente recurso.
+À luz do artigo 1.015 do Código de Processo Civil/2015, não é permitida a interposição de agravo de instrumento acerca de questões estranhas ao rol taxativo previsto nos incisos I a XI, in verbis:
+Art. 1.015. Cabe agravo de instrumento contra as decisões interlocutórias que versarem sobre:
+I - tutelas provisórias;
+II - mérito do processo;
+III - rejeição da alegação de convenção de arbitragem;
+IV - incidente de desconsideração da personalidade jurídica;
+V - rejeição do pedido de gratuidade da justiça ou acolhimento do pedido de sua revogação;
+VI - exibição ou posse de documento ou coisa;
+VII - exclusão de litisconsorte;
+VIII - rejeição do pedido de limitação do litisconsórcio;
+IX - admissão ou inadmissão de intervenção de terceiros;
+X - concessão, modificação ou revogação do efeito suspensivo aos embargos à execução;
+XI - redistribuição do ônus da prova nos termos do art. 373, § 1o;
+XII - (VETADO);
+XIII - outros casos expressamente referidos em lei.
+Parágrafo único. Também caberá agravo de instrumento contra decisões interlocutórias proferidas na fase de liquidação de sentença ou de cumprimento de sentença, no processo de execução e no processo de inventário.
+Nesse sentido, cabe trazer os ensinamentos de Nelson Nery Junior e Rosa Maria de Andrade Nery:
+? 3. Agravo de instrumento em hipóteses taxativas (numerus clausus). O dispositivo comentado prevê, em numerus clausus, os casos em que a decisão interlocutória pode ser impugnada pelo recurso de agravo de instrumento. As interlocutórias que não se encontram no rol do CPC 1015 não são recorríveis pelo agravo, mas sim como preliminar de razões ou contrarrazões de apelação (CPC 1009 § 1.o). Pode-se dizer que o sistema abarca o princípio da irrecorribilidade em separado das interlocutórias como regra. Não se trata de irrecorribilidade da interlocutória que não se encontra no rol do CPC 1015 , mas de recorribilidade diferida, exercitável em futura e eventual apelação (razões ou contrarrazões). Entretanto, se a interlocutória tiver potencialidade de causar imediato gravame de difícil ou impossível reparação, de tal sorte que não se possa esperar seja exercida a pretensão recursal como preliminar da apelação, pode ser, desde logo, submetida ao exame do tribunal competente para conhecer da apelação, pelo exercimento do mandado de segurança e da correição parcial.
+Na hipótese, o agravo de instrumento ataca decisão que determinou a emenda da inicial para adequação do valor da causa, questão não elencada no citado art. 1.015 do CPC.
+Ademais, na esteira da interpretação assentada pelo STJ no julgamento do REsp. no 1.696.396-MT - Tema 988, que fixou a tese da taxatividade mitigada do rol do art. 1.015 do CPC, observo que não está demonstrada a urgência e o perigo de dano em se aguardar a prolação da sentença.
+Nesse sentido:
+AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. AÇÃO DE EXIGIR CONTAS. FUNDO 157. EMENDA AO VALOR DA CAUSA. O art. 1.015 do CPC/2016 tornou taxativo o rol de hipóteses em que é cabível o recurso de agravo de instrumento. No caso em exame, em que pese o Julgador a quo não tenha acolhido o valor atribuído à causa, tal provimento não se insere nas hipóteses previstas nos incisos do artigo supracitado. Não se desconhece o fato do Superior Tribunal de Justiça ter mitigado o rol taxativo do artigo 1.015 do CPC, restando ampliada as hipóteses de cabimento do agravo de instrumento nos casos de urgência e ameaça de lesão ao direito quando do julgamento da questão apenas no recurso de apelação; contudo, não se verifica tal urgência no caso dos autos. AGRAVO DE INSTRUMENTO NÃO CONHECIDO. (TJRS -Agravo de Instrumento, No 70083421057, Vigésima Quarta Câmara Cível, Tribunal de Justiça do RS, Relator: Fernando Flores Cabral Junior, Julgado em: 19-02-2020). [Destaquei]
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. ALTERAÇÃO DO VALOR DA CAUSA. COMPLEMENTAÇÃO DAS CUSTAS PROCESSUAIS. DECISÃO IRRECORRÍVEL. ART. 1.015 DO CPC. É de ser mantida a decisão ora atacada, que não conheceu do agravo de instrumento, por inadmissível, com fundamento no art. 932, III, do CPC. O objeto da inconformidade não está dentre as hipóteses que possibilitam a interposição de agravo de instrumento, consoante previsto no art. 1.015 e parágrafo único do CPC. O recorrente se insurge contra a decisão que, nos autos da ação de prestação de contas, determinou a alteração do valor atribuído à causa e a complementação das custas processuais. Embora o STJ tenha mitigado o rol taxativo do art. 1.015 do CPC, em recente julgamento dos recursos repetitivos REsp 1.696.396 e REsp 1.704.520, ampliando as possibilidades de interposição de agravo de instrumento quando verificada urgência decorrente da inutilidade do julgamento da questão no recurso de apelação, não é a situação dos autos. NEGARAM PROVIMENTO. UNÂNIME.(Agravo, No 70080960651, Oitava Câmara Cível, Tribunal de Justiça do RS, Relator: Luiz Felipe Brasil Santos, Julgado em: 16-05-2019). [Destaquei]
+Além disso, observa-se que o Magistrado de Primeiro Grau deferiu o pedido subsidiário requerido pela Agravante, de modo que, a parte Autora não pode ser considerada sucumbente na demanda, carecendo, assim, de interesse recursal.
+A propósito:
+ADMINISTRATIVO E AMBIENTAL. AUTO DE INFRAÇÃO. IBAMA. MANTER EM CATIVEIRO ESPÉCIES DA FAUNA SILVESTRE SEM DEVIDA AUTORIZAÇÃO. CONVERSÃO DA MULTA EM PRESTAÇÃO DE SERVIÇOS. PRINCÍPIO DA RAZOABILIDADE E DA PROPORCIONALIDADE. PEDIDO SUBSIDIÁRIO DEFERIDO. AUSÊNCIA DE INTERESSE EM RECORRER DA PARTE AUTORA. 1. A parte autora formulou pedido de anulação de multa ambiental e, subsidiariamente, os pedidos de conversão da multa em prestação de serviços ou de substituição por advertência. Acolhido o pedido subsidiário de conversão da multa em prestação de serviços a parte autora não pode ser considerada sucumbente na demanda, carecendo, assim, de interesse recursal. (...). (TRF-1 - AC: 00407068120154013800, Relator: DESEMBARGADOR FEDERAL KASSIO NUNES MARQUES, Data de Julgamento: 05/03/2018, SEXTA TURMA, Data de Publicação: 16/03/2018). [Destaquei]
+Ante o exposto, por ausência dos pressupostos de interposição do agravo de instrumento (a decisão interlocutória recorrível), NÃO CONHEÇO do recurso, por ser manifestamente inadmissível, nos termos do artigo 932, III, do Novo Código de Processo Civil, já que a decisão recorrida foi proferida sob a vigência deste.
+Se transcorrido in albis o prazo recursal, arquivem-se com as cautelas de estilo.
+Publique-se e intimem-se.
+Cumpra-se.
+Cuiabá/MT, 23 de agosto de 2021.
+Desa. Helena Maria Bezerra Ramos
+Relatora
