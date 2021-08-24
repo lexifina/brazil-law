@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo de Direito da 2ª Vara Cível de Tianguá - CE, suscitante, eo Juízo da Vara Única do Trabalho de Tianguá - CE, suscitado, nos autos da reclamação trabalhista proposta por Artur de Mesquita Alcantara, em face do Município de Tianguá, objetivando o recebimento de verbas rescisórias indicadas na inicial no período em que exerceu o cargo comissionado de Chefe de Divisão de Controle Escolar.
+Às fls. 34-38, o Juízo suscitado declarou a incompetência absoluta da Justiça do Trabalhopara processare julgaro feito, por considerar de cunho essencialmente administrativo o vínculo jurídico havido entre os litigantes, determinando a remessa dos autos ao Poder Judiciário Estadual para apreciação da demanda.
+Por sua vez, oJuízo de Direito da 2ª Vara Cível de Tianguá - CEsuscita o presente conflito, asseverando que a Lei Municipal de Tiaguá/CE n. 397/2004 dispõe que o Regime Jurídico dos Servidores Públicos é a Consolidação das Leis Trabalhistas - CLT, cuja competência para julgar a demanda é a Justiça do Trabalho (fls. 167-168).
+É o relatório. Passo a decidir.
+De início, dispensa-se a oitiva do Ministério Público Federal, em prestígio aos princípios da celeridade e da economia processual, além do caso dos autosestar fora das hipóteses previstas no artigo 178 do CPC/2015.
+O conflito de competência merece conhecimento, visto queos requisitos legais previstos na alínea d do inciso I do artigo 105 da Constituição Federal estão preenchidos.
+No caso dos autos, verifica-se que o demandante foi nomeado para o cargo em comissão de Chefe da Divisão de Controle Escolar do Município de Tianguá/CE (doc. fl. 68). A Lei Municipal n. 397/2004, estabelece textualmente que "fica ratificado o regime jurídico da CLT" (doc. de fl. 109).
+Consoante jurisprudência desta Corte,compete à Justiça do Trabalho apreciar as demandas entre o ente público e seus servidores regidos pela CLT, nos termos da legislação aplicável. Nesse sentido:AgInt no CC 171.813/ES, Rel. Ministro Og Fernandes, Primeira Seção, DJe 14/5/2021.
+Dessa forma, se a lei local que regula as relações entre a municipalidade e seus agentes sujeita estes ao regime celetista, acompetênciapara processar e julgar as ações fundadas nessa relação é da Justiça do Trabalho, nos termos do que dispõe o artigo114, I e IX, da Constituição Federal, com a redação dada pela EC n. 45/2004.
+No mesmo sentido e com idêntica temática dos autos,destaco as seguintes decisões:CC n. 181.695/CE, Relatora Ministra Regina Helena Costa, DJe: 13/8/2021;CC n. 180.125/CE, Relator Ministro Og Fernandes, DJe: 01/7/2021;CC n. 179.660/CE, Relator Ministro Gurgel de Faria, DJe: 28/5/2021;CC n. 179.678/CE, Relator MinistroManoel Erhardt (Desembargador convocado do TRF-5ª Região), DJe:24/5/2021.
+Assim,conheço do conflito e declaro competente o JUÍZO DA VARA ÚNICA DO TRABALHO DE TIANGUÁ-CE,nos termos do artigo955, parágrafo único, do CPC/2015, combinado com artigo34, XVIII, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. CONFLITO NEGATIVO DE COMPETÊNCIA. AÇÃO ORDINÁRIA. REGIMECELETISTA. COMPETÊNCIA DA JUSTIÇA TRABALHISTA.
