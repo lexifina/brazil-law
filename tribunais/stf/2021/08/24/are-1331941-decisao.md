@@ -1,0 +1,23 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) a pretensão do recorrente é contrária à jurisprudência do Supremo Tribunal Federal firmada no sentido de que viola o art. 7°, IV, da Constituição, a fixação de multa administrativa em número de salários mínimos; e, (ii) em relação às demais questões, eventual ofensa à Constituição seria meramente reflexa.
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada referente à inexistência de violação direta da Constituição.
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287 do Supremo Tribunal Federal. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte:
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRABALHISTA. VÍNCULO EMPREGATÍCIO. EXISTÊNCIA. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA Nº 287 DO STF. INCIDÊNCIA. AGRAVO REGIMENTAL DESPROVIDO” (ARE 935.424-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma – grifei).
+    “EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL CIVIL. AGRAVO NO QUAL NÃO SE INFIRMAM TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO: RECURSO INCABÍVEL. SÚMULA N. 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 868.534-AgR/RO, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    No mesmo sentido, cito os seguintes precedentes: ARE 887.116-AgR/RS, Rel. Min. Rosa Weber; ARE 897.307-AgR/PE, Rel. Min. Edson Fachin; ARE 911.256-AgR/DF, Rel. Min. Luiz Fux; e ARE 752.372-AgR/MG, de minha relatoria.
+    Além disso, conforme assinalado na decisão agravada, verifico que o acórdão recorrido está em consonância com a orientação firmada por esta Corte no sentido de que é inconstitucional a fixação de multa administrativa com base no salário mínimo. Nessa linha, destaco os seguintes julgados deste Tribunal:
+    “SALÁRIO MÍNIMO - VINCULAÇÃO - Esbarra na cláusula final do inciso IV do artigo 7º da Constituição Federal a tomada do salário mínimo como parâmetro de cálculo de multa” (RE 445.282-AgR/PR, Rel. Min. Marco Aurélio, Primeira Turma).
+    “Fixação de horário de funcionamento para farmácias no Município. Multa administrativa vinculada a salário mínimo.
+    - Em casos análogos ao presente, ambas as Turmas desta Corte (assim a título exemplificativo, nos RREE 199.520, 175.901 e 174.645) firmaram entendimento no sentido que assim vem sintetizado pela ementa do RE 199.520:
+    "Fixação de horário de funcionamento para farmácia no Município. Lei 8.794/78 do Município de São Paulo.
+    - Matéria de competência do Município. Improcedência das alegações de violação aos princípios constitucionais da isonomia, da livre concorrência, da defesa do consumidor, da liberdade de trabalho e da busca ao pleno emprego. Precedente desta Corte.
+    Recurso extraordinário conhecido, mas não provido".
+    - Dessa orientação não divergiu o acórdão recorrido.
+    - O Plenário desta Corte, ao julgar a ADIN 1425, firmou o entendimento de que, ao estabelecer o artigo 7º, IV, da Constituição que é vedada a vinculação ao salário-mínimo para qualquer fim, ‘quis evitar que interesses estranhos aos versados na norma constitucional venham a ter influência na fixação do valor mínimo a ser observado’. Ora, no caso, a vinculação se dá para que o salário-mínimo atue como fator de atualização da multa administrativa, que variará com o aumento dele, o que se enquadra na proibição do citado dispositivo constitucional.
+    - É, portanto, inconstitucional o § 1º do artigo 4º da Lei 5.803, de 04.09.90, do Município de Ribeirão Preto.
+    Recurso extraordinário conhecido em parte e nela provido, declarando-se a inconstitucionalidade do § 1º do artigo 4º da Lei 5.803, de 04.09.90, do Município de Ribeirão Preto” (RE 237.965/SP, Rel. Min. Moreira Alves, Plenário – grifei).
+    Indico, ainda, as seguintes decisões, entre outras: RE 500.123/PR, Rel. Min. Dias Toffoli e RE 481.933/PR, Rel. Min. Joaquim Barbosa.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1º, do RISTF). Com base no art. 85, § 11, do Código de Processo Civil, majoro os honorários em 10% (dez por cento) do total da verba fixada a esse título, observados os limites legais.
+    Publique-se.
+    Brasília, 24 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
