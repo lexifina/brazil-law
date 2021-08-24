@@ -1,0 +1,16 @@
+Decisão:
+    Vistos.
+    Trata-se de agravo contra a decisão que não admitiu recurso extraordinário interposto contra acórdão da 1ª Câmara Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, assim ementado:
+    “AGRAVO INTERNO. MANDADO DE SEGURANÇA. OBRIGAÇÃO DE FAZER. MULTA DIÁRIA ARBITRADA EM DECISÃO CONCESSIVA DE LIMINAR. DESCUMPRIMENTO DA ORDEM. TÍTULO EXECUTIVO JUDICIAL. FASE EXECUTIVA. DECISÃO MANTIDA. 1. É passível de execução definitiva acórdão concessivo da segurança que mantém a decisão interlocutória deferindo medida liminar, consistente na obrigação de entregar medicamentos pelo Ente Público à Impetrante/Agravada, com o arbitramento de multa diária em caso de descumprimento. 2. Recurso desprovido.”
+    Opostos embargos de declaração, foram acolhidos para suprir omissão, sem efeitos modificativos.
+    No recurso extraordinário sustenta-se violação dos artigos 5º, caput e inciso II, e 37, caput e inciso XXI, da Constituição Federal.
+    Decido.
+    A irresignação não merece prosperar, haja vista que o acolhimento da pretensão recursal no sentido de que não restou caracterizado o descumprimento de decisão judicial apto a legitimar a incidência da multa arbitrada pela Corte de origem demandaria, induvidosamente, o reexame do conjunto fático-probatório dos autos, o que foge do campo do recurso extraordinário, a teor do que dispõe a Súmula nº 279/STF. Sobre o tema, anote-se:
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. MULTA (ASTREINTES) PELO DESCUMPRIMENTO DE DECISÃO JUDICIAL TRANSITADA EM JULGADO. VALOR EXCESSIVO. REAPRECIAÇÃO DOS FATOS E DO MATERIAL PROBATÓRIO CONSTANTE DOS AUTOS. SÚMULA 279/STF. COMPETÊNCIA DOS JUIZADOS ESPECIAIS. COMPLEXIDADE DA MATÉRIA. VALOR DA CAUSA. MATÉRIA INFRACONSTITUCIONAL. Para dissentir da conclusão do Colegiado de origem, no tocante ao valor da multa aplicada, considerado excessivo, seria necessário nova apreciação dos fatos e do material probatório constante dos autos, o que atrai a incidência da Súmula 279/STF. Além do mais, requer a análise de matéria infraconstitucional. Precedentes. Não há questão constitucional a ser decidida em controvérsia envolvendo a competência dos juizados especiais, em razão da complexidade e do valor da causa. Precedentes. Agravo regimental a que se nega provimento” (ARE nº 648.934/SP-AgR, Primeira Turma, Relator o Ministro Roberto Barroso, DJe de 25/3/14).
+    “AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. CIVIL E PROCESSUAL CIVIL. APLICAÇÃO DE MULTA POR DESCUMPRIMENTO DE DECISÃO JUDICIAL. ASTREINTES. QUESTÃO INFRACONSTITUCIONAL. OFENSA CONSTITUCIONAL INDIRETA. CONTROVÉRSIA QUE DEMANDA O REEXAME DAS PROVAS DOS AUTOS, AO QUE NÃO SE PRESTA O RECURSO EXTRAORDINÁRIO (SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL). AGRAVO AO QUAL SE NEGA PROVIMENTO. Imposição de multa de 5% do valor corrigido da causa. Aplicação do art. 557, § 2º, c/c arts. 14, inc. II e III, e 17, inc. VII, do Código de Processo Civil” (AI nº 660.733/RS-AgR, Primeira Turma, Relatora a Ministra Cármen Lúcia, DJe de 20/2/09).
+    Ante o exposto, nos termos do artigo 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao recurso.
+    Publique-se.
+    Brasília, 24 de agosto de 2021.
+Ministro Dias Toffoli
+Relator
+Documento assinado digitalmente
