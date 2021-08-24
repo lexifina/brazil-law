@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO FEDERAL DA 11ª VARA DE EXECUÇÕES FISCAIS DE SÃO PAULO - SJ/SP e o JUÍZO FEDERAL DA 8ª VARA DE EXECUÇÃO FISCAL DO RIO DE JANEIRO - SJ/RJ.
+O JUÍZO FEDERAL DA 8ª VARA DE EXECUÇÃO FISCAL DO RIO DE JANEIRO - SJ/RJ, em que foi ajuizada a execução fiscal, declinou da competência para o processamento do feito, sustentando que (e-STJ fl. 27):
+De acordo com a regra do art. 46, § 5º, do CPC/2015, "a execução fiscal será proposta no foro do domicílio do réu, no de sua residência ou no do lugar onde for encontrado".
+Assim sendo, face ao domicílio da parte executada, dou-me por incompetente para o processamento e julgamento da presente execução fiscal, determinando a remessa dos autos à 1ª Subseção de São Paulo/SP - Fórum das Execuções Fiscais, após as devidas anotações, para que seja redistribuída a uma das Varas Federais ali localizadas.
+Por seu turno, o JUÍZO FEDERAL DA 11ª VARA DE EXECUÇÕES FISCAIS DE SÃO PAULO - SJ/SP, suscitante, defendeu que (e-STJ fl. 86):
+No caso presente, verifico que a alegação de incompetência orbita em torno da territorialidade, sendo este um critério de competência relativa, portanto, não pode ser declarada de ofício pelo juiz, nos termos da Súmula nº 33 do E. Superior Tribunal de Justiça.
+Ademais, ainda de acordo com entendimento da Corte Superior, ajuizada a execução fiscal, a posterior mudança de domicílio do executado não desloca a competência já fixada (Súmula nº 58 do STJ).
+Por fim, acrescente-se que a própria executada alega que seu domicílio está situado no Rio de Janeiro (ID 41485239).
+Pelo exposto, nos termos do artigo 105, inciso I, alínea "d" da Constituição Federal, e artigo 66, inciso II, do Código de Processo Civil, suscito conflito negativo de , perante o Superior Tribunal de Justiça esperando seja fixada a competência competência do Juízo Federal da 8ª Vara de Execução Fiscal do Rio de Janeiro - Seção Judiciária do Rio de Janeiro para apreciar e julgar este feito.
+Passo a decidir.
+O art. 34, XXII, do RISTJ permite ao relator "decidir o conflito de competência quando for inadmissível, prejudicado ou quando se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Dito isso, penso que assiste razão ao suscitante.
+Os autos, na origem, tratam de execução fiscal proposta pelo CONSELHO REGIONAL DE ENFERMAGEM DO RIO DE JANEIRO - COREN/RJ para a satisfação dos créditos constantes das CDAS acostadas à exordial.
+Cumpre observar que, por ser relativa a competência territorial, o juízo da execução não pode dela declinar, de ofício, como já sedimentado na Súmula 33 do STJ, que estabelece que "a incompetência relativa não pode ser declarada de ofício".
+Nesse sentido:
+CONFLITO DE COMPETÊNCIA. COMPETÊNCIA TERRITORIAL. PEDIDO DE ALTERAÇÃO DA COMPETÊNCIA PELO AUTOR. ENDEREÇO DO EXECUTADO.
+I - Cuida-se de conflito negativo de competência, suscitado pela 1ª Vara Federal de Diamantino/MT, nos autos da Execução Fiscal interposta pela Comissão de Valores Imobiliários - CVM em face de Agromon S/A Agricultura e Pecuária.
+II - A ação executiva foi ajuizada na Subseção Judiciária de São Paulo, contudo o executado não foi localizado naquela subseção, tendo o juízo originário declinado a competência em favor do juízo ora suscitante, sob o argumento de que o domicílio fiscal do executado se encontrava na cidade de São José do Rio Claro - MT. Após o ajuizamento da execução o exequente pleiteou a alteração da competência, razão pela qual decidiu o juízo originário declinar a competência conforme acima referido. Discordando desse entendimento, o MM. Juízo Federal da 1ª Vara de Diamantino - SJ/MT suscita o presente conflito de competência, perante esse Egrégio Superior Tribunal de Justiça.
+II - Conforme definido no art. 64, §1º, do CPC/2015, a incompetência relativa somente pode ser alegada em preliminar de contestação. Escolhido pelo exequente dentre as jurisdições possíveis aquela do ajuizamento da demanda, a competência se estabelece, não sendo possível a alteração por pedido do autor diante da ausência de amparo legal.
+III - Conflito de competência conhecido para declarar competente o suscitado, juízo da 6ª Vara Federal de execuções fiscais de São Paulo. (CC 166.952/MT, rel. Min. FRANCISCO FALCÃO, PRIMEIRA SEÇÃO, DJe 2/9/2019).
+Na hipótese dos autos, verifica-se, ainda, que a parte executada, quando apresentou a exceção de pre-executividade, afirmou que reside no Município de São PedroD"Aldeia, localizado no Estado do Rio de Janeiro.
+Ante o exposto, com arrimo no art. 34, XXII, do RISTJ, DECLARO competente o JUÍZO FEDERAL DA 8ª VARA DE EXECUÇÃO FISCAL DO RIO DE JANEIRO SJ/RJ, o suscitado.
+Publique-se. Intimem-se.
