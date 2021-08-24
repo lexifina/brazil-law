@@ -1,0 +1,33 @@
+Trata-se de agravo interposto contra decisão do Tribunal Superior Eleitoral por meio da qual foi negado seguimento ao recurso extraordinário, nos termos do art. 1.030, I, a, do CPC/2015, com apoio no entendimento firmado pelo Supremo Tribunal Federal no Tema 339 da Repercussão Geral.
+    Ademais, quanto à alegada afronta ao art. 5°, X, da Constituição, o apelo extremo não foi admitido em razão da aplicação da Súmula 279/STF e da ausência de violação direta à Lei Maior.
+    A agravante sustenta, em suma, ofensa ao art. 93, IX, da Carta Magna, sob o argumento de que o acórdão impugnado pelo recurso extraordinário não foi devidamente fundamentado, mesmo após a oposição de embargos de declaração.
+    Além disso, afirma que a análise da invocada ofensa ao art. 5°, X, da Constituição não demanda o reexame provas, mas apenas a sua correta valoração.
+    A Procuradoria-Geral da República manifestou-se pelo não conhecimento do agravo.
+    A pretensão recursal não merece acolhida.
+    Quanto ao fundamento da decisão agravada amparado no Tema 339 da Repercussão geral, não é cabível o agravo.
+    Com efeito, o novo Código de Processo Civil, na linha da jurisprudência anteriormente firmada pelo Supremo Tribunal Federal, afastou o cabimento de agravo contra a decisão do Tribunal de origem que aplica a sistemática da repercussão geral. Por oportuno, transcrevo o art. 1.042, caput, do CPC/2015:
+    “Art. 1.042. Cabe agravo contra decisão do presidente ou do vice-presidente do tribunal recorrido que inadmitir recurso extraordinário ou recurso especial, salvo quando fundada na aplicação de entendimento firmado em regime de repercussão geral ou em julgamento de recursos repetitivos” (grifei).
+    Nesse sentido, cito precedente do Plenário desta Corte:
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Aplicação da sistemática da repercussão geral. Agravo previsto no art. 1.042 do CPC/15 dirigido ao Supremo Tribunal Federal. Não cabimento. Questões remanescentes. Cabimento. Ausência de impugnação específica. Incidência da Súmula nº 287/STF.
+    1. Segundo o firme entendimento do Supremo Tribunal Federal, não cabe recurso dirigido ao STF contra capítulo de decisão em que se negue seguimento a recurso extraordinário com base na sistemática da repercussão geral, o qual é passível de impugnação apenas por agravo interno (art. 1.030, § 2º, do CPC/2015).
+    2. O agravo previsto no art. 1.042 do CPC/15 é cabível contra capítulo de decisão em que se negue trânsito ao recurso extraordinário por fundamento diverso da repercussão geral.
+    3. Ausência de impugnação específica dos fundamentos atinentes aos óbices descritos nas Súmulas nº 279/STF e nº 636/STF. Incidência à ofensa reflexa e da Súmula nº 287/STF.
+    4. Agravo regimental não provido” (ARE 1.210.962-AgR/SP, Rel. Min. Presidente – grifei).
+    Ademais, o recurso extraordinário não comporta admissão no tocante à arguida afronta ao art. 5°, X, da Carta Magna.
+    De fato, o Tribunal Superior Eleitoral assentou que,
+    “[n]o caso em tela, a quebra de sigilo fiscal e bancário da genitora da impetrante foi devidamente motivada em fatos concretos, a demonstrar sua imprescindibilidade ao deslinde da questão. O Ministério Público Eleitoral, subsidiado pelo conteúdo dos atos da Prestação de Contas n° 524-88.2016.6.0006, apontou a necessidade da quebra de sigilo fiscal e bancário, em razão dos indícios de que a impetrante não possuía recursos econômicos para efetuar a referida doação a candidatos.
+    3. O fato de impetrante figurar como testemunha nos autos da representação proposta contra sua filha, com quem mantinha conta bancária conjunta, não tem o condão de conferir abusividade à decisão que determinou a quebra do seu sigilo fiscal e bancário” (pág. 1 do documento eletrônico 23).
+     Nesse contexto, consoante assinalado na decisão ora agravada, para divergir do acórdão recorrido e apurar a regularidade da quebra do sigilo fiscal e bancário em discussão nestes autos, seria necessário o reexame do conjunto fático-probatório – o que é vedado pela Súmula 279/STF – e das normas infraconstitucionais aplicáveis ao caso, de modo que eventual ofensa à Constituição seria indireta. Com esse entendimento, destaco julgados do Pleno e de ambas as Turmas desta Corte:
+    “Ementa: Agravo regimental no recurso extraordinário com agravo. Direito Administrativo. Improbidade administrativa. Quebra de sigilo bancário. Fatos e provas. Reexame. Impossibilidade. Legislação infraconstitucional. Ofensa reflexa. Precedentes.
+    1. Inadmissível, em recurso extraordinário, o reexame dos fatos e das provas dos autos (Súmula nº 279/STF) e da legislação infraconstitucional.
+    2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1.021, § 4º, do CPC).
+    3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita” (ARE 1.192.772-AgR/RJ, Rel. Min. Presidente, Tribunal Pleno – grifei).
+    “Ementa: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO PROCESSUAL CIVIL. QUEBRA DE SIGILOS BANCÁRIO E FISCAL. PRÉVIA ANÁLISE DA LEGISLAÇÃO INFRACONSTITUCIONAL. AUSÊNCIA DE OFENSA CONSTITUCIONAL DIRETA. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 671.952-AgR/MG, Rel. Min. Cármen Lúcia, Segunda Turma – grifei).
+    “Ementa: DEVIDO PROCESSO LEGAL – PRESTAÇÃO JURISDICIONAL – NULIDADE – RECURSO EXTRAORDINÁRIO. Se, de um lado, é possível haver situação concreta em que transgredido o devido processo legal a ponto de enquadrar o recurso extraordinário no permissivo que lhe é próprio, de outro, descabe confundir a ausência de aperfeiçoamento da prestação jurisdicional com a entrega de forma contrária a interesses.
+    RECURSO EXTRAORDINÁRIO – MATÉRIA FÁTICA E LEGAL. O recurso extraordinário não é meio próprio ao revolvimento da prova, também não servindo à interpretação de normas estritamente legais” (RE 555.637-AgR/SE, Rel. Min. Marco Aurélio, Primeira Turma – grifei).
+    No mesmo sentido, aponto ainda os seguintes precedentes: ARE 985.826-ED-AgR/SP, Rel. Min. Gilmar Mendes; ARE 841.215-AgR/DF, Rel. Min. Luiz Fux; RE 607.194-AgR/CE, de minha relatoria; e RE 695.721-AgR/MA, Rel. Min. Dias Toffoli.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 24 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
