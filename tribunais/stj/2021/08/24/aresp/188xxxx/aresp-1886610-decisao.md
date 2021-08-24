@@ -1,0 +1,41 @@
+DECISÃO
+1. Cuida-se de agravo interposto por PETROBRAS TRANSPORTE S.A - TRANSPETRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Indenizatória por danos materiais e morais. Direito de vizinhança. Queda do muro de imóvel da ré em razão de acúmulo de água. Indicada falta de manutenção na limpeza de calhas e ausência de sistema adequado de drenagem. R. sentença de parcial procedência. Apelo só da acionada.Decisão atacada que deve ser mantida. Relatórios técnicos firmados por Órgãos da Administração Pública, cuja idoneidade não foi desconstituída. Ré que deixou de pleitear prova pericial. Danos materiais demonstrados. Ocorrência de gravames morais, arbitrados com razoabilidade. Nega-se provimento ao recurso da requerida.
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos artigos 489, § 1º, 6º, 10 e 373, inciso I, do CPC de 2015; 186, 187, 884 e 927, do CC.
+Alega, em síntese, que os danos retratados nesta demanda tratam-se de caso fortuito ou força maior, excludentes de ilicitude. Defende o não cabimento de danos morais.
+Ressalta que a parte agravada não se desincumbiu de provar o fato constitutivo de seu direito, na medida que juntaram laudos absolutamente contraditórios, produzidos pela Administração pública e não submetidos ao contraditório.
+É o relatório.DECIDO.
+2. De início,não se verifica a alegada vulneração do artigo 489, § 1º, do Código de Processo Civil de 2015, por ausência de fundamentação no acórdão, o qual apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão. Ao contrário, verifica-se mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o eventual provimento do recurso nessa parte.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 489, § 1º, IV E VI, DO CPC/2015. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. Indicação do dispositivo legal violado. Ausente. Súmula 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ .. .
+3. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1665837/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/06/2017, DJe 23/06/2017) - g.n.
+3.Em relação aos artigos 6º e10, do CPC de 2015; 187 e 884do CC, a alegação genérica de violação à lei federal, sem indicar em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+4.Amatériatratadanoartigo373, inciso I, do CPC de 2015não foiobjeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito dareferidamatériatrazidaà cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+5. Em relação às alegações relacionadas ao caso fortuito/força maior, a alegação genérica de violação à lei federal, sem indicar de forma precisa o artigo, parágrafo ou alínea, da legislação tida por violada, tampouco em que medida teria o acórdão recorrido vulnerado a lei federal, bem como em que consistiu a suposta negativa de vigência da lei e, ainda, qual seria sua correta interpretação, ensejam deficiência de fundamentação no recurso especial, inviabilizando a abertura da instância excepcional. Aplicação da Súmula n. 284/STF.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C INDENIZATÓRIA. AUSÊNCIA DE VIOLAÇÃO AO ART. 535 DO CPC. INCIDÊNCIA DAS SÚMULAS 7 e 211 DO STJ. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284 DO STF. AGRAVO NÃO PROVIDO.
+ .. .
+4. Em relação à alegação de excessivo valor da indenização e quanto ao termo inicial para correção monetária, constata-se, ao se compulsarem as razões do apelo especial, que a parte recorrente olvidou-se da indicação clara e inequívoca dos dispositivos legais direta e eventualmente violados pelo v. acórdão impugnado, o que caracteriza deficiência na fundamentação recursal, a teor da Súmula 284 do e. Supremo Tribunal Federal, in verbis: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+5. Agravo interno não provido.
+(AgInt no AREsp 972.110/PB, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 15/12/2016, DJe 02/02/2017)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO RÉU.
+1. O STJ não detém competência para apreciar afronta à norma constitucional, sob pena de usurpar a competência conferida constitucionalmente ao Supremo Tribunal Federal. Inteligência do art. 102, inciso III, da Carta Magna.
+2. Rever os fundamentos do acórdão recorrido acerca da existência de causa interruptiva da prescrição demandaria a investigação fático-probatória, providência vedada por meio do recurso especial, em razão do óbice do Enunciado 7 da Súmula desta Corte.
+3. A ausência de indicação expressa de dispositivos legais tidos por vulnerados quanto ao tema não permite verificar se a legislação federal infraconstitucional restou, ou não, malferida. Incidência da Súmula 284 do STF, por analogia.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 410.404/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 06/12/2016, DJe 14/12/2016)
+6. Por fim, com base no conjunto fático-probatório presente nos autos, o Tribunal de origem reconheceu o cabimento dos danos materiais e morais, assim consignando:
+Os danos materiais elencados na planilha de cálculo (R$ 5.870,00), fls. 39/40 mostram-se plausíveis, não tendo a acionada os impugnado pontualmente.
+Quanto à lesão anímica, inegável o transtorno ao se ter a casa inundada, desestabilizando a tranquilidade e o sossego que se espera de um lar, além da tristeza em ver os bens que a guarnecem serem danificados. Notório o abalo moral experimentado pela demandante, que prescindede comprovação e é suscetível de reparação, sendo certo que o valor fixado na r. sentença (R$ 10.000,00) atendeu os princípios da razoabilidade e proporcionalidade, sem, por outro lado, causar enriquecimento sem causa.
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+7. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
