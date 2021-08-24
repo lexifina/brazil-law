@@ -1,0 +1,41 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. IMPUGNAÇÃO NO AGRAVO REGIMENTAL. PRECLUSÃO. AGRAVO DESPROVIDO.
+1. Aplica-se a Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2. Aimpugnação dos fundamentos da decisão que inadmitiu o recurso especial deve ser realizada quando dainterposição do agravo em recurso especial, sendo inoportuna,por força do instituto da preclusão,quando efetuada nas razões do agravo regimental.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão que não conheceu do agravo em recurso especial com fundamento na Súmula 182 do STJ (fls. 497-498).
+Nas razões recursais, pondera quantoà existência de prequestionamento da matéria suscitada no recurso especial, a comprovação da divergência jurisprudencial suscitada e a não aplicabilidade da Súmula 7 do STJ.Aduzque houve impugnação específica de todos os fundamentos da decisão denegatória do recurso especial.
+Requer, pois,a reconsideração da decisão agravada e que seja conhecido e provido o recurso especial.
+O Ministério Público Federal manifesta-se pelo desprovimento doagravo regimental (fls. 518-526)
+É o relatório.
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. IMPUGNAÇÃO NO AGRAVO REGIMENTAL. PRECLUSÃO. AGRAVO DESPROVIDO.
+1. Aplica-se a Súmula n. 182 do STJ quando não há impugnação efetiva, específica e fundamentada de todos os fundamentos da decisão que inadmite recurso especial.
+2. Aimpugnação dos fundamentos da decisão que inadmitiu o recurso especial deve ser realizada quando dainterposição do agravo em recurso especial, sendo inoportuna,por força do instituto da preclusão,quando efetuada nas razões do agravo regimental.
+3. Agravo regimental desprovido.
+VOTO
+A irresignação não merece prosperar.
+O recurso especialnão foi admitido com fundamento na inexistência de prequestionamento das questões suscitadas, não comprovação da alegada divergência jurisprudencial e incidência da Súmula 7 do STJ (fls. 454-455).
+Nas razões do agravo em recurso especial (fls. 458-466), limitou-se a agravante a defender as teses de que as questões deduzidasno recurso especialnão reclamam reexame de provas e sim a sua revaloração e que não se mostrava necessária acomprovação dedissídio pretoriano. Com efeito, não foi impugnado nas razões do agravo em recurso especial, momento oportuno para tanto, ofundamentorelativoàausência de prequestionamento.
+Ressalte-se que aimpugnação dos fundamentos da decisão que inadmitiu o recurso especial deve ser realizada quando da interposição do agravo em recurso especial, sendo inadequada, por força do instituto da preclusão, quando efetuadanas razões do agravo regimental. Nesse sentido:AgRg nos EDcl no AREsp 1856037/RS, Rel. Ministro Olindo Menezes, Desembargador Convocado do TRF 1a Região, Sexta Turma,julgado em 22/06/2021, DJe 28/06/2021.
+Assim, tendo em vista que, no julgamento dos EAREsp n. 746.775, em 19/9/2018, a Corte Especial do Superior Tribunal assentou que a decisão de inadmissibilidade do recurso especial é incindível e deve ser impugnada em sua integralidade, é de rigor a manutenção da incidência, por analogia, da Súmula n. 182 do STJ, in verbis: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+Ainda que assim fosse, as questões suscitadas no recurso especial, a saber, violação do arts. 17 do CP e 386, V e VII, do CPP, diante da ausência de provas que justificasse a condenação do réu, não propiciaria o conhecimento do apelo. No acórdão recorrido (fls. 387-397), decidiu-se, com base nos elementos probatórios colacionados, consistentes depoimentos de testemunhas, boletim de ocorrência, autos de exibição e apreensão, certidão de óbito e laudos periciais, pelacondenação do réu pelo crime de homicídio culposo. Observe-se (fls. 392-395)
+Diante das provas dos autos, a condenação é medida de rigor.
+Ora, os depoimentos das testemunhas, acrescidos do boletim de ocorrência (fls. 04/06), do Auto de Exibição e Apreensão(fls. 07), do Laudo Necroscópico (fls. 44/55), da Certidão de Óbito(fls. 59) e dos Laudos Periciais (fls. 69/78 e 91/92) servem como prova cabal da materialidade delitiva e também se constituem em importantes elementos de prova para a definição da autoria e formação do juízo de culpabilidade.
+Registre-se que o policial militar Idelbrando José dos Santos confirmou que foi acionado a comparecer no local do acidente, onde encontrou a vítima morta. Disse que o réu havia fugido do local. Por fim, contou que tomou conhecimento que o motociclista trafegava pela via, quando o automóvel do acusado, em alta velocidade, chocou-se contra ele (fls. mídia).
+A testemunha Luciano da Silva Lopes declarou que morava em frente ao local em que ocorreu o acidente, momento em que estava sentado defronte sua residência quando notou ambos os veículos subindo pela avenida. A motocicleta, pelo lado direito, e o carro, em alta velocidade, na traseira daquele, quando ouviu acolisão, afirmando que a vítima foi arremessada. Quando se aproximou, percebeu que a vítima estava desacordada e sem perna, e que o acusado havia fugido (fls. 08 e mídia digital).
+O informante Antônio Mendes da Silva, ouvido em Juízo, afirmou ter recebido um telefonema do acusado, chorando, dizendo que havia se envolvido em um acidente. Assim que chegou ao local, a vítima já havia falecido (fls. mídia).
+As testemunhas Nailda Dias dos Santos e Marília Nunes da Silva, arroladas pela defesa, não possuíam conhecimento a respeito dos fatos (fls. mídia).
+Desta feita, não há dúvida de que o réu, ao contrário do que aponta a defesa, conduzia o seu veículo, por ocasião do acidente, em alta velocidade, como mencionado pela prova oral, de modo que agiu com culpa, na modalidade imprudência, que consistiu em efetuar ultrapassagem da motocicleta em alta velocidade, momento em que ocorreu a colisão e a morte da vítima.
+Com efeito, o acusado conduzia seu automóvel em velocidade incompatível, conforme o croqui de fls. 78, o qual demonstrou ter sido a vítima arremessada a uma distância de vinte metros. Se não bastasse, o automóvel em que estava o recorrido somente teve sua trajetória interrompida a cinquenta metros do local da colisão e, isso, em razão de ter se chocado com árvore situada no canteiro central da via.
+(..)
+Ademais, é inquestionável que entre o acidente de trânsito e o óbito existe a necessária relação de causa e efeito. Como é cediço, o sistema criminal brasileiro adota a teoria da equivalência dos antecedentes ou da condictio sine qua non, não distinguindo entre condição e causa, considerada esta como toda ação ou omissão sem a qual o resultado não teria ocorrido. E, no caso concreto dos autos, não há a menor dúvida de que a conditio sine qua non do óbito de Cláudio Roberto Pereira foi o acidente provocado pelo réu.
+Bem evidenciados, portanto, a culpa do réu Dalberto Mendes da Silva e o nexo de causalidade existente entre o acidente por ele provocado e o óbito da vítima, não há que se falar em absolvição por fragilidade do conjunto probatório. Ao contrário, o quadro probatório convence que o apelado, realmente, cometeu o crime de homicídio culposo, o que impõe sua condenação.
+Nesse cenário,concluir pela inexistência de provasque justifiquem a condenação e, por conseguinte, pela violação dosarts. 17 do CP e 386, V e VII, do CPP, é necessário o reexame do contexto probatório considerado para a resolução da controvérsia, procedimento defeso na via do recuso especial, conforme dispõe a Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
