@@ -1,0 +1,18 @@
+DECISÃO
+DILAN PINHEIRO DE CASTROalega sofrer constrangimento ilegal em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no Agravo em Execução n. 0006079-37.2021.8.26.0041
+A defesa alegaque o denominado tráfico privilegiado não deve ser considerado como crime equiparado a hediondo, a fim de configurar a reincidência específica como impeditivo da aquisição do livramento condicional.
+Requera retificação do cálculo penal do apenado, a fim de que não conste em seu registro a condição de reincidente específico no crime de tráfico de drogas.
+Instado a se manifestar, o Ministério Público Federal opinou pela concessão da ordem.
+Decido.
+Depreende-se dos autos que o paciente cumpria pena pelo crime de tráfico privilegiado quando condenado pelo delito de tráfico de drogas, o que levou o Juízo da execução, ao reconhecer a reincidência específica do condenado, a promover a retificação dos cálculos das penas e, com isso, negar-lhe o benefício do livramento condicional.
+A Corte local assim decidiu a questão (fl. 134):
+ .. embora o sentenciado tenha sido agraciado com a referida causa especial de redução de pena na condenação anterior, restou caracterizada a sua reincidência específica no crime de tráfico de drogas, situação que caracteriza impedimento legal ao benefício do livramento condicional, a teor das normas contidas no artigo 83, inciso V, do Código Penal, e no artigo 44, parágrafo único, da Lei de Drogas.
+De acordo com a jurisprudência da Terceira Seção deste Superior Tribunal, o tráfico ilícito de drogas com incidência de causa de diminuição da pena (art. 33, § 4º, da Lei n. 11.343/2006) não possui natureza equiparada a hedionda e, portanto, não equivale ao crime previsto no caput do artigo.
+O entendimento foi firmado no julgamento da Pet n. 11.796/DF, recurso representativo da controvérsia (Tema 600).
+O Tribunal Pleno do Supremo Tribunal Federal assinalou que"o tráfico de entorpecentes privilegiado (art. 33, § 4º, da Lei n. 11.313/2006) não se harmoniza com a hediondez do tráfico de entorpecentes definido no caput e § 1º do art. 33 da Lei de Tóxicos (HC n. 118.533/MS, Ministra Carmen Lúcia, DJe 29/7/2016).
+O aresto impugnado está em confronto com a jurisprudência deste Superior Tribunal, de que"O sentenciado condenado, primeiramente, por tráfico privilegiado (art. 33, § 4º, da Lei n.º 11.343/2006) e, posteriormente, pelo crime previsto no caput do art. 33 da Lei n.º 11.343/2006, não é reincidente específico" (HC n. 419.974/SP, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/6/2018, destaquei).
+Confira-se: "Esta Corte Superior de Justiça consolidou entendimento no sentido de afastar a reincidência específica em relação ao tráfico privilegiado e o tráfico previsto no caput do art. 33 da Lei de Drogas" (HC n. 530.914/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 24/9/2019).
+Com as recentes inovações incluídas pela Lei n. 13.964/2019, o nosso ordenamento jurídico passou a prever, expressamente, no art. 112, § 5º, da LEP, que "não se considera hediondo ou equiparado, para os fins deste artigo, o crime de tráfico de drogas previsto no § 4º do art. 33 da Lei n. 11.343, de 23 de agosto de 2006".
+À vista do exposto, concedo a ordem do habeas corpuspara reconhecer a natureza comum do crime de tráfico com incidência do art. 33, § 4º, da Lei n. 11.343/2006 e estabelecer que o registro criminal não pode ser utilizado para fins de reconhecimento da reincidência específica em crimes hediondos ou a ele equiparados.
+Em consequência, determino ao Juízo das Execuções a retificação dos cálculos penais do paciente.
+Publique-se e intimem-se.
