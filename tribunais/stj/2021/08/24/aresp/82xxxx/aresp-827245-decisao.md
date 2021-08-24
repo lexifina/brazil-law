@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo FUNDO ÚNICO DE PREVIDÊNCIA SOCIAL DO ESTADO DO RIO DE JANEIRO - RIOPREVIDÊNCIAcontra acórdão do TJRJ, assim ementado (e-STJ fl. 201):
+AGRAVO INTERNO NA APELAÇÃO CÍVEL. PENSÃO POR MORTE. HABILITAÇÃO DE COMPANHEIRA. PONTO CONTROVERTIDO. DEVIDO PROCESSO LEGAL. A INSTRUÇÃO DO PROCESSO DEVE SER EFETUADA DE FORMA A PERMITIR QUE AS PARTES PROVEM SUAS ALEGAÇÕES, A FIM DE BUSCAR A VERDADE PROCESSUAL. O ENCERRAMENTO PREMATURO DO PROCESSO, QUANDO HAVIA MANIFESTAÇÃO DA PARTE ACERCA DA NECESSIDADE DA REALIZAÇÃO DA PROVA TESTEMUNHAL. EVIDENTE CERCEAMENTO DE DEFESA, CONFIGURANDO ERROR IN PROCEDENDO, QUE ENSEJA A CASSAÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+Após oposição de embargos de declaração (e-STJ fls. 206/209), o julgado foi mantido (e-STJ fls. 213/218).
+Defende o ente público, preliminarmente, violação do art. 535, II, do CPC/73. No mérito, aponta contrariedade aos arts. 183, 245, 330, I; 333, I; e 473, todos do CPC/1973.
+O recurso foi inadmitido na origem, tendo o ente público interposto agravo contra a decisão (e-STJ fls. 243/255).
+Passo a decidir.
+Uma vez que as razões as quais ensejaram a inadmissão do apelo especial foram devidamente enfrentadas no recurso de e-STJ fls. 243/255, conheço do recurso especial, passando ao exame do seu mérito.
+Em primeiro lugar, registro que não há violação do art. 535 do CPC/1973 (1.022 do CPC/2015) quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+É o caso dos autos.
+O decisum se manifestou expressamente sobre a questão controvertida (anulação da sentença por cerceamento do direito de defesa da parte autora), rejeitando, ainda que por lógica (tacitamente), os fundamentos da parte recorrente.
+O que queria a embargante era rediscutir o mérito da decisão no trecho em que lhe foi desfavorável, nãose prestando os aclaratórios a essa função.
+Aliás, a tese do ente público de que já havia precluído o direito de alegar cerceamento de defesa, porque não teria sido interposto agravo retido na origem, só foi apresentada em sede de embargos de declaração, quando o Tribunal já havia apreciado a matéria de fundo em duas oportunidades (monocrática e coletivamente).
+Assim, não se pode falar em omissão de tese jurídica não defendida em momento próprio.
+Além disso, o magistrado não está obrigado a responder a todas as alegações das partes,tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido: AgRg no AREsp 163.417/AL, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 29.9.2014.
+No mérito em si, entendo que o recurso não deve ser conhecido.
+Verifica-se que não houve prequestionamento dos arts. 183, 245 e 473, pelo que aplicável a Súmula211 deste Tribunal.
+Observe-se que "não configura impropriedade afirmar a falta de prequestionamento da matéria e afastar indicação de afronta ao art. 535 do CPC/73, uma vez que é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos desejados pela postulante, pois a tal não está o magistrado obrigado" (AgInt no REsp 1442970/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 18/02/2020, DJe 02/03/2020).
+Nesse mesmo sentido: STJ, AgRg no REsp 1.181.095/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe de 29/10/2014; AgRg no AREsp 508.461/SC, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe de 16/10/2014.
+Quanto aos arts. 330, I, e 333, I, avaliar se o indeferimento de prova produziu ou não cerceamento ao direito de defesa implicaria revolver matéria fático-probatória, o que é inviável nos termos da Súmula 7 desta Corte.
+Observe-se que o juízo de origem, no ponto, esmiuçou particularidades do caso, que só poderiam ser revistas se, como dito, revolvêssemos fatos e provas. Vejamos (e-STJ fl. 203):
+No exame dos autos, constata-se a existência de cerceamento de defesa, tendo em vista que a apelante apresentou seu requerimento de provas à fl. 99, prova esta deferida através da decisão saneadora de fl. 101, que, inclusive, designou Audiência de Instrução e Julgamento, tendo a recorrente apresentado seu rol de testemunhas à fl. 102.
+No dia da Audiência de Instrução e Julgamento tendo as partes e seus patronos comparecido à mesma, o douto Magistrado a quo, sem ouvir as partes, reconsiderou a decisão saneadora e indeferiu a produção de prova testemunhal por entender ser a mesma irrelevante para a solução da lide (fl. 115) e prolatou a sentença constante de fls. 116/118, julgando improcedente o pedido autoral por ausência de comprovação do fato constitutivo do seu direito.
+Destarte, tendo a autora protestado pela oitiva de testemunhas a fim de corroborar as alegações contidas em sua peça inicial, mais precisamente da convivência marital com o ex-servidor falecido, não poderia o Juízo a quo depois de deferi-la, voltar atrás em sua decisão, em plena audiência e depois julgar improcedente o pedido por falta de produção de prova de fato constitutivo de seu direito. Houve, portanto, flagrante violação.
+Ante o exposto, CONHEÇO EM PARTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Publique-se. Intimem-se.
