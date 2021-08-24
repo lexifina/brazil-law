@@ -1,0 +1,43 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial na Apelação Cível n. 1045357-79.2020.8.11.0041
+RECORRENTE: UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO
+RECORRIDO: MARY CALIX NACHIF
+Vistos.
+Trata-se de recurso especial interposto por UNIMED CUIABÁ COOPERATIVA DE TRABALHO MÉDICO com fundamento no artigo 105, inciso III, alínea “a” da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado, assim ementado (id 89763495):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS – PLANO DE SAÚDE – PRESCRIÇÃO MÉDICA PARA TRATAMENTO DOMICILIAR “HOME CARE” – NEGATIVA DE COBERTURA - ATO ILÍCITO – DANO MORAL – AFASTADO - SENTENÇA PARCIALMENTE REFORMADA - RECURSO PARCIALMENTE PROVIDO. I – Havendo prescrição do médico responsável pelo tratamento do paciente, como no caso dos autos, recomendando, expressamente, o atendimento em regime domiciliar (home care) como o meio mais adequado para as condições de saúde apresentadas pelo paciente, a sua cobertura pelo plano de saúde, independentemente de não constar no rol de procedimentos estabelecido pela Agência Nacional de Saúde Suplementar – ANS, se mostra devida. II - Também, melhor sorte não socorre à ré, ora apelante, quanto sua alegação de que a autora, ora apelada, não necessita de um técnico em enfermagem pelo período de 24 horas, haja vista que, como reiteradamente é decidido por esta Câmara, cabe ao médico assistente do paciente, e não à operadora de plano de saúde, direcionar e escolher o melhor tratamento médico. III - Logo, havendo prescrição do médico assistente da autora, ora apelada, consignando expressamente a necessidade de um técnico de enfermagem para cuidados pelo período de 24 horas, não compete à ré, ora apelante, discutir a pertinência da sua prescrição. IV - Já no que tange ser indevida a indenização por danos morais, assiste razão à ré, ora apelante, eis que, em que pese o dissabor sofrido pela autora, ora apelada, e seus familiares em razão do impasse quanto à cobertura de seu tratamento nos moldes pretendidos, o que se extrai dos autos é que o comportamento da ré, ora apelante, neste ponto se pautou pela crença de que o contrato firmado amparava tal conduta. V - Assim, tendo em conta que a recusa na autorização do tratamento prescrito é proveniente de dúvida razoável na interpretação de cláusula contratual, o que, não caracteriza o dano moral, e, observado que a autora, ora apelada, não demonstrou a violação à sua imagem, à sua intimidade ou à sua honra (art. 5o, V e X, da CF/88), a condenação imposta pela Juíza sentenciante deve ser afastada.
+(TJ-MT 10453577920208110041 MT, Relator: SERLY MARCONDES ALVES, Data de Julgamento: 23/06/2021, Quarta Câmara de Direito Privado, Data de Publicação: 23/06/2021)
+O presente recurso foi interposto contra o acórdão proferido em sede de apelação, interposta por Unimed Cuiabá Cooperativa de Trabalho Médico, que deu parcial provimento ao recurso para afastar a condenação ao pagamento de indenização por danos morais.
+A parte recorrente alega a violação aos artigos 10, inciso VI e § 4o da Lei 9.656/98 e artigos 421 e 422 do Código Civil, ao argumento de que é legítima a recusa de custeio do home care, uma vez que não há previsão contratual de cobertura do serviço que, conforme o rol da ANS, também não é obrigatório.
+Recurso tempestivo (id 94328956) e preparado (id 94296978).
+Contrarrazões apresentadas (id 96198950).
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos
+De início, não restou verificada a existência, no Superior Tribunal de Justiça, de tema que se relativo às questões objeto deste recurso, de forma que não há aplicação da sistemática de recursos repetitivos, razão pela qual não incide, na espécie, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Feitas essas considerações, passo ao exame dos demais pressupostos de admissibilidade.
+Decisão em conformidade com o STJ (Súmula 83 do STJ)
+A Súmula 83 do STJ dispõe que “não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida”.
+In casu, a alegada violação aos artigos 10, inciso VI e § 4o da Lei 9.656/98 e artigos 421 e 422 do Código Civil está amparada na assertiva de que é legítima a recusa de custeio do serviço de home care, uma vez que não há previsão contratual de cobertura do serviço que, conforme o rol da ANS, também não é obrigatório.
+Neste ponto, consignou-se no acórdão recorrido:
+“(...) havendo prescrição do médico responsável pelo tratamento do paciente, como no caso dos autos (id. 86910958), recomendando, expressamente, o atendimento em regime domiciliar (home care) como o meio mais adequado para as condições de saúde apresentadas pelo paciente, a sua cobertura pelo plano de saúde, independentemente de não constar no rol de procedimentos estabelecido pela Agência Nacional de Saúde Suplementar – ANS, se mostra devida.
+(...)
+Também, melhor sorte não socorre à ré, ora apelante, quanto sua alegação de que a autora, ora apelada, não necessita de um técnico em enfermagem pelo período de 24 horas, haja vista que, como reiteradamente é decidido por esta Câmara, cabe ao médico assistente do paciente, e não à operadora de plano de saúde, direcionar e escolher o melhor tratamento médico.
+Logo, havendo prescrição do médico assistente da autora, ora apelada (id. 86910958), consignando expressamente a necessidade de um técnico de enfermagem para cuidados pelo período de 24 horas, não compete à ré, ora apelante, discutir a pertinência da sua prescrição. (...)” (g.n)
+Verifica-se que o entendimento adotado pelo órgão fracionário deste Tribunal está em consonância com a jurisprudência pacífica do STJ, conforme se extrai do seguinte julgado:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMPESTIVIDADE. COMPROVAÇÃO DA SUSPENSÃO DO PRAZO NO ATO DA INTERPOSIÇÃO RECURSAL. OCORRÊNCIA. PLANO DE SAÚDE. PRESTAÇÃO DE SERVIÇO HOME CARE. TRATAMENTO PRESCRITO POR PROFISSIONAL HABILITADO. RECUSA INDEVIDA. INCIDÊNCIA DA SÚMULA 83/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO. 1. Agravo interno contra decisão da Presidência que não conheceu do agravo em recurso especial, por intempestividade. Reconsideração. 2. De acordo com a orientação jurisprudencial do STJ, o plano de saúde pode estabelecer as doenças que terão cobertura, mas não o tratamento, sendo abusiva a cláusula contratual que exclui tratamento domiciliar quando essencial para garantir a saúde ou a vida do segurado, como no caso em questão. 3. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial.
+(STJ - AgInt no AREsp: 1362837 SP 2018/0236645-0, Relator: Ministro RAUL ARAÚJO, Data de Julgamento: 20/08/2019, T4 - QUARTA TURMA, Data de Publicação: DJe 09/09/2019) (g.n)
+Com efeito, a destacada súmula deve ser aplicada quanto à afronta alegada, eis que os fundamentos do acórdão recorrido estão em sintonia com o pacífico entendimento do STJ.
+Além disso, destaca-se que, a aplicabilidade do enunciado da Súmula 83 do STJ não se restringe aos recursos interpostos com fundamento no permissivo constitucional da alínea “c” do artigo 105, III, da CF, eis que é pacífico o entendimento de que se aplica a ambas as alíneas “a” e “c”.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. FUNDAMENTOS DA DECISÃO AGRAVADA. AUSÊNCIA DE IMPUGNAÇÃO. ARTIGO 932, INCISO III, DO CÓDIGO DE PROCESSO CIVIL DE 2015. JURISPRUDÊNCIA CONSOLIDADA. SÚMULA No 83/STJ. APLICABILIDADE. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nos 2 e 3/STJ). 2. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o disposto no art. 932, inciso III, do Código de Processo Civil de 2015. 3. É pacífico o entendimento do Superior Tribunal de Justiça de que a Súmula no 83/STJ se aplica a ambas as alíneas ("a" e "c") do permissivo constitucional. Precedentes. 4. Agravo interno não provido.
+(STJ - AgInt no AREsp: 1517429 RJ 2019/0159288-9, Relator: Ministro RICARDO VILLAS BÔAS CUEVA, Data de Julgamento: 28/09/2020, T3 - TERCEIRA TURMA, Data de Publicação: DJe 01/10/2020) (g.n)
+A partir dessas premissas, inviável a admissão do recurso.
+Ante o exposto, nego seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
