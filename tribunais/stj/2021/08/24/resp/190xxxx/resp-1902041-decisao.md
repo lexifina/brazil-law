@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo BANCO DO BRASIL S.A., com fulcro nas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOSassim ementado (e-STJ fl. 105):
+APELAÇÃO CÍVEL. INDENIZAÇÃO POR DANOS MATERIAIS. PASEP. CONTA INDIVIDUAL. INDEFERIMENTO DA PETIÇÃO INICIAL. LEGITIMIDADE PASSIVA.
+I - O Banco do Brasil S/A, como depositário e administrador das contas individuais do Pasep, possui legitimidade passiva para figurar em demanda na qual se postula danos materiais decorrentes da alegada má gestão do saldo pertencente à parte autora, especificamente quanto à suposta incorreção na aplicação de índices de juros e de correção monetária.
+II - Apelação provida.
+Nas suas razões, a parte recorrente defende a sua ilegitimidade passiva ad causam, aponta violação do art. 5º da Lei Complementar n. 8/1970, dos arts. 3º, 4º e 12 do Decreto n. 9.978/2019, do art. 4º-A da Lei n. 9.365/1996 e suscita divergência jurisprudencial.
+Contrarrazões às e-STJ fls. 189/195.
+Juízo positivo de admissibilidade pelo Tribunal a quo (e-STJ fls. 198/199).
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+No caso concreto, a instância anterior dirimiu a questão nos termos da seguinte motivação (e-STJ fls. 107/108):
+A pretensão deduzida nos autos está fundamentada no suposto descumprimento, por parte do Banco do Brasil S/A, das normas referentes aos juros e à atualização monetária do saldo das contas do Programa de Formação do Patrimônio do Servidor Público - Pasep, apto a configurar a responsabilidade objetiva da instituição financeira, "pela má gestão e má administração das cotas depositadas em favor dos beneficiários do programa" (id. 16393362, pág. 9).
+Depreende-se, portanto, que o apelante-autor não requer acréscimos no seu saldo por eventual atuação equivocada do Conselho Diretor do Pasep, mas sim a restituição dos valores supostamente desfalcados da sua conta individual, decorrentes da alegada aplicação incorreta dos índices de juros e de atualização monetária legalmente definidos.
+Consoante a teoria da asserção, as condições da ação são aferidas à luz dos fatos narrados na petição inicial; logo, conclui-se que elas estão presentes, pois há relação entre os fatos apresentados e a atribuição do Banco-apelado na administração das contas do Pasep.
+Nesse sentido, a jurisprudência deste e. TJDFT:
+"CIVIL, PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. PRETENSÃO DE REPARAÇÃO MORAL E MATERIAL. PASEP. MILITAR. TRANSFERÊNCIA À RESERVA. ALEGAÇÃO DE MÁ GESTÃO DOS VALORES VERTIDOS Á CONTA VINCULADA. SALDO A MENOR. LEGITIMIDADE PASSIVA DO BANCO DO BRASIL.
+ ..
+2. A União é parte legítima para figurar no pólo passivo de demanda que tenha como objetivo discutir a correção monetária aplicável às contas referentes ao Fundo de Participação PIS /PASEP, porquanto a gestão dos fundos compete ao Conselho Diretor designado pelo Ministério da Fazenda. De outro lado, quando a causa de pedir que alicerça o pedido autoral diz respeito apenas à má gestão dos valores depositados na conta, há de ser reconhecida a legitimidade passiva do Banco do Brasil, instituição que administra aludido quantum.
+3. Recurso conhecido e provido." (Acórdão 1217233, 07002375720198070001, Relator: CARLOS RODRIGUES, 1ª Turma Cível, data de julgamento: 20/11/2019, publicado no PJe: 3/12/2019. Pág.: Sem Página Cadastrada., grifo nosso).
+"INDENIZATÓRIA. PASEP. BANCO DO BRASIL. SUPOSTA FALHA NA PRESTAÇÃO DE SERVIÇOS. LEGITIMIDADE PASSIVA AD CAUSAM.
+O Banco do Brasil tem legitimidade para figurar no polo passivo da demanda indenizatória motivada por falha na prestação do serviço, decorrente de alegada má gestão da conta individualizada do Programa PASEP." (Acórdão 1210612, 07013901020198070007, Relator: FERNANDO HABIBE, 4ª Turma Cível, data de julgamento: 16/10/2019, publicado no DJE: 4/11/2019. Pág.: Sem Página Cadastrada., grifo nosso).
+"APELAÇÃO. PROCESSO CIVIL. LEGITIMIDADE. BANCO DO BRASIL. FALHA NA PRESTAÇÃO DE SERVIÇO. ADMINISTRAÇÃO DOS VALORES VERTIDOS PARA O PASEP.
+O Banco do Brasil é parte legítima para figurar no polo passivo de ação em que discute sobre eventual falha na prestação do serviço na administração do PASEP. Precedentes." (Acórdão n.1180165, 07118473220188070009, Relator: ESDRAS NEVES 6ª Turma Cível, Data de Julgamento: 19/06/2019, Publicado no DJE: 26/06/2019. Pág.: Sem Página Cadastrada., grifo nosso).
+Em conclusão, constatada a legitimidade passiva do Banco-apelado, deve o processo retornar ao Primeiro Grau para regular prosseguimento da ação, não é hipótese de aplicação do art. 1.013, § 3º, inc. I, do CPC, por se tratar de de indeferimento liminar da petição inicial, art. 331, § 2º, do CPC.
+Isso posto, conheço da apelação do autor e dou provimento para reformar a r. sentença, reconhecer a legitimidade passiva do Banco do Brasil S/A e determinar o retorno dos autos ao Primeiro Grau para regular prosseguimento da ação.
+Como se vê, os arts. 3º, 4º e 12 do Decreto n. 9.978/2019 e o art. 4º- A da Lei n. 9.365/1996 não foram alvo de debate no julgado impugnado, nem foram opostos embargos de declaração na origem, o que denota a falta do indispensável prequestionamento e faz incidir in casu, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Não bastasse isso, em face das premissas fáticas assentadas no acórdão objurgado, a modificação do entendimento firmado pelas instâncias ordinárias, no sentido da legitimidade passiva da recorrente, demandaria induvidosamente o reexame de todo material cognitivo produzido nos autos, providência incompatível com a via especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECLUSÃO. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. ILEGITIMIDADE PASSIVA. QUESTÃO DECIDIDA PELO TRIBUNAL DE ORIGEM COM BASE NO SUPORTE FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE DE ALTERAÇÃO DO JULGADO. CONTRARIEDADE A PRINCÍPIOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME EM RECURSO ESPECIAL. AGRAVO INTERNO DO PARTICULAR DESPROVIDO.
+1. A decisão agravada encontra-se em consonância com a jurisprudência desta Corte no sentido de reconhecer a preclusão consumativa quando a matéria for deduzida e apreciada em julgamento anterior de exceção de pré-executividade.
+2. Análise da controvérsia referente à alegada ilegitimidade passiva do Agravante para figurar no feito, demanda, necessariamente, o reexame de matéria fática-probatória constante dos autos, o que é inviável em sede de Recurso Especial.
+3. Não cabe ao STJ, em sede de Recurso Especial, conhecer da alegada ofensa de princípios constitucionais (REsp. 1.240.170/PR, Rel. Min. MAURO CAMPBELL MARQUES, DJe 15.4.2011).
+4. Agravo Interno do Particular desprovido. (AgInt no REsp 1.619.924/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 20/06/2017, DJe 28/06/2017).
+Por fim, resta prejudicada a análise da divergência jurisprudencial quando a tese sustentada esbarra em óbice sumular quando do exame do recurso especial pela alínea "a" do permissivo constitucional (AgRg no AREsp 278.133/RJ, Rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 16/09/2014, DJe 24/09/2014).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
