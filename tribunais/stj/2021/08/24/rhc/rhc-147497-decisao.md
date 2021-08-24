@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso emhabeas corpusinterposto por THIAGO COSTA DIAScontra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAISassim ementado (fl. 190):
+HABEAS CORPUS-POSSE ILEGAL DE ARMA DE FOGO COM NUMERAÇÃO SUPRIMIDA - POSSE DE DROGA PARA CONSUMO PESSOAL - SUBSTITUIÇÃO DO CÁRCERE EM RAZÃO DA PANDEMIA DA COVID-19 - SUPRESSÃO DE INSTÂNCIA -NÃO CONHECIMENTO - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA -GARANTIA DA ORDEM PÚBLICA - PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA OBSERVADO -APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO E EXPECTATIVA DE PENA MAIS BRANDA - INVIABILIDADE - CONDIÇÕES SUBJETIVAS FAVORÁVEIS -IRRELEVÂNCIA - CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. - A pretensão de substituição do cárcere em razão da pandemia da Covid-19 não deve ser apreciada por este Egrégio Tribunal sem que haja análise prévia do d. Juízo singular, mais próximo do quadro de saúde regional. -Se a decisão que decretou a prisão preventiva faz referência à situação fático-jurídica que motiva a custódia cautelar do paciente e encontra-se devidamente amparada no fumus comissi delicti e periculum libertatis, este consubstanciado pela garantia da ordem pública, fundamentada está, o tanto quanto necessário, à luz da Constituição da República. -Inexiste, nas hipóteses da prisão preventiva, prejuízo ao princípio da presunção de inocência, quando presentes os requisitos autorizadores da medida cautelar. - Não há que se falar em concessão de liberdade provisória com aplicação de medidas cautelares diversas da prisão, quando a segregação provisória do paciente mostra-se indispensável a atender o princípio da necessidade. - Inviável conceder liberdade, in casu, com base na expectativa de pena futura, uma vez que não há como antever, neste momento, quais seriam os limites da provável sentença condenatória. - Somente condições subjetivas favoráveis não permitem a revogação do decreto da prisão preventiva.
+O recorrente teve sua prisão em flagrante convertida empreventiva pela suposta prática dos delitodescritono art. 15, § 1º, IV, da Lei n. 10.826/2003, c/c o art. 28 da Lei n. 11.343/2006.
+Alega que o decreto prisional carece de fundamentação concreta e que os requisitos autorizadores da segregação cautelar estão ausentes.
+Salienta tratar-se de réu primário e argumenta a substituição da prisão por medidas cautelares diversas.
+Ademais, discorre acerca da pandemia de covid-19 e defende a observância da RecomendaçãoCNJ n. 62/2020
+Requer, ao final, a concessão de liberdade provisória, com ou sem aplicação de medidas cautelares diversas da prisão, ou a substituição da prisão preventiva por domiciliar.
+O pedido de liminar foi indeferido às fls. 218-219.
+É o relatório. Decido.
+Segundo as informações fornecidas (fls. 223-227), os autos na origem foram redistribuídosà5ª Vara Criminal da Comarca de Belo Horizonte.
+Em consulta ao site do Tribunal de origem (Processo n. 5050124-55.2021.8.13.0024 - primeirainstância), constata-se que, em 12/5/2021, foi concedida a liberdade provisória ao recorrente, mediante pagamento de fiança, tendo sido o alvará de solturaexpedido e cumprido.
+Assim, este feito não possui mais objeto.
+Ante o exposto, com fundamento no art. 34, XVIII, a, do RISTJ, julgo prejudicado o recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
