@@ -1,0 +1,57 @@
+EMENTA
+PENAL MILITAR. AGRAVO REGIMENTAL NO HABEAS CORPUS. CORRUPÇÃO PASSIVA. POLICIAL MILITAR. RECEBIMENTO DE VANTAGENS INDEVIDAS DE DIVERSOS INTEGRANTES DA FACÇÃO CRIMINOSA COMANDO VERMELHO. REPASSE DE INFORMAÇÕES A RESPEITO DE DATAS, HORÁRIOS E LOCAIS DE OPERAÇÕES POLICIAIS DO BOPE. CONTINUIDADE DELITIVA. PRINCÍPIO DA ESPECIALIDADE. NÃO APLICAÇÃO DO ART. 71 DO CÓDIGO PENAL. APLICAÇÃO DO CÓDIGO PENAL MILITAR.
+1. "O entendimento adotado pelo Tribunal de origem encontra-se no mesmo sentido da jurisprudência desta Corte Superior e do Supremo Tribunal Federal de que, em observância ao princípio da especialidade, não se aplica o art. 71 do Código Penal nos casos de continuidade delitiva de crimes militares, devendo ser aplicadas as regras previstas nos artigos 79 e 80 do Código Penal Militar" (AgRg no REsp n. 1.554.479/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/5/2017, DJe 5/5/2017).
+2. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, prosseguindo no julgamento após o voto-vista do Sr. Ministro Sebastião Reis Júnior acompanhando o Sr. Ministro Relator, sendo seguido pelos Srs. Ministros Rogerio SChietti Cruz, Antonio Saldanha Palheiro e Laurita Vaz, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental manejado contra decisão que denegou a ordem de habeas corpus.
+Consta dos autos que o agravante foi condenado, como incurso nas sanções do art. 308, caput e § 1º, por dez vezes, c/c o art. 70, II, "g", ambos do Código Penal Militar, à pena de 80 anos de reclusão, no regime inicial fechado.
+O Tribunal de origem negou provimento ao apelo defensivo e proveu o da acusação nos termos da seguinte ementa (e-STJ fls. 58/59):
+Apelação Criminal. Corrupção Passiva.
+Código Penal Militar. Narra a denúncia que os Réus, todos PMs, sendo a maioria lotada, na época, no BOPE, teriam recebido vantagens indevidas de diversos integrantes da facção criminosa Comando Vermelho, responsáveis por grande parte do tráfico de drogas e armas de fogo no Estado do Rio de Janeiro, em troca de repasse de informações a respeito de data, horário e locais em que seriam realizadas as operações policiais desse Especial Batalhão.
+A vil e criminosa conduta seria remunerada pelos traficantes por meio de repasse de valores semanais, que variavam de R$ 2.000,00 a R$ 10.000,00.
+Autoria e materialidade do delito devidamente comprovadas nos autos. As provas obtidas por meio das interceptações telefônicas, ações de vigilância, buscas e apreensões feitas nas residências e locais onde os acusados trabalhavam, bem como as provas orais produzidas em Juízo, comprovam a participação dos Réus na prática do delito, restando claro que competia a Felizardo a função de chefiar o esquema criminoso.
+Pontue-se que o mesmo acervo probatório comprova a participação do Corréu Rodrigo na ação criminosa. NEGA-SE PROVIMENTO AO APELO DEFENSIVO E SE DÁ PROVIMENTO PARCIAL AO MINISTERIAL, a fim de condenar o Réu Rodrigo nas penas dos arts. 308, §1º, por 06 vezes, c/c 70, II, "l", na forma do 80, todos do Código Penal Militar. Decreta-se, em favor da Fazenda Nacional, a perda dos valores arrecadados, em espécie, na posse dos Réus, quando do cumprimento dos mandados de busca e apreensão, na forma que autorizam os arts. 109, II, "b", do CPM e 91, II, do CP, eis que restou incontroverso que foram auferidos pelos agentes com a prática do fato criminoso.
+Perante o Superior Tribunal de Justiça a defesa sustentou que, na dosimetria da pena, "a regra a ser aplicada há de ser a do artigo 71 do Código Penal, seja por política criminal, seja porquanto inconstitucional a norma prevista no artigo 80 do Código de Processo Penal, visto que estipula, indiretamente, uma pena de prisão perpetua" (e-STJ fl. 5).
+Às e-STJ fls. 114/116, este relator denegou a ordem.
+No presente agravo, alega a defesa que a decisão agravada incorreu em equívoco quando deixou de aplicar a regra relativa ao concurso de crimes prevista no Código Penal ao delito militar.
+Requer a reconsideração da decisão agravada ou, caso contrário, a submissão da matéria ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não pode prosperar, uma vez que a decisão recorrida não merece reparos.
+Conforme consignado na decisão agravada, "o entendimento adotado pelo Tribunal de origem encontra-se no mesmo sentido da jurisprudência desta Corte Superior e do Supremo Tribunal Federal de que, em observância ao princípio da especialidade, não se aplica o art. 71 do Código Penal nos casos de continuidade delitiva de crimes militares, devendo ser aplicadas as regras previstas nos artigos 79 e 80 do Código Penal Militar. (AgRg no REsp 1.554.479/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/05/2017, DJe 05/05/2017)".
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIME MILITAR. CONCUSSÃO E EXTORSÃO EM CONCURSO DE PESSOAS. AUSÊNCIA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. PRETENSÃO DE ABSOLVIÇÃO. REEXAME FÁTICO-PROBATÓRIO. DOSIMETRIA. APLICAÇÃO DO ART. 70, II, "l", do CPM NO DELITO DE CONCUSSÃO. BIS IN IDEM. NÃO OCORRÊNCIA. INCIDÊNCIA DO ART. 71 DO CP. NÃO CABIMENTO. PRINCÍPIO DA ESPECIALIDADE. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+1. Não há nulidade por ausência de prestação jurisdicional, pois o acórdão recorrido enfrentou todos os pontos relevantes ao deslinde da controvérsia, adotando, contudo, solução jurídica contrária aos interesses do recorrente.
+2. Tendo as instâncias de origem decidido, com base na provas colhidas nos autos, pela condenação do paciente, a pretensão de absolvição demandaria o reexame fático-probatório.
+3. Nos termos da jurisprudência desta Corte, não configura bis in idem a incidência da agravante tipificada no art. 70, II, l, do CPM sobre o crime de concussão, em razão de que a circunstância do militar se encontrar em serviço não é inerente do tipo previsto no art. 305 do CPM, tendo em vista que a vantagem indevida pode ser exigida antes de assumir ou mesmo fora da função.
+4. A lei penal castrense possui regras próprias sobre a aplicação da continuidade delitiva em crimes militares (art. 80 do CPM), motivo pelo qual incabível, na hipótese, a incidência do art. 71 do CP, com fundamento no princípio da especialidade.
+5. Agravo regimental improvido.
+(AgRg no HC 614.680/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020.)
+PENAL MILITAR. HABEAS CORPUS. ART. 225, § 2º, ART. 225, CAPUT, ART. 233 E ART. 209, CAPUT, NA FORMA DO ART. 79 DO CÓDIGO PENAL MILITAR. CONCURSO DE CRIMES. APLICAÇÃO ANALÓGICA DO ART. 70 DO CP AOS DELITOS PREVISTOS NO CPM. IMPOSSIBILIDADE.
+I - Em atenção ao princípio da especialidade, não se aplica o art. 70 do Código Penal nos casos de concurso de crimes militares, devendo ser aplicada a regra prevista no art. 79 do Código Penal Militar.
+II - A analogia pressupõe, para o seu uso, uma lacuna involuntária (art. 4º da LICC).
+Ordem denegada.
+(HC 48.546/SP, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 6/12/2005, DJ 13/3/2006, p. 351, grifei.)
+PENAL. HABEAS CORPUS. CRIME MILITAR. CONCUSSÃO. AUSÊNCIA DE MANIFESTAÇÃO PELO TRIBUNAL A QUO SOBRE PARTE DA MATÉRIA. SUPRESSÃO DE INSTÂNCIA. NÃO-CONHECIMENTO PARCIAL. CONTINUIDADE DELITIVA. APLICAÇÃO DA REGRA ESPECIAL PREVISTA NO CÓDIGO PENAL MILITAR. NÃO-VULNERAÇÃO DO PRINCÍPIO DA ISONOMIA. ORDEM CONHECIDA EM PARTE E, NESSA, DENEGADA.
+1. Compete ao Superior Tribunal de Justiça apreciar, originariamente, habeas corpus contra ato de tribunal sujeito à sua jurisdição.
+2. Não tendo sido apreciada pelo tribunal a quo a matéria ventilada neste writ, constituiria supressão de instância a manifestação de mérito por este Tribunal Superior.
+3. O Código Penal Militar é estatuto especial em relação ao Código Penal, cujos tipos penais sujeitam-se às regras nele previstas, segundo o princípio da especialidade.
+4. Inexiste ofensa ao princípio da isonomia nesta hipótese, pois o tratamento diferenciado conferido a organismos diversos, o corpo civil e o militar, possui justificativa constitucionalmente aceitável, imposto pelas circunstâncias peculiares relativas aos agentes e fins jurídicos colimados.
+5. Ordem conhecida em parte e, nessa, denegada.
+(HC 40.392/SP, relator Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 2/6/2005, DJ 22/8/2005, p. 313.)
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
+VOTO-VISTA
+O EXMO. SR. MINISTRO SEBASTIÃO REIS JÚNIOR: Sr. Presidente, a questão aqui posta e que me fez pedir vista se refere à possibilidade de que, no caso de continuidade delitiva, deve se aplicar, quanto aos crimes julgados pela Justiça Militar, não os arts. 79 e 80 do Código Penal Militar, mas, sim, o art. 71 do Código Penal.
+Vossa Excelência, na condição de Relator, entendeu que a irresignação não procede, considerando que, de acordo com vasta e reiterada jurisprudência desta Casa, "em observância ao princípio da especialidade, não se aplica o art. 71 do Código Penal nos casos de continuidade delitiva de crimes militares, devendo ser aplicadas as regras previstas nos arts. 79 e 80 do Código Penal Militar (AgRg no REsp n. 1.554.479/SP, Rel. Min. REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 2/5/2017, DJe 5/5/2017)".
+Não vejo como não acompanhar Vossa Excelência e acrescento às razões já expostas em seu voto aquelas apresentadas pelo Ministro Carlos Ayres Brito quando do julgamento do HC n. 86.854/SP (DJ 2/3/2007):
+"16. Em boa verdade, esta pretensão do paciente colide com expresso comando legal, pois o art. 12 do Código Penal Comum estabelece que "As regras gerais deste Código aplicam-se dos fatos incriminados por lei especial, se esta não dispuser de modo diverso" (sem grifos no original). Quero dizer: a inexistência de regramento específico em sentido contrário é premissa da aplicação subsidiária do Código Penal às legislações especiais. E, no caso, esta premissa não se faz presente, pois, bem ou mal, o Código Penal Militar cuidou de disciplinar os crimes continuados de forma distinta e mais severa do que o Código Penal Comum.
+17. Por este modo de ver as coisas, não se pode mesclar o regime penal comum e o castrense, de modo a selecionar o que cada um tem de mais favorável ao acusado. Tal proceder geraria aquilo que o ilustrado Representante do Parquet designou como "hibridismo". O que é de todo incompatível com o princípio da especialidade das leis. Sem contar que a disciplina mais rigorosa do Código Penal Castrense funda-se em razões de política legislativa que se voltam para o combate com maior rigor daquelas infrações definidas corno militares.
+18. Cumpre pontuar, finalmente, que este meu entendimento conta com o respaldo da jurisprudência desta Casa, como se vê dos acórdãos proferidos no Recurso Criminal no. 1.466, Rei. Min. Aldir Passarinho, no RE 115.770, Rel. p/ acórdão Min. Marco Aurélio e no HC 73.056, Rel. Min. Néri do Silveira."
+Assim, Sr. Presidente, acompanho Vossa Excelência na íntegra e também nego provimento ao agravo regimental.
