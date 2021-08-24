@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de recurso especial, interposto por CAIZA DE PREVIDENCIA DOS FUNCIONÁRIOS DO BANCO DO NORDESTE DO BRASIL - CAPEF, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar acórdão proferido pelo Tribunal de Justiça do Estado do Ceará, assim ementado (fl. 554, e-STJ):
+PROCESSO CIVIL. RECURSO DE APELAÇÃO. INTEMPESTIVIDADE. SUSCITAÇÃO DE OFÍCIO. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO EM FACE DA DECISÃO RECORRIDA, QUE NÃO FORAM CONHECIDOS. NÃO INTERRUPÇÃO DO PRAZO PARA APRESENTAÇÃO DE OUTROS RECURSOS. APELO NÃO CONHECIDO. I - Cuida-se de Apelação Cível (fls. 494/516) interposta por Caixa de Previdência dos Funcionários do Banco do Nordeste do Brasil (CAPEF), contra a r. Sentença de fls. 485/489, prolatada pelo MM. Juiz de Direito da 23a Vara Cível da Comarca de Fortaleza/CE, que julgou parcialmente procedente o pleito exordial, nos autos da Ação Ordinária Revisional de Saldo Devedor C/C Declaratória de Quitação C/C Repetição de Indébito com Pedido de Tutela Antecipada, movida por Silvia de Fátima Pimenta Sampaio. II - Analisando atentamente os autos, constata-se que a sentença objurgada, posta às fls. 414/425, teve sua intimação à parte recorrente efetivada por Diário Oficial (fls. 426/427), e foi disponibilizada em 14 de fevereiro de 2020. Todavia, optou a parte recorrente pela interposição de Embargos de Declaração, fls. 428/437, que não foram conhecidos (fls. 485/489). III - Os embargos de declaração, quando não conhecidos, não têm o condão de interromper o prazo para o recurso de apelação. Em não tendo sido, pois, interrompido o prazo recursal, o presente recurso de apelação, interposto somente em 28 de agosto de 2020, não pode ser tido como tempestivo. Precedentes. IV - Preliminar de intempestividade suscitada de oficio. Recurso não conhecido.
+Opostos embargos de declaração, esses foram rejeitados (fls. 642-649, e-STJ).
+Nas razões de recurso especial (fls. 569-583, e-STJ), arecorrenteaponta, além de divergência jurisprudencial, violação ao art. 1.026, sustentando que os embargos de declaração opostos na origem em face da sentença, interromperam o prazo recursal para interposição da apelação.
+Contrarrazões às fls. 654-657, e-STJ.
+Após a decisão de admissão do recurso especial (fls. 659-660, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo merece prosperar.
+1. Cinge-se a controvérsia recursal no tocante à interrupção do prazo recursal pela oposição de embargos de declaração, tempestivamente, entretanto não conhecidos pelo juizo a quo, por se tratar de rediscussão do mérito.
+Com efeito, restando os embargos de declaração opostos não conhecidos por rediscussão do mérito, há de fato a suspensão do prazo para a interposição da apelação.
+Nesse sentido, os seguintes julgados:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. EFEITO INTERRUPTIVO DO PRAZO PARA INTERPOSIÇÃO DOS DEMAIS RECURSOS DECORRENTES DA INTERPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. CÓDIGOS DE PROCESSO CIVIL DE 1973 E 2015. CRITÉRIOS.
+1. Trata-se de embargos de divergência interpostos contra acórdão que delibera sobre o efeito interruptivo dos embargos de declaração.
+Segundo a parte recorrente, ainda que rejeitados, aludidos embargos, desde que apresentados tempestivamente, interrompem o prazo para a interposição de outros recursos, porquanto a pena pela interposição do recurso protelatório é a pecuniária, e não a exclusão do citado efeito.
+2. Percebe-se, da leitura dos dispositivos processuais, que, na temática objeto da divergência, atinente ao efeito interruptivo da oposição de embargos de declaração, não houve mudança legislativa com a edição do Código de Processo Civil de 2015. Portanto, o posicionamento a ser firmado no âmbito da Corte Especial merece ser aplicado na vigência do novo Código de Processo Civil.
+3. O que se debate, no caso, é o fato de que, em muitas ocasiões, a parte recorrente interpõe embargos de declaração, com pedido de aplicação de efeito infringente, apesar de não apontar nenhum dos pressupostos genéricos de cabimento (omissão, contradição, obscuridade ou erro material).
+4. É importante diferenciar duas situações: quando o recorrente interpõe embargos de declaração, com efeitos infringentes, sem apontar, na peça de interposição, vício de embargabilidade que pretende ver sanado (omissão, contradição, obscuridade ou erro material); e quando o recorrente interpõe embargos de declaração, com efeitos infringentes, apontando, na peça de interposição, vício que pretende ser sanado (omissão, contradição, obscuridade ou erro material), mas, no julgamento dos embargos de declaração, entenda-se que os vícios não se encontram presentes.
+5. Um dos pressupostos específicos de admissibilidade da via declaratória é a indicação explícita do defeito que pretende ver sanado, integrado, aclarado. A análise acerca da existência ou não do vício apontado trata-se de genuíno exame de mérito.
+6. Com base nessas considerações, deve-se firmar o entendimento de que os embargos de declaração somente não interrompem o prazo para outros recursos quando intempestivos, manifestamente incabíveis ou nos casos em que oferecidos, com pedido de aplicação de efeitos infringentes, sem a indicação, na peça de interposição, de vício próprio de embargabilidade (omissão, contradição, obscuridade ou erro material). Por conseguinte, deve o recurso especial ser provido, com a consequente determinação de retorno dos autos ao Tribunal de Justiça do Estado do Rio Grande do Sul para que julgue o mérito do agravo de instrumento como entender de direito, afastada a tese de intempestividade do recurso.
+7. Embargos de divergência a que se dá provimento.
+(EAREsp 175.648/RS, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 24/10/2016, DJe 04/11/2016)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. INTUITO PROTELATÓRIO. INTERRUPÇÃO DO PRAZO RECURSAL. POSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da jurisprudência do Superior Tribunal de Justiça, mesmo que não conhecidos por manifesta inadmissibilidade, os embargos de declaração opostos tempestivamente constituem recurso idôneo para efetuar a interrupção da contagem do prazo recursal.
+2. Agravo interno desprovido.
+(AgInt no REsp 1849349/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/03/2021, DJe 17/03/2021)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. TEMPESTIVO. PRAZO PARA INTERPOSIÇÃO DE OUTROS. INTERRUPÇÃO.
+(..)
+3. Os Embargos de declaração, com exceção dos intempestivos, interrompem o prazo para a utilização de outros recursos.
+Precedentes.
+4. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1457036 / RS, Relator: Ministra MARIA ISABEL GALLOTTI , QUARTA TURMA, Julgamento, 21/3/2019, DJe 27/3/2019)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO ESPECIAL INTEMPESTIVO. EMBARGOS DE DECLARAÇÃO INTERPOSTOS NA ORIGEM NÃO CONHECIDOS POR INTEMPESTIVIDADE. NÃO INTERRUPÇÃO DO PRAZO RECURSAL. AGRAVO NÃO PROVIDO. 1. É intempestivo o recurso especial interposto após o prazo legal de 15 dias.
+2. A jurisprudência, visando coibir abusos e o desvirtuamento do efeito interruptivo dos embargos, firmou a compreensão de que a oposição de embargos aclaratórios, quando intempestivos ou manifestamente incabíveis, não tem o condão de interromper o prazo para a interposição do recurso especial (ut, AgInt no AREsp 1265139/RR, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 09/10/2018) 3. Agravo regimental não provido.
+(AgRg nos EDcl no AREsp 1322344/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 27/11/2018, DJe 10/12/2018)
+Portanto, necessária a reforma do acórdão do Tribunal de piso para reconhecer a interrupção do prazo para interposição do recurso de apelação. Sendo assim, necessário o retorno dos autos para o Órgão de origem para que julgue o recurso como entender de direito.
+2. Do exposto, dou provimento ao recurso especial a fim de reconhecer a interrupção do prazo recursal pelo oposição de embargos de declaração tempestivos.
+Publique-se.
+Intimem-se.
