@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em favor deMizael Bispo de Souza, apontando-se como autoridade coatora a Décima Segunda Câmara Criminal do Tribunal de Justiça de São Paulo (Agravo de Execução Penal n.9000264-02.2018.8.26.0625).
+Narram os autos que o Juízo da Vara de Execuções Penais indeferiu o pedido de remição pela leitura feito pela defesa do ora paciente. Ao recurso interposto, o Tribunal de Justiça negou provimento.
+Nestemandamus, o impetrante alega queacoação ilegal se encontra no fato do paciente ter sido PREJUDICADO em não ter remidos os dias em que comprovou ter realizado leitura das obras literárias alcançando seu direito de 100 (dias) sem fundamentação idônea e sem embasamento jurídico(fl. 7).
+Destaca quenão se pode atribuir ao paciente o fato de a unidade prisional "em tese" não possuir profissional qualificado para o monitoramento daatividade de leitura, pois caso contrário colocaria em risco a garantia fundamental amparada na Constituição Federal de 1988 chamada de princípio da igualdade(fls. 7/8).
+Requer, inclusive liminarmente, a concessão da ordempara que seja determinada a concessão de 100 (cem) dias de remição pelo período de leitura(fl. 11).
+Indeferida a liminar, prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Carlos Frederico Santos, pelo não conhecimento do writ.
+É o relatório.
+In casu, a ordem comporta concessão, em menor extensão.
+O direito à remição de parte do tempo de execução da pena pelo estudo está previsto no art. 126, § 1º, da Lei n. 7.210/1984, na contagem de 1 dia de pena a cada 12 horas de frequência escolar - atividade de ensino fundamental, médio, inclusive profissionalizante, ou superior, ou ainda de requalificação profissional - divididas, no mínimo, em 3 dias, dispondo, ainda, a necessidade de certificação pelas autoridades educacionais competentes dos cursos frequentados, o que não se verifica no presente caso.
+Nesse contexto, o Superior Tribunal de Justiça passou a admitir a prática da leitura, devidamente comprovada nos termos da Portaria Conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como da Recomendação n. 44/2013 do Conselho Nacional de Justiça, como hipótese de concessão do benefício, considerando tratar-se de perfeita analogia in bonam partem da remição por estudo, expressamente prevista no art. 126 da Lei de Execuções Penais.
+Sobre o tema, por exemplo, esteprecedente:
+HABEAS CORPUS SUBSTITUTIVO. FALTA DE CABIMENTO. EXECUÇÃO PENAL. REMIÇÃO DA PENA PELA LEITURA. ART. 126 DA LEP. PORTARIA CONJUNTA N. 276/2012, DO DEPEN/MJ E DO CJF. RECOMENDAÇÃO N. 44/2013 DO CNJ.
+1. Conquanto seja inadmissível o ajuizamento de habeas corpus em substituição ao meio próprio cabível, estando evidente o constrangimento ilegal, cumpre ao tribunal, de ofício, saná-lo.
+2. A norma do art. 126 da LEP, ao possibilitar a abreviação da pena, tem por objetivo a ressocialização do condenado, sendo possível o uso da analogia in bonam partem, que admita o benefício em comento, em razão de atividades que não estejam expressas no texto legal (REsp n. 744.032/SP, Ministro Felix Fischer, Quinta Turma, DJe 5/6/2006).
+3. O estudo está estreitamente ligado à leitura e à produção de textos, atividades que exigem dos indivíduos a participação efetiva enquanto sujeitos ativos desse processo, levando-os à construção do conhecimento. A leitura em si tem função de propiciar a cultura e possui caráter ressocializador, até mesmo por contribuir na restauração da autoestima. Além disso, a leitura diminui consideravelmente a ociosidade dos presos e reduz a reincidência criminal.
+4. Sendo um dos objetivos da Lei de Execução Penal, ao instituir a remição, incentivar o bom comportamento do sentenciado e sua readaptação ao convívio social, a interpretação extensiva do mencionado dispositivo impõe-se no presente caso, o que revela, inclusive, a crença do Poder Judiciário na leitura como método factível para o alcance da harmônica reintegração à vida em sociedade.
+5. Com olhos postos nesse entendimento, foram editadas a Portaria conjunta n. 276/2012, do Departamento Penitenciário Nacional/MJ e do Conselho da Justiça Federal, bem como a Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+6. Writ não conhecido. Ordem expedida de ofício, para restabelecer a decisão do Juízo da execução que remiu 4 dias de pena do paciente, conforme os termos da Recomendação n. 44/2013 do Conselho Nacional de Justiça.
+(HC n. 312.486/SP, de minha relatoria, SEXTA TURMA, julgado em 20/6/2015, DJe 22/6/2015)
+E,mais: HC n. 349.239/SP, Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 4/10/2016, DJe 14/10/2016.
+Vale registrar, por derradeiro, que a recente Resolução n.391, do Conselho Nacional de Justiça(DJe 11/5/2021), estabelece os procedimentos e as diretrizes a serem observados pelo Poder Judiciáriopara o reconhecimento do direito à remição de pena por meio de práticas sociais educativas em unidades de privação de liberdade, entre elas, a leitura (arts. 2º e 5º).
+No caso dos autos,o pedido de remição pela leitura foi indeferido porquea unidade prisional em que o apenado está recolhido nãopossui projeto específico visando àremição pela leitura, tampouco comissão organizadora constituída para análise das resenhas elaboradas pelos reeducandos, de forma que não foram preenchidos os requisitos do art. 1º, inc. V, da mencionada Recomendação.
+Pois bem. Não pode o paciente ser punido por ineficiênciae falta de organização do presídio onde cumpre pena.
+Ante o exposto,concedoa ordem,em menor extensão, para determinar queo Juízo da1ªVara das Execuções Criminais da comarca de Taubaté/SP (Execução Criminal n. 1.048.240)reaprecie o pedido de remição da pena pela leitura realizada pelo sentenciado àluz daResolução n. 391, do Conselho Nacional de Justiça, publicada em 11/5/2021.
+Comunique-se.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. REMIÇÃO PELA LEITURA INDEFERIDA PELOJUÍZO DE PISO EM RAZÃO DE O PRESÍDIO NÃO POSSUIR PROJETO ESPECÍFICO TAMPOUCO COMISSÃO ORGANIZADORA PARA O RESPECTIVO FIM. CONSTRANGIMENTO ILEGAL CONFIGURADO. INCIDÊNCIA DA RESOLUÇÃO N 391, DO CNJ.
+Ordem concedida, em menor extensão,nos termos do dispositivo.
