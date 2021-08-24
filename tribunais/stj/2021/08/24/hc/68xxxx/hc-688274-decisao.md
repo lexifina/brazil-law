@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, em que se aponta como autoridade coatora o Tribunal Regional Federal da 3a Região (Apelação criminal n.5008043-25.2019.4.03.6119)
+Consta que apaciente foi condenada às penas de 7 anos, 10 meses e 15 dias de reclusão, em regime inicial semiaberto, e 785 dias-multa, por ofensa ao art. 33, caput, c/c art. 40, I, ambos da Lei n. 11.343/2006.
+Interposta a apelação, o tribunal de origem redimensionou a pena ao patamar de 7 anos e 10 dias de reclusão e depagamento de 702 dias-multa, em regime semiaberto.
+Argumenta o impetrante, em suma, negativa de autoria, uma vez que "asituação dos autos é aquela típica de "mula do tráfico", em que não há a efetiva consciência sobre quantidade, qualidade, valor da substância transportada ou mesmo conhecimento sobre o local de armazenamento da droga. Nada disso foi decidido pela Paciente (quanto queria levar, de que tipo queria levar, como iria levar). Como se infere da experiência com bases em casos semelhantes, bem como das provas constantes dos autos, notadamente o interrogatório, a Paciente recebeu a droga já pronta para o transporte, sem qualquer interferência em nada" (fl. 5).
+Alega, de forma subsidiária, ter ocorrido ilegalidade pelonão reconhecimento dacausa de diminuição da pena prevista no art. 33, § 4º do art. 33 da Lei 11.343/2006 (fl. 18).
+Entende que deve ser afastadaa causa de aumento prevista no art. 40, I, da Lei 11.343/2006, uma vez que "É necessário que o agente tenha realmente embarcado para outro Pais, o que não foi o caso, para nele difundir, usar e comercializar, atingindo maior número de pessoas, o que não é o caso, sendo que a Paciente apenas estava transportando a droga na mala, para ser entregue para terceiros" (fl. 21).
+Pugna, liminarmente e no mérito, pela absolvição do crime imputado ou, subsidiariamente, pela aplicaçãoda atenuante da confissão em seu patamar máximo e da minorante prevista na Lei de Drogas, alteração do regime prisional e substituição da pena privativa de liberdade por restritivas de direitos.
+Verifica-se que a defesa impetrou o Habeas Corpus n. 204.512 perante o Supremo Tribunal Federal, que negou seguimento ao writ, com fulcro no art. 13, incs. V, alínea e, c/c art. 21, § 1º, do RISTF, e determinou a sua remessa a esta Corte Superior para que adotasse as providências que julgassecabíveis (fls. 84-94).
+Ocorre que o presente habeas corpus é mera reiteração do HC n. 682796 - SP, por serem idênticas as matérias debatidas, não podendo, portanto, ser conhecido por esta Corte.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
