@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁcontra decisão do Tribunal de Justiça daquela Unidade Federativaque inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, dirigido contra o acórdão prolatado na Apelação Criminal n. 0001635-28.2019.8.16.0196.
+Segundo os autos,os Agravadosforamsentenciados pela prática de roubo circunstanciado pelo concurso de pessoas, nos termos doart. 157, § 2.º, incisoII, do Código Penal (fl. 353-355).
+Irresignados, os ora Agravantes interpuseram apelação, tendo a Corte de origem dado parcial provimento ao recurso de GABRIELLA e negado provimento ao recurso de GILSON, todavia,reconhecendoilegalidadesex officioem ambos os casos, afastando a vetorial circunstâncias do delito e readequado as penas (fls. 521-522).
+Em relação a GABRIELLA, a pena foi readequada para5 (cinco) anos e 4 (quatro) meses de reclusão, em regime inicial semiaberto, e 13 (treze) dias-multa. Por sua vez, em relação ao GILSON, a reprimenda ficou no patamar de 7 (sete) anos, 9 (nove) meses e 10 (dez) dias dereclusão, em regime inicial fechado,e 20 (vinte) dias-multa(fls. 521-522).
+Opostos embargos de declaração pelo Parquet, foram rejeitados (fls. 568-571).
+Nas razões do recurso especial, em síntese, o Parquetse insurge contra o afastamento da vetorial circunstâncias do delito promovido em segundo grau de jurisdição. Alega que o simulacro de arma de fogo permite a exasperação da básica (fls. 599-601).
+Ao final, busca o restabelecimento da sentençano tocante ao desvalor do vetor circunstância do crime(fl. 602).
+As contrarrazões foram apresentadas às fls. 614-626.
+O Recurso especial não foi admitido na origem (fls. 630-631).
+Interposto o agravo em recurso especial (fls. 645-654), o Parquet apresentou contraminuta (fls. 662-674).
+O Ministério Público Federal manifestou-se às fls. 696-700, opinando pelo desprovimento do agravo em recurso especial.
+É o relatório.
+Decido.
+O agravo é tempestivo e impugnou os fundamentos da decisão agravada, razão pela qual passo ao exame dorecurso especial.
+No que interessa ao feito, o aresto atacadoapresenta a seguinte fundamentação (fl. 519; sem grifos no original):
+"  um simulacro de arma de fogo imprime à conduta uma suposta/fictícia grave ameaça, já contida na descrição do tipo penal (Art. 157. Subtrair coisa alheia móvel, para si ou para outrem, mediante violência contra pessoa ou grave ameaça .. ), não se prestando à exasperação operada, até por ausência de potencial lesivo do falso artefato."
+No caso, o acordão recorrido está em consonância com a jurisprudência desta Corte, segundo a qual o uso de simulacro de arma de fogo não é elemento capaz de caracterizar especial desvalor da conduta do condenado, uma vez que deve ser considerado como circunstância inerente à violência ou grave ameaça caracterizadoras do tipo penal do roubo.
+Nesse sentido, cito os seguintes julgados:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO. CORRUPÇÃO DE MENORES. DOSIMETRIA. PENA-BASE. CIRCUNSTÂNCIAS DO CRIME.PARTICIPAÇÃO DE ADOLESCENTE. SIMULACRO DE ARMA DE FOGO. FUNDAMENTO INERENTE AO TIPO PENAL. FUNDAMENTAÇÃO INIDÔNEA. AUMENTO. TERCEIRA FASE. DUAS MAJORANTES. AUSÊNCIA DE MOTIVAÇÃO CONCRETA.IMPOSSIBILIDADE. SÚMULA 443/STJ. DECISÃO MANTIDA. AGRAVO IMPROVIDO.
+1. Incabível a valoração desfavorável da vetorial das circunstâncias do crime, em relação ao delito de roubo, pela participação de adolescente na empreitada criminosa, tendo em vista que o recorrido já fora condenado pelo crime de corrupção de menores.
+2. Nos termos da jurisprudência desta Corte, "o uso de simulacro de arma de fogo não é elemento capaz de caracterizar especial desvalor da conduta do apenado, porquanto deve ser considerado como circunstância inerente à violência ou grave ameaça caracterizadoras do tipo penal do roubo" (AgRg no HC 568.150/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/5/2020, DJe 18/5/2020).
+3. Nos termos da Súmula 443/STJ, para a elevação da pena em fração superior ao mínimo legal (1/3), na terceira fase da dosimetria, não é suficiente a menção ao número de majorantes, sendo indispensável motivação concreta, calcada nas características do delito.
+4. Agravo regimental improvido."(AgRg no AREsp 1705612/AL, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 18/05/2021, DJe 24/05/2021; sem grifos no original.)
+"PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO. ROUBO.REGIME PRISIONAL FECHADO. DESPROPORCIONALIDADE. CARÊNCIA DE MOTIVAÇÃO CONCRETA PARA A IMPOSIÇÃO DO MEIO PRISIONAL MAIS SEVERO.OFENSA A SÚMULA 440/STJ. AGRAVO DESPROVIDO.
+1. Embora a fixação da pena-base no mínimo legal e a primariedade do réu não conduzam, necessariamente, à fixação do regime prisional indicado pela quantidade de pena a ele imposta, os fundamentos genéricos utilizados no decreto condenatório não constituem motivação suficiente para a imposição do meio prisional mais gravoso (art. 33, §§ 2º e 3º, do Código Penal).
+2. Nos moldes da jurisprudência desta Corte, "o uso de simulacro de arma de fogo não é elemento capaz de caracterizar especial desvalor da conduta do apenado, porquanto deve ser considerado como circunstância inerente à violência ou grave ameaça caracterizadoras do tipo penal do roubo. Dessa forma, a vetorial das circunstâncias do crime deve ser decotada da primeira etapa dosimétrica e não justifica a aplicação de regime inicial mais gravoso" (AgRg no HC 568.150/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/5/2020, DJe 18/5/2020).
+3. Tratando-se de réu primário, ao qual foi imposta pena superior a 4 anos e inferior a 8 anos de reclusão e cujas circunstâncias judiciais foram favoravelmente valoradas, sem que nada de concreto tenha sido consignado de modo a justificar o recrudescimento do meio prisional de desconto da pena, nos termos do art. 33, §§ 2º, alínea "b", e 3º, do Código Penal, deve a reprimenda ser cumprida, desde logo, em regime semiaberto.
+4. Agravo regimental desprovido."(AgRg no HC 602.438/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 25/08/2020, DJe 03/09/2020; sem grifos no original.)
+Desse modo, aplica-se, quanto àquestãoapreciada, o disposto no Enunciado n. 568 desta Corte, do seguinte teor: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema."
+Anteo exposto, CONHEÇO do agravo para CONHECER e NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.PENAL. ROUBO MAJORADO. PRETENSÃO MINISTERIAL DE MAJORAÇÃO DA PENA-BASE ANTE O USO DE SIMULACRO DE ARMA DE FOGO. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO CONHECIDO PARA CONHECER E NEGAR PROVIMENTO AO RECURSO ESPECIAL.
