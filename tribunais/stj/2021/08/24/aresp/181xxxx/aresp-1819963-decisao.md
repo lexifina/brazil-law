@@ -1,0 +1,25 @@
+DECISÃO
+1. Trata-se de agravo interposto por SANTA CASA DE MISERICORDIA DE CASA BRANCA, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, "a" e "c", da Constituição Federal, em face de acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 179):
+NULIDADE. AUSÊNCIA DE INTIMAÇÃO DA EXECUTADA.
+Executada que alega não ter sido publicada a decisão inicial do cumprimento de sentença em nome de seu atual advogado.
+Advogado constante da publicação cujo nome se encontra no cadastro dos autos principais. Nova procuração juntada aos autos de cumprimento de sentença após a penhora realizada. Nulidade afastada.
+CUMPRIMENTO DE SENTENÇA. COBRANÇA. DESPESAS MÉDICAS E HOSPITALARES. Decisão que rejeitou a alegação de impenhorabilidade de valores. Não comprovação de que o valor penhorado se refere a repasse de dinheiro público. Executada que sequer apresentou cópia do termo de convênio firmado. Decisão mantida. Recurso não provido.
+Nas razões do recurso especial (fls. 185-206), além de divergência jurisprudencial, aponta a parte recorrente ofensa ao disposto no art. 833, IX, do Código de Processo Civil.
+Em apertada síntese, sustenta queseu patrono não foi intimado do início do cumprimento de sentença, o que impossibilitou a apresentação de impugnação, e, portanto, todos os atos posteriores a tal intimação são nulos de pleno direito, devendo eventuais penhoras serem anuladas e concedido novo prazo para apresentação de impugnação
+Além disso, os valores penhorados são oriundos de repasse doMunicípio, relativo ao convênio de prestação de serviços existente com a executada, e, por se tratarem de verba pública, destinada ao pagamento de médicos que prestam serviço junto ao PPA local e UBS, são impenhoráveis, nos termos do disposto no artigo 833, IX, do Código de Processo Civil.
+Contrarrazões ao recurso especial às fls. 226-233.
+É o relatório.
+DECIDO.
+2.Inicialmente, no que se refere a alegada nulidade por vício na intimação do advogado, verifica-se que o recurso não atende aos requisitos técnicos necessários ao julgamento, pois não particularizou o dispositivo legal tido por afrontado, o que é essencial em se tratando de recurso para as Instâncias Superiores. Tal deficiência, com sede na própria fundamentação da insurgência recursal, impede a abertura da instância especial, nos termos do enunciado 284 do STF.
+3. De outra parte, a Corte de origem afastou a alegada impenhorabilidade dos bens, com a seguinte fundamentação (fls. 181-182):
+A decisão agravada não deferiu o pedido de desbloqueio do valor penhorado, sob a alegação de impenhorabilidade, por entender inexistir comprovação de que as verbas penhoradas referem-se exclusivamente a repasses públicos ou destinados ao pagamento de serviços públicos, contra o que se insurge a executada.
+Pelo que se dessume da narrativa da executada, em 19/02/2019, a Prefeitura de Casa Branca transferiu a quantia de R$300.000,00 para a conta nº 130008540, de titularidade da executada junto ao Banco Santander, sendo que no mesmo dia o valor foi transferido para outra conta da executada, também do banco Santander, conta nº 13000525-5.
+No entanto, inexiste comprovação de que referido valor, supostamente transferido pela Municipalidade, seria utilizado em sua íntegra para o pagamento dos médicos que prestam serviço junto ao Pronto Socorro e Unidade Básica de Saúde.
+Ressalte-se que as únicas provas colacionadas aos autos pela executada referem-se a duas declarações, uma da tesoureira daexecutada (fl.94) e outra da Diretora de Saúde do Município (fl.95), onde apenas atestam o repasse da verba.
+Anote-se que a própria executada ofereceu uma proposta de acordo onde liberaria R$24.000,000 do valor bloqueado em favor da exequente, além de 52 parcelas mensais e consecutivas de R$1.000,00. (fl.142).
+Além disso, como bem observado pelo Juiz a quo, "a executada não trouxe aos autos o termo de convênio, tampouco apresentou extratos bancários comprovando que a referida conta se destina exclusivamente ao repasse de verbas públicas" (fl.154).
+Portanto, inexistindo comprovação inequívoca de que o valor penhorado refere-se a repasse de dinheiro pelo Poder Público, não há que se falar em impenhorabilidade.
+A convicção a que chegou o acórdão acerca da ausência de comprovação inequívoca de que o valor penhorado refere-se a repasse de dinheiro pelo Poder Público, decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+4. Ante o exposto, nego provimento ao agravo em recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
