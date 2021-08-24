@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de mandado de segurança, com pedido de liminar, impetrado por CARLOS ANTONIO CARVALHO DE FARIAScontra ato da MINISTRA DE ESTADO DA MULHER, DA FAMÍLIA E DOS DIREITOS HUMANOS,consubstanciado na anulação da Portaria n. 1.900, de 25de novembro de 2003-que o declarou anistiado político-, ante a ausência de comprovação da existência de perseguição exclusivamente política quando doato concessivo (e-STJ fl. 47).
+A parte impetrante sustenta que o ato coatorfoi "publicado no pico da pandemia do Coronavírus, nãolevando em consideração o reconhecimento do Estado de Calamidade Pública por meiodo Decreto Legislativo n.6, de 18 de março de 2020" (e-STJ fl. 6).
+Defende a impossibilidade de anulação da portaria anistiadora, uma vez que teve ordem concedidano MS 15.577/DF, autuado em 09/09/2010, em que foi determinadaa implementação integral da aludida portaria, "o que a impossibilita anular a referida portaria, em virtude da mesma ter ordem mandamental transitada em julgado" (e-STJ fl. 7).
+Alega que "a liquidez e certeza da presente Portaria Anistiadoratambém foirevalidada pelo STF, quando da fixação da tese Tema 394, na Repercussão Geral n.553.710/DF" (e-STJ fl. 12).
+A liminar foi indeferida (e-STJ fls. 378/380).
+Informações às e-STJ fls. 386/402.
+O Ministério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 408/411).
+Passo a decidir.
+Não obstante os argumentos expendidos, verifica-se que omandamus não merece prosperar.
+Com efeito, oart. 6º-C da Lei n. 13.979/2020 determina apenas a suspensão dos prazos processuais administrativos enquanto durar o estado de calamidade previsto no Decreto Legislativo n. 6/2020, não dispondo acerca da suspensão do andamento do procedimento em si,tampouco sobre a impossibilidade de prática de atos pela administração pública.
+No que tange aoargumento da impossibilidade de revisão da portaria anistiadora, tendo em vista a coisa julgada (MS 15.577/DF), impende registrar que: (a) o objeto do writ foi de compelir a autoridade indicada como coatora a cumprir a obrigação consistente na implantação da reparação econômica em prestação mensal, permanente e continuada acompanhada dos efeitos retroativos; e (b) foi concedidaa ordem paradeterminar o imediato pagamento do valor devido com os recursos orçamentários disponíveis, ou, em caso de manifesta impossibilidade, a expedição de precatório nos termos legais; e (c) foi ressalvado que, "nos termos da Questão de Ordem no MS 15.706/DF, julgada pela Primeira Seção, Rel. Min. Castro Meira (data julgamento 13.4.2011), o cumprimento da concessão da ordem ficará prejudicado se antes do pagamento sobrevier decisão administrativa revogando ou anulando o ato de concessão da anistia".
+Nesse contexto não há que falar naconsolidação da coisa julgada, como alegado pela parte impetrante.
+Confira-se o seguinte precedente:
+MANDADO DE SEGURANÇA. DECADÊNCIA.IMPETRAÇÃO. NÃO OCORRÊNCIA. ANISTIA POLÍTICA.PORTARIA. ANULAÇÃO. DECADÊNCIA ADMINISTRATIVA.NÃO OCORRÊNCIA. COISA JULGADA. OFENSA. NÃO OCORRÊNCIA. AMPLA DEFESA E CONTRADITÓRIO.OBSERVADOS. SEGURANÇA DENEGADA.
+ ..
+IV - Fica afastada a alegação de coisa julgada em relação ao MS n.º 9.700/DF, eis que nele foi simplesmente assegurado o efetivo cumprimento da Portaria n.º 2.655/2002, a qual posteriormente veio a ser anulada em razão de vício na motivação que ensejou à portaria anistiadora.
+ ..
+VI - Devidamente oportunizado ao Impetrante o exercício da ampla defesa e do contraditório no processo administrativo que ensejou a portaria anulatória do ato anistiador, não há qualquer vício a macular o procedimento, vez que o ato impugnado foi proferido após minuciosa análise da def esa e documentos integrantes do processo anulatório.
+Preliminares rejeitadas. Segurança denegada.
+(MS 14.748/DF,Rel. Min.FELIX FISCHER, Terceira Seção, DJe 15/6/2010)
+Noutra quadra, diversamente do defendido pela parte impetrante, oSupremo Tribunal Federal fixou, em regime de repercussão geral, nojulgamento do RE 553.710/DF, Rel. Ministro Dias Toffoli, julgado em17/11/2016, a seguinte tese: "1) Reconhecido o direito à anistia política,a falta de cumprimento de requisição ou determinação de providências porparte da União, por intermédio do órgão competente, no prazo previsto nosarts. 12, § 4º, e 18, caput e parágrafo único, da Lei nº 10.599/02,caracteriza ilegalidade e violação de direito líquido e certo; 2) Havendorubricas no orçamento destinadas ao pagamento das indenizações devidas aosanistiados políticos e não demonstrada a ausência de disponibilidade decaixa, a União há de promover o pagamento do valor ao anistiado no prazode 60 dias; 3) Na ausência ou na insuficiência de disponibilidadeorçamentária no exercício em curso, cumpre à União promover sua previsãono projeto de lei orçamentária imediatamente seguinte".
+Por fim,apreciando o Tema 839, da sistemática da repercussãogeral, o STF fixou a seguinte tese: No exercício do seu poder de autotutela,poderá a Administração Pública rever os atos de concessão de anistia acabos da Aeronáutica com fundamento na Portaria nº 1.104/1964, quando secomprovar a ausência de ato com motivação exclusivamente política,assegurando-se ao anistiado, em procedimento administrativo, o devidoprocesso legal e a não devolução das verbas já recebidas.
+Ante o exposto, DENEGO a ordem, nos termos do art. 34, XIX, do RISTJ.
+Sem honorários advocatícios, nos moldes do art. 25 da Lei n. 12.016/2009 eda Súmula 105 do STJ.
+Intimem-se. Publique-se.
+Passo a decidir.
