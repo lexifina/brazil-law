@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o JUÍZO DE DIREITO DA VARA ÚNICA DE SANTA LUZIA D"OESTE - RO, o suscitante, e o JUÍZO DE DIREITO DA VARA UNICA DE LABREA - AM, o suscitado, nos autos nos autos da ação civil pública movida pelo Ministério Público do Amazonas, objetivando condenação por dano ambientaldecorrente da destruição de 53,9 hectares de Floresta Amazônica.
+Em decisão, o JUÍZO DE DIREITO DA VARA ÚNICA DE LABREA - AMdeclinou da competência para processar e julgar a ação, sob o fundamento de que "a propriedade onde ocorreu o dano estálocalizada no Projeto de Assentamento Boa Esperança, situada dentro dos limites do município de Parecis - RO"(e-STJ fl. 29).
+Por seu turno, o JUÍZO DE DIREITO DA VARA ÚNICA DE SANTA LUZIA D"OESTE - RO suscitou conflito a ser dirimido pelo Tribunal de Justiça de Rondônia, por entender que "não há nada nos autos que comprove que de fato o dano tenha ocorrido em propriedade pertencente a esta Comarca."(e-STJ fl. 34).
+O Tribunal de Rondônia, por sua vez, remeteu os autos ao Superior Tribunal de Justiça (e-STJ fls. 37/39).
+Manifestação ministerial pela competência do Juízo Suscitado (e-STJ fls. 59/61).
+Passo a decidir.
+Oart. 34, XXII, do RISTJdispõe que"são atribuições do relatordecidir o conflito de competência quando for inadmissível, prejudicado ou quando
+se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, a jurisprudência dominante acerca do tema ou as confrontar".
+Esta Corte já entendeu queo foro do local do fato é o competente para apreciar ação civil pública por dano ambiental, por ser medida "consentânea com os princípios do Direito Ambiental, por assegurar a apuração dos fatos pelo órgão judicante que detém maior proximidade com o local do dano e, portanto, revela melhor capacidade de colher as provas de maneira célere e de examiná-las no contexto de sua produção."(CC 164.362/MG, Rel. Ministro HERMAN BENJAMIN, Primeira Seção, julgado em 12/06/2019, DJe 19/12/2019).
+No caso dos autos, segundo o JUÍZO DE DIREITO DA VARA ÚNICA DE SANTA LUZIA D"OESTE - RO, acertidão do oficial de justiça "indica o distrito de Nova Califórnia, como sendo o local do dano, enquanto que o Auto de Infração do IBAMA (..), indica coordenadas geográficas pertencente a "Rol. Boa Esperança", Lábrea /AM."" (e-STJ fl. 34).
+Como observa a SubProcuradoria-Geral da República, no parecer lançado aos autos, "não se verifica nos autos nenhumelemento que faça crer que o local do dano ambiental esteja situado no Estado de Rondônia.Pelo contrário, verifica-se, de acordo com a inicial da ACP e com o Auto de Infração do IBAMA, que o dano ambiental foi constatado em local situado na zona rural do Município de Labrea, no Estado do Amazonas." (e-STJ fl. 61).
+Ressalto que discordar dessaconclusão refoge ao escopo do conflito de competência, cujo objetivo consisteapenas em definir o juízo competente para o julgamento do feito, semadentrar no mérito da causa.
+Ante o exposto, com arrimo art. 34, XXII, do RISTJ, conheço do conflito para declarar a competência do JUÍZO DE DIREITO DA VARA ÚNICA DE LABREA - AM, ora suscitado.
+Comunique-se.
+Publique-se. Intimem-se.
