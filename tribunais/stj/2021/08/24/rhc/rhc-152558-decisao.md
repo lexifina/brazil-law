@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por HENRIQUE ALVINO DOS SANTOScontra acórdão do Tribunal de Justiça do Estado de Alagoas(HC n. 0804826-73.2021.8.02.0000).
+Orecorrente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Públicoe foi denunciadopor suposta prática do delito descrito no art. 33, caput, da Lei n. 11.343/2006.
+O decreto prisional fundou-se na gravidade concreta das circunstâncias do delito - apreensão de 97g de maconha,2g de cracke de 1 simulacro de arma de fogo - bem como no fato de que o recorrente responde a outra ação penal. Impetrado writ originário, a ordem foi denegada.
+Orecorrente alega que o decreto prisional carece de fundamentação idônea, tendo aprisão preventiva se fundado na gravidade abstrata do delito. Ressalta queé primário.
+Requer o relaxamento da sua prisão preventiva, determinando-se a expedição do competentealvará de soltura em seu favor.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; e AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, confira-se excerto da decisão que decretou a segregação cautelar (fls. 52-53, destaquei):
+Em análise detida no presente caderno procedimental, tem-se a existência de indícios suficientes de autoria delitiva (imputado preso em flagrante delito) e a demonstração da materialidade delitiva (auto de apresentação e apreensão de fl. 04 e laudos provisórios de constatação de fls. 05/06).
+No que tange à garantia da ordem pública, dúvidas não pairam sobre a sua existência diante da gravidade em concreto da ação delituosa. Explico.
+No caso em tela, o flagrado foi preso com 0,097kg de maconha e, aproximadamente, 0,002kg de crack, bem como 01 (um) simulacro de pistola, tendo confessado perante a autoridade policial ser traficante de drogas na região.
+Ademais, é contumaz na prática delitiva, respondendo à ação penal perante a 17 Vara Criminal da Capital (processo n 9 0703093-32.2019.8.02.0001) (fl. 24).
+Vale ressaltar, ainda, que o delito imputado ao autuado possui pena máxima superior a 04 (quatro) anos, hipótese esta em que, nos termos do art. 313 do CPP, fica autorizada a decretação da prisão preventiva.
+Por fim, importante esclarecer que residência fixa e emprego definido, conquanto indiquem conceitos subjetivos favoráveis, não garantem a imediata liberdade, devendo ser sopesados de acordo com o contexto fático. ..
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso,aquantidadedosentorpecentesapreendidos (2g decracke 97g de maconha)bem como o fato de orecorrente responder a outraação penal foram considerados pelo Juízo de primeiro grau para a decretação da prisão preventiva.
+Conforme a orientação jurisprudencial do STJ, inquéritos policiais ou ações penais em curso justificam a imposição de prisão preventiva como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública (AgRg no HC n. 603.774/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 28/9/2020; e HC n. 602.698/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de 6/10/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
