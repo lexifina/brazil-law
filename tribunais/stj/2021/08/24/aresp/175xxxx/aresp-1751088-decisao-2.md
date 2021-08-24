@@ -1,0 +1,73 @@
+DECISÃO
+Trata-se de agravo interposto por JAKSON JONATHAN SILVA TEIXEIRA contra decisão do Tribunal de Justiça do Estado do Amazonas que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição Federal, dirigido contra o acórdão prolatado na Apelação Criminal n. 0659514-14.2018.8.04.0001.
+Segundo os autos, o Agravante foi sentenciado à pena de 7 (sete) anos e 11 (onze) meses de reclusão, em regime inicial semiaberto, e 25 (vinte e cinco) dias-multa (fl. 385), pela prática de roubo circunstanciado pelo concurso de agentes, restrição de liberdade da vítima e emprego de arma de fogo, nos termos do art. 157, § 2.º, incisos II e V, e § 2.º-A, inciso I, do Código Penal (fl. 384); bem como absolvido das imputações de associação criminosa (art. 288 do Código Penal) e porte ilegal de arma de fogo (art. 14 da Lei n. 10.826/2003)
+Defesa e Acusação interpuseram apelação, tendo a Corte de origem dado parcial provimento ao recurso ministerial para condenar o Agravante como incurso no art. 14 da Lei n. 10.826/2003, em concurso material com o delito de roubo, e readequar a pena total para 9 (nove) anos e 11 (onze) meses de reclusão, em regime inicial fechado, e 35 (trinta e cinco) dias-multa (fls. 562-563).
+Opostos embargos de declaração, foram rejeitados (fls. 720-728).
+Nas razões do recurso especial, nos termos da Defesa, deve-se aplicar o princípio da consunção, para que o delito do art. 14 do Estatuto do Desarmamento seja absorvido pelo crime fim (roubo majorado), "cassando-se o acórdão que condenou o Recorrente em segundo grau de jurisdição, sob pena de bis in idem" (fl. 745).
+Outrossim, afirma ter ocorrido "subvalorização da confissão espontânea, apesar desta retratar a personalidade do agente, logo, ser circunstância preponderante para os fins do artigo 67 do Código Penal" (fl. 746).
+As contrarrazões foram apresentadas às fls. 757-768.
+O Recurso especial não foi admitido na origem (fls. 769-771).
+Interposto o agravo em recurso especial (fls. 777-784), o Parquet apresentou contraminuta (fls. 787-791).
+O Ministério Público Federal manifestou-se pela diminuição de 1/6 (um sexto), na segunda fase da dosimetria, diante da circunstância atenuante (fl. 814).
+É o relatório.
+Decido.
+O agravo é tempestivo e impugnou os fundamentos da decisão agravada, razão pela qual passo ao exame do recurso especial.
+Disse a Juíza sentenciante ao individualizar a reprimenda (fl. 385; grifos diversos do original):
+"Quanto à culpabilidade, entendo que é normal a espécie.
+Em consulta ao SAJ, verifica-se que o acusado é primário. Inexistem elementos suficientes nos autos que permitem aferir a conduta social do réu e a sua personalidade, além do já referido.
+Os motivos do crime são aqueles próprios do tipo penal, especialmente o interesse pelo ganho fácil.
+As circunstâncias do delito se mostram desfavoráveis ante o concurso de pessoas e a restrição de liberdade da vítima, deixando esta Magistrada de utilizar estas circunstâncias como causas de aumento, conforme explicado no mérito e a teor do que dispõe o art. 68, parágrafo único do Código Penal.
+As consequências do crime são as naturais de um delito da espécie.
+O comportamento da vítima em nada contribuiu para a prática da infração.
+Em face de tais circunstâncias, fixo a pena-base em 05 (cinco) anos de reclusão.
+Na segunda fase dosimétrica, milita em favor do acusado a circunstância atenuante da confissão espontânea, prevista no art. 65, inciso III, alínea "d", do CPB, razão pela qual atenuo a pena em 03 (três) meses, passando a dosá-la em 04 (quatro) anos e 09 (nove) meses de reclusão. Inexistem circunstâncias agravantes.
+Na terceira fase dosimétrica, incide em desfavor do acusado as causas de aumento do concurso de pessoas, restrição de liberdade da vítima e do emprego de arma. Considerando o concurso entre elas, conforme dispõe o art. 68, parágrafo único, do CPB, passo a aplicar somente uma dela, qual seja, a maior, a do emprego de arma de fogo. Neste cenário, majoro a pena em 2/3, passando a dosá-la em 07 (sete) anos e 11 (onze) meses de reclusão.
+No caso em apreço temos a pena privativa de liberdade cumulada com a de multa e, em conformidade com o artigo 49 e seguintes, do Código Penal Brasileiro, fixo a pena pecuniária em 25 (vinte e cinco) dias-multa, cada um no equivalente a 1/30 (um trinta avos) do salário mínimo vigente ao tempo do fato delituoso, observado o disposto no artigo 60, do Código Penal Brasileiro.
+Fixo o regime semiaberto como regime inicial para o cumprimento de pena, nos termos do art. 33, §2º, alínea "b", do CPB."
+No que interessa ao feito, o aresto atacado apresenta a seguinte fundamentação (fls. 557-563; grifos diversos do original):
+" ..  o arcabouço probatório demonstra que os réus foram flagranteados em contexto diverso ao roubo cometido em dia anterior, sem que tais condutas distintas guardem qualquer dependência ou subordinação, razão pela qual evidenciada inconteste prática de crimes autônomos.
+ ..
+Diante dessas descrições, muito embora inequívoco o uso do artefato como meio para subtração do automóvel da vítima, a conduta tipificada no art. 14 da Lei 10.826/03 não se exauriu com a prática desta última, pois o flagrante policial somente ocorreu depois de denúncia feita pelo ofendido, que viu seu carro circulando em via pública, nitidamente em atos preparatórios à prática de novos delitos, caracterizando, assim, o porte de arma uma nova conduta autônoma e independente.
+Portanto, o princípio da consunção, avocado na sentença de Primeiro Grau para fundamentar a absolvição dos réus quanto ao crime de porte de arma de uso permitido, não se adequa à espécie, porquanto, para sua aplicação, imprescindível seria demonstrar que ele foi um meio para a consumação do delito fim, no caso o roubo.
+ ..
+- Roubo Majorado
+Inalterados os termos do julgado de Primeiro Grau, pena definitiva mantida em 07 (sete) anos e 11 (onze) meses de reclusão, cumulada com o pagamento de 25 (vinte e cinco) dias-multa, cada uma no equivalente a 1/30 (um trinta avos) do salário mínimo vigente ao tempo do fato delituoso.
+- Porte ilegal de arma de fogo de uso permitido
+Quanto à culpabilidade, entendo que é normal a espécie. Em consulta ao SAJ, verifica-se que o acusado é primário. Inexistem elementos suficientes nos autos que permitem aferir a conduta social do réu e a sua personalidade. Os motivos do crime são aqueles próprios do tipo penal. As circunstâncias e consequências do delito são as naturais de um delito da espécie. O comportamento da vítima em nada contribuiu para a prática da infração.
+Em face disso, fixo a pena-base em 02 (dois) anos de reclusão.
+Na segunda fase dosimétrica, milita em favor do acusado a circunstância atenuante da confissão espontânea, prevista no art. 65, inciso II, alínea "d", do CPB, todavia, deixo de valorá-la em observância aos termos da Súmula 231 do Superior Tribunal de Justiça.
+Inexistem circunstâncias agravantes.
+Não concorrem causas de aumento ou diminuição da penalidade, motivo pelo qual a pena permanece no patamar de 02 (dois) anos de reclusão.
+No caso em apreço temos a pena privativa de liberdade cumulada com a de multa e, em conformidade com o artigo 49 e seguintes, do Código Penal Brasileiro, fixo a pena pecuniária em 10 (dez) dias-multa, cada uma no equivalente a 1/30 (um trinta avos) do salário mínimo vigente ao tempo do fato delituoso, observado o disposto no artigo 60, do Estatuto Repressivo.
+- Concurso Material
+Tendo em vista o concurso material, na forma do art. 69 do Código Penal, somadas as penas totalizam em 09 (nove) anos e 11 (onze) meses de reclusão, a ser cumprida em regime inicial fechado, nos termos do art. 33, §2º, alínea "a", do CPB.
+Pena pecuniária fixada no total de 35 (trinta e cinco) dias-multa, cada uma no equivalente a 1/30 (um trinta avos) do salário mínimo vigente ao tempo do fato delituoso."
+No caso, o Tribunal a quo concluiu não ser possível a aplicação do princípio da consunção entre os delitos de porte ilegal de arma de fogo de uso permitido e de roubo majorado, pois os crimes foram cometidos de forma autônoma e em contextos de tempo e espaço distintos. Desse modo, a análise da tese defensiva de que um crime absorveu o outro exigiria reexame fático-probatório, o que encontra óbice no Enunciado n. 7 desta Corte.
+Ilustrativamente:
+"RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRINCÍPIO DA CONSUNÇÃO. CONTEXTOS FÁTICOS DISTINTOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N.º 7/STJ. DOSIMETRIA DAS PENAS. TIPO DE ARMA APREENDIDA. AUSÊNCIA DE MAIOR GRAVIDADE. MOTIVOS DO CRIME. PRÁTICA DE OUTROS DELITOS. CULPABILIDADE. POSIÇÃO DE LIDERANÇA. ANTECEDENTES. CONDENAÇÕES COM TRÂNSITO EM JULGADO. CONSEQUÊNCIAS DO CRIME. AUSÊNCIA DE RECUPERAÇÃO DO BEM SUBTRAÍDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, PARCIALMENTE PROVIDO.
+1. As instâncias ordinárias concluíram não ser possível a aplicação do princípio da consunção entre os delitos de porte ilegal de arma de fogo de uso permitido e de roubo majorado, pois os crimes foram cometidos de forma autônoma e em contextos de tempo e espaço distintos. Desse modo, a análise da tese defensiva de que um crime absorveu o outro exigiria reexame fático-probatório, o que encontra óbice na Súmula n.º 7/STJ.
+ ..
+7. Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido para afastar a avaliação negativa da culpabilidade do Agente no crime de porte de arma de fogo e das consequências do delito no crime de roubo majorado, redimensionando-se as penas impostas." (REsp 1.783.637/PA, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 12/11/2019, DJe 03/12/2019.)
+Lado outro, verifico que a redução levada a efeito pelo reconhecimento da confissão espontânea foi realizada em patamar inferior a 1/6 (um sexto), sem que, para tanto, tenha sido declinada fundamentação concreta e específica.
+Entretanto, de acordo com a jurisprudência do Superior Tribunal de Justiça, "deve ser adotada a fração paradigma de 1/6 (um sexto) para aumento ou diminuição da pena pela incidência das agravantes ou atenuantes genéricas, ante a ausência de critérios para a definição do patamar pelo legislador ordinário, devendo o aumento superior ou a redução inferior à fração paradigma estar devidamente fundamentado." (AgRg no HC 370.184/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 09/05/2017, DJe 22/05/2017.)
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AGRAVANTE DA REINCIDÊNCIA. FUNDAMENTAÇÃO CONCRETA E IDÔNEA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, respectivamente.
+2. A doutrina e a jurisprudência têm se orientado no sentido de que cabe ao magistrado, dentro do seu livre convencimento e de acordo com as peculiaridades do caso concreto, escolher a fração de aumento de pena pela incidência da agravante, em observância aos princípios da razoabilidade e da proporcionalidade.
+3. Havendo sido concretamente fundamentada a fração de aumento de pena relativa à agravante da reincidência, com base em argumento idôneo e específico dos autos - reincidência específica -, não há violação dos arts. 61 e 63 do Código Penal.
+4. Agravo regimental não provido." (AgRg no AREsp 1.520.623/MT, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 19/09/2019, DJe 30/09/2019.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. ART. 121, § 2º, II E IV, C/C O § 2º-A, II, AMBOS DO CÓDIGO PENAL. DOSIMETRIA. MAJORAÇÃO DO QUANTUM APLICADO À ATENUANTE DA CONFISSÃO ESPONTÂNEA INFERIOR. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. PLEITO DO BENEFÍCIO DA GRATUIDADE DA JUSTIÇA. INVIABILIDADE. AUSÊNCIA DE AMEAÇA AO DIREITO DE LOCOMOÇÃO DO PACIENTE. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+ ..
+2. O Código Penal olvidou-se de estabelecer limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes. Assim, a jurisprudência reconhece que compete ao julgador, dentro do seu livre convencimento e de acordo com as peculiaridades do caso, escolher a fração de aumento ou redução de pena, em observância aos princípios da razoabilidade e da proporcionalidade. Todavia, a aplicação de fração diversa de 1/6 exige motivação concreta e idônea. Precedentes.
+3. No caso em apreço, ao contrário do alegado pela defesa, o Juízo de primeiro grau fundamentou a aplicação da redução quanto à atenuante da confissão, o que foi mantido pela Corte local.
+ ..
+5. Agravo regimental a que se nega provimento." (AgRg no HC 502.885/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 13/08/2019, DJe 23/08/2019.)
+Passo, assim, ao redimensionamento da reprimenda.
+Na primeira fase da dosimetria, diante das majorantes sobejantes (concurso de pessoas e restrição de liberdade) que nem sequer foram impugnadas, mantenho a pena-base em 5 (cinco) anos de reclusão e 19 (dezenove) dias-multa.
+Na segunda etapa, não há agravantes a considerar e foi reconhecida a atenuante da confissão espontânea, a qual, conforme baliza jurisprudencial, incide à razão de 1/6 (um sexto). Portanto, reformo o acórdão para fixar a pena intermediária em 4 (quatro) anos e 2 (dois) meses de reclusão e 16 (dezesseis) dias-m ulta.
+Na terceira fase, fica mantida a causa de aumento da reprimenda pelo emprego de arma de fogo à fração de 2/3 (dois terços), totalizando a pena em 6 (seis) anos, 11 (onze) meses e 10 (dez) dias de reclusão e 27 (vinte e sete) dias-multa.
+Tendo em vista o c oncurso material de crime com porte ilegal de arma de fogo de uso permitido, 2 (dois) anos de reclusão e 10 (dez) dias-multa , somo as penas para quantificar definitivamente a reprimenda em 8 (oito) anos, 11 (onze) meses e 10 (dez) dias de reclusão, em regime inicial fechado, e 37 (trinta e sete) dias-multa.
+A nte o exposto, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, DAR PROVIMENTO a fim de readequar a pena imposta ao Recorrente nos termos desta decisão (fls. 738-752).
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRINCÍPIO DA CONSUNÇÃO. CONTEXTOS FÁTICOS DISTINTOS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. ATENUANTE DA CONFISSÃO ESPONTÂNEA RECONHECIDA E APLICADA EM QUANTUM INFERIOR A 1/6 (UM SEXTO). AUSÊNCIA DE FUNDAMENTO CONCRETO. APLICAÇÃO DA FRAÇÃO IDEAL. REFORMULAÇÃO DA DOSIMETRIA. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, DAR-LHE PROVIMENTO.
