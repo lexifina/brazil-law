@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial, interposto por JOSIVÂNIA FARIAS FLORES DOS SANTOS, com amparo nas alíneas "a" e "c" do permissivo constitucional, no intuito de reformar o acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, assim ementado (fl. 177, e-STJ):
+AGRAVO INTERNO. INTERPOSIÇÃO CONTRA DECISÃO QUE INDEFEREGRATUIDADE RECURSAL. HIPOSSUFICIÊNCIA NÃO DEMONSTRADA, MESMO APÓSINTIMAÇÃO PARA APRESENTAR DOCUMENTOS COMPROBATÓRIOS. DECISÃOMANTIDA. DESPROVIMENTO DO AGRAVO INTERNO.- "(..) De acordo com entendimento firmado nesta Corte, a declaração de pobreza, com ointuito de obter os benefícios da assistência judiciária gratuita, goza de presunção relativa,admitindo, portanto, prova em contrário. Além disso, o Superior Tribunal de Justiça já decidiuque o magistrado pode ordenar a comprovação do estado de miserabilidade a fim de subsidiaro deferimento da assistência judiciária gratuita (..)"1- No caso em apreço, não tendo a parte recorrente demonstrado a alegada hipossuficiência,resulta imperiosa a manutenção da decisão recorrida que indeferiu o benefício.
+Opostosembargos de declaração, esses foram rejeitados (fls. 202-215, e-STJ).
+Nas razões de recurso especial (fls. 218-227, e-STJ), arecorrenteapontaviolação aos arts. 98 e 99 do CPC/15 e artigos 4º, 6º, e 9º da Lei 1.060/50, sustentando, em síntese, impossibilidade de julgar a apelação deserta, visto que foi concedido o benefício da gratuidade de justiça.
+Contrarrazões às fls. 218-227,e-STJ.
+Após a decisão de admissão do recurso especial (fls. 250-252, e-STJ), os autos ascenderam a esta egrégia Corte de Justiça.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Cinge-se a controvérsia recursal quanto à concessão do benefício da gratuidade de justiça, sustentaainsurgente se incabível o julgamento da apelação como deserta visto que era beneficiária da justiça gratuita na primeira instância.
+O Tribunal local, por sua vez, com amparo no acervo fático e probatório dos autos, assim decidiu:
+Assim, relativamente à gratuidade, para fins de definir pela concessão, negação, deferimento parcialpara alguns atos ou parcelamento, deverá a parte demonstrar documentalmente nos autos sua condição econômica, comprovandorenda e ganhos, de sorte a amparar o juízo com elementos acerca de qual sua efetiva capacidade para litigar sem custos noprocesso, com alguns custos de determinados atos ou suportar o parcelamento de despesas.
+Dessa forma, essencial à parte que requer a benesse trazer elementos probantes necessários a, satisfatoriamente, demonstrar sua condição de hipossuficiente, vez que a presunção decorrente do art. 99, § 3º, do CPC, temnatureza relativa, podendo ser desconstituída com prova em contrário, ou ainda, quando houver dúvida quanto às alegações dorequerente, cabendo, nessa hipótese, intimação da mesma para provar a real impossibilidade de que trata o dispositivo legal, nostermos de seu § 2º.
+Registre-se, por oportuno, que mesmo na vigência do codex anterior, já havia o entendimento de quea concessão da gratuidade poderia ser objeto de investigação pelo magistrado, quando não se convencesse das alegações da parte.
+ ..
+Nesse contexto, a concessão da gratuidade pelo juízo a quo, por si só, não pode ser levada emconsideração, in casu, para a concessão de gratuidade recursal, notadamente quando o escorço probatório produzido até então serevelou insuficiente para comprovar que a recorrente, de fato, faz jus a gratuidade pleiteada.
+Com efeito, em exame sobre a dispensa do recolhimento do preparo recursal, fora determinada aintimação da recorrente para apresentar documentos aptos à prova da necessidade de justiça gratuita, a exemplo de declarações deIRPF, extratos bancários, comprovante de renda, dentre outros, para fins de análise comparativa em relação à capacidade do poloinsurgente.
+No entanto, em que pese o esforço envidado pela insurgente no intuito de ser beneficiada com oinstituto da gratuidade, não demonstrou a hipossuficiência alegada.
+Contudo, o ora recorrente não se desimcubiu do ônus de impugnar os referidos fundamentos, como manda o princípio da dialeticidade, apenas cingindo-se a insistir nos argumentos veiculados em sede de agravo de instrumento e embargos de declaração, de sua vez dissociados dos fundamentos do acórdão recorrido, incidindo, na espécie, por analogia, as Súmula 283 e 284 do STF.
+Em outras palavras, verifica-se que a parte recorrente deixou de infirmar fundamentos do acórdão recorrido - suficientes para sua manutenção -; incidindo, na espécie, por analogia, a Súmula 283 do STF, in verbis: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP).
+Ademais, resta caracterizada a deficiência na fundamentação do apelo extremo no que tange à violação do dispositivo apontado, pois apresenta razões dissociadas do que foi decidido pelo acórdão recorrido, circunstância atrativa do óbice contido na Súmula 284 do STF, que se estende sobre a alegada divergência jurisprudencial.
+Nesse sentido, os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA DEMANDADA.
+ ..
+5. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+6. Agravo interno desprovido.
+(AgInt no REsp 1656284/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 11/11/2019, DJe 19/11/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE REINTEGRAÇÃO DE POSSE E INDENIZAÇÃO. PRECARIEDADE NA COMPROVAÇÃO DO INADIMPLEMENTO. AUSÊNCIA DE COMPROVAÇÃO DA CONSTITUIÇÃO DO DÉBITO. NEGÓCIO REALIZADO EM 1999, COM AS PRIMEIRAS PROVIDÊNCIAS PARA COBRANÇA REALIZADAS APENAS EM 2013. INCIDÊNCIA DA SUPRESSIO. FUNDAMENTOS NÃO ATACADOS. SÚMULAS 283 E 284 DO STF. CONCLUSÃO ACERCA DA APLICAÇÃO DA SUPRESSIO. SÚMULA 7 DO STJ. RECURSO NÃO PROVIDO.
+1. Ao examinar o feito, o Tribunal local concluiu que, diante da precariedade de provas da constituição do débito, do longo decurso de tempo entre o suposto inadimplemento e a tomada de providências para cobrança dos réus, ocasionaram a incidência da "supressio". Todavia, tais fundamentos autônomos e suficientes para a manutenção do acórdão recorrido não foram rebatidos pelo recorrente em seu apelo especial. Desse modo, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+ ..
+(AgInt no AREsp 1500950/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/11/2019, DJe 12/11/2019)
+Inafastáveis, no ponto, os óbices das Súmulas 283 e 284 do STF, por analogia.
+Ademais, mesmo que ultrapassados os referidos óbices, denota-se que o entendimento adotado pelo Tribunal local no sentido de queé dada ao magistrado a prerrogativa de pedir a comprovação da situação econômica da parte requerente para fins de conceder ou manter o benefício da gratuidade judiciária, está em harmonia com a jurisprudência desta Corte Superior, atraindo a aplicação da Súmula 83/STJ, a saber:
+PROCESSUAL CIVIL. HONORÁRIOS DE SUCUMBÊNCIA. SUSPENSÃO DAEXIGIBILIDADE. GRATUIDADE. REVOGAÇÃO. ALEGA VIOLAÇÃO DO ART. 1022 DO CPC /2015. NÃO VERIFICADA. REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ.
+I - Estes autos têm origem no agravo de instrumento interposto por João Francisco Francato contra a decisão (fls. 54-55) que, nos autos de ação previdenciária, em fase de cumprimento de sentença, revogou o benefício da gratuidade da Justiça. O Tribunal a quo negou provimento ao recurso.
+II - Afastada a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet 9.942/RS, Rel. Ministro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp 1.611.355/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017;
+AgInt no AgInt no AREsp 955.180/RJ, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp 1.374.797/MG, Segunda Turma, Rel. Min. Mauro Campbell Marques, DJe de 10/9/2014.
+III - O entendimento do tribunal a quo não destoa da jurisprudência atual desta Corte de Justiça sobre o tema, no sentido de que é dada ao magistrado a prerrogativa de pedir a comprovação da situação econômica da parte requerente para fins de conceder ou manter o benefício da gratuidade judiciária.
+IV - De outro lado, a partir do contexto apresentado pelos magistrados de origem, revisar aquele entendimento, em sede de recurso especial, por demandar reexame de matéria fática, é pretensão que encontra empecilho no entendimento cristalizado na Súmula n. 7/STJ.
+V - Agravo interno improvido.
+(AgInt no AREsp 1719295/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 03/05/2021, DJe 07/05/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL  AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM  DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DA AGRAVANTE.
+1. De acordo com a jurisprudência do STJ, é possível o indeferimento ou revogação do benefício da gratuidade de justiça quando provada a inexistência ou desaparecimento do estado de hipossuficiência.Aplicação da Súmula 83/STJ.
+1.1. A conclusão a que chegou o Tribunal de origem, relativa à inexistência de hipossuficiência econômica necessária à manutenção do benefício da gratuidade de justiça, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+2. Esta Corte de Justiça tem entendimento no sentido de que a incidência do referido óbice impede, igualmente, o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução a causa a Corte de origem. Precedentes.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no AREsp 1635051/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/08/2020, DJe 28/08/2020)
+Com efeito, também inafastável o óbice da Súmula 83 do STJ.
+3. Do exposto, nego provimento ao agravo.
+Publique-se.
+Intimem-se.
