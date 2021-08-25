@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de THIAGO HENRIQUE RIBEIRO contra acórdão do Tribunal de Justiça do Estado de Minas Gerais proferido nos autos do HC n. 1.0000.21.057643-5/000.
+O Paciente foi preso em flagrante, em 02/04/2021, pela suposta prática do crime previsto no art. 157, § 2.º, inciso VII, do Código Penal. Consta dos autos que "a vítima é motorista de UBER e teria recebido um chamado do conduzido que, durante o trajeto, teria anunciado o assalto, utilizando-se, para a ameaça, de uma tesoura encostada no pescoço do motorista. Posteriormente, evadiu-se do local levando o carro e o celular da vítima" (fl. 55). A prisão em flagrante foi convertida em preventiva.
+Contra o decreto prisional, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 88-99).
+Neste writ, a Defesa argumenta que, "em caso de prisão preventiva decorrente da conversão da prisão em flagrante, o vínculo entre ambas é indissociável, de modo que a mera homologação desta pelo juiz não pode eximir os Tribunais de avaliarem se nela ocorreu alguma ilegalidade, como indevidamente decidido pela autoridade coatora" (fl. 4).
+Alega que, "ao encontrarem o paciente, os policiais militares começaram a lhe interrogar sobre o cometimento do crime de roubo, cuja suspeita recaía sobre ele, mas não lhe informaram sobre o seu direito constitucional de ficar calado em relação a tais indagações. A partir daí, com as respostas dadas pelo paciente, se encontrou o veículo roubado" (fl. 5).
+Assevera que, "como o encontro do veículo roubado somente ocorreu a partir da violação de um direito constitucional do paciente, sua prisão em flagrante delito foi ilegal e, por consequência lógica e natural, inválida também é sua atual prisão preventiva" (fl. 6).
+Afirma que "o paciente, sem estar acompanhado por advogado ou assistido por Defensor Público, quando da lavratura do auto de prisão em flagrante na delegacia, optou por permanecer calado, depois de devidamente informado acerca deste seu direito" (fl. 6).
+Menciona precedente do Supremo Tribunal Federal (AgRg no RHC n. 192.798/SP).
+Requer, inclusive liminarmente, a imediata soltura do Paciente.
+O pedido liminar foi indeferido às fls. 102-104.
+As informações foram prestadas às fls. 106-123 e 128-148.
+O Ministério Público Federal opinou pelo não conhecimento dowrite, se conhecido, pela denegação da ordem (fls. 150-153).
+É o relatório. Decido.
+O acórdão atacado está assim fundamentado (fl. 91; sem grifos no original):
+"Nesse sentido, saliento não haver qualquer relação que condicione obrigatoriamente a prisão preventiva à prisão em flagrante ou o inverso, logo, a ilegalidade de uma por questões formais de maneira alguma invalidaria a outra, mesmo porque se estabelecem com base em requisitos de todo distintos. Mesmo se houver ilegalidades na prisão em flagrante do paciente, tais ilegalidades em nada alteram sua condição atual, por estar agora em prisão preventiva, sendo, portanto, sua situação alterada apenas em caso de não preenchimento dos requisitos autorizadores desta prisão."
+A propósito, " e ste Tribunal Superior possui entendimento consolidado no sentido de que a conversão do flagrante em prisão preventiva prejudica a discussão acerca de nulidade da prisão em flagrante, uma vez que se trata de novo título a justificar a segregação cautelar (HC n.528.568/RJ, Ministro Ribeiro Dantas, Quinta Turma, DJe 19/12/2019)"(RHC 119.303/CE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 11/02/2020, DJe 21/02/2020).
+Ademais, cumpre ressaltarque a jurisprudência desta Corte Superior de Justiça é no sentido de que a falta de informação quanto à mencionada garantia do direito ao silêncio constitui nulidade relativa, dependendo da comprovação de efetivo prejuízo, o que não ocorreu no caso destes autos.
+A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO AUTOMOTOR. RECEPTAÇÃO QUALIFICADA. ABSOLVIÇÃO. MATERIALIDADE E AUTORIA. EXCLUSÃO DE QUALIFICADORA. REVOLVIMENTO FÁTICO PROBATÓRIO. ADVERTÊNCIA SOBRE DIREITO AO SILÊNCIO. NULIDADE RELATIVA. ILEGALIDADE. NÃO OCORRÊNCIA. PRECLUSÃO. DENEGAÇÃO DO WRIT. DECISÃO MANTIDA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+3. Infringência ao princípio nemo tenetur se detegere. A jurisprudência dessa Corte Superior consolidou-se no sentido de que a falta de informação acerca do direito de permanecer em silêncio constitui nulidade relativa, que demanda a demonstração de prejuízo concreto para ser reconhecida, o que não é o caso do presente feito. Precedentes.
+4. Tese de nulidade aventada somente em sede de embargos, sem qualquer menção ao pleito em momentos processuais antecedentes - defesa prévia, instrução, alegações finais e apelação -, restando obstada pela operação do instituto da preclusão. Precedentes.
+5. Agravo regimental improvido." (AgRg no HC 472.683/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/02/2020, DJe 10/02/2020; sem grifos no original.)
+" ..
+5. A jurisprudência deste Sodalício é firme no sentido de que a ausência de informação quanto ao direito ao silêncio constitui nulidade relativa, dependendo da comprovação de efetivo prejuízo.
+6. No caso dos autos, a par de o agravante haver afirmado que decidiu esclarecer os fatos com o intuito de ser beneficiado penalmente, o certo é que, ao contrário do que sustentado pelo impetrante, o édito repressivo e o acórdão que o confirmou não estão lastreados unicamente na sua confissão extrajudicial, mas em diversas outras provas, notadamente nos depoimentos colhidos em juízo, o que reforça a impossibilidade de anulação do processo, como pretendido. Precedentes.
+7. Agravo regimental desprovido." (AgRg no HC 549.109/PR, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/12/2019, DJe 19/12/2019; sem grifos no original.)
+Na espécie, não se tem notícia da ocorrência de constrangimento ilegal na confissão extrajudicialdo Réu, no sentido de coagi-lo a colaborar com a acusação, assumindo a imputação criminal que lhe foi atribuída, até mesmo porqueconsta do auto de prisão em flagrante que o Acusado confessou aos militares, na presença do seu pai,"SEM QUALQUER TIPO DE COAÇÃO OU AGRESSÃO QUE PRATICOU O CRIME CONTRA O MOTORISTA DE APLICATIVO NA DATA DE ONTEM" (fl. 30; sem grifos no original).
+Registre-se, ainda, que " s egundo a jurisprudência desta Corte, eventuais irregularidades ocorridas na fase investigatória, dada a natureza inquisitiva do inquérito policial, não contaminam a ação penal" (HC 586.321/AP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 28/08/2020).
+Além disso, consta da denúncia que, somente após "o primeiro reconhecimento dele por parte da vítima, como sendo um dos autores do roubo" (fl. 136), é que foram realizadas outras diligências pelos policiais, ocasião em que houve a confissão extrajudicial.
+Desse modo, para se acolher a alegação de que a materialidade delitiva e a autoria estariam demonstradas somente em razão da confissão do Acusado, seria necessário orevolvimento fático-probatório, o que não condiz com a via estreita do habeas corpus.
+Ante oexposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. ROUBO MAJORADO.DIREITO AO SILÊNCIO. NULIDADE RELATIVA. ILEGALIDADE. NÃO OCORRÊNCIA. ORDEM DENEGADA.
