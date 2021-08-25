@@ -1,0 +1,19 @@
+DECISÃO
+PROCESSO CIVIL. RECURSO ESPECIAL INTEMPESTIVO. AGRAVO NÃO PROVIDO.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto pelo ESTADO DO MARANHÃO, em razão de sua intempestividade (fls. 322/325). Eis o teor do juízo de admissibilidade preferido pela presidência do TJMA:
+Analisados os autos, verifico que o recurso especial carece de pressuposto de admissibilidade atinente à tempestividade, haja vista ter sido interposto após expirado o prazo previsto no art.1.003, § 5º, do Código de Processo CivilL11.
+É que o acórdão resultante do julgamento da apelação, contra a qual se insurge tanto o recorrente como o recorrido, o Procurador do Estado tomou ciência em 02/10/2020, tendo, portanto, o prazo recursal findado em 18/11/2020 em razão dos feriados do dia 30/10/2020 (Dia do Servidor Público, transferido do dia 28/10/2020 para o dia 30/10/2020 através da Resolução GP nº 73/2020) e do dia 02/11/2020 (Dia de Finados, feriado nacional e também previsto na Resolução GP nº 68/2019). A insurgência foi interposta somente em 19/11/2020 (Protocolo de ID 8589279), quando já expirado o prazo legal.
+2. Em suas razões recursais (fls. 328/348), a parte agravante defende, no que importa, erro na contagem do prazo recursal, tendo em vista que a decisão recorrida desconsiderou o feriado nacional do dia 12 de outubro.
+3. É o relatório.
+4. Airresignação não merece prosperar.
+5.De  início,  é  importante  ressaltar  que  o  presente  recurso  atrai  a  incidência  do  Enunciado  Administrativo  3  do  STJ,  segundo o  qual,  aos  recursos  interpostos  com  fundamento  no  CPC/2015  (relativos  a  decisões  publicadas  a  partir  de  18  de  março  de  2016),  serão  exigidos  os  requisitos  de  admissibilidade  recursal  na  forma  do  novo  Código.
+6.No  mais, conforme consta na decisão de admissibilidade,  a parte  agravantetomou ciência do acórdão  recorrido  em  2.10.2020 (sexta-feira);  de modo queo  termo  inicial  para  contagem  do  prazo  ocorreu  em  5.10.2020 (segunda-feira) e  o  termo  final  em  18.11.2020 (quarta-feira), já computando os feriados dos dias 12.10.2020, 30.10.2020 e2.11.2020;todavia  o  recurso especialsomente  foi  interposto  em  19.11.2020  quando  já  esgotado  o  prazo  recursal  de  30  dias  úteis, nos termos dos arts. 183, 219, caput,e 1.003, § 5o., todos do CPC/2015. Assim,  é  manifesta  a  intempestividade  do  recurso de fls. 282/298.
+7. Em reforço:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INTEMPESTIVIDADE DO RECURSO ESPECIAL. FERIADO LOCAL OU SUSPENSÃO DE EXPEDIENTE FORENSE. DOCUMENTO IDÔNEO. NECESSIDADE. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O Ente Público foi intimado pessoalmente do acórdão recorrido em 8.1.2020, todavia, o recurso somente foi interposto em 5.3.2020, quando já esgotado o prazo recursal de 30 dias úteis. Assim, é manifesta a intempestividade do recurso, conforme disposição contida nos arts. 183, 994, inciso VI, c.c. os arts. 1.003, § 5º, 1.029, e 219, caput, todos do CPC/2015.
+2. O recorrente não comprovou, no ato da interposição do recurso, por meio de documento idôneo, a existência de suspensão de expediente forense em 10.2.2020 e de feriado local em 24.2.2020.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1790198/SP, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, julgado em 24/05/2021, DJe 27/05/2021)
+8. Ante  o  exposto,  nega-se provimento ao agravo em recurso especial.
+9.Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+10. Publique-se. Intimações necessárias.
