@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS REMUNERATÓRIAS. URV. PRESCRIÇÃO. REESTRUTURAÇÃO DE CARREIRA. SÚMULA 7/STJ. SÚMULA 280/STF.
+1. O colegiado local definiu que, no caso, não existiu reestruturação da carreira. Aafirmação do contrário, para alegar-se a prescrição do fundo de direito,dependeria do reexame de fatos e provas e da interpretação de norma local. Incidência das Súmulas 7/STJ e 280/STF.
+2. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado por ESTADO DE MATO GROSSO contra decisão que conheceu do agravo para não conhecer do recurso especial. Na oportunidade, registrou-se que o exame da tese recursal esbarra nos óbices das Súmulas 7/STJ e 280/STF, porquanto necessário aferir a reestruturação de carreira do servidor.
+O agravante aduz que "a prescrição, nos casos em que há reestruturação de determinada carreira, atinge o fundo de direito (e não somente as parcelas anteriores ao quinquênio prescricional) e possui como termo inicial a data dessa reestruturação" (e-STJ, fl. 467).
+Acrescenta que, com a incorporação de percentual correspondente à defasagem, descabe cogitar a existência de relação de trato sucessivo.
+Além disso, "não há necessidade do revolvimento fático-probatório dos autos nem da análise da legislação local, óbices das Súmulas 7/STJ e 280/STF, para aferição do montante eventualmente devido ao Recorrido, na medida em que tal providência será efetuada em liquidação de sentença e mostra-se incontroverso nos autos que houve a reestruturação" (e-STJ, fl. 470).
+Contrarrazões às e-STJ, fls. 475-500.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. DIFERENÇAS REMUNERATÓRIAS. URV. PRESCRIÇÃO. REESTRUTURAÇÃO DE CARREIRA. SÚMULA 7/STJ. SÚMULA 280/STF.
+1. O colegiado local definiu que, no caso, não existiu reestruturação da carreira. Aafirmação do contrário, para alegar-se a prescrição do fundo de direito,dependeria do reexame de fatos e provas e da interpretação de norma local. Incidência das Súmulas 7/STJ e 280/STF.
+2. Agravo interno a que se nega provimento.
+VOTO
+Tem-se, na origem, ação ordinária ajuizada por servidor público pretendendo o recebimento de diferenças salariais ocorridas em razão da indevida conversão deremunerações para a URV. O juiz julgou parcialmente procedente o pedido.
+O Tribunal a quo, em apelação e reexame necessário, reformouparcialmente a sentença, fazendo o seguinte registro (e-STJ, fl. 337):
+Primeiramente, importante consignar que a reestruturação não se confunde com a mera recomposição da perda do poder aquisitivo da moeda (correção monetária do período anterior) ou aumentos eventuais, os quais não podem ser compensados com as perdas decorrentes da conversão para URV.
+No caso específico, o Estado de Mato Grosso não demonstrou que a lei posterior tenha efetivamente alterado a estrutura de remuneração dos servidores estaduais, ou seja, de que tenha ido além de eventual tentativa de acompanhar a inflação ou de aumentos eventuais, o que era ônus seu.
+Nesse contexto, por ausência de demonstração no presente processo de que houve efetiva reestruturação da remuneração da carreira dos servidores estaduais, fica afastada a existência de termo final para orecebimento de valores, isto é, não se reconhece a ocorrência da denominada prescrição do fundo de direito.
+Desse modo, agiu com acerto o Magistrado Singular, no presente caso, por tratar-se de relação de trato sucessivo, que se renova mês a mês, com prescrição apenas das prestações referentes ao quinquênio anterior à propositura da ação, conforme orientação consolidada na Súmula nº 85 do Colendo Superior Tribunal de Justiça: Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior a propositura da ação.
+No recurso especial, o insurgente apontou, além de divergência jurisprudencial, violação dos arts.189 do Código Civil e 1º do Decreto n. 20.910/1932. Sustentouque, de acordo com o entendimento do STF, as leis que promoveram a reestruturação remuneratória da carreira são o termo final para a percepção de qualquer parcela decorrente da errônea conversão para a URV.
+Entretanto, como consignei no decisumora questionado,o Colegiado local definiu que não existiu reestruturação da carreira.
+A afirmação do contrário, como defende o recorrente para então alegar a ocorrência da prescrição, dependeria do reexame de fatos e provas, o que não é viável neste âmbito, nos termos da Súmula 7/STJ, além da interpretação de norma local, providência também vedada na forma da Súmula 280/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.SERVIDOR PÚBLICO ESTADUAL. URV. PERDAS SALARIAIS.REESTRUTURAÇÃO DE CARREIRA. LIMITAÇÃO TEMPORAL. LEI COMPLEMENTAR ESTADUAL 888/2000. SÚMULAS 7/STJ E 280/STF. DISSÍDIO PREJUDICADO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REDUÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO.
+ ..
+3. O Tribunal de origem não se afastou da orientação jurisprudencial deste Superior Tribunal segundo a qual, embora não seja possível compensação de perdas salariais resultantes da conversão em URV com reajustes determinados por lei superveniente, é cabível a limitação temporal do pagamento quando há recomposição nos vencimentos decorrente de reestruturação na carreira dos servidores.
+4. A alteração das conclusões adotadas pela Corte de origem, a fim de se verificar se a Lei Complementar Estadual nº 888/2000 reestruturou ou não a carreira dos recorrentes, bem como se há o alegado prejuízo remuneratório, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático- probatório constante dos autos e de legislação local, a teor dos óbices previstos nas Súmulas 7/STJ e 280/STF.
+5. Pelos mesmos motivos, segue obstado o recurso especial pela alínea c do permissivo constitucional, sendo certo que não foram atendidas as exigências dos arts. 541, parágrafo único, do CPC e 255, §§ 1º e 2º, do RISTJ.
+6. Agravo interno não provido.
+(AgInt no AREsp 1.601.547/SP, Rel. Min. SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/3/2020, DJe 2/4/2020.)
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO.REAJUSTE VENCIMENTAL. CONVERSÃO DA MOEDA. UNIDADE REAL DE VALOR - URV. ART. 489, § 1º, VI, DO CPC/2015 E ART.25, DA LEI 8.880/1994. AUSÊNCIA DE PREQUESTIONAMENTO.INCIDÊNCIA DA SÚMULA 282/STF. ALEGAÇÃO DE VIOLAÇÃO DAS SÚMULAS 85/STJ E 443/STF. APLICABILIDADE DA SÚMULA518/STJ. LEI 8.880/1994. LIMITAÇÃO TEMPORAL. LEIS ESTATUAIS.REESTRUTURAÇÃO DE CARREIRA. POSSIBILIDADE. REVISÃO.ÓBICES SUMULARES 7/STJ E 280/STF. DIVERGÊNCIA JURISPRUDENCIAL PREJUDICADA.
+1. Na origem, trata-se de Ação Ordinária proposta pela recorrente contra o Estado de Alagoas, objetivando a revisão dos seus vencimentos em virtude dos critérios de atualização estabelecidos pela Lei 8.880/1994.
+2. Não se pode conhecer da insurgência contra a ofensa aos arts. 25, da Lei nº 8.880/1994 e 489, § 1º, VI do CPC/2015, pois os referidos dispositivos legais não foram objeto de debate pelo Tribunal a quo.Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+3. Ademais, não se pode conhecer do Recurso Especial quanto à alegada violação às Súmulas 85/STJ e 443/STF, uma vez que enunciado de súmula não se enquadra no conceito de lei federal, conforme entendimento firmado pelo STJ na sua Súmula 518: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula".
+4. Está pacificado no Superior Tribunal de Justiça o entendimento de que, embora não seja possível compensação de perdas salariais resultantes da conversão da moeda em URV com reajustes determinados por lei superveniente, é cabível a limitação temporal do pagamento quando há recomposição nos vencimentos decorrente de reestruturação na carreira dos servidores.
+5. In casu, a Corte de origem reconheceu ter ocorrido a prescrição, uma vez que as Leis 6.254/2001, 6.255/2001 e 6.256/2001 do Estado de Alagoas, que instituíram novo plano de carreira, vencimentos e salários aos Servidores daquele ente federativo, são o marco inicial da contagem do prazo prescricional. A presente ação foi ajuizada somente no ano de 2016, ou seja, além do prazo prescricional quinquenal do art. 1º do Decreto Federal 20.910/1932.
+6. Desse modo, à luz do que decidido pelas instâncias ordinárias, para o acolhimento da tese de prescrição do direito de ação, tendo em conta a existência de lei estadual que teria reestruturado a carreira dos servidores, seria imprescindível a análise da legislação local, bem como o reexame dos fatos da presente causa, o que é insuscetível de ser realizado, na via do Recurso Especial, ante o óbice das Súmulas 280/STF e 7/STJ.
+7. Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+8. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1.553.422/AL, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 10/3/2020, DJe 19/5/2020.)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
