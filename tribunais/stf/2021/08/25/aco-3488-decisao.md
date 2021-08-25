@@ -1,0 +1,39 @@
+DECISÃO
+AÇÃO CÍVEL ORIGINÁRIA. LEI N. 14.017/2020. AÇÕES EMERGENCIAIS. SETOR CULTURAL. PANDEMIA. MEDIDA PROVISÓRIA N. 1.019/2020. PRORROGAÇÃO DE PRAZO PARA APRESENTAÇÃO DE PRESTAÇÃO DE CONTAS DOS RECURSOS RECEBIDOS. LEI N. 14.150/2021. PRORROGAÇÃO DO PRAZO. PERDA SUPERVENIENTE DO OBJETO. AÇÃO CÍVEL ORIGINÁRIA EXTINTA SEM RESOLUÇÃO DE MÉRITO.
+Relatório
+    1. Ação cível originária, com requerimento de tutela provisória, ajuizada pelo Pará em 26.3.2021, distribuída por prevenção da Ação Cível Originária n. 3.484 (caput do art. 69 do Regimento Interno do Supremo Tribunal Federal), contra a União, objetivando a prorrogação do prazo para prestação de contas dos recursos recebidos pela Lei n. 14.017/2020 ao Ministério do Turismo e o afastamento de ônus ou penalidades para o Pará.
+    No mérito, pede “a procedência do pedido, confirmando-se a tutela de urgência, declarando-se como prazo final para prestação de contas do Estado para a União, quanto aos recursos recebidos pela Lei Aldir Blanc, para junho de 2022;
+    d) Que não sejam aplicadas penalidades ou restrições ao Estado do Pará por ausência de prestação de contas referente aos recursos da Lei Aldir Blanc, antes de junho de 2022” (fls. 11-12, e-doc. 1).
+    2. Em 5.4.2021, deferi “a tutela de urgência para prorrogar o prazo até o julgamento de mérito da presente ação, para apresentação de prestação de contas dos recursos recebidos pela Lei n. 14.017/20, sem ônus para o Pará” (e-doc. 13).
+    3. Contra essa decisão a União interpôs agravo regimental, alegando a perda de objeto da ação em decorrência de inovações legislativas, “motivo pelo qual é necessária a revogação da medida liminar, com o reconhecimento da superveniente ausência do interesse de agir do Estado autor e a extinção do processo, sem exame de mérito, com fundamento no art. 485, VI, do CPC” (fl. 7, e-doc. 20).
+    4. A União contestou (e-doc. 22).
+    5. Em 24.5.2021, abriu-se vista para o Pará apresentar contrarrazões ao agravo regimental (e-doc. 26). Em 17.8.2021, a Secretaria deste Supremo Tribunal certificou a ausência de manifestação do agravado (e-doc. 28).
+    6. Em 12.5.2021, pela Lei n. 14.150 se “alterou a Lei nº 14.017, de 29 de junho de 2020 (Lei Aldir Blanc), para estender a prorrogação do auxílio emergencial a trabalhadores e trabalhadoras da cultura e para prorrogar o prazo de utilização de recursos pelos Estados, pelo Distrito Federal e pelos Municípios”.
+    Nos arts. 12 a 14 da Lei n. 14.150/2021, determina-se:
+    “Art. 12. Ficam prorrogados automaticamente por 2 (dois) anos os prazos para aplicação dos recursos, para realização de atividades culturais e para a respectiva prestação de contas dos projetos culturais já aprovados pelo órgão ou entidade do Poder Executivo responsável pela área da cultura, nos termos: (...)
+    Art. 13. Enquanto perdurar a pandemia da Covid-19, a concessão de recursos no âmbito do Programa Nacional de Apoio à Cultura (Pronac) e dos programas federais de apoio ao audiovisual, bem como as ações estabelecidas pelos demais programas e políticas federais para a cultura, entre os quais a Política Nacional de Cultura Viva, estabelecida nos termos da Lei nº 13.018, de 22 de julho de 2014, priorizarão o fomento de atividades culturais que possam ser transmitidas pela internet ou disponibilizadas por meio de redes sociais e de plataformas digitais ou meios de comunicação não presenciais, ou cujos recursos de apoio e fomento possam ser adiantados, mesmo que a realização das atividades culturais somente seja possível após o fim das restrições determinadas pelas autoridades sanitárias.
+    § 1º Ficam prorrogados automaticamente por mais 1 (um) ano os prazos para captação e execução de todos os projetos culturais homologados e aprovados, com recursos captados e não captados, pelo órgão ou entidade do Poder Executivo responsável pela área da cultura, nos termos da Lei nº 8.313, de 23 de dezembro de 1991, que institui o Pronac.
+    § 2º O prazo para a prestação de contas dos projetos executados nos termos do § 1º deste artigo encerrar-se-á 180 (cento e oitenta) dias após a sua execução.
+    Art.14. Para as medidas de que trata esta Lei poderão ser utilizados como fontes de recursos:
+    (…) § 2º Os recursos repassados na forma prevista nesta Lei que não tenham sido objeto de programação publicada pelos Estados ou pelo Distrito Federal até 31 de dezembro de 2021 serão restituídos à União na forma e no prazo previstos no regulamento.
+    Art. 14-A. Os Estados e o Distrito Federal estão autorizados a utilizar até 31 de dezembro de 2021 o saldo remanescente das contas específicas que foram criadas para receber as transferências da União e dos Municípios e gerir os recursos.
+    Parágrafo único. O saldo remanescente de que trata o caput deste artigo deverá ser utilizado para executar ações emergenciais previstas nos incisos I e III do caput do art. 2º desta Lei.
+    Art. 14-B. Os Municípios e o Distrito Federal estão autorizados a utilizar até 31 de dezembro de 2021 o saldo remanescente das contas específicas que foram criadas para receber as transferências da União e gerir os recursos.
+    Parágrafo único. O saldo remanescente de que trata o caput deste artigo deverá ser utilizado para executar ações emergenciais previstas nos incisos II e III do caput do art. 2º desta Lei.
+    Art. 14-C. Os Estados estão autorizados a transferir aos respectivos Municípios os recursos que receberam oriundos da reversão dos Municípios que não cumpriram o disposto no § 2º do art. 3º desta Lei e dos Municípios que não realizaram os procedimentos referentes à solicitação da verba dentro dos prazos estabelecidos pela União.
+    Parágrafo único. Os recursos transferidos pelos Estados nos termos do caput deste artigo deverão ser utilizados pelos Municípios para executar ações emergenciais previstas nos incisos II e III do caput do art. 2º desta Lei.
+    Art. 14-D. Encerrado o exercício de 2021, o saldo remanescente das contas específicas que foram criadas para receber as transferências e gerir os recursos será restituído até 10 de janeiro de 2022 pelos Estados, pelo Distrito Federal e pelos Municípios à conta única do Tesouro Nacional por meio da emissão e do pagamento de Guia de Recolhimento da União eletrônica.
+    Art. 14-E. As prestações de contas das ações emergenciais de que trata esta Lei deverão ser encerradas:
+    I - até 30 de junho de 2022, para as competências de responsabilidade exclusiva de cada Estado ou Município ou do Distrito Federal;
+    II - até 31 de dezembro de 2022, para os deveres de Estados, de Municípios e do Distrito Federal em relação à União” (grifos nossos).
+    Essa inovação legislativa atende ao pedido desta ação, pelo que há perda superveniente do objeto.
+    7. O autor atribuiu à causa o valor de de R$ 1.000,00 (mil reais).
+    Sendo irrisório o valor atribuído à causa, está autorizada a fixação dos honorários por apreciação equitativa fundada no § 8º do art. 85 do Código de Processo Civil.
+    8. O ônus da sucumbência deve recair sobre aquele que deu causa à propositura da ação, mesmo quando julgada extinta sem análise de mérito.
+    No § 10 do art. 85 do Código de Processo Civil se estabelece que, “Nos casos de perda do objeto, os honorários serão devidos por quem deu causa ao processo”.
+    9. Pelo exposto, alteradas as condições jurídico-processuais na espécie, julgo extinta a ação, sem solução de mérito, pela perda superveniente do objeto (inc. VI do art. 485 do Código de Processo Civil e inc. IX do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicado o agravo regimental (e-doc. 20).
+    10. Condeno a União em honorários advocatícios, que fixo em R$ 1.000,00 (mil reais) (§§ 8º e 10 do art. 85 do Código de Processo Civil).
+    Publique-se.
+    Brasília, 25 de agosto de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
