@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOSE MARCIO CARVALHO RENNO à decisão de fls. 573/574, que não conheceu do recurso.
+Sustenta a parte embargante que:
+3.Em consulta ao site do STJ o autor confirmou o pagamento nas fls. 562 a 568, onde estão as guias e comprovantes de pagamento, exigidos, tanto o realizado em 07.07.2020, como aquele de abril de 14.04.2021.
+4.Para maior clareza, o autor insere como anexos as guias e os comprovantes de pagamento, baixados do próprio site do Superior Tribunal de Justiça (fl. 576).
+Assim, com fulcro no art. 1022 do CPC, III, o autor requer a correção do erro material havido, dando curso, por conseguinte ao AREsp em título (fl. 577).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que a petição de recurso especial foi protocolada, na origem, sem a guia de recolhimento das custas devidas ao STJ e do respectivo comprovante de pagamento.
+A propósito, este Superior Tribunal de Justiça consolidou o entendimento de que os recursos interpostos para esta Corte Superior devem estar acompanhados das guias de recolhimento devidamente preenchidas, além dos respectivos comprovantes de pagamento, ambos de forma visível e legível, sob pena de deserção. Nesse sentido, os seguintes precedentes: AgInt no AREsp 1569257/RS, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/6/2020; e AgRg no AREsp 570.469/DF, relator Ministro Marco Buzzi, Quarta Turma, DJe de 23/6/2020.
+No caso, mesmo após a intimação da parte, no Tribunal de origem, para sanear o vício (fl. 506), não houve a devida regularização, uma vez que foi colacionado aos autos apenas o comprovante de agendamento do preparo (fl. 514), não tendo sido juntado o comprovante do efetivo pagamento.
+Ademais, "a jurisprudência desta Corte Superior firmou-se no sentido de que a juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido".(AgInt no AREsp 1806437/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 23/06/2021.)
+Cumpre ressaltar ainda que conforme preceitua o § 4º do art. 1.007 do Código de Processo Civil, se a parte não comprovar o recolhimento no ato da interposição do recurso, deverá providenciar o recolhimento em dobro. Veja que o artigo é claro, trata-se da comprovação do recolhimento no momento oportuno. Assim, ainda que tenha recolhido o valor referente as custas na data da interposição do recurso especial, ou no caso, dentro do prazo para regularização, de nada adiantará se não apresentou a comprovação da quitação no momento oportuno. Ocorre a preclusão.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
