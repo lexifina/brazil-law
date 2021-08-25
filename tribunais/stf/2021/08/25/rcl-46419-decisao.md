@@ -1,0 +1,23 @@
+DECISÃO
+    1. O Condomínio Flamboyant Shopping Center alega descumprimento à decisão proferida pelo Ministro Gilmar Mendes nos autos do ARE 1.121.633/GO, que determinou a suspensão nacional de todos os feitos que tratem da validade de norma coletiva de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente (Tema 1.046).
+    Colhe-se dos autos que a parte reclamante impetrou Mandado de Segurança, com pedido de liminar, em face de decisão proferida pelo Juiz da 1ª Vara do Trabalho de Goiânia/GO que indeferiu o pedido de suspensão da ação trabalhista em razão do tema 1046 do STF.
+    O Tribunal Regional do Trabalho da 18ª Região indeferiu o pedido de liminar para suspender a ação trabalhista ao fundamento de que “o pedido formulado na exordial é a descaracterização e invalidade da jornada especial 12 x 36, independentemente do que foi pactuado, por ausência de fidedignidade da jornada anotada ou por extrapolação habitual da jornada especial. Logo, o tema 1046 do STF em nada repercutirá no presente feito (...)”
+    Pede-se, nesta via reclamatória, a suspensão do acórdão proferido no Mandado de Segurança nº 0011156-61.2020.5.18.0000 bem como qualquer provimento na ação trabalhista nº 0010035-92.2020.5.18.0001, até o julgamento de mérito do ARE 1.121.633/GO.
+    Citada a parte beneficiária, não foi apresentada contestação.
+    A Procuradoria-Geral da República opinou pela procedência do pedido.
+    É o relatório.
+    2. Assiste razão à parte reclamante.
+    Com efeito, nos autos do ARE 1.121.633/GO, o Ministro Gilmar Mendes determinou a suspensão de todos os processos pendentes, individuais ou coletivos, que versem sobre a validade de cláusulas de acordos coletivos de trabalho por meio das quais se limita ou restringe direito trabalhista não assegurado constitucionalmente.
+    Presente essa premissa, o mero fato de o caso concreto discutido nos autos do ARE 1.121.633/GO consistir no suprimento do pagamento de horas in itinere por meio de acordo coletivo de trabalho não autoriza a interpretação restritiva realizada pelo órgão reclamado, segundo o qual a ordem de sobrestamento em análise estaria circunscrita a ações que tratem única e exclusivamente daquela controvérsia jurídica.
+    Na verdade, para saber se uma determinada ação trabalhista é ou não alcançada pela ordem de suspensão proferida no ARE 1.121.633/GO, importa averiguar, apenas, se a questão concernente à validade jurídica de acordo coletivo de trabalho que limita ou restringe direito trabalhista não assegurado constitucionalmente é pressuposto lógico para o enfrentamento do mérito da demanda trabalhista.
+    Entendo ser esse o caso. Conforme consignou o órgão judiciário ora reclamado, discute-se na ação de origem a validade de disposição prevista em norma coletiva que permite a extrapolação de jornada ainda que sob o regime 12x36, como se extrai do seguinte trecho do acórdão recorrido:
+    “Na ação trabalhista a tese do reclamante é de que a jornada 12 x 36 seja descaracterizada, pelo fato de ter havido extrapolação habitual da jornada, realizando diversas dobras e cursos fora da jornada.
+    No entanto, na petição inicial também consta que "já os ACTs, o primeiro firmado no período de vigência 1º de setembro de 2015 a 31 de agosto de 2016, a despeito de preverem a jornada especial 12x36 e ainda contemplarem a permissão quanto à extrapolação dessa jornada especial de trabalho, há que ser declarados nulos por não se admitir na legislação pátria esse tipo de flexibilização já que a jornada de 12 x 36 é reconhecida como rígida, ou seja, incompatível com a realização de horas extras habituais". (grifei)
+    E, observo que consta nos ACTs a seguinte orientação: "Em caso de necessidade do serviço, quando ultrapassada a jornada aqui estabelecida, não será descaracterizado o regime convencionado nesta cláusula (12 x 36), sendo as horas excedentes pagas como horas extras". (grifei)
+    Assim, o que pretende o reclamante é, na verdade, a declaração de invalidade dessa disposição prevista em norma coletiva que permite a extrapolação de jornada ainda que sob o regime 12x36.”
+    Como se vê, a controvérsia jurídica discutida nos autos de origem amolda-se ao Tema 1.046 do Ementário de Repercussão Geral, o que atrai a incidência, ao caso presente, da ordem de sobrestamento proferida pelo Ministro Gilmar Mendes nos autos do ARE 1.121.633/GO.
+    3. Desse modo, julgo procedente o pedido para determinar a suspensão do Processo nº 0010035-92.2020.5.18.0001 até o julgamento de mérito do ARE 1.121.633/GO.
+    Intime-se. Publique-se.
+Brasília, 25 de agosto de 2021.
+Ministro NUNES MARQUES
+Relator
