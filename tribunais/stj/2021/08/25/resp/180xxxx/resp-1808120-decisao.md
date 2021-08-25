@@ -1,0 +1,23 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloMUNICÍPIO DE SÃO PAULO, com fundamento na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOassim ementado (e-STJfl. 1.152):
+AÇÃO ANULATÓRIA DE DÉBITO FISCAL. Infrações de trânsito. Arrendamento mercantil. Pretensão da autora, arrendadora de veículos, destinada ao reconhecimento de sua ilegitimidade para figurar no polo passivo da exação. Sentença de procedência. Manutenção. Em se tratando de empresa arrendadora, a responsabilidade pelo pagamento das infrações de trânsito é do arrendatário ou devedor fiduciante. Incidência do disposto na Resolução nº 149/03 e 404/2012, do CONTRAN. Honorários advocatícios mantidos, já que fixados no mínimo legal. RECURSO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJfls. 1.193-1.199).
+O recorrente defende, em síntese: i) violação dos arts. 134, 257 e 282, § 3º,do Código de Trânsito Brasileiro - CTB, aduzindo que não há como o recorrido não se responsabilizar pelas multas lavradas para os veículos, já que permanece como proprietário deles. Ademais, afirma que o recorrido, na posição de arrendador, deixou de tomar as medidas legais cabíveis perante o DETRAN para identificar os arrendatários e desvincular seu nome da propriedade dos veículos, razão pela qual deve arcar com a responsabilidade pelo cometimento das infrações; e ii) ofensa ao art. 85, § 8º, do CPC/2015, ao argumento de que o valor arbitrado a título de honorários advocatícios é exagerado, devendo ser dado prevalência à razoabilidade e equidade, resultando na redução do valor.
+Apresentadascontrarrazões (e-STJfls. 1.024-1.217), o recurso especial foi admitido na origem (e-STJfls. 1.218-1.219).
+Parecer pelo não conhecimento ao recurso especial(e-STJfls 1.246-1.250).
+É o relatório.
+A irresignação não merece prosperar.
+Verifica-se que o Tribunal de origem resolveu a controvérsia nos seguintes termos(e-STJfl.1.159):
+Constata-se, portanto, que o autor não poderia, de fato, ser responsabilizado pelo pagamento das infrações de trânsito que recaem sobre os veículos descritos na inicial, durante e, evidentemente, após a vigência do contrato de financiamento com os devedores fiduciários.
+Assim, o acórdão proferido na origem encontra-se em consonância com a orientação do Superior Tribunal de Justiça, de que é do arrendatário possuidor direto do bem a responsabilidade pelo pagamento de multa decorrente de infração relativa ao uso indevido do bem arrendado, e não do arrendante.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO ANULATÓRIA DE ATO ADMINISTRATIVO. ARRENDAMENTO MERCANTIL. MULTA. RESPONSABILIDADE DO ARRENDATÁRIO. PRECEDENTES. SÚMULA 83/STJ.
+1. Cuida-se de inconformismo com acórdão do Tribunal de origem que considerou que o Município de São Paulo tem a responsabilidade pelo pagamento das multas de trânsito, haja vista que exerce a qualidade de arrendatário e tem a posse direta dos veículos.
+2. O aresto proferido na origem encontra-se em consonância coma orientação do Superior Tribunal de Justiça de que é do arrendatário - possuidor direto do bem - a responsabilidade pelo pagamento de multa decorrente de infração relativa ao uso indevido do bem arrendado, e não do arrendante. A propósito: AgRg no REsp 1.442.087/MG, Rel. Ministro Humberto Martins, Segunda Turma, DJe 30.6.2015; AgRg no AREsp 606.736/SC, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 20.3.2015; AgRg no Ag 1.303.257/DF, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 22.3.2011; REsp 787.429/SP, Primeira Turma, Rel. Min. Francisco Falcão, DJ de 4.5.2006; REsp 1.725.404/SP, Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 23/5/2018.
+3. Verifica-se que o Tribunal a quo decidiu de acordo com a jurisprudência do STJ, de modo que se aplica à espécie o enunciado da Súmula 83/STJ: "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida.".
+4. Recurso Especial não provido.
+(REsp 1.811.105/SP, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/6/2019, DJe 1º/7/2019).
+No tocante à suposta ofensa ao art. 85, § 8º, do Código de Processo Civil/2015, este foi violado, mas deixa deapontar, de forma clara, o vício em que teria incorrido o acórdão impugnado. Assim, é inviável o conhecimento do recurso especial nesse ponto, diante do óbice da Súmula 284/STF.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, bem como na Súmula 568/STJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
