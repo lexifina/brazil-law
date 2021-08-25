@@ -1,0 +1,36 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO OU EQUIPARADO. APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. ANALOGIA IN BONAM PARTEM. MERO INCONFORMISMO COM O RESULTADO DA DEMANDA. EMBARGOS REJEITADOS.
+1. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+2. Ao contrário do que entenderam as instâncias ordinárias, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime do Paciente, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não é o caso.
+3. Descabida a análise pelo Superior Tribunal de Justiça de eventual ofensa a preceitos de ordem constitucional, nem mesmo para fins de prequestionamento, sob pena de usurpação à competência do Supremo Tribunal Federal, estabelecida pelo constituinte originário no art. 102, inciso III, da Constituição da República.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Olindo Menezes (Desembargador Convocado do TRF 1ª Região).
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos pelo MINISTÉRIO PÚBLICO FEDERAL ao acórdão de fls. 50-56, mediante o qual esta Sexta Turma negou provimento ao agravo regimental nos termos da seguinte ementa (fl. 50):
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984, COM AS ALTERAÇÕES DA LEI N. 13.964/2019. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. PROCEDÊNCIA. AGRAVO DESPROVIDO.
+1. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.910.240/MG, publicado em 31/05/2021, da Relatoria do Ministro ROGÉRIO SCHIETTI CRUZ, firmou a tese de que: "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante."
+2. Assim, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime para o condenado pela prática de crime hediondo, mas reincidente em crime comum, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não corresponde à situação dos autos.
+3. Agravo regimental desprovido."
+Nas razões do recurso integrativo, o Parquet Federal sustenta que o julgado embargado "encontra-se eivado de omissão, especialmente em razão da necessidade de debate expresso sobre importantes questões de matriz constitucional, relevantes para o deslinde da matéria controversa (violação dos princípios da isonomia e da individualização da pena), inclusive para fins de prequestionamento, razão pela qual comporta integralização, o que viabiliza o manejo dos Embargos de Declaração" (fl. 61).
+Ao final, postula a atribuição de efeitos infringentes aos presentes embargos a fim de seja restabelecido o acórdão da Corte de origem.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO OU EQUIPARADO. APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA. ANALOGIA IN BONAM PARTEM. MERO INCONFORMISMO COM O RESULTADO DA DEMANDA. EMBARGOS REJEITADOS.
+1. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos embargos de declaração.
+2. Ao contrário do que entenderam as instâncias ordinárias, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime do Paciente, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não é o caso.
+3. Descabida a análise pelo Superior Tribunal de Justiça de eventual ofensa a preceitos de ordem constitucional, nem mesmo para fins de prequestionamento, sob pena de usurpação à competência do Supremo Tribunal Federal, estabelecida pelo constituinte originário no art. 102, inciso III, da Constituição da República.
+4. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Conforme dispõe o art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou ambiguidade existentes no julgado, o que não se verifica na hipótese.
+Com efeito, esta Sexta Turma, no aresto embargado, solucionou a quaestio juris de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento, em perfeita consonância com a legislação aplicável à espécie e com a jurisprudência pacificada no âmbito das Quinta e Sexta Turmas desta Corte.
+A propósito, confira-se o seguinte trecho do aresto impugnado (fls. 54-55):
+" ..  ao contrário do que entenderam as instâncias ordinárias, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime do Agravado, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não corresponde à situação dos autos.
+Com efeito, na hipótese em exame, o Paciente alcançará o lapso temporal para a progressão de regime quando houver cumprido ao menos 40% (quarenta por cento) da reprimenda, segundo o disposto no art. 112, inciso V, da Lei n. 7.210/1984."
+Outrossim, "não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal" (EDcl no AgRg no RCD nos EDcl no AgRg no AREsp 872.670/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/03/2019, DJe 02/04/2019).
+Portanto, não prospera a alegação de contradição no julgado embargado. Em verdade, trata-se de mero inconformismo do Embargante com o resultado do julgamento o que, contudo, não viabiliza a oposição de embargos de declaração.
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
