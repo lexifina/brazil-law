@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto por ABYARA BROKERS INTERMEDIAÇÃO IMOBILIÁRIA LTDA.contra acórdão assim ementado (fl. 335):
+ILEGITIMIDADE PASSIVA "AD CAUSAM" - DEMANDA DE RESCISÃO CONTRATUAL - LEGITIMIDADE PASSIVA DA CONSTRUTORA CORRÉ CARACTERIZADA - SOLIDARIEDADE QUE DECORRE DO ART. 7º, PARÁGRAFO ÚNICO E ART. 25, §1º, AMBOS DO CDC - REJEIÇÃO.
+JULGAMENTO EXTRA PETITA INOCORRÊNCIA PLEITEADA A RESTITUIÇÃO DAS IMPORTÂNCIAS PAGAS PELO PROMISSÁRIO-COMPRADOR EM FACE DAS RÉS SOLIDARIAMENTE.
+COMPRA E VENDA RESCISÃO CONTRATUAL SENTENÇA QUE DETERMINOU A RETENÇÃO DE 15% DAS IMPORTÂNCIAS PAGAS PELO COMPRADOR EM FAVOR DAS VENDEDORAS RECURSOS DAS INCORPORADORAS ALMEJANDO RETER 70% DAQUELE VALOR - ABUSIVIDADE - RESCISÃO DO CONTRATO ACARRETA A REPOSIÇÃO DAS PARTES AO "STATUS QUO ANTE", ADMITIDA A RETENÇÃO DE 10% DO QUE FOI EFETIVAMENTE PAGO PARA COMPENSAR OS PREJUÍZOS DECORRENTES DO DESFAZIMENTO DO NEGÓCIO DEVOLUÇÃO QUE DEVERÁ SER REALIZADA EM PARCELA ÚNICA - QUESTÃO SUMULADA NESTE E. TJSP (VERBETES 2 E 3) SENTENÇA REFORMADA RECURSOS PROVIDOS EM PARTE.
+Os embargos de declaração opostos na origem foram rejeitados (fls. 357/358).
+Em suas razões, a recorrente alega afronta aos arts. 141, 485, VI, 489, II, e §1º, IV, 492, 1.013 e 1.022, I e II, doCódigo de Processo Civil/2015; 7º, parágrafo único, 14 e 25, § 1º, do Código de Defesa do Consumidor; e 186 e 927 do Código Civil, bem como dissídio jurisprudencial. Preliminarmente argui omissão do Tribunal de origem "quanto aos fundamentos da reformatio in pejus de ofício" (fl. 368). No mérito, aduz não ter legitimidade para figurar no polo passivo da ação e que houve julgamento extra petita, pois o "Recorrido NÃO EFETUOU PEDIDO DE CONDENAÇÃO SOLIDÁRIA no que diz respeito a pretensão de indenização por lesão extrapatrimonial" (fl. 368) e a "corretora imobiliária não cobrou e nem recebeu qualquer parcela do preço negociado para aquisição do imóvel" (fl. 372). Acrescenta que houve reformatio in pejus, poishouve diminuição do percentual de retenção de ofício, uma vez que a apelação do ora recorrido foi julgada deserta.
+Passo a decidir.
+Assiste razão à recorrente.
+O acórdão recorrido efetivamente foi omisso em relação à arguição de reformatio in pejus, ao reduzir o percentual de retenção quando o recurso da parte contrária foi julgado deserto.
+Em face do exposto, prejudicada a análise dos demais pontos, douprovimento ao recurso especial, determinando o retorno dos autos ao Tribunal de origem, com vistas ao julgamento da questão posta em discussão.
+Intimem-se.
