@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Ministério Público Federal, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Região assim ementado (e-STJ Fl. 919):
+ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. APELAÇÃO E REEXAME NECESSÁRIO. TARIFA DE LIGAÇÃO INTERURBANA. DELIMITAÇÃO DA ÁREA LOCAL PARA EFEITOS DE COBRANÇA DE TARIFA INTERURBANA. CRITÉRIOS TÉCNICOS E NÃO GEO-POLÍTICOS. COMPETÊNCIA DA AGÊNCIA REGULADORA. IMPOSSIBILIDADE DE INTERVENÇÃO DO PODER JUDICIÁRIO. PRECEDENTES DO SUPERIOR TRIBUNAL DE JUSTIÇA. APELAÇÃO E REEXAME NECESSÁRIO PROVIDOS.
+1. A presente ação foi ajuizada com a finalidade de obter a declaração de ilegalidade da cobrança de tarifas de longa distância nas ligações telefônicas realizadas entre a cidade de Nova Andradina e os distritos nos arrabaldes.
+2. Ao tempo da vigência da Resolução ANATEL 85/98, a classificação de uma região como área local considerava não apenas o critério da divisão geopolítica, como também os critérios técnicos e econômicos, em consonância com a Constituição Federal e com a Lei 9.472/97 (Lei Geral das Telecomunicações).
+3. Estando a atuação da ANATEL em conformidade com a competência estabelecida na legislação vigente à época dos fatos, não cabe ao Poder Judiciário imiscuir-se no mérito do ato administrativo. Precedentes do STJ.
+4. Tampouco houve ilegalidade na conduta da corré Brasil Telecom S/A., uma vez que atuou em conformidade com a Resolução ANATEL 85/98 e, na qualidade de prestadora de serviços de telefonia, estava adstrita ao princípio da legalidade. Precedentes do STJ e deste Tribunal.
+5. Apelação e reexame necessário providos.
+Os embargos de declaração opostos foram rejeitados.
+O recorrente sustenta, além de divergência jurisprudencial, violação dos arts. 489, § 1º, IV e V, e 1.022, II, do CPC, sob a alegação de omissão e ausência de fundamentação no julgado.
+Aduz que o aresto impugnado violou os arts. 2º, 5º, 7º, 19, 38 e 127 da Lei n. 9.472/1997; 6º da Lei n. 8.987/1995; 39 e 51 do Código de Defesa do Consumidor; 20 da Lei n. 8.884/1994; e 36 da Lei n. 12.529/2011. Explicita que é ilegal a cobrança de tarifa interurbana em ligações realizadas na área do município em comento, pois a seu ver:
+compete ao Poder Público estimular a expansão desse serviço em beneficio da população brasileira, observando-se, entre outros, os princípios da defesa do consumidor e da repressão ao abuso do poder econômico (e-STJ fl. 1.041).
+As contrarrazões foram apresentadas (e-STJ fls. 1.066-1.081).
+O parecer do Ministério Público Federal é pelo provimento da iniciativa.
+É o relatório.
+O Tribunal a quo considerou lícita a cobrança da tarifa de longa distância nas ligações realizadas entre a cidade de Nova Andradina e demais distritos arrolados na ação civil pública de que tratam os autos, consignando que a medida está em conformidade com os critérios técnicos e econômicos previstos na Constituição Federal e na Lei n. 9.472/1997, razão pela qual não caberia ao Poder Judiciário invadir o mérito do ato administrativo.
+Confira-se os excertos do acórdão impugnado:
+De fato, conforme sustentado pela Brasil Telecom S/A em suas razões de apelação, ao tempo da vigência da Resolução ANATEL 85/98, a classificação de uma região como área local considerava não apenas a divisão geopolítica, como também questões técnicas e econômicas.
+A adoção desses critérios estava em consonância com a Constituição Federal e com a Lei 9.472/97 (Lei Geral das Telecomunicações), que estabelecem competir à União, por meio de seu órgão regulador (in casu, a ANATEL) organizar, regular e fiscalizar a exploração de serviços de telecomunicações, estabelecendo as tarifas para cada tipo de serviço telefônico.
+ ..
+Assim, estando a atuação da ANATEL em conformidade com a competência estabelecida na legislação vigente à época dos fatos, não cabe ao Poder Judiciário imiscuir-se no mérito do ato administrativo. Nesse sentido, a jurisprudência do Superior Tribunal de Justiça (e-STJ fl. 912).
+Nessa senda, não há falar em omissão no aresto, uma vez que o Tribunal local manifestou-se sobre todas as questões relevantes para a solução da controvérsia e emitiu seu pronunciamento de forma fundamentada. O inconformismo do recorrente quanto ao decidido não configura violação dos dispositivos invocados.
+Ademais, o posicionamento adotado pelo Tribunal a quo está de acordo com a orientação consolidada desta Corte, segundo a qual:
+a delimitação da chamada "área local" para fins de configuração do serviço local de telefonia e cobrança da tarifa respectiva leva em conta critérios de natureza predominantemente técnica, não necessariamente vinculados à divisão político-geográfica do município. Previamente estipulados, esses critérios têm o efeito de propiciar aos eventuais interessados na prestação do serviço a análise da relação custo- benefício que irá determinar as bases do contrato de concessão.
+(REsp 572.070/PR, Rel. Min. JOÃO OTÁVIO DE NORONHA, SEGUNDA TURMA, DJ de 14/6/2004).
+A propósito:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. PROVIMENTO. SÚMULA 7/STJ. INAPLICABILIDADE. QUESTÃO DE DIREITO. COBRANÇA DE TARIFA INTERURBANA. ÁREA LOCAL. CRITÉRIOS DE CARÁTER ESSENCIALMENTE TÉCNICO. DIVISÃO POLÍTICO-GEOGRÁFICA DO MUNICÍPIO. IRRELEVÂNCIA. REDEFINIÇÃO DAS ÁREAS PELO PODER JUDICIÁRIO. IMPOSSIBILIDADE.
+1. A mera revaloração dos critérios jurídicos utilizados pelo Tribunal de origem na apreciação dos fatos incontroversos não é obstada pela Súmula 7/STJ (AgRg no REsp 1338350/CE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 05/05/2015, DJe 12/05/2015).
+2. Hipótese em que a questão a ser dirimida é exclusivamente de direito, a saber, se o fato - incontroverso nos autos - de um distrito integrar um determinado Município impõe necessariamente que ambos integrem uma mesma "área local" para cobrança de tarifa de serviço de telefonia.
+3. A delimitação da "área local" para cobrança de tarifa de serviço de telefonia considera critérios de caráter essencialmente técnicos, não vinculados necessariamente à divisão político-geográfica do município, de modo que não cabe ao Judiciário a redefinição das áreas, ainda que se trate de chamadas realizadas entre a sede do Município e seus distritos.
+4. Agravo regimental não provido.
+(AgRg no AgRg no AREsp 383.075/MS, Rel. Ministro OLINDO MENEZES - DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO, PRIMEIRA TURMA, julgado em 15/10/2015, DJe 28/10/2015).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA. TELEFONIA. REGIÃO METROPOLITANA. TARIFA INTERURBANA COBRADA EM RELAÇÃO A LIGAÇÕES INTERMUNICIPAIS CONTURBADAS.
+1. Trata-se de ação civil pública intentada pelo Ministério Público questionando a legalidade da cobrança de tarifas diferenciadas nas ligações de telefonia fixa, entre terminais situados em municípios conturbados, notadamente dentro da mesma região metropolitana.
+2. No caso dos autos, o Tribunal a quo decidiu que as ligações telefônicas efetuadas entre o Município de São Sebastião do Caí e da Localidade de Conceição, e vice-versa, devem respeitar o valor cobrado nas ligações locais, em razão da localidade situar-se na zona urbana do Município de São Sebastião.
+3. Inicialmente, observe-se que a matéria controvertida encontra-se clara e prequestionada pela Instância de origem, razão pela qual é de se afastar a alegação de violação do art. 535 do CPC.
+4. Quanto ao mérito, esta Corte firmou o entendimento no sentido de que "a delimitação da chamada "área local", para fins de configuração do serviço de telefonia e cobrança da tarifa respectiva, leva em conta aspectos predominantemente técnicos, não necessariamente vinculados à divisão político-geográfica do município; previamente estipulados, esses critérios têm o efeito de propiciar aos eventuais interessados na prestação do serviço a análise da relação custo-benefício que determinará as bases do contrato de concessão; e não cabe ao Judiciário adentrar o mérito das normas e procedimentos regulatórios que inspiraram a configuração das "áreas locais"".
+(REsp 1.009.902/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/9/2009 ).
+Ante o exposto, com fulcro no art. 932, IV, do CPC/2015, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
