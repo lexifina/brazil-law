@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de CARLOS IVAN ESCOBARem que se aponta como autoridade coatoraTribunal de Justiça do Estado do Rio Grande do Sul(HC n. 5084482-48.2021.8.21.7000).
+O paciente encontra-se preso preventivamente, desde 4/6/2021, pela suposta prática dos delitos descritos nos arts. 157, capute§§ 2º,II, e 2º-A,I,e 180, caput, do Código Penal, todos na forma do art. 69 do mesmo diploma legal.
+A defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos autorizadores da custódia cautelar. Aduz quea prisão preventiva fundou-seem elementos característicos dotipo penal imputado, em presunções e em situações genéricas.
+Ponderaque o paciente ostenta condições pessoais favoráveiscomobons antecedentes. Assevera que o fato de ele residir em outra cidade, emGravataí (RS), não é suficiente para indicar que irá prejudicar a investigação ou até mesmo fugir.
+Requer a concessão da ordem para colocar o paciente em liberdade provisória. Alternativamente, pede a substituição da prisão preventiva por medidas cautelares entre as elencadas no art. 319 do CPP.
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 17-18):
+Pois bem, analisando os elementos dos autos, verifiquei que estão presentes neste caso os requisitos do art. 312 do CPP, justificadores do decreto prisional provisório.
+Isso porque, os crimes eventualmente praticados têm pena máxima superior a 04 anos, o que justificaria o decreto preventivo.
+ ..
+No caso dos autos, os elementos trazidos, em especial o auto de apreensão e depoimentos dos policiais militares e vítima, comprovam a existência dos crimes, bem como indícios suficientes da autoria, ao menos para esta fase procedimental.
+Além disso, a decretação da custódia preventiva dos acusados é necessária, porquanto presente efetivo perigo gerado pelo estado de liberdade dos imputados.
+Tal perigo vem substanciado no fato de que os acusados foram abordados pelos policiais rodoviários federais, após monitoramento, com uma bicicleta desmontada, objeto de furto e R$ 1.600,00 em espécie proveniente de roubo à pedestre.
+Note-se que, pelos elementos trazidos, os flagrados residem na região metropolitana (Gravataí e Cachoeirinha), tendo vindo para o Litoral para realizar crimes contra o patrimônio, fatos que estavam sendo investigados pelo Delegacia de Três Cachoeiras, assim como na cidade de Glorinha, havendo inclusive medidas judiciais daquela Comarca visando conter a prática delitiva dos flagrados, o que acabou se confirmando com a prisão em flagrante operada.
+Além disso, existe efetivo risco a ordem pública, uma vez que, em liberdade, os acusados voltam a delinquir e praticando crimes graves, colocando em risco a pacata comunidade de Três Cachoeiras e outros Municípios, como o caso dos autos.
+Nessa linha, colocar os acusados em liberdade neste momento, possibilita que continuem planejando e praticando outros crimes, atentando contra a integridade física e patrimônio das vítimas.
+Por isso, existem fatos contemporâneos e concretos que justificam a segregação cautelar.
+Não bastasse, também é necessária a prisão preventiva, para garantir o adequado prosseguimento das investigações, na medida em que o flagrados não residem nesta Comarca, podendo evadir-see impossibilitar as investigações e a aplicação da lei penal.
+Diante desse quadro, a medida mais adequada no momento é a prisão preventiva, já que outras medidas cautelares não se mostrarão efetivas para evitar novos crimes.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Acrescente-se queeventuais condições subjetivas favoráveis do paciente, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ademais,não há constrangimento ilegal em negar ao réu o direito de recorrer em liberdade quando remanescerem os fundamentos que ensejaram a custódia cautelar, principalmente se, durante toda a instrução criminal, ficou preso provisoriamente (HC n. 463.428/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 9/4/2019).
+Como visto, na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus, ficando prejudicado o pedido de liminar.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
