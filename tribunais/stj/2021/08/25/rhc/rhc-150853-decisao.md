@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto por JOSÉ VALDI COUTINHO contra decisão monocrática proferida no âmbito do Tribunal de Justiça do Ceará.
+Consta dos autos que o recorrente foi denunciado pelo crime de desobediência, previsto no artigo 330 do Código Penal.
+Buscando o trancamento do feito por atipicidade, a defesa impetrou o habeas corpus originário perante a Corte de origem. O writ foi extinto sem apreciação meritória em virtude da reiteração com pedidos já pleiteados em outra ação mandamental, conforme destacado na decisão monocrática de fls. 97-99 (e-STJ).
+Nesta instância, renova o recorrente a pretensão de trancamento da ação penal, enfatizando a inépcia da denúncia, a atipicidade da conduta e a ausência de provas de materialidade e de autoria do delito.
+Requer o provimento do recurso para que seja determinado o trancamento da Ação Penal n. 0001102-35.2011.8.06.0000.
+O Ministério Público Federal ofertou parecer pelo não conhecimento do recurso.
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, ressalvado nos casos de flagrante ilegalidade ou teratologia da decisão impugnada, sob pena de indevida supressão de instância (Súmula 691/STF).
+O enunciado aplica-se também à hipótese em que se impugna decisão singular do Relator, a qual deveria ter sido impugnada por agravo interno, que devolveria a questão ao colegiado competente, nos termos do art. 105, inciso I, alíneas a e c, da Constituição Federal.
+Com efeito, "a provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente; se a defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior (precedentes)" (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018). No mesmo sentido, cito: AgRg no HC 332.057/BA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/3/2016, DJe 28/3/2016; e HC 264.184/RN, Rel. Ministra ALDERITA RAMOS DE OLIVEIRA (DESEMBARGADORA CONVOCADA DO TJ/PE), SEXTA TURMA, DJe 24/4/2013).
+Além disso, na hipótese, verifique-se que a pretensão não foi analisada pelo Tribunal de Justiça porque o Desembargador verificou a reiteração dos pedidos com aqueles já veiculados em mandamus anteriormente impetrado (HC n. 12057-28.2011.8.06.0000), que aguarda julgamento (e-STJ, fls. 97-99). Assim, considerando que o Tribunal de origem analisará em breve a matéria, inclusive com possibilidade de acolhimento da demanda, resta inviabilizada sua apreciação inaugural por este Superior Tribunal de Justiça.
+Destaque-se também que, consoante bem abordado pelo Ministério Público Federal em seu parecer, o feito foi deslocado para a primeira instância no ano de 2013 (recorrente deixou o cargo de Prefeito do Município de Independência/CE), não havendo sequer notícias sobre o recebimento ou não da denúncia pelo juízo agora competente. Confira-se:
+"Ademais, em consulta realizada ao sítio eletrônico do Tribunal de Justiça do Estado do Ceará, verifica-se que o TJCE declinou da competência em 13/01/2013, encaminhando os autos ao Juízo da primeira instância. Vale frisar que os autos estão insuficientemente instruídos, por não haver qualquer informação sobre o prosseguimento da ação penal ou eventual recebimento da denúncia e desenrolar da instrução criminal em primeiro grau.
+Portanto, diante da insuficiência das informações contidas nos autos, não é possível analisar a existência de constrangimento ilegal." (e-STJ, fl. 224, grifou-se).
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
