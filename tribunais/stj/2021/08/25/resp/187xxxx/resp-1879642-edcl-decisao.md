@@ -1,0 +1,12 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. DECISÃO QUE DEIXOU DE APLICAR A CONDENAÇÃO DA VERBA HONORÁRIA RECURSAL. OMISSÃO RECONHECIDA E SUPRIDA. DECLARATÓRIOS DO CONDOMÍNIO AOS QUAIS SE DÁ PROVIMENTO.
+1. Trata-se de embargos de declaração opostos por CONDOMÍNIO SUMMER COASTcontra a decisão que negou seguimento ao Recurso Especial da parte contrária, assim ementada:
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL COM PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO. ÁGUA E ESGOTO. CONDOMÍNIO. ACÓRDÃO RECORRIDO QUE ACOLHEU PEDIDO DE APLICAÇÃO DA PROGRESSIVIDADE NA TARIFA, DECLARANDO A NULIDADE DAS COBRANÇAS, O REFATURAMENTO E A DEVOLUÇÃO DO EVENTUAL INDÉBITO. ENTENDIMENTO FIRMADO POR ESTE STJ EM SEDE DE REPETITIVO, PELO QUAL O PRAZO PRESCRICIONAL É AQUELE PRESCRITO PELA NORMA GERAL DO CÓDIGO CIVIL, SENDO DE 20 ANOS PARA O CC/1916 E DE 10 ANOS PARA O CC/2002. NO MÉRITO, A CAUSA FOI APRECIADA PELA CORTE LOCAL FORTE NA INTERPRETAÇÃO DE NORMAS ESTADUAIS, FATOR QUE IMPEDE A SUA APRECIAÇÃO EM SEDE DE RECURSO ESPECIAL. SÚMULA 280/STF. EXISTÊNCIA DE MATÉRIAS RECORRIDAS SEM QUE SE TENHA ESTABELECIDO QUALQUER RELAÇÃO COM EVENTUAL VIOLAÇÃO LEGAL OU DISSÍDIO INTERPRETATIVO. PEDIDO DE ATRIBUIÇÃO DE EFEITO SUSPENSIVO AO APELO RARO PREJUDICADO. RECURSO ESPECIAL DA CEDAE A QUE SE NEGA SEGUIMENTO(fls. 826).
+2. Aduz a parte embargante que a decisão embargada deixou de arbitrar os honorários recursais, a teor do art. 85,§ 11, do CPC/2015.
+3. Devidamente intimada (fls. 837), a parte embargada nãoapresentouimpugnação, conformecertidões de fls. 870/882.
+4. É o relatório.
+5. Assiste razão à parte embargante, porquantode fatoconstato a omissão na decisão ao não fixar a verba honorária recursal, conforme oart. 85,§ 11, do CPC/2015.
+6. Dessa maneira, conheço dos embargos de declaração do condomínio para incluir na decisão agravadaa seguinte determinação a respeito dos honorários recursais:
+Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+7. Ante o exposto, dou provimento aos embargos de declaração do condomínio paraincluir a condenação da verba honorária recursal, nos termos da fundamentação.
+8. Publique-se. Intimações necessárias
