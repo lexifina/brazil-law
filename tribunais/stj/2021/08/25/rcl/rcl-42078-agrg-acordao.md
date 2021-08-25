@@ -1,0 +1,39 @@
+EMENTA
+AGRAVO REGIMENTAL NA RECLAMAÇÃO. ARGUIÇÃO DE PRESCRIÇÃO. IMPOSSIBILIDADE DE ANÁLISE. MARCOS INTERRUPTIVOS NÃO DEMONSTRADOS. HIPÓTESES RESTRITAS DE CABIMENTO DA RECLAMAÇÃO. PRESERVAÇÃO DE COMPETÊNCIA OU DESRESPEITO À AUTORIDADE DE DECISÃO ESPECÍFICA DO STJ. NÃO OCORRÊNCIA. INDEFERIMENTO LIMINAR MANTIDO. AGRAVO IMPROVIDO.
+1. Em que pese a extinção da punibilidade, em razão da prescrição, ser matéria de ordem pública, o agravante não trouxe aos autos elementos seguros e suficientes a atestar os marcos interruptivos, o que impossibilita o conhecimento da quaestio.
+2. "A reclamação constitucional não é a via adequada para preservar a jurisprudência do STJ, mas sim a autoridade de suas decisões tomadas no próprio caso concreto" (AgRg na Rcl 37.822/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 12/06/2019, DJe 17/06/2019). No mesmo sentido: AgRg na Rcl 39.139/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 12/02/2020, DJe 21/02/2020.
+3. A reclamação constitucional não constitui sucedâneo recursal, porquanto destinada apenas a preservar a competência e a garantir a autoridade das decisões proferidas pelo próprio Superior Tribunal de Justiça, o que não ocorre na hipótese dos autos, em que a reclamação foi ajuizada contra decisão monocrática de Desembargador do Tribunal de Justiça que deixou de admitir agravo interno, dada a preclusão.
+4. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), Laurita Vaz, João Otávio de Noronha, Sebastião Reis Júnior, Rogerio Schietti Cruz, Ribeiro Dantas e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pelo Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO):  Trata-se de agravo regimental interposto contra decisão que indeferiu liminarmente a reclamação.
+Sustenta o agravante, preliminarmente, ocorrência da prescrição, com fundamento no art. 109, IV, do CP, "pois a prolação da sentença foi dia 30/07/2012 e até data atual já se passaram mais de 09 anos" (fl.36).
+Alega fazer jus à minorante do art. 33, § 4º, da Lei 11.343/2006, tendo em vista a ínfima quantidade de entorpecente apreendido, bem como, por conseguinte, ao abrandamento do regime prisional.
+Argumenta que os inquéritos policiais e as ações penais em curso não podem ser utilizados como maus antecedentes para elevar a pena-base na 1ª fase da dosimetria da pena.
+Afirma restar devidamente cumprido o art. 1º da Resolução 12/2009 do STJ, uma vez que "a presente impugnação visa dirimir divergência entre o acórdão prolatado pela Turma Recursal Criminal Estadual e a jurisprudência desta Corte firmada no Enunciado 444 da Súmula do STJ" (fl. 45).
+Requer o provimento do agravo regimental para reconhecer a prescrição, ou para que seja revista a pena aplicada, reduzindo-se a pena-base e reconhecendo-se o tráfico privilegiado. Pugna, por fim, que seja fixado o regime inicial aberto.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  A defesa busca a reforma da decisão que indeferiu liminarmente a reclamação.
+Em que pese a eventual extinção da punibilidade, em razão da prescrição, ser matéria de ordem pública, o agravante não trouxe aos autos elementos seguros e suficientes a atestar os marcos interruptivos, o que impossibilita o conhecimento do agravo, no ponto.
+Ao que se tem dos autos, a reclamação foi ajuizada com o fim de impugnar decisão proferida por desembargador do Tribunal de Justiça de Minas Gerais, que não conheceu de agravo interno em razão da preclusão consumativa (fls. 19-20), estando a decisão agravada assim fundamentada (fls. 31-32):
+A reclamação prevista no art. 105, I, f, da Constituição Federal é garantia constitucional destinada à preservação da competência do Superior Tribunal de Justiça ou para garantir a autoridade de suas decisões em caso de descumprimento ou de cumprimento em desacordo com os limites do julgado aqui proferido.
+Contudo, o pleito não se enquadra em nenhuma das hipóteses de cabimento de reclamação, uma vez que inexiste decisão desta Corte proferida no caso concreto e sendo descumprida.
+Importa asseverar que, conforme jurisprudência do STJ, não é possível a interposição de reclamação como sucedâneo recursal para dirimir divergência jurisprudencial:
+A reclamação constitucional não é a via adequada para preservar a jurisprudência do STJ, mesmo que firmada em recurso repetitivo, mas sim a autoridade de suas decisões tomadas no próprio caso concreto. (AgRg na Rcl n. 25.299/SP, relator Ministro Sérgio Kukina, Primeira Seção, DJe de 4/12/2015.) A reclamação constitucional não é instrumento útil para adequar os julgados do Superior Tribunal de Justiça ou do Supremo Tribunal Federal, mesmo que proferidos em sede de recurso repetitivo. Tal procedimento se destina a fazer cumprir decisão proferida em caso concreto que envolva as partes postas no litígio do qual oriundo a reclamação. (AgRg na Rcl n. 22.505/SP, Segunda Seção, relator Ministro Ricardo Villas Bôas Cueva, DJe de 15/4/2015.)
+Assim, inexistindo acórdão do Superior Tribunal de Justiça no caso concreto envolvendo as mesmas partes ora em litígio, não há falar em admissibilidade da reclamação em análise, por ausência de pressuposto formal da ação.
+Ante o exposto, indefiro liminarmente a reclamação.
+A defesa argumenta que restou devidamente cumprido o art. 1º da Resolução 12/2009 do STJ, uma vez que "a presente impugnação visa dirimir divergência entre o acórdão prolatado pela Turma Recursal Criminal Estadual e a jurisprudência desta Corte firmada no Enunciado 444 da Súmula do STJ" (fl. 45).
+"A reclamação constitucional não é a via adequada para preservar a jurisprudência do STJ, mas sim a autoridade de suas decisões tomadas no próprio caso concreto" (AgRg na Rcl 37.822/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 12/06/2019, DJe 17/06/2019). No mesmo sentido: AgRg na Rcl 39.139/SP, Rel. Ministro JORGE MUSSI, TERCEIRA SEÇÃO, julgado em 12/02/2020, DJe 21/02/2020).
+Além disso, a reclamação constitucional não constitui sucedâneo recursal, porquanto destinada à preservar a competência e a garantir a autoridade das decisões proferidas pelo próprio Superior Tribunal de Justiça, o que não ocorre na hipótese dos autos, em que a reclamação foi ajuizada contra decisão monocrática de Desembargador do Tribunal de Justiça, que deixou de admitir agravo interno, em face da preclusão:
+RECLAMAÇÃO. SUCEDÂNEO RECURSAL. IMPOSSIBILIDADE. NÃO EVIDENCIADA QUALQUER DAS HIPÓTESES DE CABIMENTO - USURPAÇÃO DE COMPETÊNCIA OU DESRESPEITO À AUTORIDADE DAS DECISÕES DO STJ. RECLAMAÇÃO JULGADA IMPROCEDENTE.
+1. A reclamação constitucional não constitui sucedâneo recursal, pois destinada apenas a preservar a competência e a garantir a autoridade das decisões proferidas pelo próprio Superior Tribunal de Justiça.
+2. Não ocorrência, na espécie, de usurpação de competência desta Corte Superior ou desrespeito à autoridade de suas decisões.
+3. Reclamação julgada improcedente.
+(Rcl 38.941/TO, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 26/08/2020, DJe 31/08/2020).
+Assim posta a matéria, a realidade é que o agravante não trouxe aos autos fundamentos aptos à alteração da decisão ora agravada, que resta mantida por seus próprios fundamentos. Nego provimento ao agravo regimental.
+É o voto.
