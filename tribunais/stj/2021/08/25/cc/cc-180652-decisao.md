@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de conflito de competência suscitado por Mendes Júnior Trading e Engenharia S/A - em recuperação judicial, em face do Juízo de Direito da 1ª Vara Empresarial de Belo Horizonte/MG e do Juízo da 23ª Vara do Trabalho de Belo Horizonte/MG.
+Afirma a suscitante ter sido deferido, em março de 2016, pelo Juízo de Direito da 1ª Vara Empresarial de Belo Horizonte/MG, o Plano de Recuperação Judicial, aprovado pelos credores e homologado pelo Juízo da recuperação em maio de 2018, estando o processo em pleno curso.
+Aduz que, não obstante, o Juízo da 23ª Vara do Trabalho de Belo Horizonte/MG, nos autos de execução trabalhista, determinou o prosseguimento do feito com a realização de atos de constrição de valores pertenceres à suscitante, o que não poderia ter sido feito em razão de a competência para atos de constrição de bens ou valores da recuperanda ser do Juízo da recuperação judicial.
+Liminar deferida às fls. 1.346/1.348, informações doJuízo da 23ª Vara do Trabalho de Belo Horizonte/MG às fls. 1.354/1.359, sendo que oJuízo de Direito da 1ª Vara Empresarial de Belo Horizonte/MG, apesar de reiteradamente oficiado para se manifestar, quedou-se silente (certidão de fl. 1.369).
+Parecer do Ministério Púbico Federal opinando pelo conhecimento do conflito, declarando-se competente o Juízo da recuperação judicial (fls. 1.371/1.374).
+Eis os fundamentos pelos quais deferi a liminar:
+Assim postos os fatos, verifico que a questão discutida nos autos já foi, reiteradamente, decidida por esta Corte que entendeu que, "com a edição da Lei 11.101/05, respeitadas as especificidades da falência e da recuperação judicial, é competente o juízo universal para prosseguimento dos atos de execução, tais como alienação de ativos e pagamento de credores, que envolvam créditos apurados em outros órgãos judiciais (..)", (CC 110941/SP, Rel. Ministra NANCY ANDRIGHI, Segunda Seção, DJe 1º/10/2010).
+Tal entendimento tem como finalidade dar efetividade aos princípios norteadores do instituto da recuperação judicial, notadamente ao disposto no art. 47 da Lei nº 11.101/05, segundo o qual "a recuperação judicial tem por objetivo viabilizar a superação da situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica".
+Desse modo, são, pois, incompatíveis com a recuperação judicial os atos de execução proferidos por outros órgãos judiciais de forma simultânea com o curso da recuperação ou da falência da empresa devedora.
+Nesse sentido são, dentre outros, os seguintes acórdãos:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. JUSTIÇA LABORAL. ATOS EXECUTÓRIOS. COMPETÊNCIA DO JUÍZO UNIVERSAL. ART. 76 DA LEI N. 11.101/2005. AGRAVO NÃO PROVIDO.
+1. Os atos de execução dos créditos individuais e fiscais promovidos contra empresas em recuperação judicial, devem ser autorizados ou realizados pelo Juízo do soerguimento até o trânsito em julgado da sentença que encerra a recuperação judicial.
+2. A razão de ser da supremacia dessa regra de competência é a concentração, no Juízo da recuperação judicial, de todas as decisões que envolvam o patrimônio da recuperanda, inclusive os valores objeto de constrição no juízo trabalhista, ainda que posteriores à recuperação ou mesmo os créditos extraconcursais, a fim de não comprometer a tentativa de mantê-la em funcionamento.
+3. Agravo interno não provido.
+(AgInt no CC 175.296/MG, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 30/03/2021, DJe 07/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. JUÍZO DO TRABALHO E JUÍZO DA RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS QUE PERSISTE ATÉ O TRÂNSITO EM JULGADO DA SENTENÇA QUE DECLARA O ENCERRAMENTO DO PROCESSO.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o juízo universal para prosseguimento de atos de execução que incidam sobre o patrimônio de empresa em processo falimentar ou de recuperação judicial.
+2. Não compete ao juízo trabalhista interferir no acervo patrimonial da suscitante enquanto não houver a certificação do trânsito em julgado da sentença que declara o encerramento da sua recuperação judicial.
+3. Nos estreitos limites cognitivos do conflito de competência, cabe a esta Corte apenas declarar o juízo competente para dirimir a controvérsia. Qualquer questão referente à reserva e/ou registro do crédito do ora agravante no Quadro Geral de Credores deve ser apresentada ao juízo competente.
+4. Agravo interno não provido.
+(AgInt no CC 167.826/PA, Rel. Ministra NANCY ANDRIGHI, SEGUNDA SEÇÃO, julgado em 18/08/2020, DJe 21/08/2020)
+AGRAVO INTERNO NO CONFLITO POSITIVO DE COMPETÊNCIA SUSCITADO POR EMPRESA EM RECUPERAÇÃO JUDICIAL EM FACE DE JUÍZO DO TRABALHO. COMPETÊNCIA DO JUÍZO FALIMENTAR.
+1. A execução individual trabalhista e a recuperação judicial apresentam nítida incompatibilidade concreta, porque uma não pode ser executada sem prejuízo da outra.
+2. O Juízo universal é o competente para julgar as causas em que estejam envolvidos interesses e bens da empresa recuperanda, inclusive para o prosseguimento dos atos de execução, ainda que o crédito seja anterior ao deferimento da recuperação judicial, devendo, portanto, se submeter ao plano, sob pena de inviabilizar a recuperação. Precedentes do STJ.
+3. Competência do Juízo de Direito da 1.ª Vara Cível de Santa Helena de Goiás/GO, para o prosseguimentos de execuções trabalhistas.
+4. Agravo interno desprovido.
+(AgInt no CC 148.536/GO, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 08/03/2017, DJe 15/03/2017)
+No presente caso está comprovado que a empresa suscitante teve seu pedido de recuperação judicial concedido pelo Juízo de Direito da 1ª Vara Empresarial de Belo Horizonte/MG (fls. 869/872), e que o Juízo da 23ª Vara do Trabalho de Belo Horizonte/MG determinou o prosseguimento da execução objeto dos autos com atos de constrição de valores pertencentes à suscitante (fl. 1.279).
+OJuízo da 23ª Vara do Trabalho de Belo Horizonte/MG informou que, de fato, foi efetivado, via SISBAJUD, o bloqueio de valores pertencentes à suscitante, sendo que, contudo, em razão da liminar aqui deferida, determinou a transferência domontante para o Juízo da recuperação judicial.
+Desse modo, entendo que o presente conflito de competência perdeu o objeto.
+Em face do exposto, revogo a liminar deferida, e não conheço do presente conflito em razão da perda superveniente de objeto.
+Intimem-se.
