@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos àdecisão que determinou a devolução dos autos ao Tribunal estadual, com a devida baixa nesta Corte, para que lá permaneçam suspensos até o julgamento dos REsps 1891498/SP e 1894504/SP, observando-se, em seguida, a sistemática prevista nos arts. 1.040 e 1.041 do NCPC.
+Em suas razões, MAXIMILIANO MARTINS RIBAS alegou que, enquanto Recursos Especiais 1891498/SP e 1894504/SP discutem tão somente a mora do devedor, o caso trazido à baila trata de uma situação que envolve a mora do credor.
+Ao final, requereu o acolhimento dos embargos para sanar obscuridade e afastar o sobrestamento do processo.
+É o relatório.
+Inicialmente, embora não seja cabível recurso contra decisão do relator que determina a devolução dos autos à origem para fins de realização de juízo de conformidade com precedente repetitivo, sopesando a natureza da pretensão ora deduzida e os princípios da economia e celeridade processuais, entendo por bem receber os presentes embargos de declaração como o pedido de distinção de que trata o art. 1.037, §§ 9º e 10º, do CPC.
+Consigno, ainda, que a parte adversa foi intimada para aapresentação da impugnação aos embargos de declaração,de modo que se encontra atendida a providência que determina a sua prévia oitiva (art.1.037, § 11, do CPC).
+Nesse trilhar, observa-se que a questãoreferente àprevalência, ou não, do Código de Defesa do Consumidor na hipótese de resolução do contrato de compra e venda de bem imóvel com cláusula de alienação fiduciária em garantiafoi submetida à Segunda Seção, em conformidade com os arts. 1.036 e seguintes do NCPC, nos termos do acórdão de relatoria do Ministro MARCO BUZZI, prolatado na ProAfR nos REsps 1891498/SP e 1894504/SP, cuja ementa foi deste modo redigida:
+PROPOSTA DE AFETAÇÃO - TEMÁTICA ACERCA DA PREVALÊNCIA, OU NÃO, DO CÓDIGO DE DEFESA DO CONSUMIDOR NA HIPÓTESE DE RESOLUÇÃO DO CONTRATO DE COMPRA E VENDA DE BEM IMÓVEL, COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA.
+1. Delimitação da controvérsia: 1.1. Definição da tese alusiva à prevalência, ou não, do Código de Defesa do Consumidor na hipótese de resolução do contrato de compra e venda de bem imóvel, com cláusula de alienação fiduciária em garantia.
+2. RECURSO ESPECIAL AFETADO AO RITO DO ART. 1.036 CPC/2015.
+(ProAfR nos REsps 1891498/SP e 1894504/SP, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 18/5/2021, DJe 8/6/2021)
+Nesse contexto, a afetação de recurso especial como representativo da controvérsia demanda à Corte de origem a suspensão de recursos interpostos que abordem idêntica questão, até o julgamento definitivo da controvérsia.
+Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do CPC (art. 5º, inciso III, da Resolução nº 8/2008 da Presidência do STJ).
+Ocorre que, examinando-se os autos, sobretudo as premissas de fato fixadas pela Corte de origem àsfls. 306/315 (e-STJ), é possível verificar que a discussão travada no presente processo não desborda da questão tratada nos REsps1891498/SP e 1894504/SP.
+Ressalte-se, ainda, que "antes da verificação da presença de óbices à admissibilidade do recurso especial, deve ser realizada a verificação da existência ou não de pendência: afetação para julgamento repetitivo; repercussão geral reconhecida sobre a matéria, incidente de resolução de demandas repetitivas ou outro incidente de uniformização de jurisprudência" (AgInt nos EDv nos EAg 1409814/RJ, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 04/12/2019, DJe 09/12/2019).
+Não está configurado, portanto, o distinguishing apontado.
+Nessas condições, INDEFIRO o pedido de distinção.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL  CIVIL.  PEDIDO DE DISTINÇÃO. AGRAVO  EM  RECURSO  ESPECIAL.  RECURSO  INTERPOSTO  NA  VIGÊNCIA  DO  NCPC.  CONTROVÉRSIA SOBRE A PREVALÊNCIA, OU NÃO, DO CDC NA HIPÓTESE DE RESOLUÇÃO DO CONTRATO DE COMPRA E VENDA DE BEM IMÓVEL COM CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA. MATÉRIA SUBMETIDA A JULGAMENTO COM O TEMA REPETITIVO N. 1.095/STJ (PROAFR NOS RESPS 1891498/SP E 1894504/SP, REL. MINISTRO MARCO BUZZI, SEGUNDA SEÇÃO). SUSPENSÃO  DO  PROCESSO.  PEDIDO  DE  DISTINÇÃO  INDEFERIDO.  RETORNO  DOS  AUTOS  À  ORIGEM.
