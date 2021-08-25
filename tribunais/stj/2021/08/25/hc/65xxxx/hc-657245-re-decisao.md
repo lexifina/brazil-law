@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto peloMINISTÉRIO PÚBLICO FEDERAL, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 136):
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AGENTE QUE CUMPRE PENA PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME. REINCIDENTE POR CRIME COMUM. REQUISITO OBJETIVO. APLICAÇÃO DO PERCENTUAL DE 40% DO CUMPRIMENTO DA PENA PARA OBTER O BENEFÍCIO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior pacificou o entendimento de que o apenado que cumpre reprimenda por ter praticado crime hediondo ou equiparado somente deve adimplir 60% (sessenta por cento) da pena para requerer a progressão de regime caso a reincidência decorra de crime hediondo ou equiparado.
+2. No caso o sentenciado não é reincidente específico em crime hediondo ou equiparado e, desta forma, o requisito objetivo para o requerimento do referido benefício é o adimplemento de 40% (quarenta por cento) da pena.
+3. Agravo regimental desprovido.
+Os embargos de declaração opostos na sequência foram rejeitados (e-STJ fls. 155-157)
+Sustenta o recorrente a existência de repercussão geral e a violação do art.5º, caput, incisos XLVI e LIV, da Constituição Federal.
+Alega que há ofensa aosprincípios constitucionais da isonomia, da individualização dapenae da vedação à proteção insuficiente.
+Defende quenão seria possível fixar o mesmo percentual para a progressão de regime aos condenados primários e reincidentes.
+Aduz que os dispositivos constitucionais supramencionados impõem um tratamento diferenciado e mais rigoroso aos crimes hediondos.
+Argumentaque o acórdão recorrido estaria em dissonância com a interpretação que deve ser dada ao caso, e que "cria-se uma clara distorção na execução da pena ao instituir verdadeira política criminal às avessas quando igual a condenados em situações distintas, beneficiando aquele que se encontra em situação mais grave" (e-STJ fl. 165).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Não foram apresentadas contrarrazões (e-STJ fls. 175-176).
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃOGERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional.4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa ao princípio do devido processo legal depende da análise do art. 112 da Lei de Execução Penal, razão pela qual incide o Tema 660/STF.
+Ademais, ao julgar o AI n. 754.008 RG/RS,o Supremo Tribunal Federal firmou o entendimento de quenão apresenta repercussão geral o recurso extraordinário queversasobre a análise dos requisitos para concessão de progressão de regime previstos no art. 112 da Lei de Execução Penal.
+Confira-se, por oportuno, a ementa do acórdão:
+RECURSO. Extraordinário. Inadmissibilidade. Progressão de regime. Requisitos. Interpretação do art. 112 da LEP. Lei nº 10.792/03. Exame criminológico. Matéria infraconstitucional. Ausência de repercussão geral. Agravo de instrumento não conhecido. Não apresenta repercussão geral o recurso extraordinário que, versando sobre a análise dos requisitos para concessão de progressão de regime à luz da nova redação do art. 112 da LEP, pela Lei nº 10.792/03, em especial com relação à realização de exame criminológico (exigência de avaliação social e psicológica do apenado), trata de matéria infraconstitucional.
+(AI 754008 RG, Relator(a): CEZAR PELUSO, Tribunal Pleno, julgado em 24/09/2009, DJe-195 DIVULG 15-10-2009 PUBLIC 16-10-2009 EMENT VOL-02378-10 PP-02048)
+No caso dos autos, ao examinar a controvérsia, esta Corte Superior de Justiça assim se manifestou(e-STJ fl. 138):
+ ..
+A jurisprudência desta Corte Superior pacificou o entendimento de que o apenado que cumpre reprimenda por ter praticado crime hediondo ou equiparado somente deve adimplir 60% (sessenta por cento) da pena para requerer a progressão de regime caso a reincidência decorra de crime hediondo ou equiparado.
+No caso o sentenciado não é reincidente específico em crime hediondo ou equiparado e, desta forma, o requisito objetivo para o requerimento do referido benefício é o adimplemento de 40% (quarenta por cento) da pena.
+ ..
+Da leitura das referidas passagens,verifica-se que a discussãocinge-se à questão da alteração dos patamares de progressão de regime de cumprimento da pena previstos no art. 112 da Lei de Execução Penal pela Lei n. 13.964/2019, matéria que, nos termos do Tema 205/STF, possui natureza infraconstitucional e carece de repercussão geral, o que inviabiliza o prosseguimento deste apelo extremo.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", segunda parte, do Código de Processo Civil,nega-se seguimentoao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DO DEVIDO PROCESSO LEGAL. TEMA 660/STF. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITOS PREVISTOS NO ART. 112 DA LEI DE EXECUÇÃO PENAL. MATÉRIA INFRACONSTITUCIONAL. TEMA 205/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
