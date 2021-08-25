@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de embargos de divergência opostos por CLC- EMPREENDIMENTOS IMOBILIÁRIOS LTDA, contra acórdão proferido pela 4ª Turma do STJ.
+Ação: de obrigação de fazer c/c pedido de compensação por danos morais, em fase de cumprimento de sentença, ajuizada pela ora embargante em desfavor de CLARO S.A., em razão de cobranças indevidasem relação a serviços de telefonia.
+Decisão interlocutória: reduziu o valor da multa diária por descumprimento de ordem judicial para R$ 10,00, desde a antecipação dos efeitos da tutela concedida na fase de conhecimento, limitadaao montante de R$ 100.000,00.
+Acórdão:por maioria, deu provimento ao agravo de instrumento interposto pelo embargante, para restabelecer o valor original da multa diária, de R$ 500,00.
+Recurso especial: interposto pela ora embargada, alegou violação dos arts. 461, § 6º, do CPC/73, 14 e 537 do CPC/2015, argumentando que: (i)aplica-se à hipótese dos autos o regramento do CPC/73, que autoriza a revisão da multa cominatória a qualquer tempo; (ii) a revisão, na espécie, é necessária, a fim deevitar o enriquecimento sem causa da parte adversa, mormente porque o montante final da multa alcançou o patamar de R$ 600 mil reais, correspondente a mais de 253 vezes o valor da condenação principal.
+Acórdão da 4ª Turma do STJ: manteve a decisão unipessoal da Relatora, que deu provimento ao recurso especial, para restabelecer os efeitos da decisão interlocutória do juízo do 1º grau de jurisdição, no sentido de revisar a multa diária e fixá-la em R$ 10,00, limitada ao montante total de R$ 100.000,00. O acórdão foi assim ementado (e-STJ fl. 495):
+"AGRAVO INTERNO EM EMBARGOS DE DECLARAÇÃO. RECURSO ESPECIAL. MULTA COMINATÓRIA. VALOR EXORBITANTE. REVISÃO. POSSIBILIDADE.
+1. O valor da multa cominatória não é definitivo, pois poderá ser revisto em qualquer fase processual, inclusive em cumprimento de sentença, caso se revele excessivo ou insuficiente (art. 537, § 1º, do Código de Processo Civil).
+2. Agravo interno a que se nega provimento".
+Embargos de divergência: alega a embargante a existência de divergência entre o acórdão embargado e o entendimento adotado pela 2ª Turma noREsp 1.721.048/PR, no tocante à aplicação da Súmula 7/STJ à pretensão de revisão da multa cominatória em sede de recurso especial, bem como o entendimento adotado pela 3ª Turma no REsp 1.891.069/SC, no sentido de que a razoabilidade e a proporcionalidade da multa não devem ser aferidas segundo a soma total obtida com o descumprimento da medida, mas sim sopesando-se ovalor diário no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante.
+Acórdão da Corte Especial: manteve a decisão unipessoal do Relator que indeferiu liminarmente os embargos de divergência, em relação ao paradigma oriundo da 2ª Turma.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da cisão do julgamento
+De início, observa-se que o acórdão embargado, proferido pela 4ª Turmadeste Tribunal, foi contrastado com paradigmas advindos da 2ª e3ª Turmas, razão pela qual houve a cisão do julgamento dos embargos dedivergência.
+Nessa linha, já concluído o julgamento pela Corte Especial, remanesce oexame do recurso à luz doparadigmada 3ª Turma, no âmbito dacompetência da e. Segunda Seção.
+- Da comprovação da divergência jurisprudencial
+Os embargos de divergência, nos termos dos arts. 1.043 do CPC/15 e 266 do RISTJ, constituem instrumento excepcional voltado à uniformização da jurisprudência interna do Superior Tribunal de Justiça.
+Por isso, a divergência indicada na via excepcional dos embargos deve ser comprovada mencionando-se, de forma clara e precisa, as circunstâncias que identifiquem ou assemelhem as hipóteses confrontadas, de modo a exigir igual solução jurídica. Só assim os embargos podem cumprir a sua função precípua de solucionar controvérsias estritamente jurídicas sobre as quais divirjam duas ou mais Turmas deste Tribunal (AgInt nos EAREsp 862.496/MG, Corte Especial, DJe de 30/11/2016).
+E, no particular, além de não ter sido realizado o cotejo analítico entre os julgados comparados - apenas fez-se a transcrição da ementa do acórdão paradigma (REsp 1.891.069/SC) -, não se observa a necessária similitude fático-processual entre os mesmos.
+Com efeito,constata-se que, no acórdão paradigma, a Terceira Turma assentou o entendimento de que, paraa apuração da razoabilidade e proporcionalidade das astreintes, é mais adequado, em regra, o cotejamento ponderado"entre o valor diário da multa no momento de sua fixação e a prestação que deve ser adimplida pelo demandado recalcitrante". Essa premissa, no entanto, não foi examinada pela Quarta Turma no acórdão embargado, o qual se circunscreveu a asseverar que é possível, excepcionalmente, a revisão da multa cominatória em sede de recurso especial quando for excessiva, como ocorre na hipótese dos autos.
+Ou seja, não se vislumbra, entre os arestos trazidos à colação, a adoção de teses jurídicas dissonantes em relação à mesma questão de direito, o que evidencia ainexistência dedivergência jurisprudencial a ser sanada na presente via.
+Forte nessas razões, INDEFIRO LIMINARMENTE os embargos de divergência, no âmbito da competência da 2ª Seção, com amparo nos arts. 932, III, do CPC/15 e 266-C do RISTJ.
+Deixo de majorar os honorários advocatícios, na forma do art. 85, §11, do CPC/2015,visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Por derradeiro, previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO DE COMPENSAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. ASTREINTES. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL INEXISTENTE.
+1. Aadmissão dos embargos de divergência está condicionada à comprovação do dissídio jurisprudencial, por meio da realização do cotejo analítico e da demonstração da similitude fático-processual entre o acórdão embargado e o julgado paradigma.
+2.Embargos de divergência indeferidos liminarmente.
