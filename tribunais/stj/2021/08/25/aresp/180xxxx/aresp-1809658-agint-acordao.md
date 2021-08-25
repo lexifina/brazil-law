@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. REQUISITOS PARA A PROPOSITURA. EXISTÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de execução. Embargos à execução.
+2. O reexame de fatos e provas não é permitida nesta via recursal.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Agravo interno no agravo em recurso especial não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por BON BRASIL COMÉRCIO DE PRODUTOS ARTESANAIS LTDA  EPP e OUTROS, em face de decisão monocrática que conheceu do agravo em recurso especial, para não conhecer do recurso especial.
+Ação: de execução proposta por CARLOS EDUARDO REAL LOPES e PATRÍCIA RODOLFO em desfavor de BON BRASIL COMÉRCIO DE PRODUTOS ARTESANAIS LTDA - EPP, BR STONES COMÉRCIO DE PRODUTOS ARTESANAIS LTDA e ALICE MASSAE KOTSUBO MATSUDA. Opostos embargos à execução pelos executados.
+Sentença: julgou improcedentes os embargos à execução de BON BRASIL COMÉRCIO DE PRODUTOS ARTESANAIS LTDA - EPP e OUTROS.
+Acórdão: deu parcial provimento à apelação de BON BRASIL COMÉRCIO e OUTROS, "apenas para acolher em parte os embargos com o fim de que a execução prossiga tendo por base os vencimentos regulares das parcelas, com multa de mora de 2% (cláusula 6.1 fls. 27 da execução), juros de mora de 1% e correção monetária pela Tabela do TJSP incidentes a partir dos respectivos vencimentos, condenando ainda os executados a responder integralmente (art. 86, par. ún. CPC) pelas custas e honorários advocatícios arbitrados" (e-STJ fl. 304), conforme a seguinte ementa:
+"EXECUÇÃO POR QUANTIA CERTA. Título extrajudicial. Contrato de mútuo. Termo ordinário verificado. Inocorrência, no caso, do vencimento antecipado, mas sim do vencimento regular das parcelas ajustadas. Inocorrência também da expressa opção de conversão do empréstimo em investimento na empresa mutuária. Impossibilidade de ser afirmada essa opção pelo simples fato de o mutuante ter administrado a empresa em decorrência de procuração outorgada para esse fim pelo prazo de um ano. Fato que não se confunde com participação societária. Recurso parcialmente provido"(e-STJ fl. 298)
+Recurso especial: sustenta violação dos arts. 783, 798, I, "c", 803, I e 917, I, do CPC/15, sustentando: que o título executivo que fundamenta a execução não preenche os requisitos para tanto, o que foi reconhecido pelo próprio acórdão, ao consignar que o termo ordinário de vencimento da obrigação ainda não tinha ocorrido quando da propositura da ação executiva. Pugna pela anulação da presente execução.
+Decisão monocrática: conheceu do agravo em recurso especial, para não conhecer do recurso especial.
+Agravo interno: alega ter preenchido todos os requisitos para a interposição do seu recurso e que não pretende o reexame probatório. Diz que "nenhuma questão de fato ou de interpretação de cláusula contratual foi objeto do Recurso Especial. Absolutamente nenhuma, motivo pelo qual o conhecimento do recurso especial não poderia ter tal deslinde, ante a impossibilidade de análise de cláusula contratual, o que ensejaria o óbice da súmula 7" e que"existindo um fundamento suficiente para a extinção da execução, no caso da matéria retro elencada, não tem a obrigação o Recorrente de impugnar na integralidade o decisum da origem, máxime pelo fato de que, extinta a condição fática para propositura da ação, como é o caso, é o tanto quanto basta para a extinção da execução".No mais, repisa os argumentos já expendidos anteriormente em defesa de sua tese, no sentido de que "afastada o motivo ensejador da demanda(vencimento antecipado)não era lícito aos Embargantes, ora Agravantes, apresentarem Embargos à Execução referente a matéria não constante da inicial, máxime a complexidade da demanda e as confusas cláusulas contratuais, que inclusive permitia o debate obre o cumprimento do prazo de doze meses, contados da assinatura do contrato."(e-STJ, fls. 388/389)
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. EMBARGOS À EXECUÇÃO. REQUISITOS PARA A PROPOSITURA. EXISTÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.
+1. Ação de execução. Embargos à execução.
+2. O reexame de fatos e provas não é permitida nesta via recursal.
+3. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+4. Agravo interno no agravo em recurso especial não provido.
+VOTO
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir o entendimento firmado na decisão ora agravada
+- Da aplicação daSúmula7/STJ
+Ao contrário do alegado no recurso, as premissas que levaram o Tribunal de origem a reconhecer o preenchimento dos requisitos de liquidez e certeza do título, que o tornava apto para a propositura da execução, não podem ser revistas nesta Corte, em razão doóbiceprevistonaSúmula7/STJ, corretamente aplicado, na hipótese.
+Éde se ressaltar, queé assente no STJ a orientação de que o pedido deve ser extraído a partir de uma interpretação lógico-sistemática de todo o conteúdo dapetição inicial, e não apenas de afirmações isoladas ou exclusivamente da parte conclusiva do petitório. Nesse sentido, confiram-se,exemplificativamente: AgInt no AREsp 550.641/PR, 4ª Turma, DJe 14/02/2018e AgInt no AREsp 1.057.132/SP, 3ª Turma, DJe 15/12/2017.
+- Da existência de fundamento não impugnado
+Ademais, não houve a impugnação dos fundamentos utilizados pelo TJ/SP, ao afastar as alegações da parte agravante.
+Com efeito, ficaram incólumes os argumentos de que, "no que realmente sobreleva, bem ou mal, por ocasião da propositura da execução, em maio/2016 (fls. 20), a dívida total já era vencida. (..) Logo, se vencida integralmente a dívida, ainda que não coubesse pelo fundamento invocado, cabia a execução pelo fundamento de fato, visto que existente título de obrigação certa, líquida e exigível. (..) razão não há para extinção do processo, até porque isso certamente levaria à repropositura da execução, com evidente perda de tempo e dinheiro não só para as partes, mas também para o Judiciário, diante da mera reprodução de uma ação já em curso."(e-STJ, fl. 302), razão pela qual deve ser mantido o acórdão recorrido, diante da aplicação, na hipótese, da Súmula 283/STF.
+A decisão agravada, portanto, deve ser mantida por seus próprios fundamentos.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno no agravo em recurso especial.
