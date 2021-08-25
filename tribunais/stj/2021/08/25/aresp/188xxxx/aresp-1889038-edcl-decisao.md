@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ROLOPLAS CILINDROS DE IMPRESSAO EIRELI à decisão de fls. 566/567, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Trata-se de Agravo em Recurso Especial em que foi julgado deserto em razão da comprovação simples do recolhimento na forma do disposto no artigo 1.007 § 4º do CPC, em que a agravante deveria realizar o recolhimento em dobro.
+Ocorre, porém, que quando da interposição do Recurso Especial a agravante realizou a comprovação do recolhimento, sendo anexado ao recurso de forma tempestiva a guia gerada e o comprovante de pagamento, assim, em que pese o comprovante irregular houve a efetiva demonstração de pagamento.
+Entrementes, para não ocorrer dúvidas sobre o efetivo pagamento apesar de sua comprovação quando da interposição do recurso, foi determinada a juntada do comprovante completo para suprimir a irregularidade apontada quanto a ausência de sequencia numérica do código de barras.
+Ínclitos Ministros, verifica-se pelo comprovante anexado na origem às fls. 464, que houve a comprovação do efetivo pagamento, apenas apresentando irregularidade que foi suprida após a juntada do comprovante com a sequencia numérica do código de barras.
+Ou seja, não houve ausência de pagamento, mas, irregularidade de apresentação do documento de comprovação de pagamento (fl. 570).
+ ..
+Entrementes, nos termos do § 4º do artigo 1.007 do CPC - O recorrente que não comprovar, no ato de interposição do recurso, o recolhimento do preparo, inclusive porte de remessa e de retorno, será intimado, na pessoa de seu advogado, para realizar o recolhimento em dobro, sob pena de deserção.
+ ..
+Ocorre, porém, que o entendimento consolidado faz menção a irregularidade de preparo e o § 4º do artigo 1007 do CPC faz menção a ausência de comprovação, ou seja, termos diferentes - IRREGULARIDADE - AUSÊNCIA DE COMPROVAÇÃO.
+Nessa senda, é obscuro o entendimento constante da decisão que julgou deserto o recurso interposto, uma vez que a embargante não deixou de comprovar o recolhimento ensejando o recolhido em dobro constante do §4 do artigo 1.007 do CPC, mas sim o comprovante apresentado se mostrou irregular, razão pela qual foi intimada para apresentar o seu regular comprovante com a correta descrição do código de barras (fl. 571).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Como já consignado na decisão ora embargada, que agora se repete, e ao contrário do afirmado pela parte, não houve a comprovação do recolhimento do preparo no ato de interposição do recurso, uma vez que o comprovante juntado à fl. 464 não é válido, pois não contém a sequência numérica do código de barras.
+Registre-se que este STJ consolidou o entendimento de que "a falta de correspondência entre o código de barras da guia de recolhimento e o comprovante de pagamento enseja irregularidade no preparo do recurso especial, e, portanto, sua deserção". (AgInt no AREsp 1449432/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 12/5/2020.)
+Essa exigência tem respaldo na necessidade de constar o número do código de barras e o do processo, viabilizando a comparação com aqueles lançados na GRU apresentada, para que não haja dúvida acerca da validade do documento e do seu efetivo recolhimento.
+No caso, mesmo após a intimação da parte para sanear o vício, não houve a devida regularização, uma vez que a parte apresentou o recolhimento do preparo de forma simples, quando era devido em dobro, nos termos do art. 1.007, § 4º, CPC.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Veja-se que não se trata de mera irregularidade no comprovante de pagamento do preparo. No caso, não houve, de fato, a comprovação do preparo, uma vez que um comprovante de pagamento inválido é considerado inexistente, incidindo, assim, o art. 1.007, § 4º, do CPC.
+Ademais, registre-se que não importa se o recolhimento das custas judiciais foi efetuado na mesma data, ou em data anterior à apresentação do recurso especial, ou mesmo dentro do prazo concedido para regularização do vício, a questão envolve o momento da comprovação do recolhimento.
+Assim, ainda que tenha recolhido o valor referente às custas no interregno do prazo recursal ou do prazo para regularização, de nada adiantará se a parte não apresentar a devida comprovação desse recolhimento no momento oportuno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PREPARO. AGENDAMENTO. DESPACHO. REGULARIZAÇÃO. EMBARGOS DE DECLARAÇÃO. DESCABIMENTO. PAGAMENTO EM DOBRO. DESCUMPRIMENTO. DESERÇÃO. DECISÃO MANTIDA.
+1. Não é cabível a oposição de aclaratórios contra o despacho que determina a intimação da parte regularizar o preparo do recurso especial, uma vez que tal ato não possui natureza decisória.
+Precedentes.
+2. "A juntada de comprovante de agendamento bancário não é documento apto a comprovar que o preparo foi devidamente recolhido" (AgInt no REsp n. 1.873.185/MA, Relator Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 22/3/2021, DJe 25/3/2021), o que ocorreu (e-STJ fls. 483/484).
+3. "À luz do disposto no art. 1.007, §§ 2º, 6º e 7º, do CPC/2015, a parte recorrente deve comprovar a realização do preparo no ato de interposição do recurso, sob pena de preclusão, sendo inadmissível a comprovação posterior, ainda que o pagamento tenha ocorrido dentro do prazo recursal" (AgInt no REsp n. 1.880.154/RN, Relator Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 22/3/2021, DJe 26/3/2021).
+4. De acordo com a jurisprudência do STJ, não sendo devidamente comprovado o recolhimento do preparo no momento da interposição do recurso, deve a parte ser intimada para o sua realizado em dobro, na forma do art. 1.007, § 4º, do CPC de 2015, sob pena de deserção.
+5. No caso, ao constatar que o recurso especial foi protocolado acompanhado apenas do comprovante de agendamento do preparo, a Presidência desta Corte Superior proferiu despacho, a fim de que a parte apresentasse a guia de recolhimento referente ao comprovante de pagamento e realizasse a complementação do referido recolhimento, uma vez que devido em dobro, nos termos do art. 1.007, § 4º, do CPC de 2015 e, em caso de impossibilidade de apresentação da citada guia, efetuasse novo pagamento em dobro. No entanto, mesmo intimada, a parte deixou de recolher o preparo em dobro, o que atrai a Súmula n. 187/STJ.
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1604404/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma , DJe de 17/05/2021.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
