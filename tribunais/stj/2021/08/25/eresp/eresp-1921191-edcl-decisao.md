@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JOAO HENRIQUE FERNANDES FRANCO em face da decisão que indeferiu liminarmente os embargos de divergência em razão da deserção.
+Em suas razões, a parte embargante alega a existência de contradição na decisão embargada, porquanto o preparo recursal teria sido recolhido em dobro, afastando-se, assim, a deserção do recurso.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a retirar ambiguidade, esclarecer obscuridade, eliminar contradição e suprir omissão existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que, no ato de interposição da petição de embargos de divergência perante a Secretaria deste Tribunal, a parte deve anexar a guia de recolhimento das custas devidamente preenchida, bem como o respectivo comprovante de pagamento, ambos de forma visível e legível.
+No presente caso, verificada a ausência do preparo recursal, a parte foi intimada para realizar o recolhimento em dobro das custas devidas ao STJ, em 11/06/2021, conforme faculdade conferida pelo §4º do art. 1.007 do Código de Processo Civil em vigor (fls. 538/539).
+No entanto, embora regularmente intimada, a parte promoveu o recolhimento de forma insuficiente, diante da não comprovação do recolhimento integra do valor em dobro do preparo, posto que a guia de recolhimento e o comprovante juntados indicam o recolhimento recursal na forma simples (fls. 541/543).
+Somente em momento posterior é que a parte trouxe o comprovante de pagamento e a guia de recolhimento em dobro das custas com o fim de regularizar o preparo. No entanto, esta segunda petição, anexa às fls. 547/5560, não foi conhecida em razão da preclusão consumativa, tendo sido, inclusive, protocolada intempestivamente. Neste sentido, é o entendimento atual desta Corte: AgInt no AREsp 1399586/SP, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 3/12/2019; e AgInt nos EDcl nos EREsp 1454030/SP, relator Ministro Francisco Falcão, Corte Especial, DJe de 26/11/2019.
+Portanto, correta a aplicação da Súmula n. 187 deste Tribunal, julgando deserto o recurso.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria posta a apreciação desta Corte foi julgada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp 1315507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte Embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
