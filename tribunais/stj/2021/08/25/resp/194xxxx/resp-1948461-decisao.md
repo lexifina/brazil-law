@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+CANCELAMENTO DE REGISTRO - Danos Morais. Cheques inadimplidos - Negativação - Alegação de ausência de notificação prévia acerca do débito - Improcedência - Inconformismo - Débitos que se mostram legítimos - Inexistência de qualquer prova acerca da quitação da obrigação que ensejou o apontamento - Ausência de notificação que caracteriza mera irregularidade administrativa - Apontamento que se mostra legítimo - Aplicação da regra prevista no art.85, §11, do Código de Processo Civil, majorando os honorários advocatícios em favor da ré para R$ 1.200,00 - Sentença mantida - Recurso não provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões de recurso especial, aponta o recorrente violação dos artigos 186 e 927 do Código Civil; 6º e 43 do Código de Defesa do Consumidor.
+Sustenta que é obrigatória a notificação do devedor para a inclusão de seus dados nos cadastros de proteção ao crédito, nos termos do art. 43, § 2º, do Código do Consumidor.
+O recurso foi admitido na origem, nos termos da decisão de fls. 237-239, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+O recorrente pretende o reconhecimento do dano moral em virtude da inscrição de seu nome no cadastro de proteção ao crédito sem a notificação prévia, nos termos do art. 43, § 2º, do CDC.
+Sobre o tema, o Tribunal de origem consignou que (fl. 174, e-STJ):
+Como bem ponderou o magistrado, a ausência de notificação prévia, de débito que se mostra legítimo, configura mera irregularidade administrativa que não enseja reparação.
+Assim, não há como acolher a pretensão do autor, pois os débitos que ensejaram os apontamentos são exigíveis, não havendo prova do pagamento do cheque.
+A jurisprudência do STJ está consolidada no sentido de que, sendo o CCF cadastro de consulta restrita, somente ocorre a necessidade de notificação do emitente de cheque sem fundo, nos termos do art. 43 do CDC, quando é dada publicidade aos dados importados do referido cadastro mediante o seu fornecimento para entidades privadas de proteção ao crédito, nos termos da regulamentação do BACEN/CMN e do art. 1º, § 3º, inciso II, da Lei Complementar 105/2001.
+Confira-se
+AGRAVO INTERNO. DECISÃO EM RECURSO ESPECIAL. EMBARGOS DE DECLARAÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. BANCÁRIO. CONSUMIDOR. AÇÃO DE CANCELAMENTO DE REGISTRO. DANOS MORAIS. INSCRIÇÃO NO CADASTRO DE EMITENTES DE CHEQUES SEM FUNDOS - CCF. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. COMUNICAÇÃO DE INSCRIÇÃO. BANCO SACADO. CIRCULAR 2.250, DO BANCO CENTRAL.
+1. Sendo o CCF cadastro de consulta restrita, somente ocorre a necessidade de notificação do emitente de cheque sem fundo, nos termos do art. 43 do Código de Defesa do Consumidor, quando é dada publicidade aos dados importados do referido cadastro mediante o seu fornecimento para entidades privadas de proteção ao crédito, nos termos da regulamentação do BACEN/CMN e do art. 1º, § 3º, inciso II, da Lei Complementar 105/2001. Por força das normas regulamentares do BACEN (Circular 2.250), o emitente do cheque sem fundo já fora comunicado pelo banco sacado quando da devolução do cheque ensejador do comando de inclusão no CCF.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1666713/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe 6/4/2021)
+RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER C/C COMPENSAÇÃO DO DANO MORAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 211/STJ. VIOLAÇÃO DO RITO DOS RECURSOS REPETITIVOS. INEXISTÊNCIA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. VÍCIOS NÃO DEMONSTRADOS. SÚM. 284/STF. FUNDAMENTAÇÃO SUFICIENTE. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA. TRIBUNAL DE ORIGEM E STJ. NÃO CABIMENTO. INSCRIÇÃO NO CADASTRO DE INADIMPLENTES. INFORMAÇÕPES EXTRAÍDAS DO CADASTRO DE EMITENTES DE CHEQUES SEM FUNDOS (CCF). NOTIFICAÇÃO PRÉVIA DO CONSUMIDOR. NECESSIDADE. DANO MORAL. ANÁLISE PELO TRIBUNAL DE ORIGEM. JULGAMENTO: CPC/73.
+(..)
+4. A mera referência aos dispositivos legais sobre os quais se alega incidir a omissão, sem demonstrar, concretamente, o ponto omitido, sobre o qual deveria ter se pronunciado o Tribunal de origem, e sem evidenciar a efetiva relevância da questão para a resolução da controvérsia, não é apta a anulação do acórdão por negativa de prestação jurisdicional. 5. Devidamente analisadas e discutidas as questões de mérito, e suficientemente fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há falar em violação do art. 535 do CPC/73.
+6. O incidente de uniformização de jurisprudência não se presta a unificar a interpretação do direito dada por tribunais distintos, pois é instrumento voltado à uniformização da divergência interna.
+8. A jurisprudência do STJ orienta no sentido de que o cadastro de emitentes de cheques sem fundos (CCF) mantido pelo Banco Central do Brasil é de consulta restrita, não podendo ser equiparado a dados públicos, como os oriundos dos cartórios de protesto de títulos e de distribuição de processos judiciais.
+9. A ausência de prévia comunicação ao consumidor da inscrição do seu nome em cadastros de proteção ao crédito, prevista no art. 43, § 2º, do CDC, é suficiente para caracterizar o dano moral, ensejando o direito à respectiva compensação, salvo quando preexista inscrição desabonadora regularmente realizada (súm. 385/STJ).
+10. Hipótese em que o cenário descrito na origem permite supor a existência de outras anotações, mas não autoriza concluir terem sido elas (ir)regularmente realizadas, de modo que se possa avaliar a configuração do dano moral.
+Devolução dos autos ao Tribunal de origem.
+11. Recurso especial conhecido em parte e, nessa extensão, parcialmente provido.
+(REsp 1578448/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 12/4/2019)
+Esse é o caso dos autos em que a anotação no cadastro de proteção ao crédito foi realizada pela recorrida, e não pelo banco sacado.
+Assim, por força do art. 43 do CDC, antes da restrição ganhar publicidade, com a sua transferência a cadastros gerais de inadimplentes, devem os órgãos mantenedores dos mencionados cadastros notificar o emitente do cheque.
+No caso dos autos, o Tribunal de origem concluiu pela desnecessidade de notificação prévia, deixando de analisar se houve ou não a notificação prévia do devedor e a vocação ínsita do recurso especial não permite a incursão no conjunto fático-probatório dos autos.
+Em face do exposto, dou provimento ao recurso especial para cassar o acórdão recorrido e determinar que outro seja proferido pelo Tribunal de origem, observando-se a jurisprudência desta Corte no julgamento da questão.
+Intimem-se.
