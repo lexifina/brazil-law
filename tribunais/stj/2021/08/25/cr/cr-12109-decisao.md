@@ -1,0 +1,2 @@
+DECISÃO
+Diante da impossibilidade de cumprimento da comissão em relação ao Banco Itaú S.A. e do devido cumprimento da comissão em relação ao BANCO INDUSTRIAL E COMERCIAL S.A. e ao BANCO DO BRASIL S.A.,acolho o parecer do Ministério Público Federal (fls. 3456-3457) e determino a remessa da presente rogatória ao Juízo rogante, por intermédio da autoridade central (art. 216-X do RISTJ), sem prejuízo de eventual reapresentação.
