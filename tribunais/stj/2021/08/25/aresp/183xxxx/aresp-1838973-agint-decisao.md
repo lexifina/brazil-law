@@ -1,0 +1,75 @@
+DECISÃO
+Da minuta do agravo de instrumento que deu origem ao presente processo, infere-se que ADEMIR CARLOS BRISOLLA ARAÚJO requereu cumprimento de sentença, em desfavor de TELEFÔNICA BRASIL S.A. (TELEFÔNICA), alegando ser credora da quantia de R$ 15.543,03 (quinze mil, quinhentos e quarenta e três reais e três centavos).
+O Juízo de primeira instância acolheu a impugnação ao cumprimento de sentença, oferecida por TELEFÔNICA, condenando-se ADEMIR ao pagamento das custas processuais e de honorários advocatícios, estes fixados em 10% sobre o valor executado em excesso (e-STJ, fls. 19/20).
+Contra essa decisão, ADEMIR interpôs agravo de instrumento, aduzindo que (1) a Súmula nº 410 do STJ é inaplicável na vigência do NCPC; (2) TELEFÔNICA tem cadastro no sistema Projudi para o recebimento de intimações, tendo sido inclusive citada por tal modalidade; (3) o requisito da pessoalidade foi cumprido mediante a utilização do e-mail; (4) a falta de cadastramento autoriza a intimação via publicação; e (5) são indevidos honorários sucumbenciais em impugnação ao cumprimento de sentença.
+O agravo de instrumento não foi provido pelo TJ/PR nos termos do acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. OBRIGAÇÃO DE FAZER. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. MULTA -NECESSIDADE DE PRÉVIA INTIMAÇÃO PESSOAL DO DEVEDOR PARA COBRANÇA - PRECEDENTES E SÚMULA 410 DO STJ -APLICABILIDADE APÓS O ADVENTO DO NOVO CPC. NECESSIDADE DE ARBITRAMENTO DE HONORÁRIOS ADVOCATÍCIOS -PRECEDENTES DO STJ. DECISÃO MANTIDA. 1. "Conforme a orientação prevalecente nesta Corte, ressalvado o entendimento pessoal desta Relatora, "é necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 1232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em" (EREsp 360.577/MG, Corte vigor do novo Código de Processo Civil Especial, DJe de 07/03/2019). (AgInt no REsp 1726058/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/07/2019, DJe 02/08/2019.) 2. Recurso conhecido e não provido (e-STJ, fl. 104).
+Os embargos de declaração opostos por ADEMIR foram rejeitados (e-STJ, fls. 112/115).
+Irresignado, ADEMIR interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 5º, §6º, da Lei nº 11.419/06, 513, §2º, I, 246, §1º, 85, §1º, do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) a Súmula nº 410 do STJ foi superada a partir da vigência do NCPC, não sendo necessária a intimação pessoal para cumprimento da sentença; e (2) a intimação eletrônica é considerada pessoal pela lei, sendo considerada também pessoal a intimação por publicação quando a empresa privada não realiza o cadastramento.
+Foram apresentadas as contrarrazões.
+O recurso especial teve seguimento negado em virtude de precedente firmado em recurso repetitivo acerca do cabimento de honorários advocatícios na impugnação ao cumprimento de sentença e, quanto às demais questões, o apelo nobre não foi admitido em virtude da incidência das Súmulas nºs 83 e 211 do STJ (e-STJ, fls. 165/167).
+Nas razões do agravo em recurso especial, ADEMIR afirmou que não incidem as Súmulas nºs 83 e 211 do STJ (e-STJ, fls. 178/199).
+Não foi apresentada contraminuta.
+O agravo em recurso especial não foi conhecido em decisão da Presidência do STJ, em virtude da ausência de impugnação às Súmulas nºs 83 e 211 do STJ (e-STJ, fls. 254/255).
+Nas razões do presente agravo interno, ADEMIR aduziu que impugnou todos os fundamentos da decisão agravada, não se aplicando a Súmula nº 182 do STJ (e-STJ, fls. 258/290).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 254/255 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 178/199.
+Do agravo em recurso especial
+O recurso não merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da incidência da Súmula nº 568 do STJ
+Nas razões do presente recurso, ADEMIR afirmou a violação dos arts. 513, §2º, I, 246, §1º, do NCPC, bem como dissídio jurisprudencial, ao sustentar que a Súmula nº 410 do STJ foi superada a partir da vigência do NCPC, não sendo necessária a intimação pessoal para cumprimento da sentença.
+Sobre o tema o Tribunal estadual consignou que na vigência do NCPC também se exige a intimação pessoal do devedor para incidência da multa por descumprimento de obrigação, confira-se:
+Isso porque, em recente decisão o Superior Tribunal de Justiça manifestou que, mesmo após a entrada em vigor do novo Código de Processo Civil, o teor da Súmula 410 daquela Corte da Cidadania permanece em vigor. Portanto, é necessária a intimação prévia pessoal do devedor para cobrança da multa por descumprimento da obrigação (e-STJ, fl. 64).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada de que é imprescindível a intimação pessoal do devedor para cumprimento da obrigação determinada judicialmente, regra aplicável inclusive sob a égide do NCPC.
+Confira-se o precedente:
+AGRAVO INTERNO. RECURSO ESPECIAL. PROCESSUAL CIVIL. EN. 3/STJ. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. CONDENAÇÃO A OBRIGAÇÃO DE FAZER COM ASTREINTES. AUSÊNCIA DE INTIMAÇÃO PESSOAL. INEXIGIBILIDADE DAS ASTREINTES TANTO NA VIGÊNCIA DO CPC/1973 QUANTO NA DO CPC/2015. SÚMULA 410/STJ. PRECEDENTE DA CORTE ESPECIAL. PRECLUSÃO "PRO JUDICATO". INOCORRÊNCIA. TEMA 706/STJ.
+1. Controvérsia acerca da execução de astreintes arbitradas no curso de ação demolitória.
+2. Nos termos da Súmula 410/STJ: "A prévia intimação pessoal do devedor constitui condição necessária para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer".
+3. Possibilidade de aplicação da referida súmula na vigência do CPC/2015, conforme precedente específico da Corte Especial.
+4. Caso concreto em que não houve intimação pessoal do devedor, sendo de rigor a declaração de inexigibilidade das astreintes, ex vi da Súmula 410/STJ.
+5. Distinção entre a intimação do advogado para a prática de atos processuais, e a intimação da parte para a prática de atos materiais, não havendo falar em intimação tácita da parte em virtude da anterior intimação do advogado.
+6. Nos termos da tese firmada no julgamento do Tema 706/STJ, "a decisão que comina astreintes não preclui, não fazendo tampouco coisa julgada".
+7. Descabimento da alegação de preclusão das astreintes no caso concreto.
+8. AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1.753.080/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, j. em 08/03/2021, DJe 10/03/2021)
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. OBRIGAÇÃO DE FAZER. DESCUMPRIMENTO. MULTA DIÁRIA. NECESSIDADE DA INTIMAÇÃO PESSOAL DO EXECUTADO. SÚMULA 410 DO STJ.
+1. É necessária a prévia intimação pessoal do devedor para a cobrança de multa pelo descumprimento de obrigação de fazer ou não fazer antes e após a edição das Leis n. 11.232/2005 e 11.382/2006, nos termos da Súmula 410 do STJ, cujo teor permanece hígido também após a entrada em vigor do novo Código de Processo Civil.
+2. Embargos de divergência não providos.
+(EREsp 1.360.577/MG, Rel. Ministro HUMBERTO MARTINS, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, Corte Especial, j. em 19/12/2018, DJe 07/03/2019)
+Assim, porque os fundamentos adotados pelo acórdão recorrido estão em consonância com o entendimento firmado nesta Corte, deve ser ele mantido.
+Dessa forma, incide a Súmula nº 568 do STJ.
+(2) Do art. 1.025 do NCPC e da impossibilidade de reconhecimento do prequestionamento ficto
+Nas razões do presente recurso, ADEMIR afirmou a violação do art. 5º, §6º, da Lei nº 11.419/06, sustentando que a intimação eletrônica é considerada pessoal pela lei, sendo considerada também pessoal a intimação por publicação quando a empresa privada não realiza o cadastramento.
+Verifica-se que o Tribunal estadual não emitiu pronunciamento sobre o tema objeto da insurgência, pois apenas consignou que o tema consistiria em inovação recursal.
+Contudo, não obstante a oposição, naquela instância, de embargos de declaração alegando omissão quanto aos temas, não houve debate prévio no Tribunal estadual.
+Importante destacar que a jurisprudência do STJ entende que, para a admissão do prequestionamento ficto, nos termos do art. 1.025 do NCPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração, além da indicação de violação do art. 1.022 do NCPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. INSTRUMENTO CONTRATUAL. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO IMEDIATO DA CAUSA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. CLÁUSULA DE QUITAÇÃO GERAL E PLENA. AUSÊNCIA DE DOLO, COAÇÃO OU ERRO. TESE NÃO PREQUESTIONADA. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL. NÃO INDICAÇÃO DO DISPOSITIVO VIOLADO. SÚMULA 284/STF. HONORÁRIOS RECURSAIS. MAJORAÇÃO. CABIMENTO. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Inadmissível o recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal local (enunciado n. 211 da Súmula do STJ).
+3. O prequestionamento ficto, previsto no art. 1.025 do CPC/2015, só é admissível quando, após a oposição de embargos de declaração na origem, a parte recorrente suscitar violação ao art. 1.022 do mesmo diploma, porquanto somente dessa forma é que o órgão julgador poderá verificar a existência do vício e proceder à supressão de grau, providência não adotada no recurso especial apresentado.
+4. No tocante à parte em que a insurgência foi inadmitida, ratifica-se que os arts. 840 e 849 do Código Civil não foram debatidos pelo acórdão recorrido, o que configura a ausência do indispensável prequestionamento da matéria e atrai a incidência das Súmulas 282 e 356/STF.
+5. A falta de indicação, de forma clara e precisa, dos dispositivos legais que teriam sido eventualmente violados ou que tiveram sua interpretação divergente à jurisprudência desta Corte impede o conhecimento do recurso, por deficiência na sua fundamentação, conforme preceitua a Súmula n. 284 do Supremo Tribunal Federal.
+6. No caso, estão presentes os requisitos cumulativos necessários à majoração dos honorários sucumbenciais prevista no art. 85, § 11, do CPC/2015, conforme as regras definidas pela Terceira Turma deste Tribunal Superior - nos EDcl no AgInt no REsp n. 1.573.573/RJ, desta relatoria, julgado em 4/4/2017, DJe de 8/5/2017.
+7. Agravo interno desprovido.
+(AgInt no REsp 1.839.431/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 08/02/2021, DJe 12/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. AUSÊNCIA DE VIOLAÇÃO AO ARTIGO 489, § 1º, do CPC DE 2015. ACÓRDÃO RECORRIDO DEVIDAMENTE FUNDAMENTADO. ALEGADA AFRONTA AOS ARTIGOS 337, § 4º, 502 E 805, DO CPC DE 2015. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA N. 282/STF. PREQUESTIONAMENTO FICTO PREVISTO NO ART. 1.025 DO CPC/2015. NECESSIDADE DE SE APONTAR VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RECURSO NÃO PROVIDO.
+1. "Se os fundamentos do acórdão recorrido não se mostram suficientes ou corretos na opinião do recorrente, não quer dizer que eles não existam. Não se pode confundir ausência de motivação com fundamentação contrária aos interesses da parte, como ocorreu na espécie. Violação do art. 489, § 1º, do CPC/2015 não configurada" (AgInt no REsp 1.584.831/CE, Rel. Ministro Humberto Martins, Segunda Turma, julgado em 14/6/2016, DJe 21/6/2016).
+2. As matérias referentes aos arts. 337, § 4º, 502 e 805, do CPC de 2015, não foram objeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula n. 282/STF).
+3. Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+4. "A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei". (REsp 1639314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017).
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.464.168/SP, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. em 10/03/2020, DJe 17/03/2020)
+Contudo, no caso dos autos, apesar da oposição dos aclaratórios, a análise do tema agora tratado não pode ser feita em razão da ausência de indicação de violação ao disposto no art. 1.022 do NCPC.
+Assim, o recurso não pode ser conhecido quanto ao ponto por falta de prequestionamento.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHECER do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+MAJORO os honorários advocatícios anteriormente fixados em favor de TELEFÔNICA em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. OBRIGAÇÃO. DESCUMPRIMENTO. INTIMAÇÃO PESSOAL. NECESSIDADE. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA Nº 568 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL CONHECIDO EM PARTE E, NESSA EXTENSÃO, NÃO PROVIDO.
