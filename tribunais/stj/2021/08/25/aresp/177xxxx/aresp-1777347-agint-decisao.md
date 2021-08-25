@@ -1,0 +1,27 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interno manejado por Oreslina Ferreira Dias e outros contra decisão a Presidência do STJ que conheceu do agravo para não conhecer do recurso especial, sob o fundamento de que a matéria impugnada no recurso não atendeu ao requisito do prequestionamento.
+Os agravantes alegam que a suscitada infringência ao art. 85, §§ 1º, 3º e 7º, do CPC foram enfrentadas pelo acórdão recorrido, tendo a matéria ora impugnada sido agitada tanto no agravo de instrumento, como nos embargos declaratórios opostos na origem.
+Não houve apresentação de impugnação (certidão de e-STJfl. 384).
+Decido.
+Assiste razão à parte recorrente.
+Verifica-se que o aresto recorrido enfrentou a temática do cabimento de honorários advocatícios no cumprimento de sentença, quando rejeitada a impugnação apresentada pela parte executada.
+A Corte de origem adotou a tese de que a fixação de honorários advocatícios na impugnação ao cumprimento de sentença apenas seria cabível, caso a execução tenha sido extinta total ou parcialmente.
+Aplicou-se, no caso, as razões de decidir constantes do REsp 1.134.186/RS, submetido ao rito do art. 543-C do CPC/73, a inteligência da Súmula 519/STJ, fazendo-se referência, inclusive, a precedente do Tribunal de Justiça do Estado de São Paulo que apreciou a matéria no âmbito de impugnação ao cumprimento de sentença apresentada pela Fazenda estadual em ação proposta por servidores locais.
+Portanto, com a devida vênia do entendimento exarado pela Presidência do STJ, observoque a questão debatida no recurso especial está devidamente prequestionada, razão pela qual deve ser reconsiderada a decisão que não conheceu do recurso.
+Superado o conhecimento, entendo que o recurso especial deve ser provido.
+É assente nesta Corte Superior o entendimento de que "no cumprimento de sentenças proferidas em ações plúrimas ou individuais, a apresentação da impugnação é relevante para hipótese da aplicação da norma contida no art. 85, § 7º, doCPC/2015". Por conseguinte, "a lei processual concede à Fazenda Pública a benesse de não pagar honorários advocatícios nos casos em que ela não se opõe ao cumprimento da obrigação prevista no título executivo. A não ser que se queira ignorar o comando implícito da norma, a interpretação possível é que, oferecida resistência à execução da sentença, por parte da Fazenda, passam a ser devidos os honorários advocatícios, em respeito ao princípio da causalidade.". (AgInt no REsp 1893625/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12/04/2021, DJe 15/04/2021).
+No caso, a Fazenda Pública apresentou impugnação ao cumprimento de sentença apontando a existência de excesso de execução. Rejeitada a impugnação, os honorários advocatícios devem incidir sobre a parcela controvertida, por ser tal base de cálculo a que representa, de modo adequado, o proveito econômico obtido pelo exequente.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA SUJEITA À EXPEDIÇAÕ DE PRECATÓRIO. IMPUGNAÇÃO PARCIAL. ART. 85, § 7º, DO CPC. HONORÁRIOS APENAS SOBRE A PARCELA CONTROVERTIDA. AGRAVO IMPROVIDO.
+1. Os honorários devem ser arbitrados com base apenas no valor controvertido da execução que foi mantido após o julgamento da impugnação/embargos, acaso existente, excluída, por conseguinte, a parcela incontroversa. Precedentes.
+2. Por um lado, o art. 85, § 7º, do CPC, ao contrário do que afirmam os agravantes, não aponta qual deve ser a base de cálculo dos honorários no caso de impugnação parcial da Fazenda Pública, o que afasta a alegação de que está sendo contrariada a literalidade do dispositivo.
+3. Por outro lado, interpretação em sentido contrário possibilitaria aos credores criar excesso de execução de forma intencional, tão somente para forçar a Fazenda Pública a apresentar contradita e, com isso, serem favorecidos com honorários sobre todo o valor executado, ainda que a parcela controvertida seja ínfima.
+4. Com isso, seria criado, nessas hipóteses, um esdrúxulo dilema aos devedores sujeitos ao regime de precatórios: refutar uma execução excessiva com o propósito de evitar dano aos cofres públicos, mas sofrer um prejuízo maior a título de honorários; ou simplesmente deixar de contestar execução manifestamente excessiva a fim de impedir um prejuízo maior com a verba sucumbencial.
+5. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1885625/RS, de minha relatoria, SEGUNDA TURMA, julgado em 19/04/2021, DJe 01/06/2021).
+Portanto, deve ser reformado o acórdão recorrido para reconhecer que são devidos honorários advocatícios nos casos de rejeição à impugnação ao cumprimento de sentença apresentada pela Fazenda Pública, os quais deverão ser calculados com base na quantia tida como controvertida.
+Afastada a premissa de não incidência da aludida verba, devem os autos retornar para a instância de origem, a fim de que estipule o percentual dos honorários sucumbenciais com base nos critérios previstos no art. 85, § 3º, do CPC.
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015, c/c o art. 259 do RISTJ, conheço do agravo interno para, em juízo de retratação, reconsiderar a decisão agravada, a fim de dar provimento ao recurso especial.
+Determino, por conseguinte, o retorno dos autos para a Corte de origem fixar o percentual daverba honorária, nos termos do art. 85, § 3º, do CPC, que deverá incidir sobre a quantia impugnada pela parte executada.
+Publique-se. Intimem-se.
