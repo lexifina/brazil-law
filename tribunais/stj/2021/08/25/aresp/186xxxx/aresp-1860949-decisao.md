@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de agravo ajuizado em face do juízo de admissibilidade que negou seguimento ao recurso especial interposto contra acórdão assim ementado:
+Agravo de instrumento - Bloqueio cautelar de valores pelo sistema Bacenjud e de ativo mobiliários e Arresto de imóveis dos devedores - Possibilidade tão-somente quanto ao devedor garante, desde que observados os termos dos artigo 833, inciso X do CPC e artigo 5º da Lei 8009/90 - Agravo de instrumento parcialmente provido.
+Contra o acórdão estadual, a parte recorrente opôs embargos declaratórios, afirmando que a Turma julgadora infringiu o art. 10 do Código de Processo Civil -pois, ao declarar a incompetência do juízo da capital paulista para prática de atos expropriatórios, entendendo dever ser remetidas as questões para o TJPA, onde tramita a recuperação judicial das recorridas - decidiusobre matéria jamais discutida nos autos, sem observar a vedação às decisões surpresa, de modo que não foi oportunizado às partes se manifestarem sobre o assunto.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 535 (1.022) do Código de Processo Civil.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
