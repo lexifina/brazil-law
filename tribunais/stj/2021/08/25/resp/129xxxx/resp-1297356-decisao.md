@@ -1,0 +1,33 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por FARIA & FARIA - MINIMERCADO LTDA., com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJfl. 278):
+Energia elétrica - Ação de inexigibilidade de débito - Reconvenção para cobrança da diferença fraudada - Procedência da ação e improcedência da reconvenção - Apelação da concessionária - Fraude apurada por perícia e demonstrada por documentos - Inadmissibilidade do entendimento que considerou a prova pericial imprestável - Diferença do consumo calculada no período em que subsistiu a irregularidade, mas pela média de consumo dos 12 meses imediatamente anteriores - Multa do art. 73 da Resolução n.º456/2000 cabível, mas não no percentual de 30% e sim de 10% - Apelação provida em parte.
+Opostos embargos de declaração, estes foram rejeitados (e-STJfls. 312-316 e 325-329).
+Alega a parte insurgente violação do art. 535, II, do CPC/1973, pois o Tribunal de origem foi omisso quanto às questões suscitadas em embargos de declaração.
+Sustenta contrariedade aoart. 515, §§ 1º e 2º, do CPC/1973, porquanto o acórdão de origem não analisou os argumentos inseridos na contestaçãoapresentada contra a reconvenção feita pela recorrida.
+Aduz que (e-STJfl. 337):
+ ..  tratando-se de demandas independentes entre si, ao não apreciar os fundamentos apresentados na Contestação em sede de Reconvenção, negou vigência o v. acórdão recorrido ao disposto nos §§ 1º e 2º, do art. 515, do CPC, pois, além de não apreciar e julgar todas as questões suscitadas no processo RECONVENCIONAL também deixou de apreciar o fundamento da defesa de que a responsabilidade da Recorrente deveria se limitar ao período, a partir do qual esta assumiu o estabelecimento e com a instalação do relógio medidor.
+Contrarrazões apresentadas (e-STJfls. 346-354).
+Parecer do Ministério Público Federalpelo parcial conhecimento e desprovimento do recurso (e-STJfls. 397-400).
+É o relatório.
+Não merece prosperar a tese de afronta ao art. 535 do CPC/73, porquanto o acórdão impugnado fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo todas as questões levantadas pela requerente.
+Destarte, o Tribunal de origem se manifestou expressamente sobre aalegação de necessidade de análise da defesa apresentada em contestação à reconvenção, conforme se depreende do seguinte excerto extraído do acórdão contestado (e-STJfls. 315 e 327-329):
+Na petição inicial - que fixa os limites da demanda e é o que importa -, a autora disse, textualmente, que a ré não havia comprovado a existência de qualquer adulteração, nem mesmo da queda de consumo de energia a partir da data (09/2003), quando faz referência a um suposto degrau. Afirmou que, nos meses posteriores, houve um aumento no consumo de energia, de modo que inexistia qualquer irregularidade com o relógio medidor. A título de exemplo, acrescentou que nos meses posteriores ao suposto "degrau" (10/2003 em diante), o que houve foi um excessivo aumento do consumo (cf. fl. 04).
+ ..
+A embargante insiste na existência de erromaterial, aduzindo que, ao contrário do afirmado no v. acórdão que rejeitou os embargos, a delimitação do período em que houve a aquisição do estabelecimento encontra-se descrita na contestação apresentada em reconvenção ajuizada pela embargada. Tratando-se de nova ação, deveria ser objeto da necessária prestação jurisdicional, ora omitida pelo v. acórdão. De fato, restou omisso o v. acórdão no tocante ao atendimento da regra do art. 515, §§ 1º e 2º do CPC, sendo evidente o erro material em relação às provas dos autos (documentos de fls. 119/120 e apontamentos realizados na prova pericial-fls. 175).
+ ..
+Como restou salientado no v. acórdão embargado:
+"Em nenhum momento, na exordial, fez qualquer alusão à responsabilidade de outrem por suposta fraude ou pediu que sua responsabilidade ficasse restrita à data a partir da qual teria assumido a unidade consumidora ou teria havido a instalação de novo relógio medidor de consumo de energia elétrica.
+Assim, o julgamento feito pelo v. acórdão obedeceu estritamente ao que dispõe a lei, ou seja, o Código de Processo Civil, em seus arts. 459 e 460; houve a apreciação do pedidofeito na peça vestibular, sem que se proferisse decisão de natureza diversa da pedida. Em suma, se houve erro material, foi da própria autora, que, em contrarrazões, procurou corrigir deficiências de sua peça inicial.".
+Em suma, não se trata de invocação do art. 515, §§ 1º e 2º, do CPC, visto que devidamente observado no caso.
+Sendo assim, não há falar em omissão, obscuridade, contradição, erro material ou ausência de fundamentação do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DE ELEMENTOS PROBATÓRIOS PRODUZIDOS AO LONGO DA DEMANDA. SÚMULA N. 7/STJ.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+3. Aplica-se a Súmula n. 7/STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 129.913/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 17/5/2016, DJe 23/5/2016).
+Diante dos fatos consignados no acórdão de origem,é inviável a alteração da conclusão a que chegou aCortea quo,que é soberana na análise de fatos e provas, uma vez que, para verificar se a insurgente apresentou ou não os argumentos de defesa da forma como alega, seria necessário o reexame do conjunto fático-probatório dos autos, o que é impossível na viaespecial, em razão do óbice da Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
