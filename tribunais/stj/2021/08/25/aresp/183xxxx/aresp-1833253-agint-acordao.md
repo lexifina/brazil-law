@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto pelo Estado do Mato Grosso do Sul contra decisão do Presidente do STJ, proferida às fls. 377-380, que conheceu do agravo para não conhecer do recurso especial, em virtude da incidência da Sumula 7 do STJ.
+Nas razões do agravo interno, o agravante defende, em síntese, a inaplicabilidade da Súmula 7/STJao caso, tendo em vista que "o presente agravo interno tem como escopo discutir tão-somente a necessidade de devolução dos autos à origem, na medida em que os autos tratam de matéria decidida pelo STF, com repercussão geral, no ARE 1.278.713(Tema n.1126), além da questão dos honorários recursais, que deveter o valor fixado diminuido, pois o montante estabelecido no TJMS já é suficientemente expressivo para prestigiar os cânones previstos no § 2º, do art. 85 do CPC.
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ALEGAÇÕES GENÉRICAS. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na espécie, ocaso concreto versa sobre equiparação salarial entre os cargos de técnico e analista judiciário reconhecida pela Lei Estadual nº 4.834/2016.
+A decisão ora agravada não conheceu do recurso especial sob o fundamento de incidência da Súmula 7/STJ, porquanto"na hipótese dos autos, o autor busca o recebimento da diferença salarial devida desde a vigência da Lei n. 3.687/2009, que criou os cargos do quadro permanente de servidores efetivos do Tribunal de Justiça, após o reconhecimento da equiparação salarial pela Lei n.4.834/2016.Desta forma, se após o reconhecimento da equiparação salarial pelo ato normativo de 2016, a Administração se mantém omissa quanto ao pagamento da diferença, a violação ao direito da parte autora se renova mensalmente, recaindo sobre o teor da Súmula n. 85 do Superior Tribunal de Justiça. In verbis:"Nas relações jurídicas de trato sucessivo em que a Fazenda Pública figure como devedora, quando não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação".Assim, a prescrição alcança tão somente as parcelas ou créditos constituídos antes dos cinco anos antecedentes à propositura da ação" (fl. 379).
+Ocorre que, ao agravante impõe-se o ônus de observar o contexto em que os fundamentos da decisão agravada foram lançados e impugná-los, de forma individualizada e específica (EAREsp 746.775/PR, Rel. Min. João Otávio de Noronha, Corte Especial, julgado em 19/9/2018), o que não ocorreu no caso dos autos, consubstanciando deficiência apta a ensejar o não conhecimento do recurso, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Assim, a falta ou a insurgência genérica contra a decisão que não admitiu ou negou provimento ao recurso especial, no tempo e modo oportunos, obsta o conhecimento do agravo. Essa era a determinação que estava contida no artigo 544, § 4º, I, do CPC/1973, e que agora vem estabelecida no artigo 932, III, do CPC/2015 e artigo 253, parágrafo único, I, do RI/STJ (Redação dada pela Emenda Regimental n. 22, de 2016).
+A propósito, confiram-se: AgRg no AREsp 581.718/RS, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 22/10/2014; AgRg no AREsp 826.329/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 831.877/PB, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe de 29/3/2016; AgRg no AREsp 93.737/PB, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 26/2/2016; AgRg no AREsp 704.988/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 10/9/2015; AgRg no AREsp 802.217/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 18/12/2015; AgRg no AREsp 834.978/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/4/2016; e AgInt no AREsp 718.118/MT, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 18/12/2018.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
