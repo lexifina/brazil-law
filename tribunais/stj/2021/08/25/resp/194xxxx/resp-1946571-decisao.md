@@ -1,0 +1,51 @@
+DECISÃO
+Vistos.
+Trata-se de Recursos Especiais interpostos pelo INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA e pelaUNIÃO contra acórdão prolatado, por unanimidade, pela 2ª Turma do Tribunal Regional Federal da 1ª Regiãono julgamento de apelação, assim ementado (fls. 226e):
+CONSTITUCIONAL. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA - GDAJ. MEDIDA PROVISÓRIA Nº. 2.048-26/2000. EXTENSÃO AOS SERVIDORES INATIVOS. POSSIBILIDADE. MP Nº. 305/2006. CONVERTIDA NA LEI Nº. 11.358/06. SUBSÍDIDO. PARCELA ÚNICA. TERMO FINAL.
+1. Por força do artigo 40, § 8º, da Constituição Federal, as vantagens pecuniárias concedidas aos servidores em atividade devem ser estendidas aos inativos e pensionistas, sob pena de ofensa ao princípio da isonomia. Precedentes: INAMS 2000.34.00.033686-1/DF, Relator Desembargador Federal Jirair Aram Meguerian, Corte Especial, DJ de 22/10/2004)
+2. Estende-se ao impetrante a Gratificação de Desempenho de Atividade Jurídica - GDAJ, instituída pela Medida Provisória nº. 2.048, de 29 de junho de 2000.
+3. Os inativos fazem jus a GDAJ nos mesmos moldes em que foi paga aos servidores em atividade: de 30 de junho de 2000 a 4 de junho de 2001 no percentual de 12%, e, de 4 de junho em diante, no percentual de 30% (AMS 2001.34.00.0273629/DF, DJ: 28/08/2008, Relatora: Desembargadora Federal Neuza Maria Alves da Silva).
+4. Tendo em vista que o mandado de segurança só produz efeitos a partir da data da impetração, no caso 19.11.2003, o percentual devido à parte autora, ora apelada, é de 30%, ressalvada a compensação de qualquer pagamento feito a esse título. A GDAJ é devida, contudo, até o advento da MP nº. 305/06 (convertida na Lei nº. 11.358/06), ocasião em que fora suprimida, tendo sido absorvida por subsídio fixado em parcela única.
+5. Correção monetária incidente a partir do vencimento de cada prestação, nos termos da Lei nº. 6.899, de 8 de abril de 1981, conforme Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal.
+6. Juros moratórios de um por cento ao mês até o advento da MP 2.180-35/01, a partir daí, por expressa norma legal, ficaram limitados a 0,5% por cento ao mês.
+7. Apelação da União e do IBAMA a que se nega provimento e remessa oficial parcialmente provida (itens 4, in fine a 6).
+Opostos embargos de declaração, foram rejeitados (fls. 257/264e).
+Com amparo no art. 105, III, a, da Constituição da República, a UNIÃO apontaofensa aos arts. 41, §1º, 59 e 60 da MP n. 2.229/01, alegando-se, em síntese, quea GDAJ é conferida apenas aos servidores em razão de seu efetivo desempenho e dos resultados alcançados pelos órgãos e entidades jurídicos, de maneira quenão se aplica aos aposentados e pensionistas.
+Com amparo no art. 105, III, a e c, da Constituição da República, além de divergência jurisprudencial, o INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMAapontaofensa aos arts. 35, 41, §1º, e 54, I, da MP 2.048-26/00; 59, I,e 60 da MP n. 2.229/01,6º, I e II, da Lei n.10.909/04, e 12, §2º, da Lei n. 10.480/02alegando-se, em síntese, que a GDAJ não goza do atributo da generalidade, já que é atribuída em razão do desempenho de atividades específicas, o que impede a sua extensão aos servidores inativos. Ademais, a condenação da Fundação deveria ser limitadaà data em que os servidores substituídos foram transpostos para os quadros da Procuradoria Geral Federal, órgão da Advocacia Geral da União, que, por sua vez, é órgão da União.
+Sem contrarrazões, os recursos foraminadmitidos (fl. 355/357e; 358/360).
+O Ministério Público Federal manifestou-se às fls. 372/379e.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 1973, quanto ao recurso da UNIÃO, eo Código de Processo Civil de 2015, quanto ao recurso INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVAVEIS-IBAMA.
+Nos termos do art. 557, § 1º-A, do Código de Processo Civil de 1973, o Relator está autorizado, por meio de decisão monocrática, a dar provimento ao recurso quando o acórdão recorrido estiver em confronto com súmula ou jurisprudência dominante da respectiva Corte ou Tribunal Superior.
+Igualmente, nos termos do art. 932, V, do Código de Processo Civil de 2015, combinado com os arts. 34, XVIII, c, e 255, III, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, a dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+Verifico que o acórdão recorrido está em confronto com orientação encampada por esta Corte segundo a qual a Gratificação de Desempenho de Atividade Jurídica (GDAJ), instituída pela Medida Provisória n. 2.048-26/2000, por ostentar natureza propter laborem, não é devida aos servidores inativos.
+Nesse sentido:
+PROCESSO CIVIL. ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA (GDAJ). MEDIDA PROVISÓRIA N. 2.048-26/2000. NATUREZA PROPTER LABOREM. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE. CÓDIGO DE PROCESSO CIVIL DE 1973. APLICABILIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 1973.
+II - A Gratificação de Desempenho de Atividade Jurídica (GDAJ), instituída pela Medida Provisória n. 2.048-26/2000, por ostentar natureza propter laborem, não é devida aos servidores inativos. Precedentes.
+III - Recurso especial provido.
+(REsp 1.678.081/DF, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 07/11/2017, DJe 17/11/2017).
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. ACÓRDÃO RECORRIDO FUNDADO EM MATÉRIA CONSTITUCIONAL E INFRACONSTITUCIONAL. OFENSA À CONSTITUIÇÃO AFASTADA PELA JURISPRUDÊNCIA DO SUPREMO TRIBUNAL FEDERAL. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA - GDAJ. NATUREZA PROPTER LABOREM. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE. PRECEDENTES DO STJ.
+1. Trata-se na origem de Ação Ordinária proposta por Procuradores Federais aposentados contra a União objetivando o percebimento da Gratificação de Desempenho de Atividade Jurídica - GDAJ nos mesmos moldes dos servidores ativos.
+2. O Tribunal de origem entendeu ser devida a extensão da Gratificação pelo Desempenho de Atividade Jurídica - GDAJ aos servidores inativos, firmando-se em fundamentos constitucionais (art. 40, § 8º, da Constituição Federal) e infraconstitucionais (art. 41 da Medida Provisória 2.048/2000).
+3. Quanto ao fundamento constitucional, cabe destacar que a atual e pacífica jurisprudência do STF é assente no sentido de que a discussão acerca da natureza jurídica da GDAJ (caráter geral ou pro labore faciendo) demanda o exame da legislação infraconstitucional que rege a matéria, razão pela qual não se vislumbra ofensa à Constituição da República. Precedente da Corte Especial do STJ: AgRg no RE nos EDcl no AgRg no Ag 1.138.860/DF, Rel. Ministro Gilson Dipp, DJe 5.8.2014.
+4. O acórdão recorrido está em dissonância com o entendimento do STJ de que a Gratificação de Desempenho de Atividade Jurídica - GDAJ possui natureza propter laborem, o que inviabiliza sua extensão aos servidores inativos e pensionistas.
+5. Recurso Especial provido.
+(REsp 1.669.378/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/06/2017, DJe 29/06/2017 - destaques meus).
+ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA - GDAJ. NATUREZA PROPTER LABOREM. EXTENSÃO AOS INATIVOS. IMPOSSIBILIDADE.
+1. Segundo jurisprudência firmada do STJ, a Gratificação de Desempenho de Atividade Jurídica - GDAJ possui natureza propter laborem, inviabilizando sua extensão aos servidores inativos e pensionistas, com base no art. 40, § 8º, da CF/1988.
+2. Agravo regimental não provido.
+(AgRg no REsp 1.209.509/ES, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, julgado em 16/04/2013, DJe 22/04/2013 - destaques meus).
+ADMINISTRATIVO. GRATIFICAÇÃO DE DESEMPENHO DE ATIVIDADE JURÍDICA - GDAJ. NATUREZA PROPTER LABOREM. EXTENSÃO AOS INATIVOS. INVIABILIDADE. AGRAVO DESPROVIDO.
+I - Consoante entendimento desta Corte, a Gratificação de Desempenho de Atividade Jurídica - GDAJ possui natureza propter laborem, inviabilizando sua extensão aos servidores inativos e pensionistas, com base no art. 40, § 8.º, da Constituição Federal de 1988. Precedentes.
+II - A definição da natureza de gratificação, instituída por ato normativo infraconstitucional, não exige a interpretação de dispositivos constitucionais.
+III - Agravo interno desprovido.
+(AgRg no REsp 1.184.200/MG, Rel. Ministro GILSON DIPP, QUINTA TURMA, julgado em 22/02/2011, DJe 09/03/2011 - destaques meus).
+DIREITO ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. SERVIDOR. GRATIFICAÇÃO DE DESEMPENHO POR ATIVIDADE JUDICIÁRIA - GDAJ NÃO DEVIDA A SERVIDORES INATIVOS. PRECEDENTES. AGRAVO IMPROVIDO.
+1. O Superior Tribunal de Justiça adotou o entendimento no sentido de que as gratificações instituídas pelo art. 40 da MP 2.048-26/00, dentre elas a GDAJ, por terem natureza de gratificação propter laborem, não são devidas aos servidores inativos, de modo que não se aplica ao caso o disposto no art. 40, § 8º, da Constituição Federal.
+Precedentes.
+2. Agravo regimental improvido.
+(AgRg no Ag 881.713/MA, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTA TURMA, julgado em 23/08/2007, DJ 01/10/2007, p. 363 - destaques meus).
+Posto isso, com fundamento nos arts. 932, V, do Código de Processo Civil de 2015 e 34, XVIII, c, e 255, III, ambos do RISTJ, e, com fundamento no art. 557, § 1º-A, do Código de Processo Civil1973,DOU PROVIMENTO aos Recursos Especiais, para denegar a segurança.
+Publique-se e intimem-se.
