@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não há vícios no acórdão embargado. A contradição apontada diz respeito a pleito não aviado no especial e as omissões suscitadas não existem, uma vez que o acórdão embargado analisou as matérias mencionadas.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JORGE ÂNGELO DIAS opõe embargos de declaração ao acórdão de fls. 1.677-1.692, proferido por esta colenda Sexta Turma, que negou provimento ao agravo regimental interposto.
+A defesa aponta contradição no decisum embargado, pois é incontroverso que a testemunha José Carlos de Almeida não foi intimada para a sessão do Júri e que a irresignação defensiva quanto a esse ponto foi devidamente registrada em Ata. Assim, entende que a nulidade em questão não pode ser alcançada pela preclusão.
+Alega haver omissão quanto à suscitada irregularidade na formulação dos quesitos e na inexistência de quesito obrigatório, principalmente porque tais matérias não se sujeitam à preclusão.
+Também, sustenta ser omisso o acórdão quanto às teses relativas à dosagem da pena.
+Requer sejam sanadas a contradição e as omissões invocadas e dado efeito infringente aos presentes embargos, com "esgotamento da matéria jurídica infraconstitucional e de garantia constitucional para o pré-questionamento (sic) expresso" (fl. 1.704).
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CONTRADIÇÃO E OMISSÃO. INEXISTÊNCIA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. O reconhecimento de violação do art. 619 do CPP pressupõe a ocorrência de omissão, ambiguidade, contradição ou obscuridade tais que tragam prejuízo à defesa. A assertiva, no entanto, não pode ser confundida com o mero inconformismo da parte com a conclusão alcançada pelo julgador, que, a despeito das teses aventadas, lança mão de fundamentação idônea e suficiente para a formação do seu livre convencimento.
+2. Não há vícios no acórdão embargado. A contradição apontada diz respeito a pleito não aviado no especial e as omissões suscitadas não existem, uma vez que o acórdão embargado analisou as matérias mencionadas.
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+Na hipótese, verifico não haver os apontados vícios.
+Cabe ressaltar, de início, que, em seu recurso especial, a defesa não se insurgiu em relação à falta de intimação da testemunha José Carlos de Almeida, mas restringiu sua irresignação à falta de intimação especificamente das testemunhas José Diamantino de Oliveira e João Batista de Moura Filho - mencionadas, expressamente, a primeira às fls. 1.464 e 1.470 e a segunda à fl. 1.464 da petição -, que constavam do segundo rol apresentado no feito, indeferido pelo Juiz de Direito. A leitura da peça inicial do especial demonstra que, logo depois de registrado o inconformismo da parte quanto à falta de intimação das duas testemunhas acima mencionadas, o causídico passou a tratar das teses de eventual impedimento de jurado, seguido da suscitada necessidade de anulação da sessão plenária ante irregularidade na quesitação e do apontado erro na fixação da pena, tudo a evidenciar que a falta de intimação de José Carlos de Almeida não foi questionada perante o STJ.
+Assim, tendo em vista que essa matéria constitui inovação recursal, não se pode dela conhecer em embargos declaratórios. Portanto, não há, também, que se falar em contradição, uma vez que tal matéria não foi invocada pela defesa nem analisada no acórdão embargado.
+Além disso, não há contradição no tocante ao reconhecimento da preclusão da temática relativa à falta de intimação das testemunhas José Diamantino de Oliveira e João Batista de Mora Filho, uma vez que, como esclarecido tanto na decisão monocrática quanto no decisum colegiado, a defesa não se manifestou relativamente a esse ponto durante a sessão plenária, momento oportuno para tanto.
+Da mesma forma, não existem as omissões invocadas.
+Conquanto a defesa não concorde com a conclusão do órgão colegiado, ficou assentado no acórdão não haver ilegalidades no quesito relativo à autoria, porquanto foi redigido nos termos da acusação formulada contra o embargante. Ainda, constou que a formulação do questionamento tal qual feita não trouxe prejuízo ao réu na avaliação desfavorável da culpabilidade, porquanto sua valoração negativa se deu com base nas provas do processo.
+Igualmente, o decisum analisou os argumentos defensivos acerca da dosagem da pena, momento em que concluiu haver motivação idônea para o aumento da reprimenda, incidir a Súmula n. 7 do STJ em relação à tese de falta de lastro probatório incontroverso para embasar as afirmações feitas pelo Tribunal a quo e ser proporcional a diminuição operada ante a atenuante do art. 65, I, do CP, tudo a afastar o vício suscitado.
+Assim, o que se percebe, na verdade, é que a irresignação do embargante se resume ao seu mero inconformismo com o resultado do julgado, que lhe foi apenas parcialmente favorável; não há nenhum fundamento que justifique a oposição do presente recurso integrativo.
+À vista do exposto, rejeito os embargos de declaração.
