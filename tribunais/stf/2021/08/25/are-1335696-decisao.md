@@ -1,0 +1,19 @@
+DECISÃO
+    Reputo inadmissível o presente recurso.
+    O recorrente, a pretexto de cumprir a exigência do art. 1.035, §§ 1º e 2º, do CPC, c/c o art. 102, § 3º, da Constituição Federal, não se desvencilhou de apresentar fundamentação suficientemente apta a demonstrar a repercussão geral das questões constitucionais examinadas no caso. Ouso transcrever as razões que a parte pretendeu satisfazer tal requisito:
+    “Preliminarmente, cumpre destacar que a análise da repercussão geral é de competência exclusiva do Supremo Tribunal Federal, nos termos do §2º do artigo 543-A do Código de Processo Civil.
+    O § 3º do art. 102 da Constituição Federal exige que a causa em julgamento possua uma repercussão geral da questão constitucional, ou seja, que transcenda o normal ou à rotina, ou seja, que tenha importância econômica, política, social ou jurídica.
+    Destarte, haverá repercussão, em determinada causa/questão, quando os reflexos da decisão a ser prolatada não se limitarem apenas aos litigantes, mas, também, a toda uma coletividade. Não necessariamente a toda coletividade (país), mas de uma forma não individual.
+    Tal interpretação soa mais consentânea com a própria finalidade do apelo extremo, que é a preservação do ordenamento constitucional, assegurando o respeito e a uniformidade aos princípios e preceitos insertos na Lei Suprema, em sua inteireza. Nessa senda, deve-se abarcar no conceito de repercussão geral uma matéria cuja interpretação, adotada no acórdão recorrido, fora equivocada, a vilipendiar de forma patente o texto constitucional. Não adotando tal critério estar-se-ia reduzindo a Constituição a uma letra fria e morta.
+    A manutenção do acórdão recorrido trará sérios riscos à ordem jurídica, além do indesejável efeito multiplicador, tendo em vista os muitos outros processos semelhantes que poderão ser influenciados com a interpretação equivocada procedida pela Corte de origem.
+    Restou demonstrada, portanto, a presença do novel requisito para interposição do apelo extremo.“
+    No âmbito desta Suprema Corte, há entendimento de que a demonstração da repercussão geral “(...) não se confunde com meras invocações desacompanhadas de sólidos fundamentos no sentido de que o tema  controvertido é portador de ampla repercussão e de suma importância para o cenário econômico, político, social ou jurídico, ou que não interessa única e simplesmente às partes envolvidas na lide, muito menos ainda divagações de que a jurisprudência do SUPREMO TRIBUNAL FEDERAL é incontroversa no tocante à causa debatida, entre outras de igual patamar argumentativo” (ARE 786.878-AgR/RS, Ministro Alexandre de Moraes).
+    Em casos fronteiriços, há – entre muitos outros –, os seguintes precedentes: ARE 1.121.676-AgR/SP, Ministro Ricardo Lewandowski; ARE 1.165.032/RS, Ministro Roberto Barroso; ARE 1.284.516/SP, Ministro Edson Fachin; ARE 1.284.971/SP, Ministra Cármen Lúcia; ARE 1.288.654/MG, Ministra Rosa Weber.
+    Honorários advocatícios recursais.
+    Os honorários recursais, previstos no § 11 do art. 85 do Código de Processo Civil, não têm autonomia nem existência independente da sucumbência fixada na origem e representam um acréscimo ao ônus estabelecido previamente, motivo por que, na hipótese de descabimento ou de ausência de fixação anterior – como na espécie dos autos –, a sua incidência é indevida.
+    Nesse sentido, entre muitos outros, os seguintes acórdãos proferidos no Superior Tribunal de Justiça: AgInt no REsp 1.341.886/SP, DJ de 30.5.2019; EDcl no REsp 1.731.612/RS, DJ de 23.4.2019; e AgInt no AREsp 1.167.338/DF, DJ de 26.3.2019.
+    Diante do exposto, com fundamento no inciso III do art. 932 do CPC c/c o § 1º do art. 21 do RISTF, não conheço do agravo em recurso extraordinário.
+    Publique-se.
+Brasília, 25 de agosto de 2021.
+Ministro NUNES MARQUES
+Relator
