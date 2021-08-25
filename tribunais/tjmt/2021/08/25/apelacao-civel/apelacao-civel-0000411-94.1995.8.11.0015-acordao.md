@@ -1,0 +1,92 @@
+APELANTE(S):
+ESTADO DE MATO GROSSO
+APELADO(S):
+VALTER VICENTINI
+CELSO LUIZ PERECIN
+
+Número do Protocolo: 180081/2016
+Data de Julgamento: 25-08-2021
+
+E M E N T A
+RECURSO DE APELAÇÃO CÍVEL – TRIBUTÁRIO E PROCESSUAL CIVIL – AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL – EXTINÇÃO DO FEITO SEM RESOLUÇÃO DE MÉRITO POR PERDA SUPERVENIENTE DO INTERESSE DE AGIR – DEMORA PARA O TÉRMINO DO FEITO EXECUTIVO – OCORRÊNCIA DO FENÔMENO DA PRESCRIÇÃO INTERCORRENTE – NOTA PROMISSÓRIA DO BEMAT – PRAZO TRIENAL – DECRETO Nº 57.663/66, ARTIGO 70 – RECONHECIMENTO DE OFÍCIO – MATÉRIA DE ORDEM PÚBLICA – EXECUÇÃO EXTINTA – RECURSO PREJUDICADO.
+Em se tratando de prescrição intercorrente, é certo que seu prazo é idêntico ao da prescrição do direito pleiteado, ou seja, por se tratar de execução de título de origem cambial, aplica-se o prazo disposto no artigo 70 do Decreto nº 57.663/66, ou seja, de 3 (três) anos.
+“(...) Esta Corte de Justiça é firme no sentido de ser possível o reconhecimento da prescrição por se tratar de matéria de ordem pública (...)”. (AgInt no AREsp 1711126/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2020, DJe 18/12/2020).
+
+APELANTE(S):
+ESTADO DE MATO GROSSO
+APELADO(S):
+VALTER VICENTINI
+CELSO LUIZ PERECIN
+
+R E L A T Ó R I O
+EXMO. SR. DR. MARCIO APARECIDO GUEDES
+Egrégia Câmara:
+Trata-se de recurso de apelação cível interposto pelo Estado de Mato Grosso contra sentença proferida pelo juízo da 6ª Vara Cível da Comarca de Sinop-MT, que, nos autos da Ação de Execução de título executivo extrajudicial promovida em face de Valter Vicentini e Celso Luiz Perecin, reconheceu a perda superveniente do interesse de agir da exequente, extinguindo por corolário, o processo sem resolução de mérito.
+Em suas razões recursais, o apelante argumenta que a superveniente falta do interesse de agir, somente ocorre quando, após o ajuizamento da ação, algum fato posterior faz com que deixe de existir o binômio necessidade/adequação, o que não ocorreu no caso concreto.
+Alega que nessas situações, a demanda deixa de ser necessária porque o resultado pretendido já foi alcançado, ou a medida buscada, por alguma razão, deixou de ser apta à busca pelo direito pleiteado.
+Argumenta que em se tratando de feito executivo, é impossível considerar-se que, pela não localização de bens, mesmo que após longos períodos de busca pela satisfação da dívida, houve perda do interesse de agir. Tal fato apenas teria ocorrido se o executado tivesse adimplido com seu débito.
+Reforça que a ausência de bens não torna a demanda desnecessária, inadequada ou inútil, muito pelo contrário, se ainda não houve o pagamento da dívida perseguida a continuidade da execução é medida necessária para que haja o pagamento da dívida.
+Forte nessas premissas, pugna pelo provimento do recurso.
+Não há contrarrazões em face da ausência de angularização processual, consoante se infere na certidão acostada aos autos (fl. 263).
+A douta Procuradoria-Geral de Justiça opina pela ausência de interesse público capaz de ensejar a intervenção ministerial (fls. 275 a 280).
+É o relatório.
+
+V O T O
+EXMO. SR. DR. MARCIO APARECIDO GUEDES (RELATOR)
+Egrégia Câmara:
+Ab initio, esclareça-se que não tem aplicabilidade ao processo em exame o Código de Processo Civil que entrou em vigor em 18.03.2016, tanto em razão das regras de direito intertemporal como da incidência, por analogia, do Enunciado Administrativo nº 02, do Superior Tribunal de Justiça, pelo qual “Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça”.
+Pois bem. Extrai-se dos autos que a ação foi promovida em 30/09/1995 (fl.04) pelo antigo Banco de Mato Grosso – BEMAT, com o intuito de satisfazer crédito oriundo de nota promissória (fl. 10) emitida por Valter Vicentini e seu avalista Celso Luiz Perecin.
+O despacho que ordenou a citação foi proferido em 04/10/1995 (fl.15), contudo os devedores não foram localizados, consoante se infere da certidão de lavra do Oficial de Justiça (fl. 20-verso).
+No mesmo ato, o servidor do Poder Judiciário realiza a penhora de bem um imóvel conforme se verifica às fl. 45, contudo, apesar de diversas tentativas de alienar o referido item, todas as praças restaram infrutíferas eis que não ocorreram lanços.
+Posteriormente, já em 25/08/2005 um causídico de outra Ação de Execução, na qual constava como devedores os mesmos executados, informou nos autos que o bem imóvel já havia sido adjudicado em favor da Cooperativa de Crédito Rural do Norte de Mato Grosso LTDA, de maneira que não mais pertencia aos devedores (fl. 178).
+Após a liquidação extrajudicial do Bemat-Banco do Estado de Mato Grosso, a Fazenda Pública Estadual passou a atuar no feito como exequente, oportunidade em que na data de 17/12/2008, requereu a penhora on-line de valores em contas e aplicações de propriedade dos executados (fls. 222 a 225).
+Tal investida mostrou-se parcialmente exitosa, eis que foram localizados R$ 1.084,76 (mil e oitenta e quatro reais e setenta e seis centavos) (fl.240).
+Ato contínuo, sobreveio sentença julgando extinto o feito sem resolução de mérito, sob a premissa de perda superveniente do interesse de agir da exequente em razão da não localização de bens suficientes para satisfazer o crédito exequendo (fls. 244 a 247).
+Irrresignado, o Estado de Mato Grosso interpôs o presente recurso de apelação, o qual esclareço desde já que sequer merece ser analisado. Explico.
+Primeiramente há de se pontuar que a prescrição é considerada matéria de ordem pública, cognoscível “ex officio” pelo julgador, a qualquer tempo nas instâncias ordinárias. Neste sentido é o entendimento do Colendo Superior Tribunal de Justiça, colha-se:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. APELAÇÃO NÃO CONHECIDA. PRESCRIÇÃO. QUESTÃO DE ORDEM PÚBLICA. CONHECIMENTO DE OFÍCIO PELO TRIBUNAL DE JUSTIÇA. POSSIBILIDADE. DEMORA PARA A REALIZAÇÃO DA CITAÇÃO. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ.
+1. O Plenário do STJ decidiu que ?aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça? (Enunciado Administrativo n. 2)
+2. O não conhecimento do recurso de apelação pela falta de impugnação ao fundamento referente à ilegitimidade ativa não inibe o Tribunal de Justiça de conhecer de ofício de outras matérias de ordem pública eventualmente informadas, no caso, a prescrição, conforme preceitua o art. 267, § 3º, do CPC/1973.
+3. A verificação quanto à responsabilidade pela demora para a realização da citação do devedor, para fins de aplicação ou de afastamento da Súmula 106 do STJ, por demandar reexame de matéria fático-probatória, esbarra no óbice da Súmula 7 do STJ. Precedentes.
+4. Agravo interno desprovido.
+(STJ – AgInt no AREsp: 439003 PR 2013/0377115-6, Relator: Ministro GURGEL DE FARIA, Data de Julgamento: 08/08/2017, T1 – PRIMEIRA TURMA, Data de Publicação: DJe 13/09/2017) (Destaquei)
+Por outro lado, imperioso declinar que o mesmo Tribunal da Cidadania, para evitar a eternização de demandas promovidas pelas Fazendas Públicas em geral, pacificou a questão acerca da prescrição intercorrente por meio do Incidente de Resolução de Demandas Repetitivas – IRDR, registrado no REsp nº 1.340.553/RS, este que foi eleito como paradigma.
+Observemos o julgado e as respectivas teses fixadas:
+
+RECURSO ESPECIAL REPETITIVO. ARTS. 1.036 E SEGUINTES DO CPC/2015 (ART. 543-C, DO CPC/1973). PROCESSUAL CIVIL. TRIBUTÁRIO. SISTEMÁTICA PARA A CONTAGEM DA PRESCRIÇÃO INTERCORRENTE (PRESCRIÇÃO APÓS A PROPOSITURA DA AÇÃO) PREVISTA NO ART. 40 E PARÁGRAFOS DA LEI DE EXECUÇÃO FISCAL (LEI N. 6.830/80).
+1. O espírito do art. 40, da Lei n. 6.830/80 é o de que nenhuma execução fiscal já ajuizada poderá permanecer eternamente nos escaninhos do Poder Judiciário ou da Procuradoria Fazendária encarregada da execução das respectivas dívidas fiscais.
+2. Não havendo a citação de qualquer devedor por qualquer meio válido e/ou não sendo encontrados bens sobre os quais possa recair a penhora (o que permitiria o fim da inércia processual), inicia-se automaticamente o procedimento previsto no art. 40 da Lei n. 6.830/80, e respectivo prazo, ao fim do qual restará prescrito o crédito fiscal. Esse o teor da Súmula n. 314/STJ: "Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição qüinqüenal intercorrente".
+3. Nem o Juiz e nem a Procuradoria da Fazenda Pública são os senhores do termo inicial do prazo de 1 (um) ano de suspensão previsto no caput, do art. 40, da LEF, somente a lei o é (ordena o art. 40: "(...) o juiz suspenderá (...)"). Não cabe ao Juiz ou à Procuradoria a escolha do melhor momento para o seu início. No primeiro momento em que constatada a não localização do devedor e/ou ausência de bens pelo oficial de justiça e intimada a Fazenda Pública, inicia-se automaticamente o prazo de suspensão, na forma do art. 40, caput, da LEF. Indiferente aqui, portanto, o fato de existir petição da Fazenda Pública requerendo a suspensão do feito por 30, 60, 90 ou 120 dias a fim de realizar diligências, sem pedir a suspensão do feito pelo art. 40, da LEF. Esses pedidos não encontram amparo fora do art. 40 da LEF que limita a suspensão a 1 (um) ano. Também indiferente o fato de que o Juiz, ao intimar a Fazenda Pública, não tenha expressamente feito menção à suspensão do art. 40, da LEF. O que importa para a aplicação da lei é que a Fazenda Pública tenha tomado ciência da inexistência de bens penhoráveis no endereço fornecido e/ou da não localização do devedor. Isso é o suficiente para inaugurar o prazo, ex lege.
+4. Teses julgadas para efeito dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973): 4.1.) O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução; 4.1.1.) Sem prejuízo do disposto no item 4.1., nos casos de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido antes da vigência da Lei Complementar n. 118/2005), depois da citação válida, ainda que editalícia, logo após a primeira tentativa infrutífera de localização de bens penhoráveis, o Juiz declarará suspensa a execução.
+4.1.2.) Sem prejuízo do disposto no item 4.1., em se tratando de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido na vigência da Lei Complementar n. 118/2005) e de qualquer dívida ativa de natureza não tributária, logo após a primeira tentativa frustrada de citação do devedor ou de localização de bens penhoráveis, o Juiz declarará suspensa a execução.
+4.2.) Havendo ou não petição da Fazenda Pública e havendo ou não pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo) durante o qual o processo deveria estar arquivado sem baixa na distribuição, na forma do art. 40, §§ 2º, 3º e 4º da Lei n. 6.830/80 - LEF, findo o qual o Juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato; 4.3.) A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens. Os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera.
+4.4.) A Fazenda Pública, em sua primeira oportunidade de falar nos autos (art. 245 do CPC/73, correspondente ao art. 278 do CPC/2015), ao alegar nulidade pela falta de qualquer intimação dentro do procedimento do art. 40 da LEF, deverá demonstrar o prejuízo que sofreu (exceto a falta da intimação que constitui o termo inicial - 4.1., onde o prejuízo é presumido), por exemplo, deverá demonstrar a ocorrência de qualquer causa interruptiva ou suspensiva da prescrição.
+4.5.) O magistrado, ao reconhecer a prescrição intercorrente, deverá fundamentar o ato judicial por meio da delimitação dos marcos legais que foram aplicados na contagem do respectivo prazo, inclusive quanto ao período em que a execução ficou suspensa.
+5. Recurso especial não provido. Acórdão submetido ao regime dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973). (REsp 1340553/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/9/2018, DJe 16/10/2018). (Destaquei)
+
+Em suma, a principal mudança reside no entendimento firmado no sentido de que, depois de intimada a Fazenda Pública acerca da não localização do devedor e/ou bens sobre os quais possa recair a penhora, inicia-se automaticamente o procedimento previsto no art. 40 da Lei nº 6.830/80, qual seja, suspensão do processo por 1 (um) ano e posteriormente passa a fluir o prazo legal da prescrição intercorrente, a depender da natureza do crédito exequendo.
+Sob essa perspectiva, pode ser observado que a Fazenda Pública tem ciência da não localização dos devedores em 15/03/1996 (fls.22 a 23).
+Não há qualquer outro marco que enseja na interrupção, ou suspensão do fluxo temporal, logo, é certa que a fase de suspensão tem fim em 15/03/1997, data que se inicia o arquivamento.
+Como é cediço, os títulos cambiais, como a nota promissória, são regidos pelo Decreto nº 57.663/66, artigo 70, este que preconiza que a prescrição se perfaz com 3 (três) anos.
+Destarte, o entendimento do Superior Tribunal de Justiça é no sentido de que a prescrição intercorrente possui o mesmo prazo da prescrição do direito material, logo, é certo que a prescrição, in casu, se configuraria com a ausência de fatos interruptivos ou suspensivos por mais de 3 (três) anos. Observe-se a jurisprudência.
+
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICAL. PRESCRIÇÃO INTERCORRENTE. PROCESSO PARALISADO POR TEMPO SUPERIOR AO DE PRESCRIÇÃO DO DIREITO MATERIAL VINDICADO.
+(...)
+2. Conforme consolidado pela 2ª Seção do STJ no Incidente de Assunção de Competência no REsp 1.604.412/SC, incide a prescrição intercorrente, nos processos regidos pelo CPC/73, quando o exequente permanece inerte por prazo superior ao de prescrição do direito material vindicado.
+(...)
+4. Agravo interno não provido. (AgInt no REsp 1739793/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/11/2018, DJe 14/11/2018). (Destaquei)
+Veja-se o que trilha este Sodalício, em casos análogos:
+RECURSO DE APELAÇÃO CÍVEL – AÇÃO DE EXECUÇÃO FORÇADA – BEMAT (BANCO DO ESTADO DE MATO GROSSO – INCIDÊNCIA DO DECRETO Nº 57.663/66 – NOTA PROMISSÓRIA – PRESCRIÇÃO INTERCORRENTE – OCORRÊNCIA – RECURSO DESPROVIDO.1. Em se tratando de Nota Promissória, emitida em favor do extinto BEMAT – Banco do Estado de Mato Grosso, a prescrição da eficácia executiva do Título de Crédito é regida pela Lei Cambial (Lei Uniforme – Decreto Federal no 57.663/66), aplicando o prazo da prescrição trienal prevista no art. 70 do aludido regramento. 2. Permanecendo inerte por mais de três anos após a citação do executado sem que a exequente tenha diligenciado na busca de receber o crédito, resta configurada a prescrição intercorrente. (N.U 0001342-96.1996.8.11.0004, , MARIA EROTIDES KNEIP BARANJAK, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 31/7/2017, Publicado no DJE 31/1/2018). (Destaquei)
+PROCESSO CIVIL – APELAÇÃO CÍVEL – AÇÃO DE EXECUÇÃO – BEMAT – INCIDÊNCIA DO DECRETO no 57.663/66 – NOTA PROMISSÓRIA – PRESCRIÇÃO TRIENAL – NÃO CONFIGURADA – PRESCRIÇÃO INTERCORRENTE – OCORRÊNCIA – RECURSO DESPROVIDO. Tratando-se de Nota Promissória, emitida em favor do extinto BEMAT – Banco do Estado de Mato Grosso, a prescrição da eficácia executiva do título de crédito é regida pela lei cambial (Lei Uniforme – Decreto Federal no 57.663/66), sendo a prescrição trienal, nos termos do art. 70 do aludido regramento. Existindo inércia superior a três anos, configurada está a prescrição intercorrente. (N.U 0012084-89.1996.8.11.0002, , MÁRCIO VIDAL, PRIMEIRA CÂMARA DE DIREITO PÚBLICO E COLETIVO, Julgado em 24/10/2016, Publicado no DJE 28/10/2016). (Destaquei)
+
+Ao realizar a contagem da prescrição intercorrente, vê-se que a referida se concretizou na longínqua data de 15/03/2000, logo, por se tratar de matéria de ordem pública cognoscível pelo julgador em qualquer grau das instâncias ordinárias, imperiosa é a declaração da ocorrência da mácula prescricional.
+Com essas considerações, RECONHEÇO DE OFÍCIO a prescrição intercorrente do feito em exame, extinguindo a ação de execução com resolução de mérito, e por via de consequência, declaro PREJUDICADO o recurso de apelação.
+É como voto. .
+
+A C Ó R D Ã O
+Vistos, relatados e discutidos os autos em epígrafe, a SEGUNDA CÂMARA DE DIREITO PÚBLICO E COLETIVO do Tribunal de Justiça do Estado de Mato Grosso, sob a Presidência do DES. MARIO R. KONO DE OLIVEIRA, por meio da Câmara Julgadora, composta pelo DR. MARCIO APARECIDO GUEDES (Relator), DR. YALE SABO MENDES (1º Vogal convocado) e DES. MARIO R. KONO DE OLIVEIRA (2º Vogal), proferiu a seguinte decisão: À UNANIMIDADE, JULGOU PREJUDICADO O RECURSO, NOS TERMOS DO VOTO DO RELATOR.
+
+Cuiabá, 25 de agosto de 2021.
+
+-------------------------------------------------------------------------------------------
+DOUTOR MARCIO APARECIDO GUEDES - RELATOR
