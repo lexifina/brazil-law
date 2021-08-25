@@ -1,0 +1,11 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por ELECTRONIC ARTS EUROPE LTD eELECTRONIC ARTS NEDERLAND B V,contra inadmissão, na origem, de recurso especial fundamentado nas alíneas "a" e "c" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+RESPONSABILIDADE CIVIL - USO INDEVIDO DE IMAGEM - SOFTWARE INTERATIVO - INEXISTÊNCIA DE AUTORIZAÇÃO EXPRESSA DO ATLETA - PRESCRIÇÃO AFASTADA - DANOS MORAIS CARACTERIZADOS - VALOR MANTIDO - ACRÉSCIMOS BEM LOCALIZADOS - SENTENÇA CONFIRMADA - RECURSOS DESPROVIDOS.
+Nas razões do recurso especial a parte recorrente alega, além de divergência jurisprudencial, violação aos arts. 82, § 2º, 85, § 2º, 86, parágrafo único e 1022, Ie II do CPC e 186, 189, 206, § 3º, V, 884, 927 e 944 do CC, sustentando, em síntese, negativa de prestação jurisdicional; ocorrência da prescrição do pleito autoral ao argumento de que a prescrição tem como marco inicial a data de lançamento/publicação de cada edição reputada ilícita, conforme datas indicadas por meio de declaração prestada pela EA; ausência de ato ilícito e inexistência do dever de indenizar "na medida em que: I) a EA obteve toda documentação necessária, II) questionável a necessidade da obtenção de qualquer autorização, considerando ser o futebol patrimônio cultural e ser o Recorrido pessoa pública, III) ausência dos requisitos ensejadores do dever deindenizar, IV) da incidência do instituto da supressio, bem como V) a existência de autorização tácita por parte do Recorrido para utilização, pela EA, de direitos relativos à personalidade" (e-STJ fls. 2648/2649); ausência de caracterização de dano moral, uma vez que inexisteexposição negativa e/ou vexatória da imagem do Recorrido nos jogos eletrônicos das Recorrentes; excesso no valor da indenização; indevida distribuição da sucumbência; e termo inicial dos juros moratórios a partir do arbitramento.
+É o relatório.
+Passo a decidir.
+Merece guarida a pretensão recursal.
+Com efeito, diante da relevância da questão suscitada, merece provimento o agravo para melhor analisar o recurso especial interpostos, procedendo-se à devida conversão.
+Ante o exposto, dou provimento ao agravo em recurso especial, procedendo-se à conversão.
+Intime-se.
