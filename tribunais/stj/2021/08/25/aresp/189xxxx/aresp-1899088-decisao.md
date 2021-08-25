@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por FERRAMENTARIA METHODO LTDA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE BUSCA E APREENSÃO. CUMPRIMENTO DE SENTENÇA. Penhora de direito aquisitivos derivados de alienação fiduciária em garantia que encontra fundamento no art. 835, XII, do CPC/15.
+Possibilidade de averbação da constrição junto à matrícula imobiliária. Inexistência de ofensa ao princípio da continuidade registral. Precedentes do E. TJSP. Decisão mantida. RECURSO NÃO PROVIDO.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação do art. 22 da Lei 9.514/97, no que concerne à impossibilidade de averbação da penhora, trazendo o(s) seguinte(s) argumento(s):
+O artigo supracitado é claro ao conceituar o instituto da alienação fiduciária em garantia de bem imóvel, assim, enquanto não houver o adimplemento integral do débito, a propriedade resolúvel do bem é do credor fiduciário.
+ .. .
+Sabe-se que o imóvel em questão foi dado em alienação fiduciária à Caixa Econômica como garantia de dívida no montante de R$ 235.977,70 (duzentos e trinta e cinco mil, novecentos e setenta e sete reais e setenta centavos) pagável em 420 (quatrocentas e vinte) parcelas mensais, conforme fls. 179/180, possuindo o Recorrente apenas a posse do imóvel. Cumpre ratificar que o mencionado bem NÃO É DE PROPRIEDADE DO RECORRENTE, mas sim da Instituição Financeira ali constante (Caixa Econômica Federal).
+ .. .
+In casu, conforme demonstrado, o Recorrente apenas tem a posse do imóvel matrícula nº 220.299, não podendo, dessa forma, haver qualquer registro no título, sem antes pertencer a ele. Frisa-se, enquanto não houver o adimplemento integral do débito, a propriedade resolúvel do bem é do credor fiduciário. (fls. 53/54).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
