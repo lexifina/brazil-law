@@ -1,0 +1,30 @@
+EMENTA
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTERPRETAÇÃO LITERAL DO ART. 112, I, DO CÓDIGO PENAL.
+1. A orientação jurisprudencial pacífica desta Corte é a de que o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do Código Penal, mais benéfica ao condenado. Precedentes.
+2. Agravo regimental a que se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL contra decisão de minha relatoria em que concedi parcialmente a ordem de habeas corpus para determinar o retorno dos autos ao juízo executivo, a fim de que, afastando-se o entendimento de que o termo inicial para o cômputo da prescrição da pretensão executória é o trânsito em julgado para ambas as partes, fosse examinada a eventual ocorrência da prescrição executiva.
+Alega o agravante que, "embora o artigo 112-I do Código Penal enuncie que a prescrição da pretensão executória compute-se do trânsito em julgado apenas à acusação, esta deve condicionar-se ao artigo 5º-LVII da Constituição" (e-STJ fl. 145).
+Pontua que "a definitividade do decreto condenatório é condição para a execução da pena imposta, uma vez que não haveria como se falar em início do prazo prescricional a partir do trânsito em julgado apenas para a acusação em razão da impossibilidade de o Estado dar início à execução da pena, já que ainda não haveria uma condenação definitiva, condicionada à resignação do acusado com a prestação jurisdicional" (e-STJ fls. 145/146).
+Assim, requer a reconsideração da decisão agravada ou a submissão do presente recurso à apreciação da Turma competente.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar, uma vez que o recurso não apresenta argumento capaz de desconstituir os fundamentos que embasaram a decisão ora impugnada, de forma que essa deve ser integralmente mantida.
+Com efeito, conforme assentado na decisão agravada, o acórdão recorrido encontra-se em descompasso com a orientação jurisprudencial pacífica desta Corte de que o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado. Ressalto que, em que pese à existência de julgados do Supremo Tribunal Federal em sentido contrário, neste Superior Tribunal mantém-se o entendimento ora esposado, já que a matéria não está pacificada no âmbito daquela Corte.
+A propósito, confiram-se:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. NECESSIDADE DE TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. MATÉRIA A SER APRECIADA PELO JUÍZO DA EXECUÇÃO. AGRAVO NÃO PROVIDO.
+1. "Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito em julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa." (EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+2. Esta Corte possui entendimento de que a análise do pleito de extinção da punibilidade pela prescrição da pretensão executória cabe ao juízo da execução, uma vez que demanda a verificação de diversas informações, não apenas quanto ao trânsito em julgado para a acusação e início da execução da pena, como também acerca da ocorrência de incidentes que interferem diretamente na contagem do prazo prescricional, nos termos do disposto nos arts. 116, parágrafo único e 117, incisos V e VI, ambos do CP. Julgado: AgRg no HC 457.810/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 8/11/2018, DJe 23/11/2018.
+3. Agravo regimental não provido. (AgRg no HC 473.344/PB, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 10/03/2020, DJe 26/03/2020)
+EMBARGOS DE DECLARAÇÃO EM HABEAS CORPUS RECEBIDOS COMO AGRAVO REGIMENTAL. ALEGAÇÃO DE OMISSÃO. AUSÊNCIA DOS PRESSUPOSTOS DO ART. 619 DO CPP. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. RETENSÃO DE MODIFICAÇÃO DO DECISUM. INVIABILIDADE.
+1. Na hipótese em exame, inexiste a omissão indicada nos embargos de declaração; o que há é decisão contrária aos interesses da parte, uma vez que foi explicitamente afirmado que a orientação jurisprudencial pacífica desta Corte é a de que o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do Código Penal, mais benéfica ao condenado (AgRg nos EDcl nos EREsp n. 1.376.031/PR, Ministro Antonio Saldanha Palheiro, Terceira Seção, DJe 12/2/2021).
+2. Embargos de declaração recebidos como agravo regimental ao qual se nega provimento. (EDcl no HC 665.439/DF, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/06/2021, DJe 21/06/2021)
+Assim, considerando que o entendimento adotado pelas instâncias ordinárias diverge do que foi firmado por esta Corte, mantenho a decisão agravada.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
