@@ -1,0 +1,34 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Município de Lagoa do Carro, com amparo nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 5ª Região assim ementado (e-STJfls. 122-123):
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DO FEITO. CANCELAMENTO DA CERTIDÃO DE DÍVIDA ATIVA. CONDENAÇÃO EM VERBA HONORÁRIA. VALOR EXCESSIVO. APLICAÇÃO DO JUÍZO EQUITATIVO. ART. 85, § 8º, DO CPC. PRECEDENTES DO STJ E DO PLENÁRIO DESTE TRIBUNAL. APELAÇÃO PARCIALMENTE PROVIDA .
+1. O caso é de apelação interposta pela Fazenda Nacional em face da sentença que julgou extinta a execução fiscal, nos termos do art. 26 da Lei nº 6.830/80, condenando o ente credor em verba honorária no percentual de 5% (cinco por cento) sobre o valor da causa. Sustenta o ente público que o reconhecimento da procedência do pedido afasta a condenação na verba honorária, nos termos do art. 19, § 1º, da Lei nº 10.522/2002.
+2. No caso em tela, o executado apresentou exceção de pré-executividade, alegando a nulidade da execução. Intimada para impugnar a exceção, a Fazenda Nacional informou o cancelamento das Certidões de Dívida Ativa. Daí a prolação da sentença extintiva com a condenação do ente credor em honorários advocatícios, por força do princípio da causalidade.
+3. Faz-se necessário, contudo, realizar um juízo de sopesamento em relação ao montante da verba honorária a ser fixada, tendo em vista que o percentual de 5%( cinco por cento), estabelecido na sentença, ao cotejo do valor da causa de R$ 4.164.893,40 (quatro milhões, cento e sessenta e quatro mil, oitocentos e noventa e três reais e quarenta centavos), revela-se excessivo.
+4. Nessa toada, o Plenário deste Tribunal tem realizado interpretação teleológica dos parágrafos do art. 85 do CPC, destacando o espírito do legislador, ao garantir a justa remuneração do trabalho do advogado, o qual, no caso, se limitou à confecção de uma única peça no processo (AR nº 0803599-39.2017.4.05.0000,Julgamento: 09/03/2018).
+5. Aliás, essa interpretação da norma processual encontra eco na jurisprudência recente do Superior Tribunal de Justiça, conforme exposto no apelo da Fazenda Nacional, no sentido de que "o juízoequitativo é aplicável tanto na hipótese em que a verba honorária se revela ínfima como excessiva, à luz". (REsp dos parâmetros do art. 20, § 3º, do CPC/1973 (atual art. 83, § 2º, do CPC/20151.789.913/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/02/2019, DJe11/03/2019).
+6. Condena-se a Fazenda Nacional ao pagamento de honorários advocatícios, no montante de R$ 30.000,00 (trinta mil reais), nos moldes do § 8º do art. 85 do CPC.
+7. Apelação, em parte, provida.
+Os embargos de declaração opostos contra a aludida decisão não foram acolhidos.
+O recorrente alega a existência de contrariedade ao art. 85, §§3º e 5º, do CPC/2015, por entender que os honorários fixados são irrisórios.
+Admitido o recurso especial na origem, os autos vieram-me conclusos.
+Parecer do Ministério Público Federal opinando pelo desprovimento do recurso especial.
+É o relatório.
+O Tribunal de origem fixou os honorários de sucumbência com base na equidade. Contudo, não delimitou as razões pelas quais reduziu o percentual fixado pelo Juízo inicial.
+Assim, a majoração da verba honorária, no caso, implica o revolvimento do contexto fático-probatório, o que é vedado pelo enunciado da Súmula 7/STJ.
+Sobre o tema:
+PROCESSUAL CIVIL. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTO.FALECIMENTO DA PARTE AUTORA. PERDA SUPERVENIENTE DE OBJETO. DIREITO INTRANSMISSÍVEL. NATUREZA PERSONALÍSSIMA DA AÇÃO. EXTINÇÃO SEM JULGAMENTO DO MÉRITO. HONORÁRIOS ADVOCATÍCIOS. ARBITRAMENTO POR EQUIDADE. POSSIBILIDADE. REVISÃO. REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. ÓBICE DA SÚMULA N. 7/STJ.
+I - Trata-se ação de fornecimento de medicamento, com pedido de tutela provisória de urgência, contra o Estado de Santa Catarina e a União, objetivando a condenação dos entes federados réus ao fornecimento de medicação. Na primeira instância, a ação foi julgada extinta, sem resolução de mérito, com base no art. 485, IX, § 3º, do CPC de 2015, em decorrência do falecimento superveniente da parte autora.
+II - O Tribunal Regional Federal da 4ª Região, em grau recursal, deu provimento ao recurso, reformando-se a decisão monocrática na parte dispositiva da condenação em honorários advocatícios.
+III - No que diz respeito à alegação de violação do art. 85, e §§ 3º, 4º e 8º, do CPC/2015, verifica-se, portanto, que a Corte de origem analisou a controvérsia dos autos levando em consideração os fatos e provas relacionados à matéria. Assim, para se chegar à conclusão diversa seria necessário o reexame fático-probatório, o que é vedado pelo enunciado n. 7 da Súmula do STJ, segundo o qual "A pretensão de simples reexame de provas não enseja recurso especial".
+IV - Outrossim, a jurisprudência desta Corte se consolidou no sentido de que a revisão dos honorários advocatícios, via de regra, encontra óbice na Súmula n. 7/STJ, sendo que tal entendimento, excepcionalmente, pode ser mitigado diante da irrisoriedade ou da exorbitância do valor arbitrado nas instâncias ordinárias.
+V - Impende destacar que, nas ações em que se busca o fornecimento de medicação gratuita e de forma contínua pelo Estado, para fins de tratamento de saúde, esta Corte Superior tem admitido o arbitramento dos honorários de sucumbência por apreciação equitativa, "tendo em vista que o proveito econômico obtido, em regra, é inestimável", o direito à vida. (AgInt no AREsp 1.234.388/SP, relator Ministro Gurgel de Faria, Primeira Turma, julgado em 4/12/2018, DJe 5/2/2019).
+VI - Agravo interno improvido.
+(AgInt no AREsp 1.760.400/SC, Rel. Min. FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 28/6/2021, DJe 1º/7/2021).
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. HONORÁRIOS ADVOCATÍCIOS. REVISÃO. SÚMULA 7/STJ.
+1. O arbitramento da verba honorária pelo critério da equidade, na instância ordinária, é matéria de ordem fática insuscetível de reexame na via especial, nos termos da Súmula 7/STJ, que assim orienta: "A pretensão de simples reexame de prova não enseja recurso especial.".
+2. "O valor da causa, por si só, não é elemento hábil a propiciar a qualificação do quantum como ínfimo ou abusivo, para fins de revisão da verba honorária fixada na origem, conforme orientação adotada pela Segunda Turma desta Corte nos autos do REsp 1.417.906/SP, Rel.(a) p/ acórdão Ministro Herman Benjamin, DJe 01/07/2015" (AgInt no AREsp 1.699.737/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 18/12/2020).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.851.839/ES, minha relatoria, SEGUNDA TURMA, julgado em 1/3/2021, DJe 27/5/2021).
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
