@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por ANITA PERES, ALMIR FERNANDES PINTO, AUGUSTO CESAR BUENO DE FREITAS, IVAN CARLOS DE OLIVEIRA, MANOEL CARLOS MOREIRA, MARCELO DE ALMEIDA, MARCELO FABRIS PINTO DA SILVA, OBEDE MONTEIRO MATTOS, PAULO ROBERTO GENUARIO FERREIRA e WAGNER RIBEIRO SOUZA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 574):
+PROCESSUAL CIVIL. AGRAVO INTERNO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RECÁLCULO DE QUINQUÊNIOS E SEXTA-PARTE CONCEDIDOS EM MANDADO DE SEGURANÇA COLETIVO. PRETENSÃO AO RECEBIMENTO DA ALUDIDA VERBA NO QUINQUÊNIO ANTERIOR À IMPETRAÇÃO DO WRIT. NECESSÁRIO AGUARDAR O TRÂNSITO EM JULGADO DA SENTENÇA. PRECEDENTES.
+1. Caso em que os servidores do Estado de São Paulo ajuizaram ação de cobrança, sustentando que o adicional temporal sexta-parte e o quinquênio devem ser calculados não apenas sobre o vencimento-base, mas sobre os vencimentos integrais.
+2. A sentença não conhecer da ação, porque "a causa aqui deduzida é mera perspectiva de confirmação do mandado de segurança, o que não pode simplesmente ser cumprido porque lhe carece coisa julgada".
+3. O acórdão recorrido reformou a sentença ao fundamento de que "o fato de não ter ocorrido o trânsito em julgado no mandado de segurança coletivo não constitui óbice à demanda pelo período anterior ao seu ajuizamento, ficando, pois, afastada a objeção considerada pela sentença".3. Dessa forma, o acórdão recorrido encontra-se em dissonância com a jurisprudência desta Corte Superior no sentido de que, no caso dos autos, deve-se aguardar o trânsito em julgado da sentença em Mandado de Segurança Coletivo (nº 0600594-25.2008.8.26.0053) para o ajuizamento da ação de cobrança visando a percepção de parcelas pretéritas. Precedentes.
+4. Agravo interno da Fazenda do Estado de São Paulo, para conhecer do agravo em recurso especial, provendo o seu recurso especial no sentido de restabelecer a sentença de fls. 259-266, pedindo as mais respeitosas vênias ao Relator, Ministro Napoleão Nunes Maia Filho. Prejudicado o recurso especial dos servidores.
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 619).
+Sustentam os recorrentes a repercussão geral da matéria tratada, aduzindoque o aresto impugnado violaria o art. 5º, inciso XXXV, da Constituição Federal.
+Afirmam que, "ao que parece, o acórdão recorrido confundiu o procedimentoda ação de cobrança com a fase satisfativa do writ, renegando, semfundamento, uma nova incursão de mérito, ostentada por partes e pedidosestranhos àqueles dispostos na relação processual formada no suscitadomandado de segurança coletivo" (e-STJ fl. 634).
+Alegam que a fase em que se encontra o writ não seria relevante para averificação dos requisitos de admissão e desenvolvimento da ação decobrança.
+Argumentam que "não é aceitável compreender a presente ação de cobrançacomo mera fase processual do mandamus, pois o writ coletivo objetivou aobrigação de fazer e caso subsistam valores reconhecidos e não pagos entrea impetração e a concessão, estes, sim, poderão ser exigidos naquelesautos, por liquidação de sentença, mas, ao contrário do que quis afirmar oacórdão recorrido, a concessão de segurança transitada em julgado nãopermite exigir o recebimento de parcelas pretéritas à impetração domandado de segurança coletivo, sendo salutar a repetição de que o mandadode segurança não projeta efeitos econômicos pretéritos" (e-STJ fl. 659).
+Requerem, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões não foram apresentadas (certidões de e-STJ fls. 675 e 676).
+É o relatório.
+É assente na Suprema Corte o entendimento de que "a questão da ofensa ao princípio da inafastabilidade de jurisdição, quando há óbice processual intransponível ao exame de mérito, ofensa indireta à Constituição ou análise de matéria fática, tem natureza infraconstitucional, e a ela se atribuem os efeitos da ausência de repercussão geral" (Tema 895/STF).
+Essa tese foi estabelecida pelo Supremo Tribunal Federal no julgamento do RE n. 956.302 RG/GO, que restou assim ementado:
+PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. ÓBICES PROCESSUAIS INTRANSPONÍVEIS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DE MÉRITO. QUESTÃO INFRACONSTITUCIONAL. MATÉRIA FÁTICA. AUSÊNCIA DE REPERCUSSÃO GERAL. Não há repercussão geral quando a controvérsia refere-se à alegação de ofensa ao princípio da inafastabilidade de jurisdição, nas hipóteses em que se verificaram óbices intransponíveis à entrega da prestação jurisdicional de mérito.
+(RE 956.302/GO RG, Relator(a): Min. EDSON FACHIN, julgado em 19/05/2016, PROCESSO ELETRÔNICO DJe-124 DIVULG 15-06-2016 PUBLIC 16-06-2016)
+Na espécie, a violação do art. 5º, inciso XXXV, da Constituição Federal é reflexa, pois depende da análise do art. 14, § 4º, da Lei n. 12.016/2009, além de importar em reexame do contexto fático-probatório, razão pela qual incide o Tema 895/STF.
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.  ..  ALEGAÇÃO DE CONTRARIEDADE AO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO: INEXISTÊNCIA DE REPERCUSSÃO GERAL (TEMA 895). AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 1256343 AgR, Relator(a): CÁRMEN LÚCIA, Segunda Turma, julgado em 29/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA INAFASTABILIDADE DE JURISDIÇÃO. TEMA 895/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
