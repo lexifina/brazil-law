@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ANULAÇÃO DO REGISTRO DE INFRAÇÃO DISCIPLINAR. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal local apontou não apenas a previsão legal da conduta a título de falta grave como também a existência de elementos a demonstrar a materialidade e a autoria imputada ao paciente, de modo que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de esta Corte Superior apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+JOELSON MACHADO agrava da decisão de fls. 117-118, em que indeferi liminarmente o habeas corpus para manter o acórdão que reconheceu a prática de infração disciplinar grave, dado o atraso no retorno de saída temporária.
+Para tanto, assere que, " n o que pertine à chancela da falta grave, postula-se a reconsideração, porquanto que consta do PAD n. 035/2020 que o apenado deveria ter retornado da saída temporária em 02/01/2020, não obstante tenha se reapresentado voluntariamente em 03/01/2020 (e-STJ fls. 33/34), o que, por si só, não traduz gravidade da falta, mas equívoco de boa-fé quanto ao termo de retorno" (fl. 121).
+Requer, assim, "em caso de não ser reconsiderada a decisão pelo douto Ministro Relator, a apresentação deste Agravo Regimental para que a Turma sobre ele se pronuncie, postulando-se, desde já, a reforma da decisão monocrática" (fl. 122).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ANULAÇÃO DO REGISTRO DE INFRAÇÃO DISCIPLINAR. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O Tribunal local apontou não apenas a previsão legal da conduta a título de falta grave como também a existência de elementos a demonstrar a materialidade e a autoria imputada ao paciente, de modo que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão vergastado, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de esta Corte Superior apreciar o pedido formulado no writ.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Conforme já apontado na decisão vergastada, asseriu a defesa que, "ao retornar voluntariamente para o cárcere, o paciente está colaborando com a disciplina da execução penal, de modo que se existisse alguma inadequação no dito regulamento apresentado pelo Juízo da Execução Penal de Joinville, caberia ao Ministério Público tomar providências contra a norma em abstrato" (fl. 7).
+A esse respeito, não olvido que " o  atraso no retorno da saída temporária configura falta grave consistente na execução das ordens recebidas (art. 50, VI, c.c art. 39, V, da LEP)" (HC n. 390.313/SP, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 6/11/2017).
+Também não passa desapercebido que "" o  reconhecimento de falta disciplinar de natureza grave, em caso de fuga do estabelecimento prisional ou de não retorno de saída temporária, somente é possível com a devida instauração de procedimento administrativo disciplinar pelo diretor do presídio, conforme entendimento desta Corte (REsp n. 1.378.557/RS, submetido ao rito previsto no art. 543-C do Código de Processo Civil, DJe 21/3/2014 e Súmula n. 533 do STJ)" (HC 349.671/RS, Rel. Ministro Rogerio Schietti, 6ª T., DJe 31/5/2016)" (AgInt no AgRg no AREsp n. 958.602/RS, Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/2/2017, grifei), procedimento que foi respeitado na espécie.
+Sobre o ponto, apontou a Corte de origem que "o reeducando deixou de retornar ao estabelecimento prisional na data e horário apresados, somente retornando, voluntariamente, no dia 03/01/20, às 14h40min (ev. 229). Tal fato, motivou a instauração do processo administrativo disciplinar, objeto da Portaria n. 035/2020" (fl. 100, sublinhei).
+Por fim, urge consignar que " a dentrar na questão da plausibilidade da justificativa que o paciente apresentou para seu atraso ao retorno da saída temporária, considerado como falta grave, seria revolver matéria probatória, inviável de ser revista no rito célere da ação constitucional de habeas corpus" (HC n. 162.903/SP, Rel. Ministro Gilson Dipp, 5ª T., DJe 1º/7/2011, destaquei).
+À vista do exposto, nego provimento ao recurso.
