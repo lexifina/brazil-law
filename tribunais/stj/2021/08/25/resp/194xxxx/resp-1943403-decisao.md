@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+Ação cominatória c/c reparação por danos morais. Restabelecimento de plano de saúde. Plano que foi cancelado sob o argumento de ausência de elegibilidade da Autora. Questão que não pode ser a ela imputada. Admissibilidade da resilição unilateral em casos de contratos coletivos, uma vez que o artigo 13 da Lei 9.656/98 não se aplica a eles. Precedentes. Ausência, contudo, de comunicado pela Ré acerca do cancelamento do plano, observado ainda que sequer ofereceu plano similar à Autora (artigo 1º, Resolução nº 19, do CONSU e RN nº 154/2011). Restabelecimento do plano de saúde da Autora que é medida de rigor. Dano moral configurado. Dever de indenizar caracterizado e fixado em R$ 10.000,00. Sentença de procedência mantida, inclusive os honorários. Recurso não provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta a parte recorrente violação dos artigos 1.022 do Código de Processo Civil; 1º e 4º da Lei 9.961/2000, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento da omissão com relação à não comercialização de plano individual e familiar pela operadora de saúde, na época da resilição do contrato.
+Sustenta a impossibilidade de migração da parte recorrida para o plano individual ou familiar, por ausência de determinação legal, bem como por não comercializar essa modalidade de plano.
+O recurso foi admitido na origem, nos termos da decisão de fls. 311-312, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+Quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses da recorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto ao não atendimento à formalidade legal para resilição, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+Quanto ao mérito, verifico que a recorrente não rebateu os fundamentos despendidos pelo acórdão recorrido, no tocante à não observância do artigo 13, II, da Lei 9.656/98, de modo que o recurso especial encontra óbice na Súmula nº 283, do STF.
+É o que se depreende da leitura do seguinte trecho (fl. 136, e-STJ):
+A prova do processo conduz à certeza que o cancelamento do plano de saúde pela corré Bradesco não poderia ter ocorrido, uma vez que sequer comprova ter enviado correspondência aos Autores a respeito do cancelamento do plano de saúde, ou seja, não existe comprovação apta da notificação, conforme exigido.
+De todo modo, o Tribunal estadual, encontra-se em harmonia com a orientação desta Corte Superior, cuja dicção é no sentido de ser "imprescindível a notificação prévia do segurado anteriormente à resilição unilateral do contrato de plano de saúde coletivo por adesão" (AgInt no REsp 1910108/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 6/4/2021).
+Diante do exposto, nego provimento ao recurso especial.
+Intimem-se.
