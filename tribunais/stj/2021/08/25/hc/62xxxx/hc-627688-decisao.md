@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCAS BONACHELA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação n. 1500711-39.2019.8.26.0559.
+Consta dos autos que o Paciente foi condenado como incurso no art. 33 da Lei n.11.343/2006 às penas de 5 (cinco) anos de reclusão, em regime inicial fechado, e 500 (quinhentos) dias-multa, em razão da apreensão de 206,610g de maconha, 8,130g de cocaína, 37,650g de Ketamina, 707 pontos de LSD, 292 comprimidos de ecstasy, 3 frascos plásticos de lança-perfume e 5 vidros de anestésico para uso veterinário.
+O Tribunal estadual negou provimento ao recurso de apelação interposto pelo Sentenciado, conforme acórdão acostado às fls. 29-34.
+Neste writ, a Parte Impetrante aduz a inidoneidade do fundamento utilizado para negar a causa de diminuição prevista no art. 33, § 4.º, da Lei n. 11.343/2006.
+Requer, liminarmente e no mérito, seja aplicado o redutor do § 4.º do art. 33 da Lei n. 11.343/2006, na fração de 2/3 (dois terços), estabelecendo-se o regime inicial aberto para o cumprimento da pena.
+O pedido liminar foi indeferido (fls. 38-40).
+Prestadas as informações, o Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 49-55).
+É o relatório.
+Decido.
+A Corte estadual, ao manter a sentença quanto ao afastamento do benefício previsto no art. 33, § 4.º, da Lei de Drogas, consignou oque segue (fls. 33-34; sem grifos no original):
+"Na terceira fase, correta a não incidência da causa especial de redução prevista no § 4ºdo artigo 33, da Lei Antidrogas.
+Isso porque, trata-se de um favor legal que o legislador destinou ao pequeno traficante, ao neófito, o que não é o caso do presente processo, visto que os Apelantes se mostraram bem avançados na comercialização de variadas substâncias entorpecentes-realizavam a venda até através do aplicativo whatsapp -, sendo surpreendidos na posse de grande quantidade (e variedade) de substâncias entorpecentes que eram revendidas em festas "Rave"realizadas na região. Tanto não eram iniciantes no comércio ilícito que possuíam apetrechos comumente utilizados na manipulação de drogas,como balança de precisão, por exemplo."
+Cumpre salientar que são condições para que o condenado faça jus à diminuição da pena prevista no § 4.º do art. 33 da Lei n.11.343/2006: ser primário, ter bons antecedentes e não se dedicar a atividades criminosas ou integrar organizações criminosas. Esses requisitos precisam ser preenchidos conjuntamente.
+Uma vez constatada pelas instâncias ordinárias a ausência dos requisitos para a aplicação da causa de diminuição de pena prevista no art. 33, § 4.º, da Lei n.11.343/2006, sobretudo ante à conclusão de que oPaciente se dedicava a atividades criminosas, a modificação deste entendimento exigiria aprofundado reexame probatório, o que não é possível na via do habeas corpus.
+A propósito:
+" ..
+2. Afastada a redutora pela Corte a quo, com fundamento em circunstâncias do caso que evidenciam a dedicação do réu à atividade criminosa, apontando que o réu abastecia o ponto de tráfico, a pretendida revisão do julgado implicaria o reexame do material cognitivo produzido nos autos, insuscetível de ser realizada na estreita via do habeas corpus. Precedentes.
+3. Habeas corpus denegado." (HC 469.898/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/12/2018, DJe 01/02/2019, sem grifos no original.)
+" ..
+2. O Tribunal a quo não se manifestou sobre a aplicação da atenuante da confissão, assim, a sua análise, diretamente por esta Corte, acarreta indevida supressão de instância. Além disso, a pena-base foi fixada no mínimo legal, dessa forma, ainda que fosse reconhecida a atenuante, não seria cabível a redução da sanção do paciente, nos termos do enunciado n. 231 da Súmula desta Corte.
+3. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão das circunstâncias apuradas na instrução processual evidenciarem que o paciente se dedicava a atividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, porquanto, demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+ ..
+6. Agravo regimental desprovido." (AgRg no HC 541.251/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020; sem grifos no original.)
+Não acolhida a insurgência, fica prejudicada a alteração do regime inicial de cumprimento da pena.De outra parte, o regime prisional mais gravoso foi fundamentado em razão da quantidade, natureza e variedade das drogas, o que, de acordo com a jurisprudência pacífica desta Corte, se revela idôneo. Confira-se:
+"II - "a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que a valoração negativa da quantidade, natureza e diversidade de entorpecentes constitui fator suficiente para o recrudescimento do regime prisional e para negar a substituição da pena privativa de liberdade por restritivas de direitos" (HC n. 488.755/SP, Quinta Turma Rel. Min. Reynaldo Soares da Fonseca, DJe de 15/03/2019). Agravo regimental desprovido." (AgRg no HC 511.913/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO, DESEMBARGADOR CONVOCADO DO TJ/PE, QUINTA TURMA, julgado em 22/10/2019, DJe 29/10/2019; sem grifos no original.)
+"a quantidade, a natureza e a variedade da droga apreendida constituem fundamento idôneo a justificar tanto a imposição do regime mais severo, quanto o indeferimento da substituição das penas. Precedentes." (AgRg no HC 534.965/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/12/2019, DJe 03/02/2020; sem grifos no original.)
+"IV - Ressalto que, mesmo nas hipóteses de pena-base no mínimo legal, é possível agravar somente o aspecto qualitativo da reprimenda (regime) para se chegar a uma resposta suficiente à reprovação e à prevenção do delito." Agravo regimental desprovido." (AgRg no HC 506.372/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 18/06/2019, DJe 25/06/2019; sem grifos no original.)
+Ante o exposto, DENEGO A ORDEM de habeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO § 4.º DO ART. 33 DA LEI N.11.343/2006. REQUISITOS NÃO PREENCHIDOS. CIRCUNSTÂNCIAS DO CASO CONCRETO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. ORDEM DENEGADA.
