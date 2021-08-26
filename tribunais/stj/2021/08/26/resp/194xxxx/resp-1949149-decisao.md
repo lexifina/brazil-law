@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de recurso recurso especial interposto por BANCO DO BRASIL S/A com amparo na alínea "a" do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro que, nos autos de ação de obrigação de fazer, com pedido de tutela de urgência, limitou em 30% (trinta por cento) o valor dos descontos dos empréstimos consignados firmados pela parte autora, militar das Forças Armadas.
+Eis a ementa do referido julgado (fls. 590, e-STJ):
+CONTRATOS BANCÁRIOS EMPRÉSTIMOS CONSIGNADOS - LIMITAÇÃO DOS DESCONTOS QUE SE MOSTRA ADEQUADA, A VISTA DO ENTENDIMENTO PACIFICADO NESTA CORTE, SOB O VERBETE DA SÚMULA Nº 295, NO SENTIDO DE QUE, A FIM DE EVITAR O SUPERENDIVIDAMENTO, NÃO SE PODE ADMITIR QUE OS DESCONTOS NA CONTA-SALÁRIO (OU EQUIVALENTE) ULTRAPASSEM A TRINTA POR CENTO DOS GANHOS DO TRABALHADOR - PRECEDENTES DO EGRÉGIO SUPERIOR TRIBUNAL DE JUSTIÇA - DESPROVIMENTO DO RECURSO.
+Consoante dispõe o Regimento Interno desta Corte Superior, a competência das Seções e das respectivas Turmas é fixada em função da natureza da relação jurídica litigiosa (artigo 9º, caput, do RISTJ).
+Cristalizada tal situação processual e fática, deve ser deslocada, quanto ao presente recurso especial, a competência de seu processamento e julgamento para as Turmas integrantes da Colenda Primeira Seção do STJ, a teor da orientação firmada nos autos do REsp 1831959/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/10/2019, DJe 18/10/2019; do AgInt no AREsp 1386648/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 18/03/2019, DJe 25/03/2019; e do AgInt no REsp 1596353/RJ, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 25/10/2018, DJe 06/11/2018.
+Ante o exposto, determino a remessa dos autos à Coordenadoria de Autuação de Processos Recursais para que proceda sua redistribuição a uma das Turmas que integram a Primeira Seção, nos termos do art. 9º, § 1º, XI, do RISTJ.
+Publique-se.
+Intimem-se.
