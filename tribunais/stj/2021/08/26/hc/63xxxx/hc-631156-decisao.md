@@ -1,0 +1,28 @@
+DECISÃO
+JULIANA GALDINI FERRAZOLI alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0001678-07.2020.8.17.0000, em que foi mantida sua prisão preventiva.
+Depreende-se dos autos que " a  prisão preventiva  da paciente  foi decretada em 18.06.2019, nos autos do Processo Penal nº 181-02.2019.8.17.1290, referente ao Inquérito Policial nº 0032/2019, que investiga a prática do delito tipificado nos arts. 33 e 35, ambos da Lei nº 11.343/2006" (fl. 383).
+Neste writ, assere a defesa "carecer de fundamentação idônea o decreto constritivo, fazendo jus à prisão domiciliar, por ser genitora de criança menor de 12 anos de idade. Sustenta, ainda, ser devida a revogação da custódia, dada a ausência de revisão da medida a cada 90 dias, nos termos do disposto no artigo 316 do Código de Processo Penal" (fls. 397-398).
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pelo não conhecimento do habeas corpus.
+Decido.
+I. Análise do periculum libertatis
+Ao manter a segregação cautelar da paciente, apontou o Magistrado singular que "os crimes em apuração, supostamente praticados pela investigada (tráfico de drogas e associação para o tráfico), estavam sendo possivelmente praticados na residência da mesma, onde mora com seu filho" (fl. 53, grifei).
+No mesmo sentido, destacou a Corte de origem que "há duas situações que impedem o benefício almejado: a) a paciente é acusada de integrar associação para o tráfico, conduta ilícita que pressupõe permanência e estabilidade delitivas e b) ter o magistrado singular manejado fundamentação válida ao destacar que a paciente se utilizava da própria residência familiar para praticar as referidas atividades criminosas" (fl. 63, sublinhei).
+Ainda segundo o Tribunal local, " c onsta dos autos que a suposta associação movimentava grandes quantidades de entorpecentes. Em uma das ocasiões, um dos envolvidos foi flagrado na posse de 8,7 quilogramas da substância popularmente conhecida como maconha, denotando periculosidade concreta e amplo alcance" (fl. 64, destaquei).
+Portanto, dada a suspeita de utilização a residência da própria paciente para a prática delitiva em questão, " a  situação nos autos evidencia a excepcionalidade apta a revelar a inadequação da prisão domiciliar, a expor diretamente as crianças a evento danoso ao seu desenvolvimento, o que justifica o indeferimento da prisão domiciliar. Precedentes" (HC n. 662.247/DF, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 7/6/2021).
+A esse respeito:
+ ..
+4. A novel legislação teve reflexos no Código de Processo Penal e imprimiu nova redação ao inciso IV do seu art. 318, além de acrescer-lhe os incisos V e VI. Tais mudanças encontram suporte no próprio fundamento que subjaz à Lei n. 13.257/2016, notadamente a garantia do desenvolvimento infantil integral, com o "fortalecimento da família no exercício de sua função de cuidado e educação de seus filhos na primeira infância" (art. 14, § 1º).
+5. A prisão domiciliar foi indeferida ao argumento de que o tráfico era praticado na residência da acusada colocando em risco as próprias crianças. Hipótese excepcional que justifica a não concessão do benefício.
+6. Ordem denegada (HC n. 474.539/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/3/2019, grifei).
+Além disso, é imperioso ressaltar que " a  jurisprudência do col. Pretório Excelso, também enquadra no conceito de garantia da ordem pública a necessidade de se interromper ou diminuir a atuação de integrantes de organização criminosa, no intuito de impedir a reiteração delitiva. Precedentes do STF e do STJ" (HC n. 544.736/PR, Rel. Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), 5ª T., DJe 28/2/2020, grifei).
+Nesse sentido:
+ ..
+3. A orientação jurisprudencial do STF é no sentido de que a necessidade de interromper a atuação de organização criminosa justifica a decretação da prisão cautelar. Precedentes  ..  (HC n. 175.153 AgR, Rel. Ministro Roberto Barroso, 1ª T., DJe-262 Public. 2/12/2019).
+ ..
+1. A decretação da custódia preventiva para garantia da ordem pública que tem como fundamento a gravidade concreta da conduta, evidenciada pela necessidade de se evitar a reiteração delitiva, bem como de se interromper atividades de organização criminosa, encontra amparo na jurisprudência desta Corte. Precedentes: HC 145.562-AgR, Primeira Turma, rel. min. Roberto Barroso, DJe de 21/5/2018; HC 146.293-AgR, Segunda Turma, rel. min. Ricardo Lewandowski, DJe de 6/8/2018; e HC 150.034-AgR, Segunda Turma, rel. min. Gilmar Mendes, DJe de 14/12/2018  ..  (HC n. 169.115 AgR, Rel. Ministro Luiz Fux, 1ª T., DJe-169 Public. 5/8/2019).
+II. Parágrafo único do Artigo 316 do CPP
+Por fim, no que tange à revisão periódica da necessidade de manutenção da segregação cautelar, asseverou a Corte de origem que, " r elativamente ao prazo assinalado no art. 316, parágrafo único, verifica-se que a prisão preventiva foi decretada em 18.06.2019, tendo sido revista pelo Juízo singular em 24.07.2019 e 11.02.2020, quando foi rejeitado o pedido de prisão domiciliar para a ora paciente" (fl. 67, grifei).
+Além das revisões mencionadas no acórdão impugnado, é imperioso consignar também que " a  inobservância do prazo de reexame da custódia cautelar, conforme previsão do art. 316, parágrafo único, do Código de Processo Penal, não conduz, automaticamente, à ilegalidade da prisão" (RHC n. 133.503/RR, Rel. Ministro Rogerio Schietti, 6ª T.DJe 1º/2/2021).
+III. Dispositivo
+À vista do exposto, nos termos do art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
