@@ -1,0 +1,12 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos pelo Estado do Mato Grosso do Sul, contra decisão singular por mim proferida cuja ementa assim estabelece,in verbis:
+PROCESSO CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL.ENUNCIADO ADMINISTRATIVO N. 3/STJ. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. LITIGÂNCIA DE MÁ-FÉ.QUESTIONAMENTO DOS PRESSUPOSTOS FÁTICOS E JURÍDICOS.FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA SE CONHECER PARCIALMENTE O RECURSO ESPECIAL E NESSA EXTENSÃO NEGO-LHE PROVIMENTO.
+Nas razões dos aclaratórios, o recorrente aduz haver nulidade na decisão singular, na medida em queapontou no apelo especial relevantes precedentes em favor da tese do Estado, não tendo esse Superior Tribunal de Justiça enfrentado os argumentos suscitados no recurso especial.Dessa forma, defende o recorrente não ter havido a observância do aludido no art. 489, § 1º, VI, do CPC.Com efeito, no intuito de esclarecer a omissão suscitada nestes declaratórios, o recorrente requer seja expressamente analisado o caso à luz dos precedentes invocados em sua resposta.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório. Passo a decidir.
+Necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, o julgador não está vinculado a examinar a todas as questões suscitadas pelas partes, quando já tenha encontrado razões suficientes para se proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida EDcl no MS 21.315/DF, Rel. Ministra Diva Malerbi (Desembargadora Convocada TRF 3ª Região), Primeira Seção, julgado em 08/06/2016, DJe 15/06/2016);(EDcl no AgRg nos EREsp 1483155/BA, Rel. Ministro Og Fernandes, Corte Especial, julgado em 15/06/2016, DJe 03/08/2016)
+No caso, o apelo especial não fora conhecido no mérito, pois não houve a impugnação dos fundamentos autônomos suficientes para manter a higidez do acórdão recorrido, nos termos da Súmula 283/STF.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
