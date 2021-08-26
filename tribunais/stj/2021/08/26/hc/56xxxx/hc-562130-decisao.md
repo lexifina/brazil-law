@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em causa própria e de próprio punho por RAFAEL SANTELLO MAZUCHELLI contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no julgamento da Apelação n. 0000415-03.2018.8.26.0341.
+Consta nos autos que o Paciente foi condenado, pelo Juízo de primeiro grau, como incurso no art. 158, §§ 1.º e 3.º, c.c. o art. 29, ambos do Código Penal, às penas de 14 (quatorze) anos, 5 (cinco) meses e 7 (sete) dias de reclusão, em regime inicial fechado, e pagamento de 243 (duzentos e quarente e três) dias-multa, pois, junto com os Corréus:
+"agindo em concurso, previamente ajustados, com o intuito de obter, para si ou para outrem, indevida vantagem econômica, após restringirem a liberdade de  .. , constrangeram a vítima, mediante violência e grave ameaça, com o uso de arma de fogo, a assinar, juntamente com sua esposa  .. , documentos que garantiriam proveito econômico à  .. , consistentes na entrega de 110 (cento e dez) cabeças de gado, 247 (duzentos e quarenta e sete) sacos de ração, além de, a título de indenização, outras 40 quarenta cabeças de gado, com marcação DLS, e 53 (cinquenta e três) sacos de ração" (fl. 231).
+A sentença manteve a prisão preventiva originalmente decretada (fl. 258).
+Irresignado com o édito condenatório, o Réu interpôs recurso de apelação, que foi provido parcialmente pelo Tribunal de origem apenas para reconhecer a tentativa e "reduzir as penas de VINÍCIUS DE DEUS NESTA a 7 (sete) anos, 10 (dez) meses, 14 (catorze) dias de reclusão e 12 (doze) dias-multa e de RAFAEL SANTELLO MAZUCHELLI a 9 (nove) anos, 7 (sete) meses, 14 (catorze) dias de reclusão e 14 (catorze) dias-multa, mantida, no mais, a sentença" (fl. 260).
+Neste writ, o Impetrante/Paciente alega, inicialmente, que é inocente e que os fatos narrados na denúncia são inexistentes. Ressalta que houve prejudicialidade ao contraditório e à ampla defesa e apresenta, em seguida, a versão dos acontecimentos que entende como verdadeira (fl. 2). Afirma, no ponto, que "a condenação foi realizada em suposição, achismos e arbitrariedades" (fl. 200).
+Sustenta, ademais, que o processo é "torrencialmente carregado de inverdades" (fl. 2) e contradições, além de diversas nulidades, quais sejam: inquérito policial inverídico; denúncia ilegal, com tipificação equivocada; suspeição do Promotor de Justiça; "rol de testemunhas manipulado" (fl. 206) e falsas vítimas; avaliação do bem jurídico patrimonial sobrefaturado; ausência do núcleo do tipo exigido para a caracterização do crime de extorsão e de dolo e não reconhecimento da legítima defesa de terceiro.
+Aduz, ainda, que faz jus ao direito de recorrer em liberdade, devendo a sua segregação preventiva ser revogada, em razão da ausência dos requisitos dispostos no art. 312 do Código de Processo Penal, destacando que suas condições pessoais são completamente favoráveis. Salienta que, ao caso, são suficientes as medidas cautelares diversas da prisão (fl. 203).
+Quanto à dosimetria da pena, defende o afastamento da aplicação do disposto no § 3.º do art. 158 do Código de Processo Penal, pois não houve, na realidade, a restrição da liberdade das vítimas, bem como requer a incidência da redutora referente à tentativa em seu grau máximo, qual seja, 2/3 (dois terços).
+Por fim, almeja a alteração do regime prisional inicial para o semiaberto ou aberto (fl. 209).
+Requer, do que se subentende, liminarmente e no mérito, o reconhecimento das nulidades apontadas e a revogação da sua prisão preventiva (fls. 205-209).
+O pedido liminar foi indeferidoàs fls. 326-329.
+As informações foram prestadas às fls. 336-338 e 341-387.
+O Ministério Público Federal manifestou-se pelo não conhecimento do habeas corpus ou, caso conhecido, pela denegação da ordem (fls. 389-398).
+É o relatório.
+Decido.
+O mandamus não comporta conhecimento.
+Inicialmente,consigno que a análise das teses de que os fatos narrados na denúncia são inexistentes e de que o Paciente seria inocenteimplicaria afastar o substrato fático em que se ampara a acusação, o que, como é sabido, não é possível na estreita e célere via do habeas corpus.
+Nesse sentido," o  juízo de mérito sobre a materialidade e a autoria delitivas demandaria o exame das provas eventualmente colhidas ao longo da instrução criminal, o que é inviável na via estreita da ação constitucional, dada a necessidade de dilação probatória  .. ."(AgRg nos EDcl no RHC 91.276/BA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2020; sem grifos no original).
+Quanto às nulidades suscitadas e o pleito de revogação da constrição preventiva, observo que essas matérias não foram abordadas pelo Tribunal a quo no acórdão que julgou o recurso de apelação defensivo, o que impede a análise originária das referidas questões por esta Corte Superior de Justiça, sob pena de indevida supressão de instância.
+Com igual conclusão:
+" ..
+1. As alegações de atipicidade da conduta, competência do juizado especial criminal, ausência de intimação pessoal para realização de audiência de conciliação, ação em legítima defesa, no estrito cumprimento de dever legal e exercício regular de direito, e nulidade de decisão de indeferimento de produção de provas não foram debatidas no Tribunal de origem nem mesmo objeto dos embargos de declaração às alegações opostas, o que impede o exame de tais teses por esta Corte Superior, sob pena de indevida supressão de instância. Precedentes.
+ ..
+7. Agravo regimental improvido." (AgRg no RHC 141.756/RO, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/06/2021, DJe 21/06/2021.)
+" ..
+1. A alegação de ilegalidade da negativa do direito de recorrer em liberdade da sentença penal condenatória não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância.
+ ..
+5. Ordem denegada, com recomendação."(HC 499.713/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/05/2019, DJe 18/06/2019.)
+Ademais, convém ressaltar queo mérito da prisão cautelardo Paciente mantida na sentença condenatóriajá foi apreciado pela Sexta Turmadesta Corte, no HC n.507.519/SP, de minha relatoria (julgado em 05/03/2020, DJe 16/03/2020), tendo a ordem sido denegada.
+Do mesmo modo, os pleitos deafastamento da aplicação do disposto no § 3.º do art. 158 do Código de Processo Penal (restrição da liberdade da vítima),de incidência da redutora referente à tentativa em seu grau máximo e de abrandamento do regime prisional igualmente já foram por mim analisados no HC n. 564.168/SP (julgado em 06/08/2021, DJe de 06/08/2021), os quais tiveram seu mérito indeferido.
+A propósito,"é pacífico o entendimento firmado nesta Corte de que não se conhece de habeas corpus cuja questão já tenha sido objeto de análise em oportunidade diversa, tratando-se de mera reiteração de pedido  .. " (AgRg no HC 584.120/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020).
+Ante o exposto, NÃO CONHEÇO dohabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS.PENAL E PROCESSUAL PENAL. EXTORSÃO QUALIFICADA. NEGATIVA DE AUTORIA DE MATERIALIDADE DELITIVA. INADEQUAÇÃO DA VIA ELEITA. NULIDADES SUSCITADAS. DIREITO DE RECORRER EM LIBERDADE. QUESTÕES NÃO APRECIADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. INSURGÊNCIA QUANTO À DOSIMETRIA DA PENA E AO REGIME PRISIONAL FIXADO. MATÉRIAS JÁ ANALISADAS NO JULGAMENTO DE MÉRITO DO HC N. 564.168/SP. REITERAÇÃO DE PEDIDO. HABEAS CORPUS NÃO CONHECIDO.
