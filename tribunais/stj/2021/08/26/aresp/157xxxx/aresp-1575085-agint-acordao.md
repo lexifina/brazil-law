@@ -1,0 +1,49 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSÊNCIA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. OFENSA AO ART 514 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ.RAZÕES QUE SE MANTÉM.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por RODRIGO CUNHA BOAVENTURA, em face de decisão que conheceu o agravo para não conhecer o recurso especial, assim ementado:
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSÊNCIA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. OFENSA AO ART 514 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ. DISSÍDIO JURISPRUDENCIAL. APLICAÇÃO DO ENTENDIMENTO DO STJ. AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER O RECURSO ESPECIAL. (e-STJ, fl. 411)
+O agravante preconiza que impugnou especificamente os fundamentos lançados na decisão objurgada, em observância ao princípio da dialeticidade recursal, por isso, era possível o exame do mérito da demanda.
+Defende quea mera repetição de argumentos da contestação não é motivo suficiente para justificar a inadmissibilidade da apelação, inviabilizando aaplicação da Súmula 83/STJ.
+Sustentaomissão do Tribunal Estadual quanto à apreciação de matérias de ordem pública, as quais podem, inclusive, ser reconhecidas de ofício pelo Julgador, não estando sujeitas à preclusão, e merecem ser examinadas independentemente do não conhecimento do mérito do recurso de apelação por suposta reprodução dos termos da contestação. Aduz, por fim, a omissãosobre a composição da Turma no julgamento da apelação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). VIOLAÇÃO AO ARTIGO 1.022, DO CPC/15. OMISSÃO. AUSÊNCIA. OFENSA AO PRINCÍPIO DA DIALETICIDADE. OFENSA AO ART 514 DO CPC. NÃO OCORRÊNCIA. ACÓRDÃO EM CONSONÂNCIA COM JURISPRUDÊNCIA DO STJ.RAZÕES QUE SE MANTÉM.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Em que pese o arrazoado, entendo que a ausência de qualquer novo subsídio trazido peloagravante, capaz de alterar os fundamentos da decisão ora agravada, faz subsistir incólume o entendimento nela firmado.
+Primeiramente, no que concerne à alegação de omissão, oagravantesustentaque houve negativa de prestação jurisdicional, por não ter o Tribunal de origem examinado a presença de matérias de ordem pública, bem como houve omissão quanto à composição da Turma no julgamento da apelação.
+Contudo, sabe-se que o acórdão hostilizado solucionou a questão de maneira clara e coerente, apresentando todas as razões que firmaram o seu convencimento, ainda que de modo contrário ao interesse doagravante.
+Cabe, neste ponto, reforçar os argumentos utilizados pelo Tribunal de origem:
+Ademais, em consulta ao Sistema PJE consta a intimação do embargante à respeito do acordão em 13/02/2019, onde estão todas as informação, isto é, a composição a Turma Julgadora, bem como, a conclusão do julgamento, na sessão realizada em 05/02/2019. Dessa forma, despropositada a alegação de omissão no acórdão. No que tange a alegação de que o julgador partiu de premissa equivocada ao não conhecer o recurso de apelação referente a lide secundária, isto é, a reconvenção, tão somente em razão do ora embargante ter reproduzido a contestação e que o STJ já consolidou entendimento de que a reiteração dos argumentos não impede o conhecimento do recurso, além do que há matérias passíveis de conhecimento de ofício pelo julgado. Neste ponto, oportuna a transcrição do voto: No que diz respeito à irresignação do apelante quanto ao decidido na reconvenção, não merece conhecimento o recurso. Isto porque o apelante reproduziu integralmente a contestação, sem atacar e momento algum os fundamentos da sentença. O apelante sequer menciona os termos da sentença em suas razões recursais, não teceu um comentário à respeito do decido pelo MM. Juiz sobre a reconvenção. (e-STJ, fl. 294 - grifou-se)
+Dessa forma, consoante os trechos acima transcritos, verifica-se que o Tribunal de origem não foi omisso nas proposições trazidas peloagravante, tendo alegado que houve efetiva informação sobre a composição da Turma Julgadora, pois houve intimação do agravante. Além disso, as matérias de ordem pública sequer chegaram a ser conhecidas, em virtude da ausência de dialeticidade dos fundamentos contidos na sentença.
+A Corte de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes, mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese.
+Ademais, esta Corte possui entendimento assente no sentido de que não obstante a legislação processual exija que a apelação contenha "os fundamentos de fato e de direito", a parte não fica impedida de reiterar os fundamentos expendidos na inicial ou em outras peças processuais se estas forem suficientes para demonstrar os motivos da irresignação do insurgente, bem como do possível desacerto da decisão que se pretende desconstituir/modificar.
+Nesse sentido:
+PROCESSUAL CIVIL. APELAÇÃO. REGULARIDADE FORMAL. ARTIGO 514, II, DO CPC. FUNDAMENTOS DE FATO E DE DIREITO. REPRODUÇÃO DAS RAZÕES DA INICIAL OU DA CONTESTAÇÃO QUE, POR SI SÓ, CONTRADITAM OS FUNDAMENTOS EXARADOS NA SENTENÇA. ACÓRDÃO REGIONAL QUE NÃO CONHECEU DO RECURSO.EXCESSIVO RIGOR FORMAL.
+1. A petição do recurso de apelação deve conter, entre outros requisitos, a exposição dos fundamentos de fato e de direito que, supostamente, demonstrem a injustiça (error in iudicandum) e/ou a invalidade (error in procedendo) da sentença impugnada, à luz do disposto no artigo 514, II, do CPC.
+2. A regularidade formal é requisito extrínseco de admissibilidade da apelação, impondo ao recorrente, em suas razões, que decline os fundamentos de fato e de direito pelos quais impugna a sentença recorrida.
+3. O excessivo rigor formal conducente ao não conhecimento do recurso de apelação, no bojo do qual se encontram infirmados os fundamentos exarados na sentença, não obstante a repetição dos argumentos deduzidos na inicial ou na contestação deve ser conjurado, uma vez configurado o interesse do apelante na reforma da decisão singular (Precedentes do STJ: AgRg no REsp 989.631/SP, Rel. Ministra Denise Arruda, Primeira Turma, julgado em 19.02.2009, DJe 26.03.2009; REsp 707.776/MS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 06.11.2008, Dje 01.12.2008; REsp 1.030.951/PR, Rel. Ministra Eliana Calmon, Segunda Turma, julgado em 14.10.2008, DJe 04.11.2008; AgRg no Ag 990.643/RS, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 06.05.2008, Dje 23.05.2008; e REsp 998.847/RS, Rel. Ministro Aldir Passarinho Júnior, Quarta Turma, julgado em 18.03.2008, DJe 12.05.2008).
+(..)
+5. Recurso especial provido para determinar o retorno dos autos à instância de origem a fim de que se proceda à apreciação do recurso de apelação interposto pela ora recorrente.
+(REsp 976.287/MG, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 08/09/2009, DJe 08/10/2009 - grifou-se)
+No entanto, na hipótese ora em foco, o Tribunal de origem ponderou que:
+Isto porque o apelante reproduziu integralmente a contestação, sem atacar e momento algum os fundamentos da sentença. O apelante sequermenciona os termos da sentença em suas razões recursais, não teceu um comentário à respeito do decidido pelo M. M. Juiz sobre reconvenção. Não houve qualquer rebate aos fundamentos da sentença, apenas a mera reprodução da contestação à reconvenção, de modo que, neste ponto, o recurso não comporta conhecimento. (e-STJ, fls. 227/228 - grifou-se)
+Assim, pela simples leitura da decisão acima transcrita, verifica-se que a incorreção técnica do recurso não permite que se possa compreender a irresignação manifestada, pois os fundamentos da insurgência, de nenhuma forma, dialogam com os fundamentos da sentença, o que impede também o conhecimento da matéria de ofício.
+Desta forma, em atenção ao princípio da dialeticidade, não basta à agravante o desenvolvimento de arrazoado genérico em sentido contrário à decisão que se pretende ver reformada.
+Ressalte-se que o STJ tem entendimento firmado no sentido de que o princípio da dialeticidade recursal deve ser compreendido como o ônus atribuído ao agravante de evidenciar os motivos de fato e de direito para a reforma da decisão recorrida.
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 514, II, DO CPC. NÃO-OCORRÊNCIA. ATIVIDADE BÁSICA DA EMPRESA DESCRITA NO ACÓRDÃO RECORRIDO. SÚMULA 7/STJ. NÃO INCIDÊNCIA. DESERÇÃO NÃO CONFIGURADA. EMPRESA DE FACTORING. REGISTRO NO CONSELHO REGIONAL DE ADMINISTRAÇÃO
+1. O princípio da dialeticidade recursal deve ser compreendido como o ônus atribuído ao recorrente de evidenciar os motivos de fato e de direito para a reforma da decisão recorrida, segundo interpretação conferida ao art. 514, II, do CPC.
+ ..
+5. Agravo regimental não provido.
+(AgRg nos EDcl no REsp 1236002/ES, Rel. Ministro Castro Meira, Segunda Turma, julgado em 19/04/2012, DJe 04/05/2012 - grifou-se)
+Outrossim, vislumbra-se que, elidir as conclusões do aresto impugnado, demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula 7/STJ.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
