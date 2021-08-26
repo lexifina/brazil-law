@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo internointerposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (ausência de omissão e/ou negativa de prestação jurisdicional; incidência das Súmulas nºs 7 do STJ e 284 do STF).
+3. Agravo interno não provido.
+RELATÓRIO
+PRO-TÉCNICA PAULISTA LTDA. (PRO-TÉCNICA) ajuizou ação de cobrança contra DYEISON RODRIGUES ALVES (DYEISON), alegando o inadimplemento das mensalidades referentes aos meses de abril a junho de 2015.
+Em primeira instância, o pedido foi julgado procedente para condenar DYEISON ao pagamento de R$ 3.423,34, corrigido monetariamente, segundo os índices divulgados pelo Tribunal de Justiça do Estado de São Paulo, acrescido de juros moratórios de 1,0% ao mês, a partir da citação, até a data do efetivo pagamento, além de julgar improcedente a reconvenção.
+A apelação interposta por DYEISON não foi provida pelo Tribunal de Justiça de São Paulo (TJSP) nos termos do acórdão de relatoria do Des. FLÁVIO CUNHA DA SILVA, assim ementado:
+APELAÇÃO. Ação de cobrança. Instituição de ensino. Mensalidades inadimplidas. Declaração de quitação de débito disponibilizada pela credora por equívoco, do qual o devedor comprovadamente tinha ciência. Pagamento das parcelas questionadas não demonstrado. Dívida existente. Reconvenção julgada improcedente. Sentença mantida e confirmada, por seus próprios fundamentos, nos termos do art. 252 do RITJSP. Recurso desprovido(e-STJ, fl. 150).
+Os embargos de declaração interpostos foram rejeitados (e-STJ, fls. 248/252).
+Irresignado, DYEISON manifestou recurso especial com fulcro no art. 105, III,a, da CF, alegando a violação dos arts. 319, 320, 373, 408, 412, 489, 1.013 e 1.022, todos do NCPC; 1º, 2º, 3º e 4º, todos da Lei nº 12.007/2009e 4º, 6º, 14, 39, 42, 47 e 48, todos do CDC, ao sustentar que(1)o TJSP não teria se pronunciado sobre a alegação de que o ônus de provar que existiu erro no sistema no ato da emissão do comprovante de quitação realmente aconteceu; e(2)se o Recorrente tem a declaração de quitação anual de débitos em suas mãos, emitida pela própria Recorrida, não precisa ter qualquer outro recibo que comprove o pagamento (e-STJ, fls. 175/198).
+O apelo nobre não foi admitido pelo TJSP, por (i) ausência de omissão no acórdão recorrido; e (ii) incidência das Súmulas nºs 7 do STJ e 284 do STF (e-STJ, fls. 280/281).
+Nas razões do agravo em recurso especial, DYEISON afirmou que(1)ao negar provimento a Apelação e, não tendo sido acolhidos os embargos de declaração, acabou-se por infringir os artigos 1.022, Inciso II e 489, § 1º, Inciso IV do Código de Processo Civil;(2)conforme se observa dos autos o Agravante possui uma Declaração de Quitação Anual em mãos, emitida pela própria Agravada, da qual, acreditamos ser prova de grande valoração e embasada nos ditames da Lei nº 12.007/2009; e(3)houve afronta aos dispositivos constantes nos artigos 373, Inciso I e 1.013 e Incisos, do Código de Processo Civil, além de contrariedade aos ditames da Lei nº 12.007/2009(e-STJ, fls. 286/297).
+A contraminuta foi apresentada (e-STJ, fls. 320/326).
+Em decisão monocrática de minha lavra, não foi conhecido o aludido reclamo porque não foram impugnados os fundamentos da decisão denegatória de seguimento ao apelo nobre, nos termos da seguinte ementa:
+PROCESSUAL CIVIL.AGRAVO EM RECURSO ESPECIAL MANEJADO SOB A ÉGIDE DO NCPC.RECURSO QUE NÃO INFIRMA TODOS OS FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE NA ORIGEM. INCIDÊNCIA DO ART. 932, III, DO NCPC.AGRAVO NÃO CONHECIDO (e-STJ, fl. 332).
+Neste agravo interno,DYEISON reiterou seu apelo nobre esustentou que infirmou devidamente os fundamentos da decisão de inadmissibilidade, cumprindo, dessa forma, todos os requisitos para o provimento de seu recurso, especialmente porque
+ .. atendeu aos requisitos de admissibilidade recursais. Tendo demonstrado a invalidade de todos os fundamentos da decisão agravada.
+Observa-se pelo teor do Recurso de Agravo em Recurso Especial que o Agravante colacionou todo o trecho da decisão que entendeu por inadmitir o Recurso Especial, e abaixo desenvolveu tópico por tópico todos os fundamentos contra cada fundamento da decisão demonstrando o porquê não deveriam prosperar.
+Excelências, de modo algum houve impugnação genérica e sim a impugnação especifica contra todos os fundamentos contidos na decisão agravada, conforme se pode observar pelo próprio teor do recurso.
+Indicou também os pontos omissos e como tais pontos vão na contramão do direito do Agravante.
+O Agravante indicou todas as normas violadas e demonstrou, expressamente, como a violação de tais normas impactam no deslinde do presente feito.
+Ademais, não se pode admitir que houvesse deficiência na fundamentação do recurso ao ponto de não ser possível a exata compreensão da controvérsia, conforme constou na decisão retro apontando a Súmula nº284 do STF, isto porque, o Recurso foi interposto contra a decisão que inadmitiu o Recurso Especial, bem como, houve o direcionamento especifico contra todos os seus fundamentos.
+Ocorre todavia, que , a referencia á Súmula 7, do Superior Tribunal de Justiça, tem como intuito a demonstração da decisão que ocorreu com supedâneo nas provas e circunstâncias fáticas próprias do processo em questão, não sendo, portando, fundamento das violações descritas, conforme se verifica do trecho contido no Acórdão do Recurso Especial, in verbis:
+(..) "Além disso, ao decidir da forma impugnada, a Turma Julgadora o fez diante das provas e circunstâncias fáticas próprias do processo sub judice, certo que as razões do recurso ativeram-se a uma perspectiva de reexame desses elementos. Mas isso é vedado pelo enunciado na Súmula 7 do Superior Tribunal de Justiça." (..)
+Como se vê, pelo teor do Acórdão, a Agravante atentou-se para os ditames contidos nos artigos 21-E, Inciso V e 253, parágrafo único, Inciso I, do Regimento Interno do Superior Tribunal de Justiça, impugnando, especificamente, todos os fundamentos da decisão recorrida(e-STJ, fls. 338/349).
+Pleiteou, ao final, que a decisão atacada fosse reconsiderada.
+A impugnação foi apresentada (e-STJ, fls. 352/360).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Agravo internointerposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC, não impugna os fundamentos da respectiva inadmissibilidade (ausência de omissão e/ou negativa de prestação jurisdicional; incidência das Súmulas nºs 7 do STJ e 284 do STF).
+3. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo internofoi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No caso, o apelo nobre não foi admitido peloTJSPpor (i) ausência de omissão no acórdão recorrido; e (ii) incidência das Súmulas nºs 7 do STJ e 284 do STF (e-STJ, fls. 280/281).
+No mais, em que pese o reforço de argumentação apresentado nas razões do agravo interno, daanálise do agravo em recurso especial se verifica que, conforme já consignado na decisão impugnada, o inconformismo não se dirigiu, de forma específica, contra nenhum dos fundamentos da decisão agravada, na medida em que não refutou, de forma arrazoada,o óbice pela ausência de omissão e/ou negativa de prestação jurisdicional; incidência das Súmulas nºs 7 do STJ e 284 do STF; e falta de demonstração do dissídio.
+Em resumo,DYEISON se limitou a afirmar tão somenteque(1)ao negar provimento a Apelação e, não tendo sido acolhidos os embargos de declaração, acabou-se por infringir os artigos 1.022, Inciso II e 489, § 1º, Inciso IV do Código de Processo Civil;(2)conforme se observa dos autos o Agravante possui uma Declaração de Quitação Anual em mãos, emitida pela própria Agravada, da qual, acreditamos ser prova de grande valoração e embasada nos ditames da Lei nº 12.007/2009; e(3)houve afronta aos dispositivos constantes nos artigos 373, Inciso I e 1.013 e Incisos, do Código de Processo Civil, além de contrariedade aos ditames da Lei nº 12.007/2009(e-STJ, fls. 286/297), não apresentando argumentos aptospara infirmar especificamente os suprarreferidos óbices.
+Na espécie, DYEISON deveria ter indicado quais os pontos omissos e sua imprescindibilidade para o deslinde do feito, de modo a afastar a ausência de omissão no acórdão recorrido, o que não foi feito.
+Além do mais, DYEISON, além de indicar as normas tidas por violadas,deveria ter explicitado os motivos pelos quais o Tribunal bandeirante teria violado tais dispositivos de lei, de modo a afastar a deficiência de fundamentação do recurso especial (Súmula nº 284 do STF), o que não ocorreu.
+Por derradeiro, na hipótese em que se pretende impugnar, no agravo em recurso especial, a incidência da Súmula nº 7 do STJ,deve o agravante não apenas mencionar que o referido enunciado deve ser afastado, mas também demonstrar que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias, não sendo suficiente apenas a assertiva de que não se pretende o reexame de fatos e provas, o que também não foi feito.
+Cabe, aqui, ressaltar que o agravante deve impugnar, nas razões de seu agravo em recurso especial, todas os fundamentos da decisão que inadmitiu o seu apelo nobre, não cabendo, de modo extemporâneo, infirmar aqueles argumentos tão somente no manejo do agravo interno, em virtude da ocorrência da preclusão consumativa.
+Em resumo, nas razões do agravo em recurso especial, DYEISONse limitou a renegar genericamente os motivos apresentados pelo julgado impugnado, sem, no entanto, evidenciar a inadequação da fundamentação adotada.
+Assim, não tendo o recurso impugnado especificamente todos os fundamentos da decisão recorrida, foi o caso de incidir o art. 932, III, do NCPC.
+Vejam-se, a propósito, os seguintes julgados:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL. INCIDENTE DE FALSIDADE. RECURSO CABÍVEL. APELAÇÃO. SÚMULA 83/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1.  ..
+2. Se a parte agravante não apresenta argumentos hábeis a infirmar os fundamentos da decisão regimentalmente agravada, deve ela ser mantida por seus próprios fundamentos.
+3. Agravo regimental a que se nega provimento.
+(AgRg no AREsp nº 856.954/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 20/4/2016-sem destaque no original)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA Nº 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA. SÚMULA Nº 83/STJ.
+1. Não pode ser conhecido o recurso que não infirma especificamente os fundamentos da decisão agravada, atraindo o óbice da Súmula nº 182 do Superior Tribunal de Justiça.
+ ..
+4. Agravo regimental não provido.
+(AgRg no AREsp nº 797.056/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 2/2/2016-sem destaque no original)
+Desse modo, observa-se que o agravo em recurso especial não impugnou adequadamente a barreira anteriormente mencionada, e nada trazido neste agravo interno é capaz de contrariar tal entendimento.
+Conforme já decidiu o STJ:
+ ..  à luz do princípio da dialeticidade, que norteia os recursos,deve a parte recorrente impugnar todos os fundamentossuficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge.
+(AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, Segunda Turma, DJe 26/11/2008-sem destaque no original)
+Com efeito, o agravo em recurso especial não se mostrou viável, uma vez que apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/73), devendo ser mantida a decisão agravada.
+Nesse sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE DO APELO NOBRE PROFERIDA PELA CORTE DE ORIGEM. NÃO CONHECIMENTO DO RECLAMO. AGRAVO INTERNO IMPROVIDO.
+1. Em atenção ao princípio da dialeticidade recursal, as razões do agravo em recurso especial devem infirmar os fundamentos da decisão de inadmissibilidade do apelo nobre, proferida pelo Tribunal de origem, sob pena de não conhecimento do reclamo por esta Corte Superior, nos termos do artigo 932, III, doCPC (artigo 544, § 4º, I, do CPC/1973).
+2. Agravo interno improvido.
+(AgInt no AREsp 878.395/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 22/9/2016-sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. SÚMULA N. 182/STJ. DECISÃO MANTIDA.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. Aplicação do art. 932, III, do CPC/2015 e, por analogia,da Súmula n. 182/STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 881.656/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, DJe 6/9/2016-sem destaque no original)
+Nesse contexto, como DYEISON não demonstrou o equívoco nos fundamentos da decisão agravada, deve ser mantido o não conhecimento do agravo em recurso especial.
+Nessas condições, pelo meu voto,NEGO PROVIMENTOao agravo interno.
