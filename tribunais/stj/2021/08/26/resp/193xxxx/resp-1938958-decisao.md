@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial interposto por LUCAS OLIVEIRA DE ALCÂNTARA eEDSON CESAR COMISSIO, com fundamento no art. 105, III, "a", do permissivo constitucional, contra acórdão proferido pelo Tribunal de Justiça do Estado de Rondônia, que compensou parcialmente a agravante da reincidência com a atenuante da confissão espontânea.
+Sustentam os recorrentes violação do art. 67 do Código Penal. Aduzem ilegalidade no acórdão recorrido ante o não reconhecimento da compensação entre a agravante da reincidência e a atenuante da confissão espontânea.
+Requerem, assim, o provimento do recurso especial, a fim de que seja estabelecida a mencionada compensação.
+Apresentadas contrarrazões (e-STJ, fl. 364-371) e admitido o recurso, subiram os autos a esta Corte.
+O Ministério Público Federal manifestou-se pelo parcial provimento do recurso (e-STJ, fls. 385-388).
+É o relatório.
+Decido.
+O recurso merece parcial provimento.
+O Tribunal a quo assim se manifestou arespeito da matéria questionada no recurso:
+"No caso, verifica-se que a pena-base foi aplicada em 5 anos de reclusão e 12 dias-multa para ambos, sendo que, na segunda fase, o Magistradoaquo compensou parcialmente a reincidência com a confissão, aplicando, a circunstância preponderante em patamar menor, fixando a pena em 5 anos e 3 meses e 15 dies-multa.
+Nota-se que o apelante LUCAS possui várias condenações (fls 147/154), sendo multirreincidente, enquanto EDSON, evidencia-se que ostentaapenas uma condenação pelo crime de roubo (fls. 215/218), ou seja, é reincidente especifico.
+Diante disso, tenho que reputa-se suficiente e adequado o aumentode 03 meses, ou seja, de 1/20 (em vez do equivalente a 1/6 da pena-base), em razão da presença da atenuante da confissão espontânea" (e-STJ, fl. 351).
+O concurso entre circunstâncias agravantes e atenuantes de idêntico valor redunda em afastamento de ambas, ou seja, a pena não deverá ser aumentada ou diminuída na segunda fase da dosimetria. Nesse sentido, a Terceira Seção, em 10/4/2013, no julgamento do Recurso Especial Representativo de Controvérsia 1.341.370/MT, de Relatoria do Ministro Sebastião Reis Júnior, firmou o entendimento de que, observadas as especificidades do caso concreto, "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência", uma vez que são igualmente preponderantes.
+Outrossim,em 11/10/2017, a Terceira Seção, no julgamento do Habeas Corpus 365.963/SP, firmou a jurisprudência no sentido que a especificidade da reincidência não obstaculizasua compensação com a atenuante da confissão espontânea.
+Eis a ementa do referido julgado:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO.
+REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+III - Na espécie, a incidência da atenuante prevista no art. 65, III, "d", do Código Penal, independe se a confissão foi integral ou parcial, especialmente quando utilizada para fundamentar a condenação. Incidência da Súmula n. 545/STJ.
+IV - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência."
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+VI - A fração de aumento decorrente da continuidade delitiva foi fixada em 1/5 (um quinto) com base em elementos concretos e de acordo com a jurisprudência desta Corte sobre o tema, inexistindo flagrante ilegalidade ou desproporcionalidade na majoração da reprimenda.
+VII - Ainda que estabelecida a pena-base no mínimo legal, sendo o paciente reincidente e fixada a pena em 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, o regime inicial fechado é o adequado para o cumprimento da sanção, nos termos do art. 33, § 2º, "b", do Código Penal.
+VIII - A eventual possibilidade de aplicação do § 2º do art. 387 do Código de Processo Penal não foi enfrentada pelo Tribunal de origem, sendo inviável sua análise neste Tribunal Superior, sob pena de indevida supressão de instância.
+Habeas corpus não conhecido.
+Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação.
+(HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017)
+No caso do réu Edson, foi utilizada somente uma condenação transitada em julgado na segunda etapa de individualização da pena para gerar a reincidência. Logo, é devida a compensação integral da atenuante da confissão espontânea com a agravante da reincidência.
+Por outro lado, conforme destacado pelo Tribunal de origem, "o apelante LUCAS possui várias condenações (fls 147/154), sendomultirreincidente" (e-STJ, fls. 351), o que é razão suficiente para manter afastada a compensação pleiteada e o agravamento da reprimenda nos termos sopesados no acórdão impugnado.
+Nesse sentido, confira-se o seguinte julgado:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ROUBO QUALIFICADO. REINCIDÊNCIA. CONFISSÃO ESPONTÂNEA. COMPENSAÇÃO. POSSIBILIDADE. RECURSO REPRESENTATIVO DE CONTROVÉRSIA. RESP. 1.341.370/MT. MULTIRREINCIDÊNCIA OU REINCIDÊNCIA ESPECÍFICA NÃO COMPROVADAS. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em não conhecimento do recurso especial. Este ficou sobrestado na origem aguardando o julgamento do recurso representativo de controvérsia REsp. 1.341.370/MT. Após, retornou ao colegiado de origem, para o cumprimento do disposto no inciso II do § 7º do art. 543-C do CPC. Mantida a decisão divergente pelo Tribunal a quo, foi realizado o juízo de admissibilidade do recurso especial e encaminhados os autos a esta Corte, tudo em conformidade com o art. 543-C, § 8º, do CPC.
+2. À exceção de condenados multirreincidentes ou reincidentes específicos, quando poderá haver uma ponderação diferenciada entre a reincidência e a confissão espontânea, forçosa a incidência da orientação pacífica desta Corte, firmada em recurso representativo de controvérsia, segundo a qual é possível, na segunda fase da dosimetria da pena, a compensação integral da agravante da reincidência com a atenuante da confissão espontânea, por serem igualmente preponderantes, de acordo com o art. 67 do Código Penal (REsp. 1.341.370/MT, Rel. Min. SEBASTIÃO REIS JÚNIOR, DJe 17/4/2013).
+3. Agravo Regimental desprovido." (AgRg no REsp 1.541.308/RO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/02/2016, DJe 29/02/2016).
+Passo, portanto, à nova dosimetria da pena, para o réu Edson César Comissio, no que se refere ao crime de roubo.
+A partir dos parâmetros estabelecidos pela instância de origem, na primeira fase,a pena-base foi fixada em 5 anos de reclusão e 12 dias-multa.
+Na segunda fase, diante da compensação integral da agravante da reincidência com a atenuante da confissão espontânea, a reprimenda deve permanecer inalterada. Na terceira fase, reconhecida a majorante do art. 157, § 2º-A, I, mantenho a fração de 2/3,restando em 8 anos e 4 meses de reclusão e 20 dias-multa.
+Atendendo ao disposto no art. 70 do CP, aumento uma das penas, já que idênticas, em 1/6, fixando a reprimenda em 9 anos, 8 meses e 20 dias de reclusão e 23 dias-multa.
+Ante o exposto, com fundamento no art. 255, § 4º, III, do Regimento Interno do STJ, dou parcial provimento ao recurso especial, para fixar a pena do réu Edson César Comissio pelos crimes de rouboem 9 anos, 8meses e 20 diasde reclusão e 23 dias-multa.
+Fica mantido, no mais, o acórdão recorrido.
+Publique-se. Intimem-se.
