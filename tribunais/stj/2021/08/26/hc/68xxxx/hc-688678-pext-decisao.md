@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de pedido de extensão dos efeitos do habeas corpus concedido em benefício de ANDERSON ARAÚJO SANTOStendo como requerente CAROLINE DE ALMEIDA GARCIA (e-STJ fls. 379/382).
+Segundo consta dos autos, a requerente foi presa cautelarmente juntamente com o pacienteno dia 9/6/2021 e também denunciadapela suposta prática do crime tipificado no art. 288,caput,do Código Penal.
+No presente pedido de extensão, a defesa aponta a identidade de situações fático-processuais entre arequerente e opaciente, pleiteando a revogação da custódia domiciliar, com aplicação de medidas cautelares diversas do cárcere.
+É o relatório. Decido.
+Nos termos do art. 580 do CPP, no caso de concurso de agentes (Código Penal, art. 25), "a decisão do recurso interposto por um dos réus, se fundado em motivos que não sejam de caráter exclusivamente pessoal, aproveitará aos outros".
+Assim, "a extensão do julgado referente a um réu não se opera automaticamente aos demais. Urge reunir dois requisitos: objetivo (identidade fática) e subjetivo (circunstâncias pessoais)" (RHC n. 7.439/SP, Relator Ministro LUIZ VICENTE CERNICCHIARO, Sexta Turma, julgado em 18/8/1998).
+Em outras palavras, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado, a teor do artigo 580 do Código de Processo Penal.
+No caso, pela leitura do decreto, os dois se encontra em situação similar, foram presos por força da mesma decisão e denunciados pelo mesmo delito - art. 288, caput, do CP. Assim, em que pese a requerente ter sido beneficiada com a prisão domiciliar, o fundamento da concessão da ordem em relação ao paciente deve alcançar também a requerente, nos termos do art. 580 do CPP.
+Nesse sentido:
+PEDIDO DE EXTENSÃO NO RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. PLEITO DE REVOGAÇÃO DA PRISÃO CAUTELAR. MEDIDA EXCEPCIONAL. FUNDAMENTAÇÃO INIDÔNEA. GRAVIDADE ABSTRATA. PERICULUM LIBERTATIS NÃO DEMONSTRADO. IDENTIDADE DE SITUAÇÕES CONFIGURADA. PARECER MINISTERIAL FAVORÁVEL. PEDIDO DEFERIDO.
+1. Observada a identidade fático-processual entre as situações de Corréus, e não existindo qualquer circunstância de caráter exclusivamente pessoal que justifique diferenciação, impõe-se, com fundamento no Princípio da Isonomia e do art. 580 do Código de Processo Penal, deferir pedido de extensão de julgado benéfico obtido por um deles.
+2. Em sessão de julgamento realizada em 08/09/2020, a Sexta Turma do Superior Tribunal de Justiça deu provimento ao recurso ordinário em habeas corpus interposto pela corré, para o fim de considerar inidôneos os fundamentos do decreto prisional e, assim, revogar a prisão preventiva da Recorrente.
+3. Hipótese em que a decisão que decretou a prisão preventiva adotou idêntica fundamentação para as corrés.
+4. Pedido deferido para revogar a prisão preventiva da Requerente, se por outro motivo não estiver presa, advertindo-a da necessidade de permanecer no distrito da culpa e atender aos chamamentos judiciais, sem prejuízo de nova decretação de prisão provisória, por fato superveniente, a demonstrar a necessidade da medida, ou da fixação de medidas cautelares alternativas (art. 319 do Código de Processo Penal), desde que de forma fundamentada.
+(PExt no RHC 122.961/SP, Rel. Ministra LAURITA VAZ, Sexta Turma, julgado em 18/5/2021, DJe 1º/6/2021)
+PEDIDO DE EXTENSÃO NO HABEAS CORPUS. REVOGADA A PRISÃO PREVENTIVA DO CORRÉU. AUSÊNCIA DE FUNDAMENTOS CONCRETOS A JUSTIFICAR A MEDIDA EXTREMA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. SIMILITUDE NA SITUAÇÃO FÁTICO-PROCESSUAL. ART. 580 DO CÓDIGO DE PROCESSO PENAL  CPP.PEDIDO DE EXTENSÃO DEFERIDO.
+1. Conforme disposto no art. 580 do Código de Processo Penal  CPP, quando a decisão de recurso interposto por um dos réus, em caso de concurso de agentes, não for fundada em caráter exclusivamente pessoal, deverá ser aproveitada pelos demais.
+2. Considerando a existência similitude fático-processual entre os acusados, aos quais foram presos em flagrante conjuntamente, sendo convertida em preventiva pelos mesmos fundamentos, mostra-se necessária a extensão da ordem concedida ao corréu Patrick, nos termos do art. 580 do Código de Processo Penal  CPP.
+3. Pedido de extensão deferido para revogar a prisão preventiva do requerente, mediante a aplicação de medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal  CPP, a serem definidas pelo Juiz de primeiro grau, nos autos da ação penal que aqui se trata.
+(PExt no HC 644.921/MG, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, julgado em 13/4/2021, DJe 16/4/2021)
+Ante o exposto,defiro o pedido.
+Intimem-se.
