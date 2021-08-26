@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em face de acórdão assim relatado (fls. 196-197):
+Vistos.
+Trata-se de apelação criminal, interposta por Arnaldo Mendes Telles Júnior, contra a r. sentença de fls. 102/107 (publicada em audiência aos 26 de fevereiro de 2019 fl. 107), cujo relatório se adota, que o condenou como incurso nas penas do artigo 33, "caput", da Lei nº 11.343/06, a 5 (cinco) anos de reclusão, em regime inicial fechado, e a 500 (quinhentos) dias-multa, no mínimo legal, indeferido eventual recurso em liberdade.
+Inconformado, apela o réu em busca da absolvição, por insuficiência de provas. Subsidiariamente, postula a desclassificação para o artigo 28 da Lei de Drogas, a redução máxima pela aplicação da causa de diminuição prevista no artigo 33, § 4º, da Lei nº 11.343/06, a atenuação do regime e a substituição da pena privativa de liberdade por restritiva de direitos (fls. 129/140).
+Contra-arrazoado o recurso (fls. 145/148), o parecer da douta Procuradoria de Justiça é pelo improvimento (fls. 159/163).
+É o relatório.
+Consta dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei 11.343/06, à pena de 5 anos de reclusão, em regime inicial fechado, além de 500dias-multa.
+Interposta apelação, o recurso defensivo foi desprovido.
+No presente writ, a impetrante alega que, no caso, a negativa de incidência da minorante do tráfico privilegiado não possui fundamentação idônea, aduzindo que não há indicativo de que o paciente se dedica a atividades criminosas.
+Requer, assim, o reconhecimento da minorante do tráfico privilegiado no patamar máximo de 2/3, com o redimensionamento da pena, a alteração do regime inicial para o aberto e a substituição da pena por restritiva de direitos.
+Prestadas informações, manifestou o Ministério Público Federal "pelo não conhecimento do habeas corpus e, para não perder a oportunidade de falar nos autos, pela inexistência de ilegalidade no acórdão estadual".
+A respeito da dosimetria da pena, o acórdão está assim fundamentado (fl. 201):
+No que concerne à dosimetria da pena, nada a acrescentar, porquanto no primeiro momento foi fixada no mínimo legal, enquanto no segundo e terceiro momentos, à míngua de circunstâncias e causas alteradoras, foi tornada definitiva em 5 (cinco) anos de reclusão.
+E não era mesmo o caso de se aplicar a causa de diminuição de pena prevista no artigo 33, § 4º, da Lei nº 11.343/06, pois a mens legis ao instituir o referido redutor foi beneficiar o criminoso ocasional, que agiu de modo excepcional, não sendo este o caso de Arnaldo, pois as circunstâncias da prisão, a quantidade e variedade de drogas apreendidas e a nefasta natureza de duas delas (cocaína e "crack") indicam que o apelante não agiu de modo isolado, casual, demonstrando, ao contrário, o envolvimento habitual com a atividade criminosa.
+Como se vê,a minorante do tráfico não foi aplicada "pois as circunstâncias da prisão, a quantidade e variedade de drogas apreendidas e a nefasta natureza de duas delas (cocaína e "crack") indicam que o apelante não agiu de modo isolado, casual, demonstrando, ao contrário, o envolvimento habitual com a atividade criminosa".
+Na hipótese, a quantidade de droga apreendida - "34 trouxinhas contendo ao todo 63,9g de maconha, 17 saquinhos plásticos contendo ao todo 13,3g de cocaína e 29 invólucros de plástico rígido, tipo eppendorfs, contendo ao todo 54,46g de cocaína na forma de "crack""- (fl. 124) não se mostra relevante, somada à ausência de circunstâncias adicionais desfavoráveis, como a inserção em grupo criminoso de maior risco social, atuação armada, envolvendo menores ou com instrumentos de refino da droga, entre outras, não ensejam a exasperação da pena-base, a vedação da minorante do tráfico no seu quantum máximo de 2/3, o recrudescimento do regime prisional ou a negativa à substituição das penas.
+Nesse sentido: AgRg no AREsp 1679878/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 04/08/2020, DJe 14/08/2020; AgRg no HC 554.893/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 05/05/2020, DJe 15/05/2020.
+Assim, considerada a primariedade do réu, o quantum de pena aplicado, e a não relevante quantidade de entorpecente, cabível a incidência da minorante do tráfico privilegiado, em seu patamar máximo, a fixação do regime aberto e a substituição da pena privativa de liberdade por penas restritivas de direitos, nos estritos termos dos arts. 33 e 44 do Código Penal.
+Assim, passo à dosimetria da pena.
+Mantenho a pena-base no mínimo legal de 5 anos de reclusão e 500 dias-multa, tornando-a provisória neste patamar. Na terceira fase, aplico a minorante do tráfico privilegiado em 2/3, ficando a pena estabelecida em 1 ano e 8 meses de reclusão, em regime aberto, e 166 dias-multa, substituindo a pena privativa de liberdade por restritiva de direitos.
+Ante o exposto, concedo o habeas corpus para reduzir a pena do paciente para 1 ano e 8 meses de reclusão, mais o pagamento de 166 dias-multa, no regime aberto, convertendo a pena privativa de liberdade em restritiva de direitos a serem fixadas pelo Juízo da execução.
+Comunique-se.
+Publique-se.
+Intimem-se.
