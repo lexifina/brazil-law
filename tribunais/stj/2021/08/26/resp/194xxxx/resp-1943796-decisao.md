@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de recurso especial interposto por Osmar José de Lima,com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios,assim ementado (e-STJ fl. 314):
+PROCESSO CIVIL. CUMPRIMENTO DE SENTENÇA. CÁLCULOS. HOMOLOGAÇÃO. PRECLUSÃO. PAGAMENTO. EXTINÇÃO. MATÉRIA. REPERCUSSÃO GERAL. JULGAMENTO POSTERIOR. COISA JULGADA. DESCONSTITUIÇÃO. IMPOSSIBILIDADE.
+1. Ausente a interposição de recurso em face da decisão que homologou os cálculos apresentados pelo exequente, resta preclusa a oportunidade da discussão acerca da sua correção nos autos do cumprimento de sentença.
+2. Uma vez preclusa a decisão que homologou os cálculos nos autos do cumprimento de sentença, com a consequente extinção em razão do cumprimento da obrigação, o julgamento posterior de matéria submetida à repercussão geral não tem o condão de desconstituir a coisa julgada, sob pena de afronta ao princípio da segurança jurídica.
+3. Recurso conhecido e desprovido.
+Os embargos de declaração foram rejeitados(e-STJ fl. 351).
+O recorrente alega, preliminarmente, violação doartigo1.022, II, do CPC/2015, ao argumento de que a Corte de origem não se manifestou a respeito de pontos importantes ao deslinde da controvérsia .
+No mérito, aponta ofensa aosarts. 924, II, 322, § 1º, 505, I, e 507, do Código de Processo Civil/2015, aos argumentos de que:
+a)"a correção monetária é questão de ordem pública, possuindo natureza estatutária e institucional, e pode ser revista de ofício pelo Poder Judiciário a qualquer tempo, ainda que não seja requerida, bem como, essa matéria é consectário lógico da condenação, e, por isso, considera-se pedido implícito" (e-STJ fl. 373); e
+b)"os erros de cálculo somente podem ser considerados imutáveis se a execução/cumprimento de sentença for extinta pelo pagamento por decisão transitada em julgado" (e-STJ fl. 374).
+Com contrarrazões (e-STJ fls. 400-408).
+Juízo positivo de admissibilidade às STJ fls. 411-412.
+É o relatório. Passo a decidir.
+Ainsurgência não merece prosperar.
+Inicialmente, não se conhece da suposta afronta aoartigo1.022, II, do CPC/2015, pois orecorrente se limitou a afirmar de forma genérica a ofensa aoreferidonormativosem demonstrar qual questão de direito não foi abordada no acórdão proferido em sede de embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem. Incide à hipótese a Súmula 284/STF.
+O Tribunal de origem, ao analisar a controvérsia, assentou que (e-STJ fls. 317-319) :
+A preclusão é a perda de uma faculdade processual, em razão da ausência de manifestação na forma e tempo devidos.
+Nos termos do artigo 507 do Código de Processo Civil, "e vedado à parte discutir no curso do processo as questões já decididas a cujo respeito se operou a preclusão."
+ ..
+No caso dos autos, é incontroverso que os cálculos apresentados pelo próprio apelante foram objeto de homologação judicial, em razão da ausência de impugnação (id 19177748).
+Dessa forma, inviável, neste momento, pela via da apelação, qualquer discussão acerca da correção ou da justiça da decisão judicial que homologou os cálculos, tendo em vista a ocorrência do fenômeno processual da preclusão.
+O fato de, posteriormente a homologação dos cálculos, a matéria ter sido submetida à repercussão geral (Tema n.º 810), afetado ao julgamento pelo paradigma trazido no RE nº. 870.947/SE, onde restou decidido pela aplicação do IPCA-E, em substituição à TR, como o índice de correção monetária que melhor representa a atualização dos valores dos débitos da Fazenda Pública, não tem o condão de desconstituir a coisa julgada, sob pena de afronta ao princípio da segurança jurídica.
+ ..
+Destarte, não se identifica qualquer vício na sentença que, com fundamento em decisão preclusa nos autos, extinguiu a execução em face do cumprimento da obrigação.
+Do que se observa, a partir da leitura dos trechos do acórdão recorrido, supramencionados, a fundamentação nele expendida, não foi especificamente impugnada nas razões do especial, o que caracteriza deficiência na argumentação recursal.
+Com efeito, à míngua da devida impugnação, preservam-se incólumes os fundamentos aplicados no decisum vergastado, que se mostram capazes, por si só, de manter o resultado do julgamento ocorrido na Corte de origem, tornando inadmissível o recurso que não os impugnou. Incide ao caso as Súmulas 283 e 284/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO. CARÁTER INFRINGENTE. POSSIBILIDADE. EXCEPCIONALIDADE. FEPASA. HIPÓTESE EM QUE A CORTE DE ORIGEM, EMBORA TENHA RECONHECIDO A PRESCRIÇÃO DE FUNDO DE DIREITO, ANALISOU MATÉRIA DE MÉRITO E JULGOU IMPROCEDENTE O PEDIDO DOS AUTORES. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF.
+1. Hipótese em que foi dado provimento ao Recurso Especial dos ora embargados para afastar a prescrição do direito de ação e determinar a remessa dos autos à origem, a fim de que se prosseguisse na análise da demanda como de direito.
+2. Ocorre que, conforme narrado pela embargante, o Tribunal de origem, embora tenha reconhecido a prescrição do fundo de direito, apreciou também a matéria de mérito, consignando que, "ainda que não se admita a tese ora desenvolvida, impõe-se a improcedência do pedido, não assistindo melhor sorte aos autores-apelantes no tocante à questão de fundo. Suporta destacar que o cerne da questão posta diz respeito à possibilidade de extensão aos benefícios de aposentadoria ou pensão por morte dos reajustes concedidos aos servidores da ativa. No caso em apreço, busca-se a observância do piso mínimo da categoria profissional e conseqüente complementação das pensões e proventos dos autores. Sem razão, contudo. Cabe ressalvar que o referido piso salarial somente esteve em vigor no período de 1995 a 1996, de modo que é impossível a prorrogação do referido piso até os dias atuais, haja vista que houve o exaurimento do contrato coletivo de trabalho, daí ser improcedente a pretensão dos autores". (fl. 231, e-STJ).
+3. Contudo, esse argumento não foi atacado pela parte recorrente nas razões de seu Recurso Especial; logo, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+ ..
+5. Embargos de Declaração acolhidos com efeito infringente para não conhecer do Recurso Especial dos ora embargados. (EDcl no AgInt no REsp 1.702.816/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 22/5/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ART. 535 DO CPC/73. DISPOSITIVOS IMPLICITAMENTE PREQUESTIONADOS. AUSÊNCIA DE VIOLAÇÃO. SÚMULAS N. 283 E 284 DO STF. RAZÕES DISSOCIADAS. CAUSA DE PEDIR. AUSÊNCIA DE IDENTIDADE. REEXAME DO ACERVO FÁTICO. SÚMULA N. 7/STJ. TUTELA ANTECIPADA. REQUISITOS. VERIFICAÇÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. MEDIDA LIMINAR. RECURSO ESPECIAL. IMPOSSIBILIDADE. APLICAÇÃO POR ANALOGIA DA SÚMULA N. 735/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+ ..
+III - A parte recorrente deixou de impugnar fundamento suficiente do acórdão recorrido relativo à possibilidade do exercício do juízo de retratação. Desse modo, verifica-se que as razões recursais apresentadas encontram-se dissociadas daquilo que restou decidido pelo tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, os óbices das Súmulas 283 e 284, do Supremo Tribunal Federal.
+ ..
+IX - Agravo Interno improvido. (AgInt no REsp 1.678.341/ES, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 8/5/2019)
+Ademais, quanto ao suposto malferimento dos arts. 322, 505 e 927 do CPC/2015, verifica-se que tal tema não foi enfrentado pelo acórdão recorrido. Dessa forma, não é possível conhecer do recurso especial relativamente aos supracitados pontos em razão da ausência de prequestionamento ou porque tratam de matéria constitucional. Incide, no particular, o óbice da Súmula nº 211 do STJ, in verbis: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+A propósito:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO MUNICIPAL. GRATIFICAÇÃO ESPECIAL DE ESPECIALISTA (GEE). OFENSA À COISA JULGADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ACÓRDÃO RECORRIDO. FUNDAMENTO EM LEGISLAÇÃO LOCAL. SÚMULA 280/STF. APRECIAÇÃO INVIÁVEL.
+1. Inicialmente, não se pode conhecer da insurgência contra a ofensa aos arts. 264, 293, 467 e 468 do CPC/1973, pois os referidos dispositivos legais não foram analisados pela instância de origem.
+2. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento.
+3. Assim, perquirir, nesta via estreita, a ofensa às referidas normas, sem que se tenha explicitado a tese jurídica no juízo a quo, é frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+4. Assente nesta Corte o entendimento de que é condição sine qua non para que se conheça do Especial que tenham sido ventiladas, no contexto do acórdão objurgado, as questões indicadas como desatendidas.
+5. Nesse contexto, caberia à parte recorrente, nas razões do apelo especial, indicar ofensa ao art. 535 do CPC/1973, alegando a existência de possível omissão, providência da qual não se desincumbiu. Incide, pois, o óbice da Súmula 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo".
+6. Ainda que fosse superado tal óbice, a irresignação não mereceria prosperar, porquanto, a controvérsia em exame remete à análise de Direito local (artigos 115, XVI, e 129 da Constituição Paulista e Lei Municipal 14.244/2006), revelando-se incabível a via recursal especial para a rediscussão da matéria, ante a incidência da Súmula 280 do STF.
+7. Recurso Especial não conhecido. (REsp 1676230/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 9/10/2017)
+Em igual sentido, confira-se: REsp 1.944.678/DF, Rel. Ministro Mauro Campbell Marques,DJe 5/8/2021.
+Ante o exposto, nãoconheçodo recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO.RECURSO ESPECIAL.VIOLAÇÃO DOARTIGO1.022 DO CPC/2015. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. CÁLCULOS APRESENTADOS PELO PRÓPRIO EXEQUENTE. HOMOLOGAÇÃO. AUSÊNCIA DE IMPUGNAÇÃO. REDISCUSSÃO. ARGUMENTO AUTÔNOMO NÃO IMPUGNADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284/ STF. RECURSONÃOCONHECIDO .
