@@ -1,0 +1,55 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Rever o entendimento do Tribunal de origem, que diante da realidade fática apresentada nos autos concluiu pela ocorrência dos danos morais pleiteados na inicial, demandaria necessário reexame do contexto fático-probatório, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 do STJ.
+1.1.Esta Corte de Justiça entende ser cabível a aplicação doenunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.
+2. Agravo interno desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):Cuida-se de agravo interno, interposto por ECOMAX EMPREENDIMENTOS IMOBILIÁRIOS LTDA, contra decisão monocrática de fls. 402-405, e-STJ, da lavra deste signatário, que negou provimento ao agravo em recurso especial.
+O apelo extremo, fundamentado na alínea "c" do permissivo constitucional, objetiva a reforma do acórdão proferido pelo Tribunal de Justiça do Estado da Paraíba, que restou assim ementado (fl. 291, e-STJ):
+APELAÇÕES CÍVEIS. CONTRATO DE COMPRA E VENDA. RESCISÃO UNILATERAL. PRIMEIRO RECURSO. LUCROS CESSANTES. NÃO CONFIGURAÇÃO.  POSSIBILIDADE DA OCORRÊNCIA DE BIS IN IDEM. DESPROVIMENTO.
+- A reparação de lucros cessantes se refere aos danos materiais efetivos sofridos por alguém, em função de culpa, omissão, negligência, dolo, imperícia de outrem, sendo necessária para a caracterização do pleito, a sua efetiva comprovação.
+SEGUNDO RECURSO. DISTRATO PELA EMPRESA. VENDA EM DUPLICIDADE DE LOTE EM CONDOMÍNIO HORIZONTAL. MULTA CONTRATUAL. PREVISÃO PARA AMBAS AS PARTES. NECESSIDADE DE CUMPRIMENTO POR QUEM DEU CAUSA A DISSOLUÇÃO DO NEGÓCIO. DANOS MATERIAIS. PROVAS CONCRETAS DAS DESPESAS. DEVOLUÇÃO DOS VALORES DE FORMA SIMPLES. DANOS MORAIS. PREENCHIMENTO DOS REQUISITOS DO DIREITO DE INDENIZAR. QUANTUM INDENIZATÓRIO. OBSERVÂNCIA DOS CRITÉRIOS DE RAZOABILIDADE E PROPORCIONALIDADE. MANUTENÇÃO DO VALOR FIXADO. DESPROVIMENTO.
+-A multa contratual possui o condão de ressarcir as partes dos prejuízos advindos do descumprimento do contrato, traduzindo-se em verdadeira indenização pelas perdas e danos resultantes do inadimplemento.
+- O dever de indenizar pressupõe a confluência de três requisitos: a prática de uma conduta antijurídica, a existência de um dano e o nexo de causalidade entre os dois primeiros elementos.
+- Para a reparação do dano material mostra-se imprescindível demonstrar-se o nexo de causalidade entre a conduta indevida e o efetivo prejuízo patrimonial que foi efetivamente suportado.
+-Aquele que alega possuir um direito deve demonstrar a existência dos fatos em que tal direito se alicerça e, à parte contrária, cabe provar fato impeditivo, modificativo e extintivo deste.
+-A indenização por danos morais deve ser fixada sem o perigo de propiciar o enriquecimento ilícito do ofendido, servindo para amenizar e compensar o dano sofrido, devendo ser considerado, ainda, o grau de culpa do agente e a situação econômica do demandante.
+Opostos embargos de declaração, estes foram rejeitados com aplicação de multa (fls. 323-329, e-STJ).
+Nas razões do recurso especial (fls. 332-340, e-STJ), a recorrente aponta dissídio jurisprudencial e violação aos arts. 186 e 927 do CC, sustentando a inocorrência de danos morais no caso dos autos.
+Em decisão monocrática, este relator negou provimento ao reclamo ante a incidência daSúmula 7do STJ.
+No presente agravo interno (e-STJ, fls. 408-414), a parte agravante lança argumentos a fim de combater o referido óbice.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA RECURSAL DOS AUTORES.
+1. Rever o entendimento do Tribunal de origem, que diante da realidade fática apresentada nos autos concluiu pela ocorrência dos danos morais pleiteados na inicial, demandaria necessário reexame do contexto fático-probatório, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 do STJ.
+1.1.Esta Corte de Justiça entende ser cabível a aplicação doenunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.
+2. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Cinge-se a controvérsia recursal no tocante à divergência jurisprudencial na ocorrência dos danos morais, afirma a recorrente que trata-se de casos semelhantes com decisões antagônicas.
+No que se refere aos requisitos da responsabilização civil que implicaram na obrigação de indenizar pelos danos morais, ressalta-se que o Tribunal de origem, a quem incumbe a análise dos elementos fático-probatórios constantes dos autos, assim concluiu (fls. 292/296, e-STJ- grifos acrescidos):
+Em análise do conjunto probatório dos autos, verifico que o contrato de compra e venda do lote no condomínio horizontal Bosque das Orquídeas fora ajustado entre os litigantes pelo valor de R$ 310.000,00 (trezentos e dez mil reais), tendo as parcelas sido quitadas integralmente pelos compradores e o termo de quitação entregue pela empresa.
+Ocorre que, ante a duplicidade da vendição, o negócio fora desfeito de forma unilateral pela ECOMAX, sem informação dos fatos ocorridos e com a devolução da quantia adimplida.
+ ..
+In casu, em detrimento das particularidades apresentadas no processo, como a rescisão contratual de forma unilateral pela empresa após a venda do mesmo lote (quitado) a um terceiro, resta sobejamente configurado o direito a uma indenização por danos morais, em devido os transtornos ultrapassarem os meros aborrecimentos.
+No tocante ao valor indenizatório, a dimensão exterior da afetação psicológica o estabelecerá. Neste, interferem o ambiente de interação social dos sujeitos, as particularidades do objeto, os requisitos de atividade, tais como o lugar, o tempo e a forma, bem como os efeitos jurídicos e econômicos.
+In casu, rever o entendimento do Tribunal de origem, que diante da realidade fática apresentada nos autos concluiu pela ocorrência dos danos morais pleiteados na inicial, demandaria necessário reexame do contexto fático-probatório, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula 7 do STJ. Nesse sentido, precedentes desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA DEMANDADA.
+1. A jurisprudência desta Corte Superior é no sentido de que o simples inadimplemento contratual, em regra, não configura dano moral indenizável, devendo haver consequências fáticas capazes de ensejar o sofrimento psicológico. 2. No caso sub judice, o Tribunal de origem consignou expressamente estarem comprovados sentimentos que superam os normais da vida cotidiana e assim a presença dos requisitos necessários à responsabilização da construtora ao pagamento dos danos morais decorrentes do atraso na entrega do imóvel.
+3. Para rever tal conclusão seria imprescindível a incursão na seara probatória dos autos, o que não é permitido nesta instância especial, nos termos da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no REsp 1684710/RO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 29/04/2019, DJe 03/05/2019)  grifou-se
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO C/C INDENIZATÓRIA. ATRASO NA ENTREGA DO IMÓVEL. 1. PARTICULARIDADES DO CASO, CONFIGURADO O DANO MORAL. ALTERAÇÃO DESSE ENTENDIMENTO NO ÂMBITO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ, POR AMBAS AS ALÍNEAS DO ART. 105 DA CF. 2. AGRAVO INTERNO IMPROVIDO. 1. O simples inadimplemento contratual, em regra, não configura dano moral indenizável. No caso, incide o óbice da Súmula n. 7 do STJ, por ambas as alíneas do permissivo constitucional, haja vista que, dada as particularidades do caso concreto, ficou configurado o dano moral indenizável. 2. Agravo interno improvido. (AgInt no AREsp 1121907/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 06/02/2018, DJe 23/02/2018)  grifou-se
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZATÓRIA. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL VERIFICADO NO CASO CONCRETO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO. 1. No que tange ao dano moral, é entendimento desta Corte que, havendo descumprimento do prazo para entrega do imóvel objeto do compromisso de compra e venda, pode ser cabível a condenação em danos morais, de acordo com as peculiaridades do caso concreto. Precedentes. 2. Na hipótese dos autos, o Tribunal de origem concluiu que os danos morais estão configurados, tendo em vista o atraso de mais de três anos na entrega do imóvel. A alteração das premissas firmadas no aresto recorrido exige o reexame de matéria fático-probatória dos autos, o que atrai a incidência da Súmula 7/STJ.3. Agravo interno a que se nega provimento. (AgInt no REsp 1680450/SE, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 06/02/2018, DJe 14/02/2018)  grifou-se
+Inafastável, no ponto, o teor da Súmula 7/STJ.
+Importante consignar, por fim, que esta Corte de Justiça entende ser cabível a aplicação do quanto enunciado na Súmula 7/STJ também como óbice ao conhecimento do dissídio jurisprudencial, na medida em que, dada a ausência de similitude fática entre o acórdão paradigma e o recorrido, a divergência entre os julgados tem origem em quadros fáticos distintos, não em teses jurídicas opostas.
+Nesse sentido, precedentes: AgRg no AREsp 833.843/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 06/12/2018; REsp 1738928/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, , DJe 14/02/2019; AgInt no AREsp 1344970/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 28/03/2019; e AgInt no AREsp 1386774/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 08/04/2019.
+2. Do exposto, nega-seprovimento ao agravo interno.
+É como voto.
