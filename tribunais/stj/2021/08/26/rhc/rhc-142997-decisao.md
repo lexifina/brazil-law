@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se derecurso em habeascorpus interposto porWEVERSON DIAS PORTO contra acórdão do Tribunal de Justiça do Estado de Minas Gerais (HC n. 1.0000.20.593570-3/000).
+O recorrenteteve a prisão em flagrante convertida em preventiva e foi denunciado por suposta prática do delito descrito no art. 121, § 2º, do Código Penal.
+Alega que está sendo vítima de constrangimento ilegal, pois não houve audiência de custódiae não estão preenchidos os requisitos da custódia cautelar.
+Sustenta ainda "o d. Magistrado não argumentou, tampouco fundamentou sua decisão acerca da  sua  espontaneidade  .. em colaborar com as averiguações dos fatos ora apurados na data do suposto flagrante" (fl. 121).
+Afirma quepossui residência fixa, é pai de uma criança de apenas 1 ano, exerce trabalho lícito, é primário e tem bons antecedentes.
+Aponta a necessidade de observância da Recomendação CNJ n. 62/2020.
+Requera revogação da prisão preventiva com a expedição de alvará de soltura e, subsidiariamente, a substituição da prisão preventiva por medidas cautelares alternativas.
+O pedido de liminar foi indeferido (fls. 223-224).
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fls. 269-274).
+É o relatório. Decido.
+Em consulta ao site do TJMG, verifica-se que foi proferida sentença de pronúncia, mantendo-sea custódia cautelarpelasrazões da decisão que a decretara.
+Inicialmente, a superveniência de audiência de instrução e de sentença de pronúncia tornam prejudicada a análise do alegado constrangimento ilegal por ausência da audiência de custódia.
+No que diz respeito à colaboração do recorrentecom as averiguações dos fatos, a questão não foi examinada pelo Tribunal de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018).
+Além disso, aprisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dosarts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma,DJede 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP.
+A propósito, assim se manifestou o Tribunala quo(fls. 99-100):
+Neste contexto, verifica-se que as referidas decisões encontram-se devidamente fundamentadas, não deixando o ilustre magistrado de asseverar que, presentes os indícios de autoria e a prova da materialidade delitiva, a custódia cautelar do paciente se faz imprescindível para a garantia da ordem pública, considerando as circunstâncias fáticas.
+Dessa forma, não há que se falar em inidoneidade do decreto de prisão, pois este embasa a custódia cautelar a partir do contexto empírico da causa. Contexto, esse, revelador da gravidade concreta da conduta e da periculosidade do paciente.
+Com efeito, vale registrar que quando da maneira de execução do delito sobressair a extrema periculosidade do agente, abre-se ao decreto de prisão a possibilidade de estabelecer um vínculo funcional entre o modus operandi do suposto crime e a garantia da ordem pública, mormente porque o paciente, agindo em conjunto e com unidade de desígnios com outros três indivíduos, utilizando-se de pedaços de madeira e armas de choque, supostamente agrediram Rinaldo Ribeiro Xavier até ele ficar desacordado, causando-lhe ferimentos graves na cabeça, os quais somente não produziram o resultado morte por circunstâncias absolutamente alheias à vontade dos supostos autores do delito.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade da prisão cautelar sido exposta de forma fundamentada e concreta, é incabível asubstituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Além disso, eventuais condições subjetivas favoráveis do recorrente, tais como primariedade, bons antecedentes, residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação.
+Acrescente-se que, conforme apontadono acórdão impugnado,o recorrente não demonstrou ser imprescindível aos cuidados dofilho menor de 12 anos de idade, conforme a hipótese prevista no art. 318 do CPP, não sendo permitida a dilação probatória em via de cognição sumária.
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n.574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que noambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+Assim, como não foram demonstradas as situações descritas, não se verifica desrespeito à Recomendação CNJ n. 62/2020.
+Ante o exposto,com fundamento no art. 34, XVIII, b, do RISTJ, conheço em parte do recurso ordinário em habeas corpus e, nessaparte, nego-lhe provimento.
+Publique-se.Intimem-se.
