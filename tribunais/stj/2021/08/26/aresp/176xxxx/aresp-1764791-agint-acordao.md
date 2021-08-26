@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. DOAÇÃO. FRAUDE À EXECUÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ.AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese vertente, a revisão do entendimento do Tribunal de origem, e o acolhimento da pretensão recursal, no tocante à inexistência de fraude à execução, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos. Incidência da Súmula 7 do STJ.
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por DANIELLE BADECA MOREIRA em face de decisão da Presidência desta Corte, de fls. 460-463, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos, e pela aplicação da Súmula 211 do STJ.
+Nas razões recursais, a parte agravante repisa os argumentos trazidos no recurso especial, e ainda sustenta: "A Recorrente demonstrou nos autos que não houve má-fé na aquisição do imóvel, e que no caso dos autos, não se verifica a presença dos requisitos arrolados no art. 792 do CPC para que seja caracterizada a fraude à execução, haja vista o valor do débito exequendo não é capaz de levar a doadora Executada à insolvência, ante a comprovação da existência de outros bens imóveis, suficientes à satisfação integral do débito..Conforme bem fundamentado pela Agravante em seu recurso especial, é plenamente possível a análise e reforma do error in judicando, ou ainda, a interpretação jurídica diversa aos fatos expressamente mencionados no acórdão do Tribunal a quo, sem que tal condição implique no reexame de fatos e provas..Todas as matérias em debate no recurso especial foram objeto de análise na primeira e segunda instância, não havendo que se falar na aplicação da súmula 211/STJ por ausência de prequestionamento.".
+Requer o conhecimento e provimento do presente agravo para conhecer e dar provimento ao recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. DOAÇÃO. FRAUDE À EXECUÇÃO. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Na hipótese vertente, a revisão do entendimento do Tribunal de origem, e o acolhimento da pretensão recursal, no tocante à inexistência de fraude à execução, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos. Incidência da Súmula 7 do STJ.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. No que se refere à prova produzida nos autos, esclareço que, como destinatário final, cabe ao magistrado, respeitando os limites adotados pelo Código de Processo Civil, a interpretação da prova necessária à formação do seu convencimento, tendo-o feito no seguinte sentido:
+É cediço que a fraude à execução se configura com a alienação do bem durante o curso do processo, que demonstra a má-fé do devedor, que dissipa seu patrimônio ciente que há título judicial ou extrajudicial exigível contra ele, na tentativa de frustrar a execução.
+No caso em análise, conforme se verifica da matrícula (pág. 70), é possível denotar a transferência da titularidade do imóvel de propriedade dos executados a terceiros. No entanto, não basta a mera prova da alienação do bem a terceiros, para que reste configurada a fraude em discussão. É necessário atentar aos preceitos trazidos pela Súmula 375 do Superior Tribunal de Justiça, que exige o registro da penhora do imóvel na matrícula, a fim de comprovar, também, a má-fé do adquirente, in verbis: "O reconhecimento da fraude de execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente".
+O intuito da súmula é preservar o direito e interesse de terceiros, que desconhecem a existência de processos contra o adquirente e tenham seu patrimônio atingido por constrições decorrentes de dívidas oriundas de relações estranhas àquela estabelecida com o alienante.
+Atualmente, ainda que a parte busque se resguardar, buscando certidões que informem haver processos contra o alienante, não é possível fazer essa pesquisa de modo amplo e geral, não sendo razoável, portanto, que o adquirente seja surpreendido com eventual constrição sobre o bem.
+E é isso que o registro da penhora pretende evitar. Tal informação na matrícula do imóvel permite que terceiros tomem conhecimento de eventual penhora que recai sobre aquele bem, podendo arriscar pela aquisição e ver o bem retirado de sua propriedade por eventual reconhecimento de fraude.
+No caso, não se verifica nos documentos apresentados o registro da penhora ou sequer a averbação de existência de ação de execução, nos termos do artigo 799, inciso IX, do Código de Processo Civil.
+Ademais, a agravante não prova, também, a fraude de terceiros.
+Destarte, não havendo penhora e nem tampouco seu respectivo registro, imperam os ditames da Súmula 375 do STJ, de modo a afastar a fraude à execução, ressalvando à parte a possibilidade de resguardar seus direitos por meio de ajuizamento de ação pauliana, na tentativa de comprovar a ocorrência de fraude contra credores.
+(..)
+A jurisprudência desta Corte possui firme o entendimento no sentido de que: "O reconhecimento da fraude à execução depende do registro da penhora do bem alienado ou da prova de má-fé do terceiro adquirente", e "inexistindo registro da penhora na matrícula do imóvel, é do credor o ônus da prova de que o terceiro adquirente tinha conhecimento de demanda capaz de levar o alienante à insolvência" (REsp 956.943/PR, Rel. p/ acórdão Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 20/08/2014, DJe de 1º/12/2014).
+Na hipótese vertente, a revisão do entendimento do Tribunal de origem, e o acolhimento da pretensão recursal, no tocante à inexistência de fraude à execução, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos. Incidência da Súmula 7 do STJ.
+Nesse sentido: (AgInt no REsp 1683338/PE, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/05/2021, DJe 09/06/2021); (AgInt no AREsp 1668261/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/09/2020, DJe 24/09/2020); (AgInt no AREsp 1637827/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/06/2020, DJe 26/06/2020); (AgInt no AREsp 1595423/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 22/06/2020, DJe 01/07/2020).
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
