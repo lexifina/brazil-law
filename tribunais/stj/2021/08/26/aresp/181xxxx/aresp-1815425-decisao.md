@@ -1,0 +1,13 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo contra decisão que inadmitiu o recurso especial interposto pelo Distrito Federal, com base no art. 105, III, "a", da CF/1988, em oposição a acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios assim ementado (e-STJfl. 189):
+PROCESSO CIVIL. APELAÇÃO CÍVEL. INVENTÁRIO. ARROLAMENTO SUMÁRIO. HOMOLOGAÇÃO DE PARTILHA. EXPEDIÇÃO DE FORMAL. RECOLHIMENTO PRÉVIO DO ITCD. DISPENSA.
+1. No arrolamento sumário admite-se, por expressa autorização do art. 659, capute § 2º, do Código de Processo Civil, após o trânsito em julgado da sentença de homologação de partilha, a lavratura do respectivo formal, sem o recolhimento prévio do imposto de transmissão e doação causa mortis - ITCD, procedendo-seà intimação da Fazenda Pública para proceder o lançamento administrativo dos tributos incidentes.
+2. Recurso desprovido.
+É o relatório.
+A questão jurídica referente à necessidade de se comprovar, no arrolamento sumário, o pagamento do Imposto de Transmissão Causa Mortis e Doação - ITCMD como condição para a homologação da partilha ou expedição da carta de adjudicação, à luz dos arts. 192 do CTN e 659, § 2º, do CPC/2015foi submetida ao regime dosprecedentes qualificados vinculantes peloSuperior Tribunal de Justiçanos seguintes termos:
+Tema/STJ1.074: Necessidade de se comprovar, no arrolamento sumário, o pagamento do Imposto de Transmissão Causa Mortis e Doação - ITCMD como condição para a homologação da partilha ou expedição da carta de adjudicação, à luz dos arts. 192 do CTN e 659, § 2º, do CPC/2015.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/15, de modo a que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
