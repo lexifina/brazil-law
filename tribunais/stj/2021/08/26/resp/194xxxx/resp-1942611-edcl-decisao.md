@@ -1,0 +1,12 @@
+DECISÃO
+Cuida-se de embargos declaratórios opostos porMaria Neves de Souza Lima Barretocontra decisão que negou provimento ao recurso especial manejado peloInstitutoNacional de Colonização e Reforma Agrária - INCRA, sob a seguinte fundamentação : (i)o Tribunal de origem não se afastou da orientação jurisprudencial deste Superior Tribunal, firme no sentido de queo marco temporal para a incidência do novo estatuto processual, no que se refere aos honorários advocatícios sucumbenciais, é a data da sentença; (ii)considerando que o pedido de cumprimento de sentença foi proposto na vigência do CPC/15, os critérios aplicáveis para a fixação dos honorários advocatícios devem ser os estatuídos no art. 85, §3º, II, do Novo Código (fls. 119/122).
+A parte embargante afirma quehouve omissão do julgado quanto ao contido no art.85, §§ 1º e 11, do CPC, eis que não tratou da necessária majoração dos honorários fixados a seu favor.
+Aponta a existência de erro material atinente ao juízo prolator do acórdão regional, e que, os critérios aplicáveis para a fixação dos honorários advocatícios devem ser os estatuídos no art. 85, § 3º, I, do CPC/15, e não o do inciso II consoante o tratado no decisum (fl. 126).
+Requer o acolhimento dos aclaratórios.
+A parte embargada não apresentou impugnação (fl. 134).
+É o relatório.
+Assiste razão à embargante.
+De início,verifica-se que a decisão recorrida, ao negar provimento ao recurso especial da parte ora embargada, interposto contra acórdão publicado já na vigência do novo CPC/2015, nada dispôs acerca da condenação na verba honorária recursal, devendo ser suprimida a omissão apontada pela embargante. Assim, acolho os embargos para sanar a omissão apontada. Dessa forma, levando em conta o trabalho adicional realizado em grau recursal, impõe-se à parte embargada o pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC/2015).
+Quanto ao mais, merece ser sanado erro material constante do julgado, porquanto o acórdão recorrido foi, efetivamente, proferido pelo Tribunal Regional Federal da 5ª Região. Lado outro, importa que conste do decisório assertiva segundo a qual,considerando que o pedido de cumprimento de sentença foi proposto na vigência do CPC/15, os critérios aplicáveis para a fixação dos honorários advocatícios devem ser os estatuídos no art. 85, § 3ºdo Novo Código.
+Acolho, assim, osembargos de declaração, nos termos dafundamentação supra.
+Publique-se.
