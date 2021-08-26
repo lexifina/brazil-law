@@ -1,0 +1,29 @@
+DECISÃO
+MATEUS PEREIRA MENDESalega ser vítima de coação ilegal em decorrência de acórdão proferido peloTribunal de Justiça do Estado de Minas Geraisno HC n. 1.0000.21.102001-1/000.
+A defesa pleiteia seja revogada a custódia preventiva do réu, decretada pela suposta prática docrimede tráfico de drogas, por considerar não haver fundamento idôneo a sustentar a constrição e não estarem presentes os requisitos do art. 312 do CPP.
+A liminar foi indeferida pela Presidência desta Corte e as informações foram prestadas às fls. 159-177.
+O Ministério Público Federal opinou pela concessão da ordem, de ofício (fls. 179-186).
+Decido.
+O paciente foi preso em flagrante e teve a custódia convertida em preventiva sob a seguinte motivação (fls. 94-95):
+Trata-se da comunicação da prisão em flagrante delito, do flagranteado Mateus Pereira Mendes, pela prática, em tese, dos delitos capitulados pelos art. 33 da Lei 11343/06.
+De plano, não vislumbrando ilegalidade ou irregularidade formais, presentes os requisitos legais contemplados pelos artigos 304 a 306 do CPP, HOMOLOGO a presente Comunicação de Prisão em Flagrante Delito.
+Ademais, não se pode analisar o fato pelo qual o preso será acusado, nos termos do art 8, inc. VIII da Resolução 213 do CNJ. Destarte, inadequada e insuficiente a aplicação de medidas cautelares diversas da prisão preventiva. Nesse sentido já decidiu o E.TJMG:
+ ..
+Diante do exposto, nesta fase em que não há nem mesmo acusação contra o réu que foi preso em virtude de operação contra o tráfico de drogas que tramita na primeira vara de toxicos de Belo Horizonte, CONVERTO A PRISÃO EM FLAGRANTE EM PRISÃO PREVENTIVA DO AUTUADO, nos termos do artigo 313, I, do CP, podendo a mesma ser reavaliada no processo criminal.
+O Tribunal de origem denegou a ordem. Na ocasião, assentou (fl. 143): "Destarte, após leitura da decisão transcrita, vê-se, então, que mister se faz a manutenção da segregação preventiva do agente, face à prova da existência do crime e dos indícios de autoria (fumus commissi delicti)".
+A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Apoiado nessa premissa, observo que não se mostram suficientes as causas invocadas pelo Juízo singular para embasar a ordem de prisão do averiguado, porquanto deixou de contextualizar, em dados concretos dos autos, opericulum libertatis.
+Na espécie, verifico que o Juízo singular não aduziu nenhum fato concreto que justificasse a prisão do acusado e se restringiu a assentar serinadequadae insuficiente a aplicação de medidas cautelares menos gravosas.
+Ninguém dissente de que o tráfico de drogas é crime gravíssimo e de que é notória a desagregação social que a mercancia de entorpecentes acarreta atualmente na sociedade. Esses fatores, certamente, são a razão pela qual a reprimenda por tal ilicitude penal - equiparada a crime hediondo - é elevada, mas não são bastantes para implicar, necessariamente, a manutenção, sob custódia cautelar, de seus eventuais autores, sob pena de transformar em regra o que é exceção e malferir o princípio da presunção de inocência, que alcança a todos os imputados em processo penal.
+Concluo, assim,ter havido restrição à liberdade do acusado sem a devida fundamentação que demonstrasse a exigência cautelar justificadora da custódia, de sorte a impor a concessão da ordem,sob pena de essa prisão perder sua natureza excepcional e se transformar em mera resposta punitiva antecipada.
+Confira-se:
+ ..
+2. No caso, o Juízo de primeiro grau limitou-se a mencionar a existência de indícios de materialidade e autoria do crime e a tecer considerações genéricas acerca da gravidade abstrata do delito de tráfico de drogas. Não foram apontados dados concretos a justificar a segregação provisória, nos termos do que dispõe o art. 312 do CPP.
+ ..
+3. Habeas corpus não conhecido. Ordem concedida, de ofício, para revogar a prisão preventiva do paciente, mediante a aplicação das medidas cautelares previstas no art. 319 do CPP, a critério do Juízo de primeiro grau.
+(HC n. 419.965/SP, Rel. MinistroRibeiro Dantas, 5ª T., DJe 16/2/2018)
+No mesmo sentir, transcrevo trecho do parecer do Parquet Federal (fl. 183):
+Sem desprezar a gravidade da prática de tráfico de drogas, é certo que a prisão cautelar deve ser adotada para assegurar o processo e a ordem pública e social, mediante fundamentação idônea. No caso dos autos, as decisões impugnadas não apresentaram dados concretos que justifiquem a medida, sendo certo que a gravidade em abstrato do delito não é motivo suficiente para decretação da prisão preventiva, que deve ser suficientemente fundamentada com base nos requisitos previstos nos arts. 312 e 313 do CPP. Ressalte-se que, pelo que consta dos autos, o paciente é primário, não havendo outros registros criminais.
+Nesse contexto, extrai-se que não houve uma fundamentação concreta acerca da necessidade da segregação cautelar, mas apenas menção às provas da existência do crime e de indícios de autoria, fundamento inidôneo para justificar a decretação da preventiva, na medida em que não retrata a real periculosidade da agente.
+À vista do exposto,concedo a ordem paraordenar a soltura dopaciente, sem prejuízo de nova decretação da prisão preventiva, se efetivamente demonstrada sua concreta necessidade, ou de imposição de medida cautelar alternativa também suficientemente fundamentada, nos termos dos arts. 282 e 319 do CPP.
+Publique-se e intimem-se.
