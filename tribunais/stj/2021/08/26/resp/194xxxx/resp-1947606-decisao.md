@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro no art. 105, III, a e c, da Constituição Federal.
+O recorrente foi condenado, em primeira instância, à pena de 4 anos de reclusão, em regime aberto, pelo delito de roubo simples. Interposta apelação, o Tribunal de Justiça acresceu 8 meses à pena e fixou o modo inicial fechado.
+Daí o presente recurso especial, em que aponta violação aos arts. 33 e 59, ambos do Código Penal, bem como inobservância à jurisprudência deste STJ.
+Argumenta que, sendo favoráveis as circunstâncias judiciais do art. 59, o regime mais gravoso não poderia ser fixado. Entende que houve ofensa às Súmulas 718 e 719, do STF, e 440 do STJ.
+Busca o abrandamento do regime.
+Contrarrazoado e parcialmente admitido na origem, o Ministério Público Federal opinou pelo provimento do recurso.
+Inicialmente, cumpre ressaltar que, ao contrário do alegado pelo recorrente, a pena-base foi reformada pelo Tribunal de origem, ante o emprego de arma branca, como se vê (fls. 289-290):
+É certo que o emprego de arma branca eleva a gravidade da conduta, intensifica o risco à integridade física das vítimas e o poder de intimidação exercido pelo agente, aumentando, assim, as chances de sucesso da empreitada criminosa. Desse modo, trata-se de circunstância que extrapola as elementares do tipo penal, aperfeiçoando o delito e conferindo-lhe maior reprovabilidade.  ..
+Por conseguinte, elevo a pena-base em 1/6 (um sexto), fixando-a, agora em de 4 (quatro) anos e 8 (oito) meses de reclusão e pagamento de 11 (onze) dias-multa.
+A sentença condenatória, por sua vez, deixou de majorar a pena "tendo em vista que o emprego da arma branca somente poderá ser utilizado para tanto, quando as circunstâncias do caso concreto assim justificarem, o que não é o caso dos autos." (fl. 208).
+Vê-se, portanto, que o Tribunal de Justiça não demonstrou como o emprego da arma branca, no caso em tela, elevou a reprovabilidade da conduta para além das elementares do tipo penal - em dissonância com o entendimento deste STJ. Confira-se:
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ROUBO MAJORADO. LEI N. 13.654/2018. NOVATIO LEGIS IN MELLIUS. ARMA BRANCA (FACA). CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. AFASTAMENTO. AUSÊNCIA DE MAIOR REPROVABILIDADE. REGIME ABERTO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Verifica-se nos autos que o delito em análise foi praticado com o emprego de arma branca (faca), situação não mais abrangida como majorante do crime de roubo, uma vez que a Lei n. 13.654/2018 revogou o inciso I do §2º do art. 157 do CP. Assim, tendo em vista a abolitio criminis, promovida pela referida lei, e em observância ao art. 5º, inciso XL, da Constituição Federal, é de rigor a aplicação da novatio legis in mellius, devendo ser excluída a causa de aumento do art. 157, §2º, inciso I, do CP do cálculo dosimétrico.
+2. O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem (HC n. 436.314/SC, Rel. Ministro Felix Fischer, Quinta Turma, DJe 21/8/2018).
+3. No presente caso, pela leitura da denúncia, da sentença condenatória e do acórdão recorrido, verifica-se que, no caso concreto, não foi apontada qualquer circunstância que demonstrasse a maior reprovabilidade da conduta pelo uso da arma branca (faca) a justificar o aumento da pena-base, configurando a referida ameaça inerente ao tipo penal de roubo. Necessário, portanto, o decote de referida exasperação da pena-base.
+4. Estabelecida a pena definitiva do acusado em 4 anos de reclusão, sendo favoráveis as circunstâncias do art. 59 do CP, primário o recorrente e sem antecedentes, não havendo qualquer outro elemento concreto a justificar o regime mais gravoso, o regime aberto é o adequado à prevenção e reparação do delito.
+5. Agravo regimental não provido. (AgRg no AREsp 1.847.944/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021).
+De rigor, portanto, o afastamento da referida circunstância, retornando a pena-base ao mínimo legal.
+Isto posto, vê-se o regime inicial foi recrudescido aos seguintes fundamentos (fls. 290-291):
+Quanto ao regime prisional, também com razão o Ministério Público, pois, o delito foi praticado com grave ameaça exercida com o emprego de arma branca, circunstância reveladora da ousadia e periculosidade do réu, externando a gravidade concreta da conduta do agente, o inicial fechado é de rigor, nos termos do art. 33, §3º, Código Penal.
+Razão assiste à defesa quanto à fundamentação genérica do Tribunal local, pois a grave ameaça é elementar do tipo penal de roubo, não justificando, por si, o agravamento do modo prisional.
+Nesse contexto, o estabelecimento de regime prisional mais gravoso ao réu primário, sem fundamento concreto, contraria o disposto nas Súmulas 440/STJ, 718 e 719/STF, in verbis:
+Súmula 440: Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito.
+Súmula 718/STF: A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada.
+Súmula 719/STF: A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea.
+Dessa forma, tendo em vista o quantum final da pena ser de 4 anos de reclusão, a primariedade, a fixação da pena-base no mínimo legal e a ausência de argumentos concretos para o estabelecimento de regime prisional mais gravoso, devida fixação do modo prisional aberto, em conformidade com o art. 33, § 2º, "c", do CP.
+Não cabe, entretanto, a substituição da pena privativa de liberdade por restritivas de direitos: "O acusado não preenche os requisitos do artigo 44, inciso I, do Código Penal, uma vez que o crime foi cometido com grave ameaça à pessoa, assim deixo de substituir a pena privativa de liberdade por pena restritiva de direitos." (fl. 208).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença condenatória, fixando o regime inicial aberto para desconto da reprimenda.
+Publique-se.
+Intimem-se.
