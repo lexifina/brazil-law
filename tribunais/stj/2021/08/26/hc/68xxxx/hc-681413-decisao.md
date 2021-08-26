@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em favor de GUILHERME LIMA ALMANI e AYLANA MARIA DE SOUSA, contra v. acórdão prolatado pelo eg. Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos condenação dos pacientes à pena de 12 anos de reclusão, em regime fechado, pela prática dos crimes dos arts. 2º da Lei n. 12.850/2013 e 171, § 4º, por quatro vezes, na forma do dos artigos 71 e 69, todos do Código Penal, sendo-lhes vedado o direito de apelar em liberdade, pois mantidos os requisitos ensejadores da prisão preventiva (fl. 193).
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo, por meio do qual buscava a revogação do decreto prisional. O eg. Tribunal de origem denegou a ordem, em v. acórdão assim ementado:
+"HABEAS CORPUS SENTENÇA CONDENATÓRIA RECORRÍVEL Artigo 2º da Lei nº 12.850/2013 e artigo 171, §4º (por quatro vezes), na forma do artigo 71 e artigo 69, todos do Código Penal Direito de aguardar o desfecho definitivo dos autos em liberdade Impossibilidade PACIENTES FORAGIDOS Decisão que manteve a custódia cautelar, ainda que sucinta, devidamente justificada Manutenção dos quesitos autorizadores da excepcional custódia processual Contramandado de prisão expedido EXCLUSIVAMENTE para possibilitar nova expedição de mandado de prisão pelo sistema, em decorrência do novo título que manteve a constrição Questão puramente tecnológica CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO ORDEM DENEGADA" (fl. 199).
+Daí o presente mandamus, no qual o impetrante assevera a existência de constrangimento ilegal, consubstanciado na ausência de fundamentação idônea a justificar a decretação de sua segregação cautelar.
+Requer, ao final, a revogação da prisão preventiva.
+A liminar foi indeferida às fls. 209-210.
+As informações foram prestadas às fls. 218-241.
+O Ministério Público Federal, às fls. 243-251, manifestou-se pela denegação da ordem, em parecer assim ementado:
+"HABEAS CORPUS SUBSTITUTIVO. ESTELIONATO QUALIFICADO E ORGANIZAÇÃO CRIMINOSA. NEGATIVA DE RECORRER EM LIBERDADE. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBICA E APLICAÇÃO DA LEI PENAL. FUNDAMENTAÇÃO IDÔNEA. RÉUS FORAGIDOS DURANTE TODA A INSTRUÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER PELO NÃO CONHECIMENTO DO WRIT; NO MÉRITO, PELA DENEGAÇÃO DA ORDEM" (fl. 243).
+É o relatório.
+Decido.
+De início, importante gizar que a deficiente instrução dos autos impede a análise da aventada inidoneidade do decreto prisional.
+Isto porque a defesa não juntou aos autos cópia da decisão que decretou originariament e a prisão preventiva, peça imprescindível à compreensão da controvérsia.
+Com efeito, esta Corte firmou orientação segundo a qual constitui ônus da defesa instruir os autos com os documentos necessários ao devido exame da quaestio, sob pena de não conhecimento do mandamus.
+Ilustrativamente:
+"RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. PREJUDICIALIDADE DO RECURSO EM RELAÇÃO AOS RECORRENTES BENEFICIADOS COM A LIBERDADE PROVISÓRIA PELO JUÍZO DE ORIGEM. NÃO CONHECIMENTO DO RECURSO PARA OS RECORRENTES QUE NÃO FIGURAM COMO PACIENTES NO ACÓRDÃO DO WRIT ORIGINÁRIO.  ..  INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. RECURSO PARCIALMENTE CONHECIDO E DESPROVIDO.
+1. O recurso está prejudicado em relação aos recorrentes A. K. L. G., J. A. de M. T. e R. de A.. Conforme informações prestadas a essa Corte, na audiência de instrução e julgamento foi concedida liberdade provisória a esses recorrentes. Assim, não há como negar a perda superveniente do objeto deste recurso em relação a eles. O recurso foi interposto por seis réus, contudo o acórdão que instrui o pedido tem como paciente unicamente C. E. de J. da C.. Desse modo, constato a deficiência de instrução quanto aos recorrentes I. B. dos S. e T. P. M. M., não havendo como conhecer do recurso deles.
+ ..
+4. São inaplicáveis quaisquer medidas cautelares alternativas previstas no art. 319 do Código de Processo Penal - CPP, uma vez que as circunstâncias do delito evidenciam a insuficiência das providências menos gravosas.
+Recurso em habeas corpus conhecido em parte e, nessa extensão, desprovido" (RHC 73.802/MG, Quinta Turma, Rel. Min.Joel Ilan Pacionik, DJe 28/10/2016, grifei).
+"AGRAVO REGIMENTAL. PRISÃO PREVENTIVA. CRIME DE RECEPTAÇÃO. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO DOS REQUISITOS AUTORIZADORES. DEFICIÊNCIA DE INSTRUÇÃO. ÔNUS DO IMPETRANTE. HABEAS CORPUS INDEFERIDO LIMINARMENTE. DECISÃO MANTIDA PELOS PRÓPRIOS FUNDAMENTOS.
+1. Consoante entendimento desta Corte Superior, o habeas corpus, porquanto vinculado à demonstração de plano de ilegalidade, não se presta à dilação probatória, exigindo prova pré-constituída das alegações, sendo ônus do impetrante trazê-la no momento da impetração, máxime quando se tratar de advogado constituído (AgRg no HC n. 286.754/MG, Ministro Nefi Cordeiro, Sexta Turma, DJe 3/2/2015).
+2. Não tendo sido juntadas aos autos cópia da decisão do decreto prisional, folha de antecedentes criminais e documentação comprobatória das condições de favorabilidade do paciente, ora agravante, deve ser mantida a decisão que indeferiu o writ liminarmente.
+3. Agravo regimental improvido." (AgRg no HC 353.292/TO,Sexta Turma, Rel. Min. Sebastião Reis Júnior, DJe 18/05/2016, grifei).
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de habeas corpus.
+Dessa feita, tratando-se o presente habeas corpus de substitutivo de recurso ordinário e estando o v. acórdão prolatado pelo eg. Tribunal a quo em conformidade com o entendimento desta Corte de Justiça quanto ao tema, incide, no caso, o enunciado da Súmula n. 568/STJ, in verbis: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, não conheço do habeas corpus.
+P. e I.
