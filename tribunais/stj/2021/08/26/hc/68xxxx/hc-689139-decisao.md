@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício de Vinicius Sampaio Oliveira dos Santos, apontando-se como autoridade coatora o Tribunal de Justiça do Paraná(Agravo de Execução Penal n. 4000317-17.2021.8.16.0019).
+Aduz-se que, no caso de aprovação no ENCCEJA (Exame Nacional para Certificação de Competências de Jovens e Adultos), a base de cálculo à nível fundamental, por estudo por conta própria, é de 50%, ou seja, 1.600 horas, conforme Lei n. 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e Recomendação n. 44/2013 do Conselho Nacional de Justiça. Ainda, no caso em análise, o sentenciado concluiu o ensino fundamental e foi aprovado em todas as cinco áreas de conhecimento, aplicando-se ao caso o disposto no § 5ºdo art.126 da LEP (fl. 5).
+Requer-sea concessão da ordem para reconhecer o direito à remição de 177 dias (26 por cada disciplina x 5 mais 1/3).
+É o relatório.
+Na espécie, existe constrangimento ilegal passível de ser reparado de pronto por meio da via eleita.
+Veja-se que o art. 126 da Lei de Execução Penal, com a redação dada pela Lei n. 12.433/2011, estabelece que o condenado que cumpre a pena em regime fechado ou semiaberto poderá remir, por trabalho ou por estudo, parte do tempo de execução da pena.
+E, conquantoa Recomendação n. 44/2013 do Conselho Nacional de Justiça,não vincule nenhum órgão do Poder Judiciário, não se pode negar o relevante estímulo ao aprendizado por conta própria, motivado pela abreviação no tempo de cárcere, devendo ser aplicado sempre que o apenado, por seu próprio esforço, realizar atividades na modalidade presencial ou na modalidade à distância.
+Assim, como resultado de uma interpretação analógicain bonam partemda norma ali inserta, segundo reiterada jurisprudência desta Corte, é possível a hipótese de abreviação da reprimenda em razão de atividades que não tenham previsão expressa no texto legal.
+A dúvida quanto ao percentual aplicável deve ser resolvida também em favor do reeducando, em razão de ser hipótese mais benéfica a ele. No julgamento do HC n. 602.425/SC, submetido à Terceira Seção desta Casa, prevaleceu a compreensão de que o art. 24, I, da Lei n. 9.394/1996, pode ser utilizado como critério de interpretação da norma aberta oriunda do art. 1º, IV, da Recomendação n. 44/2013 do Conselho Nacional de Justiça, o que não afronta o art. 4º, II e III, da Resolução n. 3/2010 do Conselho Nacional de Educação.
+Nesse contexto, a aprovação do paciente em todos os campos de conhecimento no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA/2020), relativo ao ensino fundamental, impõe o reconhecimento do direito à remição.
+E conforme o documento de fl. 17, o apenado obteve a certificação do ensino fundamental, para qual, como visto, a carga horária é estabelecida em 1.600 horas. Assim, dividem-se as 1.600h por 12 (número de horas necessárias para remição de 1 dia de pena), cujo resultado é 133 dias. Com acréscimo de 1/3 pela conclusão do ensino fundamental (§ 3º do art. 126 da LEP), chega-se a 177 dias para fins de remição.
+À vista do exposto,expeçoa ordem para, cassando o acórdão e a decisão exarada em 12/1/2021pelo Juízo da execução no ponto, reconhecer a remição de 177 dias (ENCCEJA/Ensino fundamental) da pena deVinicius Sampaio Oliveira dos Santos(PEC n. 0000371-18.2018.8.16.0064).
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. APROVAÇÃO NO EXAME NACIONAL PARA CERTIFICAÇÃO DE COMPETÊNCIAS DE JOVENS E ADULTOS (ENCCEJA). BASE DE CÁLCULO. JURISPRUDÊNCIA PACIFICADA PELA TERCEIRA SEÇÃO. CONSTRANGIMENTO ILEGAL EVIDENCIADO.
+Ordem expedida nos termos do dispositivo.
