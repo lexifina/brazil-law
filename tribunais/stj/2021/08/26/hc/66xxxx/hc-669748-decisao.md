@@ -1,0 +1,12 @@
+DECISÃO
+IGOR LUIZ RIBEIRO DE CARVALHO alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, que negou provimento à Apelação Criminal n.0298590-59.2019.8.19.0001.
+Consta dos autos que o paciente foi condenado à pena de 13 anos e 10 meses de reclusão, em regime inicial fechado, mais multa, pela prática dos crimes previstos nos arts. 33, caput e § 1º, I, II e III, 34, todos da Lei n. 11.343/2006.
+A defesa pretende, por meio deste writ, seja assegurado ao réu "responder os recursos pendentes em liberdade, uma vez que encerrada a instrução processual penal e inexistentes os motivos ensejadores da custódia cautelar" (fl. 5). Aduz, para tanto, ter havido invasão de domicílio e não estar evidenciada nenhuma das hipóteses previstas no art. 312 do CPP.
+A liminar foi indeferida e, depois de as informações haverem sido prestadas, o Ministério Público Federal manifestou-se pelo não conhecimento da impetração.
+Decido.
+De plano, verifico que este habeas corpus não há como ser conhecido. Isso porque a pretendida concessão do direito de recorrer em liberdade não foi analisada pelo Tribunal de origem, o que impede a apreciação dessa questão diretamente por esta Corte Superior de Justiça, sob pena de, assim o fazendo, incidir na indevida supressão de instância.
+Ademais, esclareço que, segundo o relatório apresentadopelo próprio impetrante na petição inicial do habeas corpus, "a defesa interpôs o recurso de apelação, que veio a ser processado e julgado pela 2ª Câmara Criminal do Tribunal de Justiça do estado do Rio de Janeiro.Em síntese, a pretensão recursal defensiva se lastreava nos seguintes pontos: desclassificação da conduta para a prevista no artigo 28, Lei de Drogas; incidência do redutor previsto no artigo 33, § 4º, Lei de Drogas e afastamento da condenação pelo delito previsto no artigo 34, Lei de Drogas em razão do princípio da consunção" (fl. 5).
+Ou seja, a defesa, em suas razões recursais, não apresentou nenhuma insurgência em relação à negativa do direito de recorrer em liberdade.
+Saliento que tal matériadeveriahaver sido suscitadano momento oportuno e perante o Juízo competente, até para possibilitar à instância recursal um pronunciamento seguro sobre a questão, sendo, por isso mesmo, vedada a inauguração, em habeas corpus, de tese(s) defensiva(s) não aventada(s) e não debatida(s) na via ordinária.
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Publique-se e intimem-se.
