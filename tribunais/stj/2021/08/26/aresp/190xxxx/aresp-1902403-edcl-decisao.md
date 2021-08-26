@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE IGARAPAVA, à decisão de fls. 444/445, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ab initio, a decisão se engana quanto ao fato de o feriado do dia 28 de outubro tratar-se de feriado local, quando na verdade está disciplinado em legislação federal, a Lei Federal nº 8.112/90, em seu artigo 236, não conhecimento que soçobra o brocardo iura novit curia (fl. 447).
+ ..
+Vemos que o Código de Processo Civil nos traz obrigação de comprovar Lei que institua feriado local.
+ ..
+Longe de ser local a Lei Federal nº 8.112/93, 11 de dezembro de 1993, estabelece a data para se comemorar o feriado do servidor público, vejamos:
+ ..
+Tanto é que o mesmo Código de Processo Civil somente obriga a parte provar legislação municipal e estadual, não a federal, destacamos abaixo: (fl. 450).
+ ..
+Quanto ao Agravo em Recurso Especial, o próprio presidente do Tribunal de Justiça do Estado de São Paulo conheceu o recurso, declarando-se sobre o mérito, não sobre a tempestividade, o que demonstra cabalmente sua tempestividade, uma vez que ali se tratava de feriado regulado por legislação federal, novamente, iura novit curia, em tese não dependendo de prova perante o juízo, a quem cabe a apreciação do Recurso Especial.
+Mensuradas tais disposições tem-se que a decisão monocrática guerreada se equivocou materialmente, denotando-se a não constatação de se considerar feriado disciplinado por Lei Federal o do dia 28 de outubro um feriado de conhecimento do juízo, tratando a Lei nº 8.112/90 como legislação estadual ou municipal, destacamos que o nome dado a lei é Estatuto do Servidor Público FEDERAL, essa é a questão como objeto central sobre a análise do presente embargo de declaração (fl. 451).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+No que se refere à alegação de que o dia do servidor público é feriado nacional, ressalta-se que a jurisprudência do Superior Tribunal de Justiça é no sentido de que o dia 28 de outubro não se trata de feriado nacional, devendo ser comprovada a suspensão do expediente forense no momento da interposição do recurso. Nesse sentido, AgInt no AREsp 1336242/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 11/11/2019; e AgInt no AREsp 1472900/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/10/2019.
+No mais, observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
