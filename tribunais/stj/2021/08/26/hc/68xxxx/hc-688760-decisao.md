@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de decisão monocrática que indeferiu a liminar no writ na origem.
+Consta dos autos que o paciente foi condenado, como incurso no art. 334-A, § 1º, I, c/c, § 3ºdo CP, àpenade4 anos 8 meses de reclusão, em regime semiaberto.
+No presente writ, o impetrante alega, em suma, que o paciente foi condenado pela Justiça Federal, que declinou da competência, no tocante à execução, para o Juízo da Execução do domicílio do paciente. Assevera que foi permitido ao paciente cumprir pena em regime semiaberto harmonizado, mas nessa época o paciente passou a residir na comarca de Tupã/SP, onde conseguiu emprego.
+Aduz que o Juízo das Execuções de São Paulo indevidamente determinou a prisão do paciente, não tendo competência para tanto, destacando queo Juízo da condenação, tampouco o Juízo originário da Execução assim determinaram.
+Sustenta, ainda, a aplicação da Recomendação 62/2020 do CNJ.
+Requer, assim, liminarmente e no mérito, a concessão da prisão domiciliar.
+Nos termos da Súmula 691 do Supremo Tribunal Federal, não se admite a utilização de habeas corpus contra decisão que indeferiu a liminar em writ impetrado no Tribunal de origem, sob pena de indevida supressão de instância.
+Admite-se, entretanto, sua mitigação quando evidenciada a presença de decisão teratológica ou desprovida de fundamentação.
+Na origem, a liminar foi indeferida nos seguintes termos (fls. 18/19):
+ ..  2. Indefiro a liminar.
+Não se vislumbram, na espécie, o fumus boni iuris e o periculum in mora a justificar a concessão da liminar. Esta só é cabível quando de plano, numa cognição sumária, constata-se a plausibilidade do direito alegado e, diante dela, o risco de que eventual demora da prestação jurisdicional acabe por inviabilizar a obtenção da providência que se pleiteia, o que não se verifica no caso ora em tela.
+Em consulta aos autos originários, verifica-se que os réus, inclusive o paciente, interpuseram recurso de apelação, julgado pela 7a Turma do E. Tribunal Regional Federal da 4a Região, em 16 de julho de 2019, a qual decidiu, por unanimidade, "negar provimento às apelações e, de ofício, determinou, quando esgotada a jurisdição ordinária nesta instância, a imediata comunicação ao juízo de origem para o início da execução provisória da pena (..)".
+Consta ainda que em 20.06.2021 o juízo de Loanda - PR declinou de sua competência para a execução, determinando a remessa dos autos ao juízo de Tupã - SP (fls. 178 dos autos originários). Não consta tenha havido insurgência da Defesa contra tal decisão; tampouco consta ter sido suscitado conflito de jurisdição.
+Assim, não cabe invocar decisões do "juízo originário" da execução.
+Recebidos os autos, o juízo de Tupã, para que se iniciasse a execução da pena, determinou a expedição de mandado de prisão em regime semiaberto (fls. 189), o qual segundo consta, foi cumprido.
+De fato, nos termos do art. 105 da LEP, a execução da pena privativa de liberdade se inicia após a prisão do sentenciado.
+Assim, não se vislumbra desde logo a alegada ilegalidade da decisão aqui combatida.
+Por fim, no que se refere ao pedido para que ele seja colocado em prisão domiciliar em decorrência da pandemia do coronavírus, muito embora a Recomendação nº 62/2020, do E. Conselho Nacional de Justiça, sugira medidas visando à redução dos riscos epidemiológicos com relação à disseminação do vírus, não há como afirmar que o paciente faça jus a tanto, pois não há prova das condições em que custodiado nem de que padece ele de alguma comorbidade.
+De outra parte, não se pode olvidar que o artigo 117 da Lei de Execução Penal só admite o recolhimento domiciliar a condenados que cumprem pena em regime aberto.
+Nesse quadro, não se vislumbram razões que determinem a concessão de liminar, que fica indeferida. ..
+Vê-se que a liminar foi indeferida pelo Tribunala quo, tendo em vista a inexistência de razões aptas a ensejarema concessão da medida de urgência.
+Como se extrai dos autos e do excerto, embora inicialmente competente o Juízo das execuções do domicílio do paciente, que permitiu cumprimento de pena em regime semiaberto harmonizado (fl. 24/26), o paciente não foi encontrado afim de que se desseinício à execução (fl. 41), de maneira que houve declínio da competência para o local onde passou a residir, comarca de Tupã/SP.
+Dessa forma, o Juízo das execuções de São Paulo, então competente, determinou a expediçãode mandado de prisão para dar início ao cumprimento da pena no regime semiaberto (fl. 21), dada a presença de vaga em estabelecimento prisional compatível.
+Assim, "Nos termos do art. 105 da Lei de Execução Penal e art. 675 do Código de Processo Penal, o início do cumprimento da pena privativa de liberdade se dá com o recolhimento do sentenciado à prisão e a expedição da respectiva guia de execução."(AgRg no HC 670.319/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/08/2021, DJe 09/08/2021).
+Portanto, não se constata ilegalidade com a determinação de prisão, sendo possível falar o mesmo no tocante ao pedido de aplicação da recomendação n. 62/CNJ, pois consta da decisão de liminar que "não há como afirmar que o paciente faça jus a tanto, pois não há prova das condições em que custodiado nem de que padece ele de alguma comorbidade".
+De fato, "A recomendação contida na Resolução n. 62, de 18 de março de 2020, do CNJ não implica automática substituição da prisão decorrente da sentença condenatória pela domiciliar. É necessário que o eventual beneficiário do instituto demonstre: a) sua inequívoca adequação no chamado grupo de vulneráveis da COVID-19; b) a impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) risco real de que o estabelecimento em que se encontra, e que o segrega do convívio social, cause mais risco do que o ambiente em que a sociedade está inserida, inocorrente na espécie" (AgRg no HC 587.407/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020).
+Destarte, tendo em vista o exposto na decisão que indeferiu o pedido de liminar, não vejo manifesta ilegalidade apta a autorizar a mitigação da Súmula 691/STF, cabendo ao Tribunal de origem a análise da matéria meritória.
+Ante o exposto,indefiro liminarmenteo habeas corpus.
+Publique-se.
+Intimem-se.
