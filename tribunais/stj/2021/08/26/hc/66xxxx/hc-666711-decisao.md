@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 239):
+ROUBO MAJORADO e CORRUPÇÃO DE MENOR Absolvição Descabimento - Prova firme - Pedidos subsidiários de abrandamento da pena com reconhecimento da menoridade e sua compensação com a reincidência e aplicação de fração mais benéficas em relação à tentativa, bem como determinação do regime intermediário Descabimento Recurso desprovido.
+Consta dos autos que o paciente foi condenado pela prática do crime tipificado no art. 157, § 2º, II, c/c o 14, II, ambos do CP, e 244-B da Lei 8069/90, às penas de 4 anos, 10 meses e 1 dia de reclusão, em regime fechado, e 10 dias-multa.
+Interposto recurso defensivo, o Tribunal de origem negou provimento.
+Daí o presente writ, em que o impetrante alega, em síntese, constrangimento ilegal em razão da ausência de fundamentação na dosimetria, não compensação da menoridade relativa com a reincidência, aumento da redução pela tentativa e fixação de regime menos gravoso.
+Requer, assim, "seja redimensionada a dosimetria da pena aplicada nos termos do requerido".
+Indeferida a liminar e prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+Quanto à dosimetria, oacórdão impugnado está assim fundamentado (fls. 22-23):
+As bases partiram do mínimo.
+Na segunda fase, pela reincidência, foi estabelecido aumento de 1/6.
+Nessa etapa, embora o réu, de fato, fosse menor na data do evento, entendo que deve preponderar a agravante.
+Isso porque, o crime aqui tratado foi praticado dias após o trânsito em julgado da condenação anterior, em relação à qual o recorrente ainda devia cumprir pena, pena esta que já lhe havia sido determinada com contornos mais brandos, justamente em consideração ao seu perfil pessoal, até então, favorável.
+A recidiva em lapso tão breve indica especial descaso para com o ordenamento e certeza de impunidade.
+Em outras palavras, a reiteração na prática delitiva, especialmente nesses casos, demonstra inabilidade de assimilação da terapêutica punitiva e a disposição do agente em seguir trilhando o caminho do crime, cenário este que indica a necessidade de resposta penal mais rígida.
+A hipótese se encaixa na clara a letra do artigo 67 do Código Penal no sentido de que a agravante em tela deve preponderar quando em concurso com circunstâncias atenuantes, por isso, fica mantida a fração eleita pelo Primeiro Grau.
+Na terceira fase, para o roubo foi aplicada a majorante do concurso de agentes na fração mínima.
+Na sequência, pela tentativa, diminuiu-se a pena em 1/3, fração que, de modo algum, admite alteração, posto que, conforme descrito pela magistrada, houve perseguição e reiteradas tentativas de abordagem da vítima, sendo que a ação só cessou a partir do momento em que os réus perceberam que terceiros interviriam.
+Por oportuno, extrai-se da sentença (fl. 29):
+Respeitado o sistema trifásico, fixo a pena-base no mínimo legal, qual seja, 04 anos de reclusão e 10 dias-multa para o delito de roubo, ante a inexistência de circunstâncias judiciais desfavoráveis ao réu.
+Na segunda fase, atestada a reincidência no processo nº 82-46.2017, aumento a pena em 1/6.
+Na terceira fase há o aumento previsto artigo 157, § 2º, inciso II, majoro a pena em 1/3. Reconhecida a tentativa, aplico o redutor no patamar mínimo de 1/3, por entender que o inter criminis foi longamente percorrido. A vítima descreveu que foi perseguida por muito tempo, ficou aterrorizada porque ameaçada pelos agentes, enquanto pilotava sua motocicleta, por vários bairros. O réu e seu comparsa não desistiram da ação facilmente, mesmo diante da fuga engendrada pela ofendida, o quem aumentou ainda mais o seu pânico e trauma depois do evento.
+Ainda nesta fase, em virtude do concurso formal de crimes, aumento a maior pena em 1/6, totalizando 04 (quatro) anos, 10 (dez) meses e 01 (um) dia de reclusão e pagamento de 10 (dez) dias-multa.
+Fixo regime fechado, dada a reincidência do réu.
+Como se vê, em relação à segunda etapa da dosimetria, o Tribunal de origem entendeu "no sentido de que a agravante em tela deve preponderar quando em concurso com circunstâncias atenuantes".
+Com efeito, verifica-se o constrangimento ilegal, porquanto "A confissão espontânea e a menoridade relativa, sendo atributos da personalidade do agente, são igualmente preponderantes com a reincidência e os motivos do delito, consoante disposto no art. 67 do Código Penal" (Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/4/2013, DJe 17/4/2013). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO DUPLAMENTE QUALIFICADO. DOSIMETRIA DA PENA. SEGUNDA FASE. COMPENSAÇÃO INTEGRAL ENTRE A ATENUANTE DA CONFISSÃO ESPONTÂNEA E A AGRAVANTE DO MOTIVO TORPE. POSSIBILIDADE. ATRIBUTOS DA PERSONALIDADE IGUALMENTE PREPONDERANTES. PRECEDENTES. NOVO MONTANTE DA SANÇÃO ESTABELECIDO EM 20 ANOS DE RECLUSÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+- A jurisprudência desta Corte Superior firmou entendimento no sentido de que a confissão espontânea e a menoridade relativa, sendo atributos da personalidade do agente, são igualmente preponderantes com a reincidência e os motivos do delito, consoante disposto no art. 67 do Código Penal (Recurso Especial Representativo de Controvérsia n. 1.341.370/MT, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Terceira Seção, julgado em 10/4/2013, DJe 17/4/2013).
+- Ao analisar os autos, constatei que o Tribunal a quo compensou apenas parcialmente a atenuante da confissão com a agravante do motivo torpe, malgrado a jurisprudência desta Corte a respeito do tema.
+- Desse modo, constatei o patente constrangimento ilegal apontado pela impetrante, e operei a compensação integral entre as referidas agravante e atenuante, ficando a reprimenda do paciente definitivamente estabilizada em 20 anos de reclusão, ante a ausência de causas de aumento ou de diminuição de pena.
+- Agravo regimental não provido.(AgRg no HC 545.726/PE, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/02/2020, DJe 28/02/2020).
+Na terceira fase da dosimetria, a Corte local manteve a aplicação da fração mínima de 1/3 relativa à tentativa, concluindo o juízo sentenciante "que o inter criminis foi longamente percorrido. A vítima descreveu que foi perseguida por muito tempo, ficou aterrorizada porque ameaçada pelos agentes, enquanto pilotava sua motocicleta, por vários bairros. O réu e seu comparsa não desistiram da ação facilmente, mesmo diante da fuga engendrada pela ofendida, o quem aumentou ainda mais o seu pânico e trauma depois do evento".
+Nesse mesmo sentido, o Superior Tribunal de Justiça entende que o quantum de diminuição da pena pela tentativa deve considerar o iter criminis percorrido pelo agente, ou seja, a redução de pena deve ser menor se o agente chegou próximo à consumação do delito (HC n. 223.070/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 19/3/2013).
+No caso, aplicada a fração mínima, diante das circunstâncias postas no acórdão impugnado, a desconstituição das premissas fáticas demandaria a necessidade de revolvimento do conjunto fático-probatório, inadmissível pela via do writ.
+Passo, assim, ao redimensionamento da pena.
+Fixada a pena-base no mínimo legal, em 4 anos de reclusão e 10 dias-multa, a mesma permanece no mesmo patamar na segunda fase da dosimetria, em razão da compensação da agravante da reincidência com a atenuante da menoridade relativa. Na terceira fase, incide, assim como realizado na origem,a redução de 1/3 pela tentativa e, assim, estabelece-se a reprimenda em 2 anos e 8 meses de reclusão e 6 dias-multa. Em razão do concurso formal entre os crimes de roubo majorado e corrupção de menor, a pena foi aumentada em 1/6, o que totaliza 3 anos, 1 mês e 10 dias de reclusão, além de 7 dias-multa.
+Em relação ao regime inicial, verifica-se que foi mantido o regime prisional mais gravoso - o fechado - em virtude da presença de fundamento concreto, qual seja, a reincidência do réu.
+No entanto, em virtude de a pena final se encontrar em patamar não superior a 4 anos, faz jus o recorrente ao regime semiaberto para o cumprimento da pena, nos termos dos arts. 33 e 59 do Código Penal e em harmonia com a orientação das Súmulas 440/STJ, 718 e 719/STF.
+Ante o exposto, concedo o habeas corpus para reduzir a pena do paciente para 3 anos, 1 mês e 10 dias de reclusão, além de 7 dias-multa, no regime inicial semiaberto.
+Comunique-se.
+Publique-se.
+Intimem-se.
