@@ -1,0 +1,13 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CRIMINAL N. 0000215-15.2014.8.11.0030
+RECORRENTE: LETICIA YULI TAKAGUI SOUZA
+LUIZA AKEMI GOMES
+RECORRIDO: MINISTÉRIO PÚBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Devolvam-se os autos à Câmara de origem para o cumprimento da decisão proferida pelo Superior Tribunal de Justiça (Id 99609957).
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
