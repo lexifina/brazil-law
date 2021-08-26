@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Nacional do Seguro Social - INSSdesafiando decisão da Vice-Presidência do Tribunal Regional Federal da 4ª Região, que não admitiu recurso especial sob os seguintes fundamentos: (I)despiciendo o exame da violaçãoao art. 1.022 do Novo CPC,pois, quanto à questão de fundo, o recurso não reúne a necessárias condições de admissibilidade; e (II)o acórdão recorrido foi proferido em consonância com a jurisprudência do Superior Tribunal de Justiça.
+Nas razões do agravo em recurso especial, o INSS alega que:(I) "mesmo que fosse somente por contrariedade ao art. 1.022 do CPC, o recurso especial deveria ter sido admitido"; e(II) não há falar em incidência da Súmula 83/STJ, pois inexistente tese fixada a respeito da temática em comento em sede de recurso especial repetitivo, tampouco enunciado sumular (fl. 253).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Verifica-se que o inconformismo nem sequer ultrapassa a barreira do conhecimento, pois não foi impugnado o motivo adotado pelo Tribunal de origem para negar trânsito ao apelo especial. No caso, como o recurso especial foi inadmitido tendo por base a Súmula 83/STJ, caberia ao recorrente demonstrar que o entendimento jurisprudencial não está pacificado no mesmo sentido do acórdão recorrido, ou, ainda, que o precedente não se aplicaria ao caso dos autos. Nesse sentido: AgIntno REsp 1.396.520/SP, Rel. Ministro Napoleão Nunes Maia Filho, PrimeiraTurma, DJe 13/9/2019.
+Incide, desse modo,por analogia, a Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida.").
+ANTE O EXPOSTO, não conheço do agravo.
+Publique-se.
