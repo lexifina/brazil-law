@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em face de acórdão assim ementado (fl. 34):
+EMENTA: HABEAS CORPUS - TRAFICO DE DROGAS E POSSE DE ARMA DE FOGO SEM AUTORIZAÇÃO E EM DESACORDO COM DETERMINAÇÃO LEGAL - PRISÃO PREVENTIVA - DECISÃO FUNDAMENTADA - PRESENTES OS REQUISITOS DOS ART. 312 E 313 DO CPP - SUBSTITUIÇÃO DA PRISÃO PREVENTIVA POR OUTRA MEDIDA CAUTELAR - IMPOSSIBILIDADE - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVANTES IN CASU - PRINCÍPIO DA PROPORCIONALIDADE - NÃO VIOLADO - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO.
+1- Atendidos os requisitos instrumentais do art. 313 do CPP, bem como presentes os pressupostos e ao menos um dos requisitos do art. 312 do CPP (garantia da ordem pública), deve ser a prisão preventiva mantida, não havendo que se falar em sua revogação, ou mesmo em substituição pelas medidas cautelares diversas da prisão previstas no art. 319 do CPP, pelo fato de estas se revelarem absolutamente insuficientes.
+2- Supostas condições favoráveis, ainda que comprovadas, não impedem a prisão cautelar quando sua necessidade restar evidenciada por outros elementos. Precedentes do STF e STJ.
+3- Análise de regime inicial de cumprimento de pena é impossível em sede de habeas corpus, devendo-se aguardar a fase de prolação de sentença. Não violação do princípio da proporcionalidade.
+Consta dos autos que o paciente foi preso como incurso no artigo 33da Lei 11.343/06 c/c artigo 16, §1º, inciso IV, da Lei n. 10.826/03.
+O impetrante assevera que o decreto não é idôneo, pois ausentes os requisitos do art. 312 do CPP. Afirma que a quantidade apreendida é ínfima - 21 pedras de crack, com peso aproximado de 3,32g, 1 bucha de maconha, com peso aproximado de 1,0g.
+Ademais, informa que o paciente é primário, trabalhador, ostenta bons antecedentes e possui residência fixa.
+Assevera, ainda, que em caso de eventual condenação, será aplicado o § 4º do artigo 33 da Lei n. 11.343/06 e, em relação ao delito previsto no artigo 16, §1º, inciso IV, da Lei n. 10.826/03, o paciente será condenado à pena mínima.
+Destaca, também, a possibilidade de aplicação das medidas cautelares diversas da prisão no presente caso.
+Assim, requer o deferimento da liminar determinando a revogação da prisão preventiva e, subsidiariamente, pugna pela aplicação de medidas cautelares diversas. Ao final, requer a concessão definitiva da ordem.
+A liminar foi indeferida (fls. 325-328).
+As informações foram prestadas (fls. 330-341).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (fls. 344-350).
+De início, a desproporcionalidade do regime em que cumprida a prisão não pode ser aferida antes da dosimetria da pena pela sentença, não cabendo, na via eleita, a antecipação dessa análise. A esse respeito: AgRg no RHC 77.138/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/02/2017, DJe 10/02/2017 e HC 360.342/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.
+O decreto prisional tem a seguinte fundamentação (fls. 42-43):
+Vistos etc.
+JONATHAN SOARES DE SOUZA,. qualificado nos autos, foi preso em flagrante delito, pela suposta prática do delito tipificado no art. 33, da Lei 11.343/06 c/c art.14, da Lei 10.826/03.
+O Ministério Público opinou pela conversão daprisão em flagrante em preventiva.
+A prisão em flagrante preenche os requisitos formais (art. 304 do CPP), visto que os segregados foram apresentados à autoridade policial competente, a qual ouviu os condutores, testemunhas, e realizou o correspondente interrogatório do autuado, lavrando, em seguida, o auto de prisão. Consta, ainda, a via da nota de culpa fornecida ao preso e a nota de ciência e garantias constitucionais. Ademais, a autoridade policial comunicou a prisão no prazo legal (art. 306 do CPP).
+ ..  Primeiramente, verifica-se que há nos autos prova de materialidade e indícios suficientes de autoria, consubstanciado no APFD, conforme se pode extrair dos depoimentos do condutor e da testemunha., além do auto de apreensão, exame preliminar de drogas e laudo de eficiência.
+Pelo laudo toxicológico preliminar, foi constatado que a substância apreendida se comporta como cocaína, sendo 21 invólucros com massa de 3,32g; além de uma porção de maconha, com massa 1g.
+Ademais, foram apreendidos como autuado dinheiro em espécie, uma armade fogo, munição intacta, balança de precisão, aparelho celular e embalagem utilizada para a mercancia do entorpecente.
+Não bastasse isso, encontram-se preenchidos os requisitos estipulados no art. 313, I, do Código de Processo Penal, eis que a pena máxima do delito em comento, supera o limite de 04 (quatro) anos.
+Aliás, levando-se em consideração, ainda, toda a ação policial, que nos leva a crer que supostamente estava praticando o crime que lhe é imputado, é notório que a manutenção de sua prisão preventiva é necessária como meio útil para assegurar a ordem pública.
+O tráfico de drogas é demasiado danoso à sociedade pois as crianças e adolescentes tornam- se alvos fáceis do engambelador traficante. Desnecessário discorrer sobre o mal que as drogas causam ao ser humano, em especial aos adolescentes. Além do que, o tráfico de drogas é prática criminosa denunciadora de alta periculosidade dos seus agentes, devendo ser afastados do convívio social para evitar ameaça à ordem pública e jurídica, evitando também que esta sociedade venha a se sentir desprotegida e atemorizada.
+Assim, em razão do exposto, presentes os requisitos elencados nos artigos 312 e 313, I, ambos do Código de Processo Penal, converto a prisão em flagrante delito de JONATHAN SOARES DE SOUZA em prisão preventiva.
+Como se vê, como adiantado no exame liminar,tem-se que a custódia cautelar apresenta fundamentação idônea, pois o paciente, em tese, transportava e trazia consigo 21 pedras de crack, com peso aproximado de 3,32g, 1 bucha de maconha, com peso aproximado de 1,0g, além de ter sido apreendido dinheiro em espécie, uma arma de fogo com munição intacta, balança de precisão, aparelho celular e embalagem utilizada para a mercancia de entorpecente (fl. 43), o que é indicativo de vivência delitiva.
+No entanto, ao analisar as circunstâncias do caso, os riscos apontados não exigem tão gravosa cautelar como a prisão, pois a quantidade de droga apreendida não se mostra expressiva.
+Cumpre destacar que aalegada vivênciadelitiva, a justificar a custódia,não constana fundamentação exarada pelo magistrado de piso, tratando-se deinovaçãoministerial.
+Com efeito, "a Sexta Turma desta Corte tem entendido que o tráfico flagrado de não relevante quantidade de drogas somente com especialjustificação permitirá a prisão por risco social" (HC 567.850/GO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Assim, para evitar o risco de reiteração delitiva, suficiente é a imposição das seguintes medidas cautelares penais diversas da prisão processual: apresentação a cada 2 meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade;proibição de mudança de domicílio sem prévia autorização judicial, vinculando o acusado aoprocesso; proibição de ter contato pessoal com agentes envolvidos em atividades criminosas, como garantia à instrução e proteção contra à reiteração criminosa.
+Ante o exposto, concedo o habeas corpus para determinar a substituição dacautelar de prisão do paciente pelasmedidas cautelaresacima impostas.
+Comunique-se.
+Publique-se.
+Intimem-se.
