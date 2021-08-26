@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL à decisão de fls. 448/449, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Insurge-se o embargante contra a r. decisão, em seus fundamentos, uma vez que se verifica omissão no tocante à não apreciação da petição destinada a regularizar a representação processual, apresentada às fls. 442/444, que traz a procuração, extraída dos autos da 1ª instância, quando do protocolo da Contestação, que confere poderes aos subscritores do Recurso Especial, suprindo a suposta irregularidade de representação: (fl. 452).
+ ..
+Apenas com a análise dos autos, verifica-se que, a contrário da fundamentação da decisão, esta Embargante não deixou transcorrer o prazo dado para regularização processual. Afinal, a publicação da certidão concedendo o prazo de 5 dias para tal regularização ocorreu em 11/06/2021 (fl. 441) e o protocolo da petição juntando os documentos ocorreu em 17/06/2021 (fl. 442), o que demonstra que a petição foi protocolada tempestivamente (fl. 453).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+No caso, a recorrente, no momento da interposição do recurso, não procedeu à juntada da cadeia completa de procuração e/ou substabelecimento conferindo poderes ao subscritor do recurso especial, Dr. Diego Costa Defana.
+Ademais, percebeu-se, no STJ, haver irregularidade na representação processual do recurso. A parte, embora regularmente intimada para sanar referido vício, de fato, não se quedou inerte. No entanto, não regularizou a representação, uma vez que as procurações juntadas às fls. 443/444 não outorgam poderes ao subscritor do recurso especial. Dessa forma, o recurso não foi devida e oportunamente regularizado.
+Veja-se que apesar de constarem, na petição do recurso especial, os nomes dos advogados Dr. João André Sales Rodrigues, Luiz Ricardo de Castro Guerra, Fabian Andrade de Carvalho e Maria Cecília Pontes Macial, quem assinou fisicamente o recurso foi o Dr. Diego Costa Defana (fls. 386 e 395), que não tem procuração nos autos.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
