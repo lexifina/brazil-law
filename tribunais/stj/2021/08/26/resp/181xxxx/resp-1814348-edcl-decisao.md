@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de embargos de declaração interpostos pelaAssociação Nacional dos Contribuintes de Tributos,desafiando a decisão monocrática de e-STJfls. 1.515-1.521, por meio da qual se conheceu em parte do recurso especial, negando-lhe provimento.
+Em suas razões, a embargante aponta a existência deomissãona decisão combatida, quanto à demonstração incontroversa de violação dos arts. 502 e 503do CPC/2015, aduzindo que o fundamento utilizado no acórdão recorrido é idêntico ao que fora reformado por esta Corte Superior no julgamento do REsp 1.567.160/RS.
+Também reputa omissa a decisão monocrática no que tange à demonstração incontroversa da violação do art. 21 da Lei n. 12.016/2009, "que prevê a possibilidade de associação legalmente constituída a mais de um ano, impetrar mandado de segurança coletivo, em defesa dos interesses de seus filiados, sendo, para tanto, desnecessária a juntada da lista nominal de filiados, eis que o v. acórdão a quo negou provimento ao recurso de apelação da embargando, sob o argumento de que há necessidade de comprovação da existência de filiados substituídos para caracterizar o interesse processual, comprovação essa, com já esclarecido antes, que só pode ser realizada com a juntada da lista de associados-substituídos com seus respectivos endereço" (e-STJfl. 1.531).
+Requer, assim, o acolhimento dos embargos de declaração, com efeitos infringentes, para que seja provido orecurso especial.
+Sem impugnação aos aclaratórios.
+É orelatório.
+Do exame da decisão embargada, infere-se não assistir razão à embargante.
+Como já registrado na primeira oportunidade, o comando da decisão proferida nos autos do REsp 1.550.883/RS, para desobrigar a interessada de apresentar a listagem com autorização dos associados substituídos, não se confunde com a necessidade indicada pelo Juízo primário, de apresentação de prova quanto à existência de associados com domicílio tributário abrangido pela jurisdição fiscal da autoridade impetrada.
+No mais,não há como se chegar a conclusão diversa daquela do Tribunal de origem, acerca da legitimidade da associação, sem que se proceda a novo exame do acervo fático-probatório constante dos autos, providência que encontra óbice na Súmula 7/STJ.
+Frise-se, mais uma vez, que o mesmo entendimento foi aplicado em outros recursos especiais formalizados pela mesma associação ora insurgente, como se pode conferir nos seguintes pronunciamentos monocráticos: REsp 1.929.251, Rel. Min. Regina Helena Costa, DJe 25/5/2021; REsp 1.862.205, Rel. Min. Benedito Gonçalves, DJe 25/5/2021; REsp 1.931.660, Rel. Min. Sérgio Kukina, DJe 6/5/2021; REsp 1.895.926, Rel. Min. Gurgel de Faria, DJe 29/4/2021; AREsp 1.814.964, Rel. Min. Humberto Martins, DJe 13/4/2021; REsp 1.913.888, Rel. Min. Herman Benjamin, DJe 5/4/2021.
+Desse modo, não prospera a assertiva de ser omissa, obscura ou contraditória a decisão ora embargada, como também não contém erro material.
+Inexistindo, portanto, vício a ser dissipado, constata-se a pretensão exclusiva de rediscutir a causa, a fim de modificar a decisão embargada, o que não se coaduna com oâmbitodos aclaratórios.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
