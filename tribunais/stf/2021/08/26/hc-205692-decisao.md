@@ -1,0 +1,36 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Alex Galanti Nilsen, em favor de Vinicius dos Santos Pereira, contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça, nos autos do HC 665.058/SP.
+    Colho da decisão impugnada:
+    “Consta dos autos que o paciente foi condenado - em decisão já transitada em julgado - pela prática do crime previsto nos arts. 33, caput, da Lei n. 11.343/2006.
+    A defesa pleiteia, em síntese, a absolvição do réu sob o fundamento de que a condenação é contrária à prova dos autos ou a desclassificação do delito para o crime do art. 28 da Lei de drogas. (eDOC 7)
+    No STJ, o habeas corpus foi indeferido liminarmente em 13.5.2021. Não houve interposição de agravo regimental.
+    Nesta Corte, o impetrante insiste nos pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Inicialmente, registro que, ao contrário do que afirma o impetrante, a autoridade coatora não é o Superior Tribunal de Justiça, mas o Ministro Schietti. Isso porque o mérito da controvérsia não foi apreciado pelo colegiado do Superior Tribunal de Justiça, de modo que a apreciação por esta Corte resultaria em supressão de instância.
+    É que, ausente pronunciamento colegiado naquele Tribunal, não houve lá esgotamento da instância. Sem o esgotamento da instância, a análise por esta Corte resulta em sua supressão. Cito precedentes:
+    “Agravo regimental no habeas corpus. 2. Habeas corpus que impugna decisão monocrática de mérito proferida por Ministro do Superior Tribunal de Justiça. Supressão de instância. Ausência de pronunciamento colegiado. Necessidade de interposição de agravo regimental. 3. Superação do óbice possível apenas nos casos de flagrante ilegalidade. Não ocorrência no caso concreto. 4. Agravo não provido”. (AgR no HC 184.614, de minha relatoria, Segunda Turma, DJe 16.6.2020)
+    “Agravo regimental no habeas corpus. 2. Habeas corpus impetrado contra decisão monocrática proferida por Ministro de Tribunal Superior. Supressão de instância. Não há manifesta ilegalidade no caso concreto a autorizar a concessão da ordem. 3. Abrandamento de regime e substituição da pena privativa de liberdade por restritiva de direitos. Impossibilidade. Reincidência inespecífica. Irrelevância ao caso concreto. 4. Fixação de regime mais gravoso e negativa de substituição da pena corporal devidamente fundamentadas. 5 Agravo improvido”. (AgR no HC 180.489, de minha relatoria, Segunda Turma, DJe 14.4.2020)
+    De pronto, registro que o impetrante é o mesmo advogado que manejou habeas corpus no STJ e que, em 13.5.2021, conformou-se com a decisão lá proferida, vez que não interpôs qualquer recurso.
+    É bem verdade que, em casos de manifesta e grave ilegalidade, tais entendimentos podem ser flexibilizados, inclusive por meio da concessão da ordem de ofício, o que não é o caso dos autos.
+    O impetrante diz que o paciente não praticou qualquer núcleo do tipo do artigo 33 da Lei de Drogas. Vejamos:
+    Art. 33. Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar:
+    Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa.
+    Observem-se trechos do ato impugnado:
+    A Corte de origem, por ocasião do julgamento da revisão criminal, destacou:
+    Com efeito, o pleito revisional ora deduzido renova as razões que orientaram a r. sentença de lavra da 32ª Vara Criminal de São Paulo, sem apontar novas provas, o que, segundo remansosa jurisprudência, impede o deferimento da revisão. O peticionário obtivera a resposta jurisdicional e se vale do presente instrumento processual como uma apelação, buscando reapreciação do acervo probatório que, como cediço, é inviável em sede recursal.
+    Sem trazer qualquer prova nova, impossível a desconstituição da pretérita decisão. [...]
+    Em que pese o esforço da nobre defesa, as declarações dos policiais responsáveis pela prisão em flagrante na hipótese dos autos não apresentaram qualquer indício de parcialidade. Os milicianos agiram com lisura e detiveram o revisionando transportando em seu veículo 320 Kg de “maconha” com destino à comunidade Paraisópolis. Além disso, segundo o entendimento jurisprudencial prevalente, as palavras dos policiais são meio idôneo para a prolação de édito condenatório, desde que em conformidade comas demais provas dos autos e colhidos sob o crivo do contraditório e da ampla defesa, o que representa a hipótese dos autos, inclusive pelaconfissão do revisionando.
+    Como se observa, a Corte estadual salientou que o acusado não trouxe qualquer prova nova, já havendo sido consignado que o paciente foi detido transportando em seu veículo 320 Kg de “maconha” com destino à comunidade Paraisópolis, sem qualquer indício de parcialidade pelos responsáveis pela prisão em flagrante.
+    Portanto, uma vez que, tanto por ocasião da sentença condenatória quanto no julgamento da apelação, houve uma análise minudente e profunda dos elementos probatórios colacionados aos autos, em que se demonstraram os motivos pelos quais a condenação do acusado seria substancialmente justa e harmônica com as provas produzidas, não há razões para o processamento deste writ. (eDOC 7)
+    Como se vê, registrou o Tribunal de Justiça que o paciente foi preso ao transportar 320kg de maconha. Transportar é um dos núcleos do tipo do artigo 33.
+    Afirma o impetrante que o transporte de 320 kg de maconha não é certeza da prática do tipo do artigo 33. Ausente a certeza, alega que a dúvida beneficia o paciente.
+    A tese trazida neste writ contrasta com o depoimento do paciente realizado em Juízo, verbis:
+    “O Réu Vinicius declarou que trabalha com uber recebendo uma ligação de uma pessoa chamada Rogério para fazer um tansporte de roupa, que distribui cartão pela comunidade. Que Rogerio relatou que precisava pegar uma carga de roupa na região do Grajau, requerendo um encontro pessoal. Que nesse encontro Rogerio relatou que o transporte era de drogas e perguntou se ele aceitaria. Que receberia R$ 1000,00 pelo transporte, que não sabia da quantidade e que fora informado de que seriam 6 caixas. Que era para ele se encontrar com uma pessoa na Av. Atlântica. Que após esse encontro, seguiu o motorista e pararam o carro após uns 2 km e fizeram o tranbordo da carga e teria que voltar para a comunidade do Paraisopolis. Quando estava na Marginal recebeu voz de parada e por ter ciência do que transportava ficou com medo de parar e por isso fugiu. Que ele entregaria essa carga dentro do Paraisópolis...” (eDOC 3, p. 10)
+    Como se vê, o paciente confessou, em Juízo, que receberia R$ 1.000,00 para transportar a droga. Nesta Corte, mudou a versão e alega que não há prova do crime ou, se houve, seria aquele previsto no artigo 28.
+    Não há, assim, margem para o acolhimento do pedido.
+    Ante o exposto, nego seguimento ao habeas corpus. (art. 21, § 1º, RISTF)
+    Publique-se.
+    Brasília, 26 de agosto de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
