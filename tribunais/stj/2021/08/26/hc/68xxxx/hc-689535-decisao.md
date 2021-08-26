@@ -1,0 +1,18 @@
+DECISÃO
+EVERTON DA SILVA DUARTE alega ser vítima de coação ilegal em decorrência de decisão proferida por Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu liminarmente o HC n. 2173930-93.2021.8.26.0000.
+Busca a impetrante a superação do óbice contido na Súmula n.691 do STF, para que concedida ao paciente a progressão ao regime semiaberto, independentemente da realização de exame criminológico.
+Decido.
+Depreende-se dos autos que a autoridade apontada como coatora não conheceu, monocraticamente, do mandamus lá impetrado, porquanto, "para atacar a decisão hostilizada, existe recurso específico, qual seja, o de agravo em execução - já interposto -, previsto no art. 197 da LEP, oportunidade em que as alegações defensivas poderão ser amplamente suscitadas e apreciadas, o que se mostra impossível na via estreita do writ" (fl. 74, destaquei).
+Entretanto, deve-se frisar que não houve a interposição de agravo regimental, de modo a oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior, ônus de que a parte não se desincumbiu de realizar.
+Dessa forma, em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste writ.
+Nesse passo, por todos:
+ ..
+1. O inconformismo dirigido contra decisão de Desembargador que, ao analisar o habeas corpus, indefere liminarmente o writ, deve ser o recurso de agravo regimental para oportunizar o debate do tema pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior.
+2. Em creditamento às instâncias ordinárias, que primeiro devem conhecer da controvérsia, para, então, ser inaugurada a competência do Superior Tribunal de Justiça, fica inviabilizado o conhecimento deste mandamus.
+3. Agravo regimental não provido.
+(AgRg no HC n. 399.172/MA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 1º/8/2017)
+Ademais, destaco que o Superior Tribunal de Justiça, na esteira do que vem decidindo o Supremo Tribunal Federal, tem restringido o uso do remédio constitucional em substituição ao recurso próprio (apelação, agravo em execução, recurso especial), tampouco à revisão criminal, ressalvadas as situações em que, à vista da flagrante ilegalidade do ato apontado como coator, em prejuízo da liberdade do paciente, seja cogente a concessão, de ofício, da ordem de habeas corpus.
+Vale dizer, o habeas corpus, cuja tutela emergencial recai sobre a liberdade de locomoção, é cabível quando houver manifesta ilegalidade que reflita diretamente na liberdade do indivíduo. Essas, aliás, eram as ideias apregoadas por Pontes de Miranda, ao afirmar que a pendência de recurso próprio não impede a impetração de habeas corpus quando se tratar de flagrante ilegalidade, com reflexos diretos na liberdade individual. Afinal, "o habeas corpus é remédio; não é recurso" (História e Prática do Habeas Corpus. 3. ed. Campinas: Bookseller, 2007, p. 292).
+Não se discute que, no caso, as questões levantadas no habeas corpus impetrado na origem poderão ocasionar reflexos imediatos em sua liberdade de locomoção. Contudo, conforme consta no decisumimpugnado, a defesa interpôs agravo em execução, de maneira que, embora seja passível a análise, em habeas corpus, da matéria aventada neste writ, considero razoáveis as ponderações feitas pela Corte de origem, de que a apreciação dessa questão implica considerações que, em razão da sua amplitude, merece ser mais bem examinada em recurso próprio (já interposto, frise-se).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
