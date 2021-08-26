@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por RICARDO SILVA FRANCO eMARCELO FREIRE FRANCO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 539):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL - SIMILITUDE FÁTICA - DEMONSTRAÇÃO - AUSÊNCIA - DELIBERAÇÃO MONOCRÁTICA QUE INDEFERIU O PROCESSAMENTO DOS EMBARGOS DE DIVERGÊNCIA. INSURGÊNCIA DOS EMBARGANTES.
+1. A simples transcrição da ementa do aresto apontado como divergente, sem que o embargante tenha realizado a necessária confrontação analítica dos acórdãos não tem o condão de demonstrar, de modo inequívoco, as circunstâncias que identificariam ou assemelhariam os casos confrontados, de modo a viabilizar o processamento dos embargos de divergência, nos termos dos arts. 1.043, § 4.º do CPC e 266, § 4.º do RISTJ. Precedentes: EDcl no AgRg nos EAg 1371617/MS, Rel. Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 01/07/2014, DJe 05/08/2014; AgRg nos EAg 1240495/MS, Rel. Ministro CASTRO MEIRA, CORTE ESPECIAL, julgado em 02/05/2012, DJe 15/05/2012; AgRg nos EREsp 1196175/ES, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 02/05/2012, DJe 15/05/2012.
+2. Agravo interno desprovido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fls. 568/573).
+Sustentam os recorrentes a existência de repercussão geral da matéria e apontam a violação do art. 5º, inciso LV, da Constituição Federal.
+Aduzem que esta Corte ofendeu o princípio da ampla defesa ao indeferir liminarmente os embargos de divergência sob o fundamento de que foram apresentados para modificar o entendimento da Turma.
+Alegam que a questão suscitada nos aclaratórios não foi esclarecida, pois este Tribunal Superior"não justificou onde estaria a falta de cotejo analítico nos embargos de divergência, e ainda mais, nada ponderou acerca das omissões tidas como essenciais ao julgamento da presente lide, e que era justamente a semelhança entre os arestos" (e-STJ fl. 583).
+Requerema admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 595/615.
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa edo devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa ao princípio da ampla defesa depende da análise do art. 1.043 do Código de Processo Civil edo art. 266 do Regimento Interno do Superior Tribunal de Justiça,razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AO PRINCÍPIO DA AMPLA DEFESA. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
