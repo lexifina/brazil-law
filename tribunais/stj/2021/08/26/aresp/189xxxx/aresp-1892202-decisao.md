@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de Agravo Interno interposto pelo Município do Rio de Janeiro, contra a
+decisãoda presidência dessa Corte que nãoconheceu do agravo em recursoespecialpor ausência de impugnação dos fundamentos da decisãodeinadmissibilidade.
+Nas razões do agravo, sustenta-se que todos osfundamentosforamdevidamente impugnados no agravo.
+É o relatório.
+Necessário consignar que o presente recurso atrai aincidênciadoEnunciadoAdministrativo 3/STJ: "Aos recursos interpostoscomfundamentono CPC/2015(relativos a decisões publicadas a partir de 18demarço de2016) serãoexigidos os requisitos de admissibilidade recursalnaforma donovo CPC".
+Com razão oagravante porquanto impugnados a contentotodos osfundamentosque lastrearam a inadmissão do especial.
+No caso, foi interposto recurso especial com fundamentonaalínea"a"dopermissivo constitucional, contra acórdão do Tribunal deJustiça doEstado do Rio de Janeiro, assim ementado:
+APELAÇÃO. AÇÃO DE REPETIÇÃO DE INDÉBITO. ISSQN. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. ATIVIDADE DE ELABORAÇÃO DE PROGRAMAS DE COMPUTADORES, SOFTWARE. PARTE AUTORA COM SEDE NO MUNICÍPIO DE SÃO PAULO QUE ALEGA RETENÇÃO INDEVIDA DE ISSQN PELA TOMADORA DE SERVIÇOS EM FAVOR DO MUNICÍPIO DO RIO DE JANEIRO. BITRIBUTAÇÃO. PRETENSÃO AUTORAL DE REPETIÇÃO DOS VALORES RETIDOS EM FAVOR DO MUNICÍPIO RÉU. SENTENÇA DE PROCEDÊNCIA. MANUTENÇÃO. CABÍVEL O RECOLHIMENTO DO IMPOSTO NO LOCAL DO ESTABELECIMENTO DO PRESTADOR. ATIVIDADE DESENVOLVIDA PELA AUTORA NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES DE EXCEÇÃO, APLICANDO-SE AO CASO A REGRA GERAL DO CAPUT DO ART. 3o DA LC 116/03, RECONHECENDO-SE COMO COMPETENTE PARA A COBRANÇA DO ISSQN O MUNICÍPIO DE SÃO PAULO. INCLUSÃO DA PRESTADORA NO CEPOM - CADASTRO DE EMPRESAS PRESTADORAS- POSTERIOR À RETENÇÃO TRIBUTÁRIA REALIZADA PELA TOMADORA DE SERVIÇOS OBRIGAÇÃO ACESSÓRIA PREVISTA NO ART.14-A DA LEI 691/1984 (CÓDIGO TRIBUTÁRIO MUNICIPAL). MEDIDA QUE VISA COIBIR A EVASÃO FISCAL. HIPÓTESEDE BITRIBUTAÇÃO E NÃO DE EVASÃO FISCAL. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram eles rejeitados.
+Nas razões de recurso especial, aponta a parte recorrente ofensaarts. 113, §§ 2º e 3º, e 128 do Código Tributário Nacional e arts. 3º, 4º e 6º da Lei Complementar n. 116/03, sustentando não há ilegalidade na estipulação das regras do Cadastro de Empresas Prestadoras de Outros Municípios(CEPOM) com relação à obrigatoriedade do cadastramento de prestadores de serviços, sob pena de retenção na fonte do ISS pelo tomador dos serviços.
+Houve contrarrazões (e-STJ fls. 417/430).
+Passo a decidir.
+Cuida-se, na origem,de ação de restituição de valor proposta pela ora recorridana qual a parte autora alegouque se dedica, dentre outras, à atividade de elaboração de programas de computadores, softwares, de forma que exerce atividade submetida à incidência do Imposto sobre Serviços de Qualquer Natureza (ISSQN).
+A municipalidade recorrente argumentou ser indevida a repetição do indébito em virtude do descumprimento de obrigação acessória.
+O aresto combatido entendeu que, no caso concreto, não houve evasão fiscal a justificar o cadastro da recorrida junto ao CEPOM, mas bitributação.
+A insurgência não comporta acolhida.
+Isso porque, a obrigação acessória em questão restou instituída pela Lei Municipal n. 4.452/06 (Código Tributário Municipal).
+Dessa forma, a pretensão recursal no sentido de que não há ilegalidade nas regras do CEPOM exige, necessariamente, o exame da legislação local que o instituiu. Tal pretensão esbarra, portanto, no óbice da Súmula n. 280/STF.
+Exemplificativamente, cito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL.DECRETOS ESTADUAIS 45.515/20010 E 46.488/2014 QUE ALTERARAM O RICMS/MG. ALEGAÇÃO DE VIOLAÇÃO AO ART. 152 DA CF/1988 E ART. 11 DO CTN. MATÉRIA CONSTITUCIONAL. ANÁLISE DE LEI LOCAL. SÚMULA 280 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. A controvérsia na origem consiste em saber se a vigência dos Decretos Estaduais 45.515/2010 e 46.488/2014, ao alterarem o Anexo IV do RICMS/MG, instituindo benefícios fiscais alusivos à redução da base de cálculo e ao creditamento presumido exclusivamente aos produtos comestíveis e industrializados no âmbito estadual, viola o art. 152 da CF/1988 e o art. 11 do CTN.
+2. A parte agravante insiste nos mesmos argumentos já analisados na decisão recorrida, não impugnado, especificamente, os fundamentos da decisão atacada, notadamente quando se aplicou a Súmula 280 do STF.
+O STJ tem firme posicionamento segundo o qual a falta de combate a fundamento suficiente para manter a decisão recorrida justifica a aplicação, por analogia, das Súmulas 283 e 284 do Colendo Supremo Tribunal Federal.
+3. Constata-se que não se configurou a ofensa ao art. 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou a controvérsia. Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+4. Verifica-se que a análise do Recurso Especial demanda o enfrentamento de matéria constitucional, já que, embora o art. 11 do CTN trate da mesma matéria constante no art. 152 da CF/1988, não há como acolher a pretensão recursal, em Recurso Especial, pois as normas inscritas na Constituição Federal não perdem a natureza constitucional em virtude de eventual reprodução na legislação infraconstitucional.
+5. Deve ser ressaltado que a análise sobre a suposta violação ao art. 11 do CTN importa em interpretação de legislação estadual (art.2º, incisos II e III, do Decreto 45.515/2010; art. 2º do Decreto 46.488/2014 e Anexo IV, item 19,  e , do RICMS/MG), o que não pode ser objeto de análise em Recurso Especial em razão do óbice na Súmula 280 do STF.
+6. Por fim, se a legislação estadual, alegadamente, ao prever benefícios fiscais com discriminação em virtude da origem dos produtos, ofende o art. 11 do Código Tributário Nacional, está-se diante de alegação de violação de lei federal por lei estadual, cuja competência para análise é do Supremo Tribunal Federal, conforme o art. 102, III,  d , da Constituição Federal.
+7. Agravo Interno não provido.
+(AgInt no REsp 1914130/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2021, DJe 01/07/2021)
+Ante o exposto, com fulcro no art. 1.021, § 2º, do CPC/2015 c/coart.259do RISTJ, conheço do agravo interno para, em juízo deretratação,reconsiderar a decisão agravada, a fim de conhecer do agravoparanãoconhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EMRECURSOESPECIAL.ENUNCIADOADMINISTRATIVO N. 3/STJ. OBRIGAÇÃO ACESSÓRIA PREVISTA EM LEGISLAÇÃO MUNICIPAL. LEGALIDADE. SÚMULA N. 280/STF. AGRAVO INTERNO CONHECIDO PARA,EM JUÍZODE RETRATAÇÃO,CONHECER DO AGRAVO PARA NÃO CONHECERDORECURSOESPECIAL.
