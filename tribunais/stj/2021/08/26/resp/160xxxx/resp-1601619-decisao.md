@@ -1,0 +1,86 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por HAPVIDA ASSISTENCIA MEDICA LTDA, com fundamento no art. 105, III, a e c, da Constituição da República, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO RIO GRANDE DO NORTE, assim ementado:
+CIVIL. CONSUMIDOR. APELAÇÃO CÍVEL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS E MATERIAIS. PLANO DE SAÚDE. PACIENTE EM ESTADO GRAVE COM DOENÇA SEM DIAGNÓSTICO PRÉVIO. NECESSIDADE DE PROCEDIMENTOS MÉDICOS E INTERNAÇÃO DE EMERGÊNCIA. INDICAÇÃO MÉDICA. RISCO DE MORTE. PROCEDIMENTO NEGADO SOB ALEGAÇÃO DO NÃO CUMPRIMENTO DO PRAZO DE CARÊNCIA. EMERGÊNCIA CARACTERIZADA NOS TERMOS DO ART. 35, C, DA LEI DOS PLANOS DE SAÚDE. PRAZO DE CARÊNCIA DE 24 (VINTE QUATRO) HORAS, ESTIPULADO NO CONTRATO E PREVISTO NO ARTIGO 12, V, C DA LEI DE Nº 9.656/98. DIREITO À VIDA. DEVER DE ATENDIMENTO INTEGRAL. ÓBITO DA PACIENTE. DANOS MORAIS CONFIGURADOS. PRECEDENTES DESTA CORTE E DO STJ. REDUÇÃO DO QUANTUM ARBITRADO A TÍTULO DE DANO MORAL EM OBSERVÂNCIA AOS PRINCÍPIOS DA RAZOABILIDADE E PROPORCIONALIDADE. CONHECIMENTO E PROVIMENTO PARCIAL DO APELO.
+Opostos embargos de declaração pelos ora recorridos, foram rejeitados.
+Em suas razões recursais (fls. 388-402), aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos arts. 11 e 12, V, alínea "b", da Lei 9.656/1998, 333 do CPC/1973, 186 e 927 do Código Civil.
+Alega que a parte recorrida não se desincumbiu de provar o dano moral em decorrência da conduta adotada pela recorrente e que esta teria autorizado tudo o quanto necessário em consonância com a legislação federal que rege a atuação dos planos de saúde. Aduz a legalidade no cumprimento dos prazos de carência e cobertura parcial temporária para lesão anteriores a adesão ao contrato. Afirma que não houve ato ilícito, porquanto teria agido no exercício regular de direito e que o simples inadimplemento contratual não gera dano moral.
+Insurge, ainda, contra o valor da indenização por danos morais na quantia de R$ 50.000,00 (cinquenta mil reais), pleiteando sua redução.
+Pede, ao fim, a exclusão ou a redução da indenização por danos morais.
+Contrarrazões ao recurso especial às fls. 566-588.
+Crivo parcialmente positivo de admissibilidade na origem (fls. 614-615).
+É o relatório.
+DECIDO.
+2. Quanto à pretensão de afastamento dos danos morais por alegada inexistência de ato ilícito, falta de comprovação dos danos morais e legalidade da conduta da parte recorrente, a irresignação não prospera.
+Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos, concluiu que a parte recorrida faz jus àindenização por danos morais ante a recusa indevida da parte recorrente de prestar atendimento integral à genitora dos recorridos em caso de emergência, vindo posteriormente a óbito, tendo o acórdão a seguinte fundamentação:
+"Na hipótese, a Sra. Josefa Nogueira necessitou de assistência médica e, ao procurar atendimento perante o Hospital de propriedade do Plano de Saúde demandado nos dias 24 e 26 de março de 2007, recebeu atendimento ambulatorial, ou seja, por um período de 12 horas, sendo liberada, em seguida, tendo em vista que o contrato celebrado apenas autorizava tal atendimento, conforme informa o Plano de Saúde Apelante às fls. 224 e, retornando ao Hospital no dia 12/04/2007, o médico assistente solicitou sua internação na UTI (fls. 62), cuja autorização veio de ser negada pelo Plano de Saúde, sob o argumento do cumprimento de carência.
+Diante da negativa pelo Plano de Saúde, a mãe dos autores foi transferida para a UTI do Hospital Onofre Lopes em data de 13/04/2007, pelos próprios familiares, em veículo particular, vindo a falecer no dia seguinte, por "falência de múltiplos órgãos e insuficiência renal aguda e pneumonia", conforme informa o documento de fls. 68.
+Destarte, em se tratando de casos emergenciais, cujas doenças impliquem em risco de vida ao segurado, o prazo de carência é de 24 (vinte e quatro horas), mesmo que o paciente esteja em período de carência para os demais serviços médico-hospitalares cobertos pelo plano, sendo vedada a limitação de prazo de carência, quando houver internação hospitalar.
+Nesta situação especial, se enquadra o caso sub examine, tendo em vista que o conjunto probatório acostado aos autos, precisamente no Prontuário Médico de fls. 62, comprova que o Médico Assistente solicitou a internação da Sra. Josefa na UTI do Hospital demandado em data de 13/04/2007, há 1:45 min e, por estar cumprindo carência, a mesma foi mantida por apenas doze horas na enfermaria daquele nosocômio, sendo obrigada a ser transferida para outro Hospital, pelos próprios familiares, onde veio a óbito no dia seguinte.
+Ora, ainda que em período de carência, o quadro clínico de saúde apresentado pela usuária exigia o cumprimento integral do contrato, tendo em vista a gravidade que o mesmo revelava, especialmente considerando a solicitação de internação na UTI, pelo Médico que assistia a Sra. Josefa e, ainda assim, a mesma ficou mantida por doze horas na enfermaria, aguardando transferência para um outro Hospital, pelos próprios familiares, já que o Plano de Saúde sequer, autorizou a utilização de ambulância, embora tenha alegado o contrário, sem, contudo, fazer provas a este respeito.
+A Apelante tinha a obrigação de autorizar o atendimento emergencial, tomando as providências necessárias para salvaguardar a saúde e a vida da usuária, mas não o fez, sob o argumento do cumprimento de carência.
+Logo, não há como acolher a tese recursal referente à carência do plano de saúde, pois o caso era de emergência.
+ ..
+Quanto a alegada preexistência da doença, igualmente não há provas nos autos de que a Sra. Josefa tinha conhecimento que se encontrava acometida de LUPUS antes de contratar com o demandado.
+O fato da mesma ter tido ciência da doença à partir das internações ocorridas no Hospital de propriedade do Plano demandado, não deduz que a mesma ou os autores, possuíam tal conhecimento.
+Assim, o ônus da prova caberia ao Apelante, o qual quedou-se a respeito.
+Cumpre salientar, ainda, que o bem jurídico que se pretende tutelar é da maior importância, concernente à própria vida da paciente, cuja proteção decorre de imperativo constitucional que resguarda, no art. 1º, III, a dignidade da pessoa humana, e deve sobrepor-se ao direito eminentemente pecuniário.
+A tutela do direito buscado emerge, também, do Código de Defesa do Consumidor e do Código Civil, garantidores do princípio da boa-fé objetiva, que remete à imposição de deveres aos contratantes, especialmente o de resguardar os direitos das pessoas com quem se contrata.
+Dessa forma, caracterizada a obrigação do plano de saúde de autorizar a internação da Sra. Josefa Elione Nogueira da Siva, cabe analisar a configuração do dano moral.
+Com efeito, o dano moral é evidente, uma vez que, em razão da não autorização da internação pela Apelante, a mãe dos autores e os seus familiares, em um momento de extremo perigo para sua saúde, e com certeza muito fragilizados emocionalmente, foram obrigados a conviver com uma angústia extra.
+Desse modo, evidenciado o ato ilícito e o nexo de causalidade entre aquele e o dano, surge a responsabilidade civil para reparar os danos decorrentes do ilícito praticado.
+Vale dizer que o dano moral dispensa a prova cabal do efetivo prejuízo e, em se tratando de relação de consumo, da culpabilidade do fornecedor do serviço, porquanto a sua responsabilidade é objetiva, nos termos do art. 12 do CDC."
+Resta claro que a convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS. PLANO DE SAÚDE. STENTS FARMACOLÓGICOS. IMPLANTAÇÃO. SITUAÇÃO DE URGÊNCIA. FUNDAMENTO NÃO ATACADO. SÚMULA Nº 283/STF. DANO MORAL.CONFIGURAÇÃO. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+ ..
+3. Na hipótese, rever a conclusão do aresto impugnado acerca da configuração do dano moral encontra o óbice da Súmula nº 7 do Superior Tribunal de Justiça.
+4. Agravo interno não provido.
+(AgInt no AREsp 1413869/CE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/10/2019, DJe 17/10/2019)
+___________
+PROCESSUAL CIVIL. ADMINISTRATIVO. FORNECIMENTO DE MATERIAIS PARA PROCEDIMENTO CIRÚRGICO. INEXISTÊNCIA DE VIOLAÇÃO DO ART. 535, INCISOS I e II, DO CPC/73. DANO MORAL EXISTENTE. REVISÃO. REEXAME DE PROVA. SÚMULA N. 7 DO STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E IMPROVIDO.
+ ..
+II - Havendo o Tribunal de origem, com base no acervo fático-probatório dos autos, concluído que ficou comprovado o caráter emergencial do procedimento cirúrgico; que a natureza da intervenção foi indicada pelo médico da parte recorrida, como a melhor técnica considerando sua idade avançada; e, ainda, que ficou configurado dano moral a ser reparado, a inversão do julgado implicaria, necessariamente, no reexame das provas carreadas aos autos, o que é vedado na instância especial ante o óbice do enunciado n. 7 da Súmula do STJ.
+III - Agravo interno improvido.
+(AgInt no AREsp 1016832/RJ, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 19/09/2017, DJe 25/09/2017)
+___________
+Ademais, considerando a moldura fática delineada no acórdão recorrido, verifica-se que o entendimento da Corte local está em conformidade com a jurisprudência do STJ.
+É assente nesta Corte Superior que"a cláusula de carência do contrato de plano de saúde deve ser mitigada diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e razão de ser do negócio jurídico firmado". Ademais, "a recusa indevida de tratamento médico - nos casos de urgência - agrava a situação psicológica e gera aflição, que ultrapassam os meros dissabores, caracterizando o dano moral indenizável" (AgInt no AREsp 892.340/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 9/8/2016, DJe 16/8/2016).
+Também nesse sentido:
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. NEGATIVA DE AUTORIZAÇÃO PARA TRATAMENTO DE EMERGÊNCIA DE DOENÇA GRAVE. PERÍODO DE CARÊNCIA. CLÁUSULA ABUSIVA. DANO MORAL CONFIGURADO. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte é no sentido de que o mero descumprimento contratual não enseja indenização por dano moral. No entanto, nas hipóteses em que há recusa de cobertura por parte da operadora do plano de saúde para tratamento emergencial, como ocorrido no presente caso, em que a autora buscava realizar procedimento para tratamento de câncer, a orientação desta Corte é assente quanto à caracterização de dano moral, não se tratando apenas de mero aborrecimento.
+2. A cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência
+3. Agravo interno não provido. (AgInt no AREsp 872.156/CE, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 07/03/2017, DJe 20/03/2017)
+_____________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SITUAÇÃO DE EMERGÊNCIA OU URGÊNCIA. MITIGAÇÃO DO PRAZO DE CARÊNCIA. PROTEÇÃO DA VIDA. RECUSA INDEVIDA. DANO MORAL. DECISÃO MANTIDA.
+1. "A cláusula de carência do contrato de plano de saúde deve ser mitigada diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e razão de ser do negócio jurídico firmado" (AgInt no AREsp 892.340/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 09/08/2016, DJe 16/08/2016).
+2. A recusa indevida da operadora de plano de saúde a autorizar o tratamento do segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia do segurado, comprometido em sua higidez físico-psicológica pela enfermidade.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 949.288/CE, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 20/10/2016, DJe 24/10/2016)
+_____________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. EMERGÊNCIA. RECUSA NO ATENDIMENTO. PRAZO DE CARÊNCIA. CLÁUSULA. ABUSIVIDADE. PRECEDENTES. SÚMULA Nº 568/STJ. INCIDÊNCIA.
+1. Esta Corte Superior firmou o entendimento de que o período de carência contratualmente estipulado pelos planos de saúde não prevalece diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e a razão de ser do negócio jurídico firmado. Incidência da Súmula nº 568/STJ.
+2. Agravo interno não provido. (AgInt no AREsp 858.013/DF, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 09/08/2016, DJe 16/08/2016)
+_____________
+Ressalta-se que a jurisprudência do STJ é no sentido de que há caracterização do dano moral quando a operadora do plano de saúde se recusa à cobertura do tratamento médico emergencial ou de urgência, como no caso dos autos.
+Confira-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE INTERNAÇÃO. PRAZO DE CARÊNCIA. URGÊNCIA. RECUSA INDEVIDA. DANO MORAL CONFIGURADO.PRECEDENTES. VIOLAÇÃO AO PRINCÍPIO DA CONGRUÊNCIA. INEXISTÊNCIA.AGRAVO INTERNO NÃO PROVIDO.
+1. Havendo recusa de cobertura por parte da operadora do plano de saúde para tratamento emergencial ou de urgência, a orientação desta Corte é assente quanto à caracterização de dano moral.
+2. Não há violação aos limites objetivos da causa quando o Tribunal, adstrito às circunstâncias fáticas e aos pedidos das partes, procede à subsunção normativa dos fatos, ainda que adotando fundamentos jurídicos diversos dos esposados pelas partes. Aplicação dos princípios mihi factum dabo tibi ius e jura novit curia, segundo os quais, dados os fatos da causa, cabe ao juiz dizer o direito.Precedentes.
+3. No caso, a condenação da operadora do plano de saúde a indenizar o dano moral decorrente da recusa injustificada de autorização de internação em situação de urgência não viola o princípio da congruência, pois, nos termos da inicial da ação de reparação de danos morais proposta pelos filhos da paciente, o pedido de indenização decorre da circunstância de que, "ao tentar a internação da paciente, os Autores foram surpreendidos pela negativa do Plano Réu, que informou que não seria liberada a internação tendo em vista a vigência do prazo de carência". A causa de pedir refere-se aos fatos que fundamentam o pedido, não aos fundamentos jurídicos invocados pela parte.
+4. Agravo interno a que se nega provimento.(AgInt no REsp 1737806/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 15/08/2019, DJe 04/09/2019 - Sem grifo na origem)
+_____________
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE. DOENÇA RENAL. PERÍODO DE CARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. RECUSA DE COBERTURA. ABUSIVIDADE. DANO MORAL. CONFIGURAÇÃO. VALOR ARBITRADO. RAZOABILIDADE.
+1. É lícita a cláusula de plano de saúde que prevê período de carência, salvo para os procedimentos urgentes e tratamentos de natureza emergencial, visto que o valor "vida humana" sobrepõe-se a qualquer outro interesse de índole patrimonial.
+2. A recusa indevida de cobertura médico-assistencial pela operadora de plano de saúde às situações de emergência gera dano moral, porquanto agrava o sofrimento psíquico do usuário, já combalido pelas condições precárias de saúde, não constituindo mero dissabor, ínsito às hipóteses correntes de inadimplemento contratual.
+3. Agravo regimental não provido. (AgRg no REsp 1301763/DF, Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 15/10/2015, DJe 23/10/2015 - Sem grifo na origem).
+_____________
+Incidência da Súmula 83 do STJ.
+3. No que tange ao quantum fixado à título de indenização por danos morais, a análise do recurso especial da parte recorrente ficaprejudicado pelo provimento do recurso especial interposto pela parte contrária, com a majoração do valor para R$ 100.000,00 (cem mil reais), nos termos da fundamentação da decisão do recurso especial da parte ora recorrida.
+4. Ante o exposto, não conheço do recurso especial interposto por Hapvida Assistencia Medica Ltda.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PLANO DE SAÚDE. INDENIZAÇÃO. INTERNAÇÃO DE EMERGÊNCIA. PRAZO DE CARÊNCIA. RECUSA INDEVIDA. DANO MORAL. SÚMULAS 7 E 83 DO STJ. QUANTUM INDENIZATÓRIO. ANÁLISE PREJUDICADA COM PROVIMENTO DO RECURSO ESPECIAL DA PARTE CONTRÁRIA. RECURSO NÃO CONHECIDO.
+1. A convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal ante o óbice da Súmula 7 do STJ.
+2. A recusa indevida de tratamento médico - nos casos de emergência - agrava a situação psicológica e gera aflição, que ultrapassam os meros dissabores, caracterizando o dano moral indenizável. Precedentes.
+3. A análise do recurso especial da parte recorrente quanto ao quantum indenizatório resta prejudicada pelo provimento do recurso especial da parte contrária nesse ponto.
+4. Recurso especial interposto por Hapvida Assistencia Medica Ltdanão conhecido.
