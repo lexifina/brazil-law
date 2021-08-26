@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor deMAYARA SIQUEIRAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA(Apelaçãon. 0011834-40.2017.8.24.0008).
+Depreende-se dos autos que a ré foi condenada a 9 anos e 4 meses de reclusão, em regime inicial fechado, pelos crimes de tráfico e associação para o tráfico de drogas (arts. 33 e 35 da Lei n 11.343/2006), em razão da apreensão de aproximadamente 23g (vinte e três gramas) de crack, juntamente com um adolescente.
+Interposta apelação, o Tribunal de origem deu parcialprovimento ao recurso para absolver a ré do crime de associação para o tráfico, reduzindo a pena para 5 anos e 10 meses de reclusão, e fixando o regime inicial semiaberto.
+Daí o presente writ, no qual a defesa sustenta a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006. Ao final, requer a redução da pena e, consequentemente, o estabelecimento de regime prisional mais brando e a substituição da pena.
+Liminar indeferida.
+Informações prestadas.
+Instado a se manifestar, oMinistério Público Federal opinou pela denegação da ordem (e-STJ fls. 563/568).
+É o relatório.
+Decido.
+Acerca da insurgência, o Tribunal de origem consignou o seguinte (e-STJ fls. 503):
+3.3. Em pedido sucessivo, a apelante disse fazer jus à benesse prevista no art. 33, § 4º da Lei 11.343/06 (Evento 132).
+A pena foi aplicada do seguinte modo:
+"Atendente às circunstâncias judiciais do artigo 59 do Código Penal, observadas, com preponderância sobre estas, as disposições do artigo 42 da Lei nº 11.343/06, observa-se que a quantidade de droga apreendida em poder de Mayara não justifica uma majoração da pena da acusada.
+Verifco que a culpabilidade da ré é normal à espécie dos delitos desta natureza; os antecedentes não denigrem a acusada; a conduta social da acusada pode ser considerada média; nada há, além do crime, que desabone a personalidade da ré; os motivos da ação foram normais à espécie; as circunstâncias foram as que corriqueiramente se observam neste tipo dedelito; as consequências não foram graves; não há que se falar em contribuição da vítima. Observados os vetores mencionados no artigo 59 do Código Penal e no artigo 42 da Lei nº 11.343/06, fixa-se a pena-base em 05 (cinco) anos de reclusão e multa de 500 (quinhentos) dias-multa para o delito descrito no artigo 33, da Lei nº 11.343/06, e 03 (três) anos de reclusão e multa de 700 (setecentos) dias-multa para o delito descrito no artigo 35, da Lei nº 11.343/03.
+Na segunda fase de aplicação da pena, em atenção às condições agravantes e atenuantes, embora a acusada fosse menor de 21 anos de idade na época dos fatos (observada a Súmula 231 do STJ), a pena permanece no mínimo legal vez que não há condições a serem sopesadas visto que as penas já se encontram no mínimo legal.
+Por fim, na terceira fase, presente a majorante de ter sido o crime cometido em companhia de menor infrator, razão pela qual aumento a pena em 1/6, tornando-as definitivas em 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa para o delito descrito no artigo 33, da Lei nº 11.343/06, e 03 (três) anos e 06 (seis) meses de reclusão e multa de 816 (oitocentos e dezesseis) dias-multa para o delito descrito no artigo 35, da Lei nº 11.343/03.
+Registro que não há como aplicar-se o pleiteado benefício previsto no art. 33 §4º da Lei de Drogas na forma brandida pela defesa. As testemunhas ouvidas confirmam que haviam recebido anteriormente à abordagem denúncias de prática de tráfico de drogas no local onde a ré foi presa, dando inclusive referências de que utilizavam uma motocicleta preta e que eram um casal, a ré e seu namorado menor infrator Rodrigo.
+Ora, cuida-se de uma questão de lógica jurídica: se já houve denúncia anterior, haviam indícios de que se tratava de um "ponto" de tráfico. Um "ponto" de tráfico não se forma do dia para noite. Ele precisa se tornar "conhecido" de seu público, angariar clientes, ter características próprias que o façam "atrativo" a seu mercado consumidor. Em muito, se podem lembrar as lições do Direito Empresarial, acerca do tema "estabelecimento comercial".
+Quer-se dizer: para formar um "ponto" organizado e estabelecido é preciso um certo tempo, know how e organização.
+Por isso, o que se pode dizer, ainda que os acusados sejam primários, é que, antes da abordagem já se dedicavam, por tempo anterior, à atividade criminosa.
+Por isso, verifica-se que, sim, ambos anteriormente à abordagem dedicavam- se a atividades criminosas ligadas ao tráfico, tanto que ali formaram um ponto de tráfico. Assim sendo, não é possível aplicar a ré o privilégio pleiteado.
+Por inaplicável o privilégio, prejudicado falar-se em substituição de pena.
+ ..
+De se lembrar que a concessão do privilégio previsto no §. 4.º está condicionada ao preenchimento de todos os requisitos manifestos no texto do referido parágrafo: faltando qualquer um deles, é inviável a benesse.
+Apesar de a apelante não registrar antecedentes criminais aptos a configurar antecedentes ou reincidência, comprovou-se, como dito, a sua dedicação às atividades criminosas.
+Segundo as declarações dos policiais militares André Prigol e Clécio Voltolini Cordeiro, "Mayara relatou que estavam fazendo a venda da droga para poder angariar recursos e assim prover o sustento do lar e pagar o aluguel", o que acentua o fato de não se tratar, a ré, de traficante de primeira viagem.
+ ..
+3.4. Em razão do parcial provimento do apelo, persiste a condenação da acusada pelo crime de tráfico de drogas, com a pena fixada na sentença de 05 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa, estes no mínimo legal.
+Do excerto acima colacionado, constata-se que não foi apresentada fundamentação suficiente para o afastamento do redutor do § 4º do art. 33 da Lei n. 11.343/2006, circunstância que tem implicações severas no quantum final da pena e, por conseguinte, no regime inicial de cumprimento de pena a ser fixado.
+Assim, considerando a pequena quantidade de entorpecente apreendida e a primariedade da paciente, bem assim a plausibilidade do pedido de aplicação da causa especial de diminuição de pena prevista na Lei de Drogas, entendo que, de fato, a paciente faz jus ao referido redutor, na sua fração máxima.
+Ante o exposto, concedo a ordem para reconhecer a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, na fração máxima de 2/3, e, assim, reduzir a reprimenda da paciente para 1 ano e 11 meses e 10 dias de reclusão, fixar o regime aberto de cumprimento de pena, bem comosubstituir a pena privativa de liberdade por medidas restritivas de direitos, a serem definidas pelo Juízo das execuções criminais.
+Publique-se. Intimem-se.
