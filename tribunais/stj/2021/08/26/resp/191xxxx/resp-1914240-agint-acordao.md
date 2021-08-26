@@ -1,0 +1,90 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO.
+INSURGÊNCIA DO AGRAVADO.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, nãoobstante a oposição de embargos de declaração,impede o acesso à instância especial, porquanto não preenchido o requisito constitucional doprequestionamento. Incidência da Súmula 211/STJ.
+2. Nos termos da jurisprudência desta Corte, e do recente julgamento proferido por esta Quarta Turma (AgInt no REsp 1.771.443/DF), não é cabível o pleito de revisão da reserva de poupança nas hipóteses de desligamento do plano de previdência em que tenha ocorrido prévia migração e a pretensão de recomposição monetária esteja vinculada justamente ao período contemplado pela transação/migração.
+3. Agravo interno desprovido.
+RELATÓRIO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): Trata-se de agravo interno interposto por SIND TRAB EMP TELECOMUNICACOES OPER MESAS TELEFO NO ESP em face da decisão acostada às fls. 1728/1731, e-STJ, da lavra deste relator, que negou provimento ao recurso especial.
+O apelo extremo, com base nas alíneas "a" e "c" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios, assim ementado (fl. 1.537/1.549, e-STJ):
+AGRAVO DE INSTRUMENTO. PROCESSUAL CIVIL. LIQUIDAÇÃO DE SENTENÇA. FUNDAÇÃO SISTEL DE SEGURIDADE SOCIAL. PLANO DE PREVIDÊNCIA COMPLEMENTAR. RESERVA DE POUPANÇA. MIGRAÇÃO DE PLANO DE BENEFÍCIOS. RECURSO REPETITIVO. TEMA Nº 943 DO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA. APLICABILIDADE.
+1. Na presente hipótese a agravante pretende impugnar a decisão que determinou a manutenção dos substituídos processuais que procederam à mudança de plano de benefícios e que posteriormente se desligaram do plano e efetuaram o resgate de sua reserva de poupança.
+2. O Colendo Superior Tribunal de Justiça, sob o rito dos recursos repetitivos, no Resp 1.551.488-MS, Tema nº 943, firmou as seguintes teses: a) "em caso de migração de plano de benefícios de previdência complementar, não é cabível o pleito de revisão da reserva de poupança ou de benefício, com aplicação do índice de correção monetária"; e b) "em havendo transação para migração de plano de benefícios, em observância à regra da indivisibilidade da pactuação e proteção ao equilíbrio contratual, a anulação de cláusula que preveja concessão de vantagem contamina todo o negócio jurídico, conduzindo ao retorno ao ".
+status quo ante.
+3. No caso de mudança do plano de benefícios não é possível a revisão da reserva de poupança, ainda que o participante tenha optado, em curto período de tempo, após proceder à "migração", por se desligar do plano de previdência complementar, de acordo com o entendimento consolidado na jurisprudência do Colendo Superior Tribunal de Justiça.
+4. Agravo conhecido e provido.
+Embargos de declaração opostos e rejeitados (fls. 1574/1580, e-STJ).
+Nas razões do recurso especial (fls. 1583/1594, e-STJ), o Sindicato recorrente alega violação dos arts. 223, 502, 503, 505, 507 e 508 do CPC/15 e 5º, inc. XXXVI, da CF, bem como divergência jurisprudencial, no que concerne à ofensa à coisa julgada, porquanto o título judicial que se executa abarcava tanto os substituídos que não migraram, como os que migraram de planos e sacaram sua reserva de poupança e estariam vinculados ao tema 514 do STJ.
+Contrarrazões às fls. 1.688/1.708 e-STJ.
+Em julgamento monocrático, negou-se provimento ao reclamo, por incidência da Súmula 211/STJ.
+Inconformada, interpôs o presente agravo interno (fls. 1.733/1.786, e-STJ), em síntese, sustentando a inaplicabilidade da Súmula 211/STJ, violação ao Resp n. 1183474/DF e inoservância do Tema 514 do STJ.
+Impugnação às fls. 1.790/1.801, e-STJ, com pedido de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECURSO.
+INSURGÊNCIA DO AGRAVADO.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+2. Nos termos da jurisprudência desta Corte, e do recente julgamento proferido por esta Quarta Turma (AgInt no REsp 1.771.443/DF), não é cabível o pleito de revisão da reserva de poupança nas hipóteses de desligamento do plano de previdência em que tenha ocorrido prévia migração e a pretensão de recomposição monetária esteja vinculada justamente ao período contemplado pela transação/migração.
+3. Agravo interno desprovido.
+VOTO
+O EXMO SR. MINISTRO MARCO BUZZI (Relator): O agravo interno não merece acolhida, porquanto os argumentos tecidos pela parte recorrente são incapazes de infirmar a decisão agravada, motivo pelo qual merece ser mantida, por seus próprios fundamentos.
+1. Nos termos da jurisprudência deste Tribunal Superior, "para que se configure o prequestionamento da matéria, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos como violados, a fim de que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal." (AgRg no AREsp 519.518/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 03/05/2018, DJe 25/05/2018).
+No mesmo sentido, citam-se: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Todavia, no presente caso, em que pese a oposição de embargos de declaração, não houve enfrentamento pelo Tribunal local da matéria relativa a alegação de ofensa à coisa julgada pois inexistente no título executivo a exclusão dos beneficiários que fizeram a migração de plano, o que impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula 211/STJ.
+Neste sentido: AgInt no REsp 1668409/MG, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/05/2018, DJe 24/05/2018; AgInt no REsp 1599354/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/11/2016, DJe 30/11/2016; AgInt no AREsp 1081236/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/08/2017, DJe 05/09/2017.
+Registre-se, ademais, que sequer houve a alegação de ofensa ao art. 1022 do CPC/15 de modo a permitir sanar eventual vício no acórdão de origem.
+2. Por fim, considerando que o recurso especial aduz violação às teses firmadas em recurso repetitivo, cumpre acrescer alguns esclarecimentos.
+Conforme tese firmada em recurso repetitivo, "em caso de migração de plano de benefícios de previdência complementar, não é cabível o pleito de revisão da reserva de poupança ou de benefício, com aplicação do índice de correção monetária" (Tema/Repetitivo 943/STJ).
+Isso porque, a transação para migração de plano de benefícios implica novação, ocorrendo em um contexto de amplo redesenho da relação contratual previdenciária mediante o estabelecimento de um ato jurídico perfeito, cuja anulação de alguma de suas cláusulas implica um inegável retorno aos status quo ante, pretensão essa (anulatória) não pretendida pelos demandantes, mesmo porque inviabilizaria, inclusive, a adesão ao plano de benefícios sobre o qual realizado o resgate das contribuições.
+Nesse sentido, os seguintes precedentes da Segunda Seção:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA FECHADA. MIGRAÇÃO DE PLANO DE BENEFÍCIOS. TRANSAÇÃO EXTRAJUDICIAL. CONCESSÃO DE VANTAGENS RECÍPROCAS. RESERVA DE POUPANÇA. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS.
+SÚMULA N. 289 DO STJ. INAPLICABILIDADE. SÚMULA N. 168/STJ.
+1. A atual jurisprudência desta Corte está sedimentada no sentido de que a Súmula n. 289/STJ, a qual dispõe que "a restituição das parcelas pagas a plano de previdência privada deve ser objeto de correção plena, por índice que recomponha a efetiva desvalorização da moeda", tem aplicação restrita aos casos de resgate, hipótese em que há o rompimento definitivo do vínculo contratual do participante, que nem sequer chegou a auferir benefício complementar.
+2. Tal circunstância atrai a incidência do Enunciado n. 168 da Súmula do STJ.
+3. Agravo regimental desprovido.
+(AgRg nos EREsp 1488815/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 12/08/2015, DJe 18/08/2015)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. MIGRAÇÃO DE PLANO DE BENEFÍCIOS. TRANSAÇÃO EXTRAJUDICIAL. CONCESSÃO DE VANTAGENS RECÍPROCAS. RESERVA DE POUPANÇA. CORREÇÃO MONETÁRIA. EXPURGOS INFLACIONÁRIOS. SÚMULA Nº 289/STJ. INAPLICABILIDADE. AUSÊNCIA DE RESGATE DAS CONTRIBUIÇÕES. MANUTENÇÃO DO VÍNCULO CONTRATUAL COM O ENTE PREVIDENCIÁRIO. SÚMULA 168/STJ.
+1. A Segunda Seção do Superior Tribunal de Justiça firmou o entendimento de que a Súmula nº 289/STJ aplica-se somente nos casos em que há o desligamento (rompimento definitivo do vínculo contratual) do participante com a entidade de previdência privada, ou seja, não incide nas hipóteses de migração de participantes ou assistidos de plano de benefícios de previdência complementar para outro dentro da mesma entidade.
+2. A migração é feita por meio de transação extrajudicial, em que há acordo de vontades e concessões de vantagens recíprocas, operando-se a transferência de reservas de um plano de benefícios para outro no interior de uma mesma entidade fechada de previdência complementar, não se confundindo, portanto, com o resgate de contribuições.
+3. Não havendo a declaração de nulidade da transação firmada entre as partes, o que conduziria ao retorno ao status quo ante, devem ser obedecidas as condições pactuadas.
+4. É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência da Corte estiver no mesmo sentido do acórdão embargado.
+5. Agravo regimental não provido.
+(AgRg nos EAREsp 509.379/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 28/10/2015, DJe 04/11/2015)
+EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. EMBARGOS DE DIVERGÊNCIA. PREVIDÊNCIA. PRIVADA. RESERVA DE POUPANÇA. MIGRAÇÃO DE PLANO DE BENEFÍCIOS. TRANSAÇÃO. CORREÇÃO MONETÁRIA. EXPURGOS. NÃO APLICAÇÃO. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. AGRAVO REGIMENTAL.
+1. Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, não servindo à rediscussão da matéria já julgada no recurso.
+2. A incidência de correção monetária em reserva de poupança, com o acréscimo dos expurgos inflacionários, restringe-se às hipóteses em que o filiado desliga-se da entidade de previdência privada, não se aplicando aos casos de migração de planos de benefícios, mediante incentivo em dinheiro e instrumento de transação. Precedente da 2ª Seção.
+3. Embargos de declaração recebidos com agravo regimental ao qual se nega provimento.
+(EDcl nos EREsp 1433204/SC, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 11/11/2015, DJe 18/11/2015)
+Por tal razão, em recente julgamento nos autos do AgInt no RESP n. 1.771.443/DF, a Quarta Turma firmou entendimento no sentido de não ser cabível a aplicação da Súmula 289/STJ nas hipóteses de desligamento em que tenha ocorrido prévia migração e a pretensão de recomposição monetária esteja vinculada justamente ao período contemplado pela transação/migração, dada a impossibilidade de desconsideração unilateral da avença.
+Confira-se a ementa do julgado:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DAS DEMANDADAS.
+1. Nos termos da jurisprudência desta Corte, a correção plena da restituição das parcelas pagas pelo participante a plano de previdência privada, por índice que recomponha a efetiva desvalorização da moeda, é aplicável apenas quando do definitivo rompimento do participante com o vínculo contratual de previdência complementar, não tendo incidência nas situações em que, por acordo de vontades, mediante concessões recíprocas, haja migração dos participantes ou assistidos para plano de benefícios de previdência privada diverso e a pretensão de recomposição monetária esteja vinculada justamente ao período contemplado pela transação/migração, dada a impossibilidade de desconsideração unilateral da avença.
+2. A transação para migração de plano de benefícios implica novação, ocorrendo em um contexto de amplo redesenho da relação contratual previdenciária mediante o estabelecimento de um ato jurídico perfeito, cuja anulação de alguma de suas cláusulas implica um inegável retorno aos status quo ante, pretensão essa (anulatória) não pretendida pelos demandantes, haja vista que inviabilizaria, inclusive, a adesão ao plano de benefícios sobre o qual realizado o resgate das contribuições.
+3. Agravo interno provido para, de plano, dar provimento ao recurso especial e julgar improcedente o pedido formulado na inicial.
+(AgInt no REsp 1771443/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 04/08/2020, DJe 15/10/2020)
+Ainda:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO APELO NOBRE. INSURGÊNCIA DO AGRAVADO.
+1. A ausência de enfrentamento da matéria objeto da controvérsia pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211/STJ.
+2. Nos termos da jurisprudência desta Corte, e do recente julgamento proferido por esta Quarta Turma (AgInt no REsp 1.771.443/DF), não é cabível o pleito de revisão da reserva de poupança nas hipóteses de desligamento do plano de previdência em que tenha ocorrido prévia migração e a pretensão de recomposição monetária esteja vinculada justamente ao período contemplado pela transação/migração.
+2.1. Inaplicabilidade da Súmula 289/STJ e Tema/Repetitivo 514/STJ.
+Incidência, no caso, do Tema/Repetitivo 943/STJ.
+3. Agravo interno desprovido.
+(AgInt no REsp 1828967/DF, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)
+Logo, a decisão proferida pela Corte de origem - ao afirmar que em caso de mudança do plano de benefícios não é possível a revisão da reserva de poupança, ainda que o participante tenha optado, em curto período de tempo, após proceder à "migração", por se desligar do plano de previdência complementar - não viola as teses firmadas por este STJ em sede de recursos repetitivos.
+É de rigor, portanto, a manutenção da decisão agravada.
+3. No que se refere ao pedido formulado pela parte agravada, a Segunda Seção desta Corte Superior firmou o entendimento de que a multa recursal prevista no art. 1.021, § 4º, do CPC/15 não decorre automaticamente do desprovimento do agravo interno, devendo ser verificado, em cada caso, o intuito protelatório.
+Confira-se, por oportuno, a ementa do julgado:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AGRAVO CONHECIDO APENAS NO CAPÍTULO IMPUGNADO DA DECISÃO AGRAVADA. ART. 1.021, § 1º, DO CPC/2015. EMBARGOS DE DIVERGÊNCIA APRECIADOS À LUZ DO CPC/73. ACÓRDÃO EMBARGADO QUE NÃO CONHECEU DO RECURSO ESPECIAL. APLICAÇÃO DA SÚMULA 7/STJ. PARADIGMAS QUE EXAMINARAM O MÉRITO DA DEMANDA. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. REQUERIMENTO DA PARTE AGRAVADA DE APLICAÇÃO DA MULTA PREVISTA NO § 4º DO ART. 1.021 DO CPC/2015. AGRAVO INTERNO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, merece ser conhecido o agravo interno tão somente em relação aos capítulos impugnados da decisão agravada.
+2. Não fica caracterizada a divergência jurisprudencial entre acórdão que aplica regra técnica de conhecimento e outro que decide o mérito da controvérsia.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do não provimento do agravo interno em votação unânime. A condenação do agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não ocorreu na hipótese examinada.
+4. Agravo interno parcialmente conhecido e, nessa extensão, improvido. (AgInt nos EREsp 1120356/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 24/08/2016, DJe 29/08/2016)
+No mesmo sentido, precedentes desta Corte: EDcl no AgInt no AREsp 647.276/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 20/10/2017; EDcl no AgInt nos EDcl no REsp 1327956/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, DJe 24/10/2017.
+No caso em tela, não se verifica o intuito meramente protelatório do presente agravo interno, não havendo justificativa para imposição da sanção prevista no artigo 1.021, § 4º, do CPC/15.
+Desde já, entretanto, advirta-se que a utilização de expedientes protelatórios poderá ensejar a aplicação das penalidades legais.
+4. Do exposto, nega-se provimento ao agravo interno.
+É como voto.
