@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de embargos declaratórios opostos contra decisão de minha relatoria cuja ementa restou vazada nos seguintes termos:
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. RESSARCIMENTO DE VALOR REFERENTE A ENCARGOS PATRONAIS. TERMO DE CONVÊNIO. TERMO INICIAL DA PRESCRIÇÃO. IMPOSSIBILIDADE DE REPETIÇÃO DE INDÉBITO JUNTO À UNIÃO. DESCONFIGURAÇÃO DO ATO ILÍCITO. COMANDOS NORMATIVOS E TESES RECURSAIS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. SUPOSTA VIOLAÇÃO AO ART. 1.022 DO CPC. SÚMULA 284/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões destes aclaratórios, sustenta que a decisão embargada incorre em contradição com a realidade fática-processual, uma vez que em toda as manifestações possíveis, seja na contestação, contrarrazões em apelação, embargos de declaração para fins de prequestionamento, recurso especial, agravo em recurso especial, e agora, nos presentes embargos, demonstrou claramente queé flagrante a necessidade de reforma da decisão atualmente vigente, poisagiu em total conformidade com a lei e com o Convênio para cumprir as obrigações tributárias que até então incidia sobre a sua folha de pagamento, pois se não o fizesse incorreria em inadimplência fiscal e descumprimento do próprio Convênio celebrado com o embargado.
+Alega que cumpriu o disposto no artigo 1.022 do CPC de forma clara e expressa no presente caso, abordando devidamente todos os pontos de que não incorreu em enriquecimento ilícito, podendo-se afirmar com segurança que houve o enfretamento das teses levantadas pelo embargante tanto pela primeira e quanto pela segunda instância, restando inaplicáveis as Súmulas 211/STJ e 284 do STF.
+Pugna pelo recebimento dos presentes aclaratórios para reforma da decisão monocrática.
+É o necessário relatar.
+Passo a decidir.
+As razões dos embargos de declaração não merecem acolhimento.
+Para que os aclaratórios, como recurso de fundamentação vinculada que é, possam prosperar, se faz necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição ou omissão em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+Diante de tal premissa, observo que não assiste razão ao embargante, pois, de fato, a decisão embargada posicionou-se de forma clara, adequada e suficiente acerca dos óbices das Súmulas 211/STJ e 284/STF, uma vez que, não obstante a oposição dos aclaratórios, competia ao recorrente alegar violação específica ao artigo 1.022 do CPCa fim de demonstrar em qual ponto a análise dos comandos normativos dos dispositivos indicados e das teses recursais que fundamentarama suposta violação seria capaz de modificar a verdade posta nos autos, o que não ocorreu; pelo contrário, o embargante, de maneira genérica, suscitou suposta violação ao artigo 1.022 do CPCapenas para fins de prequestionamento ficto.
+Depreende-se, todavia, que não ocorreram os vícios alegados, mas que busca o embargante apenas o reexame da causa com a atribuição de efeitos infringentes ao recurso, o que só é admitido em hipóteses excepcionais, pois, em regra, a presente via possui efeito apenas integrativo.
+Dessa feita, nenhum dos argumentos apresentados no presente apelo comporta exame nessa senda recursal, tampouco pode alterar o resultado do julgamento tal como posto.
+Infere-se, pois, das razões dos aclaratórios a nítida pretensão da parte embargante de provocar o rejulgamento da causa, situação que, na inexistência das hipóteses previstas no art. 1.022 do CPC, não é compatível com o recurso protocolado.
+Não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+Diante do exposto, rejeito os embargos de declaração.
+Intimem-se.
+Publique-se.
+EMENTA
+PROCESSUAL CIVIL. ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. HIPÓTESE DE CABIMENTO. CONTRADIÇÃO. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA CAUSA. INVIABILIDADE DA VIA IMPUGNATIVA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
