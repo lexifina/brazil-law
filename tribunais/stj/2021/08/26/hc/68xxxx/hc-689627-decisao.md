@@ -1,0 +1,32 @@
+DECISÃO
+Neste writ, impugna-se a decisão monocrática daDesembargadora Relatora do HC n. 202100325886, que não conheceu do habeas corpus ajuizado no TRIBUNAL DE JUSTIÇA DE SERGIPE em favor deJOSÉCARLOS SANTANA DA CONCEICAO, com condenação transitada em julgado pela prática do delito descrito no art. 157, § 2º, I e II, do Código Penal, à pena de 5 anos e 4 meses de reclusão, inicialmente, em regime semiaberto- Processo n.201075000041, da 1ª Vara Cível e Criminal da comarca de Neópolis/SE(fls. 20/24).
+Alega-se, em síntese, que o paciente sofre constrangimento ilegal decorrente da carência de fundamentação da decisão exarada no prévio writ, quenão existe nenhum outro instrumento processual eficaz e célere para se buscar a aplicação do redutor da causa de diminuição de pena, causa de diminuição de pena já reconhecia na r. sentença de 1º grau (fl. 7); que éde rigor a aplicação da causa de diminuição de pena em seu grau máximo(fl. 8); queo paciente foi assistido por defensor dativo, o qual se conformou com a condenação aplicada pelo M.M juiz de 1º grau(fl. 8); e que amatéria objeto do presenteé matéria de direito, e seu questionamento versa tão somente pela aplicação do redutor, uma vez que a análise de mérito foi realizada pelo juiz sentenciante, onde reconheceu a participação de menor relevância (importância), entretanto deixou de aplicar a causa de diminuição de pena prevista no artigo 29 §1º(fl. 8).
+Requer-se (fl. 12):
+A) Liminarmente, CONCEDA-SE a ordem de habeas corpus, reconhecendo-se a ilegalidade, para o fim de suspender os efeitos da condenação do PACIENTE, até julgamento final do writ;
+B) Diante do reconhecimento da participação de menor importância, requer a aplicação do §1º do art. 29 do CP REDUZINDO desde logo a pena imposta ao Paciente de 1/6 a 1/3, na terceira fase da dosimetria penal.
+C) A modificação do regime inicial de cumprimento de pena SEMIABERTO para o ABERTO, sendo operada a DETRAÇÃO com a consequente expedição de alvará de soltura em favor do Paciente  ..
+É o relatório.
+Este habeas corpus foi impetrado contra decisão terminativa, monocrática, proferida no Tribunal local, para a qual há previsão legal de interposição de recurso interno a ser submetido ao Colegiado competente, na mesma instância.
+Ora, ausente a interposição de agravo regimental a fim de submeter a decisão unipessoal e a questão ao órgão Colegiado a quo, exaurindo a instância antecedente, não cabe a análise da controvérsia por esta Corte Superior. A esse respeito, entre outros, os seguintes precedentes:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. CONHECIMENTO DO WRIT. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA.  .. .
+1. O writ foi interposto contra decisão monocrática de Desembargador do Tribunal de Justiça do Estado de São Paulo, contra o qual seria cabível agravo regimental. Nesse contexto, não é possível o conhecimento do pedido, uma vez que, a teor do art. 105, II, "a", da CF, não houve julgamento em última instância pela Corte antecedente, a ensejar a inauguração da competência desta Corte.
+ ..
+3. Agravo regimental não provido.
+(AgRg no HC n. 625.731/SP, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/12/2020, DJe 18/12/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA. INSTÂNCIA ANTECEDENTE NÃO EXAURIDA. ANÁLISE DO MÉRITO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. NÃO CABIMENTO. PRECEDENTES. AGRAVO IMPROVIDO.
+1. Ausente a interposição de agravo regimental na origem, a fim de submeter a decisão monocrática ao órgão colegiado a quo, exaurindo a instância antecedente, não cabe a análise da controvérsia por esta Corte Superior, por expressa vedação ao disposto no art. 105, II, da Constituição Federal.
+2. Agravo regimental improvido.
+(AgRg no HC n. 659.332/RJ, Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 11/5/2021, DJe 17/5/2021)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO. WRIT IMPETRADO CONTRA JULGAMENTO MONOCRÁTICO NO TRIBUNAL DE ORIGEM. MATÉRIA NÃO SUBMETIDA AO COLEGIADO DO TRIBUNAL A QUO. INSTÂNCIA DE ORIGEM NÃO EXAURIDA. PEDIDO LIMINARMENTE INDEFERIDO. DECISÃO MANTIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se mostra cabível a impetração do writ contra decisão monocrática que indefere liminarmente o mandamus de origem, em razão de ser necessária a interposição de recurso para submissão do respectivo decisum ao colegiado competente, de modo a exaurir a instância antecedente, nos temos do art. 105, II, a, da Constituição Federal (AgRg no HC 509.051/RJ, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 06/06/2019, DJe 13/06/2019).
+2. Agravo regimental a que se nega provimento.
+(AgRg no HC n. 645.300/GO, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 9/3/2021, DJe 15/3/2021)
+Afora isso, a hipótese não revela inquestionável teratologia nem ilegalidade manifesta.
+De um lado, a Desembargadora Relatora chegou a afirmar quevislumbrava que a demanda é passível de impugnação por meio de Revisão Criminal, tendo em vista a ocorrência do trânsito em julgado da condenação em 26/8/2019, para o paciente(fl. 23).
+De outro, aqui há jurisprudência afirmando que, concluindo a Corte local que o agente efetivamente realizou a figura típica, resta vedado a este STJ aplicar a causa de diminuição da participação de menor importância  pela impossibilidade de reexaminar fatos e provas (AgRg no AREsp n. 1.394.712/SP, Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 9/3/2021, DJe 15/3/2021). Até porque,na coautoria, todos os agentes possuem o domínio comum do fato típico, mediante uma divisão de tarefas. Não é necessário que todos os agentes pratiquem o verbo descrito no tipo; basta que a sua conduta, atípica, se isoladamente observada, seja essencial para a realização do fato típico. Dessa forma, em se tratando de coautoria, todos os agentes respondem pela prática do mesmo delito praticado(AgRg no AREsp n. 1.364.031/MG, Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 5/5/2020, DJe 12/5/2020).
+Além disso, não cabe a esta Casa analisar temas não debatidos nem decididos pelo Tribunal estadual.
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. IMPUGNAÇÃO DE DECISÃO MONOCRÁTICA. DESCABIMENTO. INSTÂNCIA ANTECEDENTE NÃO EXAURIDA. ANÁLISE DO MÉRITO PELO SUPERIOR TRIBUNAL DE JUSTIÇA. IMPOSSIBILIDADE. PRECEDENTES. ROUBO CIRCUNSTANCIADO. PARTICIPAÇÃO DE MENOR IMPORTÂNCIA. SUPRESSÃO DE INSTÂNCIA.INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ indeferido liminarmente.
