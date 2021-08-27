@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de agravo interno manejado pelo ESTADO DE MATO GROSSO DO SUL contra decisão de minha lavra, e-STJ fls. 1.755/1.758, em que indeferi pedido de atribuição de efeito suspensivo arecurso especial.
+A parte agravante rebate os fundamentos adotados na decisão combatida, ao argumento de que estaria demonstrada a possibilidade de êxito do recurso especial e o periculum in mora em razão da iminência da liberação dos valores debatidos. Requer, ao final, a reconsideração do decisum recorrido.
+Impugnação apresentada às e-STJ fls. 1.779/1.785.
+Passo a decidir.
+O julgamento do recurso a que se pretendia atribuir efeito suspensivo, no caso o ARESP 1.924.669/MS, esvazia o objeto do agravo interno presente.
+Com efeito, o entendimento desta Corte é de que "a superveniência do julgamento do recurso especial ao qual se buscava a concessão de efeito suspensivo, ainda que sem trânsito em julgado, prejudica o pedido de tutela provisória em razão da perda do objeto" (AgRg no TP 1.556/DF, rel. Ministro JORGE MUSSI, Quinta Turma, julgado em 06/11/2018, DJe 14/12/2018).
+A esse respeito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NA TUTELA PROVISÓRIA NO RECURSO ESPECIAL. PEDIDO DE EFEITO SUSPENSIVO. JULGAMENTO DO RECURSO ESPECIAL. PERDA DO OBJETO. PRECEDENTES. AGRAVO INTERNO IMPROVIDO. I. Agravo interno aviado contra decisão que julgara prejudicado o pedido de tutela provisória para dar efeito suspensivo a Recurso Especial, interposto contra acórdão publicado na vigência do CPC/73. II. Nos termos da jurisprudência desta Corte, "a decisão que julga o recurso especial, ainda que não tenha transitado em julgado, prejudica a medida cautelar que lhe busca atribuir efeito suspensivo, por perda de objeto" (STJ, AgInt na MC 22.718/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 30/04/2018).
+No mesmo sentido: STJ, EDcl no AgInt no TP 310/RS, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 01/07/2019; AgRg na MC 23.395/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 10/06/2015; EDcl no AgInt no AREsp 1.166.959/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe de 01/10/2018. III. No caso, o julgamento de mérito do Recurso Especial prejudica a tutela provisória que busca atribuir-lhe efeito suspensivo. IV. Agravo interno improvido. (AgInt na TutPrv no REsp 1478364/AL, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 21/09/2020, DJe 25/09/2020)
+No caso dos autos, a decisão anterior, que indeferiu o pleito de tutela provisória, foi alvo de agravo interno, o qual, com o superveniente julgamento do apelo especial, fica prejudicado.
+Diante do exposto, com base no art. 34, XI, do RISTJ, JULGO PREJUDICADO o agravo interno de e-STJ fls. 1.761/1.773.
+Publique-se. Intimem-se.
