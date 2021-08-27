@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MADRID INVESTIMENTOS IMOBILIÁRIOS SPE LTDA. e TECNISA CONSULTORIA IMOBILIÁRIA LTDA., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 10/12/2020.
+Concluso ao gabinete em: 25/08/2021.
+Ação: indenizatória pelos danos materiais e compensatória pelos danos morais cumulada com lucros cessantes, ajuizada por GILBERTO SALERMO e NAIR YOSHIOKA SALERMO, em face de MADRID INVESTIMENTOS IMOBILIÁRIOS SPE LTDA. e TECNISA CONSULTORIA IMOBILIÁRIA LTDA.
+Sentença: julgou procedente em parte os pedidos iniciais para condenar as agravantes a indenizarem os agravados pelos lucros cessantes decorrentes do impedimento da fruição do imóvel, no valor equivalente a 0,5% por mês de atraso a incidir sobre o valor atualizado do imóvel, bem como condenou as agravantes ao pagamento das custas e dos honorários, os quais foram fixados em 10% sobre o valor atualizado da condenação.
+Acórdão: deu parcial provimento à Apelação interposta pelos agravados e negou provimento à Apelação interposta pelas agravantes, nos termos da seguinte ementa:
+"Apelações. Contrato de compromisso de compra e venda. Ação de cobrança c/c indenização por danos materiais e morais. Sentença de parcial procedência. Insurgência das partes. Conhecimento dos recursos. Preliminar de nulidade da sentença rejeitada. Incontroverso atraso na entrega de imóvel. Validade do prazo de tolerância. Lucros cessantes caracterizados. Percentual de 0,5%, sobre o valor do imóvel, por cada mês de atraso, até a data da entrega das chaves. Precedentes do TJSP. Não cumulatividade da cláusula penal com os lucros cessantes. Danos morais configurados. "Quantum" arbitrado à luz dos princípios da proporcionalidade e da razoabilidade. Verbas sucumbenciais mantidas. Honorários recursais advocatícios. Recurso dos autores parcialmente provido. Recurso das rés não provido." (e-STJ fl. 297)
+Recurso especial: alegam violação dos arts. 122, 402, 476, 944, CC/02, 373, I, CPC/15, bem como dissídio jurisprudencial. Sustentam que: i) a condenação das recorrentes ao pagamento de indenização a título de danos morais aos recorridos, sem que estes tenham comprovado a ocorrência dos referidos danos, acaba por lhes ocasionar enriquecimento sem causa; e, ii) os recorridos não comprovaram efetivamente os prejuízos alegados a título de lucros cessantes; e, iii) os lucros cessantes devem incidir somente até a data da expedição do habite-se, conforme expressamente previsto na cláusula contratual e não até a data da entrega das chaves.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da fundamentação deficiente
+Os argumentos invocados pelas agravantes não demonstram como o acórdão recorrido violou os arts. 122, 402, 944, CC/02, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 476, CC/02, 373, I, CPC/15, indicados como violados, não tendo as agravantes opostos embargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem.
+Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+- Da existência de fundamento não impugnado
+As agravantes não impugnaram o fundamento utilizado pelo TJ/SP, no sentido de que "a cláusula 7.4 do contrato é abusiva nos pontos em que limita a sua incidência ao valor efetivamente pago (em vez do valor do contrato) e que estabelece como termo final a data da emissão do "Habite-se" (em vez da data da efetiva entrega do imóvel), pois redunda em desvantagem excessiva ao consumidor (art. 51, IV, do Código de Defesa do Consumidor), razão pela qual deve ser mantido o acórdão recorrido. Aplica-se, na hipótese, a Súmula 283/STF.
+- Do reexame de fatos e provas e da interpretação de cláusulas contratuais
+Alterar o decidido no acórdão impugnado, no que se refere ao fato de que "a mora das agravantes só cessou na data da entrega das chaves, a saber, 18/06/2014 (fl. 75)", bem como de que é "inviável a cumulação da cláusula penal moratória prevista no contrato com os lucros cessantes, sob pena de configurar "bis in idem"", além de que "a existência da cláusula 7.4 afasta a aplicação da cláusula 6.1, item "c", o que inviabiliza a condenação das agravantes ao pagamento da multa moratória de 2% (dois por cento) que incidirá sobre o valor de do débito corrigido", exige o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7, ambas do STJ.
+- Do dano moral (Súmula 568/STJ)
+Para a configuração do dano moral no caso de atraso na entrega de imóvel, o STJ tem entendido que, muito embora o simples descumprimento contratual não provoque danos morais indenizáveis, circunstâncias do caso concreto podem configurar a lesão extrapatrimonial.
+No caso, o TJ/SP, ao fundamentar que fica "evidente que o anormal atraso na entrega do imóvel gerou enorme prejuízo à família, que teve de traçar novo planejamento por longo período de tempo" (e-STJ 308), não demonstrou consequências fáticas que ultrapassassem o mero aborrecimento, divergindo do entendimento desta Corte.
+Nesse sentido: AgInt no AREsp 1.689.543/SP, 4ª Turma, DJe de 26/03/2021; AgInt no AREsp 1.736.900/MT, 4ª Turma, DJe de 03/03/2021; AgInt nos EDcl no REsp 1.881.131/SP, 3ª Turma, DJe 04/03/2021; AgInt no AREsp 1.506.584 / RJ, 3ª Turma, DJe 14/08/2020.
+Logo, o acórdão recorrido merece reforma quanto ao ponto.
+- Da divergência jurisprudencial
+Diante da análise do mérito em que foi acolhida a pretensão das agravantes, fica prejudicada a divergência jurisprudencial.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para afastar a compensação pelos danos morais.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 15% sobre o valor atualizado da condenação (e-STJ fls. 312) para 17%, redistribuindo-os. Assim, devem as agravantes arcar com 80% e os agravados com 20%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA POR DANOS MATERIAIS E COMPENSATÓRIA POR DANOS MORAIS CUMULADA COM LUCROS CESSANTES. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. REEXAME DE FATOS E PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL NÃO CONFIGURADO. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação indenizatória por danos materiais e compensatória por danos morais cumulada com lucros cessantes.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+4. A existência de fundamento do acórdão recorrido não impugnado - quando suficiente para a manutenção de suas conclusões - impede a apreciação do recurso especial.
+5. O reexame de fatos e provas e a interpretação de cláusulas contratuais em recurso especial são inadmissíveis.
+6. Esta Corte tem firmado o posicionamento de que o mero descumprimento contratual, caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, embora possa ensejar reparação por danos materiais, não acarreta, por si só, danos morais. Precedentes.
+7. Diante da análise do mérito em que foi acolhida a tese das agravantes, fica prejudicada a divergência jurisprudencial.
+8. Agravo conhecido. Recurso especial conhecido em parte e provido.
