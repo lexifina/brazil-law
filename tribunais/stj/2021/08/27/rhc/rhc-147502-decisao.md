@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso em habeas corpus, sem pedido liminar, interposto por WILLIAM ARTUR BEYER, contra decisão proferida por Desembargador Relator do Tribunal de Justiça do Estado de Santa Catarina, que não conheceu de mandamus prévio (e-STJ, fls. 64-67).
+Nas razões recursais (e-STJ, fls. 77-89), o recorrente alega, em suma, que sofre constrangimento ilegal em decorrência do indeferimento dos pedidos de prisão domiciliar e de saída temporária.
+Afirma que se encontra em cumprimento de pena em regime mais gravoso, eis que se encontra em estabelecimento prisional diverso daquele destinado ao resgate da reprimenda em regime semiaberto.
+Assevera que o cumprimento de 1/6 (um sexto) da pena é requisito inerente apenas ao regime fechado, de acordo com o entendimento jurisprudencial dos Tribunais Superiores, sendo inexigível o requisito temporal para os condenados ao regime semiaberto.
+Aduz que a saída temporária é benefício intrínseco do intermediário (art. 122 da LEP) e a fixação desse regime torna inaplicável a exigência do requisito objetivo para a concessão de saída temporária, pois se confundiria com o prazo para a progressão de regime.
+Defende que a suspensão temporária do trabalho e estudo externos dos presos em regime semiaberto devido à pandemia dacovid-19 não poderá prejudicar o recorrente, de acordo com a Súmula Vinculante n. 56 do STF.
+Ressalta seu ótimo comportamento carcerário e bons antecedentes.
+Requer, ao final, a concessão da liberdade eletronicamente monitorada ou o direito de saídas temporárias, para visitação da família. Pugna, alternativamente, que seja determinada ao Juízo da Execução que reaprecie esses pedidos.
+O Ministério Público Federal opinou pelo não conhecimento do recurso ou, se conhecido, pelo seu desprovimento (e-STJ, fls. 115-120).
+É o relatório.
+Decido.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar.").
+Tal entendimento também se aplica à hipótese em que o writ é impetrado contra decisão unipessoal da qual era cabível o manejo de recurso para órgão colegiado (STF: HC 119.467/SP, Rel. Ministro Luiz Fux, Primeira Turma, julgado em 05/11/2013; HC 86.367/RO, Rel. Ministra Ellen Gracie, Segunda Turma, julgado em 30/09/2008; STJ: RHC 51.561/MG, Rel. Ministro Jorge Mussi, Quinta Turma, julgado em 02/10/2014; AgRg no HC 301.011/PR, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 07/10/2014).
+Nesse sentido, confiram-se:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRISÃO PREVENTIVA. DECISÃO MONOCRÁTICA EM HABEAS CORPUS NO TRIBUNAL DE ORIGEM. APLICAÇÃO DA SÚMULA 691/STF POR ANALOGIA. NÃO COMPROVAÇÃO DE ILEGALIDADE OU TERATOLOGIA ALEGADAS. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. INOCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere liminar, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+2. Tal entendimento também se aplica à hipótese em que o writ é impetrado contra decisão unipessoal da qual era cabível o manejo de recurso para órgão colegiado. Precedentes.
+3. A aplicação da custódia cautelar se mostra adequada e, por consectário, não se vislumbra flagrante ilegalidade apta a justificar a mitigação da Súmula 691/STF.
+ ..
+7. Agravo regimental desprovido." (AgRg no HC 591.971/SP, deste Relator, QUINTA TURMA, julgado em 04/08/2020, DJe 13/08/2020, grifou-se).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. IMPETRAÇÃO QUE ATACA DECISÃO DE RELATOR. DESCABIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "É inviável o conhecimento do habeas corpus, uma vez que a defesa impugna decisão monocrática, contra a qual seria cabível agravo regimental, que não foi interposto. Precedentes do STJ e do STF" (AgRg no HC 563.607/ES, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 20/4/2020).
+2. O fato de que o agravo regimental foi manejado na origem somente no dia 4 de maio, ou seja, após o protocolo do presente writ, em virtude da suspensão dos prazos processuais no Tribunal a quo, não é suficiente para a alteração do decisório atacado, porquanto o impetrante deve aguardar o julgamento do seu recurso pelo órgão colegiado daquela Corte para somente depois impugnar o acórdão a ser prolatado sobre o mérito do pleito lá deduzido, se for o caso.
+3. Agravo regimental desprovido." (AgRg no HC 573.376/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020).
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. INICIAL LIMINARMENTE INDEFERIDA NOS TERMOS DA SÚMULA N.º 691 DA SUPREMA CORTE. WRIT MANEJADO CONTRA DECISÃO MONOCRÁTICA PROFERIDA PELO DESEMBARGADOR RELATOR NO TRIBUNAL DE ORIGEM. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. A inicial do habeas corpus foi liminarmente indeferida por supressão de instância, nos termos da Súmula n.º 691/STF, apesar de a decisão impugnada sequer ter conhecido da impetração originária.
+2. Contudo, a obtenção de efeitos infringentes, como pretende o Embargante com a rediscussão da matéria, somente é possível como consequência do reconhecimento de um dos vícios previstos no art. 619 do Código de Processo Penal quando modificar substancialmente a conclusão do julgado, o que não é o caso.
+3. "A provocação da jurisdição desta Corte Superior exige o prévio exaurimento da instância antecedente. Se a Defesa não interpôs agravo regimental com o fim de submeter a decisão singular à apreciação do órgão colegiado competente, não se inaugurou a competência deste Tribunal Superior." (AgRg no HC 423.705/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/03/2018, DJe 05/04/2018.)
+4. Embargos de declaração acolhidos, sem efeitos infringentes. (EDcl no AgRg no HC 553.293/MS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/05/2020, DJe 21/05/2020).
+Na hipótese, verifica-se que o habeas corpus impetrado na origem foi analisado por decisão monocrática do Relator, ausente a interposição do recurso cabível ao órgão colegiado, com vistas à atração da competência desta Corte.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se. Intimem-se.
