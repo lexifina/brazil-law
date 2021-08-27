@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se dehabeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de DIEGO ALEXANDRE SILVA SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Goiás.
+Segundo se infere dos autos, o pacienteteve a prisão preventiva decretada pela suposta prática dos delitos tipificados nos arts. 33da Lei 11.343/2006 e 12 da Lei 10.826/2003.
+Nesta Corte, o impetrante sustenta haver excesso de prazo na formação da culpa.
+Aponta que o paciente está presohá mais de 294 dias e, já encerrada a instrução criminal, aguarda a prolação de sentença há 110 dias.
+Indica ter sido extrapolado o prazo legal para formação da culpa, devendo ser mitigado o teor da súmula 52 do STJ.
+Pleiteia, assim, o relaxamento da segregação cautelar ousua substituição por medidas cautelares diversas.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+Relativamente ao excesso de prazo na formação da culpa, o acórdão impugnado assim dispôs:
+" ..  Devidamente processualizados os autos principais, encerrou-se a instrução criminal, tendo o corréu Geanderson apresentado os memoriais escritos somente no dia 14/04/2021, sobrevindo a juntada de documentos no dia 06/05/2021.
+Em que pese seja forçoso reconhecer que houve vulneração do lapso temporal legalmente previsto para o término da instrução criminal, a lentidão processual pode ser justificada com a chegada do novo coronavírus e a digitalização dos processos fisicos, impondo -se a observância do princípio da razoabilidade.
+Apesar disto, a formação do sumário da culpa restou ultimada, com a colheita da prova oral, qualificação e interrogatório dos acusados e apresentação dos memoriais. Observa-se, assim, que a instrução criminal já encerrou, impondo-se a aplicação da Súmula 52 do STJ, no seguinte teor: "Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo."
+Outrossim, havendo expressa previsão constitucional da legalidade da prisão em flagrante delito ou por ordem escrita e fundamentada de autoridade judiciária competente, o encarceramento provisório é legítimo, devendo, pois, subsistir (CF, art. 5 2 , LXI), inexistindo a figura de antecipação do cumprimento da pena ou ofensa aos princípios da razoabilidade e da proporcionalidade.
+Recomendo, contudo, que o juízo de origem dê prosseguimento do feito o mais breve possível" (e-STJ, fl. 26).
+Segundo orientação dos Tribunais Superiores, a análise do excesso de prazo na instrução criminal será feita à luz dos princípios da razoabilidade e da proporcionalidade, devendo ser consideradas as particularidades do caso concreto, a atuação das partes e a forma de condução do feito pelo Estado-juiz. Dessa forma, a mera extrapolação dos prazos processuais legalmente previstos não acarreta automaticamente o relaxamento da segregação cautelar do acusado.
+Na hipótese, o paciente foi preso em flagrante em 7/9/2020. Em informações prestadas pelo Juízo de origem, foi esclarecido o trâmite processual dos autos:
+"Foi proferida decisão, em 09/09/2020, que homologou a prisão em flagrante do paciente e do corréu, bem como a converteu em preventiva.
+No dia 24/09/2020, o Ministério Público ofereceu denúncia. Por ter sido adotado o procedimento comum ordinário, a denúncia foi recebida em 24/09/2020, ocasião em que se determinou a citação do paciente e do corréu para apresentação de defesa escrita.
+O paciente e o corréu foram citados em 24/09/2020, tendo o primeiro apresentado defesa escrita, por intermédio de advogados constituídos, aos 21/10/2020, e o segundo apresentado resposta à acusação, por intermédio de defensora nomeada, aos 18/12/2020.
+Em 18/12/2020, foi proferida decisão, que não absolveu sumariamente os réus, tendo designado audiência de instrução e julgamento para o dia 12/02/2021.
+Em audiência de instrução e julgamento realizada no dia 12/02/2021, as testemunhas arroladas pelas partes foram ouvidas, bem como procedeu-se às qualificações e aos interrogatórios dos acusados. Na sequência, o Ministério Público requereu, na fase diligencial, ajuntada dos antecedentes criminais dos acusados, bem como do laudo de constatação definitivo das drogas apreendidas, ao passo que as defesas requereram a revogação da prisão preventiva dos réus, tendo sido determinada a abertura de vista ao Parquet para que se manifestasse sobreo requerimento de revogação da custódia cautelar, bem como foram determinadas a juntada dos documentos solicitados e a abertura de vista às partes para apresentação dos memoriais de alegações finais.
+O Ministério Público apresentou memoriais de alegações finais aos 19/02/2021.
+Foi proferida decisão em 10/03/2021, ocasião em que foi reavaliada a necessidade de manutenção da prisão preventiva dos acusados, ocasião em que foi mantida a custódia cautelar de ambos.
+A Defesa constituída pelo acusado Geanderson Rayan da Silva Pontes ofereceu memoriais de alegações finais em 14/04/2021.
+Aos 30/06/2021, foi proferida decisão reavaliando a necessidade de manutenção da prisão preventiva dos acusados, ocasião em que novamente foi mantida a custódia cautelar de ambos" (e-STJ, fls. 358-359).
+Sob tal contexto, não há se falar, por ora, em manifesto constrangimento ilegal decorrente de excesso de prazo na formação da culpa, haja vista as especificidadesdo feito, que conta com dois réus e apura mais de um tipo penal.
+Ademais, não se verificou desídia do Juízo de origem na condução do feito, sendo notório que a suspensão dos atos processuais em decorrência da pandemia de covid-19, e a necessidade de digitalização dos autos, acarretou sobrecarga à vara processante, conforme informado pelo Juízo de origem.
+No mesmo sentido, os seguintes precedentes:
+" ..  6. Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento da delonga injustificada deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+7. Fica afastado, ao menos por ora, o suscitado excesso de prazo se a demanda tramita regularmente e o prognóstico para o término do feito, com data prevista para a realização da audiência de instrução, é de que seja em breve.
+8. Ordem denegada." (HC 530.341/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+" ..  6. Não se verifica excesso de prazo na formação da culpa quando o processo segue regular tramitação, sendo que o maior prazo para o julgamento decorre da complexidade do feito, em que se apura a imputação a 3 réus da prática de tráfico e associação para o tráfico, em que foi necessária expedição de cartas precatórias para a oitiva de testemunhas para continuação da audiência de instrução e julgamento realizada em 12/11/2018. E, ainda, conforme verifica-se no sítio eletrônico do Tribunal de origem, a audiência ainda não foi realizada por ausência das testemunhas, sendo designada para 10/10/2019. Não há, pois, falar em desídia do Magistrado condutor, o qual tem diligenciado no sentido de dar andamento ao processo, não podendo ser imputado ao Judiciário a responsabilidade pela demora.
+7. Habeas corpus não conhecido."
+(HC 526.418/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+Ante o exposto, não conheço dohabeas corpus.Recomenda-se, entretanto, ao Juízo processante, que imprima a maior celeridade possível no julgamento do feito.
+Publique-se. Intimem-se.
