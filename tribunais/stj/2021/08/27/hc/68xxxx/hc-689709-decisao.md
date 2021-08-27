@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido liminar, impetrado em face de decisão de desembargador do Tribunal de Justiça do Estado do Mato Grosso que, em sede de medida cautelar inominada, deferiu a liminar pleiteada pelo Ministério Publico Estadual.
+Consta dos autos que o paciente foi beneficiado, junto ao Juízo das execuções,com a progressão de regime para semiaberto.
+Irresignado, o Ministério Público apresentou medida cautelar inominada, alegandoa imprescindibilidade da realização de exame criminológico, e requerendo atribuição de efeito suspensivo ao recurso de Agravo em Execução Penalnº. 0006442-08.2014.8.11.0002,interposto pela própria acusação. Tem-se, daí,que a liminar foi deferida monocraticamente nos termos pleiteados pelo MP e a progressão de regime foi sustada.
+Daí o presentewrit, em que o impetrante busca a restauração da decisão de primeira instância e a progressão de regime do paciente.
+Pois bem, verifica-se que ohabeas corpus insurge-se contra ato de Desembargador que, em medida cautelar inominada, atribuiu, liminarmente, efeito suspensivo ao agravo em execução interposto pelo MP, de modo que ficasse sustada a progressão de regime do paciente.
+Com efeito, o referidodecisumnão foi submetido à análise do colegiado competente, de modo a exaurir a instância antecedente,impedindoa manifestação desta Corte Superior, sob pena de indevida supressão de instância.Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA.TERCEIRA FASE. MINORANTE. AUSÊNCIA DE ATO COATOR SUJEITO À JURISDIÇÃO DESTA CORTE SUPERIOR DE JUSTIÇA. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE PREENCHIMENTO DOS REQUISITOS LEGAIS PARA OBTENÇÃO DO BENEFÍCIO. RECURSO NÃO PROVIDO.
+1. Compulsando-se os autos, não se constata a existência de ato coator sujeito à jurisdição desta Corte Superior de Justiça, uma vez que das peças processuais que instruem o presente habeas corpus consta apenas a decisão que recebeu a denúncia proferida pelo Juízo da singular, circunstância que evidencia a manifesta incompetência deste Sodalício para apreciar o mandamus, nos termos do artigo 105, inciso I, alínea "c", da Constituição Federal. Precedentes.
+2. O fato de a defesa haver juntado provimento judicial proferido em writ impetrado na origem não altera tal conclusão, o que impede qualquer manifestação deste Sodalício sobre os tópicos, sob pena de se configurar a prestação jurisdicional em indevida supressão de instância.
+3. Ainda que assim não fosse, as instâncias antecedentes concluíram pelo não atendimento das exigências legais para a concessão do benefício a partir da avaliação criteriosa do conjunto probatório. O pleito de modificação de tal entendimento depende de novo e aprofundado exame dos fatos e das provas, providência inviável dentro dos estreitos limites cognitivos do habeas corpus.
+4. Agravo regimental desprovido" (AgRg no HC 433.532/PE, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 22/05/2018, DJe 28/05/2018)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. REVOGAÇÃO DA PRISÃO PREVENTIVA. INCOMPETÊNCIA ABSOLUTA DESTA CORTE SUPERIOR DE JUSTIÇA. ATO COATOR PRATICADO POR JUIZ DE PRIMEIRA INSTÂNCIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO DESPROVIDO.
+Não compete a esta Corte apreciar habeas corpus impetrado contra ato de juiz de primeira instância. (Precedente).Agravo regimental desprovido" (AgRg no HC 330.195/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 17/11/2015, DJe 25/11/2015)
+Ante o exposto, indefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
