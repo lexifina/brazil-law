@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto por Vanilza Perim, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal Regional Federal da 3ª Região no Agravo de Execução Penal n. 5002434-35.2020.4.03.6181 (fl. 293):
+PENAL E PROCESSUAL PENAL. AGRAVO EM EXECUÇÃO PENAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. AGRAVO PROVIDO.
+1. Para contagem do prazo prescricional da pretensão executória deve ser considerada a data em que ocorreu o trânsito em julgado para ambas as partes, haja vista a necessidade da formação do título judicial definitivo passível de ser executado pelo Estado, sendo imperativa a adequação hermenêutica do disposto no artigo 112, inciso I, do Código Penal.
+2. Agravo provido.
+No presente recurso, a recorrente aponta a violação do art. 112, I, do Código Penal, em função do posicionamento adotado pelo Tribunal de origem acerca da contagem do prazo inicial da prescrição executória, que considerou o termo a quo o trânsito em julgado para ambas as partes.
+Suscita que a prescrição da pretensão executória no presente caso se dá em 8 (oito) anos1e não há dúvidas de que tal lapso decorreu entre o trânsito em julgado para a acusação (8.10.2010) e o início da execução da pena, visto que este nunca ocorreu. A controvérsia se dá, contudo, em relação ao termo inicial da prescrição da pretensão executória já que a C. Turma julgadora defende que este termo inicial deve ser o trânsito em julgado para ambas as partes.  ..  Entender que o termo inicial se dá com o trânsito em julgado para ambas as partes é caminhar contra o texto expresso da lei e, ainda, conferir interpretação in malan partem em uma hipótese em que sequer há lacuna ou omissão.  ..  Não cabe ao aplicador da lei valer-se de métodos de intepretação - ainda mais in malan parten - para alcançar um sentido não pretendido pela norma. A mens legis é clara ao prever o termo inicial com trânsito em julgado para a acusação, caso contrário não a teria escrito de forma tão precisa (fls. 310/311).
+Argumenta, ainda, que o fato de existir recurso defensivo não pode, em nenhuma hipótese, militar em desfavor do réu no sentido de prejudicar o reconhecimento de eventual prescrição. Isso porque o direito ao recurso está abrangido pela ampla defesa e pelo duplo grau de jurisdição, não podendo ser limitado pelo receio deste recurso criar situação mais gravosa.  ..  Se assim não fosse, a primeira parte do art.112, I do Código Penal não teria razão para existir. Contudo, sua consideração pelo legislador já demonstra que a prescrição da pretensão, punitiva ou executória, não pode ser prejudicada por direito do próprio acusado de ter revista decisão desfavorável. (fl. 314).
+Ao final da peça recursal, requer seja conhecido o recurso e no mérito seja dado integral provimento ao mesmo a fim de ser restaurada a r. sentença que julgou extinta a punibilidade em razão da ocorrência da prescrição (fl. 314).
+Oferecidas contrarrazões (fls. 322/329), o recurso especial foi admitido na origem (fls. 331/333).
+O Ministério Público Federal opina pelo conhecimento e desprovimento da insurgência (fls. 348/352):
+Recurso especial. Execução penal.
+- Pleito de reconhecimento da prescrição executória. Termo inicial da contagem do prazo: trânsito em julgado para ambas as partes. Inocorrência.
+- Promoção pelo conhecimento e não provimento do recurso especial.
+É o relatório.
+O cerne da controvérsia cinge-se a saber o termo a quo da prescrição da pretensão executória, se do trânsito em julgado para a acusação ou do trânsito em julgado para ambas as partes.
+Para elucidação do quanto requerido, do combatido aresto extraem-se os seguintes fundamentos (fls. 291/293 - grifo nosso):
+ ..
+A questão controvertida refere-se à análise da ocorrência da extinção da punibilidade da acusada Vanilza Perim pela prescrição.
+Para o Juízo , a prescrição executória teria ocorrido porque, entre a data a quo do trânsito em julgado para a acusação (08.10.2010, fl. 63 do ID nº 131484084) e a data da decisão que reconheceu a prescrição executória (19.12.2018, fl. 179 do ID nº131484084), transcorreu prazo superior a 08 (oito) anos, considerando que a agravada fora condenada a 03 (três) anos de reclusão.
+De início, cumpre esclarecer que o termo inicial da prescrição da pretensão executória é questão tormentosa e depende de um posicionamento definitivo no âmbito dos tribunais superiores.
+Recentemente o colendo Superior Tribunal de Justiça tem se posicionado deforma majoritária, notadamente no âmbito da 6ª Turma, no sentido de se considerar que o termo inicial do prazo prescricional da pretensão executória seria o marco temporal do trânsito em julgado para a acusação.
+No âmbito do Supremo Tribunal Federal, existem posicionamentos em ambos os sentidos. Apenas para ilustrar cito os recentes precedentes em sentidos opostos exarados pelo Pretório Excelso: HC 115269, Relator (a): Min. ROSA WEBER, PrimeiraTurma, julgado em 10/09/2013, DJe-213, 30-10-2014 e ARE 764385 AgR, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 13/05/2014, DJe-102, 29-05-2014.
+Diante desse contexto, a matéria foi posta à análise em repercussão geral, no julgamento do ARE 848107 RG, Relator (a): Min. DIAS TOFFOLI, julgado em 11/12/2014,20-02-2015.
+Portanto, até que sobrevenha uma posição firme das instâncias superiores, entendo que, para contagem do prazo prescricional da pretensão executória, deve ser considerada a data em que ocorreu o trânsito em julgado para ambas as partes, sendo imperativa a adequação hermenêutica do disposto no artigo 112, inciso I, do Código Penal.
+Cabe observar que o Supremo Tribunal Federal, sob o fundamento do princípio da presunção da não culpabilidade, havia pacificado o entendimento pela inconstitucionalidade da execução provisória da pena, firmando como condição para início da fase executiva o trânsito em julgado da condenação criminal para ambas as partes.
+Essa tese quanto à execução provisória da pena foi modificada quando da decisão do HC n. 126.292/SP, de 17.02.2016.
+Contudo, em recente julgamento concluído no dia 07 de novembro de 2019, o Supremo Tribunal Federal alterou novamente o entendimento firmado, ao julgar procedentes as Ações Declaratórias de Constitucionalidade (ADC) 43, 44 e 54. De fato, ficou assentada a constitucionalidade do artigo 283 do Código de Processo Penal, que estabelece a necessidade do esgotamento de todas as possibilidades de recursos, ou seja, o trânsito em julgado da condenação para início do cumprimento da pena.
+Segundo esse entendimento, a execução da sanção criminal cominada ao acusado só poderia se dar a partir de 14.7.2017, quando houve o trânsito em julgado do acórdão condenatório (fl. 239 do ID nº 131484084).
+Assim, penso que a melhor interpretação a ser dada ao disposto no artigo 112, inciso I, do Código Penal é aquela que indica que o prazo prescricional da pretensão executória somente passa a fluir após o encerramento definitivo da fase cognitiva do processo penal, com o trânsito em julgado para ambas as partes.
+ ..
+Assim, o marco inicial da prescrição da pretensão executória deve ser a data do trânsito em julgado para ambas as partes, vale dizer, a partir do momento em que a sentença torna-se exequível.
+No caso dos autos, a pena em concreto aplicada foi de 3 (três) anos de reclusão, sendo o lapso prescricional a ser observado de 8 (oito) anos (art. 109, IV, do Código Penal).
+Considerando que o trânsito em julgado do acórdão ocorreu em 14.7.2017 (fl. 239 do ID n.131484084), não decorreu lapso temporal superior a 8 (oito) anos entre a data referida e o presente momento, restando afastada a extinção da punibilidade da ré em razão da prescrição da pretensão executória.
+ ..
+O entendimento manifestado pelo Tribunal de origem está em dissonância com a jurisprudência desta Corte Superior, onde prevalece a interpretação literal mais benéfica à recorrente.
+Com efeito, consoante o art. 112, I, do Código Penal, o termo inicial do cômputo do prazo prescricional da pretensão executória é o trânsito em julgado do édito condenatório para a acusação. Revisão de entendimento (REsp n. 1.475.300/SP, Ministro Jorge Mussi, Quinta Turma, DJe 28/10/2014 - grifo nosso).
+A corroborar, colaciono precedentes de ambas as Turmas que compõem a Terceira Seção:
+PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTERPRETAÇÃO DO ART. 112, I, DO CÓDIGO PENAL. AGRAVO NÃO PROVIDO.
+1. A atual jurisprudência majoritária desta Corte Superior é firme em assinalar que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do CP, mais benéfica ao condenado.
+2. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.800.070/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/5/2019 - grifo nosso).
+AGRAVO REGIMENTAL EM HABEAS CORPUS. PRESCRIÇÃO DA PRETENSÃOEXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO.ENTENDIMENTO UNÍSSONO DAS TURMAS QUE INTEGRAM A TERCEIRA SEÇÃO. DECISÃOMANTIDA.
+1. O prazo prescricional da pretensão executória é contado do dia em que transitou em julgado a sentença condenatória para a acusação, nos termos do art. 112, I, do Código Penal. Precedentes.
+2. Agravo regimental improvido.
+(AgRg no HC n. 617.018/SC, de minha relatoria, Sexta Turma, DJe 29/10/2020 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para declarar a prescrição da pretensão executória em face da recorrente nos autos da Ação Penal n. 0013565-97.2017.4.03.6181.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. PENAL. VIOLAÇÃO DO ART. 112, I, DO CP. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. LAPSO PRESCRICIONAL IMPLEMENTADO NO CASO DOS AUTOS. ENTENDIMENTO DO TRIBUNAL DE ORIGEM EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. PREVALÊNCIA DE INTERPRETAÇÃO LITERAL DO ART. 112, I, DO CP, MAIS BENÉFICA À RECORRENTE. PRECEDENTES DE AMBAS AS TURMAS.
+Recurso especial provido nos termos do dispositivo.
