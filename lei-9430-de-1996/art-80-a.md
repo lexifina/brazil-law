@@ -1,1 +1,0 @@
-Art. 80-A. Poderão ter sua inscrição no CNPJ baixada, nos termos e condições definidos pela Secretaria da Receita Federal do Brasil, as pessoas jurídicas que estejam extintas, canceladas ou baixadas nos respectivos órgãos de registro.
