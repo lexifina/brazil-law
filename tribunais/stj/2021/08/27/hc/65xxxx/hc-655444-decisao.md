@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de João Carlos Araújo, apontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina.
+A defesa alega, em resumo, a nulidade do flagrante, ante a violação de domicílio.
+Informações prestadas.
+O Ministério Público Federal ofertou parecer pelo não conhecimento do writ.
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Na hipótese, o Tribunal de Justiça se manifestou pela validade do flagrante, nesses termos:
+Conforme consta do caderno processual, os policiais militares Renato, Marlon e Alexsandro foram categóricos quanto a participação dos réus no tráfico, sendo que flagraram o apelante João, na posse de uma arma de fogo, fazendo segurança do local, enquanto Luccas e Leandro preparavam os entorpecentes para o comércio. (e-STJ, fl. 1598).
+A sentença, por sua vez, detalha o contexto do flagrante já na frente da residência:
+Essa é exatamente a situação dos autos, pois, segundo se infere dos elementos de convicção, os policiais receberam denúncia descrevendo o endereço dos réus e afirmando que, no local, havia um masculino armado, fazendoa proteção da residência, enquanto outros masculinos estavam no interior da casa, preparando e embalando drogas.
+Quando chegaram ao local, constataram a veracidade da denúncia, pois flagraram o réu João armado realizando a segurança do local e ao adentraram na residência, avistaram o réu Leandro empacotando cocaína enquanto o acusado Lucas preparava o crack no fogão, tendo apreendido um total de 35g de crack, 27g de uma mistura de crack e cocaína e 410g de cocaína, além de uma panela e uma colher com resquícios de crack; uma balança de precisão, e um pacote de bicarbonato. Portanto, ao contrário do alegado pela defesa, o que motivou os policiais a ingressarem na casa dos acusados não foi uma mera desconfiança, mas sim fundadas suspeitas de preparação e depósito de estupefacientes no local.(e-STJ, fls. 1559-1560, grifou-se).
+Portanto, sem razão o impetrante.
+De pronto, deve-se registrar que o entendimento desta Corte e do Supremo Tribunal Federal não impede, de modo absoluto, o ingresso na residência. Apesar de ser medida excepcional, haverá licitude no flagrante, quando presente a justa causa demonstrada posteriormente. A propósito:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS. CRIME PERMANENTE. INGRESSO EM DOMICÍLIO SEM MANDADO JUDICIAL. FLAGRANTE. JUSTA CAUSA. POSSIBILIDADE. SÚMULA 83/STJ. REVISÃO PROBATÓRIA. NÃO CABIMENTO. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. É pacífico, nesta Corte, o entendimento de que, nos crimes permanentes, tal qual o tráfico de drogas, o estado de flagrância se protrai no tempo, o que não é suficiente, por si só, para justificar busca domiciliar desprovida de mandado judicial, exigindo-se a demonstração de indícios mínimos de que naquele momento, dentro da residência, haveria situação de flagrante delito.
+2. Tendo o ingresso em domicílio decorrido de investigações preliminares, dando conta da existência de traficância na residência da recorrente, não há falar em nulidade do flagrante.
+3. A análise de eventual validade das declarações prestadas por testemunha, que teria sido obrigada a prestar informação falsa sobre o delito, exigiria revolvimento fático-probatório, providência inadmissível nos termos da Súmula 7/STJ.
+4. Agravo regimental improvido.
+(AgRg no AREsp 1.512.826/PR, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/02/2020, DJe 27/02/2020; grifou-se).
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. BUSCA E APREENSÃO. GALPÃO ALUGADO PARA ARMAZENAMENTO DA DROGA. NATUREZA DE HABITAÇÃO NÃO VERIFICADA. PRÉVIA CAMPANA FEITA PELOS POLICIAIS. DILIGÊNCIA VÁLIDA. PROVA LÍCITA. AUSÊNCIA DE MANIFESTA ILEGALIDADE. WRIT NÃO CONHECIDO.
+1. Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+2. O Supremo Tribunal Federal, no julgamento do RE n. 603.616/RO, firmou o posicionamento de que o ingresso dos policiais no domicílio do réu, sem autorização judicial ou consentimento do morador, será lícito apenas quando houver fundadas razões da situação de flagrante delito na localidade.
+3. Hipótese em que a diligência policial foi realizada em um galpão alugado especificamente para o armazenamento e distribuição da droga (onde foram apreendidos 352,794 kg de maconha), imóvel este não identificado como de habitação, afastando, assim, a proteção constitucional prevista no art. 5º, XI, da CF.
+4. Ademais, embora a busca no referido local tenha se originado de denúncia anônima acerca da prática do tráfico, os agentes de segurança realizaram breve campana na área, quando foi possível verificar um fluxo intenso e suspeito de pessoas e automóveis, justificando a entrada no imóvel. Logo, não há como acolher a tese de violação domiciliar.
+5. Habeas corpus não conhecido."
+(HC 538.832/MA, deste Relator, QUINTA TURMA, julgado em 18/05/2021, DJe 21/05/2021, grifou-se).
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. REQUISITOS. SUBSTITUIÇÃO POR MEDIDAS ALTERNATIVAS OU PRISÃO DOMICILIAR. QUESTÕES APRECIADAS EM WRIT CONEXO. NÃO CONHECIMENTO. INVASÃO DE DOMICÍLIO. NÃO OCORRÊNCIA. PRÉVIA INVESTIGAÇÃO CRIMINAL. ENTRADA FRANQUEADA PELO ACUSADO. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+1. As questões referentes à fundamentação da prisão preventiva e à possibilidade de sua substituição por medidas alternativas ou prisão domiciliar não devem ser conhecidas, pois já apreciadas no HC n.
+638.094/RS, conexo a este, que foi denegado em 1º/2/2021.
+2. Não se verifica manifesta ilegalidade em relação à alegada violação de domicílio, pois o acusado foi abordado conduzindo veículo que estaria sendo utilizado para a prática do delito, em busca pessoal realizada com base em investigações preliminares, e admitiu que possuía mais drogas, franqueando a entrada em sua residência.
+3. Agravo regimental improvido.
+(AgRg no RHC 141.635/RS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021).
+No caso concreto, conforme se extrai do acórdão, houve justa causa a autorizar o ingresso na residência.Dessa forma, não verifico constrangimento ilegal a autorizar a concessão da ordem de ofício nesta instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
