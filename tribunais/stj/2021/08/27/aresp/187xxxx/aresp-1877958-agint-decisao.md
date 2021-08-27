@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de agravo interno interposto por MAGALI QUERINO DOS SANTOS, contra a decisãoproferida pela Presidência desta Corte, que não conheceu do agravo emrecurso especial, com base no art. 21-E, inciso V, do Regimento Interno doSuperior Tribunal de Justiça, haja vista a ausência de impugnação aosfundamentos da decisão agravada (fls. 1.004-1.006, e-STJ).
+O aludido apelo extremo foi deduzido com base no art. 105, III, a, daConstituição Federal, em desafio a acórdão prolatado pelo Tribunal deJustiça do Estado de São Paulo assim ementado (e-STJ, fl. 936):
+Prestação de serviços advocatícios. Ação de indenização. Perda de uma chance. Vício na prestação de serviços advocatícios. Responsabilidade em razão da não interposição de recurso em demanda trabalhista. Obrigação de meio. Ausência de demonstração de dolo ou culpa. Reconhecimento.
+Condenação da autora por litigância de má-fé. Ausência de dolo ou culpa processual que autorize a apenação sugerida. Recurso não provido.
+Nas razões do recurso especial (fls. 945-953, e-STJ),a recorrente alegou que o acórdão impugnado incorreu emviolação dos arts. 186 e 927 do Código Civil de 2002.
+Sustentou, em suma, fazer jus à indenização por danos morais pleiteada, decorrenteda conduta desidiosa de seus patronos, que deixaram de recorrer de sentença proferida em reclamatória trabalhista, em que, além de seu pleito ter sido julgado improcedente, foi condenada em litigância por má-fé, acarretando a perda de uma chance de ter seu recurso provido naquela instância, pelo menos para o afastamento da aludida penalidade.
+O recurso especial foi inadmitido no Tribunal de origem (e-STJ, fls.979-981),pelos seguintes fundamentos: a) não houve demonstração das vulnerações legais suscitadas; e b) aplicação da Súmula 7/STJ para revisão das conclusões estaduais.
+No agravo contra a decisão que inadmitiu o recurso especial (e-STJ, fls.984-989), a agravante refutou os retrocitados óbices de admissibilidade.
+Contraminuta às fls. 992-994 e 996-997 (e-STJ).
+O feito ascendeu ao Superior Tribunal de Justiça. Entretanto, aPresidência desta Corte, por decisão monocrática, não conheceu do agravoem recurso especial (e-STJ, fls. 1.004-1.006), uma vez que a recorrente nãoimpugnou todos os fundamentos da decisão de inadmissibilidade, emdesrespeito ao preconizado no art. 932, III, do CPC/2015, ensejando aaplicação da Súmula n. 182/STJ.
+Daí o presente agravo interno (e-STJ, fls. 1.009-1.014), por meio do qualdefende a insurgente a inaplicabilidade do óbice apontado para o nãoconhecimento do agravo em recurso especial, afirmando ter impugnado todosos fundamentos da decisão de inadmissibilidade no agravo apresentado. Pleiteia, ao final, a reconsideração da decisão agravada ou a submissão doagravo interno ao Colegiado.
+Impugnação às fls. 1.017-1.020 (e-STJ), em cujas razões requer a parte adversa aaplicação da multa disposta no art. 1.021, § 4º, do CPC/2015 à recorrente,em razão dainterposição de recurso manifestamente inadmissível.
+Brevemente relatado, decido.
+No caso, observa-se que a decisão do TJSP que negou seguimento aorecursoespecial foi impugnada pela parte agravante, ainda que sucintamente,motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisãoagravada, tendo em vista a inaplicabilidade da Súmula 182 do STJ, a fim deproceder ao exame do agravo em recurso especial.
+Desse modo, passo ao exame do mérito recursal.
+De início, verifica-se que o recurso foi interposto na vigência do novoCódigo de Processo Civil. Sendo assim, sua análise obedecerá ao regramentonele previsto. Portanto, aplica-se, na hipótese, o EnunciadoAdministrativo n. 3, aprovado pelo Plenário desta Casa em 9/3/2016,segundo o qual "aos recursos interpostos com fundamento no CPC/2015(relativos a decisões publicadas a partir de 18 de março de 2016) serãoexigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Na hipótese, o Tribunal de origem, ao dirimir a controvérsia, assim consignou (fls. 937-941, e-STJ, sem grifos no original):
+É incontroverso que os requeridos atuaram como advogado da requerente em reclamação trabalhista movida em face de seu empregador, bem como que naquela demanda foi reconhecido que a autora (aqui recorrente) foi demitida por justa causa, sendo-lhe imposta a condenação por litigância de má-fé e, em face dessa decisão, o causídicos (ora recorridos) não interpuseram recurso.
+A presente demanda foi julgada improcedente, constando do corpo do julgado que:"
+(..)
+De fato, a obrigação assumida pelo profissional do direito é de meio e não de resultado, de modo que só pode ser obrigado a indenizar o cliente se cometer erro de direito revestido de gravidade.
+Desta feita, os advogados somente podem ser responsabilizados se agirem com dolo ou culpa no patrocínio de determinada causa, gerando prejuízos ao seu cliente, conforme dispõe o artigo 32 da Lei nº 8.906/941.
+E, em sendo assim, a responsabilidade por vício do serviço depende da prova do nexo causal da conduta com o dano, pois no caso sub judice a culpa não é presumível, ou seja, a culpa do advogado deve ser provada, motivo porque o cliente somente poderá responsabilizá-lo pelo insucesso da demanda demonstrando ter ele obrado com dolo ou culpa.
+Vislumbra-se, pelos elementos colacionados ao feito, que houve negligência dos requeridos, na qualidade de advogados da autora na demanda trabalhista, em deixar de recorrer da sentença desfavorável a ela, fazendo com que perdesse a oportunidade de reverter o resultado do julgamento.
+Contudo, não se deve confundir a simples oportunidade de recorrer com a probabilidade de sucesso do recurso.
+Para fins de indenização baseada na teoria da perda de uma chance, é sabido que somente aquela chance real e séria de obtenção da vantagem pretendida, não fosse o ato ilícito da parte adversa, é passível de ser indenizada.
+(..)
+Ocorre que, como bem esposado pelo juiz singular, a recorrente não logrou comprovar que, não fosse a falhados recorridos em deixar de recorrer, ela teria efetivo sucesso na reformada sentença proferida na Justiça Obreira. O fato de uma colega de trabalho ter obtido resultado diverso, em outra demanda, não convence que a mesma sorte socorreria à requerente.
+(..)
+Anote-se, por oportuno, que o juiz singular não julgou a conduta da autora, mas houve apreciação dos fatos ocorridos na demanda que tramitou na Justiça Obreira, pois, as demandas que invocam a teoria da perda de uma chance devem ser solucionadas a partir de detida análise acerca das reais possibilidade de êxito do postulante, eventualmente perdidas em razão da desídia do causídico.
+De rigor, portanto, a manutenção da r. sentença tal como lançada.
+Dessa forma, reverter a conclusão do Tribunal local, para acolher apretensão recursal, demandaria, necessariamente, aincursão no acervo fático-probatório dos autos, o que não se admite noâmbito do recurso especial, dado o óbice da Súmula 7/STJ.
+A reconsideração da decisão da Presidência, por meio do agravo interno orainterposto, torna prejudicada a análise do pedido de imposição de multa,contido na impugnação apresentada pela parte adversa.
+Diante do exposto, em juízo de reconsideração, conheço do agravo paranão conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honoráriossucumbenciais fixados em favor do patrono da parte recorrida em 2% (doispor cento) sobre o valor da causa.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. VÍCIO DA PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. PERDA DE UMA CHANCE. AÇÃO DE INDENIZAÇÃO JULGADA IMPROCEDENTE. DECISÃO DE ADMISSIBILIDADE IMPUGNADA, AINDA QUE SUCINTAMENTE. NOVA ANÁLISEDO AGRAVO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO, EM JUÍZO DE RECONSIDERAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
