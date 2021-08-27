@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto por AELSO SANT ANA, com respaldona alínea "a"do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DA BAHIA, assim ementado:
+EMENTA: APELAÇÃO Cá/EL. BENEFÍCIO DO TRANSPORTE PÚBLICO GRATUITO. DEFICIÊNCIA MENTAL. PRESENÇA DOS REQUISITOS LEGAIS.RECURSO IMPROVIDO. SENTENÇA MANTIDA.
+1. Não há se falar em necessidade de citação das empresas exploradoras do transporte coletivo urbano, como litisconsortes passivas necessárias, porquanto cabe a elas somente a exploração do serviço, sob regime de concessão, enquanto ao ente municipal compete, na qualidade de titular do serviço público, regular ditos serviços, inclusive, a concessão do beneficio da gratuidade no transporte coletivo municipal. Preliminar rejeitada.
+2. No mérito, conforme se depreende da "Convenção Interamericana para a Eliminação de Todas as Formas de Discriminação contra as Pessoas Portadoras de Deficiência" e da "Convenção Internacional sobre os Direitos das Pessoas com Deficiência", o conceito de "deficiência", para fins de políticas públicas e exercício de direitos, extrapola a mera definição restritiva dada pela ciência médica, para abarcar uma gama muito maior de cidadãos que apresentam limitações físicas, mentais, intelectuais ou sensoriais que dificultam a interação como o meio em que vivem e a inserção na vida cotidiana da sociedade.
+3. O apelado comprovou possuir limitações intelectuais e mentais, razão pela qual foi diagnosticado como portador de "psicose", pelo próprio setor da prefeitura responsável pela concessão de Gratuidade de Pessoa com Deficiência - SETIN (fi.20).
+4. Não bastasse tal constatação contundente, o apelado demonstrou que percebe aposentadoria por invalidez desde 01/02/1981(fi. 23), cuja concessão encontra-se condicionada a uma séria de exigências, entre as quais a perícia médica realizada pelo próprio órgão federal, razão pela qual se conclui que a sua enfermidade o incapacita para os atos da vida cotidiana.
+5. Resta claro, portanto, que o apelado é deficiente mental para fins assistenciais, e que a conduta do Município do Salvador em obstar-lhe a renovação do benefício ao transporte público gratuito se revela em descompasso com a Constituição da República, a Lei Orgânica do Município, as convenções internacionais e a legislação de regência.
+Apelação improvida. Sentença mantida.
+Embargos de declaração rejeitados (e-STJ fls. 191/194).
+Em suas razões, a parte recorrente aponta violação do art.4º, XXI, "a", da Lei Complementar federal n. 80/1994,argumentando, em suma, ser cabívelo recebimento de honorários sucumbenciais decorrentes da atuação do Órgão da Defensoria Públicaquando esta (atuação)se dá contra ente federativo diverso, como no caso presente(e-STJ fls. 198/206).
+Contrarrazões às e-STJ fls. 212/220.
+No primeiro juízo de admissibilidade,o Tribunal de origem não exerceujuízo de retratação emanteve o acórdão recorrido (e-STJ fls. 230/237).
+Recurso foi admitido às e-STJ fls. 268/271.
+Passo a decidir.
+Do que se observa do aresto recorrido, o tema da não percepção de honorários pela Defensoria Pública da Bahia foi decididoà luz de interpretação da Lei Complementar estadual n. 26/2006e da Lei estadual n. 11.045/2008 (e-STJ fls. 193/194 e 235/237).
+Destarte, forçoso reconhecer a inadequação do apelo extremo, porquanto o julgado estadual decidiu o tema com respaldo em disposição de lei local, não passível de exame por esta Corte (Súmula 280 do STF), sendo certo, ainda, que a pretensão recursal contra acórdão que julgar válida lei local contestada em face de lei federal é de índole constitucional, própria de recurso extraordinário (art. 102, III, "d", da Constituição Federal).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
