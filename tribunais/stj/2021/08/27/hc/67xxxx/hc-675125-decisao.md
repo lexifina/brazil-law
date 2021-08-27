@@ -1,0 +1,12 @@
+DECISÃO
+ROSIMEIRE DE FREITAS alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 2061078-29.2021.8.26.0000, em que foi mantida sua prisão preventiva.
+Cautelarmente segregada desde 19/3/2021 pela suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, requer a revogação da medida cautelar extrema, visto que "não foram indicados fatos concretos aptos a justificar a segregação cautelar da paciente, estando a decisão estribada simplesmente na gravidade abstrata do crime, o que configura nítido constrangimento ilegal" (fl. 5).
+Instado a se manifestar, o Ministério Público Federal pugnou pelo não conhecimento do habeas corpus.
+Decido.
+Em relação aos motivos para a imposição da medida cautelar máxima, asseverou o Juízo singular que "Policiais Militares estavam em patrulhamento pela região conhecida como "cracolândia", quando notaram a autuada carregando uma mochila pequena e tomando a direção do fluxo de dependentes químicos.  ..  Trata-se, na hipótese, da apreensão de elevada quantidade de drogas de natureza diversa, extremamente lesivas (21 pinos de cocaína, 5 pedras de crack e 1 porção de maconha 9g de cocaína, 182,1g de cocaína na forma de crack e 44,9g de maconha), o que, aliada às circunstâncias da prisão em flagrante, em local conhecido como ponto de venda de drogas, além da apreensão de balança digital e da confissão da autuada, denota que se destinavam ao comércio espúrio" (fl. 18, grifei).
+A jurisprudência desta Corte Superior é firme ao asseverar que " n ão é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos delituosos, cifrada na significativa quantidade de substância entorpecente apreendida" (RHC n. 93.740/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 12/3/2018, destaquei).
+Nesse sentido:
+ ..
+2. No caso dos autos, foram apreendidos aproximadamente 200 gramas de crack, o que justifica o encarceramento cautelar do recorrente para garantia da ordem pública, consoante entendimento consolidado desta Corte Superior no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva  ..  (RHC n. 57.032/GO, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 19/12/2016, grifei).
+À vista do exposto, nos termos do art. 34, XX, do RISTJ, denego o habeas corpus.
+Publique-se e intimem-se.
