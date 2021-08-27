@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porCONDOMINIO EDIFICIO SANTO ANTONIO,contra decisão que negou seguimento a recurso especial fundamentadona(s) alínea(s) "a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 15/12/2020.
+Concluso ao gabinete em: 01/06/2021.
+Ação:cobrança de débitos condominiais, em fase de cumprimento de sentença, ajuizada pelo agravante, em face de MARINALDO ABRIGATO e CECÍLIA FIRMINO DA SILVA ABRIGATO.
+Decisão interlocutória:deferiu a alteração do polo passivo para inclusão dos herdeiros em substituição do espólio de Marinaldo Abrigato.
+Acórdão:negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+Ação de cobrança de despesas condominiais - fase de cumprimento de sentença - substituição processual - falecimento do executado - ausência de inventário - inclusão dos herdeiros no polo passivo - ordem de citação - decisão acertada - agravo de instrumento não provido.
+Embargos de Declaração: opostos pelo agravante, foram acolhidos em parte, apenas para sanar omissão referente ao incidente de uniformização da jurisprudência.
+Decisão do STJ:deu provimento ao recurso especial interposto pelo agravante, para determinar a observância da jurisprudência do STJ no tocante à substituição processual.
+Acórdão:deu parcial provimento ao agravo de instrumento interposto pelo agravante, para afastar a determinada substituição pelos herdeiros, mantendo o espólio no polo passivo da execução, nos termos da seguinte ementa:
+Agravo de instrumento. Cumprimento de sentença. Cobrança de despesas condominiais.Decisão que determinou a inclusão dos herdeiros no polo passivo diante do falecimento do executado e à ausência de inventário. Insurgência do exequente. Venerando Acórdão que negou provimento ao agravo. Matéria concernente à legitimidade passiva do espólio devolvida à apreciação desta Colenda Câmara por força de decisão proferida em Recurso Especial.Determinação de observação da jurisprudência do Egrégio Superior Tribunal de Justiça. Decisão de primeiro grau reformada. Agravo de instrumento parcialmente provido.
+Embargos de declaração:opostos pelo agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 11, 274, 346,489, 513, §2º, II, e §3º, 841, caput e §4º, 926, 927 e 1.022 do CPC/15, bem como dissídio jurisprudencial. Além de negativa de prestação jurisdicional, sustenta que: i)não há razão para intimar por edital novamente quem está em local incerto e não sabido propositalmente, ainda mais considerando que a citação foi realizada pessoalmente; ii) a divergência no Tribunal precisa ser uniformizada.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da negativa de prestação jurisdicional
+O TJ/SP foi claro ao concluir que: i) tendo em vista a decisão do STJ, a matéria devolvida à apreciação daquela Corte limita-se à ilegimidade dos herdeiros para ocuparem o polo passivo da demanda, enquanto não aberto o inventário e realizada a partilha de bens; no mais, resultou mantido o quanto decidido nos acórdãos anteriores; ii) o Tribunal de origem manteve os fundamentos dos acórdãos anteriores nos demais pontos sobre os quais não houve determinação para observação da jurisprudência do STJ; iii) especificamente quanto à intimação da coexecutada, compulsando-se as cópias dos autos principais verifica-se que a determinação da respectiva intimação remonta à decisão não recorrida; iv) em relação à instauração do IRDR, ficou mantido integralmente o acórdão anterior.
+Dessa maneira, no acórdão recorrido não há omissão, contradição, obscuridade ou erro material. Ademais, foram devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte (AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018). Além disso, inexiste afronta ao art. 489 do CPC/15 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica (AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/2/2018; e AgInt no REsp 1.683.290/RO, 3ª Turma, DJe de 23/2/2018).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 11, 489 e 1.022 do CPC/15, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dosarts.274, 346,513, §2º, II, e §3º, 841, caput e §4º, 926 e927do CPC/15, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts.1.029, §1º, do CPC/2015, e 255, § 1º, do RISTJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados no julgamento do recurso pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. DÉBITOS CONDOMINIAIS. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE DEFERIU A SUBSTITUIÇÃO DO ESPÓLIO PELOS HERDEIROS.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DOS ARTS. 11 E 489 DO CPC/15. INOCORRÊNCIA.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA.
+1.Ação de cobrança de débitos condominiais, em fase de cumprimento de sentença, no bojo da qual foi proferida decisão deferindo a substituição do espólio pelos herdeiros.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 11 e 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo conhecido. Recurso especial parcialmente conhecido e não provido.
