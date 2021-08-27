@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto com fulcro no art. 105, III, "a", da Constituição Federal, em face de acórdão assim ementado (fl. 155):
+Apelação criminal. Furto. Insignificância penal. A designação do fato penalmente insignificante não há de ser formulada tão somente com vistas ao valor material da coisa exposta, senão também, e principalmente, pelo grau de conflituosidade social que a conduta comportou.
+O recorrente foi sumariamente absolvido do delito de furto qualificado. Interposta apelação acusatória, o Tribunal de origem reformou a sentença para dar continuidade à persecução penal.
+No presente recurso, a defesa aduzviolação ao art. 155 do Código Penal, pois "a norma referida não abarca lesões insignificantes" (fl. 170).
+Indica que "a resfurtiva consiste, conforme auto de exibição/apreensão às fls. 07, em cinco metros de fios de cobre, pertencentes à Prefeitura Municipal de Praia Grande, avaliados em R$ 200,00 (duzentos reais)"; e, ainda, que "aresfurtiva, aliás, foirestituída à vítima, que não sofreu, deste modo, qualquer prejuízo" (fl. 171).
+Busca o restabelecimento da sentença absolutória.
+Contrarrazoado e admitido na origem, o Ministério Público Federal opinou pelo não conhecimento do especial.
+A sentença absolutóriapontuou (fl. 113):
+Ante tais considerações, verifica-se da denúncia que é imputado ao réu a prática do crime de furto qualificado de cinco metros de fio de cobre, ocorrendo que a res furtiva foi prontamente restituída à vítima.
+Entendo que a conduta imputada ao denunciado é socialmente irrelevante, pois a vítima não teve qualquer prejuízo em seu patrimônio, eis que, como já observou Rudolphi, a lesão patrimonial deve conceber-se na sua concreta repercussão no âmbito da vida de uma pessoa, e não como uma diminuição abstrata de valor de seu potencial econômico. Destarte, a lesão patrimonial relevante deve possuir um peso (v. Diferentes Aspectos de Concepto de Bien Jurídico, in Nuevo Pensamiento penal, ano 4, 1965, p.329-345).
+O Tribunal de Justiça, por sua vez, deixou de reconhecer a insignificância aos seguintes fundamentos (fls. 156-158):
+Não há, de plano, conduta propriamente desimportante a ponto de ser declarada a sua insignificância penal. Ao contrário, há notícias sérias do cometimento, em tese, de crime patrimonial que envolveu a razoável quantia de duzentos reais em fios de cobre (avaliação às fls. 09), supostamente após o rompimento de obstáculo, vitimando a municipalidade de Praia Grande/SP, tudo o que revela maior preocupação deste sistema criminal de justiça.
+Ou seja, não se pode falar, neste momento apenas preambular da investigação, adequadamente em insignificância penal do fato, tal como se nenhum incômodo tivesse ele causadoà vida da comunidade ou à tranquilidade social das pessoas envolvidas. Um fato é sim penalmente insignificante quando, para os personagens nele envolvidos ou para a comunidade que o recepciona, nada de mais expressivo representou em suas vidas ou em suas preocupações. Nesse sentido, a régua com que se há de medir essa grandeza não é, necessariamente, aquela da avaliação simplesmente econômica e material, importando, e muito, as circunstâncias com que o bem concretamente foi exposto.  ..
+Finalmente, consigna-se, mais uma vez, que o quadro ora desenhado limita-se ao estágio processual até então desenvolvido e, de modo algum, aponta para algum desfecho dessa ação penal que tornará a marchar, nada obstando que o juízo competente de piso entenda por tal ou qual solução aocaso, mas tudo após a rigorosa instrução processual que aflorará nos autos.
+Aincidência do princípio da insignificância pressupõe a concomitância de quatro vetores, a saber: a) a mínima ofensividade da conduta do agente; b) nenhuma periculosidade social da ação; c) o reduzidíssimo grau de reprovabilidade do comportamento e d) a inexpressividade da lesão jurídica provocada.
+No caso, o Tribunal de origem apontou a "razoável quantia de duzentos reais em fios de cobre" para afastar o bagatela-montante que corresponde acerca de 20% do valor do salário-mínimo à época dos fatos (agosto de 2019 - R$ 998,00).
+Nos termos da jurisprudência do Superior Tribunal de Justiça, é "incabível a aplicação do princípio da insignificância quando o montante do valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos" (AgRg no REsp 1.729.387/MG, Rel. Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 09/05/2018).
+Refuta-se, deste modo, a aplicação do princípio da bagatela, não sendo possível acolher o pedido de absolvição do recorrente.
+Estando o acórdão impugnado em consonância com a jurisprudência desta Corte, tem incidência a Súmula83/STJ.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+Intimem-se.
