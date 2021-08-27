@@ -1,0 +1,16 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA.CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. AUSÊNCIA DE PREPARO. DESERÇÃO. RECOLHIMENTO OBRIGATÓRIO. ART. 4o., PARÁGRAFO ÚNICO, DA LEI 9.289/1996. TEMA DEFINITIVAMENTE DECIDIDO, SOB O REGIME DOS REPETITIVOS (RESP1.338.247/RS, REL. MIN. HERMAN BENJAMIN, DJE 19.12.2012). AGRAVO DO CONSELHO PROFISSIONAL A QUE SE NEGA PROVIMENTO.
+1. O CONSELHO REGIONAL DE TECNICOS EM RADIOLOGIA DA 4a. REGIAO agrava da decisão que negou seguimento ao seu Recurso Especial, interposto com fundamento no art. 105, III, alínea a, da Constituição Federal, contra acórdão do egrégio Tribunal Regional Federal da 2a. Região, assim ementado:
+PROCESSO CIVIL. EXECUÇÃO FISCAL. CONSELHO DE FISCALIZAÇÃO PROFISSIONAL. CUSTAS JUDICIAIS. RECOLHIMENTO. LEI 9.289/96.
+É correta a sentença que cancela a distribuição de execução aforada por Conselho Regional de Técnicos em Radiologia quando, mesmo devidamente intimado, o exequente não recolheu as custas judiciais. Inviabilidade do pedido de pagamento ao final, uma vez que a Lei 9.289/96 (que regulamenta as custas no âmbito da Justiça Federal) não prevê o pagamento das custas ao final do processo. Apelação desprovida (fls. 225).
+2. Os Embargos de Declaração opostos foram rejeitados (fls. 244/247).
+3. Nas razões do Recurso Especial, a parte ora agravante sustenta que, ao negar o direito da autarquia federal de recolher as custas ao final do processo, fundamentando a decisão na ausência de direito de isenção, previsto noart. 4o., parágrafo único, da Lei 9.289/1996, o acórdão recorrido violou o art. 91 do CPC/2015. Além disso, teria o julgado impugnado violado também o art. 1.022 do CPC/2015, por incorrer em deficiente prestação jurisdicional, consistente em omissão.
+4. Semcontrarrazões, o recurso foi inadmitido na origem (fls. 282/283).
+5. É o relatório.
+6. A irresignação não merece acolhimento.
+7. Inexiste a alegada violação do art. 1.022 do CPC/2015, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido. O Tribunal de origem apreciou fundamentadamente a controvérsia, não padecendo o julgado de qualquer erro, omissão, contradição ou obscuridade. Observe-se, ademais, que julgamento diverso do pretendido, como na espécie, não implica ofensa ao dispositivo de lei invocado.
+8. Quanto ao mais, consoante a pacífica jurisprudência do STJ, não obstante a natureza jurídica de Autarquia, os Conselhos de Fiscalização Profissional não estão isentos do pagamento de custas, em virtude do previsto no parágrafo único do art. 4o. da Lei 9.289/96.
+9.O STJ submeteu o tema a julgamento sob o regime dos recursos repetitivos (REsp. 1.338.247/RS, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2012), ficando a questão definitivamente decidida.
+10. Ademais, consoante destacado pelo juízo de prelibação (fls. 283), na presente hipótese, a despeito de intimada para efetuar o preparo, nos termos art. 1.007, § 4o. do CPC/2015, nãocomprovou o recolhimento, circunstância que ensejou a declaração dadeserção do Recurso Especial, nos termos da Súmula 187/STJ.
+11. Ante o exposto, nega-se provimento ao Agravo em Recurso Especial do Conselho Profissional.
+12. Publique-se. Intimações necessárias.
