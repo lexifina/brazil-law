@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Reynaldo Soares da Fonseca, Ribeiro Dantas e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A HONRA. QUEIXA-CRIME.POSSIBILIDADE DE RECEBIMENTO. NECESSIDADE DE REEXAME DE ELEMENTOS PROBATÓRIOS. SÚMULA N. 7 DO STJ.
+1. A análise de questão referente à existência de elementos que possam configurar crimescontra a honra e, por conseguinte, possibilitar orecebimentodequeixa-crime é inviável em recurso especialse, para tanto, for necessário o reexame do contexto fático-probatório considerado para a resolução da controvérsia.
+2. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interpostocontra decisão que conheceu do agravo em recurso especial para não conhecer do recurso especial com fundamento nas Súmulas 7 do STJ e 284 do STF(fls. 598-603).
+Nas razões recursais, alega o agravante que referidos óbices sumulares não têm incidência, visto que o recurso especial atendeu aos pressupostos de admissibilidade.
+Requer, pois, a retratação da decisão agravada para conhecimento e provimento do recurso.
+O Ministério Público Federal manifesta-se pelo não conhecimento do agravo regimental (fls. 620-625)
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIMES CONTRA A HONRA. QUEIXA-CRIME.POSSIBILIDADE DE RECEBIMENTO. NECESSIDADE DE REEXAME DE ELEMENTOS PROBATÓRIOS. SÚMULA N. 7 DO STJ.
+1. A análise de questão referente à existência de elementos que possam configurar crimescontra a honra e, por conseguinte, possibilitar orecebimentodequeixa-crime é inviável em recurso especialse, para tanto, for necessário o reexame do contexto fático-probatório considerado para a resolução da controvérsia.
+2. Agravo regimental desprovido.
+VOTO
+O recurso especial foi interposto contra acórdão assim ementado (fl. 511):
+RECURSO EM SENTIDO ESTRITO. Crimes contra a honra. Calúnia, injúria e difamação. Rejeição da queixa-crime. Recurso do querelante. Expressões utilizadas por advogados em lide contenciosa nos limites da atuação profissional. Dolo não demonstrado. Decisão mantida. Recurso improvido.
+Nas razões do recurso especial, pondera o recorrente que, em contestação apresentada em ação indenizatória proposta contra massa falida, foram-lheatribuídos fatos concernentes à falsidade de documentos, tendo sido chamado de "indefectível". Afirma que sua honra foi ofendida, já que lhe foram imputados crimes e fraudes. Sustenta que os requisitos da inicial acusatória estavam presentes, já que exposto o fato criminoso com todas as suas circunstâncias, a qualificação dos acusados e a classificação dos crimes, bem comoque é possível a configuração de crime contra a honra em ambiente judicial. Nesse contexto, aduz que os fundamentos utilizados para a rejeição da queixa-crime importam emviolação dos arts.41 e 395, III, do CPP e 138, 139 e 140 do CP.
+No acórdão recorrido (fls. 326-331), decidiu-se que a intenção dos querelados era a defesa do patrimônio da massa falida. Concluiu-se também, pela análise de decisões judiciais,que as imputações de fraude não foram dirigidas ao recorrente, razão pela qual não se evidencioua presença de animus injuriandi. Observe-se (fls. 513-514):
+Contudo, pelo que se infere dos autos, o inconformismo do querelante circunda argumentos e expressões utilizados pelos querelados no estrito exercício de sua atividade profissional, notadamente na peça de contestação apresentada no processo n. 1114183-31.2018.8.26.0100, em ação indenizatória ajuizada por Compa ia Administradora de Valores Sociedade Anônima em face da massa falida de Barnet Ind. e Comércio S/A, que ao final foi julgada extinta, pelo reconhecimento da coisa julgada (fls. 291/292).
+É evidente, pelas próprias narrativas e expressões destacadas pelo querelante como supostamente ofensivas, que a intenção dos querelados, advogados da massa falida, era a Defesa do patrimônio daquela.
+Além disso, muito embora o nome do querelante tenha sido mencionado ao longo da peça de defesa, as imputações de fraude não foram dirigidas a ele, mas às pessoas jurídicas envolvidas na venda do imóvel em discussão e, de qualquer forma, o que se vê nas cópias da sentença proferida na ação revocatória n. 000.02.030377-7 e do v. acórdão que julgou a apelação cível n. 401.296-4/8-00, é que de fato foi reconhecida a simulação na sobredita relação jurídica (fls. 389/407 e 408/426). Portanto, quanto ao argumento de que a contestação "desbordou do objeto específico da lide", verifica-se que além de não serem dirigidas ao querelante, as supostas imputações de fraude não passaram, em verdade, de mera narrativa de complexo e longo embate judicial que precedeu aquela ação.
+Em suma, como bem aduzido pela douta Procuradoria de Justiça "pelas expressões utilizadas no debate da causa, não se pode aduzir a intenção de ofender, qual seja, a presença do "dolo específico", cognominado "animus injuriandi". Afinal a expressão "indefectível" pode assumir diferentes significados e as demais como "offshore" são pertinentes em uma causa em que discute a falência. Isso sem contar que as ofensas indicadas se dirigiram às pessoas jurídicas e não diretamente ao apelante, bem como as imputações foram consideradas legítimas na decisão proferida no processo correspondente." (fls. 490).
+Nesse cenário, para concluirpela existênciade elementos que possam configurar crime contra a honra e, por conseguinte, viabilizar orecebimentoda queixa-crime e reconhecer que, por isso, foram violados os arts. 41 e 395, III, do CPP e 138, 139 e 140 do CP, é necessário o reexame do contexto probatório considerado para a resolução da controvérsia, procedimento defeso na via do recuso especial, conforme dispõe a Súmula n. 7 do STJ.
+Ante o exposto, nego provimento ao agravo regimental
+É como voto.
