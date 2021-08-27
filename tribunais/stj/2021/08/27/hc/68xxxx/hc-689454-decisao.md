@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar, em face de acórdão assim ementado (fl. 18):
+Agravo em Execução Progressão de regime Recurso Ministerial - Ausência de pagamento de pena de multa Inexistência de exigência legalInteligência do artigo 112, CPP Decisão mantida Recurso desprovido.
+Consta que o paciente foi condenado à pena de 10 anos, 10 meses e 20 dias de reclusão, com incurso nos artigos 33 e 35 da Lei n. 11.343/06.
+No cumprimento da sentença, o Juízo das Execuções deferiu ao sentenciado a progressão ao regime semiaberto.
+O Ministério Público do Estado de São Paulo interpôs agravo em execução, requerendo a reforma da decisão que deferiu a progressão de regime, alegando, em suma, que o pagamento da pena de multa é condição para a progressão de regime prisional, conforme entendimento atual do Supremo Tribunal Federal.
+No presente writ, a defesa sustenta que no cálculo de penas para fins de progressão de regime dever incidir, no caso, a previsão mais benéfica da nova redação do art. 112, inciso V, da LEP, uma vez que, embora o paciente seja reincidente, não é reincidente específico.
+Requer, liminarmente e no mérito, a retificação do cálculo de pena, para que seja aplicado o porcentual de 40% para fins de progressão de regime.
+Em consulta ao andamento processual, verifica-se que o julgamento do recurso de agravo em execução ocorreu em 04/08/2021 (processo n. 0001964-22.2021.8.26.0154/TJSP).
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Verifica-se que em 29/05/2021, o Juízo das Execuções indeferiu o pedido de retificação e, por entender que estava correto, homologou o cálculo elaborado às fls. 162/164, considerando, para satisfação do requisito objetivo referente à progressão de regime prisional, o cumprimento de 40% da reprimenda adstrita ao delito de natureza hedionda (fls. 118-119).
+Em 10/06/2021, o Juízo das Execuções rejeitou a alegação do Ministério Público no sentido de que seria necessário o pagamento da multa como condição para deferimento da progressão, e, considerando que o sentenciado já havia preenchido os requisitos para a progressão, deferiu o pedido de progressão ao semiaberto (fls. 38-39).
+Consoante relatado, o Ministério Público interpôs recurso de agravo em execução, que foi desprovido pelo Tribunal de origem, nos seguintes termos (fls. 18-20):
+Trata-se de Agravo em Execução interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO, contra a decisão de fls. 18/19, que deferiu progressão ao regime semiaberto ao sentenciado TIAGO DANIEL DA SILVA Pleiteia a reforma da decisão recorrida, alegando, em suma, que o pagamento da pena de multa é condição para a progressão de regime prisional, conforme entendimento atual do Supremo Tribunal Federal.
+Assevera, ainda, que , o fato de a Resolução nº 616/2013 do Órgão Especial do Tribunal de Justiça do Estado de São Paulo excluir do Departamento de Execuções Criminais a cobrança da pena de multa não significa que a pena de multa deva deixar de ser executada e que a única justificativa para a progressão sem o adimplemento da pena pecuniária é a absoluta impossibilidade do adimplemento, o que sequer foi verificado pelo prolator da decisão agravada, em flagrante desrespeito ao direito do Ministério Público de obter informações sobre a real capacidade econômica do agravado (fls. 1/14).
+Foi oferecida contraminuta (fls. 33/40).
+Mantida a r. decisão (fl. 41/42), o recurso foi devidamente processado e, nesta instância, a d. Procuradoria de Justiça opinou pelo provimento do agravo (fls. 47/52).
+É o relatório.
+O recurso nãocomporta provimento.
+Com efeito, por decisão datada de 10.06.2021, o Juízo "a quo", ao analisar o pedido formulado, deferiu a progressão ao regime semiaberto, ante o preenchimento dos requisitos objetivo e subjetivo (fls. 18/19).
+Não assiste razão ao agravante ao pleitear a reforma da r. decisão, sob o pretexto do inadimplemento da pena de multa pelo sentenciado. Inicialmente, cumpre observar que, inobstante o posicionamento exarado pelo Pretório Excelso, o pagamento da pena de multa não consta como requisito legal para a progressão de regime, o que se extrai da análise do art. 112, da Lei de Execuções Penais, o qual transcrevo: "Art. 112. A pena privativa de liberdade será executada em forma progressiva com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido ao menos um sexto da pena no regime anterior e ostentar bom comportamento carcerário, comprovado pelo diretor do estabelecimento, respeitadas as normas que vedam a progressão."
+Assinalo também que, nos autos onde o Ministro Roberto Barroso exarou seu posicionamento, ocasião em que ressaltou a importância do pagamento da pena de multa, o sentenciado havia sido condenado pela prática de crime contra a Administração Pública e causado dano significativo ao erário.
+Em uma análise rasa acerca da situação do agravado, verifica-se que o contexto em que foi firmado o entendimento jurisprudencial difere do caso destes autos, eis que o agravado responde pelos crimes de tráfico ilícito de entorpecentes e de associação criminosa.
+Desta forma, a r. decisão recorrida não merece nenhum reparo, devendo ser mantida por seus próprios e jurídicos fundamentos.
+Ante o exposto, nega-se provimento ao recurso.
+Como se observa, a matéria relativa ao lapso temporal necessário para a progressão de regime não foi abordada no acórdão combatido, o que impede o seu exame por esta Corte Superior, sob pena de indevida supressão de instância.
+Ademais, carece a impetrante de interesse na reforma da decisão do Juízo das Execuções, na medida em que esta já considerou, para satisfação do requisito objetivo referente à progressão de regime prisional, o cumprimento de 40% da reprimenda adstrita ao delito de natureza hedionda, o que não foi alterado pelo Tribunal no julgamento do agravo em execução.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
