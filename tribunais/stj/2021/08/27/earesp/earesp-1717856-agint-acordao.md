@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Francisco Falcão, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com a Sra. Ministra Relatora.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Cuida-se, na origem, de ação de conhecimento.
+2. Não merece conhecimento o agravo interno que não impugna especificamente os fundamentos da decisão agravada.
+3. O agravo interno é manifestamente inadmissívelquando a parte agravante não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
+4. Agravo interno não conhecido, com aplicação de multa.
+RELATÓRIO
+Cuida-se de agravo interno interposto JANDERSON MATHIAS OLIVEIRA, contra a decisão unipessoal da Presidência do STJ, que indeferiu liminarmente os embargos de divergência que opusera.
+Ação: de conhecimento, ajuizada pelo ora agravante em face da UNIÃO FEDERAL, objetivando, em síntese, a retificação do ato administrativo que decretou sua reforma do serviço militar, a concessão de auxílio invalidez, a isenção de IRPF dos proventos a serem recebidos e o pagamento das diferenças e valores que alega lhe serem devidos.
+Decisão interlocutória: reconheceu de plano a prescrição quinquenal dopedido de retificação do ato de reforma, ressaltando, ainda, a possibilidade de ter havido coisa julgada sobre referida pretensão, pois a retificação do ato de reforma do autor foi objeto do processo nº 0000013-68.2012.4.02.5114, que tramitou junto a 1ª Vara Federal de Magé. Desse modo, excluiu de plano o referido pedido, determinando o prosseguimentoda demanda quanto aos demais pedidos formulados, bem como deferiu a gratuidade de justiça.
+Acórdão: negou provimento ao agravo de instrumento interposto pelo agravante, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. MILITAR. RETIFICAÇÃO DE ATO DE REFORMA. INEXISTÊNCIA DE INCAPACIDADE ABSOLUTA. INAPLICABILIDADE DO BENEFÍCIO DO ART. 198, I, DO CÓDIGO CIVIL. PRESCRIÇÃO DOFUNDO DE DIREITO. ART. 1º DO DECRETO 20.910/32.
+1. Trata-se de Agravo de Instrumento, com pedido liminar, interposto por JANDERSONMATHIAS OLIVEIRA em face da UNIÃO FEDERAL objetivando cassar decisão do Juízo da 18ªVara Federal do Rio de Janeiro que reconheceu a prescrição quinquenal quanto ao pedido de retificação do ato de reforma do autor.
+2. Inicialmente, verifica-se que o autor, ora agravante não é absolutamente incapaz, visto que assinou os documentos que instruem a inicial, permitindo o ajuizamento da demanda, fls. 8/10dos autos originais. Neste eito, não faz jus ao benefício previsto no art. 198, I, do Código Civil.
+3. Ademais, conforme bem pontuado pelo Parquet Federal "os elementos de prova acostados aos autos pelo próprio autor/agravante denotam que ele é capaz para os atos da vida civil. Nesse aspecto, não se pode deixar de citar a conclusão do laudo pericial, elaborado em julho de2012 e encartado às fls. 491/496 dos autos do processo nº 2012.51.14.000013-6, tombado perante a 1ª Vara Federal de Magé/RJ, em que restou pontificado que "(..) tendo em vista o quadro psíquico atual do pericial, no qual não se observam sintomas ativos de episódio maníaco, o Autor não apresenta incapacidade absoluta para o trabalho." (fl. 494).".
+4. Neste eito, escorreito o decisum ora objurgado, considerando o princípio de actio nata, face à constatação na hipótese da prescrição do fundo de direito, nos moldes do Decreto 20.910/32, sobretudo tendo em conta a jurisprudência dos Tribunais Superiores e dos Regionais, que se orientam no mesmo diapasão, em ação em que se busca retificação de ato administrativo.
+5. In casu, o ato de reforma do autor ocorreu em janeiro de 2011, conforme informado à fl. 02dos autos originais e de acordo com o documento de fl. 23 dos originários, tendo a presente demanda sido ajuizada em 14.05.2017 (fl. 33 dos originários), a pretensão de alteração, assim, encontra-se fulminada pelo lustro prescricional de 5 (cinco) anos, inserto no art. 1º do Decreto20.910/32.
+6. Agravo de Instrumento conhecido e desprovido.
+Recurso especial: interposto pelo agravante, foi inadmitido pelo Tribunal de origem, o que ensejou a interposição de agravo em recurso especial.
+Decisão unipessoal da Presidência do STJ: conhecendo doagravo, não conheceu do recurso especial interposto pelo agravante.
+Acórdão da 1ª Turma/STJ: não conheceu do agravo interno interposto pelo agravante, nos termos da seguinte ementa:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DO FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA 182/STJ. INCIDÊNCIA.
+1. "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. Agravo interno não conhecido.
+Embargos de divergência: opostos pelo agravante, apontam divergência entre o entendimento do acórdão embargado e a orientação adotada: (i) pela 2ª Turma no REsp 1.510.915/RS; (ii) pela 3ª no REsp 47.169/MG; e (iii) pela 2ª Turma no AREsp 1.088.794/SP.
+Decisão unipessoal da Presidência do STJ: indeferiu liminarmente os embargos de divergência, sob o fundamento de que não se admite a interposição de embargos de divergência quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia.
+Agravo interno: nas razões do presente recurso, o agravante discorre sobre a União Federal ter aberto mão do direito de defesa e alega que a conduta do Tribunal de origem configura error in procedendo, requerendo a intervenção do STJ para admissibilidade do recurso especial e a adoção das providências cabíveis ou/e resolução do direito de acordo com as conclusões técnicas do Corpo Técnico da Diretoria de Saúde Militar, para:
+"a) Tornar sem efeito Tornar sem efeito a decisão de primeiro grau ou/ea decisão de primeiro grau ou/e acórdão; ou/e
+b) Oficiar o órgão/julgador da primeira instância ou/e do Tribunal Federal de origem, com propósito de: de origem, com propósito de:
+I - Declarar o direito da parte/reclamante em ser reformada de acordo com as consequências das conclusões técnicas as consequências das conclusões técnicas do colegiado da Diretoria de Saúde do Comando da Marinha, o qual, sob presidência da Capitã de Mar e Guerra Andréa Maria de Cerqueira Sá - CRM 52.1110-1 - certifica o quadro de invalidez por transtorno, conforme declaração pública anexada nas fls.: 83 perante o Tribunal Federal de origem; ou/e
+II - Fixar prazo para a autoridade/pública responsável pela Consultoria Jurídica Adjunta do Comando da Marinha ou/e pelo Departamento Pessoal do Comando do 1º Distrito Naval Distrito Naval instaurar procedimento administrativo e proferir decisão fundamentada determinando que a autoridade/competente efetive a reforma da parte/ com o soldo do último posto/graduação do plano de carreira ou/e de acordo com as conclusões técnicas emitidas pelo Corpo Médico da Diretoria de Saúde, o qual, sob presidência da Capitã de Mar e Guerra Andréa Maria de Cerqueira Sá - CRM 52.1110-1 - consigna o quadro de invalidez por transtorno mental, conforme documento oficial nas fls.: 83 no Tribunal Federal de origem." (e-STJ fl. 254).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO. RAZÕES DO AGRAVO QUE NÃO INFIRMAM OS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. RECURSO MANIFESTAMENTE INADMISSÍVEL. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CPC.
+1. Cuida-se, na origem, de ação de conhecimento.
+2. Não merece conhecimento o agravo interno que não impugna especificamente os fundamentos da decisão agravada.
+3. O agravo interno é manifestamente inadmissívelquando a parte agravante não impugna, especificamente, todos os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
+4. Agravo interno não conhecido, com aplicação de multa.
+VOTO
+A decisão agravada indeferiu liminarmente os embargos de divergência opostos pelo agravante, com base nos seguintes fundamentos (e-STJ fls. 248/249):
+"Os embargos não reúnem condições de serem processados. Mediante análise dos autos, verifica-se que o acórdão embargado concluiu pela impossibilidade de se analisar o mérito do recurso especial em razão da incidência da Súmula 182/STJ.
+Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+Como se vê, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia.
+No mesmo sentido é a jurisprudência consolidada neste Superior Tribunal de Justiça:
+PROCESSUAL CIVIL. CONSUMIDOR. AÇÃO DE INDENIZAÇÃO. DANO MATERIAL E MORAL. VEÍCULO. DEFEITO DE FABRICAÇÃO. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. NÃO COMPROVAÇÃO DA DIVERGÊNCIA. NÃO COMPROVAÇÃO DA ATUALIDADE DO DISSÍDIO.
+I - Na origem, trata-se de ação objetivando, em síntese, reparação por danos moral e material decorrente da responsabilidade civil da montadora de veículo findada em vício de fabricação. Na sentença, julgou-se improcedente o pedido. No Tribunal a quo, a sentença foi mantida.
+II - Nos termos do art. 1.043 do Código de Processo Civil e do art. 266 do Regimento Interno do Superior Tribunal de Justiça, os embargos de divergência são cabíveis contra acórdão que, em recurso especial, divergir do julgamento de qualquer outro órgão do Tribunal, sendo ambos os acórdãos, embargado ou paradigma, de mérito, ou quando, embora não conhecendo do recurso, tenham apreciado a controvérsia.
+III - Outrossim, não é admissível o recurso de embargos de divergência, quando o acórdão recorrido não tenha apreciado o mérito ou a controvérsia. Nesse sentido: Agint nos EREsp n. 1500624/MG. Relator Ministro Francsico Falcão, Primeira Seção, DJe de 1/4/2019.
+(..)
+VI - Agravo interno improvido.
+(AgInt nos EREsp 1848530/DF, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 01/12/2020, DJe 07/12/2020)
+Mencionem-se, ainda, dentre inúmeros outros, os seguintes julgados da Corte Especial: AgInt nos EREsp 1345680/SC, relator Ministro Napoleão Nunes Maia Filho, Corte Especial, DJe de 19/4/2017; e AgInt nos EREsp 1226477/RS, relator Ministro Humberto Martins, Corte Especial, DJe de 26/10/2016.
+Ante o exposto, com fundamento no art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça, c/c o art. 266-C do mesmo diploma legal, indefiro liminarmente os embargos de divergência."
+Pela análise das razões recursais apresentadas, verifica-se que o agravante traz alegações dissociadas da decisão impugnada, referentes a matérias que não foramanalisadas por esta Corte no presente processo.
+Por isso, o conhecimento do agravo interno é inadmissível, ante a ausência de impugnação específica dos fundamentos da decisão agravada, nos termos do art. 1.021, § 1º, do CPC/2015 e da Súmula 182/STJ.
+Nesse sentido, confiram-se os seguintes julgados: AgInt nos EAREsp 1.198.210/DF, Corte Especial, DJe 26/03/2021; AgInt nos EAREsp 1.531.500/MS, 2ª Seção, DJe 12/02/2021.
+Forte nessas razões, NÃO CONHEÇO do presente agravo interno.
+Tem-se como manifestamente inadmissível o agravo interno que não impugna, especificamente, os fundamentos da decisão agravada, como determina o art. 1.021, § 1º, do CPC/15, razão pela qual, na hipótese de ser assim declarado à unanimidade, fixo multa de 1% sobre o valor atualizado da causa, com fulcro no § 4º do art. 1.021 do CPC/15.
