@@ -1,0 +1,33 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de JULIO RODRIGUES FREITAScontra decisão de Desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁque indeferiu pedido liminar no HC n.0807484-37.2021.8.14.0000.
+Extrai-se dos autos que o paciente foi preso em cumprimento de mandado de prisão por supostamente participar de associação criminosa de tráfico de drogas, tipificado no art. 33, §1º da Lei N. 11.343.
+Irresignada, a defesa impetrou o habeas corpus originário, cuja liminar foi indeferida pelo Desembargador Relator, conforme decisão de fls. 17/18.
+No presente writ, o impetrante alega necessidade de superação da Súmula n. 691 do Supremo Tribunal Federale reitera as alegações da impetração origináriano sentido de excesso de prazo na prisão sem manifestação do Juízo de primeiro grual ou realização de audiência de custódia do paciente.
+Pugna, assim, pela "(a) a concessão do PEDIDO LIMINAR, para revogar a prisão preventiva do paciente, conforme argumentação acima exposta, com a imediata expedição de alvará de soltura em seu favor; e(b) NO MÉRITO, conforme demonstrado em toda defesa o paciente não cometeu crime algum o que requer ABSOLVIÇÃO SUMÁRIA e o devido trancamento da ação penal a que lhe atribui como réu, caso assim não entende seja dada a confirmação do pleito liminar, com a concessão definitiva da ordem para revogar a prisão cautelar decretada"(fl. 27).
+É o relatório.
+Decido.
+A jurisprudência desta Corte Superior, aplicando por analogia o enunciado n. 691 da Súmula do Supremo Tribunal Federal, firmou-se no sentido de não conhecer de mandamus impetrado contra decisão que indefere liminar na origem, excetuados os casos nos quais, de plano, é possível identificar flagrante ilegalidade ou teratologia do referido decisum, o que não ocorre no presente caso.
+Nesse sentido, destaco os seguintes precedentes:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. INDEFERIMENTO LIMINAR DA PETIÇÃO INICIAL. TRÁFICO DE DROGAS. GRANDE QUANTIDADE DE MACONHA APREENDIDA. DELITO PRATICADO DURANTE A PANDEMIA DA COVID-19. PRISÃO PREVENTIVA. SÚMULA 691/STF. AUSÊNCIA DE ILEGALIDADE MANIFESTA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Esta Corte Superior firmou entendimento no sentido de não ser cabível habeas corpus contra decisão que indefere pedido de liminar na origem, a não ser em hipóteses excepcionais, quando demonstrada flagrante ilegalidade, a teor do disposto no enunciado da Súmula 691 do STF.
+2. Na hipótese, não há ilegalidade apta a justificar pronunciamento antecipado deste Superior Tribunal de Justiça, não sendo o caso de mitigação do referido verbete sumular.
+3. Agravo regimental não provido.
+(AgRg no HC 582.494/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 16/06/2020, DJe 22/06/2020).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO CAUTELAR. EXPRESSIVA QUANTIDADE DE ENTORPECENTES. GRAVIDADE CONCRETA DO CRIME. SÚMULA N. 691 DO STF. DECISÃO DO RELATOR QUE INDEFERIU O PEDIDO LIMINAR. TERATOLOGIA. FALTA DE RAZOABILIDADE. INEXISTÊNCIA. DECISÃO FUNDAMENTADA. JULGAMENTO MERITÓRIO. SUPRESSÃO DE INSTÂNCIA.
+1. A jurisprudência desta Corte é firme na compreensão de que não tem cabimento o habeas corpus para desafiar decisão do relator que indeferiu o pedido liminar. Inteligência do enunciado sumular 691 do Supremo Tribunal Federal. Precedentes.
+2. Os rigores do mencionado verbete somente são abrandados nos casos de manifesta teratologia da decisão ou constatação de falta de razoabilidade.
+3. Encontrando-se a decisão suficientemente motivada e fundamentada, não há como afastar o óbice ao conhecimento do remédio constitucional, devendo se aguardar o julgamento meritório da impetração perante o Tribunal de origem, sob pena de indevida supressão de instância.
+4. Agravo regimental desprovido.
+(AgRg no HC 576.983/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 25/06/2020).
+Na hipótese não vislumbro a possibilidade de superação do mencionado enunciado sumular, notadamente porque não houve o exame do mérito do pedido pelo colegiado da Corte Estadual, tendo o relator assim asseverado (fls. 19/20):
+"Passo a decidir monocraticamente, com fundamento no art. 133, X, do Regimento Interno deste e. Tribunal.
+O conhecimento do habeas corpus, sem o pronunciamento do magistrado a quo, traduz supressão de instância.
+Há óbice processual ao conhecimento da impetração, já que não houve manifestação da autoridade coatora sobre o pedido de revogação da prisão preventiva, o que impede sua apreciação, de forma antecedente, por este Tribunal.
+Perfilhando esse entendimento cito julgado do Superior Tribunal de Justiça:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. FURTOQUALIFICADO. DOSIMETRIA. REDUÇÃO DA PENA-BASE. ARREPENDIMENTO POSTERIOR. TEMAS NÃO ANALISADOS PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REGIME PRISIONAL FECHADO MANTIDO. MAUS ANTECEDENTES E REINCIDÊNCIA. OFENSA À SÚMULA 269/STJ NÃO CARATERIZADA. WRIT NÃO CONHECIDO. 1. Esta Corte eo Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado. (..) 3. Quanto ao pleito de redução da pena-base e de reconhecimento do arrependimento posterior do agente, em que pesem os esforços da impetrante, verifica-se que tais matérias não foram objeto de cognição pela Corte de origem, o que obsta seu exame por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte. (..)5. Writ não conhecido". (HC 548.755/ES, Rel. Ministro Ribeiro Dantas, Quinta Turma, julgado em11/02/2020, DJe 14/02/2020).
+Nesse contexto, não conheço do Habeas corpus.
+No entanto, determino, de ofício, que o magistrado a quo profira decisão acerca do pedido de revogação da prisão preventiva o mais breve possível."
+Note-se que o indeferimento da tutela de urgência pautou-se em fundamentação idônea ao afirmar que o constrangimento ilegal aventado pelo impetrante não estava manifesto, de modo que a análise das alegações deveria ser analisada primeiro pelo Juízo de piso.
+Assim, de acordo com a pacífica jurisprudência do Superior Tribunal de Justiça, a fim de evitar indevida supressão de instância, deve-se aguardar o julgamento de mérito da impetração pela Corte de origem.
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
