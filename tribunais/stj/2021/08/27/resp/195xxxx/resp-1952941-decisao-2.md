@@ -1,0 +1,5 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto pelaFAZENDA DO ESTADODE SÃO PAULO, mediante o qual se impugna acórdão, promanado do Tribunal de Justiça daquele Estado, no qual se controverte sobre a legitimidade de cobrança de ICMS.
+Tendo em vista que o julgamento do Recurso Especial da parte ex adversa - no qual se discute sobre a possiblidade, ou não, de fixação de honorários, em causas de valor elevado, com base na apreciação equitativa - foi suspenso,nestes mesmos autos,na sistemática dos recursos repetitivos, com determinação de baixa dos autos ao Tribunal de origem, tem-se que a apreciação, desde logo, deste Recurso Especial também se encontra impossibilitada, uma vez que ajurisdiçãoda Corte a quo, rigorosamente, ainda não estáesgotada.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que, após a publicação do acórdão do recurso especial repetitivo em comentoe a consequente retratação, ou não, do acórdão recorrido, seja o Recurso Especial fazendárionovamente remetido a este STJ, para apreciação e julgamento, caso não esteja já prejudicado.
+I.
