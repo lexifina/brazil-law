@@ -1,0 +1,18 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “APELAÇÃO/REMESSA NECESSÁRIA. DIREITO ADMINISTRATIVO. AÇÃO DE OBRIGAÇÃO DE FAZER. Professora aposentada da rede pública municipal. Pretensão ao recebimento do piso nacional dos professores de acordo com o previsto na Lei Federal nº 11.738/2008. Lei Municipal que prevê carga horária inferior ao piso nacional. Adequação proporcional na remuneração que se impõe. Inobservância do piso salarial nacional instituído pela Lei Federal nº 11.738/08, que foi declarada constitucional pelo Supremo Tribunal Federal, no julgamento da ADI 4.167/DF. O artigo 2º, § 4º da referida lei estabelece o limite máximo de 2/3 (26,6%), para desempenho de atividades de interação com os educandos. A carga horária a ser considerada para efeitos do teto deve ser aquela destinada às horas-aula. Correta a sentença ao estabelecer o percentual de 86,46%, que equivale à proporção existente entre as 26,6 horas aula previstas na lei federal, e as 23 horas aula previstas na lei municipal. Devido o pagamento das parcelas pretéritas a partir de 27.04.2011. Juros e correção monetária, nos termos do art. 1º-F, da Lei nº 9.494/97. Honorários de 10% sobre o valor da condenação, nos termos do art. 85, § 2º, do NCPC. Manutenção. RECURSO VOLUNTÁRIO A QUE SE NEGA PROVIMENTO. MANUTENÇÃO DA SENTENÇA EM REMESSA NECESSÁRIA.”
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 19; e 37, incisos II e X, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 27 de agosto de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
