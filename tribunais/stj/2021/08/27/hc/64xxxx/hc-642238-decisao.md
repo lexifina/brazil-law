@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ANDERSON SALGUEIRO DOS SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Distrito Federal e Territórios.
+Colhe-se dos autos que o Magistrado de Primeiro Grau indeferiu o pedido de concessão de trabalho externo a ser realizado na empresa administrada pela genitora do sentenciado, pelo argumento de que a proposta não oferece condições adequadas para fiscalização e controle por parte da administração penitenciária.
+O Tribunal de origem negou provimento ao recurso da defesa, nos termos do acórdão assim ementado:
+"AGRAVO EM EXECUC O. TRABALHO EXTERNO. EMPRESA ADMINISTRADA PELA GENITORA DO SENTENCIADO NA RESIDÉNCIA DA FAMILIA. RISCO PARA O PROCESSO DE RESSOCIALIZAC O DO SENTENCIADO. NZO PROVIMENTO.
+1. Não se olvida que o trabalho externo é de suma importância para o processo de ressocialização, além de servir como instrumento para aferição da disciplina e senso de responsabilidade do apenado. Contudo, o magistrado singular, diante das peculiaridades do caso, decidiu acertadamente, porquanto se trata de empresa administrada pela mãe do sentenciado, e que funciona na própria residência da família, circunstâncias que fragilizam a fiscalização e avaliação das atividades laborativas do preso, colocando em risco a função ressocializadora da pena.
+2. Recurso conhecido e improvido." (e-STJ, fl. 257)
+Neste writ, a impetrante alega que o fato de a proposta de emprego ter sido elaborada por empresa gerida pela genitora do apenado, localizada na residência da família, não impede a concessão do benefício, à luz do caráter ressocializador da pena.
+Pleiteia a autorização para o trabalho externo do paciente.
+O pedido liminar foi indeferido.
+O Ministério Público Federal opinou pelo não conhecimento do writ e, acaso conhecido, quanto ao mérito, pela denegação da ordem.
+É o relatório.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus de ofício.
+No caso dos autos, O Juízo das Execuções Criminais indeferiu o pleito de trabalho externo, pelos seguintes fundamentos (e-STJ fl. 127):
+"De acordo com o relatório da Seção Psicossocial deste juízo, a empresa também se localiza no mesmo local da residência do sentenciado. Verificou-se, ainda, que a responsável pela fiscalização do interno seria a sua mãe. Dessa forma, verifica-se que a natureza do trabalho proposto não condiz com as condições necessárias ao restabelecimento do apenado ao convívio social regular. É certo que, eventualmente, a jurisprudência deste Tribunal e este juízo autorizam a prestação de trabalho em empreendimento familiar. No caso dos autos, no entanto, para além dessa circunstância, o fato de o estabelecimento estar situado no endereço residencial do interno torna bastante temerário o acolhimento da proposta, diante do comprometimento da possibilidade de vigilância no curso do benefício. Ante o exposto, deixo de homologar a proposta apresentada, pois não ostenta condições adequadas de fiscalização e controle por parte da administração penitenciária."
+No caso, fica evidente o risco da concessão do benefício pleiteado porquanto a fiscalização dentro da empresa apresentada estaria prejudicada, tendo em vista a inexistência de relação de hierarquia entre empregado e empregador, possibilitando o desvirtuamento do trabalho externo.
+Ademais, no caso em análise, a proposta mostra-se inidônea não só por ser a empregadora mãe do paciente, mas também pelo fato de a empresa se localizar na própria residência do apenado, evidenciando a fragilidade na fiscalização, que ficaria a cargo de sua genitora.
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. APENADO QUE CUMPRE PENA EM REGIME SEMIABERTO. TRABALHO EXTERNO. IMPOSSIBILIDADE TOTAL DE FISCALIZAÇÃO. INDEFERIMENTO. PRECEDENTES. AGRAVO DESPROVIDO.
+1. A total impossibilidade de fiscalização do trabalho externo pleiteado por apenado do regime semiaberto domiciliar impede a autorização do benefício.
+2. Embora se reconheça o valor do labor na ressocialização e na recuperação da dignidade do apenado, sem indicação do local do trabalho e de algum tipo de controle de horário e de frequência das atividades de vendedor autônomo, de mercadoria própria, não há falar em deferimento do trabalho externo. O pedido é incompatível com a fiscalização do cumprimento da pena exigida pela Lei de Execuções Penais (ut. AgRg no HC 490.890/TO, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 17/06/2020).
+3. Agravo regimental desprovido."
+(AgRg no REsp 1889273/TO, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 11/05/2021, DJe 14/05/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TRABALHO EXTERNO. REGIME SEMIABERTO. IMPOSSIBILIDADE DE FISCALIZAÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É certo que esta Sexta Turma consolidou o entendimento de que a realização do trabalho externo deve ser compatível com a fiscalização do cumprimento da pena exigida pela Lei de Execução Penal.
+2. Ademais, a jurisprudência desta Corte entende que a verificação da possibilidade de fiscalização do trabalho externo é questão que exige o exame de provas, portanto, inviável de ser apreciada nos limites do habeas corpus.
+3. Agravo regimental desprovido" (AgRg no HC 643.580/RS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/05/2021, DJe 21/05/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. REGIME SEMIABERTO. TRABALHO EXTERNO. LOCAL DIVERSO DO DA EXECUÇÃO DA PENA. DIFICULDADE DE FISCALIZAÇÃO. INVIABILIDADE DA CONCESSÃO DO BENEFÍCIO. AGRAVO IMPROVIDO. 1. Nos termos da jurisprudência desta Corte Superior, é inviável a concessão do trabalho externo em local diverso da execução penal quando há dificuldade na fiscalização. 2. Agravo regimental improvido." (AgRg no HC 488.517/SC, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 21/05/2019, DJe de 03/06/2019)
+Ademais, verifica-se que o pleito de desconstituição das premissas e conclusões firmadas nas instâncias ordinárias, a fim de que haja a concessão do trabalho externo ao paciente, demandaria revolvimento fático probatório - incompatível com a via célere do habeas corpus.
+Nesse sentido:
+"HABEAS CORPUS. EXECUÇÃO PENAL. TRABALHOEXTRAMUROS. INDEFERIMENTO PELO JUÍZO DA EXECUÇÃO. LOCAL DE TRABALHO INADEQUADO. REAVALIAÇÃO. SEDE IMPRÓPRIA. ORDEM DENEGADA.
+1. A impetração de habeas corpus como sucedâneo de recurso, no caso, o agravo em execução, está adstrita à hipótese em que a controvérsia esteja limitada a análise cujo deslinde, meramente de direito, prescinda de revolvimento do material instrutório.
+2. Notoriamente inviável, na via estreita do writ, aferir se empresa é apropriada ao cumprimento do benefício do trabalho externo, contrariando e entendimento do Magistrado das Execuções, baseado em laudo elaborado pela Seção de Inspeção e Fiscalização do Juízo.
+3. Habeas corpus denegado."
+(HC 179.012/RJ, Rel. Ministra LAURITA VAZ, QUINTATURMA, julgado em 16/06/2011, DJe 28/06/2011)
+Ante  o  exposto,  não conheço da ordem.
+Publique-se.  Intimem-se.
