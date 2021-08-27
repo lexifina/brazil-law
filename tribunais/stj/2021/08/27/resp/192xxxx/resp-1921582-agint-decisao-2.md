@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de Agravo interno (petição 00484859/2021), interposto por DISBRAVE COMBUSTÍVEIS LTDA. e outros, contra decisão de minha lavra, que conheceu parcialmente do Recurso Especial, e, nessa extensão, negou-lhe provimento (fls. 331/338e).
+Transcorreu in albis o prazo para impugnação (fl. 378e).
+O presente Agravo interno não pode ser conhecido, pois a parte agravante interpôs dois Agravos internos contra a decisão de fls. 331/338e.
+É assente, na jurisprudência do STJ, o entendimento de que a interposição de dois ou mais recursos, pela mesma parte e contra a mesma decisão, impede o conhecimento daqueles que foram apresentados após o primeiro, haja vista a preclusão consumativa e o princípio da unirrecorribilidade.
+Isso porque, "no sistema recursal brasileiro, vigora o cânone da unicidade ou unirrecorribilidade recursal, segundo o qual, manejados dois recursos pela mesma parte contra uma única decisão, a preclusão consumativa impede o exame do que tenha sido protocolizado por último" (STJ, EDv no AgInt nos EAREsp 955.088/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, DJe de 13/09/2018).
+No mesmo sentido, dentre outros: STJ, EDcl no AgRg no RE no AgRg nos EDcl no AgRg nos EDcl no AREsp 501.366/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, DJe de 28/11/2018; AgInt no MS 24.022/DF, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, DJe de 20/08/2018; AgInt no AREsp 872.839/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, DJe de 29/05/2018; AgInt no REsp 1.661.733/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe de 26/09/2017; EDcl no AgRg no AREsp 799.126/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, DJe de 09/06/2016; AgRg no AREsp 839.531/SP, Rel. Ministra DIVA MALERBI (Desembargadora Federal convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 31/03/2016.
+Ante o exposto, não conheço do segundo Agravo interno, de fls. 361/369e.
+I.
