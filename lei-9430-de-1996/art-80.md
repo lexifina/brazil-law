@@ -1,7 +1,7 @@
-Art. 80. As pessoas jurídicas que, estando obrigadas, deixarem de apresentar declarações e demonstrativos por 5 (cinco) ou mais exercícios poderão ter sua inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ baixada, nos termos e condições definidos pela Secretaria da Receita Federal do Brasil, se, intimadas por edital, não regularizarem sua situação no prazo de 60 (sessenta) dias, contado da data da publicação da intimação.
-§ 1º Poderão ainda ter a inscrição no CNPJ baixada, nos termos e condições definidos pela Secretaria da Receita Federal do Brasil, as pessoas jurídicas:
-I - que não existam de fato; ou
-II - que, declaradas inaptas, nos termos do art. 81 desta Lei, não tenham regularizado sua situação nos 5 (cinco) exercícios subsequentes.
-§ 2º No edital de intimação, que será publicado no Diário Oficial da União, as pessoas jurídicas serão identificadas pelas respectivos números de inscrição no CNPJ.
-§ 3º Decorridos 90 (noventa) dias da publicação do edital de intimação, a Secretaria da Receita Federal do Brasil publicará no Diário Oficial da União a relação de CNPJ das pessoas jurídicas que houverem regularizado sua situação, tornando-se automaticamente baixadas, nessa data, as inscrições das pessoas jurídicas que não tenham providenciado a regularização.
-§ 4º A Secretaria da Receita Federal do Brasil manterá, para consulta, em seu sítio na internet, informação sobre a situação cadastral das pessoas jurídicas inscritas no CNPJ.
+Art. 80. As inscrições no Cadastro Nacional da Pessoa Jurídica (CNPJ) serão suspensas quando se enquadrarem nas hipóteses de suspensão definidas pela Secretaria Especial da Receita Federal do Brasil.
+§ 1º (Revogado).
+I - (revogado);
+II - (revogado).
+§ 2º (Revogado).
+§ 3º (Revogado).
+§ 4º (Revogado).
