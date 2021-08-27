@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MARLON CENI, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 153):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA. DECISÃO DA PRESIDÊNCIA DO STJ. SÚMULA N. 182 DO STJ. RECONSIDERAÇÃO. VIOLAÇÃO DE SÚMULA. NÃO CONHECIMENTO. SÚMULA N. 518 DO STJ. LEILÃO. ARREMATAÇÃO. PREÇO VIL. NÃO CARACTERIZAÇÃO. PRECLUSÃO DA ALEGAÇÃO. SÚMULAS N. 283 DO STF E 83 DO STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1. "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Enunciado n. 518 da Súmula do STJ).
+2. A alegação de ofensa ao art. 819 do CPC não merece acolhida, por dois fundamentos autônomos e suficientes, qualquer um, para o não conhecimento do recurso. 2.1. A parte recorrente não impugnou a fundamentação do acórdão recorrido de que a alegação de preço vil foi feita extemporaneamente, quando precluída a questão. Aplicação da Súmula n. 283 do STF. 2.2. O Tribunal de origem concluiu que "preço vil não ocorre, considerando que o valor ofertado e acolhido é superior a 60% da avaliação, que foi devidamente atualizada para a data do leilão". A jurisprudência do STJ, à míngua de parâmetros legais, entende que a caracterização do preço vil ocorre quando o bem for arrematado por valor inferior a 50% (cinquenta por cento) do avaliado, o que não ficou caracterizado. Incidência da Súmula n. 83 do STJ.
+3. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+Sustentaorecorrentea existência de repercussão geral da matéria e apontaa negativa de vigência ao art. 5º, inciso XXXVI, da Constituição Federal.
+Asseveraque a questão discutida foi prequestionada.
+Aduzque o acórdão recorrido se omitiu na análise da matéria ventilada e deu interpretação extensiva que não se permite no caso concreto, sendo patente o prejuízo acarretado.
+Afirma que possui o direito de ter "seu imóvel avaliado e arrematado por preço devidamente estudado no mercado" (e-STJ fl. 171) e que "respeitar o valor correto para arrematação do bem imóvel é matéria atinente ao direito adquirido" (e-STJ fl. 171).
+Alega que "a segurança jurídica não pode ser afetada" (e-STJ fl. 171) e que "para não caracterizar preço vil o lance deveria ser superior a 50% (cinquenta por cento) do valor da avaliação" (e-STJ fl. 172).
+Pugnapela reforma do acórdão a fim de que a segurança jurídica seja restabelecida.
+Requera admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 181/183.
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que aafronta aos princípios do contraditório, da ampla defesa edo devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa ao direito adquirido e, nesse mesmo contexto, à segurança jurídica, depende da análise do art. 891 do Código de Processo Civil e do entendimento jurisprudencial correlato à matéria, razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. OFENSA AODIREITO ADQUIRIDO E, NESSE MESMO CONTEXTO, À SEGURANÇA JURÍDICA.TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
