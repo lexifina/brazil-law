@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de HAMILTON PEREIRA DA LUZ contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO proferido no Agravo de Execução Penal n. 5000416-91.2021.4.04.7017, ementado nos seguintes termos:
+"PENAL. PROCESSO PENAL. AGRAVO DE EXECUÇÃO. TORNOZELEIRA ELETRÔNICA. FISCALIZAÇÃO. POSSIBILIDADE.
+1. O cumprimento da pena no domicílio do apenado, nos termos em que determinado pelo juízo a quo, autoriza o monitoramento eletrônico. Ao contrário do que ocorre com os presos que retornam ao final do dia para a casa do albergado, não é possível fazer um controle diário in loco do retorno para os domicílios daqueles que cumprem o regime aberto em suas residências, razão pela qual necessário o uso da tornozeleira.
+2. Sendo forma de fiscalização, cabe ao juízo da execução decidir sobre a adequação da imposição do uso da tornozeleira ao caso concreto, não estando na esfera de disponibilidade do apenado a escolha acerca do método de controle para cumprimento das condições do regime aplicado.
+3. Agravo de execução penal desprovido."
+O paciente cumpre pena de 2 anos e 6 meses de reclusão pela prática do crime previsto no art. 334, caput, do Código Penal. O monitoramento eletrônico foi prorrogado ao progredir para o regime aberto.
+Na presente impetração, sustenta a defesa que o paciente se apresentou voluntariamente para cumprir a pena e, ao progredir de regime, é de rigor a retirada da tornozeleira eletrônica.
+Requer, liminarmente e no mérito, a retirada do monitoramento eletrônico.
+Medida liminar indeferida conforme decisão de fls. 534/535.
+Parecer ministerial de fls. 543/545 pela denegação da ordem.
+É o relatório.
+Decido.
+Por se tratar de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+É firme neste Superior Tribunal de Justiça a orientação de que que a imposição de monitoramento eletrônico exige fundamentação concreta, devendo-se aferir periodicamente a necessidade de sua manutenção.
+Nesse sentido:
+"PENAL E PROCESSUAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO. NÃO CONHECIMENTO. EXECUÇÃO. MONITORAMENTO ELETRÔNICO MEDIANTE USO DE TORNOZELEIRA. PEDIDO DE RETIRADA DO EQUIPAMENTO POR DESNECESSIDADE. INDEFERIMENTO PELO JUÍZO DAS EXECUÇÕES SEM FUNDAMENTO CONCRETO. HISTÓRICO FAVORÁVEL. RECOMENDAÇÃO DO MPF E DO MPE PELA RETIRADA DO EQUIPAMENTO. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HC NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+(..)
+2. Ainda que o monitoramento eletrônico, com a colocação de tornozeleiras, se constitua em alternativa tecnológica ao cárcere, a necessidade de sua manutenção deve ser aferida periodicamente, podendo ser dispensada a cautela em casos desnecessários.
+Inteligência do art. 146-D da LEP: a monitoração eletrônica poderá ser revogada quando se tornar desnecessária ou inadequada.
+3. A simples afirmação de que o monitoramento é medida mais acertada à fiscalização do trabalho externo com prisão domiciliar deferido ao apenado em cumprimento de pena de reclusão no regime semiaberto, sem maiores esclarecimentos acerca do caso concreto, não constitui fundamento idôneo para justificar o indeferimento do pleito, sobretudo quando o apenado apresenta histórico favorável, com manifestação dos Ministérios Público Federal e Estadual pela retirada do equipamento.
+4. Assim como tem a jurisprudência exigido motivação concreta para a incidência de cautelares durante o processo criminal, a fixação de medidas de controle em fase de execução da pena igual motivação exigem, de modo que a incidência genérica - sempre e sem exame da necessidade da medida gravosa - de tornozeleiras eletrônicas não pode ser admitida.
+ .. " (HC n. 351.273/CE, Sexta Turma, Rel. Min. NEFI CORDEIRO, DJe de 9/2/2017).
+No caso concreto, tem-se, da leitura das decisões proferidas pelas instâncias ordinárias, que, em verdade, houve uma adaptação do sistema de monitoramento às condições específicas do regime aberto. Ao revés do sustentado pela defesa na impetração, consagrou-se o senso de autodisciplina e responsabilidade, na medida em que o apenado fica livre para exercer amplamente suas atividades nos locais e horários autorizados, sem vigilância estrita, medidas que preservam e concretizam o princípio da individualização das penas.
+Não há que se falar em quaisquer ofensas a garantias do apenado ou em atos que, impondo ônus não previsto em lei, estejam a gerar constrangimento ilegal, estando o aresto hostilizado em consonância com a jurisprudência dominante desta Corte Superior.
+O regime aberto, consoante determinação legal, deveria ser cumprido em casa de albergado ou estabelecimento adequado, ao qual o apenado deve recolher-se diariamente nos estritos horários estabelecidos e sob rigoroso e diuturno controle prisional, cenário que impõe condições muito mais rígidas do que a prisão domiciliar, com ou sem monitoração eletrônica, a qual foi deferida exclusivamente em função do déficit de vagas em instituição adequada ao regime.
+Ilustrativamente:
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. EXECUÇÃO PENAL. REGIME ABERTO EM PRISÃO DOMICILIAR COM MONITORAMENTO ELETRÔNICO. PARÂMETROS FIXADOS NO RE 641.320/RS. PLEITO DE RETIRADA DO EQUIPAMENTO. NÃO CABIMENTO. FUNDAMENTAÇÃO IDÔNEA NA ORIGEM. MEDIDA NECESSÁRIA E ADEQUADA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO ORDINÁRIO DESPROVIDO.
+I - Conjugados o art. 33, § 1º, alínea c, do Código Penal; o art.
+146-B, inciso IV, e o art. 146-D, inciso I, ambos da Lei de Execução Penal; e a Súmula Vinculante n. 56 do col. STF, com aplicação dos parâmetros fixados no julgamento do RE 641.320/RS, conclui-se que: na ausência de estabelecimento adequado para o cumprimento da pena privativa de liberdade em regime aberto, em virtude de déficit de vagas, pode o Juízo da Execução deferir a prisão domiciliar, em substituição ao recolhimento em casa de albergado ou estabelecimento congênere, com monitoramento eletrônico, desde que este se mostre necessário e adequado.
+II - A esse respeito, entende esta Corte Superior de Justiça que a imposição de monitoramento eletrônico exige fundamentação concreta, devendo-se aferir periodicamente a necessidade de sua manutenção.
+Precedente.
+III - In casu, o eg. Tribunal de origem consignou que o sistema de monitoramento submeterá o recorrente ao controle estrito apenas nos horários e regiões previamente determinados, dispondo ele da liberdade necessária para realizar todos os deslocamentos necessários ao exercício de sua atividade laboral e/ou necessidades pessoais, nos limites autorizados.
+IV - A adaptação do sistema de monitoramento às condições específicas do regime aberto, com restrições apenas nos horários e regiões previamente determinados, portanto, ao mesmo tempo que acolhe e consagra o senso de autodisciplina e responsabilidade, sem vigilância estrita, preserva e concretiza o princípio da individualização da pena.
+V - Ademais, afigura-se proporcional a medida à luz da necessidade de garantir-se a indispensável fiscalização a que se deve submeter o cumprimento da pena privativa de liberdade, não tendo as instâncias ordinárias, no caso concreto, considerado suficiente para assegurar seu mínimo controle a realização de diligências por agentes públicos.
+VI - O recorrente não instruiu a ação com provas de que tem sofrido problemas de saúde em razão do uso da tornozeleira eletrônica, pelo que neste ponto suas alegações não merecem prosperar.
+VII - Dessa forma, não se constata o constrangimento ilegal apontado.
+Recurso ordinário em habeas corpus desprovido."
+(RHC 105.952/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 21/02/2019, DJe 01/03/2019)
+Por oportuno, na mesma linha da referida orientação, transcrevo os seguintes trechos do parecer ministerial, da lavra do douto Subprocurador-Geral da República OSNIR BELICE, os quais adoto ainda como razões de decidir:
+"A ordem não merece concessão.
+O paciente preencheu as condições para obter a progressão para o regime aberto em 26/02/2021. Diante disso, o Juízo da 1ª Vara Federal de Guaíra deferiu o benefício com as seguintes condições (fl. 527):
+"2 - Das condições do regime abertoO apenado deverá obedecer às condições especiais para o regimeaberto abaixo elencadas, na norma do artigo 115 e incisos da Lei nº7.210/84:
+a) permanecer em sua residência das 22:00 horas às 06:00 horas do dia seguinte, nos dias da semana em que trabalhar, e em período integral nos dias de folga, incluídos sábados, domingos e feriados;
+b) não se ausentar da área urbana da cidade onde reside sem autorização judicial;
+c) não alterar de endereço residencial sem antes informar ao Juízo da Execução Penal. Mantenho a monitoração eletrônica como forma de fiscalização da pena, bem como as regras do termo de responsabilidade, ante a compatibilidade com o regime prisional e os direitos do apenado. Precedentes do TRF4." (destacamos)
+O cumprimento do da pena privativa de liberdade em regime aberto ocorre em casa de albergado, no entanto, o cumprimento da pena em domicílio, com determinação de recolhimento noturno e em finais de semana e feriados, autoriza o monitoramento eletrônico. Como bem destacou o TRF/4: "ao contrário do que ocorre com os presos que retornam ao final do dia - ou em finais de semana - para a casa do albergado, não é possível fazer um controle diário in loco do retorno para os domicílios daqueles que cumprem o regime aberto em suas residências, razão pela qual necessário o uso da tornozeleira.
+Dessa forma, não há que se falar em desnecessidade ou em desproporcionalidade da medida"(fl. 528). Ressalte-se que o monitoramento eletrônico é permitido pela Lei de Execuções Penais como forma de fiscalização quando determinada a prisão domiciliar, nos termos do art. 146-B, IV. Ademais, cabe ao juízo das execuções decidir sobre formas efetivas de fiscalizar o cumprimento das condições impostas, não cabendo ao apenado a escolha do método de controle que lhe será imposto. Não há, portanto, constrangimento ilegal na espécie."
+Dessa forma, inexiste flagrante constrangimento ilegal que autorize a concessão da ordem de ofício.
+Ante o exposto, não conheço da presente impetração.
+Publique-se.
