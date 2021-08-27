@@ -1,0 +1,53 @@
+DECISÃO
+Trata-se de recurso especial interposto por Cooperforte- Cooperativa de Economia e Crédito Mútuo de Funcionários de Instituições Financeiras Públicas Federais Ltda.com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão assim ementado (e-STJ, fls. 61-62):
+AGRAVO DE INSTRUMENTO. PENHORA DE FUNDO PREVIDENCIÁRIO. VERBA DE NATUREZA ALIMENTAR. IMPOSSIBILIDADE DE CONSTRIÇÃO JUDICIAL. APLICAÇÃO DO ART. 833, INCISO IV/CPC. HIPÓTESE NÃO ENQUADRÁVEL ÀS EXCEÇÕES LEGAIS.
+A teor do contido no artigo 833, inciso IV, do novo Código de Processo Civil (de 2015), não estão sujeitos à execução e penhora "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal", ressalvadas as hipóteses que a própria lei faz.
+"De acordo com o art. 833, inc. IV, do CPC, não é possível a penhora de valores depositados em fundo de previdência privada complementar, em razão de sua natureza alimentar." (Acórdão 1268093, 07099225720208070000, Relator: ALVARO CIARLINI, 3ª Turma Cível, data de julgamento: 22/7/2020, publicado no DJE: 4/8/2020.)
+Logo, se determinada a constrição judicial pretendida pela parte agravante recaísse sobre os valores mantidos em fundo previdenciário em nome da parte devedora, essa providência iria de encontro com a proteção legal emprestada pelo novo Código de Processo Civil aos dinheiros de natureza alimentar, especificamente em seu artigo 833, inciso IV, pelo que os bloqueios perquiridos não merecem acolhida em sede recursal.
+Agravo conhecido e desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 81-86).
+Em suas razões de recurso especial (e-STJ, fls. 91-148), arecorrentealegaviolação dos arts. 373, 797 e 805do Código de Processo Civil de 2015; e 6º da Lei n. 10.820/2003, bem como a existência de dissídio jurisprudencial.
+Sustenta, em síntese, não ser absoluta a impenhorabilidade de rendimentos e que não houve prova nos autos de que o referido valor é destinado à subsistência da família.
+Não foram apresentadas contrarrazões (e-STJ, fl. 166).
+O Tribunal de origem admitiu o recurso especial (e-STJ, fls. 180-181).
+Brevemente relatado, decido.
+O Tribunal de origem, ao julgar a apelação, consignou o seguinte excerto (e-STJ, fls. 64-65):
+Conforme relato supra, requer a agravante, em resumo, a penhora de determinado percentual de fundo previdenciário pertencente ao devedor, de modo a saldar o valor da obrigação perquirida na execução de origem, sob o fundamento de que esses valores não estariam plenamente acobertados pela impenhorabilidade prevista em lei (art. 833, inc. IV, do NCPC), mesmo sendo oriundos do ordenado do executado.
+Em sede de cognição sumária, não antevi a fumaça do bom direito, eis que, aparentemente, a pretendida constrição alcançaria valor impassível de ser penhorado, por força expressa da lei (art. 833, inc. IV, do NCPC), haja vista que essa qualidade salarial.
+(..)
+A proteção quanto à penhora de vencimentos, subsídios, soldos, salários, remunerações, proventos de aposentadoria, pensões, etc., é expressa (art. 833, inc. IV, do NCPC), cabendo à parte que for eventualmente atingida por eventual constrição judicial comprovar essa natureza (art. 854, § 3º, do NCPC).
+Na presente hipótese, observa-se que o Juízo singular abalizou sua decisão no entendimento jurisprudencial de que seria ilegal a penhora (ainda que não integral) dos valores perquiridosporquanto seriam oriundos de remuneração por seu trabalho, os quais ostentam natureza alimentar e, ainda que remota e reflexa, salarial, eis que ensejará em benefício previdenciário, porque não dizer, gerando proventos de aposentadoria.
+Muito bem.
+A meu sentir, a legislação é clara ao dispor sobre a impossibilidade de se penhorar verba de natureza alimentar.
+Por certo, cabe à parte executada comprovar que os recursos bloqueados ostentam natureza alimentar, caso em que eventual constrição judicial será tida por indevida e, consequentemente, afastada.
+Dessa forma, tem-se que o bloqueio requerido do percentual dos valores referentes ao fundo previdenciário da agravada, o qual ostenta insofismavelmente natureza alimentar, encontra óbice nessa qualidade, apta a atrair a incidência do artigo 833, inciso IV, do novo Código de Processo Civil.
+A teor do contido no artigo 832, inciso IV, do novo Código de Processo Civil (de 2015), não estão sujeitos à execução e penhora "os vencimentos, os subsídios, os soldos, os salários, as remunerações, os proventos de aposentadoria, as pensões, os pecúlios e os montepios, bem como as quantias recebidas por liberalidade de terceiro e destinadas ao sustento do devedor e de sua família, os ganhos de trabalhador autônomo e os honorários de profissional liberal", ressalvadas as hipóteses que a própria lei faz.
+Em que pese a impossibilidade de mitigação dessa regra, em face de interpretações diversas pelo Poder Judiciário, revela-se impossível a penhora parcial de verba cuja natureza se enquadre nas hipóteses citadas.
+Em outras palavras, sendo os valores, de fato, oriundos do salário da parte alvo do bloqueio, e, mesmo aplicados em fundo previdenciário mantenha a natureza alimentar, mostra-se impenhorável esses valores.
+Como se vê, é o caso dos autos.
+Portanto, escorreita a decisão atacada, porquanto resguarda a vedação expressa do novo Código de Processo Civil (art. 833, inc. IV). (Sem grifo no original).
+ASegunda Seção firmou a compreensão de caber ao juiz, "casuisticamente, de modo que, se as provas dos autos revelarem a necessidade de utilização do saldo para a subsistência do participante e de sua família, caracterizada estará a sua natureza alimentar, na forma do art. 649, IV, do CPC/1973". No caso dos autos, o saldo indicado à penhora se refere ao fundo previdenciário da recorrida, que, como tal, constitui verba destinada à complementação dos proventos da inatividade.
+Não há como equipará-lo, portanto, a um investimento de longo prazo comercializados pelas instituições financeiras, para o público em geral, como se deu no acórdão paradigma, possuindo, por determinação legal, natureza alimentar que integra os proventos de aposentadoria.
+Diante desse contexto, a alteração das conclusões adotadas pela Corte de origemdemandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme a Súmula n. 7/STJ.
+Nesse sentido, guardadas as devidas particularidades:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.AÇÃO DE EXECUÇÃO. PLANO DE PREVIDÊNCIA PRIVADA. PENHORA. DÉBITO ALIMENTAR. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Conforme a jurisprudência consolidada nesta Corte Superior, cumpre ao magistrado aferir, por meio da análise do caso concreto, a viabilidade ou não da penhora dos valores depositados em fundo de previdência privada complementar (EREsp n. 1.121.719/SP, Segunda Seção, DJe de 4/4/2014).
+2. "Não enseja interposição de recurso especial matéria que não tenha sido ventilada no v. aresto atacado e sobre a qual, embora tenham sido opostos os embargos declaratórios competentes, o órgão julgador não se pronunciou e a parte interessada não alegou ofensa ao art. 535 do Código de Processo Civil de 1973. Incidência da Súmula 211 do Superior Tribunal de Justiça.".(AgInt no AREsp 1157446/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/05/2019, DJe 14/06/2019).
+3. Agravo interno não provido.
+(AgInt no AREsp n. 1.706.886/SP, RelatorMinistro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/3/2021, DJe 5/4/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE CONHECIMENTO EM FASE DE CUMPRIMENTO DE SENTENÇA. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL OU DE SÚMULA.DESCABIMENTO.PREQUESTIONAMENTO.AUSÊNCIA.SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SALDO EM FUNDO DE PREVIDÊNCIA PRIVADA.BLOQUEIO DE VALORES APLICADOS EM PREVIDÊNCIA PRIVADA. ALEGAÇÃO DE IMPENHORABILIDADE. NATUREZA ALIMENTAR. AFERIÇÃO. IMPOSSIBILIDADE.MATÉRIA FÁTICO-PROBATÓRIA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. OU SÚMULA 7 DO STJ.DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Ação de conhecimento em fase de cumprimento de sentença.
+2. A interposição de recurso especial não é cabível quando ocorre violação de dispositivo constitucional ou de qualquer ato normativo que não se enquadre no conceito de lei federal, conforme disposto no art. 105, III, "a" da CF/88.
+3. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+4. O reexame de fatos e provas em recurso especial é inadmissível.
+5. Consoante a jurisprudência consolidada nesta Corte Superior, cumpre ao magistrado aferir, por meio da análise do caso concreto, a viabilidade ou não da penhora dos valores depositados em fundo de previdência privada complementar (EREsp n. 1.121.719/SP, Segunda Seção, DJe de 4/4/2014).
+6. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+7. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+8. Segundo a jurisprudência desta Corte, é correta a aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015, quando as questões tratadas foram devidamente fundamentadas na decisão embargada e ficou evidenciado o caráter manifestamente protelatório dos embargos de declaração.
+9. Agravo interno no recurso especial não provido.
+(AgInt nos EDcl no REsp n. 1.869.301/DF, RelatorMinistra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020).
+Por fim, quanto ao dissídio jurisprudencial, cumpre reafirmar que, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, uma vez que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 do Superior Tribunal de Justiça.
+Ante o exposto, nego provimento ao recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL.SALDODE FUNDO PREVIDENCIÁRIO. VERBA DE NATUREZA ALIMENTAR. IMPENHORABILIDADE. REEXAME. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.RECURSO ESPECIAL IMPROVIDO.
