@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravosmanejadospelo ESTADO DE SÃO PAULO epor J L LAGUNA TRANSPORTES LTDA. contra decisão de inadmissibilidade do recurso especial interposto apenas pelacontribuinte, fundado na alínea "a" do permissivo constitucional, que desafiou acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado:
+ANULATÓRIA DE DÉBITO FISCAL - Ônus de sucumbência - Autora que decaiu em parte significativa do pedido - Sucumbência parcial - Correta a divisão dos ônus entre as partes - Sentença confirmada - Recurso de apelação desprovido.
+Opostos embargos de declaração, estes foram rejeitados.
+No recurso especial, a parte indicou ofensa ao art. 86, parágrafo único, do CPC/2015. Sustentou, em resumo, que teria sucumbido de parte mínima do pedido, correspondente a 25% (vinte e cinco por cento) do montante pleiteado, razão pela qual as custas e os honorários advocatícios não poderiam ter sido distribuídos com base na sucumbência recíproca.
+A Presidência da Seção de Direito Público do TJSP inadmitiu o apelo excepcional com amparo no óbice da Súmula 7 do STJ.
+A contribuinte interpõe o presente agravo, insurgindo-se contra o obstáculo imposto ao trâmite do recurso especial.
+O Estado de São Paulo, às e-STJ fls. 384/389, também apresentaagravo.
+Passo a decidir.
+Cuidam os autos, na origem, de ação anulatória de débito fiscal em que se questiona a taxa de juros moratórios incidente sobre débitos de ICMS, a qual não poderia ultrapassar a taxa SELIC.
+O magistrado de primeiro grau julgou parcialmente procedente o pleito autoral para que fossem recalculadas as CDAs até outubro de 2017, e, com base na sucumbência recíproca, determinou que cada uma das partes arcasse com metade das custas e honorários advocatícios, estes últimos fixados em R$ 5.000,00 (cinco mil reais).
+A apelação interposta pela autorafoi desprovida pela Corte bandeirante, tendo esta registradoque o pedido recursal se limitou à condenação integral da edilidade ao pagamento das custas e da verba honorária, o que impossibilitou a distribuição da sucumbência em proporção diversa.
+Do que se observa, a contribuinte, nas razões apelo especial, limitou-se a afirmar que teria sucumbido em parte mínima do pedido, deixando de atacar o fundamento essencial do acórdão recorrido, de que não houve pedido na apelação deque a sucumbência fosse fixada na proporção de 25%, mas apenas de que a edilidade fosse condenada a arcarcom a integralidade dos ônus sucumbenciais. Assim, incide in casu o óbice da Súmula 283 do STF.
+Ademais, paraaveriguar a proporção da sucumbência de cada uma das partes, seria indispensável a incursão no substrato fático-probatório dos autos, medida vedada nesta instância superior, ante o disposto na Súmula 7 do STJ.
+Quanto ao agravo do Estado de São Paulo, tem-se que este não merece ser conhecido por incabível, pois não houve anterior interposição de recurso especial pela edilidade,tampouco decisão de inadmissibilidade apta a ser impugnada por meio do presente agravo.
+Ante o exposto: (i) com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo de JL LAGUNA TRANSPORTES LTDA. para NÃO CONHECER do recurso especial; (ii) nos termos do art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração de tal verba, em desfavor de cada uma das partes recorrentes, no importe de 10% (dez por cento) sobre os valores já arbitrados, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
