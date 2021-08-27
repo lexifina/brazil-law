@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social - INSS, com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (fl. 145):
+ACIDENTÁRIA - APELAÇÃO INTERPOSTA PELO INSS - AUSENCIA DE RECOLHIMENTO DO PORTE DE REMESSA E RETORNO - IMPOSIÇÃO DA LEI ESTADUAL 11.608/03 - DESERÇÃO.
+"A ausência de comprovação do recolhimento do porte de remessa e retorno previsto pela Lei 11.608/03 obsta o processamento de apelação interposta pelo INSS nas lides acidentárias".
+ACIDENTÁRIA - EVENTO TÍPICO - LESÕES NO MEMBRO SUPERIOR DIREITO - LIAME OCUPACIONAL E PREJUÍZO FUNCIONAL RECONHECIDOS - INDENIZABILIDADE.
+"Incontroverso o acidente de trabalho e reconhecido pela perícia médica o prejuízo funcional decorrente das sequelas dele advindas, de rigor a concessão do auxílio-acidente com início a partir do dia seguinte ao da alta médica. Os valores em atraso serão apurados na forma da Lei 8.213/91 com atualização pelo IGP-DI e acrescidos de juros de mora (estes à base mensal . conforme Lei 11.960109), adequando-se, no que couber, a modulação que advier do Supremo Tribunal Federal por força do julgamento da ADI 4.357. A renda mensal a ser implantada será reajustada pelos índices de manutenção".
+Apelação do INSS julgada deserta; sentença de procedência reformada em parte por forçado reexame necessário e do provimento da apelação do autor.
+Opostos embargos de declaração, foram rejeitados (fls. 162/166).
+Aponta o recorrente violação dos arts. 535, do CPC/73, 1º F, da Lei 9.494/97, com a redação dada pelo art. 5º da Lei 11.960/2009, 27 da Lei 9.868/99, 31 da Lei 10.741/03 e 41-A da Lei 8.213/91.
+Sustenta, em síntese: (I) a existência de omissão no julgado, (II)a necessidade deaplicação, como índice de correção de atrasados devidos pela Autarquia,do INPC a partir de 2004, data da entrada em vigor da Lei nº 10.741/03, até a edição da Lei nº 11.960/09.
+Aduz, também, que ".. não há fundamento legal para o v. acórdão recorrido determinar que, a partir de 30.06.2009, a correção das parcelas em atraso na presente ação será apurada pela aplicação do IGP-Dl, até a data da elaboração da conta, e, após pelo IPCA-E, tendo em vista que deve incidir o disposto na Lei nº 11.960/2009 para a atualização da condenação, sendo inconstitucional o índice ali colocado apenas para a atualização do precatório e, ainda, assim, a partir de 25/03/2015." (fl. 180).
+Contrarrazões não apresentadas (fl. 185).
+Em novo exame por força do art. 1.030, II, do CPC/2015, o acórdão foi mantido, cuja ementa se colhe (fl. 194):
+ACIDENTÁRIA - BENEFICIO DEFERIDO - CORREÇÃO DOS VALORES EM ATRASO - INDEXADOR A SE APLICAR - IPCA-E CONFORME ORIENTAÇÃO DEFINITIVA DO SUPREMO TRIBUNAL FEDERAL FIRMADA EM SEDE DO TEMA 810.
+Acórdão mantido.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+O recurso não prospera.
+De início, mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro. Aplica-se, na espécie, o óbice da Súmula 284 do STF. Nesse mesmo sentido vão os seguintes precedentes: AgInt no AREsp 1.070.808/MA, Rel. Ministro Marco Buzzi, Quarta Turma, DJe de 10/6/2020; AgInt no REsp 1.730.680/RJ, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe de 24/4/2020; AgInt nos EDcl no AREsp 1.141.396/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe de 12/3/20020; AgInt no REsp 1.588.520/DF, Rel. Ministro Og Fernandes, Segunda Turma, DJe de 27/2/2020 e AgInt no AREsp 1.018.228/PI, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 25/9/2019.
+No mais, com relação aos Temas nº 905 do STJ e nº 810 do STF, o Tribunal a quo assim se pronunciou, in verbis (fls. 195/196):
+A meu juízo descabe na espécie a retratação do Acórdão.
+Primeiro porque inconsistente a almejada aplicação da Taxa Referencial (TR), como inadvertidamente insiste o INSS, na medida em que sabidamente desde há muito declarada inconstitucional.
+Tampouco se cogita de adoção do INPC até o advento da Lei 11.960/09, ou seja, até junho de 2009, porque, como se vê, não há no caso parcelas a se apurarem em tal marco temporal porquanto o auxílio-acidente é devido a partir de fevereiro de 2011.
+ ..
+Tem-se que à esta altura o Supremo Tribunal Federal já dirimiu a controvérsia pendente acerca do assunto em sede do Recurso Extraordinário nº 870.947/SE, Tema 810 - tratado como de repercussão geral, definindo de vez o IPCA-E como fator de correção a se empregar na apuração dos valores em atraso nas ações desse jaez.
+Como se observa, o Tribunal de origem amparou-se em fundamentos constitucional e infraconstitucional, qualquer um deles apto a manter inalterado o acórdão recorrido. Portanto, a ausência de interposição de recurso extraordinário atrai a incidência da Súmula 126/STJ (É inadmissível recurso especial, quando o acórdão recorrido se assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário.). Nesse mesmo sentido: AgRg no AREsp 126036/RS, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 7/12/2012; AgRg no AREsp 206.733/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 5/12/2012.
+Assim, ultimada a resolução da controvérsia em repercussão geral, denotando a primazia do viés constitucional do tema em debate, caso não é de enfrentá-lo na seara do Recurso Especial ou do Agravo dele decorrente (AREsp).
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
