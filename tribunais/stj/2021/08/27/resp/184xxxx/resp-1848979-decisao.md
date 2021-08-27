@@ -1,0 +1,7 @@
+DECISÃO
+Verifica-se que uma das questões tratada nos presentes autos diz respeitoà caracterização de dano in re ipsa a dispensa indevida de processolicitatório, o qual é idêntico ao Tema n. 1.096, submetido ao rito do art.1.036, § 5º, do CPC/2015 pela Primeira Seção desta Corte, nos autos do
+REsp 1.912.668/GO e do REsp 1.914.458/PI.
+Desse modo, em observância ao princípio da economia processual, é possívelao relator determinar o retorno dos autos à origem, onde ficarãosobrestados até a publicação do acórdão proferido nos autos do recursorepresentativo da controvérsia, devendo tais recursos serem apreciados naforma prevista no art. 1.040 do CPC/2015.
+A propósito, vide: REsp n. 1.939.547/MG, Rel. Min. Benedito Gonçalves, DJe17/6/2021; AREsp n. 1.767.743/RJ, Rel. Min. Og Fernandes, DJe 15/6/2021;AgInt no REsp n. 1.935.822/PR, Rel. Min. Regina Helena Costa, DJe14/6/2021; RCD no REsp n. 1.860.701/SE, Rel. Min. Regina Helena Costa, DJe11/6/2021; AREsp n. 1.728.341/RN, Rel. Min. Benedito Gonçalves, DJe11/6/2021; REsp n. 1.924.551/SP, Rel. Min. Regina Helena Costa, DJe10/6/2021.
+Ante o exposto, determinoa devolução dos autos ao Tribunal de origem, com a respectiva baixa, paraque, após a publicação do acórdão a ser proferido no recursorepresentativo da controvérsia, o apelo especial: a) tenha seguimentodenegado na hipótese do acórdão recorrido coincidir com a orientação doSTJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o arestohostilizado divirja do entendimento firmado nesta Corte (art. 1.040 doCPC/2015).
+Publique-se. Intimem-se.
