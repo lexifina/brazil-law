@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por WELLINTON MARTINI MARQUES,contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO DO SUL,no julgamento do HC n. 1412003-60.2021.8.12.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 21/6/2021 pela suposta prática dos delitos previstos no art. 33 da Lei n. 11.343/2006 e nos arts. 12 e 16, ambos da Lei n. 10.826/2003 (tráfico de drogas, posse ilegal de arma de fogo de uso permitido e posse ilegal de arma de fogo de uso restrito). Referida custódia foi convertida em preventiva em consonância com o requerimento do Ministério Público (fls. 217/222). Em 29/6/2021, foi indeferido pedido de revogação da custódia.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"EMENTA - HABEAS CORPUS - ORGANIZAÇÃO CRIMINOSA - CRIMES DAS LEIS N. 11.343/06 E 10.826/03 - PEDIDO DE REVOGAÇÃO DA PRISÃO PREVENTIVA - NÃO ACOLHIMENTO - GARANTIA DA ORDEM PÚBLICA - CONSTRANGIMENTO ILEGAL NÃO VERIFICADO - CONDIÇÕES PESSOAIS FAVORÁVEIS - IRRELEVÂNCIA - MEDIDAS CAUTELARES DIVERSAS OU PRISÃO DOMICILIAR INCOMPATÍVEIS - ORDEM DENEGADA. Presentes os motivos autorizadores do art. 312, do CP (fumuscomissi delicti - relativo à materialidade e indícios de autoria - e o periculum libertatis- risco à ordem pública, à instrução criminal ou à aplicação da lei penal), bem como o instrumental de admissibilidade (artigo 313, I, do Código de Processo Penal - delito abstratamente apenado com pena superior a 04 quatro anos de reclusão), não sendo inclusive recomendável a aplicação das medidas cautelares do art. 319 do Código de Processo Penal, denega-se ordem de Habeas Corpus que visa a revogar prisão cautelar fundamentada em elementos concretos extraídos dos autos. Condições pessoais favoráveis, por si só, não garantem direito de responder ao processo em liberdade quando presentes os requisitos que autorizam a segregação cautelar. Ordem denegada."(fl. 37).
+No presente reclamo, ressalta, inicialmente, a presença de condições pessoais favoráveis.
+Alega a ausência dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal - CPP, e pondera que a prisão preventiva, no caso concreto, caracteriza indevida antecipação de pena e que o decreto prisional está fundado exclusivamente na gravidade abstrata do delito.
+Pondera que eventual condenação fixará regime inicial diverso do fechado, razão pela qual a medida extrema se mostra desproporcional ao caso concreto.
+Assegura a suficiência da aplicação de medidas cautelares alternativas previstas no art. 319 do CPP.
+Requer, assim, em liminar e no mérito, conhecimento e provimento do recurso, com a concessão da liberdade provisória, ainda que mediante a aplicação de medidas cautelares alternativas, com imediata expedição de alvará de soltura.
+É o relatório.
+Decido.
+A legislação vigente, bem como a jurisprudência desta Corte, indicam que ainterposição dorecurso ordinárioemhabeas corpusdeve ser feita perante o Tribunal prolator do acórdão impugnado, que remeterá o feito a esta Corte Superior.
+Nesse contexto, não se conhece dorecurso ordinário interposto diretamenteno Superior Tribunal de Justiça. A corroborar tal entendimento, trago à colação oseguintejulgado:
+RECURSO ORDINÁRIOEM HABEAS CORPUS. INTERPOSIÇÃO DIRETAMENTE NESTA CORTE. IMPOSSIBILIDADE. LIMINARMENTE INDEFERIDO. USO DE ALGEMAS PELO RÉU DURANTE A AUDIÊNCIA DE INSTRUÇÃO E JULGAMENTO. POSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. DECISÃO INDEFERITÓRIA DA INICIAL QUE DEVE SER MANTIDA.
+1. A decisão impugnada se sustenta tão somente pelo fundamento de orecurso ordinárioem habeas corpus não seguiu as regras que lhe são atinentes, uma vez que deveria ter sido interposto no Tribunal de origem, e não diretamente nesta Corte.
+2. Em relação ao uso de algemas durante a audiência de instrução e julgamento, é consabido que pode ser determinado pelo magistrado quando presentes riscos concretos à segurança do acusado ou das pessoas presentes ao ato.
+3. Agravo regimental improvido.
+(AgRg no RHC 63.626/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 07/06/2016).
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente recurso ordinário emhabeas corpus.
+Publique-se.
+Intimem-se.
