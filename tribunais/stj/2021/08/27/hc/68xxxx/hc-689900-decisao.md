@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de Henrique Aparecido da Silva contra decisão de Desembargador do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento da Habeas Corpus Criminal Nº: 2193685-06.2021.8.26.0000.
+Consta dos autos que o Ministério Público do Estado de São Paulo ofereceu denúncia criminal contra o agravante, imputando-lhe a prática do delito tipificado no art. 157, § 1º, do Código Penal (roubo). Após recebimento da denúncia e instrução do feito, o magistrado singular absolveu o agravante, em razão da ocorrência do crime impossível.
+Irresignado, o parquet interpôs recurso de apelação, que restou provido para condenar o agravante pela prática do delito tipificado no art. 155, caput c/c art. 14, II, ambos do Código Penal (furto tentado),à pena de 10 (dez) meses e 20 (vinte) dias de reclusão, em regime inicial semiaberto, e ao pagamento de 08(oito) dias-multa.
+O acórdão restou assim ementado:
+Furto tentado Recurso ministerial Conjunto probatório suficiente para o reconhecimento da prática delitiva Crime impossível não configurado Responsabilização penal Cabimento Sentença reformada Apelo ministerial provido.
+Opostos embargos de declaração, restaram rejeitados.
+Interposto recurso especial foi ele inadmitido.
+No AResp n. 1.799.017, foi interposto agravo regimentalcontra decisão em que neguei provimento ao recurso especial, ante a inviabilidade de se aplicar o princípio da insignificância e o abrandamento do regime prisional, além do óbice contido na Súmulan. 7/STJ. O julgado ficou assim resumido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FURTO. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. REINCIDÊNCIA. IMPOSSIBILIDADE. REGIME INICIAL SEMIABERTO. FUNDAMENTAÇÃO IDÔNEA. INCIDÊNCIA DA SÚMULA N. 269 DO SUPERIOR TRIBUNAL DE JUSTIÇA -STJ. RECONHECIMENTO DO CRIME IMPOSSÍVEL. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior está firmada no sentido da não incidência do princípio da insignificância nas hipóteses de reiteração de delitos e reincidência, como é o caso dos autos (AgRg no AREsp 896.863/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 13/6/2016).
+2. "O princípio da insignificância é verdadeiro benefício na esfera penal, razão pela qual não há como deixar de se analisar o passado criminoso do agente, sob pena de se instigar a multiplicação de pequenos crimes pelo mesmo autor, os quais se tornariam inatingíveis pelo ordenamento penal. Imprescindível, no caso concreto, porquanto, de plano, aquele que é contumaz na prática de crimes não faz jus a benesses jurídicas (HC 544.468/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 14/2/2020).
+3. "Não há ilegalidade na fixação do regime imediatamente mais gravoso, o semiaberto, com fundamento na reincidência do acusado, em consonância com Súmula 269 do STJ" (AgRg no REsp 1894347/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 10/12/2020).
+4. A decisão vergastada baseou seu entendimento para afastar a ocorrência do crime impossível ao realizar a análise do contexto fático-probatório dos autos e, rever o referido entendimento na via eleita, esbarra diretamente no óbice da Súmula n. 7/STJ.
+5. Agravo regimental desprovido.
+Após foi impetrado o writ original, que a Corte Estadual não conheceu, conforme decisão de fls. 399/400.
+Daí a presente impetração em que a Defesa do paciente pretende,em sede liminar e no mérito, a concessão da ordem "a fim de que se veja o paciente absolvido dos fatos que lhe foram imputados, haja vista a perpetração do Princípio da Insignificância ou da teoria do Crime Impossível, pelo que se aduz do caso concreto, ou, seja urgentemente modificado o regime de pena aplicado, do semiaberto para o aberto" (fl. 27).
+É o relatório.
+Decido.
+Não há como dar seguimento ao pedido.
+Verifica-se dos autos que o writ foi impetrado contra decisão monocrática do Desembargador-Relator, não tendo sido interposto o devido agravo regimental contra a decisão.
+Assim, as teses deduzidas na presente impetração não foram levadas à análise do órgão colegiado do Tribunal de origem, considerando que não houve a interposição do devido agravo regimental. Assim, não compete a esta Corte Superior, a análise do mérito da impetração, sob pena de incorrer em indevida supressão de instância.
+Nesse sentido são os julgados da Suprema Corte e deste Superior Tribunal de Justiça:
+HABEAS CORPUS. PROCESSO PENAL. NÃO ESGOTAMENTO DE JURISDIÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. NULIDADE PROCESSUAL. NEGATIVA DE AUTORIA. NECESSIDADE DE EXAME DOS FATOS E PROVAS DA CAUSA. IMPOSSIBILIDADE. DEFICIÊNCIA DEFESA TÉCNICA. INOCORRÊNCIA. FLAGRANTE FORJADO. SUPRESSÃO DE INSTÂNCIA.
+1. Há óbice ao conhecimento de habeas corpus impetrado contra decisão monocrática de Ministra Relatora do Superior Tribunal de Justiça, em que negado seguimento ao recurso especial interposto naquela Corte, cuja jurisdição não se esgotou. Precedentes.
+2. O habeas corpus não se presta ao exame e à valoração aprofundada das provas, de todo inviável nele reavaliar o conjunto probatório que levou à condenação criminal.
+3. Participação ativa do advogado, conforme legalmente determinado, e ausência de prova de prejuízo concreto ao paciente, a afastar a tese de deficiência de defesa técnica ensejadora da pretendida nulidade processual, nos termos do art. 563 do Código de Processo Penal.
+4. Inviável a apreciação por este Supremo Tribunal Federal, em sede de habeas corpus, de matéria não apreciada pelo Superior Tribunal de Justiça, sob pena de indevida supressão de instância.
+5. Habeas corpus extinto sem resolução de mérito. (HC 120655, Relator(a): Min. ROSA WEBER, Primeira Turma, PROCESSO ELETRÔNICO DJe-148 DIVULG 31-07-2014 PUBLIC 01-08-2014).
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL EM HABEAS CORPUS. CONHECIMENTO DO WRIT. IMPOSSIBILIDADE. SUPRESSÃO DE INSTÂNCIA. PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL E NÃO PROVIDO.
+1. O writ foi interposto contra decisão monocrática de Desembargador do Tribunal de Justiça do Estado de Santa Catarina, contra o qual seria cabível agravo regimental. Nesse contexto, não é possível o conhecimento do pedido, uma vez que, a teor do art. 105, II, "a", da CF, não houve julgamento em última instância pela Corte antecedente, a ensejar a inauguração da competência desta Corte.
+2. Pedido de reconsideração recebido como agravo regimental e não provido. (RCD no HC 601.910/SC, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 26/08/2020)
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. WRIT IMPETRADO CONTRA DECISÃO SINGULAR DE DESEMBARGADOR DO TRIBUNAL DE JUSTIÇA. NÃO ESGOTAMENTO DA INSTÂNCIA. IMPOSSIBILIDADE DE CONHECIMENTO DO INCONFORMISMO. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inviável o conhecimento de habeas corpus ou recurso em habeas corpus quando o impetrante/recorrente se insurge contra decisão singular de Desembargador do Tribunal de Justiça, contra a qual seria cabível agravo regimental, que não foi interposto. Precedente do STF e do STJ.
+2. Agravo regimental improvido (AgRg no RHC 102.858/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 13/03/2019)
+Além disso, presente impetração repete os mesmos argumentos analisados no AResp n. 1.799.017, já julgado nesta Corte Superior, além de atacar o mesmo acórdão, proferido no julgamento da Apelação Criminal nº 1500664-19.2018.8.26.0618.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus.
+Nesse sentido:
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. NEGATIVA DE SEGUIMENTO. REITERAÇÃO DE PEDIDO FORMULADO NO RHC N. 42.510/RJ. MANIFESTAÇÃO DO COLEGIADO. AGRAVO REGIMENTAL DESPROVIDO. I - O presente recurso é mera reiteração do pedido já formulado e decidido, nos autos do RHC n. 42.510/RJ, pela col. Quinta Turma. II - Observa-se do termo de recebimento e autuação que ambos os processos possuem o mesmo número de origem, além de aduzirem os mesmos argumentos e formularem idênticos pedidos. Agravo regimental desprovido. (AgRg no RHC 42.638/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/12/2014)
+Ausente, portanto, qualquer constrangimento ilegal que justifique a concessão da ordem de ofício.
+Ante todo o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
