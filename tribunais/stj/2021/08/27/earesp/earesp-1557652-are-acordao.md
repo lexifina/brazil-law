@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com determinação de certificação de trânsito em julgado, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Jorge Mussi.
+EMENTA
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO A QUE SE NEGOU SEGUIMENTO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO CABÍVEL: AGRAVO INTERNO/REGIMENTAL. RECURSO INTERPOSTO MANIFESTAMENTE INCABÍVEL.
+1. Caberá agravo interno/regimental contra decisão que negar seguimento a recurso extraordinário que discuta questão constitucional sobre a qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou que esteja em conformidade com entendimento daquela Corte exarado no regime de repercussão geral (§ 2º do art. 1.030 do CPC).
+2. No caso dos autos, a interposição do agravo em recurso extraordinário consubstancia erro grave. Não incide o princípio da fungibilidade. Precedentes.
+3. "Não terá seguimento pedido ou recurso dirigido ao Supremo Tribunal Federal, quando manifestamente incabível, ou apresentado fora do prazo, ou quando for evidente a incompetência do Tribunal" (Súmula n. 322 do STF).
+4. O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. Precedentes.
+Agravo em recurso extraordinário não conhecido, com determinação de certificação do trânsito em julgado.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo em recurso extraordinário interposto por JOSÉ BERNARDO ORTIZ contra decisão monocrática de minha relatoria que apreciou recurso extraordinário interposto com o objetivo de reformar acórdão do Superior Tribunal de Justiça ementado nos seguintes termos (fls. 2.722-2.723):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO DE INADMISSÃO. NÃO OCORRÊNCIA. RECURSO NÃO PROVIDO.
+1. Trata-se de Agravo Interno contra decisão proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do recurso.
+2. Conforme consignado no decisum agravado, a decisão que inadmitiu o Recurso Especial na origem adotou os seguintes fundamentos: a) ausência de ofensa aos arts. 492 e 1.022 do Código de Processo Civil; b) óbice da Súmula 7 do STJ; c) desnecessidade de ser comprovado o dano sofrido, para fins de identificação da prática de ilícito capitulado pelo artigo 11 da Lei de Improbidade Administrativa, conforme entendimento do STJ; d) "A indevida dispensa de licitação, por impedir que a administração pública contrate a melhor proposta, causa dano in re ipsa, descabendo exigir do autor da ação civil pública prova a respeito do tema". O ora agravante, nas razões do Agravo em Recurso Especial, não impugna o argumento de que o dano ao erário é presumido em casos de dispensa indevida de licitação (art. 10, VIII, da Lei de Improbidade Administrativa).
+3. Na sessão de 19.9.2018, no julgamento dos EAREsps 701.404/SC, 746.775/PR e 831.326/SP, a Corte Especial decidiu, interpretando a Súmula 182/STJ, que ela se aplica para não conhecer de todo o recurso nas hipóteses em que o recorrente impugna apenas parte da decisão recorrida, ainda que a parte impugnada seja capítulo autônomo em relação à parte não impugnada.
+4. Com efeito, nos termos da jurisprudência do STJ, a decisão que não admite o Recurso Especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+5. Portanto, não se conhece do Agravo em Recurso Especial que deixa de atacar especificamente todos os fundamentos da decisão de inadmissibilidade. Inteligência do art. 253, I, do RISTJ e do art. 932, III, do CPC/2015.
+6. Agravo Interno não provido.
+A decisão agravada negou seguimento ao recurso extraordinário com fundamento no art. 1.030, inciso I, alínea a, do Código de Processo Civil (fls. 2.910-2.913).
+Nas razões do agravo regimental, alega que (fl. 2.930):
+COM A DEVIDA VÊNIA AOS FUNDAMENTOS LANÇADOS NA DECISÃO QUE OBSTOU O SEGUIMENTO DO RECURSO EXTRAORDINÁRIO não mereceM prosperar, POIS SOB TODOS OS ângulos que se analisa o Recuso Extraordinário, tem se certo que a decisão denegatória NÃO MERECE PROSPERAR.
+COM EFEITO, os argumentos despendidos no Recurso Extraordinário SÃO SUFICIENTES para infirmar as razões do aresto.
+LOGO, não há que se cogitar da ausência dos pressupostos EXIGIDOS PARA O SEGUIMENTO do Recurso EXTRAORDINÁRIO.
+Contrarrazões apresentadas (fls. 2.938-2.944).
+É, no essencial, o relatório.
+ARE no RE no AgInt nos EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL Nº 1.557.652 - SP (2019/0228836-9)
+EMENTA
+AGRAVO EM RECURSO EXTRAORDINÁRIO. RECURSO EXTRAORDINÁRIO A QUE SE NEGOU SEGUIMENTO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL. RECURSO CABÍVEL: AGRAVO INTERNO/REGIMENTAL. RECURSO INTERPOSTO MANIFESTAMENTE INCABÍVEL.
+1. Caberá agravo interno/regimental contra decisão que negar seguimento a recurso extraordinário que discuta questão constitucional sobre a qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou que esteja em conformidade com entendimento daquela Corte exarado no regime de repercussão geral (§ 2º do art. 1.030 do CPC).
+2. No caso dos autos, a interposição do agravo em recurso extraordinário consubstancia erro grave. Não incide o princípio da fungibilidade. Precedentes.
+3. "Não terá seguimento pedido ou recurso dirigido ao Supremo Tribunal Federal, quando manifestamente incabível, ou apresentado fora do prazo, ou quando for evidente a incompetência do Tribunal" (Súmula n. 322 do STF).
+4. O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. Precedentes.
+Agravo em recurso extraordinário não conhecido, com determinação de certificação do trânsito em julgado.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A insurgência não merece conhecimento, uma vez que o recurso é manifestamente incabível.
+Caberá apenas agravo regimental/interno contra decisão que negar seguimento a recurso extraordinário que discuta questão constitucional sobre a qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou que esteja em conformidade com entendimento daquela Corte exarado no regime de repercussão geral, nos termos do disposto no § 2º do art. 1.030 do Código de Processo Civil:
+Art. 1.030. Recebida a petição do recurso pela secretaria do tribunal, o recorrido será intimado para apresentar contrarrazões no prazo de 15 (quinze) dias, findo o qual os autos serão conclusos ao presidente ou ao vice-presidente do tribunal recorrido, que deverá:
+I - negar seguimento:
+a) a recurso extraordinário que discuta questão constitucional à qual o Supremo Tribunal Federal não tenha reconhecido a existência de repercussão geral ou a recurso extraordinário interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal exarado no regime de repercussão geral;
+b) a recurso extraordinário ou a recurso especial interposto contra acórdão que esteja em conformidade com entendimento do Supremo Tribunal Federal ou do Superior Tribunal de Justiça, respectivamente, exarado no regime de julgamento de recursos repetitivos;
+ ..
+§ 2.º Da decisão proferida com fundamento nos incisos I e III caberá agravo interno, nos termos do art. 1.021. (Grifo meu.)
+Desde o julgamento da Questão de Ordem no AI n. 760.358/SE, relator Ministro Gilmar Mendes, DJe de 19/2/2010, o Supremo Tribunal Federal entendeu que decisão que indefere liminarmente ou julga prejudicado recurso extraordinário é impugnável por meio de agravo interno (regimental), a ser apreciado pelo tribunal que procedeu ao juízo de admissibilidade.
+Nesse contexto, a interposição do agravo nos próprios autos contra decisão que aplica a sistemática da repercussão geral consubstancia erro grave, por não mais subsistir dúvida quanto ao único recurso adequado, repita-se, o agravo interno/regimental, não sendo aplicável o princípio da fungibilidade.
+A propósito, cito estes precedentes:
+Pacífica a jurisprudência desta Suprema Corte de que incabível recurso - agravo e reclamação - contra a sistemática da repercussão geral aplicada pelo Tribunal de origem, observado como marco temporal a data de 19 de novembro de 2009. (ARE n. 800.647-ED, relatora Ministra Rosa Weber, Primeira Turma, DJe de 24/11/2016.)
+Relativamente ao regime processual do CPC/73, a jurisprudência desta Corte firmou-se no sentido de que a decisão de origem que aplica a sistemática de repercussão geral a recurso extraordinário só é impugnável por meio de agravo interno no âmbito do próprio órgão de origem. São inviáveis, nessa hipótese, a interposição do agravo do art. 544 do CPC/73 ou a reclamação constitucional, salvo teratologia. (Rcl n. 14.028-AgR, relator Ministro Roberto Barroso, Primeira Turma, DJe de 22/11/2016.)
+Não é cabível o manejo de reclamação para se questionar o acerto de decisão do Tribunal de origem que aplica a sistemática da repercussão geral.
+A parte que queira impugnar decisão na origem que aplica a sistemática da repercussão geral, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno) perante o próprio tribunal de origem. (Rcl n. 23.120-AgR, relator Ministro Edson Fachin, Primeira Turma, DJe de 24/6/2016.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSO PENAL. CRIME DE FURTO QUALIFICADO. ARTIGO 155, § 4º, IV, DO CÓDIGO PENAL. APLICAÇÃO PELO TRIBUNAL DE ORIGEM DE LEADING CASE DE REPERCUSSÃO GERAL. SISTEMÁTICA PREVISTA NO ARTIGO 543-B, § 3º, DO CPC. RE JULGADO PREJUDICADO. INTERPOSIÇÃO DE AGRAVO PARA O STF. NÃO CABIMENTO. AGRAVO REGIMENTAL DESPROVIDO. (ARE n. 949.453-AgR, relator Ministro Luiz Fux, Primeira Turma, DJe de 5/5/2016.)
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. APLICAÇÃO DA SISTEMÁTICA DA REPERCUSSÃO GERAL PELO TRIBUNAL DE ORIGEM (ART. 543-B DO CPC). INTERPOSIÇÃO DO AGRAVO PREVISTO NO ART. 544 DO CPC. NÃO CABIMENTO. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM PARA JULGAMENTO DO RECURSO COMO AGRAVO INTERNO. CABIMENTO SOMENTE PARA OS RECURSOS INTERPOSTOS ANTES DE 19/11/2009. CONFIGURAÇÃO DE ERRO GROSSEIRO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+I - A jurisprudência do Supremo Tribunal Federal firmou-se no sentido do não cabimento do agravo previsto no art. 544 do Código de Processo Civil para atacar decisão a quo que aplica a sistemática da repercussão geral (AI 760.358-QO/SE, Rel. Min. Gilmar Mendes).
+II - Inaplicável o princípio da fungibilidade recursal para se determinar a conversão do presente recurso em agravo regimental a ser apreciado pela origem, porquanto esta Corte fixou o entendimento de que após 19/11/2009, data em que julgado o AI 760.358-QO/SE, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+III - Agravo regimental a que se nega provimento. (ARE n. 875.527-AgR, relator Ministro Ricardo Lewandowski (Presidente), Tribunal Pleno, DJe de 3/12/2015.)
+AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO COM AGRAVO. DECISÃO DO TRIBUNAL A QUO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL (ART. 543-B DO CPC). DESCABIMENTO DO AGRAVO PREVISTO NO ART. 544 DO CPC. CABIMENTO DE AGRAVO REGIMENTAL (OU INTERNO) PARA A ORIGEM. IMPOSSIBILIDADE DE CONVERSÃO EM AGRAVO REGIMENTAL. ACÓRDÃO RECORRIDO PUBLICADO APÓS 19.11.2009.
+É pacífico o entendimento desta Corte de que, por não se cuidar de juízo negativo de admissibilidade de recurso extraordinário, não é cabível o agravo previsto no art. 544 do Código de Processo Civil, para atacar decisão de Presidente de Tribunal ou Turma Recursal de origem que aplique a sistemática da repercussão geral.
+A parte que queira impugnar decisão monocrática de Presidente de Tribunal ou de Turma Recursal de origem, proferida nos termos do art. 543-B do CPC, deve fazê-lo por meio de agravo regimental (ou interno).
+Inaplicável a conversão do presente recurso em agravo regimental a ser apreciado pela origem, já que a jurisprudência desta Corte já fixou entendimento de que após 19.11.2009, data em que julgado o AI 760.358-QO, a interposição do agravo previsto no art. 544 do CPC configura erro grosseiro.
+Agravo regimental a que se nega provimento. (STF, ARE n. 761.661-AgR/PB, relator Ministro Joaquim Barbosa, Tribunal Pleno, DJe de 28/4/2014, grifo meu.)
+Nos termos da Súmula n. 322 do STF, "não terá seguimento pedido ou recurso dirigido ao Supremo Tribunal Federal, quando manifestamente incabível, ou apresentado fora do prazo, ou quando for evidente a incompetência do Tribunal".
+Outrossim, considerando que o presente recurso é manifestamente incabível e que, nos termos da pacífica jurisprudência do STF, o recurso incabível não tem o condão de suspender ou interromper o prazo recursal, sobreveio o trânsito em julgado da decisão que negou seguimento ao recurso extraordinário.
+Nesse sentido, colaciono julgados:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. REGÊNCIA: CÓDIGO DE PROCESSO CIVIL/1973. AGRAVO INTEMPESTIVO. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+1. Este Supremo Tribunal firmou entendimento de que recurso interposto na origem, quando julgado manifestamente incabível, intempestivo ou inexistente, não suspende nem interrompe o prazo para a interposição de recurso adequado.
+2. Agravo regimental ao qual se nega provimento. (ARE n. 813.750-AgR, relatora Ministra Cármen Lúcia, Tribunal Pleno, DJe de 22/11/2016.)
+Esta Corte tem o entendimento de que o recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para interposição de outro recurso. Precedentes. (ARE n. 823.947-ED, relator Ministro Edson Fachin, Primeira Turma, DJe de 19/2/2016.)
+O recurso manifestamente incabível ou intempestivo não suspende ou interrompe o prazo para a interposição de outro recurso. Precedentes: ARE n. 770.405-AgR, relator Ministro Roberto Barroso, Primeira Turma, DJe de 14/2/2014, e ARE n. 427.221-AgR, relator Ministro Dias Toffoli, Primeira Turma, DJe de 14/8/2012. (ARE n. 819.651-ED, relator Ministro Luiz Fux, Primeira Turma, DJe de 10/10/2014.)
+Desse modo, considerando que a decisão que negou seguimento ao extraordinário foi publicada em 15/4/2021 (certidão de fl. 2.914) e que o presente agravo, manifestamente incabível, não interrompeu a fluência do prazo recursal, sobreveio o trânsito em julgado daquele decisum em 10/5/2021, depois de vencido o prazo recursal de 15 dias previsto para a interposição de agravo interno, único recurso eventualmente cabível.
+Ante o exposto, não conheço do agravo em recurso extraordinário e determino que seja certificado o trânsito em julgado na data acima indicada.
+É como penso. É como voto.
+MINISTRO HUMBERTO MARTINS
+Relator
