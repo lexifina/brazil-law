@@ -1,0 +1,42 @@
+DECISÃO
+Vistos.
+MB IMPORTAÇÃO E DISTRIBUIÇÃO LTDA. apresenta petição à decisão que determinou o retorno dos autos à origem para aguardar julgamento de recurso repetitivo.
+A Requerente alega necessidade de remessa dos autos ao STF, para apreciação do recurso extraordinário interposto, nos termos do art. 1.031, § 3º, do CPC/2015.
+Afirma haver distinção entre a matéria examinada no presente feito e aquelas tratadas nos recursos repetitivos. Entretanto, defende a redistribuição dos autos ao Ministro Mauro Campbell, para ser mais um representativo do Tema n. 1.093/STJ.
+Feito o breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Nos termos do art. 932, III, IV e V, do Código de Processo Civil de 2015, combinados com os arts. 34, XVIII, b e c, e 255, I e II, do Regimento Interno desta Corte, o Relator está autorizado, por meio de decisão monocrática, respectivamente, a:
+i) não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;
+ii) negar provimento a recurso ou pedido contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ; e
+iii) dar provimento a recurso se o acórdão recorrido for contrário à tese fixada em julgamento de recurso repetitivo ou de repercussão geral (arts. 1.036 a 1.041), a entendimento firmado em incidente de assunção de competência (art. 947), à súmula do Supremo Tribunal Federal ou desta Corte ou, ainda, à jurisprudência dominante acerca do tema, consoante Enunciado da Súmula n. 568/STJ:
+"O Relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Quanto à pretensão de remeter osautos ao STF, para apreciação do recurso extraordinário interposto, nos termos do art. 1.031, § 3º, do CPC/2015, esta Corte tem firme posicionamento segundo o qual aprevisão inserta nesse dispositivo legal constituifaculdade do Relator, quando verificada a prejudicialidade, como seguem:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. VÍCIO CONFIGURADO.SANEAMENTO, SEM EFEITOS MODIFICATIVOS.
+1. Nos termos do que dispõe o art. 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso, houve omissão no julgado quanto ao pedido de sobrestamento do recurso especial e remessa dos autos ao STF, na forma do art. 1.031, §2º, do CPC/2015.
+3. Dispõe o §2º do art. 1.031 do CPC/2015 que o relator do recurso especial que considere prejudicial o recurso extraordinário, em decisão irrecorrível, sobrestará o julgamento e remeterá os autos ao Supremo Tribunal Federal. Ocorre que, na hipótese, não há falar em prejudicialidade do recurso especial pelo recurso extraordinário, pois o que neste for decidido pela Suprema Corte não influenciará o destino daquele, que nem sequer ultrapassou a barreira do conhecimento.
+4. Embargos de declaração acolhidos, sem efeitos modificativos.
+(EDcl no AgInt no REsp 1847335/SP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 07/12/2020, DJe 11/12/2020).
+ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. SOBRESTAMENTO DO ESPECIAL ATÉ O PRONUNCIAMENTO DO STF NO EXTRAORDINÁRIO. RELATOR. FACULDADE.
+1. A previsão inserta no § 2º do art. 1.031 do CPC, a prever o sobrestamento do especial até pronunciamento da Suprema Corte em recurso extraordinário, constitui faculdade do Relator, quando verificada a prejudicialidade deste em detrimento daquele.
+2. A situação dos autos repele a aplicação do referido dispositivo, porquanto o apelo especial, tal como consignado no julgado embargado, não ultrapassa a barreira do conhecimento, considerada a constitucionalidade da discussão.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no REsp 1297548/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/02/2021, DJe 01/03/2021)
+In casu, não restou demonstrada nenhuma prejudicialidade, de modo que impõe-se o indeferimento do pedido.
+Acerca da alegação de distinção entre os julgados, verifica-se contradição no petitório, pois, ao mesmo tempo em que se apontadivergência entre as tesestratadas nos recursos, pretende-se a redistribuição deste feito ao Relator dos recursos repetitivos para ser mais um apreciado como representativo de controvérsia, de modo que tal alegação merece ser desconsiderada.
+No mais, ressalto a orientação consolidada neste Superior Tribunal segundo a qualé irrecorrível a decisãoque determina a devolução dos autos à origem para aguardar julgamento de recurso repetitivo, por não possuir carga decisória, salvo sedemonstrado, efetivamente, erro ou equívoco, o que não ocorre no caso.
+Nessa linha:
+ADMINISTRATIVO. MATÉRIA JULGADA COMO REPETITIVO. REsp 1.339.313/RJ (TEMA 565/STJ). DISTINGUISHING INVÁLIDO. DEVOLUÇÃO DOS AUTOS À ORIGEM PARA ADEQUADO JUÍZO DE CONFORMAÇÃO. ATO JUDICIAL DESPROVIDO DE CARGA DECISÓRIA. IRRECORRIBILIDADE.
+1. "Encontrando-se o acórdão a quo em contrariedade com o entendimento firmado em acórdão julgado sob a sistemática do recurso repetitivo, necessária a devolução dos autos à Corte de origem para o devido juízo de retratação, nos termos dos artigos 1.040 e 1.041 do CPC " (AgInt na PET no AREsp 644.832/GO, Rel. Ministra Nancy Andrighi, Terceira Turma, DJe 4/5/2017).
+2. Caso concreto que tem por objeto o mesmo tema do repetitivo consubstanciado no REsp 1.339.313/RJ (Tema 565/STJ), razão pela qual se ordenou o retorno dos autos à Corte de origem, para que lá, no juízo de retratação a que alude o art. 1.030, II, do CPC/15, decida em conformidade com a diretriz firmada no aludido repetitivo.
+3. Ato de remessa desprovido de carga decisória e, por isso mesmo, irrecorrível. Nesse sentido: AgInt no AREsp 608.190/PE, Rel.
+Ministro Gurgel de Faria, Primeira Turma, DJe 16/08/2018; AgInt no REsp 1.661.811/SP, Rel. Ministro Luis Felipe Salomão, Quarta Turma, DJe 29/06/2018; e AgInt no AREsp 1.184.411/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 26/6/2018.
+4. Agravo interno não conhecido.
+(AgInt no REsp 1922039/RJ, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/04/2021, DJe 27/04/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. ICMS SOBRE TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO (TUSD). DEVOLUÇÃO DOS AUTOS AO TRIBUNAL DE ORIGEM. MATÉRIA COM REPERCUSSÃO GERAL RECONHECIDA E DETERMINAÇÃO DE SUSPENSÃO (ART. 1.035, § 5º, DO CPC/2015). ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+1. É firme a orientação desta Corte segundo a qual a decisão que determina a devolução dos autos para que, após publicado do acórdão relativo ao recurso repetitivo, o Recurso Especial seja novamente examinado pelo Tribunal de origem, não gera prejuízo à parte recorrente. Nesse contexto, a determinação de sobrestamento, com o efetivo retorno dos autos à Corte estadual, a fim de que lá seja exercido o competente juízo de retratação/conformação (arts. 1.040 e 1.041 do CPC/2015), não possui carga decisória, sendo portanto irrecorrível, salvo se demonstrado, efetivamente, erro ou equívoco patente, o que não ocorre no caso dos autos. Nesse sentido: AgInt no REsp n. 1.140.843/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 23/10/2018, DJe 30/10/2018 e AgInt no AREsp n.1.151.542/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 25/10/2018, DJe 6/11/2018.)
+2. Agravo Interno não provido.
+(AgInt nos EDcl no REsp 1901625/MT, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/05/2021, DJe 01/07/2021).
+Nesse contexto, restou prejudicado o exame do ingresso como amicus curiae.
+Posto isso, com fundamento no art. 932, IV, do Código de Processo Civil e art. 34, XVIII, a e b, do Regimento Interno desta Corte, indefiro o pedido.
+Publique-se e intimem-se.
