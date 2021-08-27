@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaCONSTRUTORA PINENGE LTDA.,com respaldona alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SULassim ementado:
+APELAÇÃO REMESSA NECESSÁRIA LICITAÇÃO E CONTRATO ADMINISTRATIVO AÇÃO DE COBRANÇA EXECUÇÃO DE INFRA-ESTRUTURA E PAVIMENTAÇÃO ASFÁLTICA AUSÊNCIA DE PAGAMENTO PELO ENTE PÚBLICO FATURAS SUBSTITUÍDAS PRESCRIÇÃO INOCORRÊNCIA CORREÇÃO MONETÁRIA JUROS MORATÓRIOS REDISTRIBUIÇÃO DA SUCUMBÊNCIA VERBA HONORÁRIA MAJORAÇÃO.
+Embargos de declaração acolhidos em parte(e-STJ fls. 480/489).
+Em suas razões (e-STJ fls. 513/536), a parte recorrente aponta violaçãodos arts. 489 e 1.022 do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, alega vulneração dos arts. 389, 394, 395, 397, 422 e 844do CC,dos arts. 5º, 40, XIV, e 55, II,da Lei n.8.666/1993 (a incidência da correção monetária e dos juros de mora a partir do 30ºdia da emissão das notas fiscais) e do art. 20, §§3º e 4º, do CPC/1973 (majoração dos honorários advocatícios).
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 649/662.
+Passo a decidir.
+No que concerne à alegada negativa de prestação jurisdicional, saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveiscontra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorra a decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, a insurgência do agravante se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que o Tribunal local, no julgamento da apelação, entendeu que, "diante das peculiaridades do caso, a correçãomonetária e os juros moratórios devem incidir a contar da data da emissão do Termo de Recebimento Definitivo da Obra, em 17/09/2012, ocasião em que foram corrigidos os vícios apontados, segundo afirma o próprio Município." (e-STJ fl. 415).
+Emboratenha surgido no julgamento da apelação e suscitado oportunamente no recurso integrativo, a Corte de origem (e-STJ fls. 480/489) não exprimiu juízo de valor sobre a existência de contradição manifesta pelo seguinte: a) "conforme consta dos processos administrativos juntados pelo Município em contestação foi realizada a medição dos serviços executados antes da emissão das notas fiscais. Portanto, o Município atestou que os serviços foram executados e seus valores, e, portanto, restava somente o pagamento de sua parte";e b)"a própria prova documental anexada em contestação demonstraque a mora do pagamento é imputável ao Município, que ficou aguardando a dotação orçamentária para efetuar o pagamento e também por divergências com a gestão anterior da Prefeitura"(e-STJ fls. 439/440).
+É de suma importância a verificação da referida contradição, na medida em que a argumentação visa alterar o marco inicial da correção monetária e dos juros de mora, tema de mérito do presente recurso especial.
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pela Corte a quo, ficando prejudicadas as demais questões discutidas no apelo raro.
+Em atenção ao art. 1.025 do CPC/2105 (prequestionamento ficto), ressalto que as questões trazidas à instância excepcional podem ser examinadas e decididas à luz dos dispositivos tidos por violados, desde que versem acerca de questão exclusivamente de direito e, por óbvio, não imponham a esta Corte a análise ou reexame de elementos fáticos-probatórios dos autos, como na espécie.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AO ART. 1.022 DO CPC. OMISSÃO NO ACÓRDÃO CONFIGURADA. ANÁLISE DE QUESTÕES EMINENTEMENTE FÁTICAS EM SEDE DE RECURSO ESPECIAL. IMPOSSIBILIDADE. NECESSIDADE DE RETORNO DOS AUTOS À CORTE DE ORIGEM. AGRAVO IMPROVIDO.
+1. Reconhecida a existência de omissão no acórdão recorrido e referindo-se o vício a questões eminentemente fáticas, impõe-se o retorno dos autos à Corte de origem para novo julgamento, tendo em vista a impossibilidade de esta Corte Superior adentrar a análise do acervo fático-probatório dos autos.
+2. Agravo interno improvido. (AgInt no AREsp 1.149.082/DF, Relator Ministro LÁZARO GUIMARÃES, DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO, QUARTA TURMA, DJe 14/12/2017).
+PROCESSUAL CIVIL E TRIBUTÁRIO. QUESTÃO RELEVANTE SUSCITADA EM EMBARGOS DE DECLARAÇÃO. AUSÊNCIA DE PRONUNCIAMENTO NO ACÓRDÃO RECORRIDO. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. RETORNO DOS AUTOS À CORTE DE ORIGEM.
+1. Incide em violação ao art. 1.022 do CPC/2015 o órgão julgador que, instado a se pronunciar sobre questão relevante para o deslinde da controvérsia, permanece silente a seu respeito, causando prejuízo à parte embargante.
+2. Deve-se reconhecer a existência de omissão no acórdão impugnado; daí a necessidade de que seja proferido novo julgamento dos Embargos, analisando-se, desta vez, o ponto apresentado pela parte recorrente: "por força da previsão no edital e expresso entendimento do ilustre Magistrado da 4ª Vara Especializada de Execuções Fiscais, os Arrematantes/Embargados, no caso concreto, são responsáveis pelo pagamento dos tributos com fatos geradores anteriores à arrematação".
+3. Recurso Especial provido, determinando-se o retorno dos autos ao Tribunal de origem para que se manifeste sobre o ponto suscitado nos aclaratórios. (REsp 1.695.486/SP, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 19/12/2017).
+Pelo exposto, com base no art. 255, § 4º, III, do RISTJ, DOU PROVIMENTO ao recurso especial para anular o acórdão prolatado em sede de embargos declaratórios e determinar o retorno dos autos ao Tribunal a quo, a fim de que seja analisada a contradição apontada no recurso integrativo.
+Publique-se. Intimem-se.
