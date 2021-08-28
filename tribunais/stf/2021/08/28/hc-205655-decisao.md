@@ -1,0 +1,11 @@
+Decisão: Trata-se de habeas corpus impetrado contra a decisão monocrática do Ministro Alexandre de Moraes que decretou, nos autos da PET 9.844/DF, a prisão preventiva do paciente e outras medidas.
+    O impetrante requer, preliminarmente, o acolhimento de questão de ordem a fim de reconhecer a incompetência absoluta do Supremo Tribunal Federal para julgar o pedido cautelar e, consequentemente, a ilegalidade da prisão preventiva, determinando-se o relaxamento da prisão, com a expedição imediata do alvará de soltura do paciente. No mérito, pede a revogação da prisão cautelar, “haja vista a carência de fundamentos do r. decisum que justifiquem o risco à ordem pública e a conveniência à instrução criminal, bem como a necessidade e imprescindibilidade da medida extrema, exigidos pelos artigos 312, c/c 313 e 315, todos do Código de Processo Penal, expedindo-se o competente alvará de soltura”. Subsidiariamente, pugna pela substituição da prisão preventiva por medidas alternativas ao encarceramento, previstas no art. 319 do CPP. Por último, caso não sejam acolhidos os pedidos anteriores, roga pela substituição da prisão preventiva por domiciliar, nos termos do art. 318, II, do CPP.
+    A Procuradoria-Geral da República manifestou-se nos autos, em parecer da lavra da e. Subprocuradora-Geral da República Doutora Lindôra Maria Araujo.
+    Encontrando-se daí os autos com este Relator já conclusos, emerge fato processual novo digno de nota e consideração.
+    Na mesma data, em 27/08/2021, às 20h33min, horário superveniente ao momento em que o parecer aquele houvera aportado aos autos, o próprio e. Procurador-Geral da República, Doutor Augusto Aras, dirigindo-se a este Relator, “requer nova vista dos autos para melhor exame da controvérsia”. Merece deferência e acolhimento o peticionamento superveniente.
+    Isto posto, acolho a superveniente solicitação diretamente formulada pelo Excelentíssimo Senhor Procurador-Geral da República, veiculada em peça firmada por Sua Excelência o Doutor Augusto Aras, e determino nova vista à PGR, como requerido pelo Chefe do Ministério Público.
+    Assim, com a brevidade possível, encaminhe-se à PGR.
+    Publique-se. Intime-se.
+    Brasília, 28 de agosto de 2021.
+Ministro Edson Fachin
+Relator- Documento assinado digitalmente
