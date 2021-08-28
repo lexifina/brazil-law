@@ -1,0 +1,22 @@
+Decisão
+    Trata-se de Habeas Corpus impetrado em causa própria contra ABUSOS DE AUTORIDADES dos Desembargadores do Tribunal de Justiça de Minas Gerais e do Superior Tribunal de Justiça, porque estão cometendo crimes de lesa-pátria, contra o Estado de Direito.
+    Nesta ação, o impetrante, em petição confusa, alega, em suma:
+    Os Juízes/Denunciados estão atuando na região do Alto Paranaíba há mais de 20 (vinte) anos. Eles receberam cartas brancas. Esse fato por si só comprova que cometeram crimes previstos na Lei Complementar nº 35/79, na Lei nº 12.850/13, na Lei 13.869/19, na Lei 8.137/90. Violaram Resoluções, Regulamentos e Jurisprudências do CNJ.
+    [...]
+    No dia 23/5/11 o Paciente foi ameaçado pelos Juízes/Denunciados. O Denunciado/Miguel ligou às 13h13 (995072399) para falar sobre as denúncias. No escritório dele já estava o Denunciado/Joamar. Logo após, ele foi até o gabinete do Juiz/Vinícius no fórum. No local estava Miguel Bento, o Delegado/Luís Mauro e Rafaela (sobrinha do Juiz Vinícius). Ela protocolou a prova do crime. Eles alegaram para o Paciente desistir das denúncias caso contrário não ia ganhar nenhuma ação.
+    [...]
+    Lamentavelmente, o Paciente só pode contar com a ajuda das Forças Armadas e da Polícia Federal visando colocar Ordem e Progresso. Salvar o Povo Brasileiro, as Crianças, o futuro do Brasil do poder das organizações criminosas. A instabilidade institucional está comprovada.
+    Requer-se, ao final, a concessão de Habeas Corpus Preventivo, decretando a nulidade das decisões teratológicas, nos termos dos artigos 647 e 648 do Código de Processo Penal, art. 5º, inciso LXVIII, da Constituição Federal, porque os Juízes/Denunciados estão o perseguindo. Estão cometendo crimes contra os princípios constitucionais, contra o Estado de Direito.
+    É o relatório. Decido.
+    O presente pedido, sob qualquer ângulo, não comporta conhecimento.
+    Em Habeas Corpus é necessária a indicação específica de cada constrangimento ilegal que implique coação ou iminência direta de coação à liberdade de ir e vir, pois não se pode ignorar, nos termos da legislação de regência (CPP, art. 654), que a petição inicial conterá o nome da pessoa que sofre ou está ameaçada de sofrer violência ou coação, assim como o de quem exerce essa violência, coação ou ameaça e a declaração da espécie de constrangimento ilegal ao direito de locomoção, ou em caso de simples ameaça de coação, as razões em que se funda o seu temor.
+    A propósito, EDUARDO ESPÍNOLA FILHO, em comentário ao referido art. 654 do CPP, ressalta que “a petição deve, pois, conter todos os requisitos de uma exposição suficientemente clara, com explanação e narração sobre violência, suas causas, sua ilegalidade” (Código de processo penal brasileiro anotado. Atualizadores: José Geraldo da Silva e Wilson Lavorenti. Campinas: Bookseller, 2000, p. 275).
+    Na hipótese, a deficiência da instrução impede a compreensão da controvérsia. Além de protocolada sem qualquer documento, a petição inicial – confusa – nem sequer indicou espécie de constrangimento ilegal que, mesmo de maneira remota, possa colocar em risco a liberdade de ir e vir. Conforme já decidiu esta CORTE, “Não cabe ao magistrado proceder à regular instrução do processo, a não ser que, da leitura da documentação juntada com a impetração, resulte dúvida fundada, a justificar a realização de diligência” (HC 138.443-ED, Rel. Min. RICARDO LEWANDOWSKI, Segunda Turma, DJe de 11/4/2017).
+    Se não bastasse, parte das autoridades apontadas como coatoras não estão previstas no art. 102, I, i, da Constituição Federal, segundo o qual compete a esta SUPREMA CORTE processar e julgar, originariamente, a ação de Habeas Corpus quando o coator for Tribunal Superior ou quando o coator ou o paciente for autoridade ou funcionário cujos atos estejam sujeitos diretamente à sua jurisdição.
+    Enfim, o Habeas Corpus exige a demonstração de constrangimento ilegal que implique coação ou iminência direta de coação à liberdade de ir e vir. Com efeito, não cabe vulgarizar e banalizar a garantia fundamental do writ, “empregando-a se não há prisão ou constrangimento atual, iminente ou pelo menos próximo à liberdade de locomoção” (HC 103.779, Rel. Min. ROSA WEBER, Primeira Turma, DJe de 1º/8/2012).
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO a ordem de HABEAS CORPUS.
+    Publique-se.
+    Brasília, 28 de agosto de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
