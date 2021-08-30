@@ -1,0 +1,31 @@
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Verifica-se a intempestividade do agravo em recurso especial, uma vez que, no presente caso, tendo sido a intimação eletrônica realizada em 30/10/2020 (sexta-feira), o prazo recursal de 15 dias iniciou em 3/11/2020 (terça-feira), em razão do feriado de finados (2/11/2020), e encerrou em 17/11/2020, tendo o recurso sido interposto somente em 18/11/2020, fora do prazo, portanto. Salienta-se que não houve a comprovação do feriado local de 3/11/2020, no âmbito do Tribunal a quo, quando de sua interposição, não havendo como ser afastada a sua intempestividade.
+2. O recurso especial é submetido a duplo juízo de admissibilidade, não estando esta Corte Superior vinculada às manifestações do Tribunal a quo acerca dos pressupostos recursais. Assim, o reconhecimento da tempestividade pelo Tribunal de Justiça não vincula o Superior Tribunal de Justiça, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+3. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Ribeiro Dantas, Jesuíno Rissato (Desembargador Convocado do TJDFT) e João Otávio de Noronha votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+RELATÓRIO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+Trata-se de agravo regimental interposto por SIDINEI DA SILVA (e-STJ fls. 474/512) contra decisão monocrática do Ministro Presidente Humberto Martins, de e-STJ fls. 425, que não conheceu do recurso, em razão da intempestividade.
+A parte agravante alega a tempestividade do agravo em recurso especial apresentado em 18/11/2020, uma vez que leu a intimação dia 30/10/2020 (sexta-Feira), tendo seu prazo se iniciado no primeiro dia útil seguinte, qual se deu somente no dia 04/11/2020 (Quarta-Feira), em razão dos feriados dos dias 02/11/2020 (finados) e 03/11/2020 (dia do servidor público, nos termos do Decreto Judiciário nº 488/2020 do TJ/PR).
+O Ministério Público, em seu parecer, opinou pelo não provimento do recurso (e-STJ fls. 525/530).
+É o relatório.
+EMENTA
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. PRAZO DE 15 (QUINZE) DIAS CORRIDOS. FERIADO LOCAL. AUSÊNCIA DE COMPROVAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Verifica-se a intempestividade do agravo em recurso especial, uma vez que, no presente caso, tendo sido a intimação eletrônica realizada em 30/10/2020 (sexta-feira), o prazo recursal de 15 dias iniciou em 3/11/2020 (terça-feira), em razão do feriado de finados (2/11/2020), e encerrou em 17/11/2020, tendo o recurso sido interposto somente em 18/11/2020, fora do prazo, portanto. Salienta-se que não houve a comprovação do feriado local de 3/11/2020, no âmbito do Tribunal a quo, quando de sua interposição, não havendo como ser afastada a sua intempestividade.
+2. O recurso especial é submetido a duplo juízo de admissibilidade, não estando esta Corte Superior vinculada às manifestações do Tribunal a quo acerca dos pressupostos recursais. Assim, o reconhecimento da tempestividade pelo Tribunal de Justiça não vincula o Superior Tribunal de Justiça, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+3. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO REYNALDO SOARES DA FONSECA (Relator):
+O agravo regimental não merece acolhida.
+Com efeito, dessume-se das razões recursais que a parte agravante não trouxe elementos suficientes para infirmar a decisão agravada, que, de fato, apresentou a solução que melhor espelha a orientação jurisprudencial do Superior Tribunal de Justiça sobre a matéria.
+Portanto, nenhuma censura merece o decisório ora recorrido, que deve ser mantido pelos seus próprios e jurídicos fundamentos.
+No REsp n. 1.813.684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, julgado pela Corte Especial em 02/10/2019, DJe 18/11/2019, ficou consignado que, sob a vigência do CPC/2015, é necessária a comprovação nos autos de feriado local por meio de documento idôneo no ato de interposição do recurso. Contudo, considerando os princípios da segurança jurídica, da proteção da confiança, da isonomia e da primazia da decisão de mérito, decidiu-se pela modulação dos seus efeitos, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão respectivo, a teor do § 3º do art. 927 do CPC/2015.
+Considerando que o agravo em recurso especial foi interposto após a publicação do referido julgado e que não houve a comprovação do feriado local de 3/11/2020, no âmbito do Tribunal a quo, quando de sua interposição, não há como ser afastada a sua intempestividade.
+Assim, consoante anteriormente decidido, verifica-se a intempestividade do agravo em recurso especial, uma vez que, no presente caso, tendo sido a intimação eletrônica realizada em 30/10/2020 (sexta-feira), o prazo recursal de 15 dias iniciou em 3/11/2020 (terça-feira), em razão do feriado de finados (2/11/2020), e encerrou em 17/11/2020, tendo o recurso sido interposto somente em 18/11/2020, fora do prazo, portanto.
+Salienta-se que o recurso especial é submetido a duplo juízo de admissibilidade, não estando esta Corte Superior vinculada às manifestações do Tribunal a quo acerca dos pressupostos recursais. Assim, o reconhecimento da tempestividade pelo Tribunal de Justiça não vincula o Superior Tribunal de Justiça, Corte competente para analisar, em definitivo, o preenchimento dos requisitos de admissibilidade do recurso especial.
+Sendo assim, o inconformismo não merece prosperar.
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
