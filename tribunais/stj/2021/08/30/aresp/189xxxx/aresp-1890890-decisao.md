@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de Agravo contra inadmissão de Recurso Especial (art. 105, III, "a" e "c", da CF) interposto contra acórdão proferido pelo Tribunal de Justiça do Estado do Maranhão assim ementado:
+AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO INDIVIDUAL. AÇÃO COLETIVA Nº 14.440/2010. PROFESSORES DA REDE ESTADUAL DEENSINO BÁSICO. ESCALONAMENTO DAS REFERÊNCIAS DA CARREIRADO MAGISTÉRIO. TÍTULO EXECUTIVO IDÔNEO. TRÂNSITO EM JULGADOCARACTERIZADO.
+I - No caso dos autos, restou evidenciado o trânsito em julgado da sentença prolatada nos autos da Ação Coletiva nº 14.440/2000, logo, o título executivo judicial se revela idôneo para lastrear as respectivas execuções individuais, incabível, portanto, a extinção da execução sem exame domérito, ou mesmo o pleito de suspensão formulado pelo Ministério Publico. II - Por fim, restou evidenciado que o título executado é exigível, eis que a situação pasta trata-se de execução autônoma de sentença coletiva transitada em julgado, logo, a decisão agravada não merece modificação, ao passo de que o desprovimento do presente recurso é medida que há de ser imposta. III. Agravo desprovido
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega que houve violação do art. 535, III, § 5º e § 7º, do CPC/2015. Afirma:
+Também já há havia sido editada a sumula nº 3391, estabelecendo não ser possível o Poder Judiciário aumentar vencimentos de servidores públicos sob o fundamento de isonomia, entendimento confirmado na Sumula Vinculante nº 372. Assim, sem sombra de dúvida, o referido título judicial está fundado em aplicação e interpretação de norma tida pelo STF como incompatível com a Constituição, sendo inexigível a obrigação dele decorrente, de acordo com a o artigo 741, II, parágrafo único, do CPC/1973 (atual art. 535, III, §5º, do CPC/2015).
+SemContrarrazões.
+O recurso foi inadmitido na origem, o que deu ensejo à interposição do presente Agravo.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 13.8.2021.
+O Tribunal de origem dirimiu a controvérsia nos seguintes termos:
+Analisando os autos, entendo que não existem razões para alterar o entendimento firmado pelo magistrado de primeiro grau ao dar prosseguimento ao feito rejeitando a impugnação ao cumprimento de sentença interposto pelo agravante.
+A questão de mérito se encontra resguardada pelo manto sagrado da Coisa Julgada, no entanto, ainda que o recorrente busque desconstituir a decisão que julgou procedente a execução e homologou os cálculos elaborados legitimamente, não trouxe ao feito qualquer elemento novo que guarneça os seus argumentos, não demonstrando a alegada inexigibilidade do título executado, tampouco comprovou vícios no cálculo apresentado.
+Face as circunstâncias postas, entendo que inexiste qualquer elemento de prova ser inconstitucional a coisa julgada já reconhecida, o que faço arrimado nos recentes julgados do TJMA, abaixo relacionados, rechaçando as teses levantadas pelo Estado do Maranhão, nos autos das execuções individuais da sentença prolatada na Ação Coletiva nº 14.440/2000.
+A Corte de origem entendeu:"inexiste qualquer elemento de prova ser inconstitucional a coisa julgada já reconhecida, o que faço arrimado nos recentes julgados do TJMA, abaixo relacionados, rechaçando as teses levantadas pelo Estado do Maranhão, nos autos das execuções individuais da sentença prolatada na Ação Coletiva nº 14.440/2000." (fls. 189, e-STJ, grifei).
+Contudo, esse argumento não foi atacado pela parte recorrente e, como é apto, por si só, para manter o decisum combatido, permite aplicar na espécie, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+Nessa esteira:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AOS ARTS. 489 E 1.022 DO CPC/2015 NÃO DEMONSTRADA. INTERRUPÇÃO INDEVIDA DO FORNECIMENTO DE ENERGIA ELÉTRICA. DEMORA NO RESTABELECIMENTO DO SERVIÇO. INDENIZAÇÃO POR DANO MORAL. QUESTÃO DECIDIDA COM FUNDAMENTOS CONSTITUCIONAIS E INFRACONSTITUCIONAIS. AUSÊNCIA DE RECURSO EXTRAORDINÁRIO. SÚMULA 126/STJ. FALTA DE IMPUGNAÇÃO DE FUNDAMENTO AUTÔNOMO E DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DISSÍDIO JURISPRUDENCIAL
+1. Não se configura a alegada ofensa ao artigo 1.022 do Código de Processo Civil de 2015, uma vez que o Tribunal de origem julgou integralmente a lide e solucionou, de maneira amplamente fundamentada, a controvérsia.
+2. Cuida-se de inconformismo contra acórdão do Tribunal de origem, que reformou a sentença que condenou a empresa concessionária à indenização por danos morais, devido à interrupção no fornecimento de energia elétrica por período demasiadamente longo.
+3. O Tribunal local, ao tratar da responsabilidade civil no caso, embasou-se no Código de Defesa do Consumidor, art. 14, e na Constituição Federal de 1988, art. 37, § 6º.
+4. Todavia, os recorrentes esquivaram-se de rebater os fundamentos utilizados pelo Tribunal de origem no sentido de firmar seu convencimento, restringindo-se a apontar que o art. 186 do Código Civil teria sido violado, sendo que o acórdão recorrido consignou expressamente que a relação é de consumo.
+5. Conforme entendimento pacificado no STJ, "a relação entre concessionária de serviço público e o usuário final, para o fornecimento de serviços públicos essenciais, tais como água e energia, é consumerista, sendo cabível a aplicação do Código de Defesa do Consumidor" (AgRg no AREsp 354.991/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 11/9/2013).
+6. Em se tratando de matéria relacionada a danos oriundos de produtos ou serviços de consumo, é afastada a aplicação do Código Civil, tendo em vista o regime especial do Código de Defesa do Consumidor. Só excepcionalmente aplica-se o Código Civil, ainda assim quando não contrarie o sistema e a principiologia do CDC.
+7. Aplica-se, na espécie, o teor da Súmula 126 deste colendo Superior Tribunal de Justiça, segundo a qual "é inadmissível recurso especial, quando o acórdão recorrido assenta em fundamentos constitucional e infraconstitucional, qualquer deles suficiente, por si só, para mantê-lo, e a parte vencida não manifesta recurso extraordinário".
+8. Incide ainda, por analogia, os óbices das Súmulas 284 e 283 do STF, ante a deficiência na motivação e a ausência de impugnação de fundamento autônomo.
+9. Fica prejudicada análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+10. Recurso Especial conhecido parcialmente, somente em relação à preliminar de violação dos arts. 489 e 1.022 do CPC/2015, e, nessa extensão, não provido.
+(REsp 1831314/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19.12.2019).
+Ademais, a revisão do julgado demanda a análise do disposto em leis locais (Leis Estaduais7.072/1998 e 6.110/1994) o que é inviável em Recurso Especial, ante o disposto na Súmula 280/STF.
+Por tudo isso, conheço do Agravo para não conhecer do Recurso Especial.
+Publique-se.
+Intimem-se.
