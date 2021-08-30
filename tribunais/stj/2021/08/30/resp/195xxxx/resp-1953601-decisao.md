@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por MANOEL AURELIO SOARES,com fulcro na alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO assim ementado (e-STJ fl. 402):
+PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. CONVERSÃO INVERSA. IMPOSSIBILIDADE. HIDROCARBONETOS. RUÍDO. REVISÃO DA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. CORREÇÃO MONETÁRIA. HONORÁRIOS ADVOCATÍCIOS.
+I- Não merece prosperar o pedido de conversão de atividade comum em especial, nos períodos pleiteados, haja vista que o requerimento da aposentadoria deu-se na vigência da Lei nº 9.032, de 28/4/95, que inseriu o §5º ao art. 57 da Lei nº 8.213/91, suprimindo a possibilidade de tal conversão.
+II- No que se refere à conversão do tempo de serviço especial em comum, a jurisprudência é pacífica no sentido de que deve ser aplicada a lei vigente à época em que exercido o trabalho, à luz do princípio tempus regit actum.
+III- A documentação apresentada permite o reconhecimento da atividade especial nos períodos pleiteados.
+IV- No tocante à aposentadoria especial, a parte autora não cumpriu os requisitos legais necessários à obtenção do benefício, sendodevida a revisão de seu benefício.
+V- Com relação aos índices de atualização monetária, devem ser observados os posicionamentos firmados na Repercussão Geral no Recurso Extraordinário nº 870.947 (Tema 810) e no Recurso Especial Repetitivo nº 1.492.221 (Tema 905).
+VI- A verba honorária fixada à razão de 10% sobre o valor da condenação remunera condignamente o serviço profissional prestado,nos termos do art. 85 do CPC/15 e precedentes desta Oitava Turma. No que se refere à sua base de cálculo, devem ser levadas emconta apenas as parcelas vencidas até a data da prolação da sentença, nos termos da Súmula nº 111, do C. STJ
+VII- Apelação do INSS improvida. Apelação da parte autora parcialmente provida.
+Rejeitados os aclaratórios (e-STJ fls. 434/450).
+Nas suas razões, o recorrente alega preliminar de ofensa ao art. 1.022, II, do Código de Processo Civil/2015, por ausência de prestação jurisdicional, e, nomérito, aponta violação do art. 85, caput e § 2º, do CPC/2015, ao argumento de que a verba honorária deve ser fixada até a data do acórdão, que reformoua sentença de improcedência do pedido, nos termos da Súmula 111 do STJ.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem consta às e-STJ fls. 466/468.
+Passo a decidir.
+Em primeiro lugar, esta Corte Superior tem, reiteradamente, decidido que a alegação de violação do art. 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+Nesse sentido: AgInt no AREsp 1.129.996/RJ, rel. Ministro Luís Felipe Salomão, Quarta Turma, DJe 1º/12/2017; AgInt no REsp 1.681.138/MS, rel. Ministra Regina Helena Costa, Primeira Turma, DJe 28/11/2017; REsp 1.371.750/PE, rel. Ministro Og Fernandes, Primeira Seção, DJe 10/04/2015; AgRg no REsp 1.182.912/RS, rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 29/04/2016.
+Na hipótese, o agravante deixou de indicar, com precisão, os pontos supostamente não enfrentados pelo Tribunal de origem, limitando-se a afirmar, genericamente, que a Corte de origem deixou de se manifestar sobre questões apontadas no seu apelo.
+Ora, por certo, que a tese alusiva à ofensa ao art. 1.022 do CPC/2015 deve ser construída com base no confronto entre a alegada omissão e a respectiva repercussão jurídica que traduza a necessidade de seu enfrentamento pela Corte de origem, o que, sem dúvida, não ocorreu na hipótese em análise.
+Quanto ao mérito, verifico que não assiste razão à parte autora.
+No caso dos autos, a sentença julgou parcialmente procedente o pedido inicial derevisão do benefício da parte autora, nos seguintes termos e-STJ, fls. 316/317):
+Julgo PARC1ALMENTE PROCEDENTE a demanda para, reconhecendo os períodos especiais de 01/08/1999 a 31/10/2002 e 19/11/2003 a 01/03/2010, convertendo-os e somando-os ao tempo já computado administrativamente, revisar o beneficio da parte autora. aposentadoria por tempo de contribuição desde a DER, em 01/03/2010. num total de 38 anos, 10meses e 04 dias de tempo de contribuição..
+O Tribunal a quo,por sua vez, modificou parcialmente a sentença para reconhecer otempo de serviço especial nos períodos de 06/03/97 a 31/10/97, 1/4/99 a 31/7/99 e 1º/11/02 a 18/11/03, fixandohonorários advocatícios no percentual de 10% sobre o valor da condenação, mas determinando a base de cálculo da referida verbasobre as parcelas vencidas até a data da prolação da sentença, considerando a redação da Súmula 111 do STJ (e-STJ fl. 401).
+No entanto, em relação ao termo final dos honorários advocatícios, a orientação jurisprudencial do STJ a respeito do aludido enunciado sumular é a de que deve ser fixado na data do julgamento favorável à concessão do benefício pleiteado, excluindo-se as parcelas vincendas.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL. HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DA SÚMULA 111/STJ.
+1. A questão trazida neste recurso se subsume ao disposto na Súmula 111/STJ, verbis: "Os honorários advocatícios, nas ações previdenciárias, não incidem sobre as prestações vencidas após a sentença."
+2. Assim, são devidos honorários advocatícios sobre o valor da condenação, considerando se, para fins de cálculo dessa verba, apenas as parcelas vencidas até a prolação da decisão que reconheceu o direito do segurado, excluindo-se as vincendas.
+3. Agravo regimental provido. (AgRg no AREsp 271.963/AL, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 13/05/2014, DJe 19/05/2014, grifos acrescidos).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. APOSENTADORIA RURAL POR IDADE. HONORÁRIOS ADVOCATÍCIOS. TERMO FINAL PARA APURAÇÃO DA BASE DE CÁLCULO. OBSERVÂNCIA DA SÚMULA 111/STJ. AGRAVO NÃO PROVIDO.
+1. Nos termos da Súmula n. 111 do Superior Tribunal de Justiça, o marco final da verba honorária deve ser o decisum no qual o direito do segurado foi reconhecido, que no caso corresponde ao acórdão proferido pelo Tribunal a quo.
+2. No caso em tela, o direito somente foi reconhecido com a prolação da decisão ora agravada, razão pela qual o marco final da verba honorária se deu com a decisão que ora se questiona, nos termos da Súmula 111/STJ.
+3. Agravo regimental não provido. (AgRg no REsp 1557782/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 17/12/2015, DJe 18/12/2015, grifos acrescidos).
+No caso concreto, o Tribunal de origem solveu a controvérsia em conformidade com a jurisprudência mencionada, porquanto fixou a verba honorária até a data da prolação da sentença, ou seja, quando o direito do segurado à revisão de seu benefício foireconhecido.
+Dessa forma, incide o óbice da Súmula 83 do STJ, segundo a qual "não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida", cabível mesmo quando o recurso especial é interposto com base na alínea "a" do permissivo constitucional.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se e intimem-se
