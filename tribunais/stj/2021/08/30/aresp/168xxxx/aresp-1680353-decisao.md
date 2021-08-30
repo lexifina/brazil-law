@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de agravo interposto porMÁRIO DE PINHO COSTA e ANA MARIA MESQUITA DE PINHOcontra decisão que não admitiu recurso especial. O apelo nobre, fundamentado naalínea"a"do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado:
+"AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DESENTENÇA. NULIDADE. CERTIDÕES. INEXISTENTE. RECURSO CONHECIDO E NÃOPROVIDO. DECISÃO MANTIDA.
+1. As certidões impugnadas tratam-se respectivamente de certidão de inteiro teor e certidão de objeto e pé, também denominada certidão de fatos ou esclarecimentos, que correspondem a documentos expedidos pelo cartório judicial com vistas a informar o decorrer dos acontecimentos processuais sem conteúdo decisório.
+2. No caso dos autos, ambas as certidões cumpriram sua finalidade transcrevendo os atos decisórios ocorridos no transcurso do processo até a data da expedição da sua expedição, inexistindo qualquer omissão ou nulidade.
+3. Recurso conhecido e não provido. Decisão mantida"(e-STJ fl. 1164).
+Nas razões do especial (e-STJ fls. 1194/1217), os recorrentes apontam violação dos artigos 489, 495 e 1.022 do Código de Processo Civil de 2015.
+Alegam que o acórdão é omisso em relação a questões relevantes para o deslinde da causa.
+Sustentam que
+"não se pode conferir visos de juridicidade à apreensão externada no v. acórdão de que "verifica-se que ambas as certidões cumpriram sua finalidade transcrevendo os atos decisórios ocorridos no transcurso do processo até a data da expedição da sua expedição", posto que, e são os elementos dos autos que o demonstram, de forma inconteste, que da inadequada VALORAÇÃO da prova constitutiva do direito vindicado -Certidão de 11.12.2017, ID 8508725, fls. 24 -, conquanto afirmado pelo aresto que "Quanto à certidão de objeto de pé da fl. 823 nota-se que foi descrito o objeto e estágio do processo da sua expedição sem qualquer congruência nas omissões apontadas", dela não se colhe, como documento de informação dos atos e termos do processo nº 2003011013578-0, de dado indispensável para a instituição da HIPOTECA JUDICIAL, representado por qualquer condenação pagamento consistente em dinheiro, na exata compreensão dos ditames do art. 495, caput, do CPC".
+Apresentadas as contrarrazões, o recurso não foi admitido na origem. Daí o presente agravo, o qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A pretensão recursal não merece ser acolhida.
+Primeiramente, conforme exposto no artigo 489 do Código de Processo Civil de 2015, não se considera fundamentada a decisão que não enfrentar todos os argumentos deduzidos no processo.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ.SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS.ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 04/10/2016, DJe 13/10/2016 - grifou-se).
+Quanto ao artigo 1.022 do CPC/2015, registra-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+A propósito:
+"PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 03/STJ. SERVIDOR PÚBLICO FEDERAL. VIOLAÇÃO DOS ARTIGOS 489 E 1.022 DO CPC/2015. INOCORRÊNCIA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. ANÁLISE. IMPOSSIBILIDADE. INOVAÇÃO EM SEDE DE AGRAVO INTERNO. IMPOSSIBILIDADE. REENQUADRAMENTO FUNCIONAL. PRESCRIÇÃO DO FUNDO DE DIREITO. ATO CONCRETO. ACÓRDÃO RECORRIDO EM SINTONIA COM A JURISPRUDÊNCIA DO STJ. CONTROVÉRSIA QUE EXIGE ANÁLISE DE PORTARIA. MATÉRIA INSUSCETÍVEL DE APRECIAÇÃO EM RECURSO ESPECIAL. HONORÁRIOS SUCUMBENCIAIS. TITULARIDADE DO ADVOGADO PÚBLICO. LEI 13.327/2016. AGRAVO INTERNO NÃO PROVIDO.
+1. Inexiste violação aos artigos 489 e 1.022 do CPC/2015, quando não se vislumbra omissão, obscuridade ou contradição no acórdão recorrido capaz de torná-lo nulo, especialmente se o Tribunal a quo apreciou a demanda de forma clara e precisa.
+2. É vedado, em sede de agravo interno, ampliar-se o objeto do recurso especial, aduzindo-se questões novas, não suscitadas no momento oportuno, em virtude da ocorrência da preclusão consumativa.
+3. A prescrição da pretensão, por ser de reenquadramento funcional, atinge o próprio fundo de direito e está em sintonia com a jurisprudência firmada no âmbito deste e. STJ.
+4. A via especial é inadequada para análise de Portarias, Resoluções, Regimentos, ou qualquer outro tipo de norma que não se enquadre no conceito de Lei Federal.
+5. Os honorários advocatícios de sucumbência das causas em que forem parte a União, as autarquias e as fundações públicas federais pertencem ao advogado público.
+6. Agravo interno não provido" (AgInt no AREsp 801.104/DF, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 4/10/2016, DJe 13/10/2016 - grifou-se).
+Ademais, o tribunal de origem manteve a decisão que indeferiu o pedido declaração de nulidade das certidões questionadas,com base nos seguintes fundamentos:
+"Inicialmente cumpre esclarecer que as certidões impugnadas tratam-se respectivamente de certidão de inteiro teor e certidão de objeto e pé, também denominada certidão de fatos ou esclarecimentos, que correspondem a documentos expedidos pelo cartório judicial com vistas a informar o decorrer dos acontecimentos processuais sem conteúdo decisório. Vejamos: (..)
+(..) Em análise dos autos, verifica-se que ambas as certidões cumpriram sua finalidade transcrevendo os atos decisórios ocorridos no transcurso do processo até a data da expedição da sua expedição.
+Além disso, não restou demonstrado ato decisório que teria faltado naqueles documentos assim como a não veracidade de qualquer informação contida, o que justificaria a necessidade de complementação ou retificação das certidões.
+Quanto à certidão de objeto de pé da fl. 823 nota-se que foi descrito o objeto e estágio do processo da sua expedição sem qualquer congruência nas omissões apontadas uma vez que como muito bem pontuou o juízo de origem "foi transcrito na referida certidão expressamente que por meio da decisão proferida em 31/08/2017 (fl.775) os exequentes foram intimados "a apresentarem planilha atualizada de seu crédito, devendo ser feita a devida compensação com os valores apurados em liquidação de sentença nos autos nº 108714-8/10", bem como que os exequentes interpuseram agravo de instrumento em face da referida decisão".
+Imperioso ressaltar ainda que o Código de Processo Civil, em seu artigo 1.022, prevê a interposição de Embargos de Declaração para "suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento", contudo os agravantes não se utilizaram dessa via recursal oportunamente.
+Ademais, nota-se que o intuito do reconhecimento de nulidades nas certidões teria como finalidade "cassar o indigitado registro da hipoteca judicial", requerimento que ainda não analisado pelo juízo de origem que apenas intimou à executada, ora apelada, para manifestar-se sobre ele.
+Assim, inocorrente omissão nas certidões questionadas não restou configurada a probabilidade do direito dos agravantes, logo, ausente um dos requisitos legais para a concessão do efeito suspensivo ao recurso inadmissível a concessão da tutela de urgência.
+Nesse sentido: (..)" (e-STJ fls. 1167/1168).
+Nesse contexto, a modificação do entendimento adotado pelo órgão colegiado demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, a teor do enunciado daSúmulanº7/STJ.
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e negar-lhe provimento.
+Publique-se.
+Intimem-se.
