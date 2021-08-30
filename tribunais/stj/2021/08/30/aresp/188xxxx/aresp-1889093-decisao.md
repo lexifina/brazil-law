@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de Agravo de decisão que inadmitiu Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão cuja ementa é a seguinte:
+PROCESSUAL CIVIL. SENTENÇA ULTRA PETITA.ATRIBUIÇÃO DE EFEITO SUSPENSIVO AORECURSO. IMPOSSIBILIDADE. TUTELA ANTECIPADA. PREVIDENCIÁRIO. ATIVIDADE ESPECIAL. AGENTES QUÍMICOS. CONVERSÃO DA APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO EM APOSENTADORIA ESPECIAL. CORREÇÃO MONETÁRIA. HONORÁRIOS RECURSAIS.
+I- Caracterizada a hipótese de julgado ultra petita, deve o Juízo ad quemrestringir a sentença aos limites do pedido, por força dos arts. 141, 282 e 492 do CPC/2015.
+II- (..)
+III- Deve ser mantida a antecipação dos efeitos da tutela, tendo em vista a probabilidade do direito pleiteado e o perigo de dano.
+IV- No que se refere ao reconhecimento da atividade especial, a jurisprudência é pacífica no sentido de que deve ser aplicada a lei vigente à época em que exercido o trabalho, à luz do princípio tempus regit actum.
+V- Em se tratando de agentes químicos, impende salientar que a constatação dos mesmos deve ser realizada mediante avalição qualitativa e não quantitativa, bastando a exposição do segurado aos referidos agentes para configurar a especialidade do labor.
+VI- A documentação apresentada permite o reconhecimento da atividade especial dos períodos pleiteados.
+VII- Com relação à aposentadoria especial, houve o cumprimento dos requisitos previstos no art. 57 da Lei nº 8.213/91, motivo pelo qual a parte autora faz jus à conversão da aposentadoria por tempo de contribuição em aposentadoria especial.
+VIII- Com relação aos índices de atualização monetária, deve ser observado o julgamento proferido pelo C. Supremo Tribunal Federal na Repercussão Geral no Recurso Extraordinário nº 870.947.
+IX- Não merece prosperar o pedido formulado pela parte autora de majoração dos honorários advocatícios recursais (art. 85, §11, do CPC/15), tendo em vista que a apelação da autarquia foi parcialmente provida, não caracterizando recurso meramente protelatório, sendo que a matéria recorrida encontra-se, a propósito, pendente de análise no âmbito do C. Supremo Tribunal Federal, conforme Repercussão Geral reconhecida no Recurso Extraordinário nº 870.947.
+X- Sentença que se restringe aos limites do pedido. Matéria preliminar rejeitadaex officio. No mérito, Apelação do INSS parcialmente provida.
+Os Embargos de Declaração foram desprovidos.
+O agravante, nas razões do Recurso Especial, sustenta que ocorreu violação dos arts. 11, 489e 1022, I e II, do CPC/2015 e dos arts. 57, § 6º, 58, § 2º, e 125 da Lei 8.213/1991. Defende, em suma: a) que houve negativa de prestação jurisdicional; e b) "que a contagem especial do período por exposição à agente químico, mediante utilização de EPI EFICAZ após 12/1998, viola a prévia fonte de custeio, prevista no art. 195, § 5º, da CF e artigo 125, da Lei 8213/91." (fl. 456, e-STJ).
+Contrarrazões apresentadas às fls. 484-496, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 5 de agosto de 2021.
+Verifico que a matéria versada no Apelo foi submetida a julgamento sob o rito dos recursos repetitivos (REsp 1.828.606/RS, Rel. Min. Herman Benjamin, DJe 7.5.2012), que cuida do Tema 1.090: "1) se para provar a eficácia ou ineficácia do EPI (Equipamento de Proteção Individual) para a neutralização dos agentes nocivos à saúde e integridade física do trabalhador, para fins de reconhecimento de tempo especial, basta o que consta no PPP (Perfil Profissiográfico Previdenciário) ou se a comprovação pode ser por outros meios probatórios e, nessa última circunstância, se a prova pericial é obrigatória; 2) se é possível impor rito judicial instrutório rígido e abstrato para apuração da ineficácia do EPI, como fixado pelo Tribunal de origem, ou se o rito deve ser orientado conforme os elementos de cada contexto e os mecanismos processuais disponíveis na legislação adjetiva; 3) se a Corte Regional ampliou o tema delimitado na admissão do IRDR e, se positivo, se é legalmente praticável a ampliação; 4) se é cabível fixar de forma vinculativa, em julgamento de casos repetitivos, rol taxativo de situações de ineficácia do EPI e, sendo factível, examinar a viabilidade jurídica de cada hipótese considerada pelo Tribunal de origem (enquadramento por categoria profissional, ruído, agentes biológicos, agentes cancerígenos e periculosidade); 5) se é admissível inverter, inclusive genericamente, o ônus da prova para que o INSS demonstre ausência de dúvida sobre a eficácia do EPI atestada no PPP."
+Em tal circunstância, deve ser prestigiado o escopo perseguido na legislação processual (Lei 11.672/2008), isto é, a criação de mecanismo que oportunize às instâncias de origem o juízo de retratação na forma dos arts. 543-C, § 7º, e 543-B, § 3º, do CPC; e dos arts. 1.040 e seguintes do CPC/2015, conforme o caso.
+Pelo exposto, determino a devolução dos autos ao Tribunal de origem, com a devida baixa, para que, em observância aos arts. 1.040 e seguintes do CPC/2015 e após a publicação do acórdão do respectivo recurso excepcional representativo da controvérsia:
+a) denegue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pelos Tribunais Superiores; ou
+b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema repetitivo.
+Publique-se.
+Intimem-se.
