@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-sede agravo regimental interposto por AMANDA PEREIRA BASTO DA SILVA contra decisão monocrática da lavra do Ministro Presidente HUMBERTO MARTINS que não conheceu do agravo, em razão da incidência da Súmula n. 182/STJ (e-STJ fls. 560/561).
+Em seu agravo regimental (e-STJ fls. 565/571), a parte recorrente alega a não incidência da Súmula 182/STJ, uma vez que impugnou todos os fundamentos da decisão recorrida.
+Manifestação do Ministério Público Federal, às e-STJ fls. 582/586, pelo não provimento do recurso.
+Verifica-se que os argumentos aduzidos nas razões de agravo regimental revelam-se plausíveis, o que impõe a reconsideração da decisão agravada.
+Trata-se de agravo interposto em adversidade à decisão que inadmitiu recurso especial manejado contra acórdão do Tribunal de Justiça do Estado do Paraná, cuja ementa é a seguinte (e-STJ fls. 396):
+APELAÇÃO CRIME - USO DE DOCUMENTO FALSO - ARTIGO 304 DO CÓDIGO PENAL - CONDENAÇÃO - RECURSO - PLEITO ABSOLUTÓRIO - INSUFICIÊNCIA PROBATÓRIA - IMPOSSIBILIDADE - AUTORIA E MATERIALIDADE DEVIDAMENTE COMPROVADAS - DESCLASSIFICAÇÃO DA CONDUTA DE USO DE DOCUMENTO PÚBLICO FALSO PARA USO DE DOCUMENTO PARTICULAR FALSO - INVIABILIDADE - FALSIFICAÇÃO QUE BUSCOU CONFERIR PRESUNÇÃO DE VERACIDADE À ATO ADMINISTRATIVO - HONORÁRIOS ADVOCATÍCIOS - DEFERIMENTO - RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ fls. 1061/1074), fundado nas alíneas "a" e "c" do permissivo constitucional, alega a parte recorrente violação dos artigos 297 e 298 do Código Penal. Sustenta a desclassificação do delito de uso de documento público falso para o crime de uso de documento particular falso, uma vez que embora o atestado médico falsificado seja supostamente emitido por órgão público, é considerado um documento substancialmente privado, o que ensejaria a nova capitulação jurídica. Busca apresentar dissídio jurisprudencial.
+É o relatório.Decido.
+Preenchidos os requisitos formais e impugnado o fundamento da decisão agravada,conheçodo agravo.
+O recurso não merece acolhida.
+Busca-se a desclassificação da sua conduta para o crime de uso de documento particular falso, pois, em síntese, o atestado médico apresentado ao empregador possuiria natureza particular e não pública.
+O Tribunal de Justiça, ao concluir pela prática do crime deuso de documento público falso, consignou (e-STJ fls. 401):
+In casu, é fato notório que a apelante fez uso de um atestado médico falso advindo, em tese, da rede pública de saúde da cidade de Londrina (Unidade de Saúde Municipal Herbert de Souza), sendo imperioso destacar, ainda, que o referido documento foi emitido em papel timbrado da Secretaria Municipal de Saúde de Londrina (movimento nº 6.6).
+Logo, conforme bem destacado pela douta Procuradoria Geral de Justiça, "o empregado que apresenta à empresa empregadora atestado médico falso com o cabeçalho da rede pública de saúde busca conferir à falsificação a presunção de veracidade inerente aos atos administrativos, configurando o crime de uso de documento público falso e não o de uso de documento particular falso" .
+Assim sendo, não há que se falar na desclassificação da conduta da apelante de fazer uso de documento público falso para uso de documento particular falso, restando, por consequência, prejudicada a análise da suspensão condicional do processo.
+Ora, tal entendimento encontra-se no mesmo sentido da jurisprudência desta Corte Superior de Justiça de que aconduta de apresentar à empresa privada atestado médico com o timbre da rede pública de saúde, ainda que conste a identificação de médico não pertencente ao serviço público, configura o delito de uso de documento público falso(REsp 1757386/DF, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 07/05/2019, DJe 14/05/2019).
+Nessa linha, o seguinte julgado:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CRIMES CONTRA A FÉ PÚBLICA.PLEITO DE DESCLASSIFICAÇÃO. IMPOSSIBILIDADE. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCOMPATÍVEL COM A VIA MANDAMENTAL DO WRIT. NO MAIS, NÃO ENFRENTAMENTO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO DESPROVIDO.
+ ..
+IV - Ainda, no que tange à situação específica dos autos, destaco que o entendimento desta eg. Corte Superior de Justiça, é no sentido de que :"A conduta de apresentar à empresa privada atestado médico com o timbre da rede pública de saúde, ainda que conste a identificação de médico não pertencente ao serviço público, configura o delito de uso de documento público falso" (REsp n.1.757.386/DF, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 14/05/2019).
+ ..
+Agravo regimental desprovido.(AgRg no HC 628.557/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 23/02/2021, DJe 01/03/2021)
+Assim, o atestado médico falso advindo, em tese, da rede pública de saúde da cidade de Londrina (Unidade de Saúde Municipal Herbert de Souza),emitido, inclusive,em papel timbrado da Secretaria Municipal de Saúde de Londrina, é um documento público falso, não podendose falar na desclassificação da conduta da envolvida de fazer uso de documento público falso para uso de documento particular falso.
+Ante o exposto,reconsideroa decisão de e-STJ fls. 560/561e,com fundamento no art. 932, inciso VIII, do CPC, c/c o art. 253, parágrafo único, inciso II, alínea "b", do RISTJ e na Súmula n.568/STJ,conheçodo agravo paranegar provimentoao recurso especial.
+Intimem-se.
