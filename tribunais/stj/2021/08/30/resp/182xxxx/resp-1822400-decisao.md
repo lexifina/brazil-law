@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso especial interposto por GISELE CARDOSO MOYA e outro, com fundamento no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra oacórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"COMPROMISSO DE COMPRA E VENDA - Atraso na entrega da obra Não ocorrência - Prazo de tolerância Validade - Contagem desde a assinatura do contrato de financiamento com a CEF, uma vez que outro não foi estabelecido pelas partes - Imóvel entregue antes do prazo previsto - Não cabimento de indenização por lucros cessantes e dano moral - Legalidade da correção monetária pelo INCC antes do prazo previsto para a entrega da obra Recurso das rés provido e apelação dos autores desprovida" (fl. 676e-STJ).
+Nas suas razões, os recorrentes sustentam, além da divergência jurisprudencial, violação dos artigos4º, 39, 47, 51 e927do Código de Defesa do Consumidor e423 do Código Civil
+Defendem que as cláusulas contratuais sejam interpretadas de modo mais favorável ao consumidor.
+Apontam a ilegalidade da cláusula "que estipula o prazo de entrega do imóvel para 18 meses após o financiamento" (fl. 718 e-STJ).
+Afirmamquenula a cláusula de tolerância de 180 (cento e oitenta) meses.
+Requerem a devolução dos juros de obra e a condenação da construtora àindenização aos autores pelos lucros cessantes e danos morais.
+Contrarrazões às fls. 876/906e-STJ.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelorecurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Com efeito, quanto à alegada abusividade da cláusula que vincula a data de entrega do imóvel à data do contrato de financiamento, o Tribunal de origem decidiu em desacordo com o entendimento consolidado por esta Corte Superior no julgamento do REsp 1.729.593/SP, de seguinte ementa:
+"RECURSO ESPECIAL CONTRA ACÓRDÃO PROFERIDO EM INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. ART. 1.036 DO CPC/2015 C/C O ART. 256-H DO RISTJ. PROCESSAMENTO SOB O RITO DOS RECURSOS ESPECIAIS REPETITIVOS. PROGRAMA MINHA CASA, MINHA VIDA. CRÉDITO ASSOCIATIVO. PROMESSA DE COMPRA E VENDA DE IMÓVEL EM CONSTRUÇÃO. CONTROVÉRSIAS ENVOLVENDO OS EFEITOS DO ATRASO NA ENTREGA DO BEM. RECURSOS DESPROVIDOS.
+1. As teses a serem firmadas, para efeito do art. 1.036 do CPC/2015, em contrato de promessa de compra e venda de imóvel em construção, no âmbito do Programa Minha Casa, Minha Vida, para os beneficiários das faixas de renda 1,5, 2 e 3, são as seguintes:
+1.1 Na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância.
+1.2 No caso de descumprimento do prazo para a entrega do imóvel, incluído o período de tolerância, o prejuízo do comprador é presumido, consistente na injusta privação do uso do bem, a ensejar o pagamento de indenização, na forma de aluguel mensal, com base no valor locatício de imóvel assemelhado, com termo final na data da disponibilização da posse direta ao adquirente da unidade autônoma.
+1.3 É ilícito cobrar do adquirente juros de obra ou outro encargo equivalente, após o prazo ajustado no contrato para a entrega das chaves da unidade autônoma, incluído o período de tolerância.
+1.4 O descumprimento do prazo de entrega do imóvel, computado o período de tolerância, faz cessar a incidência de correção monetária sobre o saldo devedor com base em indexador setorial, que reflete o custo da construção civil, o qual deverá ser substituído pelo IPCA, salvo quando este último for mais gravoso ao consumidor.
+2. Recursos especiais desprovidos" (REsp 1.729.593/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Segunda Seção, julgado em 25/9/2019, DJe 27/9/2019 - grifou-se).
+No mesmo sentido:
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO. NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA POR DANOS MORAIS E MATERIAIS. ALTERAÇÃO DA DATA DE ENTREGA DA OBRA POR OCASIÃO DA ASSINATURA DO CONTRATO DE FINANCIAMENTO IMOBILIÁRIO.IMPOSSIBILIDADE. RECURSO REPRESENTATIVO DA CONTROVÉRSIA. RETORNO DOS AUTOS PARA NOVO JULGAMENTO. DECISÃO MANTIDA.
+1. As disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Admitem-se como implicitamente prequestionados os dispositivos legais cujo conteúdo normativo tenha sido efetivamente examinado pelo acórdão recorrido, mesmo sem menção expressa aos artigos de lei correspondentes.
+3. A Segunda Seção, no julgamento do recurso especial repetitivo REsp nº 1.729.593/SP, fixou a tese de que, na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância.
+4. Referido entendimento pode se aplicado extensivamente para impedir que referido prazo seja modificado por iniciativa dos fornecedores quando da celebração do contrato de financiamento imobiliário. Precedentes.
+5. Agravo interno não provido" (AgInt no AgInt no AREsp 1.581.066/RS, Rel. Ministro MOURA RIBEIRO, Terceira Turma, julgado em 24/8/2020, DJe 27/8/2020 -grifou-se).
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ATRASO NA ENTREGA DO IMÓVEL. REPACTUAÇÃO DO PRAZO. IMPOSSIBILIDADE DE VINCULAÇÃO DO PRAZO DE ENTREGA DA OBRA À CONCESSÃO DO FINANCIAMENTO. RECURSO REPETITIVO. TEMA 996. REQUISITOS DE ADMISSIBILIDADE PREENCHIDOS. DECISÃO MANTIDA.
+1. "Na aquisição de unidades autônomas em construção, o contrato deverá estabelecer, de forma clara, expressa e inteligível, o prazo certo para a entrega do imóvel, o qual não poderá estar vinculado à concessão do financiamento, ou a nenhum outro negócio jurídico, exceto o acréscimo do prazo de tolerância"(Tema 996).
+2. O recurso especial preenche os requisitos de admissibilidade, tendo sido apontados os dispositivos legais violados e demonstrada a divergência jurisprudencial, prescindindo seu acolhimento da interpretação de cláusulas contratuais e da análise do conjunto probatório.
+3. Agravo interno a que se nega provimento" (AgInt no AREsp 1.579.235/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, julgado em 24/8/2020, DJe 31/8/2020 -grifou-se).
+Ante o exposto, dou provimento ao recurso especial a fim dedeterminar o retorno dos autos ao Tribunal de origem para que, considerando a abusividade da cláusula que fixa a data da entrega do imóvel em 18(dezoito) meses após o contrato de financiamento (fl. 679e-STJ), julgue as demais questões referentes aos encargos advindos do atraso na entrega do imóvel.
+Publique-se.
+Intimem-se.
