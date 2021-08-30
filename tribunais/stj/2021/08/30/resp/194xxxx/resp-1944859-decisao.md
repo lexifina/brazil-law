@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de Embargos de Declaração interpostos contra decisão monocrática que deu provimento ao Recurso Especial da ora Embargada para declarar a legitimidade passiva da Embargante e restabelecer o mérito da sentença na íntegra (fls. 157-160, e-STJ).
+A embargante requer a reforma da decisão anterior, alegando contradição quanto à majoração dos honorários sucumbenciais(fls. 162-167, e-STJ).
+Contrarrazões às fls. 170-174, e-STJ.
+É o relatório.
+Decido.
+Os autos retornaram a este Gabinete em 18.8.2021.
+Os Embargos de Declaração não procedem.
+Todo o processo tramitou sob a égide do CPC/2015, razão pela qual se aplica o precedente a seguir:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/1973. ENUNCIADOS ADMINISTRATIVOS 2 E 3. PROCESSUAL CIVIL. FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. DIREITO INTERTEMPORAL: ART. 20 DO CPC/1973 VS. ART. 85 DO CPC/2015. DEFINIÇÃO DA LEI APLICÁVEL.
+1. Cuida-se de Embargos de Declaração contra o acórdão que negou provimento ao Recurso Especial da autora e, por consequência, deixou de fixar os honorários advocatícios recursais na forma do art. 85, §§ 11, do CPC/2015.
+2. O Superior Tribunal de Justiça tem farta jurisprudência no sentido de que é indiferente a data do ajuizamento da ação e a do julgamento dos recursos correspondentes, pois a lei aplicável para a fíxação inicial da verba honorária é aquela vigente na data da sentença/acórdão que a impõe. Precedentes: REsp 542.056/SP, Primeira Turma, Rel. Min. Luiz Fux, julgado em 19.2.2004; REsp 816.84S/RJ, Primeira Turma, Rel. Min. Teori Albino Zavascki, DJ de 13 de março de 2009; REsp 981.196/BA, Rel. Ministro Humberto Martins, Segunda Turma, DJ de 2 de dezembro de 2008; AgRg no REsp 910.710/BA, Segunda Turma, Rel. Min. Castro Meira, julgado em 16.9.2008; Aglnt nos EDcl no REsp 1.357.561/MG, Terceira Turma, Rel. Min. Marco Aurélio Bellizze, julgado em 44.2017, DJe 19.4.2017; REsp 1.465.535/SP, Quarta Turma, Rel. Min. Luis Felipe Salomão, julgado em 21.6.2016.
+3. A essa jurisprudência há que se adicionar o entendimento do STJ em relação à vigência do novo Código de Processo Civil (CPC/2015) que estabeleceu como novidade os honorários sucumbenciais recursais. Sendo assim, para os recursos interpostos de decisões/acórdãos publicados já na vigência do CPC/2015 (em 18.03.2016) é cabível a fixação de honorários sucumbenciais recursais, na forma do art. 85. §11, do CPC/2015: Enunciado Administrativo 7/STJ - "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, §11, do NCPC"
+4. Sendo assim, são possíveis, em princípio, quatro situações:
+a) o processo que tenha sentença, decisão em segundo grau e decisão em instância especial todos na vigência do CPC/1973: a.l) aplica-se integralmente o regime previsto no art. 20. do CPC/1973 para todo o processo, não havendo que se falar em honorários sucumbenciais recursais;
+b) o processo que tenha sentença e decisão em segundo grau na vigência do CPC/1973 e decisão em instância especial na vigência do CPC/2015; b.l) aplica-se o regime previsto no art. 20. do CPC/1973 para a fixação dos honorários na sentença; b.2) não há honorários sucumbenciais recursais no julgamento do recurso da sentença (v.g. no julgamento da Apelação ou do Agravo); b.3) não há honorários sucumbenciais recursais no julgamento do recurso da decisão de segundo grau (v.g. no julgamento do Recurso Especial);
+c) que o processo tenha sentença na vigência do CPC/1973 e acórdão em segundo grau e acórdão em instância especial na vigência do CPC/2015: c.l) aplica-se o regime previsto no art. 20 do CPC/1973 para a fixação dos honorários na sentença, c.2) não há honorários sucumbenciais recursais no julgamento do recurso da sentença (v.g. no julgamento da Apelação ou do Agravo), c.3) há honorários sucumbenciais recursais no julgamento do recurso da decisão de segundo grau (v.g. no julgamento do Recurso Especial);
+d)que o processo tenha sentença, acórdão em segundo grau e acórdão em instância especial na vigência do CPC/2015:d.l) aplica-se o regime previsto no art. 85. do CPC/2015 para a fixação dos honorários na sentença, d.2) há honorários sucumbenciais recursais no julgamento do recurso da sentença (v.g. no julgamento da Apelação ou do Agravo), d.3)há honorários sucumbenciais recursais no julgamento do recurso da decisão de segundo grau (v.g. no julgamento do Recurso Especial). Dito de outra forma, ocorre a aplicação integral do CPC/2015.
+(..)7. Embargos de Declaração rejeitados.(EDcl no REsp 1.684.733/RJ, Rel. Min. HERMAN BENJAMIN, DJe 19.12.2017)
+A tese de descabimento de honorários na sentença não foi questionada pela parte no momento adequado; na verdade, vê-se que o Tribunal paulista, ao reverter a sentença primeira em seu favor, arbitrou-lhe verba invertendo a sucumbência.
+Preclusa, portanto, a reivindicação.
+Ademais, trata-se aqui de Recurso Especial, e não de Exceção de pré-executividade, não se subsumindo a este caso o entendimento do STJalegado.
+Inexistente, portanto, qualquer vício previsto no art. 1.022 do CPC/2015, a tentativa de reformar o mérito recursal não vinga.
+Diante do exposto,rejeitos os Embargos de Declaração.
+Por derradeiro, convém advertir que ajuizar recurso protelatório ensejará reconhecimento de litigância de má-fé e aplicação das multas previstas no art. 81 e no art. 1.026, §§ 2º e 3º, do CPC/2015.
+Publique-se.
+Intimem-se.
