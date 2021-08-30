@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a" e "c", da CF/1988) interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - PEDIDO DE DESBLOQUEIO DE VALORES PENHORADOS EM CONTA BANCÁRIA - ALEGAÇÃO DE QUE SE TRATA DE CONTA POUPANÇA - AUSÊNCIA DE COMPROVAÇÃO DE QUE A CONTA BLOQUEADA SERIA DESTINADA EXCLUSIVAMENTE PARA RESERVA FINANCEIRA - CONTA POUPANÇA COM VÁRIAS MOVIMENTAÇÕES ATÍPICAS - EVIDÊNCIA DE CONTA DE NATUREZA DÚPLICE - DESCARACTERIZAÇÃO DA FINALIDADE - POSSIBILIDADE DE PENHORA DOS VALORES ENCONTRADOS - PRECEDENTES DO STJ - DECISÃO MANTIDA - RECURSO CONHECIDO E IMPROVIDO.
+1 - Observa-se que a recorrente não logrou êxito em provar o caráter impenhorável do valor anteriormente constrito, pois não obstante a informação juntada aos autos de que a conta é simultaneamente corrente e poupança, não é possível vislumbrar as prerrogativas que constituem a finalidade da conta poupança, ou seja, não restou caracterizado pelos extratos juntados, uma movimentação que se espera de uma poupança, portanto, afastado o caráter de impenhorabilidade no presente caso.
+2 - Sobreleva-se que os extratos acostados aos autos pela própria executada/agravante no evento 01 - (ANEXO 13) e evento 35 - (EXTRATO BANC10), dos autos originários, evidenciam que a conta poupança em questão possui natureza dúplice, sendo, na verdade, minimamente utilizada para reserva financeira, vez que, não verificada qualquer manutenção de valores.
+3 - Não obstante a situação apresentada, a jurisprudência deste E. Tribunal de Justiça e do Superior Tribunal de Justiça, observando a utilização da conta poupança como meio de refúgio para caracterização da impenhorabilidade estabelecida pela lei, assentou entendimento que, existentes diversas movimentações financeiras, restar-se-á descaracterizada a sua natureza jurídica de "poupança", podendo os valores ali encontrados ser penhorados.
+4 - Destarte, consigna-se que a citada regra da impenhorabilidade de quantia depositada em caderneta de poupança pode ser mitigada quando se tratar de conta poupança movimentada como se conta corrente fosse, conforme se evidencia haver ocorrido no caso em apreço.
+5 - Recurso de Agravo de Instrumento conhecido e improvido para manter incólume a decisão objurgada por seus próprios e jurídicos fundamentos.
+A parte recorrente alega divergência jurisprudencial e violação do art. 833, X, do CPC/2015.
+Contrarrazões às fls. 132-141, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 26.7.2021.
+O acórdão recorrido consignou:
+No caso em exame, verifica-se que a Agravante sustenta a sua pretensão, no argumento de que poderá sofrer grave lesão caso não seja reformada a decisão proferida pelo MM Juiz Singular que determinou o bloqueio de sua conta bancária, uma vez que se trata de uma conta poupança, sendo, portanto, impenhorável.
+Com efeito, observa-se que a decisão hostilizada foi lançada nos seguintes termos:
+(..)
+Da análise do extrato bancário juntado pela parte executada no evento 35, EXTRATO_BANC10, verifica-se que o montante constrito via Bacenjud, qual seja o valor de R$ 7.547,33 (sete mil quinhentos e quarenta e sete reais e trinta e três centavos) foi penhorado em sua conta poupança perante a Caixa Econômica Federal.
+Ocorre que, da análise do supracitado extrato bancário é possível verificar que a conta poupança nº 013.00052139-0, de titularidade da parte executada, foi objeto de intensa movimentação financeira, com diversos saques e compras, o que descaracteriza o objetivo primordial da poupança, que é o de acumular valores, e a assemelha a uma conta corrente.
+Nossa jurisprudência tem se firmado no sentido de que, em que pese o art. 833, X do CPC estipular que é impenhorável "a quantia depositada em caderneta de poupança, até o limite de 40 (quarenta) salários-mínimos", a utilização da mesma como se conta corrente fosse, descaracteriza sua natureza impenhorável. Vejamos:
+(..)
+Assim, verificando a descaracterização da conta poupança no caso em apreço, forçoso concluir pelo indeferimento do pedido formulado.
+ISTO POSTO, conforme os fundamentos acima expostos, INDEFIRO O PEDIDO DE DESBLOQUEIO DE VALORES CONSTRITOS VIA BACENJUD, formulado pela parte executada no evento 23, ante a inconteste descaracterização da conta poupança, bem como CONVERTO a indisponibilidade em penhora, nos termos do art. 854, § 5º do CPC, o que faço para determinar a transferência do valor constrito para um conta judicial vinculada a este feito.
+INTIMO a parte executada para que, caso queira, oponha embargos no prazo de 30 (trinta) dias, caso em que deverá promover o reforço da garantia.
+Cumpra-se."
+Em que pesem os argumentos suscitados na inicial, coaduno com o entendimento do Douto Magistrado "a quo" de que a parte executada não logrou êxito em provar o caráter impenhorável do valor anteriormente constrito.
+Ademais, não obstante a informação juntada aos autos de que a conta é destinada à poupança, não é possível vislumbrar as prerrogativas que constituem a finalidade da conta poupança, ou seja, não restou caracterizado pelos extratos juntados, uma movimentação que se espera de uma poupança, portanto, afastado o caráter de impenhorabilidade no presente caso.Observa-se ainda que, a Jurisprudência deste E. Tribunal de Justiça e do Superior Tribunal de Justiça, observando a utilização da conta poupança como meio de refúgio para caracterização da impenhorabilidade estabelecida pela lei, assentou entendimento que, existentes diversas movimentações financeiras, restar-se-á descaracterizada a sua natureza jurídica de "poupança", podendo os valores ali encontrados ser penhorados.
+Neste aspecto, insta assinalar que os extratos acostados aos autos pela própria executada/agravante no evento 01 - (ANEXO 13) e evento 35 - (EXTRATO BANC10), dos autos originários, evidenciam que a conta poupança em questão possui natureza dúplice, sendo, na verdade, minimamente utilizada para reserva financeira, vez que, não verificada qualquer manutenção de valores.
+Destarte, consigna-se que a citada regra da impenhorabilidade de quantia depositada em caderneta de poupança pode ser mitigada quando se tratar de conta poupança movimentada como se conta corrente fosse, o que, evidencio ter ocorrido in casu.
+(..)
+Assim sendo, diante dos elementos trazidos aos autos e por não vislumbrar qualquer ilegalidade na decisão proferida pelo Douto Magistrado Singular julgo por bem, mantê-la incólume, em respeito às circunstâncias próprias do caso concreto, que demandam análise acurada, para uma prestação jurisdicional permeada da necessária segurança.
+Diante do exposto, voto no sentido de conhecer e NEGAR PROVIMENTO ao presente agravo de instrumento para manter hígida a decisão fustigada pelos seus próprios e jurídicos fundamentos. (fls. 81-85, e-STJ, grifos acrescidos)
+Rever a compreensão do acórdão recorrido - que afastou a impenhorabilidade por concluir que a conta poupança é movimentada como se conta-corrente fosse - exige incursão no contexto fático-probatório dos autos, o que é vedado em Recurso Especial, conforme Súmula 7 desta Corte: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+A aplicação da referida súmula impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual deu solução à causa a Corte de origem.
+Por tudo isso, não conheçodo Recurso Especial.
+Publique-se.
+Intimem-se.
