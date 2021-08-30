@@ -1,0 +1,28 @@
+Trata-se de agravo contra decisão por meio da qual foi negado seguimento ao recurso extraordinário interposto em desfavor de acórdão assim ementado:
+    “DIREITO PROCESSUAL CIVIL. CONSTITUCIONAL. TRIBUTÁRIO. LEGITIMIDADE. IMPOSTO DE RENDA. RETENÇÃO E RESTITUIÇÃO. SERVIDOR PÚBLICO DISTRITAL.
+    1. Em que pese a competência prevista no inc. III do art. 153 da CR, é legítimo o Distrito Federal para afigurar no polo passivo em ação que se busca cessação e restituição dos descontos em folha relativos ao Imposto de Renda, com base no inc. I do art. 157 da CR, cf. decidido no REsp 989.419, julgado na sistemática dos repetitivos em 2009.
+    2. É prescindível, para o reconhecimento de moléstia grave, para os fins do inc. XIV do art. 6º da Lei 7.713/88, laudo pericial oficial, quando presentes outros meios idôneos de prova, sobretudo quando não impugnados, cf. Súmula 598 do STJ.
+    3. A isenção de IR prevista no inc. XIV do art. 6º da Lei 7.713/88 incide apenas sobre os proventos de aposentadoria ou pensão, inviável sua extensão também para os valores recebidos pelo servidor em atividade, mormente pela vedação imposta pelo inc. II do art. 111 do CTN.
+    4. Recursos desprovidos” (pág. 1 do documento eletrônico 15).
+    Os embargos de declaração que se seguiram foram rejeitados (pág. 1 do documento eletrônico 19).
+    No RE, fundamentado no art. 102, III, a, da Constituição Federal, alegou-se, em suma, violação dos arts. 1°, III; 6°; e 196, da mesma Carta; bem como aos arts. 1°; 2°; e 12 do Pacto Internacional Sobre Direitos Econômicos, Sociais e Culturais.
+    A pretensão recursal não merece acolhida.
+    Com efeito, o Tribunal de origem decidiu a questão posta nos autos com fundamento na interpretação da legislação infraconstitucional aplicável à espécie (Lei 7.713/1988 e Código Tributário Nacional). Dessa forma, o exame da alegada ofensa ao texto constitucional envolve a reanálise da interpretação dada àquelas normas pelo Juízo a quo. A afronta à Constituição, se ocorrente, seria indireta. Incabível, portanto, o recurso extraordinário. Nesse sentido, destaco o julgamento do ARE 787.994-AgR/GO, de relatoria do Ministro Dias Toffoli, cuja ementa segue transcrita:
+    “Agravo regimental no recurso extraordinário com agravo. Tributário. Imposto de renda. Isenção. Deficiência visual. Servidor não aposentado. Necessidade de reexame da legislação infraconstitucional. Ofensa reflexa. Impossibilidade de atuação do judiciário como legislador positivo. Precedentes da Corte.
+    1. A suposta ofensa à Constituição somente poderia ser constatada a partir da análise e da reinterpretação da legislação infraconstitucional, o que torna oblíqua e reflexa eventual ofensa, a qual é insuscetível, portanto, de viabilizar o conhecimento do recurso extraordinário.
+    2. Impossibilidade de o Poder Judiciário atuar como legislador positivo para estabelecer isenções de tributos não previstas em lei.
+    3. Agravo regimental não provido”.
+    Ademais, em Sessão Virtual do Plenário, os Ministros desta Corte julgaram improcedente o pedido formulado na ADI 6.025/DF, da relatoria do Ministro Alexandre de Moraes, e declararam a constitucionalidade do art. 6º, XIV, da Lei 7.713/1988, com a redação da Lei 11.052/2004. Por oportuno, transcrevo a ementa:
+    “CONSTITUCIONAL E TRIBUTÁRIO. ISENÇÃO DE IMPOSTO DE RENDA SOBRE PROVENTOS DE APOSENTADORIA OU REFORMA. REQUISITOS LEGAIS CUMULATIVOS E RAZOÁVEIS. IMPOSSIBILIDADE DE AMPLIAÇÃO DA ISENÇÃO POR DECISÃO JUDICIAL. RESPEITO AOS PRINCÍPIOS DA SEPARAÇÃO DE PODERES E LEGALIDADE ESTRITA (ARTS. 2º E 150, § 6º, DA CONSTITUIÇÃO). CONSTITUCIONALIDADE DO ART. 6º DA LEI 7.713/1988. IMPROCEDÊNCIA.
+    1. A concessão de isenção tributária configura ato discricionário do ente federativo competente para a instituição do tributo e deve estrito respeito ao princípio da reserva legal (art. 150, § 6º, da Constituição Federal).
+    2. A legislação optou por critérios cumulativos absolutamente razoáveis à concessão do benefício tributário, quais sejam, inatividade e enfermidade grave, ainda que contraída após a aposentadoria ou reforma. Respeito à dignidade da pessoa humana (art. 1º, III, da Constituição Federal), aos valores sociais do trabalho (art. 1º, IV, da CF) e ao princípio da igualdade (art. 5º, caput, da CF).
+    3. Impossibilidade de atuação do Poder Judiciário como legislador positivo, ampliando a incidência da concessão de benefício tributário, de modo a incluir contribuintes não expressamente abrangidos pela legislação pertinente. Respeito à Separação de Poderes. Precedentes.
+    4. Os poderes de Estado devem atuar de maneira harmônica, privilegiando a cooperação e a lealdade institucional e afastando as práticas de guerrilhas institucionais, que acabam minando a coesão governamental e a confiança popular na condução dos negócios públicos pelos agentes políticos.
+    5. Ação Direta de Inconstitucionalidade julgada improcedente”.
+    A concessão de isenção tributária configura ato discricionário do ente federativo competente para a instituição do tributo e deve estrito respeito ao princípio da reserva legal, nos termos do art. 150, § 6°, da CF/88.
+    Assim, não compete ao Poder Judiciário atuar como legislador positivo, no sentido de ampliar a incidência da concessão da isenção de imposto de renda para servidores que, acometidos por moléstias profissionais graves, ainda encontram-se em atividade.
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de agosto de 2021.
+                Ministro Ricardo Lewandowski
+                            Relator
