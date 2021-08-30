@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por VAGETTI & WATANABE LTDA. - MICROEMPRESAe OUTRO, com fulcro no art. 105, inciso III, "a"e "c", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado:
+"PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. AÇÃO DE EXIGIR CONTAS. PRELIMINAR DE NÃO CONHECIMENTO. INSUBSISTÊNCIA. MÉRITO. ENCERRAMENTO DA PRIMEIRA FASE. DECISÃO INTERLOCUTÓRIA PARCIAL DE MÉRITO. FIXAÇÃO DE VERBAS HONORÁRIAS SUCUMBENCIAIS. INVIABILIDADE. DECISÃO MANTIDA.
+1. Nos termos do art. 550 e seguintes do CPC e conforme leciona a doutrina, na ação de exigir contas "não se está diante de dois processos distintos, tramitando simultaneamente nos mesmos autos. O processo, em verdade é único, embora dividido em duas fases distintas. Há, pois, o ajuizamento de uma única demanda, contendo um único mérito. A análise deste, porém é dividida em dois momentos: o primeiro, dedicado à verificação da existência do direito de exigir a prestação de contas, o segundo, dirigido à verificação das contas e do saldo eventualmente existente"(CÂMARA, Alexandre Freitas. Lições de Direito Processual Civil. São Paulo: Atlas, 21ª ed., 2014, p. 391).
+2. Conforme já definido pelo Colendo Superior Tribunal de Justiça no julgamento do REsp 1.746.337/RS (Rel. Ministra NANCY ANDRIGHI, Terceira Turma, DJe de 12/04/2019), a partir da vigência do CPC/2015, a decisão que encerra a primeira fase na ação de exigir contas ostenta natureza jurídica de decisão interlocutória parcial de mérito se julgar procedente a primeira fase da ação de exigir contas, razão pela qual recorrível por meio de agravo de instrumento nos termos do art. 1.015, inciso II do CPC. Precedentes. Recurso conhecido.
+3. O exame da pretensão relativa a fixação de honorários sucumbenciais e de custas processuais somente ocorrerá ao final da segunda fase do procedimento da ação de exigir contas, quando julgadas por sentença as contas apresentadas pela parte requerida, encerrando-se a atividade jurisdicional cognitiva. Precedentes TJDFT.
+4. Agravo de instrumento conhecido e, no mérito, não provido"(fl. 62, e-STJ).
+No recurso especial, osrecorrentes apontam, além de divergência jurisprudencial, violação do art. 85 do Código de Processo Civil de 2015, argumentando, em síntese, que,
+"(..)
+Com efeito, plenamente cabível, neste momento processual, a condenação da recorrida ao pagamento da sucumbência, incluindo custas, despesas processuais e honorários advocatícios. Isso porque, consoante já ressaltado, a decisão proferida tem natureza de decisão de mérito e entrega o provimento jurisdicional da primeira fase do procedimento, por isso, nada mais justo que contemplar, também, a fixação de honorários advocatícios em desfavor da parte vencida, qual seja, o banco recorrido, em cumprimento ao art. 85 do Código de Processo Civil"(fl. 85, e-STJ).
+Apresentadas contrarrazões (fls. 173/184, e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar.
+Verifica-se que a conclusão adotada pela Corte local não se encontra em harmonia com a jurisprudência do Superior Tribunal de Justiça, firmada no sentido do cabimento da fixação da verba honorária sucumbencial na decisão que encerra a primeira fase da ação de prestação de contas.
+A propósito:
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE PRESTAÇÃO DE CONTAS. PRIMEIRA FASE. CABIMENTO DE HONORÁRIOS ADVOCATÍCIOS. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O entendimento do Tribunal local diverge da orientação desta Corte Superior, de que "É cabível a fixação de verba honorária sucumbencial na decisão que encerra a primeira fase da ação de exigir contas (Súmula 83/STJ)" (AgInt no AREsp 1.425.481/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 28/09/2020, DJe de 1º/10/2020). Precedentes.
+2. Agravo interno a que se nega provimento" (AgInt no REsp 1.877.734/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 14/06/2021, DJe 1º/07/2021).
+"DIREITO PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE EXIGIR CONTAS. PRIMEIRA FASE. DECISÃO PARCIAL DE MÉRITO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO.
+1. Ação de exigir contas, tendo em vista descontos supostamente injustificados e desconhecidos efetuados na conta corrente da autora.
+2. Ação ajuizada em 09/05/2019. Recurso especial concluso ao gabinete em 05/08/2020. Julgamento: CPC/2015.
+3. O propósito recursal é definir se é cabível a fixação de verba honorária na primeira fase da ação de exigir contas.
+4. A ação de exigir contas ocorre em duas fases distintas e sucessivas - na primeira, discute-se sobre o dever de prestar contas; na segunda, declarado o dever de prestar contas, serão elas julgadas e apreciadas, se apresentadas.
+5. À luz do CPC/2015, o ato judicial que encerra a primeira fase da ação de exigir contas possuirá, a depender de seu conteúdo, diferentes naturezas jurídicas: se julgada procedente a primeira fase da ação de exigir contas, o ato judicial será decisão interlocutória com conteúdo de decisão parcial de mérito, impugnável por agravo de instrumento; se julgada improcedente a primeira fase da ação de exigir contas ou se extinto o processo sem a resolução de seu mérito, o ato judicial será sentença, impugnável por apelação.
+6. A despeito da alteração, pelo novo diploma processual civil, da natureza jurídica do provimento jurisdicional que encerra a primeira fase da ação de exigir contas quando há a procedência do pedido, não há razões para que seja alterada a forma da condenação ao pagamento das verbas da sucumbência antes admitida sob a vigência do anterior código, afinal, o conteúdo do pronunciamento jurisdicional permaneceu o mesmo.
+7. Com a procedência do pedido do autor (condenação à prestação das contas exigidas), o réu fica vencido na primeira fase da ação de exigir contas, devendo arcar com os honorários advocatícios como consequência do princípio da sucumbência.
+8. Recurso especial conhecido e provido" (REsp 1.874.603/DF, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 03/11/2020, DJe 19/11/2020).
+Ante o exposto, dou provimento ao recurso especial, para fixar os honorários advocatícios em favor dos recorrentes no valor de R$ 5.000,00 (cinco mil reais), em observância ao art. 85, § 8º, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
