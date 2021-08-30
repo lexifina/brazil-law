@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especial interposto peloMINISTÉRIO PÚBLICO DO ESTADO DE RONDÔNIA - MPE com fulcro no art. 105, inciso III, alínea"a", da Constituição Federal - CF, em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE RONDÔNIA- TJROno julgamento do Agravo de Execução Penal n. 0809821-11.2020.8.22.0000.
+Consta dos autos que o Juízo da Vara de Execuções Criminais deferiu o livramento condicional ao recorrido, não obstante o inadimplemento da pena de multa(fls. 162/163).
+O MPE interpôs agravo em execução, o qual foi desprovido, nos termos de acórdão que foi assim ementado:
+"Agravo em execução penal. Preliminar de intempestividade rejeitada. Preliminar de nulidade. Ausência de prévia manifestação do Ministério Público não verificado. Ausência de prejuízo. Preliminar afastada. Cobrança da pena de multa. Exigência de pagamento da pena de multa como condição para a concessão do livramento condicional. Impossibilidade. Ausência de previsão legal. Recurso não provido.
+Agravo conhecido porque tempestivo, já que, no caso de prazo que se finda em um sábado, considera-se prorrogado até o dia útil imediato, qual seja a segunda-feira, data do protocolo do presente recurso.
+Verificado que foi oportunizado ao órgão ministerial a sua manifestação acerca do pedido de livramento condicional - tendo este deixado de realizar por vontade própria -, bem como não demonstrado prejuízo, não há que se falar em nulidade da decisão recorrida por ausência de prévia manifestação do Ministério Público.
+O inadimplemento da pena de multa fixada cumulativamente à privativa de liberdade não tem o condão de, por si só, obstar a progressão de regime ou o livramento condicional."(fl. 245)
+Diante disso, o Ministério Público interpôs o presente recurso especial, no qual sustenta violação aosartigos 32, III, 49e 50, todos do Código Penal.
+Argumenta que não obstante aLei nº 9.268/1996 tenha dado nova redação ao art. 51 do CP, a essência de sanção criminal da multa permanece, razão pela qual seu inadimplemento injustificado obsta tanto a progressão de regime prisional quanto o livramento condicional.
+Assevera que, mesmo em casos em que a defesa é patrocinada pela Defensoria Pública, cabe a intimação a fim de que seja comprovadaa impossibilidade de pagara pena de multa, de forma integral ou parcelada.
+Requer o provimento do recurso, a fim de que o livramento condicional seja indeferido até que o recorrido pague a multa ou comprove impossibilidade de fazê-lo.
+Aberta vista à Defensoria Pública Estadual para apresentar contrarrazões, deixou de fazê-lo (fls. 274).
+Admitidoo recurso (fls. 278/279), os autos vieram a esta Corte.
+O MINISTÉRIO PÚBLICO FEERAL - MPF opinou pelo provimentodo recurso especial (fls. 287/291).
+É o relatório.
+Decido.
+O recurso merece prosperar.
+Assim considerou o acórdão recorrido:
+"O agravado cumpria pena na Unidade Prisional de Regime Semiaberto e Aberto de Rolim de Moura/RO, em regime aberto, sendo que preencheu os requisitos objetivo e subjetivo para a concessão do livramento condicional, razão pela qual, juntado o atestado de permanência e conduta carcerária (mov. 16.1), postulou-se tal direito no dia 18/09/2019 (mov. 12.1).
+De acordo com o agravante, entretanto, o apenado teria que comprovar o pagamento da pena de multa para obter o livramento condicional, não sendo suficiente o cumprimento dos requisitos legais previstos na LEP, tais como o objetivo(tempo) e subjetivo (bom comportamento).
+No entanto, denota-se que o entendimento do juiz de origem tem respaldo na jurisprudência pacífica do Tribunal de Justiça do Estado de Rondônia, no sentido de que o inadimplemento da pena de multa cumulativa à pena privativa de liberdade não constitui óbice para a concessão de benefícios como o livramento condicional ou a progressão de regime ao apenado.
+Vale salientar que o agravado é assistido pela Defensoria Pública do Estado de Rondônia, gozando, portanto, de presunção de hipossuficiência, não havendo nos autos quaisquer elementos aptos a afastá-la, restando, assim, evidenciada sua incapacidade econômica para arcar com o pagamento da pena de multa que lhe fora imposta.
+Sendo assim, não se mostra devida a exigência do adimplemento da sanção pecuniária como condição para a concessão, ao reeducando, do livramento condicional, ante a sua hipossuficiência, merecendo ser mantida a r. decisão.
+Ademais, o art. 112 da Lei de Execução Penal preconiza que a pena privativa de liberdade será executada em forma progressiva, com a transferência para regime menos rigoroso, a ser determinada pelo juiz, quando o preso tiver cumprido determinado lapso temporal (objetivo), bem como ostentar boa conduta carcerária (subjetivo), sendo tais requisitos devidamente cumpridos nestes autos.
+Não há outro requisito exigido pela legislação, razão pela qual o pleito do Ministério Público não possui amparo legal, violando o princípio da legalidade estrita à execução penal.
+Deve-se aduzir, ainda, que a multa não mais pode ser convertida em pena privativa de liberdade por ser dívida de valor, aplicando-se as normas da legislação relativa à dívida ativa da Fazenda Pública. Por este motivo, em caso de não pagamento, cabe ao Ministério Público extrair a certidão quanto ao valor da multa e encaminhá-la à Procuradoria do Estado ou da Fazenda, que tem legitimidade ativa para promover a execução. Isto é, em nenhuma hipótese é possível que o juízo vincule o livramento condicional ao pagamento da multa, uma vez que tal medida equivale a convertê-la em pena privativa de liberdade em decorrência do não pagamento, o que se mostra vedado.
+No que se refere ao prequestionamento, importa consignar que a matéria constitucional e infraconstitucional apontada pelo agravante foi enfrentada no desenvolver da decisão, o que dispensa maiores digressões." (fls. 242/244)
+Inicialmente,a circunstância de o recorrido ser assistido pela Defensoria Pública não implica, por si só, em reconhecimento de sua hipossuficiência para pagamento da multa, considerando que, sendo obrigatória a assistência jurídica ao réu no direito penal, aqueles que podendo, optam por não contratar advogado, serão representados pela Defensoria Pública.
+Por outro lado, cumpre considerar queo col. Supremo Tribunal Federal, ao julgar a ADI n.3.150/DF, declarou que a Lei n. 9.268/1996, ao considerar a multa penalcomo dívida de valor, não retirou dela o caráter de sanção penal, que lheé inerente por força do art. 5º, XLVI, c, da Constituição Federal.Consignou, ainda, que a legitimidade da Fazenda Pública para proporexecução fiscal é subsidiária, tão somente se o Ministério Público nãohouver atuado em prazo razoável (90 dias) contados a partir da intimaçãopara a execução da reprimenda.
+Assim considerado, tem-se que oentendimento do Tribunala quo, encontra-se em dissonância com o desta Corte, segundo o qual o inadimplemento da pena de multa aplicada cumulativamente à pena de prisão, sem justificativa, é comportamento desabonador do apenado, refletindo na avaliação do requisito subjetivo.
+A respeito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. INADIMPLEMENTO DA PENA DE MULTA. REQUISITO SUBJETIVO NÃO CUMPRIDO. ANÁLISE ACERCA DO PREENCHIMENTO. REEXAME DE MATÉRIA PROBATÓRIA. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+1. O não pagamento da pena de multa, aplicada cumulativamente com a pena privativa de liberdade, denota a ausência do requisito subjetivo para a concessão do livramento condicional.
+2. A revisão do acórdão, a fim de se acolher a tese de hipossuficiência do condenado, demandaria imprescindível reexame de matéria fático-probatória, inviável em recurso especial, ante o óbice da Súmula 7/STJ.
+3. Agravo regimental improvido.
+(AgRg no REsp 1758670/TO, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/04/2019, DJe 25/04/2019)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. PRELIMINAR DE VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO ACOLHIMENTO. EXECUÇÃO.MULTA. INADIMPLEMENTO. REGRESSÃO AO REGIME SEMIABERTO.CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HIPÓTESE EM QUE A IMPOSSIBILIDADE ECONÔMICA DO APENADO NÃO FOI EXAMINADA NAS INSTÂNCIAS ORDINÁRIAS. IMPOSSIBILIDADE DE ANÁLISE NESTA INSTÂNCIA SUPERIOR. INDEVIDA SUPRESSÃO DE INSTÂNCIA. AGRAVO NÃO PROVIDO.
+ ..
+2. Esta Corte Superior já decidiu que "a vinculação  ..  da progressão de regime ao pagamento da multa não representa incompatibilidade com as normas constitucionais e convencionais, cuja medida foi, inclusive, aplicada pelo próprio c. Supremo Tribunal Federal." (AgRg no HC 488.320/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 12/3/2019, DJe 1º/4/2019).
+3. O Supremo Tribunal Federal firmou entendimento no sentido de que "o inadimplemento deliberado da pena de multa cumulativamente aplicada ao sentenciado impede a progressão no regime prisional", sendo tal condição excepcionada pela comprovação da absoluta impossibilidade econômica em pagar as parcelas do ajuste (EP 8 ProgReg-AgR, Relator(a): Min. ROBERTO BARROSO, Tribunal Pleno, julgado em 1º/7/2016, PROCESSO ELETRÔNICO DJe-213 DIVULG 19-09-2017 PUBLIC 20-09-2017).
+4. Dessa forma, o não pagamento da multa penal obsta a progressão de regime, salvo se houver inequívoca comprovação da hipossuficiência do reeducando.
+ ..
+6. Agravo regimental não provido.
+(AgRg no HC 603.074/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/02/2021, DJe 08/02/2021)
+Diante do exposto, com fundamento na Súmula n. 568/STJ, dou provimento ao recurso especial, para afastar o livramento condicional concedido, sem prejuízo de que seja novamente deferido aorecorrido caso pague a multa ou comprove impossibilidade de fazê-lo, de forma integral ou parcelada.
+Publique-se.
+Intime-se.
