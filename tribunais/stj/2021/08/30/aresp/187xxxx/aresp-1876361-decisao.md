@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manejado por Sintex Medical Implant Biomedica Comercial Ltda. contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fl. 297):
+APELAÇÃO CÍVEL. Mandado de segurança impetrado, visando a inexigibilidade de depósito ao Fundo Estadual de Equilíbrio Fiscal. Sentença de denegação da ordem. O FEEF foi instituído pela Lei nº 7.428/2016, de forma emergencial e temporária, com o objetivo de possibilitar o equilíbrio financeiro do Estado do Rio de Janeiro, em atendimento ao Regime de Recuperação Fiscal. O Órgão Especial deste Tribunal de Justiça, nos autos do processo nº 0063240-02.2016.8.19.0000, entendeu pela constitucionalidade do Fundo Estadual de Equilíbrio Fiscal (FEEF), e, posteriormente, determinou a suspensão do feito por força da ADI nº 5635, que se encontra pendente de julgamento no Supremo Tribunal Federal, até a presente data. Ausência de direito líquido e certo. Parecer da Procuradoria de Justiça em consonância. Precedentes. RECURSO A QUE SE NEGA PROVIMENTO.
+Opostos embargos declaratórios, foram rejeitados (fls. 326/329).
+Nas razões do recurso especial, a parte agravante apontaviolação aos arts. 1022, II, do CPC; 104, III, 178 do CTN. Sustenta: (I) omissão do Tribunal de origem quanto à alegaçãode violação ao princípio da anterioridade (cf. fl. 340); (II)"ao alterar isenção tributária concedida, a referida Lei  7.428/2016  viola a regra contida no artigo 178, do CTN, pela qual nem mesmo a própria Lei poderia revogar ou modificar isenções concedidas por prazo certo e em função de determinadas condições. Logo, a Lei instituidora do FEEF não poderia modificar os termos de fruição dessa modalidade de benefícios, como ocorreu no presente caso. E, ainda que pudesse modificar os termos de fruição, não poderia ser a qualquer tempo, conforme a exigência contida no artigo 104,III, do CTN" (fl. 343).
+O Ministério Público Federal, na condição de fiscal da lei, opinou pelo não provimento do agravo(fls. 580/586).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, amatéria pertinente aos arts. 104, III, 178 do CTN não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão. Portanto, ante a falta do necessário prequestionamento, incide o óbice da Súmula 356/STF.
+Além disso, em relação à controvérsia dos autos, reconheceu o Tribunal de origem às fl. 299/300:
+ ..
+Ademais, o Órgão Especial deste Tribunal de Justiça, nos autos do processo nº 0063240-02.2016.8.19.0000, entendeu pela constitucionalidade doFundo Estadual de Equilíbrio Fiscal (FEEF), instituído pela Lei nº 7.428/2016. Para conferência:
+ ..
+Nesse contexto, verifica-se que o Tribunal de origem decidiu a controvérsia à luz de fundamentos eminentemente constitucionais, matéria insuscetível de ser examinada em sede de recurso especial.
+Além disso, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local, a saber, a Lei Estadual 7.428/2016, pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, nego provimento ao agravo.
+Publique-se.
