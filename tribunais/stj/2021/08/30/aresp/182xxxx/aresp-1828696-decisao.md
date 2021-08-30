@@ -1,0 +1,21 @@
+DECISÃO
+Agrava-se de de decisão que negou seguimento ao recurso especial, fundamentado no art. 105, III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo que negou provimento ao apelodefensivo e manteve a sentença que condenou o recorrente à pena de 2 meses de detenção, em regime aberto, substituída a reprimenda corporal por restritiva de direitos, pela prática do crime do art. 329 do Código Penal.
+A defesa aponta a violação dos arts. 489, § 1º, IV,CPC e 329 do CPalegando, em síntese, que a nulidade da sentença em razão da não apreciação da tese relativa à atipicidade da conduta. Argumenta, nesse sentido, a ausência de violência ou ameaça necessárias para a configuração do delito.
+Contrarrazões às e-STJ fls. 206/213.
+Manifestação do Ministério Público Federal pelo não conhecimento do agravo às e-STJ fls. 251/252.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Anota-se, inicialmente, que não procede a alegação da defesa de ofensa aoart. 489, § 1º, IV, do CPC, porquanto a matéria relativa à configuraçãodo delito foi devidamente enfrentada pelo acórdão recorrido. Confira-se:
+No que se refere à violência, elemento constitutivo do tipo penal, houve por parte do acusado, no mínimo, tentativa, porquanto,segundo o depoimento do policial Anderson, no meio da confusão, oacusado tentava agredir seu colega. Não se trata de simples violênciacontra a coisa, quando o réu chutou a viatura de polícia.Mesmo que a prova coligida quanto ao elemento "violência"seja um tanto confusa, tem-se que restou bem comprovado o outro
+elemento constitutivo do crime de resistência, ou seja, a "ameaça",salientando-se que tais elementos são alternativos para configuração dodelito (violência ou ameaça).
+No tocante à ameaça, o próprio acusado informou, na faseadministrativa, que "disse ao policial para ele tirar a farda e que resolveriaisso na mão".
+O policial David afirmou que o réu disse que "se fosse naquebrada dele, iria ser diferente", que "ia dar um tiro em sua cara". O policialAnderson, na fase extrajudicial, informou que o acusado disse que daria umtiro em seu parceiro.
+É, portanto, claro que o acusado resistiu à abordagempolicial, proferindo ameaças contra os policiais militares.
+Ora, ameaça de atirar contra alguém, evidentemente,contém potencial suficiente para intimidar a pessoa, seja ela policial ou não,sendo irrelevante que estivessem presentes dois policiais e o réu estivessesozinho. Tanto os policiais levaram a sério as ameaças, que deram voz deprisão ao acusado e terminaram por algemá-lo e conduzi-lo à delegacia depolícia. (e-STJ fl. 177/178 - grifo nosso)
+Ressalta-se que omissão no julgado e entendimento contrário ao interesse da parte são conceitos que não se confundem (EDcl nos EDcl no AgRg no REsp 1.129.183/DF, Rel. Min. HUMBERTO MARTINS, Segunda Turma, DJe de 28/8/2012).
+Ademais, o magistrado deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso; porém, não está obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir (ut, AgRg nos EDcl no AREsp 1127961/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Sexta Turma, DJe 8/3/2018).
+Maiores digressões sobre o tema encontram óbice no enunciado n. 7 da Súmula do STJ, por demandar minucioso revolvimento do conteúdo fático-probatório.
+Por fim, o acórdão recorrido registrou quehouve fundadas razões para abordagem policial, porquanto após informações do COPOM da existência de roubos e furtos na região, o recorrido foi visto correndo com o celular na mão e mudou de atitude após avistar os policiais, tendo ainda se recusado a ordem de parada.
+Portanto, nenhuma ilegalidade se verifica, porquanto nos termos do art. 240, § 2º, do CPP, a revista pessoal independe de mandado quando se está diante de fundada suspeita de que o indivíduo traz consigo objetos ilícitos, exatamente como no caso. A propósito:HC 552.395/SP, Rel. Ministro JORGE MUSSI, Quinta Turma, DJe 5/3/2020.
+Diante do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "b", parte final, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se. Intimem-se.
