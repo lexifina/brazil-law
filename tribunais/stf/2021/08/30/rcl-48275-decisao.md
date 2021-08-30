@@ -1,0 +1,22 @@
+Trata-se de reclamação proposta por Antonio Fernando Sodre da Mota contra acórdão proferido pela Oitava Turma Recursal do Juizado Especial Cível e das Relações de Consumo da Capital nos autos do Processo 0032569-17.2018.8.17.8201, por suposto desrespeito ao decidido por esta Suprema Corte no julgamento do ARE 835.833-RG/RS (Tema 800 da Repercussão Geral).
+    O reclamante sustenta, em síntese, que a decisão reclamada: (i) ao fundamentar-se no aresto do referido recurso extraordinário, violou-o, por ele ser inaplicável ao seu recurso; (ii) inovou ao se referir ao Tema 614 da Repercussão Geral apenas no julgamento do agravo interno.
+    É o relatório necessário. Decido.
+    Inicialmente, consigno que deixo de requisitar informações e de enviar o feito à Procuradoria-Geral da República, por entender que o processo já está em condições de julgamento (arts. 52, parágrafo único, e 161, parágrafo único, ambos do RISTF).
+    Bem examinados os autos, vê-se que a pretensão não merece acolhida.
+    Transcrevo trecho do aresto proferido pela Turma Recursal reclamada, ao julgar o agravo interno interposto contra a decisão que negou seguimento ao recurso extraordinário:
+    “O acórdão objeto do recurso extraordinário manteve decisão do juizado de origem pela improcedência da queixa..
+    O Supremo Tribunal Federal, no julgamento do ARE nº 835.833 (Tema 800), de relatoria do Ministro TEORI ZAVASCKI, decidiu que inexiste repercussão geral em recurso extraordinário interposto em causa processada perante os Juizados Especiais Cíveis sem atendimento dos requisitos do prequestionamento e da arguição preliminar e fundamentada de repercussão geral, com indicação detalhada das circunstâncias concretas e dos dados objetivos que evidenciem, no caso examinado, a relevância econômica, política, social ou jurídica.
+    […]
+    No caso em apreço, considerando o disposto no artigo 1.030, I, “a”, do CPC, afigura-se manifestamente inadmissível o recurso extraordinário interposto contra o acórdão proferido no julgamento do recurso inominado, tendo em vista que a matéria objeto da controvérsia no recurso não possui repercussão geral, nos termos decididos pelo STF no julgamento do recurso paradigma na sistemática da repercussão geral.” (documento eletrônico 7)
+    A tese relativa ao julgamento do Tema 800 da Repercussão Geral, por sua vez, foi fixada nos seguintes termos:
+    “A admissão de recurso extraordinário interposto em causa processada nos Juizados Especiais Cíveis da Lei 9.099/1995 exige o preenchimento, por parte do recorrente, de dois requisitos adicionais: (a) demonstração específica e objetiva do prequestionamento, mediante a indicação clara da parte do acórdão recorrido em que tangenciada a matéria constitucional, e (b) fundamentação acerca da relevância calcada em dados concretos que revertam a presunção de inexistência de repercussão geral das lides processadas nesses Juizados.”
+    Assim, após examinar detidamente o ato reclamado e o acórdão proferido no leading case, entendo que os fundamentos os quais embasaram o julgamento do ARE 835.833-RG/RS são aplicáveis ao caso concreto, sendo improcedente a alegação de equívoco na implementação da sistemática da repercussão geral.
+    Ademais, esta Suprema Corte só admite a reclamação ajuizada com o específico propósito de corrigir eventuais equívocos na aplicação, pelos Tribunais, do instituto da repercussão geral, em casos de evidente teratologia, o que, conforme já demonstrado, não ocorreu neste caso.
+    Nesse sentido: Rcl 40.556-ED/SP, Rel. Min. Luiz Fux, Primeira Turma; Rcl 33.637-AgR/RJ, Rel. Min. Gilmar Mendes, Segunda Turma; Rcl 39.150-AgR/SP, Rel. Min. Alexandre de Moraes, Primeira Turma; e Rcl 45.061-AgR/SP, Rel. Min. Cármen Lúcia, Segunda Turma.
+    No tocante à suposta inovação do acórdão que julgou o agravo interno, ao mencionar o Tema 614/RG, verifico que tratou-se de simples erro material, desprovido de relevância, idêntico ao cometido pela petição inicial da reclamação, que a todo momento se referia ao Tema 800/RG como Tema 880/RG.
+    O que pretende o reclamante, em última análise, é fazer uso do instrumento processual da reclamação como sucedâneo recursal, finalidade essa que se revela estranha à sua destinação constitucional (Rcl 4.381-AgR/RJ, Rel. Min. Celso de Mello, Tribunal Pleno).
+    Isso posto, nego seguimento a esta reclamação (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
