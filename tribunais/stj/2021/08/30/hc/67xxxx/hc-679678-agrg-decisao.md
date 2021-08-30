@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo regimental interposto por NELSON DE SOUSA NASCIMENTO contra decisão queindeferiu o pleito liminar no habeas corpus impetrado em seu favor.
+Consta dos autos que o agravante foi condenado à pena privativa de liberdade de 6 anos de reclusão no regime fechado pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, ocasião em que o sentenciante decretou sua prisão preventiva.
+No habeas corpus impetrado nesta Corte, a defesa afirmouque interpôs recurso de apelação, em 29/3/2019, o qual ainda não foi julgado pelo Tribunal de origem.
+Sustentoua ocorrência de constrangimento ilegal, visto que há excesso de prazo no julgamento do apelo, cuja ilegalidade justifica a revogação do decreto prisional.
+Requereu, liminarmente e em definitivo, a concessão da ordem para que fosserevogado o mandado de prisão expedido em desfavor do recorrente.
+Indeferida a liminar e prestadas as informações, opinou o Ministério P blico Federal pela denegação da ordem.
+No presente regimental, aponta a defesa que"manter o agravante preso é totalmente fora de propósito, não havendo nenhuma razoabilidade na demora excessiva no julgamento da apelação. Assim, pelo prolongamento injustificado da custódia cautelar do agravante, sem que tenha contribuído ou dado causa para tanto, impõe-se a decisão que indeferiu a liminar" (e-STJ fl. 39).
+Requer, assim, o provimento do agravo, a fim de que seja revogada a prisão preventiva do acusado ou substituída a custódia por medidas cautelares diversas.
+É o relatório.
+Com razão a defesa.
+Insta consignar, por necessário, que a aferição da existência do excesso de prazo impõe a observância ao preceito inserto no art. 5º, LXXVIII, da Constituição Federal, que assim dispõe:
+A todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação.
+Não obstante, a aferição da violação à garantia constitucional acima referida não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisóriamas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+Entretanto, no caso, notório o excesso de prazo para o julgamento do recurso de apelação, que já dura 2 anos e 5 meses. Ademais, a prisão do acusado já dura cerca de 3 anos.
+Assim, não se justifica maisa imposição da prisão cautelar ao agente.
+Como é cediço, a custódia cautelar é providência extremaque, como tal, somente deve ser ordenada em caráter excepcional, conforme disciplina expressamente o art. 282, § 6º, do Diploma Processual Penal, segundo o qual a "prisão preventiva somente será determinada quando não for cabível a sua substituição por outra medida cautelar, observado o art. 319 deste Código, e o não cabimento da substituição por outra medida cautelar deverá ser justificado de forma fundamentada nos elementos presentes do caso concreto, de forma individualizada".
+Nos dizeres de Aury Lopes Jr., "a medida alternativa somente deverá ser utilizada quando cabível a prisão preventiva, mas, em razão da proporcionalidade, houver outra restrição menos onerosa que sirva para tutelar aquela situação.  ..  As medidas cautelares diversas da prisão devem priorizar o caráter substitutivo, ou seja, como alternativas à prisão cautelar, reservando a prisão preventiva como último instrumento a ser utilizado" (Lopes Jr., Aury. Direito Processual Penal. 10. ed. São Paulo: Saraiva, 2013.p. 86).
+Essas considerações analisadas em conjunto levam-me a crer, como dito,ser desproporcional a imposição da prisão preventiva, revelando-se mais adequadaa imposição de medidas cautelares alternativas, em observância à regra de progressividade das restrições pessoais, disposta no art. 282, §§ 4º e 6º, do Código de Processo Penal, ao determinar, expressa e cumulativamente, que, apenas em último caso,será decretada a custódia preventiva e ainda quando não for cabível sua substituição por outra cautelar menos gravosa.
+Na espécie, insta salientar que o magistrado que conduz o feito em primeiro grau, por estar próximo aos fatos, possui melhores condições de decidir quais medidas são adequadas ao agente.
+Ante o exposto, dou provimento ao regimental, a fim deconcedera ordem para substituir a prisão preventiva por outras medidas cautelares constantes do art. 319 do Código de Processo Penal, a serem definidas pelo Juízo local.
+Publique-se. Intimem-se.
