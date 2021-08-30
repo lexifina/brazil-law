@@ -2,7 +2,7 @@ Art. 1º Sujeitam-se ao regime de concessão ou, quando couber, de permissão, n
 I - (VETADO)
 II - (VETADO)
 III - (VETADO)
-IV - vias federais, precedidas ou não da execução de obra pública;
+IV - rodovias federais, precedidas ou não da execução de obra pública;
 V - exploração de obras ou serviços federais de barragens, contenções, eclusas ou outros dispositivos de transposição hidroviária de níveis, diques, irrigações, precedidas ou não da execução de obras públicas;
 VI - estações aduaneiras e outros terminais alfandegados de uso público, não instalados em área de porto ou aeroporto, precedidos ou não de obras públicas.
 VII - os serviços postais.

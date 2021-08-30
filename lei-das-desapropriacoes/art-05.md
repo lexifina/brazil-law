@@ -18,3 +18,14 @@ p) os demais casos previstos por leis especiais.
 § 1º - A construção ou ampliação de distritos industriais, de que trata a alínea i do caput deste artigo, inclui o loteamento das áreas necessárias à instalação de indústrias e atividades correlatas, bem como a revenda ou locação dos respectivos lotes a empresas previamente qualificadas
 § 2º - A efetivação da desapropriação para fins de criação ou ampliação de distritos industriais depende de aprovação, prévia e expressa, pelo Poder Público competente, do respectivo projeto de implantação.
 § 3º Ao imóvel desapropriado para implantação de parcelamento popular, destinado às classes de menor renda, não se dará outra utilização nem haverá retrocessão.
+§ 8º Os bens desapropriados para fins de utilidade pública e os direitos decorrentes da respectiva imissão na posse poderão ser:
+I - alienados a terceiros;
+II - locados;
+III - cedidos;
+IV - arrendados;
+V - outorgados em regimes de:
+a) concessão de direito real de uso;
+b) concessão comum; ou
+c) parceria público-privada; e
+VI - transferidos como integralização de fundos de investimento ou sociedades de propósito específico.
+§ 9º Aplica-se o disposto no § 8º aos casos de desapropriação para fins de execução de planos de urbanização, de renovação urbana ou de parcelamento ou reparcelamento do solo, desde que seja assegurada a destinação prevista no referido plano de urbanização ou de parcelamento de solo.
