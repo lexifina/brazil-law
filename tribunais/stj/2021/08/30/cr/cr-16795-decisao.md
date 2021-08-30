@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de carta rogatória por meio da qual a Justiça portuguesa solicita que se proceda à notificação de MATHIZALEN DO NASCIMENTO ALVESde ação de processo comum, bem como à notificação para audiência marcada para o dia 21de setembro de 2021.
+A presente comissão foi autuada em 24 de agosto de 2021, no Superior Tribunal de Justiça, com prazo para cumprimento da diligência até o dia 16/9/2021(fl. 5).
+Consoante a Portaria Interministerial n. 501, que dispõe sobre a tramitação da carta rogatória, nela deverá constar: " ..  (i) 90 (noventa) dias, quando se tratar de matéria penal; e (ii)180 (cento e oitenta) dias, quando se tratar de matéria cível".
+Considerando que, devido aos trâmites inerentes às cartas rogatórias, não será possível notificar ointeressadopara o cumprimento da diligência, determino a devolução dos autos à Justiça rogante (art. 216-X do RISTJ) por intermédio da autoridade central competente, sem prejuízo da reapresentação, independentemente do trânsito em julgado.
