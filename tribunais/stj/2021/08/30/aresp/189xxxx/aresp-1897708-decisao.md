@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto porBANCO DO BRASILS.A. contra a decisão que inadmitiu recurso especial.O apelo extremo, fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, impugna acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul assim ementado:
+"ADMINISTRATIVO. PROCESSUAL CIVIL. CONSTITUCIONAL. BANCODO BRASIL. AÇÃO CIVIL PÚBLICA Nº 94.008514-1. CÉDULA DECRÉDITO RURAL. CUMPRIMENTO INDIVIDUAL DE SENTENÇA. AJUIZAMENTO EXCLUSIVAMENTE CONTRA O BANCO DO BRASIL. POSSIBILIDADE. COMPETÊNCIA. JUSTIÇA ESTADUAL. JURISPRUDÊNCIA PACÍFICA DO STJ. DECISÃO MANTIDA. AGRAVODE INSTRUMENTO IMPROVIDO" (fl. 69 e-STJ).
+Os embargos de declaração opostos foram parcialmente providos apenas para fins de prequestionamento (fls. 128/129 e-STJ).
+Nas razões do recurso especial, além de dissídio jurisprudencial, o recorrente alega violação dos artigos 43, 130, 131, 516, II, e 1.022 do CDC/2015;93 e98, caput e § 2º, I, do CDC; e 16 da Lei nº 7.347/1985.Sustenta, em síntese, negativa de prestação jurisdicional eque o título que embasa o cumprimento de sentença é oriundo dajustiça federal,sendo, portanto, incompetente a justiça estadual, tendo em vista que possui o direito de chamar aos autos os devedores solidários (União e Banco Central).
+Sem as contrarrazões, o recurso foi inadmitido na origem.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade, passa-se ao exame direto do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+De início, quanto aoart. 1022 do CPC/2015, registre-se que a negativa de prestação jurisdicional nos embargos declaratórios somente se configura quando, na apreciação do recurso, o tribunal de origem insiste em omitir pronunciamento sobre questão que deveria ser decidida, e não foi.
+Não é o caso dos autos.
+Com efeito, as instâncias ordinárias enfrentaram a matéria posta em debate na medida necessária para o deslinde da controvérsia, não havendo falar em negativa de prestação jurisdicional.
+Outrossim, impende asseverar que cabe ao julgador apreciar os fatos e provas da demanda segundo seu livre convencimento, declinando, ainda que de forma sucinta, os fundamentos que o levaram a solucionar a lide.
+Desse modo, não há falar em deficiência de fundamentação da decisão o não acolhimento de teses ventiladas pela recorrente, mormente se o acórdão abordar todos os pontos relevantes da controvérsia, como na espécie.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1. VIOLAÇÃO AOS ARTS. 489, § 1o E SEU INCISO IV, E 1.022, II, DO CPC/2015. NÃO OCORRÊNCIA. 2. CERCEAMENTO DE DEFESA. NÃO OCORRÊNCIA. REEXAME DE PROVA. SÚMULA 7/STJ. RESPONSABILIDADE CIVIL. CULPA CONCORRENTE. REEXAME DE PROVA. INCIDÊNCIA DA SÚMULA 7/STJ. 3. DANO MORAL. REDUÇÃO DE VALOR. REEXAME DE PROVA. SÚMULA 7/STJ. 4. AGRAVO INTERNO IMPROVIDO.
+1. Não ficou configurada a violação aos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. Modificar o entendimento do Tribunal local, quanto ao cerceamento de defesa e à responsabilidade civil da parte agravante, incorrerá em reexame de matéria fático-probatória, o que é inviável devido ao óbice da Súmula 7/STJ, não sendo o caso de revaloração de provas.
+3. Com efeito, é firme a jurisprudência desta Corte no sentido de que a revisão do quantum indenizatório estipulado pelo Tribunal de origem só é admitida quando irrisório ou exorbitante, o que não ocorre no caso em questão, em que o valor arbitrado respeitou os princípios da proporcionalidade e da razoabilidade. Outrossim, a análise da questão esbarraria, também, no enunciado sumular n. 7 do STJ.
+4. O mero não conhecimento ou a improcedência de recurso interno não enseja a automática condenação à multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso.
+5. Agravo interno improvido" (AgInt no AREsp 1495138/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 23/03/2020, DJe 30/03/2020 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. ART. 489 DO CPC/2015. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. ART. 1.021, § 3º, DO CPC/2015. FUNDAMENTOS DA DECISÃO AGRAVADA. REITERAÇÃO. POSSIBILIDADE.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. O dispositivo legal indicado como malferido não tem comando normativo suficiente para infirmar os fundamentos do acórdão recorrido, tampouco para sustentar a tese defendida pelo recorrente, o que configura a deficiência de fundamentação do recurso especial a atrair a incidência da Súmula nº 284/STF.
+4. O julgador pode reiterar os fundamentos da decisão recorrida quando não deduzidos novos argumentos pela parte recorrente, pelo que o art. 1.021, § 3º, do CPC/2015 não impõe ao julgado a obrigação de reformular a decisão agravada.
+5. Agravo interno não provido" (AgInt no AREsp 1395429/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/11/2019, DJe 21/11/2019 - grifou-se).
+No que se refere à ofensa aos arts.93 e 98, caput, § 2º, I, do CDC, verifica-se que asmatérias versadas nos dispositivosapontados como violados no recurso especial não foramobjeto de debatepelas instâncias ordinárias, embora opostos embargos de declaração.
+Ausente o requisito do prequestionamento, incide o disposto na Súmula nº211/STJ: "Inadmissível recurso especial quanto à questão que, a despeitoda oposição de embargos declaratórios, não foi apreciada pelo Tribunal aquo".
+Ademais, cumpre consignar que, a despeito de a sentença exequenda ter sido proferida em ação coletiva ajuizada perante aJustiça Federal- a qual, a princípio, seria competente também para o respectivo cumprimento, a teor do que determina o artigo 516 do Código de Processo Civil de 2015 -, no caso temos no pólo passivo apenas oBanco do BrasilS.A.
+Nesse contexto, não havendo no cumprimento de sentença em referência nenhum dos entes elencados no inciso I do artigo 109 da Constituição Federal, não se justifica, de fato, o seu processamento perante aJustiça Federal.
+Cuida-se de aplicação objetiva a orientação contida na Súmula nº 508/STF: "Compete à Justiça Estadual, em ambas as instâncias, processar e julgar as causas em que for parte oBanco do BrasilS.A".
+Em situações absolutamente semelhantes, esta Corte já declarou a competência da Justiça Estadual. Confiram-se: CC 159.253/MS, Relator Ministro Luis Felipe Salomão, publ. 10/9/2018; CC 159.097/MS, Relatora Ministra Maria Isabel Gallotti, publ. 6/9/2018; CC 157.891/MS, Relator Ministro Luis Felipe Salomão, publ. 2/8/2018; e CC 157.889/MS, Relator Ministro Moura Ribeiro, publ. 15/6/2018.
+Nesse rumo:
+"DIREITO PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. NEGÓCIOS JURÍDICOS BANCÁRIOS. IMPUGNAÇÃO À FASE DE CUMPRIMENTO INDIVIDUAL DE SENTENÇA COLETIVA. CÉDULA RURAL. EXPURGOS INFLACIONÁRIOS. COMPETÊNCIA DA JUSTIÇA FEDERAL. AGRAVO INTERNO NÃO PROVIDO.
+1. Esta Corte tem decidido reiteradamente não se justificar o deslocamento da competência do feito e remessa dos autos à Justiça Federal, quando nenhum dos entes indicados no inciso I do art. 109 da Constituição Federal integram a lide, sendo, pois, competente a Justiça Estadual para o julgamento da demanda, quando figura como parte apenas o Banco do Brasil com instituição financeira que celebrou a avença com a parte.
+2. Reconhecida a solidariedade entre União, Banco Central e o banco agravante, é possível o direcionamento do cumprimento provisório a qualquer um dos devedores solidários. É possível que a parte persiga seu crédito contra a instituição financeira com quem celebrou a avença, desde que não haja qualquer prova nos autos sobre a noticiada transferência do crédito à União.
+3. Agravo interno não provido"(AgInt no AREsp 1309643/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 29/04/2019, DJe 02/05/2019).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixo de tratar dos honorários recursais (art. 85, § 11, do CPC/2015), haja vista que o recurso especial ao qual se negou provimento é oriundo de acórdão proferido por ocasião de julgamento de agravo de instrumento, sem fixação de honorários sucumbenciais.
+Publique-se.
+Intimem-se.
