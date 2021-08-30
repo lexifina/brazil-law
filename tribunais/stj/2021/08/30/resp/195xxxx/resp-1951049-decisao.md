@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL com respaldona alínea "a"do permissivo constitucionalcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃOassim ementado (e-STJ fls. 171/172):
+PREVIDENCIÁRIO. TRABALHADOR RURAL. AUXILIO DOENÇA. CONJUNTO PROBATÓRIO. INCAPACIDADE TEMPORÁIRA. TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS ADVOCATICIOS E PERICIAIS. CUSTAS PROCESSUAIS.
+1. São requisitos para a concessão dos benefícios de aposentadoria por invalidez e de auxílio-doençaa comprovação da qualidade de segurado da Previdência Social e o preenchimento do período de carência de 12 contribuições mensais, com exceção das hipóteses enumeradas no art. 26, III, c/c art. 39, I, da Lei 8.213/1991, e a comprovação de incapacidade para o exercício de atividade laborativa.
+2. Todavia, segundo a legislação de regência (Lei 8.213/1991, art. 55, § 3º) e o disposto nas Súmulas 149 do STJ e 27 do TRF da 1a Região, a comprovação da atividade rural demanda a apresentação de inicio razoável de prova documental, que deve ser corroborada por prova testemunhal consistente sobre a veracidade das alegações.
+3. O acervo probatório constante dos autos demonstra que a doença que acomete a parte autora é compatível com o quadro de incapacidade parcial que impede o exercício de atividade rural temporariamente.
+4. Comprovadas a qualidade de segurado e a incapacidade laboraltemporária da parte autora e não havendo nos autos elementos aptos a desconstituir as conclusões apresentadas, impõe-se a concessão do auxílio-doença.
+5. A Lei 8.213/1991, em seu art. 60, dispõe que o auxílio-doença será devido a partir do 16º dia de afastamento da atividade no caso dos segurados empregados e a contar da data do início da incapacidade ou, quando o segurado já esteja afastado por mais de 30 dias da atividade, a partir da data do requerimento administrativo.
+6. Na ausência de requerimento administrativo prévio, de acordo com a jurisprudência mais atual do STJ, firmada após a atribuição do tema à Primeira Seção daquela Corte, pacificou-se o entendimento de que o benefício é devido a partir da citação, sendo oportuno citar, dentre outros, os precedentes inscritos no AgRg no AREsp 255.7931SP, EDcl 1349703/RS e AREsp 516018.
+7. O benefício deve ser pago até que a parte autora se recupere para o exercício da sua atividade habitual ou, se for o caso, até que seja submetido a processo de reabilitação profissional para o exercício de outra atividade que lhe garanta a subsistência, consoante dispõe o art. 62 da Lei 8.213/91.
+ ..
+13. Apelação da parte autora parcialmente provida, para reformar a sentença que indeferiu o pedido inicial e conceder o beneficio de auxílio-doença.
+Embargos de declaração rejeitados (e-STJ fls. 186/192).
+Em suas razões, a parte recorrente aponta violação do art.1.022 do CPC/2015, por negativa de prestação jurisdicional, ante o não suprimento de contradiçãoapontadaem sede de embargos de declaração, no tocante ao preenchimento dos requisitos necessários à concessão do benefício.
+Nomérito, alega vulneração dos arts. 42, § 2º e 59, § 1º, da Lei n. 8.213/1991, sustentando que a parte autora não faz jus aos benefícios de auxílio-doença e/ou aposentadoria por invalidez, visto que já era portadora do mal incapacitante na data de sua filiação à Previdência Social.
+Sem contrarrazões.
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 228.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Em relação à alegada ofensa1.022 do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional.
+ ..
+(REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No caso, o Tribunal de origem assentou que forma preenchidos todos os requisitos para a concessão do benefício.
+De outro turno, o vício que autoriza os embargos de declaração é a contradição interna do julgado, não a contradição entre este e o entendimento da parte, nem menos entre este e o que ficara decidido na instância a quo, ou entre ele e outras decisões do STJ. (EDcl no AgRg nos EAREsp 252.613/MG, rel. Ministro MAURO CAMPBELL MARQUES, CORTE ESPECIAL, julgado em 05/08/2015, DJe 14/08/2015).
+No mesmo sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL RECONHECIDO. CONTRADIÇÃO E OBSCURIDADE. VÍCIOS NÃO CONFIGURADOS. PRETENSÃO DE REDISCUTIR A CAUSA. EMBARGOS PARCIALMENTE ACOLHIDOS PARA CORRIGIR VERBETAÇÃO DA EMENTA.
+1. O art. 1.022 do CPC/2015 traz as seguintes hipóteses de cabimento dos embargos de declaração: a) obscuridade; b) contradição; c) omissão no julgado, incluindo-se neste último as condutas descritas no art. 489, § 1º, que configurariam a carência de fundamentação válida; e d) o erro material.
+2. No caso, observa-se ter ocorrido erro material na ementa do acórdão impugnado, porquanto a verbetação não corresponde ao restante do texto.
+3. Quanto às demais questões suscitadas no recurso, não ficou demonstrada contradição interna no julgado ou obscuridade. Na hipótese, a parte não pretende esclarecer algum ponto do acórdão que não tenha ficado claro, mas questiona os próprios fundamentos nele adotados para fazer prevalecer a pretensão recursal.
+4. Embargos de declaração acolhidos, sem efeitos modificativos, apenas para a correção do erro material apontado.
+(EDcl no AgInt no AREsp 1227397/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 06/05/2020, DJe 14/05/2020)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL POR DANO AMBIENTAL. ART. 1022 DO CPC/2015. CONTRADIÇÃO. OFENSA NÃO CONFIGURADA. CERCEAMENTO DO DIREITO DE DEFESA. NECESSIDADE DE PRODUÇÃO PROBATÓRIA. ACÓRDÃO DO TRIBUNAL DE ORIGEM ANCORADO NO SUBSTRATO FÁTICO DOS AUTOS. REVISÃO.IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. No tocante ao tema da proporção dos honorários de sucumbência, não cabe falar em ofensa ao art. 1022 do CPC/2015. Isso porque, nos termos da jurisprudência do Superior Tribunal de Justiça, a contradição sanável por meio dos embargos de declaração é aquela interna ao julgado embargado - por exemplo, a incompatibilidade entre a fundamentação e o dispositivo da própria decisão. Em outras palavras, o parâmetro da contrariedade não pode ser externo, como outro acórdão, ato normativo ou prova. 2. No caso em exame, o dispositivo do acórdão embargado está em perfeita consonância com a fundamentação que lhe antecede. Portanto, não há contradição interna a ser sanada.
+3. Conforme a legislação de regência, cumpre ao magistrado, destinatário da prova, valorar sua necessidade. Assim, tendo em vista o princípio do livre convencimento motivado, não há cerceamento de defesa quando, em decisão fundamentada, o juiz indefere produção de prova, seja ela testemunhal, pericial ou documental.
+4. A alteração das conclusões adotadas pela Corte de origem, tal como colocada nas razões recursais, de modo a se chegar à conclusão de que seria necessária a produção da prova pericial requerida pela parte agravante, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+5. Agravo interno não provido.
+(AgInt no AREsp 1224070/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 01/10/2019, DJe 04/10/2019)
+No mérito, o Tribunal de origem assim fundamentou a concessão do auxílio-doença à parte autora, a saber (e-STJ fl. 167):
+No caso concreto, a qualidade de segurado da parte autora e o cumprimento do período de carência restaram devidamente comprovados, conforme documentação existente nos autos.
+O acervo probatório constante dos autos demonstra que a doença que acomete a parte autora é compatível com o quadro de incapacidade temporária que impede o exercício de atividade rural.
+Comprovadas a qualidade de segurado e a incapacidade laboraltemporária da parte autora e não havendo nos autos elementos aptos a desconstituí-los, impõe-se a concessão do auxílio-doença , requerido na inicial.
+Dessa forma, verifica-se que o Tribunal de origem decidiu a questão ora ventilada com base na realidade delineada à luz do suporte fático-probatório dos autos, cuja revisão é inviável no âmbito do recurso especial diante do óbice estampado na Súmula 7 do STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA POR INVALIDEZ. AUXÍLIO-ACIDENTE. AUXÍLIO-DOENÇA. LAUDO PERICIAL. INCAPACIDADE TOTAL, TEMPORÁRIA OU DEFINITIVA. COMPROVAÇÃO.SÚMULA 7/STJ. INCIDÊNCIA. VIOLAÇÕES CONSTITUCIONAIS. INCOMPETÊNCIA DO STJ.
+1. O agravante alega que não se trata de reexame das provas dos autos para a concessão do benefício previdenciário, mas da sua valoração e da aplicação da legislação e jurisprudência ao caso concreto.
+2. Não cabe análise por esta Corte Superior de violações de princípios e dispositivos constitucionais em recurso especial.
+3. Não há respaldo na legislação previdenciária para concessão de auxílio-acidente para contribuinte individual.
+4. O acórdão recorrido consignou que não ficou demonstrada a atividade desenvolvida pelo autor, tampouco a restrição impeditiva da atividade.
+5. Quanto aos demais benefícios previdenciários requeridos, quais sejam, aposentadoria por invalidez e auxílio-doença, o Colegiado local decidiu que, também, com base nas provas dos autos, não foram preenchidos os requisitos necessários para a concessão.
+6. Correto o entendimento da decisão impugnada de incidência da Súmula 7/STJ.
+7. Agravo interno a que se nega provimento.(AgInt no AREsp 1037230/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 07/12/2020, DJe 14/12/2020)
+Ante o exposto, com base no art. 255, § 4º, I e II, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
