@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de Mandado de Segurança, com pedido de liminar, impetrado por Geronimo Juan Perez Verderacontra suposto ato doMinistério da Justiça e Segurança Pública.
+Sustenta oimpetrante que:
+"O impetrante é cidadão argentino e pleiteia a naturalização como cidadão brasileiro, conforme pedido direcionado ao Sr. Ministro da Justiça em 21/09/2020.
+Contudo, passados quase 9 meses do requerimento, o impetrado nada fez em relação ao pedido, em que pese este preencher todos os requisitos legais para obtenção da cidadania.
+(..)
+O impetrante vem sendo lesado pela demora da autoridade estatal, tendo em vista que tem prestado concursos públicos para o cargo de médico, que pretende exercer de forma privada e pública, e necessita de cidadania brasileira para exercer a profissão.
+Ademais, está na lista de espera para convocação para o cargo de médico em Concurso do Município de Cascavel. Atualmente há 1 pessoa na fila de espera para convocação, ou seja, o Impetrante está na iminência de ser convocado a assumir cargo público e será impedido pela omissão estatal no julgamento do seu pedido de cidadania.
+(..)
+Inegável que há ato coator por omissão do Poder Executivo Federal, pelo ato do Ministério da Justiça, devido a demora de 9 meses na análise do requerimento de cidadania do impetrante.
+Portanto, requer-se o conhecimento do pedido e concessão da segurança, para que seja reconhecido o direito do impetrante assegurado o direito fundamental à razoável duração do processo e à celeridade de sua tramitação, determinando que o requerimento de cidadania (Protocolo 08096.004106/2020/24) seja analisado dentro do prazo de 15 dias"(fls. 4/9e).
+Requer, assim, "inicialmente, para que seja LIMINARMENTE CONCEDIDA A SEGURANÇA inaudita altera pars, para que seja concedida a segurança provisória, mediante a determinação que o requerimento de cidadania (Protocolo 08096.004106/2020/24) seja julgado dentro do prazo de 15 dias;II. No mérito, para que seja DECLARADA A SEGURANÇA DEFINITIVA, sendo reconhecido o direito do impetrante de ter analisado e julgado o requerimento de cidadania dentro do prazo razoável de 15 dias" (fl. 11e).
+Nos termos do art. 105, I, b, da Constituição Federal, compete ao Superior Tribunal de Justiça processar e julgar, originariamente, os Mandados de Segurança impetrados "contra ato de Ministro de Estado, dos Comandantes da Marinha, do Exército e da Aeronáutica ou do próprio Tribunal".
+No caso dos autos, como assinalado pela União, em sua contestação, a decisão sobre ospedidos de naturalização foi delegada ao Coordenador de Processos Migratórios da Coordenação-Geral de Política Migratória do Departamento de Migrações da Secretaria Nacional de Justiça, consoante disposto na Portaria 626, de 13/11/2020, do Ministério da Justiça e Segurança Pública.
+Na forma da jurisprudência do STJ, "conforme estatui a Súmula 510 do STF, praticado "o ato por autoridade no exercício de competência delegada, contra ela cabe o mandado de segurança ou a medida judicial"" (STJ, AgInt no MS 25.885/DF, Rel. Ministro GURGEL DE FARIA, PRIMEIRA SEÇÃO, DJe de 22/05/2020).
+Nesse contexto, resta evidenciada a incompetência do Superior Tribunal de Justiça para processar e julgar o writ, em face da manifesta ilegitimidade passiva ad causam da autoridade coatora para figurar no polo passivo do presente Mandado de Segurança.
+Ante o exposto, reconheço a incompetência do Superior Tribunal de Justiça para processar e julgar o presente writ e julgo extinto o processo, sem resolução de mérito, com fundamento nos arts. 212 do RISTJ, 6º, § 5º, da Lei 12.016/09, e 485, VI, do CPC/2015.
+I.
