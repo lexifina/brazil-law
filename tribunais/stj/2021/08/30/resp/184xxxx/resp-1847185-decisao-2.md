@@ -1,0 +1,4 @@
+DECISÃO
+Trata-se de recurso especial intentado pelo Município de Coreaú/CE às fls. 467-484.
+Haja vista a interposição de recurso especial pela União Federal (fls. 447-457), o qualenvolve questão submetida ao rito do julgamento dos recursos repetitivos -possibilidade de fixação dos honorários advocatícios com fundamento no juízo de equidade, nos termos do art. 85, § 8º, do CPC/2015, nos feitos em que o valor da causa ou o proveito econômico da demanda forem elevados (TEMA 1.076/STJ) - os autos foram devolvidos ao tribunal de origem.
+Deste modo, o julgamento do presente recurso deve aguardar a solução a ser dada na origem, considerando a impossibilidade de cisão do julgamento, bem como o fato de que só depois de realizado o juízo de conformação do artigo 1.040 do CPC/2015 haverá o exaurimento da instância ordinária.
