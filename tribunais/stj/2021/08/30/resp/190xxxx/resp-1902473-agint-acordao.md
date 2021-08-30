@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de declaração de inexigibilidade de débito c/c obrigação de fazer c/c indenização e compensação - respectivamente - por danos materiais e morais.
+2. Os herdeiros do mutuário falecido não podem ser considerados como segurados, de modo que inaplicável a prescrição ânua prevista no art. 206, § 1º, II, do CC/2002. Nesta situação, aplica-se o prazo prescricional decenal previsto no art. 205 do CC/2002. Súmula 568/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por COMPANHIA DE SEGUROS DO ESTADO DE SÃO PAULO contra decisão unipessoal que conheceu do recurso especial que interpusera e negou provimento.
+Ação: de declaração de inexigibilidade de débito c/c obrigação de fazer c/c indenização e compensação - respectivamente - por danos materiais e morais, ajuizada por MARILANDES DANIEL GOMES (agravada), em face de COMPANHIA DE DESENVOLVIMENTO HABITACIONAL E URBANO DO ESTADO DE SÃO PAULO - CDHU (interessada) e da seguradora agravante, na qual alega - em síntese - que fora casada com OSVALDO CELSO GOMES, o qual celebrara com a primeira ré (CDHU), em 30/12/1993, compromisso de compra e venda de imóvel. Sustenta ter noticiado à segunda ré (COMPANHIA DE SEGUROS DO ESTADO DE SÃO PAULO) o falecimento de OSVALDO, após quinze dias do óbito, ocorrido em 14/05/2006, bem como entregado os documentos então solicitados. Contudo, aduz que a seguradora COMPANHIA DE SEGUROS DO ESTADO DE SÃO PAULO registrara o recebimento do aviso apenas em 28/06/2006 e informara somente em janeiro de 2009 a negativa de cobertura, em razão da suposta falta de entrega de documentos complementares para regulação do sinistro, não especificados.
+Sentença: julgou parcialmente procedentes os pedidos, para:
+i) reconhecer o direito da agravada/autora ao pagamento da indenização securitária pela agravante/ré (COMPANHIA DE SEGUROS DO ESTADO DE SÃO PAULO);
+ii) declarar a quitação do contrato de financiamento habitacional e, consequentemente, determinar que a interessada/ré (CDHU) outorgue a escritura definitiva do imóvel à agravada/autora, conforme cláusula 28 do contrato, no prazo de 30 dias, sob pena de multa diária de R$ 500,00; e
+iii) condenar apenas a interessada/ré (CDHU) a restituir à agravada/autora, de forma simples, a quantia de R$ 1.364,54, com correção monetária com base na Tabela Prática do TJ/SP e juros de mora de 1% ao mês, ambos desde março de 2015.
+Acórdão: negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+Seguro habitacional. Compromisso de compra e venda. Ação declaratória de inexigibilidade de débito c.c. obrigação de fazer e indenização por danos morais e materiais. Sentença de parcial procedência. Irresignação das rés. Autora que noticiou tempestivamente o falecimento de seu marido à CDHU, estipulante do seguro habitacional. Empresa que não logrou sucesso na composição administrativa com a COSESP. Recusa de cobertura securitária fundada na inércia da estipulante em fornecer documentos complementares para a regulação do sinistro. Entraves administrativos que não podem ser imputados à beneficiária do seguro, nem prejudica-la. Alegação de prescrição da pretensão securitária. Inocorrência. Prazo ânuo do art. 206, § lº II, "b", do Código Civil que é inaplicável ao caso concreto. Ação fundada na pretensão pessoal da beneficiária, sujeita ao prazo decenal geral do art. 205 do Código Civil. Precedentes. Prazo para cumprimento da obrigação que não é exíguo. Multa diária para a hipótese de descumprimento que não é excessiva. Elevação dos honorários advocatícios sucumbenciais. Sentença mantida. Recursos desprovidos. (e-STJ, fl. 283)
+Embargos de declaração: opostos pela agravante, foram rejeitados.
+Decisão monocrática: conheceu do recurso especial interposto pela parte agravante e negou-lhe provimento, com fundamento no art. 932, IV, "a", do CPC/15, bem como na Súmula 568/STJ (e-STJ, fls. 348/351).
+Agravo interno: alega, em síntese, a inaplicabilidade da Súmula 568/STJ na hipótese vertente, de modo a asseverar a ocorrência da consumação do prazo prescricional ânuo (e-STJ, fls. 354/358).
+É O RELATÓRIO.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE DECLARAÇÃO DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO E COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ.
+1. Ação de declaração de inexigibilidade de débito c/c obrigação de fazer c/c indenização e compensação - respectivamente - por danos materiais e morais.
+2. Os herdeiros do mutuário falecido não podem ser considerados como segurados, de modo que inaplicável a prescrição ânua prevista no art. 206, § 1º, II, do CC/2002. Nesta situação, aplica-se o prazo prescricional decenal previsto no art. 205 do CC/2002. Súmula 568/STJ.
+3. Agravo interno não provido.
+VOTO
+A decisão agravada conheceu do recurso especial interposto pela parte agravante e negou-lhe provimento, com fundamento na Súmula 568/STJ.
+- Julgamento: aplicação do CPC/15
+A despeito das alegações aduzidas neste recurso, percebe-se que a parte agravante não trouxe qualquer argumento novo capaz de ilidir entendimento firmado na decisão ora agravada.
+1. Da Súmula 568/STJ
+Com efeito, não há qualquer equívoco na aplicação da Súmula 568/STJ, tendo em vista que, de fato, o acórdão proferido pelo TJ/SP - ao entender que o prazo prescricional que se aplica à viúva do mutuário, o Sr. OSVALDO CELSO GOMES (sendo ele a pessoa que celebrou o contrato de compra e venda com a interessada/ré CDHU, com seguro por morte garantido pela agravante/ré - e-STJ, fl. 285), é o decenal e não o prazo anual, previsto no art. 206, § 1º, II, alínea "b", do CC/02 - está em consonância com o entendimento adotado por esta Corte, no sentido de que os herdeiros do mutuário falecido não podem ser considerados como segurados, de modo que inaplicável a prescrição ânua prevista no art. 206, § 1º, II, do CC/2002. Nesta situação, aplica-se o prazo prescricional decenal previsto no art. 205 do CC/2002. Nesse sentido: AgInt no AREsp 1.089.559/RJ (3ª Turma, DJe 03/08/2020), REsp 1.694.257/SP (3ª Turma, DJe 31/08/2018) e AgInt no AREsp 1.711.083/RJ (4ª Turma, DJe 01/02/2021).
+Inviável, portanto, a inaplicabilidade da Súmula 568/STJ.
+Forte nessas razões, NEGO PROVIMENTO ao presente agravo interno.
