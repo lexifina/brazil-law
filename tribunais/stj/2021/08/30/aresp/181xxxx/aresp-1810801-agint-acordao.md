@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. REVISÃO DO VALOR FIXADO.REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.ARGUMENTOS DO APELO NOBRE DISSOCIADOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE.SÚMULA 284/STF.MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+RELATÓRIO
+Trata-se de agravo interno interposto por JEANE DOS PASSOS,contra decisão exarada pela Presidência deste STJ, a qual não conheceu do recurso especial.
+Nas razões do presente recurso, a parte agravante pugna pela modificação do julgado, reprisando as razões de seu recurso especial.
+Alega a inaplicabilidade da Súmula 7/STJ e da Súmula 284/STF, deduzindo que "A pretensão recursal NÃO consiste na revisão da premissa fática adotada pelo Tribunal. O que se busca com o Recurso Especial é a redefinição do enquadramento jurídico dos fatos expressamente mencionados no acórdão recorrido." - e-STJ Fl.687 e que "as razões recursais não estão dissociadas do fundamento utilizado no aresto impugnado-que sustentou o não cabimento de condenação ao pagamento de honorários advocatícios recursais de sucumbência no caso de parcial provimento ao recurso." - e-STJ Fl. 693.
+Impugnação à e-STJ Fls. 700/711, requerendo aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO C/C INDENIZAÇÃO POR DANOS MORAIS. REVISÃO DO VALOR FIXADO.REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. IMPOSSIBILIDADE. SÚMULA 7/STJ.ARGUMENTOS DO APELO NOBRE DISSOCIADOS DO ACÓRDÃO RECORRIDO. FUNDAMENTAÇÃO DEFICIENTE.SÚMULA 284/STF.MANUTENÇÃO DA DECISÃO AGRAVADA.
+AGRAVO INTERNO DESPROVIDO.
+VOTO
+Eminentes Colegas, o agravo interno não merece prosperar.
+Com efeito, verifica-se que foi negado conhecimento ao recurso especial da parte recorrente em virtude da incidência daSúmula7/STJ e da Súmula 284/STF(e-STJ Fls. 616/621).
+Resta cristalino, entretanto, que os argumentos expostos no bojo do presente recurso não são aptos a desconstituir a decisão recorrida, uma vez que, em suma, a recorrente reitera as teses expendidas no recurso especial.
+Inicialmente, quanto a primeira controvérsia, qual seja, ovalor fixado à título de danos morais, a Corte localassim consignou (e-STJFls. 456/458):
+Ultrapassada tal quaestio, passa-se, então, à análise do valor fixado a título de reparação pelos danos morais causados, aspecto acerca do qual ambas as partes manifestaram descontentamento. Não se olvida que, como cediço, do quantum indenizatório pelos danosimateriais não há parâmetros previstos na legislação, motivo pelo qual sua estipulação deve se dar consoante ao livre convencimento motivado do Juiz, devendo-se, sobretudo, enfocar a situação financeira dos contendores - vez que obstado o enriquecimento sem causa -, o grau de culpa com que se houve a ofensora e, por outro lado, que a verba indenizatória seja suficiente a impedir a continuidade da prática do ato ilícito, vez que também possui caráter educativo.  .. Feitas tais digressões, considerando-se que o valor indenizatório deve obedecer aos parâmetros da razoabilidade e da proporcionalidade e sua fixação deve levar em consideração as particularidades do processo, bem como as premissas da inexistência de enriquecimento indevido, o grau de culpa e as condições financeiras das partes, analisando-se, ainda, o caráter pedagógico da pena, possível a redefinição da verba originária (R$ 10.000,00) para R$ 3.000,00 (três mil reais), tal como pretendido pela requerida, restando prejudicada, assim, a pretensão majoratória deduzida pela autora.
+E quanto a segunda controvérsia, a alegada violação ao art. 506 do CPC, o Tribunal de origem, em sede de embargos de declaração,assim ressaltou (e-STJ Fl. 486):
+A propósito, frisa -se, não se há falar que a coisa julgada de lide distinta tenha sido utilizada a título de prejudicar terceiros, como induz a embargante ao invocar o art. 506 do CPC, porquanto, no caso em testilha, o que se considerou foi, tão somente, o impacto específico da negativação comandada pela requerida, em razão da preexistência de anotações indevidas, até porque única a moral da autora.
+Da leitura dos trechos acima transcritos, observa-se que a alteração das conclusões adotadas pela Corte de origem,considerando as particularidades da hipótese, demandaria novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ, inclusive em harmonia com o entendimento desta Corte.
+Nesse sentido, mutatis mutandis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CADASTRO DE INADIMPLENTES. INSCRIÇÃO INDEVIDA. DANO MORAL. DECISÃO DA PRESIDÊNCIA DO STJ. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA N.284/STF. VALOR DA INDENIZAÇÃO. PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS.INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. A deficiência na fundamentação do especial, de modo a impedir a exata compreensão da controvérsia, obsta seu conhecimento (Súmula n.284/STF).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. Somente em hipóteses excepcionais, quando irrisório ou exorbitante o valor da indenização por danos morais arbitrado na origem, a jurisprudência desta Corte permite o afastamento do referido óbice, para possibilitar a revisão. No caso, o valor estabelecido pelo Tribunal de origem não se mostra irrisório, a justificar sua reavaliação em recurso especial.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1790112/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 07/06/2021, DJe 14/06/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação aos artigos 489 e 1.022 do CPC/15.
+Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pelo recorrente, decidindo de modo integral a controvérsia posta.Precedentes.
+2. Na hipótese, o Tribunal de origem concluiu pela ausência de dano moral, ante a existência de inscrições prévias em cadastros de restrição ao crédito.
+2.1. A ocorrência de inscrições pretéritas em cadastro de inadimplentes obsta a concessão de indenização por dano moral em virtude de inscrição posterior, ainda que esta seja irregular.Súmula 385 do STJ.
+2.2. Acórdão recorrido em consonância com a jurisprudência desta Corte, a atrair a incidência da Súmula 83 do STJ, aplicável para ambas as alíneas do permissivo constitucional.
+2.3. A falta de comprovação de irregularidade nas inscrições anteriores, conforme concluiu o Tribunal a quo, não pode ser revista em sede de recurso especial, por demandar reexame de provas. Súmula 7/STJ. Precedentes.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1772584/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 31/05/2021, DJe 04/06/2021)
+Frise-se que o STJ apenas toma os fatos conforme delineados pelo Tribunal a quo, de maneira que incursão nesta seara implicaria ofensa aos referidos óbices sumulares.
+Impossível, portanto, desconstituir as premissas adotadas, não havendo se falar, inclusive, em mera revaloração dos fatos comprovados.
+No tocante a terceira controvérsia, a Corte local entendeu, em suma, que "Não se olvide, inclusive, que apesar da embargante sustentar que o parcial provimento do recurso da requerida daria ensejo ao arbitramento da verba em favor do seu patrono, a alegação contraria o entendimento sedimentado no Superior Tribunal de Justiça, no sentido de que "não cabe a condenação ao pagamento de honorários advocatícios recursais de sucumbência no caso de parcial provimento ao recurso" (AgInt no AREsp nº 141789/MS, Relator: Min. Marco Aurélio Bellizze, Terceira Turma, j. 19/08/2019 - grifou-se)." (e-STJ Fls. 487/488) -g.n.
+Reanalisando os autos,conclui-se que, conforme constou da decisão agravada,efetivamente arecorrenteem seu recurso especial apresentourazõesdissociadas dos fundamentos utilizados no aresto impugnado, deixando deimpugnar, de forma clara, específica, objetiva e consistente, o referidofundamento, aplicável, portanto, o óbice da Súmula n. 284/STF.
+Convém ressaltar, queesta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal" (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018).
+Assim, resta patente que a pretensão darecorrentenão merece guarida, devendo ser mantida a decisão agravada em virtude dos referidos fundamentos.
+Por ora, igualmente, deixo de aplicar a sanção requerida em sede de impugnação ao presente recurso, advertindo-se a parte de que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É o voto.
