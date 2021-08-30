@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de recurso especialinterposto pela FAZENDA NACIONALfundadonaalínea"a"do permissivo constitucionalcontra acórdão do Tribunal Regional Federal da 5ª Regiãoassim ementado (e-STJ fls. 200):
+PROCESSUAL CIVIL. EXECUÇÃO. FISCAL. DECISÃO INTERLOCUTÓRIA DETERMINANDO O CUMPRIMENTO DE DILIGÊNCIA, ESTA NÃO CUMPRIDA. INTERPOSIÇÃO DE APELAÇÃO CONTRA A REFERIDA DECISÃO. EXTINÇÃO DO FEITO.
+1. A sentença extinguiu o processo, sem resolução do mérito (art. 267,III, do, CPC)
+2. A exequente não cumpriu as. diligências necessárias ao andamentodo feito, interpondo, inclusive, recurso incabível contra a decisão. interlocutória (agravo no lugar de apelação) Não, tendo apresentado recurso correto contra a decisão interlocutória,esta restou preclusa, impassível de discussão em razão da ausência- de interposição de recurso pela parte sucumbente.
+3. Transcorrido o prazo concedido para o Cumprimento da diligência, com a incabível Oposiçãode apelação contra uma decisãointerlocutória (erro grosseiro), impõe-sea extinção do processo sem resoluçãode mérito.
+4. Apelação não-provida.
+Rejeitados os aclaratórios (e-STJ fls. 209/215).
+Nas suas razões, arecorrente aponta violação dos arts. 458, II e 535, II do CPC/1973 e aos arts.267, III, § 1º, do CPC/1973 e 156 do CTN.
+Argui para tanto que "quanto a intimação da União paraindicar o endereçoda executada, omisso o julgado quanto ao fatode que a União federal já atendeu tal determinação às fls. 143. e 152, pois, devemos considerarque, o único meio de consulta, inclusive,aceita pelo Judiciário, é oHOD, que é o registro fazendário Oficial (já acostado às fls. 144).Nele consta mais informações fazendárias alimentadas, tanto pelo próprio contribuinte, ao enviar suas declarações como aquelas alimentadas pela Receita Federal" (e-STJ fl. 226).
+Afirma, ainda, que "tampouco, houve a realização do procedimento previsto no § 1º do inciso III do art. 267 do CPC, que exige a intimação pessoal para suprir a falta em 48 horas" (e-STJ fl. 227).
+Sem contrarrazões, o recurso foiinadmitido na origem (e-STJ fl. 233).
+Passo a decidir.
+Inicialmente, destaco que o Plenário do STJ decidiu que "aos recursosinterpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos deadmissibilidade na forma nele prevista, com as interpretações dadas atéentão pela jurisprudência do Superior Tribunal de Justiça" (EnunciadoAdministrativo n. 2, sessão de 09/03/2016).
+Dito isso, cumpre registrar que o magistrado de primeiro grau extinguiu a execução fiscalporque a relação processual não se formou por inércia da credora em indicar endereço correto completo e atual do executado, mesmo após ser intimada pessoalmente (e-STJ fls. 179). Ademais, interpôsapelação ao invés de agravocontra a decisão interlocutória de e-STJ fl. 165, de forma que suas alegações não foram conhecidas.
+Por sua vez, o Tribunal Regionalmanteve a sentença, adotando o seguinte fundamento (e-STJ fl. 198):
+Nas razões recursais, alega-seque a recorrente cumpriu todas as diligências necessárias, devendo ser dado prosseguimento ao executivo fiscal.
+Não lhe assiste razão.
+As bem elaboradas motivações esposadaspelo ilustre Magistrado singular,em sua r. sentença à fl. 167, encontram-se em perfeita harmonia comaposição deste Relator, pelo que as transcrevo como razões de decidir:
+"4. Ao analisar os autos, observoque a parte exequente não cumpriu(s) diligência(s) necessária(s) ao andamento do feito, ressaltando, inclusive, que o "recurso cabível contra a decisão- de fl.157 seria o-agravo (art. 522, CPC), razão pela qual deixo de analisar os requisitos para a interposição da apelação de fls. 160/164. Acrescento, assim, que não tendo apresentado recurso contra a decisão de fl.157, esta restou preclusa, ouseja, impassível, de discussãoem razão da- ausência de interposição de recurso pela parte. sucumbente.
+5. "Transcorrido o prazo concedido para o "cumprimento de diligência(s), com a absurda interposição de apelação" contra uma decisão (o que considero, erro grosseiro), impõe-se aextinção do processo sem resolução de mérito, ressaltando que caso a parte executada manifeste posterior interesse, poderá a exequente ajuizar nova açãode execução.
+DISPOSITIVO.
+6. De acordo com as razões acima esposadas, DECLARO o presente processoEXTINTO sem, resolução de mérito, nos termos do art.. 267, III, do Código de Processo Civil."
+Assim, corroboro, na íntegra, as assertivas desenvolvidas no decisório supra, sendo, pois, desnecessáriosquaisquer acréscimos ao acima delineado.
+Diante disso, nego provimento à apelação.
+Pois bem.
+Conforme a regra estabelecida pelo art. 8º da Lei n. 6.830/1980, "a citação por edital, na execução fiscal, somente é cabível quando não exitosas as outras modalidades de citação ali previstas: a citação por correio e a citação por Oficial de Justiça" (REsp 1.103.050/BA, rel. Ministro Teori Albino Zavascki, Primeira Seção, DJe 6/4/2009).
+Porém, a ausência de indicação do endereço da parte executadaou o fornecimento incompletonão autoriza a regular tramitação do feito executivo, devendo a Fazenda Pública sanar essa deficiência.
+Na hipótese dos autos, o acórdão recorrido consignou que o ente fazendário foi intimadopara indicar o endereço da parte executada, mas permaneceu inerte, inclusive interpondo recurso inadequado contra a decisão que determinou o cumprimento da diligência. Ao extinguir o feito sem resolução de mérito, atuou em harmonia com a orientação da jurisprudência do Superior Tribunal de Justiça.
+A respeito:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EXECUÇÃO FISCAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. ABANDONO DE CAUSA. INTIMAÇÃO PESSOAL DA FAZENDA PÚBLICA PARA DEMONSTRAR INTERESSE NO PROSSEGUIMENTO DO FEITO. PARTE QUE SE MANTÉM INERTE.
+ ..
+3. Havendo a intimação pessoal do representante da Fazenda para dar prosseguimento ao feito e permanecendo ele inerte, cabe ao juiz determinar a extinção do processo, sem julgamento de mérito, por abandono de causa.
+4. Recurso Especial não provido.
+(REsp 1.616.495/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 20/09/2016, REPDJe 1º/12/2016, DJe 10/10/2016).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PROCESSO. ABANDONO. EXTINÇÃO SEM JULGAMENTO DE MÉRITO. ART. 267, III, DO CPC. SÚMULA 240/STJ. INAPLICÁVEL DIANTE DE EXECUÇÕES NÃO EMBARGADAS. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO.
+1. Agravo regimental interposto contra decisão que negou provimento ao agravo de instrumento por manter o entendimento do acórdão recorrido, que extinguiu ação de execução fiscal com fundamento na regra geral contida no art. 267, III, do CPC, e por compreender ser inaplicável a Súmula 240/STJ, em razão de se tratar de execução não embargada.
+2. O caso dos autos respeita, consoante acórdão recorrido, execução fiscal que passou por diversas suspensões, em razão da ausência de bens do executado passíveis de serem penhorados. Intimada a Fazenda para se manifestar sobre o executivo, deixou transcorrer, in albis, prazo superior a 30 (trinta) dias sem promover os atos e diligências necessárias que lhe competia. Configurado o abandono de causa, houve-se extinguir a ação de execução fiscal com base no art. 267, III, do CPC.
+3. As Turmas de Direito Público do STJ são firmes no sentido de que é "viável a extinção do processo de execução fiscal com base no art.267, III, do CPC, haja vista a possibilidade da sua aplicação subsidiária àquele procedimento" (Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 4/2/2009). E ainda: "Havendo a intimação pessoal do representante da Fazenda, para dar prosseguimento ao feito, permanecendo ele inerte, cabe ao juiz determinar a extinção do processo, sem julgamento de mérito, por abandono de causa" (AgRg no REsp 644.885/PB, Rel. Ministro Humberto Martins, Segunda Turma, DJe 8/5/2009).
+4. A exegese deste Tribunal é no sentido de que é inaplicável a Súmula 240/STJ quando, " e m suma, tratando-se de execução não embargada, o abandono da causa pode ser causa de extinção, de ofício, do processo, independentemente de requerimento, anuência ou ciência da parte contrária. Em outras palavras, caracterizada, nos termos do art. 267-III, CPC, a desídia ou negligência do credor, único interessado na execução, admissível a extinção do processo, independentemente de provocação" (REsp 261.789/MG, Quarta Turma, Rel. Min. Sálvio de Figueiredo Teixeira, DJU de 16.10.2000). Precedentes: REsp 1.057.848/SP, Rel. Ministro Teori Albino Zavascki, Primeira Turma, DJe 4/2/2009; REsp 770.240/PB, Rel. Ministro Luiz Fux, Primeira Turma, DJ 31/5/2007; AgRg no REsp 644.885/PB, Rel. Ministro Humberto Martins, Segunda Turma, DJe 8/5/2009; AgRg no Ag 1.093.239/RS, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 15/10/2009;
+5. Não configurado o alegado dissídio jurisprudencial porquanto dos paradigmas colacionados não é possível inferir similitude fática com o caso em apreço.
+6. Agravo regimental não provido.
+(AgRg no Ag 1.259.579/AP, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/09/2010, DJe 07/10/2010).
+Incide, por conseguinte, o óbice da Súmula 83 do STJ, igualmente aplicável quanto à interposto do apelo pela alínea "a" do permissivo constitucional.
+Ademais, concluir a respeito da existência de inércia ou não da ora recorrente quanto à diligência determinada nos autos demandaria reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Sem arbitramento de honorários sucumbenciais recursais (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado n. 7 do STJ.
+Publique-se. Intimem-se.
