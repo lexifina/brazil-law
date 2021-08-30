@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL, com respaldonaalínea"a" do permissivo constitucional, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO assim ementado (e-STJ fl. 152):
+Acidente do Trabalho Reexame da matéria, nos termos do art. 1.040, inciso II, do Código de Processo Civilreapreciação da aplicação da Lei nº 11.960/09 em razão do julgamento do mérito do REsp nº 1.492.221/PR Tema nº 905 do STJ apreciação da matéria com enfoque quanto à aplicação das teses firmadas no Tema nº 810 do STF, emespecial, quanto a utilização do IPCA-E como índice de correção monetária Provimento mantido.
+Em suas razões, o recorrente aponta afronta aos arts. 502, 505 e 509, § 4º, do CPC/2015, postulando a aplicação da Taxa Referencial - TR na atualização monetária até março de 2015, em obediência à coisa julgada.
+Contrarrazões (e-STJ fls. 144/147).Juízo positivo de admissibilidade pelo Tribunal de origem àse-STJ fls. 161/162.
+Passo a decidir.
+No tocante à pretensão dereconhecimento da coisa julgada, verifico que o tema não foi decidido pela Corte de origem, nem após a oposição dosaclaratórios (e-STJ fls. 126/129), o que faz carecer o especial do indispensável requisito do prequestionamento. Incidência da Súmula 211 desta Corte.
+Ressalte-se, por oportuno, não ser aplicável à espécie o prequestionamento ficto, poiso recurso especial não formulou o pedido de nulidade do acórdão recorrido por violação do art. 1.022 do CPC/2015, que é requisito para sua admissão (art. 1.025 do CPC/2015), na esteira da orientação jurisprudencial desta Corte.
+A propósito:
+PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ.
+1. É inadmissível Recurso Especial quanto à questão (art. 21, parágrafo único, do CPC/1973) que, a despeito da oposição de Embargos Declaratórios, não foi apreciada pelo Tribunal de origem. Incidência da Súmula 211/STJ.
+2. De acordo com a jurisprudência do STJ, "a admissão de prequestionamento ficto (art. 1.025 do CPC/2015), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/2015, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei" (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, Terceira Turma, DJe 10/4/2017).
+3. Ademais, o acórdão hostilizado consignou que a matéria devolvida na Apelação voluntária do ente público era restrita à discussão: a) quanto ao caráter confiscatório da multa, e b) da perda de interesse processual, depois da superveniência de lei local que reduziu a multa de 200% para 100%. Assim, ao negar provimento à Apelação e manter "incólumes todos os termos da sentença guerreada" (fl. 159, e-STJ), a Corte regional dá a entender que a divisão equânime dos encargos sucumbenciais fora definida já na sentença do juízo de primeiro grau, sem impugnação no recurso voluntário interposto pelo ente público - situação que gera preclusão contra o ente fazendário.
+4. Recurso Especial não conhecido.
+(REsp 1.812.100/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 11/06/2019, DJe 17/06/2019) (Grifos acrescidos).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
