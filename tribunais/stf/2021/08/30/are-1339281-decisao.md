@@ -1,0 +1,16 @@
+Trata-se de agravo interposto por Matheus Mocelin de Jesus contra decisão por meio da qual foi negado seguimento ao recurso extraordinário sob os seguintes fundamentos: (i) ausência de prequestionamento da questão constitucional suscitada, o que atrai a aplicação da Súmula 282 desta Corte; (ii) eventual ofensa ao texto constitucional seria apenas reflexa; e (iii) incidência da Súmula 279/STF no caso dos autos (págs. 68-69 do documento eletrônico 20).
+    O agravo não merece acolhida, dado que o recorrente deixou de atacar o fundamento da decisão agravada referente à incidência, na espécie, da Súmula 279 deste Tribunal (págs. 3-17 do documento eletrônico 21).
+    Com efeito, incumbe ao agravante o dever de impugnar, de forma específica, todos os fundamentos da decisão recorrida, sob pena de negativa de seguimento ao recurso. Inescusável, portanto, a deficiência na elaboração da peça recursal, o que faz incidir o teor da Súmula 287/STF. Com esse entendimento, menciono julgados de ambas as Turmas desta Corte cujas ementas transcrevo a seguir:
+    “Agravo regimental no recurso extraordinário com agravo. Matéria criminal. Razões do agravo que não atacam todos os fundamentos da decisão agravada. Inadmissibilidade. Súmula nº 287 desta Corte.
+    1. Inviável o recurso que não ataca os fundamentos da decisão agravada. Incidência da Súmula nº 287 desta Corte.
+    2. Agravo regimental não provido” (ARE 639.283-AgR/RS, Rel. Min. Dias Toffoli, Primeira Turma).
+    “AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL E PROCESSUAL PENAL. CRIME DE TRÁFICO ILÍCITO DE ENTORPECENTES. ARTIGO 33, CAPUT, DA LEI 11.343/2006. AGRAVO QUE NÃO ATACA OS FUNDAMENTOS DA DECISÃO QUE, NA ORIGEM, INADMITIU O RECURSO EXTRAORDINÁRIO. SÚMULA 287 DO STF. INCIDÊNCIA. AGRAVO INTERNO DESPROVIDO” (ARE 1.243.756-AgR/SP, Rel. Min. Luiz Fux, Primeira Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. 1. Ausência de impugnação dos fundamentos da decisão de inadmissibilidade do recurso extraordinário. Súmula n. 287 do Supremo Tribunal Federal. 2. Ausência da preliminar formal de repercussão geral: inviabilidade da análise do recurso extraordinário. 3. Não ocorrência da prescrição. Novo marco interruptivo decorrente de acórdão de segunda instância que majora a pena, com repercussão no cálculo prescricional. Precedentes. 4. Agravo regimental ao qual se nega provimento” (ARE 760.280-AgR/PE, Rel. Min. Cármen Lúcia, Segunda Turma).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO CRIMINAL COM AGRAVO. DEVER DE IMPUGNAR TODOS OS FUNDAMENTOS DA DECISÃO DO JUÍZO DE ORIGEM QUE INADMITE O RECURSO EXTRAORDINÁRIO. INOBSERVÂNCIA. INCIDÊNCIA DA SÚMULA 287 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+    I – É deficiente a fundamentação do agravo cujas razões não atacam especificadamente todos os fundamentos da decisão do Juízo de origem que não admite o recurso extraordinário. Incidência da Súmula 287/STF.
+    II – Agravo regimental a que se nega provimento” (ARE 1.228.198-AgR/SP, de minha relatoria, Segunda Turma).
+    Isso posto, nego seguimento ao recurso (art. 21, § 1°, do RISTF).
+    Publique-se.
+    Brasília, 30 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
