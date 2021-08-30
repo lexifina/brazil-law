@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de RENILSON DE JESUS ALVESapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.21.021507-5/000).
+Depreende-se dos autos que o paciente foipreso preventivamente pela prática, em tese, dos delitos capitulados noart. 157, § 2º, II, c/c o §2º-A, I, e nos arts.132, 311 e 330, todos do Código Penal (roubo majorado, exposição da vida de outrem a perigo direto e iminente, adulteração de sinal identificador de veículo automotor e desobediência).
+A defesa impetrou préviowritno Tribunal de origem, que denegou a ordem em acórdão cuja ementa foi assim definida (e-STJ fl. 32):
+HABEAS CORPUS - ROUBO MAJORADO - CONVERSÃO DA PRISÃO EM FLAGRANTE DO PACIENTE EM SEGREGAÇÃO PREVENTIVA - DECISÃO A QUO FUNDAMENTADA - PRESENÇA DOS REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR (ART. 312 E ART. 313, I, AMBOS DO CÓDIGO DE PROCESSO PENAL) - INDÍCIOS SUFICIENTES DE AUTORIA E MATERIALIDADE DO DELITO - GARANTIA DA ORDEM PÚBLICA - PENA MÁXIMA COMINADA SUPERIOR A QUATRO ANOS - ALEGAÇÃO DE AFRONTA AO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA - CONDIÇÕES PESSOAIS DO PACIENTE -NÃO CABIMENTO. - Não há que se falar em constrangimento ilegal se a decisão que converteu a prisão em flagrante do paciente em segregação preventiva encontra-se devidamente fundamentada, demonstrando a necessidade de garantia da ordem pública. - Presentes os requisitos previstos no art. 312 do Código de Processo Penal, é possível a manutenção da custódia cautelar quando se tratar de crime punido com pena máxima superior a quatro anos de reclusão, conforme ocorre no caso em análise (art. 313, inciso I, do Código de Processo Penal). - Não há que se falar em afronta ao princípio constitucional da presunção de inocência se observada a excepcionalidade do cárcere, subordinada à necessidade concreta, real, efetiva e fundamentada de sua manutenção. - As condições favoráveis do paciente não são suficientes para lhe garantir a liberdade provisória, mormente quando presentes outras circunstâncias autorizadoras da cautela.
+Daí o presentewrit, no qual alega a defesa a nulidade da decretação da prisão do paciente pela ausência de realização de audiência de custodia, bem como porque adecisão que decretou a prisão preventiva do paciente careceria de fundamentação idônea.
+Assim, requer, liminarmente, a expedição de alvará de soltura em favor do agente.
+O pedido liminar foi indeferido (e-STJ fls. 155/156).
+Prestadas as informações pelas instâncias ordinárias (e-STJ fls. 159/421), oMinistério Público Federal manifestou-se pela denegação da ordem (e-STJ fls. 426/433).
+É, em síntese, o relatório.
+Decido.
+Em consulta ao andamento processual da ação penal na origem,realizada no sítio eletrônico do Tribunal estadual, apurou-se a superveniência de expedição de alvará de solturaem favor do ora paciente.
+Assim, é forçoso o reconhecimento de perda de objeto da presente impetração.
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça,julgo prejudicadoowrit.
+Publique-se. Intimem-se.
