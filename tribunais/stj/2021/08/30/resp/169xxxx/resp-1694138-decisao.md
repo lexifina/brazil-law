@@ -1,0 +1,16 @@
+DECISÃO
+TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. IRPJ E CSLL. CANCELAMENTO ADMINISTRATIVO DO CRÉDITO TRIBUTÁRIO. FALTA DE INTERESSE DE AGIR SUPERVENIENTE. PERDA DO OBJETO. RECURSOS ESPECIAIS DA FAZENDA NACIONAL E DA SOCIEDADE EMPRESARIAL PREJUDICADOS.
+1. Trata-se de dois recursos especiais, o primeirointerposto por RIO GUAÍBA SERVIÇOS RODOVIÁRIOS LTDA., e o segundopela FAZENDA NACIONAL, ambos com fundamento no art. 105, III, a, da CF/1988, contra acórdãoproferido pelo Tribunal Regional Federal da 4ª Região, cuja ementa é a seguinte:
+MANDADO DE SEGURANÇA. LUCRO PRESUMIDO. LANÇAMENTODE OFÍCIO. DECADÊNCIA. PERCENTUAIS INCIDENTES SOBRE ARECEITA. NECESSIDADE DE CONSIDERAÇÃO DASCARACTERÍSTICAS ESPECÍFICAS DAS ATIVIDADES.1. Tendo o contribuinte apurado os tributos devidos e submetido o recolhimento à homologação fiscal, o Fisco dispõe do prazo de cinco anos, contados da data do fato gerador, para revisar as declarações prestadas e, se for o caso, efetuar o lançamento suplementar, sob pena de restar tacitamente homologado o pagamento.2. Os percentuais incidentes sobre a receita bruta para apuração do lucro presumido não são discricionariamente definidos pela legislação; antes, decorrem de uma aproximação dos custos incorridos para a geração daquela receita, sendo imprescindível que, no exame da alíquota aplicável, atente-se às peculiaridades de cada tipo de atividade desenvolvida.(fl. 1678).
+2. Aos embargos de declaração opostos, negou-se provimento (fls. 1.710/1.716).
+3. Em seu recurso especial (fls. 1.731/1.744),RIO GUAÍBA SERVIÇOS RODOVIÁRIOS LTDA. discorre sobre a violação dos arts. 15 e 20 da Lei 9.249/1995 e arts. 142 e146 do CTN.
+4. Por sua vez, às fls. 1.724/1.729, a Fazenda Nacional alegou ofensa ao art. 1.022, II, do CPC/2015e arts. 15, § 1º, II,a, e III, e, e 20 da Lei 9.249/1995.
+5. Por parecer de fls. 1.796/1.800, o Ministério Público Federal opina pelo não conhecimento do recurso especial da contribuinte, e pelo parcial conhecimento e, neste ponto, pelo não provimento do recurso especial do ente fazendário.
+6. É o relatório.
+7. Na origem, trata-se de mandado de segurança objetivando obstar a cobrança decréditos tributários de IRPJ e CSLL apurados nos autos do processo administrativo 11080-732.394/2014-46.
+8. Por petição de fls. 1.803/1.809, Rio Guaíba Serviços Rodoviários Ltda., impetrante,noticia que os créditos tributários de IRPJ e CSLL, em discussão nos presentes autos, foram integralmente cancelados pela Receita Federal do Brasil, fato não impugnado pela Fazenda Nacional.
+9. Sendo inconteste o cancelamento administrativo dos créditos tributários sub judice, resta evidenciada a falta de interesse de agir superveniente, pois descabe discutir questões jurídicas que não mais subsistem no quadro fático.
+10. Nesse cenário, impõe-se extinguir ofeito, sem resolução de mérito, nos termos do art. 485, VI, do CPC/2015, o que resultana perda do objeto dos recursos especiais interpostos.
+11.Diante do exposto, conforme o art. 34, XI, do RISTJ, considero prejudicados osRecursos Especiais da Fazenda Nacional e da sociedade empresarialpor perda superveniente do objeto, e julgo extinto o feito sem resolução do mérito, nos termos do art. 485, VI, do CPC/2015.
+12. Publique-se.
+13. Intimações necessárias.
