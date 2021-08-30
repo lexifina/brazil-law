@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CARLOS DIEGO GOES DE JESUScontra decisão, de minha relatoria, que negou provimento ao recurso em habeas corpus.
+Sustenta o embargante que há omissão na decisão embargada, eis que não teria havido manifestação "sobre afundamentação que amparou a prisão preventiva do paciente na Garantia da vida da vítima, inexistente no crime de tráfico de drogas, que não emprega violência ou grave ameaça à pessoa, restando evidenciado formulas padronizadas desvinculada do caso concreto que revela o constrangimento ilegal.
+Requer o acolhimentos dos aclaratórios para que se regularize a omissão apontada.
+É o relatório.
+Decido.
+Segundo jurisprudência desta Corte, "são cabíveis embargos de declaração quando, no acórdão embargado, houver ambiguidade, obscuridade, contradição ou omissão, a teor do disposto no art. 619 do Código de Processo Penal. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência" (EDcl no REsp 1.524.525/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 08/02/2018, DJe 21/02/2018).
+Na hipótese, não há se falar em omissão, na medida em que a decisão embargada analisou a prisão preventiva, entendendo que estava suficientemente fundamentada pelo risco de reiteração delitiva do agente, conforme assentado pelas instâncias ordinárias.
+Ora, "nos moldes do entendimento deste Sodalício, o magistrado, ao apreciar a contenda, deve apresentar as razões que o levaram a decidir desta ou daquela maneira, apontando fatos, provas, jurisprudência, aspectos inerentes ao tema e a legislação que entender aplicável ao caso, porém não é obrigado a se pronunciar, ponto a ponto, sobre todas as teses elencadas pelas partes, desde que haja encontrado razões suficientes para decidir" (HC 370.708/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/10/2016, DJe 21/10/2016 e AgRg no AREsp 1577361/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 04/02/2020, DJe 10/02/2020).
+In casu, aquestão encontra-se assim fundamentada:
+" ..  De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que o decreto preventivo está suficientemente motivado na garantia da ordem pública, haja vista a reiterada conduta delitiva do agente.
+Conforme posto, o recorrente já responde a outro processo por crime patrimonial (roubo majorado - AP n. 0539780-42.2018.8.05.0001), tendo sido surpreendido, nesta ocasião, na posse de 34,94g de cocaína.
+Assim, "a persistência do agente na prática criminosa justifica, a priori, a interferência estatal com a decretação da prisão preventiva, nos termos do art. 312 do CPP, porquanto esse comportamento revela uma periculosidade social e compromete a ordem pública" (RHC 118.027/AL, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 08/10/2019, DJe 14/10/2019).
+No mesmo sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. INSUFICIÊNCIA E INADEQUAÇÃO. DENEGADA A ORDEM.
+1. A prisão preventiva possui natureza excepcional, sempre sujeita a reavaliação, de modo que a decisão judicial que a impõe ou a mantém, para compatibilizar-se com a presunção de não culpabilidade e com o Estado Democrático de Direito - o qual se ocupa de proteger tanto a liberdade individual quanto a segurança e a paz públicas -, deve ser suficientemente motivada, com indicação concreta das razões fáticas e jurídicas que justificam a cautela, nos termos dos arts. 312, 313 e 282, I e II, do Código de Processo Penal.
+2. Conquanto não seja elevada a quantidade de droga apreendida, são idôneos os motivos apontados para justificar a prisão preventiva do paciente, por evidenciarem o risco de reiteração delitiva, visto que, cerca de trinta dias após haver sido beneficiado com a concessão de liberdade provisória, o acusado foi novamente preso em flagrante, pela suposta prática de delito de mesma natureza, e já registra condenação criminal na ação penal relativa a tais fatos, circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para a imposição da custódia provisória.
+3. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar o cometimento de novas infrações penais (art. 282, I, do Código de Processo Penal).
+4. Denegada a ordem."
+(HC 511.692/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/09/2019, DJe 01/10/2019)."
+Assim, não há se falar na existência de quaisquer vícios na decisão embargada.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
