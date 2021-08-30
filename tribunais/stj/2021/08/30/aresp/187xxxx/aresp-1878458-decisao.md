@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo em recurso especial apresentado contra decisão que inadmitiu apelo nobre interposto com fundamento no art. 105, inciso III,"a" e "c", da Constituição Federal.
+De início, cumpre ressaltar que o Tribunal de origem, ao realizar o juízo de admissibilidade do recurso especial, deve analisar os pressupostos específicos e constitucionais concernentes ao mérito da controvérsia, não havendo que se falar em usurpação da competência do STJ. Nesse sentido: AgRg no AREsp 173.359/AM, rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 17/03/2015, DJe 24/03/2015, e AgInt no AREsp 933.131/SP, rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 25/10/2016, DJe 27/10/2016.
+Dito isso, mediante análise dos autos, verifico que a inadmissão do especial se deu com base na incidência da Súmula 7 do STJ.
+Embora tenha a parte agravante impugnado especificamente esse fundamento, entendo que, no caso concreto, a pretensão deduzida no recurso especial não ultrapassa a esfera do conhecimento, conforme ressaltado na decisão agravada, esbarrando, pois, no mencionado óbice.
+De fato, o acórdão recorrido concluiu que (e-STJ fl. 406):
+Em relação ao período "b" (04/02/1983 a 12/01/1999)somente pode ser enquadrado como especial o subintervalo de 04/02/1983 a 05/03/1997, quando ultrapassado o limite de tolerância ao agente agressivo ruído de 80 dB (códigos 1.1.6 do Quadro Anexo ao Decreto nº 53.831/1964 e 1.1.5 ao Anexo I do Decreto nº 83.080/1979).
+O período "c" (13/01/1999 a 10/09/2002), por sua vez, não se enquadra como especial por não ter sido extrapolado o limite de exposição ao ruído de 90 dB (código 2.0.1 do Anexo IV aos Decretos nº 2.172/1997 e 3.048/1999).
+Assim, a alteração dessa conclusão demandaria o reexame fático-probatório dos autos, inviável em sede de recurso especial, ateor da Súmula 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO.APOSENTADORIA. EXPOSIÇÃO A RUÍDO INFERIOR A 90 DECIBÉIS ENTRE 6/3/1997 E 18/11/2003. APLICAÇÃO DA LEI VIGENTE À ÉPOCA DA PRESTAÇÃO DO SERVIÇO. RECONHECIMENTO DE ATIVIDADE ESPECIAL. NÃO CARACTERIZAÇÃO. ALTERAÇÃO DO ACÓRDÃO. SÚMULA 7/STJ.
+1. "O limite de tolerância para configuração da especialidade do tempo de serviço para o agente ruído deve ser de 90 dB no período de 6.3.1997 a 18.11.2003, conforme Anexo IV do Decreto 2.172/1997 e Anexo IV do Decreto 3.048/1999, sendo impossível aplicação retroativa do Decreto 4.882/2003, que reduziu o patamar para 85 dB, sob pena de ofensa ao art. 6º da LINDB (ex-LICC)." (REsp 1.398.260/PR, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 5.12.2014, julgamento submetido ao regime do art. 543-C do CPC e da Resolução STJ 8/2008).
+2. Desse modo, na conversão de tempo de serviço especial, no caso de exposição a ruído, o Tribunal de origem deve observar a legislação vigente à época da prestação dos serviços.
+3. Hipótese em que o acórdão recorrido concluiu que a parte autora esteve exposta a ruído inferior a 90dB no período de 6/3/1997 a 18/11/2003, o que descaracteriza o exercício de atividade especial.
+4. Logo, o decisum impugnado está em sintonia com o entendimento do STJ de que a lei que rege o tempo de serviço é aquela vigente no momento da prestação do labor.
+5. Acrescente-se que, para acatar os argumentos da parte recorrente e infirmar as conclusões da Corte de origem, necessário seria ao STJ reexaminar o conjunto fático-probatório, o que encontra óbice na Súmula 7/STJ.
+6. Agravo Interno não provido.(AgInt no AREsp 1715494/PR, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 15/03/2021, DJe 19/03/2021).
+Por fim, quanto ao recurso especial interposto com base na alínea "c" do permissivo constitucional, a análise do dissídio jurisprudencial está prejudicada em razão da aplicação da Súmula 7 do STJ.
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
