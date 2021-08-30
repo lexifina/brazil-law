@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de Conflito Negativo de Competência instaurado entre o Juízo Federal da 1ª Vara de Toledo - SJ/PR e a Quarta Turma Recursal dos Juizados Especiais do Estado do Paraná, nos autos de Ação em que se pleiteia o fornecimento de medicamento registrado na Anvisa.
+Dispensei a manifestação do Ministério Público por se tratar de questão conhecida no Superior Tribunal de Justiça.
+É o relatório.
+Decido.
+Com efeito, nos termos da Súmula 150/STJ, "Compete a Justiça Federal decidir sobre a existência de interesse jurídico que justifique a presença, no processo, da União, suas autarquias ou empresas publicas."
+Também é necessário observar, in casu, o disposto no art. 45, § 3º, do CPC ena Súmula 224/STJ: "Excluído do feito o ente federal, cuja presença levara o Juiz Estadual a declinar da competência, deve o Juiz Federal restituir os autos e não suscitar conflito."
+Dessarte, tendo o Juízo Federal decidido pela inexistência de litisconsórcio passivo necessário, determinando, por via de consequência, a exclusão da União do polo passivo, caberá a esse Juízo Federal devolver os autos para a Justiça Estadual, e não suscitar conflito de competência, nos exatos termos da supracitada Súmula 224/STJ.
+Ante o exposto, não conheço do Conflito de Competência.
+Publique-se.
+Intimem-se.
