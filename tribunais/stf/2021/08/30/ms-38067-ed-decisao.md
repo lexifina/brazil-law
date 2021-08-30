@@ -1,0 +1,24 @@
+Trata-se de embargos de declaração opostos contra decisão por meio da qual se negou seguimento ao mandado de segurança (documento eletrônico 4).
+    O embargante repisa os argumentos expostos na inicial e discorre sobre a distinção entre coisa julgada material e formal, sustentando que, no caso, a matéria alusiva à prescrição não chegou a ser analisada no ato apontado como coator. Aponta a existência de omissões e contradições, alegando o seguinte:
+    “Ocorre que, permanecendo inerte o Tribunal em avaliar a incidência da prescrição desde quando incidente alinhavada, preferiu o julgador manter-se omisso no julgamento da matéria prejudicial objeto desse último MS que, agora, atingido por novo fundamento, posto que mesmo após inúmeros recursos e questionamentos quanto à matéria prejudicial elencada, até a presente e em face de omissões e contradições que se traduzem nas presentes razões, fizeram concluir com a decisão prolatada nos presentes autos, onde a admissão de que a matéria posta como fundamento fora objeto de transito em julgado em ações antecedentes atraem o óbice da súmula 268, o que por si, constitui omissão e contradição a ser sanada em razão do que alinhavam as presentes razões” (págs. 4-5 do documento eletrônico 8).
+    É o relatório. Decido.
+    Bem reexaminados os autos, verifico que o embargante, a pretexto de sanar supostas omissões e contradições, busca apenas a rediscussão da matéria.
+    Com efeito, o entendimento desta Corte é no sentido de que os embargos de declaração não constituem meio processual adequado para a reforma do decisum, não sendo possível atribuir-lhes efeitos infringentes, salvo em situações excepcionais, o que não ocorre no caso em questão. Nesse sentido, destaco os seguintes precedentes desta Corte:
+    “EMBARGOS DECLARATÓRIOS NO AGRAVO REGIMENTAL NA RECLAMAÇÃO. SÚMULA 287/STF. INEXISTÊNCIA DE ERRO MATERIAL, OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS REJEITADOS.
+    1. Os embargos de declaração não constituem meio hábil para reforma do julgado, sendo cabíveis somente quando houver no acórdão omissão, contradição, obscuridade ou erro material.
+    2. O acórdão recorrido enfrentou as questões suscitadas com a devida fundamentação, ainda que com ela não concorde o ora Embargante.
+    3. Embargos de declaração rejeitados” (Rcl 30.792-AgR-ED/RJ, Rel. Min. Edson Fachin).
+    “PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS NO AGRAVO INTERNO NA RECLAMAÇÃO. INEXISTÊNCIA DE VÍCIOS DE FUNDAMENTAÇÃO NO ACÓRDÃO EMBARGADO. DESNECESSIDADE DE ENFRENTAR TODOS OS ARGUMENTOS DEDUZIDOS, MAS SOMENTE AQUELES CAPAZES DE INFIRMAR, CONCRETAMENTE, A CONCLUSÃO ADOTADA PELO JULGADOR. NÍTIDO CARÁTER INFRINGENTE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+    1. O acórdão embargado não apresenta omissão, contradição, obscuridade ou erro material. O ofício judicante realizou-se de forma completa e satisfatória, não se mostrando necessários quaisquer reparos.
+    2. Não é dever do julgador rebater todos os fundamentos apresentados pela parte, mas somente aqueles que, concretamente, sejam capazes de afastar a conclusão adotada na decisão.
+    3. A parte embargante pretende dar nítido caráter infringente aos declaratórios, os quais não estão vocacionados a essa função, salvo em situações excepcionais, não caracterizadas no caso.
+    4. Embargos de Declaração rejeitados” (Rcl 37.962 AgR-ED/SP, Rel. Min. Alexandre de Moraes).
+    Na espécie, o que se tem é mero inconformismo do embargante com o resultado que não lhe foi favorável. Ao contrário do que sustenta, não há vício a ser sanado, uma vez que a análise do writ foi exauriente, respeitados os estreitos limites desse meio processual.
+    Ademais, a decisão embargada está em consonância com o art. 5°, III, da Lei 12.016/2009 e com a Súmula 268/STF, no sentido de que não cabe mandado de segurança contra decisão judicial com trânsito em julgado.
+    Conforme asseverou o Ministro Celso de Mello, no voto que proferiu no julgamento plenário do MS 32.211-AgR/GO:
+    “Não cabe mandado de segurança contra julgamentos impregnados de conteúdo jurisdicional, não importando se monocráticos ou colegiados, proferidos no âmbito do Supremo Tribunal Federal. É que tais decisões, ainda quando emanadas de Ministro Relator, somente serão suscetíveis de desconstituição mediante utilização dos recursos pertinentes, ou, tratando-se de pronunciamentos de mérito já transitados em julgado, mediante ajuizamento originário da pertinente ação rescisória. Precedentes. A AÇÃO DE MANDADO DE SEGURANÇA NÃO CONSTITUI SUCEDÂNEO DA AÇÃO RESCISÓRIA. - A ação de mandado de segurança – que se qualifica como ação autônoma de impugnação (RTJ 168/174-175, Rel. Min. CELSO DE MELLO) – não constitui sucedâneo da ação rescisória, não podendo ser utilizada como meio de desconstituição de decisões já transitadas em julgado”.
+    Isso posto, rejeito os embargos de declaração.
+    Publique-se.
+    Brasília, 30 de agosto de 2021.
+Ministro Ricardo Lewandowski
+Relator
