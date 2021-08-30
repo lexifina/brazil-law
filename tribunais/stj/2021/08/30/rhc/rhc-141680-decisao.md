@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, sempedido liminar, interposto por HIAGO LUIZ DA SILVA contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, no julgamento do HC n. 5056277-98.2020.4.04.0000.
+Extrai-se dos autos que o recorrente foi preso preventivamente em 9/11/2020, pela suposta prática dos delitos previstos nos arts. 33 e 35, ambos da Lei 11.343/2006 (tráfico de drogas e associação para o tráfico), em razão de investigações que culminaram na Operação Cem Libras, na qual se apura a existência de organização criminosa voltada para a prática do tráfico de entorpecentes, tendo sido apontado como um dos líderes do grupo, com forte influência sobre a logística, transporte e contato com os transportadores, ocupando a função de gerente operacional.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. OPERAÇÃO CEM LIBRAS. TRÁFICOINTERNACIONAL DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO.PRISÃO PREVENTIVA DECRETADA. PRESENÇA DOS REQUISITOS.CONSTRANGIMENTO ILEGAL. EXCESSO DE PRAZO PARA AFORMAÇÃO DA CULPA. NÃO OCORRÊNCIA.
+1. Para a decretação da prisão preventiva é imprescindível a presença do fumus commissi delicti, ou seja, prova da existência do crime e indícios suficientes de autoria, bem como do periculum libertatis, risco à ordem pública ou econômica, à instrução ou à aplicação da lei penal.
+2. Caso em que se encontram presentes os requisitos para a decretação da prisão preventiva do paciente, para garantia da ordem pública, por conveniência da instrução criminal e para garantia da aplicação da lei penal, tendo em vista a necessidade de se fazer cessar a prática delitiva, a qual envolve crimes graves (tráfico internacional de drogas e associação para o tráfico), equiparados aos crimes hediondos, de se evitar que este atrapalhe as investigações, destruindo elementos de prova ou ameaçando testemunhas, bem como em face do risco deste se evadir do distrito da culpa, considerado o poder econômico da organização criminosa (periculum libertatis).
+3. Impossibilidade de substituição da prisãoante tempus por uma ou mais medidas cautelares previstas no art. 319 do CPP, porquanto se revelam insuficientes para fins de prevenção e repressão ao crime.
+4. Não há falar em excesso de prazo para a conclusão do inquérito policial e para o oferecimento da denúncia, tendo em vista a complexidade dasinvestigações, que envolvem vários fatos praticados por diversas pessoas,impondo-se, neste caso, a adoção de critério de razoabilidade no critério de duração do processo.
+5. Ordem de habeas corpus denegada" (fl. 167).
+No presente recurso,sustenta que não estariam presentes os requisitos necessários para a decretação da custódia cautelar, previstos no art. 312 do Código de Processo Penal.
+Afirma que o decreto constritivo careceria de fundamentação idônea.
+Aduz que não haveria contemporaneidade entre os fatos e a decisão que decretou a sua segregação antecipada.
+Considera que seus predicados pessoais reforçariam a desnecessidade do encarceramento provisório.
+Argumenta que a medida extrema poderia ser substituída por cautelares diversas.
+Assevera que haveria excesso de prazo da prisão, que já perdura por mais de 60 dias sem que a ação penal tenha sido deflagrada pelo Ministério Público.
+Requer, assim, a concessão da liberdade provisória, ou subsidiariamente. a substituição da custódia pelas medidas alternativas previstas no art. 319 do Código de Processo Penal.
+O Ministério Público Federal se manifestou pelo desprovimento do recurso (fl. 294).
+É o relatório.
+Decido.
+De início, cumpre ressaltar que foi formulado pedido idêntico em benefício domesmorecorrente no HC 639.698/RS, de minha Relatoria, no qual julguei prejudicado, em razão do Juízo de primeiro grau ter concedido liberdade provisória ao paciente, ora recorrente, mediante aplicação de medidas cautelares diversas da prisão, expedindo-se alvará de soltura em seu favor (Ação Penal n. 5000143-54.2021.4.04.7101).
+Assim, tendo o presente recurso a mesma parte e questionando matéria anteriormente arguida no referido habeas corpus, o qual diz respeito à mesma ação penal de origem, inclusive contra o mesmo julgado, resta configurada inadmissível reiteração, o que impede o conhecimento das alegações.
+Confira-se a jurisprudência pacífica deste Tribunal:
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO E HOMICÍDIO QUALIFICADO TENTADO. IMPUGNAÇÃO À PRISÃO PREVENTIVA. REITERAÇÃO DO PEDIDO FORMULADO NO RHC  112.178/SP. INADMISSIBILIDADE. SUPOSTA NULIDADE POR INOBSERVÂNCIA DO PROCEDIMENTO DO TRIBUNAL DO JÚRI. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO DESPROVIDO.
+1. A matéria relativa aos requisitos da prisão preventiva já foi arguida nesta Corte Superior, nos autos do RHC n.º 112.178/SP. Desse modo, inviável a apreciação do tema nesta oportunidade, por tratar-se de mera reiteração de pedido.
+2. Quanto à suposta nulidade do feito, ao argumento de que não teria sido observado o procedimento relativo aos processos do Tribunal do Júri, o Juízo de primeiro grau esclareceu que tal procedimento foi rigorosamente observado. Desse modo: não há constrangimento ilegal a ser sanado, notadamente porque a Defesa insurge-se, apenas, quanto a suposto erro material na referência ao número dos artigos mencionados pelo Juiz. que não tem o condão de acarretar prejuízo à Defesa.
+3. De acordo com reiterada jurisprudência dos Tribunais Superiores, o reconhecimento de vício que possibilite a anulação de ato processual exige a efetiva demonstração de prejuízo ao acusado. É o que se prevê no art. 563 do Código de Processo Penal, no qual está positivado o dogma fundamental da disciplina das nulidades (pas de nullité sans grief).
+4. Agravo regimental desprovido.
+(AgRg no RHC 116.312/SP. Rei. Ministra LAURITA VAZ, SEXTA TURMA, DJe 15/06/2020).
+AGRAVO REGIMENTAL. HABEAS CORPUS. NÃO CONHECIMENTO. INDEFERIMENTO LIMINAR. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, XX, DO REGIMENTO INTERNO DO SUPERIOR TRIBUNAL DE JUSTIÇA. TRÁFICO. INEXISTÊNCIA DE PROVA DE AUTORIA E MATERIALIDADE. PRISÃO PREVENTIVA. REITERAÇÃO DE PEDIDO. EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA. INSTRUÇÃO ENCERRADA. SÚMULA N. 52/STJ. COAÇÃO ILEGAL NÃO CONFIGURADA. INSURGÊNCIA DESPROVIDA.
+1. A via eleita revela-se inadequada para a insurgência contra o ato apontado como coator, pois o ordenamento jurídico prevê recurso específico para tal fim, circunstância que impede o seu formal conhecimento.
+2. O art. 34, XX, do Regimento Interno desta Corte Superior, autoriza o relator a decidir o habeas corpus quando for manifestamente inadmissível, exatamente como ocorre na espécie, inexistindo prejuízo à parte, já que dispõe do respectivo regimental, razão pela qual não se configura ofensa ao princípio da colegialidade.
+3. As alegações de inexistência de prova da materialidade delitiva e de indícios de autoria, de falta de fundamentação e de requisitos para a manutenção da prisão cautelar ou da possibilidade de sua substituição por outras medidas cautelares já foram analisadas no RHC n. 88.794/SP e do HC n. 464.390 decididos anteriormente, o que configura a simples reiteração de pedido, o que autoriza o indeferimento liminar do writ.
+4. A prolação de sentença condenatória prejudica a análise de eventual excesso de prazo para a formação da culpa, nos termos do enunciado sumular n. 52 do Superior Tribunal de Justiça.
+5. Agravo regimental desprovido.
+(AgRg no HC 505.142/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 06/06/2019).
+Ante exposto, com fundamento no art. 932, III, do Código de Processo Civil e no art. 3º do Código de Processo Penal, nego seguimento ao presente recurso em habeas corpus.
+Publique-se.
+Intimem-se.
