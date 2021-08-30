@@ -1,0 +1,17 @@
+DECISÃO
+Vistos.
+Verifico que a discussão contém tema com repercussão geral reconhecida pelo Supremo Tribunal Federal, já sob a vigência do Código de Processo Civil de 2015 (TEMA 962/STF, RE n. 1.063.187/RG, DJe 22.9.2017 "Incidência do Imposto de renda - Pessoa Jurídica (IRPJ) e da Contribuição Social sobre o Lucro Líquido (CSLL) sobre a taxa Selic (juros de mora e correção monetária) recebida pelo contribuinte na repetição do indébito".
+A ementa do acórdão assim delimitou a matéria:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. TRIBUTÁRIO. IRPJ. CSLL. JUROS DE MORA. TAXA SELIC. REPETIÇÃO DO INDÉBITO. DECLARAÇÃO DE INCONSTITUCIONALIDADE DE LEI FEDERAL POR TRIBUNAL REGIONAL FEDERAL.
+A interposição do recurso extraordinário com fundamento no art. 102, III, b, da Constituição Federal, em razão do reconhecimento da inconstitucionalidade do art. 3º, § 1º, da Lei nº 7.713/1988, do art. 17 do Decreto-Lei nº 1.598/1977 e do art. 43, II, § 1º, do CTN por tribunal regional federal constitui circunstância nova suficiente para justificar, agora, seu caráter constitucional e o reconhecimento da repercussão geral da matéria relativa a incidência do imposto de renda das pessoas jurídicas (IRPJ) e da contribuição social sobre o lucro líquido (CSLL) sobre a taxa SELIC na repetição do indébito.
+(RE 1.063.187 RG, Relator(a): Min. DIAS TOFFOLI, julgado em 14/09/2017, PROCESSO ELETRÔNICO DJe-215 DIVULG 21-09-2017 PUBLIC 22-09-2017).
+A teor dos arts. 982, I, 1.035, § 5º e 1.037, II, do CPC/15, impõe-se a suspensão do processamento de todos os processos pendentes, individuais ou coletivos, que versem sobre a questão e tramitem no território nacional.
+Nessa linha, já se pronunciou esta 1ª Turma, conforme o demonstra o julgado assim ementado:
+PROCESSUAL CIVIL. RECONHECIMENTO DE REPERCUSSÃO GERAL QUANTO AO TEMA VERSADO NO APELO ESPECIAL. SOBRESTAMENTO DESTE ÚLTIMO COM DEVOLUÇÃO À CORTE DE ORIGEM PARA EVENTUAL E OPORTUNO JUÍZO DE CONFORMAÇÃO.
+POSSIBILIDADE. ENTENDIMENTO FIRMADO NA QO NO RESP 1653884/PR.
+1. Podendo a ulterior decisão do STF, em repercussão geral já reconhecida, influenciar no julgamento da matéria veiculada no recurso especial, conveniente se faz que o STJ, em homenagem aos princípios processuais da celeridade e da efetividade, determine o sobrestamento do especial e devolva os autos ao Tribunal de origem, para que nele se realize eventual juízo de retratação frente ao que vier a ser decidido na Excelsa Corte. Precedentes: AgInt no AgInt no REsp 1.603.061/SC, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/06/2017; e AgInt no AgInt no REsp 1.380.952/GO, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21/08/2017.
+2. Ainda que parte das questões impugnadas no recurso especial sejam distintas daquela objeto da afetação pelo STF, aplicável se mostra, mutatis mutandis, o comando previsto no art. 1.037, § 7º, do CPC/2015, cujo regramento determina seja julgada em primeiro lugar a matéria afetada, para apenas depois se prosseguir na resolução do especial apelo, relativamente ao resíduo não alcançado pela decisão dada em repercussão geral.
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1.553.301/PE, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 19/06/2018, DJe 26/06/2018, destaquei).
+Posto isso, determino a devolução dos autos ao tribunal de origem, com a devida baixa, para que o processo permaneça suspenso até a publicação do acórdão do Recurso Extraordinário acima identificado, a fim de que a Corte de origem, posteriormente, proceda ao juízo de conformidade.
+Publique-se. Intime-se.
