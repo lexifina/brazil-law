@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Recurso Especial (art. 105, III, "a", da CF) interposto contra acórdão assim ementado:
+TRIBUTÁRIO. EXECUÇÃO FISCAL. TAXA DE LIMPEZA PÚBLICA. ALIENAÇÃO DO IMÓVEL SOBRE O QUAL INCIDE A COBRANÇA. LEGITIMIDADE PASSIVA DO ALIENANTE. DEMONSTRAÇÃO. HONORÁRIOS DE SUCUMBÊNCIA. DESCABIMENTO.
+1. Apelação interposta pelo INSS em face de sentença que extinguiu a execução fiscal, em razão do pagamento da dívida, relativa à TLP dos anos de 2006 e 2007, sem que tenha havido a condenação em honorários de sucumbência. Entendeu o Juízo a quo ser descabida a condenação do exequente (Município de Recife) em honorários de sucumbência, pois, à época dos fatos geradores, o bem imóvel ainda pertencia ao INSS. Dessa forma, não houve equívoco no ajuizamento da ação fiscal, mesmo que o débito tenho sido pago por terceiro, o atual proprietário.
+2. Recurso no qual se alega ter sido demonstrado que o imóvel objeto da presente execução foi alienado, em favor de particular, desde 29/09/2007, conforme escritura de compra e venda lavrada no 4º Serviço Notarial do Recife. Afirma que o contribuinte da TLP, nos termos do art. 64, da Lei Municipal nº 15.563/91, seria o adquirente do imóvel, e não o INSS. Requer, em razão do Município de Recife ter dado causa a uma lide equivocadamente pleiteada em face do INSS, a fixação de honorários sucumbenciais, nos termos do art. 82, § 3º, do CPC.
+3. A questão da legitimidade passiva da presente execução fiscal já foi enfrentada no acórdão proferido por esta Corte Regional nos Embargos à Execução nº 0816156-87.2017.4.05.8300 , trânsito em julgado, interposto pelo INSS em face do Município de Recife, no qual restou decidido que " a certidão emitida pelo 1º Cartório de Registro de Imóveis demonstra que o imóvel em questão foi vendido a um particular em 12/09/2008. Como os débitos vindicados se referem aos exercícios de 2006 e 2007, quando o INSS ainda era proprietário do imóvel, deve a autarquia federal ser responsabilizada pelo crédito tributário em tela. Patente é a legitimidade passiva do INSS".
+4. Mesmo que o débito tenha sido adimplido pelo atual proprietário do imóvel, patente é a legitimidade passiva do INSS para a presente ação fiscal, não havendo que se falar em equívoco da Município de Recife ao ajuizar a execução perante a autarquia previdenciária. Descabida a condenação da exequente em honorários de sucumbência.
+5. Apelação improvida.
+Os Embargos de Declaração foram rejeitados.
+A parte recorrente alega violação dos arts. 82, § 3º, e 1.022 do CPC/2015.
+Contrarrazões às fls. 180-189, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 16.7.2021.
+No julgamento dos aclaratórios, o Tribunal de origem asseverou:
+No caso concreto, o acórdão embargado, de maneira clara e fundamentada, concluiu que a decisão que apreciou a apelação do INSS não padece dos vícios previstos no art. 1.022 do CPC. Neste cenário, manteve o entendimento de que a legitimidade passiva do INSS nesta execução fiscal já foi enfrentada por esta Corte Regional nos Embargos à Execução nº 0816156-87.2017.4.05.8300, trânsito em julgado, interposto pelo INSS em face do Município de Recife. Assim, não há que se falar em equívoco do ente municipal ao ajuizar a ação executiva perante a autarquia previdenciária, sendo descabida, portanto, a condenação do exequente em honorários de sucumbência.
+Nestes aclaratórios, percebe-se que a embargante aponta vícios exclusivamente relacionados ao mérito da demanda, os quais já foram afastados por este órgão colegiado. (fl. 152, e-STJ)
+A Corte regional afastou a condenação da Municipalidade em honorários sucumbenciais, não estando caracterizada nenhuma omissão no aresto embargado.
+Não há violação dos arts. 489 e 1.022 do CPC/2015, na medida em que não se constata omissão, obscuridade ou contradição nos acórdãos recorridos capazes de torná-los nulos, especialmente porque o Tribunal de origem apreciou a demanda de forma clara e precisa, estando bem delineados os motivos e fundamentos que embasam o decisum.
+Não é o órgão julgador obrigado a rebater, um a um, todos os argumentos trazidos pelas partes em defesa da tese que apresentaram. Deve apenas enfrentar a demanda, observando as questões relevantes e imprescindíveis à sua resolução.
+Ademais, não se pode confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+O acórdão recorrido consignou:
+Não merece reproche a sentença vergastada. Explico.
+A questão da legitimidade passiva da presente execução fiscal já foi enfrentada nos Embargos à Execução nº 0816156-87.2017.4.05.8300 , interposto pelo INSS em face da Prefeitura do Recife. Eis o teor do julgado, trânsito em julgado:
+PROCESSUAL CIVIL E TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. TAXA DE LIMPEZA PÚBLICA - TLP. LEGITIMIDADE PASSIVA CONFIGURADA. PRESCRIÇÃO. INOCORRÊNCIA. PROSSEGUIMENTO DA EXECUÇÃO FISCAL. IMPROVIMENTO.
+1. Apelação interposta pelo INSS em face de sentença que julgou improcedentes os embargos à execução que manejou, por entender que não houve a prescrição dos débitos relativos à Taxa de Limpeza Pública - TLP dos anos de 2006 e 2007, bem assim por reconhecer a sua legitimidade passiva.
+2. Recurso no qual se alega a ilegitimidade passiva, uma vez que o imóvel sobre o qual incide a TLP não pertence ao seu patrimônio, bem assim a prescrição da dívida, pois a TLP inadimplida se refere aos exercícios de 2006 e 2007, tendo o ajuizamento e a citação da autarquia federal ocorrido somente em outubro de 2017, após o transcurso do prazo quinquenal (art. 174, do CTN).
+3. O art. 64, do Código Tributário Municipal (Lei nº 15.563/91) estabelece que o contribuinte da TLP " é o proprietário, o titular do domínio útil ou o possuidor de unidade imobiliária situada em via ou logradouro público". Na espécie, a certidão emitida pelo 1º Cartório de Registro de Imóveis demonstra que o imóvel em questão foi vendido a um particular em 12/09/2008. Como os débitos vindicados se referem aos exercícios de 2006 e 2007, quando o INSS ainda era proprietário do imóvel, deve a autarquia federal ser responsabilizada pelo crédito tributário em tela. Patente é a legitimidade passiva do INSS.
+4. Os fatos geradores do débito respeitam aos anos de 2006 e 2007, com lançamento em primeiro de janeiro de cada ano, conforme o art. 31, do Código Tributário Municipal (Lei nº 15.563/91). Constituição do crédito, respectivamente, em 01/01/2006 e 01/01/2007, enquanto o ajuizamento da execução fiscal ocorreu em 19/12/2010. Demonstração que a ação de cobrança foi ajuizada dentro do prazo de 05 (cinco) anos da constituição do crédito. Inocorrência de prescrição. Manutenção da sentença.5. Apelação improvida.
+(TRF 5ª Região - 4ª Turma - Rel.Des.Federal Federal Rubens Canuto - Julgamento:30/10/2008) (grifos nossos)
+Nessa linha de raciocínio, mesmo que o débito tenha sido adimplido pelo atual proprietário do imóvel, patente é a legitimidade passiva do INSS para a presente ação fiscal, não havendo que se falar em equívoco da Município de Recife ao ajuizar a execução perante a autarquia previdenciária.
+Descabida, portanto, a condenação da exequente (Município de Recife) em honorários de sucumbência.
+Com essas considerações, nego provimento à apelação do INSS.
+É como voto. (fls. 124-125, e-STJ, grifos acrescidos)
+Rever o entendimento consignado requer o revolvimento do conjunto fático-probatório dos autos, inadmissível na via especial, ante o óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial."
+Ante o exposto, conheço em parte do Recurso Especial, somente com relação à preliminar de violação do art. 1.022 do CPC/2015, e, nessa extensão, nego-lhe provimento.
+Publique-se.
+Intimem-se.
