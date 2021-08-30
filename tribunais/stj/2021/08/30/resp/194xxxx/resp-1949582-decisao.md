@@ -1,0 +1,56 @@
+DECISÃO
+Trata-se de Recurso Especial interposto, com fundamento no art. 105, III, "a", da Constituição da República, contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (fl. 283, e-STJ):
+APELAÇÃO/REMESSA NECESSÁRIA. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. Pensão post mortem devida à companheira e à filha menor do ex-servidor público estadual. Revisão para o equivalente a 100% do valor pago ao servidor ativo.Aposentadoria por invalidez permanente com proventos integrais reconhecida por decisão judicial transitada em julgado. Edição da EC nº 70/2012 que inseriu o artigo 6º na EC nº 41/2003, restabelecendo a integralidade e a paridade aos proventos dos servidores aposentados por invalidez permanente, desde que estes tivessem ingressado no serviço público até 31/12/2003 e tivessem se aposentado a partir de 01/01/2004. Comprovada a defasagem salarial. Devida a revisão do benefício calculado de acordo com a remuneração do cargo efetivo em que se deu a aposentadoria do instituidor da pensão. Pagamento das diferenças devidas a partir de 30/03/2012, data da promulgação da EC nº 70, de 2012, a serem apuradas em execução, devidamente corrigidas monetariamente, desde quando deveriam ter sido pagas, e acrescidas de juros a contar da citação. Índices fixados na forma da orientação do STF no julgamento do RE nº 870.947/SE. Honorários advocatícios arbitrados em sede de liquidação de sentença, nos termos do art. 85, 4º, II, do C PC, observando-se o teor da Súmula 111, STJ. Precedentes.Honorários recursais majorados (art. 85, § 11, do CPC).
+RECURSO A QUE SE NEGA PROVIMENTO. MANUTENÇÃO DA SENTENÇA EM REMESSA NECESSÁRIA.
+Os Embargos de Declaração foram desprovidos nos seguintes termos (fl. 3003, e-STJ):
+EMBARGOS DE DECLARAÇÃO. APELAÇÃO. REVISÃO DE BENEFÍCIO PREVIDENCIÁRIO. Pensão post mortem devida à companheira e à filha menor do ex-servidor público estadual.Revisão para o equivalente a 100% do valor pago ao servidor ativo. Aposentadoria por invalidez permanente com proventos integrais julgado.reconhecida por decisão judicial efeitos transitada em Pretensão de concessão de exclusivamente infringentes. Inexistência das hipóteses previstas no artigo 1.022 do CPC. Acórdão que enfrentou adequadamente as questões de fato e de direito suscitadas. Não são os embargos de declaração a via adequada para a manifestação de inconformismo do embargante. NEGATIVA DE PROVIMENTO AO RECURSO.
+Posteriormente, no reexame feito em razão do art. 1.030, II, do CPC/2015, a ementa ficou assim (fl. 369, e-STJ):
+RETRATAÇÃO. APELAÇÃO. RECURSO ESPECIAL E EXTRAORDINÁRIO. Pensão post mortem devida à companheira e à filha menor do ex-servidor público estadual. Revisão para o equivalente a 100% do valor pago ao servidor ativo. Aposentadoria por invalidez permanente com proventos integrais reconhecida por esta 18a Câmara Cível, no julgamento da ação de revisão de beneficio nº 0426122-02.2008.8.19.0001, já transitada em julgado (28/03/2014), em razão de o servidor ter sido acometido de doença grave (neoplasia maligna). Direito à integralidade.Manutenção do decisum. Ausência de violação do RE nº 603.580/RJ, objeto do Tema 396, do STF. Retorno dos autos à Terceira Vice-Presidência para exame de admissibilidade dos recursos. MANUTENÇÃO DO ACÓRDÃO.
+A parte recorrente afirma que houve ofensa aos arts. 1º, 2º e 15 da Lei 10.887/2004.Aduz (fls. 332-334, e-STJ):
+Não se aplica no caso, portanto, o regime de paridade e integralidade, o que se adequa com a disciplina constitucional da matéria, ressaltando que não há como se confundir a aposentadoria com a pensão por morte, que são dois benefícios distintos e com fatos geradores.
+(..)
+Com efeito, a parte autora só teria o alegado direito se o ex-servidor tivesse se aposentado por invalidez em razão de acidente em serviço, moléstia profissional ou doença grave, contagiosa ou incurável, na forma da lei, o que, repita-se, não restou comprovado, na presente demanda.
+Sem contrarrazões, conforme certidão de fl. 343, e-STJ.
+O Recurso Especial foi admitido pelo Tribunal de origem (fls. 380-382, e-STJ).
+É orelatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4.8.2021.
+Inicialmente, o insurgente sustenta que os arts. 1º, 2º e 15 da Lei 10.887/2004 foram violados, mas deixa de apontar, de forma clara, o vício em que teria incorrido o acórdão impugnado.
+Assim, é inviável o conhecimento do Recurso Especial nesse ponto, ante o óbice da Súmula 284/STF.
+Cito precedentes:
+PROCESSUAL CIVIL. (..) DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA N. 284/STF. (..)
+(..)
+II - A jurisprudência desta Corte considera que quando a arguição de ofensa ao dispositivo de lei federal é genérica, sem demonstração efetiva da contrariedade, aplica-se, por analogia, o entendimento da Súmula n. 284, do Supremo Tribunal Federal.
+(..)
+(AgInt no REsp 1.630.011/RJ, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 30/3/2017)
+RECURSO ESPECIAL (..) DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. (..)
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 535 do CPC/1973, ao art. 1.022 do CPC/2015 e aos arts. 151, III, e 174 do Código Tributário Nacional quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+(..)
+(REsp 1.652.761/MG, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 24/4/2017)
+Além disso, o Tribunala quodirimiu a controvérsianos seguintes termos (fls. 370-371, e-STJ):
+No caso dos autos, verifica-se que o instituidor da pensão integrava o quadro permanente de pessoal de apoio da Procuradoria Geral do Estado do Rio de Janeiro, tendo exercido a última função de técnico superior da Procuradoria de 1a Categoria, e foi aposentado, aos 07/05/2007, por invalidez permanente, inicialmente com proventos proporcionais, nos termos do art. 40, § 1º, inciso I, da CRFB (index 47).
+No entanto, em decisão proferida por esta 18 a Câmara Cível, no julgamento da ação de revisão de benefício nº 0426122- 02.2008.8.19.0001, já transitada em julgado (28/03/2014), foi reconhecido o direito à aposentadoria por invalidez com proventos integrais, em razão de o servidor ter sido acometido de doença grave (neoplasia maligna).
+Desta forma, irrelevante que o documento de fls. 213 não tenha especificado "o motivo da aposentadoria por invalidez", uma vez que odireito à integralidade foi reconhecido por esta Câmara, por decisão já transitada em julgado, conforme acima especificado.
+Desta forma, o acórdão não divergiu do aresto paradigma RE nº 603.580/RJ, objeto do Tema 396, do STF, vg:
+"Os pensionistas de servidor falecido posteriormente à EC 41/2003 têm direito à paridade com servidores em atividade (EC 41/2003, art.7"), caso se enquadrem na regra de transição prevista no art. 3º da EC 47/ 2005. Neto têm, contudo, direito à integralidade (CF, art. 40, § 7º, inciso 1)".
+Por tais razões, VOTO pela manutenção do acórdão recorrido.
+Na leitura dos autos verifico que a matéria foi dirimida sob o enfoque constitucional. Descabe, pois, a esta Corte examinar a questão, porquanto reformar o julgado significa usurpar a competência do STF.
+Nesse sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. GDASS. VIOLAÇÃO DO ART. 98 DA LEI 13.324/2016. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. CAUSA DECIDIDA COM BASE EM PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL E COM FUNDAMENTO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. COMPETÊNCIA DO STF.
+1. Não se conhece do Recurso Especial em relação à ofensa ao art. 98 da Lei 13.324/2016, pois a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Incide nesse ponto, por analogia, a Súmula 284/STF.
+2. Em atenção ao teor do aresto impugnado, observa-se que o Tribunal a quo decidiu a questão com base em precedente do Supremo Tribunal Federal e com fundamento constitucional. Com efeito, analisada a matéria pelo prisma exclusivamente constitucional, é inviável ao STJ rever o entendimento consignado na origem, sob pena de usurpar a competência do STF.
+3. Ademais, a conclusão adotada na origem está de acordo com o posicionamento já pacificado pelo Supremo Tribunal Federal em repercussão geral (Tema 983), segundo o qual: "I - o termo inicial do pagamento diferenciado das gratificações de desempenho entre servidores ativos e inativos é o da data da homologação do resultado das avaliações, após a conclusão do primeiro ciclo; II - a redução, após a homologação do resultado das avaliações, do valor da gratificação de desempenho paga aos inativos e pensionistas não configura ofensa ao princípio da irredutibilidade de vencimentos." (STF, ARE 1.052.570, Rel. Min. Alexandre de Moraes, Tribunal Pleno, DJe de 6.3.2018).
+4. Agravo Interno não provido.
+(AgIn no REsp 1.911.103/RN, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 1º/7/2021)
+ADMINISTRATIVO. (..) SERVIDOR PÚBLICO. (..) ACÓRDÃO BASEADO EM FUNDAMENTO EMINENTEMENTE CONSTITUCIONAL. INADEQUAÇÃO DA VIA ELEITA.
+1. A hipótese permitida constitucionalmente para interposição de recurso especial pela alínea "a" do inciso III do artigo 105 da CF, em suma, restringe-se à violação de Tratado ou dispositivo de Lei Federal, excluída, portanto, da competência atribuída a esta Corte Superior, a apreciação e julgamento de suposta afronta à norma da Constituição Federal. Precedentes.
+2. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.761.945/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 26/2/2019)
+ADMINISTRATIVO. SERVIDORES INATIVOS E PENSIONISTAS. PARIDADE (..). REVISÃO DOS PROVENTOS COM BASE NA PARIDADE ENTRE ATIVOS E INATIVOS. SÚMULA N. 83/STJ. REGRAMENTOS E PRINCÍPIOS CONSTITUCIONAIS. MATÉRIA VEICULADA NO RECURSO ESPECIAL É PRÓPRIA DE RECURSO EXTRAORDINÁRIO.
+(..)VIII - Quanto à paridade e integralidade da pensão ora debatida, verifica-se que a questão controvertida foi decidida sob fundamento de cunho constitucional, transbordando os lindes específicos de cabimento do recurso especial. Concluindo-se que o acórdão recorrido, ao dispor sobre a matéria, cingiu-se à interpretação de regramentos e princípios constitucionais, tem-se inviabilizada a apreciação da questão por este Tribunal, estando a competência de tal exame jungida à Excelsa Corte, ex vi do disposto no art. 102 da Constituição Federal, sob pena de usurpação daquela competência.
+IX - Verificado que a matéria veiculada no recurso especial é própria de recurso extraordinário, apresenta-se evidente a incompetência do Superior Tribunal de Justiça para analisar a questão, sob pena de usurpação da competência do Supremo Tribunal Federal. No mesmo sentido, destaco os seguintes precedentes: AgInt no AREsp n. 862.012/SP, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 9/8/2016, DJe 8/9/2016; AgInt no AREsp n.852.002/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, julgado em 21/6/2016, DJe 28/6/2016.
+X - Agravo interno improvido.
+(AgInt no REsp 1.828.964/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, DJe 30/9/2020)
+Diante do exposto,não conheço do Recurso Especial. Condeno o insurgente ao pagamento de honorários advocatícios correspondentes a 8% (oito por cento) sobre a verba sucumbencial fixada na origem, observando-se a concessão do benefício da justiça gratuita eventualmente deferido nos autos.
+Publique-se.
+Intimem-se.
