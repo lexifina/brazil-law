@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MUNICÍPIO DE SÃO PAULO contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+APELAÇÃO MANDADO DE SEGURANÇA ISSQN Alegação de direito líquido e certo ao não pagamento de ISSQN sobre a atividade de veiculação de publicidade em canal televisivo Sentença de concessão da ordem de segurança Pleito de reforma Não cabimento Atividade que era apontada como serviço para fins de incidência de ISSQN no item 17.07 do anexo da LC Fed. no 116, de 31/07/2.003, que foi vetado Clara exclusão Precedentes do STJ e deste TJ/SP Ademais, o próprio Fisco emitiu soluções de consultas tributárias nesse sentido Comportamento contraditório que gera insegurança jurídica e deve ser coibido Exação afastada Sentença mantida APELAÇÃO não provida.
+A parte recorrente alega, além da ocorrência de divergência jurisprudencial (AREsp 464154) violação do item 17.06 da lista da LC n. 116/203, sustentando, em síntese (fls. 550/565):
+O v. acórdão acaba por manifestamente negar vigência ao item 17.06 da lista anexa à Lei Complementar nº 116/03, motivo pelo qual merece ser reformado, em razão da plena incidência do ISS sobre os serviços discutidos nos presentes autos. É de se esclarecer, inicialmente, que a tributação pelo ISS dos serviços discutidos decorre do que preveem a legislação e a jurisprudência pátrias, o que é ratificado pelo fato de que o Parecer Normativo SF 01/2016 apenas repetiu o que já era estabelecido pela legislação tributária aplicável, conforme se passa a demonstrar.
+ ..
+Esta clara a incidência do ISS sobre propaganda e publicidade, inclusive promoção de vendas, planejamento de campanhas ou sistemas de publicidade, elaboração de desenhos, textos e demais materiais publicitários. Pois bem, o que o v cordão acaba por fazer, verdadeiramente, é a exclusão do item 17.06 do ordenamento jurídico, como previsão de incidência tributária. Não pode e nem deve o Fisco, contudo, simplesmente deixar de tributar uma hipótese expressamente prevista em lei, diante do seu poder-dever de fazê-lo.
+Contrarrazões apresentadas por DISCOVERY NETWORKS BRASIL AGENCIAMENTO E REPRESENTAÇÃO LTDA., nas quais pede, preliminarmente, o não conhecimento do recurso e, no mérito, seu desprovimento (fls. 638/658).
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (fls. 535/546):
+Cinge-se a controvérsia à possibilidade de cobrança pelo apelante de ISSQN dos anos de 2.012 a 2.015 (fls. 61/74) sobre valores recebidos em razão da atividade de veiculação de publicidade em canais televisivos pela apelada.
+ ..
+A matéria é regulada pela Lei Complementar Federal no 116, de 31/07/2.003, cuja lista anexa indica dentre os serviços tributáveis, o seguinte item:
+ ..
+Ressalta-se que foi vetado pelo Presidente da República, por meio da Mensagem nº 362, de 31/07/2.003, o item seguinte, que dispunha da seguinte forma:
+17.07Veiculacão e divulgação de textos, desenhos e outros materiais de publicidade, por qualquer meio.
+Independentemente das razões pelas quais o segundo item foi vetado, a leitura conjugada desses dispositivos denota que a singela veiculação e divulgação de materiais de publicidade por qualquer meio, tal como é a atividade da apelada, de veiculação de anúncios comerciais em seus canais televisivos, não se confunde com aquela prevista no item 17.06, que era o único vigente nos anos das exações ora discutidas (2.012 a 2.015)
+Ademais, ainda que o veto presidencial tenha expressado como razão a preocupação com a imunidade tributária de que se revestem os meios impressos, fato é que havia dois tipos distintos de atividades listadas sendo a primeira aparentemente restrita às práticas de agências de publicidade e a segunda, às dos meios de veiculação dos conteúdos e o veto afastou por completo a incidência do ISSQN sobre esse segundo grupo, ainda que possivelmente não pretendesse fazê-lo ou o pretendesse apenas quanto aos meios impressos. Em outras palavras, a base legal do ISSQN elencou como serviço tributável a publicidade e propaganda, mas não a veiculação de materiais de publicidade e propaganda.
+Nesse cenário, é certo que, no período discutido, não havia base legal à exação. Tendo em vista que essa parte da discussão envolve majoritariamente a legalidade e não a constitucionalidade da exação, cumpre aludir à mais recente jurisprudência do E. Superior Tribunal de Justiça, nesse mesmo sentido:
+ ..
+Portanto, os demais argumentos quanto à extensão do conceito da expressão de "publicidade e propaganda" não podem ser acolhidos, pois fogem à diferenciação de atividades tributáveis feita pelo próprio legislador complementar.
+E não é só.
+A corroborar, é de se observar que é incontroverso que o próprio apelante, em sede de Soluções de Consultas formuladas por outros contribuintes, manifestou em concreto o entendimento no mesmo sentido do ora adotado, inclusive vedando a expedição de notas fiscais.
+ ..
+No mesmo sentido são os pareceres em consultas relativas a anúncios veiculados em sítios eletrônicos de internet (fl. 48, itens 6 a 7), em emissora de televisão aberta e de rádio (fls. 53/54) e até nos relacionados a anúncios impressos, nos quais, além de ter sido mencionada a imunidade tributária específica desse meio de veiculação, foi adotado como fundamento adicional a ausência de constância da veiculação de anúncios na lista de serviços da Lei Complementar Federal no 116, de 31/07/2.003 (fls. 40/60).
+Independentemente da existência de vinculação da Administração também perante a terceiros quanto ao posicionamento exposto em soluções de consulta, fato é que estas denotam a postura adotada pelo órgão perante os contribuintes já que se presume a aplicação do mesmo entendimento a todos, mormente à míngua de qualquer alegação de situação significativamente distinta da apelante que justificasse tratamento desigual.
+Então, a súbita alteração de entendimento cumulada ao lançamento de tributos retroativos atenta à segurança jurídica, à legalidade e à vedação ao comportamento contraditório, de sorte que não pode ser permitida.
+Pois bem.
+Porque não observada a dialeticidade recursal, o conhecimento do recurso, seja pela alínea "a", seja pela "c", encontra óbice na Súmula 283 do STF, pois a parte recorrente não impugna especificamente o fundamento atinente "à segurança jurídica, à legalidade e à vedação ao comportamento contraditório".
+Ante o exposto, não conheço do recurso.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. REQUISITOS DE ADMISSIBILIDADE. NÃO PREENCHIMENTO. RECURSO NÃO CONHECIDO.
