@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTE DO TRABALHO CESSAÇÃO ADMINISTRATIVA DO AUXÍLIO SUPLEMENTAR POR CUMULAÇÃO INDEVIDA COM APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO DECADÊNCIA OCORRÊNCIA LEI N 978499 E ART 103A DA LEI N 821391 ACRESCENTADO PELA MP N 138 DE 19112003 CONVERTIDA NA LEI N 108392004 PRECEDENTES ENTENDIMENTO PACIFICADO DO SUPERIOR TRIBUNAL DE JUSTIÇA SUBMETIDO AO REGIME DO ART 543C DO CÓDIGO DE PROCESSO CIVIL1973 PROCESSO QUE NÃO SE SUBMETE À AFETAÇÃO DA MATÉRIA SOBRE O TERMO INICIAL DO BENEFÍCIO REALIZADA NOS RECURSOS ESPECIAIS N 1729555SP E N 1786736SP (TEMA 862) PELO COLENDO SUPERIOR TRIBUNAL DE JUSTIÇA EIS QUE NÃO HOUVE A CONCESSÃO DE PRÉVIO AUXÍLIO-DOENÇA NA VIA ADMINISTRATIVA TERMO INICIAL A PARTIR DA CESSAÇÃO ADMINISTRATIVA DO AUXÍLIO-SUPLEMENTAR JUROS MORATÓRIOS E CORREÇÃO MONETÁRIA QUE DEVERÃO OBSERVAR O DECIDIDO PELO STF NO JULGAMENTO DAS ADIS N 4357 4372 4400 E 4425 E NA REPERCUSSÃO GERAL N 810 HONORÁRIOS ADVOCATÍCIOS QUE SERÃO ARBITRADOS NA LIQUIDAÇÃO APELAÇÃO DO AUTOR PROVIDA.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 103-A da Lei n. 8.213/1991, no que concerne à inexistência de ocorrência de decadência legal, consignando as teses de que: (a) a decadência atinge tão somente os atos administrativos, não ocorrendo no caso de silêncio da administração pública sem que a lei expressa preveja tal hipótese; (b) a ilegalidade não se sujeita à decadência, podendo ser revista a qualquer tempo; (c) a cumulação ilegal de benefícios é relação de trato sucessivo, que se renova mês a mês, não se sujeitando à decadência, trazendo o(s) seguinte(s) argumento(s):
+Conclui-se que o silêncio administrativo não é ato administrativo, com exceção dos casos em que a lei qualifica a omissão administrativa como manifestação de vontade (fls. 244).
+ ..
+Se o silêncio for uma forma de manifestação de vontade, produzirá efeitos de ato administrativo, porque a lei pode atribuir ao silêncio determinado efeito jurídico, após o decurso de certo prazo.
+Inexistindo lei que atribua determinado efeito jurídico ao silêncio, estaremos diante de um fato jurídico administrativo (fls. 244).
+ ..
+Ora, o texto legal é explícito em considerar que a decadência atinge apenas os atos administrativos, sem nada dispor que o silêncio ou a omissão da Administração venha a se equiparar a uma suposta manifestação de vontade (fls. 245).
+ ..
+De outro lado, mesmo que se admitisse que, por evidente erro, a manutenção do benefício inacumulável representasse uma aceitação tácita da Administração, ainda assim não se pode aceitar a decadência a fluir a partir de marco a partir do qual se tem situação evidentemente contrária à legislação que coíbe o acúmulo (fls. 245).
+ ..
+A ocorrência de situação ilegal é, portanto, sempre reparável, não fazendo coisa julgada administrativa nem se sujeitando a prazo decadencial (fls. 246).
+ ..
+Por fim, faz-se constar que se trata de relação de trato sucessivo, ou seja, a ilegalidade da cumulação renova-se, mês a mês, a cada prestação que é paga em confronto com a legislação que coíbe a sobreposição dos benefícios em questão. (..) (fls. 246).
+ ..
+Na relação de trato sucessivo a ilegalidade da cumulação renova- se, mês a mês, a cada prestação que é paga. O Supremo Tribunal Federal afasta a decadência quando se trata de prestação continuada, conforme mostra a decisão acima (fls. 247).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento das teses recursais, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
