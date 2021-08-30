@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo manejado por Condomínio Bahamas Apart Hotel contra decisão que não admitiu recurso especial adesivo, este interposto com fundamento no art. 105, III, a e b, da CF, desafiando acórdão proferido pelo Tribunalde Justiça do Estado de Mato Grosso do Sul, assim ementado (fls. 1232/1233):
+APELAÇÕES CÍVEIS. AÇÃO CIVIL PÚBLICA - DIREITO AMBIENTAL - FECHAMENTO DE POÇO ARTESIANO - CONDOMÍNIO APART HOTEL.
+INÉPCIA DA INICIAL - PLENA COMPREENSÃO DOS FATOS COM POSSIBILIDADE DE EFETIVO CONTRADITÓRIO E AMPLA DEFESA - INOCORRÊNCIA.
+Não há falar em inépcia da inicial alegadamente formulada com narrativa confusa e pluralidade de pedidos, quando a parte demandada demonstra clara compreensão dos fatos e fundamentos de direito utilizados, com possibilidade rebatê-los em efetivo contraditório.
+PERDA SUPERVENIENTE DO INTERESSE DE AGIR - OUTORGA COM PARA USO DE RECURSOS HÍDRICOS OBTIDA NO CURSO DA DEMANDA - NECESSIDADE DE COTEJO DO ATO COM AS DEMAIS QUESTÕES DE FUNDO - PRELIMINAR REJEITADA.
+Não implica na perda superveniente do interesse de agir, a obtenção de outorga para uso de recursos hídricos no curso da demanda, mormente quando há discussão sobre a possibilidade jurídica da manutenção de poço artesiano e pretensão reparatória voltada para fatos anteriores ao ato administrativo invocado.
+INCLUSÃO DA SÍNDICA NA RELAÇÃO PROCESSUAL PARA PRETENSÃO REPARATÓRIA AMBIENTAL - MERO EXERCÍCIO DOS ATOS DA VONTADE DOS CONDÔMINOS - AUSÊNCIA DE LEGITIMIDADE.
+Deve ser mantido o reconhecimento da ilegitimidade de parte da síndica do condomínio-hotel demandado para ação civil pública ambiental, diante da demonstração de que apenas exercia atos materiais da vontade dos coproprietários do imóvel onde localizado o poço artesiano objeto da polêmica.
+INVERSÃO DO ÔNUS DA PROVA - PRINCÍPIO DA PRECAUÇÃO - POSSIBILIDADE NO CAPÍTULO DA PRETENSÃO REPARATÓRIA.
+Em observância do princípio da precaução, é possível a inversão do ônus da prova na pretensão reparatória ambiental, logicamente observadas a necessidade de utilização da técnica e a existência de lastro mínimo de dano configurador de degradação de bens jurídicos ambientais difusos ou coletivos - inteligência da súmula 618 do STJ.
+DANO MORAL COLETIVO - INOCORRÊNCIA - AUSÊNCIA DE INDÍCIOS MÍNIMOS DE OFENSA A BENS JURÍDICOS COLETIVOS OU DIFUSOS.
+Estando o dano no centro gravitacional do regime de responsabilidade civil, não há falar em reparação moral coletiva, mesmo com hipotética inversão do ônus da prova, pela ausência de lastro mínimo de vulneração de bens jurídicos coletivos (sentido amplo).
+COBRANÇA PELO USO DOS RECURSOS HÍDRICOS DO SUBSOLO PELO CONDOMÍNIO APART HOTEL - POSSIBILIDADE - PRINCÍPIO DO USUÁRIO-PAGADOR - LEGISLAÇÃO CORRELATA - NECESSIDADE DE LIQUIDAÇÃO DA SENTENÇA.
+Por força do princípio do usuário-pagador estabelecido em lei (sentido amplo), é devida a contraprestação pelo uso de recursos hídricos extraídos de poço artesiano, observada o necessário processamento de liquidação de sentença, com oportunidade de contraditório e ampla defesa, para determinação do quantum debeatur.
+MULTA DIÁRIA IMPOSTA AOS ENTES PÚBLICOS COMO MEDIDA DE APOIO - DESNECESSIDADE - RECONHECIMENTO INCIDENTAL DO EXERCÍCIO DIREITO AO USO DO POÇO ARTESIANO.
+Diante do reconhecimento incidental do regular exercício de direito do uso de recursos hídricos pelo particular, desaparece o interesse de agir (necessidade) da condenação imposta aos entes públicos e da correlata multa cominatória, sobretudo porque já estão constitucionalmente encarregados de fiscalizar a adequada utilização dos recursos ambientais e das autorizações e licenças que expedem.
+RECURSOS DO ESTADO DE MATO GROSSO DO SUL, DO IMASUL E DE BAHAMAS CONHECIDOS COM REJEIÇÃO DAS PRELIMINARES - RECURSO DO MINISTÉRIO PÚBLICO CONHECIDO EM PARTE E, NA PARTE CONHECIDA PARCIALMENTE PROVIDO - RECURSO DO CONDOMÍNIO PARCIALMENTE PROVIDO - RECURSOS DO ESTADO DE MATO GROSSO DO SUL E DO IMASUL PROVIDOS.
+Nas razões do recurso especial adesivo, a parte agravante aponta violação ao art. 38 da Lei n. 9.433/97.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Na presente data, proferi decisão na qual não foi conhecido o recurso especial interposto pelo Estado do Mato Grosso do Sul.
+Assim,orecurso especial adesivoe o respectivo agravo da decisão que não o admitiu, encontram-se prejudicados, nos termosdo artigo 997, §2º, III do CPC, que dispõe: "O recurso adesivo ficasubordinado ao recurso independente, sendo-lhe aplicáveis as mesmas regrasdeste quanto aos requisitos de admissibilidade e julgamento no tribunal,salvo disposição legal diversa, observado, ainda, o seguinte: III - nãoserá conhecido, se houver desistência do recurso principal ou se for eleconsiderado inadmissível".
+Destarte, o não-conhecimento do apelo principal aviado pelo Estado de Mato Grosso do Sul obsta o exame dasalegações trazidas no presente recurso especial adesivo.
+Nesse mesmo sentido, confiram-se os seguintes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL.INADMISSÃODE RECURSO ESPECIAL E DE RECURSO ESPECIAL ADESIVO.AGRAVO DO RECURSOESPECIAL PRINCIPAL DESPROVIDO. AGRAVO INTERNO DESPROVIDO.
+1. Nos termos da orientação jurisprudencial desta Corte, ainadmissibilidade do recurso especial principal, qualquer que seja o seufundamento, inviabiliza o conhecimento do recurso adesivo, nos termos doart. 997, III, do CPC/2015 (correspondente ao art. 500, III, do CPC/1973).
+2. Considerando que o recurso especial principal não foi admitido naorigem e que o respectivo agravo não o conduziu ao provimento desta Corte,torna-se prejudicado o exame do recurso especial adesivomanejado peloinsurgente.
+3. Agravo interno desprovido.
+(AgInt no AREsp 1582951/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRATURMA, julgado em 08/06/2020, DJe 12/06/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM
+RECURSO ESPECIAL.RECURSO ADESIVO PREJUDICADO. INADMISSIBILIDADE DO PRINCIPAL. AGRAVO NOSPRÓPRIOS AUTOS NÃO INTERPOSTO. ART. 997, § 2º, DO CPC/2015. ANÁLISE DOAPELO NOBRE. PRECLUSÃO. PRECEDENTES.
+1. Recurso especial interposto contra acórdão publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+2. Inadmitido o recurso especial principal e tido como prejudicado oadesivo. A inércia do recorrente em não interpor agravonos próprios atos
+acarreta a preclusão.
+3. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1423466/DF, Rel. Ministro RICARDO VILLAS BÔASCUEVA, TERCEIRA TURMA, julgado em 30/03/2020, DJe 07/04/2020)
+ADMINISTRATIVO. PROCESSUAL CIVIL. RECURSOS ESPECIAIS INTERPOSTOS POR AMBOSOS POLOS. NEGATIVA DE SEGUIMENTO DOS RECURSOS. RECURSO ADESIVO.INEXISTÊNCIA DE AGRAVO CONTRA A DECISÃO QUE NEGOU SEGUIMENTO AO RECURSOESPECIAL PRINCIPAL. RECURSO ADESIVO PREJUDICADO.
+I - Na origem, trata-se de ação civil pública objetivando a regularizaçãoe urbanização da área denominada "Vila do Queijo" no bairro de Atalaia,Aracaju/SE. Na sentença, julgou-se procedente o pedido a fim de confirmara liminar anteriormente deferida, condenando o Município de Aracaju paraque urbanize a comunidade "Vila do Queijo", pavimentando, drenando eprovendo o saneamento básico da comunidade e a Deso para que implemente arede coletora e a estação de tratamento de esgoto sanitário, incluindo asligações domiciliares, no prazo de 60 dias.
+II - No que se refere aopedido de indenização aos proprietários dos imóveis situados nasproximidades da invasão "Vila do Queijo", em decorrência da desvalorizaçãode suas propriedades, reconheceu-se a ilegitimidade ativa do MinistérioPúblico e extinguiu-se o feito com relação a este pedido, nos termos doart. 267, VI, do CPC. No Tribunal a quo, a sentença foi reformada nojulgamento da apelação. III - Mediante análise dos autos, verifica-se queo Ministério Público do Estado de Sergipe interpôs recurso especial (fls.639-653), que foi inadmitido pela decisão de fls. 784-790, contra a qualnão foi interposto recurso.
+IV - O ora agravante interpôs recurso especial adesivo (fls.726-743), oqual foi igualmente inadmitido, em razão da inadmissão do recurso especialprincipal (fl. 787). No entanto, contra esta decisão a parte interpôs opresente agravo.
+V - Ocorre, porém, que "o recurso especial adesivo supõe a existência dorecurso especial principal; trancado este e negado seguimento ao agravoque visava processá-lo, fica prejudicado o agravo deinstrumentointerposto em face da decisão que não admitira o recurso adesivo" (AgRg noAg n. 254.544/SC, 5.ª Turma, Rel. Min.José Arnaldo da Fonseca, DJ de5/6/2000).
+VI - O fato de o recorrente principal não ter interposto o recursoprevisto no art. 544 do Código de Processo Civil de 1973, contra a inadmissão do seu recurso especial, prejudica a análise do agravo emrecurso especial, uma vez que não há recurso contra ainadmissão dorecurso principal.
+VII - A jurisprudência deste Tribunal Superior é pacífica no sentido deque o recurso especial adesivo, por sua natureza, segue a sorte doprincipal. Inexistindo recurso principal, não prospera o adesivo.Nessesentido: AgRg no AREsp n. 227.051/SP, 3ª Turma, Rel. Min.Ricardo VillasBôas Cueva, DJe de 24/6/2014; AgRg no Ag n.1.212.061/RJ, 6ª Turma, Rel.Min. Assusete Magalhães, DJe 3/2/2014;AgRg no Ag n. 1.164.318/SP, 3ªTurma, Rel. Min. Paulo de Tarso Sanseverino, DJe de 25/6/2012.
+VIII - Agravo interno improvido.
+(AgInt no AREsp 925.258/SE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA,julgado em 28/03/2019, DJe 02/04/2019)
+ANTE O EXPOSTO, julgo prejudicado oagravo.
+Publique-se.
