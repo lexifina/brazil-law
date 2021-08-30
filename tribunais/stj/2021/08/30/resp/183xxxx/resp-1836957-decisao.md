@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por PORTUS INSTITUTO DE SEGURIDADE SOCIAL, com fundamento no artigo 105, inciso III, alínea "a", da Constituição Federal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo assim ementado:
+PREVIDÊNCIA PRIVADA. AÇÃO DE REVISÃO CONTRATUAL C. C. REPETIÇÃO DE INDÉBITO. FASE DECUMPRIMENTO DE SENTENÇA. Pleito de suspensão dos atos executivos. Não admissibilidade. Entidade de previdência privada complementar sob intervenção federal, por período que ultrapassa o permitido, no art. 4º da Lei 6.024/74. Prosseguimento da execução que se mostra necessário. Recurso desprovido.
+Em suas razões, o recorrente apontou violação aos arts. 62 da Lei Complementar nº 109/2001 e 6º da Lei nº 6.024/1974.Sustentouadministrar um único Plano de Benefícios denominado Plano de Benefícios Portus 1  PBP1, encontrando-se submetido ao regime especial de intervenção federal. Dentre a lista de efeitos jurídicos decorrentes da implementação da medida excepcional sob enfoque, disse suspensa a exigibilidade de suas obrigações vencidas,devendo ser aplicada subsidiariamente à recorrente a legislação sobre intervenção e liquidação extrajudicial das Instituições Financeiras. Pediu o provimento.
+Houve contrarrazões.
+O recurso foi admitido na origem.
+É o relatório.
+Passo a decidir.
+Devolve-se a esta Corte Superior pelo recurso especial a suspensão da execução em face do regime especial de intervenção federal a que submetida.
+O acórdão recorrido reconheceu que apenas alguns dos expedientes previstos na Lei 6.024/74 seriam aplicados à entidade privada e que há muito transcorreria a intervenção, não se justificando a aplicação do art. 6º da Lei 6.024/74.
+A conclusão doacórdão encontra-se em dissonância com a jurisprudência desta Corte Superior, queadmite a aplicação da Lei nº 6.024/1974 nas intervenções de entes da previdência complementar, inclusive os efeitos decorrentes de tal regime, que estão previstos no art. 6º da Lei nº 6.024/1974, mesmo quando de sucessivas prorrogações.
+Nesse sentido:
+RECURSO ESPECIAL. CIVIL. PREVIDÊNCIA PRIVADA. INTERVENÇÃO EM ENTIDADE. PRAZO DE DURAÇÃO. ESGOTAMENTO. PRORROGAÇÕES SUCESSIVAS.ADMISSIBILIDADE. LIMITE TEMPORAL. SANEAMENTO DO ENTE. RAZOABILIDADE.CUMPRIMENTO DE SENTENÇA. SUSPENSÃO DO FEITO. NECESSIDADE. EFEITOS DO REGIME EXCEPCIONAL. LEGISLAÇÃO DAS INSTITUIÇÕES FINANCEIRAS.APLICAÇÃO SUBSIDIÁRIA.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A questão controvertida na presente via recursal consiste em definir se o período de intervenção em entidade fechada de previdência privada está sujeito ao prazo de 6 (seis) meses, prorrogável uma única vez, a refletir na suspensão do feito em fase de cumprimento de sentença.
+3. A intervenção na Previdência Privada se constitui no conjunto de medidas administrativas de natureza cautelar adotado quando ocorrentes hipóteses indicativas do comprometimento da solvabilidade da entidade de previdência complementar ou de graves irregularidades na sua administração. O resultado desse regime excepcional será a aprovação de um plano de recuperação pelo órgão competente, situação em que o saneamento das graves disfunções constatadas se revela possível, ou, caso contrário, será a decretação de sua liquidação extrajudicial.
+4. A Lei nº 6.024/1974, direcionada às instituições financeiras, somente se aplica de maneira subsidiária nas intervenções de entes da previdência complementar, de forma que, no lugar de seu art. 4º, incidem as normas próprias da área inscritas nos arts. 45 e 62 da Lei Complementar nº 109/2001 e 8º da Resolução MPS/CGPC nº 24/2007, sendo admissível, portanto, mais de uma prorrogação de prazo dessa medida de administração excepcional.
+5. Extrai-se da legislação incidente na Previdência Complementar que o regime de intervenção deve perdurar pelo tempo necessário à regularização da entidade, podendo o prazo inicial de duração ser prorrogado mais de uma vez se as circunstâncias fáticas assim o exigirem.
+6. Mesmo havendo indefinição acerca da limitação temporal da intervenção na Previdência Privada - tendo em vista a possibilidade de sucessivas prorrogações segundo as particularidades do caso -, é preciso atentar para o fato de que tal regime deve ser sempre excepcional, ou seja, não deve ferir a razoabilidade, já que não existe intervenção permanente, sendo totalmente desaconselhados o abuso e a longa duração, sob pena de a medida se transmudar em indevida estatização ou ocorrer supressão total da intervinda. 7.Não havendo a demonstração de ilegalidade na sucessiva prorrogação da intervenção no ente de previdência privada, subsistem os efeitos decorrentes de tal regime (art. 6º da Lei nº 6.024/1974), como a sustação da exigibilidade das obrigações vencidas, a gerar a suspensão do andamento da execução e o desfazimento dos atos de constrição.
+8. Recurso especial provido.(REsp 1734410/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/08/2018, DJe 24/08/2018)
+DIREITO CIVIL. RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. INTERVENÇÃO NA ENTIDADE. SUSPENSÃO DO CUMPRIMENTO DE SENTENÇA. NECESSIDADE.
+1. Ação de cobrança, já em fase de cumprimento de sentença, por meio da qual se objetiva a aplicação dos índices oficiais ao cálculo da reserva de poupança no momento do resgate.
+2. Ação ajuizada em 13/09/2000. Recurso especial concluso ao gabinete em 26/08/2016. Julgamento: CPC/73.
+3. O propósito recursal é definir acerca da possibilidade de suspensão do cumprimento de sentença quando decretada a intervenção federal em entidade de previdência privada.
+4. "Não havendo a demonstração de ilegalidade na sucessiva prorrogação da intervenção no ente de previdência privada, subsistem os efeitos decorrentes de tal regime (art. 6º da Lei nº 6.024/1974), como a sustação da exigibilidade das obrigações vencidas, a gerar a suspensão do andamento da execução e o desfazimento dos atos de constrição" (REsp 1.734.410/SP, 3ª Turma, DJe 24/08/2018).
+5. Recurso especial conhecido e não provido.
+(REsp 1746882/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 07/05/2019, DJe 09/05/2019)
+Assim, é de rigor suspender-se o cumprimento de sentença.
+Ante o exposto, dou provimento ao recurso especial para determinar a suspensão da presente execução e a inexigibilidade das obrigações vencidas.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO PREVIDENCIÁRIO. CUMPRIMENTO DE SENTENÇA. INTERVENÇÃO DA ENTIDADE DE PREVIDÊNCIA PRIVADA.
+1. "Não havendo a demonstração de ilegalidade na sucessiva prorrogação da intervenção no ente de previdência privada, subsistem os efeitos decorrentes de tal regime (art. 6º da Lei nº 6.024/1974), como a sustação da exigibilidade das obrigações vencidas, a gerar a suspensão do andamento da execução e o desfazimento dos atos de constrição." (REsp 1734410/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 14/08/2018, DJe 24/08/2018)
+2. RECURSO ESPECIAL PROVIDO.
