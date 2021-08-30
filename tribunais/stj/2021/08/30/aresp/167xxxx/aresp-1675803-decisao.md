@@ -1,0 +1,16 @@
+DECISÃO
+O pleito ministerial deduzido às e-STJ fl. 423 não deve prosperar, poisnão há no Regimento Interno do Superior Tribunal de Justiça, consoante se extrai da intelecção do art. 258 do RISTJ, nenhuma previsão acerca da necessidade de intimação da parte contrária para oferecimento de contraminuta ao recurso de agravo regimental, diferentemente do que ocorre com o agravo interno previsto no art. 259, § 3º, do mesmo Regimento.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ART. 1º, INCISOS I, II E IV, C/C O ART. 12, I, AMBOS DA LEI N. 8.137/1990. NULIDADE DO JULGAMENTO DO AGRAVO REGIMENTAL ANTERIORMENTEINTERPOSTO PELO MINISTÉRIO PÚBLICO, ANTE A AUSÊNCIA DE INTIMAÇÃO DO AGRAVADO PARA OFERECIMENTO DE CONTRARRAZÕES. INEXISTÊNCIA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL NA DECISÃO EMBARGADA.
+1. Consoante dispõe o art. 39 da Lei n. 8.038/1990, "Da decisão do Presidente do Tribunal, de Seção, de Turma ou de Relator que causar gravame à parte, caberá agravo para o órgão especial, Seção ou Turma, conforme o caso, no prazo de cinco dias", não havendo, no Regimento Interno do Superior Tribunal de Justiça, nenhuma previsão acerca da intimação da parte contrária para oferecimento de contrarrazões ao recurso de agravo regimental (Precedente).
+2. Os embargos de declaração, como se infere da redação do art. 619 do Código de Processo Penal, supõem defeitos na mensagem do julgado, em termos de ambiguidade, omissão, contradição ou obscuridade, isolada ou cumulativamente, que não se verificam na espécie.
+3. Embargos de declaração rejeitados.
+(EDcl no AgInt no RHC 80.774/RS, minha relatoria, SEXTA TURMA, julgado em 17/05/2018, DJe 01/06/2018, grifei.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ESPECIAL. INTIMAÇÃO PARA CONTRARRAZÕES AO AGRAVO REGIMENTAL. AUSÊNCIA DE PREVISÃO LEGAL OU REGIMENTAL. OMISSÃO, OBSCURIDADE E CONTRADIÇÃO. INEXISTÊNCIA DOS VÍCIOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Consoante o disposto no art. 619 do Código de Processo Penal, a oposição de embargos de declaração enseja, em síntese, o aprimoramento da prestação jurisdicional, por meio da retificação do julgado que se apresenta omisso, ambíguo, contraditório ou com erro material. São inadmissíveis, portanto, quando, a pretexto da necessidade de esclarecimento, aprimoramento ou complemento da decisão embargada, objetivam, em essência, o rejulgamento do caso.
+2. Não existe previsão legal ou regimental de intimação da parte contrária para a apresentação de contrarrazões ao agravo regimental (art. 258 do RISTJ). O direito ao contraditório e à ampla defesa são atendidos com a intimação para a apresentação de contrarrazões ao recurso especial.
+3. O acórdão ora embargado analisou, de maneira clara, coerente e individualizada, cada uma das matérias aventadas no recurso especial - e reiteradas no agravo regimental -, o que evidencia não haver nenhum fundamento que justifique a oposição dos embargos de declaração.
+4. Embargos de declaração rejeitados.
+(EDcl no AgRg no REsp 1382803/MA, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/10/2017, DJe 19/10/2017, grifei.)
+Ante o exposto, indefiro o pedido ministerial.
+Publique-se. Intimem-se
