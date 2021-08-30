@@ -1,0 +1,6 @@
+DECISÃO
+Trata-se de mandado de segurança impetrado com o objetivo de:
+ ..  DECLARAR a ilegalidade do ato do EXMO. SENHOR MINISTRO DE ESTADO DOS TRANSPORTES, que suprimiu o pagamento dos vencimentos do impetrante através da concessão do afastamento na modalidade ilícita para o caso, qual seja, "sem ônus", determinando-se que o afastamento do impetrante se realize na forma como determinada na lei e menos custosa à administração, ou seja, "ônus limitado para o DNIT", reestabelecendo-se os pagamentos vencidos e vincendos do impetrante  ..  (e-STJ fl. 21)
+A liminar requerida no processo foi prontamente avaliada e indeferida por esta relatoria (e-STJ fls. 301/302).
+Verifica-se, ainda, que o impetrante pretendia obter a licença para aperfeiçoamento, com ônus para a impetrada, por meio do curso de pós-graduação stricto sensu, com previsão de término em 2017. Sendo assim, é possível que, na presente quadra, não exista mais utilidade no julgamento do mérito e na concessão da ordem.
+Em atenção ao disposto nos arts. 10 e 317 do CPC, intime-se o impetrante para, no prazo de 15 (quinze) dias, manifestar-se fundamentadamente se mantém interesse no julgamento feito, ciente de que em caso de inércia o processo poderá ser extinto sem exame de mérito.
