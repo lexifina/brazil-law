@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de recurso especialfundamentado no art. 105, inciso III,alíneas "a" e "c" da Constituição Federal, interposto contra o acórdão proferido pelo Tribunal de Justiça do Estado do Paranáassim ementado:
+"DECLARATÓRIA DE INCIDÊNCIA DE CORREÇÃO MONETÁRIA CUMULADA COM RESTITUIÇÃO DE PARCELAS PAGAS  CORREÇÃO MONETÁRIA DEVIDA  PRAZO DE PRESCRIÇÃO DE DEZ ANOS, PREVISTO NOS ARTS. 205 C/C 2028 DO NOVO CÓDIGO CIVIL  INDEVIDA COBRANÇA DOS JUROS DE MORA  PRAZO QUINQUENAL DESRESPEITADO  TERMO INICIAL  QUESTÃO PREJUDICADA  CORREÇÃO MONETÁRIA A CONTAR DO PAGAMENTO DE CADA PARCELA - INCIDÊNCIA DOS JUROS LEGAIS MORATÓRIOS, CONTADOS A PARTIR DO 31º (TRIGÉSIMO PRIMEIRO) DIA DO ENCERRAMENTO DO GRUPO, COMO POSTULADO. ENTENDIMENTO REITERADO DA JURISPRUDÊNCIA  RESTITUIÇÃO DE VALORES PAGOS  DEDUZIDA APENAS TAXA DE ADMINISTRAÇÃO  LITIGÂNCIA DE MA- FÉ NÃO CONFIGURADA - PROVIMENTO PARCIAL DO RECURSO" (fl. 407 e-STJ).
+Os embargos de declaração opostosforam rejeitados.
+Em suas razões, orecorrente sustenta, além da existência de divergência jurisprudencial, a violação dos seguintes dispositivos:
+a) Arts. 458, II e III, e 535, II, do Código de Processo Civil de 1973 - defendendo a ocorrência de negativa de prestação jurisdicional ante a rejeição dos embargos declaratórios pela Corte de origem, que não teria se pronunciado sobre a natureza de obrigação acessória da correção monetária e dos juros moratórios.
+b) Arts. 177 e 178, § 10, III, do Código Civil de 1916 - defendendo que, por serem acessórios, a correção monetária e os juros moratórios estão submetidos ao prazo prescricional da obrigação principal, que, no caso, é vintenário.
+Contrarrazões apresentadas às fls. 528-542 (e-STJ).
+Admitido o processamento do recurso na origem, consoante decisão de fls. 544-546 (e-STJ), ascenderam os autos a esta Corte.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+De início, observa-se que a alegação de negativa de prestação jurisdicional foi formulada de forma genérica, sem especificação das supostas omissões ou teses que deveriam ter sido examinadas pelo Tribunal de origem. Ante a deficiente fundamentação do recurso nesse ponto, incide, por analogia, a Súmula nº 284/STF.
+A propósito:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA DE AÇÃO DE COMPLEMENTAÇÃO DE AÇÕES. VALOR DO CONTRATO. RADIOGRAFIA. DOCUMENTO UNILATERAL. LIMITE DOS RENDIMENTOS. TRÂNSITO EM JULGADO. TRANSFORMAÇÕES ACIONÁRIAS. INCLUSÃO DEVIDA. ART. 535, II, DO CPC/1973. AUSÊNCIA DE OMISSÕES. SÚMULA 284 DO STF. FUNDAMENTAÇÃO DEFICIENTE DO RECURSO. SÚMULAS 283 E 284 DO STF. MATÉRIAS QUE DEMANDAM REEXAME DE PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. Não se pode conhecer da apontada violação do art. 535, II, do antigo CPC/1973, pois as alegações que a fundamentaram são genéricas, sem discriminação específica dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais teria incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+2. No caso, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido nesse ponto, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. A decisão que rejeitou a impugnação ao cumprimento de sentença amparou-se nos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal importaria necessariamente no reexame de provas, o que é defeso nesta fase recursal (Súmula 7-STJ) e impede o conhecimento do recurso por ambas as alíneas do permissivo constitucional.
+4. Agravo interno não provido" (AgInt no AgInt no AREsp 932.983/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 24/2/2017 - grifou-se).
+"AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. VIOLAÇÃO DO ART. 535 DO CPC DE 1973. ALEGAÇÃO GENÉRICA. SÚMULA N. 284/STF. TESTAMENTO PÚBLICO. OBSERVÂNCIA DAS FORMALIDADES NECESSÁRIAS. INEXISTÊNCIA DE VÍCIOS EXTERNOS. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME DE FATOS E PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. DEMAIS TESES. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO IMPROVIDO.
+1. É inviável apreciar a apontada ofensa ao art. 535 do CPC de 1973, pois a deficiente fundamentação do inconformismo enseja a aplicação do óbice descrito no enunciado n. 284 da Súmula do Supremo Tribunal Federal.
+2. "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo"(Súmula 211/STJ).
+3. Esbarra no enunciado 7 da Súmula do STJ a revisão, na via estreita do recurso especial, das conclusões tomadas pelo Tribunal de origem quanto ao devido cumprimento de todos os requisitos previstos na legislação vigente no momento da confecção do testamento, à inexistência de vício externo que o torne suspeito de nulidade ou falsidade e à ausência de provas acerca de eventual vício de consentimento.
+4. Agravo interno improvido" (AgInt no AREsp 883.695/BA, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 9/3/2017 - grifou-se).
+Quanto ao mais, a irresignação merece prosperar.
+No que diz respeito à violação do art. 178, § 10, III, do Código Civil de 1916, a parte recorrente afirma ser vintenária a prescrição da pretensão de cobrançados juros moratórios na espécie.
+Sobre o tema, o acórdão assim decidiu:
+"(..)no que pertine à correção monetária não há que se falar em prescrição qüinqüenal. E tal se conclui também diante do que dispõe o atual preceito civil contido no art. 206, § 3º, III, do Novo Código Civil, que mesmo alargando o alcance da prescrição, não inseriu no seu bojo a rubrica da correção monetária.
+(..)
+Já no que diz respeito aos juros de mora, mantenho meu anterior posicionamento, adotado no julgamento da Apelação Cível no 365.368-1 e que foi corroborado quando do julgamento da Apelação Cível acima parcialmente transcrita, eis que nos termos do artigo 178, § 10, inciso III, do Código Civil de 1916, há evidente prescrição" (fls. 413/414 e-STJ).
+Tal entendimento vai de encontro à jurisprudência desta Corte, consolidada no sentido de que o prazo prescricional da pretensão de recebimentodos juros moratórios é o mesmo da obrigação principal.
+Confiram-se:
+"RECURSO ESPECIAL. DIREITO BANCÁRIO. RECIBO DE DEPÓSITO BANCÁRIO (RDB). ENTIDADE DE PREVIDÊNCIA COMPLEMENTAR FECHADA. AQUISIÇÃO COMPULSÓRIA. JANEIRO/1989. PLANO VERÃO. CORREÇÃO MONETÁRIA. DIFERENÇAS. EXPURGO INFLACIONÁRIO. JUROS REMUNERATÓRIOS. PRESCRIÇÃO VINTENÁRIA. RESGATE. TERMO FINAL.
+(..)
+2. O disposto no art. 178, § 10, III, do Código Civil de 1916 diz respeito à prescrição de juros e outras verbas acessórias cobradas autonomamente, e não conjuntamente com o principal e sobre ele incidentes.
+(..)"
+(REsp 1.166.564/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/08/2017, DJe 31/08/2017)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. OFENSA AO ART. 535 DO CPC/73. NÃO OCORRÊNCIA. REFORMATIO IN PEJUS E INÉPCIA DA INICIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. SÚMULA Nº 284/STF. TESES: TAXA CAMBIAL COMO EXPEDIENTE DE CORREÇÃO MONETÁRIA; VARIAÇÃO DA TAXA CAMBIAL INAPLICÁVEL; JUROS DE MORA. TAXA SELIC. FUNDAMENTOS INATACADOS SUFICIENTES PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. TESES: INVERSÃO DO ÔNUS DA PROVA; NULIDADE DO LAUDO PERICIAL; PROVAS SUFICIENTES PARA INFIRMAR O LAUDO; EXTINÇÃO CONTRATUAL EM CADEIA. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. RECURSO ESPECIAL NÃO PROVIDO. JUROS DE MORA. MATÉRIA DE ORDEM PÚBLICA. JUROS DE MORA. ACESSORIEDADE. OBRIGAÇÃOPRINCIPAL. MESMO PRAZO PRESCRICIONAL. HONORÁRIOS ADVOCATÍCIOS. ALEGADA SUCUMBÊNCIA MÍNIMA. ART. 21 DO CPC. IMPOSSIBILIDADE DE REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. IMPOSSIBILIDADE. DECISÃO MANTIDA.
+(..)
+6. Os juros de mora constituem acessório em relação à obrigação principal, sujeitando-se ao mesmo prazo prescricional dessa. Precedentes do STJ.
+(..)"
+(AgInt no REsp 1.439.779/PR, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 02/02/2017, DJe 08/02/2017)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUROS. RUBRICA ACESSÓRIA. PRESCRIÇÃO. INCIDÊNCIA DO PRAZO DA OBRIGAÇÃO PRINCIPAL. FIXAÇÃO DOS HONORÁRIOS. SUCUMBÊNCIA E PRINCÍPIO DA CAUSALIDADE. MODIFICAÇÃO. DECORRÊNCIA LÓGICA DO JULGADO. OFENSA À COISA JULGADA. NÃO OCORRÊNCIA. AGRAVO DESPROVIDO.
+1. Tendo a ação sido proposta para cobrança do valor integral da dívida, ou seja, do valor principal mais acessórios, não é possível sustentar que a pretensão ao recebimento dos acessórios esteja subordinada a prazo prescricional mais reduzido.
+(..)
+4. Agravo regimental a que se nega provimento."
+(AgRg no AREsp n. 38.930/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 3/3/2015, DJe 30/3/2015)
+"AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONSÓRCIO. RESTITUIÇÃO DE PARCELAS PAGAS POR CONSORCIADO DESISTENTE. JUROS. RUBRICA ACESSÓRIA. PRESCRIÇÃO. INCIDÊNCIA DO PRAZO DA OBRIGAÇÃO PRINCIPAL. ALEGADA VIOLAÇÃO AOS ARTS. 269 E 295 DO CPC. ATRAÇÃO DO ENUNCIADO 284/STF. RECONHECIMENTO DA CONFISSÃO DO RECEBIMENTO DE RESTITUIÇÃO PARCIAL. DÚVIDA QUANTO AO VALOR. POSTERGAÇÃO PARA LIQUIDAÇÃO. IMPOSSIBILIDADE DE VERIFICAÇÃO DE AFRONTA AO ART. 334 DO CPC. ATRAÇÃO DO ENUNCIADO 7/STJ. MANIFESTA IMPROCEDÊNCIA DO RECURSO. APLICAÇÃO DA MULTA PREVISTA NO ART. 557, §2º, DO CPC. AGRAVO REGIMENTAL DESPROVIDO, COM APLICAÇÃO DE MULTA."
+(AgRg no REsp 1.328.701/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/10/2014, DJe 09/10/2014)
+Nesse caso, como a pretensão principal diz respeito à cobrança de dívidasdecorrentes de contrato de consórcio, sob a égide do Código Civil de 1916,o prazo prescricional é vintenário (artigo 177 do CC/1916).
+Ressalta-se que o Superior Tribunal de Justiça firmou, no julgamento de recurso especial representativo da controvérsia (artigo 543-C do CPC/1973), a tese de que os juros demora devem incidir a partir do 31º (trigésimo primeiro) dia subsequente à liquidação do consórcio.
+Assim, para melhor compreensão da controvérsia, eis a ementa do referido julgado:
+"RECURSOS ESPECIAIS - DEMANDA POSTULANDO A DECLARAÇÃO DE INCIDÊNCIA DE CORREÇÃO MONETÁRIA SOBRE AS PARCELAS PAGAS A CONSÓRCIO E A RESPECTIVA RESTITUIÇÃO DOS VALORES - ACÓRDÃO ESTADUAL QUE CONSIDEROU INCIDENTES JUROS DE MORA, SOBRE OS VALORES REMANESCENTES A SEREM DEVOLVIDOS AOS AUTORES, DESDE O 31º DIA APÓS O ENCERRAMENTO DO GRUPO CONSORCIAL, BEM COMO APLICOU A SANÇÃO PREVISTA NO ARTIGO 1.531 DO CÓDIGO CIVIL DE 1916 (ATUAL ARTIGO 940 DO CÓDIGO CIVIL DE 2002) EM DETRIMENTO DO DEMANDANTE QUE NÃO RESSALVARA OS VALORES RECEBIDOS.
+(..)
+2. Irresignação da administradora do consórcio. 2.1. Voto vencedor (e. Ministro Luis Felipe Salomão). Nos termos da jurisprudência da Segunda Seção, firmada no bojo de recurso especial representativo da controvérsia (artigo 543-C do CPC), a administradora do consórcio tem até trinta dias, a contar do prazo previsto contratualmente para o encerramento do grupo, para devolver os valores vertidos pelo consorciado desistente ou excluído (REsp 1.119.300/RS, Rel. Ministro Luis Felipe Salomão, Segunda Seção, julgado em 14.04.2010, DJe 27.08.2010). Nessa perspectiva, o transcurso do aludido lapso temporal, sem a ocorrência da restituição efetivamente devida, implica a incidência de juros moratórios a partir do trigésimo primeiro dia do encerramento do grupo consorcial. Orientação aplicável inclusive aos casos em que o ajuizamento da demanda ocorre após a liquidação do consórcio.
+(..)"
+(REsp 1.111.270/PR, Rel. Ministro MARCO BUZZI, SEGUNDA SEÇÃO, julgado em 25/11/2015, DJe 16/02/2016)
+No caso concreto, conforme estabelecido na sentença, "entre a época dos fatos e a data da propositura da ação (§1º do artigo 219 do CPC) não transcorreram mais de 20 anos" (fl. 317 e-STJ).
+Ante oexposto,dou provimento ao recurso especial para que, afastadaa prescrição, retornem os autos ao Tribunal de origem para que prossiga no julgamento do feitocomo entender de direito.
+Publique-se.
+Intimem-se.
