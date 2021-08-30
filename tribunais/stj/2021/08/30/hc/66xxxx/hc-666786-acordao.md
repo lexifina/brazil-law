@@ -1,0 +1,99 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do pedido.
+Os Srs. Ministros João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. HISTÓRICO PRISIONAL CONTURBADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRITNÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição a recurso, o que implica o seu não conhecimento, ressalvados casos excepcionais, onde seja possível a concessão da ordem, de ofício.
+II - Assente que "A jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena" (HC n. 480.233/SP, Quinta Turma, Rel. Min. Félix Fischer, DJe de 19/2/2019).
+III - Para a concessão do livramento condicional, deve o acusado preencher tanto o requisito de natureza objetiva (lapso temporal) quanto os pressupostos de cunho subjetivo, nos termos do art. 83 do Código Penal, c/c art. 131 da Lei de Execução Penal.
+IV - No caso concreto, o v. acórdão considerou, além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, ausente o requisito subjetivo, com base em elementos concretos da execução penal (histórico prisional desfavorável).
+V -Também é firme o posicionamento desta eg. Corte Superior "no sentido de que é inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para o livramento condicional ou outro benefício, uma vez que tal providência implica reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita. Precedentes" (AgRg no HC n. 475.608/MS, Quinta Turma, Rel. Min. Félix Fischer, DJe de 19/2/2019).
+Habeas corpus não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): Trata-se de habeas corpus substitutivo de recurso especial, com pedido liminar, impetrado em favor de WASHINGTON ALVES DE LIMA contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo (fls. 56-61):
+"Agravo em execução penal. Livramento Condicional. Necessidade de cumprimento de pena de forma gradativa antes da concessão do benefício. Requisito não previsto em lei. Existência de falta grave de abandono do regime semiaberto. Mérito não demonstrado. Correto indeferimento. Recurso desprovido."
+Daí o presente writ, no qual a d. Defesa aduz que o livramento condicional foi negado de forma genérica, sem argumentação idônea, apenas amparado na gravidade abstrata do crime e da longa pena a cumprir.
+Explica que o paciente cumpriu todos os requisitos.
+Assere que a falta grave já foi reabilitada.
+Requer, inclusive LIMINARMENTE, a retificação da decisão a quo, com a concessão do livramento condicional. No mérito, a confirmação da liminar, com a ordem definitiva.
+Pedido liminar indeferido, às fls. 64-65.
+Informações, às fls. 70-79 e 80-85.
+O d. Ministério Público Federal oficiou pelo não conhecimento do writ, em r. parecer, nestes termos (fl. 89):
+"O Ministério Público Federal vem, nos autos do processo em epígrafe, manifestar-se pelo não conhecimento do presente habeas corpus, em que se busca seja concedido livramento condicional ao paciente, que cumpre pena de 6 anos, 3 meses e 5 dias de reclusão, com término previsto para 17/12/2022, por se tratar de writ substitutivo recursal.
+Ademais, não se vislumbra flagrante ilegalidade, a ensejar a concessão da ordem de ofício, uma vez que a negativa de concessão de livramento condicional encontra-se devidamente fundamentada na ausência do requisito subjetivo indispensável ao implemento do benefício, em razão da prática de falta grave no curso da execução (não retorno de saída temporária).
+Por fim, é de se consignar que a revisão do entendimento firmado pelas instâncias ordinárias ensejaria o revolvimento do conjunto fático-probatório dos autos, providência inadmissível na via célere e estreita do presente remédio heroico."
+É o relatório.
+EMENTA
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. REQUISITO SUBJETIVO AUSENTE. HISTÓRICO PRISIONAL CONTURBADO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRITNÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição a recurso, o que implica o seu não conhecimento, ressalvados casos excepcionais, onde seja possível a concessão da ordem, de ofício.
+II - Assente que "A jurisprudência desta Corte se firmou no sentido de que a gravidade dos delitos pelos quais o paciente foi condenado, bem como a longa pena a cumprir não são fundamentos idôneos para indeferir os benefícios da execução penal, pois devem ser levados em consideração, para a análise do requisito subjetivo, eventuais fatos ocorridos durante o cumprimento da pena" (HC n. 480.233/SP, Quinta Turma, Rel. Min. Félix Fischer, DJe de 19/2/2019).
+III - Para a concessão do livramento condicional, deve o acusado preencher tanto o requisito de natureza objetiva (lapso temporal) quanto os pressupostos de cunho subjetivo, nos termos do art. 83 do Código Penal, c/c art. 131 da Lei de Execução Penal.
+IV - No caso concreto, o v. acórdão considerou, além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, ausente o requisito subjetivo, com base em elementos concretos da execução penal (histórico prisional desfavorável).
+V -Também é firme o posicionamento desta eg. Corte Superior "no sentido de que é inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para o livramento condicional ou outro benefício, uma vez que tal providência implica reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita. Precedentes" (AgRg no HC n. 475.608/MS, Quinta Turma, Rel. Min. Félix Fischer, DJe de 19/2/2019).
+Habeas corpus não conhecido.
+VOTO
+O EXMO. SR. MINISTRO JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT): A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade, seja possível a concessão da ordem de ofício.
+Tal posicionamento tem por objetivo preservar a utilidade e eficácia do habeas corpus como instrumento constitucional de relevante valor para proteção da liberdade da pessoa, quando ameaçada por ato ilegal ou abuso de poder, de forma a garantir a necessária celeridade no seu julgamento. Assim, incabível o presente mandamus, porquanto substitutivo de recurso especial.
+Em homenagem ao princípio da ampla defesa, contudo, necessário o exame da insurgência, a fim de se verificar eventual constrangimento ilegal passível de ser sanado pela concessão da ordem, de ofício.
+Para delimitar a quaestio, transcrevo o v. acórdão combatido (fls. 56-61):
+"Trata-se de agravo em execução interposto pelo sentenciado Washington Alves de Lima em face da r. decisão do MM. Juízo de Direito do Departamento Estadual de Execução Criminal DEECRIM 5ª RAJ Presidente Prudente, que indeferiu pedido de livramento condicional, sob o fundamento de que é necessária a gradativa reinserção do sentenciado no regime intermediário, pelo histórico de falta disciplinar e gravidade do crime (fls. 38/39).
+Alega o agravante, em síntese, que teria preenchido os requisitos objetivos e subjetivos necessários à concessão do livramento condicional.
+Afirma que a r. decisão exigiu requisito inexistente na lei para indeferir o benefício (fls. 01/12).
+Pleiteia o provimento do recurso para que seja concedido o livramento condicional.
+Regularmente processado, o recurso foi respondido em contraminuta (fls. 16/22).
+A decisão hostilizada foi mantida a fl. 23.
+Remetidos os autos a essa instância recursal, a douta Procuradoria Geral de Justiça ofertou parecer, posicionando-se pelo desprovimento do agravo (fls. 84/87).
+É o relatório.
+O recurso não comporta provimento.
+O agravante cumpre a pena total de 06 anos, 03 meses e 05 dias de reclusão pela prática dos delitos de tráfico de drogas e furto (fls. 31/36).
+A decisão recorrida justificou, entre outros fundamentos, o indeferimento do pedido de concessão de livramento condicional na necessidade de o agravante vivenciar primeiramente o regime intermediário, sob pena de se configurar o fenômeno da progressão per saltum.
+Entretanto, respeitado o entendimento do magistrado sentenciante, o fundamento apresentado não se baseou em nenhum dos requisitos legais exigidos para concessão do benefício.
+O artigo 83 do Código Penal estabelece em seus incisos que é necessária a satisfação dos requisitos objetivo (cumprimento de 1/3 da pena para o réu primário ou 1/2 para o reincidente) e subjetivo (comportamento satisfatório, comprovado pelo atestado de bom comportamento).
+Portanto, a referida norma não exige o cumprimento de pena privativa de liberdade gradativamente no regime semiaberto ou aberto antes da concessão do livramento ao sentenciado.
+A decisão recorrida, então, estabeleceu condição não prevista na legislação, violando o princípio da legalidade (..).
+Por outro lado, destaco que, embora satisfeito o requisito objetivo e ainda que afastada a fundamentação relativa à progressão per saltum, o agravante não reúne o requisito subjetivo necessário à concessão do livramento condicional.
+Isso porque, em que pese tenha apresentado atestado de boa conduta carcerária (fls. 29/30), como bem ressaltado na decisão agravada, o recorrente ostenta uma falta grave, referente a abandono do regime semiaberto, praticada em 03/01/2019, quando beneficiado com a saída temporária, sendo recapturado apenas em 21/09/2019.
+Esse cenário indica, então, que até o presente momento o cárcere e as medidas ressocializadoras postas à disposição do reeducando (tais como a remição pelo trabalho e estudo, as saídas temporárias, indulto e o próprio livramento condicional, entre outras), mostraram-se insuficientes à absorção dos valores sociais e éticos que se exigem do indivíduo na sociedade, assim como para ensejar a alteração do seu comportamento carcerário.
+Portanto, entendo prematura a concessão de livramento condicional ao agravante.
+Ante o exposto, NEGA-SE PROVIMENTO ao agravo em execução" (grifei).
+Pois bem.
+De início, cumpre ressaltar que, para a concessão do benefício do livramento condicional, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva, nos termos do art. 83, do Código Penal, com sua nova redação ("a) bom comportamento durante a execução da pena; b) não cometimento de falta grave nos últimos 12 (doze) meses; c) bom desempenho no trabalho que lhe foi atribuído; e d) aptidão para prover a própria subsistência mediante trabalho honesto").
+Desde já, deve-se deixar consignado que a utilização de argumentos concretos extraídos do curso da execução penal não se mostram inidôneos à negativa dos benefícios almejados.
+No caso, verifica-se que o v. acórdão considerou que, para além da longa pena a cumprir e da gravidade abstrata dos delitos cometidos, não está presente o requisito subjetivo para o livramento condicional, com base em elementos concretos extraídos da execução penal, tendo em vista o histórico prisional do apenado.
+Aqui, novamente, o v. acórdão, na parte em que importa (fl. 60):
+"Isso porque, em que pese tenha apresentado atestado de boa conduta carcerária (fls. 29/30), como bem ressaltado na decisão agravada, o recorrente ostenta uma falta grave, referente a abandono do regime semiaberto, praticada em 03/01/2019, quando beneficiado com a saída temporária, sendo recapturado apenas em 21/09/2019" (grifei).
+Não se olvide que sequer os requisitos do "bom desempenho no trabalho que lhe foi atribuído" e da "aptidão para prover a própria subsistência mediante trabalho honesto" foram debatidos a contento na origem (art. 83, do Código Penal, com sua nova redação).
+No mesmo passo, os seguintes precedentes desta eg. Corte Superior:
+"AGRAVO REGIMENTAL. HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO PREENCHIDO. PRÁTICA DE FALTA GRAVE. ABANDONO DA EXECUÇÃO DA PENA. ELEMENTO CONCRETO. FUNDAMENTAÇÃO IDÔNEA. ANÁLISE DO REQUISITO DE ORDEM SUBJETIVA NA VIA ESTREITA DO WRIT. INVIABILIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+I - Para a progressão de regime, deve o apenado preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva, nos termos do art. 112 da LEP.
+II - Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que "a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fato ocorrido durante a execução da pena (fuga do estabelecimento prisional), justifica o indeferimento do pleito de progressão de regime prisional, por inadimplemento do requisito subjetivo." (AgRg no HC 387.056/SP, Quinta Turma, Rel. Min. Joel Ilan Pacionik, DJe 12/05/2017)
+III - Não se vislumbra ilegalidade no v. acórdão impugnado, que manteve o indeferimento do benefício da progressão de regime, ao entender que não está configurado o requisito subjetivo, considerando a prática de falta grave no curso da execução penal, consistente em fuga, ou seja, com base em elemento concreto da execução penal.
+IV - Nos termos da jurisprudência sedimentada nesta Corte Superior de Justiça, é inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo para a progressão de regime, uma vez que tal providência implica reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+Agravo regimental desprovido" (AgRg no HC n. 448.403/SP, Quinta Turma, Rel. Min. Felix Fischer, DJe de 27/8/2018, grifei).
+"EXECUÇÃO PENAL. RECURSO EM HABEAS CORPUS. FUGA DO ESTABELECIMENTO PRISIONAL. FALTA GRAVE. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. IMPOSSIBILIDADE. AUSÊNCIA DE REQUISITO SUBJETIVO. RECURSO NÃO PROVIDO.
+1. Na hipótese vertente, o Juízo das Execuções Criminais, considerando a fuga do sentenciado na data de 27/6/2017, indeferiu os pedidos de progressão de regime e livramento condicional. Decisão mantida pela Corte de origem, em sede de habeas corpus.
+2. Este Superior Tribunal de Justiça possui entendimento de que a fuga do estabelecimento prisional configura falta grave. Precedentes.
+3. O cometimento de infração de natureza grave impede a progressão de regime e a concessão de livramento condicional, por ausência de requisito subjetivo. Diretriz jurisprudencial consolidada nesta Corte.
+4. Recurso em habeas corpus não provido" (RHC n. 102.728/MG, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 19/10/2018, grifei).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. WRIT ORIGINÁRIO NÃO CONHECIDO. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME INDEFERIDA. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. FUNDAMENTAÇÃO IDÔNEA. FUGA DO ESTABELECIMENTO PRISIONAL. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO DESPROVIDO.
+1. Esta Corte não admite habeas corpus substitutivo de recurso próprio, porém ressalta a possibilidade de concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente, o que não é o caso dos autos.
+2. A análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fato ocorrido durante a execução da pena (fuga do estabelecimento prisional), justifica o indeferimento do pleito de progressão de regime prisional, por inadimplemento do requisito subjetivo.
+3. Evidenciada a idoneidade da fundamentação utilizada na origem, não há falar, portanto, em existência de flagrante ilegalidade que justifique a concessão da ordem de ofício.
+Agravo regimental desprovido" (AgRg no HC n. 387.056/SP, Quinta Turma, Rel. Min. Joel Ilan Paciornik, DJe de 12/5/2017, grifei).
+"HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME E LIVRAMENTO CONDICIONAL. MAU COMPORTAMENTO CARCERÁRIO. REITERAÇÃO NO COMETIMENTO DE FALTAS DISCIPLINARES DE NATUREZA GRAVE. AUSÊNCIA DE REQUISITO SUBJETIVO. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A jurisprudência desta Corte é firme no sentido de que a verificação, pelas instâncias ordinárias, de mau comportamento carcerário do Apenado, que praticou 21 faltas disciplinares de natureza grave durante a execução da pena, afasta o preenchimento do requisito subjetivo para a obtenção dos benefícios do livramento condicional e da progressão de regime.
+2. Ordem de habeas corpus denegada" (HC n. 454.603/SP, Sexta Turma, Relª. Minª. Laurita Vaz, DJe de 20/2/2019, grifei).
+Vale registrar que a modificação das decisões proferidas pelas instâncias ordinárias, para concluir pela configuração do requisito subjetivo, demandaria o revolvimento do conjunto fático-probatório dos autos da execução penal, o que é incompatível com os estreitos limites da via do habeas corpus.
+Vejamos:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. (..) CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. WRIT NÃO CONHECIDO. (..)
+2. Na espécie, o entendimento do Tribunal a quo encontra-se em harmonia com a jurisprudência consolidada por esta Corte Superior de Justiça, no sentido de que a prática de falta grave impede a concessão da progressão de regime prisional, por evidenciar a ausência do requisito subjetivo exigido durante o resgate da pena, nos termos do art. 83, III, do Código Penal.
+3. Registre-se, ainda, que é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, uma vez que tal providência implica o reexame do conjunto fático-probatório dos autos da execução, procedimento incompatível com os estreitos limites da via eleita.
+4. Habeas corpus não conhecido" (HC n. 433.642/SP, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 12/4/2018, grifei).
+"PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. PROGRESSÃO PARA O REGIME SEMIABERTO. VISITA PERIÓDICA AO LAR. NÃO PREENCHIMENTO DOS REQUISITOS DO ART. 123, III, DA LEI N. 7.210/1984. ANÁLISE FUNDAMENTADA PELAS INSTÂNCIAS ORDINÁRIAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO ORDINÁRIO NÃO PROVIDO. (..)
+2. O exame do preenchimento dos requisitos subjetivos pelo sentenciado, estabelecidos no art. 123 da Lei de Execução Penal, não pode ser analisado em via estreita do writ, por demandar análise fático-probatória.
+3. Recurso ordinário não provido" (RHC n. 55.326/RJ, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 21/3/2016, grifei).
+Assim, a fundamentação apresentada no v. acórdão recorrido está em consonância com a jurisprudência desta eg. Corte Superior.
+Não se verifica, portanto, qualquer ilegalidade a coartar.
+Ante o exposto, não conheço do habeas corpus.
+É o voto.
