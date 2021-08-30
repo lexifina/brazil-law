@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de recurso especial interposto por CIESA S.A., com fulcro no art. 105, inciso III, "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"APELAÇÃO. Ação Declaratória de Nulidade de Reajuste. Plano de saúde coletivo. Reajuste por sinistralidade. Inaplicabilidade do CDC. Cláusula contratual de sinistralidade que por si só não gera abusividade. Presença de documentos capazes de justificar o reajuste aplicado. Inexistência de abusividade. Majoração da verba honorária. Aplicação do § 11 do artigo 85 do CPC.
+Sentença mantida. Adoção do art. 252 do RITJ. RECURSO DESPROVIDO"(fl. 541, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 597/600, e-STJ).
+No recurso especial, a recorrente aponta violação dos arts. 2º, 3º, 6º, III, 46 e 51 do Código de Defesa do Consumidor e 16 da Lei nº 9.656/1998, argumentando, em síntese, que:
+(i) incide o Código de Defesa do Consumidor aos contratos de plano de assistência à saúde,e
+(ii)
+"(..)
+Restou evidenciado que as cláusulas atacadas nos autos, além de não fazerem referência aos conceitos de despesas de variação de custos médico-hospitalares, de administração, de comercialização e outras despesas incidentes sobre a operação securitária bem como de sinistralidade, não evidenciam de forma clara - como determina o CDC e a própria Lei n.9.656/98 - as variáveis e os critérios de reajuste e revisão das contraprestações pecuniárias devidas pela Recorrente"(fl. 560, e-STJ).
+Apresentadas as contrarrazões (fls. 605/625, e-STJ), o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação merece prosperar em parte.
+O Tribunal de origem dirimiu a controvérsia ao fundamento de que
+"(..)não se aplica os ditames do Código de Defesa do Consumidor aos contratos de saúde coletivos, visto não ser a parte recorrente a destinatária final do serviço, bem como estipulado no referido código: "Art. 2ºConsumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço como destinatário final""(fl. 544, e-STJ).
+Entretanto, esta Corte Superior firmou entendimento no sentido de que, excepcionalmente, é aplicável o Código de Defesa do Consumidor às demandas entre a operadora do plano de saúde e a empresa estipulante quando há contrato coletivo atípico, em que se verifica situação de vulnerabilidade.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSO CIVIL (CPC/2015). PLANO DE SAÚDE. AUMENTO POR SINISTRALIDADE. ABUSIVIDADE. RECONHECIMENTO. REVISÃO. SÚMULAS Nº 5 E 7/STJ. CONTRATO COLETIVO ATÍPICO. NÚMERO ÍNFIMO DE PARTICIPANTES. CARACTERÍSTICA HÍBRIDA. INCIDÊNCIA DO CDC. ACÓRDÃO RECORRIDO EM HARMONIA COM A JURISPRUDÊNCIA DAS TURMAS COMPONENTES DA SEGUNDA SEÇÃO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA. AGRAVO DESPROVIDO" (AgInt no AREsp 1.721.265/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 1º/06/2021, DJe 08/06/2021 - grifou-se).
+"AGRAVO INTERNO. RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO. DESCARACTERIZAÇÃO. CONTRATO ATÍPICO. NÚMERO ÍNFIMO DE PARTICIPANTES. REINTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULAS 5 E 7 DO STJ. HARMONIA COM A JURISPRUDÊNCIA DESTA CORTE. SÚMULA 83 DO STJ.
+(..)
+3. A jurisprudência do Superior Tribunal de Justiça admite, excepcionalmente, que o contrato de plano de saúde coletivo ou empresarial, que possua número ínfimo de participantes, como no caso - apenas três beneficiários -, por apresentar natureza de contrato coletivo atípico, seja tratado como plano individual ou familiar, aplicando-se-lhe as normas do Código de Defesa do Consumidor.
+Precedentes.
+4. "Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida"(Súmula 83/STJ).
+5. Agravo interno a que se nega provimento"(AgInt no REsp 1.876.451/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 01/03/2021, DJe 04/03/2021).
+"RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL C/C DECLARATÓRIA DE INEXIGIBILIDADE. AUSÊNCIA DE PREQUESTIONAMENTO. SÚM. 282/STF. CONTRATO DE PLANO DE SAÚDE COLETIVO EMPRESARIAL. RELAÇÃO JURÍDICA ENTRE ESTIPULANTE E OPERADORA. NÃO INCIDÊNCIA DO CDC. GRANDE EVASÃO DE BENEFICIÁRIOS ATIVOS. DESEQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO. CLÁUSULA DE "COBRANÇA MÍNIMA". FATOR DE ONEROSIDADE EXCESSIVA. RESILIÇÃO CONTRATUAL. DIVERGÊNCIA JURISPRUDENCIAL. ANÁLISE PREJUDICADA. JULGAMENTO: CPC/2015.
+1. Ação de rescisão contratual c/c declaratória de inexigibilidade ajuizada em 28/05/2018, da qual foi extraído o presente recurso especial, interposto em 26/04/2019 e atribuído ao gabinete em 22/08/2019.
+2. O propósito recursal é dizer sobre a incidência do CDC à lide instaurada entre a operadora do plano de saúde coletivo empresarial e a pessoa jurídica estipulante, bem como sobre a validade da cláusula contratual que exige o pagamento de "cobrança mínima" na hipótese de evasão de usuários.
+3. A demanda entre empregador e a operadora do plano de saúde coletivo não se rege pelo CDC, ressalvada a hipótese em que o contrato conta com menos de 30 (trinta) beneficiários, situação que revela a condição de vulnerabilidade do estipulante. Precedentes.
+(..)
+9. Recurso especial conhecido em parte e, nessa extensão, desprovido, com majoração de honorários" (REsp 1.830.065/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/11/2020, DJe 19/11/2020 - grifou-se).
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO COMINATÓRIA CUMULADA COM DECLARAÇÃO DE NULIDADE DE CLÁUSULA CONTRATUAL. PLANO DE SAÚDE COLETIVO EMPRESARIAL QUE BENEFICIA APENAS QUATRO EMPREGADOS. CONTRATO COLETIVO ATÍPICO. APLICABILIDADE DO CÓDIGO DE DEFESA DO CONSUMIDOR. REAJUSTE COM BASE NA SINISTRALIDADE. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. QUEBRA DA BOA-FÉ OBJETIVA. OFENSA AO PRINCÍPIO DA RAZOABILIDADE. AGRAVO PROVIDO.
+1. O Superior Tribunal de Justiça admite, excepcionalmente, a incidência do CDC nos contratos celebrados entre pessoas jurídicas, quando evidente que uma delas, embora não seja tecnicamente a destinatária final do produto ou serviço, apresenta-se em situação de vulnerabilidade em relação à outra.
+2. Conforme precedente firmado por esta eg. Corte, "4. A contratação por uma microempresa de plano de saúde em favor de dois únicos beneficiários não atinge o escopo da norma que regula os contratos coletivos, justamente por faltar o elemento essencial de uma população de beneficiários. 5. Não se verifica a violação do art. 13, parágrafo único, II, da Lei 9.656/98 pelo Tribunal de origem, pois a hipótese sob exame revela um atípico contrato coletivo que, em verdade, reclama o excepcional tratamento como individual/familiar"(REsp 1.701.600/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe de 9/3/2018).
+3. Hipótese em que o acórdão recorrido está em consonância com a jurisprudência do STJ, no sentido de que, embora se tratando de contrato firmado por pessoa jurídica, o contrato coletivo de plano de saúde que possua número ínfimo de participantes, no caso apenas quatro beneficiários, dado o seu caráter de contrato coletivo atípico, justifica a incidência do Código de Defesa do Consumidor, autorizando tratamento excepcional como plano individual ou familiar. Ademais, nos termos do reconhecido pelas instâncias ordinárias, o reajuste pretendido, fundado em suposto aumento da sinistralidade do grupo, não foi minimamente justificado pela operadora, razão pela qual autorizado, tão somente, reajuste aprovado pela ANS para o período.
+4. Agravo interno provido para conhecer do agravo e negar provimento ao recurso especial da operadora de plano de saúde" (AgInt nos EDcl no AREsp 1.137.152/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 15/04/2019).
+Portanto, é necessária a análise das características específicas do contrato objeto da demanda, a fim de verificar a eventual existência de excepcionalidade que atraia a aplicação do Código de Defesa do Consumidor.
+Ante o exposto, dou parcial provimento ao recurso especial, para determinar o retorno dos autos à origem para novo exame da apelação, à luz do entendimento supracitado.
+Publique-se.
+Intimem-se.
