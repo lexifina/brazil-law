@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interno interposto por CRISTIANO CARNEIRO EBNER contra a decisão de fls. 500-502 (e-STJ) que deu provimento ao recurso especial da ora agravada reconhecendo que a quitação da dívida deve se dar na forma dos arts. 26 e 27 da Lei nº 9.514/1997.
+Nas razões do especial, o agravante, em síntese, aduz que
+"(..) o pleito inaugural nãose fundamenta na aplicação do art. 53 do CDCao arrepio da Lei n.º 9.514/97e que, sobretudo, a rescisão judicial do pacto contratual foi motivado pelo inadimplemento da Agravada, por inobservância aos preceitos dos arts. 6º, V, 47 e 51, § 2º, do CDC" (fl. 527 e-STJ).
+Impugnação às fls. 590-595 (e-STJ).
+É o relatório.
+DECIDO.
+Razão assiste ao agravante.
+Isso porque,no caso em apreço, não se discute a mora do devedor fiduciante, mas, sim, o inadimplemento contratual da agravada, como reconhecido pela Corte de origem. Por esse motivo, afasta-se o procedimento mencionado na presente hipótese, o qual é aplicável apenas em caso de mora do devedor fiduciante.
+Nesse sentido:
+"RECURSO ESPECIAL. DIREITO CIVIL. COMPRA E VENDA. ALIENAÇÃO FIDUCIÁRIA. REGISTRO. ESCRITURA PÚBLICA. INADIMPLÊNCIA. VENDEDOR.CREDOR FIDUCIÁRIO. DIREITO À RESOLUÇÃO. ESTADO ANTERIOR. RETORNO.PARCELAS PAGAS. DEVOLUÇÃO TOTAL. ARTS. 26 E 27 DA LEI Nº 9.514/1997.INAPLICABILIDADE. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. O registro em cartório de escritura pública de compra e venda com pacto adjeto de alienação fiduciária não obsta o direito à resolução por inadimplemento fundado no artigo 475 do Código Civil.
+3. A existência de cláusula de alienação fiduciária em contrato de compra e venda não permite a aplicação dos procedimentos dos arts.26 e 27 da Lei nº 9.514/1997 para a hipótese de inadimplemento do vendedor/credor fiduciário.
+4. As razões que levam ao não provimento do recurso especial pela alínea "a" também afetam a análise pela alínea "c" do permissivo constitucional. Precedentes.
+5. Recurso especial conhecido e não provido"(REsp 1.848.385/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 11/5/2021, DJe 20/5/2021 - grifou-se).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPRA E VENDA DE TERRENO. ATRASO NA ENTREGA DAS OBRAS DE INFRAESTRUTURA DO LOTEAMENTO. DESFAZIMENTO CONTRATUAL. INDICAÇÃO GENÉRICA DE OFENSA AOS ARTS. 1.022 DO NCPC E 1.245 DO CC/02. FUNDAMENTAÇÃO DEFICIENTE.SÚMULA Nº 284 DO STF. EXISTÊNCIA DE FUNDAMENTO INATACADO SUFICIENTE PARA MANTER A DECISÃO. SÚMULA Nº 283 DO STF. VIOLAÇÃO DOS ARTS. 26 E 27 DA LEI Nº 9.514/97. INOCORRÊNCIA. MORA DA RÉ CONFIGURADA.INCIDÊNCIA DO CDC. PRECEDENTES. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Se o recorrente apenas menciona genericamente, nas suas razões recursais, o dispositivo supostamente tido por violado, sem ter particularizado os pontos em que, de fato, teria havido afrontas praticadas pela decisão hostilizada, incide, por analogia, a Súmula nº 284 do STF.
+3. A subsistência de fundamento inatacado, apto a manter as conclusões do acórdão impugnado, impõe o reconhecimento da incidência da Súmula nº 283 STF, por analogia.
+4. A Lei nº 9.514/97 estabelece procedimento específico para a consolidação da propriedade em nome do credor fiduciário e posterior alienação do imóvel em leilão público, nas situações de inadimplemento ou desistência imotivada do devedor fiduciante (arts.26 e 27). No caso vertente, o suposto inadimplemento é atribuído à incorporadora ré, por não ter cumprido sua obrigação assumida na escritura pública, razão pela qual é admitida a eventual rescisão do contrato celebrado entre as partes, com fundamento nas normas do Código de Defesa do Consumidor.
+5. O entendimento firmando no Tribunal distrital encontra-se em perfeita consonância com a jurisprudência desta Corte, segundo a qual aplicam-se as disposições da Lei 9.514/97 quando o devedor-fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos (AgInt no AREsp 1.432.046/SP, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j.17/9/2019, DJe 24/9/2019).
+6. Estando o acórdão recorrido em plena consonância com a jurisprudência dominante desta Corte, incide, no ponto, a Súmula nº 568 do STJ, segundo a qual, o relator, monocraticamente e no Superior Tribunal de Justiça poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.
+7. Agravo interno não provido"(AgInt no AREsp 1.757.802/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 19/4/2021, DJe 22/4/2021 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DISPOSITIVOS DE LEI FEDERAL ALEGADAMENTE VIOLADOS. AUSÊNCIA DE INDICAÇÃO CLARA E PRECISA. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. ALIENAÇÃO FIDUCIÁRIA DE IMÓVEL. MORA DA CONSTRUTORA. APLICAÇÃO DA LEI 9.514/97 AFASTADA. AGRAVO NÃO PROVIDO.
+1. A ausência de indicação clara e precisa dos dispositivos de lei federal alegadamente violados pelo acórdão recorrido caracteriza a deficiência na fundamentação do recurso, a atrair o óbice da Súmula 284 do Supremo Tribunal Federal. Precedentes.
+2. Aplicam-se as disposições da Lei 9.514/97 quando o devedor-fiduciante não paga, no todo ou em parte, a dívida, e é constituído em mora, o que não é o caso dos autos.
+3. Agravo interno a que se nega provimento". (AgInt no AREsp 1.432.046/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 17/9/2019, DJe 24/9/2019).
+Ante o exposto, reconsidero a decisão de fls. 500-502 (e-STJ), para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em 15% (quinzepor cento) sobre o valor da condenação, os quais devem ser majorados para o patamar de 18% (dezoitopor cento) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
