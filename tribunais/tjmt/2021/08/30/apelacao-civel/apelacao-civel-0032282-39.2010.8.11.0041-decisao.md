@@ -1,0 +1,73 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+RECURSO ESPECIAL INTERPOSTO NA APELAÇÃO CÍVEL No 0032282-39.2010.8.11.0041
+RECORRENTE (S): ROZANI ZAMINHAN
+RECORRIDO (S): LINCOM SOUZA PONCE
+Vistos.
+Trata-se de recurso especial interposto por ROZANI ZAMINHAN com fundamento no art. 105, III, alíneas “a” e “c” da Constituição Federal, contra o acórdão da Quarta Câmara de Direito Privado que, por unanimidade, proveu parcialmente o recurso da recorrente, nos termos da seguinte ementa (id. 83596958):
+“APELAÇÃO – AÇÃO ANULATÓRIA DE ATO JURÍDICO C/C REINTEGRAÇÃO DE POSSE C/C DANO MATERIAL E MORAL – PROCEDÊNCIA – PRELIMINAR DE ILEGITIMIDADE ATIVA – REJEITADA NO MÉRITO – USUCAPIÃO – MATÉRIA NÃO ARTICULADA NA ORIGEM – AUSÊNCIA DE ELEMENTOS QUE AUTORIZE – IMÓVEL URBANO DE PROPRIEDADE DA GENITORA DO AUTOR ADQUIRIDA PELA REQUERIDA – FALSIDADE DA ASSINATURA APOSTA NA PROCURAÇÃO OUTORGADA AO ADVOGADO E NO CONTRATO DE COMPRA E VENDA – CONFIGURAÇÃO – PERÍCIA GRAFOTÉCNICA REALIZADA EM INCIDENTE DE FALSIDADE – NULIDADE ABSOLUTA – INDENIZAÇÃO DE BENFEITORIAS - PRETENSÃO QUE DEVE SER BUSCADA EM AÇÕES PERTINENTES PARA O RESSARCIMENTO DE EVENTUAIS PREJUÍZOS – DANO MORAL – NÃO CONFIGURADO – DANO MATERIAL – AUSÊNCIA DE COMPROVAÇÃO – SENTENÇA PARCIALMENTE REFORMADA – RECURSO PARCIALMENTE PROVIDO
+A legitimidade ativa decorre do envolvimento no conflito de interesses, presente no caso.
+A pretensão de ter reconhecida a prescrição aquisitiva em relação ao imóvel além de não ter sido articulada na origem, não há elementos que a autorize.
+Constatado que a assinatura lançada em escritura de compra e venda de imóvel é falsa e não partiu do próprio punho da genitora do autor, impõe-se o reconhecimento da nulidade do documento e dos registros que sucederam.
+Eventual discussão acerca de supostas benfeitorias existente no imóvel objeto da lide, se for o caso, deve ser tratada em ação própria, se assim a parte entender.
+As circunstâncias não indicam ofensa à honra subjetiva do autor apelado a importar na condenação por dano moral.
+É indevida a indenização por dano material, se não restou efetivamente comprovado”. (TJMT – QUARTA CÂMARA DE DIREITO PRIVADO - RAC n. 0032282-39.2010.8.11.0041, Relator (a): GUIOMAR TEODORO BORGES, j. 14/04/2021).
+Os embargos de declaração foram rejeitados no acórdão id. 91811461.
+A parte recorrente alega violação aos artigos 182, 1.255, parágrafo único, 1.791 e 2.023 do Código Civil, artigos 489, § 1o, IV, e 1.022, parágrafo único, II, do Código de Processo Civil, além de divergência jurisprudencial ao argumento de: (a) ilegitimidade ativa - o recorrido é ilegítimo para postular o quinhão hereditário do demais herdeiros, devendo ser limitada apenas 1/3 (um terço) do terreno litigioso; (b) impossibilidade de restituição das partes ao status quo, em razão da edificação existente nos dois lotes, devendo a conversão da obrigação de fazer (reintegração de posse) em obrigação de dar (indenizar), equivalente ao valor do terreno.
+Recurso tempestivo (id. 94957953).
+Contrarrazões (id. 98564454)
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação aos artigos 489, § 1o, IV, e 1.022, parágrafo único, II, do CPC – Decisão sem omissão
+A parte recorrente alega que: (a) “(...)“seja sanada a omissão atinente à eficácia do formal de partilha para fins de limitar a legitimidade ativa da parte adversa a apenas 1/3 (um terço) do terreno litigioso”; (b) “(...) deve ser sanada a omissão de análise do pedido de substituição da reintegração por indenização do terreno litigioso”.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se em relação aos aludidos pontos, como se observa da transcrição abaixo (id 86145465):
+“(...) De acordo com o autor apelado, a assinatura de sua genitora lançada no instrumento de compra e venda, bem como na procuração outorgada ao advogado Celso Marques Araújo, colacionada nos autos do inventário de Antônio Pinto de Queiroz, seu padrasto, não foram produzidas por sua genitora. Pois bem. De início, nesta sede de recurso, a apelante suscitou a preliminar de ilegitimidade ativa ao argumento de que o autor apelado teria direito tão somente a sua quota parte do imóvel. No ponto anota que “.se incontroversamente expedidos os formais de partilha, não há se falar em indivisibilidade dos direitos dos co-herdeiros, sob pena de afronta direta e literal ao parágrafo único do art. 1.791 do Código Civil..”. Com efeito, legitimados ao processo são os sujeitos da lide, isto é, os titulares dos interesses em conflito. Na hipótese, verifica-se que na Ação de Inventário de Antonio Pinto de Queiroz, a esposa e inventariante, Eloir Ponce de Queiroz, genitora do autor apelado, apresentou emenda às primeiras declarações, para relacionar o lote aqui objeto do litígio, em razão do regime de casamento, embora o imóvel tivesse sido adquirido com o fruto do seu trabalho. Registrou, também, que referido imóvel fora alienado para Rozani Zaminhan, por meio de Compromisso de Compra e Venda. Frisa-se que a pretensão do autor apelado é exatamente a anulação, tanto da escritura de compra e venda firmada entre sua genitora e a ora apelante, bem como a procuração outorgada pela sua genitora ao advogado Celso Marques Araújo, colacionadas nos autos do inventário.
+De notar-se que o autor apelado não participou do inventário, porquanto Antônio Pinto de Queiroz não era seu genitor. Também chama atenção, para o fato de que não houve partilha do referido imóvel, mas suposta venda em vida pela genitora, falecida em 31/08/1999, negócio jurídico que se pretende a anulação, realça-se. Dentro desse contexto, não há que se falar em ilegitimidade do autor apelado, ou que tenha direito somente a sua quota parte do imóvel. Assim se diz, porque o imóvel objeto de compra e venda não foi objeto de partilha. Ademais, cabe lembrar que o autor apelado não fez parte da Ação de Inventário de Antônio Pinto de Queiroz. Não fosse isso, certo é que a pretensão do autor apelado é de invalidar ato anterior à abertura de sucessão da sua genitora. Ademais, cumpre registrar que se declarada à anulação dos instrumentos, a consequência é o retorno das partes ao status quo, vale dizer, a propriedade do imóvel retornará em nome de Eloir e não em nome do autor apelado.
+(...) De notar-se, assim, tanto o interesse processual do autor na declaração de anulação do ato jurídico, quanto à legitimidade ativa para a causa. Portanto, rejeita-se a preliminar de ilegitimidade ativa.
+(...) Cumpre assinalar que eventual discussão acerca de supostas benfeitorias existente no imóvel objeto da lide, se for o caso, deve ser tratada em ação própria, se assim a parte entender”. (g.n)
+Diante desse quadro, não há evidência de violação aos artigos 489, § 1o, IV, e 1.022, parágrafo único, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Frise-se, por oportuno, que o julgador não está obrigado a apreciar todos os argumentos e dispositivos invocados pelas partes no processo, mas sim analisar o núcleo central das questões colocadas em debate e relevantes para a decisão.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL – AÇÃO CONDENATÓRIA – DECISÃO MONOCRÁTICA QUE CONHECEU DO AGRAVO E NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DOS AUTORES. 1. Violação aos artigos 489, § 1o, IV, e 1022, II, do CPC/15, não configurada. Acórdão estadual que enfrentou todos os aspectos essenciais à resolução da controvérsia de forma ampla e fundamentada, sem omissão. O julgador não está obrigado a rebater, um a um, os argumentos invocados pelas partes, nem a indicar todos os dispositivos legais suscitados, quando tenha encontrado motivação satisfatória para dirimir o litígio. Precedentes. (...).” (AgInt no AREsp 1521129/RS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/03/2020, DJe 01/04/2020). (g.n.)
+Do reexame de matéria fática (Súmula 7 do STJ)
+Nos termos do artigo 105, III, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+A suposta violação aos artigos 1.791 e 2.023 do CC, está amparada na assertiva de ilegitimidade ativa - o recorrido é ilegítimo para postular o quinhão hereditário do demais herdeiros, devendo ser limitada apenas 1/3 (um terço) do terreno litigioso.
+O acórdão recorrido decidiu, in verbis (id. 86145465):
+“(...) De notar-se que o autor apelado não participou do inventário, porquanto Antônio Pinto de Queiroz não era seu genitor. Também chama atenção, para o fato de que não houve partilha do referido imóvel, mas suposta venda em vida pela genitora, falecida em 31/08/1999, negócio jurídico que se pretende a anulação, realça-se.
+Dentro desse contexto, não há que se falar em ilegitimidade do autor apelado, ou que tenha direito somente a sua quota parte do imóvel. Assim se diz, porque o imóvel objeto de compra e venda não foi objeto de partilha. Ademais, cabe lembrar que o autor apelado não fez parte da Ação de Inventário de Antônio Pinto de Queiroz. (...) De notar-se, assim, tanto o interesse processual do autor na declaração de anulação do ato jurídico, quanto à legitimidade ativa para a causa.
+Portanto, rejeita-se a preliminar de ilegitimidade ativa.”.
+Logo, para rever o entendimento firmado pela Câmara sobre esse ponto, é necessário o exame de fatos e provas, o que atrai o óbice sumular acima mencionado.
+Registre-se que está prejudicada a análise dos pressupostos de admissibilidade pertinentes à alínea “c” (art. 105, III, CF), diante da aplicação do verbete sumular 7 do STJ.
+A propósito:
+“TRIBUTÁRIO. PROCESSUAL CIVIL. PESSOA JURÍDICA. AUTOMÓVEL.PENHORABILIDADE DE BEM DECLARADA PELO TRIBUNAL DE ORIGEM. ATIVIDADE PROFISSIONAL. UTILIDADE OU NECESSIDADE. COMPROVAÇÃO. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO.
+1. (...).
+2. O mesmo óbice imposto à admissão do recurso pela alínea a do permissivo constitucional - incidência das Súmulas 7/STJ e 282/STF - obsta a análise recursal pela alínea c, restando o dissídio jurisprudencial prejudicado.
+3. Agravo interno não provido”. (AgInt no AgInt no AREsp 1447335/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020). (g.n.)
+Falta de dialeticidade (Súmulas 283 e 284 do STF)
+Na interposição dos recursos, as respectivas razões devem ser redigidas de forma precisa e completa, de modo a impugnar todos os fundamentos do acórdão recorrido, pois o apontamento incompleto dos supostos equívocos do decisum justifica a sua integral manutenção, já que a parte não questionada pode ser suficiente como fundamentação e não permitir a reforma do julgado.
+Se não há impugnação completa, ocorre ofensa ao princípio da dialeticidade, incidindo o óbice das Súmulas 283 e 284 do STF.
+A propósito:
+“AGRAVO INTERNO. RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM COBRANÇA. EMBARGOS DE DECLARAÇÃO.PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO. AUSÊNCIA PARCIAL. REEXAME DE CLÁUSULAS CONTRATUAIS E DE MATÉRIA FÁTICA.FUNDAMENTOS NÃO IMPUGNADOS. SÚMULAS 282, 283 E 356/STF E 5, 7 E 182/STJ.
+1. (...) 3. É inadmissível o recurso especial que não impugna fundamentos do acórdão recorrido aptos, por si sós, a manter a conclusão a que chegou a Corte estadual (Enunciado 283 da Súmula do STF).
+5. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+6. Nos termos do art. 932, III, do Código de Processo Civil/2015, não se conhece de agravo cujas razões não impugnam especificamente o fundamento da decisão agravada. Aplicação, por analogia, do enunciado n. 182 da Súmula do STJ.
+7. Em atenção ao princípio da dialeticidade, cumpre à parte recorrente o ônus de evidenciar, nas razões do agravo em recurso especial, o desacerto da decisão recorrida.
+8. Agravo interno a que se nega provimento”. (AgInt no REsp 1490696/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/09/2020, DJe 01/10/2020). (g.n.)
+“AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73) - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO REQUERIDO.
+1. Admissível o agravo, apesar de não infirmar a totalidade da decisão agravada, pois a jurisprudência do STJ é assente no sentido de que a impugnação de capítulos autônomos da decisão recorrida apenas induz à preclusão das matérias não impugnadas.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado e a apresentação de razões dissociadas desse fundamento, impõem o reconhecimento da incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3. (...) 4. Agravo regimental desprovido”. (AgRg no AREsp 489.474/MA, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 08/05/2018, DJe 17/05/2018).
+Assim, quanto à alegação de violação ao artigo 182 e 1.255, parágrafo único do CC, a parte recorrente alega a impossibilidade de restituição das partes ao status quo, em razão da edificação existente nos dois lotes, devendo a conversão da obrigação de fazer (reintegração de posse) em obrigação de dar (indenizar), equivalente ao valor do terreno.
+No entanto, verifica-se que as razões recursais são incompletas e não impugnam precisamente todas as fundamentações do acórdão.
+Com efeito, na decisão impugnada, o órgão fracionário consignou que: “(...) eventual discussão acerca de supostas benfeitorias existente no imóvel objeto da lide, se for o caso, deve ser tratada em ação própria, se assim a parte entender”
+Com isso, observa-se que a parte recorrente abordou a questão de forma incompleta, porquanto não impugnou o fundamento da decisão recorrida acima exposto, qual seja, a controvérsia sobre supostas existência de benfeitorias deve ser tratada em ação própria.
+Dessa forma, considerando que as razões recursais não impugnam exatamente os fundamentos do acórdão recorrido, há violação ao princípio da dialeticidade, o que impede a admissão do recurso.
+Ante o exposto nego seguimento ao recurso com fundamento no artigo 1.030, V, do CPC.
+Publique-se. Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
