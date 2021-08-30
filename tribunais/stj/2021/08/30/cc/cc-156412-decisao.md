@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de conflito negativo de competência em que é suscitante o JUÍZO DE DIREITO DA 22ª VARA CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL (e-STJ fl. 136), tendo como suscitado o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE PARNAMIRIM/RN (e-STJ fls. 124).
+Na origem, trata-se de arrolamento sumário ajuizado por J. M. P. J., inicialmente, perante o Juízo da Comarca de Parnamirim/RN. Extrai-se dos autos que M. C. S. M. P., genitora do autor, seu único filho, faleceu em 23 de agosto de 2005 (e-STJ fl. 8), sem ter deixado testamento.
+O autor, herdeiro necessário exclusivo do espólio de M. C. S. M. P., formulou ao Juízo Cível a requisição do levantamento e posterior adjudicação da quantia à disposição no Banco do Brasil S.A. em virtude da movimentação do processo de precatório alimentar que possibilitou o saque dos valores (e-STJ fl. 9). O processo originário nº 1997.34.00.035853-5/JFDF resultou no processo de precatório alimentar nº 2008.01.98.068702-4, no qual foi garantido o reajuste do índice de 28,86% concedido à servidores públicos.
+O Juízo da 1ª Vara Cível da Comarca de Paranamirim/RN declinou de sua competência sob alegação de que qualquer pedido referente ao levantamento do valor referido deveria ser analisado pelo Juízo Federal, especialmente por versar a verba almejada precatório alimentar oriundo de processo em tramitação perante a 22ª VARA CÍVEL DA SEÇÃO JUDICIÁRIA DO DISTRITO FEDERAL, nos seguintes termos:
+"(..) O Ofício de fls. 109 expedido pelo TRF da 1ª Região informa que qualquer pedido referente a levantamento do valor deverá ser apreciado perante o Juízo Federal da 22ª Vara Federal da Seção Judiciária do Distrito Federal, em razão de se tratar de precatório alimentar oriundo de processo em trâmite naquele Juízo.
+Diante do exposto, declino a competência para processar o presente feito ao Juízo Federal da 22ª Vara Federal da Seção Judiciária do Distrito Federal, determinando, por conseguinte, a remessa destes autos a juízo declinado" (e-STJ fl. 124).
+Por sua vez, o Juízo Federal suscitou o presente conflito tendo em vista sua incompetência para analisar o direito relativo aos bens constantes do inventário da falecida nos autos ação de inventário e arrolamento de bens, informando ainda já ter sido expedido ofício determinando a transferência do valor para o Juízo da Comarca de Paranamirim/RN (e-STJ fl. 136).
+O Ministério Público Federal, por meio do seu representante legal o Subprocurador-Geral da República Antonio Carlos Martins Soares, deixou de opinar, nos termos da seguinte ementa:
+"CONFLITO DE COMPETÊNCIA. Sucessões. Ação de arrolamento sumário. Disponibilidade do direito controvertido. Intervenção do Ministério Público Federal condicionada à existência de interesse público primário, revelado pela matéria ou pela qualidade das partes envolvidas. Hipótese de não intervenção ministerial. Inteligência dos arts. 178 e 951, parágrafo único, do CPC/2015. Recomendações nºs 34 e 37 do Conselho Nacional do Ministério Público. Parecer pelo prosseguimento do feito, prescindindo-se da opinião meritória do Parquet Federal" (e-STJ fl. 146).
+É o relatório.
+DECIDO.
+O conflito merece ser conhecido.
+Ademais, o processo de inventário, em que se discute apenas questões de direito, destina-se, em regra, a dividir o patrimônio do falecido entre os herdeiros. Ainda que tenha apenas um sucessor, o procedimento é indispensável, pois, de qualquer modo, faz-se necessária descrição pormenorizada de todos os bens que o integram e das dívidas que devem ser satisfeitas.
+Portanto, se o pedido relaciona-se com a herança, muito embora observe rito distinto, no caso concreto o levantamento de quantia referente a precatório alimentar, não há óbice algum que tenha sua análise perante o juízo do inventário, cuja competência deve ser declarada, nos termos da jurisprudência desta Corte:
+A propósito:
+"COMPETÊNCIA. CONFLITO. A JUSTIÇA FEDERAL E INCOMPETENTE, EM RAZÃO DA MATÉRIA, PARA CAUSA RELATIVA A DIREITO SUCESSÓRIO. AUSÊNCIA DA UNIÃO AO FEITO. COMPETÊNCIA, NO CASO, DA JUSTIÇA COMUM ESTADUAL" (CC 12.661/RR, Rel. Ministro FONTES DE ALENCAR, SEGUNDA SEÇÃO, julgado em 14/06/1995, DJ 11/09/1995).
+"COMPETENCIA. PIS / PASEP. FGTS. FALECIMENTO DO TITULAR DA CONTA. ALVARÁ DE LEVANTAMENTO.
+I - É DA COMPETÊNCIA DA JUSTIÇA ESTADUAL EXPEDIR ALVARÁ DE LEVANTAMENTO DE VALORES RELATIVOS AO PIS/PASEP E AO FGTS, EM DECORRÊNCIA, DE FALECIMENTO DO TITULAR DA CONTA, INDEPENDENTEMENTE DE INVENTARIO OU ARROLAMENTO.
+II - LEI N. 6.858, DE 24.11.80, ART. 1. DECRETO N. 85.845, DE 1981, ART. 2º. III - CONFLITO DE QUE SE CONHECE, A FIM DE DECLARAR-SE A COMPETENCIA DA JUSTIÇA ESTADUAL" (CC 8.457/SC, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, PRIMEIRA SEÇÃO, julgado em 10/05/1994, DJ 30/05/1994).
+"PROCESSO CIVIL. RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE TESTAMENTO. INVENTÁRIO. COMPETÊNCIA.
+1. Inexiste ofensa ao art. 535 do CPC, quando o tribunal de origem pronuncia-se de forma clara e precisa sobre a questão posta nos autos.
+2. O fato da ação de abertura, registro e cumprimento de testamento ter se processado na comarca de Uberaba-MG não implica a prevenção do juízo para a ação anulatória de testamento. Afinal, trata-se de um processo de jurisdição voluntária, em que não se discute o conteúdo do testamento, limitando-se ao exame das formalidades necessárias à sua validade.
+3. Nem sempre coincide a competência para conhecer do pedido de abertura registro e cumprimento de testamento e para decidir as questões relativas à sua eficácia, tais como a ação declaratória, constitutiva negativa de nulidade ou de anulação.
+4. Não há conexão entre o inventário e a ação anulatória porque ausente a identidade entre os elementos objetivos das demandas.
+Todavia, a prejudicialidade é evidente. Com efeito, a conclusão do processo de inventário, ao final, dependerá do resultado da ação anulatória.
+5. Ainda que a ação anulatória não tenha sido proposta em face do Espólio, a declaração de nulidade do testamento interessa à herança e, por isso, deve ser apreciada pelo juízo do inventário.
+6. A denominada vis atrativa do inventário (art. 96 do CPC) é abrangente, sendo conveniente que todas as demais ações que digam respeito à sucessão, dentre elas o cumprimento das suas disposições de última vontade (art. 96 do CPC), também sejam apreciadas pelo juízo do inventário.
+7. Não havendo prevenção do juízo que determinou o registro e cumprimento do testamento impugnado, em Uberaba-MG, remeter-lhe o processo para julgamento poderia gerar novos questionamentos acerca da sua própria competência, em franco prejuízo à duração razoável do processo.
+8. Negado provimento ao recurso especial" (REsp 1.153.194/MS, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 13/11/2012, DJe 21/11/2012).
+"RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. PENHORA NO ROSTO DOS AUTOS DE EXECUÇÃO TRABALHISTA POR ORDEM EMANADA DO JUÍZO DA EXECUÇÃO CÍVEL. FALECIMENTO DO RECLAMANTE. CONFLITO ENTRE DIREITO À HERANÇA DE MENOR E O DIREITO À TUTELA EXECUTIVA. POSSIBILIDADE DA PENHORA NO ROSTO DOS AUTOS. PODER GERAL DE CAUTELA. COMPETÊNCIA DO JUÍZO DO INVENTÁRIO PARA ANÁLISE QUALITATIVA DO CRÉDITO BLOQUEADO DIANTE DO FALECIMENTO DO RECLAMANTE.
+1. Controvérsia em torno da possibilidade de penhora no rosto dos autos de execução trabalhista por ordem emanada do juízo executivo cível, com base no seu poder geral de cautela.
+2. O devedor do juízo cível comum, que era credor na Justiça do Trabalho.
+3. Determinação pelo juízo da execução cível, após o falecimento do reclamante, da penhora no rosto dos autos da execução laboral.
+4. Alegação pelos herdeiros do devedor do caráter alimentar da verba penhorada (art.
+649, IV, do CPC/73).
+5. Possibilidade da penhora, com fundamento no poder geral de cautela do juízo da execução civel.
+6. O valor penhorado, porém, deve submetido ao juízo do inventário, competente para análise da qualidade do crédito e sua eventual impenhorabilidade, em razão de um herdeiro ser menor e presumidamente dependente da verba alimentar herdada de seu falecido pai.
+7. RECURSO ESPECIAL DESPROVIDO" (REsp 1.678.209/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 02/10/2018, DJe 08/10/2018).
+Ademais, esta Corte Superior de Justiça já se manifestou no sentido de que "cabe ao juízo do inventário decidir, nos termos do art. 984 do CPC, "todas as questões de direito e também as questões de fato, quando este se achar provado por documento, só remetendo para os meios ordinários as que demandarem alta indagação ou dependerem de outras provas", entendidas como de "alta indagação" aquelas questões que não puderem ser provadas nos autos do inventário" (REsp nº 450.951/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 23/3/2010, DJe de 12/4/2010).
+Ante o exposto, conheço do conflito para declarar competente o JUÍZO DE DIREITO DA 1ª VARA CÍVEL DE PARNAMIRIM/RN - ora suscitado.
+Publique-se.
+Intimem-se.
+EMENTA
