@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por JOSEANA ANDRETTA DE SOUZA,fundamentado no artigo 105, inciso III, alínea "a", da ConstituiçãoFederal, contra o acórdão proferido pelo Tribunal de Justiça do Estado de São Pauloassim ementado:
+"Apelação. Ação de cancelamento de registro c. c. indenização por danos morais. Órgãos de restrição ao crédito que podem manter informações dos consumidores para consulta de forma pública, nos termos do art. 43, § 4º, do CDC. Inexistência de violação de sigilo por parte da apelada. Informação verídica. Ato ilícito não caracterizado Ausência de comunicação prévia. Mera irregularidade administrativa. Recurso repetitivo REsp 1354590/RS, Ministro Raul Araújo, Segunda Seção, julgado em 09/09/2015, DJe 15/09/2015. Danos morais indevidos. Sentença de improcedência mantida. Majoração da sucumbência, nos termos do art. 85, § 11º, do CPC. Recurso desprovido" (fl. 173 e-STJ).
+Em suas razões, a recorrente aponta violação dos arts.6º, IV, e 43, § 2º, do Código de Defesa do Consumidor,186 e 927 do Código Civile 926, 927, III e IV, 1.030, 1.039 e 1.040 do Código de Processo Civil de 2015. Defende, em síntese, que seu nome foi inserido no bancode dados do recorridosem a devida notificação.
+Após a apresentação das contrarrazões (fls. 223/247 e-STJ), o recurso foiadmitido na origem, subindo os autos a esta Corte.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+A insurgência merece prosperar.
+O acórdão recorrido está em dissonância com a jurisprudência desta Cortede Justiça, conforme se observa dos seguintes precedentes:
+"Direito processual civil e bancário. Recurso especial. Ação decompensação por danos morais. Inscrição em cadastro de proteção ao créditosem prévia notificação. Legitimidade passiva do órgão mantenedor docadastro restritivo. Dano moral reconhecido, salvo quando já existenteinscrição desabonadora regularmente realizada, tal como ocorre na hipótesedos autos.
+I- Julgamento com efeitos do art. 543-C, § 7º, do CPC.
+- Orientação 1: Os órgãos mantenedores de cadastros possuem legitimidadepassiva para as ações que buscam a reparação dos danos morais e materiaisdecorrentes da inscrição, sem prévia notificação, do nome de devedor emseus cadastros restritivos, inclusive quando os dados utilizados para anegativação são oriundos do CCF do Banco Central ou de outros cadastrosmantidos por entidades diversas.
+- Orientação 2: A ausência de prévia comunicação ao consumidor dainscrição do seu nome em cadastros de proteção ao crédito, prevista noart. 43 , §2º do CDC, enseja o direito à compensação por danosmorais,salvo quando preexista inscrição desabonadora regularmente realizada.Vencida a Min. Relatora quanto ao ponto.
+II- Julgamento do recurso representativo.
+- É ilegal e sempre deve ser cancelada a inscrição do nome do devedor emcadastros de proteção ao crédito realizada sem a prévia notificaçãoexigida pelo art. 43, § 2º, do CDC.
+- Não se conhece do recurso especial quando o entendimento firmado noacórdão recorrido se ajusta ao posicionamento do STJ quanto ao tema.Súmula n.º 83/STJ.
+Recurso especial parcialmente conhecido e, nesta parte, provido paradeterminar o cancelamento da inscrição do nome do recorrente realizada semprévia notificação.
+Ônus sucumbenciais redistribuídos" (REsp 1.061.134/RS, Rel. Ministra NANCYANDRIGHI, SEGUNDA SEÇÃO, julgado em 10/12/2008, DJe 1º/4/2009).
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. INDENIZAÇÃO PORDANOS MORAIS. INSCRIÇÃO EM ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. ENVIO FEITOPOR ENTIDADE CONGÊNERE. POSSIBILIDADE. INCIDÊNCIA DA SÚMULA 83 DO SUPERIORTRIBUNAL DE JUSTIÇA. QUANTUM INDENIZATÓRIO MAJORADO PELA DECISÃO AGRAVADA.MANUTENÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. É válida a comunicação prévia efetuada por entidade congênere, namedida em que a jurisprudência desta Corte reconhece a legitimidade adcausam de associação ou câmara de dirigentes lojistas que reproduzinformações contidas em outros bancos de dados, desenvolvendo,por isso, típico serviço de proteção ao crédito.
+2. Cumpre destacar, ainda, que a eg. Segunda Seção desta CorteSuperior, por ocasião do julgamento do REsp 1.061.134/RS, submetido aorito do art. 543-C do CPC, decidiu que: "Ostenta tambémlegitimidade passiva para a ação indenizatória a entidade quereproduz ou mantém o cadastro, com permuta de informações constantes deoutros bancos de dados. Nesses casos, o órgão que efetuou o registroviabiliza o fornecimento, a consulta e a divulgação de apontamentosexistentes em cadastros administrados por instituições diversas com asquais possui convênio, como ocorre com as Câmaras de Dirigentes Lojistasdos diversos Estados da Federação entre si" (REsp 1.061.134/RS, Rel.Min. NANCY ANDRIGHI, DJe de 1º.4.2009).
+(..)
+4. Agravo regimental a que se nega provimento" (AgRg no AREsp 43.361/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 8/11/2016, DJe28/11/2016).
+"CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL EM RECURSO ESPECIAL. AÇÃOINDENIZATÓRIA. DANO MORAL. INSCRIÇÃO INDEVIDA EM CADASTRO DEINADIMPLENTES. INFORMAÇÕES ORIUNDAS DO CCF. NECESSIDADE DE NOTIFICAÇÃOPRÉVIA PELO ÓRGÃO DE PROTEÇÃO AO CRÉDITO. PRECEDENTES. PLEITO DE REDUÇÃODO QUANTUM REPARATÓRIO. QUANTIA QUE NÃO SE MOSTRA EXORBITANTE. REFORMA.NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.
+1. A Segunda Seção do Superior Tribunal de Justiça já assentou, sob o ritodo art. 543-C do Código de Processo Civil, que os órgãos mantenedores decadastros possuem legitimidade passiva para as ações que buscam areparação dos danos morais e materiais decorrentes da inscrição, semprévia notificação, do nome de devedor em seus cadastros restritivos,inclusive quando os dados utilizados para a negativação são oriundos doCCF do Banco Central ou de outros cadastros mantidos por entidadesdiversas. (REsp 1.061.134/RS, Rel. Ministra NANCY ANDRIGHI, DJe1º/4/2009).
+(..)
+4. Agravo regimental não provido" (AgRg no REsp 1.526.114/SP, Rel.Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 18/8/2015, DJe28/8/2015).
+Ante o exposto, dou provimento ao recurso especial para reconhecer alegitimidade passiva da ora recorridae determinar o retorno dos autos ao Tribunal de origem paraprosseguir no julgamento da apelação, como entender de direito.
+Publique-se.
+Intimem-se.
