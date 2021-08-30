@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por PAGANINE CONSTRUTORA LTDA. contra a decisão que inadmitiu o recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alínea "a", da Constituição Federal, insurge-se contra o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"Compromisso de compra e venda. Ação de indenização por vícios construtivos. Improcedência. Decadência reconhecida. Inaplicabilidade do art. 26 do CDC ao caso concreto. Incidência do prazo de prescrição decenal, conforme art. 205 c. c. art. 618 do CC e Súmula nº 194 do STJ. Precedentes. Sentença reformada. Recurso provido" (fl. 182e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 214/216 e-STJ).
+No recurso especial (fls. 190/203 e-STJ), a recorrente apontaviolação dos arts. 489, § 1º, IV, e 1.022, II,do Código de Processo Civil de 2015, ao argumento de que o acórdão recorrido não fundamentou e, ainda, foi omissoquanto àdata em que o vício em debate teria surgido e à alegação de que houve o escoamento do prazo de garantia previsto no art. 618 do Código Civil de 2002.
+Nesse sentido, afirma que, "mesmo entendendo que o prazo para interpor ação seja o prescricional de 10 anos, conforme Súmula 194 deste Ilustre Tribunal Superior de Justiça, o vicio alegado tem que ter ocorrido dentro do prazo de garantia" (fl. 199 e-STJ).
+Com as contrarrazões (fl. 220 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição do presente agravo.
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelorecurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência merece prosperar.
+Com efeito, a jurisprudência do Superior Tribunal de Justiça é pacífica ao concluir,à luz do art. 618 do Código Civil de 2002,que "o empreiteiro permanecerá responsável por vício oculto que venha a ser revelado dentro do quinquênio legal, comprometendo a segurança e solidez da construção"(REsp 1.717.160/DF, Rel. Ministra Nancy Andrighi, Terceira Turma, julgado em 22/3/2018, DJe 26/3/2018 - grifou-se).
+Assim, em primeiro lugar, é necessário verificarse, de fato, o vício ocorreu dentro desse interregno, correspondente ao prazo de garantia, para só então aferir se a ação foi proposta dentro do lapso prescricional de 10 (dez) anos, conforme entendimento consolidadonos seguintes termos:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. REPARAÇÃO DE DANOS MATERIAIS E MORAIS. CONTRATO DE PRESTAÇÃO DE SERVIÇOS. PROJETO ARQUITETÔNICO, ASSESSORIA E ACOMPANHAMENTO TÉCNICO DE CONSTRUÇÃO.OFENSA AOS ARTS. 489, § 1º, E 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA.VÍCIOS CONSTRUTIVOS. PRETENSÃO INDENIZATÓRIA. PRAZO DECADENCIAL (CDC, ART. 26). INAPLICABILIDADE. PRESCRIÇÃO DECENAL (CC/2002, ART.205). AGRAVO NÃO PROVIDO.
+1. Não há que se falar em ofensa aos arts. 489, § 1º, e 1.022, II, do CPC/2015, uma vez que o acórdão recorrido adotou fundamentação suficiente, decidindo integralmente a controvérsia. É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte.
+2. A pretensão de natureza indenizatória do consumidor pelos prejuízos decorrente dos vícios do imóvel não se submete à incidência de prazo decadencial, mas sim de prazo prescricional.
+Precedentes.
+3. Esta Corte Superior entende que "o prazo prescricional da ação para obter, do construtor, indenização por defeito da obra na vigência do Código Civil de 2002 é de 10 anos" (AgRg no AREsp 661.548/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 10/6/2015).
+4. Agravo interno não provido".
+(AgInt no AREsp 1.711.018/PR, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 12/4/2021, DJe 12/5/2021)
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA DA DEMANDADA.
+(..)
+4. O evento danoso, para caracterizar a responsabilidade da construtora, deve apresentar-se dentro dos 5 (cinco) anos previstos no art. 618 do Código Civil de 2002 (art. 1.245, CC/16). Uma vez caracterizada tal hipótese, o construtor poderá ser acionado no prazo prescricional de vinte (20) anos na vigência do CC/16, e 10 (anos) na vigência do CC/02. Precedentes.
+5. Não é permitido verificar a proporcionalidade da sucumbência das partes, estabelecida pelo Tribunal de origem, pois demandaria o revolvimento de matéria fático-probatório, cuja análise e revisão revelam-se interditadas a esta Corte Superior, em face do óbice contido na Súmula 7 do STJ.
+6. Agravo interno desprovido".
+(AgInt nos EDcl no REsp 1.814.884/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/3/2020, DJe 25/3/2020)
+"AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. OMISSÃO. NÃO OCORRÊNCIA. 2. ESPÉCIE DE VÍCIO ALEGADO PELO AUTOR. AFERIÇÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ.3. AÇÃO DE REPARAÇÃO DE DANOS AJUIZADA DIRETAMENTE CONTRA A CONSTRUTORA. PRAZO PRESCRICIONAL DECENAL. SÚMULA 83/STJ. PRESCRIÇÃO NÃO CONSUMADA. MODIFICAÇÃO DESSA CONCLUSÃO. DESCABIMENTO. APLICAÇÃO, MAIS UMA VEZ, DA SÚMULA 7/STJ. 4. PEDIDO GENÉRICO. POSSIBILIDADE.ART. 324, § 1º, II, DO CPC/2015. 5. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo que se falar em negativa de prestação jurisdicional.
+2. É descabido transpor, nesta instância extraordinária, a modificação da conclusão delineada no acórdão recorrido e acolher a tese da parte recorrente - a respeito da espécie de defeito construtivo -, pois tal providência exige inexoravelmente o reexame dos fatos e das provas dos autos, o que é vedado pelo disposto na Súmula 7/STJ.
+3. Segundo a jurisprudência desta Corte Superior prescreve em 20 (vinte) anos a pretensão de obter do construtor indenização proveniente de vício constatado na obra, na vigência do Código Civil de 1916, ou em 10 (dez) anos após a entrada em vigor do Código Civil de 2002, observada a regra de transição do art. 2.028 do CC/2002.Precedentes.
+4. No caso, inafastável a aplicação da Súmula 7/STJ - acerca da não consumação da prescrição decenal -, pois não há como derruir a conclusão delineada no acórdão combatido, sem que se proceda ao reexame do conjunto fático-probatório do feito, o que não se admite no recurso especial.
+5. Consoante o disposto no art. 324, § 1º, II, do CPC/2015, sendo o caso de ato ilícito, em que o autor não puder, de pronto e de forma definitiva, delimitar todas as suas consequências, lhe é devido especificar apenas algumas delas e indicar que não possui condições, no momento de ajuizamento da ação, de delinear as demais, requerendo que se clarifique o pedido no curso da demanda, através de produção de prova técnica, como se verifica na presente hipótese de vício construtivo.
+6. Agravo interno desprovido".
+(AgInt no REsp 1.800.488/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 10/6/2019, DJe 13/6/2019)
+Acerca do assunto, na hipótese dos autos, o acórdão recorrido se limitou a afirmarque, "se ocorrido o defeito de construção no prazo do artigo 618 do Código Civil atual, como no caso concreto, o construtor ainda poderá ser acionado no prazo de 10 (dez) anos" (fl. 185 e-STJ - grifou-se).
+Embora correta a análise sobre qual o prazo prescricional aplicável na espécie e sua distinção em relação ao prazo de garantia, a Corte local violou os arts.489, § 1º, IV, e 1.022, II, do Código de Processo Civil de 2015 ao deixar de fundamentar e analisar, com base nas provas dos autos,o fato até o momento controverso relativoa eventual transcurso do quinquênio mencionado.
+Ressalta-se que amera utilização da expressão "como no caso concreto" não é suficiente para considerar a decisão devidamente fundamentada.
+Ante o exposto, conheço do agravo e dou provimento ao recurso especial para cassar o acórdão recorrido, determinando o retorno dos autos ao Tribunal de origem, para que seja apurada e fundamentada a questão fática acima delineada.
+Publique-se.
+Intimem-se.
