@@ -1,0 +1,17 @@
+DECISÃO
+TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PARCIAL PROVIMENTO DO RECURSO ESPECIAL PARA AFASTAR A COBRANÇA DA CONTRIBUIÇÃO DESTINADA AO SENAR. SUCUMBÊNCIA RECIPROCA. EMBARGOS DE DECLARAÇÃO DA EMPRESA ACOLHIDOS COM EFEITOS MODIFICATIVOS.
+1. Trata-se de Embargos de Declaração no Recurso Especial opostos por COMPANHIA USINA SÃO JOÃO contra decisão de minha relatoria, ementada nos seguintes termos:
+TRIBUTÁRIO. RECURSO ESPECIAL. CONTRIBUIÇÃO INCIDENTE SOBRE A COMERCIALIZAÇÃO DOS PRODUTOS RURAIS DESTINADAS AOSENAR (SERVIÇO NACIONAL DE APRENDIZAGEM RURAL).ADQUIRENTE DA PRODUÇÃO RURAL.SUBSTITUIÇÃO TRIBUTÁRIA.AUSÊNCIA DE PREVISÃO LEGAL. RECURSO ESPECIAL DA PESSOA JURÍDICA A QUE SE DÁ PARCIAL PROVIMENTO.PROVIMETNO AO RECURSO ESPECIAL.
+2. Aduz a embargante, em síntese, que diante do provimento do pedido para declarar inexigível a cobrança da contribuição ao SENAR em período anterior à edição da Lei n. 13.606/2018a nobre decisão incorreu em obscuridade e/ou omissão quando manteve os ônus sucumbenciais fixados na origem, no montante de 10% do valor da causa para cada réu (Fazenda Nacional e SENAR) (fl. 381).
+3. Aponta, ainda, que em relação à Fazenda Nacional a sucumbência não foi mínima. Justificaque a demanda discutia a exigibilidade, por substituição tributária,de duas contribuições (FUNRURAL e SENAR), tendo a embargante sido vencedora em um dos pedidos, tendo havido a declaração superveniente de constitucionalidade da contribuição ao FUNRURAL.
+4. Requer sejam acolhidos os presentes aclaratórios, com efeito modificativo, a fimde que sejam invertidos os ônus sucumbenciais em relação ao SENAR e, quanto à Fazenda Nacional, reconheça a sucumbência recíproca.
+5. Intimados os embargados, não houve apresentação de impugnação (certidão de fls. 389/390).
+6. É o relatório.
+7.O art. 1.022 do CPC/2015 é peremptório ao prescrever as hipóteses de cabimento dos Embargos de Declaração; trata-se, pois, de recurso de fundamentação vinculada, restrito a situações em que patente a incidência do julgado em obscuridade, contradição, omissão ou erro material.
+8. Revela-se plausível a insurgência dos presentes embargos declaratórios acerca da inversão doônus sucumbenciais destinados ao SENAR.
+9. A decisão ora embargada deu parcial provimento ao recurso especial da empresa para declarar inexigível a cobrança da contribuição destinada ao SENAR em período anterior à edição da Lei 13.606/2018, mantendo os ônus sucumbenciais fixados na origem.
+10. Ressalta-se, todavia, que não se trata de sucumbência mínima dos embargados, conforme descrito na decisão atacada. A sentença de fls. 156/160, ao julgar improcedentes todos os pedidos da parte autora, ora embargante, a condenou aarcar com os honorários advocatícios dos réus, fixados para cada qual em 10% do valor corrigido da causa, nos moldes do art. 85,§ 2º,do CPC/2015.
+11. Assim, com o reconhecimento da inexigibilidade da cobrança da contribuição destinada ao SENAR, a embargante sagrou-se vitoriosa em relação a esta embargada, razão pela qual deve ser aplicada a inversão dos honorários de sucumbência em seu favor.
+12. Desta forma, acolho os embargos, com efeitos modificativos, para sanar a contradição apontada edeterminar, em favor da embargante,a inversãodos honorários advocatícios então fixados na origem em favor do SENAR.
+13. Após, retornem-se os autos para análise do Agravo Interno de fls. 392/398.
+14. Publique-se. Intimações necessárias.
