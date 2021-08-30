@@ -1,0 +1,29 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ALEGADO O ACOMETIMENTO POR DOENÇA GRAVE E A IMPOSSIBILIDADE DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de concessão da benesse da prisão domiciliar requer o revolvimento do acervo fático-probatório, a sublinhar a impossibilidade de exame do pedido por esta Corte Superior, sob pena de incorrer em violação ao enunciado da Súmula n. 7 do STJ.
+2. Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "para se afastar as conclusões que justificaram a negativa do pedido de prisão domiciliar, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível, ante a incidência da Súmula 7/STJ" (AgRg no REsp n. 1.888.379/AM, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 22/10/2020).
+3. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+ARINALDO DA SILVA COSTA agrava da decisão de fls. 94-98, em que a Presidência desta Corte Superior conheceu do agravo para não conhecer do recurso especial, por incidência da Súmula n. 7 do STJ, por considerar que "a pretensão recursal demanda o reexame do acervo fático-probatório juntado aos autos" (fl. 97).
+Para tanto, assere a patrona que " t odo o conteúdo da descrição fática exposta no acórdão em destaque remete, certamente, à figura do tipo penal pelo qual foi o recorrente condenado e que já está no cumprimento da pena e não sobre o direito ou não do mesmo ao benefício da medida cautelar domiciliar em tempos de pandemia. O debate trazido à baila não importa reexame de provas, mas sim, ao revés, unicamente matéria de direito" (fl. 109).
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. PRISÃO DOMICILIAR. ALEGADO O ACOMETIMENTO POR DOENÇA GRAVE E A IMPOSSIBILIDADE DE TRATAMENTO NO ESTABELECIMENTO PRISIONAL. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. O pleito de concessão da benesse da prisão domiciliar requer o revolvimento do acervo fático-probatório, a sublinhar a impossibilidade de exame do pedido por esta Corte Superior, sob pena de incorrer em violação ao enunciado da Súmula n. 7 do STJ.
+2. Outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "para se afastar as conclusões que justificaram a negativa do pedido de prisão domiciliar, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível, ante a incidência da Súmula 7/STJ" (AgRg no REsp n. 1.888.379/AM, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 22/10/2020).
+3. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Depreende-se dos autos que o agravante pleiteou, perante a Corte de origem, a concessão do benefício da prisão domiciliar, sob a alegação de que "é portador de paraplegia (CID G82.2) e cadeirante, apresentando lombalgia severa, relacionada à posição estática, e manchas no corpo que estão sendo tratadas com medicação anti-inflamatória. Salienta, outrossim, necessitar de cuidados especiais e alimentares, tais como dieta hipossódica e hipogordurosa, além de suporte ortopédico e fisioterápico contínuo" (fl. 42, grifei).
+Salientou, ainda, que, "em razão de seu grave estado de saúde e da extrema dependência de cuidados, os quais não estão sendo prestados no estabelecimento onde se encontra recolhido, com celas superlotadas, doenças de pele, escassez de atendimento médico e sem qualquer tipo de acessibilidade, imperiosa se perfaz a autorização para que possa cumprir a pena na modalidade domiciliar" (fl. 42).
+Todavia, o Tribunal a quo negou provimento ao recurso e manteve a decisão que indeferiu o pleito defensivo. Irresignada, a defesa interpôs recurso especial o qual não foi admitido, dado que "a análise da alegação trazida no recurso especial - da impossibilidade de tratamentos médicos no estabelecimento prisional -, demandaria o reexame aprofundado do acervo fálico-probatório, providência inviável em recurso especial, nos termos da Súmula nº 7 do STJ" (fl. 71).
+Conforme já apontado na decisão vergastada, outra não é a compreensão do Superior Tribunal de Justiça, segundo a qual, "para se afastar as conclusões que justificaram a negativa do pedido de prisão domiciliar, seria necessário proceder ao revolvimento fático-probatório dos autos, o que não é cabível, ante a incidência da Súmula 7/STJ" (AgRg no REsp n. 1.888.379/AM, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 22/10/2020).
+No mesmo sentido:
+ ..
+1. No caso concreto, afirmou a Corte estadual, ao analisar a insurgência manifestada pela defesa, ser descabida a pretensão de substituição da medida de internação pela prisão domiciliar, eis que, apesar de se tratar de portador de doença mental, a defesa não trouxe aos autos qualquer atestado apto a comprovar que o réu esteja sendo privado do tratamento psiquiátrico que necessita, bem como sua situação não se enquadra naquelas previstas no artigo 117, da Lei de Execução Penal.
+2. Para se concluir de modo contrário e acolher o pleito da defesa, seria necessário o revolvimento fático-probatório, providência vedada conforme Súmula 7/ STJ.
+3. Agravo regimental improvido (AgRg no AREsp n. 1.807.745/ES, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 4/6/2021).
+À vista do exposto, nego provimento ao recurso.
