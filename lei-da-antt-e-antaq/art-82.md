@@ -18,7 +18,7 @@ XVI - aprovar projetos de engenharia cuja execução modifique a estrutura do Si
 XVII - exercer o controle patrimonial e contábil dos bens operacionais na atividade ferroviária, sobre os quais será exercida a fiscalização pela Agência Nacional de Transportes Terrestres - ANTT, conforme disposto no inciso IV do art. 25 desta Lei, bem como dos bens não-operacionais que lhe forem transferidos;
 XVIII - implementar medidas necessárias à destinação dos ativos operacionais devolvidos pelas concessionárias, na forma prevista nos contratos de arrendamento; e
 XIX - propor ao Ministério dos Transportes, em conjunto com a ANTT, a destinação dos ativos operacionais ao término dos contratos de arrendamento.
-§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infra-estrutura concedidos ou arrendados pela ANTT e pela ANTAQ.
+§ 1º As atribuições a que se refere o caput não se aplicam aos elementos da infraestrutura autorizados, concedidos ou arrendados pela ANTT e pela Antaq.
 § 2º No exercício das atribuições previstas neste artigo e relativas a vias navegáveis, o DNIT observará as prerrogativas específicas da autoridade marítima.
 § 3º É, ainda, atribuição do DNIT, em sua esfera de atuação, exercer, diretamente ou mediante convênio, as competências expressas no art. 21 da Lei nº 9.503, de 1997, observado o disposto no inciso XVII do art. 24 desta Lei.
 § 4º O DNIT e a ANTT celebrarão, obrigatoriamente, instrumento para execução das atribuições de que trata o inciso XVII do caput deste artigo, cabendo à ANTT a responsabilidade concorrente pela execução do controle patrimonial e contábil dos bens operacionais recebidos pelo DNIT vinculados aos contratos de arrendamento referidos nos incisos II e IV do caput do art. 25 desta Lei.
