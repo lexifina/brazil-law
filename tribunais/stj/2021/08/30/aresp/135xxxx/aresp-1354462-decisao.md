@@ -1,0 +1,63 @@
+DECISÃO
+Trata-se de agravo interposto por COOPERATIVA PARANAENSE DOS ANESTESIOLOGISTAS contra decisão que inadmitiu recurso especial. O apelo extremo, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, foi interposto contra acórdão assim ementado:
+"APELAÇÃO CÍVEL- AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS-INTEMPESTIVIDADE DA APELAÇÃO-INOCORRÊNCIA-EMBARGOS DE DECLARAÇÃO REPUTADOS PROTELATÓRIOS QUE NÃO AFASTAM O EFEITO INTERRUPTIVO DE PRAZO INERENTE À MEDIDA-INTERRUPÇÃO NÃO APLICÁVEL SOMENTE QUANDO HÁ AEXTEMPORMNEDADE DOSDECLARATÓRIOS,O QUE NÃO SE VERIFICA NO CASO - DEVOLUÇÃO INTEGRAL DO PRAZO RECURSAL QUE SEDEU SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL- CONTAGEM DO PRAZO CONFORME O NOVO DIPLOMA PROCESSUAL-TEMPESTIVIDADE VERIFICADA-CONHECIMENTO DO RECURSO-AGRAVO RETIDO INTERPOSTO PELO RÉU-NÃO REITERADO - ARTIGO 523, § 1º DO CPC/73(VIGENTE À ÉPOCA) - RECURSO NÃO CONHECIDO-AGRAVO RETIDO OFERTADO PELA AUTORA-JULGAMENTO ANTECIPADO DA LIDE -CERCEAMENTO DE DEFESA-INOCORRÊNCIA-DESNECESSIDADE DA PROVA PLEITEADA - RECLAMATÓRIA TRABALHISTA AJUIZADA PELO RÉU EM FACE DA COOPERATIVA AUTORA -EXERCÍCIO REGULAR DO DIREITO DE AÇÃO, PREVISTO NO ART. 5º, XXXV, DA CF-ABUSO DE DIREITO NÃO CONFIGURADO - AUSÊNCIA DE EXCESSO POR PARTE DO REQUERIDO OU DEINTENÇÃO DE PREJUDICAR A AUTORA-IMPROCEDÊNCIA DA DEMANDA TRABALHISTA QUE, POR SI SÓ, NÃO CONFIGURA ABUSO - AUSÊNCIA DE DEVER DE INDENIZAR - SENTENÇA MANTIDA EMBARGOS DE DECLARAÇÃO OPOSTOS PELO AUTOR, TIDOS PELO JUIZO SINGULAR COMO MERAMENTE PROTELATÓRIOS CUNHO PROTELATÓRIO NÃO DEMONSTRADO-MULTA AFASTADA-HONORÁRIOS RECURSAIS - RECURSO PARCIALMENTE PROVIDO"(fls. 470-472, e-STJ).
+Os embargos declaratórios foram rejeitados (fls. 542-559, e-STJ).
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos arts. 80 e 89 da Lei nº 5.764/1971; 22 da Lei nº 8.906/1994;139, 337, §4º, 374, II e III, 355, 370, 371, 389, 489, § 1º,IV, e §§ 2º e 3º, 502, 503, 506, 508, 1.022, I, II, e § único, II, do Código de Processo Civil de 2015 e 186, 389, 395,402, 404 e 927 do Código Civil de 2002. Sustenta, em suma, que:
+a)o arestorecorrido foi omisso;
+b) houve má-fé no ajuizamentoda ação trabalhista julgada improcedente,
+c) ocorreu cerceamentode defesa, e
+d) há necessidade de reparação dos danos causados.
+Inadmitido na origem, apresentou-se o presente agravo em recurso especial.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso não merece prosperar.
+Inicialmente, observa-se que, no caso em apreço, as questões trazidas aos autos foram devidamente analisadas e discutidas, e fundamentado corretamente o aresto impugnado, de modo a exaurir a prestação jurisdicional, não há falar em violação dos arts. 489 e 1.022 do CPC/2015.
+Ademais, o tribunal estadual, ao analisar a controvérsia, consignou:
+"(..)
+Em que pese a argumentação, ao revés do queinformou a recorrente, o julgamento antecipado do feito não importou em cerceamento de defesa, sendo solidificado o entendimento, tanto na doutrina quanto na jurisprudência que, sendo o magistrado o destinatário da prova, somente a ele cabe decidir sobre o necessário à formação do seu próprio convencimento.
+(..)
+Diante disso, o juiz sentenciante, estando apto a decidir com base no material probatório carreado aos autos, pode e deve antecipar o julgamento da lide, sem que configure prejuízo aos litigantes.
+Nesta linha, no caso sub judice, a natureza dos fatos controversos e a prova documental carreada aos autos justificam o julgamento antecipado do feito, independentemente da realização da prova testemunhal ou pericial.
+Corolário lógico,ainda que tenha havido requerimento específico para a produção de determinada prova, é certo que o magistrado não está vinculado, podendo, até mesmo, encerrar desde logo a fase de instrução, quando vislumbrada nos autos a presença de elementos suficientes ao seu convencimento e, consequentemente, ao julgamento do feito.
+Se desnecessários os elementos de provasolicitados, não há que se falar em cerceamento de defesa ou nulidade outra a inquinar a demanda, já que as garantias constitucionais da ampla defesa e do contraditório não implicam realização de provas desnecessárias.
+(..)
+Ademais, não se pode olvidar acerca da inutilidade da prova pretendida, uma vez que os elementos probatórios necessários ao deslinde da controvérsia já se encontravam amealhadas aos autos, sendo suficientes à conclusão do magistrado acerca do não cabimento de indenização por danos materiais e morais no caso concreto.
+(..)
+Adentrando ao mérito da demanda, sustentou a apelante que faz jus à indenização por danos materiais e morais, uma vez que:a) houve a prática de ato ilícito pelo réu, consubstanciada na propositura de ação trabalhista em que acusou a autora de desvirtuar sua natureza ao supostamente estabelecer efetiva relação empregatícia, em afronta ao estatuto da cooperativa; b) não houve exercício regular de direito pelo réu, o qual, em verdade, abusou de seu direito constitucional de ação; c) o dano material corresponde aos valores despendidos pela apelante com o pagamento de honorários advocatícios contratuais em razão da demanda trabalhista, reduzindo os recursos da cooperativa em prejuízo de seus cooperados; d) não há honorários de sucumbência na Justiça do Trabalho, razão pela qual não há que se falar em bis in idem; e) o ressarcimento desses danos decorre da teoria da reparação integral do dano pelo vencido; f) os fatos causaram dano extrapatrimonial para além do mero transtorno ou dissabor.
+Não obstante a argumentação, o pleito não merece acolhida.
+Compulsando os autos,de fato,na hipótese presente, não há que se falar em bis in idem na condenação do réu ao ressarcimento à autora dos honorários contratuais despendidos pela requerente na demanda trabalhista. Isso porque, não houve arbitramento de honorários de sucumbencia em favor dos patronos da parte vencedora (fls.155/156 -CD e fl. 208 -CD).
+Entretanto, deve ser mantida a improcedência da demanda, vez que inexistente o ato ilícito invocado pela apelante.
+(..)
+Porém, no caso de haver interesse legítimo,consubstanciado em motivo ao menos plausível para se buscar a tutela jurisdicional(ainda que posteriormente não se conceda o direito pretendido), não há que se. falar em abuso de direito, visto que está ausente o excesso e o ânimo de prejudicar.
+(..)
+Verifica-se dos autos (fls. 54/62 -CD), no entanto, que o ora réu ajuizou a reclamatória trabalhista com o fim de ver reconhecido vínculo empregatícios que entendia possuir, vez que, em seu ponto de vista, era subordinado à cooperativa apelante, não se tratando de mero cooperado da autora.
+No caso dos autos,a ausência de relação de trabalho não era evidente, pois a Justiça do Trabalho, inúmeras vezes, reconhece o vínculo empregatícios em situações parecidas, já que é prática recorrente que o empregador mascare a existência de verdadeira relação de emprego fornecendo serviços através de uma cooperativa, a fim de se eximir das obrigações trabalhistas (o que não foi o caso). O fenômeno,aliás, é conhecido como "pejotização".
+A ausência do direito do requerido, na seara trabalhista, não era manifesta e,tanto é assim, que a demanda fora profundamente controversa, com a oitiva de diversas testemunhas para que o juízo chegasse à conclusão posta na sentença (fls. 141/157 -CD). Importante destacar,ainda,que o fato de a demanda ter sido julgada improcedente (fls. 141/157 -CD e 193/209 -CD),por si só, não conduz à ideia de que houve abuso do direito (do contrário,em tese, a presente lide poderia também configurar excesso).
+(..)
+Assim, o ajuizamento de ação na Justiça do Trabalho, quando há interesse legítimo (mesmo que não acolhido), não configura abuso de direito, tendo em vista que não houve excesso ou intenção de prejudicar a empresa, atuando o ora réu no exercício regular do direito de ação e de busca da tutela jurisdicional.
+(..)
+Pelas mesmas razões, o aforamento da demanda trabalhista,vez que constitui mero exercício do direito de ação constitucionalmente garantido e praticado dentro de seus limites, não significa ofensa ao estatuto da apelante.
+Ademais, é de se ressaltar que a Justiça Laborai é orientada pelo princípio do jus postulandi, isto é, as partes podem litigarem Juízo diretamente, sendo dispensada a assistência de advogados.
+Se a demanda proposta pelo réu era tão infundada e evidentemente improcedente, como narrou a apelante, sequer haveria a necessidade da contratação de advogados pela requerente e,consequentemente, o dispêndio de um valor tão significativo a título de honorários advocatícios (quase trinta mil reais) para tratar de uma causa simples e, na óptica da autora, tão estapafúrdia.
+Assim, a contratação de advogados, especialmente estes que cobraram vultosa quantia para prestação de seus serviços, foi escolha única e exclusiva da requerente, cabendo somente a esta arcar com os ônus de sua seleção.
+Destarte, a sentença de improcedência deve ser mantida, vez que não restou configurado o abuso de direito por parte do réu ao ajuizar reclamatória. trabalhista, o que afasta o dever de indenizar"(fls. 486-502, e-STJ - grifou-se).
+Nesse contexto, não é possível a este Tribunal Superior apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula nº 7/STJ.
+Anota-se, ainda, que a aplicação do enunciado nº 7 da Súmula do STJ em relação ao recurso especial interposto pela alínea "a" do permissivo constitucional prejudica a análise da mesma matéria indicada no dissídio jurisprudencial.
+Cita-se, também, por oportuno, a jurisprudência desta Corte acerca do tema:
+"RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. AJUIZAMENTO. AÇÃO POPULAR.PRAZO PRESCRICIONAL. TERMO INICIAL. TEORIA DA ACTIO NATA. DANO E SUA EXTENSÃO. CIÊNCIA INEQUÍVOCA. LESÃO. DECURSO DO TEMPO. PRESCRIÇÃO.NÃO OCORRÊNCIA. DANOS MORAIS. DIREITO DE AÇÃO. ABUSO. INEXISTÊNCIA.PRETENSÃO LEGÍTIMA. PROTEÇÃO DO PATRIMÔNIO PÚBLICO.
+1. Recurso especial interposto na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a discutir i) a ocorrência ou não da prescrição da pretensão indenizatória e ii) a configuração de abuso do direito de ação em virtude do ajuizamento de ação popular que pretendia o reconhecimento de irregularidades no procedimento de alienação de um imóvel pertencente ao município.
+3. No tocante à prescrição, a jurisprudência do Superior Tribunal de Justiça tem adotado a teoria da actio nata, segundo a qual a pretensão surge apenas quando há ciência inequívoca da lesão e de sua extensão pelo titular do direito violado. Precedentes.
+4. Na hipótese, quando do ajuizamento da ação popular, os autores não tinham ciência inequívoca da extensão dos danos provocados pela referida ação, visto que decorreram do curso do processo. A alegada lesão do direito perdurou enquanto tramitou a ação popular.
+5. A jurisprudência do Superior Tribunal de Justiça tem se orientado no sentido da excepcionalidade do reconhecimento de abuso do direito de ação, por estar intimamente atrelado ao acesso à justiça.
+Precedente.
+6. Eventual abuso do direito de ação deve ser reconhecido com prudência pelo julgador, apenas quando amplamente demonstrado que o direito de ação foi exercido de forma abusiva. A análise acerca da configuração do abuso deve ser ainda mais minuciosa quando se tratar da utilização de ação voltada à tutela de direitos coletivos e um importante instrumento para a efetivação da democracia participativa, como é o caso da ação popular.
+7. No caso, os fundamentos adotados pela Corte de origem referem-se à improcedência da ação popular, não havendo fundamento apto a justificar o reconhecimento da alegada ofensa à honra e à imagem dos autores.
+8. No caso concreto, não ficou demonstrado, de maneira categórica, o desvio de finalidade da ação popular, nem leviandade processual dos autores.
+9. Recurso especial parcialmente provido"
+(REsp 1.770.890/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 18/8/2020, DJe 26/8/2020 - grifou-se)
+Ante o exposto, conheço do agravo para negar provimento ao recurso especial.
+Na origem, os honorários sucumbenciais foram fixados em R$ 1.200,00 (mil e duzentos reais), os quais devem ser majorados para R$ 1.320,00 (mil trezentos e vinte reais) em favor do advogado da parte recorrida, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, observado o benefício da gratuidade da justiça.
+Publique-se.
+Intimem-se.
