@@ -1,0 +1,83 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3.É incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária. Incidência da Súmula 735 do STF.
+3.1. Outrossim, oexame da presença dos pressupostos para a atribuição de efeito suspensivo aos embargos à execuçãodemandaria a incursão nos elementos fático-probatórios dos autos, atraindo a incidência da Súmula 7 do STJ. Precedentes.
+4. Agravo interno provido para reconsiderar a decisão de fls. 110-111 e-STJ, e agravo em recurso especial desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por CELIDA MARIA RODRIGUES GONCALVES em face de decisão monocrática da lavra da Presidência desta Corte Superior que não conheceu do agravo em recurso especial.
+O aludido apelo extremo, fundado nas alíneas "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Estado de Goiás assim ementado (e-STJ, fls. 51):
+AGRAVO DE INSTRUMENTO. RECURSO SECUNDUM EVENTUS LITIS. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ARTIGO 919 DO CPC. AUSÊNCIA DOS REQUISITOS. REGULARIZAÇÃO DO POLO PASSIVO DA EXECUÇÃO. DEMORA DOS EXECUTADOS. RESPONSABILIDADE DOS HERDEIROS PELAS DÍVIDAS DO DE CUJUS SEGUINDO OS LIMITES DA HERANÇA. DECISÃO MANTIDA. 1  O presente recurso, de caráter secundum eventus litis, somente possui o condão de analisar a legalidade, abusividade ou teratologia de decisão interlocutória exarada nos autos principais, não podendo, desta forma, adentrar na questão de fundo da lide originária. 2  A concessão do efeito suspensivo nos Embargos à Execução impõe a evidencia dos pressupostos insertos no artigo 919, §1º, do CPC. 3  In casu, não restou demonstrado que a embargante/agravante garantiu a execução por penhora, depósito ou caução suficiente a assegurar ao exequente/agravado o recebimento do valor executado, impondo a manutenção da decisão agravada que não atribuiu efeito suspensivo aos embargos à execução. 4 - Não há se falar em sobrestamento dos embargos à execução até regularização do polo passivo da execução, porquanto a inexistência de inventário não obsta a substituição processual do executado falecido por seus herdeiros, devendo a execução prosseguir nos limites da herança. AGRAVO DE INSTRUMENTO CONHECIDO E DESPROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do especial (e-STJ, fls. 56-66), a parte recorrente sustentou violação ao art. 313, I, do CPC/15, defendendo que o Tribunal de origem não poderia ter permitindo a continuidade da execução, inclusive com busca patrimonial via sistema BACENJUD, tendo em vista que a morte de uma das partes constitui causa de suspensão do processo.
+Sustenta que a decisão que negou o efeito suspensivo aos embargos à execução é contrária àquela proferida anteriormente, que havia determinado a suspensão do processo em razão da morte do cônjuge da recorrente.
+Sem contrarrazões.
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 79-80, e-STJ), o que ensejou o manejo do agravo (fls. 83-92, e-STJ), que não foi conhecido ante a aplicação da Súmula 182/STJ pela Presidência desta Corte Superior (e-STJ, fls. 110-111).
+No presente agravo interno, a agravante sustenta ter impugnado especificamente os fundamentos da decisão de inadmissibilidade do reclamo, razão pela qual defende o conhecimento ao agravo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA PARTE AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, e a apresentação de razões dissociadas desse fundamento, impõe a incidência das Súmulas 283 e 284 do STF, por analogia. Precedentes.
+3.É incabível, em regra, o recurso especial em que se postula o reexame do deferimento ou indeferimento de medida acautelatória ou antecipatória, ante a natureza precária e provisória do juízo de mérito desenvolvido em liminar ou tutela antecipada, cuja reversão, a qualquer tempo, é possível no âmbito da jurisdição ordinária. Incidência da Súmula 735 do STF.
+3.1. Outrossim, oexame da presença dos pressupostos para a atribuição de efeito suspensivo aos embargos à execuçãodemandaria a incursão nos elementos fático-probatórios dos autos, atraindo a incidência da Súmula 7 do STJ. Precedentes.
+4. Agravo interno provido para reconsiderar a decisão de fls. 110-111 e-STJ, e agravo em recurso especial desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Embora o agravo interno mereça acolhida, para conhecer do agravo em recurso especial, este não comporta provimento.
+1. Após atenta análise dos autos, verificou-se que a insurgente, nas razões do agravo de fls. 83-92, e-STJ, impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pela Corte de origem, de forma que o aludido agravo (art. 1.042 do CPC/15), deve ser conhecido.
+Passa-se à análise da insurgência.
+2. Em suas razões recursais, a parte apontou violação art. 313, I, do CPC/15, defendendo que o Tribunal de origem não poderia ter permitindo a continuidade da execução, inclusive com busca patrimonial via sistema BACENJUD, tendo em vista que a morte de uma das partes constitui causa de suspensão do processo.
+Sustentou que a decisão que negou o efeito suspensivo aos embargos à execução é contrária àquela proferida anteriormente, que havia determinado a suspensão do processo em razão da morte do cônjuge da recorrente.
+Entretanto, conforme se observa do acórdão recorrido, o Tribunal analisou a questão à luz do art. 919, I, do CPC/15, e não do art. 313, I, do CPC/15, asseverando, ainda, que a demora na regularização da representação processual do espólio se deve aos próprios herdeiros.
+É o que se extrai do seguinte trecho (e-STJ, fl. 46):
+Verifica-se que o juiz a quo recebeu os embargos à execução opostos pela parte executada/agravante sem efeito suspensivo, conforme o teor do artigo 919, do Código de Processo Civil.
+É cediço que o magistrado somente poderá conceder efeito suspensivo aos embargos à execução se preenchidos os seguintes requisitos: a) oposição dos embargos de forma atempada; b) segurança do juízo pelo depósito da coisa, penhora ou caução idônea e suficiente; c) a relevância dos fundamentos do mérito dos embargos (fumus boni iuris) e o perigo de que o prosseguimento da ação executiva possa causar lesão de difícil ou incerta reparação (periculum in mora) ou a presença dos requisitos do artigo 311, do Código de Processo Civil.
+Nesse diapasão, atendendo ao dispositivo normativo da espécie (art. 919 do CPC), o condutor da causa deixou de atribuir efeito suspensivo aos embargos à execução, uma vez que a execução não está garantida por penhora e, ainda, não vislumbrou, em seu livre convencimento, a fumaça do bom direito da parte embargante.
+(..)
+Lado outro, em relação à representação processual do espólio, ora executado, conforme salientado na decisão liminar recursal, foi determinada pelo julgador da causa (movimento nº 06 dos autos da execução), não se efetivando ainda por demora dos próprios herdeiros, o que configura perigo da demora reverso, ou seja, risco de dano à parte exequente, ora agravada.
+Contudo, malgrado o esforço argumentativo, a parte recorrente não logrou infirmar, nas razões do especial, o fundamento acima destacado, e apresentou razões dissociadas, tendo em vista que as conclusões da Corte estadual se amparam no art. 919, I, do CPC/15, e não no art. 313, I, do CPC/15.
+Desse modo, tendo em vista a falta de impugnação específica ao principal fundamento do acórdão e a apresentação de razões dissociadas do que foi decidido pela Corte estadual, a pretensão reformatória encontra obstáculo nas Súmulas n. 283 e 284 do STF.
+A propósito:
+AGRAVO INTERNO EM AGRAVO EM RECURSO ESPECIAL. PREQUESTIONAMENTO. SÚMULA 211 DO STJ. NULIDADE. AUSÊNCIA DE PREJUÍZO. PRECEDENTES. ARTS. 489 E 1.022, DO CPC/2015 NÃO VERIFICADA. OMISSÕES E DEFICIÊNCIA DE FUNDAMENTAÇÃO. NÃO OCORRÊNCIA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. EXCESSO DE EXECUÇÃO. INCIDÊNCIA DE JUROS REMUNERATÓRIOS DE 12% AO ANO, COM CAPITALIZAÇÃO MENSAL. PRETENSÃO DE ALTERAÇÃO DE CRITÉRIOS DE CÁLCULO QUE OFENDE A COISA JULGADA.REVISÃO. SÚMULA 7/STJ. FUNDAMENTO INATACADO E ARGUMENTAÇÃO DEFICIENTE. SÚMULAS 283 E 284 DO STF. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+5. Ademais, verifica-se a falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal que se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+(..)
+7. Agravo interno não provido. (AgInt no AREsp 1319574/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/03/2019, DJe 29/04/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PROCESSO CIVIL.AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. HONORÁRIOS ADVOCATÍCIOS. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. REEXAME.IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO IMPROVIDO.
+(..)
+3. A falta de impugnação de fundamento suficiente para manter, por si só, o acórdão impugnado, a argumentação dissociada bem como a ausência de demonstração da suposta violação à legislação federal impedem o conhecimento do recurso, incidindo, por analogia, os enunciados n. 283 e 284 da Súmula do Supremo Tribunal Federal.
+4. A revisão das conclusões estaduais demandaria, necessariamente, o revolvimento do acervo fático-probatório dos autos, providência vedada na via estreita do recurso especial, ante o óbice da Súmula n. 7 do STJ.
+5. Agravo interno improvido.
+(AgInt no AREsp 1521318/DF, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/03/2020, DJe 20/03/2020)
+3. Ademais, o Tribunal a quo constatou quenão se encontram presentes os requisitos necessários à concessão doexcepcional efeito suspensivo aos embargos à execução, tendo emvista a ausência de garantia do juízo da execução e a inexistênciade dano irreparável.
+Com efeito, "Não se pode conhecer do Recurso Especial, porquanto o Tribunal de origem decidiu pela negativa de efeito suspensivo aos Embargos à Execução. Nesses termos, aplica-se a Súmula 735 do STF, na hipótese sub judice. Portanto, o juízo de valor precário, emitido no indeferimento do efeito suspensivo, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial nos termos da Súmula 735/STF." (AREsp 1525760/AM, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 01/10/2019, DJe 11/10/2019).
+Outrossim, a modificação da conclusão do Tribunal de origem sobre a presençados requisitos para atribuição de efeito suspensivo esbarra no óbiceda Súmula 7 do Superior Tribunal de Justiça.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. AUSÊNCIA DE REQUISITOS PARA A CONCESSÃO DE EFEITO SUSPENSIVO.
+1. A atribuição de efeito suspensivo aos embargos à execução exige, além da garantia, a presença dos juízos de relevância da argumentação (fumus boni juris) e perigo de dano irreparável ou de difícil reparação (periculum in mora), ambos ausentes na espécie.
+2. Dessa forma, o apelo não supera o conhecimento, pois, no âmbito do recurso especial, não se permite o reexame dos requisitos da fumaça do bom direito e do perigo na demora para o deferimento da medida liminar pelo Juízo de origem, seja em razão do óbice constante da Súmula 7/STJ, seja pela incidência do disposto no enunciado da Súmula 735/STF, respectivamente: "A pretensão de simples reexame de prova não enseja recurso especial."; "Não cabe recurso extraordinário contra acórdão que defere medida liminar."
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1815546/AM, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 19/11/2019, DJe 26/11/2019)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AGRAVO EM RECURSO ESPECIAL.AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DE RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, NCPC (ART. 544, § 4º, I, DO CPC/73). MANUTENÇÃO DA DECISÃO AGRAVADA. AGRAVO NÃO PROVIDO.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art.932, III, do NCPC (544, § 4º, I, do CPC/73), não impugna os fundamentos da respectiva inadmissibilidade (Súmula nº 7 do STJ).
+3. Esta Corte possui posicionamento consolidado no sentido de que a análise da presença dos requisitos para a concessão de efeito suspensivo aos embargos do devedor esbarra no reexame de matéria fática da lide, o que encontra óbice na Súmula nº 7 do STJ.Precedentes.
+4. Agravo interno não provido.
+(AgInt no AREsp 961.946/MG, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 06/10/2016, DJe 20/10/2016)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DECISÃO DA PRESIDÊNCIA DESTA CORTE. RECONSIDERAÇÃO. EMBARGOS À EXECUÇÃO. EFEITO SUSPENSIVO. ART. 919, § 1º, DO CPC/2015. AUSÊNCIA DE GARANTIA DO JUÍZO. DESCABIMENTO. SUMULA N. 83/STJ. REQUISITOS NÃO VERIFICADOS. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO PROVIDO. AGRAVO EM RECURSO ESPECIAL DESPROVIDO.
+1."O art. 919, § 1º, do CPC/2015 prevê que o magistrado poderá atribuir efeito suspensivo aos embargos à execução quando presentes, cumulativamente, os seguintes requisitos: (a) requerimento do embargante; (b) relevância da argumentação; (c) risco de dano grave de difícil ou incerta reparação; e (d) garantia do juízo" (AgInt no REsp n. 1.651.168/MT, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 28/3/2017, DJe 18/4/2017).
+2. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, a análise das razões apresentadas pela recorrente, quanto à existência dos requisitos para a concessão de efeito suspensivo aos embargos à execução, demandaria o exame do conjunto fático-probatório, o que é vedado em sede de recurso especial.
+4. Agravo interno a que se dá provimento para reconsiderar a decisão da Presidência desta Corte e negar provimento ao agravo nos próprios autos.
+(AgInt no AREsp 1793307/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 03/05/2021, DJe 06/05/2021)
+4. Do exposto, dá-se provimento ao agravo interno para conhecer e negar provimento ao agravo em recurso especial.
+É como voto.
