@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão proferido pelo TRF da 1 Região, assim ementado (fl. ):
+PREVIDENCIÁRIO. APOSENTADORIA POR INVALIDEZ. TRABALHADOR URBANO. QUALIDADE DE SEGURADO E PERÍODO DE CARÊNCIA COMPROVADOS. CONJUNTO PROBATÓRIO. INCAPACIDADE PERMANENTE. DANOS MORAIS. NÃO CABIMENTO. TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. HONORÁRIOS ADVOCATÍCIOS E PERICIAIS. CUSTAS PROCESSUAIS.
+1. Para a concessão do benefício de aposentadoria por invalidez de trabalhador urbano, faz-se necessário a observância dos seguintes requisitos: a condição de segurado da Previdência Social, observada a carência de 12 contribuições mensais, com exceção das hipóteses previstas no art. 26, II, da Lei 8.213/1991, e a comprovação, por perícia médica, de sua incapacidade laborativa para sua atividade habitual, insuscetível de reabilitação, nos termos do art. 42 da referida lei.
+2. Não perde a qualidade de segurado aquele que deixa de contribuir para Previdência Social em razão de incapacidade legalmente comprovada. Precedentes do STJ.
+3. Período de carência comprovado nos termos do art. 25, I, da Lei 8.213/1991.
+4. Ainda que a doença da segurada fosse preexistente à filiação ao Regime Geral de Previdência Social, o direito ao benefício se configura por motivo de progressão ou agravamento, causando a incapacidade comprovada na perícia médica. Precedentes desta Corte.
+5. O acervo probatório constante dos autos demonstra que a doença que acomete a parte autora é compatível com o quadro de incapacidade definitiva que impede o exercício de atividade laborai de forma permanente.
+6. Impossibilidade de reabilitação em outra profissão, tendo em vista idade e grau de instrução da parte autora.
+7. Comprovadas a qualidade de segurado e a incapacidade laboralpermanente da parte autora e não havendo nos autos elementos aptos a desconstituí-los, impõe-se a concessão de aposentadoria por invalidez.
+8. Não há falar em indenização por danos morais pelo fato da Autarquia Previdenciária ter indeferido o pedido. E ainda que assim não o fosse, o indeferimento administrativo do pedido de aposentadoria por invalidez/auxílio-doença, por si só, não é apto a configurar o dano moral pleiteado.
+9. No caso, o benefício é devido do requerimento administrativo, conforme requerido pela parte.
+10. Prescreve em cinco anos, em caso de requerimento administrativo, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social (Lei 8.213/1991, art. 103, parágrafo único), com exceção dos incapazes, por força das disposições dos arts. 3º, I, e 198, I, do atual Código Civil.
+11. Juros e correção monetária nos termos do Manual de Cálculos da Justiça Federal, na sua versão mais atualizada, nos termos do voto.
+12. Honorários advocatícios fixados em 10% sobre as prestações vencidas até a data da prolação da sentença no caso de sua confirmação ou até a prolação do acórdão no caso de provimento da apelação da parte autora, atendendo ao disposto na Súmula 111 do STJ.
+13. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (CF/1988, art. 109, § 3º), o INSS está isento das custas somente quando lei estadual específica prevê a isenção, o que ocorre nos estados de Minas Gerais, Goiás, Rondônia e Mato Grosso. Em se tratando de causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do art. 4º, I, da Lei 9.289/1996, abrangendo, inclusive, as despesas com oficial de justiça.
+14. A determinação de imediata implantação do benefício no prazo fixado no acórdão atrai a previsão de incidência de multa diária a ser suportada pela Fazenda Pública quando não cumprido o comando no prazo deferido, já que se trata de obrigação de fazer. Precedentes deste Tribunal e do Superior Tribunal de Justiça.
+15. O benefício reconhecido neste julgamento deve ser implantado no prazo máximo de 30 dias (CPC, art. 273) contados da intimação da autarquia previdenciária, independentemente da interposição de qualquer recurso.
+16. Apelação do INSS, apelação e remessa oficial parcialmente providas.
+17. Apelação da parte autora a que se dá parcial provimento para estabelecer os honorários advocatícios em 10% sobre as prestações em (Súmula 111 do STJ).
+Embargos de declaração rejeitados.
+O recorrente alega violação do artigo 1.022, II, do CPC/2015, ao argumento de que a Corte de origem incorreu emcontradição, pois,apesar de reconhecer o direito à aposentadoria por invalidez, afirma que somente dá provimento à apelação no tocante aos honorários, mantendo o benefício de auxílio-doença que havia sido concedido na sentença.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 205.
+É o relatório. Passo a decidir.
+O recorrente pretende a anulação do acórdão proferido pela Corte de origem em sede de embargos de declaração sob o argumento de que remanesce contraditório o julgamento da controvérsia.
+Extrai-se dos autos que o recorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito da controvérsia entre a fundamentação do acórdão, em que se afirma que o conjunto probatório enseja a concessão do benefício de aposentadoria por invalidez, e seu dispositivo, em que se determina a manutenção do benefício concedido na sentença, no caso, auxílio-doença.
+Transcreve-se o trecho correspondente (fl.156):
+O conjunto probatório constante dos autos demonstrou que a doença que acomete a parte autora é compatível com a incapacidade permanente para o exercício de atividade laboral.
+Comprovada a incapacidade permanente bem como a inviabilidade da adaptação em atividade profissional diversa em razão das condições pessoais do segurado, qual seja, nível econômico e atividade desenvolvida, verifica-se que os elementos e circunstâncias evidenciados nos autos são suficientes para ensejar a concessão do benefício de aposentadoria por invalidez no valor a ser apurado nos termos da lei, porquanto satisfeitos pela parte autora os requisitos exigidos pela legislação previdenciária.
+Com efeito, evidencia-se que a questão suscitada guarda correlação lógico-jurídica com a pretensão deduzida nos autos e se apresenta imprescindível à satisfação da tutela jurisdicional.
+A manifestação sem esclarecimento suficientea respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022, I, do CPC/2015, enseja a anulação do acórdão proferido em sede de embargos de declaração e torna indispensável o rejulgamento dos aclaratórios.A propósito: AgInt no REsp 1.394.325/RJ, Rel. Min. Herman Benjamin, Segunda Turma, DJe 30/11/2016; AgRg no REsp 1.221.403/RS, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 23/8/2016; AgRg no REsp 1.407.552/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 3/3/2016.
+Ante o exposto, dou provimento ao recurso especial, tornando nulo o acórdão proferido no julgamento dos embargos de declaração, a fim de que a Corte de origem aprecie a matéria articulada nos aclaratórios.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ARTIGO 1.022 DO CPC/2015. OFENSA CARACTERIZADA. QUESTÃO NÃO EXAMINADA E IMPRESCINDÍVEL À SOLUÇÃO DA CONTROVÉRSIA. RECURSO ESPECIAL PROVIDO.
