@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por HANGAR SANTA FÉ S/A, mediante o qual se impugna acórdão, promanado do Tribunal Regional Federal da 3ª Região, assim ementado:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ILEGITIMIDADE PASSIVA. SUCESSÃO EMPRESARIAL. NECESSIDADE DE DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE VEICULAÇÃO EMVIA DE COGNIÇÃO ESTREITA. RECURSO NÃO PROVIDO.
+1. A exceção de pré-executividade, resultado de construção doutrinária e jurisprudencial, é de ser admitida nas hipóteses em que o devedor alega matérias de ordem pública, cognoscíveis de ofício pelo Juiz, desde que não haja necessidade de dilação probatória e instauração do contraditório.
+2. a matéria referente à responsabilidade tributária solidária por força de sucessão empresarial, embora diga respeito à legitimidade passiva, demanda dilação probatória, com instauração do contraditório, não sendo sua veiculação admissível pela via da exceção de pré-executividade.
+3. A sucessão da Marte Aviação pela agravante, os termos da transação efetuada entre a Marte Aviação e a agravante, a aventada cisão parcial, a transferência de permissão de uso da área do hangar e a ausência de continuidade da atividade empresarial, são questões que exigem amplo exame de prova e devem ser discutidas no âmbito dos embargos à execução.
+4. Agravo de instrumento não provido" (fl. 584e).
+Embargos de Declaração rejeitados (fls. 402/417e).
+Aponta, a parte recorrente, nas razões do seu Recurso Especial, manejado com base na alínea a do permissivo constitucional, violação aos arts.132 e 133do CTN e 2º, 6º,489 e 1.022 do CPC/2015.
+Sustenta, em síntese, o seguinte:
+"Conforme se verifica da leitura do v. Acórdão recorrido, foi negado provimento ao Agravo de Instrumento da Recorrente, em síntese, sob o entendimento de que: "a sucessão da Marte Aviação pela agravante, os termos da transação efetuada entre a Marte Aviação e a agravante, a aventada cisão parcial, a transferência de permissão de uso da área do hangar e a ausência de continuidade da atividade empresarial, são questões que exigem amplo exame de prova e devem ser discutidas no âmbito dos embargos à execução".
+Contudo, consoante será a seguir demonstrado, o entendimento esposado não se mostrou acertado, uma vez que a Recorrente logrou trazer aos autos provas pré-constituídas suficientes a demonstrar que a sua permanência no polo passivo da Execução Fiscal de origem está em completo descompasso com as hipóteses de responsabilidade por sucessão, previstas nos arts. 132 e 133 do CTN.
+(..)
+Sem prejuízo ao exposto, o v. Acórdão deixou, ainda, de se manifestar sobre a afronta aos arts. 2º e 6º do CPC, evocada pela Recorrente contra a determinação no executivo fiscal de origem de que a Recorrente não teria legitimidade para pleitear a inclusão de outras pessoas no polo passivo da execução, tampouco indicar à penhora bens de terceiros, sendo tais atos, supostamente, de competência apenas da Exequente" (fls. 425/430e).
+Requer, ao final "seja deferido o processamento do presente Recurso Especial e ao final lhe seja dado provimento, com a consequente reformado v. Acórdão recorrido para que seja determinada a exclusão da Recorrente do polo passivo nos autos da Execução Fiscal de origem. Alternativamente, caso assim não se entenda, requer-se seja reconhecida a nulidade do v. Acórdão determinando-se o retorno dos autos ao E. Tribunal "a quo" a fim de que sejam sanados os vícios apontados e se complete a devida prestação jurisdicional" (fls. 432/433e).
+Contrarrazões às fls. 663/668e.
+Recurso Especial admitido (fls. 674/678e).
+O recurso não merece prosperar.
+De início, registre-se que o acórdão recorrido não padece de omissão. Com efeito, uma vez afirmada a impossibilidade de acertamento da questão da sucessão em sede de Exceção de Pré-executividade, dada a necessidade de dilação probatória, as demais matéria correlatas também não puderam ter seu mérito analisado, pela mesma razão.
+Quanto ao mérito propriamente dito, releva-se inviável, nesta via recursal, a revisão do juízo exarado nas instâncias ordinárias acerca da necessidade, ou da desnecessidade, de realização dedilação probatória,em sede deExceção de Pré-executividade,dada a vedação contida naSúmula 7/STJ.
+À guisa de mero exemplo, são as seguintes ementas:
+"TRIBUTÁRIO. PROCESSUAL CIVIL. EXECUÇÃO FISCAL. NULIDADE DA CDA. TÍTULO ILÍQUIDO. REEXAME DE PROVAS. SÚMULA 7 DO STJ.EXCEÇÃO DE PRÉ-EXECUTIVIDADE.SÚMULA 393/STJ.
+1. O STJ pacificou entendimento de que "Aexceção de pré-executividadeé admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandemdilação probatória"(Súmula 393/STJ).
+2. Pela leitura dos trechos do acórdão recorrido, depreende-se que o crédito tributário não possuía certeza, liquidez e exigibilidade.
+Portanto, a alteração do "decisum", para modificar o entendimento do Tribunal local, demanda incursão no acervo fático-probatório dos autos. Contudo, tal medida encontra óbice na Súmula 7 do STJ: "A pretensão de simples reexame de prova não enseja Recurso Especial".
+3. Recurso Especial conhecido parcialmente e, nessa parte, não provido" (STJ, REsp 1.672.887/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 30/06/2017).
+"TRIBUTÁRIO. EXECUÇÃO FISCAL. CDA QUE EMBASA EXECUÇÃO. NULIDADE NÃO RECONHECIDA PELA INSTÂNCIA ORDINÁRIA. REVISÃO.SUMULA 7/STJ. PRECATÓRIOS. COMPENSAÇÃO. ENTIDADE DIVERSA. IMPOSSIBILIDADE. OFERECIMENTO DE BENS À PENHORA. RECUSA DA FAZENDA. POSSIBILIDADE.
+ANÁLISE DE LEI LOCAL. COMPETÊNCIA DO STF.EXCEÇÃO DE PRÉ-EXECUTIVIDADE. DILAÇÃO PROBATÓRIA.
+1. "Alterar ou modificar o entendimento da Corte de origem, no sentido da higidez da Certidão da Dívida Ativa - CDA, bem como da presença dos requisitos essenciais à sua validade, demandaria, necessariamente, o reexame do contexto fático-probatório dos autos, inviável em sede do Recurso Especial, em face do óbice da Súmula 7 do STJ" (AgRg no AREsp 517.678/SC, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 7/4/2015).
+2. Com relação ao direito de utilização dos precatórios, é pacífico o entendimento no STJ no sentido de que não cabe a compensação de débitos tributários com precatório de entidade pública diversa.
+3. Segundo entendimento consolidado nesta Corte Superior sob o rito do art. 543-C do CPC, a Fazenda Pública não é obrigada a aceitar bens nomeados à penhora fora da ordem legal insculpida no art. 11 da Lei n. 6.830/80, pois o princípio da menor onerosidade do devedor, preceituado no art. 620 do CPC, tem de estar em equilíbrio com a satisfação do credor.
+4. Não obstante a recorrente alegue contrariedade a dispositivo infraconstitucional, a matéria decidida passa necessariamente pela análise de direito local (Lei Estadual n. 6.537/73), o que encontra óbice na Súmula 280/STF, aplicável por analogia.
+5. Dispõe a Súmula 393/STJ: "Aexceção de pré-executividadeé admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandemdilação probatória".Desse modo, não caberia nenhuma análise que ultrapassasse o conhecimento sumário das informações postas nos autos.
+6. Agravo regimental a que se nega provimento" (STJ, AgRg no REsp 1.306.827/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, DJe de 12/08/2015).
+Ante o exposto, com fundamento no art. 255, § 4º, I e II, do RISTJ, conheço parcialmente do Recurso Especial, e, nessa parte, nego-lhe provimento.
+Sem honorários recursais. Decisão interlocutória.
+I.
