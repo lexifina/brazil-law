@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de agravo dePAULO ALEXSANDRO PEREIRAcontra decisão proferida no TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP que não admitiu o recurso especial, interposto com fulcro no art. 105, inciso III, alínea "a", da Constituição Federal - CF, em face de acórdão proferido no julgamento de Apelação Criminal n. 1501436-17.2020.8.26.0228.
+Consta dos autos que o agravante foi condenado pela prática dodelitoprevisto no art. 155, § 4º, inciso III, do Código Penal - CP (furto qualificado), à pena de 02 anos, 09 meses e 18 dias de reclusão, em regime inicial fechado, e 14dias multa (fl. 192).
+Recurso de apelação interposto pela Defesa foi desprovido para manter a sentença de primeiro grau (fls. 237/242).
+Em sede de recurso especial (fls. 251/261), a Defesa apontou violação aos arts. 33, 44, 59, 64, inciso I e 107, todos do Código Penal- CP, porque o TJSPmanteve o aumento da pena-base em razão da valoração negativa dos antecedentese reconheceu a agravante da reincidência. Apontou, ainda, ilegalidade na fixação do regime prisional e na negativa desubstituição da pena privativa de liberdade por restritiva de direitos.
+Sustenta violação aos arts. 59 e 107, ambos do Código Penal, pois, na primeira fase da dosimetria da pena o E. Tribunal de Justiça aumentou a pena-base do recorrente em 1/5 aduzindo que o mesmo era portador de maus antecedentesem razão do processo n.0060198-14.2004.8.26.0050. Entretanto, houve a extinção da punibilidade no referido processo, extinguindo-se todos os efeitos da condenação, incluídas a possibilidade do processo estar apto a gerar reincidência e maus antecedentes.
+Sobre a violação ao art. 64, inciso I, do Código Penal, alega que o TJSP reconheceu a agravante da reincidência em razão do processo n.0037372-97.2005.8.26.0554, quando já ultrapassado o período depurador de 05 anos, de modo que referidoprocesso não se mostra apto a gerar a reincidência do recorrente.
+Por fim, aponta violação aos arts. 33, § 2º, alínea "b" e 44, ambos do Código Penal, sob alegação de que o regime inicial deve ser o aberto e a pena privativa de liberdade deve ser substituída por restritiva de direitos, uma vez queo recorrente não é reincidente pelo processo n.0037372-97.2005.8.26.0554 e não ostenta mais maus antecedentes, pelos mesmos já terem sido depurados, e o crime foi cometido sem violência ou grave ameaça à pessoa, e em condições ordinárias ao delito.
+Subsidiariamente, pugna pela fixação do regime inicial semiaberto, com fundamento na Súmula n. 269 do SUPERIOR TRIBUNAL DE JUSTIÇA - STJ, ea substituição da pena privativa de liberdade por restritiva de direitos, pois o recorrente é reincidente não específico.
+Requer seja conhecido e provido o recurso especial para fixar o regime inicial aberto e substituir a pena privativa de liberdade por restritiva de diretos.
+Contrarrazões do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO(fls. 265/271).
+O recurso especialfoi inadmitido no TJSP em razão de: a) o acórdão impugnado está em conformidade com a jurisprudência desta Corte, nos moldes do art. 1.030, inciso I, "b", do Código de Processo Civil - CPC; b) óbice da Súmula n. 284/STF e c)óbice da Súmula n. 7/STJ (fls. 274/275).
+No presenteagravo em recurso especial, a defesa refuta o óbice da Súmula n.07/STJ e repisa os argumento do apelo nobre, sem, contudo, refutar os demais fundamento que ensejarama inadmissão do recurso especial (fls. 280/285).
+Contraminuta do MINISTÉRIO PÚBLICO DO ESTADO DE SÃO PAULO(fls. 289/293)
+Os autos vieram a esta Corte, sendo protocolados e distribuídos. Aberta vista ao MINISTÉRIO PÚBLICO FEDERAL - MPF, este opinou pelo desprovimento do agravo em recurso especial(fls. 306/308).
+É o relatório.
+Decido.
+O agravo não merece ser conhecido.
+A decisão proferida pelo TJSP negou trânsito ao recurso especial em razão dos seguintes fundamentos: a) o acórdão impugnado está em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL - STF, nos moldes do art. 1.030, inciso I, "b", do Código de Processo Civil - CPC; b) óbice da Súmula n. 284/STF e c) óbice da Súmula n. 7/STJ (fls. 274/275).
+O agravo em recurso especial, no entanto, limita-se a refutar tão somente a incidência da Súmula n. 07/STJ e repisa argumentos de mérito do apelo nobre, sem, contudo, enfrentar os demais fundamentos da decisão agravada.
+Dessa forma, faz-se necessária a aplicação dos arts. 932, inc. III e 1.021, § 1º, do Código de Processo Civil de 2015 e do enunciado n. 182 da Súmula deste Superior Tribunal de Justiça, que consideram ser inviável o agravo regimental ou interno que deixa de atacar especificamente os fundamentos da decisão agravada.
+Nesse sentido:
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.FUNDAMENTOS DA DECISÃO QUE NÃO ADMITIU O APELO NOBRE. NÃO IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA. AGRAVO NÃO PROVIDO.
+1. A ausência de impugnação específica aos fundamentos da decisão que não admite o recurso especial impede o conhecimento do agravo, nos termos do que dispõe a Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+2. No caso, o agravante deixou de refutar o fundamento segundo o qual, o acórdão recorrido foi proferido em consonância com jurisprudência do STJ, no sentido de que a tipificação dos crimes de sonegação fiscal prescinde da demonstração do dolo específico, o que atrai o impeditivo da Súmula 182 deste Superior Tribunal, segundo a qual "é inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+3. Acrescente-se que, de acordo com o entendimento pacificado nesta Corte Superior, quando o inconformismo excepcional não é admitido pela instância ordinária, sob o fundamento de que a orientação do Tribunal se firmou no mesmo sentido da jurisprudência do STJ, tal como ocorrido na espécie, a impugnação deve indicar precedentes contemporâneos ou supervenientes, em sentido contrário aos mencionados na decisão combatida, o que não se verifica no caso em apreço.
+4. Agravo regimental a que se nega provimento.
+(AgRg no AREsp 1716359/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO A TODOS OS FUNDAMENTOS DA DECISÃO DE ADMISSIBILIDADE. ÓBICES: SÚMULAS 284/STF, 7, 83 E 545/STJ. APLICABILIDADE DA SÚMULA 182/STJ CONFIRMADA. FLAGRANTE ILEGALIDADE. DOSIMETRIA DA PENA. ART. 59 DO CP. EXASPERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE VINCULADA DO MAGISTRADO. AUSÊNCIA DE LIMITES LEGAIS MÁXIMOS E MÍNIMOS. ART. 65, III, D, DO CP. CONFISSÃO QUALIFICADA. ELEMENTO DE CONVICÇÃO DO JULGADOR. CONFISSÃO UTILIZADA NO JUÍZO DA CONDENAÇÃO. SÚMULA 545/STJ. PRECEDENTES. HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+1.É pacífico o entendimento jurisprudencial desta Corte Superior, materializado na Súmula 182/STJ, segundo o qual deve aparte recorrente infirmar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurge, não bastando a formulação de alegações genéricas em sentidocontrário às afirmações do julgado impugnado ou mesmo justificativas outras que visem atacar o mérito da controvérsia.
+2. Na espécie, diante da decisão que inadmitiu o recurso especial, a defesa não se insurgiu contra todos os fundamentos do Tribunal local, em específico, a incidência da Súmula 545/STJ. Dessa forma, correta a aplicação da Súmula 182/STJ.
+ ..
+6. Agravo regimental improvido. Ordem de habeas corpus concedida de ofício para redimensionar a pena a 3 anos e 3 meses, mantidos os demais termos da condenação.
+(AgRg no AREsp 1157955/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 12/12/2017).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. APLICAÇÃO DO ART. 544, § 4º, I, DO CÓDIGO DE PROCESSO CIVIL - CPC DE 1973. INCIDÊNCIA DA SÚMULA 182 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Descabido o conhecimento do agravo em recurso especial quando o agravante deixa de impugnar especificamente algum dosfundamentos adotados na decisão que negou seguimento ao recurso especial.
+2. Agravo regimental desprovido.
+(AgRg no AREsp 842.493/PR, de minha relatoria, QUINTA TURMA, DJe 16/05/2016)
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A falta de impugnação específica de todos os fundamentos utilizados na decisão agravada atrai a incidência do enunciadosumular 182 desta Corte Superior.
+2. Diante da decisão que inadmitiu o recurso especial, a defesa não rebateu todos os fundamentos do Tribunal local, deixando de atacar a incidência do óbice dos enunciados 282 e 356/STF.
+3. A impugnação de fundamento da decisão de admissibilidade somente em sede de agravo regimental não supre a deficiência recursal, em razão do fenômeno da preclusão consumativa.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 780.739/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 02/02/2016)
+Ante o exposto, com fundamento no art. 932, inc. III,do Código de Processo Civil - CPC, e no art. 253, I, do Regimento Interno do STJ, não conheço do recurso.
+Publique-se. Intimem-se.
