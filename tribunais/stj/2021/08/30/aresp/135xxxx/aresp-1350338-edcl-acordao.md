@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/15. VÍCIOS. OMISSÃO. OCORRÊNCIA. MANUTENÇAO DA DECISÃO AGRAVADA. ERRO MATERIAL.NÃO OCORRÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+EMBARGOS ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+RELATÓRIO
+Trata-se de embargos de declaração opostos por FRANCISCO ALVES DE OLIVEIRA e OUTROS.contra acórdão assim ementado:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TESES RECURSAIS QUE DEPENDEM DE PREMISSAS FÁTICAS CUJA VERACIDADE NÃO PODE SER VERIFICADA COM A LEITURA DO ACÓRDÃO. IMPRESCINDIBILIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. QUESTÃO QUE NÃO FOI APRECIADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+Em suas razões, aembargante aponta omissão quanto a análise do dissídio jurisprudencial, reprisando, em síntese, que"(..) é absolutamente teratológica a afirmação de que não houve a indicação das circunstâncias que identificam ou assemelham os casos confrontados ou que houve a mera transcrição de ementa sem a comprovação da similitude fática. (e-STJ Fl. 670)
+Aduz, também, existência de erro material no acórdão embargado ao argumento de que"é absolutamente incontroverso Valdir Gomes da Silva e Antônio Carlos Nunes (além de outras 3 pessoas) cederam a posse indireta do imóvel ao Embargante Louri Klemann Júnior, mas que ELES PERMANECERAM NO IMÓVEL como comodatários deste. O presente AREsp refere-se a 3 (três) Ações Possessórias! Os polos passivos são diversos e em uma delas os Embargados arrolaram apenas 3 dos cessionárias do Embargado, mas não arrolaram Valdir Gomes da Silva e Antônio Carlos Nunes, que no entanto, SOFREM OS NEFASTOS EFEITOS DA LIDE." (e-STJ Fl. 613)
+Não foram apresentadas impugnações.
+É o breve relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC/15. VÍCIOS. OMISSÃO. OCORRÊNCIA. MANUTENÇAO DA DECISÃO AGRAVADA. ERRO MATERIAL.NÃO OCORRÊNCIA. REDISCUSSÃO DE MATÉRIA JÁ DECIDIDA.
+EMBARGOS ACOLHIDOS EM PARTE, SEM EFEITOS INFRINGENTES.
+VOTO
+Eminentes colegas, os embargos de declaração devem ser parcialmente acolhidos, entretanto sem efeitos modificativos.
+Nos rígidos limites estabelecidos pelo artigo 1.022 do Código de Processo Civil de 2015, os embargos de declaração destinam-se apenas a esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento, corrigir erro material eventualmente existentes no julgado e, excepcionalmente, atribuir-lhe efeitos infringentes, quando algum desses vícios for reconhecido.
+No caso sob apreciação, verifica-se quemereceacolhidaa apontada omissão quanto a reanálise do dissidio jurisprudencialem sede de agravo interno.
+No tocante ao alegado dissídio jurisprudencial, o seu conhecimento se mostra inviável, uma vez que o óbice da Súmula 07/STJ obsta a admissão do Recurso Especial pela alínea "c" do permissivo constitucional.
+Dessa forma, ainda que não tratado em sede de agravo interno, verifica-se que a análise do dissídio jurisprudencial fica prejudicada em virtude da aplicação do apontado óbice, porquanto não é possível encontrar similitude fática entre o acórdão combatido e os arestos paradigmas, uma vez que as conclusões díspares ocorreram não em razão de entendimentos diversos, mas de fatos, provas e circunstâncias específicas do caso concreto.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO CUMULADA COM RESTITUIÇÃO DE QUANTIAS PAGAS. SERVIÇOS DE DESPACHANTE OU A COBRANÇA DE TAXAS DE SERVIÇOS CARTORÁRIOS. LEGALIDADE. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. NOVA INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. INADMISSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. (..)
+3. Alterar o decidido no acórdão impugnado, no que se refere à conclusão de que o recorrente teria se comprometido, expressamente, a pagar pelos serviços de despachante, que não se confundiria com a taxa SATI, exige o reexame de fatos e provas e a renovada interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7/STJ.
+4. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+5. A incidência da Súmula 7/STJ prejudica a análise do dissídio jurisprudencial pretendido. Precedentes desta Corte.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1730937/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 01/03/2021, DJe 03/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS. REVISÃO. PRETENSÃO RECURSAL QUE ENVOLVE O REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO CONFIGURADO. DIVERGÊNCIA JURISPRUDENCIAL. AGRAVO INTERNO NÃO PROVIDO
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A jurisprudência desta Corte firmou o entendimento de que não é possível o conhecimento do apelo nobre interposto pela divergência, na hipótese em que o dissídio é apoiado em fatos, e não na interpretação da lei. Isso porque a Súmula nº 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional.
+4. Agravo interno não provido.
+(AgInt no AREsp 1746366/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 01/03/2021, DJe 04/03/2021)
+Ademais, conformeapontado na decisão que julgou os embargos de declaração, o recorrente deixou de demonstrar a alegada divergência jurisprudencial em consonância com o disposto no art. 1.029, § 1º , do CPC/2015, e no art. 255, § 1º, do RISTJ.
+Isso porque, nas razões do recurso especial, houve a transcrição de ementa e trechodo julgado, sem proceder ao correto confronto com o acórdão de origem e o devido cotejo analítico, inclusive não havendo efetivamente similitude fática com o caso dos autos, o que não é suficiente para a comprovação do dissídio.
+Assim, resta patente que a pretensão do recorrente não merece guarida, devendo ser mantida incólume a decisão que negou provimento ao agravo internoem virtude dos referidos fundamentos.
+Quanto ao apontado erro material, constata-se não assistir razão ao embargante, pois, da leitura do acórdão embargado, verifica-se que esta Corte Superior expôs, de forma clara e suficientementefundamentada,o seu entendimento de que "(..) a primeira coisa a se destacar é que as próprias razões recursais tornam inequívoco que a discussão acerca do litisconsórcio não se resume a determinar se existiam ou não outras pessoas no imóvel quando quando do ajuizamento ação. Se "Francisco, Neide e Janete e ainda Dulcinei Alves de Oliveira, Valdir Gomes da Silva e sua esposa Márcia Aparecida Mincoff da Silva, Antônio Carlos Nunes, sua esposaNestes termos, tendo o Tribunal de origem consignado que a "alegação dos réus da ação possessória de que existem outros possuidores ou ocupantes não estabelece entre eles senão afinidade de questões por um ponto comum de fato", resta claro que não se trata de atribuir qualificação jurídica a um mesmo substrato fático, mas sim desconstituir aquele que fora considerado pelo Tribunal a quo, o que encontra óbice na Súmula 7/STJ."
+Portanto, no que importa, conforme bem exposto no acórdãoembargado,a análise do mérito da insurgência é esbarrada pelo óbice da Súmula 7/STJ.
+Assim, verifica-se que o alegado erro material, em verdade, apenas traduzem o inconformismo com o acórdão embargado, pretendendo rediscutir o que já foi decidido somente porque o que restou assentado é contrário ao interesse da parte.
+Ante o exposto, acolho parcialmente os embargos de declaração, apenas para sanar omissão, no entanto, sem efeitos infringentes.
+Advirta-se que eventual recurso interposto contra este acórdão estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à incidência de multa (art. 1.021, § 4º, e art. 1.026, § 2º, do CPC/2015).
+É o voto.
