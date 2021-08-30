@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado da Bahia com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado da Bahia, assim ementado (fl. 209):
+APELAÇÃO. AGRAVO RETIDO NOS AUTOS. NÃO CONHECIDO. TRATAMENTO CIRÚRGICO. CÂNCER. PLANSERV. APLICAÇÃO DO CÓDIGO DO CONSUMIDOR. SÚMULA 09 TJBA. INDICAÇÃO MÉDICA. MATERIAIS CIRÚRGICOS NEGADOS. RELATÓRIOS MÉDICOS CONCLUSIVOS. PRESERVAÇÃO À VIDA E SAÚDE DO APELADO. DANO MORAL. OCORRÊNCIA. HONORÁRIOS SUCUMBENCIAIS. MANTIDOS. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Quanto ao Agravo Retido, a ausência de manifestação na apelação resulta no não conhecimento do recurso. Aplica-se o Código de Defesa do Consumidor às relações jurídicas existentes entre o PLANSERV e os seus filiados. Súmula nº 09. Diante do procedimento cirúrgico devidamente autorizado, mostra -se adequado o fornecimento dos materiais para sua realização, nos moldes requisitados pelo médico responsável pela escolha do tratamento indicado.
+Quanto ao dano moral, o atraso no fornecimento do material, prejudicou o tratamento do apelado, conforme consta no relatório à fl. 108, ocorrendo consequente agravamento da doença, levando o apelado "a hipoxia cerebral, sono constante e hipoxemia geral dos riscos cardiovasculares", além de transtornos psicológicos, por se tratar de pessoa idosa. Quanto ao valor estipulado a título de honorários sucumbenciais na sentença, fixado em 10%, portanto entre o mínimo e o máximo previstos na regra adjetiva, reflete desempenho do advogado na causa. SENTENÇA MANTIDA. RECURSO IMPROVIDO.
+Opostos embargos declaratórios, foram rejeitados.
+A parte recorrente aponta violação aos arts. 1º, 14 e 15 da Lei 9.656/98.
+Sustenta, em resumo, que o Código Consumerista é inaplicável aoPlanserv, por se tratar de pessoa jurídica de direito público e, sendo umplano de saúde fechado, não há falar em relação deconsumo na espécie.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhimento.
+Ao dirimire concluirpela incidência do CDC,a Corte local adotou os seguintes fundamentos (fls. 210/211):
+Como é cediço, a ausência do fornecimento do material para a realização da cirurgia já autorizada demostra que agiu o apelante de forma abusiva, ferindo princípios básicos de uma relação consumerista, quais sejam a boa-fé e a confiança, e por esta razão deve esta instância coibir que práticas como estas se perpetuem, com a finalidade de assegurar a todos o direito à vida e à saúde. Nesse sentido, o ementário jurisprudencial que corrobora com esse entendimento:
+(..)
+Ademais, é pacífico, e inclusive sumulado, o entendimento deste Tribunal no sentido da aplicabilidade do Código de Defesa do Consumidor às relações jurídic existentes entre o PLANSERV e os seus filiados. Eis o teor da Súmula nº 09:
+Posto isto, e restando incontroversa a relação consumerista estabelecida entre as partes, deve o caso ser analisado de forma a proteger o consumidor hipossuficiente.
+Denota-se, pois, que o Tribunal a quo concluiu pela aplicabilidade do CDC na espécie, não obstante se tratar de plano de saúdefornecido por pessoajurídica de direito público a beneficiário com vínculo estatutário,considerando estar configurada relação de consumo.
+Todavia, ao assim decidir, a instância de origem dissentiu dajurisprudência deste Sodalício, consolidada na Súmula 608, verbis:"Aplica-se o Código de Defesa do Consumidor aos contratos de plano desaúde, salvo os administrados por entidades de autogestão". Nesse sentido,confira-se, ainda:
+RECURSO ESPECIAL. ASSISTÊNCIA PRIVADA À SAÚDE. PLANOS DE SAÚDE DEAUTOGESTÃO. FORMA PECULIAR DE CONSTITUIÇÃO E ADMINISTRAÇÃO. PRODUTO NÃOOFERECIDO AO MERCADO DE CONSUMO. INEXISTÊNCIA DE FINALIDADE LUCRATIVA.RELAÇÃO DE CONSUMO NÃO CONFIGURADA. NÃO INCIDÊNCIA DO CDC.
+1. A operadora de planos privados de assistência à saúde, na modalidade deautogestão, é pessoa jurídica de direito privado sem finalidadeslucrativas que, vinculada ou não à entidade pública ou privada, operaplano de assistência à saúde com exclusividade para umpúblico determinadode beneficiários.
+2. A constituição dos planos sob a modalidade de autogestão diferencia,sensivelmente, essas pessoas jurídicas quanto à administração, forma deassociação, obtenção e repartição de receitas, diverso dos contratosfirmados com empresas que exploram essa atividade no mercado e visam aolucro.
+3. Não se aplica o Código de Defesa do Consumidor ao contrato de plano desaúde administrado por entidade de autogestão, por inexistência de relação de consumo.
+4. Recurso especial não provido.
+(REsp 1.285.483/PB, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO,julgado em 22/6/2016, DJe 16/8/2016)
+Dessarte, merece reforma o julgado a quo, uma vez que reconheceu aresponsabilidade civil do ente público a partir da aplicação da legislaçãoconsumerista, devendo ser realizado novo julgamento da apelação,afastando-se as disposições do Código de Defesa do Consumidor.
+ANTE O EXPOSTO, dou provimento ao recurso especialpara afastar a incidência do Código deDefesa do Consumidor na espécie, devendo os autos retornarem ao Tribunalde origem para novo julgamento da apelação, dessa feita à luz doentendimento acima exposado.
+Publique-se.
