@@ -1,0 +1,103 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+TRIBUNAL DE JUSTIÇA
+VICE PRESIDÊNCIA
+Tribunal de Justiça de Mato Grosso
+PJe - Processo Judicial Eletrônico
+Recurso Especial no Agravo de Instrumento n. 1003386-09.2021.8.11.0000
+Recorrente: José Henrique Cardoso Abrahão
+Recorrido: Dow Agrosciences Ltda.
+Recurso Extraordinário no Agravo de Instrumento n. 1003386-09.2021.8.11.0000
+Recorrente: José Henrique Cardoso Abrahão
+Recorrido: Dow Agrosciences Ltda.
+Vistos.
+· Do recurso especial
+Trata-se de recurso especial interposto por José Henrique Cardoso Abrahão, com fundamento no artigo 105, inciso III, alíneas “a” e “c”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, assim ementado (id 85154466):
+“AGRAVO DE INSTRUMENTO – EXECUÇÃO DE TITULO EXTRAJUDICIAL - MULTA – ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA – ARTIGO 774 DO CPC/15 – LOCALIZAÇÃO DOS IMÓVEIS PENHORADOS DIFICULTADA – INFORMAÇÕES NÃO FORNECIDAS PELA PARTE EXECUTADA INTIMADA PARA FAZÊ-LO – ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA – MULTA – CABIMENTO - ARTIGO 774 DO CPC/15 – RECURSO DESPROVIDO.
+Considera-se ato atentatório à dignidade da justiça a conduta omissiva do executado que, intimado por diversas vezes, inclusive pessoalmente, não indica ao juiz a localização dos imóveis penhorados para avaliação, nem exibe as documentações solicitadas da propriedade, hipótese dos autos, motivo pelo qual a multa deve ser mantida (artigo 774, parágrafo único, do CPC/15)”. (TJMT – Segunda Câmara de Direito Privado – RAI n. 1003386-09.2021.8.11.0000, Relatora: Desembargadora Marilsen Andrade Addario, j. em 28/04/2021, p. 04/05/2021).
+Opostos embargos de declaração, estes foram rejeitados no acórdão id 93546453.
+Na espécie, o presente recurso foi interposto contra o aresto que negou provimento ao agravo de instrumento proposto por José Henrique Cardoso Abrahão, e manteve a decisão proferida na Carta Precatória no 0002569-94.2015.8.11.0024 – Código 75384, extraída da Execução de Titulo Extrajudicial no 0080637-12.2012.8.11.0100, da 35a Vara Cível da Comarca de São Paulo-SP, movida por Dow Agrosciences Ltda., que condenou o ora agravante ao pagamento de multa processual no importe de 1% do valor atualizado do débito, nos termos do art. 774, parágrafo único, do Código de Processo Civil, em razão de ato atentatório à dignidade da justiça.
+O recorrente alega violação ao artigo 489, inciso I, e 1.022, II, do CPC, ante a aventada omissão do julgado.
+Suscita afronta ao artigo 835, § 3o, do CPC, ao argumento de que o referido dispositivo “limita a responsabilidade do terceiro hipotecante ao valor atribuído a garantia real. A decisão contida no acórdão deixou de reconhecer esta limitação, ainda que esteja demostrada com prova documental e, no caso, reconhecida pela recorrida, - ID 78117452 -, pág. 22”.
+Aduz haver divergência jurisprudencial quanto ao artigo 774 do CPC, pois “quando comparada a decisão recorrida com decisões de outros Tribunais, onde é tratado sobre o tema, multa do art. 774 do CPC, se constata que o posicionamento do acórdão recorrido, quanto à caracterização do atentado à dignidade da justiça, está em desacordo com o posicionamento de outros Tribunais”.
+Afirma que “em situações semelhantes, de acordo com as decisões que seguem abaixo, aqui consideradas como paradigmas do acordão recorrido, estes não abrem mão da abordagem sobre a má -fé da parte, para considerar a existência do atentado à dignidade da justiça”.
+Recurso tempestivo (id 96527481) e preparado (id 96533474).
+Contrarrazões no id 98577496.
+É o relatório.
+Decido.
+Da sistemática de recursos repetitivos.
+Não é o caso de se aplicar a sistemática de precedentes qualificados no presente caso, porquanto não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso, não incidindo, portanto, a regra do artigo 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Da suposta violação ao artigo 1.022, II, do CPC
+A partir da suposta ofensa ao artigo 1.022, II, do CPC, a parte recorrente alega que o órgão fracionário deste Tribunal não analisou o argumento de que “não agiu com dolo, pois socorreu o juízo naquilo que poderia fazê-lo e, declinando sua opinião quanto aos demais itens e; a aplicação da multa sobre o total da dívida, vai de encontro a natureza da responsabilidade assumida em relação a obrigação do devedor”.
+Afirma, ainda, que “o acórdão, em seu conteúdo, não enfrenta a matéria relativa a ilegalidade da aplicação da multa sobre o total da dívida, dado a responsabilidade do recorrente estar limitada ao valor das áreas e que, se enfrentada, suscitaria entendimento diverso do decidido no acórdão”.
+No entanto, do exame do acórdão recorrido, verifica-se que a Câmara julgadora manifestou-se expressamente em relação ao aludido ponto, como se observa da transcrição abaixo:
+“Ocorre que não há nos autos nenhum elemento que permita reputar justificável o descumprimento da ordem de primeiro grau, especialmente porque as razões recursais, cujo conteúdo foi elaborado de forma genérica, não demonstram de forma idônea o motivo do descumprimento da decisão que determinou a indicação da localização dos imóveis registrados em nome do agravante.
+Desta feita, além da diligência do executado possa, de fato, se mostrar pouco efetiva, não há como deixar de observar que a execução se arrasta desde o ano de 2015 sem a satisfação do débito ou previsão para tanto.
+Nesse contexto, não há dúvida de que agiu com acerto o magistrado ‘a quo’, incidindo na espécie o comando do inciso V, do art. 774, do CPC/15.
+Logo, não cumprindo as determinações do magistrado para informar a localização do imóvel, sem comprovar a impossibilidade para tanto, incorre a parte agravante em ato atentatório à dignidade da justiça, nos termos do art. 774 do CPC/15, sendo cabível a aplicação da multa prevista no parágrafo único do mencionado dispositivo legal.
+(...)
+No que diz respeito ao valor da multa, verifica-se que o artigo 774, parágrafo único, do CPC/15, estabelece que a multa deverá ser fixada em montante não superior a vinte por cento do valor atualizado do débito, portanto, deve ser mantida a decisão que determinou a multa de 1% sobre o valor atualizado da dívida”. (id 85154466 - Pág. 8/9)
+Diante desse quadro, não há evidência de violação ao artigo 1.022, II, do CPC, o que conduz à inadmissão do recurso neste ponto.
+Ausência de prequestionamento (Súmula 211 do STJ)
+Com o objetivo de evitar a supressão de instância, nos termos do artigo 105, inciso III, da Constituição Federal, para que o Superior Tribunal de Justiça tenha condições de reexaminar a controvérsia suscitada, é preciso que a questão tenha sido decidida em única ou última instância pelos Tribunais Regionais Federais ou pelos Tribunais dos Estados e do Distrito Federal, ex vi Súmula 211/STJ, segundo a qual é “inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo”.
+Saliente-se, ainda, que nos termos do artigo 1.025 do CPC, “consideram-se incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade”.
+No entanto, segundo a jurisprudência do Superior Tribunal de Justiça, na hipótese de a questão controvertida não ter sido abordada no aresto impugnado, e a parte recorrente ter suscitado a matéria nas razões dos embargos de declaração, por si só, tal fato não implica em prequestionamento ficto.
+Isso porque, a Corte Superior já firmou o entendimento no sentido de que “a admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei”.
+A propósito:
+“AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE CONHECEU DO AGRAVO PARA, DE PLANO, NÃO CONHECER DO APELO EXTREMO.
+INSURGÊNCIA DA AUTORA.
+1. A ausência de enfrentamento da matéria inserta nos dispositivos apontados como violados pelo Tribunal de origem, não obstante a oposição de embargos de declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência da Súmula 211 do STJ.
+1.1. In casu, deixou a parte recorrente de apontar, nas razões do apelo extremo, a violação do artigo 1.022 do CPC/15, a fim de que esta Corte pudesse averiguar a existência de possível omissão no julgado quanto ao tema.
+1.2. Esta Corte admite o prequestionamento implícito dos dispositivos tidos por violados, desde que as teses debatidas no apelo nobre sejam expressamente discutidas no Tribunal de origem, o que não ocorreu na hipótese.
+2. O Tribunal a quo, com base no conjunto fático e probatório carreado aos autos, entendeu que o episódio narrado nos autos não gerou dano moral indenizável. A alteração de tais conclusões demanda a incursão nas questões de fato e de prova dos autos, inadmissível por esta via especial, ante o óbice da Súmula 7 do STJ. Precedentes.
+3. Agravo interno desprovido”. (AgInt no AREsp 1711642/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020). (g.n.)
+Dessa forma, verifica-se que, ante a suposta violação 835, § 3o, do CPC, a parte recorrente assevera que o referido dispositivo “limita a responsabilidade do terceiro hipotecante ao valor atribuído a garantia real. A decisão contida no acórdão deixou de reconhecer esta limitação, ainda que esteja demostrada com prova documental e, no caso, reconhecida pela recorrida, - ID 78117452 -, pág. 22”.
+No entanto, a questão não foi abordada pelo acórdão impugnado, e, embora tenham sido opostos embargos de declaração, a referida controvérsia não foi aventada nas respectivas razões, tampouco houve alegação de violação ao artigo 1.022 do CPC neste ponto específico, situação que obsta o seu exame pelo Superior Tribunal de Justiça e impede a admissão do recurso, ante a incidência da Súmula 211/STJ, e Súmulas 282 e 356/STF.
+Aduz haver divergência jurisprudencial quanto ao artigo 774 do CPC, pois “quando comparada a decisão recorrida com decisões de outros Tribunais, onde é tratado sobre o tema, multa do art. 774 do CPC, se constata que o posicionamento do acórdão recorrido, quanto à caracterização do atentado à dignidade da justiça, está em desacordo com o posicionamento de outros Tribunais”.
+Afirma que “em situações semelhantes, de acordo com as decisões que seguem abaixo, aqui consideradas como paradigmas do acordão recorrido, estes não abrem mão da abordagem sobre a má -fé da parte, para considerar a existência do atentado à dignidade da justiça”.
+Ausência de cotejo analítico
+Quanto à dissonância jurisprudencial com fundamento na alínea “c” do permissivo constitucional do art. 105, inciso III, nos termos do artigo 1.029, § 1o, do CPC, e do art. 255, § 1o, do RISTJ, não basta a simples reprodução de ementas, pois é imprescindível que se comprove o dissídio com a transcrição do relatório e do voto dos acórdãos recorrido e paradigma e cotejo analítico a evidenciar a similitude fática entre os casos apontados e a dissonância de interpretações.
+A propósito:
+“PROCESSUAL CIVIL. ADMINISTRATIVO. SERVIDORES PÚBLICOS ESTADUAIS INATIVOS, VINCULADOS À SECRETARIA DA SAÚDE. PRETENSÃO AO RECEBIMENTO DO PRÊMIO DE INCENTIVO ESPECIAL (PIE), PREVISTO NA LEI COMPLEMENTAR No 1.212/2013 E NA RESOLUÇÃO SS No 110/2013. HONORÁRIOS RECURSAIS. NECESSIDADE DE PRÉVIA FIXAÇÃO NA ORIGEM. DIVERGÊNCIA NÃO COMPROVADA.
+(...)
+V - Para a caracterização da divergência, nos termos do art. 1.029, § 1o, do CPC/2015 e do art. 255, §§ 1o e 2o, do RISTJ, exige-se, além da transcrição de acórdãos tidos por discordantes, a realização do cotejo analítico do dissídio jurisprudencial invocado, com a necessária demonstração de similitude fática entre o aresto impugnado e os acórdãos paradigmas, assim como a presença de soluções jurídicas diversas para a situação, sendo insuficiente, para tanto, a simples transcrição de ementas, como no caso. Nesse sentido: AgInt no AREsp n. 1.235.867/SP, relatora Ministra Assusete Magalhães, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp n. 1.109.608/SP, relator Ministro Og Fernandes, Segunda Turma, julgado em 13/3/2018, DJe 19/3/2018; REsp n. 1.717.512/AL, relator Ministro Herman Benjamin, Segunda Turma, julgado em 17/4/2018, DJe 23/5/2018.
+VI - Agravo interno improvido”. (AgInt no AREsp 1586049/SP, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 16/08/2021, DJe 19/08/2021).
+Dessa forma, em análise às razões recursais, observa-se que no tocante à aventada dissonância jurisprudencial quanto ao artigo 774 do CPC o recorrente deixou de efetuar o exame comparativo da divergência jurisprudencial, o que impede a admissão do recurso.
+Diante desse quadro, é o caso de se negar seguimento ao recurso, com fundamento no artigo 1.030, V, do CPC.
+· Do recurso extraordinário
+Trata-se de recurso extraordinário interposto por José Henrique Cardoso Abrahão, com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Privado, cuja ementa foi acima transcrita (85154466).
+O recorrente alega violação ao artigo 5o, II, da Constituição Federal ao argumento de que “o art. 774 do CPC determina multa a ser aplicada a quem atentar contra a dignidade da justiça. No entanto, o critério utilizado para definição se houve ou não a afronta a norma, é subjetivo, maculando a coercibilidade posto não haver um critério objetivo de caracterização do fato gerador”.
+Aduz afronta ao artigo 93, IX, da CF, porquanto o acórdão recorrido teria sido carente de fundamentação/motivação.
+Recurso tempestivo (id 96527481) e preparado (id 96533483).
+Contrarrazões no id 98586951.
+É o relatório.
+Decido.
+Da sistemática de repercussão geral - Tema 339/STF.
+Consoante se verifica da tese recursal, a suposta violação ao artigo 93, IX, da CF, está amparada na alegação de que o órgão fracionário deste Tribunal não teria analisado o argumento acerca da ilegalidade da aplicação da multa sobre o total da dívida, dado a responsabilidade do recorrente estar limitada ao valor das áreas e que, se enfrentada, suscitaria entendimento diverso do decidido no acórdão.
+No julgamento do AI 791292 QO-RG/PE (Tema 339), o Supremo Tribunal Federal concluiu que a Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão.
+Confira-se a ementa do julgado:
+“Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3° e 4°). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5o e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O art. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral”. (AI 791292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, p. 113-118). (g.n)
+Nesse contexto, do exame do acórdão recorrido, verifica-se que o órgão fracionário deste Tribunal manifestou-se expressamente em relação à referida questão, o que está em consonância com o entendimento firmado no Supremo Tribunal Federal.
+Com efeito, constou do acórdão, in verbis:
+“No que diz respeito ao valor da multa, verifica-se que o artigo 774, parágrafo único, do CPC/15, estabelece que a multa deverá ser fixada em montante não superior a vinte por cento do valor atualizado do débito, portanto, deve ser mantida a decisão que determinou a multa de 1% sobre o valor atualizado da dívida”. (id 85154466 - Pág. 8/9)
+Não há, então, vício no acórdão ora embargado, porque houve decisão clara a respeito, estando o acórdão recorrido em conformidade com a orientação do STF, o que obsta o seguimento do recurso, por aplicação da sistemática de precedentes.
+É o caso, pois, de se negar seguimento ao recurso, com fundamento no artigo 1.030, I, “b”, do CPC.
+Da ofensa reflexa
+Conforme a jurisprudência pacífica do Supremo Tribunal, em interpretação ao artigo 102 da CF, a controvérsia a ser suscitada em sede de recurso extraordinário deve se referir à violação direta às normas constitucionais, não sendo permitida a análise, ainda que indireta, da legislação infraconstitucional.
+Assim, é vedada a ofensa meramente reflexa à Constituição Federal. A propósito:
+“EMENTA: AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO ADMINISTRATIVO. RESPONSABILIDADE CIVIL. ATRASO NA ENTREGA DE OBRA. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. OFENSA REFLEXA. LEGISLAÇÃO INFRACONSTITUCIONAL. FATOS E PROVAS. REEXAME. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO INTERNO DESPROVIDO. 1. O recurso extraordinário é instrumento de impugnação de decisão judicial inadequado para a valoração e exame minucioso do acervo fático-probatório engendrado nos autos, bem como para a análise de matéria infraconstitucional. Precedentes: ARE 844.039-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 24/08/2015; ARE 1.271.280-AgR, Tribunal Pleno, DJe de 25/09/2020; e ARE 1.238.534-AgR, Tribunal Pleno, Rel. Min. Dias Toffoli, DJe de 15/09/2020. 2. Agravo interno DESPROVIDO, com imposição de multa de 5% (cinco por cento) do valor atualizado da causa (artigo 1.021, § 4o, do CPC), caso seja unânime a votação. 3. Honorários advocatícios majorados ao máximo legal em desfavor da parte recorrente, caso as instâncias de origem os tenham fixado, nos termos do artigo 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2o e 3o e a eventual concessão de justiça gratuita”. (ARE 1317961 AgR, Relator(a): LUIZ FUX (Presidente), Tribunal Pleno, julgado em 24/05/2021, PROCESSO ELETRÔNICO DJe-105 DIVULG 01-06-2021 PUBLIC 02-06-2021).
+In casu, verifica-se que a alegação de contrariedade ao artigo 5o, II, da Constituição Federal, por suposta inobservância do art. 774 do CPC, implica em ofensa meramente reflexa, pois seria necessário o exame da legislação infraconstitucional que disciplina a matéria.
+Nesse sentido:
+“AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CARACTERIZAÇÃO DE GRAVE DANO À COLETIVIDADE. AGRAVANTE PREVISTA NO ART. 12, I, DA LEI 8.137/1990. VALIDADE DE INCIDÊNCIA NO CASO. PRINCÍPIO DA LEGALIDADE. OFENSA REFLEXA À CONSTITUIÇÃO FEDERAL. SÚMULA 636/STF. REANÁLISE DA INTERPRETAÇÃO DADA PELAS INSTÂNCIAS ORDINÁRIAS. SÚMULA 279/STF. AGRAVO A QUE SE NEGA PROVIMENTO.
+I – Falta de prequestionamento em relação aos incisos LIV e LV do art. 5° da Lei Maior. Como tem consignado este Tribunal, por meio da Súmula 282, é inadmissível o recurso extraordinário se a questão constitucional versada não tiver sido apreciada no acórdão recorrido. Ademais, se os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão, é inviável o recurso, nos termos da Súmula 356/STF. Precedentes.
+II – Esta Suprema Corte entende inadmissível a interposição de RE por contrariedade ao princípio da legalidade (art. 5°, II e XXXIX, da Constituição Federal), quando a verificação da ofensa envolva a reapreciação de interpretação dada a normas infraconstitucionais pelo Tribunal a quo (Súmula 636/STF).
+(...)
+V – Agravo regimental a que se nega provimento”. (ARE 1237044 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda Turma, julgado em 22/06/2020, PROCESSO ELETRÔNICO DJe-164 DIVULG 29-06-2020 PUBLIC 30-06-2020).
+Inviável, portanto, a admissão do recurso neste ponto.
+Ante o exposto:
+a) nego seguimento ao recurso especial com fundamento no artigo 1.030, V, do CPC; e
+b) nego seguimento ao recurso extraordinário, com fundamento no artigo 1.030, I, “b” (Tema 339), e inadmito-o com fulcro no artigo 1.030, V, do CPC (ofensa reflexa).
+Publique-se. Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça.
