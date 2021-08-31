@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+TRIBUTÁRIO. IMPOSTO DE RENDA. RETENÇÃO SOBRE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Os honorários contratuais, por sua natureza, não se enquadram na previsão legal do art. 46, § 1º, II, da Lei n. 8.541/1992, norma referente aos honorários de sucumbência, os quais são os rendimentos efetivamente pagos em cumprimento de decisão judicial (AgInt no REsp 1.862.786/PR, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA,DJe 27/11/2020).
+2. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno da ESTADO DO PARANÁcontra decisão em que não conheci do seu recurso especial, por entender que os honorários advocatícios contratuais, embora possam ser destacados da condenação judicial, com ela não se confundem, de tal sorte que não observao regime de retenção previsto no art. 46 da Lei n. 8.541/1992, que atribui à fonte pagadora a obrigação de reter o Imposto de Renda incidente sobre os valores pagos por força de decisão judicial.
+A agravante sustenta, em essência, que "o fato de os honorários advocatícios contratuais poderem ser objeto de destaque da condenação, d. v., não altera a necessidade de retenção do imposto de renda na fonte" (e-STJ fl. 516).
+Impugnação apresentada às e-STJ fls. 523/542.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. IMPOSTO DE RENDA. RETENÇÃO SOBRE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE.
+1. Os honorários contratuais, por sua natureza, não se enquadram na previsão legal do art. 46, § 1º, II, da Lei n. 8.541/1992, norma referente aos honorários de sucumbência, os quais são os rendimentos efetivamente pagos em cumprimento de decisão judicial (AgInt no REsp 1.862.786/PR, rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA,DJe 27/11/2020).
+2. Agravo interno desprovido.
+VOTO
+Inicialmente, destaco que o Plenário do STJ decidiu que aos recursosinterpostos com fundamento no CPC/1973 (relativos a decisões publicadasaté 17 de março de 2016) devem ser exigidos os requisitos deadmissibilidade na forma nele prevista, com as interpretações dadas atéentão pela jurisprudência do Superior Tribunal de Justiça(EnunciadoAdministrativo n. 2, sessão de 09/03/2016).
+A controvérsia diz respeito à possibilidade de retenção do imposto de renda na fonte sobre os honorários advocatícios, por determinação, de ofício, do Poder Judiciário.
+Considerado isso, vejamos, no que interessa, o que está consignado no voto condutor do acórdão recorrido (e-STJ fls. 423 e seguintes):
+Expedido o precatório requisitório em 1991, seguiu-se a realização de diversas cessões de crédito, tanto por parte dos autores, em relação ao crédito principal, quando pelo advogado dos autores, em relação aos honorários sucumbenciais e contratuais.
+Feito o depósito do valor do precatório em 2011, o juízo, a pedido do Estado do Paraná, determinou a retenção do imposto de renda pela alíquota máxima de 27,5% sobre os valores devidos como honorários advocatícios contratuais, sendo este justamente o objeto de impugnação do presente recurso.
+A principal tese recursal é a de que não há previsão legal para retenção de imposto de renda sobre honorários contratuais, ponto no qual assiste razão aos Agravantes.
+ ..
+Diante de todo o exposto, voto pelo conhecimento e provimento do recurso, para o fim de reformar a decisão agravada, afastando-se a possibilidade de retenção de Imposto de Renda na fonte sobre os valores do crédito identificados como honorários advocatícios contratuais, nos termos da fundamentação.
+Em suas razões de recurso especial alegou violação do art. 46 da Lei n. 8.541/1992, por entender que os honorários advocatícios contratuais, quando do pagamento de Requisição de Pequeno Valor - RPV/Precatório, sujeitam-se à retenção do imposto de renda pela fonte pagadora.
+Aduziu que "realizado o fato gerador e desencadeada a incidência do imposto de renda, o pagamento em cumprimento de decisão judicial atrai, tout court, o regime da retenção. Simples assim. A aplicação do regime da retenção independe, por completo, da natureza da relação jurídica" (e-STJ fl. 435).
+Pois bem.
+Ao reexaminar a hipótese verifico que a jurisprudência do Superior Tribunal de Justiça é no sentido de que a previsão do art.46, caput, da Lei n. 8.541/1998, relativa à retenção em fonte do Imposto de Renda incidente sobre os rendimentos pagos em cumprimento de decisão judicial, alcança o pagamento de honorários advocatícios que sejam decorrentes de decisão judicial. Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. PRECATÓRIOS. RETENÇÃO DE IMPOSTO DE RENDA SOBRE HONORÁRIOS CONTRATUAIS. IMPOSSIBILIDADE. HONORÁRIOS DE SUCUMBÊNCIA. PREVISÃO LEGAL. PRECEDENTES.
+1. O Superior Tribunal de Justiça assentou jurisprudência no sentido de que a previsão do artigo 46, caput, da Lei n. 8.541/1998, relativamente à retenção em fonte do Imposto de Renda incidente sobre os rendimentos pagos em cumprimento de decisão judicial, alcança o pagamento de honorários advocatícios que sejam decorrentes de decisão judicial. Precedentes.
+2. Os honorários contratuais, por sua natureza, não se enquadram na previsão legal do art. 46, § 1º, II, da Lei n. 8.541/1992, norma referente aos honorários de sucumbência, os quais são os rendimentos efetivamente pagos em cumprimento de decisão judicial. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.862.786/PR, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. IMPOSTO DE RENDA. HONORÁRIOS ADVOCATÍCIOS ORIUNDOS DE DECISÃO JUDICIAL. RETENÇÃO. POSSIBILIDADE. ART. 46 DA LEI 8.541/1992. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+1. Conforme a jurisprudência desta Corte, a exceção contida no art. 46, § 1o., II da Lei 8.541/92 - que determina a retenção, pela fonte pagadora, do imposto de renda sobre rendimentos pagos em cumprimento de decisão judicial - não afasta a auto-aplicação das disposições contidas no caput do mesmo dispositivo; de modo que a retenção do imposto de renda na fonte cabe à pessoa física ou jurídica obrigada ao pagamento dos honorários advocatícios no momento em que o rendimento se torne disponível para o beneficiário (AgRg no REsp. 964.389/MG, Rel. Min. MAURO CAMPBELL MARQUES, DJe de 29.4.2010). Precedentes: REsp. 1.728.259/SP, Rel. Min. HERMAN BENJAMIN, DJe 25.5.2018; AgRg no REsp. 1.115.496/RS, Rel. Min. MASSAMI UYEDA, DJe 1o.7.2010; REsp. 1.139.330/RS, Rel. Min. RAUL ARAÚJO, DJe 30.11.2010.
+2. Agravo Interno da Contribuinte a que se nega provimento.
+(AgInt no AgRg no AREsp 818.622/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 01/07/2019, DJe 02/08/2019).
+INTERPOSTO COM BASE NAS ALÍNEAS "A" E "C" DO PERMISSIVO CONSTITUCIONAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. IMPOSTO DE RENDA. HONORÁRIOS DECORRENTES DE DECISÃO JUDICIAL. RETENÇÃO NA FONTE POSSIBILIDADE. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+1. Os dispositivos legais cuja violação se alega não foram objeto de análise pela instância de origem. Incidência da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+2. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenham sido ventilados, no contexto do acórdão objurgado, os dispositivos legais indicados como malferidos.
+3. O Superior Tribunal de Justiça consolidou o entendimento de que cabe a retenção do Imposto de Renda na fonte, por ocasião do pagamento de honorários advocatícios decorrentes de decisão judicial.
+4. Incidência da Súmula 83/STJ: "Não se conhece do Recurso Especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida".
+5. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente.
+6. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC/1973, art. 1.029, § 1º, do CPC/2015 e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c", III, do art. 105 da Constituição Federal. Precedentes do STJ.
+7. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.728.259/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/04/2018, DJe 25/05/2018).
+Contudo, os honorários contratuaisnão se enquadram na previsão legal em questão, porquanto o art.46, § 1º, II, da Lei n. 8.541/1992 "se refere aos honorários de sucumbência, pois estes é que são efetivamente "rendimentos pagos em cumprimento de decisão judicial".Vide precedentes:
+TRIBUTÁRIO. RECURSO ESPECIAL INTERPOSTO NA ÉGIDE DO CPC/1973.ENUNCIADO ADMINISTRATIVO Nº 2/STJ. HONORÁRIOS PAGOS AO ADVOGADO POR ATUAÇÃO COMO DEFENSOR DATIVO. INAPLICABILIDADE DO ART. 46, § 1º, DA LEI Nº 8.541/1992. RETENÇÃO DO IMPOSTO DE RENDA NA FONTE. LEGALIDADE. CLÁUSULA GERAL DE RETENÇÃO. ART. 7º, § 1º, DA LEI Nº 7.713/1988. SOMA DOS VALORES DEVIDOS NO MÊS DE COMPETÊNCIA PARA FINS DE APLICAÇÃO DA ALÍQUOTA RESPECTIVA. POSSIBILIDADE.
+1. Os honorários do defensor dativo, por se assemelharem aos honorários contratuais, não se enquadram no art. 46, § 1º, II, da Lei nº 8.541/1992, o qual se refere aos honorários de sucumbência, pois estes é que são efetivamente "rendimentos pagos em cumprimento de decisão judicial".
+2. Ainda que o art. 46, § 1º, II, da Lei nº 8.541/1992 não se aplique ao caso dos autos, subsiste a obrigação de retenção do Imposto de Renda na fonte quando do pagamento pelo Estado dos honorários devidos ao defensor dativo, haja vista a aplicação da cláusula geral de retenção de Imposto de Renda na fonte pagadora prevista no art. 717 do Regulamento do Imposto de Renda, Decreto nº 3.000/1999.
+3. Excepcionadas as hipóteses em que a lei determina a tributação em separado, ou seja, dispensadas da soma das verbas pagas no mês pela mesma fonte (dentre as quais aquelas previstas nas alíneas do § 1º do art. 46 da Lei nº 8.541/1992 e no art. 12-A da Lei nº 7.713/1988, com redação incluída pela MP nº 497/2010, convertida na Lei nº 12.350/2010, posteriormente alterado pela Lei nº 13.149/2015), os demais pagamentos ou créditos a serem efetuados pela mesma fonte pagadora no mês devem ser somados para fins de aplicação da alíquota de Imposto de Renda da tabela vigente a data do pagamento, consoante a previsão do art. 7º, § 1º, da Lei nº 7.713/1988. Por óbvio que não haverá tributação pelo Imposto de Renda se a base de cálculo resultante da soma dos valores pagos pela mesma fonte pagadora no mês da competência não alcançar o valor tributável previsto na tabela vigente à data do fato gerador.
+4. O que não se admite é a aplicação de alíquota única de Imposto de Renda sobre o total dos rendimentos recebidos acumuladamente, pois nesses casos devem ser observadas as tabelas e as alíquotas vigentes à época em que os valores deveriam ter sido pagos, na sistemática do regime de competência (REsp 1.118.429/SP, julgado pelo rito do art. 543-C do CPC, de relatoria do Ministro Herman Benjamin, DJe 14/05/2010), respeitada a legislação aplicável à data do fato gerador, nos termos dos arts. 43, 105 e 144 do CTN.
+5. Recurso especial conhecido e provido.
+(REsp 1589324/MG, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 24/05/2016, DJe 31/05/2016).
+TRIBUTÁRIO. RECURSO ESPECIAL. IMPOSTO DE RENDA. RETENÇÃO. HONORÁRIOS ADVOCATÍCIOS. DEFENSOR DATIVO. SOMA DOS RENDIMENTOS CREDITADOS NO MESMO MÊS PARA APLICAÇÃO DA ALÍQUOTA CORRESPONDENTE. POSSIBILIDADE.
+1. A Segunda Turma desta Corte Superior, no julgamento do REsp 1.589.324/MG, estabeleceu que os honorários do defensor dativo não se enquadram no art. 46, § 1º, II, da Lei n. 8.541/1992, o qual determina a tributação em separado da verba advocatícia paga em cumprimento de decisão judicial, porquanto aqueles se assemelham aos honorários contratuais.
+2. Admitiu, ademais, a adição dos valores devidos a esse título no mesmo mês, porquanto o art. 7º, § 1º, da Lei n. 7.713/1988 impõe tal providência, determinando a aplicação da alíquota do Imposto de Renda sobre a soma dos rendimentos pagos ou creditados à pessoa física no mês, a qualquer título.
+3. Destacou ainda a dessemelhança da hipótese com aquela tratada no Recurso Especial repetitivo n. 1.118.429/SP, pertinente a rendimentos pagos em atraso acumuladamente.
+4. Recurso especial provido.
+(REsp 1470400/MG, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 13/03/2018, DJe 19/03/2018).
+Assim, a conformidade do acórdão recorrido com a jurisprudência desta Corte Superior atrai o óbice estampado na Súmula 83 do STJ, o que inviabiliza o conhecimento do recurso pelas alíneas "a" e "c" do permissivo constitucional. Nesse sentido:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  ..  INCIDÊNCIA DO ENUNCIADO SUMULAR N. 83/STJ.
+ ..
+V - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da Constituição da República, não merece prosperar quando o acórdão recorrido encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.  ..
+VIII - Agravo Interno improvido.
+(AgInt no AREsp 71.415/CE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, julgado em 20/02/2018, DJe 02/03/2018).
+Embora não merecedor de acolhimento, o agravo interno, no caso, não se revela manifestamente inadmissível ou improcedente, razão pela qual não deve ser aplicada a multa do § 4º do art. 1.021 do CPC/2015.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
