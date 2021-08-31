@@ -1,0 +1,50 @@
+DECISÃO
+Da leitura da minuta do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que BANCO DO BRASIL S.A. (BANCO DO BRASIL) ajuizou ação monitória em desfavor de SILVANA APARECIDA ZAZINI CONSENTINE (SILVANA), alegando inadimplemento de contrato bancário.
+O pedido foi julgado procedente.
+Iniciado o cumprimento de sentença, o d. Juízo de primeira instância rejeitou a impugnação oferecida por SILVANA.
+Contra essa decisão interlocutória, SILVANA interpôs agravo de instrumento sustentando que (1) o veículo penhorado é indispensável a seu deslocamento para realização de tratamento médico e fisioterapia, porquanto é portadora de diversas enfermidades; e (2) a dignidade da pessoa humana permite o alargamento do rol de impenhorabilidades.
+O Tribunal Paulista negou provimento ao agravo de instrumento nos termos do acórdão assim ementado:
+Agravo de Instrumento - Ação monitória, em fase de cumprimento de sentença - Indeferimento de pedido de levantamento de penhora sobre veículo de propriedade da agravante - Pretensão de reforma - Inadmissibilidade - Executada que não logrou comprovar se tratar de hipótese contemplada no rol de impenhorabilidades (art. 833, inc. IV e X, do NCPC) - Inaplicabilidade da Lei nº 8.009/90 à espécie - Penhora que, ademais, não configura ofensa à dignidade da agravante, a despeito dos problemas de saúde enfrentados - Veículo que sequer é adaptado - Constrição autorizada - Inteligência do § 14, do art. 85 e §2º, do art. 833, do CPC - Precedentes - Decisão mantida - Recurso ao qual se nega provimento (e-STJ, fl. 163).
+Irresignada, SILVANA interpôs recurso especial com fulcro no art. 105, III, a e c, da CF, alegando a violação dos arts. 2º da Lei nº 8.009/90 e 833 do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) o automóvel de idosa portadora de necessidades especiais é impenhorável, ainda que não seja adaptado; e (2) o veículo é utilizado rotineiramente para realização de suas atividades, bem como para locomoção para sessões de fisioterapia e consultas médicas, não sendo o bem adaptado apenas por falta de recursos financeiros.
+Foram apresentadas as contrarrazões (e-STJ, fls. 195/201).
+O apelo nobre foi admitido (e-STJ, fls. 216/218)
+É o relatório.
+DECIDO.
+O recurso não comporta acolhimento.
+De plano, vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) e (2) Da incidência da Súmula nº 7 do STJ
+SILVANA afirmou a violação dos arts. 2º da Lei nº 8.009/90 e 833 do NCPC, bem como dissídio jurisprudencial, ao sustentar que (1) o automóvel de idosa portadora de necessidades especiais é impenhorável, ainda que não seja adaptado; e (2) o imóvel é utilizado rotineiramente para realização de suas atividades, bem como para locomoção para sessões de fisioterapia e consultas médicas, não sendo o bem adaptado apenas por falta de recursos financeiros.
+Sobre o tema o Tribunal estadual consignou que não foi comprovado que o veículo é imprescindível à garantia das necessidades básicas para sobrevivência de SILVANA, confira-se:
+Nesse passo, ainda que delicada a conjuntura enfrentada pela executada, diante dos inúmeros problemas de saúde enfrentados, tem-se que à míngua de demonstração efetiva da imprescindibilidade do bem para a garantia de suas necessidades básicas de sobrevivência, o processo deve caminhar em busca da satisfação do crédito do exequente, diante do princípio constitucional da efetividade. Há de ser respeitado, in casu, o regramento processual, que, em observância aos ditames constitucionais, elegeu rol taxativo das situações protegidas pela impenhorabilidade (e-STJ, fls. 164/165).
+Assim, rever as conclusões quanto à imprescindibilidade do veículo para sobrevivência de SILVANA demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se o precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CONCLUSÃO NO SENTIDO DO CABIMENTO DA PENHORA DE DIREITOS SOBRE VEÍCULO. VIABILIDADE DA CONSTRIÇÃO. ENTENDIMENTO FUNDADO NA APRECIAÇÃO FÁTICO-PROBATÓRIA DA CAUSA. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. O acórdão concluiu que, além de o veículo constrito não estar acobertado pela regra da impenhorabilidade, o insurgente não teria comprovado que ele seria utilizado como instrumento de trabalho, necessário para seu tratamento hospitalar ou sua sobrevivência. Além disso, concluiu que a penhora sobre os direitos que o agravante tem sobre o veículo não impede sua utilização. Essas ponderações a respeito do cabimento da penhora de direitos sobre o veículo foram feitas com base em fatos e provas, atraindo a aplicação da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1.848.509/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. em 16/08/2021, DJe 19/08/2021)
+O recurso, portanto, não merece ser conhecido quanto ao ponto.
+Ademais, quanto ao dissídio jurisprudencial, esta Corte posiciona-se no sentido de que, além de indicar o dispositivo legal e transcrever os julgados apontados como paradigmas, é necessário que o recorrente proceda ao cotejo analítico, com a demonstração da identidade das situações fáticas e da interpretação diversa conferida ao mesmo dispositivo.
+Confiram-se os seguintes precedentes:
+CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS VIOLADOS. CITAÇÃO DE PASSAGEM DE ARTIGOS. FALTA DE ALCANCE NORMATIVO DO DISPOSITIVO APONTADO. SÚMULA N. 284/STF. FALTA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO RECORRIDO E DA DECISÃO AGRAVADA. SÚMULAS N. 283 DO STF E 182 DO STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. DECISÃO MANTIDA.
+1. A falta de indicação dos dispositivos legais supostamente violados impede o conhecimento do recurso especial (Súmula n. 284/STF).
+2. "A mera indicação de artigos de lei pretensamente violados não enseja o conhecimento do recurso especial, porquanto este é apelo de fundamentação vinculada e não incide o brocardo iura novit curia" (REsp n. 794.537/MT, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 5/3/2009, DJe 6/4/2009), o que oc orreu no caso.
+3. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação recursal que alega violação de dispositivos legais cujo conteúdo jurídico não tem alcance normativo para amparar a tese defendida no recurso especial.
+4. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+5. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+6. O conhecimento do recurso pela alínea "c" do permissivo constitucional exige a indicação do dispositivo legal ao qual foi atribuída interpretação dissonante e a demonstração da divergência, mediante o cotejo analítico do acórdão recorrido e dos arestos paradigmas, de modo a se verificarem as circunstâncias que assemelhem ou identifiquem os casos confrontados (arts. 255, § 1º, do RISTJ e 1.029, § 1º, do CPC/2015). Ausentes tais requisitos, incide a Súmula n. 284/STF. Além disso, "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.282.707/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, Quarta Turma, j. em 08/02/2021, DJe 11/02/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS. DISPOSITIVO DE LEI FEDERAL. VIOLAÇÃO. FALTA DE INDICAÇÃO. SÚMULA Nº 284/STF. DIVERGÊNCIA. MESMO TRIBUNAL RECORRIDO. SÚMULA Nº 13/STJ. DISSÍDIO JURISPRUDENCIAL. NÃO COMPROVAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Considera-se deficiente de fundamentação o recurso especial que não indica os dispositivos legais supostamente violados pelo acórdão recorrido, circunstância que atrai a incidência, por analogia, da Súmula nº 284/STF.
+3. Não se conhece do recurso especial diante do óbice contido na Súmula nº 13/STJ.
+4. Nos termos dos artigos 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ, a divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.692.062/SC, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 08/02/2021, DJe 12/02/2021)
+Contudo, na hipótese dos autos, SILVANA deixou de demonstrar analiticamente a divergência, limitando-se a transcrever ementa de acórdão paradigma.
+Assim, é inviável o conhecimento do recurso especial no ponto.
+Nessas condições, NÃO CONHEÇO do recurso especial.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO MONITÓRIA. CUMPRIMENTO DE SENTENÇA. IMPENHORABILIDADE. VEÍCULO. IMPRESCINDIBILIDADE. NÃO DEMONSTRAÇÃO. REEXAME DE FATOS E PROVAS. INVIABILIDADE. SÚMULA Nº 7 DO STJ. RECURSO ESPECIAL NÃO CONHECIDO.
