@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. AUSÊNCIA DE IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO RECORRIDA. AGRAVO NÃO CONHECIDO.
+1. Foi exposto na decisão agravada que a justificativa trazida pelo recorrente, ora agravante, de que teve a sua volta ao presídio obstada por ter ingerido bebida alcoólica, falta grave não contida no rol taxativo do art. 50 da LEP, sendo comunicada, em razão disso, a sua fuga, ostenta matéria fático-probatória, incabível de ser analisada na via do mandamus.
+2. A ausência de impugnação específica desses fundamentos da decisão agravada atrai a incidência do art. 1.021, § 1º, do CPC e da Súmula 182 desta Corte.
+2. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de agravo regimental interposto contra decisão na qual o recurso em habeas corpus foi indeferido liminarmente.
+O agravante cumpre penas de 5 anos e 4 meses de reclusão, em regime semiaberto, pela prática do delito de roubo qualificado, e de 5 anos e 10 meses de reclusão, no regime fechado, pelo crime do art. 33, caput, da Lei 11.343/2006. Quando da unificação das penas, fixou-se o regime fechado.
+Neste recurso, argumenta que a regressão de regime prisional é medida extrema e somente a falta grave prevista na Lei Federal permite tal regressão, seja cautelar ou definitiva, acrescendo que a Lei de Execução Penal não prevê como falta grave o apenado ser encontrado com sinais de ter feito uso de bebida alcoólica, não se permitindo assim regressão de regime por falta leve ou média.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Como relatado, trata-se de agravo regimental interposto contra decisão na qual o recurso em habeas corpus foi indeferido liminarmente.
+O agravante cumpre penas de 5 anos e 4 meses de reclusão, em regime semiaberto, pela prática do delito de roubo qualificado, e de 5 anos e 10 meses de reclusão, no regime fechado, pelo crime do art. 33, caput, da Lei 11.343/2006. Quando da unificação das penas, fixou-se o regime fechado.
+Neste recurso, argumenta que a regressão de regime prisional é medida extrema e somente a falta grave prevista na Lei Federal permite tal regressão, seja cautelar ou definitiva, acrescendo que a Lei de Execução Penal não prevê como falta grave o apenado ser encontrado com sinais de ter feito uso de bebida alcoólica, não se permitindo assim regressão de regime por falta leve ou média, estando a decisão agravada assim proferida (fls. 133-135):
+ ..  Acerca da matéria aqui trazida, assim se manifestou o Tribunal local (fls. 102-104):
+ ..  É sabido que o Habeas Corpus não é o meio adequado para requerer o reconhecimento de matéria de execução penal, pois é necessária análise de prova, incabível em via de cognição sumária, desafiando recurso próprio - Agravo em Execução.
+ ..
+Saliente-se que, o colendo STF, por maioria dos votos, no julgamento do HC n.º 109.956/PR, noticiado no Informativo nº 674 do STF, consolidou o entendimento de inadmissibilidade do Habeas Corpus quando cabível recurso próprio:
+ ..
+Ademais, conforme informado pelo juízo da execução "uma vez iniciado o cumprimento da pena no regime SEMIABERTO, empreendeu fuga da unidade prisional em 11 de junho de 2019, ocorrendo a regressão cautelar para o FECHADO, sendo expedido o MANDADO DE PRISÃO; - a execução se acha interrompida em razão da fuga; - não há notícia nos autos do cumprimento do mandado de prisão expedido." (Ordem nº 32)
+O tema do presente writ trata especificamente da execução de pena do paciente, e, como já ressaltado, o remédio heroico não é o meio adequado para a solução de questões específicas relativas à execução. ..
+Como visto, não houve debate perante o Tribunal estadual no tocante ao argumento de ilegalidade da regressão prisional do recorrente, muito menos quanto aos seus reais motivos, ressaltando aquela Corte, no entanto, que, conforme informado pelo juízo da execução, uma vez iniciado o cumprimento da pena no regime SEMIABERTO, empreendeu fuga da unidade prisional em 11 de junho de 2019, ocorrendo a regressão cautelar para o FECHADO, sendo expedido o MANDADO DE PRISÃO; - a execução se acha interrompida em razão da fuga; - não há notícia nos autos do cumprimento do mandado de prisão expedido, decisão essa que se coaduna com a jurisprudência deste Tribunal. A propósito:
+ ..
+Ademais, a justificativa aqui trazida pelo recorrente - de que teve a sua volta ao presídio obstada sob o argumento de que tinha ingerido bebida alcoólica, falta grave essa não contida no rol taxativo do art. 50 da LEP, sendo comunicada, em razão disso, a sua fuga -, ostenta matéria fático-probatória, incabível de ser analisada na presente via do mandamus.
+Ante o exposto, indefiro liminarmente o recurso em habeas corpus. ..
+Como visto da transcrição, os argumentos do agravante, como trazidos no recurso interposto, não foram debatidos pelo Tribunal local, ressaltando essa Corte que o fundamento adptado para a regressão de regime do recorrente foi a sua fuga do estabelecimento prisional, decisão essa que se coaduna com a jurisprudência desta Corte.
+Ademais, foi exposto na decisão agravada que a justificativa trazida pelo recorrente, ora agravante - de que teve a sua volta ao presídio obstada sob a justificativa de que tinha ingerido bebida alcoólica, falta grave essa não contida no rol taxativo do art. 50 da LEP, sendo comunicada, em razão disso, a sua fuga -, ostenta matéria fático-probatória, incabível de ser analisada na via do mandamus.
+O regimental, contudo, deixou de enfrentar tais fundamentos, limitando-se a reiterar a inidoneidade da regressão do regime prisional, não comportando, assim, conhecimento, nos termos do art. 1.021, § 1º, do CPC e da Súmula 182/STJ. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. 6,40 G DE COCAÍNA E 10,25 G DE CRACK. QUANTIDADE DE DROGA QUE NÃO JUSTIFICA A UTILIZAÇÃO DE PATAMAR MÉDIO DE REDUÇÃO. ART. 33, § 4º, DA LEI N. 11.343/2006. DESPROPORCIONALIDADE NA DOSIMETRIA FEITA PELO TRIBUNAL DE ORIGEM, QUE CONFIGURA FLAGRANTE ILEGALIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. Nos termos do entendimento consolidado no Superior Tribunal de Justiça, deve o agravo regimental impugnar especificamente os fundamentos da decisão agravada, sob pena de não ser conhecido (Súmula 182/STJ).
+2. Agravo regimental não conhecido. (AgRg no HC 543.574/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/05/2020, DJe 04/06/2020).
+Ante o exposto (admissibilidade não satisfeita), não conheço do agravo regimental.
+É o voto.
