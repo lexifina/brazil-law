@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Luiz de Souza Sales, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Apelação n.0000361-23.2016.8.26.0530 - fls. 155/162), por manter a sentença proferida pelo Juízo de Direito da 5ª Vara Criminal da comarca de Ribeirão Preto/SP, que o condenou como incurso no art. 306 do Código de Trânsito Brasileiro,à pena de 7 meses de detenção, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 11 dias-multa, bem como a 7 meses de suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor(fls. 99/102).
+A defesa pretende, em suma, a fixação da pena-base no mínimo legal e a fixação do regime aberto. Subsidiariamente, pretende a transferência ao regime domiciliar (Recomendação 62/2020 do CNJ).
+Liminar indeferida (fls. 319/320), informações prestadas (fls. 327/354), o Ministério Público Federal, na pessoa do Subprocurador-Geral da República Mario Luiz Bonsaglia, exarou parecer assim ementado (fl. 356):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. EMBRIAGUEZ AO VOLANTE (ART. 306, CAPUT, DO CTB). RÉU CONDENADO À PENA DE 7 (SETE) MESES DE DETENÇÃO, EM REGIME INICIAL SEMIABERTO, E SUSPENSÃO OU PROIBIÇÃO DE SE OBTER A PERMISSÃO OU A HABILITAÇÃO PARA DIRIGIR VEÍCULO AUTOMOTOR POR 7 (SETE) MESES.
+EXASPERAÇÃO DA PENA-BASE.DISCRICIONARIEDADE VINCULADA DO JULGADOR. MAUS ANTECEDENTES. RÉU QUE OSTENTA DUAS CONDENAÇÕES COM TRÂNSITO EM JULGADO. REGIME SEMIABERTO.ADEQUAÇÃO. CIRCUNSTÂNCIA JUDICIAL NEGATIVA E REINCIDÊNCIA.
+PARECER PELO NÃO CONHECIMENTO DO WRIT OU, SE CONHECIDO FOR, PELA DENEGAÇÃO DA ORDEM.
+É o relatório.
+Inicialmente, observo que o presente writ é substitutivo de revisão criminal, porquanto impetrado contra acórdãojá transitado em julgado, de acordo com as informações prestadas pelo Tribunal de origem (fls. 327/328).
+Ora, nos termos da jurisprudência desta Corte, se o habeas corpus foi impetrado contra acórdão do Tribunal de Justiça  ..  transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido (HC n.288.978/SP, da minha relatoria, rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Ademais, não há constrangimento ilegal a ser sanado, pois apena-base foi idoneamente aumentada em 1/6, haja vista a existência de maus antecedentes, tendo sido fixado o regime semiaberto para o início do cumprimento da reprimenda de 7 meses de detenção, justamente em razão do estabelecimento da pena-base acima do mínimo legal (art. 33, § 3º, do Código Penal) e por conta da reincidência do ora paciente.
+Por fim, observo que a pretensão do cumprimento da pena em regime domiciliar não foi analisada pelo acórdão impugnado, motivo pelo qual também não pode ser discutida nesta Corte, sob pena de indevida supressão de instância.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EMBRIAGUEZ AO VOLANTE. ACÓRDÃO JÁ TRANSITADO EM JULGADO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL.NÃO CONHECIMENTO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ não conhecido.
