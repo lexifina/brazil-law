@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ARTHUR EDUARDO SANTOS TEIXEIRA contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeirono julgamento da Apelação n. 0006709-33.2016.8.26.0635.
+Na hipótese, o impetrante aponta constrangimento ilegal no excesso de prazo da julgamento do habeas corpusimpetrado perante o eg. Tribunal de origem, em razão da condenaçãoà pena de 5 anos, 11 meses e 14 dias de reclusão em regime fechado pela prática do crime de roubo majorado, e se requer, em caráter liminar e no mérito, a concessão da ordem para " ..  determinar o imediato julgamento do Habeas Corpus nº: 0046547- 64.2021.8.19.0000, em andamento na SEXTA CÂMARA CRIMINAL do Tribunal de Justiça do Estado do Rio de Janeiro" (fl. 8).
+É o breve relatório.
+Decido.
+A Primeira Turma do col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente (v.g.: HC 109.956/PR, Rel. Min. Marco Aurélio, DJe de 11/9/2012; RHC 121.399/SP, Rel. Min. Dias Toffoli, DJe de 1º/8/2014 e RHC 117.268/SP, Rel. Min. Rosa Weber, DJe de 13/5/2014).
+As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado (v.g.: HC 284.176/RJ, Quinta Turma, Rel. Min. Laurita Vaz, DJe de 2/9/2014; HC 297.931/MG, Quinta Turma, Rel. Min. Marco Aurélio Bellizze, DJe de 28/8/2014; HC 293.528/SP, Sexta Turma, Rel. Min. Nefi Cordeiro, DJe de 4/9/2014 e HC 253.802/MG, Sexta Turma, Rel. Min. Maria Thereza de Assis Moura, DJe de 4/6/2014).
+Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração.
+Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+In casu, compulsando o procedimento, denota-se que o presente writ se trata de reiteração de pedido com os mesmos fundamentos, já apreciado em sede de julgamento liminar do habeas corpus n. 680.864/RJ, oportunidade em que o mandamusfoi indeferido liminarmente, em razão dasupressão de instânciaconstatada.
+Nesse diapasão, o art. 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o presente habeas corpus, nos termos dos arts. 34, XX e 210, ambos do RISTJ.
+P. e I.
