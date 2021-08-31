@@ -1,0 +1,58 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.DE SEGURANÇA. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. ART. 1003, § 6º, DO CPC/2015. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. INAPLICABILIDADE DA MODULAÇÃO REALIZADA PELA CORTE ESPECIAL NO JULGAMENTO DO RESP 1.813.684/SP. COMPROVAÇÃO
+POSTERIOR APENAS DA SEGUNDA-FEIRA DE CARNAVAL.
+1. A jurisprudência do Superior Tribunal de Justiça é de que, nos Recursos Especiais interpostos na vigência do CPC/2015, o feriado local deve ser comprovado no ato da interposição, não sendo possível a comprovação posterior, nos termos do art. 1.003, § 6º, do CPC/2015.
+2. A Corte Especial do STJ, ao modular os efeitos do acórdão proferido no REsp 1.813.684/SP, admitiu a comprovação posterior de feriado local aos recursos interpostos entre a vigência do CPC/2015 até a publicação do referido julgado, no dia 18.11.2019, somente para o feriado de segunda-feira de carnaval, que não é o caso dos autos.
+3. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do recurso ante a intempestividade.
+A parte agravante alega que o recurso protocolado em 06/3/2020 é tempestivo porque, nos dias 21, 24, 25 de fevereiro de 2020  correspondentes, respectivamente, à segunda-feira de carnaval, terça-feira de carnaval e quarta-feira de cinzas  não houve expediente forense, conforme legislação estadual. Ademais, afirma que os prazos processuais foram suspensos no período de 6 a 13.3.2020 por ato local.
+Pugna pela reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DE SEGURANÇA. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO DO RECURSO ESPECIAL. ART. 1003, § 6º, DO CPC/2015. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. INAPLICABILIDADE DA MODULAÇÃO REALIZADA PELA CORTE ESPECIAL NO JULGAMENTO DO RESP 1.813.684/SP. COMPROVAÇÃO
+POSTERIOR APENAS DA SEGUNDA-FEIRA DE CARNAVAL.
+1. A jurisprudência do Superior Tribunal de Justiça é de que, nos Recursos Especiais interpostos na vigência do CPC/2015, o feriado local deve ser comprovado no ato da interposição, não sendo possível a comprovação posterior, nos termos do art. 1.003, § 6º, do CPC/2015.
+2. A Corte Especial do STJ, ao modular os efeitos do acórdão proferido no REsp 1.813.684/SP, admitiu a comprovação posterior de feriado local aos recursos interpostos entre a vigência do CPC/2015 até a publicação do referido julgado, no dia 18.11.2019, somente para o feriado de segunda-feira de carnaval, que não é o caso dos autos.
+3. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 8.7.2021.
+O Agravo Interno não merece prosperar.
+Consoante se verifica de fls. 759, a decisão de admissibilidade foi publicada no Diário de Justiça Eletrônico no dia 12.2.2020, tendo-se interposto o respectivo Agravo no dia 6.3.2021 (fl. 761).
+Todavia, o Agravo em Recurso Especial foi protocolado sem comprovação de que fora suspenso o expediente forense nos dias 21, 24 e 26, todos de fevereiro de 2020, não podendo haver admissão após essa data - fls. 761/774.
+A terça-feira de carnaval, dia 25.2.2020, por ser feriado judiciário nacional, nos termos do art. 5º, da Lei 1.048/1951, é excluída da contagem do prazo.
+Como a parte agravante foi intimada do acórdão em 12.02.2020 (fls. 755/760), e somente o dia 25.2.2020 deve ser excluído da contagem, o prazo de 15 dias úteis, iniciado no dia 13.2.2020, encerrou-se no dia 5.3.2020.
+A jurisprudência do Superior Tribunal de Justiça é de que, nos Recursos Especiais interpostos na vigência do CPC/2015, o feriado local deve ser comprovado no ato da interposição, não sendo possível a comprovação posterior, nos termos do art. 1.003, § 6º, do CPC/2015.
+A Corte Especial deste Tribunal, ao modular os efeitos do acórdão proferido no REsp 1.813.684/SP, admitiu a comprovação posterior de feriado local aos recursos interpostos entre a vigência do CPC/2015 até a publicação do referido julgado, no dia 18.11.2019, somente para o feriado de segunda-feira de carnaval, que não é o caso dos autos.
+Na mesma linha:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. INDEFERIMENTO LIMINAR. FERIADO LOCAL QUE NÃO CORRESPONDE À SEGUNDA-FEIRA DE CARNAVAL. COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. AGRAVO INTERNO DESPROVIDO.
+1. A embargante se insurge contra decisão que indeferiu liminarmente os embargos de divergência, no bojo do qual busca uniformizar o entendimento acerca da possibilidade de comprovar a ocorrência de feriado local em momento posterior à interposição do recurso especial.
+2. A matéria foi apreciada recentemente pela Corte Especial, que reafirmou o entendimento quanto à necessidade de comprovação nos autos de feriado local no ato de interposição do recurso interposto sob a vigência do CPC/2015. Todavia, modulou os efeitos da decisão, de modo que seja aplicada, tão somente, aos recursos interpostos após a publicação do acórdão, que se deu em 18/11/2019, e quando se tratar de feriado de segunda-feira de carnaval.
+3. No caso posto, o feriado cuja comprovação a parte agravante pretende comprovar não corresponde à segunda-feira de carnaval.
+Conforme consignado no voto condutor do julgado objeto dos embargos de divergência, "a parte Recorrente foi intimada do acórdão recorrido em 09/12/2016, sendo o recurso especial interposto somente em 03/02/2017", não incidindo, portanto, a hipótese descrita na modulação dos efeitos sedimentada no julgamento da Questão de Ordem no REsp n. 1.813.684/SP.
+4. Nesse contexto, ao concluir que a ocorrência de feriado local deve ser comprovada no ato da interposição do recurso, o acórdão embargado alinhou-se ao atual entendimento desta Corte Especial acerca do tema, o que atrai a incidência da Súmula n. 168 do STJ, no sentido de que "não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado." 5. No que tange ao pedido de majoração dos honorários recursais, este Sodalício firmou a compreensão de que, mesmo nas hipóteses de indeferimento liminar dos embargos de divergência, afigura-se cabível a majoração dos honorários recursais, porquanto a interposição do recurso uniformizador inaugura novo grau recursal.
+6. Agravo interno desprovido.
+(AgInt nos EAREsp 1462128/SP, Rel. Ministro JORGE MUSSI, CORTE ESPECIAL, julgado em 22/06/2021, DJe 24/06/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INTEMPESTIVIDADE DO RECURSO. INCIDÊNCIA DO CPC DE 2015. FERIADO LOCAL. COMPROVAÇÃO NO ATO DA INTERPOSIÇÃO.
+ENTENDIMENTO DA CORTE ESPECIAL. AGRAVO IMPROVIDO.
+1. A Corte Especial, ao interpretar os artigos 932, parágrafo único, e 1.003, § 6º, do CPC de 2015, bem assim os princípios consagrados pelo novo Código, por maioria, firmou orientação de que o recorrente deve comprovar "a ocorrência de feriado local no ato de interposição do recurso", de maneira que fica inviabilizada a apresentação de documento hábil em momento posterior para demonstrar sua tempestividade (AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe de 19/12/2017).
+2. No julgamento do REsp 1.813.684/SP, a colenda Corte Especial delimitou que a orientação de comprovação do feriado local no momento da interposição do recurso especial deveria persistir para os feriados e suspensões de expedientes locais em geral, excetuando-se apenas a segunda-feira de carnaval, em relação à qual houve modulação de efeitos do julgado anterior, permitindo-se a comprovação a posteriori, quando se tratar de recursos interpostos no período entre a vigência do CPC de 2015 e a data da publicação do acórdão prolatado no mencionado recurso especial (REsp 1.813.684/SP, Rel. Ministro RAUL ARAÚJO, Rel. p/ acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe de 18/11/2019).
+Tal orientação foi confirmada na Questão de Ordem apresentada, subsequentemente, pela Ministra NANCY ANDRIGHI naquele REsp 1.813.684/SP e, na sequência, no julgamento do AgInt no AREsp 1.481.810/SP (Rel. p/ acórdão Ministra NANCY ANDRIGHI), não se estendendo a modulação sequer ao feriado de Corpus Christi.
+3. No caso, aplica-se a regra de inviabilidade de comprovação posterior do feriado local, nos termos do decidido no AgInt no AREsp 957.821/MS.
+4. Agravo interno improvido.
+(AgInt nos EAREsp 1354373/MS, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 22/06/2021, DJe 01/07/2021)
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ALEGADA VALIDADE DE CERTIDÃO DE TEMPESTIVIDADE ORIUNDA DO TRIBUNAL A QUO. INEXISTÊNCIA DE VINCULAÇÃO DO SUPERIOR TRIBUNAL DE JUSTIÇA. DUPLO CONTROLE. PRECEDENTES. FERIADO LOCAL (CORPUS CHRISTI). COMPROVAÇÃO POSTERIOR. IMPOSSIBILIDADE. APLICAÇÃO DO CÓDIGO DE PROCESSO CIVIL DE 2015. REGRA MITIGADA APENAS PARA O FERIADO DE SEGUNDA-FEIRA DE CARNAVAL. QO NO RESP 1.813.684/SP, REL.
+MINISTRA NANCY ANDRIGHI, CORTE ESPECIAL, JULGADO EM 03/02/2020, DJE 28/02/2020. EDCL NA QO NO RESP 1.813.684/SP, JULGADO EM 19/05/2021, ACÓRDÃO PENDENTE DE PUBLICAÇÃO. TESE REAFIRMADA. INCIDÊNCIA DA SÚMULA N. 168 DO SUPERIOR TRIBUNAL DE JUSTIÇA. EMBARGOS DE DIVERGÊNCIA LIMINARMENTE INDEFERIDOS. AGRAVO INTERNO DESPROVIDO.
+1. Está sedimentado na jurisprudência desta Corte o entendimento de que a decisão de admissibilidade ou certidão de tempestividade oriundas do Tribunal a quo não vincula o Superior Tribunal de Justiça, que tem a incumbência indelegável de rever o juízo de admissibilidade do recurso especial, assim submetido a duplo controle (v.g.: AgInt nos EREsp 1.776.770/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 05/05/2020, DJe 11/05/2020;
+EDcl no AgInt nos EDcl no AREsp 1.465.673/RS, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 24/08/2020, DJe 27/08/2020; EDcl no AgInt no REsp 1.702.212/ES, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/03/2018, DJe 21/03/2018).
+2. A Corte Especial, depois de amplo debate, na sessão realizada em 19/05/2021, na conclusão do julgamento dos EDcl na QO no RESP 1.813.684/SP  cujo acórdão ainda pende de publicação  , não conheceu dos embargos de declaração e reafirmou o entendimento de que "a tese firmada por ocasião do julgamento do REsp 1.813.684/SP é restrita ao feriado de segunda-feira de carnaval e não se aplica aos demais feriados, inclusive aos feriados locais" (QO no REsp 1813684/SP, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 03/02/2020, DJe 28/02/2020).
+3. Incidência da Súmula n. 168 do Superior Tribunal de Justiça: "Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado." 4. Agravo interno desprovido.
+(AgInt nos EDcl nos EAREsp 1600923/PR, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 22/06/2021, DJe 01/07/2021)
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
