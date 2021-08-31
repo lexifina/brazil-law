@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial apresentado por Ubirajara Carvalho Toledo, com base no art. 105, III, a ec, da Constituição Federal, desafiando acórdão proferido pelo Tribunal de Justiça do Rio Grande do Sul, assim ementado (e-STJ, fl. 160):
+RECURSO DE APELAÇÃO. AÇÃO DE BUSCA EAPREENSÃO. ALIENAÇÃO FIDUCIÁRIA.CONSTITUIÇÃO EM MORA COMPROVADA.ENCARGOS CONTRATUAIS DO PERÍODO DANORMALIDADE NÃO ABUSIVOS. Comprovada aadequada constituição em mora, somente averificação da abusividade dos encargoscontratuais previstos para o período danormalidade contratual teria o condão deafastar a mora. Ausente abusividade evidente,deferida a busca e apreensão. NEGARAMPROVIMENTO AO RECURSO.
+Nas razões do recurso especial, fundado no art. 105, III,a ec, da Constituição Federal, orecorrente alegou violação dos arts. 485, IV, § 3º, do CPC/2015;28, § 1º e seu inciso I, da Lei 10.931/2004; 46, 47 e 51, IV, § 1º e seu inciso III, do CDC (e-STJ, fls. 168-184).
+Destacou a impossibilidade de capitalização de juros quando não houver previsão expressa no contrato.
+Advertiu que deve haver a descaracterização da mora, tendo em vista a clara cobrança de encargos abusivos.
+Contrarrazõesapresentadas (e-STJ, fls. 204-208).
+O Tribunal de origem negou seguimento ao recurso especial em razão do decidido no REsp n. 973.827/RS - Temas 246 e 247, e não admitiu o seu processamento em virtude da incidência das Súmulas n. 5, 7 e 83/STJ (e-STJ, fls. 213-223).
+Foi interposto agravo em recurso especial às fls. 227-242 (e-STJ), eapresentada contraminutaàs fls. 244-260 (e-STJ).
+Brevemente relatado, decido.
+Conforme acima salientado, foi negado seguimento ao recurso especial, nos termos do art. 1.030,b, do CPC/2015 em virtude da questão relativa à capitalização dos juros (Temas 246 e 247) ter sido decidida na Corte estadual em conformidade com precedentes firmados pelo Superior Tribunal de Justiça em recurso especial repetitivo. Assim, não merece conhecimento o presente agravo nesse ponto. Isso porque se trata de recurso incabível, conforme entendimento proferido pela Terceira Turma desta Corte no julgamento do AREsp n. 959.991/RS, desta relatoria, julgado em 16/8/2016 e publicado em 26/8/2016.
+Além disso, dispõe o art. 1.030, § 2º, do CPC/2015 que, uma vez negado seguimento ao recurso especial na instânciaa quo, tendo em vista a conformidade do entendimento exarado pelo acórdão recorrido com o firmado em julgamento repetitivo por este Tribunal Superior, a irresignação da parte com a decisão de admissibilidade proferida pela Corte de origem deve se dar por meio de agravo interno, nos termos do art. 1.021 do CPC/2015.
+Quanto à desconstituição da mora e à busca e apreensão, o Colegiado local assim se manifestou (e-STJ, fls. 162-163):
+Assim, somente a verificação da evidente ilegalidade dasprevisões contratuais para o período da normalidade afastaria aconfiguração da mora, ou seja, os juros remuneratórios e a capitalizaçãode juros.
+Nesse sentido, são os seguintes precedentes: EDcl no AgRgno REsp 842.973/RS, 3@ Turma, Rel. originário Min. Humberto Gomes deBarros, Rel. p/ Acórdão Min. Nancy Andrighi, julgado em 21.08.2008.
+Portanto, para a busca e apreensão, avalia-se a adequadaconstituição em mora da parte, juros remuneratórios não abusivos econtratação da capitalização, pois são os únicos encargos que, quandoabusivos, afastam os efeitos da mora do consumidor.
+ ..
+Enfim, adequada a constituição em mora e não verificadaabusividade nos encargos contratuais da normalidade, correta a sentençade procedência.
+Dessa forma, a modificação das premissas firmadas na origem, de modo a acolher a irresignação recursal quanto à necessidade descaracterização da mora e que não estão presentes as condições da ação relativamente à busca e apreensão, demandaria o reexame do acervo fático-probatório dos autos, procedimento inviável no âmbito do recurso especial, nos termos da Súmula n. 7/STJ.
+Ante o exposto, conheço parcialmente do agravo para não conhecerdo recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em R$ 300,00(trezentos reais), em favor dos advogados da parte recorrida, suspensa a exigibilidade em razão da gratuidade de justiça deferida aorecorrente.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. ALIENAÇÃO FIDUCIÁRIA. AÇÃO REVISIONAL.1.CAPITALIZAÇÃO DE JUROS. APELO ESPECIAL INADMITIDO NA ORIGEM, EM PARTE, COM FULCRO NA APLICAÇÃO DE RECURSO REPETITIVO - TEMAS 246 E 247. IMPOSSIBILIDADE DE O STJ CONHECER DO AGRAVO EM RECURSO ESPECIAL NA PARTE EM QUE QUESTIONA A APLICAÇÃO DO ART. 1.030,b, DO CPC/2015. NÃO CABIMENTO DO AGRAVO NESSE PONTO (CPC/2015, ART. 1.042). PREVISÃO LEGAL EXPRESSA. ERRO GROSSEIRO.2.DESCARACTERIZAÇÃO DA MORA. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7/STJ.3.AGRAVO PARCIALMENTE CONHECIDO PARA, NESSA EXTENSÃO, NÃO CONHECER DO RECURSO ESPECIAL.
