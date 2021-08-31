@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de agravo interposto porSÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA contra decisão que não admitiu o recurso especial, este manejado, por sua vez, com amparo naalíneaa do permissivo constitucional, visando a reforma do acórdão do Tribunal de Justiça do Estado de São Paulo assim ementado (e-STJ, fl. 266):
+APELAÇÃO CÍVEL PLANO DE SAÚDE - Ação de obrigação de fazer c. c. indenização por danos morais - Sentença de parcial procedência - Autora que comprovou necessitar de cirurgia de quadril, com colocação de prótese - Negativa de cobertura que é abusiva - Hipótese em que, apesar de o contrato ser anterior à Lei nº 9.656/98,está sujeito ao Código de Defesa do Consumidor - Cláusula que exclui a cobertura de cirurgia que envolva a colocação de prótese que se mostra abusiva, pois impede o tratamento da doença coberta - Danos morais configurados- Recurso não provido.
+Na razões de recurso especial, a insurgente alegou violação aoart. 10, VII, da Lei n. 9656/1998, ao argumento de que o procedimento indicado à pacientenão estáprevisto no contrato pactuado entre as partes, sendo descabida a cobertura da cirurgia para implantação próteses, ante a expressa exclusão contratual.
+Contrarrazões às fls. 293-298 (e-STJ),
+O processamento do recurso especial não foi admitido pela Corte local, levando a insurgente a interpor o presente agravo.
+Contraminuta àsfls. 309-324 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, segundo a jurisprudência assente no STJ, é abusiva a cláusula que exclua ou limite a cobertura de órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor.
+Ainda nesse contexto, dispõe esta Corte de Justiça que ""o contrato de plano de saúde pode limitar as doenças a serem cobertas não lhe sendo permitido, ao contrário, delimitar os procedimentos, exames e técnicas necessárias ao tratamento da enfermidade constante da cobertura" (AgInt no AREsp 622.630/PE, Relatora a Ministra Maria Isabel Gallotti, julgado em 12/12/2017, DJe 18/12/2017).
+Confiram-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZATÓRIA CUMULADA COM REEMBOLSO. PLANO DE SAÚDE. RECUSA DE FORNECIMENTO DE PRÓTESE. REEMBOLSO INTEGRAL. CABIMENTO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO NÃO IMPUGNADOS. RAZÕES RECURSAIS DISSOCIADAS DOS FUNDAMENTOS DO JULGADO ATACADO. APLICAÇÃO DAS SÚMULAS 283 E 284 DO SUPREMO TRIBUNAL FEDERAL. DANO MORAL CONFIGURADO. AGRAVO NÃO PROVIDO.
+1. O Tribunal estadual assentou a obrigatoriedade do plano de saúde em custear o fornecimento de prótese à parte autora, o que está em consonância com a jurisprudência desta Corte Superior, que possui entendimento de que é abusiva a cláusula que exclua ou limite a cobertura de órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor. Precedentes.
+2. A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente à manutenção do acórdão estadual atrai, por analogia, o óbice da Súmula 283 do STF.
+3. É inadmissível o inconformismo por deficiência na fundamentação quando as razões do recurso estão dissociadas do decidido no acórdão recorrido. Aplicação da Súmula 284 do Supremo Tribunal Federal.
+4. "Segundo a jurisprudência pacífica do STJ, a cláusula que exclui da cobertura do plano de saúde órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor é abusiva, razão pela qual a recusa indevida pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico faz nascer o dever de reparar os danos morais produzidos pelo agravamento da situação de aflição psicológica e de angústia no espírito do beneficiário, que se configura como dano moral in re ipsa (independente de prova) (AgRg no AREsp 785.243/ES, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 3/12/2015, DJe 14/12/2015)" (AgInt no AREsp 1.398.455/PA, Rel.
+Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 15/04/2019, DJe de 23/04/2019).
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1900386/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 29/03/2021, DJe 29/04/2021)
+CIVIL. PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER E INDENIZATÓRIA. PLANO DE SAÚDE. PRÓTESE AUDITIVA. COBERTURA.DISPOSITIVO MÉDICO NÃO IMPLANTÁVEL. EXCLUSÃO ASSISTENCIAL.LEGALIDADE. PRECEDENTES. INCIDÊNCIA DA SÚMULA Nº 568 DO STJ. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO NÃO PROVIDO.
+1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É assente nesta Corte Superior o entendimento segundo o qual é nula a cláusula contratual que exclua da cobertura órteses, próteses e materiais, desde que diretamente ligados ao procedimento cirúrgico a que se submete o consumidor. Precedentes. Caso dos autos em que a prótese auditiva não se vincula a nenhum ato cirúrgico.
+3. Agravo interno não provido.
+(AgInt no AgInt no REsp 1854853/MA, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/10/2020, DJe 29/10/2020)
+RECURSO ESPECIAL. SAÚDE SUPLEMENTAR. AÇÃO DE OBRIGAÇÃO DE FAZER.PLANOS DE SAÚDE. FORNECIMENTO DE PRÓTESES. ATO CIRÚRGICO DE AMPUTAÇÃO. COLOCAÇÃO DE PRÓTESE INDISPENSÁVEL AO TRATAMENTO DO BENEFICIÁRIO. COBERTURA DEVIDA. HONORÁRIOS ADVOCATÍCIOS RECURSAIS.
+MAJORAÇÃO.
+1. Ação ajuizada em 3/1/16. Recurso especial interposto em 8/2/19.
+Autos conclusos ao gabinete em 18/10/19. Julgamento: CPC/15.
+2. O propósito recursal consiste em dizer da interpretação do art.
+10, VII, da Lei 9.656/98, quando o beneficiário do plano de saúde pretende o fornecimento de prótese como decorrência de cirurgia de amputação de membro inferior. Isto é, se a operadora de plano de saúde está obrigada a fornecer prótese substitutiva de membro amputado em cirurgia.
+3. É legítima a expectativa do consumidor de que, uma vez prevista no contrato a cobertura para determinada patologia, nela esteja incluído o custeio dos materiais e instrumentos necessários à efetiva realização do tratamento prescrito.
+4. Na hipótese, como a primeira prótese não é mais adequada para o restabelecimento da amputação sofrida pelo recorrido, o fornecimento de outra prótese, de acordo com a indicação de laudo médico, que atenda o estado de saúde do consumidor, está inserido, por decorrência natural, no ato cirúrgico de sua amputação. 5. Logo, especificamente na situação em que se encontra o recorrido, é abusiva a negativa de substituição da prótese, ante o risco devidamente documentado por laudo médico de uma nova amputação, em frustração do seu pleno restabelecimento saudável.
+6. Recurso especial conhecido e não provido, com majoração de honorários.
+(REsp 1850800/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/02/2020, DJe 07/02/2020)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL E CIVIL. DANOS MORAIS. PLANO DE SAÚDE. NEGATIVA DE COBERTURA DE PRÓTESE NECESSÁRIA A PROCEDIMENTO CIRÚRGICO. DANOS MORAIS. CABIMENTO.QUANTUMCOMPENSATÓRIO. VALOR RAZOÁVEL. REGIMENTAL NÃO PROVIDO.
+1. É abusiva a cláusula que exclua da cobertura órteses, próteses e materiais diretamente ligados ao procedimento cirúrgico a que se submete o consumidor. Precedentes.
+2. A jurisprudência do eg. Superior Tribunal de Justiça entende ser passível de indenização a título de danos morais a recusa indevida/injustificada pela operadora do plano de saúde em autorizar a cobertura financeira de tratamento médico.
+(..)
+5. Agravo regimental não provido (AgRg no AREsp 590.457/SE, Rel. Ministro Raul Araújo, Quarta Turma, DJe 17.03.2016).
+No caso em estudo, a Corte de origem entendeu pela abusividade da cláusula que exclui a cobertura de cirurgia para a implantação de prótese, de acordo com os seguintes fundamentos (e-STJ, fls. 269-270 - sem grifo no original):
+8. Além disso, não obstante faltem-me conhecimentos técnicos na área médica, não me parece que os materiais necessitados pela apelada subsumam-se à hipótese de negativa de cobertura pela agravante
+9. O que me cumpre analisar, por ora, é a indicação do tratamento para o caso da apelada. E isso está suficientemente demonstrado nos autos, conforme relatório médico juntado aos autos(fls. 24), não podendo a seguradora escolher o melhor tratamento, pois, sendo ele julgado necessário pelo médico, deve ser coberto, independente de estar previsto ou não no contrato.
+10. Assim sendo, parece evidente que a exclusão dos materiais requisitados para o sucesso do procedimento é abusiva.11. Ademais, não pode a seguradora escolher o melhor tratamento ou material a ser utilizado, pois, sendo ele julgado necessário pelo médico, deve ser coberto, independente de estar previsto ou não no contrato.
+12.É bem verdade que o contrato pode estabelecer algumas limitações ao direito do consumidor, excluindo alguns tipos de tratamento, bem como a cobertura de algumas doenças, entretanto, não pode furtar-se a custear o tratamento daquelas doenças cobertas pelo plano, sendo vedada a meia-cobertura.
+13.É exatamente o caso dos autos: se havia cobertura para o tratamento, não há razão para excluir-se o material usado na cirurgia, sob pena de inviabilizar-se o tratamento, já que é item indispensável para o procedimento.
+14. Nesse sentido, inclusive, já se posicionou o STJ sobre a negação da cobertura de próteses que integrem o procedimento:
+Como é possível observar, o acórdão recorridodecidiu em consonância com a jurisprudência desta Corte a respeito do tema, incidindo a Súmula 83/STJ no caso.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em R$ 500,00 (quinhentos reais)os honorários sucumbenciais fixados em favor da advogada da parte recorrida.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANO MORAL. NEGATIVA DO PLANO DE SAÚDE EM COBRIR A REALIZAÇÃO DE CIRURGIA PARA COLOCAÇÃO DE PRÓTESES. TRATAMENTO PRESCRITO PELO MÉDICO. RECUSA INDEVIDA À COBERTURA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. SÚMULA 83/STJ.AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
