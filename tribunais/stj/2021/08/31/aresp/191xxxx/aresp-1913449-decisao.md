@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por ORLANDO BRUNO NETO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, assim ementado:
+DIREITO CIVIL E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO EM "AÇÃO DE COBRANÇA C/C DANOS MORAIS". CUMPRIMENTO DESENTENÇA. RECURSO DO EXECUTADO.AUSÊNCIA DE FUNDAMENTAÇÃO NÃO VERIFICADA. INSURGÊNCIA CONTRA DECISÃO QUE REJEITOU A IMPUGNAÇÃO AO LAUDO DE AVALIAÇÃO E HOMOLOGOU A SEGUNDA AVALIAÇÃO DO IMÓVEL PENHORADO NOS AUTOS. PEDIDO DE NOVA AVALIAÇÃO, SOB A ALEGAÇÃO DE DIVERGÊNCIA CONSIDERÁVEL ENTRE OS VALORES CONSTANTES DO LAUDO DE AVALIAÇÃO ELABORADO PELO OFICIAL DE JUSTIÇA E O LAUDO PARTICULAR APRESENTADO PELO DEVEDOR - LAUDO OFICIAL QUE DEMONSTRA A REALIZAÇÃO DE VISTORIA, PARA CONSTATAÇÃO DA SITUAÇÃO DO IMÓVEL E EQUIPARAÇÃO COM VALORES DE MERCADO DE APARTAMENTOS DO MESMO PADRÃO E NA MESMA REGIÃO (MÉTODO COMPARATIVO) - OBSERVÂNCIA DOS REQUISITOS LEGAIS (ART. 872, CPC/2015) - JÁ O AVALIADOR PARTICULAR, UTILIZOU COMO REFERÊNCIA PARA ELABORAÇÃO DO LAUDO, IMÓVEIS COM PADRÃO SUPERIOR AO DO BEM PENHORADO - ELEMENTOS INSUFICIENTES PARA ADMISSÃO DE NOVA AVALIAÇÃO - REQUISITOS DO ART. 873 DO CPC/2015 NÃO PREENCHIDOS. DECISÃO MANTIDA. RECURSO CONHECIDO E NÃO PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 489, § 1º, incisos I,II, III e V, 891, caput e parágrafo único, do CPC de 2015.
+Defende ter havido ausência de fundamentação, pois "dizer que não viu os requisitos e citar artigo não é fundamentação".
+Por outro lado, afirma que "o juiz não apenas deixou de fixar um preço mínimo como deu autorização expressa para a alienação do bem por qualquer valor,  .. ". E continua:
+16. Autorizar a venda a quem mais der é o mesmo que autorizar por qualquer preço e negar vigência ao artigo 891. E ao deixar de expressar a proibição do preço vil e dar o preço mínimo, o juízo nega vigência ao parágrafo único do dispositivo.
+É o relatório.DECIDO.
+2. De início, não se verifica a alegada vulneração do artigo 489, § 1º, do Código de Processo Civil de 2015, por ausência de fundamentação no acórdão, o qual apreciou a lide, discutindo e dirimindo as questões fáticas e jurídicas que lhe foram submetidas.
+O teor do acórdão recorrido resulta de exercício lógico, ficando mantida a pertinência entre os fundamentos e a conclusão. Ao contrário, verifica-se mera pretensão de reexame do mérito do recurso, o qual foi exaustivamente analisado, circunstância que, de plano, torna imprópria a invocação do referido dispositivo e o eventual provimento do recurso nessa parte.
+A propósito:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO DE DANOS MORAIS. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. VIOLAÇÃO DO ART. 489, § 1º, IV E VI, DO CPC/2015. AUSÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. Indicação do dispositivo legal violado. Ausente. Súmula 284/STF. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+ .. .
+3. Inexiste afronta ao art. 489, § 1º, IV, do CPC/2015 quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+4. A ausência de decisão acerca dos argumentos invocados pelo agravante em suas razões recursais, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. O recurso especial não pode ser conhecido quando a indicação expressa do dispositivo legal violado está ausente.
+6. O reexame de fatos e provas em recurso especial é inadmissível.
+7. Recurso especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1665837/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 20/06/2017, DJe 23/06/2017) - g.n.
+3. No mais, ao apreciar a controvérsia, o Tribunal de origem que a avaliação feita pelo oficial de justiça é utilizada como referência pelojuiz para a estipulação do preço mínimo pelo qual o imóvel poderá ser arrematado. Confira-se trecho do acórdão recorrido nesse sentido:
+Como se sabe, o preço mínimo de alienação deverá constar do edital de divulgação da hasta pública (art. 880 , §1º, CPC), todavia, o edital sequer foi expedido, por setratar de ato subsequente à avaliação.
+Nesse contexto, cumpre destacar que, a avaliação é utilizada como referência pelo juiz para a estipulação do preço mínimo pelo qual o imóvel poderá ser arrematado, além das condições de pagamento e garantias que poderão ser prestadas (art. 885, CPC/2015).
+Dessa forma, não há falar em fixação de preço mínimo para fins de avaliação do imóvel.
+3.1. Assim, nota-se que o acórdão recorrido decidiu de acordo com o parágrafo único do artigo 891 do CPC de 2015 e também com a jurisprudência desta Corte, no sentido de quesomente se caracteriza preço vil quando a arrematação não alcançar, ao menos, a metade do valor da avaliação (AgInt no REsp 1.318.181/PR, 4ª Turma, DJe de 24/8/2018; e AgInt no AREsp 1.344.246/DF, 3ª Turma, DJe de 28/3/2019).
+3.2. Ademais,não é possível a esta Corte apreciar o entendimento exarado na origem, porquanto teria que, necessariamente, rever o contexto fático-probatório dos autos, procedimento inviável nesta via extraordinária, consoante disposto na Súmula n.7/STJ.
+4. Ante o exposto, nego provimento ao agravo.
+Publique-se. Intimem-se.
