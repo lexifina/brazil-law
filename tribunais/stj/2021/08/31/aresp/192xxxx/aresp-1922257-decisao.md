@@ -1,0 +1,29 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CAMILA CRISTINA CERIDORIO E OUTROcontra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO ESTADO DE SÃO PAULO.
+A decisão agravada não admitiu o recurso especial, por falta de prova datempestividade recursal.
+Decido.
+2.De acordo com o entendimento desteTribunalSuperior, oDiploma Processual de 2015 previu expressamente que a comprovação da ocorrência de feriado local deverá ser efetivada no ato de interposição do recurso (art. 1.003, § 6º), o que revela a indubitável intenção do legislador de não possibilitar que seja sanado ou desconsiderado o vício de intempestividade do recurso, tal qual previsto nos arts. 932, parágrafo único, e 1.029, § 3º, do CPC/2015.
+De fato, a interpretação literal da norma expressa no § 6º do art. 1.003 do CPC/2015, de caráter especial, sobrepõe-se a qualquer interpretação mais ampla que se possa conferir às disposições de âmbito geral insertas nos arts. 932, parágrafo único, e 1.029, § 3º, do citado diploma legal.
+Confira:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO.
+1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo".
+4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido.
+(AgInt no AREsp 957.821/MS, Rel. Ministro RAUL ARAÚJO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 20/11/2017, DJe 19/12/2017)
+No julgamento do REsp nº 1.813.684-SP(Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 02/10/2019, DJe 18/11/2019), a Corte Especial do Superior Tribunal de Justiça manteve a orientação no sentido de que, sob a vigência do CPC/2015, deve ser realizada a comprovação da existência de feriado local no momento da interposição do recurso.
+Oportuno, ainda, destacar:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. REPRESENTAÇÃO PROCESSUAL. AUSÊNCIA. INTIMAÇÃO. ARTS. 76 E 932, PARÁGRAFO ÚNICO, DO CPC. DESATENDIMENTO. AGRAVO NÃO CONHECIDO. SÚMULA N. 115/STJ. MAJORAÇÃO DA VERBA HONORÁRIA EM FAVOR DO AGRAVADO. CRITÉRIOS DO NOVO CPC/15. APLICABILIDADE. ENUNCIADO ADMINISTRATIVO 7/STJ. NÃO PROVIMENTO.
+1. É intempestivo o recurso especial interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c.c. os arts.1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+2. Interposto o recurso impugnando decisão publicada na vigência do atual Código de Processo Civil, necessária a intimação da parte para regularizar o vício de representação processual, nos termos dos artigos 76 e 932, parágrafo único, do Código de Processo Civil.
+3. Deixando a parte transcorrer o prazo sem que a representação processual seja regularizada, é inexistente o recurso dirigido a esta Casa, nos termos do enunciado n. 115 da Súmula.
+4. O Plenário do STJ, na sessão realizada no dia 9 de março de 2016, aprovou o Enunciado Administrativo n. 7/STJ, segundo o qual "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1477802/PR, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/03/2020, DJe 26/03/2020)
+No caso, a intimação do acórdão foi publicada em 15/12/2020. Orecurso foi interposto somenteem 08/02/2021, fora do prazo legal de quinze dias úteis.
+Desse modo, considerando que não houve comprovação de eventual ocorrência de feriado local ou suspensão de prazo, por documento idôneo, no ato de interposição do recurso, é imperioso reconhecer a sua intempestividade.
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
