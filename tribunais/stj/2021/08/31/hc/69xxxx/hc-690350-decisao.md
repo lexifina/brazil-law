@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus ajuizado em nome de JONATHAN SOARES DA SILVA, condenado pela prática dos crimes previstos no art. 330, caput, do Código penal, à pena de 1 mês de detenção, e de 15 dias-multa; no art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos de reclusão e de 700 dias-multa; e no art. 12, caput, da Lei n. 10.826 /2003, à pena de 1 ano e 3 meses de detenção, e de 12 dias-multa, fixado o regime inicialmente fechado para cumprimento da reprimenda corporal, apontando-se como autoridade coatora o TRIBUNAL DE JUSTIÇA DO PARANÁ, que negou provimento à Apelação Criminal n. 0001357-92.2020.8.16.0066.
+Requer-se, em liminar e no mérito, a concessão da ordem para que seja declarada nula a busca e apreensão realizada pelos policiais, reconhecendo-se a ilicitude das provas obtidas de forma ilícita, nos termos do art. 157, § 1º, do Código de Processo Penal, e o consequente desentranhamento destas dos autos, com isso, seja declarada a absolvição do acusado, nos termos do art. 386, II, do Código de Processo Penal. Requer-se, ainda, a imediata expedição de alvará de soltura em favor do paciente.
+É o relatório.
+A ilegalidade passível de justificar a impetração do habeas corpus deve ser manifesta, de constatação evidente, o que, na espécie, não ocorre.
+De um lado, os autos estão mal instruídos. Falta, por exemplo, a cópia da sentença. De outro, o exame da questão suscitada exige a análise de fatos e de provas, providência totalmente incompatível com a via eleita. Em outras palavras, sem se imiscuir no conjunto fático-probatório dos autos principais, não é possível a esta Corte afastar a conclusão do acórdão segundo a qual os elementos da situação de flagrância, conjugados entre si, formam um quadro não de mera suspeita, mas de efetiva necessidade da atuação da polícia, ou seja, de justa causa para a ação que fora efetivamente tomada naquele momento (fl. 43).
+Pelo exposto, indefiro liminarmente a petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. CRIMES DE DESOBEDIÊNCIA, TRÁFICO DE DROGAS E POSSE DE MUNIÇÃO DE USO PERMITIDO. CONDENAÇÃO. NULIDADE DAS PROVAS. ABSOLVIÇÃO. DEFICIÊNCIA NA INSTRUÇÃO DO PEDIDO. REEXAME FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE.
+Writ indeferido liminarmente.
