@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de WENDEL ARAÚJO DOS SANTOS em que se aponta como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro(Apelaçãon. 0223017-15.2019.8.19.0001).
+Opaciente foi condenado às penas de 5anos e 10meses de reclusão e de 2 anos e 4 meses de reclusão, pelaprática dos delitos descritos nos arts. 16, parágrafo único, III e IV, da Lei n. 10.826/2003e 329, § 1º, do CódigoPenal, respectivamente.
+A Defensoria Pública aponta existência de constrangimento ilegal uma vez que se manteve o aumento da pena-base utilizando circunstâncias inerentes ao próprio tipo penal de porte de arma de uso restrito.Outra ilegalidade consistiria no aumento da pena-base do delito de resistência qualificada, com base no mesmo fundamento, ofendendo o princípio do ne bis in idem.
+Requer seja concedida a ordem para a fixação dapena-base no mínimo legal em relação aos dois delitos acima enumerados.
+As informações foram prestadas às fls. 63-69.
+O Ministério Público Federal pronunciou-se pela inexistência de ilegalidade(fls. 74-79).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou oentendimento de que não cabe habeas corpusem substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+A sentença assim dispôsquanto ao aumento da pena base do delito do art. 16, parágrafo único, III e IV, da Lei n. 10.826/2003 (fl. 22):
+1ª FASE - A culpabilidade do acusado excedeu à normal do tipo, uma vez que o acusado portava um FUZIL e uma granada, ambos com poder altamente lesivo. Assim, aplico-lhe a seguinte pena base: 05 (cinco) anos de reclusão e 10 dias-multa, à razão unitária mínima, em relação ao delito do art. 16, parágrafo único, incisos III e IV, da Lei nº 10.826/2003;
+O Tribunal de origem assim manteve o aumento(fl. 53):
+O juízo a quo acertadamente majorou as penas-base em razão de a culpabilidade do acusado ter excedido à normal do tipo, uma vez que o apelante portava um fuzil Colt e uma granada, armamentos com altíssimo poder lesivo.
+É assente neste Tribunal que a potencialidade lesiva do armamento apreendido, no caso um fuzil e uma granada, é elemento suficiente para justificar a exasperação da pena-base acima do mínimo legal no crime de porte ilegal de arma de fogo de uso restrito.
+A respeito, menciono:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ESTATUTO DO DESARMAMENTO. POSSE DE DOIS CARREGADORES DE ARMA DE FOGO DE USO RESTRITO. FUZIS AR15. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS.MATÉRIA AFETA AO SUPREMO TRIBUNAL FEDERAL  STF. VIOLAÇÃO À PORTARIA. INCABÍVEL A ANÁLISE. APLICAÇÃO DO PRINCÍPIO DA INSIGNIFICÂNCIA. RESP N. 1.669.710/RS. AUSÊNCIA DE ARTEFATO.IMPOSSIBILIDADE. ELEMENTOS ACIDENTAIS QUE CONFIGURAM EXISTÊNCIA DE PERIGO À INCOLUMIDADE PÚBLICA. APURAÇÃO DE CRIMES COMETIDOS POR INTEGRANTES DE FACÇÃO CRIMINOSA - PCC. DOSIMETRIA. AUMENTO DA PENA-BASE SUPERIOR A 1/6. JUSTIFICATIVA IDÔNEA. PONTO SUSCITADO E NÃO ANALISADO PELO TRIBUNAL DE ORIGEM. NÃO INDICAÇÃO DE VIOLAÇÃO AO ART. 619 DO CÓDIGO DE PROCESSO PENAL - CPP. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+5. A Corte Estadual houve por bem alterar a pena-base do recorrente, aplicando a fração de 1/4, em razão da maior potencialidade lesiva de um carregador de fuzil, e considerando a apreensão de dois deles, afastando, ainda, o concurso formal de crimes. O posicionamento, de aplicar fração maior do que a comum - 1/6, justificando a medida, encontra resguardo na jurisprudência desta Corte.
+ ..
+7. Agravo regimental desprovido.(AgRg no AREsp n. 1.743.309/SP, relatorMinistro Joel Ilan Paciornik, Quinta Turma,DJe de 1/3/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES E PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. EXASPERAÇÃO DAS PENAS-BASE FUNDAMENTADA. APLICAÇÃO DA MINORANTE DO ART. 33, § 4º, DA LEI N.11.343/2006. INVIABILIDADE. DEDICAÇÃO DA RÉ A ATIVIDADES CRIMINOSAS.MANTIDA A REPRIMENDA ORIGINÁRIA, PERMANECE INALTERADO O REGIME PRISIONAL. SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DOS REQUISITOS EXIGIDOS PELO ART. 44 DO CÓDIGO PENAL. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+3. Quanto ao delito do art. 14 da Lei n. 10.826/2003, a pena-base, também, foi exasperada no montante de 1/3 pela apreensão de uma pistola semiautomática, de calibre 380mm, carregada com 13 munições intactas, o que revelou o dolo intenso capaz de tornar altamente censurável a conduta da acusada, notadamente diante da potencialidade do artefato.
+ ..
+7. Agravo regimental a que se nega provimento.(AgRg no HC n. 492.206/SP, relatorMinistro Antonio Saldanha Palheiro, Sexta Turma,DJe de 10/8/2020.)
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TRÁFICO INTERNACIONAL DE ARMAS. DOSIMETRIA DE PENA. VALORAÇÕES INIDÔNEAS ACERCA DA CULPABILIDADE AFASTADAS. ESPECIAL GRAVIDADE DA CONDUTA A JUSTIFICAR A MANUTENÇÃO DO AUMENTO EM METADE. RETOMADA DE MATÉRIA ANALISADA. AGRAVO REGIMENTAL IMPROVIDO.
+1. Constatada a inidoneidade de argumentos tais como a condição pessoal de pastor e a intensidade do dolo para embasar o aumento da pena-base, ainda resta devidamente justificada a exasperação na primeira fase, haja vista a natureza do armamento, fuzil, diferenciado quanto ao poder de fogo, e a quantidade, sete unidades, bem como a destinação, servir a grupo criminoso instalado em uma favela do Rio de Janeiro, o que causa risco alto de danos à sociedade, representando afronta grave à segurança pública, são elementos concretos bastante para maior acréscimo.
+2. Agravo regimental improvido.(AgRg no AREsp n. 785.713/SP, relatorMinistro Nefi Cordeiro Sexta Turma,DJe de 29/8/2017.)
+Relativamente àilegalidadelevantadaquanto à possível ocorrência de violação do princípio do ne bis in idem, verifica-se que não houve apreciação damatériapelo Tribunal de origem, o que inviabiliza sua análise pelo STJ, sob pena de indevida supressão de instância.
+Confiram-se julgados a respeito: AgRg no HC n. 673.959/SC, relator Ministro Sebastião reis Júnior, Sexta Turma, DJe de 9/8/2021; AgRg no HC n. 666.046/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 8/6/2021; AgRg no HC n. 649.807/ES, relator Ministro Felix Fischer, Quinta Turma, DJe de 25/5/2021; e HC n. 431.518/RJ, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 2/3/2021.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
