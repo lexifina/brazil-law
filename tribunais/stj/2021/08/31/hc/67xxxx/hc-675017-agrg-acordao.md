@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT IMPETRADO CONTRA ACÓRDÃO EXARADO NO JULGAMENTO DE REVISÃO CRIMINAL. IDENTIDADE DE OBJETO (AGRG NO RESP N. 1.907.335/GO). FUNDAMENTOS APLICÁVEIS AO CASO. REDISCUSSÃO. DESCABIMENTO.
+Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Mikael Fagundes dos Santos contra a decisão monocrática, de minha lavra, assim ementada (fl. 471):
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT IMPETRADO CONTRA ACÓRDÃO EXARADO NO JULGAMENTO DE REVISÃO CRIMINAL. IDENTIDADE DE OBJETO (AGRG NO RESP N.1.907.335/GO). FUNDAMENTOS APLICÁVEIS AO CASO. REDISCUSSÃO.DESCABIMENTO. INCOMPETÊNCIA DO STJ.
+Writ não conhecido (art. 34, XVIII, a, do RISTJ).
+Nas razões, a defesa do agravante aduziu que a conclusão exarada no julgamentodo AgRg no REsp n. 1.907.335/GO não obsta a análise da questão suscitada na impetração, pois, no presente caso, não há necessidade de reexame de provas, mas, sim, revaloração, logo não há afronta à Súmula 7 desta Corte Superior(fl. 480).
+Na sequência, reiterou a procedência da tese veiculada na impetração, pugnando pela reforma da decisão agravada.
+Instado a se manifestar, o Ministério Público Federal opinou pela manutenção da decisão agravada (fls. 506/507).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EMHABEAS CORPUS. HOMICÍDIO QUALIFICADO. WRIT IMPETRADO CONTRA ACÓRDÃO EXARADO NO JULGAMENTO DE REVISÃO CRIMINAL. IDENTIDADE DE OBJETO (AGRG NO RESP N. 1.907.335/GO). FUNDAMENTOS APLICÁVEIS AO CASO. REDISCUSSÃO. DESCABIMENTO.
+Agravo regimental improvido.
+VOTO
+A decisão deve ser mantida.
+O acórdão exarado no julgamento da Revisão Criminal n. 5053665.19.2020.8.09.0000 (Tribunal de Justiça de Goiás) já foi objeto do AgRg no REsp n. 1.907.335/GO, tendo a Sexta Turma mantido a decisão monocrática que não conheceu do recurso defensivo, nos termos do acórdão assim ementado:
+AGRAVO REGIMENTAL EM RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO EM REVISÃO CRIMINAL. VIOLAÇÃO DOS ARTS. 621, I, DO CPP E 59 DO CP. TRIBUNAL DE ORIGEM QUE ATESTOU A AUSÊNCIA DE REQUISITOS PARA O PROVIMENTO DA AÇÃO REVISIONAL, PORQUANTO INEXISTENTES ERRO JUDICIÁRIO OU SURGIMENTO DE CIRCUNSTÂNCIAS QUE AUTORIZASSEM A REDUÇÃO DO APENAMENTO. ALTERAÇÃO DO QUANTO DECIDIDO. INVIABILIDADE NA VIA ELEITA. NECESSÁRIA ANÁLISE DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. PEDIDO REDUÇÃO DA PENA-BASE. ALEGAÇÃO DE CARÊNCIA DE PROPORCIONALIDADE E DE RAZOABILIDADE NA ESCOLHA DA FRAÇÃO DE AUMENTO ACIMA DE 1/8 OU DE 1/6. VERIFICAÇÃO. NÃO OCORRÊNCIA. DISCRICIONARIEDADE DO JUÍZO. PRECEDENTES..
+1. O Tribunal goiano destacou que os argumentos colacionados no pedido revisional não autorizam a sua procedência, notadamente diante da carência de preenchimento de requisito contido no art. 621, I, do Código de Processo Penal.
+2. A inversão do que ficou decidido, como pretendido pelo recorrente, no sentido da ilegalidade na dosimetria da pena, demandaria o reexame do acervo fático-probatório constante dos autos, providência essa que contraria a Súmula 7/STJ.
+3. A revisão criminal não deve ser adotada como um segundo recurso de apelação, pois o acolhimento da pretensão revisional reveste-se de excepcionalidade, cingindo-se às hipóteses em que a contradição à evidência dos autos seja manifesta, induvidosa, dispensando a interpretação ou análise subjetiva das provas produzidas.  ..  Nessa senda, este "Superior Tribunal de Justiça já pacificou o entendimento no sentido do não cabimento da revisão criminal quando utilizada como nova apelação, com vistas ao mero reexame de fatos e provas, não se verificando hipótese de contrariedade ao texto expresso da lei penal ou à evidência dos autos, consoante previsão do art. 621, I, do CPP." (HC 206.847/SP, Rel. Ministro Nefi Cordeiro, Sexta Turma, julgado em 16/02/2016, DJe 25/02/2016).  ..  A alteração do entendimento apresentado na via do recurso especial constitui-se em revolvimento de conteúdo fático-probatório, inviável ante o óbice previsto na Súmula n. 7 do STJ (AgRg no AREsp n. 1.563.982/MT, Ministro Jorge Mussi, Quinta Turma, DJe 5/12/2019)
+4. Quanto ao argumento de desproporcionalidade na exasperação dada à pena-base, melhor sorte não socorreria à defesa, notadamente em função da discricionariedade inerente aos juízos ordinários na valoração das circunstâncias judiciais.
+5. Inexiste um critério legal para a exasperação da pena-base. Assim, o magistrado, diante de sua discricionariedade vinculada, aprecia as circunstâncias judiciais e incrementa a pena-base com indicação de elementos concretos, não inerentes ao tipo penal.  ..  Consoante precedentes, uma única circunstância judicial pode acarretar a exasperação da pena-base ao máximo legal cominado em abstrato, o que afasta a adoção de um critério que imponha outro teto na primeira fase da dosimetria da pena (AgRg no AREsp n. 1.598.525/MT, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 4/5/2020).
+6. Agravo regimental improvido.
+Da leitura da ementa, é possível extrair a conclusão do órgão julgador colegiado no sentido de que a rediscussão da convicção estabelecida pela Corte de origem, no julgamento da ação revisional, demandaria o reexame do acervo fático-probatório constante dos autos, providência inviável nos termos da Súmula 7/STJ, óbice também aplicável em sede de habeas corpus, pois o reexame de matéria probatória não se coaduna com o rito do mandamus (cognição sumária).
+Nesse sentido, confira-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO INTERESTADUAL DE DROGAS. DOSIMETRIA DA PENA. ART. 33, § 4º, DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. QUANTIDADE DA DROGA. 426 G DE MACONHA. MODUS OPERANDI. MINORANTE. NÃO INCIDÊNCIA. REEXAME. ASPECTOS FÁTICOS. IMPOSSIBILIDADE.
+1. Tendo o Tribunal de origem negado a aplicação da minorante do § 4º do art. 33 da Lei n. 11.343/2006 pelas circunstâncias do caso, em especial a quantidade de droga apreendida, as quais evidenciariam a dedicação a atividades criminosas, a pretendida revisão do julgado implicaria reexame do material cognitivo dos autos (AgRg no AREsp n. 1.142.920/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 21/5/2018), o que é vedado no âmbito do habeas corpus, que possui rito célere e cognição sumária.
+2. Agravo regimental improvido.
+(AgRg no HC n. 459.515/SP, de minha relatoria, Sexta Turma, DJe 3/6/2019 - grifo nosso)
+No que se refere à tese de desproporcionalidade, a insurgência não foi acolhida, considerando o entendimento desta Corte no sentido de que a fixação da pena-base não segue critério matemático.
+Assim, o que se verifica é que a matéria suscitada na presente impetração já foi objeto de outro julgado, cujos fundamentos se aplicam ao presente writ, sendo inviável rediscutir a conclusão desta Corte em outro feito, ante a incompetência do STJ para rediscutir seus próprios julgados.
+Ante o exposto, nego provimento ao agravo regimental.
