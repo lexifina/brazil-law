@@ -1,0 +1,28 @@
+DECISÃO
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. MANDADO DE SEGURANÇA. PESSOA JURÍDICA TRIBUTADA PELO IMPOSTO DE RENDA COM BASE NO LUCRO PRESUMIDO. INAPLICABILIDADE DA DESONERAÇÃO FISCAL PREVISTA NO DECRETO 6.426/2008, POR EXPRESSA PREVISÃO LEGAL (ART. 8, INC. II, DA LEI 10.637/2002E10, INC. II, DA LEI 10.833/2003. RECURSO ESPECIAL NÃO PROVIDO.
+1. Trata-se de recurso especial interposto por JOMHÉDICA NORTE PRODUTOS MÉDICOS HOSPILARES LTDA., com fundamento no art. 105, inciso III, alíneas a e c, da CF/1988, no qual se insurge contra acórdão proferido pelo TRF da 4a. Região,assim ementado:
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. INCIDÊNCIA DE PIS/COFINS.COMÉRCIO DE PRODUTOS MÉDICO HOSPITALARES. DECRETO Nº 6.426/08.Se a autorização legal para a redução de alíquota a zero não se aplica à pessoa jurídica tributada pelo imposto de renda com base no lucro presumido, toda a legislação decorrente da norma original que lhe dá contorno ou define abrangência também não é aplicável(fls. 1.837).
+2. Os embargos de declaração opostos foram acolhidos apenas para fins de prequestionamento (fls. 1.867/1.875).
+3. Nas razões do seurecurso especial (fls. 1.885/1.907), a parte recorrente apontaviolação dos arts. 97, 108, inc. IV, e 111 do CTN. Aduz, para tanto, em síntese, quefaz jusà incidência de PIS e COFINS à alíquota zerosobre as receitas de vendas de equipamentos tipificados nas NCMs 30.06, 39.26, 40.15 e 90.18, na forma do Decreto 6.426/2008.
+4. Segue afirmando que a desoneração prevista no referido ato normativo possui natureza objetiva, vinculada ao produto, sendo, portanto, irrelevante a opção pelo regime tributário cumulativo.
+5. Devidamente intimada, a parte recorridaapresentou as contrarrazões (fls. 1.948/1.953). O recurso especial foi admitido na origem(fls. 1.965).
+6. Instado a se manifestar, o MPF opinou pelo não provimento do recurso, nos termos da seguinte ementa:
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL.INCIDÊNCIA DE PIS/COFINS. COMÉRCIO DE PRODUTOS MÉDICO HOSPITALARES. DECRETO Nº 6.426/08. PESSOA JURÍDICA TRIBUTADA PELO IRPJ APURADO PELO LUCRO PRESUMIDO E, POR CONSEGUINTE, SUJEITA AO REGIME DE APURAÇÃO CUMULATIVA DA CONTRIBUIÇÃO PARA O PIS E A COFINS. INAPLICABILIDADE DA DESONERAÇÃO QUE DECORRE DE EXPRESSA PREVISÃO DAS LEIS N.10.637/02 E 10.833/03, AUTORIZATIVAS DA INSTITUIÇÃO DA ALÍQUOTA ZERO PARA PIS E COFINS.PARECER PELO IMPROVIMENTO DO RECURSO.
+7. É o relatório.
+8.A irresignação não merece prosperar.
+9. Inicialmente, nos termos do que decidido pelo plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+10. No mérito,analisando casos semelhantes ao dos autos, o STJ já se manifestou quanto à impossibilidade de se estender as desonerações decorrentes doart. 2o., § 3o.,das Leis 10.637/2002 e 10.883/2003 às pessoas jurídicas tributadas pelo imposto de renda com base no lucro presumido ou arbitrado, por expressa ressalva contida nos arts. 8o. inc. II, e 10, inc. II, dos referidos diplomas legais.
+11. Corroborando tal assertiva, destacam-se os seguintes julgados:
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. PIS/COFINS. LEIS N.10.637/2002 E N. 10.833/2003. PESSOA JURÍDICA QUE APURA O IRPJ COM BASE NO LUCRO PRESUMIDO. INAPLICABILIDADE. HONORÁRIOS. REEXAME DO CONTEXTO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ.
+1. Inviável o apelo especial, quanto à alegação de ofensa ao art.1.022 do CPC/2015, se as razões expendidas no recurso forem genéricas. Incidência da Súmula 284/STF.
+2. O Superior Tribunal de Justiça possui firme entendimento de que o art. 8º da Lei n. 10.637/2005 e o art. 10 da Lei n. 10.833/2003 não se aplicam às pessoas jurídicas que apurem o IRPJ com base no lucro presumido. Precedentes.
+3. A fixação da verba honorária, pelo critério da equidade, envolve circunstâncias de natureza fática insuscetíveis, portanto, de reexame na via do recurso especial, por força do entendimento consolidado na Súmula 7/STJ.
+4. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1690584/CE, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 05/12/2017, DJe 13/12/2017)
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. PROCESSUAL CIVIL. TRIBUTÁRIO.COFINS. ART. 10, II DA LEI 10.833/03. EXCLUSÃO DAS SOCIEDADES TRIBUTADAS PELO IMPOSTO DE RENDA COM BASE NO LUCRO PRESUMIDO.PRECEDENTES DO STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. As sociedades tributadas pelo Imposto de Renda com base no lucro presumido estão excluídas do regime não cumulativo da COFINS por expressa ressalva contida no art. 10, II da Lei 10.833/03, submetendo-se às disposições anteriormente vigentes (regime cumulativo) enquanto perdurar a adesão à sistemática do lucro presumido. Precedentes: AgRg no REsp. 1.337.455/SP, Rel. Min.HUMBERTO MARTINS, DJe 10.10.2012, e AgRg no REsp. 961.340/SC, Rel.Min. ELIANA CALMON, DJe 23.11.2009.
+2. A inconstitucionalidade do art. 3o., § 1o. da Lei 9.718/98 (regime cumulativo) declarada pelo STF (RE 346.084/PR, Rel. Min.MARCO AURÉLIO, DJU 01.09.2006), impõe a essas sociedades o recolhimento da COFINS nos moldes previstos na Lei Complementar 70/91.
+3. Agravo Regimental desprovido.
+(AgRg no REsp 1339452/MG, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 07/05/2013, DJe 13/05/2013)
+12. Ante o exposto, nega-se provimento ao recurso especial da contribuinte, nos termos do parecer ministerial.
+13. Publique-se. Intimações necessárias.
