@@ -1,0 +1,18 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SMARTMOTION SISTEMAS DE MOBILIDADE EIRELI contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+AÇÃO ANULATÓRIA DE PROTESTO - DUPLICATAS MERCANTIS - PRESTAÇÃO DE SERVIÇOS - Sentença de improcedência do pedido principal e de parcial procedência do pedido reconvencional. Pretensão da autora da ação de reforma.
+INADMISSIBILIDADE: O conjunto probatório constante dos autos comprova a prestação dos serviços que deu origem ao saque das duplicatas, devendo ser considerados legítimos os seus protestos. Inadimplemento que autoriza a procedência parcial do pedido reconvencional. Sentença mantida.
+RECURSO DESPROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 373, incisos I e II, do CPC de 2015; 6º, inciso VIII, do CDC.
+Defende que deveria ter havido a inversão do ônus da prova, transferindo-se ao réu o dever processual do comprovar a existência de fato impeditivo, modificativo ou extintivo do direito do autor. Enfatiza que as disposições pertinentes ao ônus da prova não foram corretamente aplicadas.
+E continua:
+Por outro lado, com a transferência do ônus da prova à ora recorrida, nos termos do art. 6º, VIII, do Código de Defesa do Consumidor, c/c/ o art. 373, II, do Código de Processo Civil, compulsando-se os autos verifica-se que as suas alegações na verdade não foram comprovadas.
+É o relatório.DECIDO.
+2. As matérias tratadas nos artigos 373, incisoII, do CPC de 2015; 6º, inciso VIII, do CDC não foram objeto de análise pelo acórdão recorrido. Não foram opostos embargos declaratórios com o fito de suprir a existência de eventual omissão perpetrada pelo Tribunal de origem.
+De modo que a ausência de manifestação judicial a respeito das referidas matérias trazidas à cognição desta Corte impede sua apreciação na presente via recursal, tendo em vista a falta de prequestionamento, requisito viabilizador do acesso às instâncias especiais. No caso, incidem, por analogia, as Súmulas 282 e 356 do STF.
+3. No mais, em relação à alegada violação ao artigo 373, inciso I, do CPC de 2015, com base no conjunto fático-probatório presente nos autos, o Tribunal de origem reconheceu que "aautora da ação não logrou provar suasalegações, como lhe incumbia, nos termos do art. 373, I do Código de Processo Civil. Quem levanta a questão tem o ônus da prova do fato constitutivo de seu direito".
+Nesse contexto, verifico que o acolhimento da pretensão recursal, a fim de acolher as alegações da parte agravante, exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do Resp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da súmula 7-STJ".
+4. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
