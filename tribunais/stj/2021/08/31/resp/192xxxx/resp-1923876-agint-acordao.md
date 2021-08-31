@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 43, 186, 187, 884, 927 E 944 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE.
+1. No tocante à afronta dos arts. 43, 186, 187, 884, 927 e 944 do Código Civil, os mencionados dispositivos legais e as respectivas teses recursais não foram ventilados no aresto atacado e, embora tenham sido opostos os competentes Embargos Declaratórios para a manifestação sobre os citados dispositivos legais, o órgão julgador não emitiu juízo de valor sobre os temas. Portanto, não há prequestionamento, o qual é imprescindível para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Aplica-se, assim, a Súmula 211/STJ.
+2. O simples exame das razões recursais em cotejo com os fundamentos do acórdão evidencia que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciados pela Corte a quo.
+3. A jurisprudência do Superior Tribunal de Justiça é de que não basta a oposição de Embargos de Declaração para a configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015. A parte deve alegar, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador. Precedentes.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão que não conheceu do recurso.
+A parte agravante alega que há prequestionamento ficto pela oposição de Embargos de Declaração, nos termos do art. 1.025 do CPC/2015. Além disso, afirma:
+Pois bem, Eminentes Ministros, vê-se a análise exatamente da responsabilidade civil do estado, excertos que atraem o Código Civil, em seus artigos 43, 186, 187, 884, 927 e 944, tal como aduzido no Recurso Especial.
+Tal ponto, Excelência, que inclusive o e. TRF5 admitiu ter feito sua análise, como se extrai da decisão de admissibilidade.
+Desta feita, houve, sim, o debate em instância inferior, pelo que há de ser superado o óbice apontado na decisão monocrática a ser reformada.
+Requer a reconsideração da decisão agravada ou provimento, pelo colegiado, do Agravo Interno.
+Não houve impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. OFENSA AOS ARTS. 43, 186, 187, 884, 927 E 944 DO CC. AUSÊNCIA DE PREQUESTIONAMENTO. INCIDÊNCIA DA SÚMULA 211/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE.
+1. No tocante à afronta dos arts. 43, 186, 187, 884, 927 e 944 do Código Civil, os mencionados dispositivos legais e as respectivas teses recursais não foram ventilados no aresto atacado e, embora tenham sido opostos os competentes Embargos Declaratórios para a manifestação sobre os citados dispositivos legais, o órgão julgador não emitiu juízo de valor sobre os temas. Portanto, não há prequestionamento, o qual é imprescindível para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Aplica-se, assim, a Súmula 211/STJ.
+2. O simples exame das razões recursais em cotejo com os fundamentos do acórdão evidencia que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciados pela Corte a quo.
+3. A jurisprudência do Superior Tribunal de Justiça é de que não basta a oposição de Embargos de Declaração para a configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015. A parte deve alegar, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador. Precedentes.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): O Agravo Interno não merece prosperar.
+No tocante à afronta dos arts. 43, 186, 187, 884, 927 e 944 do Código Civil, os mencionados dispositivos legais e as respectivas teses recursais não foram ventilados no aresto atacado e, embora tenham sido opostos os competentes Embargos Declaratórios para a manifestação sobre os citados dispositivos legais, o órgão julgador não emitiu juízo de valor sobre os temas. Portanto, não há prequestionamento, o qual é imprescindível para acesso às instâncias excepcionais, ainda que se trate de matéria de ordem pública. Aplica-se, assim, a Súmula 211/STJ.
+Para que exista prequestionamento, a mera devolução pela parta recorrente da questão controvertida para o Tribunal é insuficiente. Exige-se que a causa tenha sido decidida à luz da legislação federal indicada, bem como que seja exercido juízo de valor sobre o dispositivo legal indicado e a alegação recursal a ele vinculada, interpretando-se a sua aplicação ao caso concreto.
+O simples exame das razões recursais em cotejo com os fundamentos do acórdão evidencia que as teses recursais vinculadas aos dispositivos tidos como ofendidos não foram apreciados pela Corte a quo.
+Além disso, a jurisprudência do Superior Tribunal de Justiça é de que não basta a oposição de Embargos de Declaração para a configurar o prequestionamento ficto admitido no art. 1.025 do CPC/2015. A parte deve alegar, nas razões do Recurso Especial, a violação do art. 1.022 do mesmo diploma legal, para que, assim, o Superior Tribunal de Justiça esteja autorizado a examinar a eventual ocorrência de omissão no acórdão recorrido e, caso constate a existência do vício, venha a deliberar sobre a possibilidade de julgamento imediato da matéria, conforme facultado pelo legislador.
+Nessa linha reitero os precedentes citados na decisão agravada:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. AUSÊNCIA DE PREQUESTIONAMENTO.
+INCIDÊNCIA DA SÚMULA N. 211/STJ. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO APONTAMENTO. ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. INAPLICABILIDADE. COMPLEMENTAÇÃO DE VALORES PAGOS A MENOR. OBEDIÊNCIA AO TÍTULO EXECUTIVO. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. INCIDÊNCIA. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A ausência de enfrentamento da questão objeto da controvérsia pelo Tribunal a quo, não obstante oposição de Embargos de Declaração, impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento, nos termos da Súmula n. 211/STJ.
+III - O art. 1.025 do Código de Processo Civil de 2015 prevê que esta Corte considere prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do Código de Processo Civil de 2015.
+IV - In casu, rever o entendimento do Tribunal de origem, no sentido de não haver violação à coisa julgada uma vez que os valores pagos a menor pelo INSS eram complementados pela PREVI, em obediência aos valores fixados no título executivo, demandaria necessário revolvimento de matéria fática, o que é inviável em sede de recurso especial, à luz do óbice contido na Súmula n. 7/STJ.
+V - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n. 283 do Supremo Tribunal Federal.
+VI - Não apresentação de argumentos suficientes para desconstituir a decisão recorrida.
+VII - Em regra, descabe a imposição da multa, prevista no art. 1.021, § 4º, do Código de Processo Civil de 2015, em razão do mero improvimento do Agravo Interno em votação unânime, sendo necessária a configuração da manifesta inadmissibilidade ou improcedência do recurso a autorizar sua aplicação, o que não ocorreu no caso.
+VIII - Agravo Interno improvido
+(AgInt no REsp 1.646.137/SC, Rel. Min. Regina Helena Costa, DJe 20.2.2018).
+CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA.
+PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial.
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido (REsp 1.639.314/MG, Rel. Min. Nancy Andrighi, DJe 10.4.2017).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Por tudo isso, nego provimento ao Agravo Interno.
+É como voto.
