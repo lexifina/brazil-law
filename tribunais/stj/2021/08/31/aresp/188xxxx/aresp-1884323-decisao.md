@@ -1,0 +1,32 @@
+DECISÃO
+Agrava-se de decisão que não admitiu recurso especial interposto com fundamento no artigo 105, inciso III, alínea "a", do permissivo constitucional, contra acórdão do Tribunal Regional Federal da 3ªRegião, assim ementado:
+PENAL E PROCESSUAL PENAL. APELAÇÃO CRIMINAL.ADULTERAÇÃO DE SELO OU SINAL PÚBLICO. CRIMEAMBIENTAL. FAUNA SILVESTRE. MATERIALIDADE,AUTORIA E DOLO COMPROVADOS. PRINCÍPIO DACONSUNÇÃO. INAPLICABILIDADE. SUBSTITUIÇÃO PORPENAS RESTRITIVAS DE DIREITO.
+1. Materialidade, autoria e dolo comprovados.
+2. O acusado possui registro junto ao IBAMA como criadoramador de passeriformes silvestres, não se tratando, por isso, depessoa leiga no assunto. Portanto, tinha o dever de manter em seucativeiro apenas pássaros devidamente anilhados e regularizadospelo órgão competente.
+3. Os delitos do art. 296, § 1º, I, do Código Penal e do art. 29, § 1º,III, da Lei nº 9.605/98 tutelam bens jurídicos diversos, sendoautônomas as condutas praticadas. Para a manutenção irregular deespécimes silvestres, a falsificação ou adulteração de anilhas não éessencial, sendo que o delito não exaure a sua potencialidade lesivana prática de guarda de espécime silvestre sem a devidaautorização, além de ter cominada pena mais grave do que aquelaprevista para o crime ambiental.
+4. Afastada a aplicação do princípio da consunção. Condenação doacusado como incurso nas penas do art. 296, § 1º, I, do CódigoPenal.
+5. Incidência da causa de aumento de pena prevista no § 4º, I, doart. 29 da Lei nº 9.605/98, à razão de metade, pois foramencontradas no cativeiro do acusado quatro espécies ameaçadas deextinção (azulão, coroinha e pássaro-preto).
+6. Mantida a absolvição do réu quanto ao delito previsto no art. 32da Lei nº 9.605/1998, pois não restou demonstrada a autoriadelitiva.
+7. Apelações parcialmente providas. (e-STJ fls. 294/295)
+Aponta a defesa a violação dos arts. 70 e 296, § 1º, III, do CP e 29, § 1º, III c/c § 4º, I e 32, ambos da Lei n. 9.605/98alegando, em síntese, a ocorrência do princípio da consunção entre os crimes de falsificação de sinal público e guarda de pássaros silvestres em desacordo com a autorização obtida junto ao órgão competente. Aduz, também, que deve ser aplicado ao caso o concurso formal de crimes.
+Contrarrazões às e-STJ fls. 322/330.
+Manifestação do Ministério Público Federal pelo não seguimentodo recurso às e-STJ fls. 372/380.
+É o relatório. Decido.
+A irresignação não merece prosperar.
+Em relação ao princípio da consunção, o TRF da 3ª Região assim se manifestou:
+Do princípio da consunção. O juízo a quo concluiu que o uso,pelo acusado, das anilhas adulteradas e falsificadas tinha como finalidadeconferir aparência de legalidade ao desenvolvimento da atividade de criação depássaros em cativeiro e, por isso, entendeu que a conduta prevista no art. 296 doCódigo Penal deveria ser absorvida pelo crime ambiental, já que a utilização dasanilhas adulteradas foi um meio para a consumação do crime-fim, qual seja, aguarda de pássaros silvestres em desacordo com a autorização obtida junto aoórgão competente.
+Observo, no entanto, que os delitos em questão tutelam bensjurídicos diversos e decorrem de condutas igualmente diversas, não se podendofalar em absorção de um crime por outro. Além disso, para a manutençãoirregular de espécimes silvestres, a falsificação ou adulteração de anilhas não éessencial, de modo que o delito previsto no art. 296, § 1 I do Código Penal nãoexaure a sua potencialidade lesiva na prática de guarda de espécime silvestre sema devida autorização, além de ter cominada pena mais grave do que aquelaprevista para o crime ambiental. (e-STJ fl. 289 - grifo nosso)
+Veja-se que esse entendimento está em perfeita harmonia com a jurisprudência deste Tribunal Superiorque assim já decidiu:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. DELITOS DOS ARTS. 29, § 1º, III, DA LEI 9.605/98 E 296, § 1º, III, DO CÓDIGO PENAL. PRINCÍPIO DA CONSUNÇÃO. INAPLICABILIDADE, IN CASU. AUSÊNCIA DE IDENTIDADE ENTRE OS BENS JURÍDICOS TUTELADOS PELOS ILÍCITOS. AGRAVO NÃO PROVIDO.
+1. O acórdão regional está em harmonia com o entendimento desta Corte Superior de Justiça, no sentido de que não há consunção entre dois crimes em que os bens jurídicos tutelados são distintos.
+2. No caso em tela, os tipos penais dos arts. 29, § 1º, III, da Lei 9.605/98 e 296, § 1º, III, do código penal tutelam bens jurídicos distintos (o primeiro, a fé pública; o segundo, o meio ambiente ecologicamente equilibrado, destacadamente, a fauna silvestre), além de decorrerem de condutas diversas e autônomas.
+3. Agravo regimental não provido.(AgRg no REsp 1856202/SP, desta Relatoria, DJe 28/02/2020)
+No mais, verifica-se que o conteúdo do art. 70 do CP, dito violado, não foi objeto de debate pelo acórdão regional, ressentindo-se o recurso especial, no ponto, do necessário prequestionamento.
+Acresça-se, ainda, que sequer foram opostos embargos de declaração para suprir eventual omissão. Incidência dos enunciados n. 282 e 356 do Supremo Tribunal Federal. Confiram-se:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSUAL PENAL. PRINCÍPIO DA CONSUNÇÃO. NECESSIDADE DE REEXAME FÁTICO-PROBATÓRIO DA DEMANDA. ÓBICE DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. DOSIMETRIA. CULPABILIDADE. REVISÃO. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. MOTIVOS E CONSEQUÊNCIAS DO CRIME. AUSÊNCIA DE PREQUESTIONAMENTO. ÓBICE DAS SÚMULAS N. 282 E N. 356 DO SUPREMO TRIBUNAL FEDERAL - STF. FIXAÇÃO DE PENA DE MULTA FUNDAMENTADA. AGRAVO DESPROVIDO.
+1. Se o Tribunal de origem baseou seu entendimento no contexto fático-probatório da demanda para afastar a aplicação do princípio da consunção, rever o referido entendimento encontra óbice na Súmula n. 7/STJ. 2. A instância primeva valorou negativamente a circunstância relativa à culpabilidade mediante motivação concreta e idônea, não cabendo revisão por esta Corte Especial.
+3. Se a valoração negativa das circunstâncias "motivos" e "consequências" não foi debatida de forma específica na origem, fica patente a falta de prequestionamento, atraindo o óbice das Súmulas n. 282/STF e n. 356/STF.
+4. Se há fundamentação idônea para a fixação da pena de multa, impossível sua alteração na via eleita.
+5. Agravo regimental desprovido. (AgRg no REsp 1716878/RS, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 12/12/2018)
+Ante o exposto, com fundamento no art. 932, II, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Intimem-se.
