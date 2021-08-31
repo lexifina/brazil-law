@@ -1,0 +1,27 @@
+DECISÃO
+1. Cuida-se de agravo interposto por SONIA MARIA DA SILVA GARCIA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Apelação. Contratos bancários. Ação declaratória de inexistência/nulidade contratual c.c compensação de dano moral c.c repetição de indébito. Cartão de crédito consignado reserva de margem consignável (RMC) - Contrato para desconto em benefício previdenciário que prevê a constituição de reserva de margem consignável para pagamento do valor mínimo da fatura do cartão de crédito. Prova do fato impeditivo do alegado direito da autora (art. 373, II do Código de Processo Civil). Contratação demonstrada. Vício de consentimento não provado. Danos morais não configurados. Pedido de repetição em dobro do indébito rejeitado. Readequação do contrato.
+Descabimento. Majoração da verba honorária. Aplicação do § 11 do artigo 85 do CPC de 2015. Sentença mantida. Recurso desprovido.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 14, 39, IV, 42, 46 e 54do CDC. Sustenta que a recorrente, embora tenha firmado o contrato, o fez pensando estar contratando empréstimo consignado para pagamento de forma parcelada.Busca a declaração de nulidade do contrato de cartão de crédito, a restituição em dobrodos valores descontados do benefício previdenciário da parte recorrente e, ainda, indenização por danos morais.
+Decido.
+2. Na espécie, a Corte local, com base nos elementos fático-probatórios dos autos e na interpretação do contrato, concluiu pelaimprocedência do pedido autoral, ao concluir que houve a contratação sem vício de consentimento, além de ter considerado lícito o desconto mensal.
+A propósito, confira o seguinte trecho do acórdão recorrido:
+A autora assinou o contrato que deu origem ao débito, objeto da lide (fls.212/214), sendo claras todas as cláusulas nele constantes, inclusive sobre a contratação de cartão de crédito com reserva de mínimo consignável RMC.
+Ou seja, tendo em vista que a autora concordou com a aquisição do cartão de crédito, inadmissível que ela somente tenha validade se utilizado para outras transações.
+Além disso, com a quitação integral do débito, poderá ser efetuado pedido de seu cancelamento.
+ ..
+Outrossim, importante consignar que em nenhum momento a autora alegou qualquer falsidade na assinatura do contrato entabulado entre as partes ou impugnou a disponibilização e a utilização do crédito (fls. 211). O réu também apresentou as faturas referentes ao cartão em questão, ressaltando que houve utilização do referido cartão para aquisição de mercadorias e pagamento das faturas (fls. 182/210).
+Ressalte-se, ainda, que pela análise do documento de fls. 16 a autora já havia realizado inúmeros contratos de empréstimos bancários, não sendo crível ser pessoa inexperiente com relação a esse tipo de ajuste.
+Desta forma, infere-se que o contrato é hígido e foi regularmente assinado por pessoa maior e capaz, não havendo qualquer nulidade, já que não restou comprovado o alegado vício de consentimento. Ressalte-se, ainda, que a autora não nega a assinatura do contrato com o réu, mas sim impugna o seu teor, alegando que queria realizar outro negócio jurídico, o que não restou comprovado nos autos.
+(..)
+Desta forma, não há se falar em repetição de indébito ou indenização por danos morais, haja vista que não houve qualquer prática de ato ilícito pelo réu, mas tão somente o exercício do seu regular direito de credor.
+Desse modo, constata-se que a revisão do acórdão recorrido e a análise da pretensão recursal demandariam a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, e a interpretação de cláusulas contratuais, o que é vedado em sede de recurso especial, nos termos das Súmulas 5 e 7 do STJ.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CARTÃO DE CRÉDITO. ABUSIVIDADE. AFERIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela caracterização do contrato como de cartão de crédito, pela ciência da parte quanto à modalidade de contratação e pela inexistência de abuso na taxa de juros remuneratórios praticada. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1518620/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 17/02/2020, DJe 20/02/2020)
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
