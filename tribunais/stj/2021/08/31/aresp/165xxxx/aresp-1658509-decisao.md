@@ -1,0 +1,20 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. HONORÁRIOS ADVOCATÍCIOS. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282 DO STF. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+1. Agrava-se de decisão que inadmitiu o recurso especial interposto por ESTADO DO RIO DE JANEIRO, com fundamento no art. 105, inciso III, alíneaa, da CF/1988, no qual se insurge contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+AGRAVO DE INSTRUMENTO. Ação de cobrança de diferenças de vencimentos. Sentença de procedência reformada com inversão do ônus sucumbenciais. Decisão que indeferiu a expedição de ofício para obtenção de informações sobre a remuneração dos autores, visando calcular os honorários advocatícios. Manutenção. Providência inútil. Os estatutos processuais, tanto aquele em vigor na época da sentença, quanto o anterior, não agasalham a ideia de apurar honorários advocatícios com base em condenação que foi pedida, mas que não ocorreu. Recurso a que se nega provimento(fls. 31).
+2. Os embargos de declaração opostos foram rejeitados (fls. 53/57).
+3. Nasrazões do seurecurso especial (fls. 65/71), a parte agravante sustenta violação dos arts.8º, 85, caput, 509, § 2º, e 524, § 3º, do CPC/2015.Argumenta, para tanto: necessidade de consideraçãodo pedido mediato, bem da vida, que, no caso, corresponde às diferenças remuneratórias requeridas, confundindo com o pedido imediato de cunho processual, provimento jurisdicional de cunho condenatório.
+4. Devidamente intimada (fls. 74), a parte agravada deixou de apresentar contrarrazões conforme a certidão de fls. 76.
+5. Sobreveio o juízo de admissibilidade negativo(fls. 78/79),fundado na incidência da Súmula 7 do STJ,razão pela qual se interpôs o presente agravo em recurso especial, ora em análise.
+6. É o relatório.
+7. A irresignação não merece prosperar.
+8. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+9. Verifico que osarts. 8º, 509, § 2º, e 524, § 3º, do CPC/2015não foramapreciadospelo Tribunal de origem. A ausência de enfrentamento pelo Tribunal de origem da matériaimpugnada, objetodorecurso excepcional,impede o acesso à instância especial, porquanto não preenchido o requisito constitucional do prequestionamento. Incidência, por analogia, daSúmula282do STF.
+10. Ainda, nos exatos termos do acórdão recorrido, o Tribunal de origem assim se manifestou sobre o tema:
+Os honorários advocatícios acabaram sendo fixados com base no valor da condenação, mas não houve condenação.
+O critério não pode ser utilizado.
+Não há, portanto, qualquer interesse processual para apuração de um hipotético valor através da expedição do ofício, providência bem indeferida.
+Os estatutos processuais, tanto aquele em vigor na época da sentença, quanto o anterior, não agasalham a ideia de apurar honorários advocatícios com base em condenação que foi pedida, mas que não ocorreu(fls. 33).
+11. Com efeito, o Tribunal de origem reconheceu a desnecessidade das informações sobre os vencimentos das agravadas para cálculo dos honorários advocatícios, devendo ser mantida a decisão que indeferiu a expedição de ofício ao órgão de gestão de pagamentos do TJRJ (fls. 34). Entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e provas, e não de valoração dos critérios jurídicos concernentes à utilização da prova e à formação da convicção, o que impede o seguimento do recurso especial. Sendo assim, incide a Súmula 7 do STJ, segundo a qual a pretensão de simples reexame de prova não enseja recurso especial.
+12. Diante dessas considerações, conheço do agravo para não conhecer do recurso especial.
+13. Publique-se. Intimações necessárias.
