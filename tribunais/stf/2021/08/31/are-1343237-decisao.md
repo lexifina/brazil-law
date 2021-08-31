@@ -1,0 +1,17 @@
+DIREITO PENAL E PROCESSUAL PENAL. JUIZ NATURAL. EVENTUAL VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA NÃO VIABILIZA O RECURSO EXTRAORDINÁRIO. REELABORAÇÃO DA MOLDURA FÁTICA. RECURSO EXTRAORDINÁRIO A QUE SE NEGA SEGUIMENTO.
+    Vistos etc.
+    Contra o juízo negativo de admissibilidade do recurso extraordinário, exarado pela Presidência do Tribunal a quo, foi manejado agravo. Na minuta, sustenta-se que o recurso extraordinário reúne todos os requisitos para sua admissão. Aparelhado o recurso na ofensa ao art. 5º, XXXVII e LIII, da Constituição Federal.
+    É o relatório.
+    Decido.
+    Preenchidos os pressupostos extrínsecos.
+    Da detida análise dos fundamentos da decisão denegatória de seguimento do recurso extraordinário, bem como à luz das razões de decidir adotadas pelo Tribunal de origem, por ocasião do julgamento do recurso veiculado na instância ordinária, concluo que nada colhe o agravo.
+    As instâncias ordinárias decidiram a questão relativa à competência para o julgamento do processo com fundamento na legislação infraconstitucional aplicável à espécie, razão pela qual, consideradas as circunstâncias jurídico-normativas da decisão recorrida, reputo inocorrente afronta ao art. 5º, XXXVII e LIII, da Constituição da República. Dessarte, desatendida a exigência do art. 102, III, “a”, da Lei Maior, nos termos da jurisprudência deste Supremo Tribunal Federal.
+    Acresço que o Tribunal de origem, na hipótese em apreço, lastreou-se na prova produzida para firmar seu convencimento, razão pela qual a aferição da ocorrência de eventual afronta aos preceitos constitucionais invocados no apelo extremo exigiria o revolvimento do quadro fático delineado, procedimento vedado em sede extraordinária. Aplicação da Súmula nº 279/STF: “Para simples reexame de prova não cabe recurso extraordinário.” Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. CRIMINAL. ART. 5°, XXXVII e LIII, DA CF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. REAPRECIAÇÃO DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULA 279/STF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I - Ausência de prequestionamento do art. 5°, XXXVII, da Constituição Federal. Os embargos declaratórios não foram opostos com a finalidade de suprir essa omissão. Incidência das Súmulas 282 e 356/STF. II - Para se chegar à conclusão contrária à adotada pelo acórdão recorrido, seria necessário o reexame do conjunto fático-probatório constante dos autos. Óbice da Súmula 279/STF. III - Agravo regimental a que se nega provimento” (ARE 1085703 AgR, Relator(a): Ricardo Lewandowski, Segunda Turma, julgado em 30.11.2018, PROCESSO ELETRÔNICO DJe-262 DIVULG 05.12.2018 PUBLIC 06.12.2018).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PROCESSUAL PENAL. CONTRARIEDADE AO INC. LIII DO ART. 5º DA CONSTITUIÇÃO DA REPÚBLICA: IMPOSSIBILIDADE DE ANÁLISE DE LEGISLAÇÃO INFRACONSTITUCIONAL E DE REEXAME DE PROVA. SÚMULA 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (ARE 1156190 AgR, Relator(a): Cármen Lúcia, Segunda Turma, julgado em 06.11.2018, PROCESSO ELETRÔNICO DJe-257 DIVULG 30.11.2018 PUBLIC 03.12.2018).
+    Por conseguinte, não merece processamento o apelo extremo, consoante também se denota dos fundamentos da decisão que desafiou o recurso, aos quais me reporto e cuja detida análise conduz à conclusão pela ausência de ofensa a preceito da Constituição da República.
+    Nego seguimento (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 31 de agosto de 2021.
+Ministra Rosa Weber
+Relatora
