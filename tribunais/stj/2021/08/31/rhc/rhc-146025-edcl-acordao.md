@@ -1,0 +1,41 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. CAUTELARES DIVERSAS DA PRISÃO. AFASTAMENTO. VÍCIOS INEXISTENTES.
+1. Não há falar em vício no acórdão embargado. A matéria foi decidida com a devida e clara fundamentação, sufragando-se o entendimento de que se mostra suficiente a fixação de medidas cautelares penais diversas da prisão processual, diante da prática de furto tentado.
+2. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de embargos de declaração opostos contra acórdão que negou provimento ao agravo regimental.
+Sustenta o embargante haver omissão, sob o fundamento de que as medidas cautelares diversas da prisão são ineficazes em relação ao embargado, diante da alta probabilidade de continuidade delitiva.
+Requer o acolhimento dos embargos declaratórios, com efeitos infringentes, para que seja restabelecida a prisão preventiva.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Quanto à substituição da prisão preventiva por cautelares diversas, o acórdão embargado assim fundamentou a questão (fls. ):
+  Conforme relatado, sustenta o agravante a existência dos requisitos para a decretação da prisão preventiva, estando a decisão assim fundamentada (fls. 87/89):
+Trata-se de recurso em habeas corpus, com pedido liminar, interposto em face de acórdão assim ementado:
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. ALEGAÇÃO DE AUSÊNCIA DE FUNDAMENTAÇÃO PARA A DECRETAÇÃO DA PRISÃO PREVENTIVA. NÃO VERIFICAÇÃO. ELEMENTOS QUE INDICAM A NECESSIDADE DA SEGREGAÇÃO CAUTELAR. RISCO CONCRETO DE REITERAÇÃO DELITIVA. PACIENTE QUE RESPONDE A OUTROS PROCESSOS CRIMINAIS. PERICULOSIDADE EVIDENCIADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA DEMONSTRADA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. SUPOSTO RISCO DE CONTAMINAÇÃO POR COVID-19. ALEGAÇÃO GENÉRICA. AUSÊNCIA DE ELEMENTOS CONCRETOS QUE DEMONSTREM ESPECIAL PERIGO À SAÚDE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. REMÉDIO CONSTITUCIONAL CONHECIDO E DENEGADO.
+Consta dos autos que o recorrente foi preso preventivamente pela prática do crime previsto no art. 155, § 4º, I, c/c art. 14, II, ambos do CPP.
+Menciona que não há os requisitos da prisão preventiva, sendo admissível a substituição por cautelares diversas.
+Alega risco de contaminação pelo Covid-19, fazendo jus à incidência da Resolução 62/2020 do CNJ.
+Requer, liminarmente, a revogação da prisão cautelar e, no mérito, a sua confirmação.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo Relator, nos termos do art.34, XVIII e XX, do RISTJ.
+A decisão de prisão preventiva foi assim fundamentada (fl. 15):
+Passo, agora, em cumprimento ao disposto no art. 310, do Código de Processo Penal, a me manifestar acerca da necessidade de manutenção ou não da segregação dos imputados.
+Em análise detida no presente caderno procedimental tem-se a existência de indícios suficientes de autoria delitiva, bem como a demonstração da materialidade delitiva, razão pela qual procedo à análise dos demais requisitos autorizadores da prisão preventiva, conforme bem-dispõe o art. 313, do CPP.
+Presente o risco à garantia da ordem pública, ao se considerar o modus operandi da conduta, no qual o flagrado foi preso.
+Vê-se, ainda, que o autuado, possui uma extensa ficha criminal, compreendida por diversos passagens pela suposta pratica dos mesmos crimes de furto, demonstrando que possui contumácia na vida do crime (p.28).
+Outrossim, viceja-se que os delitos imputados aos autuados possuem pena máxima superior a 4 (quatro) anos de reclusão, hipótese que, nos termos do art. 313, do CPP, autoriza a decretação da prisão preventiva.
+Por fim, resta ressaltar o não cabimento das medidas cautelares constantes no art. 319, do CPP, tendo em vista o risco à garantia da ordem pública, cuja tutela, ao menos nesta fase, impõe a adoção de uma medida mais gravosa.
+Nos termos da jurisprudência desta Corte, registros criminais anteriores, anotações de atos infracionais, inquéritos e ações penais em curso, e condenações ainda não transitadas em julgado são elementos que podem ser utilizados para amparar eventual juízo concreto e cautelar de risco de reiteração delitiva, de modo a justificar a necessidade e adequação da prisão preventiva para a garantia da ordem pública (RHC 100.793/RR, Sexta Turma, Rel. Ministra Laurita Vaz, DJe. 23/10/2018). No mesmo sentido: RHC 106.136/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 19/02/2019, DJe 01/03/2019; HC 479.323/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 12/02/2019, DJe 11/03/2019; HC 441.396/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 05/02/2019, DJe 14/02/2019.
+Como se vê, o édito prisional apresenta fundamentação que se mostra válida, diante da reiteração delitiva.
+Contudo, ao analisar as circunstâncias do caso, verifica-se que, embora o decreto prisional indique fundamento concreto, os riscos apontados não exigem tão gravosa cautelar como a prisão, porquanto, além da falta de violência e grave ameaça relacionados ao delito em que foi preso neste processo, verifica-se a presente hipótese se refere à prática de furto tentado.
+Logo, para evitar o risco de reiteração delitiva, suficiente é a imposição das seguintes medidas cautelares penais diversas da prisão processual: (a) apresentação a cada dois meses, para verificar a manutenção da inexistência de riscos ao processo e à sociedade; (b) proibição de mudança de domicílio sem prévia autorização judicial, vinculando a acusada ao processo; e (c) proibição de ter contato pessoal com pessoas envolvidas com o tráfico e outras atividades criminosas, como garantia à instrução e proteção contra à reiteração criminosa; tudo isso sem prejuízo de eventual fixação de outras medidas cautelares pelo Juízo de origem, desde que devidamente fundamentadas.
+Ante o exposto, dou provimento ao recurso em habeas corpus para a soltura do recorrente, a fim de determinar o cumprimento da medida cautelar de apresentação a cada 2 meses, proibição de mudança de domicílio sem prévia autorização judicial e de ter contato pessoal com pessoas envolvidas no delito; o que não impede a fixação de outras medidas cautelares diversas da prisão, por decisão fundamentada.
+Comunique-se.
+Publique-se.
+Intimem-se.
+A despeito da valia dos fundamentos do recurso, não há motivo para reformar a decisão agravada. Embora conste do decreto prisional fundamento idôneo em tese para justificar a custódia, consubstanciado na existência de registros criminais anteriores, indicativos de reiteração, a presente hipótese, contudo, se refere a furto tentado, de modo que os riscos apontados não exigem tão gravosa cautelar (art. 282, § 6º - CPP), sendo suficiente a imposição de medidas cautelares penais diversas da prisão processual, razão por que nego provimento ao agravo regimental.
+Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver no julgado algum vício integrativo em termos de ambiguidade, obscuridade, contradição ou omissão.
+No caso, não há falar em vício no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, sufragando-se o entendimento de que se mostra suficiente a fixação de medidas cautelares penais diversas da prisão processual, diante da prática de furto tentado.
+Observa-se, portanto, que se pretende apenas a rediscussão livre da matéria, fora das amarras processuais do recurso, visando alterar a conclusão que (supostamente) resultou desfavorável ao embargante , o que é incabível na via eleita, razão por que rejeito os embargos de declaração.
+É o voto.
