@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LENIRDA LUZem face de decisão monocrática sintetizada na seguinte ementa:
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DO DANO MORAL. SÚMULA 7/STJ. TERMO INICIAL DOS JUROS DE MORA. EVENTO DANOSO. SÚMULA 54/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E DAR-LHE PROVIMENTO.
+Aembargantesustentaque a decisão embargada foi omissa e obscura ao concluir pela incidência do óbice da Súmula 7/STJ no tocante ao valor da indenização, uma vez que esta foi fixada em montante irrisório e desproporcional.Ademais, indicaa existência de omissãoquanto à majoraçãodos honorários sucumbenciais anteriormente fixados, conforme preceitua o artigo 85, parágrafo 11, do Código de Processo Civil.
+Houve apresentação de impugnação aos embargos de declaração.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+Assiste razão parcial à parte embargante.
+Para que os aclaratórios, que são recurso de fundamentação vinculada, possam prosperar, faz-se necessário que o embargante demonstre, de forma clara, a ocorrência de obscuridade, contradição, omissão ou - como previsto na novel legislação - erro material em algum ponto do julgado, sendo tais vícios capazes de comprometer a verdade e os fatos postos nos autos.
+No caso dos autos, não há falar em omissão ou obscuridade na decisão embargada quanto à incidência do óbice da Súmula 7/STJ acerca da revisão do valor da indenização.
+Com efeito, na decisão embargada foi consignado que "diante da ausência de flagrante exorbitância do quantum indenizatório fixado em R$50.000,00, seria necessário reexaminar o conjunto fático-probatório dos autos para acolher a pretensão do recorrente, o que não é possível em sede de recurso especial, em face do óbice da Súmula 7/STJ. Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie".
+Destarte, o que se verifica é que oembarganteobjetivao reexame da causa com a atribuição de efeitos infringentes ao recurso, o que é inviável em sede de embargos de declaração.
+Como já explicitado inicialmente, os declaratórios apenas são cabíveis nos casos de omissão, obscuridade, contradição ou erro material, não se prestando a reapreciar a causa, tampouco a reformar o entendimento proferido pelo órgão julgador, em razão dos rígidos contornos processuais desta espécie de recurso. Sobre o tema, os seguintes precedentes desta Corte Superior:
+EMBARGOS DE DECLARAÇÃO REJEITADOS. PRESCRIÇÃO. NÃO OCORRÊNCIA. TÍTULO EXECUTIVO JUDICIAL ILÍQUIDO. EXECUÇÃO DO JULGADO COLETIVO DE FORMA INDIVIDUALIZADA.NECESSIDADE. REPETITIVO. NÃO APLICAÇÃO.
+ ..
+4. A atribuição de efeitos infringentes, em Embargos de Declaração, somente é admitida em casos excepcionais, os quais exigem, necessariamente, a ocorrência de qualquer dos vícios previstos no art. 1.022 do CPC/2015.
+5. Embargos de Declaração rejeitados.
+(EDcl no REsp 1725784/RJ, Rel.Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 07/08/2018, DJe 20/11/2018)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NA PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. ERRO MATERIAL. NÃO OCORRÊNCIA. HIPÓTESE DE SUPOSTO ERROR IN JUDICANDO. AUSÊNCIA DE IMPUGNAÇÃO OPORTUNA. TRÂNSITO EM JULGADO. AGRAVO INTERNO NÃO PROVIDO.
+1. O erro material, passível de ser corrigido de ofício, e não sujeito à preclusão, é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito.
+2. No caso, o alegado equívoco constante na decisão do agravo em recurso especial quanto à aplicação da Súmula 115 do STJ, haja vista a suposta presença nos autos da procuração/substabelecimento que conferiu poderes ao advogado Dr. Lucas Diniz Ayres de Freitas, OAB/SP nº 238.140, subscritor do agravo e do recurso especial, não configura hipótese de erro material, mas sim, de erro no conteúdo decisório propriamente dito do julgado (error in judicando), o qual, porém, não foi impugnado no momento oportuno, por meio da interposição do recurso adequado. Portanto, incabível a apresentação intempestiva de petição para corrigi-lo, depois de exaurida a prestação jurisdicional desta Corte, ante a ocorrência do trânsito em julgado.
+3. Agravo interno não provido.
+(AgInt nos EDcl na PET no AREsp 860.223/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 19/09/2017, DJe 25/09/2017)
+Por outro lado, os embargos de declaração merecem ser parcialmente acolhidos, na medida em que não houve manifestação na decisão de fls. 636/642 e-STJ, acerca da fixação dos honorários recursais previsto no art. 85, §11, do CPC/2015.
+Deveras, especificamente quanto aos honorários recursais, deve ser considerado o disposto no art. 85, § 11, do CPC/2015, e no Enunciado Administrativo n. 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC").
+Levando-se em conta que o tempo de tramitação do recurso, contado apenas entre a sua interposição na origem e a data da prolação desta decisão monocrática, não é demasiadamente longo, e que não houve a necessidade de atuação do recorrido em comarca diversa da qual atua, bem como, por fim, tomando por premissa que a demanda recursal aparenta baixo grau de complexidade, condeno orecorrido/embargado a efetuar o pagamento de honorários recursais correspondente a 5% (cinco por cento) do que já foi fixado, no acórdão, a título de honorários advocatícios.
+Ante o exposto, acolho parcialmente os aclaratórios, com efeitos infringentes, para integralizar o julgado.
+Abra-se vista à parte ora embargante para apresentar contrarrazões ao agravo interno interposto pelo Município do Rio de Janeiro e, após, retornem os autos conclusos para julgamento.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVOEM RECURSO ESPECIAL. OMISSÕES PARCIALMENTE RECONHECIDAS.HONORÁRIOS ADVOCATÍCIOS. ART. 85, §11, DO CPC/2015. OMISSÃO SANADA. EMBARGOS DE DECLARAÇÃO PARCIALMENTE ACOLHIDOS PARA INTEGRALIZAR O JULGADO, COM EFEITOS INFRINGENTES.
