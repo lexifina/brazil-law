@@ -1,0 +1,23 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO HABEAS CORPUS. CONCESSÃO LIMINAR DE HABEAS CORPUS. PREVISÃO REGIMENTAL. AUSÊNCIA DE PRÉVIA INTIMAÇÃO DO MINISTÉRIO PÚBLICO. ILEGALIDADE NÃO VERIFICADA. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PACOTE ANTICRIME. REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. ENTENDIMENTO FIRMADO EM RECURSO REPRESENTATIVO DA CONTROVÉRSIA. TEMA 1084. EMBARGOS REJEITADOS.
+1. Nos termos da orientação jurisprudencial desta Corte, "as disposições estabelecidas nos arts. 64, III, e 202 do RISTJ e 1º do Decreto-Lei 522/1969 não afastam do relator o poder de decidir monocraticamente a impetração nos casos em que a decisão impugnada confrontar súmula do Superior Tribunal de Justiça ou a jurisprudência dominante acerca do tema (art. 34, XX, do RISTJ)" (AgRg no HC 551.042/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/05/2021, DJe 07/05/2021).
+2. Não há falar em vício no acórdão embargado. A matéria foi decidida com a devida e clara fundamentação, sufragando-se o entendimento firmado pela Terceira Seção desta Corte, no REsp 1.910.240, representativo da controvérsia, julgado em 26/5/2021 (Tema 1084).
+3. Não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre suposta afronta a dispositivos da Constituição Federal, sob pena de usurpação da competência do Supremo Tribunal Federal.
+4. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Trata-se de embargos de declaração opostos contra acórdão que negou provimento a agravo regimental.
+Sustenta o embargante que foi concedida a ordem de ofício, "sem a prévia oitiva do Parquet, "( ) para restabelecer a decisão do Juízo das execuções ( )", com a aplicação do percentual de 40% para cálculo das penas do agravado" (fl.110).
+Assevera, ainda, que "a contradição que se quer sanar pelos aclaratórios - igualizou a situação de apenados primários e reincidentes, desnaturando a individualização das penas (artigo 5º, inciso XLVI, da Carta Política), ao subverter por completo o viés do escalonamento gravoso instituído pelo legislador no artigo 112 da Lei de Regência e, em consequência, provocar direta vulneração aos arts. 5º, caput e XLVI, e 6º, bem como ao art. 144, todos da Constituição Federal" (fl. 111).
+Nesse contexto, requer seja provido o agravo regimental para denegar a ordem.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator): - Nos termos do art. 619 do Código de Processo Penal, é cabível a oposição de embargos de declaração quando houver ambiguidade, obscuridade, contradição ou omissão.
+O acórdão embargado negou provimento a agravo regimental interposto contra decisão que concedera a ordem liminarmente para restabelecer a decisão do Juízo das execuções.
+Sustenta o embargante nulidade da decisão concessiva da ordem sem a prévia manifestação do Ministério Público.
+Mas, nos termos da orientação jurisprudencial desta Corte, "as disposições estabelecidas nos arts. 64, III, e 202 do RISTJ e 1º do Decreto-Lei 522/1969 não afastam do relator o poder de decidir monocraticamente a impetração nos casos em que a decisão impugnada confrontar súmula do Superior Tribunal de Justiça ou a jurisprudência dominante acerca do tema (art. 34, XX, do RISTJ)"(AgRg no HC 551.042/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 04/05/2021, DJe 07/05/2021).
+Ademais, não há falar em vício no acórdão embargado, pois a matéria foi decidida com a devida e clara fundamentação, sufragando-se o entendimento firmado pela Terceira Seção desta Corte, no REsp 1.910.240, representativo da controvérsia, julgado em 26/5/2021 (Tema 1084).
+Ressalte-se, ainda, que não cabe a esta Corte manifestar-se, em embargos de declaração, ainda que para fins de prequestionamento, sobre a afronta a dispositivos constitucionais, sob pena de usurpação de competência do Supremo Tribunal Federal.
+Observa-se, portanto, que se pretende apenas a rediscussão da matéria, visando alterar a conclusão que resultou desfavorável, o que é incabível na via eleita, razão por que rejeito os embargos de declaração.
+É o voto.
