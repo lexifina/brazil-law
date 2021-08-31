@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. AÇÃO INDENIZATÓRIA. FORTES ENCHENTES NA ÁREA DO HOTEL. ALEGAÇÃO DE CONTRADIÇÃO NO JULGADO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Hipótese em que o acórdão embargado concluiu que a modificação do entendimento proferido pelo Tribunal de origem quanto à ausência de responsabilidade da municipalidade por danos decorrentes de fortes enchentes que assolaram a área do hotel, in casu, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Embargos de Declaração opostos contra acórdão da Segunda Turma do STJ cuja ementa é a seguinte:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OFENSA AOS ARTS. 489 E 1.022 DO CPC. INEXISTÊNCIA. DECISÃO ULTRA PETITA. NÃO OCORRÊNCIA. AÇÃO INDENIZATÓRIA. FORTES ENCHENTES NA ÁREA DO HOTEL. CHUVAS ANÔMALAS. AUSÊNCIA DE RESPONSABILIDADE MUNICIPAL. REVISÃO DAS CONCLUSÕES ADOTADAS PELA CORTE DE ORIGEM. SÚMULA 7/STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa aos arts. 489 e 1.022 do CPC.
+2. Trata-se, na origem, de Ação de Indenização por danos decorrentes de fortes enchentes que assolaram a área do hotel, ora recorrente, durante os meses de janeiro de 2010 e janeiro de 2011, ocasionando transtornos aos proprietários e hóspedes.
+3. Não há falar em violação dos arts. 141, 492 e 503 do CPC. Isso porque a Corte estadual, ao contrário do que faz crer o agravante, não extrapolou os pedidos apresentados no recurso formulado pelo município recorrido. Consoante a jurisprudência do STJ, "os pedidos devem ser interpretados lógica e sistematicamente, cabendo ao magistrado proceder à análise ampla e detida da relação jurídica posta." (AgInt no REsp 1.804.826/RJ, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 18/5/2020). No caso, a decisão foi exarada nos exatos limites do pedido, elaborado pela parte contrária, de declaração de "ausência de responsabilidade por parte da Municipalidade, ante a ocorrência de caso fortuito e força maior (..), denegando os danos não provados, os danos morais por incabíveis e os lucros cessantes." (fl. 3950, e-STJ).
+4. Na hipótese dos autos, o Tribunal de origem concluiu estarem ausentes os requisitos ensejadores do dever de indenizar, tendo em vista a seguinte fundamentação: "Em suma, o laudo pericial constatou que em 2010 e 2011 houve chuvas anormais que elevaram o nível do Rio Atibaia (fls. 3973). À municipalidade não pode ser imputado o dever de indenizar, visto que pelas provas apresentadas é inequívoco que não houve omissão ou conduta reprovável que tenha contribuído para o danoso, tampouco possui a municipalidade atribuição para realizar obras em área quase rural de Rio de domínio estadual." (fls. 4026-4045, e-STJ).
+5. Como se observa claramente do trecho acima transcrito, rever o entendimento, consignado pelo acórdão recorrido, quanto à ausência de responsabilidade da municipalidade, in casu, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ. Nesse sentido: AgInt no AREsp 1.547.421/MS, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 20/5/2020; REsp 1.675.095/SP, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 13/09/2017; AgRg no AREsp 659.655/PR, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 19/10/2015.
+6. Agravo Interno não provido.
+Nos Aclaratórios, o embargante sustenta que houve contradição. Aduz, em suma (fls. 4246-4248, e-STJ):
+Ainda que se reconheça a existência de outros fundamentos capazes de sustentar a r. decisão, como, em tese, é o caso do reconhecimento da força maior, protesta-se pela complementação do v. acórdão para, saneando-se a contradição apontada, reconhecer que não há como se extrair o prévio conhecimento do autor a respeito do risco de inundação em razão de um relatório produzido pela Municipalidade e juntado com a inicial. Em outras palavras, o fato de o relatório ter sido juntado com a inicial apenas comprova sua ciência posterior à ocorrência dos fatos discutidos na ação e não o prévio conhecimento quando da instalação do empreendimento.
+Assim, independentemente de qualquer alteração na parte dispositiva do v. acórdão - possivelmente decorrente do reconhecimento da existência de outros fundamentos, suficientes à sua manutenção - requer-se a complementação do v. acórdão para suprir a contradição apontada, afastando-se a conclusão de que o peticionário possuía prévio conhecimento dos riscos.
+Impugnação apresentada às fls. 4259-4265, e-STJ, por meio da qual a parte contrária afirma que as alegações da embargante tratam de "inovação recursal sem subsunção às disposições do artigo 1022 do CPC", o que não pode ser admitido.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. AÇÃO INDENIZATÓRIA. FORTES ENCHENTES NA ÁREA DO HOTEL. ALEGAÇÃO DE CONTRADIÇÃO NO JULGADO. INEXISTÊNCIA. REDISCUSSÃO DA MATÉRIA DE MÉRITO. IMPOSSIBILIDADE.
+1. Hipótese em que o acórdão embargado concluiu que a modificação do entendimento proferido pelo Tribunal de origem quanto à ausência de responsabilidade da municipalidade por danos decorrentes de fortes enchentes que assolaram a área do hotel, in casu, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+2. A solução integral da divergência, com motivação suficiente, não caracteriza violação ao art. 1.022 do CPC/2015.
+3. Os Embargos Declaratórios não constituem instrumento adequado para a rediscussão da matéria de mérito.
+4. Embargos de Declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 12.4.2021.
+Os Embargos de Declaração não merecem prosperar, uma vez que ausentes os vícios listados no art. 1.022 do CPC/2015.
+Os Embargos de Declaração constituem recurso de rígidos contornos processuais, exigindo-se, para seu acolhimento, os pressupostos legais de cabimento.
+Na hipótese dos autos, o acórdão embargado concluiu que a modificação do entendimento proferido pelo Tribunal de origem quanto à ausência de responsabilidade da municipalidade por danos decorrentes de fortes enchentes que assolaram a área do hotel, in casu, requer revolvimento do conjunto fático-probatório, inadmissível na via especial, ante o óbice da Súmula 7/STJ.
+Cumpre salientar que, ao contrário do que afirma a parte embargante, não há contradição no decisum embargado. Suas alegações denotam o intuito de rediscutir o mérito do julgado, e não o de solucionar omissão, contradição ou obscuridade.
+Diante do exposto, rejeito os Embargos de Declaração, com a advertência de que reiterá-los será considerado expediente protelatório sujeito a multa prevista no Código de Processo Civil.
+É como voto.
