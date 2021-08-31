@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo interno interposto por LAURICEIA MONTEIRO AKIYAMA contra decisão monocrática da Presidência desta Corte Superior, que não conheceu do agravo em recurso especial, nos termos do artigo 21-E, V, do Regimento Interno do Superior Tribunal de Justiça (RISTJ), em razão da ausência de impugnação aos fundamentos da decisão agravada (e-STJ fls. 670/672).
+Nas razões do seu agravo interno, a agravante afirma que houve a impugnação específica aos fundamentos, sustentando (i) a possibilidade de reconhecimento de ofensa à Constituição Federal, nos termos do art. 1.032 do Código de Processo Civil de 2015; (ii) a não incidência da Súmula 7 do STJ sobre os temas relativos ao cerceamento de defesa e a ilegitimidade dos recorridos.
+Verifico que houve, de fato, a impugnação aos fundamentos adotados pela decisão que não admitiu o recurso especial.
+Reconsidero a decisão de fls. 670/672, de lavra da Presidência do Superior Tribunal de Justiça, tornando-a sem efeito e conheço do agravo em recurso especial, uma vez que os fundamentos da decisão que não admitiu o recurso especial foram devidamente impugnados.
+Assim, passo à análise do recurso especial.
+Trata-se de recurso especial interposto por LAURICEIA MONTEIRO AKIYAMA em face de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ, fl. 590):
+CERCEAMENTO DE DEFESA Dilação probatória Dispensabilidade Existência de prova suficiente para a formação da convicção do juiz Preliminar afastada. ILEGITIMIDADE "AD CAUSAM" Legitimidade para a propositura da reconvenção Configuração Preliminar afastada. USUCAPIÃO Ausência dos requisitos necessários para a aquisição da propriedade Sentença de improcedência mantida Ratificação dos fundamentos do "decisum" Aplicação do art. 252 do RITJSP/2009 Recurso improvido
+Nas razões do recurso especial, a recorrente afirma a violação do art. 398, parágrafo único, do Código de Processo Civil de 2015 e arts. 5, XXXV, LIV e LV, 93, IX, ambos da Constituição Federal, em virtude de cerceamento de defesa pelo indeferimento da realização de perícia para a apuração do analfabetismo da parte.
+Alega a ilegitimidade dos recorridos para o pedido de reintegração de posse, nos termos do art. 18, do CPC/2015, uma vez que não constam como proprietários na matrícula do imóvel.
+Presentes os pressupostos de admissibilidade e ultrapassado o limite do conhecimento do presente recurso, verifico que ele não merece ser provido, senão vejamos.
+Inicialmente, cumpre esclarecer que a jurisprudência pacífica desta Corte segue no sentido de ser inadmissível, em recurso especial, a análise de suposta violação de dispositivos constitucionais, sob pena de se usurpar a competência do Supremo Tribunal Federal, nos termos do art. 102 da Constituição Federal.
+Confira-se o seguinte precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA DO STJ. TESE DO ESPECIAL. CARGA NORMATIVA. AUSÊNCIA. SÚMULA N. 284 DO STF. CLÁUSULA DE ELEIÇÃO DE FORO. REEXAME. SÚMULA N. 5 DO STJ. VIOLAÇÃO DE SÚMULA. NÃO CONHECIMENTO. SÚMULA N. 518 DO STJ. DECISÃO MANTIDA.
+ ..
+3. "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula n. 518 do STJ).
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1824994/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 28/06/2021, DJe 01/07/2021)
+A recorrente pretende, ainda, o reconhecimento da violação do art. 398, parágrafo único, do CPC/2015, em virtude de cerceamento de defesa pelo indeferimento da realização de perícia para a apuração do seu analfabetismo.
+Nos termos da jurisprudência desta Corte, o Juiz é o destinatário final das provas, a quem cabe avaliar sua efetiva conveniência e necessidade, advindo daí a possibilidade de indeferimento das diligências inúteis ou meramente protelatórias, em consonância com o disposto na parte final do art. 370 do CPC/2015.
+No caso dos autos, o Tribunal de origem ressaltou que "a questão referente ao analfabetismo funcional da requerente foi analisada, quando se concluiu que, segundo a prova testemunhal e documental, ela demonstrava consciência dos negócios jurídicos simples. Nesse passo, era desnecessária produção de prova pericial, pois o conjunto probatório era suficiente para a análise da questão". Confira-se:
+Já decidi em inúmeras oportunidades que, havendo elementos à formação da convicção do julgador, desnecessária é a dilação probatória, ainda que a parte a tenha requerido expressamente. Sendo o juiz o destinatário da prova, cabe a ele aquilatar a necessidade, ou não, de sua realização.
+Assim, não configura cerceamento de defesa o indeferimento da prova pericial para averiguar o grau de alfabetização da recorrente. Como bem esclarecido pelo Juiz, "A questão referente ao analfabetismo funcional da requerente foi analisada, quando se concluiu que, segundo a prova testemunhal e documental, ela demonstrava consciência dos negócios jurídicos simples. Nesse passo, era desnecessária produção de prova pericial, pois o conjunto probatório era suficiente para a análise da questão."  ..  (e-STJ fl. 591).
+Modificar tal entendimento exigiria nova análise do conjunto probatório dos autos, medida inviável nesta esfera recursal.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.AÇÃO INDENIZATÓRIA POR DANOS PATRIMONIAIS E MORAIS. CERCEAMENTO DE DEFESA. MATÉRIA QUE DEMANDA REEXAME DE FATOS E PROVAS. SUMULA 7 DO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. O cerceamento de defesa sustentado pela agravante foi afastado pelo Tribunal local - destinatário da prova - com respaldo no acervo fático e probatório dos autos, de forma que a sua revisão, na via especial, é obstada pela Súmula n. 7 desta Corte. Precedentes.
+2. Agravo interno não provido.
+(AgInt no AREsp 1792584/SC, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2021, DJe 24/08/2021)
+Incide, sobre o tema, o óbice da Súmula 7 do STJ.
+Sobre o tema da ilegitimidade dos recorridos para o pedido de reintegração de posse, nos termos do art. 18, do CPC/2015, uma vez que não constam como proprietários na matrícula do imóvel, não assiste razão à recorrente.
+No julgamento do recurso de apelação, o Tribunal de origem consignou que "o fato de (os recorridos) não constarem como proprietários, na matrícula atualizada do imóvel, não lhes retira a legitimidade para o pedido de reintegração de posse". Confira-se:
+Também não prospera a alegação de ilegitimidade dos apelados para a propositura da reconvenção, pois, o fato de não constarem como proprietários, na matrícula atualizada do imóvel, não lhes retira a legitimidade para o pedido de reintegração de posse  ..  (e-STJ fl. 591).
+No mesmo sentido, esta Corte Superior possui jurisprudência consolidada no sentido de que, em se tratando de ação possessória, não se discute o domínio, mas tão somente a posse exercida sobre o bem em litígio.
+Nesse sentido, confira-se o seguinte precedente:
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. MATÉRIA CONSTITUCIONAL. APRECIAÇÃO PELO STJ. IMPOSSIBILIDADE. AFRONTA AO ART. 1.022 DO CPC/2015. FUNDAMENTAÇÃO RECURSAL DEFICITÁRIA. SÚMULA N. 284/STF. INTERDITO PROIBITÓRIO. PEDIDO DE REVERSÃO DA MEDIDA. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 DO STF E 211 do STJ. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. AÇÃO POSSESSÓRIA. DISCUSSÃO DE DOMÍNIO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM JURISPRUDÊNCIA DESTA CORTE. SÚMULA N. 83 DO STJ. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DA DECISÃO AGRAVADA. SÚMULA N. 182 DO STJ. MÁ VALORAÇÃO DAS PROVAS DOS AUTOS. INEXISTÊNCIA. DECISÃO MANTIDA.
+ ..
+6. De acordo com a jurisprudência desta Corte Superior, "em sede de ação possessória é inviável a discussão a respeito da titularidade do imóvel sob pena de se confundir os institutos, ou seja, discutir a propriedade em ação possessória" (AgRg no REsp n. 1.389.622/SE, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 18/2/2014, DJe 24/2/2014), o que foi observado pelo Tribunal de origem.
+7. Inadmissível o recurso especial quando o entendimento adotado pelo Tribunal de origem coincide com a jurisprudência do STJ (Súmula n. 83/STJ).
+8. É inviável o agravo previsto no art. 1.021 do CPC/2015 que deixa de atacar especificamente os fundamentos da decisão agravada (Súmula n. 182/STJ).
+9. Conforme jurisprudência consolidada desta Corte Superior, "a errônea valoração da prova que enseja a incursão desta Corte na questão é a de direito, ou seja, quando decorre de má aplicação de regra ou princípio no campo probatório e não para que se colham novas conclusões sobre os elementos informativos do processo" (AgInt no AREsp n. 970.049/RO, Relatora Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 4/5/2017, DJe de 9/5/2017), o que não ocorreu no caso.
+10. Agravo interno a que se nega provimento.
+(AgInt no REsp 1777692/PA, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/05/2020, DJe 21/05/2020)
+Dessa forma, incide sobre o tema, o óbice da Súmula 568 do STJ.
+Em face do exposto, conheço do agravo para não conhecer do recurso especial.
+Deixo de majorar os honorários advocatícios, nos termos do art. 85, § 11, do CPC/2015, uma vez que estes já foram fixados no patamar máximo previsto em lei.
+Intimem-se.
