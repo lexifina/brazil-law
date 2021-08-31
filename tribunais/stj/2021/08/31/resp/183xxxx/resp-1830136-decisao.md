@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial contra acórdão proferido pelo TJPAassim ementado (e-STJ fls. 404):
+AGRAVO INTERNO CM AGRAVO DE INSTRUMENTO. TERMO INICIAL PARA A APRESENTAÇÃO DE IMPUGNAÇÂO PELO EXECUTADO. APLICAÇÃO DO ART. 523 DO CPC/2015. IMPUGNAÇÂO EXTEMPORÂNEA. RECORRENTE QUK REPRODUZ. DK FORMA IDÊNTICA, OS ARGUMENTOS TRAZIDOS QUANDO DA APRESENTAÇÃO DE CONTRARRAZÕES OFERECIDA ANTES DO JUÍZO DE RF7WATAÇÃO. REPRODUÇÃO DOS FUNDAMENTOS DA DECISÃO MONOCRÃTICA NO ACÓRDÃO DO AGRAVO INTERNO. POSSIBILIDADE. AUSÊNCIA DE NIJLIDADE. INAPL1CABILIDADE DA MULTA PREVISTA NO ART. 1.021, §4º. DO CPC/2015. AUSÊNCIA DE MANIFESTA INADMISSIBIIJDADE OU IMPROCEDÊNCIA. PRECEDENTES DO STJ. RECURSO CONHECIDO E IMPROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 421/425).
+No recurso especial (e-STJ fls. 429/436), interposto com fundamento no art. 105, III, "a", da CF, a parte recorrente alegou ofensa aos arts. 85, §§ 1º, 2º, 11, 12 e 14,e 1.021, § 4º, do CPC/2015, sustentando ser necessária aincidência de sanção processual e inaplicável aSúmula n. 519 do STJ, sendo, portanto, descabida a condenação em honorários advocatícios.
+Foram apresentadas contrarrazões (e-STJ fls. 450/452).
+O recurso foi admitido na origem (e-STJ fls. 461/462).
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 423/424):
+In casu, entendo que o Embargante beira a má-fé ao afirmar que o Acórdão atacado teria silenciado a respeito do pedido formulado pelo Embargante (fls. 244) no tocante a aplicação da multa de 5% prevista no art. 1.021, §4º, do CPC/2015, pois, conforme se infere da conclusão firmada às fls. 251, o Acórdão atacado analisou a multa requerida, todavia, rejeitou-a por não ter sido vislumbrada a manifesta inadmissibilidade do recurso, tal como preconiza o STJ (AgInt no REsp 1748463 / CE, Relatora Ministra REGINA HELENA COSTA, DJe 21/09/2018.). Isto posto, patente é a inexistência de omissão.
+Por conseguinte, alegou ser inaplicável ao caso o enunciado da súmula nº 519/STJ, pelo que o decisium teria incorrido em obscuridade. Todavia, destaco que o agravo de instrumento de fls. 02/09 impugnou, especificamente, a decisão de fls. 47, a qual não conheceu da impugnação ao cumprimento de sentença em razão de sua apresentação extemporânea. Logo, imperiosa é a manutenção do entendimento consignado às fls. 251, tal seja de que não são cabíveis honorários advocatícios na hipótese de rejeição da impugnação ao cumprimento de sentença.
+No que se refere ao art. 1.021, § 4º, do CPC/2015, a interposição dorecursona Corte de origemdecorreu do legítimo exercício do direito de recorrer da parte,que se valeu do referido apelo para tentar reverter a decisão desfavorável, o que não constituiato protelatório, a ensejar a sanção processual prevista no referido dispositivo. Dessa forma,deve ser afastada a multa aplicada.
+Por outro lado, adecisão recorrida está em consonância com a jurisprudência desta Corte, no sentido de que a Súmula n. 519 do STJcontinua sendo aplicável na vigência do CPC/2015:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM - DECISÃO MONOCRÁTICA QUE DEU PROVIMENTO AO RECURSO DA AGRAVANTE. INSURGÊNCIA DA PARTE AGRAVADA.
+1. Nos termos do entendimento sedimentado em sede de recurso repetitivo (REsp 1.134.186/RS, representativo de controvérsia na forma do art. 543-C, do CPC/1973 - tema 408) a rejeição da impugnação ao cumprimento de sentença não enseja a condenação em honorários advocatícios (Súmula nº 519 do STJ).
+1.1 Em que pese tal pronunciamento tenha sido estabelecido sob a égide do diploma processual civil revogado, a deliberação se mantém, também, para contendas estabelecidas no âmbito do NCPC, porquanto a impugnação ao cumprimento de sentença (seja ela definitiva ou provisória) não enseja o início de novo procedimento, visto que atrelada à própria abertura do cumprimento de sentença em si, o qual já admite, por força do art. 85, § 1º, do NCPC a fixação de honorários advocatícios
+2. Agravo interno desprovido.
+(AgInt no AREsp n. 1747288/MT, RelatorMinistro MARCO BUZZI, QUARTA TURMA, julgado em 24/5/2021, DJe 28/5/2021.)
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se e intimem-se.
