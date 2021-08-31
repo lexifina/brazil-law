@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de agravo interposto por MARLENE VIEIRA CLEMENTE contra decisão doTRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO,que não admitiu recurso especial, fundadona alínea "a"do permissivo constitucional,o qualdesafia acórdão assim ementado (e-STJ fl. 190):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. LEI 8.213/91. MÃE DO SEGURADO FALECIDO. DEPENDÊNCIA ECONÔMICA NÃO COMPROVADA. SENTENÇA MANTIDA. APELAÇÃO IMPROVIDA
+1. O BENEFÍCIO DE PENSÃO POR MORTE É DEVIDO AOS DEPENDENTES DAQUELE QUE FALECE NA CONDIÇÃO DE SEGURADO DA PREVIDÊNCIA SOCIAL E ENCONTRA-SE DISCIPLINADO NO ARTIGO 74 DA LEI Nº 8.213/91:
+2. O ART. 16 DA LEI Nº 8213/91 INDICA QUEM SÃO OS DEPENDENTES DO SEGURADO, INCLUINDO, NO SEU INCISO II, OS PAIS.
+3. DE ACORDO COM A LEI Nº 8213/91, VERIFICA-SE QUE PARA FAZEREM JUS AO BENEFÍCIO DE PENSÃO POR MORTE, OS DEPENDENTES DEVEM COMPROVAR O PREENCHIMENTO DOS SEGUINTES DOS REQUISITOS LEGAIS: O ÓBITO DO SEGURADO, A SUA QUALIDADE DE SEGURADO E A RELAÇÃO DE DEPENDÊNCIA ENTRE ESTE E O BENEFICIÁRIO.
+4. NA ESPÉCIE, O EVENTO MORTE FOI DEVIDAMENTE COMPROVADO E A QUALIDADE DE SEGURADO DO INSTITUIDOR DE PENSÃO RESTOU INCONTROVERSA. A RELAÇÃO DE DEPENDÊNCIA DA AUTORA EMRELAÇÃO AO SEU FILHO FALECIDO DEVE SER COMPROVADA,CONSOANTE SE INFERE DA REGRA PREVISTA NO ART. 16, II E § 4º, DALEI Nº 8.213/1991.
+5. NO CASO EM TELA, VERIFICA-SE QUE A AUTORA NÃO LOGROU COMPROVAR A ALEGADA DEPENDÊNCIA ECONÔMICA DE SEU FILHO. APESAR DO SEGURADO FALECIDO SER SOLTEIRO, SEM FILHOS, TAL SITUAÇÃO POR SI SÓ NÃO DÁ AOS ASCENDENTES, NO CASO À MÃE, O DIREITO À PENSÃO POR MORTE DE PRONTO, POIS TAL DEPENDÊNCIA NÃO PODE SER PRESUMIDA.
+6. NEGADO PROVIMENTO À APELAÇÃO, NOS TERMOS DO VOTO.
+No recurso especial obstaculizado, a parte apontouviolaçãodos arts.16 e 74 da Lei n. 8.213/1991,argumentando, em síntese, que faz jus ao benefício de pensão por morte, porquanto a dependência econômica entre pais e filhos é presumida, bem como juntou aos autos início de prova material, que foi corroborada por prova testemunhal.
+Contrarrazõesàs e-STJ fls. 215/219.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Indeferido pedido de tutela provisória de urgência (e-STJ fls. 275/277).
+Passo a decidir.
+Verifico que a pretensão recursal não merece prosperar, pois o entendimento do Tribunal a quo não diverge da jurisprudência desta Corte Superior de Justiça, no sentido de que, para fins de percepção de pensão pormorte,a presunção dedependênciaeconômica trazida no art. 16, § 4º, da Lei n. 8.213/1991 é relativa, podendo ser afastada diante da existência de provas em sentido contrário.
+Nesse sentido:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ORIGINÁRIA PELA OBTENÇÃO DE PENSÃO PORMORTE.JULGAMENTO DA APELAÇÃO POR DECISÃO MONOCRÁTICA. ALEGAÇÃO DE NULIDADE. NÃO OCORRÊNCIA. SITUAÇÃO SUPERADA PELO JULGAMENTO DO AGRAVO REGIMENTAL POR ÓRGÃO COLEGIADO.PRESUNÇÃO RELATIVADEDEPENDÊNCIAECONÔMICA NÃO SUPRIDA POR PROVA ADEQUADA. REQUISITOS PARA A CONCESSÃO DO BENEFÍCIO NÃO PREENCHIDOS. INVIABILIDADE DE REVISÃO DE MATÉRIA PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ. ALEGAÇÃO DE NULIDADE DA DECISÃO RECORRIDA, PELA IMPOSSIBILIDADE DA REALIZAÇÃO DE SUSTENTAÇÃO ORAL, OU SEJA, CERCEAMENTO DE DEFESA. INOCORRÊNCIA.O ART. 16 DA LEI 8.213/1991 NÃO PREVÊ QUE A SUSTENTAÇÃO ORAL SUPRA A INSUFICIÊNCIA DE PROVAS. AGRAVO INTERNO DOS PARTICULARES A QUE SE NEGA PROVIMENTO.
+1. A eventual nulidade de decisão monocrática lastreada no art. 557 do CPC/1973 fica superada com a reapreciação do recurso pelo órgão colegiado na via de agravo regimental.
+2. O inc. II, § 4º. do art. 16 da Lei 8.213/1991 estabelece umapresunção relativadedependênciaeconômica dos pais em relação de filho falecido.
+3. As instâncias de origem, com base no exame do acervo probatório dos autos, concluíram que não há comprovação dedependênciaeconômica dos autores em relação ao falecido, restando consignado na sentença, inclusive, que os autores levaram anos após o óbito para demandar junto ao Judiciário o benefício da pensão pormorte,em questão.
+4. Não comprovados os requisitos para a concessão do benefício, não merece reparos o acórdão recorrido.
+5. Agravo Interno dos Particulares a que se nega provimento. (AgInt no AREsp 699.775/SP, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 18/03/2019, DJe 26/03/2019).
+Cito, ainda, o AgRg nos EDcl no AREsp 396.299/SP, rel. Ministra ELIANA CALMON, Segunda Turma, julgado em 17/12/2013, DJe 07/02/2014, e o AgRg no REsp 1474478/SP, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 24/11/2015, DJe 10/12/2015.
+Além do mais, a Corte de origem, instância soberana na análise de provas, concluiu pela não comprovação da dependência econômica da parte recorrente em relação aoseufilhofalecido, com apoio nas provas acostadas aos autos, in verbis(e-STJ fls. 170/171):
+A fim de comprovar a alegada dependência econômica de seu filho, a parte autora apresentou os seguintes documentos: carteira de identidade e CPF da autora, certidão de óbito e CTPS do falecido Rondineli Vieira Clemente (ev. 2, ap. 1, p. 15/18) e contrato de parceria agrícola, em regime de economia familiar, constando a autora e seu marido como parceiros meeiros (ev. 2, ap. 1, p. 19/20).
+Entretanto, tais documentos não são suficientes para comprovar a alegada dependência da autora em relação ao seu falecido filho.
+Embora fosse o segurado falecido solteiro e sem filhos, tal situação por si só não dá aos ascendentes, no caso à mãe, o direito à pensão por morte de pronto, pois tal dependência não pode ser presumida.
+Verifica-se, também, que os depoimentos prestados pelas testemunhas na audiência de instrução e julgamento (ev. 2, ap. 2, p. 27/29) demonstram apenas que o falecido prestava uma ajuda financeira, mas não necessariamente que a autora dependia economicamente dele. Conforme bem observou o Eminente Magistrado, "o núcleo familiar é composto de trabalhadores rurais, não sendo a ajuda/participação do finado, indispensável à subsistência doméstica. Ao menos, tal cenário não restou delineado."
+não conhAssim sendo, não merece reforma a sentença de 1º grau, porquanto os elementos constantes dos autos não comprovaram a existência de dependência econômica entre a autora e o filho falecido.
+A modificação desse esse entendimento demandaria necessariamente o reexame de matéria fático-probatória, providência vedada em sede de recurso especial ante o óbice estampado na Súmula 7 do STJ.
+Nesse sentido, confiram-se os seguintes julgados:
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. PENSÃO POR MORTE. AUSÊNCIA DE COMPROVAÇÃO DE DEPENDÊNCIA ECONÔMICA. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.
+1. Não pode esta Corte Superior rever o entendimento, baseado no conjunto de fatos e de provas dos autos, firmado pelo Tribunal local, no sentido de que não ficou comprovada a dependência econômica entre parte autora (filho maior que recebe aposentadoria por invalidez) e o instituidor do benefício.
+2. A averiguação do preenchimento dos requisitos para a concessão do benefício previdenciário em debate é medida que implicaria em reexame do arcabouço de fatos e provas integrantes dos autos, o que é vedado do STJ, a teor de sua Súmula 7/STJ.
+3. Agravo interno a que se nega provimento. (AgInt no AREsp 938.392/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/11/2017, DJe 21/11/2017).
+PREVIDENCIÁRIO. PENSÃO POR MORTE. EX-CÔNJUGE. COMPROVAÇÃO DE DEPENDÊNCIA ECONÔMICA NÃO DEMONSTRADA. REVALORAÇÃO DA PROVA.
+DESCABIMENTO. REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Para fins de percepção de pensão por morte, a dependência econômica entre o ex-cônjuge e o segurado falecido deve ser demonstrada, não podendo ser presumida.
+2. No caso dos autos, o acórdão recorrido entendeu que "o conjunto probatório apresentado nos autos não logrou êxito em comprovar a alegada dependência econômica entre a parte autora e o de cujus".
+ ..  5. Tendo o acórdão de origem assentado suas conclusões sobre a prova juntada aos autos, não se pode acolher a pretensão recursal sem proceder ao revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+6. Agravo Interno não provido (AgInt no AREsp 899.286/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/08/2016, DJe 09/09/2016).
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
