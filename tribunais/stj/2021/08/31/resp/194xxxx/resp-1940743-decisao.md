@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão assim ementado (fl. 464, e-STJ):
+- Execução de título extrajudicial - Crédito de contribuições de condomínio - Embargos à execução - Tem responsabilidade, pelo débito, o proprietário do imóvel sobre o qual incidem as despesas condominiais, diante do caráter propter rem da obrigação.
+- Embargos à execução são o meio adequado para o executado se opor à execução (CPC, art. 914), ou seja, para que ele possa deduzir sua defesa, com base nas matérias elencadas no art. 917 do mesmo Código, não para que seja pleiteada indenização por dano moral, que, ademais, não tinha razão de ser, porque o embargado não praticou nenhum ilícito Embargos rejeitados - Apelo provido.
+Em suas razões, a parte recorrente sustenta a ocorrência de divergência jurisprudencial. Argumenta que a efetiva posse do imóvel é o que define o momento a partir do qual responde o comprador pelas despesas condominiais.
+Defende, também, ter havido violação ao art. 917 do Código de Processo Civil de 2015. Afirma que, em observância aos princípios da economia processual e da instrumentalidade das formas, poderia ser admitida a formulação de pedido de condenação da parte embargada ao pagamento de compensação por danos morais.
+Foram apresentadas contrarrazões às fls. 490/507, e-STJ.
+O recurso foi admitido na origem, nos termos da decisão de fls. 537/539, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Verifico, de início, que a parte recorrente não indicou os dispositivos de lei federal que teriam sido objeto de divergência jurisprudencial por parte do Tribunal de origem. Essa situação configura deficiência na fundamentação e atrai, assim, o óbice da Súmula 284/STF.
+Registro, também, que o dissídio jurisprudencial não for demonstrado na forma exigida pelos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, parágrafos 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça.
+A simples transcrição de ementas ou votos, sem a exposição clara e precisa das circunstâncias que identifiquem ou assemelhem os casos confrontados, não autoriza haver por atendida a suposta divergência. Tais circunstâncias prejudicam a compreensão da controvérsia e atraem o óbice contido no enunciado n. 284 da Súmula do STF.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. DANOS MORAIS. VALOR. CORREÇÃO MONETÁRIA. TERMO INICIAL. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVO LEGAL. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. DECISÃO MANTIDA.
+1. O conhecimento do recurso especial fundamentado na alínea "c" do permissivo constitucional exige a indicação dos dispositivos legais que supostamente foram objeto de interpretação divergente. Ausente tal requisito, incide a Súmula n. 284/STF.
+2. Não se considera comprovado o dissídio jurisprudencial, se não houve demonstração da divergência, mediante verificação das circunstâncias que assemelhem ou identifiquem os casos confrontados e realização de cotejo analítico entre elas (art. 541, parágrafo único, do CPC/1973).
+3. Agravo interno a que se nega provimento.
+(AgInt no REsp 1450854/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 19/8/2019, DJe 22/8/2019)
+AGRAVO INTERNO NO AGRAVO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. CONTRATO DE PERMUTA. VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. IMPOSSIBILIDADE DE EXAME PELO STJ. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ARGUMENTOS GENÉRICOS. INCIDÊNCIA. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. COTEJO ANALÍTICO NÃO EFETUADO. PRESCRIÇÃO DA PRETENSÃO. OBRIGAÇÃO PESSOAL. INCIDÊNCIA DO ART. 205 DO CC/2002. NÃO OCORRÊNCIA. SÚMULA 83/STJ. ALEGAÇÃO DE VIOLAÇÃO A ARTIGOS DE LEI. INOVAÇÃO RECURSAL. LEGITIMIDADE PASSIVA AD CAUSAM RECONHECIDA NA ORIGEM. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DE INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS E DO REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULAS 5 E 7/STJ. APLICAÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Inviável a análise de ofensa aos dispositivos constitucionais, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada à Corte Suprema.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Aplica-se, na hipótese, o óbice da Súmula 284 do STF.
+3. O dissídio jurisprudencial não foi comprovado, pois a parte agravante não efetuou o devido cotejo analítico entre as hipóteses apresentadas como divergentes, com transcrição dos trechos dos acórdãos confrontados, bem como menção das circunstâncias que os identifiquem ou assemelhem, nos termos dos arts. 541, parágrafo único, do CPC/1973 (ou 1.029, § 1º, do CPC/2015) e 255, §§ 1º e 2º, do RISTJ.
+4. Tendo o acórdão recorrido decidido em consonância com a jurisprudência desta Casa, incide, na hipótese, o enunciado n. 83 da Súmula do Superior Tribunal de Justiça, que abrange os recursos especiais interpostos com amparo nas alíneas a e/ou c do permissivo constitucional. Precedentes.
+5. A alegação de cerceamento de defesa pelo julgamento antecipado da lide somente foi trazida nas razões do recurso especial, constituindo indevida inovação recursal, e torna inviável a análise do pleito ante a configuração da preclusão consumativa.
+6. A revisão da conclusão estadual - acerca da legitimidade ativa da recorrida; da legitimidade passiva do recorrente e de não ocorrência da alegada novação e consequente extinção da obrigação - demandaria a interpretação de cláusulas contratuais e o revolvimento do acervo fático-probatório dos autos, providências inviáveis no âmbito do recurso especial, ante os óbices das Súmulas 5 e 7/STJ.
+7. A incidência da Súmula n. 7/STJ também impede rever a conclusão do TJPR de que os embargos declaratórios tiveram nítido caráter protelatório, o que culminou na aplicação da multa prevista no art. 1.026, § 2º, do CPC/2015.
+8. Razões recursais insuficientes para a revisão do julgado.
+9. Agravo interno desprovido.
+(AgInt no AREsp 1180510/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/6/2019, DJe 25/6/2019)
+O Tribunal de origem, ao analisar a controvérsia, concluiu que os embargos à execução seriam instrumento adequado para dedução de defesas, e não para postulação de pedidos em face do embargado. Consignou que, de toda forma, o autor não teria praticado ato ilícito, razão pela qual não estaria obrigado a compensar danos de ordem moral (fls. 467/468, e-STJ):
+Por outro lado, embargos à execução são o meio adequado para o executado se opor à execução (CPC, art. 914), ou seja, para que ele possa deduzir sua defesa, com base nas matérias elencadas no art. 917 do mesmo Código.
+Não servem os embargos, porém, para que o executado deduza pretensão de indenização por dano moral, que, evidentemente, não se trata de matéria de defesa e deve ser postulada em ação própria.
+Além disso, como se viu, o autor não praticou ilícito, donde não havia causa para condená-lo ao pagamento de indenização moral.
+Verifico, entretanto, que os referidos fundamentos não foram rebatidos de forma específica pela parte recorrente, de modo que o recurso, no ponto, encontra óbice na Súmula 283 do Supremo Tribunal Federal.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO. ACÓRDÃO RECORRIDO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF. PROVAS. DANOS MORAIS. SÚMULA Nº 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. SÚMULA Nº 54/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+3. Rever a conclusão do aresto impugnado acerca das provas produzidas nos autos encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+4. O termo inicial dos juros moratórios inicia-se da data do evento danoso, quando decorrente de ato ilícito proveniente de responsabilidade extracontratual.
+5. Agravo interno não provido.
+(AgInt no AREsp 1182938/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/8/2018, DJe 27/8/2018)
+PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 1.022 CPC/20015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211/STJ).
+4. A subsistência de fundamento não impugnado, apto a manter a conclusão do aresto, impõe o reconhecimento da incidência da Súmula n. 283 do STF, por analogia.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+6. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova e da interpretação das cláusulas contratuais, concluiu pela inexistência de relação de consumo, pois o mutuário não visou ao incremento de atividade empresarial, e pela caracterização de culpa in vigilando e in eligendo. Entender de modo contrário implicaria reexame de matéria fática e interpretação do ajuste celebrado, o que é vedado em recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1197343/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/5/2020, DJe 28/5/2020)
+Em face do exposto, não conheço do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
