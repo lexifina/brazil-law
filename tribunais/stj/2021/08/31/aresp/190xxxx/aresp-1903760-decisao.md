@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto contra decisão que inadmitiu o recurso especial por incidência da Súmula n. 7 do STJ (e-STJ fls. 132/133).
+O acórdão recorrido está assim ementado (e-STJ fl. 79):
+AGRAVO DE INSTRUMENTO. TELEFONIA. CUMPRIMENTO DE SENTENÇA. DECISÃO QUE INTIMOU A DEVEDORA A APRESENTAR COPIA DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. RECURSO DA EXECUTADA. ILEGITIMIDADE ATIVA. PRELIMINAR AFASTADA EM SENTENÇA JÁ TRANSITADA EM JULGADO. RESPEITO À COISA JULGADA QUE SE IMPÕE. APRESENTAÇÃO DO CONTRATO DE PARTICIPAÇÃO FINANCEIRA. NECESSIDADE. CONTRATO CELEBRADO NA MODALIDADE PLANO DE EXPANSÃO (PEX). PRESUNÇÃO DE VERACIDADE DOS VALORES APRESENTADOS PELA EXEQUENTE. ART. 524, § 5 9 , DO CPC. APLICABILIDADE. RECURSO CONHECIDO E DESPROVIDO.
+No especial (e-STJ fls. 1.167/1.190), fundamentado no art. 105, III, "a", da CF, osrecorrentes alegaram que(e-STJ fl. 1.190):
+(..)a nulidade processual decorrente da não apreciação e fundamentação dos embargos declaratórios e/ou anulando todos os atos decisórios nulos a contar do despacho saneador, inclusive, a sentença, por cerceamento de defesa, determinando-se, pois, mais uma vez que em respeito às normas processuais e, sobretudo à coisa julgada (acórdão da primeira apelação) que o d. juízo a quo proferira decisão de saneamento como prevê o artigo 357, II, CPC, para especificar, deferir e admitir as provas pretendidas de maneira fundamentada, como preceitua o art. 489, parágrafo primeiro, do CPC.
+Alternativamente e considerando que o julgador monocrático já apreciou e indeferiu a prova pericial (apenas por ocasião da AIJ e na sentença prolatada posteriormente) ainda que sob fundamentação teratológica, data venia, requer seja deferida a prova pericial contábil, com trâmites normais de quesitação oportuna (inclusive, suplementares), sem prejuízo de eventual designação de nova AIJ para coleta de prova oral e possível oitiva de esclarecimentos do perito.
+No agravo (e-STJ fls. 1.231/1.239), afirmam a presença de todos os requisitos de admissibilidade do especial.
+Não foi apresentada contraminuta (e-STJ fls. 1.244/1.246).
+É o relatório.
+Decido.
+Não há falar em negativa de prestação jurisdicional, pois o Tribunal "a quo" pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fl.1.164):
+Compulsando-se os autos, observa-se que os embargantes foram intimados da sentença em 22/07/2019 e o recurso de apelação foi interposto em 23/08/2019. De modo que, a apelação foi interposta após o termo ad quem do prazo recursal de quinze dias. Não havendo o que se falar em suspensão de efeito em razão do agravo de instrumento. O recurso de apelação é intempestivo.
+Cumpre asseverar que o não acatamento das teses contidas no recurso não constitui omissão, uma vez que ao Julgador cabe apreciar a questão de acordo com o seu livre convencimento (art. 131 do antigo CPC ou art. 371 do NCPC), utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso.
+O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão proferido pelo Tribunal de origem, a fim de permitir ao órgão colegiado cotejar os fundamentos lançados na decisão judicial com as razões expendidas no recurso.
+No caso, as razões recursais apresentadas encontram-se dissociadas do que foi decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do recurso especial e atrai, por analogia, a Súmula n. 284/STF.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
