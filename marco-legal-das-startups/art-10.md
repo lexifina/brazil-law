@@ -1,0 +1,1 @@
+Art. 10. Ato do Poder Executivo federal regulamentará a forma de prestação de contas do FIP, do fundo patrimonial ou da instituição pública que receber recursos nos termos do art. 9º desta Lei Complementar e a fiscalização das obrigações legais ou contratuais de investimento em pesquisa, desenvolvimento e inovação.
