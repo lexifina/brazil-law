@@ -1,0 +1,14 @@
+DECISÃO
+GABRIEL FERREIRA CAMPOS DE OLIVEIRA e FERRARE FREITAS DE MELO JUNIOR alegam sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Habeas Corpus n. 0806885-68.2020.8.02.0000, em que foram mantidas suas prisões preventivas.
+Depreende-se dos autos que os recorrentes "supostamente teriam participado do homicídio qualificado (art. 121, II e IV, do CP) que vitimou José Augusto Alves de Oliveira, e da tentativa de homicídio qualificado (art. 121, II e IV, c/c art. 14, II, do CP), cometido em face de Emerson Henrique de Jesus Silva, fatos ocorridos em 22 de junho de 2019" (fl. 525).
+Assere a defesa que "os fundamentos invocados no decreto prisional, mantidos pelo Tribunal a quo, não demonstram a imprescindibilidade da prisão para que o processo se desenvolva regularmente e atinja os seus objetivos. A única finalidade dos fundamentos lançados, data venha, é veladamente antecipar a eventual sanção penal, em desafio ao princípio constitucional do estado de inocência e ao entendimento pretoriano já consolidado" (fl. 537).
+Não concedida a medida liminar e prestadas as informações, foram os autos ao Ministério Público Federal, que pugnou pelo não provimento do recurso em habeas corpus.
+Decido.
+Ao decretar a prisão preventiva, apontou o Juízo de primeira instância que, "não obstante o privilégio da atual previsão legal para a aplicação de outras medidas cautelares que não a prisão preventiva, verifico que a medida resta necessária em atenção ao fundamento da garantia da ordem pública, que se mostra em risco iminente, dada a possibilidade de reiteração delitiva, visto que os mesmos possuem registro de incursão no mundo da criminalidade" (fl. 37, grifei).
+A esse respeito, é imperioso destacar que " i nquéritos policiais e processos penais em andamento, muito embora não possam exasperar a pena-base, a teor da Súmula 444/STJ, constituem elementos aptos a revelar o efetivo risco de reiteração delitiva, justificando a decretação ou a manutenção da prisão preventiva" (RHC n. 68550/RN, Rel. Min. Sebastião Reis Júnior, 6ª T., DJe 31/3/2016, grifei).
+No mesmo sentido:
+ ..
+4. Ao decretar a custódia preventiva, o Juízo singular ressaltou o fundado risco de reiteração delitiva, porquanto, além da ação penal objeto deste writ, o réu registra em seu desfavor outros procedimentos criminais e, até mesmo, condenação definitiva, pela prática de delitos de mesma natureza (reincidência específica), circunstância suficiente, nos termos da jurisprudência desta Corte Superior, para justificar a prisão cautelar.
+5. Ordem denegada (HC 468.845/SP, Rel. Ministro Rogerio Schietti, 6ª T., DJe 24/10/2018, destaquei).
+À vista do exposto, nos termos do art. 34, XX, c/c o art. 246, ambos do RISTJ, nego provimento ao recurso em habeas corpus.
+Publique-se e intimem-se.
