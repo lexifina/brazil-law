@@ -1,0 +1,27 @@
+DECISÃO
+GABRIELA FELIZARDO COSTAalega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0014989-09.2020.8.08.0035, em que foi mantido o indeferimento do pedido de prisão domiciliar.
+Nas razões do writ, alega a defesa postula a concessão de prisão domicilar enquanto perduarem os efeitos da pandemia, pois é grupo de risco, haja vista ser portadora de hipertensão arterial.
+A liminar foi indeferida.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem.
+Decido.
+Na hipótese, apaciente cumpre a pena de 25 anos e 4 meses de reclusão, em regime fechado, pela prática dedos crimes previstos no art. 33, caput, e art. 35, caput, ambos da Lei nº 11.343/06.
+Não olvido que ante a crise mundial da Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades, inclusive do Poder Judiciário. Nesse sentido, salienta a Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça a importância da "adoção de medidas preventivas à propagação da infecção pelo novo coronavírus - Covid-19 no âmbito dos estabelecimentos do sistema prisional e do sistema socioeducativo".
+Além disso, o mencionado texto, em seu art. 5º, recomenda "aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas":
+I - concessão de saída antecipada dos regimes fechado e semiaberto, nos termos das diretrizes fixadas pela Súmula Vinculante no 56 do Supremo Tribunal Federal, sobretudo em relação às:
+a) mulheres gestantes, lactantes, mães ou pessoas responsáveis por criança de até 12 anos ou por pessoa com deficiência, assim como idosos, indígenas, pessoas com deficiência e demais pessoas presas que se enquadrem no grupo de risco;
+b) pessoas presas em estabelecimentos penais com ocupação superior à capacidade, que não disponham de equipe de saúde lotada no estabelecimento, sob ordem de interdição, com medidas cautelares determinadas por órgão de sistema de jurisdição internacional, ou que disponham de instalações que favoreçam a propagação do novo coronavírus;
+II - alinhamento do cronograma de saídas temporárias ao plano de contingência previsto no artigo 9º da presente Recomendação, avaliando eventual necessidade de prorrogação do prazo de retorno ou adiamento do benefício, assegurado, no último caso, o reagendamento da saída temporária após o término do período de
+restrição sanitária;
+III - concessão de prisão domiciliar em relação a todos as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução;
+IV - colocação em prisão domiciliar de pessoa presa com diagnóstico suspeito ou confirmado de Covid-19, mediante relatório da equipe de saúde, na ausência de espaço de isolamento adequado no estabelecimento penal;
+V - suspensão temporária do dever de apresentação regular em juízo das pessoas em cumprimento de pena no regime aberto, prisão domiciliar, penas restritivas de direitos, suspensão da execução da pena (sursis) e livramento condicional, pelo prazo de noventa dias;
+A Corte de origem, ao manter o indeferimento do benefício prisional, destacou o seguinte (fl. 15, destaquei):
+No caso em apreço, embora não tenha sido juntado nenhum Laudo Médico nos autos, observo que a agravante é portadora de hipertensão arterial sistêmica, o que, de fato, a enquadra no grupo de risco do vírus COVID-19.
+Contudo, extrai-se do caderno processual que a agravante tem recebido atendimento médico adequado dentro do estabelecimento prisional para o tratamento de sua comorbidade. Outrossim, consoante as informações extraídas do sistema judicial SEEU, em consulta médica realizada no dia 11 de maio de 2020, a agravante apresentou-se em bom estado geral, sinais vitais estáveis e sem picos hipertensivos. Ademais, a paciente realiza tratamento para transtorno de humor não especificado, fazendo acompanhamento psiquiátrico e uso de medicação.
+Em consulta realizada no sistema INFOPEN/ES, não foram verificados registros recentes de que a agravante tenha necessitado de atendimento médico de urgência.
+Desse modo, considerando o exposto, entendo que a agravante Gabriela não se encontra em situação de vulnerabilidade extrema ou elevado risco que indique a imediata necessidade de substituição de sua prisão em domiciliar.
+Saliento, ainda, que o fato desta integrar grupo de risco não constitui fundamentação automática para a concessão de prisão domiciliar  .. .
+Dessa forma, percebe-se que as instâncias ordinárias apontaram elementos concretos a partir dos quais concluíram estar ausente o requisito subjetivo para concessão da benesse, visto que a despeito da comprovação de comorbidade pré-existente, não foi apontado agravamento do quadro clínico, tampouco foi demonstrada a impossibilidade atendimento médico no interior do estabelecimento prisional.
+Por fim, aponto que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+À vista do exposto, denego o habeas corpus.
+Publique-se e intimem-se.
