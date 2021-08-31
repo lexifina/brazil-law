@@ -1,0 +1,24 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+COMARCA DE CUIABÁ
+Turma Recursal Única
+Dr. Sebastião de Arruda Almeida – Juiz de Direito – Relator
+Vistos, etc.
+Trata-se de Recurso Inominado visando reformar suposta decisão interlocutória que arbitrou índices de percentual da defasagem encontrada pelo não pagamento da URV, anotando a alegação de prescrição e existência de súmula da Turma Recursal a tratar sobre o tema, de onde a decisão do magistrado determina que as partes apresentem os valores de conta para posterior homologação pelo magistrado.
+Inicialmente, importa salientar que não houve mudança de entendimento deste relator e que a condição “sui generis” do presente feito, não altera o convencimento fundamentado e sedimentado sobre a matéria, sendo o presente feito derivado de uma sentença com trânsito em julgado, que deve ser executada.
+Pois bem. Após detido exame dos autos, tenho que, o Recurso Inominado não transpôs o juízo de admissibilidade. Isto porque, a decisão atacada através de Recurso Inominado não é uma sentença e sim mera decisão interlocutória.
+Logo, tenho que reconhecer a inadequação da via eleita pela parte recorrente, notadamente, diante da ausência de previsão legal de recurso contra as decisões interlocutórias prolatadas no rito especializado e, por conseguinte, inaplicabilidade do princípio da fungibilidade dos recursos no caso dos autos.
+Nesse sentido, segue a jurisprudência uníssona de Nossos Tribunais:
+Ementa: RECURSO INOMINADO. INSURGÊNCIA CONTRA DECISÃO QUE DETERMINOU A DEGRAVAÇÃO DE PROVA COMPLEXA. DECISÃO DE NATUREZA INTERLOCUTÓRIA. PREVALÊNCIA DO PRINCÍPIO DA IRRECORRIBILIDADE DAS DECISÕES INTERLOCUTÓRIAS NA SISTEMÁTICA DOS JUIZADOS ESPECIAIS CÍVEIS. RECURSO NÃO CONHECIDO. (Recurso Cível No 71004417044, Segunda Turma Recursal Cível, Turmas Recursais, Relator: Alexandre de Souza Costa Pacheco, Julgado em 16/10/2013).
+Ementa: PROCESSUAL CIVIL. RECURSO INOMINADO CONTRA DECISÃO INTERLOCUTÓRIA. VIA INADEQUADA. INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE DOS RECURSOS. ERRO GROSSEIRO. RECURSO NÃO CONHECIDO. 1. A VIA ADEQUADA PARA POSTULAR A REFORMA OU CASSAÇÃO DE DECISÃO INTERLOCUTÓRIA É A RECLAMAÇÃO. 2. PRELIMINARMENTE, A DESPEITO DE O RECURSO INOMINADO TER SIDO RECEBIDO NO JUÍZO SINGULAR COMO RECLAMAÇÃO, ANALISO NOVAMENTE OS PRESSUPOSTOS DE SUA ADMISSIBILIDADE, EIS QUE SE CUIDA DE QUESTÃO DE NATUREZA PÚBLICA, PODENDO SER CONHECIDA A QUALQUER TEMPO E DE OFÍCIO PELO JULGADOR. 3. A APLICAÇÃO DO PRINCÍPIO DA FUNGIBILIDADE DOS RECURSOS PRESSUPÕE A OBSERVÂNCIA DE CERTOS REQUISITOS, DENTRE ELES A INEXISTÊNCIA DE ERRO GROSSEIRO NA ESCOLHA DO REMÉDIO PROCESSUAL. 4. RECURSO NÃO CONHECIDO. (TJ-DF - DVJ: 0 DF , Relator: FLÁVIO FERNANDO ALMEIDA DA FONSECA, Data de Julgamento: 23/11/2010, PRIMEIRA TURMA RECURSAL DOS JUIZADOS ESPECIAIS CÍVEIS E CRIMINAIS DO DF, Data de Publicação: 30/11/2010, DJ-e Pág. 245).
+Com efeito, o enfrentamento da questão pode e deve ser decidida de forma monocrática pelo próprio relator, nos moldes sedimentados pelo artigo 932, II do NCPC, senão vejamos:
+“Art. 932. Incumbe ao relator:
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida;”
+O mesmo entendimento ainda vem lastreado na Súmula 01 da Turma Recursal, assim redigida:
+“SÚMULA 01: O Relator, em decisão monocrática, poderá negar seguimento a recurso manifestamente inadmissível, prejudicado ou que não tenha impugnado especificadamente os fundamentos da decisão recorrida ou, negar provimento a recurso que esteja dentro dos ditames do artigo 932, IV, “a”, “b” e “c” do Novo CPC, cabendo recurso de agravo interno, no prazo de 15 (quinze) dias, para a decisão colegiada da Turma Recursal. (nova redação aprovada em 12/09/2017).”
+Por tais motivos, NÃO CONHEÇO do Recurso Cível interposto, por se tratar de insurgência contra decisão de natureza interlocutória.
+Em face do que dispõe o art.55 da mencionada Lei dos Juizados Especiais Cíveis e Criminais, condeno a parte recorrente ao pagamento de honorários advocatícios na base de 10% (dez por cento) sobre o valor da causa.
+Anoto ainda, que como o feito passou a tramitar perante os Juizados da Fazenda Pública, as regras aplicáveis são restritas do mesmo, sendo que, eventuais valores pretendidos devem se limitar ao valor de até 60 (salários) mínimos com base na data do ajuizamento da ação, de onde os valores anteriores ao ajuizamento apenas poderão sofrer a atualização que pelos índices determinados até a aludida data e o que superar o teto dos juizados especiais da fazenda pública, na data do aviamento da ação, deverão ser impreterivelmente glosados, e respeitado esse limite, a partir do ajuizamento da ação incidirão os juros de mora e atualização aplicáveis do decorrer do tempo de trâmite.
+Preclusa a via recursal, retornem os autos ao Juizado de origem.
+Dr. Sebastião de Arruda Almeida
+Juiz de Direito – Relator
