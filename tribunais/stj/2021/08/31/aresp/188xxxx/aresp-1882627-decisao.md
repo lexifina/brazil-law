@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fl. 599, e-STJ):
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA. ATRASO NA ENTREGA DE UNIDADE IMOBILIÁRIA. AUTORES QUE NÃO OBTIVERAM O FINANCIAMENTO PARA QUITAÇÃO DO SALDO ANTES DA CONCLUSÃO DA OBRA, NÃO HAVENDO QUALQUER PROVA NOS AUTOS DE QUE ISSO TENHA OCORRIDO DEVIDO À AUSÊNCIA DO HABITE-SE. DEMANDANTES QUE NÃO PODEM EXIGIR O CUMPRIMENTO DA OBRIGAÇÃO DA OUTRA PARTE, SEM QUE ANTES TENHAM CUMPRIDO COM A SUA. JURISPRUDÊNCIA. MANUTENÇÃO DA SENTENÇA. DESPROVIMENTO DO RECURSO.
+Nas razões do recurso especial, a parte ora agravante alega violação aos arts. 48, § 2º, da Lei 4.591/64; 14, 18 do Código de Defesa do Consumidor; 317, 322, 327, 944 do Código Civil; 489, § 1º e 1.022, I, do Código de Processo Civil de 2015.
+Afirma, inicialmente, que o Tribunal de origem teria sido omisso, por não ter analisado todas as questões suscitadas.
+Argumenta que o imóvel foi entregue fora do prazo contratualmente previsto e que, por isso, deve ser reconhecida a mora da parte recorrida e ela deve ser condenada ao pagamento de indenização por danos materiais de compensação pelos danos morais suportados.
+Foram apresentadas contrarrazões às fls. 662/665, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+Quanto às alegações de ofensa aos arts. 489, § 1º e 1.022, I, do Código de Processo Civil de 2015, verifico que essas não merecem prosperar. Isso porque, consoante entendimento consolidado desta Corte, o recorrente não possui o direito de ter todos os argumentos alegados rebatidos, cabendo ao tribunal analisar e debater as questões principais para o deslinde da controvérsia.
+Ademais, verifico que o Tribunal de origem analisou expressamente as questões levantadas pela parte recorrente, de modo que não configura omissão ou negativa de prestação jurisdicional o fato de o acórdão ter sido proferido em sentido contrário ao desejado por ela.
+Dessa forma, tendo a decisão analisado de forma fundamentada as questões trazidas, não há que se falar nos vícios apontados, nos termos do acórdão cuja ementa transcrevo abaixo:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ARTS. 489 E 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. JULGAMENTO ULTRA PETITA. EXCESSO. EXTIRPAÇÃO. POSSIBILIDADE. NÃO PROVIMENTO.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. A decisão que julga além dos limites da lide não precisa ser anulada, devendo ser eliminada a parte que constitui o excesso. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1339385/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 9/4/2019, DJe 12/4/2019)
+No mais, o recurso esbarra nos óbices das Súmulas 5 e 7/STJ. Senão, vejamos.
+O Tribunal de origem, ao analisar a controvérsia, reconheceu que o imóvel, realmente, não estava pronto na data prevista no contrato, mas pontuou, por outro lado, que os adquirentes não cumpriram as exigências para o recebimento das chaves. Entendeu, dessa forma, que os autores, nos termos do art. 476 do Código Civil, não poderiam exigir o cumprimento da obrigação da outra parte, sem que antes tivessem cumprido com a sua.
+Transcrevo os fundamentos adotados pelo colegiado (fls. 601/602, e-STJ):
+No caso em comento, em que pese realmente o imóvel dos autores não estar totalmente pronto na data contratualmente prevista, certo é, também, que não demonstraram eles possuir as condições exigidas para o recebimento das chaves.
+Isso porque os autores não haviam cumprido a sua obrigação contratual na data prevista para o aceite da obra (index 00044, cláusula 3.23), tampouco apresentaram qualquer justificativa para tanto, sendo certo que no laudo emitido pela CEF (index 000491) não há qualquer menção a que o financiamento pretendido tenha sido recusado ou demorado a sair em razão de conduta da apelada.
+Veja-se que as alegações dos apelantes não correspondem à realidade, pois em suas razões alegam que em e-mail datado de 10/05/2016 receberam informações de que o financiamento estava aprovado (index 000550). Entretanto, verifica-se que a vistoria da CEF no imóvel ocorreu em 03/05/2016 (index 00493).
+Ora, fácil concluir que se os atrasos e pendências da obra fossem o fator determinante para a demora na concessão do financiamento, certamente não seriam os sete dias decorridos entre a vistoria e o e-mail citado suficientes para a resolução do problema, até mesmo porque os próprios apelantes informam ter recebido e-mail da apelada, no dia 12/05/2016, dizendo que realizaria as obras sanitárias para que o imóvel fosse aprovado na vistoria da Caixa, a qual, repita-se conforme se extrai do documento de index 000493, ocorreu em 03/05/2016.
+Percebe-se, portanto, que a narrativa dos apelantes não corresponde à realidade fática que consta nos autos, concluindo-se que eles não preenchiam os requisitos necessários ao recebimento do imóvel na data prevista no contrato.
+Tem-se, portanto, verdadeiro caso de exceção do contrato não cumprido, ou seja, não pode a parte que não cumpriu com a sua prestação exigir da outra que cumpra a prestação que lhe é devida. Trata-se de regra prevista no art. 476 do Código Civil, cujo teor abaixo se transcreve:
+Art. 476. Nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro.
+A alteração dessas premissas demandaria a interpretação de cláusulas contratuais e o reexame de provas, providências vedadas em recurso especial, nos termos das Súmulas 5 e 7 do Superior Tribunal de Justiça.
+Em face do exposto, não havendo o que reformar, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
