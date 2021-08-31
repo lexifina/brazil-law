@@ -1,0 +1,47 @@
+DECISÃO
+JAIME GUILHERME DA SILVEIRA (JAIME) ajuizouação de obrigação de fazer com pedido de tutela de urgência cumulada com indenização por danos morais contra SÃO FRANCISCO SISTEMAS DE SAÚDE SOCIEDADE EMPRESÁRIA LIMITADA (SÃO FRANCISCO SISTEMAS), objetivando que SÃO FRANCISCO SISTEMAS restabeleça o plano de saúde, tendo em vista o cancelamento unilateral e imotivado, e seja condenado ao pagamento de indenização por danos morais.
+Em primeira instância, os pedidos foram julgados procedentes para condenar SÃO FRANCISCO SISTEMAS na obrigação de fazer no tocante ao restabelecimento do plano de saúde ao JAIME e os seu beneficiários, nas mesmas condições anteriores ao cancelamento, bem como condenar SÃO FRANCISCO SISTEMAS ao pagamento de indenização por danos morais no valor de R$ 10.000,00 (dez mil reais). Custas processuais e honorários advocatícios fixados em 10% sobre o valor da condenação em desfavor de SÃO FRANCISCO SISTEMAS.
+JAIME e SÃO FRANCISCO SISTEMAS apelaram da sentença. O TJSP negou provimento aos recursos nos termos do acórdão de relatoria do Des. ALEXANDRE COELHO, assim ementado:
+APELAÇÃO PLANO DE SAÚDE Ação de obrigação de fazer, com pedido de danos morais, consistente no restabelecimento de plano de saúde coletivo, a fim de afastar a rescisão unilateral da operadora - Denúncia unilateral e imotivada de contrato coletivo Inteligência do artigo 13, parágrafo único, II, da Lei 9.656/98 Aplicação a contratos coletivos Precedentes Embora se trate de plano de saúde coletivo, a operadora de saúde não tem a prerrogativa de rescindir unilateralmente a avença de forma imotivada Ademais, ausência da devida notificação prevista no artigo 17 da lei supracitada - Danos morais cabíveis Circunstâncias excepcionais Rescisão unilateral que extrapolou o mero aborrecimento cotidiano Indenização por danos morais, no valor de R$10.000,00, bem fixada Relação contratual que determina termo inicial dos juros de mora da citação NEGARAM PROVIMENTO AOS RECURSOS (e-STJ,fl. 191).
+Os embargos de declaração opostos por SÃO FRANCISCO SISTEMAS foram rejeitados(e-STJ, fls. 217/220).
+Irresignada, SÃO FRANCISCO SISTEMAS interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts.489, § 1º,IV e 1.022, II,ambos do Código de Processo Civil, sustentando que a Turma julgadora, mesmo instada a fazê-lo, por intermédio dos embargos de declaração, não se manifestou sobre o fato de que a obrigação de notificação prévia aos beneficiários do plano coletivo é exclusiva do contratante do serviço, e não da SÃO FRANCISCO SISTEMAS.
+Contrarrazões de recurso especial não apresentadas (e-STJ, fl. 224).
+O apelo nobre não foi admitido em virtude da ausência de omissão no aresto recorrido.
+Nas razões do presente agravo em recurso especial, SÃO FRANCISCO SISTEMAS afirmou que as questões postas não foram abordadas e nem decididas no acórdão recorrido.
+Não foi apresentada contraminuta (e-STJ, fl. 244).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da ausência de violação dosarts. 489, §1º, IV e 1.022, II,do Código de Processo Civil
+SÃO FRANCISCO SISTEMAS sustentou que a Turma julgadora, mesmo instada a fazê-lo, por intermédio dos embargos de declaração, não se manifestou sobre o fato de que a obrigação de notificação prévia aos beneficiários do plano coletivo é exclusiva do contratante do serviço, e não da SÃO FRANCISCO SISTEMAS.
+Contudo, verifica-se que o Tribunal bandeirante se pronunciousobre as controvérsiasa que SÃO FRANCISCO SISTEMAS reputou não teremsido enfrentadas,consignando o seguinte:
+No caso dos autos, no entanto, ainda que exista cláusula que preveja expressamente a possibilidade de rescisão imotivada, a seguradora não notificou (artigo 17 da lei de planos de saúde) o apelado que, ainda que seja o beneficiário e não o contratante, é por obvio, o maior interessado e mantém efetiva relação jurídica com a seguradora. Ademais, não foi por ela provado que notificou o autor acerca da possibilidade de migração para plano individual, o que também é imprescindível.
+Aliás, confessa a seguradora, que a notificação foi efetivada somente após o ajuizamento desta ação e endereçada à contratante, circunstância que, em descumprimento ao princípio da boa-fé objetiva que permeia os contratos, atingiu o segurado de surpresa ante a negativa de atendimento.
+Portanto, no caso, ausente comprovação de que foram atendidos os requisitos da RN 17/2009 e da RN 19/1999, única forma de se justificar a rescisão unilateral (e-STJ, fls. 194/195).
+Assim, inexistem os vícios elencados nosarts.489, §1º, IV e 1.022, IIdo Código de Processo Civil, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+A jurisprudência desta Casa é pacífica ao proclamar que, se os fundamentos adotados bastam para justificar o concluído na decisão, o julgador não está obrigado a rebater, um a um, os argumentos utilizados pela parte.
+Nesse sentido, confira-se o seguinte precedente:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. EMBARGOS DE DECLARAÇÃO. PRESTAÇÃO JURISDICIONAL COMPLETA. PREQUESTIONAMENTO.AUSÊNCIA PARCIAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. NECESSIDADE DE REEXAME DE MATÉRIA FÁTICA. SÚMULAS 282, 283, 284 E 356/STF E 7/STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, deve ser afastada a alegada violação aos arts. 489 e 1.022 do Código de Processo Civil.
+2. Não se admite o recurso especial quando a questão federal nele suscitada não foi enfrentada no acórdão recorrido. Incidem as Súmulas 282 e 356 do Supremo Tribunal Federal (STF).
+3. A jurisprudência desta Corte considera deficiente a fundamentação quando a parte não indica o dispositivo legal violado, ainda que para efeito da divergência jurisprudencial. Incidência, por analogia, da Súmula 284 do Supremo Tribunal Federal.
+4. Ausência de impugnação específica a fundamento do acórdão recorrido atrai a incidência, por analogia, da Súmula 283 do Supremo Tribunal Federal.
+5. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula 7/STJ).
+6. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no REsp 1.711.630/SC, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, j. 16/8/2021, DJe 18/8/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL OBJETIVA. AUSÊNCIA DE OMISSÃO OU CARÊNCIA DE FUNDAMENTAÇÃO. JULGADO DEVIDAMENTE JUSTIFICADO. ENTENDIMENTO DA SEGUNDA INSTÂNCIA NO SENTIDO DA FALTA DE PROVAS DA CULPA EXCLUSIVA DA VÍTIMA. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO FIXADO EM MONTANTE RAZOÁVEL E PROPORCIONAL. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou mesmo carência de fundamentação a ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 11 e 489, § 1º, do CPC/2015.
+O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. Com base no acervo probatório constante nos autos, inclusive a prova técnica produzida, a segunda instância concluiu não ter ficado comprovada a culpa exclusiva ou concorrente da vítima. Logo, seria o caso de fixação de danos morais em favor de seus genitores em virtude da incidência da responsabilidade civil objetiva.
+3. A conclusão no sentido da responsabilidade civil da insurgente foi fundada em fatos e provas, atraindo a aplicação da Súmula 7/STJ, verbete que incide sobre ambas as alíneas do permissivo constitucional.
+4. Não cabe falar em conhecimento da pretensão pela redução da indenização, porquanto sua fixação pelos danos morais em R$ 20.000, 00 (vinte mil reais) para cada um dos genitores do falecido configurou quantia adequada e proporcional. Incidência do texto da Súmula 7/STJ.
+5. Agravo interno desprovido.
+(AgInt no AREsp 1.819.312/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j.16/8/2021, DJe 19/8/2021)
+Afastam-se, portanto, asalegadas violações.
+Nessas condições, CONHEÇO do agravo paraNEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor da SÃO FRANCISCO SISTEMAS em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se
+EMENTA
+PROCESSO CIVIL. AGRAVO EMRECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB À ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RESCISÃO UNILATERAL DA OPERADORA. AUSÊNCIA DA DEVIDA NOTIFICAÇÃO. RESPONSABILIDADE DA CONTRATANTE DO SERVIÇO. ALEGAÇÃO DE OMISSÃO EAUSÊNCIA DE FUNDAMENTAÇÃO. INEXISTÊNCIA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
