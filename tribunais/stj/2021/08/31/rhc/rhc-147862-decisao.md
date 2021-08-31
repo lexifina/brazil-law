@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por PABLO NIKERSON CAETANO SILVA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 5155839-72.2021.8.09.0000).
+Depreende-se dos autos que o recorrente encontra-se preso preventivamentepela práticaem tesedos crimes de tráfico e associação para o tráfico de drogas.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem nos termos da ementa de e-STJ fls. 1218/1219:
+HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO AO TRÁFICO. NEGATIVA DE AUTORIA. ILICITUDE DAS INTERCEPTAÇÕES TELEFÔNICAS. TRANCAMENTO DA AÇÃO PENAL. FALTA DE FUNDAMENTAÇÃO E DOS REQUISITOS DA PRISÃO PREVENTIVA. PREDICADOS PESSOAIS. RECOMENDAÇÃO 62 DO CNJ. EXTENSÃO DEBENEFÍCIO CONCEDIDO À CORRÉU.
+1. Incomportável, em sede de habeas corpus, a análise das teses de negativa de autoria ou de ilicitude de prova, por serem questões que demandam aprofundado exame de elementos de convicção, a ser exercitado em observância ao devido processo legal e contraditório, principalmente, quando o feito não se encontre suficientemente instruído, razão pela qual se afasta a pretensão sucessiva de trancamento da ação penal.
+2. Estando a prisão preventiva fundamentada na garantia da ordem pública, diante da gravidade extremada da suposta conduta, impositiva a sua manutenção, pelas circunstâncias do caso concreto.
+3. Os predicados pessoais não impõem a concessão da liberdade, se presente os requisitos da prisão preventiva.
+4. A recomendação 62/2020, do Conselho Nacional de Justiça, normativa que adota medidas preventivas à propagação da infecção pela covid-19, no âmbito dos sistemas de justiça penal, trouxe apenas critérios orientadores para reavaliação da prisão provisória de pessoas que estão encarceradas nesse cenário atual, instalado pela pandemia do coronavírus, não sugerindo, de forma indiscriminada, a soltura de presos pelo risco de contágio.
+5. Não há como estender benefício concedido a outro processado quando inexiste identidade de situação fático processual.
+6. Ordem parcialmente conhecida e, nesta extensão, denegada.
+Na presente irresignação, a defesa assere que a decisão que decretou a prisão preventiva do recorrente carece de fundamentação idônea. Acrescenta ser desnecessária a custódia cautelar, já que se revelam adequadas e suficientes medidas diversas da prisão.
+Afirma quenão houve demonstração concreta dos requisitos de estabilidade e permanência para a configuração do crime de associação para o tráfico.
+Declara, ainda, que"as interceptações telefônicas constantes nos autos em relação Recorrente não seguem os ditames da lei, portanto, ilícitas e ilegais, uma vez que o procedimento investigatório não observou as formalidades previstas na Lei n.9.296/96 e na Resolução n.59/2008 do Conselho Nacional de Justiça, assim ensejando sua nulidade" -e-STJ fls. 1246/1247.
+Por fim, assere que "todos os caminhos conduzem trancamento da ação penal neste crime de associação e acusações derivadas a ele imputado na denúncia, frente ao conjunto probatório domiciliado à demanda, em si sofrível e altamente defectível para operar e autorizar um juízo de censura contra o acusado"e-STJ fl. 1254.
+Requer, liminarmente e no mérito,"que este Tribunal sane o constrangimento ilegal sofrido pelo Recorrente, o qual está encarcerado sob argumentações genéricas e sem fundamentos específicos capazes de comprovar (COM FATOS E PROVAS VERÍDICAS, TUDO COM AS DEVIDAS AUTORIZAÇÕES JUDICIAIS) que ele estaria envolvido com o crime de tráfico de drogas e associação para o tráfico. Ocorre que, em nenhum momento, foi demonstrado pela acusação sua participação em qualquer umdestes atos. Frisa-se ainda queas interceptações telefônicas não possuíam autorização judicial" - e-STJ fls. 1265/1266.
+Liminar indeferida.
+O Ministério Público Federal manifestou-se pela prejudicialidade do recurso.
+É, em síntese, o relatório.
+Decido.
+O presente recurso está prejudicado.
+Isso, porque, consoante informações prestadas pela instância ordinária às e-STJ fls. 1338, o Magistrado de piso concedeuliberdade provisória ao ora recorrente, mediante aplicação de medidas cautelares diversas. Veja-se:
+5 - Em audiência de instrução e julgamento, acompanhando o parecer do Ministério Público foi concedido a liberdade provisória ao paciente, mediante a aplicação de cautelares diversas da prisão: "1- Não se ausentar da Comarca, por mais de trinta (30) dias consecutivos,nem mudar de residência sem comunicar este Juízo;2- Não se embriagar, em qualquer hipótese;3- Não frequentar bares, casas de jogos ou prostituição e outros lugares congêneres;4-Comparecer a todos os atos processuais a que for intimado;5- Ser submetido em período integral a processo de monitoração eletrônica (pelo prazo de 06 meses, findo o qual, permanecerá a liberdade do Requerente, bem como todas as outras medidas ora fixadas);6- Permanecer recolhido em sua residência durante o período recomendado pelo Ministério da Saúde e/ou Governo do Estado de Goiás, colaborando com a contenção do coronavírus.." (evento n. 71)
+.6 - Informo que o alvará de soltura acusado/paciente foi devidamente cumprido em evento n. 82, arq. 02;
+Assim, patente que o presente recurso está prejudicado, haja vista a perda superveniente de objeto.
+Ante o exposto, com base no art. 34, XI, do Regimento Interno desta Corte, julgo prejudicado o presente recurso.
+Publique-se. Intimem-se.
