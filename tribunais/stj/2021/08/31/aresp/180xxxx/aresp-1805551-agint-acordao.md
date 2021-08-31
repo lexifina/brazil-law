@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. ACÓRDÃO QUE MANTEVE A DETERMINAÇÃO DE ADEQUAÇÃO DO VALOR DA FATURA DE ENERGIA ELÉTRICA QUESTIONADA. REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Inicialmente, verifica-se que a agravante não indica os artigos da Lei 9.427/1996 supostamente violados. Desse modo, a incidência da Súmula 284 do STF é medida que se impõe.
+2. Quanto aos demais dispositivos legais, o que se observa da decisão a quo é que o Tribunal de origem, com base nos princípios da razoabilidade e da proporcionalidade, manteve o método de cálculo dos débitos das faturas de energia elétrica pretendido pelos autores sob o seguinte fundamento (fl. 448, e-STJ): "De outro lado, desconhecendo-se o real valor da diferença de consumo de energia elétrica pelo consumidor, a discussão limita-se quanto ao método a ser utilizado para o cálculo do débito constatado. Entende a concessionária aplicável o art. 130, III, da Resolução 414/2010 da ANEEL, ou seja, sua apuração com base na média dos 3 (três) maiores valores disponíveis de consumo, ocorridos em até 12 (doze) ciclos completos de medição regular, anteriores ao início da irregularidade.Todavia, correta a decisão ao determinar a correção da fatura, para o valor médio de consumo nos últimos 12 (doze) meses antecedentes à verificação da irregularidade, porque mais adequado aos princípios da razoabilidade e da proporcionalidade, se comparado com os pretendidos 3 (três) maiores valores de consumo. Esse o entendimento desta Corte de Justiça. (..)."
+3. Portanto, a reforma do decisum demanda reexame do acervo fático-probatório, o que encontra o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno contra decisão monocrática de fls. 732-734, e-STJ, que, reconsiderando a decisão da Presidência de fls. 643-644, e-STJ, afastou a intempestividade e, na sequência, conheceu do Agravo para não conhecer do Recurso Especial.
+A agravante requer o afastamento do óbice da Súmula 7/STJ. Alega:
+A matéria versada pelo Recurso Especial mostra-se como questão de Direito, sendo específica demais para ter sua apreciação pelo Colendo STJ impedida; importa dizer ainda, que não se faz necessária a análise de qualquer das provas produzidas no processo, mas apenas a interpretação e aplicação da legislação suscitada, o que somente poderá ser realizado por esta instância superior.
+Impugnação às fls. 757-758, e-STJ.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E DIREITO DO CONSUMIDOR. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO. ACÓRDÃO QUE MANTEVE A DETERMINAÇÃO DE ADEQUAÇÃO DO VALOR DA FATURA DE ENERGIA ELÉTRICA QUESTIONADA. REEXAME DO ACERVO PROBATÓRIO DOS AUTOS. INCIDÊNCIA DA SÚMULA 7/STJ.
+1. Inicialmente, verifica-se que a agravante não indica os artigos da Lei 9.427/1996 supostamente violados. Desse modo, a incidência da Súmula 284 do STF é medida que se impõe.
+2. Quanto aos demais dispositivos legais, o que se observa da decisão a quo é que o Tribunal de origem, com base nos princípios da razoabilidade e da proporcionalidade, manteve o método de cálculo dos débitos das faturas de energia elétrica pretendido pelos autores sob o seguinte fundamento (fl. 448, e-STJ): "De outro lado, desconhecendo-se o real valor da diferença de consumo de energia elétrica pelo consumidor, a discussão limita-se quanto ao método a ser utilizado para o cálculo do débito constatado. Entende a concessionária aplicável o art. 130, III, da Resolução 414/2010 da ANEEL, ou seja, sua apuração com base na média dos 3 (três) maiores valores disponíveis de consumo, ocorridos em até 12 (doze) ciclos completos de medição regular, anteriores ao início da irregularidade.Todavia, correta a decisão ao determinar a correção da fatura, para o valor médio de consumo nos últimos 12 (doze) meses antecedentes à verificação da irregularidade, porque mais adequado aos princípios da razoabilidade e da proporcionalidade, se comparado com os pretendidos 3 (três) maiores valores de consumo. Esse o entendimento desta Corte de Justiça. (..)."
+3. Portanto, a reforma do decisum demanda reexame do acervo fático-probatório, o que encontra o óbice da Súmula 7/STJ.
+4. Agravo Interno não provido.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos foram recebidos neste Gabinete em 25.6.2021.
+Inicialmente verifica-se que a agravante não indica os artigos da Lei 9.427/1996 supostamente violados. Desse modo, a incidência da Súmula 284 do STF é medida que se impõe.
+Quanto aos demais dispositivos legais, o que se observa da decisão a quo é que o Tribunal de origem, com base nos princípios da razoabilidade e da proporcionalidade, manteve o método de cálculo dos débitos das faturas de energia elétrica pretendido pelos autores sob o seguinte fundamento:
+De outro lado, desconhecendo-se o real valor da diferença de consumo de energia elétrica pelo consumidor, a discussão limita-se quanto ao método a ser utilizado para o cálculo do débito constatado. Entende a concessionária aplicável o art. 130, III, da Resolução 414/2010 da ANEEL, ou seja, sua apuração com base na média dos 3 (três) maiores valores disponíveis de consumo, ocorridos em até 12 (doze) ciclos completos de medição regular, anteriores ao início da irregularidade.
+Todavia, correta a decisão ao determinar a correção da fatura, para o valor médio de consumo nos últimos 12 (doze) meses antecedentes à verificação da irregularidade, porque mais adequado aos princípios da razoabilidade e da proporcionalidade, se comparado com os pretendidos 3 (três) maiores valores de consumo. Esse o entendimento desta Corte de Justiça. (..) (fl. 448, e-STJ).
+Portanto, a reforma do decisum demanda reexame do acervo fático-probatório, o que encontra o óbice da Súmula 7/STJ.
+Ante o exposto, nego provimento ao Agravo Interno.
+É como voto.
