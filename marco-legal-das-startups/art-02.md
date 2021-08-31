@@ -1,0 +1,3 @@
+Art. 2º Para os efeitos desta Lei Complementar, considera-se:
+I - investidor-anjo: investidor que não é considerado sócio nem tem qualquer direito a gerência ou a voto na administração da empresa, não responde por qualquer obrigação da empresa e é remunerado por seus aportes;
+II - ambiente regulatório experimental (sandbox regulatório): conjunto de condições especiais simplificadas para que as pessoas jurídicas participantes possam receber autorização temporária dos órgãos ou das entidades com competência de regulamentação setorial para desenvolver modelos de negócios inovadores e testar técnicas e tecnologias experimentais, mediante o cumprimento de critérios e de limites previamente estabelecidos pelo órgão ou entidade reguladora e por meio de procedimento facilitado.
