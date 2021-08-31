@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento a recurso especial interposto em face de acórdão com a seguinte ementa:
+PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DUPLICATAS. PRESCRIÇÃO DA PRETENSÃO DE COBRANÇA MOROSIDADE DO PODER JUDICIÁRIO NÃO CARACTERIZADA. PARTE RÉ REPRESENTADA PELA DEFENSORIA PÚBLICA NO EXERCÍCIO DA CURADORIA ESPECIAL. FIXAÇÃO DE HONORÁRIOS DE SUCUMBÊNCIA. CABIMENTO.
+1. A Ação de Cobrança fundada em duplicata encontra-se subordinada ao prazo prescricional de 5 (cinco) anos, previsto no artigo 206, § 5º, inciso I, do Código Civil, contado a partir do vencimento do título.
+2. Tendo em vista que a demora na citação da parte ré não pode ser imputada ao Poder Judiciário, mostra-se inviabilizado o afastamento da prescrição da pretensão deduzida na inicial.
+3. O fato de a atuação da Defensoria Pública do Distrito Federal ter se dado no exercício da Curadoria Especial não tem o condão de afastar o seu direito à percepção de honorários de sucumbência.
+4. Recurso de Apelação interposto pela autora conhecido e não provido. Recurso de Apelação interposto pela Defensoria Pública do Distrito Federal conhecido e provido.
+Alegou-se, no especial, violação dos artigos 202,I, parágrafo único, do Código Civil e240, § 1º, do Código de Processo Civil, sob o argumento de "que restou demonstrado nos autos que a Recorrente diligenciou inúmeras tentativasde citação e o atraso deve ser atribuído ao Judiciário, devendo assim, ser reformado" (e-STJ, fls. 214/215) o acórdão local.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal distrital examinou detidamente as razões da recorrente quanto à alegação de ausência de desídia da parte e concluiu que, conquanto"a ação tenha sido ajuizada dentro do prazo prescricional, a parte autora, não logrou promover a citação da ré dentro do prazo previsto em lei para fins de interrupção do prazo prescricional.
+Insta assinalar que não ficou evidenciada morosidade imputável ao Poder Judiciário, uma vez que as diligências pertinentes requeridas pela parte autora foram deferidas no primeiro grau de jurisdição, de modoque não tem aplicação, ao caso em apreço, o entendimento firmado na Súmula nº 106 do Colendo Superior Tribunal de Justiça.
+Ademais, a parte autora deixou transcorrer in albis, por duas vezes, o prazo para dar andamento ao feito (ID 18187745 e ID 18187751), além de ter fornecido endereços incompletos, que acabaram por atrasar o ato citatório (ID 18187730, 18187743 e 18187914)" (e-STJ, fls. 207/208).
+A reforma do acórdão local depende, inequivocamente, de incursão nos elementos informativos do processo ante a conclusão de que houve desídia da agravante, o que encontra o óbice de que trata o verbete n. 7 da Súmula desta Casa.
+Diante do exposto, nego provimento ao recurso. Nos termos do artigo 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observados os limites estabelecidos nos §§ 2º e 3º do mesmo artigo.
+Intimem-se.
