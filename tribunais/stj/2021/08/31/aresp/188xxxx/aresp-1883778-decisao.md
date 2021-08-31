@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de Agravo contra decisão que não admitiu o Recurso Especial por ausência de ofensa aoart. 1.022 do CPC, fundamentação adequada do acórdão e incidência da Súmula 7/STJ.
+O acórdão foi assim ementado (fls. 298-306, e-STJ):
+APELAÇÃO Declaratória c/c. Repetição de indébito IPTU. Sentença de improcedência. Alegação de imunidade, nos termos do art. 173, § 2º da CF. Benefício extensível a sociedade de economia mista, prestadora de serviço público.
+Precedentes do STF e desta Corte. Sentença reformada.
+REPETIÇÃO DE INDÉBITO Acréscimos monetários, a partir de cada desembolso. Juros devidos à razão de 1% ao mês Inteligência da Súmula 188 do STJ e artigos 161, § 1º e 167, parágrafo único, ambos do CTN. Invertidos os ônus da sucumbência, descabida a pretendida majoração prevista no artigo 85, § 11, do CPC. Recurso parcialmente provido.
+Os Embargos de Declaração foram acolhidos, sem efeito modificativo (fls. 319-322, e-STJ).
+O Município de São Paulo afirma que houve, além de divergência jurisprudencial, ofensa aos arts. 1022, inciso I,373, §§ 1º e 2º, e 485, inciso VI do CPC; e aos arts. 5º, inciso LV,150, inciso VI, alínea "a", 170 e 173, § 2º, da Constituição da República.
+Sustenta que os ilustres Desembargadores do C. Tribunal Estadual não deixaram claros os fundamentos de seu entendimento, que, até o momento, permanecem não conhecidos pelo Município de São Paulo. Complementa:
+Ora, no presente caso, a inversão foi realizada já no julgamento da Apelação, sem que fosse concedida ao Município qualquer oportunidade de se desincumbir do ônus de provar, estabelecido pelos ilustres desembargadores.
+Contrarrazões às fls. 421-441, e-STJ.
+Defende o Município que "as razões que supostamente autorizaram a inversão do ônus de provar, em desacordo com o artigo 373, §§ 1º e 2º, permanecem desconhecidas até hoje" e que "o Recurso Especial trouxe somente questionamentos relativos à interpretação e a aplicação da legislação federal em vigor, não havendo qualquer discussão quanto ao conjunto probatório existente nos autos judiciais".
+Contraminuta às fls. 505-516, e-STJ.
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 2 de agosto de 2021.
+Preliminarmente, no que concerne à alegada afronta ao art. 1.022 do CPC, a insurgência não merece prosperar, porque o acórdão recorrido examinou a controvérsia referente à inversão do ônus da prova e fundamentou suficientemente sua convicção, não havendo falar em negativa de prestação jurisdicional, pois inexistente qualquer dos vícios mencionados no referido dispositivo legal. Os Embargos de Declaração não se destinam ao reexame de satisfatória prestação jurisdicional. Confiram-se, nesse sentido: REsp 1.808.357/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe de 20.9.2019; EDcl no AgInt no AREsp 1.422.337/SP, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, DJe de 12.9.2019; e AgInt no REsp 1.780.519/RO, Rel. Min. Marco Buzzi, Quarta Turma, DJe de 28.6.2019.
+O Tribunal de origem exarou fundamentação suficiente à exteriorização do seu entendimento sobre a questão em tela. A pretensão integrativa posta nos aclaratórios vincula-se ao mérito da decisão, e, por esse motivo, foi desacolhida, uma vez que não constatados os vícios de omissão, contradição ou obscuridade. Ademais, é corrente na jurisprudência o entendimento de não estar o julgador obrigado a responder a questionamentos ou a teses das partes.
+Vale consignar que a jurisprudência é firme no sentido de que não cabe ao STJ, em Recurso Especial, examinar omissão de dispositivos constitucionais, a pretexto de violação ao art. 535 do CPC, tendo em vista que a Constituição Federal reservou tal competência ao Pretório Excelso, no âmbito do Recurso Extraordinário.
+O STJ tem o entendimento consolidado de que a distribuição do ônus probatório pelas instâncias ordinárias é matéria estritamente fático-probatória, a atrair a incidência da Súmula 7/STJ.
+Veja-se:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. DISTRIBUIÇÃO DO ÔNUS DA PROVA. HONORÁRIOS DE ADVOGADO. REVISÃO. IMPOSSIBILIDADE. SÚMULA Nº 7/STJ. PRECEDENTES.
+(..)
+2. Com efeito, "o STJ entende ser inaferível eventual ofensa ao art. 333 do CPC/1973 (art. 373 do CPC/2015) sem que se verifique o conjunto probatório dos presentes autos. A pretensão de simples reexame de provas, além de escapar da função constitucional deste Tribunal, encontra óbice na Súmula 7 do STJ" (REsp 1812278/CE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/10/2019, DJe 29/10/2019).
+3. A revisão dos valores fixados a título de verba de advogado pressupõe, via de regra, a verificação das provas produzidas nos autos e sua valoração, o que é vedado a este STJ a teor do verbete da Súmula nº 7/STJ. Precedentes.
+4. Agravo interno não provido. (AgInt no AREsp 1.578.397/PE, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 17.3.2020).
+Por fim, para analisar a suposta ofensa ao art. 485, VI, do CPC/2015, seria necessário interpretar o Decreto Municipal 56.141/2015, lei local, o que encontra óbice na Súmula 280 do STF. Para ilustrar:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ART. 10 DO CPC/2015. PRINCÍPIO DA NÃO SURPRESA. DECISÃO FUNDADA EM DISPOSITIVOS LEGAIS NÃO INVOCADOS PELAS PARTES. INCIDÊNCIA DO PRINCÍPIO IURA NOVIT CURIA. IMPOSTO SOBRE A PROPRIEDADE DE VEÍCULOS AUTOMOTORES - IPVA. ISENÇÃO. LEI 13.296/2008, DO ESTADO DE SÃO PAULO. ACÓRDÃO COM FUNDAMENTO EM LEI LOCAL. REVISÃO. IMPOSSIBILIDADE. SÚMULA 280/STF. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, À LUZ DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão que julgara recurso interposto contra decisum publicado na vigência do CPC/2015.
+(..)
+IV. A questão controvertida nos autos foi solucionada, pelo Tribunal de origem, com fundamento na interpretação da legislação local (Lei 13.296/2008, do Estado de São Paulo, e respectivos atos infra legais regulamentares). Logo, a revisão do aresto, na via eleita, encontra óbice na Súmula 280 do STF. No mesmo sentido: STJ, AgRg no AREsp 707.141/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 30/06/2015; AgRg no REsp 1.298.919/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 18/03/2014; AgRg no REsp 1.474.018/SP, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, DJe de 15/10/2014.
+V. O entendimento firmado pelo Tribunal a quo, no sentido de que "a autora deixou de comprovar os requisitos para a manutenção do benefício da isenção", não pode ser revisto, pelo Superior Tribunal de Justiça, em sede de Recurso Especial, por exigir o reexame da matéria fático-probatória dos autos. Precedentes do STJ.
+VI. Agravo interno improvido. (AgInt no AREsp 1.660.702/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 11.12.2020. Na mesma linha: AREsp 1.779.726/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 18.2.2021).
+Ausente a comprovação da necessidade de retificação a ser promovida na decisão agravada, proferida com fundamentos suficientes e em consonância com entendimento pacífico deste Tribunal, não há prover o Agravo Interno que contra ela se insurge.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Diante do exposto, não conheço do Agravo em Recurso Especial.
+Publique-se.
+Intimem-se.
