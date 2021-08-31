@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de embargos declaratórios (e-STJ fls. 1.015/1.027) opostos à decisão desta relatoria que negou provimento ao agravo em recurso especial (e-STJ fls. 996/999).
+Em suas razões, os embargantes alegam a existência de erro material na decisão, queteria partido de premissa equivocada, pois"considerou que o pedido de restituição se baseava em vício do consentimento quando da migração do plano, contudo, não se trata de demanda com fim de anular o negócio jurídico (sequer consta dos pedidos/causa de pedir), mas sim de cumprir um dever previamente pactuado (pagamento de metade das contribuições patronais, corrigidas a partir do inadimplemento), ou seja, de uma cobrança" (e-STJ fl. 1.020). Nesse contexto, entende que a situação dos autos "não se amolda ao prazo decadencial previsto no art. 178, §9º do CC/16, não havendo se falar em decadência do direito dos AUTORES" (e-STJ fl. 1.022).
+Apontou ainda omissão, consubstanciada na ausência de intimação dos ora embargantessobre os termosda petição de fls. 987/989 (e-STJ), na qual a embargada "registrou que o objetivo dos autos é anular o negócio jurídico que resultou na migração (tópico 14), o que não prospera nem por uma linha, eis que a razão de ser da demanda é justamente cumprir o pactuado na migração, resultando na ação originária denominada "Ação de Cobrança"", o que teria influenciando "sobremaneira a conclusão adotada por esta Colenda Corte"(e-STJ fl. 1.023).
+A embargada apresentou impugnação (e-STJ fls. 1.038/1.043).
+É o relatório.
+Decido.
+Não há nenhum vício no julgamento de fls. 996/999 (e-STJ).
+Com efeito, os embargos de declaração somente são cabíveis quando houver na decisão obscuridade, contradição, omissão ou erro material, consoante dispõe o art. 1.022 do CPC/2015.
+Os aclaratórios, em regra, não permitem rejulgamento da causa, sendo certo que o efeito modificativo apenas é possível em hipóteses excepcionais, uma vez comprovada a existência dos mencionados vícios no julgado.
+Sob esse enfoque, confiram-se os seguintes precedentes da Corte Especial:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE OMISSÃO, OBSCURIDADE OU CONTRADIÇÃO. DECISÃO QUE APLICA A SISTEMÁTICA DA REPERCUSSÃO GERAL. EMBARGOS REJEITADOS.
+I - Os embargos de declaração devem atender aos seus requisitos, quais sejam, suprir omissão, contradição ou obscuridade. Não havendo qualquer um desses pressupostos, rejeita-se o recurso integrativo.
+II - Consoante jurisprudência firmada por esta Corte Superior, a tempestividade dos recursos é aferida quando do protocolo na secretaria do Tribunal e não da entrada na agência dos correios.
+III - Ademais, embora o embargante tenha juntado comprovante da entrega em Brasília, no dia 14/01/2013, não há comprovação de que tenha sido, na mesma data, entregue na secretaria deste Tribunal. Não tendo sido, inclusive, juntado até o presente momento os originais do recurso interposto.
+IV - Embargos rejeitados.
+(EDcl no AgRg no ARE no AgRg nos EDcl no RE no Ag n. 1.423.681/BA, Relator Ministro GILSON DIPP, CORTE ESPECIAL, julgado em 16/9/2013, DJe 25/9/2013.)
+SEGUNDOS EMBARGOS DECLARATÓRIOS. EMBARGOS DE DIVERGÊNCIA. TELEFONIA. APLICAÇÃO DA SÚMULA 182. AUSÊNCIA DE ATAQUE AOS FUNDAMENTOS DA DECISÃO. PEDIDO DE EFEITOS INFRINGENTES. INEXISTÊNCIA DE VÍCIOS NO ACÓRDÃO.
+À mingua dos vícios previstos no art. 535 do CPC e não sendo a via escolhida meio de resposta a questionamentos da partes, é de se ter como inviável a oposição, alertando ao embargante para a aplicação de multa processual caso persista o intuito de adiar a conclusão da causa.
+Embargos rejeitados.
+(EDcl nos EDcl no AgRg nos EAREsp n. 220.572/SP, Relatora Ministra MARIA THEREZA DE ASSIS MOURA, CORTE ESPECIAL, julgado em 1º/7/2013, DJe 1º/8/2013.)
+No caso, quanto à nulidade alegada, cumpre observar que omemorial apresentado pela TELOS (e-STJ fls. 980/981) não trouxe nenhum documento oufundamento novo apto a ensejar oprovimento do recurso, o qual foi examinado considerando apenas as razões nele apresentadas e os elementos contidos nos autos. Não houve, portanto, nenhumprejuízo processual decorrente da falta de intimação dosembargantes da juntada da petição aos autos.
+Em relação ao suposto erro material, constata-se que pretendem osembargantes,na verdade, a modificação do julgado, o qual negou provimento ao recurso, no qual alegaram que o prazo prescricional aplicável ao caso seria de 10 (dez) anos, por entender que a pretensão dosautoresestá sujeita ao prazo decadencial de 4 (quatro anos), previsto no art. 178, § 9º, V, "b", do CC/1916, vigente à época dos fatos, conforme a orientação pacífica da Segunda Seção desta Corte, tendo em vista o fato de o pedido contido na inicial - de restituição das contribuições patronais vertidas para plano de previdência privada, conforme pactuado no plano originário, não obstante a migração, em 31/12/1998, do Plano de Benefício Definido (PBD)para o Plano de Contribuição Definida (PCD), que alterou as regras relativas ao direito de devolução de tais verbas- ter como pressuposto a anulação, por vício de consentimento, de contrato ou transação extrajudicial.
+O simples fato de a decisão recorrida ser contrária aos interesses da parte não configura nenhum dos vícios previstos no art. 1.022 do CPC/2015.
+Não se constata, portanto, nenhuma das hipóteses de cabimento dos embargos de declaração. Ao contrário, verifica-se a mera pretensão de reexame do mérito do recurso.
+Ante o exposto, REJEITO os embargos declaratórios.
+Publique-se e intimem-se.
