@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por Raimundo Valdimar SilvaMarques contra inadmissão, na origem, de recurso especial que ataca acórdão do Tribunal Regional Federal da 2ª Região,assim ementado:
+APELAÇÃO. DIREITO PREVIDENCIÁRIO. TEMPO ESPECIAL, RUÍDO. METODOLOGIA. UTILIZAÇÃO OBRIGATÓRIA DA DA NHO-01DA FUNDACENTRO A PARTIR DE 01 DE JANEIRO DE 2004. PRECEDENTES.
+1. Apelação contra sentença que julgou procedente o pedido de concessão do benefício de aposentadoria por tempo de contribuição com a conversão de tempo especial em comum.
+2. A partir de 01 de janeiro de 2004, é obrigatória utilização da NHO-01da FUNDACENTRO como metodologia de aferição do agente nocivo ruído no ambiente de trabalho, devendo tal técnica ser informada no PPP, com a respectiva indicação do Nível de Exposição Normalizado(NEN). Em caso de omissão, a partir desta data, na indicação da metodologia empregada para aferição do agente nocivo ruído no PPP, este documento não deve ser admitido como prova da especialidade do trabalho para o agente nocivo em apreço, devendo ser apresentado o respectivo laudo técnico (LTCAT), para fins de demonstrar a técnica utilizada na respectiva medição (TRF1, EDcl na AC 0025510-81.2009.4.01.3800, Rel. Juíza Fed. Conv. LUCIANA PINHEIRO COSTA, 1ªCRP/MG, E-DJF1R 26.11.2019; e TRF1, AMS 0007749-53.2013.4.01.3814, Rel. Juiz Fed. Conv. DANIEL CASTELO BRANCO RAMOS, 2ª CRP/MG, E-DJF1R05.07.2019).
+3. Apelação parcialmente provida.
+Os embargos declaratórios opostos pelo recorrenteforam acolhidos, com efeitos infringentes, para promover a integração do julgado e declarar o direito da parte autora de reafirmação da DER quando implementados os requisitos dispostos em lei para a concessão do benefício previdenciário.
+No recurso especial, fundamentado nas alíneas "a" e "c" do permissivo constitucional, o recorrente sustenta violação aos artigos violação aos artigos 141, 373, II, e 492do CPC/2015; 58, §1º, da Lei 8.213/91.
+Pleiteia "seja suprida o erro de julgamento uma vez que não existe mais a exigencia exclusiva de medição do ruído pela norma da NHO-01 da FUNDACENTRO bem como não é mais exigido também a indicação do Nível de Exposição Normalizado ".
+A inadmissibilidade do recurso se deu com fundamento na Súmula 7/STJ (art. 58, §1º da Lei 8213/91) e Súmula 83/STJ (arts.141 e 492 do CPC/2015).
+Nas razões de agravo, a parteagravante postula o processamento do recurso especial, haja vista ter cumprido todos os requisitos necessários à sua admissão.
+Não houve contraminuta ao agravo.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:"Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A pretensão não merece acolhida.
+Dessume-se dos autos que a decisão que negou seguimento ao recurso especial baseou-se nos argumentode que pretensão veiculada encontra óbice nas Súmulas7/STJ (art. 58, §1º da Lei 8213/91) e 83/STJ (arts. 141 e 492 do CPC/2015).
+Contudo, do exame do agravo interposto, observa-se que o agravante se furtou de impugnar específica e suficientemente estes fundamento, restringindo-se a reiterar as teses expostas no apelo nobre.
+Competia à parte agravante demonstrar de que maneira o recurso especial, de fato, não depende de reanálise do conjunto fático-probatório - deixando claro, por exemplo, que todos os fatos estão devidamente consignados no acórdão recorrido; o que não aconteceu, conforme se pode observar das razões do agravo.
+Assim, na esteira do entendimento desta Corte Superior, não obedece ao comando do art. 932, III, do CPC/2015 (correspondente ao art. 544, § 4.º, inciso I, do CPC/1973), o agravo que não tenha atacado especifica e fundamentadamente todos os fundamentos da decisão de inadmissibilidade.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECURSO ESPECIAL. JUÍZO DE PRELIBAÇÃO NEGATIVO. DECISÃO DO TRIBUNAL DE ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A teor do disposto nos arts. 544, § 4º, I, do CPC/1973 e 932, III, do CPC/2015, compete à parte agravante infirmar especificamente os fundamentos da decisão de inadmissibilidade do apelo nobre, sejam eles autônomos ou não, mostrando-se inadmissível o agravo que não se insurge contra todos eles.
+3. O princípio da dialeticidade recursal impõe ao recorrente o ônus de explicitar os motivos pelos quais a decisão recorrida deve ser reformada, trazendo argumentações capazes de demonstrar o seu desacerto, sob pena de vê-la mantida por seus próprios fundamentos.
+4. Na hipótese, o agravante não se desincumbiu do ônus de impugnar, de forma clara e direita, os motivos que levaram o Tribunal de origem a inadmitir o apelo extremo, notadamente a aplicação do óbice da Súmula 7 desta Corte, em flagrante desrespeito ao princípio da dialeticidade.
+5. Agravo interno desprovido.(AgInt no AREsp 443.001/SP, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 23/06/2016, DJe 18/08/2016)
+PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE PROCESSAMENTO DO RECURSO ESPECIAL. SÚMULA 182 DO STJ.
+1. É inviável o agravo que deixa de atacar especificamente todos os fundamentos da decisão agravada. Incidência da Súmula 182 do STJ.
+2. A jurisprudência desta Corte é assente no sentido de que, para afastar a incidência da Súmula 182/STJ, não basta a impugnação genérica dos fundamentos da decisão agravada, é necessário que a contestação seja específica e suficientemente demonstrada.
+3. O novo Código de Processo Civil, por meio do art. 932, reafirmou a jurisprudência desta Corte, ao exigir a impugnação específica dos fundamentos da decisão agravada.
+Agravo interno não conhecido.(AgInt no REsp 1600403/GO, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 23/08/2016, DJe 31/08/2016)
+Relembre-se que arevaloração jurídica de provas em recurso de naturezaespecial pressupõe que, para as mesmas premissas de fatos (as quais são jungidas aos autos com soberania pela Corte a quo), seja possível determinar outra consequência jurídica. O pedido de revaloração, em casotal, deve conter, necessariamente, a demonstração de duas coisas: (a) oquadro fático, tal como delineado no decisum objurgado; (b) o resultadojurídico resultante de má aplicação do direito federal (sem olvidar osoutros limites processuais e constitucionais da via recursal).
+O pedidogenérico de afastamento da incidência da Súmula7/STJ constitui defeitograve de fundamentação recursal, que leva ao não conhecimento da matériaarguida.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios visto que não houve prévia fixação pelo Tribunal a quo.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE. AGRAVO EM RECURSO ESPECIAL NÃO CONHECIDO.
