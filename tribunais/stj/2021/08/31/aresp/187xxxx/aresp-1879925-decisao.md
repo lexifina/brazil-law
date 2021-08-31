@@ -1,0 +1,60 @@
+DECISÃO
+1. Cuida-se de agravo interposto por VISION MED ASSISTENCIA MEDICA LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE COLETIVO EMPRESARIAL.GESTANTE. SUSPENSÃO DO CONTRATO POR ALEGADO INADIMPLEMENTO.SENTENÇA DE IMPROCEDÊNCIA, COM A REVOGAÇÃO DA TUTELA ANTECIPADA.IRRESIGNAÇÃO. POSSIBILIDADE DE RESCISÃO IMOTIVADA DO CONTRATO COLETIVO, INDEPENDENTEMENTE DE INADIMPLEMENTO DO ESTIPULANTE OU FRAUDE NA CONTRATAÇÃO, QUE NÃO DISPENSA A NECESSIDADE DE PRÉVIA NOTIFICAÇÃO À EMPRESA ESTIPULANTE E AO BENEFICIÁRIO. EXEGESE DO ART.17, DA RESOLUÇÃO ANS Nº 195/2009. INTERPRETAÇÃO CONSENTÂNEA COM O PRINCÍPIO DA BOA-FÉ OBJETIVA E DA PROTEÇÃO À PARTE MAIS VULNERÁVEL DA RELAÇÃO, NOTADAMENTE EM MATÉRIA ATINENTE À PRESERVAÇÃO DA VIDA E DA SAÚDE DA PARTURIENTE E DO NASCITURO. PRECEDENTES DA CORTE SUPERIOR. REFORMA DA SOLUÇÃO DE 1º GRAU. RECURSO CONHECIDO E PROVIDO.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 188, 474 e757 do Código Civil e 13, parágrafo único, da Lei nº 9.656/98.
+Alega ausência de ato ilícito e exercício regular de direito, uma vez que comprovada a legalidade do cancelamento do contrato ante a inadimplência da parte recorrida. Afirma ainda que foi encaminhada carta informando a estipulante acerca do cancelamento do contrato em decorrência da falta de pagamento das mensalidades.
+Contrarrazões ao recurso especial às fls. 593-608.
+É o relatório.
+DECIDO.
+2. Na espécie, a Corte local entendeu que (fl. 510-511):
+"Isto porque, de acordo com o art. 17, parágrafo único, da Resolução ANS nº 195/2009, ainda que o contrato coletivo por adesão possa ser rescindido imotivadamente, portanto, independentemente de inadimplemento do estipulante ou fraude na contratação, exige-se a prévia notificação do usuário, com antecedência mínima de 60 (sessenta) dias.
+Ademais, tratando-se de situação de emergência que importe em risco à vida da parturiente e do nascituro, ainda que permitida a suspensão ou rescisão do contrato de plano de saúde coletivo, haveria de ser resguardada a situação do usuário, diante de sua extrema vulnerabilidade.
+ ..
+No caso, embora insuficiente para comprovar eventual fraude na contratação a declaração unilateral firmada por suposto sócio da empresa estipulante, inclusive por mencionar desconhecer pessoa estranha ao feito, certo é que a condição de usuária restou devidamente demonstrada pelos documentos que instruem a inicial (indexador 0009), em especial a carteira do plano de saúde emitida pela própria operadora indicando o nome da beneficiária, empresa estipulante, matrícula e validade (31/07/2012), o desconto em seu contracheque e a relação em ordem alfabética dos usuários vinculados a empresa "Cobett Prod. Art. Audiovisual Ltda.", dentre os quais a demandante, conforme fatura de contrato coletivo emitido pela apelada.
+Dessa forma, resultando inconteste a ausência de notificação da usuária final dos serviços, indevida a negativa do tratamento pleiteado, justificando a procedência da pretensão cominatória deduzida e a confirmação da tutela antecipada, com a inversão dos ônus da sucumbência." (g.n.)
+2.1 Como se vê, a Corte local entendeu pela procedência da pretensão cominatória ante a ausência de notificação da recorrida e, em se tratando de situação de emergência que importe em risco à vida da parturiente e do nascituro, a necessidade de resguardar a situação da usuária, nada mencionando sobre a questão da alegada inadimplência no caso concreto.
+Desse modo, verifica-se que rever o entendimento da Corte locale acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+2.2Além disso, considerando a moldura fática delineada no acórdão recorrido, verifica-se que o entendimento da Corte local está em conformidade com a jurisprudência do STJ.
+Com efeito, "Consoante orientação desta Corte Superior, é imprescindível a notificação prévia do segurado anteriormente à resilição unilateral do contrato de plano de saúde coletivo por adesão. Incidência da Súmula 83/STJ"(AgInt no REsp 1910108/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/03/2021, DJe 06/04/2021).
+Por oportuno, "A jurisprudência do Superior Tribunal de Justiça consolidou-se no sentido de não admitir a rescisão unilateral, mesmo em caso de inadimplência do consumidor, sem que antes a operadora do plano de saúde proceda à notificação prévia do usuário. Precedentes." (REsp 1595897/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 09/06/2020, DJe 16/06/2020)
+Confira ainda:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.IRRESIGNAÇÃO DA PARTE DEMANDADA.
+1. É indevido o cancelamento automático do plano de saúde se a operadora deixa de cumprir o requisito de notificação prévia do beneficiário para quitação do débito existente.
+1.1. No caso dos autos, o Tribunal de origem, com base na análise dos elementos fáticos e probatórios dos autos, concluiu que não restou comprovada a regular notificação do segurado. A revisão do entendimento da Corte a quo, no ponto, importaria em reexame do conjunto fático-probatório da lide, atraindo o óbice da Súmula 7/STJ.
+2. Agravo interno desprovido.
+(AgInt no AREsp 1342581/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 24/05/2021, DJe 28/05/2021)(g.n.)
+_________________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.INADIMPLÊNCIA. DESCONTO DA MENSALIDADE REJEITADO. PAGAMENTO DO BOLETO ENVIADO EM ATRASO. RESCISÃO UNILATERAL. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. REEXAME. SÚMULAS N. 7 E 83/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NECESSIDADE. ART. 85, § 11, DO CPC. NÃO PROVIMENTO.
+1. O cancelamento do plano de saúde motivado por inadimplência do beneficiário exige sua prévia notificação, nos termos da jurisprudência do Superior Tribunal de Justiça.
+2. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+3. É possível a majoração dos honorários em sede de recurso, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, mesmo quando não apresentadas contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos infundados pela parte vencida.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1460199/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/11/2020, DJe 27/11/2020)
+_________________
+Ademais, esta Corte Superior possui firme entendimento de que é inviável a rescisão unilateral de contrato de plano de saúde coletivo por parte da operadora durante o período em que a parte beneficiária esteja sendo submetida a tratamento médico de urgência ou emergência visando salvaguardar a sobrevivência do paciente.
+Nesse sentido:
+_________________
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE COLETIVO.CANCELAMENTO DO CONTRATO. EXISTÊNCIA DE FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO NAS RAZÕES DO RECURSO ESPECIAL. BENEFICIÁRIO EM TRATAMENTO MÉDICO ONCOLÓGICO. MANUTENÇÃO DO PLANO DE SAÚDE. AGRAVO INTERNO IMPROVIDO.
+1. Consoante entendimento desta Corte Superior, é inviável a rescisão unilateral de contrato de plano de saúde individual ou coletivo, pela operadora, durante o período em que o beneficiário estiver submetido a tratamento médico garantidor de sua sobrevivência e/ou incolumidade física. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt no REsp 1890669/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 08/03/2021, DJe 26/03/2021)(g.n.)
+_________________
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. IRRESIGNAÇÃO SUBMETIDA AO NCPC. NEGATIVA DE PRESTAÇÃO JURISDICIONAL FORMULADA DE MODO GENÉRICO. SÚMULA Nº 284 DO STF. EXTINÇÃO DO CONTRATO CELEBRADO ENTRE A OPERADORA DO PLANO E A EMPRESA ESTIPULANTE. IMPOSSIBILIDADE DE OBRIGAR O PLANO DE SAÚDE A MANTER APÓLICE. NECESSIDADE, TODAVIA, DE ASSEGURAR A COBERTURA ENQUANTO DURAR O TRATAMENTO MÉDICO QUE VIABILIZA A SOBREVIVÊNCIA DO SEGURADO OU DEPENDENTE. AGRAVO INTERNO NÃO PROVIDO.
+1. De plano, vale pontuar que a disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. É deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489 e 1.022 do CPC/2015 se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão tornou-se omisso, contraditório ou obscuro. Incide, nesses casos, a Súmula nº 284 do STF. Precedentes.
+3. A jurisprudência desta Corte orienta que não é possível obrigar a operadora de plano de saúde a manter válidas, para um único segurado, as condições e cláusulas previstas em contrato coletivo de assistência à saúde já extinto pelo estipulante.
+4. Incabível, porém, o cancelamento do plano enquanto perdurar o tratamento médico que assegura a sobrevivência do beneficiário.Precedentes.
+5. Agravo interno não provido.
+(AgInt no REsp 1818484/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 08/06/2020, DJe 12/06/2020)(g.n.)
+_________________
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. CONCLUSÃO ACERCA DO PAGAMENTO INTEGRAL DA MENSALIDADE PELA AUTORA. SÚMULA 7 DO STJ. FUNDAMENTOS NÃO ATACADOS.SÚMULA 283 DO STF. PLANO DE SAÚDE QUE NÃO PODE SER RESCINDIDO DURANTE O TRATAMENTO MÉDICO GARANTIDOR DA SOBREVIVÊNCIA. SÚMULA 83 DO STJ. RECURSO NÃO PROVIDO.
+1. A convicção a que chegou o acórdão de que a autora vem arcando com o pagamento da mensalidade em sua integralidade decorreu da análise do conjunto fático-probatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, obstando a admissibilidade do especial à luz do enunciado 7 da Súmula desta Corte.
+2. A recorrente não impugna o argumento de que o plano de saúde não pode ser cancelado no momento, pois a Autora está em tratamento emergencial, em razão de doença grave - câncer. Assim, a subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."
+3. Não obstante o plano de saúde coletivo possa ser rescindido unilateralmente, mediante prévia notificação do usuário, esta Corte reconhece ser abusiva a rescisão do contrato durante o tratamento médico garantidor da sobrevivência. Nesse sentido: AgInt no AREsp 1.085.841/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 20/03/2018, DJe de 04/04/2018; AgInt no AREsp 1.072.700/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 27/06/2017, DJe de 1º/08/2017; AgRg no AREsp 624.420/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/03/2015, DJe de 07/04/2015). Incidência da Súmula 83 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1553320/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 07/11/2019, DJe 12/11/2019)(g.n.)
+_________________
+Incidência da Súmula 83 do STJ,aplicável também aos recursos especiais interpostos pela alínea "a" do permissivo constitucional, segundo iterativa jurisprudência deste Tribunal.
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal.
+Publique-se. Intimem-se.
