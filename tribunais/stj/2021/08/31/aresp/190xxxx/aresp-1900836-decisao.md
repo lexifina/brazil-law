@@ -1,0 +1,45 @@
+DECISÃO
+ARIBERTO MONTIBELLER JUNIOR (ARIBERTO) e ROSIANE ORTMANN (ROSIANE) ajuizaram ação de indenização por danos morais contra BRADESCO FINANCIAMENTOS S.A. (BRADESCO), objetivando a reparação pelo abalo de crédito correlato, sob o argumento de que foi negativado por dívida inexistente por seu pagamento.
+Em primeira instância, os pedidos foram julgados procedentes para condenar ao pagamento de reparação por danos morais em favor de ARIBERTO e ROSIANE, fixada em R$ 10.000,00 ( dez mil reais) por abalo de crédito.
+ARIBERTO, ROSIANE e BRADESCO apelaram da sentença. O TJSC negou provimento ao recurso do BRADESCO e deu parcial provimento ao recurso de ARIBERTO e ROSIANE, assim ementado:
+APELAÇÕES CÍVEIS. AÇÃO DECLARATÓRIA DE INEXISTÊNCIA DE DÉBITO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. JUÍZO A QUO QUE JULGA PARCIALMENTE PROCEDENTES OS PLEITOS DA PETIÇÃO INICIAL. APELOS DE AMBAS AS PARTES. ALEGADA PRÉ-EXISTÊNCIA DE INSCRIÇÃO DESABONADORA EM NOME DOS REQUERENTES. INEXISTÊNCIA DE QUALQUER DOCUMENTO COMPROBATÓRIO DE DITAS INSCRIÇÕES. TESE RECHAÇADA. QUANTUM INDENIZATÓRIO. ALMEJADA MAJORAÇÃO PELOS AUTORES E MINORAÇÃO PELA REQUERIDA DO MONTANTE FIXADO NA SENTENÇA. CONDENAÇÃO QUE DEVE POSSUIR CARÁTER PEDAGÓGICO E COMPENSATÓRIO. VALORAÇÃO IMPOSTA NA ORIGEM QUE SE MOSTRA SATISFATÓRIA PARA AS FINALIDADES DO DANO MORAL. MODIFICAÇÃO INDEVIDA. SENTENÇA QUE FIXOU OS JUROS MORATÓRIOS A PARTIR DA DATA DA SENTENÇA. EXISTÊNCIA DE RELAÇÃO CONTRATUAL ENTRE AS PARTES. INTELIGÊNCIA DO ART. 405 DO CÓDIGO CIVIL. TERMO INICIAL DOS JUROS LEGAIS QUE DEVE SER FIXADO NA DATA DA CITAÇÃO. PRECEDENTES DESTE TRIBUNAL. DECISUM REFORMADO NO PONTO. PLEITO DE MAJORAÇÃO DOS HONORÁRIOS DE SUCUMBÊNCIA. IMPOSSIBILIDADE. TOGADO A QUO QUE OS ARBITROU ADEQUADAMENTE E EM ATENÇÃO AOS CRITÉRIOS DO § 2º DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. HONORÁRIOS RECURSAIS. SENTENÇA PUBLICADA JÁ NA VIGÊNCIA DA LEI N. 13.105/2015. FIXAÇÃO DEVIDA. EXEGESE DO ART. 85, §§ 1º E 11, DO CÓDIGO DE PROCESSO CIVIL. RECURSOS CONHECIDOS. INSURGÊNCIA APELO DA RÉ DESPROVIDO. DOS AUTORES PARCIALMENTE ACOLHIDA (e-STJ, fl. 257).
+Os embargos de declaração opostos por BRADESCO foram rejeitados(e-STJ, fls. 284/290).
+Irresignado, BRADESCO interpôs recurso especial com fulcro no art. 105, III, a, da CF, alegando a violação dos arts. 1.022, II, e 1.026, § 2º, do NCPC, sustentando que (1) a Turma julgadora, mesmo instada a fazê-lo, por intermédio dos embargos de declaração, não se manifestou sobre as informações existentes nos autos a respeito de outras inscrição em nome em nome do ARIBERTO e ROSIANE; e (2) requer o afastamento da multa do art.1.026, § 2º, do NCPC, pois não foi demostrado de forma específica o caráter manifestamente protelatório do recurso.
+Contrarrazões de recurso especial não apresentadas (e-STJ, fls. 321/327).
+O apelo nobre não foi admitido em virtude da ausência de omissão no aresto recorrido e incidência da Súmula nº 7 do STJ.
+Nas razões do presente agravo em recurso especial, BRADESCO afirmou que as questões postas não foram abordadas e nem decididas no acórdão recorrido que inaplicável a hipótese a incidência da Súmulanº 7 do STJ.
+Não foi apresentada contraminuta (e-STJ, fl. 360).
+É o relatório.
+DECIDO.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da ausência de violação do art. 1.022, II,do NCPC.
+BRADESCO sustentou que a Turma julgadora, mesmo instada a fazê-lo, por intermédio dos embargos de declaração, não se manifestou sobreas informações existentes nos autos a respeito de outras inscrição em nome em nome do ARIBERTO e ROSIANE.
+Contudo, verifica-se que o TJSC se pronunciousobre a controvérsia a que BRADESCO reputou não ter sido enfrentada,consignando o seguinte:
+A tese recursal da ré fundamenta-se, em síntese, no argumento de que os autores já possuíam inscrição no cadastro de inadimplentes antes daquela efetivada por si, motivo pelo qual estaria isenta de responsabilidade quanto à negativação do nome deles.
+Ocorre, porém, que não há nos autos qualquer indicação da pré - existência de inscrição em nome dos autores, seja ela devida, seja indevida.
+Aliás, justamente por isso o Togado da origem não fez constar nada a respeito em sua sentença, ao contrário da alegação de omissão contida nas razões recursais da instituição financeira.
+Desta feita, é patente o direito dos requerentes em serem compensados pelos danos decorrentes do ilícito civil praticado pela requerida, os quais são presumidos (dano in re ipsa) e não podem ser considerados tão somente como meros dissabores (e-STJ, fl. 261).
+Assim, inexiste o vício elencado no art. 1.022, IIdo Código de Processo Civil, sendo forçoso reconhecer que a pretensão recursal ostenta caráter nitidamente infringente, visando rediscutir matéria que já foi analisada.
+Nesse sentido, confira-se o seguinte precedente:
+EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE RECONSIDERAÇÃO NA EXCEÇÃO DE SUSPEIÇÃO. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. CARÁTER PROTELATÓRIO. MULTA. APLICAÇÃO. EMBARGOS REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022). É inadmissível a sua oposição para rediscutir questões tratadas e devidamente fundamentadas na decisão embargada, já que não são cabíveis para provocar novo julgamento da lide.
+2. Nos termos dos arts. 219 e 1.023 do CPC/2015, são intempestivos os embargos de declaração opostos após o prazo de cinco dias úteis.
+3. Consoante disposto no art. 224, § 3º, do CPC/2015, "a contagem do prazo terá início no primeiro dia útil que seguir ao da publicação".
+4. A reiteração de argumentos, nos terceiros embargos de declaração, já repelidos nos acórdãos anteriormente proferidos, por meio de fundamentos claros e coerentes, destoa dos deveres de lealdade e cooperação que norteiam o processo, a ensejar a imposição da multa prevista no art. 1.026, § 2º, do CPC de 2015.
+5. Embargos de declaração rejeitados, com aplicação de multa.
+(EDcl nos EDcl nos EDcl no AgInt nos EDcl no RCD na ExSusp 187/SP, Rel. Ministro RAUL ARAÚJO, Corte Especial, julgado em 10/12/2019, DJe 18/12/2019)
+Afasta-se, portanto, a alegada violação.
+(2) Do pedido de afastamento da multa.
+Conforme consignado pelo Tribunal de origem,
+Por derradeiro, como se extrai da própria fundamentação ora externada, os Embargos de Declaração em pauta apresentam-se como manifestamente protelatórios, devendo o Embargante ser penalizado por provocar incidente com tal caráter, nos termos do art. 1.026, § 2º, da Lei n. 13.105/2015 (e-STJ, fl. 289).
+Esta Corte Superior orienta que a reiteração de argumentos já repelidos de forma clara e coerente destoa dos deveres de lealdade e cooperação que norteiam o processo e determina, consoante a sedimentada orientação jurisprudencial desta Corte, a imposição da multa prevista no art. 538, parágrafo único, do Código de Processo Civil (EDcl no AgRg no AREsp 147.183/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, DJe 26/9/2013).
+Dessarte, tendo o BRADESCO se limitado a repisar seus argumentos, com pretensão infringente e não compatível com o recurso integrativo, era, mesmo, o caso de aplicação de multa prevista no dispositivo dito vulnerado, a qual segue incólume.
+Ademais, qualquer outra análise acerca do caráter procrastinatório dos embargos de declaração, que ocasionou a imposição da multa prevista no § 2º do art. 1.026 do NCPC, seria imprescindível a análise fático-probatória, o que é inviável em recurso especial, por força do óbice da Súmula nº 7 desta Corte.
+Impõe-se, portanto, a integral manutenção do acórdão recorrido quanto à multa imposta nos embargos declaratórios.
+Nessas condições, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+MAJORO os honorários advocatícios anteriormente fixados em desfavor do BRADESCO em 5%, limitados a 20%, nos termos do art. 85, § 11, do NCPC.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se
+EMENTA
+PROCESSO CIVIL. AGRAVO EMRECURSO ESPECIAL. RECURSO ESPECIAL MANEJADO SOB À ÉGIDE DO NCPC. AÇÃO DE INDENIZAÇÃO POR DANO MORAIS.PREEXISTÊNCIA DE INSCRIÇÃO DESABONADORA EM NOME DOS REQUERENTES. INEXISTÊNCIA DE QUALQUER DOCUMENTO COMPROBATÓRIO DAS INSCRIÇÕES. ALEGAÇÃO DE OMISSÃO. NÃO CONFIGURADA. APLICAÇÃO DA MULTA PREVISTA NO ART. 1.026, § 2º, DO NCPC. REFORMA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. DECISÃO MANTIDA. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO PROVIDO.
