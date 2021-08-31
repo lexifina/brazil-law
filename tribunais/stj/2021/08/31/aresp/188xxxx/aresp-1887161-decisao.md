@@ -1,0 +1,11 @@
+DECISÃO
+1. Cuida-se de agravo interposto por CLUBE DE DIRETORES LOJISTAS DO RIO DE JANEIRO contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. DIREITO DO CONSUMIDOR. ACÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZATÓRIA E PEDIDO DE TUTELA ANTECIPADA. NEGATIVAÇÃO INDEVIDA. AUSÊNCIA DE CONTRATAÇÃO. SUPOSTA FRAUDE. PARTE RÉ QUE NÃO COMPROVA NOS AUTOS, A EXISTÊNCIA DE CONTRATAÇÃO, BEM COMO DE FATO IMPEDITIVO, MODIFICATIVO OU EXTINTIVO DO DIREITO DO AUTOR, ÔNUS QUE DECERTO LHE CABIA, NOS TERMOS DO ART. 373, II, DO NCPC C/C ART. 14, § 3º DO CDC. FALHA NA PRESTAÇÃO DO SERVIÇO EVIDENCIADA. INCIDÊNCIA DA TEORIA DO RISCO DO EMPREENDIMENTO. DANO MORAL CONFIGURADO.VERBA COMPENSATÓRIA ARBITRADA EM R$ 10.000,00 (DEZ MIL REAIS), OBSERVANDO OS PRINCÍPIOS DARAZOABILIDADE E PROPORCIONALIDADE, BEM COMO OS PRECEDENTES DESTA CORTE. SENTENÇA IRRETOCÁVEL. DESPROVIMENTO DO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto nos artigo 43,§ 2º, do CDC.
+É o relatório.DECIDO.
+2. Amatériareferenteaoartigo43, § 2º, do CDC não foiobjeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
