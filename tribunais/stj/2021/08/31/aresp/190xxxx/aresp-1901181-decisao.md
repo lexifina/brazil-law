@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por FATIMA SANTA RITA MAIAePAULO ROBERTO DE ANDRADE MAIA, contra decisão interlocutória que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Ação: anulatória de cláusula contratual, cumulada com consignação em pagamento, ajuizada pelos agravantes, em face da CONDOMINIO ALTO DA BOA VISTA, na qual pretendem a modificação do critério de rateio de despesas fixadas em convenção de condomínio.
+Sentença: julgou improcedente o pedido.
+Acórdão: negou provimento à apelação interposta pelosagravantes, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO ANULATÓRIA DE CONVENÇÃO CONDOMINIAL E COBRANÇA DE COTAS CONDOMINIAIS. CONEXÃO POR PREJUDICIALIDADE. SENTENÇA DE IMPROCEDÊNCIA DA AÇÃO ANULATÓRIA E PROCEDÊNCIA DA AÇÃO DE COBRANÇA DE COTAS CONDOMINIAIS. AS PRESENTES DEMANDAS TRATAM, RESPECTIVAMENTE, ANULAÇÃO DE CLÁUSULA DA CONVENÇÃO CONDOMINIAL E COBRANÇA DE COTAS CONDOMINIAIS. COMO CAUSA DE PEDIR E TESE RECURSAL, EM AMBOS OS APELOS, ALEGAM OS RÉUS A INVALIDADE DA CLÁUSULA DA CONVENÇÃO CONDOMINIAL QUE ESTABELECE O VALOR DO RATEIO COM BASE NA FRAÇÃO IDEAL DE CADA CONDÔMINO. INCORFORMISMO DOS APELADOS QUE, JUNTOS, DIVIDEM CERCA DE 25% DA PROPRIEDADE EM CONDOMÍNIO. SOBRE O TEMA, PREVÊ O CÓDIGO CIVIL, EM SEU ART.1336, I A REGRA GERAL DO RATEIO TENDO POR BASE A FRAÇÃO IDEAL. COM EFEITO, TAL DISPOSITIVO VEIO AO ENCONTRO DO QUE JÁ DISCIPLINAVA A LEI DE INCORPORAÇÕES IMOBILIÁRIAS, LEI Nº 4.591/64 QUEM EM SEU ART.12, § 1º TAMBÉM PERMITIA O RATEIO DESTA FORMA. PREVISÃO NA CONVENÇÃO CONDOMINIAL QUE SE MOSTRA EM ACORDO COM A LEGISLAÇÃO PÁTRIA ACERCA DO TEMA. SENTENÇAS CORRETAS. DESPROVIMENTO DOS RECURSOS.
+Embargos de declaração: interpostos pelosagravantes, foram rejeitados.
+Recurso especial: alegam a violação de dispositivos legais, bem como dissídio jurisprudencial.
+Decisão de admissibilidade: inadmitiu o recurso especial, com fundamento na incidência dos óbices das Súmulas 5, 7 e 83, todas do STJ.
+Agravo em recurso especial: alegam, genericamente, a inaplicabilidade dos óbices das Súmulas 5, 7 e 83, todas do STJ, e argumentam que o precedente indicado na decisão denegatória de admissibilidade do recurso especial é posterior ao ajuizamento da ação.
+RELATADO O PROCESSO, DECIDE-SE.
+Constata-se, da análise da petição do presente recurso, que os agravantes se limitarama trazer alegações genéricas, mas não impugnaram, de maneira consistente e específica, a incidência dos óbices das Súmulas 5, 7 e 83, todas do STJ.
+Ressalte-se que a impugnação da Súmula 83/STJ se dá com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, com a realização de cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior.
+O agravo em recurso especial que não impugna, especificamente, os fundamentos da decisão denegatória de seguimento ao recurso especial não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% do valor atualizado da causa para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
