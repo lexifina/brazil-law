@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de MARCELO LIMA DE ALMEIDAe WELLINGTON OLIVEIRA DA SILVAapontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO(Apelação n. 1521621-76.2020.8.26.0228).
+Depreende-se dos autos que ospacientes foramcondenados, como incurso nas sanções do art. 155, § 1º e 4º, II e IVdo Código Penal, às penas de, respectivamente,6 anos de reclusão, em regime inicial fechado; e 5 anos, 11meses e 22 dias de reclusão, em regime inicial fechado (e-STJ fls. 15/30).
+Interposta apelação, o Tribunal de origem deu parcial provimento ao recurso para afastar a agravante relativa à pandemia e reduzir as penas para 4 anos, 1 mês e 23 dias de reclusão, em regime inicial fechado, e ao pagamento de 20 dias-multa, em acórdão assim ementado (e-STJ fl. 32):
+APELAÇÃO. FURTO QUALIFICADO (ARTIGO 155, § 1º, § 4º, II e IV, do Código Penal) - Réu que, mediante escalada e concurso de agentes, subtraiu 40 metros cabos elétricos - Recurso defensivo que questiona a autoria delitiva. Robusto conjunto probatório desfavorável ao réu. Admissão em parte. Apreensão em flagrância, em posse da coisa furtada. Palavras da vítima e das testemunhas policiais, seguras e consistentes - Condenação mantida Qualificadoras bem demonstradas. Repouso noturno verificado. Suficiente a prática durante a noite. Período de maior vulnerabilidade. Independe a vítima estar em residência ou dormindo - Dosimetria da pena. Elevações da basilar justificadas. Porém fração de aumento exacerbada. Redução. Circunstância agravante prevista no artigo 61,inciso II, alínea "j", do Código Penal, afastada - Regime fechado adequado. Circunstâncias judiciais negativas aliadas à remissiva e a gravidade concreta do delito Prequestionamento. RECURSO PROVIDO EM PARTE.
+No presente writ, a defesa sustenta ilegalidade na dosimetria, ao argumento de que o Tribunal de origem considerou a agravante da reincidência específica preponderante sobre a atenuante da confissão.
+Requer a concessão da ordem, a fim de redimensionar as penas dos pacientes, compensando-se a agravante da reincidência com a atenuante da confissão.
+É o relatório.
+Decido.
+Preliminarmente, cumpre ressaltar que, na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+No caso em tela, o Tribunal de origem assim consignou acerca da controvérsia (e-STJ fls. 40):
+Na intermediária, devidamente reconhecida a atenuante da confissão. Mas, com acerto, preponderando a reincidência.
+Como é ressabido, reconhecida a atenuante da confissão e a agravante da reincidência, não comportaria a compensação entre as circunstâncias, nos termos do artigo 67 do Código Penal.
+Nesse sentido:
+ ..
+Da análise do excerto transcrito, vislumbro a existência do alegado constrangimento ilegal.
+Com efeito, no que tange ao aumento operado na segunda fase da dosimetria, deve-se ressaltar que a orientação da Terceira Seção do Superior Tribunal de Justiça, firmada no julgamento do HC n. 365.963/SP, é a de que mesmo a reincidência específica pode ser integralmente compensada com a atenuante da confissão.Confira-se a ementa do julgado, inverbis:
+PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. ROUBO SIMPLES. DOSIMETRIA. CONFISSÃO PARCIAL. POSSIBILIDADE DE RECONHECIMENTO DA ATENUANTE. SÚMULA 545/STJ. COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. REINCIDÊNCIA ESPECÍFICA. ÚNICA CONDENAÇÃO. POSSIBILIDADE. CONTINUIDADE DELITIVA. FRAÇÃO DE AUMENTO. MOTIVAÇÃO CONCRETA. REGIME INICIAL FECHADO. REINCIDÊNCIA E QUANTUM DE PENA APLICADA. FUNDAMENTAÇÃO IDÔNEA. DETRAÇÃO. MATÉRIA NÃO ENFRENTADA NO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+IV - A col. Terceira Seção deste eg. Superior Tribunal de Justiça, por ocasião do julgamento do Recurso Especial Repetitivo nº 1.341.370/MT (Rel. Min. Sebastião Reis Júnior, DJe de 17/4/2013), firmou entendimento segundo o qual "é possível, na segunda fase da dosimetria da pena, a compensação da atenuante da confissão espontânea com a agravante da reincidência."
+V - Na hipótese, não obstante seja o paciente reincidente específico, entendo que podem ser compensadas a agravante da reincidência (específica) com a atenuante da confissão espontânea, mormente se considerada a ausência de qualquer ressalva no entendimento firmado por ocasião do julgamento do recurso especial repetitivo sobre o tema.
+ ..
+Habeas corpus não conhecido.
+Ordem concedida de ofício para reconhecer a atenuante da confissão espontânea e compensá-la com a agravante da reincidência, redimensionando a pena do paciente para 6 (seis) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, mantidos os demais termos da condenação. (HC 365.963/SP, Rel. Ministro FELIX FISCHER, TERCEIRA SEÇÃO, julgado em 11/10/2017, DJe 23/11/2017, grifei)
+Nesse sentido, deve-se asseverar, ainda, que "entende esta Corte que a atenuante da confissão espontânea, na medida em que compreende a personalidade do agente, é circunstância preponderante, devendo ser compensada com a agravante da reincidência, igualmente preponderante" (AgRg no HC n. 545.617/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 5/3/2020, DJe 103/2020).
+Deve ser compensada, pois, na espécie, a agravante da reincidência com a atenuante da confissão espontânea.
+Passo, assim, à nova dosimetria dos pacientes, considerados os parâmetros acima delineados.
+Na primeira fase, mantém-se a exasperação de 1/6, em virtude dos maus antecedentes, fixando-se a pena-base dos pacientes em 2 anos e8 meses de reclusão, e 13 dias-multa.
+Na segunda etapa, compensadas a agravante da reincidência com a atenuante da confissão espontânea, permanece a pena no quantum referido.
+Na terceira fase, mantém-se o aumento em 1/3 em razão da majorante relativa ao concurso de agentes, consolidando-se a pena dos pacientes em 3 anos, 6 meses e 20 dias de reclusão, e 17 dias-multa, mantidos os demais termos da condenação.
+Ante o exposto, concedo a ordem, in limine, para redimensionar a pena dos pacientes para 3anos, 6 meses e 20 dias de reclusão, e 17 dias-multa, mantidos os demais termos da condenação.
+Publique-se. Intimem-se.
