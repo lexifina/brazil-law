@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de Reclamação (art. 105, I, "f", da CF/1988) contra decisão proferida pela Turma Nacional de Uniformização dos Juizados Especiais que não conheceu do pedidode incidente de uniformização apresentado pelo ora reclamante.
+A parte alega que não foi observado vários precedentes do STJ no sentido de que, "em que pese não desconhecer o instituto da prescrição como matéria de ordem pública, a qual, em tese, seria passível de arguição a qualquer tempo, não se sobrepõe ao fato de que se dever respeitar o princípio processual da preclusão".
+É o relatório.
+Decido.
+Os autos foram recebidos neste Gabinete em 4/8/2021.
+O pedido é manifestamente inadmissível.
+O STJ reiteradamente manifesta-se no sentido de que a Reclamação é ação de natureza constitucional que visa preservar a competência desta Corte, garantir a autoridade de suas decisões e a observância de julgamento proferido em IRDR e IAC, sendo vedado o seu emprego como sucedâneo recursal para fazer valer jurisprudência dominante.
+Nesse sentido os seguintes julgados:
+PROCESSUAL CIVIL. AGRAVO INTERNO. RECLAMAÇÃO. IMPOSSIBILIDADE DE SER MANEJADA COMO SUCEDÂNEO RECURSAL. COMBATE À DECISÃO MONOCRÁTICA. INADMISSIBILIDADE. PRECEDENTES.
+1. Trata-se de Agravo Interno interposto contra decisum que não conheceu de Reclamação.
+2. O Agravo Interno não merece prosperar, pois a ausência de argumentos hábeis para alterar os fundamentos da decisão ora agravada torna incólume o entendimento nela firmado. Portanto não há falar em reparo na decisão.
+3. O agravante sustenta o descumprimento ao preceito firmado no julgamento do citado REsp 1.340.553, que tratou da hipótese de prescrição intercorrente e seu termo inicial.
+4. O Superior Tribunal de Justiça firmou o entendimento de que a reclamação não se presta para compelir os Tribunais de Apelação a aplicarem, na apreciação de questões semelhantes, eventual tese firmada por essa Corte - mesmo que em recurso repetitivo, uma vez que não há previsão legal (AgInt na Rcl 28.688, Ministro Marco Aurélio Bellizze, DJe de 29/8/2016).
+5. Tem-se, ainda, que o reclamante pretende atacar decisão monocrática proferida em julgamento de Agravo Interno de Recurso Especial, que não adentrou o mérito da questão, situação, contudo, que não e enquadra nas hipóteses de cabimento da Reclamação, sendo vedado seu uso como sucedâneo recursal. No mesmo sentido: AgInt na Rcl 37.819/SP, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Seção, DJe 18/3/2020; AgRg na Rcl 29.701/RJ, Rel. Min. Gurgel de Faria, Primeira Seção, DJe 19.12.2017; RCD na Rcl 15.161/SP, Rel.Ministro Arnaldo Esteves Lima, Primeira Seção, DJe 18/12/2013; AgInt na Rcl 33.772/SP, Rel. Min. Mauro Campbell Marques, Primeira Seção, DJe 4.10.2017.
+6. In casu, é incabível o manejo da Reclamação como sucedâneo recursal, como se nota no caso concreto, não havendo mácula à competência ou decisum do STJ (STJ: AgRg na Rcl 14.113/SP, Rel.Ministra Assusete Magalhães, Primeira Seção, DJe 15/3/2016; AgRg na Rcl 27.854/RS, Rel. Min. Humberto Martins, Primeira Seção, DJe 18/11/2015).
+7. Logo, sem apresentar argumentos consistentes, que efetivamente impugnem os principais fundamentos da decisão objurgada, o agravante insiste em sua irresignação de mérito, fiando-se em alegações genéricas, para alcançar o conhecimento do seu recurso.
+8. Agravo Interno não provido.
+(AgInt na Rcl 39.233/PR, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO,DJe 18/12/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NA RECLAMAÇÃO. A RECLAMAÇÃO PREVISTA NO ART. 105, I, f DA CF NÃO SE DESTINA À PRESERVAÇÃO DA JURISPRUDÊNCIA DO STJ, NEM SERVE COMO SUCEDÂNEO RECURSAL. VISA, SIM, A TORNAR EFETIVAS AS DECISÕES TOMADAS NO PRÓPRIO CASO CONCRETO. DECISÃO PROFERIDA EM PRIMEIRA INSTÂNCIA NÃO IMPUGNADA NO MOMENTO PROCESSUAL OPORTUNO. MATÉRIA DEBATIDA NOS AUTOS SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS. IMPOSSIBILIDADE DE SOBRESTAMENTO DO FEITO. PRECLUSAO TEMPORAL. AGRAVO INTERNO DO ESTADO DA BAHIA DESPROVIDO.
+1. O Código de Processo Civil, em seu art. 988, admite o cabimento de Reclamação, para o STJ, para que seja preservada sua competência, a fim de que seja garantida a autoridade de suas decisões.
+2. Por sua vez, o art. 187 do RISTJ dispõe que, para preservar a competência do Tribunal, garantir a autoridade de suas decisões e a observância de julgamento proferido em incidente de assunção de competência, caberá Reclamação da parte interessada ou do Ministério Público, desde que, na primeira hipótese, haja esgotado a instância ordinária.
+3. Na espécie, constata-se que a sentença que acolheu a exceção de pré-executividade, para reconhecer a decadência do crédito fiscal, não foi impugnada pelo Ente Estatal no momento processual oportuno, tendo ocorrido, no ponto, a preclusão temporal. Dessa forma, não se revela caracterizada qualquer possibilidade de cabimento da presente Reclamação.
+4. A Primeira Seção desta Corte pacificou o entendimento de que é inviável o ajuizamento da Reclamação quando não esgotadas as instâncias ordinárias, de acordo com o disposto no § 5o. do art.988, do Código Fux, seja no caso em que o juízo de primeiro grau descumpriu a orientação do STJ firmada no julgamento de Recurso Especial repetitivo, seja no caso em que não houve a observância de decisão que determinou o sobrestamento do feito (AgInt na Rcl 38.722/AP, Rel. Min. GURGEL DE FARIA, DJe 26.2.2020). Em reforço: AgInt na Rcl 35.535/PR, Rel. Min. FRANCISCO FALCÃO, DJe 3.10.2018; AgInt na Rcl 33.674/PE, Rel. Min. GURGEL DE FARIA, DJe 27.11.2017; e AgRg na Rcl 5.124/SP, Rel. Min. HUMBERTO MARTINS, DJe 4.5.2011.
+5. Agravo Interno do ESTADO DA BAHIA desprovido.
+(AgInt na Rcl 40.911/BA, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, DJe 18/12/2020)
+Em suma, a reclamação ora em exame não preenche nenhum de seus requisitos de conhecimento, isto é, não visa preservar a competência desta Corte, não busca garantir a autoridade de sua decisão que deve ter sido proferida em processo no qual a reclamante era parte, bem como não trata de tese afirmada em julgamento proferido em IRDR e IAC.
+Diante do exposto, indefiro liminarmente a presente Reclamação.
+Publique-se.
+Intimem-se.
