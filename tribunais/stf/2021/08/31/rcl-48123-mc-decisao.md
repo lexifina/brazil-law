@@ -1,0 +1,14 @@
+DECISÃO
+    1. Trata-se de reclamação, com pedido de medida liminar, em que alega a parte reclamante que a autoridade pontada como reclamada afrontou a autoridade do Enunciado n° 11 da Súmula Vinculante do Supremo Tribunal Federal, que possui a seguinte dicção:
+    Só é lícito o uso de algemas em casos de resistência e de fundado receio de fuga ou de perigo à integridade física própria ou alheia, por parte do preso ou de terceiros, justificada a excepcionalidade por escrito, sob pena de responsabilidade disciplinar, civil e penal do agente ou da autoridade e de nulidade da prisão ou do ato processual a que se refere, sem prejuízo da responsabilidade civil do Estado.
+    Tal o contexto, passo a examinar esta reclamação.
+    2. Em informações prestadas nestes autos, a autoridade reclamada demonstrou a necessidade da utilização das algemas no ora reclamante durante a realização da audiência de custódia. Ressalto, no ponto, o seguinte fragmento:
+    (…) no dia 09/06/2021, foi realizada a oitiva da testemunha faltante, bem como o interrogatório dos acusados. Na ocasião, conforme consignado no termo de audiência de evento 152, os segregados permaneceram com as algemas para frente devido ao protocolo adotado pelas casas prisionais nas audiências virtuais. Com efeito, tem-se que não há como, à distância, de forma virtual, se desconsiderar as orientações mínimas dos agentes de segurança que se encontravam responsáveis pela custódia imediata dos apresentados, as quais, na oportunidade, indicavam a necessidade imperiosa do uso do instrumento de contenção. Ressalta-se que a segurança dos segregados é de responsabilidade do Presídio, tendo-se ciência da ausência de efetivo suficiente para garantir a integridade dos envolvidos na solenidade sem a adoção do procedimento indicado. (com meus grifos)
+    Observo que as informações prestadas por autoridade pública são revestidas de presunção de veracidade e legitimidade (Rcl 35.563- -AgR/DF, Ministro Luiz Fux.).
+    Desse modo, não vislumbro no ato reclamado qualquer afronta ao Enunciado n° 11 da Súmula Vinculante do Supremo Tribunal Federal, eis que a utilização das algemas em questão foi devidamente fundamentada.
+    Para além disso, melhor sorte não socorre o reclamante, eis que a pretendida revisão da conclusão a que chegaram as instâncias anteriores, quanto à necessidade de utilização de algemas, mostra-se indissociável da análise de aspectos fático-probatórios, o que não tem lugar na via estreita da reclamação, consoante consolidada jurisprudência desta Excelsa Corte (Rcl 38.873/SP, Ministro Luiz Fux; Rcl 39.026-AgR/MG, Ministro Edson Fachin; Rcl 40.321-AgR/SP, Ministro Ricardo Lewandowski; Rcl 41.038-AgR/GO, Ministro Celso de Mello).
+    Ante o exposto, nego seguimento a esta reclamação.
+    Intime-se. Publique-se. Arquive-se.
+Brasília, 31 de agosto de 2021.
+Ministro NUNES MARQUES
+Relator
