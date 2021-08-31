@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interno interposto por MARIA EDNA GOMES MAZIEROem face de decisão proferida pela Presidência desta Corte Superior que conheceu do agravo para não conhecer do recurso especial nos seguintes termos:
+Analiso inicialmente o recurso interposto por MARIA EDNA GOMES MAZIERO.
+Mediante análise dos autos, verifica-se que a decisão agravada inadmitiu o recurso especial, considerando: ausência de afronta ao artigo 1.022 do CPC, ausência de afronta a dispositivo legal e Súmula 7/STJ.
+Entretanto, a parte agravante deixou de impugnar especificamente:
+Súmula 7/STJ.
+Oagravanteafirmaque impugnoutodos os fundamentos da decisão de inadmissibilidade.
+Contraminuta do Ministério Público do Estado de São Pauloàs fls. 917/920 e-STJ.
+Os autos vieram distribuídos a esta Relatoria.
+É o relatório Passo a decidir.
+Com efeito, verifica-se que o agravo em recurso especial interposto pelo ora agravante, de fato, impugna todos os fundamentos da decisão de inadmissibilidade, inclusive a incidência da Súmula 7/STJ.
+Sendo assim, passo à análise do agravo em recurso especial.
+Trata-se de agravo em recurso especial interposto por MARIA EDNA GOMES MAZIERO, em face de decisão proferida pelo Tribunal de Justiça do Estado de São Paulo que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 583 e-STJ):
+AÇÃO CIVIL PÚBLICA Improbidade administrativa Município de Mococa Realização dos festejos do Carnaval do ano de 2015 Preliminar de nulidade em razão do julgamento antecipado da lide afastada - A dilação probatória pode ser dispensada se e quando o Juiz entender que a prova já produzida nos autos é suficiente para a solução da lide, sem que isto caracterize cerceamento de defesa Mérito - Contratação pela Prefeita e pelo Diretor do Departamento de Cultura do Município, por intermédio de empresário, de artistas para apresentações em festa pública sem licitação - Prejuízo ao erário provado Ilegalidades e lesividade ao patrimônio público a macular a contratação Atos ímprobos e dolo comprovados Violação à regra do artigo 25, III, da Lei Federal nº 8.666/93 - Caracterização de ato de improbidade tipificado nos artigos 10 e 11 da LIA Sanções bem aplicadas, que não comportam alteração - Sentença mantida Recursos desprovidos.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 673 e-STJ):
+EMBARGOS DE DECLARAÇÃO  Inexistência de omissão, contradição ou obscuridade - Efeitos Infringentes  O acolhimento dos embargos declaratórios predispõem a ocorrência de um dos pressupostos apontados no Código de Processo Civil, quais sejam, a ocorrência de omissão, contradição, obscuridade e até mesmo erro material, mas não podem se prestar, a não ser em casos excepcionalíssimos, a dar efeitos infringentes ao julgado  Inexistência de quaisquer dessas hipóteses  O julgador não está obrigado a se manifestar expressamente sobre todos os argumentos trazidos pela parte, basta que tenha encontrado motivo suficiente para fundamentar a sua convicção  Precedentes deste Egrégio Tribunal, do STJ e STF.
+Embargos rejeitados.
+No recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, a recorrente aponta violação aos seguintes dispositivos: a) arts. 489, § 1º, III, e 1.022do CPC/2015, pois o Tribunal de origem não se manifestou sobre todas as teses relevantes suscitadas oportunamente; b)arts.25, caput e III da Lei nº 8.666/93 e os arts. 22 e 28, da LINDB, sustentando a inexistência de ilegalidade na hipótese. A propósito, destaca que a recorrente, à época Prefeita do município de Mococa, só fez ratificar o procedimento interno de inexigibilidade, apresentado pelo Departamento de Cultura do Município, responsável pela organização do Carnaval de rua na cidade (fl. 699 e-STJ); c) arts. 11 da Lei 8.429/92; 22 e 28 da LINDB, pois não há falar em improbidade administrativa.
+O Ministério Público do Estado de São Paulo apresentou contrarrazões às fls. 793/805 e-STJ.
+O Tribunal de origem inadmitiu o recurso especial à consideração de que: a) não há falar em negativa de prestação jurisdicional; b) a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial a teor da Súmula 7/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, considerando as peculiaridades do caso concreto, a decisão agravada merece ser reconsiderada a fim de conhecer do agravo em recurso especial e determinar a sua reautuação, sobretudo porque é perfeitamente possível depreender do apelo nobre a insurgência do recorrente quanto à indicada violação ao art. 1.022 do CPC/2015.
+Ante o exposto, com fulcro no art. 1021, § 2º, do CPC/2015 c/c o art. 259 do RISTJ, reconsidero a decisão agravada para conhecer do agravo em recurso especial e, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. DECISÃO AGRAVADA RECONSIDERADA. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
