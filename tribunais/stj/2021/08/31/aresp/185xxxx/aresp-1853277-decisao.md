@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial interposto por Carla dos Santos Cavalcante desafiando acórdão proferido pelo Tribunal de Justiça do Rio de Janeiro, assim ementado (e-STJ, fls. 217-218):
+APELAÇÕES CÍVEIS. OBRIGAÇÃO DE FAZER CUMULADA COM INDENIZATÓRIA POR DANO MATERIAL E MORAL. ALEGAÇÃO DA DEMANDANTE DE VÍCIO DO PRODUTO DE FABRICAÇÃO DA RÉ QUE AO UTILIZÁ-LO ACARRETOU PROBLEMAS NA SUA PELE (ART. 12, § 1º, DO CDC). SENTENÇA DE PROCEDÊNCIA EM PARTE, CONDENANDO A DEMANDADA A PAGAR A AUTORA A QUANTIA DE R$ 94,28, PELO DANO MATERIAL E A QUANTIA DE R$ 5.000,00, A TÍTULO DE DANO MORAL. IRRESIGNAÇÃO DE AMBAS AS PARTES. A AUTORA RECORRE PARA REFORMAR A SENTENÇA PARCIALMENTE PARA MAJORAR O DANO MORAL. A DEMANDADA, POR SUA VEZ, APELA PARA REFORMA O DECISUM OU, ALTERNATIVAMENTE, A REDUÇÃO DO VALOR FIXADO PARA A REPARABILIDADE DO DANO EXTRAPATRIMONIAL, QUE NÃO MERECE PROSPERAR. INCIDÊNCIA DO CÓDIGO DE DEFESA DO CONSUMIDOR. RESPONSABILIDADE OBJETIVA DA RÉ. PROVA CARREADA AOS AUTOS COMPROVANDO O NEXO CAUSAL, BEM COMO O DANO. DANO MATERIAL E MORAL CONFIGURADOS. O ÚLTIMO DECORRENDO DE FORMA IN RE IPSA. VALOR FIXADO DENTRO DOS PADRÕES DA RAZOABILIDADE E PROPORCIONALIDADE. RECURSOS CONHECIDOS E DESPROVIDOS.
+Nas razões do recurso especial, fundado no art. 105, III, a, da Constituição Federal, arecorrente alegou violação aoart. 944 do CC, sustentando, em síntese, a necessidade de majorar o valor da indenização por danos morais(e-STJ, fls. 295-303).
+Contrarrazões apresentadas (e-STJ, fls. 400-410).
+O Tribunal de origemnão admitiu o processamento do recurso especial em virtude da incidência daSúmulan. 7/STJ (e-STJ, fls. 412-418).
+Foi interposto agravo em recurso especial às fls. 444-450 (e-STJ), e contraminuta apresentada às fls. 477-483 (e-STJ).
+Brevemente relatado, decido.
+No que concerne ao quantum da verba indenizatória, faz-se necessário transcrever o que ficou consignado no acórdão do Tribunal a quo sobre o tema (e-STJ, fl. 225):
+Por seu turno, o recurso autoral também deve ser desprovido, uma vez que a verba indenizatória atende aos critérios da razoabilidade e proporcionalidade.
+Destarte, embora não deva o valor da reparação constituir causa de enriquecimento ilícito, não é menos verdade que deve indicar um juízo de reprovação, a fim de impor maior responsabilidade ao prestador de serviço.
+Para efeitos da quantificação da indenização devem ser observado s dois critérios: o primeiro, traduzido na tentativa de substituição da dor e do sofrimento por uma compensação financeira; o segundo, uma sanção com caráter educativo, para estabelecer um temor, e por isso trazer uma maior responsabilidade.
+Embora não tenha o legislador imposto uma gradação legal para se aferir a reparação, permitindo, com isso, que o Juiz tenha certa discricionariedade deve, contudo, se pautar para aquilo que se convencionou chamar de "critério do lógico -razoável .
+Saliente-se, por oportuno, que ninguém melhor do que o Magistrado que colheu a prova, ou seja, aquele que teve o contato pessoal com os litigantes para aquilatar com precisão a extensão do dano sofrido pela parte, devendo, nesses casos ser prestigiada a decisão por ele prolatada, somente cabível a modificação pela instância revisora quando se mostrar fora dos parâmetros da razoabilidade, o que data venia, não é o caso dos autos.
+No diz respeito ao valor fixado a título de danos morais indenizáveis, constata-se que a intervenção desta Corte "para alterar os valores fixados pelas instâncias ordinárias a título de reparação por danos morais somente se justifica nas hipóteses em que estes se mostrem ínfimos ou exorbitantes, não sendo este o caso dos autos" (AgRg na Rcl n. 4.847/SE, Rel. Ministro Raul Araújo, Segunda Seção, DJe 17/2/2011).
+Na espécie, a Corte local, diante das peculiaridades fáticas do caso, reputou adequada a manutenção da indenização por danos morais no valor de R$ 5.000,00 (cinco milreais).
+Assim, aindenização fixada se encontra dentro dos padrões de razoabilidade e proporcionalidade para a situação retratada nos autos. Destarte, não se configurando a estipulação de quantia irrisória, é inviável o conhecimento do recurso especial em virtude da incidência da Súmula 7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E CONSUMIDOR. DANOS MORAIS. PRETENSÃO DE MAJORAÇÃO DO VALOR FIXADO NA SEGUNDA INSTÂNCIA. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Trata-se de Agravo Interno contra decisão da Presidência do STJ que conheceu de Agravo para não conhecer do Recurso Especial, ante a incidência da Súmula 7/STJ e a ausência de demonstração do alegado dissídio jurisprudencial.
+2. Consoante a jurisprudência do STJ, a alteração do valor estabelecido pelas instâncias ordinárias a título de indenização por danos morais, em regra, esbarra na Súmula 7/STJ. Excepcionalmente, afasta-se a aplicação dessa súmula para revisar o quantum da indenização nas hipóteses em que a condenação se revelar irrisória ou exorbitante, o que não se evidencia no caso em tela. Precedentes: REsp 1.734.294/SP, Rel. Min. Herman Benjamin, Segunda Turma, DJe 11/10/2019; AgInt no REsp 1.825.777/AM, Rel. Min. Og Fernandes, Segunda Turma, DJe 27/11/2020; AgInt no AgInt no AREsp 1.668.347/PB, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/11/2020;
+AgInt no AREsp 1.533.714/RN, Rel. Min. Francisco Falcão, Segunda Turma, DJe 28/8/2020; AgInt no AREsp 1.469.865/PB, Rel. Min.
+Assusete Magalhães, Segunda Turma, DJe 2/9/2019.
+3. Agravo Interno não provido.
+(AgInt no AREsp 1834533/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/06/2021, DJe 01/07/2021)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial de Carla dos Santos Cavalcante.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. DANOS MORAIS. MAJORAÇÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL DE CARLA DOS SANTOS CAVALCANTE.
