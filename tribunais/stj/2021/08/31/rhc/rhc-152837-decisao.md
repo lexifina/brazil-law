@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por LEONARDO VIANA DOS SANTOS eFELLIPE DE SOUZA MENEZES contra acórdão do Tribunal de Justiça do Estado de Minas Gerais(HC n. 1.0000.21.122451-4/000).
+Osrecorrentes foram presos preventivamenteedenunciadospor suposta prática do delito descrito no art. 157, §§ 2º, II,e2º-A, I, do Código Penal.
+Impetrado writ originário, a ordem foi denegada.
+Osrecorrentes alegam que estãosendo vítimas de constrangimento ilegal, pois a decisão do primeiro grau não apresentou fundamentação idônea.
+Alegam que são primários, têmbons antecedentes, residência fixa e ocupação lícita.
+Aduzem que os requisitos necessários para a decretação da prisão preventiva não foram preenchidos.
+Pugnam pela concessão da liberdade provisória.
+Defendem quefazem jus à aplicação da pena no mínimo legal e ao regime aberto.
+Requerema expedição de alvará de soltura ou a substituição da prisão preventiva por medidas cautelares alternativas.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 442-448, destaquei):
+Em análise minuciosa dos autos, não vislumbro o alegado constrangimento ilegal.
+Pois bem. Consta dos autos que, em 11 de maio de 2021, Fellipe de Souza Menezes fora denunciado como incurso nos artigos 157 §2º, II, e §2-A, I, do Código Penal e art. 28 da Lei 11.343/06, assim como Leonardo Viana dos Santos denunciado como incurso no artigo 157 §2º, II, e §2-A, I, do Código Penal. Consoante narra a denúncia (documento eletrônico de ordem 5):  .. .
+Feito essas considerações, debruço-me sobre a tese da defesa acerca da suposta ausência de fundamentação da decisão proferida pelo juízo a quo que indeferiu o pedido de revogação da prisão preventiva a qual, em tese, não demonstra e alicerça os requisitos autorizadores da prisão preventiva.
+Data vênia, razão não assiste ao impetrante.
+Verifica-se que a douta autoridade ora apontada coatora decretou a segregação preventiva do agente, com fulcro no pedido do Ministério Público e na presença dos requisitos autorizadores previstos pelo art. 312 do Código Processual Penal, em especial a ordem pública, bem como diante da existência de indícios de autoria e de materialidade do crime. In verbis:  .. .
+Destarte, aferir que o fundamentado, pública. por intermédio da leitura da decisão, faz-se possível decreto preventivo encontra-se devidamente sendo necessário mantê-lo pela garantia da ordem.
+Mesmo porque, ao contrário do alegado pelo impetrante, o agente não sofre quaisquer constrangimentos ilegais, eis que, nos termos do disposto no art. 313, inciso I, do Código de Processo Penal, presentes os requisitos previstos no art. 312 do mesmo Diploma Legal, admite-se a prisão cautelar quando se tratar de crime doloso punido com pena privativa de liberdade máxima superior a 04 (quatro) anos, conforme ocorre na espécie.
+ ..
+De ver-se, então, que havendo iminente risco da soltura dos agentes contra a serenidade social, é legitimaas suas segregações preventivas com o fundamento da preservação da ordem pública.
+ ..
+Ademais, é perceptível que, in casu, o modus operandi adotado pelos pacientes, que agindo em conjunto e com unidade de desígnios, mediante grave ameaça, com o concurso de pessoas, revela certa periculosidade, restando necessária a sua segregação cautelar. Nesse aspecto, a audácia e o completo desprezo do agente pela integridade física e psicológica da vítima, certamente causou temor e repulsa na sociedade, devendo o Estado agir para garantira ordem pública.
+Por derradeiro, pelo exposto e ante a gravidade dos fatos, as medidas cautelares alternativas à prisão, previstas no art. 319 do Código de Processo Penal, não se mostram suficientes e adequadas à prevenção e à repressão dos crimes imputados aos pacientes, razão pela qual deixo de aplicá-las.
+E mais, eventuais condições favoráveis dos pacientes não possuem o condão de garantir-lhe a liberdade provisória, já que, comotranscrito alhures, estão presentes, no caso concreto, outras circunstâncias autorizadoras da cautela.
+Tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Note-se que, no presente caso, a gravidade do delito,o modus operandi, o uso de grave ameaça, o concurso de pessoas e o risco à ordem pública foram considerados pelo Tribunal de origem para denegar a ordem.
+Ademais, o delitofoi praticado mediante o emprego de violência contrapessoa, situação que, conjugada com os requisitos previstos nos arts. 312, 313 e 315 do Código de Processo Penal, permite a prisão cautelar como solução idônea para assegurar o acautelamento da ordem pública (RHC n. 92.308/MG, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 27/3/2018).
+O entendimento adotado pelas instâncias originárias está em consonância com a jurisprudência do STJ de que a periculosidade do paciente, evidenciada pelo modus operandi,constituifundamentoidôneopara o decreto preventivo, não sendo recomendável a substituição por medidas cautelares alternativas. Nesse sentido:
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. RECEPTAÇÃO. ADULTERAÇÃO DE SINAL IDENTIFICADOR DE VEÍCULO. ORGANIZAÇÃO CRIMINOSA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. MODUS OPERANDI. GARANTIA DA ORDEM PÚBLICA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES. INAPLICABILIDADE. EXCESSO DE PRAZO. PRINCÍPIO DA RAZOABILIDADE. FEITO QUE TRAMITA REGULARMENTE. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão do modus operandi com que o crime fora praticado, como ocorreu no presente caso, no qual o paciente, supostamente membro de organização criminosa, foi preso em flagrante na companhia de pelo menos outros oito corréus, os quais tentaram se evadir do galpão em que se encontravam, e onde havia diversos veículos - nem todos ainda identificados -, provavelmente receptados e com sinal identificador adulterado, além de estar sendo investigado pela prática, em tese, de outros delitos da mesma natureza.
+3. O fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação da prisão preventiva.
+ ..
+7. Agravo regimental desprovido. (AgRg no HC n. 480.934/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 13/2/2019.)
+Por fim, eventuais condições subjetivasfavoráveisdosrecorrentes, como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
