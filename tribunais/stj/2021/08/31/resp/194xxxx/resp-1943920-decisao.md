@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal de 1988, em face de acórdão proferido pelo Tribunal Regional Federal da 2ª Região, assim ementado (fl. 268):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. APELAÇÃO. EXCLUSÃO DO PERT. INADIMPLÊNCIA INCONTROVERSA. ÚNICA PARCELA EM ATRASO. REITEGRAÇÃO. RAZOABILIDADE E PROPORCIONALIDADE. POSSIBILIDADE. ONDEM CONCEDIDA. RECURSO PROVIDO.
+1. Apelação interposta contra sentença proferida em sede de mandado de segurança que determinou a reinclusão da impetrante no PERT, uma vez que a contribuinte buscou o pagamento da parcela em aberto assim que vencido o DARF, cujo valor se revelou irrisório.
+2. Não se mostra razoável, tampouco proporcional, a exclusão do contribuinte do programa de parcelamento em decorrência de único atraso no pagamento da entrada, mormente quando nenhum prejuízo advirá para à apelante. Mantendo-se a resistência, a Administração estará se afastando da própria finalidade da norma que regula o parcelamento, é dizer, do interesse público de receber o seu crédito, ainda que de forma parcelada. Precedentes.
+3. É viável a incidência dos princípios da razoabilidade e proporcionalidade no âmbito dos parcelamentos tributários, quando tal procedência visa evitar práticas contrárias à própria teleologia da norma instituidora do benefício fiscal (REsp. 1.143.216/RS, Rel. Min. LUIZ FUX, DJe 9/4/2010).
+4. Apelação improvida.
+Os embargos de declaração foram rejeitados.
+A recorrente alega violação ao art. 1.022, II, do CPC/2015, sob o fundamento de que o acórdão recorrido teria sido omisso em relação a questões relevantes ao deslinde da controvérsia.
+No mérito, aponta violação dos arts. 1º da Lei 12.016/2009 e9º, I, da Lei 13.496/2017. Argumenta a impossibilidade de permanência da recorrida no parcelamento tendo em vista o descumprimento das exigências previstas na legislação de regência.
+Com Contrarrazões (fls. 364-369).
+Juízo positivo de admissibilidade àfl. 371.
+É o relatório. Passo a decidir.
+De início, cumpre rejeitar a alegação de violação do artigo 1.022, II, do CPC/2015, uma vez que a Corte de origem empregou fundamentação adequada e suficiente para dirimir a controvérsia, dispensando, portanto, qualquer integração à compreensão do que fora por ela decidido.
+De outro lado, na hipótese dos autos, o Tribunal a quo decidiu pela permanência do contribuinte no parcelamento da Lei 11.941/2009 levando em consideração sua boa-fé, os princípios da proporcionalidade e razoabilidade, e atendimento ao interesse público.
+Com efeito, o STJ reconhece a viabilidade de incidir os princípios da razoabilidade e proporcionalidade no âmbito dos parcelamentos tributários, quando tal procedência visa evitar práticas contrárias à própria teleologia da norma instituidora do benefício fiscal, mormente se verificada a boa-fé do contribuinte e a ausência de prejuízo do Erário. Além do mais, alterar o entendimento do Tribunal de origem demandaria o reexame do acervo fático probatório dos autos, o que é vedado pela Súmula 7/STJ.
+Nesse sentido:
+TRIBUTÁRIO. AGRAVO INTERNO NO RECURSO ESPECIAL. PARCELAMENTO. EXCLUSÃO DO PROGRAMA. OBSERVÂNCIA DA FINALIDADE DA NORMA. PRINCÍPIO DA RAZOABILIDADE E PROPORCIONALIDADE. BOA-FÉ. CABIMENTO. PRECEDENTES. SÚMULA 7/STJ.
+1. O STJ reconhece a viabilidade de incidir os princípios da razoabilidade e proporcionalidade no âmbito dos parcelamentos tributários, quando tal procedência visa evitar práticas contrárias à própria teleologia da norma instituidora do benefício fiscal, mormente se verificada a boa-fé do contribuinte e a ausência de prejuízo do Erário. Precedentes: AgInt no REsp 1.650.052/RS, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 11/05/2017; REsp 1.676.935/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 05/12/2017.
+2. Na hipótese dos autos, o Tribunal a quo decidiu pela inclusão do contribuinte no parcelamento da Lei 11.941/2009 levando em consideração sua boa-fé, os princípios da proporcionalidade e razoabilidade, a ausência de prejuízo para a administração pública, e que questões formais não podem excluir o contribuinte do parcelamento. Alterar o entendimento do Tribunal de origem demandaria o reexame do acervo fático probatório dos autos, o que é vedado pela Súmula 7/STJ. Precedentes:REsp 1.659.230/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 05/05/2017; AgRg no AREsp 404850/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe 15/10/2014.
+3. Agravo interno não provido (AgInt no REsp 1.660.934/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 16/04/2018).
+TRIBUTÁRIO. PROCESSUAL CIVIL. REFIS. EXCLUSÃO. VALOR ÍNFIMO. PAGAMENTO DE BOA-FÉ E CRÉDITO DA CONTRIBUINTE. FALTA DE RAZOABILIDADE. AUSÊNCIA DE OMISSÃO. ART. 1.022 DO CPP. REEXAME DE PROVAS. SÚMULA 7/STJ. INADMISSIBILIDADE.
+ ..
+6. O STJ entende pela não exclusão do contribuinte do Refis quando a diferença apurada é ínfima e a empresa vem honrando os compromissos assumidos no parcelamento. Impossibilidade de analisar questões fático-probatórias, sob pena de ofensa à Súmula 7/STJ Precedente: (REsp 1.147.613/RS, Rel. Ministro Castro Meira, Segunda Turma, DJe 27/4/2011 e REsp 1497624/RS, Rel. Ministro Herman Benjamin, Segunda Turma, julgado em 16/12/2014, DJe 3/2/2015.)
+7. Recurso Especial não conhecido (REsp 1.659.230/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 05/05/2017).
+Ante o exposto, conheço em parte do recurso especial, e nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. RECURSO ESPECIAL. VIOLAÇÃO AO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. PARCELAMENTO. EXCLUSÃO DO PROGRAMA. OBSERVÂNCIA DA FINALIDADE DA NORMA. PRINCÍPIO DA RAZOABILIDADE E PROPORCIONALIDADE. BOA-FÉ. CABIMENTO. PRECEDENTES. SÚMULA 7/STJ.RECURSO ESPECIAL PARCIALMENTE CONHECIDO, E NESSA EXTENSÃO, NÃO PROVIDO.
