@@ -1,0 +1,91 @@
+EMBARGOS DE DECLARAÇÃO N.o 1002516-81.2020.8.11.0037
+Vistos etc.
+Trata-se de Embargos de Declaração opostos por Roberto Carlos Cardoso da Silva com o objetivo de sanar vícios na decisão que desproveu o Apelo apresentado.
+O Embargante alega que o decisum é omisso, vez que “não reservou uma única linha sequer para analisar o pedido envolvendo a impossibilidade de interpretação extensiva das causas de interrupção da prescrição”.
+Defende que no caso concreto não há falar em interrupção da prescrição, tampouco em interpretação extensiva das hipóteses legais, haja vista a ausência de sua citação válida. Por isso, contraditória a decisão unipessoal.
+Firme nesses argumentos, requer seja reconhecida e declarada a prescrição da pretensão do Embargado/Apelado.
+Sem contrarrazões.
+Eis o relato necessário. DECIDO.
+De proêmio, registro que estes Aclaratórios devem ser julgados monocraticamente, nos termos do art. 1.024, § 2.o do CPC, pois foram opostos contra decisão unipessoal desta Relatora.
+A decisão objeto da embargabilidade assim está redigida:
+[...] Vistos etc.
+Trata-se de Recurso de Apelação Cível interposto por Roberto Carlos Cardoso da Silva em virtude da sentença proferida pela Juíza da 3.a Vara Cível da Comarca de Primavera do Leste que acolheu, em parte, os Embargos Monitórios opostos pelo Recorrente para declarar a ilegitimidade passiva de Ronaldo Cardoso da Silva e, diante da extinção do feito em relação a ele, condenou o Requerente (Luiz Fernando) ao pagamento de honorários advocatícios, os quais fixou em 3% do valor da causa, nos termos do artigo 338, § 1.o, do CPC.
+Além disso, afastou a prescrição quinquenal arguida e, no mérito, reconheceu o excesso da cobrança quanto aos juros e correção monetária.
+Via de consequência, julgou procedente a Ação Monitória, constituindo de pleno direito o título executivo judicial no valor de R$ 286.800,00 (duzentos e oitenta e seis mil, oitocentos reais), devendo ser aplicada a correção monetária a partir da data da emissão dos cheques e juros de mora a contar da primeira apresentação ao Banco Sacado.
+Por fim, fixou honorários advocatícios em 10% (dez por cento) do valor da condenação, nos termos do artigo 85, § 2.o do CPC. E, tendo em vista a sucumbência recíproca, condenou a parte Requerente (Luís Fernando) na proporção de 30% (trinta por cento) e a parte Requerida (Roberto Carlos) ao pagamento de 70% (setenta por cento), nos termos do artigo 86 do CPC.
+Em suas razões recursais, o Apelante defende a ocorrência da prescrição da pretensão do Apelado.
+Salienta que a ação monitória deveria ter sido ajuizada até 27/01/2018; contudo, foi apresentada somente em 21/05/2020, não observando o Enunciado Sumular 503 do STJ.
+Aduz que as causas interruptivas da prescrição encontram-se taxativamente previstas no art. 202 do Código Civil, sendo que o ajuizamento de uma ação autônoma de conhecimento não se encontra inserido entre as hipóteses legais que interrompem o prazo prescricional.
+Firme nesses argumentos, requer a reforma da sentença a fim de que os Embargos Monitórios sejam acolhidos em sua integralidade e, por conseguinte, que seja invertido o ônus da sucumbência para o fim de condenar o Apelado, nos termos do artigo 85, §2o do CPC, em percentual compreendido entre 10% a 20% do valor atualizado da causa.
+Contrarrazões no ID. 88862544.
+Eis o relatório. DECIDO.
+Desde logo, verifica-se que o caso se coaduna com o entendimento sumulado do STJ no verbete sumular 568/STJ, em que “o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.” (STJ. Corte Especial. Aprovada em 16/03/2016. DJe 17/03/2016). Diante disto, passo a analisar e decidir monocraticamente.
+Exsurge dos autos que Luís Fernando Silva Lobo ingressou com Ação Monitória em desfavor de Roberto Carlos Cardoso da Silva e Ronaldo Cardoso da Silva alegando ser credor dos Requeridos, na quantia de R$ 286.800,00 (duzentos e oitenta e seis mil, oitocentos reais).
+Esclareceu que o crédito advém dos dois cheques que foram emitidos a seu favor, em 28/01/2013, para o pagamento das reses bovinas adquiridas pelos Requeridos, sendo o primeiro de R$ 136.800,00 (cento e trinta e seis mil e oitocentos reais), e o segundo na importância de R$ 150.000,00 (cento e cinquenta mil reais), os quais foram devolvidos pelo Banco Sacado em 20/05/2014 pelo motivo “cheque sem fundos”.
+Ao final, requereu a condenação dos Requeridos ao pagamento de R$ 780.379,98 (setecentos e oitenta mil, trezentos e setenta e nove reais e noventa e oito centavos), já acrescido de correção monetária e juros legais.
+Citados, os Requeridos opuseram Embargos Monitórios (ID. 88862517) alegando, em preliminar, a ilegitimidade passiva do Embargante Ronaldo Cardoso da Silva, vez que não assinou, endossou ou avalizou os cheques objeto da Ação Monitória.
+Argumentaram, com arrimo no Enunciado Sumular 503 do STJ, que a pretensão autoral está prescrita, pois entre a data da emissão dos cheques (28/01/2013) até a propositura da Ação Monitória (21/05/2020) já decorreram mais de cinco anos, não incidindo qualquer hipótese do art. 202 do Código Civil para a interrupção da prescrição.
+No mérito, sustentaram cobrança excessiva dos consectários legais pelo Embargado, isso porque, calculou juros de mora desde a data da emissão dos cheques (28/01/2013) e que os títulos foram apresentados para compensação bancária somente em 20/05/2014.
+Defenderam, nesse ponto, que a correção monetária deve ser aplicada a partir da data de emissão estampada na cártula e, os juros de mora a partir da primeira apresentação à instituição financeira sacada.
+Declararam, por fim, que entendem devido o valor de R$ 713.777,50 (setecentos e treze mil, setecentos e setenta e sete reais e cinquenta centavos), cujo cálculo observou as regras do art. 52, II da Lei 7.357/85.
+A impugnação aos Embargos foi anexada no ID. 88862520.
+Intimados para manifestação sobre as provas que pretendiam produzir, o Requerente pugnou pelo julgamento antecipado da lide e os Requeridos deixaram transcorrer in albis o prazo processual.
+Após, sobreveio sentença em que o Juiz acolheu a preliminar de ilegitimidade passiva Ronaldo Cardoso da Silva, vez que os cheques foram emitidos pelo co-titular da conta (Roberto Carlos Cardoso da Silva), e declarou a extinção da demanda em relação a ele (Ronaldo), nos termos do art. 485, VI, do CPC.
+Por derradeiro, condenou o Requerente ao pagamento de honorários advocatícios em favor de Ronaldo Cardoso da Silva, os quais fixou em 3% do valor da causa, nos termos do artigo 338, §1o, do CPC.
+Ademais, rejeitou a prejudicial de prescrição quinquenal e, no mérito, acolheu parte dos Embargos Monitórios para reconhecer excesso na cobrança dos juros e correção monetária, nos termos do artigo 487, I, do CPC.
+Via de consequência, julgou procedente o pedido formulado na Ação Monitória, constituindo de pleno direito o título executivo judicial no valor de R$ 286.800,00 (duzentos e oitenta e seis mil, oitocentos reais), com correção monetária a partir da data da emissão dos cheques e juros de mora a contar da primeira apresentação ao Banco Sacado.
+Fixou honorários advocatícios em 10% (dez por cento) do valor da condenação, nos termos do artigo 85, §2o do CPC. E, tendo em vista a sucumbência recíproca, condenou a parte Requerente (Luís Fernando) na proporção de 30% (trinta por cento) e a parte Requerida (Roberto Carlos) ao pagamento de 70% (setenta por cento), nos termos do artigo 86 do CPC.
+Roberto Carlos Cardoso da Silva interpôs este Apelo, alegando a ocorrência da prescrição da pretensão autoral.
+Para o desate da querela, importante elucidar que antes de ajuizar esta Ação Monitória, o credor/Apelado Luís Fernando Silva Lobo ingressou, em 29/04/2014, na Comarca de Novo São Joaquim, com Ação de Execução de Título Extrajudicial em face do devedor/Apelante, objetivando o recebimento do mesmo crédito objeto desta demanda.
+Naquela ação, que tramitou sob o n.o 0000327-47.2014.8.11.0106, os devedores Roberto Carlos Cardoso da Silva e Ronaldo Cardoso da Silva opuseram Embargos à Execução (n.o 0000110-96.2017.8.11.0037) alegando, em preliminar, a incompetência territorial do Juízo. No mérito, defenderam a ocorrência da prescrição da pretensão executiva.
+Os autos foram remetidos à Comarca de Primavera do Leste e, em 07/01/2020, a Juíza singular proferiu sentença acolhendo os Embargos à Execução, e reconheceu a prescrição, nos termos do art. 33 c/c art. 59 da Lei 7.357/85 c/c 487, II, do CPC.
+Na mesma data (07/01/2020) lançou sentença na Ação de Execução de Título Extrajudicial n.o 0000327-47.2014.8.11.0106, extinguindo o feito em virtude da prescrição.
+Pois bem. Ao que se observa, esta Ação Monitória foi ajuizada em 21/05/2020 e tem como objeto a conversão de dois cheques em título executivo, os quais foram emitidos nas seguintes datas:
+· Cheque n.o no 003405 - valor de R$ 136.800,00 - emitido em 28/01/2013
+· Cheque no 003406 - valor de R$150.000,00 - emitido em 28/01/2013.
+No que se refere ao prazo prescricional, o Superior Tribunal de Justiça fixou o entendimento por meio do Enunciado Sumular n.o 503, no sentido de que, quando o cheque perder a força executiva, o ajuizamento de Ação Monitória deve ocorrer no prazo de 5 anos, a contar do dia seguinte à data da emissão.
+O Código Civil preconiza, no art. 202, que haverá a interrupção da prescrição: i) por despacho do juiz, mesmo incompetente, que ordenar a citação, se o interessado a promover no prazo e na forma da lei processual; ii) por protesto, nas condições do inciso antecedente; iii) por protesto cambial; iv) pela apresentação do título de crédito em juízo de inventário ou em concurso de credores; v) por qualquer ato judicial que constitua em mora o devedor; vi) por qualquer ato inequívoco, ainda que extrajudicial, que importe reconhecimento do direito pelo devedor.
+Ao manusear a Ação de Execução de Título Extrajudicial, verifica-se que as tentativas de citação do Apelante não lograram êxito.
+No entanto, não se pode perder de vista que o Executado, aqui Apelante, compareceu àqueles autos, espontaneamente, em 10/02/2017, e apresentou Embargos à Execução.
+Com isso, o prazo prescricional de cinco anos para a propositura da Ação Monitória foi interrompido em 10/02/2017, por força do comparecimento espontâneo do devedor nos autos da Ação de Execução de Título Extrajudicial n.o 0000327-47.2014.8.11.0106, mediante a oposição dos Embargos à Execução n.o 0000110-96.2017.8.11.0106.
+É de se ressaltar, ainda, que de acordo com o parágrafo único do art. 239 do Código de Processo Civil, a prescrição interrompida recomeça a correr da data do ato que a interrompeu, ou do último ato do processo para interrompê-la.
+Nesse sentido, é a jurisprudência do Superior Tribunal de Justiça:
+RECURSO ESPECIAL. CIVIL. PRESCRIÇÃO. INTERRUPÇÃO POR PROTESTO JUDICIAL. RECONTAGEM DO PRAZO. EXTINÇÃO DO PROCESSO.
+1. Ação ajuizada em 26/04/2013. Recurso Especial interposto em 23/07/2014 e atribuído a este Gabinete em 25/08/2016.
+2. O propósito recursal consiste, simplesmente, em verificar qual o exato termo de reinício de recontagem do prazo prescricional interrompido por protesto judicial.
+3. É fato que o art. 202, II, do CC/2002 dispõe que o protesto judicial se encontra entre as causas de interrupção da prescrição. O parágrafo único do mencionado dispositivo, por sua vez, afirma expressamente que "a prescrição interrompida recomeça a correr da data do ato que a interrompeu, ou do último ato do processo para a interromper".
+4. Quando a interrupção de prescrição se der em virtude de demanda judicial, o novo prazo só correrá da data do último ato do processo, que é aquele pelo qual o processo se finda. Precedentes.
+5. Recurso especial conhecido e provido. (STJ. REsp 1.512.283/SP. Relatora Ministra Nancy Andrighi. Terceira Turma. Julgado em 14/8/2018. Publicado em 17/8/2018). (sem destaque no original)
+Diante dessas premissas, não pairam dúvida que o prazo quinquenal para o ajuizamento da Ação Monitória pelo Apelado reiniciou em 07/01/2020, ou seja, na data em que foi proferida a sentença (último ato processual) na Ação de Execução de Título Extrajudicial n.o 0000327-47.2014.8.11.0106.
+Com efeito, levando em consideração que o recomeço do prazo prescricional se deu em 07/01/2020 e, que a Ação Monitória foi ajuizada em 21/05/2020, não há falar em prescrição da pretensão autoral pois observado pelo Recorrido o quinquídio legal.
+Feitas essas considerações, com arrimo no Enunciado Sumular 568 do STJ, nego provimento ao recurso e mantenho inalterada a sentença objurgada.
+Diante do desprovimento deste recurso, tendo em vista que os honorários advocatícios foram arbitrados de forma pro rata na Instância a quo, em atenção ao art. 85, § 11.o do CPC, majoro a verba honorária fixada em favor do patrono do Apelado para 12% do valor da condenação, observada a proporção fixada pelo Juiz singular (70% pela parte Requerida/Apelante).
+Publique-se.
+Intime-se.
+Roberto Carlos Cardoso da Silva aduz a existência dos vícios de omissão e contradição.
+Como é cediço, o artigo 1.022 do diploma processual civil prevê que o Recurso de Embargos de Declaração é oponível para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual deveria se pronunciar o Juiz de ofício ou a requerimento e/ou corrigir erro material.
+Nesse prisma, considera-se omissa a decisão que deixa de apreciar ponto ou questão relevante, inclusive no tocante às matérias que deva conhecer de ofício.
+A contradição, por sua vez, ocorre quando a decisão traz proposições inconciliáveis entre si, de forma que a afirmação de uma logicamente significará a negação de outra.
+Na hipótese, o Embargante alega que esta Relatora “não reservou uma única linha sequer para analisar o pedido envolvendo a impossibilidade de interpretação extensiva das causas de interrupção da prescrição”, ensejando na violação ao artigo 93, IX da Constituição Federal e artigo 489, II do CPC.
+Necessário dizer, contudo, que o julgador não está obrigado a responder todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão.
+Em outros termos, o julgador possui o dever de enfrentar apenas as questões capazes de infirmar (enfraquecer) a conclusão adotada na decisão recorrida. Nesse sentido: AgInt no REsp n.o 1.757.501/SC, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 3/5/2019; AgInt no REsp n.o 1.609.851/RR, Rel. Min. Regina Helena Costa, Primeira Turma, Dje 14/8/2018; REsp n.o 1.486.330/PR, Rel. Ministro Og Fernandes, Segunda Turma, Dje 24/2/2015.
+Assim, em que pese ao Embargante sustentar a impossibilidade de interpretação extensiva das causas de interrupção da prescrição, não há falar em omissão no decisum apenas porque a conclusão desta Relatora caminhou em sentido contrário aos interesses do Recorrente.
+Ademais, não entrevejo contradição no que se refere ao exame da prescrição.
+Nesse aspecto, está consignado que o prazo para o ajuizamento da Ação Monitória pelo Apelado/Embargado é de 5 (cinco) anos, a contar do dia seguinte à data da emissão do cheque (28/01/2013) pelo Apelante.
+A contagem deste prazo, todavia, foi interrompido em 10/02/2017, mediante o comparecimento espontâneo do Embargante/Executado nos autos da Ação de Execução de Título Extrajudicial, oportunidade em que apresentou Embargos à Execução.
+Assim, em que pese ao Embargante defender a ausência de sua citação válida, imperioso aclarar que, de acordo com o art. 239, § 1.o, do CPC, o comparecimento espontâneo do executado supre a falta ou a nulidade da citação.
+Ainda, consoante dicção do art. 239, caput do mesmo Diploma Processual, a prescrição interrompida recomeça a correr da data do ato que a interrompeu, ou do último ato do processo para interrompê-la.
+Nessa linha de intelecção, considerando que na Execução de Título Extrajudicial foi proferida sentença em 07/01/2020; considerando os Precedentes do Superior Tribunal de Justiça no sentido de que “Quando a interrupção de prescrição se der em virtude de demanda judicial, o novo prazo só correrá da data do último ato do processo, que é aquele pelo qual o processo se finda”; e, considerando que a Ação Monitória foi ajuizada pelo Embargado/Apelada em 21/05/2020, não há falar em prescrição, pois observado o quinquídio legal pelo Apelado/Embargado.
+Nota-se, assim, que os fundamentos lançados no decisum foram expostos de maneira clara e com proposições conciliáveis entre si.
+Evidente, pois, que estes Aclaratórios se traduzem na insatisfação do Embargante quanto ao resultado obtido no julgamento do Apelo; contudo, a via dos Aclaratórios não pode ser utilizada para a rediscussão da matéria já que seu cabimento está restrito às hipóteses do art. 1.022 do CPC.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO – ACÓRDÃO QUE DESPROVEU O RECURSO E MANTEVE DECISÃO MONOCRÁTICA QUE JULGOU PREJUDICADO O RECURSO DE APELAÇÃO CÍVEL - AÇÃO DE EXECUÇÃO DE ALIMENTOS – AUSÊNCIA DE VÍCIOS NO JULGADO - REDISCUSSÃO – DESCABIMENTO - CORREÇÃO DE OFÍCIO – POSSIBILIDADE - RECURSO REJEITADO.
+1. Inexistindo omissão, obscuridade ou contradição na decisão recorrida, hão de ser rejeitados os embargos de declaração, não se prestando tal recurso para reexame da causa.
+2. O vício alegado está calcado, em verdade, na insatisfação da Embargante com o deslinde dado ao seu recurso, de modo que os argumentos por ela lançados revelam, de um só modo, a ausência dos requisitos traçados no art. 1.022, do CPC, e o manifesto objetivo de renovar pela via inadequada dos declaratórios o exame das questões apreciadas a contento.
+3. “O erro material, passível de ser corrigido de ofício, e não sujeito à preclusão, é o reconhecido primu ictu oculi, consistente em equívocos materiais sem conteúdo decisório propriamente dito”. (STJ – 3a Turma – REsp 1151982/ES – Rel. Ministra NANCY ANDRIGHI – j. 23/10/2012, DJe 31/10/2012). (TJMT. Embargos de Declaração n.o 0000095-31.2016.8.11.0020. Des. Sebastião de Moraes Filho. Julgado em 12/08/2020. Publicado em 14/08/2020).
+Feitas essas considerações, ante a inexistência dos vícios de omissão e contradição, rejeito os Embargos de Declaração.
+Publique-se.
+Intime-se.
+Cuiabá, 31 de agosto de 2.021
+Desa. Clarice Claudino da Silva
+Relatora
