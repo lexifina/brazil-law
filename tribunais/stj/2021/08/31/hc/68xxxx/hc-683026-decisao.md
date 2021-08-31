@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de CLEBER ROSA DE MORAES SALES, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0010795.2021.8.26.0506) assim ementado (fl. 83):
+AGRAVO EM EXECUÇÃO. PRETENDIDA PROGRESSÃO AO REGIME SEMIABERTO E LIVRAMENTO CONDICIONAL - AUSÊNCIA DE REQUISITO SUBJETIVO. ATESTADO MAU COMPORTAMENTO CARCERÁRIO - OBSERVAÇÃO DO PRINCÍPIO IN DUBIO PRO SOCIETATE EM MATÉRIA DE EXECUÇÃO PENAL. QUANTO AO PEDIDO DE LIVRAMENTO CONDICIONAL, PEDIDO INCOGNOSCÍVEL - SUPRESSÃO DE INSTÂNCIA - RECURSO DESPROVIDO COM RELAÇÃO A PROGRESSÃO AO REGIME INTERMEDIÁRIO E NÃO CONHECIDO COM RELAÇÃO AO PEDIDO DE LIVRAMENTO CONDICIONAL.
+O paciente cumpre pena de 14anos, 5meses e 8dias de reclusãopela prática docrimeprevistono art. 157, capute § 2º, Ie II, do Código Penal.
+O Juízo das execuções indeferiu o pedido de progressão de regime.
+A defesa interpôsagravo em execução.
+O Tribunal de origem negou provimento ao pedido de progressão de regime e não conheceu do pedido de livramento condicional.
+A impetrante aponta constrangimento ilegal uma vez que o paciente cumpriu os requisitos legais exigidos para a concessão do benefício pleiteado, defendendo que faltas graves antigas e reabilitadas não podem ser utilizadas para obstaculizar o benefício.
+Requer, liminarmente e no mérito, a concessão da ordem de habeas corpus para que seja deferido olivramento condicional ou, subsidiariamente, a progressão de regime.
+O pedido de liminar foi indeferido (fls. 95-96).
+Prestadas as informações (fls. 102-130), o Ministério Público Federal opinou pelo não conhecimento da impetração (fls. 132-137).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+O Juízo da execução penal indeferiu o pedido de progressão nestes termos (fl. 50):
+Osentenciado registra atualmente "mau comportamento carcerário" (fls. 223/230); pelo que seu pedido será novamente analisado somente diante de novo e satisfatório atestado.
+O Tribunal de origem negou provimento ao recurso defensivo. Para tanto, adotou os seguintes fundamentos (fls. 84-85):
+Consta dos autos que o agravante cumpre pena que totaliza 14 anos, 05 meses e 08 dias de reclusão, em razão da prática dos delitos de roubos qualificados e furtos qualificados, pois sua vida prisional teve início em 2008 e o término de cumprimento de sua pena está previsto para o dia 12/11/2022, além do cometimento de várias faltas disciplinares, em que pese já estarem reabilitadas.
+Por decisão proferida no dia 18/05/2021, foi indeferido a progressão de regimeformulado pelo ora agravante, por ausência de mérito subjetivo, senso lastrada a decisão ante os mausantecedentes ostentados pelo agravante.
+O presente recurso não comporta provimento.
+Em que pese o paciente ter cumprido o requisito objetivo, no presente caso, não ficou demonstrado o preenchimento do requisito subjetivo a ensejar a pretendida progressão de regime.
+Como se pôde verificar, o magistrado a quo indeferiu ao agravante a progressão ao regime semiaberto ante a ausência do requisitosubjetivo.
+Assim, entendo que a cautela manifestada pelo Juízo justifica-se, eis que, no caso em apreço, o agravante praticou faltas disciplinares de natureza grave, embora estejam as faltas reabilitadas, há ainda o fato do mau comportamento carcerário do agravante (fls. 26).
+Não se verifica constrangimento ilegal no tocante à questão, pois foi desenvolvida fundamentação idônea, reconhecendo-se não estar preenchido o requisito subjetivo,a obstar o pleito de progressão de regime, uma vez ter sido constatada a prática de faltas disciplinares de natureza grave e mau conduta carcerária.
+Confira-se julgadoa respeito:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. INDEFERIMENTO. NÃO PREENCHIMENTO DO REQUISITO SUBJETIVO.HISTÓRICO PRISIONAL CONTURBADO. PRÁTICA DE QUATRO FALTAS GRAVES.AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. DECISÃO MANTIDA. INSURGÊNCIA DESPROVIDA.
+1. Nos termos do disposto no art. 112 da Lei de Execução Penal, para que o reeducando faça jus à promoção carcerária é necessário o preenchimento de requisitos objetivo e subjetivo.
+2. O requisito subjetivo, aferido também por meio de atestado de bom comportamento carcerário expedido pelo diretor do estabelecimento prisional, não obsta a que o magistrado da execução indefira o benefício quando entender não preenchida a exigência, desde que aponte peculiaridades da situação fática que demonstrem a ausência de mérito do condenado, como no caso.
+3. Na hipótese, foram indicados pela Corte a quo fatos concretos ocorridos no curso do resgate da pena que demonstram o histórico prisional conturbado do paciente, com a prática de "quatro infrações disciplinares de natureza grave, em clara demonstração de que sua periculosidade ainda não sofreu a atenuação necessária, para que possa cumprir o restante da reprimenda em regime semiaberto" (e-STJ fl. 66).
+4. Mantém-se a decisão singular que não conheceu do habeas corpus, por se afigurar manifestamente incabível, e não concedeu a ordem de ofício em razão da ausência de constrangimento ilegal a ser sanado.
+5. Agravo regimental desprovido.(AgRg no HC n. 518.057/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 10/10/2019.)
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS.EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. REQUISITO SUBJETIVO NÃO IMPLEMENTADO. REGISTRO DE FALTAS DISCIPLINARES. HISTÓRICO DE INFRAÇÕES. EXAME CRIMINOLÓGICO FAVORÁVEL. NÃO VINCULAÇÃO.FUNDAMENTAÇÃO CONCRETA. AGRAVO IMPROVIDO.
+1. Ainda que haja atestado de boa conduta carcerária, a análise desfavorável do mérito do condenado feita pelo Juízo das execuções, com base nas peculiaridades do caso concreto e levando em consideração fatos ocorridos durante a execução penal, justifica o indeferimento do pleito de progressão de regime prisional pelo inadimplemento do requisito subjetivo.  ..  (AgRg no HC 444.379/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 08/10/2019, DJe 18/10/2019).
+2. A prática de faltas graves é indicativa da ausência de cumprimento do requisito subjetivo da progressão de regime.A circunstância de o paciente já haver se reabilitado, pela passagem do tempo, desde o cometimento das sobreditas faltas, não impede que se invoque o histórico de infrações praticadas no curso da execução penal, como indicativo de mau comportamento carcerário (HC n. 347.194/SP, Rel. Ministro FELIX FISCHER, julgado em 28/6/2016).
+3. O exame criminológico não vincula o magistrado, que deverá formar sua convicção após a análise de todos os elementos constantes dos respectivos autos.  ..  (HC 372.954/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, Sexta Turma, julgado em 2/2/2017, DJe 10/2/2017).
+4. No caso, o paciente tem em seu Boletim Informativo o registro de 3 faltas graves e uma média, uma de 2013 e as outras de 2012, não tendo implementado, assim, o requisito subjetivo para a progressão ao regime semiaberto.
+5. Agravo improvido.(AgRg nos EDcl no HC n. 673.334/SP, relatorMinistro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 28/6/2021, destaquei.)
+No que diz respeito ao pedido de livramento condicional, a matéria não foi apreciada no Juízo de primeirograu, tampouco no acórdão impugnado. Assim, o Superior Tribunal de Justiça não pode dela conhecer, sob pena de indevida supressão de instância.
+Nessa linha:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXTORSÃO MEDIANTE SEQUESTRO QUALIFICADA. PROGRESSÃO AO REGIME SEMIABERTO. EXAME CRIMINOLÓGICO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ELEMENTOS COMPROBATÓRIOS DE PREENCHIMENTO DOS REQUISITOS OBJETIVOS PARA PROGRESSÃO DE REGIME. AGRAVO IMPROVIDO.
+1. Matéria que não foi analisada no Tribunal estadual não pode ser objeto de análise desta Corte Superior, sob pena de indevida supressão de instância.
+2. Não há comprovação de manifestação da Corte estadual sobre o preenchimento dos requisitos objetivos e subjetivos para que o paciente possa progredir do regime fechado ao semiaberto, muito menos sobre os fundamentos da decisão do Juiz da Execução Penal para determinar a realização de exame criminológico.
+3. Não consta nos autos nenhum documento que comprove que o paciente, pelo menos, cumpriu os requisitos objetivos para a progressão de regime prisional. Ao contrário, consta condenação em elevada pena, isto é, o próprio agravante informa que no julgamento do apelo criminal realizado em agosto de 2018 foi determinada a pena de 14 anos, 8 meses e 12 dias de reclusão em regime fechado. Ressalta-se ainda que o paciente foi condenado pelo crime previsto no artigo 159, § 1º, do Código Penal, que é conduta qualificada como hedionda (art. 1º, IV, Lei 8.072/90), e que por isso tem percentual diferenciado para a progressão de regime.
+4. Agravo regimental improvido. (AgRg no HC n. 597244/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 18/8/2020.)
+Desse modo, não se verifica flagrante ilegalidadeapta a justificar a concessão da ordem de ofício pelo STJ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
