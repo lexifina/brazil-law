@@ -1,0 +1,4 @@
+Art. 8º O investidor que realizar o aporte de capital a que se refere o art. 5º desta Lei Complementar:
+I - não será considerado sócio ou acionista nem possuirá direito a gerência ou a voto na administração da empresa, conforme pactuação contratual;
+II - não responderá por qualquer dívida da empresa, inclusive em recuperação judicial, e a ele não se estenderá o disposto no art. 50 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), no art. 855-A da Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, nos arts. 124, 134 e 135 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), e em outras disposições atinentes à desconsideração da personalidade jurídica existentes na legislação vigente.
+Parágrafo único. As disposições do inciso II do caput deste artigo não se aplicam às hipóteses de dolo, de fraude ou de simulação com o envolvimento do investidor.
