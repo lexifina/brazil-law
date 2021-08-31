@@ -1,0 +1,10 @@
+DECISÃO
+Por meio da petição de fls. 627/633, a ORDEM DOS ADVOGADOS DO BRASIL - CONSELHO FEDERAL requer sua admissão no feito na condição de amicus curiae.
+Nos termos do art. 138, caput, do CPC/2015, "o juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação".
+Nesse contexto, alega o Conselho Federal que a sua intervenção no feito "é salutar, recomendável, de interesse de toda a classe, porque envolvida discussão acerca da adequada aplicação da lei processual vigente, que pode representar um precedente importante à luz da nova sistemática processual advinda da Lei n. 13.105/15 (CPC/15)".
+Como visto, o requerente pugna para figurar no feito, na condição deamicus curiae, para defender o mérito da questão. Contudo, na espécie, o recurso especial nem sequer foi conhecido, em virtude da incidência dos óbices das Súmulas 283/STF e 211/STJ.Destarte,havendo confirmaçãododecisum, quando do julgamento do agravo interno interposto, o mérito recursal nem sequer será conhecido.
+Por outro lado, não se tratando de "processo objetivo", o eventual ingresso de terceiro no feito deve ocorrer de acordo com uma das hipóteses previstas no Código de Processo Civil. Conforme já decidiu a Corte Especial/STJ, em "ação de natureza subjetiva", não há razões que justifiquem a intervenção do Conselho Federal da OAB, tendo em vista que a discussão não é "em tese", e sim pertinente às partes (AgRg nos EREsp 1.019.178/DF, Corte Especial, Rel. Min. Eliana Calmon, DJe de 20.5.2013).
+Por tais razões, não se justifica o ingresso na forma pleiteada.
+Desse modo, indefiro o pedido de ingresso no feito.
+Publique-se. Intimem-se.
+Após, voltem-me conclusos para apreciação do agravo interno de fls. 606/619.
