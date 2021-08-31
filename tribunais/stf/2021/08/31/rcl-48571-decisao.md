@@ -1,0 +1,23 @@
+DECISÃO
+    1. Em 27.7.2021, julguei procedente a presente reclamação, com requerimento de medida liminar, ajuizada em 23.7.2021 por Fillipe Soares Moreira contra ato do juízo da Primeira Vara Criminal e da Infância e Juventude da Comarca de Coronel Fabriciano/MG, pelo qual teria sido contrariada a decisão deste Supremo Tribunal proferida no julgamento da Arguição de Descumprimento de Preceito Fundamento n. 347.
+    Determinei ao juízo da Primeira Vara Criminal e da Infância e Juventude da Comarca de Coronel Fabriciano/MG realizasse, observada a disponibilidade da data de 9.8.2021, com observância dos cuidados indispensáveis e empregando os esforços para disponibilização dos recursos tecnológicos necessários, audiência de custódia, física ou virtual, com a presença do reclamante, da defesa técnica e do órgão do Ministério Público, observadas as peculiaridades locais da prestação jurisdicional em razão da pandemia de Covid-19, e decidisse como de direito sobre a manutenção ou não da prisão cautelar.
+    Determinei fosse oficiado, com urgência:
+    a) ao juízo da Primeira Vara Criminal e da Infância e Juventude da Comarca de Coronel Fabriciano/MG, para ciência e cumprimento dessa decisão, enviando, com urgência e por meio eletrônico, cópia da decisão proferida;
+    b) ao Presidente do Tribunal de Justiça e ao Desembargador Corregedor daquele Tribunal, para ciência e adoção de providências para garantir a integral e pronta execução da decisão, remetendo-se a ambos cópias da inicial desta reclamação e da decisão proferida; e
+    c) à Corregedora Nacional do Conselho Nacional de Justiça, enviando-lhe cópia da decisão proferida e das informações prestadas pelo Juiz reclamado, para as providências devidas.
+    2. Em 30.8.2021, a defesa do reclamante protocolizou as Petições/STF ns. 84.482/2021 e 84.483/2021, nas quais alega:
+    “A princípio, postulo pelo desarquivamento da presente reclamação, para que as providências que ora serão requeridas, sejam acatadas.
+    Como se sabe, este Advogado, na qualidade de dativo, apresentou reclamação constitucional em face do r. Juízo da Vara Criminal da Comarca de Coronel Fabriciano, MG, no intuito que fosse realizada audiência de custódia do Reclamante Fillipe Soares Moreira.
+    Com efeito, Vossa Excelência julgou procedente sobredita reclamação, determinando que fosse realizada audiência de custódia do Reclamante.
+    Entrementes, no bojo da i. decisão, também determinou que fosse oficiado, ‘com urgência, ao Presidente do Tribunal de Justiça e ao Desembargador Corregedor daquele Tribunal, para ciência e adoção de providências para garantir a integral e pronta execução desta decisão, remetendo-se a ambos cópias da inicial desta reclamação e desta decisão. Oficie-se, com urgência, à Corregedora Nacional do Conselho Nacional de Justiça, enviando-lhe cópia da presente decisão e das informações prestadas pelo Juiz reclamado, para as providências devidas.’
+    Destaca este Advogado que, máxima vênia, não solicitou o acionamento das respectivas corregedorias. Contudo, entendo perfeitamente que, por questões burocráticas, tal procedimento deve ser comum no âmbito desta Suprema Corte.
+    Pondero também que, a Defesa deve sempre assegurar garantir direitos, como fiz e jurei fazer. Não arrependo em momento algum de ter ajuizado a reclamação em tela, pois a Constituição Federal foi cumprida, por meio desta decisão. Entrementes, sinceramente, jamais gostaria de ter causado este desconforto retrocitado, máxime pela grandeza do d. Magistrado de primeiro grau.
+    E aqui venho, na primeira pessoa do singular, sem intuito algum de bajulação, ou receio de novas nomeações, mas apenas para fins de que esta petição seja remetida às corregedorias oficiadas, para que saibam quem é o Magistrado Paulo Sérgio Vidal.
+    O Magistrado acima é um verdadeiro cavalheiro, imparcial, um exímio exemplo de Juiz. Deve ser aclarado sua maior qualidade, na visão deste Advogado, o respeito às partes e ausência de inclinação para um lado determinado.
+    Os custodiados e menos afortunados jamais são humilhados, recebendo sempre a urbanidade necessária de um Magistrado à altura. As decisões, malgrado eu nem sempre concorde, são impecáveis, comedidas e técnicas”.
+    Pede, “por dever moral, (...) que seja remetida a petição em voga para a Corregedoria do CNJ, bem como a do TJMG e, por fim, ao Presidente do TJMG”.
+    3. Pelo exposto, defiro o pedido formulado nas Petições/STF ns. 84.482/2021 e 84.483/2021 e determino a remessa dessas petições à “Corregedoria do CNJ, bem como a do TJMG e, por fim, ao Presidente do TJMG”.
+    Publique-se.
+    Brasília, 31 de agosto de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
