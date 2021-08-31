@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido liminar interposto por RONIVON JESUS DA SILVAcontra acórdão do Tribunal de Justiça do Estado de São Paulo no julgamento do HC n. 2082539-57.2021.8.26.0000.
+Consta dos autos que o ora recorrente foi preso em flagrante, em 12/3/2021, e posteriormentedenunciado pela suposta prática de roubo majorado (art. 157, § 2º, II e V, e § 2º-A, I,do Código Penal). A custódia foi convertida em prisão preventiva (e-STJ fls. 40/42).
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, buscando a revogação da segregação cautelar, por falta de fundamentação idônea da decisão que a impôs.
+Contudo, em sessão de julgamento realizada no dia 28 de maio de 2021, a 9ª Câmara Criminal, por unanimidade, denegou a ordem, em acórdão ementado nos seguintes termos (e-STJ fl. 85):
+HABEAS CORPUS - Roubo - Prisão preventiva - Inteligência dos artigos 312 e 313 do Código de Processo Penal - Requisitos objetivos e subjetivos verificados - Decisão do Juízo fundamentada - Liberdade provisória incabível - Pleito de conversão de prisão em prisão domiciliar - Paciente com filho menor - Decisão proferida pelo C. STF no Habeas Corpus (HC 165704 HC 165704/DF, rel. Min. Gilmar Mendes, julgamento em 20.10.2020) coletivo para determinar a substituição da prisão cautelar por domiciliar dos pais e responsáveis por crianças menores de 12 anos e pessoas com deficiência, desde que cumpridos os requisitos previstos no artigo 318 do Código de Processo Penal (CPP) e outras condicionantes - Caso concreto que deveras se insere nas "situações excepcionalíssimas" previstas no Habeas Corpus Coletivo nº 143.641/SP do C.STF - ORDEM DENEGADA.
+No presente recurso (e-STJ fls. 104/123), reiteraa alegação de ausência de fundamentação concreta do decreto de prisão preventiva.
+Destacaas condições pessoais favoráveis do recorrente.
+Requer, liminarmente e no mérito, o provimento do recurso para que seja revogada a prisão preventiva do recorrente, com a imediata expedição de alvará de soltura, ainda que com a aplicação de medidas cautelares alternativas.
+É, em síntese, o relatório.
+Decido.
+Conforme informações extraídas do sítio eletrônico do Tribunal de origem, foi proferida sentença no dia 13/8/2021, nos autos da Ação Penal n. 1500068-12.2021.8.26.0042, objeto do presente recurso, para julgar procedente a denúncia e condenar o recorrente à pena de 10 anos de reclusão, no regime fechado, pela prática do crime previsto noart. 157, caput,e § 2º, incisos II e V, e também § 2º-A, inciso I, do Código Penal.Foi-lhe negado o direito de recorrer em liberdade.
+Na linha da orientação firmada no âmbito da Sexta Turma desta Corte, a superveniência de novo título que mantém a segregação cautelar torna prejudicado o writ ou o recurso que se voltava contra a decisão que foi substituída.
+Nesse sentido:
+AGRAVO REGIMENTAL EM RECURSO EM HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO PREVENTIVA. ALEGAÇÃO DE AUSÊNCIA DE REQUISITOS AUTORIZADORES DA CUSTÓDIA CAUTELAR. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVO TÍTULO. EXPEDIDO ALVARÁ DE SOLTURA EM RELAÇÃO A UM DOS RECORRENTES, EM FACE DE SENTENÇA ABSOLUTÓRIA PROFERIDA EM SEU FAVOR. PERDA DE OBJETO. RECURSO DESPROVIDO.
+- Proferida sentença nos autos da ação penal a que se referem os autos, fica prejudicado o pedido de revogação da prisão por ausência de fundamentação no decreto preventivo, pois, nos termos da pacífica jurisprudência do Superior Tribunal de Justiça, eventual custódia do paciente decorre agora de novo título judicial, devendo os seus fundamentos serem submetidos à análise do Tribunal de origem antes de aqui apreciados, porquanto vedada a supressão de instância. Precedentes desta Corte e do Supremo Tribunal Federal - STF.
+ ..
+Agravo regimental desprovido.
+(AgRg no RHC 58.539/MG, relator Ministro ERICSON MARANHO, Desembargador convocado do TJSP, julgado em 18/8/2015, DJe de 4/9/2015.).
+Insta salientar que há fundamentação concreta no decreto prisonal para a segregação do recorrente, calcada na gravidade em concreto do delito, no qual o acusado e o corréu"demonstraram grande ousadia no cometimento de violento crime patrimonial, mediante utilização de arma de fogo e restrição da liberdade da vítima, fatos estes que revelam a personalidade deturpada dos agentese desapreço por valores morais, mediante prática de fatos que têm trazido intranquilidade e insegurança social à sociedade."(e-STJ fl. 41).
+Ante o exposto, indefiro liminarmente o presente recurso em habeas corpus.
+Publique-se. Intimem-se.
