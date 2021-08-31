@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por WMS SUPERMERCADOS DO BRASIL LTDA, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 549):
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO Nº 3 DO STJ. IMPOSSIBILIDADE DE ANÁLISE DE OFENSA A DISPOSITIVO DA CONSTITUIÇÃO FEDERAL EM SEDE DE RECURSO ESPECIAL. DESNECESSIDADE DE TRÂNSITO EM JULGADO DO RECURSO REPETITIVO PARA APLICAÇÃO DA TESE FIRMADA. VALOR ADUANEIRO. DESPESAS DE CAPATAZIA. INCLUSÃO. LEGALIDADE DO ART. 4º, § 3º, DA IN SRF 327/2003. ENTENDIMENTO ADOTADO PELA PRIMEIRA SEÇÃO DESTA CORTE, EM SEDE DE RECURSO ESPECIAL REPETITIVO, RESP 1.799.306/RS, NA ASSENTADA DE 11.3.2020. TEMA 1.014.
+1. Impossibilidade de análise de ofensa a dispositivos da Constituição Federal em sede de recurso especial, nem mesmo para fins de prequestionamento, sob pena de usurpação da competência do Supremo Tribunal Federal no âmbito do recurso extraordinário.
+2. Desnecessidade de trânsito em julgado do recurso repetitivo para fins de aplicação da tese firmada, sobretudo quando já publicado o acórdão paradigma. Nesse sentido já se manifestou o Supremo Tribunal Federal na Reclamação nº 30.996/SP, Rel. Ministro Celso DE Mello, julg. em 09/08/2018, pub. no DJe de 14/08/2018.
+3. A Primeira Seção desta Corte, na assentada de 11.3.2020, concluiu, por maioria, o julgamento dos REsps nºs 1.799.306/RS, 1.799.308/SC e 1.799.309/PR, na sistemática dos recursos especiais repetitivos, tema 1.014, DJe de 18.5.2020, dando provimento ao recurso especial da FAZENDA NACIONAL no sentido de entender pela inclusão das despesas relativas à capatazia no valor aduaneiro, base de cálculo do Imposto de Importação, reconhecendo a legalidade da IN SRF n. 327/2003, que não teria extrapolado o Decreto 6.759/2009 e demais legislação de regência.
+4. Agravo interno não provido.
+Opostos embargos de declaração, foram rejeitados (e-STJ fl. 595).
+Sustenta a recorrente a existência de repercussão geral e a violação dos arts. 5º, caput e incisos XXXIV, letra "a", XXXV, LIV e LV; 93, inciso IX; art. 5º, § 2º, c/c o art. 150, inciso I; 153, inciso I; 154, inciso I; e 156, inciso III, todos da Constituição Federal.
+Alega que se pretende "o reconhecimento da ilegalidade do art. 4º, §3º, da IN 327/2003, por se estabelecer naquela IN que no valor aduaneiro a ser utilizado como base de cálculo do Imposto de Importação (II), do Imposto sobre Produtos Industrializados (IPI) e do PIS/COFINS-Importação devem ser incluídas as despesas ocorridas a título de descarga da mercadoria após a chegada do navio que a transporta no porto brasileiro" (e-STJ fl. 608)
+Assevera que a inclusão de despesas de capatazia - movimentação de mercadorias, recebimento, conferência, transporte interno, abertura de volumes para a conferência aduaneira, manipulação, arrumação e entrega - na base de cálculo do valor aduaneiro ofende o princípio da legalidade tributária, bem como da reserva da competência tributária dos municípios.
+Destaca que houve vício no acórdão recorrido, aduzindo que esta Corte Superior não apreciou a alegação da insurgente sobre o pleito de aplicação da Súmula 182/STJ ao agravo interno interposto pela Fazenda Nacional, pois não teriaimpugnadotodos os fundamentos da decisão agravada.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às e-STJ fls. 649/672.
+É o relatório.
+O acórdão recorrido concluiupela inclusão das despesas relativas à capatazia no valor aduaneiro, base de cálculo do Imposto de Importação, reconhecendo a legalidade da IN SRF n. 327/2003, que não teria extrapolado o Decreto 6.759/2009 e demais legislação de regência.
+Ocorre que o acórdão proferido no julgamento do ARE n. 1.321.554/SC, que afirmou a inexistência derepercussão geral da matéria tratada no Tema n. 1.151/STF, ainda não transitouem julgado, impondo-se, assim, o sobrestamento deste recurso.
+Ante o exposto, com fundamento no art. 1.030, III, do Código de Processo Civil,determina-seo sobrestamento deste recurso extraordinário até o trânsito em julgado da decisão de mérito proferida pelo Supremo Tribunal Federal sobre o Tema n. 1.151/STF.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO.VALOR ADUANEIRO. DESPESAS DE CAPATAZIA. INCLUSÃO NA BASE DE CÁLCULO DO IMPOSTO DE IMPORTAÇÃO.TEMA 1.151/STF. RECURSO SOBRESTADO.
