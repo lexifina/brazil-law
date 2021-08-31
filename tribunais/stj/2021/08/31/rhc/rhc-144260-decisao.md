@@ -1,0 +1,91 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus interposto por WERICKSON BRENO FIRMINO DE SOUZA, contra acórdão do Tribunal de Justiça do Estado de Minas Gerais.
+Colhe-se dos autos que o recorrente teve a prisão em flagrante convertida em preventiva pela suposta prática dos delitos tipificados nos arts. 33, caput, e 35da Lei n. 11.343/2006.
+Nesta Corte, o recorrente alega falta de indícios suficientes de autoria para a decretação da custódia cautelar, uma vez que apenas estava pernoitando no imóvel onde foi apreendida a droga.
+Argumenta que não háfundamentação concreta no decreto preventivo, poiso juízo "a quo" decidiuapenas com base na quantidade de droga apreendida.
+Destaca que o recorrente possui apenas 20 anos de idade, trabalha como tatuador, tem bons antecedentes, é primário, possui residência fixa e não é conhecido pela prática de delitos.
+Aduz que o acusado inclusivepossui um filho menor, com 1 ano e 4 meses de idade, que depende da sua assistência, motivo pelo qual faz jus à prisão domiciliar.
+Pleiteia a revogação da prisão preventiva com a fixação, caso necessário, de medidas cautelares diversas.
+O pedido liminar foi indeferido (e-STJ, fl. 360).
+Informações prestadas (e-STJ, fls. 366-426 e 427-487).
+O Ministério Público Federal manifestou-se pelo provimento do recurso (e-STJ, fls. 492-495).
+É o relatório.
+Decido.
+O recurso não comporta provimento.
+Inicialmente, cabe esclarecer que é incabível, na estreita via dohabeas corpus, a análise de questões relacionadas à negativa de autoria - ou seja,o acolhimento das alegações de que o recorrente estaria apenas dormindo no imóvele não teria relação com a prática do tráfico -, por demandar o reexame do conjunto fático-probatório dos autos.
+Corroboram:
+"PROCESSUAL PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. HABEAS CORPUS
+NÃO CONHECIDO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+ ..
+4. É incabível, na estreita via do habeas corpus, a análise de questões relacionadas à negativa de autoria, por demandarem o reexame do conjunto fático probatório dos autos.
+5. Habeas corpus não conhecido.
+(HC 497.684/MG, de minha Relatoria, QUINTA TURMA, julgado em 04/04/2019, DJe 09/04/2019).
+"HABEAS CORPUS. PROCESSUAL PENAL. PARTICIPAÇÃO EM ORGANIZAÇÃO CRIMINOSA. CORRUPÇÃO ATIVA E PASSIVA. VIOLAÇÃO DE SIGILO FUNCIONAL. CONTRAVENÇÃO PENAL DO "JOGO DO BICHO". ALEGAÇÃO DE FALTA DE INDÍCIOS SUFICIENTES DE AUTORIA. NECESSIDADE DE ANÁLISE DE PROVAS. VIA INADEQUADA. PRISÃO PREVENTIVA. ORGANIZAÇÃO CRIMINOSA DESTINADA À PRÁTICA DE DIVERSAS ESPÉCIES DE CRIMES. GRAVIDADE CONCRETA. ORDEM PÚBLICA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. HABEAS CORPUS CONHECIDO EM PARTE E, NESSA EXTENSÃO, DENEGADA A ORDEM.
+1. Reconhecer a ausência, ou não, de indícios suficientes de autoria acarretaria, inevitavelmente, aprofundado reexame do conjunto fático-probatório, impróprio na via do habeas corpus.
+ ..
+7. Habeas corpus conhecido em parte e, nessa extensão, denegada a ordem."
+(HC 492.144/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em
+26/03/2019, DJe 10/04/2019).
+Quanto à suposta ilegalidade da prisão cautelar porque não realizada aaudiência de custódia, o Juiz sentenciante consignou:
+Com relação à audiência de custódia, justifico a não realização damesma, eis que os presos estão sendo encaminhados para os presídios de Tarumirim(homens) e Conselheiro Pena (mulheres), que são as ,:portas de entradas" definidas emrazão do protocolo da Covid-19, a fim de cumprir um período de quarentena dosingressados no sistema prisional. Além disso, no Oficio CJUSP/DEPEN nº 304/2020, de23/12/2020, foi comunicado sobre a inviabilidade de realização de escolta dos presospara a realização de audiência de custódia, em razão dos problemas de logística eprevenção do contágio. E também, os presídios de Tarumirim e Conselheiro Pena, jácomunicaram a falta de estrutura para a realização das audiências de custódia porvideoconferência, nos moldes da resolução CNJ nº 329/2020. (e-STJ, fls. 253-254)
+Da análise doexcerto, observa-se que houve justificativa idônea para a não realização da audiência de custódia,em atenção aoart. 8.º daRecomendação n. 62 do Conselho Nacional de Justiça, tendo em vista anecessidade de reduzir os riscos epidemiológicos decorrentes da pandemiade Covid-19.
+Ademais, eventuais irregularidades ocorridas na homologação da prisão emflagrante ficaram superadas com a decretação da prisão preventiva, novotítulo judicial a embasar o encarceramento cautelar.
+No mesmo sentido:
+"AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. TRÁFICO ILÍCITO DEENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. NÃOREALIZAÇÃO DA AUDIÊNCIA DE CUSTÓDIA NO PRAZO LEGAL.MOTIVAÇÃO IDÔNEA.SUSPENSÃO DOS TRABALHOS NO CONTEXTO DE PANDEMIA. QUESTÃO SUPERADA PELADECRETAÇÃO DA PRISÃO PREVENTIVA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO.AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se ignora que a alteração promovida pela Lei n. 13.964/2019 ao art.310 do Código de Processo Penal fixou o prazo máximo de 24 horas da prisãopara a realização da formalidade, sob pena de tornar a segregação ilegal.Entretanto, a nova redação do § 4º do referido artigo ressalva apossibilidade de que, constatada a ilegalidade da custódia, sejaimediatamente decretada nova prisão.
+2. Assim, mostra-se superada a arguição de nulidade pela superveniência deconversão da prisão em preventiva, visto que se tratar de novo título aamparar a custódia.
+3. O entendimento expendido pelo Tribunal de origem alinha-se à orientaçãofirmada nesta Corte Superior que já se manifestou sobre o tema no seguintesentido: "A não realização da audiência de custódia sedeu com motivaçãoidônea, qual seja, a necessidade de reduzir os riscos epidemiológicosdecorrentes da pandemia de Covid-19, nos termos do art. 8.º daRecomendação n. 62 do Conselho Nacional de Justiça, desse modo não seconstata a existência de ilegalidade patente a ser sanada. E, eventualnulidade da prisão em flagrante ficou superada com a decretação da prisão
+preventiva." (AgRg no HC 614.992/MS, Rel. Ministra LAURITA VAZ, SEXTATURMA, julgado em 24/11/2020, DJe 02/12/2020).
+ ..
+4. No caso dos autos, extrai-se das informações constantes no endereçoeletrônico do Tribunal de origem que a necessidade de manutenção dacustódia cautelar foi confirmada por decisão fundamentada proferida em10/11/2020 em atenção ao comando do art. 316 do Código de Processo Penal,o que reforça o entendimento de que eventual nulidade pela não realizaçãoda audiência de custódia está superada.
+5. Agravo regimental a que se nega provimento."
+(AgRg no RHC 135.112/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTATURMA, julgado em 23/2/2021, DJe 1º/3/2021).
+Por sua vez, oJuiz de 1º grau decretou a prisão preventiva nos seguintes termos:
+II. Quanto aos flagranteados Meranjo Junio de Sales Cunha,Larissa da Silva Maduro e Werickson Breno Firmino de Souza:Cumpre esclarecer que o art. 311 do CPP deve ser concebido poruma ótica interpretativa sistemática com os demais dispositivos que tratam da prisãocautelar, em destaque o art. 310, inciso II do CPP, que permite ao magistrado converterde ofício a prisão em flagrante em segregação preventiva.
+As provas produzidas até o momento comprovam amaterialidade do crime, bem como presentes os indícios suficientes de autoria,prevalecendo nesta fase processual a dúvida em favor da sociedade, e não embenefício do requerente.
+ ..
+Mesmo à percepção de aplicação das medidas cautelaresprevistas no art. 319, I a IX, do CPP, não verifico, após ponderados os critérios de doart. 282, incisos I e II, e art. 321 ambos do CPPr a viabilidade de aplicação de nenhumadaquelas medidas.
+Importa destacar que a Polícia Militar recebeu informações de queos apreendidos praticariam a mercância espúria via WhatsApp, sendo apreendidos comos mesmos considerável quantidade de estupefacientes, valores, arma de fogo emunições, bem como máquina de cartão de crédito.
+Ressalto por fim não existir nos autos qualquer indicaçãomédica que comprove a necessidade de soltura dos flagranteados - grupo derisco - em razão da Pandemia da Covid-19, tudo conforme determinam asPortarias do Tribunal de Justiça Mineiro.
+ ..
+Ante o exposto, na forma do art. 310, inciso l( e art. 315, doCódigo de Processo Penal, converto a prisão em flagrante dos autuados MeranjoJunio de Sales Cunha, Larissa da Silva Maduro e Werickson Breno Firmino deSouza em prisão preventiva, por entender que se fazem presentes o fumus comissidelicti (prova da materialidade do fato e indícios suficientes de autoria delitiva) e opericulum libertatis (necessidade de assegurar-se a ordem pública), inerentes à prisãopreventiva (arts. 312 e 313 do CPP).
+O pedido de revogação da prisão preventiva foi indeferido, conforme se transcreve:
+1. Quanto a reiteração do pedido de revogação da preventiva aviado pela Defesa de Werickson, entendo que não merece acolhida, explico.
+É que mesmo à percepção de aplicação das medidas cautelares previstas no art. 319, 1 a IX, do CPP, não verifico, após ponderados os critérios de do art. 282, incisos I e II, e art. 321 ambos do CPP, a viabilidade de aplicação de nenhuma daquelas medidas.
+Alias, como bem pontua o Ministério Público " ..  não houve alteração fática apta a justificar a revogação da prisão cautelar decretada em 26 de janeiro de 2021, mantida pelo Tribunal de Justiça, em análise de "habeas corpus", em 31 de janeiro de 2021, e reanalisada em 19 de fevereiro de 2021, pois continuam presentes o fumus comissi delicfi e o penou/um fibertafis, o Ministério Público entende que não se trata de hipótese de acolhimento do pleito defensivo, razão pela qual reitera a manifestação de fls. 248/250.  ..  Por seu turno, o periculum libertafis também restou demonstrado, uma vez que o denunciado Werickson, junto dos demais acusados, foi flagrado mantendo em depósito uma arma de fogo e diversas munições, além de apetrechos utilizados para embalo e venda da droga e 13.567 (treze quilos quinhentos e sessenta e sete gramas) de maconha, quantidade que demonstra que eles já possuem experiência na prática criminosa.  .. " (f. 354).
+Dessa forma por não haver modificação fática hábil a abalar os fundamentos de sua custódia cautelar determinada, mantenho a medida extrema.
+O Tribunal de origem denegoua ordem originária sob os seguintes fundamentos:
+O paciente foi preso em flagrante delito, em 25/01/2021, pela suposta prática dos fatos previstos no artigo 33, caput, e artigo 35, ambos da Lei 11.343/06, tendo sido apreendidos aproximadamente 13.567,0g de maconha, conforme consta do laudo preliminar de drogas (Ordem nº 16). A prisão em flagrante foi convertida em prisão preventiva no dia 26/01/2021. Quando da decisão que decretou a prisão preventiva, o i. Magistrado o fez de modo absolutamente fundamentado e irretocável, como determina o art. 93, inciso IX, da Constituição Federal, que prevê o Princípio do livre convencimento fundamentado ou da persuasão racional do juiz, com supedâneo no art. 312 do CPP, à vista da comprovada materialidade, de indícios de autoria e a fim de acautelar a ordem pública, tendo em conta a gravidade concreta da conduta perpetrada pelas pacientes (Ordem nº 26). Ressalte-se que eventuais condições pessoais do paciente, tais como a primariedade, os bons antecedentes, a residência fixa e a ocupação lícita, não lhe garantem o direito subjetivo à liberdade provisória.
+ ..
+Por fim, cumpre salientar que, como cediço, a realização de audiências de custódia está suspensa, em razão da pandemia da Covid-19, para a proteção das próprias partes.
+Dessa forma, no caso sub judice, não se há falar em coação ilegal.
+Posto isso, DENEGA-SE A ORDEM. (e-STJ, fls. 320-321)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois o recorrente foi surpreendido, juntamente com outros três corréus,em imóvel apontadocomo ponto de tráfico de drogas,mantendo em depósito13.567 g de maconha euma arma de fogo calibre 38, sem autorização legal.
+A propósito:
+"PROCESSO PENAL.HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. DESPROPORCIONALIDADE DA CAUTELA MÁXIMA. CONDIÇÕES FAVORÁVEIS. RELEVÂNCIA IN CASU. MEDIDAS CAUTELARES DIVERSAS. POSSIBILIDADE.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a periculosidade do agente está demonstrada, pois o paciente foi flagrado em posse de 16g (dezesseis gramas) de maconha, 4g (quatro gramas) de cocaína e uma arma de calibre .22 municiada.
+Dessarte, evidenciada a sua periculosidade e a necessidade da aplicação de cautelas de natureza pessoal.
+3. Não obstante, o agente possui condições pessoais favoráveis e foi flagrado com quantidade não exacerbada de drogas e uma arma de pequeno calibre - uma Beretta calibre .22 -, circunstâncias que justificam, tão somente, a imposição de medidas cautelares alternativas, revelando-se a prisão, in casu, medida desproporcional.
+4. Ordem concedida para substituir a prisão preventiva por medidas cautelares diversas a serem fixadas pelo Juízo local."
+(HC 578.667/RO, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 26/06/2020);
+"AGRAVO REGIMENTAL NOHABEAS CORPUS. TRÁFICO DE DROGAS E PORTE ILEGAL DE ARMA DE FOGO, COM NUMERAÇÃO SUPRIMIDA. PRISÃO PREVENTIVA.NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. AGRAVO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do CPP, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, a custódia cautelar encontra-se suficientemente fundamentada na necessidade de garantia da ordem pública, diante da quantidade de droga apreendida - 143 gramas de cocaína -, além de um revolver calibre 38, com numeração suprimida e municiado, mais munições e dinheiro. Tais circunstâncias justificam o encarceramento cautelar, consoante pacífico entendimento desta Corte no sentido de que a quantidade, a natureza ou a diversidade dos entorpecentes apreendidos podem servir de fundamento ao decreto de prisão preventiva.
+3. É inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta da conduta delituosa e a periculosidade do agravante indicam que a ordem pública não estaria acautelada com sua soltura.
+4. O fato de o agravante possuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva.
+5. Agravo regimental desprovido."
+(AgRg no HC 548.185/SP, de minha relatoria, QUINTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+Ademais, consigne-se que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do recorrente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Anote-se queo fato de o investigadopossuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Por fim, no que concerne à alegação de que o acusado seria imprescindível aos cuidados do seufilhocom 1 ano e 4 meses de idade, o que lhe garantiria o benefício daprisão domiciliar, constata-se quereferida tesenão foi objeto de exame pelo Tribunal "a quo", o que impede seu conhecimento diretamente por esta Corte de Justiça, sob pena de indevida supressão de instância.
+Nesse sentido:
+" ..  6. A alegação de nulidade do flagrante, ante à suposta violação de domicílio pela autoridade policial, não foi apreciada pelo Tribunal de origem, o que obsta a sua análise por esta Corte Superior, sob risco de se incorrer em indesejável supressão de instância. ..
+(HC 577.889/RS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 09/03/2021, DJe 23/03/2021)
+" ..  2. Outrossim, quanto à alegação de ilegalidade da prisão em flagrante por violação de domicílio, tem-se que não foi aduzida na inicial do writ nem analisada pela Corte local. Então, inviável a análise de talalegação não submetida à apreciação da instância de origem nem exposta na petição inicial de habeas corpus impetrado no STJ, por envolver, respectivamente, injustificável supressão de instância e indevida inovação recursal (AgRg no HC n. 562.481/SP, Ministro João Otávio de Noronha, Quinta Turma, DJe 22/10/2020).
+3. Agravo regimental improvido."
+(AgRg no HC 583.504/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021)
+Ante o exposto, nego provimento ao recurso em habeas corpus.
+Publique-se. Intimem-se
