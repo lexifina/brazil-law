@@ -1,0 +1,99 @@
+DECISÃO
+1. Cuida-se de agravo interposto por NOTRE DAME INTERMÉDICA SAÚDE S/A, contra decisão que não admitiu o seu recurso especial, por sua vez manejado com fulcro no art. 105, III, alínea a, da Constituição Federal, em face de acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim ementado:
+Apelação. SEGURO SAÚDE. Ação de obrigação de fazer cumulada com indenização por danos morais com pedido de tutela antecipada. Paciente diagnosticado com câncer de pâncreas com metástase, necessitando realizar exame de Cintilografia do Miocárdio Perfusão, Repouso e Estresse e quimioterapias. Negativa da seguradora, lastreada em prazo de carência de 180 dias. Incidência do CDC (Súmula 608, STJ). Situação de urgência manifestada. Abusividade de cláusula contratual que prevê período de carência superior a 24 horas. Súmulas 597, do STJ, e 103, do TJSP. Inteligência do art. 12, V, "c", da Lei 9.656/98. Irrelevância da Resolução nº 13 do CONSU. Indenização por danos morais.
+Desnecessidade de efetiva comprovação, de acordo com a jurisprudência pacífica do STJ. Manutenção do importe arbitrado no juízo "a quo" (R$8.000,00), que atende à natureza dúplice - compensatória e punitiva - desta espécie de reparação. Precedentes desta Corte. Sentença mantida.
+Honorários advocatícios majorados para 15% do valor da condenação (art. 85, § 11 CPC). RECURSO IMPROVIDO. (fl. 284 - grifou-se)
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto nos artigos 51, IV, § 1º, 54, § 4º, do CDC; 1º, 3º, 4º da Lei 9.961/2000; 10, § 4º,12, VI, 35-F da Lei 9.656/1998, sustentando que sua recusa na cobertura do tratamento estava amparada por lei e pelo contrato que estabeleciam prazo de carência para sua autorização nos casos de parto a termo e ainda para os demais casos.
+Assevera que o caso discutido nestes autos é regrado pelo artigo 12, inciso II, alíneas a e b, da Lei 9.656/1998, e em nada tem a ver com o artigo 35 ou as Súmulas 302 do STJ e 92 do TJ-SP, por se tratar de exame de ultrassom com doppler e para a qual há uma carência de 300 dias, no caso do parto a termo.
+No caso em questão, assevera que não se trata de enquadramento no disposto no artigo 12, inciso V, alínea c, da Lei 9.656/1998, pois a Autora não acostou aos autos qualquer documento que comprovasse que havia risco à vida ou que pudesse configurar uma emergência e/ou urgência.
+Assim, sustenta a recorrente, que toda conduta praticada pela Operadora foi com base na legislação em vigor e no contrato celebrado, devendo, por via de consequência, ser afastada a procedência dos pedidos autorais, não havendo que se falar em ato ilícito que ensejasse reparação de danos morais ao recorrido.
+Sem apresentação de contrarrazões ao recurso especial, consoante certidão às fls. 318. Em seguida o recurso foi inadmitido na origem (fls. 319-321), tendo sido em seguida interposto agravo em recurso especial (fls. 324-336) e ascendendo os autos a esta Corte.
+É o relatório.
+DECIDO.
+2. No caso dos autos, não prosperam as alegações da operadora do plano de saúde. Com efeito, o acórdão estadual é claro ao concluir que a situação era de urgência, circunstância caracterizada inclusive por meio de relatórios médicos. Nesse sentido, firmou que os elementos dos autos eram suficientes para demonstrar que o período de carência de 180 dias não poderia prevalecer ante necessidade de atuação emergencial, tendo a negativa de cobertura ensejado danos morais. Vejamos:
+ ..
+Cuida-se de ação de obrigação de fazer c.c. indenização por danos morais proposta ANTÔNIO CARLOS DOS SANTOS em face de NOTRE DAME INTERMÉDICA S/A, no intuito de compelir a requerida a autorizar o exame de imagem denominado Cintilografia do Miocárdio Perfusão, Repouso e Estresse, bem como tratamento quimioterápico (fl. 45), em razão da doença grave que acomete o autor Adenocarcinoma de Pâncreas com metástase nos pulmões fls. 7/8. Pugnou pela restituição da quantia de R$3.816,00 despendida com o exame de biópsia e taxa de administração e a condenação da Ré ao pagamento de indenização por danos morais.
+ ..
+As partes firmaram contrato de assistência médico-hospitalar em 25.10.2019. Ocorre que no dia 25.11.2019, ao realizar uma tomografia computadorizada de Tórax, Abdômen superior e pelve tomou conhecimento que portava doença grave (câncer de pâncreas com metástase nos pulmões. Quando a equipe médica que assiste o autor solicitou exames complementares e início imediato de quimioterapia, com provados nos autos pelos documentos reproduzidos às fls. 4/5 e 7/8.
+A ré negou a cobertura dos procedimentos sob a alegação de que o período de carência aplicável ao caso era de 180 (cento e oitenta) dias.
+ ..
+Neste particular, há evidências concretas de que o apelado necessita fazer os procedimentos solicitados com urgência (fls. 7), em razão do câncer diagnosticado.
+Assim, qualquer prazo de carência superior a 24 (vinte e quatro) horas, agravaria a situação do segurado e colocaria em perigo sua vida e integridade física.
+O Superior Tribunal de Justiça já sumulou o entendimento de que "A cláusula contratual de plano de saúde que prevê carência para utilização dos serviços de assistência médica nas situações de emergência ou de urgência é considerada abusiva se ultrapassado o prazo máximo de 24 horas contado da data da contratação" (Súmula 597).
+ ..
+Tais entendimentos estão de acordo com o artigo 12, inciso V, alínea "c", da Lei nº 9.656/98 e não comportam moderação por atos normativos infralegais.
+Nem se alegue que a cobertura estaria restrita às 12 (doze) primeiras horas de atendimento, de acordo com a Resolução CONSU nº 13, pois a limitação contraria o objeto do contrato e deve ser considerada abusiva à luz do artigo 51, inciso IV, do Código de Defesa do Consumidor.
+Abusiva, portanto, a tentativa da ré de ampliar o período de carência de 24 (vinte e quatro) horas, pois incompatível com a natureza do procedimento a ser realizado.
+ ..
+Como bem observou a decisão recorrida: "Insta esclarecer, ainda, que para a caracterização da urgência não é preciso que esteja presente o risco de vida ao paciente, mas somente a necessidade de assistência médica imediata, em decorrência da natureza da lesão ou enfermidade, conforme preceitua a Resolução1451/95 do Conselho Federal de Medicina:
+Artigo 1º - Os estabelecimentos de Prontos Socorros Públicos e Privados deverão ser estruturados para prestar atendimento a situações de urgência-emergência, devendo garantir todas as manobras de sustentação da vida e com condições de dar continuidade à assistência no local ou em outro nível de atendimento referenciado.
+Parágrafo Primeiro - Define-se por URGÊNCIA a ocorrência imprevista de agravo à saúde com ou sem risco potencial de vida, cujo portador necessita de assistência médica imediata.
+Parágrafo Segundo - Define-se por EMERGÊNCIA a constatação médica de condições de agravo à saúde que impliquem em risco iminente de vida ou sofrimento intenso, exigindo, portanto, tratamento médico imediato.
+Diante disso, não remanescem dúvidas que tal medida era necessária e inadiável.
+Aliás, não houve questionamento pela ré quanto à necessidade do tratamento pleiteado pela requerente, tampouco impugnou a legitimidade dos relatórios médicos trazidos pela autora (sic).
+Assim sendo, tem-se que a situação fática enquadra- se à previsão do artigo 35-C, inciso I, da Lei nº 9.656, de 3 de junho de 1998, que assim dispõe:
+"Art. 35-C. É obrigatória a cobertura do atendimento nos casos:
+I - de emergência, como tal definidos os que implicarem risco imediato de vida ou de lesões irreparáveis para o paciente, caracterizado em declaração do médico assistente; (grifo não constante do original)
+II - de urgência, assim entendidos os resultantes de acidentes pessoais ou de complicações no processo gestacional;
+III - de planejamento familiar.
+Parágrafo único. A ANS fará publicar normas regulamentares para o disposto neste artigo, observados os termos de adaptação previstos no art. 35" Ainda em relação ao período de carência, observa- se a subsunção do caso aos ditames do artigo 12, inciso V, alínea C, da mesma Lei. In verbis:
+"Art. 12. V - quando fixar períodos de carência:
+a) prazo máximo de trezentos dias para partos a termo;
+b) prazo máximo de cento e oitenta dias para os demais casos;
+c) prazo máximo de vinte e quatro horas para a cobertura dos casos de urgência e emergência." (grifei).
+De tal forma, a subsunção dos fatos narrados aos dispositivos acima transcritos afasta a hipótese de período de carência de 180 dias, dando-se primazia ao caráter emergencial da internação da parte autora, cujo prazo de carência é de 24 horas, devidamente cumprido uma vez que a vigência de seu plano teve início em 09.11.19 (fls. 32), o que, de fato, obrigava a ré a prestar o devido socorro, fornecendo todo o atendimento necessário à recuperação do autor." fls. 232/234.  grifou-se
+ ..
+Rever os fundamentos que ensejaram esse entendimento exigiria reapreciação do conjunto probatório, o que é vedado em recurso especial, ante o teor da Súmula 7 do Superior Tribunal de Justiça.
+3. Ademais, verifica-se que o acórdão estadual decidiu de acordo com o entendimento jurisprudencial desta Corte, devendo incidir na espécie, o enunciado da Súmula 83/STJ, aplicável, também, às hipóteses de interposição pela alínea a do permissivo constitucional.
+De acordo com a jurisprudência desta Corte Superior, é lícita a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como na hipótese dos autos.
+Nesse sentido (grifamos):
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. PERÍODO DE CARÊNCIA. LEGALIDADE. NEGATIVA DE AUTORIZAÇÃO PARA PROCEDIMENTO DE EMERGÊNCIA. DANO MORAL CONFIGURADO. JURISPRUDÊNCIA. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. INCOMPETÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. QUANTUM RAZOÁVEL E PROPORCIONAL. INAPLICABILIDADE DO CDC. INOVAÇÃO RECURSAL. RECURSO NÃO PROVIDO.
+1. Não compete ao Superior Tribunal de Justiça o exame de violação a dispositivos constitucionais, uma vez que a sua competência se restringe ao exame de violação à lei federal, nos termos do art. 105 da Constituição Federal.
+2. A jurisprudência desta Corte é no sentido de que a cláusula contratual que prevê prazo de carência para utilização dos serviços prestados pelo plano de saúde não é considerada abusiva, desde que não obste a cobertura do segurado em casos de emergência ou urgência, como na hipótese dos autos.
+3. Na hipótese, o valor de R$ 8.000,00 (oito mil reais) arbitrado a título de dano moral não se mostra excessivo, tendo em vista as circunstâncias específicas do caso concreto.
+4. Fica inviabilizado o conhecimento de tema trazido somente na petição de agravo interno, configurando-se indevida inovação recursal.
+5. Agravo interno improvido.
+(AgInt no AREsp 1013781/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/04/2017, DJe 04/05/2017)
+____________
+AGRAVO INTERNO NO RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PLANO DE SAÚDE. LEGITIMIDADE PASSIVA. PRECLUSÃO. PESSOAS JURÍDICAS DISTINTAS. PRAZO DE CARÊNCIA PARA HIPÓTESES DE URGÊNCIA. VINTE E QUATRO HORAS (24H). PREVALÊNCIA DA GARANTIA DA SAÚDE E DA VIDA DO SEGURADO. JUSTA EXPECTATIVA. PRECEDENTES DO STJ.
+1. Não conhecimento da insurgência em relação a questão jurídica preclusa. A alegação de ilegitimidade passiva fora objeto de decisão saneadora, não tendo sido oportunamente impugnada pela recorrente.
+Inviável a renovação do debate em sede de recurso especial.
+2. Em se tratando de procedimento de urgência, ou seja, de atendimento médico que se não for realizado imediatamente implica em risco concreto de morte ou lesão irreparável para o paciente, deve ser adotado o prazo de carência de vinte e quatro horas, e não o de cento e oitenta dias, sob pena de violação da legítima expectativa do consumidor ao celebrar o contrato para preservar a sua vida, sua saúde e sua integridade física. Precedente específico do STJ.
+3.AGRAVO INTERNO DESPROVIDO.
+(AgInt no REsp 1448660/MG, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 04/04/2017, DJe 10/04/2017)
+____________
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SITUAÇÃO DE EMERGÊNCIA OU URGÊNCIA. MITIGAÇÃO DO PRAZO DE CARÊNCIA. PROTEÇÃO DA VIDA. RECUSA INDEVIDA. DANO MORAL. DECISÃO MANTIDA.
+1. "A cláusula de carência do contrato de plano de saúde deve ser mitigada diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e razão de ser do negócio jurídico firmado" (AgInt no AREsp 892.340/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 09/08/2016, DJe 16/08/2016).
+2. A recusa indevida da operadora de plano de saúde a autorizar o tratamento do segurado é passível de condenação por dano moral, uma vez que agrava a situação de aflição e angústia do segurado, comprometido em sua higidez físico-psicológica pela enfermidade.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 949.288/CE, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 20/10/2016, DJe 24/10/2016)
+__________
+AGRAVO REGIMENTAL. AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. URGÊNCIA CONFIGURADA. NEGATIVA DE COBERTURA. PRAZO DE CARÊNCIA. SÚMULAS N. 5 E 7 DO STJ.
+1. Aplicam-se as Súmulas n. 5 e 7 do STJ quando a tese versada no recurso especial reclama a interpretação de cláusulas contratuais e a análise dos elementos probatórios produzidos ao longo da demanda.
+2. A interpretação de cláusula de carência estabelecida em contrato de plano de saúde deve, em circunstâncias excepcionais, como a necessidade de tratamento de urgência decorrente de doença grave, ser ponderada a fim de assegurar o eficiente amparo à vida e à saúde.
+3. Agravo regimental desprovido. (AgRg no AREsp 110.818/RS, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 06/08/2013, DJe 19/08/2013).
+__________
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC. NÃO-OCORRÊNCIA. CERCEAMENTO DE DEFESA. PROVA PERICIAL. REEXAME DE PROVAS. SÚMULA 7/STJ. ATENDIMENTO DE URGÊNCIA. PRAZO DE CARÊNCIA. CLÁUSULA ABUSIVA. INADIMPLEMENTO CONTRATUAL. DANO MORAL. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. 1. Não há falar em violação ao art. 535 do Código de Processo Civil, pois o Tribunal de origem dirimiu as questões pertinentes ao litígio, afigurando-se dispensável que venha examinar uma a uma as alegações e fundamentos expendidos pelas partes.
+2. Não configura o cerceamento de defesa o julgamento da causa sem a produção de prova pericial, quando o tribunal de origem entender que o feito foi corretamente instruído, declarando a existência de provas suficientes para o seu convencimento.
+3. Na linha dos precedentes desta Corte, o período de carência contratualmente estipulado pelos planos de saúde não prevalece, excepcionalmente, diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e razão de ser do negócio jurídico firmado.
+4. Nos casos de negativa de cobertura por parte do plano de saúde, em regra não se trata de mero inadimplemento contratual. A recusa indevida de tratamento médico - nos casos de urgência - agrava a situação psicológica e gera aflição, que ultrapassam os meros dissabores, caracterizando o dano moral indenizável.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 213.169/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 04/10/2012, DJe 11/10/2012).
+__________
+AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. PLANO DE SAÚDE. EMERGÊNCIA. RECUSA NO ATENDIMENTO. PRAZO DE CARÊNCIA. ABUSIVIDADE DA CLÁUSULA. DANO MORAL. CONFIGURAÇÃO. PRECEDENTES.
+1. Esta Corte Superior firmou entendimento de que o período de carência contratualmente estipulado pelos planos de saúde não prevalece diante de situações emergenciais graves nas quais a recusa de cobertura possa frustrar o próprio sentido e a razão de ser do negócio jurídico firmado.
+2. A recusa indevida à cobertura médica pleiteada pelo segurado é causa de danos morais, pois agrava a sua situação de aflição psicológica e de angústia no espírito. Precedentes.
+3. Agravo regimental não provido. (AgRg no Ag 845.103/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 17/04/2012, DJe 23/04/2012).
+__________
+"AGRAVO REGIMENTAL NO AGRAVO (ARTIGO 544 DO CPC) - AÇÃO DE OBRIGAÇÃO DE FAZER (COBERTURA FINANCEIRA DE TRATAMENTO MÉDICO DE URGÊNCIA) CUMULADA COM PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO, MANTIDA A INADMISSÃO DO RECURSO ESPECIAL. INSURGÊNCIA DA OPERADORA DE PLANO DE SAÚDE. 1. Prazo de carência (180 dias) estipulado pelo plano de saúde para cobertura de doenças e lesões preexistentes ao contrato.
+1.1. A jurisprudência do STJ é no sentido de que "lídima a cláusula de carência estabelecida em contrato voluntariamente aceito por aquele que ingressa em plano de saúde, merecendo temperamento, todavia, a sua aplicação quando se revela circunstância excepcional, constituída por necessidade de tratamento de urgência decorrente de doença grave que, se não combatida a tempo, tornará inócuo o fim maior do pacto celebrado, qual seja, o de assegurar eficiente amparo à saúde e à vida" (REsp 466.667/SP, Rel. Ministro Aldir Passarinho Junior, Quarta Turma, julgado em 27.11.2007, DJ 17.12.2007).
+1.2. Cláusula limitativa do tempo de internação do paciente. Nos termos da jurisprudência cristalizada na Súmula 302/STJ, é abusivo o preceito contratual que restringe, no tempo, a internação hospitalar indispensável ao tratamento do usuário do plano de saúde. Correta aplicação da Súmula 83/STJ.
+2. Agravo regimental desprovido." (AgRg no AREsp n. 627.782/SP, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 5/3/2015, DJe 11/3/2015.)
+__________
+"RECURSO ESPECIAL. PLANO DE SAÚDE. PRAZO DE CARÊNCIA. SITUAÇÃO DE EMERGÊNCIA. APENDICITE AGUDA. CARÊNCIA CONTRATUAL. ABUSIVIDADE DA CLÁUSULA RESTRITIVA. DANO MORAL. OCORRÊNCIA. PRECEDENTES.
+1. A cláusula que estabelece o prazo de carência deve ser afastada em situações de urgência, como o tratamento de doença grave, pois o valor da vida humana se sobrepõe a qualquer outro interesse. Precedentes específicos da Terceira e da Quarta Turma do STJ.
+2. A jurisprudência desta Corte "vem reconhecendo o direito ao ressarcimento dos danos morais advindos da injusta recusa de cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada". (REsp 918.392/RN, Rel. Ministra NANCY ANDRIGHI).
+Assim, estando configurado a abusividade, e caraterizado o dano moral quando a operadora do plano de saúde se recusa à cobertura do tratamento médico emergencial ou de urgência, como na espécie, impõe-se a devida reparação.
+Nesse contexto, forçoso é concluir que o acórdão recorrido decidiu em conformidade com a jurisprudência dada por esta Corte Superior, ao mitigar a cláusula de carência estabelecida em contrato de plano de saúde em circunstâncias excepcionais, diante da necessidade de tratamento de urgência decorrente de doença grave, a fim de assegurar o eficiente amparo à vida e à saúde do beneficiário do plano de saúde. Incide a Súmula 83 do STJ.
+4. Ante o exposto, nego provimento ao agravo.
+Havendo prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte Recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2.º e 3.º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
