@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, impetrado em favor de RAFAEL RODRIGUES DOS SANTOS, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de Minas Gerais.
+Consta dos autos que o paciente foi preso, temporariamente, em 10/12/2018, vindo a custódia ser convertida em preventiva, em 06/02/2019, pela suposta prática do crime previsto no artigo 121, § 2º, I e IV, do Código Penal. Sobreveio a prolação de sentença de pronúncia em desfavor do paciente, na data de 30/05/2019.
+A defesa impetrou prévio writ perante o Tribunal de origem, que denegou a ordem, conforme a seguinte ementa:
+"HABEAS CORPUS  HOMICÍDIO QUALIFICADO  REVOGAÇÃO DE PRISÃO PREVENTIVA  INVIABILIDADE  REQUISITOS DO ART. 312 DO CPP NITIDAMENTE PRESENTES NOS AUTOS  MANUTENÇÃO DA PRISÃO NECESSÁRIA PARA GARANTIA DA ORDEM PÚBLICA  PRIMARIEDADE, BONS ANTECEDENTES, TRABALHO LICITO E RESIDÊNCIA FIXA  CONDIÇÕES QUE NÃO DEVEM PREVALECER SOBRE A NECESSIDADE DA CUSTÓDIA. I- Demonstrada a extrema gravidade do delito de homicídio qualificado e existindo nos autos fortes indícios de autoria e comprovada a materialidade, provada está a necessidade excepcional da prisão preventiva para garantia da ordem pública, em conformidade com o que dispõe o art. 312 do CPP. II- Os atributos pessoais do paciente não podem prevalecer sobre a garantia da ordem pública, mormente em delito gravíssimo, responsável por tamanha repercussão negativa no seio da sociedade." (e-STJ, fl. 36)
+Neste writ, alega a defesa, em síntese, a existência de constrangimento ilegal, diante do excesso de prazo na formação da culpa, aduzindo que "o paciente está preso há 02 (dois) anos  ..  ao passo que o processo ficou sem nenhuma movimentação pelo período de 129 (cento e vinte e nove) dias" (e-STJ, fl. 4).
+Sustenta também haver ofensa ao art. 316, parágrafo único, do Código de Processo Penal, visto que não ocorreu a revisão periódica da necessidade da segregação cautelar.
+Requer, assim, o relaxamento da custódia cautelar.
+O Ministério Público Federal manifesta-se pelo não conhecimento da impetração, porém seja determinado, de ofício, o reexame da necessidade e adequação da prisão preventiva, nos termos do art. 316, parágrafo único, do CPP, assim como celeridade no julgamento do recurso especial (e-STJ, fls. 79-93).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgRg no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado
+Assim, passo à análise das razões da impetração, de forma a verificar a ocorrência de flagrante ilegalidade a justificar a concessão do habeas corpus, de ofício.
+No que que tange ao aventado excesso de prazo na formação da culpa e à suposta ofensa ao art. 316, parágrafo único, do CPP, observa-se que o Tribunal de origem não analisou tais questões, no julgamento do writ originário. Dessa forma, sua apreciação direta por esta Corte Superior fica obstada, sob pena de se incorrer em indevida supressão de instância.
+Ilustrativamente, esse é o entendimento das Turmas que compõem a Terceira Seção desta Corte de Justiça:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. NÃO CONFIGURAÇÃO. INTELIGÊNCIA DO ARTIGO 34, INCISO XX, DO REGIMENTO INTERNO DESTE SUPERIOR TRIBUNAL DE JUSTIÇA.  ..  SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. MANDADO DE PRISÃO AINDA NÃO CUMPRIDO. NECESSIDADE DE PRESERVAÇÃO DA MEDIDA CONSTRITIVA. PROVIDÊNCIAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO PARA O OFERECIMENTO DA DENÚNCIA E NEGATIVA DE AUTORIA. MATÉRIA NÃO EXAMINADA NO ARESTO IMPETRADO. SUPRESSÃO DE INSTÂNCIA. MANUTENÇÃO DA DECISÃO POR SEUS PRÓPRIOS FUNDAMENTOS. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+5. Vedada a apreciação, diretamente por esta Corte Superior de Justiça, sob pena de se incidir em indevida supressão de instância, das teses que não foram analisadas pelo Tribunal de origem no aresto combatido.
+6. Agravo regimental improvido."
+(AgRg no HC 432.177/PE, rel. Ministro JORGE MUSSI, QUINTA TURMA, j. 13/12/2018, DJe 4/2/2019, grifou-se).
+"HABEAS CORPUS.  ..  PRISÃO DOMICILIAR. PLEITO NÃO SUBMETIDO À INSTÂNCIA ORDINÁRIA. SUPRESSÃO DE INSTÂNCIA. IMPOSSIBILIDADE DE EXAME POR ESTA CORTE. ORDEM PARCIALMENTE CONCEDIDA.
+1. Não debatida a matéria na instância ordinária, não cabe a este Superior Tribunal de Justiça inaugurar o enfrentamento da tese, sob pena de indevida supressão de instância.
+ .. .(HC 400.229/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018, grifou-se).
+Além do mais, em consulta à base de dados processuais desta Corte, verifica-se que, em 18/06/2021, foi proferida decisão monocrática no Recurso Especial 1.924.815/MG, de minha relatoria. Inconformada, a defesa interpôs agravo regimental, ao qual, em 03/08/2021, foi desprovido.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
