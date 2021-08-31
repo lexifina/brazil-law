@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo interposto por COMPANHIA DE HABITAÇÃO POPULAR DE BAURUem face de decisão que inadmitiu recurso especial fundado no art. 105, III, "a", da Constituição Federal, interposto contra v. acórdão do eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"APELAÇÃO CÍVEL - RETENÇÃO POR BENFEITORIAS - COMPROMISSO DE COMPRA E VENDA RESCINDIDO EM AÇÃO DIVERSA - DEVER DA RÉ DE INDENIZAR OS AUTORES PELAS BENFEITORIAS QUE ACRESCERAM AO IMÓVEL - PRETENSÃO DA RÉ DE RESSARCIR SOMENTE DAS BENFEITORIAS ÚTEIS - RESSARCIMENTO DAS BENFEITORIAS EM SUA TOTALIDADE - IMÓVEL SERÁ RETOMADO PELA RÉ PARA REVENDA, COM OS ACRÉSCIMOS DE BENFEITORIAS, ÀS QUAIS NÃO DEU CAUSA - LAUDO PERICIAL QUE APUROU O VALOR DAS BENFEITORIAS - SENTENÇA PROCEDENTE - RECURSO DESPROVIDO" (fl. 408)
+Nas razões do recurso especial, o ora agravante aponta violação aos arts. 1022 e 1023do Código de Processo Civil de 2015;389, 402, 1201 e 1220 do Código Civil de 2002, sustentando, em síntese, (a)omissão do acórdão quanto à compensação das benfeitorias com os danos relativos ao uso do imóvel, bem como quanto à inexistência de direito de indenização por benfeitorias em razão da posse de má-fé(b) valor despendido pelos recorridos com as benfeitorias deve ser considerado como indenização de perdas e danos pelo tempo que os recorrentes permaneceram ocupando o imóvel, bem comodeveabranger o dano emergente e os lucros cessantes decorrentes da indisponibilidade do imóvel e (c)à configuração da posse de má-fé pelos recorridos, não havendo que se falar em indenização pelas benfeitorias necessárias e úteis.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Preambularmente,quanto à alegada violação aos arts. 1022, 1023 e 1220, especialmente quanto ao argumento de configuração de posse de ma-fé, a qual afastaria a indenização das benfeitorias, verifica-se que o conteúdo normativo dos dispositivos invocados no apelo nobre não foramapreciados pelo Tribunal a quo, tampouco foram opostos embargos declaratórios para sanar eventual omissão. Dessa forma, à falta do indispensável prequestionamento, incide, por analogia, o óbice das Súmulas 282 e 356 do STF.
+Nesse sentido:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO. PROCESSO CIVIL. FALTA DE PREQUESTIONAMENTO. DIVERGÊNCIA JURISPRUDENCIAL. NÃO REALIZAÇÃO DO COTEJO ANALÍTICO. RECURSO DESPROVIDO.
+1. Aplicam-se as Súmulas n. 282 e 356 do STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+2. A transcrição da ementa ou do inteiro teor dos julgados tidos como divergentes é insuficiente para a comprovação de dissídio pretoriano viabilizador do recurso especial.
+3. Agravo regimental desprovido." (AgRg no AREsp 544.459/MT, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 20/11/2014, DJe 25/11/2014, g.n.)
+No que se refere, por sua vez, à indenização pelo tempo de ocupação, bem como pela indenização pelas benfeitorias realizadas no imóvel, manifestou-se o Tribunal "a quo":
+Os autores ajuizaram ação de manutenção de posse cumulada com retenção por benfeitorias realizadas no imóvel adquirido da COHAB, cujo contrato foi rescindido por sentença transitada em julgado, nos autos de nº 0009156-23.2005.8.26.0071.
+O v. acórdão proferido naqueles autos determinou a retenção de 10% dos valores pagos a título de cláusula penal para compensar a quantia que seria devolvida com a indenização pelo tempo de ocupação.
+O inadimplemento dos autores iniciou em 2000 e a ré ajuizou ação de rescisão do contrato em 2005, ou seja, mais de cinco anos a partir do início da inadimplência dos autores, desídia esta que não pode ser desconsiderada.
+O laudo pericial constatou que a área do imóvel foi ampliada em 66,49 metros quadrados, distribuída em área frontal, garagem, varanda.
+Edícula, dormitório e aumento da cozinha. O expert apurou o valor de R$ 39.207,07, referente às benfeitorias, a fls. 275/292, com o que concordou o assistente técnico da ré, a fls. 307/308.
+Esclarecimentos do perito a fls. 344/345, afirma que o valor das benfeitorias úteis corresponde a R$ 19.759,89, referente a 33,49 metros quadrados.
+Não se pode deixar de computar as benfeitorias que os autores realizaram no imóvel, que retornará para a ré apelante, que por sua vez poderá revendê-lo, com todos os acréscimos introduzidos, sem ter despendido valor para isso.
+O ressarcimento somente das benfeitorias consideradas úteis acarretaria enriquecimento sem causa, o que não pode ser admitido.
+Por isso, cabe à apelante ressarcir o valor apurado referente às benfeitorias em sua totalidade, visto que certamente valorizaram o imóvel, que poderá ser negociado pelo valor de mercado, o que demostra ausência de prejuízo.
+Assim, a sentença não há reparo a ser feito na sentença, que deve ser mantida. (fls. 409/410)
+Nesse contexto, a modificação do entendimento lançado no v. acórdão recorrido demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor do que dispõe a súmula 7 deste Pretório.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DOS DEMANDADOS.
+1. Para alterar as conclusões contidas no decisum e acolher o inconformismo recursal no sentido de verificar a apontada ilegitimidade passiva ad causam ou aferir acerca da existência de listisconsórcio e das benfeitorias realizadas no imóvel, seria imprescindível a incursão no conjunto fático e probatório dos autos, providência que atrai o óbice estabelecido pela Súmula 7 do STJ.
+1.1. Nos termos da jurisprudência deste Tribunal Superior, a atuação do espólio, assumindo a posição de defesa, constituindo advogado e produzindo provas o identifica como representante legal do falecido, de forma que, sendo evidente a ausência de prejuízo, aplica-se ao caso o princípio da instrumentalidade das formas. Precedentes.
+2. A subsistência de fundamento inatacado, apto a manter a conclusão do aresto impugnado, impõe a incidência da Súmula 283/STF, por analogia.
+3. Aferir, no caso concreto, a apontada validade do negócio jurídico, segundo as alegações dos insurgentes, demandaria a desconstituição das premissas adotadas pela Corte local, o que não é possível sem o reexame de cláusulas contratuais e do acervo fático-probatório dos autos, atraindo o teor das Súmulas 5 e 7 desta Corte.
+4. A incidência da Súmula 7/STJ impede o exame de dissídio jurisprudencial, porquanto falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa. Precedentes.
+5. Agravo interno desprovido.
+(AgInt no REsp 1390432/MT, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 01/06/2020, DJe 10/06/2020)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL - AÇÃO DE IMISSÃO NA POSSE - TUTELA ANTECIPADA - REQUISITOS PRESENTES - DELIBERAÇÃO MONOCRÁTICA QUE NEGOU PROVIMENTO RECLAMO.
+1. É clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia tendo enfrentado de maneira expressa e objetiva o questionamento acerca da presença dos requisitos para concessão do pedido liminar de imissão de posse.
+2. A inversão do que ficou decidido pelo acórdão recorrido quanto ao cumprimento dos requisitos da proteção possessória ao agravado, bem como o direito à indenização das benfeitorias demandaria reexame dos elementos fáticos-probatório dos autos, o que é vedado em sede de recurso especial. Incidência da Súmula 7 do STJ. Precedentes do STJ: AgRg no AREsp 641527/RS, Rel. Min. Luis Felipe Salomão, DJe de 02/06/2015; AgRg no AREsp 778999/RS, Rel. Min. Marco Aurélio Belizze, Dje de 22/02/2016.
+3. Agravo interno desprovido.
+(AgInt nos EDcl no REsp 1444659/MS, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 21/03/2017, DJe 30/03/2017)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para negar provimento ao recurso especial.
+Com supedâneo no art. 85, § 11, do Código de Processo Civil, majoro os honorários advocatícios devidos ao recorrido de 15% para 16% sobre o valor da condenação.
+Publique-se.
