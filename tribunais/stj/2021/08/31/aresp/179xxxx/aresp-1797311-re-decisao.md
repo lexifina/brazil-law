@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordináriointerposto por MARIA LIDUINA GENTIL DOS SANTOS, ANA MARIA CREAO DA COSTA, ALCIMARY DE MIRANDA MOURA, DARCY DE SOUZA CONTE, EUFROSINA DA CRUZ BEZERRA, JOEL BARROS DA COSTA, MARIA DA GRACA SANTOS LEITE, MARIA RAQUEL SOARES FERREIRA, MARY CRISTINA SOUZA FREITAS eMOZARINA CAVALCANTI DE MELLO, com fundamento no art. 102, inciso III, alínea "b", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 619-620):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ. AGRAVO INTERNO NÃO CONHECIDO.
+1. A decisão ora recorrida não conheceu do agravo em razão da falta de impugnação aos fundamentos da decisão agravada. Em razão disso, consignou-se a incidência da Súmula 182 do STJ.
+2. A parte, para ver seu recurso especial inadmitido ascender a esta Corte Superior, precisa, primeiro, desconstituir os fundamentos utilizados para a negativa de seguimento daquele recurso, sob pena de vê-los mantidos.
+3. Neste recurso, as partes agravantes igualmente não rebatem as razões expostas na decisão que visam impugnar, repetindo, pois, o vício anteriormente detectado. Aplicável, no caso, a Súmula 182 do STJ, segundo a qual é inviável o agravo do art. 545 do CPC que deixa de atacar especificamenteos fundamentos da decisão agravada.
+4. Para controverter a incidência da Súmula 182 do STJ, era dever da parte agravante demonstrar, no agravo interno, de forma clara e objetiva, que o agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissão do tribunal de origem, o que não ocorreu.
+5. Agravo interno não conhecido.
+Sustentam que,"em defesa da isonomia salarial, o abono, outrora concedidoàqueles servidores públicos estaduais, é de direito dos Requerentes, pois ambos fazem parte do funcionalismo público do Estado do Pará" (e-STJ fl. 633).
+Asseveram que o óbice da Súmula Vinculante n. 37 não seria aplicável ao caso, poisse objetiva a"revisão geral de remuneração trazida pelo Dec. 711/95, e não revisão específica concedida unicamente aos militares do Estado do Pará" (e-STJ fl. 635).
+Requerem, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Contrarrazões às fls. 641-645.
+É o relatório.
+Compulsando-se os autos, verifica-se que o acórdão objeto do recurso extraordinário não conheceu do agravo interno, em razão da deficiência da impugnação recursal, que não refutou os fundamentos da decisão atacada, incidindo, na espécie, o enunciado n. 182 da Súmula deste Superior Tribunal de Justiça.
+No RE n. 598.365 RG/MG, julgado na sistemática da repercussão geral, definiu-se que "a questão do preenchimento dos pressupostos de admissibilidade de recursos da competência de outros Tribunais tem natureza infraconstitucional e a ela são atribuídos os efeitos da ausência de repercussão geral" (Tema 181/STF).
+A propósito:
+PRESSUPOSTOS DE ADMISSIBILIDADE DE RECURSOS DA COMPETÊNCIA DE OUTROS TRIBUNAIS. MATÉRIA INFRACONSTITUCIONAL. AUSÊNCIA DE REPERCUSSÃO GERAL. A questão alusiva ao cabimento de recursos da competência de outros Tribunais se restringe ao âmbito infraconstitucional. Precedentes. Não havendo, em rigor, questão constitucional a ser apreciada por esta nossa Corte, falta ao caso "elemento de configuração da própria repercussão geral", conforme salientou a ministra Ellen Gracie, no julgamento da Repercussão Geral no RE 584.608.
+(RE 598.365 RG, Relator(a): Min. AYRES BRITTO, julgado em 14/08/2009, DJe-055 DIVULG 25-03-2010 PUBLIC 26-03-2010 EMENT VOL-02395-06 PP-01480 RDECTRAB v. 17, n. 195, 2010, pp. 213-218)
+No mesmo diapasão:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. OBJETO RECURSAL REJEITADO PELO STF. RE 598.365-RG/MG (TEMA 181). QUESTÃO CONSTITUCIONAL IMPUGNADA ORIGINARIAMENTE. NÃO OCORRÊNCIA. PRECLUSÃO. 1. O objeto deste recurso diz respeito a tema cuja existência de repercussão geral foi rejeitada por esta Corte na análise do RE 598.365-RG/MG, Rel. Min. AYRES BRITTO, tema 181, por se tratar de questão infraconstitucional. 2. Esta Corte firmou entendimento no sentido de que a questão constitucional que serviu de fundamento ao acórdão do juízo de segundo grau deve ser atacada em momento próprio, sob pena de preclusão, apenas sendo admissível recurso extraordinário de acórdão de recurso especial quando, no julgamento deste, originar-se a matéria constitucional impugnada. Precedentes. 3. Agravo interno a que se nega provimento.
+(ARE 768.691 ED, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/06/2018, PROCESSO ELETRÔNICO DJe-153 DIVULG 31-07-2018 PUBLIC 01-08-2018)
+Com igual orientação:
+AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. PENHORA. BEM DE FAMÍLIA. SÚMULA 279 DO STF. REQUISITO DE ADMISSIBILIDADE DE RECURSO DE CORTE DIVERSA. AUSÊNCIA DE REPERCUSSÃO GERAL. DESPROVIMENTO DO AGRAVO. 1. É inadmissível o recurso extraordinário quando para se chegar a conclusão diversa daquela a que chegou o Tribunal de origem, seja necessário o reexame das provas dos autos. Incidência da Súmula 279 do STF. 2. Carece de repercussão geral a discussão acerca dos pressupostos de admissibilidade de recursos da competência de cortes diversas (Tema 181, RE 598.365). 3. Agravo regimental a que se nega provimento, com previsão de aplicação da multa prevista no art. 1.021, § 4º, do CPC. Verba honorária majorada em  (um quarto), nos termos do art. 85, § 11, devendo ser observados os §§ 2º e 3º, CPC.
+(ARE 1.015.880 AgR, Relator(a): Min. EDSON FACHIN, Segunda Turma, julgado em 29/09/2017, PROCESSO ELETRÔNICO DJe-247 DIVULG 26-10-2017 PUBLIC 27-10-2017)
+Por conseguinte, não tendo o acórdão recorrido ultrapassado o juízo de admissibilidade, não há repercussão geral, consoante o Tema 181/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. PREENCHIMENTO DOS PRESSUPOSTOS DE ADMISSIBILIDADE RECURSAL. TEMA 181/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
