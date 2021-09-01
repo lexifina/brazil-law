@@ -1,0 +1,33 @@
+DECISÃO
+1. Cuida-se de recurso especial fundado no artigo 105, III, alínea "a", da Constituição Federal, interposto contra acórdão proferido peloTribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+Direito do consumidor. Seguro. Obrigação da seguradora de pagar indenização em caso de perda total de veículo objeto de financiamento. Alegação de que o valor ainda devido seria superior ao limite da apólice. Seguradora que, porém, não juntou a apólice aos autos. Manutenção da sentença que condenou a seguradora a quitar o débito. Desprovimento do recurso.(fl. 499)
+Opostos embargos de declaração, foram rejeitados, com imposição de multa, pelo caráter manifestamente protelatório do recurso.
+A recorrente, nas razões do especial, aponta violação ao art. 786 do CC, ao argumento de que, como foi condenada ao pagamento da perda total do veículo segurado, deveria sub-rogar-se na propriedade do veículo, livre e desembaraçado de qualquer ônus ou gravame.
+Acrescentaque, por meio do contrato celebrado com o recorrido, era obrigatória a transferência da propriedade do veículo sinistradopara a seguradora.
+Contrarrazões ao recurso especial às fls. 546-549.
+O recurso recebeu crivo positivo de admissibilidade na origem.
+É o relatório. Decido
+2. Compulsando os autos, observa-se que a Corte de origem negou provimento ao recurso de apelação interposto pela parte ora recorrente, sob os seguintesfundamentos: a)no caso em epígrafe, a seguradora jamais trouxe aos autos a apólice do seguro, de modo que não é possível aferir com exatidão qual é o limite da apólice; b) quanto aos eventuais descontos de IPVA e outras verbas, trata-se de inovação recursal, não tendo sido essa matéria anteriormente abordada, razão pela qual não é possível ser apreciada nesta sede; e c) tendo sido o veículo objeto de alienação fiduciária em garantia, a propriedade do bem não era do recorrido, mas da instituição financeira, de modo que não caberia ao autor praticar os atos necessários a transferir a propriedade do veículo para a seguradora, pois não se pode impor à parte uma obrigação de retirar de seu patrimônio algo que ali não se encontra.
+Verifica-se que assiste razão ao recorrente.
+Com efeito, nos termos do art. 786 do Código Civil, quando a seguradora paga a indenização securitária, sub-roga-se, nos limites do valor respectivo, em direitos e ações que competirem ao segurado contra o autor do dano.
+Dessa forma, considera-selícita a previsão constante em apólices de seguros de automóveis de sub-rogação da seguradora na propriedade do veículo, cuja indenização por perda total, furto ou roubo - o salvado -foi paga.
+Ademais, quando a seguradora sesub-roganos direitos sobre osalvado,pode ela se ressarcir contra quem de direito, mesmo quando o automóvel ainda não foi localizado, como nas hipóteses de roubo ou furto, podendo, inclusive, fazer uso da ação regressiva, consoante a Súmula nº 188/STF.
+Nesse diapasão, após o pagamento da indenização, é dever do segurado proceder à entrega da documentação do veículo, possibilitando a transferência dosalvadoà seguradora, desembaraçado de quaisquer ônus, o que evita o enriquecimento ilícito.
+Confiram-se os seguintes escólios:
+EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. ACIDENTE DE TRÂNSITO. EMBRIAGUEZ DE TERCEIRO CONDUTOR. SUPRIMENTO DE OMISSÃO.
+1.- Segundo a jurisprudência deste Tribunal, a culpa exclusiva de terceiro na ocorrência de acidente de trânsito, por dirigir embriagado, não é causa da perda do direito à indenização, por não configurar agravamento do risco imputável à conduta do próprio segurado.
+2.- Em consonância com o art. 126, parágrafo único, da Lei n. 9.503/97 (Código de Trânsito Brasileiro - CTB), a empresa seguradora que indeniza o segurado pela perda total do veículo, sub-roga-se na propriedade do "salvado",razão pela qual caberá ao segurado fornecer toda a documentação necessária à realização da transferência devidamente assinada, em observância aos ditames legais.
+3.- Embargos de Declaração acolhidos, determinando que o segurado, ora embargado, tome todas as medidas necessárias à transferência do veículo para a seguradora, nos termos da legislação de regência" (EDcl no AgRg no REsp nº 1.404.981/MG, Rel. Ministro SIDNEI BENETI, DJe 14/3/2014 - grifou-se).
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. INDENIZAÇÃO POR DANO MORAL.ABALROAMENTO DE VEÍCULO. PERDA TOTAL. "SALVADO". BAIXA NO DETRAN NÃO REALIZADA PELA SEGURADORA. DANOS MORAIS COMPROVADOS. JUROS DE MORA.TERMO INICIAL. DATA DA CITAÇÃO.
+1.- Em consonância com o art. 126, parágrafo único, da Lei n.9.503/97 (Código de Trânsito Brasileiro - CTB), a empresa seguradora que indeniza o segurado pela perda total do veículo, sub-roga-se na propriedade do "salvado", tornando-se responsável pela sua transferência junto ao DETRAN, a fim de resguardar o segurado de qualquer ocorrência posterior.
+2.- No caso, entendeu o Acórdão recorrido que a conduta omissiva da seguradora, ao longo de dez anos, acarretou transtornos na vida do segurado passíveis de reparação a título de danos morais.
+3.- Todavia, considerando que o aludido dispositivo do CTB não estipulou um prazo determinado para a referida baixa, e que a hipótese não versa sobre responsabilidade extracontratual, os juros de mora deverão incidir a partir da citação, e não com base na Súmula STJ/54.
+4.- Agravo Regimental improvido.
+(AgRg nos EDcl no REsp 1190294/MG, Rel. Ministro SIDNEI BENETI, TERCEIRA TURMA, julgado em 15/05/2012, DJe 28/05/2012)
+3. Ante o exposto, com fulcro nos fundamentos acima aduzidos, dou provimento ao presente recurso especial, para, reformando o acórdão recorrido, determinar seja realizada a transferência do veículo indenizado como perda total para a propriedade da seguradora, livre e desembaraçado de quaisquer ônus ou gravame.
+Dado o amplexo da inicial, em que a parte autora saiu vencedora em ampla parte do pedido formulado na exordial, mantenho a sucumbência de acordo com a sentença (fl. 428).
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. CIVIL. ALIENAÇÃO EM GARANTIA. INDENIZAÇÃO DA PERDA TOTAL DO VEÍCULO. SUBROGAÇÃO. TRANSFERÊNCIA DA DOCUMENTAÇÃO NECESSÁRIA AO REGISTRO DO VEÍCULO. DEVER DO SEGURADO.
+1. Aempresa seguradora que indeniza o segurado pela perda total do veículo, sub-roga-se na propriedade do "salvado", razão pela qual caberá ao segurado fornecer toda a documentação necessária à realização da transferência devidamente assinada, em observância aos ditames legais.
+2. Recurso especial provido, paradeterminara transferência do veículo indenizado como perda total para a propriedade da seguradora, livre e desembaraçado de quaisquer ônus ou gravame.
