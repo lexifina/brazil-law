@@ -1,0 +1,31 @@
+DECISÃO
+IBRAIM ANTONIO MANSUR NETO (IBRAIM) interpôs agravo de instrumento contra decisão que deferiu a tutela de urgência nos autos nº 0835431- 45.2019.8.10.0001 da Ação de Encerramento de Conta com Saque/Transferência de Bitcoins e Dinheiro Depositado c/c Tutela de Urgência, proposta por JOSÉ DE JESUS LAMAR NETO (JOSÉ), alegando, em síntese, que não figura como sócio nem acionista das Litisconsortes, motivo pelo qual não é parte legítima para figurar no polo passivo da demanda; que apenas ocupou o cargo de Diretor de Tecnologia de Informação, sem, todavia, exercer poderes de administração; que as Litisconsortes eximiram expressamente o Agravante de qualquer responsabilidade, conforme Termo de Quitação de Direitos e Obrigações; que o magistrado a quo não poderia deferir a desconsideração de personalidade jurídica sem prévio contraditório e ampla defesa; e que o crédito judicial obtido em processo trabalhista possui natureza alimentar, sendo insusceptível de penhora ou arresto.
+O Tribunal de Justiça do Maranhão deu parcial provimento ao recurso, no termos do acórdão assim ementado:
+EMENTA - PEDIDO DE DESCONSIDERAÇÃO NA PRÓPRIA INICIAL.
+DESNECESSIDADE DE INCIDENTE. TEORIA MAIOR DA DESCONSIDERAÇÃO. ADMINISTRADOR NÃO-SÓCIO.RESPONSABILIDADE SUBJETIVA.
+1. O pedido de desconsideração da personalidade jurídica deduzido na própria petição inicial não exige a instauração de incidente e tampouco prévio contraditório, devendo o sócio ser citado para contestar a ação.
+2. Na linha de julgado do STJ, para a aplicação da teoria maior da desconsideração da personalidade jurídica, exige-se o dolo das pessoas naturais administradoras da sociedade empresária, consubstanciado na prática de ato irregular ou fraudulento.
+3. A teoria maior da desconsideração, regra geral no sistema jurídico brasileiro, não pode ser aplicada com a mera demonstração de estar a pessoa jurídica insolvente para o cumprimento de suas obrigações.
+4. Agravo conhecido e parcialmente provido. Unanimidade (e-STJ, fl 579).
+JOSÉ interpôs recurso especial com base no art. 105, III, a e c, da CF, onde alegou violação dos arts. 50, do CC/02 e 300 e 833, IV, do CPC/15, além de divergência jurisprudencial, aduzindo, em síntese, que a interpretação do art. 50 do CC/02 deve ser feita em conjunto com o momento processual, de modo que não há que se falar em necessidade de prova cabal, e sim em probabilidade do direito do recorrente, tudo com base no art. 300 do CPC/15. Ademais, ao determinar o desbloqueio do valor arrestado, o acórdão recorrido viola de maneira expressa o art.300, §3º, do CPC, uma vez que a liberação do montante tem condão de tornar-se medida irreversível em prejuízo dos direitos do recorrente (e-STJ, fl. 593).
+Foram ofertadas contrarrazões (e-STJ, fls. 637/657).
+O apelo nobre foi admitido na origem (e-STJ, fls. 663/666).
+O recurso especial interpostopor JOSÉ não foi conhecido, nos termos da decisão monocráticade minha relatoria assim ementada:
+PROCESSUAL CIVIL. RECURSO ESPECIAL.RECURSO MANEJADO NA ÉGIDE DO NCPC. INCIDENTE DE DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. AGRAVO DE INSTRUMENTO. DEFERIMENTO DA TUTELA DE URGÊNCIA.RECURSO ESPECIAL INTERPOSTO CONTRA DECISÃO QUE INDEFERIU A LIMINAR. INCIDÊNCIA DA SÚMULA Nº 735 DO STF.RECURSO ESPECIAL NÃO CONHECIDO (e-STJ, fl. 711).
+Nas razões dos presentes embargos de declaração, IBRAIMalegou omissão quanto arevogação do efeito suspensivo concedido pela Presidência do TJMA, ao presente Recurso Especial.
+Foi apresentada impugnação (e-STJ, fls. 723/729).
+É o relatório
+DECIDO.
+De plano, vale pontuar que os embargos de declaração ora em análise foramopostos na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da violação do art. 1.022 do NCPC
+De acordo com a jurisprudência desta Corte, a contradição ou obscuridade remediáveis por embargos de declaração são aquelas internas ao julgado embargado, devidas à desarmonia entre a fundamentação e as conclusões da própria decisão.
+Já a omissão que enseja o oferecimento de embargos de declaração consiste na falta de manifestação expressa sobre algum fundamento de fato ou de direito ventilado nas razões recursais e sobre o qual deveria manifestar-se o juiz ou o tribunal e que, nos termos do NCPC, é capaz, por si só, de infirmar a conclusão adotada para o julgamento do recurso (arts. 1.022 e 489, § 1º, do NCPC).
+Nas razões deste aclaratório, IBRAIM alegou omissão quanto a revogação do efeito suspensivo concedido pela Presidência do TJMA, ao presente Recurso Especial.
+De fato, houve omissão na decisão embargada.
+Em um primeiro momento, a tutela provisória de urgência interposta por IBRAIM,objetivando sustar o efeito suspensivo que foi concedido pela Presidência do Tribunal de Justiça do Maranhão ao recurso especial interposto por JOSÉ, foi indeferida ante a ausência dos requisitos autorizadores constantes do art. 300 do CPC/15 (e-STJ, fls. 703/705).
+Não obstante, com o julgamento do apelo especial, o qual não foi conhecido ante a incidência da Súmula n. 735 do STF, consequentemente, o efeito suspensivo que lhe foi atribuídoperde a eficácia, para todos os efeitos legais.
+Nessas condições, ACOLHO os embargos declaratórios,sem efeitos infringentes, apenas para esclarecer que, em consequência do não conhecimento do recurso especial, torna-se sem efeito a liminar concedida pelo TJMA para atribuir-lhe efeito suspensivo.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. VIOLAÇÃO DO ART. 1.022 DO NCPC. OMISSSÃO. OCORRÊNCIA. ACLARATÓRIOS ACOLHIDOS, SEM EFEITOS INFRINGENTES.
