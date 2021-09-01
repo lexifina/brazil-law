@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo interposto por Cleidervon Fernandes dos Santos contra a decisão do Tribunal de Justiça doTocantins, que, em juízo de admissibilidade, negou seguimento ao recurso especial por ele apresentado, impugnando o acórdão prolatado na Apelação n. 0001104-04.2018.8.27.2739/TO, assim ementado (fl. 251):
+1. APELAÇÃO. AÇÃO PENAL. FURTO. REPOUSO NOTURNO E DESTRUIÇÃO DE OBSTÁCULO. DOSIMETRIA. PRIMEIRA FASE. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. PENA DE MULTA. QUANTUM MANTIDO. SENTENÇA CONDENATÓRIA MANTIDA.
+1.1 O crime de furto majorado contra vítima que conhecia e participava do ciclo de amizades do réu, torna a conduta desse mais reprovável, motivo pelo qual é idônea a fundamentação do juiz singular para majorar a pena-base.
+1.2 Tendo o Juízo sentenciante, no cálculo da pena de multa, se balizado nos parâmetros dispostos na lei penal, e em consonância com a pena corpórea aplicada de forma razoável, no seu patamar mínimo, não há falar em redimensionamento.
+Nas razões do especial, apontou a Defensoria Pública contrariedade aos arts. 59 e 68 do Código Penal. Aduziu que houve equívoco na valoração negativa do vetor das circunstâncias do crime, uma vez que não foi apontada nenhuma circunstância extraordinária que extrapole os limites do tipo penal supostamente violado (fls. 267/268).
+Apresentadas contrarrazões (fls. 276/281), o recurso foi inadmitido na origem, por incidência da Súmula 7/STJ (fls. 293/295).
+Contra essa decisão a Defensoria interpõe agravo (fls. 304/312). Instado a se manifestar, o Ministério Público Federal opinou pelo desprovimento do agravo, nos seguintes termos (fl. 351):
+AGRAVO EM RECURSO ESPECIAL. FURTO. REPOUSO NOTURNO. ARTIGO 155, §§ 1º E 4º, INCISO I, DO CP. DOSIMETRIA. PENA-BASE ACIMA DO MÍNIMO LEGAL. CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. VIOLAÇÃO NÃO CONFIGURADA. DESPROVIMENTO DO AGRAVO EM RECURSO ESPECIAL.
+É o relatório.
+O agravo deve ser conhecido, uma vez que reúne os requisitos intrínsecos e extrínsecos de admissibilidade.
+Busca a Defensoria Pública o redimensionamento da pena aplicada ao ora agravante, com o afastamento do vetor das circunstâncias do crime.
+Na sentença, o agravante foi condenado como incurso no art. 155, §§ 1º e 4º, I, do Código Penal, à pena de 4 anos e 8 meses de reclusão, em regime inicialmente semiaberto, e ao pagamento de 70 dias-multa (fls. 145/149).
+Na dosimetria, concluiu o Magistrado a quo que as circunstâncias em que ocorreu o crime serão valoradas negativamente, pois, conforme declarado pelo réu, o crime foi praticado em detrimento de vítima que conhecia e participava de seu ciclo de amizades (fl. 148).
+O Tribunal local, ao desprover a apelação defensiva, consignou que o próprio apelante, em juízo, declarou que o furto foi praticado em desfavor da vítima que conhecia e participava de seu ciclo de amizades, o que torna a conduta do apelante ainda mais reprovável, motivo pelo qual é idônea a fundamentação do Juiz singular para majorar a pena-base, tendo ainda acrescentado que a circunstância judicial em questão, analisada negativamente pelo Magistrado, é no sentido de repudiar a conduta do apelante que, mesmo declarando em juízo amigo da vítima, não deixou de praticar um ilícito contra o patrimônio desta (fl. 243).
+Não se mostra inidônea a fundamentação adotada para a valoração negativa das circunstâncias do crime, as quais devem ser entendidas como os aspectos objetivos e subjetivos de natureza incidental que envolvem o fato delituoso.
+Na hipótese, as instâncias ordinárias descreveram as particularidades do delito e a maior censurabilidade da conduta, espelhada no fato de que o acusado conhecia e participava do ciclo de amizadesda vítima, elemento indicativo de um maior desvalor da conduta, prescindível para a caracterização do delito e que justificaa exasperação da pena-base.
+Nessa linha: AgRg no AgRg no AREsp n. 1.694.306/TO, de minha relatoria, Sexta Turma, DJe 10/5/2021; HC n. 583.384/SP, Ministro Felix Fischer, Quinta Turma, DJe 25/8/2020; AgRg no AREsp n. 1.340.032/PI, Ministra Laurita Vaz, Sexta Turma, DJe 23/10/2018; AgRg no HC n. 363.812/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 17/4/2017; AgRg no HC n. 359.044/AC, Ministro Nefi Cordeiro, Sexta Turma, DJe 26/8/2016; HC n. 257.075/SP, Ministro Ericson Maranho (Desembargador convocado do TJ/SP), Sexta Turma, DJe 10/11/2014, dentre outros.
+Inexiste, portanto, ilegalidade no procedimento dosimétrico.
+Ante o exposto, com fundamento no art. 253, II, b, do RISTJ, c/c a Súmula 568/STJ, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
+EMENTA
+PENAL. AGRAVO EM RECURSO ESPECIAL. FURTO QUALIFICADO. DOSIMETRIA. PENA-BASE. MAJORAÇÃO ACIMA DO MÍNIMO LEGAL. VETOR DAS CIRCUNSTÂNCIAS DO CRIME. FUNDAMENTAÇÃO IDÔNEA. MAIOR REPROVABILIDADE DA CONDUTA QUE EXTRAPOLA O TIPO PENAL. PRECEDENTES.
+Agravo conhecido para negar provimento ao recurso especial.
