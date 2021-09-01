@@ -1,0 +1,41 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por ETESCO CONSTRUÇÕES E COMÉRCIO LTDA, contra decisão do Tribunal de Justiça do Estado do Rio de Janeiroque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 76):
+AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA. PEDIDO DE DESISTÊNCIA DA DEMANDA CONTRA O RÉU, ORA PRIMEIRO AGRAVADO, NÃO CITADO. AUSÊNCIA DE CONCORDÂNCIA DO TAMBÉM RÉU, ORA SEGUNDO AGRAVADO. DECISÃO QUE DETERMINOU O PROSSEGUIMENTO DA DEMANDA CONTRA AMBOS OS RÉUS, ORA AGRAVADOS. PARA A DESISTÊNCIA DA AÇÃO CONTRA UM DOS LITISCONSORTES FACULTATIVOS QUE OCUPAM O POLO PASSIVO DA RELAÇÃO PROCESSUAL, O AUTOR SOMENTE PRECISA DA CONCORDÂNCIA DO CORRÉU QUE DESEJA EXCLUIR DO PROCESSO, SEM QUALQUER INGERÊNCIA DE EVENTUAL CORRÉU. INTELIGÊNCIA DO ART. 485, § 4º, DO CPC/15. PRECEDENTES DESTE E. TJRJ. DECISÃO REFORMADA, HOMOLOGANDO-SE A DESISTÊNCIA DA AÇÃO PROPOSTA PELO ORA AGRAVANTE EM RELAÇÃO A PEREGRINE I LLC, ORA PRIMEIRO AGRAVADO, EXTINGUINDO-SE O PROCESSO EM RELAÇÃO A ESTE ÚLTIMO, NA FORMA DO ART. 485, INC. VIII, DO CPC/15. RECURSO PROVIDO.
+Opostos embargos de declaração, foram rejeitados à e-STJ Fls. 117/121, com a aplicação de multa de 1% do valor da causa.
+Nas razões do recurso especial, a parte alega dissídio jurisprudencial quanto à interpretação conferida ao art.1.026, §2º, do CPC/2015.Insurge-se, assim, contra a multa fixada por ocasião da interposição de aclaratórios, asseverando que foram manejados uma única vez para fins de prequestionamento, nos termos, inclusive, da Súmula 98/STJ.
+Contrarrazões à e-STJ Fls. 184/189.
+É o breve relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Ato contínuo, verifico que o recurso especial não pode ser conhecido quanto à interposição pela alínea c do permissivo constitucional.
+Com efeito, o o dissídio jurisprudencial não foi comprovado conforme estabelecido nos arts. 541, parágrafo único, do CPC/73 (art. 1.029, § 1º, do CPC/2015), e 255, §§ 1º e 2º, do RISTJ.
+A divergência jurisprudencial deve ser demonstrada com a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados.
+No caso concreto, entretanto, o recorrente aponta julgadoque não guardasimilitude fática com o caso dos autos, em que o Tribunal de origem, no que tange ao manejado dos embargos de declaração e à decorrente aplicação de multa, assim se manifestou (e-STJ Fls. 119/121):
+Não se verifica no v. acórdão embargado omissão, tendo o julgado examinado as questões suscitadas e aplicado ao caso concreto os dispositivos legais pertinentes e a jurisprudência dominante sobre o assunto em nossos tribunais.
+Ficou consignado no v. aresto que o fato de o Demandado ETESCO CONSTRUÇÕES E COMÉRCIO LTDA., ora Embargante, não ter anuído com a desistência em relação ao outro demandado  PEREGRINE I LLC  , não possui relevância porque, consoante insculpido no art. 485, § 4º, do CPC/15, a contrario sensu, apenas a ausência de consentimento do próprio Requerido em relação ao qual se pretende desistir pode obstar a homologação da desistência.
+Eis a fundamentação de que o consentimento de ETESCO CONSTRUÇÕES E COMÉRCIO LTDA., ora Embargante, para a homologação do pedido de desistência formulado pelo Autor, ora Embargado, em relação a PEREGRINE I LLC, e desnecessário, atento ainda ao fato de que este último sequer fora citado.
+Consta ainda do v. acórdão embargado que o reconhecimento de litisconsórcio necessário esbarra na inexistência de lei para a hipótese presente, que versa sobre Ação de Cobrança, e que a eficácia de eventual sentença condenatória não depende da citação do correu não citado, ficando afastada a aplicação do art. 114 do CPC/15.
+As alegadas omissões apontadas nos Declaratórios não existem, mas sim a irresignação do Embargante quanto ao mérito do v. acórdão alvejado - o que deve ser objeto de recurso próprio que não os Declaratórios - , evidenciando a natureza protelatória dos Declaratórios.
+Nesse entendimento, colho as palavras da eminente MM. Benedito Gonçalves (EDcl no AgRg nos EMBARGOS DE DIVERGÊNCIA EM RESP Nº 1.173.111  RS (2009/0245459-1):
+(..)
+Considerando-se o valor da causa e a capacidade econômica do ora Embargante, reputa-se adequada a fixação da multa prevista no art. 1.026, § 2º, do CPC/15 em 1% do valor da causa, visando a desencorajar o ora Recorrente da prática de atos processuais protelatórios similares aos presentes Declaratórios.(..) (g.n.)
+Veja-se, portanto, que o caso concreto aponta para o nítido caráter protelatório dos embargos, mormente ante a prática de atos processuais similiares pela recorrente, fundamento não adotado noacórdão tido por paradigma, em que consignado o previsível intuito de prequestionamento e ausência de interesse de procrastinar o andamento do feito (e-STJ Fl. 131).
+Dessa forma, a par de não restar evidenciado o devido cotejo analítico entre os acórdãos confrontados, elidir as conclusões do aresto impugnadodemandaria o revolvimento do conjunto fático-probatóriodos autos, providência vedada nesta sede especial a teor daSúmula 7/STJ.
+Saliente-se, ainda, que tal entendimento encontra-se em harmonia com a jurisprudência desta Corte, senão vejamos:
+PROCESSUAL CIVIL. ADMINISTRATIVO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. ALEGAÇÃO DE VIOLAÇÃO DO ART. 1.022 DO CPC/2015 (ART. 535 DO CPC/1973). NÃO OCORRÊNCIA. ALEGAÇÃO DE CULPA EXCLUSIVA DO LITISCONSORTE E AUSÊNCIA DE PROVA DO DANO MORAL. PRETENSÃO DE REEXAME FÁTICO-PROBATÓRIO. INCIDÊNCIA DO ENUNCIADO N. 7 DA SÚMULA DO STJ.
+(..)
+V - Por derradeiro, quanto à suposta violação dos arts. 1.025 e 1.026, § 2º, do CPC/2015 e o pleito de exclusão da multa imposta na oposição dos embargos de declaração, esta Corte Superior tem jurisprudência consolidada no sentido de que a análise do caráter protelatório dos declaratórios demanda reexame do acervo fático-probatório dos autos, o que é inviável em recurso especial, sob pena de violação da Súmula n. 7/STJ. A propósito: AgInt no AREsp n. 1.441.228/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, julgado em 5/3/2020, DJe 17/3/2020.
+VI - Agravo interno improvido.(AgInt no AREsp 1675066/MG, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 23/08/2021, DJe 27/08/2021) - g.n.
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO VERIFICADA. CONTRATO DE COMPARTILHAMENTO DE POSTES.REVISÃO. IMPOSSIBILIDADE. SÚMULAS 5 E 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015. ÓBICE DA SÚMULA 7 DO STJ.
+(..)
+4. Por fim, quanto à ofensa ao art. 1.026 do CPC/2015, com relação à multa aplicada, o Tribunal a quo consignou: "Inexistindo, no acórdão ora embargado, quaisquer dos vícios indicados na lei processual e sendo inadmitido nessa fase o reexame da matéria já debatida e decidida, a rejeição dos embargos é medida que se impõe, restando caracterizado o seu efeito protelatório" (fl. 406, e-STJ).
+5. Assim, por entender a Corte de origem que os Embargos de Declaração eram protelatórios, esclareço que modificar tal conclusão, de modo a acolher a tese do recorrente, demanda reexame do acervo fático-probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7 do STJ.
+6. Agravo Interno não provido.(AgInt no AREsp 1709175/DF, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2021, DJe 01/07/2021) - g.n.
+Nesse passo, esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei, como ocorreu na espécie.
+Destarte, inviável a pretensão da recorrente.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. AÇÃO DE COBRANÇA.MULTA POR EMBARGOS DE DECLARAÇÃO PROTELATÓRIOS. EXCLUSÃO. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL.AUSÊNCIA DE SIMILITUDE FÁTICA E COTEJO ANALÍTICO. INCIDÊNCIA DASÚMULA7/STJ. ORIENTAÇÃO PRETORIANA SEDIMENTADA.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
