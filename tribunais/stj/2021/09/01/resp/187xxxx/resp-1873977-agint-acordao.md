@@ -1,0 +1,45 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA EM AÇÃO COLETIVA. ILETIVIDADE ATIVA. INCIDÊNCIA DA SÚMULA 283/STF. FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DO ARTIGO1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Na espécie, os autores desde a origem se insurgem contra sentença que, em sede de exceção de pré-executividade opostos pela Paranaprevidência, extinguiu o processo por ilegitimidade ativa.
+2. A decisão agravada negou seguimento ao recurso especial em razão daincidência da Súmula 283/STF, porquanto não impugnado especificamente o fundamento autônomo e suficientepara manter o acórdão recorrido, além de concluir que os honorários já haviam sido fixados"no patamar mínimo de dez por cento sobre valor atribuído à coisa", observando "os critérios estabelecidos no artigo 85, § 2º, do CPC/2015.
+3. Aausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, sendo imprescindível o confronto entre o acórdão recorrido e a argumentação trazida quando da interposição do recurso especial que pudesse justificar o afastamento do referido óbice processual. Incide, na espécie, o teor da Súmula 182/STJ. Precedentes.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto por Neuza Aparecida de Salles do Amaral e outros contra decisão, assim ementada (fls. 1.512-1.516):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA PROLATADA EM AÇÃO COLETIVA. ACOLHIMENTO DA EXCEÇÃO DE PRÉ-EXECUTIVIDADE APRESENTADA PELA PARANAPREVIDÊNCIA. ILEGITIMIDADE ATIVA DOS EXEQUENTES.FUNDAMENTO DO ACÓRDÃO RECORRIDO NÃO ATACADO. ÓBICE DA SÚMULA 283/STF. RECURSO NÃO CONHECIDO.
+O agravante em suas razões assevera que "há que se discordar da decisão, uma vez que houve a impugnação de todos os fundamentos do acórdão recorrido" (fl. 1.523, e-STJ).
+Requer, assim, seja julgado "opresente agravo juntamente como recurso especial interposto para que seja reformado o acórdão em tela, não havendo que se falar em não conhecimento do recurso especial e incidência da Súmula n.283/STF" (fl. 1.525, e-STJ).
+Impugnação às fls. 1.640-1.643.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CUMPRIMENTO DE SENTENÇA EM AÇÃO COLETIVA. ILETIVIDADE ATIVA. INCIDÊNCIA DA SÚMULA 283/STF. FUNDAMENTO DA DECISÃO AGRAVADA. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DO ARTIGO1.021, § 1º, DO CPC/2015. SÚMULA 182/STJ. AGRAVO NÃO CONHECIDO.
+1. Na espécie, os autores desde a origem se insurgem contra sentença que, em sede de exceção de pré-executividade opostos pela Paranaprevidência, extinguiu o processo por ilegitimidade ativa.
+2. A decisão agravada negou seguimento ao recurso especial em razão daincidência da Súmula 283/STF, porquanto não impugnado especificamente o fundamento autônomo e suficientepara manter o acórdão recorrido, além de concluir que os honorários já haviam sido fixados"no patamar mínimo de dez por cento sobre valor atribuído à coisa", observando "os critérios estabelecidos no artigo 85, § 2º, do CPC/2015.
+3. Aausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, sendo imprescindível o confronto entre o acórdão recorrido e a argumentação trazida quando da interposição do recurso especial que pudesse justificar o afastamento do referido óbice processual. Incide, na espécie, o teor da Súmula 182/STJ. Precedentes.
+4. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Na espécie, os autores desde a origem se insurgem contra sentença que, em sede de exceção de pré-executividade opostos pela Paranaprevidência, extinguiu o processo por ilegitimidade ativa.
+O Tribunal estadual manteve a sentença ao entendimento de que "o título judicial que lastreia o cumprimento de sentença não se estende aos agentes fiscais que ascenderam ao cargo de auditor por meio de um dispositivo declarado inconstitucional".
+A decisão agravada negou seguimento aorecurso especial em razões dos seguintes fundamentos (fls. 1.513-1.516):
+I) incidência da Súmula 283/STJ, porquanto osrecorrentes, ao indicarem ofensa aos artigos 502, 503, 507 e 508, do CPC/2015 e direcionar a sua tese de que "é notória a tentativa de afronta à coisa julgada" (fl. 714), deixaram de impugnar o fundamento do acórdão recorrido segundo o qual o título executivo que lastreia o cumprimento de sentençafaz menção "apenas e tão-somente a auditores fiscais, e em nenhum momento a agentes fiscais que tivessem ascendido ao cargo auditores fiscais mediante a transposição inconstitucional"; e
+II)Acerca dos honorários advocatícios, melhor sorte não socorrem os recorrentes, visto que, conforme consignado no voto condutor, a sua condenação se deu "no patamar mínimo de dez por cento sobre valor atribuído à coisa", observando "os critérios estabelecidos no artigo 85, § 2º, do CPC/2015".
+Ocorre que nas razões do agravo interno, a parte agravante impugnou genericamente a incidência daSúmula283/STF, afirmando apenas que "houve a impugnação de todos os fundamentos do acórdão recorrido" (fl. 1.523, e-STJ).
+Com efeito,aausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo, sendo imprescindívelo confrontoentre o acórdão recorridoe a argumentação trazida quando da interposição do recurso especial que pudesse justificar o afastamento do referido óbice processual.Incide, na espécie, o teor da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." A propósito:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 2/STJ. IMPROBIDADE ADMINISTRATIVA. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. ALEGAÇÕES GENÉRICAS. INCIDÊNCIA DO ART. 1021, § 1º DO CPC/2015. SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. A decisão agravada negou seguimento ao recurso especial em razão dos seguintes fundamentos: a) incidência da Súmula 283/STF em face da inexistência de impugnação no recurso especial de fundamentos autônomos e suficientes para manter o acórdão recorrido; b) aplicação da Súmula 7/STJ, pois a reversão do entendimento proferido pelo Tribunal de origem, baseado no conjunto fático e probatório constante dos autos, o qual expressamente afastou a prática de ato de improbidade administrativa, "tendo em vista a ausência de comprovação do elemento subjetivo na conduta dos agentes públicos", bem como a inexistência de constatação quanto ao propósito dos recorridos de se "enriquecer ilicitamente, de causar prejuízo ao erário ou de violar princípios administrativos".
+2. Nas razões do agravo regimental, a parte agravante impugnou genericamente a incidência das Súmulas 283/STF e 7/STJ ao caso concreto, afirmando que houve impugnação aos fundamentos do acórdão e que a pretensão não exige o reexame de matéria fático-probatória, mas apenas a sua revaloração jurídica.
+3. A ausência de impugnação específica dos fundamentos da decisão agravada inviabiliza o conhecimento do agravo regimental, nos termos do art. 1021, § 1º, do CPC/2015. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada."
+4. Agravo interno não conhecido.
+(AgRg no REsp 1.528.455/RJ, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 30/6/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.INCIDENTE DE RESOLUÇÃO DE DEMANDA REPETITIVA NA ORIGEM. AFETAÇÃO POSTERIOR À INADMISSIBILIDADE DO RECURSO ESPECIAL. SOBRESTAMENTO.IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+ ..
+2. Nos termos do art. 1.021, § 1º, do CPC/2015, cabe à parte agravante, na petição do seu agravo interno, impugnar especificamente os fundamentos da decisão agravada, o que, na hipótese dos autos, não foi atendido.
+3. Não basta a assertiva genérica de que a Súmula 7/STJ não se aplica ao caso dos autos, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido e a argumentação trazida no recurso especial que pudesse justificar o afastamento do referido óbice processual.
+4. Incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 5. Agravo interno não conhecido.
+(AgInt no AREsp 1.606.912/RJ, Rel. Ministro Og Fernandes, Segunda Turma,DJe 5/5/2020)
+Ante o exposto, não conheço do agravo em recurso especial.
+É o voto.
