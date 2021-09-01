@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo de ANTONIO ROCHA DOS SANTOS, contra decisão que inadmitiu recurso especial fundado no art. 105, III, "a" e "c", da Constituição Federal, interposto contra v. acórdão do Eg. Tribunal de Justiça do Estado de São Paulo, assim ementado:
+"Locação. Ação de despejo por falta de pagamento cumulada com cobrança de aluguéis. Discussão acerca da propriedade do imóvel que não é despicienda no caso. Ausência de contrato firmado entre as partes. Inexistência de relação locatícia. Ônus da prova que incumbia ao autor. Artigo 373, I, do Código de Processo Civil. Se o autor não demonstrar o fato constitutivo do direito invocado, a ré não pode ser condenada por dedução, ilação ou presunção. Sentença mantida. Apelo improvido." (e-STJ fl. 354)
+Nas razões do recurso especial, o agravante alega violação dos arts. 5º, inciso LV da Constituição Federal e aos artigos 385, 389, 390, 489, § 1º, IV e 1.013 todos do CPC, e divergência jurisprudencial, sustentando, em síntese, que: 1) o acórdão da Corte de origem não analisou todas as provas trazidas aos autos para comprovar a existência de relação locatícia entre as partes, como por exemplo, mensagens de WhatsApp e mídia de gravação; 2) foi nitidamente prejudicado em fase de instrução processual, vez que fora impedido de produzir provas em audiência, pois, temerosamente, sequer houve a designação de audiência de instrução e julgamento, que por sua vez seria um ato jurídico de extrema relevância e necessário para corroborar que o Recorrente tinha a posse e consequentemente, restaria corroborada a legitimidade deste para ajuizar a presente ação por ser o real possuidor do imóvel em comento.
+É o relatório. Decido.
+O recurso merece prosperar.
+Cuidam os autos, na origem, de ação de despejo c/c cobrança, ajuizada pelo agravante em face de DORALICE RIBEIRO CARDOSO extinta sem resolução do mérito, porque não teria o autor comprovado a propriedade do imóvel, tampouco realizado a regularização do polo ativo da demanda, nos seguintes termos:
+"Verificado que o proprietário do imóvel locado é falecido e deixou bens, determinou-se a regularização da representação processual do polo ativo na pessoa do inventariante (fl. 289), ou pelo comparecimento dos herdeiros (fl. 295), no prazo de 60 (sessenta) dias.
+Foi interposto agravo de instrumento contra as r. decisões (fls. 298/307), ao qual foi conferido efeito suspensivo (fls. 310/311).
+O v. Acórdão juntado às fls. 319/322 negou provimento ao recurso.
+As partes foram devidamente intimadas em segunda instância acerca do resultado do julgamento. O trânsito em julgado do referido acórdão deu-se em 06/06/2019 e, até o presente momento, o autor não deu cumprimento ao determinado às fls. 289 e 295, deixando de promover a devida regularização do polo ativo.
+Dessa forma, ausente pressuposto de constituição e de desenvolvimento válido e regular do processo, de rigor a extinção da ação.
+Posto isto, JULGO EXTINTO o processo sem resolução do mérito, com fundamento no artigo 485, IV, do Código de Processo Civil." (e-STJ fl. 324)
+Diante disso, o autor recorreu e teve sua apelação desprovida. O eg. TJ-SP manteve a sentença recorrida, concluindo pela ilegitimidade ativa do recorrente, nos seguintes termos:
+"Pela narrativa exposta fácil concluir que não assiste razão ao autor.
+Apesar do autor afirmar que há contrato firmado entre as partes, certo é que o documento de fls. 46/48 não faz a prova pretendida, uma vez que não está assinado.
+Assim, não há contrato locatício para embasar a presente ação de despejo, ainda mais no presente caso em que o suposto locador sequer é proprietário do bem.
+Realmente, como bem ponderou o autor em seu recurso, em contratos locatícios é totalmente dispensável a discussão acerca da propriedade do imóvel, uma vez que ela é somente exigida nas hipóteses expressamente previstas no artigo 60 da Lei 8.245/91.
+Mas no caso dos autos, não há contrato para embasar a pretensão inicial.
+A ré na defesa, negou a existência da relação jurídica, não havendo nos autos qualquer outro documento indicando que realmente existia uma relação entre as partes, ainda mais locatícia.
+Pelos autos, não se extrai que o autor seja locador do imóvel em discussão.
+E era ônus do autor a prova da relação jurídica existente entre as partes, mas pelo que se extrai do recurso, o autor entende que o contrato de fls. 46/48, apócrifo, é fundamento suficiente para procedência do pedido, mas não é.
+Assim, o autor não provou os fatos constitutivos de seu direito:
+(..)
+Deste modo, não convencendo as razões de inconformismo manifestadas pelo autor, de rigor a preservação integral da r. decisão monocrática." (e-STJ fl. 356/358)
+Com efeito, a Corte de origem, a despeito de reconhecer como totalmente dispensável a discussão acerca da propriedade do imóvel, o que afastaria sua alegada ilegitimidade ativa que motivou a extinção do feito em primeira instância, manteve a sentença recorrida, fundamentando-se, contudo, na ausência de provas das alegações do autor quanto à existência de contrato de locação entre as partes.
+Ocorre que, em primeiro grau, o feito fora extinto por ilegitimidade ativa, ou seja, sem que tenha sido realizada qualquer instrução processual, principalmente a colheita da prova testemunhal com a qual o autor alega que comprovaria a existência do contrato de locação que, como constou no acordão recorrido, não depende de prova escrita.
+Assim, deve ser reconhecido o cerceamento de defesa, uma vez que, no caso concreto, a falta de prova escrita não pode servir de fundamento para a extinção do feito sem resolução do mérito por ilegitimidade passiva, tampouco, para um julgamento improcedente em que foi negado à parte produzir as provas que desejava.
+Por oportuno, leia-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESPEJO POR FALTA DE PAGAMENTO. CONTRATO DE LOCAÇÃO VERBAL. JULGAMENTO ANTECIPADO DA LIDE. IMPROCEDÊNCIA POR FALTA DE PROVA DA EXISTÊNCIA DO CONTRATO DE LOCAÇÃO. NECESSIDADE DE PROVA ORAL. CERCEAMENTO DE DEFESA RECONHECIDO PELO TRIBUNAL DE ORIGEM. DECISÃO MANTIDA. AGRAVO INTERNO DESPROVIDO.
+1. Consoante jurisprudência desta Corte Superior, há cerceamento de defesa quando o magistrado profere julgamento antecipado da lide, contrário ao interesse da parte, com fundamento na ausência de prova de suas alegações.
+2. No caso, o Tribunal de origem reconheceu o cerceamento de defesa, entendendo necessária a abertura da fase instrutória, com a realização de prova oral, a fim de averiguar a existência do contrato de locação verbal.
+3. A reforma do acórdão recorrido, quanto à suficiência da prova documental e à ocorrência de confissão dos réus acerca da existência de locação verbal, demandaria o revolvimento do suporte fático-probatório dos autos, o que é inviável no âmbito estreito do recurso especial, a teor do disposto na Súmula 7/STJ. 4. Anulada a sentença, em razão da ocorrência de cerceamento de defesa, não é possível avançar, no momento, no exame dos elementos de convicção que serão oportunamente submetidos ao magistrado.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1396378/SP, de minha Relatoria, QUARTA TURMA, julgado em 21/05/2019, DJe 05/06/2019)
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo a fim de dar provimento ao recurso especial para desde logo anular o processo a fim de que se reabra a instrução, e continue no exame do feito, julgando-o como entender de direito.
+Publique-se.
