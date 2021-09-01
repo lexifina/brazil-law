@@ -1,0 +1,4 @@
+Resolução CVM nº 44, de 2021
+Dispõe sobre a divulgação de informações sobre ato ou fato relevante, a negociação de valores mobiliários na pendência de ato ou fato relevante não divulgado e a divulgação de informações sobre a negociação de valores mobiliários, e revoga as Instruções CVM nº 358, de 3 de janeiro de 2002, nº 369, de 11 de junho de 2002, e nº 449, de 15 de março de 2007.
+O PRESIDENTE DA COMISSÃO DE VALORES MOBILIÁRIOS – CVM torna público que o Colegiado, em reunião realizada em 11 de agosto de 2021, com fundamento no disposto nos arts. 4º, III, IV e VI, 8º, I e III, 18, II, “a”, e 22, § 1º, I, III, V e VI, da Lei nº 6.385, de 7 de dezembro de 1976, no art. 157 da Lei nº 6.404, de 15 de dezembro de 1976, bem como nos arts. 5º a 9º do Decreto nº 10.139, de 28 de novembro de 2019, APROVOU a seguinte Resolução:
+CAPÍTULO I – ÂMBITO E FINALIDADE
