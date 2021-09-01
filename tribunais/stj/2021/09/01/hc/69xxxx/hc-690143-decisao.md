@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JOÃO LENOS DIAS DA SILVAcontra acórdão proferido peloTribunal de Justiça do Estado do Pará no julgamento do HC n. 0805443-97.2021.8.14.0000.
+Depreende-se dos autos que o Paciente está sendo processado pela suposta prática do crime de tentativa de homicídio. Por não ter sido localizado, o Acusado foi citado por edital.Em 16/07/2012, foi decretada a sua prisão preventiva (fl. 39).
+Depreende-se do aresto atacado que após a constituição de Defesa nos autos do processo criminal, o Réu pleiteou ao Juízo processante a revogação de sua prisão preventiva, o que foi indeferido.
+Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 18-38).
+Neste writ, a Parte Impetrante defende, em síntese, a inexistência de fundamentação idônea e dos requisitoslegais para decretação e posterior manutenção da prisão preventiva do Paciente.
+Assevera que "mesmo sem diligenciar para encontrar o endereço atualizado do paciente, a autoridade coatora decretou a preventiva com fundamento no art.366 do CPP" (fl. 4).
+Salienta, ainda, que o fato de o Réu não ter sido localizado para responder à ação penal não induz à conclusão de que se encontrava foragido.Ressalta, assim, que, " n ão havendo provas da intenção de fuga do agente, não há que se falar em prisão preventiva" (fl. 8), bem como que "não se pode confundir evasão com local incerto e não sabido" (fl. 8).
+Outrossim, afirma que não há contemporaneidade da medida, além de ter constado no decreto prisional que "tão logo o acusado comparecesse aos autos para responder à ação penal, a preventiva seria revogada" (fl. 7), o que já ocorreu.
+Alega, ainda, que o Paciente possui as condições pessoais para permanecer em liberdade, sendo suficientes as medidas cautelares diversas da prisão.
+Requer, em liminar e no mérito, "que a prisão preventiva seja revogada, tendo em vista que o réu compareceu ao processo" (fl. 15). No mérito, a confirmação da liminar, com a concessão de prisão domiciliar com monitoramento eletrônico, se for o caso.
+É o relatório. Decido o pedido inicial.
+A concessão da tutela de emergência, em juízo de cognição sumária e singular, exige a demonstração concomitante, e em grau bastante satisfatório, da plausibilidade do direito arguido e do perigo na demora. Todavia, ao menos por ora, não se mostram presentes os pressupostos autorizadores da medida urgente requerida no caso em apreço.
+No acórdão combatido consta a seguinte fundamentação apresentadapelo Juízo singular ao indeferir, em recente decisão, o pleito de revogação da prisão preventiva do Paciente, in verbis (fls. 24-26; sem grifos no original):
+"No entanto, verifico que existem indícios que o acusado praticou o delito de tentativa de homicídio. A infração penal cometida pelo réu e a motivação do crime, têm um alto grau de reprovação pela sociedade. O requerente em liberdade poderá trazer prejuízo à investigação e frustrar a aplicação da lei penal, além de colocar em risco a ordem pública, considerando que o réu permanece foragido desde a data do fato, em 25/09/2009.
+ ..
+Dos argumentos narrados, não vislumbro qualquer novidade no sentido de embasar a revogação da prisão preventiva decretada.
+Ao contrário, com o oferecimento da denúncia em desfavor do réu, ratificou-se a existência do crime e indícios suficientes da autoria imputada.
+Esse juízo por sua vez, recebeu a denúncia, determinando a citação do réu a qual não foi possível devido este estar foragido do distrito da culpa.
+Desta feita, entendo necessária a manutenção da custódia cautelar pelos fundamentos anteriormente expostos, haja vista presentes os requisitos elencados no artigo 312 do Código de Processo Penal. Vejamos:
+O fumus comissi delicti está caracterizado por meio das declarações das testemunhas ouvidas em sede policial, além, do laudo de exame de corpo de delito acostado às fls. 26/27.
+No que tange ao periculum libertatis também se encontra presente, consubstanciado na garantia da ordem pública, para assegurar a instrução criminal e aplicação da lei penal, tendo em vista que o réu permanece foragido até o presente momento, pois o mandado de prisão ainda não foi cumprido porque o réu encontra-se em local desconhecido.
+De início, acerca da GARANTIA DA ORDEM PÚBLICA, verifico que os depoimentos prestados no âmbito policial revelam que o acusado é possivelmente dotado de elevado grau de periculosidade, haja vista a gravidade em concreta do caso em tela, onde, o mesmo, cometeu o delito com extrema violência contra pessoa."
+Como se vê, o Magistrado a quoressaltou especialmente o risco à instrução processual e à garantia da aplicação da lei penal, tendo em vista que o Paciente permaneceu foragido por longo período, circunstância que admite, prima facie, a prisão preventiva.
+Nesse sentido:
+"PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. HOMICÍDIO.PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. CONVENIÊNCIA DA INSTRUÇÃO CRIMINAL. ACUSADO FORAGIDO POR LONGO PERÍODO. PERMANÊNCIA EM ESTABELECIMENTO PRISIONAL PRÓXIMO À FAMÍLIA. DIREITO NÃO ABSOLUTO. RECURSO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. A prisão preventiva encontra-se também justificada para assegurar a futura aplicação da lei penal e para a conveniência da instrução criminal em razão de o recorrente ter permanecido foragido desde a decretação da custódia - em 25/8/2005 - até sua captura em 1º/10/2019.
+ ..
+4. Recurso ordinário desprovido."(RHC 122.262/PI, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/03/2020, DJe 17/03/2020; sem grifos no original.)
+Ressalto, ainda, que, nos moldes do entendimento deste Tribunal Superior, "afasta-se a ausência de contemporaneidade dos fatos quando o decreto não pode ser cumprido porque foragido o paciente por diversos anos  .. ." (HC 574.885/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 30/06/2020, DJe 05/08/2020).
+Ademais,  em razão da parca instrução do feito, sem que sejam prestados, pelo Juízo de primeira instância, esclarecimentos pormenorizados sobre a situação processual do Paciente, não há como se avaliar, por ora, a alegação de que o Acusado não se encontrava foragido.
+Outrossim, verifico que ainda foi destacadano decisum acima transcrito a gravidade concreta do delito de tentativa de homicídio, tendo sido asseverado pelo Magistrado singular que o Paciente "cometeu o delito com extrema violência contra pessoa" (fl. 26), o que também justifica, a princípio, a constrição cautelar.
+Assim, o caso em análise não se enquadra nas hipóteses excepcionais passíveis de deferimento do pedido em caráter de urgência, por não veicular situação configuradora de abuso de poder ou de manifesta ilegalidade sanável no presente juízo perfunctório, devendo a controvérsia ser decidida após a tramitação completa do feito.
+Ante o exposto, INDEFIRO o pedido de liminar.
+Solicitem-se informações pormenorizadas ao Juízo de primeiro grau, notadamente sobre a situação processual e prisional do Paciente e o estágio atual do processo criminal, com o envio, ainda, da denúncia e de todas as eventuais decisões que decretaram e mantiveram a custódia processual e da respectiva senha ou chave de acesso para consulta ao andamento processual.
+Publique-se. Intimem-se.
