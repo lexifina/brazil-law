@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por ALBERTINO FERREIRA PERES, com amparo na alínea "a"do inciso III do art. 105 da CF/1988, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS assim ementado (e-STJfls. 141-142):
+APELAÇÃO CÍVEL. AÇÃO DE COBRANÇA. FORNECIMENTO DE ÁGUA E COLETA DE ESGOTO. DOCUMENTOS ESSENCIAIS À PROPOSITURA DA AÇÃO NÃO COLACIONADOS. DEVER DE EMENDA À INICIAL NÃO VERIFICADO. ERROR IN PROCEDENDO. SENTENÇA CASSADA. ORIENTAÇÃO DESTE EGRÉGIO TRIBUNAL DE JUSTIÇA. INCIDENTE DE UNIFORMIZAÇÃO DE JURISPRUDÊNCIA Nº 195794-16.2012.8.09.000. Consoante iterativa e recente jurisprudência deste egrégio Tribunal de Justiça, o contrato e as faturas sãodocumentos indispensáveis à propositura da ação de cobrança ajuizada pela SANEAMENTO DE GOIÁS S/A - SANEAGO, que objetiva o recebimento de valores pelo alegado fornecimento de água e tratamento de esgoto, motivo pelo qual, deveria o juízo de primeiro grau ter oportunizado a emenda à inicial para sanar tal hipótese, mesmo que já tenha ocorrido a citação do réu, nos termos do artigo 284 da Lei de Ritos, motivo pelo qual merece ser cassada a sentença combalida. APELAÇÃO CONHECIDA E PROVIDA. ATO SENTENCIAL CASSADO.
+Opostos embargos de declaração, estes foram rejeitados (e-STJfls. 168-176).
+Alega a parte insurgente violação do art. 535, II, do CPC/1973, pois o Tribunal de origem foi omisso quanto à questão suscitada em embargos de declaração.
+Sustenta ofensa aos arts. 183 e 473 do CPC/1973,porquanto, no caso, ocorreu a preclusão processual para a produção de provas, uma vez que a parte recorrida optou por não exercer a faculdade de produção de provas quando o Juízo de primeirograu lhe concedeu a oportunidade para tanto, não havendo falar em cerceamento de defesa.
+Aponta contrariedade ao art. 294 do CPC/1973, em razão da impossibilidade de emenda à inicial após a citação.
+Não foram apresentadas contrarrazões.
+É o relatório.
+Não merece prosperar a tese de violação do art. 535 do CPC/1973, porquanto o acórdão recorrido fundamentou, claramente, o posicionamento por ele assumido, de modo a prestar a jurisdição que lhe foi postulada, resolvendo todas as questões levantadas pela recorrente.
+Destarte, o Tribunal de origem se manifestou expressamente sobre a alegação de preclusão e de impossibilidade de emenda à inicial após a citação, conforme se depreende do seguinte excerto extraído do acórdão impugnado (e-STJfls. 174-176):
+Por oportuno, cabe enfatizar que os tribunais pátrios admitem a emenda à petição inicial após a citação do réu, conforme extrai-se do aresto abaixo, oriundo do Superior Tribunal de Justiça, vejamos:
+ ..
+Deve ser enfatizado, ainda, que a norma processual civil citada pelo embargante (artigo 294), ao contrário do que foi por ele alegado, não veda a emenda à inicial após a citação, mas sim que o pedido seja aditado após a citação do réu, sem a concordância deste.
+Assim, o acórdão embargada não violou nenhum dispositivo legal, bem como está de encontro com o entendimento jurisprudência dominante, não sendo o caso de ocorrência de preclusão, pois a emenda à inicial é direito do autor enão preclui antes que lhe seja oportunizado tal exercício.
+Na verdade, o despacho possibilitando a produção de provas pelas partes não substitui a determinação de emenda, diretamente direcionada ao autor, com a especificação do vício a ser sanado, mormente quando o julgador extingue o feito por indeferimento da exordial.
+Sendo assim, não há que se falar em omissão, obscuridade, contradição, erro material ou ausência de fundamentação do aresto. O fato de o Tribunal a quo haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura omissão nem outra causa passível de exame mediante a oposição de embargos de declaração.
+No aspecto:
+AGRAVO REGIMENTAL. RECURSO ESPECIAL. RECURSO INTERPOSTO SOB A ÉGIDE DO CPC/1973. VIOLAÇÃO DO ART. 535 DO CPC. NÃO OCORRÊNCIA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA N. 282/STF. REEXAME DE ELEMENTOS PROBATÓRIOS PRODUZIDOS AO LONGO DA DEMANDA. SÚMULA N. 7/STJ.
+1. Afasta-se a alegada violação do art. 535 do CPC quando o acórdão recorrido, integrado pelo julgado proferido nos embargos de declaração, dirime, de forma expressa, congruente e motivada, as questões suscitadas nas razões recursais.
+2. Aplicam-se os óbices previstos nas Súmulas n. 282 e 356/STF quando as questões suscitadas no recurso especial não tenham sido debatidas no acórdão recorrido nem, a respeito, tenham sido opostos embargos declaratórios.
+3. Aplica-se a Súmula n. 7 do STJ quando o acolhimento da tese defendida no recurso especial reclamar a análise dos elementos probatórios produzidos ao longo da demanda.
+4. Agravo regimental desprovido.
+(AgRg no AREsp 129.913/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, TERCEIRA TURMA, julgado em 17/5/2016, DJe 23/5/2016).
+Verifica-se, ainda, que o recorrente não refutouos fundamentos utilizados pela Corte a quo para reformar a sentença.
+A não impugnação de fundamento suficiente para manter o acórdão recorrido atrai a aplicação do óbice da Súmula 283/STF, inviabilizando o conhecimento do apelo extremo.
+A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. CONCURSO PÚBLICO. DETRAN/PE. DEFICIENTE FÍSICO. ALTERAÇÃO DA LEI QUE CONSIDERAVA O CANDIDATO COMO DEFICIENTE, DURANTE O CONCURSO. FALTA DE IMPUGNAÇÃO, NO RECURSO ESPECIAL, DOS FUNDAMENTOS DO ACÓRDÃO COMBATIDO, SUFICIENTES PARA A SUA MANUTENÇÃO. INCIDÊNCIA DA SÚMULA 283/STF. DEFICIÊNCIA FÍSICA RECONHECIDA, PELO TRIBUNAL DE ORIGEM. ALTERAÇÃO. REEXAME. SÚMULA 7/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+I. Agravo Regimental interposto em 12/02/2016, contra decisão publicada em 02/02/2016.
+II. Não merece prosperar o Recurso Especial, quando a peça recursal não refuta determinado fundamento do acórdão recorrido, suficiente para a sua manutenção, em face da incidência do enunciado da Súmula 283 do STF ("É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"). No caso, a parte recorrente deixou de impugnar o fundamento do acórdão recorrido, no sentido de que "a junta médica do certame em apreço aplicou a literalidade do supracitado Decreto 5296/04, o qual não estava em vigor na data da publicação do edital do certame em questão, entendendo pela desclassificação do candidato ora apelante por considerar que a sua surdez bilateral não se enquadrava na previsão de deficiência auditiva". Incidência da Súmula 283/STF.
+III. Ademais, tendo o acórdão recorrido concluído pela existência de perda auditiva bilateral, suficiente a enquadrar o autor como deficiente auditivo, nos termos da lei, aferir a existência da perda auditiva, em Recurso Especial, demandaria o reexame do conteúdo fático-probatório dos autos, providência vedada, em sede de Recurso Especial, ante o óbice da Súmula 7/STJ.
+IV. Agravo Regimental improvido.
+(AgRg no REsp 1.504.904/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 12/4/2016, DJe 19/4/2016 - grifos acrescidos).
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015, c/c o art. 255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Publique-se. Intimem-se.
