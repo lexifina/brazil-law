@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto pelaFAZENDA NACIONAL contra decisão doTRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO, quenão admitiu recurso especial, fundadona alínea "a" do permissivo constitucional,o qualdesafia acórdão assim ementado (e-STJ fl. 392):
+TRIBUTÁRIO. MANDADO DE SEGURANÇA. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM. BLOQUEIO DE VALORES PARA PAGAMENTO DE OBRIGAÇÕES TRIBUTÁRIAS. LEGITIMIDADE. BLOQUEIO INTEGRAL. IMPOSSIBILIDADE.
+1. Consoante o entendimento deste Tribunal, é legítimo o bloqueio de valores do Fundo de Participação dos Municípios- FPM em razão do inadimplemento de obrigações tributárias assumidas pelo município com a União e suas autarquias. Entretanto, esse bloqueio deve limitar-se ao percentual de 15% (quinze por cento) para as obrigações correntes líquidas.
+2. Apelação provida.
+Embargos de declaração rejeitados (e-STJ fls. 420/428).
+No recurso especial obstaculizado, a parte apontouviolação do art. 1.022, II,do CPC/2015, por negativa de prestação jurisdicional, e, no mérito, dos arts.111, I e 155-A do CTN e do art. 56 da Lei n. 8.212/1991.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Parecer ministerial às e-STJ fls. 493/497, pelo desprovimento do agravo em recurso especial.
+Passo a decidir.
+A pretensão não merece prosperar.
+Em relação à alegada ofensado art. 1.022, II, do CPC/2015, cumpre destacar que, ainda que o recorrente considere insubsistente ou incorreta a fundamentação utilizada pelo Tribunal nos julgamentos realizados, não há necessariamente ausência de manifestação. Não há como confundir o resultado desfavorável ao litigante com a falta de fundamentação, motivo pelo qual não se constata violação dos preceitos apontados.
+Consoante entendimento desta Corte, o magistrado não está obrigado a responder a todas as alegações das partes, tampouco a rebater um a um todos os seus argumentos, desde que os fundamentos utilizados tenham sido suficientes para embasar a decisão, como ocorre na espécie. Nesse sentido:
+IPVA. NÃO CONFIGURADA VIOLAÇÃO DO ART. 1.022 DO CPC/2015. CERCEAMENTO DE DEFESA. INCIDÊNCIA DA SÚMULA 283 DO STF. ALIENAÇÃO FIDUCIÁRIA DE VEÍCULO. ILEGITIMIDADE PASSIVA DO CREDOR FIDUCIÁRIO. CONTROVÉRSIA DIRIMIDA COM ANÁLISE DE LEGISLAÇÃO DISTRITAL. INCIDÊNCIA DA SÚMULA 280/STF. LEI LOCAL. ILEGITIMIDADE ATIVA DO DISTRITO FEDERAL. REEXAME DO CONJUNTO PROBATÓRIO. INCIDÊNCIA DA SÚMULA 7 DO STJ. MULTA DO ART. 1026 DO CPC/2015.
+1. Inicialmente, em relação aos arts. 141 e 1022 do CPC, deve-se ressaltar que o acórdão recorrido não incorreu em omissão, uma vez que o voto condutor do julgado apreciou, fundamentadamente, todas as questões necessárias à solução da controvérsia, dando-lhes, contudo, solução jurídica diversa da pretendida pela parte recorrente. Vale destacar, ainda, que não se pode confundir decisão contrária ao interesse da parte com ausência de fundamentação ou negativa de prestação jurisdicional. .. (REsp 1.671.609/DF, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, DJe 30/06/2017).
+No mérito, assim se pronunciou o Tribunal de origem (e-STJ fls. 389/391):
+Consoante o entendimento deste Tribunal sobre a matéria, é legítimo o bloqueio de valores do Fundo de Participação dos Municípios - FPM em razão do inadimplemento de obrigações tributárias assumidas pelo município com a União e suas autarquias. Entretanto, esse bloqueio deve limitar-se ao percentual de 15% (quinze por cento) para as obrigações correntes líquidas.
+Confiram-se, a propósito, as ementas abaixo transcritas:
+ ..
+"TRIBUTÁRIO E PROCESSUAL CIVIL. RETENÇÃO DE RECURSOS DO FUNDO DEPARTICIPAÇÃO DOS MUNICÍPIOS. LIMITAÇÃO A 15% DA RECEITA LÍQUIDA MUNICIPALMENSAL. SENTENÇA MANTIDA.
+1. O parágrafo único do artigo 160 da Constituição Federal, com a nova redação introduzida pela Emenda Constitucional n. 03/93 e acréscimos da EC n. 29/2000, prevê a possibilidade de retenção do FPM, quando o Município encontra-se inadimplente para com as autarquias federais.
+2. Em suma, "tem-se entendido (TRF1  STJ) constitucional o bloqueio do FPM: a nova redação do art. 160, parágrafo único, da CF/88 (EC nº 03/93), permite à União e suas autarquias a retenção das receitas tributárias passíveis de repartição (art. 157 a art. 158 da CF/88), para pagamento dos seus créditos, tanto aqueles advindos de termo de amortização de dívida fiscal (TADF), quanto os derivados de obrigações tributárias correntes inadimplidas"(AC 2000.33.00.024040-8/BA, Rel. Desembargador Federal Luciano Tolentino Amaral, Sétima Turma, e-DJF1 p.45 de 22/01/2010).
+3. Todavia, referida amortização, acrescida das obrigações previdenciárias correntes, poderá, mensalmente, comprometer até quinze pontos percentuais da Receita Corrente Líquida Municipal. (art. 5º, § 4º, da Lei n. 9.639/98).
+4. Com efeito, é legítima a retenção do FPM para pagamento de créditos tributários, de modo que não há que se falar em violação ao princípio da ampla defesa e do contraditório; observando-se o limite de 15% quanto à retenção do FPM referente às obrigações correntes.
+5. Apelação e remessa oficial não providas. Sentença mantida." (AC 0029498-51.2011.4.01.3700/MA, Relator Convocado Juiz Federal Rafael Paulo Soares Pinto, SétimaTurma, 27/03/2015 e-DJF1 P. 7058.)
+Ante o exposto, dou provimento à apelação para que o bloqueio de valores do FPM limite-se a 15% (quinze por cento).
+Como se vê dos excertos em destaque, o Tribunal a quo decidiu a controvérsia à luz de fundamento eminentemente constitucional - interpretação dos arts. 157, 158 e 160da CF/1988 - cujo exame compete, tão somente, ao Supremo Tribunal Federal por meio de recurso extraordinário.
+Assim, dada a incompetência desta Corte para a revisão da matéria, o apelo extremo manejado revela-se manifestamente inadmissível. Nesse sentido, consultem-se o AgRg no REsp n. 1.455.859/PR, relator Ministro Sérgio Kukina, Primeira Turma, DJe 30/06/2016, e o AgRg no REsp n. 1.576.158/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe 05/09/2016.
+Videtambém o bem-lançado parecer ministerial, às e-STJ fls. 493/497.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a" e "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
