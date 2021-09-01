@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por JOANA BUBNA DA SILVA, contra decisão do Tribunal de Justiça do Estado de São Pauloque inadmitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 169):
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C CONDENAÇÃO EM OBRIGAÇÃO DE FAZER C/C PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS - Contrato bancário - Autora que alega ter sido induzida a erro na contratação de empréstimo consignado, de modo que houve a contratação de cartão de crédito com reserva de margem consignável - Alegação de descontos indevidos no benefício previdenciário - Sentença de improcedência - Insurgência da autora - Descabimento - Hipótese em que os elementos dos autos demonstram que a autora tinha conhecimento da celebração de contrato de cartão de crédito com pagamento mínimo das faturas realizado por meio de desconto em seu benefício previdenciário - Ausência de ato ilícito praticado pelo banco réu - RECURSO NÃO PROVIDO.
+Não foram opostos embargos de declaração.
+Nas razões do recurso especial, a parte agravante alega ofensa aos arts.6º, II, III, IV e V, 14, 39, 42 e 51, IV, do CDC, bem como dissídio jurisprudencial.Apontaa ilegalidade de descontos sobre a RMC (Reserva de Margem Consignável), sob a modalidade deempréstimo consignado via saque no cartão de crédito, consoante proibição do§3º do art. 16 da Instrução Normativa INSS/PRESS n. 28/2008. Aduz, assim, a necessidade de indenização pelos danos morais sofridos (Súmula 532/STJ), notadamente ante a abusividade das cláusulas entabuladas e da ausência de ciência do consumidor (dever de informação) quanto aoprodutobancário contratado.
+Contrarrazões à e-STJ Fls. 232/237.
+É o breve relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+A irresignação, entretanto, não merece prosperar.
+Inicialmente, quanto à insurgência da agravante referente à proibição constanteda Instrução Normativa INSS/PRESS n. 28/2008, verifico ser inviável a sua pretensão. Isso porquenão cabe invocar ofensa a dispositivos de Resoluções, Portarias, Regulamentos ou circulares, haja vista que tais atos normativos não se equiparam à lei federal, de modo a autorizar a interposição do recurso especial com base no art. 105, inciso III, da Constituição Federal.
+Confiram-se:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535/CPC. PLANO DE SAÚDE. MULTA EM RAZÃO DE NEGATIVA DE REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. ART. 8º DA RESOLUÇÃO 124/2006 DA ANS. ATO NORMATIVO QUE NÃO SE ENQUADRA NO CONCEITO DE "TRATADO OU LEI FEDERAL".
+1. Deve ser afastada a alegada violação ao art. 535, II, do CPC, na medida em que a Corte de origem analisou, de forma objetiva e fundamentada, as questões que lhe foram submetidas, apreciando integralmente a controvérsia posta no presente feito, não havendo falar em omissão.
+2. O exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise da Resolução nº 124/2006 da ANS, pretensão insuscetível de ser apreciada em recurso especial, porquanto o referido ato normativo não se enquadra no conceito de "tratado ou lei federal" de que cuida o art. 105, III, a, da CF.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1395932/RN, Rel. Ministro Sérgio Kukina, Primeira Turma, julgado em 26/11/2013, DJe 03/12/2013)
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. VIOLAÇÃO DE RESOLUÇÃO. INVIABILIDADE.
+1. O recurso especial não constitui via adequada para a análise, sequer reflexa, de eventual ofensa a resoluções, portarias ou instruções normativas, pois tais atos não estão compreendidos na expressão "lei federal".
+2. Agravo regimental não provido." (AgRg no REsp 1291973/RS, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 12/11/2013, DJe 20/11/2013)
+De outra parte, quanto àapontada violação aos arts. 6º, II, III, IV e V, 14, 39, 42 e 51, IV, do CDC,o recurso especial não pode ser conhecido, porquanto não houve emissão de juízo sobre tal matéria pelo acórdão recorrido, não havendo sequera oposição dos embargos de declaração, fazendo incidir a orientação disposta na Súmula 282/STF.
+Veja-se, nesse passo, que o Tribunal a quomanifestou-se unicamente no seguinte sentido (e-STJ Fls. 170/171):
+Restou incontroverso que a autora teve acesso ao crédito fornecido pelo banco réu.
+De fato, a requerente não negou que tivesse contratado empréstimo com o banco réu, tendo afirmado que foi induzida a erro quanto à modalidade de crédito contratada.
+Assim, a controvérsia gira em torno da alegação da requerente de que teria sido induzida a erro pela ausência de esclarecimentos devidos do réu sobre a contratação, de modo que acreditava tratar-se de empréstimo consignado.
+Ocorre que o contrato acostado aos autos pelo banco réu é claro ao estabelecer que se trata de adesão a cartão de crédito, não havendo que se cogitar de empréstimo consignado (fls. 53/55).
+De fato, o "termo de adesão cartão de crédito consignado BANCO BMG e autorização para desconto em folha depagamento" é expresso ao afirmar que (fls. 54):
+(..)
+Por sua vez, o referido quadro IV explicita o "Valor consignado para pagamento do valor mínimo indicado na fatura" (fls. 53).
+Portanto, não socorre a autora a alegação de que não sabia o que estava contratando. Tendo em vista que o contrato foi regularmente celebrado entre partes, não há que se falar em repetição de indébito ou indenização por dano moral.(..) (g.n.)
+A par de não haver prequestionamento dos temas apontados,ainda que assim não fosse, elidir as conclusões do aresto impugnado quanto à modalidade e abusividade docontrato entabulado entre as partes e, ainda, à ofensa ao dever de informação, para fins de viabilizar a pretensão da agravante,demandaria o revolvimento do conjunto fático-probatório e contratual dos autos, providência vedada nesta sede especial a teor da Súmulas 5 e 7/STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. EMPRÉSTIMO CONSIGNADO. CARTÃO DE CRÉDITO. CONDIÇÕES E ENCARGOS FINANCEIROS ESPECIFICADOS NO CONTRATO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.(AgInt no AREsp 1683963/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CONTRATOS BANCÁRIOS.JUROS REMUNERATÓRIOS. TAXA MÉDIA DE MERCADO. SÚMULA 83/STJ.ABUSIVIDADE AFASTADA PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO.IMPOSSIBILIDADE. SÚMULAS N. 5 E 7 DO STJ. AGRAVO DESPROVIDO.
+1. Consoante a jurisprudência pacífica desta Corte Superior, é possível, de forma excepcional, a revisão da taxa de juros remuneratórios prevista em contratos de mútuo, sobre os quais incide a legislação consumerista, desde que a abusividade fique cabalmente demonstrada, mediante a colocação do consumidor em desvantagem exagerada, de acordo com as peculiaridades do julgamento em concreto. Acórdão recorrido que se alinhou ao entendimento desta Corte Superior. Incidência da Súmula 83/STJ.
+2. Para infirmar as conclusões do aresto combatido seria imprescindível o reexame de provas e a análise das cláusulas contratuais, notadamente acerca da equiparação do contrato de empréstimo consignado e o de cartão consignado, o que é inadmissível nesta instância extraordinária, sob pena de incidirem as Súmulas n.5 e 7 do STJ.
+3. Agravo interno desprovido.(AgInt no AREsp 1314653/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/10/2018, DJe 25/10/2018) - g.n.
+Saliente-se, por fim, que omesmoóbice (Súmula 7/STJ) aplica-se ao alegado dissídio jurisprudencial, não se podendo falar em similitude fática para fins de sua comprovação. Nesse passo, esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei, como ocorreu na espécie.
+Destarte, inviável a pretensão da parte recorrente.
+Por fim, considerando que o presente recurso foi interposto na vigência do Novo Código de Processo Civil (Enunciado administrativo n.º 07/STJ), impõe-se a majoração dos honorários inicialmente fixados, em atenção ao art. 85, § 11, do CPC/2015. O referido dispositivo legal tem dupla funcionalidade, devendo atender à justa remuneração do patrono pelo trabalho adicional na fase recursal e inibir recursos cuja matéria já tenha sido exaustivamente tratada.
+Assim, com base em tais premissas e considerando que o Tribunal de origem fixou a verba honorária em 15% sobre o valor da causa (e-STJ Fl. 171), em benefício do patrono da parte recorrida, a majoração dos honorários devidos pela parte ora recorrente para 17% sobre o valorda causa é medida adequada ao caso, observada eventual anterior concessão da gratuidade judiciária.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à multa.
+Ante o exposto, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). BANCÁRIO. VIOLAÇÃO DE INSTRUÇÃO NORMATIVA. INVIABILIDADE.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COMPROVAÇÃO.
+AGRAVO CONHECIDO PARA, DESDE LOGO, NÃO CONHECER DO RECURSO ESPECIAL.
