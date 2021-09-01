@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto por INGERSOLL RAND SERVICE DO BRASIL LTDA., com fundamento no art. 105, III, a, da CF, contra acórdão do Tribunal Regional Federal da 4ª Região, que deu provimento à remessa oficial, denegando a segurança, assim ementado (fl. 730):
+TRIBUTÁRIO. PARCELAMENTO. PRORELIT. DÉBITOS EM DISCUSSÃO ADMINISTRATIVA OU JUDICIAL. EXECUÇÃO FISCAL.
+A mera existência da execução fiscal para a cobrança de débitos não autoriza a inclusão da dívida no PRORELIT, uma vez ausente litígio em discussão administrativa ou judicial que possa ser extinto pelo programa.
+O recorrente alega violação dos arts. 240 do CPC/2015; 121, 142, 151, III e VI, do CTN; 9º e 23, § 2º, do Decreto n. 70.235/1972; e 1º, §§ 1º e 2º, I e II, e 6º, e parágrafos, da MP 685/2015, convertida na Lei n. 13.202/2015, aduzindo argumentação a respeito da presença de litígio, pela ocorrência da citação válida, e de demais requisitos, a autorizar sua inclusão no PRORELIT. Requer, ainda, "seja deferida a adesão da Recorrente ao PRORELIT; e, também, restem por definitivo modificadas as qualificações das CDA"s aderidas ao Programa de "exigíveis" para "débitos extintos" ou, alternativamente, "exigibilidade suspensa"" (fl. 764).
+Contrarrazões a fls. 772-774.
+Juízo positivo de admissibilidade (fl. 779).
+É o relatório. Decido.
+Na espécie, o Tribunal a quo firmou ausência de pressupostos para a adesão ao programa PRORELIT, nos termos dos arts. 1º, § 1º, 2º, § 3º, da Lei n. 13.202/2015, em razão da não presença de litígio, por se tratar de execuções não embargadas, não havendo nenhum débito em discussão na via administrativa ou judicial, com desistência expressa, conforme os seguintes fundamentos (fl. 728):
+A Lei 13.202/15, resultado de conversão da MP 685/15, instituiu o Programa de Redução de Litígios Tributários - PRORELIT.
+Nos termos da lei, o sujeito passivo com débitos de natureza tributária, vencidos até 30 de junho de 2015 e em discussão administrativa ou judicial perante a Secretaria da Receita Federal do Brasil ou a Procuradoria-Geral da Fazenda Nacional poderia, mediante requerimento a ser apresentado até 30 de novembro de 2015, desistir do respectivo contencioso e utilizar créditos próprios de prejuízos fiscais e de base de cálculo negativa da Contribuição Social sobre o Lucro Líquido - CSLL, apurados até 31 de dezembro de 2013 e declarados até 30 de junho de 2015, para a quitação dos débitos em contencioso administrativo ou judicial (§1º do art. 1º e art. 2º, "caput").
+A Lei 13.202/15 teve o objetivo de extinguir os litígios tributários entre o contribuinte e a União. O pressuposto para a adesão ao programa, por evidente, era a existência de lide, seja no âmbito administrativo ou judicial. Tanto assim que o sujeito passivo deveria comprovar a desistência expressa e irrevogável das impugnações ou dos recursos administrativos e das ações judiciais que tivessem por objeto os débitos que seriam quitados e renunciar a qualquer alegação de direito sobre as quais se fundassem as referidas impugnações e recursos ou ações (§3º do art. 2º).
+No caso, os débitos que a parte incluiu no PRORELIT eram alvo de execuções fiscais. Não havia litígio. As execuções não estavam embargadas.
+Não havia nenhum débito em discussão na via administrativa ou judicial.
+Ora, a mera existência da execução fiscal para a cobrança de débitos não autoriza a inclusão da dívida no PRORELIT, uma vez ausente litígio em discussão administrativa ou judicial que possa ser extinto pelo Programa.
+No ponto, conclusão diversa da firmada no acórdão exige a revisão do material fático-probatório dos autos, o que, no âmbito do recurso especial, é inviável por força da Súmula 7/STJ.
+Quanto aos demais dispositivos legais apontados violados, inexiste juízo de valor pela Corte Regional aos referidos normativos na fundamentação adotada para o deslinde da causa, de modo que não se conhece do recurso, por não cumprido o requisito do prequestionamento para sua admissibilidade. Aplicação das Súmulas 282 e 356 do STF.
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. PARCELAMENTO TRIBUTÁRIO. PRESSUPOSTOS NÃO ATENDIDOS. REVISÃO DO JUÍZO. SÚMULA 7/STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO ESPECIAL NÃO CONHECIDO.
