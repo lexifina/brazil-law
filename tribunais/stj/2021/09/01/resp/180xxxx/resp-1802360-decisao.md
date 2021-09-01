@@ -1,0 +1,38 @@
+DECISÃO
+Trata-se de recurso especial interposto por UNIÃO com respaldona alínea "a" do permissivo constitucionalcontra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃOassim ementado (e-STJ fls. 218/219):
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO DESENTENÇA. JULGAMENTO CITRA PETITA: NULIDADE SANÁVEL. ARTIGO 515, §1º,CPC/73. 11,98%. LIMITAÇÃO TEMPORAL. LEI 9.421/96. DESCABIMENTO. PAGAMENTO ADMINISTRATIVO. DEDUÇÃO. HONORÁRIOS ADVOCATÍCIOS DO TÍTULO JUDICIAL. BASE DE CÁLCULO. REEXAME NECESSÁRIO. DESCABIMENTO. AUSÊNCIA DE INTERESSE RECURSAL DO EXEQUENTE.
+I - A sentença proferida em sede de embargos à execução de título judicial opostos pela Fazenda Pública não se sujeita ao duplo grau de jurisdição obrigatório do art. 475, I e II, do CPC/73
+II - Inexistente sucumbência da parte quanto aos temas que impugna em sede de apelação, de rigor a ausência de interesse recursal.
+III - Omissa a apreciação de todos os pedidos da petição inicial, é de se reconhecer, de oficio, o julgamento citra petita. Complementação da sentença para regularizar a nulidade (artigo 515, § 1º, do CPC/73).
+IV - A Lei 9.421/1996 não constituiu limitação temporal à aplicação do percentual de 11,98% decorrente da conversão para a URV. Precedentes do STJ e do STF, em sede de repercussão geral.
+V - Os pagamentos efetuados na via administrativa após a citação devem integrar a base de cálculo dos honorários advocatícios, mesmo que o valor principal do débito tenha sido pago voluntariamente pela administração ou que as partes tenham celebrado transação extrajudicial.
+VI - Admite-se a dedução, por ocasião da execução do julgado, dos valores pagos na esfera administrativa. Observância aos princípios da lealdade, da boa -fé, da vedação ao enriquecimento sem causa e ao princípio da moralidade administrativa, previsto constitucionalmente (artigo 37, caput).
+VII - Remessa oficial e apelação dos embargados não conhecidas. Apelação da União parcialmente provida para reconhecer o julgamento citra petita e, nos termos do art. 515, §1º, do CPC/73, para acolher em parte os embargos a fim de que sejam abatidos os valores pagos administrativamente.
+Embargos de declaração rejeitados (e-STJ fls. 227/236).
+Em suas razões, a parte recorrente aponta violação do art. 927,III, do CPC,argumentando, em suma,quedeve ser observada a limitação temporal à incorporação do reajuste de 11,98%, coincidente com a edição da Lei n.10.475/2002, de acordo com decidiu o STF no RE n.561.836/RN.
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 251/253 e 258/259.
+Passo a decidir.
+Verifico que a pretensão recursal nãomerece prosperar.
+Note-se que o acórdão recorrido examina a questão sob a perspectiva da vigência da Lei n.9.421/1996.
+Nesse contexto, a jurisprudência desta Corte está orientada no sentido de que o resíduo de 11,98%, decorrente de falhas na conversão de cruzeiros reais para URV, não encontra limitação temporal no advento da Lei n.9.421/1996.
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. SERVIDOR PÚBLICO. PODER JUDICIÁRIO DA UNIÃO. DIFERENÇA DE 11,98%. LIMITAÇÃO TEMPORAL. NÃO INCIDÊNCIA. ERRO MATERIAL. SÚMULA 7/STJ.
+1. O julgamento pelo STF das ADIn 2.321/DF e 2.323/DF superou o entendimento firmado anteriormente na ADIn 1.797/PE, não havendo falar, portanto, em limitação temporal do reajuste de 11,98% à vigência da Lei 9.421/96. Precedentes: AgRg no AREsp 196.186/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 02/06/2014;AgRg no REsp 1116337/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/08/2012; AgRg no REsp 1.325.475/DF, Rel.Ministro Sérgio Kukina, Primeira Turma, DJe 28/3/2014.
+2. A Corte de origem entendeu não existirem os erros materiais apontados, mas apenas insurgência da recorrente contra os critérios utilizados para a elaboração do cálculo. Consoante pacífica jurisprudência desta Corte Superior de Justiça, nas hipóteses em que as instâncias ordinárias revisoras concluem pela ocorrência ou inocorrência de erro material, a inversão do julgado, diante da necessidade de um percuciente reexame do conjunto probatório dos autos, encontra óbice no comando contido na Súmula 7 do Superior Tribunal de Justiça.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1581591/RN, Rel. Min. HERMAN BENJAMIN, Segunda Turma, DJe 06/03/2017) (Grifos acrescidos)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. SERVIDOR PÚBLICO. CONVERSÃO DE VENCIMENTOS EM URV.PRESCRIÇÃO DO FUNDO DE DIREITO. NÃO OCORRÊNCIA. SÚMULA 85/STJ.DIFERENÇA DE 11,98%. LIMITAÇÃO TEMPORAL. NÃO INCIDÊNCIA.
+1. Nas ações objetivando o recebimento de diferenças salariais resultantes da errônea conversão da moeda em URV, a relação é de trato sucessivo, de modo que, se não tiver sido negado o próprio direito reclamado, a prescrição atinge apenas as prestações vencidas antes do quinquênio anterior à propositura da ação, nos moldes da Súmula 85/STJ. Precedentes: AgRg no AREsp 90.889/PE, Rel. Ministro Humberbo Martins, Segunda Turma, DJe 5/3/2012; AgRg nos EDcl no REsp 1.229.326/SP, Rel. Ministro Arnaldo Esteves Lima, Primeira Turma, DJe 26/11/2012; AgRg no REsp 1.408.513/SP, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 29/4/2014; AgRg no AREsp 173.881/RJ, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 16/5/2014.
+2. "É obrigatória a conversão em URV, nos termos do art. 22 da Lei n. 8.880/1994, dos vencimentos de todos os servidores estaduais e municipais, pagos antes do último dia do mês, inclusive do Poder Executivo" (REsp n.1.101.726/SP, Rel. Ministra Maria Thereza de Assis Moura, DJe de 14/08/2009, rito do art.543-C, do Código de Processo Civil).
+3. "O julgamento pelo STF das ADIn 2.321/DF e 2.323/DF superou o entendimento firmado anteriormente na ADIn 1.797/PE, não havendo falar, portanto, em limitação temporal do reajuste de 11,98% à vigência da Lei 9.421/96" (AgRg no REsp 1116337/RS, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe 22/08/2012. No mesmo sentido: AgRg no REsp 1.325.475/DF, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 28/3/2014.
+4. Agravo regimental não provido.
+(AgRg no AREsp 196.186/PE, Rel. Min. BENEDITO GONÇALVES, Primeira Turma, DJe 02/06/2014) (Grifos acrescidos)
+Incidindo, assim, a Súmula 83 do STJ.
+Mostra-se pertinente transcrever trecho do acórdão integrativo (e-STJ fl. 233:
+Registre-se que a União Federal alegou somente em sede de embargos de declaração a necessidade de limitação temporal da incidência do índice de reajuste à entrada em vigor da Lei n. 10.475/2002, o que configura inovação em sede recursal.
+No tocante à tese de que o referido reajuste encontraria seu limite de aplicação na Lei n.10.475/2002, trata-se de argumentação inserida por ocasião da oposição dos embargos de declaração, na instância de origem, constituindo, portanto, inovação recursal.
+Nesse passo, conforme entendimento há muito consolidado nesta Corte, aplicado analogicamente à espécie, "é incabível o exame de tese não suscitada na apelação e invocada apenas em recursos posteriores, pois configura indevida inovação recursal. Precedentes" (AgInt no AREsp 1.477.213/MG, Rel. Min.RAUL ARAÚJO, Quarta Turma, DJe 18/12/2020).
+Nesse sentido, a seguinte decisão monocrática:AREsp 1478293/SP, rel. MinistroFRANCISCO FALCÃO, Segunda Turma, DJe 14/02/2020.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte sucumbente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo.
+Publique-se. Intimem-se.
