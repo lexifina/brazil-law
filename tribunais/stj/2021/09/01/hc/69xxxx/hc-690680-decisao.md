@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se dehabeas corpusajuizado em benefício de Edson Aparecido Souza Polizel, em razão do acórdão exarado pelo Tribunal de Justiça de São Paulo no Agravo de Execução Penal n. 0009635-92.2021.8.26.0996, que foi assim ementado (fl. 62):
+AGRAVO EM EXECUÇÃO PENAL - Recurso do Ministério Público contra a concessão de livramento condicional - Acolhimento - Ausência dos requisitos legais - Sentenciado condenado por três delitos de roubo, com longa pena ainda por cumprir (TCP previsto para 26/1/2026) e histórico prisional desabonador - Anteriormente beneficiado com a progressão ao regime semiaberto, abandonou o cumprimento de pena e se evadiu, tendo sido regredido ao regime fechado - Vedação de progressão per saltum - Decisão reformada.
+RECURSO PROVIDO.
+Pretende-se a concessão liminar da ordem para cassar o acórdão atacadoe restabelecer a decisão dada em primeiro grau, que deferiu o livramento condicional ao paciente.
+Alega-se, para tanto, que não há plausibilidade vedar um benefício penal da magnitude do livramento condicional, invocando-se fundamentos abstratos e genéricos, como a gravidade do delito, "longa pena a ser cumprida" e o histórico "conturbado" do reeducando/paciente, o qual não praticou falta grave nos últimos 12 meses, está reabilitado e tem bom comportamento carcerário, conforme comprova o Boletim Informativo de fls. 657/662(fl. 6).
+É o relatório.
+Não há ilegalidade a ser reparada por esta via.
+É consabido que, para a concessão do benefício dolivramento condicional, deve o apenado satisfazerrequisitos de índole objetiva e subjetiva. Neste último grupo, segundo o art. 83 do Código Penal, está a exigência decomprovado comportamento satisfatório durante aexecução da pena.
+A esse respeito, firmou-se na jurisprudência desta Corte a compreensão de que as faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.  ..  Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado(HC n. 564.292/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 23/6/2020).
+Vale destacar que, no tocante à nova redação dada ao inciso III do art.83 do CPB, esta Corte Superior se posiciona no sentido de que o requisito relativo ao não cometimento de falta grave nos últimos 12 (doze) meses é pressuposto objetivo para a concessão do livramento condicional, não limitando a apreciação do requisito subjetivo necessário ao deferimento do benefício, "inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime" (HC n. 612.296/MG, da minha relatoria, julgado em 20/10/2020, DJe 26/10/2020).
+Confiram-se, a propósito, o AgRg no HC n. 666.504/SP, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021; e o HC n. 647.268/SP, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma, DJe 31/5/2021.
+Na espécie, a Corte localdecidiu nos exatos termos da nossa jurisprudênciaao entender que o histórico prisional desabonadordo ora paciente - o qualhavia sido promovido ao regime intermediário aos 22/3/2019, porém, evadiu-se em 7/5/2020, tendo,em virtude do cometimento da mencionada falta grave, sidoregredido ao regime fechado em 20/11/2020(fl. 63) -é fator suficiente para afastar a presença do requisito subjetivo.
+Ante o exposto,indefiro liminarmentea petição inicial (art. 210 do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO DA PENA. LIVRAMENTO CONDICIONAL. FALTA GRAVE. REQUISITO SUBJETIVO NÃO PREENCHIDO. ACÓRDÃO IMPUGNADO ALINHADO À JURISPRUDÊNCIA DO STJ. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writindeferido liminarmente.
