@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de Agravo em Recurso Especial, interposto por BRASILINO APARECIDO DE FARIA, contra decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, que inadmitiu o Recurso Especial, manejado em face de acórdão assim ementado:
+"APELAÇÃO. AÇÃO MONITÓRIA. EXECUÇÃO DE SERVIÇOS MECÂNICOS. MUNICÍPIO DE JAMBEIRO.
+Pretensão de cobrança de valores relativos à prestação de serviços mecânicos em veículos da frota municipal. Impossibilidade.
+Conjunto probatório que se mostra insuficiente para o reconhecimento do pleito inicial. Orçamentos e requisições de serviços com incorreções, destituídos de aptidão e de idoneidade para demonstrar obrigação a ser satisfeita pela municipalidade.
+Não comprovação do fato constitutivo do direito. Autor que não se desincumbiu do ônus probatório. Inteligência do art. 700 do CPC.
+RECURSO PROVIDO" (fl. 103e).
+O acórdão em questão foi objeto de Embargos de Declaração (fls. 139/145e), os quais restaram rejeitados, nos seguintes termos:
+"EMBARGOS DE DECLARAÇÃO. Inexistência de omissão, contradição, obscuridade ou erro material. Impossibilidade de rediscussão da matéria em embargos de declaração.
+EMBARGOS REJEITADOS" (fl. 147e).
+Nas razões do Recurso Especial (fls. 110/137e), interposto com base no art. 105, III, a e c, da Constituição Federal, a parte ora agravante aponta, além do dissídio jurisprudencial, violação aos arts. 373, I, e 700do CPC/2015, sustentando que deve o acórdão recorrido ser modificado, mantendo-se a sentença.
+Ponderou que "enquanto para a decisão recorrida diz que as provas documentais ofertadas pelo Recorrente ao pedido da monitória são inábeis, tendo o Recorrido (Município), não se desincumbido pelo fato impeditivo do direito do Recorrente, o julgado paradigma foi no sentido de que o município pecou pela falta de escrituração e registro contábeis e, as provas documentais ao pedido monitório foram hábeis" (fl. 137e).
+Inadmitido o Recurso Especial (fls. 157/158e), foi interposto o presente Agravo (fls. 161/179e).
+A irresignação não merece prosperar.
+O Tribunal de origem, ao julgar o recurso, consignou o seguinte (fls. 104/106e):
+"Segundo a inicial, em 24/2/2013, o requerente celebrou contrato de prestação de serviço com o município, com duração de 12 meses, para manutenção de sua frota de veículos.
+Alega o autor que, "referente ao mês de agosto de 2014 a janeiro de 2015, embora recebesse o Autor as requisições e, efetivamente executava os serviços demandados, ao enviar as AFs  "autorização para pagamentos", segundo o autor  para o recebimento, a Ré, com evasivas, deixou de pagar as respectivas faturas".
+Pretende a expedição de mandado de pagamento no valor de R$ 57.480,67, correspondente ao total da suposta dívida, em desfavor do município.
+Por sua vez, a municipalidade afirma inexistirem provas de pendência de pagamentos, pelos serviços prestados pelo requerente.
+Pois bem.
+A primeira inconsistência de dados está na data de celebração do contrato de prestação de serviços. O autor afirma que a contratação fora firmada em 24/2/2013, ao passo que o Município indica que o ato se deu no dia 24/2/2014.
+Na Ata de Registro de Preços há registro de duas datas: 24/2/2013, como momento de início do contrato, e 30/10/2013, como dia de elaboração e apresentação da proposta pela empresa contratada, de modo que uma data invalida a outra (fls. 10/3).
+Embora a dúvida não tenha sido sanada por nenhuma das partes, não há, no conjunto probatório, nenhum elemento que indique prestação de serviço emperíodo anterior há março de 2014.
+Em consulta ao site da Prefeitura de Jambeiro, verifica-se que o pregão eletrônico 15/13 foi um dos últimos do ano de 2013, o que reforça a hipótese de que se trata de erro de digitação e que a celebração teria se dado no início de 2014, conforme indicado pelo requerido.
+Os documentos de fls. 60/6, juntados pelo Município, indicam todos os repasses, a título de contraprestação, pelos serviços de manutenção. O registro de pagamentos abarca o período de março de 2014 a abril de 2015, que também infirmam a alegação da inicial de que não houve pagamentos entre agosto de 2014 e janeiro de 2015.
+O que mais chama atenção é a precariedade da documentação com a qual o requerente pretende o reconhecimento de seu direito. Juntaram-se orçamentos e requisições de serviço, a fls. 14/40, nos quais há indicação sucinta de serviços mecânicos e de trocas de peças, com estimativa das horas de trabalho para execução das atividades. Porém, apesar de mencionar as trocas de peças, não foi juntada uma única nota fiscal das mercadorias genericamente indicadas pelo autor. Aliás, não há nenhuma outra prova que respalde as supostas pendências.
+Os orçamentos não indicam quem fez as solicitações, não têm qualquer sinal que ateste, com o mínimo de segurança, eventual aprovação, tampouco o término dos supostos serviços, de modo que redundam em indicação de preços, com caráter meramente consultivo.
+As requisições de serviços são ainda mais genéricas. Não apontam datas em que a empresa recebeu e devolveu os veículos supostamente reparados. Além disso, também não discriminam o responsável pela solicitação e pela aprovação dos serviços.
+A admissibilidade da monitória exige a prova escrita qualificada, desprovida de eficácia executiva, ou seja, documentos que anunciam a liquidez, certeza e exigibilidade da obrigação, conforme preceitua o art. 700 do CPC.
+A mera exibição dos documentos de fls. 14/40 não basta para comprovar que os serviços foram efetivamente prestados pelo apelado, vez que se trata de documentos particulares, emitidos unilateralmente, sem assinatura, carimbo e informações de recebimento pela apelante.
+Desse modo, não caracterizada a efetiva prestação dos serviços, tem-se que o autor deixou de cumprir com o seu ônus de comprovar o fato constitutivo de seu direito, conforme determina o art. 373, I, do CPC".
+Nesse contexto, considerando a fundamentação do acórdão objeto do Recurso Especial, os argumentos utilizados pela parte recorrente na tentativa de alterar o quadro fático para se demonstrar que não há prova documental hábil a instruir a Ação Monitória e que comprove a dívida do estado,somente poderiam ter sua procedência verificada mediante o necessário reexame de matéria fática, não cabendo a esta Corte, a fim de alcançar conclusão diversa, reavaliar o conjunto probatório dos autos, em conformidade com a Súmula 7/STJ.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, a, do RISTJ, conheço do Agravo, para não conhecer do Recurso Especial.
+Em atenção ao disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), majoro os honorários advocatícios em 10% (dez por cento) sobre o valor já arbitrado, levando-se em consideração o trabalho adicional imposto ao advogado da parte recorrida, em virtude da interposição deste recurso, respeitados os limites estabelecidos nos §§ 2º e 3º do art. 85 do CPC/2015.
+Ressalte-se que, em caso de reconhecimento do direito à gratuidade de justiça, permanece suspensa a exigibilidade das obrigações decorrentes de sua sucumbência, nos termos do § 3º do art. 98 do CPC/2015.
+I.
