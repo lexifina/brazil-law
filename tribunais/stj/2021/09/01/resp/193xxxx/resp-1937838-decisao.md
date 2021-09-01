@@ -1,0 +1,6 @@
+DECISÃO
+O presente recurso versa (e-STJ fls. 82/84) sobre tema afetado à Segunda Seção do STJ pelo em. Ministro RAUL ARAÚJO, nos autos dos REsps n. 1.801.615/SP e 1.774.204/RS, para julgamento segundo o rito previsto nos arts. 1.036 a 1.041 do CPC/2015, a fim de definir sobre a "interrupção do prazo prescricional para pleitear o cumprimento de sentença coletiva, em virtude do ajuizamento de ação de protesto ou de execução coletiva por legitimado para propor demandas coletivas (Tema n. 1.033)".
+Nos termos do art. 256-L do RISTJ (Incluído pela Emenda Regimental n. 24, de 2016), o recurso especial distribuído nesta Corte, que tenha como fundamento idêntica questão de direito afetada, será devolvido ao Tribunal de origem, para nele permanecer suspenso.
+Assim, por razões de economia processual e em atenção aos objetivos das regras que disciplinam a matéria, faz-se necessário remeter os autos à origem, até o pronunciamento definitivo do Superior Tribunal de Justiça sobre o recurso especial representativo da controvérsia.
+Diante do exposto, DETERMINO A DEVOLUÇÃO dos autos à origem, com a devida baixa nesta Corte, para que, depois de publicado o acórdão paradigma, seja observada a sistemática prevista nos arts. 1.040 e 1.041 do CPC/2015.
+Publique-se e intimem-se.
