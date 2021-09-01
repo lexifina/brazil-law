@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de agravo nos próprios autos in terposto contra decisão que inadmitiu o recurso especial em virtude da ausência de demonstração: (a) de ofensa aos dispositivos legais arrolados e (b) do dissídio jurisprudencial (e-STJ fls. 167/168).
+O acórdão recorrido está assim ementado (e-STJ fl. 116):
+Agravo de instrumento - Ação de execução de título extrajudicial - Indeferimento do pedido de instauração de incidente de resolução de demandas repetitivas, por não atendimento do disposto no art. 976, I e II, do CPC, visto que não constatada a efetiva repetição de decisões conflitantes aptas a implicar risco à isonomia e à segurança jurídica - Instauração do incidente que se mostra inadmissível.
+Insurgência em face de decisão que indeferiu pedido da instituição financeira agravante de citação dos agravados por meio eletrônico - Descabimento do inconformismo - Previsão legal disposta no art. 246, V, do CPC que, no momento, se mostra impossível de ser realizada, diante da ausência de lei regulamentando a matéria - Hipótese de manutenção íntegra da decisão hostilizada - Recurso desprovido.
+Nas razões do recurso especial (e-STJ fls. 123/149), interposto com fundamento no art. 105, III, "a" e "c", da CF, o recorrente apontou, além de dissídio jurisprudencial, ofensa aos arts. 140, 246, V, e 977, I e II, do CPC/2015, 6º da Lei n. 11.419/2006, e 4º da LINDB.
+Alegou que a citação eletrônica está prevista no art. 6º da Lei n. 11.419/2006 e que o TJSP "possui normas internas que podem ser aplicadas ao caso em apreço, na medida em que regulamenta a forma de comunicação eletrônica entre as serventias judiciais" (e-STJ fl. 130).
+Sustentou que o juiz não pode deixar de apreciar o pedido sob o fundamento de lacuna ou obscuridade na lei. Do mesmo modo, não pode invocar ausência de norma regulamentadora, uma vez que existem diversas fontes que permitem concluir pela possibilidade da citação de modo eletrônico.
+Afirmou que o pedido de instauração de incidente de resolução de demandas repetitivas foi apresentado de forma adequada, razão pela qual deveria ter sido admitido.
+Informou que o Conselho Nacional de Justiça aprovou o uso do aplicativo Whatsapp para intimação no âmbito do Poder Judiciário.
+Apresentou julgado do STJ, a fim de demonstrar o dissídio jurisprudencial acerca da tese da possibilidade de citação eletrônica.
+No agravo (e-STJ fls. 170/177), declara a presença de todos os requisitos de admissibilidade do especial.
+Sem contraminuta (e-STJ fl. 178).
+É o relatório.
+Decido.
+A irresignação não merece prosperar.
+Em relação à admissibilidade do incidente de resolução de demandas repetitivas, o Tribunal de origem entendeu não ter sido demonstrado o risco de ofensa à isonomia e à segurança jurídica, conforme se vê no seguinte excerto do acórdão recorrido (e-STJ fls. 118/119):
+Inicialmente, indefere-se o pedido de instauração de incidente de resolução de demandas repetitivas, por não atendimento do disposto no art. 976, I e II, do Código de Processo Civil, visto que não demonstrada a existência de justo receio de ofensa à isonomia e à segurança jurídica, ante a ausência de demonstração de julgados conflitantes, no que concerne à possibilidade, no momento, da citação eletrônica do devedor.
+Tal razão de decidir não foi rebatida pelo recorrente que se limitou a afirmar no especial que o pedido foi corretamente endereçado ao Presidente do Tribunal de Justiça, sendo requerida a apreciação pelo relator sorteado.
+Assim, incidente a Súmula n. 283/STF.
+Ademais, o STJ já decidiu pelo não cabimento de recurso especial contra acórdão que indefere a instauração de IRDR. Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. INADMISSÃO DO IRDR POSTULADO. RECORRIBILIDADE AO STJ. DESCABIMENTO. MÉRITO - EXIGIBILIDADE DE TAXA JUDICIÁRIA ESTABELECIDA POR LEI ESTADUAL. IMPOSSIBILIDADE DE ANÁLISE POR MEIO DO RECURSO ESPECIAL. SÚMULA 280/STF. AGRAVO INTERNO DESPROVIDO.
+1. A Terceira Turma desta Corte tem entendimento no sentido de não ser cabível recurso especial contra acórdão que indefere a instauração de IRDR.
+2. No presente caso, o mérito do IRDR tem como objetivo obter a uniformização da jurisprudência do Tribunal de Justiça de Pernambuco acerca da obrigatoriedade da inclusão da taxa judiciária estabelecida pela Lei Estadual n. 10.852/1992 na composição do preparo recursal.
+3. Para examinar a exigibilidade da taxa judiciária local, seria necessária a análise de lei estadual, o que é inviável na via especial, consoante a Súmula n. 280/STF.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1245497/PE, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/03/2021, DJe 25/03/2021.)
+CIVIL E PROCESSUAL CIVIL. INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS - IRDR. ACÓRDÃO DE TRIBUNAL DE 2º GRAU QUE INADMITE A INSTAURAÇÃO DO INCIDENTE. RECORRIBILIDADE AO SUPERIOR TRIBUNAL DE JUSTIÇA. DESCABIMENTO. AUSÊNCIA DE INTERESSE RECURSAL. POSSIBILIDADE DE NOVO REQUERIMENTO DE INSTAURAÇÃO DO IRDR QUANDO SATISFEITO O REQUISITO AUSENTE POR OCASIÃO DO PRIMEIRO PEDIDO, SEM PRECLUSÃO. RECORRIBILIDADE AO STJ OU AO STF PREVISTA, ADEMAIS, SOMENTE PARA O ACÓRDÃO QUE JULGAR O MÉRITO DO INCIDENTE, MAS NÃO PARA O ACÓRDÃO QUE INADMITE O INCIDENTE. DE CAUSA DECIDIDA. REQUISITO CONSTITUCIONAL DE ADMISSIBILIDADE DOS RECURSOS EXCEPCIONAIS. AUSÊNCIA. QUESTÃO LITIGIOSA DECIDIDA EM CARÁTER NÃO DEFINITIVO.
+1- Os propósitos recursais consistem em definir: (i) preliminarmente, se é cabível recurso especial do acórdão que inadmite a instauração do incidente de resolução de demandas repetitivas - IRDR; (ii) se porventura superada a preliminar, se a instauração do IRDR tem como pressuposto obrigatório a existência de um processo ou de um recurso no Tribunal.
+2- Não é cabível recurso especial em face do acórdão que inadmite a instauração do IRDR por falta de interesse recursal do requerente, pois, apontada a ausência de determinado pressuposto, será possível a instauração de um novo IRDR após o preenchimento do requisito inicialmente faltante, sem que tenha ocorrido preclusão, conforme expressamente autoriza o art. 976, §3º, do CPC/15.
+3- De outro lado, o descabimento do recurso especial na hipótese decorre ainda do fato de que o novo CPC previu a recorribilidade excepcional ao Superior Tribunal de Justiça e ao Supremo Tribunal Federal apenas contra o acórdão que resolver o mérito do Incidente, conforme se depreende do art. 987, caput, do CPC/15, mas não do acórdão que admite ou que inadmite a instauração do IRDR.
+4- O acórdão que inadmite a instauração do IRDR não preenche o pressuposto constitucional da causa decidida apto a viabilizar o conhecimento de quaisquer recursos excepcionais, uma vez que ausente, na hipótese, o caráter de definitividade no exame da questão litigiosa, especialmente quando o próprio legislador previu expressamente a inexistência de preclusão e a possibilidade de o requerimento de instauração do IRDR ser novamente realizado quando satisfeitos os pressupostos inexistentes ao tempo do primeiro pedido.
+5- Recurso especial não conhecido.
+(REsp 1631846/DF, Rel. Ministro PAULO DE TARSO SANSEVERINO, Rel. p/ Acórdão Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 05/11/2019, DJe 22/11/2019.)
+Quanto à possibilidade da citação eletrônica, os dispositivos legais apontados como violados não foram objeto de pronunciamento pelo Tribunal de origem, estando, portanto, ausente o requisito do prequestionamento, atraindo a Súmula n. 282/STF.
+Referida súmula impede o conhecimento do recurso interposto também com base na alínea "c" do permissivo constitucional. Ainda que não bastasse, o acórdão paradigma não apresenta similitude fática com o aresto recorrido, uma vez que não trata especificamente da citação, como é o caso dos autos.
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
+EMENTA
