@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, comfundamento no art. 105, inciso III, alínea a e c, da Constituição Federal,contra acórdão proferido pelo Tribunal de Justiça de Minas Gerais,assim ementado (fl. 185):
+APELAÇÃO CÍVEL REEXAME NECESSÁRIO - INSS -REVISÃO DE BENEFICIO-PRESCRIÇÃO-BENEFÍCIO CONCEDIDO ANTES DA CONSTITUIÇÃO DE 1988 - APLICAÇÃO SÚMULA 260, TRF -ART. 58, ADCT - LEI 8213/91 - APLICAÇÃO - JUROS DE MORA E CORREÇÃO MONETÁRIA.
+O direito em si de revisão do benefício é imprescritível, a prescrição atinge apenas as parcelas anteriores aos cinco anos da propositura da ação.
+Conforme assentado na jurisprudência, para os benefícios deferidos antes do advento da Constituição da República de 1988, aplicável é o critério de reajuste inserto na Súmula 260 do TFR até 5 de abril de 1989,quando então passa a ter aplicabilidade a equivalência salarial expressa no artigo 58 do ADCT, também de eficácia limitada até 9 de dezembro de1991, quando houve a regulamentação da Lei 8.213/91, que passou a determinaro INPC-como -critério-de reajuste dos benefícios.
+-Os juros de mora incidente sobre as parcelas devidas e não pagas dos benefícios devem obedecer à sistemática introduzida no art.1º-F, da Lei9.494/97, com alteração promovida pela Lei 11.960/2009.
+O STF, por meio da ADI n.º 4.357, declarou a inconstitucionalidade parcial do art. 5º, da Lei 11.960/09, o qual deu origem ao art. 1º-F, da Lei 9.494/97, tendo o STJ, por meio de recurso representativo de controvérsia, decidido que a correção monetária deverá observar índices que reflitam a real inflação do período, não podendo ser aplicados os índices de remuneração básica da caderneta de poupança. Não havendo especificação de qual índice deve ser utilizado, tem-se que, sobre o valor da condenação, deverá incidir correção monetária com base no IPCA, índice que melhor reflete a inflação acumulada no período.
+V. V. em reexame necessário, honorários em 10% sobre as parcelas vencidas tão somente até a data da prolação da sentença.
+Opostos embargos de declaração, foram rejeitados (fl. 233)
+Aponta orecorrente, além de divergência jurisprudencial, violação aos arts. 512, 515 e 535, II, do CPC/73, 5º, II, III e § 4º, I, e 6º, § 1º, da Lei 6.367/76 e 3º da Lei 5.890/73, 1º F-da Lei 9.494/97, com a redação dada pelo art. 5º, da Lei 11.960/09 e violação das Súmulas 45 e 111 do STJ.
+Sustentanegativa de prestação jurisdicional epugna pelo provimento do recurso "para se julgar improcedente o pedido de revisão do benefício pela Súmula no 260 do extinto TFR, ou reconhecendo a "reformatio in pejus", excluir essa condenação da sentença, invertendo-se os ônus da sucumbência" (fl. 260).
+Devidamente intimada, a parte recorrida não apresentou contrarrazões ao recurso especial, conforme certidão de fl. 276.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO
+A pretensão recursal merece acolhida pelo art. 1.022, II, do CPC/2015,pois a parte recorrente, nos embargos de declaração, requereuexpressamente ao Tribunal a quo que se manifestasse no sentido de (fls. 203/211):
+III - OMISSÃO E OBSCURIDADE - BENEFÍCIO ACIDENTÁRIO NÃO SE ENQUADA NAS HIPÓTESES DE REVISÃO PELA VARIAÇÃO DA ORTN//OTN
+(..).
+IV - CONTRADIÇÃO - O ACÓRDÃO CONFIRMOU A SENTENÇA MAS CONDENOU O INSS A REVER O BENEFÍCIO DO AUTOR DE ACORDO COM A SÚMULA 260 DO TRF - REFORMATIO IN PEJUS - OMISSÃO - APLICAÇÃO DA SÚMULA Nº 260 DO TRF - PRESCRIÇÃO DAS DIFERENÇAS POR VENTURA DEVIDAS
+(..).
+O v.acórdão embargado confirmou a sentença, sendo que determinou o reajuste do benefício de acordo com a Súmula nº 260, do TFR.
+Ora, apesar de a parte autora requerer o reajuste do seu benefício de acordo com a Súmula 260 do antigo TFR, a sentença não mencionou a referida súmula na sua fundamentação nem no seu dispositivo, pelo que, não houve condenação em primeiro grau nestes termos.
+Desta forma, houve reformatio in pejus, além de contradição no acórdão que condenou o INSS na revisão da Súmula 260 e confirmou a sentença primeira, onde não houve tal condenação.
+Além do mais, o acórdão foi omisso quanto à prescrição total das parcelas decorrentes da referida Súmula, senão vejamos:
+(..).
+Em consequência disso, urge reconhecer a prescrição quinquenal sobre as diferenças referentes à aplicação do índice integral no primeiro reajuste (Súmula nº 260/TFR), nas ações ajuizadas após decorridos 5 anos, a contar de 5 de abril de 1989, redudando na improcedência do pedido, pois tal prescrição atinge todas as parcelas pleiteadas a tal título nesses casos,
+Com efeito, sabe-se que às Cortes Superiores, em sede de recursos denatureza extraordinária, não é dado reexaminar o contexto fático da causa,cuja moldura definitiva deve provir das instâncias ordinárias. Daí a razãode ser das Súmulas 7/STJ e 279/STF.
+Em tal cenário, o recurso de embargos declaratórios ganha distinguido relevonos tribunais locais, que, por meio da súplica integrativa, podem colmataros contornos da controvérsia suprindo omissões relacionadas à apreciação evaloração de fatos que, embora relevantes, tenham sido desconsiderados nadecisão embargada.
+Por isso, e com razão, Tereza Arruda Alvim Wambier enfatiza que "cabe àparte, exercendo legitimamente sua atividade de prequestionar, i.e., fazerconstar da decisão a questão federal ou a questão constitucional, pleiteardo órgão a quo que faça também constar do acórdão circunstâncias fáticasaptas a demonstrar, pela mera leitura da decisão recorrida, que a soluçãonormativa pela qual se optou na decisão impugnada (pela via do recursoextraordinário ou do recurso especial) está equivocada, estando-se, pois,assim, em face de uma ilegalidade ou de uma inconstitucionalidade"(Embargos de declaração e omissão do juiz. 2. ed. ampl. São Paulo: RT,2014, p. 215).
+Na espécie, a pretensão recursal merece acolhida pelo arts. 489, § 1º, e1.022, I e II, do CPC/2015, porquanto não prestada a jurisdição de formaintegral, uma vez que a instância ordinária, mesmo instada a fazê-lo,quedou-se silente, rejeitando os pertinentes embargos declaratórios,limitando-se apenas a afirmar a inexistência de qualquer omissão quanto àquestão apresentada.
+ANTE O EXPOSTO, dou provimento ao recurso especial, a fim de determinar oretorno dos autos ao Tribunal de origem para que, em novo julgamento dos
+embargos de declaração, se manifeste sobre as aludidas alegações.
+Publique-se.
