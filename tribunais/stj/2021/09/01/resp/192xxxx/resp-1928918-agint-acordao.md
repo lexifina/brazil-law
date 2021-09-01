@@ -1,0 +1,26 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão assim ementada (fl. 233):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1022, INC. I, DO CPC/2015. NÃO OCORRÊNCIA. ARTS. 783 DO CPC/2015 E 112 DO CTN. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ARTS. 202, INCS. II E III, E 203 DO CTN; 2º, §§5º, INCS. II E III, E 6º, DA LEF. ACÓRDÃO COM FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. REQUISITOS DE VALIDADE DA CDA. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NA EXTENSÃO, NÃO PROVIDO.
+A agravante alega que não se aplicam ao caso os óbices impostos na decisão monocrática. Quanto à Súmula 211/STJ, aduz que a violação à lei federal foi sobejamente debatida na origem, sendo que "(..) o art. 783 do CPC sintetiza toda a discussão sobre a nulidade do título executivo, na medida em que condiciona a execução da cobrança à obrigação certa, líquida e exigível, (..)." (fl. 245), ao que colaciona trechos dos acórdãos proferidos a fim de comprovar sua alegação e acrescenta "Ad argumentandum tantum, se houve qualquer tipo de omissão dos julgados que impeça a apreciação da matéria por este Egrégio Tribunal, deve-se considerar o prequestionamento implícito, admitido nesta Corte, (..)." (fl. 247). Aduz ainda que "É cabível afirmar também que a violação ao art. 1.022, I consistiu na contradição porque a CDA indicou dispositivos genéricos, o TJPE expôs que os requisitos previstos em Lei não são meramente formais, mas concluiu relativizando a presença deles no caso em apreço, afirmando que não houve prejuízo ao Agravante. Dessa forma, tanto a violação ao art. 1.022, I como a violação ao art. 783 do CPC e no art. 202, II e III, art. 203 do CTN, e do art. 2º, §§ 5º e 6.º da Lei nº. 6.830/80 estão no cerne da controvérsia e foram devidamente debatidas na instância inferior, não constituindo óbice ao conhecimento por esta Colenda Corte." (fl. 248).
+Quanto à Súmula 283/STF, defende que "(..) rechaçou sim o argumento de que a acusação de pagamento espontâneo fora do prazo indicaria pleno conhecimento da cobrança, posto que o cerne da discussão é a NULIDADE da CDA pelo preenchimento ou não dos requisitos legais. Então, descabem justificativas que relativizem os aspectos legais da cobrança para fugir da flagrante nulidade, como deverá ser reconhecido." (fl. 251).
+Por fim, quanto à Súmula 7/STJ, sustenta que "(..) os Acórdãos proferidos pelo Tribunal de Justiça de Pernambuco demonstram que a CDA não cumpre os requisitos legais estabelecidos nos dispositivos supracitados." (fl. 251), sendo ainda que a questão discutida nos autos é eminentemente de direito.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): A decisão agravada conheceu parcialmente do recurso especial e, nessa extensão, negou-lhe provimento porque não evidenciada a ofensa ao art. 1022, inc. I, do CPC/2015 e porque incidentes à hipótese as Súmulas 211/STJ, 283/STF e 7/STJ.
+Ocorre que a agravante não impugnou, especificamente, a incidência da Súmula 211/STJ no que diz respeito ao art. 112 do CTN, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
