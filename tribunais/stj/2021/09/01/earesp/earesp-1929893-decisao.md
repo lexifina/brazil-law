@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (CPC/2015, art. 1.042) interposto porPAMPLONA LOTEAMENTO LTDA. contra decisão que inadmitiu o recurso especial, ante aausência de ofensa aoartigode lei indicado(e-STJ fls. 807/809).
+O acórdão do TJSP traz a seguinte ementa (e-STJ fl. 757):
+AÇÃO DE RESCISÃO CONTRATUAL - Sentença de procedência - Insurgência das rés - Diversas ações envolvendo o mesmo empreendimento, as mesmas rés e a mesma situação - Precedentes deste Tribunal - Legitimidade passiva e responsabilidade solidária bem reconhecidas - Pedido de suspensão da ação que não se justifica - Questões acerca das possíveis irregularidades discutidas em ação civil publica não obstam a rescisão do contrato por parte do autor, diante da inexecução contratual - Restituição dos valores pagos - Possibilidade - Multa contratual devida - Percentual de 10% constou expressamente no contrato - Dano moral - Caracterização - Embora o simples inadimplemento contratual não dê ensejo a indenização, caso em que a situação extrapola o mero aborrecimento, fazendo jus ao dano moral - Valor fixado (R$5.000,00) que não merece redução - Sentença mantida - RECURSOS NÃO PROVIDOS.
+Nas razões do recurso especial (e-STJ fls. 771/788),fundamentado no art. 105, III, alínea "a", da CF, a recorrenteindicou violação do art. 313, V, "a", do CPC/2015, argumentando que existiram os requisitos dereconhecimento da conexão por prejudicialidade externa entre as demandas coletivas referentes ao empreendimento imobiliárioe a presente ação de rescisão contratual, o que justificaria a suspensão da lide até o trânsito em julgado das ações coletivas, a fim de evitar decisões conflitantes.
+Acrescentou que "orecorrido pleiteia a rescisão do contrato firmado entre as partes e subsequentes pedidos, especificamente sustentando supostos vícios e irregularidades documentais, além de restrições ambientais, objetos de Ação Civil Pública e Ação Popular na JUSTIÇA FEDERAL, inclusive, a todo momento fundamenta seus argumentos com o teor destas citadas ações.Ou seja, resta evidente que a motivação e fundamentação desta ação está calcada nos fatos, fundamentos, documentos e pedidos das referidas ações mencionadas na exordial, que até o presente momento não possuem decisões transitadas em julgado, pelo contrário, atualmente aguardam a apreciação e decisão dos recursos pelo Tribunal Regional Federal, que inclusive concedeu efeitos suspensivos por mais de uma vez em face das decisões de primeira instância"(e-STJ fl. 774).
+Sustentou inexistir justa causa para a rescisão contratual, bem como requereu a exclusão dos danos morais.
+Foram apresentadas contrarrazões (e-STJ fls. 791/798).
+No agravo (e-STJ fls. 819/822), afirma a presença de todos os requisitos de admissibilidade do especial.
+Contraminuta apresentada, reiterando o pedido de majoração da verba honorária (e-STJ fls. 825/832).
+É o relatório.
+Decido.
+A Corte de origem afastou a conexão alegada pela parte, entre as demandas coletivas e a ação individual de rescisão contratual, assim como indeferiu a suspensão processual, nos termos a seguir (e-STJ fl. 760):
+Igualmente fica afastado o pedido de suspensão do processo. As questões acerca da exata localização do bem (Agudos ou Bauru), se a área é de preservação ambiental ou não e quanto a sua possível utilização, não obstam ao autor discussão acerca do direito à rescisão do contrato, assim como não tem influência direta nesta relação.
+Não há como ultrapassar as conclusões do Tribunal de origem sem o reexame do conjunto fático-probatório dos autos, providência vedada nesta sede especial, a teor da Súmula n. 7/STJ.
+Nesse aspecto:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE INTERDITO PROIBITÓRIO. CONEXÃO E PREJUDICIALIDADE. SÚMULAS 83 E 7 DO STJ. INCIDÊNCIA DA SÚMULA 83 DO STJ NA ALÍNEA "A" DO INCISO III DO ART. 105 DA CF. POSSIBILIDADE. LITISCONSÓRCIO PASSIVO NECESSÁRIO. SÚMULA Nº 7 DO STJ. PRESSUPOSTOS PARA O DEFERIMENTO DO PEDIDO EM INTERDITO PROIBITÓRIO. POSSE E AMEAÇA DE TURBAÇÃO OU ESBULHO. SÚMULA Nº 7 DO STJ. VIOLAÇÃO À SÚMULA Nº 487 DO STF. IMPOSSIBILIDADE DE ABERTURA DA VIA ESPECIAL.
+(..)
+3. Ademais, a própria aferição da existência de conexão entre as ações, bem como a alegada pré-existência de regular demanda prejudicial a interferir no interdito proibitório implicam a necessária análise do contexto fático-probatório carreado aos autos, o que se traduz na insindicabilidade da cognição da aludida matéria pelo STJ, em sede de recurso especial, ante o óbice da Súmula nº 7 do STJ.
+(..)
+9. Agravo interno não provido.
+(AgInt nos EDcl no REsp n. 1.243.841/MS, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/9/2017, DJe 2/10/2017.)
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. DANOS DECORRENTES DA INSTALAÇÃO DE HIDRELÉTRICAS NO RIO MADEIRA. CONEXÃO ENTRE AÇÕES INDIVIDUAIS E COLETIVAS. AUSÊNCIA DE PREQUESTIONAMENTO DE TODOS OS PRECEITOS LEGAIS DITOS VIOLADOS. SÚMULAS NºS 282 E 356 DO STF. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. Segundo a jurisprudência dominante do STJ, o juízo acerca da caracterização de conexão entre demandas é insuscetível de reapreciação em recurso especial, em razão do entendimento expresso no enunciado n. 7 da Súmula do STJ.(AgRg no AREsp 618.223/RO, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, julgado em 22/9/2015, DJe 9/10/2015) 4. Agravo interno não provido.
+(AgInt no REsp n. 1.488.084/RO, Relator Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 6/12/2016, DJe 19/12/2016.)
+Com relação às teses remanescentes, a parte deixou de indicar os dispositivos legais supostamente ofendidos, ou que tiveram sua aplicação negada.
+Ausente tal requisito, a fundamentação recursal mostra-se deficiente e torna inviável o conhecimento do recurso, ante o óbice da Súmula n. 284/STF, aplicada por analogia.
+Nesse contexto: AgRg no AREsp n. 410.404/RS, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 6/12/2016, DJe 14/12/2016, e AgRg no AREsp n. 816.653/PR, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/3/2016, DJe 4/4/2016.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
