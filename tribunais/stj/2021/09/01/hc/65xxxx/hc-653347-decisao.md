@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido de liminar, impetrado em benefício de RENATA IZABEL AUGUSTA DA SILVA FRAGNAN contra decisão de desembargador do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO que deu provimento ao Recurso em Sentido Estrito n. 0009748-18.2014.8.26.0050 para cassar as decisões por meio das quais foi determinada a intimação da vítima ou do representante legal para a apresentação de representação e determinar o prosseguimento do processo.
+Extrai-se dos autos que a magistrada em exercício na 10ª Vara Criminal do Foro Central Criminal da Comarca de São Paulo, nos autos da Ação Penal n. 0009748-18.2014.8.26.0050, determinou que a vítima fosse intimada, pessoalmente ou por seu representante legal, para manifestar desejo de representar contra a acusada, impondo ao Ministério Público o dever de fornecer o endereço atualizado da ofendida para a finalidade. Irresignado, o parquet interpôs Recurso em Sentido Estrito perante o Tribunal de Justiça, que foi provido pelo relator do feito às fls. 34/39, para cassar as decisões e determinar o prosseguimento do feito, independente da formalidade imposta.
+No presente writ, o impetrante alega que as normas que versam a respeito de representação e, por conseguinte, à possibilidade de decadência e consequente extinção de punibilidade, ostentam dimensão penal material, assim, devem retroagir em favor dos acusados em geral, implicando retroação na exigência de cumprimento de tal condição.
+Pugna, assim, em liminar e no mérito, por determinação de intimação da vítima para que, no prazo de 30 dias, represente contra o paciente, sob pena de decadência.
+Liminar indeferida às fls. 50/51.
+Informações prestadas às fls. 60/78.
+O Ministério Público Federal opinou pela denegação da ordem, conforme parecer de fls. 80.
+É o relatório.
+Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração sequer deveria ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal que justifique a concessão da ordem de ofício.
+Compulsando-se os autos, verifica-se que o Tribunal de origem manteve-se alinhado ao posicionamento firmado nesta Corte Superior no sentido de que a necessidade de representação em relação aos crime de estelionato, inserida pela Lei n. 13.964/2019, não alcançam os processos com denúncia já oferecida à época da publicação do diploma legal.
+Nesse sentido:
+AGRAVO REGIMENTAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.CRIME CONTRA O PATRIMÔNIO. ESTELIONATO. ACORDO DE NÃO PERSECUÇÃO PENAL. DENÚNCIA RECEBIDA. REPRESENTAÇÃO DA VÍTIMA. RETROATIVIDADE. IMPOSSIBILIDADE. LEI N. 13.964/2019. ENTENDIMENTO DO STJ. DECISÃO MANTIDA.
+1. É inadmissível habeas corpus em substituição ao recurso próprio, também à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada flagrante ilegalidade no ato judicial impugnado apta a ensejar a concessão da ordem de ofício.
+2. O acordo de não persecução penal, previsto no art. 28-A do CPP, aplica-se a fatos ocorridos antes da Lei n. 13.964/2019, desde que não recebida a denúncia.
+3. Em razão das alterações promovidas pela Lei n. 13.964/2019, a retroatividade da representação no crime de estelionato não alcança o processo cuja denúncia já foi oferecida.
+4. Mantém-se integralmente a decisão agravada cujos fundamentos estão em conformidade com o entendimento do STJ sobre a matéria suscitada.
+5. Agravo regimental desprovido (AgRg no HC 641.684/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 03/08/2021, DJe 06/08/2021).
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ESTELIONATO. APLICAÇÃO RETROATIVA DO ART. 171, §5º, DO CÓDIGO PENAL (LEI N. 13.964/2019). IMPOSSIBILIDADE. DENÚNCIA OFERECIDA. RECENTE POSICIONAMENTO DA TERCEIRA SEÇÃO. AGRAVO DESPROVIDO.
+1. "Em consonância à orientação do Supremo Tribunal Federal, a Terceira Seção deste STJ, no julgamento do HC 610.201/SP em 24/3/2021, superando divergência entre as Turmas, pacificou a controvérsia e decidiu pela irretroatividade da norma que instituiu a condição de procedibilidade no delito previsto no art. 171 do Código Penal, quando já oferecida a denúncia" (AgRg no HC n. 625.333/SC, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 13/4/2021, DJe 16/4/2021).
+2. Agravo regimental desprovido (AgRg no REsp 1905897/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA,DJe 26/05/2021)
+Ausente, portanto, qualquer constrangimento que justifique a concessão da ordem de ofício.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea a, do Regimento Interno do Superior Tribunal de Justiça, não conheço da presente impetração.
+Publique-se.
