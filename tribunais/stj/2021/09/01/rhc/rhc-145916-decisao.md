@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por JOAO VITOR SILVA VIEIRA contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE ALAGOAS no julgamento do HC n. 0805974-56.2020.8.02.0000.
+Extrai-se dos autos que o recorrente foi preso em flagrante em 14/2/2020, convertido em preventiva, e restou denunciado pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de entorpecentes).
+Em 6/6/2020, o Juízo de primeiro grau reavaliou a prisão preventiva do acusado, mantendo-a (fls. 28/29). Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PLEITO DE RELAXAMENTO DA PRISÃO PREVENTIVA. ALEGAÇÃO DE ILEGALIDADE DAS PROVAS COLHIDAS EM DESFAVOR DO PACIENTE. SUPOSTA VIOLAÇÃO DO DOMICILIO. TRANCAMENTO DO PROCESSO POR AUSÊNCIA DE MATERIALIDADE. IMPOSSIBILIDADE DE CONHECIMENTO. AUSÊNCIA DE APRECIAÇÃO DAS ALEGAÇÕES FORMULADAS NESTE WRIT PELA AUTORIDADE DITA COATORA. SUPRESSÃO DE INSTÂNCIA. TESE DE AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA E SUFICIÊNCIA DAS MEDIDAS ALTERNATIVAS. ARGUMENTOS JÁ ENFRENTADOS EM IMPETRAÇÃO ANTERIOR. MERA REITERAÇÃO. IMPOSSIBILIDADE DE APRECIAÇÃO. PRECEDENTES DO STJ. PLEITOS NÃO CONHECIDOS. RISCO DE CONTAMINAÇÃO POR COVID-19. ARGUMENTAÇÃO GENÉRICA. INEXISTÊNCIA DE ELEMENTOS QUE DEMONSTREM O PERIGO CONCRETO À SAÚDE DO PACIENTE. COAÇÃO ILEGAL NÃO DEMONSTRADA. SEGREGAÇÃO MANTIDA. REMÉDIO CONSTITUCIONAL PARCIALMENTECONHECIDO E, NESTA EXTENSÃO, DENEGADO." (fl. 65).
+No presente recurso, a Defensoria Pública sustenta a existência de nulidade do flagrante em razão da invasão de domicílio pela Polícia Militar. Assevera que os milicianos invadiram a residência, sem mandado judicial, sem consentimento do morador e sem que houvessem fundadas razões que evidenciassem a prática delituosa.
+Aduz que esta Corte Superior sedimentou entendimento de que denúncia anônima e a simples fuga ao avistar a Polícia, não configuram fundadas razões aptas a justificar a entrada forçada no domicílio.
+Aponta que a prova obtida de forma ilícita é nula, bem como todo o processo que dela derivou. Indica que a referida nulidade deve ser reconhecida ainda que de ofício.
+Alega a ausência dos requisitos previstos no art. 312 do Código de Processo Penal, de modo que a custódia cautelar não estaria suficientemente fundamentada, porquanto baseada na gravidade abstrata do delito.
+Afirma que é primário e faz jus à atenuante da menoridade relativa, evidenciando a desnecessidade da custódia antecipada.
+Aponta a suficiência das medidas cautelares diversas da prisão previstas no art. 319 do CPP. Ressalta a pandemia da COVID-19, destacando a maior vulnerabilidade da população carcerária. Invoca a incidência da Recomendação n. 62/2020 do CNJ.
+Requer, em liminar e no mérito, o relaxamento ou a revogação da prisão preventiva, com expedição de alvará de soltura. Pugna, ainda, no mérito, pelo trancamento da ação penal.
+Liminar indeferida às fls. 121/123.
+Informações prestadas às fls.128/131 e 134/137.
+O Ministério Público Federal opinou pelo não conhecimento do recurso, conforme parecer de fls. 139/141.
+É o relatório. Decido.
+Como bem destacado pelo Ministério Público Federal, no que diz respeito às aventadas nulidades, o pleito não comporta conhecimento sob pena de incorrer em indevida supressão de instância, vez que a matéria não foi analisada pelo Tribunal de origem no acórdão recorrido.
+No que diz respeito à necessidade de substituição da prisão preventiva, de rigor também o não conhecimento do recurso. Conforme as informações prestadas às fls. 128/130, sobreveio aos autos da ação penal originária sentença condenatória que transitou em julgado, ocasionando a perda superveniente do objeto do recurso.
+Ante o exposto, com fundamento no art. 34,inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça, não conheço do presente recurso em habeas corpus.
+Publique-se.
