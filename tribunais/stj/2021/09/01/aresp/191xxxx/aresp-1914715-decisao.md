@@ -1,0 +1,49 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por COOPERATIVA DE CRÉDITO DE LIVRE ADMISSÃO DE ASSOCIADOS DO SUL DE MATO GROSSO - SICREDI SUL MTcontra decisão do Tribunal de Justiça do Estado de Mato Grossoque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ, fls. 202/203):
+APELAÇÃO CÍVEL - AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS C/C PEDIDO DE INDENIZAÇÃO POR PRÁTICA DE RACISMO - PRELIMINAR DE CERCEAMENTO DE DEFESA - REQUERIMENTO DE PRODUÇÃO DE PROVA NÃO APRECIADO - CONJUNTO PROBATÓRIO SUFICIENTE PARA O DESLINDE DA DEMANDA - PRECLUSÃO DO DIREITO DO BANCO PARA INDICAÇÃO DE TESTEMUNHAS - SOLICITAÇÃO FEITA POR PREPOSTO DA AGÊNCIA BANCÁRIA PARA QUE A POLÍCIA VIESSE AO LOCAL PARA ABORDAR E CONDUZIR O AUTOR E COLEGA DE TRABALHO QUE SE DEMONSTRARAM "SUSPEITOS" - AUTOR E COLEGA CONDUZIDOS PARA FORA DA AGÊNCIA BANCÁRIA ONDE FORAM SUBMETIDOS A INTERROGATÓRIO E REVISTA CRITERIOSOS E CONSTRANGEDORES SEM QUE NADA DE IRREGULAR TENHA SIDO CONSTATADO - AUSÊNCIA DA PRÁTICA DE QUALQUER INFRAÇÃO OU DE QUALQUER CONDUTA NO INTERIOR DA AGÊNCIA PELO AUTOR E COLEGA QUE LEVASSE À CONCLUSÃO DE QUE ELES ERAM "SUSPEITOS" - AUSÊNCIA DE JUSTIFICATIVA PLAUSÍVEL - CONDUTA ABUSIVA E ILÍCITA DOS PREPOSTOS/EMPREGADOS DO BANCO -DANO MORAL CONFIGURADO - SENTENÇA REFORMADA - RECURSO PROVIDO. 1. Não há falar em cerceamento de defesa à falta de produção de outras provas, quando o conjunto probatório dos autos já era suficiente para que o julgador resolvesse com segurança o mérito da lide; o magistrado é o destinatário da prova, competindo a ele exercer juízo acerca da imprescindibilidade das provas pleiteadas, nos termos do art. 370 do CPC. 2. Qualquer pessoa tem o direito de comunicar à autoridade pública a prática de alguma infração penal ocorrente/ocorrida e exigir as necessárias providências de contenção, apuração e punição, podendo, inclusive, até mesmo efetuar a prisão em flagrante do infrator, mas, excluído o problema da investida necessariamente dolosa caracterizadora de denunciação caluniosa, problemática de ordem penal alheia ao debate estritamente civilístico, qualquer providência dessa ordem que não esteja minimamente respaldada por elementos indiciários mínimos, sérios e plausíveis, e que, assim, tenha sido praticada soba égide da leviandade, com absoluto desprezo às regras do cuidado objetivo necessário, configura conduta ilícita capaz de projetar efeitos no campo civil, sujeitando o informante leviano à obrigação da reparação do dano moral sofrido pelo alvo inocente de sua investida destrambelhada, tal como exatamente se deu no presente caso.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial a parte alega ofensa aos seguintes dispositivos legais: arts. 373, I, 489, § 1º, IV e VI,1.022, II, e 1.029, §5º, do CPC.
+Pugna pela suspensão do feito até sua decisão definitiva.
+Sustenta preliminarmente que o acórdão deve ser anulado porque o Tribunal de origem não se manifestou a respeito da aplicação ao art. 373, I, do CPC ao caso em tela.
+Quanto ao mérito, pede a reforma do acórdão por entender, em síntese, que "não restou comprovada a conduta irregular da instituição financeira, ora Recorrente e inexistindo prova de que a situaçãoenfocada nos autos teve o condão de romper o equilíbrio psicológico do Recorrido, a ponto de ensejarefetiva dor, vexame e sofrimento, a justificar a reparaçãopor danos morais, impõe-se o indeferimento desta demanda processual" - fls. 256/257.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, registro que o acórdão recorrido foi publicado já sob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade érealizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+No que tange ao pedido de suspensão do recurso especial, prefacialmente, verifica-se que os recorrentes não lograram êxito em demonstrar a existência dos requisitos autorizadores do excepcional provimento acautelatório almejado, quaissejam, ofumus boni juris e o periculum in mora.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO EM PEDIDO DE TUTELA PROVISÓRIA. ATRIBUIÇÃO DE EFEITO ATIVO A RECURSO ESPECIAL. AUSÊNCIA DE REQUISITOS.
+1. A concessão de efeito suspensivo ao recurso especial depende do fumus boni juris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+2. A ausência do "fumus boni iuris" basta para o indeferimento do pedido, sendo, portanto, desnecessário apreciar a questão sob a ótica do "periculum in mora", que deve se fazer presente cumulativamente.
+3. Agravo interno não provido.
+(AgInt no TP 1.124/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 06/02/2018, DJe 16/02/2018)
+No que tange à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, constato não estar configurada a sua ocorrência. Da leitura dos autos, verifica-se que a Corte estadual julgou fundamentadamente a matéria, expondo as razões que levaram às suas conclusões.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA. SEGURO DE VIDA EM GRUPO. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL NÃO VERIFICADA. 2. COBERTURA DE INVALIDEZ FUNCIONAL PERMANENTE TOTAL POR DOENÇA. INTERPRETAÇÃO SOB A LUZ DO CÓDIGO DE DEFESA DO CONSUMIDOR. DESCUMPRIMENTO DO DEVER DE INFORMAÇÃO ACERCA DOS LIMITES DA COBERTURA CONTRATADA. RECONHECIMENTO NA ORIGEM. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. 3. PEDIDO DE APLICAÇÃO DE MULTA PREVISTA NO ART. 1.021, § 4º, DO CPC/2015. NÃO CABIMENTO. 4. LITIGÂNCIA DE MÁ-FÉ. INEXISTÊNCIA. 5. AGRAVO IMPROVIDO.
+1. Não há violação ao art. 1.022 do CPC de 2015, porquanto o acórdão recorrido dirimiu a causa com base em fundamentação sólida, sem nenhuma omissão ou contradição. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, o que de fato ocorreu nos autos.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1697809/SC, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 05/12/2017, DJe 19/12/2017, g.n.)
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. LEVANTAMENTO DE GRAVAME. DESCUMPRIMENTO DE ACORDO HOMOLOGADO JUDICIALMENTE. DANO MORAL. VIOLAÇÃO AO ARTIGO 1.022 DO CPC/2015. NÃO OCORRÊNCIA. VALOR INDENIZATÓRIO. PROPORCIONALIDADE E RAZOABILIDADE. MANUTENÇÃO. ENTENDIMENTO ADOTADO NESTA CORTE. HONORÁRIOS ADVOCATÍCIOS. REVISÃO DO VALOR. REEXAME DE MATÉRIA FÁTICA DA LIDE. SÚMULA N. 7 DO STJ.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla e fundamentada, apenas que contrariamente ao pretendido pela parte, deve ser afastada a alegada violação ao art. 1.022 do Código de Processo Civil/2015.
+ ..
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1098101/RS, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 28/11/2017, DJe 04/12/2017, g.n.)
+No que concerne ao mérito, extrai-se do acórdão que o Tribunal de origem, soberano na análise das provas carreadas aos autos, concluiu que "o grave e lesivo constrangimento ilícito a que foi submetido o autor/apelante graças a iniciativa adotada pela gerência do Banco/réu, que convocou a Polícia à agência para bancária e indigitou o autor, sob o mais absoluto desemparo de aspectos minimamente consistentes com aptidão para sustentar uma mera suspeição, fez surgir, à luz do art. 188 do CC, a obrigação civil indenizatória" - fl. 208.
+Diante de tais considerações, não há como rever as premissas fáticas alcançadas pelas instâncias ordinárias sem a inevitável reapreciação de fatos e provas, providência vedada no âmbito do recurso especial, nos termos da Súmula 7 do STJ.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. FALHA NA PRESTAÇÃO DE SERVIÇOS. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. NECESSIDADE DO REEXAME DO ACERVO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. APLICAÇÃO DA MULTA DO ART. 1.026, § 2º, DO CPC/2015. INCIDÊNCIA DA SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que
+o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo
+da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. A alteração do entendimento adotado pela Corte de origem demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada no âmbito do recurso especial, conforme o óbice da Súmula 7 do Superior Tribunal de Justiça.
+3. Razões recursais insuficientes para a revisão do julgado.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1438024/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 17/02/2020, DJe 19/02/2020)
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, conheço do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, negar-lhe provimento.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL.CONCESSÃO DE EFEITO SUSPENSIVO AO RECURSO ESPECIAL. REQUISITOS NECESSÁRIOS AO DEFERIMENTO DO PEDIDO. AUSENTES.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DANO MORAL INDENIZÁVELCONFIGURADO. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. INCIDÊNCIA.
+AGRAVOCONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL NA PARTE CONHECIDA.
