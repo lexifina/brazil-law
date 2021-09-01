@@ -1,0 +1,62 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de WEDSON FERNANDES DE SOUZA no qual se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA (HC n. 0800394-48.2021.8.15.0000).
+Depreende-se dos autos que o paciente foi preso, ao lado do corréu, por suposta prática do delito previsto no art. 157, § 2º, inciso II, do Código Penal (roubo majorado).
+Irresignada, a defesa impetrou prévio writ no Tribunal estadual, que denegou a ordem em acórdão assim ementado (e-STJ fl. 18):
+HABEAS CORPUS. ROUBO QUALIFICADO SUSPOSTAMENTE PRATICADO. FUNDAMENTAÇÃO GENÉRICA DO DECRETO PREVENTIVO. INSUBSISTÊNCIA DO PEDIDO. DECISÃO, SATISFATORIAMENTE, AMPARADA NA GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE EVIDENCIADA PELO MAGISTRADO A QUO. DENEGAÇÃO DA ORDEM.
+- Não há que se falar em carência de fundamentação, quando a decisão objurgada pronuncia-se sobre as questões de fato e de direito, exprimindo o sentido geral do julgamento, esclarecendo, de forma inconteste, quais as causas ensejadoras do decreto de prisão preventiva, ainda mais quando se apoia no fato do crime imputado ao paciente ser grave e de repercussão social, pelo que buscou evitar a reiteração infracional, garantido, assim, a ordem pública.
+- "Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade." (STJ. RHC 121.866/AL, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 11/02/2020, DJe 14/02/2020)
+- A demonstração de que o paciente é detentor de primariedade, possui endereço fixo e trabalho lícito não é preponderante a ensejar sua soltura,por si só, frente aos requisitos do art. 312 do CPP.
+Nesta instância, a defesa, em suma, alega carência de fundamentação a amparar a segregação provisória.
+Sustenta, ainda, haver excesso de prazo para a conclusão do inquérito e oferecimento da denúncia.
+Ademais, destaca a presença de condições pessoais favoráveis do paciente.
+Diante disso, requer, liminarmente, a revogação da prisão preventiva, ainda que mediante a aplicação de algumas das medidas previstas no art. 319 do Código de Processo Penal, o que se pede em caráter subsidiário.
+Indeferida a liminar e prestadas as informações, opinou o Ministério Público Federal pelo não conhecimento do recurso.
+É o relatório.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+Destacou o Juízo de piso ao decretar a prisão preventiva dopaciente (e-STJ fls. 81/82):
+Extrai-se dos autos que no dia 19 de janeiro de 2021, às 11h34min,, na cidade de Cabedelo, a vítima estava caminhando pela praia Lucas Toscano Pereira Henriques Ribeiro de Areia Dourada, quando foi surpreendido por 02 (dois) indivíduos que, mencionando estarem armados, anunciaram um assalto e lhe subtraíram 01 (uma) corrente de ouro e 01(um) aparelho celular, empreendendo fuga, logo em seguida, em direção à BR 230.
+Ato contínuo, o ofendido acionou policiais militares que realizavam ronda nas imediações, e descreveu as características físicas dos dois indivíduos. Após diligências de busca, ambos foram localizados pelos policiais na BR 230, Km 02, em frente a concessionária Honda, e com eles foram encontradas 02 (duas) correntes de ouro, uma pequena quantia em dinheiro, e um papelote de substância semelhante à maconha.
+O custodiado Wedson Fernandes de Souza confessou a prática delituosa aoDelegado de Polícia competente e, ainda relatou que se desfizeram do o aparelho celular da vítima por se tratar de um iPhone, o qual poderia ser rastreado.
+ ..
+A necessária prisão preventiva dos agentes está calcada no fundamento da garantia da ordem pública, que visa, também, resguardar a própria credibilidade da Justiça, reafirmando a validade e a autoridade da ordem jurídica, colocada em evidência pela conduta criminosa dos agentes, acima descrita e por sua repercussão negativa na sociedade, causando clamor público, além da aplicação da lei penal.
+Vê-se que a prisão foi decretada em decorrência do modus operandi empregado na conduta delitiva, revelador da periculosidade do paciente, consistente na prática, em tese, de crime de roubo majorado pelo concurso de agentes e emprego de arma de fogo.
+Tais circunstâncias, como já destacado, evidenciam a gravidade concreta da conduta, porquanto extrapolam a mera descrição dos elementos próprios do tipo de roubo. Assim, por conseguinte, a segregação cautelar faz-se necessária como forma de acautelar a ordem pública.
+Nesse sentido:
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. MODUS OPERANDI. REITERAÇÃO DELITIVA. RECURSO DESPROVIDO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se a indispensável a demonstração do que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs delineou o modus operandi empregado pelo recorrente e seu comparsa, do qual se depreende emprego de agressão contra a vítima, o que denota sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+ .. (RHC n. 70.507/BA, de minha relatoria, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+PROCESSUAL PENAL. TENTATIVA DE HOMICÍDIO QUALIFICADO. RECEPTAÇÃO.PORTE DE ARMA DE FOGO. ACÓRDÃO DE TRIBUNAL DE JUSTIÇA DENEGATÓRIO DE HABEAS CORPUS. INTERPOSIÇÃO DE RECURSO EM SENTIDO ESTRITO AO INVÉS DE RECURSO ORDINÁRIO. ERRO GROSSEIRO. HOMENAGEM AO PRINCÍPIO DA AMPLA DEFESA. CONHECIMENTO DA SÚPLICA COMO IMPETRAÇÃO SUBSTITUTIVA DE RECURSO ORDINÁRIO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ORDEM DENEGADA.
+ ..
+3. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, indicadores da periculosidade do paciente, que, "tripulando veiculo em ocorrência de roubo e portando arma de fogo, diante da iminente abordagem policial, fugiram em alta velocidade, pelas ruas da cidade, e efetuaram disparos contra os policiais militares, abalroando outro veículo e vindo, por fim, a colidir o carro em um poste da via". O magistrado de primeiro grau destacou, ainda, "a necessidade da medida para assegurar a aplicação da lei penal e a instrução criminal, pois o indivíduo que tenta violentamente escapar da polícia não colaborará com a instrução criminal, tampouco aceitará eventual penalidade imposta", tudo a conferir lastro de legitimidade à custódia.
+ .. (RHC n. 66.609/RS, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 3/3/2016, DJe 10/3/2016, grifei.)
+PROCESSUAL PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. ROUBO MAJORADO. PRISÃO PREVENTIVA. GRAVIDADE CONCRETA DA CONDUTA DELITUOSA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. RECURSO DESPROVIDO.
+1. Havendo prova da existência do crime e indícios suficientes de autoria, a prisão preventiva, nos termos do art. 312 do Código de Processo Penal, poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal.
+2. No caso, o recorrente praticou o crime de roubo mediante o uso de simulacro de arma de fogo, em concurso de agentes, com ameaças de morte à vítima, além de, na companhia dos corréus, ter transportado e conduzido um veículo que sabia ser objeto de outro roubo.
+3. O Superior Tribunal de Justiça possui entendimento consolidado no sentido de que não há constrangimento ilegal quando a prisão preventiva é decretada em razão da gravidade concreta da conduta delituosa, evidenciada pelo modus operandi com que o crime fora praticado, como ocorreu nos presentes autos.
+ ..  (RHC n. 58.952/RJ, relator Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/5/2016, DJe 27/5/2016.)
+No mais, frise-se que as condições subjetivas favoráveis do acusado, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória. Nesse sentido:
+ ..  2. Condições pessoais favoráveis do recorrente não têm, em princípio, o condão de, isoladamente, ensejar a revogação da prisão preventiva, se há nos autos elementos suficientes a demonstrar a necessidade da custódia cautelar.
+3. Recurso em habeas corpus improvido.(RHC n. 64.879/SP, relator Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 21/3/2016.)
+De igual forma, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública. A propósito, confiram-se estes precedentes:
+PROCESSO PENAL. RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO TENTADO. PRISÃO CAUTELAR. GRAVIDADE CONCRETA. PERICULOSIDADE. MOTIVAÇÃO IDÔNEA. OCORRÊNCIA. RECURSO DESPROVIDO.
+ ..
+2. Não é ilegal o encarceramento provisório decretado para o resguardo da ordem pública, em razão da gravidade in concreto dos fatos, a conferir lastro de legitimidade à custódia.
+3. Nesse contexto, indevida a aplicação de medidas cautelares alternativas à prisão, porque insuficientes para resguardar a ordem pública.
+4. Recurso a que se nega provimento. (RHC n. 68.535/MG, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 17/3/2016, DJe 12/4/2016.)
+PRISÃO TEMPORÁRIA CONVERTIDA EM PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE CONCRETA DO AGENTE. MODUS OPERANDI DOS DELITOS. VIOLÊNCIA REAL CONTRA UMA DAS VÍTIMAS, NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+ ..
+6. É entendimento do Superior Tribunal de Justiça que as condições favoráveis do paciente, por si sós, não impedem a manutenção da prisão cautelar quando devidamente fundamentada.
+7. Inaplicável medida cautelar alternativa quando as circunstâncias evidenciam que as providências menos gravosas seriam insuficientes para a manutenção da ordem pública.
+Habeas corpus não conhecido.(HC n. 393.464/RS, relator Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/8/2017, DJe 4/9/2017.)
+Por fim, quanto ao pleito de excesso de prazo, tem-se que a tese não foi debatida pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.(RHC n. 68.025/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+Ante o exposto, conheço em parte do writ e, nessa extensão, denego a ordem.
+Publique-se. Intimem-se.
