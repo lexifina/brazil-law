@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de pedido deduzido pelo GRUPO DE ATUAÇÃO ESTRATÉGICA DAS DEFENSORIAS PÚBLICAS ESTADUAIS E DISTRITAL NOS TRIBUNAIS SUPERIORES (GAETS), no qual requer a sua habilitação neste feito na qualidade de amicus curiae.
+Sustenta que "a relevância da matéria é evidente e transcende os interesses das partes. Isso porque a presente demanda destina-se à formação de precedente qualificado de estrita observância pelos juízes e tribunais do país, referente a um fato da vida que acontece constantemente no quotidiano policial. Eventual caracterização de crime em face de ordem de parada na atividade ostensiva de segurança pública causaria implicações de ordem social e jurídica de grandes proporções" (e-STJ fl. 385).
+Acerca da questão, dispõe o art. 138, caput, do Código de Processo Civil de 2015, que "o juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a participação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de 15 (quinze) dias de sua intimação".
+No caso, de fato, entendo pela relevância da questão a ser dirimida-caracterização do crime de desobediência quando a ordem de parada a veículo for emitida por policial no exercício de atividade ostensiva de segurança pública- de modo a justificar a admissãodo requerente, no presente processo,na qualidade de "amigo da Corte".
+Defiro, portanto, o ingresso do interessado no feito na condição de amicus curiae.
+À Coordenadoria para as devidas providências.
+Publique-se e intimem-se.
