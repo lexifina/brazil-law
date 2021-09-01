@@ -1,0 +1,25 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JEAN CARLOS RIBEIRO BARCELOS FERREIRA , à decisão de fls. 1387/1388, que não conheceu do recurso.
+Sustenta a parte embargante que:
+09. Todavia, a julgado apresenta séria OMISSÃO e CONTRADIÇÃO que reclama esclarecimentos, haja vista, que ao contrário do que restou ali disposto, o recurso especial interposto foi DEVIDAMENTE CERTIFICADO PELO TRIBUNAL DE JUSTIÇA DE MATO GROSSO CONFORME CERTIDÃO DE TEMPESTIVIDADE ABAIXO:
+ ..
+10. Sem mencionar que estamos tratando de processos eletrônicos em que o próprio sistema já identifica a tempestividade dos recursos, como é caso aqui esboçado.
+11. Além do que, a decisão cita sobre a tempestividade do Recurso Especial, no qual teve os pressupostos de admissibilidade certificados pelo Tribunal de Justiça Estadual, no qual teve todo o seu tramite corretamente seguido conforme é possível observar pelas copias que foram juntadas no Agravo ao STJ.
+ ..
+15. Ainda para elucidar os fatos, quando da interposição do referido Recurso Especial, em seus pressupostos extrínsecos de admissibilidade foi justificado o feriado que houve no dia 20 de novembro de 2020, senão vejamos:
+ ..
+16. Assim, Excelentíssimo Ministro, quando da interposição do Recurso Especial, teve a justificativa do feriado, no qual inclusive foi devidamente certificado sua tempestividade pelo id 68579982 conforme já demonstrado (fls. 1394/1397).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada, no ato da interposição do recurso que pretende seja conhecido por este Tribunal, por documento oficial ou certidão expedida pelo Tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública.
+Nesse sentido, AgInt no AREsp 1542214/SP, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 9/6/2020; AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+É certo que feriado nacional não precisa ser comprovado. Porém, o dia 20/11/2020 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+Observe-se que "o juízo de admissibilidade do recurso especial é bifásico, assim, a decisão proferida pelo tribunal de origem não vincula esta Corte, que tem competência plena para verificar novamente o preenchimento dos pressupostos recursais". (EDcl no AgInt no REsp 1781795/ES, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 16/6/2020.)
+Do mesmo modo, certidão lavrada por servidor público ou pelo sistema, nos autos do processo, atestando a tempestividade do recurso, não impede o reexame desse requisito pelo STJ. Nesse sentido, o AgInt nos EDcl no AREsp 1544693/RS, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 5/5/2020; e o AgInt no AREsp 1547898/PR, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 12/3/2020.
+É cediço, também, que o julgador não fica obrigado a manifestar-se sobre todas as alegações das partes, nem a ater-se aos fundamentos indicados por elas ou a responder, um a um, a todos os seus argumentos, quando já encontrou motivo suficiente para fundamentar a decisão, o que de fato ocorreu. (AREsp 1592147/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 31/08/2020; AgInt no AREsp 1639930/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 03/08/2020; AgInt nos EDcl no AREsp 1342656/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 07/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
