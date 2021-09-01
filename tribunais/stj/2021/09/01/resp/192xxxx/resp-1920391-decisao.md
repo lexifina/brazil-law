@@ -1,0 +1,14 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Cristiano Caju Freitas e outros,com amparo nas alíneas "a" e "c" do inciso III do art. 105 da Constituição da República, contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul - TJRS assim ementado (e-STJfl. 260):
+JUÍZO DE RETRATAÇÃO EM AGRAVO DE INSTRUMENTO. DIREITO PÚBLICO. ATUALIZAÇÃO DO DÉBITO RESULTANTE DE CONDENAÇÃO IMPOSTA À FAZENDA PÚBLICA. CORREÇÃO MONETÁRIA E JUROS DE MORA. PRECATÓRIO JÁ EXPEDIDO NOS AUTOS ANTES DE 25.03.2015. OBSERVÂNCIA, NO CASO, DA DECISÃO PROFERIDA NAS ADIS 4357 E 4425, COM A MODULAÇÃO TEMPORAL DOS EFEITOS DETERMINADA POR OCASIÃO DO JULGAMENTO DA QUESTÃO DE ORDEM PELO STF. INAPLICABILIDADE DOS TEMAS 810 DO STF E 905 DO STJ AO CASO. CORREÇÃO MONETÁRIA SEGUNDO ÍNDICE OFICIAL DE REMUNERAÇÃO BÁSICA DA CADERNETA DE POUPANÇA (TR), NOS TERMOS DA EC 62/2009 E LEI 11.960/09, ATÉ 25.03.2015, INCIDINDO, APÓS, IPCA-E. JUROS MORATÓRIOS SEGUNDO ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA MANTIDOS. DECISÃO COLEGIADA EM CONFORMIDADE COM MODULAÇÃO DOS EFEITOS. JUÍZO DE RETRATAÇÃO REFUTADO. IMPROVIMENTO DO AGRAVO DE INSTRUMENTO MANTIDO.
+Embargos de declaração rejeitados.
+Em suas razões, os recorrentes sustentam que," .. vejamos que se acolhida a pretensão de modificação dos índices de correção monetária e juros determinados na decisão transitada em julgado, contrariar-se-ia a coisa julgada, o que é vedado pelo ordenamento constitucional, consoante determina o art. 5º, inciso XXXVI, da Carta Magna de 1988." (e-STJfl. 329).
+Pugna pela total reforma do acórdão recorrido, aplicando-se o IGPM ou, sucessivamente, o IPCA.
+Com contrarrazões.
+É o relatório.
+A irresignação não comporta conhecimento.
+Dos autos, frise-se que oart. 5º,XXXVI, da CRFB/1988possuinatureza normativa constitucional, não cabendo a esta Corte Superior de Justiça o exame de sua possível irreverência sob pena de usurpação da competência do Pretório Excelso.
+No mais, insta salientar que a jurisprudência desta Corte firmou-se no sentido de que a ausência de indicação do dispositivo legal objeto de interpretação divergente configura deficiência na fundamentação recursal, o que impede o conhecimento do apelo nobre interposto com amparo no art. 105, III, "c", da Constituição Federal. Incidência da Súmula 284/STF. Nesse sentido: AgInt no REsp 1.624.206/PR, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 15/12/2016; AgInt no REsp 1.622.220/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 15/12/2016; AgRg no AREsp 682.625/PE, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 25/11/2016; AgInt no AREsp 842.727/RN, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 6/10/2016.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
