@@ -1,0 +1,34 @@
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO. ALEGADA OMISSÃO, OBSCURIDADE E AMBIGUIDADE. VÍCIOS INEXISTENTES. MANIFESTO CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não há "omissão" no acórdão embargado se a suposta ofensa ao princípio do juiz natural, além de absolutamente insubsistente, sequer foi alegada nas razões do agravo regimental.
+2. Tampouco há "obscuridade e ambiguidade" porque o Embargante discorda da tese jurídica esposada - inadmissão como paradigma de acórdão proferido em ações que possuem natureza de garantia constitucional, como o habeas corpus. É sabido e consabido que o recurso integrativo não se presta a rediscutir matéria devidamente analisada e decidida.
+3. Embargos de declaração rejeitados.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Terceira Seção do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, rejeitar os embargos de declaração, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros João Otávio de Noronha, Sebastião Reis Júnior, Rogerio Schietti Cruz, Ribeiro Dantas, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Jesuíno Rissato (Desembargador Convocado do TJDFT) votaram com a Sra. Ministra Relatora.
+Ausente, justificadamente, o Sr. Ministro Joel Ilan Paciornik.
+Licenciado o Sr. Ministro Felix Fischer, sendo substituído pelo Sr. Ministro Jesuíno Rissato (Desembargador Convocado do TJDFT).
+Presidiu o julgamento o Sr. Ministro Reynaldo Soares da Fonseca.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de embargos de declaração opostos por LAURO PEREIRA GALLI contra acórdão desta TERCEIRA SEÇÃO, por mim relatado, e ementado nestes termos:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. ACÓRDÃO EMBARGADO QUE AFASTOU A ALEGADA VIOLAÇÃO AOS ARTS. 619 E 620 DO CÓDIGO DE PROCESSO PENAL. TAMBÉM APLICOU O ÓBICE SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA PARA O REEXAME DO PEDIDO DE PRODUÇÃO DE PROVA PERICIAL E DESCLASSIFICAÇÃO DO CRIME. ALEGADA DIVERGÊNCIA POR SUPOSTAMENTE NÃO TEREM SIDO SANADAS OMISSÕES. INEXISTÊNCIA DE DISSÍDIO. SOLUÇÃO CASUÍSTICA. AUSÊNCIA DE ANÁLISE DO MÉRITO DO RECURSO ESPECIAL. PARADIGMA PROLATADO EM HABEAS CORPUS. INVIABILIDADE. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO.
+1. A Corte Especial deste Superior Tribunal de Justiça tem entendimento uníssono no sentido da inadequação de se confrontar julgados que interpretam o art. 535 do Código de Processo Civil de 1973, atual art. 1.022 do Código de Processo Civil de 2015, e o art. 619 do Código de Processo Penal, na medida em que a aferição da ausência ou não dos vícios processuais que ensejariam o acolhimento do recurso integrativo está intrinsecamente vinculada às peculiaridades fático-jurídicas de cada caso, a obstar a admissibilidade dos embargos de divergência - recurso de fundamentação vinculada e de cognição restrita, que não se presta à revisão do acerto ou desacerto do acórdão embargado -, porquanto não evidenciada divergência de teses jurídicas, nos termos do art. 266, § 1.º, do Regimento Interno do Superior Tribunal de Justiça.
+2. "Nos termos do art. 266, I e II, do RISTJ, não são cabíveis embargos de divergência amparados em eventual inobservância de regras técnicas alusivas ao conhecimento do recurso especial, como pretende o embargante ao apresentar a controvérsia relativa à necessidade ou não de revolvimento de provas para o julgamento do recurso especial, o que levaria ou não à aplicação do óbice da Súmula n. 7 do STJ" (AgRg nos EREsp 1770254/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 11/12/2019, DJe 19/12/2019).
+3. "Mesmo na égide do novo CPC, o § 1º do art. 1.043 restringe os julgados que podem ser objetos de comparação, em sede de embargos de divergência, a recursos e ações de competência originária, não podendo, portanto, funcionar como paradigma acórdãos proferidos em ações que têm natureza jurídica de garantia constitucional, como os habeas corpus, mandado de segurança, habeas data e mandado de injunção" (AgInt nos EAREsp 474.423/RS, Rel. Ministra NANCY ANDRIGHI, CORTE ESPECIAL, julgado em 02/05/2018, DJe 10/05/2018).
+4. Agravo regimental desprovido."
+Alega o Embargante "omissão" do acórdão embargado, que não se manifestou sobre o princípio do juiz natural, na medida em que deveria ter sido esta Relatora, e não a Presidência desta Corte, a decidir em primeiro lugar os embargos de divergência.
+Afirma ainda que houve "obscuridade e ambiguidade", ao consignar o acórdão embargado que não se admite como paradigma acórdão proferido em ações que possuem natureza de garantia constitucional, como o habeas corpus, uma vez que, segundo sustenta, transformaria o Superior Tribunal de Justiça em legislador positivo.
+Requer, pois, o acolhimento dos embargos.
+É o relatório.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CRIME DE PORTE ILEGAL DE ARMA DE FOGO DE USO PERMITIDO. EMBARGOS LIMINARMENTE INDEFERIDOS. AGRAVO REGIMENTAL DESPROVIDO. ALEGADA OMISSÃO, OBSCURIDADE E AMBIGUIDADE. VÍCIOS INEXISTENTES. MANIFESTO CARÁTER PROTELATÓRIO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Não há "omissão" no acórdão embargado se a suposta ofensa ao princípio do juiz natural, além de absolutamente insubsistente, sequer foi alegada nas razões do agravo regimental.
+2. Tampouco há "obscuridade e ambiguidade" porque o Embargante discorda da tese jurídica esposada - inadmissão como paradigma de acórdão proferido em ações que possuem natureza de garantia constitucional, como o habeas corpus. É sabido e consabido que o recurso integrativo não se presta a rediscutir matéria devidamente analisada e decidida.
+3. Embargos de declaração rejeitados.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+Os embargos de declaração manejados são manifestamente descabidos e, mais, denotam claro intento protelatório.
+Ora, não há omissão nenhuma no acórdão acerca de suposta violação do princípio do juiz natural, pela simples razão de que tal alegação, além de absolutamente insubsistente, não foi arguida na petição do agravo regimental.
+Tampouco há "obscuridade e ambiguidade" porque o Embargante discorda da tese jurídica esposada - inadmissão como paradigma de acórdão proferido em ações que possuem natureza de garantia constitucional, como o habeas corpus. É sabido e consabido que o recurso integrativo não se presta a rediscutir matéria devidamente analisada e decidida.
+Ante o exposto, REJEITO os embargos de declaração.
+É o voto.
