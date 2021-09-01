@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que decidiu demanda relativa à possibilidade de cobrança da Contribuição Social sobre o Lucro Líquido (CSLL) em relação ao contribuinte que possui coisa julgada reconhecendo a inconstitucionalidade da exação, nos moldes como instituída pela Lei n. 7.689/1988.
+O recorrente interpôs, também, recurso extraordinário na origem.
+Passo a decidir.
+A questão, objeto do apelo extremo interposto na origem, teve a repercussão geral reconhecida pelo Supremo Tribunal Federal no RE 949.297/CE, cujo acórdão restou assim ementado:
+RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. PRELIMINAR. RECONHECIMENTO. DIREITO TRIBUTÁRIO. CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL. LEI 7.689/88. DIREITO PROCESSUAL CIVIL. COISA JULGADA. LIMITES. INEXISTÊNCIA DE RELAÇÃO JURÍDICA. INCONSTITUCIONALIDADE INCIDENTAL. DECLARAÇÃO DE CONSTITUCIONALIDADE EM CONTROLE ABSTRATO E CONCENTRADO. ADI 15. SÚMULA 239 DO STF.
+A matéria constitucional controvertida consiste em delimitar o limite da coisa julgada em âmbito tributário, na hipótese de o contribuinte ter em seu favor decisão judicial transitada em julgado que declare a inexistência de relação jurídico-tributária, ao fundamento de inconstitucionalidade incidental de tributo, por sua vez declarado constitucional, em momento posterior, na via do controle concentrado e abstrato de constitucionalidade exercido pelo STF.
+Preliminar de repercussão geral em recurso extraordinário reconhecida.
+(RE 949.297/CE, Rel. Ministro EDSON FACHIN, TRIBUNAL PLENO, julgado em 24/03/2016, DJe 13/05/2016).
+Essa controvérsia refere-se ao Tema 881 da Repercussão Geral, in verbis:
+Limites da coisa julgada em matéria tributária, notadamente diante de julgamento, em controle concentrado pelo Supremo Tribunal Federal, que declara a constitucionalidade de tributo anteriormente considerado inconstitucional, na via do controle incidental, por decisão transitada em julgado.
+Assim, por medida de economia processual e para evitar decisões dissonantes entre a Corte Suprema e o Superior Tribunal de Justiça, os recursos que tratam da mesma controvérsia no STJ devem aguardar, no Tribunal de origem, a solução do recurso extraordinário afetado, viabilizando o juízo de conformação disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente depois de realizada essa providência, que representa o exaurimento da instância ordinária, é que o recurso especial, se for o caso, deverá ser encaminhado a este Órgão Superior, para que possam ser analisadas as questões jurídicas nele suscitadas e que não ficaram prejudicadas pelo novo pronunciamento do Tribunal a quo.
+Ante o exposto, DETERMINO A DEVOLUÇÃO DOS AUTOS ao Tribunal de origem, com a respectiva baixa, para que, após a publicação do acórdão a ser proferido no recurso com repercussão geral reconhecida e em observância aos arts. 1.039 e 1.040 do CPC/2015: a) negue seguimento ao recurso se a decisão recorrida coincidir com a orientação emanada pela Suprema Corte; ou b) proceda ao juízo de retratação na hipótese de o acórdão vergastado divergir da decisão sobre o tema submetido à repercussão geral.
+Publique-se. Intimem-se.
