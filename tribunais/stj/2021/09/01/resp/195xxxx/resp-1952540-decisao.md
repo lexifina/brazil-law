@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Instituto Nacional do Seguro Social contra acórdão proferido pelo Tribunal Regional Federal da 1ª Região, assim ementado:
+CONSTITUCIONAL E PREVIDENCIÁRIO. BENEFICIO ASSISTENCIAL. LOAS. ART. 203, V, DA CF/88. LEI 8.742/93. IDOSO. IDADE SUPERIOR A 65 ANOS. HIPOSSUFICIÊNCIA. PREENCHIMENTO DOS REQUISITOS LEGAIS. SENTENÇA DE PROCEDÊNCIA MANTIDA.
+1. A Constituição Federal, em seu artigo 203, inciso V, e a Lei n. 8.742/93 (Lei Orgânica da Assistência Social) garantem um salário mínimo de benefício mensal à pessoa portadora de deficiência e ao idoso que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, independentemente de contribuição à seguridade social.
+2. Os requisitos para a concessão do benefício de prestação continuada estão estabelecidos no art. 20 da Lei n. 8.742/93. São eles: i) o requerente deve ser portador de deficiência ou ser idoso com 65 anos ou mais; ii) não receber benefício no âmbito da seguridade social ou de outro regime e iii) ter renda mensal familiar per capita inferior a % do salário mínimo (requisito para aferição da miserabilidade).
+3. O Col. STF, ao apreciar a Ação Direta de Inconstitucionalidade n. 1.232-1/DF, declarou que a regra constante do art. 20, § 30, da LOAS não contempla a única hipótese de concessão do benefício, e sim presunção objetiva de miserabilidade, de forma a admitir a análise da necessidade assistencial em cada caso concreto, mesmo que o "quantum" da renda "per capita" ultrapasse o valor de V. do salário mínimo, cabendo ao julgador avaliar a vulnerabilidade social de acordo com o caso concreto.
+4. Também o Superior Tribunal de Justiça, em sede de recurso repetitivo, consagrou a possibilidade de demonstração da condição de miserabilidade do beneficiário por outros meios de prova, quando a renda per capita do núcleo familiar for superior a V. (um quarto) do salário mínimo. Nesse sentido, cf. REsp 1.112.557/MG, Terceira Seção, Relator Ministro NAPOLEÃO NUNES MAIA FILHO, DJe de 20/11/2009.
+5. Firmou-se o entendimento jurisprudencial de que, para fins de cálculo da renda familiar mensal, não deve ser considerado o benefício (mesmo que de natureza previdenciária) que já venha sendo pago a algum membro da família, desde que seja de apenas 1 (um) salário mínimo, forte na aplicação analógica do parágrafo único do art. 34 da Lei 10.741/2003 (Estatuto do Idoso). Precedentes.
+6. Na hipótese, o requisito etário foi preenchido, já que a parte autora conta com idade igual ou superior a 65 anos, consoante comprovante de identificação encartado aos autos; já a condição de miserabilidade, nos termos alinhavados acima, encontra-se escudada no Estudo Social e documentos catalogados ao feito, autorizando, assim, a concessão do benefício vindicado, conforme deferido pelo juízo a quo.
+7. O termo inicial do benefício deve ser fixado na data do requerimento administrativo e, na sua ausência, a partir da citação, conforme definição a respeito do tema em decisão proferida pelo e.STJ, em sede de recurso representativo da controvérsia (REsp 1369165/SP), respeitados OS limites do pedido inicial e da pretensão recursal, sob pena de violação ao principio da ne reformatio in pejus.
+8. Os honorários advocatícios devem ser majorados para 12% (doze por cento) sobre o valor das parcelas vencidas até a prolação da sentença, em razão do disposto no art. 85, § 11º do NCPC.
+9. A correção monetária deve observar o novo regramento estabelecido pelo Supremo Tribunal Federal, em sede de repercussão geral, no julgamento do RE 870.947/SE, no qual restou fixado o IPCA-E como índice de atualização monetária a ser aplicado a todas as condenações judiciais impostas à Fazenda Pública. Juros de mora nos termos do Manual de Cálculos da Justiça Federal.
+10. Apelação do INSS desprovida.
+Em suas razões de recurso especial manejado com fulcro naalínea"a" do permissivo constitucional,sustenta o INSS violação aoartigo1.022 do CPC/2015.
+Defende que "é patente, pois, a ocorrência de erro material que deverá ser corrigido, para que sela proferida decisão que guarde coerência com o caso dos autos (contexto dos autos), bem como com o recurso de apelação interposto por essa autarquia previdenciária".
+Não foram apresentadas contrarrazões.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo 3/STJ que dispõe in verbis: aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+No que tange à alegada violação aoart. 1022 do CPC/2015,constata-se que a fundamentação é deficiente, tendo em vista que as razões de recorrer são genéricas eincapazes de demonstrar como o acórdão recorrido teria ofendido omencionadodispositivolegal indicado.
+Logo, a deficiência de fundamentação da irresignação impede o conhecimento do recurso especial, atraindo a incidência, por analogia, da Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. VIOLAÇÃO DO ART. 1022 DO CPC/2015 NÃO CONFIGURADA. ALEGAÇÕES GENÉRICAS. SÚMULA 284/STF. ALUGUEL SOCIAL. REQUISITOS NÃO PREENCHIDOS. SÚMULA 7/STJ.
+(..)
+2. In casu, quanto à ofensa ao art. 1.022 do CPC/2015, verifica-se que a parte recorrente limitou-se a afirmar, de forma genérica, que o acórdão recorrido incorreu em omissão ao deixar de se pronunciar acerca das questões apresentadas nos Embargos de Declaração. Contudo não desenvolveu argumentos suficientes para demonstrar especificamente a suposta mácula. Incide nessa parte a Súmula 284 do STF.
+(..)
+5. Recurso Especial parcialmente conhecido, apenas em relação à violação do art. 1.022 do CPC/2015, e, nessa parte, não provido.(REsp 1821241/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 17/09/2019, DJe 11/10/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 255, § 4º, I e II, do RISTJ, não conheço do recurso especial.
+Intimem-se.
+Publique-se.
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO3/STJ. BENEFÍCIO ASSISTENCIAL. ART.1022 DO CPC/2015.RECURSO ESPECIAL NÃO CONHECIDO.
