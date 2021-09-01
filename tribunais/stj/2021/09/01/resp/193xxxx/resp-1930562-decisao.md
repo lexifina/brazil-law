@@ -1,0 +1,49 @@
+DECISÃO
+1. Cuida-se de recurso especial interposto por DOM PEDRO BRASIL EMPREENDIMENTOS TURISTICOS S.A, com fundamento no art. 105, III, a,da Constituição da República, contra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL,assim ementado:
+"APELAÇÃO CÍVEL DIREITO PRIVADO NÃO ESPECIFICADO AÇÃO CONDENATÓRIA CONTRATO DE CREDENCIAMENTO AO SISTEMA DE PAGAMENTO GETNET CHARGEBACK COMPRAS FRAUDULENTAS AUSÊNCIA DE RESPONSABILIDADE DA REQUERIDA SENTENÇA DE IMPROCEDÊNCIA MANTIDA.
+No caso, sustenta a requerente, ora apelante, que ocorreu o cancelamento dos seus recebíveis de cartão em face do não reconhecimento da compra pelo titular do cartão de crédito, hipótese conhecida como chargeback. Defende que a recorrida é operadora de cartão de crédito, portanto responsável pela higidez das informações que administra e pela autorização conferida, devendo arcar com o prejuízo.
+Contudo, na realidade a requerida não é operadora de cartão de crédito, mas, sim, credenciadora, pois fornece a máquina de cartão de crédito, meio que capta, transmite e liquida as transações entre os emissores de cartões e seus consumidores.
+Além disso, evidencia-se a existência de previsão expressa no contrato firmado entre as partes no sentido de que poderia ser cancelada a operação quando ocorresse chargeback, o que se revela suficiente para afastar o pleito da exordial, não havendo, portanto, como a requerida ser responsabilizada pelas fraudes ocorridas. RECURSO DESPROVIDO." (fl. 408)
+Opostos embargos de declaração, foram rejeitados (fls. 431-435).
+Em suas razões recursais, aponta a parte recorrente ofensa ao disposto noart. 1022, II, do CPC, bem como ao art. 489, § 1º, IV, do CPC.
+Sustenta, em síntese: (a) nulidade do acórdão recorrido, pois, não obstante a oposição de embargos de declaração, remanesceria omissão acerca do ônus da prova referente às compras fraudulentas que geraram o "chargeback".
+Contrarrazões ao recurso especial às fls. 462-479.
+Crivo positivo de admissibilidade na origem (fls. 484-486).
+É o relatório.
+DECIDO.
+2. A irresignação não merece prosperar.
+No caso, verifica-se que o eg. Tribunal de origem concluiu que o estorno do valor referente à transação questionada decorre de"chargeback", com menção a suamodalidade específica (evento 15 - plan 3), relacionada à fraude no pagamento.
+Na ocasião, restou assentado que a facilidade na comprovação da fraude pelo consumidor, para obtenção do estorno, decorre da autorregulaçãosobre osprocedimentos e processos necessários à contestação de despesas por desacordo comercial.
+Nesse sentido, colaciona-se o trecho pertinente:
+"Logo, ocorrendo o "chargeback", como no caso (evento 15- PLAN3), e constatando-se previsão contratual expressa no sentido de em caso de cancelamento da transação a recorrida deixaria de realizar o pagamento, não há falar em culpa da credenciadora por ter autorizado a compra, tampouco há falar que seria responsável pelas informações que administra, sequer que decorreria do risco da atividade desenvolvida pela apelada.
+Não é demais salientar que, malgrado o contrato em comento seja de adesão, a recorrente teve prévio acesso ao teor do pacto e livremente a este aderiu, de molde que na hipótese prepondera o princípio da autonomia de vontade. Vale salientar que a apelante poderia procurar outra empresa que melhor se enquadrasse nos seus interesses caso discordasse de alguma previsão contratual.
+Chamo a atenção, por oportuno, que sequer questiona a apelante na exordial as cláusulas acima referidas que versam sobre a hipótese do denominado "chargeback", tampouco pede o seu afastamento.
+Outrossim, assinalo que as transações foram canceladas pelas operadoras dos cartões em face das reclamações realizadas pelos titulares dos cartões, os quais não reconheceram as compras mencionadas na exordial. Logo, tenho que cabia à apelante adotar meios mais eficazes deprecaução, no intuito de evitar possíveis fraudes. Portanto, não prospera o pedido de pagamento dos estornos realizados, eis que não constato a responsabilidade da apelada no caso em comento." (fls. 405-406)
+Como se vê, o eg. Tribunal de origem pressupõe a fonte contratual como origem direta da facilidade do direito de prova da suposta fraude que acarretou o estorno em favor do consumidor. A adoção do referido entendimento afasta, por suposto, a tese sustentada pelo recorrente, no sentido da necessidade de comprovação exauriente da fraude, para obtenção do direito ao estorno; não havendo falar-se, pois, em omissão.
+Ressalta-se que nos termos do artigo 1.022 do CPC, cabem embargos de declaração contra decisão judicial para esclarecer obscuridade ou eliminar contradição, corrigir erro material e/ou suprir omissão de ponto sobre o qual deveria ter se pronunciado o julgador, aí incluídas as condutas descritas no § 1º do artigo 489 do novel codex, caracterizadoras de carência de fundamentação válida. Nada obstante, não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso integrativo, como almeja a parte recorrente.
+Ademais, o julgador não é obrigado a discorrer sobre todos os argumentos levantados pelas partes, mas sim decidir a contento, nos limites da lide que lhe foi proposta, fundamentando o seu entendimento de acordo com o seu livre convencimento, baseado nos aspectos pertinentes à hipótese sub judice e com a legislação que entender aplicável ao caso concreto.
+Confira-se os arestos:
+TRIBUTÁRIO. ALEGAÇÃO DE VIOLAÇÃO DO ART. 535 DO CPC/1973.
+INEXISTÊNCIA. PENHORA. POSSIBILIDADE DE LIBERAÇÃO. DECISÃO DE ORIGEM QUE ENTENDEU PELA LIBERAÇÃO DA PENHORA. DECISÃO EM DISSONÂNCIA COM O ENTENDIMENTO DESTA CORTE. PARCELAMENTO DO CRÉDITO TRIBUTÁRIO.
+SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO. SUSPENSÃO DOS ATOS EXECUTÓRIOS. SUSPENSÃO DA EXECUÇÃO FISCAL NO ESTADO EM QUE SE ENCONTRA.
+I - Inicialmente, observo inexistente a alegada violação do art. 535 do CPC, pois a prestação jurisdicional foi dada na medida da pretensão deduzida, conforme se depreende da análise do acórdão recorrido.
+II - Nos termos de jurisprudência pacífica do STJ, "o magistrado não é obrigado a responder todas as alegações das partes se já tiver encontrado motivo suficiente para fundamentar a decisão, nem é obrigado a ater-se aos fundamentos por elas indicados" (REsp 684.311/RS, Rel. Min. Castro Meira, Segunda Turma, julgado em 4.4.2006, DJ 18.4.2006, p. 191), como ocorreu na hipótese ora em apreço. III - Discute-se nos autos a possibilidade de liberação da penhora nos casos de adesão a programa de parcelamento dos débitos tributários executados.
+(..)
+VIII - Agravo interno improvido.
+(AgInt no REsp 1610353/PE, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/08/2018, DJe 14/08/2018)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. INTEMPESTIVIDADE. OMISSÃO AFASTADA.
+REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
+I - Nos termos do art. 619 do CPP, serão cabíveis embargos declaratórios quando houver ambiguidade, obscuridade, contradição ou omissão no julgado. Podem também ser admitidos para a correção de eventual erro material, consoante entendimento preconizado pela doutrina e jurisprudência. Não constituem, portanto, recurso de revisão.
+II - "De rigor o não conhecimento do recurso ordinário em mandado de segurança no âmbito criminal interposto após o prazo de 15 (quinze) dias corridos" (AgRg no RMS n. 56.455/SP, Sexta Turma, Relª. Min.ª Maria Thereza de Assis Moura, DJe de 15/05/2018).
+III - "É intempestivo o agravo regimental interposto fora do prazo de 5 dias corridos, nos termos dos arts. 39 da Lei 8.038/90 e 258, caput, do RISTJ" (AgRg no AREsp n. 1.384.609/RS, Sexta Turma, Rel.
+Min. Nefi Cordeiro, DJe de 03/05/2019).
+IV - O julgador não é obrigado a se manifestar sobre todas as teses expostas no recurso, ainda que para fins de prequestionamento, desde que demonstre os fundamentos e os motivos totalmente suficientes que justificaram suas razões de decidir. Precedentes.
+Embargos de declaração rejeitados.
+(EDcl no AgRg no RMS 59.570/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/05/2019, DJe 22/05/2019)
+3. Ante o exposto, nego provimento ao recurso especial.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. PROCESSO CIVIL. ARTS. 489, § 1º, IV, e 1022, II, DO CPC. CONTRATO DE CREDENCIAMENTO AO SISTEMA DE PAGAMENTO GETNET. "CHARGEBACK". COMPRA FRAUDULENTA. COMPROVAÇÃO EXAUSTIVA DA FRAUDE. DESNECESSIDADE. FACILIDADE NA PRODUÇÃO DA PROVA. AUTORREGULAÇÃO DO SERVIÇO DE CONTESTAÇÃO DE DESPESA POR DESACORDO COMERCIAL. CONTRATO ESTABELECIDO ENTRE AS PARTES. FACILITAÇÃO DA PROVA PELO CONSUMIDOR. AUTONOMIA DA VONTADE. ARGUMENTO QUE AFASTA, POR SUPOSTO, A NECESSIDADE DE COMPROVAÇÃO EXAUSTIVA DO DIREITO ALEGADO PARA FIM DE ESTORNO. OMISSÃO NÃO EVIDENCIADA. RECURSO ESPECIAL NÃOPROVIMENTO.
+1. Não há falar-se em omissão ou decisão não fundamentada se o Tribunal de origem explicita os fundamentos necessários e suficientes para a conclusão alcançada, capazes de infirmar a tese sustentada pelo recorrente. No caso,o Tribunal de origem pressupõe a fonte contratual como origem direta da facilidade do direito de prova da suposta fraude que acarretou o estorno em favor do consumidor. A adoção do referido entendimento afasta, por suposto, a tese sustentadapelo recorrente, no sentido da necessidade de comprovação exauriente da fraude; não havendo falar-se, pois, em omissão.
+2. Recurso especial não provido.
