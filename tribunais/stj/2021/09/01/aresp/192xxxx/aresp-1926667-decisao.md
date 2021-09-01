@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de agravo manejado por ANA MARIA DE ALMEIDA MARANGONI, contra decisão quenão admitiu recurso especial, este interposto com fundamento no art. 105,III, "a" e "c", da CF, desafiando acórdão proferido pelo Tribunal RegionalFederal da 3ª Região, assim ementado (fl. 207):
+PREVIDENCIÁRIO. APOSENTADORIA POR IDADE RURAL. TRABALHADORA RURAL. INÍCIO DE PROVA MATERIAL. PROVA TESTEMUNHAL. RESP 1.354.908. REQUISITOSNÃO PREENCHIDOS. PEDIDO SUBSIDIÁRIO. PROCESSO EXTINTO SEMRESOLUÇÃO DE MÉRITO QUANTO AO PEDIDO DE APOSENTADORIA PORINVALIDEZ. AUSÊNCIA DE REQUERIMENTO ESPECÍFICO. HONORÁRIOSADVOCATÍCIOS.
+- À concessão de aposentadoria por idade ao rurícola, exige-se: a comprovação da idade mínima e o desenvolvimento de atividade rural no período imediatamente anterior ao requerimento ou à aquisição da idade (REsp Repetitivo n. 1.354.908).
+- A comprovação de atividade rural deve ser feita por meio de início de prova material corroborado por robusta prova testemunhal (Súmula n. 149 do STJ e Recursos Especiais Repetitivos n. 1.348.633 e 1.321.493).
+- Em relação às contribuições previdenciárias, é assente o entendimento de serem desnecessárias, sendo suficiente a comprovação do efetivo exercício de atividade no meio rural. Precedentes do STJ.
+- Conjunto probatório insuficiente à comprovação do período de atividade rural, mormente no período imediatamente anterior ao implemento do requisito etário. Benefício indevido.
+- Configurada a falta de interesse processual, impõe-se a extinção do processo, sem resolução do mérito, sem resolução do mérito, com base no artigo 485, VI e § 3º, do CPC, em relação ao pedido de concessão de aposentadoria por invalidez.
+- Fica mantida a condenação da parte autora a pagar custas processuais e honorários de advogado, arbitrados em R$ 1.200,00 (um mil e duzentos reais), já majorados em razão da fase recursal, conforme critérios do artigo 85, §§ 1º e 11, do CPC, suspensa, porém, a exigibilidade, na forma do artigo 98, § 3º, do mesmo estatuto processual, por tratar-se de beneficiária da justiça gratuita.- Apelação desprovida.
+Opostos embargos de declaração, foram rejeitados (fls. 225/229).
+Nas razões do apelo especial, aponta a parterecorrente, além de divergênciajurisprudencial, violação aoart. 497da Lei 8.213/91, afirmando que "foram acostadas ao presente feito provas materiais suficientes à comprovação da atividade rural desenvolvida" (fl. 244).
+Aduz que,"ainda que não comprovada a condição de segurada especial e o labor no campo, no momento em que completou a idade mínima para se aposentar por idade rural, é devida a averbação do período de labor nas lides rurais de 1970 a 1993" (fl. 244).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não comporta acolhida.
+Com efeito, o labor campesino, para fins de percepção deaposentadoria rural por idade, deve ser demonstrado por início de provamaterial e ampliado por prova testemunhal, ainda que de maneiradescontínua, no período imediatamente anterior ao requerimento, pelonúmero de meses idêntico à carência (AgRg no REsp 1.309.591/SP, Rel.Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 05/06/2012,DJe 29/06/2012).
+Nesse diapasão, são considerados, como início de provamaterial,documentos de registros civis que apontem o efetivo exercício de labor nomeio rural, em nome de outros membros da família, inclusive cônjuge ougenitor, que o qualificam como lavrador, desde que acompanhados de robustaprova testemunhal (AgRg no AREsp 188.059/MG, Rel. Ministro HermanBenjamin, DJe 11/09/2012).
+Entretanto, na espécie, o Tribunal de origem, com base no conjuntoprobatório dos autos, concluiu que as testemunhas não foram capazes de corroborar o início de prova material juntados aos autos, de forma que não restou comprovado o preenchimento dos requisitos necessários necessários à concessão do benefício pleiteado.É o que se infere dos seguintes trechos extraídos do acórdãorecorrido (fl. 232):
+Frise-se que nos documentos apresentados, a requerente limita seu trabalho rural até o ano de 1993, quando sofreu um AVC, o que foi corroborado pela prova testemunhal que confirmou o exercício de atividade rural pela autora apenas até determinado ano.
+Ou seja, muito antes do implemento do requisito etário, a autora já havia abandonado o labor rural.
+Nesse contexto,a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em sede de recurso especial, a teor do óbice previsto na Súmula 7/STJ.
+Nesse sentido, anote-se o seguinte precedente:
+PREVIDENCIÁRIO. APOSENTADORIA RURAL. INÍCIO DE PROVA MATERIAL NÃO CORROBORADA POR PROVA TESTEMUNHAL. PRETENSÃO DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1. Não pode ser avaliada nesta Corte a alegação de suficiência de provas testemunhais, que serviriam de apoio ao início de prova documental apresentada nos autos, para fins de comprovação do labor rural.
+2. O Tribunal de origem, com amparo nos elementos de convicção dos autos, decidiu que os depoimentos colhidos se mostraram inconsistentes, inaptos a corroborar com o acervo probatório apresentado, que objetivou comprovar o trabalho rurícola.
+3. No caso dos autos, a prova testemunhal não robustece a prova material. Entender de modo diverso do consignado pelo Tribunal a quo exige o reexame de matéria fático-probatória, o que é vedado pela Súmula 7 do STJ.
+4. Quanto à interposição pela alínea "c", este Tribunal tem entendimento no sentido de que a incidência da Súmula 7 desta Corte impede o exame de dissídio jurisprudencial, uma vez que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+Agravo regimental improvido.
+(AgRg no AREsp 451.375/PR, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 18/02/2014, DJe 24/02/2014)
+De outro lado, quanto à averbação do período de labor nas lides rurais de 1970 a 1993, o Tribunal a quodecidiu nos seguintes termos (fl. 232)
+Nas razões deste recurso a parte autora inova na sua pretensão requerendo o reconhecimento do período rural laborado de 1970 a 1993, para fins de averbação.
+Por tratar-se de inovação em momento inoportuno, a questão nem sequer mereceria ser apreciada.
+No presente caso, o recurso especial não impugnou esse fundamento basilar que ampara o acórdão recorrido, esbarrando, pois, no obstáculo da Súmula 283/STF, que assim dispõe: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".A respeito do tema:AgInt no REsp 1711262/SE, Rel. Ministro Gurgel de Faria, Primeira Turma, DJe 17/02/2021; AgInt no AREsp 1679006/SP, Rel. Ministro Raul Araújo, Quarta Turma, DJe 23/02/2021.
+ANTE O EXPOSTO, nego provimento ao presente agravo.
+Publique-se.
