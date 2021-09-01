@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de embargos de divergência (e-STJ fls. 1.727/1.738) opostos ao acórdão da Terceira Turmaassim ementado (e-STJ fl. 1.718):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO RESCISÓRIA. ALTERAÇÃO SUBSTANCIAL DA JURISPRUDÊNCIA. MANEJO DE RESCISÓRIA PARA ADEQUAÇÃO DO JULGADO. DESCABIMENTO. SÚMULA Nº 343 DO STF, POR ANALOGIA. ACÓRDÃO RECORRIDO EM CONSONÂNCIA COM O ENTENDIM ENTO DESTA CORTE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. É inviável a propositura de ação rescisória para fins de adequação do entendimento, acobertado pelo manto da coisa julgada, a posterior alteração jurisprudencial. 3. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+4. Agravo interno não provido.
+Sustenta a embargante divergência entre o julgado recorrido e o aresto da Quarta Turma, proferido no julgamento do REsp n. 986.229/RS, que possui a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. OMISSÃO. AÇÃO RESCISÓRIA. ALEGAÇÃO DE VULNERAÇÃO AO ART. 3º DA LC 108/2001. AUXÍLIO CESTA-ALIMENTAÇÃO. NATUREZA INDENIZATÓRIA. MATÉRIA PACIFICADA NO ÂMBITO DESTE TRIBUNAL. PROVIMENTO.
+1. A jurisprudência desta Corte firmou entendimento de que, a despeito das disposições da Súmula 343/STF, não é admissível que prevaleça entendimento contrário à jurisprudência pacificada das Cortes de controle, ainda que consolidada posteriormente à prolação da sentença rescindenda.
+2. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao agravo interno e dar provimento ao recurso especial.
+(Relator Ministro LÁZARO GUIMARÃES - Desembargador convocado do TRF 5ª Região -, QUARTA TURMA, julgado em 20/3/2018, DJe 4/4/2018.)
+Argumenta que a alteração jurisprudencialposterior à manifestação transitada em julgadoautoriza o cabimento da ação rescisória para modificar a coisa julgada referente ao auxílio-cesta-alimentação.
+Requer a reforma do acórdão recorrido, julgando-se procedenteseu recurso especial (e-STJ fl. 1.737).
+É o relatório.
+Decido.
+Inicialmente, registre-se que os embargos de divergência são o recurso voltado para a uniformização de entendimento entre órgãos fracionários distintos do STJ. Dessa forma, tendo a jurisprudência se uniformizado no mesmo sentido do acórdão embargado, tornam-se incabíveis os embargos de divergência (Súmula n. 168/STJ).
+No presente caso, constata-se que a matéria consolidou-se no âmbito do STJ tal como no aresto recorrido. Com efeito, analisando hipótese semelhante à destes autos, a Corte Especial do STJ decidiu ser inviável a ação rescisória com o objetivo de desconstituir a coisa julgada,a fim de supostamente adequá-la à nova orientação jurisprudencial sobre a inclusão doauxílio-cesta-alimentaçãonos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada. A propósito:
+PROCESSUAL CIVIL. ALTERAÇÃO SUBSTANCIAL DA JURISPRUDÊNCIA. MANEJO DE RESCISÓRIA PARA ADEQUAÇÃO DO JULGADO. DESCABIMENTO. SÚMULA 343/STF.
+1. O acórdão embargado firmou entendimento de que, exercido o direito de rescindir eventual provimento judicial dentro do prazo legal, não seria legítima a manutenção de entendimento contrário à jurisprudência das Cortes Superiores, ainda que o alinhamento favorável ao autor da rescisória tenha ocorrido após a prolação da decisão que se pretende desconstituir, entendimento que destoa de manifestação já exarada pela Corte Especial do STJ de que a alteração jurisprudencial posterior ao trânsito em julgado da decisão rescindenda não autoriza o manejo da excepcional ação.
+2. O STF, em repercussão geral, no julgamento do RE 590.809/RS, Rel. Min. Marco Aurélio, reiterou a inviabilidade de propositura de ação rescisória para fins de adequação do entendimento acobertado pelo manto da coisa julgada a posterior alteração jurisprudencial, o que reforça a atualidade e o vigor dos preceitos da Súmula 343 daquela Corte Suprema - "Não cabe ação rescisória por ofensa a literal disposição de lei, quando a decisão rescindenda se tiver baseado em texto legal de interpretação controvertida nos tribunais".
+3. No caso dos autos, a sentença objeto da rescisória transitou em julgado em 2010, garantindo ao embargante "repassar (..) a verba denominada "auxílio cesta-alimentação" sempre que prevista nas Convenções coletivas de Trabalho firmadas pela categoria dos bancários", entendimento que encontrava amparo na jurisprudência desta Corte à época.
+4. O entendimento até então predominante somente alcançou alteração em dezembro de 2011, quando a Segunda Seção passou a reconhecer que o auxílio-alimentação não teria extensão aos inativos, sendo legalmente vedado a pretensão de que as entidades de previdência privada arcassem com a diferença decorrente dos aumentos concedidos aos ativos a referido título. REsp 1.023.053/RS, Rel. Ministra MARIA ISABEL GALLOTTI, SEGUNDA SEÇÃO, julgado em 23/11/2011, DJe 16/12/2011.
+5. Portanto, a alteração jurisprudencial quanto à inviabilidade de inclusão do auxílio cesta-alimentação nos proventos de complementação de aposentadoria pagos por entidade fechada de previdência privada posterior à manifestação transitada em julgado não autoriza o manejo da ação rescisória, conforme já destacado.
+Embargos de divergência providos.
+(EAREsp 397.326/MG, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 19/10/2016, DJe 26/10/2016.)
+Essa orientação foi reiterada pela Corte Especial em julgado posterior ao paradigma apontado:
+AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO. AÇÃO RESCISÓRIA. ALTERAÇÃO DE JURISPRUDÊNCIA. DESCABIMENTO. SÚMULA 343/STF. TEMA 136/STF. VIOLAÇÃO DO PRINCÍPIO DA INAFASTABILIDADE DA JURISDIÇÃO. AUSÊNCIA DE REPERCUSSÃO GERAL.
+1. No julgamento do RE 590.809, sob a sistemática da repercussão geral, o STF reiterou entendimento de que a alteração de jurisprudência não autoriza o manejo de ação rescisória (Tema 136/STF).
+(..)
+(AgInt no RE nos EDcl na AR 4.564/DF, Relator Ministro HUMBERTO MARTINS, CORTE ESPECIAL, julgado em 29/6/2018, DJe 3/8/2018.)
+No acórdão embargado, entendeu a Terceira Turma pelo descabimento da ação rescisória (e-STJ fls. 1.718/1.724).
+Evidencia-se, desse modo, que o decidido no Juízoembargado corresponde à jurisprudência atual do STJ. Confira-se:
+AGRAVO INTERNO. EMBARGOS DE DIVERGÊNCIA. AÇÃO RESCISÓRIA. APLICAÇÃO DA SÚMULA 343 DO STF. IMPOSSIBILIDADE DE UTILIZAÇÃO DA RESCISÓRIA PARA ADEQUAÇÃO À ALTERAÇÃO JURISPRUDENCIAL POSTERIOR AO ACÓRDÃO RESCINDENDO.
+1. "A pacificação da jurisprudência desta Corte em sentido contrário e posteriormente ao acórdão rescindendo não afasta a aplicação do enunciado n. 343 da Súmula do STF." (REsp 736.650/MT, Corte Especial, Relator Ministro Antonio Carlos Ferreira, julgado em 20/8/2014, DJe 1/9/2014).
+2. É notória a ausência de similitude fático-processual, pois enquanto o acórdão embargado registrou que foi seguida a orientação jurisprudencial pacífica da época, somente tendo ocorrido a alteração da jurisprudência nesta Corte Superior posteriormente, o julgado paradigma consignou que a decisão rescindenda era contrária à jurisprudência do STJ muito antes do seu trânsito em julgado.
+3. Agravo interno não provido.
+(AgInt nos EDv nos EREsp 1.746.944/RS, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 11/12/2019, DJe 16/12/2019.)
+Diante do exposto, INDEFIRO LIMINARMENTE os presentes embargos.
+Publique-se e intimem-se
