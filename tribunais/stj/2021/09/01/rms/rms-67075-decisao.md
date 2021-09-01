@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por FABIANO BARCELOS COSTA, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o que recurso em mandado de segurança foi protocolada na origem sem o comprovante de pagamento das custas, apesar de presente a guia de recolhimento. Constatou-se que o documento juntados às fls. 84 não se trata de comprovante de pagamento válido, uma vez que não contém a numeração completa do código de barras.
+Assim, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, a parte juntou documentos referentes ao recolhimento do preparo feito na origem, sem realizar a complementação do preparo, devido em dobro, nos termos do §4º do art. 1.007 do CPC/15.
+Frize-se, ainda, que o comprovante de pagamento anexo às fls. 111 encontra-se ilegível, impossibilitando a verificação da regularidade do preparo.
+O Superior Tribunal de Justiça consolidou o entendimento no sentido de que os recursos dirigidos a esta Corte Superior devem estar acompanhados das guias de recolhimento e dos respectivos comprovantes de pagamento, de forma visível e legível, no momento de sua interposição, sob pena de deserção.
+De fato, não se conhece do recurso em mandado de segurança instruído com o comprovante de pagamento das custas processuais ilegível, pois impossível aferir a regularidade do preparo.
+Nesse sentido, confiram-se os seguintes precedentes: AgInt nos EDcl no AREsp 1.615.901/PB, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/10/2020; AgInt no AREsp 1.673.277/PE, relatora Ministra Nacy Andrighi, Terceira Turma, DJe de 17/9/2020.
+Assim, incide na espécie o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Por fim, o presente recurso foi interposto em face de decisão monocrática, hipótese que não se ajusta àquela prevista no art. 105, II, "b", da Constituição Federal.
+Cabia à parte a impugnação mediante agravo interno, que não foi manejado no caso, assim como requer o art. 10, § 1º, da Lei n. 12.016/2009.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. RECURSO INTERPOSTO CONTRA DECISÃO MONOCRÁTICA. NÃO ESGOTAMENTO DA INSTÂNCIA ORDINÁRIA. NÃO CABIMENTO.
+1. A jurisprudência da Corte é pacífica no sentido de que não cabe recurso ordinário contra decisão monocrática do relator que julga o mandado de segurança na origem, sob pena de indevida supressão de instância, sendo inaplicável o princípio da fungibilidade. Precedentes: AgInt no RMS 48.738/CE, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 15/5/2019; AgInt no RMS 56.419/MA, Rel. Min. Francisco Falcão, Segunda Turma, DJe 17/8/2018; RMS 41.409/BA, Rel. Min. Og Fernandes, Segunda Turma, DJe 20/10/2017; AgInt no Ag 1.433.554/RR, Rel. Min. Napoleão Nunes Maria Filho, Primeira Turma, DJe 8/3/2017; AgInt no RMS 56.080/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe 23/5/2018.
+2. Agravo interno não provido.
+(AgInt nos EDcl no RMS 60.891/MA, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/03/2020, DJe 25/03/2020)
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
