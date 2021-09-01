@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, com pedido liminar, suscitado por CONSAVEL ADMINISTRADORA DE CONSÓRCIOS LTDA. - FALIDAem face do JUÍZO DA 1ª VARA EMPRESARIAL DE BELO HORIZONTE - MGe do JUÍZO DA 17ª VARA DO TRABALHO DE BELO HORIZONTE - MG.
+Ação em trâmite perante o juízo cível: falênciada suscitante.
+Ação em trâmite perante o juízo trabalhista: reclamatória n. 0074400-57.2002.5.03.0017, movida por WAGNER JÚLIO DA ROCHA.
+Conflito de competência: alega, em síntese, que o juízo universal da falência é o único competente para dispor sobre questões relativas a seu patrimônio. Afirma que, diversamente do que entendeu o juízo trabalhista, não pode ser considerada sucessora das empresas UNIAUTO/LIDERAUTO. Pleiteia, em caráter liminar, a suspensão do trâmite da ação trabalhista.
+Às fls. 978/986 e-STJ, acrescenta que a inclusão do nome da suscitante no Banco Nacional de Devedores Trabalhistas (BNDT),pelo juízo trabalhista, causa transtornos graves, notadamente "por constranger o direito creditício e a consecução de novos negócios especialmente por parte de seus sócios" (e-STJ, fl. 980).
+RELATADO O PROCESSO, DECIDE-SE.
+O STJ assentou o entendimento de que, tanto após o deferimento do pedido de recuperação judicial, quanto após a decretação da quebra, o destino do patrimônio da sociedade não pode ser afetado por decisões prolatadas por juízo diverso do que é competente para a recuperação ou falência. Nesse sentido: CC 79170/SP, Primeira Seção, DJe 19/09/2008; e CC 106.768/RJ, Segunda Seção, DJe 02/10/2009.
+Todavia, no particular, não é possível identificar a prática de atos, pelo juízo trabalhista, que tenham incidido sobre o patrimônio da falida, que não estejam acobertados pela preclusão, sendo importante ressaltar que ocadastramento do nome da suscitante junto ao Banco Nacional de Devedores Trabalhistas não representaato de constrição ou excussão patrimonial.
+Assim, diante da ausência de elementos que permitam concluir que o patrimônio dasuscitantetenha sido, de fato, indevidamente atingido por decisões proferidas pelo juízo trabalhista, ônus que incumbia à suscitante, o presente incidente não comporta acolhida.
+Com efeito, "a jurisprudência do Superior Tribunal de Justiça é firme no sentido de que se o patrimônio da empresa recuperanda não foi objeto de constrição no Juízo trabalhista, não é possível cogitar de competência do juízo recuperacional para execução do crédito reclamado" (AgRg no CC 139.585/RJ, SEGUNDA SEÇÃO, DJe 30/10/2017).
+Forte nessas razões, NÃO CONHEÇO do conflito de competência.
+Comunique-se ao juízo trabalhista suscitado. Intime-se.
