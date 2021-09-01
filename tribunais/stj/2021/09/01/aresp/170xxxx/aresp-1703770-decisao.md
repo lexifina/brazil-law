@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo nos próprios autos (art. 544, CPC/1973) interposto contra decisão que inadmitiu o recurso especial por incidência das Súmulas n. 5,7 e 211 do STJ e 282e 356do STF (e-STJ fls. 267/272).
+O acórdão recorrido está assim ementado (e-STJ fls. 162/163):
+EMBARGOS À EXECUÇÃO. CONTRATOS BANCÁRIOS - EMPRÉSTIMOS CONSIGNADOS. TÍTULO EXECUTIVO. CDC. JUROS REMUNERATÓRIOS - CAPITALIZAÇÃO.
+1. No julgamento do REsp nº 1.291.575/PR, submetido ao rito previsto pelo artigo 543-C do Código de Processo Civil, a Segunda Seção do Superior Tribunal de Justiça decidiu que "A Cédula de Crédito Bancário é título executivo extrajudicial, representativo de operações de crédito de qualquer natureza, circunstância que autoriza sua emissão para documentar a abertura de crédito em conta corrente, nas modalidades de crédito rotativo ou cheque especial. O título de crédito deve vir acompanhado de claro demonstrativo acerca dos valores utilizados pelo cliente, trazendo o diploma legal, de maneira taxativa, a relação de exigências que o credor deverá cumprir, de modo a conferir liquidez e exequibilidade à Cédula (art. 28, § 2º, incisos I e II, da Lei n.
+10.931/2004)".
+2. Se os documentos que instruem a inicial da execução são suficientemente claros quanto ao valor do débito principal, aos encargos aplicáveis e à evolução do débito que resultou no valor executado, estão preenchidos os requisitos de liquidez e certeza do título previsto no art. 28 da Lei nº 10.931/04.
+3. Se as questões tratadas foram exclusivamente de direito, e há nos autos elementos probatórios suficientes para formar o convencimento do juiz, é desnecessária a produção de prova documental ou maior dilação probatória, sem, com isto, ficar configurado cerceamento de defesa, tampouco prejuízo à parte que teve seu pedido de apresentação de extratos bancários indeferido.
+4. Aplica-se o Código de Defesa do Consumidor às instituições financeiras. Súmula 297 do STJ.
+5. A inversão do ônus da prova, como mecanismo de facilitação de defesa, não é automática e subordina-se ao critério do juiz, quando for verossímil a alegação ou quando o postulante for hipossuficiente (art. 6º, VIIIdo CDC).
+6. O Superior Tribunal de Justiça sumulou o tema, sob o número 381, deixando claro que, não obstante a aplicação do Código de Defesa do Consumidor, "Nos contratos bancários, é vedado ao julgador conhecer, de ofício, da abusividade das cláusulas".
+7. Segundo entendimento atualmente adotado no Superior Tribunal de Justiça, é legítima a capitalização composta dos juros em periodicidade inferior à anual nos contratos de mútuo comum com fulcro na Medida Provisória n.º 1.963-17/2000, reeditada sob o n.º 2.170-36/2001, desde que firmada a avença sob a vigência do novo regulamento (31/03/2000) e expressamente prevista a prática remuneratória nesta sistemática, bem como sua periodicidade.
+8. "A capitalização dos juros em periodicidade inferior à anual deve vir pactuada de forma expressa e clara. A previsão no contrato bancário de taxa de juros anual superior ao duodécuplo da mensal é suficiente para permitir a cobrança da taxa efetiva anual contratada" (Tema STJ nº 247).
+Os embargos de declaração foram rejeitados (e-STJ fls. 187/189).
+No especial (e-STJ fls. 196/208), fundamentado no art. 105, III, "a", da CF, o recorrente alegou ofensa aos arts. 783 e 803, I, do CPC/2015, sustentando a nulidade da execução por ausência de liquidez e de certeza do título.
+Indicoucontrariedade aos arts. 6º, III, 51 e 54 do CDC, aduzindoviolação do dever de informação quanto à capitalização dejuros e nulidade dascláusulas de juros de acerto e de seguro de crédito.
+No agravo (e-STJ fls. 281/292), afirma a presença de todos os requisitos de admissibilidade do especial.
+É o relatório.
+Decido.
+Extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 165/168):
+Se os documentos que instruem a inicial da execução são suficientemente claros quanto ao valor do débito principal, aos encargos aplicáveis e à evolução do débito que resultou no valor executado, estão preenchidos os requisitos de liquidez e certeza do título previsto no art. 28 da Lei nº 10.931/04.
+Tal é o caso dos autos, onde foram acostados nas ações em análise os contratos bancários pertinentes, planilhas de débitos e cálculos da evolução da dívida, onde consta quais encargos foram cobrados (ev. 1 da ação de execução correlata).
+Assim, descabe acolher a preliminar argüida.
+(..)
+Existe expressa previsão de capitalização mensal quando a taxa anual é mais de doze vezes superior à taxa mensal, pois, conforme pontuou o STJ em sede de recurso repetitivo, ficou devidamente explicitada a presença de capitalização de juros no contrato, não havendo abusividade a ser afastada.
+Na prática, isso significa que bancos não precisam incluir nos contratos cláusula com redação que expresse o termo "capitalização de juros" para cobrar a taxa efetiva contratada, bastando explicitar com clareza as taxas que estão sendo cobradas. A cláusula com o termo "capitalização de juros" será necessária apenas para que, após vencida a prestação, sem o devido pagamento, o valor dos juros não pagos seja incorporado ao capital para o efeito de incidência de novos juros.
+Tal é o caso dos autos (taxa de juros efetiva mensal de 1,65% e anual de 21,699%; e taxa de juros efetiva mensal de 1,55% e anual de 20,27%). Portanto, cabível a capitalização de juros no período de normalidade contratual quando expressamente pactuado, devendo ser mantida a sentença.
+Para acolher as razões recursais e reconhecer a nulidade da execuçãobem como das disposiçõespactuadas, seria imprescindível a reavaliação das cláusulas contratuais e o reexame do conjunto fático-probatório dos autos, o que é inviável em recurso especial, haja vista o teor das Súmulas n. 5 e 7 do STJ.
+Diante do exposto, NEGO PROVIMENTO ao agravo.
+Nos termos do art. 85, § 11, do CPC/2015, majoro em 20%(vinte por cento)o valor atualizado dos honorários advocatícios arbitrados na origem em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.Deferida a gratuidade da justiça na instância de origem, deve ser observada a regra do § 3º do art. 98 do CPC/2015.
+Publique-se e intimem-se.
