@@ -1,0 +1,39 @@
+DECISÃO
+Em virtude das razões apresentadas no agravo interno de fls. 470/491, reconsidero a decisão de fls. 465/468e passo a novo exame do agravo em recurso especial interposto porCONDOMINIO RESIDENCIAL PORTINARI,contra decisão que negou seguimento a recurso especial fundamentadona(s) alínea(s) "a" e"c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 17/11/2020.
+Concluso ao gabinete em: 11/06/2021.
+Ação: monitória, ajuizada pelo agravante, em face de MARIO ALBERTO DE ALBUQUERQUE.
+Sentença: julgou improcedentes os embargos monitórios e constituiu de pleno direito o título executivo judicial.
+Acórdão: deu provimento à apelação interposta pelo agravado, para julgarprocedentes os embargos monitórios, a fim de declarar a prescrição da pretensão monitória, nos termos da seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. SENTENÇA DE IMPROCEDÊNCIA DOS EMBARGOS. PRELIMINAR. GRATUIDADE JUDICIÁRIA. PESSOA NATURAL. PRESUNÇÃO DE VERACIDADE DA DECLARAÇÃO. DEFERIMENTO. PRELIMINAR. AUSÊNCIA DE INTERESSE PROCESSUAL. MANEJO DA AÇÃO ADEQUADA. REJEIÇÃO.
+- Em se tratando de requerimento formulado por pessoa natural, a declaração de necessidade faz presumir, ainda que relativamente, os elementos necessários à concessão do benefício. E mais, a circunstância de o beneficiário ser assistido por advogado particular não impede, por si só, o deferimento do pleito.
+- O exame do interesse processual passa pela verificação do binômio necessidade mais adequação, ou seja, a prestação jurisdicional deve ser um meio necessário para a solução da lide e o instrumento utilizado deve ser adequado.
+- No tocante à presente demanda, entendo que a parte autora da ação monitória se valeu da via adequada para a cobrança do título de evento nº2787257, já que este não ostenta a natureza de título executivo judicial.
+PREJUDICIAL DE MÉRITO. DÍVIDA LÍQUIDA MATERIALIZADA EM TÍTULO PARTICULAR. AJUIZAMENTO DE CAUTELAR INOMINADA. INTERRUPÇÃO DA PRESCRIÇÃO. PRAZO PRESCRICIONAL DE CINCO ANOS. TERMO INICIAL. ÚLTIMO ATO PRATICADO NO PROCESSO JUDICIAL. ART. 206, §5º, I C/C ART. 2.028, NCC/02.
+PRESCRIÇÃO CONFIGURADA. PROVIMENTO DO APELO.
+- Por ser matéria de ordem pública, a prescrição deve ser conhecida e declarada em qualquer fase do processo, ainda que de ofício.
+- A ação monitória fundada em cobrança de débitos condominiais encontra-se subordinada ao prazo prescricional de cinco anos estabelecido pelo art. 206, §5º, inciso I, do Código Civil. O prazo aplicável ao caso em tela é quinquenal, ainda que o vencimento do título e o seu protesto tenham ocorrido quando ainda em vigor o Código Civil de 1916.
+- O termo inicial de contagem da prescrição quinquenal, na presente hipótese, deve levar em conta os efeitos decorrentes da transição legislativa para o Novo Código Civil.
+- O protesto cambial, realizado em 02.05.2002 (evento nº2787257 - pág. 05), não interrompeu o prazo prescricional, pois não ostentava essa prorrogativa (S. 153, STF). No entanto, a tese de prescrição merece acolhimento.
+- É cediço que o Código Civil de 1916 arrolou, como causa interruptiva da prescrição, a citação ordenada em processo judicial, mesmo que por juízo incompetente. Considerando que a Cautelar Inominada foi interposta em 08.05.2002, data à qual retroagiu o marco interruptivo da prescrição, nos moldes do artigo 219, §1º, do CPC/1973, bem como que o referido pleito transitou em julgado em 20.07.2006 (evento nº2787269), é desta data, na qual praticado o último ato do processo, que deve ser contado o quinquênio prescricional, em consonância com o artigo 173 do CC/1916 (artigo 203, NCC/02) - Em conclusão, a leitura conjunta das duas constatações acima expostas nos leva à seguinte sequência de eventos: (a) o prazo prescricional vintenário começou a correr, originalmente, em 14.03.2002 (evento nº2787257 - pág. 04), data de vencimento do título; (b) o referido prazo não chegou a sofrer interrupção em 02.05.2002 (evento nº2787257 - pág. 05), pois o protesto cambial não tinha o condão de interromper a prescrição (Súmula 15 3, STF); (c) quando da entrada em vigor do Novo Código Civil, o prazo prescricional sofreu redução para cinco anos (artigo 206, §5º, I, NCC/02) (d) o ajuizamento da ação cautelar gerou a interrupçãoda prescrição, que retroagiu à data de 08.05.2002; (e) com o trânsito em julgado da ação cautelar, em 20.07.2006, restou extinta a causa interruptiva, dando-se início, a partir daí, à nova contagem do prazo prescricional, agora quinquenal.
+- Prescrição configurada e apelo provido.
+Embargos de declaração: opostos pelo agravante, foram primeiramente acolhidos apenas para sanar contradição, sem modificação do julgado, e, posteriormente, rejeitados.
+Recurso especial: alega violação dos art. 172, V, do CC/16, bem como dissídio jurisprudencial. Sustenta que: i) se a cautelar, que tinha como autor o agravado, interrompeu o prazo prescricional, a principal também tinha o condão de interromper, posto inexistir à época um limite legal para as interrupções do prazo prescricional; ii) a manifestação do credor, de forma defensiva, nas ações impugnativas promovidas pelo devedor, afasta a sua inércia no recebimento do crédito, além de evidenciar que o devedor tinha inequívoca ciência do interesse do credor em receber aquilo que lhe é devido.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da ausência de prequestionamento
+O acórdão recorrido, apesar da interposição de embargos de declaração, não decidiu acerca dos argumentos invocados pelo agravante em seu recurso especial quanto aoart. 172, V, do CC/16, o que inviabiliza o seu julgamento. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da divergência jurisprudencial
+Entre os acórdãos trazidos à colação, não há o necessário cotejo analítico nem a comprovação da similitude fática, elementos indispensáveis à demonstração da divergência. Assim, a análise da existência do dissídio é inviável, porque foram descumpridos os arts.1.029, §1º, do CPC/2015, e 255, § 1º, do RISTJ.
+A ausência de prequestionamento do tema que se supõe divergente, qual seja, causa interruptiva da prescrição prevista no art. 172, V, do CC/16, impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República. Nesse sentido: AgRg no AREsp 353947/SC, 3ª Turma, DJe de 31/03/2014 e EDcl no Ag 1162355/MG, 4ª Turma, DJe de 03/09/2013.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa(e-STJ fl. 202) para 13%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. AÇÃO MONITÓRIA.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. FALTA DE PREQUESTIONAMENTO DO TEMA. INVIABILIDADE.
+1. Ação monitória.
+2. A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais,não obstante a interposição de embargos de declaração,impede o conhecimento do recurso especial.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A ausência de prequestionamento do tema que se supõe divergente impede o conhecimento da insurgência veiculada pela alínea "c" do art. 105, III, da Constituição da República.
+5. Decisão de e-STJ fls. 465/468 reconsiderada. Agravo conhecido. Recurso especial não conhecido.
