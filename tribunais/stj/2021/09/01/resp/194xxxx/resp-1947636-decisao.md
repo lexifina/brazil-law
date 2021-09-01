@@ -1,0 +1,5 @@
+DECISÃO
+Cuida-se de recurso especial interposto pelaCAIXA ECONÔMICA FEDERAL, fundamentado naalínea"a" do permissivo constitucional, no qual se discute, entre outras matérias, a legitimidade passiva para a causa da recorrente.
+Intimado para se manifestar, o Parquet Federal assevera que "interpôs recurso especial antes da oposição do embargos declaratórios da CEF. Todavia, ao que parece, o reclamo ministerial ficou esquecido após o julgamento dos aclaratórios. Depreende-se que não foi aberta vista para contrarrazões ao seu recurso e sequer houve análise da sua admissibilidade na origem, mesmo havendo manifestação expressa nesse sentido. Ainda a corroborar tal conclusão, notamos que, nessa Instância Superior, o processo foi cadastrado e autuado, apontando como recorrente apenas a CEF." (e-STJ Fl. 2.060)
+Forte nessas razões, e afim de evitar futura nulidade, determino a devolução dos autos ao Tribunal de origem, com a devida baixa nesta Corte, para que seja oportunizada à CEF contrarrazoar o recurso especial do Parquet Federal, bem como seja procedido o juízo de admissibilidade prévio.
+Publique-se. Intimem-se.
