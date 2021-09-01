@@ -1,0 +1,79 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin e Jorge Mussi votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+EMENTA
+PENAL E PROCESSUAL PENAL. AÇÃO PENAL ORIGINÁRIA. OPERAÇÃO FAROESTE. DESIGNAÇÃO DE MAGISTRADO PARA PRESIDIR AUDIÊNCIA POR VIDEOCONFERÊNCIA. PRINCÍPIOS CONSTITUCIONAIS DA RAZOÁVEL DURAÇÃO DO PROCESSO E DA ECONOMICIDADE. INEXIGIBILIDADE DE EXPEDIÇÃO DE CARTA ROGATÓRIA OU DE ORDEM. JUIZ INSTRUTOR COMO AUTÊNTICO LONGA MANUS DO MINISTRO RELATOR. INEXIGIBILIDADE DE EQUIVALÊNCIA DE INSTÂNCIAS. AUSÊNCIA DE CONVOCAÇÃO POR MEIO DE OFÍCIO DO PRESIDENTE DO STJ. PUBLICAÇÃO DA DESIGNAÇÃO SOMENTE HORAS ANTES DO ATO. AUSÊNCIA DE PREJUÍZO À DEFESA. AUSÊNCIA DE NULIDADE.
+1. Trata-se de agravo regimentalinterposto por José Olegário Monção Caldasimpugnando a designação de magistrado de primeiro grau para presidir audiências de instrução.
+2. O acusado alega, resumidamente, que: i) os magistrados designados não detêm competência jurisdicional no local do cumprimento do ato; ii) por serem juízes de primeira instância, não poderiam presidir atos envolvendo a imputação da prática de crimes envolvendo Desembargadores; iii) não consta convocação formal dos magistrados no site do Superior Tribunal de Justiça; e iv) o despacho foi publicado poucas horas antes da realização da audiência.
+3. Em razão do cenário de pandemia mundial de covid-19, as audiências foram realizadas por videoconferência, situação em que os participantes conectam-se ao ato processual das mais diversas localidades, sem necessidade de expedição de cartas rogatórias ou de ordem.
+4. Seguindo a lógica apresentada pelo recorrente, seria necessário designar audiências autônomas, com magistrados diferentes, para cada comarca em que houvesse uma testemunha residente, mesmo que todos os atos fossem realizados telepresencialmente do prédio do STJ em Brasília, o que representa clara afronta aos princípios constitucionais da razoável duração do processo (art. 5º, LXXVIII) e da economicidade (art. 70).
+5. O art. 3º, III, da Lei n. 8.038/1990 autoriza a convocação de "juízes de varas criminais da Justiça dos Estados" e o art. 21-A do RISTJ exige a convocação de magistrado vitalício, requisitos preenchidos no presente caso.
+6. O chamado "Juiz Instrutor" atua como autêntico longa manus do Ministro relator, operando sob sua supervisão. Precedente.
+7. Não há obrigatoriedade de convocação de magistrado de instância igual ou superior àquela dos denunciados.
+8. Os magistrados foram convocados apenas para a condução de audiências expressamente indicadas no despacho, mas não para atuarem em caráter de permanência no Gabinete do Ministro relator, o que atende ao princípio da razoável duração do processo.
+9. Passados vários meses das audiências, não consta dos autos alegação de nenhum motivo que aponte para a suspeição ou o impedimento dos juízes.
+10. Não havendo prejuízo à defesa, não há igualmente que se falar em nulidade (art. 563 do CPP).
+11. Agravo regimental a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo regimentalinterposto por JOSÉ OLEGÁRIO MONÇÃO CALDAS (e-STJ fls. 21.139-21.149) impugnando despacho que designou magistrados de primeiro grau para presidirem audiências de instrução (e-STJfls. 19.543-19.548).
+O recorrente afirma que "os dignos Magistrados convocados pela Relatoria não detinham competência jurisdicional no local do cumprimento do ato, até porque nenhuma testemunha arrolada possuía domicílio no Estado de Pernambuco".
+Pondera, também, que "não poderia ser designado, como Juiz Instrutor, Magistrado de primeiro grau em ação penal contra Desembargador ou Ministro de Tribunal Superior, a revelar mais esta nulidade".
+Por fim, aduz que a ausência de prazo razoável entre a delegação de poderes e o ato processual impediu a defesa técnica de "levantar informações sobre eventual suspeição, impedimento ou incompatibilidade"e que "não houve publicação pela Presidência deste Tribunal do Magistrado indicado pela Douta Relatoria".
+Em suas contrarrazões, o Ministério Público Federal manifestou-se pelo desprovimento do agravo regimental, uma vez que a delegação de poderes possui respaldo legal e jurisprudencial e consiste em medida salutar para racionalização das forças dirigidas a" consecução da razoável duração do processo (e-STJfls. 24.280-24.287).
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AÇÃO PENAL ORIGINÁRIA. OPERAÇÃO FAROESTE. DESIGNAÇÃO DE MAGISTRADO PARA PRESIDIR AUDIÊNCIA POR VIDEOCONFERÊNCIA. PRINCÍPIOS CONSTITUCIONAIS DA RAZOÁVEL DURAÇÃO DO PROCESSO E DA ECONOMICIDADE. INEXIGIBILIDADE DE EXPEDIÇÃO DE CARTA ROGATÓRIA OU DE ORDEM. JUIZ INSTRUTOR COMO AUTÊNTICO LONGA MANUS DO MINISTRO RELATOR. INEXIGIBILIDADE DE EQUIVALÊNCIA DE INSTÂNCIAS. AUSÊNCIA DE CONVOCAÇÃO POR MEIO DE OFÍCIO DO PRESIDENTE DO STJ. PUBLICAÇÃO DA DESIGNAÇÃO SOMENTE HORAS ANTES DO ATO. AUSÊNCIA DE PREJUÍZO À DEFESA. AUSÊNCIA DE NULIDADE.
+1. Trata-se de agravo regimentalinterposto por José Olegário Monção Caldasimpugnando a designação de magistrado de primeiro grau para presidir audiências de instrução.
+2. O acusado alega, resumidamente, que: i) os magistrados designados não detêm competência jurisdicional no local do cumprimento do ato; ii) por serem juízes de primeira instância, não poderiam presidir atos envolvendo a imputação da prática de crimes envolvendo Desembargadores; iii) não consta convocação formal dos magistrados no site do Superior Tribunal de Justiça; e iv) o despacho foi publicado poucas horas antes da realização da audiência.
+3. Em razão do cenário de pandemia mundial de covid-19, as audiências foram realizadas por videoconferência, situação em que os participantes conectam-se ao ato processual das mais diversas localidades, sem necessidade de expedição de cartas rogatórias ou de ordem.
+4. Seguindo a lógica apresentada pelo recorrente, seria necessário designar audiências autônomas, com magistrados diferentes, para cada comarca em que houvesse uma testemunha residente, mesmo que todos os atos fossem realizados telepresencialmente do prédio do STJ em Brasília, o que representa clara afronta aos princípios constitucionais da razoável duração do processo (art. 5º, LXXVIII) e da economicidade (art. 70).
+5. O art. 3º, III, da Lei n. 8.038/1990 autoriza a convocação de "juízes de varas criminais da Justiça dos Estados" e o art. 21-A do RISTJ exige a convocação de magistrado vitalício, requisitos preenchidos no presente caso.
+6. O chamado "Juiz Instrutor" atua como autêntico longa manus do Ministro relator, operando sob sua supervisão. Precedente.
+7. Não há obrigatoriedade de convocação de magistrado de instância igual ou superior àquela dos denunciados.
+8. Os magistrados foram convocados apenas para a condução de audiências expressamente indicadas no despacho, mas não para atuarem em caráter de permanência no Gabinete do Ministro relator, o que atende ao princípio da razoável duração do processo.
+9. Passados vários meses das audiências, não consta dos autos alegação de nenhum motivo que aponte para a suspeição ou o impedimento dos juízes.
+10. Não havendo prejuízo à defesa, não há igualmente que se falar em nulidade (art. 563 do CPP).
+11. Agravo regimental a que se nega provimento.
+VOTO
+O agravante alega, resumidamente, que: i) os magistrados designados não detêm competência jurisdicional no local do cumprimento do ato; ii) por serem juízes de primeira instância, não poderiam presidir atos envolvendo a imputação da prática de crimes envolvendo Desembargadores; iii) não consta convocação formal dos magistrados no site do Superior Tribunal de Justiça; e iv) o despacho foi publicado poucas horas antes da realização da audiência.
+No despacho combatido (e-STJfls. 19.543-19.548), determinei:
+Para a realização da audiência designada para o dia 11.3.2021, nos termos do art. 3º, III, da Lei nº 8.038/90, delego a presidência do ato e a inquirição das testemunhas à Magistrada Ana Cristina de Freitas Mota, do Tribunal de Justiça de Pernambuco.
+Já para a realização da audiência designada para o dia 12.3.2021, caso necessária, delego a presidência do ato e a inquirição das testemunhas ao Magistrado Luiz Carlos Vieira de Figueiredo, do Tribunal de Justiça de Pernambuco.
+A respeito da convocação de magistrados para realização de atos de instrução, o art. 3º, III, da Lei n. 8.038/1990 determina:
+Art. 3º - Compete ao relator:
+ ..
+III - convocar desembargadores de Turmas Criminais dos Tribunais de Justiça ou dos Tribunais Regionais Federais, bem como juízes de varas criminais da Justiça dos Estados e da Justiça Federal, pelo prazo de 6 (seis) meses, prorrogável por igual período, até o máximo de 2 (dois) anos, para a realização do interrogatório e de outros atos da instrução, na sede do tribunal ou no local onde se deva produzir o ato.
+Regulamentando a previsão legal, o Regimento Interno do Superior Tribunal de Justiça prevê:
+Art. 21-A. O Presidente do Tribunal, por indicação do relator, poderá convocar magistrado vitalício para a realização de atos de instrução das sindicâncias, inquéritos, ações e demais procedimentos penais originários, na sede do STJ ou no local onde se deva produzir o ato, bem como definir os limites de sua atuação.
+Primeiramente, é necessário destacar a dificuldade atual de se definir o que os dispositivos normativos acima descrevem como o "local onde se deva produzir o ato", já que, em razão do cenário de pandemia mundial de covid-19, expressamente determinei a realização das audiências por videoconferência, situação em que os participantes conectam-se ao ato processualdas mais diversas localidades, alguns chegando a se conectar até mesmo do interior de seus veículos.
+Na presente instrução, as defesas dos acusados arrolaram mais de 200 testemunhas, residentes em 28 municípios espalhados pelos Estados da Bahia, Rio Grande do Sul, Paraná, São Paulo, Minas Gerais, Goiás, Tocantins, Sergipe, Alagoas e Piauí, além de Brasília e até no estrangeiro, mais especificamente em Guiné-Bissau. Apesar disso, esta inovação tecnológica - não existente à época em que as normas acimas foram editadas - possibilitou que participassem, da mesma assentada, pessoas residentes em diversos locais, sem que houvesse necessidade de expedição de cartas rogatórias ou cartas de ordem.
+Seguindo a lógica apresentada pelo recorrente, no entanto, seria necessário designar audiências autônomas, com magistrados diferentes, para cada comarca em que houvesse uma testemunha residente, mesmo que todos os atos fossem realizados telepresencialmentedo prédio do STJ em Brasília, o que representa clara afronta aos princípios constitucionais da razoável duração do processo (art. 5º, LXXVIII) e da economicidade (art. 70).
+Além desses benefícios, as audiências por videoconferência permitiram que as testemunhas fossem ouvidas das suas próprias residências, sem necessidade de deslocamento aos fóruns locais, medida salutar em época de pandemia.
+Nesse sentido, ao invocar ofensa aosart. 9º, § 1º, da Lei n. 8.038/1990 e225 do RISTJ, o agravante se equivoca, pois tais dispositivos regulamentam a prática de atos mediante expedição de cartas de ordem, o que - repita-se - não ocorreu no presente processo.
+Transcrevo as normas citadas:
+Lei nº 8.038/90:
+Art. 9º - A instrução obedecerá, no que couber, ao procedimento comum do Código de Processo Penal.
+§ 1º - O relator poderá delegar a realização do interrogatório ou de outro ato da instrução ao juiz ou membro de tribunal com competência territorial no local de cumprimento da carta de ordem.
+RISTJ:
+Art. 225. A instrução obedecerá, no que couber, ao procedimento comum do Código de Processo Penal.
+§ 1º O relator poderá delegar a realização do interrogatório ou de outro ato da instrução a Juiz ou membro de Tribunal do local de cumprimento da carta de ordem.
+Quanto à segunda alegação defensiva, não há obrigatoriedade de convocação de magistrado de instância igual ou superior àquela dos denunciados.
+Afinal, segundo o art. 3º, III, da Lei n. 8.038/1990, é possível convocar "juízes de varas criminais da Justiça dos Estados", requisito preenchido por este Relator.
+A seu turno, o art. 21-A do RISTJ autoriza a convocação de "magistrado" - termo que abrange juízes e desembargadores - com a única exigência de que ele seja vitalício, requisito também preenchido no presente caso.
+Além disso, ao praticar atos decisórios no processo, o chamado "Juiz Instrutor" atua como autêntico longa manus do Ministro relator, operando sob sua supervisão, entendimento que já foi expressamente albergado pelo STF:
+HABEAS CORPUS. DIREITO PENAL E PROCESSUAL PENAL. PRERROGATIVA DE FORO. CONEXÃO PROBATÓRIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL. INOCORRÊNCIA. ATOS INTERLOCUTÓRIOS. AUSÊNCIA DE DANO OU RISCO EFETIVO OU IMINENTE AO ESTADO DE LIBERDADE. INADEQUAÇÃO DA VIA ELEITA. JUIZ INSTRUTOR. VIOLAÇÃO AO PRINCÍPIO DO JUIZ NATURAL. INEXISTENTE. ORDEM DENEGADA.
+ ..
+3. O Juiz Instrutor atuante nos Tribunais Superiores, derivação expressa do art. 3º, III, da Lei 8.038/90, constitui longa manus do Relator e, nessa condição, atua sob sua constante supervisão. A delegação de atos de instrução, observadas as disposições legais e regimentais, consubstancia medida direcionada à racionalização das forças dirigidas à consecução da razoável duração do processo, sem que se subtraia dos membros do Tribunal a competência para processamento e julgamento das causas assim definidas pela Constituição.
+4. Ordem denegada.
+(HC 131.164, Rel. Min. EDSON FACHIN, PRIMEIRA TURMA, j. 24/5/2016).
+Nada obstante, os magistrados de primeira instância foram designados apenas para presidir audiências de oitiva de testemunhas, mas não para conduzir interrogatório de réu que ostente o cargo de Desembargador.
+Assim, mesmo sob esse aspecto, não há que se falar em equivalência de instâncias para a presidência dos atos instrutórios.
+No que tange à terceira alegação defensiva, os magistrados apontados na peça recursal foram convocados apenas para a condução de audiências expressamente indicadas no despacho, mas não para atuarem em caráter de permanência no Gabinete deste relator, situação regulamentada expressamente no RISTJ.
+A convocação dos magistrados para condução dos atos processuais específicos atendeu ao princípio da razoável duração do processo, na medida em que possibilitou a conclusão da oitiva das mais de 200 testemunhas arroladas pelos acusados em menor tempo possível.
+Conforme bem articulado pelo MPF (e-STJfls. 24.280-24.287):
+Ademais, embora não tenha havido convocação formal dos magistrados do TJPE para o ato instrutório realizado no dia 11/3/2021, na literalidade do art. 21-A do RISTJ, há se ponderar que isso foi adaptação necessária em face do cenário de pandemia mundial, mas que preservou a finalidade das normas regimentais e das disposições legais pertinentes, quais seja: a racionalização da instrução processual dos feitos penais de competência originária de Tribunal.
+Por fim, em relação à quarta alegação defensiva, ao sustentar a ilegalidade da designação com menos de 24 horas de antecedência do ato, o recorrente afirma que teve suprimido seu direito de arguir a suspeição, impedimento ou incompatibilidade dos magistrados. No entanto, passados vários meses das audiências, não consta dos autos alegação de nenhum motivo que aponte para a suspeição ou o impedimento dos juízes.
+Logo, não havendo prejuízo à defesa, não há igualmente que se falar em nulidade (art. 563 do CPP).
+Ante o exposto, nego provimento ao agravo regimental.
+É como voto.
