@@ -1,0 +1,26 @@
+VISTOS.
+Trata-se de recurso especial interposto por EMBRACON ADMINISTRADORA DE CONSORCIO LTDA, com fundamento no artigo 105, inciso III, alínea “a”, da Constituição Federal, contra o acórdão da Segunda Câmara de Direito Público e Coletivo, que restou assim ementado (id. 86975979):
+“REMESSA NECESSÁRIA E RECURSO DE APELAÇÃO – MANDADO DE SEGURANÇA – MULTA – PROCON – NULIDADE DA DECISÃO ADMINISTRATIVA – INOCORRÊNCIA – AUSÊNCIA DE VÍCIO – NÃO COMPARECIMENTO DO RECLAMADO À AUDIÊNCIA DESIGNADA NO ÓRGÃO DE DEFESA DO CONSUMIDOR – MULTA APLICADA PELO PROCON – CABIMENTO – DECISÃO ADMINISTRATIVA REGULARMENTE MOTIVADA COM SUBSUNÇÃO DA CONDUTA LESIVA AO CONSUMIDOR – VALOR DA MULTA APLICADA COM RAZOABILIDADE E PROPORCIONALIDADE – RECURSO DESPROVIDO.
+1. O PROCON, na condição de órgão integrante do Sistema Nacional de Defesa do Consumidor, é competente para receber reclamações dos consumidores, instaurar processo administrativo e aplicar as punições previstas no ordenamento jurídico.
+2. Diante do não comparecimento em audiência designada administrativamente, sem apresentação de justificativa pelo fornecedor, se mostra legítima a aplicação de multa pela PROCON, com fulcro no artigo 55, § 4o da Lei Federal no 8.078/90 e artigo 33, § 2o do Decreto Federal 2.181/97, não tendo que falar em ausência de motivação.
+3. Não há que se falar em nulidade da decisão administrativa, tampouco do procedimento que ensejou a aplicação da multa pelo PROCON, ante a observância dos preceitos legais, o respeito ao contraditório e a ampla defesa e a devida fundamentação da decisão.
+4. A sanção (multa) aplicada deve ser suficiente para coibir a conduta lesiva por parte da prestadora do serviço, ou seja, além de sua natureza sancionatória, deve desestimular, pelo menos sob o prisma econômico, a repetição da prática tida por ilegal. Observados esses critérios no caso concreto, afasta-se a pretensa desproporcionalidade da penalidade cominada. ”.
+Opostos embargos de declaração, estes foram rejeitados no acórdão de id 95126495.
+Nas razões recursais, alega o recorrente, em síntese, violação ao artigo 57 do CDC, ao fundamento de que “o acórdão diverge da situação apresentada, pois embora seja vedado ao Poder Judiciário apreciar mérito de processo administrativo, a redução de multa é perfeitamente possível quando o seu arbitramento acontecer de forma desarmoniosa aos princípios da razoabilidade e da proporcionalidade, porquanto o juízo valorativo insere-se na legalidade administrativa”.(sic)
+Recurso tempestivo e devidamente preparado, conforme certidões (ids. 96499499 e 96516460).
+Contrarrazões no id. 98728964.
+É o relatório.
+Decido.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione à questão discutida neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos no caso concreto, não incidindo, in casu, a previsão do Art. 1.030, I, “b”, II e III, do CPC/2015.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Reexame matéria fática. Súmula 7 do STJ.
+Nos termos do artigo 105, III, “a” e “c”, da Constituição Federal, a competência do Superior Tribunal de Justiça cinge-se à aplicação e à uniformização da interpretação das leis federais, não sendo possível, pois, o exame de matéria fático-probatória, ex vi Súmula 7/STJ.
+Nas razões recursais, alega o recorrente, em síntese, violação ao artigo 57 do CDC, ao fundamento de que “o acórdão diverge da situação apresentada, pois embora seja vedado ao Poder Judiciário apreciar mérito de processo administrativo, a redução de multa é perfeitamente possível quando o seu arbitramento acontecer de forma desarmoniosa aos princípios da razoabilidade e da proporcionalidade, porquanto o juízo valorativo insere-se na legalidade administrativa”.(sic.)
+Pois bem, sem maiores delongas, para rever o entendimento firmado no aresto recorrido sobre o ponto acima contestado é necessário o reexame dos fatos e provas dos autos, o que atrai o óbice sumular mencionado, senão vejamos:
+CONSUMIDOR. PRÁTICA ABUSIVA. CLÁUSULAS ABUSIVAS EM CONTRATO DE ADESÃO A CARTÃO DE CRÉDITO. MULTA ADMINISTRATIVA APLICADA PELO PROCON AO FORNECEDOR. INTERPRETAÇÃO DE CLÁUSULAS PARA FINS DE REDUÇÃO DA SANÇÃO. INVIABILIDADE. SÚMULA 5/STJ. REEXAME DE PROVAS. DESCABIMENTO. SÚMULA 7/STJ. CONTRATO DE DURAÇÃO. INCIDÊNCIA DO CDC E DE SUAS ALTERAÇÕES. (...) 6. A multa administrativa fixada pelo Procon é "graduada de acordo com a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor" (art. 57 do CDC). O reexame de sua proporcionalidade é vedado, em recurso especial, pela Súmula 7 do STJ. (...)” (STJ - REsp: 1539165 MG 2015/0146685-3, Relator: Ministro HUMBERTO MARTINS, Data de Julgamento: 23/08/2016, T2 - SEGUNDA TURMA, Data de Publicação: DJe 16/11/2016 RSTJ vol. 245 p. 295)
+Dessa forma, sendo insuscetível de revisão o entendimento do órgão fracionário deste Tribunal por demandar o reexame do conjunto fático-probatório dos autos, vedada está a análise da referida questão pelo STJ, o que obsta a admissão recursal.
+Ante o exposto, em face do óbice da Súmula 7 do STJ, nego seguimento ao recurso.
+Publique-se. Intimem-se.
+Cumpra-se.
+Desembargadora MARIA APARECIDA RIBEIRO
+Vice-Presidente do Tribunal de Justiça
