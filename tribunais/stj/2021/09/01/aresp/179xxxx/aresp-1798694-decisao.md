@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo de decisão que inadmitiu recurso especial, fundado no art. 105, III, "a", da Constituição Federal, interposto pela UNIÃO, contra v. acórdão do Eg. Tribunal Regional Federal da 4ª Região, assim ementado:
+PROCESSUAL CIVIL. RESPONSABILIDADE POR DANO PROCESSUAL.
+RESISTÊNCIA INJUSTIFICADA AO ANDAMENTO DO FEITO. (fl. 26)
+Os embargos declaratórios foram parcialmente acolhidos, com a seguinte ementa:
+EMBARGOS DE DECLARAÇÃO. OMISSÃO. PRÉ-QUESTIONAMENTO.1. São cabíveis embargos de declaração quando houver no acórdãoobscuridade ou contradição ou quando este for omisso em relação a algumponto sobre o qual o Tribunal devia se pronunciar e não o fez (CPC, art. 1.022).Ou, ainda, por construção jurisprudencial, para fins de pré-questionamento,como indicam as Súmulas 356 do c. STF e a 98 do e. STJ.2. No caso concreto, o voto condutor do acórdão não se manifestou,de fato, sobre a imposição de honorários advocatícios, questão aventada,porém, somente nos pedidos formulados pela União na peça recursal. Dequalquer forma, a insurgência não prospera, na medida em que o art. 81 doCPC, ao tratar da litigância de má-fé, determina que o litigante deverá arcarcom os honorários advocatícios e com todas as despesas que efetuou a partecontrária.
+3. Quanto ao restante, o ponto restou fundamentadamente decidido;eventual insurgência há de ser veiculada na via apropriada, não cabendorediscutir a questão em sede de embargos de declaração.
+4. Quanto ao pré-questionamento, a teor do artigo 1.025 do Códigode Processo Civil, é suficiente a mera suscitação da matéria para se obter taldesiderato, não havendo necessidade de expressa referência aos dispositivoslegais.
+Nas razões do recurso especial, a recorrente aponta ofensa aos artigos 6º,79,80, V, 85, § 1º e 1.022, I e II, do NCPC;3º da Lei 9.984/2000; 4º, II, "a" e "b" e5º, I e II, do Decreto-Lei200/1967, sustentando, em síntese, além de negativa de prestação jurisdicional, anecessidade de afastamento da multa por litigância de má-fé, bem como da sua condenação ao pagamento dehonorários advocatícios em favor da recorrida.
+É o relatório.
+Passo a decidir.
+O recursoprocede, em parte.
+Inicialmente, não prospera a alegada ofensa ao art. 1.022do Código de Processo Civil, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+É indevido conjecturar-se a existência de omissão, obscuridade ou contradição no julgado apenas porque decidido em desconformidade com os interesses da parte. No mesmo sentido podem ser mencionados os seguintes julgados: AgRg no REsp 1.170.313/RS, Rel. Min. LAURITA VAZ, DJe de 12/4/2010; REsp 494.372/MG, Rel. Min. ALDIR PASSARINHO JUNIOR, DJe de 29/3/2010, AgRg nos EDcl no AgRg no REsp 996.222/RS, Rel. Min. CELSO LIMONGI (Desembargador convocado do TJ/SP), DJe de 3/11/2009.
+Por outro lado,aaplicação da penalidade por litigância de má-fé exige a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo ou de causar prejuízo à parte contrária, o que não foi demonstrado.
+Com efeito, "a utilização dos recursos previstos em lei não se caracteriza como litigância de má-fé, hipótese em que deverá ser demonstrado o dolo da parte recorrente em obstar o normal trâmite do processo e o prejuízo que a parte contrária houver suportado em decorrência do ato doloso" (REsp 1.204.918/RS, Rel. Ministro ARNALDO ESTEVES LIMA, Primeira Turma, DJe de 1.10.2010".
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. DECISÃO DA PRESIDÊNCIA. RECONSIDERAÇÃO. AÇÃO DECLARATÓRIA DE NULIDADE DE EMPRÉSTIMO CONSIGNADO CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS.OFENSA AOS ARTS. 373, I, 489 E 1.022 DO CPC/2015. SÚMULA 284/STF.LITIGÂNCIA DE MÁ-FÉ. NÃO CONFIGURAÇÃO. AGRAVO INTERNO PROVIDO PARA CONHECER DO AGRAVO E DAR PARCIAL PROVIMENTO AO RECURSO ESPECIAL.
+(..)
+3. A aplicação da penalidade por litigância de má-fé exige a comprovação do dolo da parte, ou seja, da intenção de obstrução do trâmite regular do processo ou de causar prejuízo à parte contrária, o que não foi demonstrado na hipótese em exame. Precedentes.
+4. Agravo interno provido para conhecer do agravo e dar parcial provimento ao recurso especial, a fim de excluir a multa por litigância de má-fé(AgInt no AREsp 1749872/MS, Rel. MinistroRAUL ARAÚJO, QUARTA TURMA, DJe 18.6.2021)
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC/73).SUBSCRIÇÃO DE AÇÕES.DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DA SEGUNDA SEÇÃO QUE DEU PARCIAL PROVIMENTO AO RECURSO ESPECIAL INTERPOSTO PELA PARTE ADVERSA PARA AFASTAR A PENA POR LITIGÂNCIA DE MÁ-FÉ. INSURGÊNCIA DA AUTORA.
+1. O fato de o litigante ter feito uso de recurso previsto em lei não autoriza a imposição de pena por litigância de má-fé, que somente deve ser reconhecida após a demonstração do dolo da parte, inocorrente na hipótese.
+2. Agravo regimental desprovido(AgRg no AREsp 328.749/SC, Rel. MinistroMARCO BUZZI, QUARTA TURMA, DJe 13.12.2017)
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COMPENSAÇÃO POR DANOS MATERIAIS E MORAIS. DIVERGÊNCIA QUANTO ÀS REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO. EXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 315/STJ. NÃO CUMPRIMENTO DOS REQUISITOS DO ART. 1043, §4º, DO CPC PARA INTERPOSIÇÃO DOS EMBARGOS. DIREITO DE RECORRER. PENAS PROCESSUAIS.IMPOSSIBILIDADE.
+(..)
+4. A interposição de recursos cabíveis não implica em litigância de má-fé nem ato atentatório à dignidade da justiça, ainda que com argumentos reiteradamente refutados pelo Tribunal de origem ou sem alegação de fundamento novo. Precedentes.
+5. Agravo interno não provido(AgInt nos EDcl nos EDcl no AgInt nos EDcl nos EAREsp 884.708/SP, Rel. MinistraNANCY ANDRIGHI, SEGUNDA SEÇÃO, DJe 20.5.2021)
+Nessa linha, conclui-se peloafastamento da penalidade por litigância de má-fé.
+Quanto à verba honorária, a Corte de origem a fixou com fundamento da aplicação da multa de litigância de má-fé, assim, afasta a referida penalidade, consequentemente, deve ser excluída a condenação da agravante ao pagamento dos honorários advocatícios.
+Diante do exposto, nos termos do art. 253, parágrafo único, II, c, do RISTJ, conheço do agravo para dar parcial provimento ao recurso especial, a fim de afastar a multa por litigância de má-fé, bem como a condenação do recorrente ao pagamento de honorários advocatícios.
+Publique-se.
