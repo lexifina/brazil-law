@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de agravo interposto por CÉCILIA NARESSI CAMILOcontra decisão que não se admitiu recurso especial fundado na(s) alínea(s) "a" e "c" do permissivo constitucionale que desafia acórdão assim ementado (e-STJ fl. 834):
+ADMINISTRATIVO. AGRAVO DE INSTRUMENTO. SFH. AÇÃO INDENIZATÓRIA. VÍCIOS CONSTRUTIVOS NO IMÓVEL. COMPETÊNCIA DO JUIZADO ESPECIAL FEDERAL. VALOR DA CAUSA.
+Sendo o valor da causa, individualmente considerado, inferior a 60 salários mínimos, a competência para processar e julgar a ação é do Juizado Especial Federal.
+No especial obstaculizado, aora agravante apontou violação dos arts. 50 e 113 do Código de Processo Civil de 1973, além de divergência jurisprudencial defendendo, primeiramente,a competência da Justiça Estadual para processar e julgar a presente demanda.
+Para tanto, aduziu que o acórdão recorrido contraria o entendimento firmado por esta Corte de Justiça no REsp n. 1.091.393/SC, representativo da controvérsia, porquanto a Caixa Econômica Federal não demonstrou, no caso concreto, o comprometimento de recursos do FCVS.
+Alegou, ainda, aimpossibilidade dealteração do rito processual para o Juizado Especial Federal, afirmando que as instâncias ordinárias não levaram em consideração o verdadeiro valor econômica da demanda.
+Juízo negativode admissibilidade às e-STJ fls. 1070/1073.
+Às e-STJ fls. 1155/1156, determinei a devolução dos autos ao Tribunal de origem, na forma dos arts. 1.039 e1.040, do CPC/2015, em virtudede o Supremo Tribunal Federal, em 05/10/2018, por maioria de votos, nos autos do RE 827.996/DF, ter reconhecidoa existência de repercussão geral da matéria relativa a possível interesse jurídico da Caixa Econômica Federal nas ações que envolvem seguros de mútuo habitacional no âmbito do Sistema Financeiro de Habitação, a fim de atrair a competência da Justiça Federal para processar e julgar os feitos dessa natureza.
+Após o julgamento do tema, a Corte a quo negou seguimento ao recurso, com fulcro no art. 1.030, I, "b", do CPC/2015, no que tange à matéria envolvida no Tema 1011/STF e Temas 50 e 51/STJ e não o admitiu quanto à fixação da competência dos juizados especiais.
+Em relação ao primeiro tópico, a ora agravante interpôs agravo interno, na forma do art. 1.030, § 2º, do CPC/2015, tendo a Corte de origemtornado sem efeito a decisão de admissibilidade anterior, para nãoadmitir o recurso em face da superveniência de sentença no processo principal, jugando "prejudicados os agravos" (e-STJ fls. 1263/1267).
+Contra a aludida decisão, a ora agravante manejou agravo em recurso especial, reiterando a tese de quecompete àJustiça Estadualo exame das causas que versem sobre o Sistema Financeiro de Habitação, conforme decidido no REsp n. 1.091.393/SC, representativo da controvérsia.
+Afirmou, ainda,que "osJuizados Especiais Federais são incompetentes para julgar causas que demandem perícias complexas ou onerosas que não se enquadrem no conceito de exame técnico (art. 12 da Lei nº 10.259/2001)", entendendo que, no caso, a complexidade é evidente, havendo violação direta ao disposto no artigo 3.º da Lei 9.099/95 do Juizado Especial Civil.
+Defendeu que "houve afronta ao artigo 946, do Código de Processo Civil, o qual esclarece que a existência de sentença, ou a fixação da competência pela Justiça Federal, não é causa de perda do objeto do Agravo de Instrumento (e no caso dos autos, do Recurso Especial), isto porque especifica que o mencionado recurso deverá ser julgado ANTES da Apelação".
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+Na hipótese, não obstante tenha sido o especial interposto na vigência do CPC/1973, o agravo em recurso especial foi manejado já sob a égide do novo
+CPC.
+Dito isso,impende destacar que não deve ser conhecido o agravo que não ataque especificamente todos os fundamentos da decisão agravada, tanto nos termos do art. 544, § 4º, I, do CPC/1973, quanto nos moldes dos arts. 932, III, do CPC/2015 e 253, parágrafo único, I, do RISTJ. Confira-se o teor dos dispositivos citados:
+Art. 544. Não admitido o recurso extraordinário ou o recurso especial, caberá agravo nos próprios autos, no prazo de 10 (dez) dias.
+ ..
+§ 4º No Supremo Tribunal Federal e no Superior Tribunal de Justiça, o julgamento do agravo obedecerá ao disposto no respectivo regimento interno, podendo o relator:
+I - não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada. (Grifos acrescidos)
+Art. 932. Incumbe ao relator:
+ ..
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida; (Grifos acrescidos)
+Art. 253. O agravo interposto de decisão que não admitiu o recurso especial obedecerá, no Tribunal de origem, às normas da legislação processual vigente. (Redação dada pela Emenda Regimental n. 16, de 2014)
+Parágrafo único. Distribuído o agravo e ouvido, se necessário, o Ministério Público no prazo de cinco dias, o relator poderá: (Redação dada pela Emenda Regimental n. 16, de 2014) 120 Superior Tribunal de Justiça
+I - não conhecer do agravo inadmissível, prejudicado ou daquele que não tenha impugnado especificamente todos os fundamentos da decisão recorrida; (Redação dada pela Emenda Regimental n. 22, de 2016) (Grifos acrescidos)
+A Corte Especial do Superior Tribunal de Justiça, no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 701.404/SC, 746775/PR e 831.326/SP, decidiu pela necessidade de o agravante impugnar especificamente todos os fundamentos adotados pela decisão a quo, autônomos ou não, para justificar a inadmissão do recurso especial, sob pena de seu recurso não ser conhecido.
+In casu, da análise dos autos, verifico a parte agravante deixou de impugnar específica e adequadamente o(s) seguinte(s) fundamento(s): "Encontra-se sedimentado nos Tribunais Superiores o entendimento no sentido de que resta prejudicado o apelo excepcional interposto contra acórdão que examinou agravo de instrumento, quando se verifica a prolação de sentença de mérito no processo principal".
+Destaco, por oportuno, não ser suficiente a apresentação de razões genéricas sobre o óbice apontado pela decisão de inadmissibilidade, sendo exigível do agravante o efetivo ataque aos seus fundamentos.
+A propósito, impende salientar que, inadmitido o recurso especial com base na jurisprudência desta Corte, caberia ao agravante apontar precedentes contemporâneos ou supervenientes aos referidos na decisão impugnada, procedendo ao devido cotejo analítico, a fim de demonstrar que a orientação deste Tribunal Superior não se firmou no sentido dadecisão recorrida, o que não se viu na espécie.
+Outrossim, é incabível o exame de tese e dispositivo de lei federalnão expostosno especial e invocados apenas em recurso posterior, por configurar indevida inovação recursal.
+Diante do exposto, nos termos do art. 253, parágrafo único, I, do RISTJ, NÃO CONHEÇO do agravo em recurso especial.
+Publique-se. Intimem-se.
