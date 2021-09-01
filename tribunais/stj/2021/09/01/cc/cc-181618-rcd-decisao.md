@@ -1,0 +1,34 @@
+DECISÃO
+Cuida-se  de  pedido  de  reconsideração  elaborado  por  VIAÇÃO  NORDESTE  LTDA  no  conflito  positivo  de  competência,  com  pedido  liminar,  em  que  é  suscitante  e  suscitados  o  JUÍZO  DA  6ª  VARA  DO  TRABALHO  DE  NATAL  -  RN  e  o  JUÍZO  DA  24ª  VARA  CÍVEL  DE  NATAL  -  RN.
+A  decisão  anterior  foi  proferida  nos  seguintes  termos:
+Cuida-se  de  conflito  positivo  de  competência,  com  pedido  liminar,  em  que  é  suscitante  VIAÇÃO  NORDESTE  LTDA  e  suscitados  o  JUÍZO  DA  6ª  VARA  DO  TRABALHO  DE  NATAL  -  RN  e  o  JUÍZO  DA  24ª  VARA  CÍVEL  DE  NATAL  -  RN.
+Ação  em  trâmite  perante  o  juízo  cível:  recuperação  judicial  da  suscitante.
+Ação  em  trâmite  perante  o  juízo  trabalhista:  reclamatória,  ajuizada  pelo  MINISTÉRIO  PÚBLICO  DO  TRABALHO  e  OUTROS.
+Conflito  de  competência:  afirma  que  o  juízo  trabalhista  suscitado  "está  se  perpetrando  o  bloqueio  dos  ativos  da  empresa,  como  se  pode  ver  das  telas  dos  bloqueios  retiradas  do  processo  e  extrato  comprovando  as  incessantes  constrições  bancárias"  (e-  STJ  fl.  5).  Alega  que  a  prática  de  atos  constritivos  em  suas  contas  bancárias  "vai  de  encontro  a  determinação  da  suspensão  das  ações  e  execuções  do  Juízo  da  Recuperação  -  24ª  Vara  Cível  da  Comarca  de  Natal/RN  da  competência  universal  para  deliberar  sobre  o  patrimônio  e  os  ativos  da  recuperanda,  que  é  da  vara  especializada"  (e-STJ  fl.  5).  Aduz  que  o  juízo  trabalhista,  mesmo  cientificado  acerca  da  recuperação  judicial,  manteve  o  prosseguimento  do  mandado  de  busca  e  apreensão  de  ônibus  de  sua  propriedade.
+Pleiteia  a  concessão  de  medida  liminar,  a  fim  de  que  seja  tornada  sem  efeito  a  ordem  de  busca  e  apreensão  do  ônibus  placas  NNM3099"  (e-STJ  fl.  14).
+RELATADO  O  PROCESSO,  DECIDO.
+O  STJ  assentou  o  entendimento  de  que,  tanto  após  o  deferimento  do  pedido  de  recuperação  judicial,  quanto  após  a  decretação  da  quebra,  o  destino  do  patrimônio  da  sociedade  não  pode  ser  afetado  por  decisões  prolatadas  por  juízo  diverso  do  que  é  competente  para  a  recuperação  ou  falência.  Nesse  sentido:  CC  79170/SP,  Primeira  Seção,  DJe  19/09/2008;  e  CC  106.768/RJ,  Segunda  Seção,  DJe  02/10/2009.
+Todavia,  na  espécie,  verifica-se  que  o  veículo  em  questão  não  integrava  o  acervo  patrimonial  da  suscitante  quando  deferido  o  processamento  de  sua  recuperação  judicial,  conforme  consta  à  fl.  26  (e-STJ)  dos  autos.
+Por  outro  lado,  não  há  qualquer  demonstração  acerca  da  alegação  de  bloqueio  de  ativos  da  recuperanda  pelo  juízo  trabalhista,  ônus  que  incumbia  à  suscitante.
+Forte  nessas  razões,  NÃO  CONHEÇO  do  conflito  de  competência.
+Comunique-se  ao  juízo  trabalhista  suscitado.  Intime-se.
+Em  suas  razões,  a  requerente  afirma  que  "ao  ingressar  com  o  presente  Conflito  de  Competência,  não  possuía  toda  a  documentação  pertinente  para  demonstrar,  de  forma  eficaz,  o  seu  direito,  pelo  que  acredita  ter  prejudicado  o  r.  julgado",  razão  pela  qual  afirma  que  o  veículo  é  e  sempre  foi  de  sua  propriedade  "conforme  Instrumento  de  Compra  e  Venda  anexo,  firmado  no  ano  de  2013,  e  não  trazido  aos  autos  anteriormente,  pois  estava  em  acervo  de  difícil  busca".
+Desse  modo,  pleiteia  a  reconsideração  da  decisão  para  que,  uma  vez  "demonstrado  que  o  ônibus  desde  2013  integra  o  rol  de  bens  da  empresa  recuperanda",  seja  determinada  a  imediata  suspensão  das  decisões  e  atos  de  busca  e  apreensão  do  bem.
+É  O  RELATÓRIO.  DECIDE-SE.
+A  decisão  que  não  conheceu  do  conflito  de  competência  foi  assim  fundamentada:
+Todavia,  na  espécie,  verifica-se  que  o  veículo  em  questão  não  integrava  o  acervo  patrimonial  da  suscitante  quando  deferido  o  processamento  de  sua  recuperação  judicial,  conforme  consta  à  fl.  26  (e-STJ)  dos  autos.
+Com  efeito,  foram  insertos  neste  conflito  de  competência  apenas  a  decisão  do  juízo  suscitado  que  ordenou  a  devolução  do  bem  (e-STJ  fls.  23-27),  a  decisão  do  juízo  suscitado  que  deferiu  o  processamento  da  recuperação  judicial  (e-STJ,  fls.  28-32),  de  forma  que  não  está  caracterizado  o  conflito  positivo  de  competência  do  art.  105,  I,  d,  da  CF.
+Assim,  a  juntada  do contrato de  compra  e  venda  do  bem,  planilha  unilateral  de  pagamentos,  DUT  do  veículo  em  nome  de  terceiro,  ata  de  audiência  e  os  documentos  posteriormente  anexados,  (e-STJ  fls.  40-52)  não  suprem  tal  vício.
+Com  efeito,  competia  à  parte  suscitante  instruir  adequadamente  o  presente  conflito  no  momento  de  seu  ajuizamento,  de  forma  que  fosse  claramente  demonstrado  que  o  juízo  suscitado  promovera  atos  de  excussão,  apesar  de  ter  conhecimento  do  deferimento  da  recuperação  judicial.
+Assim,  evidenciada  a  inexistência  de  decisões  conflitantes  exaradas  pelos  juízos  suscitados  tratando  da  mesma  questão  jurídica,  não  resta  comprovada  nenhuma  das  hipóteses  de  conflito  de  competência  previstas  no  art.  66  do  CPC/2015.
+Saliente-se,  por  oportuno,  que  "o  conflito  de  competência  não  pode  ser  utilizado  como  sucedâneo  recursal,  bem  como  não  se  presta  a  resolver  questões  que  devem  ser  dirimidas  nas  instâncias  ordinárias"  (AgInt  nos  EDcl  nos  EDcl  no  CC  150.992/DF,  SEGUNDA  SEÇÃO,  DJe  07/05/2020).
+Ademais,  como  a  tese  de  que  o  bem  é  de  propriedade  da  suscitante  somente  foi  trazida  na  oportunidade  deste  pedido  de  reconsideração,  resta  caracteriza da  indevida  inovação  recursal,  inadmissível  pela  ocorrência  de  preclusão  consumativa.
+Assim,  nada  há  a  deferir.
+Forte  nessas  razões,  INDEFIRO  o  pedido  de  reconsideração  e  mantenho  a  decisão de fls. 35-36 (e-STJ).
+Publique-se.  Intimem-se.
+EMENTA
+PEDIDO  DE  RECONSIDERAÇÃO.  CONFLITO  POSITIVO  DE  COMPETÊNCIA.  EXECUÇÃO  TRABALHISTA  E  RECUPERAÇÃO  JUDICIAL.INEXISTÊNCIA  DE  DECISÕES  CONFLITANTES.  TESE NOVA. PRECLUSÃO CONSUMATIVA.
+ 1.  Há  conflito  de  competência  quando  dois  ou  mais  juízos  se  consideram  competentes  ou  incompetentes  para  processar  e  julgar  a  mesma  demanda,  situação  que  não  ocorre  na  presente  hipótese,  visto  que  não  há  decisões  conflitantes  entre  os  juízos  suscitados.
+2.  O  conflito  de  competência  não  pode  ser  utilizado  como  sucedâneo  recursal.
+3.  As  questões  não  levantadas  no  âmbito  do  conflito  de  competência  são  insuscetíveis  de  conhecimento  posterior,  por  caracterizarem  indevida  inovação  recursal  e,  com  isso,  preclusão  consumativa.
+4.  Pedido  de  reconsideração  indeferido.
