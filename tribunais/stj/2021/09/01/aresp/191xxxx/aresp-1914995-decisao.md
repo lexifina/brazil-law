@@ -1,0 +1,73 @@
+DECISÃO
+LUIZ FELIPE NUNES DE MACEDO (LUIZ FELIPE) ajuizou ação de cobrança de indenização securitária (DPVAT) contra SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S.A. (LÍDER).
+Em primeira instância, a ação foi julgada procedentee LÍDER foi condenada a pagar em favor do autor o valor de R$. 675,00 (seiscentos e setenta e cinco reais), corrigido monetariamente pelo IGPM desde o evento danoso e acrescido de juros de mora de 1% (um por cento) ao mês a contar da citação; bem como foi condenada ao pagamento das custas processuais e dos honorários advocatícios, estes arbitrados em R$ 500,00 (quinhentos reais), nos termos do art. 85, §§ 2º e8º, do NCPC.
+Os recursos de apelação manejados por LÍDER, LUIZ FELIPE e MARCELLO JOSÉ ANDREETTA MENNA (LUIZ FELIPE e MARCELLO) foram desprovidos pelo Tribunal sul-mato-grossense nos termos do acórdãoassim ementado:
+APELAÇÕES CÍVEIS - COBRANÇA - DPVAT - PEDIDO JULGADO PROCEDENTE - PRELIMINAR DE DESERÇÃO - AFASTADA - NEXO DE CAUSALIDADE - DEMONSTRADO - HONORÁRIOS ADVOCATÍCIOS MANTIDOS - RECURSOS NÃO PROVIDOS.
+No seguro obrigatório, o boletim de ocorrência não é peça indispensável para ajuizar a ação de cobrança, revelando-se suficiente para comprovar o acidente o prontuário de atendimento médico emitido pelo hospital.
+Conforme a nova regra processual civil, a ausência de preparo da apelação não ocasiona de plano a deserção do recurso, já que a norma prevê a intimação da parte para comprovar a hipossuficiência no caso de pedido de justiça gratuita (art. 99, § 7º, CPC), ou sanar o vício com o recolhimento em dobro (art. 1.007, § 4º, CPC). Na hipótese, foi deferida a benesse em sede recursal.
+A verba honorária deve ser mantida quando obedece aos critérios estabelecidos pela lei e se revela razoável em razão da natureza da ação e do montante condenatório(e-STJ, fl. 193).
+Irresignados, LUIZ FELIPE e MARCELLO manifestaram recurso especial com fundamento no art. 105, III,a, da CF, alegando a violação dos arts. 8º e85, §§ 2º,8º, 11 e 14, ambos do NCPC, ao sustentarem, em suma, queos honorários advocatícios foram fixados em valores irrisórios (e-STJ, fls. 201/208).
+As contrarrazões foram apresentadas (e-STJ, fls. 213/225).
+Não admitido o apelo nobre, LUIZ FELIPE e MARCELLO manejaram o presenteagravo em recurso especial, defendendo o desacerto da decisão que não admitiu o seu recurso (e-STJ, fls. 227/228 e 230/233).
+A contraminuta foi apresentada (e-STJ, fls. 238/246).
+É o relatório.
+DECIDO.
+A insurgência não merece ser conhecida.
+De plano vale pontuar que as disposições do NCPC, no que se refere aos requisitos de admissibilidade dos recursos, são aplicáveis ao caso concreto ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Da incidência da Súmula nº7 do STJ
+LUIZ FELIPE e MARCELLO alegaram a violação dos arts. 8º e 85, §§ 2º, 8º, 11 e 14, ambos do NCPC, sustentando que os honorários advocatícios foram fixados em valores irrisórios.
+Sobre o tema o TJMS consignou que a fixação dos honorários obedeceram aos critérios legais e se revelourazoável diante da natureza da demanda e do montante da condenação.Éo que se extrai do seguinte trecho:
+Da apelação de Marcello J. A. Menna e Luiz F. N. de Macedo - dos honorários advocatícios
+Na sentença, julgou-se procedente o pedido para condenar a seguradora ao pagamento da indenização no montante de R$ 675,00 (seiscentos e setenta e cinco reais), bem como na verba honorária fixada em R$ 500,00 (quinhentos reais).
+Os recorrentes pretendem a majoração para R$ 1.500,00 (um mil e quinhentos reais).
+Razão não lhes assiste.
+A respeito da matéria, a Segunda Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.746.072/PR, concluiu que a nova sistemática do CPC/2015, tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, no § 2º do art. 85 ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, ou seja:
+(I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valoratualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que for inestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+Como se verifica, a regra geral, de aplicação obrigatória, prevista no § 2º do artigo 85 do CPC, estabelece que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor da condenação, do proveito econômico obtido ou do valor atualizado da causa e, caso revelar-se irrisório, deverão, só então, ser fixados por apreciação equitativa (§ 8º).
+Na hipótese dos autos, a sentença é de natureza condenatória, possuindo valor certo em R$ 675,00 (seiscentos e setenta e cinco reais), de maneira que a regra a ser aplicada é a da primeira parte do § 2º do artigo 85 do CPC, ou seja, entre dez a vinte por cento sobre o valor da condenação.
+Todavia, quando o montante for irrisório a ponto de a verba não remunerar condignamente o trabalho do causídico, o § 8ºdo referido dispositivo prevê que ela pode ser fixada por apreciação equitativa.
+No caso, considerando que os honorários foram fixados em R$ 500,00 (quinhentos reais), tem-se que o magistrado já aplicou a regra de equidade com base no princípio da razoabilidade e da proporcionalidade, pois se fixados entre 10% e 20%, a verba seria no montante de, no máximo, R$ 130,00 (cento e trinta reais).
+Desse modo, considerando a natureza da ação e o montante condenatório, a verba fixada em R$ 500,00 (quinhentos reais) deve ser mantida porque se revela razoável e condizente com o processo(e-STJ, fls. 197/198 - sem destaques no original).
+Na espécie, verifica-se que o acórdão recorrido não divergiu do entendimento firmado pela Segunda Seção do STJ, tendo em vista que o NCPC instituiu no art. 85, § 2º, regra geral obrigatória no sentido de que os honorários advocatícios devem ser fixados sobre o valor da condenação ou do proveito econômico ou, não sendo possível identificá-lo, sobre o valor da causa, restringindo-se o comando excepcional do § 8º do art. 85, de fixação por equidade, às causas em que for inestimável ou irrisório o proveito ou, ainda, em que o valor da causa for muito baixo.
+Confiram-se, a propósito, os seguintes precedentes:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. CÓDIGO DE PROCESSO CIVIL DE 2015. JUÍZO DE EQUIDADE NA FIXAÇÃO DE HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. NOVAS REGRAS: CPC/2015, ART. 85, §§ 2º E 8º. REGRA GERAL OBRIGATÓRIA (ART. 85, § 2º). REGRA SUBSIDIÁRIA (ART. 85, § 8º). PRIMEIRO RECURSO ESPECIAL PROVIDO. SEGUNDO RECURSO ESPECIAL DESPROVIDO.
+1. O novo Código de Processo Civil - CPC/2015 promoveu expressivasmudanças na disciplina da fixação dos honorários advocatícios sucumbenciais na sentença de condenação do vencido.
+2. Dentre as alterações, reduziu, visivelmente, a subjetividade do julgador, restringindo as hipóteses nas quais cabe a fixação dos honorários de sucumbência por equidade, pois: a) enquanto, no CPC/1973, a atribuição equitativa era possível: (a.I) nas causas de pequeno valor; (a.II) nas de valor inestimável; (a.III) naquelas em que não houvesse condenação ou fosse vencida a Fazenda Pública; e (a.IV) nas execuções, embargadas ou não (art. 20, § 4º); b) no CPC/2015 tais hipóteses são restritas às causas: (b.I) em que o proveito econômico for inestimável ou irrisório ou, ainda, quando (b.II) o valor da causa for muito baixo (art. 85, § 8º).
+3. Com isso, o CPC/2015 tornou mais objetivo o processo de determinação da verba sucumbencial, introduzindo, na conjugação dos §§ 2º e 8º do art. 85, ordem decrescente de preferência de critérios (ordem de vocação) para fixação da base de cálculo dos honorários, na qual a subsunção do caso concreto a uma das hipóteses legais prévias impede o avanço para outra categoria.
+4. Tem-se, então, a seguinte ordem de preferência: (I) primeiro, quando houver condenação, devem ser fixados entre 10% e 20% sobre o montante desta (art. 85, § 2º); (II) segundo, não havendo condenação, serão também fixados entre 10% e 20%, das seguintes bases de cálculo: (II.a) sobre o proveito econômico obtido pelo vencedor (art. 85, § 2º); ou (II.b) não sendo possível mensurar o proveito econômico obtido, sobre o valor atualizado da causa (art. 85, § 2º); por fim, (III) havendo ou não condenação, nas causas em que forinestimável ou irrisório o proveito econômico ou em que o valor da causa for muito baixo, deverão, só então, ser fixados por apreciação equitativa (art. 85, § 8º).
+5. A expressiva redação legal impõe concluir: (5.1) que o § 2º do referido art. 85 veicula a regra geral, de aplicação obrigatória, de que os honorários advocatícios sucumbenciais devem ser fixados no patamar de dez a vinte por cento, subsequentemente calculados sobre o valor: (I) da condenação; ou (II) do proveito econômico obtido; ou (III) do valor atualizado da causa; (5.2) que o § 8º do art. 85 transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+6. Primeiro recurso especial provido para fixar os honorários advocatícios sucumbenciais em 10% (dez por cento) sobre o proveito econômico obtido.
+Segundo recurso especial desprovido.
+(REsp 1.746.072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/Acórdão Ministro RAUL ARAÚJO, Segunda Seção, DJe 29/3/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. APLICAÇÃO DO ART. 85, § 2º, DO CPC/2015. VALOR RELEVANTE. OCORRÊNCIA. PRECEDENTES. AGRAVO INTERNO IMPROVIDO.
+1. Os honorários devem ser estabelecidos, em regra, com fundamento no art. 85, § 2º, do CPC/2015, isto é, nos limites percentuais nele previstos sobre o proveito econômico obtido, ou, na impossibilidade de
+identificá-lo, sobre o valor atualizado da causa, inclusive nas demandas julgadas improcedentes ou extintas sem resolução do mérito.
+2. A equidade constante do § 8º do art. 85 do CPC/2015 incide apenas quando o proveito econômico obtido não seja identificado, ou seja, inestimável ou irrisório, situação distinta daquela tratada no presente
+caso.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.368.440/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, DJe 13/3/2019)
+Nesse particular, o Tribunal de Justiça de Mato Grosso do Sulfixou verba honorária em estrita observância à determinação estabelecida no art. 85, § 8º, do NCPC, tendo em conta que, analisando todo o conjunto fático-probatório, arbitrou, com base na razoabilidadediante da natureza da demanda e do montante da condenação, os honorários por equidade no valor de R$ 500,00 (quinhentos reais), majorada para R$ 550,00 (quinhentos e cinquenta reais), em razão da aplicação do art. 85, 11, do NCPC.
+Assim, qualquer outra análise acerca da equivalência entre o proveito econômico e o valor fixado a título de honorários, demandaria, necessariamente, reexame do conjunto fático-probatório dos autos, o que é vedado em razão do óbice da Súmula nº 7 do STJ.
+Nesse sentido, confira-se a jurisprudência desta Corte:
+AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO (DPVAT). HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. VALOR. REVISÃO. SÚMULAS 7 E 83 DO STJ. MULTA. AGRAVO INTERNO MANIFESTAMENTE INADMISSÍVEL. SÚMULA 83/STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. A Segunda Seção desta Corte Superior pacificou o entendimento de que o § 8º do art. 85, transmite regra excepcional, de aplicação subsidiária, em que se permite a fixação dos honorários sucumbenciais por equidade, para as hipóteses em que, havendo ou não condenação: (I) o proveito econômico obtido pelo vencedor for inestimável ou irrisório; ou (II) o valor da causa for muito baixo.
+Precedente: (REsp 1746072/PR, Rel. Ministra NANCY ANDRIGHI, Rel. p/ Acórdão Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 13/02/2019, DJe 29/03/2019).
+2.O reexame dos critérios fáticos levados em consideração para fixar os honorários advocatícios, em princípio, é inviável em sede de recurso especial, ante o teor da Súmula 7 do STJ.
+3.  ..
+4. Agravo interno não provido.
+(AgInt no REsp 1.846.629/MT, Rel. Ministro LUIS FELIPE SALOMÃO, Quarta Turma, j. 10/12/2020, DJe 18/12/2020 - sem destaques no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO - DPVAT. REDISTRIBUIÇÃO DA SUCUMBÊNCIA. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. HONORÁRIOS ADVOCATÍCIOS. ARTIGOS 85 E 86 DO CPC/15. PROVEITO ECONÔMICO. IRRISORIEDADE. REEXAME DE FATOS E PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. SIMILITUDE FÁTICA. COTEJO ANALÍTICO. NÃO DEMONSTRADOS.
+1. Ação de cobrança de seguro obrigatório DPVAT.
+ ..
+4.O reexame de fatos e provas quanto à irrisoriedade do proveito econômico obtido pelo vencedor em recurso especial é inadmissível.
+5. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+6. Agravo interno no agravo em recurso especial não provido.
+(AgInt no AREsp 1.496.524/MS, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 11/11/2019, DJe 18/11/2019 - sem destaques no original).
+Nessas condições,CONHEÇOdo agravo paraNÃO CONHECER dorecurso especial.
+Inaplicável ao caso a majoração de honorários.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar condenação às penalidades fixadas nos arts. 1.021, § 4º, ou 1.026, § 2º, ambos do NCPC.
+Publique-se.
+Intimem-se.
+EMENTA
+CIVIL. PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. DPVAT. HONORÁRIOS ADVOCATÍCIOS ARBITRADOS POR EQUIDADE. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA Nº 7 DO STJ. AGRAVO CONHECIDO. RECURSO ESPECIAL NÃO CONHECIDO.
