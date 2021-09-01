@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial (CPC/2015, art. 1.029) interposto pelo BANCO DO BRASIL S.A. contra acórdão do TJDFTassim ementado (e-STJ fl. 49):
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. CUMPRIMENTO DE SENTEÇA. EXPURGOS INFLACIONÁRIOS. LIQUIDAÇÃO PRÉVIA. DESNECESSIDADE. IMPUGNAÇÀO GENÉRICA. NÀO CABIMENTO.
+1. A apuração dos créditos detidos pelos titulares de cadernetas de poupança no momento da implantaçãodo denominado Plano Verão, e reconhecidos por sentença coletiva, não demanda a deflagração de prévioprocedimento liquidatório, pois os créditos individuais detidos pelos consumidores que se inscrevem noalcance do título executivo são aferíveis por intermédio de simples cálculos aritméticos.
+2. A impugnação genérica, desprovida de lastro probatório, é insuficiente para fundamentar a alegação deeventual excesso de execução.
+3. Agravo de instrumento desprovido.
+Nas razões do recurso especial (e-STJ fls. 55/69), fundamentadono art. 105, III, "a" e "c", da CF, o recorrente alega, além de dissídio jurisprudencial, violação dos seguintes dispositivos:
+(a) do art. 485, VI, do CPC/2015, sustentando que a parte recorrida,sem provar a associação ao IDEC à época da oferta da ação, não teria legitimidade para propor o cumprimento individual da sentença proferida na Ação Civil Pública n. 1998.01.1.016798-9, instaurada pela referida entidade de classe, carecendo de título líquido, certo e exigível para instruir a execução,
+(b) dos arts. 509 e 523 do CPC/2015, porque, sem liquidar a sentença genérica proferida na ação coletiva, a fim de apurar o valor devido e aferir a titularidade do crédito, o título executivo seria desprovido de liquidez e exigibilidade, devendo o processo ser extinto ante a inadequação da via eleita,
+(c) dos arts. 240 do CPC/2015 e 405 do CC/2002, afirmando que os juros de mora somente seriam devidos a partir da citação do recorrente na liquidação ou no cumprimento individual de sentença, não da ação civil pública proposta pelo IDEC, e
+(d) do art. 503 do CPC/2015, defendendo que: (i) implicaria violação da coisa julgada o uso da Tabela Prática do TJDFT para a atualização monetária do débito por não guardarrelação direta com as cadernetas de poupança, (ii) "com relação à inclusão dos planos econômicos na atualização dos débitos, em razão da ausência de pedido expresso nesse sentido por parte do IDEC, é possível sustentar a impossibilidade de inclusão da atualização monetária em sede de liquidação e execução de sentença" (e-STJ fl. 69) e(iii) subsidiariamente "requer seja adotado o índice de 10,14% para o mês de fevereiro de 1989 (crédito em março de 1989), haja vista que foi reconhecido pela jurisprudência como índice que reflete a inflação daquele mês, motivo pelo qual também deverá ser adotado na correção monetária, sob pena de recebimento de quantia que supera a real recomposição de moeda, em flagrante enriquecimento sem causa do poupador" (e-STJ fl. 68).
+Foram apresentadas contrarrazões, requerendo a aplicação de multa por litigância de má-fé(e-STJ fls. 81/83).
+O recurso foi admitido na origem (e-STJ fls. 85/87).
+É o relatório.
+Decido.
+Cuidam os autos de execução de sentença proferida pelo JUÍZO DA 12ª VARA CÍVEL DA CIRCUNSCRIÇÃO ESPECIAL JUDICIÁRIA DE BRASÍLIA - DF na Ação Civil Pública n. 1998.01.1.016798-9, ajuizada pelo IDEC contra o Banco do Brasil S.A.
+Súmula n. 284/STF
+O recorrente alegou que o acórdão impugnado teria violado o art. 503 do CPC/2015, afirmando que: (a) seria indevido incluir os planos econômicos posteriores na atualização monetária do cumprimento de sentença, ante afalta de pedido expresso do IDEC nesse sentido (e-STJ fl. 69) e (b) subsidiariamente deveria ser"adotado o índice de 10,14% para o mês de fevereiro de 1989 (crédito em março de 1989), haja vista que foi reconhecido pela jurisprudência como índice que reflete a inflação daquele mês, motivo pelo qual também deverá ser adotado na correção monetária, sob pena de recebimento de quantia que supera a real recomposição de moeda, em flagrante enriquecimento sem causa do poupador" (e-STJ fl. 68).
+Ocorre queo art. 503 do CPC/2015, isoladamente, não possui alcance normativo, por si só, para amparar as teses relativas à atualização monetária do débito executado, porque apenas disciplina a formação da coisa julgada da decisão que julgar, total ou parcialmente, o mérito, seguindo os limites da questão principal expressamente decidida.
+Dessa forma, a fundamentação recursal mostra-se deficiente, atraindo a aplicação, por analogia, da Súmula n. 284/STF como óbice ao recurso. A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR. EXCEÇÃO DE INCOMPETÊNCIA. 1. FORO DE ELEIÇÃO. COMPETÊNCIA FIRMADA PELO TRIBUNAL LOCAL COM BASE NA ANÁLISE DA EXORDIAL, NA TROCA DE CORRESPONDÊNCIA ELETRÔNICA ENTRE AS PARTES E NOS TERMOS DO CONTRATO. CONTROVÉRSIA DOS AUTOS QUE SE RELACIONA À LIQUIDAÇÃO DAS OBRIGAÇÕES DO DISTRATO. SÚMULAS 5 E 7 DO STJ. 2. INVOCAÇÃO DE VIOLAÇÃO DOS ARTS. 87 E 263 DO CPC/1973. AUSÊNCIA DE PERTINÊNCIA COM O OBJETO DA LIDE. SÚMULA 284 DO STF. 3. AGRAVO IMPROVIDO.
+(..)
+2. Os comandos normativos dos arts. 87 e 263 do CPC/1973 não guardam pertinência com o tema da controvérsia. Incide, portanto, a Súmula 284 do STF.
+3. Agravo improvido.
+(AgInt no AREsp n. 1.069.872/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. DESPESAS COM DEPÓSITO E ESTADIA DE VEÍCULOS. CONSTRIÇÃO JUDICIAL. DISPOSITIVO LEGAL QUE NÃO AMPARA A TESE SUSTENTADA PELA INSURGENTE. INCIDÊNCIA DA SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AUSÊNCIA DE SIMILITUDE FÁTICA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Alegação de incidência de dispositivos legais que não se referem à matéria tratada nos autos. A indicação de dispositivo legal que não ampara a pretensão recursal atrai a incidência da Súmula 284/STF.
+(..)
+3. Agravo regimental desprovido.
+(AgRg no AREsp 616.268/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 4/8/2015, DJe 17/8/2015.)
+Além disso, a referida tese não está prequestionada, visto não ter sido objetode debate pela Corte local,o que atrai a aplicação das Súmulas n. 282 e 356 do STF.
+Súmulas n. 282 e 356 do STF
+A Corte local igualmente não se manifestou quanto às teses de violação dos arts. 240 e 485, VI, do CPC/2015 e 405 do CC/2002.
+Desse modo, ainexistência de debate prévio da matéria suscitada no recurso especial, somada à ausência de aclaratórios para suscitar a questão na instância de origem, impede o conhecimento do recurso, diante da incidência das Súmulas n. 282 e 356 do STF.
+Prévia liquidação da sentença coletiva de expurgos inflacionários
+A Segunda Seção do STJ fixou a tese de que "o cumprimento da sentença genérica que condena ao pagamento de expurgos em caderneta de poupança deve ser precedido pela fase de liquidação por procedimento comum, que vai completar a atividade cognitiva parcial da ação coletiva mediante a comprovação de fatos novos determinantes do sujeito ativo da relação de direito material, assim também do valor da prestação devida, assegurando-se a oportunidade de ampla defesa e contraditório pleno ao executado" (EREsp n. 1.705.018/DF, Relator Ministro LUIS FELIPE SALOMÃO, SEGUNDA SEÇÃO, julgado em 9/12/2020, DJe 10/2/2021).
+No caso dos autos, a Justiça de origem, ao assentar que bastavam meros cálculos aritméticos para conferir liquidez ao título (e-STJ fls. 51/52), destoou da orientação da SEGUNDA SEÇÃO, motivo por que a irresignação do recorrente merece acolhida, a fim de que seja realizada a liquidação por procedimento comum, para conferir liquidez à sentença coletiva objeto de cumprimento individual por parte dos recorridos.
+Ante o exposto, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PARCIAL PROVIMENTO, para determinar que se proceda à liquidação da sentença coletiva.
+Publique-se e intimem-se.
