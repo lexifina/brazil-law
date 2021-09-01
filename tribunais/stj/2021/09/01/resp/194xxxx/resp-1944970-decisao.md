@@ -1,0 +1,49 @@
+DECISÃO
+Cuida-se de recurso especial interposto por VAMOS LOCAÇÃO DE CAMINHÕES, MAQUINAS E EQUIPAMENTOS S/A, fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 18/09/2020.
+Concluso ao gabinete em: 18/08/2021.
+Agravo de instrumento: interposto pela recorrente, em face de JOÃO GUILHERME FIGUEIREDO WHITAKER e OUTROS, contra decisão interlocutória que deferiu o processamento da recuperação judicial do Grupo Itaiquara, aí incluído JOÃO GUILHERME, e excluiu do polo ativo, por ausência de interesse processual, os produtores rurais que não comprovaram atividade de mais de 2 anos ou registro mercantil e as sociedades empresárias inoperantes, sem receita e funcionários desde 2016.
+Acórdão: conheceu parcialmente e, nesta parte, negou provimento ao agravo de instrumento interposto pelo recorrente contra o deferimento do processamento em favor de JOÃO GUILHERME, nos termos da seguinte ementa:
+Recuperação Judicial. Empresário Rural. Cabimento, desde que comprovado o desenvolvimento da atividade por mais de dois anos, inscrevendo-se perante o Registro Mercantil em data anterior ao pedido. Requisitos cumulativos cumpridos pelo produtor rural referido pela agravante. Deferimento do processamento da recuperação mantido. Discussão sobre eventual extraconcursalidade do crédito que não cabe neste momento processual. Ausência, ademais, de decisão a respeito na origem, o que torna impossível o conhecimento da questão pela Corte, sob pena de inadmissível supressão de instância. Recurso desprovido, na parte que é conhecido.
+Embargos de declaração: opostos pela recorrente, foram rejeitados.
+O Tribunal de origem consignou o seguinte:
+O V. Acórdão cuidou de indicar, expressamente, que os documentos encartados pelo agravado às fls. 490/590 comprovam a atividade da venda e compra de artigos relacionados à agricultura e criação de gado no intervalo entre janeiro de 2016 e outubro de 2019.
+No que toca ao registro mercantil de empresa, não se deve exigir a precedência de 2 (dois) anos, bastando que seja providenciado antes da distribuição da recuperação judicial, tal como ocorreu no caso concreto. (e-STJ, fls. 644)
+Recurso especial: alega violação dos arts. 48 e 51, da Lei 11.101/05 e dos arts. 966 e 967, do CC/02, bem como dissídio jurisprudencial.
+Sustenta que JOÃO GUILHERME não teria preenchido os requisitos para deferimento da recuperação judicial na qualidade de empresário individual e produtor rural.
+Aduz que, para formular o pedido de recuperação judicial, JOÃO GUILHERME deveria demonstrar que, após o registro na Junta Comercial, teria exercido atividade empresarial de forma organizada e regular por pelo menos dois anos. Entretanto, teria ele efetuado o registro apenas em 09/10/2019, três dias antes da distribuição do pedido de recuperação judicial, ocorrida em 12/10/2019, com nítido caráter de fraudar credores e frustrar o recebimento do crédito.
+Ademais, defende que não haveria comprovação da atuação deJOÃO GUILHERME como empresário rural nos dois anos anteriores à distribuição da recuperação judicial.
+Admissibilidade: o recurso foi admitido na origem pelo TJ/SP.
+É O RELATÓRIO. DECIDO.
+- Julgamento: CPC/15
+- Da Súmula 568/STJ
+As duas Turmas de Direito Privado do STJ entendem que "é dispensável que o registro do empresário individual rural tenha se operado há mais de dois anos, permitindo-se que se comprove o lapso bienal de prática da atividade rural por outros meios, estão também submetidos à recuperação judicial os créditos constituídos antes da formalização do registro" (AgInt no AREsp 1761695/MS, 3ª Turma, DJe 14/05/2021).
+Ainda nesse sentido: AgInt no REsp 1.883.671/MT, 4ª Turma, DJe 11/05/2021; AgInt no REsp 1.895.916/PR, 3ª Turma, DJe de 06/04/2021; AgInt no REsp 1.886.429/MT, 4ª Turma, DJe de 22/03/2021; e AgInt no AREsp 1.564.649/GO, 3ª Turma, DJe de 12/02/2021.
+Na hipótese, o Tribunal de origem decidiu nos seguintes termos (e-STJ, fls. 623/625):
+Assim, não é difícil concluir que, se, para os empresários em geral, exige-se registro mercantil antecedente de dois anos para que possa requerer a recuperação judicial ou extrajudicial, o mesmo não sucede com os empresários rurais porque, para eles, o registro na Junta Comercial é facultativo. Exige-se, é certo, que o façam para deduzir o requerimento, mas estão dispensados de comprová-lo pelos dois anos antecedentes, bastando que comprovem o exercício da atividade por tal lapso de tempo.
+(..)
+Ou seja, duas são as condições para a admissão do processamento da recuperação judicial dos produtores rurais: primeiro, que o registro mercantil na respectiva Junta Comercial tenha sido providenciado antes da distribuição da recuperação judicial, a considerar que, como dito anteriormente, para os produtores rurais tal registro é facultativo; segundo, a existência de prova do exercício de atividade rurícola por mais de dois (2) anos no momento do pedido, a fim de atender ao requisito previsto no caput do art. 48 da Lei nº 11.101/2005.
+E tais requisitos, cumulativos, restaram cumpridos por João Guilherme Figueiredo Whitaker.
+Quanto ao registro mercantil, cuidou de indicar precisamente, em suas contrarrazões, a localização do respectivo documento na origem (fls. 596 do instrumento ou 3.689 da origem), que revela o deferimento, pela Junta Comercial do Estado de Minas Gerais, do registro em 9.10.2019.
+O pedido de recuperação, de seu turno, é de 12.10.2019.
+Quanto ao segundo requisito, a perícia prévia promovida pelo Administrador Judicial na origem já apontava a existência de prova sobre o exercício da atividade rural por mais de 2 (dois) anos.
+Concitado a se manifestar nesta instância, confirmou, o auxiliar do Juízo, o exercício da atividade rural por mais de 2 (dois) anos, conforme se verifica a partir da análise das Declarações de Ajuste Anual apresentadas.
+Quanto ao alerta do d. Procurador de Justiça oficiante sobre a insuficiência dos documentos apresentados, que, na sua opinião, só demonstrariam a atuação, do agravado, como acionista das sociedades em recuperação, as partes foram mais uma vez ouvidas, com destaque para os documentos colacionados às fls. 360 e seguintes (fls. 597).
+A Administradora Judicial manteve o seu posicionamento (fls. 607/609) e o parquet (fls. 612/615) acabou convencido de que restou demonstrado o exercício da atividade de produtor rural pelo agravado, por mais de 2 anos, como exigido pelo art. 48 da LREF. O que se realizou mediante o encarte das notas fiscais emitidas nos anos de 2016-2019, referentes às atividades de João Guilherme (cf. fls. 490/590, de 07.01.16 a 26.09.16).
+De fato, os documentos encartados pelo agravado às fls.490/590, comprovam a atividade da venda e compra de artigos relacionados à agricultura e criação de gado no intervalo entre janeiro de 2016 e outubro de 2019.
+E nem se argumente que a ausência de registro contábil no ano de 2019 autorizaria o indeferimento, pois, além da exibição de atividade empresarial neste período, como se vê das notas fiscais antes referidas, tem-se que o art. 48 da lei de regência exige que o requerente exerça suas atividades há mais de 2 (dois) anos, não nos últimos dois anos, mostrando-se, portanto, cumprido o requisito se existe prova de atividade desde o início do ano de 2016.
+A questão atinente à atividade desempenhada pelo produtor rural, se ligada ao cultivo de cana-de-açúcar ou à venda de bovinos, leite ou sacas de café, tal como opinou o d. Procurador de Justiça oficiante, é irrelevante, bastando que se demonstre a existência de atividade rurícola, de qualquer espécie, pelo prazo de 2 (dois) anos.
+E ainda (e-STJ, fl. 644):
+O V. Acórdão cuidou de indicar, expressamente, que os documentos encartados pelo agravado às fls. 490/590 comprovam a atividade da venda e compra de artigos relacionados à agricultura e criação de gado no intervalo entre janeiro de 2016 e outubro de 2019.
+No que toca ao registro mercantil de empresa, não se deve exigir a precedência de 2 (dois) anos, bastando que seja providenciado antes da distribuição da recuperação judicial, tal como ocorreu no caso concreto.
+Diante da consonância com o entendimento dominante sobre o tema nesta Corte, aplica-se a Súmula 568/STJ no particular.
+Ademais, alterar o decidido no acórdão impugnado, no que se refere à conclusão acerca do cumprimento, por JOÃO GUILHERME, dos requisitos para a admissão do processamento da recuperação judicial dos produtores rurais, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+Forte nessas razões, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. EMPRESÁRIO RURAL. RECUPERAÇÃO JUDICIAL. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SÚMULA 568/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+1. Agravo de instrumento interposto contra decisão que deferiu o processamento de recuperação judicial em favor de produtor rural.
+2. É dispensável que o registro do empresário individual rural tenha se operado há mais de dois anos, permitindo-se que se comprove o lapso bienal de prática da atividade rural por outros meios, estão também submetidos à recuperação judicial os créditos constituídos antes da formalização do registro. Precedentes. Ante o entendimento dominante do tema nas Turmas de Direito Privado, aplica-se, no particular, a Súmula 568/STJ.
+3. O reexame de fatos e provas em recurso especial é inadmissível.
+4. Recurso especial conhecido e não provido.
