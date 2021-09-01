@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por BANCO BRADESCO FINANCIAMENTOS S.A fundamentado na alínea "a" do inciso III do artigo 105 da Constituição Federal, manejado contra acórdão do Tribunal de Justiça do Estado do Paraná.
+É o breve relatório.
+Passo a decidir.
+Compulsando-se os autos, constata-se que o recurso especial não merece ser conhecido em virtude da sua intempestividade.
+Verifica-se que a parte recorrente teve a leitura de intimação realizada do acórdão recorrido em 21/10//2020 (e-STJ fl. 374) e que o recurso especial foi interposto em 13/11/2020 (e-STJ fl. 379).
+No caso, iniciado o prazo recursal em 22/10/2020 o término seria em 12/11/2020, no entanto, o recurso especial foi interposto somente em 13/11/2020.
+Assim, o recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, e 219, caput,do Código de Processo Civil.
+A propósito, nos termos do § 6.º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Consoante entendimento pacificado nesta Corte Superior, a existência de suspensão do expediente forense no Tribunal de origem no decorrer do prazo processual que não seja decorrente de ato normativo de abrangência nacional está sujeita a comprovação no ato de interposição do recurso.
+Confiram-se:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. AGRAVO EM RECURSO ESPECIAL INTERPOSTO NA VIGÊNCIA DO NCPC. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. RESOLUÇÃO CNJ Nº 313/2020. SUSPENSÃO DE PRAZOS PROCESSUAIS. REGULAMENTAÇÃO. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O agravo em recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. A Corte Especial assentou, em Questão de Ordem no REsp nº 1.813.684/SP, o entendimento de que é possível a comprovação da tempestividade do recurso, em momento posterior, na hipótese do feriado de segunda-feira de Carnaval, mas não quanto aos demais feriados, confirmando o posicionamento antes adotado.
+4. Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ 313, de 19 de março de 2020, voltando a fluir o prazo, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso (AgInt no AREsp 1.733.695/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, j. 8/2/2021, DJe 17/2/2021).
+5. Agravo em recurso especial interposto foram do prazo de 15 (quinze) dias, a teor dos arts. 219, caput, e 1.003, § 5º, do NCPC.
+6. Agravo interno não provido.(AgInt no AREsp 1794528/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 26/04/2021, DJe 28/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PANDEMIA. SUSPENSÃO DE PRAZO. COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO.
+1. É intempestivo o recurso interposto fora do prazo recursal de 15 (quinze) dias úteis (recurso interposto sob a égide do CPC/2015).
+2. Nos termos do art. 5º da Resolução 313/2020 do CNJ, para fins de aferição de tempestividade, suspende-se o prazo processual no período de 19/03/2020 a 30/04/2020, o que não impede que publicações sejam realizadas.
+3. "O reinício ou prosseguimento dos prazos processuais se deu a partir de 04/05/2020 (inclusive)" (AgInt nos EAREsp 1515825/AL, CORTE ESPECIAL, DJe 18/12/2020).
+4. Agravo interno não provido.(AgInt nos EDcl no AREsp 1741291/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 12/04/2021, DJe 15/04/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO RECURSO ESPECIAL. SUSPENSÃO DOS PRAZOS PROCESSUAIS. NÃO COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO. EXIGÊNCIA DE DOCUMENTO IDÔNEO. AGRAVO NÃO PROVIDO.
+1. A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deverá ser comprovada no ato da interposição do recurso na vigência do CPC de 2015. Precedentes.
+2. "A Corte Especial do Superior Tribunal de Justiça, no julgamento do recurso especial nº 1.813.684/SP, manteve o entendimento quanto a ser necessária, para os recursos interpostos sob a égide do CPC/15, a comprovação, por meio de documento idôneo e no ato de interposição do recurso, de eventual feriado local ocorrido no curso do prazo processual, bem como modulou os efeitos dessa decisão para, no caso de suspensão de prazos na segunda-feira de carnaval, permitir a comprovação posterior, nos recursos interpostos antes da publicação do mencionado acórdão (DJe 18/11/2019)." (AgInt no AREsp 1735382/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 30/11/2020, DJe 04/12/2020) 3. Na espécie, o recurso especial foi interposto após a publicação do acórdão do recurso especial nº 1.813.684/SP, não se adequando, portanto, à hipótese de modulação de efeitos nele previsto.
+4. "Em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ 313, de 19 de março de 2020, voltando a fluir o prazo, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso." (AgInt no AREsp 1733695/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 08/02/2021, DJe 17/02/2021)
+5. Ademais, a prova de feriado local ou da suspensão de prazos processuais no Tribunal local deve ser feita pela parte interessada por meio de documento idôneo. A cópia, print de tela de computador ou imagem de página extraída de internet não serve para tal finalidade. Precedentes.
+6. Agravo interno não provido.(AgInt no AREsp 1778713/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+Assim, a ocorrência de suspensão de expediente forense local, nesse conceito incluído o feriado estadual, recesso, paralisação ou interrupção do expediente forense, deve ser comprovada por documento oficial ou certidão expedida pelo Tribunal de origem, no ato de interposição do recurso.
+Na hipótese dos autos, não houve a juntada da comprovação dos feriados locais na petição de recurso, na forma exigida no artigo 1003, §6º do CPC, ou de eventual suspensão dos prazos, no Tribunal de origem, fora do período mencionado na mencionada resolução do CNJ.
+Inviável, pois, a pretensão da agravante.
+Advirta-se que eventual recurso interposto contra este decisum está sujeito às normas do CPC/2015, inclusive no que tange à aplicação de multa (art. 1.021, § 4º, e 1.026, § 2º, do CPC/2015).
+Ante o exposto, não conheço do recurso especial.
+Intimem-se.
+EMENTA
+RECURSO ESPECIAL. SUSPENSÃO DO EXPEDIENTE FORENSE NO TRIBUNAL LOCAL. AUSÊNCIA DE COMPROVAÇÃO NO ATO DE INTERPOSIÇÃO DO RECURSO ESPECIAL. INTEMPESTIVIDADE RECONHECIDA.
+RECURSO ESPECIAL NÃO CONHECIDO.
