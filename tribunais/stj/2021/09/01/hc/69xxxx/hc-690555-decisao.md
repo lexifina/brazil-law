@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se dehabeas corpus, compedido liminar, impetrado em favor de GIOVANNI SILVAcontra acórdão do Tribunal de Justiça do Estado do Rio Grande do Sul proferido no Recurso em Sentido Estrito n. 5005234-61.2021.8.21.0039.
+Extrai-se dos autos que a prisão preventiva do Paciente foi decretada em 13/02/2015, após representação da Autoridade Policial, em razão da prática, em tese, do crime de tentativa de homicídio contra duas vítimas, que possuíam dívidas oriundas do consumo de drogas (fl. 423). O Agente foi preso em 23/04/2020 (fl. 1225).
+O Acusado foi denunciado pelo crimes previstos no art.121, § 2.º, incisos II, III e IV, c.c. o art. 14, inciso II,no art. 121, § 2.º, incisos II, III e IV, c.c. o art. 14, inciso II, e no art. 73, ambos na forma do art. 70, do Código Penal, cumulados com o art. 14 da Lei n. 10.826/2003, na forma do art. 69 do Código Penal (fl. 336).
+A denúncia foi recebida no dia 12/05/2017(fls. 549-550).
+Narra a Parte Impetrante que, após verificada a existência de excesso de prazo na formação da culpa, o Tribunal de origem concedeu a ordem dehabeas corpus e revogou a prisão do Acusado.Inconformado, o Ministério Públicointerpôs recurso em sentido estrito, que foi provido para restabelecer a prisão preventiva do Paciente.
+Nesta insurgência, a Defesa alegaque o Paciente não pode ser preso sem que sejam tomadas providências para realização das audiências, que não foram realizadas por falta de interesse do Poder Público (fl. 14).
+Defende a existência de excesso de prazo para formação da culpa, pois "o Estado não logrou terminar a instrução processual no prazo estabelecido em lei, pois se quer foi dado início, sem que a defesa tenha em momento algum dado causa a tal atraso .. " (fl. 14).
+Afirma haver"fundado receio de ocorrência de ofensa iminente à liberdade de locomoção, como é o caso do paciente, o qual está na iminência de ter contra si expedido mandado de prisão" (fl. 16).
+Requera " c oncessão da MEDIDA LIMINAR, por estar evidente a existência de fumus boni iuris e periculum in mora, para revogar de imediato a prisão preventiva restabelecida pela Autoridade Coatora, expedindo de imediato salvo conduto / alvará de soltura em favor do paciente, visto que evidente a vedação do seu direito de ir e vir sem qualquer fato novo que possa justificar tal segregação" (fl. 21).
+No mérito,  q ue se dê prosseguimento ao feito para, ao final, conceder, de forma definitiva, a Ordem do presente writ, determinando assim a revogação da prisão preventiva decretada em desfavor do paciente pela ocorrência do excesso de prazo, nos termos do art. 648, II, do Código de Processo Penal, assim como a inexistência dos requisitos do artigo 312, do CPP e, os demais fatos e fundamentos acima expostos" (fl. 22).
+É o relatório.Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos.
+Com efeito, a Parte Impetrante não acostou aos autos cópia das peças processuais necessárias à compreensão da controvérsia, notadamente do inteiro teor do acórdãoproferido no julgamento do recurso em sentido estrito.
+Como se sabe, compete à Defesa narrar e instruir completa e adequadamente o habeas corpus (ou seu respectivo recurso).
+Dessa forma, como a Defesa não se desincumbiu do ônus de formar adequadamente os autos, olvidando-se de que o habeas corpus "pressupõe prova pré-constituída do direito alegado" (STJ, HC 437.808/RJ, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 28/06/2018), não há como apreciar o mérito do writ.
+No mesmo sentido: HC n. 508.081/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 08/05/2019; HC n. 507.614/ES, Rel. Ministro ANTONIO SALDANHA PALHEIRO, DJe 08/05/2019; HC n. 507.591/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 08/05/2019;HC n. 507.828/RJ, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 08/05/2019.
+Ante o exposto, com base nos arts. 34, inciso XVIII, e 210, ambos do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO. TENTATIVA. TESE DE EXCESSO DE PRAZO PARA FORMAÇÃO DA CULPA. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAIS À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
