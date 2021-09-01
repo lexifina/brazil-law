@@ -1,0 +1,41 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por PAULO CESAR BELTCHER à decisão de fls. 1289/1290, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Acontece que, durante o prazo recursal entre 20/10/2020 e 12/11/2020 houveram DOIS FERIADOS NACIONAIS:
+  28 de outubro: Dia do Servidor Público - art. 236 da Lei nº 8.112, de 11 de dezembro de 1990;
+  2 de novembro: Finados (feriado nacional).
+Fonte: https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao- publica/2020/01/portaria-divulga-feriados-e-pontos-facultativos-para-2020 Perceba que os feriados acima são nacionais, mesmo o Dia do Servidor Público, regulamentado pelo art. 236 da Lei nº 8.112/1990 (fls. 1293/1294).
+ ..
+Conforme os feriados NACIONAIS acima relacionados, o prazo final para interposição do recurso é dia 12/11/2020, exatamente a data do protocolo, sendo ainda possível a comprovação posterior.
+Restando claro que o § 6º do art. 1.003 do CPC refere-se somente a FERIADO LOCAL e não FERIADO NACIONAL, que é o caso dos autos, o recorrente não tinha a necessidade de comprovar a ocorrência dos mesmos, eis que feriados nacionais, portanto o recurso deve ser admitido (fl. 1294).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2020; e EDcl no AgInt no AREsp 1008329/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/9/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+É certo que o feriado nacional de 02/11/2020 não precisa ser comprovado. Porém, o dia 28/10/2020 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+A jurisprudência do Superior Tribunal de Justiça é no sentido de que o dia 28 de outubro não se trata de feriado nacional, devendo ser comprovada a suspensão do expediente forense no momento da interposição do recurso. Nesse sentido, AgInt no AREsp 1336242/CE, relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe de 11/11/2019; e AgInt no AREsp 1472900/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 22/10/2019
+Ademais, não procede a alegação de que é desnecessária a comprovação do feriado local por ser período absolutamente conhecido, tratando-se, portanto, de fato notório. A ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da interposição do recurso, providência que não foi cumprida.
+A propósito, confira-se este precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECURSO INTEMPESTIVO. SUSPENSÃO DOS PRAZOS PROCESSUAIS NO TRIBUNAL ESTADUAL. AUSÊNCIA DE COMPROVAÇÃO DO FERIADO LOCAL, POR DOCUMENTO IDÔNEO, QUANDO DA INTERPOSIÇÃO DO RECURSO. ART. 1.003, § 6º, DO NCPC. ENTENDIMENTO DA CORTE ESPECIAL. DIA DE CORPUS CHRISTI. INEXISTÊNCIA DE FERIADO NACIONAL. AUSÊNCIA DE NOTORIEDADE. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. O recurso especial foi protocolado na vigência do NCPC, atraindo a aplicabilidade do art. 1.003, § 6º, do NCPC, que não mais permite a comprovação da ocorrência de feriado local em momento posterior, já que estabeleceu ser necessária a sua demonstração quando interposto o recurso. Entendimento da Corte Especial.
+3. Esta Corte adota o entendimento de que o Dia de Corpus Christi não é feriado nacional. Desse modo, é dever da parte comprovar no ato da interposição do recurso, por documento idôneo, a suspensão do expediente forense no Tribunal estadual, o que não ocorreu na hipótese.
+ ..
+5. A existência de recesso forense e suspensão de prazos processuais nos Tribunais de Justiça não se presume público e notório em âmbito nacional.
+6 . Agravo interno não provido
+(AgInt nos EDcl no AREsp 1465673/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 25/05/2020.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
