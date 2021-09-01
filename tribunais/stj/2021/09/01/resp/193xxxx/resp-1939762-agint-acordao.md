@@ -1,0 +1,32 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL DE DÍVIDA NÃO TRIBUTÁRIA. REDIRECIONAMENTO DA EXECUÇÃO. INFRAÇÃO À LEI. HIPÓTESE NÃO CARACTERIZADA. REVISÃO DO JUÍZO. SÚMULA 7/STJ.
+1. Cuida-se na origem de agravo de instrumento com vistas ao redirecionamento da execução fiscal de dívida não tributária, argumentando que o distrato social levado a registro na Junta comercial não seria apto para comprovar a dissolução regular da sociedade empresária, bem como alegando a inaplicabilidade do incidente de desconsideração da personalidade jurídica.
+2. A Corte regional afastou a necessidade da instauração do incidente de desconsideração da personalidade jurídica, mas concluiu pelo não redirecionamento da execução, por não haver, no caso, a caracterização de infração à lei. Inviável a revisão do entendimento firmado, sem o reexame do suporte fático-probatório, o que, no âmbito do recurso especial, é vedado por força da Súmula 7/STJ.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 139):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL. REDIRECIONAMENTO DA EXECUÇÃO. HIPÓTESE NÃO CONFIGURADA. REVISÃO. SÚMULA 7/STJ. RECURSO ESPECIAL NÃO CONHECIDO.
+A agravante alega a aplicação do art. 1.110 do CC.
+Sem impugnação (fl. 147).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EXECUÇÃO FISCAL DE DÍVIDA NÃO TRIBUTÁRIA. REDIRECIONAMENTO DA EXECUÇÃO. INFRAÇÃO À LEI. HIPÓTESE NÃO CARACTERIZADA. REVISÃO DO JUÍZO. SÚMULA 7/STJ.
+1. Cuida-se na origem de agravo de instrumento com vistas ao redirecionamento da execução fiscal de dívida não tributária, argumentando que o distrato social levado a registro na Junta comercial não seria apto para comprovar a dissolução regular da sociedade empresária, bem como alegando a inaplicabilidade do incidente de desconsideração da personalidade jurídica.
+2. A Corte regional afastou a necessidade da instauração do incidente de desconsideração da personalidade jurídica, mas concluiu pelo não redirecionamento da execução, por não haver, no caso, a caracterização de infração à lei. Inviável a revisão do entendimento firmado, sem o reexame do suporte fático-probatório, o que, no âmbito do recurso especial, é vedado por força da Súmula 7/STJ.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (RELATOR): O inconformismo recursal não alcança êxito.
+Cuida-se na origem de agravo de instrumento com vistas ao redirecionamento da execução fiscal de dívida não tributária, argumentando que o distrato social levado a registro na Junta comercial não seria apto para comprovar a dissolução regular da sociedade empresária, bem como alegando a inaplicabilidade do incidente de desconsideração da personalidade jurídica.
+A Corte regional afastou a necessidade da instauração do incidente de desconsideração da personalidade jurídica, mas concluiu pelo não redirecionamento da execução de dívida não tributária (multa administrativa), por não haver, no caso, a caracterização de infração à lei, assim consignando em sua fundamentação (fls. 51/52):
+2. Entretanto, o redirecionamento da execução fiscal de dívida ativa não tributária é amparado por outros dispositivos legais, mormente os artigos 1.016, 1.053 e 1.036, do Código Civil e admitido pela jurisprudência, consoante entendimento da 1ª Seção do Superior Tribunal de Justiça, que, em sede de recurso repetitivo, pacificou o entendimento de que, nas execuções fiscais de débito não-tributário, é possível o redirecionamento da execução fiscal para o sócio-gerente, em razão da dissolução irregular da sociedade (REsp 1371128/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 10/09/2014, DJe 17/09/2014).
+3. O Superior Tribunal de Justiça, em julgados recentes, adotou posicionamento no sentido de que a instauração do incidente de desconsideração da personalidade jurídica seria incompatível com o rito processual das execuções fiscais, o que afastaria a aplicação do disposto nos artigos 133 a 137, do Código de Processo Civil à Lei nº 6.830/80, em razão do disposto no artigo 1º, da Lei nº 6.830/8, que prevê a aplicação subsidiária, isto é, apenas nas hipóteses de omissão e no que for com ela compatível, da legislação processual às execuções fiscais. (REsp 1.786.311- PR, Órgão julgador: Segunda Turma, Relator: Min. Francisco Falcão, julgado em 09/05/2019, DJe: 14/05/2019); (REsp 1.775.269-PR, Órgão julgador: Primeira Seção, Rel. Min. Gurgel de Faria, DJe 01/03/2019); (STJ, AREsp 1286512 / RS, Órgão julgador: Segunda Turma, Relator: Ministro FRANCISCO FALCÃO, DJe 26/03/2019)
+4. A dissolução irregular da sociedade configura infração à lei, apta a permitir a responsabilização do sócio-gerente de forma pessoal e direta, não demandando, por isso, o preenchimento dos pressupostos da desconsideração da personalidade jurídica, previstos no artigo 50, do Código Civil, aplicáveis nos casos em que se busca responsabilizar os sócios por conduta praticada pela própria empresa.
+5. Em análise ao feito executivo de origem, verifica-se que consta do registro da empresa perante à Junta Comercial a situação "extinta", tendo o distrato da sociedade sido registrado em 22/12/2016, constando desse documento a liquidação da sociedade, bem como a partilha de seu acervo líquido entre os sócios.
+6. Nada obstante seja possível ao credor exigir dos sócios, individualmente, a satisfação do referido crédito, nos moldes do artigo 1.110, do Código Civil, a existência de crédito em aberto, por si só, não justifica o redirecionamento da execução fiscal, pleiteado pela parte exequente, pois, nesta hipótese, não está caracterizada a infração à lei que justifica o redirecionamento do feito executivo, na hipótese de dissolução irregular da sociedade executada.
+Inviável a revisão da conclusão firmada, sem o reexame do suporte fático-probatório, o que, no âmbito do recurso especial, é vedado por força da Súmula 7/STJ.
+Isso posto, nego provimento ao agravo interno.
+É como voto.
