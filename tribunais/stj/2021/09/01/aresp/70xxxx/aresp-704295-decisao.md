@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se  de  agravo  nos  próprios  autos  contra  decisão  que  inadmitiu  o  recurso  especial  por  incidência  das  Súmulas  n. 282 do STF  e  5,  7  e  211 do STJ  (e-STJ  fls.  267/268).
+O  acórdão  recorrido  está  assim  ementado  (e-STJ  fl.  183):
+AÇÃO  REVISIONAL  DE  CONTRATO  B ANCÁRIO  -  ARRENDAMENTO  MERCANTIL  -  APLICABILIDADE  DO  CÓDIGO  DE  DEFESA  DO  CONSUMIDOR  AFASTADA  EM  SEDE  DE  AGRAVO  DE  INSTRUMENTO  -POSSIBILIDADE  DE  REVISÃO  DAS  CLÁUSULAS  CONTRATUAIS  -LIMITAÇÃO  DE  JUROS  REMUNERATÓRIOS  -  SENTENÇA  FAVORÁVEL  -AUSÊNCIA  DE  INTERESSE  RECURSAL  -  CAPITALIZAÇAO  MENSAL  DE  JUROS  VEDADA  -  COMISSÃO  DE  PERMANÊNCIA  -  COBRANÇA  CUMULADA  COM  DEMAIS  ENCARGOS  DE  MORA  -  IMPOSSIBILIDADE  REPETIÇÃO  SIMPLES  DO  INDEBITO  -  AUSÊNCIA  DE  MÁ-FÉ  -REDISTRIBUIÇÃO  DOS  ÔNUS  DA  SUCUMBENCIA  -  SENTENÇA  REFORMADA  EM  PARTE.
+1.  A  inaplicabilidade  das  regras  consumerista  à  relação  jurídica,  não  afasta  a  possibilidade  de  revisão  do  contrato  de  leasing  (arts.  442  e  884  do  Código  Civil).
+2.  "Nos  contratos  de  arrendamento  mercantil,  é  vedada  a  capitalização  mensal  de  juros,  ainda  que  expressamente  pactuada,  somente  admitida  nos  casos  previstos  em  lei.  Incidência  do  art.  40  do  Decreto  nº  22.626/33  e  da  Súmula  nº  121  do  STF"  (STJ,  AgRg  no  REsp  n0  831  2761RS,  Quarta  Turma,  Rei.  Min.  Aldir  Passarinho  Filho,  j.  29.06.06).
+3.  "A  comissão  de  permanência  é  admitida  durante  o  período  de  inadimplemento  contratual,  não  podendo,  contudo,  ser  cumulada  com  a  correção  monetária  (Súmula  30/STJ),  com  os  juros  remuneratórios  (Súmula  296/STJ)  e  moratórios,  nem  com  a  multa  contratual"  (STJ,  AgRg  no  REsp  962519/RS).
+4.  A  restituição  em  dobro  dos  valores  cobrados  indevidamente  (art.  940  do  CC),  em  obediência  ao  principio  que  veda  o  enriquecimento  ilícito,  pressupõe  o  conhecimento  do  credor  quanto  à  cobrança  indevida  e  sua  má-fé.
+5.  Recurso  parcialmente  conhecido  e,  nessa  extensão,  provido  em  parte
+Os  embargos  de  declaração  foram  rejeitados  (e-STJ  fls.  204/209).
+No  recurso  especial  (e-STJ  fls.  213/217),  interposto  com  fundamento  no  art.  105,  III,  "a",  da  CF,  a  recorrente  alegou  afronta  "aos  artigos  333,  inciso  I,  e  334,  inciso  III,  do  Código  de  Processo  Civil,  bem  como  dissídio  jurisprudencial,  sustentando  que  em  contrato  de  arrendamento  mercantil  não  há  que  se  falar  em  estipulação  de  juros,  não  sendo  possível  constatar  a  existência  de  capitalização "  (e-STJ  fl.  268). Ressaltou que "a Recorrida sabia desde o momento da assinatura do contrato todos os valores que deveria pagar, e assim permaneceria desde a primeira até a última prestação, sem variação alguma. Vê-se, portanto, que as parcelas são todas pré-fixadas e todas suas taxas, elementos configuradores e índices de atualização são todos PRE-DETERMINADOS" (e-STJ fl. 215).
+Destacou  que  "não  se  pode  falar  em  juros  no  contrato  de  arredamento  mercantil  (a  não  ser  os  juros  de  mora,  cabíveis  em  caso  de  inadimplemento).  O  que  há  é  o  preço,  dividido  em  parcelas,  e  neste  preço,  embutidos  os  custos,  o  lucro  do  agente  financeiro "  (e-STJ  fl.  216).
+ Argumentou que  "não  há  nos  autos  qualquer  meio  de  prova  robusto  capaz  de  indicar  a  pratica  conhecida  como  juros  sobre  juros"  (e-STJ  fl.  216). Asseverou que "não há nos autos qualquer prova de que exista capitalização de juros, já que inclusive não há que se falar sequer em cobrança de juros no pacto discutido" (e-STJ fl. 216).
+No  agravo  (e-STJ  fls.  273/276),  afirma  a  presença  de  todos  os  requisitos  de  admissibilidade  do  especial.
+A  agravada  não  apresentou  contraminuta.
+É  o  relatório.
+Decido.
+Na hipótese, embora a parte tenha sustentado que ocorreu ofensa aos  arts.  333,  inciso  I,  e  334,  inciso  III,  do  Código  de  Processo  Civil de 1973 ,  tem-se que referida tese não foi julgada pela instância primeira.
+Assim, a simples indicação dos dispositivos legais tidos por violados, sem enfrentamento do tema pelo acórdão recorrido, obsta o conhecimento do recurso especial, por falta de prequestionamento, a teor da Súmula n. 211 do STJ.
+Nesse sentido:
+AGRAVO INTERNO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. INDENIZAÇÃO POR DANOS MORAIS E LUCROS CESSANTES. DANO AMBIENTAL CAUSADO PELO NAVIO BAHAMAS EM CANAL PORTUÁRIO NO AN O DE 1998. DERRAMAMENTO DE ÁCIDO SULFÚRICO QUE INVIABILIZOU A COMERCIALIZAÇÃO DE PESCADO. PRAZO PRESCRICIONAL DA AÇÃO INDIVIDUAL NÃO IMPLEMENTADO. INTERRUPÇÃO DA FLUÊNCIA POR FORÇA DO AJUIZAMENTO DE AÇÃO CIVIL PÚBLICA (2000.71.01.001891-1/RS) COM A FINALIDADE DE APURAR O DANO AMBIENTAL E SEUS CAUSADORES. DEMANDA INDENIZATÓRIA INDIVIDUAL. MESMA MATÉRIA. INTERROMPIDA A FLUÊNCIA DO PRAZO PRESCRICIONAL DA PRETENSÃO INDIVIDUAL. APLICAÇÃO DE MULTA. NULIDADE POR NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. VIOLAÇÃO DE LEI FEDERAL. DISSÍDIO JURISPRUDENCIAL. SÚMULA 83 DO STJ. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211 DO STJ. INCIDÊNCIA. REVOLVIMENTO DO CONJUNTO FÁTICO E PROBATÓRIO. SÚMULA 7 DO STJ. INCIDÊNCIA. MULTA POR EMBARGOS PROTELATÓRIOS.SÚMULA 7 DO STJ. INCIDÊNCIA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+3. A matéria referente aos dispositivos de lei indicados como violados não foi objeto de discussão no acórdão recorrido, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 211/STJ).
+(..)
+6. Agravo interno não provido.
+(AgInt no REsp 1925132/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 16/08/2021, DJe 24/08/2021. )
+Ademais, mesmo que afastada a falta de prequestionamento, as teses apresentadas acerca do contrato firmado entre as partes e a estipulação de juros não se coadunam com os respectivos artigos citados, que apenas tratam do ônus da prova, atraindo o óbice da Súmula n. 284 do STF.
+Ante  o  exposto,  NEGO  PROVIMENTO  ao  agravo em recurso  especial.
+Publique-se  e  intimem-se.
+EMENTA
