@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de conflito negativo de competência suscitado pelo d. Juízo da 2ª Vara do Trabalho de Montes Claros/MGem face do d. Juízo de Direito da 3ª Vara Cível de Montes Claros/MG.
+O Conflito foi estabelecido em ação de cobrança de prêmio de segurode vida movida em face da ex empregadora, estipulante. e da seguradora, Bradesco Vida e Previdência S/A (nas fls. 8/10 e 238/241).
+A ação foi proposta perante o d. Juízo da 3ª Vara Cível de Montes Claros/MG que declarou suaincompetência para conhecer e julgar o presente feito, remetendo os autos para uma das Varas da Justiça do Trabalho de Montes Claros, com arrimo na jurisprudência do eg.Tribunal Superior do Trabalho no tocante ao recebimentode prêmio de segurode vida empresarial, contratado por empresas em prol de seus empregados (214/215).
+Remetidos os autos, o d. Juízo do Trabalho, também declarando sua incompetência,suscitou conflito de competência, defendendo que, "ainda que o contrato de seguro tenha origem em relação de natureza trabalhista, trata-se de contratação absolutamente desvinculada do contrato de trabalho, que demanda a incidência de legislação específica, de forma que o processo em que se discute tal matéria aborda questões e situações totalmente diversas da relação jurídica de emprego, conduzindo à apreciação de matéria que não se encontra sob a competência da Justiça do Trabalho" (na fl. 238).
+É o relatório.
+Passo a decidir.
+De início, conforme autorizado pelos arts. 178 e 951, parágrafo único, do CPC, deixa-se de colher a opinião ministerial, pois o presente conflito de competência não se insere dentre as hipóteses que provocam a imprescindível oitiva do Ministério Público e que tratam de interesse público ou social, interesse de incapaz ou litígios coletivos pela possede terra rural ou urbana (art. 178, CPC).
+Ademais, a questão, corriqueira nesta Corte, é de singela resolução.
+De fato, a causa de pedir remota da presente ação repousa no fato de que a autora, beneficiária do seguro de vida, deixou que o prazo contratual estipulado para o recebimento do prêmio securitáriotranscorresseincólume.
+Com efeito, a autora afiram queo "só pode procurar a ré tempos depois depois do ocorrido" e que, "Todavia, lhe disseram que,como jáhavia escoado o prazo, a úrica opçãoseriarecorrer a via judicial" (na fl. 8).
+Extrai-se disso, a conclusão de que a ação é estabelecida entre a segurada e a seguradora,sem discutir a relação de trabalho outrora mantida com a estipulante, assim como eventual descumprimento desta com obrigações decorrentes do contrato de seguro por ela estipulado, pois acausa de pedir assenta-se na possibilidade de se exigir o prêmio securitário depois de escoado o prazo contratual para tanto.
+Ante o exposto, conheço do conflito e declaro competenteod. Juízo da 2ª Vara do Trabalho de Montes Claros/MG.
+Publique-se.
