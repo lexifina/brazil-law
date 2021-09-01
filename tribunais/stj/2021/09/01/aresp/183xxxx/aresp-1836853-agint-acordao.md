@@ -1,0 +1,24 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão da Presidência desta Corte, às fls. 279-284, que conheceu do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nas razões do agravo interno, aagravante reitera que houve violando do artigo 1.022, inciso II, do CPC/2015, aduzindo, preliminarmente, que "houve sim negativa de prestação jurisdicional por parte do TJSP", porquanto "instado a se manifestar sobre os documentos de fls. 44-46, 51, 53, 60, 62, 64, 75 -76, 78, 124, 126 e 131 que comprova m que a AGR AVADA tentou evitar a conversão automática do auxílio-doença em aposentadori a por invalidez", foi omisso "sobre as provas consideradas fundamentais para a correta apreciação da quizila"(fl. 290). Em seguida, acrescenta que, no caso, não se trata de reexame fático-probatório, bastando "perquirir se o TJSP aplicou corretamente os artigos 3º, 17 e 485 , inciso VI, todos do Código de Processo Civil, extinguindo o feito sem resolução de mérito, ante a falta de interesse de agir processual" (fl. 291).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1. A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): O presente recurso não comporta conhecimento, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Na espécie, registra-se que a decisão vergastada encontra-se amparada nos seguintes fundamentos: (a) quanto à violação doart.1.022 do CPC/2015: "não merece prosperar, porque o Tribunal de origem examinou devidamente a controvérsia dos autos, fundamentando suficientemente e com clareza sua convicção, não havendo se falar em negativa de prestação jurisdicional porque inocorrentes omissões ou obscuridade no acórdão recorrido"; (b) quanto à alegadaviolação dos artigos 3º, 17 e 485, inciso VI,do CPC/2015, no que concerne à comprovação do interesse de agir no presente caso, "nada impede que a Administração conceda sucessivas licenças, possibilitando a referida conversão após o período exigido. Tais fatos demonstram que não há notório e reiteradoentendimento da Administração contra à pretensão da autora" (..), "não há qualquer prova nos autos que indique tal circunstância, razão pela qual a alegação não pode ser acolhida", incidindo na espécieo óbice da Súmula 7/STJ.
+Ocorre que o agravante não impugnou, especificamente, taisfundamentos, especialmenteno que tange ao óbice da Súmula 7/STJ, eis que limitou-seapenas a tecer considerações genéricas acerca do que entendera aplicáveis à espécie,consubstanciando deficiência apta a ensejar o não conhecimento do recurso, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
