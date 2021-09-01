@@ -1,0 +1,65 @@
+DECISÃO
+Trata-se de agravos interpostos peloINSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA e por ANDRÉ FIRAK E OUTROScontra decisão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, quenão admitiu os recursos especiaisfundados, respectivamente, naalínea "a"e nas alíneas "a" e "c" do permissivo constitucionale que desafiam acórdãoassim ementado (e-STJ fl. 37):
+ADMINISTRATIVO. CUMPRIMENTO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. HONORÁRIOS ADVOCATÍCIOS. PAGAMENTO POR PRECATÓRIO. IMPUGNAÇÃO PARCIAL.
+1. No Código de Processo Civil de 2015, vigente desde 18 de março de 2016, a execução de obrigação de pagar quantia certa decorrente de título judicial pela Fazenda Pública se dá pelo cumprimento de sentença, e está elencada no art. 534 e seguintes. Por sua vez, a regra geral para a condenação em honorários advocatícios se encontra disciplinada no art. 85 e seguintes.
+2. Nos termos do art. 85, § 1º, são devidos honorários advocatícios no cumprimento de sentença, com exceção do cumprimento de sentença contra a Fazenda Pública cujo pagamento seja efetuado por meio de expedição de precatório, desde que não tenha sido impugnado (§7º do art. 85).
+3. Ocorrendo a impugnação parcial dos valores devidos, a parcela incontroversa poderá ser requisitada imediatamente. Assim, considerando a norma geral de isenção da fazenda pública do pagamento de honorários sobre os valores a serem requisitados por precatório, os honorários deverão incidir somente sobre a parcela impugnada, desde que a impugnação seja rejeitada.
+Os embargos declaratórios foram rejeitados (e-STJ fls. 97/100).
+Em suas razões, o INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRAaponta violação dos artigos:
+a) 1.022 do CPC/2015, indicando omissão pela Corte de origem quanto à análise da tese de que a parte adversa pleiteia honorários resultantes da impugnação ao cumprimento de sentença e não referentes ao próprio cumprimento/execução, tendo o Tribunal a quo partido de premissa equivocada,e da tese de supressão de instância, uma vez que não poderia o Tribunal ter fixado o percentual de honorários, mas somente determinadoà origem que o fizesse, em respeito ao duplo grau;
+b) 85, §7º, do CPC/2015, sustentando que "não se realiza a fixação de honorários advocatícios em sede de impugnação ao cumprimento de sentença a favor da parte exequente, mas sim no próprio cumprimento de sentença, o que deve(ria) ter ficado a cargo do juízo da execução, com base no quantum efetivamente devido.  ..  Note-se que, no caso em tela, a parte recorrente é penalizada pelo entendimento equivocado do tribunal recorrido que aponta que a sucumbencial em sede de impugnação ao cumprimento de sentença resultaria em direito a verba honorária. ORA, SOBRE O VALOR EFETIVAMENTE DEVIDO DEVE INCIDIR HONORÁRIOS ADVOCATÍCIOS A SEREM FIXADOS EM SEDE DE CUMPRIMENTO DE SENTENÇA!!" (e-STJ fl. 121).
+Contrarrazõesàs e-STJ fls. 160/165.
+ANDRÉ FIRAK eOUTROS, em seu apelo especial, indicam, além de dissídio jurisprudencial, ofensa aoart. 85, §§ 2º e 3º, inciso I, do CPC/2015, asseverando, que, "ao impugnar a execução originária de R$ 442.536,26, o INCRA sustentou que a dívida em tela seria de R$ 279.565,48, havendo, pois, um excesso de R$ 142.970,78 (evento 59 do processo originário). Porém, no julgamento da demanda, o valor homologado da execução foi de R$ 543.347,30 - e não R$ 442.536,26, conforme se observa no evento 121 do mesmo processo originário.  .. Logo, os honorários de sucumbência em favor da parte agravante/embargante deveriam ter sido arbitrados em 10% sobre a diferença entre o valor incontroverso apontado pelo INCRA (R$ 279.565,48) e o efetivamente devido (R$ 543.347,30), qual seja, R$ 263.78,82 (parte em que o INCRA pereceu/sucumbiu)" (e-STJ fls. 129/130)
+Quanto ao dissídio, apontam como paradigma oAgInt no REsp 1.740.865/SP.
+Contrarrazões às e-STJ fls. 154/156.
+Os apelos nobres receberamjuízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados nos presentes recursos.
+Passo a decidir.
+Inicialmente, analiso apretensão do INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA.
+No que concerne à alegada negativa de prestação jurisdicional,saliente-se que o art. 1.022 do Código de Processo Civil/2015 prevê que os embargos de declaração são cabíveiscontra qualquer decisão judicial, no intuito de esclarecer obscuridade, eliminar contradição, suprir omissão ou para correção de eventual erro material, in verbis:
+Art. 1.022. Cabem embargos de declaração contra qualquer decisão judicial para:
+I - esclarecer obscuridade ou eliminar contradição;
+II - suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;
+III - corrigir erro material.
+Especificamente quanto à hipótese do inciso II, a novel legislação processual definiu como omissão as seguintes situações: (i) deixar de se manifestar sobre tese firmada em sede de recursos repetitivos ou em incidente de assunção de incompetência, e (ii) incorrera decisão judicial em qualquer das condutas descritas no artigo 489, § 1º, do CPC/2015.
+Esse dispositivo, por sua vez, trata dos casos em que a decisão judicial carece de fundamentação, senão vejamos:
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória, sentença ou acórdão, que:
+I - se limitar à indicação, à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida;
+II - empregar conceitos jurídicos indeterminados, sem explicar o motivo concreto de sua incidência no caso;
+III - invocar motivos que se prestariam a justificar qualquer outra decisão;
+IV - não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador;
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos;
+VI - deixar de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Para a admissão do recurso especial com base no referido dispositivo, a omissão tem que ser manifesta, ou seja, imprescindível para o enfrentamento da quaestio.
+No presente caso, a insurgência do agravante se amolda à hipótese elencada no inciso IV do art. 489, § 1º, do CPC/2015, tendo em vista que a Corte de origem não exprimiu juízo de valor sobre as teses de que a parte adversa pleiteia honorários resultantes da impugnação ao cumprimento de sentença e não referentes ao próprio cumprimento/execução, tendo o Tribunal a quo partido de premissa equivocada, e de que houvesupressão de instância, uma vez que não poderia o Tribunal ter fixado o percentual de honorários, mas somente determinado à origem que o fizesse, em respeito ao duplo grau.
+Com efeito, é de suma importância a verificação das referidas teses.
+Outrossim, verifica-se que o tema foi submetido à apreciação do Tribunal de origem, conforme se extrai do seguinte trecho dos embargos de declaração opostos pela parte insurgente (e-STJ fls. 54/55):
+- DA PREMISSA EQUIVOCADA. AGRAVANTES PLEITEIAM HONORÁRIOS NA IMPUGNAÇÃO. PEDIDO DE CHAMAMENTO DO FEITO À ORDEM
+O voto condutor, com redobrada vênia, partiu de premissa equivocada. Assim requereram os agravantes:
+Diante de todo o exposto, requer-se que o presente Agravo de Instrumento seja recebido, conhecido e provido, com a reforma da decisão que condenou apenas os Agravantes a arcarem com os honorários de sucumbência, para que o Agravado também arque com o ônus da sucumbência na parte que pereceu.
+O objetivo, como se observa da inicial recursal, não é a fixação de honorários no cumprimento/execução, mas sim o resultante da impugnação.
+De se observar que o agravo foi interposto em face da decisão do evento 139 do primeiro grau (que apreciou os declaratórios em face da decisão do evento 121, justamente o julgamento da impugnação!).
+Veja-se precedente do Eg. STJ, em repetitivo:
+RECURSO ESPECIAL REPETITIVO. DIREITO PROCESSUAL CIVIL. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS.
+1. Para efeitos do art. 543-C do CPC: 1.1. São cabíveis honorários advocatícios em fase de cumprimento de sentença, haja ou não impugnação, depois deescoado o prazo para pagamento voluntário a que alude o art. 475-J do CPC, que somente se inicia após a intimação do advogado, com a baixa dos autos e a aposição do "cumpra-se" (REsp. n.º 940.274/MS).
+1.2. Não são cabíveis honorários advocatícios pela rejeição da impugnação ao cumprimento de sentença.
+1.3. Apenas no caso de acolhimento da impugnação, ainda que parcial, serão arbitrados honorários em benefício do executado, com base no art. 20, § 4º, do CPC.2. Recurso especial provido.
+(REsp 1134186/RS, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 01/08/2011, DJe 21/10/2011)
+ ..
+- SUPRESSÃO DE GRAU
+Por outro lado, suscita indevida supressão de grau. Jamais poderia a Colenda Turma fixar o percentual de honorários. O máximo que poderia fazer seria determinar à origem que o fizesse, em respeito ao duplo grau.
+Requer seja analisado o ponto. (Grifos acrescidos)
+Logo, estando configurada a negativa de prestação jurisdicional, faz-se necessária a declaração de nulidade do acórdão que apreciou os embargos declaratórios, para que o vício seja sanado pela Corte a quo, ficando prejudicadas as demais questões discutidas no apelo raro.
+Nesse sentido:
+PROCESSO CIVIL. TRIBUTÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.VIOLAÇÃO AO ART. 535, II, DO CPC. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM.
+1. Considerando que a Corte de origem deixou de se manifestar sobre ponto pertinente à lide, expressamente ventilado pela parte recorrente e indispensável à apreciação do apelo extremo, é inegável a violação do art. 535, II, do CPC, o que impõe o reconhecimento de nulidade do acórdão, bem como a determinação de novo julgamento dos embargos de declaração, para que seja sanada a omissão apontada.
+2. Tem-se que a interpretação sistemática do art. 530 do CPC leva à conclusão de que estão afastadas das hipóteses de cabimento de Embargos Infringentes contra acórdão que, por maioria, reforma sentença proferida com base no art. 267 do CPC, qual seja, a que leva à extinção do feito sem julgamento do mérito, como na hipótese dos autos.
+3. Agravo Regimental não provido. (AgRg no REsp 1.346.569/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, DJe 25/11/2014).
+TRIBUTÁRIO. ISSQN. EXECUÇÃO FISCAL. VIOLAÇÃO DO ART. 535 DO CPC. OCORRÊNCIA. AUSÊNCIA DE MANIFESTAÇÃO DA CORTE A QUO, A DESPEITO DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO, SOBRE QUESTÃO RELEVANTE PARA O DESLINDE DA CONTROVÉRSIA. RETORNO DOS AUTOS À ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1. A análise das decisões proferidas pelo Tribunal de origem (e-STJ, fls. 355/365 e 417/424), em cotejo com os recursos da sociedade contribuinte (e-STJ, fls. 305/309 e 403/414), revela que houve omissão no acórdão recorrido sobre "(a) a argumentação quanto à falta de instauração de procedimento administrativo com a finalidade de apurar a responsabilidade tributária da Recorrente, circunstância que redundaria na nulidade do título executivo, nos moldes do que prescreve o inciso, I, do artigo 618 do Código de Processo Civil, e ainda, (b) a circunstância envolvendo o suposto desrespeito às regras previstas pelos artigos 106, 134, parágrafo único e 144 do Código Tributário Nacional" (e-STJ, fl. 459), matéria relevante ao deslinde da controvérsia.
+2. A jurisprudência deste Superior Tribunal de Justiça é firme no entendimento de que deve a parte vincular a interposição do recurso especial à violação do art. 535 do Código de Processo Civil, quando, mesmo após a oposição de embargos declaratórios, o tribunal a quo persiste em não decidir questões que lhe foram submetidas a julgamento, por força do princípio tantum devolutum quantum appellatum ou, ainda, quando persista desconhecendo obscuridade ou contradição arguidas como existentes no decisum.
+3. Por restar configurada a agressão ao disposto no art. 535 da legislação processual, impõe-se a declaração de nulidade do acórdão que julgou os embargos declaratórios, a fim de que o vício no decisum seja sanado.
+4. Recurso especial provido para anular o acórdão dos embargos de declaração, determinando o retorno dos autos à Corte de origem, a fim de que se manifeste, expressamente, a respeito do quanto alegado em sede declaratória.
+(REsp 1.313.492/SP, Rel. Ministra DIVA MALERBI (DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO), SEGUNDA TURMA, DJe 31/03/2016).
+Ficam prejudicadas as demais alegações.
+Ante o exposto,com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PROVIMENTO ao recurso especial de INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, a fim de anular o acórdão prolatado em sede de embargos declaratórios, por violação do art. 1.022 do CPC/2015, determinando o retorno dos autos ao Tribunal de origem para que sejam analisadas as questões omitidas mencionadas acima. Prejudicado o recurso do particular.
+Publique-se. Intimem-se.
