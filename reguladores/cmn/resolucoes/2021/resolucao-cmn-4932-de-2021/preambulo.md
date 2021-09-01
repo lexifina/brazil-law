@@ -1,0 +1,4 @@
+RESOLUÇÃO CMN Nº 4.932, DE 29 DE JULHO DE 2021
+Consolida os atos normativos que definem a remuneração das instituições financeiras pelos serviços de análise de viabilidade econômico-financeira dos projetos de financiamentos contratadas com recursos dos Fundos Constitucionais de Financiamento do Centro-Oeste, do Nordeste e do Norte, e revoga expressamente resoluções já tacitamente revogadas, em atendimento ao Decreto nº 10.139, de 28 de novembro de 2019.
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 29 de julho de 2021, com base no disposto no art. 18 da Lei nº 12.712, de 30 de agosto de 2012, no art. 15, § 1º, da Lei nº 7.827, de 27 de setembro de 1989, nos arts. 1º e 8º-A, § 4º, da Lei nº 10.177, de 12 de janeiro de 2001, e nos arts. 5º, 7º e 8º do Decreto nº 10.139, de 28 de novembro de 2019,
+R E S O L V E U :
