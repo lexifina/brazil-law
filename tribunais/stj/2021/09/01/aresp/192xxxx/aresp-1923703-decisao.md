@@ -1,0 +1,37 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial interposto por JAYME RAMOS DE ALMEIDA contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro que inadmitiu o seu recurso especial manejado em face do acórdão assim ementado:
+APELAÇÃO CÍVEL AÇÃO REVISIONAL CONTRATO DE PLANO DE SAÚDE COLETIVO POR ADESÃO DEMANDA AJUIZADA EM FACE DE ASSOCIAÇÃO E DE OPERADORA DE PLANO DE SAÚDE AUTOR INFORMOU DÉFICIT NO CUSTEIO DO SERVIÇO E OFERTA DE PROPOSTAS PELA ESTIPULANTE AFIRMOU TER ESCOLHIDO POR MIGRAÇÃO MAS NÃO TEREM AS RÉS ACATADO DOCUMENTO JUNTADO AOS AUTOS POR ELE PRÓPRIO QUE COMPROVA O CONTRÁRIO HOUVE MANUTENÇÃO NO CONTRATO O QUE IMPLICOU EM CONCORDÂNCIA COM REAJUSTE ALEGAÇÃO DE QUE O VALOR É ABUSIVO QUE NÃO FOI CONFIRMADA EXPERT NOMEADO PELO JUÍZO DEMONSTRA QUE O PREÇO ESTÁ ABAIXO DA MÉDIA DE MERCADO DESPROVIMENTO DO RECURSO
+Opostos embargos de declaração, esses foram rejeitados (e-STJ fls. 963/975).
+Nas razões do recurso especial os recorrentes apontam violação aos arts. 1.022, I, do CPC, argumentandonegativa de prestação jurisdicional.
+Alega que suscitou, em sede de Embargos Declaratórios, violação ao Código de Processo Civil, ao apontar as omissões no julgado que se limitou a afirmar que a perícia constatou que à época da transação o valor da mensalidade cobrada pelo plano individual do Recorrente era compatível com a despesa per capita mensal apurada no TAP Saúde à fl. 201. Embora rejeitado, foi reconhecida pela 25ª Câmara Cível que as questões suscitadas no recurso foram enfrentadas no acórdão recorrido, o que obsta qualquer alegação de ausência de prequestionamento da matéria. (e-STJ fls. 986/987)
+Apresentadas ascontrarrazões (e-STJ fls.1005/1010), sobreveio juízo negativo de admissibilidade pelo Tribunal de origem, motivo pelo qual foi interposto o agravo em recurso especial.
+É o breve relatório.
+Passo a decidir.
+A pretensão recursal não prospera.
+Inicialmente, registra-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que deve ser aplicado ao caso o entendimento firmado no Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas apartir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+No tocante à alegada afronta ao art.1.022, I,do CPC/2015, sem razão os recorrentes.
+Isto porque, conforme a jurisprudência desta Corte, estando devidamente analisadas e discutidas as questões de mérito, e bem fundamentado o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação ao art. 1.022 do CPC/15.
+Na verdade, a parte recorrente pretendeu rediscutir em sede de aclaratórios matérias já apreciadas pelo Tribunal a quo, providência vedada nesta espécie recursal.
+Amolda-se à espécie, pois, o entendimento pretoriano consolidado quanto à desnecessidade de que o Tribunal, ao proferir sua decisão, aprecie expressamente todas as questões suscitadas pelas partes, bastando que no acórdão constem os fundamentos utilizados para se chegar à conclusão exteriorizada e esta apresente uma solução à questão jurídica que lhe foi submetida pelas partes.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA DE IMÓVEL. FALSIDADE DE DOCUMENTO. NULIDADE DO NEGÓCIO JURÍDICO. ART. 1.022 DO CPC/2015. AUSÊNCIA DE OMISSÕES VÍCIO DE COAÇÃO. MATÉRIA QUE DEMANDA REEXAME DE PROVAS. SÚMULA 7 DO STJ. PRESCRIÇÃO. COISA JULGADA. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULAS 283 E 284 DO STF. DANO MORAL. REDUÇÃO. REEXAME. AGRAVO INTERNO NÃO PROVIDO.
+1. Não há que se falar em qualquer ofensa aos artigos 1022, II e 489, §1º, do CPC/2015, porquanto embora rejeitados os embargos de declaração, a matéria em exame foi devidamente enfrentada pelo Tribunal de origem, que emitiu pronunciamento de forma fundamentada, ainda que em sentido contrário à pretensão da parte recorrente.
+2. A falta de impugnação objetiva e direta ao fundamento central do acórdão recorrido, o que denota a deficiência da fundamentação recursal, pois o recorrente se apegou a considerações secundárias e que de fato não constituíram objeto de decisão pelo Tribunal de origem, a fazer incidir, no particular, as Súmulas 283 e 284 do STF.
+3. Nos termos da jurisprudência consolidada no STJ, a revisão de indenização por danos morais somente é possível em recurso especial quando o valor fixado nas instâncias locais for exorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade e da proporcionalidade. Ausentes tais hipóteses, incide a Súmula 7 do STJ.
+4. Agravo interno não provido.
+(AgInt no AREsp 1274995/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 30/08/2018, DJe 05/09/2018; grifou-se)
+PROCESSUAL CIVIL. AGRAVO INTERNO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE EXIBIÇÃO DE DOCUMENTOS. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. VIOLAÇÃO DO ART. 535 DO CPC/73. OMISSÃO QUE NÃO SE VERIFICA. PEDIDO ADMINISTRATIVO. INTERESSE DE AGIR RECONHECIDO PELO TRIBUNAL DE ORIGEM. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA Nº 7 DO STJ. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC.
+1. Aplicabilidade do NCPC a este recurso ante os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Inexiste ofensa ao art. 1022, II, do NCPC (art. 535 do CPC/73) quando o Tribunal a quo se manifestou clara e fundamentadamente acerca dos pontos indispensáveis para o desate da controvérsia, sendo desnecessário rebater, uma a uma, as razões suscitadas pelas partes.
+(..).
+3. No caso dos autos, a convicção a que chegou o acórdão recorrido quanto ao interesse de agir da parte autora decorreu da análise do conjunto fáticoprobatório, e o acolhimento da pretensão recursal demandaria o reexame do mencionado suporte, o que encontra óbice no enunciado nº 7 da Súmula do STJ.
+4. Em virtude do não provimento do presente recurso, e da anterior advertência em relação à aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+5. Agravo interno não provido, com aplicação de multa.
+(AgInt no REsp 1624810/PR, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 23/05/2017, DJe 01/06/2017) - g.n.
+Acaso a parte não concordasse com o resultado do julgamento, deveria apontar dispositivo de lei federal que porventura tenha restado malferido ante a solução dada ao caso, a fim de ver sua inconformismoapreciado de acordo com a jurisprudência desta Corte Superior.
+Não constatada a negativa de prestação jurisdicional na hipótese, por violação ao artigo 1.022, I, do CPC/15, único apontado como ofendido, inviável o acolhimento da pretensão recursal.
+Ante o exposto, conheço do agravo para conhecer do recurso especial e, desde logo, NEGAR-LHE PROVIMENTO.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). ART. 1022 DO CPC. OMISSÃO. INEXISTÊNCIA. RESULTADO DESFAVORÁVEL. PRETENSÃO DE REJULGAMENTO DA CAUSA. IMPOSSIBILIDADE. AGRAVO CONHECIDO PARA, DESDE LOGO, NEGAR PROVIMENTO AO RECURSO ESPECIAL.
