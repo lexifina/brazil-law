@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se recurso especial interposto contra acórdão do TJDFT assim ementado (e-STJ fl. 500):
+CIVIL, DIREITO DO CONSUMIDOR E PROCESSUAL CIVIL. AÇÃO COMINATÓRIA. PLANO DE SAÚDE. CÓDIGO DE DEFESA DO CONSUMIDOR. INCIDÊNCIA. PACIENTE. DIAGNÓSTICO. FIBROSE PULMONAR IDIOPÁTICA (CID 10.J84.1). MEDICAMENTO. PRESCRIÇÃO MÉDICA. ESBRIET (PIRFENIDONA). MEDICAMENTO DE USO ORAL DOMICILIAR. CUSTEIO. NEGATIVA. LEGITIMIDADE. PREVISÃO CONTRATUAL. EXTENSÃO DA COBERTURA. MODULAÇÃO PELA VIA HERMENÊUTICA. NECESSIDADE DE ATENTAR-SE AO OBJETO CONTRATADO. COBERTURA MÍNIMA OBRIGATÓRIA. ROL ESTABELECIDO PELO ÓRGÃO SETORIAL (RN/ANS 338/13 E RN/ANS 428/2017). PARECER TÉCNICO  21 /GEAS/GGRAS/DIPRO/2019. INTERVENÇÃO. COBERTURA. NEGAÇÃO PELA
+OPERADORA. LEGALIDADE. PLANO DE SAÚDE. PREVISÃO CONTRATUAL. NEGÓCIO JURÍDICO. COMUTATIVIDADE. BILATERALIDADE. EQUILÍBRIO ECONÔMICO - FINANCE1RO. PRESERVAÇÃO (REsp 1.733.013/PR). RECUSA LEGÍTIMA. ILÍCITO CONTRATUAL INEXISTENTE. EXERCÍCIO REGULAR DUM DIREITO. CONSULTA.QUESTÕES DE SAÚDE. ÂMBITO DO SISTEMA ÚNICO DE SAÚDE. FACULDADE DO JUÍZO. APELAÇÃO. RECURSO PROVIDO. SENTENÇA REFORMADA. PEDIDOS REJEITADOS. HONORÁRIOS ADVOCATÍCIOS. INVERSÃO. HONORÁRIOS RECURSAIS. FIXAÇÃO (CPC, ART. 85, §§ 2ºe 11).
+Por meio da petição n. 00676698/2021, o Dr. Gabriel Freitas Vieira, OAB/DF n. 65.076, comunica a morte do recorrente ORIVAL RODRIGUES JARDIMe "por conseguinte, aperda superveniente do objeto do recurso" (e-STJ fl. 500).
+Esclarece que "se trata de ação de obrigação de fazer, de cunho personalíssimo, na qual se requereu o fornecimento de medicação para tratamento de Fibrose Pulmonar, evidenciando-se a intransmissibilidade da demanda. Por esse motivo, requer-se que o presente recurso especial seja julgado prejudicado, consoante disposição do art. 932, III, do Código de Processo Civil" (e-STJ fl. 603).
+O advogado subscritor da referida peça está regularmente constituído nos autos (e-STJ fls. 72 e 549).
+A cópia da certidão de óbito de fl. 605 (e-STJ) demonstra o alegado.
+Ante o exposto, JULGO PREJUDICADO o recurso por perda do interesse recursal.
+Publique-se e intimem-se.
