@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. OFICIAL ADMINISTRATIVO DA POLÍCIA MILITAR. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OMISSÃO. OFENSA CARACTERIZADA. QUESTÃONÃO EXAMINADAE IMPRESCINDÍVELÀ SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1.A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 1.022 do CPC/2015.
+2. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES: Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 1.842):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.CONCURSO PÚBLICO. OFICIAL ADMINISTRATIVO DA POLÍCIA MILITAR. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS.VIOLAÇÃO DO ART. 1.022 DO CPC/2015. OCORRÊNCIA. RECURSO ESPECIAL PROVIDO.
+O agravante aduz quenão há que se falar em ofensa ao artigo 1.022 do CPC/2015, uma vez que "o envio do presente mandado de segurança para novo julgamento pelo Tribunal de Justiça de São Paulo apenas causará graves danos ao IMPETRANTE, que com muita dificuldade teve acesso ao Superior Tribunal de Justiça, pois novamente sofrerá com as injustiças da não aplicação correta da legislação e jurisprudência, oque já fora debatido na presente corte e se encontra pacificado.Se o assunto já fora debatido e está pacificado, pois existem dezenas de processos idênticos na presente corte (buscando a nomeação dos oficiais administrativos da PolíciaMilitar de São Paulo que foram aprovados dentro das vagas previstas em edital e não foram nomeados no prazo devido), não faz sentido determinar o reenvio dos autos ao Tribunal inferior, pois simplesmente causará maior demora na resolução da causa, tendo em vista que poderão negar as jurisprudências e novamente os recursos processuais necessários deverão ser propostos" (fl. 1.850).
+Sem impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. CONCURSO PÚBLICO. OFICIAL ADMINISTRATIVO DA POLÍCIA MILITAR. CANDIDATO APROVADO DENTRO DO NÚMERO DE VAGAS. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OMISSÃO. OFENSA CARACTERIZADA. QUESTÃONÃO EXAMINADAE IMPRESCINDÍVELÀ SOLUÇÃO DA CONTROVÉRSIA. DETERMINAÇÃO DE RETORNO DOS AUTOS À CORTE DE ORIGEM PARA NOVO JULGAMENTO DOS ACLARATÓRIOS.
+1.A falta ou manifestação insuficiente a respeito de questão deduzida a tempo e modo pelo embargante e imprescindível à solução do litígio viola o artigo 1.022 do CPC/2015.
+2. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):O presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravo interno não se vislumbram razões para reformar a decisão agravada.
+Como salientado, houve, de fato, omissão apta a configurar a ofensa ao artigo 1.022 do CPC/2015, na medida em que o Tribunal local rejeitou os embargos de declaração sem apreciar a jurisprudência firmada pelo Superior Tribunal de Justiçaacerca da matéria versada no feito, bem comoquanto (fls. 1.303-1.304):
+a) todos os fundamentos jurídicos trazidos nas razões de apelação e nos embargos propostos (doc. 01);
+b) quanto a alegação de inexistência de crise financeira na abertura do certame e no momento de encerramento do prazo final do concurso;
+c) quanto a contratação de temporários, terceirizados e inativos para realização das funções do concurso em questão;
+d) quanto a inexistência de excepcionalidade ou de evento imprevisível que justificasse o impedimento das nomeações;
+e) quanto a preterição da vaga do Recorrente;
+f) quanto aos defeitos/nulidade no decreto governamental;
+g) quanto ao julgamento do Superior Tribunal de Justiça em diversos casos análogos (fls.
+1.178/1.192 e docs. 02 a 05), afastando qualquer alegação de excepcionalidade e eventos imprevisíveis.
+Frisa-se que orecorrente argumentou e requereu a manifestação expressa do órgão julgador a respeito de tais aspectos, suscitando a não adequação do caso concreto às condicionantes previstas no RE 598.099/MS e, ainda, à jurisprudência firmada pelo STJ acerca da controvérsia oriunda do aludido concurso público para o provimento de cargos vagos de Oficial Administrativo da Polícia Militar do Estado de São Paulo.
+Note-se que, em hipóteses iguais à presente, para o mesmo cargo ora em análise, o STJ tem se manifestado no sentido de que as justificativas apresentadas pela Administração para não nomear o recorrente, candidato aprovado dentro das vagas previstas no edital, não se mostram suficientes a caracterizar as situações excepcionalíssimas constantes do referido julgado da Suprema corte. Ilustrativamente:AgInt no REsp 1.861.708/SP,Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 4/6/2020;AgInt no RMS 59.264/SP, Rel. Ministra Assusete Magalhães, Segunda Turma, DJe 28/10/2019;AgInt no RMS 59.664/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/8/2019;AgInt no RMS 60.779/SP, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 21/8/2019.
+No caso, evidencia-se que os apontamentos suscitados guardam correlação lógico-jurídica com a pretensão deduzida nos autos, sendoessencialnovo pronunciamento da Corte de origema fim de que a prestação jurisdicional seja integral e efetiva.
+Nessa senda, a falta de manifestação a respeito de questão necessária à resolução integral da demanda autoriza o acolhimento de ofensa ao artigo 1.022 do CPC/2015 e enseja a anulação do acórdão proferido em sede de embargos de declaração, devendo os autos retornarem ao Tribunal de origem para novo julgamento dos aclaratórios.
+A jurisprudência desta Corte orienta-se neste sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. (..) OFENSA AOS ART. 1.022, II, E 489, § 1º, DO CPC/15. OMISSÕES. (..) AUSÊNCIA DE PRONUNCIAMENTO QUANTO A ASPECTOS ENVOLVENDO MATÉRIA FÁTICO-PROBATÓRIA RELEVANTE.DEVOLUÇÃO DOS AUTOS À ORIGEM. NECESSIDADE. PRECEDENTES.  ..  II - De acordo com o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento; e iii) corrigir erro material.
+III - A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento. Considera-se omissa, ainda, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, do CPC/15.
+ ..  VI - Extrai-se dos julgados deste Superior Tribunal sobre a matéria que o reconhecimento de eventual violação ao art. 1.022 do CPC/15 dependerá da presença concomitante das seguintes circunstâncias processuais: i) oposição de embargos de declaração, na origem, pela parte interessada; ii) alegação de ofensa a esse dispositivo, nas razões do recurso especial, de forma clara, objetiva e fundamentada, acerca da mesma questão suscitada nos aclaratórios; iii) publicação do acórdão dos embargos sob a vigência do CPC/15; e iv) os argumentos suscitados nos embargos declaratórios, alegadamente não examinados pela instância a quo, deverão: iv.i) ser capazes de, em tese, infirmar as conclusões do julgado; e iv.ii) versar questão envolvendo matéria fático-probatória essencial ao deslinde da controvérsia.
+VII - In casu, verifica-se a ausência de pronunciamento da Corte de origem a respeito de matéria fática relevante.
+VIII - Recurso especial provido para determinar o retorno dos autos à origem, nos termos da fundamentação. (REsp 1.670.149/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 22/3/2018)
+ADMINISTRATIVO. PROCESSUAL CIVIL. VIOLAÇÃO DOS ART. 165, 458 E 535 DO CPC. OMISSÃO CARACTERIZADA. FUNDAMENTAÇÃO DEFICIENTE. RETORNO DOS AUTOS PARA NOVO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO.
+1. Deficiente a prestação jurisprudencial realizada no Tribunal de origem, deve-se acolher a preliminar de violação dos arts. 165, 458 e 535 do CPC para determinar o retorno dos autos para que sejam sanadas as omissões apontadas.
+2. Hipótese em que não obstante a oposição de embargos de declaração, não foi decidida de forma clara e devidamente fundamentada a questão referente à ocorrência de danos materiais e o pedido de redução do quantum indenizatório arbitrados.
+Agravo regimental interposto por AMAZONAS DISTRIBUIDORA DE ENERGIA S/A provido para determinar o retorno dos autos ao Tribunal de origem a fim de que se manifeste sobre a matéria articulada nos embargos de declaração.
+Agravo regimental da União prejudicado (AgRg no REsp 1.211.216/AM, Rel. Ministro Humberto Martins, Segunda Turma, DJe 26/9/2013)
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
