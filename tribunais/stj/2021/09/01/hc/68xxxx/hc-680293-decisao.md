@@ -1,0 +1,52 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JACKSON SANTOS MOTAcontra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n.0003454-75.2021.8.26.0026.
+Consta dos autos que o Juízo da Vara das Execuções Criminais da Comarca de Bauru/SP (DEECRIM 3.ª RAJ) promoveu o ora Apenado ao regime aberto (fls. 42-43).
+O Paciente cumpre pena de 11 (onze) anos, 4 (quatro) meses e 19 (dezenove) dias de reclusão, pela prática dos crimes de roubo majorado, posse/porte ilegal de arma de fogo de uso restrito, receptações e corrupção de menores, com término previsto para 08/10/2028.
+Irresignado, o Ministério Público interpôs agravo em execução.
+A Corte de origem deu parcial provimento ao recurso para,"cassando a respeitável decisão agravada, determinar o retorno do reeducando Jackson Santos Mota ao regime prisional semiaberto no qual se encontrava cumprindo sua reprimenda, até que seja submetido a exame criminológico por equipe multidisciplinar" (fl. 21).
+Nas razões do writ, a Defesa argumenta que o Tribunal local "não apontou elementos concretos dos autos que pudessem justificar a necessidade do exame técnico, em injustificável afronto àSumula Vinculante nº 26" (fl. 8).
+Menciona a Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Pleiteia, em liminar e no mérito, o restabelecimento da decisão que progrediu o Paciente ao regime aberto.
+O pedido liminar foi indeferido peloMinistroPresidente do Superior Tribunal de Justiça, HUMBERTO MARTINS, no recesso forense (fls. 68-70).
+As informações foram prestadas às fls. 76-87.
+O Ministério Público Federal opinou pelo não conhecimento dowrit(fls. 91-100).
+É o relatório.Decido.
+A decisão que promoveu o Apenado ao regime aberto está assim fundamentada (fls. 42-43; grifos diversos do original):
+"O lapso temporal exigido foi resgatado e existe anotação de bom comportamento carcerário.
+Por outro lado, as demais informações constantes dos autos indicam que o sentenciado também ostenta o requisito subjetivo para o benefício, inclusive em razão da boa conduta carcerária atual e da inexistência de falta disciplinar. Além disso, o "boletim informativo"emitido pela unidade prisional não foi impugnado pelo Ministério Público. Apresenta mérito suficiente para a progressão de regime, que lhe dará estímulo para a sua recuperação social.
+Ademais, por tudo que foi exposto, também não há necessidade da realização de exame criminológico, não tendo sido apontado nenhum motivo concreto recente que justificasse a realização de tal exame, conforme critérios previstos na Súmula Vinculante 26 do STF.
+Desta forma, não vejo argumentos para o indeferimento do pleito.
+Em face do exposto, DEFIRO o pedido de regime aberto ao sentenciado JACKSON SANTOS MOTA, RG: 52.605.103, RJI: 170294460-07, Centro de Progressão I - Bauru/SP e em seguida CONCEDO a Prisão Albergue Domiciliar, mediante a observância das seguintes condições:
+01- Comparecer, no prazo de 30 dias, no Juízo da Execução Criminal do local que declararresidência para retirada da carteira para fiscalização e controle do benefício concedido.
+02- Tomar ocupação lícita no prazo de 90 (noventa) dias, comprovando-a em Juízo ou Central de Apoio ao Egresso, se houver na Comarca, bem como apresentar no mesmo prazo, comprovante de residência;
+03- Não mudar do território da Comarca do Juízo da Execução sem autorização deste;
+04- Sair para o trabalho às 6:h00 da manhã, devendo recolher-se na habitação até às 22h00, salvo autorização expressa do Juízo da execução;
+05- Comparecimento TRIMESTRAL no Juízo do domicílio que declarar residência ou Central de Apoio ao Egresso, se houver na Comarca, para o visto na carteira de liberado;
+06- Não freqüentar bares, boates, casas de jogos, parques de diversão e locais de reputação duvidosa;
+07- Não portar armas de qualquer espécie ou qualquer objeto capaz de ofender a integridade física humana.
+08- Caso venha a fixar residência em local onde exista Casa do Egresso, nela comparecer no prazo de 30 (trinta) dias.
+09- Caso venha fixar residência em São Paulo-Capital, comparecer ao Ofício da 3ª Vara de Execuções Criminais de São Paulo, no Cartório de Liberados, Rua 11, Sala 544, 2º andar, do Complexo Judiciário da Barra Funda (NSCGJ, cap. V, 30.1, "f").
+10- As autorizações para viagens, comunicação de mudança de endereço deverão ser solicitadas através de peticionamento eletrônico pela Defensoria Pública ou Defensor Constituído junto ao DEECRIM."
+O Tribunal de origem, ao dar parcial provimento aorecurso do Ministério Público e determinar a submissão do Paciente a exame criminológico, exarou a seguinte fundamentação (fls. 18-21; sem grifos no original):
+"Respeitado o entendimento do juízo monocrático e, em que pese a existência de atestado de bom comportamento carcerário do sentenciado (fls. 18), certo é que o agravado não demonstra reunir condições inequívocas para a promoção pretendida, conforme bem ponderado pelo agravante, e como abaixo se verá.
+O reeducando cometeu delito patrimonial grave, perpetrado mediante grave ameaça ou violência e em comparsaria, fato esse, por si só, ensejador da necessidade de mais acurada análise de seu mérito, porque a realidade do indivíduo egresso do sistema penitenciário compreende uma convivência conflituosa com a sociedade, além de possuir longa pena por cumprir (2028), sem deslembrar da posse ou porte ilegal de arma de fogo de uso restrito, receptações e corrupção de menores, revelando sua personalidade distorcida o que, por óbvio, exige a comprovação de que suapericulosidade sofreu a atenuação necessária para que possa usufruir benefício prisional, o que não restou evidenciada no caso sub examine.
+É certo que a gravidade dos delitos e a longa pena por cumprir, por si sós, não são causas impeditivas para a concessão da progressão de regime. Não menos certo é, porém, que são sérios indicadores da necessidade de se empreender maior acuidade na verificação dos requisitos legais.
+ ..
+Nesse contexto, em que não aferido, àvista de circunstâncias concretas alhures listadas, o abrandamento substancioso da periculosidade do condenado, forçoso o reconhecimento de que, a fim de melhor analisar o preenchimento do requisito subjetivo, se mostra imprescindível a submissão do reeducando ao exame criminológico por equipe multidisciplinar."
+Como é cediço, o instituto da progressão de regime somente será concedido ao condenado que preencher, cumulativamente, os requisitos objetivo e subjetivo, consoante o disposto no art. 112 da Lei de Execução Penal.
+Nos termos da jurisprudência do Superior Tribunal de Justiça, embora a nova redação do art. 112 da Lei n.7.210/1984 não mais exija, de plano, a realização de exame criminológico, cabe ao Magistrado verificar o atendimento dos requisitos subjetivos à luz do caso concreto, podendo, por isso, determinar a realização da perícia, se entender necessário, ou mesmo negar o benefício, desde que o faça fundamentadamente, quando as peculiaridades da causa assim o recomendarem, em observância ao princípio da individualização da pena, previsto no art. 5.º, inciso XLVI, da Constituição da República.
+A propósito, a referida orientação foi consolidada no Enunciado n.439 da Súmula desta Corte, que possui o seguinte teor:"Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+Na hipótese, como visto, o Tribunal a quo entendeu pela necessidade de realização de exame criminológico em razão da gravidade dos crimes perpetrados pelo Sentenciado e da longa pena a cumprir. Todavia, nos termos da jurisprudência desta Corte Superior, fundamentos abstratos e genéricos, como os apresentados pela Corte de origem, não justificam a exigência de exame criminológico.
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. EXAME CRIMINOLÓGICO. AUSÊNCIA DE DEMONSTRAÇÃO DE ELEMENTOS CONCRETOS QUE JUSTIFICASSEM A ELABORAÇÃO DA PROVA TÉCNICA. VIOLAÇÃO À SÚMULA N.439/STJ E À SÚMULA VINCULANTE N. 26. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A despeito de o exame criminológico não ser requisito obrigatório para a progressão do regime prisional, os Tribunais Superiores admitem a sua realização para a aferição do mérito do apenado em hipóteses excepcionais. Súmula n. 439/STJ e Súmula Vinculante n. 26.
+2. Na hipótese, o Tribunal de origem deu provimento ao agravo em execução interposto pelo Ministério Público e reformou a decisão de primeiro grau que concedera a progressão de regime, sem indicar elementos concretos pelos quais o exame criminológico estaria justificado, fundamentando a determinação tão somente na gravidade em abstrato dos delitos cometidos e na longa pena a cumprir do agravado, o que não se coaduna com a jurisprudência desta Corte acerca do tema.
+3. Agravo regimental desprovido."(AgRg no HC 536.956/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 22/10/2019, DJe 28/10/2019; sem grifos no original.)
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. DEFERIMENTO PELO JUÍZO DAS EXECUÇÕES. CASSAÇÃO PELA CORTE DE ORIGEM. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA. PRECEDENTES.
+1. Na hipótese, o Tribunal a quo entendeu pela necessidade de realização de exame criminológico, em razão da reincidência do apenado, da gravidade abstrata do delito (roubo) e da longa pena a cumprir. Todavia, nos termos da jurisprudência desta Corte Superior, fundamentos abstratos e genéricos, como os apresentados pela Corte de origem, não justificam a exigência de exame criminológico, bem como a análise do preenchimento do requisito subjetivo somente poderá fundar-se em fatos praticados durante a execução penal.
+2. Agravo regimental improvido."(AgRg no HC 590.322/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/08/2020, DJe 24/08/2020; sem grifos no original.)
+Cabível, assim, o restabelecimento da decisão proferida pelo Magistrado singular.
+Ante o exposto, CONCEDO a ordem de habeas corpus para restabelecer a decisão do Juízo das Execuções Penais que promoveu o Paciente ao regime aberto.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME DEFERIDA PELO JUÍZO DAS EXECUÇÕES PENAIS. CASSAÇÃO DO DECISUM PELA CORTE DE ORIGEM, COM DETERMINAÇÃO DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO.GRAVIDADE ABSTRATA DOS CRIMES. LONGA PENA A CUMPRIR.FUNDAMENTOS INIDÔNEOS. RESTABELECIMENTO DA DECISÃO QUE DETERMINOU A PROGRESSÃO DO PACIENTE AO REGIME ABERTO. ORDEM DE HABEAS CORPUS CONCEDIDA.
