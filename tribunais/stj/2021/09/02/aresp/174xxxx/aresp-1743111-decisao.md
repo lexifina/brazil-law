@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por HOOS MAQUINAS E MOTORES LTDA contra decisão que inadmitiu o recurso especial fundado no art. 105, III, a, da Constituição Federal, que objetiva reformar o acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+EMBARGOS À EXECUÇÃO FISCAL. FGTS. PAGAMENTO. IDENTIDADE DE OBJETO COM OUTRA EXECUÇÃO FISCAL. AUSÊNCIA DE PROVA. PERÍCIA CONTÁBEL. IMPRESCINDIBILIDADE NÃO DEMONSTRADA. AGRAVO RETIDO PREJUDICADO;
+1. As razões do agravo retido são coincidentes com as razões da apelação.
+2. Impossível o reconhecimento de identidade de objeto de execuções fiscais se não houver indicação, em relação ao outro feito, do fato gerador, do período de apuração, do sujeito passivo da "obrigação tributária (CNPJ da matriz ou das filiais).
+3. Cabe ao magistrado de primeira instância a avaliação da pertinência da "produção de perícia contábil. Eventual deferimento está condicionado à sua imprescindibilidade para análise e julgamento da matéria.
+Pedido realizado em termos genéricos, sem indicação das inconsistências na cobrança e as razões que justificariam a confecção de parecer por perito especializado na área. Precedente da 5ª Turma do TRF3.
+4. Agravo retido prejudicado. Apelação da embargante não provida.
+Os embargos de declaração opostos foram acolhidos, sem efeitos modificativos.
+No presente recurso especial, a recorrente aponta violação dos arts. 330, 332 e 333 do CPC de 1973, e arts. 3º e 16, §2º, da Lei nº 6.830/1980, alegando, em síntese, a ocorrência de cerceamento de defesa tendo em vista não ter sido deferida, ainda no juízo originário, a produção de prova pericial contábil.
+Após decisum que inadmitiu o recurso especial foi interposto o presente agravo, tendo a recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Verifica-se, quanto à suposta violação dos dispositivos suscitados por violados, que, no acórdão combatido, não foi analisado o conteúdo dos dispositivos legais apontados no presente recurso especial, pelo que carece o recurso do indispensável requisito do prequestionamento, imprescindível para a interpretação normativa exigida.
+Incide na hipótese o óbice constante da súmula 282 do STF, in verbis:
+Súmula 282: É inadmissível o Recurso Extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Ademais, infirmar as conclusões do acórdão recorrido que, confirmando a decisão agravada, entendeu, no caso concreto, que a produção de prova pericial não estava devidamente justificada a ponto de se pleitear seu deferimento, exigiria o reexame de elementos fático-probatórios do processo, providência esta que se encontra vedada no âmbito estreito do recurso especial nos termos da Súmula n. 7/STJ.
+Assim, a jurisprudência:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. CONTRATO DE CONCESSÃO DE USO. INEXISTÊNCIA DE NULIDADE NO JULGAMENTO MONOCRÁTICO. ALEGADO CERCEAMENTO DE DEFESA PELO INDEFERIMENTO DA PRODUÇÃO DE PROVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. INVIABILIDADE. ARTS. 1º., 47, 51, 58 E 68 DA LEI 8.245/1991 E 3º. DA LEI 8.666/1993. FALTA DE PREQUESTIONAMENTO. TEMAS NÃO OBJETO DE EMBARGOS DE DECLARAÇÃO. SÚMULAS 282 E 356/STF. PRETENSÃO DE REINTERPRETAR CLÁUSULAS CONTRATUAIS. SÚMULA 5/STJ. AGRAVO INTERNO DA SOCIEDADE EMPRESÁRIA A QUE SE NEGA PROVIMENTO.
+1. Nos termos do que decidido pelo Plenário do STJ, aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo 2).
+(..)
+4. A respeito do alegado cerceamento de defesa, a jurisprudência deste Tribunal Superior entende que avaliar a necessidade de produção de determinado tipo de prova, bem como a suficiência dos elementos já constantes dos autos, demandaria, evidentemente, reexame do conjunto fático-probatório. Julgados: REsp. 1.758.180/RJ, Rel. Min. HERMAN BENJAMIN, DJe 21.11.2018; AgInt no AREsp. 579.011/SP, Rel. Min. SÉRGIO KUKINA, DJe 3.8.2017; AgInt no AREsp. 905.571/SP, Rel. Min. BENEDITO GONÇALVES, DJe 7.10.2016.
+5. Não há prequestionamento dos arts. 1º., 47, 51, 58 e 68 da Lei 8.245/1991 e 3º. da Lei 8.666/1993, pois o Tribunal de origem não se manifestou sobre as matérias neles tratadas. Tampouco foram opostos Embargos de Declaração com o objetivo de sanar eventual omissão. O tema carece, portanto, de prequestionamento, requisito indispensável ao acesso às instâncias excepcionais. Aplicáveis, assim, as Súmulas 282 e 356 do STF.
+(..)
+8. Agravo Interno da Sociedade Empresária a que se nega provimento.
+(AgInt nos EDcl no REsp 1545426/SE, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 09/12/2019, DJe 12/12/2019)
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ALEGAÇÃO DE CERCEAMENTO DE DEFESA. INDEFERIMENTO DE PROVA PERICIAL. SÚMULA 279/STF. CONVENCIMENTO FIRMADO COM BASE NA ANÁLISE DO ACERVO PROBATÓRIO. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO.
+1. Cuida-se na origem de demanda na qual o recorrente postula o reconhecimento do direito à não incidência do imposto de renda sobre a complementação de subscrição de ações e o pagamento dos respectivos dividendos, por determinação judicial, sob o fundamento de que possui natureza indenizatória.
+2. O Tribunal de origem decidiu que o acervo probatório dos autos era suficiente para a formação do seu convencimento e indeferiu a prova pericial por não a entender necessária. Para divergir desse entendimento, necessário analisar e reexaminar o conjunto fático-probatório dos autos, o que torna inviável o processamento do Recurso Especial, nos termos da Súmula 279/STF. Precedentes: AgInt no AREsp 908.095/MT, Rel. Min. Sérgio Kukina, Primeira Turma, julgado em 16/8/2016, DJe 26/8/2016 e AgInt nos EDcl no REsp 1.545.426/SE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, julgado em 9/12/2019, DJe 12/12/2019.
+3. Quanto à divergência suscitada, o recorrente não atendeu ao disposto no art. 255, § 1º, do RISTJ, pois não juntou a certidão ou cópia dos acórdãos paradigmas, tampouco cita o repositório oficial ou autorizado onde se acham publicados. Inviável, portanto, o conhecimento do Recurso Especial por essa via.
+4. Agravo conhecido para não conhecer do Recurso Especial.
+(AREsp 1666338/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 02/03/2021, DJe 01/07/2021)
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
