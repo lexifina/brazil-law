@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de agravo apresentado por SOMPO SEGUROS S.A. contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DA PARAÍBA, assim resumido:
+ADMINISTRATIVO. AÇÃO REGRESSIVA. SEGURADORA EM FACE DA TRANSPORTADORA. ACIDENTE DE TRÂNSITO. PERDA INTEGRAL DA CARGA SEGURADA. SENTENÇA DE IMPROCEDÊNCIA. IRRESIGNAÇÃO. ALEGAÇÕES.
+RESPONSABILIDADE OBJETIVA DO TRANSPORTADOR.
+INEXISTÊNCIA. PRECEDENTES DESTA CORTE DE JUSTIÇA QUE EVIDENCIAM A RESPONSABILIDADE SUBJETIVA, MEDIANTE COMPROVAÇÃO DOS REQUISITOS DO ART. 927 DO CÓDIGO CIVIL. DESPROVIMENTO DO APELO.
+Sustenta a parte recorrente, pela alínea "a" do permissivo constitucional, violação dos arts. 749 e 750, do CC, e 9º, da Lei n. 11.442/2007, no que concerne existência de responsabilidade objetiva do transportador, pugnando, assim, pela procedência da pretensão regressiva, trazendo o(s) seguinte(s) argumento(s):
+Ínclitos Ministros, examinando os autos é patente que o v. acórdão proferido pela 2ª Câmara Cível do TJPB, negou vigência aos artigos 749 e 750, ambos do Código Civil, uma vez que negou o reconhecimento da pretensão regressiva ante a Recorrida sob a alegação de necessidade de análise de sua culpa, orientando-se pela responsabilidade subjetiva pelo tombamento e perda total da carga
+Ademais, conforme se infere do enunciado dos artigos referentes ao transporte de cargas, em atendimento à teoria do risco, atribui-se responsabilidade objetiva ao transportador por quaisquer danos que a carga venha a sofrer no interregno no transporte, eis que sua responsabilidade finda com a entrega, incólume, da carga
+ .. .
+Reprisa-se, é indiscutível que a Recorrida, ao recepcionar a carga para realização do transporte, mediante recebimento de contraprestação pecuniária, assumiu o dever de entrega no destino
+ .. .
+E nem se diga que a Recorrida não tinha condições de prever os riscos inerentes ao transporte, em especial o nesta ação tratado (a perda de direção e tombamento do veículo transportador). Não à toa sua responsabilização é objetiva por força de Lei: como já dito, o risco é inerente à sua atividade e completamente previsível. Decorre disso a obrigação de reparo, independente do aferimento da culpa (fls. 189/192).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 211/STJ, uma vez que a questão não foi examinada pela Corte de origem, a despeito da oposição de embargos de declaração. Assim, ausente o requisito do prequestionamento.
+Nesse sentido: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo - Súmula n. 211 - STJ". (AgRg no EREsp n. 1.138.634/RS, relator Ministro Aldir Passarinho Júnior, Corte Especial, DJe de 19/10/2010.)
+Confiram-se ainda os seguintes julgados: AgRg nos EREsp n. 554.089/MG, relator Ministro Humberto Gomes de Barros, Corte Especial, DJ de 29/8/2005; AgInt no AREsp n. 1.264.021/SP, relator Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe de 1º/3/2019; REsp n. 1.771.637/PR, relator Ministro Herman Benjamin, Segunda Turma, DJe de 4/2/2019; AgRg no AREsp 1.647.409/SC, relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe de 1º/7/2020; AgRg no REsp n. 1.850.296/PR, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 18/12/2020; AgRg no AREsp n. 1.779.940/SC, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 3/5/2021.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
