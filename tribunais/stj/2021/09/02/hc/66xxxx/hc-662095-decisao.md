@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício de Paloma Rios Querino Cavalcante Pereira, em que se aponta como órgão coator o Tribunal de Justiça de São Paulo (Agravo de Execução Penal n.0013746-11.2020.8.26.0041- fls. 18/22).
+Colhe-se dos autos que a ora paciente foi condenada pelo Juízo de Direito da 1ª Vara Criminal da comarca de Mauá/SP, como incursa no art. 33, § 4º, da Lei n. 11.343/2006, à pena de 1 ano,8 meses e 25 diasde reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 173 dias-multa, pelo tráfico de 9.800,6 g de maconha (Ação Penal n. 0001601-11.2016.8.26.0348 - fls. 65/79).
+O Tribunal de origem deu parcial provimento à apelação interposta pelo Ministério Público a fim de exasperar a pena para 5 anos e 22 dias de reclusão, a ser inicialmente cumprida em regime fechado, além do pagamento de 505 dias-multa (fls. 46/59).
+Após o trânsito em julgado, o Juízo de execução criminal proferiu decisão asseverando que,ante a majoração da pena, torno sem efeito a decisão extintiva da punibilidade.Sem prejuízo, à luz da Recomendação n. 62 do CNJ e tendo em vista que a sentenciada já cumpriu considerável parcela da pena e foi condenada por crime sem violência nem grave ameaça à pessoa, fixo o regime aberto domiciliar para o cumprimento do restante da reprimenda (fl. 17).
+Irresignado, o Ministério Público interpôs agravo em execução, ao qual o Tribunal de origem deu provimento, a fim de determinar o cumprimento da pena em regime fechado.
+Daí o presente writ, no qual a defesa aleganão fazer sentido etampouco ser necessário o retorno da ora paciente ao regime fechado, visto que: (i) já cumprira mais de 2/3 da pena, fazendo, então, jus a estar no regime aberto; (ii) é mãe de uma criança de 1 ano, que depende exclusivamente de seus cuidados, visto ser o pai totalmente ausente; (iii) não apresenta outros antecedentes criminais;(iv) não há fundamentos concretos para a sua prisão; e (v) há grande risco de contágio pelo novo coronavírus (Covid-19) em estabelecimento prisional.
+Busca-se, assim (fls. 14/15):
+ ..  a concessão de LIMINAR para que de imediato possa cassar a decisão ilegal que determinou a prisão em regime fechado da paciente, com a consequente revogação do decreto prisional, e a expedição do competente CONTRAMANDADO DE PRISÃO  .. .
+2. alternativamente, caso Vossa Excelência entenda por não acolher o pleito acima, que seja a prisão em regime aberto substituída pela prisão domiciliar, aplicando-se uma ou mais dentre as medidas cautelares previstas no artigo 319, do Código de Processo Penal, com preferência para a prisão domiciliar, com ou sem monitoramento eletrônico, como entender este juízo;
+3. no mérito, requer a concessão da ordem em definitivo, do competente CONTRAMANDADO DE PRISÃO em benefício da Paciente PALOMA RIOS QUIRINO CAVALCANTE PEREIRA, a fim de que seja revogada a prisão em definitivo, e que possa a mesma responder ao processo em liberdade.
+ ..
+Liminar indeferida (fls. 38/40) einformações prestadas (fls. 30/32, 34/37 e 43/93), o Ministério Público Federal opinoupelo não conhecimento, mas pela concessão do habeas corpusde ofício, para que a paciente cumpra o restante da pena noregime aberto domiciliar, restabelecendo-se a decisão do juízo da execução(fls. 101/102), em parecer proferido pelaSubprocuradora-Geral da RepúblicaEla Wiecko V. de Castilho, assim ementado(fl. 97):
+HABEAS CORPUS. AGRAVO EM EXECUÇÃO TRÁFICO DE DROGAS. REGIME FECHADO.PRISÃO DOMICILIAR.
+- Possibilidade de conceder a prisão domiciliar em qualquer momento do cumprimento da pena, ainda que em regime fechado, desde que a realidade concreta assim o imponha (Precedentes do STJ).
+- Hipótese de mãe de menor de 12 anos, que cumpriu a pena de um ano e 8 meses, estabelecida na sentença, no regime semiaberto, com posterior progressão para o regime aberto. Embora majorada a pena e imposto regime fechado, em apelação, o crime não foi cometido com violência ou grave ameaça à pessoa.
+Pelo não conhecimento, mas pela concessão do habeas corpus, de ofício, para que a paciente cumpra o restante da pena no regime aberto domiciliar.
+É o relatório.
+De plano, verifico a existência de constrangimento ilegal na dosimetria da pena, que deve ser sanado de ofício.
+Com efeito, no julgamento da apelação, o Tribunal de origemutilizou-se da quantidade da droga apreendida tanto para aumentar a pena-base quanto para escolher a fração da minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006, o que configura o indevido bis in idem(fls. 54/55).
+Ora, incasu, a quantidade de droga foi utilizada para majorar a pena-base. Portanto, aplica-se a minorante em seu patamar máximo, nos termos do ARE n. 666.334 (Repercussão Geral), no qual o Supremo Tribunal Federal reconheceu bis in idem na utilização da quantidade de droga "tanto na primeira fase de fixação da pena, como circunstância judicial desfavorável, quanto na terceira, para modular a aplicação da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006" (ARE n. 666.334/RG, Ministro GILMAR MENDES, DJe 6/5/2014)-(AgRg no AREsp n. 1.834.919/SE,Ministra Laurita Vaz, Sexta Turma, DJe 25/6/2021).
+Dessa forma, passo ao novocálculo da reprimenda.
+Partindo doquantumfixado pelo Tribunal de origem na terceira fase, a partir da incidência do art. 40, VI, da Lei n. 11.343/2006, ou seja, 6 anos e 27 dias de reclusão, além do pagamento de 606 dias-multa (fl. 55), estabeleço em 2/3 a fração da referida minorante, fixando a pena definitivamente em 2 anos e 9 dias de reclusão, além do pagamento de 202dias-multa.
+Em razão do estabelecimento da pena-base acima do mínimo legal, fixo o regime semiaberto para o início do cumprimento da reprimenda. Pelo mesmo motivo, entendo não ser recomendável a substituição da privativa de liberdade por restritivas de direitos.
+Tendo em vista o tempo de pena já cumprido pela paciente (fl. 31), recomendo ao Juízo da execução celeridade na análise de possível direito à progressão de regime.
+Ante o exposto, não conheço do writ, mas concedo a ordemde ofício,a fim defixar a pena da paciente em2 anos e 9 dias de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 202 dias-multa.
+Comunique-se, com urgência, às instâncias ordinárias.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. AGRAVO EM EXECUÇÃO. TRÁFICO DE DROGAS. ACÓRDÃO DA APELAÇÃO. DOSIMETRIA DA PENA. CONSTRANGIMENTO ILEGAL VERIFICADO DE OFÍCIO.
+Writ não conhecido. Ordem concedidade ofício, nos termos do dispositivo.
