@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por INSTITUTO NACIONAL DE METROLOGIA, QUALIDADE E TECNOLOGIA - INMETRO, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim ementado:
+"ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. CRÉDITONÃO TRIBUTÁRIO. EQUIPARAÇÃO DE SEGURO-GARANTIA AO DEPÓSITO EM DINHEIRO. SUSPENSÃO DA EXIGIBILIDADE. PRECEDENTE DO STJ. AGRAVO NÃOPROVIDO.
+1. Em julgamento recente a C. 1ª Turma do Superior Tribunal de Justiça equiparou o seguro-garantia ao depósito em dinheiro para fins de suspensão da exigibilidade nas execuções de créditos não-tributários (Precedente: REsp 1381254/PR).
+2. A equiparação feita pela nova redação do § 3º do artigo 9º da LEF, embora não possa ser aplicada a créditos tributários - e isto porque lei ordinária não pode revogar o disposto no artigo 151, III, do Código Tributário Nacional, norma de caráter complementar -, tem efeito sobre a orientação anterior da Corte Superior que, por equiparação, aplicava tal regra aos créditos não tributários, que não contavam com regulamentação própria.
+3. Na atualidade, porém, o § 3º do artigo 9º, LEF, criou norma específica aplicável aos créditos não tributários, permitindo que seguro garantia, desde que com o acréscimo de30% sobre o valor da dívida - nos termos do artigo 835, § 2º, CPC, conforme apontado no próprio paradigma da Corte Superior, acima citado -, possa ser ofertado para suspender a respectiva exigibilidade e garantir, portanto, certidão de regularidade fiscal, exclusão do CADIN e sustação de protesto extrajudicial.
+4. Não tendo havido, na espécie, qualquer discussão nem comprovação sobre descumprimento da exigência, no que se refere à suficiência da garantia nos termos especificados, resta inviável cogitar de reforma da decisão agravada, neste aspecto.
+5. Agravo não provido" (fl. 74e).
+Nas razões do Recurso Especial, interposto com base no art. 105, III, a, da Constituição Federal, a parte ora recorrente apontaviolação aoart. 151, II, do CTN,sustentando que "o Seguro Garantia apresentado pela parte Autora detém a capacidade de sobrestar a inscrição do devedor no CADIN, mas não suspende a exigibilidade do crédito" (fl. 80e).
+Alega que o artigo tido por violado deve ser interpretado de forma restritiva e, sendo assim, não cabe equiparar seguro garantia a dinheiro para fins de suspensão da exigibilidade do crédito.
+Contrarrazões, a fls. 93/108e.
+O Recurso Especial foi admitido, pelo Tribunal de origem (fls. 109/112e).
+A irresignação não merece prosperar.
+Com efeito, a Corte de origem, ao analisar a controvérsia, asseverou o seguinte:
+"A equiparação feita pela nova redação do § 3º do artigo 9º da LEF, embora não possa ser aplicada a créditos tributários - e isto porque lei ordinária não pode revogar o disposto no artigo 151, III, do Código Tributário Nacional, norma de caráter complementar -, tem efeito sobre a orientação anterior da Corte Superior que, por equiparação, aplicava tal regra aos créditos não tributários, que não contavam com regulamentação própria.
+Na atualidade, porém, o § 3º do artigo 9º, LEF, criou norma específica aplicável aos créditos não tributários, permitindo que seguro garantia, desde que com o acréscimo de 30% sobre o valor da dívida - nos termos do artigo 835, § 2º, CPC, conforme apontado no próprio paradigma da Corte Superior, acima citado -, possa ser ofertado para suspender a respectiva exigibilidade e garantir, portanto, certidão de regularidade fiscal, exclusão do CADIN e sustação de protesto extrajudicial" (fl. 58e).
+Portanto, verifica-se que o acórdão recorrido não destoa da hodierna orientação jurisprudencial desta Corte.
+Nesse sentido:
+"PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. MULTA ADMINISTRATIVA. SEGURO GARANTIA. FIANÇA BANCÁRIA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO NÃO TRIBUTÁRIO.POSSIBILIDADE. AFSTAMENTO DA SÚMULA 112/STJ.
+1. o entendimento firmado na Súmula 112/STJ é no sentido de que o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro.
+2. Entretanto, a jurisprudência desta Corte assentou o posicionamento de que, quanto aos créditos não tributários, a oferta de seguro garantia ou fiança bancária tem o efeito de suspender a exigibilidade, não se aplicando a Súmula 112/STJ.
+3. Agravo interno a que se nega provimento"(AgInt no AREsp 1.683.152/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 09/03/2021, DJe de 22/03/2021).
+"ADMINISTRATIVO. MULTA ADMINISTRATIVA. AÇÃO ANULATÓRIA. APRESENTAÇÃO DE SEGURO-GARANTIA. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO NÃO TRIBUTÁRIO. POSSIBILIDADE.
+1. A Segunda Turma do STJ, em recente julgado, firmou o entendimento de que, quanto aos créditos não tributários, a oferta de seguro garantia ou fiança bancária tem o efeito de suspender a exigibilidade, não se aplicando a Súmula 112/STJ" (AgInt no AREsp 1683152/SP, Rel. Min. Og Fernandes, Segunda Turma, DJe 22.3.2021).
+2. Agravo Interno não provido"(STJ, AgInt no REsp 1.919.016/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 01/07/2021).
+Ante o exposto, com fundamento no art. 255, § 4º,II, do RISTJ, conheço do Recurso Especialenego-lhe provimento.
+Não obstante o disposto no art. 85, § 11, do CPC/2015 e no Enunciado Administrativo 7/STJ ("Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016 será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do NCPC"), deixo de majorar os honorários advocatícios, por tratar-se, na origem, de recurso interposto contra decisão interlocutória, na qual não houve prévia fixação de honorários.
+I.
