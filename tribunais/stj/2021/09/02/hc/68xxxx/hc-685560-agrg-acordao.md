@@ -1,0 +1,35 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. FURTO, NA FORMA TENTADA. CONDENAÇÃO DEFINITIVA. TESE DE QUE O ÓRGÃO ACUSATÓRIO FOI OMISSO AO NÃO APRESENTAR PROPOSTA DE SUSPENSÃO CONDICIONAL DA PENA (SURSIS). PRINCÍPIO DA DIALETICIDADE. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada.
+2. No caso, nas razões do regimental, o Recorrente não rebateu, especificamente, o fundamento da decisão impugnada de que a matéria referente à necessidade de apresentação da proposta de suspensão condicional do processo (sursis) não foi examinada pelo Tribunal estadual. Desse modo, a apreciação originária do tema por esta Corte configuraria indevida supressão de instância. Aplicação da Súmula n. 182/STJ, mutatis mutandis.
+3. Agravo regimental não conhecido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, não conhecer do agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por LEONARDO HENRIQUE PEREIRA DE MORAES contra a decisão de fls. 28-29, por intermédio da qual indeferi liminarmente o habeas corpus. O decisum foi assim ementado (fl. 28):
+"HABEAS CORPUS. PROCESSUAL PENAL. FURTO, NA FORMA TENTADA. CONDENAÇÃO DEFINITIVA. TESE DE QUE O ÓRGÃO ACUSATÓRIO FOI OMISSO AO NÃO APRESENTAR PROPOSTA DE SUSPENSÃO CONDICIONAL DA PENA (SURSIS). MATÉRIA NÃO APRECIADA PELO COLEGIADO DO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. PETIÇÃO INICIAL INDEFERIDA LIMINARMENTE."
+Nas razões do recurso, aduz o Agravante que a nulidade absoluta não pode ser relativizada com preclusão. Argumenta, para tanto, que os benefícios previstos em lei, "que constituem direito subjetivo do paciente não podem deixar de ser aplicados, é o caso dos autos, o Sursis que não foi aplicado, por isso a decisão monocrática deve ser revista pelo colegiado" (fl. 31).
+Requer a submissão do feito ao Colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. FURTO, NA FORMA TENTADA. CONDENAÇÃO DEFINITIVA. TESE DE QUE O ÓRGÃO ACUSATÓRIO FOI OMISSO AO NÃO APRESENTAR PROPOSTA DE SUSPENSÃO CONDICIONAL DA PENA (SURSIS). PRINCÍPIO DA DIALETICIDADE. EXIGÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. INCIDÊNCIA DA SÚMULA N. 182 DESTA CORTE. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. O princípio da dialeticidade impõe ao Agravante o ônus de demonstrar o desacerto da decisão agravada.
+2. No caso, nas razões do regimental, o Recorrente não rebateu, especificamente, o fundamento da decisão impugnada de que a matéria referente à necessidade de apresentação da proposta de suspensão condicional do processo (sursis) não foi examinada pelo Tribunal estadual. Desse modo, a apreciação originária do tema por esta Corte configuraria indevida supressão de instância. Aplicação da Súmula n. 182/STJ, mutatis mutandis.
+3. Agravo regimental não conhecido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A decisão agravada está calcada na seguinte fundamentação (fl. 29):
+"No caso, a alegada necessidade de apresentação da proposta de suspensão condicional do processo (sursis) não foi examinada pelo Tribunal estadual. Desse modo, a apreciação originária do tema por esta Corte configuraria indevida supressão de instância.
+Ad argumentandum, ressalto que a matéria está abarcada pela preclusão, uma vez que foi alegada posteriormente ao trânsito em julgado da sentença condenatória. Sobre o tema, destaco o seguinte precedente:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. DISSÍDIO JURISPRUDENCIAL AUSÊNCIA DE COMPROVAÇÃO. AUTORIA E MATERIALIDADE. VERIFICAÇÃO. REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ. SURSIS PROCESSUAL. ALEGAÇÃO APÓS A SENTENÇA. PRECLUSÃO. FALTA DE FUNDAMENTOS CAPAZES DE MODIFICAR O ACÓRDÃO IMPUGNADO. AGRAVO IMPROVIDO. 1. A jurisprudência vigente neste Sodalício entende que, para a comprovação da divergência, não basta a simples transcrição da ementa do acórdão paradigma, fazendo-se necessário o cotejo analítico entre o aresto recorrido e o divergente, com a devida demonstração da identidade das situações fáticas e a interpretação diversa emprestada ao mesmo dispositivo de legislação infraconstitucional, sob pena de incidência do teor da Súmula 211/STJ. Precedentes. 2. Nos termos dos precedentes jurisprudenciais existentes nesta Corte Superior, tendo a atividade de delimitação da conduta criminosa necessidade de um exame mais profundo dos fatos e das provas inseridas nos autos, a análise da suposta violação à legislação federal, por meio de recurso especial, no qual se impugne as conclusões adotadas pela Corte originária na constatação da existência de autori a e materialidade de um determinado delito, esbarra no teor da Súmula 7/STJ. Precedentes. 3. In casu, tanto o magistrado sentenciante quanto o Tribunal de origem fundamentaram suas conclusões nos fatos descritos na denúncia e reproduzidos durante a instrução probatória, os quais apontaram a existência dos elementos necessários para a responsabilização do recorrente pelo crime tipificado no art. 171 do CP. 4. Este Superior Tribunal de Justiça, no tocante ao sursis processual previsto no art. 89 da Lei 9.099/95, entende que o inconformismo com a ausência de propositura do benefício deve ser alegado antes da prolação da sentença condenatória, sob pena de operar-se os efeitos preclusivos. Precedentes. 5. Agravo improvido." (AgRg no REsp 1.503.569/MS, Rel. Ministro JORGE MUSSI, DJe 14/12/2018; sem grifos no original.)
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do RISTJ, INDEFIRO LIMINARMENTE a petição inicial."
+No entanto, nas razões do regimental, o Recorrente não rebateu, especificamente, o fundamento da decisão impugnada de que a matéria referente à necessidade de apresentação da proposta de suspensão condicional do processo (sursis) não foi examinada pelo Tribunal estadual. Desse modo, a apreciação originária do tema por esta Corte configuraria indevida supressão de instância.
+Incide no caso, portanto, o enunciado da Súmula n. 182 do Superior Tribunal de Justiça, segundo o qual " é  inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+Nesse sentido:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SÚMULA N. 182 DO STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. É ônus do agravante impugnar os fundamentos da decisão agravada, sob pena de incidência da Súmula n. 182 do STJ.
+ ..
+4. Agravo regimental não conhecido." (AgRg no HC 525.324/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/11/2019, DJe 02/12/2019; sem grifos no original.)
+Ante o exposto, NÃO CONHEÇO do agravo regimental.
+É o voto.
