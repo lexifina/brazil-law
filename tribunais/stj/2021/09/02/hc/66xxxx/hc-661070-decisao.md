@@ -1,0 +1,99 @@
+DECISÃO
+Trata-se de recuso em habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de OTAVIO HENRIQUE DE OLEGARIO SOUZA, em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o paciente foi condenado à pena de 6 anos e 8 meses de reclusão, em regime fechado, mais pagamento de 666 dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006.
+Em sede recursal, o Tribunal de origem negou provimento ao apelo defensivo. Os embargos de declaração foram rejeitados.
+Neste habeas corpus, alega o impetrante ser inidônea a exasperação da pena-base e o afastamento do redutor do tráfico privilegiado com amparo em condenação anterior alcançada pelo período depurador.
+Destaca que o delito antecedente (ameaça) é de menor potencial ofensivo, não sendo suficiente para denotar maior periculosidade do paciente e sua habitualidade delitiva.
+Requer, assim, a redução da pena-base, a incidência da minorante do art. 33, § 4º, da Lei de Drogas na fração máxima e a fixação do regime aberto.
+Liminar indeferida (e-STJ, fls. 102).
+Informações prestadas (e-STJ, fls. 106-111).
+O Ministério Público Federal opinou pelo não conhecimento do habeas corpus (e-STJ, fls. 153-161).
+É o relatório.
+Decido.
+Esta Corte - HC 535.063/SP, Terceira Seção, Rel. Ministro Sebastião Reis Junior, julgado em 10/6/2020 - e o Supremo Tribunal Federal - AgRg no HC 180.365, Primeira Turma, Rel. Min. Rosa Weber, julgado em 27/3/2020; AgR no HC 147.210, Segunda Turma, Rel. Min. Edson Fachin, julgado em 30/10/2018 -, pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesta ilegalidade que autorize a concessão da ordem, de ofício.
+A Corte de origem, ao negar provimento ao apelo defensivo, manteve a sanção imposta em primeiro grau com base nos seguintes fundamentos:
+"As penas também não merecem qualquer reparo.
+Na primeira fase, fixou-se a básica corretamente em 1/3 acima do mínimo legal, ou seja, 06 anos e 08 meses de reclusão, mais 666 dias-multa, no valor mínimo, diante do mau antecedente (comprovado pela certidão de fls. 254) e da natureza e grande quantidade de droga apreendida.
+Como é sabido, é perfeitamente possível a consideração da quantidade e natureza da droga para justificar a fixação da pena-base acima do mínimo legal. Aliás, o artigo 42, da Lei nº 11.343/2006, determina que o juiz, na fixação das penas, considerará, com preponderância sobre o previsto no artigo 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente.
+Convém salientar, ainda, que o decurso do quinquênio depurador entre data do cumprimento ou extinção da pena e a infração posterior, computado o período de prova da suspensão ou do livramento condicional sem revogação, conforme previsto no art. 64, I, do Código Penal, aplica-se à reincidência e não aos maus antecedentes. O referido fator de individualização da pena, ao contrário do que é previsto pelo legislador para a reincidência, não é afetado pelo quinquênio depurador. A finalidade da lei é não atribuir ao cidadão que nunca praticou um delito o mesmo tratamento jurídico daquele que já foi condenado definitivamente e torna a delinquir. Os princípios da igualdade e proporcionalidade da pena assim o determinam.
+No tocante à personalidade do réu, o artigo 59 menciona oito elementos que deverão ser observados com discricionariedade pelo magistrado para fundamentar sua decisão.
+ ..
+Ausentes agravantes, atenuantes e causas modificadoras, a pena foi tornada definitiva no referido patamar.
+Por outra parte, incabível a aplicação do redutor previsto no artigo 33, § 4º, da referida lei, diante da evidente dedicação do acusado a atividade ilícita, o que pode ser aferido pelas circunstâncias do caso concreto, em que policiais constataram movimentação típica de tráfico na frente da residência dele, sendo certo, ainda, que a considerável quantidade de droga apreendida também deixa patente o estreito envolvimento com o tráfico.
+A referida minorante deve ser analisada do cotejo do artigo 59, caput, do Código Penal com o artigo 42, da Lei 11.343/06, não se tratando de direito subjetivo do réu.
+ ..
+Ademais, é cediço que o referido redutor é elemento do processo de individualização de pena relativa aos crimes previstos nos art. 33, "caput" e 33, § 1º, da Lei nº 11.434/06, exatamente para evitar que traficantes eventuais, a exemplo daqueles que somente realizam a comercialização para a paga de substâncias entorpecentes por eles adquiridas para o próprio consumo, respondam penas idênticas às dos grandes comerciantes de drogas.
+No primeiro perfil não se enquadra o recorrido, que, como se viu, concorria para o tráfico de consideráveis proporções e dela tirava seu sustento" (e-STJ, fls. 59-62)
+Inicialmente, convém destacar que a individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+Adotado o sistema trifásico pelo legislador pátrio, na primeira etapa do cálculo, a pena-base será fixada conforme a análise das circunstâncias do art. 59 do Código Penal. Tratando-se de condenado por delitos previstos na Lei de Drogas, o art. 42 da referida norma estabelece a preponderância dos vetores referentes a quantidade e a natureza da droga, assim como a personalidade e a conduta social do agente sobre as demais elencadas no art. 59 do Código Penal.
+Na hipótese, segundo se verifica, a pena-base do delito de tráfico foi elevada em 1/3 com fundamento na quantidade e natureza do entorpecente - 131 invólucros de cocaína (114,2g) - e nos maus antecedentes do paciente, diante do registro de condenação anterior, extinta pelo cumprimento há mais de 5 anos da prática delitiva em apreço.
+Em relação à validade das condenações definitivas consideradas como maus antecedentes, vale lembrar que o Superior Tribunal de Justiça tem entendimento de que o tempo transcorrido após o cumprimento ou a extinção da pena não impede a análise desfavorável de tais circunstâncias, tendo em vista a adoção pelo Código Penal do sistema da perpetuidade, ao contrário do que se verifica na reincidência (CP, art. 64, I), pois o legislador não limitou temporalmente a configuração dos maus antecedentes ao período depurador quinquenal.
+A propósito:
+" ..
+DOSIMETRIA. ANTECEDENTES. DECURSO DE MAIS DE CINCO ANOS ENTRE O TRÂNSITO EM JULGADO DA CONDENAÇÃO ANTERIOR E O NOVO CRIME. EXASPERAÇÃO DA PENA-BASE. POSSIBILIDADE. ACÓRDÃO RECORRIDO ALINHADO À JURISPRUDÊNCIA DO STJ. INCIDÊNCIA DO DISPOSTO NA SÚMULA N. 83/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. A existência de condenação anterior transitada em julgado autoriza a valoração negativa dos antecedentes do agente, ainda que ultrapassado o período de 5 (cinco) anos previsto no inciso I do artigo 64 do Código Penal.
+2. Encontrando-se o aresto combatido em consonância com a jurisprudência firmada nesta Corte, a pretensão defensiva esbarra no óbice previsto na Súmula nº 83/STJ, também aplicável ao recurso especial interposto com fundamento na alínea "a" do permissivo constitucional.
+3. Agravo regimental desprovido."
+(AgRg no AREsp 1.068.053/DF, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 17/8/2017, DJe 23/8/2017);
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS. INDEFERIMENTO LIMINAR DA INICIAL. NULIDADE DO PROCESSO. OFENSA AO PRINCÍPIO DA INVIOLABILIDADE DE DOMICÍLIO. INEVIDÊNCIA. DOSIMETRIA. PENA-BASE. CONDENAÇÃO COM MAIS DE 5 ANOS DE TRÂNSITO EM JULGADO. CARACTERIZAÇÃO DE MAUS ANTECEDENTES. POSSIBILIDADE. AFASTAMENTO DA CAUSA ESPECIAL DE REDUÇÃO DA PENA. ADMISSIBILIDADE. AUSÊNCIA DE UM DOS REQUISITOS PREVISTOS NA LEI N. 11.343/2006. REGIME FECHADO. ADEQUADO. PENA SUPERIOR A 4 E INFERIOR A 8 ANOS. EXISTÊNCIA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL.
+1. É pacífico nesta Corte Superior o entendimento de que, tratando-se de flagrante por crime permanente, no caso, por tráfico de drogas, desnecessário tanto o mandado de busca e apreensão quanto a autorização para que a autoridade policial possa adentrar no domicílio do paciente, conforme previsto no 5º, XI, da CF.
+2. Não há qualquer ilegalidade na valoração desfavorável dos antecedentes do paciente com base em processo cuja condenação definitiva por prazo superior a cinco anos. A teor da jurisprudência desta Corte, condenações anteriores transitadas em julgado, alcançadas pelo prazo depurador de cinco anos previsto no art. 64, I, do Código Penal, embora afastem os efeitos da reincidência, não impedem a configuração de maus antecedentes.
+ ..
+5. Agravo regimental improvido."
+(AgRg no HC 358.539/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 8/8/2017, DJe 16/8/2017).
+Especificamente quanto à validade da exasperação da sanção básica pela valoração negativa da quantidade e da natureza do entorpecente, elencadas inclusive como circunstâncias preponderantes, cito os seguintes precedentes:
+"PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. CONDENAÇÃO. ARTS. 33 E 35, CAPUT, DA LEI N. 11.343/2006. PLEITO ABSOLUTÓRIO. AUTORIA E MATERIALIDADE COMPROVADAS. MODIFICAÇÃO QUE IMPLICA REEXAME DO CONJUNTO PROBATÓRIO. SÚMULA N. 7 DO STJ. DOSIMETRIA DA PENA. PENA-BASE. QUANTIDADE E NATUREZA DA DROGA. FUNDAMENTAÇÃO SUFICIENTE. ART. 42 DA LEI N. 11.343/2006. AGRAVO REGIMENTAL DESPROVIDO.
+ ..
+2. A dosimetria da pena somente pode ser reexaminada no especial quando verificado, de plano, erro ou ilegalidade na fixação da reprimenda, o que não ocorre nestes autos.
+3. A natureza e a quantidade da droga justificam a exasperação da pena-base acima no mínimo legal, nos termos do art. 42 da Lei n. 11.343/2006.
+Agravo regimental desprovido."
+(AgRg no AREsp 1005975/AM, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 4/5/2017, DJe 17/5/2017);
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO ILÍCITO DE ENTORPECENTES. INÉPCIA DA INICIAL ACUSATÓRIA. MATÉRIA REFUTADA NA ORIGEM. CONDENAÇÃO COM TRÂNSITO EM JULGADO. PRECLUSÃO DA MATÉRIA. EXASPERAÇÃO DA PENA-BASE. QUANTIDADE DA DROGA. POSSIBILIDADE.  ..  AUSÊNCIA OU AMEAÇA A DIREITO DE LOCOMOÇÃO. VIA INADEQUADA. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. A dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade.
+4. Em se tratando de crime de tráfico de drogas, como ocorre in casu, o juiz deve considerar, com preponderância sobre o previsto no artigo 59 do Estatuto Repressivo, a natureza e a quantidade da substância entorpecente, a personalidade e a conduta social do agente, consoante o disposto no artigo 42 da Lei n. 11.343/2006.
+5. No caso dos autos, a pena-base afastou-se do mínimo legal com base na quantidade da droga apreendida, fundamentação que se encontra em consonância com nossa jurisprudência.
+ ..
+11. Habeas corpus não conhecido."
+(HC 372.028/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 28/3/2017, DJe 5/4/2017).
+Dessa forma, tendo sido apontados elementos idôneos para a majoração da reprimenda (maus antecedentes, quantidade e natureza da droga), não se mostra desarrazoada a elevação operada pelas instâncias antecedentes, tendo em vista a pena máxima e mínima abstratamente cominada ao delito de tráfico de drogas (de 5 a 15 anos de reclusão).
+No que se refere à incidência do redutor pelo tráfico privilegiado, consigno que, nos termos do disposto no § 4º do art. 33 da Lei n. 11.343/2006, os condenados pelo crime de tráfico de drogas poderão ter a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades delituosas ou integrarem organização criminosa.
+In casu, as instâncias ordinárias afastaram a redutora do tráfico privilegiado pois, além de ostentar maus antecedentes, a quantidade e natureza do entorpecente - 131 invólucros de cocaína (114,2g) - e as circunstâncias do delito denotam a habitualidade delitiva do paciente no comércio espúrio.
+Desse modo, tratando-se de réu que ostenta maus antecedentes, é incabível a aplicação do redutor por ausência de preenchimento dos requisitos legais, sendo certo que a utilização de tal vetor concomitantemente na primeira e terceira fase da dosimetria não enseja bis in idem.
+Cito, a propósito, os seguintes julgados:
+"HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. MAUS ANTECEDENTES. CIRCUNSTÂNCIA QUE IMPEDE A APLICAÇÃO DO ART. 33, § 4º, DA LEI Nº 11.343/06. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVAS DE DIREITOS. IMPOSSIBILIDADE. PENA SUPERIOR A 4 ANOS. REGIME INICIAL FECHADO. ELEMENTOS CONCRETOS DOS AUTOS. NATUREZA E DIVERSIDADE DAS DROGAS. MAUS ANTECEDENTES. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. DENEGAÇÃO DA ORDEM.
+1. Inaplicável a causa especial de diminuição prevista no § 4.º do art. 33 da Lei n.º 11.343/06, tendo em vista que o paciente não preenche os requisitos legais, porquanto ostenta maus antecedentes.
+ ..
+4. Ordem denegada."
+(HC 389.891/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 6/4/2017, DJe 20/4/2017);
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PENAL. TRÁFICO DE DROGAS. PRETENSÃO DE DESCLASSIFICAÇÃO PARA USO. NECESSIDADE DE ANÁLISE DE FATOS E PROVAS. ÓBICE INTRANSPONÍVEL DA SÚMULA 7 DESTA CORTE. UTILIZAÇÃO DOS MAUS ANTECEDENTES PARA MAJORAR A PENA-BASE E PARA VEDAR O RECONHECIMENTO DO TRÁFICO PRIVILEGIADO. BIS IN IDEM. INOCORRÊNCIA. REGIME PRISIONAL FECHADO FIXADO COM BASE NA QUANTIDADE E NATUREZA DAS DROGAS APREENDIDAS. FUNDAMENTAÇÃO IDÔNEA. MANUTENÇÃO DO REGIME MAIS GRAVOSO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Ao contrário do afirmado pelo agravante, os argumentos declinados nas razões do recurso especial a fim de sustentar a tese de que a droga apreendida se destinava ao consumo próprio, e não ao tráfico, demandariam sim a análise dos fatos, das circunstâncias e das provas amealhadas aos autos, mostrando-se insuperável o empecilho da Súmula 7/STJ.
+2. Esta Corte já se manifestou no sentido de permitir a utilização dos maus antecedentes para majorar a pena-base na primeira fase da dosimetria e também para vedar o reconhecimento do tráfico privilegiado, não havendo se falar em bis in idem. Precedentes
+ ..
+4. Desse modo, a decisão agravada deve ser mantida incólume por seus próprios termos.
+5. Agravo regimental desprovido."
+(AgRg no AREsp 942.291/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/9/2017, DJe 27/9/2017).
+Em relação ao modo prisional, também não assiste razão ao impetrante.
+O Tribunal a quo manteve o regime fechado com base nos seguintes fundamentos:
+"Acrescenta-se que, na hipótese dos autos, a nocividade da droga imprime maior gravidade à empreitada criminosa. É sabido que a cocaína é substância entorpecente altamente nociva, que causa ao usuário rápida dependência química e efeito devastador à própria saúde e à sociedade. Tais circunstâncias evidenciam, realmente, uma culpabilidade exacerbada na conduta do acusado" (e-STJ, fl. 63)
+A obrigatoriedade do regime inicial fechado aos sentenciados por crimes hediondos e aos a eles equiparados não mais subsiste, diante da declaração de inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, pelo Supremo Tribunal Federal, no julgamento do HC 111.840/ES.
+Na identificação do modo inicial de cumprimento de pena, necessário à prevenção e à reparação da infração penal, o magistrado deve expor motivadamente sua escolha, atento às diretrizes do art. 33 do Código Penal, e, na hipótese de condenado por crime de tráfico de drogas, ao disposto no art. 42 da Lei n. 11.343/2006, segundo o qual serão consideradas com preponderância a natureza e a quantidade de substância entorpecente, a personalidade e a conduta social do agente sobre as demais circunstâncias judiciais do art. 59 do Código Penal.
+Na hipótese, embora a pena tenha sido fixada em patamar superior a 4 anos e não excedente a 8 anos, a aferição de circunstâncias judiciais desfavoráveis (quantidade e natureza do entorpecente) recomenda a imposição do regime fechado, nos exatos termos do art. 33, §§ 2º e 3º, do Código Penal.
+Confiram-se:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/2006. RÉUS QUE SE DEDICAM À ATIVIDADE CRIMINOSA. INAPLICABILIDADE. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE PROVAS. REGIME PRISIONAL. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. MODO FECHADO. CONSTRANGIMENTO ILEGAL NÃO VERIFICADO. WRIT NÃO CONHECIDO.
+ ..
+4. Na identificação do modo inicial de cumprimento de pena, o magistrado deve observar as regras estabelecidas no art. 33 do Código Penal e, no caso de condenado pelo delito de tráfico de drogas, também o art. 42 da Lei de Drogas.
+5. Estabelecida a pena definitiva dos pacientes em patamar inferior a 8 anos de reclusão, o regime inicial fechado (imediatamente mais grave segundo o quantum da sanção aplicada) é o cabível à espécie, tendo em vista a valoração desfavorável das circunstâncias judiciais (quantidade e natureza da droga), que justificou o aumento da pena-base acima do mínimo legal, nos exatos termos do art. 33, § 2º, "a", e § 3º, c/c o art. 59, ambos do Código Penal, e art. 42 da Lei n. 11.343/2006.
+ ..
+7. Habeas corpus não conhecido."
+(HC 390.987/SP, de minha relatoria, QUINTA TURMA, julgado em 27/6/2017, DJe 1/8/2017);
+"PENAL E PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. TRÁFICO DE DROGAS. NULIDADE DO V. ACÓRDÃO POR AUSÊNCIA DE FUNDAMENTAÇÃO. INOCORRÊNCIA. MINORANTE PREVISTA NO § 4º DO ART. 33 DA LEI N. 11.343/2006. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. CONDENAÇÕES AINDA SEM TRÂNSITO EM JULGADO. POSSIBILIDADE DE UTILIZAÇÃO PARA NEGATIVA DA REDUTORA. REGIME INICIAL FECHADO. PRESENÇA DE CIRCUNSTÂNCIAS JUDICIAIS NEGATIVAS. ILEGALIDADE NÃO CONFIGURADA. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE. REQUISITOS DO ART 44 DO CÓDIGO PENAL NÃO ATENDIDOS. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+III - Conquanto se saiba que o col. Supremo Tribunal Federal, por ocasião do julgamento do HC n. 111.840/ES (Rel. Min. Dias Toffoli, DJe de 17/12/2013), declarou incidentalmente a inconstitucionalidade do § 1º do art. 2º da Lei n. 8.072/1990, com redação dada pela Lei n. 11.464/2007, afastando a obrigatoriedade do regime inicial fechado para os condenados por crimes hediondos e equiparados, in casu, verifica-se que as circunstâncias judiciais do art. 59 são desfavoráveis aos ora pacientes, o que impede a fixação inicial do regime semiaberto para início de resgate da reprimenda.
+ ..
+Habeas corpus não conhecido."
+(HC 385.942/RS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 20/6/2017, DJe 30/6/2017).
+Por fim, estabelecido o quantum da pena em patamar superior a 4 (quatro) anos, é inadmissível a substituição da pena privativa de liberdade por restritivas de direito, pela falta do preenchimento do requisito objetivo (art. 44, I, do Código Penal).
+Diante do exposto, não conheço deste habeas corpus.
+Publique-se. Intimem-se.
