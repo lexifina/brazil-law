@@ -1,0 +1,57 @@
+DECISÃO
+Trata-se de recurso especial interposto por ALGACI ORMÁRIO TÚLIO, com respaldonas alíneas "a" e "c" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO, assim ementado (e-STJ fls. 542):
+ADMINISTRATIVO. SFH. IMPUTAÇÃO EM PAGAMENTO.CDC. CES. IPC ABR/90. MOMENTO DA AMORTIZAÇÃO DOSALDO DEVEDOR. TR. TABELAPRICE. SEGURO:
+1. As quotas de amortização (capitale juros) devem ser respeitadassem preferência para uma ou outra.
+2. Conquanto reste pacificada a aplicação dasregras do Código deDefesa do Consumidor aos contratos do Sistema Financeiro daHabitação, umavez presentes como parte as instituições financeiras (Súmula 297 do SuperiorTribunal de Justiça), é necessáriaa demonstração de abusividade e excessivabnerosidade, tendo ainda em conta o respeito à legislação. própria doSFH.
+3. Amparada a incidência do CESna legislação aplicável, aindaque não expressamente prevista no instrumento contratual, devesua cobrança sermantida.
+4. No mês de março de 1990, o IPC éo índice de correçãomonetária dos saldos dos financiamentos habitacionais.
+5. O saldo devedor deve primeiro sofrer correção monetária,paraapós ser amortizado.
+6. Legítima a utilização da TR como indexador,enquanto índiceutilizado para atualizaçãodos depósitos depoupança, conforme contratado.
+7. É vedada a prática de anatocismo, todavia,nem asimplesutilização da tabela Price, nem a dicotomia- taxa de juros nominal eefetiva - sãosuficientes a sua caracterização. Somenteo aporte dos juros remanescentes
+decorrentesde amortizações negativaspara o saldo devedor caracterizaanatocismo.
+8. Mantida a cobrança do seguro conforme contratado,por inerenteao SFH, não havendo falar em excessividade.do valor cobrado., haja vista tratar-se de espécie sui generis, sem similar no mercado.
+Embargos de declaração acolhidos para apreciar a renegociação do mútuo habitacional com exclusão da cobertura do FCVS, em aresto com a seguinte ementa (e-STJ fl. 611):
+PROCESSUAL CIVIL. EMBARGOS DECLARATÓRIOS.EQUÍVOCO MANIFESTO.RESOLUÇÃO.
+1. Acolhimento dos embargos dedeclaração para o efeito deresolver equívocomanifesto verificado quando da apreciaçãodo, recurso de
+apelação do autor, na linha dos precedentesdo egrégio STJ.
+2. Reconhecimentodo interesse recursal do autor em ver afirmadaa invalidade da renegociação, levada a efeito quanto a mútuo habitacional,especificamente emrelaçãoà exclusão da coberturado saldodevedorremanescentepelo FCVS.
+3. Manutenção da sentençano ponto em que afirmou a validade darenegociaçãohavida, à. míngua de elementos probatóriosem sentido contrário.
+Em suas razões, a parte recorrente aponta, além de dissídio jurisprudencial, violação do art. 2º, § 3º, da Lei n. 10.150/2000, uma vez querenegociação do contrato habitacional, ocorrida em 26/10/1998, não exclui o FCVS, conforme entendimento desta Casa de Justiça.
+Aduz que a recorrida afastou, sorrateiramente, a cobertura do FCVS na renegociação, em afronta ao direito do consumidor à informação clara e adequada sobre o produto, sendo evidente que as planilhas de financiamento são de impossível compreensão por uma pessoa mediana e, mesmo que tivesse noção do que estavaassinando, jamais teria poder de barganha para discutir o contrato, diante de sua incontestável hipossuficiência, inclusive técnica, sendo o caso de inversão do ônus da prova.
+Afirma, também,que deve ser reconhecida a revelia da Caixa Econômica Federal, visto que apresentou contestação intempestiva, o que não foi apreciado na sentença nem no acórdão.
+Juízo de retratação para aplicação da tese firmada no Tema 426 do STJ (e-STJ fls. 701/707).
+Juízo positivo de admissibilidade pelo Tribunal de origem às e-STJ fls. 709/710.
+Passo a decidir.
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No que se refere à alegação de revelia da recorrida, em face de contestação intempestiva, verifica-se que a questão não foi apreciada pelo Tribunal de origem, tampouco foi suscitada nos embargos de declaração,carecendo, dessa forma, do requisito constitucional do prequestionamento. Incideno pontoo óbice da Súmula 282 do STF.
+Frise-se que, mesmo em se tratando de matérias de ordem pública, é necessário que haja o respectivo enfrentamento pela instância de origem, sob pena de persistir a incidência do óbice sumular mencionado.
+Nesse sentido: AgInt no AREsp 716580/DF, Relator Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe 19/10/2017; AgInt no REsp 1601671/PR, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 06/03/2017, e AgInt no AREsp 1023073/RJ, Relator Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 05/09/2017.
+Quanto ao mais, nota-se que o Tribunala quo, no aresto integrativo, reconheceu a validade na renegociação do contrato do mútuo com a exclusão da cobertura do saldo devedor residual pelo FCVS adotando as razões de decidir da sentença,in verbis(e-STJ fls. 609/610):
+Examinando o recurso no tópico, registro que muito embora já tenha reconhecido em alguns casos a invalidade de renegociação de mútuos habitacionais em que patentes os vícios alegados, no caso dos autos, à míngua de elementos suficientes nesse sentido, reputo adequada a solução alvitrada pela sentença, a qual merece transcrição à vista da precisão de seus termos, os quais adoto na condição de razões de decidir,verbis:
+"Da negociação da dívida
+No entanto, o financiamento em questão tem as suas prestações e saldo devedor reajustados segundo critérios estabelecidos em dois momentos distintos.
+Originariamente, quando da celebração do mútuo (30/11/1987), as prestações seriam reajustas de acordo com o PES e o saldo devedor por coeficiente idêntico ao da caderneta de poupança.
+Posteriormente, em 26/10/1998, as partes renegociaram o débito (fls. 164/167).
+As taxas de juros foram mantidas, mas as prestações passaram a ser calculadas de acordocom o Sistema de Amortização Crescente - SACRE, desvinculadas do salário ou da categoria profissional do contratante, e o saldo devedor passou a ser atualizado mensalmente, com base no coeficiente aplicável às contas do FGTS ou aos depósitos em caderneta de poupança com data de aniversário no dia em que ocorreu a renegociação.
+A parte autora pugna pela declaração de nulidade daquele ato, mantendo-se a pactuação originária, por entender ser-lhe esta última mais benéfica, de modo que possa se valer da cobertura do FCVS, em razão da onerosidade excessiva gerada aos mutuários.
+Não tem lugar tal insurgência.
+Não merece prosperar a alegação de que a CEF teria induzido os autores em erro. Tinham eles condições de analisar, a qualquer momento, a planilha de evolução do financiamento. Discordando dos valores alidescritos, deveria, ter solicitado a revisão administrativa ou judicial do contrato, antes de renegociar a dívida, firmando autêntico contrato de novação.
+Note-se, ainda, que o demonstrativo de evolução do débito informa o valor das prestações, sendo que, do aumento verificado após a novação,de R$ 484,42 pata R$ 565,43, não se pode extrair qualquer tipo de "onerosidade excessiva" aos mutuários.
+A renegociação, assim, merece ser mantida, não contemplando cobertura do saldo residual pelo F.C.V.S., como pretendiam os mutuários.
+Possível, contudo a discussão do primeiro contrato, o que foi analisado conforme fundamentaçãosupra, sendo que a Súmula 286 do C. STJ é clara no sentido de que "a renegociação da dívida não impede a possibilidade de discussão de eventuais ilegalidades dos contratos anteriores".
+Sendo assim, o valor excedente decorre das ilegalidades reconhecidas deverá ser reduzido do saldo devedor assumindo pelos mutuários, manto válida, contudo, a repactuação" (fls. 424/5)
+Ante o exposto, voto por acolher em parte os embargos de declaração. (Grifos do original).
+Quanto ao tema, esta Casa de Justiça há muito firmou entendimento de que"é direito do mutuário a manutenção da cobertura do FCVS e, por conseqüência, a liquidação antecipada do saldo devedor, com desconto de 100% pelo Fundo, desde que o contrato tenha sido celebrado até 31 de dezembro de 1987 (art. 2º, § 3º, da Lei n. 10.150/00), ainda que haja novação dos débitos fundada em edição anterior da Medida Provisória 1.981-52/2000, cujas regras foram mantidas quando convertida na Lei 10.150/2000" (REsp 638.132/PR, Rel. Min. Franciulli Netto, Segunda Turma, DJ 06/09/2004).
+Nesse sentido:
+ADMINISTRATIVO.FCVS.SALDO DEVEDOR.NOVAÇÃO.ART. 2º, § 3º, DA LEI 10.150/2000.DESCONTO INTEGRAL.POSSIBILIDADES.PRECEDENTES.
+1. Este Superior Tribunal de Justiça firmou orientação no sentido de que "é direito do mutuário a manutenção da cobertura do FCVS e, por conseqüência, a liquidação antecipada do saldo devedor, com desconto de 100% pelo Fundo, desde que o contrato tenha sido celebrado até 31 de dezembro de 1987 (art. 2º, § 3º, da Lei n. 10.150/00), ainda que haja novação dos débitos fundada em edição anterior da Medida Provisória 1.981-52/2000, cujas regras foram mantidas quando convertida na Lei 10.150/2000".
+2. Recurso especial não provido. (REsp 1075284 / MG, RelatoraMinistra ELIANA CALMON, SEGUNDA TURMA, DJe 04/11/2008).
+CIVIL. RECURSO ESPECIAL. SISTEMA FINANCEIRO DA HABITAÇÃO - SFH. FCVS. SALDO DEVEDOR. NOVAÇÃO. DESCONTO INTEGRAL PREVISTO NO ART. 2º, § 3º, DA LEI 10.150/2000. POSSIBILIDADE. PRECEDENTES.
+1. Tratam os autos de ação sob o rito ordinário objetivando a declaração de nulidade de pacto de liquidação antecipada de contrato de mútuo habitacional, firmado sob a égide da Medida Provisória 1.768-34, tendo em vista a superveniência de legislação garantindo desconto de 100% do saldo devedor (Lei 10.150/2000, oriunda da MP 1.981/52). Acórdão recorrido que entendeu ser impossível a anulação de pacto de quitação apenas pela superveniência de lei mais benéfica. Recurso especial no qual se alega violação do art. 2º, § 3º, da Lei 10.150/2000, bem como dissenso pretoriano.
+2. Este Superior Tribunal de Justiça firmou orientação no sentido de que "é direito do mutuário a manutenção da cobertura do FCVS e, por conseqüência, a liquidação antecipada do saldo devedor, com desconto de 100% pelo Fundo, desde que o contrato tenha sido celebrado até 31 de dezembro de 1987 (art. 2º, § 3º, da Lei n. 10.150/00), ainda que haja novação dos débitos fundada em edição anterior da Medida Provisória 1.981-52/2000, cujas regras foram mantidas quando convertida na Lei 10.150/2000" (REsp 638.132/PR, Rel. Min. Franciulli Netto, Segunda Turma, DJ 06.09.2004).
+3. Recurso especial provido.(REsp 956023/RS, Relator Ministro JOSÉ DELGADO, PRIMEIRA TURMA, DJ 25/10/2007 p. 143)
+Confira-se, ainda: REsp 650136/RS, RelatorMinistro LUIZ FUX, PRIMEIRA TURMA, Dje 14/10/2005, p. 185;eREsp 886005/PE, RelatorMinistro CARLOS FERNANDO MATHIAS (JUIZ FEDERAL CONVOCADO DO TRF 1ª REGIÃO), SEGUNDA TURMA, DJe 03/02/2009.
+Nota-se que a conclusão de aresto combatido está em dissonância com o entendimento desta Casa de Justiça.
+Ante o exposto, com base no art. 255, § 4º, I e III, do RISTJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO para reconhecer a manutenção da cobertura do FCVS, nos termos da jurisprudência do STJ.
+Sem majoração da verba honorária (art. 85, § 11, do CPC/2015), em razão do disposto no Enunciado Administrativo n. 7 do STJ.
+Publique-se. Intimem-se.
