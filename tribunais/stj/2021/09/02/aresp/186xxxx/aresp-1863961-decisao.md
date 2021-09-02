@@ -1,0 +1,77 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado (fls. 126/128, e-STJ):
+Cerceamento de defesa afastado. Adjudicação compulsória. Requisitos preenchidos. Litigância de má-fé. Recurso não provido. Decisão unânime.
+O requerimento da perícia foi apresentado após a réplica e, portanto, intempestivamente, sendo atingido pela preclusão.
+Ao requerer a prova pericial após a contestação, o apelante perdeu o momento oportuno para requerer as provas aptas a lastrear fato impeditivo, extintivo ou modificativo do direito do autor. Inteligência do art. 336 do CPC/15. Cerceamento de defesa afastado.
+O apelante não juntou nenhum documento médico apto a indicar a incapacidade dele. Ao invés, realizou atos hábeis a corroborar sua capacidade para gerir os atos da vida civil como, por exemplo, a constituição de novo advogado e o comparecimento à audiência de mediação.
+Requisitos do pedido de adjudicação compulsória: A existência de celebração de negócio jurídico irretratável, por meio de instrumento público ou particular, a prova do pagamento e a recusa do vendedor de repassar ao comprador a titularidade do bem. Inteligência dos artigos 1.417 e 1.418 do CC/02.
+As partes celebraram negócio jurídico por meio de escritura particular de compra e venda, a qual fez constar o pagamento imediato e integral do valor acordado5. A obrigação existente entre as partes decorreu de negócio jurídico válido, pois celebrado por agentes capazes, com objeto lícito e forma prescrita em lei. Inteligência do art. 104 do Código Civil.
+Os litigantes devem respeitar padrões mínimos de lealdade e boa-fé, por meio do ajuizamento de demandas coerentes, para, assim, obter uma prestação jurisdicional eficaz.
+O dever de boa-fé é destinado a todos aqueles que participam do processo, notadamente, as partes. É possível conceituar como litigante de boa-fé aquele que não incorre em qualquer conduta contrária ao disposto no art. 77 do CPC/15. O litigante de boa-fé não utiliza de artifícios fraudulentos, não altera a verdade dos fatos, não abusa do direito de demandar, e, consequentemente, não prejudica a efetividade do provimento jurisdicional.
+Considerando o disposto no art. 85, § 11, do CPC/15 e o trabalho adicional realizado pelos advogados do apelado nessa segunda instância, com desvelo e diligência, deve haver a majoração das verbas honorárias sucumbenciais de 15% para 20% sobre o valor da causa.
+Sendo o apelante beneficiário da gratuidade da justiça, suspendo a efetivação desse comando, com base no art. 98, § 3º, do CPC/15, ficando consignado que, acaso sobrevenha mudança das condições financeiras no intervalo de cinco anos, a contar da publicação desta decisão, a obrigação de pagamento poderá ser cobrada.
+Recurso não provido. Decisão unânime.
+Nas razões do recurso especial, a parte ora agravante alega, além de divergência jurisprudencial, violação aos arts. 80, 355, I, 369 do Código de Processo Civil de 2015.
+Argumenta ter havido, no caso dos autos, cerceamento de defesa por conta do indeferimento da produção de prova pericial, a qual comprovaria a sua incapacidade relativa. Afirma, ainda, não estar configurada a litigância de má-fé.
+Foram apresentadas contrarrazões às fls. 226/229, e-STJ.
+Assim delimitada a controvérsia, passo a decidir.
+A Súmula nº 568 desta Corte dispõe que "relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema".
+O Tribunal de origem rejeitou o pedido de produção da prova pericial, por considerar que o requerimento teria sido apresentado de forma intempestiva e sob o argumento de que a parte não juntou relatório médico algum e de que o réu, na verdade, praticou diversos atos hábeis a corroborar sua capacidade para gerar os atos da vida civil, a constituição de novo advogado e o comparecimento à audiência de mediação (fls. 122/123, e-STJ):
+Tércio alega, em sede preliminar, a nulidade da sentença, em virtude de cerceamento de defesa.
+(..)
+Cumpre-me apreciar, de logo, a existência - ou não - de nulidade da sentença por cerceamento de defesa, em virtude da falta de perícia, requerida pelo apelante. Da análise dos autos, observo ter o requerimento da perícia sido apresentado após a réplica e, portanto, intempestivamente, sendo atingido pela preclusão (ID 7175076). O momento oportuno para requerer a produção de provas é a contestação nos termos do art. 336 do CPC/15.
+Art. 336. Incumbe ao réu alegar, na contestação, toda a matéria de defesa, expondo as razões de fato e de direito com que impugna o pedido do autor e especificando as provas que pretende produzir.
+Assim, Tércio não cumpriu os prazos processuais adequadamente, ao requerer a prova pericial após a contestação, momento oportuno para requerer as provas aptas a lastrear fato impeditivo, extintivo ou modificativo do direito do autor. Ademais, Tércio não juntou nenhum documento médico apto a indicar a incapacidade dele. Ao invés, Tércio realizou atos hábeis a corroborar sua capacidade para gerir os atos da vida civil como, por exemplo, a constituição de novo advogado e o comparecimento à audiência de mediação.
+Afastada, portanto, a alegação por cerceamento de defesa bem como a incapacidade de Tércio para realizar negócios jurídicos.
+Observo que a parte recorrente impugnou o fundamento da ocorrência da preclusão, mas nada disse sobre o outro ponto. Incide, portanto, por analogia, o óbice da Súmula 283/STF, segundo a qual "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ACIDENTE DE TRÂNSITO. AÇÃO DE INDENIZAÇÃO. ACÓRDÃO RECORRIDO. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF. PROVAS. DANOS MORAIS. SÚMULA Nº 7/STJ. TERMO INICIAL. JUROS MORATÓRIOS. SÚMULA Nº 54/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A ausência de impugnação de um fundamento suficiente do acórdão recorrido enseja o não conhecimento do recurso, incidindo o enunciado da Súmula nº 283 do Supremo Tribunal Federal.
+3. Rever a conclusão do aresto impugnado acerca das provas produzidas nos autos encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+4. O termo inicial dos juros moratórios inicia-se da data do evento danoso, quando decorrente de ato ilícito proveniente de responsabilidade extracontratual.
+5. Agravo interno não provido.
+(AgInt no AREsp 1182938/MS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 21/8/2018, DJe 27/8/2018)
+PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA N. 211/STJ. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO. SÚMULA N. 283 DO STF. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Considera-se deficiente, a teor da Súmula n. 284 do STF, a fundamentação do recurso especial que alega violação do art. 1.022 CPC/20015, mas não demonstra, clara e objetivamente, qual o ponto omisso, contraditório ou obscuro do acórdão recorrido que não teria sido sanado no julgamento dos embargos de declaração.
+3. Ausente o enfrentamento da matéria pelo acórdão recorrido, inviável o conhecimento do recurso especial, por falta de prequestionamento (Súmula n. 211/STJ).
+4. A subsistência de fundamento não impugnado, apto a manter a conclusão do aresto, impõe o reconhecimento da incidência da Súmula n. 283 do STF, por analogia.
+5. O recurso especial não comporta exame de questões que impliquem revolvimento do contexto fático-probatório dos autos e interpretação de cláusulas contratuais (Súmulas n. 5 e 7 do STJ).
+6. No caso concreto, o Tribunal de origem, a partir do exame dos elementos de prova e da interpretação das cláusulas contratuais, concluiu pela inexistência de relação de consumo, pois o mutuário não visou ao incremento de atividade empresarial, e pela caracterização de culpa in vigilando e in eligendo. Entender de modo contrário implicaria reexame de matéria fática e interpretação do ajuste celebrado, o que é vedado em recurso especial.
+7. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1197343/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 25/5/2020, DJe 28/5/2020)
+O TJPE entendeu, à vista dos fatos e das provas juntadas, que o réu estaria incurso nas penas pela litigância de má-fé pelos seguintes motivos (fls. 123/126, e-STJ):
+Da adjudicação compulsória
+Tércio alega, ainda, não ter José preenchido os requisitos para a adjudicação compulsória. O Código Civil regulamenta a adjudicação compulsória nos seguintes termos:
+Art. 1.417. Mediante promessa de compra e venda, em que se não pactuou arrependimento, celebrada por instrumento público ou particular, e registrada no Cartório de Registro de Imóveis, adquire o promitente comprador direito real à aquisição do imóvel. Art. 1.418. O promitente comprador, titular de direito real, pode exigir do promitente vendedor, ou de terceiros, a quem os direitos deste forem cedidos, a outorga da escritura definitiva de compra e venda, conforme o disposto no instrumento preliminar; e, se houver recusa, requerer ao juiz a adjudicação do imóvel
+Da interpretação conjugada dos dispositivos tem-se como certo dever o autor comprovar: a existência de celebração de negócio jurídico irretratável, por meio de instrumento público ou particular, a prova do pagamento e a recusa do vendedor de repassar ao comprador a titularidade do bem. Da análise dos autos, observo terem as partes celebrado negócio jurídico por meio de escritura particular de compra e venda, a qual fez constar o pagamento imediato e integral do valor acordado (ID 7174644). Vejamos:
+ ..  pelo outorgante vendedor foi dito que, pelo preço de R$ 30.000,00 (trinta mil reais), sendo pago no ato da escritura em moeda corrente e legal do País, por esta escritura e na melhor forma de direito, cedem e transferem como de fato cedido e transferido tem aos outorgados cessionários dos direitos de posse que o outorgante mantém sobre o imóvel  ..  assim em virtude deste instrumento transfere aos outorgantes o direito e ação que possuem como proprietários do imóvel mencionado  ..  pelas partes neste ato me foi dito que assumem toda responsabilidade pelas declarações prestadas. Pelo outorgado comprador foi dito que aceitava esta escritura como está feita  ..
+Diante disso, a obrigação existente entre as partes decorreu de negócio jurídico válido, pois celebrado por agentes capazes, com objeto lícito e forma prescrita em lei, nos termos do art. 104 do Código Civil.
+Art. 104. A validade do negócio jurídico requer: I - agente capaz; II - objeto lícito, possível, determinado ou determinável; III - forma prescrita ou não defesa em lei.
+Por outro lado, da leitura da própria contestação se depreende a recusa de Tércio em entregar a documentação necessária para a transcrição do bem em nome de José. Assim, o reconhecimento do direito de adjudicação por parte de José ficou comprovado nos autos.
+Da litigância de má-fé
+Os litigantes devem respeitar padrões mínimos de lealdade e boa-fé, por meio do ajuizamento de demandas coerentes, para, assim, obter uma prestação jurisdicional eficaz.
+Neste sentido, o art. 5º do CPC/15 expandiu o dever de boa-fé para todos aqueles que participam do processo, notadamente, as partes. Além disso, o art. 77 do CPC/15 elenca entre os deveres das partes e de todos que atuam no feito, vedando a formulação de pretensões sabidamente destituídas de fundamento (inciso II).
+Desta forma, é possível conceituar como litigante de boa-fé aquele que não incorre em qualquer conduta contrária ao disposto no aludido art. 77, notadamente, a contida no inciso IV, do CPC/15, qual seja, cumprir com exatidão as decisões jurisdicionais, de natureza provisória ou final, e não criar embaraços à sua efetivação. Portanto, o litigante de boa-fé não utiliza de artifícios fraudulentos, não abusa do direito de demandar, e, consequentemente, não prejudica a efetividade do provimento jurisdicional, fim último do dever de cooperação, expresso no art.6º do CPC/15.
+Nos termos do artigo 80, do CPC, reputa-se litigante de má-fé o ente processual que:
+Art. 80. Considera-se litigante de má-fé aquele que:
+I - deduzir pretensão ou defesa contra texto expresso de lei ou fato incontroverso;
+II - alterar a verdade dos fatos;
+III - usar do processo para conseguir objetivo ilegal;
+IV - opuser resistência injustificada ao andamento do processo;
+V - proceder de modo temerário em qualquer incidente ou ato do processo;
+VI - provocar incidente manifestamente infundado;
+VII - interpuser recurso com intuito manifestamente protelatório.
+Dito isto, tenho como certo ter Tércio litigado de má-fé, quando buscou alterar a verdade dos fatos ao pretender causar a nulidade do negócio jurídico por meio de alegação falsa de incapacidade. Assim, mantenho a condenação por litigância de má-fé fixada na sentença.
+A alteração desse entendimento demandaria reexame de provas, providência vedada em recurso especial, nos termos da Súmula 7/STJ. A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.LITIGÂNCIA DE MÁ-FÉ. OPOSIÇÃO DE RESISTÊNCIA INJUSTIFICADA AO ANDAMENTO DO PROCESSO. APLICAÇÃO DE MULTA. INVERSÃO DO JULGADO. SÚMULA 7/STJ. AGRAVO INTERNO DA AUTARQUIA NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior admite a aplicação de multa por litigância de má-fé, quando reconhecida a ocorrência de alguma das hipóteses previstas no art. 80 do CPC/2015, notadamente quando se trata de recursos manifestamente protelatórios de questões já decididas sob o rito dos recursos repetitivos ou representativos de controvérsia.
+2. Ao contrário do que afirma a parte agravante, a imposição da multa não se deu de forma automática, tendo o Tribunal de origem fundamentado de forma suficiente as premissas que levaram ao reconhecimento da oposição de resistência injustificada ao andamento do processo.
+3. A adoção de entendimento diverso, conforme pretendido, implicaria o reexame do contexto fático-probatório dos autos, circunstância vedada pela Súmula 7 do STJ.
+4. Agravo interno da autarquia federal não provido.
+(AgInt no REsp 1798583/SC, Rel. MIN. MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, julgado em 9/8/2021, DJe 16/8/2021)
+Anoto, por fim, que o dissídio jurisprudencial não foidemonstrado na forma exigida pelos artigos 1.029, § 1º, do Código de Processo Civil de 2015 e 255, parágrafos 1º e 3º, do Regimento Interno do Superior Tribunal de Justiça.
+A simples transcrição de ementas ou votos, sem a exposição clara e precisa das circunstâncias que identifiquem ou assemelhem os casos confrontados, não autoriza haver por atendida a suposta divergência. Tais circunstâncias prejudicam a compreensão da controvérsia e atraem o óbice contido no enunciado n. 284 da Súmula do STF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
