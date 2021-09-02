@@ -1,0 +1,23 @@
+DECISÃO:
+EMENTA: Processual penal. Habeas corpus. Tráfico e associação para o tráfico de drogas. Pedido de absolvição. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Sebastião Reis Júnior, assim ementado:
+     “PENAL. AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. WRIT SUBSTITUTIVO DE RECURSO ESPECIAL. FALTA DE CABIMENTO. PRETENSÃO DE ABSOLVIÇÃO DO CRIME DE ASSOCIAÇÃO. ALEGAÇÃO DE INSUFICIÊNCIA DE PROVAS DO VÍNCULO ESTÁVEL E PERMANENTE. PLEITO QUE DEMANDA EXAME DE MATÉRIA FÁTICO-PROBATÓRIA. INVIABILIDADE NA VIA ELEITA.
+    1. Deve ser mantida a decisão monocrática em que se indefere liminarmente a inicial do writ, substitutivo do recurso cabível, quando verificado que o acolhimento da pretensão formulada no habeas corpus demanda reexame de provas.
+    2. Hipótese em que se pretende a absolvição do crime de associação para o crime de tráfico de drogas, ao argumento de que as instâncias ordinárias não lograram demonstrar o vínculo estável e permanente para a configuração do delito.
+    3. Evidenciado que o Magistrado singular, ao se convencer da ocorrência do crime de associação para o tráfico de drogas, fez menção à existência de relatório nos autos dando conta da antiga e estável associação entre os réus para o preparo, o embalo e a entrega de entorpecentes, além do depoimento da corré, no sentido de que antes mesmo de o acusado fugir da prisão, ela remetia drogas a Bauru e ele vendia no estabelecimento prisional em que se encontrava, tendo, após a fuga, os dois sido responsáveis pelo preparo, embalo e entrega das substâncias ilícitas, alcançar conclusão inversa demandaria reexame de provas, inviável na via estreita.
+    4. Agravo regimental improvido.”
+    2. Extrai-se dos autos que o paciente foi condenado, em primeiro grau de jurisdição, à pena de 13 anos e 06 meses de reclusão, em regime inicial fechado, pela prática dos crimes previstos no art. 33, caput, e art. 35, caput, da Lei nº 11.343/06, em concurso material.
+    3. O Tribunal de Justiça do Estado de São Paulo deu parcial provimento ao recurso de apelação defensivo para reduzir a pena do réu para 10 anos e 06 meses de reclusão, mantendo, no mais, a sentença, por seus próprios e jurídicos fundamentos. A defesa, então, impetrou habeas corpus no STJ (HC 672.015). O Relator, Ministro Sebastião Reis Júnior, indeferiu liminarmente o writ.
+    4. Neste habeas corpus, a parte impetrante alega que “a decisão vergastada é ilegal eis que se reconheceu a prática do crime de associação para o tráfico mesmo quando não havia qualquer elemento nos autos comprovando o vínculo associativo entre o paciente e a corré”.
+     5. A defesa requer a concessão da ordem, “a fim de que seja reconhecida a atipicidade da conduta dita de associação para o tráfico atribuída ao paciente, com a sua absolvição”.
+    6. Decido.
+    7. O habeas corpus não deve ser concedido.
+    8. O entendimento do Supremo Tribunal Federal é no sentido de que “o habeas corpus não é, considerado o seu rito estreito, a via processual adequada ao reexame de fatos e provas para chegar-se à absolvição” (HC 107.550, Rel. Min. Luiz Fux. No mesmo sentido: HC 124.479, Rel. Min. Luiz Fux; RHC 122.183 e HC 122.436, Rel. Min. Dias Toffoli).
+    9. No caso, não vejo ilegalidade ou abuso de poder que justifique o acolhimento da pretensão defensiva. Vejam-se, nessa linha, as seguintes passagens do acórdão impugnado:
+    “O Magistrado singular, ao reconhecer a prática do crime de associação para o tráfico de drogas por parte do acusado, consignou que (fl. 112):
+    [...] quanto ao crime previsto no artigo 35 da Lei de Drogas, como já mencionado acima, houve minudente relatório que comprova a antiga e estável associação entre os réus para o preparo, o embalo e a entrega de entorpecentes, além, obviamente, da circunstância de ter sido localizada grande quantidade de droga e petrechos na casa da ré, que servia, segundo a policial civil, também de biqueira. Ainda, Kikuo esclareceu que havia divisão de tarefas entre eles antes da fuga do corréu: a acusada remetia drogas a Bauru e ele vendia no estabelecimento prisional em que se encontrava. Depois da fuga, os dois eram responsáveis pelo preparo, embalo e entrega das substâncias ilícitas. [...]”
+    10. Diante do exposto, com fundamento no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 02 de setembro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
