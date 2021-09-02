@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por VIPLAN VIAÇÃO PLANALTO LIMITADA contra decisão deste relator que inadmitiuo recurso extraordinário, por considerá-lo manifestamente incabível, pois "a via adequada para o combate de acórdão denegatório proferido em única instância pelos tribunais superiores em julgamento de habeas corpus, mandado de segurança, habeas data ou mandado de injunção é o recurso ordinário, nos termos do art. 102, inciso II, alínea "a", da Constituição da República" (fl. 498).
+Nas razões dos declaratórios, o embargante aduz que não há equívoco na interposição doapelo extraordinário, visto que o recurso ordinário se restringiria à hipótese de o mandado de segurança ter sido denegado, o que não seria a hipótese, pois o writ foi indeferido liminarmente, não tendo sido, por conseguinte, conhecido.
+É, no essencial, o relatório. Decido.
+Nada a acolher.
+A teor de pacífica jurisprudência, da decisão proferida em mandado de segurança que conduza ao indeferimento do pleito mandamental, seja pela sua denegação (extinção com análise de mérito), seja pelo seu não conhecimento (extinção sem análise de mérito), o único instrumento processual cabível é o recurso ordinário.
+A propósito, citam-se:
+2. O presente recurso especial não foi admitido ao fundamento de erro grosseiro na interposição do recurso, porque cabível Recurso Ordinário das decisões que denegam mandado de segurança. A tese do recorrente é de que é cabível o recurso especial porque na presente hipótese, o mandado de segurança não fou conhecido, e não denegado.Assim, em razão da ausência da análise de mérito, não seria passível o recurso ordinário.
+ ..
+4. Em razão da literalidade normativa esculpida no §5º do art. 6º da nova Lei do Mandado de Segurança, não é cabível o Recurso Especial, nem mesmo é caso de aplicabilidade de fungibilidade Recursal, ante a inexistência de margem de dúvida quanto a interpretação normativa, sendo suficiente a mera aplicação do estabelecido no regramento normativo específico ao procedimento a ser observado nas Ações de Mandado de Segurança.
+5. Hipótese de mera inadequação terminológica da decisão que "não conheceu" do mandado de segurança, ao invés de denegar.
+6. Recurso especial não conhecido.(REsp n. 1.631.873/SP, relatora Ministra Nancy Andrighi, Terceira Turma, DJe de 13/12/2016.)
+PROCESSUAL CIVIL. DECISÃO DENEGATÓRIA DE MANDADO DE SEGURANÇA EM ÚNICA INSTÂNCIA. INTERPOSIÇÃO DE RECURSO ESPECIAL. ERRO GROSSEIRO.
+INAPLICABILIDADE DO PRINCÍPIO DA FUNGIBILIDADE RECURSAL.
+1. A jurisprudência desta Corte é firme no sentido de que contra decisão denegatória de mandado de segurança decidido em única instância por Corte estadual, como no caso dos autos, é cabível o recurso ordinário, conforme art. 105, II, "b", da Constituição Federal.
+2. A interposição de recurso especial quando cabível o ordinário contra decisão denegatória de mandado de segurança configura erro grosseiro; logo, impossível aplicar o princípio da fungibilidade recursal.
+3. É pacífico nesta Corte o entendimento de que o recurso cabível em caso de concessão parcial do mandado de segurança é o recurso ordinário. precedentes. RMS 30.781/RJ, Rel. Min. Raul Araújo, Quarta Turma; RMS 31.848/AC, Rel. Min. Mauro Campbell Marques, Segunda Turma; RMS 32.007/SC, Rel. Min. Eliana Calmon, Segunda Turma.
+4. Como bem afirmou a eminente Ministra Marilza Maynard, no 1.213.527/RS, que já "definiu esta Corte que a expressão "denegatória"deve ser interpretada em sentido amplo, ou seja, compreende as decisões dos tribunais que, apreciando o mérito da causa, indeferem o pedido de mandado de segurança, como também abrange aquelas que, sem julgamento do mérito, operam a extinção do processo".
+Agravo regimental improvido.(AgRg no AREsp n. 522.589/SP, relator Ministro Humberto Martins, Segunda Turma, DJe de 15/8/2014.)
+No mesmo sentido, precedentes do STF:
+Constitui decisão denegatória, para efeito de interposição de recurso ordinário, tanto a decisão em que se conhece do mandamus e se denega a segurança no mérito, quanto a decisão em que não se conhece dele, sem adentrar no mérito da controvérsia. Precedentes da Corte.(RMS n. 34.075 AgR, relator Ministro Dias Toffoli, Segunda Turma, publicado em 2/12/2016.)
+É admissível recurso ordinário contra decisão que não conhece de pedido de mandado de segurança. (RMS n. 25.424, relator Ministro Cezar Peluso, Segunda Turma, publicado em 7/11/2008.)
+- Para efeito de interposição do recurso ordinário, qualificam-se como decisões denegatórias tanto as que indeferem o mandado de segurança, apreciando-lhe o mérito, quanto aquelas que dele não conhecem, com a consequenteextinção do processo, sem julgamento da controvérsia material suscitada. Precedentes.(RMS n. 22.406, relator Ministro Celso de Mello, Primeira Turma, publicado no DJ de 31/5/1996.)
+Inexiste, portanto, qualquer dos pressupostos que legitimam a oposição de embargos de declaração, mas inconformismo com a decisão que reconheceu a errônea interposição do recurso.
+Aliás, a própria oposição de embargos de declaração contra a decisão que inadmite o recurso extraordinário é reiteradamente rejeitada pela jurisprudência do STF, a qual consigna que o recurso cabível contra a inadmissão do apelo extremoé o agravo em recurso extraordinário.
+A título exemplificativo, cita-se:
+1. A oposição de embargos declaratórios à decisão que inadmite o recurso extraordinário não suspende nem interrompe o referido prazo, pois o agravo nos próprios autos é o único recurso cabível contra a decisão que não admite o recurso extraordinário. Precedentes.(ARE n. 1.107.739 relator Ministro Edson Fachin, Segunda Turma, publicado em 7/5/2019.)
+1. É predominante no Supremo Tribunal Federal o entendimento de que são manifestamente incabíveis os embargos declaratórios opostos, na origem, contra decisão denegatória de admissibilidade a recurso extraordinário. (ARE 665.296 AgR, relator Ministro Ayres Britto (Presidente), Tribunal Pleno, publicado em 2/5/2013.)
+Ante o exposto, rejeitoos embargos de declaração.
+Publique-se. Intimem-se.
