@@ -1,0 +1,82 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Marco Aurélio Bellizze votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPLEMENTAÇÃO DAS CUSTAS DE PREPARO. RAZÕES DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A alegada afronta a lei federal não foi demonstrada com clareza, pois as razões do recurso especial apresentado se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do apelo nobre e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+4. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo interno não provido.
+RELATÓRIO
+VALDEMAR PEREIRA (VALDEMAR) promoveu ação de cobrança contra USINA MARINGÁ INDÚSTRIA E COMÉRCIO LTDA. (USINA), sob a alegação de inadimplemento quanto ao pagamento de produção de cana-de-açúcar e multa contratual.
+Em primeira instância, o pedido foi julgado parcialmente procedente para condenar ao pagamento do valor de R$ 229.916,14 (duzentos e vinte e nove mil e novecentos e dezesseis reais e quatorze centavos)  e-STJ, fls. 267/271 .
+As partes apelaram, o relator original, em decisão monocrática, determinou a complementação das custas processuais, o que acarretou a interposição de agravo interno por VALDERMAR (e-STJ, fl. 331).
+O Tribunal de Justiça de São Paulo (TJ/SP) não proveu o recurso, nos termos do v. acórdão prolatado pelo Desa. Ana Catarina Strauch, termos do acórdão assim ementado:
+AGRAVO INTERNO - Insurgência em face da decisão que determinou a complementação das custas de preparo do recurso de apelação interposto pelo agravante - Sentença apelada estabeleceu valor líquido de condenação - No caso concreto, as custas de preparo devem tomar por base o proveito econômico pretendido pelo autor, o que corresponde à diferença do que inicialmente requereu na exordial e o que obteve na r. sentença apelada - Inteligência do art. 4º, inciso II e § 2º, da Lei Estadual Paulista nº 11.608, de 29 de dezembro de 2003 - Decisão mantida - RECURSO DESPROVIDO, com observação (e-STJ, fl. 347).
+Os embargos de declaração opostos pela USINA foram parcialmente acolhidos, e os opostos por VALDEMAR foram rejeitados (e-STJ, fls. 384/388 e 417/423).
+Inconformado, VALDEMAR interpôs recurso especial, com fundamento no art. 105, III, alínea a e c, da CF, alegando violação dos arts. 10 e 85 do NCPC, bem como divergência jurisprudencial.
+O apelo nobre não foi admitido na origem em virtude da (1)não demonstração da vulneração do dispositivo arrolado; (2) incidência da Súmula nº 7 do STJ; e(3) não demonstração do dissídio jurisprudencial.
+Seguiu-se o agravo em recurso especial que, em decisão monocrática da relatoria do Ministro Presidente do STJ, foi conhecido para não conhecer do recurso especial, em virtude da não demonstração do dissídio jurisprudencial e da incidência das Súmulas nºs 284 do STF e 7 do STJ.
+Nas razões do presente agravo interno, VALDEMAR, repisando os argumentos trazidos nas razões recursais, alegou (1) a inaplicabilidade da Súmula nº 7 do STJ; (2)a não incidência da Súmula nº 284 do STF, pois houve a impugnação específica da decisão; e(3)a suspensão do feito em razão da recuperação judicial da agravada.
+Houve impugnação ao recurso (e-STJ, fls. 582/589).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. COMPLEMENTAÇÃO DAS CUSTAS DE PREPARO. RAZÕES DISSOCIADAS. INCIDÊNCIA DA SÚMULA Nº 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL. NÃO DEMONSTRAÇÃO, NOS MOLDES LEGAIS. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.
+3. A alegada afronta a lei federal não foi demonstrada com clareza, pois as razões do recurso especial apresentado se encontram dissociadas daquilo que ficou decidido pelo Tribunal de origem, o que caracteriza deficiência na fundamentação do apelo nobre e atrai, por analogia, o óbice da Súmula nº 284 do STF.
+4. A não observância dos requisitos do art. 255, §§ 1º e 2º, do Regimento Interno do Superior Tribunal de Justiça torna inadmissível o conhecimento do recurso com fundamento na alínea c do permissivo constitucional.
+5. Agravo interno não provido.
+VOTO
+O recurso não merece provimento.
+De plano, vale pontuar que o presente agravo interno foi interposto contra decisão publicada na vigência do novo Código de Processo Civil, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+Na hipótese, quanto a alegada violação do art. 10 do NCPC, parte, o v. acórdão concluiu que o embargante teve inúmeras oportunidades para complementar às custas do preparo, mas preferiu quedar-se inerte, consoante se vê dos seguintes trechos:
+Da decisão prolatada pela Turma Julgadora, determinando, o recolhimento do complemento do preparo, e o julgamento do o recurso de de apelação, transcorreram 04(quatro meses), sem a interposição de o recurso e de igual modo, sem a complementação das custas do preparo.
+Em suma, descabe agora, a invocação do art. 10 do CPC. A uma, porque o embargante teve inúmeras oportunidades para complementar às custas do preparo, mas preferiu quedar-se inerte; a duas, porque foi devidamente o intimado para a prática do ato, mas por desídia deixou de praticá-lo, em duas oportunidades distintas; e a três, porque inexiste surpresa na decisão proferida.
+As partes tem obrigação, de agir com lealdade no curso no processo, deixando de praticar atos, meramente procrastinatórios ou impertinentes, á com o escopo único de retardar, o cumprimento da decisão exarada (e-STJ, fl. 421)
+Dessa forma, conforme se nota, a Corte local assim decidiu com amparo no contexto fático-probatório da causa, de modo que a revisão do julgado, com o consequente acolhimento da pretensão recursal, demandaria, necessariamente, o reexame das provas, o que não se admite no âmbito do recurso especial, ante o óbice da Súmula nº 7 do STJ.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. JUSTIÇA GRATUITA. PEDIDO DE COMPROVAÇÃO DA HIPOSSUFICIÊNCIA. POSSIBILIDADE. REEXAME DE PROVA. SÚMULAS 7 E 83 DO STJ. INTIMAÇÃO PARA COMPLEMENTAÇÃO DE CUSTAS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. AGRAVO IMPROVIDO.
+1. O recurso é inviável, por aplicação do enunciado n. 7 da Súmula do STJ, quando as alegações em que se funda a pretensão recursal colidem com os pressupostos fáticos assentados no acórdão recorrido.
+Precedentes.
+2. Inadmissível o recurso especial referente à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo (enunciado n. 211 da Súmula do STJ).
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.019.174/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/3/2018, DJe 5/4/2018)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. VALOR DA CAUSA. ADEQUAÇÃO AO PROVEITO ECONÔMICO. COMPLEMENTAÇÃO DE CUSTAS. DELIMITANDO O ACÓRDÃO LOCAL QUE O VALOR DA CAUSA SERÁ OBTIDO DE MANEIRA OBJETIVA E CORRESPONDERÁ AO BENEFÍCIO PRETENDIDO PELO AUTOR, MODIFICAR TAL PREMISSA ESBARRA NA SÚMULA Nº 7 DO STJ. DIVERGÊNCIA NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA.
+1. A Corte local atestou que o valor da causa, no presente caso, deveria coincidir com o executado, pois eventual êxito na ação recairia sobre a totalidade da execução, nos termos da orientação deste Tribunal. Modificar tais premissas acerca do valor da causa e do consequente proveito econômico encontra óbice na Súmula nº 7 do STJ.
+2. Nos termos dos arts. 255, §§ 1º e 2º, do RISTJ e 541, parágrafo único, do CPC, para a comprovação do dissídio jurisprudencial é necessária a existência de similitude fática entre os casos comparados, circunstância não verificada na hipótese.
+3. Agravo regimental não provido.
+(AgRg no AREsp 709.624/SP, de minha relatoria, Terceira Turma, j. 27/10/2015, DJe 10/11/2015)
+Ademais, conforme consignado na decisão agravada, as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, atraindo a incidência da Súmula nº 284 do STF, pois o TJ/SP afirmou que o embargante teve inúmeras oportunidades para complementar às custas do preparo, mas preferiu quedar-se inerte; a duas, porque foi devidamente o intimado para a prática do ato, mas por desídia deixou de praticá-lo, em duas oportunidades distintas; e a três, porque inexiste surpresa na decisão proferida.
+Nesse contexto, o v. acórdão consignou:
+Da decisão prolatada pela Turma Julgadora, determinando, o recolhimento do complemento do preparo, e o julgamento do o recurso de de apelação, transcorreram 04(quatro meses), sem a interposição de o recurso e de igual modo, sem a complementação das custas do preparo.
+Em suma, descabe agora, a invocação do art. 10 do CPC. A uma, porque o embargante teve inúmeras oportunidades para complementar às custas do preparo, mas preferiu quedar-se inerte; a duas, porque foi devidamente o intimado para a prática do ato, mas por desídia deixou de praticá-lo, em duas oportunidades distintas; e a três, porque inexiste surpresa na decisão proferida.
+As partes tem obrigação, de agir com lealdade no curso no processo, deixando de praticar atos, meramente procrastinatórios ou impertinentes, á com o escopo único de retardar, o cumprimento da decisão exarada (e-STJ, fl. 421)
+Em suas razões recursais a parte afirmou:
+No caso em apreço, conforme exposto anteriormente, antes mesmo que fosse oportunizado ao Autor o recolhimento da diferença do preparo (complementação das custas), ante o desprovimento de seu recurso (Agravo Interno), o processo fora enviado diretamente à conclusão e houve a expedição de novo acórdão, nesse caso, julgando os Recursos de Apelação o o interpostos pelas partes.
+ ..
+Desta retificação, não houve em momento algum, determinação para que o recorrente recolhesse a diferença de valores apontada pelo Eminente Desembargador, em clara nulidade processual.
+Dessa forma, o Recurso de Apelação do Autor, no entanto, não foi conhecido por considerado deserto e o da empresa ré teve parcial provimento, sendo que tal decisão fora objeto dos presentes Embargos de Declaração, sob os argumentos de suposto erro material alegado pela empresa ré.
+Veja que a não oportunização de manifestação do Autor, até mesmo para cumprimento e complementação das custas, configura nulidade ante o desrespeito aos artigos do Código de Processo Civil supramencionados, bem como entendimento cristalizado deste E. Tribunal, motivo pelo qual enseja a sua nulidade, o que requer desde já, tudo nos termos da fundamentação (e-STJ, fls. 434/436).
+Nesse contexto, como as razões do especial, como se vê, não guardavam nenhuma relação com o que foi decidido pela Corte Estadual, fica caracterizada a deficiência na fundamentação, a incidir a Súmula nº 284 do STF, que dispõe: É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+De outra parte, a decisão agravada consignou, quanto a alegada divergência, queesta não foi demonstrada nos termos exigidos pela legislação e pelas normas regimentais.
+Nesse contexto, importante destacar que a viabilidade do recurso especial pela alínea c do art. 105, III, da Constituição Federal pressupõe que, além da transcrição dos acórdãos aptos à comprovação da alegada divergência, se proceda ao cotejo analítico entre o aresto recorrido e o trazido como paradigma, com a demonstração da identidade fática entre eles e da interpretação divergente dada ao mesmo dispositivo legal, o que não ocorreu na espécie.
+A propósito:
+CIVIL. PROCESSUAL CIVIL. AÇÃO DE NULIDADE DE ESCRITURA PÚBLICA DE DOAÇÃO. JULGAMENTO FORA DO PEDIDO. INOCORRÊNCIA. OBSERVÂNCIA DOS LIMITES TRAÇADOS PELA CAUSA DE PEDIR E PELOS PEDIDOS. RECONHECIMENTO INCIDENTAL E DE OFÍCIO DE CAUSA DE NULIDADE DO NEGÓCIO NÃO ARGUIDA.
+POSSIBILIDADE. RESPEITO AO CONTRADITÓRIO, À AMPLA DEFESA E AO DIREITO À PROVA. DOAÇÃO REMUNERATÓRIA. RESPEITO AOS LIMITES DE DISPOSIÇÃO DELINEADOS PELO LEGISLADOR. IMPOSSIBILIDADE DE DISPOSIÇÃO, A ESSE TÍTULO, DA TOTALIDADE DO PATRIMÔNIO OU DE PARTE QUE AFRONTE À LEGÍTIMA DOS HERDEIROS NECESSÁRIOS. DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DE COTEJO ANALÍTICO.
+ ..
+5- A ausência de cotejo analítico entre o acórdão recorrido e o acórdão paradigma impede o conhecimento do recurso especial interposto pela divergência.
+6- Recurso especial parcialmente conhecido e, nessa extensão, parcialmente provido.
+(REsp 1.708.951/SE, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, j. 14/5/2019, DJe 16/5/2019 - sem destaque no original)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO INDENIZATÓRIA. COBERTURA SECURITÁRIA. CERCEAMENTO DE DEFESA. PROVA PERICIAL. NECESSIDADE CONCRETAMENTE AFASTADA PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE PREVISÃO CONTRATUAL PARA A GRADAÇÃO PROPORCIONAL DA INVALIDEZ. SEGURADORA QUE NÃO INFORMOU AO SEGURADO OS ELEMENTOS ESSENCIAIS DO CONTRATO. INTERPRETAÇÃO DO CONTRATO. REEXAME DE PROVAS. IMPOSSIBILIDADE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DO ACÓRDÃO. DISSÍDIO NÃO DEMONSTRADO. INCIDÊNCIA DAS SÚMULAS NºS 5, 7 DO STJ E 283 E 284 DO STF. RECURSO MANIFESTAMENTE PROTELATÓRIO. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+ ..
+4. Diante da ausência do cotejo analítico e das peculiaridades do caso concreto, também não se vislumbra a similitude fática imprescindível à configuração da divergência jurisprudencial ventilada, o que também atrai a Súmula nº 284 do STF.
+5. Em virtude do não provimento do presente recurso, e da anterior advertência em relação a aplicabilidade do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa.
+(AgInt no AgInt no AREsp 1.293.467/RS, de minha relatoria, Terceira Turma, j. 15/4/2019, DJe 22/4/2019 - sem destaque no original)
+Assim, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, que não conheceu do apelo nobre, devendo ser ele mantido.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno.
