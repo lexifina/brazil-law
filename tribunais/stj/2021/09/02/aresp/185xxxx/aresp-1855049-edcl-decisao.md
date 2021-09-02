@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por LUIZ CARLOS ARAÚJO MILHOMEM e OUTRA contra decisão da lavra deste signatário que deu provimento ao agravo interno para reconsiderar a decisão monocrática e de plano dar provimento ao recurso especial, a fim de reformar o acórdão do Tribunal de origem para determinar que os valores penhorados fossem enviados ao juízo universal.
+Nas razões do presente recurso (e-STJ, fls. 756/762), os embargantes apontam omissão no julgado recorrido, em especial no tocante à afetação do recurso especial para definir a aplicação do art. 49 da Lei 11.101/05, de modo que o recurso não poderia ter sido julgado.
+Impugnação às fls. 766/779 (e-STJ).
+É o relatório.
+Decido.
+O presente recurso não merece prosperar.
+1. Sabe-se que os embargos de declaração têm a finalidade de completar, aclarar, esclarecer ou corrigir uma decisão omissa, obscura, contraditória ou que contenha erro material, afirmação que se depreende dos incisos do próprio artigo 1.022 do Código de Processo Civil de 2015 (art. 535 do Código de Processo Civil de 1973).
+Não se prestam os embargos de declaração para adequar a decisão ao entendimento do embargante, nem para o acolhimento de pretensões que refletem mero inconformismo, e menos ainda para rediscussão de matéria já resolvida.
+Dessa forma, verifica-se que não há como serem acolhidos os presentes embargos de declaração porque o agravo foi decidido e suficientemente analisado à luz da jurisprudência deste Superior Tribunal Justiça, não estando presentes os vícios elencados no art. 1022 do Código de Processo Civil de 2015.
+De início, não há falar em "jamais este recurso poderia ter sido julgado sem que se aguardasse antes o julgamento do Repetitivo em questão." (fl. 757, e-STJ), pois o Recurso Especial Repetitivo em questão foi julgado e publicado nos seguintes termos "Em atenção ao disposto no art. 1.040 do CPC/2015, fixa-se a seguinte tese: Para o fim de submissão aos efeitos da recuperação judicial, considera-se que a existência do crédito é determinada pela data em que ocorreu o seu fato gerador." (REsp 1840531/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 09/12/2020, DJe 17/12/2020)
+De toda forma, tal julgado não se aplica ao caso, pois trata da submissão de crédito à recuperação judicial, e a presente controvérsia cinge-se saber se os atos constritivos judiciais sobre o patrimônio da empresa recuperanda, independentemente do crédito estarsubmetido ou não ao plano recuperacional, devem se submeter ao juízo universal, o que foi decidido à luz do entendimento do STJ, conforme julgados citados na decisão monocrática embargada.
+Ausente, portanto, a apontada omissão, não se revelam os embargos de declaração como a via adequada à revisão do julgado, em manifesta pretensão infringente. Com efeito, a jurisprudência do STJ é firme no sentido de que o mero descontentamento da parte com o resultado do julgamento não configura violação do art. 1.022 do CPC/15.
+Nesse sentido, colhe-se:
+EMBARGOS DE DECLARAÇÃO. PROCESSUAL CIVIL. OMISSÃO NÃO DEMONSTRADA. PRETENSÃO DE REDISCUTIR QUESTÕES DEVIDAMENTE EXAMINADAS E DECIDAS NA DECISÃO EMBARGADA. INVIABILIDADE. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Nos rígidos limites estabelecidos pelo art. 535, incisos I e II, do Código de Processo Civil de 1973, os embargos de declaração destinam-se a suprir omissão, afastar obscuridade ou eliminar contradição eventualmente existentes no julgado.
+2. A obtenção de efeitos infringentes, como pretende a Embargante, somente é possível, excepcionalmente, nos casos em que, reconhecida a existência de um dos defeitos elencados nos incisos do mencionado art. 535, a alteração do julgado seja consequência inarredável da correção do referido vício; bem como nas hipóteses de erro material ou equívoco manifesto, que, por si sós, sejam suficientes para a inversão do julgado. Precedentes.
+3. A pretensão de rediscutir matéria devidamente abordada e decidida no acórdão embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios.
+4. Embargos de declaração rejeitados. (EDcl no AgRg no RE nos EDcl no AgRg no REsp n. 993.078/SP, Relator o Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 17/9/2014, DJe 10/10/2014)
+2. Do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
