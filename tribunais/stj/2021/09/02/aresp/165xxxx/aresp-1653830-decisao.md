@@ -1,0 +1,48 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por DORIVAL ALBIERI contra decisão do Tribunal de Justiça de São Pauloque não admitiu recurso especial manejado contra acórdão assim ementado:
+"Danos material e moral  Indenização  Acidente automobilístico causado por animal na pista  A responsabilidade ligada à teoria do risco administrativo nãomerece subsistir  A conduta da ré teria sido de omissão e em tais casos a responsabilidade é subjetiva  A provaconvence da não prudência do motociclista, o que fazdesmerecer a tese da responsabilidade objetiva  Recursoprovido" (grifo nosso) (e-STJ, fl. 263).
+Os embargos de declaração opostos foram acolhidos em parte para corrigir erro material.
+Nas razões do recurso especial (e-STJ, fls. 283-304) a parte alega ofensa aos seguintes dispositivos legais: art. 175 CF;art. 6º, §1ºda Lei 8.987/95;arts. 6º, 14 e22 do CDC.Bem como a ocorrência de divergência jurisprudencial.
+Sustenta a recorrenteo pedido dereforma do acórdão por entender, em síntese,que: (i) "OV. acórdão recorrido, julgando fatos idênticos, diverge da Jurisprudência consolidada do C.STJ, em especial do Acórdão prolatado no RECURSO ESPECIAL NO 687.799 - RS (2004/0109220-6), relatado pelo E. SR. DR. MINISTRO ALDIR PASSARINHO JUNIOR, datado de 15.10.2009, conhecido e provido à unanimidade pela C. 4a. Turma desse E. STJ" (e-STJ, fl. 295) ; (ii) "Os fatos em causa, danos decorrentes de acidente de veículo causado pela presença de animais em estrada sob responsabilidade de concessionárias, são submetidos às regras consumeristas bem como caracterizam a responsabilidade objetiva das concessionárias"(e-STJ, fl. 299);(iii) "se trata de relação de consumo, ou ainda, da concessão de serviços públicos aentidades privadas, onde eventuais danos ocorridos se submetem à responsabilidade objetiva quer do fornecedor ou da concessionária, o que foi negado pelo V. Acórdão combatido"(e-STJ, fl. 304) e (iv) "que o V. Acórdão, ainda que alicerçado em base insuficiente para tanto, registre a "não prudência do motociclista", em nenhum momento afirma a "culpa exclusiva" do Requerente" (e-STJ, fl. 294).
+A recorrida apresentou contrarrazões. (e-STJ, fls. 316-324).
+Sobreveio juízo negativo de admissibilidade do Tribunal de origem (e-STJ, fls. 326/327), o que ensejou a interposição do presente agravo.
+Foram impugnados os fundamentos da decisão que inadmitiu o recurso especial.
+É o relatório.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à análise do recurso especial.
+Inicialmente, registre-se que o recurso em análise foi interposto contra decisão publicada na vigência do Novo Código de Processo Civil, de forma que o juízo de admissibilidade do presente recurso será realizado com base nas normas do CPC/15, conforme Enunciado Administrativo n. 3/STJ.
+Ato contínuo, verifico que a irresignação merece prosperar.
+Com efeito, a jurisprudência desta Corte firmou-se no sentido de queas concessionárias de serviços rodoviários, nas suas relações com os usuários, estão subordinadas à legislação consumerista, respondendo,objetivamente, por qualquer defeito na prestação do serviço,inclusivepelos acidentes provocados pela presença de animais na pista.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE ANIMAL. EMPRESA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RESPONSABILIDADE OBJETIVA. REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+1. "As pessoas jurídicas de direito privado prestadoras de serviço público - concessionárias e permissionárias - respondem objetivamente pelos danos causados a terceiros" (AgRg no AREsp 16.465/DF, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/4/2014, DJe 2/5/2014).
+2. O recurso especial não comporta o exame de questões que impliquem revolvimento do contexto fático-probatório dos autos (Súmula n.7/STJ).
+3. No caso concreto, o Tribunal de origem se baseou nas circunstâncias fáticas dos autos para concluir que foi comprovada a omissão da concessionária, devido à ausência de fiscalização regular da pista de rolamento.
+4. Agravo regimental a que se nega provimento.
+(grifo nosso)(AgRg no AREsp 838.337/PR, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 02/08/2016, DJe 09/08/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANO MATERIAL E MORAL. ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE ANIMAL BOVINO NO MEIO DA PISTA DE ROLAGEM EM RODOVIA CONSERVADA E FISCALIZADA MEDIANTE CONCESSÃO. RELAÇÃO DE CONSUMO. PRECEDENTE.ARTIGO 936 DO CÓDIGO CIVIL. SÚMULA Nº 211/STJ. ARTIGO 269, INCISO X, DO CÓDIGO DO TRÂNSITO BRASILEIRO. SÚMULA Nº 283/STF. REEXAME DE PROVAS. SÚMULA Nº 7/STJ.
+1. A jurisprudência consolidada do Superior Tribunal de Justiça preceitua que as concessionárias de serviços rodoviários, nas suas relações com os usuários, estão subordinadas à legislação consumerista.
+(..)
+5. Agravo regimental não provido.
+(grifo nosso)(AgRg no AREsp 150.781/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 06/08/2013, DJe 09/08/2013)
+RECURSO ESPECIAL. ACIDENTE EM ESTRADA. ANIMAL NA PISTA. RESPONSABILIDADE OBJETIVA DA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. CÓDIGO DE DEFESA DO CONSUMIDOR. PRECEDENTES.
+Conforme jurisprudência desta Terceira Turma, as concessionárias de serviços rodoviários, nas suas relações com os usuários, estão subordinadas à legislação consumerista. Portanto, respondem, objetivamente, por qualquer defeito na prestação do serviço, pela manutenção da rodovia em todos os aspectos, respondendo, inclusive, pelos acidentes provocados pela presença de animais na pista.
+Recurso especial provido.
+(grifo nosso)(REsp 647.710/RJ, Rel. Ministro CASTRO FILHO, TERCEIRA TURMA, julgado em 20/06/2006, DJ 30/06/2006, p. 216)
+Quanto àquestão da "não prudência" do motorista trazida no acórdão, observa-se que o autor possui razão no sentido de que, uma vez se tratando de relação de consumo, a responsabilidade da ré só será afastada em caso de culpa exclusiva do consumidorou de terceiro, que não foi o caso dos autos.
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA. 1.IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO QUE DENEGOU O PROCESSAMENTO DO RECURSO ESPECIAL. OCORRÊNCIA. INEXISTÊNCIA DE OFENSA AO PRINCÍPIO DA DIALETICIDADE. 2. QUEDA DE CONSUMIDORA NO INTERIOR DO ESTABELECIMENTO DA RÉ. ALEGAÇÃO DE QUE O PISO ESTAVA ESCORREGADIO NO MOMENTO DO ACIDENTE. RESPONSABILIDADE OBJETIVA DA FORNECEDORA DE SERVIÇO. IMPRESCINDIBILIDADE DE PROVA CABAL ACERCA DA CULPA EXCLUSIVA DA AUTORA. NÃO OCORRÊNCIA. INVERSÃO DO ÔNUS PROVA OPE LEGIS. 3. REVALORAÇÃO JURÍDICA DOS FATOS E DAS PROVAS.POSSIBILIDADE. NÃO INCIDÊNCIA DA SÚMULA 7/STJ. 4. AGRAVO DESPROVIDO.
+1. Sendo impugnados, nas razões do agravo em recurso especial, todos os fundamentos da decisão de inadmissibilidade do recurso especial, prolatada pelo Tribunal de origem, não há que se falar em violação ao princípio da dialeticidade e em inobservância ao disposto nos arts. 21-E, V, e 253, parágrafo único, I, do RISTJ; e 932, III, do CPC/2015.
+2. Nos termos do art. 14, caput, do CDC, o fornecedor de serviços responde objetivamente (ou seja, independentemente de culpa ou dolo) pela reparação dos danos suportados pelos consumidores decorrentes da má prestação do serviço. Além disso, o § 3º do referido dispositivo legal prevê hipótese de inversão do ônus da prova ope legis (a qual dispensa os requisitos do art. 6º, VIII, do CDC), assinalando que esse fornecedor só não será responsabilizado quando provar: i) que, tendo prestado o serviço, o defeito inexiste; e ii) a culpa exclusiva do consumidor ou de terceiro. Precedentes.
+3. A culpa exclusiva do consumidor ou de terceiro deve ser cabalmente comprovada pelo fornecedor de serviços, a fim de romper o nexo de causalidade e, consequentemente, ilidir a sua responsabilidade objetiva, o que não ocorreu na hipótese.
+4. A jurisprudência desta Corte admite a revaloração jurídica do conjunto fático-probatório dos autos, cuja descrição consta do acórdão recorrido, não acarretando o óbice da Súmula 7/STJ, quando, através de nova análise desses elementos probatórios e dessas circunstâncias fáticas, for possível chegar a solução jurídica diversa daquela posta nas instâncias ordinárias.
+5. Agravo interno desprovido.
+(grifo nosso)(AgInt no AREsp 1604779/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020)
+Assim, o provimento do recurso especial, com base na Súmula 568/STJ, é medida que se impõe para esclarecer que a responsabilidade da concessionária ré é objetivae quenão se comprovou nos autos a existência deculpa exclusiva do consumidor ou de terceiro para que se afastasse tal responsabilidade.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a sentença quanto à condenação por danos materiais, estabelecida na quantia de R$ 9.687,00 (nove mil, seiscentos e oitenta e sete reais), acrescida de juros de mora de 1% ao mês desde a data da citação.
+Quanto aos honorários de sucumbência, após restabelecer a sentença de origem, arbitro os honorários em 15% sobre o valor da condenação.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO CONHECIDO. RECURSO ESPECIAL. DANO MATERIAL. INDENIZAÇÃO. ACIDENTE DE TRÂNSITO. ATROPELAMENTO DE ANIMAL. EMPRESA CONCESSIONÁRIA DE SERVIÇO PÚBLICO. RESPONSABILIDADE OBJETIVA.
+RECURSO ESPECIAL PROVIDO.
