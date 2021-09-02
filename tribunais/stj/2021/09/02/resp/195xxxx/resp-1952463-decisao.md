@@ -1,0 +1,35 @@
+DECISÃO
+RAFAEL PINHEIRO DA COSTA interpõe recurso especial, fundado no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Pará na Apelação n. 0001908-98.2011.8.14.0048.
+Depreende-se dos autos que o réu foi condenado a 9 anos de reclusão, em regime fechado, mais 90 dias-multa, pela prática do crime previsto no art. 157, § 2º, I e II, do CP.
+O Tribunal de origem deu parcial provimento à apelação defensiva, a fim de reduzir a pena para 8 anos de reclusão, em regime semiaberto, mais 80 dias-multa.
+Nas razões do especial, alega a defesa que o acórdão recorrido violou o art. 59, ao argumento de que as vetoriais culpabilidade, circunstâncias e consequências do crime foram valoradas negativamente com base em fundamentação inidônea.
+Requer seja a pena-base reduzida ao mínimo legal.
+Apresentadas as contrarrazões e admitido o especial na origem, o Ministério Público Federal opinou pelo seu não conhecimento.
+Decido.
+O acórdão recorrido asseriu o seguinte:
+No que tange a culpabilidade, embora tenha sido justificada de maneira genérica, é merecedora de maior reprovação, pois desponta de forma intensa, eis que o apelante utilizou-se de uma faca para ameaçar a vítima e impedir qualquer reação dizendo que se não entregasse os pertences lhe mataria, causando temor acima do suficiente para a consumação do delito. E tendo em vista, que essa elementar não será utilizada para majorar a pena na terceira fase, não havendo que se falar em bis in idem. Dito isto, mantenho a negativação do presente vetor.
+ ..
+Quanto às circunstâncias do delito, são notadamente desfavoráveis, na medida em que o réu aproveitando-se do período noturno abordou a vítimas em via pública fator esse que certamente possibilitou maior tranquilidade para a consecução do delito.
+No concernente às consequências do crime, não verifico qualquer alteração a ser feita, uma vez que, a vítima não recuperou em sua totalidade os bens subtraídos.
+ ..
+Entretanto, não obstante as referidas alterações ainda remanescem três circunstâncias judiciais desfavoráveis ao réu: culpabilidade; circunstâncias do delito e as consequências do crime o que impede seja a reprimenda inicial fixada no patamar mínimo, de vez que, isso somente seria possível, caso todas as circunstâncias judiciais fossem reputadas favoráveis ao réu, entretanto, basta que uma delas não seja favorável para que a sanção não mais possa ficar no patamar mínimo, conforme entendimento esposado Súmula de nº 23 deste Egrégio Tribunal, razão pela qual, mantenho a pena base estabelecida na sentença, isto é, 07 (sete) anos de reclusão e 70 (setenta) dias -multa.
+(fls. 139-140, destaquei)
+Os arts. 5º, XLVI, da Constituição Federal, 59 e seguintes do CP e 387 do CPP estabelecem princípios e regras que regem a individualização e a quantificação da pena necessária para prevenir e reprimir o crime praticado. Dentro dessas balizas, o magistrado tem certa discricionariedade para avaliar as singularidades do caso concreto em relação à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, ao comportamento da vítima, aos motivos, bem como às circunstâncias e às consequências do delito.
+A intimidação necessária para configurar grave ameaça e, assim, viabilizar a tipificação da conduta como roubo pode ser feita até mesmo verbalmente por agente desarmado. Conforme o Tribunal de origem ressaltou, o réu foi além e, munido de faca, expôs a vítima a risco maior que a ameaça meramente verbal.
+Como se observa, não é o uso da faca que caracterizou o roubo, mas sim a ameaça, juntamente com a subtração. A arma branca representa um plus que, acertadamente, foi sopesado como circunstância judicial - culpabilidade-, em estrita obediência ao princípio da individualização da pena.
+A adoção desses parâmetros para o cálculo dosimétrico está em linha com o entendimento desta Corte Superior sobre o tema: "A utilização de faca não pode fundamentar a fixação da pena-base acima do mínimo legal quando configuradora da majorante prevista no inciso I do § 2º do art. 157 do Código Penal" (REsp n. 1.368.671/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 4/8/2014).
+Com efeito, o roubo executado com intimidação por meio de arma branca acrescenta maior periculosidade à ação do agente. Por conseguinte, essa circunstância pode ser utilizada para exasperar a pena-base se não houver sido levada em conta nas demais fases da dosimetria, como na hipótese dos autos. Exemplificativamente:
+ ..
+V - A Lei n. 13.654/18 retirou o emprego de arma branca como circunstância majorante do delito de roubo. Em havendo a superveniência de novatio legis in mellius, ou seja, sendo a nova lei mais benéfica, deve retroagir para beneficiar o réu, nos termos do art. 5º, XL, da CF e do art. 2º, parágrafo único, do CP.
+VI - O emprego de arma branca, embora não configure mais causa de aumento do crime de roubo, poderá ser utilizado para majoração da pena-base, quando as circunstâncias do caso concreto assim justificarem, o que não se verifica no caso em análise.
+ ..
+Habeas corpus não conhecido. Ordem concedida de ofício para redimensionar a pena do paciente para 3 (três) anos, 1 (um) mês e 10 (dez) dias de reclusão, em regime fechado, mais pagamento de 10 (dez) dias-multa, mantidos os demais termos da condenação.
+(HC n. 476.385/SP, Rel. Ministro Felix Fischer, 5ª T., DJe 14/12/2018, destaquei)
+Quanto às circunstâncias do crime, as instâncias ordinárias, a despeito de haverem mencionado elementos dotados de concretude (roubo em via pública à noite),não apontaram nenhum elemento dos autos que justifique a exasperação da pena-base.
+Com efeito, "O roubo cometido no período noturno, em circunstância que não extrapola o tipo penal, não enseja a majoração da pena-base acima do mínino legal" (AgRg no AREsp n. 809.702/DF, Rel. Ministro Jorge Mussi, 5ª T., DJe 24/6/2016).
+No que se refere às consequências do crime, a não devolução dos bens subtraídos (celular e R$38,00) não destoa do que comumente se observa nesse tipo de crime.
+Realmente,"o argumento de que "nem todos os bens foram recuperados", não justifica de forma válida a exasperação da pena-base, pois a subtração é elemento inerente do próprio crime de roubo (HC n. 286.286/MA, Rel. Ministro Rogerio Schietti, 6ª T., DJe 23/10/2014).
+Feitas essas considerações, passo à nova dosimetria.
+Mantida desfavorável apenas a culpabilidade, reduzo a exasperação a1/6 na primeira fase, de maneira a fixar a pena-base em 4 anos e 8 meses de reclusão mais 11dias-multa.Na segunda fase, mantenho a diminuição de 1 ano decorrente atenuante confissão, o que resulta reprimenda intermediária de 4 anos de reclusão mais 10 dias-multa, a teor da Súmula n. 231 do STJ. Na terceira etapa, preservo a elevação de 1/3 decorrente do concurso de agente, com o que torno a sanção definitiva em 5 anos e 4 meses de reclusão mais 13 dias-multa.
+Diante do exposto, dou parcial provimento ao recurso especial para decrescer a pena para 5 anos e 4 meses de reclusão mais 13 dias-multa, mantidos os demais termos do acórdão atacado.
+Publique-se e intimem-se.
