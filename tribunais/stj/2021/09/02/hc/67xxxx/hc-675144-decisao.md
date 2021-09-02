@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar,impetrado em benefício deVITOR VIOLATO DE LIMA, contra acórdão doTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP (HC n. 2125099- 14.2021.8.26.0000).
+Extrai-se dos autos que o paciente foi condenado em 31/5/2021 pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/06 (tráfico de drogas), à pena de 6 anos de reclusão, em regime inicial fechado, e 600 dias-multa (fls. 42-52).
+Irresignada, a Defesa impetrou o habeas corpus originário, não conhecido, em acórdão acostado às fls. 54/56.
+No presente writ, o impetrante alega que o habeas corpus impetrado perante o TJSP deveria ter sido conhecido, ainda que as questões nele deduzidas sejam passíveis de reanálise por meio de recurso de apelação. Entende que houve indevida negativa de prestação jurisdicional.
+Alega que o paciente foi preso com 32 porções de cocaína (21,42 gramas), sendo condenado a pena inferior a 8 anos de reclusão a ser enquadrada em regime inicial semiaberto, eis que o delito equiparado a hediondo, por si só, não justifica regime mais gravoso.
+Em seguida, sustenta ser cabível a aplicação da fração redutora do art. 33, § 4º, da Lei n. 11.343/06, dada a quantidade de droga apreendida e a inexistência de ações penais condenatórias com trânsito em julgado, sendo o paciente tecnicamente primário.
+Requer, liminarmente, seja determinado ao TJSP a apreciação do mérito do writ lá impetrado. No mérito, que seja concedida a ordem para se reduzir a pena em 2/3, com afixação de regime inicial aberto e a substituição da pena por restritiva de direitos.
+Indeferida a liminar (fls. 59-60 e 71-72). Prestadas as informações, oMinistério Público Federal opinoupela denegação da ordem(fls. 102-104).
+É o relatório. Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do ora paciente.
+Otema referente àspenas e ao regime fixadonão foramsubmetidos a debate na instância ordinária, sendo que este Tribunal Superior encontra-se impedido de pronunciar-se a respeito, sob pena de indevida supressão de instância. A propósito:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. COMANDAR ORGANIZAÇÃO CRIMINOSA ARMADA. PRISÃO PREVENTIVA. NEGADO O DIREITO DE RECORRER EM LIBERDADE NA SENTENÇA CONDENATÓRIA. FUNDAMENTAÇÃO CONCRETA. PERICULOSIDADE DO AGENTE. UM DOS LÍDERES DE ORGANIZAÇÃO CRIMINOSA ARMADA VOLTADA À PRÁTICA DE VÁRIOS DELITOS, EM ESPECIAL O TRÁFICO DE DROGAS. GARANTIA DA ORDEM PÚBLICA E DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. NECESSIDADE DE INTERROMPER A ATUAÇÃO DE INTEGRANTES DE ORGANIZAÇÃO CRIMINOSA. RÉU QUE PERMANECEU PRESO DURANTE A INSTRUÇÃO DO PROCESSO. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. EXCESSO DE PRAZO. MATÉRIA NÃO ANALISADA PELO TRIBUNAL DE ORIGEM.SUPRESSÃO DE INSTÂNCIA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+1. Diante da hipótese de habeas corpus substitutivo de recurso próprio, a impetração não deve ser conhecida, segundo orientação jurisprudencial do Supremo Tribunal Federal - STF e do próprio Superior Tribunal de Justiça - STJ. Contudo, considerando as alegações expostas na inicial, razoável a análise do feito para verificar a existência de eventual constrangimento ilegal.
+ ..
+6. Inadmissível a análise do alegado excesso prazal, tendo em vista que a referida irresignação não foi submetida ao exame do Tribunal a quo, por ocasião do julgamento do writ originário, não podendo este Tribunal Superior de Justiça enfrentar o tema, sob pena de incidir em indevida supressão de instância.
+7. Habeas corpus não conhecido.
+(HC 543.504/SC, por mim relatado, QUINTA TURMA, DJe 31/8/2020).
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da presente impetração.
+Publique-se. Intimem-se.
