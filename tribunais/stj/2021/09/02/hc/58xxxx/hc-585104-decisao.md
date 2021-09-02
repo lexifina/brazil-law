@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de NIVAIL MOREIRAem que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0005866-19.2014.8.26.0286).
+Em primeiro grau, o paciente foi condenado às penas de 6 anos de reclusão no regime fechado e de 600 dias-multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, III, da Lei n. 11.343/2006. O Tribunal de origem deu provimento ao recurso ministerial redimensionando a reprimenda para 7 anos de reclusão e 700 dias-multa. A pena-base foi fixada em 5 anos de reclusão e 500 dias multa, em razão da nocividade da droga apreendida (26 comprimidos de ecstasy). Na segunda fase, diante da reincidência específica, deu-se o agravamento na fração de 1/5, fixando a pena intermediária em 6 anos de reclusão e 600 dias multa. Na fase derradeira, foi majorada em 1/6,pelo delito praticado em ambiente destinado àdiversão, chegando à reprimenda final de 7 anos de reclusão e 700 dias-multa.
+A defesa aponta existência de constrangimento ilegal ao argumento de que o paciente é tecnicamente primário, pois a condenação foi extinta hámais de 5 anos e por isso não pode ser considerada como reincidência, motivo pelo qual faz jus ao reconhecimento do tráfico privilegiado.
+Requer, liminarmente e no mérito, a aplicação do redutor previsto no § 4º do art. 33 da Lei n. 11.343/2006, com a alteração do regime inicial de cumprimento de pena e a substituição da reprimenda corporal por penas restritivas de direitos.
+O pedido de liminar foi indeferido (fls. 544-545).
+As informações foram prestadas às fls. 551-553.
+O Ministério Público Federal opinou pelo não conhecimento do writ(fls. 619-625).
+É o relatório. Decido.
+No caso, a condenação sofrida pelo paciente é definitiva, pois, conforme informações prestadas pelo Tribunal de origem, foi certificado o trânsito em julgado da sentença condenatória, em 21/11/2018.
+Em consulta, verifica-se que não há, no STJ, julgamento de mérito passível de revisão criminal em relação a essa condenação.
+Assim, ocorrendo o trânsito em julgado de decisão condenatória nas instâncias de origem, não é dado à parte optar pela impetração de writ nesta instância superior, uma vez que a competência do STJ prevista no art. 105, I, e, da Constituição Federal restringe-se ao processamento e julgamento de revisões criminais de seus próprios julgados.
+A propósito, confiram-se os seguintes precedentes: AgRg no HC n. 628.964/RS, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 8/2/2021; AgRg no HC n. 521.849/SC, Sexta Turma, relatora Ministra Laurita Vaz, DJe de 19/8/2020; e AgRg no HC n. 632.467/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 18/12/2020.)
+Todavia, ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+As condenações pretéritas transitadas em julgado podem ser utilizadas para agravar a pena na segunda fase da dosimetria, a título de reincidência, desde que, entre a prática da nova conduta delituosa e cumprimento ou da extinção da pena (art. 64, I, do Código Penal), não tenha transcorrido o prazo de 5 anos.
+O prazo do período depurador deve ser contado a partir da extinção da punibilidade ou do cumprimento da pena, e não do trânsito em julgado da condenação (AgRg no HC n. 618.828/RJ, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 15/3/2021).
+Na hipótese dos autos, o paciente foi condenado na Ação Penal n. 0005866-19.2014.8.26.0286, relativa ao presente writ, por fatos praticados em 30/11/2013, e a condenação anterior, que fora considerada para fins de agravar a pena na segunda fase da dosimetria, transitou em julgado em 3/7/2009 e teve extinta a punibilidade em 20/8/2012, pelo cumprimento da pena que lhe fora imposta.
+Assim, entre a prática do novo delito e a extinção da punibilidade da condenação, que foi considerada a título de reincidência,não transcorreu o prazo de 5 anos.
+Destaque-se que a aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, com o consequente reconhecimento do tráfico privilegiado, exige que o agente seja primário, tenha bons antecedentes, não se dedique a atividades criminosas e não integre organização criminosa. Referidas condições devem ser cumpridas cumulativamente para fins de concessão do benefício.
+Constatada pelas instâncias ordinárias a existência de maus antecedentes e/ou reincidência fica afastada a possibilidade de reconhecimento do tráfico privilegiado.
+Vale ressaltar, a propósito, que não configura bis in idem, ainda quando consideradas, respectivamente, nas primeira e segundafases da dosimetria da pena, como circunstância judicial desfavorável e agravante, tendo em vista que o indeferimento do redutor decorre de estrita observância do não atendimento do requisito da primariedade prevista no § 4º do art. 33 da Lei n. 11.343/2006.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
