@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de ALBERTO ALVES MOTHE apontando como autoridade coatora o Tribunal de Justiça do Estado do Rio de Janeiro (relator Desembargador Antonio José Ferreira Carvalho).
+Consta dos autos que o paciente foi preso em flagrante, custódia essa convertida em preventiva, pela suposta prática das condutas descritas no art. 2º, § 2º, da Lei n. 12.850/2013, e nos arts. 304, c/c o art. 297 (por duas vezes); 158, § 1º, na forma do art. 14, II, e 121, § 2º, I, III, IV, na forma do artigo 14, II (por três vezes), todos do Código Penal, em concurso material.
+Impetrado prévio writ na origem, a ordem foi denegada em acórdão assim ementado (e-STJ fls. 9/10):
+HABEAS CORPUS - CRIMES PREVISTOS NOS ART. 2º . §2º DA LEI 12850/13 E NOS ARTIGOS 304 C/C 297 (2X). 158, §1º. N/F DO ART. 14. II E 121. §2º. I. III. IV. N/F DO ART. 14. II (3X). TODOS DO CÓDIGO PENAL. EM CONCURSO MATERIAL DENÚNCIA QUE IMPUTA AO PACIENTE E MAIS 04 (QUATRO) CORRÉUS. A PRÁTICA DE CRIMES DE EXTORSÃO, USO DE DOCUMENTO FALSO E TENTATIVA DE HOMICÍDIO EM DIVERSAS LOCALIDADES DA COMARCA DE CAMPOS DOS GOYTACAZES - PRETENSÃO À LIBERDADE. SOB OS ARGUMENTOS DE AUSÊNCIA DE FUNDAMENTOS NA DECRETAÇÃO DA PRISÃO CAUTELAR - PLEITO DE INVALIDAÇÃO DA INTERCEPTAÇÃO TELEFÔNICA A QUAL AVALIA COMO INIDÔNEA. JÁ QUE ORIGINADA POR DENÚNCIA ANÔNIMA. COM DESTRUIÇÃO DAS PROVAS POR ELA PRODUZIDAS IMPOSSIBILIDADE - DECISÃO PLENAMENTE FUNDAMENTADA A QUAL AFASTOU O SIGILO TELEFÔNICO, DE DADOS E TELEMÁT1CA - PRESENÇA DOS FUNDAMENTOS NECESSÁRIOS PARA A DECRETAÇÃO DA CUSTÓDIA CAUTELAR - EVIDÊNCIAS CONCRETAS DE AÇÃO DELITIVA COMETIDA PELO PACIENTE INDEPENDENTES DAQUELAS COLIGIDAS PELA INTERCEPTAÇÃO TELEFÔNICA CONTESTADA. A QUAL APENAS ROBUSTECEU O ACERVO PROBATÓRIO JÁ EXISTENTE EM SEDE POLICIAL CONSTRANGIMENTO ILEGAL INEXISTENTE - DENEGAÇÃO DA ORDEM
+Daí o presente writ, no qual sustenta a defesa que as provas que embasaram a prisão preventiva são ilícitas, pois "são originadas de interceptação telefônica determinada após recebimento de "denúncia anônima" por parte dos policiais. Decretou-se interceptação telefônica fundamentada unicamente em "denúncia anônima"" (e-STJ fl. 1).
+Aduz que o paciente sofre constrangimento ilegal decorrente do excesso de prazo da segregação, sob o argumento de que "desde o dia 14 de outubro de 2016, o Paciente se encontra sem sequer ter sido designada audiência de instrução e julgamento" (e-STJ fl. 4).
+Diante dessas considerações, pede "o relaxamento da prisão preventiva de ALBERTO ALVES MOTHÉ. Ademais, embora antes do tempo, pugna também pela decretação da invalidade de toda interceptação telefônica resultante do número (21) 99656-2700 e as provas derivadas desta, por economia processual" (e-STJ fl. 7).
+O pleito liminar foi indeferido (e-STJ fls. 645/648).
+Informações prestadas (e-STJ fls. 653/658 e 661/668).
+O Ministério Público Federal manifestou-se pelo não conhecimento do recurso (e-STJ fls. 670/674).
+É, em síntese, o relatório.
+Preliminarmente, verifica-se que a questão relativa ao excesso de prazo na formação da culpa não foi tratada pela instância a quo, o que configura supressão de instância, impedindo o conhecimento do writ nesse ponto.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.
+(RHC 68.025/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/5/2016, DJe 25/5/2016.)
+De outro lado, informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência, em 16/8/2018, de decisão de pronúncia em desfavor do ora paciente.
+Assim, fica sem objeto este writ à vista da superveniência de novo título a embasar a custódia, não submetido a pronunciamento do Tribunal de origem.
+A propósito:
+AGRAVO REGIMENTAL. RECURSO EM HABEAS CORPUS JULGADO PREJUDICADO. HOMICÍDIO TENTADO. REVOGAÇÃO DA PRISÃO PREVENTIVA. SUPERVENIÊNCIA DE SENTENÇA DE PRONÚNCIA. MANUTENÇÃO DA SEGREGAÇÃO CAUTELAR. NOVO TÍTULO. PERDA DO OBJETO. INEXISTÊNCIA DE PRONUNCIAMENTO DA CORTE ESTADUAL SOBRE A QUESTÃO.
+1. Segundo a jurisprudência do Superior Tribunal de Justiça, a superveniente prolação de sentença de pronúncia prejudica o exame da tese vertida no recurso em habeas corpus, acerca de eventual ausência de fundamentação idônea para a mantença da segregação cautelar, visto que um novo título justifica a restrição à liberdade. Precedentes.
+2. Inexistente pronunciamento do Tribunal de origem sobre a conservação da prisão provisória na sentença de pronúncia, inviável a apreciação do tema por esta Corte, sob pena de supressão de instância.
+3. Agravo regimental improvido. (AgRg no RHC 50.857/SP, relator Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 15/3/2016, DJe 29/3/2016.)
+De mais a mais, não observo ser a hipótese de flagrante constrangimento ilegal infligido ao paciente, porquanto a prisão cautelar está devidamente motivada, conforme destacado no decreto prisional (e-STJ fl. 664):
+ ..  Aliada à gravidade do delito, justifica a decretação da prisão, o fato de serem integrantes de uma organização criminosa, inclusive, com tentáculos na Segurança Pública, vez que possui, em tese, dois integrantes que são Policiais Militares, o que traz grande repercussão social, onde se extrai acautelamento da ordem pública. Por fim, vale ressaltar que as condutas dos denunciados revelam que o grupo era estrategicamente voltado para a falsificação de sinais, falsificação de assinaturas de autoridades judiciais e policiais, falsificação de documentos e EXTORSÕES VULTOSAS.
+Ante o exposto, conheço parcialmente do presente habeas corpus e, na parte conhecida, denego a ordem.
+Publique-se. Intimem-se.
