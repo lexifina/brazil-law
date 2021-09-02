@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto por CRISTIAN IGOR BITTENCOURT contra decisão que inadmitiu recurso especial fundamentado no art. 105, inciso III, alínea a, da Constituição da República, dirigido contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1529612-42.2018.8.26.0562.
+Consta nos autos que o Agravante foi condenado como incursono art.157, § 2.º-A, inciso I, do Código Penal, às penas de7 (sete)anos, 9 (nove)meses e 10 (dez)dias de reclusão, em regime inicial fechado, e 18(dezoito) dias-multa (fls. 296-306).
+Irresignada, a Defesa recorreu ao Tribunal de origem, que deu parcial provimento à apelação defensiva para afastar a valoração negativa das circunstâncias judiciais e, por consequência, reduzir a pena imposta ao patamar de 6 (seis) anos e 8 (oito) meses de reclusão, em regime inicial fechado, e 16(dezesseis) dias-multa (fls. 371-376).
+No recurso especial aponta-se ofensa aoart. 33, §§ 2.º e 3.º, c.c. o art. 59, ambos do Código Penal, sob o argumento de que a pena-base do Recorrente foi fixada nomínimo legal, o que possibilita a fixação do regime inicial semiaberto, nos termos da Súmula n. 440/STJ.
+O recurso especial não foi admitido pelo Tribunal de origem em razão dos óbices das Súmulas n. 7/STJ e 284/STF (fls. 414-415).
+Interposto o agravo em recurso especial (fls. 421-428), a parte contrária apresentou contrarrazões (fls. 431-434).
+O Ministério Público Federal opinou pelo não conhecimento do agravo em recurso especial(fls. 449-451).
+É o relatório. Decido.
+O agravo é tempestivo e reúne as condições de admissibilidade, motivo pelo qual passo à análise do recurso especial.
+A Corte de origem manteve a imposição do regime inicialfechado ao Recorrentecom amparo nas seguintes razões de decidir (fl. 375; sem grifos no original):
+"Fica preservado o regime fechado, pois o réu agiu com emprego de arma de fogo, municiada, chegando a efetuar disparo no local, demonstrando-se, inequivocamente, ousado e perigoso."
+Como se sabe, afixação de regime mais gravoso deve ser feita com base em fundamentação concreta, a partir das circunstâncias judiciais dispostas no art. 59 do Código Penal ou de outro elemento que demonstre a extrapolação da normalidade do tipo.
+Nesse sentido, são os enunciados das Súmulas n.440 do STJ, e 718 e 719, ambas do STF, que assim dispõem, respectivamente:
+"Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito."
+"A opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada."
+"A imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea."
+No caso, a Corte estadual demonstrou concretamente a maior gravidade do crime, pois destacou que o Recorrente não apenas empregou a arma de fogo na prática do delito, mas efetivamente disparou o referido armamento dentro doestabelecimento comercial vítima, colocando em risco os funcionários e frequentadores do local.Desse modo, verificando-se a real gravidade do delito, não se constata ilegalidade na imposição do regime inicial mais gravoso.
+Sobre o tema, confira-se:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. ROUBO MAJORADO. REGIME PRISIONAL FECHADO. FUNDAMENTAÇÃO CONCRETA. MAIOR REPROVABILIDADE NA CONDUTA. DISPARO DE ARMA DE FOGO EM DIREÇÃO À RESIDÊNCIA DAS VÍTIMAS. AUSÊNCIA DE ILEGALIDADE. WRIT NÃO CONHECIDO.
+ ..
+3. Na hipótese, o exame dos autos revela que, embora fixada a pena-base no mínimo legal, uma vez que consideradas favoráveis as circunstâncias judiciais do art. 59 do Código Penal, as instâncias ordinárias destacaram a maior reprovabilidade na conduta do paciente para justificar o regime prisional mais gravoso.Consignou-se na origem que o crime foi praticado mediante grave ameaça, em concurso de pessoas, com utilização de arma de fogo, tendo sido o paciente que teve a iniciativa do assalto, obteve a arma, além de ter efetuado disparo de arma de fogo em direção à residência das vítimas, o que, de fato, demonstra uma maior reprovabilidade na conduta do paciente, justificando o regime prisional mais gravoso, exatamente nos termos do que dispõe o art.33, §§ 2º e 3º do Código Penal. Inaplicável, portanto, os enunciados das Súmulas n. 440/STJ e n. 718/STF.
+4. Habeas corpus não conhecido."(HC 429.498/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 06/03/2018, DJe 16/03/2018, sem grifos no original).
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO.POSSE IRREGULAR DE ARMA DE FOGO E DISPARO DE ARMA DE FOGO.SUBSTITUIÇÃO DA PENA. INDEVIDA SUPRESSÃO DE INSTÂNCIA. REGIME PRISIONAL. GRAVIDADE CONCRETA. MODUS OPERANDI. REGIME FECHADO. WRIT NÃO CONHECIDO.
+4. Nada obstante o fato de a pena-base ter sido imposta no piso legal, o estabelecimento do regime mais severo do que o indicado pelo quantum da reprimenda baseou-se na gravidade concreta do delito, evidenciada pelo seu modus operandi, consistente na efetuação de disparos contra a guarnição da Polícia Militar do Estado de Santa Catarina. Tal conduta exige indubitavelmente resposta estatal superior, dada sua maior reprovabilidade, em atendimento ao princípio da individualização da pena.
+5. A aplicação de pena no patamar mínimo previsto no preceito secundário na primeira fase da dosimetria não conduz, obrigatoriamente, à fixação do regime indicado pela quantidade de sanção corporal, sendo lícito ao julgador impor regime mais rigoroso do que o indicado pela regra geral do art. 33, §§ 2º e 3º, do CP, desde que mediante fundamentação idônea.
+6. Habeas corpus não conhecido."(HC 480.364/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 19/03/2019, DJe 25/03/2019, sem grifos no original).
+Ante o exposto, CONHEÇO do agravo para NEGAR PROVIMENTO ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PENAL. ROUBO MAJORADO. REGIME INICIAL FECHADO. FUNDAMENTAÇÃO CONCRETA. EFETIVO DISPARO DE ARMA DE FOGO. AUSÊNCIA DE ILEGALIDADE. AGRAVO CONHECIDO PARA NEGAR PROVIMENTO AO RECURSO ESPECIAL.
