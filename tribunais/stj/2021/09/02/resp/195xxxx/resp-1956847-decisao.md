@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de recurso especial interposto por DESIRE JEAN DE AGUIAR e MASSA FALIDA DE CALÇADOSCATLEIA LTDA., com fundamento no art. 105, III, a e c, da Constituição Federal, objetivando a reforma de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+APELAÇÃO CÍVEL. EXECUÇÃO FISCAL. EMBARGOS. PRESCRIÇÃO. NÃO OCORRÊNCIA. PROCESSO QUE NÃO FOI SUSPENSO POR UM ANO TAMPOUCO ARQUIVADO ADMINISTRATIVAMENTE POR CINCO ANOS (STJ, SOM. 314). CITAÇÃO POR EDITAL. VALIDADE, PORQUANTO SÓ REALIZADA APÓS VÁRIAS DILIGÊNCIAS, INCLUSIVE PRECATÓRIA. APELAÇÃO DESPROVIDA.
+Nas razões do recurso especial, a parte recorrente acusou, além de dissídio, a ofensa aos arts. 156 e 174 do CTN, bem como 8º da Lei n. 6.830/1980. Sustentou que o Tribunal de origem deveria ter decretado a prescrição para o redirecionamento em relação à sócia, ora recorrente, ante o decurso de 8 anos para a citação desta.
+Foram apresentadas contrarrazões para que seja mantido o acórdão recorrido.
+É o relatório. Decido.
+O recurso especial não comporta seguimento.
+A parte recorrente sustentou que, no caso, "foi determinada a citação por edital, em nome de DESIRE, em 02/03/04 (fl. 98). Entretanto, equivocadamente, foi realizada a citação da massa falida (fls. 99 e 101). A citação por edital da sócia DESIRE só foi realizada em 13/02/2008 (fls. 220/223). Posteriormente, sobreveio a decretação da indisponibilidade de seus bens (fl. 247)." (fl. 91)
+Lado outro, o Tribunal de origem fundamentou o acórdão recorrido em análise fática, entendendo pelo cabimento da citação por edital e não ocorrência de prescrição, pois não decorreu "mais de cinco anos entre a constituição do crédito tributário e o ajuizamento da execução, entre este e a citação da Massa Falida e, ainda, entre o pedido de redirecionamento e a citação por edital da sócia, ocorrido em 30 de junho de 2004" (fl. 81).
+Confira-se trecho do acórdão recorrido:
+Também não há se falar em nulidade da citação por edital da executada Desire Jean de Aguiar, pois, apesar das diversas diligencias, visando sua localização pessoal, não foi obtido o nome do logradouro onde poderia ser citada por carta ou mandado.
+Quanto à citação editalícia da Massa Falida Calçados Catléia Ltda. (fl. 99), o ato era desnecessário, pois já havia sido citada pessoalmente (fl. 08 verso).
+De outro norte, em relação à prescrição, verifico que o crédito tributário foi devidamente constituído e dispõe o ente público do prazo de 05 anos para a respectiva cobrança, conforme os termos do disposto no art. 174 do CTN.
+Na hipótese dos autos, trata-se de ICMS, imposto informado em atraso, com auto de lançamento datado de 28/10/1998 (fl. 03) e ajuizamento da ação em 11/4/2000 (fl. 02), sendo a empresa executada citada em 02 de junho de 2000 (certidão de fl. 08 verso).
+Todavia, assim que tomou conhecimento de que se tratava de empresa falida, o Procurador do Estado em 30 de outubro de 2000 (fls. 12/22) postulou o redirecionamento da execução contra a sócia Desire Jean de Aguiar, pedido este que foi deferido em 16 de fevereiro de 2001 (fl. 52).
+Após tentativa de localização da executada Desire Jean, o exequente postulou a citação por edital, o que restou deferido em 2 de março de 2004 (fls. 97/99).
+É verdade que no decorrer do processo houve pedidos totalmente equivocados do exequente visando nova citação da executada Desire Jean, que, como dito antes, já havia sido efetivada.
+Depois disto, diligências foram realizadas para a localização de bens passíveis de constrição judicial.
+Desse modo, não tendo decorrido mais de cinco anos entre a constituição do crédito tributário e o ajuizamento da execução, entre este e a citação da Massa Falida e, ainda, entre o pedido de redirecionamento e a citação por edital da sócia, ocorrido em 30 de junho de 2004 (fl. 101), não há falar em prescrição. Acrescento, também que o processo não ficou paralisado por mais um lustro por desídia do credor.
+ ..  (fls. 80-81).
+Ademais, não encontra respaldo no contexto dos fatos trazido no acórdão recorrido a alegação da parte recorrente de que "a citação por edital da sócia DESIRE só foi realizada em 13/02/2008". (fl. 91).
+Conforme o Tribunal de origem não havia, de qualquer sorte, necessidade de "nova citação da executada Desire Jean, que, como dito antes, já havia sido efetivada." (fl. 81).
+A pretensão recursal exigiria, portanto, o revolvimento do conjunto dos fatos objeto dos autos em que se sustentou o acórdão recorrido. Incide, pois, o Enunciado Sumular n. 7/STJ.
+No que tange ao dissídio jurisprudencial, a necessidade do reexame da matéria fática impede a admissão do recurso especial tanto pela alínea a quanto pela alínea c do permissivo constitucional. Nesse sentido: AgInt no AREsp 1645528/SP, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 29/4/2021; AgInt no AREsp 1696430/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 29/4/2021; AgInt no REsp 1846451/RO, Rel. Ministro Raul Araújo, Quarta Turma, DJe 29/4/2021; AgInt no AREsp 1587157/RJ, Rel. Ministro Moura Ribeiro, Terceira Turma, DJe 4/6/2020.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se. Intimem-se.
