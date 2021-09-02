@@ -1,0 +1,30 @@
+DECISÃO
+FELIPE MARCOLINO DOS SANTOS e ROBERTH LINCON BARROSO DE OLIVEIRA interpõem recurso especial, com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo.
+A defesa aponta violação dos arts. 33, §§ 2º e3º, e 59 do Código Penal. Argumenta que o regime prisional mais gravoso foi fixado com base na gravidade abstrata da conduta.
+Requer o provimento do recurso, a fim de que seja redimensionada a pena aplicada aos recorrentes e fixado o regime inicial semiaberto.
+Apresentadas as contrarrazões e admitido o especial, o Ministério Público Federal manifestou-se pelo seu não provimento.
+Decido.
+Primeiramente, observo que o recurso especial suplanta o juízo de prelibação, haja vista a ocorrência do necessário prequestionamento, além de estarem presentes os demais pressupostos de admissibilidade, razões pelas quais avanço na análise de mérito da controvérsia.
+I. Contextualização
+Extrai-se dos autos que o réu foi condenado a 9 anos e 2 meses de reclusão e 22 dias-multa, em regime fechado, pela prática do delito tipificado no art. 157, §§ 2º, II e IV, e 2º-A, I,do Código Penal.
+O Tribunal estadual deu parcial provimento ao apelo defensivo a fim de desclassificar a conduta para o art. 157,§ 2º, I, II e IV, do Código Penale reduziu a pena para 6 anos de reclusão mais 15 dias-multa. Manteve, contudo, o regime fechado.
+II. Pedido de redimensionamento da pena
+De início, cabe destacar que a alegação de violação do art. 59 do Código Penal, feita nas razões do recurso especial, busca demonstrar a indevida imposição do regime prisional fechado. Em nenhum momento se alegou que a pena-base foi fixada de forma indevida, até porque foi imposta no mínimo legal.
+Desse modo, embora a defesa peça o redimensionamento da pena, não apresentou nenhum argumento que justifique o referido pleito,situação que impede a admissão do recurso quanto a esse tópico, por aplicação da Súmula n. 284 do STF.
+III. Regime prisional
+Após a redução da pena dos réuspara 6 anos de reclusão, o Tribunal fixou o regime prisional nos seguintes termos (fls. 387-388, grifei):
+Em seguida, impõe-se o regime inicial mais severo, pois qualquer regime prisional mais brando mostrar-se-ia insuficiente para a reprovação e a prevenção do grave crime praticado.
+As circunstâncias da empreitada criminosa também devem ser perquiridas para aferição do grau de periculosidade do agente, a fim de que se decida pelo regime prisional adequado.
+No caso em apreço, resta autorizada a fixação do regime prisional mais drástico para a hipótese vertente, uma das mais perniciosas e inquietantes expressões da atual criminalidade.
+Lembra-se aqui de v. aresto do saudoso Tribunal de Alçada Criminal, da lavra do ilustre Desembargador RICARDO DIPP (Apelação Criminal nº 1.097.053/8) acerca de crimes contra o patrimônio: "a prática de delitos patrimoniais é forte motivo para prognóstico desfavorável (MEYWERK: "Os delitos contra a propriedade apresentam a tendência mais tenaz à reincidência"). A criminalidade precoce contra o patrimônio é fator desfavorável para a prognose (SILBEREISEN)".
+Nesse contexto, não se pode olvidar, ainda, que, segundo as máximas da experiência, as consequências psicológicas do delito contra o patrimônio com violência ou grave ameaça são nefastas, traumatizando as vítimas, seus conhecidos e familiares, marcando a todos com as consequências deste mal, uma mácula irreversível.
+Portanto, respeitadas as vozes dissonantes e nos termos das Súmulas 718 e 719, ambas do Supremo Tribunal Federal, tratando-se de roubo com emprego de arma de fogo, concurso de agentes e restrição à liberdade das vítimas, o único regime prisional condizente e razoável, em observância às peculiaridades do caso, é o inicial fechado.
+Cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, ao quantum de reprimenda imposto.
+Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva, que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena. Nesse sentido: HC 596.157/AC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/02/2021, DJe 08/02/2021, AgRg no AREsp 1608617/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020 e AgRg no RHC 107.602/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019.
+Assim, consoante os dispositivos legais acima referenciados, as mesmas circunstâncias judiciais aferidas pelo magistrado para fixação da pena-base na primeira fase da dosimetria deverão ser sopesadas na imposição do regime inicial de cumprimento de pena, ou ainda, cabe ao órgão julgador apresentar elementos concretos dos autos que exijam a imposição de um regime mais rigoroso que o previsto para a quantidade de pena aplicada.
+Os trechos ressaltados acima demonstram, contudo, que a instânciaantecedentefixou o regime prisional mais rigoroso com base na gravidade abstrata do delito de roubo majorado,em ofensa aos enunciados das Súmulas n. 440 do STJ, 718 e 719 do STF, como alegado pela defesa.
+Embora a Corte estadual consigne que "As circunstâncias da empreitada criminosa também devem ser perquiridas para aferição do grau de periculosidade do agente, a fim de que se decida pelo regime prisional adequado" (fl. 387), elanão especificou, quando da definição do regime, nenhum fato que demonstre que o modus operandi do crime em comento extrapole o comum da espécie.
+Desse modo, ao se considerar a quantidade de pena imposta aos réus, 6 anos de reclusão, que todas as circunstâncias judiciais foram valoradas positivamente e a primariedade de ambos, impõe-se a fixação do regime inicial semiaberto.
+IV. Dispositivo
+À vista do exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 34, XVIII, "c", parte final, do RISTJ, dou provimento ao recurso especial para fixar o regime prisional semiaberto aos recorrentes.
+Publique-se e intimem-se.
