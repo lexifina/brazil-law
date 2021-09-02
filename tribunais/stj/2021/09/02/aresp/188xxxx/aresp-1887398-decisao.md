@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por LUIZ ANTONIO CARNEIRO DE LIMA NETO, contra decisão que não admitiu recurso especial (fls. 379/380, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 310, e-STJ):
+HONORÁRIOS ADVOCATÍCIOS - Embargos de terceiro - Demanda julgada procedente para afastar a penhora no rosto dos autos e condenar o embargante nos ônus da sucumbência Cessão de crédito por instrumento particular não registrado em cartório Ausência de adequada publicidade do ato negocial que impossibilitou a correta ciência pelo embargado - Sucumbência devida pelo recorrente ante o princípio da causalidade (Súmula 303 do STJ) Sentença mantida Recurso desprovido, majorado os honorários sucumbenciais para 15% do valor da causa.
+Em suas razões de recurso especial, o recorrente aponta ofensa aoartigo1022, II, do CPC/15.
+Sustenta, em síntese, a ocorrência de negativa de prestação jurisdicional, pois o TJSP não teria enfrentadomatériaessencial ao correto deslinde do presente feito.
+Sem contrarrazões.
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, sob o fundamento de ausência de violação ao artigo 1022 do CPC/15.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Sem contraminuta.
+É o relatório.
+Decido.
+O inconformismo não merece prosperar.
+1. Com efeito, cumpre consignar que se mostra inviável conhecer da suposta violação ao art. 1022 do CPC/15.
+É que, mediante o atento exame dos autos, observa-se que oinsurgente não opôs embargos de declaração em face do acórdão proferido em sede de apelação (fls. 309/313), não se mostrando compreensível a alegação de ofensa ao art. 1022 do CPC/15, dispositivo legal que trata justamente do cabimento do reclamo aclaratório.
+Como cediço, nos termos do Enunciado n. 284 da Súmula do Supremo Tribunal Federal, aplicável, por analogia, ao recurso especial, "é inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, confiram-se os seguintes julgados:
+PROCESSUAL CIVIL E TRIBUTÁRIO. VIOLAÇÃO DO ART. 1.022, II, DO CPC/2015. DEFICIÊNCIA DA FUNDAMENTAÇÃO. SÚMULA 284/STF. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. RAZÕES RECURSAIS DISSOCIADAS. 1. Não se configura a alegada ofensa ao art. 1.022, II, do CPC/2015 uma vez que a parte recorrente, ao contrário do que afirma, não opôs Embargos de Declaração em face do acórdão recorrido. Incidência da Súmula 284/STF. (..) 6. Recurso Especial não conhecido. (REsp 1728189/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 03/05/2018, DJe 19/11/2018)
+ADMINISTRATIVO E PROCESSO CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO FISCAL. IMPUGNAÇÃO AO VALOR DA CAUSA. OFENSA AO ARTIGO 535 DO CPC/73. FUNDAMENTAÇÃO DEFICIENTE. EMBARGOS DE DECLARAÇÃO NÃO OPOSTOS CONTRA O ACÓRDÃO LOCAL. INCIDÊNCIA DA SÚMULA 284/STF. VALOR DA CAUSA. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. 1. A recorrente não opôs os competentes embargos declaratórios perante o Tribunal de origem. Logo, revela-se deficiente a fundamentação do recurso que indica violação ao art. 535 do CPC/73, o que atrai a incidência da Súmula 284/STF. (..) 4. Agravo interno a que se nega provimento. (AgInt no REsp 1367247/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 27/09/2016, DJe 06/10/2016)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. VIOLAÇÃO AO ARTIGO 535 DO CPC. INEXISTÊNCIA. FALTA DE OPOSIÇÃO DOS EMBARGOS DE DECLARAÇÃO. FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA DA SÚMULA 284/STF. ALEGAÇÃO DE AFRONTA AOS ARTIGOS 165 E 458 DO CPC. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. RECURSO MANIFESTAMENTE INFUNDADO. APLICAÇÃO DE MULTA. ART. 557, § 2º, CPC.1. À míngua de oposição de embargos de declaração em face do acórdão impugnado na via especial, não há que se falar em violação ao artigo 535 do CPC. Assim, por articular fundamentos completamente dissociados do que foi decidido na instância ordinária, aplica-se a Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".(..)3. Agravo regimental não provido, com aplicação de multa.(AgRg no AREsp 99038/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/09/2012, DJe 26/09/2012)
+2. Do exposto, com amparo no artigo 932 do CPC/15 c/c a Súmula 568/STJ, nego provimento ao recurso.
+Publique-se.
+Intimem-se.
