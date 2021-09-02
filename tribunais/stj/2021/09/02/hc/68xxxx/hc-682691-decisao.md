@@ -1,0 +1,29 @@
+DECISÃO
+GABRIEL RODRIGO DO NASCIMENTOalega sofrer coação ilegal no seu direito de locomoção em decorrência de acórdão do Tribunal de Justiça do Estado de São Paulona Apelação n. 1501944-70.2020.8.26.0548.
+Nesta impetração, a defesa pretende o abrandamento do regime. Para tanto, aduz que, em razão da quantidade de pena aplicada e da primariedade do réu, cabe a fixação do regime prisional semiaberto.
+Destaca que a imposição do regime mais gravoso está motivada na gravidade abstrata do delito de roubo majorado,o que contraria o entendimento das Súmulas n. 440 desta Corte Superior e 718 e 719 do STF.
+Indeferida a liminar e prestadas as informações, o Ministério Público Federal manifestou-se pela concessão da ordem.
+Decido.
+Extrai-se dos autos que o réu foi condenado a 6 anos e 8 meses de reclusão e 16 dias-multa, em regime inicial fechado, pela prática do delito tipificado no art. 157, §§ 2º, II e 2º-A, I,do Código Penal.
+O Tribunal estadual negou provimento ao apelo defensivo e manteve incólume a sentença condenatória.
+I.Regime prisional
+No tocante à almejada modificação do regime inicial, manifestou-se o Tribunal a quo (fls. 19, destaquei):
+Por fim, o i. Magistrado fixou o regime inicial fechado o que, considerando as finalidades preventiva e retributiva que alimentam a sanção penal, se mostra adequando. De fato, a fixação de regime prisional fechado para cumprimento da pena justifica-se não apenas pela gravidade abstrata do delito de roubo majorado, mas pela gravidade da conduta aferida in concreto, evidenciada pelas especificidades do fato, que envolveu três agentes que se valeram de uma arma de fogo para ameaçar a vítima.
+Cumpre enfatizar que esta Corte tem decidido que o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, à quantidade de reprimenda imposta.
+Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva, que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena. Nesse sentido: HC 596.157/AC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 02/02/2021, DJe 08/02/2021;AgRg no AREsp 1608617/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 16/06/2020, DJe 23/06/2020 e AgRg no RHC 107.602/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 04/06/2019, DJe 11/06/2019.
+No caso dos autos, embora o recorrente seja primário e as circunstâncias judiciais hajam sido consideradas neutras, observo que o Tribunal local apresentou justificativa concreta para a imposição do regime mais rigoroso: a quantidade de três agentes, que supera o número mínimo para a caracterização do concurso de pessoas, que certamente causa maior intimidação àvítima.
+Nesse mesmo sentido:
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. DESCABIMENTO. ROUBO DUPLAMENTE CIRCUNSTANCIADO. 1) UTILIZAÇÃO DE ARMA DE FOGO. AUSÊNCIA DE APREENSÃO E PERÍCIA. COMPROVAÇÃO POR OUTROS MEIOS DE PROVA.
+POSSIBILIDADE. 2) DOSIMETRIA. AUMENTO DA PENA EM 3/8 NA TERCEIRA FASE. UTILIZAÇÃO DE ARMA DE FOGO E ELEVADO NÚMERO DE AGENTES QUE PARTICIPARAM DA EMPREITADA CRIMINOSA (QUATRO). FUNDAMENTAÇÃO CONCRETA. NÃO INCIDÊNCIA DA SÚMULA N. 443 DO SUPERIOR TRIBUNAL JUSTIÇA - STJ. 3) PENA-BASE FIXADA NO MÍNIMO LEGAL. REGIME INICIAL FECHADO. GRAVIDADE CONCRETA DO DELITO. FUNDAMENTAÇÃO IDÔNEA. MAIOR OUSADIA E PERICULOSIDADE EVIDENCIADA NA QUANTIDADE DE AGENTES ROUBADORES. AUSÊNCIA DE FLAGRANTE CONSTRANGIMENTO ILEGAL. HABEAS CORPUS NÃO CONHECIDO.
+- O STJ, seguindo entendimento firmado pelo Supremo Tribunal Federal - STF, passou a não admitir o conhecimento de habeas corpus substitutivo de recurso previsto para a espécie. No entanto, deve-se analisar o pedido formulado na inicial, tendo em vista a possibilidade de se conceder a ordem de ofício, em razão da existência de eventual coação ilegal.
+- A jurisprudência desta Corte se firmou no sentido de que a incidência da majorante pela utilização de arma prescinde da apreensão e perícia no objeto, uma vez comprovada sua utilização por outros meios de prova, como o testemunho da vítima, como ocorreu no caso dos autos.
+- Nos termos do disposto no Enunciado n. 443 da Súmula desta Corte, "o aumento na terceira fase de aplicação da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente para a sua exasperação a mera indicação do número de majorantes".Ressalva do entendimento deste Relator.
+- Todavia, na hipótese, o aumento da pena na fração de 3/8 foi devidamente justificado nas circunstâncias do roubo, ou seja, no emprego de arma de fogo e no elevado número de agentes que participaram da empreitada criminosa, o que demonstra sua maior ousadia e periculosidade, não incidindo, portanto, a Súmula n.443/STJ.
+- É certo que a Jurisprudência desta Corte Superior tem entendido que, fixada a pena-base no mínimo legal, a simples gravidade abstrata do crime de roubo não constitui motivação idônea para justificar a imposição do regime prisional fechado, sendo necessária a fundamentação concreta para justificar o regime prisional mais gravoso. Súmulas n. 440/STJ, n. 718/STF e n. 719/STF.
+- Embora a pena-base tenha sido estabelecida no mínimo legal, o regime inicial fechado foi fixado de forma concreta, sob o fundamento da existência de maior censurabilidade na conduta do réu, que praticou o delito em comparsaria com outros três agentes, o que demonstra maior ousadia e periculosidade.
+- Habeas corpus não conhecido.
+(HC 317.148/SP, Rel. Ministro ERICSON MARANHO (DESEMBARGADOR CONVOCADO DO TJ/SP), SEXTA TURMA, julgado em 16/04/2015, DJe 29/04/2015)
+Assim, não verifico ilegalidade no acórdão recorrido, de modo que mantenho o regime inicial fixado nas instâncias ordinárias.
+II. Dispositivo
+Ante o exposto, denego a ordem de habeas corpus.
+Publique-se e intimem-se.
