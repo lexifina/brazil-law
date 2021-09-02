@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial fundado no CPC/73, manejado por Império dos Parafusos S/A, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Geraisassim ementado (fl. 258):
+EMENTA: AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - PEDIDO DE ATUALIZAÇÃO DA AVALIAÇÃO DE BEM A SER ADJUDICADO - POSSIBILIDADE, CONSIDERANDO O LAPSO TEMPORAL EM RELAÇÃO Ã PRIMEIRA AVALIAÇÃO RECURSO PARCIALMENTE PROVIDO.
+Os embargos declaratórios opostos foram acolhidos nestes termos (fls. 271/274):
+EMENTA: EMBARGOS DE DECLARAÇÃO - OMISSÃO CARACTERIZADA -
+ACLARAMENTO - EXECUÇÃO FISCAL - PENHORA ANTERIOR AO DECRETO
+FALIMENTAR - VALIDADE. Acolhem-se os embargos de declaração quando
+caracterizada omissão quanto à apreciação do decreto de quebra da empresa
+executada.
+Opostos sucessivos embargos de declaração (fls. 280/281 e 289/291), foram rejeitados (fls. 284/286 e 294/296).
+A parte recorrente aponta violação aos arts. 535 do CPC/73; 108 e 83 da Lei 11.101/05 e 186, II, do CTN.Sustenta, em resumo, que: (I) a despeito dos embargos de declaração, o Tribunala quoremanesceu omisso acerca das questões neles suscitadas;(II) ""ante à preferência dos créditos trabalhistas face oscréditos tributários, o produto da arrematação realizada na execução fiscal deve ser colocado à disposição do juízo falimentar para garantir a quitação dos créditos trabalhistas. Trata-se de interpretação sistemática dos arts. 29 da Lei n. 6.830/80 e 186 e 187, estes do Código Tributário Nacional", sendo IMPOSSÍVEL a adjudicação do bem penhorado, conforme se verifica no recentíssimo acórdão proferido por este Colendo Superior Tribunal de Justiça" (fl. 307) e (III) "é legítimo o interesse do Estado de Minas Geraisem buscar receber os valores que lhe são devidos, todavia, este não pode desrespeitar a par condictio creditorum, para individualmente e antes dos demais credores privilegiados, como os trabalhadores, receber mais do que a integralidade do seu débito, uma vez que o montante executado na ação 0024.03.017.752-2 estaria limitado ao valor de R$89.854,82" (fl. 309)
+Contrarrazões apresentadas às fls. 326/334, postulando o desacolhimento do apelo raro.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Registre-se, de logo, que o acórdão recorrido foi publicado na vigência do CPC/73; por isso, no exame dos pressupostos de admissibilidade do recurso, será observada a diretriz contida no Enunciado Administrativo n. 2/STJ, aprovado pelo Plenário desta Corte, na Sessão de 9 de março de 2016(Aos recursos interpostos com fundamento no CPC/73 - relativos a decisões publicadas até 17 de março de 2016 -- devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça).
+Adiante, apretensão recursal merece acolhida pelo art. 535 do CPC/73, pois a parte recorrente, nas razões dos sucessivos embargos de declaração e do recurso especial, alega as seguintes teses,in verbis:
+Não resta dúvida que é legítimo o interesse do Estado de MinasGerais em buscar receber os valores que lhe são devidos, todavia, este não podedesrespeitar a par condictio creditorum, para individualmente e antes dos demais credores privilegiados, como os trabalhadores, receber mais do que a integralidade do seu débito, uma vez que o montante executado na ação 0024.03.017.752-2 estaria limitado ao valor de R$89.854,82. (Fls. 265/266).
+ ..
+Todavia o precedente supra citado não tem, concessa venia, co-relação ao caso dos autos, uma vez que, aqui, não se trata de bem levado à arrematação, mas sim pretendido ser adjudicado pelo Estado. Em outras palavras, se deferida a adjudicação, somente o Estado será satisfeito com a venda do imóvel, não sendo os valores deste revertido à Massa de Credores. (Fl. 280).
+Contudo, o Tribunal de origem quedou silente sobre taisargumentações e rejeitou os pertinentes aclaratórios do ora recorrente, em franca violação ao art. 535 do CPC/73, porquanto não prestada a jurisdição de forma integral.
+ANTE O EXPOSTO, dou provimento ao recurso especial para, assentando a nulidade do acórdão recorrido por violação ao art. 535 do CPC/73, determinar o retorno dos autos ao Tribunal de origem, a fim de que seja realizado novo julgamento dos embargos de declaração.
+Publique-se.
