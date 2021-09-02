@@ -1,0 +1,12 @@
+DECISÃO
+A ABRADEE - ASSOCIAÇÃO BRASILEIRA DISTRIBUIDORA DE ENERGIA ELÉTRICArequer seu ingresso no feito na qualidade de amicus curiae (e-STJ fls. 7.846/7.892).
+Aduz que arelevância da matéria e a repercussão social da controvérsia "decorrem do fato de que não apenas a EDP no Município de São José dos Campos, mas todas as concessionárias de distribuição de energia elétrica são potencialmente afetadas pelo acórdão recorrido que reconhece a constitucionalidade de lei local que cria critérios técnicos para a instalação e ocupação de postes"(e-STJ fl. 7.848).
+Argumenta, em suma, que o Município, ora recorrido,não possui "competência para criar exigências ou limitações relativas à exploração das instalações de energia elétrica, principalmente quando as consequências de tal ato são capazes de alterar profundamente o contrato de concessão" (e-STJ fl. 7.862).
+Passo a decidir.
+O Código de Processo Civil/2015 prevê a possibilidade de participação do amicus curiae, como uma das modalidades de intervenção de terceiros,estabelecendo os seguintes requisitos:
+Art. 138: "O juiz ou o relator, considerando a relevância da matéria, a especificidade do tema objeto da demanda ou a repercussão social da controvérsia, poderá, por decisão irrecorrível, de ofício ou a requerimento das partes ou de quem pretenda manifestar-se, solicitar ou admitir a manifestação de pessoa natural ou jurídica, órgão ou entidade especializada, com representatividade adequada, no prazo de quinze dias da sua intimação."
+Como se vê, o amicus curiae somente poderá ser admitido na lide quando seus conhecimentos (técnicos, científicos ou jurídicos) puderem auxiliar o magistrado nas causas de relevância social, repercussão geral ou em que o objeto seja bastante específico, devendo, ainda, o pretendente possuir representatividade adequada para opinar sobre a matéria sub judice.
+No caso concreto, apesar de a requerente ostentar representatividade em âmbito nacional,ficam prejudicadas a utilidade e a conveniência de sua intervenção diante da ausência de exame da questão de fundo do recurso especialda parte interessada (matéria de índole constitucional), conformedecisão de minha lavra proferida no dia de hoje.
+Desse modo, a soluçãoatribuída à demanda no apelo especial torna desnecessária o ingresso do amigo da Corte, a bem da celeridade e da efetividade da prestação da tutela jurisdicional.
+Ante o exposto, INDEFIRO o pedido.
+Publique-se. Intimem-se.
