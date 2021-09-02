@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+ACIDENTÁRIO PROCESSUAL CIVIL COISA JULGADA.
+Autarquia que requer a extinção do feito sem apreciação do mérito. Descabimento. Autor que comprovou ter continuado a laborar. Perícia médica e ambiental comprovam a redução da capacidade laborativa, bem como o nexo causal causal.
+ACIDENTÁRIO - AUXÍLIO-ACIDENTE - LER/DORT. Perda parcial e permanente da capacidade laborativa em decorrência de doença do trabalho, conforme reconhecido pela perícia a que se submeteu a obreiro. Nexo causal comprovado. Benefício devido.
+ACIDENTÁRIO AUXÍLIO-ACIDENTE TERMO INICIAL.
+Sentença que determinou a data da juntada do laudo pericial como termo inicial do pagamento do benefício.
+Manutenção da DIB fixada a fim de que não ocorra reformatio in pejus, visto que não houve recurso de apelação da parte autora nesse sentido.
+PROCESSUAL CIVIL E ACIDENTÁRIO - JUROS E CORREÇÃO MONETÁRIA. Juros de mora que obedecem ao disposto no artigo 1º-F, da Lei 9.494/1997, com a redação conferida pela Lei nº 11.960/2009. Correção monetária que deve seguir o IPCA-E, conforme decidido pelo STF no julgamento do RE 870.947/SE - Tema nº 810 da repercussão geral.
+PROCESSUAL CIVIL - AÇÃO ACIDENTÁRIA - HONORÁRIOS.
+Percentual a ser fixado em fase de liquidação. Inteligência do art. 85, §§ 3º, 4º, II, 11, do NCPC.
+Recurso voluntário não provido e reexame necessário parcialmente provido.
+Quanto à controvérsia recursal, alega violação dos arts. 502 e 503 do CPC, no que concerne à existência de coisa julgada, trazendo os seguintes argumentos:
+Assim, não existe diferença de pedido ou causa de pedir ao se pleitear um benefício ora invocando que tal é "acidentário" ora dizendo que é "previdenciário" pois a causa de pedir sempre será a incapacidade invocada e o pedido sempre será o benefício descrito na lei (simplesmente auxílio-doença, auxílio-acidente ou aposentadoria por invalidez).
+O questionamento sobre se o acidente se deu ou não no labor é meramente uma questão de COMPETÊNCIA JUDICIAL e define qual será o Tribunal julgador, nada tendo a ver com o conceito jurídico de pedido e causa de pedir.
+Se o entendimento não fosse como o exposto era de se admitir que um mesmo segurado recebesse, ao mesmo tempo um auxílio-doença "previdenciário" e outro auxílio-doença "acidentário", pois teria feito pedidos diferentes em duas competências distintas e recebido dois provimentos supostamente diferentes.
+ ..
+Em síntese, objetivamente os benefícios são exatamente os mesmos e se relacionam exatamente com as mesmas incapacidades. Subjetivamente as ações judiciais são propostas em tribunais distintos, dependendo se a incapacidade se originou por exercício do trabalho ou no trajeto dele e isso é meramente uma situação de competência judicial, nada dizendo em relação ao pedido ou causa de pedir.
+ ..
+Assim, a "causa de pedir", nas ações, sejam "acidentárias" ou "previdenciárias", é a incapacidade, com fixação da competência judicial pela existência de nexo com o trabalho, não havendo sentido em permitir que exista um processo por cada moléstia alegada ou mesmo um processo dito "acidentário" e outro "previdenciário", sobrecarregando indevidamente o Judiciário com artifício claramente inoportuno (fls. 882-883).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+De início, rejeito a preliminar arguida pela autarquia.
+Isso porque a ação anterior que foi julgada improcedente por ausência de incapacidade e de nexo causal teve seu laudo confeccionado em 2016 (fls. 754/770), já o presente feito foi ajuizado em 01/03/2019, cerca de três anos após àquela avaliação pericial, período em que o obreiro comprovou ter continuado a trabalhar (fl. 16 e 737), circunstância que permite um novo ingresso judicial sem que se configure violação à coisa julgada, ante a possibilidade de agravamento do quadro clínico pelo labor.
+Cumpre ressaltar que a teoria da concausa é admitida pela lei e pode ser definida como o elemento que concorre com outro, formando nexo entre a doença profissional e o trabalho, de tal forma que prescinde do nexo causal direto e exclusivo entre o dano e o trabalho, para a configuração do acidente ou da doença profissional do trabalho (fls. 852-853).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1637445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1647046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
