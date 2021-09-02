@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de agravo (artigo 1.042 do CPC/15), interposto por ANA CRISTINA FONSECA DE MACEDO e OUTRO, em face de decisão acosta às fls. 389-390, e-STJ, que, em juízo prévio de admissibilidade, negou seguimento ao recurso especial manejado pelosora agravantes.
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, fora deduzido em desafio ao acórdão de fls. 366-370, e-STJ, proferido peloTribunal de Justiça do Estado de São Paulo, assim ementado (fl. 367, e-STJ):
+Ação de embargos à execução. Titulo extrajudicial.Intempestividade dos embargos. Admissão da parte embargante.Justificativa dada que transcende a lei processual. Nítida tentativa de criar novas regras processuais relativamente a prazos. Não acolhimento.
+Extinção mantida. Apelação denegada.
+Nas razões do recurso especial (fls. 375-377, e-STJ), osinsurgentes apontam violação aos artigos269, § 1º e 468, ambos do CPC/15, aduzindo, em suma, que a extinção dos primeiros embargos à execução sem julgamento de mérito não inviabiliza a oposição de novos embargos.
+Contrarrazões às fls. 380-388, e-STJ.
+Em juízo prévio de admissibilidade (fls. 389-390, e-STJ), a Corte de origem negou seguimento ao apelo nobre, ante a não demonstração de violação aos dispositivos apontados como violados.
+Inconformados, interpuseramo agravo (art. 1.042 do CPC/15), cuja minuta está acostada às fls. 394-398, e-STJ, por meio do qual pretendemver admitido o recurso especial.
+Contraminuta às fls. 401-410, e-STJ.
+É o relatório.
+Decido.
+A irresignaçãonãomerece prosperar.
+1.Osinsurgentes apontam violação aos artigos269, § 1º e 468, ambos do CPC/15, aduzindo, em suma, que a extinção dos primeiros embargos à execução sem julgamento de mérito não inviabiliza a oposição de novos embargos.
+O Tribunal de origem, ao analisar a controvérsia, assim decidiu (fl. 369, e-STJ):
+A parte embargante procura inovar na questão dos prazos processuais ao sustentar a possibilidade de repristinar prazo já consumado.
+Valendo-se do fenômeno da preclusão, que pode ser consumativa, lógica ou temporal, apenas para ilustrar o caso em questão, uma vez ofertados os embargos, no prazo do artigo 915, do Código de Processo Civil, há consumação por inteiro da faculdade de prática do ato, sendo irrelevante que restem dias ainda desse prazo. Igualmente, é irrelevante o tipo de resultado do julgamento do pedido formulado nesses embargos, se de mérito ou não, porque em nenhuma hipótese o referido prazo será ressuscitado.
+A parte embargante admite que manejou estes novos embargos dentro do prazo para interpor o recurso de apelação relativamente ao julgamento dos anteriores embargos à execução (processo 1081405-08.2018.8.26.0100), enfim, uma lógica que de lógica nada tem, uma tese absolutamente solitária.
+Cabe a nota de que os anteriores embargos foram julgados extintos, determinado, inclusive, o cancelamento, por falta de recolhimento das custas iniciais. grifou-se
+Com efeito, o únicofundamento utilizado pelo Tribunal de origem para rejeitar a pretensão recursalacerca do cabimento ou não de novos embargos à execução-preclusão consumativa-não fora impugnadonas razões do recurso especial, limitando-se osrecorrentes a afirmar quea extinção dos primeiros embargos à execução, sem julgamento de mérito, não inviabiliza a oposição de novos embargos.
+Contudo, quanto ao fundamento que, de fato, embasou o acórdão recorrido,não houve impugnaçãonas razões do apelo extremo, o qual se revela suficiente para manter o acórdão recorrido.
+Deste modo, a subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado, impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF,in verbis: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.".
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL.  .. . FUNDAMENTOS AUTÔNOMOS E SUFICIENTES PARA MANTER O ACÓRDÃO NÃO ATACADOS. SÚMULA 283/STF. FALTA DE INTERESSE DE AGIR. REEXAME DE CLÁUSULAS CONTRATUAIS E DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS 5 E 7 DO STJ. AGRAVO NÃO PROVIDO.  ..  2.A ausência de impugnação, nas razões do recurso especial, de fundamento autônomo e suficiente, por si só, para manter incólume o aresto recorrido atrai, por analogia, o óbice da Súmula 283 do STF, segundo a qual: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles."  ..  4. Agravo regimental a que se nega provimento. (AgRg no AREsp 323.958/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 18/06/2015, DJe 03/08/2015)  grifou-se
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. 1. VIOLAÇÃO DO ART. 12 DA LEI N. 9.656/1998 E DO ART. 188 DO CC. FUNDAMENTOS DO ACÓRDÃO NÃO IMPUGNADOS NO APELO EXTREMO. SÚMULAS 283 E 284/STF. 2. OFENSA AO ART. 944 DO CC. DANO MORAL. EXORBITÂNCIA DA INDENIZAÇÃO NÃO VERIFICADA. REVISÃO DO VALOR. NECESSIDADE DE REEXAME DE PROVAS. INVIABILIDADE. SÚMULA 7/STJ. 3. AGRAVO IMPROVIDO.  .. Todavia, esses argumentos utilizados pelo Tribunal de origem não foram infirmados pela agravante, de forma que, não atacados os referidos fundamentos, os quais, por si sós, mantêm o acórdão recorrido, aplicam-se, à espécie, os enunciados nos 283 e 284 da Súmula do Supremo Tribunal Federal.  ..  3. Agravo regimental a que se nega provimento. (AgRg no AREsp 738.817/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/09/2015, DJe 13/10/2015)  grifou-se
+Portanto, considerando que odecisumrecorrido conta com fundamentos inatacados, aptos a manter a conclusão do acórdão, inafastável a aplicação da Súmula 283 do STF, por analogia.
+2.Do exposto, com amparo no artigo 932 do NCPC c/c a súmula 568/STJ,nego provimentoao agravo.
+Publique-se.
+Intimem-se.
