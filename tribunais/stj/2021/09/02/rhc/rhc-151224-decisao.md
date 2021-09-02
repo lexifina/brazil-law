@@ -1,0 +1,18 @@
+DECISÃO
+LUIZ FELIPE VIEIRA FELICIANOalegasofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Geraisno HC n. 1.0000.21.125906-4/000.
+Nesta Corte, a defesa postula a concessão de liberdade provisória aos acusados, por considerar inidônea a motivação do decisum que converteu a prisão em flagrante, pela suposta prática docrimede tráfico de drogas, em custódia preventiva.
+A conversão do flagrante em prisão provisória foi assim justificada (fls. 59-60, grifei):
+ ..
+A prova da existência do crime e os indícios de autoria estão demonstrados pelos depoimento das testemunhas, pelo laudo de apreensão e pelo exame preliminar.
+O periculum in libertatis consiste na garantia da ordem pública com vistas a evitar a reiteração da conduta criminosa. Como se vê, o autuado foi preso com 14 invólucros de cocaína conforme laudo de exame preliminar, em condições que evidenciam indícios de traficância. Assim, considerando as circunstâncias do caso concreto, quais sejam, a quantidade de drogas, o seu potencial lesivo, o fato do crime ter em via pública de pequena e pacata cidade do interior, o fato de que tanto Tabuleiro quanto as cidades da região vem enfrentando problemas graves de saúde pública como consequência de tráfico de drogas entendo que estão presentes os requisitos para a conversão do flagrante em preventiva. Vale esclarecer que, nos termos do que consta no APFD, oautuado estava exercendo a atividade de traficância em logradouro público expondo, assim, toda uma comunidade a situação de risco, subvertendo a paz e a tranquilidade do local o que torna a conduta, nesse caso concreto, ainda mais grave.
+O exame preliminar de drogas atesta a que o entorpecente apreendido totalizou 16,5 g de cocaína (fls. 54-55).
+Na espécie, verifico que não foram indicados, pelo Juízo de primeiro grau, elementos idôneos para convolar a prisão em flagrante em custódia provisória, pois se limitou a afirmar indícios de que oautuadorealizariao comércio de entorpecentes em via pública. Além disso, a quantidade de droga encontradanão é elevada (16,5g de cocaína).
+Concluo, dessa forma, não haver sido demonstrada a exigência cautelar justificadora da prisão provisória do réu. Nesse sentido:
+ ..
+1. Segundo a jurisprudência desta Corte Superior de Justiça, toda prisão imposta ou mantida antes do trânsito em julgado de sentença penal condenatória, por ser medida de índole excepcional, deve vir sempre baseada em fundamentação concreta, isto é, em elementos vinculados à realidade. Nem a gravidade abstrata do delito nem meras conjecturas servem de motivação em casos que tais.
+2. A menção do magistrado, pura e simples, a conjecturas a respeito da gravidade abstrata do crime, sem a incidência de nenhum elemento concreto, não é suficiente para decretar a prisão preventiva do acusado. Se assim fosse, a prisão provisória passaria a ter caráter de prisão obrigatória.
+3. Habeas corpus concedido para revogar a prisão preventiva do paciente, garantindo-lhe o direito de aguardar em liberdade o julgamento da ação penal objeto destes autos, se por outro motivo não estiver preso, e ressalvada a possibilidade de haver nova decretação de prisão, caso se apresente motivo concreto para tanto.
+(HC n. 362.072/MG, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 16/2/2017, destaquei)
+À vista do exposto, dou provimento ao recurso para tornar sem efeito a decisão que converteu a prisão em flagrante doréu em custódia preventiva, ressalvada a possibilidade de nova decretação da medida caso efetivamente demonstrada a sua necessidade, sem prejuízo de fixação de cautelar alternativa, nos termos do art. 319 do CPP.
+Comunique-se,com urgência,o inteiro teor deste decisum às instâncias ordinárias.
+Publique-se e intimem-se.
