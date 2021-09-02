@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de habeas corpus , com pedido liminar, impetrado, em favor de DIONEI DIAS contra acórdão do Tribunal de Justiça do Estado de Santa Catarina prolatado no julgamento da Apelação n. 5017376-53.2020.8.24.0038.
+OPaciente foi condenado às penas de 5(cinco) anos de reclusão, em regime inicial semiaberto, e pagamento de 500 (quinhentos)dias-multa, como incursono art. 33, caput,da Lei n. 11.343/2006, pois trazia consigo e tinha em depósito 66,618kg (sessenta e seis quilos e seiscentos e dezoito gramas) de maconha e1,146Kg (um quilo e cento e quarenta e seis gramas) de cocaína.
+O Ministério Público interpôs apelação, à qual o Tribunala quodeu provimento para fixaro regime inicial fechado para cumprimento da reprimenda.
+Nestewrit, a Defesapleiteia a fixação do regime prisionalinicial semiaberto, sob o argumento de ausência de fundamentação válida para o estabelecimento do regime mais gravoso.
+Requer, liminarmente e no mérito, a fixação do regime inicial semiaberto.
+A liminar foi indeferida, sendo dispensada as informações da Autoridade Coatora(fls. 310-311).
+O Ministério Público Federal opinou pela "não admissão do writ, descabida também a concessão de uma ordem de habeas corpus ex officio" (fl. 319).
+É o relatório.
+Decido.
+O Tribunal a quo, invocando precedentes desta Corte, fixouo regime prisional inicial fechadosob o seguinte fundamento(fls. 299-300; grifos diversos do original):
+" .. verifico que a modalidade mais branda (semiaberto) não se mostra recomendável, no caso concreto, em que o réu movimentou quantia vultosa de entorpecentes, ou seja, 97 (noventa e sete) porções da substância conhecida como maconha, acondicionadas individualmente em embalagem plástica, apresentando massa bruta total de 66,618 (sessenta e seis quilos e seiscentos e dezoito gramas), e 1 (uma)porção da substância conhecida como cocaína, acondicionada em embalagem de plástico verde, apresentando massa bruta de 1,146Kg (um quilo e cento e quarenta e seis gramas). Diante disso, atento ao enunciado n. 719 da súmula do STF, com fundamento no art. 33, § 2º, "a", c/c § 3º, do CP, modifico o regime para o fechado.
+Sobre o tema:
+"A quantidade e/ou natureza de drogas apreendidas constitui elemento idôneo para justificar a imposição de regime mais gravoso, de acordo com o disposto no art. 42 da Lei de Drogas e no art. 33, § 3º, do Código Penal - CP e em consonância com o entendimento desta Corte"(STJ, HC n. 350268, Min. Joel Ilan Paciornik, j. 08.11.2016).
+Nesses termos, o regime inicial de cumprimento de pena deve ser fixado no fechado."
+O aresto atacado não merece reparos, pois,considerando o quantum da pena imposta ao Paciente, no patamar de5 (cinco) anos de reclusão,ea gravidade concreta da conduta, baseada na quantidade da droga apreendida-66,618kg (sessenta e seis quilos e seiscentos e dezoito gramas) de maconha e 1,146kg (um quilo e cento e quarenta e seis gramas) de cocaína-, não se verifica a existência de ilegalidade na fixação do regime inicial fechado, nos termos do art. 33, § 3.º e 42 da Lei n.11.343.2006 e da jurisprudência desta Corte.
+A propósito: " .. embora os pacientes sejam primários e as penas tenham sido estabelecidas em patamares superiores a 4 anos e não excedentes a 8 anos, a quantidade da droga apreendida - 547 porções de maconha (1.636,86g) - justifica a imposição do regime inicial fechado"(AgRg no HC 662.667/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 15/06/2021, DJe 21/06/2021).
+No mesmo sentido:
+" ..
+V - O Plenário do col. Supremo Tribunal Federal declarou inconstitucional o art. 2º, § 1º, da Lei n. 8.072/90 - com redação dada pela Lei n. 11.464/07, não sendo mais possível, portanto, a fixação de regime prisional inicialmente fechado com base no mencionado dispositivo. Para tanto, devem ser observados os preceitos constantes dos arts. 33 e 59, ambos do Código Penal.
+VI - In casu, o regime adequado à hipótese é o inicial fechado, uma vez que houve fundamentação idônea a lastrear a aplicação do regime mais gravoso, diante da quantidade de drogas apreendidas, vale dizer, 47,600 Kg (quarenta e sete quilos e seiscentos gramas) de maconha, em consonância com o entendimento desta Corte, ex vi do art. 33, parágrafo 2º, b, e parágrafo 3º, do Código Penal, e art. 42 da Lei n. 11.343/06.
+Agravo regimental desprovido"(AgRg no AgRg no HC 649.065/SP, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 17/08/2021, DJe 24/08/2021; sem grifos no original.)
+" ..  1. À luz das particularidades do caso concreto - notadamente, a apreensão de grande quantidade de droga (1 kg de maconha) -, o regime inicial mais gravoso é, efetivamente, o que se mostra mais adequado para a prevenção e a repressão do delito perpetrado, nos termos do art. 33, § 3º, do Código Penal, com atenção também ao previsto no art. 42 da Lei de Drogas.  .. " (AgRg no HC 530.496/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/12/2019, DJe 11/12/2019; sem grifos no original.)
+" .. 4. Considerando o quantum da pena imposta - 5 (cinco) anos de reclusão - e a gravidade concreta da conduta, baseada na quantidade de droga apreendida, é cabível a fixação do regime inicial fechado.  .. 6. Agravo regimental desprovido" (AgRg no HC 631.077/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 09/03/2021, DJe 19/03/2021; sem grifos no original.)
+Ante o exposto, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS.PLEITO DE ABRANDAMENTO DO REGIME PRISIONAL. INVIABILIDADE. SANÇÃO DEFINITIVA SUPERIOR A 4 (QUATRO) ANOS.CONSIDERÁVEL QUANTIDADE DE DROGA APREENDIDA. REGIME INICIAL FECHADO DEVIDAMENTE MOTIVADO. PRECEDENTES.ORDEM DE HABEAS CORPUS DENEGADA.
