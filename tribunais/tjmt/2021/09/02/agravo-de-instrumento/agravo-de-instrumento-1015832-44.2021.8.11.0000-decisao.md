@@ -1,0 +1,43 @@
+AGRAVO DE INSTRUMENTO No 1015832-44.2021.8.11.0000
+AGRAVANTES:- VALDERI ANTONIO PARUSSULO e outros
+AGRAVADA:- OURO B TRANSPORTADORA MERIDIANO LTDA
+AGRAVO DE INSTRUMENTO – EXECUÇÃO – LEVANTAMENTO DA QUANTIA DEPOSITADA EM JUÍZO – INDEFERIMENTO – JUSTIFICATIVA E REITERAÇÃO PARA O DEFERIMENTO DO PEDIDO - MANUTENÇÃO DO DECISUM ANTERIOR - FLUÊNCIA DO PRAZO - INTEMPESTIVIDADE – RECURSO NÃO CONHECIDO (ART. 932, INCISO III, DO CPC).
+A decisão a ser recorrida é aquela que primeiro decide sobre a questão incidente no curso do processo. Reiteração de pedido anterior ou reconsideração do decisum não suspende nem interrompe o prazo para a interposição de Recurso.
+Agravo de Instrumento n. 1015832-44.2021.8.11.0000 de decisão da 2a Vara Cível da Comarca de Alto Araguaia que, em Execução de Título Extrajudicial, indeferiu o pedido de levantamento dos valores depositados nos autos.
+Os agravantes alegam que o débito teve origem na escritura de venda e compra de imóvel, firmado 2009 e, embora a agravada tenha recebido a posse da integralidade do bem, realizou o pagamento parcial do preço ajustado, o que motivou a interposição do feito.
+Aduzem que, além dos Embargos à Execução, a agravada ajuizou também Ação de Obrigação de Fazer, buscando a regularização de área supostamente devoluta na Fazenda, cuja escritura deu origem ao feito (Execução), e não há nenhuma medida judicial impedindo o prosseguimento do feito.
+Dizem que foram depositados valores pela arrendatária, os quais pretendem levantar.
+Pontuam que ofereceram um imóvel avaliado em mais de R$10.000,00 como caução, embora não seja exigida essa garantia.
+Pedem o provimento do Recurso.
+É o relatório.
+A agravante, em Execução de Título Extrajudicial, requereu o levantamento da quantia depositada nos autos, o que foi indeferido nos seguintes termos:
+(...)
+Em detida análise dos autos, verifico que o autor pleiteou pelo levantamento dos valores depositados pela empresa Brenco, em cumprimento da penhora de arrendamento determinada no presente feito no dia 19/05/2014.
+Todavia, infere-se que foi distribuído em apartado, embargos de terceiro, sob o no 5917-64.2017.811.0020, cód. 89459, proposto por Janete Aparecida de Souza da Silva, em face da penhora realizada nos presentes autos, visto que em 10/09/2013, a requerida cedeu a embargante os créditos de que tinha direito, junto a empresa Brenco – Companhia Brasileira de Energia Renovável.
+Desse modo, verifica-se que os crédito depositados na presente ação, aparentemente, eram objeto de contrato celebrado entre a requerida e a embargante Janete Aparecida, sendo que a cessão outrora realizada antecede a penhora determinada neste feito.
+Assim, tem-se que os valores depositados são controvertidos nestas ações, ressaltando-se que naqueles autos, há pedido de antecipação de tutela pendente de análise, de modo que eventual levantamento dos valores em favor do exequente, podem ensejar prejuízos irreparáveis ao terceiro interessado.
+Nesse ponto, destaco que embora o autor tenha oferecido o imóvel descrito na matrícula no 4.224 em caução, não foi juntada a respectiva avaliação do bem, de modo a indicar que esse supriria eventual prejuízo ao terceiro.
+Pelo exposto, INDEFIRO o pedido de levantamento da quantia depositada nos presentes autos, e determino a intimação do autor para que dê prosseguimento ao feito, no prazo de 20 (vinte) dias, indicando bens a penhora. (Id 100265489 - Pág. 50)
+Depois eles informaram que a avaliação do imóvel oferecido em garantia, e reiteraram o pedido para a liberação dos valores, o que gerou o decisum ora atacado, assim proferido:
+À ref. 127, os exequentes reiteraram o pedido de levantamento dos valores depositados nos autos, juntando, para tanto, avaliação de imóvel oferecido como caução. Ocorre que, diversamente do que pretende fazer crer os requerentes, a ausência da avaliação do bem imóvel ofertado em garantia não foi o único fundamento adotado na decisão de ref. 120, que é expressa ao consignar o caráter controvertido dos valores depositados nestes autos por força de penhora, tendo em vista o trâmite de embargos de terceiro (Autos n. 5917-64.2017.811.0020, cód. 89459) discutindo acerca da titularidade desse crédito e da regularidade da constrição judicial. Ademais disso, observa-se que o imóvel ofertado em caução é objeto de gravames, o que torna ainda mais acentuada a sua iliquidez, pelo que não se revela cabível a sua admissão nestes autos a fim de viabilizar o levantamento dos valores penhorados na execução. Assim, INDEFIRO o pedido de ref. 127. (Id 100265489 - Pág. 79 sem destaque no original)
+Como se vê, o Agravo de Instrumento é contra a primeira decisão que indeferiu o pedido.
+De fato, embora ele alegue que apresentou fato novo, na verdade trouxe apenas a avaliação do imóvel ofertado como caução. E o decisum é claro ao afirmar que a ausência da avaliação do bem imóvel ofertado em garantia não foi o único fundamento adotado na decisão de ref. 120, que é expressa ao consignar o caráter controvertido dos valores depositados nestes autos por força de penhora, tendo em vista o trâmite de embargos de terceiro.
+Logo, a decisão a ser recorrida deveria ter sido a primeira, visto que esse segundo pedido não interrompe nem suspende o prazo recursal.
+O Agravo de Instrumento é interposto contra decisão interlocutória que primeiramente decide sobre a questão incidente no curso do processo.
+No caso, a que desafiava o AI foi prolatada em 10-9-2020 enquanto a reiteração do pedido foi feita em novembro de 2020 (100265489 - Pág. 52/54).
+Logo, a interposição do Agravo em 30-4-2021 extrapolou o período estabelecido no § 2o do art. 1.021 do CPC.
+Nesse sentido os julgados:
+AGRAVO INTERNO EM AGRAVO DE INSTRUMENTO - DECISÃO PROFERIDA EM SEDE DE SIMPLES PETIÇÃO - MANUTENÇÃO DA DECISÃO ANTERIOR - INTERPOSIÇÃO DE RECURSO - PRECLUSÃO TEMPORAL. O Agravo de Instrumento é recurso cabível da real decisão interlocutória, isto é, aquela que primeiramente decide sobre a questão incidente no curso do processo, e não daquela que apenas reitera o que já foi decidido. A simples petição, ainda que veicule matéria de ordem pública, não é tida como recurso e, portanto, não suspende o prazo recursal. Assim, para fins de contagem do prazo recursal, considera-se a data da primeira decisão. Uma vez que o decisum atacado é, na realidade, o de Ordem no 16 - f. 21, do Agravo de Instrumento de no 1.0702.10.001792-1/001, constata-se que o prazo recursal iniciou-se em 10/04/2019, de modo que o agravo de instrumento protocolado em 03/06/2019 é claramente extemporâneo. (TJMG - Agravo Interno Cv 1.0702.10.001792-1/002, Relator(a): Des.(a) Wilson Benevides , 7a CÂMARA CÍVEL, julgamento em 15/10/2019, publicação da súmula em 18/10/2019)
+AGRAVO DE INSTRUMENTO. PEDIDO DE RECONSIDERAÇÃO. INTEMPESTIVIDADE. NÃO CONHECIMENTO. O pedido de reconsideração - assim considerada a petição que reitera o pedido de bloqueio de valores - não constitui providência processual capaz de suspender ou interromper prazos recursais. Tratando-se de mácula insanável, pois intempestivo o recurso, ele não pode ser conhecido, porquanto inadmissível. Agravo de instrumento não conhecido, por manifestamente inadmissível (art.932, III, do Novo CPC). Agravo não conhecido. (Agravo de Instrumento, No 70070659404, Vigésima Primeira Câmara Cível, Tribunal de Justiça do RS, Relator: Marco Aurélio Heinz, Julgado em: 19-10-2016)
+E ainda entendimento do STJ:
+AGRAVO INTERNO EM RECURSO ESPECIAL. PREPARO. COMPROVANTE DE AGENDAMENTO. NÃO CONHECIMENTO. PEDIDO DE RECONSIDERAÇÃO REJEITADO. AGRAVO INTERNO INTEMPESTIVO. NÃO CONHECIMENTO.
+1. O pedido de reconsideração não suspende ou interrompe o prazo para a interposição do recurso cabível.
+2. Agravo interno não conhecido. (AgInt no REsp 1784510/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 05/12/2019, DJe 16/12/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO ANULATÓRIA DE EXECUÇÃO EXTRAJUDICIAL. DECISÃO MONOCRÁTICA QUE NÃO CONHECEU DO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE RECONSIDERAÇÃO. NÃO INTERRUPÇÃO DO PRAZO. RECURSO INTEMPESTIVO. AGRAVO INTERNO NÃO CONHECIDO.
+1. É intempestivo o agravo interno interposto fora do prazo de quinze dias úteis, previsto nos arts. 219, 1.003, § 5o, e 1.070 do Código de Processo Civil de 2015.
+2. O pedido de reconsideração não interrompe o prazo para interposição do recurso cabível. Precedentes.
+3. Agravo interno não conhecido. (AgInt no AREsp 1465730/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/09/2019, DJe 25/09/2019)
+Pelo exposto, com amparo no art. 932, inciso III, do CPC, não conheço do Recurso por ser inadmissível.
+Cuiabá, 2 de setembro de 2021.
+Des. Rubens de Oliveira Santos Filho
+Relator
