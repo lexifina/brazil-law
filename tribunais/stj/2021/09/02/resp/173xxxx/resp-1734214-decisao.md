@@ -1,0 +1,44 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaASSOCIACAO DOS SERVIDORES DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA SECAS - ASSECAS -com fundamento no art. 105, III, ae c, da Constituição Federal.
+Na origem, o Departamento Nacional de Obras Contra as Secas - DNOCS - , em 29/10/2014, opôs embargos à execução em que aponta excesso de execução novalor de R$ 308.075,36 (trezentos e oito mil, setenta e cinco reais e trinta e seis centavos).
+Após sentença que julgou parcialmente procedentes os embargos, o TRIBUNAL REGIONAL FEDERAL DA 5ª REGIÃOdeu parcial provimento à apelação do ente público, ficando consignado que a GDPGTAS deve ser paga de forma proporcional àqueles servidores que se aposentaram com proventos proporcionais.
+O referido acórdão foi assim ementado, in verbis:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO. GDPGTAS. TERMO INICIAL DA EXECUÇÃO. DATA O AJUIZAMENTO DO PROCESSO DE CONHECIMENTO. APOSENTADORIA PROPORCIONAL. OBSERVÂNCIA DA PROPORCIONALIDADE. CORREÇÃO MONETÁRIA. LEI 11.960/2009. INCONSTITUCIONALIDADE DECLARADA PELO STF. TÍTULO OMISSO. CRITÉRIOS LEGAIS. MANUAL DE CÁLCULOS. PROVIMENTO PARCIAL.
+1. O título judicial executado consiste em sentença que reconheceu aos servidores aposentados e pensionistas do DNOCS o direito à percepção da gratificação GDPGTAS.
+2. A GDPGTAS se insere na definição de proventos, de modo que, em relação aos pensionistas e aposentados com proventos proporcionais, deve ser também calculada de forma proporcional.
+3. O pagamento da vantagem no mesmo percentual dos servidores da ativa somente foi reconhecida a partir do ajuizamento do processo de conhecimento (21/08/207), devendo este ser o marco inicial da execução.
+4. No julgamento das ADIs 4.425 e 4.357, o Supremo Tribunal Federal declarou, sem qual quer ressalva, a inconstitucionalidade por arrastamento do art. 5º da Lei 11.960/2009, sendo descabida a pretensão de aplicação de dispositivo legal extirpado do ordenamento jurídico por decisão com eficácia imediata e erga omnes.
+5. Sendo omisso o título executivo acerca dos parâmetros de atualização monetária, devem ser aplicados os critérios legais, os quais estão previstos no Manual de Cálculos da Justiça Federal.
+6. Apelação parcialmente provida.
+Os embargos de declaração opostos foram rejeitados.
+Contra a decisão cuja ementa se encontra acima transcrita, a ASSECAS interpôs o presente recurso especial, apontando violação dosarts. 502, 503, 508 e 1.022, todos do CPC/15.
+Pugna, em síntese, pelo afastamento da proporcionalidade no cálculo da GDPGTAS para os aposentados com proventos proporcionais.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n.3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC."
+Afasto a alegação de ofensa ao art. 1.022 do CPC/2015, porque não demonstrada omissão capaz de comprometer a fundamentação do acórdão recorrido ou de constituir-se em empecilho ao conhecimento do recurso especial. Citem-se, a propósito, os seguintes precedentes: EDcl nos EDcl nos EDcl na Pet n. 9.942/RS, relatorMinistro Benedito Gonçalves, Primeira Seção, julgado em 8/2/2017, DJe de 14/2/2017; EDcl no AgInt no REsp n. 1.611.355/SC, relator Ministro Sérgio Kukina, Primeira Turma, julgado em 14/2/2017, DJe de 24/2/2017; AgInt no AgInt no AREsp n. 955.180/RJ, relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 14/2/2017, DJe de 20/2/2017; AgRg no REsp n. 1.374.797/MG, Segunda Turma, relator MinistroMauro Campbell Marques, DJe de 10/9/2014.
+No mais, assiste razão à parte recorrente.
+Com efeito, esta Corte Superior possui entendimento de quenão pode haver diferenciação entre os beneficiários com proventos integrais e aqueles com proventos proporcionais para fins de extensão da Gratificação de Desempenho, em razão da ausência de critério legal a definir tal discrepância.
+Confira-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA. SERVIDOR PÚBLICO. GDASST. APOSENTADORIA PROPORCIONAL E INTEGRAL. DISTINÇÃO. AUSÊNCIA DE PREVISÃO LEGAL.PRECEDENTES DO STJ.
+1. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 1.022 do CPC/2015.
+2. O Superior Tribunal de Justiça adotou a orientação de que a gratificação de desempenho deve ser paga em sua integralidade, por inexistir relação entre o seu valor e o tempo de serviço dos servidores em atividade (ou determinação de que a vantagem fosse individualizada de acordo com as circunstâncias específicas do servidor), descabendo tal distinção entre os aposentados com proventos integrais e proporcionais (vide decisões em REsp 1.573.197; Relatora Ministra Assusete Magalhães, DJe 30/3/2017; REsp 1.208.930, Relator Ministro Og Fernandes, DJe 28/9/2016; EDcl no REsp 1.538.956, Ministro Humberto Martins, DJe 18/8/2016).
+3. Recurso Especial parcialmente conhecido somente em relação à preliminar de violação do art. 1.022 do CPC/2015 e, nessa extensão, não provido.
+(REsp 1804873/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 25/08/2020, DJe 15/10/2020)
+PROCESSO CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO INATIVO. GRATIFICAÇÃO DE DESEMPENHO. PAGAMENTO PROPORCIONAL AOS APOSENTADOS COM PROVENTOS PROPORCIONAIS. IMPOSSIBILIDADE. AUSÊNCIA DE CRITÉRIO LEGAL. JUROS MORATÓRIOS. ART. 1o.-F DA LEI 9.494/1997, COM A REDAÇÃO DADA PELA LEI 11.960/2009. PARADIGMA: QO NO RESP 1.495.144/RS, REL. MIN. MAURO CAMPBELL MARQUES, JULGADO EM 12.8.2015. TEMA 810/STF. MODULAÇÃO DOS EFEITOS. INOCORRÊNCIA. AGRAVO INTERNO DA UNIÃO A QUE SE NEGA PROVIMENTO.
+1. Na hipótese dos autos, a UNIÃO pretendeu que o cálculo da gratificação de desempenho fosse realizado respeitando a diferenciação entre servidores aposentados com proventos integrais e aqueles com proventos proporcionais.
+2. Entretanto, esta Corte Superior possui entendimento de que, em razão da ausência de critério legal a definir tal discrepância, não pode haver diferenciação entre os beneficiários com proventos integrais e aqueles com proventos proporcionais para fins de extensão da Gratificação de Desempenho. Precedentes: AgInt no REsp. 1.609.787/RS, Rel. Min. FRANCISCO FALCÃO, DJe 10.11.2017; REsp. 1.714.383/RS, Rel. Min. HERMAN BENJAMIN, DJe 2.8.2018; AgRg no REsp. 1.542.252/RS, Rel. Min. HUMBERTO MARTINS, DJe 16.9.2015; AgInt no REsp. 1.544.877/RS, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, DJe 22.9.2016.
+(..)
+5. Agravo Interno da UNIÃO a que se nega provimento.
+(AgInt no REsp 1566115/PR, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 17/02/2020, DJe 03/03/2020)
+PROCESSUAL CIVIL. ADMINISTRATIVO. GRATIFICAÇÃO DE ESTÍMULO À DOCÊNCIA. GED. APOSENTADORIA PROPORCIONAL POR TEMPO DE SERVIÇO. VALOR INTEGRAL DA GRATIFICAÇÃO. VINCULAÇÃO AOS PROVENTOS. IMPOSSIBILIDADE. AUSÊNCIA DE PREVISÃO LEGAL.
+I - A questão central do presente recurso especial diz respeito ao pleito de pagamento da Gratificação de Estímulo à Docência - GED, em sua integralidade, a professores aposentados com proventos proporcionais.
+II - A Gratificação de Estímulo à Docência no Magistério Superior - GED foi instituída pela Lei 9.678/98 visando a recompensar os professores do 3º Grau por seu aperfeiçoamento e produção no exercício das atividades de docência, pesquisa e extensão.
+III - A Lei 9.678/98 não estabeleceu diferenciação entre o valor da gratificação a ser percebida pelos servidores aposentados com proventos integrais dos que percebem proporcionais, determinando para os servidores inativos e beneficiários de pensão um valor fixo, correspondendo, atualmente, a 115 pontos.
+IV - Como princípio de hermenêutica, não compete ao intérprete distinguir onde o legislador, podendo, não o fez, sob pena de violação do postulado da separação dos poderes.
+V - Por outro lado, o argumento da Fundação Universidade Federal do Rio Grande de que a Lei 9.678/98 gera tratamento anti-isonômico entre os professores, ao tratar os desiguais de modo igual, forçoso reconhecer que essa questão não pode ser analisada perante o STJ, por tratar-se de matéria constitucional reservada ao Pretório Excelso em sede de controle de constitucionalidade.
+VI - A análise de matéria eminentemente constitucional não compete ao STJ, sob pena de usurpação da competência da Suprema Corte.
+VII - Agravo interno improvido.
+(AgInt no REsp 1609787/RS, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 07/11/2017, DJe 10/11/2017)
+Ante o exposto, com esteio no art. 255, § 4º, III, do RISTJ, conheço do recurso especial para dar-lhe provimento para afastar a proporcionalidade no cálculo da GDPGTAS.
+Publique-se. Intimem-se.
