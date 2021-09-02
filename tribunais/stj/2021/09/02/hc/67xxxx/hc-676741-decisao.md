@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Giovano Rodrigues contra o ato coator proferido pela Sexta Câmara de Direito Criminal do Tribunal de Justiça de São Paulo, que, nos autos do Agravo em Execução n. 0001736-78.2021.8.26.0079, negou provimento à insurgência defensiva, mantendo a exigência de realização de exame criminológico para fins de progressão de regime (processo de Execução n. 1002867-71.2021.8.26.0079, em trâmite na 2ª Vara Criminal da comarca de Botucatu/SP).
+O presente writ, no entanto, perdeu o objeto.
+Isso porque, de acordo com as informações colhidas no portal eletrônico do Tribunal de origem, tem-se que, em 2/8/2021, após a realização do exame criminológico, foi indeferida a progressão ao regime semiaberto, ou seja, posteriormente ao acórdão aqui vergastado.
+Ademais, como é cediço, a jurisprudência desta Corte Superior sedimentou o entendimento de que, embora a Lei n. 10.792/2003 - ao alterar a redação do art. 112 da Lei de Execução Penal - tenha afastado a exigência do exame criminológico para fins de progressão de regime, é possível ao magistrado de primeiro grau, ou mesmo a Corte estadual, diante das circunstâncias do caso concreto e adequada motivação, determinar a realização do exame (HC n. 304.872/SP, Ministro Gurgel de Faria, Quinta Turma, DJe 9/6/2015).
+Ora, o Superior Tribunal de Justiça tem considerado admissível e fundamentada a decisão que indefere benefícios da execução penal com base em avaliação psicossocial ou criminológica previamente realizada, a qual atesta não ter o paciente condições de ser beneficiado com situação mais favorável. Nesse sentido: HC n. 371.602/MS, Ministro Nefi Cordeiro, Sexta Turma, DJe 15/2/2018; HC n. 381.781/ES, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 17/4/2017; e HC n. 385.932/SP, Ministro Joel Ilan Paciornik, Quinta Turma, DJe 27/3/2017.
+Ir além disso, para rever a conclusão de que o paciente não preenche o requisito subjetivo, exigiria o reexame dos elementos que subsidiaram a convicção da Corte de origem, providência inviável na via eleita. Nesse sentido: HC n. 390.326/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 15/5/2017; e HC n. 377.210/TO, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/2/2017.
+Sendo assim, tendo havido alteração do cenário fático-processualem momento posterior, tem-se por esvaído o objeto do remédio heroico.
+Anteo exposto,julgo prejudicadoo presentehabeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO  PENAL.  PROGRESSÃO DE REGIME.REQUISITO SUBJETIVO.SUPERVENIENTE INDEFERIMENTO DO BENEFÍCIO COM BASE EM AVALIAÇÃO TÉCNICA DESFAVORÁVEL. VIABILIDADE. PRECEDENTES. NOVA REALIDADE  FÁTICO-PROCESSUAL. PERDA  DO OBJETO.
+Writ prejudicado.
