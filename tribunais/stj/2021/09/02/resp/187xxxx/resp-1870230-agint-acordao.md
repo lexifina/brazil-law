@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, com aplicação de multa, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. AUSÊNCIA DE DEVIDA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. MANIFESTA IMPROCEDÊNCIA DO AGRAVO. APLICAÇÃO DE MULTA.
+AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+RELATÓRIO
+Trata-se de agravo interno interposto por CAIXA SEGURADORA S/A contra a decisão deste relator que conheceu em parte e desproveu o seu recurso especial, cuja ementa está assim redigida:
+RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. MERO INCONFORMISMO. PRESCRIÇÃO, RESPONSABILIDADE DO CONSTRUTOR E COBERTURA. ATRAÇÃO DOS ENUNCIADOS 7/STJ E 284/STF. RECURSO ESPECIAL EM PARTE CONHECIDO E DESPROVIDO.
+Em suas razões recursais, asseverou inaplicável o enunciado 7/STJ, já que pretende apenasa nova valoração das provas já especificadas e delineadas na decisão recorrida. Em que pese o acórdão na origem tenha reconhecido não se poder precisar o início da contagem do termo prescricional,os danos verificados no imóvel ocorreram logo após sua aquisição pelos ora recorridos, isso em 2011. Aduziu, por outro lado, poder suscitar a prescrição em qualquer fase processual e destacou que a questão está sob discussão no tema 1039. Reafirmou a negativa de prestação jurisdicional e a impossibilidade de condenação ao pagamento por danos morais em face de descumprimento contratual. Finalizou dizendo da ausência de cobertura dos vícios construtivos e pediu o provimento.
+Houve contrarrazões.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. DIREITO CIVIL. AÇÃO DE INDENIZAÇÃO. SEGURO HABITACIONAL. VÍCIOS DE CONSTRUÇÃO. AUSÊNCIA DE DEVIDA IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO AGRAVADA. MANIFESTA IMPROCEDÊNCIA DO AGRAVO. APLICAÇÃO DE MULTA.
+AGRAVO INTERNO NÃO CONHECIDO, COM APLICAÇÃO DE MULTA.
+VOTO
+Eminentes Colegas, as razões trazidas no agravo não alteram a convicção deste relator acerca do parcial conhecimento de desprovimento do recurso especial.
+Relembro que o recurso especial é tirado de açãode indenização por danos materiais e morais, cumulada com pedido revisional, ajuizadacontra o vendedor/construtor do imóvele a seguradora tendo em vista a ocorrência de vícios construtivos.
+No tocante ao não conhecimento do recurso pelo dissídio, não houve a devida impugnação da decisão agravada, restando, pois, preclusa a decisão agravada no que concerne.
+Tocante à negativa de prestação jurisdicional, ressaltei que, além de analisadas as questões relevantes, não se verificando omissão, não hásentido em dizer-se contraditório o acórdão que reconhece a existência de cláusula a excluir os vícios construtivos, mas condena a seguradora, poisa sentença e o aresto são claros em proceder à revisão do contrato celebrado, reconhecendo a cobertura, então, dos referidos riscos, o que não fora devidamente impugnado também.
+Desarrazoada, também, a alegação de que o acórdão teria sido omisso acerca do grau de culpa do construtor. Os fundamentos do aresto tem como base a culpa do construtor - por este próprio reconhecida quando da proposta de acordo e reparação dos danos verificados - em face das falhas a comprometerem a estabilidade do imóvel.
+Inexistira, ainda, omissão acerca dos danos morais, estando o acórdão devidamente fundamentado no que respeita.
+A parte podenão concordar com a condenação no valor arbitrado, mas isso, de modo algum, configura vício a ser tratado pela via dos aclaratórios, evidenciando-se a mais não poder que apretensão formulada nos embargos traduziu-se em mero inconformismo com a decisão, o que não revelaa existência de quaisquer dos vícios do art. 1.022 do CPC.
+No mais, relembro que os vícios construtivos foram constatados antes do implemento do prazo quinquenal de garantia, tendo sido proposta a presente ação com o objetivo de ver o imóvel reparado, e, ainda, de ver indenizados os danos morais, além de revisado o contrato de seguro no tocante à exclusão dos vícios construtivos.
+O juízo sentenciante deu pela procedência parcial, condenando os réussolidariamente:
+a) a proceder à reforma/recuperação do imóvel apontado na inicial, devolvendo-o aos autores em perfeitas condições de habitabilidade e segurança, nos limites da apólice contratada, o que deverá ser apurado em fase de liquidação de sentença;
+b) arcar com todo o valor pago a título de aluguel pelos autores de imóvel a ser utilizado por esses para moradia, similar ao imóvel objeto da lide, desde janeiro de 2016 até a data da quitação do montante apontado no item acima, devidamente atualizado a partir de cada desembolso, mediante os documentos de fls. 262/267, além de eventuais outros apresentados pelos autores, o que deverá ser apurado em fase de liquidação de sentença;
+c) Ao pagamento da quantia de R$ 30.000,00 (trinta mil reais) aos autores, a título de indenização por danos morais, devidamente atualizada, INPC a partir desta data (Súmula 362 do Superior Tribunal de Justiça), bem como acrescida de juros moratórios de 1% ao mês a contar da citação (artigo 405 do Código Civil).
+O recurso especial devolvera a esta Corte, além da negativa de prestação jurisdicional: a) a prescrição;b) a responsabilidade do construtor; e c) a cobertura dos riscos previstos contratualmente.
+No tocante à prescrição, não conheci do recurso especial pois adialético, o que não fora devidamente impugnado no presente agravo interno, não se podendo, assim, conhecer do agravo interno no que concerne.
+Em que pese a prescriçãopossa ser alegada em qualquer grau de jurisdição, uma vez alegada e examinada pelo Poder Judiciário, mas não devidamente impugnada, não há afastar o fenômeno da preclusão preclusão, a vedar o conhecimento ad eternum da questão sob novos argumentos.
+Oacórdão disse serem os vícios de construção progressivos, continuando a se agravar no decorrer do tempo, não se podendo extrair dos autos que os adquirentes/segurados tivessem ciência de que efetivamente estavam diante de sinistro consubstanciado em vício construtivo.
+Nesse sentido, pontuou o aresto:
+No caso dos autos, o imóvel foi adquirido, mediante contrato particular de compra e venda, aos 28/07/2010, com o segundo promovido econstrutor, ROSTAN OLIVEIRA, e, posteriormente, aos 08/07/2011, os adquirentes firmaram, junto à Caixa Econômica Federal, um contrato de financiamento, mediante o qual aderiram a contrato de seguro com a Caixa Seguradora, que não se confunde com a instituição financeira.
+Segundo os autores narraram nos autos (fl. 03, petição inicial), logo no primeiro ano de moradia, começaram a aparecer trincas nas paredes do imóvel, tendo os mesmos comunicado o fato ao construtor (ROSTAN OLIVEIRA), que providenciou o grampeamento nas paredes sinistradas, acreditando os promoventes que o problema estava resolvido.
+Porém, "no período subsequente", novas trincas surgiram, além de fissuras, nas mesmas paredes "consertadas". Relataram os autores que os problemas se agravaram dia após dia, até que em 20/03/2015 comunicaram o sinistro à seguradora ré, ora apelante, através da Caixa Econômica Federal, tendo sido realizada uma vistoria aos 27/04/2015, com apresentação de laudo datado de 28/04/2015, e resposta de negativa de cobertura datada de 06/05/2015, sob o pálio de que se trata de vícios não cobertos contratualmente.
+Não se pode negar que os vícios de construção são progressivos e continuam a se agravar no decorrer do tempo, razão pela qual se conclui que a pretensão autoral não se encontra fulminada pela prescrição.
+O recurso especial sustentara queos autores demoraram, de modo "estranhável", para ajuizar a ação"decorridos mais de 4 anos desde a ciência inequívoca do sinistro".
+O argumento não impugnadevidamente os fundamentos do acórdão recorrido explicara que houve conserto por parte do construtor e, ainda assim, com o tempo, voltaram a aparecer os danos, que foram se assomando.
+Ademais, a conclusãoé insindicável por esta Corte Superior, pois apoiada apenas nas provas coligidas, na forma do enunciado 7/STJ, o que, novamente, não fora devidamente impugnado.
+No tocante à violação aos arts. 618 e 757 do CCB, reconheci atraído o enunciado 284/STF e, mais uma vez, o agravo limita-se a dizer ter demonstrado a afronta dos dispositivos sem efetivamente evidenciá-la.
+O construtor é responsável pelos danos construtivos e os riscos cobertos são os compreendidos na apólice, não há dúvidas sobre isso. No entanto, tais conclusões não afastam a responsabilidade da seguradora em responder, por força do contrato celebrado, juntamente com o construtor, pela indenização dos vícios construtivos verificados e nem a possibilidade de o contrato se revisado pelo Poder Judiciário, não se tendoindicado dispositivo de lei qualquer acerca da solidariedade reconhecida na instância ordinária.
+O recurso, como ressaltei em sede monocrática, centra-se na existência de omissões, que demonstrou-se inexistirem, e, no mérito, limita-se a aduzir(fls. 540/541e-STJ):
+(..) tem-se por violado o disposto no art. 618 do CCivil, o que impunha ao Colegiado regional manifestação - expressa - sobre a violação em apreço, o que fez para efeito de prequestionamento de preterição de dispositivo de Lei Federal.
+Simplesmente, o TJCE silenciou.
+(..)
+Ao mais, e por derradeiro, é manifesta a ambiguidade do r. Acórdão, suposto que reconhece - textualmente; na fundamentação - a culpa (grave) do construtor e, sem qualquer razão aparente, omite constar, no dispositivo, qual ou em quanto importa sua (construtor) responsabilidade.
+As razões, bem se vêm, eram adialéticas, tendo o recorrente se limitado a transcrever o quanto disposto na lei.
+A formulação de agravo interno sem impugnar devidamente as razões da decisão recorrida, pois a meramente afirmar que os óbices não incidiriam evidencia manifesta improcedência e faz aplicável a multa do art. 1.021, §2º, do CPC, que fixo em 3% sobre o valor da causa atualizado.
+Ante o exposto, não conheço do agravo interno, com aplicação de multa.
+Advirto as partes que a oposição de novos incidentes manifestamente improcedentes e protelatórios dará azo à aplicação de novaspenalidades.
+É o voto.
