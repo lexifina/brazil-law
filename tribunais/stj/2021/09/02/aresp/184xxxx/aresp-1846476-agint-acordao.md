@@ -1,0 +1,65 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+4. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+5. Agravo interno provido para reconsiderar a decisão de fls. 431-433 e-STJ, e agravo em recurso especial desprovido.
+RELATÓRIO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Cuida-se de agravo interno interposto por MARIA HELENA RAIMUNDO DOS SANTOS em face de decisão monocrática da lavra da Presidência desta Corte Superior que não conheceu do agravo em recurso especial.
+O aludido apelo extremo, fundado na alínea "a" e "c" do permissivo constitucional, desafiou acórdão proferido pelo Tribunal de Justiça do Mato Grosso do Sul assim ementado (e-STJ, fls. 264):
+APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE/INEXIGIBILIDADE DE DESCONTO EM FOLHA DE PAGAMENTO/AUSÊNCIA DO EFETIVO PROVEITO CUMULADA COM REPETIÇÃO DE INDÉBITO E DANOS MORAIS - PRELIMINAR DE OFENSA À DIALETICIDADE - REJEITADA - CONTRATAÇÃO VÁLIDA DEMONSTRADA - AUTORA QUE SE BENEFICIOU DO VALOR CONTRATADO - LITIGÂNCIA DE MÁ-FÉ - CARACTERIZADA - REDUÇÃO DO VALOR DA MULTA - VALOR PROPORCIONAL E RAZOÁVEL - SENTENÇA MANTIDA - RECURSO NÃO PROVIDO. Restando comprovada a contratação válida e regular entre as partes, bem como havendo provas de que a demandante beneficiou-se do valor ajustado, resta cristalino que tentou alterar a verdade dos fatos a fim de locupletar-se ilicitamente, devendo ser mantida a condenação por litigância de má-fé. Não há que se falar em redução da multa, porquanto a quantia fixada em primeiro grau encontra-se razoável e proporcional, bem como não se distancia dos montantes mantidos/fixados neste Tribunal.
+Opostos embargos de declaração, esses foram rejeitados (e-STJ, fls. 291-297).
+Nas razões do especial (e-STJ, fls. 299-317), a parte recorrente sustentou violação aos seguintes dispositivos:
+a) arts. 489 e 1022 do Código de Processo Civil de 2015, defendendo, genericamente, que a Corte de origem não sanou omissões supostamente perpetradas pelo acórdão embargado, mesmo diante da oposição dos embargos declaratórios, o que teria configurado negativa de prestação jurisdicional;
+b) arts. 79, 80, 81 e 373 do CPC/15, apontando a inexistência de dolo ou culpa grave que pudessem caracterizar a litigância de má-fé.
+Apontou, ainda, divergência jurisprudencial.
+Oferecidas as contrarrazões às fls. 339-345 (e-STJ).
+Em sede de juízo provisório de admissibilidade, o Tribunal local negou seguimento ao recurso especial (fls. 347-354, e-STJ), o que ensejou o manejo do agravo (fls. 356-369, e-STJ), que não foi conhecido ante a aplicação da Súmula 182/STJ pela Presidência desta Corte Superior (e-STJ, fls. 431-433).
+No presente agravo interno, a agravante sustenta ter impugnado especificamente os fundamentos da decisão de inadmissibilidade do reclamo, razão pela qual defende o conhecimento ao agravo.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DECLARATÓRIA C/C PEDIDO CONDENATÓRIO - DECISÃO MONOCRÁTICA DA PRESIDÊNCIA DESTA CORTE QUE NÃO CONHECEU DO RECLAMO.
+INSURGÊNCIA DA AGRAVANTE.
+1. A parte agravante demonstrou, nas razões do agravo interno, ter impugnado especificamente os fundamentos da decisão de inadmissibilidade proferida na origem, não sendo caso de aplicação da Súmula 182/STJ. Agravo (art. 1042 do CPC/15) conhecido em juízo de retratação.
+2. A alegação de afronta ao artigo ao artigo 1.022 do CPC/15 se deu de forma genérica, circunstância impeditiva do conhecimento do recurso especial, no ponto, pela deficiência na fundamentação. Aplicação da Súmula 284 do STF, por analogia.
+3. A modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+4. A incidência do referido óbice impede o conhecimento do recurso lastreado na alínea "c" do inciso III do art. 105 da Constituição Federal, ante a inexistência de similitude fática. Precedentes.
+5. Agravo interno provido para reconsiderar a decisão de fls. 431-433 e-STJ, e agravo em recurso especial desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator): Embora o agravo interno mereça acolhida, para conhecer do agravo em recurso especial, este não comporta provimento.
+1. Após atenta análise dos autos, verificou-se que a insurgente, nas razões do agravo de fls. 356-369, e-STJ, impugnou todos os fundamentos da decisão de inadmissibilidade do recurso especial proferida pela Corte de origem, de forma que o aludido agravo (art. 1.042 do CPC/15), deve ser conhecido.
+Passa-se à análise da insurgência.
+2. Inicialmente, não se pode conhecer da apontada violação aos arts. 489 e 1.022 do CPC/15, pois as alegações que a fundamentaram são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros sobre os quais tenha incorrido o acórdão impugnado. Incide, no caso, por analogia, a Súmula 284/STF.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. OMISSÃO DA DECISÃO RECORRIDA. SÚMULA 284/STF. COBERTURA SECURITÁRIA. INOPONIBILIDADE DE RESTRIÇÃO CONTRATUAL SEM DESTAQUE À PARTE CONTRÁRIA. SÚMULAS 283/STF E 5 E 7 STJ. PRECLUSÃO. CONHECIMENTO DE MATÉRIA DE ORDEM PÚBLICA (PRESCRIÇÃO) OBJETO DE PRÉVIA DECISÃO NÃO IMPUGNADA. IMPOSSIBILIDADE. PRECEDENTES. AGRAVO DESPROVIDO. 1. A alegação de omissão não prescinde da indicação do vício do acórdão recorrido por ocasião do exame das questões (fáticas ou jurídicas) ou das teses desenvolvidas em torno dos dispositivos legais arrolados, não sendo suficiente a indicação abstrata da pretensão de prequestionamento, sob pena de incidência da Súmula 284/STF. (..) 4. Agravo interno desprovido. (AgInt no AREsp 1352510/PR, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 03/12/2018, DJe 06/12/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO DE COBRANÇA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO DEMANDADO. 1. Não se conhece da alegada violação do art. 1022 do CPC/2015, quando a causa de pedir recursal se mostra genérica, sem a indicação precisa dos pontos considerados omissos, contraditórios, obscuros ou que não receberam a devida fundamentação, sendo aplicável a Súmula 284 do STF. Precedentes. (..) 4. Agravo interno desprovido. (AgInt no AREsp 1702142/GO, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 07/12/2020, DJe 16/12/2020)
+3. No tocante à suposta ofensa aos arts. 79, 80, 81 e 373 do CPC/15, a parte alega a inexistência de dolo ou culpa grave que pudessem caracterizar a litigância de má-fé.
+Sobre o tema, a Corte estadual constatou o seguinte (e-STJ, fl. 266-267):
+Quanto à má-fé processual da parte autora, ela é evidente, porquanto ajuizou a presente demanda, sustentando sofrer desconto em seu benefício previdenciário, proveniente de empréstimo bancário, mas que não teria se beneficiado dessa transação, sendo vítima de fraudadores. Porém, restou evidenciado nos autos que a autora não só contratou referido empréstimo com o apelado (p. 121-127), como também fora liberado em sua conta bancária o montante ajustado (p. 128). Portanto, ante a documentação acostada aos autos ficou cabalmente comprovado que o contrato preenche os requisitos legais de validade, além de comprovado o recebimento do valor consignado, o que demonstra que a recorrente pretendeu com a inicial, aproveitar-se da situação de seus pares, alterando a verdade dos fatos, utilizando-se do processo para locupletar-se ilicitamente, o que revela evidente abuso do direito de ação, condenável com as penas previstas ao litigante de má- fé, tipificado no art. 80 do CPC. Ademais, mesmo após a documentação apresentada nos autos, a recorrente não desistiu da demanda, o que reforça a necessidade de manutenção da condenação em questão e no percentual fixado na sentença. Ora, litigante de má-fé é aquele que altera, de forma consciente e temerária, a verdade dos fatos, a fim de obter vantagem sobre a outra parte. Assim, a conduta da requerente denota efetivamente sua deslealdade processual, nos termos do art. 80, inciso II, do CPC, devendo responder pelo dano processual previsto no art. 81, § 2º, do CPC, às penas por litigância de má-fé, conforme fixada na sentença.
+Dessa forma, a modificação das conclusões a que chegou o Tribunal a quo, quanto à existência de litigância de má-fé, demandaria o revolvimento de suporte fático-probatório dos autos, o que é inviável em sede de recurso especial, a teor da Súmula 7 desta Corte.
+A propósito:
+PROCESSUAL CIVIL E CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC.AÇÃODE RESSARCIMENTO POR COMPRA DE GARAGEM COM METRAGEM INFERIOR À CONTRATADA. ABATIMENTO PROPORCIONAL DO PREÇO. PRAZO DECADENCIAL DE UM ANO. PRECEDENTES.CONDENAÇÃO POR LITIGÂNCIA DE MÁ-FÉ. REFORMA DO JULGADO. ANÁLISE DE MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA Nº 7 DO STJ.DISSÍDIO INTERPRETIVO PREJUDICADO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+(..)
+4. A exclusão da multa por litigância de má-fé depende, na hipótese, da análise do conteúdo fático da demanda, providência que esbarra no óbice da Súmula nº 7 do STJ.
+(..)
+7. Agravo interno não provido.
+(AgInt no AREsp 1809808/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 25/05/2021, DJe 28/05/2021)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  AUTOS DE AGRAVO DE INSTRUMENTO NA ORIGEM  DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSAL DA AGRAVADA.
+(..)
+3. A conclusão a que chegou o Tribunal de origem, relativa à inexistência de alteração da verdade dos fatos, com a consequente exclusão de multa por litigância de má-fé, fundamenta-se nas particularidades do contexto que permeia a controvérsia. Incidência da Súmula 7 do STJ.
+4. Agravo interno desprovido.
+(AgInt no AREsp 1670656/PR, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 22/06/2020, DJe 30/06/2020)
+4. Registre-se, por fim, que, consoante iterativa jurisprudência desta Corte, a incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE DESPEJO. ALEGAÇÃO DE EXISTÊNCIA DE CONTRATO VERBAL DE LOCAÇÃO. NÃO COMPROVAÇÃO. REEXAME DE PROVAS. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO IMPROVIDO. (..) 2. A incidência da Súmula 7 do STJ é óbice também para a análise do dissídio jurisprudencial, o que impede o conhecimento do recurso pela alínea c do permissivo constitucional. Precedentes. 3. Agravo regimental improvido. (AgRg no AREsp 834.644/DF, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 17/03/2016, DJe 12/04/2016)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REEXAME DE FATOS E PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL. PREJUDICADO. SÚMULA 7 DO STJ. 1. Ação de indenização por danos materiais e morais. 2. O reexame de fatos e provas não é possível na via especial, devido ao óbice da Súmula 7 desta Corte. 3. A incidência da Súmula 7 do STJ prejudica a análise do dissídio jurisprudencial pretendido. 4. Agravo interno no agravo em recurso especial não provido. (AgInt no AREsp 1423333/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 29/04/2019, DJe 02/05/2019)
+5. Do exposto, dá-se provimento ao agravo interno,reconsiderandoa decisão de fls. 431-433 e-STJ, para conhecer e negar provimento ao agravo em recurso especial.
+É como voto.
