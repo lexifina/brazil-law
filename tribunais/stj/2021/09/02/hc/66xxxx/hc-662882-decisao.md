@@ -1,0 +1,22 @@
+DECISÃO
+PABLO DANIEL MEDEIROS alega ser vítima de coação ilegal em decorrência acórdão proferido pelo Tribunal de Justiça do Estado de Goiás, que denegou o HC n. 5119581-63.2021.8.09.0000.
+A defesa pretende a soltura do paciente - acusado da suposta prática do crime de receptação qualificada - ou a aplicação de medidas cautelares alternativas à prisão, sob os argumentos de ausência de motivação idônea à conversão da prisão em flagrante em preventiva.
+Decido.
+O Juízo de Direito, ao converter a prisão em flagrante do paciente em preventiva, ofereceu os seguintes fundamentos:
+ ..
+Por sua vez, o indício de autoria é de denotação séria, restando demonstrada através dos depoimentos dos policiais, que estavam investigando o flagranteado por suspeita do crime de tráfico de drogas, e, ao avistarem o portão do galpão onde Pablo trabalha, constataram uma grande quantidade de insumos agrícolas que teriam sido furtados dias antes.
+Segundo os policiais, o flagranteado afirmou ser o responsável pelo galpão, e que seu patrão estaria viajando, sendo que este não tem ciência dos insumos encontrados no local.
+Dito isso, verifico que a manutenção do encarceramento do investigado é imperiosa, tanto em função do perigo que ele representa à ordem pública, quanto em razão do receio de frustração da aplicação da lei penal.
+Deveras, há que se pontuar que o autuado respondeu outras ações, inclusive cumpre pena pelo crime da mesma espécie. É, portanto, razoável acreditar na possibilidade de que, solto, volte ele a praticar crime.
+Observados esses detalhes, as medidas alternativas preconizadas pelo legislador se revelam desproporcional, porque ensejam proteção social deficiente.
+De fato, as medidas alternativas pertinentes que poderiam ser aplicadas, a saber, comparecimento em juízo e não se envolver em outros delitos, não garantem que, uma vez posto em liberdade, não atentará contra a ordem pública e econômica. (fl.85, grifei)
+Em consulta processual realizada aos autos principais na página eletrônica do TJGO, verifico que foi proferida sentença penal condenando o paciente pela prática do crime previsto no art. 180, §1º, do CP a 3 anos de reclusão e 10 dias-multa, em regime inicial fechado, mantendo sua prisão preventiva e negando-lhe o direito de recorrer em liberdade.
+A manutenção da custódia cautelar por ocasião de sentença não possui o condão de tornar prejudicado o habeas corpus em que se busca sua revogação se não foram agregados outros motivos ao decreto prisional, como in casu, motivo pelo qual passo ao exame da impetração.
+Sobre a matéria posta em discussão, faço lembrar que a prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+Na hipótese, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal, indicando motivação suficiente e concreta para decretar a prisão preventiva, sobretudo em razão do risco de reiteração delitiva, já que "o paciente responde a outras ações e cumprepena pelo crime da mesma espécie, se mostrando insuficientes as medidas cautelares diversas da prisão" (fl. 85).
+O STJ, em casos similares, entende que "a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente ostentar maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade" (RHC n. 108.629/MG, Rel. Ministro Antonio Saldanha Palheiro, DJe 11/6/2019).
+Nas hipóteses em que a dinâmica dos fatos e as demais circunstâncias do caso revelem a maior reprovabilidade da conduta investigada, tais dados são suficientes para demonstrar a necessidade de garantia da ordem pública e, por isso mesmo, constituem fundamento idôneo para a custódia provisória.
+Portanto, por iguais fundamentos as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
