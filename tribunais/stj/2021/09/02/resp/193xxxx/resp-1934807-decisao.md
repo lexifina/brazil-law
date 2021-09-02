@@ -1,0 +1,57 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por MUNICÍPIO DE JUIZ DE FORA contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS assim ementado:
+APELAÇÃO CÍVEL - AÇÃO DE COBRANÇA - MUNICÍPIO DE JUIZ DE FORA - PRELIMINAR - CERCEAMENTO DE DEFESA - REJEITADA - REGIME DE PLANTÃO - ESCALA 12X36 - HORAS EXTRAS - COMPROVAÇÃO- CABIMENTO - DIVISOR 220 - BASE DE CÁLCULO - VENCIMENTO BÁSICO - ADICIONAL NOTURNO - ENUNCIADO Nº 33 DO TJ/MG - SÚMULA 213 STF - LABOR EM PERÍODO NOTURNO COMPROVADO- VERBA DEVIDA.
+- No âmbito do Município de Juiz de Fora, a Lei Municipal 8.710/95, em seu artigo 76, estabeleceu a necessidade de pagamento pelas horas extras prestadas à Municipalidade sendo a remuneração superior em 50% (cinquenta por cento) a do serviço normal, quando prestado em dias úteis e em 100% (cem por cento) quando prestado em domingos e feriados.
+- A escala 12X36 equivale a jornada de 44 horas semanais e diante do seu caráter compensatório deve ser aplicado o divisor 220.
+- A base de cálculo para o cálculo da jornada extraordinária corresponde ao valor do vencimento base, nos termos do artigo 37, inciso XIV da Carta Magna que estabelece que "os acréscimos pecuniários percebidos por servidor público não serão computados nem acumulados, para fins de concessão de acréscimos ulteriores, sob o mesmo título ou idêntico fundamento".
+- O adicional por trabalho noturno é direito assegurado aos trabalhadores no inciso IX do art. 7º da Constituição Federal estendendo-se aos servidores públicos for força do disposto no § 3º do art. 39 do mesmo diploma.
+- Nos termos do artigo 80 da Lei Municipal nº 8.710/95 é devido o pagamento do adicional noturno quando o serviço laborar em horário compreendido entre 22 (vinte e duas) horas de um dia e 5 (cinco) horas do dia seguinte. O valor-hora será acrescido de 25% (vinte e cinco por cento), computando-se cada hora como cinquenta e dois minutos e trinta segundos.
+- A Súmula 213 do Supremo Tribunal Federal dispõe que "é devido o adicional de serviço noturno, ainda que sujeito o empregado ao regime de revezamento."
+Os embargos de declaração opostos foram rejeitados (e-STJfls. 505-512 e 536-545).
+O recorrente aponta violação do art. 85, §§ 4º e 11, do CPC. Aduz que " ..  o percentual dos honorários deve ser fixado quando o julgado for liquidado, sendo que nos autos em comento, a condenação resta ilíquida, tendo como base principalmente a própria natureza da ação e o que nela se pleiteia" (e-STJfl. 635).
+Acrescenta queo percentual de honorários só pode ser fixado ou majorado em grau recursal se forem arbitrados em sentença. Ademais, " ..  apesar da não existência de sucumbência mínima (que enseja o arbitramento total para outra parte), o percentual dos honorários foi fixado acima do limite legal, desproporcionalmente e de maneira intempestiva" (e-STJfl. 638).
+Sem contrarrazões.
+É o relatório.
+Tem-se, na origem, ação de cobrança ajuizada por servidor público pretendendo o pagamento de verbas salariais, cujo pedido foi julgado improcedente pelo juiz.
+O Tribunala quoreformou a sentença " ..  a fim de conceder ao apelante a indenização referente às horas extras prestadas em turno noturno, nos termos do artigo 80 da Lei Municipal nº 8.710/95, ou seja, valor-hora acrescido de 25% (vinte e cinco por cento), computando-se cada hora como cinquenta e dois minutos e trinta segundos, respeitada a prescrição quinquenal" (e-STJfl. 480).
+Relativamente aos honorários advocatícios, estabeleceu o seguinte (e-STJfl. 481):
+Diante da reforma na sentença e da sucumbência recíproca, condeno o Apelante ao pagamento de 20% (vinte por cento) dos honorários e das custas recursais, devendo o Município arcar com os 80% (oitenta por cento) restantes.
+A definição dos honorários advocatícios, como previsto no § 11 do art. 85 do CPC, se dará quando da liquidação do julgado.
+Suspensa a exigibilidade das custas e honorários recursais em relação à parte apelante por estar litigando sob o pálio da gratuidade de justiça.
+No julgamento dos aclaratórios, acrescentou-se (e-STJfls. 541-542):
+No caso em análise o acórdão deu parcial provimento ao recurso voluntário e diante da reforma na sentença e da sucumbência recíproca condenou o apelante ora embargado ao pagamento de 20%(vinte por cento) dos honorários e das custas recursais, devendo oMunicípio arcar com os 80% (oitenta por cento) restantes, observando o artigo 86 acima transcrito (distribuição da sucumbência).
+Registre-se que o direito ao recebimento dos honorários de sucumbência pertence ao procurador, sendo que na decisão final do processo deverá constar a condenação da parte vencida na obrigação de pagar à parte vencedora.
+In casu, por ser a sentença ilíquida os honorários advocatícios, como previsto no § 11 do art. 85 do CPC, se dará quando da liquidação do julgado.
+A controvérsia, observa-se, não diz respeito à liquidez ou não da obrigação. Reclama a parte que, uma vez definida a iliquidez, descabe a fixação do percentual nesse momento processual, além da ordem de majoração dos honorários em razão do recurso.
+O art. 85, § 4º, II, do CPC tem a seguinte redação:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+ ..
+§ 4º Em qualquer das hipóteses do § 3º:
+ ..
+II - não sendo líquida a sentença, a definição do percentual, nos termos previstos nos incisos I a V, somente ocorrerá quando liquidado o julgado.
+O Tribunala quo, como se extraidas transcrições acima, não descumpriu a norma. Afinal, ele não fixou o percentual dos honorários advocatícios. As referências de 20% e 80% são relativas à sucumbência, ou seja, o autor responderá por 20% do valor a ser fixado a título de verba advocatícia, ao passo que o ente público responderá por 80%.
+Por isso, ao afirmar uma situação que não está descrita no acórdão recorrido, o recurso especial é deficiente no ponto, tendo aplicação o teor da Súmula 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Distinto, porém, é o problemada majoração da verba com base no § 11 do art. 85 do CPC.
+A Corte Especial do Superior Tribunal de Justiça estabeleceu que a providência é devida quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18/3/2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+Segue a ementa do precedente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FUNDAMENTAÇÃO MONOCRÁTICA NÃO ATACADA. INADMISSIBILIDADE. REGRA TÉCNICA DE CONHECIMENTO RECURSAL. INCIDÊNCIA DA SÚMULA 315/STJ. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO § 11 DO ART. 85 DO CÓDIGO DE PROCESSO CIVIL. VIABILIDADE. RECURSO NÃO PROVIDO.
+1. Não se admite a interposição de Embargos de Divergência na hipótese de não ter sido analisado o mérito do Recurso Especial, conforme a Súmula 315/STJ.
+2. A questão que sobeja em divergência é quanto ao cabimento ou não de honorários de advogado nesta fase recursal, novidade instituída pelo Novo Código de Processo Civil.
+3. Os critérios de cabimento dos honorários advocatícios recursais, previstos no § 11 do art. 85 do novo CPC, já foram tema de discussão na Terceira Turma, na sessão de 4 de abril de 2017, no julgamento dos EDcl no AgInt no REsp 1.573.573/RJ, o que levou à uniformização do tema no âmbito daquele órgão julgador.
+4. Tais critérios foram reavaliados pela Segunda Seção, no julgamento do AgInt nos Embargos de Divergência em REsp 1.539.725-DF, os quais passam a ser adotados como entendimento desta egrégia Corte Especial.
+5. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+6. Não haverá honorários recursais no julgamento de Agravo Interno e de Embargos de Declaração apresentados pela parte que, na decisão que não conheceu integralmente de seu recurso ou negou-lhe provimento, teve imposta contra si a majoração prevista no § 11 do art. 85 do CPC/2015.
+7. Com a interposição de Embargos de Divergência em Recurso Especial tem início novo grau recursal, sujeitando-se o embargante, ao questionar decisão publicada na vigência do CPC/2015, à majoração dos honorários sucumbenciais, na forma do § 11 do art. 85, quando indeferidos liminarmente pelo relator ou se o colegiado deles não conhecer ou negar-lhes provimento.
+8. Quando devida a verba honorária recursal, mas, por omissão, o Relator deixar de aplicá-la em decisão monocrática, poderá o colegiado, ao não conhecer do respectivo Agravo Interno ou negar-lhe provimento, arbitrá-laex officio, por se tratar de matéria de ordem pública, que independe de provocação da parte, não se verificandoreformatio in pejus.
+9. Da majoração dos honorários sucumbenciais promovida com base no § 11 do art. 85 do CPC/2015 não poderá resultar extrapolação dos limites previstos nos §§ 2º e 3º do referido artigo.
+10. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para quantificação de tal verba.
+11.In casu, denota-se: a) a majoração da verba, no caso que ora se examina, decorre da inadmissão dos Embargos de Divergência - o que, como visto, trouxe novo grau recursal com sua interposição; b) a lei não exige comprovação do efetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários. O trabalho adicional realizado pelo advogado da parte recorrida, em grau recursal, deve ser tido como critério de quantificação, e não como condição para majorar os honorários.
+12. Quanto à matéria, precedentes do Pretório Excelso: ARE 898.896 AgR-EDv-AgR/RJ - Relator Ministro Dias Toffolli, julgado em 24/02/2017, Tribunal Pleno, DJe de 15/3/2017; ARE 859.077 AgR-ED-EDv-AgR/AC - Relator Ministro Marco Aurélio, julgado em 23/03/2017, Tribunal Pleno, DJe de 29/5/2017.
+13. Cabível a majoração dos honorários recursais em desfavor da parte insurgente, nos termos da decisão agravada.
+14. Agravo Interno não provido.
+(AgInt nos EAREsp 762.075/MT, Rel. Min. FELIX FISCHER, Rel. p/ Acórdão Min. HERMAN BENJAMIN, CORTE ESPECIAL, julgado em 19/12/2018, DJe 7/3/2019).
+Na espécie, muito embora tenham sidos fixados os honorários advocatícios na primeira instância, houve reforma da sentença para julgar parcialmente procedente o pedido, o que impôs nova condenação em termos diversos. Inexistiu, portanto,"recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente".
+É descabida, por isso, a determinação de aumento da verba em consequência de recurso.
+Ante o exposto, com fulcro no art. 932, III e V, do CPC/2015, c/c o art. 255, § 4º, I e III, do RISTJ, conheço em parte do recurso especial e, nessa extensão, dou-lhe provimentopara afastar a ordem de majoração por honorários advocatícios recursais.
+Publique-se. Intimem-se.
