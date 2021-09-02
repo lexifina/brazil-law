@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSO CIVIL. HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO JUDICIAL. IMPUGNAÇÃO GENÉRICA DO CÁLCULO APRESENTADO PELOS CREDORES. REEXAME. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1.Para o acolhimento do recurso, seria imprescindível derruir asconclusões contidas no julgado atacado, o que, forçosamente, demandaria nova incursão noconjunto fático-probatório, incidindo, na espécie, a Súmula 7 desteTribunal Superior a impedir o conhecimento do recurso especial.
+2.Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Espólio de Rafael Cordeiro Justus, representado por Roberto Eloi Todeschini - Inventariante, contra decisão proferida pela Presidência do Superior Tribunal de Justiça, que conheceu do agravo para não conhecer do recurso especial, ante a impossibilidade de reexame de provas, incidindo a Súmula n. 7/STJ (e-STJ, fls. 189-192).
+Em suas razões (e-STJ, fls. 195-202), o agravantesustentanão haver incidência da Súmula n. 7/STJ, uma vez que a real pretensão é demonstrar a violação dos arts. 525 e 642 do Código de Processo Civil de 2015. Aduz que, para que se faça prova da existência efetiva de débito, é necessário basicamente a apresentação de cópia efetiva de todo o processo.
+Foi apresentada impugnação (e-STJ, fls. 205-209).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.PROCESSO CIVIL. HABILITAÇÃO DE CRÉDITO EM INVENTÁRIO JUDICIAL. IMPUGNAÇÃO GENÉRICA DO CÁLCULO APRESENTADO PELOS CREDORES. REEXAME. SÚMULA 7/STJ. MANUTENÇÃO DA DECISÃO DA PRESIDÊNCIA. AGRAVO INTERNO DESPROVIDO.
+1.Para o acolhimento do recurso, seria imprescindível derruir asconclusões contidas no julgado atacado, o que, forçosamente, demandaria nova incursão noconjunto fático-probatório, incidindo, na espécie, a Súmula 7 desteTribunal Superior a impedir o conhecimento do recurso especial.
+2.Agravo interno desprovido.
+VOTO
+Constata-se que o agravantenão trouxenenhuma argumentação capaz de modificar a conclusão da deliberação unipessoal da Presidência desta Corte.
+Conforme consignado na decisão agravada,o Tribunal de origem se manifestou nos seguintes termos (e-STJ, fls. 73-74):
+A impugnação apresentada pelo Agravante é extremamente genérica. Não indica, objetivamente, a origem do excesso alegado, tampouco apresenta, através de demonstrativo discriminado (art. 525, § 4º, CPC), a maneira como chegou ao valor que entende correto. Por outro lado, a Agravada acostou à inicial do pedido de habilitação um cálculo minucioso (mov. 1.10 dos autos de origem), com a evolução individualiza de cada uma das parcelas que compõem o débito, e indicação dos parâmetros utilizados na sua elaboração, em respeito às decisões judiciais objetos do cumprimento de sentença.
+Neste contexto, correto o entendimento do Juízo de origem, que rejeitou a alegação deexcesso em função da ausência de suporte probatório mínimo.
+O Agravante alega, também, que não há "prova da constituição do título" que dá origem ao crédito habilitado. Afirma que "não se localizou nos autos a prova literal da dívida". Novamente sem razão. O crédito objeto do pedido de habilitação tem origem em condenação judicial da empresa na qual o figurou como sócio (movs. 1.6, 1.7, 1.8 e 1.9 dos autos de origem), bem como na decisão pela de cujus qual houve a desconsideração da personalidade jurídica da sociedade, com expressa determinação para o redirecionamento da execução contra o autor da herança (mov. 1.90 dos autos de cumprimento de sentença - nº 0012489-07.8.16.0001).
+Registre-se que o Agravante não impugna especificamente as decisões que determinam a responsabilidade do espólio pelo crédito, mas afirma, genericamente, que não foi apresentado "título" sobre o débito, alegação que, como registrado acima, à evidência dos documentos apresentados pelos credores, e demais documentos contidos nos autos de cumprimento de sentença, não merece prosperar. Neste contexto, não apresentado qualquer elemento concreto que justifique a reforma da decisão agravada, impõe-se a sua confirmação e o não provimento do pedido recursal.
+Nesse contexto, a revisão das conclusões a que chegou o Colegiado estadual reclama a incursão no contexto fático-probatório dos autos, providência inviável no âmbito do recurso especial, o que torna inarredável a incidência do óbice da Súmula n. 7/STJ.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. DEFICIÊNCIA NA INSTRUÇÃO DE AGRAVO DE INSTRUMENTO. AFERIÇÃO QUANTO À ESSENCIALIDADE DO DOCUMENTO. REEXAME NECESSÁRIO. INCIDÊNCIA DA SÚMULA 7/STJ.CUMPRIMENTO DE SENTENÇA. PENHORA DE PROVENTOS DE SALÁRIO.RELATIVIZAÇÃO DA REGRA DA IMPENHORABILIDADE. TRIBUNAL A QUO RECONHECEU QUE A CONSTRIÇÃO DE PERCENTUAL DE SALÁRIO VISA GARANTIR A EFETIVIDADE DA EXECUÇÃO E NÃO COMPROMETE A SUBSISTÊNCIA DIGNA DO RECORRENTE. ALTERAÇÃO DO JULGADO. SÚMULA 7/STJ.
+1. O STJ também possui orientação no sentido de que o Agravo de Instrumento deve ser formado com as peças essenciais à compreensão da controvérsia, além das qualificadas como obrigatórias pela norma processual (art. 525 do CPC).
+2. Contudo, a alteração do entendimento da instância ordinária quanto à necessidade da documentação não trasladada mostra-se inviável, ante o óbice da Súmula 7/STJ.
+3. No mais, o propósito recursal é definir se, na hipótese, é possível a penhora de 30% (trinta por cento) do salário do recorrente para o pagamento de dívida de natureza não alimentar.
+4. No tocante à impenhorabilidade preconizada no art. 649, IV, do CPC/1973, o STJ pacificou o entendimento de que a referida impenhorabilidade comporta exceções, como a que permite a penhora nos casos de dívida alimentar, expressamente prevista no parágrafo 2º do mesmo artigo, ou nos casos de empréstimo consignado, limitando o bloqueio a 30% (trinta por cento) do valor percebido a título de vencimentos, soldos ou salários. 5. Em situações excepcionais, admite-se a relativização da regra de impenhorabilidade das verbas salariais prevista no art. 649, IV, do CPC/73, a fim de alcançar parte da remuneração do devedor para a satisfação do crédito não alimentar, preservando-se o suficiente para garantir a sua subsistência digna e a de sua família.
+6. Na espécie, em tendo a Corte local expressamente reconhecido que a constrição de percentual de salário do recorrente visa garantir a efetividade da execução e não compromete a sua subsistência digna, inviável mostra-se a alteração do julgado, uma vez que, para tal mister, seria necessário o revolvimento do conjunto fático-probatório dos autos, inviável ao STJ em virtude do óbice de sua Súmula 7.
+7. Recurso Especial não conhecido.
+(REsp n. 1.741.001/PR, RelatorMinistro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 12/6/2018, DJe 26/11/2018).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
