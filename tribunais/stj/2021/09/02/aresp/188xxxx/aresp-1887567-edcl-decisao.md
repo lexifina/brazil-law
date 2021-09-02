@@ -1,0 +1,19 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por RODRIGO DE AVELAR COSTA em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fls. 1216/1218):
+A decisão interlocutória monocrática, ora embargada, está obscura no seguinte ponto:
+"Cuida-se de agravo em recurso especial apresentado por RODRIGO DE AVELAR COSTA contra decisão que inadmitiu recurso especial interposto com fundamento no art. 105, inciso III, da Constituição Federal."
+ ..
+A obscuridade em tais pontos consiste que houve julgado paradigma, do Supremo Tribunal Federal inclusive, colacionado no recurso especial interposto pelo Embargante, não tendo qualquer lógica e pertinência as Súmulas 211, 83, 7 do Superior Tribunal de Justiça e 284 do Supremo Tribunal Federal, sordidamente alegadas pelo Tribunal a quo para eliminação absurda e fácil do direito recursal do Embargante e do processo, numa flagrante tirania, parcialidade, tendenciosidade, autoritarismo, ditadura e ativismo judicial, conforme ensina a Magistrada Ludmila Lins Grilo nos vídeos dos link"s https://www.youtube.com/watch v=Cca1ZZAHR80, https://www.youtube.com/watch v=EiXqruL6OeQ, https://www.youtube.com/watch v=m3-gNiC1g-I, não havendo, pois, que se falar em impugnação específica dos fundamentos ilógicos e impertinentes da decisão recorrida de eliminação absurda e fácil do direito recursal do Embargante e processo, conforme dito.
+ ..
+Logo, tais obscuridades devem ser esclarecidas, para que seja possível o respeito ao pleno e formal exercício do direito constitucional recursal do Embargante.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente os fundamentos da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 211/STJ, Súmula 83/STJ, Súmula 7/STJ e ausência de indicação dos acórdãos paradigmas para ilustrar a divergência - Súmula 284/STF.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020).
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, os EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
