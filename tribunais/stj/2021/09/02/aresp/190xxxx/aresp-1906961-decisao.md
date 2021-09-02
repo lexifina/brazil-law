@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo interposto por CIDINEI ANGELO DE OLIVEIRA contra decisão doTRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ, o qual não admitiu recurso especial fundado na alínea "a"do permissivo constitucional.
+No recurso especial obstaculizado, a parte apontou vulneração a preceitos legais.
+Após contrarrazoado, oapelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, tendo sido os fundamentos da decisão atacados no presente recurso.
+Passo a decidir.
+Verifico que a pretensão não merece prosperar.
+Tal como assinalado na decisão agravada, o apelo nobre manejado somente em 21/01/2021 é intempestivo,porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos dos arts. 219 e 1.003, § 5º, do Código de Processo Civil de 2015.
+É certo que não se faz necessária a comprovação de feriados nacionais, entretanto, é imperiosa a demonstração de feriado local ou suspensão do prazo processual no Tribunal a quo por documento idôneo na data da interposição do recurso, nos termos do art. 1.003, § 6º, do CPC/2015, o que não ocorreu na espécie.
+Esta Corte tem firme a compreensão de que aocorrência de feriado local, recesso, paralisação, interrupção do expediente forense ou indisponibilidade do sistema eletrônico da Corte local deverá ser comprovada no ato da interposição do recurso na vigência do CPC de 2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PANDEMIA. SUSPENSÃO DE PRAZO. COMPROVAÇÃO COM A INTERPOSIÇÃO DO RECURSO. JUNTADA POSTERIOR. IMPOSSIBILIDADE.
+1. O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido: AgInt nos EDcl no AREsp 1.553.768/RJ, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe de 27.4.2020; AgInt nos EDcl no AREsp 1.379.051/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 3.10.2019; AgRg nos EDcl no REsp 1.819.067/SC, Rel. Min. Herman Benjamin, Segunda Turma, DJe de 5.9.2019.
+2. No caso concreto, a parte recorrente foi intimada da decisão em 20.3.2020 (fl. 536, e-STJ), tendo sido interposto o recurso somente em 21.8.2020 (fl. 538, e-STJ). Assim, o recurso é manifestamente intempestivo, porquanto interposto fora do prazo, nos termos do art.1.003, § 5º, c/c o art. 219, caput, do Código de Processo Civil.
+3. Em razão da pandemia relativa à Covid-19, os prazos processuais foram suspensos no período de 19/3/2020 a 30/4/2020, conforme Resolução do CNJ 313, de 19 de março de 2020, voltando a fluir o prazo, para os processos eletrônicos, em 4/5/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1.795.411/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 26/04/2021, DJe 1º/07/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECESSO FORENSE. INTIMAÇÕES. RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015 SEM A DEVIDA COMPROVAÇÃO DA OCORRÊNCIA DE FERIADO LOCAL NO ATO DE INTERPOSIÇÃO DO APELO. INTEMPESTIVIDADE EVIDENCIADA.
+1. Conforme consta do Enunciado Administrativo n. 3, do Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+2. Caso em que o agravante se insurge contra decisão da Presidência do STJ que não não conheceu do recurso, porquanto intempestivo.
+3. Nos termos do § 1º do artigo 220 do CPC/2015, ressalvados os feriados instituídos por lei, os juiz, os membros do Ministério Público Público, da Defensoria Pública e da Advocacia Pública e os auxiliares da Justiça exercerão suas atribuições durante o período previsto no caput (20 de dezembro e 20 de janeiro, inclusive), ou seja, não impedindo que publicações sejam realizadas . Portanto, em que pese a suspensão dos prazos processuais nesse interregno, não há que se falar em dia não útil.
+3. Por sua vez, o inciso I do artigo 62 da Lei 5.010/1966, que disciplina a organização da Justiça Federal, elenca como feríado o período de 20 dezembro a 6 de janeiro.
+5. Na espécie, a intimação eletrônica do recorrente ocorreu em 2/1/2019, devendo-se considerar efetivamente realizada em 7/1/2019, primeiro dia útil subsequente ao término do feriado previsto no inciso I do artigo 62 da Lei 5.010/1966.
+6. Assim, o prazo recursal teve início a partir do dia 21/1/2019, ou seja, imediatamente após a suspensão dos prazos, disciplinada pelo artigo 220 do CPC/2015, esgotando-se no dia 8/2/2019. O apelo nobre foi interposto apenas em 11/2/2019, de fato, extemporâneo.
+7. Agravo interno não provido.
+(AgInt no REsp 1.816.627/PE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 23/11/2020, DJe 27/11/2020).
+Ante o exposto, com base no art. 253, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a majoração dessaverba, em desfavor da parte recorrente, no importe de 10% (dez por cento) sobre o valor já arbitrado, nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
