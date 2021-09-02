@@ -1,0 +1,34 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COLETIVA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Agravo interno desprovido.
+RELATÓRIO
+EXMO. SR. MINISTRO MARCO BUZZI:
+Trata-se de agravo interno interposto por HIRTELA EMPREENDIMENTOS IMOBILIÁRIOS LTDA, em face da decisão proferida às fls. 653/655 (e-STJ), que afastou a alegação de negativa de prestação jurisdicional pela inexistência de origem.
+Em suas razões (fls. 659/669, e-STJ), a insurgente reitera a tese de violação do art. 1.022 do NCPC pela Corte Estadual. Requer, assim, a reconsideração da decisão ora agravada.
+Sem impugnação.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO COLETIVA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.
+INSURGÊNCIA DA PARTE DEMANDADA.
+1. As questões postas em discussão foram dirimidas pelo Tribunal de origem de forma suficiente, fundamentada e sem omissões, devendo ser afastada a alegada violação ao artigo 1022 do CPC/15. Consoante entendimento desta Corte, não importa negativa de prestação jurisdicional o acórdão que adota, para a resolução da causa, fundamentação suficiente, porém diversa da pretendida pela recorrente, decidindo de modo integral a controvérsia posta. Precedentes.
+2. Agravo interno desprovido.
+VOTO
+EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+O inconformismo não merece prosperar.
+1. Sobre o tema aviado em sede de aclaratórios na origem, assim se manifestou a Corte Estadual:
+A preliminar de ilegitimidade ativa está preclusa.
+A r. sentença claramente afastou a alegação de ilegitimidade ativa da autora, ficando consignado que: "A preliminar de ilegitimidade ativa não prospera. A alegação de que o empreendimento já foi concluído é irrelevante, porque a ação coletiva não fica restrita aos que já contrataram, mas abrange eventuais relações jurídicas com futuros contratantes. A matéria vinda como preliminar de inépcia da petição inicial" sob o fundamento de falta de representação do número restrito de consumidores (página 228, especificamente), na verdade não aponta defeito na peça inicial. Logo não seria caso de inépcia, até porque tudo indica que as requeridas pretenderam invocar ilegitimidade da autora para defender interesses dos consumidores, o que já está afastado e ainda será fundamentado com transcrição de jurisprudência" (fls. 254). Assim, competiria à parte ter suscitado a questão em preliminar de apelação ou contrarrazões de apelação, na forma do art. 1.009, §§ 1" e 2", do Código de Processo Civil:(..) Pontua-se que, ressalv ados entendimentos em sentidos diversos, não impede a preclusão o fato de se tratar de matéria reconhecível de ofício e a qualquer tempo (art. 485, IV e §3º, do Código de Processo Civil). A partir do momento que a questão, que era reconhecível de ofício e a qualquer tempo, foi decidida, não havendo a apresentação do recurso adequado, há preclusão.(..) Dessa forma, constatada decisão anterior irrecorrida acerca da preliminar de ilegitimidade ativa, vedado o reexame da questão.(..) Como a lide foi decidida com argumentos contrários aos defendidos pelo embargante, não há que se falarem prequestionamento de dispositivos que não foram adotados na fundamentação.
+Pelo exposto, rejeita-se os embargos de declaração.
+Ademais, como bem ponderou o Parquet Federal às fls. 647/651 (e-STJ), no julgamento de apelação, a instância a quo ponderou que o desfazimento do negócio jurídico poderia ocorrer após a quitação do contrato, além de que há risco de que as cláusulas abusivas constantes do negócio jurídico objeto dos autos alcancem futuros adquirentes das unidades imobiliárias (fls. 353/354, e-STJ):
+"Além disso, o fato de grande parte das unidades já ter sido entregue não impede que o contrato venha a ser posteriormente rescindido por diversos motivos. A alegação de que a rescisão se dá antes de quitado o contrato e recebidas as chaves não passa de mera suposição das requeridas, não se podendo ter absoluta certeza de que, futuramente, não haja qualquer pedido de desfazimento do negócio. Merecem transcrição , ainda, as considerações da D. Procuradoria Geral de Justiça sobre as preliminares ventiladas no apelo: Já no que se refere à preliminar de falta de interesse processual da Associação apelada, fundamentada no fato de que o projeto imobiliário em questão já se encontrava finalizado quando da propositura da ação, bem como 143 ( cento e quarenta e três), das 144 (cento e quarenta e quatro) unidades do empreendimento, já haviam sido comercializadas e as respectivas chaves entregues aos contratantes, tal não merece prosperar. Isso porque, a cláusula abusiva constante no contrato em tela é prejudicial tanto para um, quanto para os 144 consumidores, bem como para eventuais futuros adquirentes das unidades imobiliárias, subsistindo a abusividade, inclusive em hipóteses de cumprimento e adimplemento regular do contrato. Indiscutível, portanto, que os interesses em tela englobam tanto os de caráter coletivo estrito sensu, como difusos, e que o interesse processual da Associação apelada é corroborado pela busca de decisão favorável do Poder Judiciário que beneficiará e protegerá um número indeterminado de consumidores em relação às peculiaridades abusivas presentes no contrato.
+Ademais, trata-se de contrato padrão utilizado pelas apelantes em todos os empreendimentos imobiliários que oferecem ao mercado de consumo. Utilizam daquelas cláusulas abusivas na contratação de todas as unidades imóveis que comercializaram, gozando suas vantagens até o momento em que proibida pela decisão liminar de fls. 74/75. Ressalta-se que tal decisão liminar foi mantida em sede de recurso de agravo de instrumento por esta Colenda Câmara (acórdão de fls. 213/216)."
+Não há que se falar em nulidade do acórdão recorrido, afastando-se, portanto, a alegação de violação aos arts. 489 e 1.022 do NCPC.
+De rigor, portanto, a manutenção da decisão ora agravada.
+2. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
