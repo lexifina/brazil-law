@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se recurso especial interposto por THIAGO SIQUEIRA DE MIRANDA,com fundamento na alínea "a"do permissivo constitucional,contra acórdão proferido pelo Tribunal de Justiça do Distrito Federal e Territórios.
+A controvérsia foi bem relatada pelo ParquetFederal em seu parecer, in verbis (e-STJ fls. 120/121):
+Trata-se de Recurso Especial interposto por THIAGO SIQUEIRA DE MIRANDA, com fundamento no art. 105, inciso III, alínea "a", da Constituição Federal, contra acórdão do Tribunal de Justiça do Distrito Federal e Territórios, que negou provimento ao recurso de agravo em execução da defesa, assim ementado (fl. 82 e-STJ):
+RECURSO DE AGRAVO. EXECUÇÃO PENAL. DIREITO DE VISITA. IRMÃO. CUMPRIMENTO DA PENA EM REGIME ABERTO. CONTATO COM PRESOS. IMPOSSIBILIDADE. ARTIGO 6o DA PORTARIA  8/2016 DA VEP. RECURSO DESPROVIDO.
+I - Deve ser mantida a decisão que veda ao interno o direito de visita de seu irmão quando ele está em cumprimento de pena no regime aberto, na espécie de prisão domiciliar, haja vista não ser salutar ao seu processo de reeducação (art. 6o da Portaria nº 8/2016 da VEP).
+II - O direito de visita aos internos não é absoluto ou irrestrito, podendo ser restringido ou suspenso, conforme as circunstâncias do caso concreto.
+III - Recurso conhecido e desprovido.
+Consta dos autos que o ora recorrente, THIAGO SIQUEIRA DE encontra-se recolhido na Penitenciária do Distrito Federal - PDF II, cumprindo pena em regime fechado.
+O Juízo da Vara de Execuções Penais do Distrito Federal indeferiu visita formulado por Paulo André Siqueira de Miranda, irmão do orarecorrente, sob o argumento de que o peticionário cumpre pena em regime aberto.
+A defesa de THIAGO SIQUEIRA DE MIRANDA interpôs agravo em execução, sustentando "que a Lei de Execuções Penais prevê, em seu artigo 41, inciso X, o direito de o preso receber visitas de familiares, independentemente de possuir outros visitantes cadastrados. Afirma que o indeferimento das visitas viola o direito de ir e vir do agravante, assim como, o artigo 5o, inciso LXIII, artigo 226 e artigo 227, todos da Constituição Federal. Requer, com isso, o provimento do recurso para que seja autorizada a visita de seu irmão Paulo André Siqueira de Miranda." (fl. 83 e-STJ).
+O Tribunal de origem negou provimento ao recurso.
+A defesa interpôs recurso especial, alegando violação ao art. 41, inciso X e art. 1o, ambos da Lei nº 7.210/84 e ao art. 1o do Código Penal. Sustentaser inidôneo "embasar o indeferimento do direito de visita do irmão do recorrente no art. 41, parágrafo único, da LEP, pois a limitação ou a suspensão de que trata este artigo refere-se a uma sanção disciplinar para o preso e não para os visitantes." (fl. 92 e-STJ). Acrescenta que a condenação só restringe os direitos atingidos pelos efeitos da sentença. Portanto, a condenação do irmão do recorrente não é fundamento para justificar o indeferimento do pedido de visita. Assim, requer o conhecimento e provimento do recurso para que seja assegurado ao recorrente o direito de visita de seu irmão.
+O presidente do Tribunal de Justiça do Distrito Federal e Territórios admitiu o recurso especial.
+Vieram os autos para manifestação deste Ministério Público Federal.
+É o relatório.
+Opinou, então, o órgão ministerialpelo provimento do recurso.
+É o relatório.
+Decido.
+Acerca do direito de visita, assentou o Tribunal de origem, in verbis(e-STJ fls. 83/85, grifei):
+Inicialmente, é de se registrar que o Magistrado indeferiu o direito de visitação ao irmão do agravante, em razão dele estar cumprindo reprimenda em regime aberto, e estar em processo de reeducação, não sendo, portanto, adequado que mantenha contato com pessoas que estejam cumprindo pena.
+Como cediço, é direito do egresso receber visitas de seus familiares, conforme previsto no artigo 41, inciso X, da Lei de Execução Penal. Entretanto, tal direito não é absoluto, pois o parágrafo único do mesmo artigo disciplina que "os direitos previstos nos incisos V, X e XV poderão ser suspensos ou restringidos mediante ato motivado do diretor do estabelecimento".
+No presente caso, vislumbro óbice à visitação do irmão do agravante, pois ele foi condenado pela prática do delito descrito artigo 14, caput, do Estatuto do Desarmamento, à pena de 2 (dois) anos de reclusão, a ser cumprida no regime inicial semiaberto. Além disso, verifica-se que em 13 de julho de 2018, a ele foi concedido cumprimento da pena em regime aberto, na espécie de prisão domiciliar.
+Diante deste cenário, entendo correta a decisão do d. Juiz da Vara de Execuções Penais ao indeferir o pedido de visitação do irmão do recorrente, haja vista estar em cumprimento de pena no regime aberto, sendo certo que, não seria salutar para o seu processo de ressocialização ter contato com pessoas que estejam cumprindo pena.
+Importa destacar que o pleito encontra vedação no disposto no artigo 6o da Portaria nº 8/2016 da Vara de Execuções Penais que assim estabelece: "E vedada a realização de visita por pessoa que esteja cumprindo pena em regime carcerário aberto ou em gozo de Livramento Condicionar.
+ ..
+Não se pode esquecer que o direito de visita aos internos não é absoluto ou irrestrito, podendo ser restringido ou suspenso conforme as circunstâncias do caso concreto.
+Há que se ressaltar que a restrição ao direito de visita foi vinculada ao irmão do agravante, ante as especificidades do caso concreto, não existindo nenhuma ofensa aos dispositivos legais citados, hajavista que outras pessoas podem visitá-lo. Além disso, por encontrar-se segregado, é certo que alguns direitos relacionados ao convívio familiar e à intimidade não lhe serão aplicados de maneira plena.
+Desse modo, com base na legislação aplicável ao caso e com fundamentação idônea, impõe-se a manutenção da decisão recorrida.
+A corroborar o entendimento, colhe-se do parecer da d. Procuradoria de Justiça que: "(..) a impossibilidade de deferimento da visita do irmão do apenado (que cumpre pena em regime aberto) decorre de circunstâncias inerentes a sua condição pessoal, e tem a finalidade de resguardar a evolução do processo de reeducação e ressocialização de ambos. Nada obsta, contudo, a que o apenado continue recebendo a visita de outros parentes, de modo a fazer jus à convivência familiar mesmo durante o cumprimento da pena".
+Verifico do exame do excerto referenciado que os fundamentos destacados, suficientes, per se, à manutenção do acórdão recorrido, não foram impugnados especificamente pelo recorrente nas razões recursais. Desse modo, incide na espécie a Súmula n. 283 do Supremo Tribunal Federal.
+Nesse sentido:
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OFENSA AO ART. 370, § 1º, DO CPP. (I) - ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO SUFICIENTE. RECURSO QUE NÃO ABRANGE TODOS ELES. SÚMULA 283/STF. (II) - AUSÊNCIA DE DEMONSTRAÇÃO DE PREJUÍZO. PAS DE NULLITÉ SANS GRIEF. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Verificando-se que o v. acórdão recorrido assentou seu entendimento em mais de um fundamento suficiente para manter o julgado, enquanto o recurso especial não abrangeu todos eles, aplica-se, na espécie, o enunciado 283 da Súmula do STF.
+2. Segundo a legislação processual penal em vigor, é imprescindível quando se trata de nulidade de ato processual a demonstração do prejuízo sofrido, em consonância com o princípio pas de nullité sans grief, o que não ocorreu na espécie.
+3. Agravo regimental a que se nega provimento. (AgRg no REsp 1.597.699/SC, relatora Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/09/2016, DJe 12/09/2016.)
+Outrossim, ainda que se ultrapassasse tal óbice, não seria mesmo o caso de conhecimento do recurso. Senão, vejamos.
+O acórdão recorrido não dissentiu da jurisprudência desta Casa firmada no sentido de que o direito de visita não é absoluto, devendo ser analisado caso a caso.
+A propósito, têm-se:
+RECURSO ESPECIAL. EXECUÇÃO PENAL. AUTORIZAÇÃO DE VISITA PELA COMPANHEIRA. INDEFERIMENTO. TENTATIVA ANTERIOR DE ENTRAR COM DROGAS NO PRESÍDIO. MOTIVAÇÃO CONCRETA. ART. 41, X, DA LEI N. 7.210/1984. DIREITO NÃO ABSOLUTO.
+1. O direito do preso à visitação não é absoluto e pode ser restringido mediante ato motivado.
+2. O alcance do art. 41, X, da LEP foi limitado em relação à companheira do recorrente porque ela, em data anterior, tentou ingressar no mesmo estabelecimento prisional com 91,77 g de maconha e, com isso, violou norma que disciplina a entrada de pessoas interessadas em visitar custodiados, independentemente de sua conduta constituir o crime de tráfico de drogas, pelo qual foi condenada a cumprir penas restritivas de direitos.
+3. Merece prestígio a ponderação - razoável e adequada - do Tribunal de Justiça, principalmente porque foi destacado pelo Juízo das Execuções que a situação impeditiva não possuía caráter perpétuo e a motivação está vinculada à segurança prisional e à ressocialização do interno, que recebia a visita de outros parentes.
+4. Recurso especial não provido. (REsp 1690426/DF, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/10/2017, DJe 19/10/2017, grifei).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EXECUÇÃO PENAL. AUTORIZAÇÃO DE VISITA DE CRIANÇA E/OU ADOLESCENTE EM ESTABELECIMENTO PRISIONAL. PADRASTO CONDENADO POR TRÁFICO DE DROGAS. DIREITO DO PRESO E PROTEÇÃO INTEGRAL DO MENOR. PONDERAÇÃO DE INTERESSES. PREPONDERÂNCIA DA PRESERVAÇÃO DA INTEGRIDADE FÍSICA, MORAL E PSICOLÓGICA DOS MENORES. ACÓRDÃO ASSENTADO EM MAIS DE UM FUNDAMENTO. SÚMULA 283/STF. AGRAVO DESPROVIDO.
+ ..
+2. Ademais, o direito do preso a visitação não é absoluto nem ilimitado. Para aferi-lo, é imprescindível, em juízo de ponderação, considerar as particularidades do caso concreto e medir os interesses envolvidos.
+3. Agravo regimental não provido. (AgRg no AREsp 771.087/DF, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 17/12/2015, DJe 2/2/2016).
+Ora, tendo o Tribunal a quo concluído que não era recomendável permitir a visita ao ora agravante doseu irmão, apenado do regime aberto, na modalidade prisão domiciliar, não é possível o reexame de tal assertiva no âmbito do recurso especial, em virtude do que preceitua a Súmula n. 7/STJ.
+Ante o exposto, nãoconheço dorecurso.
+Publique-se. Intimem-se.
