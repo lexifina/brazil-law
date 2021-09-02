@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por ROSELLE CORETY AYRES CARRASQUEIRAcontra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado do Rio de Janeiro(TJ-RJ), assim ementado (fl. 71):
+AGRAVO INOMINADO EM AGRAVO DE INSTRUMENTO. AGRAVO CONTRA DECISÃO MONOCRÁTICA DO RELATOR QUE NEGOU SEGUIMENTO AO RECURSO. PROCESSO EM FASE DE CUMPRIMENTO DE SENTEÇA. VALOR PENHORADO QUE NÃO SATISFAZ O QUANTUM DEBEATUR. ALIENAÇÃO DE BEM IMÓVEL DE PROPRIEDADE DA EXECUTADA, ORA, AGRAVANTE. FRAUDE À EXECUÇÃO CONFIGURADA. VALIDADE DA CITAÇÃO POR HORA CERTA. PRESENTES OS REQUISITOS NECESSÁRIOS PARA O RECONHECIMENTO DA FRAUDE À EXECUÇÃO. EXISTÊNCIA DE AÇÃO EM CURSO, COM CITAÇÃO VÁLIDA E PENDÊNCIA DE DEMANDA CAPAZ DE REDUZIR O ALIENANTE À INSOLVÊNCIA, NA FORMA DO ART. 593, II DO CPC. MANUTENÇÃO DA DECISÃO. AUSÊNCIA DE ARGUMENTO NOVO QUE JUSTIFIQUE A REVISÃO DO JULGADO. NEGA-SE PROVIMENTO AO RECURSO.
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 102/107).
+As razões do recurso especial, fundamentadas nas alíneas "a" e "c" do permissivo constitucional, apontam a divergência jurisprudencial e aviolação (i) do art. 535, inciso II, do CPC/73, ao argumento de que haveria omissão quanto ao art. 402 do CC/02; (ii) dos arts. 615-A, § 3º, e 659, § 4º, do CPC73, porquanto não estaria comprovada a má-fé da recorrente, mormente por inexistir registro da penhora; (iii) do art. 593, inciso II, do CPC, porquanto o ônus da prova seria do credor de demonstrar a fraude à execução.
+Decisão que inadmitiu o recurso especial às fls. 159/162.
+Contraminuta às fls.184/189.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido.
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Além disso, a recorrente aponta a violaçãodos arts. 615-A, § 3º, e 659, § 4º, do CPC73, porquanto não estaria comprovada sua má-fé, mormente por inexistir registro da penhora. Destaca a ofensa doart. 593, inciso II, do CPC, porquanto o ônus da prova seria do credor de demonstrar a fraude à execução. O eg. TJ-RJ, por sua vez, com arrimo nas peculiaridades do caso concreto, consignou que a recorrente foi devidamente citada nos autos do cumprimento de sentença e, após alienou o imóvel declarando na escritura inexistir ações pendentes em seu nome. Destacou que seu cônjuge também teve ciência da execução e, da mesma forma, declarou na escritura inexistir ação pendente.
+Diante disso, concluiu pela fraude à execução. Para fins demonstrativos, colacionam-se os seguintes trechos do v. acórdão estadual (fls. 76/77):
+Em que pesem os argumentos elencados nas razões recursais, melhor sorte não socorre a parte agravante, tendo em vista que a referida tese já foi por mim enfrentada conforme trechos extraídos da decisão agravada, bem como da decisão dos embargos de declaração (fls. 37/41 - 00037).
+"(..)
+Insta salientar que a sentença condenatória foi publicada em 17/12/2009 (fls. 42 - 00017) e a escritura de compra e venda foi lavrada em 05/05/2010 (fls. 129/131 - 00124).
+Constata-se dos autos que a ora executada firmou contrato de compra e venda de imóvel, alienando-o quando já existente ação em curso, restando incontroversa a plena ciência do débito existente entre ela e o exequente.
+(..)
+Ademais, verifica-se às fls. 129/131 - 00124, cópia da escritura de compra e venda, que a outorgante, ora agravante, declarou "não haver contra ela nenhum feito ajuizado por ações reais e pessoais, que envolvam ou passa envolver o imóvel objeto da presente", em flagrante má-fé, uma vez que já havia sido citada na demanda de conhecimento.
+Releva notar, ainda, que a escritura foi lavrada com a anuência do cônjuge, fiador e réu, devidamente citado em 20/07/2009 (fls. 38 - 00017).
+Dessa forma, conclui-se que a alienação foi realizada de forma ilícita, uma vez que evidenciada a fraude de execução, o que enseja o reconhecimento da ineficácia do negócio em relação ao agravado."
+Com efeito, "Para o reconhecimento da fraude à execução, não basta a simples alienação/doação do bem após a citação, sendo necessário, ainda, o registro de penhora do bem alienado/doado ou prova da má-fé do terceiro adquirente, nos termos da súmula 375/STJ"(AgInt no AREsp 967.680/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 19/10/2017, DJe 25/10/2017).
+Na hipótese, o eg. Tribunal estadual, conforme as provas dos autos, concluiu que houve má-fé da recorrente, pois alienou o imóvel após a citação e, mesmo ciente do cumprimento de sentença, declarou na escritura pública de compra e venda inexistir ação contra si. Destacou ainda que seu cônjuge também foi citado e tinha ciência do mencionado processo. Assim, verifica-se que o v. acórdão está em consonância com a orientação deste Sodalício, o q ue atrai a Súmula n. 83/STJ.
+Diante do exposto, conheço do agravo para desprover o recurso especial.
+Publique-se.
