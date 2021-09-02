@@ -1,0 +1,53 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO MONOCRÁTICA (ART. 1.021, § 1º, DO CPC/2015). AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, não há como conhecer do agravo interno que não combata o fundamento da decisão monocrática.
+2. Agravo interno não conhecido.
+RELATÓRIO
+C. J. Oliveira & Cia Ltda. interpôs recurso especial contra os acórdãos de fls. 405-411, 430-433 e 462-466 (e-STJ), proferidos pelo Tribunal de Justiça do Estado do Pará, assim ementados:
+APELAÇÃO CÍVEL. AÇÃO DE BUSCA E APREENSÃO. HONORÁRIOS ADVOCATÍCIOS. EXTINÇÃO DO PROCESSO SEM JULGAMENTO DO MÉRITO. PRINCÍPIO DA CAUSALIDADE. PRECEDENTES DO STJ. Sendo muito elevado o valor da causa, inestimável o proveito económico e podendo a adoção da regra geral levar à fixação de valores exagerados, o juiz lixará o valor dos honorário por apreciação equitativa. Apelação a que se dá provimento para arbitrar os honorários em R$ 20.000.00 (vinte mil reais).
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO CÍVEL. ALEGAÇÃO DE OMISSÃO. OMISSÃO SUPRIDA. RECURSO A QUE SE DÁ PROVIMENTO. - Segundo a alegação do embargante, o Acórdão nº 182.039 é omisso no que tange à preliminar de incidente de falsidade suscitado pelo mesmo no corpo de suas contrarrazões à apelação (fls. 282/295). - Em análise do contido nos autos, verifico que assiste razão ao embargante, pois, neste ponto, o Acórdão recorrido de fato não se manifestou sobre a falsidade arguida em sede de preliminar. Assim,a fim de sanar referida omissão, determino a inclusão do seguinte tópico ao corpo do Acórdão: A PRELIMINAR DE FALSIDADE. Argui o apelado em suas contrarrazões de fls. 282/296 que a assinatura "constante no documento de fls. 95/101 não é a mesma acostada na cópia de fls. 104/110, havendo, portanto, flagrante falsidade documental. Por esta razão, requer a declaração de falsidade do documento de fls. 95/101 dos autos. Pois bem. Diante da análise do contido nos autos, verifico que a afirmação trazida pelo apelado não merece prosperar, pois mesmo que fosse o caso das assinaturas apostas nos documentos de fls. 95/101 e 104/110 não serem as mesmas, tal fato poderia ser suprido facilmente através da ratificação do documento pelo assinante. Se em casos em que são protocolados documentos apócrifos nos autos o juízopossibilita o comparecimento do causídico em secretaria para ratificar a peça protocolada, não seria diferente no tema aqui debatido, já que se está diante de mera irregularidade formal. Ante o exposto, afasta a preliminar de falsidade arguida em contestação." - RECURSO A QUE SE DÁ PROVIMENTO A FIM DE SUPRIR A OMISSÃO ALEGADA.
+EMBARGOS DE DECLARAÇÃO NA APELAÇÃO. CÍVEL. EMBARGOS DESPROVIDOS. ERRO MATERIAL SANADO DE OFÍCIO. IOs embargos de Declaração devem ser interpostos tão somente nas hipótesesexpressamente elencadas. II - O recurso de embargos de declaração está condicionado à existência da contradição, omissão ou obscuridade na decisão atacada. o que não restou configurado no presente caso. III O acórdão embargado é claro, no sentido de que nas causas depequeno valor, nas de valor inestimável, naquelas em que não houver condenação ou for vencida a Fazenda Pública, e nas execuções, embargadas ou não, os honorários serão fixados consoante apreciação eqüitativa do juiz. atendidasas normas das alíneas a, e c do §3" do art. 20 do CPC/1973. IV - Embargos declaratóriosconhecidos e desprovidos.
+Admitido o recurso na origem, ascenderam os autos a esta Corte.
+Em decisão de fl. 509 (e-STJ), a Presidência desta Corte concluiu pela irregularidade do preparo, determinando a sua comprovação, bem como o recolhimento em dobro.
+Como a recorrente comprovou apenas o recolhimento normal, sem o dobro exigido, em decisão de fls. 516-517 (e-STJ), a Presidência deste Tribunal não conheceu do recurso, por deserção.
+Daí a interposição deste agravo interno (e-STJ, fls. 520-522), no qual a insurgente defende o conhecimento do recurso.
+Impugnação às fls. 524-544 (e-STJ), requerendo-se a rejeição do recurso e a aplicação de multa.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NORECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AO FUNDAMENTO DA DECISÃO MONOCRÁTICA (ART. 1.021, § 1º, DO CPC/2015). AGRAVO INTERNO NÃO CONHECIDO.
+1. Nos termos do art. 1.021, § 1º, do CPC/2015, não há como conhecer do agravo interno que não combata o fundamento da decisão monocrática.
+2. Agravo interno não conhecido.
+VOTO
+Na decisão agravada, deixou-se de conhecer dorecurso especial sob o argumento de deserção.
+Veja-se às fls. 516-517 (e-STJ):
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise do recurso de C. J. OLIVEIRA & CIA LTDA, foi colacionado aos autos apenas o comprovante de agendamento do preparo, não tendo sido juntado o comprovante do efetivo pagamento.
+Portanto, não se pode considerar efetuado o pagamento se o próprio documento "traz em si a advertência de que não representa a efetiva quitação da transação". (AgInt no AREsp 1143559/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 7/3/2018).
+Nos termos da Lei n. 11.636/2007, são devidas custas judiciais e porte de remessa e retorno dos autos nos processos de competência recursal do Superior Tribunal de Justiça. O parágrafo único do art. 10 da referida lei ordinária dispõe que nenhum recurso subirá ao Superior Tribunal de Justiça, excetuados os casos de isenção, sem a juntada aos autos do comprovante de recolhimento do preparo.
+Assim, mero comprovante de agendamento do preparo não serve para a comprovação da quitação da obrigação do recorrente, resultando na deserção do recurso especial. Nesse sentido, confiram-se os seguintes precedentes: AgInt no AREsp 1623099/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 3/8/2020; AgInt no AREsp 1534909/PE, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 17/3/2020; e AgInt no AREsp 1497996/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 10/2/2020.
+Ainda, percebeu-se, no STJ, haver irregularidade no recolhimento do preparo. A parte, embora regularmente intimada para sanar referido vício, não regularizou, limitando-se a trazer o documento de fl. 512, sem, contudo, realizar o recolhimento em dobro, nos termos do art. 1.007, § 4º do CPC.
+Dessa forma, o recurso especial não foi devida e oportunamente preparado, incidindo, na espécie, o disposto na Súmula n. 187 do STJ, o que leva à deserção do recurso.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+A insurgente defende o conhecimento do recurso, alegando apenas que houve o recolhimento das custas antes da distribuição do recurso. Entretanto, o fundamento da decisão agravada foi a falta de complementação das custas(recolhimento em dobro).
+Verifica-se que caberia à insurgente demonstrar o recolhimento em dobro ou a ausência de sua necessidade, o que não ocorreu.
+Incontestável, portanto, que não foram vertidos argumentos válidos para infirmar a decisão monocrática ora recorrida, conforme exigido pelo art. 1.021, § 1º, do CPC/2015, circunstância que impede o conhecimento do agravo interno.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. FALTA DE IMPUGNAÇÃO DE TODOS OS FUNDAMENTOS DA DECISÃO AGRAVADA. ARTS. 932, III, e 1.021, § 1º, do CPC/2015. SÚMULA N. 182/STJ. AGRAVO NÃO CONHECIDO.
+1. O agravante deve atacar, de forma específica, todos os fundamentos da decisão agravada, sob pena de não conhecimento do recurso, incidindo os arts. 932, III, e 1.021, § 1º, do CPC/2015 e, por analogia, a Súmula n. 182/STJ.
+2. No presente caso, o agravante deixou de impugnar um dos fundamentos suficientes e independentes adotados na decisão que indeferiu liminarmente os embargos de divergência, qual seja, a aplicação da Súmula n. 315 do STJ.
+3. Agravo interno não conhecido.
+(AgInt nos EAREsp 1.097.036/SP, Rel. Ministro Antônio Carlos Ferreira, Segunda Seção, julgado em 04/12/2018, DJe 11/12/2018).
+Quanto ao pedido de aplicação de multa, contido na impugnação ao agravo interno, esta Corte tem entendido que o mero não conhecimento ou a improcedência do recurso não enseja a necessária imposição da multa prevista no art. 1.021, § 4º, do CPC/2015, tornando-se pressuposto para tal o nítido descabimento da insurgência.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. OMISSÃO CONFIGURADA. HONORÁRIOS RECURSAIS. ART. 85, § 11, DO NCPC. DECISÃO PUBLICADA A PARTIR DE 18/MAR/16. ENUNCIADO ADMINISTRATIVO Nº 7/STJ. NÃO CABIMENTO. RECURSO INTERNO. NÃO CONHECIMENTO OU IMPROCEDÊNCIA. MULTA DO ART. 1.021, § 4º, DO NCPC. ANÁLISE CASUÍSTICA. INOCORRÊNCIA, NA ESPÉCIE. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, SEM EFEITOS INFRINGENTES.
+1. Nos termos do Enunciado Administrativo nº 7/STJ, "Somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+2. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do art. 1.021, § 4º, do NCPC, devendo ser analisado caso a caso, sob pena de afronta ao próprio direito de petição, estabelecido no art. 5º, XXXIV, da CF.
+3. Embargos de declaração acolhidos para sanar omissão, sem efeitos infringentes.
+(EDcl no AgInt no REsp 1.480.859/DF, Rel. Ministro Luis Felipe Salomão, Quarta Turma, julgado em 20/04/2017, DJe 03/05/2017).
+Ante o exposto, não conheço do agravo interno.
+É como voto.
