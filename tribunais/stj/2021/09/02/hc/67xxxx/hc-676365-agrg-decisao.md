@@ -1,0 +1,48 @@
+DECISÃO
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO FEDERAL conta a decisão de fls. 81-83 (e-STJ), que concedeu a ordem de ofício para reconhecer a ocorrência da prescrição da pretensão executória em favor do agravado.
+O agravante sustenta a necessidade de reforma da decisão, pois entende que "o termo inicial da prescrição executória deve ser o trânsito em julgado para ambas as partes, ou, pelo menos, a prolação do acórdão confirmatório da condenação, já que, antes disso, sequer havia, de acordo com a jurisprudência até há pouco em vigor, título judicial condenatório exequível, ante o primado constitucional da presunção de inocência, constante do art. 5º, LVII, da Constituição Federal." (e-STJ, fls. 93-94).
+Requer a reconsideração da decisão agravada ou a submissão deste agravo regimental à Quinta Turma para que seja provido o recurso, nos termos pleiteados, com a revogação da ordem concedida.
+Contrarrazões do agravado às fls. 108-114 (e-STJ).
+É o relatório.
+Decido.
+Adianto que é o caso de reconsiderar a decisão anterior.
+Inicialmente, veja-se que a orientação desta Corte Superior disciplina que o termo inicial para a contagem do prazo prescricional da pretensão executória é o trânsito em julgado da sentença condenatória para a acusação, e não, para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado.
+Nesse sentido, repiso os seguintes e recentes julgados:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA.
+TERMO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INTERPRETAÇÃO LITERAL DO ART. 112, I, DO CÓDIGO PENAL.
+1. A orientação jurisprudencial pacífica desta Corte é a de que o termo a quo para contagem do prazo, para fins de prescrição da pretensão executória, é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal do art. 112, I, do Código Penal, mais benéfica ao condenado.
+2. Agravo regimental desprovido."
+(AgRg nos EDcl nos EREsp 1376031/PR, Rel. Ministro ANTONIO SALDANHA PALHEIRO, TERCEIRA SEÇÃO, julgado em 10/02/2021, DJe 12/02/2021, grifou-se)
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. MARCO INICIAL. TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. ART. 112, INCISO I, DO CÓDIGO PENAL. AGRAVO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior de Justiça é no sentido de que, conforme disposto expressamente no art. 112, I, do CP, o termo inicial da contagem do prazo da prescrição executória é a data do trânsito em julgado para a acusação, e não para ambas as partes, prevalecendo a interpretação literal mais benéfica ao condenado (AgRg nos EAREsp n. 908.359/MG, Terceira Seção, Relator Ministro NEFI CORDEIRO, DJe de 2/10/2018).
+2. A existência de precedente recente do Supremo Tribunal Federal em sentido contrário não tem o condão de alterar o posicionamento pacífico deste Sodalício, a quem compete a uniformização da interpretação da legislação infraconstitucional, uma vez que se trata de decisão proferida pela maioria dos integrantes de apenas um dos órgãos fracionários do Pretório Excelso, que, embora tenha reconhecido a repercussão geral do tema no ARE 848.107 RG/DF, ainda não fixou seu entendimento sobre a questão (AgRg no HC 545.372/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/12/2019, DJe 13/12/2019).
+3. Agravo regimental não provido."
+(AgRg nos EDcl no AgRg no AREsp 1764481/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 09/02/2021, DJe 12/02/2021, grifou-se)
+Entretanto, muito embora o termo inicial seja contado a partir do trânsito em julgado para a acusação, é necessário aguardar o trânsito em julgado para ambas as partes para inaugurar a discussão acerca da ocorrência da prescrição executória. A propósito:
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. RECONHECIMENTO DA PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. TERMO INICIAL: TRÂNSITO EM JULGADO PARA A ACUSAÇÃO. INVIABILIDADE, CONTUDO, DE PRONUNCIÁ-LA ANTES DO TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. AGRAVO REGIMENTAL DESPROVIDO.
+1. "Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito em julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa." (EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018).
+2. Conforme o atual entendimento das Cortes Superiores, o acórdão confirmatório da condenação interrompe a prescrição.
+3. Agravo regimental desprovido."
+(AgRg no REsp 1879555/RJ, deste Relator, QUINTA TURMA, julgado em 03/08/2021, DJe 10/08/2021, grifou-se);
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE DO AGRAVO EM RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. NÃO OCORRÊNCIA. PRESCRIÇÃO DA PRETENSÃO EXECUTÓRIA. ANÁLISE PELO JUÍZO DA EXECUÇÃO. AGRAVO REGIMENTAL DESPROVIDO.
+1. "O prazo para a interposição de agravo em recurso especial é de 15 (quinze) dias corridos, nos termos do art. 994, VIII, c.c. os arts. 1.003, § 5.º, 1.042, caput, do Código de Processo Civil, bem como do art. 798 do Código de Processo Penal" (AgRg no AREsp 1658787/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/5/2020, DJe 19/5/2020).
+2. No caso, observa-se que a decisão que inadmitiu o recurso especial foi publicada no dia 31/1/2020, com início do prazo para a interposição do agravo em recurso especial em 3/2/2020 e término em 17/2/2020. No entanto, o recurso somente foi interposto em 20/2/2020, sendo manifesta a sua intempestividade.
+3. Diante da intempestividade do agravo em recurso especial, verifica-se que houve o trânsito em julgado da condenação, tendo em vista o escoamento do prazo para interposição do aludido recurso, ocorrido em 18/2/2020.
+4. Assim, para que fosse possível o reconhecimento da prescrição da pretensão punitiva, o lapso prescricional de 8 anos (art. 109., IV, do CP) deveria ter sido consumado antes do esgotamento do prazo para interposição do agravo em recurso especial, uma vez que, com a inobservância do prazo recursal, operou-se o trânsito em julgado.
+5. Já o trânsito em julgado para ambas as partes permite o exame quanto à prescrição da pretensão executória, análise que, no presente caso, caberá ao juízo das execuções, tendo em vista a ausência de elementos para aferição da referida causa extintiva, como a certidão de trânsito em julgado para acusação e a possibilidade de ocorrência de algumas das hipóteses previstas nos arts. 116, parágrafo único e 117, V e VI, ambos do CP.
+6. Agravo regimental desprovido."
+(AgRg nos EDcl no AREsp 1807087/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 25/05/2021, DJe 31/05/2021);
+"EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. CRIMES DE RESPONSABILIDADE. OMISSÃO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS REJEITADOS.
+1. A ausência, no acórdão, de quaisquer dos vícios elencados no art. 619 do Código de Processo Penal, torna inviável o acolhimento dos embargos declaratórios opostos. 2. Na espécie, inexiste a contradição apontada pela defesa, não sendo possível, em embargos de declaração, rediscutir o entendimento adotado, sequer para fins de prequestionamento.
+3. Nos termos da jurisprudência deste Sodalício, embora o termo inicial da contagem da prescrição da pretensão executória do Estado seja o trânsito um julgado para a acusação, não há que se falar em início de seu cômputo, quando pendente o trânsito em julgado para ambas as partes, porquanto ainda em curso a contagem da prescrição da pretensão punitiva, que pode ocorrer na modalidade retroativa.
+4. Embargos de declaração rejeitados."
+(EDcl no AREsp 651.581/MS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018, grifou-se);
+"PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. EXASPERAÇÃO DO PRAZO PRESCRICIONAL EM RAZÃO DA REINCIDÊNCIA. IMPOSSIBILIDADE. SÚMULA N. 220 DO STJ. PRESCRIÇÃO EXECUTÓRIA ANTES DO TRÂNSITO EM JULGADO PARA AMBAS AS PARTES. IMPOSSIBILIDADE. PRECEDENTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. De acordo com Enunciado Sumular n. 220 do Superior Tribunal de Justiça, a reincidência não influencia no cálculo do prazo prescricional da pretensão punitiva.
+2. Não se discute a ocorrência ou não da prescrição executória antes do trânsito em julgado para ambas as partes. Precedente.
+3. Agravo regimental não provido."
+(AgRg no REsp 1437406/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 05/05/2015, DJe 13/05/2015)
+Na hipótese, realizada consulta processual eletrônica aos autos n. 0000347-50.2012.4.02.5002, tem-se que o feito não transitou em julgado, aguardando atualmente o julgamento dos embargos infringentes opostos pela defesa no âmbito do Tribunal Regional Federal da 2ª Região. Assim, revela-se inviável, no momento, a discussão sobre prescrição da pretensão executória. Até porque, uma vez verificada, no curso do processo em trâmite a prescrição da pretensão punitiva, ela será ainda mais favorável ao réu.
+Ante o exposto, reconsiderando a decisão anterior, de de fls. 81-83 (e-STJ), dou provimento ao agravo regimental do Ministério Público Federal para não conhecer do habeas corpus.
+Comunique-se, com urgência, ao Tribunal de origem e ao Juízo de 1º grau.
+Publique-se. Intimem-se.
