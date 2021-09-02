@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus interposto por WESLEY LINS TEIXEIRA contra acórdão do Tribunal de Justiça do Estado de São Paulo.
+Consta dos autos que o recorrente foi denunciado e condenado em primeira instância pela prática do crime de furto. Transcorrido in albis o prazo prescricional, a condenação transitou em julgado
+Irresignado, o paciente impetrou de próprio punho habeas corpus perante o Tribunal de origem, o qual denegou a ordem em ordem em acórdão assim ementado:
+HABEAS CORPUS FURTO QUALIFICADO TENTADO (Art. 155, §4º, incisos I, II e IV, c. c. o art. 14, II, ambos do Código Penal) Pretensão ao reconhecimento de nulidade absoluta do feito, sob alegação de ausência de intimação da r. sentença condenatória Impossibilidade Sentença prolatada e publicada em audiência, saindo, Defensor e acusado, devidamente intimados, não se manifestando no prazo legal, quanto a eventual recurso, transitando a sentença em julgado e expedida guia de recolhimento definitiva Ademais, na vigência do período para se interpor apelo, o paciente compareceu na Defensoria Pública, a qual peticionou nos autos para que fosse liberado numerário apreendido quando da elaboração do auto de prisão em flagrante delito Inexistência de constrangimento ilegal Ordem denegada (fls. 128).
+No presente recurso, sustenta que:
+COMO JÁ DITO E REDITO, OS JULGADORES DE PRIMEIRA E DE SEGUNDA INSTANCIAS VIOLARAM OS PRECEITOS DO ARTIGO 5º, CAPUT, E INCISO LIV, LV E LVI, BEM COMO DO ARTIGO 392, INCISO I, II, III, IV, V E VI; 564, INCISO III, "O", AMBOS DO CÓDIGO DE PROCESSO PENAL.
+A PARTE RECORRENTE UTILIZOU A CORRETA VIA PROCESSUAL E, PRINCIPALMENTE, COMPROVOU ATRAVÉS DE DOCUMENTOS QUE OS MEIOS PROCESSUAIS E LEGAIS FORAM MAIS DO QUE VIOLADOS.
+COMO DITO E REDITO, NO PROCESSO QUE TRAMITOU NA 3ª VARA CRIMINAIS DA COMARCA DE SOROCABA/SP, SOB Nº 0025752-65.2010.8.26.0602, NÃO CONSTA O TERMO DE RENÚNCIA DE RECURSO ASSINADO PELO RECORRENTE OU POR SEU DEFENSOR. TAMBÉM NÃO HÁ, NOS AUTOS, INTIMAÇÃO DO RÉU PARA RECORRER DA SENTENÇA CONDENATÓRIA, NEM PESSOAL E NEM POR EDITAL.
+COM ISSO, RESTOU LATENTE A NULIDADE OU VIOLAÇÃO DOS PRECEITOS DO ARTIGO 5º, CAPUT, E INCISO LIV, LV E LVI, BEM COMO DO ARTIGO 392, INCISO I, II, III, IV, V E VI; 564, INCISO III, "O", AMBOS DO CÓDIGO DE PROCESSO PENAL.
+Requer, assim, que "SEJA ACOLHIDO E PROVIDO O PRESENTE RECURSO ORDINÁRIO CONSTITUCIONAL, A FIM DE RECONHECER A NULIDADE OU VIOLAÇÃO DOS PRECEITOS DO ARTIGO 5º, CAPUT, E INCISO LIV, LV E LVI, BEM COMO DO ARTIGO 392, INCISO I, II, III, IV, V E VI; 564, INCISO III, "O", AMBOS DO CÓDIGO DE PROCESSO PENAL, NOTADAMENTE PARA CONCESSÃO DE ORDEM DE HABEAS CORPUS, COMO MEDIDA DE INTEIRA JUSTIÇA!".
+O Ministério Público Federal opinou pelo desprovimento do recurso, conforme parecer de fls. 169/171.
+É o relatório.
+Decido.
+Com efeito, as instâncias ordinárias afirmaram que o recorrente e a defensoria pública foram intimados da sentença condenatória na própria audiência de instrução e julgamento, o que se confirma pela cópia do documento juntado às fls. 6/9, onde ao final se lê: "Publicada em audiência, saem os presentes intimados. Registre-se".
+A fundamentação apresentada no presente recurso não é capaz de demonstrar a invalidade da intimação em audiência, tendo o posicionamento do Tribunal de origem permanecido alinhado à jurisprudência desta Corte Superior. A propósito, confira-se os seguintes julgados:
+AGRAVO REGIMENTAL NO RECURSO EM HABEAS CORPUS. PROCESSUAL PENAL. INTIMAÇÃO. RÉU E PROCURADOR PRESENTES NA AUDIÊNCIA. AUSÊNCIA DE NULIDADE. REVOLVIMENTO FÁTICO-PROBATÓRIO. AGRAVO DESPROVIDO.
+1. A intimação do réu e de seu procurador em audiência na qual foi proferida a sentença penal condenatória é suficiente para dar início ao prazo para interposição de eventuais recursos, sendo dispensável a intimação pessoal ou por meio do Diário da Justiça.
+2. Inexistindo previsão legal de que a intimação do acusado seja acompanhada de termo de recurso ou de que a ele seja indagado se deseja recorrer, não há falar em cerceamento do direito de defesa.
+3. O acolhimento da tese recursal de que não consta do termo de audiência que as partes foram intimadas da sentença implica revolvimento do conjunto fático-probatório, procedimento incompatível com a estreita via do habeas corpus.
+4. Agravo regimental desprovido (AgRg no RHC 141.817/PB, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 22/06/2021, DJe 28/06/2021).
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CRIME MILITAR. INTEMPESTIVIDADE DO RECURSO DE APELAÇÃO. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Nos termos do art. 443 do Código de Processo Penal Militar, a intimação do réu poderá ocorrer no momento da proclamação do resultado se, nesse ato for lida a sentença. Caso não aconteça a leitura, ela será feita em outra audiência pública, que deverá ocorrer no período de oito dias, e dela ficarão desde logo intimados o representante do Ministério Público, o réu e seu defensor, se presentes.
+2. Na hipótese, conforme consta do acórdão, a sentença condenatória foi lida na sessão de julgamento e, no mesmo dia, foi disponibilizado o inteiro teor da decisão no sistema Projudi. Assim, considerada a data da mencionada leitura como a de intimação do réu, é intempestiva a apelação interposta pela defesa.
+3. Agravo regimental improvido (AgRg no AREsp 1726579/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 15/06/2021, DJe 22/06/2021).
+Ausente, portanto, qualquer constrangimento que justifique o provimento do recurso.
+Ante o exposto, com fundamento no art. 34, inciso XVIII, alínea b, do Regimento Interno do Superior Tribunal de Justiça, nego provimento ao presente recurso em habeas corpus.
+Publique-se.
