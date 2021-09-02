@@ -1,0 +1,23 @@
+DECISÃO
+Cuidam-se de embargos de declaração no agravo em recurso especial, opostos por JUNE LETICIA RIBEIRO CALDAS, contra decisão que não conheceu do agravo em recurso especial que interpusera, e que foi assim fundamentada:
+"Cuida-se de agravo em recurso especial interposto contra decisão que inadmitiu recurso especial, fundamentado no art. 105, inciso III, da Constituição Federal.
+Ação: de execução de título extrajudicial, ajuizada pela agravada, em face da agravante, na qual pleiteia a quitação do "Contrato Abertura de Crédito nº 723.139". Da análise dos autos, constata-se que a decisão agravada inadmitiu o recurso especial com base nestes fundamentos: i) ausência de violação do art. 489 do CPC/15; ii) ausência de violação do art. 1.022 do CC/15; iii) ausência de demonstração, "nos limites do que foi tratado pelo aresto combatido (sem desprezar e sem acrescentar), a existência de uma questão federal" (incidência da Súmula 284/STF) e iv) ausência de demonstração do dissídio jurisprudencial.
+Entretanto, a parte agravante não demonstrou, de maneira consistente, a inaplicabilidade do seguinte óbice: ausência de demonstração do dissídio jurisprudencial.
+O agravo que não impugna, especificamente, todos os fundamentos da decisão recorrida não deve ser conhecido, conforme disposto na Súmula 182/STJ.
+Forte nessas razões, NÃO CONHEÇO do agravo em recurso especial, com fundamento no art. 932, III, do CPC/15.
+Nos termos do art. 85, § 11, do CPC/15, majoro os honorários fixadosanteriormente para 15% sobre o valor atualizado da causa.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15. Publique-se. Intimem-se." (e-STJ Fls. 532/533)
+No presente recurso, aponta a embargante possível equívoco da decisão embargada, sob o fundamento de que "a ora embargante interpôs recurso especial demonstrando a violação de artigo de lei federal, inclusive, pretendendo que a verba honorária arbitrada em cumulação em 24% (VINTE E QUATRO) POR CENTO, fosse reduzida, para 20% (vinte por cento), respeitando-se, a decisão do Recurso Especial Representativo da Controvérsia Nº 1.520.710 -SC-TEMAREPETITIVO 587" (e-STJ Fl. 536). Assevera que a decisão embargada é contraditória, eis que, além de não analisar as razões recursais, majorou a verba honorária fixada pela Corte de origem.
+É o breve relatório.
+É notória a busca de efeitos infringenciais, não havendo a alegada omissão, porquanto a decisão embargada trata expressamente da matéria novamente vertida nestes embargos de declaração.
+Consoante consignado na decisão embargada, a embargante não demonstrou, de maneira consistente, a inaplicabilidade do óbice referente àausência de demonstração do dissídio jurisprudencial, o que atraiu a aplicação da Súmula 182/STJ à espécie, prejudicando a análise dos temas abordados no apelo especial em razão da irregularidade formal do recurso interposto.
+Portanto, diante da aplicação da Súmula 182/STJ à hipótese dos autos, verifica-se que a decisão embargada não padece de qualquer dos vícios elencados no art. 1.022 do CPC/15, tendo em vista que a mencionada irregularidade prejudica a análise das razões recursais, notadamente as novamente arguidas no presente recurso.
+Desse modo, importa salientar que os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, erro material, contradição ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador, não se prestando à simples reexame da causa, nem a modificar o entendimento do órgão julgador.
+Verifica-se que a embargante pretende, à toda evidência, valer-se dos embargos de declaração para rediscutir matéria já decidida, fazendo com que prevaleça o seu entendimento sobre o tema. Os fundamentos de seus aclaratórios revelam tal inconformidade e o claro desejo de atribuir a eles efeitos infringentes, de abrangência incompatível com a natureza desse recurso.
+Dissociado, o pleito, de qualquer um dos pressupostos de interposição dos embargos de declaração, desautorizada está a pretensão ora declinada, impondo-se, então, a rejeição dos embargos de declaração.
+Forte em tais razões, REJEITO os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS. INEXISTÊNCIA.
+1. Devem ser rejeitados os embargos de declaração quando inexiste qualquer vício a ser sanado no julgado embargado.
+2. Embargos de declaração rejeitados.
