@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por EDINA MARIA FONSECA, contra decisão que não admitiu recurso especial (fls. 202/203, e-STJ).
+O apelo extremo, fundamentado no artigo 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 143, e-STJ):
+A execução de honorários sucumbenciais pode ser promovida tanto pela parte, quanto pelo advogado por eles beneficiado (Lei 8.906/94 Estatuto da Advocacia, art. 23).
+Assiste ao credor certa discrição a respeito do bem a penhorar e de sua substituição, observado o art. 656 do CPC, sendo tradicionalmente permitida a penhora sobre direitos hereditários, no rosto dos autos de inventário.
+Agravo de instrumento contra decisão de primeiro grau nesse sentido a que se nega provimento (RITJSP, art. 252).
+Opostos embargos de declaração, restaram rejeitados.
+Em suas razões de recurso especial, a recorrente aponta ofensa aos artigos 337, § 1º, § 2º e § 3º, 485, V e § 3º, 493 e 1022, II, do CPC/15.
+Sustenta, em síntese: (a) negativa de prestação jurisdicional; e (b) foi demonstrada a existência de fato superveniente, consubstanciado na ocorrência de litispendência, sendo necessária a extinção do feito executivo.
+Contrarrazões (fls. 198/201, e-STJ).
+Em juízo de admissibilidade, negou-se o processamento do recurso especial, pelos seguintes fundamentos: (i) ausência de ofensa ao artigo 1022 do CPC/15; (ii) não houve demonstração das vulnerações legais suscitadas; e (iii) incidência da Súmula 7/STJ.
+Daí o presente agravo (art. 1042 do CPC/15), buscando destrancar o processamento daquela insurgência.
+Contraminuta às fls. 228/231 (e-STJ).
+É o relatório.
+Decido.
+O inconformismo merece prosperar em parte.
+1. Com efeito, quanto à alegação de que restaram "demonstrados todos os requisitos da ocorrência da litispendência, que poderia ter sido reconhecida até mesmo de ofício", verifica-se tal questão não foi discutida pelo Tribunal de origem.
+A recorrente buscou a manifestação do órgão julgador acerca da matéria que julga indispensável ao deslinde da controvérsia, através dos embargos de declaração (fls. 156/162, e-STJ). No qual, inclusive, sustentou que o alegado fato superveniente importou "na reprodução da ação de execução anteriormente ajuizada e, por conseguinte, acarretou o surgimento da litispendência, uma vez que se repete ação que está em curso".
+No entanto, o Tribunal de origem, instado a se pronunciar, não enfrentou a controvérsia estabelecida nos embargos de declaração, o que configura - de fato - a ofensa ao art. 1022 do CPC/15.
+Vale destacar, esta Corte tem entendimento no sentido de que deve ser acolhida a preliminar de ofensa ao art. 1022 do CPC/15 (correspondente ao art. 535 no CPC/73), quando houver deficiência na prestação jurisdicional realizada na origem, em razão de omissão a respeito de pontos relevantes para o correto deslinde do feito.
+Nesse sentido:
+PROCESSUAL CIVIL. ART. 535 DO CPC. VIOLAÇÃO. EMBARGOS DE DECLARAÇÃO. OMISSÃO. NULIDADE DO ACÓRDÃO. RETORNO DOS AUTOS AO TRIBUNAL DE ORIGEM. 1. Os embargos declaratórios são cabíveis para a modificação do julgado que se apresenta omisso, contraditório ou obscuro, bem como para sanar eventual erro material no julgado.  ..  3. Havendo deficiência na prestação jurisdicional realizada no Tribunal de origem, é de acolher a preliminar de violação do art. 535 do CPC para determinar o retorno dos autos para que sejam sanadas as omissões apontadas. Embargos de declaração acolhidos, com efeitos infringentes, para dar provimento ao recurso especial de SCHAEFFLER BRASIL LTDA., e determinar o retorno dos autos ao Tribunal de origem para que se manifeste sobre a matéria articulada nos embargos de declaração. (EDcl no AgRg no REsp 1462226/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, julgado em 14/10/2014, DJe 24/10/2014)
+RECURSO ESPECIAL. PROCESSUAL CIVIL. PROVA PERICIAL. MOMENTO DE IMPUGNAÇÃO AO PERITO. PRECLUSÃO. NÃO OCORRÊNCIA. DISCUSSÃO ACERCA DA QUALIDADE TÉCNICO/CIENTÍFICA DO LAUDO PERICIAL. IMPUGNAÇÃO APÓS A ELABORAÇÃO DOS TRABALHOS PERICIAIS. POSSIBILIDADE (CPC, ART. 424, I). OMISSÕES RELEVANTES NO JULGADO (CPC, ART. 535). OCORRÊNCIA. RECURSO ESPECIAL PARCIALMENTE PROVIDO.  ..  8. Constatando-se violação ao art. 535, II, do CPC, por omissões acerca de questões nevrálgicas para a completa prestação jurisdicional, deve-se anular o v. acórdão recorrido para que, novamente, sejam julgados os embargos de declaração, sanando-se as omissões existentes e relevantes. 9. Recurso especial parcialmente provido. (REsp 1175317/RJ, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 07/05/2013, DJe 26/03/2014)
+Civil. Ação de compensação por danos morais. Publicação de matéria jornalística supostamente ofensiva à honra. Alegação de mera reprodução de informações prestadas por terceiro. Delimintação da responsabilidade do meio de imprensa. Alegação de violação ao art. 535 do CPC. Reconhecimento. - Ocorre negativa de prestação jurisdicional quando o acórdão recorrido examina apenas parcialmente a controvérsia, omitindo-se sobre fundamento relativo à pretensão do autor que não ficou logicamente afastado pelo posicionamento do Tribunal a respeito do ponto explicitamente analisado. Recurso especial provido. (REsp 725.050/AL, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 17/08/2006, DJ 04/09/2006, p. 263)
+Logo, quedando-se inerte acerca de ponto relevante para o deslinde da controvérsia, cumpre devolver os autos ao Tribunal de origem, a fim de que supra a omissão existente, ao menos para se consignar os elementos fáticos necessários à aplicação da jurisprudência desta Corte Superior.
+2. Do exposto, dou parcial provimento ao recurso especial, com fulcro no artigo 932 do CPC/15 c/c Súmula 568 do STJ, para anular o acórdão que julgou os embargos de declaração (fls. 174/176, e-STJ) e determinar a devolução dos autos ao Tribunal a quo a fim de que profira novo julgamento, sanando a omissão apontada.
+Por fim, julgo prejudicadas as demais questões ventiladas no recurso especial.
+Publique-se.
+Intimem-se.
+EMENTA
