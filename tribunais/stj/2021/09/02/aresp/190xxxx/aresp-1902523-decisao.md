@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por GUERINI PLANEJAMENTOS LTDA, contra decisão que deixou de admitir recurso especial, sob o fundamento de ausência de ofensa aos art.1022 do CPC/15, e incidência daSúmula7do STJ.
+Nas razões de agravo (fls. 129/135, e-STJ), em síntese, a insurgente, genericamente, aduz que foram preenchidos os requisitos de admissibilidade do apelo nobre, repisando, ao final, a tese do apelo nobre.
+Contraminuta às fls. 138/143 (e-STJ).
+É o relatório.
+Decido.
+O recurso não é admissível, por violação ao princípio da dialeticidade.
+1.Com efeito, a agravante se limitou a renegar, genericamente, o juízo de admissibilidade realizado na origem, sem, contudo, efetivamente demonstrar a inadequação dos óbices invocados.
+Com relação à Súmula 7 do STJ, não foi demonstrado que a solução da controvérsia independe do reexame dos elementos de convicção dos autos, soberanamente avaliados pelas instâncias ordinárias.
+Convém destacar que a alegação genérica de que o tema discutido no recurso especial representa matéria de direito (incluídas aí as hipóteses de qualificação jurídica dos fatos e valoração jurídica das provas), e não fático-probatória, não é apta a impugnar, de modo específico, o fundamento da decisão atacada.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. SÚMULAS 7 E 182 DO STJ. 1. A insurgente não impugnou, de forma precisa, os fundamentos da decisão impugnada em relação à aplicação da Súmula 7/STJ, o que atrai, por analogia, a incidência da Súmula 182 desta Corte: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada." 2.Não basta a assertiva genérica de que é desnecessária a análise de prova, ainda que seja feita breve menção à tese sustentada. É imprescindível o cotejo entre o acórdão combatido ea argumentação trazida no recurso especial que pudesse justificar o afastamento do citado óbice processual. 3. Ainda que assim não fosse, decidir de forma contrária ao acórdão recorrido demandaria necessariamente o reexame de matéria fática, o que encontra óbice na Súmula 7 desta Corte Superior. 4. Agravo interno a que se nega provimento. (AgInt no AREsp 1067725/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/10/2017, DJe 20/10/2017)
+É dever da parte agravante, à luz do princípio da dialeticidade, demonstrar o desacerto do da decisão impugnada, atacando especificamente e em sua totalidade o seu conteúdo, nos termos do art. 932, III, do NCPC, o que não ocorreu na espécie, uma vez que as razões apresentadas contra a decisão de inadmissibilidade do recurso especialnão impugna os fundamentos dodecisum.
+Art. 932.Incumbe ao relator:
+(..) III - não conhecer de recurso inadmissível, prejudicado ouque não tenha impugnado especificamente os fundamentos da decisão recorrida;  grifou-se .
+Conforme já decidiu o STJ, "à luz do princípio da dialeticidade, que norteia os recursos, deve a parte recorrente impugnar todos os fundamentos suficientes para manter o acórdão recorrido, de maneira a demonstrar que o julgamento proferido pelo Tribunal de origem merece ser modificado, ou seja, não basta que faça alegações genéricas em sentido contrário às afirmações do julgado contra o qual se insurge" (AgRg no Ag 1.056.913/SP, Rel. Ministra ELIANA CALMON, SEGUNDA TURMA, DJe 26/11/2008).
+2.Ante o exposto,não conheçodo agravo.
+Publique-se.
+Intimem-se.
