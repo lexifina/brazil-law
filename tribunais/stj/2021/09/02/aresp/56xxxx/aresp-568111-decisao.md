@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por GERHARD HORST FRITZSCHE (fls. 653/658) contra decisão que inadmitiu o recurso especial, fundamentado no art. 105, III, "a" e "c", da Constituição Federal, apresentado contra o v. acórdão do eg. Tribunal de Justiça do Estado de Santa Catarina(TJ-SC), assim ementado (fl. 437):
+APELAÇÃOCÍVEL. EMBARGOS À EXECUÇÃO. INSTRUMENTOPARTICULARDECONFISSÃO,COMPOSIÇÃO DE DÍVIDA, FORMA DE PAGAMENTO EOUTRAS AVENÇAS. RECURSO DE AMBAS AS PARTES. PRELIMINAR. COISA JULGADA. ACORDO FIRMADONA AÇÃO DE EXECUÇÃO. HOMOLOGAÇÃO PELOMAGISTRADOAQUO. IMPOSSIBILIDADEDEREDISCUSSÃO DA ORIGEM DA DÍVIDA. CONCORDÂNCIACOM OS VALORES TRANSACIONADOS. RENÚNCIAEXPRESSA À OPOSIÇÃO DE EMBARGOS À EXECUÇÃO. APLICAÇÃO DOS ARTS. 1.025 E 1.030, DO CÓDIGO CIVILDE 1916, E ART. 267, V, DO CÓDIGO DE PROCESSOCIVIL. EXTINÇÃODOSEMBARGOS. SENTENÇAREFORMADA. RECURSO DO EMBARGADO PROVIDO.
+"A transação estipulada livremente entre as partes, e homologada judicialmente, adquire força de titulo executivo judicial, nos termos da redação anterior do art. 584, III, do CPC, atual art. 475-N, III, do CPC, compondo definitivamente a lide havida, provida de caráter de irretratabilidade e definitividade.
+Por conseguinte, a não ser pelo permissivo do art. 486,do CPC, não se mostra viável ao devedor, sem antes rescindir o acordo homologado, pretender discutir encargos avençados no contrato de abertura de crédito em conta corrente que o antecedeu, pois eventuais excessos acometidos durante a relação material pretérita restam incorporados e sanados frente a autocomposição coberta pela coisa julgada. ..1" (AC n. 2004.001188-1, rel. Des. Paulo Roberto Camargo Costa, j. em 21.06.2007).
+ÔNUS DE SUCUMBÊNCIAL. REFORMA DA SENTENÇA. NOVO SOPESAMENTO. EMBARGANTE QUE FIGURA COMO ÚNICO SUCUMBENTE NA DEMANDA, DEVENDO SUPORTAR AS DESPESAS PROCESSUAIS E HONORÁRIOS ADVOCATÍCIOS. APLICAÇÃO DO ART. 20, CAPUT, DO CPC. RECURSO DO DEVEDOR PARA MAJORAÇÃO DA VERBA HONORÁRIA PREJUDICADO.
+RECURSO DO EMBARGADO CONHECIDO E PROVIDO. APELO DO EMBARGANTE PREJUDICADO.
+Os embargos de declaração opostos foram rejeitados (acórdão de fls. 407/411).
+As razões do recurso especial (fls. 557/562), fundamentadas nas alíneas "a" e "c" do permissivo constitucional, apontam a divergência jurisprudencial e a violação (i) do art. 535 do CPC/73, ao argumento de que haveria omissão quanto à inércia do recorrido de emendar a inicial do processo executivo; (ii) do art. 616 do CPC/73, tendo em vista que o recorrido não emendoua inicial da execução, levando à extinção do processo de execução; (iii) dos arts. 158, 267, inciso V, 584, e 792 do CPC/73 e dos arts. 1.025 e 1.030 do CC/1916, porquanto não houve decisão homologatória de acordo, mas de mera suspensão do feito executivo.
+Decisão que inadmitiu o recurso especial às fls. 629/631.
+Contraminuta às fls. 666/671.
+É o relatório. Decido.
+Inicialmente, rejeita-se a alegada violação do art. 535 do CPC/73, uma vez que o eg. Tribunal local analisou os pontos essenciais ao deslinde da controvérsia, dando-lhes robusta e devida fundamentação. Com efeito, é uníssona a jurisprudência desta eg. Corte no sentido de que o magistrado não está obrigado a responder a todos os argumentos apresentados pelos litigantes, desde que aprecie a lide em sua inteireza, com suficiente fundamentação. Nesse sentido, destacam-se:
+"AGRAVO INTERNO EM AGRAVO (ART. 544 DO CPC/73) - AÇÃO MONITÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DOS RÉUS-EMBARGANTES.
+(..)
+2. A Corte de origem dirimiu a matéria submetida à sua apreciação, manifestando-se expressamente acerca dos temas necessários à integral solução da lide. Dessa forma, à míngua de qualquer omissão, contradição ou obscuridade no aresto recorrido, não se verifica a ofensa ao artigo 535 do Código de Processo Civil de 1973.
+(..)
+6. Agravo interno desprovido."
+(AgInt no AREsp 362.110/RJ, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 16/03/2017, DJe de 23/03/2017 - g.n.)
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 535 DO CPC/1973 (CORRESPONDENTE AO ART. 1.022 DO CPC/2015). DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 535 do CPC/1973, correspondente ao art.1.022 do CPC/2015, quando a Corte local pronunciou-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. Agravo interno a que se nega provimento."
+(AgInt no AREsp 988.556/MS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 09/03/2017, DJe de 17/03/2017 - g.n.)
+Além disso, o recorrente aponta a violação do art. 616 do CPC/73, tendo em vista que o recorrido protelou por sete anos para emendar a inicial da execução, o que leva à extinção do feito. O eg. Tribunal estadual, por sua vez, assentou que, devido à homologação judicial do acordo firmado entre as partes, ficaram prejudicadas tais alegações, mormente porque, na transação, o recorrente renunciou ao direito de apresentar embargos à execução ou discutir quaisquer questões relativas à dívida nela contida. Para fins demonstrativos, colacioanam-se os seguintes trechos do v. acórdão estadual (fls. 442/443):
+Cediço que a transação celebrada entre maiores e capazes, cujo objeto constitui direito disponível, é meio hábil para pôr fim ao litígio, sendo aplicável à espécie o disposto no art. 1.025, do Código Civil de 1916, vigente à época: "É lícito aos interessados prevenirem, ou terminarem o litígio mediante concessões mútuas.
+Na espécie, o acordo está devidamente assinado pelos procuradores dos litigantes, que possuem poderes para transigir, conforme se infere das procurações acostadas às fls. 03 (exequente) e fl. 67 (executado), dos autos da execução em apenso. Igualmente, as partes exararam suas assinaturas na transação efetuada (fl. 66 - dos autos apensados), o que, por certo, constituiu meio hábil para por fim à discussão atinente ao "Instrumento Particular de Confissão, Composição de Dívida, Forma de Pagamento e outras avenças".
+Ademais, de suma relevância apontar-se que a transação foi homologada judicialmente e, ipso facto, adquiriu força de título executivo judicial,nos termos do art. 475-N, III, do Código de Processo Civil(antigo art. 584, III, do CPC).
+(..)
+Nessa ordem de ideias, cumpre salientar ser inviável qualquer discussão sobre o título executivo extrajudicial que deu azo ao ajuizamento da execução, vez que o posterior acordo firmado entre as partes pôs fim à lide. Neste último, o executado, ora embargante, confessou-se devedor da quantia apresentada, confirmando ser ela líquida, certa e exigível (item1 - fl.61),consoante anteriormente salientado.
+Ainda, na transação operada, renunciou o devedor ao direito de opor embargos à execução, arrematação ou adjudicação, além de qualquer outro procedimento para rever a dívida confessada (item"5" - fl.65). Igualmente, restou acordado que, em caso de descumprimento da obrigação, seria facultado ao credor o prosseguimento da execução, nos termos acordados, com a consequente penhora e avaliação dos bens dado e m garantia (itens 3 e 6 - fls.64/65).
+Com efeito, o recorrente não impugnou o fundamento contido no v. acórdão estadual no sentido de que o acordo homologado impede discussões pretéritas, mormente porque houve renúncia a essa possibilidade na transação firmada pelas partes. Por remanescer fundamento autônomo, incide a Súmula n. 283/STF:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AUTOR.
+(..)
+2. A subsistência de fundamento inatacado apto a manter a conclusão do acórdão impugnado impõe o desprovimento do apelo, a teor do entendimento disposto na Súmula 283 do STF, aplicável por analogia.
+(..)
+5. Agravo interno desprovido.
+(AgInt no AREsp 1329238/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 09/03/2020, DJe 16/03/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. COMPRA E VENDA. RESCISÃO CONTRATUAL. AUSÊNCIA DE ESPECIFICAÇÃO DOS DISPOSITIVOS LEGAIS VIOLADOS. SÚMULA N. 284 DO STF. FALTA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283 DO STF. INEXISTÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. RESTITUIÇÃO DE VALORES. PRAZO PRESCRICIONAL. DEZ ANOS. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial que não impugna fundamento do acórdão recorrido suficiente para mantê-lo não deve ser admitido, a teor da Súmula n. 283/STF.
+(..)
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1835618/RS, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 18/02/2020, DJe 28/02/2020)
+Por fim,quanto aos arts. 158, 267, inciso V, 584, e 792 do CPC/73 e dos arts. 1.025 e 1.030 do CC/1916, afirma-se que não houve decisão homologatória de acordo, mas mera suspensão do feito executivo. Ocorre que esse tema não foi tratado pelo eg. Tribunal estadual, de modo que, nesse ponto, referidos dispositivos carecem do necessário prequestionamento. Incidem as Súmulas n. 282 e 356 do STF.
+Destaca-se que não há contradição em afastar a violação do art. 535 do CPC/73 e reconhecer a falta de prequestionamento, porque a matéria apontada como omissa não guarda relação com referidos dispositivos que atraíram as Súmulas n. 282 e 356 do STF.
+Diante do exposto, conheço do agravo para negar provimento ao recurso especial.
+Publique-se.
