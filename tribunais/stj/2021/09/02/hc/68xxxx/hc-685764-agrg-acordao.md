@@ -1,0 +1,64 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TERMO INICIAL PARA PROGRESSÃO DE REGIME. DATA DO PREENCHIMENTO DO ÚLTIMO DOS REQUISITOS LEGAIS. ART. 112 DA LEI N. 7.210/1984. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONCLUSÃO DO EXAME CRIMINOLÓGICO. NECESSIDADE PARA AFERIR O REQUISITO SUBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício.
+2. Se há a necessidade de exame criminológico para aferir a presença do requisito subjetivo para a progressão de regime do Agravante, este requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por TIAGO PEREIRA DOS SANTOScontra decisão monocrática de minha lavra, assim ementada (fl. 31):
+"HABEAS CORPUS. EXECUÇÃO PENAL. TERMO INICIAL PARA PROGRESSÃO DE REGIME. DATA DO PREENCHIMENTO DO ÚLTIMO DOS REQUISITOS LEGAIS. ART. 112 DA LEI N. 7.210/1984. CONCLUSÃO DO EXAME CRIMINOLÓGICO. NECESSIDADE PARA AFERIR O REQUISITO SUBJETIVO. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. ORDEM DE HABEAS CORPUS DENEGADA."
+Consta nos autos que o Juízo das Execuções Penais determinou que fosse considerada como data-base para progressões futuras o dia em que o Reeducando cumpriu o lapso temporal(fl. 22).
+Irresignado, o Ministério Público recorreu ao Tribunal de origem, que deu provimento ao agravo em execução penal para determinar "a realização de novo cálculo tendo base a data em que firmada a conclusão favorável do exame criminológico realizado" (fl. 23).
+Na inicial do writ, o Impetrante sustentou, em suma, que a data-base para a progressão de regime é na data da aquisição de ambos os requisitos objetivo e subjetivo, que serão coincidentes se, ao alcançar o lapso temporal, o encarcerado tiver seu bom comportamento carcerário constatado.
+Alegou, desse modo, que:
+"Claro está, portanto, que uma interpretação do art. 112 da LEP que respeite o princípio da legalidade só poderá ter como resultado que o exame criminológico, acaso realizado, não interfere na definição da data do preenchimento do requisito subjetivo, data esta referente ao preenchimento das condições para o executado ser atestado com bom comportamento. A data-base para a próxima progressão, portanto, coincidiria com aquela do preenchimento dos requisitos objetivo e subjetivo (art. 112, LEP), que podem ou não ser a mesma a depender do executado ter ou não bom comportamento na data que houver atingido o lapso temporal para progredir." (fls. 11-12, sem grifos no original.)
+Requereu, em liminar e no mérito, a alteração da data-base para a concessão do regime aberto.
+Conforme ementa acima transcrita, deneguei a ordem de habeas corpus.
+Nas razões deste agravo regimental, a Defesa, em síntese, reitera a fundamentação e os pleitos formulados na inicial da ação constitucional.
+Afirma que houve mudança de posicionamento de fração desta Corte Superior, citando decisões monocráticas que reprisam o entendimento firmado pela Sexta Turma no julgamento do HC n. 638.702/SP, quando "prevaleceu nova orientação, unânime, de que "possuindo o reeducando atestado de bom comportamento carcerário, deve-se considerar como data-base para futura progressão de regime o dia em que efetivamente preencheu o requisito objetivo" do art. 112 da LEP" (fl. 42), de forma que a data-base deve ser o dia em que o Agravante, com bom comportamento carcerário emitido pelo diretor do estabelecimento prisional, cumpriu o requisito temporal.
+Pede, assim, a reconsideração da decisão impugnada ou a apreciação do feito pelo Órgão Colegiado "para determinar ao Juízo das Execuções que estabeleça como data-base para futura progressão para o regime aberto o dia em que o paciente cumpriu o requisito objetivo do art. 112 da LEP para a progressão ao regime semiaberto" (fl. 44)
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. TERMO INICIAL PARA PROGRESSÃO DE REGIME. DATA DO PREENCHIMENTO DO ÚLTIMO DOS REQUISITOS LEGAIS. ART. 112 DA LEI N. 7.210/1984. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA. CONCLUSÃO DO EXAME CRIMINOLÓGICO. NECESSIDADE PARA AFERIR O REQUISITO SUBJETIVO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício.
+2. Se há a necessidade de exame criminológico para aferir a presença do requisito subjetivo para a progressão de regime do Agravante, este requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável.
+3. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+O recurso não merece prosperar.
+O Colegiado de origem expôs as seguintes razões ao dar provimento ao recurso do Ministério Público (fls. 25-28;grifos no original.):
+"Assim, entende-se que o termo inicial para a progressão subsequente deve ser a data em que o apenado preencheu o último requisito previsto no artigo 112 da LEP, seja ele objetivo ou subjetivo.
+Nesse sentido caminha o Superior Tribunal de Justiça:
+ ..
+No caso concreto, em que foi necessária a realização de exame criminológico para a constatação do último requisito (subjetivo), a data de sua conclusão favorável há de ser tida como a base para cálculo de futuros benefícios.
+Esse o entendimento do Superior Tribunal de Justiça:
+HABEAS CORPUS. EXECUÇÃO PENAL. TERMO INICIAL PARA PROGRESSÃO DE REGIME. DATA DO PREENCHIMENTO DOÚLTIMO DOS REQUISITOS LEGAIS. ART. 112 DA LEI N. 7.210/1984. JURISPRUDÊNCIA PACÍFICA DO SUPERIOR TRIBUNAL DE JUSTIÇA, NOS TERMOS DO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. ORDEM DE HABEAS CORPUS DENEGADA.
+1. A data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício.
+2. Em razão da determinação de realização de exame criminológico, o requisito subjetivo somente foi cumprido no momento em que houve o parecer técnico, sendo esta a data-base a ser considerada para nova progressão.
+3. Habeas corpus denegado.
+(HC 624.167/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 07/12/2020, DJe 18/12/2020) (grifo nosso)
+E, ainda:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. REQUISITO SUBJETIVO IMPLEMENTADO EM MOMENTO ULTERIOR À VERIFICAÇÃO DO REQUISITO OBJETIVO. PREVALÊNCIA DO MOMENTO DE PREENCHIMENTO DO ÚLTIMO REQUISITO. REITERAÇÃO DOS ARGUMENTOS DA IMPETRAÇÃO. MANUTENÇÃO DA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT.
+1. O agravo regimental deve trazer novos argumentos capazesde alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+2. No caso, o Tribunal de origem decidiu de acordo com a jurisprudência desta Corte, no sentido de que embora preenchido anteriormente o requisito objetivo pelo agravante, a data-base a ser considerada para fins de nova promoção carcerária é o momento em que foi implementado o último requisito legal, qual seja, o requisito subjetivo, atestado por meio do relatório conjunto de avaliação do exame criminológico. Precedente.
+3. Agravo regimental improvido.
+(AgRg no HC 655303/SP, SEXTA TURMA, Rel. Min. SEBASTIÃO REIS JUNIOR, DJe 07/06/2021) (grifo nosso)
+Ante o exposto, DÁ-SE PROVIMENTO ao recurso ministerial para reformar a r. decisão de fls. 35, somente na parte em que fixou o marco a ser considerado para futuros benefícios, determinando-se a realização de novo cálculo tendo base a data em que firmada a conclusão favorável do exame criminológico realizado."
+Com efeito, a conclusão alcançada pela Corte estadual está em consonância com o entendimento desta Corte Superior de Justiça, no sentido de que a data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício.
+Uma vez constatada a necessidade de realização do exame criminológico para aferir a presença do requisito subjetivo, este somente pode ser considerado alcançado quando apresentado resultado favorável na referida diligência pericial.
+Esta Corte já firmou entendimento de que " e m razão da determinação de realização de exame criminológico, reputa-se preenchido o requisito subjetivo no momento em que houve parecer técnico favorável, sendo esta a data-base a ser considerada para nova progressão, não obstante o requisito objetivo haver sido preenchido em momento anterior" (AgRg no HC n. 634.186/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/3/2021, DJe 30/3/2021).
+Cito, ainda, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO. DATA-BASE PARA CONCESSÃO DE BENEFÍCIOS. REQUISITO SUBJETIVO IMPLEMENTADO EM MOMENTO ULTERIOR À VERIFICAÇÃO DO REQUISITO OBJETIVO. PREVALÊNCIA DO MOMENTO DE PREENCHIMENTO DO ÚLTIMO REQUISITO. REITERAÇÃO DOS ARGUMENTOS DA IMPETRAÇÃO. MANUTENÇÃO DA DECISÃO QUE INDEFERIU LIMINARMENTE O WRIT.
+1. O agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada por seus próprios fundamentos (AgRg no RHC n. 110.812/PR, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 10/12/2019).
+2. No caso, o Tribunal de origem decidiu de acordo com a jurisprudência desta Corte, no sentido de que embora preenchido anteriormente o requisito objetivo pelo agravante, a data-base a ser considerada para fins de nova promoção carcerária é o momento em que foi implementado o último requisito legal, qual seja, o requisito subjetivo, atestado por meio do relatório conjunto de avaliação do exame criminológico. Precedente.
+3. Agravo regimental improvido." (AgRg no HC 655.303/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021.)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. AUSÊNCIA DE FUNDAMENTAÇÃO PARA A REALIZAÇÃO DE EXAME CRIMINOLÓGICO. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. DATA-BASE PARA A PROGRESSÃO AO REGIME ABERTO. DIA DA REALIZAÇÃO DO EXAME CRIMINOLÓGICO. CONSTATAÇÃO DO REQUISITO SUBJETIVO. POSSIBILIDADE. INEXISTÊNCIA DE FLAGRANTE ILEGALIDADE. AGRAVO REGIMENTAL DESPROVIDO.
+1. A tese de ausência de fundamentação para a determinação de realização de exame criminológico não foi aventada nas razões do habeas corpus e, portanto, cuida-se de verdadeira inovação recursal, inadmissível de apreciação.
+2. A atual jurisprudência do Superior Tribunal de Justiça, acompanhando a orientação do Pretório Excelso, firmou entendimento no sentido de que "a data inicial para a progressão de regime deve ser aquela em que o apenado preencheu os requisitos do art. 112 da Lei de Execução Penal, e não a data da efetiva inserção do reeducando no atual regime" (AgRg no REsp 1.582.285/MS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 24/8/2016).
+3. A Corte estadual determinou que seja considerada, como data-base para a progressão ao regime aberto, a data de preenchimento do último requisito, que, na hipótese, restou constatado tão somente quando da realização do competente exame criminológico. Portanto, o acórdão impugnado está em consonância com a jurisprudência dos Tribunais Superiores.
+4. Agravo regimental desprovido." (AgRg no HC 645.110/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 18/05/2021, DJe 24/05/2021.)
+Dessa forma, na ausência de argumento relevante que infirme as razões consideradas no julgado ora agravado, que está em sintonia com a jurisprudência desta Corte Superior de Justiça, deve ser mantida a decisão por seus próprios termos.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
