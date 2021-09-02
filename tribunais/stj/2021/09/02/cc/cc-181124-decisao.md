@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de conflito positivo de competência, com pedido liminar, em que FRANCECAR COMÉRCIO DE VEÍCULOS LTDA. - em Recuperação Judicialé a suscitante, o JUÍZO DA 5ª VARA CÍVEL DE MACEIÓ/AL, os JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO (SP) e o JUÍZO DA 26ª VARA DO TRABALHO DE PORTO ALEGRE (RS) são os suscitados.
+Ação em trâmite no JUÍZO DE DIREITO DA 2ª VARA DE FALÊNCIAS E RECUPERAÇÕES JUDICIAIS DO FORO CENTRAL DE SÃO PAULO (SP): recuperação judicial da suscitante, autos n. 1113802-23.2018.8.26.0100 .
+Ações em trâmite no JUÍZO DA 26ª VARA DO TRABALHO DE PORTO ALEGRE (RS): Reclamação Trabalhista movida por Fabiana Kramer da Silveira.
+Conflito de competência: alega, em síntese, que, nos termos da jurisprudência do STJ, o juízo onde tramita o processo recuperacional é o único competente para dirimir questões que afetem o patrimônio da sociedade empresária devedora.
+Tutela antecipada: parcialmente deferida às e-STJ fls. 83/86.
+Informações prestadas pelo juízo trabalhista: com o deferimento da liminar, reformou a decisão que indeferiu a liberação do depósito recursal à executada, para permiti-la (e-STJ, fls. 90-92).
+Informações prestadas pelo juízo da recuperação: esclareceu que FABIANA KRAMER DA SILVEIRA não constou como credor na relação de credores do Administrador Judicial.
+Parecer do MPF: manifestou-se pelo conhecimento do conflito a fim de ser declarada a competência do juízo da recuperação, Juízo de Direito da 2ªVara de Falências e Recuperações Judiciais do Foro Central de São Paulo - SP.
+É O RELATÓRIO. DECIDO.
+Depreende-se dos autos que o processo de recuperação judicial da empresa FRANCECAR COMÉRCIO DE VEÍCULOS LTDA. está em regular andamento perante oJuízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo - SP.
+Como é sabido, a jurisprudência desta Corte pacificou-se no sentido de que os atos de execução dos créditos individuais promovidos contra empresas falidas ou em recuperação judicial, sob a égide do Decreto-lei nº 7.661/45 ou da Lei nº 11.101/05, devem ser realizados pelo juízo universal, ainda que ultrapassado o prazo de 180 dias de suspensão previsto no art. 6º, § 4º, da Lei 11.101/05, incluindo-se a deliberação acerca da destinação dos valores atinentes aos depósitos recursais feitos em reclamações trabalhistas, ainda que efetivados anteriormente à decretação da falência ou ao deferimento da recuperação.
+Sobre o tema, confiram-se: AgInt nos EDcl no CC 165.079/SP, SEGUNDA SEÇÃO, DJe 08/05/2020; AgInt nos EDcl no CC 165.415/SP, SEGUNDA SEÇÃO, DJe 02/12/2019; EDcl no CC 133.470/SP, SEGUNDA SEÇÃO, DJe 03/09/2015; CC 101.477/SP, SEGUNDA SEÇÃO, DJe 12/05/2010.
+Dessa forma, o Juízo perante o qual tramita o processo de recuperação judicial da empresa devedora é o competente para o exame de quaisquer atos que impliquem em constrição ou expropriação patrimonial da massa, sendo certo que os valores eventualmente constritos pelo Juízo Laboral devem ser colocados à disposição do Juízo Universal, a quem competirá analisar eventual pedido de levantamento.
+Outrossim, "Ao juízo universal compete a análise do caráter extraconcursal das dívidas da empresa em recuperação, (..) bem como o exame da essencialidade, para as atividades da sociedade recuperanda, dos bens pretendidos pelo credor" (AgInt no CC 143.203/GO, SEGUNDA SEÇÃO, DJe 30/05/2018).
+No mesmo sentido, ressaltou o Parquet em sua promoção, que "A orientação firmada no âmbito do Superior Tribunal de Justiça é de que, após o deferimento da recuperação judicial, é do juízo recuperacional a competência para o prosseguimento dos atos de execução relacionados com reclamações trabalhistas movidas contra a empresa".
+Forte nessas razões, CONHEÇO do conflito para declarar a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo - SP.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO DE COMPETÊNCIA. EXECUÇÃO TRABALHISTA E RECUPERAÇÃO JUDICIAL. COMPETÊNCIA DO JUÍZO RECUPERACIONAL PARA A PRÁTICA DE ATOS EXECUTÓRIOS OU CONSTRITIVOS.
+1. Nos termos da jurisprudência consolidada desta Corte, é competente o Juízo recuperacional para a prática de atos de execução que incidam sobre o patrimônio de sociedade em processo falimentar ou de recuperação judicial.
+2. Conflito conhecido. Estabelecida a competência do Juízo de Direito da 2ª Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo - SP.
