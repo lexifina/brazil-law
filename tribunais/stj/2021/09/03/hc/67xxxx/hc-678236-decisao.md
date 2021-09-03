@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ELIANDRO ELOI DE SOUZA contra o acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios no Agravo em Execução n. 0715595-94.2021.8.07.0000.
+Narram os autos que o Juízo da Vara de Execuções Penais do Distrito Federal indeferiu o pedido de aplicação retroativa da Lei n. 13.964/2019, nos autos do Processo n. 0007389-63.2016.8.07.0015, uma vez que, ainda que posteriormente, o paciente veio a se tornar reincidente, irradiando tal condição para toda a execução (fl. 32/33).
+A defesa alega ser inviável a aplicação irrestrita da reincidência posteriormente configurada, considerando-a como condição pessoal do condenado a irradiar efeitos sobre todas as penas exequendas, por ter a Lei n. 13.964/2019 criado critérios inconciliáveis para totalidade das execuções em curso e por serem peculiares para cada situação (fl. 8).
+Aduz que o entendimento adotado no acórdão de origem vulnera o direito do paciente, porquanto não se trata de leitura adequada que deva incidir à espécie, tornando-se patente a negativa dos princípios da legalidade, da individualização da pena e da vedação à interpretação in malam partem (fl. 9).
+Requer, assim, a concessão de ordem de habeas corpus, a fim de que seja cassado o acórdão atacado e determinada a aplicação retroativa da Lei n. 13.964/2019, individualmente às execuções em curso, considerando-se a reincidência (verificada ou não) à época da formação do título condenatório (fl. 11).
+É o relatório.
+A insurgência não prospera.
+O Tribunal a quo negou provimento ao agravo, afirmando que a reincidência é condição pessoal do apenado e, por isso, irradia seus efeitos sobre toda a execução unificada, alcançando execuções nas quais não houve, na condenação penal, o reconhecimento da agravante da reincidência  .. .Considerando que, em razão da data dos delitos, o apenado faz jus à fração de 1/6 para progressão de regime nos crimes comuns, consoante redação anterior do art. 112 da LEP, verifica-se que a aplicação da lei nova lhe seria prejudicial, uma vez que, atualmente, o apenado reincidente em delito praticado sem violência ou grave ameaça somente progride com o percentual de 20% (fls. 160 /162).
+Tal conclusão está de acordo com entendimento desta Corte, segundo o qual, com advento da unificação de penas, a reincidência deve ser observada sobre a totalidade das penas.
+A propósito, precedentes das duas Turmas criminais que compõem o Superior Tribunal de Justiça:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. REINCIDÊNCIA NÃO RECONHECIDA NA SENTENÇA CONDENATÓRIA. POSSIBILIDADE DE RECONHECIMENTO PELO JUÍZO DA EXECUÇÃO. REFORMATIO IN PEJUS E OFENSA À COISA JULGADA NÃO CONFIGURADOS. AUSÊNCIA DE ILEGALIDADE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É cediço na jurisprudência desta Corte Superior de Justiça o entendimento no sentido de que "a reincidência do acusado constitui circunstância pessoal que acompanha o condenado durante toda a execução criminal, podendo ser reconhecida pelo Juízo da execução que supervisiona o cumprimento da pena, ainda que não reconhecida pelo Juízo que prolatou a sentença condenatória" (AgRg no AREsp 1341499/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/10/2018, DJe 22/10/2018).
+2. Outrossim, o fato de a reincidência não ter incidido na fase de conhecimento não obsta o reconhecimento dos seus consectários legais na fase executória, para fins de concessão de benefícios ao apenado, não havendo se falar em ofensa à coisa julgada e ao princípio da non reformatio in pejus . Precedente: AgRg no HC 451.341/ES, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 6/12/2018, DJe 1º/2/2019.
+3. Agravo regimental não provido. (AgRg no REsp n. 1.818.339/MG, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/8/2019, DJe 30/8/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. RECONHECIMENTO DA REINCIDÊNCIA PELO JUÍZO DA EXECUÇÃO CRIMINAL PARA FINS DE LIVRAMENTO CONDICIONAL.
+POSSIBILIDADE.
+1. Nos termos da jurisprudência desta Corte, A reincidência do acusado constitui circunstância pessoal que acompanha o condenado durante toda a execução criminal, podendo ser reconhecida pelo Juízo da execução que supervisiona o cumprimento da pena, ainda que não reconhecida pelo Juízo que prolatou a sentença condenatória. (AgRg no AREsp 1341499/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 16/10/2018, DJe 22/10/2018).
+2. Agravo regimental improvido. (AgRg no HC n. 464.336/ES, Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/11/2018, DJe 6/12/2018)
+Ainda nesse sentido: HC n. 680.912/DF, Ministro Antonio Saldanha Palheiro, DJe 26/8/2021; HC n. 663.434/DF, Ministro Rogerio Schietti Cruz, DJe 23/8/2021; e HC n. 681.170/DF, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), DJe 13/8/2021.
+Por conseguinte, estando o acórdão impugnado em conformidade com a jurisprudência do Superior Tribunal de Justiça, não há falar em constrangimento ilegal.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. APENADO REINCIDENTE. UNIFICAÇÃO DE PENAS. REINCIDÊNCIA. INCIDÊNCIA SOBRE A TOTALIDADE DAS REPRIMENDAS. ACÓRDÃO EM CONFORMIDADE COM A JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
