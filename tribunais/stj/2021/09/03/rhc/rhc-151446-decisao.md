@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido de liminar, interposto por ALBERTO LINS ORELLANA e YAN MARTI LINS ORELLANA contra acórdão do Tribunal de Justiça de Minas Gerais, assim ementado:
+"HABEAS-CORPUS - RECONHECER DECADÊNCIA - TRANCAMENTO DO INQUÉRITO POLICIAL - PEDIDO PENDENTE DE ANÁLISE - SUPRESSÃO DE INSTÂNCIA - NÃO CONHECER A IMPETRAÇÃO. 1. Inviável a análise do pleito diante da ausência da apreciação da benesse requerida pelo Juízo primevo. 2. A manifestação deste Tribunal in casu acarreta intolerável supressão de instância. 3. Não conhecer a impetração." (e-STJ, fl. 187)
+Consta dos autos que os recorrentes estão sendo investigado pela suposta prática do delito previsto no art. 171, §2º, I, do Código Penal.
+Nas presentes razões, a defesa alega a decadência do direito de representação e a ausência de justa causa para a instauração do inquérito policial.
+Requer o provimento do recurso para:
+"a) Reconhecer a aplicação retroativa da Lei Federal n. 13.964/19 e declarar extinta a punibilidade dos Recorrentes pela decadência.
+b) Pelo Princípio da Eventualidade, requer ainda o arquivamento do inquérito policial por ausência de justa causa, visto que o Direito Penal tem como característica a ultima ratio e não é instrumento de cobrança de dívidas sob pena de violação ao artigo 5º, inciso LXVII, da Constituição da República de 1988.
+c) Ainda, caso o entendimento de Vossas Excelências seja pela manutenção das investigações, deve ser determinada a intimação da Defesa para se manifestar previamente a qualquer violação de direitos fundamentais dos Recorrentes e terceiros nos autos de inquérito, especialmente quanto a possível busca e apreensão de bens e documentos e quebra de sigilo bancário ou de dados." (e-STJ, fls. 223-224)
+É o relatório.
+Decido.
+De antemão, observe-se que as matérias ora suscitadas não foram objetos de cognição no acórdão colacionado (e-STJ, fls. 187-190), asseverando a Corte de origem que os pedidos deveriam ter sido direcionados primeiramente ao juízo de primeiro grau. Confira-se:
+"Não conheço da impetração, já que ausentes estão os pressupostos autorizadores para sua admissão.
+Cuida-se de Ação de Habeas-Corpus impetrada por Alberto Lins Orellana e Yan Martin Lins Orellana ao fundamento de que respondem processo pela prática em tese do delito de estelionato ad instar do artigo 171 §2º inciso I do Código Penal.
+Resume-se a questão à análise da possibilidade de reconhecimento da decadência do direito de representação, arquivando-se o presente inquérito.
+Analisando os autos, verifica-se que a impetração não formulou, perante o Juízo de primeiro grau, pedidos de extinção da punibilidade dos pacientes pela decadência ou de trancamento do inquérito policial, nem mesmo de intimação da defesa acerca dos atos investigatórios, o que obsta o seu conhecimento por meio da presente via, sob pena de indevida supressão de instância." (e-STJ, fls. 188-189)
+Assim, resta inviabilizada a análise inaugural por parte desta Corte Superior. No mesmo sentido, cito:
+"HABEAS CORPUS. (..) MATÉRIAS NÃO ANALISADAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. MANIFESTO CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. (..) 6. Inviável a análise, diretamente por este Superior Tribunal, de matérias não analisadas pela Corte de origem, sob pena de, assim o fazendo, incidir na indevida supressão de instância. 7. Habeas corpus não conhecido." (HC 279.802/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 24/04/2014, DJe 05/05/2014.)
+"RECURSO ORDINÁRIO EM HABEAS CORPUS. (..) NULIDADES. SUPRESSÃO DE INSTÂNCIA. (..) NÃO CONHECIMENTO. 1. Se as apontadas nulidades no trâmite processual - informações anônimas, ausência de fundamentação para o recebimento da denúncia, revelia, vicio na oitiva de testemunha e impropriedade no laudo pericial -, deixaram de ser questionadas e debatidas perante a Corte originária, não merece conhecimento o writ nestes pontos, sob pena de supressão de instância. Precedentes. (..) 7. Recurso ordinário conhecido em parte e, nesta extensão, não provido." (RHC 42.294/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 22/04/2014, DJe 05/05/2014)
+Ante o exposto, não conheço do recurso emhabeas corpus.
+Publique-se. Intime-se.
