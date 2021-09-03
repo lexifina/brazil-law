@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por COOPERATIVA AGROINDUSTRIAL ALFA em face da decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que inadmitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que (fls. 448/449):
+A Embargante entende que as hipóteses de cabimento dos embargos de declaração estão presentes, pois tanto o recurso especial como o agravo em recurso especial impugnaram, de forma específica, todos os argumentos do acórdão.
+Por exemplo, no recurso especial constante no (e-STJ Fl. 400 a Fl. 408), especificamente nas folhas (e-STJ FL. Fl. 402 e 404), foi argumentado que a decisão que reconheceu a prescrição intercorrente violou os artigos 921, inciso III e §1º, além do artigo 8º, ambos do CPC.
+O argumento foi de que o próprio texto legal dispõe que o processo poderá ser suspenso pela ausência de bens do devedor que sejam passíveis de penhora.
+O mesmo diploma legal dispõe que em caso de ausência de bens o processo ficará suspenso.
+Também foi linha de argumentação o fato de que não se caracterizou no caso em comento o abandono da causa, haja vista que o feito estava suspenso pela ausência de bens passíveis de penhora.
+Aliado a isso, fundamentou-se que para caracterizar o abandono da causa a parte tenha de ser intimada para dar andamento ao processo, sendo que a sua inércia caracterizará referido abandono.
+Quanto à divergência jurisprudencial, a mesma também foi suscitada no (e-STJ Fl. 406 a 407).
+Tudo isso foi argumentado no recurso especial e no agravo em recurso especial, o que justifica a existência da dialeticidade recursal, com impugnação concreta, efetiva e pormenorizada.
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+A propósito, da análise do recurso de agravo em recurso especial observa-se que a parte agravante deixou de impugnar especificamente o fundamento da decisão agravada, conforme exigido pelo art. 253, parágrafo único, do RISTJ, a saber: Súmula 83/STJ.
+Veja-se que a refutação apta a infirmar a decisão agravada deve ser efetiva, individualizada, específica e fundamentada (AgInt no REsp n. 1.535.657/MT, relator Ministro Luís Felipe Salomão, Quarta Turma, DJe de 26/8/2020 e AgRg no RHC n. 128.660/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 24/8/2020).
+Outrossim, percebe-se que a parte embargante pretende o exame de mérito do recurso especial. Porém, esse exame restou prejudicado pela ausência de preenchimento dos pressupostos recursais e o consequente não conhecimento do agravo em recurso especial, que obstou a abertura desta instância superior e a produção do efeito translativo, não havendo, portanto, que se cogitar da ocorrência de omissão sobre qualquer matéria de fundo porventura tratada no recurso especial.
+Ressalte-se que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
