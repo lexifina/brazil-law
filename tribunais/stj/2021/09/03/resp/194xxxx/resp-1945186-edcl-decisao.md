@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra acórdão, assim ementado (fl. 223):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. PRODUÇÃO DE PROVA PERICIAL. ADIANTAMENTO DOS HONORÁRIOS PERICIAIS. ÔNUS DA FAZENDA PÚBLICA À QUAL SE ACHA VINCULADO O MINISTÉRIO PÚBLICO AUTOR DA AÇÃO. ENTENDIMENTO CONSOLIDADO EM JULGAMENTO DE RECURSO REPETITIVO - RESP 1.253.844/SC. RECURSO ESPECIAL NÃO PROVIDO.
+O embargante sustenta que a decisão contém o vício de omissão, pois não enfrentou os argumentos de que: (a) da análise de recente decisão do Ministro Lewandowskina ACO 1.560 chega-se à conclusão de que a responsabilidade pelo pagamento da perícia deve recair sobre o Ministério Público e não ao Estado, pois o Novo CPC trouxe regramento específico para o caso dos autos; (b) incumbir o Ministério Público do custeio induz umaatuação mais zelosa quanto à análise da necessidade de produção probante; e (c) a prova pericial também foi requerida pela SANESUL, devendo a referida empresa pública ser responsável pelo ratio dos honorários periciais com o Ministério Público, nos termos do que dispõe o artigo 95 do CPC.
+Comimpugnação.
+É o relatório.
+Nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+A decisãoembargada resolveu a controvérsia ao assentar queo entendimento adotado pelo acórdão encontra-se em consonância com a jurisprudência do Superior Tribunal de Justiça, segundo a qual, em se tratando de ação civil pública proposta pelo Ministério Público, caberá à Fazenda Pública ao qual se acha vinculado o Parquet arcar com o adiantamento dos honorários periciais. Ademais, a influência do julgamento daACO 1.560pelo STF foi expressamente afastada nos precedentes citados, em que consta: "É irrelevante a existência de decisão monocrática em sentido contrário, no âmbito do Supremo Tribunal Federal (ACO 1.560/MS, da lavra do em. Ministro RICARDO LEWANDOWSKI, de 13/12/2018), ante a ausência de efeito vinculante e, outrossim, porque a questão diz respeito à interpretação da legislação federal, cuja última palavra compete a este Superior Tribunal".
+Outrossim, as instâncias de origemdeterminaram a divisão do ônus pelo pagamento da prova pericial entre as partes, não havendo que se falar em omissão quanto ao ponto.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já decidido.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ART. 1.022 DO CPC/2015. OMISSÃO. VÍCIONÃO CONFIGURADO. EMBARGOS REJEITADOS.
