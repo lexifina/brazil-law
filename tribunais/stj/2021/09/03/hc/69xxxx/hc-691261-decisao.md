@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUCIANO NASCIMENTO DA SILVA, EDJORGE DE JESUS e BRUNO ROGER DE ARAÚJO SILVA, apontando como autoridade coatora Desembargador da 15.ª Câmara Criminal do Tribunal de Justiça de São Paulo, naApelação n.º 1524126-40.2020.8.26.0228.
+Em razões, alega o impetrante quea questão acerca da ordem para a realização da sustentação oral não foi apreciada pelo Desembargador, apesar de suscitada.
+Aponta constrangimento ilegal na imposição de sustentação oral da defesa antes do órgão acusatório porque vai de encontro com os princípios constitucionais que regem o processo penal: devido processo legal, contraditório e ampla defesa.
+Requer, em caráter liminar, a concessão da ordem, a fim de que seja concedida à defesa o direito de fazer o uso da palavra por último no julgamento da apelação, em 16/9/2021.
+É o relatório.
+Decido.
+A concessão de liminar em habeas corpus constitui medida excepcional, uma vez que somente pode ser deferida quando demonstrada, de modo claro e indiscutível, ilegalidade no ato judicial.
+Na espécie, encontram-se presentes as circunstâncias excepcionais que autorizam o deferimento da tutela de urgência reclamada.
+"Esta Corte Superior de Justiça já manifestou orientação, em consonância com o entendimento firmado pelo Pretório Excelso no julgamento do Habeas Corpus n.º 87.926/SP, da Relatoria do Ministro Cezar Peluso, no sentido de que "o pleno exercício do contraditório assegura à defesa o uso da palavra por último, no caso de realização de sustentação oral" (REsp 966.462/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/08/2008, DJe 10/11/2008)" (HC 331.032/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2015, DJe 01/02/2016).(HC 341.293/DF, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/08/2016, DJe 29/08/2016).
+No mesmo sentido:
+"PROCESSO PENAL. HABEAS CORPUS. ALEGAÇÃO DE INCOMPETÊNCIA. SUPRESSÃO DE INSTÂNCIA. SÚMULA N.º 704 DO STF. AUDIÊNCIA DE RECEBIMENTO DA DENÚNCIA. MANIFESTAÇÃO DO MINISTÉRIO PÚBLICO POR ÚLTIMO. SUBVERSÃO DO SISTEMA ACUSATÓRIO. PRINCÍPIO DO CONTRADITÓRIO. WRIT PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, CONCEDIDO.
+ ..
+3. Esta Corte Superior de Justiça já manifestou orientação, em consonância com o entendimento firmado pelo Pretório Excelso no julgamento do Habeas Corpus n.º 87.926/SP, da Relatoria do Ministro Cezar Peluso, no sentido de que "o pleno exercício do contraditório assegura à defesa o uso da palavra por último, no caso de realização de sustentação oral" (REsp 966.462/RJ, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 07/08/2008, DJe 10/11/2008).
+4. In casu, trata-se ação penal ajuizada perante o Tribunal Regional Federal da 2.ª Região, em razão de foro por prerrogativa de função do corréu (prefeito municipal). Na sessão de recebimento da denúncia, muito embora o Desembargador Relator tenha passado a palavra - somente após a manifestação da defesa - ao Ministério Público "como custos legis" e não obstante referido pronunciamento tenha recebido o rótulo de "parecer", é evidente que, nessa situação, o Parquet, titular da ação penal ajuizada, atuava também na condição de parte e, assim sendo, a defesa tinha o direito de fazer uso da palavra por último.
+5. Apesar de não ter a defesa manifestado sua insurgência no momento processual oportuno, cuida-se de nulidade absoluta, tendo em vista a subversão à lógica do sistema acusatório.
+6. Writ parcialmente conhecido e, nessa extensão, concedido para anular o recebimento da denúncia em relação à paciente, bem como declarar nulos todos os atos processuais posteriores." (HC 331.032/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 15/12/2015, DJe 01/02/2016)
+Ante o exposto, tratando-se o caso de liminar satisfativa,defiro liminarmenteo habeas corpus,para assegurar à defesa o direito de sustentar oralmente após a manifestação do Procurador de Justiça, na sessão de julgamento do Apelação n.º 1524126-40.2020.8.26.0228.
+Comunique-se, com urgência, ao Tribunal de Justiça do Estado de São Paulo.
+Publique-se. Intimem-se.
