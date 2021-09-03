@@ -1,0 +1,18 @@
+DECISÃO
+PROCESSUAL CIVIL. RECURSO ESPECIAL. ILEGITIMIDADE DA PARTE EMBARGANTE. TESE DE NOTORIEDADE DA REPRESENTATIVIDADE. FALTA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. REEXAME DE PROVAS. IMPOSSIBILIDADE. SÚMULA 7/STJ. RECURSO ESPECIAL DESPROVIDO.
+1. Trata-se de Recurso Especial interposto por ANTÔNIO BRAGA DE AZEVEDO - ESPÓLIO, com fundamento nas alíneasaecdo permissivo constitucional, contra acórdão proferido pelo Tribunal Regional Federal da5a. Região, assim ementado:
+PROCESSUAL CIVIL. EMBARGOS À EXECUÇÃO FISCAL. FEITO EXTINTO SEM RESOLUÇÃO DE MÉRITO. AUSÊNCIA DE CERTIDÃO DE ÓBITO DO DE CUJUS E ILEGITIMIDADE DA PARTE EMBARGANTE POR AUSÊNCIA DE TERMO DE COMPROMISSO COMMÚNUS PÚBLICO PARA REPRESENTAR O ESPOLIO. CITAÇÃO POR AR. VALIDADE. JUNTADA DE DOCUMENTOS EM SEDE" DEAPELAÇÃO. IMPOSSIBILIDADE.
+2. Opostos Embargos de Declaração, foram eles rejeitados.
+3. Inconformado, o recorrente alega ofensa aos arts. 334, I, do CPC/1973, e 374, I, do CPC/2015, reputando omisso o acórdão recorrido no que tange à notoriedade da representatividade do espólio para atuaçãoautônoma de defesa processual dos seus interesses, que independeria de comprovação.
+4. Contrarrazões às fls. 214/219.
+5. É o relatório.
+6. Inicialmente, é importante ressaltar que o presente recurso atrai a incidência do Enunciado Administrativo 3 do STJ, segundo o qual, aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016), serão exigidos os requisitos de admissibilidade recursal na forma do novo Código.
+7. Colhe-se do acórdão recorrido a manifestação da Corte de origem quanto ao tema:
+5. Nocaso dos autos, foi válida a intimação pessoal por AR, poisa carta foi comprovadamente enviada para o endereço do embargante, por ele próprio fornecidona petição inicial, sendo desnecessária publicação do DJ para comprovar o óbito do executado e a sua condição de inventariante.
+6. Quanto às copias da certidão de óbito de Antônio Braga de"Azevedo e do termo de compromisso que, comprova a condição de inventariante do recorrente, não e admitida a apresentação de novos documentos grau de recurso; exceto quando comprovado motivo impeditivo de força maior de fazê-lo na primeira instância, o que não ocorreu na espécie. Precedentes, TRF, 5", AC 00007140520124058102, Segunda Turma, Rel. Des., Federal- Cíntia" Menezes Brunetta, DJE 12/12/2014;A 63850/PÉ, Des. Fed.Alcides Saldanha (conv.), SegundaTurma. DJE 23/07/2015)(fls. 148).
+8. Nesse contexto, não há falar em omissão da Corte de origem, que expressamente abordou a questão da representatividade do espólio.
+9. Em relação à tese de notoriedade da legitimação do espólio, de modo a tornar desnecessária eventual comprovação, verifica-se que o Tribunala quonão tratou do tema no acórdão recorrido, não obstante a oposição dos aclaratórios. Incide, portanto, o óbice da Súmula 211/STJ, dada a falta de prequestionamento.
+10. Do mesmo modo, não cabe, na presente seara do Recurso Especial, a aferição dessa suposta notoriedade, por pressupor o reexame de provas, medida vedada na via eleita, nos termos da Súmula 7/STJ.
+11. Ante o exposto, nega-se provimento ao Recurso Especial.
+12. Por fim, caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+13. Publique-se. Intimações necessárias.
