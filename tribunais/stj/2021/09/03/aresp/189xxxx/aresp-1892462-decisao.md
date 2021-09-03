@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal Regional Federal da 4ª Região cuja ementa é a seguinte:
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. PRESCRIÇÃO. ART. 174 DO CTN. ADESÃO A PARCELAMENTO. INTERRUPÇÃO DA PRESCRIÇÃO.
+1. O art. 174, parágrafo único, I a IV, do CTN, elenca as causas que interrompem a prescrição, e deve ser interpretado em conjunto com o art. 240, caput e § 1º, do CPC vigente (equivalente ao art. 219, § 1º, do CPC/73). "(..) o marco interruptivo atinente à prolação do despacho que ordena a citação do executado retroage à data do ajuizamento do feito executivo, a qual deve ser empreendida no prazo prescricional." (REsp 1120295/SP, art. 543-C do CPC/73).
+2. A adesão a programa de parcelamento tributário requer a con ssão do débito que o contribuinte almeja parcelar, interrompendo-se, nesse momento, o prazo prescricional (art. 174, parágrafo único, IV, do CTN) e suspendendo-se a exigibilidade do crédito tributário (art. 151, VI, do CTN), ainda que futuramente esse parcelamento não seja validado.
+3. Hipótese em que o parcelamento interrompeu o transcurso da prescrição.
+No recurso especial, interposto com base na alínea c do permissivo constitucional, a recorrente aduz que há clara divergência jurisprudencial.
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 303/305, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Inviável a apreciação do inconformismo recursal fundado na alínea c do permissivo constitucional, quando o recorrente não demonstra o suposto dissídio pretoriano por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma; e d) a indicação dos dispositivos de lei federal com interpretação divergente entre os Tribunais.
+Na hipótese examinada, observa-se que o recorrente não atendeu aos requisitos estabelecidos pelos arts. 1.029, § 1º, do CPC/2015, e 255, § 2º, do RISTJ, em especial o cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a alegada divergência, além da demonstração das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a mera transcrição da ementa e de trechos do voto condutor do acórdão paradigma. Assim, é descabido o presente recurso interposto pela alínea c do inciso III do art. 105 da Constituição Federal.
+Nesse mesmo sentido:
+AGRAVO REGIMENTAL EM AGRAVO. RECURSO ESPECIAL. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. DECISÃO PELA INADMISSIBILIDADE DO RECURSO MANTIDA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Para a admissibilidade do recurso especial, na hipótese da alínea "c" do permissivo constitucional, é imprescindível a indicação das circunstâncias que identifiquem ou assemelhem os casos confrontados, mediante o cotejo dos fundamentos da decisão recorrida com o acórdão paradigma, a fim de demonstrar a divergência jurisprudencial existente (arts. 541 do CPC e 255 do RISTJ).
+2. O recurso revela-se manifestamente inadmissível e procrastinatório, devendo ser aplicada a multa prevista no art. 557, § 2º, do CPC.
+3. Agravo regimental não provido com aplicação de multa.
+(AgRg no AREsp 733.241/SP, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 28/08/2015)
+Diante do exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. EXECUÇÃO FISCAL. ALÍNEA "C". DISSÍDIO JURISPRUDENCIAL. FALTA COTEJO ANALÍTICO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
