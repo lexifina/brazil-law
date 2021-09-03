@@ -1,0 +1,26 @@
+SEGUNDA TURMA DE CÂMARAS CÍVEIS REUNIDAS DE DIREITO PRIVADO
+AÇÃO RESCISÓRIA No 1007794-82.2017.8.11.0000
+REQUERENTE: PORTO SEGURO COMPANHIA DE SEGUROS GERAIS
+REQUERIDA: EUGÊNIA NETA TEIXEIRA BULHÕES
+Vistos.
+Trata-se de ação rescisória com pedido de tutela provisória de urgência, ajuizada por PORTO SEGURO COMPANHIA DE SEGUROS GERAIS em desfavor de EUGÊNIA NETA TEIXEIRA BULHÕES visando a desconstituição da sentença proferida pelo Juízo da 3a Vara Cível da Comarca de Cuiabá/MT, nos autos da Ação Sumária de Cobrança de Benefício de Seguro Obrigatório no. 56680-11.2014.811.0041, com fundamento no artigo 966, inciso V do Código de Processo Civil.
+Consta que a presente ação foi julgada por esta Turma, cujo acórdão foi assim ementado:
+“AÇÃO RESCISÓRIA – FUNDAMENTAÇÃO NO INCISO V DO ART. 966 DO CPC – MANIFESTA VIOLAÇÃO A NORMA JURÍDICA – AÇÃO DE COBRANÇA DE SEGURO OBRIGATÓRIO DPVAT - ARTS. 3o, ‘B’ E 5o, §§ 1o E 5o, DA LEI No 6.194/74 COM A REDAÇÃO VIGENTE À ÉPOCA DO SINISTRO (15/08/2004) TRAZIDA PELA LEI No 8.441/1992 - UTILIZAÇÃO DO SALÁRIO MÍNIMO VIGENTE À ÉPOCA DO EVENTO DANOSO (SINISTRO) - INDENIZAÇÃO PROPORCIONAL À LESÃO E A QUANTIFICAÇÃO DA TABELA CNSP - AÇÃO PROCEDENTE.
+Para que prospere o fundamento do inciso V, do artigo 966 do Código de Processo Civil é necessário que a interpretação dada pela decisão rescindenda seja de tal modo irregular que viole manifestamente a norma jurídica, vale dizer, que resulte na aplicação teratológica da norma.
+O artigo 5o, § 1o, da Lei no. 6.194/74, com a redação vigente à época do sinistro (15/08/2004), trazida pela Lei no 8.441/1992, dispunha que a indenização seria paga com base no o valor do salário mínimo que vigorava na data da liquidação do sinistro.
+Consoante entendimento há muito consolidado pelo Superior Tribunal de Justiça, inclusive na época da prolação da sentença rescindenda, a determinação legal para que o pagamento do seguro DPVAT observe o salário mínimo vigente à data da liquidação do sinistro impõe a observância do salário mínimo vigente à data do evento danoso, sob pena de o salário mínimo ser utilizado indevidamente como indexador de moeda.
+Os artigos 3o, ‘b’, da Lei no 6.194/74 não estabeleceu um valor fixo de indenização para as hipóteses de invalidez permanente, mas sim um teto máximo de valor, que deve ser apurado proporcionalmente ao grau de lesão suportado pela vítima e o dano previsto na tabela de indenização (5o, § 5o, Lei no 6.194/74).
+Inteligência do Enunciado Sumular no 544 do Superior Tribunal de Justiça, vigente à época da prolação da sentença rescindenda: É válida a utilização de tabela do Conselho Nacional de Seguros Privados para estabelecer a proporcionalidade da indenização do seguro DPVAT ao grau de invalidez também na hipótese de sinistro anterior a 16/12/2008, data da entrada em vigor da Medida Provisória n. 451/2008.” (Id. 5193836).
+Posteriormente, foram opostos embargos declaratórios pela requerida, e estes foram acolhidos, cuja ementa segue transcrita:
+“EMBARGOS DE DECLARAÇÃO – AÇÃO RESCISÓRIA – DPVAT – SALÁRIO MÍNIMO BASE DE CÁLCULO DA INDENIZAÇÃO – CORREÇÃO MONETÁRIA A CONTAR DO EVENTO DANOSO - CONTRADIÇÃO SANADA – EMBARGOS ACOLHIDOS.
+Uma vez verificada a contradição do julgado quanto a incidência da correção monetária, os aclaratórios devem ser acolhidos, com efeitos modificativos, a fim de sanar o vício apontado.” (Id. 14394485).
+Por meio da petição de Id. 71575984, após proceder com o desarquivamento da presente ação, a parte requerente comparece nos autos requerendo a devolução do depósito relativo à caução realizada, e para tanto informa os seus dados bancários para transferência do respectivo valor.
+Pois bem. Considerando que o acórdão relativo ao mérito da ação foi publicado no DJE no 10395 em 14/12/2018 (Id. 5201588) e aquele referente aos embargos de declaração foi publicado no DJE no 10572 em 09/9/2019 (Id. 14454089), entendo possível a devolução do valor de R$ 880,00 (oitocentos e oitenta reais) correspondentes a 5% do valor da causa (art. 968, II, do CPC), recolhidos em 04/08/2017, conforme Id. 943330.
+Como é cediço, o depósito prévio previsto no art. 968, II, do CPC, configura uma condição de procedibilidade da ação rescisória, uma espécie de caução a favor do réu, visando desestimular o ajuizamento de ações rescisórias temerárias e inconsequentes.
+Nesse viés, considerando que os pedidos lançados na exordial foram julgados procedentes, o pretendido levantamento do depósito judicial deve ser deferido.
+Diante disso, DEFIRO o levantamento do depósito prévio, devidamente corrigido, pela SEGURADORA LÍDER DO CONSÓRCIO DO SEGUROS DPVAT S/A, atual gestora de todas as ações propostas contra as seguradoras, nos termos do artigo 974, parágrafo único, do Código de Processo Civil, mediante transferência bancária, conforme dados bancários de titularidade informados na petição de Id. 71575984, quais sejam: “ BANCO DO BRASIL S/A: 001 TITULAR: SEGURADORA LÍDER DO CONSÓRCIO DO SEGURO DPVAT S/A CNPJ: 09248608/0001-04 AGÊNCIA: 1912-7 CONTA CORRENTE: 644000-2”, que deverão ser previamente conferidos pela instituição financeira responsável.
+Cumprida tal providência, e nada sendo requerido, arquivem-se.
+Intimem-se. Cumpra-se.
+Cuiabá/MT, 03 de setembro de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
