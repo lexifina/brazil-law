@@ -1,0 +1,32 @@
+DECISÃO
+Cuida-se dehabeas corpus,com pedido de liminar, impetrado em favor de ALINE GONÇALVES DA CONCEIÇÃO, em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução n. 0002159-30.2021.8.26.0502).
+A paciente formulou pedido de retificação do cálculo de penas para fins de benefícios em execução penal, o que foi deferido pelo Juízo das execuções penais (Autos n. 0001843-17.2021.8.26.0502), determinando-sea observância da fração de 40%paraprogressão de regime no caso de reincidência não específica em crime hediondo (fls. 55/57).
+O Ministério Público interpôs agravo em execução,ao qual o Tribunal de origem deu provimento e determinouque os cálculos fossem refeitos, considerando-se o lapso temporal de 60% para progressão de regime (fls. 85/91).
+Aimpetrantesustentaque o cálculo das penas dapaciente comporta retificação,ao argumento de quedeveria ter sido estabelecidaa fração de 2/5ou 40% para fins de progressãode regime, tendo em vista que, com o adventodaLei n.13.964/2019, que alterou o art. 112 da Lei de ExecuçãoPenal,o percentual de 60% ou 3/5 deve ser observado, tão somente, para o apenadoreincidente específico em crime hediondo ou assemelhado, que não é o caso da paciente, que é reincidentena prática de crime comum.
+Requer, liminarmente e no mérito, a retificaçãodos cálculos das penas da paciente.
+A liminar foi deferida pelo Ministro Jorge Mussi, Vice-Presidente, no exercício da Presidênciadesta Corte (fls. 108/110).
+Prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Osnir Belice, pelo não conhecimento do writ, mas pela concessão da ordem de ofício (fls. 129/133).
+É o relatório.
+A liminar deve ser confirmada.
+Com o advento da Lei n. 13.964/2019, o sistema progressivo de regime prisional passou a ter critérios diferenciados, sobretudo no que concerne ao requisito objetivo, acabando por criar uma lacuna legislativa na qual estão inseridos os condenados pela prática de crime hediondo ou equiparado, mas reincidentes em crime comum, situação que exige do intérprete a utilização dos meios de integração da norma, de forma a resolver a controvérsia de maneira mais favorável ao sentenciado.
+Nesse sentido, esta Corte Superior pacificou o entendimento segundo o qual, tratando-se de condenado não reincidente específico na prática de crime hediondo ou equiparado, o cálculo para a progressão de regime deverá observar o cumprimento dopercentual previstono art. 112, inciso V, da Lei de Execuções Penais, ou seja, 40% da pena a ser cumprida.
+A propósito, citoprecedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AGENTE QUE CUMPRE PENA PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME.
+REINCIDENTE POR CRIME COMUM. REQUISITO OBJETIVO. APLICAÇÃO DO PERCENTUAL DE 40% DO CUMPRIMENTO DA PENA PARA OBTER O BENEFÍCIO.
+AGRAVO REGIMENTAL DESPROVIDO.
+1. A jurisprudência desta Corte Superior pacificou o entendimento de que o apenado que cumpre reprimenda por ter praticado crime hediondo ou equiparado somente deve adimplir 60% (sessenta por cento) da pena para requerer a progressão de regime caso a reincidência decorra de crime hediondo ou equiparado.
+2. No caso o sentenciado não é reincidente específico em crime hediondo ou equiparado e, desta forma, o requisito objetivo para o requerimento do referido benefício é o adimplemento de 40% (quarenta por cento) da pena.
+3. Agravo regimental desprovido.(AgRg no HC n. 657.245/SP, relatorMinistro Joel Ilan Paciornik, Quinta Turma,DJe de 24/5/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. ART. 112 DA LEI N. 7.210/1984, COM AS ALTERAÇÕES DA LEI N.13.964/2019. REQUISITO OBJETIVO. PEDIDO DE RETIFICAÇÃO DO CÁLCULO DE PENAS, COM A APLICAÇÃO DO PRAZO DE 40% (QUARENTA POR CENTO) DA PENA.PROCEDÊNCIA. AGRAVO DESPROVIDO.
+1. Os arts. 64, inciso III, e 202, ambos do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma ou contraria a jurisprudência consolidada dos Tribunais Superiores. Precedentes.
+2. A Terceira Seção do Superior Tribunal de Justiça, no julgamento do REsp 1.910.240/MG, publicado em 31/05/2021, da Relatoria do Ministro ROGERIO SCHIETTI CRUZ, firmou a tese de que: "É reconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n.13.964/2019, àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante."
+3. Assim, não há como se aplicar a fração de 3/5 (três quintos), correspondente a 60% (sessenta por cento), para a progressão de regime para o condenado pela prática de crime hediondo, mas reincidente em crime comum, tendo em vista que, de acordo com a literalidade do inciso VII do art. 112 da Lei de Execução Penal, tal fração somente é aplicável a agentes que sejam reincidentes na prática de crime hediondo ou equiparado, o que não corresponde à situação dos autos.
+4. Agravo regimental desprovido.(AgRg no HC n. 670.025/SP, relatoraMinistra Laurita Vaz, SextaTurma,DJe de 21/6/2021.)
+Esse posicionamento foi referendado pela Terceira Seção, em 26/5/2021, no julgamento do REsp n. 1.910.240/MG, afetado como recurso representativo da controvérsia, ocasião em que se fixou a seguinte tese:éreconhecida a retroatividade do patamar estabelecido no art. 112, V, da Lei n. 13.964/2019àqueles apenados que, embora tenham cometido crime hediondo ou equiparado sem resultado morte, não sejam reincidentes em delito de natureza semelhante(Relator Ministro Rogerio Schietti Cruz, DJe 31/5/2021.)
+Ante o exposto, concedoa ordem para, confirmando-se a liminar, determinar aanálise de eventual pedido de progressão de regime em favor dapaciente,observando, quanto ao requisito objetivo, o cumprimento da fração de 40% da pena privativa de liberdade que lhe foi imposta (art. 112, V, da Lei de ExecuçãoPenal, alterado pela Lei n. 13.964, de 2019).
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. CONDENAÇÃO PELA PRÁTICA DE CRIME HEDIONDO OU EQUIPARADO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE GENÉRICO (NÃO ESPECÍFICO). REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO. PRECEDENTES. CONSTRANGIMENTO ILEGAL CONFIGURADO. LIMINAR CONFIRMADA.
+Ordem concedidanos termos do dispositivo.
