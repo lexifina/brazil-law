@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso ordinário em mandado de segurança interposto por Luciano Ferreira de Andrade, com amparo no art. 105, II, "b", da Constituição Federal/1988, contra acórdão doTribunal de Justiça do Rio Grande do Norte, indicando como autoridade coatora o Comandante-Geral da Polícia Militar local, responsável por sua exclusão do concurso.
+O acórdão recorrido foi assim ementado:
+CONSTITUCIONAL. PROCESSUAL CIVIL. ADMINISTRATIVO. MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. CONVOCAÇÃO EDITALÍCIA PARA REALIZAÇÃO DE EXAME FÍSICO UNICAMENTE PELA IMPRENSA OFICIAL. ELIMINAÇÃO DIANTE DO NÃO COMPARECIMENTO. PRETENSÃO DE NOVA CONVOCAÇÃO. ALEGAÇÃO DE OFENSA AOS PRINCÍPIOS DA ISONOMIA E LEGALIDADE POR NÃO TER A CONVOCAÇÃO SE MOSTRADO ADEQUADA E ABRANGENTE, BEM COMO PELA NOVA OPORTUNIDADE DADA A CANDIDATOS EM IDÊNTICA SITUAÇÃO. RESULTADOS OFICIAIS QUE DEVEM SER PUBLICADOS EXCLUSIVAMENTE EM DIÁRIO OFICIAL DO ESTADO. PRECEITO CONSIGNADO DE FORMA EXPRESSA NO EDITAL. OBSERVÂNCIA DO PRINCÍPIO DA VINCULAÇÃO AO INSTRUMENTO CONVOCATÓRIO. CANDIDATO QUE NÃO COMPARECE A ATO CONVOCATÓRIO. LEGALIDADE DA DESCLASSIFICAÇÃO. SEGURANÇA DENEGADA.
+Defende a parte recorrente, em síntese, ter direito a ser mantido no concurso, conforme deferido em liminar posteriormente cassada, por não ter sido convocado por telegrama para os exames físicos, passados 5 (cinco)anos da realização da primeira etapa. Aduz que outros candidatos foram convocados dessa forma e que não foi observada a convocação prevista em edital, pelo site da realizadora do certame. Acresce que, no curso de vigência da liminar, realizou e foi aprovado em ditos exames, restando apenas o curso de formação para concluir a seleção.
+Sem contrarrazões.
+Parecer pelo provimento (e-STJfls. 454-457).
+Processo com preferência legal (art. 12, § 2º, VII, do CPC/15, combinado coma Meta 2/CNJ/2021- "Identificar e julgar, até 31/12/2021, 99% dos processos distribuídos até 31/12/2016e 95% dos distribuídos em 2017").
+É o relatório.
+Para o acórdão, a invocação do princípio da isonomia seria descabida, porque a administração agiu ilegalmente ao descumprir o edital e enviar telegramas a parcela dos candidatos convocados para a segunda etapa anos após a etapa anterior.
+É evidente que o princípio constitucional não se submete àlei, tanto menos ao edital do concurso. Ademais, não há nenhuma ilegalidade na providência administrativa, que se coaduna com a jurisprudência desta Corte. A propósito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO EM MANDADO DE SEGURANÇA. CONCURSO PÚBLICO. EXTENSO LAPSO TEMPORAL.NOMEAÇÃO SOMENTE NO DIÁRIO OFICIAL. PRINCÍPIOS DA PUBLICIDADE E DA RAZOABILIDADE. VIOLAÇÃO. DECADÊNCIA. TERMO A QUO. CIÊNCIA INEQUÍVOCA DO ATO.
+1. O acórdão de origem destoa da jurisprudência do STJ, que se firmou no sentido de que a nomeação em concurso público após considerável lapso temporal da homologação do resultado final, sem a notificação pessoal do interessado, viola os princípios da publicidade e da razoabilidade, não sendo suficiente a convocação para a fase posterior do certame, ou para a posse, apenas por meio do Diário Oficial.
+2. Conforme jurisprudência desta Corte o termo inicial do prazo decadencial para impetração do mandado de segurança passa a fluir com a ciência inequívoca do ato que efetivamente se alega ter violado o direito líquido e certo do impetrante.
+3. Agravo interno a que se nega provimento.
+(AgInt no RMS 65.383/MT, de minha relatoria, SEGUNDA TURMA, julgado em 31/5/2021, DJe 15/6/2021).
+Assim, forçoso reconhecer a validade dos exames já realizados na vigência da liminar e considerar o candidato apto para a fase subsequente do certame, qual seja, o Curso de Formação.
+Ante o exposto, com fulcro no art. 932 do CPC/2015, c/c o art. 34, XVIII e XIX, do RISTJ, dou provimento ao recurso ordinário em mandado de segurançapara reconhecer válida as aprovaçõesdo candidato realizadas na vigência da liminar e declarar sua aptidão para a etapa subsequente do concurso.
+Publique-se. Intimem-se.
