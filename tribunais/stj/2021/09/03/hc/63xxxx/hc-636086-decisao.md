@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de JÉSSICA BUENO PALMEIRA, apontando como autoridade coatora o Desembargador Relator doTribunal de Justiça do Estado de Goiás.
+Depreende-se dos autos que a paciente foi presa em flagrante e teve a prisão convertida em preventiva pela suposta prática do crimeprevistono artigo 33, caput,da Lei 11.343/06 (fl. 166).
+Irresignada, a defesa impetrou habeas corpus perante o eg. Tribunal a quo. O Desembargador Relator indeferiu a liminar de fls. 161-163.
+Daí o presente habeas corpus, no qual alega a defesa a existência de constrangimento ilegal, em razão da ausência dos requisitos ensejadores da prisão preventiva.
+Pondera a possibilidade da aplicação de medidas cautelares diversas da prisão.
+Aduz a necessidade da revogação da prisão preventiva em razão da pandemia causada pelo coronavírus.
+Salienta que a paciente é mãe decrianças menores de 12 anos.
+Pleiteia a revogação da sua prisão preventiva com a aplicação de medidas cautelares diversas da prisão.
+Liminar indeferida às fls. 196-197.
+Informações prestadas às fls. 200-206 e 218-220.
+O d. Ministério Público Federal manifestou, às fls. 250-254, pelo não conhecimento do writ e, se conhecido, pela denegação do habeas corpus, em parecer que restou assim ementado:
+"HABEAS CORPUS CONTRA INDEFERIMENTO DE LIMINAR EM OUTROWRIT. SÚMULA  691/STF TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FILHOS MENORES DE 12 ANOS. NÃO DEMONSTRADA A IMPRESCINDIBILIDADE DA PRISÃO DOMICILIAR. AOS CUIDADOS DAS CRIANÇAS.GARANTIA DA ORDEM PÚBLICA. FUNDAMENTAÇÃO CONCRETA. QUANTIDADE EXPRESSIVA DE DROGA APREENDIDA. ORGANIZAÇÃO CRIMINOSA. PARECER PELO NÃO CONHECIMENTO. DO WRIT. SE CONHECIDO, QUE SEJA DENEGADO" (fl. 250).
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça,em seu art.34, inciso XX, permite ao relator"decidir ohabeas corpusquando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal,a jurisprudência dominante acerca do temaou as confrontar".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata dehabeas corpus substitutivo de recurso próprio.
+O pedido está prejudicado.
+Em consulta ao sítio do Tribunal de origem,Processo n. 5602437-30.2020.8.09.0137, verifiquei que foi proferida sentença condenatória e a paciente foi condenada à pena de 9 (nove) anos de reclusão, em regime fechado, pela suposta prática"do art. 33, caput, da Lei n.º 11.343/2006, c/c art. 65, I, do Código Penal".Na ocasião, o MM. Magistrado acrescentou novos fundamentos para manter a prisão preventiva em seu desfavor.
+Portanto, conforme o entendimento sedimentado por esta Corte, o presente feito encontra-se prejudicado, uma vez que se insurge contra decreto prisional que não mais subsiste devido à superveniência de novo título prisional com novos fundamentos.
+A propósito, os seguintes precedentes desta Corte sobre o tema:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. SUPERVENIÊNCIA DE SENTENÇA CONDENATÓRIA. NOVOS FUNDAMENTOS A EMBASAR A CUSTÓDIA. WRIT PREJUDICADO. APELAÇÃO DEFENSIVA. EXECUÇÃO PROVISÓRIA. AGRAVO DESPROVIDO.
+1. A superveniência de sentença penal condenatória, na qual se nega ao Acusado o direito de recorrer em liberdade, com novos fundamentos para justificar a prisão preventiva conduz à prejudicialidade da ação constitucional de habeas corpus ou do recurso em habeas corpus dirigidos contra decisão antecedente de constrição cautelar. 2. Além disso, é possível a execução provisória da pena após a confirmação da sentença condenatória pelo Tribunal de origem quando exaurida a jurisdição ordinária.
+3. Agravo regimental desprovido" (AgRg no HC n. 461.932/SP, Sexta turma, Relª. Minª. Laurita Vaz, DJe de 19/08/2019, grifei).
+"PROCESSUAL PENAL. HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PRISÃO PREVENTIVA. NULIDADE. PRODUÇÃO ANTECIPADA DE PROVAS. INOCORRÊNCIA. PREJUÍZO NÃO DEMONSTRADO. PAS DE NULLITÉ SANS GRIEF. INTELIGÊNCIA DO ART. 563 DO CPP. ALEGADA AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA DO DECRETO PRISIONAL. PEDIDO PREJUDICADO. SUPERVENIÊNCIA DA PRONÚNCIA. NOVO TÍTULO COM NOVOS FUNDAMENTOS. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, nos termos do entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento do writ, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - "A decisão que determina a produção antecipada de provas com base no art. 366 do CPP deve ser concretamente fundamentada, não a justificando unicamente o mero decurso do tempo", segundo disposição da Súmula 455/STJ.
+III - No caso, as decisões das instâncias ordinárias não estão fundamentadas somente no mero decurso do tempo, mas também na ausência de comprovação de qualquer prejuízo para o paciente, na medida em que a audiência foi acompanhada pela Defesa Técnica que na ocasião, inclusive, sequer se manifestou sobre a questão. Não há que se falar, pois, em violação ao enunciado n. 455, da Súmula do STJ. Precedentes.
+IV - Ademais, extrai-se das razões expendidas pelo eg. Tribunal de origem que os fatos ocorreram há quase 19 (dezenove) anos, e que o ora paciente permaneceu foragido por dezoito anos. Outrossim, há que se destacar que a informação prestada pelo irmão do paciente de que este compareceria espontaneamente à audiência de instrução, estando ciente da data de sua realização, porém tomou rumo ignorado, o que obstou sua localização para que fosse interrogado, tudo a dificultar a instrução criminal.
+V - A jurisprudência desta Corte de Justiça há muito se firmou no sentido de que a declaração de nulidade exige a comprovação de prejuízo, em consonância com o princípio pas de nullité sans grief, consagrado no art. 563 do CPP, o que não ocorreu na hipótese. Precedentes.
+VI - Pleito de revogação da prisão preventiva ante a alegada ausência de fundamentação do decreto prisional prejudicado pela superveniência da sentença de pronúncia, que constitui novo título, com novos fundamentos para a prisão preventiva, os quais não foram impugnados na presente impetração, tampouco analisados pelo eg. Tribunal de origem.
+Habeas corpus não conhecido" (HC 495.012/SP, Quinta Turma, Rel. Ministro Felix Fischer, DJe 25/06/2019, grifei).
+Nesse contexto, verifico que o presente writ perdeu o objeto.
+Ante o exposto, com fulcro no art. 34, inciso XX, do RISTJ, julgo o presente habeas corpus prejudicado.
+P. e I.
