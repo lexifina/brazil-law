@@ -1,0 +1,13 @@
+DECISÃO
+Cuida-se de homologação de decisão arbitral estrangeira, proferida em Londres, na qual houve condenação da COOPERATIVA DOS AGRICULTORES DE PLANTIO DIRETO LTDA. ao pagamento de indenização, em favor de MIDGULF SERVICES LTDA.
+Citada pessoalmente (fls. 203-204), a parte requerida deixou de apresentar contestação no prazo legal (fl. 205).
+A Defensoria Pública da União, na qualidade de curadora especial, e o Ministério Público Federal não se opuseram à homologação (fls. 210-211 e fls. 266-268). O Ministério Público Federal destacou que não foram verificados, no caso em tela, os óbices insertos no art. 38 da Lei n. 9.307/96.
+É, no essencial, o relatório. Decido.
+Preliminarmente, é possível a homologação de decisão estrangeira oriundade tribunal arbitral, conforme os arts. 34 a 40 da Lei n. 9.307/1996 -LeiBrasileira de Arbitragem (LBA). Para isso, é necessário que a petiçãoinicial seja instruída com: a) o original da sentença arbitral ou cópiaautenticada pelo consulado brasileiro, acompanhada de tradução oficial;e b) o original da convenção de arbitragem ou cópia certificada,acompanhada de tradução oficial.
+Ainda de acordo com a LBA, poderá ser negada a homologação de sentençaarbitral estrangeira quando: a) as partes na convenção de arbitragemforem incapazes; b) a convenção de arbitragem não for válida; c) o réunão tiver sido notificado da designação do árbitro ou do procedimento dearbitragem, ou tiver sido violado o princípio do contraditório,impossibilitando a ampla defesa; d) a sentença tiver sido proferida forados limites da convenção e não for possível separar a parte excedentedaquela submetida à arbitragem; e) a arbitragem não estiver de acordocom o compromisso arbitral ou a cláusula compromissória; f) a sentençaarbitral não tiver se tornado obrigatória para as partes, tiver sidoanulada ou suspensa por órgão judicial do país onde prolatada; g)segundo a lei brasileira, o objeto do litígio não for suscetível de serresolvido por arbitragem; e h) a decisão arbitral ofender a ordempública nacional.
+Os documentos necessários à pretensão foram devidamente apresentados.
+Consta dos autos a sentença estrangeira, acompanhada de apostila e traduzida por profissional juramentado no Brasil (fls. 115-125, fl. 62 e fls. 103-111), bem como a comprovação do trânsito em julgado, a dar eficácia à decisão (fls. 143-148).
+Outrossim, verifica-se que que foi juntada a convenção de arbitragem (fls. 61-68), traduzida às fls. 54-60, com a sentença arbitral estrangeira (fls. 116-125), traduzida às fls. 104-109, atendendo ao disposto no art. 37, da Lei n. 9.307/96.
+Ante o exposto, homologo o título arbitral estrangeiro.
+Expeça-se a carta de sentença.
+Publique-se.
