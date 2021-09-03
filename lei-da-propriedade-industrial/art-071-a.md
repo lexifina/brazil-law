@@ -1,0 +1,1 @@
+Art. 71-A. Poderá ser concedida, por razões humanitárias e nos termos de tratado internacional do qual a República Federativa do Brasil seja parte, licença compulsória de patentes de produtos destinados à exportação a países com insuficiente ou nenhuma capacidade de fabricação no setor farmacêutico para atendimento de sua população.
