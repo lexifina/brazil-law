@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto pelo MUNICÍPIO DE CIDADE OCIDENTAL em face de decisão proferida pelo Tribunal de Justiça de Goiás que inadmitiu o recurso especial manejado contra acórdão assim ementado:
+APELAÇÃO CÍVEL. AÇÃO DECLARATÓRIA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. PROTESTO DE DÍVIDA DE IPTU. DÉBITO INEXISTENTE. DANO MORAL IN RE IPSA CONFIGURADO. MONTANTE INDENIZATÓRIO ADEQUADO. JUROS E CORREÇÃO MONETÁRIA. MATÉRIA DE ORDEM PÚBLICA. HONORÁRIOS RECURSAIS. MAJORAÇÃO.
+I - Conforme entendimento pacificado do Superior Tribunal de Justiça (REsp nº1707577/SP), o dano moral, oriundo de inscrição ou manutenção indevida em cadastro de inadimplentes ou protesto indevido, prescinde de prova, configurando in re ipsa, de tal modo que evidenciado o ato ilícito, o dano e o nexo causal, resta configurada a obrigação de indenizar aparte lesada.
+II - O indevido protesto da dívida em nome do autor, em relação a inexistente débito de IPTU evidencia o caráter ilícito da conduta da municipalidade, ensejando o dever de indenização da parte que suportou o prejuízo.
+III - A fixação dos danos morais deve obedecer aos princípios da razoabilidade e proporcionalidade, servindo como forma de compensação da ofensa.
+IV - Uma vez que o ato combatido foi omisso quanto aos consectários legais a serem aplicados, por ser matéria cognoscível de ofício, determino que seja aplicado o índice de remuneração da caderneta de poupança, nos moldes do artigo 1º F da Lei nº 9.494/97 e correção monetária conforme o IPCA-E, desde o arbitramento (súmula 362 do Superior Tribunal de Justiça).
+V - Mesmo sem a apresentação das contrarrazões, a verba honorária sucumbencial deve ser majorada em caso de desprovimento do recurso, artigo 85, § 11, do Código de Processo Civil. Precedentes do Supremo Tribunal Federal.
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, interposto com fulcro nas alíneas "a" e "c"do permissivo constitucional, sustenta o recorrente que o Tribunal a quo violou o art. 927 do Código Civil, pois feriu o princípio da razoabilidade e proporcionalidade impondo valor extremamente desarrazoado à municipalidade.
+Foram apresentadas contrarrazões.
+O recurso especial foi inadmitido pelo Tribunal de origem à consideração de que incide no caso o óbice da Súmula 282/STF.
+Nas suas razões de agravo, a agravante impugnou o fundamento da decisão de inadmissibilidade do recurso especial.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ:  Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+O agravante impugnou a fundamentação contida na decisão agravada e, mostrando-se preenchidos os demais pressupostos de admissibilidade do presente recurso, adentra-se o mérito.
+No caso dos autos, conforme se extrai do acórdão recorrido, cuida-se de ação de indenização por danos morais, em decorrência de protesto indevida de dívida de IPTU, uma vez que o débito era inexistente.
+Em primeira instância, o pedido foi julgado procedente e, interposta apelação, o Tribunal local negou provimento ao recurso, com os seguintes fundamentos (e-STJ, fls. 199/200):
+"In casu, ao compulsar o caderno processual, constata-se que o apelado teve um pedido de faturamento negado sob a justificativa de existência de um protesto indevido, relativo à dívida deI PTU, em seu nome.
+A tese defendida pela municipalidade, de que o erro cometido pela administração pública causou"mero dissabor" não merece prosperar, tendo em vista os prejuízos suportados de ordem moral, uma vez que prejudicou o recorrido no exercício das suas atividades comerciais, ocasionando constrangimento perante fornecedores e clientes.
+Além disso, o protesto indevido da dívida em nome do autor/recorrido, por si só gera configura ato ilícito pelo protesto indevido, sendo automáticos os prejuízos de ordem moral in re ipsa, ou seja, sem que haja necessidade de prova do reflexo patrimonial, nem tampouco do sofrimento que acometeu a vítima, como já sedimentado pelo Superior Tribunal de Justiça, verbis:
+ ..
+Destarte, frente à fundamentação disposta, há de se reconhecer o dano moral suportado, não havendo reparos a serem feitos na sentença a quo.
+No tocante ao quantum fixado, destaco que foi levado em consideração o caráter preventivo e punitivo inerente a tal penalidade pecuniária, não resultando, ainda, em fonte de enriquecimento sem causa do administrado."
+O acolhimento da pretensão recursal, para reduzir o valor da indenização fixada, demandaria o revolvimento do conjunto fático probatório dos autos, o que não é cabível em sede de recurso especial, nos termos da Súmula 7/STJ.
+Frise-se que o Superior Tribunal de Justiça só pode rever o quantum indenizatório fixado a títulos de danos morais em ações de responsabilidade civil quando irrisórios ou exorbitantes, o que não ocorreu na espécie. Ilustrativamente:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. RECUSA DE AUTORIZAÇÃO PARA REALIZAÇÃO DE PROCEDIMENTO CIRÚRGICO. ALEGADA VIOLAÇÃO AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIOS, NO ACÓRDÃO RECORRIDO. INCONFORMISMO. INDENIZAÇÃO POR DANOS MORAIS. ACÓRDÃO QUE, À LUZ DAS PROVAS DOS AUTOS, CONCLUIU PELA CONFIGURAÇÃO DE DANOS MORAIS. CONTROVÉRSIA RESOLVIDA, PELO TRIBUNAL DE ORIGEM, EM FACE DAS PROVAS DOS AUTOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. PRETENDIDA REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE DE REVISÃO. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+ ..
+VI. Em relação ao valor da indenização por danos morais, o Tribunal a quo, à luz das provas dos autos e em vista das circunstâncias fáticas do caso, manteve o valor arbitrado, pela sentença, em R$ 4.000,00 (quatro mil reais), considerando ser ele razoável e adequado ao caso. Nesse contexto, "a jurisprudência do Superior Tribunal de Justiça é no sentido de que a revisão dos valores fixados a título de danos morais somente é possível quando exorbitante ou insignificante, em flagrante violação aos princípios da razoabilidade e da proporcionalidade, o que não é o caso dos autos. A verificação da razoabilidade do quantum indenizatório esbarra no óbice da Súmula 7/STJ" (STJ, AgInt no AREsp 927.090/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 08/11/2016). Incidência, no caso, da Súmula 7/STJ diante das peculiaridades da causa, expostas no acórdão recorrido.
+VII. Agravo interno improvido.
+(AgInt no AREsp 1551535/PE, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 17/12/2019, DJe 19/12/2019)
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RESPONSABILIDADE CIVIL DO MUNICÍPIO. ASSÉDIO MORAL. DANOS MORAIS. REDUÇÃO DO QUANTUM INDENIZATÓRIO. IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. Em regra, não é cabível na via especial a revisão do montante indenizatório estipulado pelas instâncias ordinárias, ante a impossibilidade de reanálise de fatos e provas por este Sodalício no âmbito do recurso especial, conforme o óbice previsto na Súmula 7/STJ. 2. Ressalta-se que a jurisprudência deste Superior Tribunal de Justiça admite, somente em caráter excepcional, que o quantum arbitrado seja alterado, caso se mostre irrisório ou exorbitante, em clara afronta aos princípios da razoabilidade e da proporcionalidade, situação não configurada na espécie.
+ ..
+4. Agravo interno não provido.
+(AgInt no AREsp 1513649/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 02/12/2019, DJe 05/12/2019)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conhe ço do agravo para não conhecer do recurso especial,
+Publique-se. Intimem-se
+EMENTA
+ADMINISTRATIVO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. RESPONSABILIDADE CIVIL DO ESTADO. VALOR DA INDENIZAÇÃO. REVOLVIMENTO DO CONJUNTO FÁTICO PROBATÓRIO DOS AUTOS. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
