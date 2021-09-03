@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de agravo apresentado por ANTONIO MEIADO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO CÍVEL - MANDADO DE SEGURANÇA - Complementação de aposentadoria - Extinta FEPASA.
+1. Prescrição do fundo do direito - Inocorrência - Relação de trato sucessivo - Inteligência da Súmula n" 85, do Superior Tribunal de Justiça.
+2. Impossibilidade jurídica do pedido - Inocorrência - Salário mínimo não utilizado como indexador - Ausência de afronta à Súmula Vinculante nº 4, do Colendo Supremo Tribunal Federal.
+3. Contrato Coletivo de Trabalho biênio 1995/1996 - Restabelecimento do piso salarial fixado, à época, em 2,5 salários mínimos - Aplicação dos artigos 4% parágrafo 2º da lei 9.343/96 e 192/193 do Estatuto dos Ferroviários (Decreto 35.530/59).
+4. Juros moratórios - Inaplicabilidade das alterações promovidas pelo artigo 5º, da Lei nº 11.960/09 - Inconstitucionalidade declarada pelo Colendo Supremo Tribunal Federal - Recurso provido.
+Alega violação do art. 20, §§ 3º e 4º, do CPC/73, no que concerne ao caráter irrisório do valor fixado a titulo de verba honorária sucumbencial, trazendo os seguintes argumentos:
+Ainda que o feito tramite contra a Fazenda Pública, a verba honorária arbitrada inicialmente é aviltante, eis que não condizente com o valor da causa bem como com todo o suporte jurídico necessário aos REQUERENTES que constam do feito. Foi arbitrado honorários no importe de R$ 1.200.00!
+Ato contínuo, merece reforma o decisum ao passo que viola literalmente o artigo 20, §3º e §4º do CPC. (fls. 396).
+De fato, o valor arbitrado não observa a inteligência do artigo 20 do CPC em qualquer de seus parágrafos, ao passo que o termo "equidade" não pode se tornar um manto de economia em despesas judiciais para o ente Público, mormente ao despeito do trabalho de outrem e quando o estado de direito é voltado à dignidade da pessoa humana bem como voltado a valorização do trabalho pela ordem econômica. (fls. 397).
+É, no essencial, o relatório. Decido.
+Na espécie, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
