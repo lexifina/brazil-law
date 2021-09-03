@@ -1,0 +1,26 @@
+DECISÃO
+HABEAS CORPUS. CONSTITUCIONAL. PENAL. PETIÇÃO INICIAL INEPTA. DEFICIÊNCIA DE INSTRUÇÃO. HABEAS CORPUS AO QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Habeas corpus, com requerimento de medida liminar, impetrado em 2.9.2021 por Evandro Cassius Scudeler, advogado, em benefício de José Sebastião de Almeida Filho, contra ato deste Supremo Tribunal.
+    2. Em confusa petição, o impetrante alega “[c]ontrariedade aos arts. 5º, XXXVIII, alínea ‘c’, e LV, da Constituição Federal”, argumentando que, “[d]urante a tramitação processual dos autos em sede de recurso nas instâncias superiores é perfeitamente possível vislumbrar uma flagrante violação aos direitos e garantias fundamentais, sendo de rigor a manutenção da sentença absolutória proferida em plenário do Tribunal do Júri.
+    Em Primeira instância foram carreadas provas aos autos que formaram o convencimento do conselho de sentença, de forma imparcial, sendo que os jurados cumpriram com sua função, descrita no art. 472, do Código de Processo Penal, julgando de acordo com a consciência e os ditames da justiça sem que o ato estivesse eivado de vícios que invalidassem a decisão do conselho.
+    A convicção dos jurados se concretizou de acordo com a tese defensiva que, assim como descrito na própria ata da sessão do Tribunal do Júri (fls. 740), foi (...) desenvolvida no sentido de ser o réu, ora recorrente, absolvido por falta de provas.
+    (…) Assim, há a existência de suporte probatório hábil a sustentar a opção dos jurados entre duas versões possíveis, sendo que a modificação do mérito da decisão proferida pelo conselho de sentença redundaria em flagrante violação à Constituição e aos princípios constitucionais, da soberania dos veredictos, o princípio do contraditório e ampla defesa e entre outros.
+    (…) não há qualquer sustentação para tese de que a decisão dos jurados foi manifestamente contrária a prova dos autos, conforme dispõe o art. 593, III, alínea ‘d’, sendo que diante do princípio do contraditório e ampla defesa e ainda da plenitude de defesa prevista no art. 5º, XXXVIII, alínea ‘a’, o douto defensor do recorrente buscou evidenciar em plenário as diversas contradições existente nos autos” (sic).
+    Estes o requerimento e o pedido:
+    “(...) requer seja concedida LIMINARMENTE a suspensão cautelar do processo n.º 0004636-32.2009.8.26.0539 em tramite perante a 1ª Vara Criminal da Comarca de Santa Cruz do Rio Pardo/SP, até final julgamento do presente ‘writ’.
+    E assim sendo, e reiterando o pedido de suspensão cautelar do referido processo, aguarda-se deste Egrégio Supremo Tribunal Federal, seja concedida a ordem de ‘Habeas Corpus’ em favor do paciente JOSÉ SEBASTIÃO DE ALMEIDA FILHO” (sic).
+    Examinada a matéria posta à apreciação, DECIDO.
+    3. A leitura da petição revela a inépcia da inicial deste habeas corpus, não tendo havido a indicação do ato que teria sido praticado neste Supremo Tribunal pelo qual teria sido imposto pretenso constrangimento ilegal ao paciente.
+    Descabe adotar providência elucidativa pela incongruência dos termos da petição. Não é de se conhecer de habeas corpus com as características do que se tem em exame.
+    4. Ademais, a presente ação está deficientemente instruída, desacompanhada de documentos, a impossibilitar a compreensão ou o exame do pedido.
+    Sem dados passíveis de serem minimamente analisados para a ciência plena do caso, de eventuais incidentes havidos e possíveis consequências, o presente habeas corpus não pode ter seguimento por carecer dos requisitos necessários ao válido processamento.
+    Confiram-se, por exemplo, os seguintes julgados:
+    “PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. INSTRUÇÃO DO WRIT. DEFICIÊNCIA. JURISPRUDÊNCIA DO SUPREMO TREBUNAL FEDERAL. 1. A orientação jurisprudencial desta Corte é no sentido de que constitui ônus do impetrante instruir a petição do habeas corpus com as peças necessárias ao exame da pretensão nela deduzida (HC 95.434, Rel. Min. Ricardo Lewandowski; HC 116.523, Rel. Min. Dias Toffoli; HC 100.994, Relª. Minª. Ellen Gracie; HC 94.219, Rel. Min. Ricardo Lewandowski). 2. Agravo regimental a que se nega provimento” (HC n. 182.064 – AgR, Relator o Ministro Roberto Barroso, DJe 15.7.2020).
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSO PENAL. ESTELIONATO. TRANCAMENTO DA AÇÃO PENAL. INSTRUÇÃO DEFICIENTE DO WRIT. INVIABILIDADE DE CONHECIMENTO DA IMPETRAÇÃO. 1. A jurisprudência do Supremo Tribunal Federal é firme no sentido da inadmissão do habeas corpus, quando não instruídos os autos com as peças necessárias à confirmação da efetiva ocorrência do constrangimento ilegal. Precedentes. 2. Agravo regimental conhecido e não provido” (HC n. 177.712 – AgR, Relatora a Ministra Rosa Weber, DJe 6.3.2020).
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. CONSTITUCIONAL. PENAL. PETIÇÃO INEPTA. DEFICIÊNCIA DE INSTRUÇÃO AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO” (HC n. 163.114 – AgR, de minha relatoria, DJe 26.9.2019).
+    5. Pelo exposto, nego seguimento ao habeas corpus (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+    Publique-se.
+    Brasília, 3 de setembro de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
