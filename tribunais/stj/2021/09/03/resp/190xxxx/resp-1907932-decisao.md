@@ -1,0 +1,36 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Zelina Corteletti, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/88, contra acórdão do Tribunal Regional Federal da 2ª Regiãoassim ementado (e-STJfl. 231):
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. APOSENTADORIA RURAL POR IDADE. SEGURADO ESPECIAL. ATIVIDADE URBANA CONCOMITANTE. IMPOSSIBILIDADE DE RECONHECIMENTO DA CONDIÇÃO ESPECIAL. RECURSO DESPROVIDO.
+1. Período de 06/02/2004 e 12/2008: o CNIS registra que a autora trabalhou para a Prefeitura de Barra de São Francisco entre 06/02/2004 e 12/2008. Ainda que possa ter ocorrido atividade concomitante com a atividade campesina, a manutenção de outra fonte de renda é suficiente para descaracterizar a condição de segurado especial.
+2. Recurso desprovido.
+Os embargos de declaração (e-STJfls. 242/251) tiveram provimento negado, nos termos da decisão de e-STJfls. 266/272.
+A recorrente alega, além de divergência jurisprudencial, que foram violados os arts. 48, §§ 1º e 2º, e 143 da Lei n. 8.213/1991.
+Defende o reconhecimento de período de atividade rural descontinua para a concessão de aposentadoria por idade rural.
+Sustenta que a atividade rural intercalada não é suficiente para descaracterizar a condição de segurado especial.
+Admitido o recurso especial na origem (e-STJfl. 348), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem decidiu pela descaracterização da condição de segurado especial sob a seguinte fundamentação (e-STJfls. 234/235):
+Importante destacar que a própria Autarquia reconhece os períodos de 01/01/2001 a 05/02/2004, 01/01/2009 a 02/10/2010 e 03/10/2010 a 29/06/2014 como exercidos na categoria de trabalhador rural, conforme Termo de Homologação da Atividade Rural anexado à fl. 132.
+Todavia, quanto ao período de 06/02/2004 e 12/2008, o CNIS de fl. 153 registra que a autora trabalhou para a Prefeitura de Barra de São Francisco entre 06/02/2004 e 12/2008. Ainda que possa ter ocorrido atividade concomitante com a atividade campesina, a manutenção de outra fonte de renda é suficiente para descaracterizar a condição de segurado especial.
+Cabe salientar, também, que os depoimentos das testemunhas ouvidas em Juízo (fls. 169/170) foram favoráveis ao pleito autoral, mas não corroboram a qualidade de segurado especial.
+Por esse motivo, deve ser mantida a improcedência do pedido.
+Dessa forma, verifica-se que, para afastar o entendimento a que chegou a Corte de origem, de modo a albergar as peculiaridades do caso, como sustentado neste recurso especial, é necessário o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável em recurso especial, por óbice da Súmula 7/STJ: "A pretensão de simples reexame de prova não enseja recurso especial.".
+A propósito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PEDIDO DE APOSENTADORIA POR IDADE, NA CONDIÇÃO DE TRABALHADORA RURAL, EM REGIME DE ECONOMIA FAMILIAR. ACÓRDÃO RECORRIDO QUE, À LUZ DA PROVA DOS AUTOS, CONCLUIU PELA INEXISTÊNCIA DE COMPROVAÇÃO DA ATIVIDADE RURAL, EM REGIME DE ECONOMIA FAMILIAR.REEXAME DE MATÉRIA FÁTICA. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO.
+I. Agravo interno aviado contra decisão publicada em 08/11/2016, que, por sua vez, julgara recurso interposto contra a decisão que inadmitira o Recurso Especial, publicada na vigência do CPC/73.
+II. Na espécie, a autora ajuizou ação, postulando a concessão de aposentadoria por idade, como trabalhadora rural, em regime de economia familiar. O Tribunal a quo, à luz das provas dos autos, concluiu que, "não há nos autos qualquer documento da parte autora que a qualifique como trabalhadora do meio rural" e que "o extrato do sistema CNIS/Dataprev de fls. 54 indica o exercício de atividade urbana pela autora entre 2002 e 2005, o que corrobora sua descaracterização como rurícola em regime de economia familiar". Após analisar os documentos do marido da autora, juntados aos autos, o acórdão recorrido afirmou que "o regime de economia familiar pressupõe que os membros da família trabalhem no imóvel rural, sem o auxílio de empregados, para sua própria subsistência, o que não ficou comprovado no presente feito".
+III. Considerando a fundamentação adotada, o acórdão recorrido somente poderia ser modificado mediante o reexame dos aspectos concretos da causa, o que é obstado, no âmbito do Recurso Especial, pela Súmula 7 desta Corte.
+IV. No que tange à interposição fundamentada na alínea c do permissivo constitucional "o STJ tem jurisprudência pacífica no sentido de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial, na hipótese em que o dissídio é apoiado em fatos e não na interpretação da lei federal.Isso porque a Súmula 7 do STJ também se aplica aos recursos especiais interpostos pela alínea c do permissivo constitucional" (STJ, AgInt no AREsp 858.894/SP, Rel. Ministra DIVA MALERBI (Desembargadora Federal Convocada do TRF/3ª Região), SEGUNDA TURMA, DJe de 10/08/2016).
+V. Agravo interno improvido.
+(AgInt no AREsp 801.026/SP, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 14/3/2017, DJe 27/3/2017).
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. APOSENTADORIA RURAL POR IDADE. QUALIDADE DE SEGURADA. DESCARACTERIZAÇÃO. INVERSÃO. SÚMULA 7 DO STJ. INTERPOSIÇÃO DE SEGUNDO AGRAVO INTERNO CONTRA A MESMA DECISÃO. PRECLUSÃO CONSUMATIVA.
+1. Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo n. 3).
+2. Nos termos dos arts. 48, § 1º, 55, § 3º, e 143 da Lei n. 8.213/1991, é devida a aposentadoria por idade ao trabalhador rural que completar 60 anos de idade, se homem, e 55 anos, se mulher, desde que esteja demonstrado o exercício de atividade agrícola, por um início de prova material, ainda que de forma descontínua, no período imediatamente anterior ao requerimento do benefício, em número de meses idêntico ao período de carência.
+3. Hipótese em que o Tribunal a quo manteve a sentença de improcedência por considerar descaracterizada a condição de segurada especial da parte autora, tendo em vista a suficiência da renda oriunda dos proventos de aposentadoria de seu cônjuge.
+4. "A interposição de dois recursos pela mesma parte e contra a mesma decisão impede o conhecimento do segundo recurso, haja vista a preclusão consumativa e o princípio da unirrecorribilidade das decisões" (AgRg no REsp n. 1.508.048/PR, Relator Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 21/5/2015, DJe 22/6/2015).
+5. Agravo interno desprovido. Segundo agravo interno não conhecido.
+(AgInt no AREsp 1.080.190/PR, Rel. Min. GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/4/2018, DJe 5/6/2018).
+Por fim, relativamente ao apelo extremo fundado na alínea "c" do dispositivo constitucional, é pacífica a jurisprudência desta Corte de que a incidência do Enunciado n. 7 da Súmula do STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, não conheço do recurso especial.
+Publique-se. Intimem-se.
