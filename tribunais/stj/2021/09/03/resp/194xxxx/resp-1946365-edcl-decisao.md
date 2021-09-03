@@ -1,0 +1,20 @@
+DECISÃO
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo n. 3, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Trata-se de embargos de declaração apresentados em face de decisão monocrática cuja ementa é a seguinte:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. PROTESTO DA CDA. POSSIBILIDADE. PRECEDENTES. RECURSO PROVIDO.
+A embargante sustenta, em suma, que:
+No entanto, o presente caso não se volta contra a legalidade ou ilegalidade do ato, mas contra sua realização em face de uma empresa em recuperação judicial, para constranger o pagamento de um suposto crédito tributário já executado judicialmente, ponto sobre o qual, renovando-se a venia, não houve a devida apreciação.
+Tanto assim o é que o v. acórdão a quo vai além da possibilidade do protesto de CDA, muito bem pontuando que, nesse caso em específico, a sua realização foi totalmente desarrazoada. Tudo isso porque a CDA já embasou o ajuizamento da Execução Fiscal, de modo que o protesto não tem mais nenhuma razão jurídica para ser realizado, senão prejudicar ou retardar o desenvolvimento e a retomada econômica da empresa recuperanda.
+(..)Diante desse contexto é fundamental que seja analisado o fato de que a controvérsia veiculada na presente demanda não questiona, pura e simplesmente, a possibilidade de realização de protesto judicial, mas, sim, a possibilidade do seu apontamento em face de empresas em recuperação judicial, uma vez que a medida coercitiva, por vias transversas, visa constranger ao pagamento de um débito já em fase de execução fiscal, impossibilitando a plena execução da atividade empresarial, especialmente pela tomada de qualquer tipo de crédito.
+Por fim, não se pode deixar de destacar outra importante omissão, já que não foi apreciado as alegações da Embargante, que comprovam que parte do suposto crédito tributário é, notoriamente, indevido, na medida em que o C. STF, nos autos do RE 574.706, sob o manto da repercussão geral, já declarou a inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS/COFINS, o que invalida, ainda mais, a realização do protesto da CDA.
+Requer sejam acolhidos os embargos.
+A embargada pugna pela rejeição do recurso.
+É o relatório. Passo a decidir.
+A decisão embagada analisou as questões suscitadas no recurso especial, nos seguintes termos:
+Em sede de acórdão submetido ao regime dos recursos repetitivos (REsp 1686659/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 28/11/2018, DJe 11/03/2019), a Primeira Seção/STJ pacificou entendimento no sentido de que a Fazenda Pública possui interesse e pode efetivar o protesto da CDA, documento de dívida, na forma do art. 1º, parágrafo único, da Lei n. 9.492/1997, com a redação dada pela Lei n. 12.767/2012 (Informativo 643/STJ).
+Como se verifica, a decisão impugnada encontra-se baseada em entendimento consolidado em sede de recurso especial submetido ao regime dos recursos repetitivos.
+Cumpre ressalvar que, em razão da vigência da Lei 14.112/2020 (que alterou a Lei 11.101/2005), cabe ao juízo da recuperação judicial verificar, eventualmente, as medidas constritivas efetivadas em face do devedor, observando as regras do pedido de cooperação jurisdicional (art. 69 do CPC/2015), podendo determinar eventual substituição, a fim de que não fique inviabilizado o plano de recuperação judicial.
+Desse modo, não há vício na decisão ora embargada, de modo que a questão foi apreciada de modo adequado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC.
+Nesse sentido: EDcl no AgRg no Ag 538.371/PR, 3ª Turma, Rel. Min. Nancy Andrighi, DJ de 24.5.2004; EDcl no AgRg no REsp 550.972/PR, 1ª Turma, Rel. Min. Luiz Fux, DJ de 24.5.2004.
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
