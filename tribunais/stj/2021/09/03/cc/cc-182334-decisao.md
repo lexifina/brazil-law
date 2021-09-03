@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre oJuízo Federal da 2ª Vara de Anápolis - SJ/GO,o suscitante, e oJuízo Federal da 1ª Vara Criminal de São José do Rio Preto- SJ/SP,o suscitado.
+Versam os autos acerca de execução da pena imposta ao apenado Wesley Batista Faria, condenado ao cumprimento de pena de 1 anode reclusão, em regime aberto (substituída por restritivade direitos - prestação pecuniária).
+Verificando que o apenado residia no município de Anápolis/GO, o Juízo Federal da 1ª Vara Criminal de São José do Rio Preto - SJ/SP declinou da competência em favor do Juízo Federal daquela localidade (fl. 8).
+Recebendo os autos, o Juízo Federal da 2ª Vara de Anápolis/GO suscitou o conflito, ao seguinte fundamento (fls. 14/15):
+ ..
+Recentemente, o Superior Tribunal de Justiça decidiu no Conflito de Competência nº 172.445-RJ, de Relatoria do Eminente Ministro Joel Ilan Paciomik_ que a competência para a execução das penas restritivas de direito e da pena de multa é do juizo da condenação, cabendo ao juizo do domicilio do apenado apenas a supervisão e acompanhamento do cumprimento das medidas impostas, in verbis:
+CONFLITO POSITIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVAS DE DIREITOS.CARTA PRECATÓRIA EXPEDIDA PELO JUIZO SUSCITANTE. RECUSA DO JUIZO SUSCITADO QUE AVOCA A EXECUÇÃO. COMPETÊNCIA DO JUIZO DA CONDENAÇÃO. ART. 65 DA LEI DE EXECUÇÃO PENAL LEP. SISTEMA ELETRÔNICO DE EXECUÇÃO UNIFICADA (SEEU) IMPLEMENTADO PELO CONSELHO NACIONAL DE JUSTIÇA  CNJ. DECISÃO LIMINAR NA ADIn 6259 2019 NO SUPREMO TRIBUNAL FEDERAL  STF. EFICÁCIA DOS ARTS. 2º, 3º, 9º, 12 e 13 DA RESOLUÇÃO CNJ 280/2019 SUSPENSA. COMPETÊNCIA DO JUIZO SUSCITANTE.
+1. O presente conflito de competência deve ser conhecido, por se tratar de incidente instaurado entre juízosvinculados a Tribunais distintos, nos termos do art. 105, inciso I, alínea d, da Constituição Federal  CF. 2. "A competência para a execução penal cabe ao Juízoda condenação, sendo deprecada ao Juízodo domicilio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rei Ministro Gilson Dipp, DJe 17/11/2011). 3. O novo Sistema Eletrônico de Execuções Unificado  SEEU tem proporcionado facilidade de acesso aos autos e otimizado a prestação jurisdicional, contudo, não tem o condão de alterar a competência para a execução da pena que é fixada na Lei n. 7.210/84. "Cabe aos Juízesenvolvidos no uso desse novo instrumento lançar mão de procedimentos que extraiam os benefícios da nova ferramenta, sem, contudo, desrespeitar as diretrizes estabelecidas na legislação, sob pena de que a tecnologia prevaleça em detrimento da vontade do legislador" (CC 170.280, DJe 11/2/2020 e CC 170.458, DJe 4 5/2020, ambos de relatoria do Ministro Sebastião Reis Júnior. 4. " Ademais, em 16/12/2019, o Ministro do STF Alexandre de Moraes, Relator da ADIn 6259/2019, deferiu liminar, determinando a suspensão da eficácia dos arts. 2º, 3º, 9º, 12 e 13 da Resolução CNJ nº 280/2019" que determinavam, a partir de 31/12/2019, que todos os processos de execução penal de tribunais brasileiros tramitassem obrigatoriamente pelo "Sistema Eletrônico de Execução Unificado  SEEU", sem que, até o momento, tenha sidoa causa submetida a julgamento ou referenda pelo plenário" (CC 172.411, DJe 16/2020, Rel. Ministro Reynaldo Sorares da Fonseca). 5. Conflito de competência conhecido para declarar que a execução da pena compete ao Juizo Federal da 9a Vara Criminal do Rio de Janeiro  SIRJ, o suscitante, e que incumbe ao Juizo Federal da 1a de São Bernardo do Campo  SJ/SP, o suscitado, o cumprimento da carta precatória para acompanhamento e fiscalização da execução das penas restritivas de direitos e da pena de multa.
+Dessa forma. deve o juízoda execução expedir carta precatória ao juízo do domicilio do apenado para a supervisão e acompanhamento do cumprimento das medidas impostas.
+Isso posto. ANTE A INCOMPETÊNCIA deste juízo. DEVOLVA-SE a presente execução penal à Vara de origem com baixa na distribuição.
+Instado a se manifestar, o Ministério Público Federal opinou pela declaração de competência do Juízo suscitante, nos termos do parecer assim ementado (fl. 21):
+PENAL e PROCESSUAL PENAL.
+Conflito negativo de competência. Residência do réu em local distinto daquele do juízo da condenação. Impossibilidade de alteração da competência. Fiscalização da execução pelo juízo do domicílio do réu por meio de carta precatória. Entendimento pacífico do STJ.
+Competência do Juízo suscitante.
+É o relatório.
+Não há óbice ao julgamento monocrático do conflito, pois a matéria objeto do dissenso já foi debatida em outros julgados desta Corte.
+Nos termos do art. 65 da Lei de Execuções Penais, compete ao Juízo da sentença, em regra, a execução da pena:
+Art. 65. A execução penal competirá ao Juiz indicado na lei local de organização judiciária e, na sua ausência, ao da sentença.
+A simples mudança de domicílio do condenado à sanção restritiva de direitos para fora da sede do Juízo das Execuções Penais não implica o deslocamento da competência.
+Em casos que tais, consoante o disposto no art. 66, V,g, da Lei de Execuções Penais, cabe ao Juízo da execução a expedição de carta precatória, deprecando a fiscalização do cumprimento da pena ao Juízo do domicílio do apenado:
+Art. 66. Compete ao juiz da execução:
+ ..
+V - determinar:
+ ..
+g) o cumprimento de pena ou de medida de segurança em outra comarca.
+Nesse sentido, os seguintes precedentes da Terceira Seção:
+ ..
+1. Segundo o atual entendimento desta Corte, os propósitos da Lei de Execução Penal são atendidos com a expedição de carta precatória pelo juízo da condenação para o do domicílio do apenado a fim de que nesta última localidade seja empreendida a fiscalização do cumprimento de pena restritiva de direitos.
+(CC n. 115.754/SP, Ministra Maria Thereza de Assis Moura, DJe 21/3/2011)
+ ..
+1. A simples mudança de domicílio do condenado à pena restritiva de direitos para fora da sede do Juízo das Execuções Penais não provoca o deslocamento da competência, sendo certo que apenas deve ser deprecada a fiscalização do cumprimento das condições impostas na concessão da benesse, consoante o disposto nos arts. 65 e 66 da Lei de Execuções Penais.
+(CC n. 98.167/SC, Ministro Jorge Mussi, DJe 3/8/2009)
+ ..
+1. No caso de mudança de domicílio do réu condenado, o juízo das execuções penais competente - sendo este o indicado pela lei local de organização judiciária de onde o processo teve seu curso regular - deve expedir carta precatória ao juízo da nova localidade para a realização da audiência admonitória e a fiscalização do cumprimento das condições estipuladas, bem como para o pagamento do saldo remanescente da prestação pecuniária, o que, evidentemente, não implica transferência da competência.
+ ..
+(CC n. 40.781/SP, Ministra Laurita Vaz, DJ 24/5/2004)
+Ressalto que o advento de uma nova solução tecnológica (SEEU) não constitui fundamento idôneo para inobservância do preconizado na Lei de Execução Penal.
+De fato, cabe aos Juízes envolvidos no uso desse novo instrumento, lançar mão de procedimentos que extraiam os benefícios da ferramenta, sem, contudo, desrespeitar as diretrizes estabelecidas na legislação, sob pena de que a tecnologia prevaleça em detrimento da vontade do legislador.
+Aliás, não há falar sequer em obrigatoriedade de que a execução tenha curso via Sistema Eletrônico de Execução Unificado (SEEU), pois foi suspensa a obrigatoriedade de tramitação da execução via esse sistema, ante a decisão monocrática exarada pelo eminente Ministro Alexandre de Moraes, nos autos da ADI n. 6.259.
+Confira-se (trecho obtido em consulta processual ao portal eletrônico do Supremo Tribunal Federal):
+ ..
+Dessa forma, no intuito de preservar a regularidade e continuidade das ações desenvolvidas por cada Tribunal local em matéria de processamento de informações sobre execuções penais, sem prejuízo aos esforços do CNJ no mesmo sentido, mostra-se necessária a suspensão da eficácia, até o conhecimento do mérito da presente ação pela CORTE, dos dispositivos da Resolução 280/2019 que tratam da obrigatoriedade do trâmite de processos pelo SEEU, quais sejam: o art. 2º, que vincula o processamento de informações e prática de atos processuais ao disposto na Resolução; o art. 3º, que obriga a que todos os processos tramitem pelo SEEU a partir de 31 /12/2019; o art. 9º, por obrigar os Tribunais locais a fornecerem dados na forma especificada pelo CNJ; o art. 12, que determina a manutenção de "administradores locais do sistema" e "centrais de atendimento aos usuários" por parte dos Tribunais locais; e o art. 13, por atribuir a órgão do CNJ a competência para a elaboração de cronograma de implantação nacional do SEEU por parte de todos os Tribunais do país.
+ ..
+Ante o exposto,conheçodo conflito paradeclararcompetente oJuízo Federal da 1ª Vara Criminal de São José do Rio Preto - SJ/SP, o suscitado, para processar e julgar a execução penal de Wesley Batista Faria, inclusive todos os incidentes; sendo-lhe assegurada a possibilidade de expedir carta precatória ao Juízo do domicílio do apenado, deprecando a fiscalização e o acompanhamento da execução.
+Dê-se ciência aos Juízes em conflito.
+Publique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. EXECUÇÃO PENAL. JUÍZES FEDERAIS. PENA RESTRITIVA DE DIREITOS. DECLINAÇÃO PELO JUÍZO DO LOCAL DA CONDENAÇÃO PARA O JUÍZO DO DOMICÍLIO DO RÉU. COMPETÊNCIA DO JUÍZO DO LOCAL DA SENTENÇA, COM POSSIBILIDADE DE DEPRECAÇÃO EM FAVOR DO JUÍZO DO LOCAL DO DOMICÍLIO DO APENADO, PARA FINS DE FISCALIZAÇÃO E ACOMPANHAMENTO. PRECEDENTES DA TERCEIRA SEÇÃO.
+Conflito conhecido para declarar a competência do Juízo Federal da 1ª Vara Criminal de São José do Rio Preto - SJ/SP, o suscitado, para processar e julgar a execução penal de Wesley Batista Faria, inclusive todos os incidentes; sendo-lhe assegurada a possibilidade de expedir carta precatória ao Juízo do domicílio do apenado, deprecando a fiscalização e o acompanhamento da execução.
