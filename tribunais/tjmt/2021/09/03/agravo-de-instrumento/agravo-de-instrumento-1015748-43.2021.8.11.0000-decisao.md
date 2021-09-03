@@ -1,0 +1,17 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por MAISA PIRES VIDAL, com o fito de suspender a decisão que, nos autos do Cumprimento de Sentença de n. 0055261-87.2013.8.11.0041, manejado em face de PAULO CESAR SANTOS DORILEO, determinou a intimação do executado, ora agravado, para manifestar se acerca do pedido de penhora formulado pela agravante.
+Para tanto, a agravante alega que é desnecessária a intimação do executado a respeito do pedido de penhora, notadamente porque ele poderá frustrar o ato constritivo e prejudicar a satisfação do crédito, como vem fazendo há anos.
+Ressalta a necessidade imediata de penhorar o crédito que o agravado possui perante terceiro, pois esta se tornou a única opção para satisfazer a obrigação, já que todas as demais medidas restaram infrutíferas.
+Pugna pela concessão da liminar de efeito ativo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito suspensivo, a atribuição de efeito ativo ao Recurso de Agravo de Instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+(...) Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+Na espécie, a relevância da argumentação veiculada pela agravante, aliada à possibilidade de a decisão lhe causar lesão de difícil reparação, recomenda a concessão da medida pleiteada.
+Isso porque, é desnecessária a intimação do executado para se manifestar acerca da penhora, sendo imprescindível a sua intimação apenas após o deferimento da realização da constrição, nos termos do art. 841 do Código de Processo Civil.
+A propósito:
+“AGRAVO DE INSTRUMENTO – CUMPRIMENTO DE SENTENÇA – PENHORA DE CRÉDITO – POSSIBILIDADE – OFENSA AOS ARTIGOS 9o E 10, AMBOS DO CPC E AO PRINCÍPIO DO CONTRADITÓRIO – AUSÊNCIA – DESNECESSIDADE DE PRÉVIA INTIMAÇÃO – DESOBEDIÊNCIA À ORDEM LEGAL DE PREFERÊNCIA PREVISTA NO ARTIGO 835 DO CPC – NÃO VERIFICADA – EQUIVALÊNCIA À CONSTRIÇÃO DE DINHEIRO E NÃO À FATURAMENTO DE EMPRESA – NOMEAÇÃO DE ADMINISTRADOR – DESNECESSIDADE – ARTIGO 855 DO CPC – COMPROMETIMENTO DAS ATIVIDADES – NÃO DEMONSTRADO – PEDIDO DE CONDENAÇÃO POR ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA FORMULADO EM CONTRARRAZÕES – AFASTADO – RECURSO CONHECIDO E DESPROVIDO.” (TJ-MS - AI: 14119744920178120000 MS 1411974-49.2017.8.12.0000, Relator: Des. Júlio Roberto Siqueira Cardoso, Data de Julgamento: 05/02/2018, 5a Câmara Cível, Data de Publicação: 08/02/2018) (g.n.)
+Aliado à probabilidade do direito, tem-se por configurado também o perigo da demora, na medida em que, se intimado previamente, poderá frustrar a penhora, transferindo o crédito a outrem para não adimplir a dívida.
+Ante o exposto, CONCEDO a liminar para determinar a penhora sobre o crédito que o agravado possui junto à empresa SIMETO EMPREENDIMENTOS IMOBILIÁRIOS LTDA, com endereço na Av. Miguel Sutil, n. 6300, bairro Santa Marta, Cuiabá-MT (id. 100072957 - Pág. 3).
+Publique-se e intimem-se, advertindo-se a parte agravada do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
