@@ -1,0 +1,39 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por GR COMERCIO E SERVICOS GRAFICOS LTDA à decisão de fls. 1826/1832, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Assim, com a devida vênia, a decisão embargada é contraditória, porque verifica-se alegações de que não há nos autos prequestionamento referente as seguintes normas (mov. 150):
+Quanto à primeira controvérsia, alega, além de divergência jurisprudencial, violação dos arts. 2º e 3º, ambos do CDC, no que concerne à aplicação do Código de Defesa do Consumidor ao caso em tela, tendo em vista que a vulnerabilidade da parte Recorrente em face do fornecedor, embora não seja tecnicamente o destinatário final do produto ou serviço (..).
+Quanto à segunda controvérsia, alega, além de divergência jurisprudencial, violação do art. 6º, inciso VIII, do CDC, no que concerne à inversão do ônus da prova em razão da vulnerabilidade do consumidor, trazendo os seguintes argumentos (..)
+Para as duas primeiras controvérsias, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Verifica-se do Recurso de Apelação, manifestação da apelante, ora embargante, quanto ao art. 2º e 3º do CDC, nos seguintes termos (mov. 451):
+ ..
+Assim Excelência, no acórdão recorrido em Recurso Especial, houve a manifestação do Tribunal de Justiças do Paraná a respeito da matéria alegada, conforme fls. 1670 e seguintes destes autos, tendo se manifestado conforme os termos a seguir:
+Inconformada, a parte ré interpôs recurso de apelação (mov. 451.1), alegando, em síntese, que: deve ser aplicado o Código de Defesa do Consumidor, invertendo-se a) o ônus da prova, eis que vislumbrada a vulnerabilidade dos apelantes;
+Portanto, o pedido de aplicação do CDC, amparado pelos art. 2º e art. 3º, pela caracterização de consumidor e fornecedor nos termos da lei, e que implicam na vulnerabilidade dos embargantes, foram devidamente prequestionados.
+Ademais, verifica-se prequestionada a segunda controvérsia, pois há menção a inversão do ônus da prova no acórdão recorrido, que versa justamente quanto ao art. 6º, inciso VIII do CDC. Portanto, é equivocada a legação de que não houve o prequestionamento quanto a inversão do ônus da prova, pois vem sendo discutida desde a contestação, conforme sentença nos autos n. 0025011-37.2015.8.16.0017, mov 440.1.
+ ..
+Ainda, verifica-se contradição, pois a decisão embargada alega que, não foi comprovado o dissídio jurisprudencial, uma vez que a parte recorrente não realizou o indispensável cotejo analítico, que exige, com a indicação da existência de similitude fática e identidade jurídica entre o acórdão recorrido e os paradigmas indicados, não bastando, portanto, a mera transcrição de ementas ou votos.
+Ocorre que, de acordo com petição de mov. 12, fls. 1705 e 1706, houve o cotejo analítico, visto que diferente do aresto recorrido, ocorreu no aresto paradigma aplicação do CDC com base na relação jurídica qualificada por ser "de consumo", e não por se caracterizar pela presença de pessoa física ou jurídica em seus polos, mas pela presença de uma parte vulnerável de um lado (consumidor) e de um fornecedor, de outro.
+ ..
+Alega ainda a decisão quanto a terceira controvérsia:
+Quanto à terceira controvérsia, alega violação dos arts. 46 e 47, ambos do CDC, no que concerne à aplicação da cláusula contratual mais favorável aos consumidores, uma vez que a redação do contrato de adesão entabulado dificultou o entendimento da parte Recorrente (..).
+Quanto à terceira controvérsia, também não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Com a devida vênia Excelência, também houve o prequestionamento da matéria referente aos art. 46 e art. 47 do CDC, quanto a aplicação da cláusula contratual mais favorável aos consumidores, uma vez que a redação do contrato de adesão entabulado dificultou o entendimento da parte recorrente, se manifestado em Apelação Cível nos seguintes termos:
+ ..
+Assim sendo, manifestou-se o acórdão nos seguintes termos:
+ ..
+Por fim, alega óbice ao provimento do recurso, com base na súmula n. 284 do STF, nos seguintes termos:
+Quanto à quarta controvérsia, alega violação dos arts. 406 e 591, ambos do CC, no que concerne à onerosidade excessiva em virtude da cobrança de juros capitalizados (..).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia"
+Inexiste deficiência na fundamentação, visto que a partir da entrada em vigor do Código Civil de 2002, os juros remuneratórios cobrados nos empréstimos de dinheiro com fins econômicos, praticados por qualquer pessoa física ou jurídica, devem ser limitados ao percentual de 12% ao ano, 1% ao mês sob pena de serem usurários, nos termos dos arts. 591 e 406 do Código Civil de 2002.
+Desta forma, e com maior respeito à r. decisão, os presentes Embargos de Declaração são opostos para que os vícios existentes de contradição sejam totalmente corrigidos para que as questões sejam objeto de apreciação por este d. juízo, ainda que para fins de prequestionamento, verificado o cerceamento de defesa (art. 5º, inciso LIV e LV e art. 93, inciso IX, da Constituição Federal), julgando o procedente, ante a incidência dos efeitos infringentes do presente recurso. (fls. 1835/1839)
+Requer o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Esclareça-se que o marco temporal de aplicação do Código de Processo Civil de 2015 é a intimação do decisum recorrido que, no presente caso, foi realizada após 18/3/2016, já sob a égide do novo códex processual.
+Assim, nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, no presente caso aplicam-se as regras do Código de Processo Civil de 2015.
+A pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
