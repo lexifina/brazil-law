@@ -1,0 +1,15 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por MUNICIPIO DE IMPERATRIZem face de decisão do TRIBUNAL DE JUSTIÇA DO ESTADO DO MARANHÃO, que negou admissibilidade a recurso contra acórdão no qual discutido o direito ao piso salarial do magistério público.
+No especial, argumenta-se que,
+quanto aos pleitos deduzidos pela parte autora referentes ao período anterior à vigência da Lei n. 1.593/2015, que instituiu o regime estatutário dos servidores do Município de Imperatriz, em obediência ao princípio do tempus regit actum, deve o órgão judiciário da Justiça Comum ser declarado incompetente para o julgamento, eis que os mesmos escapam da jurisdição desse órgão. ..  apesar de a Lei Complementar 003/2014 ter instituído um novo regime jurídico no Município de Imperatriz, o estatuto dos servidores públicos só foi criado em 01/09/2015, pela Lei 1.593/2015, sendo certo que, até então, os contratos dos servidores estavam regidos pelas normas da CLT.
+Após juízo negativo de admissibilidade sobreveio o presente agravo.
+É o relatório. Decido.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A questão federal suscitada não pode ser conhecida por este Superior Tribunal de Justiça, pois não houve manifestação do Tribunal a quo a seu respeito.
+Importa que a questão federal esteja presente na decisão recorrida, que haja a manifestação do órgão jurisdicional local acerca do ponto (fundamento da demanda ou da defesa) acerca do qual surgiu a controvérsia (cf. MEDINA, José Miguel Garcia. Prequestionamento e repercussão geral e outras questões relativas aos recursos especial e extraordinário  livro eletrônico ; coordenação Nelson Nery Jr., Teresa Arruda Alvim Wambier. 1ª ed. São Paulo: Ed. Revista dos Tribunais, 2012).
+As questões de ordem pública não dispensam tal requisito. Nesse sentido, já foi julgado: "Ajurisprudência do Superior Tribunal de Justiça se firmou no sentido de que que na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento" (AgInt nos EAREsp 1327393/MA, Rel. Ministro FELIX FISCHER, CORTE ESPECIAL, DJe 18/12/2020).
+Incidem à espécie os óbices das Súmulas nº 282/STF - "é inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada" e nº 356/STF - "o ponto omisso da decisão, sobre o qual não foram opostos embargos declaratórios, não pode ser objeto de recurso extraordinário, por faltar o requisito do prequestionamento".
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO Nº 3/STJ. AUSÊNCIA DE PREQUESTIONAMENTO SÚMULAS Nº 282 E 356/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
