@@ -1,0 +1,26 @@
+DECISÃO
+Nestehabeas corpus, com pedido liminar, impetrado em favor deJose Carlos Pires Silveira- definitivamente condenado como incurso no crime de tráfico de drogas à pena de 5 anos e 5 meses de reclusão, em regime inicial fechado, além do pagamento de 540 dias-multa (Autos 0002183-30.2013.8.16.0013, da 6ª Vara Criminal de Curitiba/PR) -, sob a alegação de constrangimento ilegal, consistente nanão aplicação da causaespecial de diminuição da pena prevista noart. 33,§ 4º, da Lei n. 11.343/2006, no grau máximo, bem como na fixação do regime inicial fechado(Apelação Crimen. 1.657.176-5, do Tribunal de Justiça do Paraná), requer-se, em liminar e no mérito, seja assegurado ao paciente a redução da pena, com aplicação do art. 33, § 4º, da Lei de Drogas, na fração de 2/3,e, subsidiariamente, o abrandamento do regime inicial de cumprimento para o semiaberto, nos termos do art. 33, § 2º,b, do Código Penal (fls. 46/47).
+É o relatório.
+Owrité manifestamente inadmissível.
+Colhe-se dos autosque a condenaçãoreferenciada na presente impetração transitou em julgado em 9/5/2018 (fl. 80).
+Owrit, pois, ésucedâneo de revisão criminal,sendo esta Cortemanifestamenteincompetentepara análise do pleito revisional, notadamente porque inexiste julgamento de mérito, neste Tribunal, passível de revisão(não houve a interposição de recurso especial pela defesa do paciente).
+Nesse sentido, confiram-se:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃOTRANSITADO EM JULGADO, SUBSTITUTIVO DE REVISÃO CRIMINAL. NÃO INAUGURADA ACOMPETÊNCIA DO STJ. SUPRESSÃO. INADMISSIBILIDADE. PEDIDO DE CONCESSÃO DEHABEAS CORPUS DE OFÍCIO. DESCABIMENTO. INICIATIVA DO ÓRGÃO JULGADOR.
+Agravo regimental improvido.
+(AgRg no HC n. 494.794/MA, da minha relatoria, Sexta Turma, DJe 11/4/2019)
+ ..
+1. O habeas corpus foi impetrado contra acórdão do Tribunal deJustiça do Estado de São Paulo transitado em julgado; é, portanto,substitutivo de revisão criminal. Por força do art. 105, I, "e", daConstituição Federal, a competência desta Corte para processar e julgarrevisão criminal limita-se às hipóteses de seus próprios julgados. Comonão existe, neste Tribunal, julgamento de mérito passível de revisão emrelação à condenação sofrida pelo paciente, forçoso reconhecer aincompetência deste Tribunal para o processamento do presente pedido.
+ ..
+(HC n. 288.978/SP, da minha relatoria, Rel. p/ Acórdão Ministro RogerioSchietti Cruz, Sexta Turma, DJe 21/5/2018)
+Tampouco vislumbro ilegalidade flagrante que justifique aconcessão dehabeas corpusde ofício (art. 654,§ 2º, do CPP).
+Extrai-se dos autos que as instâncias ordinárias afirmaram que o réu é reincidente, não preenchendo, com isso, os requisitos previstos no art. 33, § 4º, da Lei de Drogas; confira-se o seguinte trecho do acórdão impugnado(fls. 75/76 - grifo nosso):
+ .. Quanto ao reconhecimento da causa de redução da pena pelo tráfico privilegiado, como bem apontado na sentença "Em que pese a Defesa tenha requerido a aplicação da causa especial de diminuição de pena prevista no artigo 33, § 4º, da Lei n. 11.343/06, o réu é reincidente, conforme as informações prestadas pelo sistema Oráculo (mov. 1.84), o que impede o reconhecimento dessa minorante no presente caso"- fl. 756.
+O referido parágrafo 4ºdispõe: "nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primáriode bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa".
+Dessa forma, por não estarem previstos os requisitos previstos no art. 33, § 4º, da Lei Drogas, visto o réu ser reincidente, mantenho a sentença integralmente.
+Por fim, com a manutenção do quantum fixado pelo magistrado a quo, mantem-se também o regime prisional fixado, pois, de acordo com as diretrizes do art. 33, § 2º, b, do Código Penal, o condenadoreincidente com pena fixada em montante superior a 4 anos e que não exceda a 8, poderá desde o princípio ser implantando no regime fechado. ..
+De fato, a teor da jurisprudência desta Corte, aconfiguração da reincidência impede o reconhecimento da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, por ausência de cumprimento de requisito legal, bem como justifica o recrudescimento do regime inicial de pena. Nesse sentido, inúmeros julgados:AgRg no HC n. 676.479/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 24/8/2021;AgRg no AgRg no AREsp n. 1.869.652/SC, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 16/8/2021; AgRg no HC n. 667.338/SP, Ministro Ribeiro Dantas, Quinta Turma, DJe 21/6/2021;AgRg no HC n. 671.329/SP, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 23/6/2021; e AgRg no REsp n. 1.862.582/SP, Ministro Joel Ilan Paciornik, Quinta Turma,DJe 10/6/2020.
+Ante o exposto, não conheço do habeas corpus (art. 34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO.SUCEDÂNEO DE REVISÃO CRIMINAL. INADMISSIBILIDADE. AUSÊNCIA DE JULGAMENTO DE MÉRITO NESTA CORTE. INEXISTÊNCIA DE ILEGALIDADE FLAGRANTE. MINORANTEPREVISTA NO ART. 33, § 4º, DA LEI N. 11.343/2006. IMPOSSIBILIDADE.RÉU REINCIDENTE. PRECEDENTES DESTA CORTE.
+Writ não conhecido.
