@@ -1,0 +1,33 @@
+Reclamação Constitucional. RE 593.068 (Tema 163). RE 642.682 (Tema 448). Contribuição previdenciária sobre adicional de insalubridade. Art. 6º da Lei Complementar nº 432/85 do Estado de São Paulo. Ato judicial já acobertado pela coisa julgada. Art. 988, 5º, I, do CPC/2015. Súmula 734/STF. Não cabimento. Precedentes. Negativa de seguimento.
+    Vistos etc.
+    1. Trata-se de reclamação constitucional proposta por João Mauro Ribeiro Júnior, com fundamento nos arts. 988 e seguintes do Código de Processo Civil, contra decisão proferida pela 6ª Turma Recursal Central da Comarca da Capital do Estado de São Paulo/SP, nos autos do processo nº 1024224-25.2020.8.26.0053, à alegação de contrariedade às decisões proferidas por este Supremo Tribunal Federal no RE 593.068/SC (Tema 163) e no RE 642.682/SP (Tema 448).
+    2. Na inicial, formuladas as seguintes asserções:
+    (i) a questão discutida nos autos diz com a legitimidade da incidência de descontos previdenciários sobre o adicional de insalubridade pago ao reclamante – policial militar do Estado de São Paulo;
+    (ii) decidida a controvérsia de forma contrária ao entendimento fixado por esta Suprema Corte, ao exame do RE 593.068/SC (Tema 163) e do RE 642.682/SP (Tema 448), tendo em vista não incidir a contribuição previdenciária sobre o adicional de insalubridade, por se tratar de verba não incorporável aos proventos dos inativos ou pensionistas;
+    (iii) o critério de pagamento do adicional de insalubridade com base no valor correspondente ao percebido nos últimos seis meses de trabalho, nos termos da LC nº 432/1985 do Estado de São Paulo, não foi recepcionado pela Constituição, de modo que referido adicional não pode ser incorporado aos proventos na inatividade, tampouco pode haver incidência da contribuição previdenciária;
+    (iv) lesado o direito do reclamante, ao incidir mensalmente sobre o adicional de insalubridade o desconto da contribuição previdenciária, sendo portanto, incompatível com a verba de natureza precária, eventual e transitória, nos termos do entendimento do STF.
+    3. Requer o reclamante a procedência do pedido para reformar e sustar de imediato os efeitos do acórdão reclamado.
+    4. Deixo de citar a parte beneficiária do ato judicial reclamado, em razão da manifesta improcedência do pedido. Igualmente, dispenso a intimação da autoridade reclamada para prestar informações, bem como do Procurador-Geral da República para ofertar parecer, por tratar a demanda de matéria repetitiva.
+    É o relatório.
+    Decido.
+    1. A reclamação prevista nos arts. 102, I, l e 103-A, § 3º, ambos da Constituição Federal, é cabível nos casos de usurpação da competência do Supremo Tribunal Federal, descumprimento de autoridade de decisão proferida no exercício de controle abstrato de constitucionalidade ou em controle difuso, desde que, neste último caso, se cuide da mesma relação jurídica e das mesmas partes, ou desobediência à súmula vinculante.
+    2. Em consulta ao sítio do Tribunal de Justiça do Estado de São Paulo, verifico certificado o trânsito em julgado da decisão reclamada em 05.8.2021.
+    3. Como a presente reclamação foi protocolada somente em 02.9.2021, a pretensão nela deduzida encontra óbice no art. 988, 5º, I, do CPC/2015, segundo o qual é inadmissível a reclamação proposta após o trânsito em julgado da decisão reclamada, e na Súmula 734/STF, cujo teor é o seguinte: não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.
+    4. Anoto que a jurisprudência deste Supremo Tribunal Federal é firme no sentido da impossibilidade de restabelecimento do debate sobre questão com decisão transitada em julgado (Rcl 22.385-AgR/SP, Rel. Min. Cármen Lúcia, 2ª Turma; DJe 25.02.2016); e da impossibilidade do uso da reclamação como sucedâneo de ação rescisória (Súmula STF nº 734) (Rcl 19.884-AgR/BA, Rel. Min. Dias Toffoli, 2ª Turma, DJe 01.7.2015).
+    5. Cumpre assinalar ser de todo inviável o manejo da reclamação para solucionar eventual erro contido na certidão de trânsito em julgado. Nesse sentido:
+    “AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. APLICAÇÃO DA SÚMULA 734 DO STF. TRÂNSITO EM JULGADO DA DECISÃO RECLAMADA. PRECEDENTES. AGRAVO MANIFESTAMENTE IMPROCEDENTE. MULTA PREVISTA PELO ARTIGO 1.021, § 4º, DO CPC/2015. AGRAVO REGIMENTAL DESPROVIDO.
+    1. Nos termos da Súmula nº 734 do STF, Não cabe reclamação quando já houver transitado em julgado o ato judicial que se alega tenha desrespeitado decisão do Supremo Tribunal Federal.
+    2. In casu, o Tribunal a quo certificou o trânsito em julgado da decisão reclamada em momento anterior ao ajuizamento da presente reclamação.
+    3. Impossibilidade de se utilizar a reclamação com o fim de se apurar a correção da contagem de prazo recursal pelo Tribunal de origem.
+    4. A reclamação não se qualifica como sucedâneo recursal nem configura instrumento viabilizador do reexame do conteúdo do ato reclamado, eis que tal finalidade revela-se estranha à destinação constitucional subjacente à instituição dessa medida processual (Rcl 4.381-AgR, Rel. Min. Celso de Mello, Tribunal Pleno, Dje de 05.08.2011).
+    5. A interposição de agravo manifestamente improcedente autoriza a imposição de multa, com fundamento no art. 1.021, § 4º, do CPC/2015. 6. Agravo regimental desprovido” (Rcl 23.116 ED-AgR/SE, Rel. Min. Luiz Fux, Primeira Turma, DJe 20.4.2017).
+    “EMBARGOS DE DECLARAÇÃO NA RECLAMAÇÃO. EMBARGOS CONHECIDOS COMO AGRAVO REGIMENTAL. ART. 1.024, § 3°, DO CPC. SÚMULA 734/STF. ART. 988, § 5º, I, DO CPC. NÃO CABIMENTO DA RECLAMAÇÃO. AGRAVO A QUE SE NEGA PROVIMENTO.
+    I A reclamação é incabível quando combate acórdão transitado em julgado, nos termos do art. 988, § 5º, I, do CPC e da Súmula 734/STF, porquanto, nessa hipótese, ela estaria sendo manejada como sucedâneo de ação rescisória.
+    II Certificado o trânsito em julgado pelo Tribunal de origem, não cabe, em reclamação, o exame do acerto ou desacerto da certidão.
+    III Embargos de declaração conhecidos como agravo regimental, a que se nega provimento” (Rcl 34.309 ED, Segunda Turma, Rel. Min. Ricardo Lewandowski, DJe 06.8.2019).
+    6. Nesse sentido, colho, ainda, as seguintes decisões monocráticas: Rcl 42.306, Rel. Min. Roberto Barroso, DJe 17.08.2020; Rcl 39500 ED, Rel. Min. Cármen Lúcia, DJe 20.4.2020; Rcl 44536 ED, de minha relatoria, DJe 08.02.2021.
+    7. Ante o exposto, com fundamento no art. 21, § 1º, do RISTF, nego seguimento à presente reclamação constitucional.
+    Publique-se.
+    Brasília, 03 de setembro de 2021.
+Ministra Rosa Weber
+Relatora
