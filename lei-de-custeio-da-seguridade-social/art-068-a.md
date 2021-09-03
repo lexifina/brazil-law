@@ -1,0 +1,1 @@
+Art. 68-A. A lavratura de procuração pública e a emissão de sua primeira via para fins exclusivos de recebimento de benefícios previdenciários ou assistenciais administrados pelo INSS são isentas do pagamento das custas e dos emolumentos.
