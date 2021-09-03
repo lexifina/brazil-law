@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de José Gonçalves da Costa, em que se aponta constrangimento ilegal decorrente do julgamento, pelo Tribunal de Justiça de São Paulo, doHabeas Corpus n. 158479-62.2020.8.26.0000.
+Requer-se a anulação da falta grave aplicada ao paciente ou, subsidiariamente, a desclassificação para falta média(Execução n. 404.932).
+Para tanto, alega-se, em síntese, que é de rigor a desconstituição da falta grave imputada ao paciente, pois não há prova individualizada de sua conduta, tratando-se, na verdade, de aplicação de sanção coletiva, vedada pelo art. 45, § 3º, da Lei de Execução Penal; afirma-se, ainda, que, caso não seja reconhecida a hipótese de absolvição, a conduta deveria ser classificada como falta média, prevista no art. 48, I, do Regimento Interno Padrão dos Estabelecimentos Prisionais do Estado de São Paulo, atendendo, assim, ao princípio da proporcionalidade.
+Não houve pedido de liminar.
+Prestadas as informações (fls. 118/134), o Ministério Público Federal manifestou-se pelo não conhecimento do writou, caso contrário, pela denegação da ordem(fls. 136/141).
+É o relatório.
+A insurgência não prospera.
+O Tribunala quo, ao manter a homologação da falta grave e seus consectários legais, asseverou (fls. 100/102 - grifo nosso):
+ ..
+Constata-se nos autos do procedimento disciplinar nº 98/2014, que o paciente participou de atos de subversão à ordem e indisciplina, juntamente com outros detentos, mas fora contido.
+O paciente negou a autoria dos fatos que lhe são imputados dizendo que não desobedeceu a ordens e tampouco gritou palavras ofensivas aos agentes penitenciários (fl. 45). Afirmou que habitava a cela 06, sendo que os atos se deram na cela 05. Contudo, sua versão restou isolada diante das coesas declarações do agente de segurança penitenciária, Sérgio Aparecido de Brito (fl. 22), as quais foram firmes em descrever como a falta foi praticada, especificando quais condutas foram praticadas pelo paciente.
+Como se vê, trata-se, portanto, não se sanção coletiva, mas sim de infração de autoria coletiva, pois o sentenciado, assim como os outros sindicados nominados no comunicado de evento, participou da prática de atos de subversão à ordem e disciplina. Ademais, não se vislumbra imposição de sanção coletiva, mas de reconhecimento da participação do paciente em conjunto com outros sentenciados na prática da falta disciplinar de natureza grave. Acentua-se que a pena aplicada a todos os indivíduos em determinada situação é individual, incidindo exatamente com o mesmo peso para cada um dos presos que contribuíram para o fato.
+Diante desse quadro, não há que se falar aplicação de sanção de natureza coletiva.
+ ..
+Nesse diapasão, o Estado-Administração não pode ser conivente e tolerar condutas indisciplinadas no ambiente prisional, principalmente aquelas que objetivam obstar o bom andamento dos trabalhos realizados dentro dos estabelecimentos penais, que podem iniciar somente num pavilhão e alastrar-se, tomando outros contornos e desaguando em motins, rebeliões e atos dessa espécie, que, conta com a participação de mais pavilhões, podendo resultar, em última instância, na destruição total do presídio.
+Assim, não há como se acolher a tese de absolvição da conduta faltosa, invocando a imposição de sanção coletiva.
+De início, quanto à necessidade de individualização da conduta, nos termos da jurisprudência desta Corte Superior, é preciso diferenciar a sanção coletivada denominadaautoria coletiva. Embora não se admita a primeira, a segunda é passível de punição, mediante processo administrativo que indique devidamente a responsabilidade do apenado, aplicando, assim, a sanção a mais de um coautor do fato.
+Nesse sentido:
+AGRAVO REGIMENTAL EMHABEAS CORPUS. EXECUÇÃO PENAL. FALTA GRAVE.ATIPICIDADE MATERIAL DA CONDUTA E DESCLASSIFICAÇÃO PARA FALTA MÉDIA.VIA INADEQUADA. INEXISTÊNCIA DE SANÇÃO COLETIVA. CONDUTA INDIVIDUALIZADA. PERDA DE UM TERÇO DOS DIAS REMIDOS. FUNDAMENTAÇÃO CONCRETA. AGRAVO DESPROVIDO.
+1. A jurisprudência desta Corte é pacífica no sentido de que o"habeas corpus não é meio adequado para afastar as conclusões das instâncias ordinárias a respeito da materialidade da falta grave imputada ao ora agravante e, consequentemente, desclassificar a falta imputada como grave por média, diante da impossibilidade de exame aprofundado de provas" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020).
+2. No caso,não houve sanção coletiva. Com efeito, o Juízo de origem - referendado pelo Tribunal - individualizou a conduta, pois afirmou que o Paciente participou de movimento de subversão da ordem "gritando e batendo nas portas da cela". Ademais,"não se pode confundir "sanção coletiva" com "autoria coletiva". A primeira de fato é vedada pelo ordenamento jurídico. A segunda, entretanto, se configura quando é devidamente apurada a falta e reconhecida a responsabilização de vários apenados na autoria de conduta que configura falta grave e, diante das circunstâncias da infração, acarreta a punição individualizada de todos os envolvidos (AgRg no HC 444.930/SP, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 28 /6/2018)" (AgRg no HC 550.514/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/02/2020, DJe 05/03/2020, sem grifos no original).
+3.De acordo com o entendimento desta Corte, a perda de até 1/3 (um terço) dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a LEP, nos arts. 57 e 127, o que se verifica na hipótese.
+4. Agravo regimental desprovido
+(AgRg no HC n. 557.539/SP,Ministra Laurita Vaz, Sexta Turma,DJe 2/6/2020)
+No presente caso, as instâncias locais mencionaram depoimentos dos funcionários da unidade penitenciária que individualizaram a conduta do paciente, não sendo possível reverter tal conclusão sem a devida análise de provas.
+Da mesma forma, tendo as instâncias ordinárias reconhecido a falta grave, não há falar em desclassificação para falta média, sem que sejam revisitadas as provas colhidas no procedimento administrativo disciplinar, o que não é possível na estreita via dowrit.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS.EXECUÇÃO PENAL.ALEGAÇÃO DE SANÇÃO COLETIVA POR AUSÊNCIA DE INDIVIDUALIZAÇÃO DA CONDUTA. NÃO OCORRÊNCIA. FALTA GRAVE DE AUTORIA COLETIVA. POSSIBILIDADE. DESCLASSIFICAÇÃO PARA FALTA MÉDIA. INVERSÃO DO JULGADO. REVISÃO DE FATOS E PROVAS. INVIABILIDADE.
+Ordem denegada.
