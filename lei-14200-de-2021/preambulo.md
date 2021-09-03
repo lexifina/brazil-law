@@ -1,0 +1,2 @@
+Altera a Lei nº 9.279, de 14 de maio de 1996 (Lei de Propriedade Industrial), para dispor sobre a licença compulsória de patentes ou de pedidos de patente nos casos de declaração de emergência nacional ou internacional ou de interesse público, ou de reconhecimento de estado de calamidade pública de âmbito nacional.
+O PRESIDENTE DA REPÚBLICA Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
