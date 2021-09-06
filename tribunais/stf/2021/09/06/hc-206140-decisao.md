@@ -1,0 +1,40 @@
+Decisão: Trata-se de habeas corpus, com pedido de liminar, impetrado por Bruno Henrique de Machado Sant Ana, em favor de Márcio Garcia da Silva Junior, contra acórdão proferido pelo Superior Tribunal de Justiça, nos autos do RHC 151.798/SP.
+    Colho da decisão impugnada:
+    “O Recorrente foi denunciado pela suposta prática do crime previsto no art. 157, § 2.º, incisos II e V, do Código Penal. Consta da denúncia que o Acusado, juntamente com outro corréu, "subtraíram para eles, mediante grave ameaça, um compressor de ar da marca CHIAPERINI (auto de exibição e apreensão às fls. 43), no valor de R$ 479,00 (auto de avaliação às fls. 27) em prejuízo da vítima JOSÉ GIROTTO, mantendo ainda a vítima em seu poder, restringindo sua liberdade" (fl. 76).
+    O Acusado está preso preventivamente desde 14/12/2020 (fl. 119).
+    Irresignada, a Defesa impetrou habeas corpus perante o Tribunal de origem, que denegou a ordem (fls. 130-140).
+    Neste recurso, a Defesa sustenta a ausência dos requisitos para a segregação cautelar nos termos do art. 312 do Código de Processo Penal e a falta de fundamentação idônea para a decretação da prisão preventiva.
+    Afirma que o Acusado é primário e possui residência fixa.
+    Alega que seria adequada a aplicação de medidas cautelares diversas da prisão.
+    Requer, inclusive liminarmente, a imediata soltura do Recorrente, com ou sem a imposição de medidas cautelares alternativas à prisão. (www.stj.jus.br)
+    No STJ, o recurso não foi provido. Interposto agravo regimental, igualmente negou-se-lhe provimento.
+    Nesta Corte, recorrente reitera os pedidos formulados naquele Tribunal.
+    É o relatório.
+    Decido.
+    Para melhor compreensão da controvérsia, observem-se trechos do ato impugnado:
+    “O Tribunal de origem, por sua vez, destacou que "a r. decisão a quo baseou-se em elementos concretos, bem justificando a necessidade de manutenção da custódia cautelar, a fim de garantir a ordem pública e assegurar a aplicação da lei penal" (fl. 139).
+    Reafirmo que os fundamentos do decreto prisional não se mostram desarrazoados, mormente quando ressaltam a gravidade concreta da conduta, evidenciada pelo modus operandi empregado: crime de roubo praticado contra um idoso de 73 (setenta e três) anos de idade, que foi agredido com vários socos no rosto e na cabeça; os Acusados também teriam ameaçado a Vítima de morte e, ao fugir, a deixaram amarrada, o que justifica a prisão cautelar como garantia da ordem pública.
+    Ademais, o Juízo singular também destacou que a genitora do Recorrente afirmou que os Acusados iriam fugir e que, ao encontrarem a pessoa que teria indicado o local para o roubo, iriam matá-la, o que corrobora a necessidade da prisão preventiva.
+    […]
+    Registro, outrossim, que a existência de condições pessoais favoráveis – tais como primariedade, bons antecedentes, ocupação lícita e residência fixa – não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese em tela.
+    […]
+    Além disso, reitero que é inviável a aplicação de medidas cautelares diversas da prisão, pois a gravidade concreta do delito demonstra serem insuficientes para acautelar a ordem pública (HC 550.688/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 17/03/2020; e HC 558.099/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, DJe 05/03/2020).
+    Desse modo, na ausência de argumento apto a infirmar as razões consideradas no julgado agravado, deve ser mantida a decisão impugnada por seus próprios fundamentos. (eDOC 9)
+    Como se vê, a prisão foi decretada na necessidade de garantia da ordem pública, considerada a elevada periculosidade do paciente, manifestada, principalmente, no modus operandi do crime praticado.
+    O impetrante diz que “a ordem pública e a ordem econômica também não se encontram ameaçadas. A gravidade concreta do fato imputado ao Paciente não supera a gravidade inerente à lesão ao bem jurídico tutelado (gravidade abstrata). O suposto delito não provocou repercussão excepcional a justificar um encarceramento excepcional.”
+    Afirma que “A mera gravidade abstrata do suposto delito praticado não pode servir de fundamento para decretação de uma prisão preventiva, já que absolutamente desconexa de outros elementos concretos dos autos.”
+    Com todas as licenças à defesa, não se trata de “mera gravidade abstrata” e, ao contrário do que afirma, a prisão está devidamente fundamentada.
+    Acerca dos fatos, colhe-se dos autos:
+    “que “no dia 03 de dezembro de 2020, por volta das 15h53min, quando JOSÉ GIROTTO, idoso de 73 anos de idade, se encontrava em sua propriedade rural denominada Sítio Bugio, bairro Bugio, neste município, fora ele surpreendido pela presença de dois rapazes, os quais lhe perguntaram sobre a quantia de R$ 20.000,00 (vinte mil reais) que mantinha ali em sua propriedade. Após tê-los informado que não possuía tal quantia em sua casa, JOSÉ GIROTTO passou a ser agredido fisicamente por um dos indivíduos, o qual lhe desferiu vários socos no rosto e na cabeça e ao final o atirou ao solo e com a ajuda do comparsa, o levaram para a cozinha, onde o mantiveram deitado. Os indivíduos exigiam que a vitima lhes dissesse onde estaria o dinheiro, pois caso contrário a matariam. Enquanto um dos indivíduos vigiava a vítima, mantendo-a no chão, o outro dirigiu-se ao quarto a procura do dinheiro. Ambos permaneceram ali por cerca de 15 minutos, até que deixaram a propriedade, tendo eles antes disso, amarrado a vítima. Esta, depois de muito esforço, se soltou e pediu socorro ao morador do sítio vizinho. JOSÉ GIROTTO constatou a subtração de um compressor de ar. [...]
+    Porém, na residência de MÁRCIO GARCIA DA SILVA JUNIOR, a investigação foi atendida pela genitora dele, Osmarina Fernandes da Silva, a qual teria mantido contato prévio com a Polícia Civil para informar que seu filho era o autor do crime em comento e que o cometera em concurso com seu amigo NATHAN.
+    [...] se buscou vantagem patrimonial por meio do uso de extrema violência exercida covardemente em concurso de pessoas contra vítima idosa, conforme se extrai do chocante vídeo juntado aos autos, o que indica a enorme periculosidade concreta dos investigados.
+    [...] Destaco, ademais, a necessidade da prisão para garantia da aplicação da lei penal, já que, segundo o depoimento da genitora de um dos investigados ele afirmou que iriam fugir. Veja-se, ainda, que Márcio afirmou a sua genitora que iria procurar e matar a pessoa de Gordo Pipo, que teria indicado o local para o roubo, o que reforça ainda mais a necessidade da prisão. Por todas essas razões, a custódia cautelar se mostra solução proporcional ao caso concreto." (eDOC 9, p. 5)
+    Conforme se observa, a própria mãe do paciente ajudou a polícia a prendê-lo. O paciente teria lhe dito, ainda, que “iria procurar e matar a pessoa de Gordo Pipo, que teria indicado o local para o roubo, o que reforça ainda mais a necessidade da prisão.”
+    A esse respeito, esta Corte tem considerado legítimos os decretos prisionais consubstanciados no modus operandi do delito, de modo que não há constrangimento ilegal a autorizar a concessão da ordem. Precedentes: HC 141.170-AgR/SP, Rel. Min. Dias Toffoli; HC 175.086, de minha relatoria, DJe 10.9.2019)
+    Por oportuno, destaco, ainda, precedentes desta Corte, no sentido de ser idônea a prisão decretada para resguardo da ordem pública considerada a gravidade concreta do crime (HC 122.894/PR, de minha relatoria, Segunda Turma, DJe 1º.9.2014; HC-AgR 125.290/MG, rel. Min. Cármen Lúcia, Segunda Turma, DJe 19.12.2014; HC 119.715/TO, rel. Min. Teori Zavascki, Segunda Turma, DJe 29.5.2014; HC 127.488/SP, de minha relatoria, Segunda Turma, DJe 1º.7.2015; e HC 127.043/MG, de minha relatoria, Segunda Turma, DJe 7.5.2015).
+    Ante o exposto, denego a ordem. (art. 192, caput, RISTF)
+    Publique-se.
+    Brasília, 6 de setembro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
