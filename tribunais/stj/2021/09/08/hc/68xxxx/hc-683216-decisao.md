@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de LUIZ EDUARDO SILVA DE SOUZA, contra acórdão do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 0010275-23.2021.8.26.0050) assim ementado (fl. 53):
+Agravo em execução. Decisão que indeferiu pedido de progressão ao regime semiaberto. Insurgência defensiva. Reeducando reincidente, condenado pelos crimes de tráfico de drogas e dois roubos majorados. Pena superior a 13 anos de reclusão. Histórico prisional conturbado. Indivíduo quevoltou a delinquir após ser agraciado com a liberdade provisória. Também delinquiu ao ser progredido anteriormente ao regime aberto e, ainda, outra vez, em livramento condicional. Por fim, praticou falta grave consistente em agressão e ameaça. Peculiaridades do caso concreto que denotam a insuficiência do regime intermediário. Agravo improvido.
+O paciente cumpre pena de 13anos, 6meses e 7dias de reclusão em regime fechado, com término de cumprimento em 14/10/2026, pela prática de tráfico ilícito de entorpecentes e por duas condenações pelo delito de roubo majorado.
+Requerida a progressão ao regime semiaberto, o Juízo da execução penal indeferiu o pedido por entender não preenchido o requisito subjetivo.
+Contra essa decisão, foi interposto agravo em execução penal, que teve o provimento negado pelo Tribunal a quo.
+A impetrante aponta constrangimento ilegal uma vez que o paciente cumpriu os requisitos legais exigidos para a concessão do benefício pleiteado.
+Aduz que "a conclusão do exame criminológico foi expressamente favorável àprogressão de regime" (fl. 4).
+Defende que a última falta disciplinar grave data de 2 anos atrás, o que indica o desenvolvimento de senso de disciplina no curso da execução.
+Requer seja concedido ao paciente a progressão ao regime semiaberto.
+O pedido de liminar foi indeferido às fls. 61-62.
+Foram prestadas informações(fls. 68-89).
+O Ministério Público Federal opinou pelo não conhecimento do writ e, caso dele se conheça, pela denegação da ordem (fls. 91-93).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento de que não cabe habeas corpus em substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o juízo de primeiro grauconcluiu que o paciente não preenchera o requisito subjetivo para fazer jus ao benefício pretendido, em razão do mau comportamento carcerário e do histórico de faltas disciplinares graves cometidas durante o atual período de internação. Veja-se (fl. 50):
+O sentenciado tem histórico de idas e vindas do sistema carcerário desde 2010 (fls. 41/42). Frisa-se neste ponto a questão de que ele foi beneficiado com a progressão ao regime aberto em 23/07/2010, e no dia 28/07/2010 ter novamente sido preso em flagrante, por roubo circunstanciado. Progredido novamente ao regime aberto em 16/02/2012, cometeu tráfico ilícito de drogas em 16/07/2012. Por fim, concedido livramento condicional em 16/02/217, em 08/11/2017 cometeu novo roubo circunstanciado, demonstrando quefoi no mínimo beneficiado 03 vezes com progressões e livramento condicional, retornando sempre à criminalidade.
+O Tribunal a quo manteve a decisão agravada, com os seguintes fundamentos (fls. 54-56):
+Aquestão posta nos presentes autos cinge-se ao preenchimento do requisito de ordem subjetiva.
+O boletim informativo da execução evidencia a ausência de merecimento do agravante ao regime intermediário, posto constar com anteriores progressões de regime, além de ter sido beneficiado com o livramento condicional, voltando a delinquir quando em liberdade.
+O agravante ingresso no sistema penitenciário, pela primeira vez em 24/04/2010, preso em flagrante pelo delito de resistência, sendo rapidamente beneficiado coma liberdade provisória.
+Apenas três meses após sua liberação, em 28/07/2020, foi novamente preso em flagrantepelo crime de roubo majorado, pelo qual foi definitivamente condenado, em regime inicial semiaberto.
+ ..
+Não bastasse, em 12/01/2019, no interior da penitenciária, praticou falta disciplinar de natureza grave, consistenteem agressão e ameaça, tudo a revelar sua periculosidade.
+Verifica-se que, desde seu ingresso no sistema penitenciário, o agravante, em todas as oportunidades nas quais foi beneficiado com a liberdade, tornou a praticar infrações penais, sendo duas perpetradas mediante violência ou grave ameaça à pessoa.
+Voltou a delinquir em liberdade provisória, após ser progredido ao regime aberto e após ser beneficiado com o livramento condicional. Ainda, mesmo custodiado, praticou ato de agressão e ameaça, sendo reconhecida a falta disciplinar de natureza grave.
+Cuida-se, destarte, de reeducando com histórico prisional conturbado, com grande número de intercorrências durante a execução da pena, não sendo suficiente, para o deferimentodo benefício, a simples análise do atestado de bom comportamento carcerárioemitido pelo diretor do estabelecimento prisional, sendo necessária a avaliação das peculiaridades do caso concreto.
+A decisão do Tribunal a quo se coaduna com a jurisprudência do Superior Tribunal de Justiça, pois, ainda que a prática de falta grave não possa interromper o prazo para aquisição de benefícios da execução penal, o histórico de infrações disciplinares pode ser considerado pelo juiz para aferição do requisito subjetivo.
+A propósito, confira-se o seguinte julgado:
+EXECUÇÃO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. NÃO CABIMENTO. PROGRESSÃO DE REGIME. INDEFERIMENTO. REQUISITO SUBJETIVO NÃO ATENDIDO. HISTÓRICO DE PRÁTICA DE FALTAS GRAVES. ABANDONO DO CUMPRIMENTO DA PENA POR QUATRO VEZES. PRÁTICA DE SEIS NOVOS DELITOS NO CURSO DA EXECUÇÃO. FUNDAMENTAÇÃO ADEQUADA. DESCONSTITUIÇÃO. NECESSIDADE DE AMPLO REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, sedimentou orientação no sentido de não admitir habeas corpus substitutivo do recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - Para a concessão da progressão de regime, deve o reeducando preencher os requisitos de natureza objetiva (lapso temporal) e subjetiva (bom comportamento carcerário), nos termos do art. 112, da LEP.
+III - Na hipótese, o eg. Tribunal de origem Superior Tribunal de Justiça entendeu que não foi preenchido o requisito subjetivo, com base em fatos concretos ocorridos no curso da execução penal, quais sejam, o registro da prática de faltas disciplinares de natureza grave - quatro fugas, aliado à prática de seis novos crimes no curso da execução.
+IV - Ademais, é firme o posicionamento desta Corte Superior no sentido de ser inviável, em sede de habeas corpus, desconstituir a conclusão a que chegaram as instâncias ordinárias sobre o não preenchimento do requisito subjetivo, providência que implica reexame do conjunto fático-probatório dos autos da execução, incompatível com os estreitos limites da via eleita.
+Habeas Corpus não conhecido.(HC n. 514.058/RS, relator Ministro Leopoldo de Arruda Raposo, Quinta Turma, DJe de 12/11/2019.)
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se
