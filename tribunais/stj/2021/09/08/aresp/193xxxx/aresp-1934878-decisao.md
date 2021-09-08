@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porWASHINGTON LUIZ RIBAS HENAUT,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na alínea "a"do permissivo constitucional.
+Agravo em recurso especial interposto em: 04/02/2021.
+Concluso ao gabinete em: 01/09/2021.
+Ação:redibitória por vício oculto do produto cumulada com indenizaçãoajuizada pelo recorrente em face de MERCADO LIVRE.COM ATIVIDADESDE INTERNET LTDA. e MICROSOFT INFORMÁTICA LTDA.
+Sentença:julgou improcedentes os pedidos.
+Acórdão:não conheceu do recurso de apelação interposto pelo recorrente, nos termos da seguinte ementa (e-STJ, fl. 601):
+APELAÇÃO CÍVEL. INDENIZATÓRIA. VÍCIO NO PRODUTO.ILEGITIMIDADE PASSIVA AD CAUSAM. SENTENÇA DE IMPROCEDÊNCIA. APELAÇÃO QUE NÃO ENFRENTA OS FUNDAMENTOS ADOTADOS PELO D. JUÍZO A QUO.VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO CONHECIMENTO DO RECURSO. 1. O D. Juízo a quo julgou os pedidos formulados improcedentes, por entender que as rés não seriam partes legítimas a figurarem no polo passivo, seja porque conclui que a segunda ré não é a fabricante do produto, seja porque a primeira ré atuou como comerciante e é perfeitamente possível identificar o seu fabricante. 2. Em que pesem os robustos fundamentos adotados pelo D. Magistrado sentenciante, a apelação interposta pela autora possui redação genérica e não enfrentou, pormenorizadamente, aqueles fundamentos. Na verdade, constata-se que as teses expendidas no apelo são as mesmas apresentadas na peça exordial e, portanto, não se destinam a infirmar as razões que estribam o julgamento recorrido. 3. A questão pertinente à existência ou não do defeito não se mostra hábil a reformar o julgamento que sequer adentrou nesse aspecto porquanto vislumbrou a preliminar de ilegitimidade passiva ad causam. 4. Sob esse prisma, forçoso concluir que a apelação da parte autora não atravessa o juízo de admissibilidade, eis que não enfrentou os fundamentos adotados pelo D. Magistrado sentenciante, em violação ao princípio da dialeticidade. 5. Recurso não conhecido.
+Embargos de Declaração: opostos pelo recorrente foram rejeitados.
+Recurso especial: alega violação dos arts. 4º, 6º, 489, § 1º, III, 932, III,1.010, III, 1.022, do CPC/15 e 3º, 7º, parágrafo único, 12, § 3º, I, 13, I, e 18,todos do CDC.
+Além de negativa de prestação jurisdicional, sustenta a não ocorrência de ofensa ao princípio da dialeticidade no apelo interposto na origem, tendo em vista que foram suficientemente rebatidos os fundamentos da sentença.
+Afirma, ainda, a caracterização da responsabilidade solidária entre os recorridos e que ficou comprovada a existênciade vício no produto passível de compensação.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da negativa de prestação jurisdicional
+É firme a jurisprudência do STJ no sentido de que não há ofensa aoart. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte.
+A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, que(e-STJ, fl. 630):
+ ..  a R. Sentença guerreada julgou improcedentes pretensões autorais porque concluiu que a autora não logrou êxito em comprovar que o produto defeituoso tivesse sido fabricado ou revendido pela segunda ré. Já quanto ao primeiro réu, entendeu-se que não restou comprovado o exercício do direito potestativo de reclamar o vício, no prazo de 30 (trinta) dias, em relação ao MercadoLivre.
+Aliás, ao contrário do que sustenta o embargante, o demandante formula duas pretensões, a de troca ou devolução do valor do produto e a de compensação pelo dano moral sofrido. Logo, a inicial relata não somente vício do produto mas a ocorrência da fato do produto e/ou serviço.
+Assim como já restou devidamente consignado no V. Acórdão embargado, tem-se que o embargante, em seu apelo, limitou-se a sustentar a responsabilidade do fabricante e do comerciante de forma genérica, sem apresentar uma abordagem casuística. Em outras palavras, a apelação não se destinou a comprovar a participação do segundo réu na cadeia de consumo deste produto, bem como não fez qualquer menção à reclamação realizada junto ao MercadoLivre, dentro do decurso de 30 dias, com vista a imputar ao comerciante a responsabilidade sobre o vício do teclado.
+Assim, os embargos de declaração opostos pela parte agravante, de fato, não comportavam acolhimento, inexistindoviolação dos arts. 489 e 1.022 do CPC/15.
+- Da ausência de prequestionamento
+Ademais, o acórdão recorrido não decidiu acerca dos arts.4º, 6º, do CPC/15 e3º, 7º, parágrafo único, 12, § 3º, I, 13, I, e 18, todos do CDC, indicados como violados, apesar da oposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 211/STJ.
+- Da ofensa ao princípio da dialeticidade. Súmula 568/STJ
+Todavia, o recurso merece prosperar, quanto à alegação de inexistência de violação do princípio da dialeticidade.
+Com efeito, no caso dos autos,tem-se que a sentença julgou improcedentes os pedidos formulados na ação de indenização, por entender que as rés não seriam partes legítimas para figurarem no polo passivo, tendo em vista que a Microsoft Informática Ltda. não seria a fabricante do produto apontado como defeituoso e oMercadoLivre.com Atividades de Internet Ltda. não teria atuado como comerciante e seria possível identificar o fabricante.
+Nas razões da apelação, observa-se a existência de fundamentos de fato e de direito pelos quais o recorrente pretende ver reformada a sentença, inclusive sendo defendido que, nos termos da legislação consumerista, mesmo sendo o produto de origem internacional, o fabricante e o comerciante têm o dever legal de colocar produtos no mercado de consumo que observem o dever de qualidade e devem responder solidariamente pelos danos causados por vício do produto.
+Assim, o TJ/RJ, ao não conhecer do recurso ali interposto, destoou da jurisprudência desta Corte, segundo a quala reprodução da petição inicial nas razões de apelação não enseja, por si só, ofensa ao princípio da dialeticidade.
+Nesse sentido: AgRg no AREsp 832.883/RS, 3ª Turma, DJe 13/05/2016;AgInt no REsp 1587645/MG, 4ª Turma, DJe 10/04/2017; e AgInt no AREsp 1186509/ES, 3ª Turma, DJe 10/10/201
+Merece reforma, portanto, o acórdão recorrido.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, DOU-LHE PROVIMENTO, para determinar que a Corte de origem conheça do recurso de apelação doagravantee prossiga em seu julgamento.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA211/STJ.APELAÇÃO. PRINCÍPIO DA DIALETICIDADE ATENDIDO. ENTENDIMENTO DO ACÓRDÃO RECORRIDO EM DESCONFORMIDADE COM A ORIENTAÇÃO DO STJ.
+1. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação dos arts. 489 e 1.022 do CPC.
+2. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+3. O recurso de apelação, que rebatesuficientemente os fundamentos da sentença, não ofende o princípio da dialeticidade.
+4. Agravo conhecido. Recurso especial parcialmente conhecidoprovido.
