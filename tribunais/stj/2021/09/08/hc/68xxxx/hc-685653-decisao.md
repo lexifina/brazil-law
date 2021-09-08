@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de Gustavo Barcelos, em que se aponta como órgão coator o Tribunal de Justiça do Rio de Janeiro (Apelação n. 0004087-88.2019.8.19.0014 - fls. 34/90).
+Consta dos autos queo Juízo de Direito da 1ª Vara da comarca de Santo Antônio de Pádua/RJ condenou o ora paciente como incurso no art. 16, parágrafo único, IV, da Lei n. 10.826/2003, à pena de 3 anos de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de10 dias-multa, facultado o recurso em liberdade (Ação Penal n.0004087-88.2019.8.19.0014 - fls. 22/32).
+O Tribunal a quo, por unanimidade, conheceu e rejeitou a preliminar de inconstitucionalidade e, no mérito, deu parcial provimento ao apelo da defesa, apenas para rever a dosimetria da pena, contudo, ficou mantida tal qual imposta na sentença recorrida, inclusive, no tocante ao regime intermediário, com determinação de expedição de mandado de prisão, após o trânsito em julgado.
+Interposto recurso especial, fora inadmitido (fls. 92/99).
+Ainda inconformada, a defesa interpôs agravo em recurso especial, quenão fora conhecido, ocorrendo o trânsito em julgado da condenação.
+Sobreveio, então, o presente writ, em que se pretende, em liminar, a determinação imediata do recolhimento de mandado de prisão expedido em desfavor do ora paciente e, no mérito, a concessão da ordem para reformar a sentença substituindo a pena corpórea por penas alternativas que Vossas Excelênciasentenderem convenientes e fixar o regime aberto para o início de cumprimento da pena (fl. 17).
+Por prevenção do HC n. 541.341/RJ e do AREsp n. 1.810.192/RJ, estes autos foram a mim distribuídos.
+Liminar indeferida (fls. 2.498/2.499), informações prestadas (fls. 2.502/2.512), o Ministério Público Federal, na pessoa da Subprocuradora-Geral da RepúblicaSamantha Chantal Dobrowolski, exarou parecer assim ementado (fl. 2.516):
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO.INVIABILIDADE. CRIME DE PORTE ILEGAL DE ARMA DE FOGO DE USO RESTRITO (ART. 16, PARÁGRAFO ÚNICO, IV, DA LEI N.º 10.826/03).PRETENSÃO DE FIXAÇÃO DE REGIME INICIAL DE CUMPRIMENTO DE PENA MENOS GRAVOSO E DE SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITOS. IMPOSSIBILIDADE.FUNDAMENTAÇÃO IDÔNEA. PRESENÇA DE CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL (CULPABILIDADE). AUSÊNCIA DE ILEGALIDADE MANIFESTA APTA A AUTORIZAR A ATUAÇÃO DE OFÍCIO DESSA CORTE SUPERIOR. PARECER PELO NÃO CONHECIMENTO DO HABEAS CORPUS.
+É o relatório.
+Inicialmente, observo que o presente writ é substitutivo de revisão criminal, porquanto impetrado contra acórdãojá transitado em julgado.
+Ora, nos termos da jurisprudência desta Corte, se o habeas corpus foi impetrado contra acórdão do Tribunal de Justiça  ..  transitado em julgado; é, portanto, substitutivo de revisão criminal. Por força do art. 105, I, "e", da Constituição Federal, a competência desta Corte para processar e julgar revisão criminal limita-se às hipóteses de seus próprios julgados. Como não existe, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência deste Tribunal para o processamento do presente pedido (HC n.288.978/SP, da minha relatoria, rel. p/ acórdão Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 21/5/2018).
+Ademais, não há constrangimento ilegal a ser sanado, pois observo que foi estabelecido o regime semiaberto para o início do cumprimento da pena de 3 anos de reclusão, tendo em vista a fixação da pena-base acima do mínimo legal(art. 33, § 3º, do Código Penal). Pelo mesmo motivo, não é recomendada a substituição da privativa de liberdade por restritivas de direitos (art. 44, III, do Código Penal).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+EMENTA
+HABEAS CORPUS. PORTE DE ARMA DE FOGO. ACÓRDÃO JÁ TRANSITADO EM JULGADO. WRIT SUCEDÂNEO DE REVISÃO CRIMINAL.NÃO CONHECIMENTO. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Writ não conhecido.
