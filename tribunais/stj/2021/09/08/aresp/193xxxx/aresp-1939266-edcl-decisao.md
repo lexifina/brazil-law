@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por CLAUDIO SOARES BASTOS, à decisão de fls. 924/925, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Levando em consideração que a decisão agravada (e- STJ fls. 896/898) foi publicada no dia (02.06.2021), quarta- feira, o prazo para interposição do Recurso de Agravo de Instrumento findou-se no dia (24.06.2021), quinta-feira, em razão do Feriado Nacional de Corpus Christi, o qual, diga-se de passagem, ocorreu no dia (03.06.2021), quinta-feira.
+A propósito, eis, abaixo, recorte do calendário anual desta Egrégia Corte Superior de Justiça, a saber:
+ ..
+Portanto, o Recurso de Agravo de Instrumento (e- STJ fls. 873/886) interposto pelo consumidor Agravante, ora Embargante, CLÁUDIO SOARES BASTOS, é tempestivo (fl. 929).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer, pois se encontra pacificado nesta Corte, que a ocorrência de feriado local, recesso, paralisação ou interrupção do expediente forense deve ser demonstrada por documento idôneo, no ato da apresentação do recurso. (AgInt nos EDcl no AREsp 1419338/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 3/10/2019; AgRg nos EDcl no REsp 1819067/SC, relator Ministro Herman Benjamin, Segunda Turma, DJe de 5/9/2019.)
+É certo que feriado nacional não precisa ser comprovado. Porém, ao contrário do alegado pela parte embargante, o dia 3/6/2021 é supostamente feriado local, razão pela qual deveria ter sido comprovado no momento da interposição do recurso.
+No caso, o calendário ou mera relação de feriados juntados à fl. 904, sem o inteiro teor do respectivo ato normativo, não têm o condão de afastar a intempestividade do recurso.
+A propósito: EDcl no AgInt no AREsp 1678668/RJ, relator Ministro Moura Ribeiro, Terceira Turma, Dje de 18/03/2021; AgRg no AREsp 1716583/AM, relator Ministro João Otávio de Noronha, Quinta Turma, Dje de 17/12/2020; AgInt no AREsp 1727320/SP, relator Ministro Marco Buzzi, Quarta Turma, DJe de 16/12/2020; AgInt no AREsp 1692102/GO, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/10/2020.
+Registre-se que para a aferição da tempestividade do recurso dirigido ao STJ, é indiferente que tenha havido ou não expediente forense nesta Corte, pois o agravo e o recurso especial interpostos são endereçados ao presidente do tribunal a quo, regendo-se o respectivo prazo, em matéria de recesso forense e feriados, pela legislação local. Nesse sentido, o AgInt nos EDcl no AREsp 1482882/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 14/5/2020 e o AgInt no AREsp 1514470/RJ, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 5/12/2019.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
