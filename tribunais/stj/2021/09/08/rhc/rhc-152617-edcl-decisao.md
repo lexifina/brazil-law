@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por RAFAELA LOOS e DANILO DA SILVA àdecisão de fls. 141-143, que negou provimento ao recurso emhabeas corpus interposto em seufavor, no qual indicaram como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (HC n. 5041661-93.2021.8.24.0000).
+Os embargantes tiveram a prisão em flagrante convertida em preventiva em razão da suposta prática dos delitos descritos nos arts. 33, caput, e 35 da Lei n. 11.343/2006.
+O decreto prisional fundou-se na garantia da ordem pública, tendo em vista a gravidade concreta dos delitos praticados, a periculosidade dos agentes e o risco de reiteração delitiva.
+Impetrado writ originário, a ordem foi denegada.
+Nas razões do recurso emhabeas corpus, sustentaram que os requisitos ensejadores da segregação cautelar não foram preenchidos. Afirmara possuirocupação lícita e a embargante Rafaelasermãe de uma criança de 1 ano de idadecom problemas de saúde.
+Foi negado provimento ao recursoem razão de a prisão preventiva ter sido fundamentada concretamente.
+Nestes embargos de declaração, aduzem que, nos dois meses em que estiveram submetidos às medidas cautelares de recolhimento noturno, não agiram contra a ordem pública. Alegam que não há contemporaneidade dos fatos.
+Requer o acolhimento das novas razões para suprir a omissão no julgado (fls. 146-147).
+É o relatório. Decido.
+Inicialmente, observa-seque os embargantes pretendem seja reconsiderada a decisão de fls. 141-143, que negou provimento ao habeas corpus por ter sido decretada a prisão preventiva com fundamentação concreta.
+Por um lado, os embargantes não apontam omissão passível de ser sanada com base nos argumentos elencados na petição de fls. 146-147, pois a decisão impugnada afastou o cabimento das medidas cautelares diversas da prisão, bem como entendeu estar devidamente fundamentada a prisão preventiva.
+Dessa forma, recebo os embargos de declaração como pedido de reconsideração, uma vez que, nos termos do art. 619 do Código de Processo Penal, os embargos de declaração destinam-se a desfazer ambiguidade, esclarecer obscuridade, eliminar contradição ou suprir omissão existentes no julgado, o que não ocorre no caso.
+Por outro lado,constata-se que o decisum defls. 141-143deixou de manifestar-sequanto a um dos pedidos da paciente RAFAELA LOOS na impetração inicial. Portanto,a decisão deve ser integrada.
+Com efeito, estatui o art. 318 do Código de Processo Penal, com a redação dada pela Lei n. 13.257/2016, que o juiz poderá substituir a prisão preventiva pela domiciliar quando, entre outras hipóteses, a agente for gestante ou mulher com filho de até 12 anos de idade incompletos ou portador de deficiência.
+Embora as hipóteses de substituição da prisão preventiva pela domiciliar estejam previstas no referido dispositivo legal, o Supremo Tribunal Federal firmou o entendimento de que, em regra, a benesse deverá ser concedida a todas as mulheres presas na condição de gestantes, puérperas, mães de crianças ou mães de pessoas com deficiência. Apenas excepcionalmente não deve ser autorizada a prisão domiciliar: a) se a mulher tiver praticado o crime mediante violência ou grave ameaça; b) se a mulher tiver praticado o crime contra seus descendentes; ou c) em outras situações excepcionalíssimas, devidamente fundamentadas (HC n. 143.641/SP, relator Ministro Ricardo Lewandowski, Segunda Turma, DJe de 9/10//2018).
+Com o advento da Lei n. 13.769/2018, positivou-se em parte mencionada orientação jurisprudencial com a inclusão dos arts. 318-A e 318-B no Código de Processo Penal.
+No caso, não obstante o Juízo de primeiro grau ter apontado elementos que, em tese, justifiquem a prisão preventiva, o crime não foi praticado mediante violência ou grave ameaça, ou contra descendente. Ademais, não se constata a ocorrência de situação excepcionalíssima que imponha negar à acusada - mãe de umacriançade 1 ano de idadecom problemas de saúde- a substituição da medida extrema por prisão domiciliar.
+Ante o exposto, recebo os embargos de declaração como pedido de reconsideração para, em juízo de retratação da decisão de fls. 141-143, garantir à requerente RAFAELA LOOS o direito de aguardar, em prisão domiciliar, a conclusão da ação penal, devendo o Juízo de primeiro grau impor, de forma fundamentada, as condições para seu cumprimento, ressalvadas a hipótese de a requerente estar cumprindo pena por outro processo ou de haver contra ela mandado de prisão cautelar.
+Comunique-se com urgência ao Juízo de primeira instância e ao Tribunal de origem.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
