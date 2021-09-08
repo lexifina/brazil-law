@@ -1,0 +1,18 @@
+APELANTE(S): IVANIR PEREIRA RIBEIRO
+APELADO(S): ANTONIO GONÇALVES DE MIRANDA NETO
+Vistos etc.
+Trata-se de recurso de Apelação Cível interposto por IVANIR PEREIRA RIBEIRO a sentença proferida nos autos da Ação Declaratória de Nulidade de Ato Jurídico n. 1002734-51.2019.8.11.0003 ajuizada em face de ANTONIO GONÇALVES DE MIRANDA NETO, julgou improcedentes os pedidos iniciais, revogando a medida liminar parcialmente deferida initio litis – para a suspensão do cumprimento do mandado de imissão exequente adjudicante na posse do imóvel de matrícula no. 1.786 do referido CRI, e averbação da existência da ação declaratória às margens das matrículas dos imóveis adjudicados. A sentença ainda revogou o benefício da gratuidade da justiça inicialmente deferida, condenou a autora ao pagamento de multa processual de 2% do valor atualizado da causa, bem como a arcar com todas as despesas que o requerido desembolsou – a serem comprovadas e apuradas em liquidação de sentença – e honorários advocatícios arbitrados em 10%.
+Ao apelar, a autora pugnou preliminarmente pelo deferimento dos benefícios da assistência judiciária gratuita revogados pela sentença e ao argumento de que não possui condições financeiras de arcar com as custas processuais, haja vista não ter sobrevindo qualquer mudança de sua situação econômica desde o manejo da inicial.
+Recebido o apelo, foi determinada pela decisão de ID. n. 97030985, a intimação da autora apelante, nos termos do §2o do art.99 do CPC/15, a fim de que apresentasse documentos comprobatórios da hipossuficiência declarada.
+Pois bem.
+O direito pretendido pode ser deferido mediante simples declaração da parte de que não possui meios financeiros para custear as despesas processuais. Porém, o julgador pode negá-lo quando não encontrar elementos que atestem essa afirmação.
+Ademais, não se pode perder de vista que o direito à gratuidade da justiça é assegurado àquele que for verdadeiramente necessitado e não àquele que se diz necessitado, inclusive pela simples leitura das peças processuais é suficiente para extrair informações relevantes sobre a capacidade financeira da parte e, é com base nisso que se deferirá, ou não, a gratuidade da justiça.
+No caso sub judice, em que pese as declarações de Imposto de Renda de IDs. ns. 98375474 a 98375479 demonstrem que a postulante percebe um rendimento oficial (proventos de aposentadoria) de quase R$2.000,00, mensais, nos campos dos formulários destinados à “DECLARAÇÃO DE BENS E DIREITOS”, consta também que a apelante é proprietária de três áreas de terras pastais, sendo duas contíguas, de 144,10 ha e 253 ha, e uma terceira de 200 ha, somando 597,1 ha de terras rurais.
+Somadas tais circunstâncias aos documentos apresentados pela parte ré em sua contestação, dando conta de que a autora recorrente explora de há muito a atividade pecuária (IDs. ns. 96772503 e 96772504) – o que não foi por ela infirmado –, entendo que não demonstrado o preenchimento dos requisitos para a obtenção do beneplácito.
+Com efeito, o indeferimento do pedido de justiça gratuita é medida que se impõe, sem que isso ofenda aos incisos XXXV e LXXIV do artigo 5o da Constituição Federal, na medida em que não cabe ao Estado assumir despesas de quem tem condições de atendê-las, sob pena de não poder prover aquelas dos que realmente necessitam.
+Desta feita, indefiro o pedido de assistência judiciária gratuita, pelo que determino que a apelante seja intimada para, no prazo de cinco dias, recolher as custas do preparo, sob pena do reconhecimento de deserção.
+Após, à incontinenti conclusão.
+Cumpra-se.
+Cuiabá, 03 de setembro de 2021.
+MARILSEN ANDRADE ADDARIO
+Desembargadora
