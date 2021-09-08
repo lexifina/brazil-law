@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso emhabeas corpuscom pedido de liminar interposto por JENILSON DA SILVA NASCIMENTOcontra acórdão doTribunal de Justiça do Estado de Alagoas (HC n. 0803765-80.2021.8.02.0000)
+O recorrente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público (fls. 13-18) e foi denunciado por suposta prática do delito descrito no art. 121, § 2º, I e IV, do Código Penal.
+O decreto prisional fundou-se na garantia da ordem pública devido à reiteração delitiva e à periculosidade do paciente. Impetrado writ na origem, a ordem foi denegada.
+O recorrente alega que está sendo vítima de constrangimento ilegal, pois está configurado o excesso de prazo na formação da culpa.
+Aduz que se passaram 2 anos da prisão e ainda não foi submetido a julgamento, o que afronta os princípios do estado de inocência e da razoável duração do processo.
+Sustenta que o processo deve ser julgado em período considerado razoável e que, no caso, ultrapassa e muito os limites da razoabilidade.
+Requer, liminarmente e no mérito, a expedição de alvará de soltura.
+A liminar foi indeferida, nos termos da decisão de fls. 122-123.
+As informações foram prestadas às fls. 128-131 e 132-135.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 139-146).
+É o relatório. Decido.
+Consoante a jurisprudência do STJ, "a aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 88-91):
+ ..  Logo, o prazo para desfecho da instrução criminal não é peremptório e fatal, podendo até mesmo ser prorrogado, desde que as particularidades do caso demonstrem a sua efetiva necessidade, sempre tendo como parâmetro de contenção o princípio da razoabilidade.
+15. Nessa perspectiva, analisando a documentação acostada aos autos e as informações prestadas pela autoridade apontada corno coatora, verifica-se que a prisão temporária do paciente foi decretada em 18 de maio de 2019. O Inquérito Policial foi juntado aos autos no dia 03 de junho de 2019, tendo o Ministério Público apresentado denúncia no dia 10 de junho de 2019, pelo crime de homicídio qualificado (art. 121, § 2º, I e IV, do Código Penal), em desfavor do paciente e mais três acusados.
+16. A exordial acusatória foi recebida em 18 de junho de 2019 e decretada a prisão preventiva no mesmo ato. No dia subsequente, foi revogada a prisão temporária e o ora paciente apenas foi apreendido no dia 23 de julho de 2019. A resposta à acusação foi apresentada em 03 de outubro de 2019 (fls. 292/293 dos autos de origem). Após, ratificou-se o recebimento da denúncia e determinou-se a designação da audiência de instrução e a realização dos expedientes necessários (fls. 312/313 dos autos de origem), ficando o ato agendado para o dia 21 de fevereiro de 2020.
+17. À fl. 344 justificou-se a não realização da audiência em razão do Promotor de Justiça estar atuando, naquele mesmo dia, na sua comarca de titularidade. Em 20 de abril de 2020, o Juízo de primeiro grau reavaliou e manteve a prisão do paciente e dos corréus (fls. 365/367). No dia 19 de agosto de 2020, novamente, o Magistrado reavaliou e manteve a segregação dos acusados edeterminou a inclusão do feito em pauta de audiência por meio eletrônico (fls. 417/422), após reconhecer que a tramitação do feito fora obstada pela pandemia provocada pelo Covid-19 (fls. 408/409).
+18. A audiência de instrução foi novamente designada, sendo agendada para o dia 17 de novembro de 2020 (fl. 458). A realização do ato foi suspensa em virtude da notícia acerca do óbito da única testemunha arrolada pela acusação (fl. 470). Em 25 de novembro de 2020, houve nova reavaliação e manutenção do decreto prisional (fls. 474/475).
+19. Recentemente, reavaliou-se e manteve-se o decreto prisional (fls. 536/537) e procedeu-se à juntada da certidão de óbito da aludida testemunha (fl. 559), após diversos ofícios encaminhados ao Cartório da Barra de Santo Antônio/AL, para que realizasse a pretendida diligência.
+20. Neste diapasão, cumpre salientar a complexidade do processo de origem, por envolver quatro denunciados, necessitar da expedição de cartas precatórias, da análise de vários pedidos de revogação da prisão preventiva, bem como da prestação de informação em Habeas Corpus.
+21. Vale consignar, ainda, a suspensão dos atos processuais ocorrida em todo o território nacional em razão da pandemia pelo coronavírus, o que acabou por acarretar num retardamento da marcha processual em todo o País. ..
+ ..
+22. Por outro lado, tem-se que a ação penal vem sendo impulsionada devidamente pelo Juízo, tanto que por mais de uma vez houve, nos autos, a análise do pleito de liberdade, de modo que, ao menos por ora, não há falar em desídia ou morosidade estatal.
+ ..
+24. Destaca-se, por fim, que o tempo de prisão cautelar não se mostra desarrazoado quando analisado em face do intervalo de pena cominada abstratamente ao delito imputado ao paciente, consistente em doze a trinta anos de reclusão.
+25. À luz de todo esse contexto, não há que se falar em desídia ou ineficácia do Poder Judiciário, tampouco em retardo deliberado ocasionado pela acusação, tendo em vista a regularidade na marcha processual, talvez não com a celeridade desejada pelo impetrante, mas dentro das possibilidades do Juízo processante.
+26. Assim, com esteio no Princípio da Duração Razoável do Processo (art. 5º, LXXVIII da CF/88), no momento, não vislumbro o excesso de prazo idôneo a configurar constrangimento ilegal.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ademais, verifica-se que há umacomplexidade processual devido a pluralidade de agentes, bem como a expedição de cartas precatória eas diligências envolvendo as análises dos pedidosde revogação da prisão presente. Além disso, é fato notório que houve asuspensão processual devido àpandemia.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
