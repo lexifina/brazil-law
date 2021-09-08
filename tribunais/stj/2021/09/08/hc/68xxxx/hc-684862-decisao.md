@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em favor de AMAURI RODRIGUES CAVALCANTE, contra acórdão do Tribunal de Justiça do Estado de Sergipe (Agravo n. 202100300448) assim ementado (fl. 31):
+AGRAVO EM EXECUÇÃO PENAL - ART. 197 DA LEP - RECURSO DO APENADO - PRETENDIDO RECONHECIMENTO DA DETRAÇÃO DE PRISÃO, PARA FINS DE PROGRESSÃO DE REGIME - PERÍODO JÁ COMPUTADO EM PENA EXTINTA PELO INTEGRAL CUMPRIMENTO NO ESTADO DE SÃO PAULO - NOVA DETRAÇÃO UTILIZANDO O MESMO PERÍODO - INVIABILIDADE - IMPOSSIBILIDADE DE DUPLO SOPESAMENTO - TEMPO DE PENA CUMPRIDO E COMPUTADO - DECISÃO AGRAVADA MANTIDA PARA EVITAR O BIS IN IDEM - RECURSO CONHECIDO E IMPROVIDO - DECISÃO UNÂNIME.
+O impetrante alegaque o paciente, em decorrência de mandado de prisão expedido pelo Juízo da Vara Criminal da Comarca de Aracaju (SE) - Processo n. 0053713-26.2014.8.25.0001), foi preso em 24/6/2015, em São Paulo, permanecendo lá custodiado até 29/8/2017, quando deu entrada no sistema penitenciário de Sergipe.
+Aduz que permaneceu preso, sem interrupções, desde 24/6/2015, e que esse período deve ser considerado "como tempo de prisão cumprida para fins de preenchimento do requisito objetivo para progressão de regime" (fl. 6).
+Sustenta que se faz cabível o reconhecimento da detração, considerando-se o tempo de prisão cautelar a que se submeteu o paciente quando preso no estado de São Paulo.
+Requer, liminarmente e no mérito, seja reconhecido o tempo de prisão desde 24/6/2015, para que possa preencher o requisito objetivo para a progressão de regime. Subsidiariamente, pugna"pelo cômputo do tempototal de prisão a partir da concessão do direito de recorrer em liberdade -dia 18.03.2016- , constante da sentença penal condenatória prolatada pela Justiça do estado de São Paulo/SE - Processo nº 4190-02.2015.8.26.0286 Doc.20  - , tendo em vista que o Paciente somente permaneceu preso em virtude da ordem de prisão emanada da Justiça Sergipe, nos autos do processo de Número Único 0053713-26.2014.8.25.0001 Doc.9 , progredindo, por conseguinte, o regime prisional, diante do preenchimento dos requisitos objetivos e subjetivos previstos no art. 112 da LEP" (fl. 11).
+O Ministério Público Federal opinoupelo não conhecimento dowrite, caso dele se conheça,pela denegação da ordem(fls. 80-83).
+É o relatório. Decido.
+O Superior Tribunal de Justiça firmou o entendimento deque não cabe habeas corpusem substituição ao recurso próprio, tampouco à revisão criminal, impondo-se o não conhecimento da impetração, salvo se verificada a existência de flagrante ilegalidade no ato judicial impugnado.
+No presente caso, o Juízo da execução indeferiu o pleito em decisão assim fundamentada(fl. 21):
+Inicialmente verifico, de acordo com os documentos juntados no seq.34, que o condenado foi preso em 24/06/2015, pelo processo n.4190-02.2015.8.26.0286, no qual, foi condenado a pena de 2 anos de reclusão.
+Constato, entretanto, que foi declarada extinta a sua punibilidade pelo integral cumprimento de sua pena.
+Assim, o período compreendido entre 24/06/2015 a 23/06/2017 já foi utilizado para o cômputo do cumprimento da pena de 2 anos, motivo pelo qual não poderá ser computado novamente nesta execução atual.
+Logo, o apenado iniciou o cumprimento desta pena em 06/02/2014 (evento cadastrado sob o número de 9332332), foi posto em liberdade no dia 17/06/2014 (evento cadastrado sob o número de 9332344)e novamente detido em 21/08/2017 (evento cadastrado sob o número de 9332357).
+Dito isto, indefiro os pleitos de seqs. 34 e 39.
+O Tribunal de origem assim se manifestou(fls. 32-33):
+Em que pese o esforço do agravante, o fato é que o recurso não pode ser provido.
+A decisão não merece reparo, porque não se pode utilizar um mesmo período de prisão para concessão de dois benefícios distintos, o que não é admissível, sob pena de se incorrer em bis in idem.
+Consoante já positivado pelo Juiz a quo, o período de prisão entre 24/06/2015 a 23/06/2017 já fora utilizado para extinção da punibilidade do agravado pelo integral cumprimento da pena de 02 anos de reclusão imposta no processo n.º 0004190-02.2015.8.26.0286 (Execução n.º 0003943- 58.2016.8.26.0521), que tramitou no Estado de São Paulo.
+Portanto, a detração já reconhecida para o cumprimento de uma pena, que já foi extinta, não pode ser revigorada.
+Destarte, necessária é a manutenção da decisão agravada, pois, não há como resgatar o tempo de prisão (24/06/2015 a 23/06/2017), como pleiteia a defesa, em face de impossibilidade jurídica, até porque, este período já fora utilizado para declarar o cumprimento de outra pena, como dito anteriormente.
+Dessa forma, tendo o agravante sido beneficiado com a detração no processo de execução que tramitou em São Paulo, o acolhimento da pretensão recursal deduzida implicaria considerar duas vezes o mesmo período de acautelamento para fatos criminosos distintos.
+Portanto, não é possível o deferimento do pedido, como pretende o agravante, porque isso representaria o reconhecimento de detração penal em duplicidade.
+ ..
+Desta forma, no presente caso, por já ter sido o tempo de prisão devidamente calculado em pena declarada extinta pelo cumprimento, não faz jus o agravante à detração do período de prisão requerido pela defesa. Afinal, não possui nenhum "crédito" a ser abatido em sua pena e não pode, à seu bel prazer, "resgatar" penas mais brandas já cumpridas a fim de detrair o tempo de cumprimento de pena para crimes mais graves.
+ ..
+Assim, está correto o posicionamento do Juízo a quo, ao afirmar que o período de prisão pleiteado não poderá ser utilizado como de cumprimento da pena destes autos, uma vez que já foi utilizado na Execução que tramitou no Estado de São Paulo, o que acarretaria bis in idem.
+No caso, o Tribunal a quoconcluiu que o período de 24/6/2015 a 23/6/2017, em que o paciente permaneceu preso provisoriamente, foi utilizado para extinção da punibilidade em execução penal no Processo n.0004190-02.2015.8.26.0286 (Execução n.0003943- 58.2016.8.26.0521), no Estado de São Paulo, e, portanto,não podeser utilizado novamente em outra execução penal, sob pena de bis in idem.
+A conclusão adotada na origem se coaduna com o entendimento do STJ, no sentido de que não é possível a utilização de um mesmo período de prisão cautelar para a detração de uma execução, quando esse lapso de segregação já foi abatido de outra execução.
+Nesse sentido:
+EXECUÇÃO PENAL. HABEAS CORPUS. DETRAÇÃO. INCIDÊNCIA.IMPOSSIBILIDADE. MESMO PERÍODO DE PRISÃO CAUTELAR JÁ UTILIZADO COMO DETRAÇÃO DA PENA DE UMA EXECUÇÃO SER UTILIZADO PARA APLICAR A DETRAÇÃO EM OUTRA EXECUÇÃO EM CURSO. IMPOSSIBILIDADE. BIS IN IDEM. FLAGRANTE ILEGALIDADE. ORDEM DENEGADA.
+1. É admitida a detração em relação a fato diverso daquele que deu azo à prisão processual; contudo, somente em relação a delitos anteriores à segregação provisória, sob risco de se criar uma espécie de crédito contra a Justiça Criminal. Precedentes.
+2. No caso dos autos, apesar de a segregação cautelar ter ocorrido em período posterior ao fato em que requer a sua consideração, o tempo pelo qual o paciente permaneceu preso preventivamente foi utilizado para extinguir a punibilidade em relação ao crime previsto no art. 28, da Lei n.º 11.343/06, de modo que esse mesmo período não pode ser utilizado para a detração de outra execução em curso, sob pena de bis in idem.
+3. Habeas corpus denegado.(HC n. 422.310/DF, relatora Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe de 11/5/2018.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. DETRAÇÃO. IMPOSSIBILIDADE. PERÍODO CONSIDERADO COMO EFETIVO CUMPRIMENTO DE PENA POR DELITO POSTERIOR.
+1. As razões reunidas na insurgência são incapazes de infirmar o entendimento assentado na decisão agravada de que o período de prisão cautelar submetido já foi computado como efetivo cumprimento de pena para fins da extinção da punibilidade.Portanto, incabível sua utilização novamente para fins de detração em outra execução penal.
+2. Agravo regimental improvido. (AgRg no HCn. 386.313/DF, relatorMinistro Sebastião Reis Júnior, Sexta Turma, DJe de 21/11/2017.)
+Ademais, para alterar a conclusão das instâncias ordinárias e acatar as teses da defesa, seria imprescindível o reexame fático-probatório dos autos, medida incompatível com a estreita via do habeas corpus.
+Desse modo, não se verifica ilegalidade apta a justificar a concessão da ordemde ofício pelo STJ.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
