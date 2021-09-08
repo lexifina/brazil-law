@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto por MARCELO DIAS FERREIRA DE LIMA e OUTROScontra acórdão do Tribunal de Justiça do Estado da Paraíba (HC n. 0808569-31.2021.8.15.0000).
+Os recorrentes foram presos em flagrante em 7/6/2021. Aprisão foiconvertidaem preventiva por suposta prática dos delitos descritos nos arts. 33da Lei n. 11.343/2006, 12da Lei n. 10.826/2003e157, § 2º-A, I, e 288 do Código Penal (fl. 60).
+O decreto prisional fundou-se na materialidade do delitoe nos indícios de autoria, bem como naapreensão dearma e de parte da res furtiva em posse dos recorrentes (fl. 131).
+Impetrado writ originário, a ordem foi denegada (fl. 184).
+Osrecorrentes alegam que a prisão preventiva foi decretada de ofício, sem representação da autoridade policial ou manifestação do Ministério Público (fl. 199).Aduzem que é ilegal por ausência de fundamentação, limitando-se o magistrado a invocar precedentes diversos a fim de justificar a segregação cautelar, sem estabelecer as razões concretas para o cabimento da prisão (fl. 200).
+Argumentam que são primários, possuem bons antecedentes, trabalho lícito e residência fixa, sendo possível a aplicação de medidas cautelares diversas da prisão (fl. 202).
+Pugnam pela revogação dasprisões.Subsidiariamente, requerem a aplicação de medidas cautelares alternativas.
+É o relatório. Decido.
+Nos casos em que a pretensão esteja em conformidade ou em contrariedade com súmula ou jurisprudência pacificada dos tribunais superiores, a Terceira Seção desta Corte admite o julgamento monocrático da impetração antes da abertura de vista ao Ministério Público Federal, em atenção aos princípios da celeridade e da efetividade das decisões judiciais, sem que haja ofensa às prerrogativas institucionais do parquet ou mesmo nulidade processual (AgRg no HC n. 674.472/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 10/8/2021; AgRg no HC n. 530.261/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 7/10/2019).
+Sendo essa a hipótese dos autos, passo ao exame do mérito da impetração.
+Com a edição da Lei n. 13.964/2019, que deu nova redação ao art. 311 do CPP, não mais se permite ao juiz decretar a prisão preventiva do investigado ou do réusem provocação do Ministério Público ou da autoridade policial.
+No entanto, a conversão do flagrante em prisão preventiva é uma situação à parte, que não se confunde com a decisão judicial que simplesmente decreta a preventiva ou outra cautelar.
+No caso, foi dada vista ao órgão ministerial do Estado da Paraíba, que se manifestou posteriormente pela manutenção da prisão preventiva dos recorrentes (fl. 131). Na ocasião, ainda que não seja a situação ideal, foi oferecidaà defesa a oportunidade de exercer o contraditório diferido, permitindo-se a revisão do ato judicial.Dessa forma, asexigências do Pacote Anticrime foram atendidas, afastando-se a alegação de conversãoda prisão de ofício.
+O entendimento está em consonância com a jurisprudência do STJ de que a posterior manifestação do órgão ministerial ou da autoridade policial pela prisão cautelar supreo vício de não observância da formalidade do prévio requerimento (AgRg no RHC n. 136.708/RS, relator Ministro Felix Fischer, Quinta Turma, DJe de DJe 29/03/2021).
+No que diz respeito à ausência de fundamentação do decreto preventivo e às condições favoráveis dos recorrentes, as questõesnão foramenfrentadas pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, nestes pontos, o recurso não merece conhecimento.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus, ficando prejudicado o pedido de liminar.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
