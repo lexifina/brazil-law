@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim relatado (fl. 239):
+Cuida-se de apelação interposta por João Vitor Miranda da Silva contra a r. sentença de fls. 157/161, que o condenou pela prática do crime previsto no art. 157, § 2º, inc. II, do Código Penal, impondo-lhe a pena privativa de liberdade de 05 anos e 04 meses de reclusão, a ser cumprida inicialmente no regime fechado, além do pagamento de 13 dias-multa, com valor unitário mínimo.
+Inconformado, recorre (fls. 168/189), pleiteando: (i) a recondução da pena-base ao mínimo legal, ao argumento de que a exasperação foi determinada com base em elementares do delito; (ii) o abrandamento do regime prisional, argumentando com a ausência de circunstâncias desfavoráveis e com a aplicação do art. 387, § 2º, do Código de Processo Penal. Busca, ainda, lhe seja assegurado o direito de recorrer em liberdade ou a substituição da prisão preventiva por medidas cautelares alternativas, alegando estarem ausentes os requisitos da prisão preventiva e haver risco à saúde do réu, pela pandemia de COVID-19. ..
+Pugna a impetrante, liminarmente e no mérito, peloabrandamento do regime prisional.
+A liminar foi indeferida.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela denegação da ordem.
+Acerca do regime prisional, assim se manifestou o Tribunal local (fls. 262-263):
+ .. Em arremate, consigno que a determinação do regime inicial não levou em conta somente o quantum de pena, mas também a gravidade concreta da conduta, tendo em vista ascircunstâncias judiciais negativas, bem como o emprego de simulacro de arma de fogo e o concurso e agentes, de modo que o desconto do período de segregação cautelar não tem o condão de acarretar qualquer reflexo quanto a esta solução. ..
+Da sentença, extrai-se (fls. 169-170 - com destaque):
+ .. Nos moldes das circunstâncias judiciais previstas no art. 59 do Código Penal, certo é que o réu é primário, mas que sua culpabilidade é acentuada, na medida em que, para praticar o roubo, valeu-se de simulacro de arma de fogo, muito semelhante a uma pistola verdadeira, que foi capaz de incutir medo na vítima e facilitou a consumação do crime. Ademais, desfavoráveis as consequências do delito à vítima, que não recuperou o celular subtraído. A par do prejuízo material, bem se sabe que o aparelho celular não mais tem mera função telefônica. Em verdade, no aparelho são armazenados diversos dados sensíveis de seu proprietário, de modo que, com sua subtração e não recuperação, dados sensíveis da vítima encontram-se expostos e susceptíveis à violação. Sopesadas tais circunstâncias, fixo a pena acima do mínimo legal em 05 (cinco) anos de reclusão e 15 (quinze) dias-multa, fixado o valor unitário, ante a falta de maiores elementos acerca da condição econômica do réu, em um trigésimo do salário mínimo vigente à época dos fatos, devidamente corrigido até a data da efetiva execução da sanção pecuniária.
+ ..
+O regime inicial de cumprimento da pena de reclusão deve ser o fechado, nos termos do art. 33, § 2º, "b" do CP. Isto, considerada a desfavorabilidade das circunstâncias judiciais e a quantidade de pena imposta. ..
+Como se vê, diante das circunstâncias judiciais desfavoráveis, arbitrou-se o regime mais gravoso.
+Sobre o tema, entende esta Corte que, " e stabelecida a pena em patamar superior a 4 e inferior a 8 anos de reclusão e considerando a existência de circunstância judicial desfavorável, proporcional a fixação do regime inicial fechado para o resgate da pena de reclusão, nos termos do art. 33, § § 2º e 3º, do Código Penal"(AgRg no AREsp 1602204/TO, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 05/03/2020, DJe 16/03/2020). No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ROUBO MAJORADO. PENA-BASE.CULPABILIDADE E CONSEQUÊNCIAS. MOTIVAÇÃO SUFICIENTE. FRAÇÃO DE AUMENTO. PROPORCIONALIDADE. REGIME FECHADO. CIRCUNSTÂNCIAS NEGATIVAS. AGRAVO REGIMENTAL NÃO PROVIDO.
+ ..
+4. Para a escolha do regime prisional, devem ser observadas as diretrizes dos arts. 33 e 59, ambos do Código Penal, além dos dados fáticos da conduta delitiva que, se demonstrarem a gravidade concreta do crime, poderão ser invocados pelo julgador para a imposição de regime mais gravoso do que o permitido pelo quantum da pena.
+5. Diante das circunstâncias judiciais desfavoráveis, ao dosar a pena-base, não há violação do art. 33, § 2º, do Código Penal, correta a aplicação do regime fechado.
+6. Agravo regimental não provido. (AgRg no HC 482.345/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/09/2019, DJe 23/09/2019).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
