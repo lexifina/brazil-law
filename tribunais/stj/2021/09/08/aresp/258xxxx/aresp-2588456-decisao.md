@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por PAULO SERGIO DUTRA, em face de decisão proferida pelo Tribunal de Justiça do Estado de Santa Catarina que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 999 e-STJ):
+APELAÇÃO CÍVEL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. SERVIDOR NOMEADO PARA EXERCER CARGO COMISSIONADO.RECEBIMENTO DE REMUNERAÇÃO. AUSÊNCIA DE CONTRAPRESTAÇÃO LABORAL. SERVIDOR FANTASMA.PREFEITO MUNICIPAL CIENTE DA DESÍDIA DO SERVIDOR. ENRIQUECIMENTO ILÍCITO E PREJUÍZO AO ERÁRIO CARACTERIZADOS. DOLO EVIDENCIADO.CONDUTAS TIPIFICADAS NOS ARTS. 9º E 10 DA LEI N.8.429/92. ATOS DE IMPROBIDADE ADMINISTRATIVA CONFIGURADOS.SENTENÇA DE PROCEDÊNCIA MANTIDA.RECURSOS CONHECIDOS E DESPROVIDOS.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 1218 e-STJ):
+EMBARGOS DE DECLARAÇÃO EM APELAÇÃO CÍVEL.AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. ALEGADA OMISSÃO QUANTO AOS ELEMENTOS DE CONVICÇÃO QUE ALICERÇAM A CONCLUSÃO NO SENTIDO DA DEMONSTRAÇÃO DA CONDUTA ÍMPROBA PELO EMBARGANTE E A REJEIÇÃO DAS TESES DEFENSIVAS. VÍCIO INEXISTENTE. NÍTIDO INTENTO DE REDISCUSSÃO E ALTERAÇÃO DO JULGADO. IMPOSSIBILIDADE. REJEIÇÃO.
+"Os embargos de declaração só se prestam a sanar obscuridade, omissão ou contradição porventura existentes no acórdão, ou para corrigir erro material, não servindo à rediscussão da matéria já julgada no recurso" (STJ, AgInt no AREsp 683518/DF, rel. Min. Maria Isabel Gallotti, DJ 23-02-2017).
+No recurso especial, interposto com fundamento na alínea "a" do permissivo constitucional, o recorrente aponta aos seguintes julgados: a) art. 1.022 do CPC/2015, pois o Tribunal de origem não se manifestou sobre todas as teses suscitadas nos aclaratórios; b) art. 10 da Lei 8.429/92, uma vez que não estão presentes os pressupostos necessários à responsabilização por ato de improbidade administrativa, sobretudo em razão da ausência do elemento subjetivo; c) art. 12, I e II, da Lei 8.429/92, em razão da ausência de razoabilidade e proporcionalidade na dosimetria das sanções.
+O Ministério Público do Estado de Santa Catarina apresentou contrarrazões às fls. 1403/1412 e-STJ.
+O Tribunal de origem não admitiu o recurso especial à consideração de que: a) não há falar em negativa de prestação jurisdicional; b) a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial em razão da incidência da Súmula 7/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+O Ministério Público do Estado de Santa Catarina apresentou contraminuta às fls. 1484/1493 e-STJ.
+É o relatório. Passo a decidir.
+Faz-se necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA.IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVOCONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
