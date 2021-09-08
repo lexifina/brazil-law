@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de embargos de declaração opostos contra decisão monocrática assim ementada (fl. 258):
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL.SERVIDOR PÚBLICO. REENQUADRAMENTO. QUADRO DE PESSOAL DA AGU. LEI 10.480/2002. DEFICIÊNCIA NA ARGUMENTAÇÃO RECURSAL. SÚMULA 284/STF. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. RECURSO ESPECIAL NÃO CONHECIDO.
+O embargante, além de repisar as razões apresentadas em seu apelo nobre, aduzque "a falta de indicação da alínea e do item III do art. 105 da CF do no preâmbulo do Recurso especial não impõe de per si a inadmissibilidade do Recurso especial quando o recorrente indica que o Tribunal violou dispositivos infraconstitucionais tornando dispicienda a falha aludida. Neste caso, não há que se falar de incidência da súmula 284 do STF, pois o recorrente indicou com absoluta precisão o dispositivo infraconstitucional, qual seja o art. 1º da Lei nº 10.480/2002" (fl. 267).
+Sem impugnação.
+É o relatório. Decido.
+De início, registra-se que, nos termos do que dispõe o artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+Sob esse enfoque, a irresignação não merece obter êxito.
+Do que se observa, a decisão embargada resolveu a controvérsia ao assentar que: (a) aplicabilidade da Súmula 284/STF, uma vez que "o alegado pelo recorrente sobre eventual ofensa à lei federal não está devidamente particularizado de forma clara e específica e não tem em si correspondência com os fundamentos aplicados pelo acórdão recorrido" (fl. 260);e (b) não comprovação do dissídio jurisprudencial.
+Nessa senda, frisa-se, por oportuno, que a resolução do conflito de interesses, por meio da aplicação do direito que o colegiado entendeu adequado à hipótese, ainda que a solução jurídica seja diversa da pretendida por um dos litigantes, não traduz negativa ou ausência de prestação jurisdicional.
+Cumpre salientar, ainda, que a jurisprudência deste Superior Tribunal é firme no sentido de que "o julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida" (EDcl no AgRg nos EREsp 1.483.155/BA, Rel. Ministro Og Fernandes, Corte Especial, DJe 3/8/2016).
+Assevera-se, por fim,que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, evidencia-se não ter ocorrido falta de clareza, insuficiência de fundamentação ou erro material a ensejar esclarecimento ou complementação do que já julgado.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ARTIGO 1.022 DO CPC/2015. VÍCIOS NÃO CONFIGURADOS. EMBARGOS DE DECLARAÇÃO REJEITADOS.
