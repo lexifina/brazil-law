@@ -1,0 +1,40 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto porCIRURGICA  COMERCIO PRODUTOS MEDICOS HOSPITALARES EIRELI,contra decisão que negou seguimento a recurso especial fundamentado, exclusivamente, na(s) alínea(s) "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 11/09/2020.
+Concluso ao gabinete em: 24/08/2021.
+Ação:cobrança, ajuizada pela agravante, em face de HOSPITAL E PRONTO SOCORRO COMUNITÁRIO VILA IOLANDA LTDA, em razão de falta de pagamento de materiais hospitalares fornecidos pela empresa.
+Sentença:julgou improcedente o pedido.
+Acórdão:negou provimento à apelação interposta pela agravante, nos termos da seguinte ementa:
+RAZÕES RECURSAIS - Alegada inovação - Não ocorrência - Conhecimento.
+COBRANÇA - Notas fiscais - Ré que exibiu os comprovantes de pagamento - Conjunto probatório que permite se conclua que houve a quitação da dívida - Improcedência mantida -Recurso desprovido.
+Embargos de Declaração: opostos pela agravante, foram rejeitados.
+Recurso especial: alega violação dos arts. 489, §1º, VI, e 1.022, II, do CPC/15. Sustenta que o Tribunal de origem não se pronuncioua respeito: i) do fundamento pelo qual desconsiderou a prova documental e a testemunhal pela qual se comprova que o fornecimento dos produtos ocorreu na forma e preços pactuados, sendo que não há entre as partes qualquer acordo firmado entre seus representantes para a concessão de desconto suplementar ao preço já ajustado; ii) das notas fiscais que foram pagas na integralidade; iii) da ausência de impugnação pelo agravado acerca do valor constante das notas fiscais; iv) da ausência de contrato entre as partes estabelecendo a concessão do desconto e em quais hipóteses incidiria; v) de qual é o limite de poderes de determinado funcionário para agir em nome da empresa a revelia de seus representantes legais.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/2015.
+- Da negativa de prestação jurisdicional
+O TJ/SP foi claro ao concluir pela quitação da dívida, conforme se depreende dos seguintes trechos:
+Cuida-se de ação de cobrança movida pela apelante à apelada em que visa o recebimento da quantia de R$ 104.280,16 (fls. 01/05). Afirma que a ré pagou apenas R$417.120,68 de uma dívida total de R$521.400,84 decorrente de seis notas fiscais, indicadas a fl. 02 e colacionadas a fls. 17/26.
+Em contestação, a ré defende a quitação da dívida porque era concedido desconto de 20% no boleto bancário até a data de vencimento (fl.78) e exibe os comprovantes de pagamentos das respectivas notas fiscais sub judice (fls. 89/104).
+Com efeito, o desconto está previsto no próprio boleto ou é indicado o valor que corresponde ao desconto como é o caso das notas fiscais 2019, 5630 e 5854 (fls. 95, 97 e 99, respectivamente). E a nota fiscal 3986 no valor total de R$67.950,00 e comprovante de pagamento de R$54.360,00 (fls. 90 e 96) embora o desconto não esteja expresso no boleto, há mensagem eletrônica (fl. 106) lembrando do desconto de 20% em caso de pagamento por boleto bancário. Já as notas fiscais 5855 e 6020 apresentam comprovantes de pagamento no valor integral (fls. 101/104).
+Na réplica (fls. 130/138), a apelante não impugnou de forma específica os comprovantes de pagamento. Limitou-se a afirmar, contrariamente à prova dos autos, que "a autora jamais negociou com a ré desconto na pontualidade" (fl. 132). E a alegação de que "seja quem for que tenha inserido o desconto pontualidade no boleto, este agiu a revelia dos sócios da autora" (fl. 136), além de carecer do mínimo de prova, não seria suficiente para afastar a quitação feita com desconto.
+Acrescenta-se que a apelada pleiteou prova oral e suas testemunhas corroboram a versão da contestação, qual seja, que era usual o desconto de 20% dos boletos da autora antes do vencimento (fls. 141/142 e 228/231), enquanto que a apelante não arrolou nenhuma testemunha e seu representante mesmo intimado a prestar depoimento sob pena de confesso não compareceu à audiência (fls. 232/233).
+Nesse contexto, diante da análise do conjunto probatório, é possível concluir que houve regular quitação da dívida.
+Forçoso convir, dessa forma, que a apelada se desincumbiu do ônus de demonstrar os fatos impeditivos, modificativos ou extintivos do direito da apelante, nos termos do art. 373, II, do CPC.
+No julgamento dos embargos de declaração, consta o seguinte:
+Conforme já consignado no acórdão (fls. 284/288) e diferentemente do quanto alegado pela embargante (fl. 02), a Turma Julgadora, ao analisar as provas, concluiu que houve regular quitação da dívida pela embargada e que o desconto de 20% estava indicado no próprio boleto ou havia mensagem mencionando-o (fl. 287). Isso bastaria.
+No entanto, mesmo assim, no julgamento (fl. 287), houve menção às duas notas fiscais que apresentaram pagamento do valor integral  o que seria desnecessário maiores explicações, uma vez que, se a ré pagou, a autora nada tinha a reclamar.
+Acrescenta-se, por fim, que as alegadas omissões, quanto à ausência de manifestação de vontade sobre o desconto e alguém ter inserido este desconto no boleto sem poderes para tanto (fl. 02), também, inexistem.
+Com efeito, verifica-se no julgamento que tais questões foram citadas e ficou decidido que elas carecem do mínimo de prova e seriam insuficientes para afastar a quitação demonstrada pela parte contrária (vide fls. 287).
+Dessa maneira, no acórdão recorrido não há omissão, contradição, obscuridade ou erro material. Ademais, foram devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional.
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte (AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018). Além disso, inexiste afronta ao art. 489 do CPC/15 quando o órgão julgador se pronuncia de forma clara e suficiente acerca das questões suscitadas nos autos, não havendo necessidade de se construir textos longos e individualizados para rebater uma a uma cada argumentação, quando é possível aferir, sem esforço, que a fundamentação não é genérica (AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/2/2018; e AgInt no REsp 1.683.290/RO, 3ª Turma, DJe de 23/2/2018).
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação dos arts. 489 e 1.022 do CPC/15, incidindo, quanto ao ponto, a Súmula 568/STJ.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932,IV, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 12% sobre o valor da causa(e-STJ fl. 288) para 15%, observada eventual concessão da gratuidade de justiça.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA. FALTA DE PAGAMENTO DE MATERIAIS HOSPITALARES.EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. INOCORRÊNCIA.
+1. Ação de cobrança em razão de falta de pagamento de materiais hospitalares.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. Agravo conhecido. Recurso especial conhecido e não provido.
