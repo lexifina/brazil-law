@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno manejado pela União desafiando decisão pela qual conheci em parte do recurso especial e, na parte conhecida, neguei-lhe provimento, por entender que: (I) mostra-se deficiente a fundamentação do recurso especial em que a alegação de ofensa aos arts. 489, § 1º, IV, e 1.022, II, ambos do CPC, se faz de forma genérica (Súmula 284/STF); (II)a matéria pertinente ao pedido de reconhecimento da prescrição da pretensão indenizatória não foi apreciada pela instância judicante de origem, tampouco constou dos embargos declaratórios opostos para suprir eventual omissão (Súmula 282/STF); e (III)a jurisprudência desta Corte de Justiça é firme no sentido de que o direito à indenização por danos morais ostenta caráter patrimonial, sendo, portanto, transmissível ao cônjuge e aos herdeiros do de cujus.
+Em suas razões, a parte agravante alega, inicialmente, que somenteserá impugnada a questão da legitimidade da viúva para propositura de demanda que visa àindenização por dano moral decorrente de atos de perseguição política sofrida pelo de cujus.
+Para tanto, argumenta que o Superior Tribunal de Justiça entende que a legitimidade, em casos como odos autos, não pode ser exercida de maneira isolada, de modo que deveria ter sido feitaressalva quanto à necessidade de comprovação de ausência de outros herdeiros para o pleito do valor total da indenização.
+Impugnação às fls. 600/606.
+É o relatório.
+EMENTA
+ADMINISTRATIVO. PROCESSUAL CIVIL. AGRAVO INTERNO. PERSEGUIÇÃO POLÍTICA. DANOS MORAIS. LEGITIMIDADE ATIVA DOS HERDEIROS. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE DE ANÁLISE.
+1. No caso dos autos,o argumento relativo à necessidade de comprovação da ausência de outros herdeiros para que a viúva possa pleitear o valor total da indenização revela-se tema inédito, agitado tão somente no bojo do presente agravo interno, restando caracterizadainovação recursal, a qual não pode ser analisada na atual fase processual.
+2. Agravo interno não provido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator):Em que peseaos argumentosdeduzidos no presente recurso, a decisão agravada não merece reparos.
+Com efeito, na hipótese vertente, observa-se que a agravante, no tópico do recurso especial que diz respeitoà tese de ilegitimidade da parte recorrida para pleitear o direito à reparação econômica, limitou-se a deduzir o seguinte (fl. 559):
+Ocorre que, embora o direito à reparação econômica tenha aptidão para ser transferido os dependentes do anistiado (caso ele mesmo não o tenha feito em vida) por força de norma legal, o mesmo não se pode dizer do . Este, consoante cediço, direito à indenização por danos morais caracteriza-se por direito personalíssimo, de modo que a indenização devida por sua violação somente pode ser postulada pelo próprio anistiado, não sendo, portanto, transmissível aos seus herdeiros.
+Dessa forma, torna-se imperativo reconhecer a ausência de legitimidade ativa à demandante, a qual, diga-se de passagem, apenas se tornou cônjuge do anistiado em 23/12/1989 (vide id. 4058305.11161405 ep. 13 do id. 4058305.11161429), isto é, já na égide do Estado Democrático de Direito.
+Vê-se,desse modo, que o argumento relativo à necessidade de comprovação da ausência de outros herdeiros para que a viúva possa pleitear o valor total da indenização revela-setema inédito, agitado tão somente no bojo do presente agravo interno, restando caracterizada inovação recursal, a qual não pode ser analisada na atual fase processual. No mesmo sentido:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALE. PERÍODO NÃO PRESCRITO. SÚMULA 83/STJ. NÃO IMPUGNAÇÃO. SUMULA 85/STJ. INOVAÇÃO RECURSAL.
+1. Trata-se de Agravo Interno contra decisão que conheceu do Agravo em Recurso Especial da Fazenda do Estado de São Paulo e São Paulo Previdência para negar provimento ao Recurso Especial.
+2. A irresignação não merece acolhida. A decisão segue a orientação jurisprudencial do Superior Tribunal de Justiça, já declarada em hipóteses semelhantes à dos autos, no sentido de que a impetração do Mandado de Segurança interrompe a fluência do prazo prescricional, de modo que tão somente após o trânsito em julgado da decisão nele proferida é que volta a fluir a prescrição da Ação Ordinária para cobrança das parcelas referentes ao quinquênio que antecedeu a propositura do writ. (REsp 1.896.040/SP, Rel. Min. Herman Benjamin, DJe 18.12.2020).
+3. Deveria a parte agravante ter demonstrado, no caso concreto, que a decisão recorrida mereceria resultado diverso, por existir acórdão de órgão fracionário do STJ com similitude fática e jurídica, cujo teor decisório se realizou de forma divergente daquela solução apresentada para o Agravo em Recurso Especial, realizado o cotejo analítico dos acórdãos e exigido a reapreciação da matéria pelo órgão colegiado.
+4. Ademais, a agravante não trouxe nas razões do Recurso Especial a questão referente "a inviabilidade de se executar verbas pretéritas à impetração diante da ocorrência da prescrição (parcelar) do crédito exequendo", o que caracteriza intolerável inovação recursal.
+5. Agravo Interno não provido.
+(AgInt no REsp 1927786/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/06/2021, DJe 01/07/2021)
+PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. RECONHECIMENTO DE TEMPO ESPECIAL. NECESSIDADE DE LAUDO TÉCNICO PARA COMPROVAÇÃO DE EXPOSIÇÃO A RUÍDO. INOVAÇÃO RECURSAL. PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO DA AUTARQUIA FEDERAL NÃO CONHECIDO.
+1. A argumentação acerca da necessidade de apresentação de laudo técnico para a comprovação da exposição a ruído para o reconhecimento de tempo especial não deve prosperar, uma vez que se trata de inovação recursal, posto que não foi alegada no momento oportuno nas razões do recurso especial, ocorrendo a preclusão consumativa.
+2. Agravo interno da autarquia federal não conhecido.
+(AgInt no AREsp 1793812/RS, Rel. Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF-5ª REGIÃO), PRIMEIRA TURMA, julgado em 21/06/2021, DJe 24/06/2021)
+ANTE O EXPOSTO, nego provimento ao agravo interno.
+É o voto.
