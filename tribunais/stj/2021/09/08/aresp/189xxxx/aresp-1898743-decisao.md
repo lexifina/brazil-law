@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo interposto por IVAN DA SILVA CORREA, contra decisão em que não foi admitido o recurso especial fundado no art. 105, III, a, da Constituição Federal, objetivando reformar o acórdão proferido pelo Tribunal de Justiça do Estado do Mato Grosso, assim ementado:
+PREVIDENCIÁRIO  RECURSO DE APELAÇÃO CA/EL  CONCESSÃO DE BENEFÍCIO PREVIDENCIÁRIO  - AUXÍLIO -ACIDENTE - INCAPACIDADE OU REDUÇÃO DA CAPACIDADE PARA O TRABALHO QUE HABITUALMENTE EXERCIA  REQUISITOS LEGAIS NÃO PREENCHIDOS  LAUDO MÉDICO PERICIAL CONCLUSIVO  REQUISITOS DO ARTIGO 86 DA LEI Nº 8.213/91  NÃO PREENCHIMENTO  RECURSO DESPROVIDO  SENTENÇA MANTIDA. Se o Laudo Médico Oficial é conclusivo no sentido da ausência de incapacidade para o trabalho, ainda que parcial e temporária, tampouco faz referência à redução da capacidade para o trabalho que habitualmente exercia, não há que se cogitar do deferimento de benefício previdenciário, qualquer dos requeridos (auxílio-doença, auxílio-acidente, ou aposentadoria por invalidez)."
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, a parte recorrente apontou a ofensa aos arts. 2º da Lei n. 6.367/1976; bem como 18, 19, 20, 21 e 86, da Lei n. 8.213/1991. Sustentou que o Tribunal de origem deveria ter reconhecido a redução da capacidade laborativa do recorrente para a atividade habitual que exercia à época do acidente do trabalho sofrido, para conceder o auxílio-acidente decorrente de acidente de trabalho.
+Após decisão em que foi inadmitido o recurso especial, com base no Enunciado Sumular n. 7/STJ, foi interposto o presente agravo, tendo a parte recorrente apresentado argumentos visando rebater os fundamentos da decisão agravada.
+É o relatório. Decido.
+Considerando que a parte agravante, além de atender aos demais pressupostos de admissibilidade deste agravo, logrou impugnar a fundamentação da decisão agravada, passo ao exame do recurso especial interposto.
+O recurso especial não comporta seguimento.
+A parte recorrente aduziu que a redução da capacidade laboral do recorrente deveria ser considerada parcial e permanente. Isso porque "possui limitação da capacidade de trabalho, tanto é verdade que FOI REABILITADO PELOS CORREIOS PARA ATUAR NA ATIVIDADE DE ATENDENTE COMERCIAL, o que só reforça que suas sequelas consolidaram-se e lhe causaram redução da capacidade plena de trabalho como carteiro, função esta que desempenhava à época do acometimento das sequelas." (fl. 217).
+Por sua vez, o Tribunal de origem apontou, com fundamento no laudo pericial, que o recorrente apresenta capacidade laboral e não apresenta limitação para a vida independente.
+Confira-se:
+" ..  A fratura foi tratada de forma cirúrgica, seguido de acompanhamento médico e reabilitação física, restando atualmente sequela funcional no membro superior direito, mas que não o incapacita para a sua atividade habitual.
+E finaliza o expert, com base nos elementos e fatos expostos, conclui-se que o periciando apresenta capacidade laboral. Não apresenta limitação para a vida independente." (fl. 200).
+A pretensão recursal implica, em verdade, revolver o conjunto probatório e infirmar as conclusões expostas no laudo pericial, em que se sustentou o Tribunal de origem. Incide, assim, o Enunciado Sumular n. 7/STJ.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
