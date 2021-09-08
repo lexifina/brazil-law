@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetrado em favor de DIMACIO JOSÉ DA SILVAcontra acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco no HC n. 0012217-61.2021.8.17.9000.
+Consta dos autos que oPaciente foi pronunciado pela suposta prática do crime previsto no art. 121, § 2.º, inciso IV, do Código Penal, pois, em 27/11/1999, teria efetuado dois disparos de arma de fogo contra a Vítima, que, cambaleante, procurou se afastar do local;logo em seguida, o Acusado e seu padrastoteriam ido ao local onde estava o Ofendido, que acabou sendo atingido por mais 5 (cinco) disparos supostamente efetuados pelo padrasto do Réu.
+A prisão preventiva, decretada em 17/04/2001 (fls.50-51), foi mantida na decisão de pronúncia, proferida em 07/06/2021 (fls. 108-114). O mandado de prisão foi cumprido em 17/06/2020.
+Irresignada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que denegou a ordem (fls. 28-30).
+Neste writ, a Defesa argumenta que não se encontram presentes os requisitos autorizadores da prisão preventiva previstos no art. 312 do Código de Processo Penal e que o decreto prisional carece de fundamentação idônea.
+Alega que o Paciente não tinha a intenção de fugir e que não foram esgotados todos os meios de localização do Réu.
+Assevera que o Acusado é primário, possui bons antecedentes e residência fixa.
+Afirma que seria adequada a aplicação de medidas cautelares diversas da prisão.
+Menciona a Recomendação n. 62/2020 do Conselho Nacional de Justiça.
+Sustenta que há excesso de prazo na formação da culpa.
+Requer, inclusive liminarmente, a imediata soltura do Paciente, com ou sem imposição de medidas cautelares diversas da prisão.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+O decreto prisional está assim fundamentado (fl. 51; grifos diversos do original):
+"Pelo MM. Juiz foi dito que em tendo sido os acusados devidamente citados, não se fizeram presentes em juízo, tendo sido novamente citados via Edital e, consequentemente, tiveram suas revelias decretadas. Na peça preambular, pediu o Ministério Público o decreto prisional dos acusados. Nessa oportunidade, hei por bem, em apreciando aquele pleito, decretar a prisão preventiva dos acusados DIMÁCIO JOSÉ DA SILVA e JOSIAS PEREIRA DE FREITAS. O delito em questão, fora praticado com requinte de crueldade, inclusive, após alvejada pelo primeiro acusado, este fora em busca do segundo e retornaram para eliminar a vítima, desferindo-lhe outros disparos enquanto a mesma clamava por socorro. Em processo dessa natureza, a ultimação do feito somente é possível com a presença dos réus, portanto, a título de se alcançar à aplicação da lei penal e o equilíbrio da ordem pública, é que urge a prisão preventiva dos acusados, o que faz alicerçado nas disposições dos arts. 311/312, do CPP, determinando se expeçam contra os mesmos mandados de prisão. Cumpra-se."
+Na decisão de pronúncia, a prisão preventiva foi mantida nos seguintes termos (fl. 114; grifos diversos do original):
+"Denego ao réu o direito de aguardar ao julgamento de eventual recurso em liberdade, por entender presentes os requisitos autorizadores de sua custódia cautelar.
+De fato, em seu depoimento em Juízo, a companheira do réu na época dos fatos, Gilmara da Paz da Silva, afirmou que após o crime o acusado teria deixado a localidade, por receio de eventual prisão, não sabendo ela declinar seu paradeiro.
+Ademais, verifica-se que o acusado permaneceu foragido por quase 20 (vinte) anos, sendo capturado em outro Município deste Estado, denotando a necessidade de manutenção de sua custódia preventiva, como forma de resguardar a futura e eventual aplicação da lei penal."
+O Tribunal de origem, por sua vez, destacou que "a fuga do réu por longo período revela a necessidade de manter a custódia preventiva para garantir a aplicação da lei penal, não sendo adequadas ao caso as medidas cautelares diversas da prisão" (fl. 29).
+Como se percebe, a manutenção da prisão cautelar está suficientemente fundamentada, pois o Magistrado singular ressaltou que, após a prática do delito, o Acusado fugiu do distrito da culpa e permaneceu foragido por quase 20 (vinte) anos, sendo encontrado em outro município do Estado de Pernambuco, o que justifica a prisão preventiva para assegurar a aplicação da lei penal.
+Nesse sentido:
+"HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. TRANCAMENTO DA AÇÃO PENAL. INÉPCIA DA DENÚNCIA. TESE SUPERADA. AUSÊNCIA DE JUSTA CAUSA.REVOLVIMENTO DE MATÉRIA FATICO-PROBATÓRIA. INVIABILIADE. EXCESSO DE LINGUAGUEM NA PRONÚNCIA. INEVIDÊNCIA. AFASTAMENTO DAS QUALIFICADORAS. IMPOSSIBILIDADE. PREVENTIVA. FUNDAMENTOS E EXCESSO DE PRAZO. SUPRESSÃO DE INSTÂNCIA. AUSÊNCIA DE ILEGALIDADE MANIFESTA.NECESSIDADE DE GARANTIA DE APLICAÇÃO DA LEI PENAL. RÉU PERMANECEU FORAGIDO POR CERCA DE CINCO ANOS.
+ ..
+6. Inevidência de ilegalidade manifesta na custódia cautelar. Prisão amparada, sobretudo, na necessidade de garantia da aplicação da lei penal, ante o risco de nova fuga do réu que permaneceu foragido por cerca de cinco anos.
+7. Habeas corpus parcialmente conhecido e, nessa extensão, ordem denegada."(HC 626.173/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021; sem grifos no original.)
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.EXTORSÃO MEDIANTE SEQUESTRO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. MODUS OPERANDI. CONCURSO DE AGENTES E USO DE ARMA DE FOGO. RÉU FORAGIDO POR 17 ANOS. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA E DE ASSEGURAR A APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. INAPLICABILIDADE DE MEDIDA CAUTELAR ALTERNATIVA. FLAGRANTE ILEGALIDADE NÃO EVIDENCIADA. HABEAS CORPUSNÃO CONHECIDO.
+ ..
+Destacou-se, ainda, a nítida intenção do paciente de se furtar da aplicação da lei penal, porquanto ficou foragido por 17 anos, desde a data dos fatos, sendo o mandado de prisão cumprido em outra Comarca. Nesse contexto, forçoso concluir que a prisão processual está devidamente fundamentada na garantia da ordem pública e na aplicação da lei penal, não havendo falar, portanto, em existência de evidente flagrante ilegalidade capaz de justificar a sua revogação.
+ ..
+6. Habeas corpus não conhecido."(HC 660.004/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/06/2021, DJe 24/06/2021; sem grifos no original.)
+Ademais, para se acolher a alegaçãode queo Paciente não tinha a intenção de fugir, seria necessárioreapreciar todo o conjunto fático-probatório dos autos, o que se mostra incabível na via do habeas corpus.
+Saliento, outrossim, que a existência de condições pessoais favoráveis - tais como primariedade, bons antecedentes, ocupação lícita e residência fixa - não tem o condão de, por si só, desconstituir a custódia antecipada, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema, como ocorre na hipótese em tela.
+Confira-se:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INEXISTÊNCIA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO CONCRETA. CAUTELARES DIVERSAS. DESCABIMENTO. AUSÊNCIA DE CONTEMPORANEIDADE. SUPRESSÃO DA INSTÂNCIA. DECISÃO MANTIDA. RECURSO IMPROVIDO.
+ ..
+3. Nos termos do entendimento desta Corte, Condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa, não têm o condão de, por si sós, desconstituir a custódia processual, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema (RHC 127.499/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, DJe 04/08/2020).
+ ..
+6. Agravo regimental improvido." (AgRg no RHC 140.651/PB, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 23/02/2021, DJe 26/02/2021; sem grifos no original.)
+De outra parte, " h avendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para assegurar a aplicação da lei penal"(HC 650.589/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF/1.ª REGIÃO), SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021; sem grifos no original).
+Por fim, ressaltoque as demais alegações- suposto excesso de prazo, não esgotamento dos meios de localização do Réu e possibilidade de revogação da prisão cautelar com base na Recomendação n. 62/2020 do Conselho Nacional de Justiça-não foram apreciadas no acórdão impugnado, o que impede a manifestação desta Corte Superior, sob pena de indevida supressão de instância.
+Nesse sentido:
+"PEDIDO DE RECONSIDERAÇÃO NO HABEAS CORPUS RECEBIDO COMO AGRAVO REGIMENTAL. PRINCÍPIO DA INSTRUMENTALIDADE DAS FORMAS. PRISÃO PREVENTIVA. EXCESSO DE PRAZO. SITUAÇÃO ATUAL DE PANDEMIA CAUSADA PELA COVID-19. MATÉRIAS NÃO DEBATIDAS PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. AGRAVO IMPROVIDO.
+ ..
+2. Esta Corte superior entende ser indevido o debate de matérias não analisadas pelas instâncias de origem, sob pena de incorrer em indevida supressão de instâncias.
+ ..
+4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento." (RCD no HC 580.971/PE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 09/06/2020, DJe 16/06/2020; sem grifos no original.)
+Ante o exposto, CONHEÇO PARCIALMENTE do habeas corpus e, nessa extensão,
+DENEGO a ordem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. HOMICÍDIO QUALIFICADO. MANUTENÇÃO DA PRISÃO PREVENTIVA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. RÉU FORAGIDO POR QUASE 20 (VINTE) ANOS. FUNDAMENTAÇÃO IDÔNEA. ALEGAÇÃO DE QUE O ACUSADONÃO TINHA A INTENÇÃO DE FUGIR. NECESSIDADE DE ANÁLISE DE PROVAS. VIA INADEQUADA.CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NA HIPÓTESE. DEMAIS QUESTÕES.SUPRESSÃO DE INSTÂNCIA.HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DENEGADA A ORDEM.
