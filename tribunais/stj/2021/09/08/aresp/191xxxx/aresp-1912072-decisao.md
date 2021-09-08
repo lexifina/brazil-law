@@ -1,0 +1,40 @@
+DECISÃO
+Luciane Santos de Oliveira interpôs agravo de instrumento, com pedido de efeito suspensivo, contra decisão interlocutória proferida nos autos da Ação de Reintegração de Posse n. 5042254- 95.2017.4.04.7100/RS, ajuizada pela União e outros, que deferiu o pedido de desocupação da construção encravada na Quadra A - 2ª casa, após a faixa de areia na cidade/praia de Quintão/RS, no Munícipio de Palmeiras do Sul/RS, erigido em Área de Preservação Permanente- APP.
+O pedido de efeito suspensivo ao recurso foi indeferido monocraticamente (fls. 38-40). O Tribunal Regional Federal da 4ª Região dirimiu a controvérsia nos termos da seguinte ementa (fl. 98):
+AMBIENTAL. IMÓVEL. ÁREA DE DUNAS. FINALIDADE. VERANEIO. DESOCUPAÇÃO.
+Constatada a irregularidade de edificação localizada em área de dunas, inviável a regularização do imóvel, sendo pertinente que se diga se sua finalidade era para a moradia ou para veraneio, a depender disso o prazo a ser concedido para a desocupação.
+Caso em que todos os indícios apontam para o fato de que o imóvel não é utilizado para a moradia.
+Decisão agravada mantida.
+Luciane Santos de Oliveira interpôs recurso especial, fundamentado no artigo 105, inciso III, alínea a, da Constituição da República, no qual aponta violação do art. 300, §§1º e 3º, do CPC de 2015, e dos arts. 4º e 5º, I e III, da Medida Provisória n. 2.220 de 2001, visto que, em suma, ainda que incontroversaa ocupação irregular do imóvel pela recorrente, deveria ter-lhe sido assegurado o direito ao reassentamento em outro local.
+Ofertadas contrarrazões às fls. 129-149, o recurso especial não foi admitido pelo Tribunal a quo (fls. 154-157), tendo sido interposto o presente agravo.
+É o relatório. Decido.
+Considerando que a agravante impugnou a fundamentação apresentada na decisão agravada, e atendidos os demais pressupostos de admissibilidade do agravo, passo ao exame do recurso especial.
+De início, cumpre ressaltar que de acordo com o entendimento sumular n. 735 do STF, não cabe recurso extraordinário contra acórdão que defere ou não medida liminar, haja vista não representar pronunciamento definitivo a respeito do direito reclamado na demanda, sendo suscetível de modificação a qualquer tempo, podendo ou não ser confirmada ou revogada pela sentença definitiva.
+A esse respeito, os seguintes julgados desta Corte:
+PROCESSUAL CIVIL. CONCESSÃO DE EFEITO SUSPENSIVO A RECURSO ESPECIAL.AUSÊNCIA DE DEMONSTRAÇÃO DE EVIDÊNCIA DO DIREITO. EFEITO SUSPENSIVO INDEFERIDO. OFENSA AO ART. 1.022 DO CPC/2015 NÃO CONFIGURADA.LIMINAR REVOGADA. REQUISITOS AUTORIZADORES DA TUTELA DE URGÊNCIA.COGNIÇÃO SUMÁRIA. JUÍZO DE VALOR NÃO DEFINITIVO. SÚMULA 735/STF.
+1.Nos termos do art. 1.029, § 5º, do CPC/2015, admite-se requerimento de concessão de pedido suspensivo a recurso especial. Por sua vez, o art. 955, parágrafo único, do CPC/2015 assim determina: "A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso."
+2. A concessão de efeito suspensivo requer demonstração de probabilidade de provimento do direito cuja demora acarrete risco de dano grave de difícil, ou impossível, reparação.
+3. Portanto, ante a falta de demonstração de evidência de direito e de danos graves de difícil reparação, a concessão de efeitos suspensivos ao presente Recurso Especial não é possível.
+4. Não se conhece do Recurso Especial em relação à ofensa ao art.1.022 do CPC quando a parte não aponta, de forma clara, o vício em que teria incorrido o acórdão impugnado. Aplicação, por analogia, da Súmula 284/STF.
+5. Cuida-se, na origem, de pedido de reintegração de posse formulado pela recorrente em razão de esbulho alegadamente cometido.Concedida a liminar, esta foi cassada por acórdão que proveu o Agravo de Instrumento.
+6. A jurisprudência do STJ é firme no sentido de que é incabível o Recurso Especial que tem por objeto decisão de natureza precária, sujeita à modificação a qualquer tempo, sem caráter definitivo, a exemplo dos que examinam pedidos de liminar ou antecipação da tutela, devendo ser confirmada ou revogada pela sentença de mérito. Aplica-se, por analogia, a Súmula 735 do STF.
+7. A parte insurgente discute o próprio mérito da demanda - o que não pode ser examinado nesse momento - e não o preenchimento dos requisitos para a concessão da tutela antecipada. 8. Recurso Especial não conhecido.
+(REsp 1823278/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/11/2019, DJe 18/11/2019)
+TRIBUTÁRIO. PROCESSUAL CIVIL. PROPRIETÁRIO. COBRANÇA DE IPTU. PERDA DA POSSE. TUTELA ANTECIPADA REVOGADA. AGRAVO DE INSTRUMENTO. APRECIAÇÃO DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA 7 DO STJ. SÚMULA 735/STF.
+1. Trata-se, na origem, de Ação Declaratória com pedido de anulação de débito fiscal e antecipação dos efeitos da tutela para determinar que o Município não cobre o IPTU devido, em decorrência dos dois imóveis de sua propriedade terem sido invadidos pela Companhia Docas do Espírito Santo - Codesa.
+2. O magistrado de piso concedeu a tutela antecipada, contudo o Município interpôs Agravo de Instrumento, tendo conseguido que o Tribunal local reformasse o decisum, para que a cobrança do IPTU fosse restabelecida.
+3. A iterativa jurisprudência do STJ é no sentido de que, para analisar critérios adotados pela instância ordinária para conceder ou não liminar ou antecipação dos efeitos da tutela, é necessário reexaminar os elementos probatórios, a fim de aferir nos termos do art. 300 do CPC, "..a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo", o que não é possível em Recurso Especial, ante o óbice da Súmula 7/STJ.
+4. É sabido que as medidas liminares de natureza cautelar ou antecipatória são conferidas mediante cognição sumária e avaliação de verossimilhança. Logo, por não representarem pronunciamento definitivo a respeito do direito reclamado na demanda, são medidas suscetíveis de modificação a qualquer tempo, devendo ser confirmadas ou revogadas pela sentença final.
+5. Em razão da natureza instável de decisão desse jaez, o STF sumulou entendimento segundo o qual "não cabe recurso extraordinário contra acórdão que defere medida liminar" (Súmula 735 do STF).
+6. Portanto, o juízo de valor precário, emitido na concessão ou no indeferimento de medida liminar, não tem o condão de ensejar a violação da legislação federal, o que implica o não cabimento do Recurso Especial, nos termos da Súmula 735/STF.
+7. Assinale-se, por fim, que fica prejudicada a análise da divergência jurisprudencial quando a tese sustentada já foi afastada no exame do Recurso Especial pela alínea "a" do permissivo constitucional.
+8. Recurso Especial não conhecido (REsp 1680744/ES, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/09/2017, DJe 09/10/2017).
+E como deliberado nos respectivos precedentes, incide também o óbice da Súmula n. 7/STJ.
+Ademais, sequer houve no acórdão recorrido, qualquer debate relativo à possibilidade ou não de garantia de reassentamento à parte ora recorrente, incidindo, também, os termos da Súmula n. 282/STF à hipótese.
+O acórdão recorrido fundou-se no fato de não se tratar de imóvel residencial, situado irregularmente sobre área de preservação permanente, no que cabível a respectiva medida de desocupação e demolição, fundamentaçãoutilizadade forma suficiente para manter a decisão proferida no Tribunal a quo, que não foi rebatida no apelo nobre, o que atrai os óbices das Súmulas n. 283 e 284, ambas do STF, in verbis:
+Súmula n. 283
+É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+Súmula n. 284
+É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.
+Ante o exposto, com fundamento no art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
