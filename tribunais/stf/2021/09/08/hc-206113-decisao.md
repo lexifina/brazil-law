@@ -1,0 +1,25 @@
+DECISÃO:
+EMENTA: Processual Penal. Habeas Corpus. Falsidade ideológica. Uso de documento falso. Acordo de não persecução penal. Jurisprudência do Supremo Tribunal Federal.
+    1. Trata-se de habeas corpus, com pedido de concessão de liminar, impetrado contra acórdão unânime da Corte Especial do Superior Tribunal de Justiça (STJ), da Relatoria do Ministro Jorge Mussi, assim ementado:
+    “EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO. AGRAVO REGIMENTAL. RECURSO EXTRAORDINÁRIO. INEXISTÊNCIA DE VÍCIO NO JULGADO. REDISCUSSÃO DO ENTENDIMENTO. IMPOSSIBILIDADE. ACLARATÓRIOS NÃO CONHECIDOS. DETERMINAÇÃO DE BAIXA DOS AUTOS À ORIGEM.
+    1. A ausência, no acórdão, de quaisquer dos vícios previstos no art. 619 do Código de Processo Penal, impede o conhecimento dos embargos declaratórios.
+    2. Ainda que na esfera penal não seja comum a fixação de multa por litigância de má-fé, a insistência do embargante diante das sucessivas oposições de embargos de declaração contra o acórdão impugnado, revela não só o exagerado inconformismo, bem como o desrespeito ao Poder Judiciário e o seu nítido caráter protelatório, constituindo abuso de direito.
+    3. A jurisprudência desta Corte Superior de Justiça pacificou-se no sentido de que, diante da reiterada oposição de aclaratórios meramente protelatórios pela parte, deve ser determinada a baixa dos autos à origem, independentemente da publicação do acórdão recorrido e da certificação do trânsito em julgado.
+    4. Embargos de declaração não conhecidos, com determinação de baixa dos autos à origem, independentemente da publicação deste acórdão e da eventual interposição de outro recurso, certificando-se o trânsito em julgado.”
+    2. Extrai-se dos autos que o paciente foi condenado, em primeira instância, pela prática do crime previsto no art. 304, c/c o art. 299 do Código Penal, à pena de 2 anos e 6 meses de reclusão, em regime aberto e multa. O Tribunal de Justiça do Estado do Paraná deu parcial provimento ao recurso de apelação defensivo, readequando a pena ao patamar de 01 ano e 04 meses de reclusão. Em seguida, sobreveio a interposição de recurso especial.
+    3. A parte impetrante alega “nulidade havida no processamento do recurso especial ' 1.852.257/PR junto ao Superior Tribunal de Justiça no qual, ante a entrada em vigor da Lei ' 13.964/2019, não se deu nova vista ao órgão ministerial para análise do caso com foco para oferecimento de acordo de não persecução penal, o que termina por macular a validade de todos os atos subsequentes”.
+    4. A defesa requer a concessão da ordem, “determinando-se a anulação de todos os atos havidos na tramitação do Recurso Especial nº 1.852.257/PR, após o advento da Lei nº 13.467/2019, determinando-se que o órgão coator – Superior Tribunal de Justiça – abra vistas ao Ministério Público Federal, na pessoa do Subprocurador-Geral da República, para análise de oferecimento de acordo de não persecução penal, assegurando que seja oferecido ao paciente a oportunidade de confessar formal e circunstancialmente a prática da infração penal em questão, a teor do Enunciado nº 98 da 2CCR/MPF”.
+    5. Decido.
+    6. O habeas corpus não deve ser concedido.
+    7. O entendimento da Primeira Turma do Supremo Tribunal Federal (STF) é no sentido de que “o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia” (HC 191464-AgR, de minha relatoria). Transcrevo a ementa do julgado:
+    “Direito penal e processual penal. Agravo regimental em habeas corpus. Acordo de não persecução penal (art. 28-A do CPP). Retroatividade até o recebimento da denúncia.
+    1. A Lei nº 13.964/2019, no ponto em que institui o acordo de não persecução penal (ANPP), é considerada lei penal de natureza híbrida, admitindo conformação entre a retroatividade penal benéfica e o tempus regit actum.
+    2. O ANPP se esgota na etapa pré-processual, sobretudo porque a consequência da sua recusa, sua não homologação ou seu descumprimento é inaugurar a fase de oferecimento e de recebimento da denúncia.
+    3. O recebimento da denúncia encerra a etapa pré-processual, devendo ser considerados válidos os atos praticados em conformidade com a lei então vigente. Dessa forma, a retroatividade penal benéfica incide para permitir que o ANPP seja viabilizado a fatos anteriores à Lei nº 13.964/2019, desde que não recebida a denúncia.
+    4. Na hipótese concreta, ao tempo da entrada em vigor da Lei nº 13.964/2019, havia sentença penal condenatória e sua confirmação em sede recursal, o que inviabiliza restaurar fase da persecução penal já encerrada para admitir-se o ANPP.
+    5. Agravo regimental a que se nega provimento com a fixação da seguinte tese: ‘o acordo de não persecução penal (ANPP) aplica-se a fatos ocorridos antes da Lei nº 13.964/2019, desde que não recebida a denúncia’.”
+    8. Diante do exposto, com base no art. 21, § 1º, do RI/STF, nego seguimento ao habeas corpus.
+    Publique-se.
+          Brasília, 08 de setembro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                             Relator
