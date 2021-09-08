@@ -1,0 +1,33 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de agravo interno interposto por EMANOEL MARIANO CARVALHO E OUTROS (JOSÉ LUIZ IUNES, JOSÉ FALLEIROS DE ALMEIDA FILHO, ROBERTO FERREIRA DE OLIVEIRA e RICARDO GOMES CALIL) contra decisão de minha lavra, às e-STJ fls. 1.986/1.990, em que dei provimento ao recurso especial do MINISTÉRIO PÚBLICO FEDERAL, para reconhecer a nulidade da sentença e do acórdão proferido no presente feito e determinar a remessa dos autos a uma das varas federais da Subseção Judiciária de Barretos/SP.
+Defendem os recorrentes, em síntese, que, no presente caso, não se aplica a exceção prevista no art. 87 do CPC/1973; não houve prejuízo com o julgamento pelo Juízo da 5ª Vara Federal de Ribeirão Preto/SP; há que preservar os princípios da identidade física do juiz e da instrumentalidade das formas; das três ações com a mesma causa de pedir, uma já transitou em julgado.
+Requer a reconsideração da decisão ou a submissão do recurso ao Órgão colegiado.
+Impugnação.
+É o relatório
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. IMPROBIDADE. IMPLANTAÇÃO DE NOVA VARA. LOCAL DO DANO. COMPETÊNCIA ABSOLUTA.
+1. "Aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. Nos termos do art. 2º da Lei n. 7.347/1985, a competência para ojulgamento de ação civil pública é do lugar onde ocorrer o dano, cujo juízo terá competência funcional, de natureza absoluta, para processar e julgar a causa, aplicável aos casos de improbidade administrativa, em razão da ausência de disciplina da questão na Lei n. 8.429/1992.
+3. No caso, ao tempo da prolação da sentença, a Vara Federal de Barretos/SP, local do dano, já tinha sido implantada havia quase 4 (quatro) anos, o que evidencia a vulneração do dispositivo legal antes mencionado e autoriza a aplicação da exceção prevista no art. 87 do CPC/1973 (atual art. 43 do CPC/2015), que traz o princípio daperpetuatio jurisdictionis.
+4. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+No exame da questão, verifico que a decisão recorrida há de subsistir.
+Nos termos do art. 2º da Lei n. 7.347/1985, a competência para ojulgamento de ação civil pública é do lugar onde ocorrer o dano, cujo juízo terá competência funcional, de natureza absoluta, para processar e julgar a causa, aplicável aos casos de improbidade administrativa, em razão da ausência de disciplina da questão na Lei n. 8.429/1992 (CC 97.351/SP, rel. Min. CASTRO MEIRA, PRIMEIRA SEÇÃO, DJe 10/06/2009).
+No caso presente, conforme bem apontado pelo MPF, ao tempo da prolação da sentença, ocorrida em 13/10/2014 (e-STJ fl. 1546), a Vara Federal de Barretos/SP, local do dano, já tinha sido implantada havia quase 4 (quatro) anos (24/09/2010), consoante se observa do acórdão recorrido (e-STJ fls. 1.733/1.734), o que evidencia a vulneração do dispositivo legal antes mencionado.
+Diversamente do consignado na origem, é de se aplicar a exceção prevista no art. 87 do CPC/1973 (atual art. 43 do CPC/2015), que traz o princípio daperpetuatio jurisdictionis,in verbis: "Determina-se a competência no momento em que a ação é proposta. São irrelevantes as modificações do estado de fato ou de direito ocorridas posteriormente,salvo quando suprimirem o órgão judiciário ou alterarem a competência em razão da matéria ou da hierarquia." (Grifos acrescidos).
+Tal entendimento encontra respaldo na jurisprudência do STJ:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO CIVIL PÚBLICA POR ATO DE IMPROBIDADE ADMINISTRATIVA. COMPETÊNCIA TERRITORIAL FUNCIONAL. NATUREZA ABSOLUTA. APLICAÇÃO DO ART. 2o. DA LEI DA AÇÃO CIVIL PÚBLICA. INSTALAÇÃO DE NOVAS VARAS FEDERAIS. CIRCUNSCRIÇÃO QUE ABRANGE O LOCAL DO AVENTADO DANO. EXCEÇÃO AO PRINCÍPIO DA PERPETUATIO JURISDICTIONIS. REGRA DO ART. 87 DO CPC. RECURSO ESPECIAL PROVIDO PARA DETERMINAR A REDISTRIBUIÇÃO DO FEITO A UMA DAS VARAS FEDERAIS DA SUBSEÇÃO JUDICIÁRIA DE FEIRA DE SANTANA/BA.
+1. É firme a jurisprudência do Superior Tribunal de Justiça quanto ao cabimento de propositura de ação civil pública para apuração de improbidade administrativa, aplicando-se, para apuração da competência territorial, a regra prevista no art. 2o. da Lei 7.347/85, que dispõe que a ação deverá ser proposta no foro do local onde ocorrer o dano (AgRg no AgRg no REsp. 1.334.872/RJ, Rel. Min. ARNALDO ESTEVES LIMA, DJe 14.08.2013).
+2. Trata-se de uma regra de competência territorial funcional, estabelecida pelo legislador, a par da excepcionalidade do direito tutelado, no intuito de facilitar o exercício da função jurisdicional, dado que é mais eficaz a avaliação das provas no Juízo em que se deram os fatos. Dest"arte, tem-se que a competência do local do dano é funcional e, portanto, de natureza absoluta.
+3. Tomando-se em conta que o suposto ato ímprobo, objeto da ação subjacente, estaria circunscrito ao Município de Ruy Barbosa/BA, com a instalação da Subseção Judiciária de Feira de Santana/BA, cuja circunscrição abrange àquele Município, de rigor à redistribuição dos autos, posto que a alteração de competência de natureza absoluta constitui exceção ao princípio da perpetuatio jurisdictionis, a teor do que dispõe o art. 87 do CPC.
+4. Recurso Especial do MINISTÉRIO PÚBLICO FEDERAL provido para determinar a redistribuição da Ação Civil Pública à uma das Varas Federais da Subseção Judiciária de Feira de Santana/BA. (REsp 1068539/BA, rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, DJe 3/10/2013).
+De rigor, portanto, a anulação do acórdão e da sentença proferida pelo juízo absolutamente incompetente.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
