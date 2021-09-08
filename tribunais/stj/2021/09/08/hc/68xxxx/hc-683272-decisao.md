@@ -1,0 +1,31 @@
+DECISÃO
+Relatou o Ministro Jorge Mussi, Vice-Presidente do Superior Tribunal de Justiça, no exercício da Presidência (fl. 64):
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de DOUGLAS DE OLIVEIRA SANTOS em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo em Execução Penal n. 0007501-82.2021.8.26.0482).
+O paciente, que se encontra submetido ao cumprimento de pena privativa de liberdade, teve indeferido o pedido de livramento condicional.
+A impetrante sustenta a ilegalidade do acórdão impetrado, ao argumento de que o paciente preenche os requisitos objetivo e subjetivo para o livramento condicional e que a gravidade abstrata dos crimes praticados pelo paciente, suas faltas disciplinares antigas e a ausência de cumprimento de pena no regime intermediário não constituem motivo para a obstrução do benefício penal.
+Requer, liminarmente, o deferimento do livramento condicional ao sentenciado. No mérito, pugna pela concessão da ordem para que seja confirmada a medida liminar.
+Prestadas as informações (fls. 74/85), o Ministério Público Federal manifestou-se pelo não conhecimento dowritou, caso contrário, pela denegação da ordem (fls. 87/90).
+É o relatório.
+Não assiste razão à impetrante.
+Com efeito, embora o acórdão recorrido contrarie o entendimento desta Corte, firmado no sentido de que não há obrigatoriedade de que o reeducando passe pelo regime semiaberto para obter o benefício do livramento condicional, em virtude da falta de previsão no art. 83 do Código Penal (AgRg no HC n. 472.564/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 8/3/2019), afirma-se, ainda,que (fls. 56/57):
+ ..  No entanto, não se pode olvidar que o sentenciado, como bem salientado pela r. decisão recorrida, ostenta faltas disciplinares de natureza grave, praticadas no curso da execução da pena,consistentes em fuga e abandono, sendo certo que foi preso em flagrante durante o gozo de anterior livramento condicional concedido, situações estas que evidenciam, sem mais bastar, sua eventual inaptidão para o convívio em coletividade, já que não teria absorvido a terapêutica penal que lhe foi imposta, de modo a indicar que pode ser prematura a sua inserção social.
+Como é cediço, a ausência do preenchimento do requisito subjetivo é fundamento por si só suficiente para justificar o indeferimento do livramento condicional.
+Na hipótese, como visto, o paciente praticou faltas graves, tendo cometido fuga e abandono, com notícias de que foi preso em flagrante durante o gozo de livramento condicional anteriormente concedido.Sendo assim, escorreita a fundamentação do Tribunal a quo.
+Com efeito, segundo o entendimento desta Corte, não se aplica limite temporal para a análise do preenchimento do requisito subjetivo, devendo ser considerado todo o período de execução da pena, a fim de se averiguar o mérito do apenado (AgRg no HC n. 417.233/RS, Ministro Ribeiro Dantas, Quinta Turma, DJe 1º/12/2017).
+No mesmo sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO.PRÁTICA DE FALTAS GRAVE E MÉDIA NO CURSO DA EXECUÇÃO DA PENA.AUSÊNCIA DO REQUISITO SUBJETIVO. ALTERAÇÃO DE ENTENDIMENTO.EVOLVIMENTO FÁTICO-PROBATÓRIO. PRECEDENTES.
+1. Para a concessão do benefício do livramento condicional, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor."
+3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439, in verbis: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada."
+4. No caso dos autos, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do subjetivo, em face do histórico prisional conturbado (cometimento de faltas disciplinares de natureza grave e média), de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico, para fins de concessão do livramento condicional.
+5. "As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.  ..  Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. No tocante à nova redação dada ao inciso III do artigo 83 do CPB, esta Corte Superior se posiciona no sentido de que o requisito relativo ao não cometimento de falta grave nos últimos 12 (doze) meses é pressuposto objetivo para a concessão do livramento condicional, não limitando a apreciação do requisito subjetivo necessário ao deferimento do benefício, "inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime" (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020).
+7. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+8. Agravo regimental desprovido.
+(AgRg no HC n. 639.495/SP,Ministro Ribeiro Dantas, Quinta Turma, DJe 17/8/2021)
+Assim, mantém-se o acórdão impugnado, uma vez que o paciente não preenche o requisito subjetivo para a concessão do livramento condicional.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. OBRIGATORIEDADE DE CUMPRIMENTO ANTERIOR DE PENA NO REGIME SEMIABERTO. ILEGALIDADE. AUSÊNCIA DE REQUISITO SUBJETIVO DEVIDAMENTE DEMONSTRADA. FUGA ANTERIOR DO PRESÍDIO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
