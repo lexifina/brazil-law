@@ -1,0 +1,56 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Sérgio Kukina, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo MUNICÍPIO DE SÃO PAULO contra decisão por mim proferida, às e-STJ fls. 302/304, em que conheci do agravo para não conhecer do recurso especial com amparo na Súmula 83 do STJ.
+Nas razões recursais, o agravante alega, em síntese, que: (i) o verbete sumular imposto como óbice ao conhecimento do apelo nobre não seria aplicável quando o recurso estivesse fundamentado apenas na alínea "a" do permissivo constitucional; (ii) "não há como conciliar a sociedade constituída de modo limitado -em que a responsabilidade do sócio é limitada ao valor de sua quota -com o benefício das sociedades uniprofissionais, que exigem responsabilidade integral e individual por todos os atos prestados" (e-STJ fl. 314).
+Impugnação apresentada às e-STJ fls. 320/350.
+É o relatório.
+EMENTA
+TRIBUTÁRIO. ISS. TRIBUTAÇÃO DIFERENCIADA. SERVIÇOS PROFISSIONAIS REGULAMENTADOS. ADOÇÃO POR SOCIEDADE SIMPLES LIMITADA. POSSIBILIDADE. SÚMULA 83 DO STJ. APLICAÇÃO.
+1. Na esteira do entendimento recentemente firmado pela Primeira Seção, "a fruição do direito a tributação privilegiada do ISSQN depende, basicamente, da análise da atividade efetivamente exercida pela sociedade, para saber se ela se enquadra dentre aquelas elencadas no § 3º do art. 9º do Decreto-Lei n. 406/1968 (itens 1, 4, 8, 25, 52, 88, 89, 90, 92 da lista anexa à LC n. 56/1987), bem como se perquirir se a atividade intelectual, científica, literária ou artística desempenhada pela pessoa jurídica não constitua elemento de empresa, ou melhor, nos termos do art.966 do Código Civil, que os fatores de produção, circulação e de organização empresarial não se sobreponham à atuação profissional e direta dos sócios na condução do objeto social da empresa, sendo irrelevante para essa finalidade o fato de a pessoa jurídica ter se constituído sob a forma de responsabilidade limitada" (EAREsp 31.084/MS, rel. Ministro NAPOLEÃO NUNES MAIA FILHO, rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 24/03/2021, DJe 08/04/2021).
+2. Pacificado o posicionamento de que a Súmula 83 do STJ é aplicável como óbice ao conhecimento de recurso especial amparado na alínea "a" e, também, na alínea"c" do permissivo constitucional.
+3. Agravo interno desprovido.
+VOTO
+A irresignação recursal não merece prosperar.
+Com efeito, o recurso especial origina-se de mandado de segurança impetrado por sociedade médica, objetivando o reconhecimento de direito líquido e certo ao enquadramento no Regime Especial para Sociedades Uniprofissionais (SUP), ao argumento de que a adoção da forma societária de responsabilidade limitada não afastaria a forma de tributação de ISS prevista no art. 9º, § 3º, do Decreto-Lei n. 406/1968.
+Na sentença, foi denegada a segurança, ante a falta de preenchimento dos requisitos legais do regime diferenciado de tributação, em razão da natureza empresarial da impetrante.
+Ao analisar a apelação da sociedade médica, a Corte bandeirante deu-lhe provimento ao fundamento de que a constituição da sociedade profissional sob a forma de responsabilidade limitada, por si só, não impossibilitaria o enquadramento daquela no regime especial previsto no art. 9º, § 3º, do Decreto-Lei n. 406/1968.
+Registrou, ainda, que (e-STJ fls. 114/118):
+No caso, verifica-se do contrato social (fls. 15/22) que a apelante é sociedade simples, constituída por dois sócios médicos, cujo objeto social é a prestação de serviços e de assistência médica (clsa. 2ª), que a tipifica como sociedade uniprofissional, pois todos os seus integrantes pertencem à mesma categoria profissional e prestam serviços de forma pessoal, em nome da sociedade.
+(..)
+Logo, em se tratando de prestação de serviços profissionais, executados diretamente pelos sócios e cuja responsabilidade pessoal decorre do próprio labor, como é o caso da sociedade de médicos, sem indício de que a estrutura da sociedade se sobreponha aos serviços prestados por cada sócio, forçoso é reconhecer o direito da impetrante à tributação prevista no art. 9º, parágrafos 1º e 3º, do Decreto-Lei n. 406/68.
+Pois, bem.
+Conforme assentado na decisão ora combatida, o entendimento desta Corte Superior acerca da questão relativa à viabilidade do enquadramento de sociedade profissional sob a forma de responsabilidade limitada no regime diferenciado previsto no art. 9º, § 3º, do Decreto-Lei 406/1968 está consolidado nos termos do recente julgado da Primeira Seçãoassim ementado:
+DIREITO TRIBUTÁRIO E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. ISSQN. SOCIEDADES SIMPLES NO REGIME LIMITADO. QUADRO SOCIETÁRIO COMPOSTO POR MÉDICOS. RECOLHIMENTO DO ISSQN PELA ALÍQUOTA FIXA. REGIME DO ARTIGO 9º, § 3º, DO DECRETO-LEI 406/1968. SERVIÇO PRESTADO EM CARÁTER PESSOAL E EM NOME DA SOCIEDADE. EMBARGOS DE DIVERGÊNCIA PROVIDO.
+1. O cerne da questão reside na caracterização da embargante como sociedade civil de profissionais, o que lhe permitiria gozar da alíquota fixa do ISSQN, nos moldes do artigo 9º, § 3º, do Decreto-Lei 406/1968.
+2. No caso em tela, trata-se de sociedade simples limitada, em que o objeto social é a prestação de serviços médicos desenvolvidos diretamente pelos sócios que compõem o quadro societário (fls.347/348, e-STJ), cuja responsabilidade pessoal é regida pelo Código de Ética Médica.
+3. Circunscrito a estes parâmetros fáticos sobreditos, assevera-se que a fruição do direito a tributação privilegiada do ISSQN depende, basicamente, da análise da atividade efetivamente exercida pela sociedade, para saber se ela se enquadra dentre aquelas elencadas no § 3º do art. 9º do Decreto-lei n. 406/1968 (itens 1, 4, 8, 25, 52, 88, 89, 90, 92 da lista anexa à LC n. 56/1987), bem como se perquirir se a atividade intelectual, científica, literária ou artística desempenhada pela pessoa jurídica não constitua elemento de empresa, ou melhor, nos termos do artigo 966 do Código Civil, que os fatores de produção, circulação e de organização empresarial não se sobreponham à atuação profissional e direta dos sócios na condução do objeto social da empresa, sendo irrelevante para essa finalidade o fato de a pessoa jurídica ter se constituído sob a forma de responsabilidade limitada.
+4. Desta forma, ressalvado os modelos puramente empresariais, como ocorre com as espécies de sociedades anônimas e comandita por ações, não é relevante para a concessão do regime tributário diferenciado a espécie empresarial adotada pela pessoa jurídica, pois como no caso concreto ora analisado, pode haver sociedades limitadas que não são empresárias, conforme preveem expressamente os artigos 982 e 983 do Código Civil.
+5. Embargos de Divergência providos.
+(EAREsp 31.084/MS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, Rel. p/ Acórdão Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 24/03/2021, DJe 08/04/2021)
+Em reforço:
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ISS. SOCIEDADES SIMPLES NO REGIME LIMITADO. IRRELEVÂNCIA. ANÁLISE DOS DEMAIS PRESSUPOSTOS. DEVOLUÇÃO DOS AUTOS. RECURSO PROVIDO.
+1.Trata-se de Agravo Interno contra decisão que conheceu do Agravo para conhecer do Recurso Especial e dar-lhe parcial provimento, apenas para excluir a multa.
+2. A Primeira Seção, no julgamento do EAResp 31084/MS acatou o entendimento de que "a sociedade simples constituída por sócios de profissões legalmente regulamentadas, ainda que sob a modalidade jurídica de sociedade limitada, não perde a sua condição de sociedade de profissionais, dada a natureza e forma de prestação de serviços profissionais, não podendo, portanto, ser considerada sociedade empresária pelo simples fato de ser sociedade limitada (AgRg no REsp. 1.205.175/RO, Rel. Min. Luiz fux, DJe 16.11.2010)."(Grifo no original).
+3. Considerando que acórdão estadual negou provimento à Apelação para excluir a H2R Arquitetura Sociedade Simples do regime de tributação diferenciada do ISS, simplesmente por constar em seu contrato social a designação de sociedade limitada, sem que fossem analisados seu funcionamento, atividade, sócios ou qualquer outra característica, faz-se necessário o retorno dos autos à origem para que examine os demais requisitos da Lei Municipal.
+4. Agravo Interno provido para prover o Recurso Especial, determinando o retorno dos autos ao Tribunal a quo para análise de mérito.
+(AgInt no AREsp 1750879/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 14/06/2021, DJe 01/07/2021)
+Nesse panorama, o Tribunal de origem decidiu em sintonia com a atual orientação jurisprudencial desta Corte uniformizadora, incidindo, assim, o óbice da Súmula 83 do STJ.
+Ademais, no que tange à aplicação desse verbete sumular, encontra-se pacificado o entendimento de que é aplicável tanto na hipótese em que o recurso especial está amparado na alínea "a" quanto na "c" do permissivo constitucional.
+Nesse sentido:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. SÚMULA 83 DO STJ. IMPUGNAÇÃO. DEFICIÊNCIA.
+1. O Plenário do STJ decidiu que "aos recursos interpostos com fundamento no CPC/1973 (relativos a decisões publicadas até 17 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas até então pela jurisprudência do Superior Tribunal de Justiça" (Enunciado Administrativo n. 2).
+2. A rejeição do recurso especial com base na Súmula 83 do STJ exige da parte, nas razões do agravo, o ônus de indicar precedentes contemporâneos ou supervenientes aos referidos no decisum agravado com o fito de demonstrar ser diversa a orientação jurisprudencial do STJ, o que não aconteceu na espécie.
+3. Pacificado o entendimento de que aquele verbete é aplicável tanto pela alínea "a" quanto pela "c" do permissivo constitucional.
+4. Agravo interno desprovido.
+(AgInt no AREsp 648.333/ES, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 17/04/2018, DJe 17/05/2018)
+TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO ESPECIAL. CSLL E IRPJ. RENDIMENTOS DE APLICAÇÃO FINANCEIRA. ATUALIZAÇÃO MONETÁRIA. INCIDÊNCIA. ENTENDIMENTO PACIFICADO PELA PRIMEIRA TURMA DO STJ.
+(..)
+6. Assim, verifica-se que o acórdão recorrido está em consonância com o entendimento desta Corte Superior, o que atrai a incidência, no caso, da Súmula 83/STJ ("Não se conhece do recurso especial pela divergência, quando a orientação do tribunal se firmou no mesmo sentido da decisão recorrida."), que se aplica às alíneas "a" e "c" do inciso III do art. 105 da Constituição Federal.
+7. Agravo Interno não provido.
+(AgInt no REsp 1910522/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 21/06/2021, DJe 01/07/2021)
+Por último, deixo de aplicar a sanção prevista no art. 1.021, § 4º, do CPC/2015 por não vislumbrar caráter manifestamente inadmissível ou improcedente no manejo do presente recurso.
+Ante o exposto, NEGO PROVIMENTO ao agravo interno.
+É como voto.
