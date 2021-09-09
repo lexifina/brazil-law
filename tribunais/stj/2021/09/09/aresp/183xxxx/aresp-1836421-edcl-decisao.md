@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por IVA ALMEIDA SILVAcontra decisão pela qual não neguei provimento ao agravo emrecurso especial, por ausência de indicação do dispositivo legal sobre o qual recai a suposta divergência jurisprudencial,com a condenação da parte recorrente ao pagamento de honorários advocatícios equivalentes a 20% (vinte por cento) do valor a esse título já fixado no processo (art. 85, § 11, do novo CPC).
+Aparteembargantealegaque"não se compreende o improvimento do Agravo em Recurso Especial, na medida que a v. decisão monocrática ora embargada, claramente, enfrentou o mérito do Apelo Extremo" (fl. 998).
+Aduz que"os acórdãos paradigmas desta C. Corte Cidadã também não informam nenhum artigo de Lei federal violado por ocasião da análise da questão meritória debatida, qual seja, da possibilidade de reconhecer labor rural às pessoas menores de 12 (doze) anos de idade" (fls. 999/1.000).
+Argumenta que a v. decisão também contém obscuridade no particular, porque na origem o embargante NÃO FOI CONDENADO A HONORÁRIOS DE SUCUMBÊNCIA. Ao reverso, a sucumbência está direcionada totalmente ao embargado" (fl. 629)
+Sem impugnação (fl. 1.001).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De acordo com o previsto no artigo 1.022 do CPC, são cabíveis embargos de declaração nas hipóteses de obscuridade, contradição, omissão do acórdão atacado ou para corrigir erro material.
+Entretanto, no caso dos autos, não se verifica a existência de nenhum desses vícios quanto àparte dispositiva do agravo, no que lhe negou provimento, na medida em que o conhecimento do recurso especial esbarrou no óbice da Súmula 284/STF. De rigor, portanto, o não provimento do agravo em recurso especial.
+Nada a reparar também no que diz respeitoà incidência da Súmula 284/STF, pois a decisão embargada nada mais fez que aplicar a remansosa jurisprudência desta Corte, sendo certo que, por meio dela,enfrentou-se e decidiu, de maneira integral, corretae com fundamentação suficiente, a controvérsia posta no recurso.
+Conforme a jurisprudência desta Corte "É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso" (AgInt nos EREsp 1.539.725/DF, Rel. Ministro ANTONIO CARLOS FERREIRA, SEGUNDA SEÇÃO, julgado em 09/08/2017, DJe 19/10/2017).
+Dessa forma, é incabível a majoração da verba honorária nas hipóteses como a presente, em que a parte recorrente não sofreucondenação em honorários na origem.
+ANTE O EXPOSTO, acolho parcialmente os embargosem ordem a afastar os honorários fixados com base no art. 85, § 11, do CPC/2015.
+Publique-se.
