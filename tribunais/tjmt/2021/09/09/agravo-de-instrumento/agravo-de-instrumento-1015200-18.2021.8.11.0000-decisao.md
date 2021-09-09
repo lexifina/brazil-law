@@ -1,0 +1,29 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO N. 1015200-18.2021.8.11.0000
+AGRAVANTE: FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITOS NAO-PADRONIZADOS
+AGRAVADO: ELIO FOLMER e outros
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de efeito suspensivo interposto por FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS CREDITOS NAO-PADRONIZADOS, contra decisão proferida pelo Juízo da 1a Vara Cível da Comarca de Campo Novo do Parecis-MT, nos autos de Embargos à Execução no 0004229-74.2017.811.0050, Código: 94078, opostos por ELIO FOLMER e outros, que, ao decidir os embargos de declaração aviados contra a decisão que inicialmente recebeu os autos sem efeito suspensivo, vislumbrou a garantia do juízo e, por consequência concedeu o vindicado efeito à Execução n. 0002200-61.2011.811.0050, Código: 38847.
+Em suas razões recursais, a agravante defende sua legitimidade ao fundamento de que “foi deferido nos autos da Ação de Execução no 0002200-61.2011.8.11.0050 o pedido de substituição do Banco do Brasil pelo Fundo, ante a cessão de crédito informada, motivo pelo qual foi determinada a retificação do polo ativo da ação executivo.”
+Quanto ao mérito, afirma que a decisão agravada “necessita ser reformada, dado que não é juridicamente possível a atribuição de efeito suspensivo no presente caso, ante a evidente ausência dos requisitos autorizadores da concessão de tutela de urgência” – sic, aduzindo, para tanto, que os “e os Agravados não demonstraram a probabilidade do seu direito, haja vista que não há qualquer comprovação nos autos de irregularidade ou vício na constituição do título” - sic.
+Assevera que os agravados não indicaram expressamente o montante que entendem devido e que a matéria acerca da prescrição não procede, eis que “para configuração da prescrição intercorrente dever restar comprovada a inércia/desídia do credor, deixando de promover qualquer impulso útil ao processo por tempo superior ao prazo prescricional do próprio título executivo, o que não ocorreu no presente caso” .
+Assim, pugna pela concessão do efeito suspensivo e, no mérito, a reforma da decisão vergastada.
+Preparo recolhido consoante ID. 99527474.
+É o relatório.
+Decido.
+Por tempestivo e próprio, recebo o presente agravo de instrumento, com fulcro nos artigos 1.015, inciso I, combinado com o artigo 1.017, ambos do Código de Processo Civil.
+O agravante busca inicialmente a concessão do efeito suspensivo à decisão recorrida, entendendo que não foram preenchidos os requisitos elencados no § 1o do art. 919 do CPC.
+Eis a decisão agravada:
+“(...)1. Trata-se de Embargos de Declaração opostos em face da decisão que indeferiu o efeito suspensivo aos presentes embargos executórios. 2. Afirma o embargante que o juízo encontra-se garantido por penhora realizada na ação principal. 3. Fundamento e Decido. 4. Os embargos de declaração têm a finalidade de esclarecer, tornar claro o julgado, sem lhe modificar, em princípio, sua substância; não operam novo julgamento, pois simplesmente deve afastar pontos contraditórios, suprir omissões e esclarecer obscuridades porventura encontradas na sentença, consoante o disposto no art.1.022 do CPC. 5. De fato, a decisão atacada foi omissa quanto aos bens constritos na execução principal conforme auto de penhora e avaliação de fls.56/57 dos autos físicos 38847. 6. Dessa forma, recebo os embargos interpostos pela parte exequente e no mérito dou-lhes para receber os embargos à execução com efeito suspensivo, uma vez que garantida a execução nos autos principais. 7.Cumpra-se os demais termos, expedindo o necessário. (...)” (Id. 59756425 – dos autos de origem).
+O parágrafo único do artigo 995 do CPC estabelece que a eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso.
+Na espécie, atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, verifico que não restaram configurados os pressupostos autorizativos para a concessão do efeito buscado.
+De acordo com o Código de Processo Civil (art. 919, §1o) o efeito suspensivo dos embargos à execução deve ser deferido quando verificados os requisitos para a concessão da tutela provisória, o que, à primeira vista, no caso dos autos, estes se encontram preenchidos, haja vista que o juízo encontra-se devidamente garantido.
+Além disso, a agravante informa que “A execução tem valor histórico de R$ 1.811.514,02 (um milhão, oitocentos e onze mil quinhentos e catorze reais e dois centavos)”, enquanto que a avaliação dos bens penhorados alcança R$17.820.000,00 (dezessete milhões oitocentos e vinte mil reais), consoante Termo de Penhora acostado no Id. 99063964.
+Portanto, ao menos neste juízo de cognição sumária, os requisitos para a concessão da tutela provisória foram preenchidos, quais sejam, a probabilidade do direito (fumus boni iuris) e o perigo de dano ou o risco ao resultado útil do processo (periculum in mora), sobretudo porque, depois de avaliados, o próximo passo será a expropriação dos bens penhorados.
+Desta maneira, por ora nada obsta a manutenção da decisão agravada, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, inclusive pelo contraponto que será apresentado nas contrarrazões, possa decidir com certeza e segurança sobre o mérito do recurso.
+Diante do exposto, INDEFIRO o efeito suspensivo vindicado.
+Intime-se a parte agravada para apresentar resposta no prazo de 15 (quinze) dias, onde poderá juntar a documentação que entender conveniente, nos termos do artigo 1.019, inciso II, do CPC.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 09 de setembro de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
