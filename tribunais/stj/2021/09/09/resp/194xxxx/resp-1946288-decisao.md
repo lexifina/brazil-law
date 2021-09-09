@@ -1,0 +1,16 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especialmanejado peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃO assim ementado (e-STJfls. 126-133):
+PREVIDENCIÁRIO. AUXÍLIO-DOENÇA. TERMO FINAL. CORREÇÃO E JUROS. HONORÁRIOS. BASE DE CÁLCULO.
+1. Não sendo possível estimar prazo mínimo para recuperação clínica, dada as peculiaridades do caso, o benefício não poderá ser cancelado antes de efetivamente comprovada, mediante perícia médica administrativa, que houve efetiva melhora da doença incapacitante. Eventualmente, ausente a melhora, a autarquia poderá converter o benefício em aposentadoria por invalidez.
+2. O Supremo Tribunal Federal reconheceu no RE 870947, com repercussão geral, a inconstitucionalidade do uso da TR, sem modulação de efeitos.
+3. O Superior Tribunal de Justiça, no REsp 1.495.146, em precedente também vinculante, e tendo presente a inconstitucionalidade da TR como fator de atualização monetária, distinguiu os créditos de natureza previdenciária, em relação aos quais, com base na legislação anterior, determinou a aplicação do INPC, daqueles de caráter administrativo, para os quais deverá ser utilizado o IPCA-E.
+4. Os juros de mora, a contar da citação, devem incidir à taxa de 1% ao mês, até 29/06/2009. A partir de então, incidem uma única vez, até o efetivo pagamento do débito, segundo o percentual aplicado à caderneta de poupança.
+5. Conforme a Súmula n.º 111 do Superior Tribunal de Justiça, a verba honorária deve incidir sobre as prestações vencidas até a data da decisão de procedência (sentença).
+É o relatório.
+A questão jurídica referente à possibilidade de majoração dos honorários advocatícios, em desfavor do INSS, considerando o parcial provimento do apelo da autarquia, foi submetida ao regime dosprecedentes qualificados vinculantes pelo Superior Tribunal de Justiçanos seguintes termos:
+Tema/Tese 1059/STJ: Possibilidade de majoração, em grau recursal, da verba honorária fixada em primeira instância contra o INSS quando o recurso da entidade previdenciária for provido em parte ou quando o Tribunal nega o recurso do INSS, mas altera de ofício a sentença apenas em relação aos consectários da condenação.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origem, para aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039 e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se
