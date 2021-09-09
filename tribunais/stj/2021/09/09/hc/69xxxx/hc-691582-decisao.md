@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso especial, sem pedido liminar, impetrado em favor de FERNANDO ALEX ROCHA DA SILVA contra acórdão proferido pelo Tribunal de Justiça do Estado do Espírito Santo, no julgamento da Apelação Criminal n. 0018274-16.2019.8.08.0012 (012190175872).
+A impetrante narra que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 13 anos e 6mesesdereclusão, e 250 dias-multa,pela prática do delito tipificado no art. 33, c/c o art. 40, ambos da Lei n. 11.343/2006 e no art. 311, do Código Penal.
+Julgado o apelo defensivo, assere que o apelante foi absolvido do crime previsto no art. 311, do CP, resultando em uma condenação de 10 anos e 6 meses de reclusão.
+No presente writ (e-STJ, fls. 3/19), a impetrante afirma que o acórdão recorrido impôs constrangimento ilegal ao paciente, na medida em que manteve sua pena-base muito acima do mínimo legal, utilizando-se de argumentos genéricos, de forma injustificável e desproporcional, ou seja, sem qualquer fundamentação plausível (e-STJ, fl. 9). Desse modo, pretende que seja reconhecida a nulidade do acórdão proferido em desfavor do paciente, sob o fundamento da ausência de fundamentação na dosimetria da pena aplicada (e-STJ, fl. 14).
+Ademais, assevera que a quantidade da droga apreendida, que, frisa-se, compreendia 12,5kg de haxixe, quantidade que, para o crime de tráfico, não é vultosa, igualmente não pode ser utilizada para exasperar a pena-base (e-STJ, fl. 15).
+Diante disso, requer que seja refeita a dosimetria da pena do paciente, de modo a adequá-la aos requisitos legais.
+É o relatório. Decido.
+Pela análise dos autos, observo que este mandamus foi deficientemente instruído, pois a impetrante olvidou de colacionar a íntegra da sentença condenatória proferida em primeiro grau de jurisdição, além de cópias legíveis do ato apontado como coator - acórdão de apelação prolatado pelo Tribunal de Justiça do Estado do Espírito Santo-, o que impossibilitaa compreensão do caso e, por conseguinte, o exame da suposta ilegalidade.
+Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja naturezaurgente exige prova pré-constituída das alegações e não comporta dilação probatória. Desse modo, écogente à impetranteapresentarelementos documentais suficientes e legíveis que permitam aferir a suscitada existência de constrangimento ilegal no ato atacado na impetração.
+Ante o exposto, com fulcro no art. 34, XX, do RISTJ, não conheço do habeas corpus.
+Intimem-se.
