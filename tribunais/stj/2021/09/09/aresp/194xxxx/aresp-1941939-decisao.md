@@ -1,0 +1,15 @@
+DECISÃO
+Cuida-se de agravo apresentado por WALDEMAR ROBERTO DE ANDRADE contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+APELAÇÃO AÇÃO DE PRESTAÇÃO DE CONTAS PRIMEIRA FASE SENTENÇA DE PROCEDÊNCIA
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 550 do CPC, no que concerne ausência dos requisitos para exigir a prestação de contas, trazendo o(s) seguinte(s) argumento(s):
+Desta sorte, se o autor-apelado à época da vigência do vínculo locativo não tinha sobre o imóvel locado, qualquer vínculo dominial, resta de clareza meridiana que o mesmo não reúne as condições contidas no artigo 550 do CPC para a exigir as contas que pretende. Destarte, neste diapasão, força é concluir que o Acórdão hostilizado contrariou expressa disposição de lei, atribuindo direitos à quem não os detém, para exigir do ora recorrente, a prestação de contas relativas ao suposto recebimento de alugueis decorrentes de locação anteriormente firmada. (fls. 321).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Portanto, conforme bem asseverou o ilustre juiz sentenciante: "Diante das decisões em demandas pretéritas, todas transitadas em julgado, apontando a nulidade de um contrato particular de compra e venda (1Is. 1911192) é de se concluir que o autor ainda é proprietário do imóvel apontado na exordial. Não houve venda de sua proporção a terceiras pessoas (Abel Correia Mendes).
+Sem prejuízo, restou incontroverso nos autos que o réu realizou contrato de locação do referido imóvel a terceira empresa, sem o conhecimento do autor, coproprietário do bem. Nestas circunstâncias, o requerido não pode se furtar em prestar as contas referentes ao contrato de locação adurzido". (fls. 302).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
