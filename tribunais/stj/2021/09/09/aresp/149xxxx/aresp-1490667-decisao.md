@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo do NOVAPELLI INDÚSTRIA COMÉRCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA., que objetiva admissão de recurso especial interposto contra acórdão do TJ/RJassim ementado:
+AGRAVO INTERNO. AGRAVO DE INSTRUMENTO. DIREITO TRIBUTÁRIO. EXECUÇÃO FISCAL. NOMEAÇÃO DE PRECATÓRIO À PENHORA. RECUSA LEGITIMADA.A Fazenda Pública pode recusar a nomeação de precatório à penhora, por se tratar de direito de crédito, e não de dinheiro. Aplicação da Súmula 406 do STJ. Inexistência de comprovação do devedor de situação fática excepcional e de impossibilidade de cumprir a ordem legal de preferência. Matéria pacificada pelo Superior Tribunal de Justiça, nos autos do recurso representativo de controvérsia REsp 1337790/PR (Tema 578). Precedentes jurisprudenciais. AGRAVO INTERNO DESPROVIDO. UNÂNIME
+No especial, a parte alega violação dos arts. 489, 1.021 e 1.022 do CPC/2015 e art. 11 da Lei n. 6.830/1980.
+Sustenta, em síntese, que: (a) há omissão do Tribunala quoem relação às alegações de nulidade do acórdão recorrido por ausência de fundamentação; (b)o acórdão recorrido é nulo por ausência de fundamentação; (c)a penhora de numerário pela via eletrônica na execução fiscal, havendo oferta de bens pelo executado, é ilegal.
+O trâmite do recurso especial foi obstaculizado por ausência de omissão, pelo óbice da Súmula 83 do STJ e por se encontraro acórdão recorrido em conformidade com os recursos repetitivos julgados pelo STJ (TEMAS: 120 e 578).
+O recorrente apresentou agravo contra esta decisão, impugnando os dois primeiros óbices impostos.
+Passo a decidir.
+O recurso especial se origina de agravo de instrumento contra decisão que discute a penhora de bens pena via de bloqueio online, mesmo após a oferta pelo executado de bens em garantia.
+O Tribunala quonegou provimento ao agravo em decisão monocrática, com fundamento na jurisprudência desta Corte superior acerca do tema, que autoriza ao exequente não aceitar o bem ofertado que não obedece a ordem do art. 11 da LEF.
+Interposto o agravo interno, foi ele desprovido com transcrição dos fundamentos da decisão monocrática como razões de decidir.
+Opostos embargos de declaração, foram eles rejeitados.
+Pois bem.
+De início, cumpre registrar que nãoincorre em negativa de prestação jurisdicional oacórdão que, mesmo sem ter examinado individualmente cada um dos argumentos trazidos pelo vencido, adota fundamentação suficiente para decidir de modo integral a controvérsia, apenas nãoacolhendoa tese defendida pelo recorrente.
+Da análise dojulgadorecorrido, verifica-se que o Tribunal de origem se manifestou, de maneira clara e fundamentada, acerca de todas as questões relevantes para a solução da controvérsia, consignando expressamente ser aplicável ao caso concreto a jurisprudência do STJ que autoriza o procedimento adotado pela instância ordinária.
+Com efeito, como referido pelo Tribunal a quo,a jurisprudência consolidou o entendimento segundo o qual,"nos termos do art. 9º, III, da Lei 6.830/1980, cumpre ao executado nomear bens à penhora, observada a ordem legal. É dele o ônus de comprovar a imperiosa necessidade de afastá-la, e, para que essa providência seja adotada, mostra-se insuficiente a mera invocação genérica do art. 620 do CPC" (tema 578 do STJ).
+Afastada, assim, a ofensa ao art. 1.022 do CPC/2015.
+Por fim,em relação ao art.1.021, § 3º, do CPC/2015, ressente-se o recurso especial do devido prequestionamento, já que sobre tal norma e a tese a ela vinculada (nulidade do acórdão que reproduz os fundamentos da decisão anterior) não houve emissão de juízo pelo acórdão recorrido, a despeito da oposição de embargos declaratórios, fazendo incidir o óbice constante na Súmula 211 do STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo tribunal a quo."
+Ante o exposto, com base no art. 253, parágrafo único, II, "b", do RISTJ, CONHEÇO do agravo para CONHECER PARCIALMENTE DO RECURSO ESPECIAL e, nessa parte, NEGAR-LHE PROVIMENTO.
+Publique-se. Intimem-se.
