@@ -1,0 +1,54 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIOS DA JUSTIÇA GRATUITA. INDEFERIMENTO NA ORIGEM. INTIMAÇÃO PARA RECOLHIMENTO DO PREPARO RECURSAL. IRREGULARIDADE. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ.
+1. Hipótese em que a Corte local indeferiu o pedido de concessão dos benefícios da justiça gratuita, pois não houve a devida comprovação dos pressupostos legais para seu deferimento, determinando-se, ao final, a intimação da parte para recolhimento do preparo do recurso especial.
+2. Não merece reparos a decisão prolatada pela Corte estadual, uma vez que, de acordo com o art. 1.007, § 7º, do CPC/2015, "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+3. In casu, a parte recorrente, mesmo após intimada a regularizar o preparo, não o fez devidamente, caracterizando, assim, a deserção do recurso especial.
+4. Conforme entendimento do STJ, "Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do NCPC e da já citada Súmula nº 187 desta Corte" (AgInt no AREsp 1177962/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 03/09/2018, DJe 06/09/2018).
+5. Agravo Interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Cuida-se de agravo interno interposto por LUIZ AMÉRICO LIMA PARADISO contra a decisão da Presidência do STJ, de fls. 1187/1188, que não conheceu do agravo em recurso especial, em razão da incidência da Súmula 187 do STJ.
+Nas presentes razões, a parte agravante sustenta, em síntese: " É cediço que o preparo recursal se compreende da taxa judiciária e custas judiciais, contudo a efetuação de recolhimento errônea, somente de uma guia, não implica deserção. Ao analisar os autos, onde foi solicitado ao Colendo Tribunal, o pedido de justiça gratuita do recorrente, pedido que foi indeferido conforme fl.35-36, cinge-se, no entanto, o prazo atribuído para o recolhimento das custas (5 dias), recolhida dentro do prazo legal, porém de forma errônea. O entendimento da Corte especial do Superior tribunal de Justiça, já consolidou entendimento no sentido de determinar a abertura de prazo hábil (5 dias) para a devida complementação. Portanto, o recolhimento apenas das custas ou do porte de remessa e retorno ou de alguma taxa recursal representa preparo insuficiente, admitindo-se complementação, não cabendo, no entanto, deserção recursal.".
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIOS DA JUSTIÇA GRATUITA. INDEFERIMENTO NA ORIGEM. INTIMAÇÃO PARA RECOLHIMENTO DO PREPARO RECURSAL. IRREGULARIDADE. DESERÇÃO CONFIGURADA. SÚMULA 187/STJ.
+1. Hipótese em que a Corte local indeferiu o pedido de concessão dos benefícios da justiça gratuita, pois não houve a devida comprovação dos pressupostos legais para seu deferimento, determinando-se, ao final, a intimação da parte para recolhimento do preparo do recurso especial.
+2. Não merece reparos a decisão prolatada pela Corte estadual, uma vez que, de acordo com o art. 1.007, § 7º, do CPC/2015, "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+3. In casu, a parte recorrente, mesmo após intimada a regularizar o preparo, não o fez devidamente, caracterizando, assim, a deserção do recurso especial.
+4. Conforme entendimento do STJ, "Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do NCPC e da já citada Súmula nº 187 desta Corte" (AgInt no AREsp 1177962/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 03/09/2018, DJe 06/09/2018).
+5. Agravo Interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O Tribunal de origem - destinatário da prova - após a análise dos elementos informativos dos autos, assim concluiu:
+O presente recurso não merece prosperar por ausência de pressuposto genérico extrínseco de admissibilidade recursal, qual seja, o preparo.
+O art. 1.007 do CPC/2015 estabelece que "No ato de interposição do recurso, o recorrente comprovará, quando exigido pela legislação pertinente, o respectivo preparo, inclusive porte de remessa e de retorno, sob pena de deserção".
+Na espécie, a decisão interlocutória de fls. 35-6 indeferiu o pedido de justiça gratuita e determinou que o recorrente fosse intimado na pessoa do seu advogado ".. para que, em 5 (cinco) dias, comprove o recolhimento, sob pena de deserção (CPC/15, § 7º do art. 99)".
+De acordo com as normas específicas, na interposição de REsp ou RE, exige-se o recolhimento de 2 (duas) guias:
+i) taxa judiciária (guia funjecc) no valor de 3 uferms, prevista no § 1º, art. 6º da Lei estadual 3.779, de 11 de novembro de 2009;
+ii) custas judiciais (GRU) - para Recurso Especial, prevista no art. 2º da Resolução STJ/GP n. 2, de 1º de fevereiro de 2017 e, - para Recurso Extraordinário, prevista na Resolução 581, de 08 de junho de 2016, nos valores especificados nas referidas normas.
+Ocorre que o recorrente não efetuou o preparo de maneira adequada juntando aos autos apenas o comprovante de pagamento de f. 40, olvidando-se de juntar a outra guia devida, o que implica deserção do recurso, já que não cumpriu a determinação judicial.
+Saliente-se que sequer há possibilidade de abrir novo prazo para a complementação do preparo, tendo em vista a vedação expressa do § 5º do artigo 1.007, do CPC, o qual estabelece: "É vedada a complementação se houver insuficiência parcial do preparo, inclusive porte de remessa e de retorno, no recolhimento realizado na forma do § 4º.".
+(..)
+Esta Corte possui entendimento no sentido de que, tendo o magistrado negado o pedido de gratuidade da justiça formulado, o requerente deve ser intimado para realizar o preparo na forma simples, após o qual, mantendo-se inerte, a insurgência não será conhecida em virtude da deserção, conforme preceitua o § 7º do art. 99 do CPC/2015.
+No presente caso, houve a intimação da parte agravante para que o referido vício fosse sanado, nos termos do § 7º do artigo 1.007 do Código de Processo Civil de 2015. Apesar disso, o recurso especial não foi devida e oportunamente preparado. Assim, incide na espécie o disposto na Súmula 187 deste Tribunal.
+Conforme entendimento do STJ, "Se a parte, mesmo após regular intimação, não comprova o recolhimento do preparo na forma devida ou o deferimento da gratuidade da Justiça na origem, a preclusão é inafastável e o recurso especial deve ser considerado deserto, nos termos do artigo 1.007, § 4º, do NCPC e da já citada Súmula nº 187 desta Corte" (AgInt no AREsp 1177962/SP, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 03/09/2018, DJe 06/09/2018).
+Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. SÚMULA 182/STJ. NÃO INCIDÊNCIA. RECONSIDERAÇÃO DA DECISÃO AGRAVADA. NOVO EXAME DO RECURSO. AÇÃO DE EXECUÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. ALEGAÇÃO GENÉRICA. SÚMULA 284/STF. PEDIDO DE JUSTIÇA GRATUITA. DECLARAÇÃO DE HIPOSSUFICIÊNCIA QUESTIONADA PELA JUÍZO DE PRIMEIRO GRAU. PRAZO PARA JUNTADA DE DOCUMENTOS. DESCUMPRIMENTO. INDEFERIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRAZO PARA RECOLHIMENTO DAS CUSTAS ASSINALADO PELO TRIBUNAL A QUO.DESCUMPRIMENTO. DESERÇÃO DA APELAÇÃO. AGRAVO INTERNO PROVIDO.RECURSO ESPECIAL NÃO PROVIDO.
+1. Não se conhece da violação ao art. 1.022 do CPC/2015 quando as alegações que fundamentam a pretensa ofensa são genéricas, sem discriminação dos pontos efetivamente omissos, contraditórios ou obscuros. Incidência da Súmula 284 do STF.
+2. A jurisprudência do STJ entende que o pedido de assistência judiciária gratuita pode ser indeferido quando o magistrado tiver fundadas razões para crer que o requerente não se encontra no estado de miserabilidade declarado. Precedentes.
+3. As instâncias ordinárias, com base no conjunto probatório dos autos, e analisando as peculiaridades do caso concreto, concluíram pela existência de elementos nos autos que infirmam a declaração de hipossuficiência, determinando a apresentação de documentos pelo recorrente para verificação de sua situação econômica, providência da qual não se desincumbiu.
+4. A alteração das premissas que levaram as instâncias ordinárias a indeferir o pedido de gratuidade de justiça demanda o reexame de fatos e provas, o que é vedado no âmbito do recurso especial, nos termos da Súmula 7/STJ.
+5. Indeferido o pedido de gratuidade de justiça, o requerente deve ser intimado para realizar o preparo na forma simples. Mantendo-se inerte, o recurso não será conhecido em virtude da deserção.
+Precedentes.
+6. Agravo interno provido para reconsiderar a decisão agravada e, em novo julgamento, conhecer do agravo para negar provimento ao recurso especial.
+(AgInt no AREsp 1314525/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 11/06/2019, DJe 28/06/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL.PREPARO DO RECURSO ESPECIAL. AUSÊNCIA. PEDIDO DE GRATUIDADE DE JUSTIÇA INDEFERIDO. INTIMAÇÃO PARA SANAR O VÍCIO. FALTA DE JUNTADA DE COMPROVANTE DE PAGAMENTO. DESERÇÃO. RECURSO A QUE SE NEGA PROVIMENTO.
+1. Na hipótese, a agravante não recolheu o preparo do recurso especial e postula a concessão do benefício da justiça gratuita, o qual foi indeferido no STJ, com base em entendimento firmado pelas instâncias ordinárias de que a parte é sócia administradora de sociedade empresária e aufere renda razoável pelo exercício empresarial, ostentando alto padrão de vida. 2. Intimada a agravante para regularizar o preparo recursal e não efetuado este no prazo devido, por meio da juntada do comprovante do pagamento, foi-lhe aplicada a pena de deserção (arts. 99, § 7º, e 101, § 2º, do CPC/2015) na decisão ora agravada.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 930.053/MG, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 02/04/2019, DJe 24/04/2019)
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
