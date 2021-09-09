@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial de Figueira Indústria e Comércio S.A., fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de São Paulo, assim ementado:
+MANDADO DE SEGURANÇA CONTRA LEI EM TESE.Inocorrência. Hipótese que não se trata de insurgênciacontra a norma em tese (RICMS), mas contra os efeitosconcretos desta norma, que atingiram as operações fiscaisencartadas pela impetrante. Inadequação da via eleita não
+configurada. Preliminar rejeitada.
+FALTA DE INTERESSE DE AGIR/IMPOSSIBILIDADEJURÍDICA DO PEDIDO. Creditamento extemporâneo devalores nos últimos cinco anos da data da impetração.Inadmissibilidade. Inviável cobrança de valores pretéritosna via mandamental. Súmula 271 do STF. Recurso nãoconhecido, quantos aos valores supostamente devidos antesda data da impetração.
+MANDADO DE SEGURANÇA. ICMS. Pretensão aoreconhecimento docreditamento integral do ICMS-ST,afastando-se a limitação imposta peloart. 272 do RICMS.Pessoa jurídica dedicada plantioe posteriorindustrialização de cana-de-açúcar para a produção deaçúcar e álcool. Pretensão ao creditamento de ICMSreferente ao diesel adquirido para utilização em suaatividade agroindustrial (máquinas implementosempregados no plantio, manutenção e tratos culturais dalavoura) com a mesma base de cálculo utilizada pelarefinaria para a apuração do imposto a ser pago. Violação aoprincípio da não-cumulatividade pelo art. 272, parte final,do Decreto nº 45.490/00 não configurado. Apropriaçãointegral dos créditos pela aquisição de bens consumidos noprocesso produtivo de industrialização que não deriva daregra-matriz constitucional, e sim do art. 20 da LC nº 87/96,cuja aplicabilidade foi diversasdiversas vezes postergada eatualmente está prevista para janeiro de 2033. Sentença deimprocedência mantida. Recurso conhecido e improvido.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, a recorrente alega violação dos seguintes dispositivos: a) art. 1.022, II, do Código de Processo Civil, sustentando que o acórdão recorrido padece de omissão; b) art. 19 da Lei Complementar n. 87/96, aduzindo que possuidireitoà compensação de créditos de ICMS-ST.
+Houve contrarrazões (e-STJ fls. 1799/1806).
+Sobreveio juízo negativo de admissibilidade por ausência de negativa de prestação jurisdicional, bem como pela incidência das Súmulas n. 7/STJ e 280/STF.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 1884/1889).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Cuida-se, na origem, de mandado de segurança impetrado pelo ora recorrente pleiteando o reconhecimento do direito de creditamento integral dos valores recolhidos pela refinaria a título de ICMS-ST.
+A insurgência não merece prosperar.
+Com relação à preliminar de negativa de prestação jurisdicional, a parte limitou-se a pleitear a ofensa ao art. 1.022, II, do CPC nos pedidos do especial, sem esclarecer, ao longo da argumentação, as questões sobre as quais o aresto combatido teria deixado de se manifestar.
+A alegação genérica de negativa de prestação jurisdicional sem esclarecimento dos pontos omissos e da relevância deles ao deslinde da controvérsia atrai o óbice da Súmula n. 284/STF.
+Exemplificativamente, cito:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. REVISÃO DE PROVENTOS. MALFERIMENTO DO ART. 535 DO CPC/1973. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284 DO STF. VIOLAÇÃO DO ART. 1º DO DECRETO N. 20.910/1932. AUSÊNCIA DE PREQUESTIONAMENTO.
+1. Não se conhece da suposta afronta ao art. 535, II, do CPC/1973, pois os agravantes limitaram-se a afirmar de forma genérica a ofensa aos referidos normativos sem demonstrar de forma clara quais questões de direito não foram abordadas no acórdão proferido em embargos de declaração e a sua efetiva relevância para fins de novo julgamento pela Corte de origem.
+2. É fundamental que a parte requerente desenvolva os argumentos que demonstrem a relevância da omissão para a solução da controvérsia, a fim de que o vício seja reconhecido por esta Corte como apto a ensejar a nulidade do julgado. A mera citação dos dispositivos legais invocados ou referência genérica aos aclaratórios bem como a simples indicação de pontos tidos como omissos sem a indicação de sua relevância para o deslinde da causa não suprem a deficiência recursal.
+3. Tal circunstância atrai a incidência da Súmula 284/STF (É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia).
+4. A matéria referente ao art. 1º do Decreto n. 20.910/1932 não foi objeto de análise pelo Tribunal de origem. Desse modo, carece o tema do indispensável prequestionamento viabilizador do recurso especial, razão pela qual não merece ser apreciado, conforme o que preceituam as Súmulas 211 desta Corte e 282 do Supremo Tribunal Federal.
+5. Agravo interno a que se nega provimento.
+(AgInt no REsp 1588520/DF, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 17/12/2019, DJe 27/02/2020)
+No mérito, a parte argumenta que a legislação local extrapola os limites do art. 8º da LC n. 87/96 com relação à base de cálculo para os créditos de ICMS.
+Verifico que a pretensão recursal é, ao fim e ao cabo, o exame da legislação local em face da legislação federal. Tal matéria não pode ser analisada em sede de recurso especial uma vez que diz respeito àcompetência constitucionalmente atribuída à Suprema Corte (art. 102, III, "d", da CRFB/88).
+No mesmo sentido:
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ.NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. CIP/COSIP.RESPONSABILIDADE TRIBUTÁRIA. ANÁLISE DE LEGISLAÇÃO LOCAL EM FACE DE LEI FEDERAL. COMPETÊNCIA DO STF. AGRAVO INTERNO NÃO PROVIDO.
+1. Com relação à negativa de prestação jurisdicional, a ora agravante limitou-se a argumentar, nas razões do especial, que o aresto combatido restou omisso acerca de "todos os dispositivos infraconstitucionais violados in concreto, em especial os artigos 121 e 128 do Código Tributário Nacional"(e-STJ fl. 771).
+2. O fato de se tratar de pleito subsidiário não exime a parte de demonstrar, com precisão, as omissões das quais padece o acórdão recorrido, bem como a relevância de cada uma das questões ao deslinde da controvérsia, de forma que, se analisadas, levariam à anulação ou à reforma do julgado. Súmula n. 284/STF.
+3. No mérito, a parte pretende afastar sua responsabilidade tributária, que restou reconhecida à luz do art. 13 da Lei Municipal n. 2.495/15.
+4. O que pretende a parte, ao fim e ao cabo, é o reconhecimento da ilegalidade do dispositivo da norma local em face dos arts. 121 e 128 do Código Tributário Nacional apontados como ofendidos no recurso especial. Cuida-se, portanto, de exame da legislação local em face da legislação federal, competência constitucionalmente atribuída à Suprema Corte, consoante expresso no art. 102, III, "d", da Constituição Federal.
+5. Agravo interno não provido.
+(AgInt no AgInt no AREsp 1772573/PR, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 28/06/2021, DJe 02/08/2021)
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E TRIBUTÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. SÚMULA N. 284/STF. ICMS-ST. COMPENSAÇÃO DE CRÉDITOS. ANÁLISE DA LEGISLAÇÃO LOCAL EM FACE DA LEGISLAÇÃO FEDERAL. COMPETÊNCIA DO STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
