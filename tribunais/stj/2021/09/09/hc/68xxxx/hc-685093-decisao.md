@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de JADSON JESUS DE CASTRO, contra acórdão do Tribunal de Justiça do Estado de São Paulo, que denegou a ordem originária e manteve aprisão preventiva do paciente pelasuposta prática do crimeprevistonoart. 33, caput, da Lei n. 11.343/06.
+Nesta Corte, o impetrantealega, em suma,ausência do preenchimento dos requisitospara a custódia preventiva. Destaca que o réu é primário, nunca se dedicou a atividades criminosas, tem bons antecedentes criminais, reside em local fixo e exerce trabalho lícito com registro em sua CTPS.
+Sustenta que o paciente agiu como "mula do tráfico", uma vez que foi contratado,exclusivamente, para fazer o transporte da droga, razão pela qual sua participação no evento não deve ser valorada igualmente "à daquele que intermedeia o tráfico ou mesmo daquele que é o dono da droga".
+Argumenta que, caso condenado, será fixado regime mais brando do que o fechado, razão pela qual a segregação provisória viola o princípio da homogeneidade.
+Requer a concessão da ordem para que seja revogada a prisão preventiva ou, subsidiariamente, para que aquela seja substituída por medidas cautelares diversas do cárcere.
+A liminar foi indeferida (e-STJ, fl. 112).
+Informações prestadas (e-STJ, fls. 116-120 e 123-134).
+O MPF manifestou-se pela denegação da ordem(e-STJ, fls. 136-137).
+É o relatório.
+Decido.
+Esta Corte e o Supremo Tribunal Federal pacificaram orientação de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+Sob tal contexto, passo ao exame das alegações trazidas pela defesa, a fim de verificar a ocorrência de manifesto constrangimento ilegal que autorize a concessão da ordem, de ofício.
+A prisão preventiva foi assim decretada:
+É dos autos que os Guardas Municipais estavam realizando patrulhamento de rotina pelo local dos fatos, quando avistaram Jadson na condução de uma motocicleta e deram ordem de parada. Consta que o acusado desobedeceu a ordem e efetuou fuga, sendo que, ao notar que seria abordado dispensou em meio a um pasto. Abordado, com o averiguado não foi encontrado nada de ilícito, mas após buscas nas imediações onde Jadson foi visto jogando a mochila, a encontraram, e no seu interior, 03 tijolos de "maconha", pesando cerca de 1,880 kg. Questionado, o acusado alegou que iria receber o valor de R$ 200,00 (duzentos reais) para fazer o transporte da droga.
+Em que pese o averiguado ser primário, anoto que, em se tratando de crime grave, irrelevante é a primariedade, residência fixa e profissão lícita, valendo ressaltar a grande quantidade de entorpecentes apreendidos, quase dois quilos.
+Esses fatos levam à inafastável conclusão de que a segregação cautelar dos averiguados é medida que se impõe, para garantia da ordem pública, bem como assegurar a instrução criminal, uma vez que o crime de tráfico é equiparado a hediondo e fomentador de outros delitos, em especial contra o patrimônio, cometidos por usuários para o sustento do vício.
+Conforme descreve o artigo 310 do Código de Processo Penal:
+"Art.310. Ao receber o auto de prisão em flagrante, o juiz deverá fundamentadamente:
+II converter a prisão em flagrante em preventiva, quando presentes os requisitos constantes do art. 312 deste Código, e se revelarem inadequadas ou insuficientes as medidas cautelares diversas da prisão; ou"
+Ademais, a situação descrita no auto de prisão em flagrante constitui uma das condições de admissibilidades estabelecidas no artigo 313 do Código de Processo Penal, qual seja, nos crimes punidos com pena privativa de liberdade máxima superior a 4 (quatro) anos (inciso I).
+Observa-se, ainda, a impossibilidade de concessão de fiança, ante o crime em tese praticado ser equiparado àqueles hediondos (Lei nº 8.072/90), e portanto inafiançável.
+Assim, verifica-se a real necessidade de converter a prisão em flagrante em prisão preventiva, sendo descabida, in casu, a substituição pelas outras medidas previstas no artigo 319 do Código de Processo Penal.
+Nestes termos, como garantia da ordem pública, com fundamento no artigo 310,inciso II, e artigo 311, ambos do Código de Processo Penal, CONVERTO A PRISÃO EM FLAGRANTE de JADSON JESUS DE CASTRO em PRISÃO PREVENTIVA. (e-STJ, fl. 68)
+De acordo com o art. 312 do Código de Processo Penal, a prisão preventiva poderá ser decretada para garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da lei penal, desde que presentes prova da existência do crime e indícios suficientes de autoria.
+No caso, observa-se que a custódia cautelar está suficientemente fundamentada na garantia da ordem pública, haja vista a gravidade concreta da conduta delitiva, pois opaciente foi presoem flagrante com1,880 kg de maconha.
+Esta Corte, inclusive, possui entendimento reiterado de que a quantidade e a diversidade dos entorpecentes encontrados com agente, quando evidenciarem a maior reprovabilidade do fato, podem servir de fundamento para a prisão preventiva.
+A propósito:
+" ..
+2. Em vista da natureza excepcional da prisão preventiva, somente se verifica a possibilidade da sua imposição quando evidenciado, de forma fundamentada e com base em dados concretos, o preenchimento dos pressupostos e requisitos previstos no art. 312 do Código de Processo Penal - CPP. Deve, ainda, ser mantida a prisão antecipada apenas quando não for possível a aplicação de medida cautelar diversa, nos termos previstos no art. 319 do CPP.
+No caso dos autos, a prisão preventiva foi adequadamente mantida na sentença, a qual indeferiu o direito de recorrer em liberdade com base em elementos concretos, a gravidade concreta da conduta e a periculosidade do agente, evidenciadas pela natureza e elevada quantidade das drogas apreendidas (177 porções de "cocaína", com peso de 40,36g e 01 uma porção de "maconha", com peso de 23,59g), o que denota a necessidade da prisão para resguardar a ordem pública, não havendo falar em existência de evidente flagrante ilegalidade.
+ ..
+Habeas corpus não conhecido."
+(HC 393.308/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 20/3/2018, DJe 6/4/2018).
+"HABEAS CORPUS. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. No caso, a prisão cautelar foi decretada para a garantia da ordem pública, com base na gravidade concreta do delito, evidenciada pela quantidade e natureza da droga apreendida (170 invólucros plásticos, contendo cocaína, pesando 68,1 g e 20 invólucros plásticos contendo maconha, pesando 40,5 g), aliada às circunstâncias em que se deu a prisão em flagrante.
+3. É consabido que eventuais condições subjetivas favorável ao paciente não são impeditivas à decretação da prisão cautelar, caso estejam presentes, como na hipótese, os requisitos autorizadores da referida segregação.
+4. Ordem denegada."
+(HC 425.704/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 27/2/2018, DJe 8/3/2018).
+Ademais, consigne-se que é inviável a substituição da prisão preventiva por medidas cautelares diversas, pois a gravidade concreta da conduta delituosa indica que a ordem pública não estaria acautelada com a soltura do paciente. Sobre o tema: RHC 81.745/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; RHC 82.978/MT, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 01/06/2017, DJe 09/06/2017; HC 394.432/SP, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 01/06/2017, DJe 09/06/2017.
+Anote-se, ainda, que o fato de o réupossuir condições pessoais favoráveis, por si só, não impede a decretação de sua prisão preventiva, consoante pacífico entendimento desta Corte: RHC 95.544/PA, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 22/3/2018, DJe 2/4/2018; e RHC 68.971/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 26/9/2017, DJe 9/10/2017.
+Além disso,destaque-sequeo argumento de desproporcionalidade da custódia cautelar à provável futura pena do acusado não comporta acolhimento, pois apenas a conclusão do processo será capaz de revelar se aquele será beneficiado com a fixação de regime prisional diverso do fechado, sendo inviável essa discussão neste momento processual. Nessa linha: RHC 94.204/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 10/4/2018, DJe 16/4/2018; e RHC 91.635/MG, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 20/3/2018, DJe 5/4/2018.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
