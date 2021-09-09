@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DE MINAS GERAIS contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS, assim resumido:
+EMENTA: MANDADO DE SEGURANÇA - PEDIDO DE CUMPRIMENTO - IMPUGNAÇÃO - EFEITOS PATRIMONIAIS DECORRENTES DA CONCESSÃO DA ORDEM - VALORES DEVIDOS APÓS A IMPETRAÇÃO - POSSIBILIDADE DA COBRANÇA NO PEDIDO DE CUMPRIMENTO DA PRÓPRIA AÇÃO MANDAMENTAL, EM RAZÃO DA NATUREZA MANDAMENTAL DA DECISÃO QUE CONCEDE A SEGURANÇA - EXCESSO DE COBRANÇA - INOCORRÊNCIA - IMPUGNAÇÃO REJEITADA.
+1- Conforme disposto no artigo 14, §4º, da Lei 12.016/2009, em razão da natureza mandamental da decisão que concede a segurança, em se tratando de pedido pagamento de valores devidos após o ajuizamento do mandado de segurança, não há necessidade de ajuizamento de ação ordinária de cobrança.
+2- Excesso de execução não verificado.
+3- Impugnação rejeitada.
+Alega violação dos arts. 14, § 4º, da Lei n. 12.016/2009; e 502 do Código de Processo Civil, no que concerne à violação da coisa julgada, trazendo o(s) seguinte(s) argumento(s):
+Conforme pontuado na Impugnação ao Cumprimento de Sentença, verifica-se no caso que o acórdão executado, em que pese a argumentação do Exequente, não impôs qualquer obrigação de pagamento de valores, a autorizar o requerimento do presente Cumprimento de Sentença, visando ao recebimento de valores referentes a parcelas pretéritas, vez que a segurança concedida refere-se à averbação de tempo de serviço, o que, segundo o próprio Impetrante, já foi cumprido.
+Com efeito, o dispositivo do acórdão proferido no mandamus assim consigna:
+(..)
+Opostos Embargos de Declaração pelo Impetrante, estes foram acolhidos sem alteração do resultado, nestes termos:
+(..)
+Verifica-se, portanto, que em momento algum foi concedida segurança para determinar o pagamento de parcelas vencidas ou vincendas referentes a quinquênios ou abonos de permanência a partir da impetração do mandamus.
+Verifica-se, portanto, negativa de vigência ao Artigo 14, §4º, da Lei 12.016/2009, vez que os pagamentos de vencimentos e vantagens pecuniárias, relativamente às parcelas que se vencerem a contar da data do ajuizamento da inicial, são aqueles "pagamentos assegurados em sentença concessiva de mandado de segurança", no que não se enquadra o caso em exame, em que não foi assegurado qualquer pagamento no acórdão que concedeu a segurança.
+Portanto, o pleito do Impetrante, aviado em Cumprimento de Sentença, se concedido implicaria em violação à coisa julgada, vez que, data venia, se estaria determinando o cumprimento de ordem não contida no acórdão executado.
+Verifica-se, data venia, violação à coisa julgada e ao Artigo 502 do CPC/2015, segundo o qual "denomina-se coisa julgada material a autoridade que torna imutável e indiscutível a decisão de mérito não mais sujeita a recurso".
+Por tais considerações, resta clara a ocorrência de violação à lei federal, na medida em que foi requerida execução de obrigação diversa daquela determinada no título executivo judicial exequendo, caracterizando-se a violação à coisa julgada, e impondo-se a reforma da Decisão recorrida, para extinguir o cumprimento de sentença (fls. 486/487).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+No caso dos autos, bem é de ver, que o acórdão manejado pelo embargado, integrado pelo julgamento dos embargos declaratórios, ao conceder-lhe a segurança, expressamente garantiu a averbação o tempo de serviço "para todos os fins de direito", ressalvando, também expressamente, os adicionais.
+Desta forma, que concerne às parcelas vencidas posteriormente à impetração, é garantida a cobrança na própria ação mandamental, sendo desnecessário o ajuizamento de ação de cobrança, dada a natureza e a destinação do mandado de segurança que exigem um procedimento célere.
+Confira-se, a respeito, a lição de Hely Lopes Meirelles acerca da eficácia imediata da concessão da segurança:
+(..)
+Noutro giro, o excesso de execução acusado não procede, uma vez que, conforme se depreende do documento eletrônico de ordem 03, o Título Declaratório do oitavo quinquênio do requerente, foi reconhecido a partir de 10 09 2017, conforme consignado nos cálculos do requerente.
+Com estes fundamentos, portanto, REJEITO A IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA, homologo os cálculos apresentados pelo requerente na planilha contida no documento eletrônico de ordem 02, e, na forma do inciso I, do § 3º, do art. 535, do CPC, a expedição do precatório em favor do Requerente (fls. 336/339).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que a pretensão recursal consiste no reconhecimento da violação da coisa julgada por meio da revisão da interpretação do teor do título executivo judicial realizada pela Corte de origem, o que demanda o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido, a jurisprudência do STJ firmou que "esta Corte Superior de Justiça firmou orientação no sentido de não ser possível, em recurso especial, rever o posicionamento adotado pelo Tribunal de origem quanto ao teor do título em execução, a fim de verificar-se possível ofensa à coisa julgada, aplicando o enunciado da Súmula 7/STJ" (AgInt no AREsp 770.444/RS, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 15/3/2019).
+Confiram-se ainda os seguintes julgados: AgInt nos EDcl no AREsp 1.588.826/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 1º/7/2020; REsp 1.431.610/GO, relator Ministro Og Fernandes, Segunda Turma, DJe de 26/2/2019; e AgRg no AREsp 755.581/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 29/2/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
