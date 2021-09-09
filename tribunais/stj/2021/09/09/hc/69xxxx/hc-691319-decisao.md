@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de FERNANDO RIOS OLIVEIRA, contra acórdão do Tribunal de Justiça do Estado de São Paulo proferido no Agravo de Execução Penal n. 0004983-77.2021.8.26.0496.
+Consta dos autos que o Juízo das Execuções Penais promoveu o Paciente ao regime semiaberto.
+Irresignado, o Ministério Público interpôs agravo de execução penal, o qual foi provido pelo Tribunal estadual para "cassar a decisão que concedeu a progressão ao regime semiaberto, sem prejuízo de que o Agravado seja submetido, oportunamente, a novo exame criminológico, em prazo a ser especificado pelo Juízo das Execuções Criminais" (fl. 19).
+No presente writ,a Parte Impetrante afirma, de início, que, ao ser proferido o acórdão ora impugnado, o Paciente já havia sido progredido para o regime aberto em decisão superveniente proferida pelo Juízo de primeiro grau.
+Aduz que são inidôneos os fundamentos utilizados pelo Tribunal de origem, diante do parecer favorável do Conselho Penitenciário. Argumenta que no exame criminológico apontou-se que o Paciente "apresenta-se adequado para progressão almejada" (fl. 12).
+Requer, liminarmente e no mérito, a cassação do acórdão vergastado.
+É o relatório.
+Decido.
+No caso, não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos. Com efeito, o Impetrante não juntou a cópia da decisão proferida pelo Juízo das Execuções Penais, que foi reformada pelo Tribunal estadual, tampouco a cópia do laudo produzido no exame criminológico, da guia de execução da reprimendae do decisum que, alegadamente, deferiu a progressão do Paciente ao regime aberto -peças necessárias à devida compreensão da controvérsia.
+Como se sabe, "a adequada instrução do habeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que o mandamus venha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas no writ" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo de novo writ para a análise da controvérsia, desde que seja juntada a documentação faltante.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTOS ESSENCIAISÀ ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
