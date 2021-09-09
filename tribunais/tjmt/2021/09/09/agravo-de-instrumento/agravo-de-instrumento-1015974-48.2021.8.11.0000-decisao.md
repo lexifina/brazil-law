@@ -1,0 +1,38 @@
+RAI.N.o 1015974-48.2021.8.11.0000
+Vistos, etc.
+Trata-se de Recurso de Agravo de Instrumento interposto por MARCOS AURELIO DE CARVALHO JUNIOR em face de decisão prolatada pelo juízo da Segunda Vara Cível da Vara Especializada em Direito Agrário da Capital, que nos autos n.o 1020536-74.2021.8.11.0041 – Ação de Interdito Proibitório – proposta por SOLANGE APARECIDA PATRIAN - deferiu a liminar a fim de determinar a imediata expedição de mandado proibitório em desfavor do réus, para se abster de quaisquer atos de ameaça, turbação ou esbulho de posse da autora no imóvel rural localizado na Estrada Rural D, Lote 83, Comunidade Rural Recanto da Siriemas, Município de Cuiabá, sob pena de multa diária no valor de R$ 1.000,00 (um mil reais).
+Inconformado, em suas razões o Agravante alega em síntese, que em sua inicial a Apelanda/Autora afirma ser possuidora de aproximadamente 03 (três) hectares de terra localizada na rua D, lote 83, na Comunidade Recanto das Siriemas, adquirida por meio de Contrato Particular de Compra e Venda com Cessão de Posse de Imóvel Denominado Recanto das Siriemas, desde junho de 2016.
+Ainda, que construiu um muro em parte da área, precisamente onde edificou uma casa de alvenaria, e o restante do imóvel foi cercado com arame com a finalidade de delimitar e resguardar a propriedade.
+Aduziu que em 02 de junho do corrente ano foi o surpreendida com uma ligação do caseiro, que a informou que “estavam limpando” a parcela da área que é cercada, ocasião em que a Agravada solicitou conversar por telefone com esta pessoa que se encontrava na área. Nesta oportunidade, aquele que limpava o terreno teria afirmado ser funcionário do suposto proprietário.
+O Agravante alega que a Agravada induziu o juízo a erro, ao apresentar contrato de promessa de compra e venda particular e um suposto esbulho praticado pelo Agravante, fato inverídico.
+Acerca da origem da aquisição do imóvel, demonstração de propriedade e posse do Agravante, aduz que antes de tornar-se proprietário e possuidor do referido imóvel, o mesmo foi constituído pelo Sr. Fábio Firmino Leite Junior – possuidor de 126.3659214 hectares, remanescente de uma área de 146,1380584 há, destacado da área maior de 176 hectares e 3,156,234m2, remanescente da área maior, denominado Fazenda Carumbé – Várzea Grande IV, com registro da matricula 92.681, livro 2, Cuiabá/MT.
+Que “Posteriormente, foi adquirido pelo Sr. JOSE CARLOS FERNANDES CASULA uma porção de terra sendo do imóvel de matricula no 92.681, desmembrada de uma fração do imóvel originário, o qual transferiu área com lote 87, por meio de escritura de compra e venda, na dimensão de 2,8574,16 hectares, sendo frende Rua D, fundos com lotes 88 e 64, lado esquerdo lote 86 e lado direito ao lote 89, na data de junho do ano de 2004, conforme se comprova em instrumento de compra e venda e memorial descritivo em anexo.”
+Que posteriormente, em 14/05/2021, o legítimo possuidor e proprietário do imóvel vendeu para o Agravante no valor de R$ 260.000,00 (duzentos e sessenta mil reais) conforme instrumento contratual.
+Ainda, que entregaram documento de autorização para escritura pública do imóvel do litígio em favor do Agravante, sendo realizada junto ao Cartório do 2o Ofício de Santo Antônio do Leverger/MT.
+Assim, como delimitado na cadeia sucessiva acima, e, corroborado pelos documentos juntado esta exordial, bem como da apresentação do memorial técnico descritivo indicando precisamente qual é o imóvel pertencente ao Agravante, resta evidente à justo título propriedade do Agravante nos termos do art. 1.228 do Código Civil, sendo inquestionável qualquer outro documento público, ou particular como é o caso, capaz de objetivar outro detentor.
+Ressalta, que mesmo antes da propositura da ação, vem preservando, cercando e limpando sua área, que hoje é objeto de constrição de sua posse mansa e pacifica.
+Discorre sobre a ausência de demarcação da área (art. 569 do CPC); que não é indicado pela Agravada no contrato particular de compromisso de compra e venda, bem como verifica ausência na petição inicial da descrição das características do imóvel/área a permitir a localização dos limites que pretendem impor o autor, assim como a existência dos confrontantes, a quem caberia a defesa, torna-se impossível, assim, a apreciação da controvérsia e a fixação da linha demarcatória, devendo ser proferida decisão indeferindo a petição inicial em razão de sua completa inépcia.
+Ainda, que o contrata da Agravada, se trata de contrato de gaveta, sem quaisquer traços de documentos autênticos, validos, públicos, o que leva a suposição de grilagem de terra.
+Destaca que se deve reconhecer a inépcia da peça inaugural, pois, utilizando como parâmetros o caso em tela, a ausência da descrição da área torna incerto o objeto do pedido possessório, impossibilitando, desta forma, a apresentação de defesa por parte do réu.
+Sustenta a importância da designação de audiência de justificação prévia (art. 564 do CPC).
+Defende a revogação da liminar, bem como do deferimento do efeito suspensivo.
+Requer seja conhecido e processo o presente recurso, a reforma da decisão hostilizada, atribuindo-lhe efeito suspensivo, bem como que seja determinada audiência de justificação prévia.
+É o relatório.
+DECIDO.
+A concessão do efeito suspensivo por meio do Recurso de Agravo de Instrumento condiciona-se à relevância da fundamentação formulada pelo Agravante, bem como à possibilidade de lesão grave e de difícil reparação, nos termos dos artigos 1.019, I c.c. 995, § único, do Código de Processo Civil:
+“Art. 1.019. Recebido o agravo de instrumento no tribunal e distribuído imediatamente, se não for o caso de aplicação do art. 932, incisos III e IV, o relator, no prazo de 5 (cinco) dias:
+I - poderá atribuir efeito suspensivo ao recurso ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, comunicando ao juiz sua decisão”;
+“Art. 995. Os recursos não impedem a eficácia da decisão, salvo disposição legal ou decisão judicial em sentido diverso.
+Parágrafo único. A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Pois bem.
+No que se refere à medida vindicada, ao analisar os argumentos apresentados pela Agravante, não identifico como relevantes os fundamentos e o perigo da lesão irreparável, a ensejar a concessão da medida requerida.
+Extrai-se dos autos, que o Agravante adquiriu o lote 87, enquanto que a Agravada adquiriu o lote 83, essa por sua vez propôs a referida ação sob alegação de que o Agravante está invadindo sua propriedade.
+O Agravante em suas razões defende a ausência de demarcação da área, bem como da descrição, características do imóvel/área a permitir a localização dos limites que pretendem impor o autor, assim como a existência dos confrontantes, a quem caberia a defesa.
+Sem fazer uma análise mais aprofundada do tema, entendo que, havendo dúvida quanto a localização da área, a proteção possessória deve ser mantida.
+Desta feita, a decisão do juízo, neste momento não merece nenhuma reforma.
+Posto isso, ausentes os requisitos necessários para a sua concessão, INDEFIRO o pleito liminar, ficando, assim acertado, até que a Turma Julgadora, melhor e mais informada pelo subsídio de outros elementos que virão aos autos, possa decidir com certeza e segurança sobre o mérito do recurso.
+Intime-se a agravada para, querendo, apresentar contrarrazões, no prazo legal.
+Às providências.
+Cumpra-se.
+Des. Sebastião Barbosa Farias
+Relator
