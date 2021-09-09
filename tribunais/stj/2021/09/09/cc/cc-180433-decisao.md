@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre a 2ª Vara Cível de da Comarca de Itapevi/SP, suscitante, e o Juízo Federal do Juizado Especial de Barueri - SJ/SP, suscitado, em ação ajuizada porMarinalva Conceição da Silva, contra Vera Lúcia Cavalcanti do Amaral e o Instituto Nacional do Seguro Social, em que se pretende a condenação da autarquia a retirar a qualidade de dependente da ré, com a consequente suspensão do benefício previdenciário que recebia, mantendo o benefício de pensão por morte apenas em favor da autora.
+O Juizado Especial Federal declinou da competência e determinou a remessa dos autos à Justiça Estadual por entender que é absolutamente incompetente para julgamento de lide que trata de benefício previdenciário de origem acidentária(fls. 326/329).
+O Juízo de direito, por seu turno, suscitou o presente conflito por compreender que a pensão em debate foi concedida no âmbito do Juizado Especial Federal, assim como o exame do pedido inicial não depende da existência de suposto acidente de trabalho como causa da morte, pois debate-se somente a qualidade de dependente da ré.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+Inicialmente, mister ressaltar o entendimento desta Corte de Justiça no sentido de que a competência para julgar demanda em que se pleiteia a concessão de benefício previdenciário deve ser determinada em razão do pedido e da causa de pedir.
+No presente caso, a ação foi proposta com o objetivo de excluir da pensão previdenciária deixada por José Ramos do Amaral a dependenteVera Lúcia Cavalcanti do Amaral, ao argumento de que a ré, apesar de casada por um ano com o segurado, não mais mantinha relacionamento com ele.
+Para melhor elucidar a questão, traz-se à colação o art. 109, I, daConstituição Federal, que assim dispõe, in verbis:
+Aos juízes federaiscompete processar e julgar:
+I - as causas em que a União, entidadeautárquica ou empresa pública federal forem interessadas na condição deautoras, rés, assistentes ou oponentes, exceto as de falência, as deacidentes de trabalho e as sujeitas à Justiça Eleitoral e à Justiça doTrabalho;
+Assim, a pretensão não se amolda à exceção firmada pelo preceitoconstitucional em tela, mas à regra que estabelece a competência daJustiça Federal para o processamento e o julgamento das ações em que aUnião, entidade autárquica ou empresa pública federal forem interessadasna condição de autoras, rés, assistentes ou oponentes.
+ANTE O EXPOSTO,conheço do conflito para declarar competente para o processamento do feitooJuízo Federal do Juizado Especial de Barueri - SJ/SP, suscitado.
+Publique-se e comunique-se, dando-se ciência aos Juízosenvolvidos e ao Ministério Público Federal.
