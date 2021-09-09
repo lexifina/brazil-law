@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAMILLA PEREIRA BARBOSA e OUTRO contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO RESCISÃO DE CONTRATO CC INDENIZAÇÃO POR DANOS MATERIAL E MORAL EMENDA DA INICIAL DETERMINADO O RECOLHIMENTO DA DIFERENÇA DA TAXA JUDICIÁRIA SOBRE A TOTALIDADE DOS PEDIDOS E HONORÁRIOS ADVOCATÍCIOS COBRANÇA BASEADA NOS ART 113 118 119 E 120 DO CÓDIGO TRIBUTÁRIO ESTADUAL RESCISÃO CONTRATUAL QUE EXIGE COMO VALOR DA CAUSA O VALOR DO CONTRATO E NÃO O VALOR PAGO PELOS COMPRADORES ALÉM DOS DEMAIS PEDIDOS DE DANOS MATERIAL MORAL LUCROS CESSANTES E HONORÁRIOS ADVOGADOS NOS EXATOS TERMOS DO ART 120 DO CTE (DEC 0575) CORRETA A DETERMINAÇÃO DE COMPLEMENTAÇÃO DA TAXA JUDICIÁRIA DESPROVIMENTO DO RECURSO
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação dos arts. 292, II e § 3º, do CPC, no que concerne ao valor da causa, que deve corresponder ao benefício econômico pretendido, trazendo o(s) seguinte(s) argumento(s):
+Ao afastar a aplicação da regra contida no artigo 292, II, bem como ao § 3º do mesmo artigo da Lei Federal 13.105 de 2015 (Código de Processo Civil), o Tribunal de origem acabou por negar vigência ao aludido dispositivo legal, cuja redação é a seguinte:
+ ..
+Não obstante a antiga legislação processual determinasse que o valor da causa deveria corresponder ao valor do negócio jurídico que se pretenda rescindir, o art. 292, II do CPC/15, é claro em esclarecer que nas ações de rescisões de ato jurídico o valor da causa será o valor do ato ou de sua parte controvertida, podendo o magistrado, ex officio, posto que se trata de matéria de ordem pública, corrigir o valor da causa, adequando-o ao proveito econômico pretendido pela parte, ou ao conteúdo patrimonial em discussão nos autos, ocasião em que se procederá ao correto recolhimento, na dicção do parágrafo terceiro do art. 292, do CPC.
+ ..
+Embora exista pedido de rescisão contratual, a pretensão não reflete o importe do contrato, devendo o valor da causa corresponder ao benefício econômico pretendido, que, no caso em apreço, é a devolução de parte das prestações quitadas somada aos demais pedidos contidos na peça inicial. Assim, s.m.j., o valor da causa deve corresponder ao proveito econômico perseguido no processo, devendo ser esta a base de cálculo para a taxa judiciária, e não ao valor do contrato. (fls. 60/64).
+É, no essencial, o relatório. Decido.
+Na espécie, o tribunal de origem se manifestou no seguinte sentido:
+Na hipótese, não obstante os recorrentes façam referência ao valor da causa e ao valor por eles pago sobre o qual foi recolhida a taxa judiciária no início do processo, o que pretendem é a rescisão do contrato firmado com o agravado.
+Dispõe o art. 120, do Código Tributário Estadual que no caso de rescisão contratual a taxa judiciária deverá ser calculada de acordo com o valor do contrato e, não, sobre o que foi pago pelos adquirentes.
+E, como se sabe, a taxa judiciária cobrada no âmbito deste Tribunal de Justiça é regulada pelo Dec. Lei nº. 05/75, Código Tributário Estadual, calculada segundo os arts. 118 e 119, do referido decreto, ou seja, 2 % sobre o valor do pedido, somando-se principal, os juros, as multas, os honorários advocatícios e quaisquer outras vantagens pretendidas. E, em se tratando de ação onde não se questiona valores há de ser observado o art. 134, daquele Código. Veja-se:
+ ..
+No mesmo sentido a orientação do Aviso nº 381/2011, deste Egrégio Tribunal de Justiça. Veja-se:
+ ..
+Nesse passo, correta a decisão que determinou o recolhimento da taxa judiciária sobre todos os pedidos, nos termos dos arts. 113, 118, 119 e 120, do Código Tributário Estadual.
+Portanto, impõe-se seja mantida a decisão recorrida, eis que improcedentes as razões do recurso. (fls.49/50)
+Diante desse contexto, não é cabível o recurso especial porque interposto contra acórdão com fundamento em norma infralegal, ainda que se alegue violação ou interpretação divergente de dispositivos de lei federal.
+Aplicável, por analogia, o óbice previsto na Súmula n. 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário".
+Nesse sentido: "Apesar de a recorrente ter indicado violação de dispositivos infraconstitucionais, a argumentação do decisum está embasada na análise e interpretação da Resolução 414/2010 da ANEEL, norma de caráter infralegal cuja violação não pode ser aferida por meio de recurso especial". (AgInt no AREsp n. 1.621.833/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 16/06/2021).
+Confiram-se ainda os seguintes precedentes: REsp n. 1.517.837/SP, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 10/05/2021; AgInt no REsp n. 1.859.807/RJ, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/06/2020; AgInt no AREsp n. 1.673.561/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 25/03/2021; AgInt no AREsp n. 1.701.020/DF, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 27/11/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
