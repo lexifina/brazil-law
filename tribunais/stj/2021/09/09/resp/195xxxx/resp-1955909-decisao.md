@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região assim ementado:
+EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. ANUIDADES. PRESCRIÇÃO. RECURSO IMPROVIDO.
+1. Trata-se de apelação interposta pelo Conselho Regional de Representantes Comerciais no Estado de Pernambuco em face de sentença que entendeu pela prescrição da cobrança das anuidades de 2011 a 2015, e extinguiu o processo com resolução de mérito, com fundamento no art. 487, II, do CPC/15.
+2. Em suas razões recursais, a parte apelante sustenta, em síntese, que anuidade do CORE-PE não tem vencimento em 30 de abril de cada ano, sendo certo que a constituição definitiva das anuidades de 2011 a 2015 ocorreu em 30/11/2016, é esse o início do prazo prescricional, que findará apenas em 30/11/2021, em conformidade com o art. 10, §3 e §4, da Lei nº 4.886/65.
+3. O cerne da controvérsia consiste em perquirir a ocorrência ou não da prescrição das anuidades de 2011 a 2015.
+4. Considerando que se trata de crédito sujeito a lançamento de ofício, a prescrição é de 5 (cinco) anos, contando da sua constituição definitiva (art. 174, CTN). Com efeito, no caso da anuidade do referido conselho o prazo prescricional começa a fluir no dia seguinte ao da data de vencimento fixada.
+5. Na hipótese em epígrafe, a anuidade mais recente tem como vencimento 30/04/2015, com prazo prescricional com início em 01/05/2015 e término em 01/05/2020. Ocorre que a execução só foi ajuizada em 19/06/2020, de modo que configurada a prescrição da cobrança das referidas anuidades.
+6. Ademais, a Terceira Turma, em situação semelhante, proferiu o entendimento de que "o fato de o pagamento da anuidade poder ser efetuado até o dia 31 de março de cada ano, com desconto de 10% (dez por cento), ou em até 3 (três) parcelas, sem descontos, vencendo-se a primeira em 30 de abril, a segunda em 31 de agosto e a terceira em 31 de dezembro de cada ano, não faz com o que o termo inicial da prescrição seja após 31/12, uma vez que não sendo paga a primeira parcela, em 30 de abril, o 08105758620204058300, Apelação Cível, Desembargador Federal Rogério De Meneses Fialho Moreira, 3ª débito é constituído". ( Turma, Julgamento: 17/09/2020).
+7. Apelação improvida.
+No apelo especial (e-STJ fls. 52-57), o recorrente alega violação ao art. 8º, da Lei nº 12.514/2011, argumentando queo prazo prescricional para cobrança das anuidades pagas aos conselhos profissionais tem início somente quando o total da dívida inscrita, acrescida dos respectivos consectários legais, atingir o patamar mínimo estabelecido pela Lei 12.514/2011.
+Sem contrarrazões.
+É o relatório. Decido.
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+Pois bem.
+Com efeito, as Turmas que compõem a Primeira Seção têm decidido, de forma pacífica, no sentido de que a prescrição da pretensão de cobrança só tem início quando cumprida, ou seja, a partir do momento em que o total da dívida, incluídos os acréscimos legais, alcançar o limite mínimo estabelecido pelo art. 8º da Lei n. 12.514/2011, considerando-se o valor da anuidade aquele estabelecido para o ano em que for ajuizada a execução.
+Confiram-se, dentre outros:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ANUIDADE DE CONSELHO PROFISSIONAL.LEI 12.514/2011. VALOR MÍNIMO. EXECUÇÃO FISCAL. PRESCRIÇÃO. TERMO INICIAL.
+1. Firmou-se no Superior Tribunal de Justiça o entendimento de que, à luz do art. 8º da Lei 12.514/2011, a propositura de executivo fiscal fica limitada à existência do valor mínimo correspondente a 4 (quatro) anuidades, sendo certo que o prazo prescricional para o seu ajuizamento deve ter início somente quando o crédito tornar-se exequível. Precedentes:
+REsp 1.664.389/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe 16/2/2018; REsp 1.694.153/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017; REsp 1.684.742/RS, Rel. Min. Regina Helena Costa, decisão monocrática, DJe 17/10/2018; REsp 1.467.576/PR, Rel. Min. Napoleão Nunes Maia Filho, decisão monocrática, DJe 20/11/2018.
+2. Agravo interno não provido.
+(AgInt no AREsp 1011326/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/05/2019, DJe 17/05/2019)
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/73.OFENSA GENÉRICA. SÚMULA 284/STF. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. ANUIDADES. VALOR DA EXECUÇÃO. ART. 8º DA LEI 12.514/2011. PRESCRIÇÃO. TERMO INICIAL. ALCANCE DO VALOR MÍNIMO PARA EXECUÇÃO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a precisa demonstração de omissão (Súmula 284 do STF).
+2. Esta Corte, interpretando o art. 8º da Lei n. 12.514/2011, consolidou o entendimento de que no valor correspondente a quatro anuidades no ano do ajuizamento computam-se, inclusive, as multas, juros e correção monetária, e não apenas a quantidade de parcelas em atraso.
+3. O processamento da execução fiscal fica desautorizado somente quando os débitos exequendos correspondam a menos de 4 vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente, tomando-se como parâmetro para definir este piso o valor da anuidade referente ao ano de ajuizamento, bem como os encargos legais (multa, juros e correção monetária). No caso dos autos, a ação fiscal foi ajuizada em 2013, quando já em vigor a Lei n. 12.514/11, assim, aplicável a limitação acima descrita.
+4. As anuidades pagas aos conselhos profissionais possuem natureza tributária, o que, em tese, admitiria o dia seguinte ao vencimento da obrigação como sendo o termo inicial da prescrição.
+5. No entanto, considerando a limitação de valor mínimo para fins de execução criada pela Lei n. 12.514/11, para o ajuizamento da execução, o prazo prescricional dever ter início somente quando o crédito se tornar exequível, ou seja, quando o total da dívida inscrita, acrescida dos respectivos consectários legais, atingir o patamar mínimo exigido pela norma.
+6. Recurso especial conhecido em parte e, nessa extensão, provido para afastar a ocorrência da prescrição.
+(REsp 1524930/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017)
+Ante o exposto, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem para que seja proferida nova decisão observando-se a jurisprudência desta Corte acima colacionada.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL.ANUIDADES. CONSELHOS PROFISSIONAIS. CONDIÇÃO IMPOSTA PELA LEI PARA O AJUIZAMENTO DA AÇÃO EXECUTIVA. PRAZO PRESCRICIONAL. TERMO INICIAL. EXEQUIBILIDADE. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA. RECURSO PROVIDO.
