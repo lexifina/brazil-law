@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ELSON DE CARVALHO MELO QUIRINO DE MORAIS contra acórdão do Tribunal de Justiça do Distrito Federal e dos Territórios (HC n. 0719758-20.2021.8.07.0000).
+O recorrente teve a prisão em flagrante convertida em preventiva a pedido do Ministério Público e foi denunciado por suposta prática do delito descrito no art. 171, caput, por 17 vezes, na forma do art. 71, caput, ambos do Código Penal (fl. 302).
+O decreto prisional fundou-se na materialidade do fato, nos indícios de autoria e no risco de reiteração delitiva. O mandado ainda não foi cumprido, pois o paciente encontra-se em local incerto e não sabido (fl. 303).
+Impetrado writ na origem, a ordem foi denegada (fl. 384).
+O recorrente alega que está sendo vítima de constrangimento ilegal, pois carente de fundamentação idônea a decisão que decretou a custódia cautelar, contendo apenas fundamentos genéricos. Afirma que a prisão preventiva foi baseada em meras suposições, sem fatos concretos (fl. 418).
+Ressalta que "é primário, com família constituída, profissão formal, com endereço no distrito da culpa há vários anos" (fl. 414).
+Requer, liminarmente e no mérito, a revogação da prisão preventiva.
+A liminar foi indeferida àsfls. 438-439.
+As informações foram prestadas às fls. 443-502.
+O Ministério Público Federal apresentou parecer pelo desprovimentodorecurso emhabeas corpus(fls. 504-511).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 388-390):
+A denúncia relata os fatos nos seguintes termos:
+"No período compreendido entre os dias 1º/02/2017 e 8/8/2017, na Associação portuguesa de Brasília, situada na QS 5, Rua 312, Lote 12, Águias Claras/DF, o denunciado, de forma livre e consciente, obteve, em proveito próprio, vantagens patrimoniais indevidas, no valor de R$ 375.000,00 (trezentos e setenta e cinco mil reais), em prejuízo de Alexandre de Carvalho Gomes e Arthur Rodrigues Nascimento, proprietários da empresa Move on, induzindo-os e mantendo-os em erro, mediante ardil, ao apresentar-se como experiente empresário, prometer aumentar os lucros e as linhas de crédito da pessoa jurídica e, após receber os cartões bancários e as respectivas senhas, contrair dívidas e realizar movimentações em benefício próprio".
+A peça inaugural apresenta o gráfico dos prejuízos causados pelo paciente e está corroborada pela Portaria de Instauração de Inquérito Policial, pela Comunicação de Ocorrência Policial e pelas demais peças dos autos, e foi recebida em 14/09/2019.
+Portanto, da descrição acima, ressai inequívoca a materialidade do delito, bem assim a presença de suficientes indícios de autoria (fumus comissi delicti), sendo certo que, para o fim de se decretar a prisão cautelar, inexigível, sem qualquer manifestação conclusiva, a certeza absoluta quanto à autoria delitiva.
+No que concerne ao fundamento de garantia de aplicação da lei penal, anote-se que, após o recebimento da denúncia, o paciente foi procurado em seu endereço para ser citado em30/10/2019, mas não foi encontrado. A partir daí há relatórios de diversas diligências efetivadas pelo Ministério Público, procura do réu em outros endereços (download - p. 278-280, 284 e 292), sem êxito em localizá-lo, e, assim, por não ter sido encontrado, houve pleito de citação por edital, o que foi determinado pelo juízo, sendo que, da certidão de 21/05/2020, consta que ele não apresentou resposta à acusação.
+Assim, apreciando pedido do Ministério Público, o juízo proferiu decisão, em 02/06/2020, pela qual suspendeu o curso do processo e o prazo prescricional, bem como decretou a prisão preventiva do paciente.
+ ..
+Impende salientar que a segregação cautelar para a garantia de aplicação da lei penal visa a garantir a aplicação de pena vindoura, a qual pode ser frustrada, caso o réu não se mantenha preso. Busca-se, portanto, evitar a fuga do acusado antes do término do processo, o que se coaduna com o caso dos autos, em que houve diversas tentativas de localizá-lo, todas frustradas.
+Ademais, embora tenha sido o mandado de prisão expedido em 02/06/2020, pouco mais de um ano atrás, não há notícia de que o paciente tenha sido preso até o presente momento.
+Assim, não se mostra ilegal a manutenção do decreto prisional para assegurar a aplicação da lei penal, nos termos acima assentados, não havendo que se cogitar de falta de fundamentação, ilegalidade ou nulidade.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+Ademais, eventuais condições subjetivasfavoráveisdorecorrente,como residência fixa e trabalho lícito, não impedem a prisão preventiva quando preenchidos os requisitos legais para sua decretação. Essa orientação está de acordo com a jurisprudência do STJ. Vejam-se os seguintes precedentes: AgRg no HC n. 585.571/GO, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020; e RHC n. 127.843/MG, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 2/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ,nego provimento ao recurso ordinário emhabeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
