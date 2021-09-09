@@ -1,0 +1,20 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por MARCOS ROBERTO DE ALBUQUERQUE VASQUES E OUTRO em face da decisão que conheceu do agravo para não conhecer do recurso especial, em razão da aplicação de súmulas de admissibilidade recursal, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que:
+Porém, o acórdão que conheceu do Agravo Interno para não conhecer do Recurso Especial, assim o fez alegando não ser cabível a interposição de recurso especial para exame de matéria de competência do Supremo Tribunal Federal, sem fundamentar por qual motivo entende que a violação do artigo 371, do Código de Processo Civil, seria matéria de competência do Supremo, em omissão.
+Defende ainda ser contraditório o decisum impugnado ao aplicar os óbices das Súmulas 5 e 7 do Superior Tribunal de Justiça, afirmando haver pretensão recursal de reexame de cláusulas contratuais e acervo probatório, apesar de ter demonstrado, " ..  de forma cabal, que ditas cláusulas e acervo SEQUER foram examinados pelo Tribunal de Justiça do Estado de São Paulo, sendo a MÁ VALORAÇÃO DA PROVA matéria cuja qual cabe a este Tribunal julgar, demandando a simples leitura dos autos para se verificar o que se alega" (fl. 1331).
+Requer, assim, o conhecimento e acolhimento dos embargos declaratórios para que sejam sanados os vícios apontados.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+De início, necessário esclarecer que a decisão embargada, ao afirmar ser "incabível o recurso especial quando visa discutir violação de norma constitucional"(fl. 1235), assim o fez não em relação ao art. 371 do CPC, como sustentado pelos embargantes, mas sim em relação à alegação de violação do art. 93, IX, da Constituição Federal.
+De fato, conforme consignado na decisão embargada, não compete ao Superior Tribunal de Justiça, mas ao Supremo Tribunal Federal, o exame de suposta violação a dispositivo constitucional.
+Afasto, assim, a alegação de omissão quanto a este ponto.
+No que tange à alegação de contradição, igualmente não prospera a insurgência.
+Como bem consignado na decisão embargada, para reverter a conclusão do tribunal de origem relativamente ao valor da indenização e ao parcial acolhimento da reconvenção, seriam realmente necessárias a interpretação de cláusulas contratuais e a incursão no acervo fático-probatório dos autos, o que é vedado em sede de recurso especial pelas Súmulas 5 e 7 do STJ.
+Esclareça-se que a contradição que dá ensejo à oposição de embargos declaratórios é a contradição interna, entre as proposições do próprio julgado impugnado, e não entre sua fundamentação e os argumentos das partes ou outras decisões constantes dos autos.
+Assim, constatando-se terem sido corretamente aplicadas as aludidas súmulas, nada há de contraditório na decisão embargada.
+Por fim, ressalto que a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, não se coaduna com a via eleita. Nesse sentido, o EDcl no AgRg nos EREsp n. 1.315.507/SP, relator Ministro Luis Felipe Salomão, Corte Especial, DJe de 28/8/2014.
+Assim, não há qualquer irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
