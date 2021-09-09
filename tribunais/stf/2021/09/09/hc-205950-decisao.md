@@ -1,0 +1,27 @@
+DECISÃO
+    Trata-se de habeas corpus impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. MEDIDAS CAUTELARES DIVERSAS. IMPOSSIBILIDADE.
+    1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+    2. No caso, a prisão preventiva está justificada na quantidade de drogas apreendida, a saber, mais de 30kg (trinta quilogramas) de maconha. Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+    3. Condições subjetivas favoráveis do agente, por si sós, não impedem a prisão cautelar, caso se verifiquem presentes os requisitos legais para a decretação da segregação provisória.
+    4. Os fundamentos adotados para a imposição da prisão preventiva indicam, no caso, que as medidas alternativas seriam insuficientes para acautelar a ordem pública e evitar a prática de novos crimes.
+    5. Não cabe a esta Corte proceder com juízo intuitivo e de probabilidade para aferir eventual pena a ser aplicada, tampouco para concluir pela possibilidade de fixação de regime diverso do fechado e de substituição da reprimenda corporal, tarefas essas próprias do Juízo de primeiro grau por ocasião do julgamento de mérito da ação penal (precedentes).
+    6. Recurso ordinário desprovido, acolhido o parecer ministerial.
+    (RHC 147.639-AgRg/BA, Ministro Atonio Saldanha Palheiro)
+    Em suas razões, a parte impetrante pretende, em síntese, a concessão do direito de recorrer em liberdade ao paciente.
+    Tal o contexto, entendo não assistir razão à parte impetrante.
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, §1º e art. 52, parágrafo único).
+    Não se desconhece que a decretação da prisão preventiva é medida excepcional, sendo regra que o réu possa responder o processo em liberdade (HC 90.753/RJ, Ministro Celso de Mello).
+    Assim, para a restrição da liberdade de alguém antes do trânsito em julgado da sentença penal condenatória, impõe-se a presença, no momento da decretação dessa medida cautelar, dos pressupostos (materialidade, indícios de autoria e perigo gerado com o estado de liberdade) e dos requisitos e/ou fundamentos  previstos nos arts. 312 e 313 do CPP.
+    Uma vez demonstradas pelo magistrado a real necessidade dessa medida cautelar e a presença dos pressupostos e requisitos que venho de referir, a decretação da prisão preventiva estará devidamente fundamentada, sem que se possa alegar que essa prisão processual violaria o princípio da presunção de inocência.
+    Fixadas tais premissas, observo que, no caso em exame, como bem ressaltou o Superior Tribunal de Justiça, ao destacar a expressiva quantidade de drogas apreendida (“mais de 30kg (trinta quilogramas) de maconha”), a decisão que decretou a prisão preventiva do ora paciente deixou evidenciada a gravidade concreta da conduta alegadamente por ela praticada, valendo transcrever, o seguinte fragmento dessa decisão do magistrado de 1º grau:
+    Vale transcrever, por isso mesmo, fragmento da decisão impugnado emanado do Tribunal de Justiça do Estado de São Paulo:
+    Nesse momento, não se vê possível a aplicação do §4°, do artigo 33, da Lei de Tóxicos. Isso porque, a despeito da primariedade das agentes, foi localizada grande quantidade de drogas, mais de 30 quilos de maconha, que, segundo o depoimento policial, exalava odor passível de se sentir do lado de fora da residência. Além disso, Beatriz foi presa há pouco tempo traficando mais de 100 quilos de droga, conforme se depreende de seu interrogatório. Desse modo, as circunstâncias indicam não se tratar de traficantes ocasionais, e sim de tráfico profissional e organizado, possibilitando, ainda, a subsunção ao artigo 35, da Lei 11.343/2006.
+    O Supremo Tribunal Federal, em precedentes de ambas as Turmas, tem reconhecido a idoneidade da segregação cautelar fundada na garantia da ordem pública, quando demonstrada a periculosidade social do agente supostamente envolvido no tráfico de grande quantidade de drogas (HC 104.934/MT, Relator para o acórdão Ministro Luiz Fux; HC 112.090/RJ, Relatora para o acórdão Ministra Rosa Weber; HC 134.307-AgR/SP, Ministro Dias Toffoli; HC 138.213/MG, Ministro Ricardo Lewandowski; HC 158.276/RJ, Ministro Marco Aurélio; HC 177.678-AgR/MG, Ministro Alexandre de Moraes):
+    “AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. CONSTITUCIONAL. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. IMPETRAÇÃO CONTRA DECISÃO MONOCRÁTICA DO SUPERIOR TRIBUNAL DE JUSTIÇA: IMPOSSIBILIDADE. GRANDE QUANTIDADE DE DROGA. GRAVIDADE CONCRETA DA CONDUTA. RISCO DE REITERAÇÃO DELITIVA. IMPOSSIBILIDADE DE SUBSTITUIÇÃO DA PRISÃO POR OUTRAS MEDIDAS CAUTELARES. AGRAVO REGIMENTAL PROVIDO PARA DENEGAR A ORDEM DE ‘HABEAS CORPUS’.”
+    (HC 169.761-AgR/MS, Relatora para o acórdão Ministra Cármen Lúcia – sem grifos no original)
+    Em face do exposto, indefiro o pedido de habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+Brasília, 9 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
