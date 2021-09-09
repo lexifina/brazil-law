@@ -1,0 +1,27 @@
+DECISÃO
+Neste recurso ordinário emhabeas corpus, com pedido liminar, interposto porLeon Sulivan Correa dos Santos- preso preventivamente e denunciado pela suposta prática do crime tipificado noart. 1º,I,ae § 4º, III, da Lei n. 9.455/1997(Processo n.070/2.19.0000156-0, em curso na 2ª Vara Criminal de Taquara/RS) - contra o acórdãoexarado no julgamento do HC n.70084467422(Tribunal de Justiça do Rio Grande do Sul),sob alegação de: 1) inidoneidade nafundamentação lançada na decisão que converteu a prisão em flagrante em preventiva; 2) excesso de prazo para a formação da culpa; e 3)inobservância do art. 316, parágrafo único, do Código de Processo Penal,requer-se, em liminar e no mérito, a revogação da prisão cautelar.
+Antes de analisar o pedido liminar, solicitei informações ao Juízo processante (fl. 134).
+As informações não foram prestadas no prazo estabelecido (fl. 137).
+Indeferi o pleito urgente (fls. 139/141).
+Informes encaminhados pelo Juízo de primeiro grau às fls. 146/148.
+Ouvido, o Ministério Público Federal opinou pelo desprovimento do recurso (fls. 157/160).
+Na origem, a instrução processual da ação penal se encerrou. Atualmente o feito se encontra em fase de alegações finais (Processo n. 5003214-72.2019.8.21.0070).
+É o relatório.
+Quanto àalegada delonga na tramitação da ação penal, tem-se que a instrução processual já foi concluída. Dessa forma, aplicável ao caso os termos da Súmula 52 do Superior Tribunal de Justiça: encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo.
+No que se refere ao decreto de prisão, não diviso ilegalidade flagrante, notadamente diante da circunstância referenciada pelo Tribunala quo, qual seja, o fato de que o recorrente ostentadiversas condenações anteriores por crimes graves, tendo envolvimentos com facção criminosa,elementos aptos a justificar a prisão pela garantia da ordem pública (risco concreto de reiteração delitiva).
+Confira-se (fl. 84):
+ ..
+Com efeito, o que verifico é que o paciente está preso em decorrência de acusação grave, pela prática de crime hediondo (tortura), e há nos autos, ainda, informações de que possui profunda intimidade com o universo criminoso, com envolvimento em facção que pratica diversos delitos de acentuada gravidade. Tal, associado ao histórico criminal apresentado, onde registra condenações transitadas em julgadas por roubo duplamente majorado (em dois processos diversos), extorsão majorada, tráfico de drogas, além de responder por associação criminosa majorada e por participação em organização criminosa, mostra-se suficiente para concluir que sua liberdade representa concreto risco de reiteração criminosa, a tornar a prisão imprescindível para a garantia da ordem pública, que não será saciada com medidas alternativas ao cárcere.
+ ..
+Consta dos autos que o recorrente e coacusados,em disputa sangrenta entre duas facções criminosas relacionada à prática de tráfico de drogas na região, sequestram seus rivais, torturando-os, com extrema violência, a fim de obter informações (fls. 23/26).
+A jurisprudência desta Corte de Justiça é firme em assinalar quese justifica a decretação da prisão de membros de organizaçãocriminosa, como forma de interromper as atividades do grupo(RHC n.70.101/MS, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe5/10/2016.
+Além disso,inquéritos e ações penais em curso constituem elementos capazes de demonstrar o risco concreto de reiteração delituosa, justificando a decretação da prisão preventiva para garantia da ordem pública(RHC n. 114.454/AL,Ministro Joel Ilan Paciornik, Quinta Turma, DJe 29/6/2020).
+Com efeito, havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública (AgRg no RHC n. 142.736/MT, Ministro Olindo Menezes (Desembargador convocado do TRF/1ª Região), Sexta Turma,DJe 20/8/2021).
+Na mesma linhao RHC n. 139.650/CE, Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 14/5/2021.
+Por fim, no que se refere à suposta inobservância do art. 316,parágrafo único,do CPP, estou de acordo com a opinião da Subprocuradora-Geral da RepúblicaMaria Iraneide Olinda Santoro Facchini de que, diante da superveniente revisãopreventiva pelo Juízo de origem, está superada a alegação de constrangimento ilegal por inobservância do prazo de 90 dias, conforme preconiza o parágrafo único do art. 316 do CPP, incluído pela Lei n.13.964/2019 (Pacote Anticrime) - fl. 160.
+Ainda que assim não fosse, oeventual reconhecimento da ilegalidade aventadanão resultaria na revogação automática da prisão preventiva, pois, consoante orientação firmada pelo Plenáriodo Supremo Tribunal Federal,no julgamento da SL n. 1.395,ainobservância do prazo nonagesimal previsto no parágrafo único do art. 316 do Código de Processo Penal não implica automática revogação da prisão preventiva, devendo o juiz competente ser instado a reavaliar a legalidade e a atualidade de seus fundamentos(sessão de 15/10/2020).
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS. CRIME DE TORTURA. PREVENTIVA. GRAVIDADE DA CONDUTA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. GARANTIA DA ORDEM PÚBLICA. INSUFICIÊNCIA DAS MEDIDAS CAUTELARES.EXCESSO DE PRAZO. SÚMULA52 DO STJ. APLICABILIDADE. REVISÃO NONAGESIMAL DA CUSTÓDIA. ALEGAÇÃO SUPERADA. PARECER ACOLHIDO.
+Recurso improvido.
