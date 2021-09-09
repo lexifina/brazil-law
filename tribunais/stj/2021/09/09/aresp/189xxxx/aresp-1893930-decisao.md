@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo interposto por LUIS EDUARDO FIGUEIREDO DA FONSECA contra decisão do Tribunal de Justiça do Estado do Rio de Janeiro, que não admitiu recurso especial fundado naalínea"a" do permissivo constitucional para desafiar acórdão assim ementado (e-STJ fl. 2.574):
+APELAÇÃO CÍVEL. CONSTITUCIONAL E ADMINISTRATIVO.CONCURSO PÚBLICO. AÇÃO DE PROCEDIMENTO COMUM.PEDIDO DE ANULAÇÃO DE QUESTÕES DE PROVA DE CONHECIMENTOS, EM CÚMULO SUCESSIVO COM ATRIBUIÇÃO DE PONTOS E COMPENSAÇÃO DE DANO MORAL. CERTAME OBJETIVANDO A ADMISSÃO AO CURSO DE FORMAÇÃO DE SOLDADOS DA POLÍCIA MILITAR DO ESTADO DO RIO DE JANEIRO. QUATRO QUESTÕES DE HISTÓRIA QUE VERSARIAM MATÉRIAS NÃO INTEGRANTES DA BIBLIOGRAFIA, NEM DO CONTEÚDO PROGRAMÁTICO CONSTANTE DO EDITAL. SENTENÇA DE IMPROCEDÊNCIA.IRRESIGNAÇÃO. PRELIMINAR DE CERCEAMENTO DE DEFESA. PROVA DOCUMENTAL PRODUZIDA PELO AUTOR QUE FOI APRECIADA. REGULAR INTIMAÇÃO PARA DIZER SE PRETENDIA PRODUZIR PROVAS OUTRAS. INÉRCIA.REJEIÇÃO. MÉRITO. PRESUNÇÕES DE LEGITIMIDADE, LEGALIDADE E VERACIDADE DOS ATOS ADMINISTRATIVOS QUE NÃO FORAM DESARTICULADAS.PARECERES E LAUDOS QUE, NOS AUTOS, NÃO FORAM PRODUZIDOS SOB O CRIVO DO CONTRADITÓRIO. AUTOR QUE NÃO SE DESIMCUMBIU DE SEU ÔNUS PROBATÓRIO.ART. 373 DO CÓDIGO DE PROCESSO CIVIL. APELO CONHECIDO E DESPROVIDO.
+Rejeitados os aclaratórios (e-STJ fls. 2.618/2.621).
+No especial obstaculizado, a parte recorrente apontou violação dos arts. 273, II, 458, II, 535, II, do CPC/1973, sustentando negativa de prestação jurisdicional, bem como a necessidade deconcessão de tutela antecipada no caso dos autos.
+O apelo nobre recebeu juízo negativo de admissibilidade pelo Tribunal de origem, sendo os fundamentos da decisão atacados no presente recurso.
+Contraminuta às e-STJ fls. 2.722/2.734.
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+De início, não conheço dorecurso de e-STJ fls. 2.713/2.727, em razão do princípio da unirrecorribilidade e da preclusão consumativa.
+No pertinente aos arts. 458, II, e 535, II, do CPC/1973,a irresignação esbarra na Súmula 284 do STF, uma vez que os embargos de declaração foram opostos na origem já sob a égide do CPC/2015.
+No que toca à alegação de contrariedade do art. 273, II, do CPC/1973, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa ao dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
