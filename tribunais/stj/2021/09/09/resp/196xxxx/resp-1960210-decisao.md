@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de agravo em recurso especial interposto por FERNADO NAVARRO VINCE, em face de decisão proferida pelo Tribunal de Justiça do Estado do Paraná que inadmitiu o recurso especial manejado contra acórdão assim ementado (fl. 185 e-STJ):
+AGRAVO DE INSTRUMENTO. AÇÃO CIVIL PÚBLICA.RESSARCIMENTO AO ERÁRIO. INDISPONIBILIDADE DE BENS.APLICAÇÃO SUBSIDIÁRIA DA LEI DE IMPROBIDADE ADMINISTRATIVA. INDÍCIOS DE ATOS ÍMPROBOS.DEMONSTRAÇÃO DO FUMUS BONI IURIS.RECURSO DESPROVIDO.
+Houve a oposição de embargos de declaração, os quais foram rejeitados nos seguintes termos (fl. 276 e-STJ):
+EMBARGOS DE DECLARAÇÃO NO AGRAVO DE INSTRUMENTO.AÇÃO CIVIL PÚBLICA DE RESSARCIMENTO AO ERÁRIO.OMISSÕES. VÍCIO NÃO CONSTATADO. AUSÊNCIA DAS HIPÓTESES PREVISTAS EM LEI PARA JUSTIFICAR A INTERPOSIÇÃO DO RECURSO. DECISÃO MANTIDA.RECURSO REJEITADO.
+No recurso especial, interposto com fundamento nas alíneas "a" e "c" do permissivo constitucional, o recorrente aponta violação aos arts. 7º, 16 e 23 da Lei 8.429/92;12 e 19, da Lei 7.347/85; 297 e 300, do CPC/2015,sob o argumento de que, diante da prescrição da responsabilização do agente por ato de improbidade administrativa, inaplicável a Lei 8.429/92 para fins de decretação da indisponibilidade de bens, vez que devem ser aplicadas as regras processuais civis de concessão de medida cautelar - com fundamentação acerca do fumus boni iuris e do periculum in mora, os quais não estão presentes no caso concreto.
+O Ministério Público do Estado do Paraná apresentou contrarrazões às fls. 348/356 e-STJ.
+O Tribunal de origem inadmitiu o recurso especial à consideração de que: a) decisões que concedem ou denegam a medida cautelar não configura decisão de última instância a justificar o cabimento do recurso especial, a teor da Súmula 735/STF; b) a tese de insurgência não foi prequestionada; c) o dissídio jurisprudencial não foi demonstrado corretamente; d) o entendimento acerca da presunção do periculum in mora para fins de decretação da indisponibilidade de bens em ação de improbidade administrativa está em consonância com precedente firmado pelo STJ sob a sistemática dos recursos repetitivos - tema 701; e)a pretensão recursal demanda o revolvimento do conjunto fático-probatório dos autos, o que é inviável em sede de recurso especial em razão da incidência da Súmula 7/STJ.
+O agravo em recurso especial impugnou todos os fundamentos da decisão de inadmissibilidade.
+O Ministério Público do Estado do Paraná apresentou contraminuta às fls. 446/452 e-STJ.
+É o relatório. Passo a decidir.
+Faz-se necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Com efeito, considerando o preenchimento dos requisitos de admissibilidade do agravo e as peculiaridades do caso concreto, o agravo deve ser provido para que seja realizada a sua reautuação como recurso especial.
+Ante o exposto, com fulcro no art. 253, parágrafo único, II, d, do RISTJ, conheço do agravo para determinar sua autuação como recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. IMPROBIDADE ADMINISTRATIVA. INDISPONIBILIDADE DE BENS. IMPUGNAÇÃO DOS TERMOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. AGRAVO CONHECIDO PARA REAUTUAÇÃO EM RECURSO ESPECIAL.
