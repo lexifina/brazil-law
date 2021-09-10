@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se deagravo interposto por ANISSE CHAAYA GOMES DE CARVALHO, contra decisão que inadmitiu recurso especial com fundamento no art. 105, inciso III, da Constituição Federal.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n.os 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, inclusive; ou, se publicada a partir de 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos,percebeu-se, no STJ, haver irregularidade na representação processual do recurso, uma vez quea parte recorrente não procedeu à juntada da procuração e/ou cadeia completa de substabelecimento conferindo poderes aosubscritordo agravo e do recurso especial, Dr. Alessandro Oroandir Nascimento Freire.
+Por outro lado, verificou-se, outrossim,haver falhano recolhimento do preparo.
+No ponto, conquanto tenha o tribunal de origem percebido a ausência do preparo e determinado a intimação da parte, para comprovação da hipossuficiência ou para o recolhimento das custas devidas, bem como tenha a parte apresentado, no prazo estabelecido,a guia e comprovante de pagamento, o preparo ainda restou irregular, tendo em vista que foi recolhido na forma simples, e não em dobro, como devido.
+Dessa forma, determinou-se nova intimação da parte, no STJ, para, no prazo de cinco dias, sanar os vícios da representação processual, bem como para complementar o recolhimento das custas,nos termos do § 2º c/c o § 4º do art. 1.007 do Código de Processo Civil.
+A parte, regularmente intimada para sanar referidos vícios, quedou-se inerte.
+Dessa forma, o recurso não foi devida e oportunamente regularizado, incidindo na espécie os enunciados 115 e 187 da Súmula do STJ, que impedem seu conhecimento, ora em razão da ausência da cadeia completa de procurações, orapor estar deserto.
+Por outro lado, cumpre salientar que, ainda que a parte tivesse providenciado o saneamento do feito,o recurso não seria conhecido, pois manifestamente incabível.
+O agravo de instrumento, previsto no art. 1.015 do CPC, destina-se, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição.
+Para atacar decisão que inadmite apelo especial, o recurso cabível é o agravo previsto no art. 1.042 do Código de Processo Civil, que deve ser dirigido à Presidência do Tribunal de origem e processado nos próprios autos, e não por instrumento, como ocorreu na espécie.
+A interposição equivocada de recurso quando há expressa disposição legal e inexiste dúvida objetiva constitui manifesto erro grosseiro.
+Portanto, é inaplicável ao caso o princípio da fungibilidade, que pressupõe dúvida objetiva a respeito do recurso a ser interposto, inexistência de erro grosseiro e observância do prazo do recurso correto, o que não ocorre na espécie. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/05/2020.
+Por fim, mesmo que se aceitasse a remota possibilidade da aplicação do princípio da fungibilidade, ainda não seria possível conhecer do recurso, porquanto intempestivo.
+Observa-se quea parte recorrente foi intimada do acórdão recorrido em 20/05/2020, sendo o recurso especial interposto somente em 23/06/2020.
+O recurso é, pois, manifestamente intempestivo, porquanto interposto fora do prazo de 15 (quinze) dias úteis, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º, 1.029, e 219, caput, todos do Código de Processo Civil.
+A propósito, nos termos do § 6º do art. 1.003 do mesmo código, "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", o que impossibilita a regularização posterior.
+Não se desconhece das petições apresentadas às fls. 146/147 e 155/156. Ocorre que tais petições não puderam ser conhecidas aos fins a que se destinavam, haja vista a mácula processual do presente feito quanto à representação processual inexistente.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
