@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por CALÇADOS BEIRA RIO S/A contra a decisão mediante a qual conheci doagravo e dei provimento ao recurso especial de RIVA REPRESENTAÇÕES LTDA.
+A embargante afirma que a decisão é omissa, por desconsiderar o fundamento do acórdão recorrido de que não houve concorrência desleal, além de não ter havido uso indevido de marca. Argumenta que o acórdão recorrido também menciona o cerceamento de defesa, por nulidade da prova técnica realizada e ausência de perícia mercadológica. Sustenta que sequer há critérios para apuração do prejuízo e definição do valor indenizatório.
+Em sua impugnação, a embargada alega que o acórdão recorrido diverge da jurisprudência do Superior Tribunal de Justiça, o que fundamenta o provimento do recurso especial. Afirma ser incontroversa a violação de marca registrada, de modo que os prejuízos são presumidos.
+A embargante tem razão.
+Com efeito, consta do acórdão recorrido que "embora seja incontroverso o uso da marca "RIVA" Como parte integrante da marca "RIVA BIANCA" usada pela apelante, a parte autora não provou o uso de sua marca durante o período reclamado nesta ação, haja vista que as notas fiscais de ff. 630/634 são insuficientes como prova dessa alegação." (e-STJ, fl. 1602, grifei).
+Assim, muito embora, tal como ressaltado na decisão ora embargada, seja entendimento assente nesta Corte ser presumido o prejuízo decorrente da contrafação e do uso indevido de marca alheia, fato é que, no caso concreto, não houve demonstração do uso de marca no período reclamado.
+Não há, portanto, que se falar em prejuízo decorrente de utilização indevida de marca. A decisão embargada parte de premissa fática equivocada, admitindo fato que o acórdão recorrido afastou expressamente.
+Sanado tal vício para corrigir a premissa de julgamento, tem-se que o acolhimento das razões do recurso especial para se admitir o prejuízo não dispensa o reexame de prova, tendo em vista a declaração expressa da Corte de origem de que não houve demonstração do uso indevido da marca.
+Aplica-se ao caso a Súmula 7/STJ.
+Do acórdão recorrido, destaco também a afirmação de que não houve prova de concorrência desleal.
+Além disso, só não foi acolhida a preliminar de cerceamento de defesa porque o mérito, alfim, foi resolvido em favor da embargante, a quem aproveitaria a decretação da nulidade. A respeito do tema, o Tribunal de origem observou o seguinte (e-STJ, fl. 1596):
+Como já visto, a apelante alegou, como preliminar, a nulidade da perícia documentoscópica, porque foi deferida a prova pericial gráfica com a finalidade de comparar a grafia das marcas utilizadas e que nessa perícia, inadequadamente, foi feita a comparação entre o seu produto e o certificado de registro da marca da parte apelada, pois esta não fazia uso de sua marca.
+Disse, ainda, que essa perícia foi irregular porque o seu assistente técnico não foi intimado para acompanhá-la; que esse fato foi informado ao juízo "a quo" por sua assistente e confirmado pelos peritos judiciais, o que configura cerceamento de defesa.
+Alegou, ainda, ter requerido a prova pericial mercadológica que foi deferida e esta decisão foi confirmada por este Tribunal no julgamento do agravo de instrumento n.º 460.114-5, mas foi proferida a sentença sem a sua realização, também cerceando o seu direito de defesa.
+A razão lhe assiste, pois, de fato, a sua assistente técnica não foi informada previamente sobre a realização da prova pericial.
+Além disso, a prova deferida não corresponde àquela que foi realizada.
+Ademais, embora tenha sido determinada a produção da prova mercadológica, o que seria necessário para aferir, ao menos em tese, os ganhos que seriam auferidos com o uso da marca em questão, conforme determinado no mencionado agravo de instrumento, esta prova não foi realizada.
+No entanto, como adiante se verá, no mérito a decisão será favorável à recorrente, de tal sorte que cabe rejeitar a preliminar, nos termos do ad. 282, § 2º, do novo CPC.
+Também por esses motivos não seria possível o acolhimento da tese de prejuízo presumido.
+Em face do exposto, acolho os embargos de declaração para conhecer do agravo da embargada, a fim de dar parcial provimento ao recurso especial, apenas para afastar a multa aplicada no julgamento dos embargos de declaração (e-STJ, fls. 1639/1650), nos termos da Súmula 98/STJ e conforme exposto na decisão ora embargada.
+Intimem-se.
