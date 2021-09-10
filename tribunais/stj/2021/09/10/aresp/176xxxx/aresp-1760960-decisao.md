@@ -1,0 +1,44 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo interposto por BANCO REGIONAL DE DESENVOLVIMENTO DO EXTREMO SUL, em face de decisão que inadmitiu recurso especial, aviado pelas alíneas "a" e "c", inciso III, art. 105 da Constituição Federal, contra acórdão do Tribunal Regional Federal da 4ª Região, assim ementado:
+AGRAVO DE INSTRUMENTO - RECUPERAÇÃO JUDICIAL - IMPUGNAÇÃO PARCIAL AO CRÉDITO E CLASSIFICAÇÃO NA RECUPERAÇÃO JUDICIAL - PROCEDÊNCIA - VERBAS SUCUMBENCIAIS INDEVIDAS - AUSÊNCIA DE RESISTÊNCIA - AGRAVANTE QUE NA RECUPERAÇÃO JUDICIAL CONCORDOU COM O CRÉDITO E APÓS O IMPUGNA JUDICIALMENTE - CONCORDÂNCIA PARCIAL PARA EXCLUSÃO DE PARCELA DO CRÉDITO COMO QUIROGRAFÁRIO - PARCELA DE CRÉDITO RETIRADA - NÃO SUJEIÇÃO À RECUPERAÇÃO - SENTENÇA MANTIDA - RECURSO CONHECIDO E NÃO PROVIDO.
+Opostos embargos de declaração, estes foram rejeitados (fls. e-STJ 140/148).
+Em seu recurso especial, a parte recorrente alega, além de dissídio jurisprudencial, violação aoartigo85do CPC, sustentandoque havendo litígio, há imperiosidade de fixação de verba honorária sucumbencial.
+Aduz
+Assim, é possível se verificar em simples passar de olhos que a Justiça paranaense contrariou frontalmente o dispositivo processual, ora invocado, ao deixar de atribuir os honorários advocatícios em demanda que se enquadra de maneira clara nos termos trazidos pelo legislador no Código de Processo Civil, posto que diante da existência de impugnação e litigio, torna-se imperiosa a imposição das verbas honorárias para pagamento pela parte vencida.(e-STJ fl. 168).
+É o relatório.
+Passo a decidir.
+A pretensão recursal não merece prosperar.
+Com efeito, a jurisprudência do STJ é pacífica no sentido de que, em pedido de habilitação de crédito na recuperação judicial ou falência, a existência de litigiosidade autoriza a fixação de honorários advocatícios sucumbenciais.
+Nesse sentido:
+AGRAVO REGIMENTAL NO AGRAVO (ART. 544 DO CPC) - HABILITAÇÃO DE CRÉDITO JULGADA IMPROCEDENTE - HONORÁRIOS FIXADOS COM BASE NO ART. 20, § 4º, DO CPC - MAJORAÇÃO - RECURSO ESPECIAL NÃO ADMITIDO NA ORIGEM - DECISÃO MONOCRÁTICA NEGANDO PROVIMENTO AO RECLAMO. INSURGÊNCIA DO AGRAVANTE/RECORRENTE. . São devidos honorários advocatícios nos procedimentos de habilitação de crédito, desde que haja impugnação: EREsp 188.759/MG, Rel. Ministro ARI PARGENDLER, Rel. p/ Acórdão Ministro CARLOS ALBERTO MENEZES DIREITO, SEGUNDA SEÇÃO, julgado em 27/09/2000, DJ 04/06/2001, p. 55).
+2. Em razão do caráter declaratório do pedido formulado na habilitação, os honorários devem ser arbitrados com base no art. 20, § 4º, do CPC, sobretudo quando a habilitação é considerada improcedente. Precedentes.
+3. "Não é possível vincular a aferição da verba honorária prevista pelo art. 20, § 4º, do CPC ao valor impugnado no pedido de habilitação de crédito, principalmente se desse cálculo resulta quantia absolutamente desproporcional à atuação dos advogados da parte vencedora ou prejuízo excessivo à parte vencida": REsp 1098069/SC, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 04/11/2010, DJe 16/11/2010.
+4. À luz da jurisprudência desta Corte e das circunstâncias peculiares da causa, as quais já foram devidamente ponderadas pelo próprio Tribunal local, que majorou a verba honorária de R$ 30.000, 00 (trinta mil reais) para o expressivo valor de R$ 100.000,00 (cem mil reais), não parece razoável considerar tal quantia como ínfima ou irrisória, a autorizar a intervenção excepcional desta Corte para majorá-la novamente. Incidência do enunciado n º º 7 da Súmula do STJ.
+5. Agravo regimental desprovido. (AgRg no AREsp n. 481.106/SP, Relator o Ministro Marco Buzzi, Quarta Turma, DJe 1/6/2015)
+PROCESSO CIVIL. JULGAMENTO MONOCRÁTICO DE EMBARGOS DE DECLARAÇÃO CONTRA DECISÃO COLEGIADA. PRESENÇA DOS REQUISITOS DO ART. 557 DO CPC. POSSIBILIDADE. POSTERIOR RATIFICAÇÃO PELO ÓRGÃO COLEGIADO. NULIDADE. SUPRIMENTO. RECUPERAÇÃO JUDICIAL. HABILITAÇÃO DE CRÉDITO. IMPUGNAÇÃO. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. SUCUMBÊNCIA RECÍPROCA. SUCUMBÊNCIA. DISTRIBUIÇÃO. PROPORÇÃO DE GANHO E PERDA DE CADA PARTE SOBRE A PARTE CONTROVERTIDA DO PEDIDO.
+1. Admite-se o julgamento monocrático dos embargos de declaração opostos contra decisão colegiada, desde que presentes os requisitos do art. 557 do CPC. Ademais, eventual nulidade da decisão unipessoal ficará superada com a sua ratificação pelo órgão colegiado, na via do agravo interno. Precedentes.
+2. São devidos honorários advocatícios nas hipóteses em que o pedido de habilitação de crédito em recuperação judicial for impugnado, conferindo litigiosidade ao processo. Precedentes.
+3. Nos processos em que houver sucumbência recíproca, a distribuição dos ônus sucumbenciais deve ser pautada pelo exame da proporção de ganho e de perda sobre a parte controvertida do pedido, excluindo-se, portanto, aquilo que o réu eventualmente reconhecer como devido.
+4. Recurso especial parcialmente provido. (REsp 1.197.177/RJ, Relatora a Ministra NANCY ANDRIGHI TERCEIRA TURMA, DJe de 12/9/2013 - sem grifo no original)
+Na hipótese dos autos, o Tribunal de origem considerando a particularidade do caso concreto concluiu pela ausência de litigiosidade, afastando, assim, a sucumbência,nestes termos:
+A controvérsia cinge-se em relação à fixação da verba honorária ao pedido de impugnação, formulado com fundamento no art. 8º da Lei nº 11.101/2005.
+Compulsando os autos do pedido de impugnação (cf. autos nº 0008120-80.2017.8.16.0045), apresentado pelo ora recorrente em apartado à ação de recuperação judicial (vide art. 8º, parágrafo único, da Lei nº 11.101/05), constata-se que a parte Agravante se manifestou pela exclusão parcial do crédito, inscritos no rol de credores quirografários, apenas referente às cédulas bancárias garantidas por alienação fiduciária (Cédulas sob nº PR-46.441, PR-46.961 e PR-47.564), para reconhecer que estas não se sujeitam à Recuperação Judicial.
+Após devidamente intimadas, as recuperandas, ora Agravadas, manifestaram-se pela manutenção do crédito (ev. 24.1 daqueles autos), contrapondo-se ao pleito inicial.
+O Administrador Judicial, por sua vez, opinou pela procedência do pedido inicial de exclusão parcial do crédito, bem como para que passe a constar no Quadro de Credores apenas o valor de R$ 1.466.766,40 (um milhão, quatrocentos e sessenta e seis mil setecentos e sessenta e seis reais e quarenta centavos) (ev. 27.1 daqueles autos).
+Logo, não tem fundamento arbitrar honorários quando inexistente litigiosidade, aliás, a tese consolidada no STJ, a contrário sensu, explicita:
+"São devidos honorários advocatícios quando o pedido de habilitação de crédito for impugnado, em recuperação judicial ou na falência, haja vista a litigiosidade do processo".
+(Jurisprudência em Teses, Edição nº 35 (nº 13): Recuperação Judicial I consultado em:
+http://www.stj.jus.br/SCON/jt/toc.jsp.)
+Frisa-se que a fixação da verba honorária decorre da incidência do princípio da sucumbência, de forma que, aquele que resistir à pretensão e perder a causa deve responder pelas custas e honorários deles decorrentes.
+Na hipótese dos autos, houve apresentação de contestação pelas recuperandas ao pedido de impugnação, porém, o administrador judicial reconheceu o pedido para incluir parte docrédito como não sujeito à Recuperação Judicial e a inclusão de outro como crédito quirografário.
+Em que pese a Agravante tenha se manifestado, durante a fase administrativa, pela majoração do crédito listado, inexistiu qualquer requisição à época pela exclusão de classe - como faz em incidente de impugnação.
+Não bastasse, no caso concreto também houve a concordância por parte do administrador judicial pela procedência do incidente (cf. mov. 27.1), o que reforça o desacolhimento do pleito recursal, por falta de litigiosidade ou resistência à pretensão.
+Portanto, em respeito ao caso concreto, em que sua peculiaridade se perfaz pela própria desídia da Agravante, que inscreveu todo o seu crédito como quirografário, quer porque obteve êxito sem oposição do administrador, a condenação em honorários sucumbenciais em favor do procurador da empresa recorrente não seria a decisão mais justa.(e-STJ fls. 102/104)
+Assim, elidir a conclusão do acórdão recorrido acerca da ausência de litigiosidade no caso concreto, o que afasta a condenação em honorários,demandaria o revolvimento do conjunto fático-probatório dos autos, providência vedada nesta sede especial a teor da Súmula nº 7/STJ.
+Cumpre asseverar que, referido óbice aplica-se ao recurso especial interposto por ambas as alíneas do permissivo constitucional.
+Ante o exposto, conheço do agravo para não conhecerdo recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015).AGRAVO DE INSTRUMENTO. RECUPERAÇÃO JUDICIAL. IMPUGNAÇÃO PARCIAL AO CRÉDITO E CLASSIFICAÇÃO NA RECUPERAÇÃO JUDICIAL. PROCEDÊNCIA. VERBAS SUCUMBENCIAIS INDEVIDAS. AUSÊNCIA DE LITIGIOSIDADE. REVISÃO. SÚMULA Nº 7/STJ.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
