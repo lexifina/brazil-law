@@ -1,0 +1,52 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial interposto por RODOBENS NEGOCIOS IMOBILIARIOS S/A, SISTEMA FACIL, INCORPORADORA IMOBILIARIA - PONTA GROSSA I - SPE LTDAcontra decisão do Tribunal de Justiça do Estado do Paranáque não admitiu recurso especial manejado contra acórdão assim ementado:
+APELAÇÕES CÍVEIS 1 E 2. AÇÃO DE RESCISÃO CONTRATUAL CUMULADA COM PEDIDO DE INCIDÊNCIA DE CLÁUSULA PENAL E REPARAÇÃO POR DANOS MORAIS EMATERIAIS. SENTENÇA QUE JULGOU PARCIALMENTE PROCEDENTES OS PEDIDOS INICIAIS.
+APELAÇÃO CÍVEL (1) - SISTEMA FÁCIL INCORPORADORA IMOBILIÁRIA PONTAGROSSA I - SPE E RODOBENS NEGÓCIOS IMOBILIÁRIOS S. A.:
+1. ALEGAÇÃO DE LEGALIDADE QUANTO A COMISSÃO DE CORRETAGEM, VISTO QUE PREVISTO EM CONTRATO O SEU VALOR E O RESPONSÁVEL PELO PAGAMENTO. ALEGAÇÃO DE APLICABILIDADE DO RECURSO REPETITIVO RESP N. 1.599.511/SP. FALTA DE INTERESSE RECURSAL. AFIRMAÇÕES QUE NÃO CONSTITUEM INSURGÊNCIA A R. SENTENÇA. NÃO CONHECIMENTO.
+2. ALEGAÇÃO DE ILEGITIMIDADE PASSIVA DAS APELANTES/RÉS QUANTO A RESTITUIÇÃO DA COMISSÃO DE CORRETAGEM. NOS TERMOS DO RECURSO REPETITIVO RESP N. 1599511/SP O PROMITENTE VENDEDOR É PARTE LEGITIMA PASSIVA NAS AÇÕES PARA DEVOLUÇÃO A TÍTULO DE COMISSÃO DE CORRETAGEM. ADEMAIS, CASO CONCRETO A PRETENSAO DE DEVOLUÇÃO TAMBÉM DECORRE DA RESCISÃO DO CONTRATO A QUE DEU CAUSA.
+3. RESCISÃO CONTRATUAL QUE SE DEU POR CULPA EXCLUSIVA DAS APELANTES/RÉS/PROMITENTE VENDEDORAS, POR CONSEQUENCIA, OS VALORES PAGOS PELA PROMITENTE COMPRADORA/AUTORA/APELADA COM RECURSOS PRÓPRIOS DEVEM SER RESTITUÍDOS NA SUA INTEGRALIDADE A APELADA/PROMITENTE COMPRADORA.
+4. COMISSÃO DE CORRETAGEM. DEVIDA A SUA RESTITUIÇÃO EIS DAINTE DA RESCISÃO DO CONTRATO, AS PARTES DEVEM RETORNAR AO STATUS QUO ANTE, CABENDO AS APELANTES QUE DERAM CAUSA À RESCISÃO RESTITUIR TODO E QUALQUER VALOR DESPENDIDO PELA ADQUIRENTE, NELA INSERIDA A COMISSÃODE CORRETAGEM.
+5. APLICAÇÃO DE MULTA DE 2%. INCIDÊNCIA DA MULTA ANTE PREVISÃO CONTRATUAL PARA O CASO DE A RESCISÃO CONTRATUAL POR CULPA EXCLUSIVA. SENTENÇA MANTIDA.
+6. HONORÁRIOS RECURSAIS. VERBA HONORÁRIA JÁ FOI ARBITRADA EM PRIMEIRO GRAU NO MÁXIMO PERMITIDO NO § 11º, ART. 85 DO CPC/2015. IMPOSSIBILIDADE DE MAJORAÇÃO.
+RECURSO CONHECIDO EM PARTE E NA PARTE CONHECIDA, DESPROVIDO.
+APELAÇÃO CÍVEL (2) - CAROLINE MENDES DO PRADO:
+1. PEDIDO DE INDENIZAÇÃO POR DANOS MORAIS. NÃO OCORRÊNCIA. CONFIGURAÇÃO DE INADIMPLÊNCIA CONTRATUAL QUE NÃO GERA, POR SI SÓ, DANOS MORAIS, SEGUNDO PRECEDENTES DO STJ. AUSENTE COMPROVAÇÃO DE CONSTRANGIMENTO OU ABALO DE ORDEM MORAL. OCORRÊNCIA DE MERO DISSABOR. SENTENÇA MANTIDA.
+2. PEDIDO DE CONDENAÇÃO A TÍTULO DE LUCROS CESSANTES (ALUGUEL). INCABÍVEIS DIANTE DAS PECULIARIDADES DO CASO. SITUAÇÃO CONCRETA QUE NÃO SE EVIDENCIA TAL DANO MATERIAL. SENTENÇA MANTIDA.
+3. HONORÁRIOS RECURSAIS. VERBA HONORÁRIA JÁ FOI ARBITRADA EM PRIMEIRO GRAU NO MÁXIMO PERMITIDO NO § 11º, ART. 85 DO CPC/2015. IMPOSSIBILIDADE DE MAJORAÇÃO.
+RECURSO CONHECIDO E DESPROVIDO(e-STJ fls. 732/733).
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 811/818).
+Nas razões do especial, as recorrentes apontaram, além de dissídio jurisprudencial, ofensa aos arts. 138, 171, II, 413 e 725 do Código Civil.
+Sustentaram que a rescisão do contrato de compra e venda se deu por culpa exclusiva da compradora, haja vista sua inadimplência, de modo que seria possível a retenção de valores a serem apurados em liquidação de sentença,a título de cláusula penal compensatória e indenizatória.
+Subsidiariamente, mencionando o art. 413 do Código Civil, requereram a retenção de 25% dos valores efetivamente pagos pela recorrida.
+Argumentaram que não têm ingerência na concessão ou não do financiamento junto à instituição financeira, tampouco podem prever a data certa para tanto, não havendo falar em culpa de sua parte para a rescisão contratual.
+Asseveraram ser indevida a devolução da comissão de corretagem, em virtude do decidido por esta Corte Superior nos Temas 938 e 960, que deveriam ser observados, em conformidade com o disposto no art. 927 do Código Civil.
+Alegaram que o corretor alcançou o resultado final, fazendo jus ao pagamento por seu serviço prestado, nos termos ajustados.
+Ao final, ponderaram ser indevida a multa de 2%, tendo em vista a inexistência de culpa das recorrentes pela rescisão contratual.
+Inadmitido o apelo nobre (e-STJ fls. 914/915), vieram os autos conclusos em decorrência da interposição do agravo de fls. 929/939 (e-STJ).
+É o relatório.
+Passo a decidir.
+Inicialmente, registro que o acórdão recorrido foi publicado sob avigência da Lei 13.105/2015, razão por que o juízo de admissibilidade será realizado na forma deste novo édito, conforme Enunciado Administrativo nº3/STJ.
+Atendidos os pressupostos do agravo, prossigo na análise do recurso especial.
+A irresignação não merece prosperar.
+Observa-se que em momento algum a Corte de origem emitiu juízo de valor acerca dos temas insertos nos arts.138, 171, II, 413 do Código Civil, mesmo após terem sido opostos embargos de declaração (que, diga-se, nem sequermencionaram os referidos dispositivos legais), de sorte que o apelo especial, quanto a eles, carece do indispensável requisito do prequestionamento, esbarrando no óbice da Súmula 211/STJ.
+No tocante à suposta necessidade de aplicação do entendimento assentado nos Temas938 e 960 do STJ, as razões recursais apresentam-se deficientes, pois a Corte de origem reputou devida a devolução da comissão de corretagem,in casu, porque não houve a conclusão da prestação de serviço, de acordo com o estipulado no contratoe, ainda, porquehouve o reconhecimento de que a rescisão contratual foi causada pelas recorrentes.
+Assim, o debate acerca da validade da cláusula contratual que transfere ao promitente-comprador a obrigação de pagar a comissão de corretagem nos contratos de promessa de compra e venda de unidade autônoma em regime de incorporação imobiliária, seja ou não no âmbito do programa "Minha Casa, Minha Vida", não guarda relação com os fundamentos do aresto atacado para afastar a tese de impossibilidade de restituição da comissão de corretagem.
+Por conseguinte, mostra-se imperiosa, no ponto, a aplicação, por analogia, da Súmula 284/STF.
+Outrossim, impende reproduzir a passagem do acórdão recorrido em queo Tribunala quoreputou devida a devolução dos valores pagos a título de comissão de corretagem:
+A autora requereu a devolução do valor pago a título de comissão de corretagem, visto que celebrou contrato de prestação de serviços de corretagem imobiliária (mov. 1.14) no importe de R$ 4.220,00, com decorrência da rescisão contratual causada pela parte apelante.
+A r. sentença acolheu a pretensão da parte autora sob o fundamento de que a despeito de estar prevista no contrato e cumprido o dever de informação, o negócio não se concretizou posto que o contrato de financiamento não foi firmado perante a instituição bancária, restando a rescisão do contrato por culpa exclusiva das apelantes e o serviço de corretagem seria prestado até a conclusão do negócio com a assinatura do contrato de financiamento, o que não aconteceu, não se obtendo o resultado útil do contrato, quando as partes tinham conhecimento da necessidade de aprovação do financiamento.
+A sentença não merece reparo neste ponto.
+O art. 725 1  do CC dispõe que a comissão de corretagem é devida quando o resultado previsto no contrato de prestação de serviços é atingido ou quando haja arrependimento das partes.
+Ocorre que, da leitura do contrato de corretagem denota-se que a conclusão da prestação de serviço pela 3ª ré se daria com a assinatura do contrato financiamento, conforme cláusula 3ª, parágrafo segundo, vez que menciona que na prestação de serviço a contratada "se compromete a utilizar de todos os meios pessoais para concretizar a venda".
+A concretização da venda, conforme contrato de compra e venda, se daria pelo pagamento de R$ 101.281,92, dos quais R$9.368,04 (parte A) seriam pagos através de recursos próprios e R$ 91.913,88 (parte B) através de financiamento bancário, o qual não ocorreu por culpa exclusiva das apelantes, conforme acima já concluído anteriormente.
+Ainda que assim não se entendesse, não há que se acolher a tese de impossibilidade de restituição da comissão de corretagem em razão de arrependimento por parte da apelada, previsto no artigo 725 do CC, visto que conforme tratado no item anterior houve reconhecimento de que a rescisão foi causada pelas apelantes, incumbindo a elas, portanto, promover a restituição dos valores dispendidos pela adquirente, dentre os quais está inserida a comissão de corretagem.
+Portanto, devida a restituição da comissão de corretagem cobrada, nos termos da r. sentença(e-STJ fls. 742/743).
+Diante disso, dúvidas não restam de que, para afastar as premissas fixadas pela Corte de origem, em especial a de que não houve a conclusão da prestação do serviço de corretagem, nos termos em que pactuada, e a de que as recorrentes deram causa à rescisão contratual, sendo devida a restituição da comissão de corretagem, seria preciso interpretar cláusulas contratuais erevolver o conteúdo fático-probatório, providências vedadas em sede especial, como dispõem as Súmulas 5 e 7 do STJ.
+Por fim, cumpre salientar que as recorrentes não indicaram dispositivos legaisaptos a embasarem as teses relativas à possibilidade de retenção de valores e ao descabimento da multa de 2%, sendo caso, também em relação a esses tópicos, de incidência, por analogia, da Súmula 284/STF.
+Deixo de majorar os honorários advocatícios, pois já arbitrados no patamar máximo.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. PROMESSA DE COMPRA E VENDA. RESCISÃO CONTRATUAL. FALTA DE PREQUESTIONAMENTO DO DISPOSTO NOS ARTS.138, 171, II, 413 E725 DO CÓDIGO CIVIL. INCIDÊNCIA DA SÚMULA 211/STJ. SUPOSTA INOBSERVÂNCIA DOS TEMAS 938 E 960 DO STJ. FUNDAMENTAÇÃO RECURSAL DEFICIENTE. APLICAÇÃO, POR ANALOGIA, DA SÚMULA 284/STF.COMISSÃO DE CORRETAGEM. FIRMADAS NO ACÓRDÃO AS PREMISSAS DE QUE NÃO HOUVE CONCLUSÃO DA PRESTAÇÃO DO SERVIÇO, DE ACORDO COM OS TERMOS PACTUADOS, E DE QUE A RESCISÃO CONTRATUAL OCORREU POR CULPA DAS RECORRENTES. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. IMPOSSIBLIDADE. ÓBICE DAS SÚMULAS 5 E 7 DO STJ.RESTITUIÇÃO DE VALORES. SUPOSTA POSSIBILIDADE DE RETENÇÃO. MULTA DE 2%. DEFICIÊNCIA NA FUNDAMENTAÇÃO RECURSAL. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF.
+AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
