@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial interposto pela EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOSinterposto contra acórdão do Tribunal Regional Federal da 4ª Região assim ementado:
+ADMINISTRATIVO. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO EXTRAJUDICIAL. ECT. CONTRATO. INADIMPLEMENTO CONTRATUAL.
+1. É vedada a inclusão de novos valores a serem abatidos após o transcurso do prazo preclusivo para a oposição dos embargos, assim como a mudança do pedido após a impugnação.2. Cabia a recorrente comprovar o inadimplemento contratual, ônus do qual não se desincumbiu, nos termos do artigo 373, II, do CPC. Ausente prova do inadimplemento contratual, ônus que incumbia à parte embargante nos termos do inciso II do artigo 373 do CPC, deve ser mantida sentença.
+Nas razões do recurso especial, a recorrente aponta violação dos arts. 535, IV e § 2º, 910, §§ 2ºe 3º, do CPC/2015, aduzindo que (e-STJ, fls. 586/587):
+Conforme mencionado na decisão recorrida a ECT embargou na totalidade os valor executados, entretanto não foram acolhidos os embargos no que tange aos valores das penhoras judiciais que totalizam a quantia de R$ 134.272,56 (quadro abaixo), multas contratuais no valor de R$ 2.341,35 - Cartas 5627 e 5584-2014; R$ 77.322,56 - Carta 0101-2014; e R$ 8.140,90 - Carta 76-2016, bem como R$ 21.122,68, que não foi repassado à recorrida em razão de que esta quantia referia-se a serviços não prestados e cobrados, conforme explicitado e demostrado na carta nº 1175/2015, anexada aos autos e não impugnada pela embargada.
+(..)
+A tese de que haveria necessidade de suscitar de forma específica, na inicial, o abatimento de tais valores não merece prosperar.
+Ressaltasse que foi juntada a documentação que comprovava que tais valores não eram devidos, sendo que, em total desrespeito ao que apregoam os arts. 910, §s 2º e 3º, art. 535, inc. IV e art. 535 §2º do CPC tais montantes não foram abatidos dos valores executados.
+A tese de que "é vedada a inclusão de novos valores a serem abatidos após o transcurso do prazo preclusivo para a oposição dos embargos, assim como a mudança do pedido após a impugnação.", não merece prosperar, pois repete-se, o valor total executado foi embargado pela ECT, sendo que, tão somente, foi juntada documentação referente aos valores supra em data posterior ao ajuizamento dos embargos.
+Cumpre ressaltar, ainda, que da documentação em questão, em respeito ao princípio do contraditório e ampla defesa, foi dado vistas à embargada, que, sequer questionou os valores!
+Dito isto, resta claro e evidente que a decisão a quo contraria os arts. 910, §s 2º e 3º, art. 535, inc. IV e art. 535 §2º do CPC, uma vez que, quando do ajuizamento dos embargos foi impugnado todo o valor executado.
+Houve contrarrazões.
+A inadmissão do recurso especial se deu por incidência das Súmulas n. 5 e 7/STJ.
+É o relatório.
+Passo a decidir.
+Os fundamentos da decisão de fls. 4.197/4.198 (e-STJ) foram devidamente impugnadas, devendo ser analisada a admissibilidade do recurso especial.
+Sobre a questão relativa ao valor da execução, o Tribunal de origem assim se manifestou (e-STJ, fls. 571/572):
+A tais fundamentos não foram opostos argumentos idôneos a infirmar o convencimento do julgador, motivo pelo qual a sentença segue mantida na integralidade, por seus próprios e jurídicos fundamentos.
+Defendeu a embargante, em suas razões de apelação, que, o valor de R$ 134.272,56, repassado à embargada em razão das penhoras judiciais em processos trabalhistas, e os valores referentes às multas contratuais - R$2.341,35 - Cartas 5627 e 5584-2014; R$ 77.322,56 - Carta 0101-2014; e R$8.140,90 - Carta 76-2016- , embora não constem expressamente da inicial, deverão ser abatidos dos valores inicialmente executados, pois estão no conjunto dos valores embargados, uma vez que foi impugnado todo o valorexecutado.
+Com efeito própria embargante admite em seu recurso de apelação que as questões acima suscitadas não constaram de forma expressa na inicial dos presentes embargos à execução.
+Assim, sem razão à embargante, porquanto, como bem pontuou o Juízo a quo, é vedada a inclusão de novos valores a serem abatidos após o transcurso do prazo preclusivo para a oposição dos embargos, assim como a mudança do pedido após a impugnação.
+De igual modo, no tocante à alegada quantia de R$ 21.122,68,relativa à não prestação de serviços cobrados, sobre a prestação parcial do serviço e sobre o não fornecimento de material de limpeza, de fato, não há o que prosperar, face à ausência de prova por parte da embargante acerca da alegada ausência de prestação dos serviços a contento.
+Cabia a recorrente comprovar o inadimplemento contratual, ônus do qual não se desincumbiu, nos termos do artigo 373, II, do CPC.
+Ausente provado inadimplemento contratual, ônus que incumbia à parte embargante nos termos do inciso II do artigo 373 do CPC, deve ser mantida sentença. Assim, não há o que prover das irresignações da apelante.
+Conforme se infere do trecho transcrito, a modificação das conclusões do acórdão recorrido demandaria o revolvimento do acervo fático-probatório dos autos, consubstanciado na verificação dadocumentação referente aos valores supra em data posterior ao ajuizamento dos embargos, supostamente juntada, como afirma apróprio recorrente. Inviável o recurso especial, portanto, por incidência da Súmula n. 7/STJ.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015 c/c o art. 253, parágrafo único, II, a, do RISTJ, conheço do agravo para não conhecer do recurso especial.
+Caso exista nos autos prévia fixação de honorários advocatícios pelas instâncias de origem, determino sua majoração em desfavor da parte recorrente, no importe de 15% sobre o valor já arbitrado, percentual esse justificado pelo tempo decorrido entre a interposição do recurso e a data de julgamento e a complexidade da causa, nos termos do art. 85, § 11, do Código de Processo Civil. Os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal devem ser observados, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. TÍTULO EXECUTIVO. REEXAME DE MATÉRIA DE FATO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
