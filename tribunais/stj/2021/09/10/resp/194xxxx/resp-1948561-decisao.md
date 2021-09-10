@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se recurso especial interposto por ANTONIO CARLOS DE OLIVEIRA, contra decisão que não admitiu recurso especial, este interposto com fundamento no art.105, III, a, da CF, desafiando acórdão proferido pelo Tribunal Regional Federal da 3ª Região, assim ementado (fls. 460/462):
+PREVIDENCIÁRIO. EMBARGOS DE DECLARAÇÃO. CONCESSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. TERMO INICIAL. CORREÇÃO MONETÁRIA. JUROS DE MORA. OBSCURIDADE. CONTRADIÇÃO. OMISSÃO. INEXISTÊNCIA. INTUITO DE PREQUESTIONAMENTO.
+- A parte autora e o INSS opõem embargos de declaração ao v. acórdão (fis.407/413) que, por unanimidade, deu parcial provimento à apelação do requerente, para reformar em parte a sentença e, reconhecendo também a especialidade dos períodos de labor de 15/04/1980 a 01/11/1988, de 03/05/1989 a 30/03/1990, de12/06/1990 a 26/12/1991, de 11/06/1992 a 14/04/1994, de 04/01/1995 a 02/02/1995, de 22/03/1995 a 29/08/1995, de 01/10/1996 a 05/03/1997, de 19/11/2003 a 07/07/2005, de 01/03/2006 a 01/06/2006, de 03/07/2006 a 08/12/2006 e de 09/04/2010 a 13/06/2010, conceder à parte autora o beneficio de aposentadoria por tempo de contribuição desde 16/05/2011 e fixar os consectários legais nos termos da fundamentação.
+- Alega a parte autora, em síntese, a existência de vícios no julgado, no que diz respeito à fixação da data de início do beneficio.
+- O INSS, por sua vez, alega, em síntese, ocorrência de omissão, contradição e obscuridade no julgado quanto aos critérios de incidência da correção monetária. Aduz que a decisão de inconstitucionalidade nas ADIs 4.357 e 4.425 afastou tão somente a possibilidade de atualização pelo índice da poupança (TR) durante o período de tramitação do precatório, não tendo o condão de afastar a aplicação da Lei 11.960/2009 no período anterior.
+- Conquanto sejam os embargos declaratórios meio específico para escoimar o acórdão dos vícios que possam ser danosos ao cumprimento do julgado, não se constata a presença de contradições, obscuridades ou omissões a serem supridas, uma vez que o v. acórdão embargado motivadamente analisou a pretensão deduzida, concluindo pela fixação da DIB na data da citação e pela utilização dos critérios previstos no Manual de Orientação de Procedimentos para Cálculos da Justiça Federal, em obediência à Consolidação Normativa da Corregedoria-Geral da Justiça Federal da 30 Região - Provimento COGE nº 64, de 28 de abril 2005.
+- No que tange ao termo inicial do beneficio, o julgado foi claro ao fixá-lo na data da citação (16/05/2011- fis. 184), tendo em vista que o documento que levou aos enquadramentos realizados nestes autos e que comprovou a especialidade da atividade pelo período suficiente para a concessão da aposentadoria (laudo técnico judicial) não constou no processo administrativo.
+- A matéria atinente aos juros de mora e correção monetária, de ordem constitucional, teve Repercussão Geral reconhecida pelo Colendo Supremo Tribunal Federal no Recurso Extraordinário nº870947 (tema 810).- Declarada a inconstitucionalidade da TR, a correção monetária e os juros de mora incidem nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor por ocasião da execução do julgado, em obediência ao Provimento COGE nº 64, de 28 de abril 2005 e ao princípio do tempus regit actum.
+- Agasalhado o v. acórdão recorrido em fundamento consistente, não se encontra o magistrado obrigado a exaustivamente respondera todas as alegações das partes, nem tampouco ater-se aos fundamentos por elas indicados ou, ainda, a explanar acerca de todos os textos normativos propostos, não havendo, portanto, qualquer violação ao artigo 1022, do CPC. Logo, a argumentaçãose revela de caráter infringente, para modificação do Julgado, não sendo esta a sede adequada para acolhimento de pretensão, produto de inconformismo com o resultado desfavorável da demanda.
+- A explanação de matérias com finalidade Única de estabelecer prequestionamento a justificar cabimento de eventual recurso não elide a inadmissibilidade dos embargos declaratórios quando ausentes os requisitos do artigo 1022, do CPC.
+- Embargos de Declaração improvidos.
+Nas razões do recurso especial, a parte recorrente aponta violação dos arts. 49 e 57, da Lei 8.213/91.
+Sustenta, em síntese, que o termo inicial do benefício deve ser fixado na data do requerimento administrativo.
+Sem contrarrazões.
+É O RELATÓRIO. PASSO À FUNDAMENTAÇÃO.
+A irresignação prospera.
+Isso porque, o Superior Tribunal de Justiça firmou seu entendimento no sentido de que, havendo requerimento administrativo, este é o marco inicial para pagamento de benefício. Veja-se:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO RECURSO ESPECIAL.AUXÍLIO-DOENÇA. TERMO INICIAL. DATA DO REQUERIMENTO ADMINISTRATIVO.RECURSO ESPECIAL REPETITIVO 1.221.517/SP. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Trata o presente caso do termo inicial do benefício auxílio-doença, considerando que o requerimento administrativo fora indeferido pelo INSS.
+2. Em casos como o dos autos, o termo inicial retroage à data do requerimento administrativo.
+3. Agravo regimental não provido.
+(AgRg no REsp 1.439.115/SC, Rel. Ministro MAURO CAMPBELL MARQUES, SEGUNDATURMA, julgado em 08/04/2014, DJe 23/04/2014)
+PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. TERMO INICIAL. REQUERIMENTOADMINISTRATIVO. ENTENDIMENTO FIRMADO EM RECURSO ESPECIAL PROCESSADO NOSTERMOS DO ART. 543-C DO CPC COMO REPRESENTATIVO DA CONTROVÉRSIA.
+1. A Terceira Seção, ao apreciar recurso especial processado nos termos do art. 543-C do Código de Processo Civil, reafirmou o entendimento de que, havendo indeferimento dos benefícios previdenciários de auxílio-acidente, auxílio-doença e aposentadoria por invalidez no âmbito administrativo, o termo inicial fixar-se-á na data do requerimento.
+2. Agravo regimental improvido.
+(AgRg no REsp 1.221.517/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/09/2011, DJe 26/09/2011)
+PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO DE INSTRUMENTO.AUXÍLIO-DOENÇA. TERMO INICIAL DO BENEFÍCIO. REQUERIMENTO ADMINISTRATIVO.PRECEDENTES. AGRAVO IMPROVIDO.
+1. Havendo indeferimento do benefício em âmbito administrativo, o termo inicial dos benefícios previdenciários de auxílio-acidente, auxílio-doença e aposentadoria por invalidez fixar-se-á na data do requerimento. Precedentes do STJ.
+2. Agravo regimental improvido.
+(AgRg no Ag 1.107.008/MG, Rel. Ministro ARNALDO ESTEVES LIMA, QUINTATURMA, julgado em 09/02/2010, DJe 15/03/2010)
+Entretanto, a Corte local decidiu em desconformidade com o entendimento acima demonstrado, fixando o debatido marco inicial do pagamento do benefício na data da citação da Autarquia, razão pela qual merece reparo o aresto combatido.
+ANTE O EXPOSTO, dou provimento ao recurso especial, para fixar o termo inicial do benefíciona data do requerimento administrativo.
+Publique-se.
