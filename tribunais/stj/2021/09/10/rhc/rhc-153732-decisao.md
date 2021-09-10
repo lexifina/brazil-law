@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por EDUARDO APARECIDO DE ALMEIDAcontra acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULOno julgamento do HC n. 2103713-25.2021.8.26.0000.
+Extrai-se dos autos que o paciente teve a prisão temporária decretada e, posteriormente, restou denunciado, juntamente com outros agentes, pela suposta prática do crime previsto no art. 2º, c/c os §§ 2º, 3º e 4º,III e V, da Lei n. 12.850/13 e no art. 1º da Lei n. 9.613/98, c/c os arts. 29 e 69, ambosdo Código Penal (comando de organização criminosa transnacionalarmada e lavagem de dinheiro).
+Ao receber a denúncia, em 23/10/2020, o Juiz de primeiro grau acatou o requerimento ministerial e decretou a prisão preventiva dos acusados. Posteriormente, o Magistrado singularreavaliou a necessidade da prisão preventiva, mantendo-a.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdão que restou assim ementado:
+"HABEAS CORPUS Prisão preventiva decretada por suposta prática dos crimes de organização criminosa armada e lavagem de dinheiro (art. 2º, §2º e §3º e III e V do §4º, da Lei nº 12.850/13 e art. 1º da Lei nº 9.613/98 c. c arts. 29 e 69 do CP) - Pretensão à concessão de liberdade provisória - Não acolhimento - Presença dos requisitos da segregação cautelar (fumus comissi delicti e periculum libertatis), de acordo com os artigos 312 e 313, inciso I, do CPP - Decisão suficientemente fundamentada - Constrangimento ilegal não configurado - Ordem denegada." (fl. 160).
+No presente recurso a defesa sustenta a ausência de fundamentação idônea e individualizada, que justifique a prisão preventiva do recorrente, baseada apenas na gravidade abstrata do delito. Aponta não estarem presentes os requisitos autorizadores do art. 312 do Código de Processo Penal - CPP.
+Afirma não existir nos autos efetiva comprovação da participação do recorrente nas condutas criminosas, havendo, tão somente indícios que ainda deverão passar pelo crivo do contraditório, não podendo ser tidos por verdadeiros.
+Relata que o recorrente encontra-se cumprindo pena por delito anterior desde 2018, estando recolhido em presídio federal, o que demonstra a impossibilidade do cometimento dos delitos ora imputados
+Pugna, assim, em liminar e no mérito, pela revogação da prisão preventiva, com expedição de alvará de soltura em favor do recorrente.
+É o relatório.
+Decido.
+O presente recurso traz idênticos pedido e causa de pedir ao formulado no RHC 148.830/SP, recentemente julgado por esta Corte Superior em decisão da minha relatoria, publicada em 18/8/2021, na qual analisei o mérito das alegações relativas à prisão preventiva do ora recorrente nos autos da Ação Penal 0029702-40.2020.8.26.0050.
+Embora inicialmente impugnem acórdãos diversos, em ambos se questiona a prisão preventiva decretada em desfavor do paciente, e mantida em suas reavaliaçõessem acréscimo de novos fundamentos que justifiquem nova análise por esta Corte Superior.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste recurso. Nesse sentido:
+PROCESSUAL PENAL. AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. NÃO CONHECIMENTO. MERA REITERAÇÃO DE PEDIDO. EXAME DO MÉRITO EM WRIT ANTERIOR. SUPRESSÃO DE INSTÂNCIA NA REVISÃO CRIMINAL. AGRAVO DESPROVIDO.
+I - Inviável o reexame de matéria de mérito já apreciada em habeas corpus anteriormente julgado, pois configura a inadmissível reiteração de pedido; da mesma forma que não se admite a revisão criminal de forma originária neste Superior Tribunal de Justiça, quando competir ao eg. Tribunal de origem, por representar indevida supressão de instância; tudo, nos termos do art. 210, do RISTJ: "Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente". Precedentes. Agravo regimental desprovido.
+(AgRg no RHC 124.697/MG, Rel. Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/04/2020, DJe 17/04/2020)
+Por tais razões, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se
