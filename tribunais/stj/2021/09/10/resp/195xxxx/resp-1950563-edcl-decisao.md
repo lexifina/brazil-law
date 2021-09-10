@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por Companhia Excelsior de Segurosà decisão proferida por esta relatoria nos termos da seguinte ementa (e- STJ, fl. 723):
+RECURSO ESPECIAL. AÇÃO DE RESPONSABILIDADE SECURITÁRIA.SEGURO HABITACIONAL. SFH. VÍCIOS DE CONSTRUÇÃO DEMONSTRADOS. CABIMENTO DA COBERTURA SECURITÁRIA.QUESTÃO PACIFICADA PELA SEGUNDA SEÇÃO. RECURSO CONHECIDO E PROVIDO.
+Alega a embargante a existência de vício na decisão embargada.
+Para tanto, aponta contradição entre a determinação de retorno dos autos ao TJPR para novo julgamento e a ratio decidendi do REsp n. 1.804.965/SP, tendo em vista que os víciosencontrados no imóvel estariam associados a vícios construtivos superficiais e não estruturais.
+A impugnação não foi apresentada, conforme certidão defl. 741 (e-STJ).
+Brevemente relatado, decido.
+Os embargos de declaração são cabíveis quando existir no julgado omissão, contradição, obscuridade ou ainda erro material, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+Dito isso, não merece acolhimento a apontada contradição na decisão embargada. Isso porque, conforme consignado na decisão embargada (e-STJ, fls. 723-729), a partir dos trechos transcritos do acórdão do Tribunal de origem, ficou asseverado que o perito, ao ser indagado sobre a existência de vícios construtivos, foi categórico em responder positivamente e afirmar que"Os vícios construtivos, entendidos como sendo o emprego de materiais e técnicas inadequados à finalidade da obra, têm origem na fase de projeto e/ou execução das edificações, podendo os danos surgir logo após a ocupação ou algum tempo depois" (e-STJ, fl. 726).
+Destarte, o provimento do recurso especial interposto pela ora embargada, a fim de determinar a cobertura securitária para os vícios de construção demonstrados nos autos, deu-se com base na jurisprudência firmada pela Segunda Seção desta Corte no sentido de que, à luz dos parâmetros da boa fé objetiva e da função do contrato, "não é compatível com a garantia de segurança esperada pelo segurado supor que os prejuízos que se verificam em decorrência de vícios de construção estejam excluídos da cobertura securitária"- (REsp 1.804.965/SP, Rel. Ministra Nancy Andrighi, Segunda Seção, julgado em 27/5/2020, DJe 1º/6/2020, sem grifo no original - sem grifo no original).
+Desse modo, ao analisar a questão aduzida no recurso especial, decidiu-se por aplicar o atual entendimento jurisprudencial desta Corte sobre o tema em debate, de forma clara e fundamentada, sem incorrer nos vícios de obscuridade, contradição ou omissão com relação a ponto controvertido relevante, cujo exame pudesse levar a um diferente resultado na prestação de tutela jurisdicional.
+Portanto, a decisão embargada não possui vício a ser sanado por meio dos embargos de declaração, apenas se constata o nítido caráter modificativo da parte embargante, medida inadmissível nesta espécie recursal.
+Evidente, portanto, a impossibilidade de acolhimento dos presentes aclaratórios, pois devidamente motivada a decisão, além de não ter sido demonstrada a ocorrência de nenhuma das hipóteses do art. 1.022 do Código de Processo Civil de 2015.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE OU ERRO MATERIAL. INEXISTÊNCIA. PRETENSÃO DE REDISCUSSÃO DA MATÉRIA. IMPOSSIBILIDADE. EMBARGOS REJEITADOS.
