@@ -1,0 +1,33 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto pelaDefensoria Pública da Uniãocontra decisão que inadmitiu o recurso especial com base ne ausência de prequestionamento (e-STJfls. 4609-4611).
+A parte agravante sustentaser hipótese de prequestionamento implícito e ter sido suscitada a matéria em embargos aclaratórios (e-STJfls. 4.677-4.681).
+Parecer pelo conhecimento, para provimento do especial (e-STJfls. 4.762-4.766).
+Processo com preferêncialegal (art. 12, § 2º, VII, do CPC/15, c/c a Meta 6/CNJ/2021 - "Identificar e julgar até 31/12/2021: 99% dos recursos oriundos de ações coletivas distribuídos a partir de 1/1/2015"e Meta 12/CNJ/2021 - "Identificar e julgar 40% dos processos relacionados às ações ambientais, distribuídos até 31/12/2020").
+É o relatório.
+Atendidos os requisitos de conhecimento dopresente agravo, passo a examinar o recurso especial interposto (e-STJfls. 4.477-4.482).
+Trata-se de recurso especial interposto, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 4ª Regiãoassim ementado:
+PROCESSUAL CIVIL. LICENCIAMENTO. DESISTÊNCIA. PERDA DE OBJETO DA AÇÃO CIVIL PÚBLICA. HÁ PERDA SUPERVENIENTE DO OBJETO DA AÇÃO CIVIL PÚBLICA QUE QUESTIONA A PRETENSÃO DE LICENCIAMENTO AMBIENTAL QUANDO A EMPRESA INTERESSADA NA EXPLORAÇÃO ECONÔMICA DESISTE DE PROSSEGUIR COM A PRETENSÃO ADMINISTRATIVA. SENTENÇA DE EXTINÇÃO DA AÇÃO SEM RESOLUÇÃO DE MÉRITO MANTIDA.
+Os embargos de declaração foram rejeitados (e-STJfls. 4.395-4.396).
+Defende, em síntese, inexistir perda superveniente do interesse processual pela desistência de exploração econômica, na medida em que o objeto da ação coletiva é mais amplo que apenas a licença ambiental do empreendimento específico(arts. 485, VI, e 489, § 1º, IV, do CPC/2015).
+Decido.
+O acórdão enfrentou a matéria, ainda que implicitamente, ao menos quanto ao art. 485 do CPC/2015, o que basta para a configuração do prequestionamento acerca do dispositivo.
+Nesse passo, para a origem, os vários pedidos da ACP seriam dependentes da licença ambiental. Com a desistência do processo específico pela mineradora, o licenciamento da obra questionada foi arquivado. Por isso, todos os demais pedidos restavam prejudicados e as partes careceriam de interesse processual na lide.
+Para os recorrentes, em particular a DPU, aqui tratada, o interesse permanece, na medida em que a pretensão principal é impedir o desenvolvimento de qualquer atividade poluidora no bioma Mata Atlântica do local e obter indenização pelo empreendimento. Além disso, uma das rés já teria licença minerária.
+Consta no acórdão a seguinte assertiva, extraída da sentença (e-STJfl. 4200):
+No caso dos autos, não há utilidade ou necessidade de qualquer decisão a respeito de um empreendimento cuja realização, nos moldes em que proposto, não mais se concretizará. Apesar de se poder concluir pela manutenção da intenção da empreendedora no projeto, haja vista ser a proprietária do terreno e possuir a autorização do DNPM para extração mineral, a sua efetivação dependerá necessariamente de novo processo de licenciamento, no qual todas as exigências precisarão ser cumpridas antes de uma conclusão por parte do órgão licenciador acerca de sua viabilidade, como, aliás, afirma a própria FATMA, no documento que comunica o arquivamento do processo (Evento 39, OFIC3).
+Nos pedidos principais (e-STJfls. 135-137), constam, além dos relativos ao seguimento do licenciamento (concentrados, a rigor, nas pretensões liminares), e excluídos os afetados por preclusão e ilegitimidade passiva: i) imposição de obrigação de não fazer consistente na abstenção de empreender qualquer atividade danosa ao meio ambiente no local; ii) indenização de 10% do valor já então gasto no EIA/RIMA, por violação do direito à informação; iii) apresentação de relatórios de saúde, em especial doenças pulmonares e acidentes de trabalho, enfrentados nos locais de atuação das rés nos últimos 20 anos; iv) suspensão de financiamentos de bancos públicos em favor das rés; e v) vedação dos órgãos ambientais de autorizar a supressão de vegetação às margens dos cursos d"água do município.
+Nesse passo, descabe falar em ausência de interesse processual. Pode ser, como sinaliza o acórdão dos aclaratórios, que os pedidos sejam imeritórios, mas não se pode concluir pela ausência de interesse de agir diante deles. Nada da interrupção do licenciamento afeta tais parcelas da pretensão dos autores, que devem ser julgadas conforme entender-se de direito.
+A propósito:
+ ..
+2. A preliminar de perda de objeto ante o fato de já estar em funcionamento a usina não se sustenta perante a existência de pedido indenizatório na exordial.
+ ..
+(REsp 1669681/MT, de minha relatoria, SEGUNDA TURMA, julgado em 19/04/2018, DJe 25/04/2018).
+ ..
+III. No acórdão objeto do Recurso Especial, o Tribunal de origem julgou parcialmente procedente o pedido, em Ação Civil Pública ajuizada pelo ora recorrido, no qual postula seja declarada a ilegalidade da cobrança de valores pela inscrição no CPF, realizada em agências dos Correios.
+IV. No caso, o Tribunal de origem, após a interpretação da petição inicial, concluiu que o o pedido formulado "visou não apenas a clausula quarta do convênio ECT/SRF, mas o fato em si de se cobrar do contribuinte pela realização de um cadastro junto à Receita Federal". Nesse contexto, somente haveria perda do objeto da ação caso a agravante comprovasse que tais valores deixaram de ser cobrados, o que não ocorreu, no caso, tendo em vista a posterior celebração de convênios idênticos.
+V. Nos termos da jurisprudência do Superior Tribunal de Justiça, "o pedido é o que se pretende com a instauração da demanda e se extrai da interpretação lógico-sistemática da petição inicial, sendo de levar-se em conta os requerimentos feitos em seu corpo e não só aqueles constantes em capítulo especial ou sob a rubrica "dos pedidos"" (STJ, REsp 284.480/RJ, Rel. Ministro SÁLVIO DE FIGUEIREDO TEIXEIRA, QUARTA TURMA, DJU de 02/04/2001). Nesse mesmo sentido: STJ, AgRg no AREsp 322.510/BA, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 25/06/2013; AgInt no AREsp 912.511/RS, Rel.Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, DJe de 22/09/2016.
+VI. Agravo interno parcialmente conhecido e, nessa parte, improvido.
+(AgInt no REsp 1.217.256/SC, Rel. Min. ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 19/9/2017, DJe 28/9/2017).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 253, parágrafo único, II, "c", do RISTJ, conheço do agravo para conhecer do recurso especial e dar-lhe provimento, a fim de seguimento à ação civil pública na origem.
+Publique-se. Intimem-se.
