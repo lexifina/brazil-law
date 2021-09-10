@@ -1,0 +1,25 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+Trata-se de agravo interno interposto por Rumo Malha Sul S.A. e All - América Latina Logística Malha Sul S.A. contra decisão, assim ementada (fl. 2.907):
+ADMINISTRATIVO E PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. ANTT. PROCESSO ADMINISTRATIVO SIMPLIFICADO. ALEGAÇÕES FINAIS. PREVISÃO. AUSÊNCIA. NULIDADE. INOCORRÊNCIA. PRECEDENTES. RECURSO ESPECIAL PROVIDO.
+A parte agravante alega, em síntese, a inadmissibilidade de recurso especial para analisar ofensa à Resolução Administrativa. Sustenta a ofensa aos arts. 2º, parágrafo único, inciso X, 44, 50 e 69 da Lei n. 9.784/1999, ao argumento de que o processo administrativo não obedeceu aos princípios da legalidade, do devido processo legal e da ampla defesa, em virtude da ausência de intimação da Rumo para apresentação de alegações finais.
+Enfatiza que o art. 78-C da Lei n. 10.233/2001 prevê a proteção ao contraditório e à ampla defesa.
+Defende, ainda,a ausência de violação do art. 69 da Lei n. 9.784/1999, ao fundamento de que, havendolacuna no procedimento simplificado da ANTT que limite a ampla defesa do administrado, aplicam-se, subsidiariamente, as regras da Lei n. 9.784/1999, ou do art. 364, § 2º, c/c o art. 15 do CPC, que asseguram à parte a apresentação de alegações finais.
+Comimpugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. NÃO IMPUGNAÇÃO AOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182/STJ.
+1.A ausência de impugnação específica aos fundamentos da decisão agravada impõe o não conhecimento do recurso. Incidência da Súmula 182/STJ.
+2. Agravo interno não conhecido.
+VOTO
+O EXMO. SENHOR MINISTRO BENEDITO GONÇALVES (Relator):
+A irresignação não merece prosperar.
+A decisão agravada deu provimento ao recurso especial para anular o acórdãoa quode fls. 2.470-2.479 e o acórdão proferido no julgamento dos embargos de declaração às fls. 2.499-2.502, a fim de que o Tribunal de origem prossiga nos exames das apelações, aos seguintes fundamentos: (a) não evidenciada a ofensa ao art. 1.022 do CPC/2015; e (b) dissonância do acórdãoa quocom a jurisprudência desta CorteSuperiorno sentido de que a falta de previsão na Resolução ANTT n. 442/2004 para oferecimento de alegações finais não enseja omissão normativa, mas simplificação do processo administrativo, motivo pelo qual não há cerceamento de defesa em sua não oportunização, não sendo o caso de aplicação do disposto na Lei n. 9.784/1999.A propósito, vide:AgInt no REsp 1.884.482/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 17/2/2021; AgInt no REsp 1.886.746/PR, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 26/2/2021; REsp 1.902.700/PR, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 2/3/2021; REsp 1.889.364/PR, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 21/10/2020; AgInt nos EDcl no AgInt no AREsp 1.152.519/PR, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 19/12/2019; AgInt no REsp 1.779.362/PR, Rel. Min. Herman Benjamin, Segunda Turma, DJe 12/9/2019; REsp 1.723.086/RS, Rel. Min. Og Fernandes, Segunda Turma, DJe 18/9/2018; AgInt no REsp 1.581.109/PR, Rel. Min. Gurgel de Faria, Primeira Turma, DJe 26/10/2017. E, ainda, as seguintes decisões: REsp n. 1.907.282/PR, Rel. Min. Regina Helena Costa, DJe 23/3/2021; REsp n. 1.876.283/PR, Rel. Min. Regina Helena Costa, DJe 23/3/2021; REsp n. 1.921.593/RS, Rel. Min. Regina Helena Costa, DJe 22/3/2021.
+Ocorre que a parte agravante não impugnou, especificamente, a referida fundamentação, razão pela qual impõe-se a incidência da Súmula 182/STJ: "É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão agravada".
+A propósito, confiram-se: AgInt no RE no AgRg no AREsp 786.603/RJ, Rel. Min. Humberto Martins, Corte Especial, DJe 18/10/2016; AgRg nos EREsp 1.424.371/SC, Rel. Min. Humberto Martins, Primeira Seção, DJe 20/4/2016; AgRg na Rcl 20.329/SC, Rel. Min. Napoleão Nunes Maia Filho, Primeira Seção, DJe 12/11/2014; AgInt no AREsp 884.901/SP, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 27/5/2016; AgRg no AREsp 569.843/PE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 11/11/2015; AgRg nos EDcl no AREsp 540.188/GO, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 13/10/2015; AgInt no AREsp 873.251/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 30/5/2016; AgInt no AREsp 866.675/SP, Rel. Min. Assusete Magalhães, Segunda Turma, DJe 25/5/2016; e AgRg no REsp 1.463.385/RN, Rel. Min. Og Fernandes, Segunda Turma, DJe 22/10/2015.
+Ante o exposto, não conheço do agravo interno.
+É como voto.
