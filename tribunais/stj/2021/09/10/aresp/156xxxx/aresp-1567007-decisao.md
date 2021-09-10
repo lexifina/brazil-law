@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de agravo contra o juízo de admissibilidade que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+ILEGITIMIDADE PASSIVA - Desacolhimento - Legitimidade da operadora do seguro saúde, responsável pela reativação em caso de cancelamento indevido - Preliminar rejeitada. PLANO DE SAÚDE - Obrigação de fazer - Aplicação do disposto no art. 252 do RITJSP - Manutenção do plano de saúde após o rompimento do vínculo empregatício - Procedência do pedido - Inconformismo da ré - Desacolhimento - Autor aposentado que contribuiu para o plano de saúde por mais de 10 anos - Aplicação do art. 31 da Lei n. 9.656/98 - Acordo entre a requerida e a ex-empregadora que não pode atingir o direito do autor decorrente de lei - Sentença mantida. Preliminar rejeitada e recurso desprovido.
+A parte agravante sustenta, em resumo, que não pode ser obrigada a manter o autor em plano que não mais existe, pois a ex-empregadora do autor rescindiu o contrato de prestação de serviços de saúde.
+Oportuno o exame do seguinte trecho do voto condutor do acórdão recorrido, in verbis:
+E mais, eventual cancelamento posterior do contrato por distrato entre a recorrente e a estipulante não afasta o direito do autor de ser mantido no plano de saúde que vigorava na ocasião do seu desligamento, sobretudo porque a partir da demissão seu vínculo com a ex-empregadora já não subsiste, restando a relação jurídica entre o beneficiário e a seguradora, nos termos do art. 31 da Lei n. 9.656/98.
+A Corte de origem decidiu em desconformidade com a jurisprudência do STJ, segundo a qual não há obrigação da prestadora de plano de saúde manter segurado em plano de saúde coletivo cancelado por seu ex-empregador. Nesse sentido:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CIVIL. PLANO DE SAÚDE COLETIVO. CANCELAMENTO DO CONTRATO PELA EX-EMPREGADORA DO SEGURADO APOSENTADO. MANUTENÇÃO DO BENEFICIÁRIO (EX-EMPREGADO) NO PLANO DE SAÚDE NAS MESMAS CONDIÇÕES E VALORES DE MENSALIDADES DA ÉPOCA DO VÍNCULO EMPREGATÍCIO. INVIABILIDADE. PRECEDENTES STJ. AGRAVO DESPROVIDO.
+1. A jurisprudência do STJ já firmou entendimento de que, nas
+hipóteses de cancelamento de contrato de plano de saúde coletivo
+firmado entre a seguradora e a ex-empregadora do beneficiário, não há fundamento legal para obrigar o plano de saúde a manter o ex-empregado no contrato coletivo extinto, com as mesmas condições e valores anteriormente vigentes. Precedentes.
+2. Todavia, o beneficiário possui direito a ser incluído no novo plano de saúde coletivo estipulado pela ex-empregadora, com as mesmas condições de cobertura assistencial disponibilizada aos empregados ativos, ou fazer a migração para plano de saúde na
+modalidade individual ou familiar, sem cumprimento de novos prazos de carência, desde que se submeta às novas regras e encargos inerentes a essa modalidade contratual.
+3. Agravo interno não provido.
+(AgInt no AREsp 891990/RS, Relator Ministro LÁZARO GUIMARÃES, QUARTA TURMA, DJe 09/02/2018)
+SEGURO SAÚDE. PLANO DE SAÚDE COLETIVO ESTIPULADO ENTRE A SEGURADORA E PESSOA JURÍDICA DE DIREITO PÚBLICO, EMPREGADORA DA RECORRIDA. RESILIÇÃO DO CONTRATO. POSSIBILIDADE. INVIABILIDADE DA MANUTENÇÃO DO CONTRATO, NAS MESMAS CONDIÇÕES, COM RELAÇÃO À BENEFICIÁRIA, CONSIDERADA INDIVIDUALMENTE.
+1. A Lei 9.656/98 não impede a resilição dos chamados contratos coletivos de assistência médica, celebrados entre as operadoras de planos de saúde e as empresas. Na hipótese dos autos, essa afirmação é ainda mais significativa, porque o contrato coletivo do qual a recorrida era beneficiária foi firmado entre as recorrentes e o TRE/PE pessoa jurídica de direito público interno e, portanto, submetida às normas que regem o direito administrativo.
+2. Mesmo que em algumas situações o princípio da autonomia da vontade ceda lugar às disposições cogentes do CDC, não há como obrigar as operadoras de planos de saúde a manter válidas, para um único segurado, as condições e cláusulas previstas em contrato coletivo de assistência à saúde já extinto.
+3. Recurso especial parcialmente conhecido e provido.
+(REsp 1119370/PE, Relatora Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 17/12/2010)
+Ocorre que a Corte de origem examinou o tema de forma superficial, sem atestar o fato alegado pela ora recorrente, que pode alterar o resultado do julgamento, fato esse que não pode ser verificado em sede de recurso especial, em face do óbice da Súmula n. 7 desta Corte.
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial, para determinar o retorno dos autos ao juízo de origem, que deverá examinar se houve a rescisão do contrato entre ex-empregadora estipulante e a prestadora do serviço de saúde, adequando seu entendimento à jurisprudência do STJ.
+Intimem-se.
