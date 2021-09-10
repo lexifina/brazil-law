@@ -1,0 +1,20 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto pelo Estado do Rio de Janeiro, com base no art. 105, III, alíneas "a" e "c", da Constituição da República/1988, em oposição a acórdão do Tribunal de Justiça do Estado do Rio de Janeiro assim ementado (e-STJ, fl. 332):
+Embargos à execução fiscal. ICMS-ST. Descontos incondicionais. Exclusão da base de cálculo.Incidência do Enunciado 457 da Súmula do STJ.Termo de acordo. Pretensão de extensão dos efeitos à empresa integrante do grupo econômico. Descabimento. Necessidade de aderência individualizada. Entes autônomos.Sentença mantida. Apelações desprovidas pelo relator. Decisão monocrática mantida. Agravos internos desprovidos.
+Os embargos de declaração opostos pelo ente federativoforam rejeitados.
+Em suas razões, orecorrente levanta prefacial de ofensa ao art. 1.022 do CPC/2015, aduzindo omissão quanto ao arguidoequívoco na premissa de fato do aresto embargado, no que tange à inaplicabilidade da Súmula 457/STJ ao regime de substituição tributária.
+No mérito, aponta violação do art. 8º da LC 87/1996, além de dissídio jurisprudencial.
+Contrarrazões recursais apresentadas às e-STJ, fls. 440-454.
+Admitido o recurso especial na origem (e-STJ, fls. 579-581), subiram os autos a esta Corte.
+É o relatório.
+Orecorrente aduz ter havido omissãono acórdão combatido, concernenteao esclarecimento de premissa de fato que afastaria a aplicação da Súmula 457/STJ à hipótese, haja vista se tratar de caso de substituição tributária.
+Observa-se haver, de fato, a apontada contrariedade ao art. 1.022, II, do CPC/2015, na medida em que a Cortea quonão respondeu aoquestionamentoformuladopela então embargante.
+É dopróprio relatório do acórdão que julgou osembargos de declaração do ente federativoaseguintepassagem(e-STJ, fl. 365):
+Alega, em síntese, o recorrente que há omissão no julgado, quanto à substituição tributária existente na espécie. Argumenta que a Súmula 457 do STJ não se aplica ao caso concreto. Ressalta que demonstrou ao longo de todo o processo "que a causa em julgamento envolvia o instituto da substituição tributária, que, por sua vez, traz como consequência tratamento diverso no tocante à aferição da base de cálculo do ICMS" (sic - TJe 355/2). Acrescenta que "o mecanismo da substituição tributária existe para facilitar o processo fiscalizatório da Administração Tributária, garantindo mecanismos de controle sobre a cadeia produtiva em que o contribuinte de direito - o vendedor - recolhe não apenas o tributo por ele devido, mas também antecipa o montante relativo à operação subsequente" (sic - TJe 355/2). Aduz que a base de cálculo em tais casos deve observar o disposto no art. 8º, § 6º, da Lei Complementar nº 87/96. Cita precedente a favor de sua tese. Requer o expresso enfrentamento, para fins de prequestionamento, das teses jurídicas e dos dispositivos apontados neste recurso, sob pena de violação ao arts. 150, § 7º, da CRFB/88; 108 e 111 do CTN; 8º, § 6º, e 13, § 1 o , II, "a", da LC 87/96; e 489, § 1 o, IV e V, e 1.022, II, do CPC/15.
+Acrescenta, ainda, que os embargos têm por fim o prequestionamento. Cita precedentes. Pede o provimento do recurso (TJe 355/1-5).
+Nota-se, portanto, que o Tribunal de origem foi provocado acerca dotema, não tendo, contudo, exarado consideração algumasobre a alegada hipótese de substituição tributária, e se confirmada a hipótese, sobre a aplicabilidade, ou não, da orientação sumular invocada.
+Assim, tendo o aresto impugnado deixado de analisar matéria de relevância para o deslinde da controvérsia, inviabilizando o conhecimento do apelo especial, em flagrante afronta ao art. 1.022, II, do CPC/2015, impõe-se o reconhecimento de sua nulidade.
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, assim como na Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, para anular o acórdão dos embargos de declaração.
+Determino o retorno dos autos à Corte de origem,a fim de que se manifeste, expressamente, acerca do quanto alegadoem declaratória.
+Publique-se. Intimem-se.
