@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de agravo interposto por Solaio Construções e Incorporações Ltda. contra decisão que não admitiu o processamento do apelo extremo.
+Verifica-se que a agravante ajuizou ação de obrigação de fazer combinada com indenizatória, julgada parcialmente procedente.
+Interposta apelação pela agravada, a Vigésima Câmara Cível do Tribunal de Justiça do Estado do Tribunal de Justiça do Estado do Rio Grande do Sul deu parcial provimento ao recurso, em acórdão assim ementado (e-STJ, fl. 576):
+APELAÇÃO CÍVEL. PROMESSA DE COMPRA E VENDA. OBRIGAÇÃO DE FAZER. INDENIZATÓRIA.
+Não há falar em intempestividade do recurso em razão do disposto pelo art. 1.003, § 6º, do Código de Processo Civil, pois a suspensão de prazos do recesso forense constitui fato público e notório na Corte. Preliminar rejeitada.
+Caracterizado o descumprimento contratual apenas por parte da promitente vendedora, visto que se manteve inerte diante da sua obrigação de proceder no desmembramento e regularização da área, tendo a adquirente já efetuado o adimplemento substancial da promessa de compra e venda. Ademais, impositiva a incidência da multa, reduzido, todavia, o percentual previsto no contrato. Voto vencido da Relatora, no ponto.
+DERAM PARCIAL PROVIMENTO AO APELO, VENCIDA EM PARTE A DESª WALDA, QUE MANTINHA A DECISÃO RECORRIDA INTEGRALMENTE.
+Os embargos de declaração opostos foram rejeitados.
+O processamento do apelo especial não foi admitido pela Corte local sob os seguintes fundamentos:
+(i) inviabilidade de este Superior Tribunal analisar ofensa a dispositivos constitucionais, no âmbito do recurso especial;
+(ii) incidência do óbice da Súmula n. 211/STJ, por ambas as alíneas do permissivo constitucional, haja vista que o conteúdo normativo contido nos arts. 104, 166, 171 e 412 do CC e 2º, §§ 1º e 2º, e 22, § 2º, da Lei n. 8.906/1994 não foi objeto de exame no acórdão recorrido;
+(iii) no tocante à possibilidade de controle judicial do valor da multa compensatória, aplicação das Súmulas n. 5, 7 e 83 do STJ; e
+(iv) incidência do óbice da Súmula n. 7/STJ quanto ao redimensionamento da verba honorária, uma vez que necessária a incursão no conjunto fático-probatório dos autos, o que também impede o exame da divergência jurisprudencial.
+Brevemente relatado, decido.
+De início, observa-se que é dever da parte recorrente combater especificamente todos os fundamentos da decisão agravada, demonstrando o desacerto do decisum que não admitiu o recurso especial, nos termos do que preconiza o art. 932, III, do Código de Processo Civil de 2015.
+Nesse sentido:
+PROCESSO CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS FUNDAMENTOS DA DECISÃO DENEGATÓRIA DE ADMISSIBILIDADE DO RECURSO ESPECIAL. DESCUMPRIMENTO DOS REQUISITOS PRECONIZADOS PELO ART. 932, III, DO NCPC (ART. 544, § 4º, I, DO CPC/73). APLICAÇÃO DA MULTA POR LITIGÂNCIA DE MÁ-FÉ. IMPOSSIBILIDADE. MAJORAÇÃO DOS HONORÁRIOS RECURSAIS. DESCABIMENTO. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. Não se mostra viável o agravo em recurso especial que, apresentado em desacordo com os requisitos preconizados pelo art. 932, III, do NCPC (art. 544, § 4º, I, do CPC/1973), não impugna os fundamentos da respectiva inadmissibilidade (incidência da Súmula nº 7 do STJ).
+3. A litigância de má-fé, passível de ensejar a aplicação da multa e indenização, configura-se quando houver insistência injustificável da parte na utilização e reiteração indevida de recursos manifestamente protelatórios, o que não ocorre na hipótese.
+4. A jurisprudência do STJ orienta que a interposição de agravo interno não inaugura instância, razão pela qual se mostra indevida a majoração dos honorários advocatícios prevista no art. 85, § 11, do CPC/2015.
+5. Agravo interno não provido.
+(AgInt no AREsp 1.852.544/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 22/06/2021, DJe 25/06/2021)
+O referido entendimento também foi externado pela Corte Especial do Superior Tribunal de Justiça no julgamento dos Embargos de Divergência em Agravo em Recurso Especial n. 746.775-PR.
+Confira-se:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art. 1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp n. 746.775/PR, Relator o Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, julgado em 19/9/2018, DJe 30/11/2018)
+No caso, a agravante não infirmou especificamente os seguintes fundamentos da decisão de inadmissibilidade: (a) inviabilidade de este Superior Tribunal analisar ofensa a dispositivos constitucionais, no âmbito do recurso especial; (b) incidência do óbice da Súmula n. 211/STJ, por ambas as alíneas do permissivo constitucional, haja vista que o conteúdo normativo contido nos arts. 104, 166, 171 e 412 do CC e 2º, §§ 1º e 2º, e 22, § 2º, da Lei n. 8.906/1994 não foi objeto de exame no acórdão recorrido; e (c) aplicação das Súmulas n. 5 e 7 do STJ, no tocante à possibilidade de controle judicial do valor da multa compensatória.
+Por oportuno, observa-se que a parte agravante limitou-se a asseverar o prequestionamento das matérias insertas nos arts. 413 do CC e 85, § 11, do CPC/2015, que não foram objeto da decisão agravada.
+Ante o exposto, não conheço do agravo em recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários sucumbenciais fixados em favor dos advogados da parte recorrida em R$ 500,00 (quinhentos reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO APELO ESPECIAL. ART. 932, III, DO CPC/2015. AGRAVO NÃO CONHECIDO.
