@@ -1,0 +1,50 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 658):
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. NÃO OCORRÊNCIA. TESE DE VIOLAÇÃO À COISA JULGADA MATERIAL. AUSÊNCIA DE PREQUESTIONAMENTO SÚMULA 282/STF. AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULA 211/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, IMPROVIDO.
+O município agravante alega o prequestionamento das matérias impugnadas, referindo na fl. 667 que: "ainda que assim não fosse, o art. 1.025 do CPC positivou o prequestionamento implícito, bastando que a parte interponha o competente recurso de embargos de declaração, não sendo necessário que o tribunal de origem expressamente se manifeste sobre as questões suscitadas".
+Reitera os argumentos de violação da coisa julgada material, bem como ao artigo 1.022, do CPC/2015, enfatizando na fl. 670 que"ao realizar o juízo de retratação, a E. Câmara apenas se restringiu à análise do prazo prescricional a ser observado em consonância ao Decreto 20.910/32, não aduzindo qualquer avaliação acerca dos demais argumentos colacionados pelo Município em sua apelação, o que vai de encontro ao art. 489, §1º, III, CPC. Assevera, assim, que "não houve enfrentamento dos pontos aduzidos pelo Município, tanto em sua apelação, quanto em seus embargos de declaração, restando insuficientes as respectivas decisões e, em consequência, tornando nulo o referido acórdão".
+Ao final, refere a não observância ao reexame necessário, de modo que a reversão da sucumbência não poderia determinar o percentual aplicado, haja vista a vedação à reformatioin pejus, violandoo artigo 496, I, do CPC/2015.
+Com impugnação.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. ART. 1.022, DO CPC/1973. OFENSA. NÃO OCORRÊNCIA.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS TIDOS POR VIOLADOS. SÚMULAS282/STF E 211/STJ. INAPLICABILIDADE DO ART. 1.025 DO CÓDIGO DE PROCESSO CIVIL. PREQUESTIONAMENTO IMPLÍCITO NÃO CARACTERIZADO.
+1. A Corte a quoassentou que a questão associada ao artigo 1.022 do CPC/2015 (coisa julgada) consiste em argumentação nova, o que caracteriza inovação recursal e, assim, não se evidencia o dever de apreciação. Ausente ofensa ao art. 1.022, do CPC/2015.
+2. Ausênciade prequestionamento dos artigos 502 e 503 do CPC/2015, associados à nulidade dedecisões posteriores àcoisa julgada, o que atrai a aplicação da Súmula282 do STF.
+3. A falta de prequestionamento da questão atinente à sucumbência, violando o artigo 496, I, do CPC/2015, a despeito da oposição de embargos de declaração, impede o seu conhecimento, a teor da Súmula 211/STJ.
+4. Na exegese do art. 1.025 do Código de Processo Civil de 2015, considera-se prequestionada determinada matéria apenas caso alegada e reconhecida a violação ao art. 1.022 do mesmo estatuto, o que não se verifica nestes autos.
+5. Agravo internonão provido.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator):Observa-se que o presente recurso não merece prosperar, tendo em vista que dos argumentos apresentados no agravointernonão se vislumbram razões para reformar a decisão agravada.
+Isso porque, conforme constou nas fls. 616-619 do acórdão,a tese de coisa julgada material, em que pese a interposição de dois embargos de declaração, não havia sido até então ventilada, caracterizando inovação recursal.
+Assim, restou assentado pelo Tribunal a quo que "a Câmara julgou todos os recursos que lhe foram submetidos, sendo certo que a referida petição não é e nem pode se prestar a substituir eventual recurso, ao que também se consigna que o próprio Município já interpôs o recurso cabível, que é o recurso especial, conforme certidão de fls. 569. Assim, seja por ausência de previsão legal, seja por falta de pertinência em razão da marcha do processo, a petição de fls. 549/553 não será apreciada".
+Deste modo, é de se manter o entendimento de que não se caracteriza a alegada ofensa ao artigo 1.022 do CPC/2015, em razão de que a Corte a quo assentoutratar-se de inovação recursal, logo, matéria que não estava submetida à manifestação do Tribunal.
+O agravante sustenta ainda o prequestionamento das matérias sobre as quais foram aplicadas as Súmulas 282 e 211/STF.
+Ocorre quea Corte de origem não se manifestou a respeito dos artigos 502 e 503 do CPC/2015, os quais foram associados à tese de nulidade das decisões posteriores à coisa julgada, enfatizando-se, ainda, a já mencionada inovação recursal referida pela Corte de origem,o que denota a falta de pronunciamento ou prequestionamento sobre a controvérsia.
+Gize-se que,oprequestionamento é requisito previsto no inciso III do artigo 105 da Constituição Federal e impõe que somente causas decididas por Corte Estadual, Regional Federal ou do Distrito Federal e Territórios sejam autorizadas ao exame por meio de recurso especial. Se a controvérsia, tal como apresentada no apelo nobre, não foi decidida, não há falar em abertura dessa via recursal.
+Desse modo, mantém-se o não conhecimento do recurso especial com fundamento na Súmula 282/STF:É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada.
+Por fim, no que tange à tese denão observância ao reexame necessário, a Cortede origem tampouco se pronunciou a respeito, nãoobstante terem sido opostos e julgados os embargos de declaração. Assim, evidencia-se a falta de debate ou prequestionamento sobre a controvérsia suscitada, de modo que se mantém o não conhecimento do recurso especial com fundamento na Súmula 211/STJ.
+Ressalte-se ainda que, não é caso de aplicação do artigo 1.025 do CPC/2015 como pretende o recorrente, haja vista que, para sua incidência, imprescindível além daalegação de violação associada ao artigo 1.022 do CPC/2015, o reconhecimento da efetiva vulneração, o que não se verifica.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM
+RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE.
+AUSÊNCIA DE PREQUESTIONAMENTO DO ARTS. 1.015, 1.016 E 1.017 DOESTATUTO PROCESSUAL CIVIL DE 2015. INCIDÊNCIA, POR ANALOGIA, DA
+SÚMULA N. 282/STF. INAPLICABILIDADE. ART. 1.025 DO CÓDIGO DEPROCESSO CIVIL. PREQUESTIONAMENTO IMPLÍCITO NÃO CARACTERIZADO.ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessãorealizada em 09.03.2016, o regime recursal será determinado peladata da publicação do provimento jurisdicional impugnado. In casu,aplica-se o Código de Processo Civil de 2015.
+II - É entendimento pacífico desta Corte que a ausência deenfrentamento expresso acerca da questão objeto da controvérsia peloTribunal a quo impede o acesso à instância especial, porquanto nãopreenchido o requisito constitucional do prequestionamento, nostermos da Súmula n. 282 do Supremo Tribunal Federal.
+III - Na exegese do art. 1.025 do Código de Processo Civil de 2015,considera-se prequestionada determinada matéria apenas caso alegadae reconhecida a violação ao art. 1.022 do mesmo estatuto.
+IV - O prequestionamento implícito caracteriza-se pela manifestaçãoexpressa do tribunal de origem sobre a tese trazida no recursoespecial, a despeito da não indicação explícita dos dispositivoslegais em que se fundou a decisão recorrida.
+V - Não apresentação de argumentos suficientes para desconstituir adecisão recorrida.
+VI - Em regra, descabe a imposição da multa, prevista no art. 1.021,§ 4º, do Código de Processo Civil de 2015, em razão do meroimprovimento do Agravo Interno em votação unânime, sendo necessáriaa configuração da manifesta inadmissibilidade ou improcedência dorecurso a autorizar sua aplicação, o que não ocorreu no caso.
+VII - Agravo Interno improvido. (AgInt no AgInt no AREsp 1339494 / RS, Rel. Min.REGINA HELENA COSTA,PRIMEIRA TURMA,DJe 23/03/2020). (grifei).
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSOESPECIAL. AMBIENTAL. MULTA SIMPLES. PRÉVIA ADVERTÊNCIA. INEXISTÊNCIADE OBRIGATORIEDADE. VIOLAÇÃO À LEI. PREQUESTIONAMENTO.INDISPENSABILIDADE. SÚMULA 211/STJ. AUSÊNCIA DE INDICAÇÃO DEVIOLAÇÃO AO ART. 1.022 DO CPC/2015. PREQUESTIONAMENTO FICTO NÃOCARACTERIZADO.
+1. De acordo com a jurisprudência desta Corte Superior, para avalidade da aplicação das multas administrativas previstas na Lei n.9.605/1998, não há obrigatoriedade da prévia imposição deadvertência.
+2. O Tribunal de origem não examinou a controvérsia sob o enfoque doart. 50 da Lei n. 9.784/1999, apontado como violado, apesar deinstado a fazê-lo por meio dos competentes embargos de declaração.Nesse contexto, caberia à parte recorrente, nas razões do apelo
+especial, indicar ofensa ao art. 1.022 do CPC/2015, alegando aexistência de possível omissão, providência da qual não sedesincumbiu. Incide, pois, o óbice da Súmula 211/STJ.
+3. Ressalta-se que esta Corte firmou a compreensão de que "aadmissão de prequestionamento ficto (art. 1.025 do CPC/15), emrecurso especial, exige que no mesmo recurso seja indicada violaçãoao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgadorverificar a existência do vício inquinado ao acórdão, que uma vezconstatado, poderá dar ensejo à supressão de grau facultada pelodispositivo de lei" (REsp 1.639.314/MG, Rel. Ministra NancyAndrighi, Terceira Turma, julgado em 4/4/2017, DJe 10/4/2017).
+4. Agravo interno a que se nega provimento. (AgInt no REsp1830188/ CE, Rel. Min.SÉRGIO KUKINA, PRIMEIRA TURMA,DJe 12/12/2019). (grifei).
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
