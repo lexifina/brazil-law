@@ -1,0 +1,27 @@
+DECISÃO
+    Trata-se de habeas corpus, com pedido de medida liminar, impetrado contra acórdão do Superior Tribunal de Justiça assim ementado:
+    PENAL E PROCESSUAL PENAL. PEDIDO DE RECONSIDERAÇÃO EM ‘HABEAS CORPUS’. FUNGIBILIDADE RECURSAL. RECEBIDO COMO AGRAVO REGIMENTAL. TRÁFICO DE ENTORPECENTES. DOSIMETRIA. CAUSA DE DIMINUIÇÃO DA PENA DO TRÁFICO PRIVILEGIADO. ART. 33, § 4.º, DA LEI N. 11.343/2006. INAPLICABILIDADE. DEDICAÇÃO DO AGENTE À ATIVIDADE CRIMINOSA. INVIÁVEL REEXAME FÁTICO-PROBATÓRIO. AGRAVO REGIMENTAL DESPROVIDO.
+    - "Em face dos princípios da fungibilidade recursal e da instrumentalidade das formas, recebe-se o pedido de reconsideração como agravo regimental" (AgRg no HC 471.740/SP, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, julgado em 4/4/2019, DJe 9/4/2019).
+    - A incidência da minorante prevista no § 4º, do art. 33, da Lei n. 11.343/2006, pressupõe que o agente preencha os seguintes requisitos: a) seja primário; b) de bons antecedentes; c) não se dedique às atividades criminosas; e d) nem integre organização criminosa.
+    - A Corte local formou o seu convencimento a partir do acervo fático-probatório, a denotar que o tráfico operado não se dava de forma eventual, mas, sim, com habitualidade, ou seja, que o agravante se dedicava a atividades criminosas. Com efeito, destacaram que o galpão onde o material entorpecente estava escondido pertencia ao apenado, bem como relevaram a apreensão, no local, de balança de precisão e de caderno de anotações do tráfico. Para concluir, ao contrário do que se entendeu na origem, que os petrechos do tráfico não pertenceriam ao ora agravante e que o dito galpão estaria na posse de outra pessoa, seria necessário o amplo reexame fático-probatório, a que a via estreita do ‘writ’ não se presta. As instâncias ordinárias deram destaque também à circunstância de a apreensão ter sido precedida de denúncia anônima especificada e de campana policial, que sugerem a habitualidade delitiva do agravante, impedindo a concessão da benesse do art. 33, § 4.º, da Lei n. 11.343/2006.
+    - Entendimento em sentido contrário demandaria, necessariamente, o revolvimento do conjunto fático-probatório, inviável na via estreita do ‘habeas corpus’.
+    - Agravo regimental desprovido.
+    (Agravo regimental no habeas corpus n. 684.082, ministro Reynaldo Soares da Fonseca)
+    Em suas razões, a parte recorrente pretende, em síntese, a aplicação da causa de diminuição de pena prevista no art. 33, parágrafo 4.º, da Lei de Drogas, no patamar máximo de 2/3 (dois terços).
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, §1º e art. 52, parágrafo único).
+    Tal o contexto, entendo não assistir razão à parte impetrante.
+    É que não há ilegalidade passível de correção na presente via, conforme bem ressaltou o Superior Tribunal de Justiça (com meus grifos):
+    Ao afastarem a aplicação do redutor do tráfico privilegiado, as instâncias ordinárias registraram dados concretos presentes nos autos que apontam a dedicação do agravante à atividade criminosa.
+    Nesse sentido, destacaram que o galpão onde o material entorpecente estava escondido pertencia ao apenado, bem como relevaram a apreensão, no local, de balança de precisão e de caderno de anotações do tráfico. Para concluir, ao contrário do que se entendeu na origem, que os petrechos do tráfico não pertenceriam ao ora agravante e que o dito galpão estaria na posse de outra pessoa, seria necessário o amplo reexame fático-probatório, a que a via estreita do ‘writ’ não se presta.
+    As instâncias ordinárias deram destaque, também, à circunstância de a apreensão ter sido precedida de denúncia anônima especificada e de campana policial, que sugerem a habitualidade delitiva do agravante, impedindo a concessão da benesse do art. 33, § 4.º, da Lei n. 11.343/2006.
+    Como se vê, para o acolhimento da tese defensiva – aplicação do tráfico privilegiado (art. 33, § 4º, da Lei 11.34306) –, seria indispensável o reexame de todo conjunto fático-probatório que levou as instâncias ordinárias a concluírem que o paciente se dedicava às atividades criminosas, fato esse inviável na via estreita do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência pacífica desta Suprema Corte (com meus grifos):
+    ’HABEAS CORPUS’. PENAL. TRÁFICO ILÍCITO DE DROGAS. INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO PREVISTA NO § 4º DO ART. 33 DA LEI 11.343/2006. IMPOSSIBILIDADE. RÉU QUE SE DEDICAVA A ATIVIDADE CRIMINOSA. ORDEM DENEGADA.
+    I – O indeferimento da causa especial de redução do § 4º do art. 33 da Lei 11.343/2006 foi devidamente fundamentado, havendo a comprovação de que o paciente já vinha colaborando para a disseminação do tráfico, utilizando-se, inclusive, de menores para a prática da traficância, e, por isso, responde a outro processo pelo mesmo delito.
+    II – Para se chegar a conclusão contrária à adotada pelas instâncias ordinárias e confirmada pelo STJ, seria necessário o reexame de fatos e provas, providência incabível em habeas corpus, por se tratar de instrumento destinado à proteção de direito demonstrável de plano, que não admite dilação probatória.
+    III – Ordem denegada.
+    (Habeas corpus n. 110.983, ministro Ricardo Lewandowski)
+    Em face do exposto, não conheço deste habeas corpus.
+    Intime-se. Publique-se. Arquive-se.
+Brasília, 10 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
