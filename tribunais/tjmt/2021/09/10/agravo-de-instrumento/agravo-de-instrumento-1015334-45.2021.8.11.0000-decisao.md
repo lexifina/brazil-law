@@ -1,0 +1,39 @@
+TERCEIRA CÂMARA DE DIREITO PRIVADO
+AGRAVO DE INSTRUMENTO No 1015334-45.2021.8.11.0000
+AGRAVANTE: JULIANO JORGE AGOSTINHO
+AGRAVADO: GLEIDSON LIBARDONI CORADINI
+Vistos.
+Trata-se de recurso de agravo de instrumento com pedido de antecipação de tutela recursal/concessão de efeito suspensivo interposto por JULIANO JORGE AGOSTINHO, contra decisão proferida pelo MM. Juiz de Direito da 2a Vara Cível da Comarca de Sorriso/MT, Dr. Anderson Candiotto, lançada nos autos de Ação Monitória no 1000328-14.2017.8.11.0040, ajuizada por GLEIDSON LIBARDONI CORADINI, que no despacho saneador não reconheceu a prescrição arguida em preliminar pelo ora recorrente.
+aduz que “conforme se extrai da decisão guerreada, o juízo de primeiro grau afastou a tese prescricional ventilada pelo Agravante por entender que o início do prazo prescricional para propositura da ação monitória se daria a partir da data do trânsito em julgado da ação executiva inicialmente extinta” (sic).
+Discorre que conforme fundamentou, “a pretensão para ajuizamento da presente ação monitória foi fulminada pela prescrição em 21/05/2016 e não após o transito em julgado da decisão que julgou extinta a ação executiva” (sic).
+Anota que “é assente que o prazo prescricional para ajuizamento da ação monitória é de 05 (cinco anos) com início de contagem no dia seguinte ao vencimento da obrigação” (sic) (sublinhei).
+Assegura que “no caso vertido, a medida de cautela de suspensão dos efeitos da decisão não se revela maléfica, uma vez que questão reclama unicamente de análise objetiva de termo a quo para início de contagem de prazo prescricional em ação monitória, fato que reforça a tese do Agravante elevando a verossimilhança de suas alegações a grau de certeza, suficiente a concessão da antecipação da tutela recursal ou de efeito suspensivo” (sic).
+Acrescenta que “no caso vertente, levando a efeito que a matéria ventilada tem natureza de ordem pública, a qual pode ser conhecida de ofício, a qualquer tempo e em qualquer grau de jurisdição, em nome da celeridade e economia processual, recomendável se mostra a aplicação do efeito translativo para fins de extinção da ação principal” (sic).
+Com base no exposto e nos pressupostos legais, requer “a antecipação da tutela recursal, por meio da extinção de ofício da ação principal em sede monocrática, aplicando-se os efeitos translativos, devido ao reconhecimento da prescrição da ação monitória ajuizada” (sic).
+Subsidiariamente, pugna pela “suspensão dos efeitos da decisão que reconheceu a tempestividade do ajuizamento da ação monitória, até que seja decidido o mérito do presente recurso, forma do Art. 1.019, I, do Código de Processo Civil” (sic).
+Preparo recursal devidamente recolhido, conforme Id. 99388494.
+Contrarrazões recursais apresentadas sob o Id. 101162496.
+É o sucinto relatório.
+Decido.
+Por tempestivo e próprio, recebo o recurso na forma dos artigos 1.015, II c/c 1.017 do Código de Processo Civil.
+Como visto, o agravante pretende, de início, seja antecipada a tutela recursal para reconhecer a prescrição na ação monitória e a extinguir de ofício ou que seja concedido o efeito suspensivo quanto à decisão que reconheceu a tempestividade do seu ajuizamento.
+O artigo 1.019, inciso I do Código de Processo Civil, dispõe que o relator poderá conceder efeito suspensivo ao recurso, ou deferir, em antecipação de tutela, total ou parcialmente, a pretensão recursal, desde que demonstrada à plausibilidade do direito invocado e, ainda, o perigo de dano ou o risco de afetar o resultado útil do processo.
+O parágrafo único do artigo 995 do mesmo códex estabelece que “A eficácia da decisão recorrida poderá ser suspensa por decisão do relator, se da imediata produção de seus efeitos houver risco de dano grave, de difícil ou impossível reparação, e ficar demonstrada a probabilidade de provimento do recurso”.
+Na espécie dos autos, atenta ao expendido na exordial, ao exame da documentação acostada em juízo provisório e nos estritos limites da cognição sumária permitida a esta fase processual, verifico que não restaram configurados os pressupostos autorizativos para a concessão da medida de urgência requerida.
+No caso, ao proferir a decisão objurgada, o magistrado de primeiro grau ressaltou que:
+“(...) Com efeito, nota-se que os argumentos ventilados na peça tocam ao fato de que mesmo reconhecida a interrupção da prescrição pelo ajuizamento da ação executiva que foi extinta sem julgamento de mérito, o marco inicial da contagem retroage a data da propositura da ação, no caso, 20/05/2011, fato que culminaria no decurso do prazo prescricional em 21/05/2016.
+Porém, sem razão o requerente, eis que o prazo a ser observado tem como termo inicial a data do trânsito em julgado da ação de execução, consoante se verifica do seguinte julgado:
+AGRAVO DE INSTRUMENTO – AÇÃO MONITÓRIA – PRESCRIÇÃO – INOCORRÊNCIA – INTERRUPÇÃO DO PRAZO COM A CITAÇÃO DO RÉU NA EXECUÇÃO EXTINTA SEM RESOLUÇÃO DO MÉRITO – LAPSO TEMPORAL ENTRE O TRÂNSITO EM JULGADO DA DECISÃO EXTINTIVA E O AJUIZAMENTO DA NOVA AÇÃO INFERIOR AO PREVISTO NO ARTIGO 206, § 5o, I, DO CÓDIGO CIVIL – RECURSO CONHECIDO E DESPROVIDO. A citação válida do réu em processo extinto sem resolução do mérito interrompe o prazo prescricional, que volta a correr com o trânsito em julgado da decisão extintiva, operando-se a prescrição apenas quando entre o trânsito em julgado e o ajuizamento da nova ação tiver decorrido prazo superior ao previsto legalmente para o autor buscar a satisfação de seu direito. (TJ-MS - AI: 14063058320158120000 MS 1406305-83.2015.8.12.0000, Relator: Des. Marco André Nogueira Hanson, Data de Julgamento: 21/07/2015, 3a Câmara Cível, Data de Publicação: 27/07/2015) – grifamos.
+Logo, como a ação aqui tratada foi proposta em 31/01/17, e a sentença proferida no ano de 2014, nem seria preciso saber a data do trânsito em julgado para se concluir que a prescrição não fulminou o direito de ação do autor.
+Intimem-se.
+No mais, cumpra-se a decisão anterior, observando-se a data da audiência designada (...)” (Id. 99283997 – fls. 130/131) (destaques no original).
+A princípio não se verifica nenhuma irregularidade no decisum recorrido, uma vez que o d. magistrado apresentou argumentos sólidos sobre a inviabilidade do reconhecimento da prescrição, consoante se verifica do acima transcrito.
+Entendo, ademais, que para analisar desde logo os argumentos acerca da alegada prescrição, seria necessário se debruçar sobre o arcabouço fático-probatório do processo, o que é vedado neste momento de cognição sumária, onde é feita apenas uma rápida análise sobre o acerto ou desacerto da decisão agravada.
+Assim, tenho que não há elementos bastantes para o fim de que seja concedida a pretensão da agravante em caráter de urgência, pois para a concessão de tal medida, há necessidade daquele grau mínimo de certeza e segurança exigido pela norma legal, que demanda, como bem sabemos, a existência de prova inequívoca, com aptidão para convencer o julgador da verossimilhança da alegação, aspecto aqui bastante controvertido, além do que, concomitantemente, deveria estar demonstrado o perigo de dano iminente, o que também não foi verificado neste caso.
+Deste modo, mostra-se prudente, nesta esfera de cognição sumária, aplicar o princípio da imediatidade da prova, o qual privilegia o juízo de valor formulado pelo Juiz que preside o feito, frente à sua proximidade com as partes e com o processo na origem, o que lhe permite dispor de elementos para formação de sua convicção.
+Diante do exposto, NÃO CONCEDO a antecipação da tutela/efeito suspensivo, vindicados.
+Tendo em vista que a parte agravada já apresentou contraminuta, aguarda-se o prazo recursal, retornando-me conclusos para julgamento oportuno.
+Intime-se. Cumpra-se.
+Cuiabá/MT, 10 de setembro de 2021.
+Desa. Antônia Siqueira Gonçalves
+Relatora
