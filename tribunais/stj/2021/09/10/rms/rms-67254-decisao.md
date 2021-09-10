@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de recurso em mandado de segurança, interposto com base no art. 105, inciso II, "b", da Constituição Federal e no art. 1.027, II, "a", do Código de Processo Civil, apresentado por FALCAO CONSTRUCAO INCORPORACAO E EMPREENDIMENTOS EIRELI, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+É, no essencial, o relatório. Decido.
+Inicialmente, de acordo com os Enunciados Administrativos do STJ n. 02 e 03, os requisitos de admissibilidade a serem observados são os previstos no Código de Processo Civil de 1973, se a decisão impugnada tiver sido publicada até 17 de março de 2016, ou, se publicada após 18 de março de 2016, os preconizados no Código de Processo Civil de 2015.
+Mediante análise dos autos, verificou-se que o recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+A parte, embora regularmente intimada para sanar referido vício, não regularizou o preparo. Isso porque juntou a petição de fls. 301/304, em que se constata erro no preenchimento do formulário eletrônico das custas judiciais. Veja que a parte deveria ter recolhido as custas do recurso em mandado de segurança, mas fez o recolhimento sob rubrica diversa ("mandado de segurança", rubrica exclusiva para o feito de competência originária do STJ, com fundamento no art. 105, I, b, da Constituição Federal).
+Esta Corte consolidou o entendimento de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso, caracteriza a sua deserção.
+A propósito:
+TRIBUTÁRIO. PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE PREPARO. INTIMAÇÃO PARA COMPLEMENTAÇÃO DO PREPARO EM DOBRO, NA FORMA DO ART. 1.007, § 4º, DO CPC/2015. PREPARO COM INDICAÇÃO DE RUBRICA DIVERSA. DESERÇÃO. NOVO PRAZO PARA SANAR O VÍCIO. IMPOSSIBILIDADE.
+1. A jurisprudência deste STJ considera deserto o recurso em mandado de segurança quando a parte recorrente, intimada para realizar o recolhimento do preparo, indica erroneamente o tipo de ação ou recurso escolhido no formulário eletrônico.
+2. "Este Superior Tribunal de Justiça consolidou o entendimento no sentido de que a irregularidade no preenchimento das guias do preparo, no ato da interposição do recurso especial, caracteriza a sua deserção, sendo inviável nova intimação para regularizar o vício" (AgInt no RMS 58.719/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/12/2018).
+3. Precedentes: AgInt no RMS 61.482/PR, Rel. Ministro Og Fernandes, Segunda Turma, DJe 31/3/2020; AgRg nos EDcl no RMS 62.011/PB, Rel. Ministra Laurita Vaz, Sexta Turma, DJe 13/3/2020; AgInt nos EDcl no RMS 60.094/RJ, Rel. Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 21/11/2019; AgInt no RMS 56.802/GO, Rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 03/10/2019; AgInt no RMS 58.719/CE, Rel. Ministro Mauro Campbell Marques, Segunda Turma, DJe 19/12/2018; e AgInt no RMS 56.638/RS, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 25/10/2018.
+4. Agravo interno não provido.
+(AgInt no RMS 59457/PA, Rel. Min. SERGIO KUKINA, PRIMEIRA TURMA, julgado em 25/05/2020, DJe 29/05/2020)
+Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, não conheço do recurso.
+Publique-se. Intimem-se.
