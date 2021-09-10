@@ -1,0 +1,13 @@
+DECISÃO
+NIVIA LEME DA COSTA alega sofrer constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal a quo no Agravo em Execução n. 0001723-17.2021.8.26.0520, em que foi mantida a conversão em privativa de liberdade da pena restritiva de direitos a que condenado.
+Alega a defesa que, "quando da decisão em questão, a paciente já tinha alcançado plenamente o direito de progressão ao regime aberto, inexistindo óbices e ademais, deve-se consignar de que existe o entendimento de que a pena aplicada, ao menos em tese, não há como ser alterada por outro juízo" (fl. 5), razão pela qual requer o cumprimento posterior da pena restritiva de direitos.
+Decido.
+No caso vertente, a paciente estava em cumprimento de pena privativa de liberdade em regime semiaberto, quando sobreveio nova condenação à pena restritiva de direitos. O Juízo da execução penal, "ao unificar as sanções em decorrência de nova condenação, converteu as penas restritivas de direitos em privativa de liberdade, fixando o regime semiaberto para o cumprimento da pena" (fl. 24).
+Outro não é o entendimento do Superior Tribunal de Justiça, segundo o qual, " n a unificação de penas (art. 111 da Lei n. 7.210/84), a impossibilidade de cumprimento simultâneo de reprimenda privativa de liberdade e restritiva de direito autoriza a reconversão desta última pelo Juízo da Execução, como ocorreu no caso em análise - o paciente se encontrava em regime semiaberto quando sobreveio outra condenação a pena restritiva de direitos" (HC n. 431.484/SC, Rel. Ministro Joel Ilan Paciornik, 5ª T., DJe 23/3/2018, grifei).
+No mesmo sentido:
+ ..
+1. É assente neste Superior Tribunal de Justiça o entendimento de que, quando sobrevier nova condenação que, não sendo suspensa, tornar incompatível o cumprimento da pena restritiva de direitos com a pena privativa da liberdade, posterior ou anterior, deve-se reconverter a pena substitutiva em reprimenda corporal (art. 181, §1º, alínea "e", da LEP, c/c artigo 44, §5º, do Código Penal).
+2. Agravo regimental improvido (AgRg no REsp n. 1.610.082/MG, Rel. Ministra Maria Thereza de Assis Moura, 6ª T., DJe 1º/9/2016, destaquei).
+Conforme bem apontado pela Corte de origem, "a expectativa de direito à progressão ao regime aberto, no PEC nº 0000136-57.2021.8.26.0520, não se confunde com direito adquirido a essa benesse. Com a notícia da condenação definitiva, cujo trânsito em julgado ocorreu aos 15 de outubro de 2019 antes, portanto, de adimplido o quesito objetivo para a progressão de regime (28/03/2021 fls. 31), não há se falar em ilegalidade da decisão de reconversão" (fl. 26, grifei).
+À vista do exposto, com fundamento no art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
