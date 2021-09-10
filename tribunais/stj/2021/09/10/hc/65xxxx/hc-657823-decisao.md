@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso, com pedido liminar, impetrado em benefício de IGOR DE OLIVEIRA DIAS, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS no julgamento do HC n. 1.0000.21.000431-3/000.
+Extrai-se dos autos que o paciente teve a prisão preventiva decretada em 6/8/2020, em consonância com a representação da Autoridade Policial e manifestação favorável do Ministério Público, e, em 17/8/2020, restou denunciado pela suposta prática do delito tipificado no art. 121, §2º, II e IV, c/c o art. 14, II, ambos do Código Penal (homicídio qualificado tentado). Posteriormente, o Juízo de primeiro grau indeferiu pedidos de revogação da segregação antecipada do réu.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdãoassim ementado:
+"HABEAS CORPUS. HOMICÍDIO QUALIFICADO TENTADO. PRISÃO PREVENTIVA DECRETADA. REVOGAÇÃO. REITERAÇÃO DE PEDIDO. SÚMULA CRIMINAL 53 DO TJMG. NULIDADE DA CUSTÓDIA. AUSÊNCIA DE EXAME DE CORPO DE DELITO. ARTIGO 564, III, b, DO CPP. DECISÃO FUNDAMENTADA EM INDÍCIOS MÍNIMOS DE MATERIALIDADE DELITIVA. REFERÊNCIA A DOCUMENTOS DO INQUÉRITO POLICIAL. INSTRUÇÃO DEFICITÁRIA. AUSÊNCIA DE PROVA PRÉ-CONSTITUÍDA. HABEAS CORPUS PARCIALMENTE CONHECIDO E, NESTA EXTENSÃO, ORDEM DENEGADA. - Não se conhece de habeas corpus que constitua mera reiteração de pedido anterior já decidido por Turma Julgadora deste Tribunal. - A prisão preventiva poderá ser decretada como garantia da ordem pública, da ordem econômica, por conveniência da instrução criminal ou para assegurar a aplicação da leipenal, quando houver prova da existência do crime e indício suficiente de autoria e de perigo gerado pelo estado de liberdade do imputado. - O rito do habeas corpus não possui dilação probatória, cabendo ao impetrante a comprovação de plano do constrangimento ilegal suscitado, por meio de prova pré-constituída. - Inviável a análise da tese de nulidade da prisão preventiva, em razão da ausência de materialidade delitiva, se não foram juntados aos autos os documentos que, segundo a decisão de decretação da custódia cautelar, comprovariam a sua existência." (fl. 110).
+No presente writ, o impetrante sustenta a ausência de fundamentação idônea quanto à necessidade da prisão preventiva do paciente, baseada apenas na gravidade abstrata do delito e em elementos próprios do tipo penal. Assevera não estarem presentes os requisitos previstos no art. 312 do Código de Processo Penal - CPP e indica afronta ao art. 315 do CPP.
+Aponta não haver provas concretas quanto à materialidade e autoria delitivas.
+Requer, em liminar e no mérito, a expedição de alvará de soltura em favor do paciente, ainda que mediante a aplicação de medidas cautelares alternativas.
+A liminar foi indeferida às fls. 159/161. Informações prestadas às fls. 165/260 e 263/272. O Ministério Público Federal opinou pelo não conhecimento do writem parecer acostado às fls. 277/281.
+É o relatório.
+Decido.
+O pedido estáprejudicado.
+Isso porque, conforme informações obtidas na página eletrônica do Tribunal de origem, verifica-se que, em 26/8/2021, nos autos da Ação Penal n. 0009271-95.2020.8.13.0680, foi proferida sentença de absolvição.
+Assim, não há como negar a perda superveniente do objeto deste mandamus.
+Ante o exposto, com fulcro no art. 34, XX, do Regimento Interno desta Corte, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimações necessárias.
