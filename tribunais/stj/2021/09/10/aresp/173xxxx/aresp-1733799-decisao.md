@@ -1,0 +1,75 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo em recurso especial, interposto por BANCO COOPERATIVO SICREDI S.A, contra decisão do Tribunal de Justiça do Estado do Rio Grande do Sulque não admitiu recurso especial manejado contra acórdão assim ementado (e-STJ Fl. 324):
+APELAÇÕES CÍVEIS. AÇÃO DE REVISÃO DE NEGÓCIO JURÍDICO BANCÁRIO.
+Extensão da revisão contratual. A relação de consumo e a possibilidade de revisar contratos extintos/novados (Súmula 286 do c. ST ) não desobrigam a parte de especificar minimamente quais os pactos cujas cláusulas pretende expungir ou readequar, sendo vedada a revisão em tese ou "in abstrato". Revisão adstrita aos contratos juntados aos autos.
+Comissão de permanência. Recurso da ré prejudicado no ponto, eis que não sucumbiu em relação a esse pedido.
+Juros remuneratórios. Ausência de abusividade. Taxa prevista em percentual que não destoa ou discrepa substancialmente da média de mercado divulgada pelo BACEN para a respectiva operação financeira na data em que contratada.
+Descaracterização da mora. Impossibilidade. Contratação mantida hígida, sem que constatada alguma abusividade que impedisse a normal execução contratual.
+Compensação/repetição do indébito. Como corolário lógico do julgamento, não há valores a compensar ou repetir.
+APELAÇÃO DA PARTE AUTORA DESPROVIDA. APELAÇÃO DA RÉ PROVIDA NA PARTE EM QUE CONHECIDA.
+Opostos embargos de declaração,foram acolhidos à e-STJ Fls. 343/439, sem efeitos infringentes.
+Nas razões do recurso especial, a recorrentealegaofensa aos arts.141, 373, I, 489, § 1º, IV, 492, 1.013, 1.022, I e II, do CPC/2015; 51, § 1º, do CDC, bem como dissídio jurisprudencial.A par da negativa de prestação jurisdicional e a alegação de existência de decisão citra petita, sustenta a legalidade do CDI como indexador monetário em contratos bancários, não havendo abusividade em tal disposição contratual.
+Contrarrazões à e-STJ Fls. 444/448.
+É o breve relatório.
+Passo a decidir.
+Atendidos os pressupostos de conhecimento do agravo em recurso especial, passo à analise do recurso especial.
+Inicialmente, no que tange à alegada negativa de prestação jurisdicional e ausência de fundamentação, a par da existência de decisão citra petita, constato não estar configurada a sua ocorrência.
+Com efeito, ao analisar as provas constantes dos autos e, ato contínuo, afastar atesede legalidade da CDI como índice de correção monetária no caso concreto,o Tribunal a quo assim se manifestou (e-STJ Fls. 346/348):
+Efetivamente, há omissão na decisão embargada quanto ao pedido de que fosse reformada a sentença no tocante à fixação do IGP-M como indexador da correção monetária, em detrimento do CDI.
+Portanto, cabe acolher os embargos para sanar a omissão no ponto, ainda que, como se verá a seguir, não é o caso de reformar o entendimento sentenciai.
+Ocorre que nada há para rever quanto ao ponto, cumprindo prestigiar a decisão pela qual foi afastado o índice de correção monetária fixada na contratação para o período da normalidade e da mora (CDI - Certificado de Depósito Interfinanceiro), com fundamento na súmula 176 do e. STJ. Considera-se nula a cláusula contratual que sujeita o devedor à taxa de juros divulgadas pela ANBID/CETIP, por seu caráter potestativo.
+Nesse sentido também é o entendimento da Câmara, conforme precedente análogo assim ementado (grifei):
+(..)
+A correção dos valores da avença deverá ocorrer pelo IGP-M, como determinado na sentença, pois esse é o índice que melhor recompõe perdas inflacionárias. De fato, a jurisprudência costumeiramente adota o IGP-M sob o fundamento de que o mesmo melhor representa a manutenção do valor econômico da moeda.
+Quanto ao prequestionamento de determinados dispositivos legais, ressalvo que ao órgão julgador compete é decidir com os fundamentos mais relevantes à solução da controvérsia, o que foi feito no caso concreto.
+(..)(g.n.)
+Da leitura dos trechos acima transcritos, verifica-se que a Corte estadual julgou fundamentadamente a matéria devolvida à sua apreciação, expondo as razões que levaram às suas conclusões quanto ao índice aplicável à espécie, notadamente ante ao conjunto probatório dos autos.
+Portanto, a pretensão ora deduzida, em verdade, traduz-se em mero inconformismo com a decisão posta, o que não revela, por si só, a existência de qualquer vício nesta.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. VIOLAÇÃO AOS ARTIGOS 7º, 11, 141, 479, 489 E 1.022 DO ESTATUTO PROCESSUAL CIVIL DE 2015. NÃO OCORRÊNCIA. JULGAMENTO CITRA PETITA. ALTERAÇÃO DO PROJETO E REPLANTIO DE GRAMA. ÔNUS PROBATÓRIO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.INADMISSIBILIDADE. SÚMULAS N. 5, 7 E 83 DO SUPERIOR TRIBUNAL DE JUSTIÇA. INCIDÊNCIA. NÃO PROVIDO. MULTA. ARTIGO 1.021, § 4º, DO CPC/2015. DESCABIMENTO.
+1. Se as questões trazidas à discussão foram dirimidas, pelo Tribunal de origem, de forma suficientemente ampla, fundamentada e sem omissões, obscuridades ou contradições, deve ser afastada a alegada ofensa aos artigos 7º, 11, 141, 479, 489 e 1.022 do estatuto processual civil de 2015.
+2. Não cabe, em recurso especial, interpretar cláusulas contratuais e reexaminar matéria fático-probatória (Súmulas n. 5 e 7 do Superior Tribunal de Justiça).
+3. "Não se conhece do recurso especial pela divergência, quando a orientação do Tribunal se firmou no mesmo sentido da decisão recorrida" (enunciado sumular n. 83 desta Corte Superior).
+4. O mero não conhecimento ou improcedência de recurso interno não enseja a automática condenação na multa do artigo 1.021, § 4º, do CPC/2015, devendo ser analisada caso a caso.
+5. Agravo interno a que se nega provimento.(AgInt no AREsp 1691988/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 07/12/2020, DJe 11/12/2020) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO.DISCUSSÃO A RESPEITO DA GRATUIDADE DE JUSTIÇA. ARESTO SEM VÍCIOS, OMISSÕES OU CONTRADIÇÕES. INEXISTÊNCIA DE OFENSA AOS ARTS. 489 E 1.013 DO NOVO CPC. PESSOA JURÍDICA. HIPOSSUFICIÊNCIA NÃO COMPROVADA.REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AGRAVO INTERNO DESPROVIDO.
+1. Não há nenhuma omissão ou outro vício processual a serem sanados no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 489, § 1º, IV, e 1.013 do novo CPC. O acórdão dirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo em vista que apenas resolveu a celeuma em sentido contrário ao postulado pela parte insurgente.
+2. Segundo o disposto na Súmula 481/STJ, "faz jus ao benefício da justiça gratuita a pessoa jurídica com ou sem fins lucrativos que demonstrar sua impossibilidade de arcar com os encargos processuais".
+3. Tendo o Tribunal de origem entendido que a ora agravante não teria comprovado a sua hipossuficiência, a revisão da convicção formada demandaria o reexame de fatos e provas, providência vedada na via eleita, ante a incidência do enunciado n. 7 da Súmula do STJ.
+4. Agravo interno desprovido.(AgInt no AREsp 1646533/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 29/06/2020, DJe 03/08/2020) - g.n.
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE RESOLUÇÃO DE CONTRATO. VIOLAÇÃO DOS ARTS. 489 E 1.013 DO NCPC/2015. FALTA DE FUNDAMENTAÇÃO. AUSÊNCIA. OFENSA AOS ARTS. 8º E 20 DA LEI DE ARBITRAGEM. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF.ALEGAÇÃO DE CERCEAMENTO DE DEFESA. PRODUÇÃO DE PROVA INDEFERIDA.CONCLUIR DE MANEIRA DIFERENTE IMPLICA, NECESSARIAMENTE, ADENTRAR O SUBSTRATO FÁTICO-PROBATÓRIO. SÚMULA 7/STJ. AGRAVO NÃO PROVIDO.
+1. Não prospera a alegada ofensa aos arts. 489, § 1º, I, 1.013, do NCPC/2015, tendo em vista que o v. acórdão recorrido, embora não tenha examinado individualmente cada um dos argumentos suscitados pela parte, adotou fundamentação suficiente, decidindo integralmente a controvérsia.
+2. Fica inviabilizado o conhecimento de tema trazido na petição de recurso especial, mas não debatido e decidido nas instâncias ordinárias, porquanto ausente o indispensável prequestionamento.Aplicação das Súmulas 282 e 356 do STF.
+3. "Não está obrigado o Magistrado a julgar a questão posta a seu exame de acordo com o pleiteado pelas partes, mas sim com o seu livre convencimento (art. 131, do CPC), utilizando-se dos fatos, provas, jurisprudência, aspectos pertinentes ao tema e da legislação que entender aplicável ao caso concreto" (AgRg no REsp 373.611/RJ, PRIMEIRA TURMA, Rel. Ministro JOSÉ DELGADO, julgado em 26/2/2002, DJ de 25/3/2002, p. 206). Via de regra, tais alegações esbarram no óbice da Súmula 7/STJ.
+4. Ademais, não configura cerceamento de defesa o julgamento da causa, com o julgamento antecipado da lide, quando o Tribunal de origem entender substancialmente instruído o feito, declarando a prescindibilidade de produção probatória, por se tratar de matéria eminentemente de direito ou de fato já provado documentalmente.
+5. Agravo interno a que se nega provimento.(AgInt no AREsp 1259929/AM, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 21/08/2018, DJe 27/08/2018) - g.n.
+Veja-se, nessa mesma senda, que aa insurgência recursal sequer refuta os fundamentos dispostos e grifados no excerto supramencionado, notadamente para fins de fixar acorreção dos valores da avença pelo IGP-M. Logo, a teor da Súmula 283/STF, aplicável por analogia, "é inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Outrossim, elidir as conclusões do aresto impugnado quanto àsuposta validade da CDI em detrimento do IGP-M para fins de correção monetária, mormentecomo índice que melhor recompõe as perdas inflacionárias no caso concreto, sem ensejar abusividade das cláusulas entabuladas,demandaria o revolvimento do conjunto fático-probatório e contratual dos autos, providência vedada nesta sede especial a teor das Súmulas 5 e 7/STJ.
+A corroborar:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. NEGÓCIO JURÍDICO BANCÁRIO. CLÁUSULA ABUSIVA. REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. SÚMULAS NºS 5 E 7/STJ. DISSÍDIO NÃO DEMONSTRADO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. A verificação da existência ou da ausência de cláusulas abusivas demandaria a análise das cláusulas contratuais, cujo revolvimento é inviável em recurso especial, diante do que dispõem as Súmulas nºs 5 e 7/STJ.
+3. A divergência jurisprudencial, nos termos dos arts. 541, parágrafo único, do CPC/1973 e 255, § 1º, do RISTJ, exige comprovação e demonstração, esta, em qualquer caso, com a transcrição dos julgados que configurem o dissídio, a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que não restou evidenciado na espécie.
+4. Agravo interno não provido. (AgInt no AREsp1.367.642/MA,Rel. Min. Ricardo Villas Bôas Cueva, Terceira Turma, DJe 6.5.2019) - g.n.
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. AÇÃO REVISIONAL DE CONTRATO BANCÁRIO. 1. JUROS REMUNERATÓRIOS. ABUSIVIDADE. REVISÃO. SÚMULAS 5 E 7/STJ. 2. BEM MÓVEL COM ALIENAÇÃO FIDUCIÁRIA. CONSTRIÇÃO DOS DIREITOS. PRECEDENTES. 3. COMISSÃO DE PERMANÊNCIA. POSSIBILIDADE DE FORMA NÃO CUMULADA. SÚMULA 83/STJ 4. AUSÊNCIA DE INDICAÇÃO DE DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADOS. INCIDÊNCIA DA SÚMULA 284/STF. 5. ALEGAÇÃO DE EXCESSO DE EXECUÇÃO. FUNDAMENTO DO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF. 6. AGRAVO REGIMENTAL DESPROVIDO.
+1. Na espécie, alterar as conclusões do acórdão recorrido, no sentido de reduzir os juros remuneratórios à taxa média de mercado, diante da suposta abusividade do índice pactuado, demandaria reexame de fatos e provas e interpretação de cláusulas contratuais, providências vedadas na instância especial, conforme dispõem os enunciados n. 5 e 7 da Súmula desta Corte.
+(..)
+6. Agravo regimental desprovido.(AgRg no REsp 1559131/RS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 15/12/2015, DJe 03/02/2016) - g.n.
+E ainda, contrario sensu:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULAS 282 E 356/STF. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. CÉDULA DE CRÉDITO BANCÁRIO. ENCARGOS FINANCEIROS. CDI. POSSIBILIDADE. NECESSIDADE DE REEXAME DE CLÁUSULAS CONTRATUAIS E PROVAS. SÚMULAS 5 E 7/STJ. HONORÁRIOS ADVOCATÍCIOS.MAJORAÇÃO. ART. 85, § 11 DO CPC. DESCABIMENTO. EXCESSO. LIMITE ESTABELECIDO NO CÓDIGO DE PROCESSO CIVIL.
+1. Não se admite o recurso especial, quando não ventilada, na decisão proferida pelo tribunal de origem, a questão federal suscitada.
+2. Inviável o recurso especial amparado no dissídio jurisprudencial, quando não demonstrada a semelhança entre as hipóteses confrontadas.
+3. A conclusão das instâncias ordinárias, de que não foi verificada abusividade nos encargos pactuados com base na variação do certificado de depósito interbancário (CDI), fixado pela CETIP, foi obtida pela análise do conteúdo fático e contratual dos autos, cuja revisão encontra óbice nas Súmulas 5 e 7 do STJ.
+(..)
+7. Agravo interno parcialmente provido para afastar os honorários recursais.(AgInt no AREsp 1248069/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 23/03/2021, DJe 16/04/2021) - g.n.
+Tal posicionamento, frise-se,está em harmonia com a jurisprudência desta Corte no sentido de que, sendo o magistrado o destinatário da prova, cabe a ele decidir sobre o necessário à formação do próprio convencimento. Nesse sentido: REsp 740577/RS, 3ª Turma, Rel. Min. Sidnei Beneti, DJ 18/12/09 e REsp 469557/MT, 4ª Turma, Rel. Min. Luis Felipe Salomão, DJ 24/05/10.
+Saliente-se, por fim, que os mesmos óbices (Súmulas 5 e 7/STJ) aplicam-se ao alegado dissídio jurisprudencial, não se podendo falar em similitude fática para fins de sua comprovação.
+Nesse passo, esta Corte firmou o entendimento de que não é possível o conhecimento do recurso especial interposto pela divergência jurisprudencial na hipótese em que o dissenso é apoiado em fatos, e não na interpretação da lei, como ocorreu na espécie.
+Inviável, pois, a pretensão da agravante.
+Advirta-se que eventual recurso interposto contra este decisum estará sujeito às normas do CPC/2015 (cf. Enunciado Administrativo n. 3/STJ), inclusive no que tange à aplicação de multa.
+Ante o exposto, CONHEÇO do agravo para, desde logo, conhecer parcialmente do recurso especial e, nesta extensão, NEGAR-LHE PROVIMENTO.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSO CIVIL (CPC/2015). AÇÃO REVISIONAL. CONTRATOS BANCÁRIOS.NEGATIVA DE PRESTAÇÃO JURISDICIONAL E INEXISTÊNCIA DE FUNDAMENTAÇÃO. DECISÃO CITRA PETITA. INOCORRÊNCIA. FUNDAMENTOS NÃO IMPUGNADOS. SÚMULA 283/STF. REVOLVIMENTO DO CONJUNTO FÁTICO-PROBATÓRIO E CONTRATUAL DOS AUTOS. IMPOSSIBILIDADE. SÚMULAS 5 E 7/STJ.DISSÍDIO JURISPRUDENCIAL. AUSÊNCIA DECOMPROVAÇÃO.
+AGRAVO CONHECIDO PARA, DESDE LOGO, CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESTA EXTENSÃO, NEGAR-LHE PROVIMENTO.
