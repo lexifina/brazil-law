@@ -1,0 +1,9 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por EDUARDO DE SOUZA MATOS contra decisão desta Relatoria que deu provimento ao recurso especial, para determinar a retificação do cálculo das penas do recorrido, considerando-se como data-base para a progressão de regime, o dia em que preenchido o último requisito necessário à concessão desse benefício (e-STJ, fl. 151).
+O embargante sustenta que foi "dado provimento monocrático ao Recurso ministerial com base contrária ao alegado. Contudo, foi pormenorizadamente fundamentada e discutida toda a matéria, ou seja, no Recurso manejado foi exaustivamente delineado todos os pontos da presente indignação ao provimento aludido, que, ressalte-se, foi confeccionado estritamente dentro dos ditames legais, estando, portando, dentro do prazo e nos termos da Lei aventada, vigente à época da Interposição do aludido Recurso" (e-STJ, fl. 156).
+Requer sejam recebidos os presentes Embargos, "para o fim de recompor a contradição da respeitável Decisão proferida" (e-STJ, fl. 157).
+É o relatório.
+Da leitura das razões contidas nos embargos de declaração opostos às fls. 155-158, verifica-se que não foi demonstrada a existência de nenhuma omissão, contradição ou obscuridade na decisão monocrática ora impugnada.
+O embargante pretende, na verdade, seja reconsiderada a referida decisão, a fim de que prevaleça a sentença do Juízo de primeiro grau, que homologou o cálculo de sua pena, fixando como termo inicial para futura progressão de regime, a data em que ele preencheu o requisito objetivo da última benesse.Tal pretensão, porém, é manifestamente incabível na estreita via dos aclaratórios, que não se prestam a rediscutir o mérito da decisão embargada.
+Ante o exposto, à mingua de omissões, contradições ou obscuridades no julgado, rejeito os embargos de declaração.
+Publique-se. Intime-se.
