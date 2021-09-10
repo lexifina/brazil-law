@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de recurso especial interposto por SEBASTIÃO APARECIDO ABONIZIOfundamentado nasalíneas"a" e "c" do permissivo constitucional.
+Recurso especial interposto em: 28/04/2021.
+Concluso ao gabinete em:30/08/2021.
+Ação: de rescisão de contrato de compra e venta, reintegração de posse e perdas e danos ajuizada por INCORPORADORA BONGIOVAN S/S LTDA em desfavor do recorrente.
+Sentença: julgou parcialmente procedentes os pedidos para rescindir o contrato entabulado entre as partes,reintegrar a autora na posse do imóvel, condenando a empresa autora a devolver ao réu 80% (oitenta por cento) de todas as parcelas pagas.
+Acórdão: deu parcial provimento ao apelo da autora para majorar o percentual de retenção para 25%, bem como permitir a retenção do valor referente à comissão de corretagem.A ementa restou assim redigida:
+COMPROMISSO DE COMPRA E VENDA - RESCISÃO CONTRATUAL - DESINTERESSE DO A. PELA CONTINUIDADE DO PACTO - PRETENSÃO DEFERIDA MAS COM RETENÇÃO DE 25% DOS VALORES PAGOS - COMISSÃO DE CORRETAGEM DEVIDA PELO COMPRADOR - CONTRATO ACESSÓRIO QUE SE PERFECTIBILIZOU - HONORÁRIA DIVIDIDA - SENTENÇA REFORMADA EM PARTE - APELO PARCIALMENTE PROVIDO.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação dos artigos 11, 489, VI,e §1º, e 1022 do CPC;6º, III; 31; 46; 52, do CDC; bem como aponta dissídio jurisprudencial. Aponta negativa de prestação jurisdicional, ao argumento de que "demonstrou que o v. acórdão incorreu em omissão, na medida em que deixou de seguir tese firmada por este C. STJ em sede de recurso repetitivo (tema 938), que determina ser válida a cobrança de comissão de corretagem em desfavor do consumidor, desde que seu valor seja previamente fixado e informado ao adquirente no contrato por ele assinado, motivo pelo qual argumentou-se pela nulidade do v. acórdão pela falta de fundamentação". Assevera que "o precedente vinculante deste C. Superior Tribunal de Justiça (REsp nº 1.599.511/SP (Tema 939) considera válida a transferência deste ônus, porém, somente quando há previsão expressa e destacada deste valor no contrato". Aduz que "a tese do recorrente foi ignorada e a comissão de corretagem foi entendida como devida pela d. câmara julgadora, sem qualquer explicação ou fundamentação a justificar esta obrigação. Não houve a correta distinção entre o caso julgado, tampouco superação do julgamento."
+RELATADO O PROCESSO, DECIDE-SE.
+- Da negativa de prestação jurisdicional
+Consoante o entendimento desta Corte, há ofensa ao art. 1.022 do CPC quando o órgão julgador deixa de se manifestar, de forma expressa, sobre questão oportunamente suscitada nos autos e relevante para o integral julgamento da demanda (AgInt no AREsp 1.081.502/MG, 3ª Turma, DJe de 02/02/2018 e EDcl no AgInt no REsp 1.281.316/MT, 4ª Turma, DJe de 02/03/2018.
+No particular, as razões recursais tecidas acerca da suposta violação do art. 1.022 do CPC/15 residem na alegação de que o Tribunal de origemnão se manifestou acerca do tema 938, firmado pelo Superior Tribunal de Justiça; e de que "não foi analisada a condição que permite a transferência do pagamento de comissão de corretagem ao consumidor."
+Da análise do processo, constata-se que, de fato, o Tribunal não analisou essas questões, em que pese tenham sido devidamente suscitadas nos embargos de declaração opostos pela parteagravante.
+Assim, observada a jurisprudência dominante desta Corte quanto ao tema, impõe-se a cassação do acórdão que apreciou os declaratórios a fim de que sejam sanadas a omissão acima referida, tendo-se como prejudicado o exame das demais questões aventadas no presente recurso.
+Forte nessas razões, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e DOU-LHE PROVIMENTO, a fim de determinar a remessa dos autos ao Tribunal de origem, para que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos pela parte recorrente.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL.RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. OMISSÃO CARACTERIZADA.
+1. Há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem deixa de se manifestar expressamente sobre questão suscitada nos autos e relevante para o julgamento integral da demanda.
+2. Recurso especial conhecido provido.
