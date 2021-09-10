@@ -1,0 +1,35 @@
+DECISÃO
+Vistos etc.
+Trata-se de agravo em recurso especial, manejado por VITALINO DALLA BONA e VALDIR DALLABONA, contra decisão que deixou de admitir recurso especial, aviado pelaalínea"a" do inciso III do art. 105 da Constituição Federal, ao fundamento de incidência das Súmulas 07 e 83/STJ (e-STJ fls. 347-355).
+É o breve relatório.
+Passo a decidir.
+O presente recurso não merece ser conhecido em virtude da ausência de impugnação aofundamentoda decisão agravada.
+Com efeito, o recurso especial foi inadmitido em razão da incidência das Súmulas 7 e 83/STJ.
+A parte agravante, no entanto, limitou-se a alegar, em suma, omissão acerca da alegada ofensa ao art. 509, §4º, do Código de Processo Civil; violação aos arts. 166, inciso V, 318 e 394,do Código Civil; a inaplicabilidade da Súmula 83/STJ, haja vista que "o entendimento do Tribunal fixado na decisão é para indeferir o pedido dos recorridos e não o pedido dos recorrentes";que "não incide mora na atualização do valor a ser devolvido pelos recorrentes, mas tão somente a correção monetária, para recomposição da moeda"; que "o entendimento colacionado não possui similitude fática com os presentes autos, uma vez que, naqueles autos, trata-se de rescisão de contrato de promessa de compra e venda, enquanto que no presente feito foi decretada a nulidade do instrumento celebrado entre as partes"; bem como que não há falar em incidência da Súmula 07/STJ.
+Desta forma, vislumbra-se que não houve impugnação, de forma específica e suficiente, aofundamento utilizado pelo Tribunal de origem para não admitir o recurso especial, relativo à incidência da Súmula 83/STJ, notadamente evidenciando o seu efetivo desacerto.
+Efetivamente, "é dever do agravante impugnar, especificamente, todos os fundamentos da decisão agravada, mormente quanto à aplicação do óbice da Súmula nº 83/STJ, demonstrando que outro é o entendimento jurisprudencial desta Corte, com a indicação de precedentes contemporâneos ou supervenientes aos referidos na decisão agravada, de modo a justificar o cabimento do recurso especial interposto, sob pena de não ser conhecido o agravo" (AgRg no REsp 1402488/PR, Rel. Min. RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 10/03/2014) - g.n.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA. BEM DE FAMÍLIA. IMPENHORABILIDADE. SITUAÇÃO DIVERSA DA EXCEÇÃO PREVISTA NO ART. 3º, V, DA LEI N. 8.009/1990. SÚMULA 83/STJ. AGRAVO INTERNO IMPROVIDO.
+1. O Tribunal de origem adotou solução em consonância com a jurisprudência do STJ, segundo a qual é possível a penhora de bem de família, quando os únicos sócios da empresa devedora são os titulares do imóvel hipotecado, sendo ônus dos proprietários a demonstração de que a família não se beneficiou dos valores auferidos.
+2. Nos casos em que o recurso especial não é admitido com fundamento no enunciado n. 83 da Súmula do Superior Tribunal de Justiça, a impugnação deve indicar precedentes contemporâneos ou supervenientes aos mencionados na decisão combatida, demonstrando-se que outro é o entendimento jurisprudencial desta Corte.
+3. A aplicação da multa prevista no § 4º do art. 1.021 do CPC/2015 não é automática, não se tratando de mera decorrência lógica do desprovimento do agravo interno em votação unânime. A condenação da parte agravante ao pagamento da aludida multa, a ser analisada em cada caso concreto, em decisão fundamentada, pressupõe que o agravo interno mostre-se manifestamente inadmissível ou que sua improcedência seja de tal forma evidente que a simples interposição do recurso possa ser tida, de plano, como abusiva ou protelatória, o que, contudo, não se verifica na hipótese ora examinada.
+4. Fixados os honorários recursais no primeiro ato decisório, não cabe novo arbitramento nas demais decisões que derivarem de recursos subsequentes, apenas consectários do principal, tais como agravo interno e embargos de declaração.
+5. Agravo interno improvido. (AgInt no AREsp 1447561/GO, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 19/08/2019, DJe 22/08/2019) - g.n.
+Nessa esteira, a Súmula 83/STJ deveser comprovada, considerando a hipótese específica dos autos e por intermédio da indicação de precedentes atuais desta Corte Superior, a desarmonia do julgado ou a ausência de entendimento pacificado sobre a matéria.
+Saliente-se, ademais, que é dever da parte agravante impugnar especificamente todos os fundamentos utilizados para a inadmissão do apelo, sob pena de não conhecimento do agravo em recurso especial, a teor do que dispõe o art. 932, inciso III, do CPC/2015, in verbis:
+"Art. 932. Incumbe ao relator:
+(..)
+III - não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente os fundamentos da decisão recorrida".
+Nesse sentido, decidiu a Corte Especial:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932.
+1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932.
+2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal. Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+(..)
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018) - g.n.
+Destarte, em consonância com o princípio da dialeticidade recursal, não conhecer do agravo em recurso especial é medida que se impõe.
+Ante o exposto,NÃO CONHEÇO do agravo em recurso especial.
+Intimem-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/2015). AGRAVO DE INSTRUMENTO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOFUNDAMENTODA DECISÃO AGRAVADA. ART. 932, INCISO III, DO CPC/2015.
+AGRAVO NÃO CONHECIDO.
