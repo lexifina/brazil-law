@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DIEGO AVELAR RAMOS, em face de decisão monocrática de fls. 123-127, assim ementada:
+"PENAL. RECURSO ESPECIAL. PRESCRIÇÃO. PRESCRIÇÃO INTERCORRENTE E PRETENSÃO EXECUTÓRIA. MODALIDADES DISTINTAS. PRESCRIÇÃO DA PRETENSÃO PUNITIVA DO ESTADO. ACÓRDÃO CONFIRMATÓRIO DA SENTENÇA CONDENATÓRIA. INTERRUPÇÃO DO PRAZO PRESCRICIONAL. NOVO ENTENDIMENTO. PRECEDENTE DO STF, EM PLENÁRIO. PRESCRIÇÃO EXECUTÓRIA. MATÉRIA NÃO DEBATIDA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO."
+Nos presentes aclaratórios, oembargante aduz que a decisão impugnada "reconhece a existência dos pedidos de prescrição da pretensão punitiva de da pretensão executória, ao dizer que "As razões recursais apresentam nítida confusão entre as modalidades de prescrição" (fl. 132).
+Afirma que o julgamento monocrático deixou "de promover a devida análise de oficio tendo-se em linha de conta que a prescrição da pretensão executória configura-se como matéria de ordem pública, que pode e deve ser reconhecida de ofício, a qualquer tempo e grau de jurisdição, nos termos do artigo 61, do Código de Processo Penal" (fl. 133).
+Por fim, pugna pelo acolhimento e provimento do recurso.
+É o relatório.
+Decido.
+Os presentesEmbargos de Declaraçãonão merecem prosperar.
+Compulsando os autos, em que pesem os argumentos aventados peloembargante, não se faz possível verificar oaduzidovíciona decisãoobjurgada, configurando-se a pretendida via recursal, em verdade,merairresignaçãodiante do resultado do julgamento.
+Isso porque, conforme o próprio recorrente reconhece, a matéria acerca da prescrição da pretensão executória não foi analisada nas instâncias a quo, o que impede o reconhecimento do recurso especial quanto ao ponto, em razão da ausência de prequestionamento.
+Ademais, ajurisprudência desta Corte consolidou-se no sentido de que, na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento.
+Nesse sentido:
+"AGRAVO REGIMENTAL NOS EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. DISCUSSÃO ACERCA DA APLICAÇÃO DE REGRA TÉCNICA RELATIVA AO CONHECIMENTO DO RECURSO ESPECIAL. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA N.º 7 DO STJ. DESNECESSIDADE DO REQUISITO DO PREQUESTIONAMENTO. INVIABILIDADE DE DISCUSSÃO. MATÉRIA DE ORDEM PÚBLICA AGRAVO REGIMENTAL NÃO PROVIDO.
+1. É inviável, em sede de embargos de divergência, discussão acerca da admissibilidade do recurso especial, o que ocorre nos casos de incidência do óbice da Súmula n.º 7 do STJ e da ausência de prequestionamento, entre outros.
+2. "O entendimento de que é possível conhecer das questões de ordem pública de ofício, ainda que não prequestionadas ou suscitadas, na excepcional hipótese de o recurso especial ter sido conhecido por outros fundamentos, em razão do efeito translativo, foi superado em nova análise pela Corte Especial, que concluiu pela necessidade do requisito do prequestionamento na instância extraordinária."(AgRg nos EDcl no REsp 1252991/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 20/09/2012, DJe 25/09/2012).
+3. Agravo regimental não provido"(AgRg nos EREsp n. 830.577/RJ,Segunda Seção, Rel. Min.Luis Felipe Salomão, DJe de 30/04/2013, grifei)
+"AGRAVO REGIMENTAL NOS EMBARGOS DECLARATÓRIOS NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. FERIADO LOCAL. SUSPENSÃO DO EXPEDIENTE FORENSE. AUSÊNCIA DE COMPROVAÇÃO POR MEIO IDÔNEO. MATÉRIA DE ORDEM PÚBLICA. IMPRESCINDIBILIDADE DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AGRAVO REGIMENTAL DESPROVIDO.
+1. Cabe ao recorrente comprovar, por meio de documento idôneo, no momento da interposição do recurso, a ocorrência de feriado local ou de suspensão do expediente forense na instância de origem (art.1.003, § 6º, do Código de Processo Civil).
+2. O conhecimento de matérias de ordem pública não dispensa o devido prequestionamento e a correta observância ao regramento legal.Súmulas n. 282 e 356 do STF.
+3. Em caso de flagrante ilegalidade, os tribunais podem conceder ordem de habeas corpus de ofício. Contudo o writ não é meio para a defesa obter pronunciamento judicial a respeito de matéria de mérito de recurso que não ultrapassa os requisitos de admissibilidade.
+4. Agravo regimental desprovido."(AgRg nos EDcl no AREsp 1709689/RJ, Quinta Turma, Rel. MinistroJoão Otávio de Noronha, DJe 16/08/2021)
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. DESCAMINHO.PRESCRIÇÃO. AUSÊNCIA DE PREQUESTIONAMENTO. ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. ATUAL ENTENDIMENTO DO STF. PRINCÍPIO DA INSIGNIFICÂNCIA.HABITUALIDADE DELITIVA. INAPLICABILIDADE. AGRAVO NÃO PROVIDO.
+1. O prequestionamento é requisito imprescindível à admissibilidade do recurso especial incidente inclusive às matérias de ordem pública. Precedentes. Não obstante, a pretensão da defesa desconsidera o o atual entendimento do Supremo Tribunal Federal, segundo o qual o acórdão confirmatório de sentença implica a interrupção da prescrição da pretensão punitiva.
+2. Conforme jurisprudência uníssona desta Corte Superior, é inaplicável o princípio da insignificância aos réus contumazes no delito de descaminho, ainda que o valor do tributo iludido seja inferior a R$ 20.000,00. Precedentes. No caso, o réu ostenta, além de sete procedimentos administrativos fiscais, outras ações penais em andamento pela prática do crime previsto no artigo 334 do Código Penal.
+3. Agravo regimental não provido."(AgRg no AREsp 1724878/MS, Quinta Turma, Rel. MinistroRibeiro Dantas, DJe 26/04/2021)
+Mostra-se evidente, portanto, a busca indevida de efeitos infringentes, emvirtude deirresignaçãodecorrente do resultado do julgamento que lhe foi desfavorável, pois, na espécie, à conta de omissão,contradição e obscuridade na decisão, pretende o embargante, unicamente, arediscussão de matéria já apreciada.
+Ante o exposto, rejeitos os embargos de declaração.
+P. e I.
+EMENTA
+PENAL. EMBARGOS DE DECLARAÇÃO NORECURSO ESPECIAL. PRESCRIÇÃO. PRESCRIÇÃO INTERCORRENTE E PRETENSÃO EXECUTÓRIA. MODALIDADES DISTINTAS. PRESCRIÇÃO EXECUTÓRIA. MATÉRIA NÃO DEBATIDA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. INVIABILIDADE DE DISCUSSÃO DE MATÉRIA NÃO TRATADA NA ORIGEM, AINDA QUE DE ORDEM PÚBLICA. EMBARGOS DE DECLARAÇÃO REJEITADOS.
