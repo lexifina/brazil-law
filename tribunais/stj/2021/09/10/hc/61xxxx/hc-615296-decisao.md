@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de NATHAN VINICIUS SILVA DA COSTA em que se aponta como autoridade coatora Tribunal de Justiça do Estado de São Paulo (HC n. 2182181-37.2020.8.26.0000).
+O paciente foi preso em flagrante delito pela prática do crime de roubo. O flagrante foi convertido em preventiva mediante representação do órgão ministerial.
+Em suas razões o impetrante alega que houve nulidade na prisão em flagrante, posto que realizada no interior da residência do paciente sem mandado judicial. Afirma que há excesso de prazo na formação da culpa e desrespeito ao disposto no art. 316, parágrafo únicodo CPP.
+Requer, portanto, seja concedida a ordem determinando-se a revogação da prisão preventiva e assegurado ao paciente o direito de responder o processo em liberdade.
+O pedido liminar foi indeferido às fls. 85-87.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 108-111).
+Em petição acostada às fls. 113-122, o impetrante, além de reiterar os pedidos formulados nowrit,alega excesso de prazo na prisão - que perdura há mais de 10 meses.
+É o relatório. Decido.
+O Supremo Tribunal Federal e o Superior Tribunal de Justiça não admitem a impetração de habeas corpus em substituição ao recurso ordinário próprio (HC n. 463.434/MT, relator Ministro Reynaldo Soares da Fonseca, Terceira Seção, DJe 18/12/2020.) Esse entendimento tem sido adotado sem prejuízo de eventual deferimento da ordem de ofício em caso de flagrante ilegalidade.
+No que diz respeito à entrada dos policiais na residência do paciente sem mandado judicial, o Tribunal de origem manifestou-se no sentido de se tratar de flagrante delito e que, no julgamento dewrit anterior,foram demonstrados indícios suficientes para embasar a atuação policial, de modo que o seu julgamento aprofundado fugiria aos limites da ação de habeas corpus. É o que se retira do seguinte excerto do acórdão (fl. 19):
+De início ,cumpre salientar que a presença dos requisitos necessários à prisão preventiva já foi apreciada no Habeas Corpus nº 2101013-13.2020.8.26.0000, julgado em 22/6/2020, cuja ordem foi denegada por votação unânime.
+Naquele writ decidiu-se, também, que havia indícios de que a entrada dos policiais na residência foi autorizada, sendo que a discussão aprofundada sobre as provas a respeito deste fato extrapolaria os estreitos limites do habeascorpus e deveria ser realizada nos autos de 1º Grau.
+Verifica-se, portanto, que a situação foi remetida à análise do juízo de primeiro grau, durante a instrução criminal da ação penal em curso, na medida em que não foram acostadas provas suficientes que pudessem expor eventual teratologia ou ilegalidade na atuação policial que justificassem a concessão da ordem em habeas corpus.
+Desse modo, não existem elementos suficientes nos autos que possam macular a atuação policial. Entender de modo diverso demandaria oexame aprofundado dos elementos de prova constantes do inquérito e/ou da ação penal, o que não pode ser realizadona estreita via do habeas corpus (AgRg no HC n. 587.282/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020).
+Já em relação à violação do art. 316, parágrafo únicodo CPP, o Tribunal de origem entendeu por superada, na medida em que houve reavaliação dos requisitos da prisão preventiva pelo Juízo de primeiro grau.
+Desse modo, entendo que o referido pedido está prejudicado ante a perda do seu objeto.
+Por fim, quanto ao excesso de prazo, foi demonstrado nos autos que não houve desídia estatal ou violação da garantia da razoável duração, na medida em que a ação penal está seguindo o trâmite normal, de acordo com a complexidade que o caso concreto demanda.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Além disso, "os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades" (AgRg no HC n. 588.513/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 4/8/2020)
+Ante o exposto,não conheço dohabeas corpus.
+Publique-se. Intimem-se.
