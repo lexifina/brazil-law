@@ -1,0 +1,23 @@
+Decisão
+    Trata-se de Habeas Corpus, com pedido de medida liminar, impetrado contra decisão proferida pelo Ministro JESUÍNO RISSATO (Desembargador convocado), do Superior Tribunal de Justiça, no HC 690.322/MG.
+    Consta dos autos, em síntese, que o paciente foi preso preventivamente e denunciado pela prática dos crimes de tráfico de drogas, associação para o tráfico (arts. 33 e 35, c/c art. 40, VI, todos da Lei 11.343/2006) e organização criminosa (art. 2º, §2º e §4º, I, da Lei 12.850/2013).
+    Buscando a revogação da custódia, a defesa impetrou Habeas Corpus no Tribunal de Justiça do Estado de Minas Gerais, que denegou a ordem.
+    Colhe-se do voto condutor:
+    Consoante é cediço, a prisão cautelar embasada na ordem pública visa evitar que o agente permaneça delinquindo no decorrer da persecução penal, refreando distúrbios e intranquilidade no meio social.
+    Em análise aos documentos juntados aos autos, especialmente a denúncia de documento de ordem 03, verifica-se que, em tese, pelo menos, no período que compreende o ano de 2017 a maio de 2021, os denunciados se uniram de forma dolosa e consciente para promoverem, constituírem e integrarem organização criminosa estruturalmente ordenada e caracterizada pela divisão de tarefas, com o intuito de obter, diretamente, vantagem patrimonial com a prática dos crimes de tráfico de drogas, associação para o tráfico, roubo, tortura, corrupção de menores, comércio ilegal de armas de fogo e munição, porte de arma de fogo de uso restrito, posse e porte de arma de fogo de uso permitido, receptação, falsificação de documento público, incêndio, tentativa de homicídio, dentre outros delitos.
+    Consta-se que a referida organização criminosa, contava com um núcleo de segurança, formado por policiais militares e civis, que prestavam apoio na segurança das atividades ilícitas desenvolvidas pelo grupo, bem como alimentavam o líder da organização com informações privilegiadas, sempre com o intuito de proteger as ações criminosas, bem como o comando do consórcio criminoso.
+    Infere-se que ANILTON DE ARAÚJO SILVA JÚNOR, exercia a função de VAPOR dentro da OCRIM, sendo responsável, principalmente, por realizar transportes de drogas, auxiliando os demais membros da organização, levando e buscando drogas entre eles, como Mateus e Flávio, para garantir o abastecimento de todos.
+    Ademais, consta que a organização criminosa integrada pelos denunciados atuava mediante emprego de arma de fogo.
+    Destarte, analisando detidamente o caso concreto, as circunstâncias do delito e a periculosidade do suspeito, de fato, a conservação da prisão cautelar do paciente se exibe imprescindível para a garantia da ordem pública.
+    Na sequência, nova impetração, desta vez direcionada ao Superior Tribunal de Justiça, cujo pedido de liminar fora indeferido (Doc. 13).
+    Nesta ação, o impetrante alega, em suma, a ausência dos pressupostos autorizadores da prisão preventiva. Ressalta que (a) O Magistrado baseou a decisão somente nas interceptações telefônicas e na gravidade em abstrato do delito; e (b) ANILTON foi diagnosticado com Depressão, Ansiedade, sintomas de transtorno de Déficit de Atenção com hiperatividade (TDAH), além de já ter tido episódio de tentativa de suicídio, fazendo uso de medicação controlada, conforme receituário e relatório psicológico anexo.
+    Requer, assim, a concessão da ordem, para que seja revogado o decreto prisional, com ou sem imposição de medidas cautelares diversas.
+    É o relatório. Decido.
+    Nos termos da Súmula 691/STF, não cabe ao SUPREMO TRIBUNAL FEDERAL conhecer de Habeas Corpus voltado contra decisão proferida por relator que indefere o pedido de liminar em impetração requerida a tribunal superior, sob pena de indevida supressão de instância. O rigor na aplicação desse enunciado tem sido abrandado por julgados desta CORTE somente em caso de manifesto constrangimento ilegal, prontamente identificável (HC 138.946, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ALEXANDRE DE MORAES, Primeira Turma, DJe de 25/4/2018; HC 128.740, Rel. Min. MARCO AURÉLIO, Rel. p/ Acórdão Min. ROSA WEBER, Primeira Turma, DJe de 24/10/2016; HC 138.945- AgR, Rel. Min. GILMAR MENDES, Segunda Turma, DJe de 7/3/2017).
+    Na espécie, entretanto, não se constata a presença de flagrante ilegalidade apta a justificar a intervenção antecipada da SUPREMA CORTE.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, INDEFIRO a ordem de HABEAS CORPUS.
+    Publique-se.
+    Brasília, 11 de setembro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
