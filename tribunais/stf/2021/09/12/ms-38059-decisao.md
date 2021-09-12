@@ -1,0 +1,19 @@
+DECISÃO:
+Ementa: Direito processual civil. Mandado de segurança. Ato praticado no âmbito da Pagadoria de Inativos e Pensionistas da Aeronáutica (PIPAR). Erro na indicação do primeiro impetrado. Extinção parcial.
+1. Embora aponte como autoridade coatora também o TCU, o mandado de segurança se insurge contra ato praticado no âmbito da Pagadoria de Inativos e Pensionistas da Aeronáutica (PIPAR), de modo que a autoridade responsável pelo ato impugnado não se inclui entre aquelas previstas no art. 102, I, d, da Constituição.
+2. Excluído do feito o primeiro impetrado, não subsiste a competência deste Supremo Tribunal Federal.
+3. Writ extinto parcialmente, com a remessa dos autos à Justiça Federal de São Paulo.
+    1. Trata-se de mandado de segurança, com pedido liminar, impetrado contra atos do Tribunal de Contas da União (TCU) e da Pagadoria de Inativos e Pensionistas da Aeronáutica (PIPAR), que teriam determinado ao impetrante a opção entre dois vínculos com a Administração Pública.
+    2. Narra o autor que é militar reformado da Aeronáutica e que foi contratado por prazo determinado pelo Município de Governador Valadares para exercer a função de “técnico em operação de estações de serviços de telecomunicações de tráfego aéreo”. Esclarece que foi notificado por sua organização militar de origem, para firmar termo de opção de cargo, função ou remuneração, de modo a escolher entre o vínculo militar ou o civil, conforme orientações oriundas do Tribunal de Contas da União.
+    3. Alega ter direito a acumulação de proventos, uma vez que a Constituição Federal apenas veda a acumulação no âmbito de um mesmo regime previdenciário. Sustenta que o TCU teria reconhecido tal possibilidade de acumulação, nos acórdãos nº 1.310/2005 e 1.151/2013.
+    4. Requer tutela de urgência, porque os efeitos da opção já se fazem presentes. Defende que há plausibilidade no direito invocado e perigo de dano, por se tratar de verba alimentar, que compõe os meios indispensáveis a sua subsistência.
+    5. É o relatório. Decido.
+    6. Observo que, pelo telegrama, juntado aos autos (doc. 05, fl. 4), o Diretor da Pagadoria de Inativos e Pensionistas da Aeronáutica (PIPAR) determinou o comparecimento do impetrante naquela repartição, para assinar o termo de opção.
+    7. Conforme os documentos juntados (doc. 5, fls. 1-3), o TCU identificou a acumulação de proventos, mas não determinou especificamente que houvesse a opção. Há, tão somente, orientações gerais sobre como o órgão de vínculo deve proceder nessas hipóteses. Assim, a decisão por determinar a opção não foi proferida pelo TCU, mas sim pelo Diretor do PIPAR, conforme se extrai do telegrama juntado ao caderno processual.
+    8. Tenho, assim, que a opção entre os dois vínculos, contra o que se insurge a inicial do writ, não constitui ordem do TCU, mas decorre de procedimento instaurado pela organização militar a que vinculado o impetrante, para apurar a irregularidade suscitada pelo TCU.
+    9. Deste modo, embora o impetrante aponte como autoridade coatora o TCU e o PIPAR, a impetração se volta, na verdade, exclusivamente contra ato do Diretor deste último órgão, que determinou a opção por um dos dois proventos. Assim, a autoridade responsável pela prática do ato impugnado não se inclui entre aquelas previstas no art. 102, I, d, da Constituição, o que seria necessário para justificar a competência originária do Supremo Tribunal Federal.
+    10. Diante do exposto, com base no art. 21, § 1º, do RI/STF, determino a exclusão do TCU do polo passivo deste mandado de segurança, declaro a incompetência absoluta do Supremo Tribunal Federal para julgar o presente writ e determino a remessa dos autos à Justiça Federal de São Paulo.
+          Publique-se. Intimem-se.
+          Brasília, 12 de setembro de 2021.
+Ministro Luís Roberto Barroso
+Relator
