@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de conflito negativo de competência suscitado pelo Juízo de Direito da Vara de Execução Meio Aberto e Medidas Alternativasdo Novo Gama/GOem face do Juízo de Direito da Vara de ExecuçõesPenais e Medidas Alternativas do Distrito Federal/DF.
+Consta dos autos que Samuel Arcanjo dos Passos foi condenado pelo 2º Juizado Especial Cível e Criminal do Gama/DFà pena de 6 meses de detenção, no regime aberto, substituída a pena privativa de liberdade por duas restritivas de direitos.
+No entanto, o Juízo da Vara de Execuções Penaise Medidas Alternativas do Distrito Federal, ora suscitado,declinou a competência para a Comarca doNovo Gama/GO, local de residência dosentenciado.
+Daí o presente conflito, no qual o juízo suscitante afirma que "acompetência para execução da pena é do Juízo da condenação e não do local do domicílio dosentenciado, de modo que a circunstância do condenado residir em Novo Gama/GO, não autoriza o deslocamento automático da competência do Juízo da Execução Penal" (fl. 117). Salienta que "os autos de execução penal foram remetidos sem a prévia concordância deste Juízo, única e exclusivamente em razão de constar nos autos que o reeducando possivelmente tenha domicílio na Comarca de Novo Gama/GO" (fl. 117).
+Prestadasinformações, manifestou-se o Ministério Público Federal pela declaração da competência do juízo suscitado.
+Em se tratando de conflito negativo de competência entre juízos submetidos a tribunais diversos, impõe-se o conhecimento do presente conflito, nos termos do art. 105, I, "d", da CF/88.
+Consoante entendimento do Superior Tribunal de Justiça,"A competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento o cumprimento da pena determinada, inexistindo deslocamento de competência" (CC 113.112/SC, Terceira Seção, Rel Ministro Gilson Dipp, DJe 17/11/2011)(CC 172.445/RJ, Rel. Ministro JOEL ILAN PACIORNIK, TERCEIRA SEÇÃO, julgado em 24/06/2020, DJe 29/06/2020).
+Ademais, "a transferência de preso para local próximo de sua família, onde possa obter resultados mais favoráveis no processo de ressocialização, depende de consulta prévia ao juízo de destino" (CC 148.441/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 09/08/2017, DJe 17/08/2017), o que não ocorreu no caso.
+Ante o exposto, conheço do conflito para declarar competente o Juízo de Direito da Vara de Execuções Penais e Medidas Alternativas doDistrito Federal,ora suscitado.
+Publique-se.
+Intimem-se.
