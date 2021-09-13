@@ -1,0 +1,23 @@
+DECISÃO
+Relatou o Ministro Humberto Martins, Presidente do Superior Tribunal de Justiça, ao indeferir a liminar (fl. 90 - grifo nosso):
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de LUAN DA SILVA DE SANTANAem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Agravo de Execução Penal n. 0003026-93.2021.8.26.0996).
+O paciente cumpre pena total de 14 anos de reclusão pela prática de dois crimes de roubo, um deles majorado, com término de cumprimento previsto para 14/8/2031, encontrando-se atualmente no regime intermediário.
+A impetrante sustenta que, "não havendo prova de inaptidão subjetiva do sentenciado para a progressão de regime de cumprimento de pena, imperiosa a adoção como data-base para a progressão ao regime aberto da data do preenchimento do requisito objetivo para a progressão ao regime semiaberto cumulada com a classificação boa ou ótima, de seu comportamento carcerário" (fl. 7), sendo inadequada sua fixação a partir da data em que for realizado o exame criminológico.
+Requer, liminarmente e no mérito, a concessão da ordem para que considere como data-base para a progressão de regime a data em que o paciente preencheu o requisito temporal, de caráter objetivo e, simultaneamente, ostentou bom comportamento carcerário, independentemente da submissão ao exame criminológico.
+Prestadas as informações (fls. 98/107), o Ministério Público Federal manifestou-se pelo não conhecimento dowrit(fl. 117).
+É o relatório.
+Não assiste razão à impetrante.
+Com efeito, as instâncias ordinárias entenderam que a decisão de concessão de progressão de regime possui natureza declaratória, o que determina que o marco inicial para as futuras progressões ocorra na data em que o condenado preencheu os requisitos objetivo e subjetivo, sendoque, no caso, a data-base coincide com a realização do exame criminológico, último marco interruptivo implementado.
+Tal conclusão está em consonância com o entendimento desta Corte Superior, segundo o qual a data-base para a concessão de nova progressão de regime é o dia em que o último requisito (objetivo ou subjetivo) do art. 112 da Lei n. 7.210/1984 estiver preenchido, tendo em vista que o dispositivo legal exige a concomitância de ambos para o deferimento do benefício. Se há a necessidade de exame criminológico para aferir a presença do requisito subjetivo para a progressão de regime do Agravante, este requisito somente pode ser considerado preenchido no momento em que houver parecer técnico favorável (AgRg no HC n. 654.153/SP, Ministra Laurita Vaz, Sexta Turma, DJe 25/5/2021 - grifo nosso).
+No mesmo sentido:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL.PROGRESSÃO DE REGIME. DATA-BASE. REQUISITOS OBJETIVO E SUBJETIVO.PREENCHIMENTO. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se verifica a existência de constrangimento ilegal apto a ensejar a concessão da ordem, uma vez que o entendimento a que chegou o Tribunal de origem, no que se refere ao marco inicial para concessão de progressão de regime, está em consonância com o entendimento desta Corte Superior, segundo o qual "a data-base para verificação da implementação dos requisitos objetivo e subjetivo, previstos no art. 112, da Lei n. 7.210/84, deverá ser definida de forma casuística, fixando-se como termo inicial o momento em que preenchido o último requisito pendente, seja ele o objetivo ou o subjetivo" (HC n. 358.566/RS, relator o Ministro Felix Fischer, Quinta Turma, DJe de 21/10/2016).
+2. "Em razão da determinação de realização de exame criminológico, reputa-se preenchido o requisito subjetivo no momento em que houve parecer técnico favorável, sendo esta a data-base a ser considerada para nova progressão, não obstante o requisito objetivo haver sido preenchido em momento anterior" (AgRg no HC n. 634.186/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 23/3/2021, DJe 30/3/2021).
+3. Agravo regimental desprovido.
+(AgRg no HC n. 662.270/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma,DJe 1º/6/2021)
+Dessa forma, mostra-se correta a decisão que fixou como o termo inicial para a progressão de regime a data em que implementado o último requisito para o benefício requerido, inexistindo constrangimento ilegal a ser sanado.
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. EXECUÇÃO PENAL. DATA-BASE PARA PROGRESSÃO DE REGIME. MOMENTO DE PREENCHIMENTO DO ÚLTIMO REQUISITO PREVISTO NO ART. 112 DA LEP. REALIZAÇÃO DE EXAME CRIMINOLÓGICO. REQUISITO SUBJETIVO PREENCHIDO NA DATA DO PARECER FAVORÁVEL. DECISUM NO MESMO SENTIDO DA JURISPRUDÊNCIA DO SUPERIOR TRIBUNAL DE JUSTIÇA. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
