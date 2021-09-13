@@ -1,0 +1,8 @@
+DECISÃO
+Trata-se de embargos de declaração (fls. 1.144-1.147/e-STJ) opostos por Edison Dias Marques contra decisão por meio da qual dei parcial provimento ao recurso especial, para determinar que a pensão seja fixada em 2/3 do salário mínimo até 25 (vinte e cinco) anos e, a partir daí, reduzida para 1/3 do salário, até a idade em que a vítima completaria 65 (sessenta e cinco) anos.
+Alega a parte embargante que foi omisso o julgado quanto aos honorários, nos termos do artigo 85do Código de Processo Civil.
+Não verifico nenhum dos vícios necessários ao conhecimento dos embargos declaratórios, a teor do artigo 1.022 do Código de Processo Civil. Vale ressaltar que os embargos de declaração cabem, tão só, nos casos em que o acórdão embargado for omisso, contraditório ou obscuro, não se prestando à rediscussão da matéria nele apreciada.
+Com efeito, o acórdão da apelação bem fixou os honorários de advogado em 10% (dez por cento) do valor da condenação dos danos morais, incidindo também no tocante às prestações alimentícias vencidas e doze vincendas (fl. 655/e-STJ).
+O caso, ademais, não comporta a majoração do artigo 85, § 11, do CPC/2015, porque o arbitramento dos honorários deu-se sob a égide do Código de Processo Civil de 1973, sendo certo que "A Corte Especial, ao julgar os EAREsp 1.255.986/PR, Rel. Ministro Luis Felipe Salomão, DJe de 6/5/2019, consolidou o entendimento de que a data da sentença é o marco temporal a ser considerado para definição da norma de regência aplicável ao arbitramento de honorários de sucumbência" (AgInt no AREsp 1552109/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, DJe 3.2.2020).
+Em face do exposto, rejeito os embargos de declaração.
+Intimem-se.
