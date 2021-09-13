@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de pedido liminar, deduzido em sede de habeas corpus substitutivo de recurso próprio,impetrado em benefício de SANTIAGO ANTÔNIO, contra decisão proferida por em. Desembargador do eg. Tribunal de Justiça do Estado de Santa Catarina.
+Depreende-se dos autos que o paciente foi condenado à pena de 04 (quatro) anos, 10 (dez) meses e 24 (vinte e quatro) dias de reclusão, em regime semiaberto, bem como ao pagamento de 27 (vinte e sete) dias-multa, por infração ao art. 171, caput, por duas vezes,art. 171, caput, c/c art. 14, inciso II e ao art. 332, caput, c/c art. 332, parágrafo único, todos do Código Penal.
+Irresignada, a defesa impetrou habeas corpus ao Tribunal de origem, que ainda não julgou o mérito da impetração.
+No presente writ, o impetrante sustenta a ocorrência de constrangimento ilegal, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Requer, ao final, a concessão da ordem, para fixar o regime aberto, para o início de cumprimento da pena (fls. 3-13).
+É o breve relatório.
+Decido.
+O col. Pretório Excelso firmou orientação no sentido de não admitir a impetração de habeas corpus substitutivo ante a previsão legal de cabimento de recurso pertinente. As Turmas que integram a Terceira Seção desta Corte alinharam-se a esta dicção, e, desse modo, também passaram a repudiar a utilização desmedida do writ substitutivo em detrimento do recurso adequado.
+Portanto, não se admite mais a utilização de habeas corpus substitutivo quando cabível o recurso próprio, situação que implica o não conhecimento da impetração. Entretanto, no caso de flagrante ilegalidade apta a gerar constrangimento ilegal, a jurisprudência recomenda a concessão da ordem de ofício.
+Ab initio, verifica-se que o presente writ investe contra decisão proferida por em. Desembargador, que indeferiu o pedido liminar em habeas corpus, e ainda não julgou o mérito da impetração. Nesse diapasão, considerando que o Tribunal de origem não se pronunciou sobre os temas aventados na presente impetração, esta Corte Superior fica impedida de se debruçar sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+Tal matéria encontra-se, inclusive, sumulada, conforme se depreende do enunciado nº 691/STF, in verbis: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+Outrossim, em hipóteses excepcionais, que se caracterizam pela flagrante ilegalidade, verificável icto oculi, vale dizer, evidenciada teratologia ou deficiência de fundamentação na decisão impugnada, esta Corte tem admitido a suplantação do versado óbice.
+Na hipótese, não estão configurados os requisitos para a superação do enunciado sumular e a concessão da ordem requestada, uma vez que o quantum de pena estabelecido, qual seja, 04 (quatro) anos, 10 (dez) meses e 24 (vinte e quatro) dias de reclusão, conduz o cumprimento da pena ao regime semiaberto.
+Nesse diapasão, tem-se manifesta a incompetência desta Corte para tomar conhecimento do pedido, impossibilitando o prosseguimento do writ, a teor do disposto no art. 210, do RISTJ, in verbis: "Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, indefiro liminarmente o presente habeas corpus, nos termos dos arts. 34, XX e 210, ambos do RISTJ.
+Cientifique-se o Ministério Público Federal.
+P. e I.
