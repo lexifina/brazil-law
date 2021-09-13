@@ -1,0 +1,26 @@
+DECISÃO
+Vistos etc.
+Trata-se de pedido de tutela provisória formulado por FGR URBANISMO MATA DO ALGODÃO LTDA. com o objetivo de ver agregado efeito suspensivo a recurso especialtirado deação de rescisão contratual c/c devolução de importâncias pagas contra ele ajuizada por GUSTAVO ALESSANDRO SANTOS LOBOe GINA ELIANE MENEZES HAASE LOBO.
+Disse do prognóstico favorável ao conhecimento e provimento do seu recurso especial em que sustentaa violaçãoaos arts. 26 e 27 da Lei nº 9.514/97, 489, §1º, IV e 1.022, II e parágrafo único, II do CPC.
+Referiu que, em se tratando de negócio jurídico de compra e venda de bem imóvel, garantido por alienação fiduciária, deve prevalecer a norma contida na Lei nº 9.514/97, em detrimento do Código de Defesa do Consumidor, naquilo em que forem incompatíveis, não havendo que se falar em rescisão e restituição de importâncias pagas nos moldes postulados na exordial.
+Sustentou inapropriada a conclusão do acórdão recorrido no sentido de que o registro do contrato posteriormente ao ajuizamento da demanda afasta a aplicação dos arts. 26 e 27 da Lei nº 9.514/97, atraindo a incidência do CDC e do enunciado da Súmula 543/STJ, e, ainda, indevida a devolução dos valores recebidos pela Recorrente durante a avença, deduzidos de 10% apenas.
+Asseverou que a jurisprudência desta Corte já reconhecera não ser necessário o registro da alienação fiduciária para que surta efeitos entre as partes e, ainda, ser a imperiosa observância das regras previstas nos arts. 26 e 27 da Lei nº 9.514/97, sendo que a eventual devolução de eventuais valores aos adquirentes ocorrerá em havendo quantia que sobejar a dívida após realizados os leilões.
+Finalizou dizendo do risco de dano irreparável, pois os recorridos já alegaram estar em dificuldades financeiras, sendo que a decisão que receber o cumprimento de sentença provisório pode sequer exigir caução dos requeridos. Pediu o deferimento da tutela.
+É o relatório.
+Passo a decidir.
+Em que pese ausente o juízo de admissibilidade, é de se ressaltar o indeferimento do pedido de tutela provisória formulado junto ao Tribunal local, habilitando-se, assim, o exame por esta Corte Superior.
+A discussão de fundo é conhecida por este Superior Tribunal de Justiça e, aparentemente, o acórdão recorrido encontrar-se-ia em conflito com a orientação aqui traçada acerca dos valores a serem devolvidos na resolução de contratode compra e venda de imóvel garantidopor alienação fiduciária, não fosse o reconhecimento da ausência de registro da garantia real.
+Esta Terceira Turma, em decisão recente, reconhecera ser mister o registro da alienação para a utilização do procedimento de venda extrajudicial do bem alienado fiduciariamente.
+A propósito:
+DIREITO CIVIL. RECURSO ESPECIAL. AÇÃO DE RESCISÃO DE CONTRATO PARTICULAR DE COMPRA E VENDA DE IMÓVEL C/C PEDIDO DE DEVOLUÇÃO DAS QUANTIAS PAGAS. CLÁUSULA DE ALIENAÇÃO FIDUCIÁRIA EM GARANTIA.AUSÊNCIA DE REGISTRO. GARANTIA NÃO CONSTITUÍDA. VENDA EXTRAJUDICIAL DO BEM. DESNECESSIDADE.
+1. Ação ajuizada em 01/08/2017. Recurso especial interposto em 27/05/2019 e concluso ao Gabinete em 03/09/2019. Julgamento: CPC/2015.
+2. O propósito recursal consiste em dizer se a previsão de cláusula de alienação fiduciária em garantia em instrumento particular de compra e venda de imóvel impede a resolução do ajuste por iniciativa do adquirente, independentemente da ausência de registro.
+3. No ordenamento jurídico brasileiro, coexiste um duplo regime jurídico da propriedade fiduciária: a) o regime jurídico geral do Código Civil, que disciplina a propriedade fiduciária sobre coisas móveis infungíveis, sendo o credor fiduciário qualquer pessoa natural ou jurídica; b) o regime jurídico especial, formado por um conjunto de normas extravagantes, dentre as quais a Lei 9.514/97, que trata da propriedade fiduciária sobre bens imóveis.
+4. No regime especial da Lei 9.514/97, o registro do contrato tem natureza constitutiva, sem o qual a propriedade fiduciária e a garantia dela decorrente não se perfazem.
+5. Na ausência de registro do contrato que serve de título à propriedade fiduciária no competente Registro de Imóveis, como determina o art. 23 da Lei 9.514/97, não é exigível do adquirente que se submeta ao procedimento de venda extrajudicial do bem para só então receber eventuais diferenças do vendedor.
+6. Recurso especial conhecido e não provido.(REsp 1835598/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 09/02/2021, DJe 17/02/2021)
+Na hipótese dos autos, o registro fora feito quase um ano após o ajuizamento da ação de resolução, o que, em princípio, o faz adequar-se ao precedente referido, pois não haveria constituir-se a garantia após o pedido de resolução do contrato que seria por ela garantido.
+Porque ausente o prognóstico favorável de provimento do recurso e, ainda,não demonstrada a premência da concessão do efeito suspensivo, senão a possibilidade de vir a ser deferida execução provisória, o que é insuficiente, tenho por indeferir o pedido de tutela.
+Ante o exposto, indefiro o pedido de tutela provisória.
+Advirto as partes que a oposição de incidentes manifestamente improcedentes e protelatórios dará azo à aplicação das penalidades legalmente previstas.
+Intimem-se.
