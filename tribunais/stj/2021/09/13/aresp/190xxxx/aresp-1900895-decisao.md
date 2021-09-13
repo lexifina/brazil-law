@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo interposto por ILTON LUIS ABBADE COSTA contra decisão que negou seguimento a recurso especial, fundamentado naalínea"a" do inciso III do artigo 105 da Constituição Federal,contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (e-STJ fl. 365):
+RESPONSABILIDADE CIVIL. Supostos vícios de qualidade, a comprometer a regular fruição de veículo automotor. Abordagem constitutivo/reparatória. Juízo de improcedência. Apelo do autor. Desprovimento.
+Os embargos de declaração opostos foram rejeitados (fls. 385/387).
+O agravantesustenta, nas razões de recurso especial, ofensa aos artigos 85, § 2º, e 489, IV,do Código de Processo Civil; 6º, VI, do Código de Defesa do Consumidor; 927 do Código Civil,, alegando a ocorrência de negativa de prestação jurisdicional em razão da ausência de fundamentação do acórdão recorrido, a caracterização dos danos morais indenizáveis decorrente da necessidade de reiteradosreparos em veículo novo e que a majoração da verba honorária foi efetuada com exagero pelo Tribunal de origem, não observandoo benefício econômico pretendido no recurso de apelação.
+Não assiste razão aorecorrente.
+Depreende-se dos autos que oautor, ora agravante, ajuizou a presente ação visando à substituição ou restituição dos valores pagos por veículo novo, tendo em vista os reiterados problemas apresentados.
+A sentença, sob o entendimento de que os defeitos foram solucionados e que ficou caracterizada ademora do consumidorno questionamento pelo serviço prestado,julgou improcedentes os pedidos, fixando a verba honorária em 10% (dez por cento)sobre o valor atualizado da causa.
+O acórdão recorrido manteve a sentença com as seguintes considerações (fl.366):
+Respeitosamente, não se entrevê melhor fundamento, a legitimar pretendida disciplina reparatória, por dano moral.
+Os problemas apresentados pelo veículo do autor foram devidamente sanados, conforme atestou a perícia (fls.179/188), não sobrevindo qualquer vício, a comprometer-lhe a utilização regular, tampouco eventual sequela, a indicar desvalorização de mercado, com a nota de que, ao tempo do estudo técnico, o veículo já contava com 93.495 quilômetros rodados.
+Ainda a observar que, nas intervenções corretivas, não houve maior delonga na execução dos serviços.
+Não observo, portanto, nenhumvício ou ausência de fundamentação no acórdão estadual, senão julgamento contrário aos interesses dorecorrente, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Ressalto que o julgador não está obrigado a respondertodos os questionamentos das partes, todavia, deve resolver o litígio de forma clara e suficientemente fundamentada, explicitando às partes as motivações do seu convencimento, o que ocorreu no presente caso.
+Quanto ao dano moral, anoto que prevalece no Superior Tribunal de Justiça o entendimento no sentido de que a responsabilidade do agente decorre da comprovação do ato ilícito, sendo desnecessária a comprovação do dano em si. Por esse motivo, esta Corte orienta, há muito, que "o dano moral decorrente da inscrição indevida no cadastro de inadimplentes é considerado in re ipsa, não sendo necessária, portanto, a prova do prejuízo" (AgRg no AREsp 521.790/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 14.10.2014).
+Ocorre que, para ser presumido pela simples comprovação do ato ilícito, esse ato deve ser capaz de gerar o abalo moral ao íntimo do lesado.No caso em exame, as instâncias ordinárias concluíram que não houve falhaou mesmo delonga na prestação do serviço.
+Fica claro, portanto, que a adoção de entendimento diverso por esta Corte quanto à existência de danos morais na espécie encontra óbice no teor do enunciado n. 7 da Súmula do STJ.
+Por fim, a majoração doshonorários efetuada pelo Tribunal de origem observou os limites percentuais previsto no § 2º do art. 85 do CPC.Estando dentro dos limites legais, a revisão do valor fixado encontra óbice na já referida Súmula 7/STJ.
+Ademais, contrariamente ao que argumenta o recorrente,o benefício econômico refletido na pretensão do recurso não vincula a majoração da verba honorária.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
