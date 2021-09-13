@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de pedido de devolução de prazo recursal (e-STJ fls. 765/768),no qual o requerente informa que (e-STJ fl. 765):
+(..) infelizmente foi acometido pelo COVID-19 e teve que ser internado onde permaneceu inconsciente na UTI, impossibilitado de dar continuidade ao feito com recursos e manifestações, situação que perdurou por meses, e até agora não tem condições de trabalhar, conforme relatório médicos anexos.
+Somente neste momento o exequente teve condição de passar o instrumento de mandato para regular andamento do feito, documento anexo.
+É o relatório.
+Decido.
+O requerente interpôs recurso especial, que foi inadmitido. Inconformado, recorreu, tendo sidonegado provimento ao agravo interno às fls. 583/585.
+Os embargos de declaração opostos foram rejeitados (e-STJ fls. 661/663).O agravo interno interpostofoi julgado, nos termos da seguinte ementa (e-STJ fl. 751):
+PROCESSUAL CIVIL. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. APRECIAÇÃO DE TODAS AS QUESTÕES RELEVANTES DA LIDE PELO TRIBUNAL DE ORIGEM. AUSÊNCIA DE AFRONTA AO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO DO RECURSO. SÚMULA N. 284 DO STF. DIVERGÊNCIA JURISPRUDENCIAL NÃO DEMONSTRADA. AUSÊNCIA DE SIMILITUDE FÁTICA. DECISÃO MANTIDA.
+1. Inexiste afronta ao art. 1.022 do CPC/2015 quando o acórdão recorrido pronuncia-se, de forma clara e suficiente, acerca das questões suscitadas nos autos, manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+2. O recurso deve observar o princípio da dialeticidade, ou seja, apresentar os motivos pelos quais a parte recorrente não se conforma com o acórdão recorrido, de modo a permitir o cotejo entre os fundamentos da decisão recorrida e as razões expendidas no recurso. A deficiência na fundamentação do recurso especial obsta seu conhecimento (Súmula n. 284/STF).
+3. O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige a demonstração da similitude fática entre os acórdãos confrontados.
+4. Agravo interno a que se nega provimento.
+A decisão transitou em julgado em 11/5/2021 (e-STJ fl. 761).
+Conta dos autos a procuração do recorrente,na qual concede poderes aos seguintes procuradores: LEOPOLDO ELIZIARIO DOMINGUES (OAB/SP 87.112), WILSON MAGDA DE SOUSA (OAB/SP 287.290) e ANTONIO SOUZA DE ANDRADE (OAB N. 325.173).
+Na presente petição, emque é solicitada a restituição de prazo, consta substabelecimento do Sr.WILSON MAGDA DE SOUSA (OAB/SP 287.290) às seguintes advogadas: MELYSSA SUZUKI YOSHIDA BISCONTE (OAB/SP 388.923) e NADIA MORAES DOS SANTOS (OAB/SP 866.151).
+Segundo a jurisprudência desta Corte Superior,"a restituição do prazo recursal em caso de doença do próprio causídico, desde que seja o único advogado constituído nos autos, bem como esteja totalmente impossibilitado de exercer a função ou de substabelecer o mandato"(AgInt nos EDcl no AREsp n. 1.260.900/SP, RelatoraMinistra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 18/11/2019, DJe 20/11/2019).
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. 1. PEDIDO DE RESTITUIÇÃO DO PRAZO RECURSAL. DOENÇA DO ADVOGADO. JUSTA CAUSA. NÃO COMPROVAÇÃO. PRECEDENTES. 2. INTERPOSIÇÃO DO AGRAVO APÓS O TRANSCURSO DO PRAZO DE 15 DIAS ÚTEIS (ART. 219, C/C O ART. 1.003, § 5º, DO CPC/2015). INTEMPESTIVIDADE RECONHECIDA. 3. AGRAVO INTERNO NÃO CONHECIDO.
+1. De fato, "consoante a jurisprudência desta Corte, a doença que acomete o advogado somente se caracteriza como justa causa, a ensejar a devolução do prazo, quando o impossibilita totalmente de exercer a profissão ou de substabelecer o mandato, circunstância não comprovada no caso" (AgInt no AREsp 1.534.425/MA, Rel. Ministro Antonio Carlos Ferreira, Quarta Turma, julgado em 23/3/2020, DJe 26/3/2020).
+1.1. Na hipótese, apesar de a advogada ser a única constituída nos autos, o atestado médico, por si só, não se mostra capaz de apontar a total impossibilidade da prática do ato processual, uma vez que nem sequer consta o CID da respectiva doença e tampouco ficou comprovada a impossibilidade de substabelecimento a outro advogado.
+2. Nos termos do art. 219, c/c o art. 1.003, § 5º, ambos do Código de Processo Civil de 2015, é intempestivo o recurso interposto com fundamento na respectiva lei adjetiva após escoado o prazo de 15 (quinze) dias úteis, à exceção dos embargos de declaração.
+3. Agravo interno não conhecido.
+(AgInt no AREsp n. 1.656.951/GO, RelatorMinistro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24/8/2020, DJe 1/9/2020.)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. TEMPESTIVIDADE DO RECURSO ESPECIAL. DOENÇA DO ADVOGADO.JUSTA CAUSA. RESTITUIÇÃO DE PRAZO. ART. 183, § 1º DO CPC. EMBARGOS DE TERCEIRO. VIOLAÇÃO À SÚMULA. IMPOSSIBILIDADE. DISSÍDIO JURISPRUDENCIAL. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO LEGAL VIOLADO. FUNDAMENTO INATACADO. SÚMULAS 283 E 284 DO STF. MATÉRIA QUE DEMANDA REEXAME DE PROVA. SÚMULA 7 DO STJ.EMBARGOS DE DECLARAÇÃO CONHECIDOS PARA AFASTAR A INTEMPESTIVIDADE DO RECURSO ESPECIAL. AGRAVO NÃO PROVIDO.
+1. A doença do advogado pode constituir justa causa para os efeitos do art. 183, § 1º do CPC, levando em conta quando ele for o único procurador constituído nos autos.
+2. Não se revela a via adequada para análise de contrariedade à Súmula 195 do STJ, por não estar esta compreendida na expressão "lei federal", constante da alínea "a" do inciso III do art. 105 da Constituição Federal.
+3. A ausência de particularização do dispositivo de lei federal a que os acórdãos - recorrido e paradigma - teriam dado interpretação discrepante consubstancia deficiência bastante, com sede própria nas razões recursais, a inviabilizar a abertura da instância especial.Incidência da Súmula 284 do Supremo Tribunal Federal.
+4. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula nº 283 do Supremo Tribunal Federal.
+5. Para se chegar a conclusão diversa da que chegou o Tribunal estadual, demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, o que é vedado em sede de recurso especial, nos termos da Súmula 7 do STJ.
+6. Embargos de declaração acolhidos para reconhecer a tempestividade do recurso especial. Todavia, pelas razões aduzidas no voto nego provimento ao agravo em recurso especial.
+(EDcl no AgRg nos EDcl no AREsp n. 609.426/MS, RelatorMinistro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 20/08/2015, DJe 31/08/2015.)
+No caso dos autos, o Sr.LEOPOLDO ELIZIARIO DOMINGUES, internado em decorrência daCovid-19, não é o único advogado constituído. Inclusive, o substabelecimento das Sras.MELYSSA SUZUKI YOSHIDA BISCONTE (OAB/SP 388.923) e NADIA MORAES DOS SANTOS (OAB/SP 866.151), para peticionarem a restituição do prazo recursal, foi realizado pelo Sr.WILSON MAGDA DE SOUSA (OAB/SP 287.290).
+Portanto, não há falar em restituição do prazo recursal.
+Diante do exposto, INDEFIRO O PEDIDO.
