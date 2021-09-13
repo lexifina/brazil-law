@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo manifestado contradecisão que negou seguimento a recurso especial, no qual se alega violaçãodoart. 12, I, da Lei n. 8.177/1991. O acórdão recorridoestá retratado na seguinte ementa (fl. 379):
+AGRAVO DE INSTRUMENTO. Consignação em pagamento. Discussão sobre atualização de depósito extrajudicial. Inclusão do Banco do Brasil S/A na relação processual. Descumprimento da determinação judicial para apresentação dos extratos detalhados da conta. Alegação de equívoco do preposto do banco em relação à suposta falta de assinatura que não se reveste de força para afastar o descumprimento. Resolução nº 2.814/01 do Bacen que determina a atualização dos depósitos de consignação em pagamento pela remuneração básica da poupança, independentemente de serem judiciais ou extrajudiciais. Ausência de prova de que teria aplicado corretamente os índices devidos. Matéria que deveria ter sido levada à apreciação do juízo de piso, sob pena de supressão de instância. Manutenção da decisão agravada. DESPROVIMENTO DO AGRAVO DE INSTRUMENTO.
+Sustenta o agravante, em síntese, que a TR é o índice de correção básica da poupança, nos termos do art. 12 da Lei n. 8.177/1991.
+Assim posta a questão, passo a decidir.
+Inicialmente, incidem os enunciados n. 282 e 356daSúmuladoSTFquanto ao art. 12 da Lei n. 8.177/1991, pois éestranhoao julgadorecorrido, a elefaltando o indispensável prequestionamento, do qualnãoestãoisentassequerasquestões de ordem pública.
+Verifico, por outro lado, que o Tribunal de origem negou provimento ao agravo de instrumento interposto pelo banco, conforme os seguintes fundamentos (fls. 388/389):
+(..)
+22. Destarte, facilmente se conclui que, aos depósitos efetuados sob a égide da Resolução nº 2.814/01 do Bacen, ou seja, todos os depósitos de consignação em pagamento, é devida, no mínimo, a atualização nas mesmas condições da remuneração básica da poupança, e, somente após a prova de ajuizamento da ação, passam a obedecer ao regramento próprio dos depósitos judiciais
+23. Convém ressaltar, ainda que, além da atualização segundo a remuneração básica da poupança, é devida a correção monetária do depósito, desde o primeiro dia, por se tratar de mera recomposição da moeda.
+24. Ademais, como bem observado nas contrarrazões de fls. 38/49, a alegação sobre a correção dos valores depositados sequer foi ventilada junto ao juízo a quo, quando deveria ter sido objeto de impugnação, como a indicação do valor que entendia ser devido, a partir da análise dos extratos que deveriam ter sido corretamente apresentados.
+25. Sendo assim, eventual exame acerca da correção dos índices de atualização aplicados nesta instância revisora, representaria clara supressão de instância, além de demandardilação probatória e formação do contraditório, medidas vedadas no âmbito estreito do agravo de instrumento.
+(..)
+Com efeito, registro que o agravante não impugnou tais fundamentos, especificamente o argumento de que "eventual exame acerca da correção dos índices de atualização aplicados nesta instância revisora, representaria clara supressão de instância, além de demandar dilação probatória e formação do contraditório, medidas vedadas no âmbito estreito do agravo de instrumento", o que faz incidir o óbice do enunciado n.283 da SúmuladoSTF.
+Em face do exposto, nego provimento ao agravo.
+Intimem-se.
