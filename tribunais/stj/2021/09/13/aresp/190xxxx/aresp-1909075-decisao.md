@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de agravo interposto contradecisão que inadmitiu recurso especial. O apelo extremo, fundamentado noartigo 105, inciso III, alínea "a", da Constituição Federal, insurgiu-secontra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais assim ementado:
+"APELAÇÃO CÍVEL -AÇÃO DECLARATÓRIA C/C INDENIZAÇÃO POR DANOS MORAIS -RESTRIÇÃO DO NOME DA PARTE AUTORA NOS CADASTROS DE PROTEÇÃO AO CRÉDITO -PROVA DA CONTRATAÇÃO E DA DÍVIDA EM ABERTO -AUSÊNCIA -FRAUDE -FORTUITO INTERNO -IRREGULARIDADE DO APONTAMENTO -RESPONSABILIDADE CIVIL OBJETIVA E DEVER DO FORNECEDOR DE INDENIZAR -ENUNCIADO DE SÚMULA Nº 385, DO STJ -INAPLICABILIDADE -VALOR DA INDENIZAÇÃO -CRITÉRIOS DE ARBITRAMENTO.
+-Ausentes as comprovações da contratação regular e da dívida entre os litigantes, ônus que incumbe ao Fornecedor, deve ser declarada a inexigibilidade do débito e determinado o cancelamento da respectiva negativação questionada.
+-A fraude realizada por terceiros, em casos como o dos autos, guarda estrita relação com a própria atividade da sociedade empresária, não podendo ser considerada, em hipótese alguma, ato equiparado a fortuito externo.
+-A inclusão do nome de pessoa física nos Cadastros de Inadimplentes, quando indevida, legitima a imposição do pagamento de indenização à empresa que deu causa à efetivação do ato, por ser presumido o agravo moral.
+-É inaplicável o entendimento contido no Enunciado de Súmula nº 385, do Superior Tribunal de Justiça, quando demonstrado que a anotação negativa diversa da questionada no feito é objeto de impugnação judicial em outro processo.
+-No arbitramento do valor indenizatório devem ser observados os critérios de moderação, proporcionalidade e razoabilidade, em sintonia com o ato ilícito e as suas repercussões, bem como em atenção aos parâmetros adotados pelos Tribunais" (fl. 158 e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+No recurso especial, foi alegada violação dos artigos7º e 489, § 1º, IV e VI, do Código de Processo Civil, 884 e 944 do Código Civil
+A recorrente alegou que a parte autora não comprovou o suposto danosofrido, pugnando pela aplicação do entendimento da Súmula nº 385/STJ ("Daanotação irregular em cadastro de proteção ao crédito, não cabeindenização por dano moral, quando preexistente legítima inscrição,ressalvado o direito ao cancelamento").
+Defendeu que a indenização por danos morais deve ser fixada seguindopadrões de razoabilidade para que não acarrete enriquecimento indevido,razão pela qual requer a redução do montante indenizatório (R$ 10.000,00).
+É o relatório.
+DECIDO.
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se aoexame do recurso especial.
+Preliminarmente, importante consignar que o acórdão impugnado pelopresente recurso especial foi publicado na vigência do Código de ProcessoCivil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+No que se refere à ofensa aos arts. 7º e 489, § 1º, IV e VI, do Código de Processo Civil,verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+A jurisprudência desta Corte se firmou no sentido de que a inscriçãoindevida em cadastros de inadimplentes acarreta, por si só, dano moralindenizável.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO INDENIZATÓRIA.PROTESTO INDEVIDO DE TÍTULO. DANO MORAI IN RE IPSA. MINORAÇÃO. MATÉRIA QUEDEMANDA REEXAME DE FATOS E PROVAS. SÚMULA 7 DO STJ. AGRAVO INTERNO NÃOPROVIDO.
+1. As matérias referentes aos arts. 2º e 3º, do CDC, não foram objeto dediscussão no acórdão recorrido, apesar da oposição de embargos dedeclaração, não se configurando o prequestionamento, o que impossibilita asua apreciação na via especial (Súmulas 211/STJ, 282/STF). Ressalto que oSTJ não reconhece o prequestionamento pela simples interposição deembargos de declaração. Persistindo a omissão, é necessária a interposiçãode recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art.535 do Código de Processo Civil de 1973), sob pena de perseverar o óbiceda ausência de prequestionamento.
+2. A jurisprudência firmada neste Sodalício é no sentido de que nos casosde protesto indevido de título ou inscrição irregular em cadastros deinadimplentes, o dano moral se configura in re ipsa, isto é, prescinde deprova. Precedentes.
+3. O Tribunal de origem, a partir do exame das provas constantes dosautos, entendeu que o dano moral estaria configurado em razão da cobrançaindevida, concluindo que: "Na espécie, tem-se que a própria a demandadaadmite que houve a cobrança em duplicidade de boletos em nome da parterequerente, por equívoco no faturamento de venda de produto, o que gerou oprotesto dos títulos objetados, circunstância que não afasta aresponsabilidade da ré ao presente feito, porquanto indevida a cobrançaefetivada.". Assim, a modificação desse entendimento demandaria o reexamede matéria fático-probatória, inviável no recurso especial ante aaplicação da Súmula n. 7/STJ, que impede o conhecimento do recurso porambas as alíneas do dispositivo constitucional.
+4. Nos termos da jurisprudência consolidada neste Superior Tribunal deJustiça, a revisão de indenização por danos morais só é possível emrecurso especial quando o valor fixado nas instâncias locais forexorbitante ou ínfimo, de modo a afrontar os princípios da razoabilidade eda proporcionalidade. Ausentes tais hipóteses, como no caso, em que aindenização foi fixada em R$ 6.000,00 (seis mil reais) incide a Súmula n.º7 do STJ, a impedir o conhecimento do recurso.
+5. Agravo interno não provido."
+(AgInt no AREsp 1.281.519/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTATURMA, julgado em 25/9/2018, DJe 28/9/2018)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE. AÇÃODECLARATÓRIA CUMULADA COM PEDIDO INDENIZATÓRIO. INSCRIÇÃO INDEVIDA.CADASTRO DE INADIMPLENTES. DANO MORAL IN RE IPSA. SÚMULA N. 83/STJ. VALORDA INDENIZAÇÃO. REVISÃO. DESCONSTITUIÇÃO QUE REQUER O REEXAME DE FATOS EDE PROVAS. INCIDÊNCIA DA SÚMULA 7/STJ. HONORÁRIOS SUCUMBENCIAIS,OBSERVADOS OS LIMITES LEGAIS. AGRAVO INTERNO DESPROVIDO.
+1. A jurisprudência sedimentada desta Casa firmou entendimento no sentidoque a inscrição indevida em cadastro negativo de crédito caracteriza, porsi só, dano in re ipsa, o que implica responsabilização por danos morais.Súmula n. 83 do STJ.
+2. De acordo com o entendimento do Superior Tribunal de Justiça, "arevisão de indenização por danos morais só é viável em recurso especialquando o valor fixado nas instâncias locais for exorbitante ou ínfimo"(AgRg no AREsp n. 453.912/MS, Relator o Ministro João Otávio de Noronha,DJe de 25/8/2014). Caso contrário, incide o óbice previsto no enunciado n.7 da Súmula desta Casa.
+3. Não se mostra excessiva a majoração dos honorários sucumbenciaisrealizada na forma prevista no art. 85, § 11, do CPC/2015, observados oslimites ali fixados.
+4. Agravo interno a que se nega provimento."
+(AgInt no AREsp 1.284.741/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE,TERCEIRA TURMA, julgado em 14/8/2018, DJe 28/8/2018)
+Registre-se, por oportuno, que o Tribunal de origem afastou a aplicação daSúmula nº 385/STJ sob o argumento de que não seriam legítimas asinscrições preexistentes, premissa fática que, para ser afastada,dependeria do profundo revolvimento do contexto fático-probatório dosautos, procedimento vedado na via do recurso especial pro força da Súmulanº 7/STJ.
+O mesmo enunciado sumular impede o conhecimento do recurso especial notocante à pretensão de redução do montante indenizatório. Entende-se que oSuperior Tribunal de Justiça somente intercede nesse aspecto, mitigando aaplicação da Súmula nº 7/STJ, quando a indenização se apresentarflagrantemente irrisória ou exorbitante, o que não é o caso dos autos.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Na origem, os honorários sucumbenciais já foram fixados em 20% (vinte por cento) sobre o valor da causa, por isso deixam de ser majorados, nos termos do art. 85, §§ 2º e 11, do Código de Processo Civil de 2015.
+Publique-se.
+Intimem-se.
