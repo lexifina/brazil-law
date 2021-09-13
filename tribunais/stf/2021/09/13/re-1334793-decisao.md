@@ -1,0 +1,36 @@
+Decisão: Trata-se de recurso extraordinário interposto em face de acórdão da Terceira Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado (eDOC 13, p. 1):
+    “AGRAVO INTERNO. APELAÇÃO CÍVEL. DIREITO PÚBLICO NÃO ESPECIFICADO. SAÚDE. PRELIMINAR DE IMPOSSIBILIDADE DE JULGAMENTO MONOCRÁTICO. OBSERVÂNCIA DA SÚMULA Nº 568 DO E. STJ, E ART. 206, XXXVI DO RITJRS. REJEIÇÃO. MÉRITO. NEOPLASIA MALIGNA DO CÓLON SIGMOIDE - CID C18.7. FORNECIMENTO DE MEDICAMENTO - PREMBOLIZUMABE 100MG/4ML. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERATIVOS. REPERCUSSÃO GERAL NO E. STF - RE 855.178/SE (TEMA 793)
+     I - Conforme mencionado na decisão guerreada, cabível o julgamento na forma posta, amparado no Enunciado da Súmula 568, da Súmula do STJ, e no art. 206, XXXVI do RITJRS. De outra parte, a superação do alegado prejuízo, através do julgamento colegiado, consoante o e. STJ.
+    II - O direito fundamental e social à saúde - arts. 5°, §1°, 6º e 196 da CF/88 -, intimamente ligado ao direito à vida e à dignidade da pessoa humana, e a solidariedade dos entes públicos na prestação do serviço, de acordo com o art. 196 da Constituição da República, a legitimar o ajuizamento da demanda contra qualquer deles, de forma conjunta ou separada, consoante o julgamento do RE 855.178/SE – Tema 793 -, no e. STF. Precedentes deste Tribunal. Preliminar rejeitada. Agravo interno desprovido.”
+    Os embargos de declaração opostos foram desacolhidos. (eDOC19)
+    No recurso extraordinário, com fundamento no art. 102, III, a, do permissivo constitucional, aponta-se ofensa aos artigos 194, 196 e 198 da Constituição Federal.
+    Nas razões recursais, sustenta-se, em suma, que o Estado não pode ser compelido a fornecer medicamentos que não constem na lista do SUS e que é da competência da União o fornecimento de serviços oncológicos (eDOC 29).
+    A Primeira Vice-Presidência do Tribunal determinou o retorno dos autos ao órgão julgador para eventual juízo de retratação (eDOC 34).
+    A Turma julgadora houve por bem manter incólume o acórdão vergastado (eDOC 15).
+    O Tribunal a quo admitiu o apelo extremo (eDOC 35).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    Verifica-se que o Tribunal de origem, quando do julgamento do agravo interno, asseverou que (eDOC 13, p. 6-15):
+    “(...)
+    Cumpre ressaltar os termos do art. 23, II , da Constituição da República, no sentido da competência comum dos entes federativos - União, Estados, Municípios e Distrito Federal -, acerca da prestação da saúde e assistência pública.
+    Dessa forma, o sistema de saúde como encargo de todos os entes federados, sem atribuições exclusivas e excludentes.
+    No ponto, o parágrafo 1º do art. 198 da CRFB.4 , e o art. 7º da Lei Federal nº 8.080/90.
+    Neste sentido, não se afigura factível a divisão de responsabilidade entre as esferas de governo, através de lista de medicamentos disponibilizados por cada um deles, sob pena de inviabilizar, ou mesmo dificultar, o acesso do cidadão à assistência necessária.
+    (...)
+    Portanto, a solidariedade dos entes públicos na prestação da saúde, de acordo com o art. 196 da Constituição da República, a legitimar o ajuizamento da demanda contra qualquer deles, de forma conjunta ou separada, consoante o julgamento do RE 855.178/SE – Tema 793 -, no e. STF.
+    Por fim, a concordância tácita do recorrente com a decisão aqui hostilizada, haja vista as restrição das razões recursais à ilegitimidade passiva, não obstante o pedido para improcedência do pedido inicial quanto ao fornecimento do medicamento Pembrolizumabe 100mg/4ml – Keytruda.
+    Ainda que assim não fosse, consoante referido na decisão monocrática aqui combatida, evidenciada a moléstia da parte recorrida, - neoplasia maligna do cólon sigmoide (CID C18.7) -, bem como a imprescindibilidade do uso do remédio Pembrolizumabe 100mg/4ml – Keytruda -, conforme laudos médicos das fls. 27-33. ”
+    Observa-se que o entendimento adotado pelo Tribunal de origem está em consonância com a jurisprudência desta Corte.
+    O Supremo Tribunal Federal, ao analisar o RE-RG 855.178, Rel. Ministro Luiz Fux, DJe 16.03.2015 (Tema 793), reconheceu a existência de repercussão geral e reafirmou a jurisprudência pertinente à controvérsia referente à responsabilidade solidária dos entes federados em matéria de saúde. Na oportunidade, a ementa restou assim redigida:
+    “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E ADMINISTRATIVO. DIREITO À SAÚDE. TRATAMENTO MÉDICO. RESPONSABILIDADE SOLIDÁRIA DOS ENTES FEDERADOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE JURISPRUDÊNCIA.
+    O tratamento médico adequado aos necessitados se insere no rol dos deveres do Estado, porquanto responsabilidade solidária dos entes federados. O polo passivo pode ser composto por qualquer um deles, isoladamente, ou conjuntamente.”
+    Ademais, no que concerne ao fornecimento de medicamentos não inseridos na política pública do SUS, verifica-se que eventual divergência em relação ao entendimento adotado pelo juízo a quo demandaria o reexame de fatos e provas, o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida na Súmula 279 do STF. Nesse sentido:
+    DIREITO CONSTITUCIONAL. DIREITO À SAÚDE. AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. FORNECIMENTO DE MEDICAMENTO PELO PODER PÚBLICO. LISTA DO SUS. COMPROVAÇÃO DA NECESSIDADE. IMPOSSIBILIDADE. CONTROVÉRSIA DECIDIDA COM BASE NO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. SÚMULA 279/STF SOBRESTAMENTO. MEDICAMENTO DE ALTO CUSTO. INOVAÇÃO DE FUNDAMENTO EM AGRAVO REGIMENTAL. 1. O Tribunal de origem, com base na análise da perícia médica, entendeu por determinar o fornecimento de medicamento que não se encontra na lista de fármacos fornecidos pelo Sistema Único de Saúde SUS. 2. Para chegar a conclusão diversa do acórdão recorrido, seria imprescindível uma nova apreciação dos fatos e do material probatório constante dos autos (Súmula 279/STF), procedimento inviável em recurso extraordinário. Precedentes. 3. A tese de que os medicamentos se caracterizariam como de alto custo não fez parte das razões do recurso extraordinário, sendo aduzida somente nesta via recursal. Constitui-se, portanto, em inovação insuscetível de apreciação neste momento processual. Precedentes. 4. Agravo regimental a que se nega provimento. (ARE 935.824-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe 26.8.2016).
+    AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO À SAÚDE. FORNECIMENTO DE MEDICAMENTOS. SUBSTITUIÇÃO POR FÁRMACOS FORNECIDOS PELO SISTEMA ÚNICO DE SAÚDE SUS. ACÓRDÃO FUNDAMENTADO NO CONJUNTO PROBATÓRIO. REEXAME DE PROVAS: SÚMULA N. 279 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO. (ARE 827.931-AgR, Rel. Min. Cármen Lúcia, Segunda Turma, DJe de 26.9.2014).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a e b, do Código de Processo Civil.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 13 de setembro de 2021.
+Ministro EDSON FACHIN
+Relator
+Documento assinado digitalmente
