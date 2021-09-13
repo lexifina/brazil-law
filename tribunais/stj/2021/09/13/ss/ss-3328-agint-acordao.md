@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Raul Araújo, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Jorge Mussi.
+RELATÓRIO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+Cuida-se de agravo interno interposto pelo Estado do Maranhão contra indeferimento do pedido (fls. 501-502) que requereu a suspensão da decisão do Tribunal de Justiça do Estado do Maranhão que, nos autos do Agravo de Instrumento n.0811727-35.2021.8.10.0000, concedeu efeito suspensivo à decisão liminar proferida nos autos do Mandado de Segurança n. 0820622-79.2021.8.10.0001.
+O aludido agravo faz referência ao mandado de segurança impetrado por SUPRITECH SOLUÇÕES CORPORATIVASLTDA. contra ato do secretário adjunto de administração da Secretaria de Estado da Educação - SEDUC, no qual foi requerido, emliminar, a suspensão das decisões administrativas que determinaram a rescisão unilateral dos Contratos Administrativos n.106/2017, 107/2017, 121/2017, 122/2017 e 011/2018, proferidas nos autos do Processo Administrativo n.71462/2021-SEDUC, que cuidam do fornecimento de mão de obra terceirizada de serviço de limpeza, desinfecção, higienização, jardinagem e outros.
+O Ministro Jorge Mussi, no exercício da Presidência, entendeu que o requerente não apresentou elementos concretos para a comprovação da ofensa aos bens tutelados pela legislação de regência, ficando nítido o caráter recursal do pleito suspensivo, razão pela qual indeferiu o pedido de suspensão.
+No recurso apresentado (fls. 506-513), o agravante reitera a alegação da ocorrência de grave lesão à ordem, à economia, à segurança e à saúde públicas, asseverando que a decisão recorrida não enfrentou todos os argumentos e comprovações apresentados pelo Estado para justificar o pedido de suspensão.
+O agravado apresentou impugnação ao presente recurso às fls. 517-526.
+É, no essencial, o relatório.
+EMENTA
+AGRAVO INTERNO NA SUSPENSÃO DE LIMINAR E DE SENTENÇA. MANDADO DE SEGURANÇA. RESCISÃO UNILATERAL DE CONTRATOS ADMINISTRATIVOS. SERVIÇOS TERCEIRIZADOS. VIOLAÇÃO DA AMPLA DEFESA E DO CONTRADITÓRIO. AGRAVO DE INSTRUMENTO. SUSPENSÃO DOS EFEITOS DA DECISÃO ADMINISTRATIVA. LESÃO À ORDEM PÚBLICA. NÃO COMPROVAÇÃO. REFORMA DA DECISÃO PROFERIDA. VIA INADEQUADA. NÃO PROVIMENTO AO AGRAVO INTERNO.
+1. O deferimento do pedido de suspensão está condicionado à demonstração de interesse público e para evitar grave lesão à ordem, à saúde, à segurança ou à economia pública, não servindo o instituto como sucedâneo recursal para exame do acerto ou do desacerto da decisão impugnada.
+2. Não houve demonstração dalesão à ordem pública em razão da decisão que suspenderaos efeitos da rescisão contratual determinada pela Secretaria de Educação do Estado do Maranhão.
+3. O incidente da suspensão de liminar e de sentença, por não ser sucedâneo recursal, é inadequado para a apreciação do mérito da controvérsia.
+Agravo interno improvido.
+VOTO
+O EXMO. SR. MINISTRO HUMBERTO MARTINS (relator):
+A decisão que se busca suspender está relacionada ao mandado de segurança impetrado por SUPRITECH COMÉRCIO E SERVIÇOS LTDA. contra ato do secretário adjunto de administração da Secretaria de Estado da Educação - SEDUC que rescindiu diversos contratos administrativos de prestação de serviços terceirizados da referida pasta, sem, no entanto, estabelecer a garantia do contraditório e da ampla defesa à citada empresa. O Juízo de primeiro grau indeferiu o pedido de efeito suspensivo que, posteriormente, foi concedido pelo relator do agravo de instrumento interposto.
+A mens legis do instituto da suspensão de segurança ou de sentença é o estabelecimento de prerrogativa justificada pelo exercício da função pública na defesa do interesse do Estado.Tal instituto não tem natureza jurídica de recurso, razão pela qual não propicia a devolução do conhecimento da matéria para eventual reforma e não possibilita a análise quanto ao mérito discutido na ação de origem.Sua análise deve restringir-se à verificação de possível lesão à ordem, à saúde, à segurança ou à economia públicas, nos termos da legislação de regência.
+No presente caso, o agravante justifica o pedido de contracautela ao argumento de lesão à ordem pública ocasionada em razão da decisão proferida pelo Juízo reformador que, em liminar, suspendeu os efeitos da rescisão contratual determinada pela Secretaria de Educação do Estado do Maranhão.
+As razões apresentadas não conseguiram demonstrar concretamente a relação entre a decisão adotada e a lesão à ordem administrativa, à saúde, à economia e à segurança.
+Destaque-se, ainda, que, não obstante o mérito da questão de fundo ainda se encontresub judice, a ação suspensiva não pode ser a via eleita para a reforma das questões jurisdicionais que envolvem o mérito da demanda.
+Nesse sentido, este Tribunal possui o entendimento de que a suspensão de segurança não pode funcionar como sucedâneo recursal para apreciar o mérito da controvérsia:
+AGRAVO INTERNO NA SUSPENSÃO DE SEGURANÇA. AUSÊNCIA DE DEMONSTRAÇÃO DE OFENSA À ORDEM E À SAÚDE PÚBLICAS, BEM COMO À ORDEM JURÍDICA; ESTA ÚLTIMA NÃO CONSTA DO ROL DOS BENS TUTELADOS PELA LEI DE REGÊNCIA. AGRAVADA VENCEU EM CINCO LOTES DE PREGÃO ELETRÔNICO, POSTERIORES AO PEDIDO SUSPENSIVO INDEFERIDO. FALTA DE PLAUSIBILIDADE DAS ALEGAÇÕES DE GRAVE LESÃO. AGRAVO INTERNO DESPROVIDO.
+1. O pedido de suspensão visa à preservação do interesse público e supõe a existência de grave lesão à ordem, à saúde, à segurança ou à economia públicas, sendo, em princípio, seu respectivo cabimento, alheio ao mérito da causa. É uma prerrogativa da pessoa jurídica de direito público ou do Ministério Público decorrente da supremacia do interesse público sobre o particular, cujo titular é a coletividade, cabendo ao postulante a efetiva demonstração da alegada ofensa grave a um daqueles valores.
+2. Tal pedido, por sua estreiteza, é vocacionado a tutelar tão somente os citados bens tutelados pela lei de regência (Leis n.ºs 8.437/92 e 12.016/2009), não podendo ser manejado como se fosse sucedâneo recursal, para que se examine o acerto ou desacerto da decisão cujos efeitos pretende-se sobrestar. Sustentada alegação de lesão à "ordem jurídica" não existe no rol dos bens tutelados pela lei
+de regência.
+3. A ora Agravada ainda presta serviço ao Agravante, com participação em certames licitatórios no âmbito do fornecimento de refeições hospitalares, tendo vencido em cinco lotes de pregão eletrônico, posteriores ao pedido de suspensão indeferido. Ausência da plausibilidade sustentada pelo Agravante, no tocante às graves lesões à ordem e à saúde públicas.
+4. Agravo interno desprovido.(AgInt na SS n. 2.887/BA, relatora Ministra Laurita Vaz, Corte Especial,DJe de 27/9/2017.)
+Assim, deve ser mantida a decisão na qual não foi deferido o pedido de contracautela.
+Ante o exposto, nego provimento ao agravo interno.
+É como penso. É como voto.
