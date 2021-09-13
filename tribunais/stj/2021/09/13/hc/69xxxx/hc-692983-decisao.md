@@ -1,0 +1,37 @@
+DECISÃO
+Cuida-se de habeas corpuspreventivo, com pedido liminar, impetrado por MARCILENE MENDES DA SILVA, em benefício próprio, apontando como autoridade coatora os GOVERNADORES DO DISTRITO FEDERAL, DO TOCANTINS E DE GOIÁS.
+A impetrante informa que deseja participar das manifestações que ocorrem desde o dia 7/9/2021 em várias cidades do país, afirmando quese tratam de movimentos pacíficos que tem por objetivo assegurar o exercício da cidadania, pretendendo a destituição dos ministros do Supremo Tribunal Federal.
+Aponta o cabimento do habeas corpuspreventivo em razão da existência de ameaça real e iminente ao direito de locomoção,ressaltandoque alguns Governadores pretendem inviabilizar tanto o deslocamento dos manifestantesaté Brasília quantoa realização dos protestos.
+Alega estar demonstrado, a partir de vídeos que circulam nas redes sociais, que as autoridadespretendem utilizar a força policial contra as forças armadas.
+Alerta que "caso não seja concedida a ordem, em razão da premente necessidade do povo brasileiro e da disposição dele para agir, fatos mais graves poderão acontecer, pois, as pessoas estão dispostas a levar adiante tais desejos, irremediavelmente, valendo ressaltar, que estão amparadas pelo Texto Constitucional, como Vossa Excelência bem sabe"(fl. 8).
+Requer, em liminar e no mérito, a emissão de ordem para que as autoridades tidas por coatoras se abstenham de realizar qualquer ato que inviabilize ou dificulte a locomoção e o direito de manifestação.Pugna pela expedição de salvo conduto para que a paciente possa se locomover livremente pelo país a fim de participar dos movimentos,inclusive na Esplanada dos Ministérios e na Avenida Paulista.Busca a fixação de multa diária de R$ 10.000,00 em caso de descumprimento das medidas determinadas.
+É o relatório.
+Decido.
+Verifica-se dos autos que a presente impetração busca, de forma preventiva, a concessão de ordem para que os Governadores do Distrito Federal, do Tocantins e de Goiás se abstenham de determinar atos que inviabilizemou dificultem tanto a locomoção quantoas manifestações que ocorrem desde o dia 7/9/2021, bem como que seja expedido salvo conduto em favor da paciente.
+Todavia, na hipótese dos autos a impetrante não se desincumbiu do dever de demonstrar as alegações aqui trazidas, não tendo acostado prova algumada existência das aventadas ameaças ao direito de locomoção.
+Cabe lembrar que vídeos que circulam livremente em redes sociais não constituem veículo oficial de informação, nem tampouco constituem prova das alegações aqui trazidas.
+Nesse contexto, cabe ressaltar que a jurisprudência desta Corte Superior possui entendimento sedimentado de que em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração.
+Nesse sentido:
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. HABEAS CORPUS. INDEFERIMENTO LIMINAR. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. FALTA DE CÓPIA DO INTEIRO TEOR DO ACÓRDÃO IMPUGNADO. INSTRUÇÃO DEFICIENTE. INEVIDÊNCIA DE CONSTRANGIMENTO ILEGAL.
+1. Por ter sido interposto dentro do quinquídio legal, é possível receber pedido de reconsideração como agravo regimental, em atenção ao princípio da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo.
+2. O habeas corpus exige prova pré-constituída das alegações e tal ônus é do impetrante.
+3. Hipótese em que a defesa do paciente não se desincumbiu do seu dever de possibilitar o adequado enfrentamento da matéria, por não haver trazido aos autos cópia do interior teor do acórdão proferido pelo Tribunal estadual enfrentando a temática suscitada no writ, nem mesmo após apresentar pedido de reconsideração.
+4. Das peças juntadas com a impetração, não se extrai a existência de manifesto constrangimento ilegal, baseada que está a prisão preventiva do paciente, aparentemente, na reiteração delitiva recente.
+5. Pedido de reconsideração recebido como agravo regimental e improvido.
+(RCD no HC 480.522/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 13/12/2018, DJe 04/02/2019).
+Assim, não se observa a existência de ato concreto ou sequer expectativa de ato atentatório ao direito ambulatorial daimpetrante/paciente, o que inviabiliza o cabimento dohabeas corpus, instrumento adequado à proteção contra ameaça ou lesão real ou iminente ao direito de locomoção, o que não se verificou na hipótese dos autos.
+Nesse sentido:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE CASSAÇÃO DO DECRETO PRISIONAL E DE ARQUIVAMENTO DE PROCESSO. INEXISTÊNCIA DE AMEAÇA. AUSÊNCIA DE ATO COATOR. NÃO INDICAÇÃO DE RESTRIÇÃO CONCRETA AO JUS AMBULANDI. REMÉDIO HEROICO: VIA PROCESSUAL DESTINADA A TUTELAR APENAS IMEDIATO CONSTRANGIMENTO ILEGAL AO DIREITO DE LIBERDADE.IMPROPRIEDADE ABSOLUTA DA IMPETRAÇÃO. AGRAVO DESPROVIDO.
+1. No caso, impugnou-se a mera possibilidade de constrangimento, sem que houvesse elementos categóricos demonstrativos de que a suposta ameaça ao direito ambulatorial materializar-se-ia. Ocorre que "o habeas corpus preventivo tem cabimento quando, de fato, houver ameaça à liberdade de locomoção, isto é, sempre que fundado for o receio de o paciente ser preso ilegalmente  e  tal receio haverá de resultar de ameaça concreta de iminente prisão" (STJ, AgRg no HC 84.246/RS, Rel. Ministro NILSON NAVES, SEXTA TURMA, DJ 19/12/2007).
+2. A ameaça de constrangimento ao jus libertatis a que se refere a garantia prevista no rol dos direitos fundamentais (art. 5.º, inciso LXVIII, da Constituição da República) há de se constituir objetivamente, de forma iminente e plausível, e não hipoteticamente, como no caso dos autos.
+3. Agravo regimental desprovido.
+(AgRg no RHC 127.142/RJ, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 25/08/2020, DJe 04/09/2020)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. ILAÇÕES E SUPOSIÇÕES DESPROVIDAS DE BASE FÁTICA. MANDAMUS PREVENTIVO VISA A COIBIR CONSTRANGIMENTO ILEGAL REAL OU IMINENTE À LIBERDADE DE LOCOMOÇÃO. AUSÊNCIA DE AMEAÇA AO DIREITO AMBULATORIAL. RECURSO NÃO PROVIDO.
+1. O habeas corpus preventivo visa a coibir constrangimento ilegal real e iminente à liberdade de locomoção do indivíduo, não se prestando a impedir constrição supostamente ilegal, meramente intuitiva e calcada em ilações e suposições desprovidas de base fática.
+2. Ausência de ilegalidade flagrante que, eventualmente, ensejasse a concessão da ordem de ofício.
+3. Agravo regimental não provido, com recomendação, contudo, no sentido de que, efetivada a prisão, o Juízo das Execuções Criminais diligencie, imediatamente, no sentido de garantir ao sentenciado o cumprimento da pena em estabelecimento adequado ao regime semiaberto, estabelecido no decisum transitado em julgado, não podendo, em hipótese alguma, o pagamento da reprimenda ter início no regime fechado.
+(AgInt no HC 443.831/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/05/2018, DJe 25/05/2018)
+Ademais, importa consignar a inadmissibilidade da ingerência prévia do Judiciário para impedir ou restringir a atuação do Poder de Polícia inerente à atividade da Administração Pública, na via estreita do habeas corpus, cabendo lembrar que eventuais abusos ou ilegalidades poderão ser examinados em via própria.
+Ante todo o exposto, nos termos do art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Publique-se.
+Intimem-se
