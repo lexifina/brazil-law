@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor deMatheus Luiz Miranda da Silva, apontando-se como autoridade coatora o Tribunal de Justiça do Rio de Janeiro(Apelação Criminal n.0104825-89.2020.8.19.0001).
+Narram os autos que o paciente foi condenado a 5 anos e 10 meses de reclusão, em regime inicial fechado, e 583 dias-multa, pela prática do crime de tráfico de drogas (71 g de maconha e 84 g de cocaína - fl. 6).
+Neste mandamus, a Defensoria Pública alega que o paciente é primário, não possui antecedentesnem integra organização criminosa, assim, faz jus à causa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas, poisa quantidade de drogas apreendida não foi exorbitante (71 g de "maconha" e 84 g de "cocaína") e que o confisco de um rádio e de um revólver, por si só, não desconfigura o "tráfico privilegiado"(fl. 7).
+Aduz, ainda, que a gravidade abstrata do crime, por si só, não justifica a imposição de regime prisional mais gravoso do que a pena permite.
+Requer, em liminar, que o paciente aguarde, no regime semiaberto, o julgamento do mérito deste writ. Ao final, pugna pela aplicação dacausa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006, no percentual máximo, com a consequente substituição da pena privativa de liberdade por restritiva de direitos e fixação de regime aberto, com expedição de alvará de solturaou, subsidiariamente, seja fixado o regime inicial semiaberto(fl. 11).
+É o relatório.
+A ordem comporta concessão,in limine, contudo, em menor extensão.
+Pretende a Defensoria Pública a aplicação da causa especial de diminuição de pena do tráfico de drogas privilegiado, a fixação de regime prisional diverso do fechado e a substituição da pena.
+Ao afastar a incidência do privilégio, no crime de tráfico de drogas, disse o Tribunal de Justiça o seguinte (fl. 68 - grifo nosso):Noutro giro, a apreensão de considerável quantidade de entorpecentes, de alto poder nocivo - 71g de maconha distribuída em 35 invólucros etiquetados com as inscrições "SDL/CNT/V. VERD/PEND 20 MACONHA HIDROPONICA" e "SDL/CNT/V. VERD/PEND MACONHA 5" mais 84g de cocaína distribuídos em 125 invólucros com as inscrições "SDL/CNT/V. VERD/PEND PÓ 25" e "SDL/CNT/V. VERD/PEND PÓ 5" - aliada a apreensão de um radio transmissor e de um revólver municiado num ponto de venda de drogas, impede a compreensão de que, conquanto primário e de bons antecedentes, e a despeito de não ter sido possível provar estritamente a estabilidade e a permanência inerentes ao delito associativo, o réu estivesse em estágio inicial da atividade ilícita.
+Da leitura dos trecho acimaobserva-se que a causa especial de diminuição de pena do tráfico de drogas privilegiado foi rechaçada, não apenas com base na quantidade e variedade de entorpecentes apreendidos, mas, principalmente, em razão dos objetos apreendidos com o réu, ora paciente, a saber, rádio transmissor e arma municiada, em um lugar conhecido como ponto de venda de drogas.
+Nos termos da jurisprudência desta Corte,desconstituir tal assertiva, como pretendido, demandaria, necessariamente, a imersãovertical na moldura fática e probatória delineada nos autos, inviável na via estreita dohabeas corpus(AgRg no HC n. 686.283/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 30/8/2021).
+Contudo, melhor sorte assiste ao paciente quanto ao regime prisional.
+Quanto ao regime prisional, não obstante a fundamentação apresentada pelo Tribunal de Justiça (quantidade e variedade da droga e apreensão de arma de fogo), a pena-base foi fixada no mínimo legal e o paciente não ostenta antecedentes criminais, assim, tendo em vista a pena final aplicada, a saber, 5 anos e 10 meses de reclusão, cabível a fixação do regime inicial semiaberto, nos termos do art. 33,§ 2º, b, do Código Penal.
+Inviável a substituição da pena privativa de liberdade por restritiva de direitos, pois ausente o requisito objetivo, uma vez que a penadefinitivaé superior a 4 anos.
+Ante o exposto,concedo liminarmentea ordem, em menor extensão, a fim defixar o regimeinicial semiaberto ao paciente.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. CAUSA ESPECIAL DEDIMINUIÇÃO DE PENA PREVISTA NO § 4º DO ART. 33 DA LEI DE DROGAS. NÃOCABIMENTO. FUNDAMENTAÇÃO IDÔNEA. REGIME DIVERSO DOFECHADO.POSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVADE DIREITOS.AUSÊNCIA DO REQUISITO OBJETIVO.
+Ordem concedida liminarmente, em menor extensão, nos termos do dispositivo.
