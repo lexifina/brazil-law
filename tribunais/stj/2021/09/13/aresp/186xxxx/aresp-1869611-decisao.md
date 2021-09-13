@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo manifestado contra decisão que negou seguimento ao recurso especial, no qual se alega violação dos arts. 318, 396 e 497 do Código de Processo Civil e 83 do Código de defesa do Consumidor.O acórdão recorrido está retratado na seguinte ementa (fl. 36):
+Ação de exibição de documento - Ação proposta sob a égide do atual CPC - Novo ordenamento processual que não contemplou a ação cautelar independente - Inadequação da via eleita - Pretensão exibitória que pode ser formulada ou por meio de ação probatória autônoma, de acordo com os arts. 381 a 383 do CPC vigente, ou como pedido incidental em processo de conhecimento, em conformidade com os arts. 396 a 404 do atual CPC - Ação probatória autônoma que se encerra mediante sentença homologatória - Inexistência de ação principal em andamento.
+Ação de exibição de documento - Autor que é carecedor da ação por ausência de interesse processual - Aplicação dos arts. 330, III, e 485, I e VI, do atual CPC - Imperativo o indeferimento da petição inicial, assim como a extinção do processo sem resolução de mérito - Sentença terminativa do processo mantida - Apelo do autor desprovido.
+Sustenta o agravante que é cabível o ajuizamento de ação autônoma de exibição de documentos pelo procedimento comum.
+Assim posta a questão, passo a decidir.
+Verifico que o acórdão recorrido está em dissonância com a jurisprudência do STJ, que firmou o entendimento de que é cabível o ajuizamento de ação autônoma para a exibição de documento, com base nos arts. 381 e 396 e seguintes do Código de Processo Civil, ou até mesmo pelo procedimento comum, previsto nos arts. 318 e seguintes do CPC/15. A propósito, confiram-se:
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTO. AÇÃO AUTÔNOMA. PROCEDIMENTO COMUM. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVA.INTERESSE E ADEQUAÇÃO.
+1. Admite-se o ajuizamento de ação autônoma para a exibição de documento, com base nos arts. 381 e 396 e seguintes do CPC, ou até mesmo pelo procedimento comum, previsto nos arts. 318 e seguintes do CPC. Entendimento apoiado nos enunciados n.119 e 129 da II Jornada de Direito Processual Civil.
+2. Recurso especial provido.
+(REsp 1.774.987/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 8.11.2018, DJe de 13.11.2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE PRODUÇÃO ANTECIPADA DE PROVAS. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. AÇÃO AUTÔNOMA DE EXIBIÇÃO DE DOCUMENTOS PELO PROCEDIMENTO COMUM E PRODUÇÃO DE PROVA ANTECIPADA. POSSIBILIDADE. 3.CONCLUSÃO DO ACÓRDÃO RECORRIDO ACERCA DO PREENCHIMENTO DOS REQUISITOS DO ART. 381, III, DO CPC/2015. REVISÃO OBSTADA PELA SÚMULA 7/STJ. 4. AGRAVO IMPROVIDO.
+1. Não ficou configurada a violação do art. 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia.O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+2. De fato, a jurisprudência desta Corte de Justiça se firmou no sentido de ser possível o ajuizamento de ação autônoma de exibição de documentos pelo procedimento comum.
+3. Na hipótese, a alteração do posicionamento adotado pela instância ordinária (acerca da distinção entre as duas ações e do preenchimento dos requisitos dispostos no art. 381, III, do CPC/2015, com o consequente acolhimento da pretensão recursal) demandaria o exame dos elementos fático-probatórios dos autos, o que é vedado pela Súmula n. 7 desta Corte.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.651.478/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 24.8.2020, DJe de 1º.9.2020)
+Em face do exposto, conheço do agravo e dou provimento ao recurso especial para determinaro retorno dos autos ao juízo de origem, ensejando o prosseguimento do processo, superada a questão acima tratada.
+Intimem-se.
