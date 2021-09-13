@@ -1,0 +1,30 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    EMENTA: PROCESSUAL CIVIL. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. EXTINÇÃO DA EXECUÇÃO FISCAL. RECONHECIMENTO DA OCORRÊNCIA DA PRESCRIÇÃO. ART 19 DA LEI 10.522/2002. HONORÁRIOS ADVOCATÍCIOS. DESCABIMENTO.
+    1. Trata-se de apelação interposta por BASIC JEANS COMERCIO CONFECCOES LTDA, contra sentença proferida pelo Juízo da 5ª Vara Federal/PB, que extinguiu o feito com resolução do mérito nos termos do art. 487, II do CPC e deixou de condenar a exequente no pagamento de honorários advocatícios.
+    2. Compulsando os autos, verifica-se que o Juízo a quo acolheu a exceção de pré-executividade interposta pela parte executada, na qual se alegava a ocorrência da prescrição e extinguiu a execução fiscal, reconhecendo a ocorrência da prescrição.
+    3. A Fazenda Nacional, ao se manifestar às fls. 66 e 66v, reconheceu a ocorrência da prescrição intercorrente
+    4. O STJ, por ocasião do julgamento do AgInt no AgInt no AREsp 886.145/RS, DJe 14.11.2018, firmou a seguinte compreensão: "De acordo com a atual redação do inciso I do § 1º do art. 19 da Lei 10.522/2002, que foi dada pela Lei 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido nas hipóteses dos arts. 18 e 19 da Lei 10.522/2002" (REsp 1796945/SC, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 28/03/2019, DJe 28/05/2019).
+    5. Deve ser mantida a sentença que deixou de condenar a exequente em honorários de sucumbência.
+    6. Apelação improvida.
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, caput da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    Cinge-se a demanda ao cabimento ou não da condenação da exequente em honorários advocatícios em razão do acolhimento de exceção de pré-executividade oposta pelo executado e a consequente extinção da execução pela prescrição intercorrente, reconhecida pela Fazenda Nacional.
+    Merece reforma a sentença.
+    Compulsando os autos, verifico que o Juízo a quo acolheu a exceção de pré-executividade interposta pela parte executada, na qual se alegava a ocorrência da prescrição e extinguiu a execução fiscal, reconhecendo a ocorrência da prescrição.
+    Por sua vez, a Fazenda Nacional, ao se manifestar às fls. 66 e 66v, reconheceu a ocorrência da prescrição intercorrente .
+    Tendo em vista o que dispõe inciso I do § 1º do art. 19 da Lei 10.522/2002, com redação dada pela Lei 12.844/2013, a Fazenda Nacional é isenta da condenação em honorários de sucumbência nos casos em que, citada para apresentar resposta, inclusive em embargos à execução fiscal e em exceções de pré-executividade, reconhecer a procedência do pedido.
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente, o que não é cabível em sede de recurso extraordinário. Sobre o tema, os seguintes precedentes:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento” (RE nº 1.169.266/RS-AgR, Primeira Turma, Rel. Min.Alexandre de Moraes, DJe de 13/2/19).
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. AÇÃO RESCISÓRIA. PRESSUPOSTOS DE ADMISSIBILIDADE. CONTROVÉRSIA INFRACONSTITUCIONAL. OFENSA REFLEXA. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I – É inadmissível o recurso extraordinário quando sua análise implica a revisão da interpretação de normas infraconstitucionais que fundamentam o acórdão recorrido, dado que apenas ofensa direta à Constituição Federal enseja a interposição do apelo extremo.II – Majorada a verba honorária fixada anteriormente, nos termos do art. 85, § 8° e § 11, do CPC. III – Agravo regimental a que se nega provimento, com aplicação de multa” (ARE nº 1.161.422/SP-AgR, Segunda Turma, Rel. Min. Ricardo Lewandowski,DJe de 6/12/18).
+    “AGRAVO REGIMENTAL EM RECURSO EXTRAORDINÁRIO COM AGRAVO. SERVIDOR. APOSENTADORIA. REVISÃO. PREQUESTIONAMENTO. AUSÊNCIA. VIOLAÇÃO REFLEXA DA CONSTITUIÇÃO DA REPÚBLICA. INADMISSIBILIDADE DO RECURSO EXTRAORDINÁRIO. 1. É inadmissível o recurso extraordinário quando a matéria constitucional suscitada não tiver sido apreciada pelo acórdão recorrido, em decorrência da ausência do requisito processual do prequestionamento. Súmula 282 do STF. 2. É inviável o processamento do apelo extremo quando a ofensa a dispositivo constitucional se dá de maneira reflexa e indireta, pois requer o exame prévio da orientação firmada sobre tese infraconstitucional pela instância ordinária. 3. Agravo regimental a que se nega provimento” (ARE nº 939.243/SP-AgR, Primeira Turma, Rel. Min. Edson Fachin, DJe de 7/4/16).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 13 de setembro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
