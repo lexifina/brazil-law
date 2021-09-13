@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de Diogo Henrique Pompeu da Silva, apontando-se como órgão coator o Tribunal de Justiça de Mato Grosso do Sul (Apelação n. 0027762-51.2018.8.12.0001 - fls. 638/662), por manter a sentença proferida peloJuízo de Direito da 2ª Vara Criminal da comarca de Campo Grande/MS, que o condenoucomo incurso no art. 33, caput, da Lei n. 11.343/2006, à pena de 7 anos de reclusão, a ser inicialmente cumprida em regime semiaberto, além do pagamento de 700 dias-multa, pelo tráfico de 475,3 kg de maconha (fl. 356) -(fls. 354/381).
+Pretende a defesa, em suma,seja reduzido o quantum de elevação da pena-base em razão da quantidade da droga apreendida para 1/10 (um décimo), visto que latente a sua desproporcionalidade(fl. 12).
+O Ministério Público Federal, na pessoa doSubprocurador-Geral da República Durval Tadeu Guimarães, opinou pela denegação da ordem, em parecer assim ementado (fl. 668):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. AUMENTO DA PENA-BASE EM RAZÃO DA EXPRESSIVA QUANTIDADE DE ENTORPECENTES APREENDIDOS. CONFORMIDADE COM O PRESCRITO NO ART. 59 DO CP E 42 DA LEI Nº 11.343/06. Pela denegação da ordem.
+É o relatório.
+Inicialmente, ressalto que a dosimetria da pena se insere dentro de um juízo de discricionariedade do julgador, atrelado às particularidades do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade, inexistentes, no caso.
+Com efeito, as instâncias ordinárias fixaram a pena-base em7 anos de reclusão, além do pagamento de 700 dias-multa, em razão da enorme quantidade do material entorpecente apreendido, qual seja, 475 kg de maconha (fl. 652), em harmonia, portanto, com a jurisprudência desta Casa, conforme se vê dos seguintes precedentes:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PLEITO DE ABSOLVIÇÃO DO DELITO DESCRITO NO ART. 35 DA LEI DE DROGAS. ESTABILIDADE E PERMANÊNCIA DEVIDAMENTE DEMONSTRADAS. VIA IMPRÓPRIA. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. MINORANTE DO ART. 33, § 4º, DA LEI DE DROGAS. PREJUDICADO. REDUÇÃO DA PENA-BASE.DESPROPORCIONALIDADE. INOCORRÊNCIA. APREENSÃO DE GRANDE QUANTIDADE DE DROGA. REGIME MAIS BRANDO. IMPOSSIBILIDADE.RECURSO IMPROVIDO.
+1. Não há que falar em absolvição do delito de associação para o tráfico quando as instâncias ordinárias entenderam estarem demonstradas a estabilidade e a permanência da associação, ressaltando inclusive, de acordo com as provas dos autos, que o agravante traficava há meses, de modo que infirmar a conclusão das instâncias ordinárias implicaria em revolvimento do contexto fático-probatório, inviável na via estreita do habeas corpus.
+2. Mantida a condenação pelo delito de associação para o tráfico de drogas, em que a dedicação à atividade criminosa é elementar do tipo, prejudicado está o pleito de aplicação do redutor previsto no art. 33, § 4º, da Lei 11.343/06, bem como de seus consectários legais.
+3. As instâncias ordinárias exasperaram a pena-base em 2 anos de reclusão e 200 dias-multa com fundamento na grande quantidade de droga (mais de 3 kg de maconha), o que demonstra que a elevação da sanção básica em índice superior a 1/6 foi justificada de maneira idônea e que o incremento é proporcional à intensidade dos atos.
+4. Agravo regimental improvido.
+(AgRg no HC n. 586.398/SP, Ministro Nefi Cordeiro, Sexta Turma, DJe 14/9/2020 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS.DOSIMETRIA. PENA-BASE EXASPERADA EM 1/2. PROPORCIONALIDADE.CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA. ELEMENTOS CONCRETOS.REGIME INICIAL FECHADO. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO.
+1. Na esteira da orientação jurisprudencial desta Corte, por se tratar de questão afeta a certa discricionariedade do magistrado, a dosimetria da pena é passível de revisão em habeas corpus apenas em hipóteses excepcionais, quando ficar evidenciada flagrante ilegalidade, constatada de plano, sem a necessidade de maior aprofundamento no acervo fático-probatório.
+2. No caso em apreço, o aumento da pena-base em 1/2 não se revela desproporcional ante a elevada quantidade e nocividade do entorpecente apreendido - cerca de 2,900kg (dois quilos e novecentos gramas) de pasta base de cocaína.
+ ..  5. Agravo regimental desprovido.
+(AgRg no HC n. 527.650/SP, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 8/5/2020 - grifo nosso).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL.TRÁFICO ILÍCITO DE DROGAS. PENA-BASE. CAUSA ESPECIAL DE DIMINUIÇÃO DE PENA PREVISTA NO ART. 33, § 4.º, DA LEI DE DROGAS.INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes. Na espécie, não se verifica ilegalidade patente a ser sanada de ofício.
+2. O aumento da pena-base em 2 (dois) anos e 6 (seis) meses, em razão da quantidade de droga apreendida - aproximadamente 4,200 kg de maconha -, não se mostra desproporcional, considerando o entendimento emanado pela Sexta Turma deste Superior Tribunal de Justiça.
+ ..
+6. Agravo regimental desprovido.
+(AgRg no HC n. 547.176/SP, Ministra Laurita Vaz, Sexta Turma, DJe 4/2/2020 - grifo nosso).
+Ante o exposto, denego a ordem.
+Publique-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. DOSIMETRIA DA PENA. PENA-BASE. EXASPERAÇÃO. QUANTIDADE DA DROGA (475 KG DE MACONHA). FUNDAMENTAÇÃO IDÔNEA. PRECEDENTES. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Ordem denegada.
