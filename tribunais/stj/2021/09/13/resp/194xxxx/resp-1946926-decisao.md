@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão que deu provimento ao agravo na execução da defesa.
+Aponta o recorrente contrariedade aos arts.42 do Código Penal e111 da LEP, ao fundamento de que o "ordenamento jurídico, ao determinar a unificação das penas, não admite o cumprimento simultâneo de duas reprimendas privativas de liberdade, não se podendo invocar o instituto da detração para permitir a sobreposição de execuções penais" (fl. 268). Nesse contexto, requer o provimento do recurso para restabelecer a decisão do Juízo das Execuções.
+Contrarrazoado e admitido, manifestou-se o Ministério Público pelo provimento do recurso especial.
+Determinada a elaboração de novo cálculopelo Juízo da Execução, fixando como termo inicial adata imediatamente posterior ao término do período de prova do livramento condicional, a defesa interpôsagravo em execução, o qual foi provido nos seguintes termos (fls. 248-249):
+Pelo que se depreende dos autos, o agravante, quando da prática da nova transgressão (19.01.2020), encontrava-se em livramento condicional referente à CES nº 0111508-79.2019.8.19.0001, com previsão de término do período de prova no dia 14/05/2020, o qual restou extinto na forma do art. 90, do CP, pela decisão ora vergastada (fls. 04/06 - proc. eletrônico).
+Tendo em vista o cometimento de novo delito, o réu foi preso, em 19/01/2020, ensejando o processo nº 0012821-33.2020.8.19.0001, cuja condenação encontra-se em execução.
+Nessa linha, o juízo determinou a elaboração de novo cálculo, fixando como início da presente execução a data imediatamente posterior ao término do período de prova do livramento condicional da CES nº 0111508- 79.2019.8.19.0001, objeto de impugnação defensiva por entender que o termo inicial deveria ser 19.01.2020.
+Com efeito, como a pena da primeira CES foi extinta no dia 14/05/2020, ainda que seu cumprimento tenha ocorrido por uma ficção jurídica, não pode o Juízo executor decotar da nova CES o tempo de prisão cautelar que transcorria em paralelo por força de outro crime cometido no dia 19/01/2020, ainda que sob o pretexto de causar o cumprimento simultâneo de duas penas não unificadas, pois está a afrontar o instituto da detração penal, consagrado no art. 42 do Código Penal.
+O entendimento diverge da orientação jurisprudencial desta Corte de que o termo inicial da nova execução é o dia subsequente ao fim do período de prova, dada a impossibilidade de cumprimento simultâneo de duas penas não unificadas. (HC 322.206/RJ, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 30/06/2015, DJe 03/08/2015).
+Ante o exposto, dou provimento ao recurso especial para restabelecer a decisão do Juízo das Execuções.
+Publique-se.
+Intimem-se.
