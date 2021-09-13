@@ -1,0 +1,27 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto pela FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE - FEAM, contra acórdão que negou seguimento a recurso especial, fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial: 31/03/2021
+Concluso ao gabinete em: 08/09/2021
+Ação: de execução proposta pela Fundação Estadual do Meio Ambiente -FEAM em desfavor deAuto Posto Martins Rodrigues Ltda-EPP. Foram apresentados embargos à execução pela executada.
+Decisão interlocutória: determinou o desbloqueio de valores constritos via Bacenjud.
+Acórdão: negou provimento ao agravo de instrumento interposto pela Fundação Estadual do Meio Ambiente -FEAM, nos termos da seguinte ementa:
+"AGRAVO DE INSTRUMENTO -EMBARGOS À EXECUÇÃO -PENHORA -CAPITAL DE GIRO DA EMPRESA -DESBLOQUEIO -POSSIBILIDADE -PRINCÍPIO DA MENOR ONEROSIDADE -EXECUÇÃO GARANTIDA -VEÍCULO -DEMONSTRAÇÃO -DECISÃO MANTIDA.
+É cediço que a Lei de Execuções Fiscais (Lei n. 6.830/80), em seu art. 11, estabelece a penhora de dinheiro como item preferencial sobre os demais bens e direitos. Todavia, a teor do art. 805 do CPC, a execução deve ser realizada pelo modo menos oneroso para o executado, quando puder ser realizada por vários meios. Demonstrado nos autos que a penhora de dinheiro realizada consiste no capital de giro da empresa, deve ser mantida a decisão agravada que determinou o desbloqueio, notadamente quando comprovado que a execução se encontra garantida por outra forma. A manutenção do bloqueio nos moldes como pleiteado pelo recorrente é capaz de inviabilizar o exercício da atividade empresária. Recurso não provido."(e-STJ fl. 117).
+Recurso especial: Alega violação dosarts. 11, I, da Lei de Execução Fiscal e835, I, §1º, do CPC/2015. Sustenta queo dinheiro ocupa o primeiro lugar na ordem de preferência de penhora, devendo ser mantida sua constrição pois o agravada não trouxe qualquer comprovação de seu descabimento. Diz "que é possível apreciar o presente recurso independentemente da análise das provas carreadas aos autos, haja vista que o seu objeto consiste na manutenção do bloqueio dos valores encontrados na conta bancária do agravado, uma vez que o veículo penhorado não serve como garantia por estar gravado com cláusula de alienação fiduciária" (e-STJ, fl. 145). Argumenta, ainda, que o alegado parcelamento dos débitos sequer foi efetivado, não havendo, portanto, razão para liberação do numerário.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Do reexame de fatos e provas
+Alterar a conclusão firmada noacórdão recorrido no sentido de que "a Lei de Execuções Fiscais (Lei n. 6.830/80), em seu art. 11, estabelece a penhora de dinheiro como item preferencial sobre os demais bens e direitos.Apesar de a lei prevê essa ordem de preferência, é pacífico na doutrina e na jurisprudência que ela não é absoluta, devendo-se admitir sua mitigação em hipóteses excepcionais. (..) Não obstante, há que se ter em vista ainda o disposto no art. 805 do CPC/15, segundo o qual a execução deve ser realizada pelo modo menos oneroso para o executado, quando puder ser realizada por vários meios. In casu, não se ignora que houve o bloqueio de valores na conta da executada, sendo o primeiro item na ordem de penhora. Contudo, conforme ressaltado nos autos, o valor constrito corresponde ao capital de giro da empresa, mostrando-se demasiadamente oneroso o seu bloqueio. Desse modo, tendo em vista que a execução se encontra garantida, bem como em atenção ao princípio da menor onerosidade, o desprovimento do recurso é medida que se impõe. Ademais, certo é que a manutenção do bloqueio nos moldes como pleiteado pelo recorrente poderá inviabilizar o exercício da atividade empresária"(e-STJ, fls. 119/120),exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+- Da falta de prequestionamento
+O acórdão recorrido não emitiu pronunciamento acerca de que: o ora agravado fez meras alegações no sentido de que o valor penhorado faz parte do capital de giro da empresa, sem trazer qualquer prova nesse sentido; e de que oalegadoparcelamentonão teria sido efetivado. Tampouco foram opostosembargos de declaração com vistas a suprir eventual omissão perpetrada pelo Tribunal de origem. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, na hipótese, a Súmula 282/STF.
+Ademais, quanto aos temas, não houve, no recurso especial, indicação dos artigos correspondentes, tidos por violados, fazendo incidir, quanto ao ponto, a Súmula 284/STF.
+Forte nessas razões, NÃO CONHEÇO do presente agravo.
+Nos termos do art. 85, §11, do CPC/2015, deixo de majorar os honorários recursais, pois não fixados na origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO. EMBARGOS À EXECUÇÃO. DESBLOQUEIO DE VALORES.REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. SÚMULA 7/STJ.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.
+1. Ação de execução. Embargos à execução.
+2.O reexame de fatos e provas em recurso especial é inadmissível.
+3.A ausência de decisão acerca dos argumentos invocados pelo recorrente em suas razões recursais impede o conhecimento do recurso especial.
+4. Agravo nãoconhecido.
