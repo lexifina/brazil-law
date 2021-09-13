@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRADESCO AUTO/RE COMPANHIA DE SEGUROS contra acórdão da Oitava Câmara Cível do TJPR assim ementado (e-STJ fl. 615):
+AGRAVO DE INSTRUMENTO. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS. CUMPRIMENTO DE SENTENÇA. LITISPENDÊNCIA. PRECLUSÃO. PAGAMENTO ADMINISTRATIVO. NÃO COMPROVAÇÃO. CÁLCULOS. REFERÊNCIA A PROCESSO DISTINTO. APROVEITAMENTO. IMPOSSBILIDADE. EXCESSO DE EXECUÇÃO. NÃO CONSTATADO. MORA. CONFIGURAÇÃO. PAGAMENTO VOLUNTÁRIO. AUSÊNCIA. JUROS DE MORA. MULTA. HONORÁRIOS ADVOCATÍCIOS. DEVIDOS. DECISÃO MANTIDA. AGRAVO NÃO PROVIDO.
+Os embargos de declaração foram rejeitados (e-STJ fls. 632/636).
+Nas razões do recurso especial (e-STJ fls. 663/682), fundamentado no art. 105, III, "a" e "c", da CF, a recorrente aponta, além de dissídio jurisprudencial, violação dos arts. 757 e 760 do CC/2002, 502 do CPC/2015 e 5º, XXXVI, da CF.
+Alega que o cumprimento de sentença se apresenta como continuidade da fase de conhecimento, razão pela qual é possível discutir os valores devidos nesse momento processual.
+Sustenta que, apesar de ficar reconhecido que a seguradora responderia nos limites do contrato de seguro, no cumprimento de sentença, isso foi desconsiderado, cobrando-se os valores de forma integral, sem que fossem levados em conta os pagamentos realizados em processo judicial e na esfera administrativa.
+Afirma que o mesmo acidente motivou duas ações judiciais, de forma que " n ão pode ser mantido o entendimento de que a seguradora não deve responder em cada processo judicial de forma independente, desconsiderando a condenação havida em outro processo judicial. A responsabilidade da seguradora é contratual e está limitada aos valores previstos no contrato de seguradora para todo e qualquer evento ocorrido durante a vigência do contrato. Não podendo a seguradora responder por valores que superam a Importância Segurada. A condenação do segurado é decorrente de ilícito civil já a da seguradora é contratual e por ser contratual é LIMITADA" (e-STJ fl. 671).
+Além disso, explica que "procedeu a dois pagamentos administrativos no valor de R$ 949,74 e R$ 9.406,15, cujos comprovantes foram acostados aos autos, os quais perfazem o importe de R$ 10.355,89, consoante comprovou o cálculo acostado a Impugnação apresentada. Assim, a importância segurada para danos pessoais prevista na apólice de seguro no importe de R$ 40.000,00 não estava integralizada quando da intimação da condenação proferida no presente processo, sobrevindo saldo no importe de R$29.644,21, o qual atualizado pelo índice oficial do Tribunal do Estado perfaz o importe de R$ 53.234,77, cuja autorização para levantamento foi concedida pela Seguradora na Impugnação ao cumprimento de sentença ofertada nos autos do processo n. 188/2004,  .. , vez que naquele dossiê houve o trânsito em julgado primeiro, de modo que inexiste qualquer saldo de importância segurada para danos pessoais possível de ser disponibilizado no feito em comento" (e-STJ fl. 672).
+Entende que "a decisão hostilizada ampliou a álea do contrato, imputando à Seguradora o dever de responder por obrigação não consubstanciada na Apólice, em legítima afronta aos ditames dos artigos 757 e 760 do Código Civil Brasileiro" (e-STJ fl. 675).
+A seu ver, não devem incidir juros de mora sobre as importâncias seguradas.
+Aduz que o Tribunal de origem não teria apreciado sua alegação de que os honorários sucumbenciais seriam de responsabilidade exclusiva dos segurados. Defende que "os honorários advocatícios fixados na lide principal são decorrência da condenação da parte segurada, pelo acidente de trânsito controvertido nos autos, devendo ser cobertos pela rubrica relativa aos danos materiais" (e-STJ fl. 674).
+Apresenta, como paradigmas, julgados do TJRS, a fim de demonstrar o dissídio jurisprudencial.
+Foram apresentadas contrarrazões (e-STJ fls. 738/753).
+Admitido o recurso na origem, foi determinada a subida dos autos a esta Corte para apreciação do especial (e-STJ fls. 796/798).
+É o relatório.
+Decido.
+A recorrente apresenta como violados os seguintes dispositivos de lei: arts. 757 e 760 do CC/2002, 502 do CPC/2015 e 5º, XXXVI, da CF.
+Inicialmente, destaco não ser viável apreciar, em recurso especial, a tese de existência de violação de dispositivo constitucional, sob pena de usurpação de competência do STF, motivo pelo qual não se deve conhecer da alegação de ofensa ao art. 5º, XXXVI, da CF.
+Não foram indicados dispositivos legais aptos a amparar as alegações de que: (a) a discussão a respeito dos valores devidos é cabível na fase de cumprimento de sentença, (b) não devem incidir juros de mora sobre a importância segurada, (c) a Corte local não teria se manifestado sobre a tese referente à verba honorária e (d) os honorários sucumbenciais seriam de responsabilidade integral dos segurados.
+Assim, por carência de fundamentação, incidente a Súmula n. 284/STF.
+Quanto às questões de fundo, o TJPR decidiu a controvérsia, com base nos elementos fáticos do processo, conforme se extrai do seguinte excerto do acórdão recorrido (e-STJ fl. 618):
+ ..  não há nos autos prova suficiente que ateste a existência do referido pagamento, de modo que não há o que se falar em excesso de execução por existência de pagamento administrativo.
+Frise-se que nos recibos juntados às fls. 506/507, não se pode averiguar quem são os beneficiários, e tampouco, a que dizem respeito, de forma que não servem de prova do pagamento administrativo alegado.
+Alternativamente, assevera a recorrente que o valor da indenização deve ter por base de cálculo o limite da importância contratada para a importância segurada, qual seja, R$ 40.000,00.
+Nesta ótica, afirma que o valor a ser indenizado, tendo por base o valor supra, é de R$ 125.066,36, conforme cálculos apresentados.
+Todavia, o que se extrai do pedido do recorrente, é que os cálculos se referem ao valor devido em outro processo. Além disso, não houve manifestação do juízo de primeiro grau acerca da validade dos referidos cálculos, de modo que não há a possibilidade de manifestação deste Tribunal, no presente momento, sob pena de supressão de instância.
+Dessa forma, decidir de modo contrário encontra óbice na Súmula n. 7/STJ.
+Além disso, os argumentos de que o Tribunal de origem não poderia se manifestar sobre a validade dos cálculos, sob pena de supressão de instância, e de que a argu ição de litispendência em sede de cumprimento de sentença é extemporânea não foram impugnados no especial, atraindo a Súmula n. 283/STF.
+Referidos óbices - Súmulas n. 7 do STJ e 283 e 284 do STF - impedem o conhecimento do recurso interposto também com base no dissí dio jurisprudencial.
+Ante o exposto, NÃO CONHEÇO do especial.
+Publique-se e intimem-se.
+EMENTA
