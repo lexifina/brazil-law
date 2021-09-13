@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 70):
+HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PRISÃO PREVENTIVA.
+ARGUMENTOS ACERCA DO MÉRITO DOS FATOS. IMPOSSIBILIDADEDE ANÁLISE APROFUNDADA DE PROVAS NA VIA ESTREITA DO WRIT. NÃO CONHECIMENTO.
+SUSTENTADA AUSÊNCIA DOS REQUISITOS PARA O INDEFERIMENTO DA LIBERDADE AO PACIENTE. INOCORRÊNCIA. SEGREGAÇÃO NECESSÁRIA, EM ESPECIAL, PARA A GARANTIA DA ORDEM PÚBLICA. APREENSÃO DE 17,2 GRAMAS DE CRACK (39 PORÇÕES). AINDA, PRESENÇA DE INDICATIVOS DE QUE O PACIENTE ESTARIA SUPOSTAMENTE PRATICANDO O ILÍCITO COM HABITUALIDADE. PERICULOSIDADE EVIDENCIADA. NECESSIDADE DE IMPEDIR A REITERAÇÃO DELITUOSA. SEGREGAÇÃO DEVIDAMENTE JUSTIFICADA. APLICAÇÃO DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO QUE NÃO SE MOSTRA SUFICIENTE. EVENTUAIS PREDICADOS SUBJETIVOS POSITIVOS QUE NÃO OBSTAM A MANUTENÇÃO DA CUSTÓDIA. PRINCÍPIO DA PRESUNÇÃO DEINOCÊNCIA NÃO VIOLADO.
+CONSTRANGIMENTO ILEGAL INEXISTENTE. ORDEM DENEGADA.
+O paciente foi preso em flagrante em 24/5/2021, convertido em preventiva, sendo denunciado pela prática do delito tipificado no art. 33 da Lei 11.343/2006.
+Argumenta a impetrante, em suma, ausência dos requisitos do art. 312 do CPP, requerendo, liminarmente e no mérito, a revogação da prisão preventiva ou a sua substituição pelas medidas cautelares previstas no art. 319 da mesma lei processual.
+A liminar foi indeferida.
+Prestadas as informações, manifestou-se o Ministério Público Federal pela concessão da ordem.
+Na origem, Processo5006131-94.2021.8.24.0075, oriundo da 2ª Vara Criminal de Tubarão/SC, realizou-se audiência de instrução e julgamento em 2/9/2021, conforme informações processuais eletrônicas extraídas do site do TJSC em 3/9/2021.
+Não obstante a excepcionalidade que é a privação cautelar da liberdade antes do trânsito em julgado da sentença condenatória, reveste-se de legalidade a medida extrema quando baseada em elementos concretos, nos termos do art. 312 do CPP.
+O decreto preventivo foi proferido nos seguintes termos (fl. 154):
+ ..  nessa fase processual, não há como adentrar efetivamente no mérito da participação do investigado no delito noticiado, porquanto os elementos de prova necessários ao efetivo delineamento de sua conduta somente integração os autos após à instrução detalhada do feito. Todavia, conforme já consignado, há indícios suficientes acerca da materialidade do delito investigado, satisfazendo o requisito do fumus comissi delicti.
+De igual forma, o periculum libertatis se materializa nos autos, mormente por meio da flagrante necessidade de se guarnecer a ordem pública e a segurança social, que restaram abaladas diante da gravidade da conduta delituosa praticada, mormente tendo em vista que, ainda que o conduzido seja tecnicamente primário, as circunstâncias da abordagem e prisão demonstram habitualidade no crime de tráfico de drogas pelo custodiado, e não apenas de um ato isolado.
+Nesse sentido, insta salientar que a preservação da ordem pública não se restringe, pois, à mera adoção de medidas preventivas no combate a conflitos efetivos, mas engloba a promoção de diligências com vistas a resguardar a integridade das instituições e a credibilidade social, promovendo o aumento da confiança dos cidadãos nos mecanismos de repressão e nas ações estatais em oposição às mais variadas formas de delinquência.
+Outrossim, a quantidade e natureza das drogas apreendidas, quais sejam, 17,20 gramas de crack, fracionadas em mais de 39 pedras, reforçam, de igual forma, a imprescindibilidade de adoção da custódia cautelar no caso presente, porquanto possuem capacidade de causar dependência em grande número de usuários, os quais seriam diretamente afetados pelas nefandas consequências resultantes do consumo de entorpecentes.
+Somado a isso, há a necessidade de adoção da segregação cautelar para a garantia da aplicação da lei penal e para a conveniência da futura instrução processual, quando serão coletados maiores elementos para a comprovação do ilícito em apuração, posto que, conforme ressaltado alhures, as circunstâncias da abordagem denotam que se dedica à atividade criminosa. ..
+Como visto, externou o juízo de 1º grau que "a quantidade e natureza das drogas apreendidas, quais sejam, 17,20 gramas de crack, fracionadas em mais de 39 pedras, reforçam, de igual forma, a imprescindibilidade de adoção da custódia cautelar no caso presente, porquanto possuem capacidade de causar dependência em grande número de usuários, os quais seriam diretamente afetados pelas nefandas consequências resultantes do consumo de entorpecentes".
+No entanto, o montante de entorpecente apreendido - 17,20 gramas de crack- não se mostra expressivo.
+A Sexta Turma tem entendido que o tráfico flagrado de não relevante quantidade de drogas somente com especial justificação permitirá a prisão por risco social.
+Ante o exposto, concedo o habeas corpus para determinar a soltura deARIVELTON DOMINGOS MARCOLINO.
+Comunique-se.
+Publique-se.
+Intimem-se.
