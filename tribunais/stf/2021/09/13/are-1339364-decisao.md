@@ -1,0 +1,37 @@
+Decisão: Trata-se de agravo cujo objeto é a decisão que não admitiu recurso extraordinário interposto em face de acórdão da Turma da Fazenda Recursal do Colégio Recursal de Araçatuba – Tribunal de Justiça do Estado de São Paulo, assim ementado (eDOC 7, p. 2):
+    “SERVIDOR PÚBLICO – ESCRIVÃO DE POLÍCIA – DIFERENÇA DE VENCIMENTOS – RECONHECIMENTO. O escrivão de polícia em exercício em Delegacia de Polícia de classe superior tem direito à percepção da diferença de vencimentos, nos moldes do parágrafo único do art. 6º do Decreto-lei nº 141/69, pouco importando se esse execício não se deu por transferência para Unidade Policial diversa. Sentença mantida. Recurso desprovido.”
+    Os embargos de declaração foram rejeitados (eDOC 10).
+    No recurso extraordinário interposto com fundamento no artigo 102, III, a, do permissivo constitucional, apontou-se ofensa aos artigos 2º; 5º; 37, I, II, X e XIII; 39, § 1º, I, II e III; 61, I, a; 124; e 169, § 1º, I, da Constituição da República, bem como à súmula 339 do STF.
+    Nas razões recursais, alega-se, em suma, que (eDOC 11, p. 14):
+    “Com o advento da L.C. 207/79, em seu artigo 32 , somente o Delegado de Policia, pode ser Designado para Chefiar Unidade ou Serviço de categoria correspondente à sua classe, ou , em casos excepcionais à classe imediatamente superior.
+    Por isso, a recorrida se utiliza do art. 6º do Decreto-Lei nº 141/1969, que, em virtude da nova Lei Orgânica da Polícia Civil do Estado de São Paulo, não é aplicável aos Escrivães de Polícia.
+    Acrescenta-se, ainda, que (eDOC 11, p. 15):
+    “A pretensão trazida não tem como vingar, uma vez que busca aplicação do princípio da isonomia, uma vez que o cargo de Escrivão de Polícia integra Carreira de Polícia Civil do Estado de São Paulo, e tem sua disciplina prevista na Lei Complementar nº 207/1979.”
+    A Presidência do Colégio Recursal de Araçatuba/SP inadmitiu o recurso extraordinário em virtude de incidir na hipótese as Súmulas 279, 280 e 282 do STF, além da ausência de demonstração da preliminar de Repercussão Geral. (eDOC 14).
+    É o relatório. Decido.
+    A irresignação não merece prosperar.
+    O Tribunal de origem, quando do julgamento do recurso inominado, assim asseverou (eDOC 7, p. 2-3):
+    “(...)
+    O art. 6º, § único, do Decreto-Lei nº 141/69 determina expressamente a percepção da diferença de vencimentos quando o Escrivão está em exercício em Delegacia de Polícia de classe superior, hipótese dos autos."
+    Artigo 6.º - O Escrivão de Polícia só poderá ter exercício em Delegacia de Polícia de classe correspondente à sua, ou, em casos excepcionais, por necessidade de serviço, de classe imediatamente superior.
+    Parágrafo único - Quando em exercício em Delegacia de Polícia de classe superior, nos termos deste artigo, o Escrivão de Polícia terá direito à percepção da diferença de vencimentos."
+    Em que pese o art. 33 da Lei Complementar nº 207/79 (Lei Orgânica da Polícia do Estado de São Paulo) ter mencionado apenas os Delegados de Polícia quando prevê a percepção de diferença salarial para os que exercem atividade em delegacia de classe superior, fato é que o art. 135 do mesmo diploma deixa claro serem aplicáveis as disposições do Decreto-Lei nº 141/69, se não conflitantes com a nova lei.
+    "Art. 135 - Aplicam-se aos funcionários policiais civis, no que não conflitar com esta lei complementar, as disposições [...] do Decreto-lei n.º 141,de 24 de julho de 1969 [...]."
+    Portanto, evidente que as disposições da lei anterior acerca da percepção de diferença salarial por parte dos escrivães de polícia que exercem atividades em delegacia de classe superior não foram revogadas, devendo sim ser aplicadas ao caso em tela.
+    Ademais, a hipótese tratada nestes autos não é a de equiparação das funções ou reenquadramento, e sim de remuneração por atividade efetivamente prestada.
+     Deve-se ter em mente que todo cargo público apresenta atribuições e responsabilidades específicas, bem como sua respectiva remuneração, na forma estabelecida por lei.
+    Assim, o titular de cargo público deveria exercer, única e exclusivamente, funções inerentes ao seu cargo, sob pena de enriquecimento ilícito da Administração decorrente do locupletamento de serviços “mais caros”eventualmente prestados.
+    No caso em tela, a parte autora exerceu suas atividades em delegacia de classe superior e percebeu remuneração de classe inferior, sem,portanto, haver o reconhecimento pela Administração Pública e sem ,igualmente, haver remuneração adequada.
+    Por esta razão, é de rigor que a recorrente arque com o pagamento das diferenças de vencimentos, respeitada a prescrição quinquenal,em conformidade com a Súmula n.º 378 do Superior Tribunal de Justiça: ‘Reconhecido o desvio de função, o servidor faz jus às diferenças salariais decorrentes’. ”
+    Como se depreende dos fundamentos que constam na ementa do acórdão recorrido, eventual divergência em relação ao entendimento adotado pelo juízo a quo, demandaria o reexame de fatos e provas constantes dos autos, e o exame da legislação local aplicável à espécie (Decreto-Lei Estadual 141/69), o que inviabiliza o processamento do apelo extremo, tendo em vista a vedação contida nas Súmulas 279 e 280 do STF. Nesse sentido:
+    “AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. OFENSA CONSTITUCIONAL REFLEXA.1.Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 2. Agravo Interno a que se nega provimento.” (RE 1.169.266-AgR, Rel. Min.Alexandre de Moraes, Primeira Turma, DJe de 13.2.2019).
+    “Agravo regimental no recurso extraordinário com agravo. 2. Alegação de ofensa direta ao texto constitucional. Não caracterização. 3. Necessidade de reexame de fatos e provas e da legislação infraconstitucional pertinente. 4. Incidência dos Enunciados 279 e 280 da Súmula do STF. 5. Agravo regimental a que se nega provimento.” (ARE 918.883-AgR, Rel. Min. Gilmar Mendes, Segunda Turma, DJe de 13.11.2015).
+    Ademais, a jurisprudência do Supremo Tribunal Federal é firme no sentido de que não viola o princípio da separação dos poderes o exame da legalidade e abusividade dos atos administrativos pelo Poder Judiciário. Nesse sentido:
+    "AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. VIOLAÇÃO AO PRINCÍPIO DA SEPARAÇÃO DOS PODERES. NÃO OCORRÊNCIA. SÚMULA 279/STF. Hipótese em que, para dissentir da conclusão firmada pelo Tribunal de origem, seria necessário reexaminar os fatos e provas constantes dos autos, o que é vedado em recurso extraordinário. Incidência da Súmula 279/STF. É firme no Supremo Tribunal Federal o entendimento de que não afronta o princípio da separação dos Poderes o controle exercido pelo Poder Judiciário sobre atos administrativos tidos por abusivos ou ilegais. Precedentes. Ausência de argumentos capazes de infirmar a decisão agravada. Agravo regimental a que se nega provimento." (AI 410.544-AgR, Rel. Min. Roberto Barroso, Primeira Turma, DJe de 17.3.2015).
+    Ante o exposto, nego provimento ao recurso, nos termos do art. 932, IV, a, do Código de Processo Civil.
+    Nos termos do artigo 85, § 11, do CPC, majoro em ¼ (um quarto) os honorários fixados anteriormente, devendo ser observados os limites dos §§ 2º e 3º do mesmo dispositivo.
+    Publique-se.
+    Brasília, 13 de setembro de 2021.
+Ministro Edson Fachin
+Relator
+Documento assinado digitalmente
