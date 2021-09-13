@@ -1,0 +1,7 @@
+DECISÃO
+Trata-se de recurso especial interposto contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. Execução de Título Extrajudicial. Decisão que deferiu a penhora do direito real de aquisição do coexecutado. Irresignação deste. Cabimento. Imóvel alienado fiduciariamente. Cancelamento da propriedade fiduciária, conforme consta da ficha de matrícula do imóvel "sub judice". Bem de família. Regra do artigo 1º, "caput" da Lei 8.009/90. Comprovada a moradia da entidade familiar. Levantamento da penhora. Decisão reformada. Recurso provido.
+Contra o referido acórdão, a parte recorrente opôs embargos de declaração, afirmando que a Corte de origem deixou de examinar a alegação de que o imóvel objeto de irresignação na verdade é um prédio de valor elevado (R$ 12.000.000,00 - doze milhões de reais) e que, conforme se atesta da leitura da declaração de imposto de renda do executado, a qual consta dos autos, este ainda possui mais 24 (vinte e quatro) imóveis, além de um carro de luxo, sendo certo que a legislação de regência determina que a proteção do bem de família recai sobre o imóvel de menor valor.
+Ocorre que a Corte de origem deixou de examinar as alegações do recorrente, que podem alterar substancialmente o resultado do julgamento, evidenciando-se a violação do art. 1.022do Código de Processo Civil.
+Em face do exposto, dou provimento ao recurso especial, a fim de determinar o retorno dos autos para que o Tribunal de origem supra as omissões acima anotadas.
+Intimem-se.
