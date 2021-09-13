@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, alíneas "a" e "c", da CF, contra acórdão do TJMGassim ementado (e-STJ fl. 565):
+EMENTA: APELAÇÃO - INDENIZAÇÃO - ATRASO NA ENTREGA DA OBRA - CLÁUSULA DE PRORROGAÇÃO DE PRAZO - TAXA DE EVOLUÇÃO DE OBRA - MULTA CONTRATUAL - DANOS MORAIS - HONORÁRIOS ADVOCATÍCIOS. É cabível a estipulação do prazo de tolerância de 180 dias, por ser prática padrão nos contratos de construção, que estabelece de forma determinada e prévia a possibilidade de extensão do prazo de entrega em caso de imprevisto. Constatada a mora injustificada da construtora, o ônus quanto ao pagamento de taxa de evolução da obra, ou reajuste pelo INCC, não pode ser imputado aos promitentes compradores que não concorreram para o atraso na entrega da obra. É da construtora o dever de arcar com o pagamento da taxa de evolução de obra durante o período de sua inadimplência, pois foi ela quem deu causa ao atraso na entrega do imóvel. O atraso substancial e injustificado na entrega do imóvel enseja danos morais indenizáveis, por repercutirem na esfera íntima do comprador. A fixação de honorários advocatícios deve levar em consideração o grau de zelo do profissional, o lugar da prestação do serviço, a natureza e importância da causa, o trabalho realizado pelo advogado e o tempo exigido para seu serviço para a fixação do valor.
+Os embargos de declaração do recorrido foram rejeitados (e-STJ fls. 585/591).
+Nas razões apresentadas (e-STJ fls. 594/614), arecorrenteapontaofensa aoart. 489, § 1º, IV, do CPC/2015, porque a Corte local teria deixado de enfrentar todos os argumentos deduzidos para isentá-lado dever de ressarcir os juros de obra ao comprador, ora recorrido, o que, em tese, seria suficiente para infirmar as conclusões do julgado.
+Suscitadissídio jurisprudencial, tendo em vista que o mero atraso na entrega da obra não justificaria a condenação por danos morais. Subsidiariamente, requera revisão do valor da mencionada indenização - por considerarexcessiva a quantia de R$ 15.000,00 (quinzemil reais).
+Sustentadivergência interpretativa, porque seria incabível a cumulação de cláusula penalcom indenização por lucros cessantes.
+Foram ofertadas contrarrazões (e-STJ fls. 623/652).
+É o relatório.
+Decido.
+Conforme o entendimento do STJ, "o óbice da Súmula n. 284/STF impede o seguimento do recurso especial fundamentado em suposta violação do art. 535 do CPC/1973, na hipótese em que o recorrente não opôs embargos de declaração na origem, para ver sanado eventual vício do acórdão recorrido" (AgRg no AREsp 809.394/RJ, de minha relatoria, QUARTA TURMA, julgado em 7/6/2016, DJe 13/6/2016).
+Do mesmo modo:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA RECURSAL DA REQUERIDA.
+1. Não havendo oposição de embargos de declaração na origem, resta inviabilizado o conhecimento da tese de negativa de prestação jurisdicional. Precedentes.
+(..)
+4. Agravo interno desprovido.
+(AgInt no AREsp n. 1.385.697/MA, Relator Ministro MARCO BUZZI, QUARTA TURMA, julgado em 27/5/2019, DJe 3/6/2019.)
+Ainda nesse sentido: AgInt no REsp n. 1.691.379/MG, Relator Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 27/2/2018, DJe 12/3/2018, e AgInt no AREsp n. 1.069.244/MS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 22/8/2017, DJe 1º/9/2017.
+No caso, a parte alegou haver negativa de prestação jurisdicional, a despeito da ausência da oposição de aclaratórios contra o acórdão recorrido, o que atrai a incidência da Súmula n. 284/STF.
+O conhecimento do recurso especial interposto com fundamento na alínea "c" do permissivo constitucional exige, além da indicação do dispositivo legal objeto de interpretação divergente, a demonstração do dissídio, mediante a verificação das circunstâncias que assemelhem ou identifiquem os casos confrontadose a realização do cotejo analítico entre elas, nos termos definidos pelos arts. 255, §1º, do RISTJ e 1.029, § 1º, do CPC/2015, ônus dos quais arecorrentenão se desincumbiu.
+Registre-se, ainda, que "a divergência entre julgados do mesmo Tribunal não enseja recurso especial" (Súmula n. 13/STJ).
+Ademais, o Superior Tribunal de Justiça firmou o entendimento de ser incabível o reexame do montante arbitrado a título de danos morais, com fundamento em divergência jurisprudencial, visto que, "ainda que haja semelhança de algumas características nos acórdãos confrontados, cada qual possui peculiaridades subjetivas e contornos fáticos próprios, o que justifica a fixação do quantum indenizatório distinto" (AgInt no AREsp n. 541.389/SP, de minha Relatoria, QUARTA TURMA, julgado em 4/4/2017, DJe 18/4/2017). Na mesma linha:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INSCRIÇÃO DO NOME DO DEVEDOR EM CADASTRO DE INADIMPLENTES. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. DANOS MORAIS CONFIGURADOS. REVISÃO DO QUANTUM INDENIZATÓRIO. IRRISORIEDADE. INEXISTÊNCIA. MONTANTE FIXADO DENTRO DOS PARÂMETROS DE RAZOABILIDADE E PROPORCIONALIDADE. SÚMULA 7/STJ. REVISÃO DO VALOR DE DANOS MORAIS. DIVERGÊNCIA JURISPRUDENCIAL. IMPOSSIBILIDADE DE CONFIGURAÇÃO DO DISSÍDIO. AGRAVO DESPROVIDO.
+(..)
+2. Outrossim, "tratando-se de valor da indenização por danos morais, inviável a análise do recurso com base em dissídio pretoriano, pois, ainda que aparentemente possa haver similitude nas características objetivas das lides cotejadas, na dimensão subjetiva, os acórdãos serão sempre distintos, em face das peculiaridades de cada ato ilícito" (AgRg no REsp n. 918.829/ES, Relator o Ministro Paulo de Tarso Sanseverino, DJe de 16/12/2010).
+3. Agravo interno desprovido.
+(AgInt no AREsp n. 888.921/RS, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 18/8/2016, DJe 29/8/2016.)
+Diante do exposto, NÃO CONHEÇO do recurso especial.
+Na forma do art. 85, § 11, do CPC/2015, MAJORO os honorários advocatícios em 20% (vinte por cento) do valor arbitrado, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Publique-se e intimem-se.
