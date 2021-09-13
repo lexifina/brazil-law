@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de agravo contra decisão que negou seguimento a recurso especial interposto em face de acórdão assim ementado:
+CONTRATO. CÉDULA DE CRÉDITO BANCÁRIO. JUROS REMUNERATÓRIOS. MAJORAÇÃO DAS TAXAS INICIALMENTE CONTRATADAS. 1. Entende-se legal a estipulação que autoriza a renovação automática da avença e a adoção de novas taxas de juros remuneratórios, mas desde que seja observado o termo de vencimento de cada renovação. É excessivamente onerosa e potestativa a cláusula que permite alteração de taxas de juros durante o curso das renovações e sem prévia comunicação ao cliente. 2. Ocorre que após a primeira renovação automática da avença com a adoção das novas taxas de juros, o cliente já se encontrava inequivocamente ciente das novas taxas de juros vigentes. 3. A opção da manutenção da avença nessas condições, nesse passo, implica em adesão aos novos termos do pacto. 4. De maneira que o recálculo e restituição devem abranger apenas o primeiro período da renovação, quando o cliente não tinha conhecimento das novas taxas vigentes. Recurso parcialmente provido.
+Opostos embargos de declaração, esses foram rejeitados na origem.
+Nas razões do especial, aponta oagravante violação dos artigos 341, 344, 371, 374 489 e 1.022 do Código de Processo Civil, alegando a ocorrência de negativa de prestação jurisdicional com a rejeição dos embargos de declaração, sem suprimento daomissãoacerca da ciência inequívoca da alteração da taxa de juros ter ocorrido em 6.2.2018.
+Sustenta desacerto no acórdão estadual ao contrariar fato incontroverso acerca do momento em que o correntista foi informado da alteração da taxa de juros pactuada com a instituição financeira.
+Assim delimitada a controvérsia, passo a decidir.
+De início, quanto à preliminar, não observo omissão no acórdão, senão julgamento contrário aos interesses do agravante, o que não autoriza, por si só, o acolhimento de embargos de declaração, nem sua rejeição importa em violação à sua norma de regência.
+Esclareça-se que não se exige do julgador a análise de todos os argumentos das partes, para fins de convencimento e julgamento. Para tanto, basta o pronunciamento acerca dos fatos controvertidos, o que se observa no presente caso, havendo fundamentação quanto à informação da alteração da taxa de juros praticada no contrato revisado, revelando que os motivos da decisão encontram-se objetivamente fixados nas razões do acórdão recorrido.
+É certo que a orientação consolidada pela Segunda Seção desta Corte Superior, no sentido de que a "Insuficiência da informação acerca das taxas efetivas mensal e anual, na hipótese em que pactuada capitalização diária, sendo imprescindível, também, informação acerca da taxa diária de juros, a fim de se garantir ao consumidor a possibilidade de controle "a priori" do alcance dos encargos do contrato. Julgado específico da Terceira Turma". "Na espécie, abusividade parcial da cláusula contratual na parte em que, apesar de pactuar as taxas efetivas anual e mensal, que ficam mantidas, conforme decidido pelo acórdão recorrido, não dispôs acerca da taxa diária" (REsp 1826463/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, SEGUNDA SEÇÃO, DJe 29/10/2020).
+O caso dos autos, no entanto, não se amolda à referida orientação, em razão do que ficou consignado no acórdão de origem, haja vista o reconhecimento da ciência do autor acerca da alteração dos termos da pactuação.
+Transcrevo, por oportuno, excertos do acórdão recorrido (fl. 196, e- STJ):
+Todavia, temos que após a primeira renovação automática da avença com a adoção das novas taxas de juros, o cliente já se encontrava inequivocamente ciente das novas taxas de juros vigentes para os períodos seguintes.
+A opção da manutenção da avença nessas condições, nesse passo, implica em adesão aos novos termos do pacto.
+De maneira que o recálculo e restituição, na forma em que pleiteados, devem abranger apenas o primeiro período da renovação (agosto/2015 a dezembro/2015 120 dias), quando o cliente foi surpreendido por novas taxas vigentes.
+A partir de então, não vemos irregularidade alguma no prosseguimento da avença pelas novas taxas das quais o cliente já se encontrava ciente.
+O Tribunal de origem se manifestou, ainda, nos embargos declaratórios com efeitos integrativos, nos seguintes termos (fl. 209, e-STJ):
+Nessa esteira, se o cliente é desidioso no acompanhamento dos andamentos de seus contratos, deixando de analisar extratos durante longo período, não pode querer imputar ao fornecedor dos serviços a culpa por sua desídia.
+Não teria cabimento a renovação automática da avença, avençada expressamente pelas partes, se lá pelo meio da nova vigência (ou depois de seu encerramento), pudesse o cliente simplesmente alegar que "não viu" a alteração das cobranças validadas.
+Note-se que ele em momento algum ele argumentou que as taxas seriam abusivas por serem muito superiores ao preço de mercado, por exemplo. Apenas reclamou por serem distintas daquela inicialmente contratada.
+Ora, se não houve insurgência do consumidor quanto às novas taxas praticadas no momento oportuno, de se considerar que ele delas teve ciência e com elas concordou. Faz parte da boa-fé que deve pautar o trato comercial. A menos que demonstrasse que elas eram, de fato, abusivas. O que não ocorreu à espécie.
+A revisão do entendimento acerca da ciência dos fatos e de demais questões factuais, demandaria o reexame do conjunto fático-probatório dos autos, o que é vedado, em sede de recurso especial, ante o óbice da Súmula 7 do Superior Tribunal de Justiça.
+Confiram-se:
+RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE COBRANÇA. DESPESAS CONDOMINIAIS. ILEGITIMIDADE PASSIVA. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. VIOLAÇÃO DE SÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. APLICAÇÃO DO CPC/15. ARREMATAÇÃO. PROCESSAMENTO. VIGÊNCIA DO CPC/73. IRRETROATIVIDADE. TEORIA DO ISOLAMENTO DOS ATOS PROCESSUAIS. ART. 14 DO CPC/15. RESPONSABILIDADE DO ARREMATANTE. DESPESAS CONDOMINIAIS PRETÉRITAS. CIÊNCIA INEQUÍVOCA. EXISTÊNCIA. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE.
+(..)
+12. Na hipótese concreta, rever o entendimento do acórdão recorrido de que a recorrente teve efetiva ciência inequívoca da existência de débitos condominiais pendentes e anteriores à arrematação demandaria desta Corte o reexame dos fatos e provas constantes nos autos, o que encontra óbice na Súmula 7/STJ.
+13. Recurso especial parcialmente conhecido e, no ponto, desprovido.
+(REsp 1769443/PR, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 9/9/2020)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE VIOLAÇÃO DO ARTIGO 535 DO CPC/1973. REEXAME DE CONTEÚDO FÁTICO-PROBATÓRIO. SÚMULA N. 7/STJ. DECISÃO MANTIDA.
+(..)
+2. O recurso especial não comporta o exame de questões que impliquem o revolvimento do contexto fático-probatório dos autos (Súmula n. 7 do STJ).
+3. No caso concreto, o Tribunal de origem examinou o conjunto fático-probatório dos autos para concluir que a recorrente tinha ciência inequívoca da efetiva turbação da posse. Alterar tal conclusão demandaria nova análise da prova dos autos, inviável em recurso especial.
+4. Agravo interno desprovido.
+(AgInt no AREsp 525.799/SC, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 9/8/2016)
+Em face do exposto, nego provimento ao agravo.
+Nos termos do art. 85, § 11, do CPC/15, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, observando-se os limites dos §§ 2º e 3º do referido dispositivo.
+Intimem-se.
