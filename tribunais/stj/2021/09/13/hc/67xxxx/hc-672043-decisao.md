@@ -1,0 +1,36 @@
+DECISÃO
+IAGO GONÇALVES DOS SANTOSalega sofrer constrangimento ilegal diante de acórdão proferido pelo Tribunal de Justiça do Estado do Rio de Janeirono HC n. 0002568-52.2021.8.19.0000, que manteve a custódia preventiva do agente pela prática, em tese, de tráfico de drogas.
+A defesa pretende a soltura do paciente ou a substituição da prisão por cautelares alternativas,sob o argumento de estarem ausentes os requisitos legais para a imposição da medida. Salienta que o acusado tem condições pessoais favoráveis, a denotar a desnecessidade da constrição ante tempus.
+Todavia, o Juízo de Direito, ao decidir, ofereceu os seguintes argumentos (fl. 21, grifei):
+A gravidade em concreto do delito demonstra a periculosidade do custodiado.
+Destaque-se a grande quantidade e variedade de drogas encontradas (442 gramas de maconha e 1.390 gramas de cocaína), bem como a apreensão de rádio comunicador, tudo a indicar o envolvimento do custodiado com atividade criminosa organizada.
+Considerando os nefastos efeitos dos delitos de tráfico e associação para o tráfico, que geram grande intranquilidade social, mostra-se necessária a permanência da segregação cautelar, no mínimo, para garantia da ordem pública, evitando a reiteração da conduta ilícita.
+A primariedade técnica do custodiado não obsta a segregação cautelar.
+No que toca ao princípio da homogeneidade, a análise de questões acerca da possível fixação da pena em regime menos gravoso demanda dilação probatória.
+O Tribunal local, a seu turno, manteve a constrição cautelar nestes termos(fl. 54, destaquei):
+Não se olvide que a Autoridade Impetrada fundamentou concretamente a imprescindibilidade da prisão em razão do risco social configurado na liberdade de IAGO, diante da expressiva quantidade de droga apreendida - 1.390g (mil trezentos e noventa gramas) de maconha e 442g (quatrocentos e quarenta e dois gramas) de cocaína -, o que demonstra o envolvimento do Paciente com a atividade criminosa e descaracteriza a traficância eventual (fls. 01/02 do Anexo).
+A jurisprudência desta Corte Superior é firme em assinalar que, para submeter alguém à prisão cautelar, é cogente a fundamentação concreta, sob as balizas do art. 312 do CPP.
+Apoiado nessa premissa, verifico que se mostram suficientes as razões invocadas na instância de origem para embasar a ordem de prisão do ora paciente, porquanto contextualizaram, em dados dos autos, a necessidade cautelar de segregação do réu.
+Com efeito, o Juiz de primeira instância apontou, de forma idônea, a presença dos vetores contidos no art. 312 do Código de Processo Penal e indicoumotivaçãoconcreta para decretar a prisão preventiva, ao salientar a gravidade da conduta, evidenciada pela expressiva quantidade de entorpecente- 1,39 kg de maconha e 442 g de cocaína-, além de um rádio comunicador.
+O STJ é firme ao asseverar que, nas situações em que a quantidade e/ou a natureza dos entorpecentes e outras circunstâncias do casorevelem a maior reprovabilidade da conduta investigada, tais dados são bastantes para demonstrar agravidade concreta do delito e denotam a necessidade de se acautelar a ordem pública. Nessa perspectiva:
+RECURSO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. NEGATIVA DE PARTICIPAÇÃO NO DELITO. INVIABILIDADE.
+REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO. FUNDAMENTOS. GRAVIDADE CONCRETA. GARANTIA DA ORDEM PÚBLICA. QUANTIDADE E VARIEDADE DE DROGAS. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+1. A prisão preventiva constitui medida excepcional ao princípio da não culpabilidade, cabível, mediante decisão devidamente fundamentada e com base em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema nos termos do art. 312 e seguintes do Código de Processo Penal.
+2. A negativa de participação no delito, além de demandar profundo reexame dos fatos e das provas que permeiam o processo principal, não demonstram o constrangimento ilegal.
+3. No caso, a manutenção da constrição cautelar está baseada em elementos vinculados à realidade, pois as instâncias ordinárias fazem referência às circunstâncias fáticas justificadoras, destacando, principalmente, a quantidade e a variedade das drogas encontradas (2,010 kg de maconha e 100 g de cocaína). Tudo a revelar a periculosidade in concreto do agente.
+4. Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva.
+5. Recurso em habeas corpus improvido.
+(RHC n. 123.004/PR, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 19/5/2020, destaquei)
+ ..
+2. Para a decretação da prisão preventiva, é indispensável a demonstração da existência da prova da materialidade do crime e a presença de indícios suficientes da autoria. Exige-se, ainda, que a decisão esteja pautada em lastro probatório que se ajuste às hipóteses excepcionais da norma em abstrato (art. 312 do CPP), demonstrada, ainda, a imprescindibilidade da medida. Precedentes do STF e STJ.
+3. Caso em que a prisão preventiva foi decretada para garantia da ordem pública, em razão da expressiva quantidade de droga apreendida - aproximadamente 200 g de cocaína e 1,5 kg de maconha.
+4. As condições subjetivas favoráveis do paciente, tais como primariedade, bons antecedentes e residência fixa, por si sós, não obstam a segregação cautelar, quando presentes os requisitos legais para a decretação da prisão preventiva.
+5. Na interpretação das instâncias ordinárias e em juízo de cognição sumária, as circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública e para a devida instrução probatória.
+6. Não se desconhece o grave momento que estamos vivendo, diante da declaração pública da situação de pandemia pelo novo coronavírus, no dia 30 de janeiro de 2020, pela Organização Mundial de Saúde, que requer a adoção de medidas preventivas de saúde pública para evitar a sua propagação.
+7. Todavia, essa relevante circunstância não tem o condão de permitir a revogação de todas as prisões cautelares. No presente caso, os documentos carreados aos autos não evidenciam que o agravante se encontra nas hipóteses previstas na Recomendação n. 62 do CNJ para fins de revogação da prisão preventiva, ou concessão da prisão domiciliar, pois não demonstrou estar inserido no grupo de risco.
+8. Agravo regimental improvido.
+(AgRg no HC n. 577.330/SP, Rel. Ministro Reynaldo Soares da Fonseca, 5ª T., DJe 27/5/2020, grifei)
+Saliento que "Eventuais condições pessoais favoráveis não têm o condão de, por si sós, garantir a revogação da prisão preventiva" (AgRg no HC n. 582.182/RS, Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 21/8/2020).
+Em razão da gravidade do crime e das indicadas circunstâncias do fato, as medidas cautelares alternativas à prisão não se mostram adequadas e suficientes para evitar a prática de novas infrações penais. Nesse sentido: "Adequada fundamentação do decisum a quo demonstrando a real possibilidade de reiteração das condutas delitivas, portanto, não se faz viável a substituição da custódia por medidas cautelares diversas da prisão, em razão dos múltiplos riscos à ordem pública" (AgRg na PET no RHC n. 90.040/RJ, Rel. Ministro Felix Fischer, 5ª T., DJe 13/4/2018).
+À vista do exposto,denego a ordem.
+Publique-se e intimem-se.
