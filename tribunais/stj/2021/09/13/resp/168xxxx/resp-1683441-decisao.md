@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso especial cujo propósito é a reforma de acórdão proferido pelo TJMT, em ação de nulidade de ato extrajudicial, consistente na venda do imóvel do casal, pelo marido, sem outorga da esposa, bem adquirido na vigência de matrimônio por comunhão parcial, conforme a seguinte ementa (fl. 238):
+RECURSO DE APELAÇÃO CÍVEL - AÇÃO DECLARATÓRIA DE NULIDADE DE ATO EXTRAJUDICIAL (ESCRITURA DE COMPRA E VENDA) - AUSÊNCIA DE OUTORGA UXÓRIA - SENTENÇA DE PROCEDÊNCIA - PRELIMINAR DE FALTA DE INTERESSE DE AGIR - MATÉRIA NÃO SUSCITADA EM 1º GRAU - REJEITADA - MÉRITO - IMÓVEL ADQUIRIDO NA CONSTÂNCIA DO CASAMENTO - NECESSIDADE DA OUTORGA UXÓRIA - NEGÓCIO JURÍDICO ANULADO - SENTENÇA MANTIDA - RECURSO DESPROVIDO.
+As questões não suscitadas e debatidas cm 1º grau não podem ser apreciadas pelo Tribunal na esfera de seu conhecimento recursal, pois, se o fizesse, ofenderia frontalmente o princípio do duplo grau de jurisdição.
+A outorga uxória é ato de validade para os negócios jurídicos de compra e venda de imóvel, e sua ausência é causa de nulidade, conforme determinam os arts. 1.647, I, e 1.660, I, do Código Civil, já que nenhum dos cônjuges pode, sem autorização do outro, alienar os bens imóveis adquiridos na constância do casamento por título oneroso.
+Não foram opostos embargos de declaração.
+No especial, o Banco Santander (Brasil) S.A., com fundamento na Constituição Federal, art. 105, inciso III, alínea "a", alega a violação dos arts. 330, § 1º, inciso I, 485, inciso I, e 784 do Código de Processo Civil; 26 e 27 da Lei 9.514/1997; 31 e 32 do Decreto-Lei 70/1966; 422 do Código Civil; e Leis 8.078/1990 e 9.507/1997, a pretexto de que, inicialmente, a ação perdeu o objeto em virtude da consolidação da propriedade pela execução da garantia de alienação fiduciária, já havendo sido o título transcrito no cartório imobiliário, o que causa a perda do interesse de agir.
+Argumenta que a consolidação da propriedade decorre da legalidade do contrato e da garantia prestada que, em caso de inadimplência sem purgação da mora, leva à consequência configurada. Aduz que as cláusulas eram de pleno conhecimento da recorrida, que não pode alegar abusividade ou onerosidade dos encargos, que estão de acordo com a taxa média de mercado.
+Por fim, sustenta que a possibilidade de execução extrajudicial e de leilão conta com previsão em lei específica.
+Célia Regina de Oliveira apresenta contrarrazões às fls. 267/283, no sentido de que falta prequestionamento às normas legais, além de que o conteúdo do apelo está dissociado da realidade dos autos. Reforça que a falta de interesse de agir constitui indevida inovação, recomendando a confirmação do julgado, no mérito.
+A admissibilidade positiva às fls. 285/286.
+Assim resumida a questão, passo a decidir.
+Preliminarmente, incidem os enunciados 282 e 356 da Súmula do STF quanto às Leis 8.078/1990 e 9.507/1997; e aos arts. 784 do CPC; 26 e 27 da Lei 9.514/1997; 422 do Código Civil; e 31 e 32 do Decreto-Lei 70/1966, pois são todos estranhos ao julgado recorrido, a eles faltando o indispensável prequestionamento, do qual não estão isentas sequer as questões de ordem pública.
+Acerca da alegada perda de objeto pela consolidação da propriedade e transcrição no registro imobiliário, o recurso também não tem como ser conhecido, pois não foi impugnado o fundamento do julgado estadual, que se amparou na impossibilidade de se manifestar sobre a matéria, diante de que constitui inovação inaugurada apenas na apelação, sob pena de ofensa ao duplo grau de jurisdição, sendo incabível a supressão de instância, como motivação para este tema em particular, causa suficiente por si só para manter o acórdão, que por consequência não pode ser alterado por força do veto contido no enunciado 283 da Súmula do STF.
+Além disso, ainda a esse respeito, adicionados fundamentos de índole constitucional, indispensável a interposição simultânea do recurso próprio, vício que impõe a incidência do enunciado 126 da Súmula do STJ.
+Ademais, conforme defendido nas contrarrazões, o especial está dissociado da realidade dos autos, pois a recorrida não é a devedora, que deixou de purgar a mora; não reclama de abusividade ou onerosidade e nem dos encargos contratuais. A única motivação do julgado é a nulidade do contrato por falta de outorga uxória, havendo o esposo da recorrida alegado que era solteiro ao alienar o imóvel, quando em vigência casamento com comunhão parcial de bens, o que faz incidir, quanto ao ponto, o enunciado 284 da Súmula do STF.
+Por fim, ainda que possível a superação desses óbices processuais, o acórdão recorrido está em harmonia com o entendimento do Superior Tribunal de Justiça. Confira-se:
+Processual Civil. Ação de Anulação de Declaração de Compra e Venda
+de Imóvel. Prescrição. Ato Nulo. Ausência. Outorga Uxória.
+I - A ausência de consentimento ou outorga uxória em declaração de
+transferência de imóvel pertencente ao patrimônio do casal é ato
+jurídico absolutamente nulo e, por isso, imprescritível, podendo sua
+nulidade ser declarada a qualquer tempo, além de não produzir
+qualquer efeito jurídico.
+II - Inaplicabilidade à espécie dos artigos 177 e 178 do Código Civil.
+III - Precedentes desta Corte.
+IV - Recurso especial não conhecido.
+(Terceira Turma, REsp 38.549/SP, Rel. Ministro ANTÔNIO DE PÁDUA RIBEIRO, unânime, DJU de 28.8.2000)
+RECURSO ESPECIAL. CIVIL. COMPROMISSO DE COMPRA E VENDA DE IMÓVEL FIRMADO PELO VARÃO, COMO PROMITENTE VENDEDOR, QUANDO OS CÔNJUGES ESTAVAM SEPARADOS JUDICIALMENTE. AUSÊNCIA DE OUTORGA UXÓRIA. INCIDÊNCIA DAS REGRAS QUE REGEM O CONDOMÍNIO COMUM. ALIENAÇÃO DA COISA COMUM, COM TRANSMISSÃO DE POSSE. NECESSIDADE DE CONSENSO DOS CONDÔMINOS (CC/1916, ARTS. 623, III, 628 E 633; CC/2002, ART. 1.314). REGISTRO IMOBILIÁRIO DO NEGÓCIO. NULIDADE. RECURSO PARCIALMENTE PROVIDO.
+1. O compromisso de compra e venda de imóvel foi firmado pelo varão, como promitente vendedor, quando os cônjuges já estavam separados judicialmente, pendente, porém, a partilha de bens do casal.
+2. Nessa situação, os bens passam a ser regulados segundo as regras do condomínio. Não pode o condômino alienar uma parte específica do bem, ainda que divisível, sem a concordância dos demais coproprietários (CC/1916, art. 641; CC/2002, art. 1.321). Na hipótese de alienação da coisa comum sem o consentimento dos demais condôminos, a venda é ineficaz em relação a eles, somente subsistindo se, em eventual ação divisória entre os condôminos, o quinhão acabar por ser deferido ao alienante.
+3. Na hipótese de alienação da coisa comum sem o consentimento dos demais condôminos, não é possível ao alienante dar a posse, uso ou gozo da propriedade comum a estranho adquirente (terceiro) sem o consentimento dos demais condôminos (CC/1916, arts. 623, 628 e 633; CC/2002, art. 1.314).
+4. Eventualmente, no caso de posterior realização de partilha amigável entre os condôminos, ou de partilha judicial, relativa a litígio entre os condôminos, aquele anterior negócio (compromisso) poderia vir a ser confirmado em maior alcance.
+5. No presente caso, tem-se inviável pretensão de um terceiro, o promitente adquirente, de obrigar que a partilha entre condôminos se realize de determinada forma, diversa daquela almejada por um dos cônjuges, justamente aquele relativamente a quem não tem o adquirente relação jurídica contratual firmada.
+6. Não há como subsistir o compromisso de compra e venda, firmado sem outorga uxória, senão em seus efeitos meramente obrigacionais, ou seja, com validade exclusivamente entre as partes dele signatárias, não afetando os direitos do consorte (condômino).
+7. Impõe-se a declaração de nulidade de registro imobiliário que padece de irregularidade por ausência de outorga uxória ou de consenso entre os condôminos, quanto à alienação prometida a terceiro, com o devido cancelamento.
+8. Recurso especial provido em parte.
+(Quarta Turma, REsp 1.125.616/BA, Rel. p/ ac. Ministro RAUL ARAÚJO, voto médio, DJe de 3.8.2015)
+Incide, no caso, por conseguinte, o óbice da Súmula 83 do STJ, inclusive quanto à nulidade do registro imobiliário.
+Em face do exposto, nego provimento ao recurso especial.
+Por fim, tendo o acórdão recorrido sido publicado já na vigência do novo diploma processual, majoro em 10% (dez por cento) a quantia já arbitrada a título de honorários em favor da parte recorrida, da parcela devida pelo banco, nos moldes do previsto pelo art. 85, § 11, do atual Código de Processo Civil, equivalendo a 27,5% (vinte e sete e meio por cento) do total arbitrado (fl. 159).
+Intimem-se.
