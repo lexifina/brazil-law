@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo interposto por BAYER S.A.contra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado na alínea "a" do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sulassim ementado:
+"AGRAVO DE INSTRUMENTO. PROPRIEDADE INDUSTRIAL. AÇÃO DE REPETIÇÃO DE INDÉBITO. LIMITAÇÃO DO LITISCONSÓRCIO ATIVO. DESNECESSIDADE. REABERTURA DO PRAZO PARA APRESENTAÇÃO DE CONTESTAÇÃO. CABIMENTO.
+1. DE INÍCIO, RESSALTO QUE NÃO HÁ FALAR EM PERDA DO OBJETO RECURSAL NO QUE CONCERNE AO PEDIDO DE REABERTURA DO PRAZO PARA APRESENTAÇÃO DE CONTESTAÇÃO, VISTO QUE, EM FACE DO INDEFERIMENTO DO PEDIDO DE DEVOLUÇÃO DO PRAZO CONTESTACIONAL PELO JUÍZO DE ORIGEM, OFERTOU A DEMANDA DA CONTESTAÇÃO APENAS PARA FINS DE EVITAR A SUA REVELIA, COMO MEDIDA DE PRUDÊNCIA, DO QUE INDEPENDE O EXAME DA REABERTURA DO PRAZO CONTESTACIONAL PREVISTA NO § 2º DO ARTIGO 113 DO CÓDIGO DE PROCESSO CIVIL.
+2. EM FACE DAS PARTICULARIDADES DO CASO CONCRETO, NÃO SE VERIFICA QUE O LITISCONSÓRCIO ATIVO FACULTATIVO COMPROMETA A RÁPIDA SOLUÇÃO DO LITÍGIO OU DIFICULTE A DEFESA; AO REVÉS, O LITISCONSÓRCIO, NO PRESENTE CASO, MILITA EM FAVOR DA CELERIDADE E DA ECONOMIA PROCESSUAL, ALÉM DE SER FAVORÁVEL, TAMBÉM, À ISONOMIA.
+3. POR OUTRO LADO, CONFORME DISPÕE O § 2º DO ARTIGO 113 DO CÓDIGO DE PROCESSO CIVIL, O REQUERIMENTO DE LIMITAÇÃO DO LITISCONSÓRCIO "INTERROMPE O PRAZO PARA MANIFESTAÇÃO OU RESPOSTA, QUE RECOMEÇARÁ DA INTIMAÇÃO DA DECISÃO QUE OSOLUCIONAR". ASSIM, TENHO QUE DEVE SER DEVOLVIDO NA ÍNTEGRA À RECORRENTE O PRAZO PARA APRESENTAÇÃO DE CONTESTAÇÃO. AGRAVO DE INSTRUMENTO PARCIALMENTE PROVIDO(fls. 109/110, e-STJ).
+Os embargos de declaração opostos foram rejeitados(fls. 135/146, e-STJ).
+Nas razões do especial (fls. 160/174, e-STJ), a parte recorrente aponta negativa de vigência dos arts. 4º, 7º,113 e 1.022 do Código de Processo Civil/2015. Argui a nulidade do acórdão por não suprir a omissão apontada nos declaratórios. Defende a necessidade de limitação do litisconsórcio ativo facultativo, cujo indeferimento é capaz de gerar prejuízo à sua defesa.
+Oferecidas as contrarrazões (fls. 216/226, e-STJ), o recurso não foi admitido na origem. Daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese, como se vê do seguinte trecho:
+"(..)
+No presente caso, não se verifica qualquer omissão ou contradição no acórdão embargado, porquanto constou expressamente que "não se verificaque o litisconsórcio ativo facultativo comprometa a rápida solução do litígio ou dificulte a defesa; ao revés, o litisconsórcio, na hipótese vertente, milita em favor da celeridade e da economia processual, além de ser favorável, também, à isonomia", "porque há apenas nove autores, número bastante inferior aos exemplos citados por Cândido Rangel Dinamarco no excerto acima colacionado, e homogeneidade na causa de pedir e pedido veiculados, sendo todos os demandantes produtores rurais que buscam a devolução de valores supostamente pagos à ré em razão de cobrança indevida de royalties por conta do cultivo de soja transgênica".
+Nessa senda, conforme constou da decisão embargada, "importa ressaltar que, consoante a precitada lição doutrinária de Araken de Assis, a possibilidade de limitação do litisconsórcio prevista no § 1º do artigo 113 do Código de Processo Civil busca, inclusive, preservar a isonomia entre as partes, isonomia que, em verdade, está sendo atingida pelo litisconsórcio ativo facultativo."(fls. 142/143e-STJ- grifou-se).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+Além disso, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, supramencionado.
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe oenunciado da Súmula nº 7 deste Superior Tribunal.
+Por fim,
+Extrai-se das razões recursais que a parte recorrente não refutou os seguintes fundamentos adotados pela Corte local:
+"(..)Outrossim, conforme ressaltou a ilustre Desembargadora Isabel Dias Almeida no julgamento do Agravo de Instrumento nº 5008825-37.2020.8.21.7000/RS, "destaca-se que a manutenção do litisconsórcio ativo na fase de conhecimento não impede que seja determinada a apresentação de cumprimento de sentença individual, em caso de procedência da ação de repetição de indébito".
+Na mesma linha é a seguinte lição doutrinária:" Partindo da correta premissa de que as dificuldades no exercício de defesa são diferentes das dificuldades do cumprimento da sentença, o Enunciado 116 do Fórum Permanente de Processualistas Civis (FPPC) corretamente conclui pela possibilidade de o juiz ampliar os prazos (art. 139, VI, do Novo CPC) na fase de conhecimento para não prejudicar o exercício da defesa e determinar o desmembramento do litisconsórcio apenas na fase de cumprimento de sentença."
+Por oportuno, transcrevo o Enunciado nº 116 do Fórum Permanente de Processualistas Civis, mencionado por Daniel Amorim Assumpção Neves no trecho acima citado: "quando a formação do litisconsórcio multitudinário for prejudicial à defesa, o juiz poderá substituir a sua limitação pela ampliação de prazos, sem prejuízo da possibilidade de desmembramento na fase de cumprimento de sentença"(com meu grifo).
+Destarte, constata-se, ao menos neste momento processual, a desnecessidade da limitação do litisconsórcio prevista no § 1º do artigo 113 do Código de Processo Civil." (fl. 106,e-STJ- grifou-se).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO PROVISÓRIA DE SENTENÇA. TERCEIRO DE BOA-FÉ. ART. 42, § 3º, DO CPC/73. VENDA DO IMÓVEL. LITÍGIO PRECEDENTE. INTERDITO PROIBITÓRIO. AUTOR. SUPOSTO TERCEIRO INTERESSADO. FUNDAMENTO INATACADO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. HISTÓRICO DOS FATOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. (..).
+3. Agravo interno não provido" (AgInt nos EDcl no REsp 1.520.059/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/9/2017 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. NULIDADE DO NEGÓCIO JURÍDICO. MIGRAÇÃO DO PLANO DE SAÚDE. INFORMAÇÃO INSUFICIENTE ACERCA DA AMPLITUDE DO NOVO PLANO. SÚMULA 7/STJ. 3. DANO MORAL RECONHECIDO. NÃO IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NAS RAZÕES DO APELO NOBRE. APLICAÇÃO DA SÚMULA 283/STF, POR ANALOGIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. (..).
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+4. Agravo interno desprovido" (AgInt no AREsp 1.091.133/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/9/2017 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Deixa-se de majorar os honorários recursais, tendo em vista que não foram arbitrados na origem.
+Publique-se.
+Intimem-se.
