@@ -1,0 +1,61 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interposto contra decisão que inadmitiu recurso especial por ausência de vulneração aos dispositivos arrolados (e-STJ fls. 540/543).
+O acórdão recorrido está assim ementado (e-STJ fl. 403):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA.RECUPERAÇÃO JUDICIAL. EXTINÇÃO DA EXECUÇÃO. NÃO CABIMENTO.
+1. Consoante entendimento do Superior Tribunal de Justiça é obrigação do devedor relacionar todos os seus débitos na recuperação judicial, mas o credor tem a faculdade de habilitar seu crédito, sendo permitido a ele optar por prosseguir com a execução individual, respeitado o prazo para o cumprimento do plano pela empresa recuperanda (REsp 1571107/DF).
+2. Não incluído o crédito exequendo no plano de recuperação judicial e demonstrando os credores desinteresse em habilita-lo, incabível a extinção da execução individual.
+3. A determinação de medidas constritivas contra a recuperanda subordina-se à apreciação do juízo universal da recuperação.
+Os embargos de declaração foram rejeitados (e-STJ fls. 434/441).
+No recurso especial (e-STJ fls. 444/471), fundamentadono art. 105, III, "a" e "c", da CF, a recorrente apontou violação dos arts. 9º, II, 49, 59 da Lei n. 11.101/2005, bem como dosarts.489, II,§1º, I,III, e 1.022, II, do CPC/2015, além de dissídio jurisprudencial.
+Alegou que o acórdão recorrido estaria omisso e desfundamentado porquanto não teria apreciado questões imprescindíveis ao deslinde da controvérsia.
+Sustentou que "todos os créditos existentes na data do pedido de recuperação judicial formulado pelo devedor devem se submeter ao processo de recuperação judicial". Afirmou que o evento danoso, consubstanciado na negativação indevida, ocorreu em 9/4/2016 anteriormente ao pedido de recuperação judicial. Destacou que "considerando que os honorários advocatícios fixados, ainda que em fase de conhecimento, devem seguir a mesma sorte do crédito principal, objeto da demanda, os honorários advocatícios também deverão se submeter ao regime da recuperação judicial, uma vez que o crédito dos honorários advocatícios está diretamente vinculado ao fato gerador que deu ensejo ao ajuizamento da demanda, que, conforme acima exposto, ocorreu em data anterior ao ajuizamento do pedido de recuperação judicial do Grupo Oi" (e-STJ fl. 454).
+Suscitou a incompetência do Juízo de origem, ao argumento de que o juízo da recuperação judicial é o competente para julgar as causas que envolvam interesses e bens da empresa recuperanda, inclusive para eventual prosseguimento dos atos de execução.
+Pediu o provimento do recurso especial para que seja reconhecida a nulidade do acórdão recorrido, com a realização de novo julgamento e apreciação das questões arguidas nos embargos declaratórios. Requereu, sucessivamente, que seja declaradoque o crédito exequendo possui natureza concursal, ou ainda, que seja reconhecida a competênciado MM. Juízo da 7ª Vara Empresarial da Comarca da Capital do Estado do Rio de Janeiro para decidir acerca da natureza do crédito detido pela recorrida.
+No agravo (e-STJ fls. 557/569), a recorrente destacou o cumprimento de todos requisitos legais para conhecimentodo especial.
+Contraminuta não apresentada (e-STJ fl. 606).
+É o relatório.
+Decido.
+A irresignação não merece acolhida.
+Com efeito, extraem-se as seguintes razões de decidir do aresto impugnado (e-STJ fls. 406/408):
+Conforme posicionamento sedimentado pelo STJ, o direito referente ao recebimento de honorários sucumbenciais pelo advogado surge somente após a prolação da sentença condenatória. Dessa forma, na hipótese dos autos, considerando que a sentença foi proferida após o deferimento do pedido de processamento da recuperação judicial, não há que se falar em novação da dívida por força do disposto no Art. 59 da Lei 11.101/05, haja vista não se tratar de crédito anterior ao pedido de soerguimento da empresa.
+Entretanto, por si só, tal fato não se revela suficiente para obstar que a execução dos honorários sucumbenciais se submeta ao plano de recuperação judicial aprovado pelos credores.
+Isso porque, considerando que a jurisprudência do Superior Tribunal de Justiça é consolidada no sentido de que a verba honorária possui o mesmo tratamento de verbas trabalhistas, mormente para fins de recuperação judicial, tratar os honorários advocatícios como crédito extrajudicial, conforme brilhantemente consignado pela eminente Ministra do STJ Nancy Andrighi em caso semelhante ao dos autos, "resultaria em indevida violação ao princípio do par conditio creditorum e em chancela de uma desigual e indesejável situação fática: por um lado, admitir-se-ia a submissão de créditos trabalhistas aos efeitos da recuperação judicial - ainda que esses fossem reconhecidos em juízo posteriormente ao seu processamento -, mas, por outro lado, não se admitiria a sujeição a esses mesmos efeitos de valores que ostentam idêntica natureza jurídica" (Resp 1.377.764/MS).
+Por conseguinte, o crédito perseguido pelo agravado deve, a princípio, se sujeitar aos efeitos da recuperação judicial. Porém, do cotejo apurado dos autos, verifica-se que o prazo para habilitação de credores no plano de recuperação judicial já se exauriu, haja vista que esse prazo é de 15 (quinze) dias a contar da publicação do edital, conforme determinado pelo artigo 7º, §1º da Lei 11.101/05.
+Assim, da análise recursal, evidencia-se o decurso do prazo, pois o edital previsto no supramencionado artigo foi publicado em 29/05/2017, bem como o exequente não habilitou seu crédito nos autos da recuperação judicial.
+Dessa forma, não se pode exigir do exequente que habilite de forma retardatária seu crédito no plano de recuperação judicial, sendo esta faculdade assegurada ao credor, podendo então, a execução prosseguir, se esta for a intenção do credor, após o encerramento da recuperação judicial.
+Neste diapasão, consoante entendimento firmado pelo Colendo Superior Tribunal de Justiça, é obrigação do devedor relacionar todos os seus débitos na recuperação judicial, mas o credor tem a faculdade de habilitar seu crédito, sendo permitido a ele optar por prosseguir com a execução individual, respeitado o prazo para o cumprimento do plano pela empresa recuperanda.
+ .. Assim, o credor cujo crédito não se encontra incluído no plano de recuperação judicial não se vincula à novação das obrigações, podendo prosseguir com a execução individual proposta após o encerramento da recuperação judicial.
+Assim, entendo que é incabível a extinção da presente execução; bem como a imposição da habilitação do credito em questão no juízo da Recuperação Judicial.
+ .. Destarte, ressalta-se que o presente cumprimento de sentença só poderá ter seu regular prosseguimento após o encerramento da recuperação judicial. Outrossim, a realização de medidas constritivas contra a empresa recuperanda exige a apreciação do juízo universal da recuperação, não podendo ser determinada por juízo diverso;
+Inicialmente, quanto aos arts.489, II, §1º, I, III, e 1.022, II, do CPC/2015 a recorrente não apontou, precisamente e com clareza, de que maneira teriam sido afrontados pelo acórdão recorridoou teriam recebido entendimento divergente pelo Tribunal a quo.
+De outro lado, com relação à incompetência do Juízo de origem, a ora agravante não indicou quais os dispositivos de lei federal o aresto impugnado teria violado ou de qual orientação jurisprudencial teriadissentido.
+Diante da deficiente fundamentação recursal, que impede a exata compreensão da controvérsia, incide a Súmula n. 284/STF.
+Ademais, a tese de incompetência do Juízo de origem não foi enfrentada pelo Tribunal estadual, o que revela falta de prequestionamento, exigível mesmo em matéria de ordem pública. Inafastável a Súmula 211/STJ.
+Outrossim, esta Corte tem orientação jurisprudencial firmada de que o crédito oriundo de sentença que fixou honorários sucumbenciais, prolatada após o pedido de recuperação judicial, tem natureza extraconcursal, nos termos do art. 49, caput, da Lei n. 11.101/2005.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. ART. 1.022 DO CPC. OMISSÃO. INEXISTÊNCIA.
+1. O acórdão recorrido analisou todas as questões necessárias ao deslinde da controvérsia, não se configurando ausência de fundamentação na prestação jurisdicional.
+2. O crédito decorrente da sentença que arbitrou os honorários sucumbenciais, prolatada posteriormente ao pedido de recuperação judicial, possui natureza extraconcursal, nos termos do art. 49, caput da Lei 11.101/2005. Precedentes.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1525229/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 10/05/2021, DJe 12/05/2021.)
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. TEMA REPETITIVO. SUSPENSÃO. DESNECESSIDADE. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. AUSÊNCIA. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. PEDIDO DE RECUPERAÇÃO JUDICIAL. CONSTITUIÇÃO POSTERIOR. NATUREZA EXTRACONCURSAL. ACÓRDÃO RECORRIDO. ENTENDIMENTO DO STJ. CONSONÂNCIA. ART. 1.021, § 4º, DO CPC/2015. MULTA. NÃO CABIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em suspensão do processo quando o tema em discussão não se enquadra na hipótese discutida no recurso especial repetitivo.
+3. Inexiste negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+4. Nos termos da atual jurisprudência do Superior Tribunal de Justiça, quando a sentença condenatória transitar em julgado após o pedido e a aprovação do plano de recuperação judicial, o crédito oriundo de honorários advocatícios sucumbenciais possui natureza extraconcursal. Precedentes.
+5. É inadmissível o inconformismo quando o acórdão recorrido está em consonância com o entendimento do Superior Tribunal de Justiça.
+6. A Segunda Seção desta Corte Superior decidiu que a aplicação da multa prevista no art. 1.021, § 4º, do CPC/2015 não é automática, pois não se trata de mera decorrência lógica da rejeição do agravo interno.
+7. Agravo interno não provido.
+(AgInt nos EDcl no AREsp 1614454/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 08/03/2021, DJe 12/03/2021.)
+Ainda que assim não fosse, a habilitação é providência que cabe ao credor, mas a este não se impõe. Caso opte por aguardar o término da recuperação para prosseguir na execução individual de seu crédito, é direito que lhe assegura a lei.
+Confira-se:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO.CUMPRIMENTO DE SENTENÇA. CRÉDITO CONCURSAL. NECESSIDADE DE HABILITAÇÃO DO CRÉDITO NO QUADRO GERAL DE CREDORES DA SOCIEDADE EM RECUPERAÇÃO JUDICIAL. FACULDADE DO CREDOR PRETERIDO.
+1. O titular do crédito que for voluntariamente excluído do plano recuperacional, detém a prerrogativa de decidir entre habilitar o seu crédito ou promover a execução individual após finda a recuperação.
+2. De fato, caso a obrigação não seja abrangida pelo acordo recuperacional, restando suprimida do plano, não haverá falar em novação, ficando o crédito excluído da recuperação e, por conseguinte, podendo ser satisfeito pelas vias ordinárias (execução ou cumprimento de sentença).
+3. Caso o credor excluído tenha optado pela execução individual, ficará obrigado a aguardar o encerramento da recuperação judicial e assumir as consequências jurídicas (processuais e materiais) de sua escolha, para só então dar prosseguimento ao feito, em consonância com o procedimento estabelecido pelo CPC. (REsp n. 1.851.692/RS, Quarta Turma, Julgado em 25/5/2021).
+4. Na hipótese, o credor de crédito excluído do plano recuperacional optou por prosseguir com o processo executivo, não podendo ser ele obrigado a habilitar o seu crédito. Precedentes.
+5. Agravo interno não provido.
+(AgInt no AREsp 1641169/RS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 21/06/2021, DJe 29/06/2021.)
+Nesse contexto,o aresto impugnado está em sintonia com a jurisprudência do Superior Tribunal de Justiça. Inafastável, portanto, a Súmula n. 83/STJ.
+Ante o exposto, NEGO provimento ao agravo.
+Publique-se e intimem-se.
