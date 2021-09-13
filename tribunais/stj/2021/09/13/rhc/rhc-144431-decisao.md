@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de recurso em habeas corpus com pedido de liminar interposto por ELIAS ID contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS(HC n. 1.0000.21.015943-0/000).
+O recorrente teve a prisão preventiva decretada a pedido do Ministério Público, diante da representação da autoridade policial (fl. 62), tendo sido denunciado, em 9/12/2020, por suposta prática dos delitos descritos nos arts. 155, §§ 4º, I e IV, 6º, e 288, c/c o art. 69, todos do Código Penal.
+O decreto prisional fundou-se na materialidade do delito, nos indícios de autoria -furto de gado, praticado na zona rural, em lugar ermo ede difícil acesso para apuração dos fatos -, na garantia da ordem públicae na reiteração delitiva do recorrente.
+Impetrado writ na origem, a ordem foi denegada por estar a decisão do Juízo de primeiro grau lastreada em elementos concretos, extraídos das informações e provas contidas nos autos (fl. 156).
+O recorrente argumenta que está sendo vítima de constrangimento ilegal, pois não estão preenchidos os requisitos da custódia cautelar. Argumenta que há evidente violação do princípio da proporcionalidade porquanto não foram aplicadas medidas menos gravosas. Sustenta fazer jus à prisão domiciliar, seja em virtude do disposto no art. 7º, V, da Lei n. 8.906/1994, seja em razão de se enquadrar no grupo de risco de contaminação pela covid-19.
+Requer, liminarmente e no mérito, a revogação da prisão preventiva e, subsidiariamente, a aplicação das medidas cautelares diversas previstas no art. 319 do CPP ou ainda a conversão da prisão preventiva em domiciliar.
+A liminar foi indeferida, nos termos da decisão de fls. 224-225.
+As informações foram prestadas às fls. 229-291.
+O Ministério Público Federal apresentou parecer pelo desprovimento do recurso em habeas corpus (fls. 382-387).
+É o relatório. Decido.
+A prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP. A propósito, assim se manifestou o Tribunal a quo (fls. 153-155):
+No caso dos autos, a materialidade delitiva e os indícios suficientes de autoria são extraídos da Denúncia oferecida peloMinistério Público (Ordem 16, fls. 06/14), do depoimento da testemunha que presenciou a subtração dos semoventes (Ordem 16, fls. 15/19) e do Relatório de Investigação elaborado pelos investigadores do DEPATRI -Departamento Estadual de Investigação de Crimes Contra o Patrimônio (Ordem 16, fls. 35/56).
+Tais documentos evidenciam a possível participação do Paciente na prática dos delitos que lhe são imputados, restando configurado o fumus comissi delicti.
+Resta ainda demonstrado o periculum libertatis, como bem observou o i. Procurador de Justiça em seu parecer (Ordem 18):
+"(..)
+A prisão cautelar se revela correta e necessária, porque, ao contrário do alegado, restaram configurados os requisitos e pressupostos exigidos pelos artigos 312 e 313, incisos I e II, ambos do CPP, justificando-se a segregação para garantir a ordem pública, em razão da latente periculosidade do agente, evidenciada pela gravidade em concreto dos delitos, aliada à reincidência em crimes patrimoniais.
+(..)
+Na judiciosa decisão de fls. 110/121, restou consignado: "os fatos são graves, uma vez praticados na zona rural, lugar ermo de difícil acesso para apuração dos fatos, estando evidente a necessidade de garantia da ordem pública".
+Enfatizou ainda a real possibilidade de continuidade delitiva porparte do paciente que se revelou contumaz na prática criminosa. A CAC fls.122/125 e relatório de fls. 74/87, demostram que o paciente, reincidente, ostenta condenações por estelionato, tráfico de drogas, furto, além de outros registros criminais.
+Tem-se, portanto, vários indicativos de propensão à prática de crimes de forma reiterada, o que revela potencial periculosidade do paciente e demais investigados que, se forem soltos, encontrarão os mesmos estímulos para continuarem delinquindo.
+(..)"
+De fato, a Certidão de Antecedentes Criminais acostada aos autos comprova que o Paciente, além de multirreincidente pela prática de crimes graves, supostamente cometeu os presentes delitos durante o cumprimento de pena (Ordem 17, fls. 08/10).
+Os elementos trazidos aos autos demonstram, de modo inequívoco, a periculosidade do agente e o risco concreto de reiteração criminosa caso admitida a sua liberação, pois é pessoa propensa à prática de delitos e avessa à ressocialização, sendo imperioso o cárcere como forma de acautelar o meio social.
+O Tribunal de origem, portanto, entendeu que o recorrente é multirreincidente na prática de crimes graves, havendo nos autos elementos concretos que demonstrem a sua periculosidade e o risco de reiteração criminosa, caso posto em liberdade, o que inviabiliza a aplicação de qualquer das medidas cautelares do art. 319 do CPP.
+O entendimento fixado na origem está em consonância com a jurisprudência do STJ de que, tendo a necessidade de prisão cautelar sido exposta de forma fundamentada e concreta, é incabível a substituição por medidas cautelares mais brandas (RHC n. 133.153/MG, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020).
+No que diz respeito à aplicação da Recomendação CNJ n. 62/2020, o STJ firmou o entendimento de que a flexibilização da medida extrema não ocorre de forma automática (AgRg no HC n. 574.236/SP, relator Ministro Reynaldo Soares da Fonseca, DJe de 11/5/2020; e HC n. 575.241/SP, relatora Ministra Laurita Vaz, DJe de 3/6/2020).
+Para tanto, é necessária a demonstração de que o preso preenche os seguintes requisitos: a) inequívoco enquadramento no grupo de vulneráveis à covid-19; b) impossibilidade de receber tratamento no estabelecimento prisional em que se encontra; e c) exposição a mais risco de contaminação no estabelecimento onde está segregado do que no ambiente social (AgRg no HC n. 561.993/PE, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 4/5/2020).
+No caso, orecorrente não demonstrou o alegado constrangimento ilegal decorrente da decisão impugnada.
+Ademais, para rever o entendimento adotado pela Corte de origem, seria necessária a dilaçãode matéria fático-probatória, procedimento vedado em habeas corpus.
+Confiram-se, a propósito, estes julgados: AgRg no HC n. 602.863/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 21/9/2020; e AgRg no HC n. 605.161/SP, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 9/9/2020.
+Ante o exposto, com fundamento no art. 34, XVIII, b, do RISTJ, nego provimento ao recurso ordinário em habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
