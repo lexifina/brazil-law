@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS, com fundamento no artigo 105, III, "a", da Constituição Federal, contra acórdão do Tribunal de Justiça de São Paulo, assim ementado (e-STJ fl. 62):
+Acidentária - Concessão de aposentadoria por idade a partir de 04.07.2016 - Obreiro beneficiária de auxílio acidente desde 29.12.1995 - Cumulação - Admissibilidade - Procedência decretada - Recurso do autor provido.
+Dou provimento ao recurso.
+Os embargos de declaração foram rejeitados (e-STJ fl. 77).
+O recorrenteaponta violação doartigo86, §§1º e 2º, da Lei 8.213/1991, com a redação dada pela Lei 9.528/1997. Argumenta, em síntese, que "a questão da cumulatividade dos benefícios deve ser analisada de acordo com a legislação vigente no momento da aquisição do direito à aposentadoria posto que, em relação à cumulação dos benefícios, até a concessão deste benefício havia apenas a expectativa de direito que não se aperfeiçoou em face da edição da Lei nº 9.528/97" (e-STJ fl. 89).
+Sem contrarrazões (e-STJ fl. 118).
+Juízo positivo de admissibilidade às e-STJ fls. 133-134.
+É o relatório. Passo a decidir.
+O recurso merece prosperar.
+De início, registra-se, conforme estabelecido pelo Plenário do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC" (Enunciado Administrativo 3).
+Compulsando os autos verifica-se que a controvérsia está limitada da não vitaliciedade do auxílio-acidente concedido nos autos.
+Assiste razão ao recorrente. Isso porque o entendimento assentado no acórdão recorrido diverge da orientação firmada nesta Corte Superior no sentidode que somente é possível a cumulação de auxílio-acidente com proventos de aposentadoria se constatado que a lesão incapacitante e a concessão da aposentadoria ocorreram anteriormente às alterações promovidas pela Lei n. 9.528/1997.
+Essa é a diretriz jurisprudencial firmada pela Primeira Seção desta Corte no julgamento do REsp 1.296.673/MG, submetido ao rito do artigo 543-C do CPC/1973, publicado no DJe de 3/9/2012, confira-se a ementa do precedente:
+RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC NÃO CONFIGURADA. MATÉRIA REPETITIVA. ART. 543-C DO CPC E RESOLUÇÃO STJ 8/2008. RECURSO
+REPRESENTATIVO DE CONTROVÉRSIA. CUMULAÇÃO DE BENEFÍCIOS. AUXÍLIO-ACIDENTE E APOSENTADORIA. ART. 86, §§ 2º E 3º, DA LEI 8.213/1991, COM A REDAÇÃO DADA PELA MEDIDA PROVISÓRIA 1.596-14/1997, POSTERIORMENTE CONVERTIDA NA LEI 9.528/1997. CRITÉRIO PARA RECEBIMENTO CONJUNTO. LESÃO INCAPACITANTE E APOSENTADORIA ANTERIORES À PUBLICAÇÃO DA CITADA MP (11.11.1997). DOENÇA PROFISSIONAL OU DO TRABALHO. DEFINIÇÃO DO MOMENTO DA LESÃO INCAPACITANTE. ART. 23 DA LEI 8.213/1991. CASO CONCRETO. INCAPACIDADE POSTERIOR AO MARCO LEGAL. CONCESSÃO DO AUXÍLIO-ACIDENTE. INVIABILIDADE.
+1. Trata-se de Recurso Especial interposto pela autarquia previdenciária com intuito de indeferir a concessão do benefício de auxílio-acidente, pois a manifestação da lesão incapacitante ocorreu depois da alteração imposta pela Lei 9.528/1997 ao art. 86 da Lei de Benefícios, que vedou o recebimento conjunto do mencionado benefício com aposentadoria.
+2. A solução integral da controvérsia, com fundamento suficiente, não caracteriza ofensa ao art. 535 do CPC.
+3. A acumulação do auxílio-acidente com proventos de aposentadoria pressupõe que a eclosão da lesão incapacitante, ensejadora do direito ao auxílio-acidente, e o início da aposentadoria sejam anteriores à alteração do art. 86, §§ 2º e 3º, da Lei 8.213/1991 ("§ 2º O auxílio-acidente será devido a partir do dia seguinte ao da cessação do auxílio-doença, independentemente de qualquer remuneração ou rendimento auferido pelo acidentado, vedada sua acumulação com qualquer aposentadoria; §3º O recebimento de salário ou concessão de outro benefício, exceto de aposentadoria, observado o disposto no § 5º, não prejudicará a continuidade do recebimento do auxílio-acidente."), promovida em 11.11.1997 pela Medida Provisória 1.596-14/1997, que posteriormente foi convertida na Lei 9.528/1997.
+(..)
+4. Para fins de fixação do momento em que ocorre a lesão incapacitante em casos de doença profissional ou do trabalho, deve ser observada a definição do art. 23 da Lei 8.213/1991, segundo a qual "considera-se como dia do acidente, no caso de doença profissional ou do
+trabalho, a data do início da incapacidade laborativa para o exercício da atividade habitual,
+ou o dia da segregação compulsória, ou o dia em que for realizado o diagnóstico, valendo para este efeito o que ocorrer primeiro".
+Nesse sentido: REsp 537.105/SP, Rel. Ministro Hamilton Carvalhido, Sexta Turma, DJ 17/5/2004, p. 299; AgRg no REsp 1.076.520/SP, Rel. Ministro Jorge Mussi, Quinta Turma, DJe 9/12/2008; AgRg no Resp 686.483/SP, Rel. Ministro Hamilton Carvalhido, Sexta Turma, DJ 6/2/2006; (AR 3.535/SP, Rel. Ministro Hamilton Carvalhido, Terceira Seção, DJe 26/8/2008).
+5. No caso concreto, a lesão incapacitante eclodiu após o marco legal fixado (11.11.1997), conforme assentado no acórdão recorrido (fl. 339/STJ), não sendo possível a concessão do auxílio-acidente por ser inacumulável com a aposentadoria concedida e mantida desde 1994.
+6. Recurso Especial provido. Acórdão submetido ao regime do art. 543-C do CPC e da Resolução 8/2008 do STJ. (REsp 1296673/MG, Rel. Min. Herman Benjamin, Primeira Seção, DJe 03/09/2012).
+Esse julgamento fundamentou a edição da Súmula 507/STJ, segundo a qual: "A acumulação de auxílio-acidente com aposentadoria pressupõe que a lesão incapacitante e a aposentadoria sejam anteriores a 11/11/1997, observado o critério do art. 23 da Lei n. 8.213/1991 para definição do momento da lesão nos casos de doença profissional ou do trabalho".
+Dito isso não há que se falar em vitaliciedade do benefício de auxílio-acidente no caso dos autos.
+Ante o exposto, dou provimento ao recurso especial, a fim de afastar a vitaliciedade do benefício de auxílio-acidente, restabelecendo a sentença.
+Publique-se. Intimem-se.
+EMENTA
+PREVIDENCIÁRIO. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. VITALICIEDADE DO BENEFÍCIO DEAUXÍLIO-ACIDENTE.IMPOSSIBILIDADE. ACÓRDÃO EM DISSONÂNCIA COM A JURISPRUDÊNCIA DO STJ. RECURSOPROVIDO.
