@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido liminar, impetrado em favor de AMARILDO FERREIRA DA SILVA, contra v. acórdão proferido pelo eg. Tribunal de Justiça do Estado de São Paulo, nos autos da apelação criminal n. 1500072-93.2020.8.26.0168.
+Depreende-se dos autos que o paciente foi condenado, em primeira instância, às penas de 3 (três) anos, 4 (quatro) meses e 25 (vinte e cinco) dias de reclusão, em regime inicial semiaberto, tendo em vista a prática de delito descrito no art. 129, § § 1º, III, 7º, do Código Penal (fls. 68-76).
+Inconformada, a defesa interpôs apelação perante o eg. Tribunal de origem, que, por unanimidade, deu parcial provimento ao recurso, a fim de reduzir a sanção para 1 (um) ano, 11 (onze) meses e 10 (dez) dias de reclusão, consoante voto condutor do v. acórdão de fls. 100-109.
+Daí o presente writ, no qual a defesa alega, em síntese, a ocorrência de constrangimento ilegal, pois o paciente faz jus à fixação de regime inicial mais brando.
+Pondera que, "apesar do v. acórdão, considerar que a agravante da reincidência, fora utilizada pelo juízo, como foi, fora somente para o agravamento da pena, não fazendo, o magistrado, contudo, em relação à fixação do regime, onde afastou explicitamente a reincidência para a fixação do regime prisional, conforme dispõe o artigo 33, § 2º, letra "b", não a utilizando para esse fim. Nesse ponto, portanto, não há falar-se em reincidência, para a fixação do regime, porque o Ministério Público não recorreu em relação ao posicionamento adotado pelo juízo, não podendo a autoridade coatora, julgar contrariamente ao decidido na origem, sob pena de reconhecer-se o instituto do "reformatio in pejus"" (fl. 6).
+Insurge-se contra o mandado de prisão expedido.
+Requer, assim, a concessão da ordem.
+A liminar foi indeferida (fls. 123-124).
+Informações prestadas às fls. 155-169.
+O Ministério Público Federal, às fls. 171-173, manifestou-se pelo não conhecimento do writ, em parecer assim ementado:
+"HABEAS CORPUS. SUBSTITUTIVO. REITERAÇÃO DEPEDIDO. NÃO CONHECIMENTO.
+- Além de a admissibilidade de habeas corpus substitutivo ao recurso próprio ser medida excepcional, observa-se que a impetração sucessiva de mandamus, além de subverter o sistema recursal previsto em lei, atenta contra o princípio da unirrecorribilidade das decisões judiciais.
+- Já declinada a pretensão esposada no presente mandamus em outro habeas corpus impetrado perante o STF, o caso é de não conhecimento da ordem.
+- Parecer pelo não conhecimento do habeas corpus" (fl. 171).
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+Conforme relatado, busca-se na presente impetração: i) a fixação de regime inicial aberto; e ii) a revogação do mandado de prisão expedido.
+Inicialmente, cumpre asseverar que a via do writ somente se mostra adequada para a análise da dosimetria da pena se não for necessária uma análise aprofundada do conjunto probatório e caso se trate de flagrante ilegalidade. Vale dizer, o entendimento deste Tribunal firmou-se no sentido de que a "dosimetria da pena insere-se dentro de um juízo de discricionariedade do julgador, atrelado às particularidades fáticas do caso concreto e subjetivas do agente, somente passível de revisão por esta Corte no caso de inobservância dos parâmetros legais ou de flagrante desproporcionalidade" (HC n. 400.119/RJ, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 1º/8/2017).
+Transcrevo, a fim de delimitar a quaestio, os seguintes trechos do v. acórdão impugnado:
+"Quanto ao regime inicial de cumprimento de pena, as circunstâncias judiciais desfavoráveis indicam que era mesmo o caso de imposição do semiaberto, ante a gravidade em concreto da conduta.
+ ..
+Oportunamente, se porventura transitar em julgado este Acórdão, deverão ser expedidos o mandado de prisão, para efetivo cumprimento da pena, e a guia de recolhimento definitiva" (fl. 104).
+No que toca ao regime de resgate de pena, ressalte-se que "o modo inicial de cumprimento da pena não está vinculado, de forma absoluta, apenas ao quantum de reprimenda imposto. Pena definitiva inferior a 4 anos de reclusão, réu primário e circunstâncias judiciais desfavoráveis indicam o regime inicial semiaberto como o mais adequado, por força do disposto no art. 33, §§ 2º, alínea "b", e 3º, do Código Penal" (AgRg no REsp n. 1735388/SP, Sexta Turma, Rel. Min. Rogerio Schietti Cruz, DJe 07/12/2018, grifei).
+Ademais, verifica-se do aresto impugnado que o paciente é reincidente (fl. 103), situação que dá azo a fixação do modo inicial mais grave. Contudo, tratando-se de habeas corpus, para que não haja prejuízo ao paciente, o modo intermediário fixado pelas instâncias ordinárias deve ser mantido.
+No mais, o Supremo Tribunal Federal, por ocasião do julgamento das Ações Declaratórias de Constitucionalidade n. 43, 44 e 54, realizado em 07/11/2019, as quais foram julgadas procedentes para assentar a constitucionalidade do art. 283 do Código de Processo Penal, passou a entender: "ninguém poderá ser preso senão em flagrante delito ou por ordem escrita e fundamentada da autoridade judiciária competente, em decorrência de sentença condenatória transitada em julgado ou, no curso da investigação ou do processo, em virtude de prisão temporária ou prisão preventiva" (grifei).
+Dessarte, a pena só pode ser executada após o trânsito em julgado da sentença penal condenatória, consoante novo entendimento firmado em sede de controle concentrado de constitucionalidade, o qual possui efeito vinculante e eficácia contra todos, nos termos do art. 102, § 2º, da Constituição Federal, a prisão para execução da pena somente é possível após o trânsito em julgado da ação penal, ou seja, com o esgotamento de todos os recursos cabíveis.
+Nesse contexto, declarada a constitucionalidade do art. 283 do Código de Processo Penal, a pena só pode ser executada após o trânsito em julgado da sentença penal condenatória.
+A prisão antes de esgotados todos os recursos cabíveis, portanto, só poderá ocorrer por decisão individualizada e fundamentada com a demonstração da existência dos requisitos legais para a imposição da prisão temporária ou prisão preventiva.
+Na hipótese em foco, o acórdão objurgado não determinou a imediata execução da pena. De fato, condicionou a expedição de mandado de prisão ao trânsito em julgado do decreto condenatório.
+Diante de tais considerações, portanto, não se vislumbra a existência de qualquer flagrante ilegalidade passível de ser sanada pela concessão da ordem de ofício.
+Ante o exposto, não conheço do habeas corpus.
+P. e I.
