@@ -1,0 +1,33 @@
+DECISÃO
+De início, não há que se falar em suspensão do feito em razão da afetação da matéria relativa à legitimidade ativa, haja vista que o REsp 1.438.263/SP, que afetou a referida questão e determinou a suspensão dos processos envolvendo o tema, excluiu, especificamente, os casos de execução de sentença proferida em ACP que o IDEC moveu contra o Banco do Brasil, levando-se em consideração o julgamento dos Recursos Especial nº 1.243.887/PR e nº 1.391.198/RS, julgados sob o rito dos repetitivos, e a eficácia preclusiva decorrente da coisa julgada.
+Dessa forma, passo a análise da matéria.
+Cuida-se de recurso especial interposto pelo BANCO DO BRASIL S/A, fundamentado na alínea "a" do permissivo constitucional.
+Recurso especial interposto em: 30/01/2019.
+Concluso ao gabinete em: 25/05/2020.
+Ação: exceção de pré-executividade apresentada pelo recorrente em face de VALENTIN HERGERSHEIMER NETO, na qual alega, em síntese, excesso de execução.
+Sentença: rejeitou a exceção de pré-executividade e julgou extinto o processo, nos termos do art. 924, II, do CPC.
+Acórdão: deu parcial provimento ao apelo interposto pelo recorrente, para excluir os juros remuneratórios e deu provimento ao recurso interposto pelo recorrido para condenar a instituição financeira ao pagamento de honorários arbitrados em 10% sobre o valor da execução, nos termos da seguinte ementa:
+INTERESSES TRANSINDIVIDUAIS EXECUÇÃO INDIVIDUAL - Os credores podem promover o cumprimento do julgado no foro da comarca dos seus domicílios - Desnecessidade da comprovação da associação dos poupadores ao IDEC - Prescindibilidade da prévia liquidação do julgado - A apuração do quantum debeatur depende de meros cálculos aritméticos - Os juros da mora são devidos a partir da citação do Banco nos autos da ação civil pública - Incidência do artigo 405 do Código Civil Brasileiro - Aplicação da Tabela Prática do Tribunal de Justiça do Estado de São Paulo para a correção monetária do débito - A utilização da referida Tabela acarreta, automaticamente, a incidência do percentual de 42,72% para janeiro e de 10,14% para o mês de fevereiro de 1989 - Os juros remuneratórios não são devidos - Inexistência de previsão no título exequendo - Possibilidade do arbitramento dos honorários advocatícios - Incidência da Súmula nº 517 do Superior Tribunal de Justiça - Recurso do Banco parcialmente provido - Apelo do exequente provido.
+Embargos de declaração: opostos pelo recorrente foram acolhidos para suprir omissão quanto ao excesso de execução.
+Recurso especial: alega violação dos arts. 2º-A da Lei n.º 9.494/1997, 16 da Lei nº 7.347/1985; 475-P, II, 575, II, e 743, I, II e III, do Código de Processo Civil e; 405 do Código Civil. Aduz a suspensão do processo em razão de matéria repetitiva afetada no âmbito do STF. Sustenta, em síntese, a ilegitimidade ativa, a incompetência territorial e insurge-se contra o termo inicial dos juros moratórios e ao índice de atualização monetária.
+RELATADO O PROCESSO, DECIDE-SE.
+Julgamento: aplicação do CPC/15.
+- Da deficiência de fundamentação
+Afasto o pedido de observância aos recursos extraordinários nº 573.232/SC (tema 82 do STF), nº 612.043/PR (tema 499 do STF) e nº 885.658/SP, uma vez que assertivas de ofensa a dispositivos constitucionais e de respectiva divergência jurisprudencial não servem de suporte à interposição de recurso especial, por fugirem às hipóteses versadas no art. 105, III e respectivas alíneas, da Constituição da República, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+- Da Súmula 568 do STJ
+O Superior Tribunal de Justiça detém o posicionamento no sentido de que:
+i) a sentença proferida pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF, na ação civil coletiva nº 1998.01.1.016798-9, que condenou o Banco do Brasil ao pagamento de diferenças decorrentes de expurgos inflacionários sobre cadernetas de poupança ocorridos em janeiro de 1989 (Plano Verão), é aplicável, por força da coisa julgada, indistintamente a todos os detentores de caderneta de poupança do Banco do Brasil, independentemente de sua residência ou domicílio no Distrito Federal, reconhecendo-se ao beneficiário o direito de ajuizar o cumprimento individual da sentença coletiva no Juízo de seu domicílio ou no Distrito Federal (REsp 1391198/RS, 2º Seção, DJe 02/09/2014).
+ii) os poupadores ou seus sucessores detêm legitimidade ativa - também por força da coisa julgada -, independentemente de fazerem parte ou não dos quadros associativos do IDEC, de ajuizarem o cumprimento individual da sentença coletiva proferida na ação civil pública nº 1998.01.1.016798-9 pelo Juízo da 12ª Vara Cível da Circunscrição Especial Judiciária de Brasília/DF (REsp 1391198/RS 2ª Seção, DJe de 02/09/2014).
+iii) os juros de mora incidem a partir da citação do devedor no processo de conhecimento da Ação Civil Pública quando esta se fundar em responsabilidade contratual, cujo inadimplemento já produza a mora, salvo a configuração da mora em momento anterior (REsp 1370899/SP, Corte especial, Dje de 16/10/2014).
+iv) incidem os expurgos inflacionários posteriores a título de correção monetária plena do débito judicial, que terá como base de cálculo o saldo existente ao tempo do referido plano econômico, e não os valores de eventuais depósitos da época de cada plano subsequente (Resp 1392245, Segunda seção, Dje de 07/05/2015).
+Dessa forma, o TJ/SP foi ao encontro da jurisprudência dessa Corte. Aplica-se, portanto a súmula 568 do STJ.
+Forte nessas razões e com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇO do recurso especial e NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado da parte agravada em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10% sobre o valor da execução (e-STJ fls. 343) para 12%.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar sua condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ESPECIAL. AÇÃO CIVIL PÚBLICA. EXPURGOS INFLACIONÁRIOS. DEFICIENTE. SÚMULA 284/STF. HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. SENTENÇA. SÚMULA 568 DO STJ.
+1. Ação civil pública decorrente de expurgos inflacionários das cadernetas de poupança.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. O acórdão recorrido que adota a orientação de acordo com a jurisprudência do STJ não merece reforma.
+4. Recurso especial conhecido e não provido.
