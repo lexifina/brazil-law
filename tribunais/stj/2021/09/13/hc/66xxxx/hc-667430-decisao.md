@@ -1,0 +1,16 @@
+DECISÃO
+CAIO EMERSON GOMES TEIXEIRAalega sofrer coação ilegal em decorrência do excesso de prazo para o julgamento da Apelação n. 0161730-82.2017.8.06.0001 peloTribunal de Justiça do Estado do Ceará.
+Nesta Corte, a defesa postula aconcessão de liberdade provisória ao réu, por considerar que a demora no julgamento do recurso, recebido na segunda instância em 22/11/2018, é desproporcional e não pode ser atribuída ao réu.
+Extrai-se dos autos que o ora paciente foi condenado, em 4/10/2018, à pena de 28 anos de reclusão, em regime inicial fechado, como incurso no art. 121, § 2º, I, III e IV, por duas vezes, na forma do art. 69, ambos do Código Penal.
+Irresignada, a defesa interpôs apelação. O feito foi recebido em segunda instância no dia 22/11/2018 (fl. 357).
+Em consulta à página eletrônica da Corte de origem, o gabinete verificou que o Desembargador relator apresentou o relatório da apelação em 24/8/2021 e, em 25/8/2021, os autos foram encaminhados ao Desembargador revisor.
+Os prazos processuais previstos na legislação pátria devem ser computados de maneira global e o reconhecimento do excesso deve-se pautar sempre pelos critérios da razoabilidade e da proporcionalidade (art. 5º, LXXVIII, da CF), considerando cada caso e suas particularidades.
+Na hipótese, não é desproporcional o lapso decorrido para o julgamento do apelo defensivo, em face da reprimenda imposta na sentença ao réu- 28 anos de reclusão.
+A respeito do tema, a jurisprudência desta Corte Superior é firme ao asseverar que"oexcesso de prazo em caso de demora no julgamento de apelação não se afere com base na soma aritmética dos prazos processuais, devendo ser examinadas as peculiaridades da causa, em especial o quantum da pena aplicada na sentença e a complexidade do feito"(AgRg no HC n. 626.530/CE, Rel. Ministro João Otávio de Noronha, 5ª T., DJe 13/8/2021, grifei).
+No mesmo sentido:AgRg no HC n. 634.368/RS (Rel. Ministro Antonio Saldanha Palheiro, 6ª T., DJe 16/8/2021),HC n. 653.177/RJ(Rel. Ministro Sebastião Reis Júnior, 6ª T., DJe 9/8/2021) eAgRg no HC n. 654.855/MG(Rel. Ministro Rogerio Schietti, 6ª T., DJe 13/8/2021).
+Ademais, como ressaltado pela Subprocuradora-Geral da República Mônica Nicida Garcia, houve "expedição de carta de guia, de modo que a execução da pena já se encontra em andamento, o que autoriza ao paciente, em tese, a obtenção dos benefícios da execução penal, nos termos do enunciado nº 716/STF, não havendo assim prejuízo nesse sentido" (fl. 393).
+Com base nessas circunstâncias,não constato flagrante ilegalidade na espécie.
+Todavia, como o recurso interposto contra a sentença foi recebido na segunda instância há mais de 2 anos e 8 meses e ainda não foi julgado, deve ser recomendado ao Tribunal a quo que priorize o julgamento da apelação interposta pela defesa do ora paciente, que deverá ser realizado em no máximo três sessões, a partir da comunicação acerca deste decisum.
+À vista do exposto, denego a ordem. Todavia, recomendo à Corte de origem que proceda ao julgamento do recurso de apelação em no máximo três sessões, contadas a partir da comunicação deste decisum.
+Comunique-se, com urgência, o inteiro teor desta decisão ao Tribunal estadual.
+Publique-se e intimem-se.
