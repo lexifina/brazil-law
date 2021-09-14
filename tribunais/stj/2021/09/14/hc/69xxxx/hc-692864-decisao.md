@@ -1,0 +1,14 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em favor de JORGE LUÍS RODRIGUES MORGADOcontra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 0003191-61.2014.8.26.0358).
+Consta dos autos que o paciente foi condenado, pelo juízo de primeiro grau, pela prática do delitos previstosno art. 33, caput, art.33, § 1º, inciso I, e art.34, todos da Lei 11.343/2006, às penas de 10dez anos, 10meses e 20dias de reclusão, e2.313 dias-multa e art. 12, da Lei n. 10.286/2003, às penas de 1ano e 2dois meses de detenção, e 11onze dias-multa pelo Código Penal (e-STJ fls. 70/84).
+Ambas as partes apelarame o Tribunal a quo negou provimento ao recurso defensivo e proveu parcialmente o recurso ministerial para aplicar ao paciente a pena de 22 anos e 9 meses de reclusão, e 3.850 dias-multa, e 1 ano e 2 meses de detenção, além de 11 dias-multa (e-STJ fls. 25/36).
+No presente writ (e-STJ fls. 3/23), a defesa sustenta que o paciente sofre constrangimento ilegal em razão da condenação concomitante pelos crimes de tráfico, deposse e guarda de maquinário e de estocagem de matéria-prima destinados à manufatura de substâncias entorpecentes, ante a aplicação ao caso do princípioda consunção, uma vez que ditas condutas constituem meio necessário ou fase normal de preparação ou execução de delito de alcance mais amplo, no caso, a fabricação de entorpecente (e-STJ fl. 12).
+Diante disso,requer, liminarmente e no mérito, a concessão da ordem para queo paciente seja condenado apenas pelo delito previsto no artigo 33, caput, e não pelo delito previsto no artigo 33 cc. §1º, inciso I, devendo incidir o princípio da consunção ou da absorção, afastando-se, por conseguinte, o concurso material de crimes aplicado pelo juízo a quo (e-STJ fl. 20).
+É o relatório. Decido.
+De início, o presente habeas corpus não comporta conhecimento, pois impetrado em substituição a recurso próprio. Entretanto, nada impede que, de ofício, seja constatada a existência de ilegalidade que importe em ofensa à liberdade de locomoção do paciente.
+No caso dos autos, ao menos em juízo de cognição sumária, não verifico manifesta ilegalidade apta a justificar o deferimento da medida de urgência, sendo necessário aprofundado exame dos autos para a aferição de eventual constrangimento, notadamente se considerada a impossibilidade de realização de nova dosimetria da pena neste momento, de juízo meramente perfunctório.
+Ademais, o pedido liminar confunde-se com o próprio mérito da impetração, o qual deverá ser analisado em momento oportuno, após parecer ministerial, por ocasião do julgamento definitivo do habeas corpus pelo colegiado.
+Ante o exposto, indefiro a liminar.
+Devidamente instruídos, dispenso o envio de informações.
+Dê-se vista dos autos ao Ministério Público Federal.
+Intimem-se.
