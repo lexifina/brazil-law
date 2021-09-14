@@ -1,0 +1,49 @@
+DECISÃO
+Trata-se de agravo nos próprios autos interpostocontra decisão que inadmitiu recurso especial por: (i) inexistência de violação doart. 1.022 do CPC/2015, e (ii) aplicação daSúmulan. 7 do STJ (e-STJ fls. 651/661).
+O Tribunal de origem deu parcial provimento à apelaçãodarecorrida, em julgado que recebeu a seguinte ementa (e-STJ fl. 543):
+APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA. CUMPRIMENTO DE SENTENÇA. PRELIMINAR DE NULIDADE, POR JULGAMENTO EXTRA PETITA, REJEITADA. MÉRITO. LIBERAÇÃO DE VALORES. NAO EXISTE ÓBICE AO LEVANTAMENTO DE VALORES DEPOSITADOS DESDE QUE O DEPÓSITO E O TRÂNSITO EM JULGADO DA IMPUGNAÇÃO SEJAM ANTERIORES AO DEFERIMENTO DO PLANO DE RECUPERAÇÃO JUDICIAL. JULGADO NO CASO, SEM O TRÂNSITO EM DA IMPUGNAÇÃO, VEDADO O LEVANTAMENTO INTEGRAL DO VALOR BLOQUEADO EM FAVOR DOS EXEQUENTES. POR OUTRO LADO, OS VALORES INCONTROVERSOS PODEM SER LEVANTADOS. DETERMINADO O PROSSEGUIMENTO DO FEITO, COM A DEVIDA APRECIAÇÃODA IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. REJEITADA A PRELIMINAR, DERAM PROVIMENTO, EM PARTE, AO RECURSO. UNÂNIME.
+Os embargos de declaração foram rejeitados (e-STJ fls. 572/576).
+No recurso especial (e-STJ fls. 585/619),fundamentadono art. 105, III, "a", da CF, orecorrenteapontou:
+(i) violação doart.1.022, II, do CPC/2015, alegando negativa de prestação jurisdicional por omissão. Sustentou, em síntese, que (e-STJ fls. 591/592):
+Os recorrentes alegaram desde o agravo de instrumento e reiterou nos embargos que:
+  No caso dos autos ESTÁ CONFIGURADA A HIPÓTESE DE EXCEÇÃO ESTABELECIDA NO JUÍZO UNIVERSAL, QUE AUTORIZA A LIBERAÇÃO DE VALORES PARA O PAGAMENTO AOS CREDORES, com relação a TODO o valor devido, pois o bloqueio para a garantia do juízo foi precedido de discussão acerca dos critérios de cálculo e remessa dos autos à contadoria, que confirmou o cálculo dos credores, implicando em PRECLUSÃO PRETÉRITA dos critérios de cálculo e de todos o valor devido;
+  A impugnação à execução foi oposta de má-fé pela devedora, pois sequer era cabível impugnar valor DEFINIDO JUDICIALMENTE, sendo pretérita à recuperação judicial a preclusão do valor devido;
+  Também não há que se falar em iliquidez do crédito, já que os cálculos que embasaram o bloqueio para a garantia do juízo foram reputados corretos pelo contador (fl.635), implicando em PRECLUSÃO QUANTO AO VALOR DEVIDO anterior a 21/06/2016;
+  A impugnação foi julgada improcedente em 2012, tendo o Tribunal de Justiça determinado de ofício a realização de perícia, que acabou sendo dispensada na origem, tendo havido a remessa dos autos à contadoria, que confirmou novamente o cálculo dos credores e apurou vultoso saldo após a amortização da garantia do juízo;
+  O indeferimento da liberação da integralidade dos valores em conta judicial que se encontram preclusos antes da recuperação judicial viola a preclusão, assim como os limites da lide e o princípio da igualdade entre credores e o art. 126 da Lei 11.101/2005, pois todos os demais credores da executada nesta situação receberão os valores incontroversos e preclusos antes de 21/06/2016.
+Porém, tais questões não foram analisadas pelo Tribunal Estadual, que se limitou a referir que o que pretende a parte embargante é uma nova apreciação de questões já decididas, o que refoge ao objeto do recurso manejado, sendo manifesta a negativa da prestação jurisdicional e a violação à legislação federal.
+(ii) ofensa aos arts. 141, 223, 492, 505 e 507 do CPC/2015 e126 da Lei n. 11.101/2005, tendo em vista que (e-STJ fl. 595):
+ ..  o bloqueio para a garantia do juízo foi precedido de discussão acerca dos critérios de cálculo e remessa dos autos à contadoria, que confirmou o cálculo dos credores, implicando em PRECLUSÃO PRETÉRITA dos critérios de cálculo e de todo o valor devido.
+Assim, irrelevante a data do trânsito em julgado da impugnação à execução oposta de má-fé pela executada, pois sequer era cabível impugnar valor DEFINIDO JUDICIALMENTE, sendo pretérita à recuperação judicial a preclusão do valor devido.
+Ademais, também não há que se falar em iliquidez do crédito, já que os cálculos que embasaram o bloqueio para a garantia do juízo foram reputados corretos pelo contador (fl. 635), implicando em PRECLUSÃO QUANTO AOS CRITÉRIOS DE CÁLCULO E AO VALOR DEVIDO anterior a 21/06/2016, motivo pelo qual está configurado o caso de exceção estabelecido no juízo universal, que autoriza a liberação de valores com relação a todo o valor devido.
+Busca, em suma, o provimento do recurso especial, a fim de: (i) anular "o acórdão guerreado, determinando que o Tribunal Estadual aprecie a matéria devolvida a exame nos embargos de declaração" (e-STJ fl. 613), e (ii) acolher "os presentes embargos de declaração, no efeito infringente, para sanar a omissão e retificar o erro material, negando provimento à apelação da devedora"(e-STJ fl. 613).
+Contrarrazões apresentadas (e-STJ fls. 634/643).
+No agravo (e-STJ fls. 663/711), foram refutados os fundamentos da decisão agravada e alegado o cumprimento de todos requisitos legais para recebimento do especial.
+Contraminuta apresentada (e-STJ fls. 719/733).
+É o relatório.
+Decido.
+I - Da negativa de prestação jurisdicional
+Inicialmente, não há falar em ofensa aoart. 1.022 do CPC/2015, pois o Tribunal a quo pronunciou-se, de forma clara e suficiente, sobre as questões suscitadas nos autos. Não há negativa de prestação jurisdicional quando os fundamentos utilizados tenham sido suficientes para embasar a decisão, ainda que em sentido diverso do sustentado pela parte, como de fato ocorreu.
+II - Levantamento de valores
+Quanto aos demais artigos, também não prospera o inconformismo.
+Isso porque a Corte local, com base nos elementos fáticos-probatórios, concluiu pela ausênciados requisitos que autorizam o levantamento de valores pela parte recorrente. Nesse contexto, consignouque,apesar dea penhora terocorrido antes de 21/06/2016, o trânsito em julgado da impugnação ao cumprimento de sentença nem sequer ocorreu, não podendo ser autorizadoo levantamento dos valores controversos. Seguem trechos do acórdão (e-STJ fls. 546/550):
+Na hipótese, observo que, transitado em julgado o julgamento procedente, em parte, da ação ordinária e, iniciada a fase de cumprimento de sentença, foram penhorados valores como garantia em 30.01.2012 (fl. 678, do apenso), apresentando a ré impugnação à fase de cumprimento de sentença.
+Julgada improcedente a impugnação, fls. 173/173-verso, a parte executada, ora apelante, interpôs o recurso de agravo de instrumento, distribuído sob o nº 70052638897, o qual foi julgado prejudicado, tendo em vista que foi desconstituída a decisão agravada e determinado, de ofício, a realização de prova pericial, fls. 198/198-verso.
+A decisão do agravo de instrumento transitou em julgado no dia 24/07/2014, conforme certidão juntada à fl. 210.
+No entanto, o DD. Magistrado de primeiro grau, determinou em 19/06/2017, fl. 245, a remessa dos autos à Contadoria para atualização do débito, de acordo com a coisa julgada, o qual apurou, após amortizar o valor bloqueado, um saldo de R$ 536.999,97, atualizado até 21.08.2017, fl. 257.
+Irresignada, a executada apresentou impugnação ao cálculo, motivo pelo qual foi determino pelo MM. Juízo a quo, nova remessa dosautos à Contadoria para readequação dos cálculos, cujo cálculo consta às fls. 325/335.
+Ato contínuo, foi determinado o levantamento dos valores bloqueados em favor dos exequentes, ora apelados, por entender que "o crédito, constituído antes do pedido de recuperação judicial, não apenas já se encontrava líquido, como garantido por depósito remunerado, em beneficio da própria devedora."
+Contudo, o crédito dos exequentes é ilíquido, uma vez que a impugnação ao cumprimento de sentença ainda se encontra pendente de julgamento.
+ ..
+Considerando que não existe possibilidade de liberação de valores em favor dos exequentes uma vez que o trânsito em julgado da impugnação necessariamente será posterior ao deferimento do Plano de Recuperação Judicial, e que, após a liquidação definitiva do valor do crédito, deverão habilitar seu crédito nos autos da Recuperação Judicial.
+Por outro lado, inexiste óbice ao levantamento dos valores incontroversos, fl. 171, pelos exequentes. Tal entendimento se dá em atenção a decisão proferida nos autos do Agravo de Instrumento nº 0034576-58.2016.8.19.0000.
+Ressalto que a referida decisão não impõe que o trânsito em julgado da impugnação ao cumprimento de sentença tenha ocorrido em período anterior à Recuperação Judicial, limitando-se, entretanto, a referenciar o trânsito em julgado como fator necessário à demonstração da consolidação do valor como controverso.
+Diante do exposto, rejeitada a preliminar, dou provimento, em parte, ao recurso, a fim de possibilitar, tão somente, o levantamento pelos exequentes do valor incontroverso, conforme fundamentação supra, devendo o feito ter seu devido prosseguimento, com o julgamento do incidente de impugnação ao cumprimento de sentença.
+A convicção formada pelo Tribunal de origem decorreu dos elementos existentes nos autos, de forma que rever a decisão recorrida e acolher a pretensão recursal demandaria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, o que é vedado em recurso especial, nos termos da Súmula n. 7 do STJ.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. IMPUGNAÇÃO AO CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. SOBRESTAMENTO DO FEITO. LIBERAÇÃO DE VALORES. REQUISITOS NECESSÁRIOS. NÃO CUMPRIMENTO. REVISÃO. IMPOSSIBILIDADE. NECESSIDADE DE REEXAME FÁTICO. SÚMULA 7/STJ.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória (Súmula n. 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp n. 1.319.862-RS, Rel. Ministra ISABEL GALLOTTI, QUARTA TURMA, julgado em 04/12/2018, DJe 07/12/2018.)
+Ante o exposto, NEGO PROVIMENTO ao agravo.
+Publique-se e intimem-se.
