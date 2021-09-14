@@ -1,0 +1,39 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO RIO DE JANEIRO, com fundamento na alínea "a" do permissivo constitucional,agravo contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, na Apelação Criminal n. 0122994-95.2018.8.19.001 (Desembargador relator José Roberto Lagranha Tavora).
+A controvérsia foi bem relatada no parecer ministerial, in verbis (e-STJ fls. 505/506):
+O recurso especial, fundado na alínea a, do art. 105, III, da CF, ataca acórdão do TJ/RJ, em 7a Câmara Criminal, que deu parcial provimento ao recurso da defesa, para reconhecer a modalidade tentada do crime de furto.
+2. O recorrido foi denunciado pelo crime do art. 155, caput, do CP
+porque, no dia 24/5/18, subtraiu quatro unidades de barra de chocolate de lOOg do Supermercado Prix. Foi condenado, em primeira instância, a um ano e 8 meses de reclusão em regime fechado (f. 206-219). A defesa apelou, tendo o TJ/RJ dado provimento parcial ao recurso, para reconhecer a modalidade tentada do crime e revisar a pena para 5 meses e 25 dias de reclusão, em regime semiaberto (f. 354-371). O MP opôs embargos de declaração, que foram rejeitados (f. 404-406).
+3. Daí a interposição de recurso especial pelo MP, com o qual se
+insurge contra o reconhecimento da modalidade tentada no crime de furto, alegando contrariedade ao art. 155, caput e 14,1, ambos do CP. Afirma que para a consumação do furto basta o desapossamento da coisa subtraída, não sendo necessário que a res furtiva saia da esfera de vigilância da vítima e, muito menos, que o agente tenha posse mansa, pacífica e desvigiada sobre a mesma (f. 412- 427).
+4. Contrarrazões, às f. 431-439. Recurso admitido na origem (f.441-444).
+Opinou o órgão ministerial pelo não conhecimentodo recurso especial.
+É o relatório.
+Decido.
+Quanto à consumação do crime de furto, transcrevem-se os fundamentos do acórdão recorrido (e-STJ fl. 366):
+No tocante à consumação do delito, data máxima vênia, em que pesem os motivos esposados na douta fundamentação, ousei a discordar do seu entendimento, em considerar o conatus, haja vista que não houve a inversão da posse, posto que o réu foi detido ainda no recinto da Empresa lesada, a qual recuperou a rés furtiva.
+Portanto, não há ofensa ao Enunciado da Súmula 582, do Superior Tribunal de Justiça, in verbis:
+"Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada".
+Outrossim, no julgamento dos embargos de declaração assentou, in verbis(e-STJ fl. 406):
+Os depoimentos das testemunhas colhidos em juízo aduzem que o outrora denunciado permaneceu sob vigilância dos seguranças, incialmente pelas câmeras e posteriormente presencialmente pelo segurança Rafael, o qual voluntariamente decidiu por não o questionar sobre a subtração durante todo o período que permaneceu dentro do estabelecimento, vindo a fazê-lo tão somente após sua saída.
+Entretanto, a referida testemunha Rafael Guimarães, segurança do supermercado, declarou que visualizou o embargado colocar as barras de chocolate dentro de suas vestimentas, porém, mesmo na improvável possibilidade de o mesmo decidir pagar, optou por vigiá-lo. Posteriormente, observando que o mesmo tentava se evadir, o abordou e na recusa de assumir suas práticas, chamou a polícia.
+Na espécie, a forma específica mediante a qual os funcionários da pessoa jurídica vítima exerceram a vigilância direta sobre a conduta, acompanhando ininterruptamente todo o iter criminis, tornou remota a consumação do crime, o que configura o disposto no artigo 14, II, do C. Penal.
+Vê-se, in casu, que a interrupção do delito poderia ter ocorrido a qualquer tempo, a contar do prelúdio, portanto, as circunstâncias e a omissão voluntária do segurança afastam a tese pleiteada pelo Parquet.
+Acerca do tema, a orientação adotada por esta Corte está sintetizada na Súmula n. 582/STJ:"Consuma-se o crime de roubo com a inversão da posse do bem mediante emprego de violência ou grave ameaça, ainda que por breve tempo e em seguida à perseguição imediata ao agente e recuperação da coisa roubada, sendo prescindível a posse mansa e pacífica ou desvigiada.".
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. FURTO SIMPLES. CONSUMAÇÃO.INVERSÃO DA POSSE DA RES FURTIVA. REGIME INICIAL IMEDIATAMENTE MAIS GRAVOSO. SEMIABERTO. REINCIDÊNCIA. SÚMULA N. 269/STJ. DETRAÇÃO.CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL. SUBSTITUIÇÃO DA PENA PRIVATIVA POR RESTRITIVA DE DIREITOS. INSUFICIÊNCIA. AGRAVO IMPROVIDO.
+1. Conforme a pacífica jurisprudência desta Corte Superior, consuma-se o crime de furto com a posse de fato da res furtiva, ainda que por breve espaço de tempo, sendo prescindível a posse mansa e pacífica ou desvigiada.
+2. Não há ilegalidade na fixação do regime imediatamente mais gravoso, o semiaberto, com fundamento na reincidência do acusado, em consonância com Súmula 269 do STJ.
+3. O artigo 387, § 2º, do Código de Processo Penal não versa sobre progressão de regime prisional, instituto próprio da execução penal, mas sim acerca da possibilidade de se estabelecer regime inicial menos severo, descontando-se da pena aplicada o tempo de prisão cautelar do acusado.
+4. Mesmo que se procedesse à detração do período de custódia cautelar efetivamente cumprido pelo paciente, o regime inicial prisional semiaberto não seria modificado, diante da reincidência.
+5. O art. 44, II, do Código Penal não admite a substituição da pena privativa de liberdade por restritiva de direitos para o réu reincidente em crime doloso, salvo se, em face de condenação anterior, a medida seja socialmente recomendável e a reincidência não se tenha operado em virtude da prática do mesmo crime.
+6. Agravo regimental improvido.(AgRg no REsp 1894347/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 7/12/2020, DJe 10/12/2020.)
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS. FURTO SIMPLES. DOIS PEDAÇOS DE CARNE EM ESTABELECIMENTO COMERCIAL. PLEITO DA DEFESA DE VIGILÂNCIA DIRETA PARA O ACUSADO. ALEGAÇÃO DE CRIME IMPOSSÍVEL. SISTEMA DE VIGILÂNCIA. SÚMULA 567/STJ. RÉU ABORDADO FORA DA LOJA. DESCLASSIFICAÇÃO DA CONDUTA PARA A FORMA TENTADA.INVIABILIDADE. CONSUMAÇÃO DO CRIME. INVERSÃO DA POSSE. PRINCÍPIO DA INSIGNIFICÂNCIA. IMPOSSIBILIDADE. AUSÊNCIA DE DEBATE NA CORTE LOCAL. DECISÃO MANTIDA.
+1. Um funcionário do mercado verificou o momento em que o réu colocou duas peças de carne dentro de uma sacola plástica e acionou o gerente da loja. O acusado foi segurado fora da loja, por populares, no momento em que a policial militar chegou e o prendeu, na posse de uma sacola plástica, contendo as duas peças de carne subtraídas, portanto, não se fala em crime impossível, nos termos da Súmula 567/STJ.
+2. Agravo regimental improvido.(AgRg no HC 582.107/RJ, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 18/8/2020, DJe 24/8/2020.)
+Conforme transcrito, ficou demonstrado nos autos que o réu teve a posse do objeto, mesmo que por pouco tempo, e o monitoramento da segurança do estabelecimento comercial não interfere em tal conclusão.
+Passo à readequação da dosimetria da pena e, mantendo os demais parâmetros adotados pela Corte de origem até a segunda fase, em que se obteve apena intermediária em 1 ano, 5meses e 15 dias de reclusão e 13 dias-multa, a qual tornodefinitiva nesse patamar, em virtude da ausência de causas de aumento ou diminuição.
+Assim, deve ser afastada a extinção da punibilidade decretada pelo Tribunal de origem, ao argumento de cumprimento integral da pena, tendo em vista que, à época da prolação do acórdão, 30/7/2019, o recorrente estava preso há pouco mais de 8 meses.
+Mantido o regime semiaberto, tendo em vista a reincidência do réu.
+Ante o exposto, dou provimento ao recurso especial, nos termos ora delineados.
+Publique-se. Intimem-se.
