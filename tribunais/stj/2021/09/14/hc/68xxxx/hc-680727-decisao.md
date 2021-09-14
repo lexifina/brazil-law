@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se dehabeas corpuscom pedido liminar impetrado em favor de IVONIR PAULO DA SILVA RIOS ROSEapontando como autoridade coatora o Tribunal de Justiça do Estado de Santa Catarina (Apelação n. 0006598-45.2015.8.24.0019).
+Depreende-se dos autos que o paciente foi condenado à pena privativa de liberdade de 6 meses de detenção, em regime inicial aberto, substituída por uma medida restritiva de direitos, consistente em prestação de serviços à comunidade, além de 2 meses de suspensão da habilitação, pela prática do crime previsto no art. 306, caput, da Lei n. 9.503/1997.
+A apelação defensiva foi desprovida pelo Tribunal de origem(e-STJ fl. 34):
+APELAÇÃO CRIMINAL. DELITO DE TRÂNSITO. EMBRIAGUEZ AO VOLANTE (ART. 306, CAPUT, DO CTB). SENTENÇA CONDENATÓRIA.RECURSO DA DEFESA.REQUERIDA A SUBSTITUIÇÃO DA PENA RESTRITIVA DE DIREITOS (PRESTAÇÃO DE SERVIÇOS À COMUNIDADE) POR MULTA. NÃO ACOLHIMENTO. DISCRICIONARIEDADE DO JULGADOR. IMPOSIÇÃO DA MEDIDA EM CONFORMIDADE COM OS DITAMES LEGAIS.
+Uma vez que o art. 44 do Código Penal não estabelece ordem legal de preferência, cabe ao Magistrado, utilizando-se da discricionariedade que lhe é inerente e, desde que respeitados os ditames legais, estabelecer a pena substitutiva que considera mais adequada à conduta praticada e às circunstâncias do caso concreto, em cumprimento ao objetivo repressivo e ressocializador da sanção.
+RECURSO CONHECIDO E NÃO PROVIDO.
+Daí o presentewrit, no qual sustenta a defesa ilegalidade na substituição da pena privativa de liberdade por uma restritiva de direitos sem fundamentação idônea para tanto.
+Requer que "seja DECLARADA a ilegalidade do acórdão impugnado, para o fim de READEQUAR a pena substitutiva, de modo a substituir a pena privativa apenas por multa (em vez de pena restritiva de direitos), nos termos do § 2.º do art. 44 do Código Penal" (e-STJ fl. 11).
+Liminar indeferida, e informações prestadas.
+Instado a se manifestar, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 426/431).
+É, em síntese, o relatório.
+Decido.
+Tenho que não assiste razão à defesa.
+É que, por expressa determinação contida no enunciado da Súmula n. 171 desta Corte Superior, é vedada a substituição da pena corporal por multa, quando alegislação especialcominar de forma cumulativa a pena privativa de liberdade com a pena pecuniária.
+A propósito:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. ART. 306, § 1.º, INCISO I, DA LEI N. 9.503/1997. PENA PRIVATIVA DE LIBERDADE SUBSTITUÍDA POR RESTRITIVA DE DIREITOS. PLEITO DEFENSIVO DE SUBSTITUIÇÃO POR MULTA, NOS TERMOS DO ART. 44, § 2º, DO CÓDIGO PENAL. ALEGAÇÃO DE QUE A MULTA É MAIS FAVORÁVEL AO CONDENADO, POR NÃO PODER SER SUBSTITUÍDA POR PRISÃO, EM CASO DE DESCUMPRIMENTO. APONTADA NECESSIDADE DE FUNDAMENTAÇÃO DA ESCOLHA DA OPÇÃO MAIS GRAVOSA AO APENADO. IMPROCEDÊNCIA. MULTA SUBSTITUTIVA QUE NÃO É SOCIALMENTE RECOMENDÁVEL, QUANDO O PRECEITO SECUNDÁRIO DO TIPO CRIMINAL JÁ PREVÊ A PENA AUTÔNOMA E CUMULATIVA DE MULTA. ENUNCIADO 171 DA SÚMULA DESTA CORTE. AGRAVO REGIMENTAL DESPROVIDO.
+1. O agravante foi condenado pela prática do crime previsto no art.306, § 1º, inciso I, da Lei n. 9.503/1997, ao cumprimento de pena inferior a um ano de reclusão. A pena corporal foi substituída por uma medida restritiva de direitos.
+2. O delito em questão já prevê, no seu preceito secundário, a pena autônoma e cumulativa de multa. Desse modo, a decisão da origem está em consonância com a orientação jurisprudencial desta Corte, segundo a qual, se ao tipo penal é cominada pena de multa autônoma e cumulativa com a pena privativa de liberdade substituída, não se mostra socialmente recomendável a aplicação da multa substitutiva, prevista no art. 44, § 2º, do Código Penal.
+3. Nesse sentido, o enunciado n. 171 da Súmula desta Corte, segundo o qual, cominadas cumulativamente, em Lei Especial, penas privativa de liberdade e pecuniária, é defeso a substituição da prisão por multa.
+4. Agravo regimental a que nega provimento.(AgRg no HC 590.177/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 4/8/2020, DJe 13/8/2020.)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ART. 306 DO CÓDIGO DE TRÂNSITO BRASILEIRO. PENA PRIVATIVA DE LIBERDADE. SUBSTITUIÇÃO POR MULTA. IMPOSSIBILIDADE. PRECEDENTES DO STJ. AGRAVO PROVIDO.
+1. Em se tratando de delito previsto em lei especial, constando do preceito secundário do tipo a cominação cumulativa de pena privativa de liberdade com pena pecuniária, inviável a substituição da pena corporal por multa. Inteligência da Súmula 171 do STJ (AgRg no REsp 1750730/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 16/08/2018, DJe 28/08/2018).
+2. Agravo regimental provido para negar provimento ao agravo em recurso especial.(AgRg no AREsp 1.364.861/SC, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 9/4/2019, DJe 25/4/2019.)
+PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. FRAUDE NO CARÁTER COMPETITIVO DA LICITAÇÃO. ALEGAÇÃO DE REFORMATIO IN PEJUS. INOCORRÊNCIA. ERRO MATERIAL CORRIGIDO NO ACÓRDÃO. AUSÊNCIA DE PREJUÍZO. ENTENDIMENTO SUMULADO NESTA CORTE. SÚMULA N. 171. PRECEDENTES. DECISÃO MANTIDA. DELAÇÃO PREMIADA. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356, AMBAS DO STF. INCIDÊNCIA MANTIDA. PLEITO DE ABSOLVIÇÃO. AUSÊNCIA DE PROVAS. REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIOS DELINEADO NOS AUTOS. SÚMULA N. 7/STJ. APLICAÇÃO MANTIDA. DECISÃO MONOCRÁTICA MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+I - Esta Corte Superior de Justiça possui entendimento consolidado no sentido de que, "(..) em se tratando de delito previsto em lei especial, constando do preceito secundário do tipo a cominação cumulativa de pena privativa de liberdade com pena pecuniária, inviável a substituição da pena corporal por multa. Inteligência da Súmula 171 do STJ" (HC n. 401.198/SC, Quinta Turma, Rel. Min. Reynaldo Soares da Fonseca, DJe de 25/8/2017).
+ ..
+Agravo regimental desprovido.(AgRg no AREsp 1.392.275/TO, relator Ministro FELIX FISCHER, QUINTA TURMA, julgado em 13/12/2018, DJe 19/12/2018.)
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
