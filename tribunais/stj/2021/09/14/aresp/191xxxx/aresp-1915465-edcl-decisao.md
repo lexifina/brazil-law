@@ -1,0 +1,52 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por IVAN SOARES PORTO e OUTRO à decisão de fls. 391/392, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Ao interpor o recurso de Agravo, os Embargantes se depararam com a pandemia do COVID-19, uma vez que fora publicada portarias determinando a suspensão dos prazos processuais, vejamos (fl. 404).
+ ..
+Observemos as portarias anexadas acima Sr. Ministro, veja que em portaria publicada em 22/07/2020, Portaria Nº 1025/PR/2020, é claro ao determinar que os prazos dos processos físicos em tramite nas unidades judiciárias poderão ser reestabelecidas no momento em que for favorável o cenário epidemiológico (fl. 409).
+ ..
+Somente em 22/04/2021, na Portaria Nº 1181/PR/2021, fora determinado que os processos físicos em tramite na segunda instancia, retomaram os prazos processuais em 22/04/2021, veja Sr. Ministro fl. 410).
+ ..
+Resta demonstrado e comprovado a tempestividade do recurso de Agravo interposto, uma vez que diante do cenário epidemiológico enfrentado por todo o mundo, não se viu outra saída senão a suspensão dos prazos processuais, estando tempestivo a interposição do Agravo contra decisão denegatória de Recurso Especial, em 28/09/2020.
+Aduz ainda que:
+Ademais, fora determinado pelo Sr. Ministro que, caso exista fixação de honorários, que o mesmo seja majorado no importe de 15% sobre valor já arbitrado (fl. 410).
+ ..
+Ocorre que, com a demonstração da tempestividade do recurso de Agravo interposto, a majoração fixada não deve permanecer, uma vez que a decisão recorrida deve ser modificada em todos os seus termos, integralmente (fl. 411).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Quanto à tempestividade do recurso, o que define a aplicação do CPC de 2015 é a data de intimação do decisum recorrido, que, no presente caso, ocorreu na vigência do novo código.
+Nos termos do Enunciado Administrativo n. 3 do STJ, "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC", em observância ao princípio do tempus regit actum, ou seja, ao presente caso aplicam-se as regras do CPC de 2015.
+Assim, no código atual, o prazo para a interposição de agravo e de recurso especial é de 15 dias úteis, nos termos do art. 219, caput, c/c os arts. 994, VI e VIII, 1.003, § 5º, 1.029 e 1.042, caput, todos do CPC.
+Na vigência do CPC de 1973, a jurisprudência admitia a comprovação posterior da tempestividade. (AgInt no AREsp 1576616/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 26/5/2020; e EDcl no AgInt no AREsp 1008329/SP, relator Ministro Francisco Falcão, Segunda Turma, DJe de 9/9/2019.)
+Todavia, esse entendimento não subsiste em razão de disposição expressa do CPC vigente, cujo art. 1.003, § 6º, dispõe que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso", ou seja, a novel legislação vedou expressamente a possibilidade de comprovação posterior da tempestividade, devendo o documento apto a comprová-la ser juntado aos autos no momento da interposição do recurso.
+A propósito, confira-se este precedente:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. FERIADO LOCAL. COMPROVAÇÃO. ATO DE INTERPOSIÇÃO DO RECURSO. 1. O propósito recursal é dizer, à luz do CPC/15, sobre a possibilidade de a parte comprovar, em agravo interno, a ocorrência de feriado local, que ensejou a prorrogação do prazo processual para a interposição do agravo em recurso especial.
+2. O art. 1.003, § 6º, do CPC/15, diferentemente do CPC/73, é expresso no sentido de que "o recorrente comprovará a ocorrência de feriado local no ato de interposição do recurso".
+3. Conquanto se reconheça que o novo Código prioriza a decisão de mérito, autorizando, inclusive, o STF e o STJ a desconsiderarem vício formal, o § 3º do seu art. 1.029 impõe, para tanto, que se trate de "recurso tempestivo". 4. A intempestividade é tida pelo Código atual como vício grave e, portanto, insanável. Daí porque não se aplica à espécie o disposto no parágrafo único do art. 932 do CPC/15, reservado às hipóteses de vícios sanáveis.
+5. Seja em função de previsão expressa do atual Código de Processo Civil, seja em atenção à nova orientação do STF, a jurisprudência construída pelo STJ à luz do CPC/73 não subsiste ao CPC/15: ou se comprova o feriado local no ato da interposição do respectivo recurso, ou se considera intempestivo o recurso, operando-se, em consequência, a coisa julgada.
+6. Agravo interno desprovido. (AgInt no AREsp n. 957.821/MS, relatora para o acórdão Ministra Nancy Andrighi, Corte Especial, DJe de 19/12/2017.)
+O STJ firmou o entendimento de que a ocorrência de feriado local, recesso, paralisação ou interrupção de expediente forense deve ser demonstrada no ato de interposição do recurso, por meio de documento oficial ou certidão expedida pelo tribunal de origem, não bastando a mera menção ao feriado local nas razões recursais, tampouco a apresentação de documento não dotado de fé pública. Nesse sentido, AgInt nos EDcl no AREsp 1553768/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 27/4/2020; e AgInt nos EDcl no AREsp 1379051/SP, relator Ministro Sérgio Kukina, Primeira Turma, DJe de 3/10/2019.
+Ressalte-se que, em razão da pandemia relativa à COVID-19, os prazos processuais foram suspensos no período de 19/3/2020 a 14/6/2020, conforme Resoluções do CNJ n. 313/2020 e 322/2020, voltando a fluírem, para os processos físicos, em 15/6/2020. Desse modo, a suspensão dos prazos, no Tribunal de origem, fora do período mencionado, deveria ter sido comprovada no momento da interposição do recurso.
+Quanto aos honorários advocatícios, conforme dicção do Enunciado Administrativo n. 7 deste Superior Tribunal de Justiça, "somente nos recursos interpostos contra decisão publicada a partir de 18 de março de 2016, será possível o arbitramento de honorários sucumbenciais recursais, na forma do art. 85, § 11, do novo CPC".
+Ademais, o Código de Processo Civil vigente, ao prever o instituto da majoração dos honorários advocatícios em razão do julgamento de recurso, condicionou sua aplicação, aos processos cíveis, desde que haja prévia fixação de honorários pela instância a quo.
+Observe-se que não há omissão uma vez que o dispositivo da decisão embargada é claro no sentido de que somente serão majorados se houver "prévia fixação de honorários de advogado pelas instâncias de origem". Assim, a contrario sensu, como não houve prévia fixação, não haverá, também, majoração.
+Ademais, a jurisprudência do Superior Tribunal de Justiça é firme no sentido de ser incabível a condenação ao pagamento de honorários advocatícios em sede de agravo de instrumento, objeto do recurso especial.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. SÚMULA N. 83 DO STJ. DECISÃO MANTIDA.
+1. É devida a majoração da verba honorária sucumbencial, na forma do art. 85, § 11, do CPC/2015, quando estiverem presentes os seguintes requisitos, simultaneamente: a) decisão recorrida publicada a partir de 18.3.2016, quando entrou em vigor o novo Código de Processo Civil; b) recurso não conhecido integralmente ou desprovido, monocraticamente ou pelo órgão colegiado competente; e c) condenação em honorários advocatícios desde a origem no feito em que interposto o recurso.
+2. Segundo a jurisprudência desta Corte, não cabem honorários recursais nos recursos de agravo de instrumento. Precedentes.
+3. A Súmula n. 83 do STJ aplica-se aos recursos especiais interpostos com fundamento tanto na alínea "c" quanto na alínea "a" do permissivo constitucional.
+4. Agravo interno a que se nega provimento.
+(AgInt no REsp 1850535/SP, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 24/04/2020.)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DO ART.1.021, § 1º, DO CPC/2015. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE.PRECLUSÃO CONSUMATIVA. AGRAVO INTERNO IMPROVIDO.
+1. Cabe à parte agravante, nas razões do agravo interno, trazer argumentos suficientes para contestar a decisão agravada. A ausência de fundamentos válidos para impugnar a decisão proferida no agravo em recurso especial atrai a aplicação do disposto no art. 1.021, § 1º, do Código de Processo Civil de 2015.
+2. Não tendo a insurgente refutado os fundamentos da decisão de inadmissibilidade no momento processual oportuno, não cabe fazê-lo no âmbito do agravo interno, considerada a preclusão consumativa operada pela interposição do recurso antecedente.
+3. Não é cabível a fixação de honorários recursais, in casu, porquanto, além de não ter sido fixada tal verba nas instâncias ordinárias, a ação que originou o presente recurso especial é agravo de instrumento, sendo inaplicável o art. 85, § 11, do CPC/2015, diante da disposição prevista no art. 25 da Lei 12.016/2009. Precedente.
+4. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1505380/SP, relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe de 05/11/2019.)
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
