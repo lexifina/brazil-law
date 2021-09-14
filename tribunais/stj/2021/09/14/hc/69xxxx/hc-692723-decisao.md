@@ -1,0 +1,40 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de EWERTON HENRIQUE DE MELO BRAZ contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE DE SÃO PAULO, proferido no Agravo em Execução n. 0005086-39.2021.8.26.0996(fls. 13-15).
+O Juízo da Execução deferiu a progressão de regime do ora paciente ao semiaberto. Interposto agravo em execuçãopelo Ministério Público, o Tribunal deu provimento ao recursopara cassar a decisão e determinar a realização do exame criminológico.
+No presente writ, a impetrante sustenta, em síntese, que o pacientenão possui falta disciplinar pendente de reabilitação eostenta bom comportamento carcerário, atestado pelo diretor do estabelecimento prisional, estandopreenchido o requisito subjetivo.
+Requer, em liminar e no mérito, a concessão da ordem para a progressão ao regime semiaberto, com a dispensa do exame criminológico.
+É o relatório.
+Decido.
+Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal, esta Corte não admite habeas corpus substitutivo de recurso próprio, porém ressalta a possibilidade de concessão da ordem de ofício se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+Na hipótese dos autos, a controvérsia diz respeito ao preenchimento do requisito subjetivo necessário à concessão ao paciente da progressão do regime fechado para o semiaberto.
+Ao reformar a decisão do Juízo da Execução que havia deferido a progressão ao regime semiaberto, asseverou o Tribunal a quo:
+" ..
+Ainda que a longa pena por cumprir (09 anos, 02 meses e 11 dias de reclusão, com TCP a se encerrar em 10.11.2025 fl.33) e a gravidade abstrata dos crimes praticados (vários furtos qualificados fl. 37) não possam determinar, por si sós, a realização do exame criminológico, cediço que o atestado de bom comportamento carcerário não é capaz de sinalizar aspectos sociais e psicológicos de forma inequívoca.
+Anote-se que se trata de sentenciado reincidente que, durante a execução da pena, praticou três faltas disciplinares de natureza grave (fls. 37/8), sem falar que agraciado anteriormente com a progressão a regime, não honrou a confiança que lhe depositou o Estado, deixando de retornar ao estabelecimento prisional, quando da concessão de saída temporária (fl. 35).
+Então, de rigor, no caso, cuidadosa análise antes da efetiva reintegração do reeducando ao corpo social, mostrando-se temerária a concessão da benesse sem a realização do exame criminológico, nos termos da Súmula 439 do C. Superior Tribunal de Justiça.
+O legislador, dentro de sua discricionariedade, alterou os critérios de execução penal, não ficando o magistrado adstrito ao parecer administrativo da unidade prisional, podendo, de acordo com o caso concreto, ser solicitada a realização do exame criminológico para melhor aferição do mérito do preso, como ora se faz necessário, devendo, para tanto, aguardar, o sentenciado, a conclusão da avaliação pertinente no regime prisional fechado.
+Diante do exposto, dá-se provimento ao agravo do MINISTÉRIO PÚBLICO para, cassada a decisão agravada e voltando o recorrido ao regime anterior (fechado), determinar-se a realização do exame criminológico, com vistas à reanálise do pedido" (fls. 14/15).
+Embora a alteração legislativa produzida pela Lei n. 10.792/2003, no art. 112 da Lei n. 7.210/84 (Lei de Execução Penal - LEP), tenha suprimido a referência expressa ao exame criminológico como requisito à progressão, esta Corte consolidou entendimento no sentido de que o Magistrado pode, de forma fundamentada, exigir a sua realização.
+Nessa esteira, editou-se o enunciado n. 439 da Súmula do Superior Tribunal de Justiça - STJ, in verbis:
+"Admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada".
+A fundamentação deve estar relacionada a algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena.
+Na hipótese dos autos, o acórdão baseou-se, dentre outros elementos,no histórico prisional do apenado, ressaltando-se a presença de registro de três infrações disciplinares de natureza grave, consubstanciando fundamento idôneo para exigir a realização do exame. Cumpre, também, ressaltar que não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado. Nesse sentido, confiram-se os seguintes julgados desta Corte:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. NECESSIDADE DE REALIZAÇÃO DE EXAME CRIMINOLÓGICO.
+PRÁTICA DE FALTAS GRAVE E MÉDIA NO CURSO DA EXECUÇÃO DA PENA.
+AUSÊNCIA DO REQUISITO SUBJETIVO. ALTERAÇÃO DE ENTENDIMENTO.
+REVOLVIMENTO FÁTICO-PROBATÓRIO. PRECEDENTES.
+1. Para a concessão do benefício do livramento condicional, deve o reeducando preencher os requisitos de natureza objetiva e subjetiva.
+2. Não é vedado ao órgão julgador determinar a submissão do apenado ao exame criminológico, desde que o faça de maneira fundamentada, em estrita observância à garantia constitucional de motivação das decisões judiciais, expressa no art. 93, IX, bem como à própria previsão do art. 112, § 1º, da Lei de Execução Penal: "A decisão será sempre motivada e precedida de manifestação do Ministério Público e do defensor." 3. Esse entendimento se encontra-se sedimentado neste Superior Tribunal de Justiça por meio da Súmula 439, in verbis: "admite-se o exame criminológico pelas peculiaridades do caso, desde que em decisão motivada." 4. No caso dos autos, muito embora o paciente tenha alcançado o requisito objetivo, verifica-se a ausência demonstração do cumprimento do subjetivo, em face do histórico prisional conturbado (cometimento de faltas disciplinares de natureza grave e média), de modo que não se verifica constrangimento ilegal na exigência de realização de exame criminológico, para fins de concessão do livramento condicional.
+5. "As faltas graves praticadas pelo apenado durante todo o cumprimento da pena, embora não interrompam a contagem do prazo para o livramento condicional, justificam o indeferimento do benefício por ausência do requisito subjetivo.  ..  Não se aplica limite temporal à análise do requisito subjetivo, devendo ser analisado todo o período de execução da pena, a fim de se averiguar o mérito do apenado" (HC 564.292/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 16/6/2020, DJe 23/6/2020).
+6. No tocante à nova redação dada ao inciso III do artigo 83 do CPB, esta Corte Superior se posiciona no sentido de que o requisito relativo ao não cometimento de falta grave nos últimos 12 (doze) meses é pressuposto objetivo para a concessão do livramento condicional, não limitando a apreciação do requisito subjetivo necessário ao deferimento do benefício, "inclusive quanto a fatos ocorridos antes da entrada em vigor da Lei Anticrime" (HC 612.296/MG, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 20/10/2020, DJe 26/10/2020).
+7. Para alterar a decisão, nos moldes em que pleiteia a defesa, seria imprescindível adentrar o conjunto fático-probatório dos autos, sendo isso um procedimento incompatível com a estreita via do writ.
+8. Agravo regimental desprovido.
+(AgRg no HC 639.495/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 17/08/2021).
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME/LIVRAMENTO CONDICIONAL. PRÉVIO EXAME CRIMINOLÓGICO.
+FUNDAMENTAÇÃO CONCRETA. SÚMULA N. 439 DO SUPERIOR TRIBUNAL DE JUSTIÇA  STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo denegou a ordem na origem, mantendo a decisão que determinou a prévia realização de exame criminológico, sob o fundamento de que o apenado ostenta "diversas faltas disciplinares de natureza grave em seu desfavor, a última delas com reabilitação prevista apenas para 12 de novembro de 2022". Inteligência da Súmula n. 439/STJ.
+2. Agravo regimental desprovido.
+(AgRg no HC 632.422/SP, por mim relatado, QUINTA TURMA, DJe 05/04/2021).
+Ante o exposto, não conheço do habeas corpus.
+Publique-se.
+Intimações necessárias.
