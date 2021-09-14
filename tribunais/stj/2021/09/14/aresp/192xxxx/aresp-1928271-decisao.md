@@ -1,0 +1,55 @@
+DECISÃO
+Trata-se de agravo de decisão que não admitiu recurso especial do Estado de Alagoas, fundado na alínea "a" do permissivo constitucional e interposto contra acórdão do Tribunal de Justiça do Estado de Alagoas, assim ementado:
+APELAÇÃO CÍVEL EM MANDADO DE SEGURANÇA. DIREITOTRIBUTÁRIO.SUSPENSÃO DA INSCRIÇÃO ESTADUAL. SANÇÃO DESPROPORCIONAL.IMPOSSIBILIDADE DE OBSTAR O EXERCÍCIODA ATIVIDADEEMPRESARIAL. AUSÊNCIA DE APRESENTAÇÃO DO PROCEDIMENTOADMINISTRATIVO. CAUSA DE PEDIR QUE NÃO SE CONFUNDE COM OPLEITO DE DESONERAÇÃO NA SISTEMÁTICA DALEI N. 6.410/2003. REGIMEDIFERENCIADO DE TRIBUTAÇÃO. CARÁTER FACULTATIVO.DISCRICIONARIEDADE DA ADMINISTRAÇÃO TRIBUTÁRIA. NÃOCOMPROVAÇÃO DEPREENCHIMENTO DOS REQUISITOS LEGAIS.AUSÊNCIA DE DIREITO LÍQUIDO E CERTO E ILEGALIDADE QUEJUSTIFIQUE A INTERVENÇÃO DO PODER JUDICIÁRIO NESTE PONTO.RECURSO CONHECIDO E PARCIALMENTE PROVIDO.
+Opostos embargos de declaração, foram eles rejeitados.
+No recurso especial, orecorrente alega violação dos seguintes dispositivos: a) art. 1.022 do Código de Processo Civil, sustentando que o acórdãorecorridopadece de omissão; b) art. 6º, § 1º, da Lei n. 12.016/09, aduzindo que o impetrante deixou de apresentar os documentos indispensáveis ao processamento da lide; c) arts. 6º, 80, VII, 81 e 1.026, § 2º, do Código de Processo Civil, argumentando que ausência de caráter procrastinatório nos embargos de declaração.
+Houve contrarrazões (e-STJ fls. 437/444).
+Sobreveio juízo negativo de admissibilidade pela incidência da Súmula n. 7/STJ.
+Insurge-se a parte agravante contra essa decisão, afirmando que, ao contrário do que supõe o juízo de admissibilidade, o recurso especial possui condições de admissão.
+Houve contraminuta pela parte agravada (e-STJ fls. 492/501).
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O agravante impugnou o fundamento adotado na decisão de inadmissibilidade, razão pela qual, passo a análise do recurso especial.
+Cuida-se, na origem, de mandado de segurança impetrado pela ora recorrida pleiteando o retorno da situação regular da sua inscrição estadual, com a emissão e o recebimento de notas fiscais, bem como a desoneração da sistemática da Lei n. 6.410/03, para possibilitar o livre exercício daatividade empresarial.
+A insurgência não merece prosperar.
+Preliminarmente, sustenta-se que o aresto combatido deixou de enfrentar os pontos suscitados em sede de declaratórios, quais sejam: (i) a ausência de caráter protelatório dos embargos; e (ii) o ônus de apresentação do processo administrativo era do impetrante, uma vez que o mandado de segurança exige prova pré-constituída.
+Da leitura do acórdão que julgou os aclaratórios entendo que as questões foram devidamente analisadas.
+Colaciono excerto relevante (e-STJ fls.238/240):
+11 Noutro giro, não houve qualquer afronta ao princípio da não surpresa(art. 99 e 10 do CPC) ou "redistribuição" do encargo probatório. No caso em exame, apartir dar regras gerais insertas no art. 373, do CPC:
+Art. 373. O ônus da prova incumbe:
+I- ao autor, quanto ao fato constitutivo de seu direito;
+II - ao réu, quanto à existência de fato impeditivo, modificativo ouextintivo do direito do autor.
+12 Assim, verifica-se que, ficou demonstrado o direito líquido e certo doimpetrante em ter restabelecida a sua inscrição estadual, com fulcro no direitoconstitucional ao livre exercício da atividade econômica, o que, como alhuresconsignado, é reforçado por entendimento sumular do STF que indica a impossibilidadede aplicação de sanções que inviabilizam ou dificultam o livre exercício da atividadecomercial pelo contribuinte, como ocorreu no caso em tela - Súmula 70 e Súmula 323.
+13 No que toca a consignação de ausência de apresentação de cópia doprocedimento administrativo indicado, extrai-se que constitui mero reforçoargumentativo, que não indica violação ao teor dos art. 9a e 10 do CPC, muito menosconstitui modificação do ônus probatório.
+ ..
+16 Destarte, da simples análise das razões recursais, constata-se o meroinconformismo dos embargantes, numa mera tentativa de reexaminar ajustiça dojulgado, o que não se admite na estreita via dos embargos de declaração.
+17 Assim, diante do nítido intuito protelatório dos presentes embargos dedeclaração, que objetivam rediscutir matéria já decidida em sede recursal e confirmadaem sede de embargos declaratórios, aplico multa de R$ 100,00 (cem reais), nos termosdo art. 1.026, $2º, do CPC.
+18 Fica, desde já, a embargante alertada que a oposição de novos embargos
+de declaração com o mesmo conteúdo poderá ensejar a elevação da multa, nos termos doart. 1.026, $3º, do CPC, o que condicionará a interposição de qualquer outro recurso aodepósito do valor respectivo.
+19 Por fim, uma vez que constatado intuito meramente protelatório dorecurso, incide no caso o teor do inciso VII, do art. 80, do CPC, no sentidode que"Considera-se litigante de má-fé aquele que:  ..  VII - interpuser recurso com intuitomanifestamente protelatório", motivo pelo qual se revela aplicável, ainda, a multaprevista no art. 81, do mesmo diploma.
+20 É de se ressaltar que, nos termos da jurisprudência do Superior Tribunalde Justiça, em sede de recurso repetitivo - tema 507 - "A multa prevista noartigo 538,parágrafo único", do Código de Processo Civil tem caráter eminentementeadministrativo - punindo conduta que ofende a dignidade do tribunal e a função públicado processo -, sendo possível sua cumulação com a sanção prevista nos artigos 17, IIe 18, § 2-4, do Código de ProcessoCivil, de natureza reparatória"
+21 Neste contexto, diante do intuito protelatório deste recurso, conforme alhures consignado, bem como em atenção ao pleito formulado em sede de contrarrazões, aplico, também, multa de R$ 100,00 (cem reais), nos termos do art. 81, do CPC/2015.
+Assim, verifico que ambas as matérias foram devidamente analisadas, embora em sentido contrário à pretensão recursal.
+Afasto a preliminar de negativa de prestação jurisdicional.
+No mérito, melhor sorte não assiste a parte.
+Com relação à ofensa ao art.6º, § 1º, da Lei n. 12.016/09, verifico que o dispositivo não foi alvo das discussões travadas na origem, uma vez que a questão foi analisada na origem à luz do art. 373 do CPC. Por essa razão, no ponto, o especialcarece de necessário prequestionamento (Súmula n. 211/STJ).
+Exemplificativamente, cito:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. FALTA PARCIAL DE PREQUESTIONAMENTO. SÚMULA 211/STJ. MANDADO DE SEGURANÇA. DIREITO LÍQUIDO E CERTO CONFIGURADO. DEMORA DO INSS. BENEFÍCIO ASSISTÊNCIAL.
+1. A indicada afronta ao art. 41-A da Lei 8.213/1991 e aos arts. 393 e 396 do CC não pode ser analisada, pois o Tribunal de origem não emitiu juízo de valor sobre esses dispositivos legais. O Superior Tribunal de Justiça entende ser inviável o conhecimento do Recurso Especial quando os artigos tidos por violados não foram apreciados pelo Tribunal a quo, a despeito da oposição de Embargos de Declaração, haja vista a ausência do requisito do prequestionamento.Incide, na espécie, a Súmula 211/STJ.
+2. O Tribunal de origem consignou que "o requerimento administrativo foi formulado em 29.7.2019, tendo a parte impetrante protocolado a ação mandamental em 4.12 .2019 , de modo que resta configurada a demora por parte do INSS na análise do requerimento de concessão de benefício assistencial à pessoa com deficiência." Portanto, mesmo que se leve em consideração a "situação excessiva de trabalho nas agências do INSS", não é permitido à autarquia previdenciária obrigar o recorrido a "aguardar por tempo indeterminado" uma manifestação no processo administrativo, em descompasso com o prazo legal.
+3. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1935324/PB, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 22/06/2021, DJe 03/08/2021)
+Por fim, com relação à multa, a jurisprudência desta Corte Superior é firme no sentido de que rever o entendimento do aresto combatido exigiria revolvimento do acervo fático-probatório dos autos, providência inviável a teor da Súmula n. 7/STJ.
+No mesmo sentido:
+PROCESSUAL CIVIL E ADMINISTRATIVO. RECURSO ESPECIAL. ACÓRDÃO RECORRIDO. OMISSÕES. FUNDAMENTAÇÃO DEFICIENTE. AUSÊNCIA DE PREQUESTONAMENTO. SÚMULA 282/STF. SERVIDOR PÚBLICO. CONDENAÇÃO CONTRA A FAZENDA PÚBLICA. ÍNDICES DE CORREÇÃO MONETÁRIA. ART. 1º-F DA LEI N. 9.494/1997. RECURSO ESPECIAL REPETITIVO N. 1.495.146/MG.EMBARGOS DE DECLARAÇÃO. MULTA. SÚMULA 7/STJ.
+1. É deficiente a assertiva genérica de violação dos arts. 489 e 1.022 do CPC, configurada quando o jurisdicionado não expõe objetivamente os pontos supostamente omitidos pelo Tribunala quoe não comprova ter questionado as suscitadas falhas nos embargos de declaração. Incidência da Súmula 284/STF.
+2. Os arts. 26 e 27 da Lei n. 9.868/1999 não serviram de embasamento a qualquer juízo de valor emitido na origem, carecendo do necessário prequestionamento. Incidência da Súmula 282/STF.
+3. A Primeira Seção desta Corte Superior, reexaminando a questão relativa à aplicação do art. 1º-F da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009, após a decisão do Supremo Tribunal Federal no RE 870.947/SE, estabeleceu que as condenações judiciais referentes a servidores e empregados públicos se sujeitam aos seguintes encargos: "(a) até julho/2001: juros de mora: 1% ao mês (capitalização simples); correção monetária: índices previstos no Manual de Cálculos da Justiça Federal, com destaque para a incidência do IPCA-E a partir de janeiro/2001; (b) agosto/2001 a junho/2009: juros de mora: 0,5% ao mês; correção monetária: IPCA-E;
+(c) a partir de julho/2009: juros de mora: remuneração oficial da caderneta de poupança; correção monetária: IPCA-E." 4. O Supremo Tribunal Federal, no julgamento de embargos de declaração no RE 870.947/SE, rejeitou a possibilidade de modulação dos efeitos do julgado.
+5. A análise do art. 1.026, § 2º, do CPC/2015, que trata da penalidade por oposição de embargos de declaração protelatórios, demanda reexame do acervo fático-probatório dos autos. Incidência da Súmula 7/STJ.
+6. Recurso especial parcialmente conhecido e, nessa extensão, não provido.
+(REsp 1931702/SP, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 03/08/2021, DJe 17/08/2021)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art. 253, parágrafo único, II, b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO CONFIGURAÇÃO. ÔNUS DA PROVA. DISPOSITIVO NÃO PREQUESTIONADO. SÚMULA N. 211/STJ. EMBARGOS DE DECLARAÇÃO PROCRASTINATÓRIOS. MULTA. SÚMULA N. 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E NEGAR-LHE PROVIMENTO.
