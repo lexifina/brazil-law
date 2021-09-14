@@ -1,0 +1,15 @@
+DECISÃO
+FERNANDO LUIZ DA COSTAformula pedido de reconsideração da decisão de fls. 16-17,que indeferiu liminarmente o habeas corpus impetrado em seu favor, no qual fora indicado como autoridades coatoras a Juíza da Vara do Tribunal do Júri da Comarca de Olinda (PE) e o Tribunal de Justiça do Estado Pernambuco (Processo n. 000439-35.2002.8.17.0990 e HC 0000439-35.2002.8.17.0990, respectivamente).
+O habeas corpus foi indeferido liminarmente, por não ter sido juntada aosautos. dentre outros, a cópia integral da sentença de pronúncia e do acórdão proferido no recurso em sentido estrito.
+No pedido de reconsideração (fls. 19-57), a defesa apresentou informações processuais extraídos do site particular "JusBrasil" e requereu o conhecimento, processamento e, por fim, aconcessão da ordem nos termos dainicial.
+É o relatório. Decido.
+Como relatado, o habeas corpusfoi indeferido liminarmente, tendo em vista que não foram juntados documentos hábeis à confirmar o alegado constrangimento ilegal.
+Por meio do pedido de reconsideração, também não foram juntadas cópias das peças originais constantes dos autos dos processos originário e, sim, informações coletadas no site "JusBrasil"acerca do Processo n. 000439-35.2002.8.17.0990.
+Em que pese o conhecido trabalho prestado pela startup "JusBrasil", facilitando o acesso a informações principalmente a advogados, o certo é que se trata de empresa privada e que não tem vínculo com qualquer órgão público.
+O rito do habeas corpus demanda prova documental pré-constituída do direito pleiteado pela parte, ressalvados os casos em que o paciente não seja assistido por defesa técnica, o que não é o caso dos autos.
+A propósito, o Supremo Tribunal Federal firmou entendimento de que "constitui ônus do impetrante instruir adequadamente o writ com os documentos necessários ao exame da pretensão posta em juízo" (HC nQ 95.434/SP, Primeira Turma, Relator o Ministro Ricardo Lewandowski, DJe de 2/10/09).
+No mesmo sentido: HC n.100.994/SP, Segunda Turma, Relatora a Ministra Ellen Grade, DJe de 6/8/10.
+Ademais, a jurisprudência daSuprema Corte é firme nosentido de inadmitir o conhecimento de habeas corpus, não instruídos osautos com as peças necessárias à confirmação da efetiva ocorrência doconstrangimento ilegal (HC 170.068-AgR/SP, Rei. Min. Cármen Lúcia, 1ªaTurma, DJe 01.8.2019; HC 166.543-AgR, Rei. Min. Luiz Fux, 1ªTurma, DJe08.5.2019; HC 154.451-AgR/SP, Rei. Min. Roberto Barroso, 1ªa Turma, DJe15.3.2019; HC 154.828-AgR/MG, Rei. Min. Luiz Fux, DJe 24.10.2018; HC 136.718-AgR/MS, Rel. Min. Roberto Barroso, 1ªTurma, DJe 17.02.2017; HC138.399-AgR/SP, Rei. Min. Dias Toffoli, 2ªTurma, DJe 22.02.2017).
+Faço esse registro para reiterar que a deficiência da instrução dowritpersiste, hajavista que as informações juntadas no pedido de retratação não são hábeis à comprovação do alegado na petição inicial, por não se tratar de cópia de peça constante dos autos originários (ação penal e recurso em sentido estrito) e, sim, meros dados coletados por site particular.
+Ante o exposto,indefiro o pedido de retratação,semprejuízo de nova impetração devidamente documentada.
+Publique-se. Intimem-se.
