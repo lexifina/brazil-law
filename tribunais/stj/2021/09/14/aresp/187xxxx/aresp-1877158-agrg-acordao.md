@@ -1,0 +1,75 @@
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA USO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. No que tange ao pleito de absolvição ou desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas (56,59 gramas de "crack"), mas também diante da prova testemunhal.
+2. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição ou desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Ademais, esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese. Precedentes.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por RAIMUNDO NONATO OLIVEIRA NETO (e-STJ, fls. 505-515) contra a decisão de fls. 499-501 (e-STJ), proferida pelo Ministro Presidente Humberto Martins, que conheceu do agravo para não conhecer do recurso especial.
+O agravante sustenta que não haveria prova suficiente para a condenação, ou mesmo que seria o caso de desclassificação do tráfico de entorpecentes para consumo pessoal, aduzindo que não seria necessário reexame fático-probatório.
+Alega que, além de não ser reincidente específico, "Não há nos autos depoimentos de policiais, de testemunhas ou outras provas concretas e inequívocas de comercialização de substâncias proibidas que possam atestar a prática do delito de tráfico de drogas, a quantidade de drogas apreendidas é ínfima, além de que não foi apreendido apetrecho, tais como cadernetas com registros, balança de precisão, calculadora, quais são objetos de costume utilizados para a destinação mercantil" (e-STJ, fl. 511).
+Requer a reconsideração da decisão agravada ou a submissão do feito à Quinta Turma.
+O Ministério Público Federal opina pelo desprovimento do agravo regimental (e-STJ, fls. 524-530).
+É o relatório.
+EMENTA
+PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. PEDIDO DE ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA USO DE DROGAS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. AGRAVO DESPROVIDO.
+1. No que tange ao pleito de absolvição ou desclassificação da conduta para o delito do art. 28 da Lei n. 11.343/2006, o acórdão combatido, ao manter a condenação pelo tráfico de drogas, consignou que o conjunto probatório aponta para a prática do crime, não somente em razão das substâncias apreendidas (56,59 gramas de "crack"), mas também diante da prova testemunhal.
+2. Assim, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição ou desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+3. Ademais, esta Corte tem entendimento firmado de que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese. Precedentes.
+4. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A irresignação não merece guarida.
+Observa-se que o agravante não trouxe argumentos suficientemente capazes de infirmar o decisum agravado, motivo pelo qual o mantenho por seus próprios fundamentos.
+Conforme consignado na decisão agravada, no que toca ao pedido de absolvição ou desclassificação da conduta, não assiste razão ao recorrente, haja vista que o Tribunal a quo, soberano na análise dos elementos fáticos e probatórios dos autos, concluiu que restou devidamente comprovada a autoria do crime de tráfico de drogas.
+A propósito, confira-se o seguinte trecho extraído da sentença condenatória (e-STJ, fls. 324-326, grifou-se):
+"DA MATERIALIDADE
+A materialidade do delito se vê confirmada  ..  onde os experts concluíram que trata-se de substância denominada "metil-benzoilecgonina, princípio ativo Erythroxlon coca (cocaína), que na forma sólida é conhecida como Crack", na quantidade de 56,59 g.
+DA AUTORIA
+No que tange à autoria delitiva, o acusado confessou perante autoridade policial ter a posse da substância entorpecente, apesar de informar tratar-se de uma menor quantidade.
+A prova testemunhal foi firme no sentido de apontar o acusado como autor do crime apurado nestes autos.
+ ..
+As narrativas dos policiais militares apresentam verossimilhança no sentido de que possuíam informações de ser a casa do acusado um ponto de venda de drogas, além do mais, no momento em que adentraram o ponto comercial do acusado, o mesmo, empreendeu fuga, sendo capturado, e, por conseguinte, apreendida a droga dentro de uma "caixa de gordura".
+Além do mais, não seria crível a agentes do Estado apontarem de forma injusta a autoria de um crime a um terceiro inocente sem o mínimo de plausibilidade.
+Em seu interrogatório, indagado por este juízo, ao tempo da primeira instrução, o acusado apresentou inúmeras controvérsias quanto ao manuseio, e uso de substâncias entorpecentes, o que rechaça a tese de desclassificação para o delito previsto no art. 28 da Lei 11.343/06."
+O aresto impugnado, por sua vez, asseverou (e-STJ, fls. 422-423):
+" ..  passo ao exame meritório da pretensão de desclassificação para o crime de posse de drogas para consumo pessoal.
+Como se sabe, a substância ilícita denominada por "crack" tem alto poder entorpecente, bastando, para consumo pessoal individual, pequenas doses, inferiores a 01 g (um grama).
+Além disso, o consumo pessoal da droga provoca dependência química imediata, fazendo com que o usuário perca sua capacidade de autodeterminação e controle, o que acarreta o consumo ininterrupto de tanto quanto possua. Em outras palavras, por não se tratar de droga "recreativa", os usuários de "crack" são incapazes de tê-la em depósito para consumo moderado ou diluído ao longo do tempo, o que revela conduta voltada à distribuição a terceiros.
+As circunstâncias pessoais do apelante também corroboram a traficância, dado que, foragido do sistema prisional, onde cumpria pena superior a quinze anos de reclusão pelo crime de roubo qualificado, o réu declarou, no momento da prisão, não possuir bens ou conta bancária, embora residisse em imóvel alugado, denotando a prática de traficância como forma de remuneração.
+Assim, é absolutamente inverossímil a tese de que a posse da droga se destinava a consumo pessoal, de modo que as circunstâncias fáticas conduzem ao reconhecimento da traficância,  .. ".
+Com efeito, quanto à pretensão de absolvição do delito do art. 33, caput, da Lei n. 11.343/2006, verifica-se que a prova testemunhal, somada ao conjunto probatório trazido como fundamento no acórdão impugnado, demonstra que o recorrente praticava o tráfico ilícito de entorpecentes.
+Destaca-se que o Superior Tribunal de Justiça já se manifestou que, "para a ocorrência do elemento subjetivo do tipo descrito no art. 33, caput, da Lei n. 11.343/2006, é suficiente a existência do dolo, assim compreendido como a vontade consciente de realizar o ilícito penal, o qual apresenta 18 (dezoito) condutas que podem ser praticadas, isoladas ou conjuntamente" (REsp 1.361.484/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 10/6/2014, DJe 13/6/2014).
+Vale anotar, ainda, que os depoimentos dos policiais responsáveis pela prisão em flagrante são meio idôneo e suficiente para a formação do édito condenatório, quando em harmonia com as demais provas dos autos, e colhidos sob o crivo do contraditório e da ampla defesa, como ocorreu na hipótese.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. ASSOCIAÇÃO PARA O TRÁFICO. ABSOLVIÇÃO. NECESSIDADE DE REVOLVIMENTO DO ACERVO FÁTICO-PROBATÓRIO. INCIDÊNCIA DA SÚMULA N. 7 DO STJ. DEPOIMENTO DE AGENTE POLICIAL COLHIDO NA FASE JUDICIAL. CONSONÂNCIA COM AS DEMAIS PROVAS. VALIDADE. RECURSO NÃO PROVIDO.
+1. As instâncias ordinárias, após toda a análise do conjunto fático-probatório amealhado aos autos, concluíram pela existência de elementos concretos e coesos a ensejar a condenação do ora agravante pelo crime de associação para o tráfico, de modo que, para se concluir pela insuficiência de provas para a condenação, seria necessário o revolvimento do suporte fático-probatório delineado nos autos, procedimento vedado em recurso especial, a teor do Enunciado Sumular n. 7 do Superior Tribunal de Justiça.
+2. São válidas como elemento probatório, desde que em consonância com as demais provas dos autos, as declarações dos agentes policiais ou de qualquer outra testemunha. Precedentes.
+3. Agravo regimental não provido." (AgRg no AREsp 875.769/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 7/3/2017, DJe 14/3/2017).
+"HABEAS CORPUS SUBSTITUTO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA. TRÁFICO INTERESTADUAL DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. ALEGAÇÃO DE INIDONEIDADE DAS PROVAS QUE ENSEJARAM A CONDENAÇÃO. TESTEMUNHAS POLICIAIS CORROBORADAS POR OUTROS ELEMENTOS DE PROVA. AUSÊNCIA DE ILEGALIDADE. CAUSA DE DIMINUIÇÃO DO ART. 33, § 4º, DA LEI N. 11.343/06. INCOMPATIBILIDADE. CONDENAÇÃO POR ASSOCIAÇÃO PARA O TRÁFICO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. DIREITO DE RECORRER EM LIBERDADE. INSTRUÇÃO DEFICIENTE. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. Não obstante as provas testemunhais advirem de agentes de polícia, a palavra dos investigadores não pode ser afastada de plano por sua simples condição, caso não demonstrados indícios mínimos de interesse em prejudicar o acusado, mormente em hipótese como a dos autos, em que os depoimentos foram corroborados pelo conteúdo das interceptações telefônicas, pela apreensão dos entorpecentes - 175 g de maconha e aproximadamente 100 g de cocaína -, bem como pelas versões consideradas pelo acórdão como inverossímeis e permeadas por várias contradições e incoerências apresentadas pelo paciente e demais corréus.
+3. É assente nesta Corte o entendimento no sentido de que o depoimento dos policiais prestado em juízo constitui meio de prova idôneo a resultar na condenação do paciente, notadamente quando ausente qualquer dúvida sobre a imparcialidade das testemunhas, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, fato que não ocorreu no presente caso (HC 165.561/AM, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 15/02/2016). Súmula n. 568/STJ.
+ ..
+8. Habeas corpus não conhecido." (HC 393.516/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 20/6/2017, DJe 30/6/2017).
+Dessa forma, para desconstituir o entendimento firmado pelo Tribunal de origem e concluir pela absolvição do recorrente, ou até mesmo pela desclassificação do crime de tráfico de drogas para o do artigo 28 da Lei n. 11.343/2006, seria necessário o revolvimento do conjunto fático-probatório, o que é vedado pela Súmula 7/STJ.
+Neste sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PLEITO DE DESCLASSIFICAÇÃO. SÚMULA 7/STJ. EXECUÇÃO PROVISÓRIA DA PENA PRIVATIVA DE LIBERDADE. IMPOSSIBILIDADE. NOVO ENTENDIMENTO DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL IMPROVIDO. INDEFERIDA A EXECUÇÃO PROVISÓRIA DA PENA.
+1. Concluindo o Tribunal de origem, soberano na análise probatória, pela efetiva participação do recorrente na prática do delito de tráfico de drogas, a alteração do julgado, para fins de desclassificação, demandaria revolvimento de provas, o que não se admite a teor da Súmula 7/STJ.
+2. Em recente julgado, o Pleno do Supremo Tribunal Federal, apreciando as ADCs 43, 44 e 54, firmou compreensão quanto à constitucionalidade do art. 283 do Código de Processo Penal, estando a citada regra em consonância com o princípio da presunção de inocência.
+3. Agravo regimental improvido e indeferida a execução provisória da pena."
+(AgRg no AREsp 1502199/SE, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 26/11/2019, DJe 03/12/2019).
+"PENAL. RECURSO ESPECIAL. TRÁFICO DE DROGAS. CONDENAÇÃO. ABSOLVIÇÃO OU DESCLASSIFICAÇÃO PARA USO. SÚMULA 7/STJ. VIOLAÇÃO DO § 4º DO ART. 33 DA LEI N. 11.343/2006. AUSÊNCIA DE FUNDAMENTAÇÃO IDÔNEA PARA O AFASTAMENTO. APLICAÇÃO DA CAUSA DE DIMINUIÇÃO DA PENA. QUANTIDADE E VARIEDADE DE DROGA. REGIME ABERTO E POSSIBILIDADE DE SUBSTITUIÇÃO. DESPROPORCIONALIDADE DO REGIME MAIS GRAVOSO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO.
+1. O Tribunal a quo manteve a condenação do acusado pelo crime de tráfico de entorpecentes. Rever tal conclusão, como requer a parte recorrente, no sentido da absolvição ou desclassificação da conduta para o crime do art. 28 da Lei n. 11.343/2006, demandaria o revolvimento de matéria fático-probatória, o que é inviável em sede de recurso especial, por força da incidência da Súmula n. 7/STJ.
+ ..
+5. Recurso especial parcialmente conhecido e, nessa parte, provido para aplicar o redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006, no patamar de 2/3, redimensionando a pena do envolvido para 1 ano e 8 meses de reclusão e 166 dias- multa, a ser cumprida em regime aberto, substituída a pena privativa de liberdade por duas restritivas de direitos, a serem fixadas pelo juízo da execução." (REsp 1838235/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 05/11/2019, DJe 18/11/2019).
+" ..
+DESCLASSIFICAÇÃO DA CONDUTA. ARTIGO 33 DA LEI N. 11.343/2006 PARA O ART. 28. IMPOSSIBILIDADE NO ÂMBITO RECURSAL. EMENTATIO LIBELLI. AUSÊNCIA DE PREQUESTIONAMENTO. NECESSIDADE DE REVOLVIMENTO DE FATOS E PROVAS. SÚMULA N. 7/STJ.
+ ..
+2. A apreciação do pleito de desclassificação do delito de tráfico de drogas para o previsto no art. 28, caput, da Lei n. 11.343/2006 demanda, conforme a jurisprudência do STJ, o revolvimento do acervo fático-probatório delineado nos autos, providência inviável no âmbito do recurso especial, ut Súmula n. 7/STJ.
+3. Agravo regimental não provido." (AgRg no REsp 1826640/RS, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 24/09/2019, DJe 25/10/2019).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
