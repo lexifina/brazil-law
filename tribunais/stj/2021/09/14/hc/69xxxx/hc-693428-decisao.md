@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de LUANA PATRÍCIA DA SILVA BEZERRA contra decisão liminar de Desembargador do Tribunal de Justiça do Estado do Mato grosso do Sul(HC n. 141445-96.2021.8.12.0000).
+Segundo consta dos autos, a paciente teve sua prisão preventiva decretada pela suposta práticados crimes previstos nos artigos 171 e 288, ambos do Código Penal, e artigo 12 da Lei n. 10.826/2003, (e-STJ fls. 24/29), sendo posteriormente condenada.
+Na ação originária, a defesa postulou a revogação da prisão preventiva, com substituição pela prisão domiciliar, em virtude da paciente ser mãede crianças menores de 12 anos.O Relator da ação na origem, contudo, indeferiu a liminar (e-STJ fls. 22/23).
+Nas razões da presente impetração, a defesa alega ausência de fundamentação válida para o decreto prisional, alegando ser mãe de crianças menores de 12 anos, que dependem exclusivamente dos seus cuidados.
+Afirma, que perdeu o contato com seu patrono, e "desde então não recebeu mais noticias do seu advogado anterior, assim sequer soube sobre audiência designada, contudo houve audiência de instrução e julgamento, estando a Paciente ausente, tendo esta constituído, este advogado, conforme fls. 2296/2300, dias após foi proferida a sentença de fls.2303/2436, tendo a Paciente vindo a ser condenada, foi interposto recurso de apelação nos termos do artigo 600, §4º do CPP, conforme fls. 2475"(e-STJ fl. 6).
+Diante disso, pede, em liminar e no mérito, a substituição da prisão preventiva, pela domiciliar, nos termos da norma processual, tudo com superação do enunciado n. 691/STF.
+É o relatório, decido.
+Com efeito, não se admite habeas corpus contra decisão que indefere liminar proferida em impetração originária, por configurar indevida supressão de instância, consoante dispõe o enunciado n. 691 da Súmula do Supremo Tribunal Federal.
+Em situações excepcionais, entretanto, como forma de garantir a efetividade da prestação jurisdicional nas situações de urgência, uma vez constatada a existência de flagrante ilegalidade, abuso de poder ou teratologia, é possível a superação do mencionado enunciado sumular (HC n. 318.415/SP, Relator Ministro REYNALDO SOARES DA FONSECA, Quinta Turma, julgado em 4/8/2015, DJe 12/8/2015).
+Diante do contexto informativo apresentado nos autos, o Relator da ação originária entendeu não haver ilegalidade manifesta, motivo pelo qual indeferiu a liminar declinando as seguintes razões (e-STJ fl. 23):
+ ..
+Para o deferimento da medida, é fundamental que o ato impugnado seja fatal, ou seja, que a questão de urgência traga uma situação irreparável a situação presente.
+In casu, quanto à análise do pedido liminar, tem-se que a parte impetrante não comprovou ser indispensável a medida cautelar, cujo pedido deverá ser analisando quando do julgamento do mérito, pois o trâmite do habeas corpus é célere o suficiente para aguardar a resolução da questão pela Câmara Criminal.
+Assim, não se verifica manifesta ilegalidade na decisão que justifique uma avaliação antecipada pelo Superior Tribunal de Justiça, com a superação do mencionado enunciado sumular da Suprema Corte. Entendo que as questões em exame necessitam de averiguação mais profunda pelo Tribunal de origem, que deverá apreciar a argumentação da impetração e as provas juntadas ao mandamus no momento adequado.
+Ante o exposto, com base no art. 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o pedido.
+Intimem-se.
