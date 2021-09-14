@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em benefício deElias Eder de Oliveira Pandinicontra o acórdão proferido pelo Tribunal de Justiça de São Paulonos autos da Apelação Criminal n.0001051-14.2017.8.26.0111(fls. 81/91), por meio do qual se requer a revisão da condenação do paciente àpena privativa de liberdade de 18 anos e8meses de reclusão, em regime inicial fechado, por incurso nos art. 121, § 2º, I e IV, do Código Penal(Processo n. 0001051-14.2017.8.26.0111,daVara Únicada comarca de Cajuru/SP).
+Solicitadas as informações, essas foram devidamente prestadas (fls. 103/104).
+Instado a se manifestar, o Ministério Público Federal opinou pelo não conhecimento do mandamus com determinação.Eis o resumo do parecer (fl. 140):
+HABEAS CORPUS. PEDIDO DE REVISÃO DA PENA. CONDENAÇÃO TRANSITADA EM JULGADO. COMPETÊNCIA DO TRIBUNAL DE JUSTIÇA ESTADUAL.Pelo não conhecimento do presente writ, com a determinação de encaminhamento de cópia dos autos ao Tribunal de Justiça do Estado de São Paulo e à Defensoria Pública do Estado de São Paulo para o eventual ajuizamento de pedido de revisão criminal em favor do paciente.
+É o relatório.
+Em se tratando de condenação transitada em julgado, conforme noticiado nas informações de fls. 103/104, o presente habeas corpus está sendo utilizado como sucedâneo de revisão criminal eexatamente por não existirneste Tribunaljulgamento de mérito passível de revisão em relação à condenação sofrida pelo paciente, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+Nesse sentido, confiram-se:
+PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO.DESACATO. PLEITOS DE ABSOLVIÇÃO, EXCLUSÃO DA REINCIDÊNCIA, FIXAÇÃO DO REGIME ABERTO E SUBSTITUIÇÃO DA PENA CORPORAL POR RESTRITIVA DE DIREITOS. MATÉRIAS NÃO APRECIADA E DECIDIDA PELA CORTE DE ORIGEM.SUPRESSÃO DE INSTÂNCIA. WRIT UTILIZADO COMO SUCEDÂNEO DE REVISÃO CRIMINAL. INVIABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO.HABEAS CORPUS NÃO CONHECIDO.
+I - A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+II - A via do writ somente se mostra adequada para a análise da dosimetria da pena quando não for necessária uma análise aprofundada do conjunto probatório e se tratar de flagrante ilegalidade, vale dizer: "o entendimento deste Tribunal firmou-se no sentido de que, em sede de habeas corpus, não cabe qualquer análise mais acurada sobre a dosimetria da reprimenda imposta nas instâncias inferiores, se não evidenciada flagrante ilegalidade, tendo em vista a impropriedade da via eleita" (HC n. 39.030/SP, Quinta Turma, Rel.Min. Arnaldo Esteves Lima, DJU de 11/4/2005).
+ ..
+IV - O exame das alegações do impetrante se mostra processualmente inviável, uma vez que transmuta o habeas corpus em sucedâneo de revisão criminal, já que transitada em julgado a condenação, configurando, assim, usurpação da competência do Tribunal de origem, nos termos dos arts. 105, I, "e" e 108, I, "b", ambos da Constituição Federal.
+Habeas corpus não conhecido.
+(HC n. 540.161/SP, Ministro Leopoldo deArrudaRaposo(Desembargador Convocado do TJPE), QuintaTurma, DJe 17/12/2019 - grifo nosso)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS.INSURGÊNCIA CONTRA ACÓRDÃO TRANSITADO EM JULGADO. MANEJO DO WRIT COMO REVISÃO CRIMINAL. DESCABIMENTO. ART. 105, INCISO I, ALÍNEA E, DA CONSTITUIÇÃO FEDERAL. AUSÊNCIA DE MANIFESTA ILEGALIDADE. PLEITO DE APLICAÇÃO DE MEDIDA COMPENSATÓRIA. MATÉRIA NÃO DEBATIDA PELO TRIBUNAL DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL. PENA SUPERIOR A 4 (QUATRO) ANOS E INFERIOR A 8 (OITO) ANOS DE RECLUSÃO.RÉU REINCIDENTE. REGIME INICIAL FECHADO. POSSIBILIDADE. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. AGRAVO DESPROVIDO.
+1. Não deve ser conhecido o writ que se volta contra sentença condenatória já transitada em julgado, manejado como substitutivo de revisão criminal, em hipótese na qual não houve inauguração da competência desta Corte. Nos termos do art. 105, inciso I, alínea "e", da Constituição Federal, compete ao Superior Tribunal de Justiça, originariamente, "as revisões criminais e as ações rescisórias de seus julgados". Precedentes da Quinta e Sexta Turmas do Superior Tribunal de Justiça.
+ ..
+3. Agravo regimental desprovido.
+(AgRg no HC n. 524.600/PR, Ministra Laurita Vaz, SextaTurma,DJe 21/2/2020 - grifo nosso).
+Ante o exposto, não conheço do habeas corpus e,com vistas à prestação jurisdicional, tenho como prudente a intimação da Defensoria Pública de São Paulopara o que couber.
+Publique-se.
+EMENTA
+HABEAS CORPUS. HOMICÍDIO QUALIFICADO.WRIT IMPETRADO CONTRA CONDENAÇÃO TRANSITADA EM JULGADO. SUCEDÂNEO DE REVISÃO CRIMINAL. INCOMPETÊNCIA DO STJ. AUSÊNCIA DE JULGAMENTO DE MÉRITO PASSÍVEL DE REVISÃO.INADMISSIBILIDADE.
+Writ não conhecido com recomendação.
