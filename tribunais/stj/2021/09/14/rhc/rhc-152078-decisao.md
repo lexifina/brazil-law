@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto por Wellington Farias Lopescontra o acórdão proferido pelo Tribunal de Justiça da Bahia (HC n.8014220-17.2021.8.05.0000 - fls. 79/111),que manteve incólume a segregação cautelar decretada pelo Juízo de primeiro grau, em razão da suposta prática do crimede roubo circunstanciado (Processo n. 0501101-65.2021.8.05.0001 - fls. 27/32).
+O recorrentealega falta de fundamentação idônea no decreto prisional.Aduz quenão estariam presentes os requisitos previstos no art. 312 do Código de Processo Penal. Assevera,em relação à pertinência subsidiária da prisão domiciliar, o quadro de vulnerabilidade de saúde é evidenciado no relatório médico subscrito pela médica do Conjunto Penal de Itabuna, demonstrando quadro de progressiva debilitação do réu, que já perdeu cerca de 20 kg, com nódulo de origem não identificada e suspeita de tuberculose (fl. 120).Nesses termos, pretende a revogação da custódia.
+Liminar indeferida (fls. 129/130), informações prestadas (fls. 133/184), o Ministério Público Federal opinou pelo não provimento do recurso, por meio de parecer proferido pelaSubprocuradora-Geral da República Maria Iraneide Olinda Santoro Facchini, assim ementado(fl. 189):
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA.GARANTIA DA ORDEM PÚBLICA. GRAVIDADE DO DELITO. RISCO DE REITERAÇÃO DELITIVA.REINCIDÊNCIA. PRISÃO DOMICILIAR. TEMA NÃO ANALISADO PELA CORTE ESTADUAL. SUPRESSÃO DE INSTÂNCIA AUSÊNCIA DE FLAGRANTE ILEGALIDADE. Parecer pelo desprovimento do recurso.
+É o relatório.
+De acordo com reiteradas decisões desta Corte Superior, as prisões cautelares são medidas de índole excepcional, somente podendo ser decretadas ou mantidas caso demonstrada, com base em elementos concretos dos autos, a efetiva imprescindibilidade de restrição ao direito constitucional à liberdade de locomoção.
+No caso, o Juízo de primeiro grau decretou a prisão preventiva, asseverando quea certidão de antecedentes criminais à fl. 28, demonstra que o flagranteado é reincidente na conduta de crimes contra o patrimônio, respondendo à Ação Penal n.0503559-89.2020.8.05.0001, perante a 12ªVara Criminal de Salvador, pelo crime de roubo, não sendo um fato isolado em sua vida (fl. 30).
+O Tribunal de origem, por sua vez, manteve a segregação, entendendo-a idoneamente fundamentada.
+Como se vê, a custódiaestá corretamente motivada no fato de o recorrente ser reincidente, possuindooutra ação penal em andamento.
+Ora, a jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar" (RHC n. 76.929/MG, Ministro Rogerio Schietti Cruz, Sexta Turma, julgado em 17/11/2016, DJe 29/11/2016) - (HC n. 415.653/RJ, Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe 9/8/2018).
+Ademais, eventuais condições pessoais favoráveis não possuem o condão de, isoladamente, conduzir à revogação da prisão preventiva, sendo certo que, concretamente demonstrada pelas instâncias ordinárias suanecessidade, não se afigura suficiente a fixação de medidas cautelares alternativas.
+Por fim, observo que o acórdão impugnado não discutiu a respeito do estado de saúde do recorrente, motivo pelo qual não cabe a esta Corte fazê-lo, sob pena de indevida supressão de instância.
+Ante o exposto, nego provimento ao recurso.
+Publique-se.
+EMENTA
+RECURSO EM HABEAS CORPUS.ROUBO CIRCUNSTANCIADO. PRISÃO PREVENTIVA. AÇÃO PENALEM ANDAMENTO. FUNDAMENTAÇÃO IDÔNEA. INEXISTÊNCIA DE CONSTRANGIMENTO ILEGAL.
+Recurso improvido.
