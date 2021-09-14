@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de pedido de tutela provisória de urgência incidental apresentadopelo MUNICÍPIO DE SÃO PAULO com atribuição de efeito suspensivo ao REsp n. 1.937.821/SP interposto contra acórdão proferido em julgamento de Incidente de Resolução de Demandas Repetitivos pelo Tribunal de Justiça do Estado de São Paulo.
+Alega, em suma, que a verossimilhança das alegações estaria demonstrada pela elevada probabilidade de êxito no recurso especial manejado, uma vez que o Tribunal local teria adotado tese jurídica contrária ao entendimento consolidado desta Corte Superior acerca da desvinculação entre o valor venal do imóvel para fins de fixação da base de cálculo do ITBI e do IPTU.
+Sustenta, ainda, que o perigo da demora estaria evidenciado no caso em razão do alto número de ações ajuizadas e julgadas com amparo na conclusão alcançada pelo Tribunal de Justiça bandeirante no julgamento do IRDR, o que teria reduzido de forma considerável a arrecadação tributária municipal.
+Acrescenta que "inobstante o recurso especial interposto contra decisão proferida em IRDR tenha, por expressa disposição no art. 987, §1º do CPC, efeito suspensivo automático, na prática a tese fixada pelo acórdão vem sendo utilizada indistintamente, ocasionando prejuízos diretos ao Município de São Paulo que possui inúmeros processos judiciais discutindo questão que, cremos, será melhor endereçada com reforma da decisão atacada no recurso especial" (e-STJ fl. 5).
+Por fim, requer "a concessão da Tutela Provisória de Urgência, para estender o efeito suspensivo atribuído ao recurso especial interposto para o fim de, até o seu trânsito em julgado, sustar a total eficácia da decisão recorrida, suspendendo-se todas as ações sobre a matéria em que figure como parte o Município de São Paulo" (e-STJ fl. 6).
+Passo a decidir.
+O pleito não comporta conhecimento.
+Conforme afirmado pelo próprio requerente,de acordo com oart. 987, § 1º, do CPC/2015,o apelo especialinterpostocontra acórdão proferido no julgamento do mérito do IRDR tem efeito suspensivo automático.
+Nessa perspectiva, carece o município de interesse processual, nos termos do art. 17 do CPC/2015, tendo em vista a ausência do binômio necessidade-utilidade do provimento jurisdicional pretendido.
+Ante o exposto, com base no art. 34, inciso XVIII, alínea "a", do RISTJ, NÃO CONHEÇO do pedido de tutela provisória de urgência incidental.
+Publique-se. Intimem-se.
