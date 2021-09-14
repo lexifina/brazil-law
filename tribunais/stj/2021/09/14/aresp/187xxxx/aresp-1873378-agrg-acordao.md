@@ -1,0 +1,47 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA N. 182/STJ. AGRAVO DESPROVIDO.
+1. Não havendo impugnação específica de todos os fundamentos da decisão que deixou de admitir o recurso especial, deve ser aplicado, por analogia, o teor da Súmula n. 182 deste Tribunal Superior.
+2. Inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ônus do qual não se desincumbiu o agravante.
+3. Na hipótese, o recorrente limitou-se a afirmar que a decisão agravada não explicitara as razões da incidência do óbice contido na Súmula n. 7/STJ e que a discussão não demandaria revolvimento fático-probatório, mas pura revaloração jurídica do decidido. No entanto, tal linha de argumentação não é apta a ensejar o afastamento da Súmula n. 182 do STJ ao caso, visto que não houve impugnação específica, pormenorizada e particularizada para o afastamento do óbice sumular referido.
+4. A decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas sim por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. "A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais." (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+5. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de agravo regimental interposto por JAISON KUHN contra decisão da lavra da Presidência desta Corte que não conheceu do agravo em recurso especial, em virtude da incidência da Súmula n. 182/STJ.
+Daí o presente agravo regimental, no qual a defesa alega que teria impugnado os fundamentos da decisão que negou seguimento ao recurso especial.
+Assim, requer a reconsideração da decisão agravada ou a submissão da matéria ao colegiado.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+A irresignação não merece prosperar.
+Na espécie, o recurso especial foi inadmitido pelo Tribunal de origem considerando: Súmula n. 7/STJ, Súmula n. 83/STJ (continuidade delitiva), Súmula n. 283/STF (não conhecimento da continuidade delitiva), Súmula n. 83/STJ (art. 387, IV, do CPP) e Súmula n. 283/STF (art. 387, IV, do CPP).
+Todavia, o agravante deixou de impugnar especificamente o fundamento referente à incidência da Súmula n. 83/STJ (art. 387, IV, do CPP), além de fazer ilações genéricas acerca da não incidência dos demais óbices.
+Ressalte-se que, inadmitido o apelo extremo com base no verbete sumular 83/STJ, incumbiria à parte interessada apontar precedentes contemporâneos ou supervenientes aos citados na decisão impugnada, procedendo ao cotejo analítico entre eles, de forma a demonstrar que outra é a orientação jurisprudencial nesta Corte Superior, ônus do qual não se desincumbiu o agravante.
+Nesse sentido, confiram-se:
+PENAL E PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO CONHECIDOS COMO AGRAVO REGIMENTAL. PRINCÍPIO DA FUNGIBILIDADE RECURSAL. DECISÃO DE ADMISSIBILIDADE NEGATIVA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA 182/STJ. INCIDÊNCIA CONFIRMADA. PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. AGRAVO REGIMENTAL IMPROVIDO.
+ ..
+2. Nos termos da Súmula 182 do STJ, é manifestamente inadmissível o agravo em recurso especial que não impugna, especificamente, todos os fundamentos da decisão confrontada.
+ ..
+4. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento. (EDcl no AREsp n. 614.968/SP, relator Ministro NEFI CORDEIRO, DJe 29/2/2016, grifei.)
+PENAL. AGRAVO EM RECURSO ESPECIAL QUE NÃO ATACOU OS FUNDAMENTOS DA DECISÃO AGRAVADA. APLICABILIDADE, POR ANALOGIA, DA SÚMULA 182/STJ. AGRAVO REGIMENTAL IMPROVIDO.
+1. É inadmissível o agravo que não infirma todos os fundamentos da decisão que negou seguimento ao recurso especial. Súmula 182/STJ.
+2. Na hipótese, inadmitido o recurso em razão das Súmulas 7/STJ e 83/STJ, incumbia à parte demonstrar a não incidência dos enunciados sumulares.
+3. A incidência da Súmula 7/STJ impede o exame do recurso especial pelo dissídio jurisprudencial, tendo em vista a ausência de identidade fática entre o acórdão paradigma apresentado e os fundamentos do acórdão recorrido.
+4. Agravo regimental improvido. (AgRg no AREsp 275.940/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 02/06/2015, DJe 09/06/2015, grifei.)
+ADMINISTRATIVO. SERVIDOR PÚBLICO FEDERAL. ENQUADRAMENTO. LICENÇA-PRÊMIO NÃO GOZADA. CÔMPUTO COMO TEMPO EFETIVO DE EXERCÍCIO. LEI 11.091/05. POSSIBILIDADE. PRECEDENTES. SÚMULA 83 DO STJ. FUNDAMENTO DA DECISÃO AGRAVADA NÃO ATACADO. SÚMULA 182 DO STJ. PREQUESTIONAMENTO. AUSÊNCIA.
+1.  ..
+2. É inviável o agravo que deixa de atacar os fundamentos da decisão agravada. Incide a Súmula 182 do STJ.
+3. Fundamentada a decisão agravada no sentido de que o acórdão recorrido está em sintonia com o atual entendimento do STJ, deveria a recorrente demonstrar que outra é a positivação do direito na jurisprudência do STJ.
+4. A tese jurídica debatida no Recurso Especial deve ter sido objeto de discussão no acórdão atacado. Inexistindo esta circunstância, desmerece ser conhecida por ausência de prequestionamento. Súmula 282 do STF.
+5. Agravo Regimental não provido. (AgRg no REsp 1.374.369/RS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 18/6/2013, DJe 26/6/2013, grifei.)
+Quanto à incidência do óbice contido no enunciado da Súmula n. 7/STJ, limitou-se a afirmar que a análise recursal não encerra reexame da matéria fático-probatória, sem demonstrar tal afirmação.
+Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+Com efeito, ao se insurgir contra a fundamentação do aresto, limita-se a aduzir que a alteração do entendimento firmado não demanda o reexame de provas. Para tanto, seria necessário que o agravante demonstrasse como seria possível modificar o entendimento firmado pelas instâncias ordinárias à margem de uma análise documental, ônus do qual, contudo, não se desincumbiu.
+E, por fim, vale lembrar que a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas sim por um único dispositivo, o que exige que a parte agravante impugne todos os fundamentos da decisão que, na origem, inadmitiu o recurso especial. "A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais." (EAREsp n. 746.775/PR, relator Ministro João Otávio de Noronha, relator para acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe de 30/11/2018.)
+Assim, verificado que a impugnação recursal não se deu de forma efetiva, concreta e pormenorizada, incide o óbice contido no enunciado da Súmula n. 182/STJ.
+Tal o contexto, nego provimento ao agravo regimental.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
