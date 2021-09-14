@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de habeas corpus, com pedido liminar, impetrado em benefício de GABRIEL WILLI DE JESUS STIEVEN, contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO no julgamento do HC n. 1005184-05.2021.811.0000.
+Extrai-se dos autos que o paciente foi preso em flagrante em 5/3/2021 por ter supostamente praticado o delito tipificado no art. 157, § 2º, inciso II, § 2º-A, inciso I, do Código Penal (roubo majorado). Referida custódia foi convertida em prisão preventiva.
+Irresignada, a defesa impetrou habeas corpus perante o Tribunal de origem, o qual denegou a ordem nos termos do acórdãoassim ementado:
+"HABEASCORPUS- ROUBO CIRCUNSTANCIADO PELO CONCURSO DE PESSOAS E EMPREGO DE ARMA - PRISÃO PREVENTIVA DECRETADA - ALEGADO CONSTRANGIMENTO ILEGAL - 1) DECISÃO CARENTE DE FUNDAMENTAÇÃO - NÃO VERIFICÁVEL - PRESENÇA DOS PRESSUPOSTOS DA PRISÃO PREVENTIVA - NECESSIDADE DE GARANTIR A ORDEM PÚBLICA E EVITAR REITERAÇÃO CRIMINOSA - GRAVIDADE CONCRETA DA CONDUTA CONSUBSTANCIADA NO MODUS OPERANDI GRAVOSO - 2) ALEGADOS PREDICADOS PESSOAIS FAVORÁVEIS PARAA CONCESSÃO DA ORDEM OU SUBSTITUIÇÃO DA PRISÃO PROVISÓRIAPOR MEDIDAS CAUTELARES DA PRISÃO (ARTIGO 319 DO CÓDIGO DE PROCESSO PENAL) - PRESENÇA DOS REQUISITOS DA PRISÃO PREVENTIVA - SUBSTITUIÇÃO INVIÁVEL - 3) EXCESSO DE PRAZO PARA CONCLUSÃO DO INQUÉRITO POLICIAL - DENÚNCIA OFERECIDA - PLEITO SUPERADO - MANDAMUS CONSTITUCIONAL PREJUDICADO NESTE PONTO - CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO - 4) ORDEM DENEGADA.
+1) Não há ilegalidade no decreto de prisão preventiva, se demonstrados os requisitos autorizadoresprevistos no art. 312, do CPP, sendo a custódia necessária diante da gravidade concreta dos fatos e da periculosidade demonstrada pelo modus operandi empregado, eis que praticado em concurso de agentes, com utilização de arma de fogo em via pública, à luz do dia (16h00min), o que gera, indubitavelmente, um sentimento de insegurança na sociedade, ao passo que a segregação visa garantir a ordem pública e evitar a reiteração criminosa, não havendo que se falar em liberdade provisória, de modo que, o decreto da prisão preventiva encontra-se devidamente fundamentado, em estrita observância a regra do artigo 93, inciso IX, da Constituição Federal.
+2) Os predicados pessoais ou a substituição da segregação preventiva, por medidas cautelares diversas da prisão, somente militam em favor do paciente, quando ausentes os elementos autorizadores e balizadores da prisão preventiva.
+3) Com o oferecimento da denúncia em desfavor da paciente, fica superada a arguição de excesso de prazo na conclusão do inquérito policial.
+4) Ordem denegada" (fls. 114/116).
+No presente mandamus, ressalta as condições pessoais favoráveis do paciente e alega ausência dos requisitos autorizadores da custódia cautelar, previstos no art. 312 do Código de Processo Penal - CPP. Assevera que o decreto prisional está fundado exclusivamente na gravidade abstrata do delito.
+Invoca o princípio da presunção de inocência e aponta suficiência da aplicação de medidas alternativas ao cárcere.
+Requer, assim, em liminar e no mérito, a expedição de alvará de soltura, ainda que mediante aplicação de medidas cautelares alternativas, nos termos do art. 319 do CPP.
+A liminar foi indeferida àfl. 123/125. Informações prestadas às fls. 139/146, 148/151 e 152/168. O Ministério Público Federal opinou pelo não conhecimento dowritem parecer acostado às fls. 169/175.
+É o relatório.
+Decido.
+O pedido está prejudicado.
+Isso porque, de acordo com as informações obtidas na página eletrônicado Tribunal de origem, verifica-se que, na Ação Penal n. 1004844-32.2021.8.11.0042, de que aqui se cuida, em 30/7/2021, sobreveio sentença que condenou o paciente àpenade 7 anos, 11 meses e 3 dias de reclusão, em regime inicial semiaberto, e ao pagamento de 16 dias-multa, pela prática dodelitoprevistono art. 157, § 2º, inciso II, e § 2º-A, inciso I, do Código Penal, tendo sido concedido o direito de recorrer em liberdade e determinada a expedição de alvará de soltura em seu favor.
+Desse modo, constata-se a perda superveniente do objeto do presente mandamus.
+Ante o exposto, com fundamento no art. 34, inciso XX, do Regimento Interno do Superior Tribunal de Justiça, julgo prejudicado o presente habeas corpus.
+Publique-se.
+Intimem-se.
