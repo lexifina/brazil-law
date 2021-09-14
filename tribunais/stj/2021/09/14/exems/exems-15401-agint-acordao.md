@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Og Fernandes.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. POSSIBILIDADE. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 553.710/DF (TEMA 394). TERMO INICIAL DESSES CONSECTÁRIOS LEGAIS. A PARTIR DO SEXAGÉSIMO PRIMEIRO DIA, CONTADOS DA PUBLICAÇÃO DA PORTARIA ANISTIADORA. AGRAVO IMPROVIDO.
+1. O Supremo Tribunal Federal assentou, no julgamento do RE 553.710/DF (Tema 394), submetido à sistemática da repercussão geral, que o direito à percepção de correção monetária e juros legais, no pagamento da reparação econômica prevista na portaria de anistia, independe de expresso pronunciamento judicial.
+2. O termo inicial a ser considerado, para cada um dos consectários legais, é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+3. Agravo interno improvido.
+RELATÓRIO
+Trata-se de agravo interno de fls. 235-243 interposto pela UNIÃO contra decisão monocrática que, em sede de execução em mandado de segurança, julgou parcialmente procedente a impugnação oposta pelo referido ente público.
+A agravante alega, em síntese, que: (a) "os juros e a correção monetária sequer são mencionados como devidos no acórdão de concessão de segurança, sendo indevida a sua cobrança"; e (b) "a correção monetária e os juros de mora, na remota hipótese de serem devidos, deveriam ser contados a partir da notificação do impetrado, por se tratar de mandado de segurança".
+Requer, por isso, seja provido o recurso.
+A agravada, por sua vez, pleiteia a manutenção da decisão agravada. Argumenta, a propósito, que a decisão agravada deve ser mantida, porquanto "está de acordo com o acórdão executado, ou seja, ali determinado no cálculo a inclusão de correção monetária e juros, fato questionado indevidamente pela agravante".
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INCIDÊNCIA DE CORREÇÃO MONETÁRIA E JUROS DE MORA. POSSIBILIDADE. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 553.710/DF (TEMA 394). TERMO INICIAL DESSES CONSECTÁRIOS LEGAIS. A PARTIR DO SEXAGÉSIMO PRIMEIRO DIA, CONTADOS DA PUBLICAÇÃO DA PORTARIA ANISTIADORA. AGRAVO IMPROVIDO.
+1. O Supremo Tribunal Federal assentou, no julgamento do RE 553.710/DF (Tema 394), submetido à sistemática da repercussão geral, que o direito à percepção de correção monetária e juros legais, no pagamento da reparação econômica prevista na portaria de anistia, independe de expresso pronunciamento judicial.
+2. O termo inicial a ser considerado, para cada um dos consectários legais, é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+3. Agravo interno improvido.
+VOTO
+De início, observa-se que a agravante se insurge contra a incidência dos chamados consectários legais (correção monetária e juros) sobre o valor retroativo da reparação econômica de caráter indenizatório prevista na portaria de anistia.
+Em prol de sua argumentação, sustenta serem indevidos, porquanto o acórdão exequendo silenciou-se a respeito da possibilidade dessa inclusão.
+Contudo, importa destacar que o Supremo Tribunal Federal assentou, no julgamento do RE 553.710/DF (Tema 394), submetido à sistemática da repercussão geral, que o direito à percepção de correção monetária e juros legais, no pagamento da reparação econômica prevista na portaria de anistia, independe de expresso pronunciamento judicial.
+Ademais, ao contrário do que afirma a UNIÃO, o próprio acórdão exequendo previu o acréscimo desses consectários legais, in verbis (fl. 92 daqueles autos):
+"(..) Ante o exposto, concedo a segurança para determinar ao Ministro de Estado do Planejamento, Orçamento e Gestão que cumpra integralmente a Portaria 1.703, de 25/5/09, do Ministro de Estado da Justiça, e pague ao impetrante a parcela correspondente aos valores pretéritos, acrescida de correção monetária e juros de mora, conforme o Manual de Cálculos da Justiça Federal. Na ausência de recursos orçamentários, expeça-se o competente precatório. Custas ex lege. Sem condenação ao pagamento de honorários advocatícios, nos termos da Súmula 105/STJ." (grifou-se)
+Em prol do entendimento acima firmado, destacam-se:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NA EXECUÇÃO EM MANDADO DE SEGURANÇA. ADMINISTRATIVO. ANISTIA POLÍTICA. PAGAMENTO DE INDENIZAÇÃO RETROATIVA. INCLUSÃO DE CORREÇÃO MONETÁRIA E JUROS DE MORA. POSSIBILIDADE. EFICÁCIA VINCULATIVA DA TESE FIRMADA PELO SUPREMO TRIBUNAL FEDERAL, EM SEDE DE REPERCUSSÃO GERAL, NO JULGAMENTO DO RE 553.710/DF (TEMA 394). ACLARATÓRIOS ACOLHIDOS, COM EFEITOS MODIFICATIVOS.
+1. Consoante orientação assentada pelo Supremo Tribunal Federal, no julgamento do RE 553.710/DF (Tema 394), impõe-se que, no pagamento dos valores retroativos da portaria de anistia, sejam incluídos a correção monetária e os juros de mora, ainda que não tenha havido previsão expressa nesse sentido na decisão exequenda, proferida na fase de conhecimento.
+2. Ocorrente a omissão do acórdão embargado, que deixou de aplicar o entendimento firmado pela Excelsa Corte em sede de repercussão geral, merecem acolhida os aclaratórios opostos.
+3. Embargos de declaração acolhidos, com efeitos modificativos, para julgar parcialmente procedente a impugnação oposta pela UNIÃO, devendo o cálculo dos valores devidos ao exequente observar os parâmetros fixados no tocante aos índices de correção monetária e juros de mora, bem como ao termo inicial destes últimos.
+(EDcl no AgInt na ExeMS 16.664/DF, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA SEÇÃO, julgado em 30/03/2021, DJe 07/04/2021)
+Outrossim, a agravante defende a tese segundo a qual, ainda que devidos, a correção monetária e os juros de mora devem ser contados a partir da notificação da autoridade coatora.
+Contudo, sem razão. Isso porque o termo inicial a ser considerado, para cada um dos consectários legais, é a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora, o que encontra amparo, inclusive, na disposição contida no art. 12, § 4º, da Lei nº 10.559/2002.
+Nesse sentido, confiram-se:
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. REPARAÇÃO ECONÔMICA. ANISTIA DE MILITAR. PARCELAS PRETÉRITAS. MINISTRO DE ESTADO DA DEFESA. LEGITIMIDADE. ADEQUAÇÃO DA VIA ELEITA. DECADÊNCIA NÃO CONFIGURADA. INAPLICABILIDADE DA PRESCRIÇÃO. MERA SOLICITAÇÃO DE CASSAÇÃO DO ATO CONCESSIVO. INSUFICIÊNCIA PARA MODIFICAR A SUJEIÇÃO PASSIVA E AFASTAR A EXISTÊNCIA DO DIREITO LÍQUIDO E CERTO. DISPONIBILIDADE ORÇAMENTÁRIA. DESCUMPRIMENTO DO PRAZO ESTABELECIDO NA LEI 10.559/2002. JUROS E CORREÇÃO MONETÁRIA. INCIDÊNCIA. PARCIAL CONCESSÃO DA ORDEM.
+(..)
+12. Conforme entendimento da Seção de Direito Público do STJ, apurada a ofensa ao direito líquido e certo do impetrante, que no caso é o reconhecimento da omissão no dever de providenciar o pagamento do montante concernente aos retroativos, conforme valor nominal estabelecido no ato administrativo, devem incidir juros e correção monetária, a partir do sexagésimo primeiro dia após a edição da Portaria concessiva da anistia.
+13. Mandado de Segurança parcialmente concedido, nos termos acima referidos, com a ressalva de que, revogada a anistia concedida, cessam os efeitos desta ordem.
+(MS 21.447/DF, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 27/09/2017, DJe 17/10/2017) (grifou-se)
+EMBARGOS DE DECLARAÇÃO. MANDADO DE SEGURANÇA. ANISTIA. MILITARES. PAGAMENTO RETROATIVO. JUROS DE MORA E CORREÇÃO MONETÁRIA. INCIDÊNCIA.
+1. Nos processos em que se buscam valores retroativos decorrentes da concessão de anistia política, os juros e a correção monetária são devidos a partir do sexagésimo primeiro dia, contados da publicação da portaria anistiadora e, conforme decidido pela Corte Especial quando do julgamento dos EREsp n. 1.207.197/RS, relator o Ministro Castro Meira, DJe de 2.8.2011 (EDcl no MS n. 18.075, DF, relator Ministro Cesar Asfor Rocha, DJe de 06.08.2012).
+2. Embargos de declaração parcialmente acolhidos para sanar a omissão quanto aos juros de mora e correção monetária incidentes.
+(EDcl no MS 13.591/DF, Rel. Ministro NEFI CORDEIRO, TERCEIRA SEÇÃO, julgado em 23/09/2015, DJe 02/10/2015) (grifou-se)
+Desse modo, não merece reparo a decisão agravada.
+Ante o exposto, voto por negar provimento ao agravo interno.
