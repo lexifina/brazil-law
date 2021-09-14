@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por DAMIANO FLENIK contra a decisão que não conheceu do agravo em recurso especial em razão da ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial, nos termos do art. 21-E, inciso V, do Regimento Interno do Superior Tribunal de Justiça.
+Em suas razões, sustenta a parte embargante que "não houve manifestação de V. Exa. a respeito de questão fundamental, qual seja, a existência do INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS, conforme se vê do despacho exarado no REsp 0308099- 32.2017.8.24.0005/50000, que trata de caso idêntico ao do presente recurso" (fl. 428), acrescentando que "nos termos do artigo 982, inciso I, do CPC, V. Exa. deve suspender os processos pendentes, individuais ou coletivos, que tramitam no Estado ou na região, conforme o caso, o que aqui não foi observado, havendo, portanto, flagrante omissão nesse sentido, que, roga o octogenário seja aclarado via esses Embargos" (fl. 428).
+Requer, assim, o conhecimento e o acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Nesta Corte Superior vigora a jurisprudência de que, se o relator não determinou o sobrestamento dos processos nos termos do art. 1.035, § 5º, do CPC/2015, como na afetação do Tema 1.076/STJ, a determinação de sobrestamento, diante do reconhecimento de prejudicialidade do processo paradigma, é uma faculdade do Relator. Nesse sentido: EDcl no AgInt no AREsp 1.252.924/SC, Rel. Ministro Gurgel de Faria, Primeira Turma, julgado em 1º/4/2019, DJe 4/4/2019. XV - Agravo interno improvido." (AgInt nos EDv nos EAg 1.409.814/RJ, Rel. Ministro Francisco Falcão, Corte Especial, DJe 9/12/2019).
+A propósito:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. OMISSÃO. AUSÊNCIA DE VÍCIOS. AFETAÇÃO DA QUESTÃO AO REGIME DE SISTEMÁTICA REPETITIVA SEM DETERMINAÇÃO DE SUSPENSÃO DE PROCESSOS (TEMA n. 1.076 - REsps ns. 1.850.512/SP;
+1.877.883/SP; e 1.906.623/SP). PROSSEGUIMENTO DO FEITO.
+UNIFORMIDADE.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A fundamentação adotada no acórdão é suficiente para respaldar a conclusão alcançada, pelo que ausente pressuposto a ensejar a oposição de embargos de declaração, nos termos do art. 1.022 do Código de Processo Civil de 2015.
+III - A afetação de recurso ao regime de sistemática repetitiva, com a deliberação do Colegiado competente para a fixação da tese vinculante pela não suspensão de processos, conduz ao prosseguimento dos feitos, inclusive nas Turmas deste Superior Tribunal de Justiça.
+IV - Diante da decisão da Corte Especial no sentido do não sobrestamento das ações concernentes à temática a ser pacificada, deve ser homenageado o decisum emanado daquele órgão judicial, prestigiando a uniformidade.
+V - Embargos de Declaração rejeitados.
+(EDcl nos EDcl no AgInt no REsp 1852179/SP, Rel. Ministro Sérgio Kukina, Rel. p/ Acórdão Ministra Regina Helena Costa, Primeira Turma, DJe 02/06/2021).
+Assim, não há nenhuma irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria apta à apreciação desta Corte foi analisada, não padecendo a decisão embargada dos vícios que autorizariam a sua oposição (obscuridade, contradição, omissão ou erro material).
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante sobre a reiteração deste expediente, sob pena de pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos versando sobre o mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do Código de Processo Civil).
+Publique-se. Intimem-se.
