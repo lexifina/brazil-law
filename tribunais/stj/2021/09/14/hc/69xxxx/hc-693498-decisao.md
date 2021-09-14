@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  favor  de  WANDREUS CANDIDO VIANA contra  acórdão  proferido  pelo Tribunal  de  Justiça  do  Estado  de  São  Paulo  no HC n. 2187441-61.2021.8.26.0000.
+Consta  dos  autos  que  o  Juízo  das  Execuções  Criminais  indeferiu  o  pedido  de  livramento condicional,  formulado  em  benefício  do  sentenciado  (e-STJ ,  fl.  18).
+A  defesa,  então,  insatisfeita,  ingressou com habeas corpus, perante a Corte de origem.  O  Tribunal,  contudo,  julgo parcialmente prejudicado o mandamus, pela perda do objeto,  nos  termos  da  seguinte  ementa  (e-STJ,  fl.  17):
+HABEAS CORPUS PROGRESSÃO DE REGIME PERDA DO OBJETO - ORDEM PARCIALMENTE PREJUDICADA. ALEGADO CONSTRANGIMENTO ILEGAL EM RAZÃO DO INDEFERIMENTO DO LIVRAMENTO CONDICIONAL NÃO CONHECIMENTO DO PEDIDO. - O habeas corpus não é via adequada para alterar procedimento amparado por lei específica ou apressar julgamento. Inadmissível a utilização do habeas corpus como substituto de recurso ordinário, no caso, o Agravo em Execução, nos termos do artigo 197 da Lei nº 7.210/84. Ordem parcialmente prejudicada e, no mais, não conhecida.
+Nesta via, a defesa aponta ausência de fundamentos na decisão que indeferiu o livramento, requerendo, em liminar e no mérito, a sua concessão.
+É o relatório. Decido.
+A presente irresignação não pode prosperar.
+No caso, o Tribunal coator nada mencionou sobre os argumentos ora trazidos pela defesa, tendo em vista a interposição do recurso adequado na origem (e-STJ, fl. 19):
+No mais, se foi interposto o recurso cabível contra a decisão objeto de inconformismo no tocante ao livramento condicional, recurso esse que está em regular tramitação, não há que se cogitar de constrangimento ilegal.
+Realmente, estando em processamento o recurso de Agravo em Execcução na Corte de origem, melhor que a defesa espere o seu julgamento, até mesmo para evitar conflitos de deciões. Não há, assim, que falar, em flagrante ilegalidade.
+Essa circunstância impede esta Corte de julgar diretamente as questões, sob pena de supressão de instância.
+Com efeito, para se aferir a competência do Superior Tribunal de Justiça, é necessário que a matéria questionada tenha sido analisada pela Corte de origem, consoante dispõe o art. 105, II, da Constituição Federal, sob pena de configurar indevida supressão de instância.
+Nesse ínterim:
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO DE DROGAS. CONDENAÇÃO PRISÃO DOMICILIAR. ART. 318 DO CÓDIGO DE PROCESSO PENAL. IMPOSSIBILIDADE. EXECUÇÃO DEFINITIVA DA PENA. ART. 117 DA LEI DE EXECUÇÃO PENAL. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL DE ORIGEM NO ACÓRDÃO IMPUGNADO. SUPRESSÃO DE INSTÂNCIA. WRIT DO QUAL NÃO SE CONHECE. 1. O Supremo Tribunal Federal passou a não mais admitir o manejo do habeas corpus originário em substituição ao recurso ordinário cabível, entendimento que foi aqui adotado, ressalvados os casos de flagrante ilegalidade, quando a ordem poderá ser concedida de ofício. 2. Não há que se falar em aplicação da prisão domiciliar, nos termos do art. 318 do Código de Processo Penal, quando a paciente encontra-se custodiada em decorrência de condenação definitiva. 3. Inviável a apreciação da possibilidade de concessão da benesse, conforme disposto no art. 117 da Lei de Execução Penal, sob pena de se incidir em indevida supressão de instância, tendo em vista que o tema não foi analisado pelo Tribunal de origem no aresto combatido. 4. Habeas corpus do qual não se conhece. (HC 554.362/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 06/02/2020, DJe 21/02/2020)
+Ante o exposto, nego seguimento ao presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
