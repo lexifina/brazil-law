@@ -1,9 +1,0 @@
-Art. 8º-A Aos usuários, nas relações com os provedores de redes sociais, são assegurados os seguintes direitos, sem prejuízo do disposto na Seção I deste Capítulo:
-I - acesso a informações claras, públicas e objetivas sobre quaisquer políticas, procedimentos, medidas e instrumentos utilizados para fins de eventual moderação ou limitação do alcance da divulgação de conteúdo gerado pelo usuário, incluídos os critérios e os procedimentos utilizados para a decisão humana ou automatizada, ressalvados os segredos comercial e industrial;
-II - contraditório, ampla defesa e recurso, a serem obrigatoriamente observados nas hipóteses de moderação de conteúdo, devendo o provedor de redes sociais oferecer, no mínimo, um canal eletrônico de comunicação dedicado ao exercício desses direitos;
-III - restituição do conteúdo disponibilizado pelo usuário, em particular de dados pessoais, textos, imagens, dentre outros, quando houver requerimento;
-IV - restabelecimento da conta, do perfil ou do conteúdo no mesmo estado em que se encontrava, na hipótese de moderação indevida pelo provedor de redes sociais;
-V - não exclusão, cancelamento ou suspensão, total ou parcial, de serviços e funcionalidades da conta ou do perfil, exceto por justa causa, observado o disposto no art. 8º-B;
-VI - não exclusão, suspensão ou bloqueio da divulgação de conteúdo gerado pelo usuário, exceto por justa causa, observado o disposto no art. 8º-C; e
-VII - acesso a resumo dos termos de uso da rede social, com destaque às regras de maior significância para o usuário.
-Parágrafo único. É vedada aos provedores de redes sociais a adoção de critérios de moderação ou limitação do alcance da divulgação de conteúdo que impliquem censura de ordem política, ideológica, científica, artística ou religiosa, observado o disposto nos art. 8º-B e art. 8º-C.
