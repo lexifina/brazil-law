@@ -1,2 +1,1 @@
 Art. 1º Esta Lei estabelece princípios, garantias, direitos e deveres para o uso da internet no Brasil e determina as diretrizes para atuação da União, dos Estados, do Distrito Federal e dos Municípios em relação à matéria.
-Parágrafo único. O disposto nesta Lei aplica-se mesmo que as atividades sejam realizadas por pessoa jurídica sediada no exterior, desde que oferte serviço ao público brasileiro ou, no mínimo, uma pessoa jurídica integrante do mesmo grupo econômico possua estabelecimento situado no País.

@@ -2,10 +2,6 @@ CAPÍTULO I
 DISPOSIÇÕES PRELIMINARES
 CAPÍTULO II
 DOS DIREITOS E GARANTIAS DOS USUÁRIOS
-Seção I
-Disposições gerais
-Seção II
-Dos direitos e das garantias dos usuários de redes sociais
 CAPÍTULO III
 DA PROVISÃO DE CONEXÃO E DE APLICAÇÕES DE INTERNET
 Seção I
@@ -24,7 +20,5 @@ Seção IV
 Da Requisição Judicial de Registros
 CAPÍTULO IV
 DA ATUAÇÃO DO PODER PÚBLICO
-CAPÍTULO IV-A
-DAS SANÇÕES
 CAPÍTULO V
 DISPOSIÇÕES FINAIS
