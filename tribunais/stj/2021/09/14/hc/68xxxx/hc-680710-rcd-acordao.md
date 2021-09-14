@@ -1,0 +1,33 @@
+EMENTA
+PEDIDO DE RECONSIDERAÇÃO RECEBIDO COMO AGRAVO REGIMENTAL. INDEFERIMENTO LIMINAR DO HABEAS CORPUS. SÚMULA 691 DO STF. CONVERSÃO DE OFÍCIO DO FLAGRANTE EM PREVENTIVA. REQUERIMENTO DO MINISTÉRIO PÚBLICO. AUSÊNCIA DE ILEGALIDADE. AGRAVO IMPROVIDO.
+1. Pedido de reconsideração dentro do quinquídio legal, que se recebe como agravo regimental, em atenção ao princípio da fungibilidade das formas processuais.
+2. A Terceira Seção do Superior Tribunal de Justiça (RHC 131.263/GO), alinhando-se ao entendimento do Supremo Tribunal Federal, no HC 188.888, firmou compreensão quanto à impossibilidade de conversão, de ofício, da prisão em flagrante em preventiva, sendo necessário, nos termos da inovações trazidas pela Lei 13.964/2019 ao art. 311 do Código de Processo Penal, a provocação do Ministério Público, da autoridade policial ou do querelante, conforme o caso.
+3. Inexistindo ilegalidade que justifique a mitigação do enunciado da Súmula 691 do STF, uma vez que houve o requerimento do Ministério Público para a conversão do flagrante em preventiva, o writ deve ser indeferido liminarmente.
+4. Pedido de reconsideração recebido como agravo regimental, ao qual se nega provimento.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, receber o pedido de reconsideração como agravo regimental, ao qual negar provimento, nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Trata-se de pedido de reconsideração de decisão que indeferiu liminarmente o habeas corpus com base na Súmula 691 do Supremo Tribunal Federal.
+Alega a defesa que "O Procurador de Justiça reconheceu a falta de requerimento por parte do Parquet no processo discutido para conversão da prisão, lutando apenas pelo reconhecimento da legalidade desta conversão da prisão em flagrante pela preventiva de ofício pelo juiz a quo", entendimento que não se coaduna com o pacificado pelo Superior Tribunal de Justiça no julgamento do RHC 131.263/GO, o que importa a ilegalidade da prisão do paciente.
+Pede a reconsideração da decisão agravada ou a apreciação do recurso pela Sexta Turma.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator):  Em atenção aos princípios da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, é de receber-se o presente pedido de reconsideração como agravo regimental. A decisão atacada restou assim fundamentada:
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de CLEBER NELSON PEREIRA SOBRINHO em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS (HC n. 0011123- 64.2021.8.08.0000).
+O paciente foi preso em flagrante, em 5/7/2021, pela suposta prática do delito de tráfico de drogas (art. 33 da Lei n. 11.343/2006). Posteriormente, a prisão em flagrante foi convertida em preventiva (fls. 91-95).
+Nesta via, o impetrante sustenta a ilegalidade da conversão da prisão em flagrante em preventiva, por ter ocorrido sem requerimento da autoridade policial ou do representante do Ministério Público.
+Requer, liminarmente e no mérito, a concessão da ordem constitucional para revogar a custódia preventiva imposta ao paciente, ainda que com a adoção de outras medidas cautelares menos gravosas.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CUMPRIMENTO DE PENA EM PRISÃO DOMICILIAR. RECOMENDAÇÃO 62/2020 DO CNJ. COVID-19. GRUPO DE RISCO. CRIME VIOLENTO. CONDIÇÃO DE SAÚDE. AUSÊNCIA DE DEMONSTRAÇÃO DE POSSIBILIDADE DE AGRAVAMENTO. RECÁLCULO DA PENA. INOVAÇÃO RECURSAL. SUPRESSÃO DE INSTÂNCIA. ILEGALIDADE. AUSÊNCIA. AGRAVO IMPROVIDO.
+ ..
+3. A matéria relativa ao recálculo da pena para fins de progressão de regime, além de representar indevida inovação recursal, não foi objeto de análise pelo Tribunal de origem, motivo pelo qual esse ponto não poderá ser conhecido por esta Corte Superior, sob pena de indevida supressão de instância.
+4. Agravo regimental improvido. (AgRg no HC n. 579.110/SP, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 14/9/2020.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete, uma vez que a decisão atacada está fundamentada com os elementos constantes dos autos e especialmente porque consta expressamente na decisão de primeiro grau que houve o requerimento do parquet de conversão da prisão em flagrante em preventiva (fl. 92), não sendo possível nesta via infirmar o referido registro dos autos.
+Ante o exposto, com fundamento no art. 21, XIII, c, c/c o art. 210 do RISTJ, indefiro liminarmente o presente habeas corpus.
+De fato, a Terceira Seção do Superior Tribunal de Justiça (RHC 131.263/GO), alinhando-se ao entendimento do Supremo Tribunal Federal proferido no julgamento do HC 188.888, firmou compreensão quanto à impossibilidade de conversão, de ofício, da prisão em flagrante em preventiva, sendo necessário, nos termos da inovações trazidas pela Lei 13.964/2019 ao art. 311 do Código de Processo Penal, a provocação do Ministério Público, da autoridade policial ou do querelante, conforme o caso.
+Como se observa do termo de audiência de custódia (fl. 91), a prisão em flagrante foi convertida em preventiva a pedido do Ministério Público, em estrita observância ao referido entendimento jurisprudencial, não havendo falar-se em ilegalidade apta a mitigar o enunciado contido na Súmula 691 do STF.
+O agravante, portanto, não trouxe fundamentos capazes de reformar a decisão agravada, que deve ser mantida por seus próprios fundamentos, razões por que recebo o pedido de reconsideração como agravo regimental, negando-lhe provimento.
+É o voto.
