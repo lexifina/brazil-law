@@ -1,0 +1,76 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, acolher parcialmente os embargos de declaração, sem efeitos modificativos, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMAGRAVO EM RECURSO ESPECIAL. OMISSÃO PARCIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM GRAU RECURSAL. EFETIVA APRESENTAÇÃO DE RESPOSTA PELA PARTE RECORRIDA. DESNECESSIDADE.PERCENTUAL APLICADO. RAZOABILIDADE.
+1. Cuida-se de embargos de declaração nos quais a parte embargante aponta omissões do acórdão embargado quanto à inaplicabilidade da Súmula 315/STJ e à impossibilidade de majoração dos honorários advocatícios em razão da oposição dos embargos de divergência.
+2. Os embargos de declaração não devem ser acolhidos no ponto em que a parte embargante pretende, essencialmente, discutir a conclusão adotada no julgado embargado, in casu, no tocante à incidência do óbice da Súmula 315/STJ.
+3.Consoante a iterativa jurisprudência desta Corte, a majoração dos honorários advocatícios em grau recursal, na forma do art. 85, § 11, do CPC/2015, é devida ainda que a parte adversa não tenha apresentado resposta ao recurso interposto, circunstância essa que deve ser considerada tão somente para a quantificação do valor ou percentual a ser majorado. Precedentes.
+4. Hipótese em que a majoração da verba honorária em 15% sobre o valor fixado anteriormente se mostra razoável, não importando excessivo gravame à parte recorrente.
+5.Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, tão somente para sanar omissão do julgado acerca da majoração dos honorários recursais.
+RELATÓRIO
+Cuida-se de embargos de declaração opostos por HOTEL NACIONAL S/A, contra o acórdão que negou provimento ao agravo interno que interpusera, nos termos da seguinte ementa (e-STJ fl. 1.431):
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA NO AGRAVO EM RECURSO ESPECIAL. DIVERGÊNCIA QUANTO ÀS REGRAS TÉCNICAS DE ADMISSIBILIDADE DO RECURSO. EXAME. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 315/STJ. 1. Revela-se inviável rever em embargos de divergência, a aplicação de regras técnicas de conhecimento do recurso especial, o que ocorre quando o acórdão embargado ou o paradigma sequer adentra no mérito do recurso especial, interpretando os pressupostos de admissibilidade dessa espécie recursal. Aplicação a Súmula 315/STJ.2. Agravo interno não provido.
+Nas razões do presente recurso, o embargante alega que o acórdão embargado foi omisso acerca da inaplicabilidade da Súmula 315/STJ.
+Reitera, nessa linha, que o acórdão proferido pela 4ª Turma do STJ, muito embora não tenha conhecido do recurso, apontou as razões pelas quais a insurgência não deveria ser acolhida, adentrando, portanto, no mérito.
+Ainda, aduz ter havido omissão quanto à impossibilidade de majoração dos honorários advocatícios, ante a ausência de trabalho adicional da parte adversa quando da tramitação dos embargos de divergência.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EMAGRAVO EM RECURSO ESPECIAL. OMISSÃO PARCIAL. MAJORAÇÃO DOS HONORÁRIOS ADVOCATÍCIOS EM GRAU RECURSAL. EFETIVA APRESENTAÇÃO DE RESPOSTA PELA PARTE RECORRIDA. DESNECESSIDADE.PERCENTUAL APLICADO. RAZOABILIDADE.
+1. Cuida-se de embargos de declaração nos quais a parte embargante aponta omissões do acórdão embargado quanto à inaplicabilidade da Súmula 315/STJ e à impossibilidade de majoração dos honorários advocatícios em razão da oposição dos embargos de divergência.
+2. Os embargos de declaração não devem ser acolhidos no ponto em que a parte embargante pretende, essencialmente, discutir a conclusão adotada no julgado embargado, in casu, no tocante à incidência do óbice da Súmula 315/STJ.
+3.Consoante a iterativa jurisprudência desta Corte, a majoração dos honorários advocatícios em grau recursal, na forma do art. 85, § 11, do CPC/2015, é devida ainda que a parte adversa não tenha apresentado resposta ao recurso interposto, circunstância essa que deve ser considerada tão somente para a quantificação do valor ou percentual a ser majorado. Precedentes.
+4. Hipótese em que a majoração da verba honorária em 15% sobre o valor fixado anteriormente se mostra razoável, não importando excessivo gravame à parte recorrente.
+5.Embargos de declaração parcialmente acolhidos, sem efeitos infringentes, tão somente para sanar omissão do julgado acerca da majoração dos honorários recursais.
+VOTO
+Os embargos de declaração são instrumento processual excepcional e destinam-se ao aprimoramento do julgado que contenha obscuridade, contradição, erro material ou omissão sobre tema cujo pronunciamento se impunha manifestar o julgador. Não se prestam à simples reanálise da causa, nem são vocacionados a modificar o entendimento do órgão julgador.
+Na hipótese dos autos, contudo, verifica-se que a primeira das questões invocadas pelo embargante não constituiqualquer desses vícios, mas mero inconformismo com a conclusão adotadano acórdão embargado.
+Com efeito, o aresto, de forma clara e suficientemente fundamentada, asseverou que os embargos de divergência são inadmissíveis, na medida em que o acórdão impugnado, de lavra da 4ª Turma deste Tribunal, "substituindo a decisão unipessoal anteriormente proferida, não examinou o mérito da controvérsia recursal, por entender pela incidência da Súmula 182/STJ" (e-STJ fl. 1.436).
+Essa, de fato, é a situação dos autos, porquanto o acórdão combatido nos embargos de divergência se circunscreveu a analisar a ausência de impugnação de todos os óbicesutilizados pela Relatora para negar provimento ao agravo em recurso especial, como fica claro do seguintes excertos do julgado:
+"O agravo não merece conhecimento.
+Os argumentos jurídicos trazidos nas razões do agravo interno não se prestam a modificar o posicionamento anteriormente adotado.
+A decisão ora agravada ficou assim redigida (fls. 1.287/1.292):
+ ..
+Verifique-se que as razões do agravo não se prestam a combater os fundamentos da decisão agravada, pois, a parte ora agravante, apenas, reitera as razões elencadas no especial, deixando de se pronunciar acerca da aplicação das Súmulas 282, 283 e 284/STF; e da conclusão de que "a jurisprudência desta Corte não admite a emenda da inicial após o oferecimento da contestação quando tal diligência ensejar a modificação do pedido ou da causa de pedir, em face da regra do 329, I, do Código de Processo Civil/2015 (art. 264 do Código de Processo Civil/1973)" (fl. 1.290).
+Nesse contexto, impende ressaltar que, em respeito ao princípio da dialeticidade, os recursos devem ser bem fundamentados, sendo necessária a impugnação específica a todos os pontos analisados na decisão recorrida, sob pena de não conhecimento do recurso, por ausência de cumprimento dos requisitos previstos no art. 932, inciso III, do Código de Processo Civil de 2015, e pela aplicação analógica da Súmula 182/STJ. Nesse sentido, confiram-se:
+ ..
+Imprescindível, portanto, para o conhecimento do recurso, que seja feita a impugnação específica de todos os seus motivos determinantes, explicitando-se, de forma articulada e argumentativa, as razões que justificariam a prolação de decisão em sentido diverso.
+A Corte Especial do STJ, em recente julgamento (EAREsp 746.775/PR), manteve o citado entendimento, sob pena de não conhecimento do agravo, ante a incidência da Súmula 182/STJ. Confira-se a ementa do aludido julgado:
+ ..
+Nesse precedente, o Colegiado, por maioria, negou provimento aos embargos de divergência e manteve a decisão da Segunda Turma do STJ, que não conheceu do agravo, por aplicação da Súmula 182/STJ, visto que a parte agravante não atacou todos os pontos da decisão que não admitiu o recurso especial. Conforme o voto vencedor, tanto no Código de Processo Civil/1973 quanto no Código de Processo Civil/2015 há regra expressa que remete às disposições mais recentes do Regimento Interno do STJ, no sentido da obrigatoriedade da impugnação de todos os fundamentos da decisão que não admite recurso especial.
+Para o Ministro relator, não há possibilidade de impugnação parcial da decisão que deixa de admitir recurso especial, já que tal decisão é incindível e deve ser impugnada em sua integralidade. A não obediência a essa regra implicaria o exame indevido de questões (já atingidas pela preclusão consumativa, decorrente da inércia da parte agravante em se manifestar no momento oportuno), pois o conhecimento do agravo obriga o STJ a conhecer de todos os fundamentos do recurso especial.
+Assim, não cumprida a exigência constante do art. 1.021, § 1º, do Código de Processo Civil/2015, não conheço do agravo interno" (e-STJ fls. 1.326/1.335, grifou-se).
+Ao contrário do que afirma o ora embargante, o mérito recursal efetivamente não fora enfrentado pela Turma Julgadora, evidenciando-se, pois,a incidência da Súmula 315/STJ aos embargos de divergência que opusera.
+Não há que se falar, destarte, em qualquer omissão do acórdão embargado quanto à alegada inaplicabilidade da referida Súmula.
+Por outro lado, observa-se que o acórdão embargado realmente deixou de examinar a questão relativa à majoração dos honorários advocatícios, circunstância que impõe o acolhimento dos presentes aclaratórios quanto ao ponto, a fim de integrar o julgado.
+Nesse passo, verifica-se que,nas razões do agravo interno de fls. 1.410/1.420 (e-STJ), o ora embargante defendeu a impossibilidade de majoração dos honorários advocatícios em razão da oposição dos embargos de divergência, os quais não teriam ocasionado à parte adversa qualquer trabalho adicional, tanto que sequer apresentou resposta ao recurso. Outrossim, questionou o embargante a majoração aplicada, na ordem de 15%, que alegaser excessivo.
+Não lhe assiste razão, contudo.
+Consoante a iterativa jurisprudência desta Corte, a majoração dos honorários advocatíciosem grau recursal,na forma do art. 85, § 11, do CPC/2015,é devida ainda que a parte adversa não tenha apresentado resposta ao recurso interposto, circunstância essa que deve ser considerada tão somente para a quantificação do valor ou percentual a ser majorado.
+Nesse sentido, veja-se:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO DE INADMISSIBILIDADE DO RECURSO ESPECIAL. MAJORAÇÃO DO VALOR DOS HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA. ART. 85, § 11, DO CPC/2015. DESNECESSIDADE DE APRESENTAÇÃO DE CONTRARRAZÕES PELA PARTE RECORRIDA. CRITÉRIO DE QUANTIFICAÇÃO DA QUANTIA A SER MAJORADA, NÃO CONDIÇÃO PARA A MAJORAÇÃO. MANUTENÇÃO DA DECISÃO AGRAVADA.AGRAVO INTERNO DESPROVIDO".
+(AgInt nos EDcl no AREsp 1778086/MG, 3ª Turma, DJe 08/06/2021)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PLANO DE SAÚDE.INADIMPLÊNCIA. DESCONTO DA MENSALIDADE REJEITADO. PAGAMENTO DO BOLETO ENVIADO EM ATRASO. RESCISÃO UNILATERAL. AUSÊNCIA DE NOTIFICAÇÃO PRÉVIA. REEXAME. SÚMULAS N. 7 E 83/STJ. HONORÁRIOS ADVOCATÍCIOS. MAJORAÇÃO. NECESSIDADE. ART. 85, § 11, DO CPC. NÃO PROVIMENTO.
+ ..
+3. É possível a majoração dos honorários em sede de recurso, nos termos do art. 85, § 11, do Código de Processo Civil de 2015, mesmo quando não apresentadas contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos infundados pela parte vencida.
+4. Agravo interno a que se nega provimento".
+(AgInt no AREsp 1460199/RJ, 4ª Turma, DJe 27/11/2020)
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA.INOVAÇÃO RECURSAL. FATOS ALEGADOS PELO AUTOR DEVIDAMENTE IMPUGNADOS PELO RÉU. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO DA EXORDIAL. PRESUNÇÃO RELATIVA DE VERACIDADE. ACÓRDÃO EM CONSONÂNCIA COM A JURISPRUDÊNCIA DESTA CORTE SUPERIOR. SÚMULA 83/STJ. HONORÁRIOS RECURSAIS. FIXAÇÃO. POSSIBILIDADE. AGRAVO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, DESPROVIDO.
+ ..
+4. Haverá a majoração dos honorários recursais (art. 85, § 11, do CPC/2015) ainda que a parte adversa não tenha apresentado resposta ao recurso interposto.
+5. Agravo interno parcialmente conhecido e, nessa extensão, desprovido".
+(AgInt no AREsp 1310193/GO, 3ª Turma, DJe 17/09/2019)
+"AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO NO RECURSO EXTRAORDINÁRIO.MAJORAÇÃO DE HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. DESNECESSIDADE DE REQUERIMENTO PELO RECORRIDO EM CONTRARRAZÕES. DESPROVIMENTO DA INSURGÊNCIA.
+1. O art. 85, § 11, do Código de Processo Civil estabelece que "o tribunal, ao julgar recurso, majorará os honorários fixados anteriormente levando em conta o trabalho adicional realizado em grau recursal, observando, conforme o caso, o disposto nos §§ 2º a 6º, sendo vedado ao tribunal, no cômputo geral da fixação de honorários devidos ao advogado do vencedor, ultrapassar os respectivos limites estabelecidos nos §§ 2º e 3º para a fase de conhecimento".
+2. Na espécie, considerando que o recurso extraordinário foi interposto na vigência do atual Código de Processo Civil, é devida a fixação de honorários recursais. Precedentes do STJ.
+3. É pacífico nesta Corte Superior de Justiça que a majoração dos honorários é cabível ainda que o recorrido não tenha apresentado contrarrazões, pois se trata de medida que visa a desestimular a interposição de recursos pela parte vencida, razão pela qual é possível o seu estabelecimento em sede de embargos de declaração, não havendo que se falar em preclusão.
+4. Agravo interno não provido".
+(AgInt nos EDcl no RE no AgInt no AREsp 1626251/SP, Corte Especial, DJe 07/12/2020)
+"PROCESSUAL CIVIL. AGRAVO INTERNO. EMBARGOS DE DECLARAÇÃO. EMBARGOS DE DIVERGÊNCIA. MAJORAÇÃO DA VERBA HONORÁRIA RECURSAL. ART. 85, § 11, DO CPC.
+1. É dispensada a configuração do trabalho adicional do advogado para a majoração dos honorários na instância recursal, que será considerado, no entanto, para a quantificação dessa verba.Precedentes.
+2. Agravo interno não provido".
+(AgInt nos EDcl nos EAREsp 1154530/RS, Corte Especial, DJe 27/02/2019)
+No mais, observa-se que o embargante questiona a majoração da verba honorária aplicada na decisão defls. 1.405/1.1.407 (e-STJ), no patamar de 15% sobre o valor já arbitrado anteriormente, sem, contudo, trazer qualquer argumento hábil a sustentar sua insurgência.
+Como afirmado, para além de não ser exigidaa comprovação deefetivo trabalho adicional realizado pelo advogado da parte recorrida para a majoração dos honorários, verifica-se que o percentual de 15% se mostra razoável, pois incidirá sobre a modesta verba honorária fixada na sentença pelo juízo do 1º grau de jurisdição, a saber, R$ 5.000,00 para os patronos de cada réu (e-STJ fl. 991).
+Dessa maneira, em suma, a insurgência do embargante no tocante à majoração dos honorários advocatícios em grau recursal, apesar de conhecida, não merece prosperar.
+Forte nessas razões, ACOLHO EM PARTE os presentes embargos de declaração, sem efeitos infringentes, tão somente para sanar omissão acerca da majoração dos honorários recursais, nos termos supra.
