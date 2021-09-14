@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de conflito positivo de competência, instaurado por NACIONAL EXPRESSO LTDA. - EM RECUPERAÇÃO JUDICIAL, envolvendo or. Juízo de Direito da 7ª Vara Cível de Uberlândia/MG, no qual se processa a recuperação judicial da suscitante (Processo nº 5002607-33.2016.8.13.0702), e o r. Juízo da 5ª Vara do Trabalho de Uberlândia/MG, onde tramita a Reclamação Trabalhista nº 0002335-52.2012.5.03.0134, movida por DAVI AMORIM BAIA.
+Aduz a suscitante, em síntese, que o Juízo Trabalhista determinou a realização de atos executórios contra seus bens nos autos da mencionada ação trabalhista, na qual figura como reclamada, invadindo, assim, competência exclusiva do Juízo da Recuperação Judicial, que, conforme alega, é o foro competente para tratar de atos que afetem seu patrimônio.
+Cita, em favor de sua tese, os seguintes julgados deste STJ: AgRg nos EDcl no CC 136.571/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, unânime, DJe de 31.5.2017; AgRg no CC n. 130.138/GO, Rel. Ministro Raul Araújo, Segunda Seção, DJe de 21/11/2013.
+Diante disso, requer a concessão de liminar objetivando o sobrestamento dos atos executivos determinados na demanda laboral, com designação do Juízo Universal para resolver, em caráter provisório, as medidas urgentes, evitando-se, assim, que a constrição de seus bens prossiga e inviabilize o processo de soerguimento ao qual está submetida.
+No mérito, pugna pela declaração de competência do Juízo da Recuperação Judicial para tratar dos atos de caráter executório que afetem seu acervo patrimonial.
+É o relatório.
+Decide-se
+Inicialmente, destaca-se a competência deste Superior Tribunal de Justiça para o exame do presente incidente, uma vez que envolve juízos vinculados a Tribunais diversos, nos termos do que dispõe o artigo 105, inciso I, alínea "d", da Constituição Federal.
+1. Uma vez iniciada a recuperação judicial, é mister que os atos constritivos aos ativos da sociedade sejam submetidos ao Juízo Recuperacional, sob pena de esvaziamento dos propósitos da recuperação, mesmo após transcorrido o prazo de 180 dias (art. 6º, § 4º, da Lei 11.101/2005). Nesse sentido, vale conferir os seguintes julgados:
+AGRAVO INTERNO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. CRÉDITOS TRABALHISTAS. PENHORA ANTERIOR.
+1. Encontra-se pacificado na jurisprudência desta Corte o entendimento de que, deferido o pedido de recuperação judicial, as ações e execuções trabalhistas devem prosseguir no âmbito do juízo universal, mesmo nos casos de penhora anterior ou naqueles em que ultrapassado o prazo de suspensão de que trata o artigo 6º, § 4, da Lei 11.101/2005.
+2.Agravo interno não provido.
+(AgInt no CC 146.036/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO, julgado em 14/09/2016, DJe 20/09/2016)
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. CONFLITO DE COMPETÊNCIA. EXECUÇÃO DE CUSTAS JUDICIAIS NO ÂMBITO TRABALHISTA. NATUREZA FISCAL. DEFERIMENTO DA RECUPERAÇÃO JUDICIAL. SUSPENSÃO DA EXECUÇÃO FISCAL. NÃO OCORRÊNCIA. ART. 6º, § 7º, DA LEI Nº 11.101/05, COM A RESSALVA NELE PREVISTA. PRÁTICA DE ATOS QUE COMPROMETAM O PATRIMÔNIO DO DEVEDOR OU EXCLUAM PARTE DELE DO PROCESSO DE RECUPERAÇÃO JUDICIAL. IMPOSSIBILIDADE. POSSIBILIDADE DE PARCELAMENTO. COMPETÊNCIA DO JUÍZO DA RECUPERAÇÃO JUDICIAL. PRECEDENTES.
+1. Em regra, uma vez deferido o processamento ou, a fortiori, aprovado o plano de recuperação judicial, revela-se incabível o prosseguimento automático das execuções individuais, mesmo após decorrido o prazo de 180 dias previsto no art. 6º, § 4, da Lei 11.101/2005. Precedentes.
+(..)
+(AgRg no CC 116.594/GO, Rel. Ministro LUIS FELIPE SALOMÃO, SEGUNDA
+SEÇÃO, julgado em 14/03/2012, DJe 19/03/2012)
+E ainda: CC 131.894/SP, Rel. Ministro RAUL ARAÚJO, SEGUNDA SEÇÃO, julgado em 26/02/2014, DJe 31/03/2014; CC 146.657/SP, Rel. Ministro MOURA RIBEIRO, SEGUNDA SEÇÃO, julgado em 26/10/2016, DJe 07/12/2016.
+2. Do exposto, com fundamento no art. 955, do NCPC, conheço do presente conflito e, por conseguinte, declaro a competência do r. Juízo de Direito da 7.ª Vara Cível da Comarca de Uberlândia/MG, para a prática de atos constritivos relativos aopatrimônio daNACIONAL EXPRESSO LTDA., relativos à Execução Trabalhista n.º0002335-52.2012.5.03.0134, movida por DAVI AMORIM BAIAcontra asuscitante, em trâmite perante o Juízo da 5.ª Vara do Trabalho de Uberlândia/MG, bem como para exercer o controle sobre bens e valores pertencentes àsuscitants, que eventualmente ainda permaneçam bloqueados/arrecadados nos referidos autos.
+Publique-se. Intimem-se. Oficie-se
