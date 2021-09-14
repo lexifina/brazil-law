@@ -1,0 +1,26 @@
+DECISÃO
+Cuida-se de agravo apresentado por BANCO DO BRASIL SA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SANTA CATARINA, assim resumido:
+AGRAVO DE INSTRUMENTO (ARTIGO 1.015, PARÁGRAFO ÚNICO, DO CPC/2015). AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. DECISÃO INTERLOCUTÓRIA QUE DESCONSTITUIU A PENHORA. RECURSO DO EXEQUENTE. INOBSERVÂNCIA DO COMANDO JUDICIAL PRETÉRITO QUE DETERMINOU A INTIMAÇÃO PESSOAL DO PROPRIETÁRIO DO IMÓVEL PENHORADO E DO RESPECTIVO CÔNJUGE. DECISÃO PRETÉRITA NÃO RECORRIDA. PRECLUSÃO TEMPORAL DE SE INSURGIR QUANTO À ORDEM DE INTIMAÇÃO. ADEMAIS, INTIMAÇÕES QUE SE REVESTEM DE REQUISITOS LEGAIS DO ATO DE CONSTRIÇÃO JUDICIAL (ARTIGO 655, § 2º, DO CPC/73, VIGENTE À ÉPOCA), SOBRETUDO POR RECAIR SOBRE BEM DE PESSOA QUE NÃO FIGURA COMO PARTE DO PROCESSO. RECURSO CONHECIDO E DESPROVIDO.
+Quanto à primeira controvérsia, alega violação do art. 835, § 3º, do CPC, no que concerne à impossibilidade de desconstituição da penhora de bem dado em garantia, argumentando que:
+Porém, conforme amplamente debatido nos autos, o disposto no artigo 835, §3 do Código de Processo Civil determina que na execução de crédito com garantia real a penhora recairá sobre a coisa dada em garantia, in verbis:
+ ..
+Tem-se, portanto, que se o bem foi dado em garantia contratual, consequentemente, o mesmo deve ser penhorado.
+ ..
+Diante do fato de que o recorrido estava inadimplente e do cumprimento de todos os requisitos exigidos pelo diploma, nos termos do art. 835, §3 do CPC, a penhora do bem dado em garantia era medida que se impunha.
+Frise-se, que não houve qualquer desídia da parte recorrente para o andamento processual, inclusive para penhora do bem, conforme o dispositivo invocado (fl. 148).
+Quanto à segunda controvérsia, alega violação dos arts. 841, § 4º, e 274 do CPC, no que tange à validade da intimação enviada para o endereço da citação, trazendo os seguintes argumentos:
+Contudo, devemos frisar que o ora recorrido mudou de endereço sem a prévia comunicação ao juízo, assim, a intimação foi envida para o endereço no qual o proprietário havia sido citado, o disposto no artigo 841, §4 do Código de Processo Civil determina que não existindo a prévia comunicação da alteração do endereço, a intimação irá ser considerada realizada, in verbis:
+ ..
+O art. 274 também nos traz que as intimações serão feitas pelo correio, sendo presumidas válidas as enviadas para o endereço constante nos autos, vejamos:
+ ..
+Assim, não tendo o recorrido informado o novo endereço, e tendo sido enviada a intimação para o endereço anterior onde o mesmo foi citados, como efeito, a intimação é considerada válida e realizada, nos termos dos art. 274 e 841, §4, ambos do CPC (fl. 149).
+É, no essencial, o relatório. Decido.
+Na espécie, incide o óbice da Súmula n. 283/STF, uma vez que a parte deixou de atacar fundamento autônomo e suficiente para manter o julgado, qual seja:
+Não bastasse isso, conquanto o imóvel penhorado seja objeto de garantia real, não se pode ignorar que a penhora recai sobre bem de propriedade de pessoa que não figura como executada, de sorte que não integra a relação jurídica processual, razão pela qual é evidente a necessidade de intimação pessoal do titular do domínio acerca de todos os atos constritivos que incidam sobre o bem.
+Além disso, é obrigatória a intimação pessoal do cônjuge do proprietário do bem penhorado, por força do disposto no art. 842 do Código de Processo Civil (correspondente ao art. 655, § 2º, do CPC/73, vigente à época da penhora), segundo o qual "recaindo a penhora sobre bem imóvel ou direito real sobre imóvel, será intimado também o cônjuge do executado, salvo se forem casados em regime de separação absoluta de bens".
+Referidas intimações são requisitos de validade da penhora, motivo por que está correta a decisão interlocutória ora agravada que desconstituiu o ato de constrição judicial ante a inércia da instituição financeira ao comando judicial que ordenou que ela promovesse a cientificação dos proprietários do imóvel constrito (fl. 72).
+Nesse sentido: "A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não-conhecimento da pretensão recursal, a teor do entendimento disposto na Súmula n. 283/STF: "É inadmissível o recurso extraordinário quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles"". (AgInt nos EDcl no AREsp n. 1.317.285/MG, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de19/12/2018.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.572.038/RS, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.157.074/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 5/8/2020; AgInt no REsp 1.389.204/MG, relator Ministro Og Fernandes, Segunda Turma, DJe de 3/8/2020; AgInt no REsp 1.842.047/RS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 26/6/2020; e AgRg nos EAREsp 447.251/SP, relator Ministro João Otávio de Noronha, Corte Especial, DJe de 20/5/2016.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
