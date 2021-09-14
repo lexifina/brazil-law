@@ -1,0 +1,43 @@
+DECISÃO
+Na origem, Supermercado Boa Esperança Eireli (Supermercado Boa Esperença Ltda.) ajuizou ação de consignação em pagamento c/c pedido de tutela de evidênciacontra Banco Santander (Brasil) S.A., objetivando a concessão da tutela de urgência a fim de promover os depósitos judiciais dos valores que entendeu devidos, decorrentes de transações de crédito efetuados com a instituição financeira, assim como que o requerido fosse compelido a se abster de incluir seu nome nos cadastros de restrição ao crédito.
+Contudo, oJuízo de primeiro grau julgou extinto o processo, sem resolução de mérito (e-STJ, fls. 113-115).Interposto recurso de apelação pela parte autora, o Desembargador relatornão conheceu do apelo (e-STJ, fls. 182-184).
+No julgamento do agravo interno, a Terceira Câmara Cível do Tribunal de Justiça do Rio Grande do Nortenegou provimento ao recursoem aresto assim ementado (e-STJ, fl. 229):
+AGRAVO INTERNO EM APELAÇÃO CÍVEL. DECISÃO QUE NÃO CONHECEU DO APELO POR VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE (RAZÕES DISSOCIADAS).MANUTENÇÃO QUE SE IMPÕE. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA AOS TERMOS DA SENTENÇA. IRREGULARIDADE FORMAL.INEXISTÊNCIA DE ELEMENTOS APTOS A MODIFICAR A DECISÃO AGRAVADA.INTELIGÊNCIA DO ART. 1.010 DO CPC.
+RECURSO CONHECIDO E DESPROVIDO.
+Nas razões do recurso especial, o recorrente, com fundamento na alínea a do permissivo constitucional, alegou violação aos arts. 478, 479 e 480 do CC/2002; e 489, § 1º, 539, 1.010, II e III, e 1.022 do CPC/2015.
+Sustentou que, diversamente do acórdão recorrido, houve impugnação específica quanto aos fundamentos adotados pelo Juízo de primeiro grau acerca da alteração unilateral do contrato e da aplicação da teoria da imprevisão em conjunto com a legislação consumerista.
+Defendeu ainda a aplicação da teoria da imprevisão, em razão da crise econômica pela qual passa o país, além de aduzir que a consignação judicial seria medida necessária para evitar a constituição dos efeitos da mora sem precisar revisar o contrato.
+Contrarrazões apresentadas às fls. 277-279 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial ante a falta de ofensa aos arts. 489, 1.010 e 1.022 do CPC/2015, bem como pela incidência das Súmulas 282 e 356 do STF e 5 e 7 do STJ.
+Brevemente relatado, decido.
+De início, no que concerne à alegada violação dos arts. 489 e 1.022 do Código de Processo Civil de 2015, observa-se que não houve a indicação pormenorizada dos pontos supostamente omitidos pela Corte de origem, tampouco acerca de quais temas a fundamentação do acórdão estaria deficiente, apresentando-se a fundamentação do recurso, no ponto, genérica, a ensejar a incidência da Súmula 284/STF.
+Nesse sentido:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.VIOLAÇÃO DOS ARTIGOS 489 E 1022, INC. II, DO CPC/2015.FUNDAMENTAÇÃO DEFICIENTE. INCIDÊNCIA, POR ANALOGIA, DA SÚMULA 284/STF. DANOS MORAIS. REVISÃO DO VALOR INDENIZATÓRIO.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ.DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO. AUSÊNCIA DE SIMILITUDE FÁTICA ENTRE OS ACÓRDÃOS CONFRONTADOS.
+1. A alegação de violação dos arts. 489 e 1.022 do CPC/2015 deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado, sob pena de não conhecimento, à luz da Súmula 284 do STF.
+ ..
+4. Agravo interno não provido.(AgInt no AREsp 1.851.514/RJ, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 16/8/2021, DJe 18/8/2021)
+Ademais, o Colegiado localao manter o entendimento proferido pela decisão unipessoal, consignou o seguinte (e-STJ, fls. 230-232):
+Compulsando os autos, entendo que deve ser mantida a decisão ora recorrida, tendo em conta que o apelo, ao contrário do que sustenta o agravante no presente recurso, não atacou especificamente a falta de interesse de agir da parte autora para a propositura da presente ação (art. 485, VI, do CPC), limitando-se, de forma genérica, a fazer consideraçõessobre a incidência do CDC, a teoria da imprevisão, a necessidade de perícia, os arts. 478 a 480 do Código Civil, violando, portanto, a regra prevista no art. 1.010, II e III do CPC/15 (antigoart. 514, II, do CPC/73).
+A exigência posta no artigo acima referenciado se dá em observância ao princípio da dialeticidade recursal, que impõe à parte recorrente o ônus de fundamentar o recurso, expondo as razões hábeis à reforma da decisão sob impugnação em referência ao que nela foi efetivamente decidido. A propósito, ensina Araken de Assis:
+(..)
+Desse modo, entendo que a parte ora agravante não apresentou qualquer outra questão de ordem fática ou jurídica capaz de alterar o decisumatacado, razão pela qual deveeste ser mantido inalterado.
+Ante o exposto, voto pelo conhecimento e desprovimento do presente recurso, mantendo, por consequência, a decisão agravada.
+Dito isso, em que pese à argumentação expendida, verifica-se dos trechos acima transcritos que o conteúdo normativo referente aos arts. 478, 479 e 480 do Código Civil de 2002 e 539 do Código de Processo civil/2015 não foi debatido na origem, tampouco foram opostos embargos de declaração.
+Para que se atenda ao requisito do prequestionamento, é necessária a efetiva discussão do tema pelo Tribunal de origem, ainda que em embargos de declaração, o que, na espécie, não ocorreu. Incidência das Súmulas n. 282 e 356 do Supremo Tribunal Federal.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO ORDINÁRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO. INSURGÊNCIA DA DEMANDADA.
+1. Incidência das Súmulas 282 e 356 do STF, ante a ausência de prequestionamento do dispositivo apontado como violado, porquanto não teve o competente juízo de valor aferido, nem interpretado ou a sua aplicabilidade afastada ao caso concreto pelo Tribunal de origem.
+2. Reexaminar o entendimento do Tribunal local, demandaria revolvimento de matéria fático-probatória e interpretação das cláusulas contratuais, procedimentos inviáveis nesta via extraordinária, consoante disposto nas Súmulas 5 e 7 do STJ.
+3. Agravo interno desprovido. (AgInt no AREsp 1.755.873/SC, Rel. Ministro MARCO BUZZI, QUARTA TURMA, julgado em 23/8/2021, DJe 26/8/2021)
+Outrossim, da análise dos trechos transcritos acima, constata-se que o acórdão recorrido afirmou categoricamente que o ora agravante deixou de impugnar de forma específica a falta de interesse de agir para a propositura da ação, sendo assim, essa conclusão encontra-se emconsonância com a jurisprudência desta Corte, a qual firmou-se no sentido de que, em razão doprincípio da dialeticidade, se a parte não impugna os fundamentos da sentença, não há como conhecer da apelação, por descumprimento do art. 1.010, II, do CPC/2015.
+A propósito:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ORDINÁRIO NOS EMBARGOS DE DECLARAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. AÇÃO DE REINTEGRAÇÃO DE POSSE.INTERPOSIÇÃO DE RECURSO ESPECIAL. ERRO GROSSEIRO. CABIMENTO DO RECURSO DE AGRAVO INTERNO. FUNGIBILIDADE RECURSAL. INAPLICABILIDADE.PRINCÍPIO DA DIALETICIDADE. INOBSERVÂNCIA.
+1. Ação de reintegração de posse.
+2. A interposição equivocada de recurso quando há expressa disposição legal do recurso cabível, afasta a dúvida objetiva e constitui manifesto erro grosseiro, não sendo possível a aplicação do princípio da fungibilidade recursal. Precedentes.
+3. Em obediência ao princípio da dialeticidade, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Precedentes.
+4. Agravo interno não provido (AgInt no RO nos EDcl nos EDcl no AREsp 1.678.511/GO, Rel. Ministra NANCY ANDRIGHI, Terceira Turma, julgado em 12/4/2021, DJe 15/4/2021)
+Dessa forma, encontrando-se o acórdão recorrido em consonância com a jurisprudência desta Corte, inarredável a aplicação da Súmula 83/STJ a obstar a análise do reclamo.
+Diante do exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO INTERNO. APELAÇÃO. AÇÃO DE CONSIGNAÇÃO EM PAGAMENTO C/C TUTELA DE EVIDÊNCIA. 1.VIOLAÇÃO AOS ARTS. 489 E 1.022, II, DO CPC/2015. DEFICIÊNCIA NA FUNDAMENTAÇÃO. INCIDÊNCIA DA SÚMULA 284/STF. 2.AUSÊNCIA DE PREQUESTIONAMENTO DOS DISPOSITIVOS LEGAIS APONTADOS COMO VIOLADOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULAS 282 E 356/STF. 3.NÃO CONHECIMENTO DO APELO RECURSALEMRAZÃO DE VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. APELAÇÃO COMRAZÕES DISSOCIADAS DA SENTENÇA.ACÓRDÃO EM HARMONIA COM A JURISPRUDÊNCIADESTA CORTE. SÚMULA 83/STJ.4. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO.
