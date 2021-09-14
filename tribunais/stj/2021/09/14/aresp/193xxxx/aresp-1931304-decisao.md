@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo (art. 1042 do CPC/15), interposto por BANCO DO BRASIL S/A, contra decisão que não admitiu recurso especial (fls. 425/428 e-STJ).
+O apelo nobre, amparado no art. 105, inciso III, alínea "a", da Constituição Federal, desafia acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo, assim ementado (fl. 321, e-STJ):
+APELAÇÃO EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA Litispendência Ocorrência Existência de demanda precedente entre as mesmas partes e com o mesmo objeto Ação individual já julgada por sentença e pendente de recurso Obtenção dos efeitos erga omnes da sentença coletiva que deveria ter sido requerido até 30 dias a contar do ajuizamento desta ação Art. 104, do CDC cc art. 21, da LACP Impossibilidade de existirem duas execuções Sentença anulada. APELAÇÃO EXPURGOS INFLACIONÁRIOS AÇÃO CIVIL PÚBLICA CUMPRIMENTO DE SENTENÇA Ausência de interesse recursal Banco que realizou depósito da quantia pleiteada, sem qualquer indicação de que o estivesse fazendo para fins de garantia do direto de oferta de impugnação, o qual, aliás, não exerceu, deixando de apresentar qualquer resistência ao pedido formulado Cenário que permitiu tomar-se o depósito como pagamento, e extinguir-se o feito com base no art. 794, inc. I, do CPC/1973 Atitude processual do apelante que equivaleu ao reconhecimento da dívida, faltando-lhe, efetivamente, interesse recursal para opor-se à sentença de extinção do processo Pretensão de análise de questão relativa à competência e prescrição Descabimento Comportamento inicial do recorrente incompatível com a alegação. Processo julgado extinto em relação à uma das exequentes. Recurso não conhecido em relação aos demais.
+Opostos embargos de declaração, foram rejeitados (fls. 355/357, e-STJ).
+Nas razões do apelo extremo (fls. 360/383, e-STJ), o Recorrente aponta ofensa aos artigos 2º-A da Lei 9494/97, 503 e 509, § 4º, do CPC.Sustenta, em síntese: (i) a necessidade de suspensão dos processos que tenham por objeto matéria sobre expurgos inflacionários; (ii) a ilegitimidade ativa dos poupadores por ausência de comprovação de vínculo associativo ao IDEC; (iii) a inexigibilidade da sentença coletiva fora dos limites territoriais do órgão prolator; (iv) o marco inicial para a incidência dos juros de mora é a citação para a liquidação de sentença;(v) a inaplicabilidade da Tabela Prática para atualização das contas de poupança, devendo ser utilizados os índices de remuneração próprios das cadernetas de poupança; (vi) deve ser reconhecida a prescrição; (vii) não são devidos juros remuneratórios.
+Após a apresentação das contrarrazões (fls. 388/422, e-STJ),o apelo não foi admitido na origem (fls. 425/428, e-STJ), dando ensejo ao agravo (fls. 431/455, e-STJ), visando destrancar o processamento daquela insurgência, no qual orecorrenterefuta os óbices aplicados pela Corte estadual.
+Contraminuta às fls. 458/467, e-STJ.
+É o relatório.
+Decide-se.
+O inconformismo não merece prosperar.
+1.Com efeito, os conteúdos normativos dos arts. 2º-A da Lei 9494/97, 503 e 509, § 4º, do CPC, bem como as teses suscitadas,não foram objeto de apreciação pelo Tribunal de origem.
+Cabe ressaltar que o prequestionamento, entendido como a necessidade de o tema objeto do recurso haver sido examinado pela decisão atacada, não sendo suficiente para a sua configuração a mera indicação pela parte do dispositivo legal que entende afrontado, constitui exigência inafastável contida na própria previsão constitucional ao tratar do recurso especial, impondo-se como um dos principais pressupostos ao seu conhecimento.
+Acrescente-se que a despeito de ratificar o prequestionamento da matéria supracitada, o agravante não alegou ofensa do art. 1022 do CPC/15- medida absolutamente necessária ao enfrentamento de possível negativa de prestação jurisdicional por esta Corte Superior.
+Dessa forma, não examinada pela instância ordinária a matéria objeto do especial, ausente o prequestionamento. Incide, portanto, o enunciado 211 de Súmula do Superior Tribunal de Justiça.
+A propósito:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 211/STJ. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. JULGAMENTO EXTRA PETITA. NÃO OCORRÊNCIA. COMISSÃO DE CORRETAGEM. INDENIZAÇÃO. CABIMENTO. REEXAME DE PROVAS. INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS. SÚMULAS NºS 5 E 7/STJ.
+(..)
+2. A falta de prequestionamento da matéria suscitada no recurso especial, a despeito da oposição de embargos declaratórios, impede seu conhecimento, a teor da Súmula nº 211 do Superior Tribunal de Justiça.
+(..)
+6. Agravo interno não provido.
+(AgInt no AREsp 1172051/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/03/2018, DJe 23/03/2018)
+2.Do exposto, com fundamento no art. 932 do NCPC c/c a súmula 568/STJ, nego provimento ao agravo.
+Publique-se. Intimem-se.
