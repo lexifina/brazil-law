@@ -1,0 +1,34 @@
+DECISÃO
+Na origem, Anderson Ferreira dos Santos, Fabiana Machado Ferreira dos Santos e Maurício Ferreira dos Santos ajuizaram ação de rescisão contratual c/c restituição e perdas e danoscontra Conquest Administradora e Participações Ltda., objetivandoa rescisão do contrato de promessa de compra e venda firmado entre as partes, além da declaração da retenção de parte de 15% sobre o valor adimplido e acondenação das requeridas à devolução dos valores pagos desde a citação.
+OJuízo de primeiro grau, após indeferir a tutela de urgência, julgou procedentes os pedidos iniciais (e-STJ, fls. 271-276).Interposto recurso de apelação pela parte requerida, a Quarta Câmara Cível do Tribunal de Justiça do Paraná negou provimento ao apelo em aresto assim ementado (e-STJ, fl. 399):
+APELAÇÃO CÍVEL - AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO C/C PERDAS E DANOS - RESOLUÇÃO DO CONTRATO POR PARTE DO PROMITENTE COMPRADOR - DEVER DA PROMITENTE VENDEDORA DEVOLVER PARTE DOS VALORES PAGOS - SÚMULA 543 DO STJ - RETENÇÃO, PERCENTUAL DE 15%, RAZOABILIDADE - MITIGAÇÃO DO PRINCÍPIO DO PACTA SUNT SERVANDA - VALORES RETIDOS QUE SERVEM PARA COBRIR AS DESPESAS ADMINISTRATIVAS COM COMISSÃO DE CORRETAGEM, PUBLICIDADE E ENCARGOS TRIBUTÁRIOS - RECURSO DESPROVIDO.
+Nas razões do recurso especial, arecorrente, com fundamento nas alíneasaecdo permissivo constitucional, alegou, além de divergência jurisprudencial, violação aoart. 927, III, do CPC/2015.
+Aduziu a aplicação da tese firmada no REsp 1.599.511/SP, haja vista que o contrato firmado entre as partes está em harmonia com a tese nele estabelecida.Defendeu ainda a inclusão nos valores a serem objeto da retenção da quantia a título de comissão de corretagem.
+Contrarrazões apresentadas às fls. 452-459 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especialpela incidência das Súmulas 5, 7 e 83 do STJ.
+Às fls. 542-544 (e-STJ), foi proferida decisão pela Presidência desta Corte, a qual não conheceu do recurso, por falta de impugnação a todos os fundamentos da decisão de inadmissibilidade.
+O decisum foi complementado pelo julgamento dos embargos de declaração opostos pela ora agravante, os quais foram rejeitados (e-STJ, fls. 561-563)
+Em suas razões de agravo interno, Conquest Administradora e Participações Ltda. assevera, em síntese, que impugnou especificamente a Súmula 83/STJ, além de que apontar que é evidente a interpretação lógico-sistemática do pedido a partir da postulação recursal nos termos do art. 322, § 2º, do CPC/2015.
+Impugnação apresentada àsfls. 579-584 (e- STJ).
+Brevemente relatado, decido.
+No caso, cumpre observar que a decisão do TJPR que negou seguimento ao recurso especial foi impugnada pelaagravante, ainda que sucintamente, motivo pelo qual, com base no art. 259 do RISTJ, reconsidero a decisão de fls. 542-544 (e- STJ), tendo em vista a inaplicabilidade do disposto no art. 932, III, do CPC/2015, e, constatando-se o preenchimento dos requisitos de admissibilidade recursal, passo a novo exame do recurso especial.
+Dito isso,quanto à comissão de corretagem, cumpre transcrever o seguinte excerto doacórdão estadual que versou sobre o tema (e-STJ, fls. 402-403):
+A Apelante ainda requer a reforma da sentença para que seja reconhecido o direito de retenção de comissão de corretagem; da taxa de publicidade; e encargos tributários.
+No entanto, cumpre esclarecer que o valor devido a título de comissão de corretagem, publicidade e encargos tributários está compreendido no montante da multa estabelecida pela cláusula penal compensatória. Isso porque a referida cláusula tem por escopo cobrir as despesas administrativas do contrato, dentre elas, comercialização e corretagem. Portanto, nova retenção caracterizaria bis in idem.
+Este é o entendimento deste tribunal ao julgar caso análogo:
+(..)
+Não obstante o STJ ter reconhecido que pode ser cobrada comissão de corretagem, como apontado no Resp 1.599.511/SP, é preciso analisar o caso como todo para apontar os valores que podem ser retidos.
+Note-se que a Apelante pretende a retenção de quase 34% do valor pago, com essas taxas.
+Portanto, a retenção de 15% dos valores efetivamente pagos pelos promitentes compradores revela-se razoável e proporcional para ressarcir eventuais custos operacionais suportados pela ré.
+O referido percentual é suficiente para compensar as despesas decorrentes do negócio e reparar os danos proporcionados pela rescisão do contrato.
+O montante a ser restituído deve ser calculado em sede de liquidação de sentença, com base nos valores comprovadamente pagos.
+Em atenção ao art. 85, §11 do CPC, majoro em 2% os honorários recursais, somando-se aos fixados em primeiro grau (15% sobre o valor atualizado da causa), nos termos do art. 85, §2º do CPC.
+Dos trechos acima transcritos observa-se queo valor devido a títulodecomissãode corretagemestá compreendido no montante estabelecidoda multapela cláusula penal compensatória. Isso porque a referida cláusula tem por escopo cobrir as despesas administrativas do contrato, dentre elas, comercialização ecorretagem, de modo que novaretençãocaracterizariabis in idem.
+Sendo assim, não se observa afronta ao entendimento proferido no REsp n. 1.599.511/SP, considerando que foi reconhecida a retenção do valor relativo a comissão de corretagem e não havendo falar em inobservância a tese vinculante nele estabelecida.
+Desse modo, verifica-se que o argumento recursal concernente à suposta violação ao art. 932, III, do CPC/2015, no sentido de ser adicionada nos valores a serem objeto da retenção a quantia a título de comissão de corretagem,está dissociado do que foi decidido no acórdão estadual,evidenciando a deficiência de fundamentação, a ensejar a aplicação, por analogia, do enunciado n. 284 da Súmula do Supremo Tribunal Federal, aplicável a ambas as alíneas do permissivo constitucional.
+Nesse sentido: "É deficiente a fundamentação do recurso especial quando há incompatibilidade entre a tese sustentada e o comando normativo contido no dispositivo legal apontado como descumprido. Incidência da Súmula nº 284 do STF" (AgInt no REsp 1.846.655/PR, Terceira Turma, Relator Ministro Moura Ribeiro, Terceira Turma, DJe de 23/4/2020).
+Ante o exposto, conheço do agravo, mediante juízo de retratação, para não conhecerdo recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte recorrida em 2% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. COMPRA E VENDA. AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES E PERDAS E DANOS. 1. PRETENSÃO DE RETENÇÃO DA QUANTIA RELATIVA À COMISSÃO DE CORRETAGEM, NOS TERMOS DO JULGAMENTO PROFERIDO NO RESP 1.599.511/SP.DEFICIÊNCIA DE FUNDAMENTAÇÃO. INCIDÊNCIA DASÚMULA 284/STF. 2. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 3.AGRAVO CONHECIDO, MEDIANTE JUÍZO DE RETRATAÇÃO, PARA NÃO CONHECER DO RECURSO ESPECIAL.
