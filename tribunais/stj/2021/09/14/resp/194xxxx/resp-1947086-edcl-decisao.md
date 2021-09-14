@@ -1,0 +1,13 @@
+DECISÃO
+Trata-se de embargos de declaração interpostos contra decisão monocrática de minha lavra, acostada às e-STJ fls. 262/265 onde foi dado parcial conhecimento e, nessa parte, provimentoao recurso especial, consoante a seguinte ementa:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROCESSUAL CIVIL. TRIBUTÁRIO. IMPOSTO DE RENDA. PROGRAMA DE ALIMENTAÇÃO DO TRABALHADOR - PAT. ART. 1º, DA LEI N. 6.321/76. FORMA DE CÁLCULO. DEDUÇÃO SOBRE O LUCRO TRIBUTÁVEL DA EMPRESA E NÃO SOBRE O IMPOSTO DE RENDA DEVIDO, O QUE REFLETE NO CÁLCULO DO ADICIONAL DO IMPOSTO DE RENDA, AFASTANDO A VEDAÇÃO CONSTANTE DO ART. 3º, §4º, DA LEI N. 9.249/95. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA PARTE, PROVIDO (ART. 932, III E V, CPC/2015 C/C ART. 255, § 4º, I E III, RISTJ).
+Sustenta a embargante que "deva ser afastada a obscuridade para ratificar e reforçar a decisão, esclarecendo que os decretos que alteraram a forma de cálculo do PAT não são válidos, ponto este objeto do recurso especial, pelas alíneas "a" e "c". "
+Impugnação nas e-STJ fls. 325/378.
+É o relatório. Passo a decidir.
+Com efeito, não vislumbro na decisão quaisquer das omissões apontadas. Na decisão restou claro que a dedução é do lucro tributável e não do imposto de renda devido. Sendo assim, tudo o que contiver nos atos normativos infralegais contrário a essa lógica da base de cálculo do benefício está eivado de ilegalidade. Os aclaratórios são preciosismo da embargante.
+Desta forma, indubitável que o aresto ora atacado abordou todos os pontos necessários à composição da lide, oferecendo conclusão conforme a prestação jurisdicional solicitada, encontrando-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado e desprovido de obscuridades ou contradições, o que impõe a rejeição dos presentes embargos. Verifica-se, na verdade, que o objetivo da embargante é obter um novo julgamento de mérito do recurso especial, sendo absolutamente inaceitável na via aclaratória.
+Os embargos de declaração constituem instrumento processual com o escopo de eliminar do julgamento obscuridade, contradição ou omissão sobre tema cujo pronunciamento se impunha pelo acórdão ou, ainda, de corrigir evidente erro material, servindo, dessa forma, como instrumento de aperfeiçoamento do julgado (CPC/2015, art. 1.022). Não havendo quaisquer desses vícios, impõe-se a sua rejeição.
+Desta forma, REJEITO os presentes embargos de declaração.
+Publique-se. Intimem-se.
+EMENTA
+EMBARGOS DE DECLARAÇÃO EM RECURSO ESPECIAL. AUSÊNCIA DE ERRO, OBSCURIDADE, CONTRADIÇÃO OU OMISSÃO. EMBARGOS REJEITADOS.
