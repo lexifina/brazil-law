@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por MARCOS PAULO WASCHINTON DE SOUZA contra a decisão que indeferiu pedido de reabertura do prazo recursal.
+Nas razões destes aclaratórios, o embargante alega que,"após a disponibilização da decisão que negou o Recurso Especial, foram emitidas intimações para a autoridade públicas" e que "Nenhuma intimação foi enviada para a parte ou para sua defesa", razão pela qual sustenta que"essa situação fere a paridade de armas entre defesa e acusação, uma vez que ambas  as  partes devem ser tratadas de forma igualitária;portanto, assim como foram expedidas intimações ao MPF e MPSC, deveria ser expedida intimação para a defesa" (e-STJ fl. 16). Defende, ainda, que "não foi respeitado o escoamento do prazo recursal, ou seja, entre a disponibilização da decisão e acertificação do trânsito, passaram-se somente 6 dias, compreende-se que a parte teria, ao menos, 15 dias para apresentação qualquer outra forma de recurso" (e-STJ fls. 16/17). Ao final, requer o acolhimento dos embargos de declaração com efeitos modificativos.
+É o relatório. Decido.
+O cabimento dos embargos de declaração está vinculado à demonstração de que a decisão embargada apresenta um dos vícios previstos no art. 619 do Código de Processo Penal, quais sejam, ambiguidade, obscuridade, contradição ou omissão.
+A mera irresignação com o resultado do julgamento, visando, assim, à reversão do que já foi regularmente decidido, não tem o condão de viabilizar a oposição dos aclaratórios.
+Na hipótese, verifica-se que o embargante nem sequer aponta qualquer um dos vícios que autorizaria o cabimento desta espécie de recurso.
+De qualquer forma, cumpre ressaltar que a decisão embargada analisou as questões submetidas ao crivo desta Corte de forma fundamentada e com clareza, nos limites necessários e possíveis à solução da lide. De acordo com a jurisprudência desta Corte, citada na decisão embargada, não restam dúvidas acerca da forma de intimação da defesa, bem como do recurso cabível, evidenciando a intempestividade da manifestação do requerente.
+Ante o exposto, rejeito os embargos de declaração.
+Publique-se. Intimem-se.
