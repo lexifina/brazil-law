@@ -1,0 +1,54 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PROGRESSÃO DE REGIME. FALTA GRAVE JÁ REABILITADA. GRAVIDADE ABSTRATA. FUNDAMENTAÇÃO INIDÔNEA. CONSTRANGIMENTO ILEGAL EVIDENCIADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A longevidade da pena, faltas disciplinares já reabilitadas, a probabilidade de reincidência e a gravidade do delito não são elementos aptos, por si sós, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios.
+2. Hipótese em que a falta disciplinar citada encontra-se reabilitada, tendo o sentenciado cumprido o lapso temporal para nova progressão, alem de ostentar bom comportamento carcerário, pelo que deve ser mantida a decisão que concedeu liminarmente o habeas corpus para restabelecer a decisão de primeiro grau, que deferiu a progressão ao regime semiaberto.
+3. Agravo regimental improvido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental nos termos do voto do Sr. Ministro Relator. A Sra. Ministra Laurita Vaz e os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz e Antonio Saldanha Palheiro votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator) : - Trata-se de agravo regimental interposto contra decisão que concedeu liminarmente o habeas corpus.
+Sustenta o Ministério Público Federal que, no caso, não está preenchido o requisito subjetivo para progressão de regime, pois descumprido anteriormente o benefício do livramento condicional, não sendo o atestado de comportamento carcerário documento único para aferi-lo.
+Requer a reconsideração da decisão ou provimento do recurso, a fim de que seja cassada a progressão do regime concedida.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO) (Relator) : - A decisão recorrida está assim fundamentada (fls. 44-47):
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim relatado (fls. 13-14):
+1. Trata-se de agravo em execução interposto pelo Ministério Público em razão de seu inconformismo com a r. decisão proferida pela MMª. Juíza de Direito da Vara das Execuções Criminais da comarca em epígrafe, Dra. RENATA BIAGIONI, a qual deferiu ao agravado pedido de progressão ao regime semiaberto, independentemente do pagamento de multa.
+Pleiteia o agravante a reforma da r. decisão hostilizada, sustentando, em síntese, que o pagamento de multa é requisito necessário ao deferimento de progressão, conforme interpretação do artigo 114, inciso II, da LEP, e segundo entendimento atual do E. SUPREMO TRIBUNAL FEDERAL, no Ag.Reg. na Progressão de Regime da execução nº 12-DF. Aponta a minuta recursal: (i) que o inadimplemento deliberado evidencia ausência de requisito subjetivo (autodisciplina e senso de responsabilidade) para usufruir da benesse; (ii) que a decisão tolheu o direito de o Ministério Público angariar maiores informações sobre a real capacidade econômica do sentenciado, ao qual sequer oportunizou realizar o pagamento integral da multa, ou seu parcelamento; e (iii) o adimplemento da multa é condição ao deferimento da progressão de regime, salvo absoluta impossibilidade de fazê-lo. Sustenta, ademais, que o sentenciado não possui mérito necessário a passagem de regência. Requer, nestes termos, o provimento do agravo, a fim de que, cassada a r. decisão, seja verificada a possibilidade de adimplemento da multa, condicionada, se o caso, ao deferimento da progressão, ainda que de forma parcelada. Subsidiariamente, pugna pela cassação da progressão, por ausência de mérito, ou, quando não, pela determinação de submissão do sentenciado a exame criminológico.
+O agravado pugna pelo não provimento do recurso.
+A r. decisão ora hostilizada foi mantida pelo Juízo a quo por seus próprios fundamentos, manifestando-se a douta Procuradoria Geral de Justiça pelo provimento parcial do recurso.
+É o relatório.Consta dos autos que o paciente cumpre pena total de 27 anos, 10 meses e 9 dias de reclusão, pela prática de porte ilegal de arma de fogo, receptação, furto, explosão qualificada e organização criminosa armada.
+O Juízo da execução deferiu o pedido do paciente de progressão ao regime semiaberto. Inconformado, o Ministério Público estadual interpôs agravo em execução, o qual foi provido para cassar a decisão.
+No presente writ, a impetrante alega que o paciente cumpriu os requisitos objetivos e subjetivos para a progressão ao regime semiaberto.
+Assevera que a decisão da Corte local possui fundamentação inidônea.
+Requer, assim, liminarmente a suspensão dos efeitos do acórdão impugnado e, no mérito, o restabelecimento da decisão do Juízo da Execução.
+O Tribunal de origem entendeu pelo indeferimento do pedido de progressão de regime ao paciente, manifestando-se nos seguintes termos (fls. 15-20):
+Os benefícios em execução, de forma geral, ficam subordinados ao cumprimento de parcela mínima da pena e de boa conduta carcerária do sentenciado, nos termos do artigo 112 da LEP, o qual elenca os requisitos objetivo e subjetivo, este último também denominado de mérito.
+E não se diga que a exigência de realização de exame criminológico, em alguns casos, constituiria requisito não previsto no artigo 112 da LEP.
+Em verdade, o exame criminológico constitui meio para a aferição do próprio mérito do sentenciado, cuja comprovação é exigida pelo artigo em comento; a imprescindibilidade de sua realização, por outro lado, se dá em razão de particularidades do caso concreto, como, por exemplo, presença de recidiva, condenação por crime praticado com violência ou grave ameaça, e histórico prisional conturbado do sentenciado, sempre mediante decisão motivada.
+E, nessa exata dicção, devem ser recebidas as acepções "autodisciplina e senso de responsabilidade", previstas no artigo 114, inciso II, da LEP, as quais se revelam presentes por meio dos "antecedentes ou pelo resultado dos exames a que foi submetido" o sentenciado.
+Cuida-se, igualmente, de meio para a aferição meritória do sentenciado, o qual deve "apresentar fundados indícios de que irá se ajustar" ao regime aberto, tendo em vista seu comportamento durante a expiação da pena.
+ ..  2.2. O agravado cumpre pena total de 27 anos, 10 meses e 9 dias de reclusão, pela prática de porte ilegal de arma de fogo, receptação, furto, explosão qualificada e organização criminosa armada.
+Pleiteada a passagem ao regime semiaberto, a MM. Juíza de Direito da Vara das Execuções Criminais, considerando que o sentenciado havia cumprido o lapso exigido, deferiu o pedido.
+Volta-se o recurso ministerial contra essa decisão, sustentando, também, ausência de mérito.
+Respeitada a convicção da nobre Magistrada, é procedente, nessa parte, o inconformismo da zelosa Dra. Promotora de Justiça.
+De fato, o sentenciado, por ora, não se encontra apto a vivenciar regime mais brando.
+Preso pela primeira vez em janeiro de 2012, cumpria penas por roubo e e porte de arma, quando obteve livramento condicional, em 18 de dezembro de 2015.
+Passados alguns meses, em 4 de fevereiro de 2016, o sentenciado foi preso novamente, tendo sofrido nova condenação às penas de 17 anos e 4 meses de reclusão, pela prática de furto qualificado, explosão qualificada e organização criminosa armada.
+Registra, pois, quebra de livramento condicional e é reincidente.
+Tais circunstâncias apontam, de forma eloquente, para a ausência de mérito do condenado e para a necessidade de adoção de extrema cautela no deferimento de progressão.
+3. Isto posto, pelo meu voto, dá-se parcial provimento ao recurso ministerial para cassar a decisão que progrediu o agravado ao regime semiaberto.
+Como se vê, a Corte local cassou a decisão que progrediu o paciente ao regime semiaberto, por entender que houve quebra de livramento condicional e é reincidente. Tais circunstâncias apontam, de forma eloquente, para a ausência de mérito do condenado e para a necessidade de adoção de extrema cautela no deferimento de progressão.
+Consoante se extrai dos autos, a falta disciplinar citada encontra-se reabilitada (fl.
+28) tendo o sentenciado cumprido o lapso temporal para nova progressão, bem como ostenta bom comportamento carcerário (fl. 25).
+Posto isso, verifica-se ilegalidade flagrante na fundamentação, sob argumentação genérica, baseada na gravidade abstrata dos crimes e falta disciplinar já reabilitada, não apontando elementos concretos extraídos da execução da pena. Nesse sentido:
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. LIVRAMENTO CONDICIONAL. DETERMINAÇÃO DO EXAME CRIMINOLÓGICO PARA AFERIÇÃO DO MÉRITO DO SENTENCIADO. GRAVIDADE ABSTRATA DO DELITO E LONGEVIDADE DA PENA. FUNDAMENTAÇÃO INIDÔNEA. FUGA COMETIDA NO CUMPRIMENTO DE EXECUÇÃO ANTERIOR. IRRELEVÂNCIA. NÃO APRESENTAÇÃO DE ARGUMENTOS NOVOS PELO AGRAVANTE PARA INVALIDAR A DECISÃO AGRAVADA. MANUTENÇÃO POR SEUS PRÓPRIOS FUNDAMENTOS.
+1. Esta Corte Superior é firme no entendimento de que a longevidade da pena e a gravidade do delito não são aptos, por si só, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios, porquanto o que se exige do reeducando é que demonstre seu mérito no curso da execução de sua pena.
+2. Consolidou-se neste Tribunal diretriz jurisprudencial no sentido de que faltas graves antigas, já reabilitadas pelo decurso do tempo, não justificam o indeferimento da progressão de regime prisional (HC n. 544.368/SP, Ministro Reynaldo Soares da Fonseca, Quinta Turma,DJe 17/12/2019).
+3. In casu, o agravante não apresentou argumentos novos capazes de infirmar aqueles que alicerçaram a decisão agravada, razão pela qual deve ser mantida por seus próprios fundamentos.
+4. Agravo regimental improvido. (AgInt no HC 554.750/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, concedo liminarmente o habeas corpus para restabelecer a decisão de primeiro grau de fls. 21-24.
+Com efeito, a decisão agravada foi proferida nos termos da jurisprudência desta Corte, no sentido de que a longevidade da pena, faltas disciplinares já reabilitadas, probabilidade de reincidência e a gravidade do delito não são elementos aptos, por si sós, a fundamentar a exigência de realização do exame criminológico ou a negativa de concessão de benefícios.
+Consoante se extrai dos autos, a falta disciplinar citada encontra-se reabilitada (fl. 28) tendo o sentenciado cumprido o lapso temporal para nova progressão, bem como ostenta bom comportamento carcerário (fl. 25).
+Assim, a despeito dos argumentos trazidos pelo agravante, deve ser mantida a decisão impugnada por seus próprios fundamentos, pelo que nego provimento ao agravo regimental.
+É o voto.
