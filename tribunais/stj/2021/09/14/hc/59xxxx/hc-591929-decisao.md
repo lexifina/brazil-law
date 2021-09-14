@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JEOVA SILVA DE SOUZA em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação n. 1502229-07.2017.8.26.0536).
+Em primeiro grau, o paciente foi condenado às penas de 7 anos de reclusão em regime fechado e de 700 dias-multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006. O Tribunal de origem manteve integralmente a sentença. A pena-base foi fixada em 8 anos de reclusão e em 800 dias-multa, diante da valoração negativa dos antecedentes e da quantidade e variedade dadroga apreendida, atenuada em 1/8 diante da confissão parcial, ficando afastado o tráfico privilegiado.
+A impetrante alega a desproporcionalidade da exasperação da pena-base em 3/5, defendendoque a atenuante de confissão espontânea deferia incidir na fração de 1/6.
+Requer, liminarmente e no mérito, que a pena-base seja fixada no mínimo legalou, subsidiariamente, que seja aumentada na fração de 1/4e que, na segunda fase, seja atenuada a pena em 1/6.
+O pedido de liminar foi indeferido (fls. 105-106).
+As informações foram prestadas às fls. 109-144 e 162-177.
+O Ministério Público Federal opinou pela denegação da ordem (fls. 152-158).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+O Tribunal de origem manteve a pena-base, que fora fixada em 8 anos de reclusão e em 800 dias-multa, diante da quantidade e variedade dosentorpecentesapreendidos(38,1kg de maconha e 97,4g de crack) e da valoração negativa dos maus antecedentes do paciente. Para tanto, adotou a seguinte fundamentação (fl. 98, destaquei):
+Na primeira fase da dosimetria o Magistrado sentenciante majorou a pena-base na proporção de 3/5 (três quintos)ressaltando que o réu "é reincidente em crime doloso; conforme comprova F. A. (fls. 105/110) e Certidão de Objeto e Pé (fl. 180/181). Além disso, a quantidade de droga apreendida foi mesmo notável"(fls. 320). Correta a exasperação da reprimenda no patamar adotado pelo Juízo de origem, pois condizente com o disposto no art. 59 do Código Penal e no art. 42, da Lei nº 11.343/06. Assim, mantém-se a pena-base no montante de 08 (oito) anos de reclusão e 800 (oitocentos) dias-multa.
+A dosimetria da pena é o procedimento em que o magistrado, utilizando-se do sistema trifásico de cálculo, chega ao quantum ideal da pena com base em suas convicções e nos critérios previstos abstratamente pelo legislador.
+Ademais, o cálculo da pena é questão afeta ao livre convencimento do juiz, passível de revisão em  habeas corpus somente nos casos de notória ilegalidade, para resguardar a observância da adequação, da proporcionalidade e da individualização da pena (HC n. 405.765/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 11/10/2017; e AgRg no HC n. 524.277/SP, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 18/5/2020).
+Na primeira fase da dosimetria da pena, nos termos do art. 42 da Lei n. 11.343/2006, a quantidade e a natureza da droga apreendida são preponderantes sobre as demais circunstâncias judiciais do art. 59 do Código Penal e podem justificar a exasperação da pena-base.
+Assim, com base no princípio do livre convencimento motivado, o julgador poderá concluir pela necessidade de exasperação e escolher a fração que considerar razoável para aplicar ao caso concreto.
+Por esse motivo, a revisão da dosimetria da pena pelo Superior Tribunal de Justiça só é admitida em situações excepcionais de manifesta ilegalidade ou de abuso de poder que possam ser aferidas de plano, sem necessidade de dilação probatória (AgRg no REsp n. 1.492.977/MG, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 24/3/2021; e AgRg no HC n. 644.934/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 15/3/2021).
+Ressalte-se que, na ausência de previsão legal, o STJ sedimentou a orientação de que a exasperação da pena-base na fração de 1/6 para cada circunstância judicial valorada negativamente atende os princípios da razoabilidade e da proporcionalidade (HC n. 458.799/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 10/12/2018).
+Na hipótese dos autos, a quantidade de entorpecente apreendida - 38,1kg de maconha e 97,4g de crack- é exacerbada, e o paciente possui maus antecedentes, justificando, na primeira fase da dosimetria, o acréscimo de 3 anos de reclusão.
+Portanto, no caso, a persuasão racional dos julgadores para majorar a pena-base para 8 anos de reclusão diante da valoração negativa de dois vetores não revela flagrante ilegalidade.
+Por sua vez, embora não constem da legislação os parâmetros de aplicação das causas genéricas de aumento e de redução de pena, o Superior Tribunal de Justiça, considerando os princípios da proporcionalidade e da razoabilidade, firmou entendimento no sentido de que a adoção de fração diversa de 1/6 para cada atenuante ou agravante exige motivação específica e idônea do julgador.
+A propósito, os seguintes precedentes:
+PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES.  ..  AGRAVANTE DA REINCIDÊNCIA. PACIENTE MULTIRREINCIDENTE. INCREMENTO EM PATAMAR SUPERIOR A 1/6. POSSIBILIDADE. ILEGALIDADE NÃO CONFIGURADA. AGRAVO DESPROVIDO.
+ ..
+VIII - Consoante entendimento firmado pelo Superior Tribunal de Justiça, a aplicação de fração superior à 1/6, pelo reconhecimento das agravantes e das atenuantes genéricas, exige motivação concreta e idônea.
+IX - Na hipótese, inexiste flagrante ilegalidade a justificar a concessão da ordem, uma vez que, tratando-se de paciente multirreincidente, o agravamento da pena na fração de 1/3 (um terço) foi corretamente fundamentado pelo Tribunal a quo.
+Agravo regimental desprovido. (AgRg no HC n. 647.699/SP, relator Ministro Felix Fischer, Quinta Turma, DJe de 20/4/2021.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO DA VIA ELEITA.  .. . PATAMAR PROPORCIONAL. AGRAVANTES. CIRCUNSTÂNCIAS RECONHECIDAS NA ORIGEM COM BASE NO ACERVO PROBATÓRIO. QUANTUM DA REDUÇÃO DESPROPORCIONAL. APLICAÇÃO DA FRAÇÃO DE 1/6 PARA CADA AGRAVANTE RECONHECIDA.  ..  HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+ ..
+5. O Código Penal não estabelece limites mínimo e máximo de aumento ou redução de pena a serem aplicados em razão das agravantes e das atenuantes genéricas, cabendo à prudência do Magistrado fixar o patamar necessário, dentro de parâmetros razoáveis e proporcionais, sendo que a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que a adoção de fração inferior a 1/6 para cada atenuante exige motivação específica e idônea.
+Precedentes.
+6. Caso em que as instâncias ordinárias, com base no acervo probatório, reconheceram a existência de 4 agravantes para cada paciente, revelando-se proporcional a redução do aumento para a fração de 2/3.
+ ..
+10. Habeas corpus não conhecido. Ordem concedida, de ofício, para redimensionar as penas dos pacientes. (HC n. 605.628/SP, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe de 8/4/2021.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. DOSIMETRIA. CONFISSÃO ESPONTÂNEA QUALIFICADA. FRAÇÃO DE 1/6.AUSÊNCIA DE FUNDAMENTAÇÃO PARA JUSTIFICAR ÍNDICE DIVERSO.  ..  AGRAVO REGIMENTAL PARCIALMENTE PROVIDO.
+1. Esta Corte Superior orienta que seja aplicado o índice de 1/6 para agravantes e atenuantes, em atenção ao princípio da proporcionalidade, salvo se houver motivação concreta e expressa que justifique a adoção de fração diversa. Precedentes.
+ ..
+4. Agravo regimental parcialmente provido, apenas para que seja mantido o regime inicial fechado. (AgRg no HC n. 539.585/MT, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 10/12/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. DOSIMETRIA DA PENA. SEGUNDA FASE. ATENUANTE DA CONFISSÃO APLICADA EM FRAÇÃO INFERIOR A 1/6 SEM A NECESSÁRIA MOTIVAÇÃO. CONSTRANGIMENTO ILEGAL CONFIGURADO.
+1. Conforme reiterada jurisprudência desta Corte, a fixação de fração inferior a 1/6 para a redução da reprimenda na segunda fase a título da confissão exige motivação idônea, não se prestando, para tanto, as circunstâncias já consideradas na primeira fase da dosimetria, sob pena de indevido bis in idem.
+2. Agravo regimental improvido. (AgRg no HC n. 549.969/AM, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/2/2020.)
+No caso, reconhecida a atenuante daconfissão, o Tribunal de origem aplicou a fração de 1/8 para reduzir a pena na segunda fase da dosimetria, utilizandocomo fundamento o fato de que o paciente apresentaraversões distintas na fase policial e em juízo, consoante se destaca do seguinte excerto (fls. 98-99):
+Na segunda etapa da dosagem o Juiz a quo observou estar presente a circunstância atenuante da confissão espontânea e, por este motivo, diminuiu a pena na proporção de 1/8 (um oitavo), atingindo o montante de 07(sete) anos de reclusão e 700 (setecentos) dias-multa.
+Importante ressaltar que a fração adotada pelo Juízo sentenciante não poderia ter sido maior, uma vez que o réu apresentou duas versões distintas (uma em solo policial ,onde declarou que recebia quinhentos reais para guardar as drogas e outra em juízo, onde narrou que foi obrigado aguardar os entorpecentes para saldar uma dívida). Ou seja, a bem da verdade, sua confissão foi parcial e nem deveria ter sido considerada, mas como o Ministério Público não se insurgiu quanto a isto em seu recurso, nada a que ser alterado, para que não se configure reformatio in pejus.
+Portanto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
