@@ -1,0 +1,22 @@
+DECISÃO
+Trata-se de agravo contra decisão que não admitiu recurso especial interposto por CONDOMÍNIO START LIFE, com fundamento nas alíneas a e c do permissivo constitucional, no qual se insurgiu contra acórdão do Tribunal de Justiça de São Paulo assim ementado (e-STJ, fl. 2.469):
+AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. IMPUGNAÇÃO. Decisão que rejeitou a impugnação. Alegação de excesso de execução sob o fundamento de que a multa deve incidir sobre o valor dos honorários de advogado fixados, matéria que foi objeto de recurso. Afastamento - Incidência da multa de 1% sobre o valor atribuído à causa, que tem previsão expressa no art.1021, § 4º, do Código de Processo Civil - Recurso desprovido.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 2.508-2.511).
+No recurso especial, a recorrente apontou, além de divergência jurisprudencial, violação dos arts. 11, 489 e 1022 do CPC/2015; e 884 do CC.Esclareceu que se opôs ao acórdão que, sem apreciar todas as questões relevantes, fixou que amultateria como referência o valor fixado para a causa principal, acarretando excesso de execução.
+Afirmou haver omissão e carência de fundamentação no julgado estadual. Frisou quea base de cálculo para fins da cobrança da multa dever ser o valor discutido/perseguido no recurso do qual ocorreu a aplicação da penalidade (multa), e não quantia atribuída à ação principal. Pontuou que a manutenção do julgado gera enriquecimento ilícito. Defendeu não ser caso de aplicação da Súmula 7/STJ.Pleiteou o provimento do recurso especial(e-STJ, fls. 2.609-2.730).
+Nas razões do agravo, a parte agravante impugna os fundamentos da decisão denegatória do recurso, reiterando, no mais, as razões do mérito recursal (e-STJ, fls. 3.061-3.136).
+Contraminuta apresentada (e-STJ, fls. 3.169-3.180).
+Brevemente relatado, decido.
+Não há nenhuma omissão ou mesmo carência de fundamentaçãoa ser sanada no julgamento estadual, portanto inexistentes os requisitos para reconhecimento de ofensa aos arts. 11, 489 e1.022 do novo CPC.
+O acórdãodirimiu a controvérsia com base em fundamentação sólida, sem tais vícios, tendo apenas resolvido a celeuma em sentido contrário ao postulado pela parte insurgente. Ademais, o órgão julgador não está obrigado a responder a questionamentos das partes, mas apenas a declinar as razões de seu convencimento motivado, como de fato ocorreu nos autos.
+Analisando o aresto da segunda instância, nota-se a premissa no sentido da ausência de excesso de execução. Estabeleceu o decisumque a penalidade deveria incidir sobre o valor da causa principal.
+Observe-se (e-STJ, fl. 2.471):
+Ao contrário do que procura fazer crer o agravante, a multa de 1% deve mesmo incidir sobre o valor atribuído à causa, pois que se trata de penalidade processual, conforme acordão de fls. 91/95, que não conheceu do agravo interno no agravo em recurso especial interposto pelo agravante.
+E tal condenação tem por fundamento o art. 1021, § 4º do Código de Processo Civil, assim redigido: "Quando o agravo interno for declarado manifestamente inadmissível ou improcedente em votação unânime, o órgão colegiado, em decisão fundamentada, condenará o agravante a pagar ao agravado multa fixada entre um e cinco por cento do valor atualizado da causa".
+Logo, não há razão para o inconformismo do devedor, não restando configurado o alegado excesso de execução.
+Logo, o entendimento no sentido da inexistência de excesso de execução decorreu da apreciação fático-probatória da causa, atraindo a aplicação da Súmula 7/STJ, que incide sobre ambas as alíneas do permissivo constitucional. Logo, não se trata de busca por mera qualificação jurídica do acervo fático, mas sua efetiva reapreciação.
+O entendimento no sentido da incidência doart. 1021, § 4º, do atual CPC para gerir a fixação da multa não foi objeto de ataque direto e preciso no recurso especial, embora o ponto do acórdão seja suficiente para sua manutenção. Súmula 283/STF.
+Ante o exposto, conheço do agravo para conhecer parcialmente dorecurso especial e, na extensão conhecida, negar-lhe provimento.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DE SENTENÇA. NÃO OCORRÊNCIADE OMISSÃO OU CARÊNCIADE FUNDAMENTAÇÃO. ACÓRDÃO DEVIDAMENTE JUSTIFICADO. CONCLUSÃO NO SENTIDO DA INOBSERVÂNCIADE EXCESSO DE EXECUÇÃO. ENTENDIMENTO FUNDADO NA APRECIAÇÃO FÁTICA DA CAUSA. SÚMULA 7/STJ. FUNDAMENTO INATACADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NA EXTENSÃO CONHECIDA, NEGAR-LHE PROVIMENTO.
