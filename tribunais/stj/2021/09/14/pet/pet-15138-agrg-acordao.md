@@ -1,0 +1,27 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Rogerio Schietti Cruz, Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região) e Laurita Vaz votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO.
+1. Acontagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021).
+2.Em se tratando de matéria penal e processual penal, o recesso judiciário não suspende nem interrompe os prazos processuais. Nesse sentido: AgRg no Inq 1.105/DF, Ministro Herman Benjamin, Corte Especial, DJe 19/4/2017.
+3.Agravo regimental improvido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por Ruan Carlos de Oliveira Rosa contra a decisão monocrática de fls. 409/411, na qual conheci do agravo por ele interposto para não conhecer do recurso especial em razão de sua intempestividade.
+Nas razões do presente regimental, o agravante afirma que a intempestividade se deu por conta de erro do sistema judiciário (EPROC) na contagem do prazo (fl. 419), insistindo que a intimação eletrônica fora confirmada no dia 18/01/2021, entretanto, o sistema lançou o dia 21/01/2021 como início do prazo, este findando-se em 04/02/2021 (idem).
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL EM AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. MANUTENÇÃO DA DECISÃO.
+1. Acontagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021).
+2.Em se tratando de matéria penal e processual penal, o recesso judiciário não suspende nem interrompe os prazos processuais. Nesse sentido: AgRg no Inq 1.105/DF, Ministro Herman Benjamin, Corte Especial, DJe 19/4/2017.
+3.Agravo regimental improvido.
+VOTO
+Inicio reconhecendo que, embora na decisão agravada tenha citado datas em desarmonia com a realidade dos fatos (fl. 420), a intempestividade do recurso especial, ainda assim, revela-se manifesta.
+Com efeito, segundo consta à fl. 310 destes autos, a confirmação da intimação eletrônica por parte da defesa do réu fora realizada, de fato, em 18/1/2021 (segunda-feira). Todavia, diferentemente do entendimento do agravante, o prazo recursal deflagrou-se em 19/1/2021 (terça-feira), primeiro dia útil seguinte, e não apenas em 21/1/2021. Assim, o termo ad quem ocorreu em 2/2/2021 (terça-feira), tendo o especial sido interposto apenas no dia 4/2/2021 (fl. 312), quando já escoado, portanto, o prazo recursal respectivo.
+Esclareço que o argumento defensivo, no sentido de que a intempestividade se deu por conta de erro do sistema judiciário (EPROC) na contagem do prazo (fl. 419), não se sustenta, uma vez que a correta contagem dos prazos processuais é responsabilidade da parte.
+Com efeito, segundo a orientação jurisprudencial desta Corte, a contagem correta dos prazos recursais, nos termos definidos pela legislação processual, é ônus exclusivo da parte recorrente, de modo que a data eventualmente sugerida pelo sistema processual eletrônico não o exime de interpor o recurso no prazo previsto em lei (AgRg no AREsp n. 1.825.919/PR, Ministra Laurita Vaz, Sexta Turma, DJe 16/6/2021).
+Demais disso, a verificação dos pressupostos do recurso especial está sujeita ao duplo juízo de admissibilidade, de maneira que a aferição dos requisitos extrínsecos e intrínsecos do recurso pelo Tribunal de origem não vincula esta Corte Superior (AgInt no REsp n. 1.697.861/MG, Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 15/3/2018).
+No mesmo sentido: AgRg no AREsp n. 1.807.136/SP, Ministro Olindo Menezes (Desembargador convocado do TRF 1ª Região), Sexta Turma, DJe 24/05/2021; AgInt no AREsp n. 1.780.773/MG, Ministra Nancy Andrighi, Terceira Turma, DJe 14/5/2021; AgRg no AREsp n. 673.172/RS, Ministro Leopoldo de Arruda Raposo (Desembargador convocado do TJ/PE), Quinta Turma, DJe 2/9/2015 e AgRg no REsp n. 1.374.134/CE, Ministro Humberto Martins, Segunda Turma, DJe 1º/8/2013, entre outros.
+E, não obstante no julgamento do REsp 1.324.432/SCa Corte Especial deste Tribunal tenha firmado que a existência de equívoco no sistema processual eletrônico do Poder Judiciário possa ser considerado para fins de relativizar a intempestividade recursal, tem-se exigido que a parte recorrente demonstre, de maneira efetiva, a justa causa para obter oexcepcional afastamento da intempestividade recursal (AgInt nos EDcl no RMS n. 65.016/MA, Ministro Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Primeira Turma, DJe 4/6/2021).
+Na hipótese, essa justa causa inexiste, já que, em se tratando de matéria penal e processual penal, o recesso judiciário não suspende nem interrompe os prazos processuais. Nesse sentido: AgRg no Inq 1.105/DF, Ministro Herman Benjamin, Corte Especial, DJe 19/4/2017.
+Ante o exposto, nego provimento ao agravo regimental.
