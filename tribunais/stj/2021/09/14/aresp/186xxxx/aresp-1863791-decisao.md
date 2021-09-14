@@ -1,0 +1,19 @@
+DECISÃO
+Vistos, etc.
+Trata-se de agravo interposto por Instituto Nacional do Seguro Social - INSScontra decisão que inadmitiu recurso especial com base na Súmula 7/STJ (A pretensão de simples reexame de prova não enseja recurso especial) e convergência do acórdão com tese vinculante (Tema 810/STF) (e-STJ, fls. 784-791).
+A parte agravante sustenta: i) nulidade do acórdão; ii) ser de direito a discussão acerca da presunção de danos morais pelo atraso na percepção do benefício; e iii) violação do juízo natural do recurso (e-STJ, fls. 793-799).
+Sem contraminuta.
+É o relatório.
+O agravo não comporta conhecimento, na medida em que não se insurge contra o descabimento do especial por versar pretensão contrária a tese vinculante.
+A decisão de inadmissibilidade, como sabido, é una, não comportando capítulos. Assim, a insurgência deve tratar de todos os seus fundamentos, sob pena de violação do princípio da dialeticidade. A propósito:
+ ..  2. A teor dos precedentes desta Corte, "a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o Agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade" (AgRg nos EDcl no AREsp n.1785474/SC, Rel. Ministra Laurita Vaz, 6ª T., DJe 3/5/2021).
+3. Agravo regimental não provido.
+(AgRg no AREsp 1744728/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 22/06/2021, DJe 28/06/2021).
+ ..  2. A jurisprudência do Superior Tribunal de Justiça entende ser necessária a impugnação dos fundamentos da decisão denegatória da subida do Recurso Especial para que se conheça do respectivo Agravo.O descumprimento dessa exigência conduz ao não conhecimento do recurso de Agravo, ante a incidência, por analogia, da Súmula 182 do Superior Tribunal de Justiça.
+3. A Corte Especial do Superior Tribunal de Justiça pacificou o entendimento acerca da necessidade de o recorrente, em Agravo em Recurso Especial, impugnar especificamente todos os fundamentos constantes da decisão de inadmissibilidade do Recurso Especial, a qual não é formada por capítulos autônomos, mas por um único dispositivo, o que exige sua impugnação total (EAREsp 831.326/SP, Rel. Min. João Otávio de Noronha, Rel. p/ Acórdão Min. Luis Felipe Salomão, Corte Especial, DJe 30.11.2018).
+4. Deveria a parte rebater todos os fundamentos do decisum no sentido de que: a) a decisão recorrida mereceria resultado diverso, por existir acórdão de órgão fracionário do STJ com similitude fática e jurídica, cujo teor decisório se realizou de forma divergente daquela solução apresentada; ou b) os argumentos expendidos não são suficientes para infirmar as conclusões do acórdão combatido que contém fundamentação adequada para lhe dar respaldo, não se evidenciando o suposto maltrato às normas legais enunciadas.
+5. Agravo Interno não provido.
+(AgInt no AREsp 1778346/PE, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 24/05/2021, DJe 01/07/2021).
+Aplico o art. 85, § 11, do CPC, nos seguintes moldes: 1) no caso de ter sido aplicado na origem o art. 85, § 3º, elevo os honorários ao percentual máximo da faixa respectiva; 2) no caso de ter sido utilizado na origem o art. 85, § 2º, adiciono 10 (dez) pontos percentuais à alíquota aplicada a título de honorários advocatícios, não podendo superar o teto previsto na referida norma; e 3) em se tratando de honorários arbitrados em montante fixo, majoro-os em 10% (dez por cento). Restam observados os critérios previstos no § 2º do referido dispositivo legal, ressalvando-se que, no caso de eventual concessão da gratuidade da justiça, a cobrança será regulada pelo art. 98 e seguintes do CPC.
+Ante o exposto, com fulcro no art. 932, III, do CPC/2015, c/c o art. 253, parágrafo único, I, do RISTJ, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
