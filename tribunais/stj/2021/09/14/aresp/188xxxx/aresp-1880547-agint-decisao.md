@@ -1,0 +1,36 @@
+DECISÃO
+Na origem, Eliane Carvalho da Silva ajuizou ação indenizatória contra Via Célere Bahia 2 Empreendimentos Imobiliários Ltda., Via Célere Empreendimentos Imobiliários Ltda. e CJ Construtora e Incorporadora Ltda. (Garcez Engenharia Ltda.), objetivando a declaração de nulidade da cláusula de tolerância, assim como a condenação das requeridas ao pagamento de multa contratual, lucros cessantes e danos morais, além da restituição, em dobro, do pagamento efetuado a maior decorrente da aplicação do ICC sobre o saldo devedor, ou sua devolução na forma simples.
+O Juízo de primeiro grau julgou parcialmente procedentes os pedidos iniciais (e-STJ, fls. 505-515). No julgamento do agravo de instrumento interposto pela parte autora, a Quinta Câmara Cível do Tribunal de Justiça da Bahia, após rejeitar a preliminar, julgou o recurso em aresto assim ementado (e-STJ, fls. 639-640):
+AGRAVO DE INSTRUMENTO. DIREITO CIVIL E PROCESSUAL CIVIL. JULGAMENTO PARCIAL DO MÉRITO. ART. 356 DO CPC. PRELIMINAR. DESERÇÃO. REJEITADA. MÉRITO. ATRASO NA ENTREGA DE IMÓVEL. PRAZO DE TOLERÂNCIA. PREVISÃO CONTRATUAL. LEGALIDADE. PRECEDENTES JURISPRUDENCIAIS. PRAZO ULTRAPASSADO. ILEGALIDADE. DANO MORAL. CABIMENTO. MAJORAÇÃO. OBSERVÂNCIA AOS PRINCÍPIOS DA PROPORCIONALIDADE E RAZOABILIDADE. VERBA SUCUMBENCIAL. DISTRIBUIÇÃO PROPORCIONAL. MANTIDA. AGRAVO PROVIDO EM PARTE. SENTENÇA PARCIALMENTE REFORMADA.
+Rejeita-se a preliminar de deserção alegada nas contrarrazões, pois inexistiu a entrega de ofícios apta a ensejar o recolhimento das custas.
+Dispondo o contrato expressamente a possibilidade de extensão do prazo para entrega do empreendimento, não se afigura abusiva a aludida cláusula, já declarada pelos Tribunais a sua validade, levando-se em consideração as situações involuntárias variadas que interferem no cronograma de uma obra, vedando-se, contudo, a extrapolação desse prazo.
+Quanto ao dano moral, entende-se que o quantum indenizatório arbitrado em tela, não atende aos critérios da razoabilidade e da proporcionalidade e de acordo com a realidade demonstrada nos autos, deve ser majorado.
+Nos termos do art. 86 do CPC, deve ser mantida incólume a verba sucumbencial na forma como distribuída pelo Juízo a quo.
+Opostos embargos de declaração por CJ Construtora e Incorporadora Ltda. e SPE Premiere Jaguaribe Empreendimento Imobiliário Ltda., foram rejeitados (e-STJ, fls. 687-707).
+Nas razões do recurso especial, CJ Construtora e Incorporadora Ltda., com fundamento nas alíneas a e c do permissivo constitucional, alegou, além de divergência jurisprudencial, violação aos arts. 884 e 944 do CC/2002.
+Aduziu, em síntese, que o acórdão não apontou situação excepcional apta a caracterizar sua condenação ao pagamento por danos morais, além de que o mero atraso na entrega da obra seria o único argumento utilizado para ensejar a condenação.
+Contrarrazões apresentadas às fls. 778-786 (e-STJ).
+O Tribunal local não admitiu o processamento do recurso especial pela incidência da Súmula 7 do STJ.
+Às fls. 820-823 (e-STJ), foi proferida decisão pela Presidência desta Corte, a qual conheceu do agravo para não conhecer do recurso especial, em razão do óbice da Súmula 7/STJ, bem como pela prejudicialidade da demonstração do dissídio jurisprudencial.
+Em suas razões de agravo interno, CJ Construtora e Incorporadora Ltda. assevera, em síntese, que não postula a revisão do quantum indenizatório, mas o afastamento da condenação por danos morais, por entender que o TJBA não apresentou situação excepcional para justificar a sua condenação.
+Impugnação apresentada às fls. 836-844 (e- STJ).
+Brevemente relatado, decido.
+Em nova análise dos argumentos apresentados pela parte agravante e do entendimento jurisprudencial desta Corte sobre o tema, reconsidero a decisão de fls. 820-823 (e- STJ), e passo a novo exame do recurso especial.
+Dito isso, quanto à lesão extrapatrimonial, é importante esclarecer que este Superior Tribunal de Justiça assentou o entendimento de que o simples atraso na entrega do imóvel não gera, por si só, o pagamento de indenização por danos morais.
+Oportunamente:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. IRRESIGNAÇÃO SUBMETIDA AO NCPC. COMPRA E VENDA. ATRASO NA ENTREGA DE IMÓVEL ADQUIRIDO NA PLANTA. LESÃO EXTRAPATRIMONIAL. CARACTERIZAÇÃO COM BASE NÃO APENAS NA DEMORA NA CONCLUSÃO DA OBRA. PRETENDIDO AFASTAMENTO. ÓBICE DA SÚMULA Nº 7 DO STJ. PRECEDENTES. AGRAVO INTERNO NÃO PROVIDO.
+1. Aplica-se o NCPC a este julgamento ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+2. Conforme orientação jurisprudencial das Turmas que compõem a Segunda Seção desta Corte Superior, o mero inadimplemento do contrato de promessa de compra e venda de imóvel, configurado, por exemplo, pelo atraso na entrega do bem, não é suficiente para ensejar dano moral ao seu adquirente..
+3. Na hipótese, o TJSP concluiu ter havido mero inadimplemento contratual, sem nenhuma ofensa ao direito de personalidade da promitente-compradora, não sendo possível ultrapassar essa conclusão sem reapreciar o acervo fático-probatório da demanda, o que veda a Súmula nº 7 do STJ.
+4. Agravo interno não provido. (AgInt no AREsp 1.558.341/SP, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 16/8/2021, DJe 19/8/2021)
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS. ENTREGA DE IMÓVEL. ATRASO. DANO MORAL. AFASTAMENTO.
+(..)
+2. O Superior Tribunal de Justiça consolidou o entendimento de que o mero descumprimento contratual, no caso em que a promitente vendedora deixa de entregar o imóvel no prazo contratual injustificadamente, não acarreta, por si só, danos morais.
+3. Agravo interno não provido. (AgInt no REsp 1.863.961/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 22/6/2021, DJe 30/6/2021)
+Na hipótese dos autos, o Tribunal de origem entendeu ser cabível a condenação da ora insurgente ao pagamento de indenização por dano moral ao único argumento de que o atraso injustificado na entrega de imóvel residencial ultrapassaria a esfera do mero aborrecimento, o que teria gerado intranquilidade à parte autora - fl. 624 (e-STJ).
+Nesse contexto, é certo que não houve a indicação de nenhuma circunstância especial apta a justificar a referida condenação, o que impõe a reforma do acórdão recorrido nesse ponto.
+Diante do exposto, mediante juízo de retratação, conheço do agravo a fim de dar provimento ao recurso especial, para afastar a condenação ao pagamento de danos morais.
+Devido à sucumbência recíproca, redistribuo os ônus sucumbenciais (art. 86 do CPC/2015), dividindo-se as custas processuais em 60% (sessenta por cento) em benefício dos patronos da recorrente, e o restante pela parte autora. Os honorários advocatícios são devidos no percentual de 15% (quinze por cento) sobre o valor atualizado da condenação naquela mesma proporção, sendo vedada a compensação (art. 85, § 14, do CPC/2015).
+Publique-se.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PROMESSA DE COMPRA E VENDA DE IMÓVEL. AGRAVO DE INSTRUMENTO. 1. DANO MORAL. AUSÊNCIA DE INDICAÇÃO DE CIRCUNSTÂNCIA ESPECIAL APTA A JUSTIFICAR A CONDENAÇÃO. PRECEDENTES. 2. AGRAVO CONHECIDO PARA DAR PROVIMENTO AO RECURSO ESPECIAL, MEDIANTE JUÍZO DE RETRATAÇÃO.
