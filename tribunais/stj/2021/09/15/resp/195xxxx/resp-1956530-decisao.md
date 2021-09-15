@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de recursoespecialinterpostopelo DISTRITO FEDERALcontra acórdão do Tribunal de Justiça do Distrito Federalassim ementado:
+PROCESSO CIVIL. HONORÁRIOS ADVOCATICIOS. VALOR EXCESSIVO.EQUIDADE. POSSIBILIDADE. SENTENÇA MANTIDA.
+1. Caso a adoção do percentual previsto no artigo 85, §2º do Código de Processo Civil, resultar em valor excessivo autoriza-se a aplicação do §8º do artigo em comento a fim de se atender aos critérios da razoabilidade e da proporcionalidade. Desse modo, o valor fixado em primeira instância se revela razoável e adequado.
+2. Apelação conhecida e desprovida.
+No recurso especial, a parte aponta violação aos arts. 85, §§ 2º, 3º, 4º, III, 5º, 6º e 8ºdo CPC, alegando que: a) é inaplicável, ao caso concreto, o juízo de equidade previsto no artigo 85, §8º, do Código de Processo Civil, tendo em vista que não se trata de hipótese de proveito econômico inestimável ou irrisório; ou de valor da causa muito baixo; e b) não havendo condenação principal, os honorários devem ser arbitrados em percentual sobre o valor da causa, observados os parâmetros mínimos, "independentemente de qual seja o conteúdo da decisão, inclusive nos casos de improcedência ou de sentença sem resolução de mérito".
+Pois bem.
+Écaso de devolver os autos para a Corte de origem para que seja regularmente aplicada a sistemática do recurso especial repetitivo.
+É que a Corte Especial do Superior Tribunal de Justiça afetou o Tema 1076 ao rito dos repetitivos, ficando a controvérsia assim delimitada:"Definição do alcance da norma inserta no § 8º do artigo 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados" (Recursos Especiais 1.850.512/SP e 1.877.883/SP, Rel. Min. Og Fernandes,DJe de 4/12/2020).
+Assim, determino a devolução dos autos ao Tribunal de origem, com baixa da distribuição, para que, após publicados os acórdãos relativos aos recursos representativos da controvérsia, o recurso especial: 1) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do Superior Tribunal de Justiça ou 2) seja novamente examinado pelo Tribunal de origem, na hipótese de o acórdão recorrido divergir da orientação do Superior Tribunal de Justiça, observados os artigos 1.040 e 1.041 do CPC/2015.
+Publique-se. Intimem-se.
