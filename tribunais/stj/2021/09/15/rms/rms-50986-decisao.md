@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso ordinário interposto com fundamento no art. 105, II, "b", da CF, contra acórdão do Tribunal de Justiça do Maranhão, que denegou a segurança do writ, nos seguintes termos (e-STJ fl. 140):
+APOSENTADORIA EM CARGO PÚBLICO. CONTAGEM RECÍPROCA DO TEMPO DE SERVIÇO PRESTADO NA INICIATIVA PRIVADA. NECESSIDADE DE RECOLHIMENTO DAS CONTRIBUIÇÕES.
+Defende a parte impetrante, em resumo, que a exigência da comprovação de tempo contribuição se deu somente após a EC n. 20/98, fato que não deve alcançar o direito do recorrente, pois trabalhou antes da Emenda Constitucional, o que lhe garante o direito à averbação do tempo de serviço independentemente de contribuição, cuja omissão se deve ao empregador, e não a ele.
+Sem contrarrazões.
+Parecer do MPFpelo não provimento do recurso (e-STJ fls. 184/189).
+Passo decidir.
+Entendo que o recurso não merece guarida.
+A controvérsia consiste em saber se o tempo de serviço anterior à EC n. 20/98 pode ser considerado na contagem recíproca para aposentadoria estatutária independentemente de contribuições.
+A causa de pedir julgada no Tema 609 do STJ (REsp 1.682.678/SP) é semelhante à apreciada neste processo.
+Naquele julgamento se fixou a tese de que o segurado que tenha provado o desempenho de serviço rurícola em período anterior à vigência da Lei n; 8.213/1991, somente tem direito ao cômputo do aludido tempo rural, no respectivo órgão público empregador, para contagem recíproca no regime estatutário se, com a certidão de tempo de serviço rural, acostar o comprovante de pagamento das respectivas contribuições previdenciárias.
+A ratio daquele precedente é aplicável ao presente processo.
+Em sentido ainda mais semelhante ao presente caso, assim decidiu esta Corte:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. SERVIDOR PÚBLICO. CONTAGEM RECÍPROCA. CERTIDÃO DE TEMPO DE CONTRIBUIÇÃO - CTC. AVERBAÇÃO DE TEMPO DE SERVIÇO. RGPS. SÚMULAS 282/STF E 7/STJ.
+1. Trata-se, na origem, de Ação Ordinária proposta pela parte recorrente com o objetivo de averbar o tempo de contribuição do período em que esteve vinculada ao Regime Geral de Previdência Social e a respectiva revisão do valor mensal da aposentadoria percebida no Regime Próprio de Previdência Social.
+2. Não se pode conhecer da irresignação contra a ofensa aos arts.
+4º, 139, IX, 321 e 333 do CPC , pois os referidos dispositivos legais não foram analisados pela instância de origem. Ausente, portanto, o requisito do prequestionamento, o que atrai, por analogia, o óbice da Súmula 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+3. Dispõe a Constituição Federal: "Para efeito de aposentadoria, é assegurada a contagem recíproca do tempo de contribuição na administração pública e na atividade privada, rural e urbana, hipótese em que os diversos regimes de previdência social se compensarão financeiramente, segundo critérios estabelecidos em lei" (§9º, art. 201 da CF/1988).
+4. É possível a averbação de tempo de contribuição prestado no Regime Geral de Previdência Social para obter aposentadoria no Regime Próprio de Previdência Social administrado pela União, Estados, Distrito Federal e Municípios (ou vice e versa), desde que observados os critérios da legislação previdenciária.
+5. A Lei 9.796/1999 disciplina "a compensação financeira entre o Regime Geral de Previdência Social e os regimes de previdência dos servidores da União, dos Estados, do Distrito Federal e dos Municípios, nos casos de contagem recíproca de tempo de contribuição para efeito de aposentadoria, e dá outras providências" e regulamenta a forma pela qual os regimes previdenciários públicos (RGPS e RPPS) realizarão o acerto financeiro quando o segurado se utiliza de tempo de contribuição vinculado a outro regime que não aquele que ficará responsável pelo pagamento da prestação previdenciária.
+6. Nesses casos, para a averbação do tempo de contribuição em regime previdenciário diverso, é necessário apresentar da Certidão de Tempo de Contribuição - CTC ou de documentação suficiente que comprove o vínculo laboral e os salários de contribuição que serviram de base de cálculo para as contribuições previdenciárias, de modo a permitir a transferência dos respectivos recursos financeiros do regime de origem para o regime instituidor do benefício, que ficará responsável pelo pagamento das prestações previdenciárias.
+7. No caso concreto, o acórdão recorrido entendeu faltar nos autos elementos de prova suficientes para demonstrar o período laboral que alega a parte recorrente ter estado vinculada ao RGPS. Assim, é inviável analisar a tese defendida no Recurso Especial, pois inarredável a revisão do conjunto probatório dos autos para afastar as premissas fáticas estabelecidas pelo acórdão recorrido.
+Aplica-se, portanto, o óbice da Súmula 7/STJ. Nesse sentido, precedentes do STF e STJ: STF. ARE 777252 AgR / MG. Relator: Min.vGilmar Mendes. Julgamento: 29/4/2014. Órgão Julgador: Segunda Turma; AgInt no AREsp 156.853/ES, Rel. Ministro Napoleão Nunes Maia Filho, Primeira Turma, julgado em 2/8/2016, DJe 12/8/2016; AgRg no REsp 995.982/RN, Rel. Ministro Og Fernandes, Sexta Turma, julgado em 16/12/2010, DJe 1/2/2011.
+8. Recurso Especial não conhecido.
+(REsp 1755092/MS, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 16/08/2018, DJe 13/11/2018)
+Ante o exposto, nos termos do art. 34, XVIII, "b", do RISTJ, NEGO PROVIMENTO ao recurso.
+Publique-se. Intimem-se.
