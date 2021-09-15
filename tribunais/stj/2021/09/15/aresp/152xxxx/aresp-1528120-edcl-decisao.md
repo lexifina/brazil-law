@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de embargos de declaração opostos pelo INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PÚBLICOS DO MUNÍCIPIO DE DUQUE DE CAXIAS - IPMDC contra decisão de minha lavra, proferida às e-STJ fls. 276/278, em que conheci do agravo para não conhecer do recurso especial.
+Aduz a parte embargante que, " ..  no julgamento do recurso de apelação, o Tribunal de Justiça reformou a sentença de 1ª instância, arbitrando os honorários "em percentual a ser apurado nos termos do art. 85, §§ 3º e 4º, II do CPC", razão pela qual "majoração dos honorários estabelecida no julgamento do presente recurso ficou confusa" (e-STJ fl. 280). Tece, ainda, considerações acerca da proporcionalidade da verba honorária.
+Passo a decidir.
+Nos termos do art. 1.022 do CPC/2015, os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material.
+Na hipótese, assiste razão ao embargante quanto à fixação dos honorários recursais.
+É que o Tribunal de origem, no julgamento da apelação, estabeleceu que a definição do percentual relativo à verba honorária deverá ocorrer quando da liquidação do julgado, nos termos dos arts. 85, §§ 3º e 4º, II, do CPC/2015.
+Dessa forma, inviável, nesta Corte, a fixação de honorários recursais (art. 85, § 11, do CPC/2015), nos moldes como estabelecido na decisão ora embargada: "MAJORO os honorários sucumbenciais em 10% sobre o valor já fixado na origem, respeitados os limites e os critérios previstos nos §§ 2º e 3º do referido dispositivo".
+Assim, em respeito ao disposto no art. 85, § 11, do CPC, a verba honorária deverá ser majorada em face do completo insucesso da parte vencida (INSTITUTO DE PREVIDÊNCIA DOS SERVIDORES PUBLICOS DO MUNICIPIO DE DUQUE DE CAXIAS - IPMDC) nesta instância recursal, competindo ao juízo da liquidação proceder a esse acréscimo depois de definir os percentuais a incidirem originariamente sobre o proveito econômico efetivamente obtido.
+Ante o exposto, ACOLHO os embargos declaração, com efeitos modificativos, apenas para determinar que os honorários recursais sejam fixados conforme indicado na fundamentação. Mantidos o conhecimento do agravo e o não conhecimento do recurso especial.
+Intimem-se. Publique-se.
