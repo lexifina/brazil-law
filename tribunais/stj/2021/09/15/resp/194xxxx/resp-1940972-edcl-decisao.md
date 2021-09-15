@@ -1,0 +1,45 @@
+DECISÃO
+Vistos.
+Fls. 313/316e:Trata-se de Embargos de Declaração opostos por EDUARDO DA SILVEIRA VASCONCELOS contra decisão que determinou o sobrestamentodos autos perante o Tribunal de origem, para que o processo permaneça suspenso até a publicação dos acórdão doRecursoEspecial n. 1.925.456/SP, Tema n. 1.097 desta Corte (fls. 309/310e).
+Alega a existência de erro material na decisão embargada (fls. 313/316e):
+O Embargante é Recorrente nos autos supra que visa à reforma do v. acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no sentido de anular o auto de infração de trânsito nº 3C279910-9 e, em consequência, o processo administrativo nº 2738740/2018.
+O ponto central da questão orbita na necessária dupla notificação do condutor ante infração constatada presencialmente, porém sem assinatura do respectivo auto de infração.
+Todavia, Vossa Excelência, entendeu por devolver os autos à origem por vislumbrar afetação ao caso do Tema Repetitivo nº 1.097.
+(..)
+repetitivos no Recurso Especial nº 1.925.456/SP visto que este trata de dirimir a controvérsia acerca da necessidade de prévia dupla notificação à pessoa jurídica para imposição da penalidade trazida no artigo 257, § 8º, do Código de Trânsito Brasileiro.
+Portanto, afeta somente às pessoas jurídicas que estariam suportando sanção pecuniária pela não indicação de condutor sem, contudo, serem previamente notificadas para tanto, sob entendimento dos órgãos de trânsito de que a sanção prevista no artigo 257, § 7º do CTB trata-se de penalidade acessaria não necessitando de prévia dupla notificação.
+Já a questão trazida no bojo deste Recurso Especial tange à necessidade de prévia dupla notificação direcionada ao condutor autuado presencialmente quando este não assina o auto de infração (artigos 280, VI, 281, parágrafo único, II e 282, todos do CTB), não tratando de infração ao artigo 257, §§ 7º e 8º do CTB.
+Portanto, difere da matéria afetada pelo Tema Repetitivo nº 1.097, pois este trata de sanção à pessoa jurídica, enquanto neste recurso tratamos de sanção à pessoa física; àquele trata de imposição de sanção do artigo 257, § 8º do CTB sem prévia dupla notificação, este trata somente da obrigação de prévia dupla notificação em infração constatada presencialmente quando não assinado o auto de infração.
+Por tudo, data vênia, constata-se o erro material na r. decisão ao considerar a questão trazida afeta ao Tema Repetitivo nº 1.097 devolvendo os autos à origem.
+Requer o acolhimento do aclaratórios, para sanar erro material, dando seguimento ao recurso especial interposto.
+Sem impugnação.
+Feito breve relato, decido.
+Por primeiro, consoante o decidido pelo Plenário desta Corte, na sessão realizada em 09.03.2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se o Código de Processo Civil de 2015.
+Sustenta a Embargante que há omissão a serem sanada, nos termos do art. 1.022, II, do Código de Processo Civil.
+Consoante o art. 1.022 do Código de Processo Civil de 2015, cabe a oposição de embargos de declaração para: i) esclarecer obscuridade ou eliminar contradição; ii) suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento;e, iii) corrigir erro material.
+A omissão, definida expressamente pela lei, ocorre na hipótese de a decisão deixar de se manifestar sobre tese firmada em julgamento de casos repetitivos ou em incidente de assunção de competência aplicável ao caso sob julgamento.
+O Código de Processo Civil considera, ainda, omissa, a decisão que incorra em qualquer uma das condutas descritas no art. 489, § 1º, no sentido de não se considerar fundamentada a decisão que: i) se limita à reprodução ou à paráfrase de ato normativo, sem explicar sua relação com a causa ou a questão decidida; ii) emprega conceitos jurídicos indeterminados; iii) invoca motivos que se prestariam a justificar qualquer outra decisão; iv) não enfrenta todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador; v) invoca precedente ou enunciado de súmula, sem identificar seus fundamentos determinantes, nem demonstrar que o caso sob julgamento se ajusta àqueles fundamentos; e, vi) deixa de seguir enunciado de súmula, jurisprudência ou precedente invocado pela parte, sem demonstrar a existência de distinção no caso em julgamento ou a superação do entendimento.
+Sobreleva notar que o inciso IV do art. 489 do Código de Processo Civil de 2015 impõe a necessidade de enfrentamento, pelo julgador, dos argumentos que possuam aptidão, em tese, para infirmar a fundamentação do julgado embargado.
+Esposando tal entendimento, precedentes desta Corte:
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. INDEFERIMENTO DA INICIAL. OMISSÃO, CONTRADIÇÃO, OBSCURIDADE, ERRO MATERIAL. AUSÊNCIA.
+1. Os embargos de declaração, conforme dispõe o art. 1.022 do CPC, destinam-se a suprir omissão, afastar obscuridade, eliminar contradição ou corrigir erro material existente no julgado, o que não ocorre na hipótese em apreço.
+2. O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. A prescrição trazida pelo art. 489 do CPC/2015 veio confirmar a jurisprudência já sedimentada pelo Colendo Superior Tribunal de Justiça, sendo dever do julgador apenas enfrentar as questões capazes de infirmar a conclusão adotada na decisão recorrida.
+3. No caso, entendeu-se pela ocorrência de litispendência entre o presente mandamus e a ação ordinária n. 0027812-80.2013.4.01.3400, com base em jurisprudência desta Corte Superior acerca da possibilidade de litispendência entre Mandado de Segurança e Ação Ordinária, na ocasião em que as ações intentadas objetivam, ao final, o mesmo resultado, ainda que o polo passivo seja constituído de pessoas distintas.
+4. Percebe-se, pois, que o embargante maneja os presentes aclaratórios em virtude, tão somente, de seu inconformismo com a decisão ora atacada, não se divisando, na hipótese, quaisquer dos vícios previstos no art. 1.022 do Código de Processo Civil, a inquinar tal decisum.
+5. Embargos de declaração rejeitados.
+(EDcl no MS 21.315/DF, Rel. Ministra DIVA MALERBI - DESEMBARGADORA CONVOCADA TRF 3ª REGIÃO, PRIMEIRA SEÇÃO, julgado em 08/06/2016, DJe 15/06/2016).
+No caso, não está presente qualquer vício de fundamentação da decisão embargada.
+O Embargante requer o acolhimento dos aclaratórios, para sanar erro material, dado que o precedente qualificado Tema n. 1.097 desta Corte não se aplicaria ao caso concreto, uma vez que "e trata de sanção à pessoa jurídica, enquanto neste recurso tratamos de sanção à pessoa física; àquele trata de imposição de sanção do artigo 257, § 8º do CTB sem prévia dupla notificação, este trata somente da obrigação de prévia dupla notificação em infração constatada presencialmente quando não assinado o auto de infração" (fl. 314e).
+A Primeira Seção desta Corte afetou o Tema n. 1.097, com determinação nacional de sobrestamento, nos seguintes termos:
+RECURSOS ESPECIAIS REPRESENTATIVOS DE CONTROVÉRSIA. RITO DOS ARTIGOS 1.036 E SEGUINTES DO CPC/2015. RESP 1.925.456/SP. ADMISSÃO.
+1. Admitida a afetação com a seguinte delimitação da tese controvertida: "Verificação da necessidade de observação dos art.
+280 e 281 da Lei 9.503/1997 em relação à infração pela não indicação de condutor prevista no art. 257 § 7º e 8º, para definir a imperiosidade da notificação da infração e da notificação de eventual imposição de penalidade".
+2. Recurso Especial do Sindicato das Empresas Locadoras de Veículos Automotores do Estado de São Paulo - Sindloc/SP submetido ao regime dos arts. 1.036 e seguintes do CPC.
+(ProAfR no REsp 1925456/SP, Rel. Ministro HERMAN BENJAMIN, PRIMEIRA SEÇÃO, julgado em 01/06/2021, DJe 08/06/2021)
+Nesse contexto, a afetação de recurso especial como representativo da controvérsia demanda à Corte de origem a suspensão de recursos interpostos que abordem idêntica questão, até o julgamento definitivo da controvérsia.
+Após o pronunciamento desta Corte, os recursos suspensos devem ser analisados na forma prevista no art. 1.040 do CPC (art. 5º, inciso III, da Resolução nº 8/2008 da Presidência do STJ).
+Ocorre que, examinando-se os autos, sobretudo as premissas de fato fixadas pela Corte de origem (fls. 183/187e), é possível verificar que a discussão travada no presente processo não desborda da questão tratada no precedente qualificado.
+Ressalte-se, ainda, que "antes da verificação da presença de óbices à admissibilidade do recurso especial, deve ser realizada a verificação da existência ou não de pendência: afetação para julgamento repetitivo; repercussão geral reconhecida sobre a matéria, incidente de resolução de demandas repetitivas ou outro incidente de uniformização de jurisprudência" (AgInt nos EDv nos EAg 1409814/RJ, Rel. Ministro FRANCISCO FALCÃO, CORTE ESPECIAL, julgado em 04/12/2019, DJe 09/12/2019).
+Não está configurado, portanto, odistinguishingapontado.
+Posto isso, REJEITO os Embargos de Declaração.
+Publique-se e intimem-se.
