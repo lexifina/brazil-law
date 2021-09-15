@@ -1,0 +1,22 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    “RECURSO INOMINADO. AÇÃO DECLARATÓRIA C/C COBRANÇA. SENTENÇA DE IMPROCEDÊNCIA. INSURGÊNCIA RECURSAL DA PARTE AUTORA. SERVIDOR PÚBLICO DO MUNICÍPIO DE LONDRINA. ADICIONAL DE INSALUBRIDADE. BASE DE CÁLCULO. PLEITO DE APLICAÇÃO DO ARTIGO 187 DA LEI MUNICIPAL Nº 4.928/92 – IMPROCEDENTE. INEXISTÊNCIA DE LEGISLAÇÃO FEDERAL MAIS VANTAJOSA. EVENTUAL APLICAÇÃO DE LEI FEDERAL QUE DEVE CONTEMPLAR TANTO A BASE DE CÁLCULO QUANTO AS ALÍQUOTAS PREVISTAS. UTILIZAÇÃO DO VENCIMENTO FIXADO NA TABELA 1, REFERÊNCIA I, NÍVEL 1, CONSTANTE DO ANEXO IV – TABELA DE VENCIMENTOS, SUBSÍDIOS E GRATIFICAÇÕES DA LEI N. 9.337/2004, CONFORME ARTIGO 185 DO ESTATUTO DOS SERVIDORES. AUSÊNCIA DE OMISSÃO OU INCONSTITUCIONALIDADE. SENTENÇA MANTIDA. Recurso conhecido e desprovido”.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 7º, inciso IV, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    “Reside a controvérsia na definição da base de cálculo do adicional de insalubridade percebido pelos servidores públicos do município de Londrina. A questão em debate encontra fundamento na interpretação dos artigos 185 e 187 do Estatuto dos Servidores Públicos Civis de Londrina (Lei Municipal nº 4.928/1992), visto que ao passo que o primeiro dispositivo prevê que a base de cálculo deve ser o menor salário da categoria, o segundo estabelece que o adicional de insalubridade não pode ser inferior ao previsto na legislação federal reguladora da matéria, devendo ser aplicada esta quando mais vantajosa, vejamos:
+    (...)
+    Bem se vê, portanto, que em uma análise conjunta da base de cálculo e das alíquotas previstas na lei municipal e nas leis federais, a segunda não é mais vantajosa que a primeira, razão pela qual não se está diante da hipótese prevista no art. 187 da lei municipal supracitada.
+    Vale ressaltar que a previsão da base de cálculo do adicional de insalubridade como sendo o vencimento fixado na Tabela 1, Referência I, Nível 1, constante do Anexo IV - Tabela de Vencimentos, Subsídios e Gratificações, da Lei nº 9.337, de 19 de janeiro de 2004, não fere a Súmula Vinculante nº 4 do STF, tampouco padece de omissão, hipóteses que justificaria uma aplicação parcial das legislações federais”.
+    Desse modo, verifica-se que o Tribunal de origem decidiu a controvérsia com fundamento na legislação infraconstitucional local aplicável à espécie e no conjunto fático-probatório dos autos, cuja análise se revela inviável em sede de recurso extraordinário.
+    Incidem, na espécie, os óbices das Súmulas 279 e 280 do STF, in verbis: “Para simples reexame de prova não cabe recurso extraordinário” e “Por ofensa a direito local não cabe recurso extraordinário”. Nesse sentido:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. DIREITO AMBIENTAL. AÇÃO CIVIL PÚBLICA. OBRA PARA RECUPERAÇÃO DE IMÓVEL. IMPOSSIBILIDADE DE REEXAME DO CONJUNTO FÁTICO-PROBATÓRIO E DA LEGISLAÇÃO LOCAL: SÚMULAS 279 E 280 DO SUPREMO TRIBUNAL FEDERAL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO”. (ARE 1.085.165-AgR, Rel. Min. Cármen Lúcia, Plenário,DJe de 26/3/2018)
+    “RECURSO EXTRAORDINÁRIO COM AGRAVO – ALEGADA VIOLAÇÃO A PRECEITOS CONSTITUCIONAIS – DIREITO LOCAL – SÚMULA 280/STF – REEXAME DE FATOS E PROVAS – IMPOSSIBILIDADE – SÚMULA 279/STF – SUCUMBÊNCIA RECURSAL (CPC, ART. 85, § 11) – NÃO DECRETAÇÃO, NO CASO, POR TRATAR-SE DE RECURSO DEDUZIDO CONTRA DECISÃO PUBLICADA SOB A ÉGIDE DO CPC/73 – AGRAVO INTERNO IMPROVIDO”. (ARE 949.507-AgR, Rel. Min. Celso de Mello, Segunda Turma, DJe de 9/10/2020)
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 15 de setembro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
