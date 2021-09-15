@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de agravo regimental interposto por JORGE OCTÁVIO MACEDO LIMA, contra decisão que negou seguimento ao habeas corpus substitutivo de recurso ordinário, com pedido liminar, impetrado em razão do acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territórios, no julgamento do HC n. 0718239-10.2021.8.07.0000.
+O agravante foi preso em flagrante no dia 22 de fevereiro de 2021 em razão da suposta prática do crime previsto na Lei n. 11.343/2006. Em 24 de fevereiro, o flagrante foi homologado, mas concedida a liberdade provisória, sem fiança, com a imposição de medidas cautelares diversas (e-STJ, fl. 158). Em seguida, o Ministério Público ofereceu denúncia, imputando ao réu a prática do delito descrito no art. 33, caput e § 1º, inciso II, da Lei de Drogas.
+Nas razões deste habeas corpus, aduziu-se a ilicitude das provas obtidas mediante o ingresso dos policiais na residência do investigado. Assevera que a entrada dos agentes na casa do acusado não foi autorizada por mandado judicial nem há registro da autorização do morador em vídeo e áudio, tal como preconiza a jurisprudência do Superior Tribunal de Justiça (HC 598.051/SP, Rel. Ministro Rogerio Schietti Cruz, Sexta Turma, DJe 15/3/2021).
+Neste agravo regimental (e-STJ, fls. 472-483), a defesa insiste na irregularidade da entrada dos policiais na casa do agravante. Assevera que a autorização para ingresso foi precedida de ardil utilizado pelos policiais, que alegaram ter se dirigido à casa do acusado em razão de denúncias de maus tratos a animais. Arremata que a autorização viciada por fraude não pode, nunca, ser equiparada a autorização voluntária para entrada na residência (e-STJ, fl. 483).
+Em razão disso, requer a reconsideração da decisão agravada ou, subsidiariamente, a apresentação do feito ao Colegiado respectivo.
+É o relatório. Decido.
+Este agravo não pode ser conhecido.
+Isto porque observa-se que o agravante apresentou duas petições com o mesmo teor, ambas protocolizadas em 10 de setembro de 2021. A primeira (Pet n. 00819196/2021), apresentada às 18h13min e a segunda, (Pet. n. 00819340/2021), recebida às 18h16min (e-STJ, fls. 498-520).
+Em tal hipótese, à luz do princípio da unirrecorribilidade, revela-se incabível o presente agravo, em razão da preclusão consumativa.
+A propósito, assim já se decidiu:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECEPTAÇÃO. PRECLUSÃO CONSUMATIVA. ALTERAÇÃO DA PENA-BASE. DISCRICIONARIEDADE DO JULGADOR NA ANÁLISE DOS FATOS. SÚMULA N. 7/STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Esta Corte Superior possui entendimento pacífico no sentido de que a interposição de vários recursos pela mesma parte contra a mesma decisão inviabiliza o exame daqueles que tenham sido protocolizados por último, em razão da ocorrência de preclusão consumativa e ante a aplicação do princípio da unirrecorribilidade das decisões.  ..
+(AgRg no AREsp 934.588/AL, Rel. Ministro JOEL ILAN PACIORNIK, Quinta Turma, DJe 25/4/2018)
+PENAL. PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. NÃO IMPUGNAÇÃO DOS FUNDAMENTOS DA DECISÃO RECORRIDA. INCIDÊNCIA DO ENUNCIADO DA SÚMULA 182/STJ. EMBARGOS DE DECLARAÇÃO. PRESCRIÇÃO NÃO VERIFICADA. INTERPOSIÇÃO DE DOIS RECURSOS. NÃO CONHECIMENTO DO ÚLTIMO INTERPOSTO. AGRAVO REGIMENTAL NÃO CONHECIDO. AGRAVO REGIMENTAL NÃO PROVIDO. EMBARGOS DE DECLARAÇÃO REJEITADOS. (..)
+2. A interposição de mais de um recurso contra a mesma decisão impossibilita o conhecimento daquele interposto por último, diante da preclusão consumativa e da observância ao princípio da unirrecorribilidade das decisões.
+ ..  (AgRg no AREsp 770.627/SP, Rel. Ministro NEFI CORDEIRO, Sexta Turma, DJe 14/11/2017)
+Ante o exposto, nos termos do art. 34, XVIII, alínea "a", do Regimento Interno desta Corte, não se conhece deste agravo.
+Intimem-se.
