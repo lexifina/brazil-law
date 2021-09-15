@@ -1,0 +1,45 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de GILBERTO JUNIOR GOMES DE LIMA contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo na Apelação Criminal n. 1502504-51.2020.8.26.0535.
+Consta dos autos que o Paciente foi condenado às penas de 6 (seis) anos, 9 (nove) meses e 20 (vinte) dias de reclusão, em regime inicial fechado, e 680 (seiscentos e oitenta) dias-multa, como incurso no art. 33, caput, da Lei n. 11.343/2006, em razão da apreensão de 6,6g de cocaína e 38,1g de maconha.
+A Defesa interpôs recurso de apelação, que foi parcialmente provido pelo Tribunal de origem, para reduzir as penas para 5 (cinco) anos e 10 (dez) meses de reclusão e 583 (quinhentos e oitenta e três) dias-multa.
+Neste writ, a Impetrante alega que deve ser reconhecida a incidência da atenuante da confissão.
+Aduz que o Juízo de primeira instância teria utilizado, para fins condenatórios, a confissão informal do Paciente aos policiais responsáveis por sua prisão.
+Requer, liminarmente e no mérito, o reconhecimento da atenuante da confissão e sua compensação com a agravante da reincidência.
+É o relatório. Decido.
+De início, destaco que " a s disposições previstas nos arts. 64, III, e 202 do Regimento Interno do Superior Tribunal de Justiça não afastam do Relator a faculdade de decidir liminarmente, em sede de habeas corpus e de recurso em habeas corpus, a pretensão que se conforma com súmula ou a jurisprudência consolidada dos Tribunais Superiores, ou a contraria" (AgRg no HC 629.625/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/12/2020, DJe 17/12/2020).
+No mesmo sentido, ilustrativamente:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. CONCESSÃO DA ORDEM SEM OPORTUNIDADE DE MANIFESTAÇÃO PRÉVIA DO MINISTÉRIO PÚBLICO FEDERAL. INOCORRÊNCIA DE NULIDADE PROCESSUAL. HOMENAGEM AO PRINCÍPIO DA CELERIDADE E À GARANTIA DA EFETIVIDADE DAS DECISÕES JUDICIAIS. PROGRESSÃO DE REGIME. CÁLCULO DE PENAS. REINCIDÊNCIA NÃO ESPECÍFICA EM CRIME HEDIONDO. PACOTE ANTICRIME. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO ART. 112, V, DA LEP. AGRAVO REGIMENTAL DESPROVIDO.
+1. Malgrado seja necessário, em regra, abrir prazo para a manifestação do Parquet antes do julgamento do writ, as disposições estabelecidas no art. 64, III, e 202, do Regimento Interno desta Corte, e no art. 1º do Decreto-lei n. 522/1969, não afastam do relator o poder de decidir monocraticamente o habeas corpus.
+2. "O dispositivo regimental que prevê abertura de vista ao Ministério Público Federal antes do julgamento de mérito do habeas corpus impetrado nesta Corte (arts. 64, III, e 202, RISTJ) não retira do relator do feito a faculdade de decidir liminarmente a pretensão que se conforma com súmula ou jurisprudência dominante no Superior Tribunal de Justiça ou a confronta" (AgRg no HC 530.261/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 24/9/2019, DJe 7/10/2019).
+3. Para conferir maior celeridade aos habeas corpus e garantir a efetividade das decisões judiciais que versam sobre o direito de locomoção, bem como por se tratar de medida necessária para assegurar a viabilidade dos trabalhos das Turmas que compõem a Terceira Seção, a jurisprudência desta Corte admite o julgamento monocrático do writ antes da ouvida do Parquet em casos de jurisprudência pacífica. Precedentes.
+ ..
+6. Agravo regimental não provido." (AgRg no HC 656.843/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 04/05/2021, DJe 10/05/2021; sem grifo no original.)
+Portanto, passo a analisar diretamente o mérito da impetração.
+A jurisprudência desta Corte Superior orienta no sentido de que "se a confissão informal do Agravado aos policiais acerca da subtração patrimonial, no momento da prisão em flagrante, foi utilizada como fundamento pelo Tribunal de origem para manter a sua condenação, é devida a incidência da respectiva atenuante. Aplicação da Súmula n. 545 do STJ" (AgRg no REsp 1.827.438/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/09/2019, DJe 01/10/2019, sem grifos no original).
+No mesmo sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. FURTO CIRCUNSTANCIADO. DOSIMETRIA. PENA BASE ACIMA DO MÍNIMO LEGAL. CONSEQUÊNCIA DO CRIME. MOTIVAÇÃO IDÔNEA. CONFISSÃO EXTRAJUDICIAL. DECLARAÇÕES VALORADAS NA FORMAÇÃO DO JUÍZO CONDENATÓRIO. INCIDÊNCIA DA ATENUANTE. POSSIBILIDADE DE COMPENSAÇÃO COM A AGRAVANTE DA REINCIDÊNCIA. WRIT NÃO CONHECIDO E HABEAS CORPUS CONCEDIDO DE OFÍCIO.
+ ..
+4. A atenuante da confissão espontânea deve ser reconhecida, ainda que tenha sido parcial ou qualificada, quando a manifestação do réu for utilizada para fundamentar a sua condenação, o que se infere na hipótese dos autos. Precedentes.
+5. Hipótese na qual o agente, embora tenha negado qualquer envolvimento com o delito ao prestar depoimento na fase inquisitorial e durante a instrução criminal, reconheceu ser o autor da prática delitiva a três agentes policiais, sendo que as suas declarações foram sopesadas na formação do juízo condenatório, tendo sido consignado, inclusive, que o réu indicou que parte da res furtivae estaria em sua residência, o que permitiu a recuperação de tais bens. Se a confissão informal do réu pode servir de sustentáculo para a condenação penal, desde que seja corroborada por outros elementos probatórios, forçoso reconhecer que tal manifestação justifica, igualmente, a incidência da atenuante de pena do art. 65, III, "d", do Código Penal.
+ .. " (HC 358.744/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 06/12/2016, DJe 12/12/2016, sem grifos no original.)
+No caso, extrai-se do acórdão estadual que o Paciente confessou informalmente aos agentes policiais que exercia o comércio de drogas ilícitas, sendo certo que estas declarações informais foram empregadas como fundamento para manter sua condenação.
+Confira-se (fls. 183-184; sem grifos no original):
+"A autoria delitiva atribuída ao apelante foi seguramente demonstrada pelos elementos de convicção produzidos.
+Na delegacia o réu preferiu o silêncio (fls. 05). Em Juízo, negou genericamente os fatos ao afirmar que o flagrante foi forjado pelos policiais (fls. 125).
+A mera negativa dos fatos não autoriza o decreto absolutório e foi rechaçada pela firme prova acusatória.
+Os depoimentos das testemunhas Eliezer e Fábio, policiais responsáveis pelas diligências que culminaram com a prisão do apelante, foram coesos e harmônicos. Esclareceram que estavam em patrulhamento de rotina pela via pública quando viram o réu, que mostrou nervosismo com a aproximação da viatura. Assim, decidiram abordá-lo e, durante a revista, encontraram em seu poder as porções de maconha e cocaína. No momento da prisão o réu confirmou informalmente a prática da traficância (fls. 02/03 e 125).
+Com relação aos depoimentos dos policiais, segundo entendimento que vem sendo adotado pela jurisprudência prevalente, não havendo motivo concreto para comprometer a isenção do funcionário público hipótese dos autos, a prova deve integrar o conjunto probatório irrestritamente.
+Não abala o acervo acusatório o fato de não terem sido ouvidas testemunhas estranhas aos quadros da polícia. Não se desconhece a dificuldade em obter testemunhas civis em se tratando de tráfico de drogas, visto o fundado temor do cidadão comum em futuras represálias.
+Faço consignar que prevendo o tipo penal as condutas de trazer consigo, guardar e transportar, são desnecessários atos de efetiva comercialização, desde que comprovado, como está nos autos, a finalidade de entrega dos entorpecentes a terceiros.
+A apreensão de expressiva quantidade e diversidade de drogas, fracionadas em mais de setenta porções individuais, a prisão em flagrante delito e os depoimentos dos policiais, são fortes indicadores da realização de tráfico, de modo que não é possível a pretendida absolvição por insuficiência probatória."
+Desse modo, uma vez que a confissão informal do Paciente aos agentes policiais acerca do tráfico de drogas foi utilizada como argumento pelo Tribunal de origem para manter a sua condenação, é devida a incidência da atenuante da confissão espontânea.
+Portanto, passo a refazer a dosimetria da pena.
+Na primeira fase da dosimetria, a pena permanece no mínimo legal, de 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Na segunda fase, promovo a compensação entre a agravante da reincidência e a atenuante da confissão espontânea, mantendo inalterada a pena intermediária.
+Na terceira fase, ausentes causas de aumento ou diminuição, torna-se definitiva a pena de 5 (cinco) anos de reclusão e 500 (quinhentos) dias-multa.
+Considerando o quantum da pena imposta e a reincidência, mantenho o regime inicial fechado.
+Ante o exposto, CONCEDO a ordem de habeas corpus para aplicar em favor do Paciente a atenuante da confissão espontânea e, por consequência, reduzir a pena imposta, nos termos desta decisão.
+Comunique-se ao Juízo de origem.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. TRÁFICO DE DROGAS. CONFISSÃO INFORMAL. UTILIZAÇÃO COMO FUNDAMENTO PARA A CONDENAÇÃO. CONSIDERAÇÃO. POSSIBILIDADE. SÚMULA 545/STJ. ORDEM CONCEDIDA.
