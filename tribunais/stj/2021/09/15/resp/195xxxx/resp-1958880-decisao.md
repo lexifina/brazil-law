@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial manejado pela Defensoria Pública do Estado Da Bahia, com base no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça da Bahia, assim ementado (fls. 164/165):
+EMENTA: APELAÇÃO CÍVEL. HONORÁRIOS ADVOCATÍCIOS SUCUMBENCIAIS. DEFENSORIA PÚBLICA ESTADUAL. RECEITA DA DEFENSORIA PÚBLICA. AUTONOMIA CONSTITUCIONAL. HONORÁRIOS
+ADVOCATÍCIOS DISPENSADOS POR LEI ESTADUAL. ART. 6o, II, DA LEI COMPLEMENTAR ESTADUAL  26/2006.
+É possível, em tese, que o ente público seja condenado a pagar honorários sucumbenciais em favor da Defensoria Pública estadual. Precedente do STJ (Tema 129) tratando da Defensoria dos estados. Precedente do STF (AR 1937 AgR) tratando da Defensoria Pública da União. Pendência de julgamento do RE 1140005 em que o STF tratará das Defensorias estaduais.
+Distinção entre os fatos materiais que deram origem aos precedentes e os fatos verificados neste caso. Precedentes que não trataram da
+hipótese de existência de lei estadual excluindo a possibilidade da condenação. Afasta-se, pois, a aplicação dos precedentes.Autonomia funcional, administrativa e orçamentária constitucional das Defensorias Públicas conquistada com a Emenda nº 45, em 2004.
+Competência legislativa envolvendo Defensoria Pública. Normas gerais inserem-se na competência federal (arts. 61, §1º, "d" e 134, § Io, da Constituição da República). Receita insere-se na competência estadual, no âmbito da autonomia constitucional funcional, administrativa e de proposta orçamentária (art. 134, § 2o, da Constituição da República).
+Não existe hierarquia entre lei complementar federal e lei complementar estadual. Aparente antinomia deve ser resolvida no âmbito das regras de competência, não se podendo falar que lei complementar federal revoga lei complementar estadual. Noutras palavras, ou a matéria é da competência federal ou é da competência estadual e, repita-se, receita da Defensoria Pública estadual é da competência estadual.
+A interpretação da norma federal (art. 4o, inciso XXI, da LC 80/94, inserido pela LC 132/2009) é que, não sendo excluída na lei estadual a possibilidade de condenação sucumbencial contra pessoa jurídica de direito público, a Defensoria terá legitimidade para executar honorários eventualmente fixados.
+A Defensoria Pública da Bahia, no exercício da sua autonomia, se organizou na forma da Lei Complementar Estadual nº. 26/2006 que, ao tratar de suas receitas, no art. 6o, inciso II, dispensou honorários sucumbenciais quando o vencido for pessoa jurídica de Direito Público.
+A Lei Estadual nº. 11.045/2008, que criou o Fundo de Assistência Jurídica da Defensoria Pública do Estado da Bahia, em seu artigo 3oexcluiu das receitas do fundo aquelas decorrentes de ações contra entes da Administração Pública direta e indireta.
+A parte recorrente aponta violação aos arts. 85 do CPC e 4º, XXI, LC 80/94. Sustenta, em resumo, que é devida a condenação em honorários advocatícios em favor da Defensoria Publica, tendo em vista que "não há presença de confusão patrimonial, eis que o Município da Vitória da Conquista não se confunde com o Estado da Bahia" (fl. 182).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+De início, destaca-se a seguinte fundamentação do acórdão recorrido (fls. 160/161):
+Acrescente-se que as normas gerais para organização das Defensorias dos Estados são tratadas pela LC Federal de nº 80/94, a partir do art. 97, e não contrariam em nada a norma estadual referida. Não há, pois, que se falar em superveniência de norma geral federal sobre a matéria tratada na Lei Complementar estadual.
+Por fim, a Lei Estadual nº. 11.045/2008, que criou o Fundo de Assistência Jurídica da Defensoria Pública do Estado da Bahia, em seuartigo 3o excluiu das receitas do fundo aquelas decorrentes de ações contra entes da Administração Pública direta e indireta. Neste sentido, não são devidos honorários em favor da Defensoria Pública. A saber:
+Art. 3o - Constituem receitas do Fundo:
+I - as verbas de sucumbência das causas em que a Defensoria Pública do Estado da Bahia atuar, exceto nas ações contra entes da Administração Pública direta e indireta;
+Assim, embora seja possível, em tese, a condenação do ente público em honorários em favor da Defensoria estadual, a existência de lei estadual impedindo tal condenação, exclui, no caso, tal possibilidade.
+Nesse contexto, o exame da controvérsia, tal como enfrentada pelas instâncias ordinárias, exigiria a análise de dispositivos de legislação local (Lei Estadual nº. 11.045/2008), pretensão insuscetível de ser apreciada em recurso especial, conforme a Súmula 280/STF ("Por ofensa a direito local não cabe recurso extraordinário.").
+ANTE O EXPOSTO, não conheço do recurso especial.
+Publique-se.
