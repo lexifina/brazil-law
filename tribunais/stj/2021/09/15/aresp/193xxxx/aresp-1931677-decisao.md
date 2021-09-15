@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por JOSÉ RAIMUNDO PINHEIRO NETO, com base no art. 105, III, a, e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 487):
+APELAÇÃO CÍVEL. AÇÃO DE RETIFICAÇÃO DE REGISTRO C/C INDENIZAÇÃO POR DANOS MORAIS. DESISTÊNCIA DA AÇÃO. INEXISTÊNCIA DE ACORDO. CONDENAÇÃO DO AUTOR NOS ÔNUS SUCUMBENCIAIS. ART. 90, CAPUT, DO CPC. APELO NÃO PROVIDO.
+I - À parte desistente na ação de retificação de registro c/c indenização por danos morais, em que não se verifica a ocorrência de transação entre os litigantes, mas mera anuência da parte contrária ao pleito de desistência, impõe-se a condenação em custas e honorários advocatícios de sucumbência, nos termos do art. 90, caput, do CPC;
+II - apelo não provido.
+No recurso especial (e-STJ, fls. 502-509), o recorrente alegou, além de divergência jurisprudencial, a violação ao art. 90, § 2º, do CPC/2015.
+Sustentou, em síntese, que houve transação das partes com o pedido de desistência, portanto não há que falar em vencedornem vencido.
+Pugnou, assim, pela reforma do acórdão recorrido, de modo que as despesas e honorários advocatícios, em sua integralidade, sejam igualmente divididos entre as partes.
+O Tribunal de origem deixou de admitir o recurso especial (e-STJ, fls. 531-534), tendo sido interposto agravo em recurso especial às fls. 535-545 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ao analisar a situação jurídica dos autos, o Tribunal de origem manteve a sentença, declinando a seguinte fundamentação (e-STJ, fls. 489-491, sem grifos no original):
+Conforme acima relatado, visa o presente recurso à reforma do decreto sentencial de Id 7751689, que homologou a desistência formulada pelo apelante na ação de retificação de registro c/c indenização por danos morais ajuizada contra os ora apelados, somente na parte que condenou o recorrente ao pagamento de custas processuais e honorários advocatícios, fixados em 10% (dez por cento) sobre o valor da causa, nos termos do art. 90 do CPC, que assim dispõe, in verbis:
+Art. 90. Proferida sentença com fundamento em desistência, em renúncia ou em reconhecimento do pedido, as despesas e os honorários serão pagos pela parte que desistiu, renunciou ou reconheceu.
+§ 1º Sendo parcial a desistência, a renúncia ou o reconhecimento, a responsabilidade pelas despesas e pelos honorários será proporcional à parcela reconhecida, à qual se renunciou ou da qual se desistiu.
+§ 2º Havendo transação e nada tendo as partes disposto quanto às despesas, estas serão divididas igualmente.
+§ 3º Se a transação ocorrer antes da sentença, as partes ficam dispensadas do pagamento das custas processuais remanescentes, se houver.
+§ 4º Se o réu reconhecer a procedência do pedido e, simultaneamente, cumprir integralmente a prestação reconhecida, os honorários serão reduzidos pela metade.
+Face aos elementos constantes destes autos, não há como dar guarida ao pleito de reforma, pois tendo o autor/recorrente pleiteado a desistência da ação, como se extrai da petição de Id7751683, é dele o ônus de arcar com o pagamento das custas processuais e honorário de sucumbência.
+Tal raciocínio decorre do Princípio da Causalidade, posto que não seria justo atribuir à parte ré o ônus de arcar com os honorários do advogado que se obrigou a constituir, tão somente, em virtude do ajuizamento contra si de demanda judicial posteriormente desistida pelo autor.
+ ..
+Frise-se, ademais, que, diferentemente do que tenta convencer o recorrente, não há notícia nestes autos de nenhuma transação entre os litigantes que autorize a incidência do disposto no §2º do art. 90 do CPC, com vistas à divisão igualitária do ônus sucumbenciais, tratando-se o documento de Id 7751684, em verdade, de mero consentimento da parte ex adversa, necessário a homologação da desistência após efetuada a citação, como exige o art. 485, §4º, do CPC.
+Destarte, não merece qualquer reparo o decreto sentencial.
+Como se depreende, o acórdão recorrido ponderou que, "tendo o autor/recorrente pleiteado a desistência da ação, como se extrai da petição de Id7751683, é dele o ônus de arcar com o pagamento das custas processuais e honorário de sucumbência" (e-STJ, fl. 490), frisando, ainda, que, "diferentemente do que tenta convencer o recorrente, não há notícia nestes autos de nenhuma transação entre os litigantes que autorize a incidência do disposto no § 2º do art. 90 do CPC, com vistas à divisão igualitária do ônus sucumbenciais, tratando-se o documento de Id 7751684, em verdade, de mero consentimento da parte ex adversa, necessário a homologação da desistência após efetuada a citação, como exige o art. 485, § 4º, do CPC" (e-STJ, fl. 491).
+Nessa esteira, a irresignação da parte recorrente não merece guarida, porquanto demandaria o reexame do conteúdo fático-probatório dos autos, providência vedada pelo óbice da Súmula n. 7 do STJ.
+Outrossim, não se pode conhecer do recurso pela alínea c, uma vez que, aplicada a Súmula 7/STJ quanto à alínea a, fica prejudicada a divergência jurisprudencial, pois as conclusões divergentes decorreriam das circunstâncias específicas de cada processo, e não do entendimento diverso sobre uma mesma questão legal.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor dos advogados da parte recorrida em 2% sobre o valor atualizado da causa.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL.AÇÃO DE RETIFICAÇÃO DE REGISTRO C/C INDENIZAÇÃO POR DANOS MORAIS. DESISTÊNCIA DA AÇÃO. INEXISTÊNCIA DE ACORDO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ.CONDENAÇÃO DO AUTOR AO PAGAMENTO DOSÔNUS SUCUMBENCIAIS. ART. 90, CAPUT, DO CPC/2015. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
