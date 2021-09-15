@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de agravo interposto por Ballesteros Empreendimentos Imobiliários Ltda. contra decisão que não admitiu o recurso especial, fundado nas alíneasae cdo inciso III do art. 105 da Constituição Federal, que desafiou acórdão prolatado pelo Tribunal de Justiça de Minas Gerais assim ementado (e-STJ, fl. 334):
+APELAÇÃO CÍVEL. REVISIONAL DE CONTRATO DE PROMESSA DE COMPRA E VENDA DE IMÓVEL. COBRANÇA DE JUROS REMUNERATÓRIOS CUMULADA COM CORREÇÃO DA PRESTAÇÃO POR ÍNDICE DA CADERNETA DE POUPANÇA. IMPOSSIBILIDADE. ATRASO NA ENTREGA DE OBRAS DE LAZER. MULTA.-O promissário comprador tem direito ao valor da multa prevista no contrato, a título de cláusula penal, em razão de atraso injustificado da Construtora em entregar as obras de lazer do empreendimento habitacional.-É ilegal, por configurar bis in idem, a cumulação de juros remuneratórios à taxa de 1% (um por cento) ao mês mais o índice mensal de remuneração da caderneta de poupança para atualizar os valores das prestações mensais em contrato de compra e venda de imóvel na planta, já que a poupança é remunerada pela TR mais 0,5% de juros.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 402-411).
+Nas razões do recurso especial, a recorrente apontou violação ao art. 46 da Lei n.10.931/2004 e ao art. 413 do Código Civil, bem como divergência jurisprudencial (e-STJ, fls. 421-459).
+Sustentou, em síntese, a inexistência de ilegalidade na aplicação dos juros remuneratórios, por se tratar de cobrança não superior a 1% e em conformidade com previsão legal.
+Alegou, ainda, que, mesmo que seja reconhecido o atraso na entrega de algumas das promessas feitas no contrato, deve-seconsiderar que parte substancial da avença foi cumprida, não sendo caso de atribuir aobrigação de pagar multa em sua integralidade, ante descumprimento de parte mínima da obrigação.
+Juízo de admissibilidade negativo, o que originou a interposição deste agravo (e-STJ, fls. 570-575).
+Brevemente relatado, decido.
+O inconformismo não merece prosperar.
+De fato, ao julgar o recurso de apelação, o Tribunal de Justiça assim se manifestou (e-STJ, fl. 337):
+A cláusula 3.1 do contrato de compra e venda celebrado entre as partes dispõe:
+"DA FORMA DE CORREÇÃO DAS PARCELAS: Estabelecem as partes que as parcelas do preço constantes nos itens 3.3 e 3.4 do preâmbulo deste instrumento serão corrigidas mensalmente mediante a aplicação do índice de remuneração plena dos depósitos de caderneta de poupança (art. 46 Lei 10.931/04, acrescido de 1% (hum ponto percentual), devendo ser tomado por base o índice da aludida caderneta de poupança do último dia de cada mês ocorrido anteriormente ao do vencimento de cada prestação."
+Releva assinalar que resta configurado o bis in idem, a cumulação de juros remuneratórios à taxa de 1% (um por cento) ao mês mais o índice mensal de remuneração da caderneta de poupança para atualizar os valores das prestações mensais em contrato decompra e venda de imóvel na planta, já que a poupança é remunerada pela TR mais 0,5% de juros.
+Todavia, para rever as conclusões do acórdão recorrido de que houvecumulação de juros remuneratórios - como acima transcrito -,seria necessário o reexame de matéria fático-probatória, o que é vedado em recurso especial, consoante as Súmulas 5 e 7/STJ.
+Cabe ainda salientar que, em virtude da incidência do referido óbice sumular, fica prejudicada a análise da divergência jurisprudencial, pois inexistente similitude fático-jurídica entre os julgados confrontados.
+No tocante ao pleito de redução proporcional da multa aplicada por atraso na entrega de obras de lazer, constata-se que a matéria não foi objeto de apreciação pelo Tribunal estadual, estando configurada a ausência de prequestionamento aatraira incidência das Súmulas 282 e 356 do STF.
+Oportuno assinalar, ainda, que a jurisprudência deste Tribunal Superior é tranquila no sentido da necessidade de prequestionamento dos dispositivos que se entendem violados, mesmo em se tratando de matéria de ordem pública.
+Veja-se:
+AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. EXECUÇÃO HIPOTECÁRIA. EMBARGOS. PRAZO. MANDADO DE CITAÇÃO. JUNTADA. NULIDADE DA PENHORA E PRESCRIÇÃO. FUNDAMENTOS DO ACÓRDÃO RECORRIDO. IMPUGNAÇÃO. NECESSIDADE. SÚMULA Nº 283/STF. CLÁUSULAS CONTRATUAIS. ABUSIVIDADE. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA Nº 282/STF. 1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Após a vigência da Lei nº 11.382/2006, o prazo para oposição de embargos à execução passou a ser de 15 (quinze) dias, contados, no entanto, a partir da juntada aos autos do mandado de citação.
+3. A falta de impugnação dos fundamentos do acórdão recorrido enseja o não conhecimento do recurso, incidindo o disposto na Súmula nº 283/STF.
+4. A ausência de prequestionamento da matéria suscitada no recurso especial impede o conhecimento do apelo nobre (Súmula nº 282/STF). As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+5. Agravo interno não provido.
+(AgInt no REsp 1633820/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários em favor do advogado da parte agravada paraR$ 3.500,00 (três mil e quinhentos reais).
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. IMÓVEL. PROMESSA DE COMPRA E VENDA. REGRA PARA ATUALIZAÇÃO DAS PRESTAÇÕES. CUMULAÇÃO DE JUROS REMUNERATÓRIOS AO ÍNDICE MENSAL DE RETRIBUIÇÃO DA CADERNETA DE POUPANÇA. OCORRÊNCIA DEBIS IN IDEM. ILEGALIDADE DECLARADA. REVISÃO DA MATÉRIA. IMPOSSIBILIDADE. INCIDÊNCIA DAS SÚMULAS 5 E 7/STJ. REDUÇÃO PROPORCIONAL DA MULTA POR ATRASO INJUSTIFICADO NA ENTREGA DE OBRAS DE LAZER. AUSÊNCIA DE PREQUESTIONAMENTO. APLICAÇÃODAS SÚMULAS 282 E 356/SFT.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
