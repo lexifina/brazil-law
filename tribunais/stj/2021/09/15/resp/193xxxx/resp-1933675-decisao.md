@@ -1,0 +1,10 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial manejado pela FAZENDA NACIONAL, com amparo na alínea "a"doinciso IIIdo art. 105 da CF/1988, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO.
+A recorrente, em síntese, aponta que o acórdão deve ser reformado ao argumento de que "a mera atenção ao valor da lide para a condenação em honorários advocatícios culminará em violação ao princípio geral de direito que veda o enriquecimento sem causa" (e-STJ, fl. 633).
+É o relatório.
+Verifica-se que a matéria deduzida no presente recurso especial ("Definição do alcance da norma inserta no § 8º do art. 85 do Código de Processo Civil nas causas em que o valor da causa ou o proveito econômico da demanda forem elevados.") foi afetada para julgamento sob a sistemática do repetitivo, Tema 1.076, nos autos dos REsps 1.877.883/SP e 1.850.512/SP, de minha relatoria, submetidos ao rito dos recursos repetitivos, estabelecido pelo disposto no art. 1.036, § 5º, do CPC.
+Nesse contexto, por medida de economia processual e para evitar decisões dissonantes entre Cortes integrantes do mesmo sistema de Justiça, os recursos que tratam da mesma controvérsia devem retornar à origempara aguardar ou aplicar a solução alcançada no feito afetado, viabilizando, assim, a observação uniformeda tese vinculante.
+Cumpre esclarecer que, somente depois de realizada essa providência, com o exaurimento da instância ordinária, os recursos excepcionais deverãoser encaminhados para os TribunaisSuperiores, a fim de que possam ser analisadas as questões jurídicas neles suscitadas, desde que não prejudicados pelo novo pronunciamento da Corte local.
+Ante o exposto, determino a devolução dos autos ao Tribunal de origem, para observação da disciplina processual dos arts. 1.039e 1.040 do CPC/2015, de modo que se: i) negue seguimento ao recurso, se o acórdão recorridocoincidir com a tese vinculante do Tribunal Superior; ou ii) proceda ao juízo de retratação, na hipótese de ter o Colegiado local divergidoda interpretação fixada no precedente qualificado.
+Publique-se. Intimem-se.
