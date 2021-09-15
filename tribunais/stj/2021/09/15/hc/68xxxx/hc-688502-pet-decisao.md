@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de pedido de reconsideração formulado por ITALO BRENO DUARTE DE SOUZA em face da decisão de fls. 161-163 (e-STJ), que indeferiu liminarmente o habeas corpus, em razão da incidência, por analogia, da Súmula n. 691/STF, tendo em vista que o ato impugnado era uma decisão do Desembargador Relator que indeferiu a concessão de medida liminar pleiteada em writ impetrado perante o Tribunal de origem.
+Nesta petição, sustenta o requerente que o mérito do mandamus impetrado junto à Corte de origem já foi julgado, sendo juntada em anexo a cópia do acórdão proferido.
+Pleiteia, assim, a reconsideração do decisum, para que seja concedido ao paciente o direito de aguardar em liberdade o julgamento do processo, sendo-lhe aplicadas medidas cautelares diversas, expedindo-se o alvará de soltura.
+É o relatório.
+Decido.
+De fato, o peticionante juntou cópia de acórdão proferido pelo Tribunal de origem (e-STJ, fls. 168-172), porém se refere a outro habeas corpusanteriormente pela defesa do requerente.
+Ao contrário do que pretende fazer crer o peticionante, o acórdão anexado foi proferido nos autos do HC n. 1.0000.20.503881-3/000, que inclusive já foi questionado perante este Superior Tribunal no HC 626.700/MG, que não foi conhecido.
+Desta feita, nada de novo foi trazido pelo requerente, já que em relação ao HC n. 1.0000.21.119974-0/000, impugnado neste writ,permanece apenas a decisão do Desembargador Relator que indeferiu a concessão da medida liminar pleiteada.
+Conforme constou no teor da decisão de fls. 161-163 (e-STJ), esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+No caso dos autos, a concessão da medida liminar foi indeferida com amparo nos seguintes fundamentos:
+"Ainda que assim não fosse, registro que, ao que tudo indica, as alegações relacionadas à prisão preventiva do paciente formuladas nesta Ação Constitucional, já restaram amplamente decididas nos Habeas Corpus nº 1.0000.20.019705-1/000 e 1.0000.20.503881-3/000, em que figurei como Relator, tendo a ordem de habeas corpus sido denegada à unanimidade e denegada por maioria, respectivamente, razão pela qual, entendo, ao menos nesse instante, que a nova insurgência manifestada no presente Habeas Corpus, se torna mera reiteração, inviabilizando a reanálise, diante da ausência de fato inédito.
+E mais, como este egrégio Tribunal determinou a expedição do respectivo mandado de prisão em desfavor do paciente, quando do julgamento do HC 1.0000.20.503881-3/000, figura dessa forma como Autoridade Coatora, devendo decisões proferidas por este Tribunal ser revista por Corte Superior.
+Por fim, quanto a recusa do Juízo em realizar o interrogatório do agente, não obstante as razões inseridas na peça de ingresso, a meu pensar, neste primeiro momento, se mostra imperiosa a oitiva da douta Autoridade apontada como Coatora, ou seja, o d. Juízo da Comarca de Nova Lima/MG, a fim de melhor compreender os motivos que ensejaram a impetração deste instrumento, e averiguação das particularidades da alegada ilegalidade."(e-STJ, fl. 40)
+Não se verifica, de plano, a ocorrência de flagrante ilegalidade apta a justificar o processamento desde writ e o pronunciamento desta Corte.
+Ante o exposto, o indefiroo pedido de reconsideração.
+Publique-se. Intimem-se.
