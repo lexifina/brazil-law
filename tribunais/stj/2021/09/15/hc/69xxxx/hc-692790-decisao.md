@@ -1,0 +1,13 @@
+DECISÃO
+KEVIN WILLIAM THEODORO RITA alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo, que julgou improcedente a Revisão Criminal n.0050454-23.2019.8.26.0000.
+Consta dos autos que o paciente foi condenado - em decisão já transitada em julgado - à pena de 4 anos, 10 meses e 10 dias de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput e § 4º,da Lei n. 11.343/2006.
+A defesa pleiteia, por meio deste writ, seja fixado ao réu o regime inicial semiaberto de cumprimento de pena.
+Decido.
+O Tribunal de origem, ao dar provimento à apelação interposta pelo Ministério Público, assim fundamentou a imposição do regime inicial fechado de cumprimento de pena, in verbis (fl. 72):
+Todavia, merece acolhimento o apelo ministerial para a fixação do regime inicial fechado, de acordo com a Lei nº 11.464/07, pois é o mais adequado à hipótese em foco para a reprovação e prevenção do delito, equiparado aos hediondos, anotando-se que regime mais brando geraria sentimento de impunidade.
+Conforme visto, o Tribunal de origemfundamentoua imposição do modoinicial mais gravoso, com base, tão somente,no disposto no art. 2º, § 1º, da Lei n. 8.072/1990 - cuja inconstitucionalidade, aliás, já foi declarada pelo Plenário do Supremo Tribunal Federal há mais de 9 anos anos (HC n. 111.840/ES, julgamento ocorrido em 27/6/2012) -, sem, no entanto, apontar elementos concretos dos autos que, efetivamente, evidenciassem a imprescindibilidade de fixação do regime fechado.
+Assim, uma vez que o paciente foi condenado a pena superior a 4 e inferior a 8 anos de reclusão, era tecnicamente primário ao tempo do delito, possuidor de bons antecedentes,teve a reprimenda-base estabelecida no mínimo legal (fl. 72) e não foi apreendido com quantidade excessivamente elevada de drogas (4 gramas de crack, peso bruto), mostra-se devida a imposição do regime inicial semiaberto, nos termos do art. 33, § 2º, "b", e § 3º, do CP, com observância também ao disposto no art. 42 da Lei n. 11.343/2006.
+Ademais, ressalto que o próprio Juiz sentenciante, que teve contato com as provas dos autos de maneira mais direta, também considerou devida a fixação do regime inicial intermediário, "tendo em vista a quantidade de pena e a primariedade do agente" (fl. 55).
+À vista do exposto, com fundamento no art. 34, XX, do RIST, concedo a ordem, in limine, para fixar ao paciente o regime inicial semiaberto de cumprimento de pena, nos autos da condenação objeto do Processo n.0001771-02.2016.8.26.0083.
+Comunique-se, com urgência, o inteiro teor desta decisão às instâncias ordinárias, para as providências cabíveis.
+Publique-se e intimem-se.
