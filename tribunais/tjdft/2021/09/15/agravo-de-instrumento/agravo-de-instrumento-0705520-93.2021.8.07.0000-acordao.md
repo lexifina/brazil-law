@@ -1,0 +1,212 @@
+Poder Judiciário da UniãoTRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS
+
+Órgão
+
+6ª Turma Cível
+
+Processo N.
+AGRAVO DE INSTRUMENTO 0705520-93.2021.8.07.0000
+
+AGRAVANTE(S)
+DISTRITO FEDERAL
+
+AGRAVADO(S)
+EDUARDO CLEMENTE CHAVES DE ALMEIDA e VANIA PEREIRA DA SILVA
+
+Relatora
+Desembargadora VERA ANDRIGHI
+
+Acórdão Nº
+1372806
+
+EMENTA
+
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ARQUIVAMENTO PROVISÓRIO. PROVIMENTOS NºS 13/2020, 47/2020 E 54/2021. VALOR ATUALIZADO DA CAUSA. CITAÇÃO. NECESSIDADE. SUSPENSÃO DO PROCESSO. PRESCRIÇÃO INTERCORRENTE. TERMO INICIAL.
+
+I – O arquivamento provisório das execuções fiscais sem a baixa na distribuição, nos termos do art. 1º do Provimento nº 13/2012 c/c art. 2º do Provimento nº 47/2020 c/c art. 2º do Provimento nº 54/2021, da Corregedoria deste TJDFT exige que seja considerado o valor atualizado da execução fiscal, bem como a prévia citação do executado, requisito de validade do processo, art. 239 do CPC.
+
+II – O prazo de suspensão do processo para fins de reconhecimento da prescrição prevista no art. 40 da Lei 6.830/80 tem início na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, REsp 1.340.553/RS, julgado sob a sistemática de recursos repetitivos, e Súmula 314 do e. STJ.
+
+III – Agravo de instrumento provido.
+
+ACÓRDÃO
+
+Acordam os Senhores Desembargadores do(a) 6ª Turma Cível do Tribunal de Justiça do Distrito Federal e dos Territórios, VERA ANDRIGHI - Relatora, ESDRAS NEVES - 1º Vogal e ALFEU MACHADO - 2º Vogal, sob a Presidência do Senhor Desembargador ESDRAS NEVES, em proferir a seguinte decisão: CONHECIDO. PROVIDO. UNÂNIME., de acordo com a ata do julgamento e notas taquigráficas.
+
+Brasília (DF), 23 de Setembro de 2021
+
+Desembargadora VERA ANDRIGHIRelatora
+
+RELATÓRIO
+
+DISTRITO FEDERAL interpôs agravo de instrumento da r. decisão (id. 81957756, autos originários) proferida na execução fiscal proposta contra VÂNIA PEREIRA DA SILVA e EDUARDO CLEMENTE CHAVES DE ALMEIDA, que determinou o arquivamento provisório dos autos, in verbis:
+
+“Trata-se de execução fiscal ajuizada pela Fazenda Pública do Distrito Federal.
+
+É o breve relato. DECIDO.
+
+O art. 1º do Provimento 13/2012 c/c o art. 2º do Provimento 47/2020, da Corregedoria da Justiça do Distrito Federal e dos Territórios, determina o arquivamento das ações de execução fiscal cujo valor da causa seja igual ou inferior a 7.454,85 (sete mil quatrocentos e cinquenta e quatro reais e oitenta e cinco centavos), sem baixa na Distribuição.
+
+Considerando que o valor da causa atribuído ao presente executivo fiscal observa o limite acima mencionado, não havendo constrição patrimonial  e/ou exceção de pré-executividade pendentes de análise, indefiro, por ora, eventuais requerimentos das partes e determino o arquivamento provisório do processo.
+
+Advirta-se que o § 1º do art. 1º do Provimento 13/2012 prevê o restabelecimento da execução quando solicitado pelas partes.
+
+Embora o provimento nada diga a respeito da prescrição, é consabido que o art. 40, § 4º, da LEF, dispõe que, decorrido o prazo prescricional da decisão que ordenar o arquivamento, poderá o juiz reconhecer a prescrição intercorrente.
+
+Referida regra complementa o caput do art. 40, mas tem força normativa suficiente para ser aplicada em outros casos de arquivamento da execução fiscal, como o presente, em homenagem aos princípios constitucionais da duração razoável do processo e da segurança jurídica, de modo a impedir a eternização da demanda e a permanente sujeição do devedor à ação da Fazenda Pública, assim como ao princípio do resultado, disposto no art. 797 do CPC, donde se depreende a incompatibilidade da paralisação da execução com a sua realização em proveito do exequente.
+
+Essa é a razão de o § 1º do art. 1º do Provimento 13/2012 dever ser interpretado em conjunto com o § 4º do art. 40 da LEF, a fim de estabelecer a data desta decisão como termo inicial de contagem do prazo prescricional.
+
+Intime(m)-se.”
+
+O agravante-exequente defende que a r. decisão agravada viola o princípio da inafastabilidade de jurisdição, art. 5º, inc. XXXV, da CF, tendo em vista que impede que o Poder Público adote medidas para recuperação de seu crédito. Acrescenta que há interpretação equivocada do Provimento nº 13/2012 da Corregedoria deste e. TJDFT, pois se há o arquivamento do processo, sem que antes seja citado o executado, os débitos de valores inferiores ao patamar indicado no art. 2º não serão adimplidos, uma vez que o Distrito Federal não terá meios para cobrá-los judicialmente.
+
+Argumenta que a r. decisão agravada também ofende o princípio da oficialidade e o direito de solução integral do mérito, arts. 2º e 4º do CPC e “a prevalecer a decisão agravada, certamente o crédito tributário será atingido pela prescrição, seja na modalidade inicial, pois sequer foi determinada a citação do devedor, seja na modalidade intercorrente, conforme já adiantado na decisão que prevê a aplicação do art. 40, §4º da LEF” (id. 23509760, pág. 7).
+
+Sustenta que o arquivamento provisório da execução fiscal impede que a execução prossiga no interesse exclusivo do credor em busca da satisfação da dívida, art. 797 do CPC.
+
+Pondera que a determinação de que o prazo da prescrição intercorrente se inicia com o arquivamento dos autos, sem que fossem adotadas medidas para localizar o executado ou penhorar bens, afronta o art. 40 da Lei 6.830/80 e o julgamento repetitivo do e. STJ no REsp 1.340.553/RS (Temas 566 a 571), pois não está configurada qualquer inércia do credor.
+
+Afirma que a execução atualmente supera o valor de R$ 19.409,99, montante que ultrapassa o previsto no art. 2º do Provimento nº 47/2020.
+
+Salienta que a pretensão executória do Distrito Federal deve ser regularmente processada, com a citação do executado para pagamento do débito no prazo legal.
+
+Requer a antecipação da tutela recursal para determinar a imediata citação do executado e prosseguimento da execução fiscal. No mérito, pugna pelo provimento do recurso para reformar a r. decisão, confirmando-se a medida.
+
+Sem preparo, por isenção legal, art. 1.007, §1º, do CPC.
+
+A antecipação da tutela recursal foi indeferida (id. 23516358).
+
+Intimado (id. 24811682), o agravado-executado Eduardo Clemente Chaves de Almeida não apresentou resposta. A agravada-executada Vania Pereira da Silva não foi intimada por AR e por Oficial de Justiça no endereço fornecido pelo agravante-exequente (id. 26375954 e 28315139).
+
+É o relatório.
+
+VOTOS
+
+A Senhora Desembargadora VERA ANDRIGHI - Relatora
+
+Conheço do agravo de instrumento, porque presentes os pressupostos de admissibilidade.
+
+A controvérsia cinge-se a analisar a possibilidade de arquivar provisoriamente a execução fiscal cujo valor seja igual ou inferior a R$ 7.889,24, nos termos dos arts. 1º do Provimento nº 13/2012, 2º do Provimento nº 47/2020 e 2º do Provimento nº 54/2021, todos da Corregedoria da Justiça do Distrito Federal e dos Territórios, pelo valor atribuído à causa ao tempo do ajuizamento da execução fiscal, bem como antes de determinada a citação do executado. Eis o teor das referidas normas:
+
+“Art. 1º Determinar o arquivamento das ações de execução fiscal, em tramitação ou que vierem a ser ajuizadas, cujo valor seja igual ou inferior a R$ 5.000,00 (cinco mil reais), sem baixa no Cartório de Distribuição.
+
+§ 1º O arquivamento determinado não significa extinção do feito, nem implica reconhecimento judicial de quitação da dívida, devendo ser restabelecida a execução quando por solicitação da Fazenda Pública ou do devedor para prosseguimento do feito.
+
+§ 2.º O valor apontado no caput, em caso de mais de uma ação em relação ao mesmo devedor, deve ser o do débito consolidado por CPF/CNPJ. (Incluido pelo Provimento 55 de 05/05/2021)”
+
+“Art. 2º Fica autorizado, em cumprimento ao art. 2º do Provimento 13 de 9 de outubro de 2012, o arquivamento das ações de execução fiscal cujo valor da causa seja igual ou inferior a R$ 7.454,85 (sete mil quatrocentos e cinquenta e quatro reais e oitenta e cinco centavos), sem baixa na Distribuição.”
+
+“Art. 2º Fica atualizado, em cumprimento ao art. 2º do Provimento 13, de 2012, o valor relativo ao arquivamento das ações de execução fiscal, que passa a R$ 7.889,24 (sete mil, oitocentos e oitenta e nove reais e vinte e quatro centavos).”
+
+Da análise da demanda originária, conquanto o valor da causa ao tempo do ajuizamento da execução fiscal – R$ 6.414,18, em 03/08/10, referente a débito do Fundo para Geração de Emprego e Renda do Distrito Federal – FUNGER (id. 20414357, pág. 1, autos originários) – seja inferior ao estabelecido nos arts. 2º dos Provimentos TJDFT nºs 47/20 e 54/21, deve ser considerado o valor da causa atualizado da execução, o qual, segundo o sistema SITAF, é de R$ 19.409,99, em 08/02/21 (id. 23509762), tratando-se, pois, de montante superior ao estabelecido nas destacadas normas.
+
+Nesse sentido, é a jurisprudência deste e. TJDFT, in verbis:
+
+“AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ARQUIVAMENTO SEM BAIXA. VALOR ATUAL DA CAUSA. PROVIMENTO N. 13/2012 E PROVIMENTO N.47/2020 DO TJDFT. DECISÃO REFORMADA.
+
+1. Trata-se de agravo de instrumento contra r. decisão que, nos autos da execução fiscal, indeferiu eventuais requerimentos das partes e determinou o arquivamento provisório do processo.
+
+2. O art. 1º do Provimento 13/2012 c/c o art. 2º do Provimento 47/2020, da Corregedoria da Justiça do Distrito Federal e dos Territórios, determina o arquivamento das ações de execução fiscal, cujo valor da causa seja igual ou inferior a R$7.454,85; sem baixa na Distribuição.
+
+3. No caso, é indevido o arquivamento determinado pela decisão agravada, pois o valor atualizado do débito é de R$ R$12.779,09; montante superior ao limite estabelecido art. 1º do Provimento 13/2012 c/c o art. 2º do Provimento 47/2020.
+
+4. Agravo conhecido e provido.” (Acórdão 1361266, 07521184220208070000, Relator: CESAR LOYOLA, 2ª Turma Cível, data de julgamento: 4/8/2021, publicado no DJE: 17/8/2021. Pág.: Sem Página Cadastrada, grifo nosso)
+
+“AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. TRIBUTÁRIO. EXECUÇÃO FISCAL. PROVIMENTO 47/2020 DO TJDFT. VALOR DA CAUSA. ATUALIZADO. SUPERIOR. ARQUIVAMENTO. IMPOSSIBILIDADE.
+
+1. Nos termos do art. 1º do Provimento 13/2012 c/c o art. 2º do Provimento 47/2020, ambos do Tribunal de Justiça do Distrito Federal e dos Territórios, a execução fiscal, cujo valor da causa seja igual ou inferior a R$ 7.454,85 (sete mil quatrocentos e cinquenta e quatro reais e oitenta e cinco centavos), será arquivada sem baixa na distribuição.
+
+2. Para fins de arquivamento da execução fiscal deve ser considerado o valor atualizado da causa e não aquele dado à época do ajuizamento da demanda. Precedentes TJDFT.
+
+3. Recurso conhecido e provido.” (Acórdão 1356241, 07032300820218070000, Relator: MARIA DE LOURDES ABREU, 3ª Turma Cível, data de julgamento: 14/7/2021, publicado no DJE: 28/7/2021. Pág.: Sem Página Cadastrada, grifo nosso)
+
+“AGRAVO DE INSTRUMENTO. DIREITO PROCESSUAL CIVIL. EXECUÇÃO FISCAL. ARQUIVAMENTO PROVISÓRIO. VALOR DA CAUSA INFERIOR AO PREVISTO NO PROVIMENTO Nº 47 DE 22/01/2020. ATUALIZAÇÃO MONETÁRIA DA DÍVIDA. QUANTIA QUE ULTRAPASSA O LIMITE ESTABELECIDO NA LEGISLAÇÃO. REQUERIMENTO FAZENDÁRIO PELO PROSSEGUIMENTO DA EXECUÇÃO. ARQUIVAMENTO AFASTADO. DECISÃO REFORMADA.
+
+1. Com vistas a dar cumprimento ao preceito constitucional da celeridade processual e ao princípio da eficiência, foi editado o Provimento 13, de 9 de outubro de 2012, cujo artigo 1º determina o arquivamento provisório das execuções fiscais em tramitação ou que vierem a ser ajuizadas cujo valor seja igual ou inferior a R$ 5.000,00 (cinco mil reais), sem baixa no Cartório de Distribuição. Por força do Provimento 47, de 22 de janeiro de 2020, tal valor restou atualizado para R$ 7.454,85 (sete mil quatrocentos e cinquenta e quatro reais e oitenta e cinco centavos).
+
+2. Independentemente de ter sido atribuído originalmente à causa valor inferior ao estabelecido pelo Provimento 13, atualizado pelo Provimento 47, se o valor contemporâneo da dívida ultrapassa tal limite, o mero requerimento da Fazenda Pública pelo prosseguimento da execução afasta o arquivamento do feito, conforme dispõe o §1º do artigo 1º do Provimento 13.
+
+3. Agravo de instrumento conhecido e provido.” (Acórdão 1350657, 07062804220218070000, Relator: SIMONE LUCINDO, 1ª Turma Cível, data de julgamento: 23/6/2021, publicado no DJE: 6/7/2021. Pág.: Sem Página Cadastrada, grifo nosso)
+
+Dessa forma, a r. decisão deve ser reformada, pois o valor atualizado da execução ultrapassa o montante previsto no Provimento nº 54/21 da Corregedoria.
+
+Acresça-se, ademais, que deve ser primeiramente perfectibilizada a relação processual com a respectiva citação dos executados antes da determinação de arquivamento da execução fiscal.
+
+Observe-se que a citação é ato judicial indispensável à validade do processo, art. 239 do CPC, de forma que o arquivamento das execuções fiscais cujo valor seja igual ou inferior a R$ 7.889,24, sem baixa na distribuição, deve ser precedida da citação válida do executado.
+
+Na hipótese, inexistiu na demanda originária sequer o despacho de citação dos executados, de modo a interromper a prescrição, nos termos do art. 174, inc. I, do CTN, em evidente prejuízo à Fazenda Pública do Distrito Federal.
+
+Além disso, para configuração da prescrição intercorrente, o art. 40, caput e §4º, da LEF dispõe ser necessário não localizar o devedor ou não encontrar bens passíveis de penhora.
+
+Embora a r. decisão agravada tenha interpretado de forma conjunta os Provimentos nºs 13/2012 e 47/2020 da Corregedoria deste Tribunal com o art. 40, §4º, da LEF, para estabelecer a data da r. decisão como termo inicial de contagem do prazo prescricional, o e. STJ fixou, no julgamento repetitivo do REsp 1.340.553/RS, bem como assentou na Súmula 314, que o prazo de suspensão do processo para fins de reconhecimento da prescrição prevista no art. 40, §§ 1º e 2º, da Lei 6.830/80 tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido.
+
+Confira-se:
+
+“Súmula 314: Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente.”
+
+“RECURSO ESPECIAL REPETITIVO. ARTS. 1.036 E SEGUINTES DO CPC/2015 (ART. 543-C, DO CPC/1973). PROCESSUAL CIVIL. TRIBUTÁRIO. SISTEMÁTICA PARA A CONTAGEM DA PRESCRIÇÃO INTERCORRENTE (PRESCRIÇÃO APÓS A PROPOSITURA DA AÇÃO) PREVISTA NO ART. 40 E PARÁGRAFOS DA LEI DE EXECUÇÃO FISCAL (LEI N. 6.830/80).
+
+1. O espírito do art. 40, da Lei n. 6.830/80 é o de que nenhuma execução fiscal já ajuizada poderá permanecer eternamente nos escaninhos do Poder Judiciário ou da Procuradoria Fazendária encarregada da execução das respectivas dívidas fiscais.
+
+2. Não havendo a citação de qualquer devedor por qualquer meio válido e/ou não sendo encontrados bens sobre os quais possa recair a penhora (o que permitiria o fim da inércia processual), inicia-se automaticamente o procedimento previsto no art. 40 da Lei n. 6.830/80, e respectivo prazo, ao fim do qual restará prescrito o crédito fiscal. Esse o teor da Súmula n. 314/STJ: "Em execução fiscal, não localizados bens penhoráveis, suspende-se o processo por um ano, findo o qual se inicia o prazo da prescrição quinquenal intercorrente".
+
+3. Nem o Juiz e nem a Procuradoria da Fazenda Pública são os senhores do termo inicial do prazo de 1 (um) ano de suspensão previsto no caput, do art. 40, da LEF, somente a lei o é (ordena o art. 40: "[...] o juiz suspenderá [...]"). Não cabe ao Juiz ou à Procuradoria a escolha do melhor momento para o seu início. No primeiro momento em que constatada a não localização do devedor e/ou ausência de bens pelo oficial de justiça e intimada a Fazenda Pública, inicia-se automaticamente o prazo de suspensão, na forma do art. 40, caput, da LEF. Indiferente aqui, portanto, o fato de existir petição da Fazenda Pública requerendo a suspensão do feito por 30, 60, 90 ou 120 dias a fim de realizar diligências, sem pedir a suspensão do feito pelo art. 40, da LEF. Esses pedidos não encontram amparo fora do art. 40 da LEF que limita a suspensão a 1 (um) ano. Também indiferente o fato de que o Juiz, ao intimar a Fazenda Pública, não tenha expressamente feito menção à suspensão do art. 40, da LEF. O que importa para a aplicação da lei é que a Fazenda Pública tenha tomado ciência da inexistência de bens penhoráveis no endereço fornecido e/ou da não localização do devedor. Isso é o suficiente para inaugurar o prazo, ex lege.
+
+4. Teses julgadas para efeito dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973): 4.1.) O prazo de 1 (um) ano de suspensão do processo e do respectivo prazo prescricional previsto no art. 40, §§ 1º e 2º da Lei n. 6.830/80 - LEF tem início automaticamente na data da ciência da Fazenda Pública a respeito da não localização do devedor ou da inexistência de bens penhoráveis no endereço fornecido, havendo, sem prejuízo dessa contagem automática, o dever de o magistrado declarar ter ocorrido a suspensão da execução; 4.1.1.) Sem prejuízo do disposto no item 4.1., nos casos de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido antes da vigência da Lei Complementar n. 118/2005), depois da citação válida, ainda que editalícia, logo após a primeira tentativa infrutífera de localização de bens penhoráveis, o Juiz declarará suspensa a execução.
+
+4.1.2.) Sem prejuízo do disposto no item 4.1., em se tratando de execução fiscal para cobrança de dívida ativa de natureza tributária (cujo despacho ordenador da citação tenha sido proferido na vigência da Lei Complementar n. 118/2005) e de qualquer dívida ativa de natureza não tributária, logo após a primeira tentativa frustrada de citação do devedor ou de localização de bens penhoráveis, o Juiz declarará suspensa a execução.
+
+4.2.) Havendo ou não petição da Fazenda Pública e havendo ou não pronunciamento judicial nesse sentido, findo o prazo de 1 (um) ano de suspensão inicia-se automaticamente o prazo prescricional aplicável (de acordo com a natureza do crédito exequendo) durante o qual o processo deveria estar arquivado sem baixa na distribuição, na forma do art. 40, §§ 2º, 3º e 4º da Lei n. 6.830/80 - LEF, findo o  qual o Juiz, depois de ouvida a Fazenda Pública, poderá, de ofício, reconhecer a prescrição intercorrente e decretá-la de imediato; 4.3.) A efetiva constrição patrimonial e a efetiva citação (ainda que por edital) são aptas a interromper o curso da prescrição intercorrente, não bastando para tal o mero peticionamento em juízo, requerendo, v.g., a feitura da penhora sobre ativos financeiros ou sobre outros bens. Os requerimentos feitos pelo exequente, dentro da soma do prazo máximo de 1 (um) ano de suspensão mais o prazo de prescrição aplicável (de acordo com a natureza do crédito exequendo) deverão ser processados, ainda que para além da soma desses dois prazos, pois, citados (ainda que por edital) os devedores e penhorados os bens, a qualquer tempo - mesmo depois de escoados os referidos prazos -, considera-se interrompida a prescrição intercorrente, retroativamente, na data do protocolo da petição que requereu a providência frutífera.
+
+4.4.) A Fazenda Pública, em sua primeira oportunidade de falar nos autos (art. 245 do CPC/73, correspondente ao art. 278 do CPC/2015), ao alegar nulidade pela falta de qualquer intimação dentro do procedimento do art. 40 da LEF, deverá demonstrar o prejuízo que sofreu (exceto a falta da intimação que constitui o termo inicial - 4.1., onde o prejuízo é presumido), por exemplo, deverá demonstrar a ocorrência de qualquer causa interruptiva ou suspensiva da prescrição.
+
+4.5.) O magistrado, ao reconhecer a prescrição intercorrente, deverá fundamentar o ato judicial por meio da delimitação dos marcos legais que foram aplicados na contagem do respectivo prazo, inclusive quanto ao período em que a execução ficou suspensa.
+
+5. Recurso especial não provido. Acórdão submetido ao regime dos arts. 1.036 e seguintes do CPC/2015 (art. 543-C, do CPC/1973).” (REsp 1340553/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 12/09/2018, DJe 16/10/2018)
+
+Portanto, a citação é pressuposto de validade do processo, indevido o arquivamento provisório da execução originária, também porque a prescrição intercorrente se inicia com a não localização do devedor ou com a ausência de bens penhoráveis.
+
+Nesse sentido, a jurisprudência deste e. TJDFT, in verbis:
+
+“AGRAVO DE INSTRUMENTO. PROCESSO CIVIL. EXECUÇÃO FISCAL. ARQUIVAMENTO. PROVIMENTO Nº 13/2012 E Nº 47/2020. VALOR DA CAUSA. PROSSEGUIMENTO DA EXECUÇÃO. CABÍVEL. INÍCIO DA PRESCRIÇÃO INTERCORRENTE. REQUISITOS LEGAIS. NÃO CONFIGURADOS.
+
+1. Nos termos do art. 1º do Provimento nº 13/2012 c/c o art. 2º do Provimento nº 40/2020, da Corregedoria da Justiça do Distrito Federal e dos Territórios, admite-se o arquivamento das ações de execução fiscal cujo valor da causa seja igual ou inferior a R$ 7.454,85, sem baixa na Distribuição.
+
+2. Podendo o valor consolidado e atualizado da causa superar o limite estabelecido pelos Provimentos nº 13/2012 e c/c nº 47/2020 da Corregedoria deste Tribunal, bem como não havendo tentativa de citação ou penhora de bens, mostra-se cabível o prosseguimento da execução fiscal.
+
+3. Deu-se provimento ao agravo de instrumento.” (Acórdão 1353303, 07055312520218070000, Relator: ARQUIBALDO CARNEIRO PORTELA, 6ª Turma Cível, data de julgamento: 30/6/2021, publicado no DJE: 19/7/2021. Pág.: Sem Página Cadastrada, grifo nosso)
+
+“AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. PROVIMENTO CORREGEDORIA. ARQUIVAMENTO PROVISÓRIO. VALOR ATUALIZADO. SUPERIOR AO PARÂMETRO. AUSÊNCIA DE CITAÇÃO. REGULAR PROSSEGUIMENTO DO FEITO.
+
+1. O Provimento 13/2012 da Corregedoria de Justiça do Distrito Federal dispõe sobre o arquivamento sem baixa na Distribuição das execuções fiscais com valores inferiores a R$5.000,00 (cinco mil reais, tendo o Provimento 47/2020, em seu art. 2º, atualizado o valor em questão para a ordem de R$7.454,85 (sete mil quatrocentos e cinquenta e quatro reais e oitenta e cinco centavos).
+
+2. Para fins de aplicação do disposto nos Provimentos 13/2012 e 47/2020, deve ser considerado o valor atualizado da execução fiscal, de modo que se revela incabível a determinação de arquivamento provisório do feito quando verificado que o valor exequendo supera o valor estabelecido como parâmetro para arquivamento.
+
+3. Revela-se incabível a suspensão e arquivamento provisório da execução fiscal sem que tenha havido a citação válida da parte executada, requisito essencial para validade do feito e aperfeiçoamento da relação jurídica, de modo a oportunizar, inclusive, o adimplemento do débito.
+
+4. Agravo de instrumento conhecido e provido.” (Acórdão 1347996, 07062709520218070000, Relator: ANA CANTARINO, 5ª Turma Cível, data de julgamento: 16/6/2021, publicado no DJE: 25/6/2021. Pág.: Sem Página Cadastrada, grifo nosso)
+
+“PROCESSUAL CIVIL. AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. ARQUIVAMENTO PROVISÓRIO ANTES DA CITAÇÃO. IMPOSSIBILIDADE. PRESSUPOSTO DE VALIDADE DO PROCESSO. DECISÃO REFORMADA.
+
+1. Trata-se de agravo de instrumento contra decisão que indeferiu eventuais requerimentos das partes e determinou o arquivamento provisório dos autos, nos termos do art. 1º do Provimento 13/2012 c/c o art. 2º do Provimento 47/2020, da Corregedoria da Justiça do Distrito Federal e dos Territórios.
+
+2. O valor da causa para fins de arquivamento provisório equivale ao montante atualizado da dívida ativa, de modo que a efetiva quantia perseguida pela Fazenda Pública guarde equivalência com a importância atualizada no mesmo exercício para fins de suspensão.
+
+3. É incabível o arquivamento da execução fiscal antes da citação válida, porquanto esta constitui requisito indispensável ao aperfeiçoamento da relação processual (art. 239 do CPC), até para que seja oportunizado o pagamento voluntário do débito.
+
+4. No caso, conquanto o valor atualizado da causa seja inferior àquele definido na norma de regência, eventual arquivamento da ação deve ser precedido da respectiva citação.
+
+5. Agravo de instrumento conhecido e provido.” (Acórdão 1343601, 07051779720218070000, Relator: SANDOVAL OLIVEIRA, 2ª Turma Cível, data de julgamento: 26/5/2021, publicado no DJE: 9/6/2021. Pág.: Sem Página Cadastrada, grifo nosso)
+
+Isso posto, conheço do agravo de instrumento do exequente e dou provimento para reformar a r. decisão e determinar o regular prosseguimento da execução fiscal.
+
+É o voto.
+
+O Senhor Desembargador ESDRAS NEVES - 1º Vogal Com o relator
+
+O Senhor Desembargador ALFEU MACHADO - 2º Vogal Com o relator
+
+DECISÃO
+
+CONHECIDO. PROVIDO. UNÂNIME.
