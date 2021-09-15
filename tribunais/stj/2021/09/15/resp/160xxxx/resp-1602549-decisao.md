@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de decisão proferida pelo Tribunal Regional Federal da 5ª Regiãoassim ementada (e-STJ fl. 353):
+ADMINISTRATIVO. MILITAR TEMPORÁRIO. ANULAÇÃO DE ATO DE LICENCIAMENTO. INCABIMENTO. DIREITO A TRATAMENTO MÉDICO PARA A PATOLOGIA DENOMINADA DE "TRANSTORNO DEPRESSIVO" ATÉ O TOTAL RESTABELECIMENTO. DANOS MORAIS. INCABIMENTO.
+Alega a parte recorrente violação aos arts. 106, II e 108, IV da Lei n. 6.880/1980 e dissídio jurisprudencial.
+Contrarrazões (e-STJ fls. 390/401).
+Passo a decidir.
+Adianto que o recurso especial não merece conhecimento.
+De início, porque os arts. 106, II e 108, IV da Lei n. 6.880/1980 não foram prequestionados na origem, pelo que aplicável a súmula 211 desta Corte.
+Além disso, o recurso especial não infirmou concretamente os fundamentos explorados no acórdão recorrido, atraindo a incidência das súmulas 283 e 284 do STF, por analogia.
+O acórdão regional expressamente registrou que:
+A priori, ao militar temporário, expirado o prazo dá prestação do serviço, não assiste o direito à permanência nos quadros das Forças Armadas, por não estar sob o abrigo dá estabilidade assegurada aos militares de carreira. Esse ato opera-se por força de lei, sem necessidade, de motivação da decisão administrativa. (e-STJ fl. 348)
+A parte recorrente limitou-se a alegar que estaria definitivamente incapacitado para o serviço militar e em razão de moléstia relacionada a este, pelo que faria jus à reintegração.
+Em nenhum momento enfrentou o fundamento de que, independente da natureza da incapacidade, sendo o militar temporário, não faria jus à permanência nos quadros da caserna.
+Por sua vez, a eventual a apreciação de recurso especial fundado em divergência jurisprudencial (alínea "c" do permissivo constitucional) mostra-se inviável quando o recorrente não demonstra o alegado dissídio por meio: a) da juntada de certidão ou de cópia autenticada do acórdão paradigma, ou, em sua falta, da declaração pelo advogado da autenticidade dessas; b) da citação de repositório oficial, autorizado ou credenciado, em que o acórdão divergente foi publicado; e c) do cotejo analítico, com a transcrição dos trechos dos acórdãos em que se funda a divergência, com a exposição das circunstâncias que identificam ou assemelham os casos confrontados, não bastando, para tanto, a transcrição das ementas dos julgados em comparação. Nesse sentido: AgRg no REsp 1.558.877/PR, rel. Ministro Herman Benjamin, Segunda Turma, DJe 05/02/2016; AgRg no AREsp 752.892/RS, rel. Ministro Benedito Gonçalves, Primeira Turma, DJe 04/11/2015.
+No presente caso, a parte recorrente deixou de realizar o cotejo analítico, na medida em que se limitou a mencionar julgados tido como paradigmas em sentido contrário ao do acórdão recorrido, sem especificar as nuances que envolveriam o caso concreto, não atendendo, portanto, aos pressupostos específicos necessários à configuração do dissenso jurisprudencial, preconizados pelos arts. 541, parágrafo único, do Código de Processo Civil, e 255, §§ 1º e 2º, do RISTJ.
+Além disso, ressalvado o meu entendimento pessoal, a jurisprudência desta Corte de Justiça é pacífica quanto à inadmissibilidade do recurso especial que, a despeito de fundamentar-se em dissídio jurisprudencial, deixa de apontar o dispositivo de lei federal ao qual o Tribunal de origem teria dado interpretação divergente daquela firmada por outros tribunais (AgRg no REsp. 1.346.588/DF, rel. Ministro ARNALDO ESTEVES LIMA, Corte Especial, DJe 17/03/2014).
+Na espécie, a parte recorrente não se desincumbiu de indicar o dispositivo de lei federal supostamente violado em razão do dissídio. Assim, em respeito à orientação firmada pela Corte Especial deste Tribunal, ajusta-se à hipótese a aplicação do contido na Súmula 284 do STF.
+Ante o exposto, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
