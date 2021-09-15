@@ -1,0 +1,8 @@
+DECISÃO
+Na PET 816103/2021 (e-STJ fls. 916/942),ESPÓLIO DE NILSON KEMPF e ILMA KEMPF informam que "a ação de Embargos à Execução/Retenção por Benfeitorias, foi objeto de julgamento por esse SUPERIOR TRIBUNAL DE JUSTIÇA, no RECURSO ESPECIAL nº 1782335/MT (RECURSO PROPOSTO POR VILMAR AUGUSTINI), que teve decisão confirmada pelo SUPREMO TRIBUNAL FEDERAL, no ARE 1318176 ED AGR/MT, que determinou a extinção do feito - Embargos á Execução/Retenção por Benfeitorias, acarretando assim, a perda do objeto dos respectivos recursos." (e-STJ fl. 917)
+Em consequência, requerem "a extinção do feito sem julgamento do mérito".
+Da análise dos autos, verifica-se que os agravantes, ora requeridos,ELSO VICENTE POZZOBON eMARLENE PIANO POZZOBON, de fato, insurgem-se no seu recurso especial contra acórdão assim ementado:
+AGRAVO DE INSTRUMENTO - EMBARGOS DE RETENÇÃO - BENFEITORIA - PEDIDO LIMINAR DE RETENÇÃO DO IMÓVEL ATÉ QUE SE INDENIZEM AS BENFEITORIAS EDIFICADAS - IMPOSSIBILIDADE - POSSE DE BOA-FÉ NÃO DEMONSTRADA - COMPENSAÇÃO PELO TEMPO DE USO - DECISÃO MANTIDA -RECURSO DESPROVIDO.
+Ausente a verossimilhança quanto a boa-fé no exercício da posse, considerando que os Agravantes adquiriram a área por meio de procuração falsa, reconhecida na Ação Declaratória Incidental, nesta quadra processual não se faz presente requisito necessário ao reconhecimento do direito de retenção por edificação de benfeitoria, seja ela útil ou necessária. (e-STJ fl. 503)
+Forte nessas razões, determino a INTIMAÇÃO dosrequeridospara que, no prazo de cinco dias úteis, se manifestem sobre o teor da petição protocolizada pelosrequerentes, sob pena de não conhecimento do agravo em recurso especial por sua prejudicialidade.
+Publique-se. Intime-se.
