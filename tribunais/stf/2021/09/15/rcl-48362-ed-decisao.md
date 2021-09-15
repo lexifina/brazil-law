@@ -1,0 +1,25 @@
+DECISÃO
+    Trata-se de embargos de declaração opostos contra decisão monocrática por mim proferida que julgou procedente, em parte, o pedido formulado nesta reclamação, para garantir à defesa do reclamante acesso aos autos da petição n. 13.440, em tramitação no Superior Tribunal de Justiça, salvo quando se referirem a diligência em curso, nos termos da orientação jurisprudencial firmada pelo Plenário no inquérito n. 3.983, relator o ministro Teori Zavascki, DJe de 12 de maio de 2016.
+    A parte embargante, com fundamento no art. 619 do CPP, aduz existir vício de contradição, alegando o que se segue:
+    Conforme relatado, ao julgar parcialmente procedente o pedido veiculado nesta reclamação, Vossa Excelência determinou, no dispositivo do decisum recorrido, que seja garantido “à defesa do reclamante acesso aos autos da petição n. 13.440, em tramitação no Superior Tribunal de Justiça, salvo quando se referirem a diligência em curso” (fl. 33).
+    Todavia, no corpo da fundamentação da decisão, o que se assentou foi a necessidade de se assegurar “acesso ao conteúdo do acordo de colaboração premiada, sobretudo às partes em que [se] é mencionado ou a partir das quais possa ser incriminado” (fl. 31).
+    Com efeito, o acesso aos autos da Petição nº 13.440 à defesa do reclamante deve ser conferido apenas sobre os elementos que lhe digam respeito, ressalvando-se, assim, não somente o conhecimento das diligências em curso, mas também dos dados referentes a terceiros.
+    Denota-se, portanto, assimetria entre os conteúdos da fundamentação e do dispositivo da decisão, a vindicar a colmatação do vício.
+    E suas contrarrazões, o embargado sustentou o que se segue:
+    Ademais, o entendimento exarado na decisão de Vossa excelência está em consonância com a jurisprudência do Supremo Tribunal Federal, a exemplo da Reclamação nº 21861/STF, relatoria do Ministro Marco Aurélio. Naquela assentada, teve-se a oportunidade de afirmar que viola a súmula vinculante nº 14/STF a utilização de colaboração premiada pela acusação sem que fosse acompanhada de cópia “dos depoimentos, gravações correspondentes, decisão de homologação judicial, referência sobre bens obtidos de forma ilícita e benefícios auferidos pelos envolvidos”. Naquele caso, o Reclamante teria postulado o acesso à integralidade dos elementos de informação produzidos nos procedimentos de delação premiada, sem êxito.
+    Na análise da Reclamação, o Ministro aduziu que: “Nada, absolutamente nada, respalda ocultar do envolvido – como é o caso do reclamante – os dados contidos em autos de inquérito, processo administrativo ou criminal, bem assim, até mesmo, de procedimento de delação premiada.” E concluiu: “impõe seja garantido ao defensor, no interesse do representado, o conhecimento amplo aos elementos de convicção documentados em procedimento investigatório, relacionados ao exercício do direito de defesa.”
+    Esse precedente se aplica integralmente ao caso concreto, devendo ser mantida em sua integralidade a decisão que, aplicando esta mesma ratio decidendi, garantiu o acesso da defesa de Eduardo Cunha à integralidade dos documentos relacionados à Delação de Lavouras, com a ressalva de que o acesso é para tanto aqueles documentos que fazem menção a Eduardo Cunha, como os que direta ou indiretamente possam incriminá-lo
+    Tal o contexto, entendo assistir razão ao recorrente.
+    Do exame das razões recursais apresentadas, constato a existência de evidente erro material passível de correção por embargos de declaração, nos termos da Jurisprudência desta Suprema Corte (ARE 1.066.231-AgR-ED/RJ, Ministro Edson Fachin; ARE 1.294.925-ED/SP, Ministro Presidente; ARE 1.297.370-ED/PR, Ministra Rosa Weber; RE 1.183.959-AgR-ED/DF, Ministro Roberto Barroso):
+    “EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NOS EMBAGOS DE DIVERGÊNCIA NO AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. EMBARGOS DE DECLARAÇÃO ACOLHIDOS.
+    I – Os embargos de declaração apenas são cabíveis, nos termos do art. 1.022 do CPC, quando no acórdão recorrido estiver presente omissão, contradição, obscuridade ou erro material.
+    II – Reconhecida a ocorrência de erro material na condenação em multa (art. 1.021, § 4°, do CPC).
+    III – Embargos de declaração acolhidos.”
+    (RE 1.201.568-AgR-EDv-AgR-ED/SP, Ministro Ricardo Lewandowski – com meus grifos)
+    Em face do exposto, acolho os embargos de declaração, apenas para corrigir o erro material contido na decisão embargada, com a devida substituição da parte dispositiva (item n. 3), fazendo constar o que se segue:
+    “3. Ante o quadro, julgo procedente, em parte, o pedido, apenas para garantir à defesa do reclamante acesso aos elementos que dizem respeito a Eduardo Consentino da Cunha nos autos da petição n. 13.440, em curso no Superior Tribunal de Justiça, salvo quando se referirem à diligência em curso, nos termos da orientação jurisprudencial firmada pelo Plenário no inquérito n. 3.983, relator o ministro Teori Zavascki, DJe de 12 de maio de 2016. “.
+    Mantenho, no mais, o teor da decisão embargada.
+    Intime-se. Publique-se. Arquive-se
+Brasília, 15 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
