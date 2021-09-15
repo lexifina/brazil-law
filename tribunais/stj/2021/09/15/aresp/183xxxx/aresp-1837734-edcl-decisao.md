@@ -1,0 +1,25 @@
+DECISÃO
+Tratam-se de Embargos de Declaração opostos por Mercado Villas Eirli, contra decisão singular por mim proferida, cuja ementa assim estabelece,in verbis:
+TRIBUTÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SUSPENSÃO DA EXIGIBILIDADE DO CRÉDITO TRIBUTÁRIO. REQUISITOS DO ART. 300 DO CPC. REVISÃO. IMPOSSIBILIDADE. SÚMULA N. 7/STJ. AGRAVO INTERNO CONHECIDO PARA, EM JUÍZO DE RETRATAÇÃO, CONHECER DO AGRAVO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Nas razões dos aclaratórios, o recorrente defende a inaplicabilidade da Súmula 735/STF, ao aduzir,in verbis:
+A omissão na r. decisão monocrática diz respeito ao fato de que diante da natureza da medida liminar pleiteada pelo embargante em sede de Mandado de Segurança é satisfativa, não acautelatória, eis que se buscou a suspensão dos efeitos do protesto de CDA dada a forma incorreta na realização do cálculo da dívida.
+Sob tal aspecto, o v. acórdão na origem concedeu parcialmente a liminar almejada pelo Agravante, determinando a suspensão dos efeitos do protesto, desde que condicionado ao depósito prévio em dinheiro do valor atinente à CDA recalculado pela SELIC (e-STJ 219).
+O embargante se insurge contra a determinação do Egrégio Tribunal de Origem em condicionar a suspensão dos efeitos do protesto à prestação de garantia em dinheiro, apontando a afronta aos artigos 151, V do Código Tributário Nacional, 7º, inciso III da Lei 12.016/2009 e para obter, de forma subsidiária a permissão de substituição da garantia em dinheiro por outra modalidade de garantia idônea na forma do artigo 15 da Lei 6.830/80 e artigo 9º, § 3º da Lei 13.014/2014.
+Portanto, dada a natureza satisfativa da medida liminar, não há o que se falar em óbice na Súmula 735 do STF.
+Adiante, o recorrente afirma ser inapropriado a aplicação da Súmula 7/STJ, nos autos do mandado de segurança, posto que não há dilação probatória a ser perquirida.
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório. Passo a decidir.
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo nº 3/STJ: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+A irresignação não merece acolhida.
+Os embargos declaratórios somente são cabíveis para modificar o julgado que se apresentar omisso, contraditório ou obscuro, bem como para sanar eventual erro material na decisão.
+Com efeito, o acórdão embargado contém fundamentação clara e suficiente para demonstrar que o Agravo em Recurso Especial esbarra em óbices de conhecimento, pois:a averigação dos requisitos para a concessão da tutela de urgência, qual seja, aexistência de periculum in mora e fumus boni iurisexige, necessariamente, o revolvimento do acervo fático-probatório dos autos, esbarrando no óbice da Súmula n. 7/STJ.
+Desse modo, a questão foi apreciada de modo adequado no acórdão embargado, e o mero inconformismo com a conclusão do julgado não enseja a utilização da via de embargos de declaração, que é limitada às hipóteses elencadas no art. 1.022 do CPC/2015.
+Assim, não havendo omissão, obscuridade, contradição ou erro material, merecem ser rejeitados os embargos de declaração opostos, sobretudo quando contêm elementos meramente impugnativos.
+A propósito:
+EMBARGOS DE DECLARAÇÃO NO AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EFEITOS INFRINGENTES. NÃO CABIMENTO. INEXISTÊNCIA DOS REQUISITOS DO ART. 1.022 E INCISOS DO CPC DE 2015. JULGADO EMBARGADO DEVIDAMENTE FUNDAMENTADO. AUSÊNCIA DE PREQUESTIONAMENTO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Depreende-se do artigo 1.022, e seus incisos, do novo Código de Processo Civil, que os embargos de declaração são cabíveis quando constar, na decisão recorrida, obscuridade, contradição, omissão em ponto sobre o qual deveria ter se pronunciado o julgador, ou até mesmo as condutas descritas no artigo 489, parágrafo 1º, que configurariam a carência de fundamentação válida. Não se prestam os aclaratórios ao simples reexame de questões já analisadas, com o intuito de dar efeito infringente ao recurso.
+2. No caso dos autos, nota-se que não ocorre nenhuma das hipóteses previstas no artigo 1.022, e seus incisos, do novo CPC, pois o acórdão embargado apreciou as teses relevantes para o deslinde do caso e fundamentou sua conclusão no sentido de que o devedor que promove o mero depósito judicial do quantum exequendo com finalidade de permitir a oposição de impugnação ao cumprimento de sentença, não se constitui em adimplemento voluntário da obrigação, autorizando a sanção prevista no art. 475-J do CPC de 1973. Assentou-se, ademais, que o comando normativo inserto no art. 543-C do CPC de 1973 não dá suporte à pretensão da embargante no que respeita à alegada sucumbência recíproca.
+3. Embargos de declaração rejeitados.(EDcl no AgRg no AREsp 750.635/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 05/05/2016, DJe 17/05/2016)
+Diante do exposto, rejeito os embargos de declaração.
+Publique-se.
+Intimem-se.
