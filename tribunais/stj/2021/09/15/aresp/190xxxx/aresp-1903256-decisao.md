@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por EMEC OBRAS E SERVIÇOS LTDA., com base no art. 105, III, a,da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 269):
+APELAÇÂO CÍVEL. REINTEGRAÇÃO NA POSSE. SENTENÇA DE PROCEDÊNCIA. APELO DA RÉ. Da análise dos autos, restou incontroverso que o demandante exercia posse anterior, pois o comodato do imóvel objeto da lide (fls. 59/62) exterioriza o exercício do poder fático sobre o bem, o que revela sua condição de possuidor, o que é corroborado por prova testemunhal. Dessa forma, demonstrada a posse anterior do autor e o esbulho praticado pelo réu na área em que este realizou a construção narrada na inicial, impositiva a manutenção da sentença que determinou a reintegração do autor na posse do imóvel. RECURSO NÃO PROVIDO.
+Os embargos de declaração opostos foram rejeitados (e-STJ, fls. 301-306).
+No recurso especial (e-STJ, fls. 414-432), a recorrente alegouviolação aos arts.1.022, parágrafo único, II, do Código de Processo Civil de 2015; e186 do Código Civil.
+Sustentou, em síntese, que houve negativa de prestação jurisdicional, deixando o Tribunal local de enfrentar os questionamentos deduzidos nos embargos de declaração, notadamentesobre a indicação exata da prova que demonstraria a ilicitude, tendo em vista que ocupou aárea objeto de discussãoa mando do Município de Campos dos Goytacazes/RJ; esobre acondenação de honorários, porquantonão praticou (por decisão própria) a suposta invasão.
+Argumentou que já havia desocupado a área em razão de conclusão das obras da Prefeitura no momento da propositura da ação e do proferimento da sentença.
+O Tribunal de origem deixou de admitir o recurso especial (e-STJ, 302-307), tendo sido interposto agravo em recurso especial às fls. 310-316 (e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Constata-se, outrossim, que a alegada ofensa ao art. 1.022 do CPC/2015 não se sustenta, uma vez que o Tribunal de origem examinou, de forma fundamentada, todas as questões submetidas à apreciação judicial na medida necessária para o deslinde da controvérsia, inclusive no tocante à fixação de honorários advocatícios, afirmando, por ocasião do julgamento dos embargos de declaração que "não há como afastar a condenação em honorários, como pretende a apelante, pois se trata de procedência total dos pedidos autorais" (e-STJ, fl. 306).
+Portanto, ainda que o acórdão estadual tenha decidido em sentido contrário à pretensão da recorrente, não há falar em negativa de prestação jurisdicional.
+Ademais,esta Corte já se manifestou no sentido de que "a fundamentação sucinta, mas suficiente, não pode ser confundida com ausência de motivação" (AgInt no AgInt no AREsp 1.647.183/GO, Rel. Ministro Moura Ribeiro, Terceira Turma, julgado em 26/04/2021, DJe 28/04/2021).
+O Tribunal de origem, ao analisar a situação jurídica, manteve asentença que determinou a reintegração do autor, ora agravado,na posse do imóvel, aduzindo os seguintes fundamentos (e-STJ, fl. 272):
+Da análise dos autos, restou incontroverso que o demandante exercia posse anterior, pois o comodato do imóvel objeto da lide (fls. 59/62) exterioriza o exercício do poder fático sobre o bem, o que revela sua condição de possuidor, o que é corroborado pelo depoimento de José Scafura Mesquita feito em AIJ.
+Dessa forma, demonstrada a posse anterior do autor e o esbulho praticado pelo réu na área em que este realizou a construção narrada na inicial, impositiva a manutenção da sentença que determinou a reintegração do autor na posse do imóvel.
+Dessa forma, tendo o acórdão concluído pela caracterização do esbulho possessório praticado pela ora agravante, não há como acolher a pretensão recursal nos termos vertidos sem proceder ao revolvimento da conjuntura fática delineada, o que é inviável em recurso especial, nos termos da Súmula 7/STJ.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL (CPC/15). AÇÃO DE REINTEGRAÇÃO DE POSSE.POSSE ANTERIOR COMPROVADA. REVISÃO DE MATÉRIA FÁTICO-PROBATÓRIA.IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 07/STJ. DECISÃO EXTRA PETITA.AUSÊNCIA DE DISPOSITIVO DE LEI FEDERAL. DEFICIÊNCIA. MANUTENÇÃO DA DECISÃO AGRAVADA.AGRAVO INTERNO DESPROVIDO.
+(AgInt nos EDcl no AREsp 1.516.142/PR, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 20/04/2020, DJe 24/04/2020).
+PROCESSUAL CIVIL. AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. POSSE.CONFIGURAÇÃO DE ESBULHO POSSESSÓRIO. NECESSIDADE DE REEXAME DE PROVAS. SÚMULA N. 7/STJ.
+1. Recurso especial cuja pretensão demanda reexame de matéria fática da lide, o que encontra óbice na Súmula 7 do STJ.
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.182.325/RJ, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 19/06/2018, DJe 01/08/2018).
+Ante o exposto, conheço do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários recursais em favor dos advogados da parte recorrida em2% sobre o valor atualizado da causa
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REINTEGRAÇÃO DE POSSE. EXERCÍCIO DE POSSE ANTERIOR. CARACTERIZAÇÃO DE ESBULHO. REVISÃO DAS CONCLUSÕES ESTADUAIS. IMPOSSIBILIDADE. REEXAME DE FATOS E PROVA. SÚMULA 7/STJ. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA EXTENSÃO, NEGAR-LHE PROVIMENTO
