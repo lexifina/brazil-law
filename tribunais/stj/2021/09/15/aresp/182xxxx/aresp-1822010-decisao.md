@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de agravo interposto por FRANCOIS RODRIGUES SANTIAGO contra decisão do Tribunal de Justiça do Estado do Rio Grande do Norte, que não admitiu o recurso especial manejado com apoio no art. 105, III, "a" e "c", da Constituição Federal, em oposição a acórdão que negou provimento à apelação defensiva.
+A defesa aponta negativa de vigência aoart. 157 do Código de Processo Penal. Sustenta, em síntese, que "a ordem de extração dos dados do celular de Wellington Nascimento se deu por ordem do DPC Odilon Teodósio, em 08/12/2016, através da Ordem de Serviço IV 132/2015 e o pedido de autorização judicial, que se deu através do DPC Emerson Guimarães, somente aconteceu 40 (quarenta) dias após a referida ordem de serviço.  .. Vê-se que a extração dos dados se deu sem a contemporânea ordem judicial autorizadora, através da Ordem de Serviço nº132/2016, o que relega à ilegalidade a prova colhida"(e-STJ, fl. 1428).
+Requer seja reconhecida a ilegalidade da prova.
+Foram apresentadas as contrarrazões (e-STJ, fls. 1467-1479).
+O recurso foi inadmitido em razão da aplicação do óbice das Súmulas 7 e 83/STJ (e-STJ, fls. 1491-1505). Daí este agravo (e-STJ, fls. 1509-1527).
+O Ministério Público Federal manifestou-se pelo desprovimento do agravo (e-STJ, fls. 1561-1565).
+É o relatório.
+Decido.
+O Tribunal assim fundamentou sua decisão com relação à ilegalidade da prova:
+"Quanto à suposta omissão na análise da tese de nulidade das provas colhidas sem autorização judicial, suscitada na sustentação oral, bem como pela ausência do necessário parecer ministerial, é importante ressaltar que, como afirmado pelo embargante. tal questão foi alegada apenas na sessão de julgamento dos apelos.
+Não merece acolhida tais alegações, porquanto, tratando-se de vícios de natureza relativa, deveriam ter sido suscitado no momento processual adequado, o que. no caso em tela, não restou evidenciado, implicando, portanto, no instituto da preclusão.
+Assim, não tendo sido arguidas na fase processual devida e em se tratando de nulidades de natureza relativa, rejeito a tese suscitada pelo recorrente, seja diante da preclusão temporal ou pela inexistência de prejuízos às partes" (e-STJ, fl. 1374).
+Quanto à pretensa violação ao artigo 157 do Código de Processo Penal, da análise dos autos, verifica-se a ausência de prequestionamento quanto a tal dispositivo, tendo em vista que o acórdão recorrido não tratou, especificamente, da matéria sobre a qual se insurge o ora recorrente (ilicitude das provas).
+Note-se que a tese defensiva relacionada ao citado dispositivo não foi objeto das razões da apelação.
+Assim, perquirir na via estreita do especial eventuais violações às referidas normas, sem que se tenha explicitado a tese jurídica de que ora se controverte, seria frustrar a exigência constitucional do prequestionamento, pressuposto inafastável que objetiva evitar a supressão de instância.
+A propósito, não é outro o teor do enunciado 282 da Súmula do STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada". No mesmo sentido, o enunciado 356 da Súmula do STF.
+De fato, para que se configure o prequestionamento, há que se extrair do acórdão recorrido pronunciamento sobre as teses jurídicas em torno dos dispositivos legais tidos por violados, para que se possa, na instância especial, abrir discussão sobre determinada questão de direito, definindo-se, por conseguinte, a correta interpretação da legislação federal, situação essa que não ocorreu no presente caso. (AgRg no AREsp 454.427/SP, Rel. Min. LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 19/02/2015)
+Ressalta-se, ademais, que mesmo se tratando de nulidades absolutas e condições da ação, é imprescindível o prequestionamento, pois este é exigência indispensável ao conhecimento do recurso especial, fora do qual não se pode reconhecer sequer matéria de ordem pública, passível de conhecimento de ofício nas instâncias ordinárias. Confiram-se, nesse sentido, os precedentes da Corte:
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. CERCEAMENTO DE DEFESA. OFENSA AO PRINCÍPIO DA COLEGIALIDADE. INOCORRÊNCIA. DOSIMETRIA. CAUSA ESPECIAL DE AUMENTO DE PENA. MATÉRIA NÃO DEBATIDA NA ORIGEM. AUSÊNCIA DE PREQUESTIONAMENTO. RECURSO DESPROVIDO.
+1. A teor do disposto no art. 34, inciso XVIII, alínea b, do Regimento Interno deste Sodalício, com a redação dada pela Emenda Regimental n. 22/2016, o relator pode negar provimento ao recurso ou ao pedido se as razões apresentadas forem contrárias a entendimento jurisprudencial dominante sobre o tema, justamente o que se verificou no presente caso. 2. O cabimento de agravo regimental contra o julgamento singular afasta a alegação de violação aos princípios da ampla defesa e da colegialidade, já que a matéria pode, desde que suscitada, ser remetida à apreciação da Turma.
+3. O prequestionamento de teses jurídicas constitui requisito imprescindível para admissibilidade de recurso especial, mesmo quando se tratar de matéria de ordem pública, sob pena de indevida supressão de um dos graus de jurisdição.
+4. Agravo regimental desprovido."
+(AgRg no AREsp 298.957/SC, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 20/02/2018, DJe 05/03/2018)
+"PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA CONFIRMADA PELO TRIBUNAL ESTADUAL. ALEGADA SUSPEIÇÃO DO MAGISTRADO SENTENCIANTE. NÃO DEMONSTRAÇÃO DE PREJUÍZO. VIA INADEQUADA PARA EXAME DO PLEITO. EXCESSO DE PRAZO DA PRISÃO CAUTELAR. MATÉRIA NÃO EXAMINADA PELO TRIBUNAL A QUO. INDEVIDA SUPRESSÃO DE INSTÂNCIA. WRIT NÃO CONHECIDO.
+ ..
+6. Conforme reiterada jurisprudência do Superior Tribunal de Justiça, o prequestionamento das teses jurídicas constitui requisito de admissibilidade da via, inclusive em se tratando de matérias de ordem pública, sob pena de incidir em indevida supressão de instância e violação da competência constitucionalmente definida para esta Corte.
+7. No caso em exame, a tese de excesso de prazo da prisão cautelar não restou examinada pelo Tribunal estadual, impossibilitando, assim, seu exame por esta Corte Superior, sob pena de indevida supressão de instância.
+8. Habeas corpus não conhecido."
+(HC 336.508/SP, minha Relatoria, QUINTA TURMA, julgado em 03/04/2018, DJe 09/04/2018)
+Desta feita, tendo em vista a incidência, por analogia, das Súmulas 282 e 356, ambas do Supremo Tribunal Federal,inviável o conhecimento do recurso.
+Ante o exposto, com fundamento no art. 932, VIII, do CPC, c/c o art. 253, parágrafo único, II, "a", do RISTJ, conheço do agravo, para não conhecer do recurso especial.
+Publique-se. Intimem-se.
