@@ -1,0 +1,28 @@
+Decisão:
+Vistos.
+     Habeas corpus, com pedido de liminar, impetrado em favor de Jazon Henrique Fernandes Teixeira, apontando como autoridade coatora o Presidente do Superior Tribunal de Justiça, Ministro Humberto Martins, que indeferiu liminarmente a inicial do HC nº 684.624/RO.
+    Depreende-se dos autos que a paciente teve a prisão em flagrante convertida em preventiva, ante a suposta prática dos delitos tipificados nos arts.16, caput, da Lei 10.826/03 e 2º, caput e § 2º, da Lei 12.850/13.
+    O impetrante sustenta, em síntese, a presença de constrangimento ilegal, pois a custódia preventiva da paciente padeceria de fundamentação idônea, apta a justificar a sua necessidade, bem como estariam ausentes os pressupostos autorizadores previstos no art. 312 do Código de Processo Penal.
+    Requer, liminarmente, a concessão da ordem para que a prisão preventiva do paciente seja revogada.
+     Examinados os autos, decido.
+     Trata-se de decisão segundo a qual o eminente Ministro Humberto Martins fulminou de plano a inicial do HC nº 684.624/RO, uma vez que as questões submetidas àquela Corte não foram apreciadas definitivamente pelo Tribunal local, constituindo-se a sua análise em indevida supressão de instância.
+     Logo, a questão submetida à discussão do Superior Tribunal Justiça e reiterada neste habeas corpus não teria sido objeto de análise por parte do Tribunal local. Portanto, sua apreciação, de forma originária, neste ensejo, configuraria inadmissível dupla supressão de instância.
+     Perfilhando esse entendimento, destaco os precedentes seguintes: HC nº 113.172/SP, Primeira Turma, de minha relatoria, DJe de 17/4/13; HC nº 118.836/PA-AgR, Segunda Turma, Relatora a MinistraCármen Lúcia, DJe de 8/10/13; HC nº 116.857/ES-AgR, Segunda Turma, Relator o Ministro Teori Zavascki, DJe de 21/5/13; HC nº 114.583/MS, Segunda Turma, Relator o Ministro Cezar Peluso, DJe de 27/8/12; HC nº 92.264/SP, Primeira Turma, Relator o MinistroMenezes Direito, DJ de 14/12/07; e HC nº 90.654/SP, Primeira Turma, Relator o Ministro Sepúlveda Pertence, DJ de 25/5/07, entre outros.
+     Ademais, vale registrar que a impetração volta-se contra decisão singular, fazendo incidir, na espécie, o entendimento de que
+    “é inadmissível o habeas corpus que se volta contra decisão monocrática do Relator da causa no Superior Tribunal de Justiça não submetida ao crivo do colegiado por intermédio do agravo interno, por falta de exaurimento da instância antecedente” (HC nº 101.407/PR, Primeira Turma, de minha relatoria, DJe de 19/3/14).
+    No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o MinistroRicardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+     No mesmo sentido: HC nº 118.189/MG, Segunda Turma, Relator o MinistroRicardo Lewandowski, DJe de 24/4/14; e RHC nº 111.395/DF, Primeira Turma, Relator o Ministro Luiz Fux, DJe de 30/9/13, entre outros.
+     De qualquer modo, registro que o decreto prisional apresenta fundamentos aptos a justificar a constrição processual da liberdade do paciente, uma vez que calcado em elementos concretos da conduta, a saber, participação ativa em organização criminosa voltada a invasão de terras:
+    “Verifica-se ainda que Jazon integra a organização desempenhando funções em mais de um setor, sendo preponderante e importante atuação no núcleo de recrutadores, ressalta-se ainda que atua negociando lotes. Jazon ainda percorreu terras e marcou os pontos de GPS do imóvel.
+    Há nos autos ainda que constrangeu fazendeiros mediante grave ameaça e com o intuito de obter indevida vantagem econômica para que o grupo deixasse de praticar invasões na propriedade. (...). No mais, no auto circunstanciado de busca e apreensão de Jazon foram apreendidos diversos objetos dentre eles cartuchos de munições, rádio comunicador, comprovantes bancários, armas (id. n. 59645839 - Pág. 2/3).
+    Na interceptação telefônica há diálogos com possíveis indícios dos requerentes nos delitos. Analisando o conjunto probatório verifico que há prova de materialidade e indícios suficientes de autoria, uma vez que os documentos acostados nos autos, há o possível envolvimento dos requerentes.
+    Desta feita, há indícios dos delitos imputados aos requerentes, sendo necessária a manutenção da segregação cautelar para garantir a ordem pública, pois caso seja solto, muito provavelmente voltará a tentar praticar o delito. E ainda a segregação cautelar é necessária para assegurar a aplicação da lei penal e por conveniência da instrução processual, visando dar um fim na prática delitiva.
+     Entendo que no presente caso, a privação cautelar da liberdade reveste-se de legalidade, uma vez que estão presentes os pressupostos do art. 312, do Código de Processo Penal, uma vez que visa a garantia da ordem pública, e uma vez colocado em liberdade, possa vir a cometer novos delitos e atingir a ordem pública. (...). ” (Doc. 1).
+    Esse entendimento está em absoluta consonância com a jurisprudência tranquila do Supremo Tribunal Federal, segundo a qual
+    “[é] idônea a prisão decretada com base em fatos concretos observados pelo juiz na instrução processual, notadamente a periculosidade, não só em razão da gravidade do crime, mas também pelo modus operandi da conduta delituosa.” (HC nº 131.221/MG, Segunda Turma, Relator o Ministro Gilmar Mendes, DJe de 2/3/16)
+    Ante o exposto, nos termos do art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, nego seguimento ao presente habeas corpus, ficando, por consequência, prejudicado o pedido de liminar.
+    Publique-se.
+    Brasília, 15 de setembro de 2021.
+MinistroDias Toffoli
+Relator
+Documento assinado digitalmente
