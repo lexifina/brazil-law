@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de agravo interno manejado por JOSÉ LEOPOLDO EBERHARDT contra decisão por mim proferida às e-STJ fls. 384/386, em que conheci do agravo para conhecer parcialmente do recurso especial e, nessa extensão, negar-lhe provimento.
+Nas suas razões (e-STJ fls. 151/154), a agravante sustenta que teria demonstrado a ofensa ao arg. 1.022 do CPC/2015, além de não serem aplicáveis ao caso as Súmulas 280 e 284 do STF.
+Impugnação apresentada às e-STJ fls. 404/409.
+Passo a decidir.
+Diante das razões ora deduzidas, verifico que o óbice da Súmula 284 do STF não incidiria na espécie, motivo pelo qual reconsidero a decisão de e-STJ fls. 284/286 e passo a nova análise do agravo em recurso especial.
+Trata-se de agravo interposto por JOSÉ LEOPOLDO EBERHARDT contra decisão de inadmissibilidade do recurso especial, fundado na alínea "a" do permissivo constitucional, que desafiou acórdão do Tribunal de Justiça do Estado de Goiás assim ementado:
+EMENTA: DUPLA APELAÇÃO CÍVEL. AÇÃO ORDINÁRIA COM PEDIDO DE ANTECIPAÇÃO DE TUTELA. SOLIDARIEDADE DO SÓCIO RESPONSÁVEL NA RESPONSABILIDADE TRIBUTÁRIA. CONFIRMAÇÃO. ÔNUS SUCUMBENCIAIS.
+I - Sendo nítida a ilação de que o sócio -administrador da pessoa jurídica, não adimpliu tributo estadual, utilizando indevidamente redução de base de cálculo, torna-se responsável tributário solidário.
+III - Em relação a verba honorária sucumbencial, o referido ato judicial encontra-se de acordo com o regramento previsto no artigo 20, § 4º, do Código de Processo Civil de 1973, vigente à época da prolação da sentença. APELAÇÕES CÍVEIS CONHECIDAS E DESPROVIDAS.
+Opostos embargos de declaração,foram rejeitados.
+No recurso especial, a parte indicou ofensa aos arts. 124, I, e 135 do CTN e 926, 927 e 1.022 do CPC/2015. Sustentou, em resumo, que: (i) seria nulo o acórdão recorrido por negativa de prestação jurisprudencial, tendo em vista a ausência de pronunciamento acerca da aplicação da Súmula 430 do STJ e do exame dos arts. 926 e 927, do CPC/2015 e 124, I, e 135, III, do CTN, não obstante a oposição de aclaratórios; (ii) o mero inadimplemento no pagamento do tributo não teria o condão de atribuir ao administrador a responsabilidade pelos débitos tributários, sob pena de ofensa aos arts. 124 e 135, I, do CTN; (iii) a inobservância da Súmula 430 do STJ pela Corte de origem ofenderia o disposto nos arts. 926 e 927 do CPC/2015, segundo os quais os verbetes sumulares são de observância obrigatória pelos juízes e tribunais.
+A Presidência do TJGO inadmitiu o apelo excepcional com base nas Súmulas 282 e 284 do STF e 7 do STJ.
+Irresignado, o particular interpõe o presente agravo, insurgindo-se contra os obstáculos impostos ao trâmite do recurso especial.
+Pois bem.
+Cuidam os autos, na origem, de ação ordinária proposta por administrador de sociedade empresária em que pretende sua exclusão do polo passivo de execução fiscal decorrente de processo administrativo tributário instaurado para aferição de débitos de ICMS.
+O magistrado de primeiro grau julgou improcedente a ação.
+Ao enfrentar a apelação interposta pelo autor, o Tribunal de Justiça negou-lhe provimento com amparo nos seguintes fundamentos (e-STJ fl. 258/259):
+Extrai-se dos autos que, de acordo com o Auto de Infração nº3 0263172564 75, de fls. 34/35, o Autor/primeiro apelante foi indicado como responsável solidário, nos termos do artigo 45, inciso XII, da Lei estadual nº11.651/1991, com a seguinte fundamentação:
+"tendo usufruído dos benefícios fiscais previstos no art. 8º, inciso VIII e art. 11, inciso III, todos do anexo IX do decreto 4.852/97, optou por proceder o estorno dos créditos superiores a 7% (sete por cento) referentes às entradas interestaduais no período de 01/2003 e 12/2005..".
+In casu, conforme a cópia do contrato social (mov. nº 03 - arq. 01), o Autor/primeiro apelante exercia a administração da empresa. Deste modo, seu nome foi regularmente incluído no processo administrativo tributário, com a devida intimação para apresentar defesa, sendo observado o rito legal com o encaminhamento para a inscrição em dívida ativa dos nomes da empresa autuada e do solidário.
+Passo a análise do 1º Apelo.
+Inicialmente, da leitura das transcrições acima realizadas, nota-se ter acostado do auto de infração em comento a circunstância fática e jurídica que deu suporte à sua lavratura.
+A irresignação do primeiro apelante, cinge-se em ter seu nome incluído no processo administrativo tributário, face exercer a administração da empresa.
+Art. 45 São solidariamente obrigadas ao pagamento do imposto devido na operação ou prestação as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal especialmente:
+XII- com o contribuinte, os acionistas controladores, os diretores, gerentes, administradores ou representantes da pessoa jurídica, relativamente à operação ou prestação decorrente dos atos que praticarem, intervirem ou pela omissão de que forem responsáveis;
+Art. 135. São pessoalmente responsáveis pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados com excesso de poderes ou infração à lei, contrato social ou estatutos:(..)
+III - os diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
+Do dispositivo, é nítida a ilação de que José Leopoldo Eberhardt (primeiro apelante), sendo administrador da pessoa jurídica, tendo inadimplido tributo estadual, torna-se responsável tributário solidário. (Grifos acrescidos).
+Com efeito, observa-se que a insurgência do recorrente não diz respeito a eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, não havendo, pois, que falar em negativa de prestação jurisdicional.
+No mérito, o recurso especial merece prosperar.
+Conforme a jurisprudência pacífica desta Corte superior, "a simples falta de pagamento do tributo não configura, por si só, nem em tese, circunstância que acarreta a responsabilidade subsidiária do sócio, prevista no art. 135 do CTN. É indispensável, para tanto, que tenha agido com excesso de poderes ou infração à lei, ao contrato social ou ao estatuto da empresa" (Recurso Especial Repetitivo n. 1.101.728/SP, Relator Ministro Teori Albino Zavascki, Primeira Seção, DJe 23/03/2009).
+A Súmula 430 do STJ, na mesma toada, dispõe que "oinadimplemento da obrigação tributária pela sociedade não gera, por si só, a responsabilidade solidária do sócio-gerente".
+Ademais, os seguintes julgados que tratam de inviabilidade de redirecionamento a sócio-gerentesão aplicáveis, mutatis mutandis, à presente hipótese:
+PROCESSUAL CIVIL. AGRAVO INTERNO RECURSO ESPECIAL. EXECUÇÃO FISCAL. DISSOLUÇÃO IRREGULAR. PRESUNÇÃO. REDIRECIONAMENTO. POSSIBILIDADE. MATÉRIA PACÍFICA. PRETENSÃO DEPENDENTE DO EXAME DE PROVA. INADMISSIBILIDADE.
+1. "O inadimplemento da obrigação tributária pela sociedade não gera, por si só, a responsabilidade solidária do sócio-gerente" (Súmula 430 do STJ); porém, na hipótese em que a sociedade empresária devedora não for localizada em seu domicílio fiscal, a parte exequente, por presunção de sua extinção irregular, pode pedir o redirecionamento do processo executivo para o sócio, conforme entendimento jurisprudencial enunciado pela Súmula 435 do STJ. Após o redirecionamento, acaso a situação da dissolução irregular seja comprovada, está configura violação à lei e autorizada a responsabilização do sócio, conforme previsão do art. 135 do CTN.
+Precedentes.
+2. Na execução fiscal, a ocorrência de algumas das hipóteses descritas nos arts. 134 e 135 do CTN autoriza o redirecionamento do processo executivo, sem a necessidade de instauração do incidente de desconsideração da personalidade jurídica. Precedentes.
+3. No caso dos autos, o acórdão recorrido está em conformidade com a orientação jurisprudencial deste Tribunal Superior e o delineamento fático descrito não permite conclusão diversa daquela a que chegou o órgão julgador a quo, de tal sorte que o conhecimento do recurso encontra óbice nas Súmulas 7 e 83 do STJ.
+4. Agravo interno não provido.
+(AgInt no REsp 1909732/SE, Rel. Ministro BENEDITO GONÇALVES, PRIMEIRA TURMA, julgado em 28/06/2021, DJe 30/06/2021)
+PROCESSO CIVIL. TRIBUTÁRIO. DÍVIDA ATIVA. ENTENDIMENTO CONSOLIDADO POR JURISPRUDÊNCIA DO STJ. DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA. DESCONFIGURADA. INCIDÊNCIA DO ART. 135 DO CTN. NÃO INTEGRAR A SOCIEDADE POR OCASIÃO DO FATO GERADOR DO CRÉDITO TRIBUTÁRIO. IRRELEVANTE PARA EFEITO DE REDIRECIONAMENTO DA EXECUÇÃO FISCAL. EXCESSO DE PODER. INOCORRÊNCIA. INFRAÇÃO À LEI OU AO ESTATUTO. AUSÊNCIA. IMPOSSIBILIDADE DE REDIRECIONAMENTO DA EXECUÇÃO FISCAL.
+(..)
+II - Nos termos da jurisprudência pacífica do STJ, o redirecionamento da Execução Fiscal para o sócio-gerente da empresa é cabível apenas quando demonstrado que este agiu com excesso de poderes, infração à lei ou ao estatuto, ou no caso de dissolução irregular da empresa, não se incluindo o simples inadimplemento de obrigações tributárias. A propósito, tal entendimento ficou consolidado pela Primeira Seção do STJ no julgamento do REsp 1.101.728/SP, sob o rito dos recursos repetitivos, como demonstra a seguinte ementa: REsp 1.101.728/SP, Rel. Ministro Teori Albino Zavascki, Primeira Seção, julgado em 11/3/2009, DJe 23/3/2009.
+(..)
+VII - Agravo interno improvido
+(AgInt no REsp 1611500/SC, Rel. Ministro FRANCISCO FALCÃO, SEGUNDA TURMA, julgado em 12/03/2019, DJe 18/03/2019)
+No caso, a Corte local entendeu que o recorrente, por ser administrador da pessoa jurídica inadimplente, teria responsabilidadetributáriasolidária, posicionamento que se revela contrário à jurisprudência consolidada desteTribunalSuperior.
+Ante o exposto: (i) RECONSIDERO a decisão de e-STJ fls. 384/386; (ii) com base no art. 253, parágrafo único, II, "c", do RISTJ, CONHEÇO do agravo para DAR PARCIAL PROVIMENTO ao recurso especial,determinando o retorno dos autos ao Tribunal local para que examine a questão relativa à responsabilidade solidária do ora recorrente à luz daorientação jurisprudencial desta Corte Superior.
+Publique-se. Intimem-se.
