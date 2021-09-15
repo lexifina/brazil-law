@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de agravo interno interposto contra decisão, assim ementada (fl. 564):
+TRIBUTÁRIO. RECURSO ESPECIAL. CRÉDITO DE PIS E COFINS. REGIME MONOFÁSICO. IMPOSSIBILIDADE. ACÓRDÃO RECORRIDO EM CONFORMIDADE COM O ATUAL ENTENDIMENTO DO STJ. PRECEDENTES.
+RECURSO ESPECIAL NÃO PROVIDO.
+A parte agravante sustenta, em síntese, que a matéria em questão ainda não se encontra pacificada neste Egrégio STJ, tanto que, 18/05/2021, foi submetida ao regime dos recursos repetitivos, na oportunidade restando determinada a suspensão de todos os processos em trâmite em primeira e segunda instâncias envolvendo a questão, inclusive neste E. Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015) Sem impugnação.
+É o relatório. Decido.
+Após nova análise processual, provocada pela interposição do agravo interno, observo necessidade de reconsideração da decisão agravada, pois a Primeira Seção resolveu afetar o tema à sistemática dos recurso repetitivos.
+De fato, embora a Primeira Seção, em 14 de abril de 2021, tenha decidido pela impossibilidade de geração de créditos, na tributação monofásica (EDv nos EAREsp 1109354/SP), em 28 de junho de 2021, o em. Ministro Mauro Campbell Marques submeteu proposta de afetação do tema à sistemática dos recursos repetitivos. O julgamento ficou assim ementado:
+RECURSO INTERPOSTO NA VIGÊNCIA DO CPC/2015. ENUNCIADO ADMINISTRATIVO Nº 3. PROPOSTA DE AFETAÇÃO COMO REPETITIVO.PROCESSUAL CIVIL. TRIBUTÁRIO. PIS/PASEP E COFINS. SISTEMA DE TRIBUTAÇÃO MONOFÁSICA. DISCUSSÃO SOBRE A POSSIBILIDADE DE CREDITAMENTO COM BASE NO ART. 17 DA LEI 11.033/2004.
+1. Delimitação das questões de direito controvertidas como sendo: "a) se o benefício instituído no art. 17, da Lei 11.033/2004, somente se aplica às empresas que se encontram inseridas no regime específico de tributação denominado REPORTO; b) se o art. 17, da Lei 11.033/2004, permite o cálculo de créditos dentro da sistemática da incidência monofásica do PIS e da COFINS; e c) se a incidência monofásica do PIS e da COFINS se compatibiliza com a técnica do creditamento".2. Multiplicidade efetiva ou potencial de processos com idêntica questão de direito demonstrada pelo despacho do Ministro Presidente da Comissão Gestora de Precedentes e demais informações constantes dos autos dos processos repetitivos.
+3. Determinação ad cautelam para a suspensão do julgamento de todos os processos em primeira e segunda instâncias envolvendo a matéria, inclusive no Superior Tribunal de Justiça (art. 1.037, II, do CPC/2015).
+4. Recurso especial submetido à sistemática dos recursos repetitivos, estando em afetação conjunta os REsp"s. nn. 1.894.741 - RS e 1.895.255 - RS.
+(ProAfR no REsp 1894741/RS, Rel. Ministro MAURO CAMPBELL MARQUES, PRIMEIRA SEÇÃO, julgado em 18/05/2021, DJe 24/05/2021)
+Nesse contexto, o recurso deve ficar sobrestado no tribunal a quo, à espera da definição da tese por este Tribunal Superior, uma vez que o julgamento tem potencial para interferir na pretensão recursal.
+Ante o exposto, reconsidero a decisão de fls. 564-565e determino a devolução dos autos ao Tribunal de origem, com a respectiva baixa nesta Corte, para que, após a publicação do acórdão a ser proferido no recurso representativo da controvérsia, o apelo especial: a) tenha seguimento denegado na hipótese de o acórdão recorrido coincidir com a orientação do STJ; ou b) seja novamente examinado pelo Tribunal de origem, caso o aresto hostilizado divirja do entendimento firmado nesta Corte (arts. 1.039, 1.040, I e II, e 1.041 do CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL.DECISÃO AGRAVADA RECONSIDERADA. TEMA SUBMETIDO À SISTEMÁTICA DOS RECURSOS REPETITIVOS. SOBRESTAMENTO NA ORIGEM.
