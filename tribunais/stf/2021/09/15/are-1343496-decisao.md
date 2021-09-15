@@ -1,0 +1,28 @@
+Decisão
+    Trata-se de Agravo em Recurso Extraordinário interposto em face de acórdão proferido pelo Tribunal de Justiça do Estado de Pernambuco, assim ementado (Vol. 6, fl. 11):
+    “EMENTA. APELAÇÃO CÍVEL. CONSTITUCIONAL E ADMINISTRATIVO. AÇÃO ORDINÁRIA. PISO NACIONAL DOS PROFESSORES INSTITUÍDO PELA LEI FEDERAL N.º 11.738/2008. CONTRATO TEMPORÁRIO. MUNICÍPIO DE CARUARU. POSSIBILIDADE. AUSÊNCIA DE DISTINÇÃO EM RELAÇÃO AOS SERVIDORES EFETIVOS. DIFERENÇA DEVIDA. IMPOSSIBILIDADE DE ENRIQUECIMENTO SEM CAUSA. MANUTENÇÃO DA SENTENÇA. RECURSO A QUE SE NEGA PROVIMENTO.
+    1. Em sede controle concentrado, o Supremo Tribunal Federal reconheceu a constitucionalidade da Lei Federal n.º 11.738/2008, afastando a tese de afronta à repartição de competências e ao pacto federativo (ADI 4167).
+    2. O fato de o Apelado ter sido admitido no serviço público através de contrato temporário por tempo determinado não afasta o direito a perceber seus vencimentos nos moldes instituídos pela Lei Federal n.º 11.738/2008, uma vez que o trabalho realizado em nada difere daquele realizado pelos professores que ocupam cargo efetivo na Administração Pública Estadual.
+    3. A referida Lei Federal consiste em medida de política pública de educação e valorização profissional a ser seguida por todos os entes de federação (União, Estados, Distrito Federal e Municípios), aos quais cabe também estabelecer programas e meios de controle para a consequente consecução.
+    4. Recurso de Apelação a que nega provimento, por unanimidade de votos.”
+    Opostos Embargos de Declaração (Vol. 8), foram rejeitados (Vol. 9).
+    No RE (Vol. 10), interposto com amparo no artigo 102, III, “a”, da CF/1988, o MUNICÍPIO DE CARUARU alega violação à Súmula Vinculante 37, bem como ao Tema 551 da repercussão geral, pois (a) sendo a recorrida contratada para o cargo de professora de forma temporária e excepcional, não tem direito de ser remunerada de acordo com o Piso Salarial Nacional do Magistério instituído pela Lei Federal 11.738, de 16 de julho de 2008; e (b) “os trabalhadores contratados por prazo determinado não se equiparam aos servidores que ingressaram nos quadros da Administração Pública por meio de concurso” (Vol. 10, fl. 14).
+    O Juízo de origem negou seguimento ao apelo extremo, aos fundamentos de que (a) “o Recorrente não indicou diretamente o artigo da Constituição Federal que teria sido supostamente violado pelo órgão julgador, o que, por si só, denota a deficiência de sua fundamentação, nos termos da Súmula 284/STF”; (b) o Tema 551 é inaplicável à hipótese dos autos , pois “a matéria nele tratada (direito dos servidores temporários ao 13º Salário e às férias acrescidas do terço constitucional) não fora objeto de debate pelo órgão fracionário, o qual se restringiu a possibilidade dos servidores temporários perceberem o piso salarial previsto na Lei Federal n.º 11.738/2008, ausente, portanto, o devido prequestionamento, nos termos da Súmula 356/STF” (Vol. 14).
+    No Agravo, a parte refutou os óbices apontados na decisão agravada (Vol. 15).
+    É o relatório. Decido.
+    Eis os fundamentos do acórdão recorrido para decidir a controvérsia (Vol. 6, fl. 3):
+    “Insurge-se o Recorrente contra a sentença proferida pelo Juízo de Primeiro Grau que julgou procedente o pleito autoral, condenando o Apelante a adimplir as diferenças salariais com base no piso salarial nacional, proporcional à carga horária da Apelada.
+    A Lei Federal n.º 11.738/2008, que regulamentou a alínea “e” do inciso III do caput do art. 60 do Ato das Disposições Constitucionais Transitórias para instituir o piso salarial profissional nacional para os profissionais do magistério público da educação básica, dispõe que:
+    [...]
+    O fato de a Apelada ter sido admitida no serviço público através de contrato temporário por tempo determinado não afasta o direito a perceber seus vencimentos nos moldes instituídos pela Lei Federal n.º 11.738/2008, uma vez que o trabalho realizado em nada difere daquele realizados pelos professores que ocupam cargo efetivo na Administração Pública Estadual.
+    A referida Lei Federal consiste em medida de política pública de educação e valorização profissional a ser seguida por todos os entes de federação (União, Estados, Distrito Federal e Municípios), aos quais cabe também estabelecer programas e meios de controle para a consequente consecução.
+    Muito embora a relação entre as partes tenha sido entabulada sem a observância da exigência de concurso público para o ingresso no serviço público, tal fato não autoriza o serviço sem a devida contraprestação remuneratória, sob pena de se agasalhar o enriquecimento ilícito e beneficiar a torpeza do Administrador Público.”
+    O juízo de origem, com base nas peculiaridades do caso concreto, concluiu que o MUNICÍPIO DE CARUARU não observou corretamente os parâmetros de vencimento fixados pela legislação federal (Lei Federal 11.738/2008).
+    Trata-se, portanto, de matéria situada no contexto normativo infraconstitucional, de forma que as alegadas ofensas à Constituição seriam meramente indiretas (ou mediatas), o que inviabiliza o conhecimento do referido apelo.
+    Diante do exposto, com base no art. 21, § 1º, do Regimento Interno do Supremo Tribunal Federal, NEGO SEGUIMENTO AO AGRAVO EM RECURSO EXTRAORDINÁRIO.
+    Fixam-se honorários advocatícios adicionais equivalentes a 10% (dez por cento) do valor a esse título arbitrado nas instâncias ordinárias (Código de Processo Civil de 2015, art. 85, § 11).
+    Publique-se.
+    Brasília, 15 de setembro de 2021.
+Ministro Alexandre de Moraes
+Relator
+Documento assinado digitalmente
