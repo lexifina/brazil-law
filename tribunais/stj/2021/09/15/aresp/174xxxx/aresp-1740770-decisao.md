@@ -1,0 +1,73 @@
+DECISÃO
+Da leitura do agravo de instrumento que deu origem ao presente recurso, pode-se aferir que ANTÔNIO LUVISON,ROQUE ALBINO ZANELLA,RUI OTTO ROST, SUELI DAL BEM ROST e VANDERLEI JOÃO LORENÇO(ANTÔNIOe outros) ajuizaram ação de adimplemento contratual que foi julgada procedente.
+Na fase de cumprimento de sentença, o Juiz de primeiro homologou os cálculos da contadoria.
+Essa interlocutória foi desafiada por agravo de instrumento no qual OI S.A. (OI), sucessora da BRASIL TELECOM S.A., afirmou que os cálculos apresentados pela Contadoria Judicial foram realizados após o deferimento da Recuperação Judicial, estando a presente demanda submetida ao Plano de Recuperação Judicial, não devendo haver a possibilidade de amortização do valor depositado a título de garantia de juízo. Requereu que fosse provido o recurso para determinar o retorno dos autos à Contadoria para não amortizar o valor depositado a título de garantia de juízo e a liberação de todo o valor depositado em favor da OI.
+O Tribunal de Justiça do Estado do Rio Grande do Sul deu provimento ao agravo em acórdão assim ementado:
+AGRAVO DE INSTRUMENTO. DIREITO PRIVADO NÃO ESPECIFICADO. SUBSCRIÇÃO DE AÇÕES.FASE DE CUMPRIMENTO DE SENTENÇA.LIBERAÇÃO DE VALORES. POSSIBILIDADE. Os valores espontaneamente depositados antes de 21/06/2016, com a finalidade de pagamento, bem como aqueles que foram objeto de constrição judicial antes da mencionada data, são passíveis de liberação. Nesta última hipótese, é condição para o levantamento que os embargos à execução ou impugnação ao cumprimento de sentença tenham transitado em julgado antes de 21/06/2016, hipótese dos autos. A mera adequação aritmética dos valores devidos após o processamento da recuperação judicial não impõe obstáculo ao levantamento de valores. AGRAVO DE INSTRUMENTO DESPROVIDO(e-STJ, fl. 1386).
+Os embargos de declaração opostos pela OIforam rejeitados (e-STJ, fls. 1423/1429).
+Irresignada, a OI interpôs recurso especial com base no art. 105, III, a e c, da CF, no qual alegou, além de divergência jurisprudencial, violação dos arts. (1) 1.022, II,do NCPC, por entender que houve omissão do julgado quanto aofato de que o crédito teria se tornado líquido apenas após o deferimento da recuperação judicial, razão pela qual este deveria se submeter ao plano de recuperação judicial; (2) 6º, 49 e 59 da Lei nº 11.101/2005, ao entendimento de que o crédito deve ser submetido ao plano de recuperação judicial, devidamente aprovado pela assembleia geral de credores, não havendo que se falar em amortização do valor penhorado.
+Em juízo de admissibilidade, a presidência do Tribunal de Justiça do Estado do Rio Grande do Sul inadmitiu o apelo nobre.
+Contra essa decisão, foi interposto o agravo em recurso especial que foi conhecido, mas o apelo nobre foi suspenso em decisão monocrática de minha relatoria, assim ementada:
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. RECURSO INTERPOSTO NA VIGÊNCIA DO NCPC. CONTROVÉRSIA SOBRE A INTERPRETAÇÃO DO ARTIGO 49, CAPUT, DA LEI N. 11.101/2005, DE MODO A DEFINIR SE A EXISTÊNCIA DO CRÉDITO É DETERMINADA PELA DATA DE SEU FATO GERADOR OU PELO TRÂNSITO EM JULGADO DA SENTENÇA QUE O RECONHECE. MATÉRIA AFETADA SOB O RITO DOS RECURSOS REPETITIVOS (PROAFR NOS RESPS 1.843.332/RS, 1.842.911/RS, 1.843.382/RS, 1.840.812/RS E 1.840.531/RS, REL. MINISTRO RICARDO VILLAS BÔAS CUEVA, SEGUNDA SEÇÃO). TEMA 1051. SUSPENSÃO DO PROCESSO. RETORNO DOS AUTOS À ORIGEM. (e-STJ, fl. 1564).
+Por meio das Petições nº 00770287/2020,00778901/2020 e 00778902/2020, as partesalegaram que não seria possível sobrestar o recurso e determinar o retorno dos autos à Corte estadual.
+Os pedidos foram indeferidos(e-STJ, fls. 1595/1598).
+Retornaram os autos do TJRS.
+É o relatório.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+Assim, ultrapassados os requisitos de admissibilidade, CONHEÇO do agravo e passo à análise do recurso especial, o qual, por ter sido interposto sob a égide do NCPC, também se aplicam os termos do Enunciado Administrativo nº 3 aprovado pelo Plenário do STJ na sessão de 9/3/2016.
+A irresignação não merece prosperar.
+(1)Da alegada violação aoart.1.022 do NCPC
+É indubitável que o acórdão ora atacado abordou todos os pontos necessários à solução da controvérsia, oferecendo conclusão conforme a prestação jurisdicional requerida, e encontra-se alicerçado em premissas que se apresentam harmônicas com o entendimento adotado, apresentando-se desprovido de obscuridades, contradições ou erros materiais, conforme se infere sobretudo deste trecho:
+No caso dos autos, o bloqueio foi realizado em 03/04/2009; a impugnação ao cumprimento de sentença transitou em julgado em 06/06/2016, tornando a obrigação líquida.
+Após o trânsito em julgado da impugnação, a discussão que se estabeleceu nos autos versou apenas sobre o ajuste dos cálculos ao que restou decidido na impugnação, fatores que alongaram a tramitação, mas não houve reabertura de discussão de mérito.
+Em suma, após o trânsito em julgado da impugnação, os cálculos sofreram apenas adaptações ao quanto fora decidido em impugnação, e não de rediscussão de critérios ou matéria de mérito.
+A mera adequação aritmética dos valores devidos após o processamento da recuperação judicial não impõe obstáculo ao levantamento de valores(e-STJ, fl. 1390).
+A propósito, o entendimento desta Corte é pacífico no sentido de que não há omissão, contradição ou obscuridade no julgado quando ele resolve a controvérsia de maneira sólida, fundamentada e suficiente, deixando apenas de adotar a tese do embargante. Nesse sentido, colhem-se estes precedentes:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL  .. . VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015 NÃO CONFIGURADA  .. . AGRAVO INTERNO DESPROVIDO.
+1. Não ficou configurada a violação dos arts. 489 e 1.022 do CPC/2015, uma vez que o Tribunal de origem se manifestou de forma fundamentada sobre todas as questões necessárias para o deslinde da controvérsia. O mero inconformismo da parte com o julgamento contrário à sua pretensão não caracteriza falta de prestação jurisdicional.
+..
+6. Razões recursais insuficientes para a revisão do julgado.
+7. Agravo interno desprovido.
+(AgInt no AREsp 1599076/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, Terceira Turma, j. 20/4/2020, DJe 24/4/2020)
+AGRAVO INTERNO NO RECURSO ESPECIAL  .. . NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA  .. .
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+..
+5. Agravo interno não provido.
+(AgInt no REsp 1811417/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. 20/4/2020, DJe 27/4/2020)
+(2) Do levantamento do valor bloqueado
+A OI afirmou, ainda, que o pedido de recuperação judicial foi deferido aos 21/6/2016 e que foi estipulado que a suspensão não atingiria os valores espontaneamente depositados antes de 21/6/2016. Aduziu que o valor depositado no presente caso não pode ser liberado porque viola os arts. 6º, 49 e 59 da Lei nº 11.101/2005.
+Constou na decisão agravada que o TJRS entendeu pela liberação do valor porque depositado antes da decisão que deferiu a tutela de urgência aos 21/6/2016.
+Confira-se:
+No caso dos autos, o bloqueio foi realizado em 03/04/2009; a impugnação ao cumprimento de sentença transitou em julgado em 06/06/2016, tornando a obrigação líquida.
+Após o trânsito em julgado da impugnação, a discussão que se estabeleceu nos autos versou apenas sobre o ajuste dos cálculos ao que restou decidido na impugnação, fatores que alongaram a tramitação, mas não houve reabertura de discussão de mérito.
+Em suma, após o trânsito em julgado da impugnação, os cálculos sofreram apenas adaptações ao quanto fora decidido em impugnação, e não de rediscussão de critérios ou matéria de mérito.
+A mera adequação aritmética dos valores devidos após o processamento da recuperação judicial não impõe obstáculo ao levantamento de valores (e-STJ, fl. 1390).
+Verifica-se que a OI não impugnou a data do depósito, apenas afirmando que o valor não estava liquidado e que o levantamento do valor ofenderia os arts. 6º, 49 e 59 da Lei nº 11.101/2005.
+Contudo, como destacado no tópico anterior, no caso dos autos o Tribunal estadual consignou que o trânsito em julgado da impugnação ao cumprimento de sentença ocorreu antes de 20/6/2016.
+Assim, é inviável rever a conclusão do TJ/RS de que é possível o levantamento do valor depositado antes da decisão que deferiu a tutela de urgência, pois demandaria reexame de provas, o que é vedado nesta instância especial. Incide a Súmula nº 7 do STJ.
+Além disso, não há como apreciar o mérito da controvérsia com base na aludida malversação dos arts. 6º, 49 e 59 da Lei nº 11.101/2005, porquanto a simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento. Aplica-se, no ponto, o Enunciado sumular 211/STJ.
+Por oportuno, impõe-se recordar que não há contradição em afastar a alegada violação do art. 1.022 do NCPC e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, porquanto é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte, sobretudo diante do brocardo da mihi factum, dabo tibi jus. Nesse sentido, colhem-se estes precedentes:
+PROCESSUAL CIVIL. OFENSA AO ART. 535 DO CPC NÃO CONFIGURADA. OMISSÃO. INEXISTÊNCIA. SÚMULA 211/STJ.MATÉRIA FÁTICO-PROBATÓRIA. INCIDÊNCIA DA SÚMULA 7/STJ.AGRAVO NÃO PROVIDO.
+..
+4. Não há contradição em afastar a alegada violação do art. 535 do CPC e, ao mesmo tempo, não conhecer do mérito da demanda por ausência de prequestionamento, desde que o acórdão recorrido esteja adequadamente fundamentado.
+5. Modificar a conclusão a que chegou a Corte de origem, de modo a acolher a tese da recorrente, demanda reexame do acervo fático- probatório dos autos, o que é inviável em Recurso Especial, sob pena de violação da Súmula 7/STJ.
+6. Agravo Regimental não provido.
+(AgRg no AREsp 543.829/RJ, Rel. Ministro HERMAN BENJAMIN, Segunda Turma, j.16/10/2014, DJe 30/10/2014).
+PROCESSUAL CIVIL. CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ALEGADA OFENSA AO ART. 535 DO CPC/1973. AUSÊNCIA. NORMA PROCESSUAL. DIREITO INTERTEMPORAL. ENUNCIADO ADMINISTRATIVO N. 2/STJ.PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ.PREMISSA DE FATO. REVISÃO. IMPOSSIBILIDADE. SÚMULA 7/STJ. VALOR DA INDENIZAÇÃO. DIVERGÊNCIA NÃO DEMONSTRADA. SÚMULA 7/STJ. AGRAVO INTERNO A QUE SE NEGA PROVIMENTO.
+1. O entendimento desta Corte é pacífico no sentido de que não há omissão, contradição ou obscuridade no julgado quando se resolve a controvérsia de maneira sólida e fundamentada e apenas se deixa de adotar a tese do embargante. Precedentes.
+2. A aplicabilidade imediata assegurada à norma processual não implica a possibilidade da revisão dos atos já praticados pelo juiz, tampouco a desconstituição de situações jurídicas consolidadas sob a vigência da lei processual revogada (art. 14 do CPC/2015).
+Enunciado Administrativo 2 do STJ.
+3. A simples oposição de embargos de declaração, sem que a matéria tenha sido efetivamente discutida e decidida pela Corte a quo, não é suficiente para caracterizar o requisito do prequestionamento.
+Aplica-se, no ponto, a Súmula 211 desta Corte Superior.
+4. A revisão de premissa de fato fixada pelo Tribunal de origem, soberano na avaliação do conjunto fático-probatório constante dos autos, é vedada aos membros do Superior Tribunal de Justiça, à luz de sua Súmula 7.
+5. A livre apreciação da prova e o livre convencimento motivado do juiz são princípios basilares do sistema processual civil brasileiro.
+Precedentes.
+6. Não há contradição ao se afastar a alegada violação do art. 535 do CPC e, ao mesmo tempo, não conhecer do recurso por ausência de prequestionamento, porquanto é perfeitamente possível o julgado encontrar-se devidamente fundamentado sem, no entanto, ter decidido a questão à luz dos preceitos jurídicos desejados pela parte, seja em razão da preclusão, seja em razão da adoção de fundamentos jurídicos diversos, sobretudo diante do brocardo da mihi factum, dabo tibi jus. Precedentes.
+7. No tocante à alegada divergência jurisprudencial sobre o valor fixado a título de danos morais, consoante consolidada jurisprudência desta Corte, é incabível a arguição de divergência jurisprudencial tratando-se de valoração dos danos morais, pois os elementos subjetivos e fáticos subjacentes às causas são distintos a afastar o requisito da similitude fática necessário ao conhecimento do especial interposto com fulcro na alínea c do inciso III do art.105 da Constituição Federal. Precedentes.
+8. Agravo interno a que se nega provimento (AgInt nos EDcl no AREsp 155.853/SP, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), Quarta Turma, j. 6/2/2018, DJe 9/2/2018)
+Nessas condições,CONHEÇOdo agravo em recurso especial da OI, CONHECER parcialmente do recurso especial desta e, nessa extensão, NEGAR-LHE PROVIMENTO.
+Por oportuno, previno as partes que a interposição de recurso contra essa decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar as penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL.RECURSO INTERPOSTO SOB A ÉGIDE DO NCPC. CONTRATO DE PARTICIPAÇÃO FINANCEIRA. CUMPRIMENTO DE SENTENÇA. RECUPERAÇÃO JUDICIAL. VIOLAÇÃO DO ART.1.022 DO NCPC QUE NÃO SE VERIFICA. PEDIDO DE LEVANTAMENTO DE VALORES. PREENCHIMENTODE EXIGÊNCIAS LEGAIS. REEXAME. SÚMULA 7/STJ.ALEGADA OFENSA AOS ARTS.49 E59 DA LEI Nº 11.101/2005.TESES NÃO DEBATIDAS PELA ORIGEM APESAR DA OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO. APLICAÇÃO DO ENUNCIADO SUMULAR 211/STJ. AGRAVO EM RECURSO ESPECAL CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
