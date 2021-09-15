@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de JOSÉ LUIZ GONÇALVES em que se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Apelação Criminal n. 1510040-64.2020.8.26.0228).
+O paciente teve a prisão em flagrante convertida em preventiva e foi denunciado por suposta prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, c/c o art. 61, II, j, do Código Penal.
+Em primeiro grau, foi condenado ao cumprimento de pena de prestação de serviços à comunidade por 10 meses, pela prática do delito previsto no art. 28 da Lei n. 11.343/2006. A prisão preventiva foi revogada.
+O Tribunal de origem deu provimento ao recurso de apelação do Ministério Público para condenar o paciente pela prática do delito previsto no art. 33, caput, da Lei n. 11.343/2006, modificando a pena para 6 anos, 9 meses e 20 dias de reclusão em regime fechado e 680 dias-multa.
+Posteriormente, o Tribunal de origem acolheu embargos infringentes e de nulidade para afastar o reconhecimento da agravante da calamidade pública e diminuir a pena para 5 anos e 10 meses de reclusão e 583 dias-multa, mantidos os demais termos do acórdão.
+Neste writ, a defesa alega que o paciente está sendo vítima de constrangimento ilegal, pois o Tribunal de origem não demonstrou a autoria do delito, limitando-se ao reconhecimento de suposta confissão feita pelo paciente à autoridade policial, sem observar os princípios do contraditório e da ampla defesa.
+Sustenta que a quantidade de entorpecentes apreendida é ínfima, razão pela qual o paciente faz jus ao reconhecimento da condição de usuário.
+Requer, liminarmente e no mérito, que o paciente aguarde o julgamento em liberdade e que a sentença seja restabelecida.
+O pedido de liminar foi indeferido, nos termos da decisão de fls. 41-42.
+As informações foram prestadas às fls. 47-67 e 68-70.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 72-78).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+Na hipótese, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Com relação à autoria e à materialidade do delito de tráfico de entorpecentes, assim decidiu o Tribunal de origem (fls. 22-28):
+ ..  E, na análise dos argumentos trazidos com o recurso, forçoso concluir, sempre respeitado o convencimento da ilustre Magistrada sentenciante, que a prova dos autos se mostrou suficiente ao reconhecimento da responsabilidade do réu no tráfico que lhe foi atribuído.
+De fato, o acusado foi preso em flagrante, quando trazia consigo quantidade razoável de cocaína e dinheiro trocado (fls. 11/12) e, ao ser interrogado perante a autoridade policial, admitiu que estava no local praticando o tráfico de entorpecentes quando foi abordado pelos policiais, que encontraram em seu poder as drogas e o dinheiro, fruto do comércio ilícito (fls. 17).
+Não bastasse isso, já naquela ocasião, foi incriminado pelos policiais civis David Ricardo Lebrum e Marcelo Alegria Zecchinelli, que estavam em diligência pelo local conhecido como ponto de venda de drogas e confirmaram a realidade dessa confissão, na medida em que o réu apresentou atitude bastante suspeita, razão pela qual foi abordado com as porções de cocaína e o dinheiro apreendidos (fls. 9 e 13).
+Como, então, a testemunha Marcelo Dantas Viegas afirmou que havia comprado uma pedra de crack do apelado momentos antes da abordagem (fls. 14), somente por esses elementos já se tinha razoável certeza a propósito da procedência da demanda.
+Mas não é só.
+Em juízo, agora sob as garantias do contraditório, a despeito da costumeira retratação, onde o acusado alegou que estava no local somente para usar entorpecentes com outras pessoas (registro audiovisual) atitude comum em delitos dessa natureza, onde o agente procura assumir a autoria de crime mais leve para tentar se livrar da pena corporal tem-se quea prova oral tornou definitiva a sua responsabilidade.
+É que os policiais ouvidos em juízo, em declarações coerentes com aquelas prestadas no flagrante, reafirmaram a realidade da abordagem do réu, depois de breve campana, e a apreensão de entorpecente e dinheiro em seu poder, ocasião em que admitiu que praticada o tráfico, fato corroborado pela testemunha Marcelo, que afirmou ter adquirido entorpecente do apelante (registro audiovisual). Essa prova é mais que suficiente para embasar o decreto condenatório.  ..
+No caso dos autos, os depoimentos dos policiais que participaram da diligência não mereceram contrariedade de qualquer outra prova; e como nenhum elemento concreto sugere que tivessem mesmo motivos para inventar a falsa incriminação, impossível negar valor à única prova direta da autoria.
+Em habeas corpus, é inviável apreciar alegações referentes à absolvição da prática do crime de tráfico de entorpecentes se as instâncias ordinárias consideraram incontroversas a materialidade e a autoria do delito com base na análise do acervo probatório e de modo fundamentado e decidiram pela condenação porquanto presentes as elementares do tipo penal, especialmente a apreensão de drogas.
+Também a questão da desclassificação da conduta, por demandar exame aprofundado dos elementos de prova constantes do inquérito e/ou da ação penal, não pode ser analisada na estreita via do habeas corpus (AgRg no HC n. 587.282/SP, relator Ministro Joel Ilan Paciornik, Quinta Turma, DJe de 8/9/2020).
+Ademais, segundo a jurisprudência consolidada desta Corte, "o depoimento dos policiais prestado em Juízo constitui meio de prova idôneo a resultar na condenação do réu, notadamente quando ausente qualquer dúvida sobre a imparcialidade dos agentes, cabendo à defesa o ônus de demonstrar a imprestabilidade da prova, o que não ocorreu no presente caso" (AgRg no HC n. 675.003/GO, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe 10/8/2021).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus .
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
