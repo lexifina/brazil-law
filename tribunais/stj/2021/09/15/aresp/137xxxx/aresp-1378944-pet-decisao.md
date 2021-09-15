@@ -1,0 +1,7 @@
+DECISÃO
+ANA CRISTINA CÂMARA TAVARES e MARCO AURÉLIO SILVA DOS SANTOS peticionam, às fls. 8.140-8.170, a fim de que seja reconhecida a possibilidade de acordo de não persecução penal.
+Entretanto, o pedido é manifestamente incabível, visto que trata de questão já abordada nos acórdãos de fls. 8.090-8.095 e 8.133-8.136, cuja análise acabou por afastar a pretensão deduzida também nesta oportunidade, por se tratar de inovação trazida nos embargos de divergência, os quais que nem sequer ultrapassaram o juízo de admissibilidade.
+Deveras, conforme ficou consignado à fls. 8.136, "no âmbito da divergência, ficou claramente assinalado que acórdão paradigma proferido em habeas corpus não se presta para a comprovação do dissenso interpretativo. Por se tratar de óbice preambular de admissibilidade, tal situação impede não só o exame da questão de mérito ventilada nos embargos de divergência, mas também a matéria posterior incidental trazida pelos insurgentes, até porque se trataria de inovação".
+Ainda que se cogite de sua aplicação a qualquer tempo, registro que advento da possibilidade de acordo de não persecução penal, previsto no art. 28-A do CPP, com redação dada pela Lei 13.964/2019, ocorreu em momento bem posterior ao oferecimento da denúncia no caso, situação que afasta a aplicação do benefício, conforme pacífica orientação desta Corte.
+Assim, com fundamento no art. 34. XVIII, "a", do RISTJ, não conheço do pedido.
+Publique-se e intimem-se.
