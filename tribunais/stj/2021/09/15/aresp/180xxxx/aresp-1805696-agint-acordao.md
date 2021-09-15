@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo interno, nos termos do voto do(a) Sr(a). Ministro(a)-Relator(a).
+Os Srs. Ministros Mauro Campbell Marques, Assusete Magalhães, Francisco Falcão e Herman Benjamin votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AÇÃO DE DESPEJO. VALOR DA INDENIZAÇÃO. RAZÕES RECURSAIS DISSOCIADAS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.
+1. As razões recursais delineadas no especial estão dissociadas do embasamento utilizado no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, osfundamentos, o que atrai a aplicação, por conseguinte, da Súmula 284/STF, a saber: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+2. Ademais, não houve o prequestionamento da tese recursal - no sentido de que não deve ser o valor total do contrato, mas sim o valor de mercado do imóvel, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+3. Agravo interno a que se nega provimento.
+RELATÓRIO
+Trata-se de agravo interno manejado pelo DISTRITO FEDERAL contra decisão da Presidência que conheceu do agravo para não conhecer do recurso especial (e-STJ, fls. 385-387).
+O agravante alega que há violação do art. 79, § 2º, da Lei n. 8.666/1993, defendo, em síntese, que a obrigação de indenizar o recorrido não deve ser do valor total do contrato, mas sim do valor de mercado do imóvel.
+Aduz que houve o prequestionamento da matéria e que não há incidência do óbice da Súmula 284/STF.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LOCAÇÃO. AÇÃO DE DESPEJO. VALOR DA INDENIZAÇÃO. RAZÕES RECURSAIS DISSOCIADAS DO ACÓRDÃO RECORRIDO. SÚMULA 284/STF.
+1. As razões recursais delineadas no especial estão dissociadas do embasamento utilizado no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, osfundamentos, o que atrai a aplicação, por conseguinte, da Súmula 284/STF, a saber: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+2. Ademais, não houve o prequestionamento da tese recursal - no sentido de que não deve ser o valor total do contrato, mas sim o valor de mercado do imóvel, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+3. Agravo interno a que se nega provimento.
+VOTO
+Não merece reparos a decisão recorrida.
+Ao apreciar a controvérsia, o Tribunal de origem consignou que a prerrogativa legal da administração pública de modificar unilateralmente o contrato administrativo não alcança as cláusulas econômico-financeiras e monetárias do pacto, uma vez que ostentam o caráter de imutabilidade eeventual alteração demanda a prévia concordância do contratado(e-STJ, fl. 300):
+Com efeito, em 14/07/2015, as partes firmaram Contrato de Locação de Imóvel regido pelas Leis de números 8.245/91 e 8.666/93, cujo valor mensal do aluguel foi estabelecido em R$ 15.020,00 (pág. 2 do ID10547005), bem como três Termos Aditivos, sendo que no Terceiro Termo Aditivo - 13/07/2018 - foi prorrogada a vigência do pacto (14/07/2018 a 13/07/2019) e reajustado o valor mensal da locação no percentual de 1,03% correspondente à variação do Índice Nacional de Preço ao Consumidor, que resultou no valor acordado de R$ 16.494,96, permanecendo inalteradas as demais cláusulas do contrato (págs. 27/29).
+Posteriormente, com base em Laudo de Avaliação Nº 574/2018 realizado pela Companhia Imobiliária de Brasília, que apurou o valor mensal do aluguel do imóvel locado em R$ 5.300,00 (cinco mil e trezentos reais- págs. 39/46 do ID 10547023), a Defensoria Pública do Distrito Federal determinou a intimação da Locadora, ora Apelada, e "por medida de cautela, a liberação, a partir dessa data, somente do pagamento parcial do contrato (R$ 5.300,00)" - outubro de 2018 - (págs. 50/51 do ID 10547023).
+Apresentada impugnação ao laudo elaborado pela TERRACAP, sobreveio, em 25/01/2019, Decisão da Defensoria Pública do Distrito Federal que rescindiu o contrato, autorizou o pagamento mensal, a título de indenização, do valor de R$ 5.300,00 pela ocupação do imóvel e determinou o início de procedimento administrativo "para a desocupação do imóvel com a máxima brevidade possível" (pág. 80 do ID 10547023).
+No entanto, a prerrogativa legal da Administração Pública de modificar, unilateralmente, o contrato administrativo não alcança as cláusulas econômico-financeiras e monetárias do pacto, uma vez que ostentam o caráter de imutabilidade e sua eventual alteração demanda a prévia concordância do contratado.
+Nos aclaratórios, foi ressaltado que (e-STJ, fl. 321):
+É certo que a ruptura do pacto locativo deu-se por decisão unilateral da Administração Pública em momento anterior ao término da locação, o que lhe impõe a obrigação de indenizar o Contratado pelos prejuízos decorrentes da rescisão (Art. 79, § 2º da Lei n. 8.666/93), sendo que, no caso, os valores previstos no Terceiro Termo Aditivo ao pacto devem ser observados até a efetiva desocupação do bem, sob pena de acarretar prejuízos ao Locador que ficará privado do poder de usar, dispor e usufruir do seu imóvel.
+Com efeito, as razões recursais delineadas no especial estão dissociadas do embasamento utilizado no aresto impugnado, tendo em vista que a parte recorrente não refutou, de forma específica, osfundamentos, o que atrai a aplicação, por conseguinte, da Súmula 284/STF, a saber: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia.".
+Ademais, diferentemente do alegado pela parte, não houve o prequestionamento da tese recursal - no sentido de que não deve ser o valor total do contrato, mas sim o valor de mercado do imóvel, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
