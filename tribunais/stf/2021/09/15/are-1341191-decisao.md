@@ -1,0 +1,43 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "EMENTA: APELAÇÃO CRIMINAL - JÚRI - HOMICÍDIO QUALIFICADO TENTADO - DESCLASSIFICAÇÃO PARA DISPARO DE ARMA DE FOGO EM VIA PÚBLICA —DECIS MANIFESTAMENTE CONTRÁRIAS À PROVA DOS AUTOS - CASSAÇÃO DO VEREDICTO - MEDIDA QUE SE IMPÕE. Em que pese constitucionalmente consagrada a soberania das decisões emanadas do Tribunal do Júri, mas constatada a hipótese de absolvição manifestamente contrária à prova dos autos, impõe-se cassar o veredicto para submeter o réu a novo julgamento."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5°, inciso XXXVII, alínea "c", da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "(...)
+    Como alhures relatado, o Ministério Público pleiteia a cassação do veredicto por ser manifestamente contrário à prova dos autos, devendo o acusado ser submetido a novo julgamento popular.
+     Compulsando os autos, penso razão assistir ao recorrente. Cediço que as decisões proferidas pelo Tribunal do Júri - juízo natural para o julgamento dos crimes dolosos contra a vida - são soberanas (ad. 5 0 , XXXVIII, da CR/88).
+    Em que pese a consagrada soberania dos veredictos, a decisão dos jurados, se manifestamente contrária à prova dos autos, desafiará mesmo cassação pelo Tribunal de Justiça, que remeterá o réu a novo julgamento popular.
+    Não é contrária à prova dos autos, mas nitidamente soberana, a decisão popular ancorada em qualquer das versões de prova coligidas para os autos, ainda que minoritária a vertente eleita.
+    In casu, após detida análise dos autos do processo, observa-se que a absolvição decretada pelo Tribunal Popular de fato é evidentemente contrária a todos os elementos de prova produzidos.
+    Vejamos.
+     A materialidade delitiva encontra-se positivada através do auto de apreensão de f. 37 e pelo laudo pericial de vistoria da blusa de moletom utilizada pela vítima que apresentava perfurações compatíveis com a transfixação de projéteis propelidos por arma de fogo.
+    Por sua vez, a autoria delitiva também se encontra sinalizada na prova oral coligida para os autos.
+     A saber.
+    Ouvido em sede embrionária, quando ainda crepitantes os fatos, a vítima Diego disse acreditar que Felipe e os inimputáveis Breno e Mateus tentaram lhe matar, relatando ameaças pretéritas proferidas pelo recorrente em razão da venda de drogas na região. Na oportunidade, noticiou que os autores do injusto teriam evadindo em uma Parati de cor branca e que o recorrente e os inimputáveis foram abordados nas imediações onde ocorreram os fatos. (f. 08)
+    Demais disso, o policial José Carlos da Costa, sob o crivo do contraditório (f. 342), confirmou haver recebido a informação de que os autores teriam fugido em um veículo Parati.
+     Aliás, quando inquirido em sede pré-processual, relatou haver Felipe admitido a propriedade de um veículo Parati branco, bem ainda haver dado carona ao adolescente Mateus. (f. 06)
+    Não é só, a testemunha Claudio Meio Amara!, perante o juízo (f. 341), confirmou suas declarações pré-processual (f. 02103), quando relatou haver abordado Felipe, o qual estava ao lado do veículo VW/Parati, de cor branca, como havia sido denunciado pelas testemunhas que viram os autores fugir do local dos fatos, esclarecendo que, dentro do automóvel, foram apreendidas peças de vestuário.
+    A propósito, quando ainda crepitantes os fatos, a vítima disse haver reconhecido o boné apreendido pelos policiais no interior da Parati.
+    Há também o relato de Wellington de Souza Franco informando ter avistado três indivíduos em perseguição ao ofendido. (f; 339)
+    Não bastasse, a prova testemunhal coligida para os autos também indica terem os agentes agido com animus necandi.
+     A vítima Diego, ao juízo, declarou ter sido vítima de disparos de arma de fogo, relatando ter sido perseguido por duas pessoas, um dos quais, o adolescente Breno. (f. 337)
+    Aliás, ouvido sob o crivo do contraditório, o adolescente Breno admitiu ter corrido atrás da vitima e efetuado seis disparos de arma de fogo.
+     A testemunha Wellington de Souza Franco, também inquirido sob o crivo do contraditório, informou 'que duas pessoas correram juntas, na mesma direção, no meio do mato; que enquanto uma pessoa corria atrás da vítima por um lado, os outros dois corriam como se fosse cercar a vítima do outro lado'. (f. 339)
+    Além disso, Wellington confirmou suas declarações embrionárias quando relatou haver escutado alguns estampidos vindos do fundo do campo de futebol e, em seguido, haver adentrado no campo a vítima Diego pedindo socorro relatando 'que estava passando pela trilha que liga os Bairros Fátima ao Esplanada, sendo cercado por outros indivíduos, sendo efetuados disparos de arma de fogo contra ele'. (f. 41)
+     Por sua vez, a testemunha João Tavares Gontijo Júnior, ao juízo, afirmou 'que a vítima gritava pedindo socorro e chamando "por um tanto de santo', noticiando ter ouvido comentários no local de que havia mais pessoas atrás da vítima. (f. 338)
+    (...)
+    Lado outro, verifica-se do laudo pericial de vistoria da blusa de moletom utilizada pela vítima que apresentava perfurações compatíveis com a transfixação de projéteis propelidos por arma de fogo.
+     Nesse panorama, conclui-se haver um nítido descompasso entre toda a prova amealhada aos autos e as teses absolutória e desclassificatória acolhidas pelo Conselho de Sentença.
+    Assim, resguardada a competência exclusiva do Tribunal do Júri, mas sendo a hipótese de decisão manifestamente contrária à prova dos autos, hei por bem cassar o veredicto que desclassificou o crime para disparo de arma de fogo, bem ainda absolveu dos delitos conexos (corrupção de menores) para determinar a sua submissão a novo julgamento."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. SÚMULA 279 DO STF. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 2. Ausência de omissão ao dever de fundamentar (AI 791.292 QO-RG, Rel. Min. Gilmar Mendes, Tema 339 da Repercussão Geral). 3. Agravo regimental a que se nega provimento” (ARE nº 1.053.745/MT-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 16/5/18).
+    “Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Matéria criminal. Tribunal do júri. Nulidades. Absolvição. Ausência de prequestionamento. Incidência das Súmulas nº 282 e 356 da Corte. Negativa de prestação jurisdicional (CF, art. 93, IX). Não ocorrência. Ofensa reflexa ao texto constitucional. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. A jurisdição foi prestada, na espécie, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente, tendo o Tribunal a quo explicitado suas razões de decidir, não havendo falar, portanto, em ofensa ao art. 93, inciso IX, da Constituição. 3. Conclusão em sentido diverso daquele do acórdão recorrido demandaria, na espécie, a análise da legislação infraconstitucional e o reexame aprofundado do conjunto fático-probatório dos autos, o que é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF. 4. Agravo regimental a que se nega provimento” (ARE nº 1.126.439/SP-ED-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 17/10/18).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 15 de setembro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
