@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial interposto pelaAGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, com respaldona alínea "a" do permissivo constitucional, contra acórdão do TRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ fl. 32):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO FISCAL. SISTEMASELETRÔNICOS DE PESQUISA. BACENJUD. JUNTADA DE EXTRATO. Realizada a consulta ao Sistema BACENJUD e certificado o resultado nos autos, não se exige a juntada do extrato da consulta. Precedentes deste Regional.
+Embargos de declaração rejeitados (e-STJ fls. 49/53).
+Em suas razões, a parte recorrente aponta violação do art. 1.022do Código de Processo Civil de 2015, porque "os embargos de declaração da autarquia visaram, além do prequestionamento explícito de dispositivos legais, que o TRF4 também se manifestasse a respeito da aplicação no caso dos artigos legais e constitucionais mencionados, a saber, art.189 do CPC e arts. 5, LX, 37 e 93, IX e X, da Constituição Federal" (e-STJ fl. 61)
+Juízo positivo de admissibilidade pelo Tribunal de origem à e-STJ fl. 72.
+Passo a decidir.
+Feita essa anotação, constata-se que o recurso especial não merece ser conhecido quanto à suposta violação doart. 1.022 do CPC/2015, porquanto esta Corte de Justiça tem decidido, reiteradamente, que a referida alegação deve estar acompanhada de causa de pedir suficiente à compreensão da controvérsia, com indicação precisa dos vícios de que padeceria o acórdão impugnado e sua revelância para a solução do feito.
+No caso, a recorrente limita-se a afirmar que a Corte a quo não realizou o prequestionamento explícito nem se manifestou sobre os dispositivosventilados nos embargos de declaração, sem indicar em que aspectos residiriam as omissões e sua relevância para o deslinde da controvérsia. Essacircunstância impede o conhecimento do recurso especial, à luz da Súmula 284 do Supremo Tribunal Federal.
+A propósito, cito os seguintes precedentes: AgInt no AREsp 1.245.152/PE, Relator Ministro FRANCISCO FALCÃO, Segunda Turma, DJe 08/10/2018, REsp 1.627.076/SP, Relator Ministra REGINA HELENA COSTA, Primeira Turma, DJe 14/08/2018, AgInt no AREsp 1.134.984/MG, Relator Ministro SÉRGIO KUKINA, Primeira Turma, DJe 06/03/2018;AgInt no REsp 1.720.264/MG, Relator Ministro MARCO AURÉLIO BELLIZZE,Terceira Turma, DJe 21/09/2018;REsp 1.875.920/SC, RelatorMinistro BENEDITO GONÇALVES, DJe 05/08/2020; eREsp 1.912.083/PR, RelatorMinistro OG FERNANDES, DJe 01/02/2021.
+Ante o exposto, com base no art. 255, §4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Publique-se. Intimem-se.
