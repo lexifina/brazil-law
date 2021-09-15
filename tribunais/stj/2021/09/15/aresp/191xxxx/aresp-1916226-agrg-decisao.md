@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ROBSON FERNANDO GENEROSOcontra decisão de e-STJ fls. 457/458, proferida pela Presidência do Superior Tribunal de Justiça, que não conheceu do seu agravo.
+Depreende-se dos autos que o ora agravante foi condenado, em Juízo de primeiro grau, como incurso nas sanções do art. 14 da Lei n. 10.826/2003, à pena de 2anos e 6meses de reclusão, em regime aberto, além de 12 dias-multa (e-STJ fls. 246/253).
+O Tribunal de origem negou provimento ao apelo defensivo, conforme a seguinte ementa (e-STJ fl. 317):
+- A expedição de guia de execução, nos termos da recente decisão do pleno do Supremo Tribunal Federal, prolatada nos autos do HC 126.292/SP, somente deverá ocorrer após o esgotamento de eventuais recursos nesta instância (embargos declaratórios e infringentes).
+V.V.
+APELAÇÃO CRIMINAL - PORTE IRREGULAR DE MUNIÇÕES DE USO PERMITIDO - ABSOLVIÇÃO - ERRO DE PROIBIÇÃO - NÃO CONFIGURAÇÃO - OFENSA AO PRINCÍPIO DA LESIVIDADE - NÃO CABIMENTO - DELITO DE PERIGO ABSTRATO - REDUÇÃO DA PENA - BASE - IMPOSSIBILIDADE - ANÁLISE ESCORREITA DAS CIRCUNSTANCIAS JUDICIAIS - AGENTE POSSUIDOR DE MAUS ANTECEDENTES. RECURSO NÃO PROVIDO. 01. Conforme dicção do art.21 do Código Penal, o desconhecimento da lei é inescusável, e, no caso concreto, não é crivei que o réu desconhecesse o caráter ilícito do ato de portar munições, sem a documentação necessária para tal. 02. Se o réu não comprova que portava munições sem possuir a potencial consciência da ilicitude de sua conduta (ou seja, por desconhecer o caráter proibido do seu agir, não tendo condições de perceber tal ilicitude), não se verifica a hipótese de erro de proibição, não havendo que se falar, portanto, em exclusão da culpabilidade por este motivo, nem em incidência da atenuante da ignorantia legis.03. Os delitos de perigo abstrato são aqueles que presumem de forma absoluta (presunção juris etdejure) uma situação de perigo a um determinado bem jurídico protegido. Significa dizer que a comprovação do perigo concreto, para tais delitos, não é imprescindível, já que a situação de dano é presumida pela lei. 04.O legislador, através de política criminal, presume, de maneira absoluta, o dano, com a finalidade de proteger de forma mais ampla e eficaz a tutela do bem jurídico, não sendo tal presunção arbitrária ou desvinculada da realidade, uma vez que o legislador a constrói a partir da constatação da existência de condutas particulares, que, pela experiência e lógica, revelam ínsita situação de perigo. 04. Se as circunstâncias judiciais do art. 59 do Código Penal foram analisadas corretamente pelo Juiz Sentenciante, incabível a minoração da pena-base.
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, a defesa apontou violação dos arts. 59 e 68 do Código Penal, alegando que, "ao aumentar da pena-base em 06 meses acima no mínimo legal, a Turma Julgadora não observou os princípios da proporcionalidade e da individualização das penas, muito menos a jurisprudência do Superior Tribunal de Justiça acerca da matéria" (e-STJ fl. 402).
+Contrarrazões às e-STJ fls. 420/421. O recurso especial não foi admitido (e-STJ fls. 427/430). A defesa interpôs agravo (e-STJ fls. 437/445).
+A Presidência desta Corte não conheceu do agravo por ausência de impugnação específica de fundamentos da decisão que havia inadmitido o recurso especial (e-STJ fls. 457/458).
+Irresignada, a parte interpõe o presente agravo regimental (e-STJ fls. 464/468), alegando que atacou adequadamente todos os fundamentos da decisão agravada.
+Requer, assim, a reconsideração do julgamento para que do agravo em recurso especial seja conhecido.
+É, em síntese, o relatório.
+Decido.
+Assiste razão ao agravante.
+É que, de fato, compulsando os autos, verifica-se que os fundamentos da decisão de inadmissibilidade do recurso especial foram suficientemente impugnados.
+Ante o exposto, dou provimento ao agravo regimental para determinar o regular processamento do agravo em recurso especial.
+Dê-se vista ao Ministério Público Federal para emissão de parecer.
+Publique-se. Intimem-se.
