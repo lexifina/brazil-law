@@ -1,0 +1,16 @@
+DECISÃO
+CHISOM AUSTIN UBAH alega ser vítima de coação ilegal em decorrência de acórdão proferido pelo Tribunal Regional Federal da 3ª Região (Apelação Criminal n.0001186-48.2019.4.03.6119).
+Consta dos autos que o paciente foi condenado à pena de 5 anos e 10 meses de reclusão, em regime inicial semiaberto, mais multa, pela prática do crime previsto no art. 33, caput, c/c o art. 40, I, ambos da Lei n. 11.343/2006.
+A defesa pretende, por meio deste writ, a aplicação da minorante prevista no § 4º do art. 33 da Lei de Drogas, com a consequente fixação do regime aberto e substituição da reprimenda privativa de liberdade por restritivas de direitos.
+Decido.
+Em consulta processual realizada na página eletrônica deste Superior Tribunal, verifico a anterior interposição do AREsp n. 1.843.355/SP, sendo que oreferido recurso, manejado pelo ora paciente,também seinsurgiu contra o acórdão aqui apontado como coator e pretendeu, em síntese, as mesmas questões das que foram pleiteadas neste writ.
+Esclareço, por oportuno, que o referido recurso já foi julgado por esta Corte, ocasião em que se afastou a apontada violação do art. 33, § 4º, da Lei n. 11.343/2006, com base nos seguintes fundamentos, no que interessa:
+Com efeito, para a aplicação da minorante em comento, é exigido, além da primariedade e dos bons antecedentes do acusado, que este não integre organização criminosa nem se dedique a atividades delituosas. Isso porque a razão de ser da causa especial de diminuição de pena prevista no art. 33, § 4º, da Lei n.11.343/2006 é justamente punir com menor rigor o pequeno traficante.
+A propósito, confira-se o seguinte trecho de voto deste Superior Tribunal: "Como é cediço, o legislador, ao instituir o referido benefício legal, teve como objetivo conferir tratamento diferenciado aos pequenos e eventuais traficantes, não alcançando, assim, aqueles que fazem do tráfico de entorpecentes um meio de vida." (HC n. 437.178/SC, Rel. Ministro Ribeiro Dantas, 5ª T., DJe 11/6/2019).
+No caso, conforme visto, a Corte regional, dentro do seu livre convencimento motivado, considerou, com base nos elementos concretos constantes dos autos, que as circunstâncias em que perpetrado o delito de tráfico transnacional de drogas não se compatibilizariam com a posição de quem não se dedica, com certa frequência e anterioridade, a atividades criminosas, notadamente ao narcotráfico. Fez menção, para tanto, à extensa ficha de movimentos migratórios no passaporte do réu, com a realização de várias viagens internacionais de curta duração, em pequeno período de tempo.
+Por tais razões, não há como se olvidar que, para entender de modo diverso, afastando-se a conclusão de que o agravante não se dedicaria a atividades criminosas, seria, sim, necessário o revolvimento do conjunto fático-probatório amealhado durante a instrução criminal, providência, como cediço, vedada em recurso especial, a teor do enunciado na Súmula n. 7 do STJ.
+Correta, portanto, a decisão ora agravada, ao haver conhecido do agravo para não conhecer do recurso especial.
+O acórdão que negou provimento ao agravo regimental foi publicado no DJe de 16/8/2021.
+Assim, tendo em vista que este habeas corpus se trata de mera reiteração de pedido, não se pode dele conhecer.
+À vista do exposto, nos termos do art. 210 do RISTJ, indefiro liminarmente o habeas corpus.
+Publique-se e intimem-se.
