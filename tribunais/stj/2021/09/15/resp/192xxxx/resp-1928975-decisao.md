@@ -1,0 +1,3 @@
+DECISÃO
+Nada a deferir quanto àjuntada de memorando sob o nº 00819221/2021, apresentadopor JULIO CESAR RODRIGUES SEBASTIÃO, ora recorrido, defls.230/250,e-STJ, na qual repeteas mesmas razões recursais elencadas em seuagravointerno atinente à incidência da Súmula 283/STJ, pois "não há impugnação específica ao fundamento que gerou o afastamento da prescrição na origem, qual seja, o da renovação sucessiva das avenças" (fl. 230, e-STJ) e àaplicabilidade da Súmula 7/STJ acerca da renovação sucessiva de contratos bancários;devendo, nestaoportunidade, as partesaguardaremo seu julgamento.
+Publique-se. Intimem-se.
