@@ -1,0 +1,18 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por ROBISON NEVES DA SILVA e OUTRO, à decisão de fls. 362/363, que não conheceu do recurso.
+Sustenta a parte embargante que:
+Insigne Min. Rel. Presidente, o Despacho que não admitiu o REsp foi publicado no dia 26/04/2021 e não no dia 19/11/2020, equivocadamente mencionado na Decisão guerreada, situação que macula o ato em comento de modo que se torna mister que seja submetido a imediata correção, sob pena de cerceamento de defesa e/ou nulidade.
+De tal sorte que, o prazo de quinze (15) dias aplicados para a interposição do recurso se encerrou no dia 15/05/2021 (sábado), razão pela qual, a protocolização ter sido promovida no próximo dia útil o dia, ou seja, dia 17/05/2021 (2ª Feira), razão pela qual o Decisum embargado congrega em seu bojo evidencia de contradição sobre a qual se denota erro material, que nos termos do art. 1.021 do CPC, devendo ser eliminada, suplantando-se o erro material, senão vejamos (fl. 376):
+ ..
+Ante o exposto requerem:
+O acolhimento dos Embargos de Declaração opostos para que este C. Superior Tribunal possa declarar a tempestividade do recurso de Agravo interposto, ato que se encontra revestido dos requisitos necessários à sua admissão, para que seja recebido nos efeitos ativo e suspensivo, com fins de suspender a Decisão que negou seguimento ao Recurso Especial na Apelação Cível a fim de que seja submetida a revisão pelo Colegiado e que, oportunamente, possibilite seu devido processamento c/c o seu provimento dando segmento então pretendido (fl. 383).
+Requer o conhecimento e acolhimento dos embargos declaratórios para que seja sanado o vício apontado.
+A parte embargada foi devidamente intimada para contra-arrazoar estes aclaratórios.
+É, no essencial, o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Cumpre esclarecer que o agravo interno não é o recurso cabível contra a decisão do Tribunal de origem em juízo de admissibilidade de recursos especiais não submetidos ao rito dos repetitivos. Assim, sua interposição equivocada não interrompe nem suspende o prazo para a apresentação do recurso cabível, que, no caso, é o agravo previsto no art. 1.042 do CPC. Nesse sentido, o AgInt no AREsp 1549441/MS, relator Ministro Gurgel De Faria, Primeira Turma, DJe de 12/3/2020; e AgInt no AREsp 1508918/MT, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 28/2/2020.
+Por fim, a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado evidencia mera insatisfação com o resultado do julgamento, não sendo a via eleita apropriada para tanto. Nesse sentido: EDcl no AgInt nos EDcl nos EAREsp 1202915/SP, relator Ministro Herman Benjamin, Corte Especial, DJe de 28/8/2019.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+No mais, julgo prejudicados os embargos de fls. 365/374, tendo em vista a preclusão consumativa com a oposição dos embargos de fls. 375/384.
+Publique-se. Intimem-se.
