@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de recurso em habeas corpusinterposto porRicardo Dornellescontra o acórdão prolatado pelo Tribunal de Justiça do Rio Grande do Sul no HC n.5068987-61.2021.8.21.7000/RS. Esta, a ementa do acórdão (fl. 56):
+HABEAS CORPUS. FURTO QUALIFICADO TENTADO. REQUISITOS DAPRISÃO VERIFICADOS. GARANTIA DA ORDEM PÚBLICA. REITERAÇÃODELITIVA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INAPLICABILIDADE NO CASO CONCRETO. PRISÃO MANTIDA.
+1. Extrai-se da leitura dos autos que, em 20.04.2021, por volta das 08h, o paciente RICARDO tentou subtrair um motor de portão eletrônico, delito que apenas não se consumou por circunstâncias alheias à sua vontade. Nesse contexto, em 05.05.2021,foi recebida a denúncia oferecida pelo Ministério Público em desfavor do paciente, dando-o como incurso nas sanções do artigo 155, §4º, incisos I e II, crime cometido na forma do artigo 14, inciso II, todos do Código Penal. Presente o fumus comissi delicti.
+2. Quanto ao periculum libertatis, basta breve leitura da sua certidão de antecedentes criminais para notar que o paciente possui condenações pelos crimes de roubo majorado, posse ou porte ilegal de arma de fogo de uso restrito e furto qualificado. Para além disso, analisando os sistemas informáticos deste Tribunal, visível que o paciente terminou de cumprir as penas privativas de liberdade oriundas de suas condenações em 18.01.2020 (PEC nº 31494-3). Circunstâncias pessoais que demonstram que o paciente voltou a dedicar-se à atividades criminosas, o que coloca a ordem pública em perigo concreto diante da alta probabilidade de reiteração delitiva.
+3. Ainda que a liberdade seja a regra no ordenamento jurídico pátrio, entendo que diante da reiteração delitiva do paciente as medidas cautelares diversas da prisão não possuiriam o condão de tutelar a ordem pública a contento.
+HABEAS CORPUS DENEGADO. UNÂNIME.
+Neste recurso, a defesa alega que o recorrente está preso, em tese, pelo crime de furto e que não estão presentes os requisitos da prisão preventiva.
+Menciona que a reincidência, por si só, não pode ser usada como fundamento para prisão preventiva(fl. 68).
+Requer o provimento do recurso a fim de que seja concedida a liberdade provisória em favor do recorrente ou, alternativamente, sejam aplicadas medidas cautelares diversas da prisão.
+Não houve pedido liminar.
+Contrarrazões às fls. 84/89.
+Prestadas as informações de praxe, o Ministério Público Federal opinou, pelas palavras do Subprocurador-Geral da República Renato Brill de Góes, pelo desprovimento do recurso.
+Em consulta à página eletrônicado Tribunal de Justiça do Rio Grande do Sul, observei que ainda não foi proferida sentença na ação penal objeto destes autos e, ainda, que, recentemente, o Magistrado indeferiu pedido da defesa de revogação da prisão preventiva.
+É o relatório.
+Na hipótese destes autos, insurgindo-se a defesa contra afundamentação da prisão preventiva, requer sejaconcedida ao recorrentea liberdade provisória ou, alternativamente, sejam aplicadas medidas cautelares diversas da prisão.
+Contudo,não verifiquei constrangimento ilegal apto a ensejaro provimento do recurso.
+Vejamos, no ponto, o que consta do acórdão impugnado (fl. 55 - grifo nosso):
+ ..
+Quanto ao periculum libertatis, ao paciente é imputada a prática do crime de furto qualificado pela escalada e pelo rompimento de obstáculo à subtração da coisa, crime apenado com até 8 anos de reclusão. As circunstâncias e as consequências foram as ordinárias esperadas para o tipo penal em apreço. A coisa subtraída foi restituída para a vítima.
+Quanto às condições pessoais do paciente, basta breve leitura da sua certidão de antecedentes criminais para notar que RICARDO possui condenações pelos crimes de roubo majorado (037/2.07.0002494-3, 037/2.07.0007450-9, 037/2.08.0005658-8), posse ou porte ilegal de arma de fogo de uso restrito (037/2.07.0006859-2) e furto qualificado (038/2.14.0005502-3). Para além disso, analisando os sistemas informáticos deste Tribunal, visível que RICARDO terminou de cumprir as penas privativas de liberdade oriundas de suas condenações em 18.01.2020 (PEC nº31494-3).
+Dessa maneira, ainda que a gravidade do delito não desborde da ordinária, em cerca de um ano após o término das penas privativas de liberdade outrora impostas, em sua grande maioria por crimes contra o patrimônio, RICARDO voltou a dedicar-se à subtração do patrimônio alheio, o que coloca a ordem pública em perigo concreto diante da alta probabilidade de que, uma vez em liberdade, volte a cometer crimes, desaconselhando, assim, a sua liberdade neste momento.
+Ainda que a liberdade seja a regra no ordenamento jurídico pátrio, entendo que diante da reiteração delitiva do paciente as medidas cautelares diversas da prisão não possuiriam o condão de tutelar a ordem pública a contento.
+ ..
+Assim, da leitura dotrechoacimaobserva-se quehá fundado receio de reiteração delitiva por partedo recorrente, o que demonstra a necessidade demanutenção da prisão cautelar.
+Nesse sentido, apropósito, já decidiu o Supremo Tribunal Federal quese ohistóricocriminal do réu indica risco de reiteração delitiva, está justificadaa decretação ou a manutenção da prisão cautelar para resguardar a ordempública,desde que igualmente presentes boas provas da materialidade e daautoria(HC n. 103.027/SP, Ministro Marco Aurélio (Ministra Rosa Weber,Relatora para o acórdão), Primeira Turma, DJe 156, Divulg. 9/8/2013, Public. 12/8/2013 - grifo nosso).
+Nessa mesma linha, entende esta Corte Superior de Justiça que não háilegalidade na manutenção da prisão preventiva quando demonstrado, combase em fatores concretos, que a segregação se mostra necessária, dada agravidade da conduta incriminada e o histórico criminal do agente (HC n.291.497/SP, Ministro Jorge Mussi, Quinta Turma, DJe 3/3/2017).
+E mais: RHCn. 75.577/MG, Ministro Reynaldo Soares da Fonseca, Quinta Turma, DJe10/2/2017; e RHC n. 75.724/RN, Ministro Antônio Saldanha Palheiro, SextaTurma, DJe 3/10/2016.
+Com razão o nobre Subprocurador-Geral da República quando destacou, em seu parecer, queo pleito de revogação da preventiva não merece prosperar, eis que as instâncias ordinárias mantiveram a custódia cautelar do ora recorrente, com fundamento na garantia da ordem pública, notadamente, em razão do risco concreto de reiteração delitiva, tendo em vista que o recorrente ostenta condenações pretéritas por crimes contra o patrimônio, bem como por haver terminado de cumprir as penas privativas de liberdade pelos referidos delitos em janeiro de 2020, voltando a delinquir apenas um ano depois, ao praticar delito de mesma natureza(fl. 111).
+Ante o exposto, à vista do parecer e dos precedentes,nego provimentoao recurso.
+Publique-se.
+EMENTA
+RECURSO EMHABEAS CORPUS. FURTO QUALIFICADO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. RISCO DE REITERAÇÃO DELITIVA. HISTÓRICO CRIMINAL CONTURBADO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. PARECER ACOLHIDO.
+Recurso improvido.
