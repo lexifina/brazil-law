@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA ESPECIAL.IMPOSSIBILIDADE. CERCEAMENTO DO DIREITO DE DEFESA. SÚMULA 7/STJ. COISA JULGADA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O reexame de matéria de prova é inviável em sede de recurso especial(Súmula 7/STJ).
+2. "É inadmissível o recurso extraordinário, quando a decisão recorridaassenta em mais de um fundamento suficiente e o recurso não abrange todoseles". (Súmula 283/STF).
+3. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno apresentado por Paulo Ferreira Garcia Filhocontra decisão monocrática assim ementada:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. APOSENTADORIA ESPECIAL. VIOLAÇÃO A DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE. CERCEAMENTO DO DIREITO DE DEFESA. SÚMULA 7/STJ. COISA JULGADA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+O agravante aduz, em suma, a inaplicabilidade da Súmula 7/STJ quanto à alegação de cerceamento do direito de defesa e que inexistem pedidos diversos na ação trabalhista e na presente. Ressalta ainda queconforme o PPPo recorrente estava exposto à agentes nocivos, fazendo jus ao recebimento de aposentadoria especial.Por fim, requer a reconsideração dadecisão agravada ou a apreciação colegiada da controvérsia.
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL.APOSENTADORIA ESPECIAL.IMPOSSIBILIDADE. CERCEAMENTO DO DIREITO DE DEFESA. SÚMULA 7/STJ. COISA JULGADA. FUNDAMENTO AUTÔNOMO NÃO IMPUGNADO. SÚMULA 283/STF. AGRAVO INTERNO NÃO PROVIDO.
+1. O reexame de matéria de prova é inviável em sede de recurso especial(Súmula 7/STJ).
+2. "É inadmissível o recurso extraordinário, quando a decisão recorridaassenta em mais de um fundamento suficiente e o recurso não abrange todoseles". (Súmula 283/STF).
+3. Agravo interno não provido.
+VOTO
+O Tribunal a quo indeferiu o pleito de produção deprova pericial, de acordo com o seu livre convencimento, ao fundamento de que a juntada do PerfilProfissiográfico Previdenciárioerasuficientepara o deslinde da questão.
+Nesse contexto, a pretensão recursal encontra óbice na Súmula 7/STJ.
+Colacionam-se julgados, ilustrativamente:
+AGRAVO INTERNO. PREVIDENCIÁRIO. AUXÍLIO-ACIDENTE. AMPUTAÇÃO DO BRAÇOEM DECORRÊNCIA DE CÂNCER. INEXISTÊNCIA DE ACIDENTE. PRETENSÃO DE REEXAMEDE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA 7/STJ.
+1. O Tribunal de origem, soberano na análise das circunstâncias fáticase probatórias da causa, entendeu pela não ocorrência de acidente dequalquer
+natureza apto a ensejar a percepção do auxílio-acidente.
+2. Nesse toar, o argumento do agravante de que o câncer deveser interpretado como um acidente de qualquer natureza colide como entendimento da Corte de origem que consignou exatamente o contrário, oque atrai o óbice da Súmula 7/STJ. Precedentes.
+3. A necessidade de produção de determinadas provas, bem como oexame daquelas constantes dos autos, encontram-se submetidos ao princípiodo livre convencimento do juiz, em face das circunstâncias de cada caso,não sendo argumento apto a desafiar recurso especial aquele que, pormero descontentamento em razão do não acatamento da tese do recorrente,diz que o magistrado não deu a devida valoração ao conjunto probatório.Agravo interno improvido.
+(AgInt no AREsp 903.258/RS, Segunda Turma, Relator MinistroHumberto Martins, DJe 18/8/2016)
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. AGRAVO REGIMENTAL NO AGRAVO EMRECURSO ESPECIAL. PROVA PERICIAL PRODUZIDA. LIVRE CONVENCIMENTO DOJULGADOR. AUXÍLIO-ACIDENTE. ACÓRDÃO QUE, À LUZ DAS PROVAS DOS AUTOS,MORMENTE A PERICIAL, CONCLUIU PELA DESNECESSIDADE DE PRODUÇÃO DE PROVATESTEMUNHAL E PELA INEXISTÊNCIA DOS REQUISITOS PARA A CONCESSÃO DOBENEFÍCIO. ALEGADO CERCEAMENTO DE DEFESA. REVISÃO DA CONCLUSÃO ADOTADA NAORIGEM. IMPOSSIBILIDADE. SÚMULA 7/STJ. PRECEDENTES. AGRAVO REGIMENTALIMPROVIDO.
+I. O art. 131 do CPC consagra o princípio do livre convencimento motivado,segundo o qual o juiz é livre para apreciar as provas produzidas, bemcomo a necessidade de produção das que forem requeridas pelas partes,
+sendo-lhe lícito indeferir, fundamentadamente, na forma do art. 130 doCPC, as que reputar inúteis ou protelatórias, mediante a existência, nosautos, de elementos suficientes para a formação de seu convencimento.
+II. Restou consignado, no acórdão recorrido, que "a produção daprova testemunhal revela-se desnecessária, sobretudo em razão do Apelanteter sido examinado por perito oficial, que se manifestou sobre todasas questões submetidas à sua análise, tendo apresentado laudoconclusivo acerca da questão discutida nos autos". Assim, para infirmar asconclusões do julgado seria necessário, inequivocamente, incursão naseara fático-probatória, inviável, na via eleita, a teor do enunciadosumular 7/STJ.
+III. Conforme concluiu o Tribunal de origem, "a prova pericial(fls. 141-146) produzida nos autos foi conclusiva quanto à ausência denexo causal entre a patologia sofrida pelo Apelante e sua atividadelaborativa, razão pela qual não faz jus ao benefício acidentáriopleiteado".
+IV. Assim sendo, a reforma do acórdão implicaria, necessariamente,no reexame do quadro fático-probatório delineado nas instânciasordinárias,providência obstada, no âmbito do Recurso Especial, nos termos daSúmula 7/STJ.
+V. Agravo Regimental improvido.
+(AgRg no AREsp 741.586/ES, Segunda Turma, Relatora MinistraAssusete Magalhães, DJe 17/11/2015)
+No que pertine à existência de coisa julgada na Justiça Trabalhista, o Tribunal de origem decidiu nos seguintes termos, in verbis:
+Quanto à sentença trabalhista juntada aos autos (folhas 133/142), trata-se de reclamação trabalhista ajuizada pelo autor em face da Sociedade Universitária Gama Filho e suas sucessoras, na qual foi deferido o pagamento de adicional de insalubridade ao autor em razão do exercício da função de professor de aula prática de cirurgião dentista junto à referida universidade.
+Na referida reclamação trabalhista, o deferimento do adicional de insalubridade baseou-se em PPP que informava a exposição do autor a sangue, saliva e secreções.
+Deve ser ressaltado que a decisão proferida na seara trabalhista não tem espectro diverso do pedido formulado em face do INSS, eis que além de não serem iguais, os parâmetros utilizados para decisão são diversos.
+Com efeito, da leitura da petição do recurso especial, verifica-se que orecorrente não refutou o fundamento autônomo utilizado pelo acórdão a quocapaz de manter a totalidade da condenação no ponto, qual seja: a existência de pedidos diversos nas duas ações.
+Aplica-se, portanto, o óbice daSúmula 283/STF, que dispõe in verbis:"É inadmissível o recursoextraordinário, quando a decisão recorrida assenta em mais deum fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL. PREVIDENCIÁRIO. REVISÃO DA RENDA MENSAL INICIAL DO BENEFÍCIODE APOSENTADORIA. PRESCRIÇÃO. FUNDAMENTOS DO ACÓRDÃO INATACADOS. SÚMULA283/STF.
+I - O fundamento do acórdão recorrido para afastar a prescrição, qualseja, a ciência do beneficiário acerca da não aplicação do IRSM defevereiro de 1994 no cálculo da Renda Mensal Inicial somente no ano de2009, com o recebimento da primeira parcela do beneficio concedido porforça de decisão judicial, não foi impugnado nas razões do recursoespecial.
+II - A falta de combate a fundamentos do acórdão recorrido suficiente paramantê-lo atrai, por analogia, a aplicação da da Súmula 283 do ColendoSupremo Tribunal Federal: É inadmissível o recurso extraordinário, quandoa decisão recorrida assenta em mais de um fundamento suficiente e
+o recurso não abrange todos eles.
+III - Agravo regimental não provido.
+(AgRg no AREsp 35.711/SC, Quinta Turma, Relatora Ministra ReginaHelena Costa, julgado em 8/10/2013, DJe 11/10/2013)
+PROCESSUAL CIVIL E CIVIL. AGRAVO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DECOBRANÇA. SEGURO DPVAT. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL E DESÚMULA. DESCABIMENTO. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 282/STF.HARMONIA ENTRE O ACÓRDÃO RECORRIDO E A JURISPRUDÊNCIA DO STJ. FUNDAMENTODO ACÓRDÃO NÃO IMPUGNADO. SÚMULA 283/STF.  ..
+- A existência de fundamento do acórdão recorrido não impugnado - quando
+suficiente para a manutenção de suas conclusões - impede a apreciação do
+recurso especial.
+- Agravo no agravo em recurso especial não provido.
+(AgRg no Aresp 26.317/MT, Terceira Turma, Relatora MinistraNancy Andrighi, DJe 10/2/2012)
+Por fim, o Tribunal de origem concluiu que o agravante não estava exposto de maneira habitual e permanente aos agentes nocivos, conforme se observa do seguinte trecho dos autos:
+A atividade de dentista tem a insalubridade reconhecida pelos Decretos nº 53.831/64 (item2.1.3) e nº 83.080/79 (item 2.1.3), até a vigência da Lei nº 9.032/95, quando passou-se a exigir a comprovação da efetiva exposição aos agentes nocivos. Após 28/04/1995, para o reconhecimento da especialidade de algum período, deve haver a comprovação da exposição aos agentes nocivos de forma habitual e permanente, não somente pelo exercício de atividade elencada nos anexos dos decretos previdenciários. No caso dos autos, para comprovação do tempo especial requerido, 01/09/1985 a 12/04/2011,trabalhado na Sociedade Universitária Gama Filho, o autor apresentou o Perfil Profissiográfico Previdenciário (PPP) de folhas 42/43 e 808/809, nos quais verifica-se que exercia a profissão de professor do curso de Odontologia e não de cirurgião dentista, como alegado. Nas atividades descritas no formulário apresentado (campo 14.2), verifica-se que o autor ministrava aulas para os alunos de graduação do curso de Odontologia, atendia dúvidas relativas às disciplinas lecionadas, preparava e organizava material para utilização em aula e elaborava, aplicava e corrigia avaliações relativas às disciplinas lecionadas. Depreende-se da descrição das atividades que o autor não atuava como cirurgião dentista, e sim como Professor Universitário do curso de Odontologia, e mesmo considerando a ocorrência de aulas práticas, não há comprovação de exposição habitual e permanente a agentes nocivos infecto-contagiosos hábeis a caracterizar a especialidade do trabalho.
+(..)
+A função de Dentista somente pode ter a insalubridade reconhecida, presumidamente, para fins previdenciários, pelo enquadramento no item 2.1.3 dos Decretos nº 53.831/64 e nº 83.080/79,até a vigência da Lei nº 9.032/95. Após, deve ser comprovada a efetiva exposição habitual e permanente a agentes nocivos, que no caso de agentes biológicos são aqueles infecto-contagiosos como vírus, fungos, bactérias e microorganismos patogênicos. No presente caso, a descrição dos agentes como sangue, saliva e secreções, tal qual consta dos formulários PPP apresentados nos autos, não autoriza o reconhecimento de tempo especial. Além disso, nem mesmo a atividade em consultório odontológico restou caracterizada, tendo em vista que as atividades realizadas pelo autor são de natureza acadêmica.
+Destarte, rever o entendimento firmado acerca da especialidade ou não da atividade exercida, para fins de reconhecimento de tempo especial, implica, necessariamente, reexame dos fatos e das provas constantes dos autos, providência inviável em sede de recurso especial ante o óbice da Súmula 7/STJ.
+Nesse sentido:
+PREVIDENCIÁRIO. RECONHECIMENTO DE TEMPO DE SERVIÇOESPECIAL. EXERCÍCIO DE ATIVIDADE COM EXPOSIÇÃO A AGENTES NOCIVOS. AUSÊNCIA DE COMPROVAÇÃO DOCUMENTAL. NÃO CONFIGURADA HABITUALIDADE E PERMANÊNCIA. ENTENDIMENTO DA CORTE DE ORIGEM. IMPOSSIBILIDADE DE REVISÃO. ÓBICE DA SÚMULA 7/STJ.1. No tocante ao exercício de atividade com exposição a agente nocivo, a matéria já foi decidida pela Primeira Seção deste Tribunal, pelo rito dos recursos repetitivos, nos termos do art. 543 do CPC, no qual foi chancelado o entendimento de que: "À luz da interpretação sistemática, asnormas regulamentadoras que estabelecem os casos de agentes e atividades nocivos à saúde do trabalhador são exemplificativas, podendo ser tido como distinto o labor que a técnica médica e a legislação correlata considerarem como prejudiciais ao obreiro, desde que o trabalho seja permanente, não ocasional, nem intermitente, em condições especiais" (art. 57, § 3º, da Lei 8.213/1991)." (REsp 1.306.113/SC, Rel. Ministro HermanBenjamin, DJe 7/3/2013).2. O Tribunal de origem, baseado nas provas acostadas aos autos, entendeu pela ausência de comprovação documental da exposição a agente nocivo, bem como pela não comprovação de habitualidade e permanência da exposição debatida. Não pode esta Corte Superior rever tal entendimento, a teor da Súmula 7/STJ.3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1126121/SP, Primeira Turma, Relator Ministro Sérgio Kukina, julgado em 21/11/2017, DJe 27/11/2017)
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
