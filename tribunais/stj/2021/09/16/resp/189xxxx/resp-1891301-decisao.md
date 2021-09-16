@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de recurso especial interposto por LINDOMAR SOARES DIAS, com fundamento no art. 105, III,alínea "a", da Constituição Federal, contra o acórdão proferido peloTribunal de Justiça do Estado do Rio de Janeiro assim ementado:
+"EMBARGOS DE DECLARAÇÃO - SUPRIMENTO DE OMISSÃO POR FORÇA DE DETERMINAÇÃO DE TRIBUNAL SUPERIOR - A APELAÇÃO INTERPOSTA PELO RÉU ANTES DO JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO CONFIGURA MERA IRREGULARIDADE PROCESSUAL, SOBRETUDO QUANDO SE VERIFICA QUE OS EMBARGOS OPOSTOS PELO AUTOR FORAM REJEITADOS - DESNECESSIDADE DE RATIFICAÇÃO DAS RAZÕES DO RECURSO - O CONHECIMENTO E PROVIMENTO DO APELO DO RÉU, PARA JULGAR IMPROCEDENTE A PRETENSÃO DO AUTOR E, POR CONSEGUINTE, PREJUDICADA A APELAÇÃO DESTE, INVIABILIZA O CONHECIMENTO DAS DEMAIS QUESTÕES POR ELE SUSTENTADAS EM SEDE DE EMBARGOS DE DECLARAÇÃO - PROVIMENTO DO RECURSO" (e-STJ fl. 738).
+No recurso especial, o recorrente aponta, em síntese, a violação dos arts. 1.022 doCódigo de Processo Civil de 2015, 186, 187, 406, 927 e 944 do Código Civil de 2002 e6º, VI, VIII, e 14do Código de Defesa do Consumidor.
+Sustenta, em síntese:
+(i) negativa de prestação jurisdicional porque o Tribunal de origem,apesar de instado pela decisão proferida no REsp 1.738.465/RJ, deixou de semanifestar expressamente acerca dodébito de parcelas indevidas e quanto àausência depacto expresso a definir a taxa de juros e respectiva capitalização;
+(ii) ilegalidade de extinção unilateral do contrato e respectivarepactuação sem a anuência do autor, além da ausência de contratação detaxa de juros definida, bem como sua capitalização, e
+(iii) existência de dano moral.
+Após a apresentação de contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência doCódigo de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e3/STJ).
+A pretensão merece acolhimento no tocante à alegada negativa de prestaçãojurisdicional (artigos 1.022 do Código de Processo Civil de 2015 e 535 doCPC/1973).
+Compulsando os autos, verifica-se que, não obstante a oposição de declaratórios, a Corte local permaneceu silente quanto ao requerimento demanifestação expressa acerca daextemporaneidade da apelação da partecontrária, àexistência de débito de quantias indevidas e àausência de pacto expresso a definir a taxa de juros e respectivacapitalização, haja vista a extinção unilateral do contrato firmado entreas partes e repactuação de novos termos sem a sua anuência.
+Tratam-se de matérias relevantes que demandavam pronunciamento dainstância ordinária, especialmente porque reformou a sentença que,mediante análise das provas juntadas e da perícia, havia reconhecido afalta de comprovação da repactuação do contrato, bem como da anuência arespeito das taxas praticadas.
+Observa-se que, mesmo instado a se manifestar acerca da ausência de pactuação de taxa de juros definida, além da respectiva capitalização, no REsp 1.738.465/RJ, a Corte de origem persistiu na omissão, ao declinar que,
+"(..) tendo sido conhecido o apelo da instituição financeira, o qual foi provido para julgar improcedentes os pedidos formulados na petição inicial, resta prejudicada a análise dos demais argumentos veiculados pelo Autor em seu apelo e reiterados em sede de embargos de declaração contra o V. Acórdão proferido por esta Colenda Câmara" (fl. 740 e-STJ).
+Ora,o provimento do apelo da instituição financeira não serve como fundamento para legitimar os encargos exigidos. É justamente quanto a esse ponto que se insurge a parte recorrente, e sem o exame da matéria de fato pela Corte de origem, não é possível a este Tribunal Superior aferir a legalidade da taxa de juros pactuada, além da respectiva capitalização.
+Neste sentido:
+"PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPCCONFIGURADA. OMISSÃO SOBRE A QUESTÃO REFERENTE À LEGITIMIDADE ATIVA PARAQUESTIONAR A COBRANÇA DE ICMS. MATÉRIA DE ORDEM PÚBLICA. CONHECIMENTO DEOFÍCIO PELO TRIBUNAL A QUO. POSSIBILIDADE.
+1. De acordo com o art. 535 do Código de Processo Civil, os embargosdeclaratórios são cabíveis quando houver, na sentença ou no acórdão,obscuridade ou contradição, ou quando for omitido ponto sobre o qual sedevia pronunciar o juiz ou tribunal.
+2. A ausência de legitimidade ativa, por se tratar de uma das condições daação, é matéria de ordem pública cognoscível a qualquer tempo e grau,sendo insuscetível de preclusão nas instâncias ordinárias. Ressalte-seque, em se tratando de matéria de ordem pública, pode ser alegada nainstância ordinária a qualquer tempo, podendo inclusive ser conhecida deofício.
+3. No caso concreto, o Tribunal de origem, mesmo com a oposição dosembargos de declaração, não se manifestou acerca da legitimidade ativapara se questionar a cobrança de ICMS quanto à demanda contratada deenergia elétrica. Tal ponto é de grande relevância para a demanda.
+4. Recurso especial provido" (REsp 1.252.842/SC, Rel. Ministro MAUROCAMPBELL MARQUES, SEGUNDA TURMA, julgado em 07/06/2011, DJe 14/06/2011).
+"PROCESSO CIVIL EMBARGOS DE DECLARAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DEPRESTAÇÃO JURISDICIONAL. NULIDADE DO ACÓRDÃO.
+1. Os embargos de declaração, de regra, não autorizam a reapreciação doquanto decidido, porém nada impede que, constatada a existência deomissão, o seu suprimento implique modificação no resultado do julgamento.Precedentes.
+2. Constatada a existência de omissão não sanada no acórdão proferido peloTribunal Estadual, a despeito da interposição de embargos de declaração, éde rigor o reconhecimento de violação do art. 535 do CPC, por negativa deprestação jurisdicional, com a determinação de retorno dos autos à origempara que se realize novo julgamento.
+3. Recurso especial provido" (REsp 1.091.966/DF, Rel. Ministra NANCYANDRIGHI, TERCEIRA TURMA, julgado em 08/02/2011, DJe 14/02/2011).
+Ante o exposto, dou provimento ao recurso especial para determinar adevolução dos autos ao Tribunal de origem para que realize novo julgamentodos embargos de declaração de fls. 613/616, e-STJ, a fim de que expressamente se manifeste acerca da taxa de juros efetivamente pactuada pelas partes, da respectiva capitalização, além da legalidade da cobrança de referidos encargos. Prejudicadas as demaisquestões.
+Publique-se.
+Intimem-se.
