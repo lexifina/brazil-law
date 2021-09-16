@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de recurso especial interposto porJEFFERSON LUIZ CARIATI DA SILVA com fundamento no art. 105, III, a e c, da Constituição Federal, contra acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 2ª REGIÃO, assim ementado:
+PREVIDENCIÁRIO. APELAÇÃO CÍVEL. APOSENTADORIA ESPECIAL. FATOR DE RISCO ELETRICIDADE. EXPOSIÇÃO AO AGENTE NOCIVOCOMPROVADA POR PERÍODO INSUFICENTE PARA OBTENÇÃO DOBENEFÍCIO. RECURSO DO AUTOR DESPROVIDO.
+1. No caso do risco eletricidade, o item 1.1.8 do quadro anexo do Decreto nº53.831/64 classificava como serviço perigoso para fins de aposentadoria especial as "operações em locais com eletricidade em condições de perigo devida", quanto aos "trabalhos permanentes em instalações ou equipamentos elétricos com risco de acidentes - eletricistas, cabistas, montadores e outros", observando que essa classificação pressupunha "jornada normal ou especial fixada em lei em serviços expostos a tensão superior a 250 volts".
+2. Na hipótese dos autos, não obstante o reconhecimento da especialidade do período de 06/03/1997 a 31/10/1997, o autor não atinge os 25 (vinte e cinco) anos trabalhados em condições exclusivamente especiais, tempo mínimo necessário à concessão da aposentadoria especial prevista no artigo 57 da Lei 8.213/94.
+3. Apelação desprovida.
+Os embargos de declaração opostos foram rejeitados.
+No presente recurso especial, o recorrente aponta como violadososarts. 369 e 472 do CPC, sustentando, em síntese, que a não realização da prova pericial requerida caracterizou indevido cerceamento de defesa.
+Apresentadas contrarrazões pela manutenção do acórdão recorrido.
+É o relatório. Decido.
+Não ocorre cerceamento de defesa nas hipóteses em que o juiz reputa suficientes as provas já colhidas durante a instrução. Isso porque o magistrado não está obrigado a realizar outras provas com a finalidade de melhor esclarecer a tese defensiva do réu, quando, dentro do seu livre convencimento motivado, tenha encontrado elementos probatórios suficientes para a sua convicção.
+Nesse sentido, in verbis:
+PREVIDENCIÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. BENEFÍCIO ACIDENTÁRIO CONCEDIDO. CERCEAMENTO DE DEFESA NÃO CARACTERIZADO. FUNDAMENTAÇÃO DO TRIBUNAL DE ORIGEM COM BASE NAS PROVAS DOS AUTOS E EM EXAME DO LAUDO PERICIAL. REALIZAÇÃO DE NOVA PERÍCIA. DESNECESSIDADE. SISTEMA DA PERSUASÃO RACIONAL.REEXAME FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA 7/STJ. DECISÃO MANTIDA.
+1. O STJ tem o entendimento de que compete ao magistrado, como destinatário final da prova, avaliar a pertinência das diligências que as partes pretendem realizar, segundo as normas processuais, e afastar o pedido de produção de provas, se estas forem inúteis ou meramente protelatórias, ou, ainda, se já tiver ele firmado sua convicção, nos termos dos arts. 370 e 371 do CPC/2015 (arts. 130 e 131 do CPC/1973).
+2. Desse modo, os princípios da livre admissibilidade da prova e da persuasão racional autorizam o julgador a determinar as provas que repute necessárias ao deslinde da controvérsia, e a indeferir aquelas consideradas prescindíveis ou meramente protelatórias. Não configura cerceamento de defesa o julgamento da causa sem a produção da prova solicitada pela parte, quando devidamente demonstradas a instrução do feito e a presença de dados suficientes à formação do convencimento.
+3. Assim, o exame da pretensão recursal de reforma do acórdão recorrido, quanto à alegação de cerceamento de defesa, exigiria o revolvimento e a alteração das premissas fático-probatórias estabelecidas pelo Tribunal a quo, o que é vedado em Recurso Especial, nos termos do enunciado de Súmula 7 do STJ.
+4. Agravo Interno não provido.
+(AgInt no AREsp 1816381/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 31/05/2021, DJe 01/07/2021)
+PROCESSUAL CIVIL E TRIBUTÁRIO. CDA. REQUISITOS. VERIFICAÇÃO.INVIABILIDADE. CERCEAMENTO DE DEFESA. REEXAME FÁTICO-PROBATÓRIO.IMPOSSIBILIDADE. PREQUESTIONAMENTO. AUSÊNCIA. MULTA. CONFISCO.MATÉRIA DE ÍNDOLE CONSTITUCIONAL. TAXA SELIC. LEGITIMIDADE.
+1. Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC (Enunciado n. 3 do Plenário do STJ).
+2. A verificação acerca do preenchimento dos requisitos de validade da Certidão de Dívida (CDA) pressupõe o reexame de matéria fático-probatória, o que é inviável no âmbito do recurso especial, ante o óbice da Súmula 7 do STJ.
+3. A jurisprudência do Superior Tribunal de Justiça é assente no sentido de que o juiz é o destinatário das provas e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, nos termos do princípio do livre convencimento motivado.
+4. Na hipótese dos autos, as instâncias ordinárias julgaram suficientes as provas apresentadas pela embargante e não houve discussão a respeito da possibilidade/necessidade de prova pericial.Incidência das Súmulas 7 do STJ e 282 do STF.
+5. O debate relativo à redução de multa com fundamento na observância dos princípios da proporcionalidade e da vedação ao confisco apresenta índole constitucional.
+6. A Primeira Seção deste Superior Tribunal de Justiça, no julgamento do Recurso Especial repetitivo n. 1.073.846/SP (Rel. Min.Luiz Fux, DJe de 25/11/2009), firmou o entendimento de que "a Taxa SELIC é legítima como índice de correção monetária e de juros de mora, na atualização dos débitos tributários pagos em atraso, ex vi do disposto no artigo 13 da Lei 9.065/95".
+7. Agravo interno desprovido.
+(AgInt no AREsp 1515345/SC, Rel. Ministro GURGEL DE FARIA, PRIMEIRA TURMA, julgado em 24/05/2021, DJe 16/06/2021)
+PREVIDENCIÁRIO. BENEFÍCIO ACIDENTÁRIO. CERCEAMENTO DE DEFESA.PRODUÇÃO DE PROVA. INDEFERIMENTO. FACULDADE DO JUÍZO. CAPACIDADE LABORATIVA. IMPOSSIBILIDADE DE REEXAME DE PROVAS. SÚMULA 7/STJ.
+1.Esta Corte Superior possui firme entendimento no sentido de que "o juiz é o destinatário da prova e pode, assim, indeferir, fundamentadamente, aquelas que considerar desnecessárias, a teor do princípio do livre convencimento motivado." (AgRg no AREsp 342.927/SP, Rel. Ministro GURGEL DE FARIA, PRIM EIRA TURMA, julgado em 09/08/2016, DJe 12/09/2016).
+2. A concessão de benefício acidentário apenas se revela possível quando demonstrada a redução da capacidade laborativa, em decorrência da lesão, e o nexo causal.
+3. No caso, o Tribunal de origem, com base no laudo pericial, concluiu que não ficou evidenciado que a lesão sofrida tenha tido o condão de afetar a capacidade laborativa do autor, motivo pelo qual o benefício não seria devido. Entendimento que encontra respaldo na jurisprudência desta Corte.
+4. Assim, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+5. Agravo interno a que se nega provimento.
+(AgInt no AREsp 991.869/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 11/11/2019, DJe 18/11/2019)
+Ante o exposto, com fundamento no art. 255, § 4º, II, do RISTJ, nego provimento ao recurso especial.
+Publique-se. Intimem-se.
