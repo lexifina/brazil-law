@@ -1,0 +1,35 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu o recurso especial apresentado por JOSÉ FLORENTINO NARO, com base no art. 105, III, a e c, da Constituição Federal, desafiando acórdão assim ementado (e-STJ, fl. 190):
+AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER E COMPENSAÇÃO POR DANO MORAL, FUNDADA EM TERMO DE ADESÃO DE CARTÃO DE CRÉDITO CONSIGNÁVEL EM BENEFÍCIO PREVIDENCIÁRIO (RMC). APESAR DE O AUTOR TER AFIRMADO NA PETIÇÃO INICIAL QUE NÃO TINHA CIÊNCIA DA CONTRATAÇÃO DO CARTÃO DE CRÉDITO, A INSTITUIÇÃO FINANCEIRA COMPROVOU A CONTRATAÇÃO, A DISPONIBILIZAÇÃO DO CRÉDITO E A UTILIZAÇÃO DO PLÁSTICO PARA A REALIZAÇÃO DE COMPRAS, POR MEIO DA APRESENTAÇÃO DAS FATURAS. PREVISÃO LEGAL DO NEGÓCIO JURÍDICO NO ART. 6º DALEI Nº 10.820/2003, REGULAMENTADO PELA INSTRUÇÃONORMATIVA INSS Nº 28/2008. RECURSO DESPROVIDO.
+Nas razões do recurso especial (e-STJ, fls. 198-227), orecorrente alegou, além de divergência jurisprudencial, a violação aos arts. 6º,II, III, IV e V, 14, 39, 42 e 51,IV, do Código de Defesa do Consumidor.
+Sustentou, em síntese, ser indevida ilegal a cobrança efetuada a título de Reserva de Margem Consignável (RMC), porquanto decorrente defalta de informação clara ao consumidor, que acreditava tratar-se deempréstimo consignado.
+Ressaltou a diferença entre a modalidade de empréstimo consignadoe empréstimo consignado via saque no cartão de crédito, pugnando, ao final, pela reforma do acórdão recorrido e condenação da parte recorrido ao pagamento de indenização por danos morais.
+O Tribunal de origem deixou de admitir o recurso especial, tendo sido interposto agravo em recurso especial às fls. 267-275(e-STJ).
+Foi apresentada contraminuta às fls. 278-288(e-STJ).
+Brevemente relatado, decido.
+De início, é importante salientar que o presente recurso foi interposto contra decisão publicada já na vigência do Novo Código de Processo Civil, de maneira que é aplicável ao caso o Enunciado Administrativo n. 3 do Plenário do STJ, segundo o qual: "aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+Ao examinar a conjuntura fática dos autos, o Tribunal de Justiça asseverou que houve demonstração de efetiva contratação do serviço impugnado, aduzindo os seguinte fundamentos (e-STJ, fls. 193-194):
+Ocorre que, no presente caso, o apelado comprovou que o apelante efetivamente usou o plástico, o que afasta suas alegações de não tinha conhecimento de que contratou um cartão de crédito. Verifica-se na fatura de fls. 69/78, por exemplo, que o apelante utilizou o cartão para compras em diferentes estabelecimentoscomerciais, inexistindo, portanto, evidências de vícios de consentimento.
+Vale lembrar que a reserva de margem consignável em proventos de aposentadoria tem previsão legal no art. 6º da Lei nº 10.820/2003, regulamentado pela Instrução Normativa INSS nº 28/2008:
+Art. 6º. Os titulares de benefícios de aposentadoria e pensão do Regime Geral de Previdência Social poderão autorizar o Instituto Nacional do Seguro Social - INSS a proceder aos descontos referidos no art. 1º e autorizar, de forma irrevogável e irretratável, que a instituição financeira na qual recebam seus benefícios retenha, para fins de amortização, valores referentes ao pagamento mensal de empréstimos, financiamentos, cartões de crédito e operações de arrendamento mercantil por ela concedidos, quando previstos em contrato, nas condições estabelecidas em regulamento, observadas as normas editadas pelo INSS. (Redação dada pela Lei nº 13.172, de 2015).
+Instrução Normativa INSS nº 28/2008
+Art. 15. Os titulares dos benefícios previdenciários de aposentadoria e pensão por morte, pagos pela Previdência Social, poderão constituir RMC para utilização de cartão de crédito, de acordo com os seguintes critérios, observado no que couber o disposto no art. 58 desta Instrução Normativa:  ..
+Por fim, em razão dos motivos já expostos, notadamente a ausência de vício de consentimento, inexiste base legal para o acolhimento do pedido subsidiário de conversão do contrato.
+Como se depreende das razões expendidas, a Turma julgadora concluiu pela inexistência de vício de consentimento, salientando a efetiva contratação e o uso do cartão de crédito.
+Nesse sentido, dissentir das conclusões adotadas pelo Tribunal estadual encontra óbice na Súmula 7/STJ, ante a necessidade de reexame do contexto fático-probatório dos autos.
+A propósito:
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. BANCÁRIO. EMPRÉSTIMO CONSIGNADO. CARTÃO DE CRÉDITO. CONDIÇÕES E ENCARGOS FINANCEIROS ESPECIFICADOS NO CONTRATO. REVISÃO. IMPOSSIBILIDADE. REEXAME DE PROVAS E INTERPRETAÇÃO DE CLÁUSULAS CONTRATUAIS.
+1. Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).
+2. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.683.963/MG, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, julgado em 22/03/2021, DJe 25/03/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. CARTÃODECRÉDITO.ABUSIVIDADE. AFERIÇÃO. REEXAME DO CONTRATO E DO CONJUNTO FÁTICO-PROBATÓRIO DOS AUTOS. INADMISSIBILIDADE. INCIDÊNCIA DAS SÚMULAS N. 5 E 7 DO STJ. DECISÃO MANTIDA.
+1. O recurso especial não comporta o exame de questões que impliquem interpretação de cláusula contratual ou revolvimento do contexto fático-probatório dos autos (Súmulas n. 5 e 7 do STJ).
+2. O Tribunal de origem, com base na interpretação dos elementos de convicção anexados aos autos, concluiu pela caracterização do contrato como decartãodecrédito,pela ciência da parte quanto à modalidade de contratação e pela inexistência de abuso na taxa de juros remuneratórios praticada. A alteração das conclusões do julgado demandaria o reexame da matéria fática, o que é vedado em sede de recurso especial.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 1.518.620/MG, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, DJe 20.2.2020)
+Por fim, quanto ao dissídio jurisprudencial, tendo o Tribunal local concluído com base no conjunto fático-probatório, impossível se torna o confronto entre o paradigma e o acórdão recorrido, visto que a comprovação do alegado dissenso reclama consideração sobre a situação fático-probatória de cada julgamento, medida defesa nesta via excepcional, por força da Súmula n. 7 desta Corte.
+Ante o exposto, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do CPC/2015, majoro os honorários advocatícios em favor do advogado da parte ora recorrida em 2% (dois por cento) sobre o valor da causa, observada a gratuidade de justiça.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE INEXIGIBILIDADE DE DÉBITO C/C OBRIGAÇÃO DE FAZER E INDENIZAÇÃO POR DANOS MORAIS. CONTRATAÇÃO EFETIVADA. AUSÊNCIA DE VÍCIO DE CONSENTIMENTO. REVISÃO DAS CONCLUSÕES ALCANÇADAS NAS INSTÂNCIAS ESTADUAIS. IMPOSSIBILIDADE. SÚMULA 7/STJ. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
