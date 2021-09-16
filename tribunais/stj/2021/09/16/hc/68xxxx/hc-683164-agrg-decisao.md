@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de agravo regimental interposto por ROLNEY DE PASSOS GOMES PEREIRA DA SILVA contra decisão do Ministro Vice-Presidentedesta Corte, no exercício da Presidência, que indeferiu liminarmente a petição inicial (fls. 133-134).
+Em suas razões, o Agravante alega que a petição inicial não impugna decisão monocrática, mas acórdão proferido pelo Tribunal de Justiça do Estado de Goiás no HC n.5233921-20.2021.8.09.0000, ainda não publicado quando da impetração,de forma que não há que se falar em ofensa à Súmula 691/STF.
+Requer a reconsideração da decisão agravada.
+Verifico que assiste razão ao Agravante, motivo pelo qualreconsideroa decisão de fls. 133-134 e passo à apreciação do writ.
+Consta dos autos que o Paciente foi preso em flagrante, em 06/05/2021, pela suposta prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006, em razão da apreensão de962,95g de maconha, 103,948g de cocaína e 0,493g deecstasy, R$ 902,00 e uma agenda com anotações de vendas do tráfico. A prisão foi convertida em preventiva pelo Juízo de primeira instância.
+A Defesa impetrouhabeas corpusperante o Tribunal de origem, que conheceu em parte do pedido e, nesta parte, denegou a ordem.
+Nestewrit, a parte Impetrante alega que não houve fundamentação idônea para a decretação da prisão preventiva do Paciente e que não estão presentes os requisitos da custódia cautelar.
+Sustenta a ilicitude das provas pela indevida violação de domicílio do Paciente, sem mandado judicial e sem justa causa.
+Argumenta que o Paciente é primário, tem residência fixa e emprego lícito.
+Aduz que, caso condenado, o Paciente terá direito à minorante do § 4.º do art. 33 da Lei de Drogas, com a substituição da pena por restritiva de direitos e fixação de regime inicial diverso do fechado, de forma que a prisão é desproporcional.
+Requer, liminarmente e no mérito, seja reconhecido ao Paciente o direito de responder ao processo em liberdade.
+É o relatório. Decido.
+Verifico não ser possível analisar a viabilidade do pleito deduzido, diante da instrução deficitária dohabeas corpus, visto que a Parte Impetrante não acostou aos autos cópia das peças processuais que comprovem o alegado na inicial-não colacionou cópia do acórdão impugnado nestewrit  -, o que inviabiliza a análise do constrangimento ilegal alegado.
+Ressalte-se que, embora o acórdão não tivesse sido publicado quando da impetração, a publicação ocorreu em 30/08/2021, consoante os registros no endereço eletrônico do Tribunal de origem, e a Defesa foi intimada para complementar as razões recursais em 09/08/2021 (fl. 149), e não obstante, não procedeu à juntada do acórdão.
+Como se sabe, "a adequada instrução dohabeas corpus, ação de rito sumário e de limitado espectro de cognoscibilidade, é ônus do impetrante, sendo imprescindível que omandamusvenha aparelhado com provas documentais pré-constituídas, as quais devem viabilizar o exame das alegações veiculadas nowrit" (STF, HC 16.6543-AgR, Rel. Ministro LUIZ FUX, PRIMEIRA TURMA, julgado em 29/04/2019, DJe de 07/05/2019).
+A propósito, o art. 6.º do Código de Processo Civil dispõe que "todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável, decisão de mérito justa e efetiva". Ou seja, não compete apenas ao Estado-Juiz a condução da causa. É essencial que as partes formulem suas pretensões de forma clara, objetiva, acompanhadas dos documentos que amparem de forma precisa o direito invocado, tanto para evitar o prolongamento desnecessário da marcha processual, como o indeferimento de seus pedidos por questões formais que lhes competem observar.
+Nesse contexto, a petição inicial deve ser liminarmente indeferida, porque a Defesa não se desincumbiu do seu ônus de instruir adequadamente os autos.
+No mesmo sentido: RHC 112.662/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, DJe 30/05/2019; RHC 113.063/PR, Rel. Ministro JORGE MUSSI, DJe 23/05/2019; RHC 113.776/PR, Rel. Ministro FELIX FISCHER, DJe 10/06/2019; RHC 118.057/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 19/09/2019; RHC 113.276/PR, Rel. Ministro ROGERIO SCHIETTI CRUZ, DJe 29/05/2019; e RHC 112.496/PR, Rel. Ministro SEBASTIÃO REIS JÚNIOR, DJe 14/05/2019; AgRg no HC 526.388/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 05/09/2019, DJe 17/09/2019; AgRg no HC 586.212/BA, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 18/08/2020, DJe 26/08/2020.
+Ressalto que não há óbice ao manejo denovowritpara a análise da controvérsia,desde que seja juntada a documentação faltante.
+Ante o exposto, com fundamento nos arts. 34, inciso XX, e 210 do Regimento Interno do Superior Tribunal de Justiça, INDEFIRO LIMINARMENTE a petição inicial.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE DOCUMENTO ESSENCIAL À ANÁLISE DA CONTROVÉRSIA. PETIÇÃO INICIAL LIMINARMENTE INDEFERIDA.
