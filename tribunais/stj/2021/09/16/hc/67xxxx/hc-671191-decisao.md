@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ADRIANO MENESES DE SOUZA contra acórdão prolatado pelo Tribunal de Justiça do Estado de São Paulo.
+Depreende-se dos autos que o paciente foi condenado como incurso no art. 33, caput, da Lei nº 11.343/2006, e no art. 16, caput, da Lei nº 10.826/2003, às penas de 08 anos de reclusão, no regime inicial fechado, e 510 dias-multa.
+Irresignada, a defesa interpôs recurso de apelação ao Tribunal de origem, que deu parcial provimento do recurso, para desclassificar o delito do art. 16, caput, do Estatuto do Desarmamento para a rubrica do art. 14 da mesma Lei e readequar as sanções, para 07 anos de reclusão, em regime inicial fechado, 510 dias-multa, nos termos do acórdão juntado às fls. 196-208.
+No presente writ, o impetrante sustenta que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, vez que o paciente é primário, de bons antecedentes, bem como não há provas de que se dedique às atividades criminosas e nem que integre organizações criminosas.
+Além disso, sustenta a afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata docrime praticado.
+Requer, ao final, a concessão da ordem, para que incida o privilégio descrito no parágrafo 4º, do art. 33 da Lei n. 11.343/06, bem como a readequação do regime prisional, e a substituição da pena privativa de liberdade, por restritivas de direitos (fls. 3-9).
+O pedido liminar foi indeferido (fls. 285-286).
+As informações foram prestadas às fls. 292-316.
+O Ministério Público Federal, às fls. 318-321, manifestou-se nos termos da seguinte ementa:
+"PENAL. PROCESSO PENAL. HABEAS CORPUS SUBSTITUTIVO. DESCABIMENTO. NARCOTRÁFICO (376 INVÓLUCROS COM 333G DE COCAÍNA, 488 PEDRAS COM 165G DE CRACK, 86 PAPELOTES COM 150G CONTENDO MACONHA E 66 FRASCOS, CADA UM COM 10G DE LANÇA-PERFUME)E PORTE ILEGAL DE MUNIÇÃO, EM CONCURSO MATERIAL. CONDENAÇÃO RATIFICADA EM SEGUNDO GRAU COM REDUÇÃO DA PENA A 7 ANOS DE RECLUSÃO. PLEITO POR APLICAÇÃO DO REDUTOR DE PENA PREVISTO NO ARTIGO 33, §4º, DA LEINº 11.343/06. INVIABILIDADE, HAJA VISTA TRATAR-SE DE RÉU QUE SEDEDICA A ATIVIDADES DELITUOSAS. PLEITOS SUCESSIVOS PREJUDICADOS. PARECER POR NÃO CONHECIMENTO DO WRIT SUBSTITUTIVO EM RESPEITO À JURISDIÇÃO E LIMITES (COMPETÊNCIA)."
+É o relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Destarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante sustenta que não houve fundamentação idônea a justificar a não aplicação da redutora capitulada no parágrafo 4º, do art. 33 da Lei n. 11.343/06, vezque o paciente é primário, de bons antecedentes, bem como não há provas de que se dedique às atividades criminosas e nem que integre organizações criminosas.
+Além disso, sustenta a afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Quanto aospunctum saliens, opresente writ se trata de reiteração de pedido, de modo que,ascontrovérsias ora suscitadas já foram apreciadas e julgadas (HC n. 610627/SP), oportunidade em que o habeas corpus não foi conhecido, mas foi concedidaa ordemde ofício, para fixar o regime semiaberto para o início de cumprimento da pena.
+Nesse diapasão, oart. 210 do RISTJ dispõe que: "Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente."
+Ante o exposto, não conheço do presente habeas corpus.
+P. e I.
