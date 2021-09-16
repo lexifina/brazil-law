@@ -1,0 +1,37 @@
+DECISÃO
+Trata-se de habeas corpus com pedido de liminar impetrado em favor de FABIO PEREIRA THOMAZIN em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO ESPÍRITO SANTO (HC n. 0007815-20.2021.8.08.0000).
+O paciente foi preso em flagrante e teve a prisão convertida em preventiva pela suposta prática dos delitos previstos nos arts. 33 e 35, c/c o art. 40, III e VI, da Lei n. 11.343/2006.
+Em suas razões, o impetrante afirma a existência de constrangimento ilegal decorrente do excesso de prazo da prisão preventiva, porquanto o paciente está preso há 12 meses, sem que tenha sido iniciada a instrução criminal.
+Sustenta que o paciente só foi notificado 8 meses após a prisão, depois da impetração do writ no Tribunal a quo.
+Defende a incidência da Recomendação CNJ n. 62/2020.
+Aduz ausência de fundamentação idônea (art. 315, § 2º, do CPP) da decisão que determinou a prisão preventiva e do acórdão, pois, além de não terem sido demonstrados os requisitos da prisão (art. 312 do CPP), não há elementos que indiquem a periculosidade do paciente, que é primário e não possui maus antecedentes.
+Afirma que não fizeram alusão a fatos contemporâneos e não analisaram a possibilidade de aplicação de medidas cautelares alternativas.
+Requer, portanto, seja concedida a ordem a fim de que o paciente possa responder a o processo em liberdade ou seja substituída a preventiva por cautelares diversas da prisão, nos termos do art. 319 do CPP.
+O pedido de liminar foi indeferido às fls. 584-586.
+As informações foram prestadas às fls. 589-598.
+O Ministério Público Federal manifestou-se pelo não conhecimento do writ (fls. 600-612).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal, situação não presente nos autos.
+No que diz respeito à idoneidade da fundamentação utilizada para decretação da prisão preventiva, a discussão encontra-se prejudicada ante o enfrentamento da matéria pela Quinta Turma do STJ no julgamento do HC n. 660.796/ES.
+Na ocasião, no voto, destaquei o seguinte:
+Ademais, a prisão preventiva é cabível mediante decisão fundamentada em dados concretos, quando evidenciada a existência de circunstâncias que demonstrem a necessidade da medida extrema, nos termos dos arts. 312, 313 e 315 do Código de Processo Penal (HC n. 527.660/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 2/9/2020).
+No caso, está justificada a manutenção da prisão preventiva, pois foi demonstrado o preenchimento dos requisitos do art. 312 do CPP, não sendo recomendável a aplicação de medida cautelar referida no art. 319 do CPP, conforme consignado na decisão de fl. 351:
+Outrossim, em seu artigo 312 o Diploma Processual Penal estabelece que a prisão preventiva poderá ser decretada para garantia da ordem pública ou econômica, por conveniência da instrução ou para assegurar a aplicação da lei penal, quando houver prova da existência do crime e indício suficiente de autoria.
+ ..
+In casu, verifico que há nos autos prova da existência do crime e indícios suficientes de autoria, especialmente, pelos seguintes documentos: 1) BU n. 43066316/2020;2) declarações prestadas pelas testemunhas perante a autoridade policial (fls. 133/135); 3) Interrogatório dos acusados Fábio Pereira e Geraldo Henrique às fls. 135 e 142/143; 4) auto de apreensão de fl. 151 e auto de constatação de substância entorpecente de fl. 152; e 5) relatório final de inquérito policial de fls. 249/251, havendo portanto, justa causa para a manutenção da prisão preventiva (fumus commissi delicti).
+ ..
+Ainda de acordo com a denúncia e inquérito policial, o denunciado e seus comparsas foram flagrados com: 04 sacolas, contendo 130 gramas de cocaína; diversas sacolas de chup-chup; 01 balança de precisão; 01 frasco de ácido bórico; 01 liquidificador com vestígios de cocaína; além da quantidade R$ 75,00 reais em espécie. Ademais, restou constatado que Fábio e Geraldo transportaram a cafeína,(ácido bórico, Resfedryl e 50 gramas de pasta base até a casa de Geferson ,oportunidade em que, juntos, prepararam130 gramas de cocaína, o que renderia aproximadamente 65 a 70 papelotes de 2g, as quais seriam comercializadas a R$ 50,00 a unidade.
+Assim, não havendo a demonstração da superveniência de fatos novos que pudessem alterar a conclusão daquele julgado, não há razão para novamente tratar do tema, já devidamente analisado pelo órgão colegiado deste Tribunal, estando, portanto, prejudicado o pedido nesta parte.
+Situação semelhante diz respeito à incidência da Recomendação CNJ n. 62/2020 na espécie, na medida em que a questão não foi enfrentada pela instância de origem, também não foram opostos embargos de declaração para provocar a referida manifestação. Assim, o STJ não pode apreciar a matéria, sob pena de supressão de instância (RHC n. 98.880/CE, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 14/9/2018). Portanto, neste ponto, o writ não merece conhecimento.
+Em relação ao excesso de prazo da prisão cautelar, consoante a jurisprudência do STJ, a sua aferição " ..  reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática" (AgRg no RHC n. 123.274/RJ, relator Ministro Antonio Saldanha Palheiro, DJe de 4/8/2020).
+Assim, devem ser sopesados o tempo de prisão provisória, as peculiaridades da causa, sua complexidade e outros fatores que eventualmente possam influenciar no curso da ação penal.
+Na situação dos autos, o Tribunal de origem manifestou-se da seguinte forma (fls. 23-24):
+Seguindo no feito, em relação ao alegado excesso de prazo, cumpre esclarecer que cada processo possui a sua peculiaridade e demanda lapsos temporais diferentes para ser concluído, sendo razoável admitir-se, em alguns casos, um relativo atraso, desde que justificável.
+ ..
+Isso porque, constato, em análise ao sítio eletrônico deste Egrégio Tribunal de Justiça, bem como pelas informações prestadas pela autoridade apontada como coatora, que o feito não se encontra paralisado, mas sim com regular andamento dentro das possibilidades impostas pelo próprio processo, uma vez que trata-se de demanda complexa, com a presença de 4 (quatro) réus, com defesas distintas.
+Ademais, a defesa não se desincumbiu de demonstrar as baldas na atuação da Autoridade Judiciária ou do Ministério Público. Com efeito, os documentos que instruem a impetração não permitem a análise das circunstâncias, nem autorizam concluir da existência de constrangimento ilegal motivado pelo descaso injustificado do juízo processante.
+O entendimento acima está em consonância com a jurisprudência do STJ de que, "não havendo notícia de  ..  ato procrastinatório por parte das autoridades públicas, consideradas as especificidades da causa e estando próximo o término da instrução criminal, não há falar em excesso de prazo na espécie (RHC n. 102.868/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/3/2019).
+Ante o exposto, com fundamento no art. 34, XX, do RISTJ, não conheço do presente habeas corpus.
+Publique-se. Intimem-se.
+Cientifique-se o Ministério Público Federal.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
