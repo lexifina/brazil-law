@@ -1,0 +1,79 @@
+DECISÃO
+Trata-se de agravo interno interposto por SPE RESERVA I EMPREENDIMENTO IMOBILIÁRIO S/A contra a decisão da Presidência do Superior Tribunal de Justiça que não conheceu do agravo em recurso especial em virtude da ausência de impugnação específica de um dos fundamentos da decisão agravada.
+Nas presentes razões (fls. 880/888 e-STJ), aagravante defende que enfrentou todos os pontos daadmissibilidade local.Por esse motivo, requer a reconsideração da decisão atacada.
+A parte contrária apresentou impugnação (fls. 891/899e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+Considerando a manifestação da agravante, faz-se imperiosa a reconsideração da decisão de fls. 876/877(e-STJ) e passa-se ao exame do recurso.
+Trata-se de agravo interposto por SPE RESERVA I EMPREENDIMENTO IMOBILIÁRIO S/A contra decisão que inadmitiu recurso especial. O apelo extremo, fundamentado no art. 105, inciso III, alíneas "a" e "c", da Constituição Federal, insurge-se contra acórdão do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado:
+"APELAÇÃO CÍVEL. COMPRA E VENDA DE UNIDADE IMOBILIÁRIA. DESISTÊNCIA POR PARTE DA COMPRADORA. MOTIVOS FINANCEIROS. PLEITO DE DEVOLUÇÃO DE 95% DO VALOR PAGO. SENTENÇA DE PARCIAL PROCEDÊNCIA. APELO DE DA PARTE RÉ, BUSCANDO A REFORMA DA SENTENÇA PARA QUE SEJAM JULGADOS IMPROCEDENTES TODOS OS PEDIDOS. ALEGA A RÉ QUE OS IMÓVEISOBJETO DOLITÍGIO FORAMLEILOADOS E, PORTANTO, O CONTRATO SE EXTINGUIU ANTES DA SENTENÇA. INICIAL QUE FOI DISTRIBUIDA EM OUTUBRO/15, CONTESTAÇÃO QUE FOI OFERTADA EM FEVEREIRO/16. CONTESTAÇÃO SE LIMITOU A COMBATER OS PONTOS DA INICIAL E NÃO DISCORREU SOBRE ASUPOSTA QUESTÃO DO LEILÃO E SEQUER JUNTOU PROVAS DO MESMO. NOTIFICAÇÃO EXTRAJUDICIAL DA AUTORA E LEILÃO REALIZADO SOMENTE EM NOVEMBRO/16, APÓS, INCLUSIVE, DEFERIMENTO DE TUTELA PARCIAL NO PRESENTE FEITO. SENTENÇA CORRETA, NEGÓCIO JURÍDICO QUE SE EXTINGUIUCOM A PRESENTE SENTENÇA. POSSIBILIDADE DE DESISTÊNCIA DO CONTRATO. SÚMULA 543 DO STJ.PERCENTUAL DE 20%. PERCENTUAL QUE SE ENCONTRA DENTRO DO PATAMAR DO STJ. NO TOCANTE AOS JUROS, MERECE REPARO A SENTENÇA, NA HIPÓTESE DE RESOLUÇÃO DE CONTRATO DE PROMESSADE COMPRA E VENDA DE IMÓVEL, POR INICIATIVA DO COMPRADOR, OS JUROS MORATÓRIOS DEVEM INCIDIR A PARTIR DO TRÂNSITO EM JULGADO, UMA VEZ QUE NÃO EXISTE MORA ANTERIOR DA PARTE RÉ/VENDEDORA. SENDO ESTE O ENTENDIMENTO DO COLENDO STJ. PRECEDENTES DESTE TRIBUNAL. RECURSO AO QUAL SE DÁ PARCIAL PROVIMENTO. " (fls. 541/542e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 603/607 e-STJ).
+No recurso especial (fls. 619/675 e-STJ), alega-se, além de divergência jurisprudencial, violação dos seguintes dispositivos legais com as respectivas teses:
+(i) art. 1.022do Código de Processo Civil de 2015, ao fundamento de que o acórdão recorrido foi omisso por não ter se pronunciado a respeito da possibilidade de retenção dos valores pagos a título de arras, seguro, rateio e leilão,
+(ii) art. 63 da Lei nº 4.591/1964, pois com a realização do leilão extrajudicial do bem houve a perda do objeto da ação,
+(iii) art. 418do Código Civil, haja vista a impossibilidade de devolução das arras assecuratórias, e
+(iv) arts. 2ºdo Código de Defesa do Consumidor e 421 e 422 do Código Civil, porque não estaria configurada a relação consumerista já que o imóvel foi adquirido com a finalidade de locação.
+Invoca-se, ainda, ofensa à Súmulanº543/STJ.
+Ademais, a recorrente afirma que é necessário adequar o acórdão recorrido aos julgados que admitem a exclusão dos valores de sinal, rateio e seguro do montante relativo à devolução.
+Além disso, defende que seria devida a devolução dos valores ao recorrido apenas no caso de o imóvel ter sido arrematado por valor superior ao débito, o que não teria ocorridonos autos.
+Alega que deveria ter sido aplicada a Lei nº 13.786/2018à hipótese, pois seria "possível sustentar que a retenção de valores poderá alcançar até 50% dos valores pagos quando a incorporação estiver sujeita ao patrimônio de afetação (art. 67-A, § 5º)" (fl. 670 e-STJ).
+Quanto à correção monetária, requer que seja aplicada a partir do ajuizamento da ação por força do art. 1º, § 2º, da Lei nº 6.899/1981, vez que não houve culpa da recorrente na rescisão do contrato.
+Com as contrarrazões (fls. 780/792 e-STJ), foi negado seguimento ao recurso especial, dando ensejo à interposição doagravo de fls. 812/833 (e-STJ).
+Ultrapassados os requisitos de admissibilidade do agravo, passa-se ao exame do recurso especial.
+O acórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A insurgência não merece prosperar.
+1. Da ausência de violação do art. 1.022 do CPC/2015
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional, por sua vez, é improcedente.
+De fato, o Tribunal de origemindicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Como se observa de sua leitura, houve a confirmação da sentença, alterando-se apenas o termo inicial dos juros. O juízo singular, por sua vez, foi expresso ao mencionar que a condenação englobaria a devolução de80% (oitenta por cento) do valor efetivamente pago, excluindo-setão-somente a taxa de corretagem.
+Nesse sentido:
+"(..)
+O objeto da obrigação do vendedor é a prestação de dar a coisa e do comprador a prestação de dar o preço. É certo que pode o promitente comprador requerer o desfazimento do negócio jurídico, mesmo estando inadimplente, porém a devolução de valores não irá se operar de modo integral, haja vista a incidência de parcela de retenção para fazer frente ao prejuízo causado com as despesas com administração, corretagem, propaganda e outras congêneres suportadas pela empresa ré/apelante. A jurisprudência do STJ entende que, no caso de desistência do comprador, pode o vendedor reter entre 10% e 25% dos valores pagos. Quanto ao pedido de restituição dos valores pagos a título de elaboração de contrato e corretagem, uma vez prevista a obrigação de pagamento da comissão de corretagem no contrato de promessa de compra venda firmado pelas partes, e não comprovado qualquer fato modificativo ou extintivo da obrigação, que pudesse eximir a autora de tal pagamento, não se reconhece os direitos de receber da ré o ressarcimento de tal quantia".(fl. 399e-STJ).
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+2. Da alegação de violação à Súmula nº 543/STJ
+A Corte Especial deste Superior Tribunal de Justiça já consolidou o entendimento de que: "Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula" (Súmula nº 518/STJ).
+3. Da suposta perda do objeto em virtude da realização de procedimento extrajudicial
+Extrai-se das razões recursais que a parte recorrente não refutou os seguintes fundamentos adotados pela Corte local:
+"(..)
+Dá análise minuciosa dos autos, entendo que não merece prosperar o apelo. O presente feito foi distribuído em outubro/15, tendo o réu oferecido sua contestação em fev/16. Na contestação (índex 00139) não existe qualquer alusão ao leilão ou a notificação judicial, se limitando a parte ré a contestar os pontos constantes da inicial. Dessa forma, a alegação de que o contrato se rescindiu antes da sentença não prospera, já que a ação cujo pedido é de rescisão de contrato foi proposta em outubro de 2015, sendo a autora notificada extrajudicialmente em 13/07/16, conforme índex 000377, quando a ré já havia sido citada, portanto além da notificação, realizou o leilão em novembro/16, mesmo havendo ação em curso. Assim sendo, é incontroverso que o procedimento extrajudicial, sustentado no recurso, somente ocorreu após a distribuição do presente feito. (..) Ressalte-se que a parte ré, inclusive, poderá realizar a venda do bem novamente, portanto, auferirá seu lucro, não sofrendo qualquer prejuízo, pois é cediço que o valor arbitrado ao bem, é muito superior ao valor real de seu custo, razão porque não se justifica a elevação do percentual. Em que pese o leilão realizado, os bens foram adquiridos pelo próprio réu. " (fl. 546/548 e-STJ).
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Ainda que assim não fosse, o pleito esbarraria no óbice da Súmula nº 7/STJ, pois, como visto, o Tribunal de origem entendeu que o procedimento extrajudicial mencionado ocorreu após a citação e não antes, como afirmado no recurso especial.
+As demais questões que derivam da mesma tese, qual seja, a validade do mencionado leilão, encontram-se, por consequência lógica, prejudicadas.
+4. Da aplicabilidade das normas doCódigo de Defesa do Consumidor
+No que concerne à incidênciadas normas consumeristas, o Tribunal de origem, à luz da prova dos autos, concluiu por aplicar o mencionado diploma legal ao caso concreto, conforme se extrai da leitura do voto condutor, merecendo destaque o seguinte trecho:
+"(..)
+De início, cumpre ressaltar que a questão trazida a Juízo encerra relação de consumo, na medida em que as partes subsumam-se aos conceitos de consumidor e fornecedor constantes, respectivamente, dos artigos 2º e 3º da Lei 8.078/90. A responsabilidade do fornecedor por eventuais danos provocados ao consumidor é de natureza objetiva se decorrentes de defeito na prestação do serviço, podendo o fornecedor ser responsabilizado independentemente da comprovação de existência de culpa, seja por fato ou vício do serviço/produto, a teor do disposto nos artigos 14 e 18 e seguintes do Código Consumerista. Com efeito, na relação consumerista há a presunção de vulnerabilidade do consumidor. " (fl. 544e-STJ).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõe oenunciado da Súmula nº 7 deste Superior Tribunal.
+A propósito:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. CÓDIGO DE DEFESA DO CONSUMIDOR. REEXAME DE PROVAS. SÚMULA Nº 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A reapreciação da conclusão do aresto impugnado, quanto à não incidência do CDC na espécie ante a inexistência de vulnerabilidade ou hipossuficiência, encontra óbice, no caso concreto, na Súmula nº 7 do Superior Tribunal de Justiça.
+2. Agravo regimental não provido".
+(AgRg no AREsp 465.362/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 13/10/2015, DJe 19/10/2015 - grifou-se)
+5. Da retenção de arras, seguro e taxa de rateio
+A jurisprudência do Superior Tribunal de Justiça entende quea devolução das parcelas pagas pelo comprador"possui natureza indenizatória e cominatória, de forma que abrange, portanto, de uma só vez, todos os valores que devem ser ressarcidos ao vendedor pela extinção do contrato por culpa do consumidor e, ainda, um reforço da garantia de que o pacto deve ser cumprido em sua integralidade" (REsp 1.820.330/SP, Rel. Ministra Nancy Andrighi, Terceira Turma,julgado em 24/11/2020, DJe 1/12/2020).
+No mesmo julgado, destacou-se que "o percentual de 25% engloba, inequivocamente, todas as indenizações que devem ser garantidas à vendedora no rompimento do contrato por culpa do consumidor".
+Desse modo, não seria cabível a exclusão de outros valores correspondentes, como pleiteia a recorrente.Nesse sentido:AREsp 1.775.408/RJ, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, DJe 18/12/2020.
+6. Do termo inicial para incidência da correção monetária
+A jurisprudência do STJ é assente no sentido de que, "em caso de rescisão de contrato decompra e vendade imóvel, a correção monetária das parcelas pagas, para efeitos de restituição, incide a partir de cada desembolso"(AgInt no AREsp 208.706/RJ, Relator Ministro Raul Araújo, Quarta Turma,julgado em 22/8/2017, DJe 13/9/2017).
+Nesse contexto, a consonância do acórdão recorrido com o entendimento dominante desta Corte atrai a incidência da Súmula nº 568/STJ.
+7. Da não incidênciada Lei nº 13.786/2018 a contratos anteriores à sua vigência
+No que se refere à suposta necessidade de aplicar, ao caso concreto, os efeitos da Lei nº 13.786/2018, verifica-se que a matéria versada nos dispositivos apontados como violados no recurso especial não foi objeto de debate pelas instâncias ordinárias, sequer de modo implícito, e não foram opostos embargos declaratórios com a finalidade de sanar omissão porventura existente.
+Por esse motivo, ausente o requisito do prequestionamento, incide o disposto na Súmula nº 282/STF: "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada".
+Sobre o tema:
+"PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE COMPLEMENTAÇÃO DE BENEFÍCIO PREVIDENCIÁRIO. PREQUESTIONAMENTO. NÃO OCORRÊNCIA. SÚMULA 282/STF. PRESCRIÇÃO QUINQUENAL. ALCANCE DAS PARCELAS VENCIDAS ANTERIORMENTE AO QUINQUÊNIO QUE PRECEDE O AJUIZAMENTO DA AÇÃO.
+1. A ausência de decisão acerca dos dispositivos legais indicados como violados impede o conhecimento do recurso especial.
+2. O acórdão recorrido que adota a orientação firmada pela jurisprudência do STJ não merece reforma.
+3. Agravo interno não provido" (AgInt no AREsp 1.097.857/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/11/2017 - grifou-se).
+De todo modo, tampouco seria possível acolher o recurso nesse ponto, poisa jurisprudência do Superior Tribunal de Justiça já concluiu pela "inaplicabilidade da Lei 13.786/2018 aos contratos celebradosanteriormente à data de sua entrada em vigor." (AgInt nos EDcl no REsp 1.815.822/SP, Rel. Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em 20/4/2020, DJe 24/4/2020)
+8. Do dispositivo
+Ante o exposto, reconsidero a decisão de fls. 876/877 (e-STJ), tornando-a sem efeito, para conhecer do agravo e negar provimento ao recurso especial.
+Assim, em observância ao art. 85, §§ 11, do CPC/2015, majoroem5%(cincopor cento) a verba honorária atribuída à parte recorrente, sobre o valorarbitrado pela Corte local, em favor do patrono da recorrida, observado obenefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
