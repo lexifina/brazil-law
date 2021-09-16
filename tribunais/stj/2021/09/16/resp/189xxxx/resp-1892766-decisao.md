@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se recurso especialinterposto por JOSÉ ANTÔNIO GOMES, fundamentado no artigo 105, inciso III, alínea"a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado do Paranáassim ementado:
+"APELAÇÃO CÍVEL. AÇÃO REVISIONAL COM PEDIDO DE REPETIÇÃO DE INDÉBITO. CONTRATO DE CONTA CORRENTE. CÉDULA DE CRÉDITO BANCÁRIO. EXERCÍCIO DE JUÍZO DE RETRATAÇÃO, COM BASE NO ART. 1.030, INCISO II, DO CÓDIGO DE PROCESSO CIVIL/2015 C/C ART. 109, II, DO REGIMENTO INTERNO DO TJPR. EXERCÍCIO DE RETRATAÇÃO NEGATIVO. JUROS REMUNERATORIOS EXPRESSAMENTE PACTUADOS NA CÉDULA DE CRÉDITO BANCÁRIO. TAXA MÉDIA DE MERCADO. INAPLICABILIDADE. ABUSIVIDADE NÃO COMPROVADA. MANUTENÇÃO DA TAXA CONTRATADA. AUSÊNCIA DE OFENSA AO RECURSO ESPECIAL REPETITIVO Nº 1.112.879/PR OU À SÚMULA 530 DO STJ. JUÍZO DE RETRATAÇÃO NÃO EXERCIDO" (fl. 2.603e-STJ).
+Os embargos de declaração opostos foram rejeitados.
+Nas razões do recurso especial, o recorrente sustenta violação dos artigos192 da Constituição Federal; 112, 113, 122 do Código Civil; 4º, 6º, do Código de Defesa do Consumidor; às disposições da Lei nº 4.595/64 e às Resoluções nºs 2.303, 2.474 e 2.878.
+Aduz quea taxa de juros remuneratórios deve ser fixada com base na taxa média de mercado.
+Menciona que "é certo que ocorreu demonstração cabal de vantagem exagerada por parte do agente financeiro na cobrança das taxas, sendo as mesmas ilegais e abusivas" (fl. 2.656 e-STJ).
+Contrarrazões às fls. 2.675/2.681 e-STJ.
+É o relatório.
+DECIDO.
+Oacórdão impugnado pelo presente recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Quanto ao art. 192da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revelainviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+No mais, inviável a análise de violação de portarias, circulares, resoluções, instruções normativas, regulamentos, decretos, avisos e outras disposições administrativas por não estarem inseridas no conceito de lei federal previsto no art.105, II, "a", da Constituição Federal.
+No que se refere à ofensa aos arts. 4º, 6º, 46, 51 do CDC; 112 e 113 do Código Civil, verifica-se que as matérias versadas nos dispositivos apontados como violados no recurso especial não foram objeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+Adeficiência na fundamentação recursal ficouevidenciada, visto que a parterecorrente não indicou especificamente quais os artigos da Lei Federal 4.595/64teriam sido contrariados pelo aresto recorrido, embora tenha se insurgido quanto à motivação da decisão no tocante às tarifas bancárias, inviabilizando a compreensão da controvérsia posta nos autos.
+Consectariamente, incide a Súmula nº 284/STF: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Por fim, as instituições financeiras não se sujeitam à limitação dos juros remuneratórios que foi estipulada pela Lei de Usura (Decreto nº 22.626/33), em consonância com a Súmula nº 596/STF, sendo também inaplicável o disposto no art. 591, c/c o art. 406, do Código Civil para esse fim, salvo nas hipóteses previstas em legislação específica. A redução dos juros dependerá de comprovação da onerosidade excessiva - capaz de colocar o consumidor em desvantagem exagerada - em cada caso concreto, tendo como parâmetro a taxa média de mercado para as operações equivalentes, de modo que a simples estipulação de juros remuneratórios superiores a 12% (doze por cento) ao ano, por si só, não indica abusividade, nos termos da Súmula nº 382/STJ.
+Nesse sentido, o REsp nº 1.061.530/RS, da relatoria da Ministra Nancy Andrighi, submetido ao regime dos recursos repetitivos, julgado pela Segunda Seção, com a seguinte ementa, na parte que interessa:
+"DIREITO PROCESSUAL CIVIL E BANCÁRIO. RECURSO ESPECIAL. AÇÃO REVISIONAL DE CLÁUSULAS DE CONTRATO BANCÁRIO. INCIDENTE DE PROCESSO REPETITIVO. JUROS REMUNERATÓRIOS. (..) ORIENTAÇÃO 1 - JUROS REMUNERATÓRIOS
+a) As instituições financeiras não se sujeitam à limitação dos juros remuneratórios estipulada na Lei de Usura (Decreto 22.626/33), Súmula 596/STF;
+b) A estipulação de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade;
+c) São inaplicáveis aos juros remuneratórios dos contratos de mútuo bancário as disposições do art. 591 c/c o art. 406 do CC/02;
+d) É admitida a revisão das taxas de juros remuneratórios em situações excepcionais, desde que caracterizada a relação de consumo e que a abusividade (capaz de colocar o consumidor em desvantagem exagerada - art. 51, §1º, do CDC) fique cabalmente demonstrada, ante às peculiaridades do julgamento em concreto".
+No caso presente, o acórdão considerou que as taxas contratadas não destoam da média apurada pelo Banco Central para operações da espécie. A modificação desse entendimento demanda o reexame de matéria fático-probatória, inviável no recurso especial (Súmula n 7/STJ).
+Ante o exposto, conheço em parte do recurso especial e nego-lhe provimento.
+Em observância ao art. 85, §§ 11, do CPC/2015, majoro em 1% (umpor cento) a verba honorária atribuída aorecorrente,sobre o valor arbitrado pela Corte local, em favor do patrono da parte recorrida, observado o benefício da justiça gratuita, se for o caso.
+Publique-se.
+Intimem-se.
