@@ -1,0 +1,20 @@
+DECISÃO
+Trata-se  de  habeas  corpus  impetrado  em  favor  de  AGUINALDO HENRIQUE JOSÉ SIQUEIRA  contra  decisão monocrática  proferida por Desembargador doTribunal  de  Justiça  do  Estado  de  São  Paulo  no HC n. 2204967-41.2021.8.26.0000.
+Consta  da alegação na impetração originária que o Juiz da execução teria determinado a realização de exame criminológico, para julgamento da progressão ao regime semiaberto, desde março de 2021 (e-STJ, fl. 119).
+Com isso, a  defesa  ingressou com habeas corpus, perante a Corte de origem, sustentando excesso de prazo para julgamento do seu pedido de progressão.  O  Desembargador,  contudo,  negou seguimento à impetração,  nos  termos  da  seguinte  ementa  (e-STJ,  fl.  119):
+HABEAS CORPUS. Alegação de demora no julgamento de pedido de progressão de regime. Autoridade apontada como coatora que vem adotando as medidas necessárias à apreciação. Constrangimento ilegal não evidenciado prima facie, a justificar eventual concessão da ordem de ofício. Seguimento negado.
+Nesta via, a defesa relata que opaciente está há mais de 7 meses aguardando o julgamento do pedido da progressão de regime.
+Explica que a cada vista do Parquet, há novo pedido de diligência deferido pelo Juízo das Execuções Penais, atrasando a análise da progressão de regime. Acrescenta quenão há previsão para a realização do exame criminológico.
+Acusaque a r. decisão que defere o exame tem como fundamento a gravidade abstrata do crime cometido, sem análise de elementos concretos do caso para fundamentar o pedido.
+Alega que oo paciente já preencheu os requisitos para a benesse, sendo que cometeu apenas uma falta disciplinar de natureza média em todo o seu cumprimento de pena.
+Nesses termos, pede: 1 - o afastamento da necessidade darealização de exame, 2-a concessão da progressão de regime, 3- que o paciente aguarde em regime semiaberto a realização do exame criminológico ou, ainda, 3 - a cessação daarbitrariedade quanto àdemora na realização da avaliação.
+É o relatório. Decido.
+O Desembargador, na Corte de origem, não deu prosseguimento ao feito, nos seguintes termos (e-STJ fl. 120):
+Como é cediço, a progressão de regime não constitui direito absoluto, diante de possível indeferimento - LEP, art. 112,caput-, sendo necessário que se resgate período razoável na modalidade anterior, a fim de se comprovar assimilação da terapêutica penal, pois, como é sabido, a execução penal rege-se pelo princípio do in dubio pro societate, de forma que a dúvida plausível acerca do mérito do condenado, deve ser resolvida em favor da sociedade, que não pode ser obrigada a conviver com a insegurança. Oportuno acrescentar, que a AUTORIDADE COATORA já adotou as medidas pertinentes, mormente porque havia notícia da suposta prática de falta média, cometida aos 29/4/2019, apurada nos autos do procedimento disciplinar nº 103/2019.
+Desta feita, mostra-se imprescindível a realização da perícia para análise do preenchimento do requisito subjetivo, não se constatando demora por desídia do Poder Judiciário.
+Deve-se ponderar, ainda, a situação excepcionalíssima atualmente vivenciada pela propagação do coronavirus, o que constitui motivo de força e autoriza compreensível elasticidade e o não cômputo dos prazos, na forma prevista no CPP, art. 798, § 4º ("Não correrão os prazos, se houver impedimento do juiz, força maior, ou obstáculo judicial oposto pela parte contrária"), c. c. o LEP, art. 2º, lembrando-se que devem ser interpretados sistematicamente e não apenas como resultantes de mera soma aritmética, dentro de um critério de razoabilidade, justamente a hipótese dos autos.
+Ocorre que, na hipótese vertente, houve supressão de instância, haja vista que o recurso cabível seria o agravo regimental, a ser interposto na Corte de origem contra a referida decisão.
+Ressalte-se que, na espécie, não se configurou flagrante ilegalidade, capaz justificar a superação da supressão de instância para analisar o mérito do habeas corpus.
+Ante o exposto, com fundamento no artigo 210 do Regimento Interno do Superior Tribunal de Justiça, indefiro liminarmente o presente habeas corpus.
+Intimem-se.
+Sem recurso, arquivem-se os autos.
