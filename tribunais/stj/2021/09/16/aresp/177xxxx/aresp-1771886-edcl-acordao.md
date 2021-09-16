@@ -1,0 +1,30 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OMISSÃO. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela.
+2. É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+Tratam-se de Embargos de Declaração opostos por Via Varejo S/A, contra acórdão proferido pela Segunda Turma desse Superior Tribunal de Justiça, cuja ementa assim estabelece, in verbis:
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO 3/STJ. OPOSIÇÃO DE EMBARGOS DE DECLARAÇÃO EM FACE DA DECISÃO QUE INADMITIU O RECURSO ESPECIAL. RECURSO MANIFESTAMENTE INCABÍVEL.INTERRUPÇÃO DO PRAZO RECURSAL. NÃO OCORRÊNCIA.
+AGRAVO INTERNO NÃO PROVIDO.
+1. A jurisprudência desta Corte Superior é firme no sentido de que a interposição de recurso manifestamente incabível não interrompe o prazo recursal e de que os embargos de declaração opostos em face da decisão que não admitiu o recurso especial não constituem recurso cabível na espécie. Precedentes.
+2. Agravo interno não provido.
+Nas razões dos aclaratórios, a embargante alega omissão do acórdão, objetivando o prequestionamento explícito do princípio constitucional da legalidade, perante o Supremo Tribunal Federal, conforme se observa dos seguintes trechos do agravo interno (e-STJ Fls. 895/896).
+Não houve a apresentação de impugnação aos aclaratórios.
+É o relatório. Passo a decidir.
+EMENTA
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. OMISSÃO. OFENSA AO ARTIGO 1.022 DO CPC/2015. NÃO CARACTERIZAÇÃO. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração somente são cabíveis quando houver, na sentença ou no acórdão, obscuridade, contradição, omissão ou erro material, consoante dispõe o artigo 1.022 do CPC/15, o que não se configura na hipótese em tela.
+2. É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+3. Embargos de declaração rejeitados.
+VOTO
+Inicialmente é necessário consignar que o presente recurso atrai a incidência do Enunciado Administrativo n. 3/STJ: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC .
+Os embargos não merecem acolhimento. Segundo o art. 1.022 do Código de Processo Civil de 2015, os embargos de declaração são cabíveis para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre o qual devia se pronunciar o juiz de ofício ou a requerimento e/ou corrigir erro material. É vedado a esta Corte, na via especial, apreciar eventual ofensa à matéria constitucional, ainda que para fins de prequestionamento, sob pena de usurpação da competência reservada ao Supremo Tribunal Federal. Precedentes: EDcl nos EDcl no AgRg no AREsp 575.787/DF, Rel. Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 12/12/2017, DJe 19/12/2017; AgInt nos EDcl nos EDcl no REsp 1.677.316/SP, Rel. Ministra Regina Helena Costa, Primeira Turma, julgado em 5/12/2017, DJe 14/12/2017; EDcl no AgInt no REsp 1.294.078/DF, Rel. Ministro Og Fernandes, Segunda Turma, julgado em 28/11/2017, DJe 5/12/2017.
+Ilustrativamente:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. EMBARGOS DE DECLARAÇÃO. FINALIDADE DE PREQUESTIONAMENTO DE MATÉRIA CONSTITUCIONAL. OMISSÃO. NÃO OCORRÊNCIA. EFEITOS INFRINGENTES. IMPOSSIBILIDADE. ART. 1.022 DO NOVO CPC. 1. A ocorrência de um dos vícios previstos no art. 1.022 do CPC é requisito de admissibilidade dos embargos de declaração, razão pela qual a pretensão de mero prequestionamento de dispositivos constitucionais para a viabilização de eventual recurso extraordinário não possibilita a sua oposição. Precedentes da Corte Especial. 2. A pretensão de reformar o julgado não se coaduna com as hipóteses de omissão, contradição, obscuridade ou erro material contidas no art. 1.022 do novo CPC, razão pela qual inviável o seu exame em sede de embargos de declaração. 3. Embargos de declaração rejeitados. (EDcl nos EAREsp 166.402/PE, Rel. Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 15/3/2017, DJe 29/3/2017).
+Ante o exposto, rejeitos os aclaratórios.
+É como voto.
