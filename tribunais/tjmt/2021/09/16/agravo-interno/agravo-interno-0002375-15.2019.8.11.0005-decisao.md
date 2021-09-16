@@ -1,0 +1,37 @@
+RECURSO DE AGRAVO INTERNO (INTERPOSTO NO RECURSO DE APELAÇÃO No 0002375-15.2019.8.11.0005)
+Vistos etc.
+Trata-se de Recurso de Agravo Interno interposto por Paulo Herdt em virtude da decisão unipessoal proferida no ID 96666997, na qual indeferi o pedido de justiça gratuita e fixei prazo para o recolhimento do preparo.
+Inconformado, o Agravante alega que a sua única fonte de renda é o agronegócio, sendo enquadrado como pequeno produtor rural e que não possui patrimônio próprio, pois exerce sua função por meio de arrendamento rural.
+Alegou que indeferi o pedido sem ao menos fundamentar o motivo pelo qual os documentos apresentados não foram suficientes para demonstrar a propalada vulnerabilidade financeira. Redarguiu que não reúne condições de pagar as custas recursais e, por isso, insistiu no pedido de justiça gratuita.
+Registro que, a despeito de interposto o vertente Agravo Interno, o Recorrente também formulou pedido subsidiário em petição apartada pugnando pelo parcelamento em 03 (três) vezes, vencendo a primeira parcela no início da safra 2022 ou em 05 (cinco) vezes, vencendo a primeira em setembro/2021.
+As contrarrazões foram apresentadas no ID 101253996.
+É o necessário relato. Fundamento.
+DECIDO.
+Sem embargo às ponderações apresentadas pelo Agravante, não verifico argumentos ou fato novo capaz de alterar a decisão objurgada no tocante ao indeferimento da gratuidade da justiça. E, para evitar tautologia, transcrevo abaixo a íntegra da decisão:
+Vistos etc.
+Paulo Herdt foi instado a trazer prova da propalada vulnerabilidade financeira para recolher o valor do preparo recursal, tendo comparecido no ID 95048455 asseverando que é pequeno produtor rural e, em virtude da pandemia da Covid-19, está atravessando séria crise financeira, sem poder trabalhar; por isso, afirmou que não reúne condições para pagar o preparo, montante extremamente elevado segundo a novel Tabela de Custas para o Foro Judicial.
+O pedido está acompanhado da cópia da Declaração de Imposto de Renda do exercício 2021 e do extrato de registros na Serasa.
+Com efeito, o artigo 5.o, inciso LXXIV da Constituição Federal, consagrando o Estado Democrático de Direito, definiu que o Estado prestará assistência jurídica integral e gratuita aos que comprovarem insuficiência de recursos. Portanto, é restrita sua concessão, sendo admissível apenas quando comprovada a impossibilidade de pagar as custas do processo, conforme exige o artigo 99, § 2o, do CPC vigente.
+A Terceira Turma do STJ decidiu que o deferimento da Justiça gratuita não se presume. Em julgamento semelhante, a Quinta Turma da Corte Superior entende que não se presume a gratuidade de Justiça, mesmo nas causas patrocinadas pelos núcleos de prática jurídica.
+No caso concreto, o Apelante formulou pedido de justiça gratuita e juntou a última Declaração do Imposto de Renda, ano-calendário 2021, no qual se vê que fora declarada a existência apenas um bem, notadamente a Fazenda Santa Catarina, situada na Gleba Caetano Dias, Zona Rural.
+A despeito disso, nota-se que o Apelante busca a tutela jurisdicional para proteger a posse e propriedade de outro imóvel rural de 500 hectares, situado na Gleba Parecis/MT, Município de Diamantino/MT, adquirido em 22/12/2001. Registro que este imóvel não consta da relação de bens do Apelante, o que demonstra que, salvo melhor juízo, nem todos os bens pertencentes ao Apelante foram declarados à Receita Federal, o que coloca em dúvida se a sua renda é, de fato, aquela descrita no documento oficial, equivalente a pouco mais de um salário mínimo.
+Ademais, na declaração de Imposto de Renda colacionada, o Apelante também não descreveu quais são suas dívidas e ônus reais, fazendo com que se torne ainda mais frágil a alegada hipossuficiência financeira para pagar o preparo recursal, ainda que o valor seja calculado em 3% do valor da causa.
+Registro que anotações negativas no nome do Recorrente, por si só, não significam situação de pobreza para o fim de concessão da gratuidade. Aliás, o Apelante não juntou qualquer dado concreto da sua atual condição financeira.
+Além do mais, ao contrário do alegado pelo Apelante, o agronegócio tem sido uma das poucas atividades que não paralisou em razão da pandemia da Covid-19. Ou, no mínimo, a crise sanitária teve impacto muito menor no campo do que teve em outros setores da economia. Essa é uma das constatações da 8o pesquisa Hábitos do Produtor Rural, feita pela Associação Brasileira de Marketing Rural e Agronegócio (ABMRA), em levantamento bastante amplo que ofereceu uma série de dados importantes sobre o produtor brasileiro.
+Diante dos elementos probatórios, dúvidas não há que o caso é de indeferimento do pedido de gratuidade da justiça.
+Concedo ao Recorrente o prazo de 05 (cinco) dias para efetuar o recolhimento do preparo, sob pena de deserção.
+Intimem-se. Cumpra-se.
+Da simples leitura do que consta na decisão combatida, fica claro que todos os documentos juntados pelo Agravante foram cuidadosamente sopesados, incluindo a declaração do Imposto de Renda do ano-calendário 2021, bem como os extratos de negativação em cadastros de inadimplentes.
+Fiz constar que na declaração de Imposto de Renda o Recorrente não descreveu quais são suas dívidas e ônus reais, colocando em dúvida se, realmente, encontra-se em situação de hipossuficiência financeira. Além disso, conquanto o Agravante dispute a posse e propriedade de imóvel rural de 500 hectares, tal bem também não está arrolado como sendo de sua propriedade, fato omitido à Receita Federal que, no meu modo de ver, fragiliza a afirmativa de que , realmente, a sua renda se resume a um salário mínimo.
+Portanto, mantenho inalterada a decisão indeferitória da justiça gratuita.
+Lado outro, vê-se que o Agravante apresentou pedido subsidiário de parcelamento que, embora tenha sido apresentado em petição apartada, procedo à sua imediata análise por guardar correlação com o que está sendo decidido neste momento.
+Com o advento do atual Código de Ritos, o legislador infraconstitucional passou a admitir a possibilidade de parcelar as custas processuais de determinado ato quando se mostrar elevado para a situação financeira comprovada pela parte, conforme inteligência do art. 98, § 6o, CPC.
+Com efeito, a atual Tabela de Custas do Foro Judicial (Lei 11.077/2020), na segunda instância, diz que nas causas com valor até de R$ 41.343,13 (quarenta e um mil trezentos e quarenta e três reais e treze centavos), o preparo é de R$ 413,40 (quatrocentos e treze reais e quarenta centavos). Já para as causas de valor superior a R$ 41.343,13 (quarenta e um mil trezentos e quarenta e três reais e treze centavos), o preparo é equivalente a 3% do valor da demanda, até o limite de R$ 87.895,00 (oitenta e sete mil oitocentos e noventa e cinco reais).
+No caso dos autos, o Apelante informou que o valor da causa é de um milhão e meio de reais, o que significa que o preparo corresponde a 3% desse montante.
+A partir da prova documental produzida pelo Agravante até o momento, dúvidas não há de que faz jus ao direito de parcelar as custas recursais.
+Diante do montante e considerando o pedido de parcelamento formulado, DEFIRO o pedido alternativo e, nos termos do artigo 468, inciso IX, § 7o da CNCG/TJMT, AUTORIZO o parcelamento do preparo em 06 (seis) vezes iguais, vencendo a 1a em 05 (cinco) dias úteis.
+Intime-se.
+Cumpra-se.
+Cuiabá, 16 de setembro de 2021.
+Desa. Clarice Claudino da Silva
+Relatora
