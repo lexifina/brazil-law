@@ -1,0 +1,46 @@
+DECISÃO
+Trata-se dehabeas corpus, com pedido de liminar, impetrado em favor de LUCAS CLAUDINO DOS SANTOS CAVALCANTE contra acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo no HC n. 2144936-55.2021.8.26.0000.
+Consta dos autos que o Paciente foi preso em flagrante, em 18/11/2020, pela suposta prática do crime previsto no art. 33,caput, da Lei n. 11.343/2006, em razão da apreensão de 62,4g de maconha. A prisão em flagrante foi convertida em preventiva.
+Irresignada, a Defesa impetrouhabeas corpusperante o Tribunal de origem, que indeferiua ordem in limine(fls. 22-34).
+Nestewrit, a Impetrante afirma quea conduta deve ser desclassificada para o crime de uso de entorpecente, bem como a falta de indíciosde autoria e materialidade delitiva.
+Alegaque não estão presentes os requisitos para a decretação da prisão preventiva e que o decreto prisional não possui fundamentação idônea.
+Informa que o Paciente possui condições pessoais favoráveis.
+Aduzque seria adequada a aplicação de medidas cautelares diversas da prisão.
+Requer, inclusive liminarmente, a imediata soltura do Paciente, com imposição de medidas cautelares diversas da prisão.
+Liminar indeferida (fls. 39-40).
+Informações prestadas às fls. 45-75.
+O Ministério Público Federal opinou pelo não conhecimento do writ (fls. 79-85).
+É o relatório. Decido.
+Inicialmente, quanto à tese de ausência de elementosde autoria e de materialidade delitiva, cuida-se de alegação cuja análise demandaria, necessariamente, exame acurado do conjunto fático-probatório do processo criminal, providência incabível na via estreita dohabeas corpusou do recurso ordinário emhabeas corpus.
+Nesse sentido:
+" .. Em razão da exigência de revolvimento do conteúdo fático-probatório, a estreita via dohabeas corpus, bem como do recurso ordinário em habeas corpus, não é adequada para a análise das teses de negativa de autoria e da existência de prova robusta da materialidade delitiva. .. " (RHC 145.064/MG, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 22/06/2021, DJe 24/06/2021.)
+" .. Por demandar revolvimento de matéria fático-probatória, a via estreita dohabeas corpus(ou do recurso que lhe faça as vezes) não é adequada para examinar teses sobre ausência de provas ou sobre falta de indícios suficientes de autoria e de materialidade delitiva. .. " (RHC 143.191/RS, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 23/03/2021, DJe 05/04/2021.)
+De outra parte, no tocante ao pleito de desclassificaçãopara o delito do art. 28 da Lei n. 11.343/2006,observo que aquestão suscitadanão foiapreciadapela Corte estadual, de modo que não podeser conhecidaoriginariamente por esta Corte, sob pena de supressão de instância.
+No mais, odecreto prisional está assim fundamentado (fls. 48-49; grifos diversos do original):
+"Não colhe, neste momento processual, a tese de desclassificação para o tipo do artigo 28 da Lei de Drogas, pois a quantidade, forma e local as quais foram encontradas sãoincompatíveis com apenas o uso. A negativa de autoria e a tese do tráfico privilegiado também necessita de provas a ser produzida no juízo natural. Assim, presentes as elementares do tipo penal em face do indiciado necessário a custódia cautelar para assegurar a aplicação da lei penal, pois, se condenado poderá guardar regime fechado no cumprimento da pena privativa de liberdade, bem assim evitar a reiteração criminosa e garantia da ordem pública.
+Somado a isso, conforme se constata das folhas de antecedentes e certidão juntadas aos autos (fls. 32/38), o autuado registra condenação criminal pretérita pelo crime de roubo (Processo 0015183-30.2017.8.26.0482 - 3ª Vara Criminal desta comarca - transitado em julgado no dia 27/08/2018), além de estar respondendo a processos por: roubo (Processo 0019022-63.2017.8.26.0482 - 2ª Vara Criminal desta comarca - Denúncia recebida no dia 24/09/2018); receptação (Processo 1509606-26.2019.8.26.0482 - 3ª Vara Criminal desta comarca - Denúncia recebida no dia 06/12/2019) e porte ilegal de arma de fogo de uso permitido e posse de drogas para consumo pessoal (Processo 1500087-15.2019.8.26.0583 - Vara Única do Foro de Regente Feijó/SP - Denúncia recebida no dia 30/07/2020), sendo, inclusive, reincidente."
+O Tribunal de origem, por sua vez, destacoua "situação peculiar do paciente (reincidente), nos termos dos artigos 315 do Código de Processo Penal e 93, inciso IX, da Constituição Federal, nada indicando abstração, a par de o quadro narrado evidenciar, em tese, dolo exacerbado (ainda mais em face da razoável quantidade da droga apreendida, como adiante melhor se explanará), com a correlata necessidade da segregação cautelar para garantia da ordem pública" (fl.27).
+Como se vê, a prisão preventiva foi devidamente decretada em razão do risco efetivo de reiteração delitiva, pois o Paciente possui condenação definitivapelo delito de roubo, além de responder a outros processos peloscrimes de roubo, receptação, porte ilegal de arma de fogo de uso permitido e posse de drogas para uso pessoal.
+Nesse aspecto, a jurisprudência da Suprema Corte dispõe que "a periculosidade do agente e a fundada probabilidade de reiteração criminosa constituem fundamentação idônea para a decretação da custódia preventiva" (HC 150.906 AgR, Rel. Ministro ROBERTO BARROSO, PRIMEIRA TURMA, DJe 25/04/2018).
+A propósito:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. EXCESSO DE PRAZO. MATÉRIA NÃO APRECIADA NA ORIGEM. SUPRESSÃO DE INSTÂNCIA. SÚMULA 52/STJ.
+FUNDAMENTAÇÃO IDÔNEA DA CUSTÓDIA PREVENTIVA. REITERAÇÃO DELITIVA.
+1. Não viola o princípio da colegialidade a decisão monocrática do relator, arrimada em jurisprudência dominante do Superior Tribunal de Justiça, tendo em vista a possibilidade de submissão do julgado ao exame do órgão colegiado, mediante a interposição de agravo regimental. Precedentes.
+2. A questão a respeito do excesso de prazo não foi apreciada na origem, motivo pelo qual não deve ser conhecida diretamente por esta Corte Superior, para não se incorrer em indevida supressão de instância. A teor da Súmula 52/STJ, Encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+3. A periculosidade do acusado, evidenciada na reiteração delitiva, constitui motivação idônea para o decreto da custódia cautelar, como garantia da ordem pública.
+4. Agravo regimental improvido."(AgRg no HC 637.170/PE, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, julgado em 17/08/2021, DJe 20/08/2021; sem grifos no original.)
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO DA CUSTÓDIA CAUTELAR. PERICULOSIDADE.REITERAÇÃO DELITIVA. MEDIDAS CAUTELARES ALTERNATIVAS. DESCABIMENTO.
+1. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, dos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a decisão que impôs a prisão preventiva apontou o periculum libertatis, revelado pela periculosidade do paciente, que já registra condenação por delito idêntico, e a gravidade em concreto do delito, evidenciada pela quantidade de droga de alto poder viciante apreendida - aproximadamente 100g (cem gramas) de cocaína. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública e de fazer cessar a atividade delitiva.
+3. As circunstâncias que envolvem o fato demonstram que outras medidas previstas no art. 319 do Código de Processo Penal não surtiriam o efeito almejado para a proteção da ordem pública, tendo em vista o histórico de reiteração delitiva do paciente.
+4. Ordem denegada."(HC 666.318/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 10/08/2021, DJe 16/08/2021.)
+Ademais, diante do risco de reiteração delitiva, é inviável a aplicação de medidas cautelares diversas da prisão, pois insuficientes para acautelar a ordem pública.
+Nesse sentido:
+"HABEAS CORPUS. TRÁFICO DE DROGAS. CUSTÓDIA PREVENTIVA. ART. 312 DO CPP.PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. ORDEM DENEGADA.
+ ..
+6. Dados as conjunturas fáticas do caso, a gravidade em concreto do fato delituoso e o risco de reiteração do delito, não se mostra adequada e suficiente, ao menos por ora, a substituição da constrição preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+7. Ordem denegada." (HC 561.520/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 23/06/2020, DJe 01/07/2020; sem grifos no original.)
+Ante o exposto, CONHEÇO PARCIALMENTE do pedidoe, nessa extensão, DENEGO a ordem dehabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+HABEAS CORPUS. PROCESSUAL PENAL. TRÁFICO DE DROGAS.INDÍCIOS DE AUTORIA EMATERIALIDADE DELITIVA. INADEQUAÇÃO DA VIA ELEITA. TESE DE DESCLASSIFICAÇÃO. SUPRESSÃO DE INSTÂNCIA.PRISÃO PREVENTIVA.RISCO DE REITERAÇÃO DELITIVA. FUNDAMENTAÇÃO IDÔNEA. ALEGADOSPREDICADOS PESSOAIS FAVORÁVEIS QUE NÃO IMPEDEM A SEGREGAÇÃO. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. INSUFICIÊNCIA, NO CASO. PEDIDO PARCIALMENTE CONHECIDO E, NESSAEXTENSÃO, ORDEM DE HABEAS CORPUSDENEGADA.
