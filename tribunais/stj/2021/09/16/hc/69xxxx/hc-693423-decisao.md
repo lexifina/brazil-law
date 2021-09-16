@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado em favor de FRANSCISO ALVES PEREIRA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (Agravo em ExecuçãoPenal n. 0008002-98.2021.8.26.0041).
+Consta dos autos que o Juízo da Execução Penal determinou a atualização do cálculo da pena do paciente aplicando o percentual de 40% para fins de progressão de regime.
+Irresignado, o Ministério Públicointerpôs recurso de agravo em execução, que foi provido pelo Tribunal de origem nos termos da seguinte ementa (e-STJ fl. 62):
+AGRAVO DE EXECUÇÃO PENAL. Progressão de regime. Réu reincidente, Lapso temporal de 3/5 ou 60% - Aplicação Hipótese Artigo 112, inciso VII, da LEP. Redação dada pela Lei n.13.964/2019 (pacote anticrime) que não faz distinção entre reincidência comum ou específica. AGRAVO PROVIDO.
+No presentehabeas corpus, a impetrante defende que "a nova redação dada ao dispositivo da LEP, prevê a exigência de lapso correspondente a 60% (sessenta por cento) da pena para progressão de regime tão somente na hipótese de reincidência na prática de crime hediondo ou equiparado, ou seja, específica. .. Ocorre que o caso dos autos versa sobre reincidência genérica ou simples. Por esse motivo, o lapso a ser utilizado no cálculo deveria ser o de 40% (quarenta por cento) para progressão de regime"(e-STJ fl. 5).
+Requer, desse modo, "seja concedida liminarmente a ordem de habeas corpus para determinar-se a retificação dos cálculos do paciente, constando como fração para progressão de regime o lapso de 40% da pena" (e-STJ fl. 14).
+No mérito, requer a confirmação da liminar.
+É, em síntese, o relatório.
+Decido.
+O exame das alegações formuladas pela defesa evidencia, de plano, que a tese declinada no presentewritencontra amparo na jurisprudência firmada nesta Corte, razão pela qual vislumbro ser o caso de concessão liminar da ordem.
+Com a nova redaçãodos incisos V e VII do art. 112 da Lei de Execução Penal, alterada pela Lei n. 13.964/2019, quedou omissa a situação dos agentes condenados por crime hediondo com reincidência em delitos não hediondos nem equiparados.
+Tal situação, como prescrevem os princípios gerais do direito penal, deve sempre ser interpretada em favor do réu, o que impede a aplicação por analogia da fração de 3/5 (ou 60%) realizada pelas instâncias ordinárias no caso em tela, por se tratar de analogiain malam partem, possibilidade vedada em nosso ordenamento.
+No mesmo sentido:
+HABEAS CORPUS. EXECUÇÃO PENAL. PROGRESSÃO DE REGIME. PLEITO DE RETIFICAÇÃO DO CÁLCULO DA PENA. ART. 112, VII, DA LEI DE EXECUÇÃO PENAL (INCLUÍDO PELA LEI N. 13.964/2019). PACOTE ANTICRIME.REINCIDÊNCIA ESPECÍFICA EM CRIME HEDIONDO. NÃO APLICAÇÃO. APENADO CONDENADO POR CRIME HEDIONDO E REINCIDÊNCIA NÃO ESPECÍFICA. OMISSÃO LEGISLATIVA. ANALOGIA IN BONAM PARTEM. APLICAÇÃO DO INCISO V. DO ART. 112 DA LEP. CONSTRANGIMENTO ILEGAL VERIFICADO. HABEAS CORPUS CONCEDIDO.
+1. Firmou-se nesta Superior Corte de Justiça entendimento no sentido de que, nos termos da legislação de regência, mostra-se irrelevante que a reincidência seja específica em crime hediondo para a aplicação da fração de 3/5 na progressão de regime, pois não deve haver distinção entre as condenações anteriores (se por crime comum ou por delito hediondo) (AgRg no HC n. 494.404/MS, Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 20/5/2019)" (AgRg no HC 521.434/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 01/10/2019, DJe 08/10/2019).
+2. Ocorre que a alteração promovida pela Lei n. 13.964/2019 (Pacote Anticrime) no art. 112 da Lei de Execuções Penais, ao estabelecer novos lapsos para a progressão de regime, deixou de abranger a situação característica do paciente (condenado por crime hediondo e reincidente não específico).
+3. Não há como aplicar de forma extensiva e prejudicial ao paciente o percentual de 60% previsto no inciso VII do art. 112 da LEP, que trata sobre os casos de reincidência de crime hediondo ou equiparado, merecendo, ante a omissão legislativa, o uso da analogia in bonam partem para aplicar o percentual de 40%, previsto no inciso V.
+4. Habeas corpus concedido para determinar que o Juízo da Execução retifique o cálculo da pena do paciente, aplicando-se o percentual de 40% para progressão de regime, salvo se cometida falta grave.
+(HC n. 605.783/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/10/2020, DJe 19/10/2020.)
+No caso em tela,sendo o delito anterior não hediondo nem equiparado, de rigor a aplicação da fração de 2/5 (ou 40%) para efeitos de progressão de regime.
+Ante o exposto,concedo a ordem liminarmentepara determinar a retificação do cálculo de pena para ser definido oquantumde 40% para progressão de regime.
+Publique-se. Intimem-se.
