@@ -1,0 +1,75 @@
+DECISÃO
+Trata-se de agravo interposto por CONDOMÍNIO BRISAS DO LAGOcontra decisão que não admitiu recurso especial.
+O apelo nobre, fundamentado naalínea"a"do permissivo constitucional, desafia acórdão proferido pelo Tribunal de Justiça do Distrito Federal e dos Territóriosassim ementado:
+"APELAÇÃO CÍVEL. PRELIMINAR. VIOLAÇÃO AO PRINCÍPIO DA DIALETICIDADE. NÃO VERIFICAÇÃO. CONTRATO DE PRESTAÇÃO DE SERVIÇOS ADVOCATÍCIOS. RESCISÃO UNILATERAL. NÃO OBSERVÂNCIA DAS CLÁUSULAS CONTRATUAIS. REMUNERAÇÃO DEVIDA. REDUÇÃO DA REMUNERAÇÃO. NÃO VERIFICAÇÃO. SENTENÇA PARCIALMENTE REFORMADA.
+1. O Princípio da Dialeticidade ou Dialogicidade estabelece a necessidade do recurso ser discursivo e devolver ao Juízo ad quem os fundamentos fáticos e jurídicos de sua irresignação, guardando congruência com a decisão judicial recorrida. A reprodução de alguns argumentos deduzidos em sede de Petição Inicial não impede o conhecimento do recurso.
+2. A Autonomia de Vontade é a principal característica do direito contratual. Segundo esse princípio, os contratantes são capazes de autorregular seus interesses, desde que não contrariem as normas de ordem pública e Princípios Gerais de nosso sistema jurídico.
+2.1. Em complemento, o direito dos contratos também é regido pelo Princípio da Obrigatoriedade, ou pacta sunt servanda, segundo o qual, uma vez firmado de forma válida, o acordo torna-se obrigatório, fazendo Lei entre as partes.
+3. O contrato firmado permite a rescisão por iniciativa de qualquer das partes, desde que a outra parte seja comunicada por escrito com antecedência mínima de 60 (sessenta) dias e acertados os valores devidos, de acordo com a Cláusula Sexta, alínea d.
+4. A título de remuneração, as partes acordaram o valor de R$ 5.000,00 (cinco mil reais), sendo autorizado ao contratado exigir o percentual de 10% (dez por cento) na cobrança administrativa e 20% (vinte por cento) na cobrança judicial.
+4.1. Dessa forma, a remuneração pelos serviços prestados era de R$ 5.000,00 (cinco mil reais), sendo os percentuais referentes as cobranças judiciais e extrajudiciais, uma mera expectativa de direito, visto que tal remuneração dependia de um evento futuro e incerto, qual seja, condôminos inadimplentes.
+5. Apelação conhecida e parcialmente provida.(fl. 272, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 597/600, e-STJ).
+Nas razões do especial (fls. 604/619, e-STJ),a parte recorrente aponta negativa de vigência dos arts. 373, 489, § 1º, IV, 1.022, parágrafo único, II, do Código de Processo Civil/2015 e 475do Código Civil e93, IX, da Constituição Federal. Sustenta, em síntese: (i) nulidade do acórdão por não suprir a omissão apontada nos embargos de declaração; (ii) ausência de exame das provas produzidas e (iii) descumprimento do contrato por culpa exclusiva da parte ora recorrida.
+Oferecidas as contrarrazões (fls. 628/635, e-STJ), o recurso não foi admitido na origem, daí o presente agravo, no qual se busca o processamento do apelo nobre.
+É o relatório.
+DECIDO
+Ultrapassados os pressupostos de admissibilidade do agravo, passa-se a análise do recurso especial.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece acolhida.
+Quanto ao art. 93, IX,da Constituição Federal, observe-se que compete ao Superior Tribunal de Justiça, em sede de recurso especial, a análise da interpretação da legislação federal, motivo pelo qual se revelainviável invocar, nesta seara, a violação de dispositivos constitucionais pois, como consabido, a matéria é afeta à competência do Supremo Tribunal Federal.
+O argumento de que o acórdão atacado teria incorrido em negativa de prestação jurisdicional é improcedente.
+De fato, o Tribunal de origem indicou adequadamente os motivos que lhe formaram o convencimento, analisando de forma clara, precisa e completa as questões relevantes do processo e solucionando a controvérsia com a aplicação do direito que entendeu cabível à hipótese.
+Não há falar, portanto, em prestação jurisdicional lacunosa ou deficitária apenas pelo fato de o acórdão recorrido ter decidido em sentido contrário à pretensão do recorrente.
+Nesse sentido:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DANOS MATERIAIS. BENFEITORIAS EM IMÓVEL. EFEITO SUSPENSIVO. REQUISITOS. AUSÊNCIA. ART. 1.022 DO CPC/2015. VIOLAÇÃO. NÃO OCORRÊNCIA. EMBARGOS DE DECLARAÇÃO. EFEITOS MODIFICATIVOS. POSSIBILIDADE.
+1. A atribuição de efeito suspensivo a recurso especial está circunscrita à presença cumulativa dos requisitos da plausibilidade do direito invocado e no perigo de dano irreparável ou de difícil reparação, que não se fazem presentes na hipótese.
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. É possível a atribuição de efeitos infringentes aos embargos de declaração quando a alteração da decisão surgir como consequência lógica da correção da omissão, contradição ou obscuridade.
+4. Agravo interno não provido" (AgInt no AREsp 1.070.607/RN, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 25/8/2017 - grifou-se).
+No que diz respeito aoart. 373 do CPC/2015, verifica-se que as matéria versadas nos dispositivos apontados como violados no recurso especial não foiobjeto de debate pelas instâncias ordinárias, embora opostos embargos de declaração. Ausente o requisito do prequestionamento, incide o disposto na Súmula nº 211/STJ: "Inadmissível recurso especial quanto à questão que, a despeito da oposição de embargos declaratórios, não foi apreciada pelo Tribunal a quo".
+De mais a mais, não há impropriedade em afirmar a falta de prequestionamento e afastar a negativa de prestação jurisdicional, haja vista que o julgado está devidamente fundamentado sem, no entanto, ter decidido a causa à luz dos preceitos jurídicos suscitados pelo recorrente.
+Observe-se ainda que, de acordo com a jurisprudência deste Superior Tribunal, a admissão de prequestionamento ficto em recurso especial, previsto no art. 1.025 do CPC/2015, exige que no mesmo recurso seja reconhecida a existência de violação do art. 1.022 do CPC/2015, o que não é o caso dos autos.
+Sobre o tema:
+"CIVIL. PROCESSUAL CIVIL. RECURSO ESPECIAL. INVENTÁRIO. - LIQUIDAÇÃO PARCIAL DE SOCIEDADE LIMITADA. PARTICIPAÇÃO NOS LUCROS PROPORCIONAIS ÀS COTAS INVENTARIADAS - HERDEIROS SÓCIOS EM CONDOMÍNIO - CABIMENTO - PRESCRIÇÃO DO DIREITO - NÃO OCORRÊNCIA.
+01. Inviável o recurso especial na parte em que a insurgência recursal não estiver calcada em violação a dispositivo de lei, ou em dissídio jurisprudencial..
+02. Avaliar o alcance da quitação dada pelos recorridos e o que se apurou a título de patrimônio líquido da empresa, são matérias insuscetíveis de apreciação na via estreita do recurso especial, ante o óbice da Súmula 7/STJ.
+03. Inviável a análise de violação de dispositivos de lei não prequestionados na origem, apesar da interposição de embargos de declaração.
+04. A admissão de prequestionamento ficto (art. 1.025 do CPC/15), em recurso especial, exige que no mesmo recurso seja indicada violação ao art. 1.022 do CPC/15, para que se possibilite ao Órgão julgador verificar a existência do vício inquinado ao acórdão, que uma vez constatado, poderá dar ensejo à supressão de grau facultada pelo dispositivo de lei.
+05. O pedido de abertura de inventário interrompe o curso do prazo prescricional para todas as pendengas entre meeiro, herdeiros e/ou legatários que exijam a definição de titularidade sobre parte do patrimônio inventariado.
+06. Recurso especial não provido" (REsp 1.639.314/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 10/4/2017 - grifou-se).
+Vale anotar que a jurisprudência desta Corte é firme no sentido de que "o prequestionamento é indispensável ao conhecimento da questão veiculada no âmbito do Superior Tribunal de Justiça, ainda que se trate de matéria de ordem pública" (AgRg no REsp nº 1.505.392/PE, Rel.Ministro Paulo de Tarso Sanseverino, DJe 6/11/2015).
+Nesse sentido:
+"AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. CIVIL E PROCESSUAL CIVIL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA Nº 282/STF INTERPRETAÇÃO DE CLÁUSULA E REEXAME DE PROVA. SÚMULAS Nº 5 E Nº 7/STJ. INVIABILIDADE.
+1. Ausente o prequestionamento, até mesmo de modo implícito, dos dispositivos apontados como violados no recurso especial, incide, por analogia, o disposto na Súmula nº 282 do Supremo Tribunal Federal.
+2. As questões de ordem pública, embora passíveis de conhecimento de ofício nas instâncias ordinárias, não prescindem, no estreito âmbito do recurso especial, do requisito do prequestionamento.
+3. Rever questão decidida com base na interpretação das normas contratuais e no exame das circunstâncias fáticas da causa esbarra nos óbices das Súmulas nºs 5 e 7 deste Tribunal.
+4. Agravo regimental não provido" (AgRg no AREsp 568.759/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 27/10/2015 - grifou-se).
+Além disso, as conclusões do tribunal de origem acerca do mérito da demanda decorreram inquestionavelmente da análise do conjunto fático-probatório carreado aos autos, o que se pode facilmente aferir a partir da leitura dos fundamentos do julgado atacado, que ora se colaciona, na parte que interessa:
+"(..) Em 22/01/2020, o apelado emitiu uma notificação restringindo, de forma unilateral, a atuação do apelante aos casos já ajuizados até a data de 17/01/2020.
+Posteriormente, em 18/02/2020, o Síndico, por seu livre arbítrio, rescindiu o contrato de forma unilateral e contratou um novo escritório de advocacia, sem a prévia aprovação do Conselho Fiscal, sob a alegação de que o apelante não teria cumprido as cláusulas contratuais, pois teria cometido falhas na prestação dos serviços.
+Contudo, tal argumento foi regularmente rechaçado pelo apelante em Réplica (ID 20692813).
+Demais, a conduta do Síndico viola o disposto na Cláusula Sexta, item 6.4.3, alínea "a", da Convenção de Condomínio (ID 20692300). Vejamos:
+"6.4.3. Caberá ao Síndico, ainda, no exercício de suas funções e com recursos condominiais:
+(a) representar ativa e passivamente o Condomínio, em juízo ou fora dele, bem como praticar todos os atos em defesa dos interesses comuns, nos limites da lei, para o que lhe são conferidos os necessários poderes, especialmente para receber citação, firmar compromisso, confessar, transigir, desistir, receber e dar quitação. Para fins de defesa dos interesses comuns o Síndico fica autorizado a contratar advogado habilitado, após prévia aprovação do Conselho Fiscal do Condomínio".
+Diante disso, a resolução do contrato, da forma como operada, padece de ilegalidade, por violação ao Princípio da Boa-fé Objetiva.
+Como cediço, o Princípio da Boa-fé Objetiva, exige, em todas as fases da contratação, até mesmo na fase pós contratual, conduta leal dos contratantes, os quais devem observar os deveres anexos ou laterais de conduta, a fim de manter a confiança e as expectativas legítimas do Negócio Jurídico.
+"Segundo o artigo 422 do Código Civil, a boa-fé objetiva, como cláusula geral, norteia o negócio jurídico. Entre outras obrigações e deveres, a violação à boa-fé objetiva implica ferir a confiança que se gerou na outra parte. A parte que atuou segundo tal princípio não pode ser prejudicada pelo comportamento antijurídico da outra"(Acórdão 1092222, 07348507420178070001, Relator: FLAVIO ROSTIROLA, 3ª Turma Cível, data de julgamento: 25/4/2018, publicado no DJE: 8/5/2018.)
+In casu, o contrato firmado permite a rescisão por iniciativa de qualquer das partes, desde que a outra parteseja comunicada por escrito com antecedência mínima de 60 (sessenta) dias e acertados os valores devidos, de acordo com a Cláusula Sexta, alínea "d". O que não ocorreu" (fls. 565/566,e-STJ- grifou-se).
+Nesse contexto, denota-se que o acolhimento da pretensão recursal demandaria o revolvimento do acervo fático-probatório dos autos e a interpretação de cláusula contratual, o que se mostra inviável ante a natureza excepcional da via eleita, conforme dispõem os enunciados das Súmulas nºs 5 e 7 deste Superior Tribunal.
+Por fim, extrai-se das razões recursais que a parte recorrente não refutou o fundamento do acórdão recorrido, segundo o qual a rescisão do contrato é ilegal por violar o princípio da boa-fé objetiva, nos termos do art. 422 do Código Civil.
+Assim, havendo fundamento suficiente no julgado impugnado que não foi objeto de impugnação pela parte recorrente, aplica-se, no ponto, o óbice da Súmula nº 283/STF, aplicada por analogia: "É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles".
+Nesse sentido:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. EMBARGOS DE TERCEIRO. EXECUÇÃO PROVISÓRIA DE SENTENÇA. TERCEIRO DE BOA-FÉ. ART. 42, § 3º, DO CPC/73. VENDA DO IMÓVEL. LITÍGIO PRECEDENTE. INTERDITO PROIBITÓRIO. AUTOR. SUPOSTO TERCEIRO INTERESSADO. FUNDAMENTO INATACADO SUFICIENTE PARA MANUTENÇÃO DO ACÓRDÃO. SÚMULA Nº 283/STF. HISTÓRICO DOS FATOS. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. SÚMULA. Nº 7/STJ. DECISÃO MANTIDA.
+1. A subsistência de fundamento inatacado apto a manter a conclusão do aresto impugnado impõe o não conhecimento da pretensão recursal. Súmula nº 283/STF.
+2. (..).
+3. Agravo interno não provido" (AgInt nos EDcl no REsp 1.520.059/DF, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, DJe 15/9/2017 - grifou-se).
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. 1. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. 2. NULIDADE DO NEGÓCIO JURÍDICO. MIGRAÇÃO DO PLANO DE SAÚDE. INFORMAÇÃO INSUFICIENTE ACERCA DA AMPLITUDE DO NOVO PLANO. SÚMULA 7/STJ. 3. DANO MORAL RECONHECIDO. NÃO IMPUGNAÇÃO DE FUNDAMENTO DO ACÓRDÃO RECORRIDO NAS RAZÕES DO APELO NOBRE. APLICAÇÃO DA SÚMULA 283/STF, POR ANALOGIA. 4. AGRAVO INTERNO DESPROVIDO.
+1. Verifica-se que o Tribunal de origem analisou todas as questões relevantes para a solução da lide, de forma fundamentada, não havendo se falar em negativa de prestação jurisdicional.
+2. (..).
+3. Considerando que nem todos os fundamentos do acórdão recorrido foram objeto de impugnação específica nas razões do recurso especial, é imperiosa a incidência, à hipótese, do óbice da Súmula n. 283 do Supremo Tribunal Federal.
+4. Agravo interno desprovido" (AgInt no AREsp 1.091.133/MG, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 15/9/2017 - grifou-se).
+Ante o exposto, conheço do agravo para conhecer em parte do recurso especial e, nessa extensão, negar-lhe provimento.
+Na origem, os honorários advocatícios foram fixados em 10% (dez por cento) sobre o valor atualizado da condenação,os quais deverão ser majorados para 15% (quinze por cento), em favor dos advogados da parte recorrida, nos termos do art. 85, § 11, do CPC/2015, observada a gratuidade da justiça, se for o caso.
+Publique-se.
+Intimem-se.
