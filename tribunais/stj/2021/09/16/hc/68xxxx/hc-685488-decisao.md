@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de DOUGLAS TEIXEIRA DE FARIA e RAQUEL DA SILVA, apontando como autoridade coatora o Desembargador Relator do HC n. 0046241-79.2021.8.16.0000, em curso perante o Tribunal de Justiça do Estado do Paraná.
+Segundo a defesa, os pacientes foram denunciados e posteriormente pronunciados, nos autos da Ação Penal n. 0001249-83.2019.8.16.0006, pela suposta prática do crime tipificado no artigo 121, § 2º, incisos I, III e IV, combinado com o artigo 29, todos do Código Penal.
+Designada data para a realização do julgamento perante o Tribunal do Júri, narra a defesa que o Juízo de primeiro grau não permitiu a presença física dos réus, atualmente recolhidos ao cárcere, no fórum do Tribunal do Júri de Curitiba/PR para que pudessem participar presencialmente do julgamento, sendo determinada a realização do interrogatório dos pacientes, apenas, por meio de videoconferência.
+Irresignada, a defesa impetrou habeas corpus perante a Corte local, contudo, segundo a inicial, até o presente momento não houve sequer a apreciação do pedidoliminar pelo Desembargador Relator, Dr. ADALBERTO JORGE XISTO.
+Daí o presente habeas corpus, no qual a defesa, sob o argumento de que o caso em exame é de superação da Súmula 691 do STF, sustenta a ocorrência de flagrante constrangimento ilegal em razão da "excessiva demora" na apreciação do pedido liminar contido no habeas corpus impetrado no TJPR pela defesa dos pacientes, tendo em vista que se aproxima a realização da sessão do júri.
+Segundo a inicial, "a defesa, em 29/7/2021, impetrou o Habeas Corpus nº 0046241-79.2021.8.16.0000 junto ao Tribunal de Justiça do Estado do Paraná (doc. 15). Contudo, mesmo os autos estando conclusos ao gabinete do Excelentíssimo Desembargador Relator desde o dia 30/7/2021, ou seja, há mais de 06 (seis) dias, ainda não houve pronunciamento quanto ao pedido liminar contido no writ impetrado" (e-STJ fl. 5).
+Ao final, pugna, liminarmente, pela suspensão da sessão do Tribunal do Júri, até o julgamento definitivo deste mandamus. No mérito, requer seja concedida a ordem, a fim de que os pacientes sejam conduzidos à sessão plenária.
+O pedido liminar foi indeferido (e-STJ fls. 101/103).
+As informações foram devidamente prestadas pela autoridade apontada como coatora (e-STJ fls. 108/119).
+O Ministério Público Federal opinou pela prejudicialidade do presente mandamus, em parecer assim ementado (e-STJ fl. 121):
+DIREITO PROCESSUAL PENAL. HABEAS CORPUS. PEDIDO DE CONCESSÃO DA ORDEM PARA QUE SEJA GARANTIDA A PRESENÇA FÍSICA DOS PACIENTES NA SESSÃO DE JULGAMENTO DO JÚRI. PEDIDO ACOLHIDO NA ORIGEM. PERDA DO OBJETO. PARECER DO MPF NO SENTIDO DE QUE O HABEAS CORPUS SEJA TIDO POR PREJUDICADO.
+É o relatório. Decido.
+Conforme destacado pelo representante do Ministério Público Federal, verifico que opedido contido neste mandamus (concessão da ordem para que os pacientes sejam conduzidos à sessão plenária designada para o dia 10/8/2021) está prejudicado.
+Isso porque, segundoas informações prestadas pelo próprio Desembargador Relator do writ originário, Dr. Adalberto Jorge Xisto Pereira,o pedido liminar foi examinado e indeferido no dia 6/8/2021, oportunidade na qual foram transcritasas decisões do Juízo de primeiro graupor meiodas quais facultou-se aos pacientes participarem da sessão de julgamento por videoconferência e indeferiu-se pedido de reconsideração.
+Após, no julgamento definitivo do referidomandamus, prestadas as informações pelo juízo de origeme colhida a manifestação da Procuradoria-Geral de Justiça, o Relator julgou prejudicado o writ lá impetrado, pois, "Em consulta aos autos de origem verifica-se que o julgamento efetivamente ocorreu na data designada, tendo ambos os pacientes dele participado, inclusive fisicamente" (e-STJ fl. 113).
+Desse modo, constata-se a perda supervenientedoobjetodopresente mandamus.
+Ante o exposto,julgo prejudicadoo presente habeas corpus.
+Intimem-se.
