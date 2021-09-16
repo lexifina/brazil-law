@@ -1,0 +1,22 @@
+DECISÃO
+Cuida-se de agravo apresentado por SUPERVIA - CONCESSIONÁRIA DE TRANSPORTE FERROVIÁRIO S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+AGRAVO DE INSTRUMENTO. AÇÃO DE CONHECIMENTO. SENTENÇA DE PARCIAL PROCEDÊNCIA, EM FASE DE CUMPRIMENTO. DECISÃO QUE LIQUIDOU O QUANTUM DEBEATUR, RECONHECENDO O EXCESSO DE EXECUÇÃO. INTIMAÇÃO PARA PAGAMENTO, NOS TERMOS DO ART. 523, DO CPC. DEPÓSITO DO VALOR GLOBAL DE FORMA PARCELADA E DENTRO DO PRAZO LEGAL. PLEITO DAS EXEQUENTES PELA APLICAÇÃO DA CORREÇÃO MONETÁRIA SOBRE CADA DEPÓSITO EFETUADO. POSSIBILIDADE. APESAR DE O PAGAMENTO TER SIDO REALIZADO NO PRAZO LEGAL, A CORREÇÃO MONETÁRIA É PENALIDADE AO DEVEDOR, MAS MERA COMPENSAÇÃO DA PERDA DO PODER AQUISITIVO DA MOEDA. ATUALIZAÇÃO QUE DEVE SER APLICADA SOBRE O MONTANTE DEVEDOR, APURADO APÓS O DESCONTO DE CADA PARCELA DEPOSITADA, SOB PENA DE ENRIQUECIMENTO ILÍCITO DO EXECUTADO. PROVIMENTO DO RECURSO.
+Quanto à controvérsia, pela alínea "a" do permissivo constitucional, alega violação do art. 523 do CPC, no que concerne à desnecessidade de atualização do valor da condenação ao tempo de cada depósito, uma vez que realizado antes da intimação definitiva para pagamento, trazendo os seguintes argumentos:
+No entanto, conforme se verifica dos comprovantes a seguir, a ré efetuou TODOS OS DEPÓSITOS ANTES DA INTIMAÇÃO PARA PAGAMENTO DO ART. 523 DO CPC OU DENTRO DO SEU PRAZO, não cabendo, evidentemente, a atualização monetária.
+ ..
+Deste modo, não há que se falar em necessidade de atualização do valor da condenação ao tempo de cada depósito realizado. Isso só ocorreria caso a Ré tivesse realizado o pagamento da condenação de forma parcelada, após transcorrer o prazo para pagamento do art. 523 do CPC, O QUE NÃO É O CASO DOS AUTOS!!
+ ..
+Em outras palavras, O VALOR TOTAL DEPOSITADO PELA EMPRESA RÉ, ULTRAPASSA O VALOR EXECUTADO PELA PARTE AUTORA, EM RAZÃO DA ATUALIZAÇÃO DA QUANTIA, sendo, de qualquer forma, INDEVIDA QUALQUER DIFERENÇA! (fls. 51-53).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Conforme acima verificado, ao condenar-se o devedor ao cumprimento de obrigação de pagar quantia certa, haverá o prazo de quinze dias para satisfação voluntária do débito que, não sendo realizada, acarretará na penalidade de multa de 10% sobre o valor total da condenação.
+ ..
+Com efeito, compulsando atentamente os autos originários, verifica-se que foram realizados dois depósitos de R$50.000,00, e um depósito de R$ 266.997,36, datados de 05/09/2019, 24/09/2109 e 08/11/2019, respectivamente. Nesse contexto, a atualização que deve ser aplicada sobre o montante devedor superveniente, apurado após o desconto de cada parcela depositada, assistindo razão às recorrentes.
+ ..
+Logo, constata-se que mesmo que a parte ré tenha realizado o pagamento espontâneo dentro do prazo assinalado pela legislação, tal fato não possui o condão da afastar a aplicação da correção monetária devida (fls. 38-40).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
