@@ -1,0 +1,26 @@
+Decisão: Trata-se de reclamação constitucional proposta em favor de Vinicius de Moraes Mendes, em face do Juiz de Direito Criminal da Comarca de Tupã/SP, que deixou de suspender o prazo processual nos autos nº 1500260-03.2021.8.26.0637.
+    Argumenta que a referida decisão contraria a RESOLUÇÃO 314 do CNJ e o entendimento do Mandado de segurança (MS) 37165-STF.
+    Afirma que encontra-se aberto o prazo para “dar regular andamento ao processo”. Entretanto, a pandemia da Covid-19 impede a defesa de executar atos de defesa que exijam coleta prévia de elementos probatórios por parte do procurador.
+    Acrescenta que “reunir o conjunto probatório para o caso está sendo trabalhoso, uma vez que compreende diligências por câmeras, imagens e testemunhos, o que inevitavelmente esse período de pandemia atrapalha essa busca por provas”.
+    Requer, portanto, a suspensão do prazo processual por 30 dias. (eDOC 1).
+    Deixo tanto de determinar a citação do Juízo reclamado em decorrência da inviabilidade da reclamação. Igualmente, dispenso a manifestação do Procurador-Geral da República.
+    É o relatório.
+    Decido.
+    Conforme disposto na Constituição Federal, compete ao STF processar e julgar originariamente reclamação para a preservação de sua competência e garantia da autoridade de suas decisões (art. 102, I, l, da CF/88).
+    Nesses termos, transcrevo abaixo o art. 988 do CPC, que estabelece o rol das hipóteses de cabimento da reclamação, o qual não contempla o caso dos autos:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para:
+    I - preservar a competência do tribunal;
+    II - garantir a autoridade das decisões do tribunal;
+    III- garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; (Redação dada pela Lei nº 13.256, de 2016)
+    IV- garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência (…). (Redação dada pela Lei nº 13.256, de 2016).”
+    No presente feito, não se verifica nenhuma dessas hipóteses, uma vez que a decisão indicada pelo reclamante não é dotada de efeito vinculante. Com efeito, a jurisprudência do Supremo Tribunal Federal assentou-se no sentido do não cabimento de reclamação por afronta à autoridade de súmula do STF ou de decisão não dotada de efeito vinculante.
+    No caso, verifico que a decisão paradigma (MS 37.165/STF) foi prolatada em processo de índole subjetiva, no qual o reclamante não figurou como parte, o que inviabiliza o prosseguimento da reclamação. Confiram-se, a propósito, os seguintes julgados:
+    “AGRAVO REGIMENTAL NA RECLAMAÇÃO. DECISÃO AGRAVADA EM HARMONIA COM A JURISPRUDÊNCIA DESTA SUPREMA CORTE QUE ORIENTA A MATÉRIA. PEDIDO QUE NÃO SE ENQUADRA EM NENHUMA DAS HIPÓTESES DE CABIMENTO DE RECLAMAÇÃO PREVISTAS NO ART. 102, I, l, DA CONSTITUIÇÃO FEDERAL. ALEGADA AFRONTA AO QUE DECIDIDO NO MANDADO DE SEGURANÇA 37.165/DF. DECISÃO DESPROVIDA DE EFICÁCIA VINCULANTE E EFEITOS ERGA OMNES. AGRAVO REGIMENTAL A QUE SE NEGA PROVIMENTO. I – A decisão ora atacada não merece reforma ou qualquer correção, pois os seus fundamentos harmonizam-se estritamente com a jurisprudência desta Suprema Corte que orienta a matéria. A análise da reclamação foi exauriente, respeitados os estreitos limites deste meio processual, como se pode verificar do documento eletrônico correspondente. II – O pedido formulado não se enquadra em nenhuma das hipóteses de cabimento de reclamação previstas no art. 102, I, l, da Constituição Federal, seja para preservar a competência desta Suprema Corte, seja para garantir a autoridade de suas decisões e súmulas vinculantes. III – Esta Suprema Corte assentou a impossibilidade da propositura de reclamação que tenha por objetivo assegurar o cumprimento de decisões desprovidas de eficácia vinculante e efeitos erga omnes. IV – Agravo regimental a que se nega provimento. (Rcl 46.232 AgR, Rel. Min. Ricardo Lexandowski, 2ª Turma, DJe 11.5.2021)
+    “Agravo regimental em reclamação. Paradigma extraído de ações de caráter subjetivo. Ausência dos requisitos. Perfil constitucional da reclamação. Agravo regimental não provido. 1. Por atribuição constitucional, presta-se a reclamação para preservar a competência do STF e garantir a autoridade de suas decisões (art. 102, inciso I, alínea l, CF/88), bem como para resguardar a correta aplicação das súmulas vinculantes (art. 103-A, § 3º, CF/88). 2. Inadmissibilidade do uso da reclamação por alegada ofensa à autoridade do STF e à eficácia de decisão proferida em processo de índole subjetiva quando a parte reclamante não figurar como sujeito processual nos casos concretos versados no paradigma, pois não há obrigatoriedade de seu acatamento vertical por tribunais e juízos. 3. Agravo regimental não provido. (Rcl-AgR 5.391, Rel. Min. Dias Toffoli, Tribunal Pleno, DJe 1º.3.2013).
+    Portanto, não identifico qualquer dos pressupostos de cabimento da reclamação.
+    Ante o exposto, nego seguimento à reclamação (art. 21, § 1º, do RISTF).
+    Publique-se.
+    Brasília, 16 de setembro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente.
