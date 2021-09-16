@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, denegar a ordem, cassando a liminar anteriormente deferida, e julgar prejudicado o agravo regimental interposto pela União, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Assusete Magalhães, Regina Helena Costa, Gurgel de Faria, Manoel Erhardt (Desembargador convocado do TRF-5ª Região), Francisco Falcão, Herman Benjamin, Og Fernandes e Mauro Campbell Marques votaram com o Sr. Ministro Relator.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCLUSÃO NO CADASTRO DE EMPREGADORES QUE SUBMETEM TRABALHADORES A CONDIÇÕES ANÁLOGAS ÀS DE ESCRAVO. ATRIBUIÇÃO DA SECRETARIA DE INSPEÇÃO DO TRABALHO - SIT. ILEGITIMIDADE PASSIVA AD CAUSAM DO MINISTRO DE ESTADO DO TRABALHO E EMPREGO. INCOMPETÊNCIA DO STJ PARA PROCESSAMENTO E JULGAMENTO DO FEITO.
+1. Nos termos da jurisprudência desta Corte, os atos de inclusão/exclusão no Cadastro de Empregadores que submetem trabalhadores a condições análogas às de escravo competem à Secretaria de Inspeção de Trabalho - SIT e não ao Ministro de Estado do Trabalho e Emprego, razão pela qual falece competência ao STJ para processar e julgar o presente mandamus, tendo em vista a ilegitimidade passiva da autoridade apontada como coatora. Precedentes.
+2. Segurança denegada, cassada a liminar anteriormente deferida e prejudicado o agravo regimental interposto pela União.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de mandado de segurança impetrado por MRV Engenharia e Participações S/A e Prime Incorporações e Construções Ltda. contra ato do Sr. Ministro de Estado do Trabalho e Emprego, consubstanciado na inclusão dos seus nomes no Cadastro de Empregadores que submetem trabalhadores a condições análogas às de escravo.
+Em suas razões, os impetrantes sustentam, em suma, que: (i) a inclusão dos seus nomes no rol desabonador supra não foi precedida de nenhum ato administrativo, o que evidencia manifesta ilegalidade; (ii) as consequências advindas da inclusão no referido cadastro são gravíssimas, acarretam prejuízos de ordem moral e material e podem, inclusive, encerrar a suas atividades (perigo da demora); e (iii) a inclusão dos seus nomes do indigitado assentamento, em total inobservância às prescrições da Lei 9.784/1999, faz exsurgir a plausibilidade dos argumentos jurídicos (fumaça do bom direito).
+Daí a presente impetração, na qualrequerem a concessão de medida liminar, a fim de que a autoridade coatora seja imediatamente compelida a excluir os seus nomes do Cadastro de Empregadores que submetem trabalhadores a condições análogas às de escravo.
+No mérito, pugnam pela convalidação definitiva do provimento precário, na ocasião do julgamento do mérito desta impetração.
+Liminar deferida, bem como determinada a regular instrução do feito (fls. 2.161-2.162).
+A União, às fls. 2.168-2.184, requereu seu ingresso no feito e salientou as seguintes considerações: (i) a autoridade coatora é parte ilegítima para figurar no polo passivo da presente impetração; (ii) o STJ é absolutamente incompetente para processar e julgar este mandado de segurança; (iii) os impetrantes são litigantes de má-fé, pois ajuizaram anterior ação mandamental contra a mesma autoridade coatora, impugnando o mesmo ato coator perante esta Corte (MS 19.026/DF), sendo que posteriormente desistiram desse writ of mandamus. Também ajuizaram mandado de segurança na Justiça Trabalhista de primeiro grau de Brasília e posteriormente vieram a desistir desse processo; e (iv) a inclusão do nome das impetrantes no cadastro desabonador foi precedida de todas as formalidades previstas na Lei 9.784/1999.
+A União juntou documento comprobatório acerca do cumprimento da ordem exarada na medida liminar (fls. 2.209-2.210) e, às fls. 2.218-2.237, interpôs agravo regimental contra a decisão que deferiu referida ordem.
+A autoridade coatora prestou informações, às 2.302-2.311, alegando ser parte ilegítima para responder os termos da presente ação mandamental, bem como defendendo a competência da Justiça do Trabalho para decidir sobre as questões afetas ao Cadastro de empregadores que submetem trabalhadores a condições análogas às de escravo.
+O Ministério Público Federal opinou pela denegação de ordem, tendo em vista a ilegitimidade passiva ad causam do Sr. Ministro de Estado do Trabalho e Emprego (fls. 2.326-2.329).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL E ADMINISTRATIVO. MANDADO DE SEGURANÇA. INCLUSÃO NO CADASTRO DE EMPREGADORES QUE SUBMETEM TRABALHADORES A CONDIÇÕES ANÁLOGAS ÀS DE ESCRAVO. ATRIBUIÇÃO DA SECRETARIA DE INSPEÇÃO DO TRABALHO - SIT. ILEGITIMIDADE PASSIVA AD CAUSAM DO MINISTRO DE ESTADO DO TRABALHO E EMPREGO. INCOMPETÊNCIA DO STJ PARA PROCESSAMENTO E JULGAMENTO DO FEITO.
+1. Nos termos da jurisprudência desta Corte, os atos de inclusão/exclusão no Cadastro de Empregadores que submetem trabalhadores a condições análogas às de escravo competem à Secretaria de Inspeção de Trabalho - SIT e não ao Ministro de Estado do Trabalho e Emprego, razão pela qual falece competência ao STJ para processar e julgar o presente mandamus, tendo em vista a ilegitimidade passiva da autoridade apontada como coatora. Precedentes.
+2. Segurança denegada, cassada a liminar anteriormente deferida e prejudicado o agravo regimental interposto pela União.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Preliminarmente, a parte impetrante é carecedora do direito de ação em razão da manifesta ilegitimidade passiva do Sr. Ministro de Estado do Trabalho e Emprego. Isso porque compete à Secretaria de Inspeção do Trabalho - SIT a inclusão/exclusão no Cadastro de Empregadores que submetem trabalhadores a condições análogas às de escravo.
+Deveras, a Portaria do Ministério do Trabalho e Emprego n. 483/2004 (anexo VI) é clara ao responsabilizar o aludido órgão por manter e organizar as informações e dados a respeito da erradicação do Trabalho Escravo.
+Confira-se:
+Art. 2º. A Secretaria de Inspeção do Trabalho - SIT tem a seguinte estrutura organizacional:
+ ..
+3. Departamento de Fiscalização do Trabalho - DEFIT.
+3.1. Divisão de Fiscalização para a Erradicação do Trabalho Escravo - DETRAE;
+ ..
+Art. 12. À Divisão de Fiscalização para a Erradicação do Trabalho Escravo compete:
+ ..
+VII - organizar e manter arquivo de informações e dados sobre a erradicação do trabalho escravo;
+Logo, ressoa evidente não ser a autoridade impetrada responsável pela inclusão do nome das empresas impetrantes no rol desabonador em questão.
+A propósito, a Primeira Seção desta Corte no julgamento do MS 21.116/DF, Rel. Ministro Og Fernandes, DJe 12/2/2021, reafirmou a pacífica jurisprudência desta Corte acerca da ilegitimidade do Ministro do Trabalho e Emprego para figurar nas ações em que se busca a exclusão do Cadastro de empregadores que sujeitaram trabalhadores a condições análogas à de escravo, conforme precedentes a seguir listados: EDcl no MS 21.190/DF, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 16/11/2015; MS 19.793/DF, Rel. Ministro Mauro Campbell Marques, Primeira Seção, DJe 11/3/2014.
+Em igual sentido, as seguintes decisões monocráticas: MS 21.795/DF, Rel. Ministra Assusete Magalhães, DJe 13/5/2020; MS 20.575/DF, Rel. Ministro Gurgel de Faria, DJe 5/11/2018; MS 24.331/DF, Rel. Ministro Herman Benjamin, DJe 29/5/2018; MS 21.159/DF, Rel. Ministro Napoleão Nunes Maia Filho, DJe 4/9/2017.
+Diante do exposto, denego a segurança em face da manifesta ilegitimidade passiva ad causam da autoridade impetrada, forte no § 5º do artigo 6º da Lei n. 12.016/2009 combinado com o art. 485, VI, do CPC/2015. Outrossim, revogo a liminar deferida às fls. 2.161-2.162 e julgo prejudicado o agravo regimental interposto pela União àsfls. 2.218-2.237.
+É como voto.
