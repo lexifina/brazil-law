@@ -1,0 +1,33 @@
+DECISÃO
+Trata-se de recurso especial interposto por Florinaldo Rosan - espólio - e outra, com fundamento no artigo 105, III, "a" e "c", da Constituição Federal, contra o acórdão assim ementado:
+"APELAÇÃO CÍVEL. AÇÃO DE EVICÇÃO CUMULADA COM INDENIZAÇÃO. SENTENÇA DE EXTINÇÃO DO PROCESSO, COM RESOLUÇÃO DE MÉRITO. DECRETAÇÃO DA PRESCRIÇÃO TRIENAL. ARTIGO 206, § 3º, V, DO CÓDIGOCIVIL. APELAÇÃO. PRELIMINAR. NULIDADE DA SENTENÇA POR FALTA DE FUNDAMENTAÇÃO (CPC, ART. 489, § 1º, VI). INOCORRÊNCIA. JULGADOS INVOCADOS PELA PARTE QUE NÃO FIGURAM ENTRE AS DECISÕES DE OBSERVÂNCIA OBRIGATÓRIA A QUE ALUDE O ARTIGO 927 DO CÓDIGO DEPROCESSO CIVIL. ACÓRDÃOS PROVENIENTES DE OUTROS TRIBUNAIS ESTADUAIS QUE NÃO PODEM SER CONSIDERADOS COMO "PRECEDENTES" PARA OS FINS DO ARTIGO 489, § 1º, VI DO CÓDIGO DE PROCESSO CIVIL. NÃO OBRIGATORIEDADE DA APLICAÇÃO DA TÉCNICA DA "DISTINÇÃO", NO CASO CONCRETO. MÉRITO. PRETENDIDA APLICAÇÃO DO PRAZO DECENAL DO ARTIGO 205 DO CÓDIGO CIVIL, POR SE TRATAR DE AÇÃO DE NATUREZA PESSOAL. INVIABILIDADE. CÓDIGO CIVIL DE 2002 QUE NÃO FAZ DISTINÇÃO ENTRE DIREITOS PESSOAIS E DIREITOS REAIS PARA FINS DE PRESCRIÇÃO. PRETENSÃO DE REPARAÇÃO DE DANOS FUNDADA NA GARANTIA DA EVICÇÃO, QUE SE SUBMETE AO PRAZO DE TRÊS ANOS PREVISTO PARA AS PRETENSÕES DE REPARAÇÃO CIVIL (CPC,ART.206,§3º,V). ENTENDIMENTO MATERIALIZADO PELA TERCEIRA TURMA DO SUPERIOR TRIBUNAL DE JUSTIÇA NO JULGAMENTO DO RECURSO ESPECIAL Nº 1.577.229/MG. TERMO INICIAL. TRÂNSITO EM JULGADO DA AÇÃO DECLARATÓRIA (06.10.2010) QUE CONFERIU CERTEZA À SITUAÇÃOJ URÍDICA AFIRMADA PELOS AUTORES, ISTO É, DE QUE O IMÓVEL ADQUIRIDO DOS RÉUS ESTÁ LOCALIZADO DENTRO DO PARQUE NACIONAL DO XINGU. PROPOSITURA DA AÇÃO INDENIZATÓRIA FUNDADA NA EVICÇÃO EM 23.12.2015. RECURSO ADESIVO. HONORÁRIOS ADVOCATÍCIOS DE SUCUMBÊNCIA ARBITRADOS EM R$ 10.000,00. PRETENDIDA MAJORAÇÃO ENTRE 10% A 20% DO VALOR ATRIBUÍDO À CAUSA (R$ 11.741.840,00). INVIABILIDADE, FRENTE ÀS PARTICULARIDADES DO CASO CONCRETO. VERBA ARBITRADA PELO JUÍZO QUE ATENDE AOS CRITÉRIOS DEFINIDOS NO ARTIGO 85, § 2º, DO CÓDIGO DE PROCESSO CIVIL. JUÍZO DE EQUIDADE E PROPORCIONALIDADE. APELAÇÃO E RECURSO ADESIVO DESPROVIDOS" (fls. 359-560, e-STJ).
+No recurso especial, a recorrente alega, além de dissídio jurisprudencial, violação dos arts. 205 e 206 do Código Civil, pois o prazo prescricional aplicável à ação indenizatória fundada na garantia de evicção é o decenal.
+Sem contrarrazões (fl. 405, e-STJ).
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+O recurso merece prosperar.
+O tribunal local, ao analisar a controvérsia, consignou:
+"(..)
+A norma em comento é, pois, aplicável a qualquer pretensão reparatória de natureza civil a que a lei não tenha estabelecido prazo específico.
+É preciso salientar que o Código Civil de 2002 não faz distinção entre direitos pessoais e direitos reais para fins de prescrição, como ocorria na legislação anterior. Disso resulta que a natureza pessoal da demanda, isoladamente considerada, não é suficiente para atrair a incidência do prazo geral de dez anos do artigo 205.
+Conclui-se, portanto, que a pretensão de reparação por perdas e danos fundada na responsabilidade contratual e objetiva do alienante pelos riscos da evicção deve mesmo se submeter ao prazo prescricional de três anos, previsto no artigo 206, § 32, V, do Código Civil" (fl. 366, e-STJ).
+Todavia, a jurisprudência desta Corte se firmou no sentido de ser decenal o prazo prescricional nas hipóteses de reparação civil.
+A propósito:
+"AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EVICÇÃO. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. REPARAÇÃO CIVIL CONTRATUAL. PRESCRIÇÃO DECENAL. ART. 205 DO CÓDIGO CIVIL DE 2002. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO DO ACÓRDÃO RECORRIDO. SÚMULA 283/STF. AGRAVO INTERNO DESPROVIDO.
+1. A manutenção de argumento que, por si só, sustenta o acórdão recorrido torna inviável o conhecimento do apelo especial, atraindo a aplicação do enunciado n. 283 da Súmula do Supremo Tribunal Federal.
+2. Razões recursais insuficientes para a revisão do julgado.
+3. Agravo interno desprovido"
+(AgInt no AREsp 1.611.241/MS, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 25/5/2020, DJe 28/5/2020 - grifou-se).
+"CIVIL E PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA NO RECURSO ESPECIAL. DISSENSO CARACTERIZADO. PRAZO PRESCRICIONAL INCIDENTE SOBRE A PRETENSÃO DECORRENTE DA RESPONSABILIDADE CIVIL CONTRATUAL. INAPLICABILIDADE DO ART. 206, § 3º, V, DO CÓDIGO CIVIL. SUBSUNÇÃO À REGRA GERAL DO ART. 205, DO CÓDIGO CIVIL, SALVO EXISTÊNCIA DE PREVISÃO EXPRESSA DE PRAZO DIFERENCIADO. CASO CONCRETO QUE SE SUJEITA AO DISPOSTO NO ART. 205 DO DIPLOMA CIVIL. EMBARGOS DE DIVERGÊNCIA PROVIDOS.
+I - Segundo a jurisprudência deste Superior Tribunal de Justiça, os embargos de divergência tem como finalidade precípua a uniformização de teses jurídicas divergentes, o que, in casu, consiste em definir o prazo prescricional incidente sobre os casos de responsabilidade civil contratual.
+II - A prescrição, enquanto corolário da segurança jurídica, constitui, de certo modo, regra restritiva de direitos, não podendo assim comportar interpretação ampliativa das balizas fixadas pelo legislador.
+III - A unidade lógica do Código Civil permite extrair que a expressão "reparação civil" empregada pelo seu art. 206, § 3º, V, refere-se unicamente à responsabilidade civil aquiliana, de modo a não atingir o presente caso, fundado na responsabilidade civil contratual.
+IV - Corrobora com tal conclusão a bipartição existente entre a responsabilidade civil contratual e extracontratual, advinda da distinção ontológica, estrutural e funcional entre ambas, que obsta o tratamento isonômico.
+V - O caráter secundário assumido pelas perdas e danos advindas do inadimplemento contratual, impõe seguir a sorte do principal (obrigação anteriormente assumida). Dessa forma, enquanto não prescrita a pretensão central alusiva à execução da obrigação contratual, sujeita ao prazo de 10 anos (caso não exista previsão de prazo diferenciado), não pode estar fulminado pela prescrição o provimento acessório relativo à responsabilidade civil atrelada ao descumprimento do pactuado.
+VI - Versando o presente caso sobre responsabilidade civil decorrente de possível descumprimento de contrato de compra e venda e prestação de serviço entre empresas, está sujeito à prescrição decenal (art. 205, do Código Civil).
+Embargos de divergência providos"
+(EREsp 1.281.594/SP, Rel. Ministro BENEDITO GONÇALVES, Rel. p/ Acórdão Ministro FELIX FISCHER, CORTE ESPECIAL, julgado em 15/5/2019, DJe 23/5/2019 - grifou-se ).
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se.
+Intimem-se.
