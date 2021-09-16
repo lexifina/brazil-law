@@ -1,0 +1,31 @@
+DECISÃO
+Cuida-se de agravo apresentado por CAIXA SEGURADORA S/A contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alíneas "a" e "c" da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ, assim resumido:
+Processual Civil. Apelação Civel. Ausência de Comprovação da Complementação do Preparo. Recurso Inexistente. Preparo não Comprovado. Deserção. Recurso não Conhecido. Art. 511, do CPC.
+1. Conforme consta nos autos, despacho às fls. 179, desta relatoria, chamando o feito à ordem e determinando a intimação da Recorrente para, em 05 (cinco) dias, complementar o preparo, sob pena de deserção, a apelante deixou transcorrer o prazo in albis, ocorrendo a deserção, e o não conhecimento do recurso, ex vi do art. 511, do CPC. Desse modo, sem a presença dos requisitos extrínsecos necessários à admissibilidade do recurso, dentre os quais o recolhimento do preparo, mostra-se impossibilitado o conhecimento do mesmo.
+2. Incidência, por analogia, da Súmula nº 187/STJ. Desse modo, a pretensão recursal encontra-se fulminada pela deserção.
+3. Isso posto, voto pelo não conhecimento do recuro de apelação cível, ante a ausência de preparo.
+Alega a recorrente violação e divergência de interpretação do art. 1.007 do CPC, porque tempestiva a complementação do preparo recursal, conforme comprovado documentalmente, trazendo os seguintes argumentos:
+À luz do art. 1007, § 2º do CPC-15, o não pagamento gera a inadmissão do recurso, contudo, no caso dos autos, houve a comprovação do recolhimento das custas nos autos que foi posteriormente complementada dentro do prazo estabelecido.
+É importante salientar que não ocorreu nos autos a ausência de comprovação de recolhimento de custas, sendo violado, portanto o disposto no art 1007 do CPC/15:
+ ..
+Em verdade, o que houve, foi a insuficiência do preparo, necessitando assim que fosse feita a sua complementação o que foi realizado.
+No que tange a complementação do preparo, cumpre pontuar que o Art, 1.007, no § 2º, do NCPC, traz essa possibilidade para os casos em que ocorra a sua insuficiência, como ocorreu no caso em tela.
+ ..
+Pois bem, Excelentíssimo, seguindo o que preceitua Artigo supramencionado, houve a intimação da Requerente para complementar o preparo no prazo de 5 dias, o que, conforme já fora demonstrado, ocorreu tempestivamente, no dia 17/04/2017, como se verifica no comprovante colacionado abaixo:  .. .
+ ..
+O CPC/15, buscando o aproveitamento processual, pelo princípio da instrumentalidade das formas, almejando a retirada de outros empecilhos formais sobre o preparo para tentar ao máximo chegar ao julgamento de mérito.
+E no caso dos autos, a Seguradora demonstrou cabalmente a comprovação da complementação referente ao recolhimento, sanando assim, os vícios supostamente existentes.
+Dessa forma, restou violado o art. 1007 do CPC/15, uma vez que restou comprovado o recolhimento das custas processuais da Apelação Cível, tempestivamente, devendo ser reformado o acórdão atacado, devolvendo o referido recurso para julgamento de admissibilidade nos termos aventados na ocasião. (fls. 344/346).
+É, no essencial, o relatório. Decido.
+Quanto à controvérsia pela alínea "a" do permissivo constitucional, na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Pelo comando do dispositivo, veda-se o recolhimento das custas em ato distinto ao da interposição do recurso, ainda que dentro do prazo recursal.
+Com efeito, o recorrente deixou de comprovar o pagamento do preparo no exato momento da interposição do recurso, sendo intimada para a complementação, a mesma descumpriu o despacho de fls. 179, caracterizando-se a irregularidade do preparo quando interpõe o recurso sem o aludido comprovante, ensejando a deserção e o não conhecimento do recurso. (fls. 228/229)
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido: "O recurso especial não será cabível quando a análise da pretensão recursal exigir o reexame do quadro fático-probatório, sendo vedada a modificação das premissas fáticas firmadas nas instâncias ordinárias na via eleita (Súmula n. 7/STJ)". (AgRg no REsp n. 1.773.075/SP, relator Ministro Felix Fischer, Quinta Turma, DJe 7/3/2019.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp n. 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp n. 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp n. 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp n. 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Quanto à controvérsia pela alínea "c" do permissivo constitucional, não foi comprovada a divergência jurisprudencial, uma vez que não cumpridos os requisitos legais dos arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ.
+Nesse sentido: "Não se conhece de recurso especial interposto pela divergência jurisprudencial quando esta não esteja comprovada nos moldes dos arts. 541, parágrafo único, do CPC/73 (reeditado pelo art. 1.029, § 1º, do NCPC), e 255 do RISTJ. Precedentes". (AgInt no AREsp 1.615.607/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 20/5/2020.)
+Confiram-se ainda os seguintes julgados: REsp 1.575.943/DF, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 2/6/2020; AgInt no REsp 1.817.727/SP, relator Ministro Herman Benjamin, Segunda Turma, DJe de 18/5/2020; AgInt no AREsp 1.504.740/SP, relator Ministro Raul Araújo, Quarta Turma, DJe de 8/10/2019; AgInt no AREsp 1.339.575/DF, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 2/4/2019; AgInt no REsp 1.763.014/RJ, relator Ministro Mauro Campbell Marques, Segunda Turma, DJe de 19/12/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
