@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial interposto por BRADESCO SAÚDE S.A., com fulcro no art. 105, inciso III, "a",da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado de São Pauloassim ementado:
+"PRELIMINAR DE NÃO CONHECIMENTO POR OFENSA AO PRINCÍPIO DA DIALETICIDADE. Repetição dos argumentos deduzidos na contestação que, por si só, não impede o conhecimento do recurso de apelação. Razões recursais não dissociadas, que se mostram suficientes para combater os fundamentos da sentença. Requisitos do art. 1.010, CPC/2015 preenchidos. Preliminar rejeitada. PLANO DE SAÚDE. CONTRATO INDIVIDUAL. Reajuste de 69,91% por mudança de faixa etária da autora aos 50 anos. Inocorrência de supressio. Aplicação do entendimento firmado pelo STJ no julgamento do REsp 1.568.244/RJ. Contrato firmado entre 2/1/1999 e 31/12/2003. Resolução CONSU nº 6/1998 que deve ser observada. Cláusula que estabelece o reajuste por faixa etária que não é nula. Percentuais que não podem ser desarrazoados ou aleatórios. Reajuste de 69,91% excessivo. Razoável a apuração do reajuste devido em liquidação de sentença. Não tem cabimento a aplicação, somente, dos índices autorizados pela ANS. Sentença mantida. Honorários advocatícios majorados. Recursos não providos, com observação"(fl. 414, e-STJ).
+Os embargos de declaração opostos foram rejeitados (fls. 456/459, e-STJ).
+No recurso especial (fls. 426/438, e-STJ), arecorrente aponta negativa de vigência do art. 1.022, II, do Código de Processo Civil de 2015.
+Sustenta, em síntese, nulidade do acórdão por não suprir a omissão apontada nos embargos de declaração. No ponto, alega que o Tribunal de origem não se manifestou acerca da restrição do limite temporal de 10 (dez) anos aos usuários maiores de 60 (sessenta) anos.
+Além disso, afirma que foramviolados os arts. 15, parágrafo único, da Lei nº 9.656/1998 e1º e 15, § 3º,do Estatuto do Idoso, tendo em vista que o acórdão afastou os reajustes de mensalidade decorrente de faixa etária aos 50 (cinquenta) anos.
+O recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A alegação de negativa de prestação jurisdicional merece prosperar, visto que a Corte local permaneceu silente quanto aos pontos suscitados, não obstante a oposição dedeclaratórios.
+O art. 1.022, parágrafo único, II, do Código de Processo Civil de 2015, remetendo-se ao art. 489, § 1º, IV, determina que é omissa a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+Assim, não tendo o Tribunal local enfrentado questão necessária ao deslinde da controvérsia, resta impossibilitado o acesso à instância extrema, cabendo à parte vencida invocar, como no caso, a transgressão ao art. 1.022 do Código de Processo Civil de 2015 a fim de anular o acórdão recorrido para suprir aomissãoexistente.
+A propósito:
+"AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE E INDENIZAÇÃO DE DANOS MORAIS. EMBARGOS DE DECLARAÇÃO. VIOLAÇÃO DO ART.1022DO CPC/2015. CONFIGURADA. RECURSO PROVIDO.RETORNODOS AUTOS ÀORIGEM.NOVO JULGAMENTO.
+1. O propósito recursal consiste em infirmar decisão monocrática que, reconhecendo a violação do art. 1.022 do CPC/2015, cassou o acórdão que julgou os embargos de declaração opostos pelas recorrentes e determinar oretornodos autos ao Tribunal deorigem,a fim de que este se pronuncie, na esteira do devido processo legal, sobre os argumentos deduzidos nos embargos de declaração opostos.
+2. Ação declaratória e de indenização por danos morais, ajuizada pelas agravadas em face do agravante, em que pleiteiam a inexigibilidade da cobrança de mensalidade pelo Clube, bem como a condenação em danos morais pela mencionada cobrança.
+3. A existência deomissãoe/ou contradição relevante à solução da controvérsia, não sanada pelo Tribunal deorigem,caracteriza violação do art. 1.022 do CPC/2015.
+4. Agravo interno em recurso especial não provido" (AgInt no REsp 1.733.413/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 24/06/2019, DJe 26/06/2019).
+"AGRAVO INTERNO NO AGRAVO INTERNO NO RECURSO ESPECIAL. PROCESSUAL CIVIL. RECUPERAÇÃO JUDICIAL. CUMPRIMENTO DE SENTENÇA. HONORÁRIOS SUCUMBENCIAIS. SUJEIÇÃO AOS EFEITOS DA RECUPERAÇÃO. OFENSA AOS ARTS. 489 E 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. CONFIGURAÇÃO. RETORNODOS AUTOS.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Configurada a ofensa aos arts. 489 e 1.022 do Código de Processo Civil de 2015, tem-se correto o parcial provimento do recurso especial interposto pela agravada em virtude da necessidade de que o tribunal deorigemse manifeste acerca das questões suscitadas nos embargos de declaração ante a relevância daomissãoapontada.
+3. Agravo interno não provido" (AgInt no AgInt no REsp 1.829.014/SP, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 20/04/2020, DJe 27/04/2020).
+Ante o exposto, conheço do recurso para dar-lhe provimento, a fim de determinar oretornodos autos ao Tribunal deorigempara que seja apreciada a matéria suscitada nos declaratórios de fls. 447/453(e-STJ), como entender de direito, prejudicadas as demais questões recursais.
+Publique-se.
+Intimem-se.
