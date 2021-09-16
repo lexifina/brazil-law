@@ -1,0 +1,27 @@
+DECISÃO
+Trata-se de recurso especial manejado pelo Estado de Sergipe com fundamento no art. 105, III, a, da CF, contra acórdão proferido pelo Tribunal de Justiça do Estado de Sergipe, assim ementado (fls. 457/458):
+PROCESSUAL CIVIL. URV. SERVIDOR DO TRIBUNAL DE JUSTIÇA DO ESTADO DE SERGIPE. CUMPRIMENTO DE SENTENÇA INDIVIDUAL DE DECISÃO DE MANDADO DE SEGURANÇA COLETIVO.IMPUGNAÇÃO. PRELIMINAR DE ILEGITIMIDADE ATIVA. REJEITADA.PRELIMINAR DE INÉPCIA DA INICIAL POR AUSÊNCIA DE PLANILHA DISCRIMINADA DE CÁLCULO.REJEITADA. ALEGAÇÃO DE PRESCRIÇÃO. ACOLHIDA. TÍTULO EXECUTIVO JUDICIAL PRESCRITO.QUESTÃO DE ORDEM.RECONHECIMENTO DA DÍVIDA EM PROCESSO ANÁLOGO. REJEITADA.
+1 - Transitada em julgado a decisão que constituiu o título executivo judicial em favor de todos os representados do Sindicato, não poderia jamais qualquer outra decisão posterior restringir tal título, sob pena de ofensa à imutabilidade da coisa julgada e ainda ao princípio da segurança jurídica.
+2 - Fornecidos os valores devidos ao exequente e a memória de cálculos, com a indicação do índice de correção monetária e dos juros de mora aplicados pelo próprio Tribunal de Justiça, não há que se reconhecer inépcia da inicial por defeito na memória de cálculo.
+3 - Em que pese somente iniciado o prazo prescricional para a propositura de execuções individuais dos representados do Sindiserj após transitada em julgado decisão a respeito da legitimidade do Sindicato para promover a execução coletiva, com o respectivo trânsito, deve-se reconhecer o início do fluxo do prazo prescricional. Tentativa de rediscussão da matéria que não tem o condão de impedir o transcurso do prazo prescricional, sob pena de afronta à coisa julgada, e à imutabilidade das decisões.
+4 - Em que pese reconhecida a dívida pelo Estado em autos análogos, não sendo permitido ao Procurador do Estado renunciar ou transigir em ações sem autorização do Governador, nos termos do art. 7º, VII, da Lei Complementar Estadual nº 27/96, deve-se considerar a concordância com os cálculos naquele processo como um equívoco isolado, que não induz automaticamente na renúncia à prescrição.
+- QUESTÃO DE ORDEM REJEITADA.PRESCRIÇÃO RECONHECIDA.IMPUGNAÇÃO ACOLHIDA.CUMPRIMENTO DE SENTENÇA EXTINTO.DECISÃO POR MAIORIA.
+Opostos embargos declaratórios, foram rejeitados (fls. 667/674).
+A parte recorrente aponta violação ao art. 85, caput e §§ 1º e 3º do CPC. Defende a necessidade de condenação da exequente ao pagamento da verba honorária, sob o argumento de que"proposto Cumprimento de Sentença Individual com base em título executivo prolatado em mandado de segurança coletivo, mas acolhida a impugnação apresentada e reconhecida a prescrição da pretensão executória, resta sucumbente na presente ação a parte exequente, sendo imperativa sua condenação em honorários advocatícios" (fl. 580).
+Reforça que "o pagamento de honorários advocatícios em cumprimento de sentença possui previsão específica no Código de Processo Civil, no § 1º do art. 85, conforme assentado no próprio acórdão recorrido" (fl. 584).
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação comporta acolhida.
+Com efeito, o acórdão recorrido se afastou da jurisprudência pacífica deste Superior Tribunal, firme no sentido de que é devida a verba honorária nas execuções individuais de sentença proferida em ação coletiva, ainda que proveniente de ação mandamental. Inteligência da Súmula 345/STJ (AgRg no AREsp 1350736/SP, Rel. Ministra Assusete Magalhães, DJe 12/12/2019).
+Nessa linha de entendimento:
+PROCESSUAL CIVIL. AGRAVO INTERNO. EXECUÇÃO INDIVIDUAL DE SENTENÇA. MANDADO DE SEGURANÇA COLETIVO CONTRA A FAZENDA PÚBLICA. HONORÁRIOS. CABIMENTO. SÚMULA 345/STJ.
+1. De acordo com o enunciado da Súmula 345/STJ, "são devidos honorários advocatícios pela Fazenda Pública nas execuções individuais de sentença proferida em ações coletivas, ainda que não embargadas".
+2. O Tribunal de origem julgou nos moldes da jurisprudência pacífica desta Corte, razão pela qual não merece reforma.
+3. Agravo Interno não provido.
+(AgInt no AREsp 919.265/SP, Rel. Ministro Herman Benjamin, SEGUNDA TURMA, DJe 01/02/2017).
+PROCESSUAL CIVIL. ADMINISTRATIVO. PRELIMINAR DE NÃO CONHECIMENTO AFASTADA. EMBARGOS À EXECUÇÃO DE SENTENÇA PROFERIDA EM MANDADO DE SEGURANÇA. AÇÃO AUTÔNOMA. HONORÁRIOS ADVOCATÍCIOS. CABIMENTO. RECURSO ESPECIAL PROVIDO.
+1. A questão relativa ao cabimento da condenação na verba honorária em sede de embargos à execução em mandado de segurança foi expressamente apreciada pelo Tribunal de origem, com discussão acerca da aplicação da legislação federal pertinente, não havendo falar, assim, na ausência do requisito do prequestionamento.
+2. O acórdão recorrido contraria a jurisprudência deste Superior Tribunal, que assentou entendimento no sentido de que os embargos à execução constituem verdadeira ação de conhecimento que objetiva a desconstituição do título executivo. Tratando-se de ação autônoma, ainda que derivada de ação mandamental, submete-se à regra geral insculpida no art. 20 do CPC, pelo que é devida a condenação nos honorários advocatícios (REsp 885.997/DF, relator Min. Arnaldo Esteves Lima, DJ 05/02/2007).
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp 1272268/PR, Rel. Ministro Sérgio Kukina, PRIMEIRA TURMA, DJe 09/03/2015).
+ANTE O EXPOSTO, dou provimento ao recurso especial para determinar o retorno dos autos ao Tribunal de origem, a fim de que proceda na fixação da verba honorária, como entender de direito.
+Publique-se.
