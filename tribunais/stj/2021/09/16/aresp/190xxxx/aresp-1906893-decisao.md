@@ -1,0 +1,28 @@
+DECISÃO
+Trata-se de agravo contra decisão que inadmitiu recurso especial interposto em face de acórdão do Tribunal de Justiça do Estado de Minas Gerais cuja ementa é a seguinte:
+AGRAVO DE INSTRUMENTO. AÇÃO DE EXECUÇÃO FISCAL. INCIDENTE DE OBJEÇÃO DE PRÉ-EXECUTIVIDADE. LEGITIMIDADE PASSIVA AD CAUSAM PRESENTE. GARANTIA DO JUÍZO NÃO COMPROVADA. REJEIÇÃO MANTIDA. RECURSO NÃO PROVIDO. A objeção de pré-executividade tem sido admitida em caráter excepcional e desde que, sem necessidade de dilação probatória. Comprovada a existência da responsabilidade solidária do agravante para com o tributo gerador do crédito, tem-se por presente a legitimidade passiva. O depósito judicial integral do crédito cobrado em execução fiscal suspende sua exigibilidade. Todavia, inexistindo prova do depósito mencionado, não há que se falar em suspensão. Agravo de instrumento conhecido e não provido, mantida a decisão que rejeitou o incidente de objeção de pré-executividade.
+No recurso especial, interposto com base nas alíneas a e b do permissivo constitucional, a recorrente aponta ofensa ao art. 1.022, II, do CPC/2015, arguindo ausência de manifestação do órgão julgador acerca das questões suscitadas.
+No mérito, alega violação aos arts. 110 do CTN; 1.228, 1.361, 1.367, 1.368-B do Código Civil.
+Aduz que há "ilegitimidade para figurar no polo passivo da Execução Fiscal, uma vez que o Estado de Minas Gerais, quando da edição da Lei nº 14.937/2003, extrapolou sua competência tributária ao deslocar a sujeição passiva do IPVA, incidente sobre a propriedade de veículos adquiridos com financiamentos garantidos por alienação fiduciária, para o mutuante do financiamento".
+Em suas contrarrazões, a recorrida pugna pelo não conhecimento do recurso ou, alternativamente, pelo seu não provimento.
+O recurso foi inadmitido pela decisão de fls. 275/280, cujos fundamentos foram impugnados por meio do presente agravo.
+É o relatório. Passo a decidir.
+Inicialmente, cumpre esclarecer que o presente recurso submete-se à regra prevista no Enunciado Administrativo nº 3/STJ, in verbis: "Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC".
+O Tribunal de origem decidiu que:
+Na certidão de dívida ativa trasladada à f. 24 - TJ, o agravante encontra-se na condição de coobrigado do devedor principal, Eli Rodrigues Pereira. O veículo gerador do tributo é objeto do contrato de alienação fiduciária celebrado entre o recorrente e o devedor fiduciário. E o art. 1.361 do Código Civil de 2002 dispõe que o credor fiduciário é efetivo proprietário do bem dado em garantia no contrato mencionado. É importante notar, também, que a Lei estadual nº 14.937. de 2003, atribui responsabilidade fiscal solidária, para quitação do IPVA.
+Depreende-se dos autos que o Tribunal de origem, de modo fundamentado, tratou das questões suscitadas, resolvendo de modo integral a controvérsia posta.
+Na linha da jurisprudência desta Corte, não há falar em negativa de prestação jurisdicional nem em vício quando o acórdão impugnado aplica tese jurídica devidamente fundamentada, promovendo a integral solução da controvérsia, ainda que de forma contrária aos interesses da parte.
+Assim, não havendo no acórdão recorrido omissão, obscuridade, contradição ou erro material, não fica caracterizada ofensa ao art. 1.022 do CPC/2015.
+No mérito, como assentado pelo aresto impugnado, "é importante notar, também, que a Lei estadual nº 14.937. de 2003, atribui responsabilidade fiscal solidária, para quitação do IPVA". Nítido, portanto, que a controvérsia, nesse particular, restou solvida com base na legislação municipal".
+Assim, em que pese o recorrente tenha indicado dispositivos de lei federal como contrariados, cumpre ressaltar que não cabe o exame de tese recursal que demande a interpretação de lei local, como na hipótese em apreço, em razão do óbice contido na Súmula 280/STF (por analogia).
+A propósito, destaca-se:
+TRIBUTÁRIO. RECURSO ESPECIAL. JUROS MORATÓRIOS INCIDENTES SOBRE ICMS PAGO EM ATRASO. LEI ESTADUAL 13.918/2009. ANÁLISE DE LEGISLAÇÃO LOCAL. IMPOSSIBILIDADE. SÚMULA 280/STF.
+1. O Tribunal de origem, ao examinar a matéria, fundamentou-se na Lei Estadual 13.918/2009. Incabível, pois, a análise do Recurso Especial ante a incidência, por analogia, da Súmula 280 do STF: "Por ofensa a direito local não cabe recurso extraordinário."
+2. "A pretensão da recorrente envolve disposições de lei local contestada em face de lei federal, matéria de cunho eminentemente constitucional, nos termos da EC 45/2004" (AgInt no AREsp 1.105.881/SP, Rel. Ministro Og Fernandes, Segunda Turma, DJe 21.3.2018).
+3. Recurso Especial não conhecido.
+(REsp 1779222/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 13/12/2018, DJe 19/12/2018)
+Cumpre esclarecer que o óbice aplicado impede o conhecimento do recurso por quaisquer das alíneas do permissivo constitucional.
+Diante do exposto, com fundamento no art. 932, III e IV, do CPC/2015, c/c o art. 253, parágrafo único, II, a e b, do RISTJ, conheço do agravo para conhecer parcialmente do recurso especial e, nessa parte, negar-lhe provimento.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. SUBMISSÃO À REGRA PREVISTA NO ENUNCIADO ADMINISTRATIVO 03/STJ. SUPOSTA OFENSA AO ART. 1.022 DO CPC/2015. INEXISTÊNCIA DE VÍCIO NO ACÓRDÃO RECORRIDO. EXECUÇÃO FISCAL. ACÓRDÃO RECORRIDO BASEADO NO EXAME DA LEGISLAÇÃO LOCAL. ÓBICE DA SÚMULA 280/STF. AGRAVO CONHECIDO PARA CONHECER PARCIALMENTE DO RECURSO ESPECIAL E, NESSA PARTE, NEGAR-LHE PROVIMENTO.
