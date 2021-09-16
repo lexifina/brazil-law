@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo ESTADO DO RIO DE JANEIRO contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim resumido:
+Apelação cível. Ação declaratória c/c repetição de indébito. Preliminar de ilegitimidade ativa que deve ser rejeitada. Preliminar de ilegitimidade passiva acolhida. Laudo pericial aponta a essencialidade dos equipamentos e instalações para o serviço de transporte eletrificado. Energia elétrica fornecida pela Concessionária Light e pela Concessionária Ampla com alíquotas diferenciadas. Ausência de razoabilidade. Provimento do recurso. Reforma da sentença.
+Alega violação do art. 85, §§ 3º e 8º, e 1.046 do CPC, ao argumento de que deve ser aplicado o novo diploma processual civil, visto que, nas causas de valor inestimável, como a presente, o valor dos honorários deverá ser fixado por apreciação equitativa, e, caso isso não seja possível, requer a aplicação do percentual mínimo previsto no art. 85, § 3º, do Código de Processo Civil, trazendo o(s) seguinte(s) argumento(s):
+O recorrente requer sejam minorados os honorários sucumbenciais, com base no novo CPC.
+Isso porque a sentença, a apelação e o acórdão foram todos atos processuais praticados sob a vigência do novo CPC, mas o julgador aplicou indevidamente o regime do antigo CPC, violando o art. 1046 do CPC.
+Como não é possível antever o proveito econômico da presente demanda, visto que ainda não houve liquidação do julgado, deve ser usado o juízo de equidade do julgador.
+Pelo art. 85, § 8º, os honorários são fixados por equidade em causas de proveito econômico inestimável:
+Art. 85
+§ 8º Nas causas em que for inestimável ou irrisório o proveito econômico ou, ainda, quando o valor da causa for muito baixo, o juiz fixará o valor dos honorários por apreciação equitativa, observando o disposto nos incisos do § 2º.
+Estima-se que a repetição de indébito corresponda a um valor monstruoso, por envolver a repetição de indébito de uma larga diferença de alíquota, de modo que 10% sobre esse valor se revela desproporcional.
+Caso assim não se entenda, o recorrente espera seja aplicado o percentual mínimo previsto pelo art. 85, §3º, do CPC:
+Art. 85. A sentença condenará o vencido a pagar honorários ao advogado do vencedor.
+(..)
+§ 3º Nas causas em que a Fazenda Pública for parte, a fixação dos honorários observará os critérios estabelecidos nos incisos I a IV do § 2º e os seguintes percentuais:
+Isso porque, sendo a Fazenda Pública parte, não é possível aplicar o percentual de 10% de honorários, considerando que o valor da condenação deve ser superior à faixa mínima do dispositivo acima transcrito (fls. 697/698).
+É, no essencial, o relatório. Decido.
+Na espécie, incidem os óbices das Súmulas n. 282/STF e 356/STF, uma vez que a questão não foi examinada pela Corte de origem, tampouco foram opostos embargos de declaração para tal fim. Dessa forma, ausente o indispensável requisito do prequestionamento.
+Nesse sentido: "O requisito do prequestionamento é indispensável, por isso que inviável a apreciação, em sede de recurso especial, de matéria sobre a qual não se pronunciou o Tribunal de origem, incidindo, por analogia, o óbice das Súmulas 282 e 356 do STF. 9. In casu, o art. 17, do Decreto 3.342/00, não foi objeto de análise pelo acórdão recorrido, nem sequer foram opostos embargos declaratórios com a finalidade de prequestioná-lo, razão pela qual impõe-se óbice instransponível ao conhecimento do recurso quanto ao aludido dispositivo". (REsp 963.528/PR, relator Ministro Luiz Fux, Corte Especial, DJe de 4/2/2010.)
+Confiram-se ainda os seguintes julgados: REsp n. 1.160.435/PE, relator Ministro Benedito Gonçalves, Corte Especial, DJe de 28/4/2011; REsp n. 1.730.826/MG, relator Ministro Herman Benjamin, Segunda Turma, DJe de 12/2/2019; AgInt no AREsp n. 1.339.926/PR, relator Ministro Raul Araújo, Quarta Turma, DJe de 15/2/2019; e AgRg no REsp n. 1.849.115/SC, relator Ministro Nefi Cordeiro, Sexta Turma, DJe de 23/6/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
