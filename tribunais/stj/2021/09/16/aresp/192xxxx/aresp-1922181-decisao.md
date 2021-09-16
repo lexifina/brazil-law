@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo apresentado por ÉRICA REGINA FERREIRA DE ASSIS SOUZA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO , assim resumido:
+Responsabilidade civil extracontratual. Dano moral. Internet. Ofensas proferidas em conversa em aplicativo de troca de mensagens pelo celular (WhatsApp). Sentença que julgou a ação procedente. Insurgência da requerida. Alegação de que as mensagens teriam desmoralizado sua imagem e honra. Descabimento. Troca de mensagens que não tem o condão de expor a parte a situação vexatória pública (honra objetiva). Caráter provocativo das mensagens muitas vezes comum ao ambiente universitário e que não ostentam suficiente carga ofensiva a atingir a honra subjetiva da autora. Ação improcedente. Sentença reformada. Recurso provido.
+Alega violação dos arts. 186 e 927 do CC, no que concerne ao reconhecimento da responsabilidade da recorrida em indenizar a recorrente pelos danos morais sofridos em decorrência de ofensas perpetradas por meio de mensagens em grupo de WhatsApp, trazendo os seguintes argumentos:
+Nesse sentido, a recorrida FLÁVIA ofendeu a honra da recorrente dizendo através de aplicativo de Whatsapp EM GRUPO DA TURMA DA FACULDADE que "neste mundo não vai pra frente quem não tem dinheiro" e que Érica pagou os professores para passarem ela na faculdade.
+ ..  Veja, a recorrida confessou em sua contestação que realmente proferiu tal dizeres contra a recorrente e, muito embora a recorrida tenha tentado justificar a ofensa proferida, não logrou êxito em afastar o ato ilícito por ela cometido, bem como a responsabilidade de indenizar.
+ ..
+Diante do exposto, incontestável que a recorrida, ao proferir tais insultos em rede social, acarretou verdadeira ofensa a reputação, dignidade e ao decoro da recorrente, pois ofendeu sua honra, autoestima e seu amago.
+ ..
+Ultrapassado o limite do razoável e transcendendo ao mero descontentamento da convivência entre as partes, não há dúvida que a intenção da requerida foi o de atingir a dignidade e a respeitabilidade da requerente, violando o seu direito estampado na Constituição Federal, circunstância que enseja a reparação (fls. 233/235).
+É, no essencial, o relatório. Decido.
+Na espécie, o Tribunal de origem se manifestou nos seguintes termos:
+Deve-se consignar que, apesar do quanto alegado, a autora não logrou êxito em provar os fatos constitutivos de seu direito.
+ ..
+Do conjunto fático-probatório, verifica-se que as expressões proferidas pela ré não ultrapassaram os limites que englobam a liberdade de expressão.
+Além disso, da análise dos documentos e alegações trazidas aos autos pelas partes evidencia a existência de histórico de animosidade entre a autora da demanda e os demais colegas de classe, sendo que, nesse contexto, em que todos estão nervosos, precisando tirar notas para passar de ano, eventuais discussões são, de fato, esperadas, não restando caracterizado o dano moral indenizável.
+Permitir que este tipo de acontecimento seja passível de indenização por danos morais acarretaria na inviabilização da vida em sociedade, na qual sempre ocorrem discussões, brigas e desentendimentos.
+Todavia, somente eventos efetivamente graves, de repercussão concreta, pública e significativa, permitem a caracterização de dano moral indenizável, o que definitivamente, não ocorre no presente caso (fl. 225).
+Assim, incide o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o reexame da premissa fixada pela Corte de origem quanto à presença ou não dos elementos que configuram o dano moral indenizável exigiria a incursão no acervo fático-probatório dos autos, o que não é possível em sede de recurso especial.
+Confiram-se os seguintes julgados: AgRg no REsp 1.365.794/RS, relator Ministro Herman Benjamin, Corte Especial, DJe de 9/12/2013; AgInt no AREsp 1.534.079/ES, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 26/8/2020; AgInt nos EDcl no AREsp 1.341.969/DF, relator Ministro Luis Felipe Salomão, Quarta Turma, DJe de 26/8/2020; AgInt no AREsp 1.581.658/PB, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 18/8/2020; e AgInt no AREsp 1.528.011/RJ, relator Ministro Francisco Falcão, Segunda Turma, DJe de 1º/7/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
