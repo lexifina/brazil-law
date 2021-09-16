@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em benefício de Jéssica Guimarães Ferreira, contra acórdão do Tribunal de Justiça do Estado de São Paulo, proferido no julgamento da Apelação Criminal n. 0001884-31.2014.8.26.0404.
+De acordo com a petição inicial do writ, a paciente foi condenada, em primeira instância, como incursa nas penas do artigo 28 da Lei nº 11.343/06, da Lei nº 11.343/06. O Ministério Público apelou da sentença de primeiro grau e o Tribunal de Justiça do Estado de São Paulo reformou a sentença para condenar a paciente às penas de 6 anos de reclusão, regime inicial fechado, e 600 dias-multa, valor unitário mínimo, pela conduta do artigo 33, "caput", da Lei nº 11.343/06 (tráfico de drogas).
+No presente mandamus, a defesa sustenta, em síntese, ser cabível a aplicação do redutor do § 4º do art. 33 da Lei 11.343/2006 no percentual máximo de 2/3 (dois terços) e, por consequência, após a incidência da causa de diminuição de pena na proporção pretendida, o regime de pena deve ser revisto, estipulando-se, assim, o aberto. Além disso, articula acerca da viabilidade da substituição da pena privativa de liberdade por restritiva de direitos.
+Requer, assim, "a concessão da Ordem de Habeas Corpus em Liminar, ainda que de ofício, exercendo assim o controle de legalidade dos critérios empregados para definir a pena, tendo em vista que o v. acórdão da Corte Coatora mantém a Paciente em estado de constrangimento ilegal por se abster indevidamente de aplicar o artigo 33, §4º, da lei de drogas, com base na gravidade abstrata do crime, em contrariedade à Súmula 718 do STF; violando o princípio constitucional da individualização da pena. Logo, requer a aplicação do redutor supramencionado; b) A alteração do regime inicial de cumprimento de pena para o aberto ou pelo menos semiaberto. c) A substituição da pena privativa de liberdade por restritiva de direitos, pois a pena do Paciente, nos termos do artigo 44, I, do código penal, será menor que 4 anos se aplicado o redutor ora pleiteado, determinando-se a sua IMEDIATA SOLTURA" (fl. 9).
+Indeferida a liminar (fls. 27-29) e prestadas as informações - ambas referentes aos autos da Apelação Criminal n. 0000782-87.2017.8.26.0397, de outro réu. O Ministério Público Federal opina pelo não conhecimento do writ ou pela denegação (fls. 94-98).
+É o relatório. Decido.
+O presente habeas corpus não merece ser conhecido, pois impetrado em substituição a recurso próprio. Contudo, passo à análise dos autos para verificar a possível existência de ofensa à liberdade de locomoção da ora paciente, capaz de justificar a concessão da ordem de ofício.
+Verifica-se, no presente mandamus, que não foi juntada aos autos cópia completa da sentença e do acórdão que fixou as penas do crime de trá fico (autos n. 0001884-31.2014.8.26.0404), documentos essenciais à exata compreensão da controvérsia e ao exame da plausibilidade do pedido.
+Cabe ressaltar que, em razão da celeridade do rito do habeas corpus, incumbe ao impetrante apresentar prova pré-constituída do direito alegado, sob pena de não conhecimento da impetração. Nesse sentido, confiram-se os seguintes precedentes, entre outros:
+AGRAVO REGIMENTAL. HABEAS CORPUS.
+SUPRESSÃO DE INSTÂNCIA. MATÉRIA NÃO APRECIADA PELO TRIBUNAL DE ORIGEM. REDUTOR DO ART. 33, § 4º, DA LEI N. 11.343/2006. MATÉRIA NÃO SUSCITADA EM CONTRARRAZÕES DE APELAÇÃO.
+MERO INCONFORMISMO COM O RESULTADO DO JULGAMENTO.
+DEFICIÊNCIA NA INSTRUÇÃO DO FEITO.
+INVIABILIADE DE AFERIÇÃO DA POSSIBILIDADE DE APRECIAÇÃO DO TEMA DE OFÍCIO. DECISÃO MANTIDA.
+AGRAVO DESPROVIDO.
+1. O exame pelo Superior Tribunal de Justiça de matéria que não foi apreciada pelas instâncias ordinárias enseja indevida supressão de instância, com explícita violação da competência originária para o julgamento de habeas corpus (art. 105, I, c, da Constituição Federal).
+2. Se o reconhecimento do tráfico privilegiado não consta dos pedidos formulados nas contrarrazões do recurso de apelação da acusação, configura mero inconformismo da defesa com o resultado do julgamento a alegação de que a negativa de apreciação de referida impugnação implica cerceamento de defesa.
+3. O rito do habeas corpus demanda prova documental pré-constituída do direito pleiteado pela parte, motivo pelo qual a ausência de juntada de peça essencial ao deslinde da controvérsia inviabiliza a análise da possibilidade de concessão da ordem de ofício.
+4. Agravo regimental desprovido.
+(AgRg no HC 641.482/ES, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, DJe 21/05/2021).
+PROCESSO PENAL E PENAL. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL. HABEAS CORPUS. TRÁFICO DE DROGAS. EXCESSO DE PRAZO. REITERAÇÃO DE WRIT ANTERIORMENTE IMPETRADO. FUNDAMENTOS E REQUISITOS DA PRISÃO. AUSÊNCIA DE PROVA PRÉ-CONSTITUTIVA. EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO REGIMENTAL, AO QUAL SE NEGA PROVIMENTO.
+1. Embargos de declaração, apresentados dentro do quinquídio legal, devem ser recebidos como agravo regimental, em homenagem ao princípio da fungibilidade recursal.
+2. Deve ser mantida a decisão monocrática em que denega o habeas corpus, isto porque a matéria sobre o excesso de prazo trata-se de mera reiteração de writanterior, e não é possível analisar os fundamentos da prisão preventiva, ante a ausência de peça processual essencial, referenciada no decreto.
+3. Embargos de declaração recebidos como agravo regimental, ao qual se nega provimento.
+(EDcl no HC 395.627/MS, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 24/05/2017).
+Acresça-se, outrossim, que no presente writ ataca-se o mesmo julgado do Tribunal de Justiça do Estado de São Paulo proferido na Apelação Criminal n. 0001884-31.2014.8.26.0404, o qual gerou nesta Corte o HC 566.772/SP, da relatoria do Min. JORGE MUSSI, que transitou em julgado no dia 26/5/2020.
+Assim, diante de inadmissível reiteração de pedidos, obstaculizado o conhecimento deste mandamus, cuja questão já foi apreciada.
+Ante o exposto, com fundamento no art. 34, XVIII, "a", do RISTJ, não conheço da presente impetração.
+Publique-se. Intimem-se.
