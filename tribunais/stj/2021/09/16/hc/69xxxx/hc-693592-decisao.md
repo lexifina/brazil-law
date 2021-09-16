@@ -1,0 +1,31 @@
+DECISÃO
+Trata-se de habeas corpusimpetrado em benefício deALLEF CARDOSO BATISTA, contra acórdão do Tribunal de Justiça do Estado de São Paulo,que determinou a sua submissão a exame criminológico para fins de concessão de progressão ao regime aberto.
+A defesa afiram que o paciente possui bom comportamento e não praticou falta grave no último ano. Assim, aduz que " m esmo antes da alteração legislativa a realização do exame criminológico já era excepcional e dependia de fundamentação idônea, a partir das particularidades do caso concreto. É o que se extraía da súmula 439 do STJ" (fl. 4).
+Requer, liminarmente e no mérito,a progressão ao regime mais brando.
+Decido.
+A concessão do benefício de progressão ao regime abertofoi condicionada à elaboração de exame criminológico. O Juiz assim fundamentou sua decisão:
+No caso, não se mostra razoável o simples atestado de bom comportamento carcerário como comprovação da absorção do requisito subjetivo, pois como é de conhecimento comum, o "bom" comportamento é decorrente da simples não anotação de faltas disciplinares ou reabilitação de faltas anteriores.
+Assim, nesta situação, denota ser necessário a realização de exame mais aprofundado, que forneça com segurança meios de avaliação do requisito subjetivo, especialmente quanto ao reconhecimento da responsabilidade e absorção da terapêutica penal.
+ ..
+No presente caso, em que pese o preenchimento do requisito objetivo, o sentenciado cumpre pena por crime grave, cometido mediante violência ou grave ameaça e possui considerável período de pena por cumprir.
+Por ser um benefício bastante abrangente, onde não há vigilância direta do apenado, torna-se imprescindível a realização de exame criminológico para se aferir cumprimento do requisito subjetivo.
+E mais, o atestado do bom comportamento carcerário, não é vinculativo do Juízo, que deve apreciar o mérito da pretensão considerando os demais aspectos subjetivos do sentenciado, além de que, não serve como fator indicativo da readaptação social, o que reforça a necessidade da avaliação criminológica.
+Dessa forma, para análise do mérito da progressão ao regime aberto, torna-se indispensável a realização do exame criminológico, pois é patente que não se pode submeter a sociedade ao risco de o sentenciado poder atentar novamente contra a segurança pública, mostrando-se, neste caso, necessária sua realização para atestar se o executado preenche todos os requisitos (objetivo e subjetivo) para a obtenção das benesses, atendendo- se ao interesse público.
+ ..
+Portanto, torna-se essencial a realização do exame criminológico para verificação da provável e frutífera adaptação do executado em um ambiente de menor fiscalização (fls. 523-524, grifei).
+O Tribunal, por sua vez, pontuou:
+E, de fato, o paciente cumpre pena privativa de liberdade pelos crimes de tráfico de drogas e roubo majorado, ostentando falta disciplinar de natureza grave, reabilitada em 20/06/2020 (fls. 404/406), o que exige extrema cautela para a concessão da benesse reclamada.
+Além disso, o paciente foi beneficiado com o livramento condicional em 27/11/2017, mas tornou a delinquir, sendo preso em flagrante no dia 03/03/2018, o que ensejou a revogação do benefício (fls. 343 e 405).
+Ademais, apresenta término de cumprimento somente para 12/02/2025 (fls. 404) e foi beneficiado com o regime semiaberto há pouco tempo, em 02/06/2021 (fls. 414/417), inexistindo, por ora, elementos que denotem que está assimilando a terapêutica penal, de modo a reunir mérito para obter a progressão (fl. 556).
+Este Superior Tribunalfirmou entendimento de que ojuízo da execução poderá determinara realização de exame criminológico como espécie de prova técnicapara auxiliar aformaçãode seu convencimento, se houver fundada dúvida sobre o mérito do sentenciado.
+Ilustrativamente:
+ ..
+1. Segundo o entendimento desta Corte, o Magistrado de primeiro grau ou mesmo o Tribunala quo, diante das circunstâncias do caso concreto, podem determinar a realização de exame criminológico para a formação de seu convencimento, desde que essa decisão seja adequadamente motivada, a teor do que dispõem a Súmula 439/STJ e a Súmula Vinculante 26.2. Agravo regimental improvido.
+(AgRg no HC n. 576.526/SP, Rel. MinistroSebastião Reis Júnior, 6ª T., DJe 30/6/2020).
+Tal "fundamentação, entretanto, deve estar relacionadaa algum elemento concreto da execução da pena, não se admitindo a simples referência à gravidade abstrata do delito ou à longevidade da pena. Precedentes do STJ"(AgRg no HC 588.110/SP, Rel. MinistroReynaldo Soares Da Fonseca, Quinta Turma, DJe 13/8/2020).
+Não são hábeis a justificar a exigência de exame criminológicofatores relacionados ao crime praticado(gravidade, quantidade da pena), relevantes par ao deslinde do processo de conhecimento,ou atos de indisciplina muito antigos, porquantoperpetuar indefinidamente comportamentos negativos do preso desconsidera tantoos princípios da razoabilidade e da ressocialização da pena, quanto o direito ao esquecimento.
+Owritcomporta pronta solução, pois o acórdão impugnado está em confronto com a Súmulas 439 do STJ.
+Faltadisciplinar antiga (no caso, reabilitada em 20/6/2021)não podeimpedir a concessão do benefício. A gravidade dos crimes praticados pelo sentenciado, a seu turno, não é fator relacionado ao período de cumprimento da pena. A motivação externada pelas instâncias ordinárias não é idôneaa suscitar dúvidas quanto à assimilação da terapêutica penal.
+Aplica-se à hipótese o seguinte entendimento: "A jurisprudência das Cortes Superiores é tranquila na exigência de fundamento relacionado ao cumprimento da pena para a exigência do exame criminológico"(HC 605.565/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 22/09/2020, DJe 29/09/2020); "não é possível atribuir efeitos eternos às faltas graves praticadas pelo apenado, o que constituiria ofensa ao princípio da razoabilidade e ao caráter ressocializador da pena"(HC 592.587/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 18/08/2020, DJe 02/09/2020).
+À vista do exposto,concedo o habeas corpus,in limine, para determinar que o Juiz da Execução decida o pedido de progressão sem a necessidade de realização de exame criminológico, com lastro em fatores relacionados ao período de cumprimento da pena.
+Publique-se e intimem-se.
