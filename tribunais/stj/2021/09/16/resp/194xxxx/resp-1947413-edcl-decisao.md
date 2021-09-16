@@ -1,0 +1,14 @@
+DECISÃO
+Trata-se de embargos de declaração opostos por DE LUCCA REVESTIMENTOS CERÂMICOS LTDA (massa falida), pedindo correção de erro material quanto à referência numérica de artigo de lei e integração quanto ao acolhimento da tese de violação do art. 1.022 do CPC/2015, por considerar que a fundamentação é genérica e serve para qualquer caso.
+Sustenta, em síntese (fls. 490/494):
+A decisão nesse ponto, todavia, é flagrantemente omissa, ao invocar motivos que se prestam para justificar qualquer outra decisão do gênero, o que motiva a presente oposição fundada no art. 1.022 c/c art. 489, §1º, inciso III, do CPC  ..  Do corpo da decisão monocrática não se consegue retirar qualquer linha de argumentação que ampare a conclusão de que, de fato, o acórdão de apelação teria sido "claro e coerente" ao enfrentar a questão que lhe fora submetida a julgamento  ..  Como corolário disso, mesmo que a ora embargante não discorde da possibilidade de a conclusão final do tribunal recorrido ser de que não tenha havido discordância da contra parte, é imperioso que, no mínimo, o órgão julgador analise e refute as questões fático-jurídicas postas para julgamento.
+Sem impugnação (fl. 501).
+É o relatório.
+Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, forçoso reconhecer erro material pela digitação errada no número de artigo de lei, razão pela qual a decisão embargada deve ser retificada, constando que a tese recursal se refere ao art. 941 do CPC/2015, e não ao art. 942 do CPC/2015.
+Não obstante, a retificação não resulta em nenhuma alteração do que foi decidido, pois o erro deriva da digitação, e não da análise do processo.
+Com relação à alegação de omissão, não merece acolhida, pois a decisão não se resume ao parágrafo que parte considera ser fundamento genérico e é qualificada por toda sua extensão; e, atentando-se para os teores dos votos proferidos no âmbito do órgão julgador a quo (fls. 295/297, 357/362 399/404 e 409/410) e para o delineamento fático correlato, foi constatada a desnecessidade da integração pedida nos aclaratórios, notadamente quanto à competência interna e quanto à litigiosidade; que o conhecimento do recurso encontra óbice nas Súmulas 7 e 83 do STJ.
+Ante o exposto, acolho, em parte, os embargos de declaração para, retificando a decisão embargada, fazer constar que a tese recursal se refere à alegação de violação do art. 941 do CPC/2015.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. ERRO MATERIAL QUANTO À REFERÊNCIA NUMÉRICA DE ARTIGO DE LEI. OCORRÊNCIA. OMISSÃO. INEXISTÊNCIA. EMBARGOS PARCIALMENTE ACOLHIDOS.
