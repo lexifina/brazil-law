@@ -1,0 +1,35 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    "RECURSO EM SENTIDO ESTRITO. CRIME CONTRA A VIDA. HOMICÍDIO QUALIFICADO PELO RECURSO QUE DIFICULTOU A DEFESA DO OFENDIDO. ART. 121, § 2º, INC IV, DO CÓDIGO PENAL. SENTENÇA DE PRONÚNCIA. IRRESIGNAÇÃO DO ACUSADO.
+    PRELIMINAR. NULIDADE NO RECEBIMENTO DA DENÚNCIA. NÃO OCORRÊNCIA. PRESCINDIBILIDADE DE FUNDAMENTAÇÃO DO ATO JUDICIAL. PRECEDENTES.
+    MÉRITO. PLEITO VISANDO A ABSOLVIÇÃO SUMÁRIA PELA EXCLUDENTE DE ILICITUDE DA LEGÍTIMA DEFESA. IMPROCEDÊNCIA. PROVA DA MATERIALIDADE E INDÍCIOS SUFICIENTES DE AUTORIA. ACUSADO QUE, EM TESE, “DESCARREGA” ARMA DE FOGO EM FACE DE PROVÁVEL DESAFETO, LEVANDO-O A POSTERIOR ÓBITO. ALICERÇE EM PROVAS COLHIDAS NA FASE POLICIAL E JUDICIAL. INEXISTÊNCIA DE PROVA MANIFESTA DE QUE O ACUSADO UTILIZOU DOS MEIOS NECESSÁRIOS E MODERADOS PARA REPELIR INJUSTA AGRESSÃO. DESNECESSIDADE DE CERTEZA NA ATUAL FASE DE ADMISSIBILIDADE DA COMPETÊNCIA DO TRIBUNAL DO JÚRI. ANIMUS NECANDI, EM TESE, CONFIGURADO. PRESENÇA DOS REQUISITOS DO ARTIGO 413 DO CÓDIGO DE PROCESSO PENAL. APLICAÇÃO DO PRINCÍPIO IN DUBIO PRO SOCIETATE.
+    AFASTAMENTO DA QUALIFICADORA IMPOSSIBILIDADE. RECURSO QUE IMPOSSIBILITOU A DEFESA DO OFENDIDO. POSSIBILIDADE DE A VÍTIMA TER SIDO ATACADA DE INOPINO. ANÁLISE EXAUSTIVA QUE COMPETE AO JUIZ NATURAL DA CAUSA. QUALIFICADORA MANTIDA.
+    RECURSO CONHECIDO E DESPROVIDO."
+    Opostos os embargos de declaração, foram rejeitados.
+    No recurso extraordinário sustenta-se violação do(s) art.(s) 5º, inciso LVII, da Constituição Federal.
+    Decido.
+    Analisados os autos, colhe-se do voto condutor do acórdão atacado a seguinte fundamentação:
+    "3. No mérito, pugna a defesa pela absolvição sumária do crime de homicídio qualificado pelo recurso que dificultou a defesa do ofendido pelo qual foi pronunciado sob o argumento de que teria agido sob o pálio da excludente de ilicitude da legítima defesa.
+    Contudo, sem razão.
+    Em análise do caderno probatório e como detalhado pelo magistrado a quo, verificam-se as necessárias provas da materialidade delitiva, notadamente pelo boletim de ocorrência, laudo pericial cadavérico e do local do crime (Evento 2, Inquérito 2, 8/11, 17/31), pelos depoimentos colhidos em ambas as fases, bem como dos demais elementos de prova constantes nos autos.
+    Em relação à autoria, existem indicativos suficientes para o encaminhamento do acusado a julgamento pelo Tribunal do Júri.
+    [...]
+    Como se percebe do excerto acima transcrito, há indicação na decisão atacada das provas de materialidade e indícios suficientes de autoria de possível prática do crime de homicídio qualificado imputado ao recorrente Jacir Padilha.
+    Essa convicção, ainda que de forma precária, está escorada na confissão do acusado e nas declarações dos agentes públicos e testemunhas.
+    De outro lado, a excludente de ilicitude consubstanciada na legítima defesa não restou cabalmente demonstrada, ao menos por ora.
+    Conforme o artigo 25 do Código Penal, 'entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem'.
+    [...]
+    Vê-se, portanto, que a legítima defesa exige o preenchimento do duplo pressuposto, qual seja: reação em seguida à injusta provocação da vítima e moderação no emprego dos meios necessários à repulsa, o que não se presencia, diante da controvérsia das provas existentes nos autos.
+    Muito embora haja amparo probatório para o argumento da legítima defesa, ela não vem incontroversa nos autos, pois há versão no sentido de o crime ter sido realizado nos moldes descritos pelo Ministério Público na exordial acusatória.
+    Não bastasse, o modo como foi praticado o crime pelo recorrente 'descarregando' a arma de fogo na pessoa de Anderson, demonstra excesso em sua conduta, incompatível com a figura da legítima defesa.
+    Com isso, a tese sustentada pelo acusado não se mostra estreme de dúvidas, para, neste momento processual, servir como fundamento para a absolvição sumária, frente aos indícios de autoria e a ausência de fatos que correlacionam se os disparos de arma de fogo se deram em momento de injusta provocação da vítima ou se foram realizados pelo próprio acusado em retaliação à suposta vítima, visto que em seu depoimento relaciona Anderson como seu desafeto."
+    Desse modo, verifica-se que, para ultrapassar o entendimento do Tribunal de origem, seria necessário analisar a causa à luz da interpretação dada à legislação infraconstitucional pertinente e reexaminar os fatos e as provas dos autos, o que não é cabível em sede de recurso extraordinário, pois a afronta ao texto constitucional, se houvesse, seria indireta ou reflexa e a Súmula 279 desta Corte impede o reexame de provas. Sobre o tema, a propósito:
+    “AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. MATÉRIA CRIMINAL. TRIBUNAL DO JÚRI. REEXAME DO CONJUNTO FÁTICOPROBATÓRIO. SÚMULA 279 DO STF. VIOLAÇÃO AO ART. 93, IX, DA CF. INOCORRÊNCIA. AGRAVO REGIMENTAL DESPROVIDO. 1. O recurso extraordinário esbarra no óbice previsto na Súmula 279 do STF, por demandar o reexame de fatos e provas. 2. Ausência de omissão ao dever de fundamentar (AI 791.292 QO-RG, Rel. Min. Gilmar Mendes, Tema 339 da Repercussão Geral). 3. Agravo regimental a que se nega provimento” (ARE nº 1.053.745/MT-AgR, Segunda Turma, Rel. Min. Edson Fachin, DJe de 16/5/18).
+    “Agravo regimental nos embargos de declaração no recurso extraordinário com agravo. Matéria criminal. Tribunal do júri. Nulidades. Absolvição. Ausência de prequestionamento. Incidência das Súmulas nº 282 e 356 da Corte. Negativa de prestação jurisdicional (CF, art. 93, IX). Não ocorrência. Ofensa reflexa ao texto constitucional. Reapreciação de fatos e provas. Inadmissibilidade. Incidência da Súmula nº 279/STF. Precedentes. 1. Não se admite o recurso extraordinário quando o dispositivo constitucional que nele se alega violado não está devidamente prequestionado. Incidência das Súmulas nºs 282 e 356/STF. 2. A jurisdição foi prestada, na espécie, mediante decisões suficientemente motivadas, não obstante contrárias à pretensão da parte recorrente, tendo o Tribunal a quo explicitado suas razões de decidir, não havendo falar, portanto, em ofensa ao art. 93, inciso IX, da Constituição. 3. Conclusão em sentido diverso daquele do acórdão recorrido demandaria, na espécie, a análise da legislação infraconstitucional e o reexame aprofundado do conjunto fático-probatório dos autos, o que é inviável na via eleita, segundo o enunciado da Súmula nº 279/STF. 4. Agravo regimental a que se nega provimento” (ARE nº 1.126.439/SP-ED-AgR, Segunda Turma, Rel. Min. Dias Toffoli, DJe de 17/10/18).
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Publique-se.
+    Brasília, 16 de setembro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
