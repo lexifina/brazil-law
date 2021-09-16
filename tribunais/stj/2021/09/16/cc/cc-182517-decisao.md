@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de conflito de competência suscitado na ação ajuizada por José Rabelo de Aguiar contra o Município de Pacajus, objetivando o recebimento de verbas trabalhistas.
+A ação foi aviada perante o Juízo da Vara Única do Trabalho de Pacajus, que declinou de sua competência, sob o fundamento de é irrelevante que o Município tenha regime jurídico único ou adote o conjunto de normas contidas na CLT para reger a relação de trabalho que mantém com seus servidores efetivos, temporários ou comissionados, em razão da natureza jurídico-administrativa da relação.
+Distribuído o feito ao Juízo de Direito da 1ª Vara da Comarca de Pacajus, foi suscitado o conflito perante o Superior Tribunal de Justiça, tendo o suscitante consignado que, quando o servidor temporário for contratado sob o regime celetista, a competência é da Justiça laboral
+É o relatório. Decido.
+Inicialmente, acentuo que o Conflito comporta conhecimento, porquanto se trata de controvérsia instaurada entre Juízes vinculados a Tribunais distintos, consoante o disposto no art. 105, I, "d", da Magna Carta.
+Colhe-se dos autos que a parte autora foi admitida, temporariamente, para o exercício da função de Auxiliar de Serviços, contratação esta fundamentada na necessidade temporária de excepcional interesse público.
+O Superior Tribunal de Justiça tem entendimento assentado de que compete à Justiça Comum, Estadual ou Federal, conforme o caso, processar e julgar as demandas com origem em contratos temporários de trabalho fundados no art. 37, IX, da Constituição Federal, ainda que o ente contratante adote o regime celetista para os demais empregados de seu quadro efetivo.
+Nesse sentido, os seguintes precedentes:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO REGIMENTAL NO CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇA COMUM E JUSTIÇA TRABALHISTA. CONTRATO TEMPORÁRIO DE TRABALHO. COMPETÊNCIA DA JUSTIÇA COMUM ESTADUAL. AGRAVO REGIMENTAL DO PARTICULAR DESPROVIDO.
+1. A competência para processar e julgar ações cujo objeto é a relação jurídica estabelecida entre o Poder Público e seus Servidores contratados por prazo determinado, em face de necessidade temporária de excepcional interesse público, é da Justiça Comum.
+2. Agravo Regimental do Particular desprovido.
+(AgRg no CC 140.643/SC, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA SEÇÃO, julgado em 19/03/2019, DJe 28/03/2019)
+CONFLITO NEGATIVO DE COMPETÊNCIA. JUSTIÇAS ESTADUAL E TRABALHISTA. AÇÃO NA QUAL SE POSTULAM VERBAS DECORRENTES DE CONTRATAÇÃO TEMPORÁRIA FUNDADA NO ART. 37, IX, DA CF/1988. VÍNCULO EXISTENTE ENTRE CONTRATANTE E CONTRATADO. NATUREZA JURÍDICO-ADMINISTRATIVA. COMPETÊNCIA DA JUSTIÇA COMUM.
+1. Compete à Justiça Comum estadual ou federal, conforme o caso, processar e julgar demanda decorrente de contrato temporário de trabalho fundado no art. 37, IX, da Constituição Federal. Precedentes do STJ e do STF.
+2. Conflito negativo conhecido, declarando-se, no caso concreto, a competência do Juízo de Direito da Vara da Fazenda Pública da Comarca de Paranaguá/PR, o suscitante.
+(CC 160.644/PR, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA SEÇÃO, julgado em 26/09/2018, DJe 03/10/2018)
+Ante o exposto, com fundamento no art. 34, XXII, do RISTJ, conheço do presente conflito e declaro competente o Juízo de Direito da 1ª Vara da Comarca de Pacajus, ora suscitante.
+Publique-se. Intimem-se.
