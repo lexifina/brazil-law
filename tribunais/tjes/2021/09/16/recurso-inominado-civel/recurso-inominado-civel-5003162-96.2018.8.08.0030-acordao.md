@@ -1,0 +1,53 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5003162-96.2018.8.08.0030
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: VIVO S.A.
+RECORRIDO: MESSIAS LOPES DA SILVA
+RELATOR(A
+):FABIO PRETTI
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+Recurso Inominado nos autos n°
+
+5003162-96.2018.8.08.0030
+
+Recorrente: VIVO S.A.
+
+Recorrido(a): MESSIAS LOPES DA SILVA
+
+VOTO
+
+DR. FABIO PRETTI – RELATOR
+
+(Minuta elaborada em conformidade com a Resolução TJES nº 12/2020)
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+EMENTA: RECURSO INOMINADO. DIREITO DO CONSUMIDOR. AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS, CUJO FUNDAMENTO SE BASEIA EM LIGAÇÕES E MENSAGENS DE TELEMARKETING REITERADAS. RECEBIMENTO DE LIGAÇÕES DE OFERTAS DE PLANOS E SERVIÇOS QUE, POR SI SÓ, NÃO ENSEJA O DEVER DE REPARAÇÃO POR DANOS MORAIS, EXCETO EM SITUAÇÕES EXCEPCIONAIS. CONFORME PROVAS NOS AUTOS, HOUVE LIGAÇÕES EXCESSIVAS E INOPORTUNAS DA OPERADORA RECORRENTE. CHAMADAS RECEBIDAS DE NÚMEROS DIVERSOS QUE INVIABILIZAM O BLOQUEIO TOTAL DAS LIGAÇÕES. FALHA NA PRESTAÇÃO DE SERVIÇOS CONFIGURADA. SITUAÇÃO QUE TRANSCENDE A ESFERA DO MERO ABORRECIMENTO. DANO MORAL CARACTERIZADO E ARBITRADO EM R$ 4.000,00 (QUATRO MIL REAIS), EM CONSONÂNCIA COM A RAZOABILIDADE E PROPORCIONALIDADE. RECURSO INOMINADO CONHECIDO E IMPROVIDO. SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS MOLDES DO ART. 46 DA LEI Nº 9.099/95. CONDENAÇÃO DO RECORRENTE EM CUSTAS E HONORÁRIOS ADVOCATÍCIOS FIXADOS NO IMPORTE DE 10% SOBRE O VALOR DA CONDENAÇÃO.
+
+SIRLA MOSKEN TAMANHAO
+
+Juíza Leiga
+
+O Sr. Juiz de Direito Relator Dr. FABIO PRETTI
+– Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e negar provimento ao recurso, nos termos do voto do Relator.
