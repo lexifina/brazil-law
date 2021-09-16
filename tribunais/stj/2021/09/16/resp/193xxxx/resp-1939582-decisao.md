@@ -1,0 +1,18 @@
+DECISÃO
+Trata-se de recurso especial interposto por BANCO DO BRASIL S.A., com fundamento no art. 105, III, "a", da Constituição Federal, contra o acórdão do Tribunal de Justiça do Estado do Rio de Janeiroassim ementado:
+"Agravo interno em agravo de instrumento. Negado provimento ao recurso do réu com base nas Súmulas nº 200 e 295 do TJRJ: Nº. 200 "A retenção de valores em conta corrente oriunda de empréstimo bancário ou de utilização de cartão de crédito não pode ultrapassar o percentual de 30% do salário do correntista." Nº. 295 "Na hipótese de superendividamento decorrente de empréstimos obtidos de instituições financeiras diversas, a totalidade dos descontos incidentes em conta-corrente não poderá ser superior a 30% do salário do devedor." Jurisprudência desta Corte. Inexistência de novos argumentos, pretendendo a agravante o julgamento pelo colegiado. Decisão monocrática, que ora se mantém. NEGADO PROVIMENTO AO AGRAVO" (fls. 116 e-STJ).
+No recurso especial, o recorrente apontaviolação dos artigos 52 do Código de Defesa do Consumidor, 104, 110, 157, § 2º, 166, 186, 317, 478 e 884do Código Civil, .
+Sustenta, em síntese, a impossibilidade da limitação das parcelas mensais do mútuo em 30% (trinta por cento) da remuneração do recorrido, tendo em vista que tal limitação tem aplicação somente aos mútuos consignados em folha de pagamento, não sendo possível aplicar o mesmo entendimento aos demais empréstimos realizados diretamente pelo recorrido com a instituição financeira por débito em conta.
+Afirma que o arbitramento de multa diária enseja enriquecimento sem causa da parte recorrida, e que estão presentes os requisitos para a validade do negócio jurídico celebrado.
+É o relatório.
+DECIDO.
+Trata-se de controvérsia afetada à Segunda Seção para julgamento sob o rito dos recursos especiais repetitivos, nos termos dos arts. 1.036 e 1.037 do Código de Processo Civil de 2015, conforme o Tema 1.085assim delimitado:
+"PROPOSTA DE AFETAÇÃO. RECURSO ESPECIAL. RITO DOS RECURSOS ESPECIAIS REPETITIVOS. DISCUSSÃO CONSISTENTE EM DEFINIR SE, NO ÂMBITO DO CONTRATO DE MÚTUO BANCÁRIO, EM QUE HÁ EXPRESSA AUTORIZAÇÃO DO MUTUÁRIO-CORRENTISTA PARA O DESCONTO EM CONTA-CORRENTE DAS CORRELATAS PRESTAÇÕES, É APLICÁVEL OU NÃO, POR ANALOGIA, A LIMITAÇÃO DE 30% (TRINTA POR CENTO) PREVISTA NA LEI N. 10.820/2003.
+1. Delimitação da controvérsia: "Aplicabilidade ou não da limitação de 30% prevista na Lei n. 10.820/2003 (art. 1º, § 1º), para os contratos de empréstimos bancários livremente pactuados, nos quais haja previsão de desconto em conta corrente, ainda que usada para o recebimento de salário".
+2. Recurso especial afetado ao rito do artigo 1.036 do Código de Processo Civil"
+(ProAfR no REsp 1.863.973/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, SEGUNDA SEÇÃO, julgado em 23/3/2021, DJe 6/4/2021)
+Diante disso, em observância à economia processual e ao art. 256-L do RISTJ, os recursos que tratam da mesma controvérsia no Superior Tribunal de Justiça devem aguardar o desfecho da questão no Tribunal de origem, a quem incumbe realizar o juízo de conformação atualmente disciplinado pelos arts. 1.039 e 1.040 do CPC/2015.
+Somente após a análise de conformidade, se for o caso, o recurso especial deverá ser reencaminhado a este Tribunal Superior, independentemente de ratificação, para exame das demais questões jurídicas nele suscitadas que eventualmente não tenham ficado prejudicadas.
+Ante o exposto, determino a remessa dos autos ao Tribunal de origem, com a respectiva baixa, a fim de que o processo permaneça suspenso até a publicação do acórdão do recurso especial repetitivo, observando-se, em seguida, os procedimentos previstos nos arts. 1.039 e 1.040 do CPC/2015.
+Publique-se.
+Intimem-se.
