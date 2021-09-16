@@ -1,0 +1,64 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por ADÍLIO ZANATTA - ESPÓLIO, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fls. 236/237):
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. EXTINÇÃO DO PROCESSO EXECUTIVO. APELAÇÃO. CABIMENTO. AGRAVO DE INSTRUMENTO. ERRO GROSSEIRO. INSTRUMENTALIDADE. FUNGIBILIDADE. INVIABILIDADE. INOVAÇÃO RECURSAL. IMPOSSIBILIDADE. PREQUESTIONAMENTO. INOCORRÊNCIA. MATÉRIA DE ORDEM PÚBLICA. IRRELEVÂNCIA. DECISÃO MANTIDA. AGRAVO INTERNO NÃO PROVIDO.1. Aplica-se o NCPC a este recurso ante os termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.2. É incabível agravo de instrumento contra sentença que encerra integralmente a execução, ensejando tal decisum a interposição de apelação. Precedentes.3. O manejo do agravo de instrumento caracterizou erro grosseiro, sendo inaplicáveis a instrumentalidade e a fungibilidade para viabilizar o conhecimento do recurso erroneamente interposto. Precedentes.4. A questão do suposto equívoco na denominação do recurso pela parte não foi suscitada no recurso especial, inviabilizando que seja levantada em sede de agravo interno, por configurar inovação recursal5. A ausência de debate no acórdão recorrido quanto aos temas suscitados no recurso especial evidencia a falta de prequestionamento, admitindo-se o prequestionamento ficto na hipótese em que não sanada a omissão no julgamento de embargos de declaração e suscitada genericamente a ofensa ao art. 1.022 do NCPC no recurso especial.6. O requisito do prequestionamento é imprescindível, ainda que se trate de matéria de ordem pública.7. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.8. Agravo interno não provido.
+Embargos de declaração rejeitados às fls. 277/283.
+Sustenta o recorrente a existência de repercussão geral e aponta a violação do art. 93, IX, da Constituição Federal.
+Questiona o entendimento adotado no acórdão recorrido sobre a falta deprequestionamento na alegação de ocorrência de prescrição.
+Afirma que esta Corte teria incorrido em negativa de prestação jurisdicionalante a ausência de fundamentação devida, argumentando que "a prescrição em face do ESPÓLIO não mereceu qualquer análise ou mesmo forma sucinta, apesar do pré-questionamento nas instâncias ordinárias." (e-STJ fl. 297).
+Acrescenta, ainda, que "por ser matéria de ordem pública, a prescrição pode ser alegada a qualquer momento e em qualquer grau de jurisdição. Entretanto, incidirá a preclusão se já houver pronunciamento judicial a respeito da questão, não tendo sido interposto recurso próprio e tempestivo, sendo inadmissível o ressurgimento posterior da controvérsia." (e-STJ fl. 306).
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões não foram apresentadas (e-STJ fl. 316).
+É o relatório.
+Ao interpretar o art. 93, inciso IX, da Constituição Federal, o Supremo Tribunal Federal firmou o entendimento de que, para que uma decisão judicial seja considerada motivada, não se exige o exame pormenorizado de cada alegação ou prova trazida pelas partes, tampouco que sejam corretos os seus fundamentos.
+Nesse sentido é o Tema 339/STF, segundo o qual "o artigo 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão" (QO no Ag n. 791.292/PE).
+Confira-se, por oportuno, a ementa do acórdão:
+Questão de ordem. Agravo de Instrumento. Conversão em recurso extraordinário (CPC, art. 544, §§ 3º e 4º). 2. Alegação de ofensa aos incisos XXXV e LX do art. 5º e ao inciso IX do art. 93 da Constituição Federal. Inocorrência. 3. O a rt. 93, IX, da Constituição Federal exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente, sem determinar, contudo, o exame pormenorizado de cada uma das alegações ou provas, nem que sejam corretos os fundamentos da decisão. 4. Questão de ordem acolhida para reconhecer a repercussão geral, reafirmar a jurisprudência do Tribunal, negar provimento ao recurso e autorizar a adoção dos procedimentos relacionados à repercussão geral.
+(AI 791.292 QO-RG, Relator(a): Min. GILMAR MENDES, julgado em 23/06/2010, REPERCUSSÃO GERAL - MÉRITO DJe-149 DIVULG 12-08-2010 PUBLIC 13-08-2010 EMENT VOL-02410-06 PP-01289 RDECTRAB v. 18, n. 203, 2011, pp. 113-118.)
+Na espécie, da leitura do julgado questionado, constata-se que foram declinadas as razões pelas quais negou-se provimento ao agravo interno, valendo destacar o seguinte excerto (e-STJ fls. 241/249):
+"O inconformismo agora manejado não merece provimento por não ter trazido nenhum elemento apto a infirmar as suas conclusões.
+(1)Do cabimento do agravo de instrumento; (4)Da fungibilidade e da instrumentalidade; e (5) Do equívoco na nominação da peça
+No presente recurso, o ESPÓLIO asseverou que cabe agravo de instrumento contra decisão que acolhe ou rejeita tese de prescrição, nos termos do art. 1.015 do NCPC.
+Prossegue defendendo que, caso não fosse interposto o agravo de instrumento, a questão relativa à prescrição estaria preclusa.
+Ainda acrescentou que não houve extinção integral da execução, porquanto foi proposta ação monitória sanando-se o vício das notas promissórias.
+Contudo, esta Terceira Turma já se posicionou no sentido de que é incabível agravo de instrumento contra sentença que encerra integralmente a execução, pouco importando o motivo pelo qual esta foi extinta, e que a falha caracteriza erro grosseiro.
+Vejam-se os julgados:
+ ..
+Embora o ESPÓLIO insista que não houve extinção integral, o acolhimento em parte da exceção de pré-executividade justificou-se apenas pela rejeição da prejudicial de prescrição, tendo sido a execução integralmente extinta em virtude da ausência de título executivo.
+Nessa linha, o recurso cabível contra o encerramento integral do processo executivo era a apelação, como destacado na decisão unipessoal.
+Em que pese ESPÓLIO defenda que inexistiu extinção integral por ter sido proposta ação monitória posteriormente, mediante correção da falha, observa-se o equívoco conceitual, na medida em que extinção integral não se confunde com extinção com resolução de mérito, não deixando de ser considerada sentença a decisão que encerra o processo sem adentrar ao exame do mérito.
+Dessa forma, não há que se falar no cabimento do agravo de instrumento com fulcro na previsão do art. 1.015 do NCPC, nem na suposta preclusão da tese prescritiva caso não interposto o agravo de instrumento, na medida em que o art. 1.015 do NCPC refere-se à hipótese de decisãoparcial de mérito, não se confundindo com a extinção integral da execução. O ESPÓLIO também aduziu que são aplicáveis os princípios da instrumentalidade e da fungibilidade. Todavia, o manejo do agravo de instrumento caracterizou erro grosseiro, visto que tal recurso apenas seria cabível se a extinção do processo fosse limitada a parcela do mérito, preservando-se o curso natural da execução quanto ao remanescente.
+Logo, tratando-se de erro grosseiro, é inviável cogitar da aplicação do princípio da instrumentalidade. Confira-se:
+ ..
+Do mesmo modo, não é possível invocar a aplicação da fungibilidade recursal para se conhecer de agravo de instrumento interposto contra decisão que extingue o processo.
+A propósito:
+ ..
+O ESPÓLIO ainda defendeu que o mero equívoco na nominação da peça recursal não torna inadmissível o recurso.
+No entanto, da leitura das razões do apelo nobre, se percebe que o suposto equívoco não foi arguido no momento adequado pois o ESPÓLIO se limitou a defender o cabimento do agravo de instrumento.
+Assim sendo, a alegação somente neste momento processual indevida inovação recursal. A propósito:
+ ..
+Nesse contexto, não prospera a pretensão de conhecimento do agravo de instrumento.
+(2) e (3)Da alegação de prescrição
+O ESPÓLIO também defendeu que além de ter transcorrido o prazo de prescrição, visto que este não foi interrompido tempestivamente pela citação, por ser ela matéria de ordem pública, pode ser cognoscível a qualquer tempo, em apelação ou agravo de instrumento.
+Contudo, não obstante a oposição, naquela instância, de embargos de declaração, referido tema não foi debatido no Tribunal estadual, ante o não conhecimento do agravo de instrumento interposto. Nessa ordem de ideias, é importante destacar que a jurisprudência do STJ entende que, para a admissão do prequestionamento ficto, nos termos do art. 1.025 do NCPC, em recurso especial, exige-se a anterior oposição dos embargos de declaração, além da indicação de violação do art. 1.022 do NCPC, para que se possibilite ao Órgão julgador verificar a existência do vício no acórdão recorrido.
+Nos termos do art. 1.025 do NCPC, admite-se o reconhecimento do prequestionamento ficto se o tribunal superior entender que foi evidenciada a existência de erro, omissão, contradição ou obscuridade, in verbis:
+ ..
+Contudo, no caso dos autos, apesar da oposição dos aclaratórios e da indicação de violação ao disposto no art. 1.022 do NCPC, foi reconhecido expressa e fundamentadamente que a alegação foi genérica, não se tendo apontado quais os pontos omissos, obscuros ou contraditórios do acórdão vergastado.
+Sendo assim, embora opostos os embargos de declaração e alegada a violação do art. 1.022 do NCPC, inviabilizado o conhecimento da tese de violação, pela incidência da Súmula nº 284 do STF, não se reconhece o prequestionamento previsto no art. 1.025 do NCPC.
+Nessa linha são os seguintes precedentes:
+ ..
+Assim, o recurso não pode ser conhecido quanto ao ponto por falta de prequestionamento. Ademais, é iterativa a jurisprudência do STJ no sentido de que é exigido o prequestionamento independentemente de se tratar de matéria de ordem pública, a exemplo da prescrição. Confiram-se:
+ ..
+Dessarte, mantém-se a decisão proferida, por não haver motivos para sua alteração.
+Nessas condições, pelo meu voto, NEGO PROVIMENTO ao agravo interno."
+Conclui-se, portanto, que o acórdão encontra-se em consonância com a jurisprudência fixada pela Suprema Corte em repercussão geral, no Tema 339/STF.
+Nesse sentido:
+EMBARGOS DE DECLARAÇÃO RECEBIDOS COMO AGRAVO INTERNO. (..) FUNDAMENTAÇÃO SUFICIENTE. QUESTÃO DE ORDEM NO AGRAVO DE INSTRUMENTO 791.292 - TEMA 339. AGRAVO A QUE SE NEGA PROVIMENTO. (..) 5. A jurisprudência do Supremo Tribunal Federal é pacífica no sentido de que cumpre a regra do art. 93, IX, da CF a decisão judicial que seja fundamentada, ainda que de modo sucinto, sendo desnecessário o exame pormenorizado de cada uma das alegações ou provas dos autos (AI 791.292 - Tema 339 da sistemática da repercussão geral). (..) 7. Agravo a que se nega provimento.
+(Rcl 41510 ED, Relator(a): Min. LUIZ FUX, Primeira Turma, julgado em 18/08/2020, PROCESSO ELETRÔNICO DJe-218 DIVULG 31-08-2020 PUBLIC 01-09-2020.)
+No mesmo diapasão:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO COM AGRAVO. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. INOCORRÊNCIA. TEMA 339 DA REPERCUSSÃO GERAL. DECISÃO RECORRIDA EM CONFORMIDADE COM A JURISPRUDÊNCIA DO STF. 1. No julgamento do AI 791.292-QO-RG/PE (Rel. Min. GILMAR MENDES, Tema 339), o Supremo Tribunal Federal assentou que o inciso IX do art. 93 da CF/1988 exige que o acórdão ou decisão sejam fundamentados, ainda que sucintamente. 2. Decisão recorrida em conformidade com a jurisprudência do SUPREMO TRIBUNAL FEDERAL. 3. Agravo interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(ARE 1266033 AgR, Relator(a): Min. ALEXANDRE DE MORAES, Primeira Turma, julgado em 05/08/2020, PROCESSO ELETRÔNICO DJe-204 DIVULG 14-08-2020 PUBLIC 17-08-2020.)
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. FALTA DE FUNDAMENTAÇÃO DO ACÓRDÃO RECORRIDO. NÃO OCORRÊNCIA. TEMA 339/STF. SEGUIMENTO NEGADO.
