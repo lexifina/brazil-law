@@ -1,0 +1,47 @@
+DECISÃO
+Trata-se de recurso especial interposto por RNI NEGÓCIOS IMOBILIÁRIOS S.A. (RODOBENS NEGÓCIOS IMOBILIÁRIOS S.A.)fundamentado no artigo 105, inciso III, alíneas "a" e "c", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Estado deSão Paulo assim ementado:
+"Compromisso de venda e compra - Atraso na entrega do imóvel -Pretensão de condenação das rés ao pagamento de 1% sobre o valor do contrato atualizado a título de aluguel do imóvel durante o período de dez/2010 até a entrega das chaves (out./2011),devolução dos juros de obra, bem como o pagamento da multa contratual pelo atraso na entrega - Procedência parcial da ação. Inconformismo das rés se insurgindo contra a condenação por lucros cessantes, acenando com a ausência de atraso na entrega do bem, ilegitimidade passiva no tocante aos juros de obra, almejando a denunciação da lide à Instituição Financeira - Descabimento - Ilegitimidade passiva bem demonstrada - Relação de consumo - Atraso na entrega do bem configurada Prejuízo presumido - Lucros cessantes devidos - Irresignação da Autora centrado na incorreção da data fixada como termo inicial do atraso, almejando a condenação da rés ao pagamento dos juros de obra pagos no período do atraso; da multa contratual pelo atraso na entrega; bem como pagamento de indenização a título de aluguel pelo período do atraso - Período de atraso corretamente fixado - Hipótese em que já houve condenação ao pagamento dos juros de obra e lucros cessantes pelo período de atraso - Impossibilidade de cumulação da multa contratual com os lucros cessantes, sob pena de "bis in idem" - Entendimento firmado pelos temas 970 e 971 do STJ, notadamente quanto ao Recurso Especial Repetitivo nº 1.498.848/DF - Sentença mantida - Recursos improvidos" (fl. 426 e-STJ).
+Os embargos de declaração opostos foram rejeitados (fl. 498 e-STJ).
+No recurso especial, orecorrentealega, além de divergência jurisprudencial, violação dos arts. 485, VI,do CPC/2015; e 476, 477 e 944 do CC. Defende, em síntese, que seja afastada a condenação ao pagamento de juros de obra, da multa contratual e da indenização a título de aluguel pelo período de atraso.
+Sem as contrarrazões, o recurso foi admitido na origem.
+É o relatório.
+DECIDO.
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Quanto a legitimidade passiva acerca da cobrança de juros de obra, o Tribunal de origem consignou:
+"No que concerne a cogitada ilegitimidade passiva das Rés acerca da cobrança de juros de obra, o inconformismo não merece guarida.
+É que o exame de todo o processado permite verificar sua participação na cadeia produtiva e o proveito total e efetivo advindo do negócio celebrado, de sorte a se responsabilizar por todas as consequências da contratação, nos moldes dos artigos 7º, parágrafo único, e 25, §1º, do Código de Defesa do Consumidor.
+Ademais, a ação vem lastreada no descumprimento do contrato celebrado entre a autora e as rés, pacto que a Instituição Financeira (Caixa Econômica Federal) não figurou como parte, além disso, não restou comprovada qualquer responsabilidade do agente financeiro pelo atraso da obra, incumbindo às Apelantes arcar com as consequências do atraso, por consequência, não há como vingar a pretensão denunciação da lide" (fl. 429 e-STJ).
+Nesses termos, rever os argumentos trazidos esbarra no óbicedaSúmulanº7/STJ.
+Ademais, verifica-se que o acórdão recorrido está em consonânciacom o entendimento desta Cortenosentido de que, reconhecida a culpa do promitente vendedor no atraso daentrega de imóvel, os lucros cessantes são presumidos e devem corresponderà média do aluguel que o comprador deixaria de pagar, e de que é "descabida a cumulação da multa contratual por perdas e danos" (fl. 432 e-STJ).
+A propósito:
+"AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL.PROCESSUAL CIVIL. OMISSÃO INEXISTENTE. ART. 1.022 DO CPC/2015.COMPRA E VENDA. IMÓVEL. PLANTA. ATRASO. ENTREGA. REPARAÇÃO MORAL E MATERIAL. CLÁUSULA DE TOLERÂNCIA. TERMOS INICIAL E FINAL. MORA.SÚMULAS NºS 5 E 7/STJ. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF.CORREÇÃO MONETÁRIA. SALDO DEVEDOR. LEGALIDADE. SUMULA Nº 83/STJ.LUCROS CESSANTES. CLÁUSULA PENAL. MULTA MORATÓRIA. TEMAS NºS 970 E 971. SÚMULA Nº 568/STJ.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 1973 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Não há falar em negativa de prestação jurisdicional se o tribunal de origem motiva adequadamente sua decisão, solucionando a controvérsia com a aplicação do direito que entende cabível à hipótese, apenas não no sentido pretendido pela parte.
+3. Na hipótese, não há como acolher a pretensão recursal diante dos óbices das Súmulas nºs 5 e 7/STJ.
+4. No caso concreto, aplica-se o óbice da Súmula nº 283/STF em virtude da ausência de impugnação específica, no recurso especial, de todos os fundamentos do acórdão recorrido.
+5. A mora na entrega das chaves de imóvel adquirido na planta, excluída a má-fé da construtora, não autoriza a suspensão da correção monetária do saldo devedor. Precedentes.
+6. A correção monetária nada acrescenta ao valor da moeda, servindo apenas para recompor o seu poder aquisitivo, corroído pelos efeitos da inflação, constituindo fator de reajuste intrínseco das dívidas de valor. Precedentes. Súmula nº 83/STJ.
+7. A cláusula de tolerância, para fins de mora contratual, não constitui desvantagem exagerada em desfavor do consumidor, o que comprometeria o princípio da equivalência das prestações estabelecidas. Precedentes.
+8. A Segunda Seção, em recurso repetitivo, firmou entendimento de que a cláusula penal moratória tem a finalidade de indenizar pelo adimplemento tardio da obrigação, e, em regra, estabelecida em valor equivalente ao locativo, afasta-se sua cumulação com lucros cessantes (Tema/STJ nº 970).
+9. Nos moldes da Tese nº 971, no contrato de adesão firmado entre o comprador e a construtora/incorporadora, havendo previsão de cláusula penal apenas para o inadimplemento do adquirente, deverá ela ser considerada para a fixação da indenização pelo inadimplemento do vendedor. As obrigações heterogêneas (obrigações de fazer e de dar) serão convertidas em dinheiro, por arbitramento judicial.
+10. Agravo interno não provido."(AgInt nos EDcl no REsp 1702692/RJ, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 30/11/2020, DJe 03/12/2020)
+"AGRAVO INTERNO NO RECURSO ESPECIAL - AÇÃO DE RESCISÃO CONTRATUAL -DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO.INSURGÊNCIA RECURSALDA DEMANDADA.
+1. Não se constata a alegada violação aos artigos 489 e 1.022 do CPC/15,porquanto os argumentos expostos pela parte foram apreciados, comfundamentação clara, coerente e suficiente pelo órgão julgador.
+2. A ausência de enfrentamento da matéria inserta nos dispositivosapontados como violados pelo Tribunal de origem impede o acesso àinstância especial, porquanto não preenchido o requisito constitucional doprequestionamento. Incidência da Súmula 211 do STJ.
+3. A subsistência de fundamento inatacado, apto a manter a conclusão doaresto impugnado, impõe o reconhecimento da incidência da Súmulas 283 doSTF, por analogia.
+4. O acórdão recorrido está em consonância com a jurisprudência do STJ nosentido de que, reconhecida a culpa do promitente vendedor no atraso da
+entrega de imóvel, os lucros cessantes são presumidos e devem corresponder
+à média do aluguel mensal, com base no valor locatício de bem assemelhado.Incidência da Súmula 83 do STJ.
+5. Agravo interno desprovido"(AgInt no REsp 1.883.862/SP, Rel. Ministro MARCO BUZZI, QUARTA TURMA,julgado em 8/2/2021, DJe 10/5/2021)
+"AGRAVO INTERNO EM RECURSO ESPECIAL. AÇÃO DE RESCISÃO CONTRATUAL CUMULADACOM INDENIZAÇÃO POR DANOS MATERIAIS E COMPENSAÇÃO POR DANOS MORAIS.INADIMPLEMENTO CONTRATUAL. ENTENDIMENTO SOBRE A MATÉRIA NO STJ. SÚMULA568/STJ. NÃO INCIDÊNCIA DO CDC. AUSÊNCIA DE VIOLAÇÃO AOS ARTS. 489 E 1.013DO CPC/2015.
+1. Ação de rescisão contratual cumulada com indenização por danosmateriais e compensação por danos morais.
+2. Devidamente analisadas e discutidas as questões de mérito, efundamentado corretamente o acórdão recorrido, de modo a esgotar aprestação jurisdicional, não há que se falar em violação dos arts.489, IIe §1º, I, II, IV, e 1013 do CPC.
+3. A ausência de decisão acerca dos dispositivos legais indicados comoviolados, não obstante a interposição de embargos de declaração, impede oconhecimento do recurso especial.
+4. A jurisprudência deste Tribunal firmou-se no sentido de que,reconhecida a culpa do promitente vendedor no atraso da entrega de imóvel,os lucros cessantes são presumidos e devem corresponder à média do aluguelque o comprador deixaria de pagar. Precedentes.
+5. Não se conhece de recurso especial na hipótese em que, por deficiênciade fundamentação, não se permitir compreender seus fundamentos.
+6. Agravo interno parcialmente conhecido e, nessa parte, não provido"(AgInt no REsp 1.800.657/RJ, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA,julgado em 31/8/2020, DJe 3/9/2020)
+Ante o exposto, nego provimento ao recurso especial.
+Em atendimento ao disposto no art. 85, § 11, do Código de Processo Civil de 2015, majoro os honorários devidos ao advogado da parte recorrida para 12% (doze por cento) sobre o valor da causa.
+Publique-se.
+Intimem-se.
