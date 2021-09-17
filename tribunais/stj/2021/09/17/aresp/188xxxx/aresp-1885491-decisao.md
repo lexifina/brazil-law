@@ -1,0 +1,30 @@
+DECISÃO
+Cuida-se de agravo apresentado por AGROPECUÁRIA TERRAS NOVAS S/A e CARMEN RUETE DE OLIVEIRA contra a decisão que não admitiu seu recurso especial.
+O apelo nobre, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, visa reformar acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, assim resumido:
+Agravo de instrumento. Embargos à execução. Pedido de atribuição de efeito suspensivo indeferido na origem. Ausência dos requisitos do art. 919, §1º, do CPC. Garantia contratual que não se confunde com a garantia da execução. Precedentes. Recurso desprovido (fl. 340).
+Alega violação do art. 919, § 1º, do CPC, no que concerne à possibilidade de concessão de efeito suspensivo aos embargos à execução, por estarem presentes todos os requisitos. Traz os seguintes argumentos:
+14. No caso em tela, a negativa de vigência a tal dispositivo justamente no fato de que todos os requisitos autorizadores da concessão do efeito estavam presentes, mas, mesmo assim, o respeitável acórdão recorrido fez questão de não considerá-los.
+15. A presença dos requisitos é tão latente que os recorrentes fizeram questão de tratá-los de forma pormenorizada, uma a uma.
+16. A probabilidade do direito é evidente, não existindo razão para argumentar pela sua inexistência. Ora, os recorrentes fizeram questão de destacar que o prosseguimento da execução nos moldes como ajuizada não deveria prosperar, uma vez que (i) houve violação do período de carência firmado, (ii) as taxas de juros deveriam se limitar ao percentual de 8,7% a.a, mas foram aplicadas em 11,9434% a.a, (iii) cobrança de juros em valores superiores a 100% das taxas medias do do CDI, (iv) houve rompimento do fluxo de amortização e (v) o recorrido não apresentou o Demonstrativo de Liquidações e Evolução do Saldo Devedor.
+17. O perigo de dano também está presente. O periculum existe porque, mesmo existindo bens vinculados ao título executivo, em alienação fiduciária, o recorrido ousou pleitear o arresto de todos bens e ativos que forem identificados via Bacenjud, Renajud e Infojud. Houve total ignorância das garantias ofertadas, e assim tem prosseguido a execução.
+18. Além do mais, em apreço ao princípio da menor onerosidade ao executado/devedor, insculpido no art. 805 do CPC/15, deveria o magistrado adotar a ordem preferencial de penhora registrada no art. 835 do CPC/15, o que não o fez.
+19. Por fim, o requisito da garantia do juízo também foi devidamente preenchido. Importante salientar, ainda que de maneira sucinta, as garantias ofertadas: (i) 10 (dez) carretas transbordo ATA 10500, Marca Antoniosi; e (ii) 08 (oito) carretas transbordo ATA 12000 SC, Marca Antoniosi. (fl. 363).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+A lei processual vigente estabelece que os embargos à execução não têm efeito suspensivo, e que somente será atribuído excepcionalmente na presença dos requisitos do art. 919, § 1º do Código de Processo Civil.
+ .. .
+Saliente-se que estes requisitos são cumulativos, ou seja, devem todos eles ser preenchidos no caso concreto para que se possa atribuir aos embargos à execução o efeito suspensivo.
+É necessária a comprovação dos elementos que evidenciem a probabilidade do direito e o perigo de dano ou risco ao resultado útil do processo (tutela de urgência), além da segurança do juízo, o que não ocorre na espécie.
+Ao contrário do que alegam os agravantes, o juízo não está garantido. Com efeito, a garantia contratual, caso dos autos, não se confunde com a processual, sendo esta última o verdadeiro requisito legal previsto no parágrafo primeiro do art. 919 do CPC.
+ .. .
+Isso é o que basta para o desprovimento do recurso, sendo plenamente possível também questionar a presença do periculum in mora, pois como observou o juízo de origem, "não se verifica também o perigo de dano, além daquilo que é inerente a toda e qualquer excussão patrimonial." (fls. 341/342, grifos meus).
+Aplicável, o óbice da Súmula n. 7 do STJ ("A pretensão de simples reexame de prova não enseja recurso especial"), uma vez que o acolhimento da pretensão recursal quanto à caracterização do periculum in mora demandaria o reexame do acervo fático-probatório juntado aos autos.
+Nesse sentido:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. 1. VIOLAÇÃO AO ART. 55, §§ 2º E 3º, DO CPC/2015. REVISÃO. IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 7/STJ. 2. EMBARGOS À EXECUÇÃO. TÍTULO EXTRAJUDICIAL. EFEITO SUSPENSIVO. REQUISITOS. ART. 919, § 1º, DO CPC/2015. AUSÊNCIA DE GARANTIA DO JUÍZO E RISCO GRAVE OU DE DIFÍCIL REPARAÇÃO. IMPOSSIBILIDADE. REVISÃO. INCIDÊNCIA DA SÚMULA 7/STJ. 3. AGRAVO INTERNO IMPROVIDO.
+ ..
+2. O efeito suspensivo dos embargos do devedor demanda a garantia do juízo, além da comprovação de risco de dano irreparável ou de difícil reparação a ser experimentado pela parte executada, nos moldes do art. 919, § 1º, do CPC/2015.
+2.1. O Tribunal de origem, soberano na análise das provas, concluiu pela impossibilidade de se suspender a execução, de forma que a revisão do seu entendimento na via especial está obstada pela Súmula 7 desta Corte.
+3. Agravo interno improvido. (AgInt nos EDcl no AREsp 1.786.983/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe 10/6/2021.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.679.153/SP, relator Ministro Marco Aurélio Bellizze, Terceira Turma, DJe de 1/9/2020; AgInt no REsp 1.846.908/RJ, relator Ministro Antonio Carlos Ferreira, Quarta Turma, DJe de 31/8/2020; AgInt no AREsp 1.581.363/RN, relator Ministro Herman Benjamin, Segunda Turma, DJe de 21/8/2020; e AgInt nos EDcl no REsp 1.848.786/SP, relator Ministro Benedito Gonçalves, Primeira Turma, DJe de 3/8/2020; AgInt no AREsp n. 1.311.173/MS, relator Ministro Gurgel de Faria, Primeira Turma, DJe de 16/10/2020.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Publique-se. Intimem-se.
