@@ -1,0 +1,11 @@
+DECISÃO
+Trata-se de habeas corpus preventivo, com pedido liminar, em face de decisão que indeferiu o processamento do writ na Corte de origem.
+Consta dos autos que o paciente foi condenado como incurso no art. 35 da Lei 11.343/06, e no art. 16, caput, da Lei 10.826/03, a 6 anos de reclusão, em regime inicial semiaberto, e 710 dias-multa.
+No presente writ, a impetrante alega que "após a audiência de instrução, bem como da sentença do juízo, o Paciente começou a receber ameaças contra sua VIDA, ou integridade física caso ingressasse a Penitenciária. A razão de tudo isso, é que o Paciente DELATOU todos os seus colegas no processo criminal, como se verifica em fls. 28 (no IP) que por livre espontânea vontade deu a sua versão do ocorrido, confessando o crime, e dando detalhes da atuação criminsa (sic) de seus parceiros".
+Requer, assim, liminarmente e no mérito, a concessão da ordem para "permitir o cumprimento da pena em regime de prisão domiciliar nos termos do art. 318-B, do CPP".
+Em consulta ao sistema processual eletrônico desta Corte Superior,verifica-se que o presente writ é mera reiteraçãodohabeascorpus689.060/SP, cuja decisão de não conhecimento, face à supressão de instância, foi publicadaem26/8/2021 e certificado o trânsito em julgado em 01/09/2021.
+Com efeito, conforme já consignado no referido habeas corpus, amatéria ventilada no presente writ não pode ser analisada por este Superior Tribunal de Justiça, tendo em vista que a irresignação do paciente não foi apreciada pelo Tribunal de origem, fato que obsta a análise da impetração por este Sodalício, sob pena de indevida supressão de instância.
+Dessa forma, verificada a supressão de instância, não há como perquirir acerca desta matéria. Nesse sentido: HC 360.484/BA, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 19/06/2018, DJe 28/06/2018; AgRg no Resp 1716705/PE, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 03/04/2018, DJe 09/04/2018; HC 430.992/RS, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 22/03/2018, DJe 02/04/2018; AgRg no HC 363.567/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 26/09/2017, DJe 02/10/2017.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
