@@ -1,0 +1,50 @@
+DECISÃO
+RECLAMAÇÃO. CONTRARIEDADE À SÚMULA VINCULANTE N. 56 DO SUPREMO TRIBUNAL FEDERAL NÃO EVIDENCIADA. RECLAMAÇÃO À QUAL SE NEGA SEGUIMENTO.
+Relatório
+    1. Reclamação, com requerimento de medida liminar, ajuizada em 9.9.2021 por Luiz Felipe Meireles da Costa contra ato juízo do Departamento Estadual de Execuções Criminais do Estado de São Paulo, Nona Região Administrativa/SP.
+    2. O reclamante aponta contrariedade à Súmula Vinculante n. 56 deste Supremo Tribunal.
+    Alega que, “[e]m 31.8.2021, foi dado cumprimento ao mandado de prisão definitiva, oportunidade em que (...) compareceu espontaneamente à delegacia, em conjunto com este causídico, para que fosse dado início ao cumprimento da pena de 46 (quarenta e seis) dias de reclusão em regime inicial semiaberto, imposta nos autos do processo de n° 0003647-66.2016.8.0220.
+      Em virtude do cumprimento do mandado de prisão, foi expedida a competente guia de recolhimento definitiva e deflagrada a fase destinada à execução da pena (autos nº 0003594-82.2021.8.26.0520).(…)
+    Nos autos do processo de execução criminal, mesmo após o Reclamante ter atingido lapso temporal necessário para progressão ao regime aberto – 7 dias em regime mais gravoso -, sequer houve decisão nos autos.(…)
+    Nesse ponto importante destacar que a defesa já requereu à unidade prisional o envio do Boletim Informativo para que pudesse melhor instruir o pedido de progressão, porém, até a presente data, o requerido documento não fora atendido. Portanto, mais uma vez ocasionando cumprimento de pena à maior ao Reclamante.(…)
+    Excelência, (...) o Reclamante, apesar de ter reconhecido e declarado judicialmente o seu direito ao início do cumprimento da pena em regime inicial semiaberto, permanece recolhido preso em regime fechado, o que, per si, é ilegal e sobremaneira prejudicial, especialmente ao verificar que já ultrapassou lapso temporal para progressão ao regime aberto.(…)
+    O constrangimento ilegal sofrido pelo Reclamante não tem data para cessar, uma vez que há enorme lista de sentenciado aguardando vaga para o regime intermediário. Ou, na pior das hipóteses, irá cumprir toda sua pena, 46 (quarenta e seis) dias sem direito à progressão de regime.(…)
+    E isso tem ocorrido devido à falta de vagas em estabelecimento adequado, ou seja, vagas em regime semiaberto”.
+    Estes os pedidos e os requerimentos:
+    “(...) a) A concessão liminar de ordem determinando a imediata remoção do Reclamante a estabelecimento adequado à sua condição pessoal ou colocação em regime aberto até o surgimento da vaga, comunicando-se à autoridade reclamada para dar cumprimento à decisão (CPC, art. 989, II);
+    Seja, ao final, declarada a ofensa à Súmula Vinculante nº 56, determinando-se a remoção do Reclamante a estabelecimento adequado à sua condição pessoal ou colocação em regime aberto até o surgimento da vaga(…) ”.
+    3. Em 10.9.2021, determinei fosse oficiado ao Departamento Estadual de Execuções Criminais do Estado de São Paulo, Nona Região Administrativa/SP, para prestar informações pormenorizadas sobre o alegado na presente reclamação. As informações requisitadas foram prestadas e os autos vieram-me conclusos.
+    Examinada a matéria posta à apreciação, DECIDO.
+    4. A reclamação é instrumento constitucional processual posto no sistema como dupla garantia formal da jurisdição: primeiro, para o jurisdicionado que tenha recebido resposta a pleito formulado judicialmente e veja a decisão proferida afrontada, fragilizada e despojada de plena eficácia; segundo, para o Supremo Tribunal Federal (al. l do inc. I do art. 102 da Constituição da República) ou para o Superior Tribunal de Justiça (al. f do inc. I do art. 105 da Constituição), que podem ter suas competências enfrentadas e menosprezadas por outros órgãos do Poder Judiciário e a autoridade das decisões proferidas mitigada em face de atos reclamados.
+    Dispõe-se no art. 988 do Código de Processo Civil:
+    “Art. 988. Caberá reclamação da parte interessada ou do Ministério Público para: I - preservar a competência do tribunal; II - garantir a autoridade das decisões do tribunal; III - garantir a observância de enunciado de súmula vinculante e de decisão do Supremo Tribunal Federal em controle concentrado de constitucionalidade; IV - garantir a observância de acórdão proferido em julgamento de incidente de resolução de demandas repetitivas ou de incidente de assunção de competência.
+    § 1º A reclamação pode ser proposta perante qualquer tribunal, e seu julgamento compete ao órgão jurisdicional cuja competência se busca preservar ou cuja autoridade se pretenda garantir.
+    § 2º A reclamação deverá ser instruída com prova documental e dirigida ao presidente do tribunal.
+    § 3º Assim que recebida, a reclamação será autuada e distribuída ao relator do processo principal, sempre que possível.
+    § 4º As hipóteses dos incisos III e IV compreendem a aplicação indevida da tese jurídica e sua não aplicação aos casos que a ela correspondam.
+    § 5º É inadmissível a reclamação:
+      I - proposta após o trânsito em julgado da decisão reclamada;
+    II - proposta para garantir a observância de acórdão de recurso extraordinário com repercussão geral reconhecida ou de acórdão proferido em julgamento de recursos extraordinário ou especial repetitivos, quando não esgotadas as instâncias ordinárias.
+    § 6º A inadmissibilidade ou o julgamento do recurso interposto contra a decisão proferida pelo órgão reclamado não prejudica a reclamação”.
+    Busca-se pela reclamação fazer com que a prestação jurisdicional seja respeitada em sua autoridade jurídica ou que o órgão judicial de instância superior tenha a competência resguardada.
+    5. Com o instituto da súmula vinculante, inaugurou-se hipótese de cabimento de reclamação para o Supremo Tribunal Federal, como disposto no § 3º do art. 103-A da Constituição da República.
+    A contrariedade a determinada súmula ou a sua aplicação indevida por decisão judicial ou ato administrativo possibilita a atuação deste Supremo Tribunal, que, ao julgar a reclamação procedente, pode anular o ato ou cassar a decisão e determinar outra seja proferida, com ou sem a aplicação da súmula, conforme o caso.
+    6. Põe-se em foco na presente reclamação se o juízo do Departamento Estadual de Execuções Criminais do Estado de São Paulo, Nona Região Administrativa/SP, teria contrariado a Súmula Vinculante n. 56 deste Supremo Tribunal, na qual se enuncia:
+    “A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS”.
+    O objetivo da Súmula Vinculante n. 56 é “evitar que o condenado cumpra pena em regime mais gravoso do que o determinado na sentença; ou cumpra pena em regime mais gravoso do que o autorizado por lei, em razão da inexistência de vagas ou de condições específicas que o possibilitem” (Rcl n. 40.371-MC, Relator o Ministro Roberto Barroso, decisão monocrática, DJe 18.5.2020).
+     Extrai-se da ementa do Recurso Extraordinário n. 641.320, no qual fixados os parâmetros do Tema 423, com repercussão geral, pelo Plenário deste Supremo Tribunal:
+    “I - A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso; II - Os juízes da execução penal poderão avaliar os estabelecimentos destinados aos regimes semiaberto e aberto, para qualificação como adequados a tais regimes. São aceitáveis estabelecimentos que não se qualifiquem como ‘colônia agrícola, industrial’ (regime semiaberto) ou ‘casa de albergado ou estabelecimento adequado’ (regime aberto) (art. 33, §1º, alíneas ‘b’ e ‘c’);
+    III - Havendo déficit de vagas, deverá determinar-se: (i) a saída antecipada de sentenciado no regime com falta de vagas;
+    (ii) a liberdade eletronicamente monitorada ao sentenciado que sai antecipadamente ou é posto em prisão domiciliar por falta de vagas; (iii) o cumprimento de penas restritivas de direito e/ou estudo ao sentenciado que progride ao regime aberto. Até que sejam estruturadas as medidas alternativas propostas, poderá ser deferida a prisão domiciliar ao sentenciado”.
+    7. Tem-se nos autos que o “processo de execução criminal foi cadastrado sob o n° 0003594-82.2021.8.26.0520 referente ao processo n° 0003647-66.2016.8.26.0220, por infração ao artigo 147 ‘caput’ (duas vezes) c/c 71 ‘caput’ ambos do CP, condenado à pena de 01 ano de detenção, no regime semiaberto. Por V. Acórdão, reduzida a pena para 01 mês e 16 dias de detenção” (sic).
+    O mandado de prisão para o cumprimento da pena no regime semiaberto foi cumprido em 31.8.2021.
+    Em 15.9.2021, ao prestar as informações requisitadas, o juízo do Departamento Estadual de Execuções Criminais do Estado de São Paulo, Nona Região Administrativa/SP, afirmou:
+    “(...) Insta consignar que o paciente foi removido à ala de progressão da Penitenciária Dr. Tarcizo Leonce Pinheiro Cintra de Tremembé, em 02/09/2021, adequada ao cumprimento de pena no regime semiaberto e encontra-se usufruindo da saída temporária de ‘setembro/2021’, no período de 14 a 20/09/21.
+    Não há pedido pendente de julgamento.
+    Diante do pleito da Defesa nos presentes autos da Reclamação, nesta data foi determinada a intimação do n. Causídico para juntar atestado de conduta carcerária e boletim informativo, nos termos do Comunicado CG n° 1376/2018 para análise da progressão de regime, conforme cópias anexas” (sic).
+    Tendo a autoridade reclamada afirmado que o reclamante foi transferido em 2.9.2021 para estabelecimento prisional adequado ao regime semiaberto fixado na condenação imposta e que o pedido de progressão ao regime aberto aguarda a juntada do atestado de conduta cercerária para ser analisado, não se há cogitar na espécie de contrariedade à Súmula Vinculante n. 56 deste Supremo Tribunal.
+    8. Pelo exposto, nego seguimento à presente reclamação (§ 1º do art. 21 do Regimento Interno do Supremo Tribunal Federal), prejudicada a medida liminar requerida.
+    Publique-se.
+    Brasília, 17 de setembro de 2021.
+Ministra CÁRMEN LÚCIA
+Relatora
