@@ -1,0 +1,26 @@
+Despacho:
+    Vistos.
+    Trata-se de recurso extraordinário interposto com fundamento no art. 102, III, a, da Constituição Federal, contra acórdão proferido pela 1ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul, assim ementado:
+    “APELAÇÃO CÍVEL. REEXAME NECESSÁRIO. CONHECIDO EX OFFICIO. PREVIDÊNCIA PÚBLICA. INCLUSÃO DO ESPOSO DE SERVIDORA PÚBLICA ESTADUAL VIVA COMO SEU DEPENDENTE JUNTO À AUTARQUIA PREVIDENCIÁRIA. IMPOSSIBILIDADE. DEPEDÊNCIA ECONÔMICA NÃO DEMONSTRADA.
+    Não há como incluir o esposo como dependente da sua cônjuge, servidora pública estadual, junto à autarquia previdenciária, acaso não demonstrada a dependência econômica.
+    APELAÇÃO PROVIDA.
+    REEXAME NECESSÁRIO CONHECIDO DE OFÍCIO PREJUDICADO.”
+    Opostos embargos de declaração, foram rejeitados.
+    Sustenta a recorrente violação dos artigos 5º, inciso I, 201, inciso V, e 226, § 5º, da Constituição Federal.
+    Em 26/4/13, determinei a devolução dos autos ao Tribunal de origem para aplicação da sistemática da repercussão geral com base no Tema nº 457, no qual se discute a “possibilidade de se conceder pensão por morte a marido de ex-servidora pública do Estado do Rio Grande do Sul, sem a comprovação dos requisitos da Lei Estadual nº 7.672/82, exigidos exclusivamente para os cônjuges do sexo masculino”.
+    Em 9/12/2020, o Primeiro Vice-Presidente do Tribunal de Justiça do Estado do Rio Grande do Sul determinou a restituição dos autos a esta Suprema Corte por considerar que o Tema 457 não se enquadra no caso dos autos, uma vez que “a discussão no presente feito refere-se ao cabimento da inclusão do esposo de servidora pública viva como dependente junto ao INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO DE JANEIRO, tendo o Órgão Julgador concluído que ‘Não há como incluir o esposo como dependente de sua cônjuge, servidora pública estadual, junto à autarquia previdenciária, acaso não demonstrada a dependência econômica”.
+    Decido.
+    Pois bem, o Plenário do Supremo Tribunal Federal, no julgamento do mérito do RE nº 659.424/RS, feito paradigma do Tema 457 da repercussão geral, da relatoria do Ministro Celso de Mello, fixou a seguinte tese:
+    “É inconstitucional, por transgressão ao princípio da isonomia entre homens e mulheres (CF, art. 5º, I), a exigência de requisitos legais diferenciados para efeito de outorga de pensão por morte de ex-servidores públicos em relação a seus respectivos cônjuges ou companheiros/companheiras (CF, art. 201, V).”
+    O acórdão desse julgado restou assim ementado:
+    “RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL – PREVIDENCIÁRIO – REVOGAÇÃO DA LEI Nº 7.672/82 (QUE DISPÕE SOBRE O INSTITUTO DE PREVIDÊNCIA DO ESTADO DO RIO GRANDE DO SUL) – ALEGADA PERDA DE OBJETO DO APELO EXTREMO – INOCORRÊNCIA – PEDIDO DE DESAFETAÇÃO – INDEFERIMENTO – INCIDÊNCIA DO CRITÉRIO “TEMPUS REGIT ACTUM” – EXIGÊNCIA DE COMPROVAÇÃO DE INVALIDEZ E DE DEPENDÊNCIA ECONÔMICA UNICAMENTE IMPOSTA AO CÔNJUGE VARÃO – INADMISSIBILIDADE – TRATAMENTO DIFERENCIADO ESTABELECIDO EM DETRIMENTO DO CÔNJUGE VARÃO PARA EFEITO DE CONCESSÃO DE PENSÃO POR MORTE DE SUA MULHER SERVIDORA PÚBLICA (CÔNJUGE OU COMPANHEIRA) – INCONSTITUCIONALIDADE DESSA EXIGÊNCIA PORQUE SOMENTE IMPOSTA AO CÔNJUGE VARÃO – DESEQUIPARAÇÃO ARBITRÁRIA, SEM FUNDAMENTO LÓGICO-RACIONAL, ENTRE HOMENS E MULHERES – OFENSA AO PRINCÍPIO DA ISONOMIA (CF, ART. 5º, I) – INOCORRÊNCIA DE TRANSGRESSÃO, DE OUTRO LADO, À CLÁUSULA DE INDICAÇÃO DA FONTE DE CUSTEIO (CF, ART. 195, § 5º) E AO CRITÉRIO DA EQUAÇÃO ECONÔMICO-FINANCEIRA (CF, ART. 201, V) – RECURSO EXTRAORDINÁRIO CONHECIDO E IMPROVIDO” (DJe de 26/11/20).
+    Ressalte-se que no referido paradigma de repercussão geral, conforme bem salientado pelo Relator, examinou-se “se é, ou não, constitucional exigir-se ao homem, para fins de outorga do benefício previdenciário da pensão por morte, a comprovação de invalidez e/ou de dependência econômica em relação à sua esposa ou companheira, sem que tais requisitos (ou quaisquer outros de caráter discriminatório) sejam igualmente exigíveis à mulher para essa mesma finalidade”.
+    No caso dos presentes autos, o Tribunal de origem concluiu pela improcedência do pedido autoral de inclusão do marido de servidora pública estadual como seu dependente para fins previdenciários, considerando que não foi demonstrado nos autos a dependência econômica, conforme previsto em lei local.
+    Entretanto, não consta do acórdão recorrido que o requisito exigido para inscrição do marido da autora como dependente também é extensível aos cônjuges do sexo feminino, sendo certo, igualmente, que a inscrição no instituto de previdência como dependente é requisito essencial para percepção dos vários benefícios previdenciários, incluindo a pensão por morte.
+    Assim, impõe-se a devolução do feito ao órgão prolator do acórdão atacado para eventual juízo de retratação, à luz da tese fixada no Tema 457 da repercussão geral.
+    Ante o exposto, nos termos do art. 328 do Regimento Interno do Supremo Tribunal Federal, determino a devolução dos autos à 1ª Câmara Cível do Tribunal de Justiça do Estado do Rio Grande do Sul para aplicação da sistemática da repercussão geral, nos termos dos incisos I a III do art. 1.030 do Código de Processo Civil.
+    Publique-se.
+    Brasília, 17 de setembro de 2021.
+Ministro DIAS TOFFOLI
+Relator
+Documento assinado digitalmente
