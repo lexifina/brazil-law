@@ -1,0 +1,23 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Luiz Ferreira da Silva
+GABINETE DO DES. LUIZ FERREIRA DA SILVA
+APELAÇÃO CRIMINAL (417)
+0008316-02.2015.8.11.0064
+APELANTE: NELSON REIS RIBEIRO
+APELADO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+Trata-se de recurso de apelação criminal interposto por Nelson Reis Ribeiro contra a sentença prolatada pelo Juízo da 3a Vara Criminal da Comarca de Rondonópolis-MT, nos autos da Ação Penal n. 0008316-02.2015.8.11.0064 (código 637471), que foi julgado nos termos do acórdão jungido no ID 92072980.
+Após o julgamento do referido recurso, o apelante opôs embargos de declaração, que foi desprovido, conforme decisão que se vê no ID 97223497. Em seguida, o recorrente interpôs recurso em sentido estrito ao Superior Tribunal de Justiça (ID 98315497), com fulcro no art. 581, IX, do Código de Processo Penal, alegando que “ A decisão primeva merece ser reformada, tendo em vista os autos não conterem provas da existência de autoria do Recorrente, senão vejamos: a) Em momento algum o Recorrente usou o documento falso para receber o seguro do DPVAT, sendo de inteira responsabilidade do segurado; b) O Recorrente não foi procurador para atuar no processo de DPVAT; c) Não houve recebimento do DPVAT; d) A Autoria não pode ser presumida e sim, provada nos autos, o que não ocorreu; e) Todas essas causas são extintivas a punibilidade, já prequestionadas na instância primeva. Destarte, requer que essa Colenda Corte conheça deste Recurso, dando provimento ao mesmo, absolvendo o Recorrente, por ser da mais... L Í D I M A J U S T I Ç A ! ! !”
+É o relatório. Decido.
+De início, faz-se imperioso salientar que considerando que a decisão recorrida se trata de um acórdão, já fica claro o descabimento do recurso em sentido estrito manejado, daí por que não se pode conhecê-lo, ante a manifesta desconformidade com as normativas processuais aplicáveis à espécie.
+Como se sabe, o recurso em sentido estrito se presta a impugnar decisão, despacho ou sentença, nos termos do art. 581, caput, do Código de Processo Penal, abrangendo tão somente decisões proferidas em primeira instância, excluindo, por óbvio, os acórdãos.
+Por outro viés, o presente recurso se fundamenta no inciso IX do art. 581 do Código de Processo Penal, relativo à prescrição ou outra causa extintiva da punibilidade. No entanto, nenhuma frase é relacionada nas razões recursais acerca dessa matéria, notadamente porque a alegada ausência de autoria delitiva não é causa de extinção de punibilidade, mas sim causa de inexistência de crime.
+Não bastasse isso, não há mínima possibilidade – mesmo à luz da ampla defesa – de converter o recurso em sentido estrito no recurso próprio por força do princípio da fungibilidade, e conferir-lhe o devido processamento, tendo em vista que estamos diante de um erro grosseiro. Isso, porque o recurso correto seria o especial, endereçado ao Superior Tribunal de Justiça, com especificidades e exigências não minimamente cumpridas. A própria hipótese de cabimento não atendida já obstaria o processamento como se recurso especial fosse, não permitindo a aplicação do art. 579, parágrafo único, do Código de Processo Penal.
+Confirmando esse entendimento, o Superior Tribunal de Justiça já deixou consignado que [...] 7. A necessidade de que não haja erro grosseiro e de que seja observado o prazo do recurso cabível, para aplicação do princípio da fungibilidade, não constitui "invenção jurisprudencial sem fundamento e desprovida de lógica jurídica", mas tem suas raízes no devido processo legal. Destarte, todos litigantes em um processo judicial têm o dever de observar as regras processuais, incluindo-se os recursos adequados e os respectivos prazos, cabendo ao Julgador zelar pelo seu cumprimento. [...] (REsp 1851323/MG, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 03/11/2020, DJe 20/11/2020)
+Logo, o que se tem, na espécie, é a interposição de recurso claramente inadmissível, afinal, não cabível contra acórdão; não preenchimento das disposições previstas no art. 581 do Código de Processo Penal – princípio da taxatividade –; bem como a impossibilidade da convalidação pela fungibilidade, de tal modo que se impõe o não conhecimento do presente recurso.
+Posto isso, não conheço do recurso em sentido estrito interposto por Nelson Reis Ribeiro; por conseguinte, determino que seja certificado o transcurso do prazo do recurso de apelação, devendo, em seguida, os presentes autos serem remetidos à primeira instância, para processamento da execução da pena, com as anotações e baixas de estilo.
+Intime-se e cumpra-se.
+Cuiabá/MT, 16 de setembro de 2021.
+Desembargador LUIZ FERREIRA DA SILVA
+Relator
