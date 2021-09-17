@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se dehabeas corpusimpetrado contra supostos atos atribuídos aos Governadores do Distrito Federal e dos Estados do Tocantinse de Goiás.
+Sustenta a impetrante que tem pretensão de participar de manifestações políticas pacíficas a partir de 7/9/2021 em Brasília e no local onde reside, a fim de fazer prevalecer "a cidadania política, no sentido de lisura na escolha dos representantes do povo e o impeachment/destituição dos Ministros do STF pelo Senado Federal, tudo baseado no poder que emana no povo" (fls. 2-3).
+Segue afirmando ser "público e notório que alguns Governadores pretendem inviabilizar/dificultar a livre manifestação das pessoas de bem, quando disseram que apoiarão o STF e colocarão a Polícia Militar contra as Forças Armadas, como se vê amplamente divulgado nas redes sociais" (fl. 3), bem como cita notícias que indicam a intenção hostil das autoridades coatoras.
+Requer aimpetrante que seja expedido salvo-conduto para impedir que as autoridades coatorasinfluam na sua livre manifestação política, com fixação de multa, caso haja descumprimento.
+Em verdade, não se vislumbra nenhuma evidência de que possa a impetrante ser presa, ou de ter restringida a sua liberdade de ir e vir no futuro quadro fático que compõe a sua narrativa, por conduta arbitrária e abusiva das (supostas) autoridades coatoras.
+Não há, portanto, razão fundada para falar-se com proveito na concessão de liminar para a expedição de salvo-conduto, conforme o seguinte precedente:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. CONDENAÇÃO A PENA PRIVATIVA DE LIBERDADE E MULTA. PROCESSO DE EXECUÇÃO EXTINTO EM FACE DO CUMPRIMENTO DA PRIMEIRA REPRIMENDA. PENDÊNCIA DO PAGAMENTO DA DÍVIDA DE VALOR. TESE DE PRESCRIÇÃO QUINQUENAL. INEXISTÊNCIA DE AMEAÇA A DIREITO DE LOCOMOÇÃO. DESCABIMENTO DO WRIT. PRETENSÃO CONTRÁRIA À JURISPRUDÊNCIA DESTA CORTE. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A ação de habeas corpus não se revela cabível quando não existe situação de ofensa, direta ou indireta, a direito de locomoção do paciente.
+2. No caso em que haja condenação a pena privativa de liberdade e multa, cumprida a primeira e extinto o processo de execução, sem possibilidade de repercussão no direito de ir e vir do sentenciado, não é possível utilizar o remédio constitucional para discutir eventual inércia da Fazenda Pública em cobrar a multa considerada dívida de valor.
+3. Não é possível alargar a hipótese de impetração do writ, principalmente quando o pedido de adoção do prazo quinquenal para a análise da prescrição da multa do direito penal vai de encontro à jurisprudência desta Corte Superior.
+4. Agravo regimental não provido (AgRg no HC 441.636/ES, Relator Ministro Rogério Schietti Cruz, Sexta Turma, DJe 21/8/2018).
+Além disso, a anunciada e futura conduta da impetrante, vindo a participar das anunciadas manifestações populares, depende inteiramente da sua livre iniciativa, sem nenhum contributo das autoridades apontadas como coatoras.
+Assim postosos fatos, e considerando que o conhecimento dohabeas corpuspressupõe prova pré-constituída do direito alegado (inferido do ato coator), incumbindo à parte demonstrar de maneira inequívoca a pretensão deduzida e a existência do evidente constrangimento ilegal em concreto, verifica-se, pela visão que o momento processual o permite, que a impetrante carece do interesse de agir.
+Ademais, verifica-se que, já tendo ocorrido as manifestações que a impetrante pretendia participar, a pretensão se encontra, atualmente, superada, contexto em queindefiro liminarmente ohabeas corpus.
+Publique-se.
+Intimem-se.
