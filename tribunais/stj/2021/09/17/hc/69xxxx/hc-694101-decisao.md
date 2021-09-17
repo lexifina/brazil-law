@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se dehabeas corpus,com pedido liminar, impetrado em favor deKelvin Thiago Santos de Jesus, apontando-se como autoridade coatora o Tribunal de Justiça de São Paulo (Apelação Criminal n.1514740-20.2019.8.26.0228).
+Narram os autos que o paciente foi condenado a 1 anoe 8 meses de reclusão, em regime inicial semiaberto, e 166 dias-multa, pela prática do crime de tráfico de drogas (26,1 g de maconha- fl. 46).
+Nestemandamus, a Defensoria Pública alega que o paciente é primário, não possui antecedentesnem integra organização criminosa, tanto que incidiu, no caso, acausa de diminuição de pena prevista no art. 33, § 4º, da Lei de Drogas. Contudo, continua a impetrante, embora a pena tenha sido fixada em 1 ano e 8 meses de reclusão, o Tribunal a quofixou o regime inicial semiaberto.
+Aduz que a gravidade abstrata do crime, por si só, não justifica a imposição de regime prisional mais gravoso do que a pena permite e, ainda, que a quantidade de droga apreendida é pequena.
+Requer, inclusive em liminar, a concessão da ordem a fim de que seja restabelecida a sentença condenatória que havia fixado o regime inicial aberto e substituído a pena privativa por duas restritivas de direitos.
+É o relatório.
+A ordem comporta concessão,in limine.
+Pretende a Defensoria Pública a aplicação de regime prisional semiabertoe a substituição da pena, conforme estabelecido na sentença.
+Ao afastar o regime prisional mais brando e a substituição da pena, disse o Tribunal de Justiça o seguinte (fl. 68 - grifo nosso):O regime fixado foi o aberto, tendo o Ministério Público recorrido, a fim que seja fixado o regime fechado para o início do cumprimento da pena. Porém, dada a quantidade de droga apreendida e sua natureza (43 porções de maconha), aliadas às demais circunstâncias do delito, dou parcial provimento ao recurso ministerial para fixar o regime semiaberto para o início do cumprimento da pena. O Ministério Público também se insurgiu quanto à substituição da pena fixada em primeiro grau, requerendo seu afastamento. Inviável a substituiçãoda pena. A quantidade da droga deveria ter sido utilizada na exasperação da pena base, visto que presente maior reprovabilidade, visto que nos termos do artigo 42 da Lei 11.343/06 deve ser considerada a naturezae quantidade da droga.  .. Logo, embora inviável alteração do quantum de pena pela ausência de recurso Ministerial nesse sentido, patente que o réu, com sua conduta demonstrou alta reprovabilidade e periculosidade, motivos pelos quais não faz jus à substituição da pena privativa de liberdade por restritiva de direitos, nos termos do artigo 44, III, do Código Penal(fls.47/48 - grifo nosso).
+Da leitura dotrecho acimaobserva-se que, quanto ao regime prisional, não obstante a fundamentação apresentada pelo Tribunal de Justiça (quantidadeda droga apreendida), a pena-base foi fixada no mínimo legal e o paciente não ostenta antecedentes criminais, assim, tendo em vista a pena final aplicada, a saber, 1anoe 8meses de reclusão, cabível a fixação do regime inicial aberto, nos termos do art. 33,§ 2º,c, do Código Penal.
+Pelos mesmos fundamentos, cabível também a substituição da pena privativa de liberdade por restritiva de direitos, nos termos em que especificados na sentença condenatória.
+Ante o exposto,concedo liminarmentea ordem a fim de restabelecer a sentença condenatória que aplicou o regime inicial semiaberto e substituiu a pena privativa de liberdade por duas restritivas de direitos, consistentes na prestação de serviços à comunidade e na limitação de fim de semana.
+Comunique-se com urgência.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS.TRÁFICO DE DROGAS. REGIME MAIS BRANDO.POSSIBILIDADE. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVADE DIREITOS.CABIMENTO.
+Ordem concedida liminarmente, nos termos do dispositivo.
