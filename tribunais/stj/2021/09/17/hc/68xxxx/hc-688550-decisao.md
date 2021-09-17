@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em favor de ALINE BATISTA DOS SANTOS e ANDRESSA TESTA SEGATO, apontando como autoridade coatora o eg. Tribunal de Justiça do Estado do Espírito Santo.
+Depreende-se dos autos que as pacientes foram presas em flagrante e tiveram as prisões convertidas em preventivas pela suposta prática do crime previstono art. 33, caput, da lei n. 11.343/2006.
+Narra a Defesa que: o Ministério Público apresentou"pedido de homologação deAcordo de Não Persecução Penal, a teor do novel artigo 28-A do CPP, argumentando que elas preenchem todos ospressupostos para tanto, além da necessidade de se reconhecer a causa de redução de pena prevista no §4º doartigo 33 da Lei ll.343/06, o que indicaria pena mínima inferior a 04 (quatro) anos, aliado, ainda, ao fato do crimenão ter sido cometido com violência ou grave ameaça a pessoa, além de serem primárias.Porém, o juízo de piso não homologou o acordo, entendendo que restou caracterizada ahabitualidade na conduta criminosa, além da grande quantidade de drogas apreendida, o que tornaria impossível ahomologação da ANPP proposta, pois nesse primeiro momento de cognição, não seria permitido desclassificar odelito para aquele previsto no §4º do artigo 33 da Lei 11.343/06.Assim, o Ministério Público interpôs Recurso em Sentido Estrito perante o TJES, requerendo adesignação de audiência para a propositura de homologação do acordo de não persecução penal, mas ao analisar orecurso, a C. 2ª Câmara Criminal negou provimento, mantendo a decisão de piso que negou a homologação doacordo de não persecução penal" (fl. 04).
+Daí o presente habeas corpus, no qual alega a defesa alegando que:"em razão do excesso de prazo, a prolongada prisãocautelar das pacientes se mostra como manifestamente ilegal, excessiva e desproporcional,importando em verdadeira antecipação do cumprimento de pena, devendo ser relaxada, o quetrará pronto restabelecimento ao estado de direito, sem prejuízo da aplicação de outrasmedidas cautelares diversas da prisão, na forma do art. 319 do CPP" (fl. 10).
+Pleiteia a revogação das prisões preventivas.
+Liminar indeferida às fls. 36-37.
+Informações prestadas às fls. 41-47, 49-61 e 62-65.
+O d. Ministério Público Federal manifestou, à fl. 69, pela Prejudicialidade do writ, em parecer assim ementado:
+"HABEAS CORPUS. PRISÃO PREVENTIVA. CONCESSÃODE LIBERDADE PROVISÓRIA. ALVARÁ DE SOLTURAEXPEDIDO. PERDA DO OBJETO" .
+É o relatório.
+Decido.
+Inicialmente, cumpre esclarecer que o Regimento Interno deste Superior Tribunal de Justiça,em seu art.34, inciso XX, permite ao relator"decidir ohabeas corpusquando for inadmissível, prejudicado ou quando a decisão impugnada se conformar com tese fixada em julgamento de recurso repetitivo ou de repercussão geral, a entendimento firmado em incidente de assunção de competência, a súmula do Superior Tribunal de Justiça ou do Supremo Tribunal Federal,a jurisprudência dominante acerca do temaou as confrontar".
+Não por outro motivo, a Corte Especial deste Superior Tribunal de Justiça, em 16/3/2016, editou a Súmula n. 568, segundo a qual "o relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema", aplicável à presente hipótese que trata dehabeas corpus substitutivo de recurso próprio.
+O pedido está prejudicado.
+Conforme informações do Juízo a quo as prisões preventivas foram revogadas "uma vez que esteMagistrado verificou o excesso de prazo, sem que houvesse sidooferecida denúncia ou a instrução do feito" (fl. 62).
+Nesse contexto, verifico que o presente writ perdeu o objeto, uma vez que já atendida a pretensão nele requerida.
+Ante o exposto,com fulcro no art. 34, inciso XX, do RISTJ,julgo o presente habeas corpus prejudicado.
+P. e I.
