@@ -1,0 +1,39 @@
+DECISÃO
+Vistos etc.
+Trata-se de recurso especial interposto por CAIXA ECONOMICA FEDERAL em face de acórdão do Tribunal Regional Federal da 5ª Região assim ementado:
+PROCESSUAL CIVIL. EMBARGOS DO DEVEDOR. AÇÃO REVISIONAL. LITISPENDÊNCIA. INEXISTÊNCIA. AUSÊNCIA DE CERTEZA. EXTINÇÃO DA EXECUÇÃO.
+1. Apelação interposta pela CEF em face de sentença que julgou procedentes os Embargos à Execuçãopara extinguir a execução de título extrajudicial, ao argumento de que os valores apontados ainda estavam "sub judice" em Ação Revisional, razão pela qual ainda não poderiam ser dotados da liquidez necessária à constituição do título executivo. Honorários advocatícios fixados em R$ 600,00 (seiscentos reais), ainda sob a égide do CPC/73.
+2. Os Apelados ajuizaram Ação Revisional dos contratos, inclusive do último, objeto da renegociação detodas as dívidas anteriores, julgado em 06/03/2015, cuja publicação da sentença ocorreu em 13/03/2015, e que se encontra em fase recursal.
+3. A Execução foi ajuizada em 18/03/2014 e, conforme a própria CEF sustenta, está fundada apenas noúltimo contrato, ou seja, o da renegociação dos anteriores. Embora fosse instruída com planilha devalores, pois ajuizada após o registro da inadimplência do devedor, os valores apontados ainda estavam sub judice na Ação Revisional, razão pela qual ainda não poderiam ser dotados da liquidez necessária àconstituição do título executivo.
+4. Não há que se falar em litispendência entre os embargos do devedor e a ação revisional, eis que esta última engloba outros contratos que não apenas o executado, que consubstancia renegociação de alguns deles.
+5. Não se cogita de carência de ação pelo fato de alguns contratos não serem executados, nem que aabusividade das cláusulas não seria empecilho para a execução, porque pende ação revisional, motivo pelo qual permanece a lógica de inexequibilidade dos mesmos ante a possibilidade de alteração dascláusulas pelo Poder Judiciário. S
+6. Apelação improvida. Sem honorários recursais, por ter sido a sentença prolatada sob a égide do CPC/73.
+Os embargos de declaração foram rejeitados.
+No recurso especial, a recorrente aponta, além de dissídio jurisprudencial, ofensa aos seguintes dispositivos: (a) art. 1.022 do CPC, alegando que o acórdão recorrido padece de omissões relevantes; e (b) art. 784, § 1º, do CPC, sustentando que a legislação é clara ao aduzir que qualquer ação relativa a débito constante em título executivo não impede o credor de promover a execução de tal título.
+Sem contrarrazões.
+É o relatório.
+Passo a decidir.
+O recurso especial merece prosperar.
+O enunciado normativo doart. 784, § 1º, do CPC/15, cuja redação é idêntica ao art. 585, § 1º, do CPC/73, expressamente determina que "apropositura de qualquer ação relativa ao débito constante do título executivo não inibe o credor de promover-lhe a execução".
+Em sede doutrinária,Daniel Amorim Assumpção Neves tece os seguintes comentários acerca do referido dispositivo:
+Nos termos do § 1º do art. 784 do CPC, mesmo que esteja em trâmite ação em que se discuta a obrigação contida em título executivo, aquele que se diz credor poderá normalmente promover a execução. Significa dizer que a pendência de processo em que se discute uma obrigação não é condição impeditiva do exercício do direito de ação executivo.
+Há, entretanto, uma exceção a essa regra: sendo concedida tutela de urgência no processo em que se discute a dívida quanto à inexigibilidade da obrigação, não será cabível a propositura da execução. Caso o pretenso credor insista na petição inicial deverá ser indeferida e o processo de execução extinto, ainda que existaposicionamento do Superior Tribunal de Justiça pela reunião dos processos, em razão de conexão e suspensão da execução.(Código de Processo Civil Comentado. 6ª ed. Salvador: Editora JusPodivm. 2021, p. 1333)
+No mesmo trilhar, o saudoso Ministro Teori Zavascki afirmava que "ademanda, proposta pelo devedor, para ver anulado o título executivo ou ver declarada a inexistência da relação jurídica de débito e crédito, ou para consignar a quantia ou a coisa, não guarda identidade com a ação de execução. São ações diferentes na causa de pedir e no pedido. Não há como estabelecer-se entre elas relação de litispendência. Uma não prejudica o ajuizamento da outra" (Comentários ao Código de Processo Civil. 1ª ed. em e-book. Vol. XII. São Paulo: RT. 2017).
+Sobre o tema, cito, ainda,os seguintes precedentes a título exemplificativo:
+PROCESSUAL CIVIL. AGRAVO INTERNO. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA DOS FUNDAMENTOS DA DECISÃO AGRAVADA. SÚMULA 182 DO STJ. NÃO CONHECIMENTO.(..)
+8. Não fosse suficiente, o art. 585, §1º, do CPC/1973 - vigente à época - declarava que "a propositura de qualquer ação relativa ao débito constante do título executivo não inibe o credor de promover-lhe a execução", quase a dizer, em outras palavras, que o credor deve diligenciar em prol do seu crédito ainda que o devedor protocole ação referente ao débito, pois a prescrição não deixa de correr contra si nesse caso.
+9. Agravo Interno não conhecido.(AgInt no REsp 1749594/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 05/09/2019, DJe 11/10/2019)
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. EMBARGOS À EXECUÇÃO. CÉDULA DE CRÉDITO BANCÁRIO. AUSÊNCIA DE PREQUESTIONAMENTO.TÍTULO EXECUTIVO. OBRIGAÇÃO LÍQUIDA E CERTA. JUROS REMUNERATÓRIOS.CAPITALIZAÇÃO DE JUROS. ENCARGOS MANTIDOS. MORA CARACTERIZADA.INSCRIÇÃO DO NOME DO DEVEDOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO.REPETIÇÃO SIMPLES DO INDÉBITO. EFEITO SUSPENSIVO. ART. 739-A, § 1º, DO CPC. AUSÊNCIA DOS REQUISITOS AUTORIZADORES. SÚMULA 7/STJ.SUSPENSÃO DA AÇÃO EXECUTIVA. DESCABIMENTO. AGRAVO NÃO PROVIDO.(..)
+12. "A propositura de qualquer ação relativa ao débito constante do título executivo não inibe o credor de promover-lhe a execução" (art. 585, § 1º, do CPC), tampouco acarreta a suspensão da ação executiva.
+13. Agravo regimental a que se nega provimento.(AgRg no AREsp 747.747/SP, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 05/11/2015, DJe 03/12/2015)
+RECURSO ESPECIAL. DIREITO CAMBIÁRIO E PROCESSUAL CIVIL. AÇÃO DE EXECUÇÃO. TÍTULO DE CRÉDITO. NOTA PROMISSÓRIA VINCULADA A CONTRATO DE COMPRA E VENDA. ENDOSSO. CIÊNCIA PELOS ENDOSSATÁRIOS DO VÍNCULO AO CONTRATO MATRIZ. EFEITOS. OPONIBILIDADE DAS EXCEÇÕES PESSOAIS PELO DEVEDOR CONTRA OS ENDOSSATÁRIOS. PRESERVAÇÃO DA EXECUTIVIDADE DO TÍTULO.(..)
+3. O processo de execução não é inibido pela propositura de qualquer ação relativa ao débito constante do título executivo. Aplicação do disposto no art. 585, §1º, do CPC. Pretensão declaratória de nulidade do título que, ademais, fora julgada improcedente em decisão definitiva no curso da execução.(..)
+8. RECURSO ESPECIAL DOS EXEQUENTES PROVIDO; RECURSO ESPECIAL DE IVENS FREITAG E OUTROS NÃO CONHECIDO E RECURSO ESPECIAL DE FRANCISCO AMAURY OLSEN PREJUDICADO.(REsp 1382609/SC, Rel. Ministro PAULO DE TARSO SANSEVERINO, TERCEIRA TURMA, julgado em 15/09/2015, DJe 23/09/2015)
+Assim, por contrariar texto expresso de lei, não merece subsistir o acórdão recorrido, devendo os autos retornarem ao juízo de 1º grau para que dê prosseguimento ao feito, salvo a concessão de eventual tutela de urgência suspendendo aexigibilidade da obrigaçãona demanda revisional.
+Nesse cenário, fica prejudicado o exame da apontada violação ao art. 1.022 do CPC.
+Diante do exposto, dou provimento ao recurso especial, nos termos da fundamentação.
+Advirto que a apresentação de incidentes protelatórios poderá dar azo àaplicação de multa.
+Intime-se.
+EMENTA
+RECURSO ESPECIAL. DIREITO CIVIL E PROCESSUAL CIVIL. EMBARGOS DO DEVEDOR OPOSTOS EM AÇÃO DE EXECUÇÃO DE TÍTULO EXECUTIVO EXTRAJUDICIAL. AÇÃO REVISIONAL DE CLÁUSULAS CONTRATUAIS BANCÁRIAS.PRESERVAÇÃO DA EXECUTIVIDADE DO TÍTULO. PERMISSÃO EXPRESSA PREVISTA NO ART. 784, § 1º DO CPC/15 (ART. 585, § 1º, DO CPC/73).
+RECURSO ESPECIAL PROVIDO.
