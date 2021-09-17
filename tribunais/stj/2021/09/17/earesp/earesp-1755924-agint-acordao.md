@@ -1,0 +1,84 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da CORTE ESPECIAL do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Nancy Andrighi, Laurita Vaz, João Otávio de Noronha, Maria Thereza de Assis Moura, Herman Benjamin, Jorge Mussi, Og Fernandes, Luis Felipe Salomão, Mauro Campbell Marques, Benedito Gonçalves, Paulo de Tarso Sanseverino e Maria Isabel Gallotti votaram com o Sr. Ministro Relator.
+Licenciado o Sr. Ministro Felix Fischer.
+Presidiu o julgamento o Sr. Ministro Humberto Martins.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. CONFIRMAÇÃO. AGRAVO DESPROVIDO.
+1. A Corte Especial, no julgamento dos EAREsp 324.073/SP, firmou orientação de que, a partir da vigência do CPC de 2015, deve ser mitigada a força da Súmula 315/STJ, porquanto a inovação prevista em seu art. 1.043, III, passou a autorizar os embargos de divergência quando, embora desprovido o agravo, a fundamentação do julgado passar pelo exame do mérito do recurso especial.
+2. No caso em exame, contudo, a questão de fundo discutida no apelo especial não foi analisada por este Tribunal, porque presente óbice formal ao conhecimento do recurso (Súmula 182/STJ), de maneira que é devida a incidência da Súmula 315/STJ.
+3. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+4. Esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados nos recursos de natureza especial, ainda que a violação a dispositivos infraconstitucionais surja no julgamento de recurso pelo Tribunal a quo ou que se trate de matéria de ordem pública.
+5. Agravo interno a que se nega provimento.
+RELATÓRIO
+O SENHOR MINISTRO RAUL ARAÚJO:
+Trata-se de agravo interno interposto por PLASC PLÁSTICOS SANTA CATARINA LTDA contra decisão, proferida no âmbito da Presidência desta Corte de Justiça, que indeferiu liminarmente embargos de divergência, por entender aplicável a Súmula 315/STJ.
+Em suas razões recursais, a ora embargante alega que devem ser afastadas as Súmulas 182 e 315/STJ e afirma que "a r. decisão agravada precisa ser revista porque os embargos de divergência dizem respeito a uma questão de ordem pública que precede o recurso especial e lhe é prejudicial, que é a nulidade absoluta do acórdão recorrido na origem  o acórdão que julgou a apelação , dado que, quando esse acórdão foi prolatado, a parte contrária não tinha mais existência jurídica, haja vista que tinha sido extinta, definitivamente, dois anos antes, sem que qualquer sucessor tivesse requerido habilitação nos autos (e-STJ fls. 1.187 a 1.190, e 1.224 a 1.231)".
+Aduz, para tanto, que: (I) "o v. acórdão paradigma decidiu que a ausência de legitimidade de parte configura vício "transrescisório", em relação ao qual não ocorre preclusão e pode ser conhecido de ofício. O v. acórdão embargado, por seu turno, decidiu em sentido oposto, na medida em que se negou a analisar o vício apontado, fundando-se no argumento de que o recurso especial não tinha sido admitido"; (II) "no caso presente, o recurso especial não fora admitido na origem. Interposto o devido agravo no REsp, este não foi admitido por decisão monocrática do Presidente deste egrégio Tribunal porque não teria atacado todos os fundamentos da decisão agravada, o que atrairia a incidência da Súmula/STJ 182. Em face a essa decisão, foi interposto agravo interno, no qual se apontou o vício que maculava os autos  ausência de legitimidade da parte, dado que a pessoa jurídica autora da ação tinha sido extinta, definitivamente, antes do julgamento da apelação  e se pediu que fosse conhecido de ofício esse vício, tal como determina o art. 485 do CPC. A egrégia Turma julgadora, contudo, se negou a conhecê-lo, pelas razões acima expostas. É nisso que reside a irresignação recursal: se a lei estabelece que, antes de analisar o mérito de ação ou de recurso, qualquer que seja o recurso, deve o órgão julgador analisar, primeiro, inclusive de ofício, a questão da legitimidade da parte, torna-se incongruente com o ordenamento jurídico a decisão que se nega a conhecer da existência desse vício desse tipo, fundando-se no argumento de que não poderia conhecê-lo porque o recurso não fora admitido. É manifesta a divergência entre os acórdãos recorrido e paradigma, além da flagrante violação ao disposto no art. 485 do CPC", bem como ao art. 5º, XXXV, da Constituição Federal.
+Requer, ao final, "o processamento do presente agravo na forma regimental, e, caso não haja retratação, seja levado a julgamento pelo órgão Colegiado competente, onde espera seja provido para acolher os embargos de divergência e conhecer, de ofício, do recurso especial para declarar a inexistência de todos os atos praticados nestes autos, a partir de 08.11.2016, data da extinção definitiva da pessoa jurídica JORGE GUARNIER REPRESENTAÇÕES LTDA, bem como determinar o retorno dos autos ao Tribunal de Justiça de São Paulo para que promova o recomeço válido do processo, "a partir do estágio em que se encontrava no dia" 08.11.2016".
+Devidamente intimada, a parte agravada apresentou impugnação.
+Na sequência, foram os autos distribuídos a este Relator.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. DECISÃO QUE INDEFERIU LIMINARMENTE OS EMBARGOS. CONFIRMAÇÃO. AGRAVO DESPROVIDO.
+1. A Corte Especial, no julgamento dos EAREsp 324.073/SP, firmou orientação de que, a partir da vigência do CPC de 2015, deve ser mitigada a força da Súmula 315/STJ, porquanto a inovação prevista em seu art. 1.043, III, passou a autorizar os embargos de divergência quando, embora desprovido o agravo, a fundamentação do julgado passar pelo exame do mérito do recurso especial.
+2. No caso em exame, contudo, a questão de fundo discutida no apelo especial não foi analisada por este Tribunal, porque presente óbice formal ao conhecimento do recurso (Súmula 182/STJ), de maneira que é devida a incidência da Súmula 315/STJ.
+3. Não fica caracterizado o dissídio jurisprudencial, apto a ensejar o cabimento dos embargos de divergência, quando os acórdãos embargado e paradigmas não possuírem entre si similitude fático-jurídica.
+4. Esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados nos recursos de natureza especial, ainda que a violação a dispositivos infraconstitucionais surja no julgamento de recurso pelo Tribunal a quo ou que se trate de matéria de ordem pública.
+5. Agravo interno a que se nega provimento.
+AgInt nos EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL Nº 1.755.924 - SP (2020/0231450-2)
+RELATOR
+:
+MINISTRO RAUL ARAÚJO
+AGRAVANTE
+:
+PLASC PLÁSTICOS SANTA CATARINA LTDA
+ADVOGADOS
+:
+LEONARDO ANTÔNIO DE SANCHES - DF011980
+FABIANO RAMALHO - SC013159
+JOSÉ LEOVEGILDO OLIVEIRA MORAIS - DF016484
+ALFREDO LINZMEYER NETO - SC046967
+AGRAVADO
+:
+JORGE GUARNIER REPRESENTACOES LTDA
+ADVOGADA
+:
+ELISANGELA MACHADO ROVITO - SP261898
+VOTO
+O SENHOR MINISTRO RAUL ARAÚJO (Relator):
+De início, a respeito da interpretação a ser dada à Súmula 315/STJ após o advento do Novo Código de Processo Civil, esta colenda Corte Especial, no julgamento dos EAREsp 324.073/SP, firmou orientação de que, a partir da vigência do CPC de 2015, deve ser mitigada a força do referido enunciado sumular, porquanto a inovação prevista em seu art. 1.043, III, passou a autorizar os embargos de divergência quando, embora desprovido o agravo, a fundamentação do julgado apreciar o mérito do recurso especial.
+Eis o teor da ementa do referido acórdão:
+PROCESSUAL CIVIL. EMBARGOS DE DIVERGÊNCIA. AGRAVO EM RECURSO ESPECIAL E AGRAVO REGIMENTAL DESPROVIDOS. QUESTÃO CONTROVERTIDA EXAMINADA NO ACÓRDÃO EMBARGADO. CABIMENTO DOS EMBARGOS INTERPOSTOS SOB A ÉGIDE DO NOVO CPC. AFASTAMENTO DA SÚMULA N. 315/STJ. ASSISTÊNCIA JUDICIÁRIA. REQUERIMENTO NO CORPO DA PETIÇÃO RECURSAL. POSSIBILIDADE. NOVO ENTENDIMENTO DA CORTE ESPECIAL.
+1. O Código de Processo Civil de 2015, no inciso III do art. 1.043, positivou o entendimento do STJ de que são admissíveis os embargos de divergência interpostos no domínio do agravo de instrumento/agravo em recurso especial desprovidos, quando a fundamentação do julgado passar pelo exame do mérito do apelo trancado na origem, mitigando, assim, a incidência da Súmula n. 315/STJ.
+2. A circunstância de o dispositivo prever como embargável apenas "acórdão prolatado em recurso especial" deve ser creditada ao fato de que o novo CPC havia extinto o duplo juízo de admissibilidade do recurso especial, o qual foi restabelecido, antes mesmo da entrada em vigor da novel legislação processual, pela Lei n. 13.256/2016, sem que, todavia, tenha-se readequado a dicção do art. 1.043.
+3. O requerimento do benefício de gratuidade da justiça pode ser deduzido na própria petição recursal. Nova exegese do art. 6º da Lei n. 1.060/1950 (AgRg nos EREsp n. 1.222.355/MG).
+4. Embargos de divergência conhecidos e providos.
+(EAREsp 624.073/SP, Rel. Ministro JOÃO OTÁVIO DE NORONHA, CORTE ESPECIAL, julgado em 05/04/2017, DJe de 09/05/2017)
+No caso dos autos, o v. acórdão embargado confirmou monocrática que não conhecera do agravo, tendo em vista a ausência de impugnação dos fundamentos da decisão que não admitiu o recurso especial na origem, concluindo pela incidência da Súmula 182/STJ. Portanto, não houve exame, no aresto embargado, do mérito do recurso especial, tampouco da alegada questão de ordem pública de ausência de legitimidade da parte, em razão de a pessoa jurídica autora da ação ter sido extinta definitivamente, antes do julgamento da apelação.
+Nesse contexto, as questões alegadas no apelo especial e a matéria de ordem pública suscitada não foram julgadas por este Tribunal, porque presente óbice formal ao conhecimento do agravo em recurso especial, de maneira que não há matéria federal, seja de direito material ou de direito processual, a ser uniformizada no âmbito desta Corte Superior, nos termos exigidos pelos arts. 1.043, I e II, e § 2º, do CPC de 2015 e 266, caput, e § 2º, do RISTJ.
+Nessa toada, é importante ressaltar que o art. 1.043, I e II, do CPC/2015, ao disciplinar as hipóteses de cabimento dos embargos de divergência, parte da premissa de que tanto o acórdão embargado quanto o paradigma tiveram o mérito do recurso especial analisado. Segundo o § 2º do referido dispositivo legal, o mérito dos embargos de divergência decorre da aplicação do direito material ou processual contido na tese do recurso especial.
+Não se pode, em regra, extrair dessa previsão normativa interpretação autorizativa para se utilizar o recurso uniformizador como instrumento de reexame dos requisitos de admissibilidade do recurso especial, tal como ocorre na hipótese em apreço, em que a ora agravante pretende rever a conclusão do v. acórdão embargado de aplicação da Súmula 182/STJ.
+Com efeito, "a possibilidade de oposição de embargos de divergência contra acórdão que discuta requisito de admissibilidade de recurso especial não é viabilizada pelo §2º do art. 1.043 do CPC/2015. Isso porque a redação do art. 1.043, §2º do CPC/2015 ("A divergência que autoriza a interposição de embargos de divergência pode verificar-se na aplicação do direito material ou do direito processual.") refere-se à possibilidade do cabimento de embargos de divergência contra acórdão que, ao julgar recurso especial, tenha apreciado controvérsia que consista na aplicação do direito material ou do direito processual. Tal não autoriza a conclusão, entretanto, de que seria possível a oposição de embargos de divergência contra acórdão que não conheceu de recurso especial em virtude da ausência de requisito de admissibilidade" (AgRg nos EAREsp 15.211/PR, Rel. Ministro OG FERNANDES, CORTE ESPECIAL, julgado em 03/06/2020, DJe de 18/06/2020).
+Correta, pois, a decisão ora agravada, ao indeferir liminarmente os embargos de divergência, com aplicação da Súmula 315 do STJ: "Não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial."
+Ademais, não se pode perder de vista que também não se configura a indispensável similitude entre os acórdãos confrontados, pois, como visto, o aresto embargado entendeu pela incidência, na hipótese, da Súmula 182/STJ, impondo esse óbice ao conhecimento do agravo em recurso especial, enquanto os paradigmas decidiram a respeito do mérito suscitado pela parte ora agravante de que a extinção da pessoa jurídica enseja sua ilegitimidade para continuar figurando no feito.
+Portanto, as questões jurídicas trazidas nos acórdãos embargado e paradigmas são diversas, não havendo o indispensável dissenso a respeito da solução da questão processual controvertida. Assim, os paradigmas apresentados não são passíveis de caracterizar a divergência jurisprudencial suscitada pela parte embargante.
+A jurisprudência deste Tribunal Superior já pacificou entendimento de que somente "são cabíveis os Embargos de Divergência quando os arestos trazidos à colação firmaram posição antagônica sobre os mesmos fatos e questões jurídicas deduzidos no acórdão embargado. Ao contrário, devem ser indeferidos os embargos quando, considerando as peculiaridades de cada caso concreto, foram dadas soluções diferentes para as hipóteses confrontadas" (EREsp 443.095/SC, Segunda Seção, Rel. Min. CASTRO FILHO, DJ de 2/2/2004).
+Por fim, esta Corte de Justiça consagra orientação no sentido da necessidade de prequestionamento dos temas ventilados nos recursos de natureza especial, ainda que a violação a dispositivos infraconstitucionais surja no julgamento de recurso pelo Tribunal a quo ou que se trate de matéria de ordem pública.
+A propósito:
+AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. INDEFERIMENTO LIMINAR DOS EMBARGOS DE DIVERGÊNCIA.MATÉRIA DE ORDEM PÚBLICA. PREQUESTIONAMENTO. NECESSIDADE. INCIDÊNCIA DA SÚMULA 168/STJ.
+I -A jurisprudência do Superior Tribunal de Justiça se firmou no sentido de que que na instância especial, a apreciação de ofício de matéria, mesmo de ordem pública, não dispensa o requisito do prequestionamento.
+II - Incidência, in casu, da súmula 168/STJ, que preconiza não caber "embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Agravo interno desprovido.
+(AgInt nos EAREsp 1.327.393/MA, Rel. Ministro FELIX FISCHER,CORTE ESPECIAL, julgado em 16/12/2020, DJe de 18/12/2020)
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. QUESTÃO DE ORDEM PÚBLICA.NECESSIDADE DE PREQUESTIONAMENTO. ACÓRDÃO EMBARGADO EM CONFORMIDADE COM A JURISPRUDÊNCIA CONSOLIDADA DO STJ. PRECEDENTES DE TODAS AS TURMAS. SÚMULA 168/STJ.
+1. Eventual despacho inicial que admita os embargos de divergência não impede que o relator venha a indeferi-los após melhor análise detida do feito, reconhecendo a ausência de elementos conducentes à demonstração da divergência jurisprudencial. Precedentes.
+2.Cinge-se a controvérsia dos autos a saber se é necessária ou não a existência de prequestionamento de matéria de ordem pública.
+3.O acórdão embargado adotou jurisprudência consolidada do Superior Tribunal de Justiça, no sentido de que mesmo as matérias de ordem pública necessitam estar devidamente prequestionadas para ensejar o conhecimento do recurso especial.
+4. Precedentes: EREsp 805.804/ES, Rel. Min. João Otávio de Noronha, Corte Especial, julgado em 3/6/2015, DJe 1º/7/2015; AgRg no REsp 582.776/AL, Rel. Min. Mauro Campbell Marques, Primeira Seção, julgado em 9/8/2017, DJe 19/12/2017; EDcl no REsp 1.575.709/SP, Rel.Min. Sérgio Kukina, Primeira Turma, julgado em 24/4/2018, DJe 4/5/2018; AgInt nos EDcl no AREsp 1.083.512/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, julgado em 17/5/2018, DJe 24/5/2018; AgInt no AREsp 1.247.832/PI, Rel. Min. Marco Aurélio Bellizze, Terceira Turma, julgado em 15/5/2018, DJe 24/5/2018; AgRg no REsp 1.384.229/MG, Rel. Min. Antonio Carlos Ferreira, Quarta Turma, julgado em 17/5/2018, DJe 25/5/2018; EDcl nos EREsp 784.
+146/AP, Rel. Min. JORGE MUSSI, Terceira Seção, julgado em 8/4/2015, DJe 30/4/2015; AgRg no AgRg no AREsp 995.410/RJ, Rel. Min. Joel Ilan Paciornik, Quinta Turma, julgado em 24/4/2018, DJe 11/5/2018; AgRg no REsp 1.546.132/SC, Rel. Min. Nefi Cordeiro, Sexta Turma, julgado em 22/3/2018, DJe 3/4/2018.
+5.Incide, portanto, a Súmula 168 do STJ:"Não cabem embargos de divergência, quando a jurisprudência do Tribunal se firmou no mesmo sentido do acórdão embargado".
+Embargos de divergência não conhecidos.
+(EREsp 991.176/DF, Rel. Ministro HUMBERTO MARTINS,CORTE ESPECIAL, julgado em 14/03/2019, DJe de 10/04/2019)
+Diante do exposto, nega-se provimento ao agravo interno.
+É como voto.
