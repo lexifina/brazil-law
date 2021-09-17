@@ -1,0 +1,35 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Benedito Gonçalves, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. SEQUESTRO DE VERBA PÚBLICA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+RELATÓRIO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Trata-se de agravo interno interposto peloMunicípio de Belford Roxodesafiando decisão da Presidência do Superior Tribunal de Justiça,que conheceu do agravo para não conhecer do recurso especial, sob os fundamentos de que: (I) incide a Súmula 284/STF, tendo em vista que não foi demonstrada, com precisão, aofensa aos arts. 489 e 1059 do CPC ; (II) os arts. 55 e 56 do CPC não foram objeto de prequestionamento, atraindo o óbice da Súmula 211/STJ; (III)em recurso especial, não cabe invocar ofensa a dispositivos da Constituição Federal; (IV) aplica-se, por analogia, o óbice da Súmula 735/STF, pois se mostra inviável a interposição de recurso especial que tenha por objeto o reexame de deferimento ou indeferimento de medida acautelatória ou antecipatória; e (V)aplica-se a Súmula 7/STJ, na medida em que o tema relacionado à aplicação de multa ao Chefe do Executivo demanda a revisão de matéria fático-probatória.
+Inconformada, a parte agravante, em suas razões, sustenta que: (I) foi devidamente demonstrada a ofensa aos arts. 489 e 1059 do CPC; (II) deve ser afastada a Súmula 211/STJ, porquanto foi apontada omissão em relação aos arts. 55 e 56 do CPC; (III)"em relação a terceira e quarta controvérsias (artigo 100 da CRFB e 167, II, VII e X, da CF/88 e 22 da LINDB) o que se observa é que o que caracterização das violações informadas restou inobservado o que normatiza o artigo 300 do CPC" (fl. 294); e (V) não há pretensão de reexame de fatos e de provas.
+Requer a reconsideração do decisum, ou a submissão do feito ao julgamento colegiado.
+A parte agravada não apresentou impugnação (fl. 304).
+É o relatório.
+EMENTA
+ADMINISTRATIVO E PROCESSUAL CIVIL. SEQUESTRO DE VERBA PÚBLICA. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AUSÊNCIA DE IMPUGNAÇÃO DO FUNDAMENTO DA DECISÃO AGRAVADA. INCIDÊNCIA DA SÚMULA 182/STJ.
+1. É inviável a apreciação do agravo interno que deixa de atacar, especificamente e de forma particularizada, o fundamento da decisão agravada. Incidência, na espécie, da Súmula 182/STJ.
+2. Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+3. Caso concreto em que a parte agravante não atendeu a esse encargo processual.
+4. Agravo interno não conhecido.
+VOTO
+O EXMO. SR. MINISTRO SÉRGIO KUKINA (Relator): Em que peseaos argumentos deduzidos, o presente agravo interno não comporta conhecimento.
+De acordo com o art. 1.021, § 1º, do CPC/2015, constitui ônus da parte agravante impugnar especificamente os fundamentos da decisão combatida, isto é, deve deixar evidente o desacerto do decisum, com a consequente desconstituição das razões de decidir adotadas no julgamento singular.
+Nessa esteira, a Corte Especial do STJ, na assentada de 19/9/2018, consolidou o entendimento de que incumbe ao agravante infirmar, especificamente, a totalidade do conteúdo da decisão agravada, sob pena de incidir o óbice contido na Súmula 182/STJ ("É inviável o agravo do art. 545 do CPC que deixa de atacar especificamente os fundamentos da decisão recorrida."). Dessarte, não se admite a impugnação parcial do julgado (EAREsp 701.404/SC eEAREsp 831.326/SP, Relator Ministro Luis Felipe Salomão, DJe de 30/11/2018).
+Convém ressaltar que a Primeira Turma desta Corte compreendeu que incumbe ao agravante se insurgir contra todos os capítulos específicos e autônomos da decisão agravada, admitindo-se o agravo interno parcial nas hipóteses em que há manifestação expressa de que sua irresignação se volta somente contra parcela do julgado e de que haveria concordância com o restante (AgInt no REsp 1.518.882/SC, Rel. Ministro Sérgio Kukina, DJe 21/02/2019; AgInt no REsp 1.695.426/RS, Rel. Ministra Regina Helena Costa, DJe 21/9/2018; e AgInt no AREsp 1.163.354/RJ, Rel. Ministro Gurgel de Faria, REPDJe 4/10/2018).
+Acerca dessa exigência, JOSÉ ANTONIO SAVARIS e FLÁVIA DA SILVA XAVIER, com precisão, assinalam que "não se pode considerar efetivamente impugnada a decisão quando a parte recorrente limita-se a deduzir razões pelas quais entende deter o direito reivindicado, mas deixa de destinar qualquer argumento que demonstre o desacerto da decisão recorrida" (Manual dos recursos nos juizados especiais federais. 5. ed. Curitiba: Alteridade, 2015, p. 50).
+Pois bem, nas razões do agravo interno em exame, a parte ora agravante nãoimpugnou, de modo específico,o fundamento segundo o qual, em recurso especial, não se viabiliza a alegação de ofensa a dispositivo da Constituição Federal, bem como o deincidência da Súmula 735/STF.
+No caso, constou do agravo interno a seguinte alegação (fl. 294):
+Já em relação a terceira e quarta controvérsias (artigo 100 da CRFB e 167, II, VII e X, da CF/88 e 22 da LINDB) o que se observa é que o que caracterização das violações informadas restou inobservado o que normatiza o artigo 300 do CPC, sendo este o critério para a análise da categoria infraconstitucional da norma, afastando a questão de norma federal para fins recursais.
+Contudo, tais alegações não se prestam ao desiderato pretendido, porquanto não se refutou a impossibilidade de apontar ofensa a dispositivo da Constituição Federal, nem de reexaminar critérios para o deferimento ou indeferimento de provimentos concernentes à tutela provisória.
+Nesse contexto, incide a Súmula 182/STJ.
+ANTE O EXPOSTO, não conheço do agravo interno.
+É como voto.
