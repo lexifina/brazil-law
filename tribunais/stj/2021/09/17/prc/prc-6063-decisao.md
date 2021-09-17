@@ -1,0 +1,3 @@
+DECISÃO
+Considerando a notícia de disponibilidade financeira (fl. 23) ea informação de que "não houve pedido de decote/abatimento dos honorários sucumbenciais nos autos principais" e que "a petição de fls. 7/9 refere-se à ExeMS 6318/DF e não à execução que deu origem aos valores requisitados" (fl. 24), torno sem efeito a decisão de fls. 13-14 para determinar que o pagamento deste precatório seja realizado sem marcação de bloqueio,mediante abertura de conta remunerada em nome do(s) beneficiário(s) em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento (art. 12 daInstrução Normativa STJ/GP n. 3/2014).
+Publique-se. Intimem-se.
