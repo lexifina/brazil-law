@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido de liminar, impetradoem face de acórdão assim ementado (fl. 30):
+EMENTA - HABEAS CORPUS - TRÁFICO DE DROGAS, - REQUISITOS DA PRISÃO PREVENTIVA PRESENTES - EXPRESSIVA QUANTIDADE E NATUREZA DO ENTORPECENTE - 6,400 KG DE SKUNK - DROGA ENCONTRADA EM COMPARTIMENTOS OCULTOS, VULGO "MOCÓS" - FUNDAMENTO IDÔNEO - PREDICADOS PESSOAIS - IRRELEVÂNCIA - ORDEM DENEGADA.
+Presentes os requisitos da prisão preventiva, de rigor a manutenção da prisão cautelar.
+Circunstâncias pessoais favoráveis e primariedade não tem o condão de, por si só, garantir a revogação da prisão preventiva, quando existem elementos concretos nos autos indicando a necessidade da medida constritiva
+Consta nos autos que o paciente, Maxsuel Oliveira de Souza,foi preso em flagrante em 29/7/2021, pela prática, em tese, do crime previsto noart. 33, caput, daLei n. 11.343/2006, sendo o flagrante convertido em prisão preventiva em 30/7/2021.
+A impetrante assevera que estão ausentes os requisitos da prisão preventiva. Assevera que o paciente agiu apenas como condutor do veículo, uma vez que o corréu Damião Ribeiro estava sem CNH, não tendo conhecimento do ilícito e da "carga" transportada. Afirma que o paciente é primário, tem bons antecedentes e residência fixa.
+Requer, liminarmente, a concessão do habeas corpus, com o relaxamento/revogação da prisão preventiva e, no mérito, a sua confirmação.
+A liminar foi indeferida (fls. 38-40).
+As informações foram prestadas (fls. 45-51).
+O Ministério Público Federal manifestou-se pela concessão da ordem (fls. 54-65).
+Na origem, nos autos n.0001332-64.2021.8.12.0031, da 1ª Vara da Comarca de Caarapó - MS, em 2/8/2021, foi oferecida a denúncia e, em 19/8/2021 e 20/8/2021 juntadas as Defesas Prévias, conforme informações processuais eletrônicas disponíveis no site do Tribunal de origem, em 14/9/2021.
+Do decreto preventivo, transcrito no aresto impugnado, extrai-se (fl. 32):
+ ..  Em análise aos documentos constantes dos autos, vê-se que os flagrados foram surpreendidos em poder de droga ilícita com elevado poder devastador, conhecida como skunk, a qual vieram buscar nesta região de fronteira seca com o Paraguai, inserida na rota do tráfico de drogas, e visavam transportar para outra localidade, de maneira organizada, inclusive em compartimentos ocultos no veículo. Além disso, não comprovaram possuir endereço certo ou ocupação lícita, sendo de se presumir que se dedicam a atividade criminosa e que, uma vez soltos, poderão tomar rumo ignorado.
+Nesse contexto, e estando presentes provas da ocorrência de fato que permite a segregação cautelar (CPP, art. 313, I), além de existentes indícios suficientes da autoria, reputo como indispensável para a garantia da ordem pública e aplicação da lei penal a decretação da prisão preventiva dos flagrados (CPP, art. 312).
+Por óbvio, inaplicáveis ao caso as medidas cautelares diversas da prisão, descritas no art. 319, do CPP (§6º, art. 282, do CPP).
+Posto isto, homologo o flagrante e, com fulcro nos artigos 310, II, e 311, do CPP, converto a prisão em flagrante de Damião Ribeiro e Maxsuel Oliveira de Souza em preventiva.
+Desde já, nos termos do artigo 50, §3º, da Lei 11.343/06, determino "a destruição da droga apreendida, guardando-se amostra necessária à realização do laudo definitivo" e contraprova.
+Conforme adiantado no exame liminar, consta do decreto prisional fundamentação idônea baseada na gravidade em concreto da conduta, evidenciada na qualidade/quantidade dos entorpecentes encontrada em poder do paciente (6,4 kg de skunk).
+Consoante consta no Auto de Prisão em Flagrante, o paciente foi surpreendido por uma equipe de policiais rodoviários federais enquanto transportava, em diversos compartimentos do veículo FIAT PALIO, cor azul, placas CQX2B79, 14 tabletes envoltos a fita adesiva, que pesaram 6,4 kg, de substância análoga à maconha, conhecida como skunk, que seria destinada a outro estado da federação (fl. 15).
+Pacífico é o entendimento nesta Corte Superior de que, embora não sirvam fundamentos genéricos (do dano social gerado por tráfico, crime hediondo, ou da necessidade de resposta judicial) para a prisão, podem a periculosidade e riscos sociais justificar a custódia cautelar no caso de tráfico, assim se compreendendo a especialmente gravosa natureza ou quantidade da droga. Nesse sentido: HC n. 291125/BA - 5ª T. - unânime - Rel. Min. Laurita Vaz - DJe 3/6/2014; AgRg no RHC n. 45009/MS - 6ª T. - unânime - Rel. Min. Rogério Schietti Cruz - DJe 27/5/2014; HC n. 287055/SP - 5ª T. - unânime - Rel. Min. Moura Ribeiro - DJe 23/5/2014; RHC n. 42935/MG - 6ª T. - unânime - Rel. Min. Sebastião Reis Júnior - DJe 28/5/2014.
+Vale destacar que, "Concretamente demonstrada pelas instâncias ordinárias a necessidade da prisão preventiva, não se afigura suficiente a fixação de medidas cautelares alternativas" (AgRg no HC 573.598/SC, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 23/06/2020, DJe 30/06/2020).
+Ante o exposto, denego o habeas corpus.
+Publique-se.
+Intimem-se.
