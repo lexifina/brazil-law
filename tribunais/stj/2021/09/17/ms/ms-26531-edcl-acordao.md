@@ -1,0 +1,77 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA SEÇÃO do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Herman Benjamin, Og Fernandes, Mauro Campbell Marques, Benedito Gonçalves, Assusete Magalhães, Regina Helena Costa e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Sérgio Kukina.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso interposto.
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Trata-se de embargos de declaração opostos pela UNIÃO contra acórdão da Primeira Seção, de que fui relator assim ementado (e-STJ fls. 444/445):
+ADMINISTRATIVO. ANISTIA POLÍTICA. CABOS DA AERONÁUTICA. ANULAÇÃO. DEVIDO PROCESSO LEGAL. VIOLAÇÃO. NOTIFICAÇÃO. NULIDADE. CERCEAMENTO DE DEFESA. PROVA. AUSÊNCIA.
+1. A Primeira Seção do STJ, realinhando seu posicionamento, entendeu que é nulo o ato notificatório inicialmente encaminhado ao anistiado político - que o informa sobre a abertura de processo administrativo de revisão de sua anistia -, quando não há a especificação dos fatos e dos fundamentos contra os quais deveria a parte interessada se defender (art. 26, § 1º, VI, da Lei n. 9.784/1999).
+2. O entendimento externado pelo STF nos autos do RE 817.338 DF, sob regime de repercussão geral, faculta à Administração a revisão dos atos concessivos de anistia política a cabos da Aeronáutica, sendo certo, porém, que ao exercício desse direito foram impostos limites de índole constitucional, cuja inobservância acarreta a nulidade do procedimento de revisão.
+3. Hipótese em que o ato notificatório inicial não atendeu aos ditames próprios dos arts. 26 e 27 da Lei n. 9.784/1999, já que esses comandos disciplinam não só a forma mas também o conteúdo da comunicação, de modo que sua fiel observância não se aperfeiçoa sem a necessária, precisa e clara "indicação dos fatos e fundamentos legais pertinentes", nos termos do art. 26, § 1º, VI, da Lei do Processo Administrativo.
+4. Não havendo elementos comprobatórios nos autos de negativa por parte da Administração de produção de provas, não há que se acolher a tese de cerceamento de defesa.
+5. Mandado de segurança concedido para anular a Notificação n. 327/2020, bem como todos os atos posteriores, inclusive a Portaria n. 1.314, de 5 de junho de 2020.
+A parte embargante sustenta omissão no julgado, porquanto a notificação enviada ao agravado não teve caráter genérico, uma vez que trouxe na motivação o julgamento proferido no RE 817.338, bem como que, no aludido julgado, restou claro que (e-STJ fls. 463/464):
+ ..  os cabos licenciados em razão exclusivamente do implemento do tempo legal de serviço militar, nos termos da Portaria nº 1.104 - GM3/64, "não foram vítimas de punição, demissão, afastamento de suas atividades profissionais por atos de motivação política".
+E, assim, em vista da inconstitucionalidade das anistias que têm por único fundamento a Portaria nº 1.104/1964, atestou-se que o poder-dever de autotutela autoriza a Administração a proceder à revisão da condição de anistiado político, ainda que transcorrido o prazo decadencial previsto no art. 54 da Lei 9.784/99, não havendo que se falar em desrespeito ao princípio da segurança jurídica ou a direito líquido e certo.
+Demais disso, também restou explicitado, por meio do constante no Informativo nº 956 do STF 5 , que "a Portaria 1.104/1964, por si, não constitui ato de exceção, sendo necessária a comprovação, caso a caso, da ocorrência de motivação político-ideológica para o ato de exclusão das Forças Armadas e consequente concessão de anistia política. Portanto, o ato administrativo que declarou o recorrido anistiado político não é passível de convalidação pelo tempo, dada a sua manifesta inconstitucionalidade, uma vez que viola frontalmente o art. 8º do ADCT".
+Aduz que "a notificação encaminhada ao impetrante é resultado da decisão da administração pública que, com base no exercício do poder-dever de autotutela, consoante inclusive se verifica dos enunciados das Súmulas 346 e 473 do Supremo Tribunal Federal, instaurou processo de revisão da concessão de anistia a ex-Cabos da Aeronáutica que tiveram a concessão de anistia baseada, exclusivamente, na Portaria n. 1.104/1964" (e-STJ fls 465/466).
+Alega que o aresto combatido foi omisso ao não considerar que a Portaria n. 3.076/2019 "demonstrou expressamente que sua expedição se deu com o intuito de determinar a realização de procedimento de revisão das anistias concedidas com fundamento na Portaria n. 1.104/GM-3/1964, para averiguação do cumprimento dos requisitos legais e constitucionais para a concessão de anistia, tendo em vista o disposto no art. 10 da Lei n. 10.559, de 13 de novembro de 2002, e a decisão proferida pelo Supremo Tribunal Federal no julgamento do Recurso Extraordinário 817.338 com repercussão geral, na Sessão Plenária de 16 de outubro de 2019" (e-STJ fls. 466/467).
+Defende o não cabimento do writ que demande incursão probatório, uma vez que não houve a comprovação do prejuízo sofrido.
+Por fim, destaca que, ao contrário do afirmado pela parte impetrante, não houve proibição de produção de provas, mas apenas indeferimento de pedidos de provas considerados impertinentes, desnecessários ou protelatórias para o objeto do processo.
+Impugnação (e-STJ fls. 484/489).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. REQUISITOS. NÃO OCORRÊNCIA.
+1. Os embargos de declaração, nos termos do art. 1.022 do CPC/2015, têm ensejo quando há obscuridade, contradição, omissão ou erro material no julgado.
+2. Hipótese em que não há no acórdão nenhuma situação que dê amparo ao recurso interposto.
+3. Embargos de declaração rejeitados.
+VOTO
+O EXMO. SR. MINISTRO GURGEL DE FARIA (Relator):
+Os embargos de declaração têm por escopo sanar decisão judicial eivada de obscuridade, contradição, omissão ou erro material (art. 1.022-CPC/2015), vícios esses inexistentes na espécie.
+Com efeito, o acórdão atacado registrou expressamente que: (a) embora o impetrante alegue na inicial a violação do devido processo legal, não foram juntados aos autos pedido efetivo de produção de provas, negativa da administração ao aludido pleito nem parecer final do MMFDH concluindo pela anulação da concessão da anistia política do impetrante; e (b) o ato notificatório encaminhado à parte impetrante - e-STJ fl. 34 - não atendeu o disposto no art. 26, § 1º, VI, da Lei n. 9.784/1999, sendo certo que ficou comprometido o exercício do contraditório, da ampla defesa e do devido processo legal.
+Para alcançar essa conclusão, o voto condutor expôs a fundamentação, in verbis (e-STJ fls. 447/449):
+Inicialmente, registro que, com todas as vênias, divirjo do entendimento defendido pelo eminente relator, no tocante à fluência do prazo decadencial.
+Conforme já firmado por esta Seção (Primeira Seção), em julgamentos anteriores, o Supremo Tribunal Federal, no julgamento da Repercussão Geral no RE 817.338/DF RE, já se posicionou no sentido de não reconhecer a ocorrência da decadência.
+Cumpre frisar que o impetrante, anistiado político, busca a anulação da Portaria n. 1.314, de 5 de junho de 2020, e o restabelecimento da portaria concessiva de sua anistia - Portaria n. 2.299, de 17 de dezembro de 2002 - com todos os direitos e garantias daí decorrentes, tendo em vista as seguintes nulidades ocorridas durante o processo administrativo de revisão:
+a) a notificação que lhe foi enviada foi extremamente vaga e genérica;
+b) o ônus da prova é da administração pública, sendo certo que ela nada provou, a fim de anular a anistia anteriormente concedida;
+c) não foi obedecido o devido processo legal, tendo em vista que foi a ele negado o pedido de depoimento pessoal e oitiva de testemunhas (e-STJ fl. 7).
+Inicialmente, registro que a revisão das anistias no caso em exame se refere, exclusivamente, àquelas concedidas aos Cabos da Aeronáutica com fundamento na Portaria n. 1.104, editada pelo Ministro de Estado da Aeronáutica, em 12 de outubro de 1964.
+Passo à análise do argumento de cerceamento de defesa, tendo em vista a negativa do pleito de produção de novas provas.
+Em sede de mandado de segurança, é indispensável que a prova do direito seja pré-constituída, sendo inviável a dilação probatória. Nesse sentido:
+RECURSO ORDINÁRIO. MANDADO DE SEGURANÇA. REMUNERAÇÃO DE SERVIDORES MILITARES. ABONO. DECADÊNCIA DO DIREITO.
+IMPUGNAÇÃO A LEI EM TESE. AUSÊNCIA DE DIREITO LÍQUIDO E CERTO.
+1. Na origem, trata-se de Mandado de Segurança impetrado contra pretenso ato coator cometido pelo Governador e Secretário de Estado de Mato Grosso do Sul, consistente na edição de leis que concederam reajuste inflacionário equivocado.
+2. Vale salientar que o Tribunal local reconheceu corretamente a decadência do direito dos recorrentes impetrarem Mandado de Segurança, uma vez que ficou comprovado que o prazo de 120 dias ficou superado.
+3. Não existem dúvidas, como afirmou o ilustre representante do Parquet, de que "De outro lado, apesar dos argumentos dos recorrentes, verifica-se que não se trata de relação de trato sucessivo, uma vez que o ato coator é a própria lei, e não o pagamento mensal da remuneração. Em nenhum momento, alegou-se erro da administração no cálculo dos percentuais de aumento na remuneração dos recorrentes".
+4. Ademais, incide sobre a espécie o óbice contido na Súmula 266 do STF: "Não cabe mandado de segurança contra lei em tese". Isso porque Mandado de Segurança contra lei em tese é todo aquele que tenha por objeto ato normativo abstratamente considerado ou, conforme já se manifestou a Suprema Corte, "..quando a impetração nada indica, em concreto, como representativo de ameaça de lesão à esfera jurídica do impetrante".
+5. É pacífico o entendimento de que o Mandado de Segurança detém entre seus requisitos a demonstração inequívoca de direito líquido e certo pela parte impetrante, por meio da chamada prova pré-constituída, inexistindo espaço para dilação probatória na célere via do mandamus.
+6. Recurso Ordinário não provido. (RMS 58.175/MS, Relator Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe 11/03/2019).
+PROCESSUAL CIVIL. AGRAVO REGIMENTAL. MANDADO DE SEGURANÇA.
+DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE DE EXAME. CONCURSO PÚBLICO. APROVAÇÃO FORA DAS VAGAS PREVISTAS NO EDITAL.
+INEXISTÊNCIA DE DIREITO LÍQUIDO E CERTO À NOMEAÇÃO.
+1. O mandado de segurança supõe direito líquido e certo, entendido como aquele emergente da prova pré-constituída no processo, sendo imprestável para dirimir litígio que exija dilação probatória.
+2. Aprovado o candidato fora do número de vagas previsto no edital do concurso público, não há falar em direito de nomeação para o cargo a que concorreu em relação a eventuais vagas que surgirem no prazo de validade do certame, por se tratar de ato discricionário da Administração Pública. Precedentes do STJ.
+3. Agravo regimental desprovido. (AgRg no RMS 48.579/MS, Rel. Min. OLINDO MENEZES - Convocado, PRIMEIRA TURMA, DJe 04/02/2016).
+Na presente hipótese, embora o impetrante alegue na inicial a violação do devido processo legal, não foram juntados aos autos pedido efetivo de produção de provas, negativa da administração ao aludido pleito nem parecer final do MMFDH concluindo pela anulação da concessão da anistia política do impetrante.
+Impende consignar que na defesa administrativa não constam os aludidos pleitos (e-STJ fls. 35/59).
+Assim, nesse ponto, inexistindo provas da alegada ofensa ao devido processo legal e não sendo a via mandamental apta à dilação probatória, impõe-se a rejeição da alegada nulidade.
+Pois bem.
+Quanto à tese defendida pela parte impetrante de que a notificação enviada a ela foi extremamente vaga e genérica, a Primeira Seção do STJ, nos julgamentos dos Mandados de Segurança 26.323/DF, 26.393/DF, 26.439/DF, 26.577/DF e 26.553/DF, todos de relatoria do Ministro Sérgio Kukina - realizados no dia 14/04/2021 -, realinhando seu posicionamento, entendeu, por maioria, que é nulo o ato notificatório inicialmente encaminhado ao anistiado político - que o informa sobre a abertura de processo administrativo de revisão de sua anistia -, porquanto não há a especificação dos fatos e dos fundamentos contra os quais deveria a parte interessada se defender (art. 26, § 1º, VI, da Lei n. 9.784/1999).
+Registrou o eminente relator que não há dúvida de que o entendimento externado pelo STF nos autos do RE 817.338 DF, sob regime de repercussão geral, faculta à Administração a revisão dos atos concessivos de anistia política a cabos da Aeronáutica. Nada obstante, é igualmente certo que ao exercício desse direito foram impostos limites de índole constitucional, cuja inobservância acarreta a nulidade do procedimento de revisão.
+Na aludida assentada, firmou-se, ainda, que:
+a) o ato notificatório inicial não atendeu aos ditames próprios dos arts. 26 e 27 da Lei n. 9.784/1999. Isso porque esses comandos disciplinam não só a forma mas também o conteúdo da comunicação. Daí que sua fiel observância não se aperfeiçoa sem a necessária, precisa e clara "indicação dos fatos e fundamentos legais pertinentes", como emana do art. 26, § 1º, VI, da LPA;
+b) a notificação limitou-se a informar "a realização de procedimento de revisão da anistia", sem explicitar, para além da referência genérica à Portaria n. 3.076, os fatos e fundamentos legais que lastreariam tal revisão;
+c) não foi informado ao anistiado político de que imputações deveria efetivamente se defender, sendo certo que da leitura do teor da intimação impugnada extrai-se apenas a "notícia" da instauração da revisão da anistia do autor, com alusão genérica à Portaria n. 3.076, a qual, por sua vez, vem apoiada apenas na referência, também genérica, à decisão proferida pelo STF no Tema 839, cujo enunciado cingiu-se a permitir a revisão, pelo Poder Executivo, de anistias concedidas a cabos da Aeronáutica com fundamento na Portaria n. 1.104/1964;
+d) a notificação endereçada ao anistiado não especificou, conforme o legalmente exigido (art. 26, § 1º, VI, da Lei n. 9.784/1999), os fatos e fundamentos de que deveria o impetrante se defender, ante a possibilidade de perder sua condição de anistiado político, daí resultando inequívoco vício de forma.
+Na presente hipótese, verifica-se que o ato notificatório encaminhado à parte impetrante - e-STJ fl. 34 - não atendeu o disposto no art. 26, § 1º, VI, da Lei n. 9.784/1999, sendo certo que ficou comprometido o exercício do contraditório, da ampla defesa e do devido processo legal.
+Ponderados esses elementos, constato que a insurgência da embargante não diz respeito à eventual deficiência de fundamentação do julgado, mas à interpretação que lhe foi desfavorável, sendo de caráter meramente infringente e, por isso, de inviável acolhimento no âmbito restrito dos embargos de declaração.
+Sopesando a boa-fé objetiva, não considero esses primeiros aclaratórios como flagrantemente procrastinatórios, motivo pelo qual deixo de aplicar a multa processual correspondente.
+Ante o exposto, REJEITO os embargos de declaração.
+É como voto.
