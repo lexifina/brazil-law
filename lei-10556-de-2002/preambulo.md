@@ -1,0 +1,2 @@
+Dispõe sobre a inclusão dos cargos que especifica no Plano de Classificação de Cargos, instituído pela Lei nº 5.645, de 10 de dezembro de 1970, altera as Leis nº 10.486, de 4 de julho de 2002, e 5.662, de 21 de junho de 1971, e dá outras providências.
+Faço saber que o PRESIDENTE DA REPÚBLICA adotou a Medida Provisória nº 56, de 2002, que o Congresso Nacional aprovou, e eu, Ramez Tebet, Presidente da Mesa do Congresso Nacional, para os efeitos do disposto no art. 62 da Constituição Federal, com a redação dada pela Emenda constitucional nº 32, de 2001, promulgo a seguinte Lei:
