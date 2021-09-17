@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de habeas corpus impetrado contra decisão que deferiu parcialmente o pedido liminar na origem.
+A paciente foi presa preventivamente pela prática dos crimes de associação criminosa e estelionato majorado.
+Sustenta o impetrante ausência dos requisitos autorizadores da custódia cautelar, ressaltando as condições pessoais favoráveis da paciente.Salienta que ela é mãe de criança menor de 12 anos e única responsável pelos cuidados desta.
+Relata que foi requerida junto à primeira instância a substituição da prisão preventiva por prisão domiciliar, o que foi indeferido.
+Extrai-se dos autos que foi impetradowritna origem (de número 2204192-26.2021.8.26.0000), a liminar foi parcialmente concedida para a concessão da prisão domiciliar à paciente.
+No presentemandamussustenta que "que até apresente sequer houve deliberação da autoridade coatora em relação ao pedido liminar, mesmo em se tratando de ré presa com filho menor de 12 anos" (fl. 4).
+Requer, liminarmente, que se determine à autoridade coatora que profira decisão nos habeas corpus2198959-48.2021.8.26.0000 e 2204192-26.2021.8.26.0000, no prazo de 24 horas. No mérito, a substituição da cautelar mais gravosa por medidas diversas.
+De início, nota-se que o pedido de prisão domiciliar da paciente foi deferido, em sede de liminar, em decisão monocrática,noshabeas corpusn.2204192-26.2021.8.26.0000 (fls. 121-123), sendo certo que ambos os pedidos, para que o Tribunal de origem se manifeste, bem como o referente à conversão da prisão preventiva em domiciliar não serão conhecidos, por ausência de interesse de agir.
+Também de se notar que não há nos autos qualquer referência à impetração dehabeas corpusde n.2198959-48.2021.8.26.0000, as alegações e pedidos que a este se referirem, também não serão conhecidos.
+Posto isso, nos termos da Súmula 691 do Supremo Tribunal Federal, em regra, não se admite a impetração de habeas corpus contra decisão que indefere a liminar na origem, sob pena de indevida supressão de instância, ressalvadas as hipóteses em que evidenciada decisão teratológica ou desprovida de fundamentação.
+A decisão que deferiu parcialmente a liminar nowrit foi fundamentada nos seguintes termos (fls. 121-122):
+ .. .Defiro, em parte, o pedido liminar de Habeas-Corpus.
+Primeiramente, insta destacar a gravidade em concreto das condutas pelas quais a paciente está sendo investigada, uma vez que, supostamente, se associou com outros indivíduos para o fim específico de cometer crimes, bem como concorreu para a prática de crime de estelionato contra idoso, de modo que não se mostra socialmenterecomendável a concessão de liberdade provisória ou a aplicação de medidas cautelares alternativas.
+Por outro lado, tendo em vista a recente alteração do Código de Processo Penal trazida pela Lei 13.769/2018, a qual acrescentou os arts. 318-A e 318-B a este diploma legal, assegurando a prisão domiciliar para gestantes e/ou mulheres que possuam filhos menores de 12 anos de idade em casos de crimes cometidos sem violência ou grave ameaça ou que não sejam cometidos contra o próprio filho ou dependente, a paciente faz jus à benesse por preencher os requisitos legais.
+No presente caso, a paciente é mãe do menor N. F. A. do N., que tem menos de 12 anos de idade (fls. 07/08 e 10).
+Por tais razões, cumprindo a novel legislação, defiro parcialmente o pedido liminar de Habeas Corpus, para determinar a substituição da prisão preventiva por prisão domiciliar, conforme requerido. .. .
+Conforme se observa, tendo sido deferida a prisãodomiciliar, a questão a respeito da ilegalidade dos fundamentos da custódia preventiva fica superada, diante da existência de novotítulo judicial.
+Ademais, não se verifica manifesta ilegalidade na concessão de prisão domiciliar na hipótese de mãe de menor de anos de idade nos arts. 318-A e 318-B do CPP, pois em consonância com a jurisprudência desta Corte Superior, segundo a qual "O art. 318-A, do Código de Processo Penal, com a redação dada pela Lei n. 13.769, de 19/12/2018, dispõe que a prisão preventiva imposta à mulher gestante ou que for mãe ou responsável por crianças ou pessoas com deficiência será substituída por prisão domiciliar, desde que: I) não tenha cometido crime com violência ou grave ameaça a pessoa e que II) não tenha cometido o crime contra seu filho ou dependente" (HC 623.992/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 20/04/2021, DJe 30/04/2021).
+Observa-se, portanto, que não há falar em manifesta ilegalidade na decisão que deferiu a prisão domiciliar ao paciente, ou teratologia, não sendo o caso de mitigação da Súmula 691/STF.
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se.
+Intimem-se.
