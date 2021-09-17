@@ -1,0 +1,21 @@
+DECISÃO
+Embargos de declaração em habeas corpus opostos por RICARDO MACHADO TRINDADE contra decisão de minha relatoria de fls. 190/194.
+O embargante defende que há omissão a ser suprida pelos presentes embargos. Afirma que não houve manifestação acerca da preliminar de nulidade da decisão de primeiro grau consubstanciada em cerceamento de defesa, "pois os requerimentos formulados pela defesa, doc. 15 e 16 destes autos, não foram atendidos a fins de instruir o feito, requerimentos estes que se faziam pertinentes, uma vez que apontam a propriedade e uso de aparelhos de celulares ao Recorrente".
+Requer o provimento dos presentes embargos, para reconhecer haver omissão no julgado, com a consequente concessão do writ a fim de sanar a nulidade.
+É o relatório.
+Decido.
+Os embargos de declaração são cabíveis quando houver ambiguidade, obscuridade, contradição ou omissão, nos termos do art. 619 do Código de Processo Penal.
+No caso concreto, ao revés do alegado pelo embargante, não há que se falar em omissão no julgado.
+Observa-se que o embargante pretende, em verdade, a modificação do provimento anterior, com a rediscussão da questão, o que não se coaduna com a medida integrativa.
+Com efeito, adotou-se como fundamento precípuo e suficiente no decisum embargado, a fim de negar conhecimento ao writ.Reitera-se que, no caso,as decisões proferidas pelas instâncias deram-secom alicerce em elementosde prova aptos a justificar o reconhecimento da prática da falta grave pelo ora embargante/paciente.
+Aapreciação das alegações a respeito da insuficiência de provas e da possibilidade de absolvição do reeducando demandaria, necessariamente, o reexame de todo conjunto fático-probatório presente nos autos, o que, como é cediço, não é admitido na via estreita do mandamus.
+Confiram-se:AgRg no HC 662.139/SP, Rel. Ministro OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO), SEXTA TURMA, DJe 18/06/2021 eAgRg no HC 530.988/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 24/09/2019, DJe 30/09/2019, este ultimo assim ementado:
+"PROCESSUAL PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. FALTAS GRAVES. ATIPICIDADE DAS CONDUTAS. REVOLVIMENTO FÁTICO-PROBATÓRIO. DESOBEDIÊNCIA E TENTATIVA DE INGRESSO DE APARELHO TELEFÔNICO NA UNIDADE PRISIONAL. ART. 49, PARÁGRAFO ÚNICO, DA LEP.TENTATIVA PUNIDA COM SANÇÃO DA FALTA CORRESPONDENTE. PERÍCIA.DESNECESSIDADE. PERDA DE 1/3 DOS DIAS REMIDOS. ART. 57 DA LEP.DECISÃO FUNDAMENTADA. AGRAVO DESPROVIDO.
+1. A pretendida absolvição das faltas graves (desobediência e tentativa de ingresso de aparelho telefônico na unidade prisional), aos argumentos de atipicidade e de que se tratariam de conduta praticada por terceiro, são questões que demandam aprofundada análise do conjunto probatório produzido em juízo, providência vedada na via estreita do remédio constitucional. Precedentes.
+2. Segundo se depreende do art. 49, parágrafo único, da LEP, a tentativa é punida com a sanção correspondente à consumação da falta disciplinar de natureza grave, e, conforme julgados do Superior Tribunal de Justiça, não se exige perícia no aparelho celular apreendido, para configuração da falta grave.
+3. A jurisprudência desta Corte Superior é firme no sentido de que a perda de até 1/3 dos dias remidos, em razão da prática de falta grave, exige fundamentação concreta, consoante determina a própria legislação de regência, segundo a qual devem ser observadas as diretrizes elencadas no art. 57 da LEP (a saber: "a natureza, os motivos, as circunstâncias e as conseqüências do fato, bem como a pessoa do faltoso e seu tempo de prisão").
+4. Na hipótese dos autos, a perda de 1/3 dos dias remidos se deu de forma fundamentada, haja vista que o agravante praticou três faltas graves, sendo, portanto, a decisão corolário da individualização da execução da pena.
+5. Agravo regimental desprovido."
+Destaque-se, ainda, que "a pretensão de rediscutir matéria devidamente abordada e decidida no decisum embargado, consubstanciada na mera insatisfação com o resultado da demanda, é incabível na via dos aclaratórios." (EDcl no AgInt na CR 11.165/EX, Rel. Ministra LAURITA VAZ, CORTE ESPECIAL, julgado em 6/12/2017, DJe 9/2/2018)." (EDcl no AgRg no REsp 1.683.591/PI, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, DJe 02/04/2018).
+Ante o exposto, rejeito os presentes embargos de declaração.
+Publique-se.
