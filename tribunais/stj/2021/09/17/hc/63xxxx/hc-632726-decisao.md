@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em favor de CARLOS ALBERTO BALDINI DA SILVA, em que aponta como autoridade coatora o Tribunal Regional Federal da 4ª Região, que negou provimento à apelação defensiva, nos processos n. 5010524-40.2015.4.04.7002, 5001091-54.2017.4.04.7217, 5001837-24.2014.4.04.7127 e 5004632-40.2017.4.04.7210.
+Neste writ, o impetrante afirma que a soma das penas impostas de todas as condenações resultou no total de 6 (seis) anos, 10 (dez) meses e 29 (vinte e nove) dias de reclusão, conforme sentença de unificação das penas da Execução Penal n. 5000920-50.2018.4.04.7002/PR.
+Relata que, devido aos efeitos da condenação, houve a inabilitação do direito de dirigir durante o período de 7/2/2020 a 27/1/2024. Contudo, o paciente necessita da Carteira Nacional de Habilitação, por estar exercendo o cargo de motorista entregador em Capão Alegre/RS e na região metropolitana de Porto Alegre desde 5/1/2020.
+Indica, pois, constrangimento ilegal na penalidade imposta, pois causaram prejuízo ao sentenciado. Defende que a manutenção do impedimento de dirigir ofende os direitos constitucionais do livre exercício do trabalho, da vida e da dignidade da pessoa humana, impossibilitando a sua ressocialização.
+Requer, liminarmente, a suspensão da penalidade de inabilitação do direto de dirigir, com a retirada das restrições da CNH do paciente. Pugna pela concessão da ordem, a fim de que seja revogada em definitivo a penalidade, substituindo-a pela proibição do paciente de frequentar o Paraguai ou cidades de fronteira, enquanto durar a pena. Pede, ainda, o prequestionamento dos dispositivos constitucionais.
+Indeferida a liminar (e-STJ, fl. 108) e prestadas as informações (e-STJ, fls. 114-119), os autos foram encaminhados ao Ministério Público Federal, que opinou pelo não conhecimento do habeas corpus ou, se conhecido, pela ausência de ilegalidade a permitir a concessão da ordem (e-STJ, fls. 124-128).
+É o relatório.
+Decido.
+É cediço que o procedimento do habeas corpus é sumário, logo sua instrução deve permitir, de plano e minimamente, a compreensão do constrangimento ilegal apontado, motivo pelo qual a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+Na hipótese, verifica-se não ter sido o feito instruído com a cópia integral do acórdão impugnado, peça essencial à análise do pleito defensivo.
+Nesse sentido:
+"PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. MANDAMUS INDEFERIDO LIMINARMENTE. INSTRUÇÃO DEFICIENTE. AUSÊNCIA DE JUNTADA DO ACÓRDÃO DA APELAÇÃO. AGRAVO DESPROVIDO.
+I - Não é possível analisar a viabilidade do pleito deduzido, na medida em que os autos foram mal instruídos, sem a juntada do respectivo acórdão da apelação, documento indispensável ao exame da quaestio no presente caso, conforme exteriorizado na decisão agravada à e-STJ fl. 97.
+II - Segundo orientação firmada no âmbito desta Corte, é ônus do impetrante instruir devidamente os autos, sob pena de não conhecimento do habeas corpus.
+Agravo regimental desprovido." (AgRg no HC 677.910/SP, Rel. Ministro JESUÍNO RISSATO - DESEMBARGADOR CONVOCADO DO TJDFT -, QUINTA TURMA, julgado em 17/08/2021, DJe 24/08/2021).
+"PENAL. AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. INSTRUÇÃO DEFICIENTE DO FEITO. ÓBICE AO EXAME DAS ALEGAÇÕES DEFENSIVAS. AGRAVO DESPROVIDO.
+1.  ..
+2. O procedimento do habeas corpus é sumário, logo sua instrução deve permitir, de plano e minimamente, a compreensão do constrangimento ilegal apontado, motivo pelo qual a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado.
+3. Na hipótese, verifica-se não ter sido o feito instruído com cópia do acórdão proferido no julgamento da apelação defensiva, peça essencial à análise do pleito defensivo.  ..
+4. A supracitada peça faltante não foi apresentada mesmo após a oposição dos presentes aclaratórios e do agravo regimental, o que obstaria, por si só, a reconsideração do decisum indeferitório do habeas corpus.
+5. Tratando-se de decreto condenatório transitado em julgado, resta superada a alegação de ilegalidade da custódia preventiva à qual o paciente fora submetido.
+6. Agravo regimental desprovido." (AgRg nos EDcl no HC 354.327/SP, deste Relator, QUINTA TURMA, julgado em 12/05/2020, DJe 18/05/2020).
+"PROCESSUAL PENAL. EMBARGOS DE DECLARAÇÃO NO HABEAS CORPUS. HOMICÍDIO DUPLAMENTE QUALIFICADO. SENTENÇA DE PRONÚNCIA. PRISÃO PREVENTIVA MANTIDA. PLEITO DE PRISÃO DOMICILIAR PARA CUIDAR DE MENOR DE 12 ANOS. INSTRUÇÃO DEFICIENTE. OMISSÃO RECONHECIDA SEM ALTERAR O JULGADO.
+1. Nos termos do art. 619 do Código de Processo Penal, o recurso de embargos de declaração destina-se a suprir omissão, afastar ambiguidade, esclarecer obscuridade ou eliminar contradição existentes no julgado.
+2. Na hipótese, de fato, houve omissão quanto à possibilidade de concessão da prisão domiciliar com fulcro no art. 318, V, do CPP, já que a defesa formulou tal pedido na petição inicial. Não obstante, tem-se que a tese não foi debatida pelo Tribunal de origem no acórdão acostado aos autos por reiteração de pedido reconhecida no próprio voto (e-STJ fl. 24), e o referido acórdão que tratou do tema ora embargado não foi juntado a esta impetração.
+3. Ressalte-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a defesa demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao embargante. Assim, diante da ausência do acórdão que tratou do tema ora embargado, torna-se impossível a analisar do pedido.
+4. Embargos acolhidos, sem alteração do julgado." (EDcl no HC 633.984/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 01/06/2021, DJe 07/06/2021).
+Ante o exposto, indefiro liminarmente o habeas corpus, nos termos do art. 210 do RISTJ.
+Publique-se. Intimem-se.
