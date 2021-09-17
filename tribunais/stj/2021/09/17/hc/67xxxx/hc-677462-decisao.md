@@ -1,0 +1,36 @@
+DECISÃO
+Trata-se de habeas corpussem pedido de liminar impetrado em favor de RAFAEL MARIANO NERI DA CRUZ, contra ato do Tribunal de Justiça do Estado de São Paulo (Agravo em Execução Penal n. 9000299-23.2018.8.26.0637) em acórdão assim ementado (fl. 10):
+AGRAVO EM EXECUÇÃO. COMUTAÇÃO DE PENAS. DECRETO PRESIDENCIAL Nº 9.246/17. LIMITAÇÃO IMPOSTA PELO ART. 7º, PARÁGRAFO ÚNICO. RECURSO DESPROVIDO.1. O artigo 7º, parágrafo único, do Decreto Presidencial nº 9.246/17 veda expressamente o deferimento de comutação aos sentenciados que tiveram a pena comutada com base em decretos anteriores. 2. No caso, o agravante já foi beneficiado com comutação anterior, conforme consignado na respeitável decisão recorrida e boletim informativo juntado aos autos, inviabilizando nova comutação com fundamento no Decreto Presidencial nº 9.246/17. 3. Agravo defensivo desprovido.
+Na origem, o paciente teve indeferidoo benefício da comutação de penascom base no Decreto Presidencial n. 9.246/2017, ao argumento de que o paciente já havia sido beneficiado anteriormente. Essadecisão foi mantida pelo Tribunal a quo.
+Defende que a interpretação adotadanão encontra respaldo na melhor hermenêutica jurídico-penal, já que se deve aplicaro princípio da interpretação mais favorável ao condenado e possibilitar acomutação do decreto de 2017, ainda que o apenado já tenha sido beneficiado anteriormente, prevalecendo, assim, a interpretação defensiva de norma ampliativa de direitoe não a restritiva.
+Requer a concessão da ordem de habeas corpus para que o paciente possa ter reconhecido o direito de comutação de pena com base no Decreto Presidencial n. 9.246/2017.
+O Ministério Público Federal opinou pelonão conhecimento do writ (fls. 44-55).
+É o relatório. Decido.
+Ainda que inadequada a impetração de habeas corpus em substituição à revisão criminal ou ao recurso constitucional próprio, diante do disposto no art. 654, § 2º, do Código de Processo Penal, o STJ considera passível de correção de ofício o flagrante constrangimento ilegal.
+A análise para a concessão de indulto ou comutação de penas limita-se aos parâmetros estabelecidos no respectivo decreto, de competência privativa do Chefe do Poder Executivo, não comportando deferimento ou indeferimento de benefícios em hipóteses não previstas ou excluídas.
+O Decreto Presidencial em que se baseia o pedido de comutação das penasdispõe que "a comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior" (art. 7º, parágrafo único, destaquei).
+O Juízo da execução indeferiu o benefícioao paciente pois "foi beneficiado com a comutação de penas prevista no Decreto Presidencial nº 8.380/2014  .. " (fl. 14).
+O Tribunal de origem deu provimento ao recurso ministerial, adotando os seguintes fundamentos (fls. 12-13, destaquei ):
+Como visto, o parágrafo único do artigo 7º do aludido Decreto Presidencial, ao contrário do sustentado pela douta Defesa, criou nova regra para a concessão da comutação de pena, limitando-a.
+E, no caso dos autos, o sentenciado já teve suas penas comutadas com base no Decreto Presidencial nº 8.380/14 (fl. 6), de sorte que não faz jus à nova comutação com base no Decreto Presidencial nº 9.246/17, consoante vedação expressa contida em seu artigo 7º, parágrafo único.
+Nesse sentido, aliás, já se manifestou o Colendo Superior Tribunal de Justiça:
+ ..
+Por tais razões, mostra-se correta a respeitável decisão recorrida, que indeferiu o pedido do agravante para ter comutada suas penas com base no Decreto Presidencial nº 9.246/17, ante a vedação contida expressamente em seu artigo 7º, parágrafo único
+Ante o exposto, pelo meu voto, NEGO PROVIMENTO AO AGRAVO.
+A decisão se coaduna com a jurisprudência do Superior Tribunal de Justiça firmada no sentido de que a previsão do art. 7º, parágrafo único, do Decreto n. 9.246/2017expressamente limita o deferimento da comutação a quem não tenha anteriormente recebido o benefício.
+Nessa linha, confiram-se os seguintes julgados:
+AGRAVO REGIMENTAL. EXECUÇÃO PENAL. COMUTAÇÃO DE PENAS. DECRETO PRESIDENCIAL N. 9.246/2017. ATO DE INDULGÊNCIA DO PRESIDENTE DA REPÚBLICA. ÓBICE IMPOSTO NO DIPLOMA LEGAL. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Na hipótese, é vedada expressamente a concessão da benesse, visto que, consoante disposto no parágrafo único do artigo 7º do referido decreto presidencial, " a  comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior".
+2. Agravo regimental não provido. (AgRg no HC n. 605.583/PR, relator Ministro Rogerio Schietti Cruz, Sexta Turma, DJe de 30/9/2020.)
+AGRAVO REGIMENTAL EM HABEAS CORPUS. EXECUÇÃO PENAL. COMUTAÇÃO DE PENA. DECRETO N. 9.246/2017. INDEFERIMENTO PELAS INSTÂNCIAS ORDINÁRIAS. FUNDAMENTAÇÃO. DEFERIMENTO DE COMUTAÇÕES ANTERIORES. VEDAÇÃO DO ART. 7º DO DECRETO. REQUISITO OBJETIVO. NECESSIDADE DE CUMPRIMENTO. CONSTRANGIMENTO ILEGAL. AUSÊNCIA. WRIT INDEFERIDO LIMINARMENTE.
+1. O fato de o paciente ter sido beneficiado por comutações de pena anteriores inviabiliza a pretensão defensiva, por se confrontar com o regramento previsto no Decreto Presidencial 9.246/2017, que, taxativamente, determina que a comutação a que se refere o caput será concedida às pessoas condenadas à pena privativa de liberdade que não tenham, até 25 de dezembro de 2017, obtido as comutações decorrentes de Decretos anteriores, independentemente de pedido anterior. Desse modo, não há falar em constrangimento ilegal, na hipótese, uma vez que não cumprido o requisito objetivo, não tem o paciente direito à comutação de pena, nos termos da determinação expressa contida no texto legal (HC n. 466.918/MS, Ministro Nefi Cordeiro, DJe 2/10/2018).
+2. Agravo regimental desprovido. (AgRg no HC n. 471.788/SP, relator Ministro Sebastião Reis Júnior, Sexta Turma, DJe de 12/8/2020.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. DECRETO N.º 9.246/2017. COMUTAÇÃO DE PENA. FALTA DE REQUISITO OBJETIVO. BENESSE RESTRITA AOS CONDENADOS QUE NÃO RECEBERAM O BENEFÍCIO ANTERIORMENTE. PRECEDENTES. AGRAVO DESPROVIDO.
+1. O Superior Tribunal de Justiça pacificou o entendimento de que a exegese do art. 7.º, parágrafo único, do Decreto n.º 9.246/2017, expressamente limita o deferimento da comutação a quem não tenha obtido comutação decorrente de decreto anterior.
+2. No caso, as instâncias de origem ressaltaram que o Recorrente já foi beneficiado com a comutação de pena referente ao Decreto Presidencial nº 8.172/2013, de modo que não faz jus à comutação do Decreto n.º 9.246/2017.
+3. Agravo regimental desprovido. (AgRg no HC n. 471.779/SP, relatora Ministra Laurita Vaz, Sexta Turma, DJe de 19/11/2019.)
+No caso, o Tribunal a quo consignou que o paciente foi contemplado com a comutaçãoanteriorreferenteaoDecreto Presidencial n.8.380/2014.
+Como visto, não se constata a existência de flagrante constrangimento ilegal que autorize a atuação ex officio.
+Ante o exposto, não conheço do habeas corpus.
+Publique-se. Intimem-se.
+Após o trânsito em julgado, remetam-se os autos ao arquivo.
