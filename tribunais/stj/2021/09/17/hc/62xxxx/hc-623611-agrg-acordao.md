@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO AATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REGIME FECHADODEVIDAMENTE FUNDAMENTADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão das circunstâncias apuradas na instrução processual. Ficou evidenciado que o agravantese dedicava aatividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, pois demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+2.O elevado potencial destrutivo do crack e da cocaína demonstra a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena. Precedentes.
+3. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto por DEIVIDSON ALVES DE OLIVEIRA contra decisão singular que não conheceu do habeas corpus.
+O agravante reitera as teses de quepreenche todos os requisitos exigidos à aplicação da causa especial de diminuição de pena (art.33, § 4º, da Lei n. 11.343/06), bem como à fixação de regime mais brando, com a consequente substituição da pena por restritiva de direitos.
+Diante disso, busca a reconsideração do decisum ou o julgamento do recurso pelo órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS. INCIDÊNCIA DO REDUTOR PREVISTO NO § 4º DO ART. 33 DA LEI N. 11.343/06. DEDICAÇÃO AATIVIDADES CRIMINOSAS. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. REGIME FECHADODEVIDAMENTE FUNDAMENTADO. AGRAVO REGIMENTAL DESPROVIDO.
+1. A causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 não foi aplicada em razão das circunstâncias apuradas na instrução processual. Ficou evidenciado que o agravantese dedicava aatividades criminosas. A reforma desse entendimento constitui matéria que refoge ao restrito escopo do habeas corpus, pois demanda percuciente reexame de fatos e provas, inviável no rito eleito.
+2.O elevado potencial destrutivo do crack e da cocaína demonstra a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena. Precedentes.
+3. Agravo regimental desprovido.
+VOTO
+O presente agravo regimental não merece provimento, em que pesem os argumentos apresentados pelo agravante, devendo a decisão ser mantida por seus próprios fundamentos.
+A primeira controvérsia diz respeito à causa especial de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06, a qual é aplicável desde que o agente seja primário, de bons antecedentes, não se dedique a atividades criminosas nem integre organização criminosa.
+No caso, o Juízo sentenciante aplicou a minorante em questão na sua fração mínima, o Tribunala quo, por sua vez,afastou-a, sob a seguinte fundamentação:
+Decisão:
+" ..
+Passo a dosar as penas.
+Na primeira fase da dosimetria, e não vislumbrando no quanto apurado circunstância ou característica que justifique o exacerbamento da pena, aplico-a pelo mínimo, qual seja 05 (cinco) anos de reclusão, e o pagamento de 500 (quinhentos) dias-multa, estes pelo mínimo unitário legal.
+Em segunda fase de aplicação de pena, ausentes agravantes e atenuantes, mantenho a pena supra.
+Em última fase, tenho que se mostra cabível o reconhecimento da forma privilegiada, mormente à míngua de demonstração de envolvimento umbilical com as atividades ilícitas.
+Assim, é impositiva a redução pelo dispositivo no parágrafo 4º, do artigo da Lei nº 11.343/06 em relação ao acusado primário, razão pela qual, considerando a natureza e a quantia dos entorpecentes apreendidos, reduzo a pena em 1/6, a qual resulta definitiva, portanto, em 04(quatro) anos e 02 (dois) meses de reclusão, e o pagamento de 416 (quatrocentos e dezesseis) dias- multa, estes pelo mínimo unitário legal. Descabe a aplicação do redutor pelo máximo, especialmente em virtude da quantidade e natureza dos entorpecentes apreendidos, de alto poder vulnerante.
+Na falta de outras causas modificadoras, torno definitiva a pena sobredita.
+A pena corporal, à vista da variedade de drogas químicas, as quais trazem inúmeros malefícios à sociedade, através de cracolândias, por exemplo, e neste caso em concreto pela existência de crack a comercializar, droga de alto potencial formador de viciados, e diante da insensibilidade do réu com tamanhos prejuízos trazidos à toda a coletividade com sua conduta, deverá ser cumprida em regime fechado (art. 33, § 3º, CP), sendo incabível, pelos mesmos motivos, a substituição por penas alternativas ou a concessão do sursis."(fls. 32/33)
+Decisão:
+" ..
+Na fase do artigo 59, do Código Penal, a pena foi fundamentada. Foi fixada a pena base, analisadas as formas de acréscimo, dentro do critério trifásico. O regime prisional tem previsão legal.No entanto, tenho que assiste razão ao MINISTÉRIO PÚBLICO quanto a retirada do redutor. Isso porque a quantidade de droga em conjunto com a "notitia criminis" de que ali se praticava o comércio ilícito demonstra não ser alguém que estivesse se iniciando. E o próprio apelante DEIVIDSON confirmou processo crime relativa a crime de furto. Ainda que não integrante de grupo criminoso extremamente organizado, demonstrou aptidão para o crime, tanto que distribuía a droga em duas quantidades, dois volumes, como soe acontecer com os experimentados: em ocorrendo presença de policiais, perde-se a menor quantidade, aquela com a qual fica na via pública oferecendo à venda, mantendo em depósito outra; o prejuízo é menor. Isso não é procedimento de "estagiário", já chegou a "trainee" no crime. Rejeito as ponderações, argumentos da Defesa Apelante em contrário a este entendimento, como um todo. A versão antípoda é repelida por esta conclusão.
+Desse modo, dando provimento ao apelo do MINISTÉRIO PÚBLICO, retorna a pena ao piso de cinco anos de reclusão e pagamento de 500 dias multa, mantido o piso. O regime prisional é o fechado, da Lei no. 8.072/90 - Crimes hediondos, posto que decisão incidental do E. Supremo Tribunal Federal em caso específico, sem efeitode Súmula vinculante, não se estende a outras situações. Previsto em lei tal regime e se mostrando o mais adequado, é o aplicado. Organizado de alguma forma para a traficância. E mesmo como microempreendedor é perigoso seu proceder, pelo que há demonstração quanto a organização, fornecimento e venda de drogas, de estar composto com outras pessoas que o apoiam. Isso o torna essa pessoa organizada para o crime e distanciada quanto a poder receber a aplicação do redutor do § 4o., do artigo 33, da Lei no. 11.343/2006. Não sendo elemento ativo na forma mais ampla da organização criminosa, é integrante de pequeno grupo e sua condição pessoal e elos fazem sua ligação com organização de pequeno porte, mas atuante.
+Em relação a detração penal foi expedida Guia de Recolhimento provisório, conforme consta de fls. 237/238 dos autos. Com isso, a pena já está sendo executada por aquele meio, com aplicação de eventual progressão, benefícios que possam ser concedidos.
+ISTO POSTO e o que mais dos autos consta, conhecendo do apelo apresentado por DEIVIDSSON ALVES DE OLIVEIRA, com qualificação nos autos, é NEGADO PROVIMENTO AO RECURSO.
+Quanto ao apelo do MINISTÉRIO PÚBLICO, é DADO PROVIMENTO para o fim de o condenar como incurso no artigo 33, "caput", da Lei no.11.343/2006 - Lei de Drogas, à pena de cinco anos de reclusão em regime inicial fechado Lei no. 8.072/90 - Crimes hediondos e pagamento de 500 dias multa, no piso legal."(fls. 41/42)
+Da análise dostrechos acima transcritos, verifica-se que o fundamento utilizado pela Corte estadualpara afastar a aplicação da causa de diminuição de pena prevista no § 4º do art. 33 da Lei n. 11.343/06 foi o de dedicação do paciente às atividades criminosas.
+A reforma desse entendimento constitui matéria que refoge ao restrito escopo dohabeas corpus, porquanto demanda percuciente reexame de fatos e provas, inviável no rito eleito. Confira-se, a propósito, os seguintes julgados:
+HABEAS CORPUS. PROCESSUAL PENAL. CRIMES DE TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. QUALIFICAÇÃO DE TESTEMUNHA MANTIDA SOB SIGILO, PERMITIDA SUA DIVULGAÇÃO APENAS AO ADVOGADO DOS ACUSADOS, JUIZ E PROMOTOR. CERCEAMENTO DE DEFESA. INEXISTÊNCIA. CONDENAÇÃO BASEADA EM OUTRAS PROVAS, COLHIDAS SOB O CRIVO DO CONTRADITÓRIO. MINORANTE PREVISTA NO § 4.º DO ART. 33 DA NOVA LEI DE TÓXICOS. RÉU QUE SE DEDICA À ATIVIDADE CRIMINOSA. IMPOSSIBILIDADE. SUBSTITUIÇÃO DA PENA. PENA MAIOR QUE QUATRO ANOS. HABEAS CORPUS DENEGADO.
+ ..
+3. Inaplicável a causa de diminuição de pena inserta no § 4.º do art. 33 da Lei 11.343/2006 na hipótese, na medida em que, conforme consignado pela sentença condenatória, mantida pelo acórdão de apelação impugnado, o Paciente não preenche os requisitos legais, tendo em vista se dedicar à atividade criminosa. E, não é possível, na estreita via do habeas corpus, rever a conclusão exarada pela instância ordinária, por demandar incabível reexame do conjunto fático-probatório. Precedentes.
+ ..
+5. Habeas corpus denegado.
+(HC 206.142/SC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, DJe 23/4/2013).
+PENAL. AGRAVO REGIMENTAL EM HABEAS CORPUS SUBSTITUTIVO DE RECURSO ESPECIAL. TRÁFICO DE DROGAS. PLEITO DE INCIDÊNCIA DA CAUSA DE DIMINUIÇÃO DA PENA (ART. 33, § 4º, DA LEI N. 11.343/2006). DEDICAÇÃO À ATIVIDADE CRIMINOSA. (98,5 G DE COCAÍNA EM PEDRA, 19,3 G DE COCAÍNA EM PÓ E 49,5 G DE MACONHA, DEVIDAMENTE ACONDICIONADAS PARA A MERCÂNCIA). CAUSA ESPECIAL DE AUMENTO (ART. 40, III, DA LEI N. 11.343/2006). PROXIMIDADE A TRÊS ESCOLAS E UM CENTRO DE RECREAÇÃO. COMPROVAÇÃO. AUSÊNCIA DE CONSTRANGIMENTO ILEGAL. REGIME INICIAL FECHADO. CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. NATUREZA, E QUANTIDADE DE DROGAS. 300 "PAPELOTES" PARA REVENDA DE CRACK, MACONHA E COCAÍNA EM PÓ.
+1. Deve ser mantida a decisão monocrática em que não se conhece da impetração, substitutiva do recurso cabível, quando não há manifesto constrangimento ilegal à liberdade de locomoção.
+2. A negativa de incidência da causa especial de diminuição da pena, prevista no art. 33, § 4º, da Lei n. 11.343/2006, deu-se em razão da convicção do julgador, com base nas provas dos autos, de existir dedicação à atividade criminosa, de modo que, alcançar conclusão inversa, demandaria reexame fático-probatório, inviável na via eleita.
+ ..
+5. Agravo regimental improvido.
+(AgRg no HC 283.816/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 6/10/2016).
+Noutro ponto, o elevado potencial destrutivo da cocaína e docrackdemonstraa gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+Nesse sentido:
+HABEAS CORPUS. TRÁFICO ILÍCITO DE ENTORPECENTES. CONDENAÇÃO. REGIME FECHADO. FUNDAMENTAÇÃO IDÔNEA. CIRCUNSTÂNCIAS DO CASO CONCRETO. NÃO CONHECIMENTO.
+1. Devidamente fundamentada a imposição do regime inicial fechado, com base nas circunstâncias do caso concreto, em especial a natureza da droga apreendida - cocaína -, bem como no fato de o paciente praticar a traficância de forma habitual, não há constrangimento ilegal a ser sanado.
+2. Habeas corpus não conhecido.
+(HC 370.773/RS, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, DJe 11/11/2016).
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DESCABIMENTO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA (§ 4º DA LEI DE DROGAS).CONDENAÇÃO ANTERIOR. AUSÊNCIA DE TRÂNSITO EM JULGADO. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. REVOLVIMENTO DE MATÉRIA FÁTICA.IMPOSSIBILIDADE. REGIME FECHADO. NATUREZA DA DROGA. WRIT NÃO CONHECIDO. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+1. Em consonância com a orientação jurisprudencial da Primeira Turma do Supremo Tribunal Federal - STF, esta Corte não admite habeas corpus substitutivo de recurso próprio, sem prejuízo da concessão da ordem, de ofício, se existir flagrante ilegalidade na liberdade de locomoção do paciente.
+2. Ações penais em andamento podem evidenciar a dedicação do indivíduo a atividades criminosas e, assim, impedir a aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/06, como no caso em análise. Precedentes.
+Além disso, para se concluir que o paciente faz jus a essa causa de diminuição de pena, é necessário o reexame de matéria fática, inviável na via eleita.
+3. O elevado potencial destrutivo da cocaína demonstra a gravidade concreta do delito, justificando, por força do princípio da individualização da pena, o agravamento do aspecto qualitativo (regime) da pena.
+4. Habeas corpus não conhecido.
+(HC 586.202/SP, de minha Relatoria, QUINTA TURMA,DJe 10/8/2020).
+Ante o exposto, voto pelo desprovimento do agravo regimental.
