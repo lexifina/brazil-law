@@ -1,0 +1,17 @@
+DECISÃO
+Trata-se de habeas corpus, com pedido liminar, impetrado em face de acórdão assim ementado (fl. 1093):
+PROCESSO CRIMINAL. RECURSO DE AGRAVO REGIMENTAL CRIMINAL. DECISÃO MONOCRÁTICA QUE NEGA SEGUIMENTO A HABEAS CORPUS, PORQUE AS ALEGAÇÕES NÃO FORAM REDISCUTIDAS ORIGINARIAMENTE, MEDIANTE PEDIDO FORMULADO PELA IMPETRANTE, NA INSTÂNCIA PRIMEVA, O QUE CARACTERIZARIA INDEVIDA SUPRESSÃO DE INSTÂNCIA. INADMISSIBILIDADE RECURSAL. AGRAVANTE QUE REPETE A MESMA TESE EXPOSTA NA IMPETRAÇÃO, SEM, TODAVIA, REFUTAR, FUNDAMENTADAMENTE, AS PREMISSAS DISPOSTAS NA DECISÃO AGRAVADA. AO RECORRENTE INCUMBE DEMONSTRAR O EQUÍVOCO DA DECISÃO EM FACE DA QUAL SE INSURGE, COM A IMPUGNAÇÃO DOS ÓBICES POR ELA APONTADOS DE MANEIRA ESPECÍFICA, EM OBSERVÂNCIA AO PRINCÍPIO DA DIALETICIDADE. DECISÃO MANTIDA. NÃO SE PODE OLVIDAR QUE O ENTENDIMENTO DE QUE A IMUTABILIDADE DAS DECISÕES PODE SER RELATIVIZADA EM CASOS EXCEPCIONAIS - NOTADAMENTE EM MATÉRIA DE EXECUÇÃO PENAL -, QUANDO, POR EXEMPLO, OCORRER A SUPERVENIÊNCIA DE LEI OU ENTENDIMENTO QUE BENEFICIAR O ACUSADO (APENADO/REEDUCANDO). AGRAVO REGIMENTAL NÃO CONHECIDO.
+Consta dos autos que o habeas corpus não foi conhecido na origem por ausência de rediscussão da matéria no juízo de primeiro grau.
+Sustenta a impetranteque, diante da aprovação do paciente no ENCCEJA, em todos os campos de conhecimento doensinofundamental, faz jus à remição de 176 dias de pena, razão pela qual requer a concessão da ordem liminarmente para determinar ao tribunal de origem que conheça do habeas corpus na origem.
+Não havendo divergência da matéria no órgão colegiado, admissível seu exame in limine pelo relator, nos termos do art. 34, XVIII e XX, do RISTJ.
+Em recente julgado, a Terceira Seção do Superior Tribunal de Justiça reafirmou o entendimento de que, para fins de remição pela aprovação no ENCCEJA, devem ser consideradas 1.600 horas para os anos finais do ensino fundamental e 1.200 horas para o ensino médio, o que corresponde a 50% da carga horária legalmente prevista para os referidos níveis de ensino, nos termos da Lei 9.394/1996 (Lei de Diretrizes e Bases da Educação Nacional) e da Recomendação 44/2013 do Conselho Nacional de Justiça (HC 602.425/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, TERCEIRA SEÇÃO, julgado em 10/03/2021, DJe 06/04/2021). A esse respeito: AgRg no HC 572.049/SC, Rel. Ministro JOÃO OTÁVIO DE NORONHA, QUINTA TURMA, julgado em 11/05/2021, DJe 13/05/2021.
+No juízo de primeiro grau, foi proferida a seguinte decisão:
+Vistos para decisão.
+Pela aprovação total no ENCCEJA - Exame Nacional Para Certificação de Competências de Jovens e Adultos (fls. 654/655 - ensino fundamental), em conformidade com o art. 126, § 1º, c/c o § 5º, da Lei de Execução Penal c/c Recomendação nº 44/2013 - CNJ, faz jus à remição de 40(quarenta) dias, uma vez que já foram homologados 26 (vinte e seis) dias por meio da decisão de fls. 561/563, acrescido de 1/3, resultando num total de 62 (sessentae dois) dias.
+ ..
+Ante o exposto, DECLARO REMIDOS 62 (sessenta e dois)dias de pena.
+Como se vê, o reeducando obteve aprovação em 5 áreas de conhecimento dos ensinos fundamental, razão por que tem direito, relativamente ao ensino fundamental, a 133 dias de remição, acrescidos de 1/3, nos termos do art. 126, § 5º, da LEP, resultando 177 dias.
+Ante o exposto, concedo liminarmente a ordem, de ofício,para deferir ao paciente a remição de177 dias de pena pela aprovação em todas as áreas do Exame Nacional para Certificação de Competências de Jovens Adultos ENCCEJA/EnsinoFundamental.
+Comunique-se.
+Publique-se.
+Intimem-se.
