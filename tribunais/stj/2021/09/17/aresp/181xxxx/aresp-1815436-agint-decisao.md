@@ -1,0 +1,49 @@
+DECISÃO
+MARIA LUIZA DA COSTA GONÇALVES DE ALMEIDA e outra (MARIA e outra) promoveram cumprimento de sentença em desfavor de UNIMED FEDERAÇÃO INTERFEDERATIVA DAS COOPERATIVAS MÉDICAS DO CENTRO-OESTE E TOCANTINS (UNIMED) e CENTRAL NACIONAL UNIMED - COOPERATIVA CENTRAL (CENTRAL UNIMED).
+O d. Juízo de primeira instância acolheu em parte a impugnação oferecida por CENTRAL UNIMED, para reconhecer o excesso de penhora de R$ 99.974,00 (noventa e nove mil, novecentos e setenta e quatro reais), condenando MARIA e outras ao pagamento de honorários advocatícios de 10% sobre o excesso em favor do advogado de CENTRAL UNIMED. Ainda, declarou a extinção das obrigações em face do pagamento (e-STJ, fls. 285/287).
+Os embargos de declaração opostos por CENTRAL UNIMED foram rejeitados (e-STJ, fls. 304/305).
+O TJ/DF negou provimento à apelação interposta por CENTRAL UNIMED nos termos do acórdão assim ementado:
+CIVIL. PROCESSO CIVIL. CONSUMIDOR. PLANO DE SAÚDE. NEGATIVA DE COBERTURA. OBRIGAÇÃO DE FAZER. GRUPO ECONÔMICO UNIMED. CUMPRIMENTO DE SENTENÇA. PRELIMINAR. ACOLHIDA EM PARTE. RECURSO PARCIALMENTE CONHECIDO. ASTREINTES. IMPOSIÇÃO À APELANTE. AUSÊNCIA DE JUSTA CAUSA. NÃOCONFIGURADA. MAJORAÇÃO DA MULTA. NÃO OCORRÊNCIA. VALOR FIXADO NADECISÃO LIMINAR. JUROS SOBRE OS DANOS MORAIS. MOMÓRIA DE CÁLCULOS. NÃO APRESENTADA. SENTENÇA PARCIALMENTE REFORMADA. 1. Trata-se de apelação contra decisão que acolheu em parte a impugnação ofertada pela apelante/executada para reconhecer o excesso da penhora, determinado o decote.2. O princípio da dialeticidade recursal impõe ao recorrente, como pressuposto necessário à admissibilidade de sua insurgência, a impugnação específica dos fundamentos, de fato e de direito, da decisão resistida (artigo1.010, III, do CPC), impedindo o conhecimento de recurso genérico, no qual a parte postula nova decisão, sem indicar os motivos para a reforma ou nulidade do provimento judicial hostilizado. 3. Por se tratar de pena por descumprimento de obrigação, o valor das astreintes somente pode ser cobrado se caracterizado o inadimplemento. No caso, a apelante não demonstrou que a devedora originária cumpriu a medida liminar, o que afastaria a aplicação da sanção. 4. A vedação de cominação de cláusula penal que exceda a obrigação principal, disposta no artigo 412 do Código Civil, não se confunde com as medidas autorizadas pelo Código de Processo Civil como meio de induzir o obrigado ao adimplemento de obrigações específicas contidas na ordem judicial. 5. Para a fixação das astreintes deve o magistrado observar os princípios da razoabilidade e proporcionalidade, a fim de não extrapolar a sua natureza cominatória da multa. 6. Ao alegar que o autor pleiteia quantia superior ao devido, cumpre ao embargante indicar de imediato o valor que entende correto, apresentando demonstrativo discriminado e atualizado, nos moldes do § 4º, do referido diploma processual. 7. Recurso parcialmente conhecido e parcialmente provido (e-STJ, fls. 374/375).
+Os embargos declaratórios opostos por MARIA e outra e por CENTRAL UNIMED foram ambos rejeitados (e-STJ, fls. 408/416).
+Inconformada, CENTRAL UNIMED manejou recurso especial com fundamento no art. 105, III, a, da CF, alegando a violação dos arts. 489, §1º, IV, 1.022, II, do NCPC, ao sustentar que (1) o acórdão recorrido incorreu em omissão quanto às teses de que (i) não houve intimação pessoal para cumprimento da obrigação de fazer; e (ii) é possível a redução de ofício da multa cominatória; (2) não houve intimação pessoal do devedor para cumprimento da obrigação; (3) é possível modificar de ofício o valor da multa; e (4) o valor das astreintes deve ser limitado ao da obrigação principal.
+Foi oferecida contraminuta (e-STJ, fls. 488/490).
+O apelo nobre não foi admitido em virtude da (1) ausência de violação dos arts. 489 e 1.022 do NCPC; e (2) incidência da Súmula nº 7 do STJ (e-STJ, fls. 493/494).
+Nas razões do agravo em recurso especial, CENTRAL UNIMED asseverou que (1) foram violados os arts. 489 e 1.022 do NCPC; e (2) não incide a Súmula nº 7 do STJ (e-STJ, fls. 497/503).
+Foram apresentadas contrarrazões (e-STJ, fls. 513/515).
+O agravo em recurso especial não foi conhecido, em decisão da Presidência do STJ, em face da ausência de impugnação à Súmula nº 7 do STJ (e-STJ, fls. 524/526).
+Nas razões do presente agravo interno, CENTRAL UNIMED sustentou que a decisão foi integralmente impugnada (e-STJ, fls. 529/538).
+Não foi apresentada impugnação.
+É o relatório.
+DECIDO.
+Da reconsideração do decisum agravado
+Considerando as razões apresentadas no presente agravo interno, RECONSIDERO a decisão de e-STJ, fls. 524/526 e passo a novo exame do agravo em recurso especial interposto às e-STJ, fls. 497/503.
+Do agravo em recurso especial
+O recurso merece prosperar.
+De plano, vale pontuar que o agravo em recurso especial foi interposto contra decisão publicada na vigência do NCPC, razão pela qual devem ser exigidos os requisitos de admissibilidade recursal na forma nele prevista, nos termos do Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016:
+Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+(1) Da violação do art. 1.022 do NCPC
+No presente recurso, CENTRAL UNIMED alegou a violação dos arts. 489, §1º, IV e 1.022, II do NCPC em virtude da omissão quanto às teses de que (i) não houve intimação pessoal para cumprimento da obrigação de fazer; e (ii) é possível a redução de ofício da multa cominatória.
+Com razão em parte.
+De fato, em seus embargos de declaração CENTRAL UNIMED requereu a manifestação do TJ/DF quanto à inexistência de intimação pessoal para cumprimento da obrigação.
+Da acurada análise do acórdão que julgou os aclaratórios verifica-se que o TJ/DF não tratou sobre o tema visto que apenas consignou:
+Na hipótese, a embargante não logrou demonstrar qualquer dos vícios acima mencionados no CPC, limitando-se a revolver matéria decidida, buscando seu reexame, e a prequestionar dispositivos constitucionais e legais que entende violados pelo acórdão hostilizado, descabendo falar em defeito de omissão, contradição ou obscuridade no julgado (e-STJ, fl. 415).
+O tema também não foi tratado no acórdão de e-STJ, fls. 372/382.
+É condição sine qua non ao conhecimento do recurso especial que a questão de direito ventilada nas suas razões tenha sido analisada pelo acórdão objurgado.
+Assim, recusando-se o TJ/DF a se manifestar sobre a questão federal, terminou por negar prestação jurisdicional.
+A propósito, cite-se o precedente abaixo:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO RECURSO ESPECIAL. AÇÃO ORDINÁRIA. PREVIDÊNCIA PRIVADA. APOSENTADORIA COMPLEMENTAR. BASE DE CÁLCULO. CTVA. PREVISÃO DE CUSTEIO. NECESSIDADE. ART. 1.022 DO CÓDIGO DE PROCESSO CIVIL DE 2015. VIOLAÇÃO. OMISSÃO NÃO SANADA. NEGATIVA DE PRESTAÇÃO JURISDICIONAL.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Constatada a existência de omissão não sanada no acórdão proferido pelo tribunal local, apesar de opostos aclaratórios, é de rigor o reconhecimento de violação do art. 1.022 do Código de Processo Civil de 2015 por negativa de prestação jurisdicional, com a determinação de retorno dos autos à origem para que se realize novo julgamento.
+3. Agravo interno não provido.
+(AgInt nos EDcl no REsp 1.819.895/RS, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, Terceira Turma, j. em 30/03/2020, DJe 07/04/2020)
+É medida de rigor, portanto, o retorno dos autos à instância ordinária para que sane o referido vício.
+De outro turno, o acórdão vergastado examinou a tese de CENTRAL UNIMED no sentido da possibilidade de revisão do valor das astreintes, tendo concluído que não houve excesso na fixação da multa. Confira-se:
+Com efeito, para a fixação das astreintes deve o magistrado observar os princípios da razoabilidade e proporcionalidade, a fim de não extrapolar a natureza cominatória da multa.
+Na espécie, tratando-se de obrigação de fazer relacionada à manutenção da beneficiária no plano de saúde, em razão desta estar em pleno tratamento de doença grave, não se vislumbra excesso na fixação da multa. Circunstância que se deve priorizar o cumprimento da obrigação, justificando o elevado valor fixado para ocaso de descumprimento da ordem judicial (e-STJ, fl. 380).
+Assim, nesse ponto não há que se falar em omissão, inexistindo, pois, ofensa aos arts. 489 e 1.022 do NCPC.
+Em face do reconhecimento da omissão quanto à suposta ausência de intimação pessoal, fica prejudicada a análise das demais violações apontadas.
+Nessas condições, DOU PROVIMENTO ao agravo interno para reconsiderar a decisão agravada e, em nova análise, CONHEÇO do agravo para CONHECER EM PARTE do recurso especial e, nessa extensão, NEGAR-LHE PROVIMENTO, determinando o retorno dos autos ao TJ/DF para que analise a alegação de que não houve intimação pessoal de CENTRAL UNIMED para cumprimento da obrigação, como entender de direito.
+Por oportuno, previno as partes de que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar a condenação das penalidades fixadas nos arts. 1.021, §4º ou 1.026, §2º, ambos do NCPC.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. RECONSIDERAÇÃO. CUMPRIMENTO DE SENTENÇA. ARTS. 489 E 1.022 DO NCPC. OMISSÃO QUANTO À ANÁLISE DE TEMA RELEVANTE PARA O JULGAMENTO DA LIDE. IMPOSSIBILIDADE DE ANÁLISE POR ESTA CORTE. RETORNO DOS AUTOS PARA JULGAMENTO DOS EMBARGOS DE DECLARAÇÃO. AGRAVO INTERNO PROVIDO. AGRAVO CONHECIDO. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E PROVIDO.
