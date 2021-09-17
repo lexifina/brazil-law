@@ -1,0 +1,41 @@
+DECISÃO
+Trata-se de pedido apresentado por ANDRESSA DAIANE DO ESPÍRITO SANTO, requerendo a extensão dos efeitos da decisão de fls. 82-89(e-STJ), que concedeu a ordem de ofício para conceder a substituição da prisão preventiva por domiciliar a Nayara Ribeiro de Carvalho.
+Alega a requerente que se encontra presa preventivamente desde 12-12-2019, em função de imputações apuradas na denominada "Operação Sicários".
+Pondera que é a única responsável pelo cuidado de seus filhos menores de 4 e 9 anos, já que o pai das crianças está cumprindo pena em regime fechado e a avó que cuida dos menores, é pessoa de idade avançada.
+Sustenta excesso de prazo para a formação da culpa.
+Requer, ao final, nos termos do art. 580 do CPP, à extensão do benefício concedido à corré.
+É o relatório.
+Decido.
+Razão não assiste àrequerente.
+Inicialmente, verifica-se que a postulantejá teve pedido de prisão domiciliar analisado nesta Corte Superior pelo HC 529278/PR, nos seguintes termos:
+"Conforme exposto, a paciente é apontada como uma das lideranças de uma organização criminosa, atuante nos municípios de Fazenda Rio Grande e de Araucária, responsável pelo tráfico de drogas, armas de fogo e munições, em larga escala e participação de inúmeros membros com funções definidas.
+Infere-se, ainda, que a paciente e seu marido, além de auxiliar na administração, na supervisão e no financiamento do grupo criminoso, são proprietários de um estabelecimento comercial, indicado como um dos pontos de tráfico do grupo criminoso.
+Ao longo da operação, foram apreendidos, aproximadamente, 28,384 Kg de maconha, 207 g de crack e 97,4 g de cocaína, além de 6 revólveres, com numeração de série suprimida, 12 munições intactas, 1 espingarda e 1 pistola.
+Nesse contexto, de fato, mostra-se inviável a substituição da prisão preventiva por prisão domiciliar, dada a acentuada periculosidade da agente ao meio social, como posto pelas instâncias ordinárias."
+Demais disso,"nos termos do art. 580 do Código de Processo Penal - CPP, devemserestendidos aos demais corréus os efeitos de decisão que beneficia umdosacusados, desde que demonstrada a similitude fática e processual.Assim, aextensão da liberdade provisória deferida aos corréus requerademonstração de que a situação fática e processual dos agentes éidêntica"(HC 443.552/RS, rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 12/6/2018).
+Na hipotése, verifica-se que a substituição da prisãopreventiva pela domiciliar concedida à corré Nayara ocorreu nos seguintes termos:
+"In casu, o pedido de conversão da prisão preventiva em domiciliar foi denegado pelo Tribunal de origem ao fundamento de que "a segregada supostamente integra organização criminosa, voltada para a prática do tráfico de drogas, sendo que comercializava entorpecentes em seu próprio domicílio" (e-STJ, fl. 71 - grifos no original).
+Ocorre que o Ministro relator do mencionado HC n. 143.641/SP, Ricardo Lewandowski, em 24/10/2018, esclareceu:" ..  não configura situação excepcionalíssima, apta a evitar a concessão da ordem no caso concreto, o fato de o flagrante ter sido realizado pela suposta prática de tráfico de entorpecentes na residência da presa, porque não é justo nem legítimo penalizar a presa e aos que dela dependem por eventual deficiência na capacidade de fiscalização das forças de segurança. Efetivamente, a suspeita de que a presa poderá voltar a traficar caso retorne à sua residência não tem fundamento legal e tampouco pode servir de escusa para deixar de aplicar a legislação vigente, que protege a dignidade da mulher e da sua prole.
+(..).
+Assim, em cumprimento à determinação do Supremo Tribunal Federal, em observância ao disposto no art. 318-A do CPP, diante das peculiaridades do caso concreto e tendo como prioridade absoluta os direitos da criança, recomenda-se o cumprimento da custódia cautelar em prisão domiciliar, pois a paciente, flagrada em eventual prática de delito sem violência ou grave ameaça, possui dois filhos menores, um de 11 anos e outro de 6 anos de idade que necessitam de seus cuidados consoante extrai-se do relatório psicossial de fls. 77-78 (e-STJ)."
+No presente caso, não se verificaaidentidadefático-processualda requerente com acorré, na medida em que aquela é considerada uma liderança da suposta organização criminosa.
+Nesse sentido, confiram-se estes julgados:
+"AGRAVO REGIMENTAL NO PEDIDO DE EXTENSÃO. SUSTENTAÇÃO ORAL. NÃO CABIMENTO. ORGANIZAÇÃO CRIMINOSA E FINANCIAMENTO PARA O TRÁFICO.PRISÃO DOMICILIAR DE MÃE CONCEDIDA. CORRÉ PLEITEIA EXTENSÃO DO BENEFÍCIO. AUSÊNCIA DE SIMILITUDE FÁTICO-PROCESSUAL. FILHOS MAIORES DE 12 ANOS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. Há disposição expressa quanto ao não cabimento de sustentação oral nos julgamentos de recursos internos (art. 159 do Regimento Interno desta Corte e arts. 937 c.c 1021, ambos do Código de Processo Civil).
+2. Agravo regimental interposto contra decisão monocrática que indeferiu o pedido de extensão dos benefícios da ordem, por ausência de similitude das situações jurídicas.
+3. A teor do art. 580 do Código de Processo Penal, o deferimento do pedido de extensão exige que o corréu esteja na mesma condição fático-processual daquele já beneficiado.
+4. No particular, a prisão domiciliar foi concedida à paciente- paradigma por ela possuir 2 filhos menores de 12 (doze) anos de idade, além de preencher os demais requisitos legais. As filhas da requerente, ora agravante, entretanto, são maiores de 12 (doze) anos (com 13 e 15 anos). Ausente a identidade de situação fático-processual entre a paciente beneficiada e a ora requerente, o pedido de extensão merece ser indeferido.
+55. Fato pretérito - uma das filhas da agravante estava com 11 (onze) anos de idade à época da prisão (2018) - não preenche, no momento do pedido, o requisito legal previsto no art. 318, V do CPP para a concessão da prisão domiciliar (mulher com filho de até 12 anos de idade incompletos). Inexiste direito adquirido ao benefício legal, como argumenta a defesa.
+6. Agravo regimental não provido.
+(AgRg no HC 666.623/PI, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 15/06/2021, DJe 21/06/2021)
+AGRAVO REGIMENTAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. PLEITO DE SUBSTITUIÇÃO DA SEGREGAÇÃO CAUTELAR POR PRISÃO DOMICILIAR. MÃE DE FILHO MENOR DE 12 ANOS DE IDADE. IMPOSSIBILIDADE. AGRAVANTE FORAGIDA. DEMONSTRADA NÍTIDA INTENÇÃO DE FURTAR À APLICAÇÃO DA LEI PENAL. REITERAÇÃO DE PEDIDO JÁ JULGADO POR ESTA CORTE NO HC 522.160/ES. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a decisão vergastada pelos próprios fundamentos.
+II - Impossibilidade de conhecimento do recurso ordinário em habeas corpus, quanto às alegações, acerca da ausência de fundamentação concreta e idônea para a segregação cautelar assim como a substituição da prisão preventiva por prisão domiciliar, tenho que tais questões, já, foram tratadas no julgamento do HC n. 522.160/ES.
+Naquela oportunidade, embora o writ não tenha sido conhecido por se tratar de substitutivo de recurso próprio, as teses foram examinadas, uma vez que, caso houvesse flagrante ilegalidade, seria possível a concessão da ordem de ofício, conforme jurisprudência pacífica desta Corte Superior.
+III - Em relação ao argumento de que foi deferido o pedido de substituição da prisão preventiva por prisão domiciliar de outra corré verifico que não há identidade fático-processual entre as partes, haja vista que a ora agravante se encontra foragida, dessa forma, não cabe, a teor do art. 580 do CPP, deferir o pedido de extensão de benefício obtido por um deles, qual seja, a substituição da prisão preventiva por prisão domiciliar.
+Agravo regimental desprovido.
+(AgRg no RHC 119.030/ES, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 05/11/2019, DJe 11/11/2019)
+Em relação ao alegado excesso de prazo para formação da culpa, observa-se que tal matéria não foi sequer ventilada na decisão a que se busca extensão.
+Ante o exposto, indefiro o pedido de extensão.
+Publique-se.
+Intime-se
