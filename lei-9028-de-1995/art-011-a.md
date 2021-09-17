@@ -1,0 +1,6 @@
+Art. 11-A. Fica autorizada a Advocacia-Geral da União a assumir, por suas Procuradorias, temporária e excepcionalmente, a representação judicial de autarquias ou fundações públicas nas seguintes hipóteses:
+I - ausência de procurador ou advogado;
+II - impedimento dos integrantes do órgão jurídico.
+§ 1º A representação judicial extraordinária prevista neste artigo poderá ocorrer por solicitação do dirigente da entidade ou por iniciativa do Advogado-Geral da União.
+§ 2º A inexistência de órgão jurídico integrante da respectiva Procuradoria ou Departamento Jurídico, em cidade sede de Órgão judiciário perante o qual corra feito de interesse de autarquia ou fundação da União, configura a hipótese de ausência prevista no inciso I deste artigo.
+§ 3º O Advogado-Geral da União, com a finalidade de suprir deficiências ocasionais de Órgãos Vinculados à Advocacia-Geral da União, poderá designar para prestar-lhes colaboração temporária membros efetivos da Advocacia-Geral da União, Procuradores Autárquicos, Assistentes Jurídicos e Advogados de outras entidades, seja em atividades de representação judicial ou de consultoria e assessoramento jurídicos, estando, enquanto durar a colaboração temporária, investidos dos mesmos poderes conferidos aos integrantes do respectivo Órgão Vinculado.

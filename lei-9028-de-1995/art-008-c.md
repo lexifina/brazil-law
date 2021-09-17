@@ -1,0 +1,2 @@
+Art. 8º-C. O Advogado-Geral da União, na defesa dos interesses desta e em hipóteses as quais possam trazer reflexos de natureza econômica, ainda que indiretos, ao erário federal, poderá avocar, ou integrar e coordenar, os trabalhos a cargo de órgão jurídico de empresa pública ou sociedade de economia mista, a se desenvolverem em sede judicial ou extrajudicial.
+Parágrafo único. Poderão ser cometidas, à Câmara competente da Advocacia-Geral da União, as funções de executar a integração e a coordenação previstas neste artigo.

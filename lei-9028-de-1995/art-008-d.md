@@ -1,0 +1,8 @@
+Art. 8º-D. É criado o Departamento de Cálculos e Perícias da Advocacia-Geral da União, integrante da estrutura organizacional da Procuradoria-Geral da União e ao titular desta imediatamente subordinado.
+§ 1º Ao Departamento de Cálculos e Perícias compete, especialmente:
+I - supervisionar, coordenar, realizar, rever e acompanhar os trabalhos técnicos, de cálculo e periciais, referentes aos feitos de interesse da União, de suas autarquias e fundações públicas, às liquidações de sentença e aos processos de execução; e
+II - examinar os cálculos constantes dos precatórios judiciários de responsabilidade da União, das autarquias e fundações públicas federais, antes do pagamento dos respectivos débitos.
+§ 2º O Departamento de Cálculos e Perícias participará, nos aspectos de sua competência, do acompanhamento, controle e centralização de precatórios, de interesse da Administração Federal direta e indireta, atribuídos à Advocacia-Geral da União pela Lei nº 9.995, de 25 de julho de 2000.
+§ 3º As unidades, das autarquias e fundações públicas, que tenham a seu cargo as matérias de competência do Departamento de Cálculos e Perícias, da Advocacia-Geral da União, atuarão sob a supervisão técnica deste.
+§ 4º Os órgãos e entidades da Administração Federal prestarão, ao Departamento de Cálculos e Perícias, o apoio que se faça necessário ao desempenho de suas atividades, inclusive colocando à sua disposição pessoal especializado.
+§ 5º O Advogado-Geral da União disporá, nos termos do art. 45 da Lei Complementar nº 73, de 1993, sobre o Departamento de Cálculos e Perícias e editará os demais atos necessários ao cumprimento do disposto neste artigo.
