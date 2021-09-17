@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo do MUNICÍPIO DE SÃO PAULO - SP que objetiva admissão de recurso especial interposto contra acórdão do TJSP assim ementado:
+AGRAVO DE INSTRUMENTO - EXECUÇÃO FISCAL - IPTU - Exercício de 2017 - Município de São Paulo - Oposição de exceção de pré-executividade sustentando a ilegitimidade passivado credor fiduciário - Rejeição da objeção apresentada - Impossibilidade - Transferência de propriedade sob condição resolúvel - Responsabilidade tributária que deve recair sobre o devedor fiduciante, nos termos do artigo 27, §8º, da Lei 9.514/1997- Precedente desta Corte - Extinção parcial da execução em relação ao excipiente gera a condenação da entidade pública ao pagamento dos honorários advocatícios - Precedente do E. STJ - Decisão reformada - Agravo provido.
+No especial, a parte alega violação dosarts. 1.245 e 1.361do CC/2002, dos arts. 34 do CTN, 17, 22 e 23da Lei n. 9.514/1997. Sustenta, em síntese, que se impõe ao banco, credor fiduciáriode imóvel, a titularidade passiva do IPTU objeto de alienação fiduciária.
+O recurso foi inadmitido na origem por óbice das Súmulas 5 e 7 do STJ.
+Passo a decidir.
+Considerado isso, importa mencionar que o recurso especial origina-se de agravo contra decisão em execução fiscal que não acolheu exceção de pré-executividade em que se alegava ilegitimidade passiva do credor fiduciário para o IPTU incidente sobre imóvel objeto de alienação fiduciária.
+O Tribunal bandeirante deu provimentoprovimento ao agravo de instrumento para afastar alegitimidade passiva do banco credor fiduciário do imóvel objeto da tributação:
+A r. decisão recorrida dever ser reformada.
+Conforme se observa da certidão imobiliária - nº 107.876 - de fls. 36/39 (dos autos originários), o imóvel objeto da tributação foi vendido para Claudio Capato Junior e sua esposa Tamine Teixeira da Costa Capato, que, por seu turno, o alienaram fiduciariamente em garantia ao banco ora agravante, mediante instrumento particular levado a registro, em 30/07/2009 (prenotação nº 269.343 11/08/2009),no 1º Cartório de Registro de Imóveis da cidade de São Paulo.
+Desta feita, o banco agravante passou a deter o domínio resolúvel do imóvel, consolidando-se a propriedade apenas em caso de inadimplemento do devedor fiduciante.
+Neste sentido é o entendimento da Colenda 15ªCâmara desta Corte:
+ ..
+Assim, tratando-se de imóvel objeto de contrato de alienação fiduciária em garantia, devidamente registrado no respectivo Cartório de Registro de Imóveis, somente a propriedade resolúvel é conferida ao credor fiduciário e para fins apenas de garantia, por isso restando afastada sua condição de contribuinte, nos termos do artigo 34 do Código Tributário Nacional e, consequentemente, a responsabilidadetributária, respondendo o devedor fiduciário pelo crédito tributário cobrado, em conformidade com o artigo 27, § 8º, da Lei nº 9.514/1997
+Pois bem.
+Opresente recurso especial não supera o juízo de admissibilidade.
+No tocante à matéria relativa àtitularidade do banco, credor fiduciário, para oIPTU do imóvel objeto de alienação fiduciária, consignou o acórdão recorrido que, por expressa previsão legal (lei federal n. 9.514/1997, art. 27, § 8º), é do devedor fiduciante a responsabilidade pelo pagamento dos créditos tributários do imóvel sujeito ao contrato de alienação fiduciária.
+O recorrente, todavia, nas razões do presente recurso especial, não atacou especificamente o fundamento acima identificado, tendo se concentrado em afirmar que o art. 34 do CTN autorizaria a tributação tanto do credor fiduciário, quanto do devedor fiduciante, delegando ao município tributante a competência para escolher através da Lei estadual,o que faz atrair, quanto ao ponto, o óbice de conhecimento estampado na Súmula283/STF.
+Ante o exposto, com base no art. 253, parágrafo único, II, "a", do RISTJ, CONHEÇO do agravo para NÃO CONHECER do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10%o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
