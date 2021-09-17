@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO DEFERAL. EXECUÇÃO PENAL. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM. HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. REVISÃO JURISPRUDENCIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em recente mudança de orientação jurisprudencial, esta egrégia Quinta Turma, por unanimidade de votos, no julgamento do HC 613.268/SP, passou a entender que ao reincidente não específico em crime hediondo não podem ser exigidos os percentuais de cumprimento da pena previstos no art. 126, incisos VI e VII, da Lei de Execução Penal -LEP.
+2. O Direito Penal e a Execução penal não comportam a utilização da analogia ou mesmo interpretação extensiva em desfavor do acusado ou do recuperando.
+3. Nessa ordem de ideias, no caso concreto, o paciente cumpre pena pelo crime de tráfico de drogas, sua condenação anterior é por crime distinto, sendo, pois, é reincidente genérico, impõe-se a aplicação do percentual equivalente ao que é previsto para o primário - 40%.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Cuida-se de agravo regimental interposto pelo Ministério Público Federal contra decisão de fls. 92/97, na qual não conheci do habeas corpus, mas concedi a ordem de ofício para reconhecer o direito do paciente a contagem do prazo de progressão de regime na forma do art. 112, inciso V, da Lei de Execuções Penais por não ser hipótese de reincidente específico em crime hediondo.
+No presente regimental, o Ministério Público Federal alega não ser proporcional e razoável exigir-se a mesma proporção de cumprimento de pena (40%) de um réu reincidente em crime hediondo, somente pelo fato de não ser reincidente específico.
+Afirma que a intenção do legislador foi de recrudescer os critérios para a progressão de regime e não os aliviar.
+Pretende, assim, o provimento do recurso com vistas a restabelecer o acórdão do Tribunal de origem.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS INTERPOSTO PELO MINISTÉRIO PÚBLICO DEFERAL. EXECUÇÃO PENAL. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM. HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. REVISÃO JURISPRUDENCIAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. Em recente mudança de orientação jurisprudencial, esta egrégia Quinta Turma, por unanimidade de votos, no julgamento do HC 613.268/SP, passou a entender que ao reincidente não específico em crime hediondo não podem ser exigidos os percentuais de cumprimento da pena previstos no art. 126, incisos VI e VII, da Lei de Execução Penal -LEP.
+2. O Direito Penal e a Execução penal não comportam a utilização da analogia ou mesmo interpretação extensiva em desfavor do acusado ou do recuperando.
+3. Nessa ordem de ideias, no caso concreto, o paciente cumpre pena pelo crime de tráfico de drogas, sua condenação anterior é por crime distinto, sendo, pois, é reincidente genérico, impõe-se a aplicação do percentual equivalente ao que é previsto para o primário - 40%.
+4. Agravo regimental desprovido.
+VOTO
+A decisão impugnada deve ser mantida por seus próprios fundamentos.
+Em recente mudança de orientação jurisprudencial, esta egrégia Quinta Turma, por unanimidade de votos, no julgamento do HC 613.268/SP, deu provimento ao agravo regimental, concedendo habeas corpus de ofício para que seja retificado o cálculo de pena, fazendo constar o percentual de 40% para fins de progressão de regime prisional, nos termos da ementa transcrita na decisão impugnada.
+Desse modo, ambas as Turmas com competência para matéria penal no Superior Tribunal de Justiça possuem orientação consolidada no sentido de que o condenado por crime hediondo e reincidente em crime comum, deve resgatar, no mínimo, 40% da pena de prisão para que, preenchidos os demais requisitos legais, tenha direito à progressão de regime.
+Destaque-se a impossibilidade de analogia ou mesmo interpretação extensiva em desfavor do acusado e, no caso da Execução Penal, do recuperando, não mais sendo possível exigir do paciente no caso em tela cumprimento de 60% da pena corporal.
+Em reforço à jurisprudência transcrita na decisão impugnada trago as seguintes ementas:
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO PENAL. LEI 13.964/2019 (PACOTE ANTICRIME). PROGRESSÃO DE REGIME. PACIENTE CONDENADO POR TRÁFICO DE DROGAS. REINCIDÊNCIA EM CRIME COMUM. HIPÓTESE NÃO ABARCADA PELA NOVATIO LEGIS. ANALOGIA IN BONAM PARTEM. CUMPRIMENTO DE 40% DA PENA. REVISÃO JURISPRUDENCIAL. AGRAVO REGIMENTAL PROVIDO.
+CONCESSÃO DE HC DE OFÍCIO.
+1. Em recente mudança de orientação jurisprudencial, esta egrégia Quinta Turma, por unanimidade de votos, no julgamento do HC 613.268/SP, deu provimento ao agravo regimental, concedendo habeas corpus de ofício para que seja retificado o cálculo de pena, fazendo constar o percentual de 40% (quarenta por cento) para fins de progressão de regime prisional, nos termos da ementa a seguir transcrita, por entender que inexiste na novatio legis (a nova redação dada ao art. 112 da Lei de Execução Penal  LEP) percentual a disciplinar a progressão de regime ora pretendida, pois os percentuais de 60% e 70% foram destinados aos reincidentes específicos.
+2. Nessa ordem de ideias, no caso concreto, o paciente cumpre pena pelo crime de tráfico de drogas, sua condenação anterior é por crime distinto, sendo, pois, é reincidente genérico, impõe-se a aplicação do percentual equivalente ao que é previsto para o primário - 40%.
+3. Agravo regimental provido. Habeas corpus concedido,de ofício, para que a transferência do paciente ao regime menos rigoroso observe, quanto ao requisito objetivo, o cumprimento de 40% da pena privativa de liberdade a que condenado, salvo se cometida falta grave.
+(AgRg no HC 609.319/SP, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, DJe 1º/3/2021).
+AGRAVO REGIMENTAL EM HABEAS CORPUS CONCEDIDO. EXECUÇÃO PENAL. CRIME HEDIONDO. PROGRESSÃO DE REGIME. APENADO REINCIDENTE GENÉRICO (NÃO ESPECÍFICO). REQUISITO OBJETIVO. LEI N. 13.964/2019 (PACOTE ANTICRIME). LACUNA NA NOVA REDAÇÃO DO ART. 112 DA LEP. INTERPRETAÇÃO IN BONAM PARTEM. JURISPRUDÊNCIA CONSOLIDADA.
+1. A Lei n. 13.964/2019 (Pacote Anticrime) revogou o art. 2º, § 2º, da Lei n. 8.072/1990, dispositivo o qual não fazia diferenciação entre a reincidência específica ou genérica para a progressão de regime, estabeleceu novos lapsos para progressão de regime e modificou o art. 112 da Lei de Execução Penal. A norma é expressa ao afirmar que a porcentagem (60%) deve ser aplicada aos condenados reincidentes em crimes hediondos ou equiparados.
+2. No caso, como a situação atual do ora agravado (sentenciado pelo delito de tráfico de drogas, tendo sido reconhecida sua reincidência devido a condenações definitivas anteriores pela prática de crimes comuns) não se ajusta expressamente a nenhuma das hipóteses da nova redação do referido art. 112, não há como aplicar de forma extensiva e prejudicial ao ora o percentual de 60%. Ante a omissão legislativa e o uso da analogia in bonam partem, é aplicável o percentual de 40%, previsto no inciso V. Precedentes de ambas as Turmas da Terceira Seção.
+3. Agravo regimental improvido.
+(AgRg no HC 618.405/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, DJe 5/3/2021).
+Ante o exposto, voto no sentido de negar provimento ao presente Agravo Regimental nohabeas corpus.
