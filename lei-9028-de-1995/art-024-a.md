@@ -1,0 +1,2 @@
+Art. 24-A. A União, suas autarquias e fundações, são isentas de custas e emolumentos e demais taxas judiciárias, bem como de depósito prévio e multa em ação rescisória, em quaisquer foros e instâncias.
+Parágrafo único. Aplica-se o disposto neste artigo a todos os processos administrativos e judiciais em que for parte o Fundo de Garantia do Tempo de Serviço - FGTS, seja no pólo ativo ou passivo, extensiva a isenção à pessoa jurídica que o representar em Juízo ou fora dele.

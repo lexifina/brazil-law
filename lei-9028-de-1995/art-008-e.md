@@ -1,0 +1,2 @@
+Art. 8º-E. É criada, na Procuradoria-Geral da União, a Coordenadoria de Ações de Recomposição do Patrimônio da União, com a finalidade de recuperar perdas patrimoniais sofridas pela União, à qual incumbe também a execução de títulos judiciais e extrajudicias, inclusive os expedidos pelo Tribunal de Contas da União.
+Parágrafo único. As demais Procuradorias da União poderão ter unidades com semelhantes atribuições, conforme dispuser ato do Advogado-Geral da União.
