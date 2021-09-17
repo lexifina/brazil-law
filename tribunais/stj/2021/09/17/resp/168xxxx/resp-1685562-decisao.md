@@ -1,0 +1,28 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por CARLOS ROBERTO SOUZA FILHO em face de decisão que não admitiu recurso especial. (fls. 667, e-STJ)O apelo nobre (art. 105, III, "a" e "c", da CF/88) desafia acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo/SP, assim ementado, no que interessa (fl. 579/591, e-STJ):
+(..) APELAÇÃO. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. AÇÃO DE COBRANÇA REGRESSIVA AJUIZADA PELOS FIADORES. IMÓVEL DESOCUPADO. NULIDADE DA SENTENÇA POR ILEGITIMIDADE "AD CAUSAM". NÃO CONFIGURAÇÃO. LITISCONSÓRCIO PASSIVO NECESSÁRIO. DESCARATERIZAÇÃO. PRELIMINAR REJEITADA.
+Os fiadores pagaram a dívida do afiançado. Cuida-se de responsabilidade solidária. Assim, estes fiadores se sub-rogaram nos direitos dos credores e, nesta condição, têm a faculdade de ajuizar a ação regressiva em face de quem lhes convier. Inexiste, pois, na espécie, o propalado litisconsórcio passivo necessário.
+(..)
+APELAÇÃO. LOCAÇÃO DE IMÓVEL NÃO RESIDENCIAL. AÇÃO DE COBRANÇA REGRESSIVA AJUIZADA PELOS FIADORES. IMÓVEL DESOCUPADO. SUB-ROGAÇÃO "EX LEGE" DOS FIADORES NOS DIREITOS DO CREDOR. BEM DE FAMÍLIA. INOPONIBILIDADE. AFASTADA A IMPENHORABILIDADE DO BEM DE FAMÍLIA. INOPONIBILIDADE. AFASTADA A IMPENHORABILIDADE DO BEM DO DEVEDOR. RECURSO IMPROVIDO.
+Os fiadores que solvem a obrigação dos locatários sub-rogam-se nos direitos de credor. Logo, de acordo com o disposto no artigo 3º, VII, da Lei n.º 8009/90, incabível se revela a arguição promovida pelos devedores que formula a impenhorabilidade do bem de família."
+Opostos embargos de declaração (fls. 594/595) esses foram rejeitados às fls. 598/603.
+Nas razões do recurso especial, o ora agravante aponta violação dos artigos 1º, "caput"; 3º, VII, da Lei n.º 8.009/90.
+Alega, em resumo, que "(..) se a Lei Federal de 8.009/1990 não prevê expressamente a hipótese de sub-rogação da dívida de fiança locatícia paga pelo fiador em benefício do locatário, o v. acórdão não pode permitir a sub-rogação, mesmo que se encontre prevista no Código Civil, porque a norma do Código Civil não está reproduzida na Lei Federal 8.009/1990." Cita, em favor de sua tese recursal, precedentes desta eg. Corte Superior. (fls. 609/629)
+Em juízo de admissibilidade, negou-se seguimento ao reclamo, daí o agravo, buscando destrancar o processamento daquela insurgência.
+Apresentada contraminuta às fls. 685/690, e-STJ.
+Distribuídos os autos ao presente signatário, num primeiro exame acerca da controvérsia, determinou-se, com o escopo de permitir uma melhor análise da matéria, a sua conversão em recursos especiais, sem prejuízo do ulterior juízo definitivo de admissibilidade do apelo nobre. (fls. 697/698)
+É o relatório.
+Decisão.
+Consoante destacado na decisão de fls. 697/698, a conversão em recurso especial, para melhor exame da controvérsia, não induz juízo definitivo de admissibilidade do recurso especial, de modo que a resolução da lide, consoante jurisprudência pacífica deste Superior Tribunal de Justiça, permite a incidência do enunciado da Súmula 568/STJ.
+1. Rememora-se dos autos que Maria Luciene de Barros Fuster e OUTROS ajuizaram, em face do ora recorrente, uma ação regressiva tendo em conta a execução de obrigações decorrentes de contrato de locação em que eram fiadores. O r. juízo de origem, julgou procedente a demanda, afastando-se, no que importa, a alegação tecida pelo réu - ora recorrente - de que o bem imóvel objeto de arresto nos presentes autos, seria impenhorável. (fls. 327/331) Interposto recurso de apelação, o eg. Tribunal de origem, por unanimidade de votos, negou-lhe provimento. Daí a interposição do presente recurso especial.
+E, na espécie, a orientação jurisprudencial desta eg. Corte Superior caminha no sentido de que o fiador que paga integralmente o débito objeto de contrato de locação fica sub-rogado nos direitos do credor originário (locador), mantendo-se todos os elementos da obrigação primitiva, inclusive no que se refere à inoponibilidade da alegação de impenhorabilidade do alegado bem de família.
+Nesse sentido, confiram-se: REsp 1.769.522/SP, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, DJe 15.3.2019; REsp 1432999/SP, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 16/05/2017, DJe 25/05/2017; REsp 1472317/RJ, Rel. Min. LUIS FELIPE SALOMÃO, DJe de 03/05/2019; REsp 1081963/SP, Rel. Min. JORGE MUSSI, DJe de 03/08/2009, este último assim ementado:
+AÇÃO REGRESSIVA. FIADOR SUB-ROGADO NOS DIREITOS DO CREDOR DA LOCAÇÃO. PENHORA SOBRE IMÓVEL DE MORADIA DO LOCATÁRIO. IMPOSSIBILIDADE.
+1. A teor do artigo 1º da Lei n. 8.009/90, o bem imóvel destinado à moradia da entidade familiar é impenhorável. Excetua-se a obrigação decorrente de fiança concedida em contrato de locação, isto é, autoriza-se a constrição de imóvel pertencente a fiador.
+2. Sub-roga-se o fiador nos direitos do locador tanto nos privilégios e garantias do contrato primitivo quanto nas limitações (art. 346 e 831, CC; art. 3º, VII, Lei n. 8.009/90).
+3. A transferência dos direitos inerentes ao locador em razão da sub-rogação não altera prerrogativa inexiste para o credor originário. O locatário não pode sofrer constrição em imóvel que reside, seja em ação de cobrança de débitos locativos, seja em regressiva.
+4. Recurso especial não provido. (grifos nossos)
+Irretocável, portanto, a conclusão adotada pelo eg. Tribunal de origem porquanto em sintonia com a jurisprudência deste Superior Tribunal de Justiça, a teor do enunciado da Súmula 83/STJ.
+2. Do exposto, com fundamento no art. 932, IV, "a", do NCPC c/c Súmula 568/STJ, nega-se provimento ao recurso especial.
+Publique-se. Intimem-se.
+EMENTA
