@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso em habeas corpus interposto em face de acórdão assim ementado (fl. 87):
+EMENTA: HABEAS CORPUS - HOMICÍDIO - IMPETRAÇÃO ANTERIOR - MESMOS FUNDAMENTOS - MERA REITERAÇÃO - CONHECER PARCIALMENTE DO WRIT - INAPLICABILIDADE DE MEDIDAS CAUTELARES DIVERSAS DA PRISÃO - TRANSFERÊNCIA DO CUSTODIADO PARA A ACADEMIA DE POLÍCIA DO ESTADO DE MINAS GERAIS - INVIABILIDADE. Verificada a ineficácia da aplicação de medidas cautelares diversas da prisão para o resguardo da ordem pública, evidenciada pela gravidade em concreto do delito, a manutenção da segregação cautelar é medida que se impõe. Lado outro, o pedido de transferência do Paciente para a Academia de Polícia do Estado de Minas Gerais, por não ser estabelecimento penal, é inviável e não pode ser apreciado por essa Turma Julgadora.
+Consta dos autos que o recorrente foi preso em flagrante, custódia convertida em preventiva, sendo denunciado como incurso no art. 121, § 2º, II e IV, do Código Penal, e art. 16, § 1º, I, da Lei 10.826/03.
+No presente recurso, alega a defesa que há constrangimento ilegal na manutenção da prisão, "mantida pelo juízo "a quo" mesmos fundamentos, mesmo com todas as mudanças trazidas no processo."
+Sustenta que "de acordo com a novas determinações trazidas pela atual lei em vigor, é indispensável a reavaliação da prisão em 90 dias o que não tem acontecido no caso em comento", sobretudo em um contexto de pandemia.
+Aduz violação aos princípios da ampla defesa e do contraditório, pois, "Antes mesmo da denúncia a prisão do paciente havia sido decretada. Ou seja, desde o primeiro ato processual na fase em que é assegurado ao réu o direito ao contraditório a liberdade já estava cerceada".
+Requer, assim, a concessão da liberdade provisória, ainda que mediante a aplicação de medidas cautelares diversas.
+Na origem, o processo 0000708-12.2021.8.13.0411 encontra-se na fase instrutória, conforme informação processual eletrônica extraída do site do Tribunal a quo em 13/9/2021.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso (fl. 316-325).
+De início, ressalta-se que no procedimento do habeas corpus, não se permite a produção de provas, pois essa ação constitucional deve ter por objeto sanar ilegalidade verificada de plano, por isso não é possível aferir a materialidade e a autoria delitiva. As alegações quanto a esse ponto, portanto, não devem ser conhecidas.
+No mais, verifica-se que as matérias referentes à violação aos princípios da ampla defesa e do contraditório, riscos da pandemia de covid-19 e reavaliação da prisão não foram objeto de análise pelo colegiado do Tribunal de origem, conforme cópia de acórdão de fls. 87-96. Então, tais pontos não poderão ser conhecidos por esta Corte Superior, sob pena de indevida supressão de instância.
+Ademais, em consulta ao sítio processual desta Corte Superior, constata-se a impetração do Recurso em Habeas Corpus n. 146.326/MG, no qual consta o mesmo paciente, em que os requisitos e fundamentos da prisão preventiva já restaram analisados. O remédio constitucional citado foi desprovido em 11/5/2021, DJe de 13/5/2021, configurando mera reiteração de writ anterior.
+Ante o exposto, não conheço do recurso em habeas corpus.
+Publique-se.
+Intimem-se.
