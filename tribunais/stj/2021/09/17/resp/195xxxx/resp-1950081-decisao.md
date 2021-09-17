@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de recurso especial interposto pela RANDOLFO JOSÉPEREIRA, com respaldo na alínea "a" do permissivo constitucional, contra acórdão do Tribunal de Justiçado Estado de Minas Geraisassim ementado (e-STJ fl. 352):
+EMENTA: APELAÇÃO CÍVEL - AÇÃO DE OBRIGAÇÃO DE FAZER C/C INDENIZAÇÃO POR DANOS MORAIS E MATERIAS - CONCURSO PÚBLICO - NÍVEL TÉCNICO - APRESENTAÇÃO DE DIPLOMA DE TECNÓLOGO - ESPECIFICAÇÃO EDITALÍCIA - INAPTIDÃO E ELIMINAÇÃO DE CANDIDATO - PRESUNÇÃO DE VERACIDADE DO ATO ADMINISTRATIVO - PRETENSÃO DE INVALIDAÇÃO - AUSÊNCIA DE COMPROVAÇÃO DE VÍCIO - IMPROCEDÊNCIA MANTIDA - RECURSO NÃO PROVIDO.
+- O ônus da prova incumbe ao autor quanto aos fatos constitutivos de seu direito, nos termos do art. 373, I, do CPC (art. 333, I, do CPC/1973).
+- Os atos administrativos revestem-se de presunção de legitimidade e veracidade, razão pela qual ao interessado em sua anulação impõe-se a produção de prova robusta das alegações tendentes a inquiná-lo.
+- O Edital de regência do certame faz lei entre as partes, razão pela qual, existindo a exigência de diploma de curso técnico específico para o cargo pretendido pelo recorrente, solução não há senão a improcedência do pedido.
+- Recurso não provido. Sentença mantida.
+Rejeitados os aclaratórios (e-STJ fls. 374/382).
+Nas suas razões, a parte recorrente apontaviolação dos arts. 489, § 1º, IV,1.022 do CPC/2015 e do art.2º, caputeparágrafoúnico da Lei n. 4.717/1965,sustentando negativa de prestação jurisdicional, bem como que o diploma de nível superior apresentado excederia, na mesma área, a qualificação exigida para o emprego público pretendido.
+Contrarrazões às e-STJ fls. 180/212.
+Juízo positivo de admissibilidade pelo Tribunal de origem àe-STJ fl. 214
+Passo a decidir.
+A irresignação recursal não merece prosperar.
+Em relação aos arts.489, § 1º, IV, e 1.022 do CPC/2015, esta Corte tem entendido que se aplica o óbice da Súmula 284 do STF quando a alegação de ofensa se faz de forma genérica, sem a demonstração exata dos pontos pelos quais o acórdão se fez omisso, contraditório ou obscuro (AgRg no AREsp 7 19.983/PE, rel. Ministro SÉRGIO KUKINA, Primeira Turma, julgado em 19/04/2016, DJe 26/04/2016 e AgRg no AREsp 811.706/PR, rel. Ministra DIVA MALERBI (desembargadora convocada do TRF da 3a Região), Segunda Turma, julgado em 07/04/2016, DJe 15/04/2016).
+No que toca ao art. 2º, caput e parágrafo único, da Lei n. 4.717/1965, registre-se que o presente apelo nobre carece do requisito constitucional do prequestionamento.
+Conquanto não seja exigida a menção expressa do dispositivo de lei federal, a admissibilidade do recurso na instância excepcional pressupõe que a Corte de origem tenha se manifestado sobre a tese jurídica apontada pelo recorrente. Esse é o entendimento pretoriano consagrado na edição da Súmula 282 do STF, in verbis : "É inadmissível o recurso extraordinário, quando não ventilada, na decisão recorrida, a questão federal suscitada."
+Ademais, entendeuo Tribunal a quoque " .. o Edital do certame é claro ao dispor em seu subitem 4.8 como requisito básico para admissão que "não serão aceitos cursos de Tecnólogo ou Licenciatura, exceto aqueles cursos já explicitados nos requisitos dos cargos de Analista de Sistemas Júnior - Engenharia de Software, Analista de Sistemas Júnior - Infraestrutura, Analista de Sistemas Júnior - Processos de Negócio e Analista Ambiental Júnior - Biologia""(e-STJ fl. 359).
+Dessarte, verifica-se, no acórdão recorrido, que o Tribunal de origem decidiu a questão ora ventilada com base na realidade que delineou à luz do suporte fático-probatório constante nos autos, cuja revisão é inviável no âmbito do recurso especial, ante o óbice estampado na Súmula 7 do STJ.
+Ante o exposto, com base no art. 255, § 4º, I, do RISTJ, NÃO CONHEÇO do recurso especial.
+Caso exista nos autos prévia fixação de honorários sucumbenciais pelas instâncias de origem, majoro, em desfavor da parte recorrente, em 10% (dez por cento) o valor já arbitrado (na origem), nos termos do art. 85, § 11, do CPC/2015, observados, caso aplicáveis os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo, bem como os termos do art. 98, § 3º, do mesmo diploma legal.
+Publique-se. Intimem-se.
