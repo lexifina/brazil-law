@@ -1,0 +1,30 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por MARIA LUCIA GOMES DOS SANTOS, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra acórdão deste Superior Tribunal de Justiça, assim ementado (e-STJ fl. 707):
+AGRAVO INTERNO. AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. COMPLEMENTAÇÃO DE PENSÃO POR MORTE. EX-COMPANHEIRA. IMPOSSIBILIDADE. RESOLUÇÃO PETROS 49/1997. INSCRIÇÃO. DEPENDENTE. AUSÊNCIA. PRÉVIA FONTE DE CUSTEIO. DESEQUILÍBRIO ATUARIAL.
+1. No regime fechado de previdência privada, não se admite a concessão de benefício algum, sem a formação da prévia fonte de custeio, de forma a evitar o desequilíbrio atuarial nos planos de benefícios. Precedentes da Segunda Seção deste STJ.
+2. A Resolução Petros 49/1997 foi editada com a finalidade de permitir a formação de fonte de custeio para pagamento de pensão por morte a dependente não inscrito, instituindo contribuição adicional a ser paga pelos assistidos que já estivessem no gozo dos proventos complementares.
+3. Sendo incontroverso nos autos que o falecido não formalizou a inscrição da ex-companheira no plano de benefícios ao qual estava vinculada, é inviável o pagamento de complementação de pensão por morte, por ausência de prévia formação da reserva matemática.
+4. Agravo interno a que se nega provimento.
+Interpostos embargos de divergência, foram rejeitados (e-STJ fls. 812-814), decisão mantida ante o desprovimento do respectivo agravo interno em acórdão assim ementado (e-STJ fl. 889):
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PREVIDÊNCIA PRIVADA. PENSÃO POR MORTE. SUPLEMENTAÇÃO. CONCESSÃO INICIAL. DEPENDENTE. ACÓRDÃOS EMBARGADO E PARADIGMA. SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO NÃO COMPROVADO.
+1. A ausência de similitude fática entre os arestos confrontados impõe a inadmissão dos embargos de divergência. Nos termos dos arts. 1.043, § 4º, do CPC/2015 e 266, § 4º, do RISTJ, o cabimento dos embargos de divergência restringe-se às hipóteses em que restar configurada a diversidade de tratamento jurídico aplicado por esta Corte Superior a situações fáticas semelhantes.
+2. Agravo interno não provido.
+Sustenta a recorrente a existência de repercussão geral e violação ao art. 5º, inciso XXXVI, da Constituição Federal.
+Afirma que, vindo a óbito o seu companheiro à época em que vigorava o Regulamento de Benefícios de 1975 da PETROS, o qual concedia direito à pensão por morte ao companheiro ou cônjuge sobrevivente, independentemente de inclusão no rol de beneficiários, a imposição de tal formalidade constitui lesão a direito adquirido.
+Diz que o acórdão guerreado, além de contrariar a própria jurisprudência do Superior Tribunal de Justiça, nega aplicação à tese de repercussão geral firmada pelo Excelso Pretório no RE 603.580, na qual se estabeleceu que os benefícios previdenciários serão regidos pelas normas vigentes no momento do falecimento do instituidor da pensão.
+Requer, ao final, a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+As contrarrazões foram apresentadas às fls. 922-935.
+É o relatório.
+Pacificou-se no Supremo Tribunal Federal o entendimento de que a apontada afronta aos princípios do contraditório, da ampla defesa e do devido processo legal, bem como ao ato jurídico perfeito, ao direito adquirido e aos limites da coisa julgada, quando dependente da prévia análise de normas infraconstitucionais, configura ofensa reflexa ao texto constitucional.
+Nessa esteira é o Tema 660/STF, cujo acórdão paradigma recebeu a seguinte ementa:
+Alegação de cerceamento do direito de defesa. Tema relativo à suposta violação aos princípios do contraditório, da ampla defesa, dos limites da coisa julgada e do devido processo legal. Julgamento da causa dependente de prévia análise da adequada aplicação das normas infraconstitucionais. Rejeição da repercussão geral.
+(ARE 748.371 RG, Relator(a): Min. GILMAR MENDES, julgado em 06/06/2013, ACÓRDÃO ELETRÔNICO DJe-148 DIVULG 31-07-2013 PUBLIC 01-08-2013)
+No mesmo vértice:
+AGRAVO INTERNO. RECURSO EXTRAORDINÁRIO. FUNDAMENTAÇÃO A RESPEITO DA REPERCUSSÃO GERAL. INSUFICIÊNCIA. VIOLAÇÃO AO DEVIDO PROCESSO LEGAL, AO DIREITO ADQUIRIDO, AO ATO JURÍDICO PERFEITO E À COISA JULGADA. OFENSA CONSTITUCIONAL REFLEXA. (..) 3. O STF, no julgamento do ARE 748.371-RG/MT (Rel. Min. GILMAR MENDES, Tema 660), rejeitou a repercussão geral da violação ao direito adquirido, ao ato jurídico perfeito, à coisa julgada ou aos princípios da legalidade, do contraditório, da ampla defesa e do devido processo legal, quando se mostrar imprescindível o exame de normas de natureza infraconstitucional. 4. Tendo o acórdão recorrido solucionado as questões a si postas com base em preceitos de ordem infraconstitucional, não há espaço para a admissão do recurso extraordinário, que supõe matéria constitucional prequestionada explicitamente. 5. Agravo Interno a que se nega provimento. Na forma do art. 1.021, §§ 4º e 5º, do Código de Processo Civil de 2015, em caso de votação unânime, fica condenado o agravante a pagar ao agravado multa de um por cento do valor atualizado da causa, cujo depósito prévio passa a ser condição para a interposição de qualquer outro recurso (à exceção da Fazenda Pública e do beneficiário de gratuidade da justiça, que farão o pagamento ao final).
+(RE 1276856 AgR, Relator(a): ALEXANDRE DE MORAES, Primeira Turma, julgado em 15/09/2020, PROCESSO ELETRÔNICO DJe-234 DIVULG 22-09-2020 PUBLIC 23-09-2020)
+Na espécie, a suposta ofensa à garantia do direito adquirido depende da análise dos arts. 7º; 14; 18, §§ 1º, 2º, e 3º, da Lei Complementar n. 1 09/2001, além da Resolução n. 49/1997 da PETROS, razão pela qual incide o Tema 660/STF.
+Ante o exposto, com fundamento no art. 1.030, inciso I, alínea "a", do Código de Processo Civil, nega-se seguimento ao recurso extraordinário.
+Publique-se.
+Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INCLUSÃO DE BENEFICIÁRIO EM PLANO DE PREVIDÊNCIA COMPLEMENTAR. COMPLEMENTAÇÃO DE PENSÃO POR MORTE. OFENSA À GARANTIA DO DIREITO ADQUIRIDO. TEMA 660/STF. AUSÊNCIA DE REPERCUSSÃO GERAL. SEGUIMENTO NEGADO.
