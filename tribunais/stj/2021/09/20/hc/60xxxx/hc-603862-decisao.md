@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar interposto em favor de WILLIAN BATISTA DE OLIVEIRA no qual se aponta como autoridade coatora o Tribunal de Justiça do Estado de São Paulo (HC n. 2068825-64.2020.8.26.0000).
+Depreende-se dos autos que o paciente foi condenado à pena de 7 anos de reclusão, em regime inicialmente fechado, e ao pagamento de 700 dias-multa, pela prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006, sem direito de recorrer em liberdade (e-STJ fls. 26/31).
+Segundo o apurado, o acusado e osoutros corréus, "em concurso de pessoas, sem autorização e em desacordo com determinação legal ou regulamentar, para fins de comercialização e entrega a terceiras pessoasreceberam e guardaram, 151 (cento e cinquenta e uma) porções de maconha, pesando 517,93g  quinhentos e dezessete gramas e noventa e três centigramas , 83 (oitenta e três) pedras de "crack", pesando 23,53g  vinte e três gramas e cinquenta e três centigramas , e 237 (duzentos e trinta e sete) supositórios com cocaína, pesando 345,69g  trezentos e quarenta e cinco gramas e sessenta e nove centigramas " - grifei (e-STJ fl. 26).
+O pedido de concessão da liberdade foi indeferido em primeiro grau (e-STJ fl. 186).
+Impetrado habeas corpus na origem, o Tribunal local denegou a ordem (e- STJ fls. 32/36).
+Daí o presente writ, no qual a defesa aponta constrangimento ilegal decorrente da não concessão da prisão domiciliar ao réu.
+Sustenta que o paciente é portador de tuberculose e, portanto, enquadra-se no grupo de risco para a Covid-19, razão pela qual, nos termos do art. 318, II, do CPP, faz jus à concessão do benefício pleiteado. Invoca, assim, a Recomendação n. 62/2020 do CNJ.
+Alega que as instalações prisionais são precárias e inadequadas às necessidades de higiene e de salubridade, sendo incapazes de evitar a contaminação e a disseminação de doenças.
+Ressalta, portanto, a necessidade e urgência da "substituição da pena privativa de liberdade no estabelecimento prisional para prisão domiciliar da pessoa presa, que se enquadra em grupo de risco do COVID-19, ora paciente" (e-STJ fl. 21).
+Dessa forma, requer, liminarmente e no mérito, a substituição da pena privativa de liberdade pela prisão domiciliar, com a consequente expedição do competente alvará de soltura (e-STJ fls. 3/22).
+Liminar indeferida às e-STJ fls. 222/224.
+Prestadas as informações, o Ministério Público Federal opinou pela denegação da ordem (e-STJ fls. 274/278).
+É o relatório.
+Decido.
+Como visto no relatório, a impetração busca a concessão da prisão domiciliar ao paciente ou da liberdade provisória, ante a atual pandemia de Covid-19.
+Todavia, não verifico a existência do constrangimento ilegal alegado.
+Confira-se, no que interessa, o que consta do acórdão impugnado (e- STJ fl. 35):
+Nos termos do inciso I, "b", do supracitado artigo, inexiste comprovação de que o paciente se encontra em unidade com superlotação e desprovida de equipe de saúde, além de não se enquadrar nos demais incisos do referido dispositivo.
+Ademais, o relatório de inspeção de fl. 62, juntado a fim de comprovar a superlotação do estabelecimento prisional, foi elaborado no ano de 2015, ou seja, há mais de cinco anos. Não demonstra, portanto, a situação atual do estabelecimento.
+Aliás, ao que consta da decisão impugnada fl. 150, "não há provas nos autos atestando a enfermidade do réu, apenas autodeclaração prestada aos agentes penitenciários".
+Ressalte-se, ademais, que o paciente é reincidente, conforme apontado pela r.sentença (fl. 18).(Grifei.)
+Consta do art. 5º, III, da Recomendação n. 62/2020 do Conselho Nacional de Justiça o seguinte:
+Art. 5º Recomendar aos magistrados com competência sobre a execução penal que, com vistas à redução dos riscos epidemiológicos e em observância ao contexto local de disseminação do vírus, considerem as seguintes medidas:
+ ..
+III - concessão de prisão domiciliar em relação a todos as pessoas presas em cumprimento de pena em regime aberto e semiaberto, mediante condições a serem definidas pelo Juiz da execução.
+Como se vê, a aludida recomendação, no ponto, diz respeito aos presos em regime aberto e semiaberto, de modo que o paciente não se enquadra na excepcionalidade mencionada, já que se encontra no regime fechado, não podendo ser ignorado que cumpre a alta pena de 7anos de reclusão, bem como o asseverado pelo Tribunal de origem no sentido de que"inexiste comprovação de que o paciente se encontra em unidade com superlotação e desprovida de equipe de saúde" (e-STJ fl. 35) e de que ""não há provas nos autos atestando a enfermidade do réu, apenas autodeclaração prestada aos agentes penitenciários"" (e-STJ fl. 35).
+É de relevo mencionar, por oportuno, que o Poder Público não se quedou inerte diante da situação. O Conselho Nacional de Justiça publicou a Recomendação n.62/2020, pela qual adotou medidas preventivas à propagação da infecção pelo novo coronavírus (Covid-19) no âmbito dos sistemas de justiça penal e socioeducativo. O Ministério da Justiça e o Ministério da Saúde também publicaram a Portaria Interministerial n. 7, adotando uma série de medidas para o enfrentamento da situação emergencial.
+A propósito do tema, pontuou com maestria o Ministro Rogerio Schietti que "a crise do novo coronavírus deve ser sempre levada em conta na análise de pleitos de libertação de presos, mas, ineludivelmente, não é um passe livre para a liberação de todos, pois ainda persiste o direito da coletividade em ver preservada a paz social, a qual não se desvincula da ideia de que o sistema de justiça penal há de ser efetivo, de sorte a não desproteger a coletividade contra os ataques mais graves aos bens juridicamente tutelados na norma penal" (HC n. 567.408/RJ, DJe de 23/3/2020).
+O entendimento exarado pelo Ministério Público Federal vai ao encontro da conclusão ora alcançada. Eis a ementa do aludido parecer (e-STJ fl. 274):
+HABEAS CORPUS. TRÁFICO DE DROGAS (ART. 33, CAPUT, DA LEI 11.343/2006).PLEITO DE CONCESSÃO DE PRISÃO DOMICILIAR EM RAZÃO DA PANDEMIA DO CORONAVÍRUS (COVID-19).IMPOSSIBILIDADE. AUSÊNCIA DE COMPROVAÇÃO DE QUE O PACIENTE INTEGRA O GRUPO DE RISCO.PRISÃO DOMICILIAR. ART. 318, INCISO II, DO CÓDIGO DE PROCESSO PENAL. PACIENTE QUE ALEGA SER PORTADOR DE TUBERCULOSE.AUSÊNCIA DE COMPROVAÇÃO DA EXTREMA DEBILIDADE EM RAZÃO DE GRAVE DOENÇA.PRISÃO PREVENTIVA. RÉU REINCIDENTE E PORTADOR DE MAUS ANTECEDENTES. APREENSÃO DE RELEVANTE QUANTIDADE DE ENTORPECENTES.NECESSIDADE DA SEGREGAÇÃO CAUTELAR PARA GARANTIA DA ORDEM PÚBLICA.PARECER PELA DENEGAÇÃO DA ORDEM.
+Por fim, quanto ao pleito de liberdade provisória, informações extraídas do endereço eletrônico do Tribunal de origem noticiam a superveniência do trânsito em julgado da condenação, de modo que não há mais falar em prisão preventiva, mas sim efetivo cumprimento de pena.
+À vista do exposto, denego a ordem.
+Publique-se. Intimem-se.
