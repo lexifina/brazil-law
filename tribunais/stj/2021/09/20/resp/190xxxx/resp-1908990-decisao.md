@@ -1,0 +1,39 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto por Armando José de Medeiros, com fundamento nas alíneas "a" e "c" do inciso III do art. 105 da CF/1988, contra acórdão do Tribunal Regional Federal da 3ª Regiãoassim ementado (e-STJ, fls. 384/385):
+PREVIDENCIÁRIO. AGRAVO LEGAL. APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO. DECISÃO FUNDAMENTADA. RECURSO IMPROVIDO.
+- Agravo legal da Autarquia Federal e da parte autora, insurgindo -se contra decisão que reformou parcialmente a sentença, a qual julgou improcedente o pedido da autora.
+- É possível o reconhecimento da atividade especial nos interstícios de: - 13.07.1992 a 16.01.2009 - exercício da atividade de oficial encanador, exposto a agentes nocivos do tipo biológico; como bactérias, fungos, parasitas, bacilos, vírus e ricketesias, dentre outros, de maneira habitual e permanente, conforme laudo técnico.
+- 01.01.1978 a 15.07.1985 - exposição ao agente nocivo ruído, superior a 90 dB(A), conforme formulário e laudo pericial; - 04.05.1987 a 04.11.1987. 14.03.1988 a 30.04.1988 e 05.05.1988 a 20.07.1989 - exposição ao agente nocivo ruído, de 85dB(A), 94,6 dB(A) e 95,3 dB(A), respectivamente, conforme perfil profissiográfico previdenciário.
+- O autor faz jus ao cômputo da atividade especial, com a respectiva conversão, nos interstícios acima mencionados.
+- O requerente faz jus à revisão do valor da renda mensal inicial do benefício de aposentadoria por tempo de serviço. O termo inicial deve ser alterado para a data da citação (27.09.2010), diante da necessidade de produção de prova pericial em juízo.
+- A correção monetária e os juros moratórios incidirão nos termos do Manual de Orientação de Procedimentos para os Cálculos na Justiça Federal em vigor por ocasião da execução do julgado. Os juros moratórios serão devidos a contar da citação e até a data da conta de liquidação que deu origem ao precatório ou à Requisição de Pequeno Valor - RPV.
+- Quanto à verba honorária, predomina nesta Colenda Turma a orientação, segundo a qual, nas ações de natureza previdenciária, a verba deve ser mantida em 10% sobre o valor da condenação, até a sentença (Súmula nº 111 do STJ).
+- Decisão monocrática com fundamento no artigo 557, caput e § 1º-A, do CPC, que confere poderes ao relator para decidir recurso manifestamente improcedente, prejudicado, deserto, intempestivo ou contrário à jurisprudência dominante do respectivo Tribunal, do Supremo Tribunal Federal ou de Tribunal Superior, sem submetê-lo ao órgão colegiado, não importa em infringência ao CPC ou aos princípios do direito.
+- E pacífico o entendimento nesta E. Corte, segundo o qual não cabe alterar decisões proferidas pelo relator, desde que bem fundamentadas e quando não se verificar qualquer ilegalidade ou abuso de poder que possa gerar dano irreparável ou de difícil reparação.
+- Não merece reparos a decisão recorrida, que deve ser mantida, porque calcada em precedentes desta E. Corte e do C. Superior Tribunal de Justiça.
+- Agravos improvidos.
+O recorrente alega violação dos arts. 49, II, e 54, da Lei n. 8.213/1991.
+Defende a fixação do termo inicial da data do requerimento administrativo da revisão do benefício.
+Admitido o recurso especial na origem (e-STJ, fl. 497), foram os autos remetidos a esta Corte de Justiça.
+É o relatório.
+O Tribunal de origem decidiu sobre o termo inicial do benefício previdenciário sob a seguinte fundamentação (e-STJ, fl. 380):
+O termo inicial deve ser alterado para a data da citação (27.09.2010, fls. 83), diante da necessidade de produção de prova pericial em juízo.
+No caso, verifica-se que o acórdão recorrido divergiu do entendimento desta Corte Superior segundo o qual o termo inicial dos efeitos financeiros da revisão do benefício deve ser da data do requerimento administrativo, momento em que implementou os requisitos legais, ainda que o tempo de serviço tenha sido reconhecido em momento posterior.
+A propósito:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. REVISÃO DO ATO DE CONCESSÃO. BENEFÍCIO PREVIDENCIÁRIO. INCIDÊNCIA DO ART. 103 DA LEI 8.213/1991. DECADÊNCIA NÃO CONFIGURADA. CONVERSÃO DE APOSENTADORIA POR TEMPO DE CONTRIBUIÇÃO EM APOSENTADORIA ESPECIAL. PROCEDÊNCIA DO PEDIDO. TERMO INICIAL DOS EFEITOS FINANCEIROS. RETROAÇÃO À DATA DO REQUERIMENTO ADMINISTRATIVO.
+1. Cinge-se a controvérsia à decadência do direito de revisão do ato de concessão de aposentadoria pelo segurado.
+2. Segundo dispõe o art. 103, caput, da Lei 8.213/1991: "É de dez anos o prazo de decadência de todo e qualquer direito ou ação do segurado ou beneficiário para a revisão do ato de concessão de benefício, a contar do dia primeiro do mês seguinte ao do recebimento da primeira prestação ou, quando for o caso, do dia em que tomar conhecimento da decisão indeferitória definitiva no âmbito administrativo".
+3. No caso dos autos, o benefício da aposentadoria por tempo de contribuição foi concedido em agosto de 2009, e a ação de revisão do ato de concessão foi ajuizada somente em 2016, não havendo que se falar em reconhecimento da decadência do direito de ação.
+4.O aresto hostilizado encontra-se em consonância com a compreensão do STJ, razão pela qual não merece reforma.
+5. Quanto ao termo inicial do benefício, o STJ orienta-se no sentido de que, caso o segurado tenha implementado os requisitos legais para a obtenção de benefício previdenciário na data em que formulou requerimento administrativo, deve ser esse o termo inicial para o benefício previdenciário, independentemente de a comprovação ter ocorrido apenas em momento posterior, ou mesmo na seara judicial.
+6. Recurso Especial não provido.
+(REsp 1.833.548/SE, Rel. Min. HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 1º/10/2019, DJe 11/10/2019).
+PREVIDENCIÁRIO. RECURSO ESPECIAL. BENEFÍCIO PREVIDENCIÁRIO. TEMPO ESPECIAL. A COMPROVAÇÃO EXTEMPORÂNEA NÃO RETIRA O DIREITO AO BENEFÍCIO, QUE SE INCORPORA AO PATRIMÔNIO JURÍDICO DO SEGURADO NO MOMENTO DO IMPLEMENTOS DOS REQUISITOS. TERMO INICIAL: DATA DO REQUERIMENTO ADMINISTRATIVO. ENTENDIMENTO PACIFICADO PELA PRIMEIRA SEÇÃO PET 9.582/RS. RECURSO ESPECIAL DO SEGURADO PROVIDO.
+1. É firme a orientação desta Corte no sentido de que a comprovação extemporânea da situação jurídica consolidada em momento anterior não tem o condão de afastar o direito adquirido do Segurado, impondo-se o reconhecimento do direito ao benefício previdenciário no momento do requerimento administrativo, quando preenchidos os requisitos para a concessão da aposentadoria.
+2. Deve-se reconhecer que nas lides previdenciárias o Segurado é hipossuficiente informacional. Tem ele maior dificuldade de acesso aos documentos que comprovam seu histórico laboral, uma vez que as empresas dificilmente fornecem esses documentos ao trabalhador na rescisão do contrato de trabalho, e muitas vezes as empresas perdem tais documentos ou encerram suas atividades, tornando impossível o acesso à documentação. Com base nessas considerações, torna-se desarrazoada a exigência rígida de apresentação documental de modo a não viabilizar a concessão do benefício ou a alterar o termo inicial, retirando do Segurado prestações que lhe são devidas.
+3. In casu, merece reparos o acórdão recorrido que, a despeito de reconhecer que o Segurado já havia implementado os requisitos para a concessão de aposentadoria na data do requerimento administrativo, determinou a data inicial do benefício em momento posterior, quando foram apresentados em juízo os documentos comprobatórios do tempo laborado em condições especiais.
+4. Recurso Especial do Segurado provido.
+(REsp 1.791.052/SP, Rel. Min. NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 21/2/2019, DJe 28/2/2019).
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ e na Súmula 568/STJ, dou provimento ao recurso especial, nos termos da fundamentação, para reconhecer a data do requerimento administrativo como termo inicial do benefício.
+Publique-se. Intimem-se.
