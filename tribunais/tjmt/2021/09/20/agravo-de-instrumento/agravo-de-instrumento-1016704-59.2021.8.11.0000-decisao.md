@@ -1,0 +1,18 @@
+Visto.
+Trata-se de Recurso de Agravo de Instrumento interposto por GILVAN BATISTA DE SOUZA, com o fito reformar a decisão que, nos autos do Embargos de Terceiro no 1017228-30.2021.8.11.0041, manejados em face de CONDOMINIO CIVIL PANTANAL SHOPPING, deferiu parcialmente o pedido liminar de tutela de urgência e realizou a conversão da restrição de circulação para restrição de transferência, sobre os seguintes veículos: VW/NOVO VOYAGE TL MBV, ano fab.: 2017, Categoria PARTICULAR, Renavam: 1111138777, Chassi 9BWDB45U3HT094888, Placa PZD2850; TOYOTA COROLLA GLI18 VCT, ano fab.: 2019, Categoria PARTICULAR, Renavam: 1178205573, Chassi 9BRBL3HE1K0181011, Placa QEY7674; CHEVROLET/S10 LTZ DD4, ano fab.: 2012, Categoria PARTICULAR, Renavam: 0050771063-0, Chassi 9BG14BMHODC454308, Placa OTX2030.
+Para tanto, aduz o agravante que o antigo proprietário, Sr. Fabrizio Ferreira de Menezes, entregou todos os documentos e transferiu imediatamente a posse (tradição) dos veículos, além de ter repassado procuração pública para que o legítimo proprietário procedesse com a regularização da situação cadastral junto aos bancos e órgãos públicos.
+Narra que a decisão de base o impediu de dispor plenamente do direito de propriedade sobre seus veículos, que, comprovadamente, demonstrou ser legítimo proprietário e possuidor.
+Pugna pela concessão da liminar de efeito ativo.
+Sem que nada mais seja necessário relatar, sigo aos fundamentos e ao final decido:
+Ao revés do efeito suspensivo, a atribuição de efeito ativo ao Recurso de Agravo de Instrumento varia tanto quanto variem os pressupostos da tutela jurisdicional perseguida.
+Como já dizia Luiz Guilherme Marinoni:
+(...) Os requisitos para concessão da tutela antecipatória variam de acordo com o contexto litigioso em que se insere o recorrente. Dependem, em suma, da espécie de tutela do direito que se quer antecipada. (Código de processo civil comentado artigo por artigo. São Paulo: Revista dos Tribunais, 2008, P. 542).
+Os Embargos de Terceiro, como cediço, são meio de defesa de quem, não sendo parte da lide, esteja na condição de proprietário ou possuidor de determinado bem, conforme disposto no artigo 674 do Código de Processo Civil, in verbis:
+Art. 674. Quem, não sendo parte no processo, sofrer constrição ou ameaça de constrição sobre bens que possua ou sobre os quais tenha direito incompatível com o ato constritivo, poderá requerer seu desfazimento ou sua inibição por meio de embargos de terceiro.
+Para o deferimento da liminar em sede de embargos de terceiro, deverá o embargante demonstrar, prima facie, o equívoco do ato judicial de constrição do patrimônio próprio.
+No caso em exame, a princípio, não se verifica prova bastante que permita a reforma imediata da decisão de base, a ponto de autorizar não apenas a circulação do veículo, na forma decidida pelo Juízo de piso, mas, também, a restrição de transferência, que certamente resultaria em risco de irreversibilidade da medida.
+O atendimento imediato da pretensão recursal almejada pelo recorrente, não apenas esgotaria o resultado final da lide, mas, também teria toda aptidão de causar danos irreversíveis à parte Embargada, ora Agravada, além de prejuízos para eventuais terceiros adquirentes dos referidos veículos.
+Assim, diante desse quadro, não há nada que se sobreponha aos fundamentos da decisão recorrida, a qual deve ser mantida na íntegra.
+Ante o exposto, NÃO ATRIBUO efeito ativo ao recurso.
+Publique-se e intimem-se, advertindo-se o agravado do prazo de 15 (quinze) dias de que dispõe para a apresentação de resposta, bem como ambas as partes das multas a que aludem os parágrafos 4o do artigo 1.021 e 2o do artigo 1.026 do CPC/15.
+Cumpra-se.
