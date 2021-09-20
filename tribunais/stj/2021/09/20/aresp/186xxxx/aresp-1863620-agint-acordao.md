@@ -1,0 +1,132 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1. RELAÇÃO DE CONSUMO. VÍCIOS CONSTRUTIVOS CONSTATADOS PELO LAUDO PERICIAL. DANO MORAL. CONFIGURAÇÃO. ALTERAÇÃO. REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO CONTRATUAL. ÓBICE DAS SÚMULAS 5 E 7/STJ. 2. REDUÇÃO DO VALOR INDENIZATÓRIO. OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. JULGADOS DO MESMO TRIBUNAL. SÚMULA N. 13/STJ. 5.AGRAVO INTERNO DESPROVIDO.
+1. De fato, oacórdão é claro em pontuar que, com base no laudo pericial,os danos morais decorreram da inexistência de excludente de responsabilidade da construtora, além de concluir pela configuração dos vícios de construção em descumprimento ao contrato firmado entre as partes.Aplicação da Súmula 7/STJ - entendimento fundado na apreciação de fatos, provas e termos contratuais.
+2.É firme a jurisprudência desta Corte no sentido de somente permitir a modificação dos valores fixados a título de indenização por danos morais se estes se mostrarem irrisórios ou exorbitantes, tendo em vista o óbice contido na Súmula 7/STJ, o que não se verifica na presente hipótese, sobretudo porque o montante não foi estabelecido tão somente pelo descumprimento contratual, mas em decorrência de transtornos e aborrecimentos relevantes, concernentes aos vícios provenientes da má execução da obra.
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+4. Outrossim,observa-se a impossibilidade de este Superior Tribunal conhecer da divergência interpretativa suscitada pela recorrente com base em julgado do próprio Tribunal de Justiça do Paraná, haja vista que tal análise encontra óbice na Súmula n. 13 desta Corte: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por Terra Nova Rodobens Incorporadora Imobiliária Londrina I SPE Ltda.contra decisão monocrática desta relatoria assim ementada (e-STJ, fl. 1.330):
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1.DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. 2. RELAÇÃO DE CONSUMO. VÍCIOS CONSTRUTIVOS CONSTATADOS PELO LAUDO PERICIAL. DANO MORAL. CONFIGURAÇÃO. ALTERAÇÃO.REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO CONTRATUAL.ÓBICE DAS SÚMULAS 5 E 7/STJ. 3. REDUÇÃO DO QUANTUM INDENIZATÓRIO. OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE.REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. 4. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 5. JULGADOS DO MESMO TRIBUNAL. SÚMULA N. 13/STJ. 6. ALEGADA VIOLAÇÃO A DISPOSITIVOS CONSTITUCIONAIS. INADEQUAÇÃO DA VIA ELEITA. 7.AGRAVO CONHECIDO PARA NÃO CONHECER DO RECURSO ESPECIAL.
+Em suas razões, a agravante pretende a reforma da decisão agravada.
+Para tanto, sustenta a inaplicabilidade das Súmulas 5 e 7/STJ, na medida em que não pretende o reexame de provas, mas adequação do julgado ao entendimento dos Tribunais Superiores.
+Além disso, afirma que não há nos autos nenhum elemento probatório capaz de comprovar os prejuízos e danos indenizáveis pleiteados pelos agravados.
+Defende a redução do valor fixado em R$ 8.000,00 (oito mil reais) a título de danos morais, tendo em vista que se encontra desproporcional aos danos materiais arbitrados em R$ 7.272,27 (sete mil, duzentos e setenta e dois reais e vinte e sete centavos).
+Aduz que demonstrou o dissídio jurisprudencial e pleiteia pelo afastamento da Súmula 13/STJ.
+A impugnação não foi apresentada, conforme certidões de fls. 1.359 e 1.360(e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. 1. RELAÇÃO DE CONSUMO. VÍCIOS CONSTRUTIVOS CONSTATADOS PELO LAUDO PERICIAL. DANO MORAL. CONFIGURAÇÃO. ALTERAÇÃO. REVOLVIMENTO DE PROVAS E INTERPRETAÇÃO CONTRATUAL. ÓBICE DAS SÚMULAS 5 E 7/STJ. 2. REDUÇÃO DO VALOR INDENIZATÓRIO. OBSERVÂNCIA DOS PRINCÍPIOS DA PROPORCIONALIDADE E DA RAZOABILIDADE. REVISÃO. INVIABILIDADE. SÚMULA 7/STJ. 3. DISSÍDIO JURISPRUDENCIAL PREJUDICADO. 4. JULGADOS DO MESMO TRIBUNAL. SÚMULA N. 13/STJ. 5.AGRAVO INTERNO DESPROVIDO.
+1. De fato, oacórdão é claro em pontuar que, com base no laudo pericial,os danos morais decorreram da inexistência de excludente de responsabilidade da construtora, além de concluir pela configuração dos vícios de construção em descumprimento ao contrato firmado entre as partes.Aplicação da Súmula 7/STJ - entendimento fundado na apreciação de fatos, provas e termos contratuais.
+2.É firme a jurisprudência desta Corte no sentido de somente permitir a modificação dos valores fixados a título de indenização por danos morais se estes se mostrarem irrisórios ou exorbitantes, tendo em vista o óbice contido na Súmula 7/STJ, o que não se verifica na presente hipótese, sobretudo porque o montante não foi estabelecido tão somente pelo descumprimento contratual, mas em decorrência de transtornos e aborrecimentos relevantes, concernentes aos vícios provenientes da má execução da obra.
+3. A incidência da Súmula n. 7/STJ impede o conhecimento do recurso lastreado, também, pela alínea c do permissivo constitucional, dado que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão recorrido, tendo em vista a situação fática de cada caso.
+4. Outrossim,observa-se a impossibilidade de este Superior Tribunal conhecer da divergência interpretativa suscitada pela recorrente com base em julgado do próprio Tribunal de Justiça do Paraná, haja vista que tal análise encontra óbice na Súmula n. 13 desta Corte: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+5. Agravo interno desprovido.
+VOTO
+O recurso não comporta provimento.
+Com efeito, em que pese às alegações deduzidas pela agravante, conforme consignado na decisão de fls. 1.330-1.340 (e-STJ), o acórdão recorrido dirimiu a questão com base nos seguintes fundamentos (e-STJ, fls. 1.084-1.094 - sem grifos no original):
+Da responsabilidade civil por vícios construtivos no imóvel
+Inicialmente, frise-se que se aplica o Código de Defesa do Consumidor ao presente caso, na medida em que se trata de relação de consumo, consoante os artigos 2º e 3º do referido diploma legal, pois os autores/apelados se enquadram no conceito de consumidores e a ré/apelante, no conceito de fornecedora:
+(..)
+Ainda, restou invertido o ônus da prova na decisão saneadora de mov. 56.1, nos termos do art. 6º, VIII, do CDC.
+Também, destaca-se que prevê o art. 20 do CDC que o fornecedor de serviços responde pelos vícios de qualidade que os tornem impróprios ao consumo ou lhe diminuam o valor:
+(..)
+Fixadas essas premissas, na hipótese dos autos a sentença concluiu estar-se diante de responsabilidade por inadimplemento contratual, pela ocorrência de vícios construtivos no imóvel objeto da avença firmada entre as partes.
+Os autores/apelados comprovaram que celebraram com a ré, ora apelante, contrato de compromisso de compra e venda de unidade autônoma, tendo como objeto a "Casa nº 187, Modelo TN47B, Fachada F2, localizada na 2ª Etapa do Empreendimento Condomínio Terra Nova Londrina I, no Município de Londrina-PR" (mov. 26.2 e ss.).
+O laudo pericial realizado nos autos (mov. 108.1) concluiu que o imóvel dos autores/apelados passou a apresentar problemas decorrentes de falhas na construção, os quais se tornaram perceptíveis com o tempo.
+Ainda, evidenciou oExpertque não foram constatados defeitos por falta de manutenção no bem pelosproprietários, veja-se:
+"7.2 QUESITOS DA REQUERIDA
+(..)
+13. Informe o Sr. Perito, se encontrado algum defeito na unidade da parte autora, desde quando surgiu o suposto defeito, se o problema ainda persiste, se foi realizada alguma manutenção nesta unidade, por parte do Autor ou pela construtora e qual é o prazo de garantia do suposto defeito encontrado. (Manual do proprietário)
+R: Por se tratar de vícios construtivos, os danos se iniciam na execução, tornando-se perceptíveis com o tempo. Segundo os Requerentes, os danos foram notados no decorrer do tempo e progressivamente, sem poder precisar a data. Os problemas constatados ainda persistem. Foram realizadas algumas manutenções por parte da exequente. Não há previsão de garantia no manual para falhas na proteção dos beirais.
+(..)
+15. Informe o Sr. Perito se o Autor realizou a manutenção preventiva do imóvel, conforme previsto no manual do proprietário.
+R: O imóvel apresentava um bom estado de conservação, não sendo constatados defeitos causados por falta de manutenção."(Grifei)
+Concluiu o Sr. Perito que foram constatados problemas na residência dos autores/apelados, decorrentes da má execução da construção do imóvel, quais sejam: a) fissuras devido ao descolamento das fitas de acabamento do forro interno; b) infiltrações e gotejamentos decorrentes de ausência de forro dos beirais;c) amarração das telhas por material de baixa qualidade (lacre plástico):
+"8. CONCLUSÕES
+A unidade vistoriada apresentava boas condição de manutenção. Foram constatados alguns reparos realizados na cobertura, além do descolamento das fitas de acabamento do forro interno, e deficiência na proteção dos beirais. O valor estimado para recuperação do imóvel é de R$ 4.938,27 (quatro mil, novecentos e trinta e oito reais e vinte e sete centavos). O valor estimado despendido com os reparos já realizados é de 2.000,00 (dois mil reais).
+É importante ressaltar a necessidade de correção dos fatores que deram origem ao problema, afim de se evitar que as patologias se agravem.
+(..)".
+De outro lado, a apelante não se desincumbiu do ônus de comprovar alguma excludente de responsabilidade, mais especificamente que os danos (fissuras, infiltrações, deslocamento de telhas, etc.), foram causados por culpa concorrente ou exclusiva dos autores/apelados, por terem realizado obras de ampliação no imóvel.
+O laudo de mov. 108.1 destacou as seguintes modificações feitas no imóvel pelos apelados:
+"A unidade sofreu algumas modificações em relação ao projeto original, como:
+- Execução de cobertura na frente e aos fundos;
+- Pavimentação de área permeável na frente e aos fundos;
+- Construção de banheiro, depósito e churrasqueira aos fundos;
+- Remoção da parede da área de serviço."
+Concluiu o Sr. Perito, todavia, que os vícios no imóvel não possuíam relação com as reformas realizadas pelos proprietários na residência, tratando-se de vícios construtivos, tendo os danos se iniciado na execução da obra, tornando-se perceptíveis com o tempo.
+Assim, não tendo a apelante logrado comprovar qualquer sinal de comprometimento da estrutura original da casa pela obra realizada pelos apelados, tampouco que os apelados não realizaram a manutenção devida do bem, é de se manter a conclusão da perícia, adotada na sentença, de que os defeitos e problemas que surgiram na casa dos autores/apelados são decorrentes de vícios construtivos no imóvel.
+Deste modo, comprovada a existência do ato ilícito pela ré/apelante, diante da construção de bem imóvel com vícios, em descumprimento ao contrato firmado entre as partes, que previa a entrega de residência em perfeitas condições de uso.
+Também restaram comprovados os danos no imóvel dos autores/apelados (fotos juntadas no laudo de mov. 108.1) e o nexo de causalidade entre o ato ilícito (vícios construtivos) e os danos sofridos.
+Por fim, em se tratando de responsabilidade civil objetiva, não é necessário comprovar a culpa, de modo que restaram configurados todos os elementos do dever de indenizar (artigos 186 e 927 do Código Civil).
+Em casos análogos, inclusive envolvendo a mesma empresa ré, ora apelante, e imóveis semelhantes aoobjeto da presente lide, já decidiu este Tribunal pela ocorrência de responsabilidade civil da incorporadora no caso de danos no imóvel decorrentes de vícios construtivos:
+(..)
+Desta forma, não merece alteração a sentença que condenou a apelante a indenizar os apelados pelos danos por eles sofridos.
+Dos danos materiais
+In casu, está-se diante de lide envolvendo vícios construtivos no imóvel adquirido pelos autores, por contrato de promessa de compra e venda com a incorporadora imobiliária ré, ora apelante.
+A sentença condenou a parte ré, ora apelante ao pagamento de danos materiais, no valor de R$ 4.938,27 (quatro mil, novecentos e trinta e oito reais, e vinte e sete centavos), acrescido de juros e correção monetária a partir de maio de 2019, para a reparação dos danos no imóvel decorrentes da sua má construção, além da quantia de R$ 2.289,00 (dois mil, duzentos e oitenta e nove reais) referente aos valores já desembolsados pelos autores para sanar os vícios do telhado (recolocação das telhas e instalação de perfil metálico de cumeeira) e pintura da residência, acrescida de juros de mora e correção monetária a partir do desembolso (15.05.2019).
+O laudo pericial de mov. 108.1 esclareceu quais foram os danos causados na residência dos apelados que decorreram dos vícios na má-execução do imóvel.
+O laudo pericial também quantificou o custo para refazer as peças afetadas (mov. 108.2).
+No apelo a recorrente alega que o imóvel foi entregue aos apelados em perfeitas condições, de acordo com os termos do contrato de compra e venda firmado entre as partes.
+Assim, passa a impugnar todos os valores constantes do orçamento elaborado pelo Perito, anexo ao Laudo Pericial, que embasou a condenação em danos materiais, senão vejamos.
+a. Forro do Beiral
+Aduz a recorrente que a ausência de "forro de beiral" no imóvel não caracteriza vício construtivo, por se tratar de mero acabamento estético, que não tem previsão de instalação no empreendimento em questão.
+Desta forma, requer a exclusão do valor de R$ 609,15 (seiscentos e nove reais e quinze centavos) do orçamento elaborado pelo Sr. Perito (Anexo 01 do laudo - mov. 108.2), referente aos custos de aplicação de lâminas de PVC para forrar todos os beirais, diante da ausência de previsão contratual de que o imóvel seria entregue com referido acabamento.
+A perícia esclareceu que "As unidades que compõem o empreendimento em tela não possuem previsão de sistemas de proteção e fechamento nos beirais" (mov. 108.1).
+Destacou, contudo, que a ausência do forro do beiral resultou em problemas na casa dos autores/apelados, sendo sugerida a sua instalação para evitar a entrada de vento na estrutura, o que previne destelhamentos, infiltrações e danos ao forro de gesso:
+"Apesar de não ser previsto em projeto, a ausência de forro nos beirais permite a entrada de ventos pelas aberturas, o que ocasiona um significativo aumento de pressão no espaço compreendido entre o forro e o telhado. Com a variação de pressão é normal que ocorram pequenos deslocamentos nas telhas e no forro de gesso, e como este é um material frágil, acarreta na propagação de fissuras nas regiões enfraquecidas dos forros e de seus componentes, como as indicadas na Figura 18".
+Ainda, esclareceu oExpertque a ausência de forro dos beirais da casa pode permitir que animais (gatos, aves, etc.) entrem no interior do telhado, o que pode gerar barulhos e problemas de saúde com o acúmulo de dejetos.
+Como suprarreferido, o CDC prevê em seu art. 20 que o fornecedor de serviços, no caso de construção de imóveis, responde pelos vícios de qualidade que os tornem impróprios ao consumo ou lhes diminuam o valor.
+In casu, há falha no projeto elaborado pela ré/apelante, na medida em que o forro dos beirais não possui função meramente estética, mas auxilia a evitar o deslocamento de telhas, evitando infiltrações e deslocamento de peças de gesso do forro, além de impedir a entrada de animais dentro do telhado.
+Portanto, observa-se que é um item que deveria ter sido instalado no imóvel, mas não foi, gerando inúmeros prejuízos.
+Ademais, não há nos autos qualquer comprovação de que a recorrente tenha alertado o consumidor, de forma clara e precisa, sobre os danos que a ausência deste componente poderia causar ao imóvel, o que fere o disposto no art. 6º, inciso III, do Código de Defesa do Consumidor,in verbis:
+(..)
+Em casos análogos, envolvendo especificamente a questão de ausência de forro do beiral em construções residenciais novas, assim já entendeu esta 9ª Câmara Cível pela existência do dever de indenizar pelo fornecedor, diante de ser vício que afeta outras estruturas do imóvel e diante da ausência de comprovação de que foram repassadas informações adequadas ao consumidor:
+(..)
+Isto posto, correta a sentença que se baseou na perícia e concluiu que o sistema de proteção e fechamento dos beirais não tem finalidade meramente estética, constituindo elemento imprescindível para evitar infiltrações, destelhamentos, entrada de animais, deslocamentos no forro de gesso e propagação de fissuras nas paredes da residência dos apelados.
+Logo, merece ser mantida a indenização por danos materiais com relação a este ponto.
+a. Pintura de paredes e teto
+A apelante aduz que não merece prosperar sua condenação ao pagamento de valor para realização de nova pintura nas paredes e tetos da unidade residencial dos autores, no valor calculado pelo orçamento da perícia em R$ 1.742,69 (hum mil, setecentos e quarenta e dois reais e sessenta e nove centavos), uma vez que tal situação decorre de falta de manutenção do imóvel pelos proprietários.
+O laudo pericial bem explicou que uma nova pintura na residência dos autores/apelados é necessária, uma vez que os problemas na construção ocasionaram fissuras nas paredes e teto e manchas devidas ao escorrimento de água.
+Logo,tendo em vista que os vícios na má-execução da obra geraram problemas nas paredes e teto da casa dos apelados, é devida a condenação da apelante em arcar com os custos de nova pintura no imóvel.
+a. Contratação de acompanhante técnico e limpeza após finalização dos reparos
+Requer a apelante seja excluído do orçamento da perícia o valor de R$ 817,92 (oitocentos e dezessete reais e noventa e dois centavos) referente a gastos com contratação de acompanhante técnico e o valor deR$ 410,50 (quatrocentos e dez reais e cinquenta centavos) referente à contratação de serviço de limpeza após a finalização dos reparos, eis que de responsabilidade dos proprietários.
+Descabe à apelante conjecturar sobre a contratação de acompanhamento técnico, sendo correto o raciocínio doExpertao indicar a necessidade de intervenção de um profissional habilitado paraacompanhamento e correção dos vícios construtivos identificados.
+Quanto à limpeza final da obra, tem-se que os autores/apelados tem direito ao recebimento do imóvel nos termos e condições contratadas, em perfeito estado e próprio para uso e, claro, limpo.
+Logo, inobstante tratar-se de reparos de vícios construtivos, a ideia é que o imóvel seja reformado para que fique em iguais condições a um novo, sendo a limpeza imprescindível após as obras a serem executadas.
+Como bem concluiu a sentença, "Não seria justo atribuir aos autores o custeio de serviços, que, embora secundários, decorrem do reparo dos defeitos do imóvel vendido pela ré."
+Descabe o pleito, portanto, sendo devida a condenação em tais rubricas.
+(..)
+Dos danos morais
+A sentença narrou que a situação dos autos ultrapassa o mero dissabor, posto que a parte autora/apelada sente desconforto diário em relação ao seu imóvel, fixando, a título de indenização por danos morais, o valor de R$ 2.000,00 (dois mil reais) para cada autor.
+Aduz a apelante que os apelados não comprovaram os danos morais sofridos e, alternativamente, que seja a verba minorada.
+Descabem as alegações.
+Com base no laudo pericial, tem-se que os danos causados pela parte apelante, embora não tenham impedido a vivência dos autores/apelados em seu imóvel, a dificultaram, ante a ocorrência de vícios decorrentes da má-execução da obra.
+Sabe-se que o dano extrapatrimonial decorre da lesão a um bem da personalidade, atingindo a pessoa em sua honra, reputação, dignidade, ultrapassando a esfera do mero aborrecimento.
+Na situação dos autos restou evidenciado o sofrimento dos autores/apelados ao verem o imóvel em que residiam ser afetado por problemas de construção, conforme fotografias e perícia juntadas à baila.
+Os acontecimentos superaram o mero aborrecimento, gerando abalo à honra subjetiva dos autores, caracterizando o dano moral.
+Em face disso, depreende-se que a Corte estadual, mediante exame dos fatos e das provas acostadas aos autos, sobretudo o laudo pericial, entendeu pela inexistência de excludente de responsabilidade da construtora, além de concluir pela configuração dos vícios de construção em descumprimento ao contrato firmado entre as partes, apta a caracterizaro dano moral pleiteado pelos autores.
+Dessa maneira, é inafastável o óbice das Súmulas 5 e 7/STJ. Isso porque reverter a conclusão do Tribunal local, para acolher a pretensão da agravante - com o fim de afastar a configuração de vício indenizável capaz deensejar o pagamento de danos morais ou a caracterização deculpa exclusiva da parte agravada pelos danos -, demandaria o revolvimento do acervo fático-probatório dos autos e de cláusulas contratuais, o que é vedado ante a natureza excepcional da via eleita, não sendo caso de revaloração de provas.
+A propósito:
+AGRAVO INTERNO NO RECURSO ESPECIAL. INDENIZAÇÃO POR DANOS MATERIAIS E MORAIS. CONTRATO DE COMPRA E VENDA DE IMÓVEL. VÍCIOS DE CONSTRUÇÃO. DANOS MORAIS COMPROVADOS. SÚMULA 7/STJ. JUROS MORATÓRIOS. RESPONSABILIDADE CONTRATUAL. TERMO INICIAL. CITAÇÃO.
+1. O Tribunal de origem concluiu ser devida indenização por danos morais pelos transtornos causados aos agravados em razão dos vícios de construção que impediram a utilização integral do imóvel. A alteração de tal conclusão demanda o revolvimento do suporte fático-probatório dos autos, o que encontra óbice na Súmula 7/STJ.
+2. (..)
+3. Agravo interno não provido.(AgInt no REsp 1.371.045/SP, Rel. MinistroLÁZARO GUIMARÃES, DesembargadorConvocado do TRF 5ª Região), QUARTA TURMA, DJe 2/5/2018)
+Quantoà fixação da indenização por danos morais, observa-se que não foi estabelecida tão somente pelo descumprimento contratual, masem decorrência detranstornos e aborrecimentos relevantes, concernentes aos vícios provenientes da má execução da obra.
+Acerca do montante indenizatório, ressalte-se que os valores arbitrados a título de indenização por danos morais "só podem ser alterados em hipóteses excepcionais, quandoconstatada nítida ofensa aos princípios da razoabilidade e daproporcionalidade, mostrando-se irrisória ou exorbitante" (AgInt no REsp 1.793.515/RJ, Rel. Ministro Moura Ribeiro,TerceiraTurma, julgado em 20/4/2020, DJe 23/4/2020).
+Na hipótese dos autos, a Corte local, diante das peculiaridades fáticas do caso, majorou a indenização a título de danos morais para R$ 4.000,00 (quatro mil reais), para cada autor, visando atender as funções punitiva e preventiva dessa espécie de dano. Efetivamente, essa quantia não se afigura excessiva, o que torna inviável o recurso especial no ponto, nos termos, mais uma vez, da Súmula n. 7/STJ.
+Veja-se:
+AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. AÇÃODEREVISÃODECLÁUSULAS CONTRATUAIS. COMPRA E VENDADEIMÓVEL.VÍCIOSNA CONSTRUÇÃO. ABATIMENTO DO PREÇO.DANOMORALCARACTERIZADO.QUANTUMARBITRADO.REDUÇÃO.INVIABILIDADE. VALOR RAZOÁVEL. REVISÃODEMATÉRIA FÁTICO-PROBATÓRIA. IMPOSSIBILIDADE. SÚMULA 07/STJ. OFENSA AO ART. 557 DO CPC. INOCORRÊNCIA. AUSÊNCIADEFUNDAMENTOS QUE JUSTIFIQUEM A ALTERAÇÃO DA DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.(AgRg no AREsp 339.047/RJ, Rel. MinistroPAULODETARSO SANSEVERINO, TERCEIRA TURMA, DJe 2/2/2015)
+PROCESSUAL CIVIL. INDENIZAÇÃO POR DANOS MORAIS. REDUÇÃO VALOR.SÚMULA 7/STJ.
+1. Hipótese em que Tribunala quoconsignou, ao fixar o valor de R$ 8.000,00 (oito mil reais) a título de danos morais, que: "Em resumo, diante da inexistência de abastecimento de água desde janeiro de 2009 até abril de 2012, evidencia o patente vício de serviço, além da inescusável ofensa à dignidade, pelo que cabe reparação por danos morais, cujo valor foi arbitrado emquantumrazoável."
+2. A jurisprudência desta Corte pacificou o entendimento de que a apreciação dos critérios previstos na fixação desse valor implica o reexame de matéria fático-probatória, o que encontra óbice na Súmula 7 desta Corte. Excepcionam-se apenas as hipóteses de valor irrisório ou exorbitante, o que não se configura neste caso.
+3. Agravo Regimental não provido.(AgRg no AREsp 464.681/RJ, Rel. MinistroHERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/3/2014, DJe 22/4/2014)
+Além disso, consoante entendimento desta Corte, a incidência da Súmula n.7/STJ impede o exame de dissídio jurisprudencial, na medida em que falta identidade entre os paradigmas apresentados e os fundamentos do acórdão, tendo em vista a situação fática do caso concreto, com base na qual a Corte de origem deu solução à causa.
+Por fim, observa-se a impossibilidade de este Superior Tribunal conhecer da divergência interpretativa suscitada pela recorrente com base em julgado do próprio Tribunal de Justiça do Paraná, haja vista que tal análise encontra óbice na Súmula n. 13 desta Corte: "A divergência entre julgados do mesmo Tribunal não enseja recurso especial."
+Dessa maneira, tendo em vista que as alegações feitas no presente agravo interno não são capazes de alterar o convencimento anteriormente manifestado, permanece íntegra a decisão agravada.
+Ante o exposto, nego provimento ao agravo interno.
+É como voto.
