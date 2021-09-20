@@ -1,0 +1,52 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. AGRAVANTE DA REINCIDÊNCIA. AUSÊNCIA DE MENÇÃO À REFERIDA CIRCUNSTÂNCIA NOS DEBATES ORAIS EM PLENÁRIO. ÔNUS DO MINISTÉRIO PÚBLICO. ART. 476 DO CPP. AGRAVO DESPROVIDO.
+1. "Com o advento da Lei n. 11.689, de 9 de junho de 2008 - a qual modificou o capítulo sobre o procedimento do júri -, as circunstâncias agravantes e atenuantes não mais são objeto de quesitação, de tal sorte que caberá ao magistrado considerá-las no momento da dosimetria da pena, em consonância com o que foi sustentado em plenário pelas partes, nos termos do art. 492, I, "b" do Código de Processo Penal. Precedentes (AgRg no HC 580.498/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 24/8/2020)" (AgRg no HC 573.181/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021)
+2. Compete ao Ministério Público, nos termos do art. 476 do Código de Processo Penal, sustentar, se for o caso, a existência de circunstância agravante.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto pelo MINISTÉRIO PÚBLICO DO ESTADO DO PARANÁ, contra decisão monocrática que negou provimento ao seu recurso especial (e-STJ, fls. 186-187).
+A parte agravante aduz, em síntese, que a exposição do histórico criminal do réu em seu interrogatório perante o plenário do júri autorizaria a aplicação da agravante da reincidência pelo juiz singular.
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. TRIBUNAL DO JÚRI. AGRAVANTE DA REINCIDÊNCIA. AUSÊNCIA DE MENÇÃO À REFERIDA CIRCUNSTÂNCIA NOS DEBATES ORAIS EM PLENÁRIO. ÔNUS DO MINISTÉRIO PÚBLICO. ART. 476 DO CPP. AGRAVO DESPROVIDO.
+1. "Com o advento da Lei n. 11.689, de 9 de junho de 2008 - a qual modificou o capítulo sobre o procedimento do júri -, as circunstâncias agravantes e atenuantes não mais são objeto de quesitação, de tal sorte que caberá ao magistrado considerá-las no momento da dosimetria da pena, em consonância com o que foi sustentado em plenário pelas partes, nos termos do art. 492, I, "b" do Código de Processo Penal. Precedentes (AgRg no HC 580.498/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 24/8/2020)" (AgRg no HC 573.181/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021)
+2. Compete ao Ministério Público, nos termos do art. 476 do Código de Processo Penal, sustentar, se for o caso, a existência de circunstância agravante.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Como constatei quando do julgamento monocrático, acórdão recorrido foi proferido em sintonia com o entendimento deste Superior Tribunal de Justiça, no sentido de que, apesar de a Lei n. 11.689/2008 ter tornado desnecessária a quesitação das atenuantes e agravantes, em atendimento ao disposto no art. 492, I, "b", do Código de Processo Penal, o Juiz Presidente do Tribunal do Júri fixará a pena do réu considerando apenas as atenuantes e agravantes que tenham sido objeto de debate em plenário.
+Nesse sentido, trago à colação os seguintes precedentes:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. TRIBUNAL DO JÚRI. HOMICÍDIO. AGRAVANTE GENÉRICA PREVISTA NO ART. 61, II, "H" DO CÓDIGO PENAL - CP. DESNECESSIDADE DE QUESITAÇÃO. MATÉRIA OBJETO DE DEBATES ORAIS EM PLENÁRIO. MODIFICAÇÃO DESSA ASSERTIVA. IMPOSSIBILIDADE NA VIA ELEITA. AGRAVO DESPROVIDO.
+1. "Com o advento da Lei n. 11.689, de 9 de junho de 2008 - a qual modificou o capítulo sobre o procedimento do júri -, as circunstâncias agravantes e atenuantes não mais são objeto de quesitação, de tal sorte que caberá ao magistrado considerá-las no momento da dosimetria da pena, em consonância com o que foi sustentado em plenário pelas partes, nos termos do art. 492, I, "b" do Código de Processo Penal. Precedentes" (AgRg no HC 580.498/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, DJe 24/8/2020).
+2. O Tribunal de origem concluiu que foi debatida em Plenário a aplicação da agravante referente à senilidade da vítima (art. 61, II, "h" do CP) e a modificação dessa assertiva demanda o exame aprofundado de prova que é incabível na estreita via do habeas corpus.
+3. Agravo regimental desprovido."
+(AgRg no HC 573.181/MS, Rel. Ministro JOEL ILAN PACIORNIK, QUINTA TURMA, julgado em 13/04/2021, DJe 16/04/2021)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. HOMICÍDIO SIMPLES. DOSIMETRIA DA PENA. SEGUNDA FASE. EXCLUSÃO DA AGRAVANTE DA REINCIDÊNCIA. POSSIBILIDADE. AUSÊNCIA DE MENÇÃO À REFERIDA CIRCUNSTÂNCIA NO TRIBUNAL DO JÚRI. PRECEDENTES. DOSIMETRIA DA PENA REFEITA. MANTIDO O REGIME INICIAL FECHADO ANTE A GRAVIDADE DA CONDUTA PERPETRADA. PRECEDENTES. AGRAVO REGIMENTAL NÃO PROVIDO.
+- Com o advento da Lei n. 11.689, de 9 de junho de 2008 - a qual modificou o capítulo sobre o procedimento do júri -, as circunstâncias agravantes e atenuantes não mais são objeto de quesitação, de tal sorte que caberá ao magistrado considerá-las no momento da dosimetria da pena, em consonância com o que foi sustentado em plenário pelas partes, nos termos do art. 492, I, "b" do Código de Processo Penal. Precedentes.
+- In casu, não houve menção à folha de antecedentes criminais do paciente, a justificar o reconhecimento da agravante da reincidência. Ademais, pela leitura da Ata de julgamento, às e-STJ, fls. 900/904, não houve referência à sua reincidência, ou que seus antecedentes criminais hajam sido mencionados, ou mesmo que tenha havido pedido expresso da acusação nesse sentido. Desse modo, verifiquei a ocorrência do patente constrangimento ilegal apontado pelo impetrante, de modo que a dosimetria da pena do paciente foi refeita, ficando sua reprimenda definitivamente estabilizada em 6 anos de reclusão.
+(..)
+- Agravo regimental não provido. "
+(AgRg no HC 580.498/PR, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/8/2020, DJe 24/8/2020);
+"HABEAS CORPUS. JÚRI. HOMICÍDIO QUALIFICADO. DOSIMETRIA. AGRAVANTE NÃO ALEGADA NOS DEBATES. AUMENTO DA PENA NA SEGUNDA FASE DA DOSIMETRIA. IMPOSSIBILIDADE. INOBSERVÂNCIA DO ART. 492, I, "B", DO CÓDIGO DE PROCESSO PENAL. ORDEM CONCEDIDA.
+1. Com a reforma processual penal estabelecida pela Lei n. 11.689/2008, não há mais a exigência de que as atenuantes e as agravantes sejam quesitadas aos jurados; cabe ao Juiz sentenciante decidir pela sua aplicação.
+2. No procedimento especial do Tribunal do Júri, o reconhecimento das circunstâncias legais genéricas - sejam elas de natureza objetiva ou subjetiva - não fica ao livre arbítrio do julgador, uma vez que, segundo o art. 492, I, "b", do CPP, é indispensável que elas hajam sido objeto de debates em plenário. Precedentes do STJ.
+3. Na hipótese, não foi comprovada a menção à reincidência do ora paciente na sessão de julgamento. Assim, configura constrangimento ilegal a utilização da agravante, pelo Tribunal a quo, a fim de exasperar a reprimenda na segunda fase da dosimetria.
+4. Ordem concedida para excluir a agravante do art. 61, I, do CP e, portanto, redimensionar a pena."
+(HC 507.883/RS, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 6/6/2019, DJe 10/6/2019, grifou-se);
+Por fim, no tocante à alegação de que o próprio acusado, no momento do exercício de sua autodefesa, declinou informações acerca do seu histórico criminal, de modo que houve alegação nos debates orais da circunstância da reincidência, razão não assiste ao Parquet.
+Isso porque tal providência, por expressa determinação legal, compete ao Ministério Público. Com efeito, a Lei nº 11.689, de 2008, que alterou o art. 492, I, "b", do CPP, também deu nova redação ao art. 476 do referido Codex, in verbis:
+"Art. 476. Encerrada a instrução, será concedida a palavra ao Ministério Público, que fará a acusação, nos limites da pronúncia ou das decisões posteriores que julgaram admissível a acusação, sustentando, se for o caso, a existência de circunstância agravante. (Redação dada pela Lei nº 11.689, de 2008)
+(..)"
+Assim já se pronunciou, a propósito, a Sexta Turma deste STJ:
+"PENAL E PROCESSO PENAL. AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO E CORRUPÇÃO DE MENORES. REINCIDÊNCIA. AUSÊNCIA DE EFETIVO DEBATE EM PLENÁRIO. INVOCAÇÃO DA AGRAVANTE PELO RÉU POR OCASIÃO DO INTERROGATÓRIO. IMPOSSIBILIDADE DE SUA APLICAÇÃO NA DOSIMETRIA. AGRAVO DESPROVIDO.
+1. " ..  a jurisprudência desta Corte é firme no sentido de que, com a nova redação dada ao artigo 483 do CPP pela Lei 11.689/2008 não há mais obrigatoriedade de submeter aos jurados quesitos acerca da existência de circunstâncias agravantes ou atenuantes, sendo certo que, somente poderão ser consideradas pelo Juiz presidente, na formulação da dosimetria penal, as agravantes e atenuantes alegadas e debatidas em plenário, nos termos da regra constante do artigo 492, I, b, do CPP, circunstância não ocorrida na hipótese dos autos" (AgRg no AREsp n. 798.542/MG, relator Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 13/12/2016, DJe de 19/12/2016).
+2. A meu viso, o precedente acima estampado não admite, para fins do reconhecimento da reincidência, que a acepção da expressão "debate em plenário" esteja calcada tão somente na autodefesa realizada pelo próprio acusado no momento do interrogatório, sob pena de subverter o próprio princípio estampado no brocardo nemo tenetur se detegere. Portanto, para que fosse reconhecida a referida reincidência, o Ministério Público não deveria ter se desincumbido de suscitar a precitada agravante por ocasião dos debates em plenário.
+3. Agravo regimental a que se nega provimento".
+(AgRg no AgRg no HC 525.453/MS, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 23/06/2020, DJe 01/07/2020)
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
