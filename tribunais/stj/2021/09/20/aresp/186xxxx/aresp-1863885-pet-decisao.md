@@ -1,0 +1,8 @@
+DECISÃO
+Cuida-se de Petiçãode fls. 219/220, e-STJ, na qual orequerente ATIVOS ESPECIAIS II - FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS - NAO PADRONIZADOS informa que adquiriu, mediante instrumento cessão, firmado com BR CPF FOOD BRAZIL - FUNDO DE INVESTIMENTO EM PARTICIPACOES MULTIESTRATEGIA, a totalidade dos direitos e obrigações inerentes aos créditos discutidos naação de execução objeto do presente recursoe, por isso, requer a substituiçãoprocessual, bem como a suspensão do recurso por 60 (sessenta) dias, tendo em vista as tratativas para formalização de acordo entre as partes.
+Intimados a se manifestarem, os requeridos/agravantes, ANDREA TCHALIAN CONDE eDANIEL MARTINS FERREIRA CONDE FILHO, expressamente, concordam com a substituição processual, bem como reiteram o pedido de suspensão do processo por 60 dias, inclusive quanto ao prazo para apresentar contraminuta ao agravo interno interposto às fls. 196/212, e-STJ.
+Diante da concordância da parte contrária quanto à substituição processual, e da documentação juntada pela requerente, nãohá óbice, portanto, para o deferimento da substituição processual, ateor do disposto no art. 778, § 1º, e § 2º, do CPC/2015.
+Forte nessas razões, DEFIRO o pedido de substituição da BR CPF FOOD BRAZIL - FUNDO DE INVESTIMENTO EM PARTICIPACOES MULTIESTRATEGIA, pela cessionária, determinando que esta última passe a constar como recorrida, representada pelo advogado indicado àfl. 219, e-STJ, ALFREDO ZUCCA NETO, inscrito na OAB/SP sob onº 154.694, conforme procurações de fls. 223/224, e-STJ, o qualdeverá receber intimações.
+À Secretaria, para a adoção das providências cabíveis.
+DEFIRO, ainda, o pedido de suspensão do processo por 60 (sessenta) dias.
+Publique-se. Intimem-se.
