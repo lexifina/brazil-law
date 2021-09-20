@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de Recurso Especial, interposto por FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO, com fundamento naalíneaado permissivo constitucional, manejado contra acórdão do Tribunal Regional Federal da 1ª Região, assim ementado:
+"CONSTITUCIONAL E TRIBUTÁRIO. CONTRIBUIÇÃO PARA O SALÁRIO EDUCAÇÃO. FNDE. LEGITIMIDADE PASSIVA AD CAUSAM. CONTRIBUINTES. EMPRESAS. FIRMAS INDIVIDUAIS OU SOCIEDADES QUE ASSUMAM O RISCO DA ATIVIDADE ECONOMICA. ENTENDMENTO FIRMADO PELO SUPERIOR TRIBUNAL DE JUSTIÇA.
+1. A orientação das Turmas que integram a Primeira Seção do Superior Tribunal de Justiça firmou-se no sentido de que a contribuição para o salário-educação somente é devida pelas empresas em geral e pelas entidades públicas e privadas vinculadas ao Regime Geral da Previdência Social, entendendo-se como tais, para fins de incidência, qualquer firma individual ou sociedade que assuma o risco de atividade econômica, urbana ou rural, com fins lucrativos ou não, conforme estabelece o art. 15 da Lei 9.424/96, c/c o art. 2º do Decreto 6.003/2006.
+2. O FNDE, autarquia federal, tem legitimidade para estar no polo passivo de demanda que discuta sobre a legalidade ou não do salário-educação, pois destinatário da exação, ainda que sua defesa se faça pela Procuradoria da Fazenda Nacional.
+3. Hipótese em que o autor é produtor rural e exerce suas atividades como pessoa natural e não como sociedade, não estando, portanto, sujeito ao recolhimento do Salário-Educação.
+4. Apelação da União a que se nega provimento.
+5. Recurso adesivo do autor provido, para determinar a reinclusão do FNDE na lide"(fl. 4.143e).
+Opostos Embargos de Declaração, por ambas as partes (fls. 4.146/4.147e e 4.150/4.153e), foram eles julgados,nos seguintes termos:
+"PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO. SALÁRIO EDUCAÇÃO. ILEGITIMIDADE PASSIVA DA UNIÃO. RECONHECIMENTO DE OFICIO. POSSIBILIDADE. MATÉRIA DE ORDEM PÚBLICA. REINCLUSÃO DO FNDE NA LIDE. CONDENAÇÃO EM HONORÁRIOS ADVOCATICIOS. EMBARGOS PROVIDOS.
+1. Constatada a existência de omissão no julgado, devem ser acolhidos os embargos declaratórios.
+2. Assiste razão à União quanto à omissão alegada em seus embargos, tendo-se em vista que a ilegitimidade de parte constitui matéria de ordem pública que pode ser reconhecida de oficio na instância ordinária, ex vi do disposto no art. 485, VI, do CPC.
+3. O entendimento desta Corte, bem como do Superior Tribunal de Justiça é no sentido de que a União não possui legitimidade passiva ad causam para as ações objetivando discutir a legalidade do salário-educação. Precedentes: Numeração Única: AGRAC 0004149-65.2010.4.01.3802 / MG; AGRAVO REGIMENTAL NA APELAÇÃO CIVEL. Relator: DESEMBARGADOR FEDERAL NOVÉLY VILANOVA. órgão: OITAVA TURMA. Publicação: 13/02/2015 e-DJF1 P. 1713. Data Decisão: 30/01/2015 e AgRg no REsp 1456732 / RS. AGRAVO REGIMENTAL NO RECURSO ESPECIAL 2014/0126699-5. Relator(a): Ministro OG FERNANDES. Órgão Julgador: SEGUNDA TURMA. Data do Julgamento: 18/06/2015. Data da Publicação/Fonte DJe 29/06/2015.
+4. Tendo-se em vista a reinclusão da FNDE na lide e a manutenção da sentença quanto ao mérito, deve ser condenado o ente público em honorários advocatícios, uma vez que é quem deve arcar com os ônus decorrentes da demanda" (fl. 4.164e).
+Opostos novos Embargos de Declaração, por ambas as partes (fls. 4.203/4.209e e 4.224/4.229e), foram eles rejeitados (fls. 4.211/4.215e e 4.238/4.243e).
+Daí, a interposição do presente Recurso Especial (fls. 4.263/4.277e), que não merece ser conhecido, por intempestivo.
+No caso, o acórdão recorrido foi disponibilizado em 06/09/2017 (fl. 4.244e), considerando-se publicado em 08/09/2017- na vigência do CPC/2015 -, sendo o Recurso Especial interposto somente em 08/09/2019(fl. 4.263e), após o transcurso do prazo recursal de 15 dias úteis.
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do Recurso Especial,interposto por FUNDO NACIONAL DE DESENVOLVIMENTO DA EDUCAÇÃO
+I.
