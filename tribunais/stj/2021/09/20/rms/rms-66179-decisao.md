@@ -1,0 +1,42 @@
+DECISÃO
+Trata-se de recurso em mandado de segurança interposto com fundamento na alínea b do inciso II do artigo 105 da Constituição Federal contra acórdão proferido pela Quarta Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro, assim ementado (fls. 587-603):
+EMBARGOS DE DECLARAÇÃO EM MANDADO DE SEGURANÇA ORIGINÁRIO. ACLARATÓRIOS OPOSTOS CONTRA V. ACÓRDÃO QUE ACOLHEU A PRELIMINAR DE LITISPENDÊNCIA SUSCITADA PELO IMPETRADO E CORROBORADA PELO PARQUET. JUÍZO DE ORIGEM QUE DECLINOU DA COMPETÊNCIA E REMETEU OS AUTOS A ESTA CORTE, SEM, CONTUDO, PROMOVER A BAIXA NO SISTEMA. COEXISTÊNCIA DE DUAS NUMERAÇÕES DISTINTAS RELACIONADAS AO MESMO MANDADO DE SEGURANÇA. AUSÊNCIA DE LITISPENDÊNCIA. ERROR IN PROCEDENDO. ACLARATÓRIOS QUE DEVEM SER ACOLHIDOS, EMPREGANDO-LHES EFEITOS INFRINGENTES, PARA ANULAR A DECISÃO COLEGIADA VERGASTADA. IMEDIATA ANÁLISE DO MÉRITO DO MANDADO DE SEGURANÇA. DIREITO ADMINISTRATIVO.PRETENSÃO DE RECONHECIMENTO DE REGULARIDADE NA ACUMULAÇÃO DAS APOSENTADORIAS DOS CARGOS DE PROFESSOR MUNICIPAL E AGENTE ADMINISTRATIVO FEDERAL. IMPETRANTE QUE FOI NOTIFICADA PARA REALIZAR OPÇÃO. AUSÊNCIA DE SUBSUNÇÃO À EXCEPCIONALIDADE PREVISTA NO ARTIGO 37, XVI, "b", DA CRFB/88. CARGO TÉCNICO É AQUELE QUEPRESSUPÕE CONHECIMENTO ESPECÍFICO NA ÁREA DE ATUAÇÃO DO PROFISSIONAL. AGENTE ADMINISTRATIVO QUE NÃO EXIGE NÍVEL SUPERIOR OU CURSO ESPECÍFICO. APOSENTADORIA NO MAGISTÉRIO CONCEDIDA NO ANO DE 1985. JUBILAÇÃO NO CARGO DE AGENTE ADMINISTRATIVO FEDERAL QUE OCORREU NO ANO DE 2006. IMPOSSIBILIDADE DE ACUMULAÇÃO DE PROVENTOS APÓS A PUBLICAÇÃO DA EMENDA CONSTITUCIONAL N.º 20/98. INEXISTÊNCIA DE PROVAS QUANTO À SUBSUNÇÃO À EXCEPCIONALIDADE PREVISTA NO ARTIGO 11 DA EMENDA CONSTITUCIONAL N.º 20/98. PRECEDENTES. ORDEM DENEGADA.
+Os segundos embargos declaratórios foram rejeitados (fls. 718-729).
+A recorrente em suas razões sustenta inicialmente que teria "ocorrido a decadência para Administração na forma dos artigos 53 e 54 da Lei n. 9.784/1999".
+No mérito, alega a licitude da acumulação, em virtude de a investidura no cargo federal ter ocorrido após a EC 20, bem como serem distintas as fontes pagadoras, regimes previdenciários federal e municipal, nos moldes da ressalva constitucional.
+Subsidiariamente, defende que "faz jus a aposentadoria proporcional ao tempo efetivo de serviço, o que, desde já requer, como pedido alternativo, lhe seja assegurado a aposentadoria proporcional no cargo federal em concomitância com a aposentadoria integral no cargo municipal" (fl. 772).
+O Instituto de Previdência dos Servidores Municipais de Nova Iguaçu, às fls. 905-908, defende que o acórdão recorrido "deve ser mantido".
+O Ministério Público Federal, às fls. 1.168-1.172, oficia pelo não provimento do recurso.
+É o relatório. Passo a decidir.
+Consigne-se inicialmente que o recurso foi interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015, devendo ser exigidos os requisitos de admissibilidade na forma nele previsto, conforme Enunciado Administrativo n. 3/2016/STJ.
+Registre-se também que é possível ao Relator dar ou negar provimento ao recurso em decisão monocrática, nas hipóteses em que há jurisprudência dominante quanto ao tema, como autorizado pelo art. 34, XVIII, do RISTJ e pela Súmula 568/STJ.
+Na origem, a recorrente impetrou mandado de segurança preventivo, com pedido de liminar, contra ato do Presidente do Instituto de Previdência dos Servidores de Nova Iguaçu - PREVINI, que, em processo administrativo,após a apuração de acumulação ilegal de duas aposentadorias, deu o direito de opção pelo cargo que desejasse permanecer vinculado.
+O Tribunal estadual denegou a segurança nos seguintes termos:
+No caso dos autos, a impetrante sustenta possuir direito líquido e certo à acumulação do emprego de professora municipal com agente administrativo federal.
+Todavia, a jurisprudência é remansosa no sentido de que o cargo técnico é aquele que exige formação técnica ou específica para seu exercício, o que, indubitavelmente, não é o caso da impetrante:
+ ..
+No que tange à acumulação de aposentadoria, o artigo 37, § 10 da Constituição Federal veda a percepção simultânea de proventos de aposentadoria, com a remuneração de cargo, emprego ou função pública, in verbis:
+ ..
+Não obstante, o artigo 11 da Emenda Constitucional n.º 20/98 assegurou ao servidor o direito de percepção cumulada de proventos e vencimentos da segunda aposentadoria, desde que os respectivos requisitos também tenham sido preenchidos antes da entrada em vigor da referida norma constitucional, in verbis:
+ ..
+No mesmo sentido, a jurisprudência do Excelso Supremo Tribunal Federal e do Colendo Superior Tribunal de Justiça:
+ ..
+No entanto, a partir do cotejo das provas acostadas aos autos, não se pode depreender que os requisitos para concessão de ambas as aposentadorias teriam sido preenchidos antes do advento da Emenda Constitucional n.º 20/98.
+Com efeito, a Impetrante demonstrou que no dia 31/08/1985 (indexadores 38 e 51), foi concedida a sua aposentadoria do cargo de "Professor IC8" (matrícula n.º 15/661.542-2), junto ao Município de Nova Iguaçu.
+Por sua vez, inexistem nos autos elementos probatórios suficientes para fins de constatação de que os requisitos para concessão da jubilação do cargo de "Agente Administrativo" no Ministério da Saúde teriam sido preenchidos antes da publicação da supramencionada emenda constitucional, ao revés, a própria impetrante salienta em sua exordial (índex 04), que a aposentadoria no âmbito federal foi concedida através na publicação da Portaria SEPAI n.º 719/2006, publicada em 05/07/2006 (índex 39).
+A inobservância do ônus probatório enseja óbice ao deferimento da ordem pretendida, nos termos da jurisprudência deste Egrégio Tribunal, in verbis:
+ ..
+Destarte, tem-se que a impetrante não logrou demonstrar a presença dos requisitos para a concessão da segurança, sendo forçosa a denegação da ordem.
+Diante do exposto, VOTO no sentido de CONHECER dos embargos de declaração, e, no mérito, DAR-LHE PROVIMENTO empregando- lhes efeitos infringentes, para anular o v. acórdão de índex 530 e, ao analisar o mérito do mandado de segurança, DENEGAR A ORDEM e, ainda, condenar a impetrante ao pagamento das custas processuais.
+Como se verifica, o Tribunal estadual denegou a segurança ao fundamento de que "inexistem nos autos elementos probatórios suficientes para fins de constatação de que os requisitos para concessão da jubilação do cargo de "Agente Administrativo"no Ministério da Saúde teriam sido preenchidos antes da publicação da supramencionada emenda constitucional, ao revés, a própria impetrante salienta em sua exordial (índex 04), que a aposentadoria no âmbito federal foi concedida através na publicação da Portaria SEPAI n.719/2006, publicada em 05/07/2006".
+Ocorre que o recorrente deixou de impugnar o fundamento do acórdão recorrido. A referida fundamentação, por si só, mantém o resultado do julgamento ocorrido na Corte de origem e torna inadmissível o recurso que não a impugnou. Incide à hipótese/ao caso a Súmula 283/STF. A propósito (grifo nosso):
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. CÓDIGO DE PROCESSO CIVIL DE 2015.APLICABILIDADE. AUSÊNCIA DE COMBATE A FUNDAMENTOS AUTÔNOMOS DO ACÓRDÃO. APLICAÇÃO DO ÓBICE DA SÚMULA N. 283/STF. CONCURSO PÚBLICO.PRINCÍPIO DA VINCULAÇÃO AO EDITAL. NÃO PREENCHIMENTO DOS REQUISITOS.AUSÊNCIA DE DIREITO LÍQUIDO E CERTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9/03/2016, o regime recursal será determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o Código de Processo Civil de 2015.
+II - A falta de combate a fundamento suficiente para manter o acórdão recorrido justifica a aplicação, por analogia, da Súmula n.283 do Supremo Tribunal Federal.
+ ..
+V - Agravo Interno improvido.
+(AgInt no RMS 61.892/MG, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 01/7/2021)
+Ante o exposto, não conheço do recurso em mandado de segurança, com fundamento no artigo 34, XVIII, a, do RISTJ.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO EM MANDADO DE SEGURANÇA. SERVIDOR. APOSENTADORIA. CUMULAÇÃO. ORDEM DENEGADA POR AUSÊNCIA DE PROVA. FUNDAMENTO DO ACÓRDÃO NÃO ATACADO. INCIDÊNCIA DA SÚMULA 283/STF. PRECEDENTES. RECURSO NÃO CONHECIDO.
