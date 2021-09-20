@@ -1,0 +1,54 @@
+DECISÃO
+Trata-se de habeas corpus com pedido liminar impetrado em favor de SERGIO ANTONIO GOMES apontando como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (HC n. 2152474-87.2021.8.26.0000).
+Depreende-se dos autos que o paciente encontra-se preso preventivamente pela prática, em tese, de tentativa de homicídio e porte ilegal de arma de fogo.
+Impetrado habeas corpus perante o Tribunal de origem, esse denegou-lhe a ordem (e-STJ fls. 169/173).
+Daí o presente writ, no qual alega a defesa que o decreto de prisão preventiva carece de fundamentação idônea.
+Sustenta, para tanto, que "estão ausentes indícios de autoria que sejam veementes ou suficientes, e em grau de probabilidade suficiente ou elevado grau de credibilidade, indícios que devem ser fundamento geral para conferir legitimidade à prisão preventiva, ou seja, para justificar que uma pessoa de carne e osso seja mantida no cárcere, sem que isso configure valoração antecipada da prova" (e-STJ fl. 9).
+Acrescenta ser desnecessária a custódia cautelar, já que se revelariam adequadas e suficientes medidas diversas da prisão.
+Aduz a presença de condições pessoais favoráveis.
+Requer, liminarmente e no mérito, a revogação da custódia com a consequente expedição de alvará de soltura.
+Liminar indeferida às e-STJ fls. 176/177.
+Prestadas informações, o Ministério Público Federal opinou pelo não conhecimento da impetração, em parecer assim ementado (e-STJ fl. 203):
+HABEAS CORPUS. SUBSTITUTIVO DE RECURSO PRÓPRIO. INVIABILIDADE. CRIMES DE HOMICÍDIO E PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES DIVERSAS DO CÁRCERE (ART. 319, CPP). INCABÍVEIS. NÃO CONHECIMENTO.
+É o relatório.
+Decido.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, são estes os fundamentos invocados para a decretação da prisão preventiva (e-STJ fls. 120/121):
+O autuado foi surpreendido em típica situação de flagrância tentativa de homicídio e porte ilegal de arma de fogo, conduta cuja pena privativa de liberdade máxima abstratamente cominada é superior a quatro anos de reclusão.
+As circunstâncias concretas do fato demonstram que a prisão cautelar se afigura necessária por garantia da ordem pública, e para assegurar a aplicação da lei penal, notadamente porque o autuado possui extensa ficha de antecedentes criminais, inclusive por roubo (fls. 19/32).A despeito do requerimento da Defesa (62/63), não há razão para colocação do averiguado em liberdade provisória, tendo em vista que não há nada a indicar que se solto, ou em cumprimento a outras medidas, colaboraria socialmente com a manutenção da ordem ou interromperia suas atividades contrárias ao ordenamento jurídico.
+Ademais, as circunstâncias concretas do fato demonstram que a prisão cautelar se afigura necessária por garantia da ordem pública e também da saúde pública, e para assegurar a aplicação da lei penal, notadamente porque o autuado fora preso em flagrante em via pública, a despeito da pandemia do COVID-19 indicar a necessidade de isolamento social, o que sinaliza, em tese e a priori, que o autuado pouco está preocupado com a saúde pública, razão pela qual não pode a defesa, sob tal pretexto, pretender que ele tenha direito a medidas cautelares alternativas à prisão.
+As circunstâncias acima mencionadas, assim, justificam a conversão do flagrante em preventiva.
+A prisão cautelar se mostra necessária para a preservação da ordem e saúde públicas. Isso porque, uma vez em liberdade, há fundado risco de reprodução de novos delitos, agora agravados pela possibilidade de, através do contato social.
+Destarte, não sendo caso de relaxamento da prisão, tampouco de concessão de liberdade provisória, converto em prisão preventiva a prisão em flagrante do averiguado, pois necessária a custódia cautelar por garantia da ordem pública, e para assegurar a aplicação da lei penal (artigo 312 do CPP).
+Assim, depreende-se da leitura do decisum combatido que a decretação da prisão teve como fundamento a presença de anotações criminais pretéritas, sendo, inclusive, uma por roubo. Inequívoco, dessa forma, o risco de que, solto, perpetre novas condutas ilícitas.
+Dessa forma, justifica-se a imposição da prisão preventiva do paciente, pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência, atos infracionais pretéritos ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de se evitar a reiteração delitiva e, assim, garantir a ordem pública.
+Nesse sentido os seguintes precedentes desta Corte:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+5. O Juízo de primeiro grau destacou que o recorrente registra em sua folha de antecedentes a prática de outros delitos, já havendo sido preso anteriormente, o que reforça a necessidade de sua prisão provisória.
+6. Configurada a dedicação aparentemente habitual ao cometimento de crimes e o descumprimento de medida cautelar imposta em oportunidade pretérita, a substituição pleiteada pela defesa não constitui instrumento eficaz para obstar a reiteração delitiva, o que se mostra atingível apenas mediante a custódia preventiva do réu.
+7. Recurso não provido. (RHC n. 76.929/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. PRECEDENTES. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, IMPEDIR/DIFICULTAR A REGENERAÇÃO NATURAL DE VEGETAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. JUSTIFICATIVA IDÔNEA. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As circunstâncias do flagrante indicam atuação intensiva no tráfico de drogas, em razão da quantidade de arbustos plantados para comercialização (25 mil pés de maconha), bem como a ousadia do paciente, que, segundo a acusação, cultivava a droga em área de preservação ambiental permanente. Além do entorpecente, foram apreendidas armas e munições. Ademais, há risco concreto de reiteração criminosa, diante dos maus antecedentes e da reincidência do acusado.
+ ..
+5. Habeas Corpus não conhecido. (HC n. 389.098/SP, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/5/2017, DJe 31/5/2017, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ESTELIONATO, EXTORSÃO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA DEVIDAMENTE JUSTIFICADA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. RISCO CONCRETO DE REITERAÇÃO CRIMINOSA. EXCESSO DE PRAZO. INOCORRÊNCIA. AÇÃO PENAL COMPLEXA. DIVERSOS RÉUS. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS. IMPULSO REGULAR PELO MAGISTRADO CONDUTOR DO FEITO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Na hipótese, havendo prova da materialidade do delito e indícios de autoria, justifica-se a prisão preventiva para garantia da ordem pública. A gravidade concreta das condutas imputadas e o modus operandi revelam articulada organização voltada para a prática de ilícitos contra o patrimônio. O paciente responde a 18 ações penais por crimes contra o patrimônio, cometidos em diversas comarcas do estado, havendo fortes elementos, portanto, de que o acusado fazia do crime um meio de vida.
+4. Nos termos da jurisprudência desta Corte, a existência de ações penais em curso, ainda que sem o trânsito em julgado, pode autorizar a prisão preventiva para garantia da ordem pública, à luz das peculiaridades do caso concreto, consubstanciando forte indicativo de dedicação a atividades criminosas.
+ ..
+8. Habeas corpus não conhecido. (HC n. 364.847/RS, relator Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2016, DJe 27/10/2016.)
+HABEAS CORPUS. IMPETRAÇÃO ORIGINÁRIA. SUBSTITUIÇÃO AO RECURSO ORDINÁRIO CABÍVEL. IMPOSSIBILIDADE. TRÁFICO ILÍCITO DE ENTORPECENTES. PRISÃO EM FLAGRANTE CONVERTIDA EM PREVENTIVA. SUPERVENIÊNCIA DE CONDENAÇÃO. NEGATIVA DO APELO EM LIBERDADE. MESMOS FUNDAMENTOS DO DECRETO PREVENTIVO. AUSÊNCIA DE PREJUDICIALIDADE. SEGREGAÇÃO FUNDADA NO ART. 312 DO CÓDIGO DE PROCESSO PENAL. GARANTIA DA ORDEM PÚBLICA. HISTÓRICO CRIMINAL DO AGENTE. ATOS INFRACIONAIS. FUNDADO RISCO DE REITERAÇÃO DELITIVA. CIRCUNSTÂNCIAS DO DELITO. RÉU QUE PERMANECEU CUSTODIADO DURANTE A INSTRUÇÃO PROCESSUAL. CONSTRIÇÃO JUSTIFICADA E NECESSÁRIA. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. COAÇÃO ILEGAL NÃO EVIDENCIADA. WRIT NÃO CONHECIDO.
+ ..
+4. O fato de o paciente possuir anotações anteriores pela prática de atos infracionais, inclusive por delito análogo ao tráfico de entorpecentes, é circunstância que revela a sua periculosidade social e a sua inclinação à prática de crimes, demonstrando a real possibilidade de que, solto, volte a delinquir.
+ ..
+8. Habeas corpus não conhecido. (HC n. 442.874/SP, relator Ministro JORGE MUSSI, QUINTA TURMA, julgado em 26/6/2018, DJe 1º/8/2018.)
+RECURSO EM HABEAS CORPUS. ROUBO CIRCUNSTANCIADO PELO EMPREGO DE ARMA E PELO CONCURSO DE AGENTES E CORRUPÇÃO DE MENORES. ART. 312 DO CPP. PERICULUM LIBERTATIS. RISCO DE REITERAÇÃO DELITIVA. REGISTRO DE CRIMES E ANOTAÇÕES DE ATOS INFRACIONAIS. CRITÉRIOS ADOTADOS NO RHC N. 63.855/MG. FUNDAMENTAÇÃO SUFICIENTE. RECURSO NÃO PROVIDO.
+ ..
+3. Consoante entendimento firmado pela 3ª Seção do Superior Tribunal de Justiça no julgamento do RHC n. 63.855/MG, não constitui constrangimento ilegal a manutenção da custódia ante tempus com fulcro em anotações registradas durante a menoridade do agente se a prática de atos infracionais graves, reconhecidos judicialmente e que não distam da conduta em apuração, é apta a demonstrar a periculosidade do custodiado.
+4. Recurso não provido. (RHC n. 76.801/MG, relator Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei.)
+Ante o exposto, denego a ordem.
+Publique-se. Intimem-se.
