@@ -1,0 +1,4 @@
+DECISÃO
+Por meio da petição de fls. 3.379/3.380, os interessados GABRIEL PAULO GOUVEA DE FREITAS JUNIOR e FERNANDA FERRAZ DE BRAGA DE LIMA FREITAS, representantes da interessada GRADUAL CORRETORA DE CÂMBIO, solicitam a juntada de petição, outrora apresentada perante a justiça rogada, na qual pleitearam a devolução do presente àjustiça rogante, e, alternativamente, a extinção sem resolução do mérito. No mérito, solicitam que o pedido seja julgado improcedente.
+A impugnação apresentada pelos interessados diz respeitoao mérito da demanda em curso no Juízo rogante, transcendendo os limites estabelecidos no art. 216-Q, § 2º, do RISTJ, o que impede seu exame pela Presidência do Superior Tribunal de Justiça.
+Quanto ao pedido de devolução do pedido de cooperação, já tendo sido determinado no despacho de fls. 3.376-3.377, cumpra-se imediatamente.
