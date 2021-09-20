@@ -1,0 +1,10 @@
+DECISÃO
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. RECONSIDERAÇÃO DASDECISÕES AGRAVADAS.HONORÁRIOS ADVOCATÍCIOS. INCIDÊNCIA DO ART. 85, § 8º, DO CPC/2015. MATÉRIA SUBMETIDA AO RITO DOS RECURSOS REPETITIVOS (TEMA 1.076 - RESP 1.850.512/SP, RESP 1.877.883/SP e RESP 1.906.623/SP). RETORNO DOS AUTOS PARA SOBRESTAMENTO NOTRIBUNAL DE ORIGEM. APÓS, PROSSEGUIR COM O FEITO NOS TERMOS DOS ARTS. 1.039 A 1.040 DO CPC/2015.
+1. Trata-se de agravo interno norecurso especial interposto pela FAZENDA DO ESTADO DE SÃO PAULOcontra decisão monocrática desta relatoria, que deu provimento ao recurso especial interposto por COBERTORES MOURAD LTDA,determinando o retorno dos autos à Corte de origem para fixação dos honorários de sucumbência, obedecendo-se os parâmetros previstos no art. 85,§§ 2º e 3º, do CPC/2015.
+2. Nas razões do seu agravo interno, a parte agravante requer, no que importa, a devolução dos autos à origem para aplicação da tese a ser fixada pelo STJ no julgamento do Tema 1.076 do recursos especiais repetitivos.
+3. É o breve relatório.
+4. A irresignação merece prosperar.
+5. Issoporqueaquestão debatida nos autos, qual seja, a definição do alcance da norma inserta no art. 85, § 8º, do CPC/2015 para fixação dos honorários advocatícios, encontra-se afetada à Corte Especial do STJ aguardando o julgamento dos REsps 1.850.512/SP, 1.877.883/SP e 1.906.623/SP, de relatoria do eminente Ministro OG FERNANDES, sob o rito dos recursos repetitivos (Tema 1.076/STJ).
+6.A admissão de Recurso Especial como representativo da controvérsia impõe o sobrestamento dos autos do processo em que foram interpostos recursos na origem, cuja matéria se identifique com o tema afetado, para que, uma vez concluído o julgamento nesta Corte, seja o inconformismo apreciado na forma dos arts. 1.040 e 1.041 do CPC/2015.
+7.Em face do exposto, tornosem efeito as decisões anterioresedeterminoa devolução dos autos ao Tribunal de origem, com a devidabaixa nesta Corte Superior, para que, após a publicação do acórdãorepresentativo da controvérsia, o Tribunal de origem proceda nos termosdos arts. 1.040 e seguintes do CPC/2015.
+8. Publique-se. Intimações necessárias.
