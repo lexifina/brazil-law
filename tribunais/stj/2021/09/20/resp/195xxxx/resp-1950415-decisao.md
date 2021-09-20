@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de agravo em recurso especial manejado por EMPRESA AUXILIAR DE SERVIÇOS GERAIS DO PARANÁ LTDA, em face de decisão que inadmitiu recurso especial interposto contra acórdão assim ementado (fl. 243):
+MANDADO DE SEGURANÇA. CONTRIBUIÇÕES PREVIDENCIÁRIAS. COTA PATRONAL. DESCONTO DE VALE-TRANSPORTE, AUXÍLIO- ALIMENTAÇÃO E PLANO DE SAÚDE. TOTAL DAS REMUNERAÇÕES. VALORES BRUTOS.
+É devida pela empresa a contribuição previdenciária patronal sobre o total das remunerações pagas, devidas ou creditadas aos segurados empregados e trabalhadores avulsos que lhe prestam serviços, considerada, como base de cálculo, o valor bruto da remuneração, sendo descabido pretender que a contribuição incida apenas sobre o valor líquido dessa mesma remuneração, após o desconto do montante correspondente à cota de participação dos trabalhadores no vale-alimentação, vale-transporte e plano de saúde.
+O recurso especial não foi admitido quanto à matéria relativa ao vale-alimentação, ao fundamento de que o acórdão decidiu em conformidade com a jurisprudência do STJ no sentido de que a referida verba tem natureza salarial, integrando a base de cálculo da contribuição previdenciária, conforme AgInt nos EDcl no REsp n. 1.724.339/GO, DJe 21/9/2018 (fl. 384).
+O agravante sustenta a inaplicabilidade da Súmula 83/STJ, alegando a natureza não remuneratória do benefício auxílio-alimentação, com fulcro em precedente do STJ, REsp n. 1.023.053/RS, da Segunda Seção, DJe 16/12/2011, em que se firmou que o auxílio cesta-alimentação (PAT) não tem natureza salarial, para fins de complementação de aposentadoria paga por entidade de previdência privada e cita a regulamentação do PAT na Reforma Trabalhista e a Lei n. 8.212/1991.
+Parecer do Ministério Público Federal, a fls. 420-424, pelo não provimento do agravo.
+É o relatório. Decido.
+Nos termos do que dispõem os artigos 932, III, do CPC/2015 e 253, parágrafo único, I, do RI/STJ (redação dada pela Emenda Regimental n. 22, de 2016), compete ao agravante impugnar especificamente os fundamentos da decisão que obstou o recurso especial na origem.
+Assim, além da manifestação do inconformismo, inerente ao ato de irresignação, impõe-se ao recorrente o ônus de contrapor-se, de forma clara e específica, aos fundamentos da decisão agravada, conforme determina a lei processual civil e o princípio da dialeticidade.
+No caso dos autos, as razões do agravo não impugnam especificamente a decisão agravada, porquanto a argumentação e a jurisprudência da Seção de Direito Privado citada configuram razões dissociadas da fundamentação adotada na decisão de inadmissibilidade.
+Com efeito, encontra-se consolidado nesta Corte o entendimento de que incumbe ao agravante infirmar especificamente todos os fundamentos da decisão que não admitiu o processamento do recurso especial, o que não ocorreu na presente hipótese. A propósito: EAREsp 701.404/SC, Rel. Ministro João Otávio de Noronha, Rel. p/ Acórdão Ministro Luis Felipe Salomão, Corte Especial, DJe 30/11/2018.
+Ante o exposto, não conheço do agravo em recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. DECISÃO AGRAVADA. FUNDAMENTOS. AUSÊNCIA DE IMPUGNAÇÃO ESPECÍFICA. AGRAVO NÃO CONHECIDO.
