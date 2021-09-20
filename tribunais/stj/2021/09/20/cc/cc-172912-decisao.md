@@ -1,0 +1,23 @@
+DECISÃO
+Cuida-se de conflito negativo de competência instaurado entre o JUÍZO DA 2ª VARA MISTA DE SANTA RITA - PB, suscitante, e o JUÍZO DE DIREITO DA 24ª VARA CÍVEL DE RECIFE - PE, suscitado.
+Ação: obrigação de não fazer proposta por GILVAN CARLOS DA SILVA em face da FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL - REFER, na qual pleiteia a cessação dos descontos indevidos a título de suplementação de aposentadoria, bem como a devolução dos valores já descontados.
+Manifestação do Juízo de Direito da 24ª Vara Cível de Recife - PE, suscitado: acolheu a exceção de incompetência proposta pela parte demandada e declinou de sua competência para uma das Varas da Comarca de Santa Rita/PB, onde está o domicílio do autor ea obrigação deve ser satisfeita, situação que, em sua visão, atrairia a incidência da Súmula 321 do STJ (e-STJ, fl. 297).
+Manifestação do Juízo de Direito da 2ª Vara Mista de Santa Rita - PB:afirmou que a demanda não constituirelação de consumoe, assim, que o feito deve ser processado no foro de escolha do demandante ou no da sede da pessoa jurídica ré, de modo a suscitar o presente conflito de competência.
+Parecer do MPF: opinou pela declaração da competência do Juízo de Direito da 24ª Vara Cível de Recife.
+É O RELATÓRIO. DECIDO.
+Conheço do conflito porquanto envolve juízos vinculados a Tribunais diversos, de acordo com o art. 105, I, "d", da CF.
+Cinge-se a controvérsia em estabelecer qual o juízo competente para processar e julgar a ação que tem por objeto a cessação dos descontos indevidos a título de suplementação de aposentadoria, bem como a devolução dos valores já descontados, ajuizada em face da Refer, Fundação Rede Ferroviária de Seguridade Social.
+Consoante dispõe o enunciado da Súmula 563/STJ, "o código de defesa do consumidor é aplicável às entidades abertas de previdência complementar, não incidindo nos contratos previdenciários celebrados com entidades fechadas".
+Observa-se, portanto,que ademandada se trata de entidade fechada de previdência complementar, em relação a qual não incide as regras da legislação consumerista. Desse modo, não se aplica o entendimento preconizado pelo enunciado da Súmula 321/STJ (já cancelada), tal como defendeu o Juízo suscitado, ao acolherexceção de incompetência proposta pela parte demandada.
+Na verdade, em casos similares, esta Corte assinala que" .. é possível ao participante e/ou assistido de plano de benefícios patrocinado ajuizar ação em face da entidade de previdência privada no foro de domicílio da ré, no eventual foro de eleição ou mesmo no foro onde labora(ou) para a patrocinadora" (REsp 1.536.786/MG, Rel. Ministro Luís Felipe Salomão, SEGUNDA SEÇÃO, DJe 20/10/2015).
+Na espécie, portanto,das três diretrizes aventadas pelo referido aresto (que refletiu aorientação consolidada desta Corte), a única que é possível ser indicada como referência para fixação da competência é o do domicílio da ré, visto que não há notícias da existência de foro de eleição e, tampouco, do local onde a parte autora laborou para a patrocinadora.
+Registre, por oportuno, que não há óbiceneste incidente processual que se aponte um terceiro juízo que não os juízos em conflito.Com efeito, "oreconhecimento da competência de Juízo estranho ao conflito suscitado é perfeitamente possível ante a ausência de vedação legal, sendo procedimento adotado por esta Corte Superior em muitas oportunidades, garantindo-se, assim, a celeridade na tramitação do processo" (CC 120.556/CE, Segunda Seção, DJe 17/10/2013).
+Nesse sentido, ainda: CC 89.387/MT, Segunda Seção, DJe 18/4/2008; CC 80.266/PR, Segunda Seção, DJ 12/2/2008.
+Nessa ordem de ideias, entendo como competente para o julgamento do feitoo foro do Rio de Janeiro, para onde o processo deve ser remetido.
+Forte nessas razões, CONHEÇO do conflito para declarar a competência de uma das Varas Cíveis do Rio de Janeiro - RJ, para onde o processo deve ser remetido.
+Publique-se. Intimem-se. Comunique-se.
+EMENTA
+CONFLITO NEGATIVO DE COMPETÊNCIA. OBRIGAÇÃO DE NÃO FAZER. FUNDAÇÃO REDE FERROVIÁRIA DE SEGURIDADE SOCIAL. ENTIDADE FECHADA DE PREVIDÊNCIA PRIVADA. RECONHECIMENTO DA COMPETÊNCIA DE JUÍZO ESTRANHO AO CONFLITO.
+1. Consoante a orientação da Segunda Seção do STJ, "é possível ao participante e/ou assistido de plano de benefícios patrocinado ajuizar ação em face da entidade de previdência privada no foro de domicílio da ré, no eventual foro de eleição ou mesmo no foro onde labora(ou) para a patrocinadora" (REsp 1.536.786/MG, Segunda Seção, DJe 20/10/2015).
+2. A jurisprudência desta Corte admite a remessa dos autos a um terceiro juízo, estranho ao conflito, considerado competente.
+3. Conflito conhecido para declarar competente uma das VARAS CÍVEIS DO RIO DE JANEIRO - RJ.
