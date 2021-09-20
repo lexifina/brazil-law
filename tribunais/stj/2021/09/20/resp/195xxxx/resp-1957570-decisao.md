@@ -1,0 +1,50 @@
+DECISÃO
+Trata-se de recurso especial interposto por Angela Maria Castagnacci Maciel e e outracontra acórdão proferido pelo Tribunal Regional Federal da 3ªRegião assim ementado:
+APELAÇÃO CÍVEL. PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUISITOS LEGAIS NÃOPREENCHIDOS. QUALIDADE DE SEGURADO. SENTENÇA TRABALHISTA. RECURSOPROVIDO.
+1. A pensão por morte, benefício devido ao conjunto dos dependentes do segurado que falecer, aposentado ou não, está disciplinada pela Lei nº 8.213/1991, nos artigos 74 a 79, cujo termo inicial, previsto no artigo 74, com a redação dada pela Lei nº 9.528/97, é fixado conforme a data do, da seguinte forma: (i) , quando requerida até trinta dias depois deste; (ii) requerimento do óbito do, quando requerida após o prazo previsto no inciso anterior; (iii) requerimento da decisão judicial no caso de morte presumida.
+2. O artigo 16, da Lei 8.213/91, enumera as pessoas que são beneficiárias da Previdência Social, na condição de : dependentes do segurado Art. 16. São beneficiários do Regime Geral de Previdência Social, na condição de dependentes do segurado: I - o cônjuge, a companheira, ocompanheiro e o filho não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave; II - os pais; III - o irmão não emancipado, de qualquer condição, menor de 21 (vinte e um) anos ou inválido ou que tenha deficiência intelectual ou mental ou deficiência grave; (..)
+3. Trata-se de pensão por morte requerida por Angélica Castagnacci de Lima Maciel e por Ângela Maria Castagnacci Maciel em face do INSS, na condição de esposa e de filha menor do falecido, cujo óbito ocorreu em 15/04/2001 (Henrique Felix Maciel).
+4. A controvérsia reside na qualidade de segurado do "de cujus". Quanto à sentença trabalhista meramente homologatória, é pacífico nesta E. Corte que referido início de prova material não é suficiente para comprovar a qualidade de segurado, fazendo-se necessário o complemento por outras provas, consoante entendimento da 3ª Seção desta Corte, alinhado ao posicionamento do C. Superior Tribunal de Justiça. Precedentes.
+5. No caso dos autos, a pretensão da parte autora se limita à sentença trabalhista que aplicou apena de confissão ficta à reclamada, (09/06/2006), para provar a qualidade de segurado do falecido, da qual consta o reconhecimento do período de 07/10/99 a 14/04/2001, como vínculo empregatício.
+6. Não obstante, conquanto haja sentença proferida na Reclamação Trabalhista, conforme entendimento firmado nesta E. Corte e em consonância com o §3º do art. 55 da Lei nº 8.213/91,anotação posterior na CTPS do segurado, tais elementos são insuficientes para provar a qualidade de segurado do falecido.
+7. Verifica-se, ademais, que a CTPS do "de cujus" apresenta uma anotação anterior referente a23/05/94 a 20/07/94, e do CNIS não há registros.
+8. Desse modo, assiste razão à Autarquia e a pensão por morte deve ser indeferida, ante o descumprimento de requisito legal e necessário à concessão do benefício (qualidade de segurado).
+9. Apelação provida.
+Opostos embargos de declaração foram rejeitados.
+Em suas razões de recurso especial, sustenta o recorrente, ora agravante,que o Tribunal a quo negou vigência aos artigos 55, §3º e 74, daLei 8.213/1991, alegando que o de cujospossuía qualidade de segurado eque a sentença trabalhistapode servir de prova material para suacomprovação. Ressalta que apresentou provas acerca da atividade desenvolvida, a saber: anotações da CTPS, testemunhas e decisão homologada pelo Juiz do trabalho.
+O prazo para apresentação de contrarrazões ao recurso especial decorreu inalbis.
+É o relatório.
+Decido.
+Inicialmente é necessário consignar que o presente recurso atrai aincidência do Enunciado Administrativo 3/STJ que dispõe in verbis: aosrecursos interpostos com fundamento no CPC/2015 (relativos a decisõespublicadas a partir de 18 de março de 2016) serão exigidos os requisitosde admissibilidade recursal na forma do novo CPC.
+A questão a ser revisitada diz respeito à força probante dasentença trabalhista condenatória, na esfera da jurisdição federalprevidenciária, para fins de comprovação da qualidade de segurado.Acerca da questão jurídica, o STJ assentou sua jurisprudênciano entendimento segundo o qual a sentença trabalhista pode serconsiderada como início de prova material, desde que corroborada poroutros elementos probatórios capazes de demonstrar o exercício daatividade laborativa, durante o período que se pretende ter reconhecido naação previdenciária.
+Ilustrativamente:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. SENTENÇATRABALHISTA HOMOLOGATÓRIA. INÍCIO DE PROVA MATERIAL. VIOLAÇÃO DO ART.1.022 DO CPC/2015 NÃO CONFIGURADA. ALTERAÇÃO DAS CONCLUSÕES ALCANÇADAS NAORIGEM. IMPOSSIBILIDADE. ÓBICE DA SÚMULA 7/STJ.
+1. Não se configura a alegada ofensa ao artigo 1.022 do Código deProcesso Civil de 2015 uma vez que o Tribunal de origem julgouintegralmente a lide e solucionou, de maneira amplamente fundamentada, acontrovérsia, tal como lhe foi apresentada.
+2. Não se trata de omissão, contradição ou obscuridade, tampoucoerro material, mas sim de inconformismo direto com o resultado do acórdão,que foi contrário aos interesses do recorrente.
+3. A jurisprudência desta Corte preconiza que "a sentençatrabalhista homologatória de acordo só pode ser considerada como início deprova material se fundada em elementos que demonstrem o labor exercido nafunção e os períodos alegados pelo trabalhador, sendo, dessa forma, apta
+a comprovar o tempo de serviço enunciado no art. 55, § 3º, da Lei8.213/91".
+(RCD no AREsp 886.650/SP, Rel. Ministro Humberto Martins, Segunda Turma,julgado em 17/5/2016, DJe 25/5/2016).
+4. Na hipótese dos autos, o Tribunal de origem, após análise doselementos fáticos, reconheceu a qualidade de segurado do instituidor dapensão, por entender que este "era de fato filiado ao RGPS na data de seuóbito, devendo ser concedida a pensão requerida" (fl. 471, e-STJ).
+5. Não é cabível a alteração do que foi decidido na origem, tendo emvista o óbice da Súmula 7/STJ, uma vez que tal providência demandariareincursão no contexto probatório dos autos.
+6. Recurso Especial parcialmente conhecido e, nessa parte, não provido.
+(REsp 1.698.530/RS, Segunda Turma, Relator Ministro Herman Benjamin,DJe 19/12/2017)
+PREVIDENCIÁRIO. PROCESSUAL CIVIL. SENTENÇA TRABALHISTAMERAMENTE HOMOLOGATÓRIA DE ACORDO. INÍCIO DE PROVA MATERIAL.IMPRESTABILIDADE. JURISPRUDÊNCIA CONSOLIDADA DO STJ.
+1. A jurisprudência desta Corte está firmada no sentido de que asentença trabalhista pode ser considerada como início de prova material,desde que prolatada com base em elementos probatórios capazes dedemonstrar o exercício da atividade laborativa, durante o período que sepretende ter reconhecido na ação previdenciária.
+2. Na espécie, ao que se tem dos autos, a sentença trabalhistaestá fundada apenas nos depoimentos das partes, motivo pelo qual não serevela possível a sua consideração como início de prova material para finsde reconhecimento da qualidade de segurado do instituidor do benefício e,por conseguinte, do direito da autora à pensão por morte.
+3. Agravo interno a que se nega provimento.
+(AgInt no AREsp 688.117/SP, Primeira Turma, Relator MinistroSérgio Kukina, DJe 11/12/2017)
+Destarte, o Tribunal de origem decidiu em consonância com a jurisprudência do STJ.
+Ademais, nocaso, o Tribunal a quo concluiu que a prova testemunhal produzidanos presentes autos nãofoi suficiente para corroborar a sentença trabalhista, que se trata de início de prova material, quanto à qualidade de segurado.
+Assim, rever o entendimento do Tribunal de origem para entender que há provas suficientes acerca da qualidade de segurado do de cujosdemandaria necessáriorevolvimento de matéria fática, o que é inviável em sede de recursoespecial, à luz do óbice contido na Súmula7/STJ.
+Nesse sentido:
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. PENSÃO POR MORTE. REQUISITOS NÃO PREENCHIDOS. FUNGIBILIDADE DE BENEFÍCIOS. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 282/STF. REVISÃO DE PROVAS.IMPOSSIBILIDADE. SÚMULA 7/STJ.
+1. O dispositivo legal (art. 322, § 2º, do CPC/2015) cuja violação se alega não foi objeto de análise pela instância de origem.
+Incidência da Súmula 282/STF. É assente no STJ o entendimento de que é condição sine qua non para que se conheça do Recurso Especial que tenha sido ventilado, no contexto do acórdão objurgado, o dispositivo legal indicado como malferido. 2. O STJ firmou a orientação de que, para a obtenção do benefício da pensão por morte, faz-se necessário a presença de dois requisitos: qualidade de segurado e condição de dependência.
+3. Havendo o acórdão de origem delineado a controvérsia a partir do universo fático-probatório constante dos autos, não há como, em Recurso Especial, alterar o entendimento fixado pelo Tribunal a quo, relativamente à não comprovação da dependência econômica apta à concessão do benefício, esbarrando na Súmula 7/STJ.
+4. Recurso Especial não conhecido.
+(REsp 1789823/SP, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, julgado em 27/08/2019, DJe 05/09/2019)
+Ante o exposto, com fulcro no art. 932, III e IV, do CPC/2015 c/c o art.255, § 4º, I e II, do RISTJ, conheço em parte do recurso especial e, nessaextensão, nego-lhe provimento.Caso exista nos autos prévia fixação de honoráriosadvocatícios pelas instâncias de origem, determino sua majoração emdesfavor da parte recorrente, no importe de 15% sobre o valor jáarbitrado, percentual esse justificado pelo tempo decorrido entre ainterposição do recurso e julgamento e a complexidade da causa, nos termosdo art. 85, § 11, do Código de Processo Civil. Os limites percentuaisprevistos nos §§ 2º e 3º do referido dispositivo legal devem serobservados,bem como eventual concessão da gratuidade da justiça.
+Publique-se.
+Intimem-se.
+EMENTA
+PROCESSUAL CIVIL E PREVIDENCIÁRIO. RECURSO ESPECIAL. ENUNCIADOADMINISTRATIVO 3/STJ. PENSÃO POR MORTE. QUALIDADE DE SEGURADO. SENTENÇATRABALHISTA. EFICÁCIA PROBATÓRIA. PRECEDENTES. SÚMULA 7/STJ. RECURSO ESPECIAL PARCIALMENTE CONHECIDO E NÃO PROVIDO.
