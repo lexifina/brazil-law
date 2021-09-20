@@ -1,0 +1,44 @@
+DECISÃO
+Cuida-se de habeas corpus substitutivo de recurso próprio, com pedido de liminar, impetrado em benefício de EDSON TOMAZ contra acórdão do TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO, proferido no julgamento do HC n. 2110087-57.2021.8.26.0000.
+Extrai-se dos autos que o paciente foi denunciado em 8/10/2019 e preso preventivamente pela suposta prática dos delitos previstos nos arts. 155, §§ 1º e 4º, inciso IV; 157, § 2º, incisos II e V; e 288, todos do Código Penal (furto majorado, roubo majorado e associação criminosa). O mandado de prisão foi cumprido em 27/11/2019.
+A defesa impetrou habeas corpus perante a Corte estadual, alegando excesso de prazo na formação a culpa, sendo denegada a ordem, em acórdão assim ementado:
+"HABEAS CORPUS - ALEGAÇÃO DE QUE DEVE SER RELAXADA A PRISÃO PREVENTIVA DO PACIENTE, POR INCIDÊNCIA DE EXCESSO DE PRAZO NA CONCLUSÃO DA FASE INSTRUTÓRIA. SEGUNDO ARGUMENTO DE QUE ELE POSSUI RESIDÊNCIA FIXA (FL. 04). TERCEIRO QUANTO A DEVER SER OBSERVADO O PRINCÍPIO CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA.
+IMPETRAÇÃO QUE APONTA A PRÁTICA DOS CRIMES PREVISTOS NOS ARTS. 155, § 1ºE § 4ºIV; 157, § 2º, II E V, E § 2º-A, I; E 288, § ÚNICO, NA FORMA DO ART. 69, TODOS DO CP.
+AUSÊNCIA DE MOROSIDADE QUE POSSA SER IMPUTADA AO PODER JUDICIÁRIO, DIANTE DA NECESSIDADE DE EXPEDIÇÃO DE DEPRECATAS PARA INTERROGATÓRIOS DO SUPLICANTE E DOS CORRÉUS, BEM COMO PARA OITTVAS DAS TESTEMUNHAS ARROLADAS PELA DEFESA E PELA ACUSAÇÃO.
+SITUAÇÃO A DEMONSTRAR QUE O SUPLICANTE OSTENTA APONTAMENTOS CRIMINAIS, A RECOMENDAR A SEGREGAÇÃO CAUTELAR. - INTELIGÊNCIA DO ART. 324, IV, DO CPP.
+PRISÃO QUE NÃO OFENDE O PRINCÍPIO SUPRARREFERIDO, DADA A SUA NATUREZA PROCESSUAL CAUTELAR.
+Ordem denegada, com recomendação" (fls. 9/10).
+No presente writ, a defesa sustenta excesso de prazo para a formação da culpa, aduzindo que a prisão perdura há mais de 2 anos sem previsão da designação de audiência de continuidade para oitiva de testemunhas e interrogatório dos acusados, em manifesta violação do princípio da razoável duração do processo.
+Requer, assim, a concessão da liberdade provisória.
+Indeferido o pedido de liminar (fls. 81/82), as informações foram prestadas às fls. 87/100 e o Ministério Público Federal opinou pela denegação da ordem (fls. 112/115).
+É o relatório.
+Decido.
+O presente writ encontra-se prejudicado.
+Isso porque, em consulta ao site do Tribunal de origem, verifica-se que as partes apresentaram alegações finais em 30/8/2021, 1/9/2021 e em 8/9/2021 (Ação penal n. 1500116-52.2019.8.26.0458).
+Dessa forma, estando, portanto, encerrada a instrução processual, atrai-se ao caso a incidência da Súmula 52 deste Superior Tribunal de Justiça, que prevê:"Encerrada a instrução criminal, fica superada a alegação de constrangimento por excesso de prazo".
+Nesse sentido:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. LATROCÍNIO E CORRUPÇÃO DE MENORES. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. INDICAÇÃO NECESSÁRIA. FUNDAMENTAÇÃO SUFICIENTE. EXCESSO DE PRAZO. ENCERRAMENTO DA INSTRUÇÃO CRIMINAL. SÚMULA N. 52 DO STJ. PREJUDICIALIDADE. RECURSO ORDINÁRIO JULGADO PREJUDICADO EM PARTE E, NA PARTE REMANESCENTE, NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, da natureza abstrata do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP). 2. In casu, após ser beneficiado com a substituição da prisão preventiva por cautelares diversas, por força de liminar concedida pelo Tribunal a quo em prévio writ, o réu teve seu encarceramento ante tempus novamente decretado, diante da notícia de que, junto com um corréu, estaria coagindo testemunhas do processo para modificarem suas versões a serem apresentadas em juízo, bem como as ameaçando.
+Destacou-se, na mesma oportunidade, que o acusado é integrante da facção criminosa denominada PCC - fato que não constou do primeiro decreto -, a evidenciar sua periculosidade.
+3. Dadas as apontadas circunstâncias fáticas e as condições pessoais do recorrente, não se mostra adequada e suficiente a substituição da prisão preventiva por medidas a ela alternativas (art. 282 c/c art. 319 do CPP).
+4. A tese de que haveria excesso de prazo está prejudicada, tendo em vista a notícia de que a instrução criminal foi encerrada, com a apresentação de alegações finais pelas partes. Entendimento consolidado na Súmula n. 52 deste Superior Tribunal.
+5. Recurso ordinário julgado prejudicado em parte e, na parte remanescente, não provido.
+(RHC 126.419/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 14/09/2020).
+PROCESSO PENAL. HABEAS CORPUS. PREJUDICADO. PEDIDO DE RECONSIDERAÇÃO. PRINCÍPIOS DA AMPLA DEFESA E DA FUNGIBILIDADE. RECEBIMENTO COMO AGRAVO REGIMENTAL. CABIMENTO. ORGANIZAÇÃO CRIMINOSA. CONCUSSÃO. EXCESSO DE PRAZO. SÚMULA N. 52/STJ. PRISÃO PREVENTIVA. PANDEMIA DA COVID-19. SUPRESSÃO DE INSTÂNCIA.
+1. É cediço que o pedido de reconsideração será recebido como agravo regimental, uma vez que esse é o recurso cabível para fins de reconsideração de decisão monocrática proferida por relator, nos termos dos arts. 258 e 259 do Regimento Interno do Superior Tribunal de Justiça.
+2. Em atenção ao princípio da fungibilidade, da instrumentalidade das formas, da ampla defesa e da efetividade do processo, recebo o presente pedido de reconsideração como agravo regimental.
+3. A questão referente ao excesso de prazo está prejudicada, pois o processo encontra-se na fase de oferecimento de alegações finais (Súmula n. 52 desta Corte).
+4. A despeito do esforço da diligente defesa, a questão acerca do reexame da prisão preventiva, em razão da pandemia da Covid-19, não foi enfrentada pelas instâncias ordinárias. Sem isso, fica esta Corte impedida de analisar o alegado constrangimento ilegal, sob pena de incorrer em indevida supressão de instância e incidir em patente desprestígio às instâncias ordinárias.
+5. Agravo regimental desprovido.
+(RCD no HC 552.734/SP, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, DJe 03/06/2020).
+AGRAVO REGIMENTAL NO RECURSO ORDINÁRIO EM HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA. ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PRISÃO PREVENTIVA. ALEGADO EXCESSO DE PRAZO PARA A FORMAÇÃO DA CULPA INOCORRÊNCIA. INSTRUÇÃO CRIMINAL ENCERRADA. INCIDÊNCIA DA SÚMULA 52/STJ. ALEGADA VIOLAÇÃO DO PRINCÍPIO DA COLEGIALIDADE. NÃO OCORRÊNCIA. NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO IMPUGNADA. INEXISTÊNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+I - O prazo para a conclusão da instrução criminal não tem as características de fatalidade e de improrrogabilidade, fazendo-se imprescindível raciocinar com o juízo de razoabilidade para definir o excesso de prazo, não se ponderando a mera soma aritmética dos prazos para os atos processuais. Precedentes.
+II - In casu, a alegação de excesso de prazo para a formação da culpa encontra-se, por ora, superada, tendo em vista que a instrução criminal foi encerrada, e o feito encontra-se aguardando a apresentação de alegações finais, atraindo a incidência do enunciado sumular n. 52 desta Corte Superior, segundo o qual "encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo". Precedentes.
+III - A decisão monocrática que nega provimento a recurso ordinário em habeas corpus, especialmente quando contrário a entendimento firmado em jurisprudência consolidada desta eg. Corte, como na hipótese, não viola o princípio da colegialidade, conforme entendimento do Código de Processo Civil e do Regimento Interno desta Corte, que permitem ao relator julgar monocraticamente recurso inadmissível, prejudicado, ou que não tiver impugnado especificamente todos os fundamentos da decisão recorrida, e ainda, dar ou negar provimento nas hipóteses em que houve entendimento firmado em precedente vinculante, súmula ou jurisprudência consolidada do Supremo Tribunal Federal ou do Superior Tribunal de Justiça. Precedentes.
+IV - É assente nesta Corte Superior que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos. Precedentes.
+Agravo regimental desprovido.
+(AgRg no RHC 124.950/MS, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 10/06/2020).
+Assim, não há como negar a perda superveniente do objeto do presente mandamus, no qual a parte alega excesso de prazo na formação da culpa.
+Ante o exposto, julgo prejudicado o presente habeas corpus, com fundamento no art. 34, XI, do RISTJ.
+Publique-se.
+Intimem-se.
