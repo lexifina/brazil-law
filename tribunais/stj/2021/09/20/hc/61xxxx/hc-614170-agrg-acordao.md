@@ -1,0 +1,71 @@
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. INOCORRÊNCIA. RAZOABILIDADE. AGRAVO NÃO PROVIDO.
+1. A lei processual não estabelece um prazo para o julgamento da apelação criminal. Eventual excesso no andamento do feito deve ser analisado à luz do princípio da razoabilidade, para que se verifique a ocorrência de constrangimento ilegal imposto ao réu.
+2. Na hipótese, o feito segue trâmite razoável diante da complexidade verificada, pois a mora no envio do recurso ao segundo grau se justificou, especificamente, pelo conflito de competência envolvendo processos alusivos à "Operação Alpargatas e Olhos de Diamante", após a extinção da vara na qual tramitava o feito. Portanto, não se constatou desídia por parte do Juízo de origem na condução do feito.
+3. Ressalta-se que, consoante entendimento pacificado nesta Corte, eventual excesso de prazo no julgamento da apelação deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória. In casu, o paciente foi condenado à pena de 18 anos e 8 meses de reclusão.
+4. Agravo regimental não provido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por MARLONE ALMEIDA DE SOUSA, de decisão na qual não conheci do habeas corpus, mas recomendei ao TRF da 1ª Região celeridade no julgamento do recurso de apelação (e-STJ, fls. 317-321).
+O agravante defende a concessão do direito de responder ao feito em liberdade, diante do excesso de prazo para julgamento do recurso de apelação, causado exclusivamente pelo juízo de primeiro grau, qual demorou mais de 1 ano para remeter o processo ao Tribunal Regional Federal da 1ª Região.
+Requer, assim, a reconsideração do decisum ou a submissão do feito ao colegiado, a fim de lhe ser concedido o direito de aguardar o julgamento do recurso de apelação em liberdade.
+É o relatório.
+EMENTA
+PROCESSO PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE ENTORPECENTES. EXCESSO DE PRAZO PARA JULGAMENTO DA APELAÇÃO. INOCORRÊNCIA. RAZOABILIDADE. AGRAVO NÃO PROVIDO.
+1. A lei processual não estabelece um prazo para o julgamento da apelação criminal. Eventual excesso no andamento do feito deve ser analisado à luz do princípio da razoabilidade, para que se verifique a ocorrência de constrangimento ilegal imposto ao réu.
+2. Na hipótese, o feito segue trâmite razoável diante da complexidade verificada, pois a mora no envio do recurso ao segundo grau se justificou, especificamente, pelo conflito de competência envolvendo processos alusivos à "Operação Alpargatas e Olhos de Diamante", após a extinção da vara na qual tramitava o feito. Portanto, não se constatou desídia por parte do Juízo de origem na condução do feito.
+3. Ressalta-se que, consoante entendimento pacificado nesta Corte, eventual excesso de prazo no julgamento da apelação deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória. In casu, o paciente foi condenado à pena de 18 anos e 8 meses de reclusão.
+4. Agravo regimental não provido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+O agravo não merece prosperar.
+A decisão recorrida, transcrita a seguir, deve ser mantida pelos seus próprios fundamentos, porque ela está em consonância com a jurisprudência desta Corte.
+"O Tribunal federal refutou a alegação de excesso de prazo para a subida do apelo da defesa nos seguintes termos:
+"No que concerne à alegação de constrangimento ilegal em razão da alegada demora na remessa, a este Tribunal Regional Federal, do recurso de apelação interposto pelo paciente, tal argumento não possui aptidão para justificar a revogação da custódia cautelar ora impugnada, considerando que tal demora não decorreu por desídia do Juízo a quo.
+A propósito, o Juízo Federal da 3ª Vara Criminal da Seção Judiciária de Rondônia ao prestar informações consignou o seguinte a fim de justificar os motivos que deram causa ao retardo na remessa a este Tribunal Superior do recurso de apelação interposto pelo ora paciente:
+O paciente interpôs recurso de apelação no dia 30-09-2019, já com as razões inclusas.
+A sentença foi publicada no dia 19-11-2019.
+O processo tramitava junto ao juízo da Vara Única da Subseção Judiciária de Guajará- Mirim.
+Após a extinção da referida seccional, os autos foram redistribuídos ao juízo da 7ª Vara Federal de Porto Velho no dia 21-02-2020, o qual declinou a competência em favor do juízo da 3ª Vara Federal por dependência à medida cautelar n. 914- 24.2014.4.01.4102: decisão de 14- 05-2020 (Id Num. 259015014 - págs. 173- 174).
+No dia 05-06-2020, o processo chegou neste juízo (3ª Vara Federal da SJRO), todavia, foi atribuído ao Juiz Federal Substituto.
+Pela decisão de Id Num. 261397415, proferida no dia 12-06-2020 nos autos n. 1005264-34.2020.4.01.4100, firmei a competência para processar e julgar todos os processos alusivos à Operação Alpargatas e Olhos de Diamantes, contemplando, pois, a presente ação penal.
+No dia 18-06-2020 o processo foi migrado para o Pje, tendo o Juiz Federal Substituo declinado a competência a este Juiz, conforme decisão de Id Num. 259672857, proferida no dia 20-06-2020.
+Nesta data (23-06-2020), proferi decisão recebendo os recursos interpostos e determinando outras providências. Vejamos:
+ ..  3. CONCLUSÃO 3.1) Certifique-se o trânsito em julgado da sentença para o Ministério Público Federal (Id Num. 259015014 - págs. 105-106);
+3.2) Traslade-se cópia desta sentença para os autos n. 914.14.2014.4.01.4102, onde deverá ser desbloqueado, via BACENJUD, os valores reputados irrisórios, conforme determinado no item 7 da sentença;
+3.3) A secretaria da vara deverá providenciar o traslado para estes autos dos mandados de prisão expedidos em relação aos condenados JUAREZ RODRIGUES DE ALMEIDA, MARLONE ALMEIDA DE SOUZA e ALEX SCHMMTER PEREZ (fls. 3.183, 3.185 e 3.190/processo 914.14.2014.4.01.4102), bem como verificar se foram registrados no BNMP 2.0 do CNJ e, em caso negativo, cumpra-se a providência;
+3.4) Diligencie a secretaria para obter resposta ao ofício de Id Num. 259015014 - pág. 102 (retirada do monitoramento eletrônico da condenada MIRIAM);
+3.5) Cadastre-se o advogado de MÁRIO PLÍNIO ((Id Num. 259015014 - págs. 109- 110);
+3.6) Prestem as informações requisitadas (Id Num. 259408878);
+3.7) Recebo os recursos de apelação interpostos, tempestivamente, pela defesa dos acusados;
+3.8) Quanto ao efeito dos recursos, considerando que os condenados MIRIAM e MÁRIO encontram-se em liberdade, a apelação terá efeito suspensivo (art. 597 do CPP).
+3.9) Relativamente os condenados foragidos ALEX, MARLONE e JUAREZ, a apelação terá efeito devolutivo. Cumpridos os mandados de prisão, expeçam-se guias de execução provisória;
+3.10) À defesa do acusado ALEX SCHMITTER PEREZ para apresentação de razões recursais, no prazo de 08 dias (art. 600, do CPP);
+3.11) Após, ao Ministério Público Federal para contrarrazões recursais referentes aos recursos interpostos pela defesa dos condenados ALEX e MARLONE;
+3.12) Apresentadas as contrarrazões acima referidas, e considerando que a defesa dos condenados JUAREZ, MIRIAN e MÁRIO externaram desejo de apresentar razões na instância superior, e cumpridas todas as providências determinadas acima, remetam-se os autos ao Tribunal Regional Federal da 1ª Região.
+ ..
+Atualmente, aguarde-se o cumprimento das determinações acima referidas para a remessa dos autos à instância superior.
+Assim, não há se falar em excesso de prazo apto a justificar a revogação da prisão cautelar porquanto as circunstâncias do caso devem ser avaliadas à luz do critério da razoabilidade, não decorrendo o excesso injustificado de prazo da simples extrapolação daquele, o qual não resulta da soma aritmética dos prazos processuais, mas da complexidade do processo como um todo" (e-STJ, fls. 147-149).
+De início, vale anotar que alei processual não estabelece um prazo para o julgamento da apelação criminal. Eventual excesso no andamento do feito deve ser analisado à luz do princípio da razoabilidade, para que se verifique a ocorrência de constrangimento ilegal imposto ao réu.
+Em consulta à página eletrônica do Tribunal Regional Federal da 1ª Região, verifica-se que o recurso de apelação foi interposto em 19/09/2019 erecebido na Corte federalem 10/11/2020, estando atualmente concluso com o relator para decisão.
+A mora em primeira instância - para a subida do recurso - se justificou em razão especificamente do conflito de competência envolvendo processos alusivos à "Operação Alpargatas e Olhos de Diamantes", após a extinção da Vara Única da Subseção Judiciária de Guajará-Mirin, na qual tramitava o feito.
+Anote-se, ainda, que, consoante entendimento pacificado nesta Corte, eventual excesso de prazo no julgamento da apelação deve ser mensurado de acordo com a quantidade de pena imposta na sentença condenatória, que, in casu, foi de 18anos e 8meses de reclusão.
+Sobre o tema, os seguintes julgados desta Corte:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. ROUBO MAJORADO. RECEPTAÇÃO. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RÉU CONDENADO À PENA DE 27 ANOS DE RECLUSÃO, EM REGIME FECHADO. RAZOABILIDADE. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. AGRAVO REGIMENTAL IMPROVIDO.
+1. A Constituição Federal, no art. 5º, inciso LXXVIII, prescreve: a todos, no âmbito judicial e administrativo, são assegurados a razoável duração do processo e os meios que garantam a celeridade de sua tramitação. No entanto, essa garantia deve ser compatibilizada com outras de igual estatura constitucional, como o devido processo legal, a ampla defesa e o contraditório que, da mesma forma, precisam ser asseguradas às partes no curso do processo. Assim, eventual constrangimento ilegal por excesso de prazo não resulta de um critério aritmético, mas de uma aferição realizada pelo julgador, à luz dos princípios da razoabilidade e proporcionalidade, levando em conta as peculiaridades do caso concreto, de modo a evitar retardo abusivo e injustificado na prestação jurisdicional.
+2. O paciente foi condenado à pena de 27 anos de reclusão pela prática dos crimes de roubo majorado e receptação, sendo-lhe negado o direito de recorrer em liberdade. Desse modo, não verifico flagrante excesso de prazo para o julgamento do recurso, pois não demonstrado que, em razão de eventual demora para a apreciação da apelação, o paciente se encontra impedido de usufruir de benefícios relativos à execução da pena. Destarte, diante das circunstâncias peculiares do caso em tela, tem-se que a persecução penal tramita dentro do princípio da razoabilidade, sem registro de qualquer evento relevante atribuído ao Poder Judiciário que possa caracterizar constrangimento ilegal e justificar o relaxamento da prisão.
+3. Embora tenha transcorrido prazo aproximado de 1 ano para o julgamento da apelação interposta, houve contínua movimentação do feito - a apelação ajuizada pelo causídico de Matheus foi recebida pelo Juiz a quo aos 27 de junho de 2018. O Ministério Público apresentou as contrarrazões aos 31 de julho seguinte. Ademais, aos 26 de setembro e 26 de novembro subsequentes, o patrono reiterou as razões recursais e requereu o imediato processamento do feito. A defesa do corréu Almir opôs embargos de declaração e, posteriormente, ajuizou apelação da aludida r. sentença, tendo o Magistrado recebido o recurso aos 16 de janeiro transato, determinando que fossem apresentadas as razões recursais e, após, as contrarrazões pelo Parquet.
+4. Agravo regimental improvido."
+(AgRg no HC 506.431/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 25/06/2019, DJe 05/08/2019)
+"PROCESSO PENAL. HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ASSOCIAÇÃO PARA O TRÁFICO. PRISÃO PREVENTIVA. NEGATIVA DE RECORRER EM LIBERDADE. SUPRESSÃO DE INSTÂNCIA. EXCESSO DE PRAZO PARA O JULGAMENTO DA APELAÇÃO. NÃO OCORRÊNCIA. RECOMENDAÇÃO PARA CELERIDADE NO JULGAMENTO.
+1. A alegação de ilegalidade da negativa do direito de recorrer em liberdade da sentença penal condenatória não foi objeto de análise pelo Tribunal de origem, o que impede o enfrentamento do tema por esta Corte sob pena de indevida supressão de instância.
+2. A aferição do excesso de prazo reclama a observância da garantia da duração razoável do processo, prevista no art. 5º, LXXVIII, da Constituição Federal. Tal verificação, contudo, não se realiza de forma puramente matemática. Reclama, ao contrário, um juízo de razoabilidade, no qual devem ser sopesados não só o tempo da prisão provisória mas também as peculiaridades da causa, sua complexidade, bem como quaisquer fatores que possam influir na tramitação da ação penal.
+3. Esta Corte tem reiterada jurisprudência no sentido de que a análise do excesso de prazo para o julgamento da apelação deve levar em consideração o quantum de pena aplicada na sentença condenatória.(Precedentes)
+4. Na presente hipótese, o paciente foi condenado a uma pena total de 10 anos, 10 meses e 20 dias pela prática dos delitos de tráfico de drogas interestadual em associação criminosa que foi flagrada transportando 3,217kg (três quilogramas, duzentos e dezessete gramas) de cocaína. Está dentro dos limites da razoabilidade, portanto, o prazo de 24 meses desde o aviamento do recurso de apelação até a presente data, mormente se considerado serem 7 corréus com patronos distintos e o feito já se encontrar concluso para o relator.
+5. Ordem denegada, com recomendação."
+(HC 499.713/SC, Rel. Ministro ANTONIO SALDANHA PALHEIRO, SEXTA TURMA, julgado em 28/05/2019, DJe 18/06/2019).
+Ante o exposto,não conheçodohabeas corpus.Recomenda-se ao Tribunal Regional Federal da 1ª Região celeridade no julgamento do recurso de apelação." (e-STJ, fls. 317-321).
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
