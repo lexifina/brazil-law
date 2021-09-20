@@ -1,0 +1,21 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por UNIMED GOIÂNIA COOPERATIVA DE TRABALHO MÉDICO, contra decisão que inadmitiu recurso especial, fundamentado na alínea "a" do permissivo constitucional.
+Agravo em recurso especial interposto em: 14/06/2021.
+Concluso ao gabinete em: 25/08/2021.
+Ação: de obrigação de fazer com pedido de antecipação de tutela cumulada com compensação por danos morais, ajuizada por DARCI FRANCISCO em face de UNIMED GOIÂNIA COOPERATIVA DE TRABALHO MÉDICO, pretendendo a cobertura das despesas com o tratamento quimioterápico, decorrente de aplicação de terapia antiangiogênica (LUCETINS), prescrito para o tratamento da doença que o acomete (edema macular diabético).
+Sentença: o Juízo de primeiro grau julgou procedentes os pedidos para condenar a UNIMED a conceder a cobertura total da terapia antiogênica indicada pelo médico assistente do benificiário e no pagamento de R$ 3.000,00 a título de danos morais.
+Acórdão: o TJ/GO deu parcial provimento ao apelo interposto por UNIMED, nos termos da seguinte ementa:
+EMENTA: APELAÇÃO CÍVEL. AÇÃO DE OBRIGAÇÃO DEFAZER. TRATAMENTO MÉDICO NÃO CONSTANTE DO ROLDA ANS. RECUSA DO PLANO DE SAÚDE. INADMISSIBILIDADE. DANO MORAL. NÃO OCORRÊNCIA. 1. Não se afigura razoável admitir que determinado procedimento médico, por não constar do rol da ANS, possa ser pura e simplesmente recusado pela operadora do plano de saúde. 2. De fato, a dinâmica da realidade social se mostra incompatível com situações estanques. As necessidades humanas motivadoras da correspondente evolução das técnicas necessárias para atendê-las não se harmonizam com modelos taxativos. Nem mesmo no campo do tecnicismo jurídico essa taxatividade vinga. Exemplo disso, é o disposto no art. 1.015 do Código de Processo Civil, que teve de ser recentemente flexibilizado. 3. Para que a prescrição do médico assistente do segurado seja licitamente recusada pela operadora do plano de saúde, é imprescindível a demonstração da existência de procedimento médico adequado ao tratamento do paciente, constante do rol da ANS. Com efeito, uma vez inexistente tal comprovação, inadmissível se torna a recusa de procedimento mais apropriado ao segurado, ao argumento de que não constante do rol da ANS. 4. De ver, também, que a interpretação no sentido da taxatividade do rol da ANS aponta para rumo contrário à natureza consumerista da contratação, segundo a qual as regras e cláusulas contratuais devem ser interpretadas favoravelmente ao consumidor. 5. A negativa de cobertura do tratamento se deu em razão de uma interpretação, por parte da operadora do plano de saúde, que, embora destoante do sistema normativo que rege a atividade de prestação de serviços em saúde suplementar, não pode ser erigida ao caráter doloso, no intuito de ofender o patrimônio moral do segurado. Recurso de apelação conhecido e provido em parte.
+Recurso especial: interposto por UNIMED, alega violação da Lei 9.656/1998 e da taxatividade do de procedimentos da ANS, sustentando, em síntese, a legalidade da negativa de cobertura pleiteada pela parte agravada.
+RELATADO O PROCESSO, DECIDE-SE.
+- Da fundamentação ausente ou deficiente
+Constata-se, da leitura das razões do recurso especial, que apesar de ter apontado suposta afronta à Lei 9.656/1998, a parte agravante não alega violação de qualquer dispositivo infraconstitucional, o que importa na inviabilidade do recurso especial ante a incidência da Súmula 284/STF.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III, do CPC/15, NÃO CONHEÇO do recurso especial.
+Deixo de majorar os honorários de sucumbência recursal, visto que não foram arbitrados na instância de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação ao pagamento das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE OBRIGAÇÃO DE FAZER. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF.
+1. Cuida-se, na origem, de ação de obrigação de fazer.
+2. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+3. Agravo conhecido. Recurso especial não conhecido.
