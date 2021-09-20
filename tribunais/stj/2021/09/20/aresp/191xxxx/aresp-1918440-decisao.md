@@ -1,0 +1,21 @@
+DECISÃO
+Trata-se de agravo manejado pelo Instituto Estadual de Florestas - IEF/MG contra decisão que não admitiu recurso especial, este interposto com fundamento no art. 105, III, a, da CF, desafiando acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, assim ementado (fl. 233):
+APELAÇÃO CÍVEL - EXECUÇÃO FISCAL - EXCEÇÃO DE PRÉ-EXECUTIVIDADE - MULTA AMBIENTAL - DEVIDO PROCESSO LEGAL NÃO OBSERVADO - VIOLAÇÃO DA AMPLA DEFESA - NULIDADE DO LANÇAMENTO E DA CDA - EXECUÇÃO EXTINTA.
+1. Compete ao Poder Judiciário analisar a legalidade dos atos administrativos e a fiel observância do devido processo legal, do contraditório e da ampla defesa, vedado o reexame do mérito.
+2. Reconhecida a irregularidade do processo administrativo e do consequente lançamento do crédito não tributário, deve ser extinta a execução, por ausência de liquidez e certeza do título (CDA) que a instrui.
+Opostos embargos declaratórios, foram rejeitados ante a inexistência dos vícios elencados no art. 1022do CPC.
+Nas razões do recurso especial, a parte agravante aponta violação aos arts. 489, § 1º, e 1022 do CPC; e 661 do CC. Sustenta que: (I) o Tribunal de origem não se manifestou sobre questão relevante para o deslinde da controvérsia, concernente aos poderes conferidos à pessoa que recebeu a notificação de autuação em nome da parte executada; e (II) a notificação da autuação se deu de forma regular, tendo em vista que os poderes conferidos pela parte recorrida,por meio de procuração.
+É O RELATÓRIO. SEGUE A FUNDAMENTAÇÃO.
+A irresignação não prospera.
+Verifica-se, inicialmente, não ter ocorrido ofensa aos arts. 489, § 1º, e 1.022, II, do CPC, na medida em que o Tribunal de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas e apreciou integralmente a controvérsia posta nos autos; não se pode, ademais, confundir julgamento desfavorável ao interesse da parte com negativa ou ausência de prestação jurisdicional.
+De outro turno, a Corte local confirmou a sentença que decretou a nulidade do procedimento administrativo, nestes termos (fls. 236/237):
+Com a análise detida dos autos e, em que pese o inconformismo da apelante, tenho que razão nenhuma lhe assiste.
+Isso, porque, de fato, é patente a irregularidade do processo administrativo, sobretudo por ofensa ao contraditório e à ampla defesa, uma vez que o auto de infração, bem assim o processo administrativo tramitaram sem a devida ciência do executado.
+Como ressaltado pelo juízo de origem, Eduardo Barbosa de Souza foi quem assinou o recebimento da autuação, o que se conclui pelas assinaturas constantes dos documentos de f. 79 e 84.
+Ressalta-se, por oportuno, a despeito das razões do apelante nesse sentido, que não consta dos autos nenhum documento que demonstre que o executado tenha outorgado poderes a Eduardo para receber autuação, muito menos para constituir advogado em seu nome.
+Não há que se falar ainda, como pretendido, que a inexistência de proibição nesse sentido ensejaria validade dos atos praticados por Eduardo e, pois, regularidade na ciência da autuação, bem como de todo o processo administrativo.
+Ora, a ciência do auto de infração por pessoa que não detinha poderes para tanto equivale à não ciência, bem como a constituição de advogados para a defesa daquele que não tenha outorgado poderes para tanto mostra-se claramente nula.
+Assim, reconhecida a irregularidade no processo administrativo, quer pela ausência de notificação do executado acerca do auto de infração lavrado contra sua pessoa, quer pela ofensa aos princípios da ampla defesa e do contraditório, resta nula a Certidão de Divida Ativa oriunda daquela autuação e daquele processo administrativo, do qual não participou ativamente o executado.
+Nesse contexto, a alteração das conclusões adotadas pela Corte de origem, tal como colocada a questão nas razões recursais, a fim de aferir quaispoderesforam conferidos pela parte agravada ao seu mandatário e afastar a decretada nulidade do procedimento administrativo, demandaria, necessariamente, novo exame do acervo fático-probatório constante dos autos, providência vedada em recurso especial, conforme o óbice previsto na Súmula 7/STJ.
+ANTE O EXPOSTO,nego provimento ao agravo.
+Publique-se.
