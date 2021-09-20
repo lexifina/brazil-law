@@ -1,0 +1,66 @@
+ESTADO DO ESPÍRITO SANTO
+PODER JUDICIÁRIO
+
+PROCESSO Nº
+5000383-13.2019.8.08.0038
+RECURSO INOMINADO CÍVEL (460)
+RECORRENTE: ZEMA ADMINISTRADORA DE CONSORCIO LTDA
+RECORRIDO: IVAN PAULINO
+RELATOR(A
+):FELIPE LEITAO GOMES
+
+_______________________________________________________________________________________________________________________________________________________________________________
+RELATÓRIO
+Dispensado o relatório, na forma do artigo 38 da Lei nº 9.099/95 e Enunciado nº 92 FONAJE.
+NOTAS ORAIS
+VOTOS COM DOCUMENTO
+(EXCETO VOTO VENCEDOR)
+VOTO VENCEDOR
+VOTOS
+
+DR. FELIPE LEITÃO GOMES - RELATOR
+
+Relatório dispensado na forma do artigo 46 da Lei 9.099/95.
+
+Recurso conhecido por preencher os pressupostos de admissibilidade.
+
+VOTO/EMENTA
+. RECURSO INOMINADO. JUIZADO ESPECIAL CÍVEL. AÇÃO INDENIZATÓRIA.
+CELEBRAÇÃO DE DOIS CONTRATOS DE CONSÓRCIOS. PEDIDO DE DESISTÊNCIA. RESCISÃO CONTRATUAL E RESTITUIÇÃO DE PARCELAS PAGAS
+.
+(1).
+SENTENÇA OBJURGADA QUE JULGOU PARCIALMENTE PROCEDENTE OS PEDIDOS INICIAIS PARA DECLARAR A RESCISÃO DOS DOIS CONTRATOS CELEBRADOS, COM A RESTITUIÇÃO DA QUANTIA DE R$7.056,00, COM DESCONTO DE 27% DA TAXA DE ADMINISTRAÇÃO E JULGOU IMPROCEDENTE OS PEDIDOS DE DANOS MORAIS.
+(2).
+RECURSO DA REQUERIDA PUGNANDO PELA REFORMA DA SENTENÇA OU SUBSIDIARIAMENTE QUE A RESTITUIÇÃO OCORRA APÓS O 30º DIA DO ENCERRAMENTO DO GRUPO.
+(3)
+AUSÊNCIA DE CONTRARRAZÕES.
+(4)
+. DIREITO DO CONSUMIDOR. CONSÓRCIO É UMA OPERAÇÃO DE CAPTAÇÃO DE RECURSOS EM GRUPO FECHADO. AUSÊNCIA DE COMPROVAÇÃO DE PREJUÍZO AO CONSÓRCIO COM A DESISTÊNCIA DA PARTE AUTORA. CLÁUSULA PENAL AFASTADA. PRAZO DA RESTITUIÇÃO. Sobre a questão, estabelece o Tema Repetitivo n° 312, STJ: “
+É devida a restituição de valores vertidos por consorciado desistente ao grupo de consórcio, mas não de imediato, e sim em até trinta dias a contar do prazo previsto contratualmente para o encerramento do plano
+.” (REsp 1119300/RS). ACOLHO PARCIALMENTE OS ARGUMENTOS DA PARTE RECORRENTE PARA QUE A RESTITUIÇÃO OCORRA ATÉ 30 DIA DO ENCERRAMENTO DO GRUPO.
+RECURSO CONHECIDO E PARCIALMENTE PROVIDO
+. (5).
+SENTENÇA DE PISO REFORMADA, APENAS PARA QUE A RESTITUIÇÃO OCORRA APÓS O 30º DIA DO ENCERRAMENTO DO GRUPO.
+NO RESTANTE, SENTENÇA MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS, NOS TERMOS DO ART. 46 DA LEI 9.099/95.
+
+(6)
+
+SEM CUSTAS E HONORÁRIOS ADVOCATÍCIOS.
+
+BÁRBARA TRABA JESUS GUZZO
+
+JUÍZA LEIGA
+
+O Sr. Juiz de Direito Relator Dr.
+FELIPE LEITÃO GOMES
+–
+Nos termos da Resolução TJES nº 12/2020,
+HOMOLOGO
+a minuta de voto elaborada pela Ilma. Juíza Leiga e a adoto como razões da minha manifestação, para que produza seus jurídicos e legais efeitos.
+
+É como voto.
+
+EMENTA
+Voto servindo como ementa.
+DECISÃO
+À unanimidade, conhecer e dar parcial provimento ao recurso, nos termos do voto do Relator.
