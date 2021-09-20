@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de embargos de declaração opostos por JANINE INES GUARAGNI REINEHR e OUTROS à decisão de fl. 941, que determinou a baixa dos presentes autos ao tribunal de origem, tendo em vista a interposição do agravo de fls. 889/897.
+A parte embargante alega, em síntese, que a referida decisão é omissa e contraditória, ao argumento de que houve a interposição de agravo de instrumento, e não de agravo interno, sendo, portanto, "imperiosa a análise por este Tribunal, que detém toda a competência para apreciação do recurso." (fl. 946)
+Requer, ao fim, o conhecimento e acolhimento dos embargos declaratórios, "para que então seja conhecido e apreciado o agravo de instrumento em recurso especial." (fl. 946)
+A parte embargada foi devidamente intimada para contrarrazoar estes aclaratórios, deixando de se manifestar no prazo assinalado (fl. 950).
+É o relatório. Decido.
+Nos termos do art. 1.022 do Código de Processo Civil, os embargos de declaração destinam-se a esclarecer obscuridade, eliminar contradição, suprir omissão e corrigir erro material eventualmente existentes no julgado, o que não se verifica na hipótese.
+Ao contrário do que sustenta a parte embargante, não houve equívoco na análise do recurso apresentado às fls. 889/897.
+Conforme se verifica, a parte interpôs recurso nominado "agravo de instrumento", com fundamento no art. 1.021 do CPC, para se insurgir contra decisão que inadmitiu o apelo nobre com base nos óbices das Súmulas 284/STF e 7/STJ. (fls. 876/879)
+No caso, percebe-se nítida confusão da parte embargante, pois o recurso previsto no art. 1.021 do CPC é o agravo interno, o qual é cabível contra decisão de relator perante o próprio órgão prolator da decisão atacada.
+Ainda que assim não fosse, o agravo de instrumento, atualmente previsto no art. 1.015 do CPC, também não é o recurso adequado à espécie, uma vez que se destina, primordialmente, a atacar decisões interlocutórias proferidas por juízes de primeiro grau de jurisdição.
+O recurso adequado seria o agravo em recurso especial, disciplinado no art. 1.042 do CPC, cabível para impugnar decisão que inadmite o recurso especial, com fulcro no inciso V do art. 1.030 do mesmo estatuto processual.
+Portanto, equivocada a decisão do Tribunal a quo que recebeu o presente agravo interno como agravo em recurso especial, razão pela qual determinou-se a baixa dos autos à origem, orientação que aqui se mantém.
+Ressalte-se, por oportuno, que, conforme entendimento deste Superior Tribunal de Justiça, a interposição equivocada de recurso, quando há expressa disposição legal e ausente dúvida objetiva, constitui manifesto erro grosseiro, o que torna inaplicável o princípio da fungibilidade. Nesse sentido: AgInt nos EDcl no REsp 1857915/PR, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 04/05/2020.
+Assim, não há irregularidade sanável por meio dos presentes embargos, porquanto toda a matéria submetida à apreciação do STJ foi julgada, não havendo, na decisão embargada, os vícios que autorizariam a utilização do recurso - obscuridade, contradição, omissão ou erro material.
+Ante o exposto, rejeito os embargos de declaração e advirto a parte embargante de que a reiteração deste expediente ensejará o pagamento de multa de 2% sobre o valor atualizado da causa, porque os próximos embargos que tratem do mesmo assunto serão considerados manifestamente protelatórios (art. 1.026, § 2º, do CPC).
+Publique-se. Intimem-se.
