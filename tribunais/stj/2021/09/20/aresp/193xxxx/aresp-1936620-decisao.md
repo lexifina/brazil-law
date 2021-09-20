@@ -1,0 +1,55 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por MOTA MACHADO & OREGON SPE XXXII CONSTRUCOES E INCORPORACOES LTDA, contra decisão que negou seguimento a recurso especial fundamentado na alínea "a" do permissivo constitucional.
+Agravo em Recurso Especial interposto em: 06/04/2021.
+Concluso ao gabinete em: 13/09/2021.
+Ação: de declaratória c/c rescisão contratual c/c restituição de valores, ajuizada por THIAGO MOREIRA HARDI e SAMARA RÉGIA GONDIM DA SILVA HARDI, em face da agravante, em razão de inadimplemento pelos demandantes, na condição de compradores, de contrato de compra e venda de bem imóvel celebrado entre as partes.
+Dessa forma, requerem a declaração de nulidade de cláusula contratual, a rescisão do contrato, bem como a restituição integral do valor até então pago.
+Sentença: julgou parcialmente procedentes os pedidos, para:
+i) declarar a nulidade da "cláusula XI, parágrafo segundo, I, b), b.2) e item III", no tocante ao percentual de retenção fixado sobre o valor atualizado do contrato e quanto à devolução parcelada das quantias pagas; e
+ii) rescindir o contrato em análise para condenar agravante à devolução imediata e integral do percentual de 90% dos valores efetivamente pagos pelos agravados, os quais somam a quantia de R$ 159.711,14.
+Acórdão: deu parcial provimento à apelação interposta pela agravante, para
+i) majorar o percentual arbitrado a título de retenção de 10% para 15% sobre o valor adimplido, de modo a recompor as despesas comerciais suportadas;
+ii) declarar o trânsito em julgado da presente decisão como termo inicial de incidência dos juros moratórios; e
+iii) redistribuir os ônus de sucumbência (custas e honorários advocatícios fixados em 10% sobre o valor da condenação), na proporção de 80% a serem pagos pela Construtora (agravante) e de 20% pelos agravados/autores.
+Nesse sentir, é a ementa do julgado:
+Direito civil. Direito processual civil. Apelação cível. Rescisão de contrato de promessa de compra e venda de imóvel. Desistência por iniciativa dos adquirentes. Irresignação da construtora quanto ao percentual de retenção de 10% arbitrado na sentença. Procedência. Montante que não recompõe as despesas realizadas pela empresa. Trânsito termo inicial de juros moratórios. Recíproca em julgado. Sucumbência configurada. Recurso conhecido e parcialmente provido. Sentença reformada.
+1. A jurisprudência do STJ, "nas hipóteses de rescisão de contrato de promessa de compra e venda por iniciativa do comprador, tem admitido a flutuação do percentual de retenção pelo vendedor entre 10% (dez por cento) e 25% (vinte e cinco por cento) do total da quantia paga, conforme as particularidades do caso concreto" (AgInt no AREsp 1384313/PE, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 26/03/2019, DJe 29/03/2019).
+2. O percentual de retenção de 10% (dez por cento) sobre o valor adimplido, estipulado na sentença, não recompõe à Construtora sequer a despesa efetivamente comprovada nos autos atinente ao custeio com a comissão de corretagem, daí porque merece ser majorado para 15% (quinze por cento).
+3. Sedimentado o entendimento do STJ, no sentido de que "Na hipótese de resolução contratual do compromisso de compra e venda por desistência dos adquirentes, em que postulada, pelos autores, a restituição das parcelas pagas de forma diversa da cláusula penal convencionada, os juros moratórios serão computados a partir do trânsito em julgado da decisão" (REsp 1211323/MS, Rel. Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 01/10/2015, DJe 20/10/2015).
+4. A sentença, por sua vez, acolheu os dois primeiros pedidos e julgou improcedentes os últimos, igualmente relevantes aos postulantes, daí porque convém aplicar a postulada sucumbência recíproca, para redistribuir entre as partes, proporcionalmente, os ônus correspondentes, conforme dispõe o caput do art. 86 do CPC. (e-STJ, fl. 395)
+Embargos de declaração de fls. 438/446 (e-STJ): opostos pela agravante, foram rejeitados.
+Embargos de declaração de fls. 532/541 (e-STJ): opostos pelos agravados, foram rejeitados.
+Recurso especial: alega a violação dos arts. 489 e 1.022, ambos do CPC/15; 104, 107, 113, 186, 187, 219, 389, 394, 397, 399, 401, I, 402, 404, 408, 409, 410, 411, 413, 416, 421, 422, 427, 472, 474, 475, 476, 481, 482, 927 e 944, todos do CC/02; 6º, V, 46, 51, II, IV, e 53, todos do CDC, bem como a existência de dissídio jurisprudencial. Além da negativa de prestação jurisdicional, sustenta:
+i) a existência de fundamentação deficiente no bojo do acórdão recorrido;
+ii) a necessidade de majoração do percentual de retenção para o patamar de 25 %; e
+iii) ocorrência de distribuição desproporcional da sucumbência recíproca na hipótese.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/15
+- Da violação do art. 1.022 do CPC/15
+É firme a jurisprudência do STJ no sentido de que não há ofensa ao art. 1.022 do CPC/15 quando o Tribunal de origem, aplicando o direito que entende cabível à hipótese, soluciona integralmente a controvérsia submetida à sua apreciação, ainda que de forma diversa daquela pretendida pela parte. A propósito, confira-se: AgInt nos EDcl no AREsp 1.094.857/SC, 3ª Turma, DJe de 02/02/2018 e AgInt no AREsp 1.089.677/AM, 4ª Turma, DJe de 16/02/2018.
+No particular, verifica-se que o acórdão recorrido decidiu, fundamentada e expressamente, acerca do percentual de retenção dos valores pagos pelos agravados por parte da agravante, na hipótese 15 %, de maneira que os embargos de declaração opostos por esta última, de fato, não comportavam acolhimento.
+Assim, observado o entendimento dominante desta Corte acerca do tema, não há que se falar em violação do art. 1.022 do CPC/2015, incidindo, quanto ao ponto, a Súmula 568/STJ.
+- Da violação do art. 489 do CPC/2015
+Devidamente analisadas e discutidas as questões de mérito, e fundamentado suficientemente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/2015, nos termos da Súmula 568/STJ (AgInt no AREsp 1.121.206/RS, 3ª Turma, DJe 01/12/2017; AgInt no AREsp 1.151.690/GO, 4ª Turma, DJe 04/12/2017).
+- Da ausência de prequestionamento
+O acórdão recorrido não decidiu acerca dos arts. 104, 107, 113, 186, 187, 219, 389, 394, 397, 399, 401, I, 402, 404, 408, 409, 410, 411, 413, 416, 421, 422, 427, 472, 474, 475, 476, 481, 482, 927 e 944, todos do CC/02; 6º, V, 46, 51, II, IV, e 53, todos do CDC, indicados como violados, apesar da interposição de embargos de declaração. Por isso, o julgamento do recurso especial é inadmissível. Aplica-se, portanto, a Súmula 211/STJ.
+Além disso, não obstante o argumento de prequestionamento da matéria em razão do teor do art. 1.025 do CPC/15, cabe ressaltar que o dispositivo citado dispõe que serão incluídos no acórdão os elementos que o embargante suscitou, para fins de pré-questionamento, ainda que os embargos de declaração sejam inadmitidos ou rejeitados, caso o tribunal superior considere existentes erro, omissão, contradição ou obscuridade. Entretanto, na situação posta em análise, esta Corte não entende pela existência de erro, omissão, contradição ou obscuridade, o que impede a inclusão dos dispositivos mencionados nas razões do recurso especial no bojo do acórdão impugnado para fins de prequestionamento da matéria.
+Ressalta-se, ainda, que eventual alegação de serem de ordem pública os temas insertos nos dispositivos legais mencionados não torna indispensável o devido prequestionamento. Nesse sentir: AgInt no AREsp 1.021.641/MG (3ª Turma, DJe 19/05/2017) e AgInt no AREsp 613.606/PR (4ª Turma, DJe 17/05/2017).
+- Do reexame de fatos e provas
+Alterar o decidido no acórdão impugnado, no que se refere ao percentual fixado em relação aos honorários de sucumbência, em razão do reconhecimento de sucumbência recíproca na hipótese, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ. Nesse sentir: AgInt no AREsp 1.708.537/SP (3ª Turma, DJe 12/02/2021) e AgInt no AREsp 1.772.666/MT (4ª Turma, DJe 18/06/2021).
+- Da Súmula 284/STF
+Não obstante a alegação de existência de dissídio jurisprudencial, nota-se que o presente recurso especial apenas indicou o permissivo constitucional atinente à violação de dispositivos infraconstitucionais, não mencionando o art. 105, III, alínea "c", da CF/88.
+Nesse sentir, a falta de indicação do dispositivo constitucional em que se funda o recurso especial implica deficiência de fundamentação recursal, o que atrai o óbice contido no enunciado da Súmula 284/STF (AgRg nos EAREsp 278.959/MG, Corte Especial, DJe 06/05/2016).
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, III e IV, "a", do CPC/15, bem como na Súmula 568/STJ, CONHEÇO PARCIALMENTE do recurso especial e, nessa extensão, NEGO-LHE PROVIMENTO.
+Nos termos do art. 85, § 11, do CPC/15, considerando o trabalho adicional imposto ao advogado das partes agravadas em virtude da interposição deste recurso, majoro os honorários fixados anteriormente em 10 % sobre o valor da condenação (e-STJ, fl. 407), para 15 %, ressaltando que a referida majoração deve ser arcada exclusivamente pela parte agravante, devendo essa pagar 80 % do montante citado, em razão da sucumbência recíproca reconhecida pelo Tribunal de origem.
+Previno as partes que a interposição de recurso contra esta decisão, se declarado manifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação das penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, ambos do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DECLARATÓRIA C/C RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES. EMBARGOS DE DECLARAÇÃO. OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. NÃO OCORRÊNCIA. VIOLAÇÃO DO ART. 489 DO CPC/15. NÃO OCORRÊNCIA. PREQUESTIONAMENTO. AUSÊNCIA. SÚMULA 211/STJ. REEXAME DE FATOS E PROVAS. INADMISSIBILIDADE. FUNDAMENTAÇÃO. AUSENTE. DEFICIENTE. SÚMULA 284/STF. HONORÁRIOS DE SUCUMBÊNCIA RECURSAL. MAJORAÇÃO.
+1. Ação declaratória c/c rescisão contratual c/c restituição de valores.
+2. Ausentes os vícios do art. 1.022 do CPC/15, rejeitam-se os embargos de declaração.
+3. Devidamente analisadas e discutidas as questões de mérito, e fundamentado corretamente o acórdão recorrido, de modo a esgotar a prestação jurisdicional, não há que se falar em violação do art. 489 do CPC/15.
+4. A ausência de decisão acerca dos dispositivos legais indicados como violados, não obstante a interposição de embargos de declaração, impede o conhecimento do recurso especial.
+5. Alterar o decidido no acórdão impugnado, no que se refere ao percentual fixado em relação aos honorários de sucumbência, em razão do reconhecimento de sucumbência recíproca na hipótese, exige o reexame de fatos e provas, o que é vedado em recurso especial pela Súmula 7/STJ.
+6. A ausência de fundamentação ou a sua deficiência importa no não conhecimento do recurso quanto ao tema.
+7. Agravo conhecido. Recurso especial parcialmente conhecido e, nessa parte, não provido, com majoração de honorários.
