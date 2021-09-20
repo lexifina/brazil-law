@@ -1,0 +1,12 @@
+DECISÃO
+Trata-se de recurso especial manejado em face de acórdão assim ementado:
+Agravo de Instrumento Ação de liquidação de sentença envolvendo contrato de participação financeira no plano de expansão de telefonia Procedência parcial necessidade de readequação dos critérios para cálculo das diferenças devidas.Recurso da ré que pretende a reforma da decisão quanto à possibilidade de entrega das ações e aos critérios de cálculo dos valores a serem pagos Recurso parcialmente provido para que os eventos societários ocorridos sejam levados em consideração para o cálculo das ações.EVENTOS SOCIETÁRIOS. Necessidade de considerar as operações de grupamento e desdobramento acionários ocorridas entre a data de emissão das ações e o trânsito em julgado da demanda. Julgamento do REsp1.647.879/SP que tratou de questões específicas do Tema 667 (Recurso Especial Repetitivo1.387.249/SC). Interpretação dessa 4ª Câmara de Direito Privado no sentido de ser de rigor a inclusão dos eventos societários no cálculo da diferença acionária porque eles estão diretamente relacionados com o aspecto estrutural das ações e não só com o valor econômico delas. Assim, ainda que não haja pedido expresso, eles devem ser observados.
+Os embargos de declaração opostos a esse acórdão foram rejeitados.
+A parte executada, ora recorrente, alega que o acórdão recorrido contrariou:
+a) o artigo 1.022 do Código de Processo Civil (CPC), porque não foram sanados os vícios apontados nos embargos de declaração; e
+b) os artigos 2º, 141, 489,492, 502 a 509 e927 do CPC, porque a inclusão, na fase de execução, de juros sobre capital próprio, dobra acionária e dividendos, verbas não previstas notítulo exequendo, configura ofensa à coisa julgada.
+Primeiramente, observo que a parte recorrente apontou no agravo de instrumento - recurso por ela interposto perante a Corte de origem - a impossibilidade de inclusão, no cálculo da indenização, de juros sobre capital próprio e dividendos, pois tais parcelas não constaram da condenação passada em julgado.
+Essetema não foi examinadopela Corte estadual, mesmo tendo sido reiteradoem embargos de declaração, o que caracteriza ofensa ao artigo 1.022 do CPC de 2015.
+Em face do exposto, dou provimento ao recursopara determinar que o Tribunal de origem enfrente a questão a respeito daqual houve omissão, conforme indicadona fundamentação desta decisão.
+Quanto ao mais, fica prejudicado o recurso especial.
+Intimem-se.
