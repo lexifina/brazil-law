@@ -1,0 +1,14 @@
+DECISÃO
+RODRIGO DOS SANTOS CARVALHOalega sofrer coação ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado de São Paulo(Apelação Criminal n. 1503109-60.2020.8.26.0320).
+Consta dos autos que o paciente foi condenado à pena de 5anos de reclusão, em regime inicial fechado, mais multa, pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006.
+Pleiteia a defesa, neste writ, a aplicação do redutor previsto no art. 33, § 4º, da Lei n. 11.343/2006,a alteração do regime inicial de cumprimento de pena e a substituição da reprimenda.
+A liminar foi indeferida e, prestadas as informações, o Ministério Público Federal opinoupela denegação da ordem.
+Decido.
+O Tribunal de origem manteve a impossibilidadedeincidência da minorante prevista no § 4º do art. 33 da Lei de Drogas, pelos seguintes fundamentos (fls. 17-18, grifei):
+Inviável, de fato, a aplicação da minorante do art. 33, § 4º, da Lei de Tóxicos, haja vista que os recorrentes transportavam grande quantidade de tóxicos (mais de 50kg de maconha) entre cidades diferentes do Estado, atividade que certamente não seria atribuída a um iniciante ou a alguém que não contasse com a confiança dos demais envolvidos na traficância,sobretudo em razão do elevado valor de mercado do entorpecente. Tais circunstâncias, destarte, demonstram uma ligação mais íntima com o delito de tráfico de entorpecentes, indicando que os recorrentes não eram meros traficantes ocasionais e, ao menos, dedicavam-se a atividades criminosas. Ademais, Rodrigo também é portador de maus antecedentes, circunstância que impede a aplicação da causa de diminuição de pena.
+Constato que o Tribunal de origem manteve anão incidência do redutor, considerando a quantidade de droga apreendida e os maus antecedentesdo acusado.
+Com efeito, segundo o disposto no § 4º do art. 33 da Lei n. 11.343/2006, in verbis: § 4º Nos delitos definidos no caput e no § 1º deste artigo, as penas poderão ser reduzidas de um sexto a dois terços, vedada a conversão em penas restritivas de direitos, desde que o agente seja primário, de bons antecedentes, não se dedique às atividades criminosas nem integre organização criminosa.
+Dessa forma, verifico que não há como ser reconhecida a incidência do redutor em favor do paciente, haja vista a vedação expressa da concessão desse benefício aos acusados portadores de maus antecedentes, conforme bem salientou o Tribunal de origem.
+Consequentemente, não há nenhum ajuste a ser feito no regime de cumprimento de pena e na vedação à substituição da pena, devendo ser mantida a imposição do modo inicial fechado, nos termos do art. 33, § 2º, "a", e § 3º, do Código Penal, porquanto o réu, além de ter maus antecedentes, foi condenado a reprimenda superior a 4 anos de reclusão.
+À vista do exposto, denego a ordem.
+Publique-se e intimem-se.
