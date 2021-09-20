@@ -1,0 +1,24 @@
+DECISÃO
+Cuida-se de agravo em recurso especial interposto por DBE 3000 EMPREENDIMENTOS IMOBILIÁRIOS S.A., contra decisão que negou seguimento a recurso especial fundamentado nas alíneas "a" e "c" do permissivo constitucional.
+Agravo em recurso especial interposto em: 30/09/2020.
+Concluso ao gabinete em: 14/09/2021.
+Ação:de cobrança cumulada comindenização ajuizada por CLÁUDIO LUQUES GONÇALVES em face darecorrente, por descumprimento contratual, sob a alegação de que o imóvel objeto de compromissode compra e venda firmado entre as partes foi entregue sem condições de habitabilidade, ou seja, sem as ligações de gás e energia elétrica.
+Sentença: julgou parcialmente procedentes os pedidospara condenar arecorrente ao pagamento de (i) indenização relativa às despesas efetuadas pelo autor com locação de moradia provisória;(ii) multa contratual e (iii) indenizaçãono valor de R$ 6.000,00 (seis mil reais) para compensar os danos morais.
+Acórdão: deu parcial provimento à apelação interposta pela recorrente para afastar a cumulação da multa moratória com lucros cessantes, em acórdão assim ementado (e-STJ, fl. 380):
+APELAÇÃOCÍVEL. Relação venda de consumo.Promessa decompra de imóvel em construção. Inadimplemento consistente em atraso na entrega do imóvel. Cabível o pagamento de perdas e danos considerando, inclusive, como parâmetro a cláusula penal prevista no contrato a favor tão somente do promitente vendedor, com impossibilidade de sua cumulação com lucros cessantes.Entendimento jurisprudencial fixado no do julgamento do Resp. 1.614.721/DF e REsp. 1.635.428/SC, em sede de recursos Superior repetitivos. Temas 971 e 970 do Tribunal de Justiça. Sentença que não de no acolheu reversão contrato diante o pedido autoral no sentido da cláusula penal prevista a favor do promitente vendedor moratória da existência de multa expressamente adimplemento prevista para o caso do tardio da obrigação. Multa que não pode ser cumulada com os valores suportados com pagamento de aluguéis de outro imóvel cuja repetição foram concedidos a titulo de lucros cessantes. Fato noticiado nos autos que repercutiu na esfera moral do demandante, consistente em frustração da justa expectativa de aquisição da casa própria. Configurado dano moral indenizável. Verba indenizatória bem fixada que não merece reparo. Manutenção da sentença que se impõe. PROVIMENTO parcial DO RECURSO.
+Recurso especial: alegaviolação dos arts. 944 e 945 do Código Civil, além de dissídio jurisprudencial.
+Aduz, em suma, que o simples descumprimento contratual, por si só, não é capaz de gerar danos morais e pleiteia o afastamentoda indenização ou a redução do valor fixado a esse título, porque exacerbado.
+RELATADO O PROCESSO, DECIDE-SE.
+- Julgamento: aplicação do CPC/2015.
+- Da compensação por danos morais
+O TJ/RJ, ao reconhecer a possibilidade de compensação por danos morais, em razão de simples inadimplemento contratual - atraso na entrega de bem imóvel - em condições de ser habitado - objeto de contrato de compra e venda -, contrariou o entendimento do STJ, segundo o qual o dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dos promitentes-compradores, hipótese que não se verifica no caso vertente (EDcl no AgRg no AREsp 745.577/RJ, 3ª Turma, DJe de 05/06/2017 e EDcl no AgRg no AREsp 745.577/RJ, 3ª Turma, DJe de 05/06/2017).
+Logo, o acórdão recorrido merece reforma quanto ao ponto.
+Forte nessas razões, CONHEÇO do agravo e, com fundamento no art. 932, V, "a", do CPC/2015, bem como na Súmula 568/STJ, CONHEÇOdo recurso especial e, nessa extensão, DOU-LHE PROVIMENTOpara afastar a condenação ao pagamento de compensação por danos morais.
+Tendo em vista a sucumbência recíproca, redimensiono as despesas, custas processuais e honorários advocatícios, estes fixados em 20% sobre o valor da condenação, a serem pagos na proporção de 30% pelarecorrentee 70% pelo recorrido.
+Previno as partes que a interposição de recurso contra esta decisão, se declaradomanifestamente inadmissível, protelatório ou improcedente, poderá acarretar na condenação às penalidades fixadas nos arts. 1.021, § 4º, e 1.026, § 2º, do CPC/15.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA E INDENIZAÇÃO.ATRASO NA ENTREGA DE IMÓVEL. DANO MORAL NÃO CONFIGURADO.
+1. Ação de cobrança cumulada com indenização.
+2.O dano moral, na hipótese de atraso na entrega de unidade imobiliária, não se presume, configurando-se apenas quando houver circunstâncias excepcionais que, devidamente comprovadas, importem em significativa e anormal violação a direito da personalidade dopromitente-comprador, hipótese que não se verifica no caso vertente.
+3. Agravo conhecido. Recurso especial conhecido e provido.
