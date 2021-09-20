@@ -1,0 +1,10 @@
+DECISÃO
+Trata-se de conflito negativo de competência instaurado entre o Juízo Federal da 1ª Vara de Apucarana - SJ/PR e o Juízo de Direito do Juizado Especial da Fazenda Pública de Ivaiporã/PR, extraído dos autos da ação ordinária, com pedido de tutela de urgência, ajuizada pelo Ministério Público do Estado do Paraná contra o Estado do Paraná, objetivando o fornecimento de medicamento para Walter Donizette Alves (Autos Originários na Justiça Estadual n. 0004961-70.2017.8.16.0097/PR).
+O autorajuizou ação contra o Estado do Paraná no Juízo de Direito do Juizado Especial da Fazenda Pública de Ivaiporã/PRa fim de obter para Walter Donizette Alves o medicamento Xarelto 20 mg (Rivaroxabana) ou fármaco similar para tratamento demiocardiopatia dilatada, pois o substituído processual não possui condições financeiras para comprá-lo.
+O Juízo Estadual, observando o que decidido pelo Supremo Tribunal Federal no julgamento dos EDcl no RE n. 855.178/SE, e o contido na Súmula 150/STJ, determinou a remessa dos autos à Justiça Federal a fim de que fosse analisado o interesse da União em compor o polo passivo da demanda.
+O Juízo Federal, por sua vez, informa que no julgamento do Tema 793/STF não foi afirmado peremptoriamente a necessidade de participação da União em todas as ações que demandem fornecimento de medicamentos ou tratamento não incluídos nos protocolos do SUS, exceto no caso de o fármaco não ter sido registrado na Anvisa. Na hipótese em questão o medicamento solicitado possui registro na Anvisa, razão pela qual declarou a incompetência da Justiça Federal e suscitou o presente conflito negativo por não haver interesse da União.
+É o relatório. Decido.
+Nos termos do art. 955, caput, segunda parte, do CPC e do art. 196 do RI/STJ, designo oJuízo de Direito do Juizado Especial da Fazenda Pública de Ivaiporã/PR, o suscitado, a fim de que delibere, em caráter provisório, a respeito das medidas urgentes.
+Oficie-se aos Juízos que compõem o conflito de competência, informando-os do teor desta decisão.
+Após, dê-se vista dos autos ao Ministério Público Federal, nos termos do art. 64, XII, do RI/STJ.
+Publique-se. Intimem-se.
