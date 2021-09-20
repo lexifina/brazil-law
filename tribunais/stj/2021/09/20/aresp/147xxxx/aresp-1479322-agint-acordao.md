@@ -1,0 +1,66 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Luis Felipe Salomão, Raul Araújo, Maria Isabel Gallotti e Antonio Carlos Ferreira votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. Ausente impugnação aos fundamentos por si sós aptos manter a conclusão do julgado,incide o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+3. Osórgãos mantenedores dos cadastros de inadimplentes possuem legitimidade passiva nas ações que buscam a reparação dos danos morais e materiais advindos da inscrição, sem prévia notificação, do nome do devedor. (AgInt no REsp 1394646/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/05/2019, DJe 20/05/2019)
+4.A simples transcrição de ementas ou votos, sem a exposição, clara e precisa, das circunstâncias que identifiquem ou assemelhem os casos confrontados, não autoriza haver por atendida a suposta divergência.
+5. Agravo interno desprovido.
+RELATÓRIO
+Trata-se de agravo interno interposto por PATRÍCIA CONTI FLORIANIem face de decisão monocrática de lavra deste signatário (fls. 506/510, e-STJ), que reconsiderou a decisão monocrática de fls. 477/479, e-STJ, enegou provimento ao recurso especial.
+Eis o acórdão prolatado pelo Tribunal de Justiça do Estado de Santa Catarina(fl. 227, e-STJ):
+APELAÇÃO CÍVEL. AÇÃO DE CANCELAMENTO DE RESTRIÇÃO CADASTRAL CUMULADA COM COMPENSAÇÃO POR DANOS MORAIS. SENTENÇA PUBLICADA NA VIGÊNCIA DO CÓDIGO DE PROCESSO CIVIL DE 1973. INSCRIÇÃO DO FIADOR NOS ÓRGÃOS DE PROTEÇÃO AO CRÉDITO. ATO PRECEDIDO DE NOTIFICAÇÃO EXTRAJUDICIAL ACERCADO INADIMPLEMENTO DO DEVEDOR PRINCIPAL. NOTIFICAÇÃO ENCAMINHADA AO ENDEREÇO FORNECIDO PELO PRÓPRIO FIADOR. AVISO DE RECEBIMENTO ASSINADO POR TERCEIRO. VALIDADE. INSCRIÇÃO LÍCITA. NOTIFICAÇÃO PRÉVIA ACERCA DA NEGATIVAÇÃO. RESPONSABILIDADE DOS ÓRGÃOS MANTENEDORES DE CADASTROS E NÃO DO CREDOR. ARTIGO 43, § 2º,DO CÓDIGO DE DEFESA DO CONSUMIDOR E DASÚMULA 359 DO SUPERIOR TRIBUNAL DE JUSTIÇA." ..  I- Julgamento com efeitos do art. 543-C, § 7º, do CPC. - Orientação 1: Os órgãos mantenedores de cadastros possuem legitimidade passiva para as ações que buscam a reparação dos danos morais e materiais decorrentes da inscrição, sem prévia notificação, do nome de devedor em seus cadastros restritivos, inclusive quando os dados utilizados para a negativação são oriundos do CCF do Banco Central ou de outros cadastros mantidos por entidades diversas (STJ, REsp n. 1.061.134/RS, Segunda Seção, rela. Mina. Nancy Andrighi, DJe de 1º- 4-2009). ÔNUS SUCUMBÊNCIAS. MANUTENÇÃO DA SENTENÇA. ARBITRAMENTO DE HONORÁRIOS RECURSAIS. INVIABILIDADE. ENUNCIADO ADMINISTRATIVO N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA
+Opostos embargos de declaração, foram rejeitados (fls. 255/260, e-STJ).
+Em suas razões de recurso especial, a recorrente, ora agravante, apontou, além de dissídio jurisprudencial, ofensa aos artigos 1022, II, 11 e 489, § 1º, IV, do CPC/15, 818 do CC/02 e 43, § 2º, do CDC. Sustentou, em síntese: i) negativa de prestação jurisdicional, pois o Tribunal não se manifestou acerca da necessidade de notificação expressa do fiador sobre o inadimplemento do devedor principal; e ii) ante a ausência de intimação, deve ser cancelada a sua inscrição no cadastro de inadimplentes, assim como deve a instituição financeira ser condenada ao pagamento dos danos morais.
+Após a apresentação das contrarrazões (fls. 342/348, e-STJ), o apelo não foi admitido na origem (fls. 351/357, e-STJ), dando ensejo ao agravo (fls. 396/411, e-STJ), visando destrancar o processamento daquela insurgência, no qual a recorrente refutou os óbices aplicados pela Corte estadual.
+Decisão monocrática de fls. 477/479, e-STJ, não conhecendo do agravo em recurso especial, ante a ausência de impugnação da Súmula 83/STJ.Nas razões do agravo interno (fl. 482/490, e-STJ), a parte alegou que impugnou todos os fundamentos da decisão proferida quando do juízo de admissibilidade.
+Em decisão monocrática de fls. 506/510 e-STJ, este signatário deu provimento para reconsiderar a decisão de fls. 477/479, e-STJ, para, de plano, negarprovimento ao recurso especial, sob os seguintes fundamentos: i) quanto à apontada violação dos artigos 1022, II, 11 e 489, § 1º, IV, do CPC/15, não assiste razão à recorrente, porquanto clara e suficiente a fundamentação adotada pelo Tribunal de origem para o deslinde da controvérsia;ii) incidência das Súmulas 283/STF e 83/STJ; eiii) ausência de comprovação de similitude fática.
+Irresignada, a agravanteinterpôs agravo interno (fls. 513/525, e-STJ), no qual asseverou, em suma: a) restou configurada a negativa de prestação jurisdicional;b) as Súmulas 283/STF e 83/STJ devem ser afastadas; e c) comprovou a similitude fática.
+Requer, por fim, a reconsideração da decisão monocrática ou sua reforma pelo Colegiado.
+Sem impugnação (fl. 528, e-STJ).
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL - AÇÃO CONDENATÓRIA - DECISÃO MONOCRÁTICA QUE NEGOU PROVIMENTO AO RECLAMO - INSURGÊNCIA RECURSAL DA AUTORA.
+1. O acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não há falar em negativa de prestação jurisdicional.
+2. Ausente impugnação aos fundamentos por si sós aptos manter a conclusão do julgado,incide o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+3. Osórgãos mantenedores dos cadastros de inadimplentes possuem legitimidade passiva nas ações que buscam a reparação dos danos morais e materiais advindos da inscrição, sem prévia notificação, do nome do devedor. (AgInt no REsp 1394646/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/05/2019, DJe 20/05/2019)
+4.A simples transcrição de ementas ou votos, sem a exposição, clara e precisa, das circunstâncias que identifiquem ou assemelhem os casos confrontados, não autoriza haver por atendida a suposta divergência.
+5. Agravo interno desprovido.
+VOTO
+O EXMO. SR. MINISTRO MARCO BUZZI (Relator):
+A irresignação não merece prosperar, porquanto os argumentos tecidos pela agravante são incapazes de infirmar a decisão objurgada, motivo pelo qual merece ser mantida.
+1. A apontada violação dos arts. 1022, II, 11 e 489, § 1º, IV, do CPC/15não se configura, haja vista o Tribunal estadual ter dirimido clara e integralmente a controvérsia, expondo, fundamentadamente, as razões pelas quais entendeu válida a notificação enviada aoseu endereço, de modo que não constando do acórdão recorrido os defeitos previstos no citado dispositivo do Código de Processual Civil, mas decisão adversa à pretendida pela parte agravante.
+É, aliás, o que se observa dos seguintes excertos do acórdão recorrido (fl. 232, e-STJ):
+"Na hipótese, verifica-se que os documentos de págs. 149-151demonstram que a instituição financeira enviou notificação extrajudicial informando a apelante dos débitos referentes ao contrato em que ela figurou como fiadora. O Aviso de Recebimento foi enviado para o mesmo endereço informado pela recorrente na petição inicial. Portanto, a instituição financeira apresentou documentos hábeis no intuito de comprovar a efetiva notificação prévia da apelante acerca da mora. É importante ressaltar que, ao contrário do que afirma a recorrente, a jurisprudência não exige que a notificação seja pessoal, mas apenas que seja enviada pera ao endereço do devedor solidário.".
+Portanto, o acórdão embargado enfrentou coerentemente as questões postas a julgamento, no que foi pertinente e necessário, exibindo fundamentação clara e nítida, razão pela qual não merece qualquer reparo.
+Nesse sentido:
+PROCESSUAL CIVIL. PETIÇÃO NO AGRAVO EM RECURSO ESPECIAL. RECEBIMENTO COMO AGRAVO REGIMENTAL. AUSÊNCIA DE ANÁLISE DE QUESTÃO RELEVANTE PARA O JULGAMENTO DA LIDE. FALTA DE PREQUESTIONAMENTO. SÚMULAS N. 282 E 356 DO STF. AUSÊNCIA DE IMPUGNAÇÃO DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA N. 283/STF. DECISÃO MANTIDA.
+1. Inexiste afronta aos arts. 165, 458, II, e 535, II, do CPC/1973 quando o acórdão recorrido apresenta fundamentos suficientes para embasar a decisão, enfrentando todas as questões pertinentes para a solução da lide e manifestando-se sobre todos os argumentos que, em tese, poderiam infirmar a conclusão adotada pelo Juízo.
+(..)
+(PET no AREsp 489.892/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 27/02/2018, DJe 12/03/2018)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO CAUTELAR DE EXIBIÇÃO DE DOCUMENTOS. ALEGADA VIOLAÇÃO AOS ARTS. 131, 165, 458, II, E 535 DO CPC/1973. NÃO OCORRÊNCIA. EXCEÇÃO DE PRÉ-EXECUTIVIDADE. AFASTAMENTO DA MULTA APLICADA EM SENTENÇA JÁ COBERTA PELA COISA JULGADA. POSSIBILIDADE. ASTREINTES. AUSÊNCIA DE PRECLUSÃO OU OFENSA À COISA JULGADA. PRECEDENTES. PROVIMENTO NEGADO.
+1. Não se verifica a alegada violação aos arts. 131, 165, 458, II, e 535 do CPC/1973, na medida em que a eg. Corte de origem dirimiu, fundamentadamente, as questões que lhe foram submetidas. De fato, inexiste omissão no aresto recorrido, porquanto o Tribunal local, malgrado não ter acolhido os argumentos suscitados pela parte recorrente, manifestou-se expressamente acerca dos temas necessários à integral solução da lide.
+(..)
+(AgInt no AREsp 717.668/GO, Rel. Ministro LÁZARO GUIMARÃES (DESEMBARGADOR CONVOCADO DO TRF 5ª REGIÃO), QUARTA TURMA, julgado em 20/02/2018, DJe 26/02/2018)
+2. Em relação à alegada invalidade da notificação, a Corte local consignou "O Aviso de Recebimento foi enviado para o mesmo endereço informado pela recorrente na petição inicial. Portanto, a instituição financeira apresentou documentos hábeis no intuito de comprovar a efetiva notificação prévia da apelante acerca da mora. É importante ressaltar que, ao contrário do que afirma a recorrente, a jurisprudência não exige que a notificação seja pessoal, mas apenas que seja enviada para ao endereço do devedor solidário" (fl. 232, e-STJ).
+Nesse sentido, como esses fundamentos são suficientes por si sós para manter a conclusão do julgado, os quais não foram atacado de forma específica nas razões do recurso especial, incide, à hipótese, o comando da Súmula 283 do Supremo Tribunal Federal, por aplicação analógica.
+Confira-se:
+CIVIL. PROCESSUAL CIVIL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO NA VIGÊNCIA DO CPC/73. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. VIOLAÇÃO DOS ARTS. 165, 458 E 535 DO CPC. OMISSÃO, FALTA DE FUNDAMENTAÇÃO E/OU NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. ATO ATENTATÓRIO À DIGNIDADE DA JUSTIÇA. MULTA. AFASTAMENTO. REEXAME DO ACERVO FÁTICO-PROBATÓRIO. INVIABILIDADE. SÚMULA Nº 7 DO STJ. ADVERTÊNCIA PRÉVIA. DESNECESSIDADE. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTOS DO ACÓRDÃO. SÚMULA Nº 283 DO STF.
+(..)
+5. A ausência de impugnação, nas razões do recurso especial, a fundamento autônomo do acórdão recorrido atrai o óbice da Súmula nº 283 do STF, segundo a qual: É inadmissível o recurso extraordinário, quando a decisão recorrida assenta em mais de um fundamento suficiente e o recurso não abrange todos eles.
+(..)
+7. Agravo regimental não provido.
+(AgRg no AREsp 711.672/DF, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 06/03/2018, DJe 09/03/2018)
+AGRAVO INTERNO NO RECURSO ESPECIAL. EXIBIÇÃO DE DOCUMENTOS. NEGATIVA DE PRESTAÇÃO JURISDICIONAL. NÃO OCORRÊNCIA. REEXAME DE MATÉRIA FÁTICO-PROBATÓRIA. SÚMULA Nº 7/STJ. FUNDAMENTOS DO ACÓRDÃO PROFERIDO NA ORIGEM. AUSÊNCIA DE IMPUGNAÇÃO. SÚMULA Nº 283/STF.
+(..)
+3. A ausência de impugnação dos fundamentos do aresto recorrido enseja a incidência, por analogia, da Súmula nº 283 do Supremo Tribunal Federal.
+4. Agravo interno não provido.
+(AgInt no REsp 1583954/PR, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 25/10/2016, DJe 10/11/2016)
+3. Ademais,os órgãos mantenedores dos cadastros de inadimplentes possuem legitimidade passivanasações que buscam a reparação dos danos morais e materiais advindos da inscrição, sem prévia notificação, do nome do devedor.(AgInt no REsp 1394646/SP, Rel. Ministro ANTONIO CARLOS FERREIRA, QUARTA TURMA, julgado em 13/05/2019, DJe 20/05/2019)
+4.Por fim,sob o prisma da alínea c, ao analisar os autos, constata-se que o recurso não deve ser conhecido, visto que a agravante não comprovou a similitude fática, não obedecendo às normas contidas nos artigos 1.029, § 1º, CPC/15, e 255, §§ 1º e 2º, do RISTJ. Nesse sentido, a simples transcrição de ementas ou votos, sem a exposição, clara e precisa, das circunstâncias que identifiquem ou assemelhem os casos confrontados, não autoriza haver por atendida a suposta divergência.
+De rigor, portanto, a manutenção da decisão agravada.
+5. Do exposto, nego provimento ao agravo interno.
+É como voto.
