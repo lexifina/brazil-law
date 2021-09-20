@@ -1,0 +1,63 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Nancy Andrighi, Paulo de Tarso Sanseverino, Marco Aurélio Bellizze e Moura Ribeiro votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. RECUSA INJUSTIFICADA. ANS. ROL DE COBERTURA MÍNIMA. TRATAMENTO NÃO INCLUÍDO . ROL EXEMPLIFICATIVO. DEVER DE COBERTURA. DANO MORAL. RECONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ ).
+2. A Terceira Turma do Superior Tribunal de Justiça reafirmou a jurisprudência no sentido do caráter meramente exemplificativo do rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS), reputando abusiva a negativa da cobertura, pelo plano de saúde, do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. Esta Corte Superior reconhece a possibilidade de o plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas. Precedentes.
+4. A jurisprudência do Superior Tribunal de Justiça reconhece o direito ao recebimento de indenização por danos morais oriundos da injusta recusa de cobertura por parte do plano de saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário, já abalado e com a saúde debilitada.
+5. Agravo interno não provido.
+RELATÓRIO
+Trata-se de agravo interno interposto por UNIMED CAMPINAS COOPERATIVA DE TRABALHO MÉDICO contra a decisão desta relatoria que negou provimento ao recurso especial.
+Naquela oportunidade, concluiu-se ser abusiva a negativa de cobertura, pelo plano de saúde, do tratamento considerado apropriado para resguardar a saúde e a vida do paciente, tendo em vista o caráter exemplificativo do rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS) .
+Entendeu-se, ainda, que a recusa indevida de cobertura pelo plano de saúde gera o recebimento de indenização por danos morais (e-STJ fls. 426/431).
+Inconformada, a agravante interpõe o presente recurso (fls. 434/504), afirmando que
+"(..)
+O Nobre Relator negou provimento do Recurso Especial e no que tange a legalidade da recusa de custeio dos procedimentos vindicados, fundamenta sua decisão por entender que o acórdão atacado está alinhado com a jurisprudência desta Corte.
+Todavia, o entendimento diverge das decisões recentes proferidas por este mesmo E. Tribunal envolvendo a matéria em questão - que não se coaduna com o entendimento firmado pelo Tribunal "a quo", a exemplo do julgamento do REsp 1.733.013/PR, (..)".
+Ao final, requer a reconsideração da decisão atacada.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE SAÚDE. COBERTURA. RECUSA INJUSTIFICADA. ANS. ROL DE COBERTURA MÍNIMA. TRATAMENTO NÃO INCLUÍDO . ROL EXEMPLIFICATIVO. DEVER DE COBERTURA. DANO MORAL. RECONHECIMENTO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ ).
+2. A Terceira Turma do Superior Tribunal de Justiça reafirmou a jurisprudência no sentido do caráter meramente exemplificativo do rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS), reputando abusiva a negativa da cobertura, pelo plano de saúde, do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.
+3. Esta Corte Superior reconhece a possibilidade de o plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas. Precedentes.
+4. A jurisprudência do Superior Tribunal de Justiça reconhece o direito ao recebimento de indenização por danos morais oriundos da injusta recusa de cobertura por parte do plano de saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do usuário, já abalado e com a saúde debilitada.
+5. Agravo interno não provido.
+VOTO
+O acórdão impugnado pelo recurso especial foi publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+A irresignação não merece prosperar.
+Com efeito, esta Corte Superior possui entendimento segundo o qual não é cabível a negativa de tratamento indicado pelo profissional habilitado como necessário à saúde e à cura de doença efetivamente coberta em contrato, independentemente de sua previsão no rol de coberturas obrigatórias da ANS.
+Ademais, a despeito do precedente indicado pela agravante - REsp nº 1.733.013/PR, Relator Ministro Luis Felipe Salomão, Quarta Turma, julgado em 10/12/2019, DJe 20/2/2020 -, a Terceira Turma tem entendimento em sentido contrário, reafirmando sua jurisprudência no sentido do caráter exemplificativo do referido rol de procedimentos.
+Confira-se :
+"AGRAVO INTERNO. RECURSO ESPECIAL. CIVIL (CPC/2015). CIVIL. PLANO DE SAÚDE NA MODALIDADE AUTOGESTÃO. RECUSA DE COBERTURA DE CIRURGIA PARA TRATAMENTO DE DEGENERAÇÃO DA ARTICULAÇÃO TEMPOROMANDIBULAR (ATM). DIVERGÊNCIA QUANTO À ADEQUAÇÃO DO PROCEDIMENTO. INGERÊNCIA NA RELAÇÃO CIRURGIÃO-PACIENTE. DESCABIMENTO. JURISPRUDÊNCIA PACÍFICA DESTA TURMA. APLICABILIDADE ÀS OPERADORAS DE AUTOGESTÃO. PRECEDENTE EM SENTIDO CONTRÁRIO NA QUARTA TURMA. REAFIRMAÇÃO DA JURISPRUDÊNCIA DESTA TURMA.
+1. Controvérsia acerca da recusa de cobertura de cirurgia para tratamento de degeneração da articulação temporomandibular (ATM), pelo método proposto pelo cirurgião assistente, em paciente que já se submeteu a cirurgia anteriormente, por outro método, sem obter êxito definitivo.
+2. Nos termos da jurisprudência pacífica desta Turma, o rol de procedimentos mínimos da ANS é meramente exemplificativo, não obstando a que o médico assistente prescreva, fundamentadamente, procedimento ali não previsto, desde que seja necessário ao tratamento de doença coberta pelo plano de saúde. Aplicação do princípio da função social do contrato.
+3. Caso concreto em que a necessidade de se adotar procedimento não previsto no rol da ANS encontra-se justificada, devido ao fato de o paciente já ter se submetido a tratamento por outro método e não ter alcançado êxito.
+4. Aplicação do entendimento descrito no item 2, supra, às entidades de autogestão, uma vez que estas, embora não sujeitas ao Código de Defesa do Consumidor, não escapam ao dever de atender à função social do contrato.
+5. Existência de precedente recente da QUARTA TURMA no sentido de que seria legítima a recusa de cobertura com base no rol de procedimentos mínimos da ANS.
+6. Reafirmação da jurisprudência desta TURMA no sentido do caráter exemplificativo do referido rol de procedimentos.
+7. AGRAVO INTERNO DESPROVIDO." (AgInt no REsp 1.829.583/SP, Rel. Ministro PAULO DE TARSO SANSEVERINO, Terceira Turma, julgado em 22/6/2020, DJe 26/6/2020).
+Assim, conforme afirmado, a jurisprudência desta Corte reconhece a possibilidade de o plano de saúde estabelecer as doenças que terão cobertura, mas não o tipo de tratamento utilizado para a cura de cada uma delas.
+Nesse sentido, os seguintes precedentes: REsp nº 668.216/SP, Relator o Ministro Carlos Alberto Menezes Direito, Terceira Turma, DJ de 2/4/2007; REsp nº 880.035/PR, Relator o Ministro Jorge Scartezzini, Quarta Turma, DJ de 18/12/2006, e AG nº 1.137.474/SP, Relator Ministro Sidnei Beneti, Terceira Turma, DJ de 19/6/2009.
+A propósito :
+"AGRAVO REGIMENTAL. AGRAVO EM RECURSO ESPECIAL. OBRIGAÇÃO DE FAZER. PLANO DE SAÚDE. RECOMENDAÇÃO MÉDICA DE TRATAMENTO. LIMITAÇÃO. IMPOSSIBILIDADE. ABUSIVIDADE MANIFESTA DA CLÁUSULA RESTRITIVA DE DIREITOS. APLICAÇÃO DO CÓDIGO DE DEFESA DO CONSUMIDOR. INTERPRETAÇÃO DE CLÁUSULA MAIS FAVORÁVEL AO CONSUMIDOR.
+1. A jurisprudência deste Tribunal Superior é uníssona no sentido de que é abusiva a cláusula restritiva de direito que exclui do plano de saúde terapia ou tratamento mais apropriado para determinado tipo de patologia alcançada pelo contrato. Precedentes.
+2. Afigura-se desinfluente a discussão acerca da aplicação das disposições contidas na Lei n. 9.656/1998 na hipótese de as cláusulas contratuais serem analisadas em conformidade com as disposições contidas no Código de Defesa do Consumidor (Precedente: AgRg no AREsp 273.368/SC, Rel. Ministro Raul Araújo, Quarta Turma, julgado em 21/02/2013, DJe de 22/03/2013).
+3. Agravo regimental não provido." (AgRg no AgRg no AREsp nº 90.171/SP, Relator Ministro LUIS FELIPE SALOMÃO, QUARTA TURMA, julgado em 10/9/2013, DJe 20/9/2013).
+Com efeito, o aresto hostilizado não destoou do entendimento desta Corte, que reputa abusiva a negativa da cobertura, pelo plano de saúde, de tratamento/medicamento considerado apropriado para resguardar a saúde e a vida da paciente.
+Isso porque compete ao profissional habilitado indicar a opção adequada para o tratamento da doença que acomete seu paciente, não incumbindo à seguradora discutir acerca do tratamento, mas custear as despesas de acordo com a melhor técnica.
+Ademais, observa-se que a condenação em danos morais não se pautou apenas pelo não fornecimento de cobertura, mas também por sua abusividade e injusta recusa, o que ampara a reparação a tal título.
+Sobre o tema:
+"CIVIL E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. RECURSO MANEJADO SOB A ÉGIDE DO NCPC. AÇÃO DE OBRIGAÇÃO DE FAZER CUMULADA COM NULIDADE DE CLÁUSULA. PLANO DE SAÚDE. HOME CARE. PRESCRIÇÃO MÉDICA. CUSTEIO DO TRATAMENTO PELA OPERADORA. PROGRESSIVA REDUÇÃO DO SERVIÇO EM CONTRAPOSIÇÃO À EVOLUÇÃO DA PATOLOGIA. DANO MORAL. CONFIGURADO. PRECEDENTES DO STJ. SÚMULA Nº 568 DESTA CORTE. REVISÃO DO QUANTUM FIXADO. SÚMULA Nº 7 DO STJ. VALOR ESTABELECIDO SEGUNDO PARÂMETROS DE RAZOABILIDADE. DECISÃO MANTIDA POR SEUS PRÓPRIOS FUNDAMENTOS. RECURSO MANIFESTAMENTE INADMISSÍVEL. INCIDÊNCIA DA MULTA DO ART. 1.021, § 4º, DO NCPC. AGRAVO INTERNO NÃO PROVIDO, COM IMPOSIÇÃO DE MULTA.
+1. Aplica-se o NCPC a este recurso ante os termos no Enunciado Administrativo nº 3, aprovado pelo Plenário do STJ na sessão de 9/3/2016: Aos recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) serão exigidos os requisitos de admissibilidade recursal na forma do novo CPC.
+2. A jurisprudência desta Corte reconhece o direito ao ressarcimento dos danos morais advindos da injusta recusa de manutenção da cobertura de seguro saúde, pois tal fato agrava a situação de aflição psicológica e de angústia no espírito do segurado, uma vez que, ao pedir a autorização da seguradora, já se encontra em condição de dor, de abalo psicológico e com a saúde debilitada. Acórdão recorrido em consonância com este entendimento. Súmula nº 568 do STJ.
+3. A revisão do quantum fixado a título de danos morais somente é possível nos casos em que a quantia arbitrada pelo acórdão recorrido se mostrar irrisório ou exorbitante, situação que não se apresenta no caso em tela. Súmula nº 7 do STJ.
+4. Não sendo a linha argumentativa apresentada capaz de evidenciar a inadequação dos fundamentos invocados pela decisão agravada, o presente agravo não se revela apto a alterar o conteúdo do julgado impugnado, devendo ele ser integralmente mantido em seus próprios termos.
+5. Em razão da improcedência do presente recurso, e da anterior advertência em relação a incidência do NCPC, incide ao caso a multa prevista no art. 1.021, § 4º, do NCPC, no percentual de 3% sobre o valor atualizado da causa, ficando a interposição de qualquer outro recurso condicionada ao depósito da respectiva quantia, nos termos do § 5º daquele artigo de lei.
+6. Agravo interno não provido, com imposição de multa" (AgInt no AREsp 1169303/PE, Rel. Ministro MOURA RIBEIRO, TERCEIRA TURMA, julgado em 05/06/2018, DJe 15/06/2018).
+Desse modo, as razões do presente recurso são insuficientes para infirmar os fundamentos da decisão atacada.
+Ante o exposto, nego provimento ao agravo interno.
+É o voto.
