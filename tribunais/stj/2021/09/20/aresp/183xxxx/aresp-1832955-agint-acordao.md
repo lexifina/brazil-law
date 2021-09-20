@@ -1,0 +1,42 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEGUNDA TURMA do Superior Tribunal de Justiça, por unanimidade, dar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Francisco Falcão, Og Fernandes, Mauro Campbell Marques e Assusete Magalhães votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Herman Benjamin.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. LIQUIDAÇÃO EXTRAJUDICIAL. JUROS MORATÓRIOS POSTERIORES. EXCLUSÃO APENAS SE ATIVO FOR INSUFICIENTE.
+1. "A Primeira Turma deste Superior Tribunal, no julgamento do REsp 1.764.396/PE (Rel. Ministra Regina Helena Costa, DJe 16/4/2019), asseverou que na liquidação extrajudicial, tal como no procedimento falimentar, "são devidos juros moratórios anteriores à decretação da quebra, e os que lhes são posteriores, além de não terem a fluência interrompida, serão excluídos somente se o ativo apurado for insuficiente para o pagamento dos passivos"". (AgInt no AREsp 949.069/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 31/8/2020).
+2. Agravo Interno provido para conhecer do ARESp e dar parcial provimento ao Recurso Especial para declarar exigíveis os juros moratórios caso haja suficiência do ativo, nos termos da fundamentação.
+RELATÓRIO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Trata-se de Agravo Interno interposto contra decisão monocrática que conheceu do ARESp para não conhecer do Recurso Especial da ora agravante (fls. 493-497, e-STJ).
+A insurgente requer a reforma parcial da decisão anterior (fls. 501-504, e-STJ).
+É o relatório.
+EMENTA
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO. LIQUIDAÇÃO EXTRAJUDICIAL. JUROS MORATÓRIOS POSTERIORES. EXCLUSÃO APENAS SE ATIVO FOR INSUFICIENTE.
+1. "A Primeira Turma deste Superior Tribunal, no julgamento do REsp 1.764.396/PE (Rel. Ministra Regina Helena Costa, DJe 16/4/2019), asseverou que na liquidação extrajudicial, tal como no procedimento falimentar, "são devidos juros moratórios anteriores à decretação da quebra, e os que lhes são posteriores, além de não terem a fluência interrompida, serão excluídos somente se o ativo apurado for insuficiente para o pagamento dos passivos"". (AgInt no AREsp 949.069/SP, Rel. Ministro Sérgio Kukina, Primeira Turma, DJe 31/8/2020).
+2. Agravo Interno provido para conhecer do ARESp e dar parcial provimento ao Recurso Especial para declarar exigíveis os juros moratórios caso haja suficiência do ativo, nos termos da fundamentação.
+VOTO
+O EXMO. SR. MINISTRO HERMAN BENJAMIN (Relator): Os autos retornaram a este Gabinete em 12.8.2021.
+O Agravo Interno procede.
+O STJ entende que "são devidos juros moratórios anteriores à decretação da quebra, e os que lhes são posteriores, além de não terem a fluência interrompida, serão excluídos somente se o ativo apurado for insuficiente para o pagamento dos passivos" (REsp 1.764.396/PE, Rel. Ministra Regina Helena Costa, Primeira Turma, DJe 16/4/2019).
+Assim sendo, a exigibilidade dos juros condiciona-se à suficiência do ativo. Nessa linha os seguintes precedentes, com grifos acrescidos:
+ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. LIQUIDAÇÃO EXTRAJUDICIAL. JUROS DE MORA. CABIMENTO.
+1. A Primeira Turma deste Superior Tribunal, no julgamento do REsp 1.764.396/PE (Rel. Ministra Regina Helena Costa, DJe 16/4/2019), asseverou que na liquidação extrajudicial, tal como no procedimento falimentar, "são devidos juros moratórios anteriores à decretação da quebra, e os que lhes são posteriores, além de não terem a fluência interrompida, serão excluídos somente se o ativo apurado for insuficiente para o pagamento dos passivos".
+2. Agravo interno não provido. (AgInt no AREsp 949.069/SP, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 24/08/2020, DJe 31/08/2020)
+TRIBUTÁRIO. EMBARGOS À EXECUÇÃO FISCAL. LIQUIDAÇÃO EXTRAJUDICIAL. COBRANÇA DE MULTA FISCAL. DESCABIMENTO. JUROS MORATÓRIOS. FLUÊNCIA. POSSIBILIDADE. PRECEDENTES.
+(..) II - Tal como no procedimento falimentar, é inviável a cobrança de multa fiscal na liquidação extrajudicial, a teor do disposto no art. 34 da Lei n. 6.024/74. Precedentes.
+III - Conforme entendimento firmado por esta Corte, são devidos juros moratórios anteriores à decretação da quebra, e os que lhes são posteriores, além de não terem a fluência interrompida, serão excluídos somente se o ativo apurado for insuficiente para o pagamento dos passivos.
+IV - Recurso especial parcialmente provido. (REsp 1.764.396/PE, Rel. Ministra REGINA HELENA COSTA, PRIMEIRA TURMA, DJe 16/4/2019)
+EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE INDENIZAÇÃO SECURITÁRIA. DECRETAÇÃO DE LIQUIDAÇÃO EXTRAJUDICIAL NÃO IMPEDE A FLUÊNCIA DE CORREÇÃO MONETÁRIA. SÚMULA 83/STJ. SUSPENSÃO DA FLUÊNCIA DOS JUROS APÓS A DECRETAÇÃO DA LIQUIDAÇÃO. DANO MORAL CONFIGURADO. REVISÃO. IMPOSSIBILIDADE. APLICAÇÃO DA SÚMULA 7/STJ. EMBARGOS DE DECLARAÇÃO ACOLHIDOS, COM EFEITOS INFRINGENTES.
+(..) 2. É entendimento desta Corte que é devida a correção monetária, mesmo em regime de liquidação extrajudicial.
+3. Nos termos da jurisprudência desta Corte, após a decretação da liquidação extrajudicial, os juros têm sua fluência suspensa por força do art. 18, "d", da Lei n. 6.024/74, sendo que, "após a satisfação do passivo aos credores habilitados, e havendo ativo que os suporte, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial" (REsp 1.102.850/PE, Relatora a Ministra Maria Isabel Gallotti, DJe de 13/11/2014). (..) (EDcl no AgInt no AREsp 1.019.479/RJ, Rel. Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, DJe 22/3/2019)
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE COBRANÇA DE SEGURO DE VIDA CUMULADA COM INDENIZAÇÃO POR DANOS MORAIS. MORTE DO SEGURADO. PAGAMENTO DE INDENIZAÇÃO SECURITÁRIA AOS BENEFICIÁRIOS. LIQUIDAÇÃO EXTRAJUDICIAL. IRRESIGNAÇÃO QUANTO À FLUÊNCIA DE JUROS DE MORA E CORREÇÃO MONETÁRIA. PROCEDÊNCIA APENAS NO TOCANTE À FLUÊNCIA DOS JUROS DE MORA.
+1. Esta Corte tem entendimento de que, quando do pagamento de indenização securitária, estando a seguradora em regime de liquidação extrajudicial, é devida a correção monetária, não havendo fluência de juros de mora enquanto não pago integralmente o passivo. Por conseguinte, após a satisfação do passivo aos credores habilitados, e havendo ativo que os suporte, serão pagos os juros contratuais e os legais vencidos durante o período do processamento da falência ou liquidação extrajudicial (REsp 1.102.850/PE, Relatora Ministra Maria Isabel Gallotti, Quarta Turma, julgado em 4/11/2014, DJe de 13/11/2014).
+2. Agravo interno parcialmente provido para determinar que não haja a fluência de juros enquanto não for pago integralmente o passivo.
+(AgInt no AREsp 1120103/RS, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 26/02/2019, DJe 15/03/2019)
+RECURSO ESPECIAL. INSTITUIÇÃO FINANCEIRA. LIQUIDAÇÃO EXTRAJUDICIAL. OBRIGAÇÕES. JUROS MORATÓRIOS. SUSPENSÃO. TERMO INICIAL. DECRETO DE LIQUIDAÇÃO. CORREÇÃO MONETÁRIA. INCIDÊNCIA. SUCUMBÊNCIA RECÍPROCA. RECONHECIMENTO.
+1. Fica suspensa a fluência de juros contra a instituição financeira, sejam legais ou contratuais, a partir do decreto de liquidação até o pagamento do passivo. Na hipótese de sobejar alguma quantia após a satisfação do principal, os juros serão pagos respeitada a ordem estabelecida no quadro geral de credores. Precedente.
+2. A princípio, a Lei nº 6.024/1974 suspendia a incidência de correção monetária sobre as dívidas da instituição financeira em liquidação extrajudicial. Porém, o art. 18, "f" da referida lei foi modificado, no ponto, pelo Decreto-Lei nº 1.477/1976, que prevê a incidência de correção monetária sobre a totalidade das obrigações de responsabilidade das entidades sob regime de liquidação extrajudicial.
+3. A distribuição dos ônus sucumbenciais está relacionada com a quantidade de pedidos requeridos na demanda e o decaimento proporcional das partes em relação a cada pleito. O acolhimento de apenas um dos pedidos dentre dois realizados implica sucumbência recíproca.
+4. Recurso especial parcialmente provido. (REsp 1.646.192/PE, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, DJe 24/3/2017)
+Diante disso, dou provimento ao Agravo Interno para conhecer do ARESp e dar parcial provimento ao Recurso Especial para declarar exigíveis os juros moratórios caso haja suficiência do ativo, nos termos da fundamentação.
+É como voto.
