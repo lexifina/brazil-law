@@ -1,0 +1,39 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUARTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Raul Araújo, Maria Isabel Gallotti, Antonio Carlos Ferreira e Marco Buzzi votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Luis Felipe Salomão.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MASSA FALIDA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE INTERESSE DE AGIR. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CENTRAL DO ACÓRDÃO. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "Com o trânsito em julgado da sentença que decretou o encerramento da falência e diante da inexistência de motivos que ensejassem o redirecionamento da execução fiscal, não restava outra alternativa senão decretar-se a extinção do processo, sem exame do mérito, com fulcro no art. 267, IV, do CPC. Não se aplica ao caso a regra do art. 40 da LEF" (RESP 758363/RS,2ª Turma,Min. Castro Meira, DJ de 12.09.2005).(REsp 761.759/RS, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 06/12/2005, DJ 19/12/2005, p. 261).
+2. A argumentação contida no apelo especial não possui elementos suficientes para infirmar as razões colacionadas no aresto objurgado; pois não ataca especificamente os fundamento utilizado pelo Sodalício de origem para dirimir a controvérsia, o que impõe o não conhecimento da pretensão, a teor do entendimento das Súmulas 284 e 283 do STF.
+3. Agravo interno não provido.
+RELATÓRIO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+1. Trata-se de agravo interno interposto por RAIZEN ENERGIA S.A em face de decisão da Presidência desta Corte, de fls. 364-367, que negou provimento ao seu agravo em recurso especial, em razão da incidência da Súmula 7/STJ, devido a impossibilidade de reexame do conjunto fático-probatório dos autos; e pela aplicação da Súmula 282 do STF.
+Nas razões recursais, a parte agravante repisa os argumentos trazidos no recurso especial, e ainda sustenta: "A Agravante pretende a resposta jurisdicional no sentido de aferir a plena aplicabilidade do artigo 158 da lei de falências, à luz do artigo 485, VI do C.P.C, sendo que o primeiro estabelece sobre a subsistência das obrigações da Massa Falida após a r. sentença extintiva do processo falimentar. Nesse sentido, a insurgência é bastante clara, e as razões recursais, com a devida vênia não padecem dos vícios apontados na decisão Agravada, sendo ainda evidente que não há qualquer prova a ser revolvida no tocante a tais questões, mas tão somente a aplicação de uma interpretação diversa da que foi exposta pelo E. Tribunal a quo, com base na própria moldura fática transcrita no venerando acórdão.".
+Requer o conhecimento e provimento do presente agravo para conhecer e dar provimento ao recurso especial.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO DE TÍTULO EXTRAJUDICIAL. MASSA FALIDA. EXTINÇÃO DO PROCESSO SEM RESOLUÇÃO DO MÉRITO. AUSÊNCIA DE INTERESSE DE AGIR. AUSÊNCIA DE IMPUGNAÇÃO A FUNDAMENTO CENTRAL DO ACÓRDÃO. ACÓRDÃO EM SINTONIA COM O ENTENDIMENTO FIRMADO NO STJ. AGRAVO INTERNO NÃO PROVIDO.
+1. "Com o trânsito em julgado da sentença que decretou o encerramento da falência e diante da inexistência de motivos que ensejassem o redirecionamento da execução fiscal, não restava outra alternativa senão decretar-se a extinção do processo, sem exame do mérito, com fulcro no art. 267, IV, do CPC. Não se aplica ao caso a regra do art. 40 da LEF" (RESP 758363/RS, 2ª Turma, Min. Castro Meira, DJ de 12.09.2005).(REsp 761.759/RS, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 06/12/2005, DJ 19/12/2005, p. 261).
+2. A argumentação contida no apelo especial não possui elementos suficientes para infirmar as razões colacionadas no aresto objurgado; pois não ataca especificamente os fundamento utilizado pelo Sodalício de origem para dirimir a controvérsia, o que impõe o não conhecimento da pretensão, a teor do entendimento das Súmulas 284 e 283 do STF.
+3. Agravo interno não provido.
+VOTO
+O SENHOR MINISTRO LUIS FELIPE SALOMÃO (Relator):
+2. O Tribunal de origem - destinatário da prova - após a análise dos elementos informativos contidos nos autos, assim concluiu:
+Em que pese a combatividade exposta em razões de apelação, a recorrente não traz fundamentos capazes de infirmar as conclusões tecidas na decisão objurgada.
+Com efeito, o superveniente encerramento da falência, certificada a inexistência de ativos suficientes à satisfação das dívidas da falida, legitima a extinção da execução quanto à massa falida.
+Isso porque, encerrada a falência da pessoa jurídica, deixa esta de existir, não podendo contra ela prosseguir a execução, por inexistência de sujeito passivo, além do que, cristalina a ausência de utilidade na continuidade do processo de execução em face da falida, frente à impossibilidade de quitação do débito, o que se dessume através da prolação do juízo de extinção do processo:
+" Primeiramente, cabe dizer que na exordial de fls.01/15, nem mesmo da documentação acostada nos autos, é possível extrair a informação de que a sentença terminativa da falência da empresa requerida teve seu trânsito certificado. Sendo assim, seria o caso de manter-se a decisão declinatória da competência de fl. 211.
+Entretanto, visando a celeridade do feito, e observando- se as normas fundamentais do processo civil, e ante os informes do autor às fls. 214/218 de que a sentença terminativa da falência transitou em julgado, tenho ser o caso de se proceder à prolação de sentença nestes autos.
+O feito deve ser, desde logo, extinto sem resolução do mérito.
+Explico: a sentença que encerrou a falência (documento de fls. 193/195) expressamente dispôs:
+"(..) é claro nos autos que a falida não possui mais ativos a garantir a remuneração do administrador (..)" (fl. 193).
+"No mais, ao que consta das informações da antiga administradora, não há mais ativos a serem arrecadados na falência (..)" (fl. 194).
+Tendo o processo de falência sido extinto, e não havendo elementos a indicar a existência de bens que possam garantir o pagamento integral das dívidas da falida ou indícios de crime falimentar de modo a possibilitar eventual inserção dos sócios no polo executado, deve a presente execução, porquanto desprovida de utilidade em sua continuação, ser extinta sem resolução do mérito, por falta de interesse processual.
+É evidente que a quitação do débito exequendo se tornou impossível, já que não pode ser requerida contra a massa falida, porquanto inexistente como sujeito passivo, ante o encerramento do processo falimentar".
+(..)
+2.1. O acórdão recorrido não destoa da Jurisprudência desta Corte que possui entendimento de que: "Com o trânsito em julgado da sentença que decretou o encerramento da falência e diante da inexistência de motivos que ensejassem o redirecionamento da execução fiscal, não restava outra alternativa senão decretar-se a extinção do processo, sem exame do mérito, com fulcro no art. 267, IV, do CPC. Não se aplica ao caso a regra do art. 40 da LEF" (RESP 758363/RS, 2ª Turma, Min. Castro Meira, DJ de 12.09.2005).(REsp 761.759/RS, Rel. Ministro TEORI ALBINO ZAVASCKI, PRIMEIRA TURMA, julgado em 06/12/2005, DJ 19/12/2005, p. 261).
+2.2. Verifica-se ainda, que a argumentação contida no apelo especial não possui elementos suficientes para infirmar as razões colacionadas no aresto objurgado; pois não ataca especificamente os fundamento transcritos acima, em negrito, utilizado pelo Sodalício de origem para dirimir a controvérsia, o que impõe o não conhecimento da pretensão, a teor do entendimento das Súmulas 284 e 283 do STF.
+3. Ante o exposto, nego provimento ao agravo interno.
+É como voto.
