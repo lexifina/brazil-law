@@ -1,0 +1,29 @@
+DECISÃO:
+EMENTA: Processual Penal. Recurso ordinário em habeas Corpus. Execução penal. Prisão domiciliar. Recomendação 62/2020 do CNJ. Requisitos não preenchidos. Fatos e provas.
+    1. Trata-se de recurso ordinário em habeas corpus, com pedido liminar, interposto contra acórdão unânime da Sexta Turma do Superior Tribunal de Justiça, assim ementado:
+    “AGRAVO REGIMENTAL NO HABEAS CORPUS. PEDIDO DE PRISÃO DOMICILIAR. CRISE MUNDIAL DA COVID-19. NÃO DEMONSTRADA A EXISTÊNCIA DE RISCO À INTEGRIDADE FÍSICA DO ENCARCERADO. DILAÇÃO PROBATÓRIA. IMPOSSIBILIDADE. DECISÃO MANTIDA. AGRAVO REGIMENTAL NÃO PROVIDO.
+    1. Ante a crise mundial da Covid-19 e, especialmente, a iminente gravidade do quadro nacional, intervenções e atitudes mais ousadas são demandadas das autoridades, inclusive do Poder Judiciário. Nesse sentido, salienta a Recomendação n. 62, de 17 de março de 2020, do Conselho Nacional de Justiça a importância da "adoção de medidas preventivas à propagação da infecção pelo novo coronavírus – Covid-19 no âmbito dos estabelecimentos do sistema prisional e do sistema socioeducativo".
+    2. Todavia, ao indeferir o pedido defensivo, o Juízo singular apontou que “não se pode olvidar que o presente pedido coletivo, além de contar com alegações genéricas quanto a efetiva doença que acometeria cada detento, não contém o mínimo de lastro probatório a demonstrar o real diagnóstico médico de cada sentenciado, a fim de realmente se constatar a doença atribuída e a eventual gravidade ou debilidade física de cada sentenciado”. Assim, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+    3. Agravo regimental não provido.”
+    2. Extrai-se dos autos que a defesa pugnou ao Juízo da execução a concessão de prisão domiciliar ao paciente, tendo em vista que estaria inserido em grupo de risco, por apresentar maior vulnerabilidade em relação ao novo coronavírus. Contudo, o pleito foi indeferido, decisão que foi mantida pelo Tribunal estadual.
+    3. Na sequência, sobreveio a impetração de habeas corpus no Superior Tribunal de Justiça. O Relator do HC 606.088, Min. Rogerio Schietti Cruz, indeferiu liminarmente o writ. Interposto agravo regimental, o recurso foi desprovido.
+    4. Neste recurso ordinário, a defesa alega que “o ora Recorrente corre o risco concreto de perder a sua vida em razão da pandemia do Covid-19, uma vez que o seu estado de saúde debilitado faz com que ele seja pessoa mais vulnerável à infecção e complicações provocadas pelo novo coronavírus”.
+    5. A defesa requer:
+          (i) “1. a concessão de medida liminar para conceder ao ora Recorrente o direito à prisão domiciliar, mantendo-se eficaz essa decisão até o julgamento final da presente irresignação;
+          (ii) 2. no mérito, o provimento do presente recurso ordinário, afastando-se o entendimento adotado pelo STJ, conceder a ordem postulada na petição inicial do presente pedido de habeas corpus”.
+    6. Decido.
+    7. O recurso não merece ser provido.
+    8. As peças que instruem este processo não evidenciam situação de teratologia, ilegalidade flagrante ou abuso de poder que autorize o pronto acolhimento da pretensão defensiva. Acerca da aplicação da Recomendação 62 do CNJ, “não foi trazida aos autos a conjuntura atual do quadro de saúde do paciente, dado que o pedido realizado à instância ordinária decorreu de alegações genéricas” (trecho da decisão proferida pelo STJ).
+    9. Vejam-se ainda as seguintes passagens do voto condutor do acórdão proferido pelo Superior Tribunal de Justiça:
+    “[...]
+    O Juízo singular, ao analisar o pedido defensivo, apontou que “não se pode olvidar que o presente pedido coletivo, além de contar com alegações genéricas quanto a efetiva doença que acometeria cada detento, não contém o mínimo de lastro probatório a demonstrar o real diagnóstico médico de cada sentenciado, a fim de realmente se constatar a doença atribuída e a eventual gravidade ou debilidade física de cada sentenciado” (fl. 45, destaquei).
+    A Corte de origem, ao manter o indeferimento do benefício, destacou que, “[e]m que pese a notória situação de saúde pública causada pelo denominado COVID-19, vislumbra-se, a princípio, que os instrumentos legais publicados até o presente momento não implicam em consequente liberação dos presos que já deram início ao cumprimento de suas penas no sistema carcerário brasileiro” (fl. 17).
+    Dessa forma, percebe-se que as instâncias ordinárias apontaram elementos concretos a partir dos quais concluíram estar ausente o requisito subjetivo para concessão da benesse, visto que, a despeito da alegação de comorbidade pré-existente, não foi trazida aos autos a conjuntura atual do quadro de saúde do paciente, dado que o pedido realizado à instância ordinária decorreu de alegações genéricas.
+    Por fim, aponto que, para se infirmar a interpretação apresentada pelas instâncias ordinárias e possibilitar conclusão diversa da exarada no acórdão, é necessário imiscuir-se no exame do acervo fático-probatório, o que evidencia a impossibilidade de este Superior Tribunal apreciar o pedido formulado no writ.
+    [...]”.
+    10.  Nesse contexto, não tenho como revolver fatos e provas para dissentir das premissas que embasaram as decisões proferidas pelas instâncias de origem, procedimento que não é possível na via processualmente restrita do habeas corpus.
+    11. Diante do exposto, com base no art. 192, c/c o art. 312, ambos do RI/STF, nego provimento ao recurso ordinário em habeas corpus.
+      Publique-se.
+          Brasília, 20 de setembro de 2021.
+Ministro LUÍS ROBERTO BARROSO
+                            Relator
