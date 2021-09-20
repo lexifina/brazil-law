@@ -1,0 +1,19 @@
+DECISÃO
+    Trata-se de recurso ordinário em habeas corpus, com pedido de medida liminar, interposto contra acórdão do Superior Tribunal de Justiça que está assim ementado:
+    PROCESSUAL PENAL. AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. DECISÃO QUE INDEFERIU LIMINARMENTE A PETIÇÃO INICIAL DO ‘HABEAS CORPUS’, SOB O FUNDAMENTO DE QUE AS TESES SUSCITADAS FORAM APRECIADAS E JULGADAS EM RECURSO ESPECIAL. MERA REITERAÇÃO DOS ARGUMENTOS CONSTANTES DA PETIÇÃO INICIAL E NARRATIVA DE QUE A ANÁLISE DAS TESES SUSCITADAS NÃO DEMANDAM REEXAME PROBATÓRIO. NÃO IMPUGNAÇÃO DO FUNDAMENTO UTILIZADO NA DECISÃO AGRAVADA. INCIDÊNCIA DO ÓBICE DA SÚMULA 182/STJ. AGRAVO REGIMENTAL NÃO CONHECIDO.
+    1. O agravante não impugnou o fundamento constante da decisão agravada, atraindo o óbice da Súmula 182/STJ.
+    2. Agravo regimental não conhecido.
+    (Agravo regimental no habeas corpus n. 672.385, ministro Reynaldo Soares da Fonseca)
+    Em suas razões, o recorrente pretende: a) “a absolvição do epigrafado do delito do art. 33, ‘caput’, da Lei 11.343/06 em relação ao fato ocorrido no dia 14 de maio de 2015 eis que, se a prova produzida nos autos não foi suficiente para incriminar o acusado corréu Patrick, também não pode servir para incriminar o ora recorrente/paciente" e; b) “a absolvição do epigrafado do delito do art. 35 da Lei 11.343/06, ante a ausência de comprovação da estabilidade e permanência dos envolvidos no tráfico de drogas”.
+    Inicialmente, insta destacar a autorização regimental deste Supremo Tribunal Federal para o julgamento imediato do presente feito pelo Relator, independentemente de prévia manifestação do Ministério Público Federal (RISTF, arts. 21, § 1º e art. 52, parágrafo único).
+    Tal o contexto, reputo inadmissível o presente recurso, eis que o acórdão impugnado não apreciou a pretensão formulada pelo recorrente, limitando-se a aplicar o Enunciado nº 182 da Súmula do STJ.
+    Esta Suprema Corte consolidou sua jurisprudência no sentido de não se conhecer de habeas corpus quando as razões apresentadas pela parte impetrante não houverem sido apreciadas pelo Tribunal apontado como coator, por caracterizar-se inadmissível supressão de instância  (HC 192.077-AgR/SP, Ministra Cármen Lúcia; HC 157.575-AgR/SP, Ministro Dias Toffoli; HC 164.611-AgR/ES, Ministro Edson Fachin; HC 190.387/RN, Ministro Gilmar Mendes; HC 189.201-AgR/SC, Ministro Luiz Fux; HC 190.319-AgR/RJ, Ministro Ricardo Lewandowski).
+    De outro lado, ainda que fosse possível superar tal óbice, melhor sorte não assistiria ao ora recorrente.
+    É que, para o eventual acolhimento da sua tese defensiva – absolvição dos delitos de tráfico de drogas e associação para o tráfico -, seria indispensável o reexame de todo o conjunto fático-probatório produzido pelas instâncias ordinárias, fato esse inviável para a via estreita do habeas corpus, que não admite dilação probatória, nos termos da jurisprudência de ambas as Turmas desta Suprema Corte (HC 101.806-AgR/SC, Ministro Luiz Fux; HC 146.291-AgR/MT; Ministro Ricardo Lewandowski; RHC 119.887/MS, Ministro Dias Toffoli):
+    AGRAVO REGIMENTAL NO ‘HABEAS CORPUS’. PENAL. INEXISTÊNCIA DE CONTRARIEDADE AO PRINCÍPIO DA COLEGIALIDADE OU DE CERCEAMENTO DO DIREITO DE DEFESA. ENTENDIMENTO PACIFICADO NESTE SUPREMO TRIBUNAL A PERMITIR O JULGAMENTO POR DECISÃO MONOCRÁTICA DA PRESENTE IMPETRAÇÃO. PRETENSÃO DE ABSOLVIÇÃO PELO DELITO DE TRÁFICO DE ENTORPECENTE OU DESCLASSIFICAÇÃO PARA O USO DE ENTORPECENTE. NECESSIDADE DE REEXAME DE PROVA INCABÍVEL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+      (Agravo regimental no habeas corpus n. 178.657, ministra Cármen Lúcia – com meus grifos)
+    Em face do exposto, não conheço do presente recurso ordinário em habeas corpus.
+    Intime-se. Publique-se
+Brasília, 20 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
