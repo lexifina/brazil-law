@@ -1,0 +1,14 @@
+ESTADO DE MATO GROSSO
+PODER JUDICIÁRIO
+Gabinete do Desembargador Luiz Ferreira da Silva
+GABINETE DO DES. LUIZ FERREIRA DA SILVA
+APELAÇÃO CRIMINAL (417)
+0001288-13.2008.8.11.0101
+APELANTE: ROGERIO XIMENES JALES
+APELADO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos.
+À Procuradoria-Geral de Justiça para emissão de parecer.
+Cumpra-se.
+Cuiabá, 20 de setembro de 2021.
+Desembargador LUIZ FERREIRA DA SILVA
+Relator
