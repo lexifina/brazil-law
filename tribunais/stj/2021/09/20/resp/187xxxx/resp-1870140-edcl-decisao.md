@@ -1,0 +1,13 @@
+DECISÃO
+PROCESSUAL CIVIL E ADMINISTRATIVO. EMBARGOS DE DECLARAÇÃO NO RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. AUSÊNCIA DE OMISSÃO, CONTRADIÇÃO OU OBSCURIDADE. EMBARGOS DE DECLARAÇÃO DO PARTICULAR REJEITADOS.
+1. Cuida-se de Embargos de Declaração opostos peloESTADO DE MATO GROSSO DO SUL em desfavor da decisão que negou provimento ao Recurso Ordinário, nos termos da seguinte ementa:
+ADMINISTRATIVO. RECURSO ESPECIAL. CONCURSO PÚBLICO. CANDIDATOS APROVADOS DENTRO DAS VAGAS. PREVISÃO NO EDITAL. NOMEAÇÃO. LRF. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. INOCORRÊNCIA. RECURSO ESPECIAL A QUE SE NEGA PROVIMENTO.
+2. Nas razões apresentadas, a parte embargante requer seja expressamente analisado o caso à luz dos precedentes invocados em sua resposta (fls. 925).
+3. É o relatório.
+4.  O  art.  1.022  do  CPC/2015  é  peremptório  ao  prescrever  as  hipóteses  de  cabimento  dos  Embargos  de  Declaração,  sendo  restritos  asituações  em  que  patente  a  existência  de  obscuridade,  contradição,  omissão  ou  erro  material  no  julgado.  Não  se  prestam,  pois,  ao  rejulgamento  da  lide,  mediante  o  reexame  de  matéria  já  decidida.
+5.  Do  confronto  entre  a  leitura  da  decisão  embargada  e  a  da  peça  recursal  verifica-se,  todavia,  que  a  parte  embargante,  na  realidade,  não  pretende  qualquer  integração  da  decisão,  mas,  sim,  a  sua  reforma,  objetivo  que  extrapola  a  finalidade  do  recurso  utilizado.
+6.  Basta,  portanto,  a  esta  conclusão,  a  singela  verificação  de  que,  dentre  as  razões  recursais,  não  se  observa  qualquer  pleito  de  suprimento  de  omissão,  esclarecimento  de  contradição  ou  obscuridade,  ou  ainda  alegação  da  existência  de  erro  material;  simplesmente  há  a  não  satisfação  com  o  mérito  da  decisão.
+7.  Ora,  o  espectro  do  recurso  integrador  não  permite  a  simples  reforma  da  decisão  sem  que  tenha  havido  erro  material,  ou  ainda  omissão  relevante,  ocasião  em  que  a  análise  correta  da  questão  ou  do  ponto  sobre  o  qual  se  deu  a  omissão  poderá ensejar  a atribuição do  chamado  efeito  infringente,  causando,  assim,  a  reforma  do  julgado.
+8.  No  caso,  a  combatividade  demonstrada  na  peça  recursal  indica  a  não  conformação  da  parte  com  o  resultado  obtido  através  da  prolação  da  decisão  embargada,  hipótese  que  não  encontra  amparo  legal  para  a  oposição  dos  embargos  de  declaração,  sendo  certo  que  o  objetivo  real  da  parte  embargante  é  simplesmente  a  reforma  do  decisum.
+9.  Ante  o  exposto,  rejeitam-se  os  Embargos  de  Declaração  do  Particular.
+10.  Publique-se.  Intimações  necessárias.
