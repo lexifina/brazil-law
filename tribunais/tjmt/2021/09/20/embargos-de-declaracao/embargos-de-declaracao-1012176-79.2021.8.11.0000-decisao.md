@@ -1,0 +1,48 @@
+PRIMEIRA CÂMARA DE DIREITO PRIVADO
+EMBARGOS DE DECLARAÇÃO N. 1012176-79.2021.8.11.0000 – COMARCA DE RONDONÓPOLIS
+EMBARGANTE: JOÃO BATISTA SOARES
+EMBARGADAS: INDUSTRIA E COMÉRCIO DE FERRAGENS STANI LTDA
+NOVA LAJE FABRICAÇÃO DE ARTEFATOS DE CIMENTO LTDA – ME
+DECISÃO MONOCRÁTICA
+DESA. NILZA MARIA PÔSSAS DE CARVALHO (RELATORA)
+Trata-se de embargos de declaração opostos por JOÃO BATISTA SOARES, de decisão monocrática, que em juízo de retratação, no agravo interno interposto pelas embargadas, revogou a decisão que havia deferido a liminar em favor do ora embargante, em sede de agravo de instrumento, para sanar contradição e erro material na decisão.
+O embargante alega que o agravo de instrumento foi interposto para anular a decisão que não reconheceu a nulidade das intimações, e que determinou atos constritivos sobre o patrimônio do embargante, pois o procurador do ora embargante não foi intimado para o cumprimento da obrigação, quando instaurado o procedimento pelo PJE.
+Assevera que após o deferimento da liminar, foi interposto o agravo interno, onde a ora embargada utilizou-se de informações confusas e acabou induzindo esse Juízo a erro, e de consequência a liminar foi revogada.
+Expõe que o processo inicialmente tramitou de forma física e transitou em julgado em 02/10/2019, e passou a tramitar de forma hibrida de 09/06/2020 até 01/10/2020. Em 05/11/2020, o processo físico foi arquivado e a partir de então passou a tramitar via PJE, oportunidade em que houve a supressão do nome do causídico nas intimações, incluindo a determinação para pagamento voluntário.
+Alega que a Juíza prestou informações equivocadas, quando afirmou que o causídico foi regularmente intimado, pois ele jamais foi intimado no processo físico, portanto, não houve ciência do cumprimento de sentença pelo advogado do embargante, o que configura erro material e que contribuiu para a contradição na decisão embargada.
+Aduz que foi peticionado nos autos requerendo que todas as intimações fossem endereçadas exclusivamente aos advogados Marcio Antonio Garcia e André Luiz Gomes, o que não foi observado pelos advogados da embargada quando distribuíram o cumprimento de sentença no PJE.
+A contradição está entre o conteúdo da decisão embargada e a conclusão anterior tomada em sede de liminar favorável ao ora embargante, pois na decisão liminar reconheceu que havia pedido de intimação exclusiva em nome do causídico do ora embargante, já na decisão ora embargada, afirma que o causídico foi regularmente intimado do cumprimento de sentença, ainda dos autos físicos.
+Ao final, requer o acolhimento dos embargos de declaração com efeitos infringentes para sanar os vícios apontados, para revigorar a liminar concedida no agravo de instrumento em favor do ora embargante. (Id. 100399953)
+A embargada apresentou contrarrazões e pugnou pela rejeição dos embargos de declaração. (Id. 101706476)
+É o necessário.
+Decido.
+O Código de Processo Civil no § 2o do art. 1.024 dispõe:
+“Quando os embargos de declaração forem opostos contra decisão de relator ou outra decisão unipessoal proferida em tribunal, o órgão prolator da decisão embargada decidi-los-á monocraticamente.”
+Os Embargos de Declaração são cabíveis quando, na decisão, sentença ou no acórdão, houver obscuridade, contradição ou omissão sobre o ponto a que deveria pronunciar-se o órgão julgador, e também para reparo de erro material (art. 1.022 Novo CPC), o que não se configura no r. decisão monocrática.
+Nesse passo, temos que segundo NELSON NERY JUNIOR E ROSA MARIA DE ANDRADE NERY, em Comentários ao Código de Processo Civil, 2a tiragem, pág. 2120 e 2122, item 3 e 13, respectivamente, leciona:
+“3. Finalidade. Os EDcl tem finalidade de completar a decisão omissa ou, ainda, de aclará-la, dissipando obscuridades ou contradições. Não tem caráter substitutivo da decisão embargada, mas sim integrativo ou aclaratório. Prestam-se também para a correção de erro material. Como regra, não tem caráter substitutivo, modificador ou infringente do julgado...”.
+“13. Caráter Infringente. Os EDcl podem ter, excepcionalmente, caráter infringente quando utilizados para: a) correção de erro material manifesto; b) suprimento de omissão; c) extirpação de contradição. A infringência de julgado pode ser apenas a consequência do provimento dos Edcl, mas não seu pedido principal pois isso caracterizaria pedido de reconsideração, finalidade estranha aos EDcl. Em outras palavras, o embargante não pode deduzir, como pretensão recursal dos EDcl, pedido de infringência do julgado, isto é, de reforma da decisão embargada. A infringência poderá ocorrer quando for consequência necessária ao provimento dos embargos. (...) Assim o objetivo e a finalidade dos embargos não podem ser a infringência; esta encontra-se em momento posterior ao do julgamento do mérito dos embargos: na consequência decorrente daquilo que já foi julgado (complemento da decisão se supriu a omissão; aclaramento da decisão porque se resolveu a obscuridade/contradição) ...”.
+Eis o trecho da decisão embargada:
+“(...)
+Como mencionado, trata-se de recurso de agravo interno interposto por INDUSTRIA E COMERCIO DE FERRAGENS STANI LTDA – EPP, de decisão monocrática que concedeu efeito suspensivo ao agravo de instrumento interposto pelo ora agravado JOÃO BATISTA SOARES . (Id. 94340474).
+A controvérsia posta em analisar no recurso de agravo de instrumento, diz respeito a eventual nulidade de intimação do ora agravado a respeito do início do cumprimento de sentença.
+Pois bem, passo a analisar as provas trazidas pela agravante.
+Colhe-se dos autos que quando o feito retornou do Tribunal de Justiça para a Comarca, após o trânsito em julgado, as partes foram regulamente intimadas pelo DJE n. 10592 de 04/10/2019, onde consta o nome do causídico Dr. Marcio Antonio Garcia. (Id. 97385969-Pág. 4). Verifica-se ainda do extrato de andamento processual, que foi juntada petição do autor e documento, e que em 25/11/2019, foi certificado que decorreu o prazo de intimação, sem manifestação dos executados. Na sequência, em 27/11/2019, o Dr. Marcio Antonio Garcia, fez carga dos autos, devolvendo os autos em 11/12/2019.
+Mais adiante, foi realizada a intimação das partes via DJE no 10756, disponibilizado em 18/06/2020, onde consta o nome do Dr. Marcio Antonio Garcia, a respeito da conversão de tipo de tramitação do feito. (Id. 97385969-Pág. 3) Em 08/09/2020, o Dr. Marcio Antonio Garcia, devolveu os autos para a Secretaria.
+Em 01/10/2020 a Juíza determinou que o cumprimento de sentença tramitasse pelo PJE, referida decisão foi publicada no DJE n. 10831, onde constam como patronos habilitados para receberem intimações: KADMO MARTINS FERREIRA LIMA - OAB:MT/7039-B representando o polo ativo; e ÁLVARO LUIS PEDROSO MARQUES DE OLIVEIRA - OAB:7666/O MT, MARCIO ANTONIO GARCIA - OAB:MT-12104/O, RENATO OCAMPOS CARDOSO - OAB:11.878-A/MT representando o polo passivo.
+Além disso, a Juíza em suas informações, afirmou o seguinte:
+“(...)
+Trata -se de cumprimento de sentença, em que a exequentes, ora agravada, pleiteou o recebimento do valor da condenação atualizado em R$ 300.610,25 (trezentos mil seiscentos e dez reais e vinte e cinco centavos).
+O Juízo recebeu o pedido de cumprimento de sentença e determinou a intimação do executado, ora agravante, para efetuar o pagamento da dívida, no prazo de 15 dias, sob pena da incidência da multa de 10% e os honorários advocatícios em 10%, nos termos do artigo 523, §1o, §2o, II e 523, §1o, do CPC, ID no. 43033664.
+Em razão do não pagamento voluntário da dívida, o Juízo determinou a busca de ativos financeiros e de bens pelo s sistema s Sisbajud e Renajud, tendo sido bloqueado em desfavor do agravante a quantia total de R$ 79.677,90 (setenta e nove mil seiscentos e setenta e sete reais e noventa centavos) e 03 (três) veículos – Placas QBQ9H92, OLK4090 e JZS9295. Em seguida, o agravante, compareceu aos autos e requereu a nulidade de todos os atos após o recebimento do cumprimento de sentença, sob a alegação de que a intimação fora expedida para advogado diverso do requerido nos autos para recebimento de publicações no DJE. O Juízo indeferiu o referido pleito no ID no. 59837472, vez que a intimação ocorreu em nome dos advogados devidamente cadastrados nos autos como patronos do devedor, ora agravante, inclusive no processo principal, tendo este tomado ciência da intimação na data 26/11/2020.
+(...)”
+Portanto, diante do conjunto probatório e mais as informações da Juíza, onde afirma que que o agravado tomou ciência do cumprimento de sentença, inclusive no processo principal (físico) em 26/11/2020, não há que se falar em nulidade da intimação, pois o causídico Dr. Marcio Antonio Garcial, foi regulamente intimado.
+Ante o exposto, PROJEVO O AGRAVO INTERNO e reconsidero a decisão agravada, para revogar o efeito suspensivo deferido no agravo de instrumento.
+(...)”
+Das razões dos embargos de declaração, verifica-se nitidamente a irresignação do embargante com a revogação da liminar anteriormente concedida em seu favor.
+A alegação de erro material e contradição na decisão é despropositada, sendo mera irresignação na tentativa de reapreciação das provas, dada a inconformidade do embargante com a decisão que lhe foi desfavorável.
+A decisão embargada não contém vícios do artigo 1.022 do CPC/2015, pois apreciou os pedidos, as provas e os fundamentos, porém de forma contrária ao entendimento do embargante. O fato de o pronunciamento judicial ser contrário ao entendimento e ao interesse do embargante não configura qualquer vício a ser sanado.
+Ante o exposto, rejeito os embargos de declaração.
+Cuiabá, 20 de setembro de 2021.
+Desa. Nilza Maria Pôssas de Carvalho
+Relatora
