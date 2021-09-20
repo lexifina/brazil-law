@@ -1,0 +1,24 @@
+DECISÃO
+Trata-se de recurso extraordinário interposto por ROSANEA PEREIRA DAMASCENO PARANHOS, com fundamento no art. 102, inciso III, alínea "a", da Constituição Federal, contra decisão monocrática proferida pela Presidência desta Corte, nos seguintes termos (e-STJ fls. 493-494):
+Mediante análise dos autos, verificou-se que o recurso em mandado de segurança não foi instruído com a guia de custas devidas ao STJ e o respectivo comprovante de pagamento.
+A parte, embora regularmente intimada para sanar referido vício, quedou-se inerte. Registre-se que a parte manifestou-se após o prazo concedido para a regularização do preparo, quando já operada a preclusão consumativa, requerendo a concessão dos benefícios da justiça gratuita (fls. 489/490).
+Acontece, porém, que o referido pedido não tem efeito prático. Mesmo que o benefício da gratuidade fosse deferido nesse momento processual, a suposta benesse somente traria efeitos futuros, não sendo capaz de isentar a parte recorrente das custas processuais referentes aos atos anteriores, ou seja, não teria o condão de retroagir para regularizar o recolhimento das custas do recurso em mandado de segurança.
+Assim, apesar do pedido de justiça gratuita poder ser formulado aqualquer tempo e instância, ele "não retroage para alcançar encargos processuais anteriores" (AgRg no REsp 1.144.627/SC, Rel. Min. Marco Aurélio Belizze, Quinta Turma, DJe de 29/5/2012). Em igual sentido: AgInt no AREsp 868.815/SP, Rel. Min. Sérgio Kukina, Primeira Turma, DJe de 28/06/2016.
+Dessa forma, o recurso em mandado de segurança não foi devida e oportunamente preparado, incidindo na espécie o disposto na Súmula n. 187 deste Tribunal, o que leva à deserção do recurso.
+Sustenta arecorrente a violação aos arts. 37, caput e incisos III e IV, da Constituição Federal, com repercussão geral já decidida pelo Supremo Tribunal Federal (Tema 784).
+Afirma que teria comprovado "que não foi nomeada e empossada no cargo para o qual foi aprovada no concurso público, mesmo existindo cargos vagos durante a vigência do aludido concurso, que foram supridos indevidamente, por designação temporária" (e-STJ fl. 494).
+Requer a admissão do recurso e sua remessa ao Supremo Tribunal Federal.
+Sem contrarrazões(e-STJ fl. 508).
+É o relatório.
+Nos termos do art. 102, inciso III, alínea "a", da Constituição Federal, compete ao Supremo Tribunal Federal o julgamento, mediante recurso extraordinário, das causas decididas em única ou última instância.
+No caso dos autos, verifica-se que o recurso extraordinário foi interposto contra decisão monocrática proferida pela Presidência do Superior Tribunal de Justiça, contra a qual seria cabível agravo interno.
+Dessa forma, ante a ausência de exaurimento das vias recursais nesta instância especial, deve ser aplicado o enunciado 281 da Súmula do Supremo Tribunal Federal, in verbis:
+É inadmissível o recurso extraordinário, quando couber na justiça de origem, recurso ordinário da decisão impugnada.
+No mesmo sentido:
+Agravo regimental no recurso extraordinário com agravo. Não esgotamento das instâncias ordinárias. Súmula nº 281/STF. Precedentes. 1. Incide no caso a Súmula nº 281 do Supremo Tribunal Federal, pois o recurso extraordinário foi interposto contra decisão monocrática proferida por Ministro do Superior Tribunal de Justiça. 2. Agravo regimental não provido, com imposição de multa de 1% (um por cento) do valor atualizado da causa (art. 1021, § 4º, do CPC). 3. Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observados os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita. (ARE 1246783 AgR, Relator(a): Min. DIAS TOFFOLI (Presidente), Tribunal Pleno, julgado em 08/06/2020, PROCESSO ELETRÔNICO DJe-169 DIVULG 03-07-2020 PUBLIC 06-07-2020)
+Com igual orientação:
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO. PENAL. AUSÊNCIA DE ESGOTAMENTO DAS VIAS RECURSAIS ORDINÁRIAS. INCIDÊNCIA DA SÚMULA 281/STF. AGRAVO A QUE SE NEGA PROVIMENTO. I - Consoante a Súmula 281 do Supremo Tribunal Federal, é inadmissível o recurso extraordinário quando couber na Justiça de origem recurso ordinário da decisão impugnada. II - Agravo regimental a que se nega provimento. (ARE 1265496 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado em 29/05/2020, PROCESSO ELETRÔNICO DJe-138 DIVULG 03-06-2020 PUBLIC 04-06-2020)
+Ante o exposto, com fundamento no art. 1.030, inciso V, do Código de Processo Civil, não se admite o recurso extraordinário.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO EXTRAORDINÁRIO. INTERPOSIÇÃO CONTRA DECISÃO MONOCRÁTICA. NÃO EXAURIMENTO DE INSTÂNCIA. INCIDÊNCIA DO ENUNCIADO 281 DA SÚMULA DO SUPREMO TRIBUNAL FEDERAL. RECURSO NÃO ADMITIDO.
