@@ -1,0 +1,34 @@
+Decisão: Trata-se de habeas corpus impetrado por Flávio Márcio de Sousa Oliveira em favor de Jéssica Medeiros da Silva e Cléber Jemerson Vieira do Nascimento contra decisão monocrática do Superior Tribunal de Justiça que concedeu apenas parcialmente a ordem, nos autos do HC 668.226/PB.
+    O impetrante narra (eDOC 1) que os pacientes foram condenados pela prática do crime do art. 33, caput, da Lei 11.343/2006 à pena de 7 anos e 6 meses de reclusão, em regime inicialmente semiaberto.
+    Relata que a sentença transitou em julgado e que a revisão criminal ajuizada não alcançou êxito, porém o Superior Tribunal de Justiça reduziu as penas ao mínimo legal, na decisão monocrática apontada como ato coator.
+    Alega que os pacientes deveriam também receber o benefício do § 4º do art. 33 da Lei 11.343/2006, sobre o qual a sentença condenatória não teria se manifestado e que o acórdão da revisão criminal teria negado a partir da existência de ações penais em curso contra eles. (p. 5)
+    Pleiteia a concessão da ordem de habeas corpus para que seja aplicada a minorante do art. 33, § 4º, da Lei 11.343/2006.
+    O ato coator transitou em julgado.
+    É o relatório.
+    Decido.
+    Trata-se de writ contra decisão monocrática do Superior Tribunal de Justiça que denegou parcialmente a ordem em habeas corpus contra acórdão do Tribunal de Justiça da Paraíba, que negou provimento a revisão criminal.
+    Inicialmente, registro que, a despeito de meu posicionamento pessoal em contrário, as duas Turmas desta Corte firmaram jurisprudência no sentido de não conhecer dos writs extintos monocraticamente pelo relator no STJ, sem o manejo do agravo interno para o órgão colegiado (cito RHC 111.935/DF, rel. Min. Luiz Fux, 1ª Turma, DJe 30.9.2013; e HC 119.115/MG, rel. Ricardo Lewandowski, 2ª Turma, DJe 13.2.2014), com fundamento na carência de exaurimento da jurisdição e por inobservância ao princípio da colegialidade, insculpido no art. 102, II, a, da Constituição Federal.
+    Evidentemente, em obediência ao princípio da proteção judicial efetiva (CF, art. 5º, XXXV), a aplicação desse entendimento jurisprudencial pode ser afastada no caso de configuração de patente constrangimento ilegal ou abuso de poder.
+    É esse o caso dos autos.
+    Verifico que, como afirmado na inicial, a sentença não tratou da ocorrência do tráfico privilegiado (eDOC 12, p. 4). Já o TJPB, no pedido revisional, afastou sua incidência pelas seguintes razões:
+    “Quanto ao tráfico privilegiado, no caso presente, apresenta-se sem equívocos o seu não reconhecimento.
+    Consoante extensa folha de antecedentes do requerente Kleber, Id. 5494608, p. 1/5, o mesmo, sem contar os procedimentos referentes a atos infracionais, responde a processo na 1ª Vara da Comarca de Cajazeiras.
+    Não foi juntada nos autos Certidão de Antecedentes da requerente Janaína, mas consta na sentença que seus antecedentes e sua conduta social não são bons (sentença, Id. 5494598, p. 5) e a defesa não se desincumbiu do dever de desconstituir documentalmente tal consideração.
+    É sabido que os fatos criminais pendentes de definitividade podem embasar o afastamento da minorante do tráfico privilegiado”. (eDOC 11, p. 4)
+    Compulsando as folhas de antecedentes criminais dos pacientes (eDOCs 3 e 4) verifico não haver registro de qualquer condenação em data anterior à dos fatos tratados na ação penal discutida (7.12.2016).
+     Efetivamente, foram processos em curso, para a paciente Jéssica, e procedimentos de atos infracionais, para o paciente Cléber, que impediram a percepção da minorante.
+    O benefício do art. 33, § 4º, da Lei Antidrogas, é de ser deferido ao agente que (i) seja primário; (ii) possuidor de bons antecedentes; (iii) não se dedique a atividades criminosas; e (iv) não integre organização criminosa.
+    Ele tem como fundamento distinguir o traficante contumaz e profissional daquele iniciante na vida criminosa, bem como do que se aventura na vida da traficância por motivos que, por vezes, confundem-se com a sua própria sobrevivência e/ou de sua família. Assim, para legitimar a sua não aplicação, é essencial fundamentação corroborada em elementos capazes de afastar um dos requisitos legais, sob pena de desrespeito ao princípio da individualização da pena e de fundamentação das decisões judiciais.
+    Conforme assentado na doutrina: “A habitualidade e o pertencimento a organizações criminosas deverão ser comprovados, não valendo a simples presunção. Não havendo prova nesse sentido, o condenado fará jus à redução de pena” (QUEIROZ, Paulo; LOPES, Marcus. Comentários à Lei de Drogas. 2016. p. 50).
+    O Plenário desta Corte, ao julgar o RE-RG 591.054, firmou orientação no sentido de que a existência de inquéritos policiais ou de ações penais sem trânsito em julgado não pode ser considerada como maus antecedentes para fins de dosimetria da pena, devendo o juízo condenatório obter outros elementos hábeis a embasar a dedicação do réu à atividades criminosas.
+    Em consequência, a Segunda Turma tem posição reiterada no sentido de que inquéritos e processos em andamento não são suficientes, por si só, para demonstrar relação com organização criminosa e impedir a aplicação do redutor de tráfico privilegiado:
+    “AGRAVO REGIMENTAL EM HABEAS CORPUS. PROCESSO PENAL. TRÁFICO DE ENTORPECENTES. ORDEM CONCEDIDA PARA DETERMINAR A APLICAÇÃO DO REDUTOR DO § 4º DO ART. 33 DA LEI 11.343/2006. MANUTENÇÃO DA DECISÃO. AGRAVO REGIMENTAL DESPROVIDO. 1. A inexistência de argumentação apta a infirmar o julgamento monocrático conduz à manutenção da decisão agravada. 2. À luz do princípio constitucional da presunção da não culpabilidade, a existência de inquéritos ou ações penais em curso não constitui fundamento válido para afastar a incidência da causa de diminuição de pena prevista no art. 33, §4º, da Lei de Drogas. 3. Agravo regimental desprovido”. (HC 177.670, Rel. Min. Edson Fachin, 2ª Turma, DJe 23.9.2020)
+    Logo, verifico que não há motivação apta a justificar o afastamento do redutor pleiteado, para nenhum dos pacientes.
+     Ante o exposto, com fundamento no art. 192 do RI/STF, concedo a ordem para determinar ao juízo de origem que proceda à nova dosimetria da pena imposta aos pacientes e aplique a causa de diminuição prevista no art. 33, § 4º, da Lei 11.343/2006 em patamar a ser fixado motivadamente, respeitando-se também os parâmetros determinados pelo Superior Tribunal de Justiça anteriormente.
+    Após a fixação da pena, que analise a possibilidade de abrandamento de seu regime inicial de cumprimento, nos moldes do art. 33, § 2º e § 3º, do Código Penal, e a substituição da pena privativa de liberdade por restritivas de direitos, nos termos da jurisprudência deste Supremo Tribunal Federal.
+    Comunique-se com urgência.
+    Publique-se.
+    Brasília, 20 de setembro de 2021.
+Ministro Gilmar Mendes
+Relator
+Documento assinado digitalmente
