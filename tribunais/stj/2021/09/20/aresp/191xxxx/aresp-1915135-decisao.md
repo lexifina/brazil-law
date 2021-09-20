@@ -1,0 +1,36 @@
+DECISÃO
+Cuida-se de agravo apresentado pelo INSTITUTO NACIONAL DO SEGURO SOCIAL contra a decisão que não admitiu seu recurso especial, fundamentado no artigo 105, inciso III, alínea "a", da CF/88, que visa reformar acórdão proferido pelo TRIBUNAL REGIONAL FEDERAL DA 3ª REGIÃO, assim resumido:
+PREVIDENCIÁRIO PROCESSUAL CIVIL PENSÃO POR MORTE FILHO INVÁLIDO REQUISITOS COMPROVAÇÃO TERMO INICIAL DO BENEFÍCIO CONSECTÁRIOS LEGAIS IMPLANTAÇÃO IMEDIATA DO BENEFÍCIO.
+Alega violação dos arts. 16, I, e 77, II, § 2º, da Lei n. 8.213/91, no que concerne ao reconhecimento da ausência da qualidade de dependente da recorrida em relação ao seu genitor, já que sua invalidez surgiu após sua emancipação, não fazendo jus ao benefício pretendido, trazendo o(s) seguinte(s) argumento(s):
+O v. acórdão condenou o INSS a conceder à parte autora o beneficio de pensão por morte, em decorrência do óbito de seu(ua) genitor(a), sustentando tratar-se de pessoa inválida. Contudo, no caso, houve a perda da qualidade de dependente da parte autora em relação ao seu genitor (fls. 159).
+Com efeito, a parte autora já era emancipada quando do óbito de seu(ua) genitor(a) e a sua invalidez surgiu em 1998, quando possuía 30 anos de idade, vale dizer, após a sua emancipação, razão pela qual não tinha mais qualidade de dependente, nos termos do artigo 16, inciso 1, da Lei 8213/91, não fazendo jus, por conseguinte, ao benefício pretendido (fls. 159).
+Com efeito, primeiramente, é de se observar que, QUANDO COMPLETOU 21 ANOS A PARTE AUTORA NÃO ERA INVÁLIDA. Por conseguinte, a sua incapacidade, surgida após a sua emancipação, ensejaria eventualmente a cobertura pela Seguridade Social de benefício de APOSENTADORIA POR INVALIDEZ ou até de AMPARO SOCIAL, e não a pensão por morte de seus genitores, já que não mais dependentes deles (fls. 159).
+Tais fatos afastam, pois, a qualidade de dependente da parte autora com relação a seus genitores (fls. 159).
+A pensão por morte é o benefício pago aos dependentes do segurado, que falecer, aposentado ou não, conforme previsão do art. 201, V, da Constituição Federal, regulamentada pelo art. 74, da Lei 8.213/91. Assim, nota-se que são os requisitos para a concessão da pensão por morte:
+a) o óbito;
+b) a qualidade de segurado daquele que faleceu;
+c) a qualidade de dependente;
+d) a comprovação, em alguns casos, de dependência econômica em relação ao segurado falecido.
+Por sua vez, estabelece o art. 16, I, da Lei nº 8.213/91, que instituiu o Plano de Benefícios da Previdência Social:
+Art. 16 São beneficiários do Regime Geral de Previdência Social, na condição & dependentes do segurado;
+I  O cônjuge, a companheira, o companheiro e o filho não emancipado de qualquer condição, menor de 21 (vinte e um) anos ou inválido (fls. 159/160).
+E diz o art. 17, III, do Decreto nº 3.048, de 06.05.1999:
+Art.17. A perda da qualidade de dependente ocorre:
+III - para o filho e o irmão, de qualquer condição, ao completarem vinte e um anos de idade, salvo se inválidos, ou pela emancipação, ainda que inválido, exceto, neste caso, se a emancipação for decorrente de colação de grau científico em curso de ensino superior; (grifamos)
+Vejamos também o inciso II, § 2º, do art. 77 da Lei 8.213/91:
+Art. 77 A pensão por morte, havendo mais de um pensionista, será rateado entre todos em partes iguais.
+§2º A parte individual da pensão extingue-se:
+II - Para o filho, a pessoa a ele equiparada ou o irmão, de ambos os sexos, pela emancipação ou ao completar 21 (vinte e um) anos de idade, salvo se for inválida (fls. 160 - grifo na origem).
+Percebe-se pela leitura das claríssimas disposições legais que o filho perde a qualidade de dependente ao se emancipar, o que, por consequência, retira - lhe o direito ao percebimento de pensão por morte (fls. 160).
+É, no essencial, o relatório. Decido.
+Na espécie, o acórdão recorrido assim decidiu:
+Cumpre destacar que o que justifica a concessão do beneficio de pensão por morte é a situação de invalidez do requerente e a manutenção de sua dependência econômica para com seus genitores, sendo irrelevante o momento em que a incapacidade para o labor tenha surgido, ou seja, se antes da maioridade ou depois. Nesse sentido: TRF3; AC 2004.61.11.000942-9; 10" Turma; Rel. Juiz Federal Convocado David Diniz; j. 19.02.2008; DJ 05.03.2008 (fl. 126, grifo meu).
+Aplicável, portanto, o óbice da Súmula n. 284/STF, uma vez que as razões recursais delineadas no especial estão dissociadas dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia".
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, relator Ministro Jorge Mussi, Quinta Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no REsp n. 1.811.491/SP, relatora Ministra Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp n. 1.637.445/SP, relator Ministro Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp n. 1.647.046/PR, relator Ministro Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Ademais, não houve o prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente.
+Nesse sentido: "Quanto à segunda controvérsia, o Distrito Federal alega violação do art. 91, § 1º, do CPC. Nesse quadrante, não houve prequestionamento da tese recursal, uma vez que a questão postulada não foi examinada pela Corte de origem sob o viés pretendido pela parte recorrente no sentindo de que a realização de perícia por entidade pública somente ser possível quando requerida pela Fazenda Pública, pelo Ministério Público ou pela Defensoria Pública. " (AgInt no AREsp n. 1.582.679/DF, relator Ministro Herman Benjamin, Segunda Turma, DJe de 26/05/2020.)
+Confiram-se ainda os seguintes precedentes: AgInt no AREsp 1.514.978/SC, relator Ministro Napoleão Nunes Maia Filho, Primeira Turma, DJe de 17/6/2020; AgInt no AREsp 965.710/SP, relatora Ministra Assusete Magalhães, Segunda Turma, DJe de 19/9/2018; e AgRg no AREsp 1.217.660/SP, relator Ministro Jorge Mussi, Quinta Turma, DJe de 4/5/2018.
+Ante o exposto, com base no art. 21-E, V, do Regimento Interno do Superior Tribunal de Justiça, conheço do agravo para não conhecer do recurso especial.
+Nos termos do art. 85, § 11, do Código de Processo Civil, majoro os honorários de advogado em desfavor da parte recorrente em 15% sobre o valor já arbitrado nas instâncias de origem, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão de justiça gratuita.
+Publique-se. Intimem-se.
