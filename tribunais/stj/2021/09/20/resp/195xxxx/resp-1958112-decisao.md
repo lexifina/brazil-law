@@ -1,0 +1,50 @@
+DECISÃO
+Vistos, etc.
+Trata-se de recurso especial interposto peloINSTITUTO NACIONAL DO SEGURO SOCIAL - INSS, com fundamento na alínea "a" do inciso III do art. 105 da CF/1988, contra acórdão doTRIBUNAL REGIONAL FEDERAL DA 4ª REGIÃOassim ementado (e-STJ, fl.54):
+PREVIDENCIÁRIO. AGRAVO DE INSTRUMENTO. CUMPRIMENTO DESENTENÇA. DIFERENÇAS PRETÉRITAS DE BENEFÍCIODECORRENTES DA REVISÃO DO IRSM DEFEVEREIRO/94. AÇÃO CIVIL PÚBLICA 2003.71.00.065522-8. JUROSE CORREÇÃO MONETÁRIA. COISA JULGADA.
+1. A hipótese dos autos diz respeito a execução de sentença da ACP2003.71.00.065522-8 distribuída em 20/11/2003, que transitou em julgado em18/02/2015, adotando atualização monetária pela variação integral do IGP-DIe juros de mora equivalentes a 12% (doze por cento) ao ano, contados dacitação.
+2. Inaplicável os critérios da Lei 11.960/09, que alterou o art. 1º-F daLei nº 9.494/97, sob pena de ofensa à coisa julgada, o que é defeso.
+3.Prequestionamento.
+Os embargos de declaração foram rejeitados (e-STJ, fls. 75-78).
+O INSS alega a existência de ofensa aos arts.1.022, II, do CPC; 6º da LINDB; e 1º-F da Lei n. 9.494/1997, com a redação dada pela Lei n. 11.960/2009.
+Aduz que o Colegiado local, não obstante a oposição de embargos declaratórios, não sanou a omissão apontada.
+Argumenta, em apertada síntese, quea legislação referente aos juros de mora, em respeito ao princípio do tempus regit actum,teria aplicação imediata. Assim,mesmo quefundamentado em título executivo judicial transitado em julgado, que estabeleceu juros de mora em 12% ao ano, o cumprimento de sentença deve seaplicar a nova sistemática de juros de mora determinadapela Lei n. 11.960/2009, que estabelece para os juros de mora os índices aplicados à poupança.
+Apresentadascontrarrazões(e-STJ, fls. 96-100), o recurso especial foi admitido na origem.
+É o relatório.
+Não assiste razão àparteinsurgenteno ponto em que aduzcontrariedade aoart.1.022 do CPC/2015, uma vez que o acórdão combatido fundamentou claramente seu posicionamento.Sendo assim, não há que se falar em omissão, obscuridade ou contradição do aresto. O fato de a Corte de origem haver decidido a lide de forma contrária à defendida pela parte recorrente, elegendo fundamentos diversos daqueles por ela propostos, não configura nenhumvício passível de exame em embargos de declaração.
+Nesse sentido:
+PROCESSUAL CIVIL. ENUNCIADO ADMINISTRATIVO 3/STJ. AÇÃO CIVIL PÚBLICA. CUMPRIMENTO DE SENTENÇA. RESPONSABILIDADE SOLIDÁRIA.MINERAÇÃO DE CARVÃO. RECUPERAÇÃO AMBIENTAL DA ÁREA DEGRADADA.INEXISTÊNCIA DE VÍCIO DE FUNDAMENTAÇÃO NO ACÓRDÃO RECORRIDO.
+1. O presente recurso especial decorre de agravo de instrumento interposto contra decisão proferida em sede de cumprimento de sentença, em que imputada à ora recorrente a responsabilidade solidária pela recuperação ambiental de área "órfã", sob o entendimento de que os danos ambientais ocorridos no local resultaram das atividades por ela exercida.
+2. Não há falar em ofensa ao art. 489, II, e § 1º, IV, do CPC/2015, tendo em vista que o acórdão recorrido apresentou fundamentação adequada no sentido de que não foram apresentados elementos suficientes para infirmar a conclusão da decisão agravada de que tanto a ora recorrente como uma outra carbonífera contribuíram para o dano ambiental em questão, conclusão essa baseada nos documentos juntados aos autos e corroborados por depoimentos de testemunhas.
+3. Também não falar em ofensa arts. 494, II, e 1.022, II, do CPC/2015, tendo vista que, bem ou mal, certo ou errado, a Corte de origem decidiu a controvérsia de modo integral e suficiente ao consignar que as provas dos autos indicam que tanto a Coque Catarinense como a Carbonífera Treviso contribuíram para a degradação da área "órfã", seja pela erosão de depósitos de rejeitos, seja pela utilização desse material no aterramento de áreas baixas e recobrimento primário de estradas.
+ ..
+5. Recurso especial não provido.
+(REsp 1.722.488/SC, Rel. Min.MAURO CAMPBELL MARQUES, SEGUNDA TURMA, julgado em 22/5/2018, DJe 29/5/2018).
+No mais,trata-sede cumprimento de sentença na origemde ação civil pública, já transitada em julgado, que fixou juros de mora em 12% ao ano. O INSS asseveraque ao Cumprimento de Sentença deve ser aplicada a nova sistemática de juros de mora da Lei n. 11.960/2009, que prevê a utilização do índice aplicado à poupança.
+O Tribunal de origem, ao tratar sobre o tema, apontou que seria defeso, em cumprimento de sentença, alterar índice de correção monetária expressamente determinado no título executivo judicial, sob pena de ofensa à coisa julgada.
+Posto isso, verifica-se que oacórdão recorrido destoa do atual entendimento do STJ, segundo o qual os juros moratórios constituem parcela de natureza processual. Por essa razão, aplica-se de imediato aos processos em curso, inclusive nos que se encontram na fase de execução, a Lei n. 11.960/2009, que alterou o cálculo dos juros de mora sobre condenações judiciais impostas à Fazenda Pública no que concerne ao período posterior a sua entrada em vigor, à luz do princípiotempus regit actum, não havendo falar em ofensa à coisa julgada.
+Em casos análogos:
+PROCESSUAL CIVIL. AGRAVO INTERNO. JUROS DE MORA. FASE DE EXECUÇÃO. LEI 11.960/2009. PRINCÍPIO TEMPUS REGIT ACTUM.
+1. Verifica-se a conformidade com entendimento consolidado no Superior Tribunal de Justiça segundo o qual os juros moratórios constituem parcela de natureza processual. Razão pela qual se aplica de imediato aos processos em curso - inclusive nos que se encontram na fase de execução - a Lei 11.960/2009, que alterou o cálculo dos juros de mora sobre condenações judiciais impostas à Fazenda Pública no que concerne ao período posterior a sua entrada em vigor, à luz do princípiotempus regit actum, não havendo falar em ofensa à coisa julgada.
+(..)
+3. Agravo Interno não provido.
+(AgInt no REsp 1.814.431/RS, Rel. Min. Herman Benjamin, Segunda Turma, DJe 17/2/2021).
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. SERVIDOR PÚBLICO. EXECUÇÃO DE SENTENÇA CONTRA A FAZENDA PÚBLICA. VIOLAÇÃO DOS ARTIGOS 458 E 535 DO CPC/1973 NÃO CONFIGURADA. JUROS MORATÓRIOS. APLICAÇÃO DA MP 2.180-35/2001. VIOLAÇÃO DO INSTITUTO DA PRECLUSÃO E COISA JULGADA. NÃO OCORRÊNCIA. PRECEDENTES.
+(..)
+2. Segundo a jurisprudência desta Corte, os juros de mora e a correção monetária são encargos acessórios da obrigação principal, possuindo caráter eminentemente processual, e portanto, devem ser incluídos na conta de liquidação, ainda que já homologado o cálculo anterior, inexistindo preclusão ou ofensa à coisa julgada por causa dessa inclusão. Assim, as alterações do art. 1º-F da Lei 9.494/1997, introduzidas pela Medida Provisória 2.180-35/2001 e pela Lei 11.960/2009, têm aplicação imediata a todas as demandas judiciais em trâmite, com base no princípiotempus regit actum. Precedentes.
+3. Agravo interno não provido.
+(AgInt no REsp 1.494.054/RS, Rel. Min. Benedito Gonçalves, Primeira Turma, DJe 23/6/2021).
+PROCESSUAL CIVIL. ADMINISTRATIVO. AGRAVO INTERNO NO RECURSO ESPECIAL. JUROS DE MORA E CORREÇÃO MONETÁRIA. OBRIGAÇÕES DE TRATO SUCESSIVO. LEI NOVA. APLICAÇÃO IMEDIATA A TODOS OS PROCESSOS. VIOLAÇÃO À COISA JULGADA. NÃO OCORRÊNCIA. EMBARGOS DECLARATÓRIOS PROTELATÓRIOS. MULTA. ART. 1.026, § 2º, DO CPC. INCIDÊNCIA.
+1. "A Primeira Seção do STJ, no julgamento do REsp 1.112.746/DF, afirmou que os juros de mora e a correção monetária são obrigações de trato sucessivo, que se renovam mês a mês, devendo, portanto, ser aplicada no mês de regência a legislação vigente. Por essa razão, fixou-se o entendimento de que a lei nova superveniente que altera o regime dos juros moratórios deve ser aplicada imediatamente a todos os processos, abarcando inclusive aqueles em que já houve o trânsito em julgado e estejam em fase de execução. Não há, pois, nesses casos, que falar em violação da coisa julgada." (EDcl no AgRg no REsp 1.210.516/RS, Rel. Ministro NAPOLEÃO NUNES MAIA FILHO, PRIMEIRA TURMA, julgado em 15/9/2015, DJe 25/9/2015).
+(..)
+3. Agravo interno não provido.
+(AgInt nos EDcl nos EDcl no REsp 1.574.419/PR, Rel. Min. Sérgio Kukina, Primeira Turma, DJe 24/6/2021).
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. EXECUÇÃO DE SENTENÇA. VIOLAÇÃO AO ART. 1.022 DO CPC. INOCORRÊNCIA. JUROS MORATÓRIOS. PARCELA DE NATUREZA PROCESSUAL. APLICAÇÃO AOS PROCESSOS EM CURSO. SÚMULA 568/STJ. INCIDÊNCIA. ARGUMENTOS INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA. HONORÁRIOS RECURSAIS. NÃO CABIMENTO. APLICAÇÃO DE MULTA. ART. 1.021, § 4º, DO CÓDIGO DE PROCESSO CIVIL DE 2015. DESCABIMENTO.
+(..)
+III - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual os juros moratórios constituem parcela de natureza processual, razão pela qual se aplicam de imediato, aos processos em curso, inclusive na fase de execução, a Lei n. 11.960/09, que alterou o cálculo dos juros de mora sobre condenações judiciais impostas à Fazenda Pública, no que concerne ao período posterior à sua vigência, à luz do princípiotempus regit actum, não havendo falar em ofensa à coisa julgada.
+(..)
+VIII - Agravo Interno improvido.
+(AgInt no REsp 1.632.207/PR, Rel. Min. Regina Helena Costa, Primeira Turma, DJe 14/8/2018).
+Logo, quanto ao tema, incide na espécie a orientação fixada pela Súmula 568/STJ, a saber: "O relator, monocraticamente e no Superior Tribunal de Justiça, poderá dar ou negar provimento ao recurso quando houver entendimento dominante acerca do tema.".
+Ante o exposto, com fulcro no art. 932, V, do CPC/2015, c/c o art. 255, § 4º, III, do RISTJ, dou provimento ao recurso especial para reconhecer a aplicaçãoLei n. 11.960/2009 edeterminar que os juros de mora incidentes no valor devido sigam a remuneração oficial da caderneta de poupança.
+Publique-se. Intimem-se.
