@@ -1,0 +1,29 @@
+DECISÃO
+Vistos etc.
+Trata-se de embargos de divergência opostos por MARIA ANTONIETA TOMAZELA, OMAR ADRIANO ABOU GHATTAS, ONEIA CARDOSO DE MORAIS SILVA, JOSIMAR DE ROSSI, MARCIA VALERIA CRUZ, ANTONIO MARCOS MOLONHA, AILTON SEIDI HIGUTI, CELIA CHRISTINA GABELLA contra acórdão da 2ªTurma desta Corte Superior que negou provimento ao Agravo Interno das partes ora embargantes, chancelando a decisão da Presidência que proclamou a intempestividade do Agravo em recurso especial, cuja a ementa se encontra lavrada nos seguintes termos:
+AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. INTEMPESTIVIDADE. PRAZO EM DOBRO. INAPLICÁVEL À ESPÉCIE. DECISÃO DA PRESIDÊNCIA MANTIDA.
+1. O prazo em dobro previsto no art. 229 do CPC/2015, correspondente ao art. 191 do CPC/1973, não se aplica para o agravo interposto contra a decisão que nega seguimento a recurso especial, mesmo que haja litisconsortes com procuradores diversos, porquanto somente o autor dessa irresignação possuirá interesse e legitimidade para recorrer (AgInt no AREsp 1.081.447/GO, Rel. Min. Herman Benjamin, Segunda Turma, julgado em 24/10/2017, DJe 19/12/2017).
+2. Agravo interno a que se nega provimento. (e-STJ, fl. 1.860)
+Alegam osembargantes, em síntese, que o entendimento manifestado diverge da orientação estabelecida pela Quarta Turma do STJ no julgamento do EDcl no AResp nº 477.220/DF; e no EDcl no Agravo de Instrumento nº 1.154.207/SP, proferido pela Terceira Turma,sustentando a aplicabilidade do prazo em dobro para interposição do agravo em recurso especial contra decisão denegatória de REsp, uma vez que há ocorrência de litisconsórcio necessário.
+Defendem a existência de "dever processual previsto para quando ocorrer a formação de litisconsórcio necessário, que é a aplicação de prazo em dobro para os litisconsortes que tiverem procuradores diferentes, de escritórios de advocacias distintos, em qualquer juízo ou tribunal, em caso de autos físicos" (e-STJ, fl. 1.980).
+Afirmam que acontagem do prazo em dobro cessa apenas quando, havendo dois réus, é oferecida defesa por apenas um deles, o que não é a hipótese dos autos, pois "todos os réus da ação originária, que foram condenados, apelaram da sentença, embargaram e recorreram do acórdão, e agravaram da decisão que negou seguimento aos recursos especiais" (e-STJ, fl. 1.987).
+Asseveram, por fim,matéria de mérito, sob a divergência indicada nos paradigmas proferidos pela Primeira Turma, quais sejam:REsp nº 575.551/SP, AgInt no REsp nº 1776310/CE,AgInt no REsp nº 1.408.084/RS,EDcl no AgInt no AResp nº 778.792 - MT,AgInt no REsp nº 1.451.163 - PR.
+Sem impugnação.
+É o breve relatório.
+Decido.
+O recurso não comporta provimento.
+A teor do disposto nos arts. 1.043 do CPC/2015 e 266 do RISTJ, são cabíveisembargos de divergência,recurso cujo escopo é a uniformização da jurisprudência desta Corte, eliminando as dissidências internas quanto à interpretação do direito em tese, quando determinado órgão fracionário, julgando recurso especial, dissente de julgamento atual de qualquer outro órgão do mesmo tribunal.
+No caso, entretanto, o dissídio aventado pelos embargantes não está configurado, na medida em que não há similitude fática e jurídica entre o julgado recorrido e osacórdãos paradigmas da Terceira e Quarta Turmas.
+Isso porque a 2ª Turma, bem ou mal, ao negar provimento ao agravo interno - e manter, via de consequência, a decisão que não conheceu doagravo em recurso especialinterposto pelos ora embargantes -, entendeu, com base nas peculiaridades do caso e em precedentes do STJ, o seguinte:
+Cumpre registrar que o prazo em dobro não deve ser observado na espécie. Ocorre que, na origem, apesar da existência de vários réus no polo passivo da ação popular, apenas alguns deles apresentaram recurso especial, tendo sido proferida uma decisão de admissibilidade recursal para cada.
+Desse modo, nesta seara recursal, o interesse é exclusivo dos recorrentes, mostrando-se imperioso reconhecer que o liame subjetivo foi rompido, tendo em vista que a decisão combatida prejudica exclusivamente o titular do recurso inadmitido. Não existindo prejuízo comum, é impossível aplicar a previsão do art. 229 do CPC. (e-STJ, fl. 1.861)
+De outro lado, o entendimento manifestado no julgamento dos paradigmas colacionadosfoi no sentido de que "mesmo que haja litisconsortes com procuradores diversos, o prazo em dobro previsto no art. 191 do CPC não se aplica para o agravo interposto, quando somente o agravante interpôs recurso especial, uma vez que a simples não interposição de recurso por um dos litisconsortes, que expressamente desistiu do direito de recorrer, desfaz o litisconsórcio.". (e-STJ, fl. 2.037)
+Bem se vê, portanto, que os precedentes colacionados, ao invés de firmarem a alegação posta pelos ora embargantes, voltam-se de forma contrária, confirmando o entendimento posto no acórdão embargado.
+Assim, os acórdãos paradigmas, ao não tratarem da condição específica indicada pelos embargantes - formação de litisconsórcio necessário para manutenção do prazo em dobro do artigo 219, do CPC/15 -nãoinfirmama orientação adotada pelo acórdão ora embargado, o que não permite conhecer a divergência posta.
+Por fim, ressalto apenas que "osembargos de divergênciasão cabíveis para compor eventual dissídio de teses jurídicas em sede de recurso especial, não sendo admissíveis para revisar acerto ou desacerto da decisão embargada" (AgRg nos EAREsp 744.127/RN, Rel. Ministro RAUL ARAÚJO, CORTE ESPECIAL, julgado em 15/02/2017, DJe 24/02/2017).
+Ante o exposto, indefiro osembargos de divergência.
+A apresentação de novos incidentes manifestamente infundados ou protelatórios será reputada litigância de má-fé.
+Intimem-se.
+EMENTA
+EMBARGOS DE DIVERGÊNCIA EM AGRAVO EM RECURSO ESPECIAL. PROCESSUAL CIVIL. DISSÍDIO JURISPRUDENCIAL NÃO DEMONSTRADO.
+EMBARGOS DE DIVERGÊNCIA INDEFERIDOS.
