@@ -1,0 +1,16 @@
+DECISÃO
+Trata-se de recurso especial interposto em face de acórdão com a seguinte ementa:
+APELAÇÃO CÍVEL. AÇÃO REVISIONAL. CONTRATO DE ABERTURA DECONTA CORRENTE. 1. CAPITALIZAÇÃO DE JUROS. ALEGAÇÕES GENÉRICAS. IMPOSSIBILIDADE DE EXPURGO. 2. JUROS REMUNERATÓRIOS. LIMITAÇÃO NA TAXA MÉDIA DE MERCADO. IMPOSSIBILIDADE. ABUSIVIDADE NÃO COMPROVADA. 3. SENTENÇA REFORMADA. INVERSÃO DOS ÔNUS DE SUCUMBÊNCIA.
+1. Contendo a petição inicial alegações genéricas e abstratas em relação a eventual prática de capitalização de juros, impõe-se o julgamento em desfavor da mesma, presumindo-se que não houve a cobrança de juros sobre juros.
+2. Não demonstrada a abusividade da taxa de juros remuneratórios praticada, não há motivo para determinar a adoção da taxa média de mercado. A abusividade da taxa de juros deve ser cabalmente demonstrada em cada caso, com a comprovação do desequilíbrio contratual ou de lucros excessivos.
+3. O ônus de sucumbência deve ser distribuído considerando o aspecto quantitativo e o jurídico em que cada parte decai de suas pretensões. Apelação Cível 1 (Banco do Brasil S. A.) - conhecida e provida. Apelação Cível 2 (Dionisio Czerniej) - conhecida e não provida
+Alega-se divergência jurisprudencial sob o argumento de que a ausência de pactuação da taxa de juros impõe sua limitação à taxa média de mercado para operações da mesma espécie e impede a sua cobrança de forma capitalizada.
+Assim delimitada a controvérsia, passo a decidir.
+O Tribunal local, embora reconheça a ausência de juntada do contrato aos autos, concluiu "que o simples fato de a taxa de juros ser flutuante não acarreta a limitação pretendida. É que as taxas de juros sofrem variações constantemente e se modificam de acordo com as condições apresentadas pelo mercado financeiro em determinada época" (e-STJ, fl. 484).
+Esta Corte tem firme entendimento de que ausência de comprovação da taxa de juros contratada impõe a sua limitação à média de mercado, como ensina o verbete n. 530 da Súmula desta Casa.
+Não se está a discutir se era ou não possível a contratação de juros flutuantes, mas é ou não necessário a comprovação do pacto, sob pena de limitação à média.
+Esta é a discussão e, nos termos da jurisprudência sumulada do Superior Tribunal de Justiça, é necessária a comprovação do ajuste quanto à taxa.
+Quanto à capitalização, de outro lado, embora seja igualmente necessária a prova da contratação, a Corte estadual concluiu que o recorrente "desenvolveu alegação singela sobre a capitalização de juros nos contratos objeto da presente ação revisional, limitando-se a afirmar a sua prática na espécie, bem como a sua vedação. E, mais uma vez, os documentos acostados à inicial (Ref. Mov. 1.5 e 1.11), por si só, não comprovam suas afirmações" (e-STJ, fl. 480).
+Se não houve a comprovação de que os juros foram cobrados de forma capitalizada, inequívoca é a incidência do verbete n. 7 da Súmula desta Casa.
+Diante do exposto, conheço do recurso especial e a ele dou parcial provimento apenas para limitar a cobrança dos juros remuneratórios à taxa média de mercado, quando a efetivamente cobrada for superior a esta. Despesas e honorários, estes em 10% (dez por cento),em proporção ao benefício econômico alcançado pelas partes, entendido como o montante da redução da dívidapara o recorrente e a que poderá ser cobrada para o recorrido.
+Intimem-se.
