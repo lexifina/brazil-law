@@ -1,0 +1,34 @@
+DECISÃO
+Trata-se de habeas corpus impetrado em favor de ERICK DAL POZZO em que se aponta como autoridade coatora Desembargador do Tribunal de Justiça do Estado de São Paulo, que indeferiu o pedido de medida liminar veiculado no writ originário.
+Neste writ, o impetrante pleiteia a revogação da custódia preventiva ou a substituição dela por medidas cautelares diversas da prisão.
+É o relatório.
+Esta Corte possui entendimento pacificado no sentido de que não cabe habeas corpus contra decisão que indefere pedido liminar, salvo em casos de flagrante ilegalidade ou teratologia da decisão impugnada (Súmula 691/STF).
+Sobre o tema, os seguintes precedentes:
+"AGRAVO REGIMENTAL EM HABEAS CORPUS. IMPETRAÇÃO INDEFERIDA LIMINARMENTE. SÚMULA 691/STF. AUSÊNCIA DE PATENTE ILEGALIDADE. PLEITO DE APRESENTAÇÃO DE MEMORIAIS ESCRITO E NO PRAZO RAZOÁVEL. ALEGADA COMPLEXIDADE DO FEITO. TEMA A SER EXAMINADO PELO JUÍZO PROCESSANTE. AGRAVO REGIMENTAL IMPROVIDO.
+1. O Superior Tribunal de Justiça tem compreensão firmada no sentido de não ser cabível habeas corpus contra decisão que indefere o pleito liminar em prévio mandamus, a não ser que fique demonstrada flagrante ilegalidade, o que não ocorre na espécie. Inteligência do verbete n. 691 da Súmula do Supremo Tribunal Federal.
+2. Na espécie, o Juízo de 1º grau, explicitamente, afastou a necessidade de apresentação das alegações finais por escrito, ao afirmar que não se tratava de feito complexo, bem como o número de acusados fora reduzido com o desmembramento da ação penal. Assim, modificar tal entendimento demandaria incursão no acervo probatório dos autos, inviável na sede eleita. Impossibilidade de superação do enunciado sumular 691/STF.
+3. Por outro lado, nada impede que o Juízo Processante, ao final da instrução e pela proximidade com os fatos, possa reavaliar o pleito defensivo de apresentação de alegações finais por escrito, momento em que examinará a verdadeira complexidade do feito, lembrando-se que o cumprimento do princípio constitucional da duração razoável do processo (art. 5º, LXXVIII, da CF) não pode sobrepor às garantias constitucionais do cidadão no processo penal, em especial o respeito ao contraditório e à ampla defesa (art. 5º, LV, da CF).
+4. Agravo regimental improvido."
+(AgRg no HC 495.211/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 21/03/2019, DJe 29/03/2019)
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. IMPETRAÇÃO CONTRA DECISÃO INDEFERITÓRIA DE LIMINAR EM OUTRO HABEAS CORPUS NA ORIGEM, AINDA NÃO JULGADO. IMPOSSIBILIDADE DE SUPERAÇÃO DA SÚMULA N.º 691 DA SUPREMA CORTE. AUSÊNCIA DE TERATOLOGIA. SUPRESSÃO DE INSTÂNCIA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não se admite habeas corpus contra decisão denegatória de liminar proferida em outro writ na instância de origem, sob pena de indevida supressão de instância. Súmula n.º 691/STF.
+2. No caso, não se constata ilegalidade patente que autorize a mitigação da Súmula n.º 691 da Suprema Corte, tendo em vista que foi demonstrada a necessidade de manutenção da segregação cautelar, em virtude da "participação ativa do paciente na quadrilha voltada ao tráfico de entorpecentes, com a qual foi apreendida mais de 01 (uma) tonelada de cocaína, figurando o paciente na ORCRIM como piloto da aeronave".
+3. Conforme orientação desta Corte, a quantidade e a natureza da droga apreendida, bem como a necessidade de se interromper as atividades de organização criminosa, são circunstâncias aptas a justificar a segregação provisória.
+4. Agravo regimental desprovido."
+(AgRg no HC 496.205/MT, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 19/03/2019, DJe 01/04/2019)
+No caso dos autos, não se verifica a ocorrência de flagrante ilegalidade na decisão impugnada, de modo a justificar o processamento da presente ordem e o pronunciamento antecipado desta Corte, sobretudo porque trata-se de mera reiteração do Habeas Corpus n. 691.829/SP, de minha relatoria, impetrado em favor do mesmo paciente contra a mesma decisão (Habeas Corpus n. 2202519-95.2021.8.26.0000).
+Ainda que assim não fosse, é manifesta a superveniente ausência de interesse de agir que atingiu esta impetração, pois, em consulta ao sítio eletrônico do Tribunal de origem (Habeas Corpus n. 2202519-95.2021.8.26.0000), verifica-se que, em 19/9/2021, houve o julgamento do mérito do habeas corpus originário.
+A propósito:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. INEXISTÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. HABEAS CORPUS IMPETRADO CONTRA DECISÃO QUE INDEFERIU A MEDIDA DE URGÊNCIA PLEITEADA NA CORTE DE ORIGEM. AUSÊNCIA DE FLAGRANTE ILEGALIDADE OU TERATOLOGIA. SUPERVENIÊNCIA DE JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO. HABEAS CORPUS PREJUDICADO. AGRAVO DESPROVIDO.
+I - É assente nesta eg. Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - O mandamus impetrado na eg. Corte de origem teve o pedido de urgência indeferido. Assim, impetrado habeas corpus nesta Corte em face de tal decisão, e não se vislumbrando flagrante ilegalidade ou teratologia, incide ao caso o teor da Súmula n. 691/STF, segundo a qual "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar".
+III - Verifica-se a superveniência do julgamento de mérito do habeas corpus originário, em 27/07/2019. Desse modo, forçoso reconhecer a prejudicialidade do presente mandamus, tendo em vista a perda superveniente de seu objeto, uma vez que os seus argumentos, expostos contra a decisão monocrática indeferitória da medida liminar, restaram superados com o julgamento definitivo do habeas corpus da origem.
+Agravo regimental desprovido."
+(AgRg no HC 512.397/SP, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 10/12/2019, DJe 17/12/2019).
+"AGRAVO REGIMENTAL NO HABEAS CORPUS. PROCESSUAL PENAL. DECISÃO QUE INDEFERIU LIMINARMENTE A PETIÇÃO INICIAL. APLICAÇÃO DA SÚMULA N.º 691 DO SUPREMO TRIBUNAL FEDERAL. RECURSO QUE NÃO IMPUGNA OS FUNDAMENTOS DA DECISÃO AGRAVADA. SUPERVENIÊNCIA DO JULGAMENTO DO MÉRITO DO WRIT ORIGINÁRIO NA ORIGEM. PREJUDICIALIDADE DA IMPETRAÇÃO. AGRAVO REGIMENTAL NÃO CONHECIDO.
+1. Não merece conhecimento o agravo regimental que não impugna especificamente os fundamentos da decisão agravada. Aplicação da Súmula n.º 182 do STJ.
+2. Com a superveniência do julgamento colegiado do mérito do writ na origem, fica prejudicada a impetração contra a anterior decisão do Desembargador Relator que indeferiu pedido liminar.
+3. Agravo regimental não conhecido."
+(AgRg no HC 472.047/SP, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 5/2/2019, DJe 26/2/2019).
+Ante o exposto, indefiro liminarmente o habeas corpus.
+Publique-se. Intime-se.
