@@ -1,0 +1,17 @@
+DECISÃO: Trata-se de recurso extraordinário com agravo contra decisão de inadmissão do recurso extraordinário.
+    O apelo extremo foi interposto com fundamento na alínea "a" do permissivo constitucional.
+    O acórdão recorrido ficou assim ementado:
+    REEXAME NECESSÁRIO. DÚVIDA REGISTRAL. REQUERIMENTO DE CANCELAMENTO DE USUFRUTO POR MORTE DO USUFRATÁRIO. EXIGÊNCIA DE APRESENTAÇÃO DO COMPROVANTE DE PAGAMENTO DO IMPOSTO DE TRANSMISSÃO OU DO CERTIFICADO DECLARATÓRIO DE NÃO INCIDÊNCIA DO REFERIDO IMPOSTO. SENTENÇA DE IMPROCEDÊNCIA DA DÚVIDA. PARECER DA DOUTA PROCURADORIA-GERAL DE JUSTIÇA PELA CONFIRMAÇÃO DA SENTENÇA; INAPLICABILIDADE DO ENUNCIADO Nº 7 DO CONSELHO DA MAGISTRATURA, EM MATÉRIA DE REGISTROS PÚBLICOS(...)
+    No recurso extraordinário sustenta-se violação do art. 155, inciso I, da Constituição Federal.
+    Decido.
+    Analisados os autos, verifica-se que o presente feito cuida de procedimento administrativo.
+    Assim, não merece prosperar a irresignação, uma vez que a jurisprudência desta Corte está consolidada no sentido de ser incabível recurso extraordinário contra decisão que resolva procedimento de natureza administrativa. Nesse sentido, o seguinte precedente:
+    “PROCEDIMENTO DE DÚVIDA, EM MATÉRIA DE REGISTROS PÚBLICOS. CARÁTER MATERIALMENTE ADMINISTRATIVO. INEXISTÊNCIA DE CAUSA. NÃO-CABIMENTO DE RECURSO EXTRAORDINÁRIO. RE NÃO CONHECIDO. - Não cabe recurso extraordinário contra acórdão de Tribunal de Justiça, que, em sede de procedimento de dúvida, instaurado em matéria de registros públicos, julga recurso de apelação. Precedentes. - A dúvida constitui procedimento de natureza administrativa, e a decisão nela proferida reveste-se, por igual, de conteúdo materialmente administrativo (Lei nº 6.015/73, art. 204). Esse procedimento - no qual inexiste ação, mas simples pedido, onde figuram interessados, e não partes, e em que não há lide, mas mera divergência entre o apresentante do título, que pretende o seu registro, e o Oficial registrador, que se recusa a efetuá-lo - apresenta-se destituído de caráter jurisdicional, não se ajustando, por isso mesmo, ao conceito constitucional de causa. - Não é qualquer decisão do Poder Judiciário que se expõe, na via do recurso extraordinário, ao controle jurisdicional do Supremo Tribunal Federal. Acham-se excluídos da esfera de abrangência do apelo extremo todos os pronunciamentos, que, embora formalmente oriundos do Poder Judiciário (critério subjetivo-orgânico), não se ajustam à noção de ato jurisdicional (critério material). - Conceito de causa: doutrina e jurisprudência do Supremo Tribunal Federal” (RE nº 254.497/ES, Rel. Min. Celso de Mello, DJ de 18/2/2000).
+    Sobre o tema destacam-se, também, os seguintes julgados: RE nº 808.509/RJ; Rel. Min. DiasToffoli, DJe de 3/10/17, Rcl nº 19.119/SP, Rel. Min. Luiz Fux, DJe de 2/2/15 e AI nº 804.111/RJ, Rel. Min. Eros Grau, DJe de 3/8/10.
+    Ex positis, nego seguimento ao recurso (alínea c do inciso V do art. 13 do Regimento Interno do Supremo Tribunal Federal).
+    Havendo prévia fixação de honorários advocatícios pelas instâncias de origem, seu valor monetário será majorado em 10% (dez por cento) em desfavor da parte recorrente, nos termos do art. 85, § 11, do Código de Processo Civil, observado os limites dos §§ 2º e 3º do referido artigo e a eventual concessão de justiça gratuita.
+    Publique-se.
+    Brasília, 21 de setembro de 2021.
+Ministro LUIZ FUX
+Presidente
+Documento assinado digitalmente
