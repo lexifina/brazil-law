@@ -1,0 +1,32 @@
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. QUADRILHA, FURTO E CONSTRANGIMENTO ILEGAL. PRESCRIÇÃO NÃO CONSUMADA, PORQUANTO INTERROMPIDA PELA PUBLICAÇÃO DO ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. ELEVAÇÃO DA PENA-BASE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme o atual entendimento das Cortes Superiores, o acórdão confirmatório da condenação interrompe a prescrição.
+2. Demonstrada a maior gravidade dos resultados da empreitada criminosa, bem como a elevada organização do modus operandi, é válida a valoração negativa das consequências e circunstâncias do crime na primeira fase da dosimetria da pena.
+3. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Quinta Turma do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental. Os Srs. Ministros Joel Ilan Paciornik, Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha e Reynaldo Soares da Fonseca votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+Trata-se de agravo regimental interposto por RODRIGO LINO DE SOUZA, contra decisão monocrática que negou provimento ao seu recurso especial (e-STJ, fls. 2.156-2.158).
+A parte agravante aduz, em síntese, que: (I) estaria consumada a prescrição da pretensão punitiva, pelo decurso de mais de 4 anos desde a prolação da sentença; e (II) inexistiria motivação idônea para a valoração negativa das circunstâncias e consequências do crime de quadrilha, na primeira fase da dosimetria das pena.
+Pede, ao final, o provimento do presente agravo, para prover também o recurso especial.
+É o relatório.
+EMENTA
+PENAL E PROCESSUAL PENAL. AGRAVO REGIMENTAL NO AGRAVO EM RECURSO ESPECIAL. QUADRILHA, FURTO E CONSTRANGIMENTO ILEGAL. PRESCRIÇÃO NÃO CONSUMADA, PORQUANTO INTERROMPIDA PELA PUBLICAÇÃO DO ACÓRDÃO CONFIRMATÓRIO DA CONDENAÇÃO. ELEVAÇÃO DA PENA-BASE. VALORAÇÃO NEGATIVA DAS CIRCUNSTÂNCIAS E CONSEQUÊNCIAS. MOTIVAÇÃO IDÔNEA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Conforme o atual entendimento das Cortes Superiores, o acórdão confirmatório da condenação interrompe a prescrição.
+2. Demonstrada a maior gravidade dos resultados da empreitada criminosa, bem como a elevada organização do modus operandi, é válida a valoração negativa das consequências e circunstâncias do crime na primeira fase da dosimetria da pena.
+3. Agravo regimental desprovido.
+VOTO
+O EXMO. SR. MINISTRO RIBEIRO DANTAS (Relator):
+A decisão agravada deve ser mantida, pois a parte agravante não trouxe argumentos suficientes para sua alteração.
+Inicialmente, não está consumada a prescrição. Isso porque, ao contrário do que alega a defesa, o atual entendimento das Cortes Superiores - seguindo a tese firmada pelo STF no julgamento do HC 176.473 - é o de que o acórdão confirmatório da condenação interrompe, sim, o prazo prescricional. A propósito:
+"HABEAS CORPUS. ALEGADA PRESCRIÇÃO DA PRETENSÃO PUNITIVA. INOCORRÊNCIA. INTERRUPÇÃO DA PRESCRIÇÃO PELO ACÓRDÃO CONFIRMATÓRIO DE SENTENÇA CONDENATÓRIA. 1. A prescrição é o perecimento da pretensão punitiva ou da pretensão executória pela inércia do próprio Estado; prendendo-se à noção de perda do direito de punir por sua negligencia, ineficiência ou incompetência em determinado lapso de tempo. 2. O Código Penal não faz distinção entre acórdão condenatório inicial ou confirmatório da decisão para fins de interrupção da prescrição. O acórdão que confirma a sentença condenatória, justamente por revelar pleno exercício da jurisdição penal, é marco interruptivo do prazo prescricional, nos termos do art. 117, IV, do Código Penal. 3. Habeas Corpus indeferido, com a seguinte TESE: Nos termos do inciso IV do artigo 117 do Código Penal, o Acórdão condenatório sempre interrompe a prescrição, inclusive quando confirmatório da sentença de 1º grau, seja mantendo, reduzindo ou aumentando a pena anteriormente imposta".
+(HC 176473, Rel. Min. ALEXANDRE DE MORAES, Tribunal Pleno, julgado em 27/04/2020, DJe 9/9/2020)
+No presente caso, o último acórdão condenatório foi publicado em 11/12/2018 (e-STJ, fl. 1.975). Como ainda não decorreram sequer três anos desde aquela data, não se implementou a prescrição para nenhum dos delitos.
+Sobre a dosimetria da pena, sua individualização é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pelo legislador, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada. Destarte, cabe às Cortes Superiores, apenas, o controle de legalidade e da constitucionalidade dos critérios utilizados no cálculo da pena.
+A esse respeito, eis o que afirmou o Tribunal de origem:
+"A pena-base do crime de quadrilha (artigo 288 do Código Penal) para o apelante Matheus foi fixada em 1 (um) ano e 2 (dois) meses de reclusão e, para os demais os apelantes, foi fixada em 1 (um) ano e 6 (seis) meses de reclusão, sendo valoradas negativamente as circunstâncias e consequências do delito, haja vista que o grupo criminoso efetivou uma série de crimes em prejuízo de particulares. gerando insegurança na sociedade. A sanção, conforme se observa, encontra-se adequada à gravidade dos fatos, sobretudo, considerando o modus operandi do grupo, com divisão de tarefas e planejamento, além de cooptação de servidores da empresa de manutenção para alcançar seus objetivos" (e-STJ, fl. 1.846).
+Em relação às consequências do crime, que devem ser entendidas como o resultado da ação do agente, a avaliação negativa de tal circunstância judicial mostra-se escorreita se o dano material ou moral causado ao bem jurídico tutelado se revelar superior ao inerente ao tipo penal. As instâncias ordinárias apresentaram argumentos concretos capazes de serem computados em desfavor do agravante, considerando que a quadrilha cometeu vários crimes com consideráveis prejuízos para as vítimas.
+No que se refere às circunstâncias do delito, essas possuem relação com o modus operandi veiculado no evento criminoso. No caso, houve divisão de tarefas e planejamento, "além de cooptação de servidores da empresa de manutenção para alcançar seus objetivos" (e-STJ, fl. 1.846), o que revela maior gravidade concreta da conduta.
+Ante o exposto, nego provimento ao agravo regimental.
+É o voto.
