@@ -1,0 +1,29 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de KAMILA LIMA LOPES em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO (Apelação n. 0011608-05.2019.8.26.0624).
+A paciente foi condenada pela prática dos delitos previstos nos arts. 33 e 35 da Lei 11.343/2006 às penas de 12 anos, 9 meses e 18 dias de reclusão, em regime inicial fechado, e 1.920 dias-multa.
+O Tribunal de origem deu provimento à apelação defensiva para redimensionar a pena da paciente para 9 anos, 5 meses e 6 dias de reclusão e 1.123 dias-multa, mantendo o regime inicial fechado.
+No presente writ, o impetrante alega a ocorrência de afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Requer, ao final, a concessão da ordem, para readequar o regime inicial de cumprimento da pena (fls. 4-11).
+O pedido liminar foi indeferido (fls. 159-160).
+As informações foram prestadas às fls. 195-359.
+O Ministério Público Federal, às fls. 363-366, manifestou-se nos termos da seguinteementa:
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO CABÍVEL NA ESPÉCIE. TRÁFICO DE DROGAS E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. PACIENTE PRESA EM DECORRÊNCIA DE SENTENÇA CONDENATÓRIAT RANSITADA EM JULGADO. HIPÓTESE FORA DA INCIDÊNCIA DO HC N.143.641/SP DO STF. MATÉRIA NÃO EXAMINADA PELA CORTE LOCAL. SUPRESSÃO DE INSTÂNCIA. REGIME INICIAL FECHADO. SOMA DASPENAS. SISTEMA DO CÚMULO MATERIAL. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. PARECER PELO NÃO CONHECIMENTO DO WRIT."
+É o breve relatório.
+Decido.
+A Terceira Seção desta Corte, seguindo entendimento firmado pela Primeira Turma do col. Pretório Excelso, firmou orientação no sentido de não admitir a impetração de habeas corpus em substituição ao recurso adequado, situação que implica o não-conhecimento da impetração, ressalvados casos excepcionais em que, configurada flagrante ilegalidade apta a gerar constrangimento ilegal, seja possível a concessão da ordem de ofício.
+Dessarte, passo ao exame das razões veiculadas no mandamus.
+O impetrante alega a ocorrência de afronta aos enunciados das Súmulas n. 718 e n. 719 do Supremo Tribunal Federal e Súmula n. 440 desta Corte Superior, ao argumento de que o regime inicial de cumprimento de pena foi fixado com base na gravidade abstrata do crime praticado.
+Quanto ao regime inicial de cumprimento de pena, a jurisprudência do excelso Supremo Tribunal Federal é pacífica no sentido de que "a opinião do julgador sobre a gravidade em abstrato do crime não constitui motivação idônea para a imposição de regime mais severo do que o permitido segundo a pena aplicada" (Súmula 718/STF), e que "a imposição do regime de cumprimento mais severo do que a pena aplicada permitir exige motivação idônea" (Súmula 719/STF).
+Importante ressaltar, ainda, que: "Fixada a pena-base no mínimo legal, é vedado o estabelecimento de regime prisional mais gravoso do que o cabível em razão da sanção imposta, com base apenas na gravidade abstrata do delito" (Súmula 440/STJ).
+In casu, constata-se que não houve a fixação de regime mais gravoso do que estabelecido em lei, uma vez que a pena aplicada à paciente, qual seja, 9 anos, 5 meses e 6 dias de reclusão, conduz o cumprimento da reprimenda ao regime inicial fechado, nos termos do art. 33, § 2º, "a", do Código Penal.
+Nesse sentido:
+"PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. TRÁFICO DE DROGAS. CAUSA DE DIMINUIÇÃO DE PENA DO ART. 33, § 4º, DA LEI N. 11.343/2006. INAPLICABILIDADE. RÉ QUE SE DEDICA A ATIVIDADES CRIMINOSAS. ALTERAÇÃO DESSE ENTENDIMENTO. REEXAME DE PROVAS. REGIME PRISIONAL FECHADO. CIRCUNSTÂNCIA JUDICIAL DESFAVORÁVEL AFASTADA. FUNDAMENTO INIDÔNEO. PENA SUPERIOR A 4 ANOS. SEMIABERTO ADEQUADO. SUBSTITUIÇÃO DA PENA PRIVATIVA DE LIBERDADE POR RESTRITIVA DE DIREITO. FALTA DO PREENCHIMENTO DO REQUISITO OBJETIVO. CONSTRANGIMENTO ILEGAL CARACTERIZADO. WRIT NÃO CONHECIDO. ORDEM CONCEDIDA DE OFÍCIO.
+1. Esta Corte e o Supremo Tribunal Federal pacificaram orientação no sentido de que não cabe habeas corpus substitutivo do recurso legalmente previsto para a hipótese, impondo-se o não conhecimento da impetração, salvo quando constatada a existência de flagrante ilegalidade no ato judicial impugnado.
+2. Os condenados pelo crime de tráfico de drogas terão a pena reduzida, de um sexto a dois terços, quando forem reconhecidamente primários, possuírem bons antecedentes e não se dedicarem a atividades criminosas ou integrarem organizações criminosas (art. 33, § 4º, da Lei n. 11.343/2006).
+3. Concluído pela instância antecedente, com base nas circunstâncias concretas do delito, que a paciente é criminosa habitual, a modificação desse entendimento - a fim de fazer incidir a minorante da Lei de Drogas - enseja o reexame do conteúdo probatório dos autos, o que é inadmissível em sede de habeas corpus. (Precedentes).
+4. Afastada a circunstância judicial desfavorável que justificou a exasperação da pena-base, estabelecendo-a no mínimo legal, torna-se inidônea a fixação do regime mais gravoso com base na referida circunstância.
+5. Considerando o quantum da sanção imposta (5 anos) e sendo a paciente tecnicamente primária, o regime inicial semiaberto é o adequado para início de cumprimento da sanção imposta, nos termos do art. 33, § 2º, "b", do Código Penal.
+6. É inadmissível a substituição da pena privativa de liberdade por restritivas de direito, pela falta do preenchimento do requisito objetivo (art. 44, I, do Código Penal).
+7. Habeas corpus não conhecido. Ordem concedida, de ofício, a fim de fixar o regime inicial semiaberto para início do cumprimento da sanção penal." (HC 384.722/SP, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 22/06/2017).
+Ante o exposto, não conheço do writ.
+P. e I.
