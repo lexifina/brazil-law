@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de agravo interposto contra decisão que não admitiu recurso especial interposto por Jonathas Cristiano Ribeiro dos Santos, desafiando acórdão proferido pelo Tribunal de Justiça de São Paulo, assim ementado (e-STJ, fl. 199):
+AÇÃO DE INDENIZAÇÃO POR DANOS MORAIS Responsabilidade civil Transporte aéreo internacional Atraso de voo Legitimidade passiva de parte - Responsabilidade objetiva da cia. aérea pelos danos provocados Defeito na prestação do serviço Indenização por danos morais devida Valor reparatório a título de danos morais a ser fixado que deve observar os critérios de significância, razoabilidade e proporcionalidade Ação parcialmente procedente - Recurso provido.
+Nas razões do recurso especial, fundado no art. 105, III, c, da Constituição Federal, orecorrente alegou a existência de dissídio jurisprudencial, com violação aos arts. 6º do CDC e 944 do CC, aduzindo, em síntese, a necessidade de majoração do valor da indenização por danos morais(e-STJ, fls. 205-217).
+O Tribunal local não admitiu o processamento do recurso especial ante a faltade demonstração do dissídio jurisprudencial (e-STJ, fls. 288-290).
+Foi interposto agravo em recurso especial às fls. 312-320 (e-STJ), e contraminuta apresentada às fls. 323-325 (e-STJ).
+Brevemente relatado, decido.
+Com efeito, orecorrente alegando a existência de dissídio jurisprudencial, busca a majoração do valor da indenização por danos morais.
+Todavia, ainterposição do recurso especial pela alíneacexige,pressupõe a demonstração analítica da alegada divergência. Assim, "exige-se que o recorrente demonstre, "analiticamente", que os "casos são idênticos e mereceram tratamento diverso à luz da mesma regra federal"".
+Portanto, para a demonstração da divergência, faz-se necessária a transcrição dos trechos que configuram o dissenso, mencionando as circunstâncias que identificam os casos confrontados (não se mostrando suficiente a mera transcrição de ementas), nos termos exigidos pelos dispositivos legais e regimentais que o disciplinam, ônus do qual não se desincumbiu a parte insurgente.
+No mesmo sentido:
+RECURSO ESPECIAL. RESPONSABILIDADE CIVIL. AÇÃO INDENIZATÓRIA. DANO MORAL. MATÉRIA. PUBLICAÇÃO. INTERNET. CENSURA PRÉVIA. IMPOSSIBILIDADE. DIREITO À INFORMAÇÃO. LIBERDADE DE EXPRESSÃO. DIREITOS DE PERSONALIDADE. VIOLAÇÃO. ABUSO DE DIREITO. CONFIGURAÇÃO. VALOR DA INDENIZAÇÃO. REEXAME FÁTICO. VEDAÇÃO.
+1. Recurso especial interposto contra acórdão publicado na vigência do Código de Processo Civil de 2015 (Enunciados Administrativos nºs 2 e 3/STJ).
+2. Cinge-se a controvérsia a definir se: (i) existente responsabilidade civil decorrente da publicação de matéria em sítio eletrônico considerada ofensiva aos direitos de personalidade, isto é, se houve ou não abuso no exercício dos direitos de informação, de comunicação e de imprensa, e (ii) o valor arbitrado a título de indenização é proporcional ao dano moral suportado pela parte recorrida.
+3. A divergência jurisprudencial com fundamento na alínea "c" do permissivo constitucional requisita comprovação e demonstração, esta, em qualquer caso, com a transcrição dos trechos dos acórdãos que configurem o dissídio, mencionando-se as circunstâncias que identifiquem ou assemelhem os casos confrontados, não se oferecendo como bastante a simples transcrição de ementas, sem realizar o necessário cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações (arts. 1.029, § 1º, do CPC/2015 e 255, § 1º, do RISTJ).
+4. Enquanto projeção da liberdade de manifestação de pensamento, a liberdade de imprensa não se restringe aos direitos de informar e de buscar informação, mas abarca outros que lhes são correlatos, tais como os direitos à crítica e à opinião. Por não possuir caráter absoluto, encontra limitação no interesse público e nos direitos da personalidade, notadamente, à imagem e à honra das pessoas sobre as quais se noticia.
+5. Na hipótese dos autos, configura-se abuso do direito a manifestação publicada em sítio eletrônico da internet direcionada à pessoa da recorrida que lhe atribui predicados negativos atentatórios a direitos da sua personalidade (honra e imagem) que extrapolam o interesse público vinculado ao direito de informar e de criticar, excedendo a sua função social, sem a observância dos deveres de veracidade e de cuidado.
+6. A fixação da indenização por danos morais baseia-se nas peculiaridades da causa e somente comporta revisão pelo Superior Tribunal de Justiça, afastando-se o óbice da Súmula nº 7/STJ, quando irrisória ou exorbitante, o que não ocorreu na espécie, em que o valor foi estabelecido em R$ 20.000,00 (vinte mil reais).
+Precedentes.
+7. Recurso especial parcialmente conhecido e não provido.
+(REsp 1887919/DF, Rel. Ministro RICARDO VILLAS BÔAS CUEVA, TERCEIRA TURMA, julgado em 24/08/2021, DJe 31/08/2021)
+PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DECLARATÓRIA DE NULIDADE DE CLÁUSULAS CONTRATUAIS CUMULADA COM REPETIÇÃO DE INDÉBITO E COMPENSAÇÃO POR DANOS MORAIS. INCONFORMISMO QUANTO A INCIDÊNCIA DAS SÚMULAS 284/STF e 5 e 7/STJ. NÃO AFASTAMENTO. MANUTENÇÃO DA DECISÃO AGRAVADA. DISSÍDIO JURISPRUDENCIAL. COTEJO ANALÍTICO E SIMILITUDE FÁTICA. AUSÊNCIA. DISSÍDIO JURISPRUDENCIAL. ACÓRDÃOS DO MESMO TRIBUNAL. INADMISSIBILIDADE.
+1. Ação declaratória de nulidade de cláusulas contratuais cumulada com repetição de indébito e compensação por danos morais.
+2. A insurgência da agravante quanto à incidência das Súmulas 284/STF e 5 e 7/STJ, sem a devida demonstração de não aplicação ao caso, obsta o provimento do agravo interno por ela manejado.
+3. O dissídio jurisprudencial deve ser comprovado mediante o cotejo analítico entre acórdãos que versem sobre situações fáticas idênticas.
+4. A divergência entre julgados do mesmo Tribunal não enseja recurso especial.
+5. Agravo interno não provido.
+(AgInt no REsp 1935419/MG, Rel. Ministra NANCY ANDRIGHI, TERCEIRA TURMA, julgado em 16/08/2021, DJe 19/08/2021)
+Ante o exposto, conheço do agravo para não conhecer do recurso especial deJonathas Cristiano Ribeiro dos Santos.
+Publique-se.
+EMENTA
+AGRAVO EM RECURSO ESPECIAL. AÇÃO DE REPARAÇÃO DE DANOS.INTERPOSIÇÃO RECURSAL EXCLUSIVAMENTE PELA ALÍNEA C DO PERMISSIVO CONSTITUCIONAL. DIVERGÊNCIA JURISPRUDENCIAL NÃO COMPROVADA. COTEJO ANALÍTICO NÃO REALIZADO. AGRAVO CONHECIDO PARA NÃO CONHECERDO RECURSO ESPECIAL DE JONATHAS CRISTIANO RIBEIRO DOS SANTOS.
