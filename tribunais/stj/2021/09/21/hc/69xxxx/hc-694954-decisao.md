@@ -1,0 +1,17 @@
+DECISÃO
+Cuida-se de habeas corpus com pedido de liminar impetrado em favor de AMANDA MARTINUZZI SANCHESem que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL.
+A paciente foi presa em flagrante no dia 02/09/2021, em razão da suposta prática dos crimes previstosnos arts. 33 e 35, ambos da Lei n. 11.343/2006. A prisão em flagrante foi convertida em preventiva.
+Alega o impetrante a ocorrência de constrangimento ilegal decorrente da decisão monocrática que indeferiu pedido liminar em habeas corpus impetrado perante o Tribunal de origem, voltado à soltura da paciente.
+Sustenta, em suma, a ausência de prova da materialidade do delito de associação ao tráfico, a insuficiência de fundamentação do decreto prisional, a ausência dos requisitos autorizadores da custódia cautelar e a possibilidade de aplicação da prisão domiciliar, uma vez que a paciente é primária e mãe de criança menor de 12 anos.
+Requer a concessão da ordem, liminarmente, para que a paciente seja colocada em liberdade. Subsidiariamente, requer a substituição da prisão preventiva por prisão domiciliar.
+É, no essencial, o relatório. Decido.
+A matéria não pode ser apreciada pelo Superior Tribunal de Justiça, pois não foi examinada pelo Tribunal de origem, que ainda não julgou o mérito do writ originário.
+A jurisprudência do STJ firmou-se no sentido de que não cabe habeas corpus contra indeferimento de pedido liminar em outro writ, salvo no caso de flagrante ilegalidade, conforme demonstra o seguinte precedente:
+PROCESSUAL PENAL. HABEAS CORPUS. SÚMULA 691/STF. FLAGRANTE ILEGALIDADE. SUPERAÇÃO. TRÁFICO DE DROGAS. PRISÃO PREVENTIVA DEVIDAMENTE FUNDAMENTADA. NECESSIDADE DE GARANTIA DA ORDEM PÚBLICA. PRISÃO DOMICILIAR. CONSTRANGIMENTO ILEGAL EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO. ORDEM CONCEDIDA, DE OFÍCIO. 1. Nos termos do Enunciado n. 691 da Súmula do Supremo Tribunal Federal, não é cabível habeas corpus contra indeferimento de pedido de liminar em outro writ, salvo em casos de flagrante ilegalidade ou teratologia da decisão singular, sob pena de indevida supressão de instância.
+ ..  (HC n. 486.900/SP, relator Ministro Ribeiro Dantas, Quinta Turma, DJe de 26/2/2019.)
+Confira-se também a Súmula n. 691 do STF: "Não compete ao Supremo Tribunal Federal conhecer de habeas corpus impetrado contra decisão do Relator que, em habeas corpus requerido a tribunal superior, indefere a liminar."
+No caso, não visualizo, em juízo sumário, manifesta ilegalidade que autorize o afastamento da aplicação do mencionado verbete sumular, porquanto, embora a paciente possua filho menor de 12 anos, a decisão que converteu a prisão em flagrante em preventiva encontra-se fundamentada nos seguintes termos:
+"Pelos mesmos motivos, a pretensão da defesa de AMANDA, de ter a prisão em flagrante convertida em domiciliar, não tem passagem, notadamente porque o disposto no art. 318-A do Código de Processo Penal, bem como os fundamentos do HC 143.641/SP, não tornam impositiva a concessão da benesse pretendida, quando presente os requisitos dos artigos 312 e 313 daquele diploma legal, como no presente caso, mormente considerando que, como já referido, há pouco mais de um ano, AMANDA obteve liberdade provisória em prisão em flagrante por tráfico de drogas." (Fl. 163 e-STJ)
+Ante o exposto, com fundamento no art. 21-E, IV, c/c o art. 210, ambos do RISTJ, indefiro liminarmente o presente habeas corpus.
+Cientifique-se o Ministério Público Federal.
+Publique-se. Intimem-se.
