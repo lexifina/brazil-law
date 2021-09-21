@@ -1,0 +1,18 @@
+DECISÃO
+O presentewritveiculatese e pedido idênticosàquelesdeduzidosnoHC n. 681.490/MT,tendo sido impetradoem favor do mesmo paciente (João Arcanjo Ribeiro), circunstância que, por si só, obsta o conhecimento dohabeas corpus.
+Ora, embora a defesa tenha apontado,como ato coator, acórdãos diversos (exarados no julgamento da apelação criminal e do agravo em execução penal)daquele proferido no julgamento doAgravo Interno na Revisão Criminal n. 0044266-48.2016.4.01.0000/MT - objeto do HC n. 681.490/MT -, é certo que a pretensão veiculada está nitidamente voltada à rescisão da coisa julgada penal, pretensão essa que se amolda ao último pronunciamento exarado pela Corte de origem (em sede de revisão criminal), que, inclusive, é subsequente àqueles objetos do presentewrit.
+Aliás, esta Corte não tem sequer competência para analisar os acórdãos exarados nojulgamento da apelação criminal e do agravo em execução penal, pois, em em se tratando de condenação atingida pela preclusão máxima, a impugnação de acórdão diverso daquele exarado no julgamento da revisão criminal (objeto do HC n. 681.490/MT) -com objetivo de rescindir a coisa julgada penal -,consubstanciawritsucedâneo de revisão criminal,sendo esta Corte manifestamenteincompetente para análise do pleito revisional, ante a inexistência de julgamento de mérito no STJ passível de revisão.
+Nesse sentido, confira-se:
+ ..
+1. Em se tratando de condenação definitiva, o habeas corpus fora utilizado como sucedâneo de revisão criminal e, por não existir, neste Tribunal, julgamento de mérito passível de revisão em relação à condenação sofrida pela agravante, forçoso reconhecer a incompetência desta Corte Superior para o processamento do presente pedido.
+2. Agravo regimental improvido.
+(AgRg no HC n. 571.579/SP, de minha relatoria, Sexta Turma, DJe 9/9/2020)
+Ademais, cumpre rememorar quea matéria de fundo (tese)já foi debatida na outra impetração (HC n. 681.490/MT), tendo esta Cortedenegado a ordem, concluindo que a nulidade aventada pela defesa -calcada na tese de que o paciente não poderia ter sido julgado e condenado nos autos da Ação Penal n. 2003.36.00.008505-4, ante a existência de decisão daRepública Oriental do Uruguai indeferindo a extradição do acusado em relação a esse processo -não traduz contrariedade flagrante ao texto expresso de lei, razão pela qual não há ilegalidade noacórdão (Agravo Interno na Revisão Criminal n. 0044266-48.2016.4.01.0000/MT), que concluiu no sentido do descabimento do pleito revisional (art. 621, I, do CPP).
+Eis a ementa da decisão exarada naquele julgado (grifo nosso):
+AGRAVO REGIMENTAL EM HABEAS CORPUS. WRIT IMPETRADO CONTRA ACÓRDÃO EXARADO NO JULGAMENTO DO AGRAVO INTERNO EM REVISÃO CRIMINAL. POSSIBILIDADE.RECONSIDERAÇÃO. PLEITO REVISIONAL CALCADO EM SUPOSTA NULIDADE PROCESSUAL. DESCABIMENTO. TESE QUE NÃO ENCONTRA GUARIDA NA PREVISÃO CONTIDA NO ART. 621, I, DO CPP. INEXISTÊNCIA DE ILEGALIDADE NO ACÓRDÃO QUE CONCLUIU NO SENTIDO DO DESCABIMENTO DO PEDIDO. PRECEDENTE RECENTE DA TERCEIRA SEÇÃO.
+Decisão reconsiderada. Ordem denegada (art. 34, XX, do RISTJ).
+Assim, considerando a incompetência desta Corte para julgar writ sucedâneo de revisão criminal (não há julgamento de mérito no STJ passível de revisão), a identidade da tese e do pedido (rescisão da coisa julgada penal) com aquele verificado no HC n. 681.490/MT (ordem denegada),bem comoque esta Corte não tem competência para rever seus julgados emhabeas corpus, não conheço do presentewrit(art. 34, XVIII,a, do RISTJ).
+Publique-se.
+EMENTA
+HABEAS CORPUS. MERA REITERAÇÃO DE PEDIDO. INCOMPETÊNCIA DESTA CORTE PARA REVER SEUS JULGADOS EMHABEAS CORPUS.
+Writ não conhecido.
