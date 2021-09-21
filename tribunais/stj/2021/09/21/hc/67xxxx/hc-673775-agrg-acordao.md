@@ -1,0 +1,38 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGALDE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO SUFICIENTE.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. No caso, o Juiz de primeiro grau decretou a segregação do réu diante da quantidade de entorpecentes com ele encontrada -5,4 g de maconha, 1,273 kg de haxixe, além de 1 saco com pedras/cristais semelhantes a metanfetamina -, da forma como foram acondicionadas as drogas e da apreensão de arma de fogo. Tais circunstânciasdemonstram a maior periculosidade do paciente e, portanto, justificam a necessidade de imposição da custódia cautelar. Precedentes.
+3. Agravo regimental não provido.
+RELATÓRIO
+GABRIEL BARBOSA PEREIRA agrava de decisão em que deneguei a ordem de habeas corpus.
+A defesa sustenta que o decisum recorrido, tal qual os das instâncias ordinárias,manteve a prisão preventiva do réu com base na gravidade abstrata do crime, tendo em vista apenas a quantidade de droga e a arma apreendida, sem, no entanto, demonstrar o perigo que a liberdade do acusado representa para a ordem pública.
+Argumenta (fl. 553):
+E, ainda que se considerasse concreta a gravidade da conduta imputada ao agravante, esta, por si só, não é suficiente à demonstração do periculum libertatis.
+Isso porque adstringir-se a mencionar a gravidade da conduta para fundamentar a necessidade da prisão cautelar, confundindo "culpabilidade" com "ordem pública", o Juiz simplesmente projetou seu juízo (antecipado) de reprovabilidade da conduta no conceito de "ordem pública". No final das contas, o que fez foi determinara prisão cautelar com base no juízo de reprovação, em odiosa antecipação da pena.
+Requer, dessa forma, a reconsideração da decisão agravada ou a submissão do feito ao órgão colegiado, a fim de que seja concedida a ordem.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES, ASSOCIAÇÃO PARA O TRÁFICO E PORTE ILEGALDE ARMA DE FOGO DE USO PERMITIDO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO SUFICIENTE.AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A prisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstrato do crime ou do ato processual praticado (art. 313, § 2º, CPP). Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais se possa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+2. No caso, o Juiz de primeiro grau decretou a segregação do réu diante da quantidade de entorpecentes com ele encontrada -5,4 g de maconha, 1,273 kg de haxixe, além de 1 saco com pedras/cristais semelhantes a metanfetamina -, da forma como foram acondicionadas as drogas e da apreensão de arma de fogo. Tais circunstânciasdemonstram a maior periculosidade do paciente e, portanto, justificam a necessidade de imposição da custódia cautelar. Precedentes.
+3. Agravo regimental não provido.
+VOTO
+Não obstante os esforços perpetrados pelo ora agravante, não constato fundamentos suficientes a infirmar a decisão vergastada, cuja conclusão mantenho.
+Como dito no decisum recorrido, aprisão preventiva é compatível com a presunção de não culpabilidade do acusado desde que não assuma natureza de antecipação da pena e não decorra, automaticamente, do caráter abstratodo crime ou do ato processual praticado (art. 313, § 2º, CPP).
+Além disso, a decisão judicial deve apoiar-se em motivos e fundamentos concretos, relativos a fatos novos ou contemporâneos, dos quais sepossa extrair o perigo que a liberdade plena do investigado ou réu representa para os meios ou os fins do processo penal (arts. 312 e 315 do CPP).
+No caso, o Juiz de primeiro grau compreendeu ser necessária a constrição processual do acusado com base na quantidade de entorpecentes encontrados com ele-5,4 g de maconha, 1,273 kg de haxixe, além de 1 saco com pedras/cristais semelhantes a metanfetamina-, na forma como foram acondicionadas as drogas e naapreensão de arma de fogo. O Magistrado primevotambém destacou haver "veementes indícios de que o custodiado integre organização criminosa desse jaez, o que realça sua periculosidade concreta e a necessidade de sua segregação cautelar" (fl. 155).
+Em que pese o entendimento da defesa, as circunstâncias invocadas pelo Juízo singular denotam a maior periculosidade do paciente e, portanto, justificam idônea e concretamente a necessidade de imposição da custódia. Vejam-se:
+ ..
+2. A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, dos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+3. No caso, a decisão que impôs a prisão preventiva apontou a gravidade concreta da conduta, evidenciada pela quantidade e variedade de drogas apreendidas - 60 buchas de maconha pesando cerca de 96g (noventa e seis gramas), 96 papelotes de cocaína pesando 40g (quarenta gramas), 16 invólucros e 2 porções de crack pesando aproximadamente 62g (sessenta e dois gramas) e 59 buchas de haxixe pesando cerca de 25g (vinte e cinco gramas), além de 1 revólver calibre .38 carregado com 6 munições e 21 munições de mesmo calibre sobressalentes, bem como destacou a reincidência específica do paciente, o que denota a periculosidade do agente. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública e cessar a reiteração delitiva.
+4. Ordem parcialmente conhecida e, nessa extensão, denegada.
+(HC n. 595.597/MG, Rel. Ministro Antonio Saldanha, 6ª T., DJe 27/10/2020)
+PROCESSUAL PENAL E PENAL. HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. ASSOCIAÇÃO PARA O TRÁFICO. QUANTIDADE EXPRESSIVA DE ENTORPECENTE APREENDIDO. FUNDAMENTAÇÃO CONCRETA. ILEGALIDADE.
+AUSÊNCIA. MEDIDAS ALTERNATIVAS. INADEQUAÇÃO. HABEAS CORPUS DENEGADO.
+1. Apresentada fundamentação concreta, consubstanciada na grande quantidade de droga apreendida, qual seja, aproximadamente 2,9 quilogramas de haxixe; 1,40 gramas de maconha e 0,90 gramas de cocaína, o que constitui base empírica idônea para determinar a custódia.
+2. Havendo a indicação de fundamentos concretos para justificar a custódia cautelar, não se revela cabível a aplicação de medidas cautelares alternativas à prisão, visto que insuficientes para resguardar a ordem pública.
+3. Habeas corpus denegado.
+(HC n. 462.521/RJ, Rel. Ministro Nefi Cordeiro, 6ª T., DJe 5/11/2018)
+À vista do exposto, nego provimento ao agravo regimental.
