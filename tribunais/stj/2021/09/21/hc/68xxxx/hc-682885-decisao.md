@@ -1,0 +1,14 @@
+DECISÃO
+O presente habeas corpus,com pedido liminar, impetrado em favor de Juan Sebastian Lopez,no qual se alega, em síntese, excesso de prazo e ausência de fundamentação idônea a justificar a constrição cautelar, perdeu seu objeto.
+Isso porque, diante das informações colhidas na página eletrônica do Tribunal local, nota-se que, em 23/8/2021, sobreveioa prolação de sentença condenando o ora pacientecomo incurso no art.155, § 4º, II (destreza), do Código Penal, à pena privativa de liberdade de 2 anos de reclusãoe 10 dias-multa, bem como incurso no art.307do Código Penal, ao cumprimento da pena de 3 meses de detenção, na forma do art.69, ambos do Estatuto Repressivo, em regime inicial semiaberto,vedando-lhe o direito de recorrer em liberdade.
+Aplicável, portanto, a Súmula 52/STJ, segundo a qual,encerrada a instrução criminal, fica superada a alegação de constrangimento ilegal por excesso de prazo.
+Além disso,na linha da jurisprudência desta Corte, também fica prejudicado o pedido de análise dos fundamentos da prisão preventiva, uma vez que a custódia decorre, agora, de título diverso (sentença condenatória), consubstanciado em nova motivação -os efeitos da condenação penal(quantidade de pena e regime de cumprimento de pena aplicado), cujo requisito específicodesafia, portanto, impugnação própria no Tribunal de origem.
+Nesse sentido, os seguintes julgados: AgRg no RHC n.112.178/SP, Ministra Laurita Vaz, Sexta Turma, DJe 15/6/2020; AgRg no RHC n.92.522/AL, da minha relatoria, Sexta Turma, DJe 16/3/2020;e AgRg no RHC n.110.729/MA, da minha relatoria, Sexta Turma, DJe 20/2/2020.
+Contudo, em virtude da imposição do regime intermediário, por ocasião da condenação, faz-se necessário compatibilizar a manutenção da custódia cautelar com o aludido modo de execução da pena, devendo a ordem ser concedida para determinar que opacientecumpraa custódia cautelar em regime semiaberto, qual seja, em estabelecimento prisional adequado para tal regime, caso não haja outro motivo que justifique a segregação mais gravosa.
+Não foi outra a opinião doSubprocurador-Geral da República Roberto dos Santos Ferreiraàs fls. 592/595.
+Pelo exposto, a teor do disposto no art. 34, XI, do RISTJ, julgo prejudicado o presente habeas corpus.De ofício, expeço a ordem para determinar que opaciente, salvo se estiverpresopor outro motivo,aguardeo julgamento de eventual recurso de apelação no regime fixado na sentençacondenatória, qual seja, no regime semiaberto.
+Intime-se o Ministério Público estadual.
+Publique-se.
+EMENTA
+HABEAS CORPUS. FURTO QUALIFICADO E FALSA IDENTIDADE.EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA (SÚMULA52/STJ).PRISÃO PREVENTIVA.SENTENÇA SUPERVENIENTE. NOVO TÍTULO. PERDA DO OBJETO. IMPOSIÇÃO DO REGIME SEMIABERTO. NECESSIDADE DE ADEQUAÇÃO.
+Writ prejudicado.Ordem expedida de ofício, nos termos do dispositivo.
