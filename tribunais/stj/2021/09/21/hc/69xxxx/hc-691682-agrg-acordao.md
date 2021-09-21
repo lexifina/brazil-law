@@ -1,0 +1,55 @@
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DE DROGA APREENDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+2. Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente , as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+3. Na hipótese, a pena-base foi fixada acima do mínimo legal em razão da quantidade de droga apreendida - 1.994,2g de maconha -, fundamento que não se mostra inidôneo. Foi observado, na verdade, o que determina o art. 42 da Lei n. 11.343/2006.
+4. Agravo regimental desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos estes autos, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, na conformidade dos votos e das notas taquigráficas a seguir, por unanimidade, negar provimento ao agravo regimental, nos termos do voto da Sra. Ministra Relatora. Os Srs. Ministros Sebastião Reis Júnior, Rogerio Schietti Cruz, Antonio Saldanha Palheiro e Olindo Menezes (Desembargador Convocado do TRF 1ª Região) votaram com a Sra. Ministra Relatora.
+RELATÓRIO
+A EXMA. SRA. MINISTRA LAURITA VAZ:
+Trata-se de agravo regimental interposto por MICKAEL DE SOUZA BENTO contra decisão de minha lavra, ementada nos seguintes termos (fl. 670):
+"HABEAS CORPUS. PENAL. TRÁFICO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DE DROGA APREENDIDA. ORDEM DENEGADA."
+Nas razões do recurso, a Defesa alega, em suma, que a quantidade de droga apreendida não pode ser considerada exorbitante para justificar o aumento operado na primeira fase da dosimetria
+Pleiteia, desse modo, a reconsideração da decisão agravada ou a remessa dos autos para a apreciação da Sexta Turma.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. PENAL. TRÁFICO ILÍCITO DE DROGAS. PENA-BASE ACIMA DO MÍNIMO LEGAL. FUNDAMENTAÇÃO IDÔNEA. QUANTIDADE DE DROGA APREENDIDA. AGRAVO REGIMENTAL DESPROVIDO.
+1. Excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+2. Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente , as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+3. Na hipótese, a pena-base foi fixada acima do mínimo legal em razão da quantidade de droga apreendida - 1.994,2g de maconha -, fundamento que não se mostra inidôneo. Foi observado, na verdade, o que determina o art. 42 da Lei n. 11.343/2006.
+4. Agravo regimental desprovido.
+VOTO
+A EXMA. SRA. MINISTRA LAURITA VAZ (RELATORA):
+A irresignação não prospera.
+Cumpre registrar que, excetuados os casos de patente ilegalidade ou abuso de poder, é vedado, na via do habeas corpus, o amplo reexame das circunstâncias judiciais consideradas para a individualização da sanção penal, por demandar a análise de matéria fático-probatória.
+Como é sabido, o julgador deve, ao individualizar a pena, examinar com acuidade os elementos que dizem respeito ao fato, obedecidos e sopesados todos os critérios estabelecidos no art. 59 do Código Penal, para aplicar, de forma justa e fundamentada, a reprimenda que seja, proporcionalmente, necessária e suficiente para reprovação do crime. Especialmente quando considerar desfavoráveis as circunstâncias judiciais, deve o magistrado declinar, motivadamente , as suas razões, pois a inobservância dessa regra ofende o preceito contido no art. 93, inciso IX, da Constituição da República.
+A título de elucidação, transcrevo os fundamentos utilizados pelo Tribunal de origem para fixar a pena-base acima do mínimo legal (fls. 654-655; sem grifos no original):
+"Pleiteia a representante ministerial, por sua vez, a majoração das penas- base dos réus, na primeira fase dos delitos de tráfico e associação para tal fim, no patamar de 1/5 (um quinto), argumentando que deve ser considerada a quantidade de entorpecente apreendido, segundo os critérios do art. 42 da Lei n. 11.343/06.
+Sem tergiversar, o recurso merece guarida, em parte.
+Com efeito, o art. 42 da Lei n. 11.343/06 dispõe que " O juiz, na fixação das penas, considerará, com preponderância sobre o previsto no art. 59 do Código Penal, a natureza e a quantidade da substância ou do produto, a personalidade e a conduta social do agente".
+Sobre o tema, discorre Guilherme de Souza Nucci:
+ ..
+Logo, com preponderância sobre as circunstâncias elencadas no art. 59 do Código Penal, a quantidade e natureza da droga são elementos que devem ser levados em consideração, conforme dispõe o art. 42 da Lei n. 11.343/06.
+In casu, segundo as informações constantes nos autos, os réus transportavam, para fins de comércio, 03 (três) invólucros de maconha, pesando o montante de 1.994,2g (mil, novecentos e noventa e quatro gramas e dois decigramas) - informação extraída do Laudo Pericial de Identificação de Substâncias Entorpecentes constante no Evento 32 do Auto de Prisão em Flagrante.
+Desse modo, embora a natureza do estupefaciente não seja das mais nocivas, a quantidade expressiva apreendida mostra-se suficiente a atingir um sem- número de usuários, circunstância, portanto, que deve servir de baliza ao aumento da sanção.
+A título de elucidação, anote-se que, em que pese a previsão acerca da consideração da natureza e da quantidade da droga encontrar-se no mesmo dispositivo legal, pode a valoração de ambas ocorrer de forma isolada, de modo a garantir-se a correta individualização da pena.
+ ..
+Assim, a pena-base deve ser majorada.
+Ressalta-se, no ponto, que, no presente caso, após o devido enfoque aos variados aspectos dos execráveis crimes sob apuração, entendo que a majoração levada a efeito deve ser quantificada no patamar de 1/6 (um sexto) - e não de 1/5 (um quinto), conforme pretendido pelo Parquet -, por ser o parâmetro usualmente observado por esta Corte de Justiça e por se mostrar, na presente espécie, cônsono às peculiaridades da espécie."
+Na hipótese, reafirmo que a pena-base foi fixada acima do mínimo legal em razão da quantidade de droga apreendida - 1.994,2g de maconha -, fundamento que não se mostra inidôneo. Foi observado, na verdade, o que determina o art. 42 da Lei n. 11.343/2006.
+Ilustrativamente:
+"AGRAVO REGIMENTAL NO HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. DECISÃO MONOCRÁTICA. TRÁFICO DE DROGAS. DOSIMETRIA. EXASPERAÇÃO DA PENA-BASE COM FUNDAMENTO NA QUANTIDADE E NATUREZA DAS DROGAS APREENDIAS. POSSIBILIDADE (ART. 42, DA LEI DE DROGAS). INEXISTÊNCIA DE ILEGALIDADE A SER SANADA. PLEITO DE APLICAÇÃO DO BENEFÍCIO DO ART. 33, § 4º, DA LEI 11.343/06. EXISTÊNCIA DE ANOTAÇÕES PELA PRÁTICA DE ATOS INFRACIONAIS EQUIPARADOS AO DELITO DE TRÁFICO DE DROGAS. DEDICAÇÃO A ATIVIDADES CRIMINOSAS. APLICAÇÃO DA CAUSA ESPECIAL DE DIMINUIÇÃO. IMPOSSIBILIDADE. NÃO PREENCHIMENTO DE UM DOS REQUISITOS LEGAIS. AUSÊNCIA DE NOVOS ARGUMENTOS APTOS A DESCONSTITUIR A DECISÃO AGRAVADA. AGRAVO REGIMENTAL DESPROVIDO.
+I - É assente nesta Corte Superior de Justiça que o agravo regimental deve trazer novos argumentos capazes de alterar o entendimento anteriormente firmado, sob pena de ser mantida a r. decisão vergastada pelos próprios fundamentos.
+II - As instâncias ordinárias, de forma motivada e de acordo com o caso concreto, atento as diretrizes do art. 42 da Lei de Drogas e do art. 59, do Código Penal, consideraram mormente a quantidade e natureza dos entorpecentes apreendidos (63g de maconha e 17g de MDMA na sua forma pura), para exasperar a reprimenda-base, inexistindo, portanto, flagrante ilegalidade, a ser sanada pela via do writ.
+III - Considerando que um dos requisitos para concessão da benesse é o agente não se dedicar a atividades criminosas, é certo que o envolvimento do paciente quando menor em atos infracionais, inclusive relacionados ao crime de tráfico, é elemento idôneo a afastar a aplicação da causa especial de diminuição de pena do art. 33, § 4º, da Lei de Drogas, uma vez que demonstra uma propensão do agente a práticas criminosas.
+IV - A toda evidência, o decisum agravado, ao confirmar o aresto impugnado, rechaçou as pretensões da defesa por meio de judiciosos argumentos, os quais encontram amparo na jurisprudência deste Sodalício.
+Agravo regimental desprovido" (AgRg no HC 662.561/SC, Rel. Ministro JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT), QUINTA TURMA, julgado em 24/08/2021, DJe 30/08/2021.)
+"PENAL. AGRAVO REGIMENTAL NO HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. PENA-BASE. QUANTIDADE E NATUREZA DAS DROGAS. PROPORCIONALIDADE NO AUMENTO. RECURSO NÃO PROVIDO.
+1. A individualização da pena é uma atividade em que o julgador está vinculado a parâmetros abstratamente cominados pela lei, sendo-lhe permitido, entretanto, atuar discricionariamente na escolha da sanção penal aplicável ao caso concreto, após o exame percuciente dos elementos do delito, e em decisão motivada.
+Dessarte, ressalvadas as hipóteses de manifesta ilegalidade ou arbitrariedade, é inadmissível às Cortes Superiores a revisão dos critérios adotados na dosimetria da pena.
+2. No caso, as instâncias ordinárias, atentas às diretrizes do art. 42 da Lei de Drogas, consideraram a natureza e a quantidade das drogas apreendidas - 16 trouxinhas de maconha (87g), 30 papelotes de cocaína (44,1g) e 2 tijolos de maconha (351g), para elevar a pena-base em 1/8 acima do mínimo legal. Assim, tendo sido indicados elementos válidos para a majoração da reprimenda básica, não se identifica a alegada contrariedade dos arts. 59 e 68 do CP, sobretudo quando as penas máxima e mínima abstratamente cominadas ao delito de tráfico de drogas são de 5 a 15 anos de reclusão.
+3. Agravo regimental desprovido" (AgRg no HC 668.677/SP, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 03/08/2021, DJe 09/08/2021.)
+Assim, na ausência de argumentos aptos a infirmar as razões consideradas no julgado ora agravado, entendo que deve ser mantida a decisão recorrida.
+Ante o exposto, NEGO PROVIMENTO ao agravo regimental.
+É como voto.
