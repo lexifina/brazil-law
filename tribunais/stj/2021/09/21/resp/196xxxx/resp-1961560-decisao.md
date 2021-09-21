@@ -1,0 +1,25 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo INSS, com fundamento na alínea "a" do art. 105, III da CF, contra acórdão assim ementado (fl. 179):
+PREVIDENCIÁRIO. BENEFÍCIO POR INCAPACIDADE. VINCULACAO AO LAUDO. INOCORRENCIA. PROVA INDICIARIA, AUXILIO-DOENÇA. APOSENTADORIA POR INVALIDEZ. CONCESSAO.
+1. O juízo não está adstrito as conclusões do laudo médico pericial, nos termos do artigo 479do NCPC (O juiz apreciará a prova pericial, nos termos do artigo 479 do NCPC (O juiz apreciará a prova pericial de acordo com o disposto no art. 371, indicando na sentença os motivos que o levaram a considerar ou a deixar de considerar as conclusões do laudo, levando em conta o método utilizado pelo perito), podendo discordar, fundamentalmente, das conclusões do perito em razão dos demais elementos probatórios coligido os autos.
+2.Ainda que o caderno processual não contenha elementos probatórios conclusivos com relação a incapacidade do segurado, caso não se possa chegar a uma prova absolutamente conclusiva, consistente, robusta é adequado que se busque socorro na prova indiciária e nas evidências.
+Embargos rejeitados
+O recorrente alega violação dos artigo1.022, I e II, todos do CPC/2015, ao argumento de que a Corte de origem foi omisso no tocante a prescrição do direito de revisar o benefício (fl. 236).
+Quanto à questão de fundo, sustenta ofensa aoartigo1º, Decreto 20.910/32, sob o argumento de que "proposta a ação judicial a mais de cinco anos após a cessação ou indeferimento do benefício, ocorre a prescrição de fundo de direito de impugnar o ato" (fl. 239).
+Com contrarrazões.
+Juízo negativo de admissibilidade às fl. 249-250. Conversão em recurso especial (fl. 276);
+É o relatório. Paso a decidir.
+Inicialmente, registra-se que " a os recursos interpostos com fundamento no CPC/2015 (relativos a decisões publicadas a partir de 18 de março de 2016) devem ser exigidos os requisitos de admissibilidade na forma nele prevista, com as interpretações dadas, até então, pela jurisprudência do Superior Tribunal de Justiça (Enunciado Administrativo n. 3, aprovado pelo
+Plenário do Superior Tribunal de Justiça em 9/3/2016)".
+Afasta-se a alegada violação doartigo 1.022, I e II, do CPC/2015, porquanto o acórdão recorrido manifestou-se de maneira clara e fundamentada a respeito das questões relevantes para a solução da controvérsia. A tutela jurisdicional foi prestada de forma eficaz, não havendo razão para a anulação do acórdão proferido em sede de embargos de declaração.
+O Tribunal de origem manifestou-se fundamentadamente quanto ao ponto controverso no sentido de que "existe prescrição quinquenal, porquanto a presente ação foi ajuizada em 13/05/2016" (fl. 186).
+Nesse contexto, da leitura dos trechos do acordão recorrido supra e cotejando-se o que foi decidido pela Corte de origem com as razões do recurso especial, observa-se que a argumentação apresentada está dissociada dos fundamentos utilizados no aresto impugnado, tendo em vista que a parte recorrente não impugnou, de forma específica, os seus fundamentos, o que atrai a aplicação, por conseguinte, do referido enunciado: "É inadmissível o recurso extraordinário, quando a deficiência na sua fundamentação não permitir a exata compreensão da controvérsia". Aplicável, portanto, o óbice da Súmula n. 284/STF.
+Nesse sentido, esta Corte Superior de Justiça já se manifestou na linha de que, "não atacado o fundamento do aresto recorrido, evidente deficiência nas razões do apelo nobre, o que inviabiliza a sua análise por este Sodalício, ante o óbice do Enunciado n. 284 da Súmula do Supremo Tribunal Federal". (AgRg no AREsp n. 1.200.796/PE, rel. Min. Jorge Mussi, Quinta
+Turma, DJe de 24/8/2018.)
+Confiram-se ainda os seguintes julgados: AgInt no Resp 1.811.491/SP, relatora Min. Regina Helena Costa, Primeira Turma, DJe de 19/11/2019; AgInt no AREsp 1.637.445/SP, relator Min. Moura Ribeiro, Terceira Turma, DJe de 13/8/2020; AgInt no AREsp 1.647.046/PR, relator Min. Marco Buzzi, Quarta Turma, DJe de 27/8/2020; e AgRg nos EDcl no REsp n. 1.477.669/SC, relator Min. Antonio Saldanha Palheiro, Sexta Turma, DJe de 2/5/2018.
+Além do mais, rever a conclusão do Tribunal a quo quanto a ocorrência da prescrição da pretensão autoral, na forma como apresentado nas razões do recurso especial, demandaria o reexame da situação fática e probatória dos autos, o que encontra óbice na Súmula 7 do STJ.
+Ante o exposto, conheço em parte do recurso especial e, nessa extensão, nego-lhe provimento.
+Majoro em 10% os honorários advocatícios fixados anteriormente, observados os limites e parâmetros dos §§2º, 3º e 11 do art. 85 do CPC/2015 e eventual Gratuidade da Justiça (art. 98, §3º, CPC/2015).
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. APLICABILIDADE DO CPC/2015. ART.1.022, I e II, DO CPC/2015. VIOLAÇÃO.. NÃO CONFIGURADA.PRESCRIÇÃO CARACTERIZADA. RAZÕES DISSOCIADAS DOS FUNDAMENTOS DO ACÓRDÃO RECORRIDO. SÚMULA 284 DO STF, POR ANALOGIA. REEXAME DE CONTEÚDO FÁTICO PROBATÓRIO. IMPOSSIBILIDADE. SÚMULA 7 DO STJ. RECURSO PARCIALMENTE CONHECIDO E, NESSA EXTENSÃO, NÃO PROVIDO.
