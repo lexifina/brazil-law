@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no artigo 105, III, a, da Constituição Federal, contra acórdão proferido pelo TRF da 1ª Região, assim ementado (fls. 204):
+PREVIDENCIÁRIO. PENSÃO POR MORTE. RURíCOLA. PRÉVIO REQUERIMENTO ADMINISTRATIVO. NECESSIDADE. CÔNJUGE FALECIDO. DEPENDÊNCIA PRESUMIDA.ATIVIDADE RURAL COMPROVADA POR INÍCIO DE PROVA DOCUMENTAL CORROBORADA POR PROVA TESTEMUNHAL. TUTELA ANTECIPADA. TERMO INICIAL. CORREÇÃO MONETÁRIA E JUROS. HONORÁRIOS ADVOCATíCIOS. CUSTAS PROCESSUAIS.
+1. A pensão por morte prevista no art. 74 da Lei 8.213/1991, que é devida ao conjunto dos dependentes de trabalhador rural, está subordinada à demonstração da condição de dependente do segurado, nos termos do art. 16 da mencionada lei, e à comprovação da atividade rural exercida pelo falecido, por meio de início de prova material corroborada por prova testemunhal coerente e robusta.
+2. A dependência econômica da esposa sobrevivente em relação ao ex-segurado é presumida (Lei 8.213/1991, art. 16, § 4º), conquanto cabível prova em contrário.
+3. O início de prova material, a que se refere a Lei 8.213/1991, foi demonstrado com a apresentação de certidão de casamento da parte autora, constando declarada a profissão de seu falecido cônjuge como lavrador. A prova testemunhal coerente e robusta, por sua vez, comprova a qualidade de trabalhador rural do instituidor do benefício, além de confirmar que, à época do evento morte, a parte autora e o de cujus viviam sob o mesmo teto.
+4. Tendo o ex-segurado falecido na vigência da Lei 9.528/1997, que alterou a redação originária do art. 74 da Lei 8.213/1991, o beneficio será devido a partir da data do óbito, quando requerido até 90 dias depois deste (Lei 13.183/2015); do requerimento administrativo, quando requerido após o prazo previsto anteriormente, da decisão judicial, no caso de morte presumida.
+5. Na ausência de requerimento administrativo, conforme a jurisprudência mais atual do STJ, firmada após a atribuição do tema à Primeira Seção daquela Corte, pacificou-se o entendimentode que o benefício é devido a partir da citação, sendo oportuno citar, entre outros, os precedentes inscritos no REsp 1369165/SP, AgRg no REsp 1536032/RJ e 1532015/SP, REsp 1512707/MG.
+6. Prescreve em cinco anos, em caso de requerimento administrativo, a contar da data em que deveriam ter sido pagas, toda e qualquer ação para haver prestações vencidas ou quaisquer restituições ou diferenças devidas pela Previdência Social (Lei 8.213/1991, art. 103, parágrafo único), com exceção dos incapazes, por força das disposições dos arts. 3 0 , I, e 198, I, do atual Código Civil.
+7. Caso a parte autora receba benefício de prestação continuada previsto na Lei Orgânica da Assistência Social (LOAS), os valores devem ser compensados, tomando-se por base o deferimento da pretensão veiculada neste processo, que é devida a partir da citação válida, conforme fixado na sentença recorrida.
+8. Juros e correção monetária nos termos do Manual de Cálculos da Justiça Federal, em sua forma mais atualizada, na forma do voto.
+9. Honorários advocaticios devidos no percentual de 10% (dez por cento) sobre as prestações vencidas até a prolação da sentença, nos termos do enunciado da Súmula 111 do STJ.
+Entretanto, caso a sentença tenha fixado valor inferior ao entendimento jurisprudencial, deve ela prevalecer na ausência de recurso da parte autora.
+10. Nas causas ajuizadas perante a Justiça Estadual, no exercício da jurisdição federal (CF, art.
+109, § 3 0 ), o INSS está isento das custas somente quando lei estadual específica prevê a isenção, o que ocorre nos Estados de Minas Gerais, Goiás, Rondónia e Mato Grosso. Em se tratando de causas ajuizadas perante a Justiça Federal, o INSS está isento de custas por força do art. 4º, I, da Lei 9.289/1996.
+11. A determinação de imediata implantação do benefício no prazo fixado no acórdão atrai a previsão de incidência de multa diária a ser suportada pela Fazenda Pública quando não cumprido o comando no prazo deferido, já que se trata de obrigação de fazer. Precedentes deste Tribunal e do STJ.
+12. O benefício reconhecido neste julgamento deve ser implantado no prazo máximo de 30 dias (CPC, art. 273) contados da intimação da autarquia previdenciária, independentemente da interposição de qualquer recurso.
+13. Apelação do INSS não provida.
+14. Remessa oficial parcialmente provida.
+Embargos de declaração rejeitados.
+O recorrente aponta ofensa ao artigo 1.022, do CPC/2015, diante negativa de prestação jurisdicional, pois o "acórdão concede beneficio de aposentadoria por idade rural, além de pensão por morte, quando a parte autora somente solicitou pensão por morte." (fls. 236).
+Quanto ao mérito suscita violação do artigo 492, caput, do CPC/2015, na medida em que houve julgamento extra/ultra petita.
+Sem contrarrazões.
+Juízo positivo de admissibilidade às fls. 261.
+É o relatório. Passo a decidir.
+É pacífico o entendimento deste Tribunal Superior no sentido de que o órgão julgador não é obrigado a se manifestar sobre todos os argumentos expostos pelas partes, contanto que adote fundamentação suficiente para o efetivo julgamento da lide.
+Contudo, assiste razão ao recorrente no tocante à violação do artigo 1.022 do CPC/2015, em razão do acórdão recorrido não ter se manifestado a respeito da omissão apontada nos embargos de declaração opostos. Verifica-se da leitura do recurso dos embargos de declaração que o ora recorrente requereu expressamente que a Corte de origem se manifestasse sobre o acórdão recorrido conceder a aposentadoria por idade rural, que configurou julgamento extra/ultra petita, na medida em que não solicitado na petição inicial da parte autora
+Entretanto, ao julgar o recurso integrativo, a Corte Regional silenciou sobre a questão suscitada posta acima.
+Assim sendo, em situações em que o ponto omisso, obscuro ou contraditório é necessário para o deslinde da controvérsia, cabe reconhecer a nulidade do acórdão, devendo os autos retornar ao Tribunal de origem para que seja proferido novo julgamento dos embargos de declaração com manifestação expressa a seu respeito.
+Ante o exposto, dou provimento ao recurso especial, para anular o acórdão julgador dos embargos declaratórios, determinando-se o retorno dos autos ao Tribunal de origem, para que se manifeste sobre o ponto suscitado nos Embargos de Declaração, nos termos da fundamentação supra.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. VIOLAÇÃO DO ARTIGO 1.022 DO CPC/2015. OMISSÃO CONFIGURADA. RETORNO DOS AUTOS À ORIGEM. RECURSO PROVIDO.
