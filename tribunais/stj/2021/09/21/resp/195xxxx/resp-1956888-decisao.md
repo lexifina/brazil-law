@@ -1,0 +1,29 @@
+DECISÃO
+Trata-se de recurso especial interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal Regional Federal da 5ª Região, assim ementado (fl. 51):
+TRIBUTÁRIO. APELAÇÃO. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. ANUIDADES DE 2011 A 2015. PRAZO PRESCRICIONAL. TERMO INICIAL. PRIMEIRO DIA A PARTIR DO VENCIMENTO DA ÚLTIMA ANUIDADE. LEI 4.886/65. PRESCRIÇÃO CONFIGURADA. NÃO PROVIMENTO.
+1. Apelação interposta pelo CONSELHO REGIONAL DE REPRESENTANTES COMERCIAIS NO ESTADO DEPERNAMBUCO em face de sentença que reconheceu a prescrição da pretensão executória em relação às anuidades de 2011 a 2015.
+2. A prescrição do crédito tributário é de 5 (cinco) anos, contando da sua constituição definitiva (art. 174, CTN). No caso, a anuidade do CORE tem a data da constituição definitiva fixada pela Lei 4.886/65, alterada pela Lei 12.246/10, que fixou no § 3º do art. 10, o vencimento da anuidade em 31 de março de cada ano. Assim, o prazo prescricional começa a fluir no dia seguinte ao da data de vencimento fixada.
+3. A anuidade mais recente tem como vencimento 30/4/2015,com prazo prescricional fluindo a partir de 1/5/2015 e se encerrando em 1/5/2020. Entretanto, a presente execução só veio a ser ajuizada em 10/9/2020, quando a pretensão já estava fulminada pela prescrição.
+4. Precedentes: TRF5, PJE 0815215-35.2020.4.05.8300, Apelação Cível, Rel. Des. Federal MANOEL DEOLIVEIRA ERHARDT, 4ª Turma, acórdão lavrado em 19/12/2020; TRF5, PJE0801026-46.2020.4.05.8302, Apelação Cível, Rel. Des. Federal LEONARDO HENRIQUE DECAVALCANTE CARVALHO, 2ª Turma, acórdão lavrado em 18/12/2020. 5. Apelação cujo provimento é negado.
+No apelo especial, o recorrente alega violação ao art. 8ºda Lei 12.514/2011, argumentando que o prazo prescricional para cobrança das anuidades pagas aos conselhos profissionais tem início somente quando o total da dívida inscrita, acrescida dos respectivos consectários legais, atingir o patamar mínimo estabelecido pela Lei 12.514/2011.
+Sem contrarrazões.
+Juízo positivo de admissibilidade à fl. 93.
+É o relatório. Decido.
+A insurgência merece prosperar.
+Com efeito, as Turmas que compõem a Primeira Seção do STJ têm decidido, de forma pacífica, no sentido de que a prescrição da pretensão de cobrança só tem início quando cumprida, ou seja, a partir do momento em que o total da dívida, incluídos os acréscimos legais, alcançar o limite mínimo estabelecido pelo art. 8º da Lei n. 12.514/2011, considerando-se o valor da anuidade aquele estabelecido para o ano em que for ajuizada a execução.
+Confiram-se, dentre outros:
+TRIBUTÁRIO. PROCESSUAL CIVIL. ANUIDADE DE CONSELHO PROFISSIONAL.LEI 12.514/2011. VALOR MÍNIMO. EXECUÇÃO FISCAL. PRESCRIÇÃO. TERMO INICIAL.
+1. Firmou-se no Superior Tribunal de Justiça o entendimento de que, à luz do art. 8º da Lei 12.514/2011, a propositura de executivo fiscal fica limitada à existência do valor mínimo correspondente a 4 (quatro) anuidades, sendo certo que o prazo prescricional para o seu ajuizamento deve ter início somente quando o crédito tornar-se exequível. Precedentes:
+REsp 1.664.389/SC, Rel. Min. Og Fernandes, Segunda Turma, DJe 16/2/2018; REsp 1.694.153/RS, Rel. Ministro Herman Benjamin, Segunda Turma, DJe 19/12/2017; REsp 1.684.742/RS, Rel. Min. Regina Helena Costa, decisão monocrática, DJe 17/10/2018; REsp 1.467.576/PR, Rel. Min. Napoleão Nunes Maia Filho, decisão monocrática, DJe 20/11/2018.
+2. Agravo interno não provido(AgInt no AREsp 1.011.326/SC, Rel. Ministro SÉRGIO KUKINA, PRIMEIRA TURMA, julgado em 14/05/2019, DJe 17/05/2019).
+TRIBUTÁRIO E PROCESSUAL CIVIL. RECURSO ESPECIAL. ART. 535 DO CPC/73.OFENSA GENÉRICA. SÚMULA 284/STF. EXECUÇÃO FISCAL. CONSELHO PROFISSIONAL. ANUIDADES. VALOR DA EXECUÇÃO. ART. 8º DA LEI 12.514/2011. PRESCRIÇÃO. TERMO INICIAL. ALCANCE DO VALOR MÍNIMO PARA EXECUÇÃO.
+1. É deficiente a fundamentação do recurso especial em que a alegação de ofensa ao art. 535 do CPC/73 se faz de forma genérica, sem a precisa demonstração de omissão (Súmula 284 do STF).
+2. Esta Corte, interpretando o art. 8º da Lei n. 12.514/2011, consolidou o entendimento de que no valor correspondente a quatro anuidades no ano do ajuizamento computam-se, inclusive, as multas, juros e correção monetária, e não apenas a quantidade de parcelas em atraso.
+3. O processamento da execução fiscal fica desautorizado somente quando os débitos exequendos correspondam a menos de 4 vezes o valor cobrado anualmente da pessoa física ou jurídica inadimplente, tomando-se como parâmetro para definir este piso o valor da anuidade referente ao ano de ajuizamento, bem como os encargos legais (multa, juros e correção monetária). No caso dos autos, a ação fiscal foi ajuizada em 2013, quando já em vigor a Lei n. 12.514/11, assim, aplicável a limitação acima descrita.
+4. As anuidades pagas aos conselhos profissionais possuem natureza tributária, o que, em tese, admitiria o dia seguinte ao vencimento da obrigação como sendo o termo inicial da prescrição.
+5. No entanto, considerando a limitação de valor mínimo para fins de execução criada pela Lei n. 12.514/11, para o ajuizamento da execução, o prazo prescricional dever ter início somente quando o crédito se tornar exequível, ou seja, quando o total da dívida inscrita, acrescida dos respectivos consectários legais, atingir o patamar mínimo exigido pela norma.
+6. Recurso especial conhecido em parte e, nessa extensão, provido para afastar a ocorrência da prescrição(REsp 1.524.930/RS, Rel. Ministro OG FERNANDES, SEGUNDA TURMA, julgado em 02/02/2017, DJe 08/02/2017).
+Ante o exposto, dou provimento ao recurso especial.
+Publique-se. Intime-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. EXECUÇÃO FISCAL.ANUIDADES. CONSELHOS PROFISSIONAIS. CONDIÇÃO IMPOSTA PELA LEI PARA O AJUIZAMENTO DA AÇÃO EXECUTIVA. PRAZO PRESCRICIONAL. TERMO INICIAL. EXEQUIBILIDADE. ORIENTAÇÃO JURISPRUDENCIAL PACÍFICA. RECURSO ESPECIAL PROVIDO.
