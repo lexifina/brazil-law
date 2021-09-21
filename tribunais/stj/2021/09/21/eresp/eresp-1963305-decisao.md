@@ -1,0 +1,15 @@
+DECISÃO
+1. Cuida-se de agravo interposto por UNIMED UBERABA COOPERATIVA DE TRABALHO MEDICO LTDA contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - CONSELHEIRO FURTADO - PÁTIO DO COLÉGIO, assim ementado:
+PRELIMINAR. CERCEAMENTO DE DEFESA. AUSÊNCIA DE ABERTURA DE VISTA À PARTECONTRÁRIA. DOCUMENTOS JUNTADOS NOS AUTOS. A r. sentença não se baseou nos referidos documentos para o deslinde da causa. A nulidade processual em virtude da ausência de vista da juntada de documentos somente deve ser reconhecida nos casos em que enseja um efetivo prejuízo à parte. Se os documentos juntados não serviram de fundamento exclusivo para formação do convencimento da Magistrada, torna-se injustificável anular a sentença para que outra de idêntico teor seja proferida. Mera irregularidade no presente caso.
+PRELIMINAR REJEITADA. PRELIMINAR. SENTENÇA EXTRA PETITA. ALEGAÇÃO DE AUSÊNCIA DE PEDIDO PARA PAGAMENTO DAS DESPESAS HOSPITALARES.
+Internação em nosocômio particular que decorreu da ausência de vaga em hospital da rede credenciada, especializada em transplante de medula. Situação de urgência que impõe ao plano a obrigação pelo pagamento do custo em rede particular. Natureza da obrigação que permanece a mesma (Obrigação de fazer).
+PRELIMINAR REJEITADA. AÇÃO DE OBRIGAÇÃO DE FAZER, CUMULADA COMINDENIZAÇÃO. Sentença de procedência, que determinou a autorização para internação do autor e custeio dos gastos, fixando indenização de R$ 10.000,00 em virtude dos danos morais. Irresignação do plano de saúde. Não acolhimento. Situação de urgência e emergência configurada. Ausência de vaga em UTI com isolamento, conforme preconizado pelo relatório médico (fls. 42). Plano deve arcar com os custos do tratamento em hospital particular na situação específica dos autos. Manutenção dos danos morais fixados. Sentença mantida. RECURSO IMPROVIDO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrenteofensa ao disposto nos arts.12, VI, da Lei 9656/98 e492 DO CPC/15.
+Defende ter ocorrido julgamento além do pedido ao ser determinado pelo t tribunal o pagamento de despesas hospitalares perante o Hospital Alemão Oswaldo Cruz, quando o pedido inicial resumiu-se a simples transferência de nosocômio, sem pedido de reembolso de despesas.
+Alega que o reembolso de despesas hospitalares decorrentes de atendimento emergencial em rede não credenciada está limitado aos valores constantes da tabela do plano de saúde.
+Contrarrazões ao recurso especial às fls. 951-983.
+É o relatório.
+2. Dadaa relevância da argumentação expendida nas razões recursais e as circunstâncias que envolvem a lide, entendo que a matéria merece melhor análise por ocasião do julgamento do recurso especial.
+3. Ante o exposto, dou provimento ao agravo, a fim de determinar sua reautuação como recurso especial, sem prejuízo de nova apreciação acerca do cabimento deste, a ser realizada no momento processual oportuno.
+Publique-se. Intimem-se.
