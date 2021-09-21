@@ -1,0 +1,28 @@
+VISTOS.
+Trata-se de recurso extraordinário interposto por MARCIA FRANCOSO, com fundamento no artigo 102, inciso III, alínea “a”, da Constituição Federal, contra o acórdão proferido pela Primeira Câmara de Direito Público e Coletivo, que restou assim ementado (Id. 82190481):
+“RECURSO DE AGRAVO DE INSTRUMENTO – MANDADO DE SEGURANÇA – REDUÇÃO DE JORNADA SEM PREJUÍZO DA REMUNERAÇÃO – DEPENDENTE DA SERVIDORA (MÃE) PORTADORA DE MAL DE ALZHEIMER – LIMINAR DEFERIDA PELO JUÍZO A QUO - AUSÊNCIA PREVISÃO LEGAL EM NORMA ESPECIAL – APLICAÇÃO DA NORMA GERAL – LEI GERAL DECLARADA INCONSTITUCIONAL – RECURSO PROVIDO.
+1. Considerando que a Agravada é servidora pública municipal, deve-se analisar primeiramente a norma especial que rege a matéria, haja vista que a norma especial prevalece sobre a lei geral.
+2. No caso em apreço, a lei especial (Lei Municipal no 1164/91 – Estatuto do Servidor Público do Município de Várzea Grande) é omissa acerca do assunto. Deve-se, portanto, analisar a legislação geral.
+3. Emenda Constitucional Estadual no 70/2014 declarada inconstitucional pelo Pleno do Tribunal de Justiça do Estado de Mato Grosso (ADI 184575/2015).
+4. Mais recentemente, o Órgão Especial deste Sodalício, também declarou inconstitucional a Lei Complementar Estadual no 607/2018, a qual tratava exatamente desta matéria, qual seja, redução de jornada sem de remuneração à servidores que possuíssem filhos que necessitavam cuidados especiais.
+5. Recurso de Agravo de Instrumento provido.”
+Nas razões do recurso, a recorrente alega, em síntese, violação aos artigos 1o, inciso III, 4o, inciso II, 5o, inciso XXXV, §§2 e 3 e 230, caput, todos da Constituição Federal, ao argumento de que “a matéria deste recurso é relevante para a coletividade dos servidores públicos do Estado de Mato Grosso, sob o ponto de vista jurídico”. Isto porque, “no tocante ao aspecto econômico, eis que a discussão em apreço tem o condão de macular o salário da Recorrente, haja vista que, além de arcar com medicamentos, tem que arcar com a contratação de pessoa para cuidar de sua genitora, haja vista a necessidade de cuidados especiais”.
+Recurso tempestivo e devidamente preparado (ids. 86093968 e 89834954).
+Sem contrarrazões.
+É o relatório.
+Decido.
+Não aplicação da sistemática de recursos repetitivos.
+Não foi verificada a existência, no Superior Tribunal de Justiça, de tema que se relacione às questões discutidas neste recurso e, por consequência, não há aplicação da sistemática de recursos repetitivos, não incidindo, in casu, a previsão do art. 1.030, I, “b”, II e III, do CPC.
+Passo ao exame dos demais pressupostos de admissibilidade.
+Ato decisório não definitivo. Súmula 735 do STF.
+Nos termos do artigo 105, inciso III da Constituição Federal, compete ao Superior Tribunal de Justiça a aplicação e uniformização da interpretação de normas infraconstitucionais, não sendo possível o cabimento de recurso especial tratando-se de acórdão proferido em sede de medida liminar, ante o caráter precário da decisão.
+No caso, verifica-se que a Câmara julgadora retificou a decisão de primeiro grau e, consequentemente, indeferiu a liminar, ressalvando a possibilidade do magistrado reavaliar a questão quando do julgamento do mérito da ação de base.
+Neste caso, portanto, a decisão é provisória, incidindo a Súmula n. 735 do STF, segundo a qual “não cabe recurso extraordinário contra acórdão que defere medida liminar”.
+Confira-se:
+“ADMINISTRATIVO E PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO ESPECIAL. AGRAVO DE INSTRUMENTO. INDEFERIMENTO DE LIMINAR. AÇÃO DE REINTEGRAÇÃO DE POSSE. ARTS. 71 DO DECRETO-LEI 9.760/46 E 102 DO CÓDIGO CIVIL. TESE RECURSAL. NÃO PREQUESTIONADA. SÚMULA 211 DO STJ. QUESTÃO DE MÉRITO AINDA NÃO JULGADA, EM ÚNICA OU ÚLTIMA INSTÂNCIA, PELO TRIBUNAL DE ORIGEM. EXAME. IMPOSSIBILIDADE. SÚMULA 735/STF. REQUISITOS. IMPOSSIBILIDADE DE REVISÃO, NA VIA ESPECIAL. SÚMULA 7/STJ. AGRAVO INTERNO IMPROVIDO. (...) V. A jurisprudência desta Corte é firme no sentido de que "não é cabível recurso especial para reexaminar decisão que defere ou indefere liminar ou antecipação de tutela, em razão da natureza precária da decisão, sujeita a modificação a qualquer tempo, devendo ser confirmada ou revogada pela sentença de mérito" (STJ, AgRg no AREsp 438.485/SP, Rel. Ministro HUMBERTO MARTINS, SEGUNDA TURMA, DJe de 17/02/2014). É o que dispõe a Súmula 735 do STF: "Não cabe recurso extraordinário contra acórdão que defere medida liminar". No mesmo sentido: STJ, AgInt no AREsp 1.085.584/SP, Rel. Ministra MARIA ISABEL GALLOTTI, QUARTA TURMA, DJe de 14/12/2017. VI. Ademais, a iterativa jurisprudência do STJ orienta-se "no sentido de que, para analisar critérios adotados pela instância ordinária para conceder ou não liminar ou antecipação dos efeitos da tutela, é necessário reexaminar os elementos probatórios, a fim de aferir 'a prova inequívoca que convença da verossimilhança da alegação', nos termos do art. 273 do CPC/1973, o que não é possível em Recurso Especial, ante o óbice da Súmula 7/STJ" (STJ, REsp 1.666.019/RJ, Rel. Ministro HERMAN BENJAMIN, SEGUNDA TURMA, DJe de 20/06/2017). (...) VIII. Agravo interno improvido.” (AgInt no AREsp 1351487/RS, Rel. Ministra ASSUSETE MAGALHÃES, SEGUNDA TURMA, julgado em 11/12/2018, DJe 17/12/2018) (g.n.).
+Diante disso, não há como dar seguimento ao recurso especial interposto pela recorrente, ante a incidência do Enunciado Sumular n. 735 do Supremo Tribunal Federal.
+Ante o exposto, no óbice constante da Súmula 735 do STF, nego seguimento ao recurso interposto.
+Publique-se. Intimem-se.
+Cumpra-se.
+Desembargadora Maria Aparecida Ribeiro
+Vice-Presidente do Tribunal de Justiça
