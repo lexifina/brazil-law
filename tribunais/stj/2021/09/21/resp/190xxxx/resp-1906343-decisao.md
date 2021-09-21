@@ -1,0 +1,23 @@
+DECISÃO
+Trata-se de recurso especial interposto peloMINISTÉRIO PÚBLICO DO ESTADO DE MINAS GERAIScom fundamento no art. 105, inciso III, "a", da Constituição Federal, contra acórdão proferido pelo TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS.
+A controvérsia tratada nos autos foi bem relatada no parecer ministerial às e-STJ fls. 249/250, in verbis:
+Trata-se de recurso especial interposto, com fulcro no art. 105, inciso III, alínea "a", da Constituição da República, em face de acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais, que negou provimento ao agravo em execução ministerial.
+Conforme se depreende dos autos, o recorrido cumpria pena de 07 anos e 07 meses de reclusão, pela prática do delito de tráfico de drogas e de porte ilegal de arma de fogo de uso permitido. Posteriormente, foi noticiada a condenação do reeducando pela prática do delito descrito no artigo Porte ilegal de arma de fogo de uso restrito, sendo imposta a pena de 03 anos de reclusão, substituída por duas penas restritivas de direitos.
+A instância ordinária entendeu pela impossibilidade de unificação das penas, devendo ser aplicado o "artigo 76 do Código Penal, segundo o qual "No concurso de infrações, executar-se-á primeiramente a pena mais grave". Logo, deve ser suspensa a pena restritiva de direito estabelecida ao apenado, até que o mesmo tenha cumprido integralmente a pena mais grave, in casu, a pena privativa de liberdade, ou, até que seja possível o cumprimento simultâneo das reprimendas." (Fl. 172 e-STJ)
+Irresignado, o MPMG interpôs Recurso Especial, alegando violação aos arts. 111, caput, e 181, § 1º, alínea "e", ambos da Lei de Execuções Penais, e aos arts. 44, § 5º, e 76, ambos do Código Penal. Sustenta ser incompatível o cumprimento simultâneo das reprimendas privativas de liberdade e restritivas de direito, devendo, de forma inexorável  quando unificadas as penas  , a conversão da posterior em privativa de liberdade.
+Após serem apresentadas as contrarrazões, vieram os autos para manifestação de parecer.
+O Parquet manifestou-se pelo provimento do recurso especial.
+É o relatório.Decido.
+Consoante a jurisprudência desta Corte, "havendo nova condenação no curso da execução e não sendo compatível o cumprimento concomitante da reprimenda restritiva de direitos com a privativa de liberdade anteriormente imposta, faz-se necessária a unificação das penas" (REsp n. 1.728.864/MG, relatorMinistro Jorge Mussi, Quinta Turma, julgado em 17/5/2018, DJe 25/5/2018).
+Nesse sentido:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. EXECUÇÃO PENAL. PENA RESTRITIVA DE DIREITOS. CONDENAÇÃO SUPERVENIENTE. CUMPRIMENTO DE PENA PRIVATIVA DE LIBERDADE EM REGIME FECHADO OU SEMIABERTO. CUMPRIMENTO SIMULTÂNEO. INCOMPATIBILIDADE. CONVERSÃO EM PRIVATIVA DE LIBERDADE. UNIFICAÇÃO. AGRAVO IMPROVIDO.
+1. A jurisprudência desta Corte Superior firmou-se no sentido de que, sobrevindo condenação que impossibilite o cumprimento simultâneo das penas, o que ocorre nos casos de condenações em regime fechado ou semiaberto, deve-se proceder à conversão da sanção restritiva de direitos em privativa de liberdade, unificando-se as penas.
+2. Agravo regimental improvido.
+(AgRg no REsp 1724650/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 11/12/2018, DJe 17/12/2018.)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. EXECUÇÃO. UNIFICAÇÃO DE PENAS. RESTRITIVA DE DIREITO CONVERTIDA EM PRIVATIVA DE LIBERDADE. INCOMPATIBILIDADE DE CUMPRIMENTO SIMULTÂNEO.
+1. Sobrevindo nova condenação, incumbe ao Juízo das Execuções Criminais proceder à unificação das penas, adequando o regime prisional ao resultado da soma, observadas, quando for o caso, a detração ou remição.
+2. Na esteira do disposto no § 5º do art. 44 do CP, a jurisprudência do Superior Tribunal de Justiça firmou entendimento no sentido de que, sobrevindo nova condenação, somente é possível a manutenção da pena restritiva de direitos na hipótese em que exista compatibilidade no cumprimento simultâneo das reprimendas, o que não ocorre na hipótese dos autos.
+3. No caso, o recorrente cumpria pena restritiva de direito quando sobreveio condenação à pena privativa de liberdade em regime fechado. Assim, verificada a incompatibilidade no simultâneo cumprimento das reprimendas, deve ser mantido o acórdão que converteu em privativa de liberdade a pena restritiva de direito. Precedentes.
+4. Agravo regimental improvido.(AgRg no HC 469.082/MG, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 12/2/2019, DJe 20/2/2019, grifei.)
+Ante o exposto, dou provimento ao recurso especial, para determinar ao Juízo da execução penal a conversão da pena restritiva de direitos em pena privativa de liberdade para fins de unificação das penas.
+Publique-se. Intimem-se.
