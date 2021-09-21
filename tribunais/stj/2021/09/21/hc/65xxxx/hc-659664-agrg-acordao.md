@@ -1,0 +1,78 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, não conhecer do agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. PRETENSÃO DE DESCLASSIFICAÇÃO PARA O CRIME DE HOMICÍDIO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃONOS ELEMENTOS DE PROVAS DOS AUTOS.FUNDAMENTO NÃO INFIRMADO. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. FEITO APRESENTADO EM MESA.AGRAVO REGIMENTAL NÃO CONHECIDO.
+1.É inviável o agravo regimental que deixa de atacar especificamente os
+fundamentos da decisão impugnada.É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão combatida, conforme entendimento firmado pela Corte Especial.
+2.O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos da impetração.
+3. Consoante jurisprudência firmada pela Terceira Seção desta Corte, nos termos dos arts. 159, IV e 258 do RISTJ, o feito relativo ao agravo regimental em matéria penal será apresentado em mesa para julgamento e não cabe sustentação oral das razões do recurso pelo patrono da parte.
+4. Agravo regimental não conhecido.
+RELATÓRIO
+ANTONIO MARCO BRAGA CAMPOSinterpõe agravo regimental contra adecisão de fls. 1.474-1.477, em que deneguei a ordem a este habeas corpus, nostermos do art. 34, XX, do RISTJ, que pretendia a desclassificação da conduta imputada de latrocínio para o de homicídio.
+No presente recurso, adefesa repetiu os argumentos anteriormente expendidos: não haver nos autos elementos de prova relativa à subtração de bens ou a sua tentativa, como pode se aferido pelos depoimentos das testemunhas Tereza de Fátima Severo do Prado e Isaura de Oliveira Lima.
+Pleiteia, portanto, a submissão do recurso à turma julgadora.
+Juntou-se aos autos a petição de fls. 1.489-1.494, em que se requer a intimação do patrono do paciente para que possa proferirsustentação oral no julgamento do presente feito.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. LATROCÍNIO. PRETENSÃO DE DESCLASSIFICAÇÃO PARA O CRIME DE HOMICÍDIO. IMPOSSIBILIDADE. NECESSIDADE DE INCURSÃONOS ELEMENTOS DE PROVAS DOS AUTOS.FUNDAMENTO NÃO INFIRMADO. SUSTENTAÇÃO ORAL. IMPOSSIBILIDADE. FEITO APRESENTADO EM MESA.AGRAVO REGIMENTAL NÃO CONHECIDO.
+1.É inviável o agravo regimental que deixa de atacar especificamente os
+fundamentos da decisão impugnada.É condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão combatida, conforme entendimento firmado pela Corte Especial.
+2.O princípio da dialeticidade impõe à parte a demonstração específica do desacerto das razões lançadas no decisum atacado, sob pena de não conhecimento do recurso. Não são suficientes, para tanto, alegações genéricas ou a repetição dos termos da impetração.
+3. Consoante jurisprudência firmada pela Terceira Seção desta Corte, nos termos dos arts. 159, IV e 258 do RISTJ, o feito relativo ao agravo regimental em matéria penal será apresentado em mesa para julgamento e não cabe sustentação oral das razões do recurso pelo patrono da parte.
+4. Agravo regimental não conhecido.
+VOTO
+Não obstante os esforços perpetrados pelo ora agravante, não constato argumentos suficientes a infirmar o decisum agravado, cujo teor, no que importa, transcrevo (fls. 1.474-1.477):
+Acerca da questão, o Tribunal local se manifestounos autos da revisão criminalnos seguintes termos (fls. 909-912, grifos nossos e no original):
+2. Mediante nova análise do conteúdo probatório, a defesa alega ausência deanimus furandiem relação ao ilícito de latrocínio, e insuficiência de provas quanto ao delito de formação de quadrilha.
+Não apresenta, todavia, qualquer prova nova capaz de alicerçar decreto de inocência do réu.
+Verifico, de outra banda, que a sentença efetuou análise detalhada dos elementos probatórios dos autos, tendo os integrantes da Quarta Câmara Criminal, depois, à unanimidade, a confirmado.
+Embora evidenciado o propósito da defesa em utilizar a presente revisão criminal para o reexame da mesma matéria já fartamente analisada na instânciaa quo, bem como por este Tribunal -o que, aliás, vedado em sede de revisão criminal -saliento que no presente caso o argumento relativo ao ilícito de latrocínio difere daqueles vertidos nos autos originais.
+Merece o argumento de ausência deanimus furandi, assim, o devido enfrentamento.
+Razão, contudo, não assiste à defesa.
+Muito embora alegue que o assalto não foi anunciado pelos meliantes -dentre eles o aqui requerente- fato é que a prova demonstrou a prévia articulação da conduta contra o patrimônio, com anteriores idas dos réus ao mercado da vítima, conforme testemunhalmente declarado.
+Destaco, no ponto, preciso trecho da sentença, ao dispor que ".. os réus premeditaram o crime,sondando o local, observando o movimento e planejando estrategicamente a execução do mesmo.Assimo afirmo por quede acordo com o depoimento da testemunha Edison Luís Santos de Souza viu o réu Rossano,acompanhado das co-rés Suelem e Darliane no comércio da vítima, por duas vezes, antes do horário do assalto.
+Os réus Antônio Marcos, Lucimar Aquiles e Orlando Dias executaram o crime, aguardando o melhor momento para seu intento, aproveitando-se da falta de energia, o que dificultou qualquer percepção imediata do que estava acontecendo e, por consequência, qualquer tipo de reação das vítimas. Rossano, Suelem e Darliane prestaram suporte material e moral, aguardando os demais co-réus em veículos estacionados nos fundos do mercado, os quais serviram para a fuga.
+(..)
+o que de fato procuravam, dinheiro, certamente conseguiriam, não fosse a reação da vítima Sílvio diante da ameaça as crianças presentes no local -foi colocada uma arma na cabeça de uma das crianças".
+Restou claro da prova oral que diante da inesperada reação da vítima também com arma de fogo -nitidamente motivada pelo terror implantado pelos criminosos a todos, especialmente no momento em que ameaçaram matar criança de dois anos de idade os réus a alvejaram antes mesmo de lhe exigirem valores.
+Diante daquele instaurado cenário de conflito bélico, em que o ofendido primeiro atingiu um dos delinquentes, fugiram os infratores após também dispararem contra aquele, sem ter tido chance de atingir, assim, ante a reação da vítima, o intento de subtrair seu patrimônio.
+Tal situação, porém, não afasta a tipificação do delito de latrocínio, conforme orientação da Súmula 610 do STF.
+Em relação ao fato dos infratores, durante o perpetrar do delito, terem perguntado pelo proprietário do estabelecimento comercial, em nada induz ao entendimento de ocorrência de crime contra a vida.
+Pelo contrário, denota que eles visavam o patrimônio do estabelecimento comercial, o qual somente o proprietário poderia lhes indicar/alcançar. Fosse intento dos criminosos praticar execução, sem qualquer dúvida já conheceriam a face de seu alvo.
+E afastando de vez qualquer dúvida acerca do efetivo intento criminoso contra o patrimônio da vítima, as palavras do corréu Lucimar Aquiles de Lima, que noticiou foram "..praticar um furto no local mencionado na denúncia, Mercado do Alemão, mas foi recebido a tiros".
+Demonstrado, assim, que os meliantes, dentre eles o ora requerente, no intuito de subtrair bens, visavam isso perpetrar mesmo que precisassem, para tanto atingir, matar.
+Enfim, nada a modificar quanto ao ilícito de latrocínio.
+Pelotrechotranscrito, verifico que ainstânciaordinária, após a análise das provas constantes nos autos, concluiuhaverelementos concretos e coesosa ensejar a condenação do paciente pelo crime de latrocínio.
+Por essas razões, mostra-se inviável a desclassificação da conduta imputada ao réu para homicídio, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Ademais, para se concluir pela desclassificação da conduta imputada, como pretendido, seria necessáriaa incursão nos elementos de fato e de provas dos autos, providência vedada no habeas corpus.
+A propósito, os seguintes precedentes:
+ ..
+2. Ohabeas corpusnão se presta para a apreciação de alegações que buscam a absolvição do paciente ou de desclassificação da conduta, em virtude da necessidade de revolvimento do conjunto fático-probatório, o que é inviável na via eleita.
+3. Se as instâncias ordinárias, mediante valoração do acervo probatório produzido nos autos, entenderam, de forma fundamentada, ser o réu autor do delito descrito na exordial acusatória, a análise das alegações concernentes ao pleito de absolvição demandaria exame detido de provas, inviável em sede dewrit.
+ ..
+8. Agravo regimental desprovido.
+(AgRg nos EDcl no HC n. 458.521/RS, Rel. MinistroRibeiro Dantas,5ª T., DJe 15/10/2019)
+ ..
+3. Tendo a Corte de origem, soberana na apreciação da matéria fático-probatória, concluído pela ocorrência de latrocínio e afastado o pleito de desclassificação para roubo e homicídio, não há como, na via eleita, rever tal posicionamento, nos termos do óbice da Súmula 7/STJ, a fim de afastar a condenação ocorrida nas instâncias ordinárias.
+4. Embora o recurso tenha sido interposto também com fundamento no art. 105, III, c, da Constituição Federal, não se logrou comprovar o dissídio jurisprudencial, uma vez que sequer foram transcritas ementas de acórdãos, aptos a demonstrar o dissenso interpretativo em relação a lei federal.
+5. Agravo regimental improvido.
+(AgRg no AREsp 1039864/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 27/02/2018, DJe 08/03/2018)
+Conforme se observa nas razões do regimental, a defesa furtou-se a infirmar o fundamento para a denegação da ordem - de que a instância ordinária, "após a análise das provas constantes nos autos, concluiu haver elementos concretos e coesos a ensejar a condenação do paciente pelo crime de latrocínio" e que, para se concluir de modo diverso "seria necessária a incursão nos elementos de fato e de provas dos autos, providência vedada no habeas corpus" (fl. 1.476)-e, portanto, apenas repete os argumentos anteriormente sustentados no writ.
+Consoante jurisprudência deste Tribunal Superior, é condição necessária à admissibilidade de qualquer recurso que a parte interessada impugne os fundamentos da decisão que pretende seja reformada.
+O princípio da dialeticidade impõe à parte a demonstração específica dodesacerto das razões lançadas no decisum atacado, sob pena de nãoconhecimento do recurso. Não são suficientes, para tanto, meras alegaçõesgenéricas ou a repetição dos termos da impetração.
+Com essa compreensão, cito o precedente firmado na Terceira Secção:
+PROCESSO CIVIL. EMBARGOS DE DIVERGÊNCIA. IMPUGNAÇÃO ESPECÍFICA DE TODOS OS FUNDAMENTOS DA DECISÃO RECORRIDA. ART. 544, § 4º, I, DO CPC/1973. ENTENDIMENTO RENOVADO PELO NOVO CPC, ART. 932. 1. No tocante à admissibilidade recursal, é possível ao recorrente a eleição dos fundamentos objeto de sua insurgência, nos termos do art. 514, II, c/c o art. 505 do CPC/1973. Tal premissa, contudo, deve ser afastada quando houver expressa e específica disposição legal em sentido contrário, tal como ocorria quanto ao agravo contra decisão denegatória de admissibilidade do recurso especial, tendo em vista o mandamento insculpido no art. 544, § 4º, I, do CPC, no sentido de que pode o relator "não conhecer do agravo manifestamente inadmissível ou que não tenha atacado especificamente os fundamentos da decisão agravada" - o que foi reiterado pelo novel CPC, em seu art. 932. 2. A decisão que não admite o recurso especial tem como escopo exclusivo a apreciação dos pressupostos de admissibilidade recursal.
+Seu dispositivo é único, ainda quando a fundamentação permita concluir pela presença de uma ou de várias causas impeditivas do julgamento do mérito recursal, uma vez que registra, de forma unívoca, apenas a inadmissão do recurso. Não há, pois, capítulos autônomos nesta decisão.
+3. A decomposição do provimento judicial em unidades autônomas tem como parâmetro inafastável a sua parte dispositiva, e não a fundamentação como um elemento autônomo em si mesmo, ressoando inequívoco, portanto, que a decisão agravada é incindível e, assim, deve ser impugnada em sua integralidade, nos exatos termos das disposições legais e regimentais.
+4. Outrossim, conquanto não seja questão debatida nos autos, cumpre registrar que o posicionamento ora perfilhado encontra exceção na hipótese prevista no art. 1.042, caput, do CPC/2015, que veda o cabimento do agravo contra decisão do Tribunal a quo que inadmitir o recurso especial, com base na aplicação do entendimento consagrado no julgamento de recurso repetitivo, quando então será cabível apenas o agravo interno na Corte de origem, nos termos do art.1.030, § 2º, do CPC.
+5. Embargos de divergência não providos.
+(EAREsp 746.775/PR, Rel. Ministro JOÃO OTÁVIO DE NORONHA, Rel. p/ Acórdão Ministro LUIS FELIPE SALOMÃO, CORTE ESPECIAL, julgado em 19/09/2018, DJe 30/11/2018)
+Ausentes fatos novos ou teses jurídicas diversas que permitam a análise do caso sob outro enfoque, deve ser mantida a decisão agravada.
+Por fim, no tocante ao pedido deintimação do advogado para a realização de sustentação oral no julgamento do agravo regimental, destaco que, nesse tipo de recursoo feito é apresentado em mesa para julgamento e não caberá sustentação oral pelo seu patrono, nos termos dos arts. 258 e 159, IV, ambos do Regimento Interno do STJ.
+Ilustrativamente:
+ ..
+2. Com efeito, "a Terceira Seção do Superior Tribunal de Justiça sedimentou o entendimento de que "o Regimento Interno desta Corte prevê, expressamente, em seu art. 258, que trata do Agravo Regimental em Matéria Penal, que o feito será apresentado em mesa, dispensando, assim, prévia inclusão em pauta. A disposição está em harmonia com a previsão de que o agravo não prevê a possibilidade de sustentação oral (art. 159, IV, do Regimento Interno do STJ)" (EDcl no AgRg nos EREsp n. 1.533.480/RR, Rel. Min. Reynaldo Soares da Fonseca, DJe de 31/5/2017). (AgRg no HC 557.437/RJ, Rel. Ministro LEOPOLDO DE ARRUDA RAPOSO (DESEMBARGADOR CONVOCADO DO TJ/PE), QUINTA TURMA, julgado em 10/03/2020, DJe 16/03/2020).
+3. Ademais, o recurso especial foi inadmitido, em face da incidência das Súms. 7 e 83 do STJ. Nas razões do agravo, todavia, limitou-se a defesa a sustentar que "há posicionamento divergente acerca da matéria no Egrégio Superior Tribunal de Justiça, o que, efetivamente, demanda a necessidade de aplicação do princípio da insignificância, em relação a conduta penal imputada ao acusado/agravante". Deixou, todavia, de rebater a incidência da Súm. n. 7/STJ.
+4. Como tem reiteradamente decidido esta Corte, os recursos devem impugnar, de maneira específica e pormenorizada, todos os fundamentos da decisão contra a qual se insurgem, sob pena de vê-los mantidos. Não são suficientes meras alegações genéricas sobre as razões que levaram à inadmissão do recurso especial ou a insistência no mérito da controvérsia.
+5. Agravo regimental a que se nega provimento. (AgRg no AREsp 1690985/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 16/06/2020, DJe 23/06/2020)
+À vista do exposto, não conheço do agravo regimental.
