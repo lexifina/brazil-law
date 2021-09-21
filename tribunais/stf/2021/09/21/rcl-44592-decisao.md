@@ -1,0 +1,27 @@
+DECISÃO
+    1. Valec Engenharia Construções e Ferrovias S/A alega descumprimento, por parte do Tribunal Regional Federal da 1ª Região, ao quanto decidido por esta Corte Constitucional, com eficácia vinculante, nos julgamentos da arguição de descumprimento de preceito fundamental n. 387 e ação direta de inconstitucionalidade n. 2.332.
+    Colhe-se dos autos que o órgão judiciário reclamado, ao julgar apelação interposta pela reclamante em sede de ação de desapropriação por ela promovida, negou-lhe a submissão do pagamento da justa indenização à sistemática dos precatórios. Extrai-se, ainda, que aquela Corte de Justiça fixou o percentual de juros compensatórios no valor de 6% ao ano.
+    Sustenta a reclamante ser empresa pública prestadora de serviço público de natureza não concorrencial e que, por tal razão, o afastamento do regime de precatórios para pagamento de seus débitos diverge da orientação firmada pelo Supremo Tribunal Federal na ADPF 387/PI; argui, de outro lado, que a fixação de juros compensatórios de modo cogente e automático ofende o julgamento vinculante desta Corte nos autos da ADI 2.332/DF.
+    Por entender presentes os pressupostos autorizadores da tutela de urgência, deferi o pedido de medida liminar pleiteado nestes autos, em ordem a suspender os efeitos da decisão reclamada.
+    Citada a parte beneficiária, não foi apresentada contestação.
+    A Procuradoria-Geral da República manifestou-se pela parcial procedência da reclamação,para cassar a decisão reclamada e determinar que outra seja proferida, com a observância dos critérios definidos na ADPF n. 387.
+    É o relatório.
+    2. Entendo assistir razão à parte reclamante no ponto em que alega descumprimento à orientação firmada na ADPF n. 387.
+    É que, tal como afirmei na decisão que apreciou o pedido de medida cautelar, o Supremo Tribunal Federal assentou, no julgamento do referido processo de fiscalização normativa abstrata, a aplicação do regime de pagamento por precatórios às sociedades de economia mista prestadoras de serviço próprio do Estado e em regime não concorrencial.
+    Embora conste da ementa de tal julgado alusão expressa somente às sociedades de economia mista, não vejo razão para deixar de estender essa orientação às empresas públicas, considerando a similitude de regimes jurídicos entre referidos integrante das Administração Pública Indireta.
+    Entendo que a reclamante atende às exigências firmadas naquele julgamento. Consulta ao estatuto social da VALEC revela que a autora tem por fim social a construção e a exploração de infraestrutura ferroviária, inclusive executando a política de livre acesso ao Subsistema Ferroviário Federal na forma definida pelo Poder Executivo.
+    Correta, portanto, a tese autoral consistente na natureza da empresa pública reclamante de prestadora de serviço próprio do Estado em regime não concorrencial, circunstância que atrai a incidência ao caso ora em exame da orientação firmada na ADPF 387/PI.
+    Não é por outro motivo que reclamações ajuizadas pela mesma autora (Valec) a respeito de controvérsia idêntica à destes autos têm sido julgadas procedentes por diferentes Ministros desta Corte: 40.521, Ministro Alexandre de Moraes, DJe 15/5/2020; 36.749, Ministro Edson Fachin, DJe 25/5/2020; 47.142, Ministro Dias Toffoli, DJe 15/09/2021.
+    De outro lado, não merece acolhida a pretensão da parte reclamante no que toca à suposta violação à ADI 2.332.
+    É que o acórdão impugnado ancorou-se em prova pericial que atestou a capacidade produtiva do terreno expropriado, conforme se depreende do seguinte trecho:
+    As alegações veiculadas no recurso, embora já tenham sido afastadas pela sentença, são reeditadas na tese de que o depósito prévio é suficiente para o pagamento da justa indenização pela desapropriação.
+    Com relação à classificação da capacidade do uso da terra, em razão da presença de afloramentos rochosos presentes em boa parte do terreno, a sentença recorrida afastou as objeções da empresa, consignando que a perícia oficial observou todas “as características levantadas pela expropriante”, razão pela qual ela deveria ser acatada.
+    Atestou o perito oficial que o solo do terreno é classificado em três faixas, sendo que, boa parte dele (63%) consiste em terrenos que exigem práticas intensivas ou complexas para que possam ser cultivadas em razão das limitações que apresenta como a presença de pedregosidades.
+    E observou também que outros 7% por cento são caracterizados por afloramentos rochosos e que somente a parcela de 30% do terreno é classificada como boa para o cultivo, mas que mesmo assim exige algum cuidado especial para que possa ser cultivada (fls. 206 e 207).
+    Resta claro que a avaliação não deixou de considerar nenhum traço característico do solo no cômputo do preço do imóvel, restando sem fundamento, com a devida vênia, a alegação da apelante.
+    Não vejo como divergir da conclusão a que chegou o órgão reclamado sem reexaminar o conjunto probatório carreado aos autos de origem, providência vedada pela jusrisprudência desta Corte (Rcl 19.849-AgR/RJ, Ministra Rosa Weber; Rcl 38.973/SP, Ministro Luiz Fux).
+    Por todo o exposto, julgo parcialmente procedente a presente reclamação, para cassar a decisão reclamada no ponto em que determinou a submissão da reclamante ao regime de pagamento das empresas privadas, devendo o órgão reclamado proferir outra decisão com a observância dos critérios definidos na ADPF 387/PI.
+    Intime-se. Publique-se.
+Brasília, 21 de setembro de 2021.
+Ministro NUNES MARQUES
+Relator
