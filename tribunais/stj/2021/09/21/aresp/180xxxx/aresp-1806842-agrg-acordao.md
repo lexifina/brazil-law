@@ -1,0 +1,71 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da QUINTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental.
+Os Srs. Ministros Jesuíno Rissato (Desembargador Convocado do TJDFT), João Otávio de Noronha, Reynaldo Soares da Fonseca e Ribeiro Dantas votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL. LAVAGEM DE BENS E VALORES. OFENSA AO ART. 155 DO CÓDIGO DE PROCESSO PENAL -CPP. NÃO OCORRÊNCIA. AUSÊNCIA DE DOLO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em violação do art. 155 do CPP, pois as provas utilizadas para a condenação do agravante não derivam exclusivamente dos elementos colhidos na fase investigativa, mas também das provas que foram ratificadas em juízo sob o crivo do contraditório.
+2. "À luz do art. 155 do CPP, é possível condenar o réu com lastro em interceptação telefônica (prova cautelar com contraditório diferido) convergente com as demais provas obtidas no processo penal e com a declaração de testemunha ouvida na fase policial" (REsp 1688915/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 20/3/2018).
+3. Do mesmo modo, a revisão do entendimento firmado pelo Tribunal a quo, no sentido de absolver o agravante ante a ausência de conhecimento da origem ilícita da quantia a ele repassada, demandaria, necessariamente, o reexame de provas dos autos, providência vedada pela Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+RELATÓRIO
+Trata-se de agravo regimental interposto contra decisão de fls. 6079/6085, em que dei provimento ao agravo regimental para conhecer do agravo e negar provimento ao recurso especial, diante da ausência de ofensa ao art. 155 do CPP, além do óbicecontido na Súmula n.7/STJ.
+O agravante repisa os argumentos expendidos no apelo especial, alegando a ausência de provas judiciais para condenação e a ausência de dolo (não conhecimento da origem ilícita dos valores).
+Pleiteia, assim, a reconsideração da decisão agravada ou a submissão do presente recurso ao órgão colegiado.
+É o relatório.
+EMENTA
+AGRAVO REGIMENTAL NO AGRAVO REGIMENTAL NOAGRAVO EM RECURSO ESPECIAL. LAVAGEM DE BENS E VALORES. OFENSA AO ART. 155 DO CÓDIGO DE PROCESSO PENAL -CPP. NÃO OCORRÊNCIA. AUSÊNCIA DE DOLO. NECESSIDADE DE REEXAME DE PROVAS. INCIDÊNCIA DA SÚMULA N. 7 DO SUPERIOR TRIBUNAL DE JUSTIÇA - STJ. AGRAVO REGIMENTAL DESPROVIDO.
+1. Não há falar em violação do art. 155 do CPP, pois as provas utilizadas para a condenação do agravante não derivam exclusivamente dos elementos colhidos na fase investigativa, mas também das provas que foram ratificadas em juízo sob o crivo do contraditório.
+2. "À luz do art. 155 do CPP, é possível condenar o réu com lastro em interceptação telefônica (prova cautelar com contraditório diferido) convergente com as demais provas obtidas no processo penal e com a declaração de testemunha ouvida na fase policial" (REsp 1688915/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 20/3/2018).
+3. Do mesmo modo, a revisão do entendimento firmado pelo Tribunal a quo, no sentido de absolver o agravante ante a ausência de conhecimento da origem ilícita da quantia a ele repassada, demandaria, necessariamente, o reexame de provas dos autos, providência vedada pela Súmula n. 7/STJ.
+4. Agravo regimental desprovido.
+VOTO
+O agravante não trouxe nenhum argumento apto a ensejar a reforma do juízo monocrático, nesse contexto, não há razões para alterar a decisão agravada, que ora mantenho, in verbis (fls.6080/6085):
+"O Tribunal de origem, com base no acervo probatório, manteve a condenação do agravanteFABIO ALENCAR DA ROSA, mediante seguinte fundamentação(fls. 4848/4850):
+"Aliás, não procede a alegação de Fábio Alencar da Rosa de que o não haveria prova da origem ilícita do bem.
+O próprio acusado Rodrigo, ao ser interrogado nos autos n. 0016251-25.2016.8.24.0023 (p. 2.891), afirmou que não possuía condições financeiras de arcar com a aquisição de um VW Tiguan, porém, confirmou que o adquiriu com o auxílio da família. Na verdade, a conversa interceptada à p. 201 demonstra que Rodrigo adquiriu o bem por R$ 141.000,00 (cento e quarenta e um mil reais), provavelmente pagos em dinheiro vivo.
+Todavia, ainda em seu interrogatório judicial, Rodrigo afirmou que havia emprestado R$ 180.000,00 (cento e oitenta mil reais) em dinheiro, para Glauber Bathke Dias, mas ao ser questionado pelo magistrado acerca da origem desses valores, limitou-se a alegar que possuía uma poupança desde os 16 anos de idade, o que não é crível.
+É evidente que os valores são provenientes da venda de entorpecentes, a qual ocorria em larga escala, inclusive os utilizados para a aquisição do Hyundai HB20.
+(..)
+De outro lado, totalmente infundada a tese de que o veículo seria apenas um presente de Rodrigo Poleto para sua companheira Samara, pois além de a movimentação financeira da conta bancária da acusada ser incondizente com o percebido por ela no emprego de secretária, revelando que auxiliava nas finanças do grupo, o fato de o veículo ter sido registrado em nome de Fábio Alencar da Rosa e não em nome dela derrui, por completo, esta alegação defensiva.
+Assim, restou demonstrado que Lucas, Samara e Fábio concorreram para a prática da lavagem, na medida em que introduziram dinheiro ilícito no sistema financeiro, dificultando a identificação da procedência dos valores de modo a evitar qualquer ligação entre o agente e o resultado obtido com a prática do crime antecedente, e, posteriormente adquiriram licitamente um bem móvel.
+Veja-se, outrossim, que por determinação de Rodrigo Poleto, Lucas reuniu valores oriundos do comércio de entorpecentes e os depositou em contas bancárias de "laranjas", repassados posteriormente a uma conta bancária da acusada Samara, que efetuou o saque e repassou o dinheiro a Fábio Alencar da Rosa, responsável pela aquisição do veículo HB2OX e o registro do bem em seu nome.
+O diálogo travado entre Lucas e Rodrigo Poleto em 13-10-2014 confirma as ordens de depósito de R$ 50.000,00 (cinquenta mil reais) e repasse do número da conta de um "laranja" pelo último, oportunidade em que Lucas diz que tem mais de R$ 40.000,00 (quarenta mil reais), mas que até às três horas da tarde iria ter um pouco mais (p. 251/252).
+Ademais, naquela mesma data, um companheiro de cela de Rodrigo Poleto faz contato com terceiro e solicita o número de uma conta, alegando que "precisava jogar 50 mil real" (p. 252), sendo informados os dados bancários: Banco Santander, ag. 0296, conta corrente 01020394-8, titular Aline S. Amoroso Gastaldini (p. 252/253).
+Tem-se, ainda, o documento de p. 2.194 dos autos n.0030177-44.2014.8.24.0023 (quebra de sigilo bancário), por meio do qual é possível observar que os R$ 50.000,00 (cinquenta mil reais) foram creditados na conta de Samara Martins (R$ 25.000,00 no dia 14-10-2014 e R$ 25.000,00 no dia 16-10-2014).
+Fábio Alencar da Rosa tinha plena consciência do que estava fazendo, não havendo espaço para a aplicabilidade do disposto nos arts. 13, § 1º, 20, § 1º ou 21, todos do Código Penal.
+E como bem registrado pelo Procurador de Justiça, o contexto probatório afasta a superveniência de causa independente, haja vista que a censurabilidade criminal reside no ato do apelante de colocar sob sua titularidade bem adquirido com recursos originados de atividades delituosas e, da mesma forma, contrapõe-se aos alegados erro plenamente justificado pelas circunstâncias e erro inevitável sobre a ilicitude do fato, pois as circunstâncias fáticas apontam à ilicitude do numerário e negociação realizada para lhe conferir licitude, traduzindo o proceder a prática de lavagem de capitais.
+O bem elaborado diagrama de p. 260 afasta qualquer dúvida acerca da presença do dolo dos agentes ao praticarem o delito ora analisado, devendo a condenação ser mantida, nos exatos termos da sentença."
+Nesse contexto, não há falar em violação do art. 155 do CPP, pois as provas utilizadas para a condenação do agravante não derivam exclusivamente dos elementos colhidos na fase investigativa, mas também das provas que foram ratificadas em juízo sob o crivo do contraditório.
+A propósito:
+PENAL. PROCESSO PENAL. AGRAVO REGIMENTAL NO RECURSO ESPECIAL. OPERAÇÃO CURIÓ. TRÁFICO INTERNACIONAL DE ENTORPECENTES E ASSOCIAÇÃO PARA O TRÁFICO. DECISÃO AGRAVADA DEVIDAMENTE FUNDAMENTADA. AUSÊNCIA DE VIOLAÇÃO DO ART. 155 DO CPP. PENA-BASE. QUANTIDADE DE DROGA. FUNDAMENTAÇÃO IDÔNEA. COMPROVAÇÃO DA REINCIDÊNCIA DO ACUSADO. AGRAVO REGIMENTAL NÃO PROVIDO.
+(..)
+2. O art. 155 do Código de Processo Penal preconiza estar vedada a condenação do réu fundada exclusivamente em elementos de informação colhidos durante o inquérito e não submetidos ao crivo do contraditório e da ampla defesa, ressalvadas as provas cautelares e não repetíveis. Entretanto, segundo reiterada jurisprudência desta Corte, em atendimento ao princípio da livre persuasão motivada, tais provas, desde que corroboradas por elementos de convicção produzidos na fase judicial, podem ser valoradas na formação do juízo condenatório, como ocorreu no caso concreto (AgRg nos EDcl no REsp n. 1.537.863/SC, Rel. Ministro RIBEIRO DANTAS, QUINTA TURMA, julgado em 27/8/2019, DJe 2/9/2019).
+3. No caso dos autos, as instâncias de origem não se basearam apenas em elementos de convicção reunidos no inquérito para motivar a condenação, não podendo se falar em utilização de prova não sujeita ao crivo do contraditório e, pois, em violação do art. 155 do CPP.
+(..)
+6. Agravo regimental não provido.
+(AgRg no REsp 1866666/SC, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA,DJe 25/08/2020).
+AGRAVO REGIMENTAL NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. TRÁFICO DE ENTORPECENTES. VIOLAÇÃO AO ART. 155 DO CPP. NÃO VERIFICADO. CONDENAÇÃO ANTERIOR. ULTRAPASSADO O PERÍODO DEPURADOR. MAUS ANTECEDENTES. MANUTENÇÃO. MINORANTE NEGADA. REGIME SEMIABERTO MANTIDO. SUBSTITUIÇÃO POR RESTRITIVAS. PREJUDICADO. REGIMENTAL IMPROVIDO.
+(..)
+2. Entende este Superior Tribunal de Justiça que as provas inicialmente produzidas na esfera inquisitorial e, depois, reexaminadas na instrução criminal, com observância do contraditório e da ampla defesa, não ensejam a ofensa ao art. 155 do Código de Processo Penal. Precedentes.
+(..)
+5. Agravo regimental improvido.
+(AgRg nos EDcl no AREsp 1006059/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA,DJe 02/04/2018).
+Ademais,À luz do art. 155 do CPP, é possível condenar o réu com lastro em interceptação telefônica (prova cautelar com contraditório diferido) convergente com as demais provas obtidas no processo penal e com a declaração de testemunha ouvida na fase policial(REsp 1688915/RJ, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 20/03/2018).
+Do mesmo modo, a revisão do entendimento firmado pelo Tribunala quo, no sentido de absolver o agravante ante a ausência de conhecimento da origem ilícita da quantia a ele repassada, demandaria, necessariamente, o reexame de provas dos autos, providência vedada pela Súmula n. 07/STJ.
+Nesse sentido:
+DIREITO PENAL. PROCESSO PENAL. RECURSO ESPECIAL. CORRUPÇÃO PASSIVA. LAVAGEM DE ATIVOS. OMISSÃO ACÓRDÃO DE APELAÇÃO. NÃO CONFIGURAÇÃO. REDISCUSSÃO DE FUNDAMENTOS DE DECIDIR. ACLARATÓRIOS. INADEQUAÇÃO DA VIA RECURSAL. ART. 4º, § 16, DA LEI 12.850/2013. PROVA DE CORROBORAÇÃO. AGENTE POLÍTICO. ATO DE OFÍCIO. COMPROVAÇÃO. OVERRULING JURISPRUDENCIAL. APLICAÇÃO RETROATIVA. POSSIBILIDADE. LAVAGEM DE DINHEIRO. MERO EXAURIMENTO DE DELITO ANTECEDENTE. NÃO OCORRÊNCIA. DOSIMETRIA. AUSÊNCIA DE FLAGRANTE ILEGALIDADE. ALTERAÇÃO DAS PENAS PRIVATIVA DE LIBERDADE E PECUNIÁRIA. IMPOSSIBILIDADE. CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA. PROGRESSÃO DE REGIME. REPARAÇÃO. ART. 33, 4º, DO CÓDIGO PENAL. CONSTITUCIONALIDADE. AGRAVO DESPROVIDO.
+(..)
+XI - Reconhecido pela c. Corte a quo, por meio de elementos concretos, a prática de condutas tendentes a dissimular e ocultar valores de origem ilícita, entender de modo contrário, demandaria o revolvimento do conjunto fático-probatório, providência que encontra óbice no verbete sumular n. 7/STJ.
+(..)
+Agravo Regimental desprovido.
+(AgRg no REsp 1786891/PR, Rel. Ministro FELIX FISCHER, QUINTA TURMA, DJe 23/09/2020).
+RECURSOS ESPECIAIS. ADMISSIBILIDADE. ÓBICES PRELIMINARES. DENÚNCIA ANÔNIMA. INEXISTÊNCIA. MINISTÉRIO PÚBLICO. INVESTIGAÇÃO. NULIDADE DO PROCEDIMENTO INVESTIGATÓRIO. SIGILO FISCAL E TELEFÔNICO. QUEBRA.NULIDADES. PERSECUÇÃO PENAL. ELEMENTOS DE INFORMAÇÃO NÃO UTILIZADOS PARA DEFLAGRAÇÃO DO PROCESSO PENAL. MATÉRIAS ANALISADAS EM HABEAS CORPUS. SUPERAÇÃO. ATIPICIDADE. NÃO OCORRÊNCIA. NULIDADES NA INSTRUÇÃO CRIMINAL. NÃO CONFIGURAÇÃO. OMISSÃO DO ACÓRDÃO. IMPROCEDÊNCIA. DOSIMETRIA. FLAGRANTE ILEGALIDADE. RECURSOS ESPECIAIS CONHECIDOS PARA REDUZIR AS PENAS IMPOSTAS. CONCESSÃO DE HABEAS CORPUS, DE OFÍCIO, PARA CORRÉUS EM IDÊNTICA SITUAÇÃO.
+(..)
+5. Fica caracterizado o crime de lavagem quando o acórdão, de maneira objetiva, detalha todo o modus operandi para dar aparência de licitude na movimentação de dinheiro oriunda de práticas criminosas, e mostra-se inviável a pretensão de reverter o quadro fático descrito pelo Tribunal de origem, haja vista o óbice contido no enunciado da Súmula n. 7 do STJ.
+(..)
+(REsp 1639698/SP, Rel. Ministro SEBASTIÃO REIS JÚNIOR, Rel. p/ Acórdão Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, DJe 20/02/2018).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 1.º DA LEI N.º 9.613/98.LAVAGEM DE DINHEIRO. PEDIDO ABSOLUTÓRIO. NECESSIDADE DE REEXAME DE PROVAS. ENUNCIADO SUMULAR N.º 7 DESTA CORTE SUPERIOR DE JUSTIÇA. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal a quo, soberano na análise das circunstâncias fáticas e probatórias da causa, concluiu que existiam provas mais que suficientes de autoria e materialidade do crime de lavagem de dinheiro de que se cuida. Logo, a análise do pleito absolutório implicaria acurada avaliação probatória, o que, não se admite na via do recurso especial, a teor da Súmula n.º 07 do Superior Tribunal de Justiça.
+2. Agravo regimental desprovido.
+(AgRg no REsp 1309675/RJ, Rel. Ministra LAURITA VAZ, QUINTA TURMA,DJe 28/08/2014)."
+Ante o exposto, voto pelo desprovimento do agravo regimental.
