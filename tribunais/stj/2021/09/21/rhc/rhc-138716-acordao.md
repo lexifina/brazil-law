@@ -1,0 +1,100 @@
+EMENTA
+PROCESSO PENAL. RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO DE ENTORPECENTES. ARMA DE FOGO. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. GRAVIDADE CONCRETA. QUANTIDADE DE DROGA APREENDIDA. VARIEDADE DE DROGA APREENDIDA. REITERAÇÃO DELITIVA. IMPERIOSIDADE DA CUSTÓDIA CAUTELAR. EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. COVID-19. SUPRESSÃO DE INSTÂNCIA.
+A validade da segregação cautelar está condicionada à observância, em decisão devidamente fundamentada, aos requisitos insertos no art. 312 do Código de Processo Penal, revelando-se indispensável a demonstração de em que consiste o periculum libertatis.
+2. No caso, a prisão preventiva está justificada, pois a decisão que a impôs fez referência à gravidade concreta da conduta imputada ao recorrente uma vez que foi apreendida considerável quantidade e variedade de entorpecentes - a saber, 100g (cem gramas) de "crack" distribuídos em diversos pinos, 2 (duas) "buchas" de cocaína com peso aproximado de 100g (cem gramas) e 4 (quatro) tijolos de maconha, totalizando 900g (novecentos gramas) -, além de arma e munições - um revólver marca Smith Wesson n. 167.962, calibre .38, e 6 (seis) munições do mesmo calibre, mais 2 (duas) munições calibre 9mm, sem autorização e em desacordo com a determinação legal ou regulamentar. Dessarte, evidenciada a sua periculosidade e a necessidade da segregação como forma de acautelar a ordem pública.
+3. Conforme pacífica jurisprudência desta Corte, a preservação da ordem pública justifica a imposição da prisão preventiva quando o agente possuir maus antecedentes, reincidência, atos infracionais pretéritos, inquéritos ou mesmo ações penais em curso, porquanto tais circunstâncias denotam sua contumácia delitiva e, por via de consequência, sua periculosidade.
+4. A decisão que impôs a prisão preventiva destacou, ainda, na presente hipótese, que o acusado possui "três condenações criminais com trânsito em julgado por delito de roubo e encontrava-se foragido do sistema prisional", evidenciando sua reiterada atividade delitiva. Assim, faz-se necessária a segregação provisória como forma de acautelar a ordem pública.
+5. As alegações de excesso de prazo para a formação da culpa e de risco aumentado de contaminação no ambiente prisional pela Covid-19 não foram objeto de análise pelo Tribunal de origem, o que impede o enfrentamento dos temas por esta Corte sob pena de indevida supressão de instância.
+6. Recurso ordinário parcialmente conhecido e, nessa extensão, desprovido.
+ACÓRDÃO
+Vistos, relatados e discutidos os autos em que são partes as acima indicadas, acordam os Ministros da Sexta Turma do Superior Tribunal de Justiça, por unanimidade, conhecer parcialmente do recurso ordinário e, nessa extensão, negar-lhe provimento, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz, Sebastião Reis Júnior e Rogerio Schietti Cruz votaram com o Sr. Ministro Relator.
+RELATÓRIO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+Trata-se de recurso ordinário em habeas corpus com pedido liminar interposto por RAFAEL DA SILVA RODRIGUES contra acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul (HC n.0079473-30.2020.8.21.7000).
+Depreende-se dos autos que o recorrente foi preso preventivamente (e-STJ fls. 43/44) e denunciado (e-STJ fls. 36/41), pela suposta prática do delito tipificado no art. 33, caput, da Lei n. 11.343/2006 (tráfico de drogas), bem como das condutas previstas nos arts. 14, caput, (porte ilegal de arma de fogo de uso permitido) e 16, caput, ambos da Lei n. 10.826/2003 (posse ou porte ilegal de arma de fogo de uso restrito).
+Segundo a peça acusatória, o recorrente possuía em depósito, aproximadamente, 100g (cem gramas) de "crack" distribuídos em diversos pinos, 2 (duas) "buchas" de cocaína com peso aproximado de 100g (cem gramas) e 4 (quatro) tijolos de maconha totalizando 900g (novecentos gramas), um revólver marca Smith Wesson n. 167.962, calibre .38, e 6 (seis) munições do mesmo calibre, mais 2 (duas) munições calibre 9mm, sem autorização e em desacordo com a determinação legal ou regulamentar.
+O pedido de revogação da prisão preventiva foi indeferido (e-STJ fls. 20/25).
+Impetrado habeas corpus na origem, o Tribunal local, por maioria, denegou a ordem em acórdão assim ementado (e-STJ fl. 69):
+HABEAS CORPUS. PRISÃO PREVENTIVA. TRÁFICO DE DROGAS. POSSE IRREGULAR DE ARMA DE FOGO E MUNIÇÕES. REQUISITOS DOS ARTIGOS 312 E 313 DO CPP. FUMUS COMISSI DELICTI E PERICULUM LIBERTATIS. ORDEM DENEGADA.
+I) Paciente preso em flagrante, em situação indicativa de prática do tráfico de drogas, com arma e munições.
+II) Decisão que decretou a prisão preventiva devidamente motivada, em observância ao disposto no art. 93, inciso IX, da Constituição Federal.
+III) Fumus comissi delicti e periculum libertatis evidenciados. Presença de prova da existência do crime e indícios suficientes de autoria. Prisão preventiva que se justifica para garantir a ordem pública e a instrução criminal. Periculosidade demonstrada pelo paciente, reincidente, e flagrado em situação de traficância, com expressiva quantidade e variedade de drogas, além da arma e munições - diversas porções de cocaína processadas na forma de crack pesando 100g, diversos pinos e duas buchas de cocaína pesando 100g, quatro tijolos e diversas porções de maconha pesando 100g, 1 revólver calibre .38, 6 munições calibre .38 e 2 munições calibre 9mm.
+IV) Constatada a necessidade da prisão preventiva, inviável a adoção de medidas cautelares alternativas, que, na espécie, não se mostrariam suficientes ou eficazes para a manutenção da garantia da ordem pública.
+V) Requisitos dos artigos 312 e 313, do CPP, presentes. Segregação cautelar mantida.
+PRECEDENTES DO STF, STJ E TJRS.
+ORDEM DENEGADA, POR MAIORIA.
+Neste writ, a Defensoria Pública aponta constrangimento ilegal decorrente da prisão preventiva e do excesso de prazo para a formação da culpa.
+Sustenta ausência de fundamentação idônea para a decretação e manutenção da custódia, já que a gravidade abstrata do delito e os elementos inerentes ao tipo penal não justificam a imposição de medida constritiva.
+Alega que "o paciente é acusado da suposta prática de fato cometido sem violência contra a pessoa, pelo que não há, rigorosamente, demonstração da efetiva necessidade da medida extrema e sempre excepcional da prisão preventiva" (e-STJ fl. 108).
+Pontua o alto risco de contaminação pela Covid-19 e invoca a Resolução n. 62/2020 do Conselho Nacional de Justiça.
+Assere, ainda, excesso de prazo, já que "o paciente, ora recorrente, está preso desde 26 de fevereiro de 2019, ou seja, há 1 ano e 7 meses. Assim, considerando o cenário atual, com a pandemia de COVID-19, em que as situações das comarcas podem mudar de uma semana para a outra, constata-se que o paciente não pode permanecer na situação de abusividade em que se encontra, sob pena de o instrumento processual da prisão preventiva ser utilizado como meio de antecipação da pena" (e-STJ fl. 110).
+Dessa forma, requer, liminarmente, a concessão da liberdade provisória ao recorrente até o julgamento deste feito. No mérito, pleiteia o provimento do recurso nos termos do voto vencido na origem (e-STJ fls. 102/114).
+Liminar indeferida às e-STJ fls. 141/143.
+O Ministério Público Federal manifestou-se pelo desprovimento do recurso, em parecer assim ementado (e-STJ fl. 236):
+RECURSO ORDINÁRIO EM HABEAS CORPUS. DIREITO PENAL. DIREITO PROCESSUAL PENAL. TRÁFICO ILÍCITO DE ENTORPECENTES. PORTE ILEGAL DE ARMA DE FOGO. PRISÃO PREVENTIVA. FUNDAMENTAÇÃO IDÔNEA. CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. GRAVIDADE CONCRETA DO DELITO. ALEGADO EXCESSO DE PRAZO NA DURAÇÃO DA PRISÃO PREVENTIVA. COVID-19. SUPRESSÃO DE INSTÂNCIA. NÃO CONHECIMENTO.
+1. Não é possível revogar a prisão preventiva decretada para a garantia da ordem pública quando demonstrada a gravidade concreta da conduta, tendo em vista as graves circunstâncias do delito, uma vez que presentes os requisitos previstos no art. 312 do CPP.
+2. Não é possível a apreciação, pelo Superior Tribunal de Justiça, de teses que não foram debatidas perante o Tribunal de origem, pois caracteriza indevida supressão de instância. Precedentes.
+3. Parecer pelo desprovimento do recurso ordinário em habeas corpus
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO ANTONIO SALDANHA PALHEIRO (Relator):
+O objeto do presente recurso cinge-se à verificação da existência de fundamentação no decreto que impôs a segregação cautelar ao recorrente, bem como à análise de possível constrangimento ilegal por excesso de prazo para a formação da culpa.
+Insta consignar, preliminarmente, que a regra, em nosso ordenamento jurídico, é a liberdade. Assim, a prisão de natureza cautelar revela-se cabível tão somente quando, a par de indícios do cometimento do delito (fumus commissi delicti), estiver concretamente comprovada a existência do periculum libertatis, nos termos do art. 312 do Código de Processo Penal.
+Decorre de comando constitucional expresso que ninguém será preso senão por ordem escrita e fundamentada de autoridade judiciária competente (art. 5º, LXI). Portanto, há de se exigir que o decreto de prisão preventiva esteja sempre concretamente fundamentado.
+No caso, estes foram os fundamentos invocados para a conversão da prisão em flagrante em preventiva, in verbis (e-STJ fls. 43/44):
+ ..  considerando-se para tanto a quantidade de entorpecente apreendido, há indicativo de que possa voltar a atentar seriamente contra a ordem pública.
+Não bastasse isso, o acusado possui três condenações criminais com trânsito em julgado por delito de roubo e encontrava-se foragido do sistema prisional.
+Desta feita, não há outra alternativa senão acautelar o meio social desta nociva atividade, pois há risco de que, solto, possa o acusado voltar a atentar contra a ordem pública, de maneira que a segregação cautelar é medida imprescindível para a manutenção da ordem estabelecida e aplacar sério risco de reiteração criminosa. (Grifei.)
+O Tribunal de origem, ao vislumbrar que a soltura do recorrente caracterizaria risco à ordem pública, haja vista a quantidade de entorpecente apreendido e a notícia de reiterada atividade delitiva, denegou a ordem, valendo-se dos seguintes fundamentos (e-STJ fl. 82):
+Nessa toada, embora o paciente esteja segregado há cerca de 1 ano e 5 meses, a gravidade concreta do delito e a periculosidade do paciente vêm demonstradas na variedade e quantidade de drogas apreendida, na reincidência, além da arma e munições, a justificar, no caso, a manutenção da prisão preventiva.
+Tenho para mim que a leitura da decisão e do acórdão acima transcritos evidencia a configuração do periculum libertatis pois, na linha da orientação firmada nesta Corte, a gravidade concreta da conduta, demonstrada pela quantidade da droga apreendida - a saber, 100g (cem gramas) de "crack" distribuídos em diversos pinos, 2 (duas) "buchas" de cocaína com peso aproximado de 100g (cem gramas) e 4 (quatro) tijolos de maconha, totalizando 900g (novecentos gramas) -, além de arma e munições - um revólver marca Smith Wesson n. 167.962, calibre .38, e 6 (seis) munições do mesmo calibre, mais 2 (duas) munições calibre 9mm, sem autorização e em desacordo com a determinação legal ou regulamentar -, denota a periculosidade do agente.
+Tal circunstância, por conseguinte, sinaliza a necessidade da prisão cautelar como forma de assegurar a ordem pública. Nesse sentido:
+HABEAS CORPUS. ORGANIZAÇÃO CRIMINOSA, TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO E CRIMES DA LEI DE ARMAS. INDÍCIOS DE AUTORIA INSUFICIENTES. NECESSÁRIA DILAÇÃO PROBATÓRIA. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. MOTIVAÇÃO IDÔNEA. SUBSTITUIÇÃO POR CAUTELARES DIVERSAS. SUFICIÊNCIA E ADEQUAÇÃO NÃO CONFIGURADAS. EXCESSO DE PRAZO PARA O ENCERRAMENTO DO FEITO. SUPRESSÃO DE INSTÂNCIA. HABEAS CORPUS CONHECIDO EM PARTE. ORDEM DENEGADA.
+ ..
+3. O Juízo singular ressaltou a apreensão de grande quantidade de drogas, de armas de uso restrito - entre as quais uma submetralhadora - e de munições de diversos calibres, circunstâncias que denotam o fundado risco de reiteração delitiva e, por isso mesmo, idôneas a justificar a prisão preventiva do acusado.
+4. Por idênticas razões, a adoção de medidas cautelares diversas não se prestaria a evitar a prática de novas infrações penais (art. 282, I, do CPP).
+ ..
+6. Habeas corpus conhecido em parte. Ordem denegada.
+(HC 409.179/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 06/12/2018, DJe 19/12/2018)
+RECURSO ORDINÁRIO EM HABEAS CORPUS. TRÁFICO E ASSOCIAÇÃO PARA O TRÁFICO DE DROGAS. POSSE ILEGAL DE MUNIÇÕES E ARMA DE FOGO COM NUMERAÇÃO RASPADA. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. PERICULOSIDADE CONCRETA. RECURSO DESPROVIDO.
+1. O Recorrente foi preso em flagrante, no dia 17/05/2018, e denunciado como incurso no art. 33, caput, e art. 35, caput, da Lei n.º 11.343/2006 e 12 da Lei n.º 10.826/2003, porque encontrado na posse de 21g (vinte e um) gramas de cocaína e 143g (cento e quarenta e três) gramas de maconha, 1 (um) frasco contendo substância semelhante à maconha, com peso aproximado de 41g (quarenta e um) gramas, um revólver calibre .38, Marca Taurus, com numeração raspada, e 4 munições calibre .38, das quais 2 intactas e 2 (duas) deflagradas, 1 caderneta com anotações do tráfico e certa quantia em dinheiro, parte dela (R$ 880,00) em notas de R$ 20,00 aparentemente falsas.
+2. A prisão preventiva encontra fundamento na gravidade concreta das condutas delitivas, demonstrada pela apreensão de arma e razoável quantidade de drogas, circunstância que indica a perniciosidade social da ação, a justificar a segregação cautelar para garantia da ordem pública.
+3. Perfeitamente aplicável na espécie o entendimento de que: "Não é ilegal o encarceramento provisório que se funda em dados concretos a indicar a necessidade da medida cautelar, especialmente em elementos extraídos da conduta perpetrada pelo acusado, cifrada na significativa quantidade e diversidade de substâncias entorpecentes apreendidas, além de material belicoso (armas e munições)" (HC 403.190/MG, Rel. Ministra MARIA THEREZA DE ASSIS MOURA, SEXTA TURMA, julgado em 05/09/2017, DJe 18/09/2017).
+4. Condições pessoais favoráveis, tais como primariedade, bons antecedentes e residência fixa, não têm o condão de, por si sós, desconstituir a custódia processual, caso estejam presentes outros requisitos que autorizem a decretação da medida extrema.
+5. Recurso desprovido. Prejudicado o pedido de tutela provisória.
+(RHC 104.366/SC, Rel. Ministra LAURITA VAZ, SEXTA TURMA, julgado em 13/11/2018, DJe 04/12/2018)
+De se notar, ainda, que a custódia cautelar está fundamentada na necessidade de acautelar a ordem pública, em razão de o "acusado possui r  três condenações criminais com trânsito em julgado por delito de roubo e encontrava-se foragido do sistema prisional" (e-STJ fl. 43).
+Dessa forma, justifica-se a imposição da prisão preventiva do recorrente pois, como sedimentado em farta jurisprudência desta Corte, maus antecedentes, reincidência ou até mesmo outras ações penais em curso justificam a imposição de segregação cautelar como forma de evitar a reiteração delitiva e, assim, garantir a ordem pública.
+Nesse sentido os seguintes precedentes desta Corte:
+RECURSO ORDINÁRIO EM HABEAS CORPUS. FURTO. PRISÃO PREVENTIVA. ART. 312 DO CPP. PERICULUM LIBERTATIS. FUNDAMENTAÇÃO IDÔNEA. MEDIDAS CAUTELARES DIVERSAS DA PRISÃO. IMPOSSIBILIDADE. RECURSO NÃO PROVIDO.
+ ..
+4. A jurisprudência desta Corte de Justiça é firme ao asseverar que a existência de inquéritos, ações penais em curso ou condenações definitivas denotam o risco de reiteração delitiva e, assim, constituem também fundamentação idônea a justificar a segregação cautelar.
+5. O Juízo de primeiro grau destacou que o recorrente registra em sua folha de antecedentes a prática de outros delitos, já havendo sido preso anteriormente, o que reforça a necessidade de sua prisão provisória.
+6. Configurada a dedicação aparentemente habitual ao cometimento de crimes e o descumprimento de medida cautelar imposta em oportunidade pretérita, a substituição pleiteada pela defesa não constitui instrumento eficaz para obstar a reiteração delitiva, o que se mostra atingível apenas mediante a custódia preventiva do réu.
+7. Recurso não provido.
+(RHC 76.929/MG, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 17/11/2016, DJe 29/11/2016, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. INADMISSIBILIDADE. PRECEDENTES. TRÁFICO DE DROGAS, ASSOCIAÇÃO PARA O TRÁFICO, IMPEDIR/DIFICULTAR A REGENERAÇÃO NATURAL DE VEGETAÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE E PORTE ILEGAL DE ARMA DE FOGO E MUNIÇÕES. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. RISCO CONCRETO DE REITERAÇÃO DELITIVA. JUSTIFICATIVA IDÔNEA. PRECEDENTES. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. As circunstâncias do flagrante indicam atuação intensiva no tráfico de drogas, em razão da quantidade de arbustos plantados para comercialização (25 mil pés de maconha), bem como a ousadia do paciente, que, segundo a acusação, cultivava a droga em área de preservação ambiental permanente. Além do entorpecente, foram apreendidas armas e munições. Ademais, há risco concreto de reiteração criminosa, diante dos maus antecedentes e da reincidência do acusado.
+ ..
+5. Habeas Corpus não conhecido.
+(HC 389.098/SP, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 23/05/2017, DJe 31/05/2017, grifei.)
+HABEAS CORPUS SUBSTITUTIVO DE RECURSO ORDINÁRIO. ESTELIONATO, EXTORSÃO E ORGANIZAÇÃO CRIMINOSA. PRISÃO PREVENTIVA DEVIDAMENTE JUSTIFICADA. GARANTIA DA ORDEM PÚBLICA. MODUS OPERANDI. RISCO CONCRETO DE REITERAÇÃO CRIMINOSA. EXCESSO DE PRAZO. INOCORRÊNCIA. AÇÃO PENAL COMPLEXA. DIVERSOS RÉUS. NECESSIDADE DE EXPEDIÇÃO DE CARTAS PRECATÓRIAS. IMPULSO REGULAR PELO MAGISTRADO CONDUTOR DO FEITO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+3. Na hipótese, havendo prova da materialidade do delito e indícios de autoria, justifica-se a prisão preventiva para garantia da ordem pública. A gravidade concreta das condutas imputadas e o modus operandi revelam articulada organização voltada para a prática de ilícitos contra o patrimônio. O paciente responde a 18 ações penais por crimes contra o patrimônio, cometidos em diversas comarcas do estado, havendo fortes elementos, portanto, de que o acusado fazia do crime um meio de vida.
+4. Nos termos da jurisprudência desta Corte, a existência de ações penais em curso, ainda que sem o trânsito em julgado, pode autorizar a prisão preventiva para garantia da ordem pública, à luz das peculiaridades do caso concreto, consubstanciando forte indicativo de dedicação à atividades criminosas.
+ ..
+8. Habeas corpus não conhecido.
+(HC 364.847/RS, Rel. Ministro REYNALDO SOARES DA FONSECA, QUINTA TURMA, julgado em 18/10/2016, DJe 27/10/2016, grifei.)
+Por fim, em relação às teses de excesso de prazo na formação da culpa e de risco aumentado de contaminação pela Covid-19 no ambiente prisional, tem-se que não foram debatidas pelo Tribunal de origem, o que impede a análise por esta Corte, sob pena de indevida supressão de instância.
+Nesse sentido:
+PENAL E PROCESSO PENAL. RECURSO EM HABEAS CORPUS. TRÁFICO DE DROGAS. SENTENÇA CONDENATÓRIA. NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. FUNDAMENTAÇÃO CONCRETA. REITERAÇÃO DELITIVA, E NATUREZA E QUANTIDADE DA DROGA APREENDIDA. ILEGALIDADE. NÃO CONFIGURADA. RECURSO PARCIALMENTE CONHECIDO, E, NESTA PARTE, IMPROVIDO.
+1. Matéria não apreciada pelo Tribunal a quo, também não pode ser objeto de análise nesta Superior Corte, sob pena de indevida supressão de instância.
+ ..
+3. Recurso em habeas corpus parcialmente conhecido, e, nesta parte, improvido.
+(RHC 68.025/MG, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, julgado em 17/05/2016, DJe 25/05/2016)
+Portanto, os fundamentos acima delineados indicam a necessidade de manter o recorrente segregado.
+Ante o exposto, conheço parcialmente do recurso e, nessa extensão, nego-lhe provimento.
+É o voto.
+Ministro ANTONIO SALDANHA PALHEIRO
+Relator
