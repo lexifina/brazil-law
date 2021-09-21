@@ -1,0 +1,11 @@
+DECISÃO
+1. Cuida-se de agravo interposto por COMPANHIA DE BEBIDAS DAS AMERICAS - AMBEV contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO, assim ementado:
+APELAÇÃO CÍVEL. AÇÃO MONITÓRIA. CONTRATO DE EXCLUSIVIDADE DE USO DE MARCA DE CERVEJA E DECORAÇÃO DE AMBIENTE PARA A COPA DO MUNDO DE 2014. CONTRATO QUE ESTABELECIA BONIFICAÇÃO DE 100 CAIXAS DE CERVEJA DE LATAS DE 350 ML, POR SEMANA. INADIMPLEMENTO DO CONTRATO PELA RÉ, QUE NÃO REALIZOU A ENTREGA DAS BONIFICAÇÕES. NEGÓCIO JURÍDICO ENTABULADO POR VIA DE CORREIO ELETRÔNICO (EMAIL). MENSAGENS TROCADAS ENTRE AS PARTES QUE CONFIRMA O NEGÓCIO JURÍDICO REALIZADO.EMAIL QUE SERVE DE PROVA E DE TÍTULO NA AÇÃO MONITÓRIA, CONFORME PRECEDENTES EMANADOS PELO COLENDO STJ. NEGADO PROVIMENTO AO RECURSO.
+Opostos embargos de declaração, foram rejeitados.
+Nas razões do recurso especial, aponta a parte recorrente ofensa ao disposto nos arts. 85 e 86, do CPC de 2015, defendendo que teria havido sucumbência recíproca.
+É o relatório.DECIDO.
+2. Amatériareferenteaos artigos 85 e 86, do CPC de 2015 (existência de sucumbência recíproca)não foiobjeto de discussão no acórdão recorrido, apesar da oposição de embargos de declaração, não se configurando o prequestionamento, o que impossibilita a sua apreciação na via especial (Súmula 282/STF).
+Ressalto que o STJ não reconhece o prequestionamento pela simples interposição de embargos de declaração. Persistindo a omissão, é necessária a interposição de recurso especial por afronta ao art. 1.022 do CPC de 2015 (antigo art. 535 do Código de Processo Civil de 1973), sob pena de perseverar o óbice da ausência de prequestionamento.
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
