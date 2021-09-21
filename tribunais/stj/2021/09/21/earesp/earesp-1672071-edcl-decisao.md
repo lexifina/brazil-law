@@ -1,0 +1,12 @@
+DECISÃO
+Em novos embargos de declaração LIBERTY SEGUROS S/A informaque:
+(..) há flagrante equívoco no que se refere ao processamento do recurso, tendo em vista que ele deveria ter sido processado como embargos de divergência, o que torna nula a decisão disponibilizada em 02/09/2021.
+É bem verdade que, após o protocolo acima, a seguradora realizou novamente o protocolo do recurso no sistema e-STJ, indicando a classificação da peça como sendo embargos de declaração, o que pode ter levado a serventia a processar o recurso de forma equivocada (..)
+Todavia, tal protocolo ocorreu após o peticionamento regular da peça como EMBARGOS DE DIVERGÊNCIA. Desse modo, deveria ter prevalecido o primeiro protocolo realizado e desconsiderado o segundo protocolo, até porque os embargos de divergência interpostos têm o condão de precluir os demais atos, então mesmo que realizado, a posteriori, os embargos de declaração eles teriam que ser desconsiderados e não o inverso, ante a preclusão consumativa.(e-STJ fls. 1.781/1.782)
+Requer "o conhecimento e acolhimento dos presentes embargos de declaração para reconhecer o erro material da r. decisão, que não conheceu os embargos de declaração opostos, em razão da intempestividade, haja vista que o recurso interposto pela recorrente foram os embargos de divergência" (e-STJ fl. 1.785).
+É O RELATÓRIO. DECIDO.
+Da análise dos autos verifica-se que, de fato, a embargante protocolizou duas petições nos autos no mesmo dia -1.547/1.737 às 16:39 ee-STJ fls. 1.356/1.546 às 16:45 - as classificando, respectivamente, como "embargos de declaração" e "embargos de divergência".
+À e-STJ fl. 1.738, a Coordenadoria de Processamento de Feitos de Direito Privado certifica a intempestividade dos "embargos de declaração".
+Dessa maneira, não há erro material no voto que considerou intempestiva a petição de embargos de declaração de LIBERTY SEGUROS S/A.
+Contudo, tendo em vista que a certidão de e-STJ fls. 1.738 advertesobre o decurso de prazo para os embargos de declaração, assim protocolizados pela agravante,sem fazer referência ao alegado nesses novos embargos de declaração, DE OFÍCIO, DETERMINO a remessa dos autos aCOORDENADORIA DE PROCESSAMENTO DE FEITOS DE DIREITO PRIVADO para nova análise do processoe, oportunamente, regularizar o processamento dos embargos de divergência de e-STJ fls. 1.356/1.546.
+Por essa razão, JULGO PREJUDICADO os novos embargos de declaração deLIBERTY SEGUROS S/A.
