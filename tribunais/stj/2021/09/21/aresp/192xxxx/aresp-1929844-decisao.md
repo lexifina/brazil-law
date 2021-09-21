@@ -1,0 +1,22 @@
+DECISÃO
+1. Cuida-se de agravo interposto por BANCO BRADESCO FINANCIAMENTOS S.A contra decisão que não admitiu o seu recurso especial, por sua vez manejado em face de acórdão proferido peloTRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO, assim ementado:
+APELAÇÃO CIVEL -AÇÃO DE BUSCA E APREENSÃO -EXTINÇÃO POR ABANDONO DA CAUSA -INTIMAÇÃO PESSOAL DA PARTE AUTORA PARA PROMOVER O ANDAMENTO DO FEITO E DO SEU ADVOGADO EM CONFORMIDADE COM O ART 485 III DO CPC - SENTENÇA MANTIDA - RECURSO DESPROVIDO PARA QUE SE COGITE A HIPÓTESE DE EXTINÇÃO DO FEITO COM BASE NO ABANDONO DA CAUSA ART 485 III DO CPC SÃO NECESSÁRIAS A PRÉVIA INTIMAÇÃO PESSOAL DA PARTE AUTORA E A COMUNICAÇÃO OFICIAL DO RESPECTIVO PATRONO NO PRAZO DE 05 DIAS PARA DAR ANDAMENTO AO PROCESSO ANTES DE SE DETERMINAR SUA EXTINÇÃO O QUE OCORREU NA HIPÓTESE DOS AUTOS.
+Nas razões do recurso especial, aponta a parte recorrente, além de dissídio jurisprudencial, ofensa ao disposto noart. 485, III, do CPC. Sustenta que deve ser feitaa intimação do autor por meio de seu procurador, para promover o andamento do feitoe somente depois de decorridos os 30 (trinta) dias é que deveria ter sido expedida a intimação pessoal. Assevera que "resta comprovada a ausência de intimação pessoal, vez que apesar da determinação não foi efetivada pela serventia e a não observância do prazo de 30 (trinta) dias, que prevê o art. 485, III."
+Decido.
+2.Acerca da intimação do advogado, o Tribunal de origem consignou no acórdão recorrido que foi realizada, conforme se verifica do seguinte trecho do voto:
+Conforme a legislação de regência e o entendimento jurisprudencial pátrio, para a extinção do processo por abandono da causa são indispensáveis a inércia do autor por prazo superior a trinta dias e a dupla intimação, qual seja, a intimação pessoal da parte e a de seu advogado, por publicação.
+ ..
+De todo o processado extrai que a Ação de Busca e Apreensão encontrava- se paralisada além do prazo legal, sem que a parte autora tivesse dado qualquer impulso no feito, mesmo devidamente intimada pessoalmente para, no prazo de 05 (cinco) dias, promover o andamento no processo, permaneceu inerte.
+Com efeito, verificado o abandono da causa por mais de 30 (trinta) dias e a inércia da parte autora após a intimação para dar andamento ao feito, é de ser declarada a extinção do processo, conforme previsão no art.485, III, do CPC.
+Registra-se que não se verificou qualquer violação ao art. 485, III, do CPC.
+A dupla intimação assim entendido pela jurisprudência se refere à do autor, pessoal, e de seu advogado, por meio do Diário Eletrônico.
+Nesse contexto, o acolhimento da pretensão recursal em sentido contrário exigiria a alteração das premissas fático-probatórias estabelecidas pelo acórdão recorrido, com o revolvimento das provas carreadas aos autos, atraindo o óbice da Súmula 7 do STJ.
+Merece destaque, sobre o tema, o consignado no julgamento do REsp 336.741/SP, Rel. Min. Fernando Gonçalves, DJ 07/04/2003, "(..) se, nos moldes em que delineada a questão federal, há necessidade de se incursionar na seara fático-probatória, soberanamente decidida pelas instâncias ordinárias, não merece trânsito o recurso especial, ante o veto da Súmula 7-STJ".
+Ademais, vale conferir o entendimento desta Corte acerca da intimação da parte para extinguir a ação por abandono da causa:
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE EXECUÇÃO POR TÍTULO EXTRAJUDICIAL. EXTINÇÃO SEM RESOLUÇÃO DO MÉRITO. ABANDONO DA CAUSA. INTIMAÇÃO PESSOAL DO AUTOR REALIZADA. DESNECESSIDADE DE INTIMAÇÃO DO ADVOGADO. AGRAVO INTERNO NÃO PROVIDO.
+1. Para a extinção da ação por abandono da causa, é obrigatória a intimação pessoal da parte autora, sendo desnecessária a intimação de seu advogado. Precedentes.
+2. Agravo interno a que se nega provimento.
+(AgInt nos EDcl no AREsp 1328519/GO, Rel. Ministro RAUL ARAÚJO, QUARTA TURMA, julgado em 10/10/2019, DJe 25/10/2019)
+3. Ante o exposto, nego provimento ao agravo.
+Havendo nos autos prévia fixação de honorários de advogado pelas instâncias de origem, determino a sua majoração, em desfavor da parte recorrente, no importe de 10% sobre o valor já arbitrado, nos termos do art. 85, § 11, do Código de Processo Civil, observados, se aplicáveis, os limites percentuais previstos nos §§ 2º e 3º do referido dispositivo legal, bem como eventual concessão da gratuidade da justiça.
+Publique-se. Intimem-se.
