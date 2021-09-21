@@ -1,0 +1,24 @@
+DECISÃO
+MATEUS CONCEIÇÃO DIVINO agrava da decisão que não admitiu o seu recurso especial, interposto com fundamento no art. 105, III, "a", da Constituição Federal, contra acórdão proferido pelo Tribunal de Justiça do Distrito Federale dos Territórios (Apelação Criminal n. 0731210-92.2019.8.07.0001).
+Depreende-se dos autos que o acusado foicondenadoà pena de 1anoe 10 meses de reclusão, em regime inicial aberto, mais multa, por infração aoart. 33, caput,da Lei n. 11.343/2006.
+Nas razões do recurso especial, adefesa pretendea absolvição do paciente, sob alegação de que "Em momento algum restou comprovado que o réu portava a droga, as provas iniciais vieram tão somente da frágil suposição dos policias de que a droga seria do acusado" (fl. 262).
+O recurso especial foi inadmitido durante o juízo prévio de admissibilidade realizado pelo Tribunal de origem, o que ensejou a interposição deste agravo.
+O Ministério Público Federal manifestou-se pelo não provimento do recurso especial.
+Decido.
+O Juiz de primeiro grau, ao condenar o recorrente pela prática do crime previsto no art. 33, caput, da Lei n. 11.343/2006, assim fundamentou (fls. 174-176, grifei):
+ ..
+Ao final da instrução processual, tanto a materialidade quanto a autoria delitiva restaram comprovadas por todas as provas acostadas aos autos, em especial pelo auto de prisão em flagrante (id. 47135868); autos de apresentação e apreensão (id. 47135870 e id. 49767973); laudo preliminar (id. 47135869); audiência de custódia (id. 47135872); comunicação de ocorrência policial (id. 47135871); mídia do IP 1185/2019 (id.49768467 e seguintes); relatório da autoridade policial (id. 47135873); laudo de exame químico (id.58909076), tudo em sintonia com as declarações das testemunhas PAULO MARTINS DA SILVA e ANTÔNIO JAIR XAVIER COSTA (id. 54703139).
+Inicialmente, importa observar que o acusado fez uso do seu direito constitucional de permanecer em silêncio por ocasião de seu interrogatório em Juízo (id. 54694277).
+Os fatos, no entanto, foram amplamente esclarecidos pelos policiais militares que participaram da abordagem e da prisão do acusado. Nesse aspecto, o policial PAULO MARTINS DA SILVA, apresentou o seguinte relato perante este Juízo:
+ ..
+Conforme se verifica, as testemunhas PAULO e ANTÔNIO JAIR esclareceram suficientemente o contexto fático, de modo que não remanesce qualquer dúvida a respeito da ocorrência delitiva e de sua autoria.
+ ..
+A respeito da substância entorpecente apreendida no contexto fático, foi constatado no laudo de exame químico definitivo (id. 58909076), que se tratava de 3 (três) porções de "maconha", totalizando a massa líquida de 3700g (três mil e setecentos gramas); e duas porções de "maconha" perfazendo 117,95 (cento e dezessete gramas e noventa e cinco centigramas), acondicionadas em plástico.
+Consta ainda que no mesmo contexto da apreensão das drogas foram apreendidos 412 (quatrocentos e doze) pinos para acondicionamento de entorpecentes, além de uma balança de precisão e de facas com resquício de drogas, além de vários materiais destinados à embalagem e acondicionamento de drogas (id.47135870). Esses artefatos, como se observa comumente, estão intimamente relacionados com a mercancia ilícita de drogas, o que também se vislumbra no presente caso.
+Assim, verifica-se que o acusado praticou a conduta delitiva prevista no art. 33, caput, da Lei n.º 11.343/06, não se vislumbrando quaisquer das causas excludentes da ilicitude ou da culpabilidade.
+O Tribunal de origem, por sua vez, ao mantera condenação do acusado, consignou que "não merece prosperar a alegação de que as provas contidas nos autos seriam insuficientes para demonstrar a difusão ilícita da substância entorpecente, uma vez que não restam dúvidas de que a conduta do réu/apelante incidiu na norma incriminadora do art. 33, caput, da Lei nº 11.343/2006 (tráfico de drogas)" (fl. 247, grifei).
+Pelos trechos anteriormente transcritos e, sobretudo, pela leitura atenta da sentença condenatória edo acórdão impugnado, verifico que a Corte a quo, após toda a análise do conjunto fático-probatório amealhado aos autos, concluiupela existência de elementos concretos e coesos a ensejar a condenação do acusado pelo crime de tráfico de drogas (art. 33 da Lei n.11.343/2006).
+Por essas razões, mostra-se inviável a absolviçãodo recorrente, sobretudo em se considerando que, no processo penal, vigora o princípio do livre convencimento motivado, em que é dado ao julgador decidir pela condenação do agente, desde que o faça fundamentadamente, exatamente como verificado nos autos.
+Saliento, ademais, que qualquer outra solução que não a adotada pelas instâncias ordinárias implicaria o revolvimento do material fático-probatório amealhado ao processo, providência incabível em recurso especial, tendo em vista o óbice da Súmula n. 7 do STJ.
+À vista do exposto, conheço do agravo e nego provimento ao recurso especial.
+Publique-se e intimem-se.
