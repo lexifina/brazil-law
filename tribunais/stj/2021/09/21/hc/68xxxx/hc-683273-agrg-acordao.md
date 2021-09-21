@@ -1,0 +1,36 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da SEXTA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao agravo regimental, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Antonio Saldanha Palheiro, Olindo Menezes (Desembargador Convocado do TRF 1ª Região), Laurita Vaz e Sebastião Reis Júnior votaram com o Sr. Ministro Relator.
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. PROPORCIONALIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A existência de três circunstâncias judiciais desfavoráveis (antecedentes, circunstâncias e consequências do delito), devidamente justificadas na espécie, enseja a fixação da pena-base acima do mínimo legal, cujo aumento de 3 anos adotado na origem - a pena em abstrato varia de 12 a 30 anos -, não se afigura desproporcional.
+2. Agravo regimental não provido.
+RELATÓRIO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ:
+LEANDRO MANOEL ALMEIDA VIERA interpõe agravo regimental contra a decisão de fls. 105-107, que denegou a ordem, na qual pretendia a reavaliação da pena estabelecida.
+Em suas razões, afirma o insurgente que "não houve fundamentação adequada tanto no juízo de primeiro grau, quanto no E. Tribunal de Justiça/RS, isso a ponto de legitimar a aplicação de uma pena acima do mínimo legal no processo" (fl. 112).
+Assinala que "de todos os elementos constantes no artigo 59 do Código Penal, apenas os antecedentes e as consequências teriam sido valorados de forma negativa, o que mesmo sendo aceito, não justificaria a valoração em 3 (três) anos usada de forma desproporcional na presente sentença" (fl. 119).
+Diante disso, requer "em atenção ao Princípio da Colegialidade, seja recebido e provido o Agravo Regimental nos termos do art. 258 do Regimento Interno do STJ, para que seja o habeas corpus levado a julgamento pelo Colegiado da Turma" (fl. 120).
+EMENTA
+AGRAVO REGIMENTAL NO HABEAS CORPUS. HOMICÍDIO QUALIFICADO. PENA-BASE FIXADA ACIMA DO MÍNIMO LEGAL. PROPORCIONALIDADE. EXISTÊNCIA DE CIRCUNSTÂNCIAS JUDICIAIS DESFAVORÁVEIS. AGRAVO REGIMENTAL NÃO PROVIDO.
+1. A existência de três circunstâncias judiciais desfavoráveis (antecedentes, circunstâncias e consequências do delito), devidamente justificadas na espécie, enseja a fixação da pena-base acima do mínimo legal, cujo aumento de 3 anos adotado na origem - a pena em abstrato varia de 12 a 30 anos -, não se afigura desproporcional.
+2. Agravo regimental não provido.
+VOTO
+O SENHOR MINISTRO ROGERIO SCHIETTI CRUZ (Relator):
+Em que pesem os argumentos externados pelo insurgente, a decisão impugnada deve ser mantida pelos seus próprios fundamentos, nestes termos (fls. 105-107, destaques no original):
+LEANDRO MANOEL ALMEIDA VIEIRA, condenado por homicídio qualificado, alega ser vítima de constrangimento ilegal em decorrência de acórdão proferido pelo Tribunal de Justiça do Estado do Rio Grande do Sul, que negou provimento ao recurso defensivo interposto naquela Corte.
+Neste writ, a defesa afirma que a fixação da pena foi equivocada. Assinala que "o Magistrado a quo ao fixar a pena-base em 15 (quinze) anos de prisão, o fez sem justificar os motivos que levaram a um aumento de 3 (três) anos a mais dos 12 (doze) anos constantes no artigo atinente ao homicídio qualificado" (fl.7).
+Assere que "a ilegalidade é latente, uma vez que tanto o decisum de primeiro grau, quanto o de segundo grau, não trazem a fundamentação necessária no momento da dosimetria e aplicação da pena. Isso é perfeitamente verificado, uma vez que o aumento da pena vem desprovida de qualquer justificativa" (fl. 7) Requer, diante disso, o reconhecimento de nulidade do acórdão no tocante à pena aplicada, a fim de que seja proferida nova decisão, com o redimensionamento da reprimenda.
+Indeferida a liminar (fls. 50-51) e prestadas as informações (fls. 56-99), foram os autos ao Ministério Público Federal, que se manifestou pelo não conhecimento do habeas corpus (fls. 101-103).
+Decido.
+De início, registro que a condenação imposta ao réu transitou em julgado e, pelo que se infere dos autos, não houve o ajuizamento de revisão criminal, instrumento próprio para o exame da questão ventilada pela defesa nesta oportunidade.
+Ainda assim, observa-se, pelo conteúdo da sentença condenatória, ratificada pelo Tribunal de origem, que a pena-base foi fixada acima do mínimo legal em razão dos seguintes fundamentos (fl. 24):
+A culpabilidade é entendida como pressuposto para a punição. O denunciado registra antecedentes (processo 019/205.0068029-6). Não há elementos sobre a conduta social e a personalidade do sentenciado. O motivo do crime serve para qualificá-lo, de modo que não será aquilatado nesta fase. As circunstâncias são negativas, pois os jurados reconheceram que dificultaram a defesa da vítima. As consequências são de relevo, pois a vítima deixou uma filha de quatro anos de idade. Não é possível saber ao certo se o comportamento da vítima contribuiu para a ocorrência do crime.
+Nessas condições, fixo a pena-base em 15 anos de reclusão, tornando-a definitiva nesse montante, à míngua de outras causas de modificação.
+Como se observa, o referido decisum não avançou contra a proporcionalidade, parâmetro central para fixação da pena-base acima do mínimo legal, sobretudo porque necessária à adequada resposta penal ao delito praticado pelo paciente. Deveras, além dos antecedentes, ficaram registrados as circunstâncias, com o deslocamento de uma das qualificadoras, e as consequências do delito, esta última devidamente sopesada diante do caso concreto.
+Consoante entendimento deste Superior Tribunal, "havendo pluralidade de qualificadoras, uma delas pode ser utilizada para reconhecimento do crime qualificado e as demais, como agravantes genéricas, se legalmente previstas ou como circunstância judicial desfavorável, na primeira etapa" (AgRg no REsp n. 1.920.453/SP, Rel. Ministro Olindo Menezes - Desembargador convocado do TRF 1ª, DJe 17/5/2021).
+Assim, o aumento da pena-base, na espécie, encontra-se em harmonia com a jurisprudência desta Corte, segundo a qual "o julgador não está adstrito a critérios puramente matemáticos, havendo certa discricionariedade na dosimetria da pena, vinculada aos elementos concretos constantes dos autos. No entanto, o quantum de aumento, decorrente da negativação das circunstâncias, deve observar os princípios da proporcionalidade, da razoabilidade, da necessidade e da suficiência à reprovação e à prevenção do crime, informadores do processo de aplicação da pena" (REsp n. 1.599.138/DF, Rel. Ministro Sebastião Reis Júnior, DJe 11/05/2018).
+À vista do exposto, com fundamento no art. 34, XX, do RISTJ, denego a ordem.
+Deveras, não se afigura desproporcional o aumento de 3 anos na pena-base - que varia de 12 a 30 anos - imposto na origem em razão das três circunstâncias judiciais desfavoráveis, as quais foram devidamente justificadas, tal como exposto de forma minudente pelo decisum agravado.
+Registro, ainda, que diversamente do alegado pelo recorrente, ficou consignado pelo acórdão proferido na origem a existência de antecedentes criminais e não de simples inquéritos ou ações penais em andamento.
+À vista do exposto, nego provimento ao agravo regimental.
