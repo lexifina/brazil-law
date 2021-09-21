@@ -1,0 +1,12 @@
+TRIBUNAL DE JUSTIÇA DE MATO GROSSO
+PRIMEIRA CÂMARA CRIMINAL
+Des. Orlando de Almeida Perri
+EMBARGOS DE DECLARAÇÃO CRIMINAL (420) No 0002628-83.2020.8.11.0064
+EMBARGANTE: MAIKON SOUZA RICKEN, DEYVID ALVES CARDOSO
+EMBARGADO: MINISTERIO PUBLICO DO ESTADO DE MATO GROSSO
+Vistos, etc.
+Remetam-se os autos a Procuradoria-Geral de Justiça para manifestação.
+Cumpra-se.
+Cuiabá, 21 de setembro de 2021.
+Desembargador ORLANDO DE ALMEIDA PERRI,
+Relator.
