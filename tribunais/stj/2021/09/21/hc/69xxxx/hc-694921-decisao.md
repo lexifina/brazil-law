@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de habeas corpus,com pedido liminar, impetrado em favor de WASHINGTON GUILHERME DA SILVAcontra acórdão proferido pelo Tribunal de Justiça do Estado de Minas Gerais (Apelação n. 1.0621.20.002031-4/001).
+Consta dos autos que o paciente foi condenado, em primeiro grau de jurisdição, às penas de 7 anos e 8 meses de reclusão, em regime inicialfechado, e 590 dias-multa, pela prática dos crimes previstos nos arts.33, caput, da Lei 11.343/2006 e 14 da Lei n. 10.826/2003, em concurso material (e-STJ fls. 16/23).
+Em sua petição inicial, a impetrante informa que a defesa do paciente interpôs recurso de apelação, maso pedido recursal foi rejeitado, mantendo-se a condenação inalterada,sendo reconhecida, de ofício, apenas exclusão da agravante do crime cometido durante período de calamidade pública (e-STJ fls. 5/6).
+No presente mandamus (e-STJ fls. 3/14), aimpetrantesustentaque o paciente sofre constrangimento ilegal, na medida em que o Tribunal a quo não aplicouoredutor previsto no § 4º do art. 33 da Lei 11.343/2006, embora ele preencha os requisitos legais para a incidência do benefício. Aduz que a quantidade dos entorpecentes apreendidos, além de não ser expressiva,não é critério idôneo e suficiente para concluir pela dedicação do agente a atividades criminosas.
+Em consequência do reconhecimento da minorante, entende ser possível o estabelecimento do regime aberto e a substituição da pena privativa de liberdade por restritivas de direitos.
+Ao final, liminarmente e no mérito, pedea aplicação da minorante prevista no § 4º do art. 33 da Lei n. 11.343/2006 e, em consequência da redução da pena, o estabelecimento do regime aberto e a substituição da pena privativa de liberdade por medidas restritivas de direitos.
+É o relatório. Decido.
+Não obstante as razões constantes da petição inicial, a impetrante, advogada,não instruiuo habeas corpuscomcópia do acórdão impugnado, documento imprescindível para o exame das aventadas ilegalidades.
+Ressalta-se que o rito do habeas corpus pressupõe prova pré-constituída do direito alegado, devendo a parte demonstrar, de maneira inequívoca, por meio de documentos, a existência de constrangimento ilegal imposto ao paciente. Nesse sentido, segue a jurisprudência desta Corte:
+PROCESSO PENAL. HABEAS CORPUS. SENTENÇA CONDENATÓRIA E NEGATIVA DO DIREITO DE RECORRER EM LIBERDADE. EXCESSO DE PRAZO PARA JULGAMENTO DO RECURSO DE APELAÇÃO. INOCORRÊNCIA. PRISÃO PREVENTIVA. SUPRESSÃO DE INSTÂNCIA E DEFICIÊNCIA NA INSTRUÇÃO. CONSTRANGIMENTO ILEGAL NÃO CARACTERIZADO. ORDEM PARCIALMENTE CONHECIDA E, NESSA EXTENSÃO, DENEGADA.
+ ..
+4. Em sede de habeas corpus, a prova deve ser pré-constituída e incontroversa, cabendo ao impetrante apresentar documentos suficientes à análise de eventual ilegalidade flagrante no ato atacado. Na espécie, o processo não foi instruído com a sentença condenatória, peça processual imprescindível para exame da aventada ilegalidade da prisão preventiva.
+5. Ordem parcialmente conhecida e, nessa extensão, denegada, com recomendação. (HC 521.587/RS, Rel. Ministro RIBEIRO DANTAS, Quinta Turma, DJe 20/8/2019)
+AGRAVO REGIMENTAL NO HABEAS CORPUS. AUSÊNCIA DE PEÇA ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA. DEFICIÊNCIA NA INSTRUÇÃO QUE IMPOSSIBILITA A ANÁLISE DO PEDIDO. AGRAVO NÃO PROVIDO.
+1. Ação constitucional de natureza mandamental, o habeas corpus tem como escopo precípuo afastar eventual ameaça ao direito de ir e vir, cuja natureza urgente exige prova pré-constituída das alegações e não comporta dilação probatória.
+2. Não instruída a impetração com documento essencial ao deslinde da controvérsia, mostra-se inviável o exame do sustentado constrangimento ilegal. 3. Agravo regimental não provido. (AgRg no HC 456.701/ES, Rel. Ministro ROGERIO SCHIETTI CRUZ, Sexta Turma, DJe 25/10/2018)
+Ante o exposto, com base no art. 34, inciso XX, do Regimento Interno do STJ, indefiro liminarmente a petição inicial do habeas corpus.
+Intimem-se.
