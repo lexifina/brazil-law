@@ -1,0 +1,16 @@
+DECISÃO
+Cuida-se de requisição de pagamento oriunda da ExeMS 6054 (200600044890), expedida em favor de LUIZA MIRANDA DE LIMA ePEDRO PAULO CASTELO BRANCO COELHO, este beneficiário de destaque de honorários advocatícios contratuais.
+Intimados acerca da regularidade formal, a UNIÃO e o Ministério Público Federal manifestaram-se favoravelmente.
+Mediante a Petição n. 00515275/2021 (fls. 14-48), o espólio de LUIZA MIRANDA DE LIMA, representado pelo inventariante PAULO ROBERTO MIRANDA ACÁCIO DE LIMA, requerhabilitação para recomposição da regularidade formal da demanda. Juntadocumentos pessoais, certidão de óbito, procurações, termo de compromisso de inventariante, dentre outros.
+Por meio das certidões de fls. 50e 62, a Seção de Precatórios e RPV noticia a disponibilidade de verba para liquidação deste precatório e a retificação da titularidade dos honorários advocatícios contratuais, consoante decisão proferida na execução, juntada por cópia às fls. 51-61.
+É, no essencial, o relatório. Decido.
+No que diz respeito ao pedido de fls. 14-48, cumpre esclarecer que a habilitação dos herdeiros tem o sentido de garantir a continuidade do processo, não tendo ligação direta e necessária com a questão relativa à definição dos quinhões hereditários e à divisão dos bens do de cujus, que deve ser discutido no juízo do inventário.
+É possível, em tese, que se admita a habilitação de herdeiros que, ao final, não receberão os bens objeto do processo, mas estarão regularmente aptos a dar prosseguimento ao feito.
+Por isso é que o fato de se admitir a habilitação não implica em autorização para levantar valores nos autos, tendo em vista que, para tanto, é imprescindível a apresentação da certidão de inventariança ou do formal/certidão de partilha, nos termos do art. 655 do CPC, ou da escritura pública de inventário e partilha, consoante art. 610, § 1º, do CPC. Em qualquer caso (inventário judicial ou administrativo), o documento deve relacionar o crédito que se pretende levantar.
+No caso dos autos, tendo sido comprovado que PAULO ROBERTO MIRANDA ACÁCIO DE LIMA foi nomeado inventariante dos bens deixados por LUIZA MIRANDA DE LIMA (fl. 46), não há óbice ao deferimento do pedido.
+Esclareço, entretanto, que o levantamento de valores pelos herdeiros fica condicionado à comprovação dapartilha do crédito (art. 3º, §§ 6º e 7º, da Instrução Normativa STJ/GP n. 3/2014, com redação dada pela Instrução Normativa STJ/GP n. 17/2019).
+Se for o caso, considerando que há ação de inventário em curso na instância ordinária, poderá ser requerida a transferência para o juízo sucessório, que deliberará sobre o levantamento (art. 19 da Instrução Normativa STJ/GP n. 3/2014).
+Ante o exposto,defiro a habilitação pretendida apenas para recompor a regularidade processual.
+Por fim, considerando a concordância manifestada em relação à regularidade formal e a notícia de disponibilidade financeira, determino o pagamento desta requisiçãomediante abertura de conta remunerada em nome do ESPÓLIO do beneficiário em instituição financeira conveniada, reservados os recursos das requisições anteriores pendentes de pagamento (art. 12 da Instrução Normativa STJ/GP n. 3/2014).
+Transcorrido o prazo de 10 (dez) dias, cumpra-se (art. 59 da Lei n. 9.784/99).
+Publique-se. Intimem-se.
