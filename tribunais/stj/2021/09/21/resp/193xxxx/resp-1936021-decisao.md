@@ -1,0 +1,51 @@
+DECISÃO
+Trata-se de recurso especial interposto pelo Ministério Público de Minas Gerais, com fundamento na alínea a do permissivo constitucional, contra o acórdão proferido pelo Tribunal de Justiça local, no Agravo em Execução Penal n. 1.0231.10.022614-2/002 (fls. 655/661):
+AGRAVO EM EXECUÇÃO PENAL -EXECUÇÃO PENAL -PORTARIA CONJUNTA N. 19/PR/2020 TJMG - RECOMENDAÇÃO N. 62/2020 - CNJ - PANDEMIA - COVID-19 -REGIME SEMIABERTO -SUBSTITUIÇÃO PELA PRISÃO DOMICILIAR - VIABILIDADE.
+- A concessão de prisão domiciliar prevista na Portaria Conjunta n. 19/PR/2020 TJMG e na Recomendação n. 62/2020/CNJ, embora consista em mera recomendação, deve ser acolhida aos presos que se encontram em regime aberto ou semiaberto, que não estejam respondendo a processo disciplinar por falta grave.
+Opostos embargos de declaração (fls. 677/686), esses foram rejeitados (fls. 693/696):
+EMBARGOS DE DECLARAÇÃO - EXECUÇÃO PENAL - PORTARIA CONJUNTA N. 19/PR/2020 TJMG - RECOMENDAÇÃO N. 62/2020 -CNJ -PANDEMIA - COVID-19 - REGIME SEMIABERTO - SUBSTITUIÇÃO PELA PRISÃO DOMICILIAR - REFORMA DE QUESTÃO JÁ DECIDIDA - REDISCUSSÃO DE TESE - INEXISTÊNCIA DOS VÍCIOS ELENCADOS NO ART. 620 DO CPP.
+- Ausentes as hipóteses de omissão, contradição, obscuridade ou erro material, não há como prosperar o inconformismo do embargante, cujo real objetivo é a reforma do decisum, não passível de revisão em sede de embargos de declaração.
+No presente recurso especial, é indicada a violação dos arts. 112 e 117, ambos da Lei de Execução Penal, porque o Tribunal a quo, em razão da situação de pandemia causada pelo Covid-19, manteve, por meio do acórdão recorrido, a concessão do recolhimento domiciliar ao reeducando (fl. 710).
+Destaca que, em razão da situação de pandemia causada pelo Covid-19, foi elaborada a Portaria Conjunta n.19/PR -TJMG/2020, que visa a orientar a atuação dos magistrados diante da pandemia do coronavírus, não sendo uma diretriz impositiva, além de ter sua legalidade questionada, já que ato administrativo emanado pelo Poder Judiciário não tem o condão de revogar a lei federal.  .. , ao mencionar a Recomendação nº 62/2020 do CNJ, para justificar a manutenção do reeducando em prisão domiciliar, o acórdão guerreado mostra-se em desconformidade com a dicção do art. 5º da referida Recomendação, eis que tais medidas destinam-se àqueles apenados que façam parte do grupo de risco ou que se encontrem em maior vulnerabilidade no estabelecimento prisional, não havendo nos autos qualquer informação que demonstre que o reeducando em tela se enquadre nesse critério.  ..  Além disso, não há nenhuma informação nos autos de que o estabelecimento prisional esteja em alguma das condições descritas na supramencionada resolução, não sendo possível afirmar que o presídio estaria com ocupação superior à sua capacidade, não dispusesse de equipe de saúde ali lotada, ou dispusesse de instalações que favorecessem a propagação do novo coronavírus (fls. 711/712).
+Ressalta que, no presente caso, não foram observados os requisitos estabelecidos nos acórdãos acima colacionados, porquanto não há evidências de que o reeducando esteja inserido no grupo de mais vulneráveis da Covid-19, nem sobre a impossibilidade de receber tratamento ou que há risco real de que o estabelecimento em que se encontra cause mais risco que o ambiente social (fl. 715).
+Ao final da peça recursal, o Ministério Público do Estado de Minas Gerais pugna pelo conhecimento e provimento do presente RECURSO ESPECIAL, para que seja reformada a decisão do Tribunal a quo, para fins de se indeferir ao reeducando Leonardo Silva Gonçalves seu pedido de cumprimento de pena em prisão domiciliar (fl. 719).
+Oferecidas contrarrazões (fls. 728/742), o recurso especial foi admitido na origem (fls. 748/751).
+O Ministério Público Federal opinou pelo provimento da insurgência (fls. 765/769).
+É o relatório.
+Razão não assiste ao recorrente.
+Com efeito, do combatido aresto extraem-se os seguintes fundamentos utilizados pelo Tribunal de origem para justificar a manutenção da concessão da prisão domiciliar ao recorrido (fls. 656/660 - grifo nosso):
+ ..
+Conheço do recurso, pois presentes os pressupostos de admissibilidade e processamento.
+Inicialmente, verifica-se que o apenado se encontra cumprindo pena no regime semiaberto, tendo sido deferido o pedido de prisão domiciliar.
+É sabido que o art. 117 da Lei de Execuções Penais prevê as hipóteses de concessão de cumprimento de pena em prisão domiciliar, possibilitando a concessão do benefício aos apenados que se encontram em regime aberto.
+Todavia, em face da atual pandemia mundial ocasionada pelo coronavírus, vem-se admitindo a extensão do benefício aos demais regimes, de acordo com as recomendações e portarias emitidas para regulamentar a questão.
+Assim, é importante destacar a primorosa atuação do Conselho Nacional de Justiça e deste Egrégio Tribunal de Justiça de Minas Gerais em conjunto aos órgãos de saúde que, diante da declaração da Organização Mundial da Saúde em relação à pandemia do novo COVID-19, publicaram a Recomendação n. 62/2020 do CNJ e a Portaria Conjunta n. 19/PR-TJMG/2020 no sentido de orientar os magistrados competentes em relação às medidas preventivas à propagação da infecção pelo COVID-19, no âmbito dos estabelecimentos prisionais e do sistema socioeducativo.
+O preenchimento do requisito objetivo previsto na Portaria Conjunta n. 19/PR-TJMG/2020 não implica, de forma automática, no deferimento da ordem de soltura. Trata-se, na realidade, de recomendação cuja concessão demanda análise mais minuciosa acerca da atual situação em que o acusado se encontra.
+Salienta-se o art. 5º da Recomendação n.º 62/2020 do CNJ, que apenas recomenda aos magistrados com competência sobre a execução penal que considerem a possibilidade de concessão de prisão domiciliar aos réus em cumprimento de pena.
+ ..
+Apesar de não desconhecer a alteração da recomendação supramencionada que afastou a concessão da prisão domiciliar a determinados crimes, deve-se dar particular atenção a supremacia da saúde pública coletiva, sendo viável seguir, tão somente, a Recomendação nº 62/2020, em relação às medidas preventivas a propagação da infecção pelo coronavírus no âmbito do estabelecimento prisional e do sistema socioeducativo.
+In casu, o agravado está cumprindo pena no regime semiaberto, pela prática dos crimes previstos no art. 157, § 2º, inciso II, art. 155, § 4º, inciso III, art. 121, § 2º, inciso IV c/c art. 65, inciso III, "d", art. 61, inciso I, todos do Código Penal, art. 14, caput, por duas vezes, do Estatuto do Desarmamento, art. 155, § 4º, inciso III e art. 155, § 4º, inciso IV c/c art. 65, inciso I, c/c art. 65, inciso III, "d", todos do Código Penal.
+Além disso, verifica-se (seq. 145, 148, 149, 150 e 153) que o reeducando está cumprindo as exigências de comparecimento mensal no presídio bem como apresentou sua declaração de trabalho (seq. 152). Ressalta-se, ainda, que não há informação de que o apenado tenha praticado falta grave.
+Portanto, considerando que manter o reeducando em regime semiaberto, sem possibilidade de concessão da prisão domiciliar, impedindo que este continue trabalhando, constitui-se coação ilegal.
+ ..
+Por fim, destaca-se que a concessão da prisão domiciliar, em conformidade com a Portaria Conjunta deste Tribunal, configura medida emergencial, podendo ser revogada a qualquer tempo.
+ ..
+O presente recurso não possui condições de admissibilidade, notadamente diante da necessidade de análise do arcabouço fático-probatório.
+Com efeito, imperioso o reexame da matéria de fato, acerca da situação pessoal do recorrido quanto a condições para receber direito à prisão domiciliar.
+Ademais, verifica-se que a decisão se fundou em atos normativos de caráter infralegal (resolução do CNJ e do próprio TJMG). Portanto, na via eleita, não há como enfrentar e desconstituir o acórdão recorrido sem debater essa parte da fundamentação.
+A propósito:
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. PENAL E PROCESSO PENAL. TRÁFICO ILÍCITO DE DROGAS. RESTABELECIMENTO DA PRISÃO PREVENTIVA DO RECORRIDO. AUSÊNCIA DOS REQUISITOS AUTORIZADORES DA PRISÃO DOMICILIAR. PREQUESTIONAMENTO. SÚMULAS 282 E 356 DO STF. MODIFICAÇÃO DO JULGADO. SÚMULA 7/STJ. RECURSO A QUE SE NEGA PROVIMENTO.
+1. É indispensável o efetivo exame da matéria pelo acórdão recorrido, em atenção ao disposto no artigo 105, inciso III, da Constituição Federal, que exige o prequestionamento por meio da apreciação da questão federal pelo Tribunal a quo, de modo a se evitar a supressão de instância.
+2. Ademais, a inversão do decidido, no caso, de modo a concluir pelo não cabimento de prisão domiciliar, demandaria a necessária análise de matéria fático-probatória, o que é inviável no julgamento de recurso especial, a teor do disposto na Súmula 7 deste Superior Tribunal de Justiça.
+3. Agravo regimental a que se nega provimento.
+(AgRg no REsp n. 1.435.756/RS, Ministra Maria Thereza de Assis Moura, Sexta Turma, DJe 29/9/2014 - grifo nosso).
+AGRAVO REGIMENTAL NO RECURSO ESPECIAL. ART. 312 DO CÓDIGO PENAL. CONCLUSÃO DA CORTE DE ORIGEM PELA INEXISTÊNCIA DE DOLO, A PARTIR DA ANÁLISE DO TEOR DO ATO 42 DA CASA LEGISLATIVA. INCIDÊNCIA DA SÚMULA N. 7/STJ E INVIABILIDADE DE EXAME DE ATO NORMATIVO INFRALEGAL. AGRAVO REGIMENTAL DESPROVIDO.
+1. O Tribunal de origem concluiu pela inexistência de dolo nas condutas imputadas aos agravados, com espeque na interpretação do Ato 42 da Mesa da Câmara dos Deputados.
+2. Deste modo, a alteração do julgado exigiria, ao mesmo tempo, o exame de ato normativo infralegal e o reexame do conjunto fático-probatório da causa, providências inviáveis nesta instância especial.
+3. Agravo regimental desprovido.
+(AgRg no REsp n. 1.858.717/DF, Ministro Ribeiro Dantas, Quinta Turma, DJe 17/2/2021 - grifo nosso).
+Ante o exposto, com fundamento no art. 255, § 4º, I, do RISTJ, não conheço do recurso especial.
+Publique-se.
+EMENTA
+RECURSO ESPECIAL. EXECUÇÃO PENAL. VIOLAÇÃO DOS ARTS. 112 E 117, AMBOS DA LEP. CONCESSÃO DE PRISÃO DOMICILIAR. POSSIBILIDADE. EXCEPCIONALIDADE CARACTERIZADA. PLEITO DE DESCONSTITUIÇÃO DA DECISÃO QUE DEFERIU O CUMPRIMENTO DA PENA EM PRISÃO DOMICILIAR. INVIABILIDADE NA VIA ELEITA. NECESSIDADE DE ANÁLISE DO ARCABOUÇO FÁTICO-PROBATÓRIO E DE ATOS NORMATIVOS INFRALEGAIS (RECOMENDAÇÃO N. 62/2020/CNJ E PORTARIA N. 19/2020/TJMG).
+Recurso especial não conhecido.
