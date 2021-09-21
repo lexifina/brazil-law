@@ -1,0 +1,26 @@
+DECISÃO
+Trata-se de pedido de reconsideração de decisão que indeferiuliminarmente o habeas corpus impetrado em favor de MARCIA CRISTINA CARMONA em que se aponta como autoridade coatora o TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO.
+Sustenta o requerente, em síntese, que "o voto/decisão de fls 909/9011, ocorreu em duplo sentido, sendo no primeiro momento pelo Indeferimento Liminar do Habeas Corpus, e já em um segundo momento pelo recebimento do Habeas Corpus, com Indeferimento da Liminar e solicitações das informações a autoridade apontada como coatora, intimação do Ministério Público federal a fim de estar os autos apto ao Julgamento do Mérito."
+Requer, ao final, o deferimento do pedido, com "O desarquivamento dos autos, com posterior julgamento do mérito, nos termos da Inicial. Sucessivamente, a devolução de prazo, a fim de se evitar prejuízos à paciente."(fls. 654-660).
+É o breve relatório.
+Decido.
+Sustenta o requerente, em síntese, que "o voto/decisão de fls 909/9011, ocorreu em duplo sentido, sendo no primeiro momento pelo Indeferimento Liminar do Habeas Corpus, e já em um segundo momento pelo recebimento do Habeas Corpus, com Indeferimento da Liminar e solicitações das informações a autoridade apontada como coatora, intimação do Ministério Público federal a fim de estar os autos apto ao Julgamento do Mérito."
+Conforme consta no bojo da decisão combatida, "A decisão impugnada foi proferida por desembargador (fls. 602-606). Não há acórdão sobre a matéria suscitada na presente impetração, o que inviabiliza seu conhecimento pelo Superior Tribunal de Justiça."
+Assim, considerando queo eg. Tribunal de origem não se pronunciou sobre os temas aventados naimpetração, esta Corte fica impedida de se manifestar diretamente sobre a matéria, sob pena de incorrer em indevida supressão de instância.
+À guisa de ilustração, cito os seguintes julgados:
+"PROCESSO PENAL E PENAL. HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. INADEQUAÇÃO. ORGANIZAÇÃO CRIMINOSA E CORRUPÇÃO DE MENORES. INCOMPETÊNCIA DO JUÍZO DE 1º GRAU. MATÉRIA NÃO ANALISADA PELA CORTE DE ORIGEM. SUPRESSÃO DE INSTÂNCIA. TRANCAMENTO DO PROCESSO-CRIME. EXCEPCIONALIDADE. CARÊNCIA DE JUSTA CAUSA PARA A PERSECUÇÃO PENAL NÃO EVIDENCIADA. TIPICIDADE DAS CONDUTAS DESCRITAS NA PEÇA ACUSATÓRIA. DESCRIÇÃO DOS FATOS CRIMINOSOS ATRIBUÍDOS AO RÉU. NECESSIDADE DE REVOLVIMENTO FÁTICO-PROBATÓRIO. IMPROPRIEDADE NA VIA DO WRIT. PRISÃO PREVENTIVA. GARANTIA DA ORDEM PÚBLICA. NECESSIDADE DE INTERROMPER AS ATIVIDADES DO GRUPO CRIMINOSO. PAPEL DE LIDERANÇA EXERCIDO PELO PACIENTE. EXCESSO DE PRAZO NA INSTRUÇÃO CRIMINAL NÃO EVIDENCIADO. WRIT NÃO CONHECIDO.
+ ..
+2. A alegada incompetência da 17ª Vara Criminal da Comarca de Maceió/AL não foi objeto de cognição pela Corte de origem, o que obsta a análise de tal tema por este Superior Tribunal de Justiça, sob pena de incidir em indevida supressão de instância e em violação da competência constitucionalmente definida para esta Corte.
+Precedentes.
+ ..
+14. Writ não conhecido.(HC 406.213/AL, Quinta Turma, Rel. Ministro Ribeiro Dantas, DJe 17/10/2017).
+"HABEAS CORPUS SUBSTITUTIVO DE RECURSO PRÓPRIO. NÃO CABIMENTO. TRÁFICO ILÍCITO DE ENTORPECENTES. RECEPTAÇÃO. ALEGAÇÃO DE EXCESSO DE PRAZO NA FORMAÇÃO DA CULPA. SUPRESSÃO DE INSTÂNCIA. REVOGAÇÃO DA PRISÃO PREVENTIVA. IMPOSSIBILIDADE. FUNDAMENTAÇÃO IDÔNEA. PERICULOSIDADE DO AGENTE. CIRCUNSTÂNCIAS DO DELITO. REITERAÇÃO DELITIVA. NECESSIDADE DE GARANTIR A ORDEM PÚBLICA. TENTATIVA DE FUGA. CUSTÓDIA PARA ASSEGURAR A APLICAÇÃO DA LEI PENAL. CONDIÇÕES PESSOAIS FAVORÁVEIS. IRRELEVÂNCIA. MEDIDAS CAUTELARES ALTERNATIVAS. INSUFICIÊNCIA. DESPROPORCIONALIDADE ENTRE A SEGREGAÇÃO PREVENTIVA E PENA PROVÁVEL. INVIABILIDADE DE EXAME NA VIA ELEITA. CONSTRANGIMENTO ILEGAL NÃO EVIDENCIADO. HABEAS CORPUS NÃO CONHECIDO.
+ ..
+2. A alegação de excesso de prazo na formação da culpa não foi objeto de exame pela Corte de origem, no acórdão impugnado, o que obsta a sua análise por este Tribunal Superior, sob pena de se incidir em indevida supressão de instância. Precedentes.
+ ..
+Habeas corpus não conhecido."(HC 405.659/SP, Quinta Turma, Rel. Ministro Joel Ilan Paciornik, DJe 27/09/2017).
+Com a finalidade de impugnardecisão monocrática de Desembargador que não conheceu do habeas corpus impetrado na origem, deve-se interpor o recurso de agravo regimental, para oportunizar o debate da matéria pelo respectivo órgão colegiado e posterior impetração da ordem perante esta Corte Superior.
+Registra-se, ainda, queinexiste constrangimento ilegal a ser sanado, eis que a requerente detém circunstâncias judiciais desfavoráveis, sendo aplicável, destarte, o regime mais gravoso sequente, qual seja, o semiaberto, no termos do art. 33, parágrafo 3ºdo Código Penal.
+Com efeito, não obstante o erro material ao fim da página de fls. 610-611, é certo que no bojo decisum restou bem consignadoamanifesta incompetência deste Tribunal para tomar conhecimento do pedido, impossibilitando o prosseguimento do writ, a teor do disposto no art. 210, do RISTJ, in verbis:"Art. 210. Quando o pedido for manifestamente incabível, ou for manifesta a incompetência do Tribunal para dele tomar conhecimento originariamente, ou for reiteração de outro com os mesmos fundamentos, o relator o indeferirá liminarmente. "
+Ante o exposto, indefiro o pedido.
+P. e I.
