@@ -1,0 +1,9 @@
+DECISÃO:
+    1. Por meio da Petição nº 89877/2021 (Docs. 666 a 669), Francisco Carlos Ferreira Santos, pessoa física estranha ao presente feito, alega mover processo pertinente ao tema objeto desta ação direta e postula o deferimento de cautelar, para que ele seja desarquivado e suspenso, até o julgamento do mérito. Conforme decisão já proferida nestes autos quanto a pleitos semelhantes, a postulação não é cabível, dado se referir a demanda concreta, subjetiva, estranha ao objeto do controle concentrado.
+    2. Não bastasse isso, este Relator deferiu cautelar, em 06.09.2009, determinando a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito desta ação direta pelo Supremo Tribunal Federal, decisão esta dotada de efeitos vinculantes e gerais. Confira-se:
+    “Considerando: (a) a pendência da presente ADI 5090, que sinaliza que a discussão sobre a rentabilidade do FGTS ainda será apreciada pelo Supremo e, portanto, não está julgada em caráter definitivo, estando sujeita a alteração (plausibilidade jurídica); (b) o julgamento do tema pelo STJ e o não reconhecimento da repercussão geral pelo Supremo, o que poderá ensejar o trânsito em julgado das decisões já proferidas sobre o tema (perigo na demora); (c) os múltiplos requerimentos de cautelar nestes autos; e (d) a inclusão do feito em pauta para 12/12/2019, defiro a cautelar, para determinar a suspensão de todos os feitos que versem sobre a matéria, até julgamento do mérito pelo Supremo Tribunal Federal.” (Grifou-se)
+    3. Não há, portanto, legitimidade ou interesse para o requerimento em questão, razão pela qual o indefiro. Extraiam-se a pertinente peça e os documentos que a instruem dos autos, devolvendo-os ao titular.
+    Publique-se. Intime-se.
+    Brasília, 22 de setembro de 2021.
+    MINISTRO LUÍS ROBERTO BARROSO
+    RELATOR
