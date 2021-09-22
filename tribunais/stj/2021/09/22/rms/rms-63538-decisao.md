@@ -1,0 +1,6 @@
+DECISÃO
+Cuida-se de recurso ordinário interposto por FR-2 COMERCIO DE DERIVADOS DE PETROLEO EIRELI, contra o acórdão do TJ/AM que manteve a decisão unipessoal do Relator que denegou a segurança que pleiteara, extinguindo o mandado de segurança sem resolução do mérito.
+Na origem, o writ tem por objeto ato do Des. Relator do agravo de instrumento nº 4002776-53.2019.8.04.0000 e da apelação nº 0615985-47.2015.8.04.0001, que, de ofício, revogou a concessão de efeito suspensivo a ambos os recursos, sem que houvesse a interposição de agravo interno pela parte adversa e, ademais, sem a observância do prévio contraditório.
+Todavia,da análise dos respectivos andamentos processuais disponíveis no sítio eletrônico do TJ/AM, constata-se que tanto o agravo de instrumento nº 4002776-53.2019.8.04.0000 como a apelação nº 0615985-47.2015.8.04.0001 tiveram seu mérito apreciado pelo órgão colegiado competente do TJ/AM, em 17/05/2021, circunstância que ensejaa perda de objeto do presente recurso ordinário.
+Forte nessas razões, com fundamento no art. 34, XVIII, "a", do RISTJ,JULGO PREJUDICADO o exame do recurso ordinário, determinando o arquivamento dos autos e a baixa do processo à origem.
+Publique-se. Intimem-se.
