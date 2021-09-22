@@ -1,0 +1,46 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da TERCEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, negar provimento ao recurso, nos termos do voto da Sra. Ministra Relatora.
+Os Srs. Ministros Paulo de Tarso Sanseverino, Ricardo Villas Bôas Cueva, Marco Aurélio Bellizze e Moura Ribeiro votaram com a Sra. Ministra Relatora.
+Presidiu o julgamento o Sr. Ministro Paulo de Tarso Sanseverino.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. EFEITO SUSPENSIVO. AÇÃO DE EXECUÇÃO DE DÉBITOS CONDOMINIAIS.FUMUS BONI IURIS.AUSÊNCIA.
+1. Para que haja a concessão de efeito suspensivo a recurso especial, que se trata de medida excepcional, é necessário que sejam demonstrados, concomitantemente, os requisitos do fumus boni iuris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+2. Na hipótese,não está preenchido o requisito da probabilidade do direito invocado, porquanto as matérias suscitadas incidentalmente já foram alegadas em sede de embargos de execução. Assim, operou-se a preclusão consumativa, devendo o agravante aguardar a decisão final a ser prolatada naqueles autos.
+3. Agravo interno desprovido.
+RELATÓRIO
+Cuida-se de agravo interno interposto por RENO RODRIGUES DA SILVA em face da decisão unipessoal que indeferiu o pedido de atribuição de efeito suspensivo ao recurso especial que interpusera contra acórdão do TJ/SP.
+Ação: de execução de débitos condominiais ajuizada por CONDOMÍNIO EDIFÍCIO TERRAMARA DI TREVISO em face do requerente, visando à sua condenação ao pagamento de R$ 70.203,13, relativos ao apartamento 191 (matrícula nº 197.813).
+No curso da demanda, o imóvel foi penhorado.
+Em sede de embargos à execução, o agravante alegou ilegitimidade passiva, ao argumento de que o possuidor e proprietário do imóvel é Robson Pereira Goes. Os embargos, todavia, foram julgados improcedentes.
+Na sequência, o recorrente apresentou declaratória incidental, reiterando a alegação de ilegitimidade passiva e de excesso de execução.
+Decisão interlocutória: indeferiu o processamento do incidente, sob o fundamento de que o executado buscava rediscutir questão já decidida.
+Acórdão: negou provimento ao recurso interposto pelo agravante, conforme a seguinte ementa:
+DESPESAS CONDOMINIAIS. AÇÃO DE EXECUÇÃO. TÍTULO EXTRAJUDICIAL. PLEITO DE RECONHECIMENTO DA ILEGITIMIDADE PASSIVA E DE PAGAMENTO PARCIAL. MATÉRIA APRECIADA POR SENTENÇA PROFERIDA NOS EMBARGOS À EXECUÇÃO. PRECLUSÃO CONSUMATIVA CONFIGURADA, A AFASTAR A POSSIBILIDADE DE A DISCUSSÃO SER REAVIVADA NO ÂMBITO DO PROCESSO DE EXECUÇÃO. FALTA DE INTERESSE PROCESSUAL PARA A APRECIAÇÃO. NÃOCARACTERIZAÇÃO DE LITIGÂNCIA DE MÁ-FÉ. RECURSO IMPROVIDO.
+1. Insurge-se o recorrente contra decisão que rejeitou liminarmente a provocação da parte executada, sob o rótulo de "pedido de declaração incidental".
+2. O que se tem, na verdade, é o exercício de defesa que suscita matéria de ordem pública, a que se atribuiu a denominação, dentre outras, de exceção de pré-executividade; não existe no sistema processual em vigor a figura da ação declaratória incidental.
+3. Mediante o exercício da ação de embargos à execução, a mesma parte alegou ilegitimidade passiva e pagamento parcial, e a sentença, rejeitando as formulações, declarou a improcedência do pedido. Contra ela houve a interposição de agravo de instrumento, cujo processamento foi inadmitido por manifesto descabimento. Está em curso a tramitação do recurso especial interposto, não havendo notícia de deferimento de medida de urgência.
+4. Tendo sido suscitados os temas por meio da ação direta, que constitui o caminho apropriado para a formulação da defesa no âmbito da execução, e proferida a sentença respectiva, não há fundamento para justificar seja a matéria reavivada dentro do processo de execução, operada que está a preclusão consumativa. Logo, inadmissível se apresenta, por falta de interesse, a apreciação dos temas.
+5. Não há justificativa para cogitar da imposição das sanções por litigância de má-fé ao exequente, pois não se encontra configurada uma situação de verdadeiro abuso, que possibilite falar em deslealdade processual por parte dele.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Recurso especial: alega violação ao art. 927, III, do CPC/2015, sob o argumento de que não foi observada a tese firmada pelo STJ no julgamento do Tema 886. Também alega violação aos arts. 19, I, 80, I e II, 81, 485 VI, § 3º, 525, II, 906, 907 e 1.022, I e II e parágrafo único, I e II, do CPC/2015 e ao art. 940 do CC/02, além de dissídio jurisprudencial. Afirma não haver que se falar em preclusão, porque os recursos abordaram quitações referentes a períodos distintos. Ressalta não ser proprietário, tampouco possuidor do imóvel, de modo que não é parte legítima para figurar no polo passivo da ação. Aduz que o condomínio agiu de má-fé, pois está cobrando valores já pagos pelo possuidor.
+Admissibilidade prévia: o Tribunal de origem inadmitiu o recurso especial, ensejando a interposição do recurso cabível.
+Pedido de tutela provisória: argumenta estar presente o perigo de dano, porquanto já houve publicação do edital das praças de leilão judicial eletrônico. A probabilidade do direito invocado, a seu ver, está configurada, uma vez que a ilegitimidade passiva é matéria de ordem pública e o tribunal de origem não a examinou, nem mesmo aplicou o Tema 886.
+Decisão monocrática: indeferiu o pedido de concessão de efeito suspensivo ao recurso especial.
+Embargos de declaração: opostos pelo recorrente, foram rejeitados.
+Agravo interno: argumenta que o prejuízo é iminente, porquanto o condomínio recorrido não prestou caução até o presente momento, nos termos que determina o art. 520, IV, do CPC/2015. Alega não terem sido examinadas as alegações acerca do depósito judicial superveniente ao julgamento dos embargos à execução, realizado em 14/06/2018 e que teve por objetivo a quitação do período de 05/09/2012 a 05/08/2014. Refere ser descabida a alegação do condomínio de que o montante cobrado diz respeito ao período de abril a setembro de 2015. Sustenta ilegitimidade passiva, nos termos do Tema 866 do STJ, porquanto adquiriu o imóvel e transferiu a posse a Robson Pereira Goes. Sustenta ser imprescindível a concessão de tutela antecipada a fim de evitar o praceamento do imóvel.
+É o relatório.
+EMENTA
+AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO PEDIDO DE TUTELA PROVISÓRIA NO AGRAVO EM RECURSO ESPECIAL. EFEITO SUSPENSIVO. AÇÃO DE EXECUÇÃO DE DÉBITOS CONDOMINIAIS.FUMUS BONI IURIS.AUSÊNCIA.
+1. Para que haja a concessão de efeito suspensivo a recurso especial, que se trata de medida excepcional, é necessário que sejam demonstrados, concomitantemente, os requisitos do fumus boni iuris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+2. Na hipótese,não está preenchido o requisito da probabilidade do direito invocado, porquanto as matérias suscitadas incidentalmente já foram alegadas em sede de embargos de execução. Assim, operou-se a preclusão consumativa, devendo o agravante aguardar a decisão final a ser prolatada naqueles autos.
+3. Agravo interno desprovido.
+VOTO
+O propósito recursal consiste em decidir sobre a presença dos pressupostos para a atribuição de efeito suspensivo a recurso especial inadmitido na origem.
+Como cediço, para que haja a concessão de efeito suspensivo a recurso especial, que se trata de medida excepcional, é necessário que sejam demonstrados, concomitantemente, os requisitos do fumus boni iuris, consistente na plausibilidade do direito alegado, e do periculum in mora, que se traduz na urgência da prestação jurisdicional.
+Esses dois pressupostos devem ser analisados com as vistas voltadas ao próprio recurso, ou seja: a plausibilidade do direito será pautada pela possibilidade de êxito recursal, e o interesse processual do requerente deve ser analisado, sempre, com base nos efeitos que se poderão extrair do eventual provimento de seu recurso.
+Com relação ao primeiro requisito, não se verifica, por ora, a probabilidade de provimento do recurso especial.
+Conforme colhe-se dos autos, a preliminar de ilegitimidade passiva foi suscitada em sede de embargos à execução e examinada na sentença, que a afastou e julgou improcedentes os embargos (e-STJ, fls. 179-183). Ocorre que, posteriormente, o agravante apresentou pedido de declaração incidental da ilegitimidade passiva e de aplicação da multa do art. 940 do CC/02 por duplicidade de cobrança.
+O incidente foi rejeitado na origem com fundamento na existência de preclusão, porquanto essas questões já haviam sido examinadas no julgamento dos embargos à execução. Assim, operou-se a preclusão consumativa.
+Ademais, consoante esclareceu o agravante, o recurso interposto contra o acórdão prolatado nos autos dos embargos à execução ainda está pendente de julgamento. Logo, deverá aguardar o seu desfecho ao invés de insistir na rediscussão das questões pela via incidental.
+Destarte, não está preenchido o requisito do fumus boni iuris, circunstância que obsta o deferimento do almejado efeito suspensivo.
+Forte nessas razões, NEGO PROVIMENTO ao agravo interno.
