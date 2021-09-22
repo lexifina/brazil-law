@@ -1,0 +1,19 @@
+DECISÃO
+Trata-se de recurso ordinário emhabeas corpus, com pedido liminar, impetrado em favor de JEAN CARLOS DE CARVALHO PAIXÃOcontra acórdão do Tribunal de Justiça do Estado do Paráno HC n.0805293-19.2021.8.14.0000.
+Consta dos autos que o Paciente foi preso, por força de prisão temporária, no dia 11/05/2021, posteriormente convertida em prisão preventiva. Encerradas as investigações, foi denunciado como incurso nos arts. 121, § 2.º, inciso III do Código Penal e arts. 304 e 305 do Código de Trânsito Brasileiro, em concurso material, pois teria matado a Vítima comdolo eventual, na condução de seu veículo automotor em alta velocidade, praticando competição de velocidade com o Corréu,após ingerir bebida alcoólica, fugindo do local sem prestar o devido socorro.
+Inconformada com a custódia cautelar, a Defesa impetrou owritoriginário, denegado nos termos da seguinte ementa (fls. 866):
+"EMENTA:HABEAS CORPUSLIBERATÓRIO, COM PEDIDO LIMINAR. ARTIGO 121, CAPUT, DO CÓDIGO PENAL. AUSÊNCIA DE MOTIVAÇÃO IDÔNEA PARA A MANUTENÇÃO DA PRISÃO PREVENTIVA. IMPROCEDÊNCIA. CONSTRIÇÃO CAUTELAR DEVIDAMENTE JUSTIFICADA. MODUS OPERANDI. PROTEÇÃO DA ORDEM PÚBLICA, DA INSTRUÇÃO CRIMINAL E DA APLICAÇÃO DA LEI.CONSTRANGIMENTO ILEGAL NÃO CONFIGURADO. ORDEM CONHECIDA E DENEGADA.
+1. A decretação e manutenção da custódia cautelar do coacto encontram-se devidamente fundamentadas, diante das circunstâncias do caso, que, pelas características delineadas, retratam, in concreto, a periculosidade do paciente, a indicar a necessidade da segregação provisória para a garantia da ordem pública, da instrução criminal e aplicação da lei penal nos exatos termos do art.312 do Código de Processo Penal.
+2. Eventuais condições pessoais de cunho subjetivo, por si sós, não têm o condão de conferir ao coacto o direito de responder em liberdade (Súmula nº 08/TJPA).
+3. Ordem conhecida e, acompanhando o voto vista, denegada."
+Defende o Recorrente a ilicitude de sua prisão, por ter sido decretada com base em fundamentação inidônea e no perigo abstrato da conduta, de modo que o decreto preventivo se mostra totalmente ilegal. Aduz a possibilidade de substituir aprisão preventiva substituída por quaisquer das medidas cautelares diversas da prisão elencadas no art. 319 do Código de Processo Penal. Busca, em liminar e no mérito, a concessão da liberdade.
+É o relatório.
+Decido.
+No HC n.694.026/PA, protocolado em 13/09/2021, impetrado contra o mesmo acórdão, foi formulada idêntica pretensão, em favor do ora Recorrente.O presente recurso, assim, é mera reiteração de pedido anterior, em que há identidade de partes, de pedido e de causa de pedir, além de impugnarem ambosa mesma matéria, qual seja, a prisão preventiva.
+Ocorre que não podem ser processados nesta Corte, concomitantemente,habeas corpuse recurso ordinário emhabeas corpusnos quais se constata litispendência, instituto que se configura exatamente quando há igualdade de partes, de objeto e de causa de pedir.
+Assim, concluo pela inadmissibilidade do recurso, porquanto "não pode ser conhecida a impetração que veicula mera reiteração de pedido já formulado emwritanteriormente impetrado nesta Corte"(AgRg no HC 286.354/AC, Rel. Ministra LAURITA VAZ, QUINTA TURMA, julgado em 15/05/2014, DJe 23/05/2014).
+No mesmo sentido,v.g.: RCD no HC 423.298/SP, Rel. Ministro ROGERIO SCHIETTI CRUZ, SEXTA TURMA, julgado em 28/11/2017, DJe 04/12/2017; AgRg no HC 404.890/SP, Rel. Ministro JORGE MUSSI, QUINTA TURMA, julgado em 21/11/2017, DJe 27/11/2017.
+Ante o exposto, NÃO CONHEÇO do recurso ordinário emhabeas corpus.
+Publique-se. Intimem-se.
+EMENTA
+RECURSO ORDINÁRIO EMHABEAS CORPUS. REITERAÇÃO DE PEDIDOFORMULADOEMPROCESSO CONEXO (HC N.694.026/PA). IDENTIDADE DE PARTES, DE PEDIDOE DECAUSA DE PEDIR. LITISPENDÊNCIA. INADMISSIBILIDADE. RECURSO ORDINÁRIO NÃOCONHECIDO.
