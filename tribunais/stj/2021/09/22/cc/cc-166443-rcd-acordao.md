@@ -1,0 +1,30 @@
+EMENTA
+PROCESSUAL CIVIL. PEDIDO DE RECONSIDERAÇÃO NOS EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA DE BENS. NÃO SUJEIÇÃO AO "CONCURSO" DE CREDORES. BLINDAGEM CONTRA TODAS AS EXECUÇÕES DECRETADA PELO JUÍZO "UNIVERSAL". PRAZO TRANSCORRIDO. RECONSIDERAÇÃO INDEFERIDA.
+1. O prazo consignado pelo d. Juízo da Recuperação Judicial, para suspensão das execuções contra a sociedade em recuperação judicial, mesmo aquelas relativas à alienação fiduciária, caso dos autos, exauriu-se em 25/out/2019. Com isso, nada obsta o normal prosseguimento dessa espécie de execução, insubmissa aos efeitos da recuperação judicial.
+2. Pedido de reconsideração indeferido.
+ACÓRDÃO
+Vistos e relatados estes autos, em que são partes as acima indicadas, decide a Segunda Seção, por unanimidade, indeferir o pedido de reconsideração, nos termos do voto do Sr. Ministro Relator. Os Srs. Ministros Paulo de Tarso Sanseverino, Maria Isabel Gallotti, Ricardo Villas Bôas Cueva, Marco Buzzi, Marco Aurélio Bellizze, Moura Ribeiro, Nancy Andrighi e Luis Felipe Salomão votaram com o Sr. Ministro Relator. Presidiu o julgamento o Sr. Ministro Antonio Carlos Ferreira.
+RELATÓRIO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+Trata-se de pedido de reconsideração interposto por MAV COMÉRCIO E TRANSPORTES LTDA EM RECUPERAÇÃO JUDICIAL contra o v. acórdão que não conheceu do conflito, nos moldes da seguinte ementa:
+EMBARGOS DE DECLARAÇÃO NO CONFLITO DE COMPETÊNCIA. RECUPERAÇÃO JUDICIAL. ALIENAÇÃO FIDUCIÁRIA DE BENS. NÃO SUJEIÇÃO. DECISÃO EMBARGADA. AUSÊNCIA DOS VÍCIOS PREVISTOS NO ART. 1.022 DO CPC. EMBARGOS DE DECLARAÇÃO REJEITADOS.
+1. Os embargos de declaração têm como objetivo sanar eventual existência de obscuridade, contradição, omissão ou erro material (CPC/2015, art. 1.022), situações inexistentes na hipótese.
+2. O prazo consignado pelo d. Juízo da Recuperação Judicial, para suspensão das execuções contra a sociedade em recuperação judicial, mesmo aquelas relativas à alienação fiduciária, caso dos autos, exauriu-se em 25/10/2019, permitindo, com isso, o normal prosseguimento dessa espécie de execução, insubmissa aos efeitos da recuperação judicial.
+3. Embargos de declaração rejeitados. (nas fls. 348/349)
+A agravante, laconicamente, sustenta que, "Ocorre que o incidente não foi conhecido por ter-se entendido que o prazo de blindagem expirou e assim o Juízo de Curitiba poderia ordenar a retirada dos bens das mãos da suscitante. Porém é de suma importância dizer que o stay period foi prorrogado até a homologação do plano", requerendo seja reconsiderada "a decisão pretérita no sentido de conhecer o presente incidente, a fim de ser declarada a competência do MM. Juízo da 1ª Vara Cível da Comarca de Cuiabá-MT para tratar dos atos que impliquem em restrição patrimonial da empresa suscitante" (na fl. 360).
+Requer o conhecimento e provimento do agravo interno.
+É o relatório.
+VOTO
+O EXMO. SR. MINISTRO RAUL ARAÚJO (Relator):
+O presente feito foi incluído na presente sessão ordinária em virtude da dificuldade técnica (programa justiça) na inclusão de pedidos de reconsideração na sessão virtual de julgamento.
+Desse modo, analiso o pedido de reconsideração.
+A decisão do d. Juízo da Recuperação Judicial reconheceu não se submeterem à Recuperação Judicial os bens alienados fiduciariamente, pois não integram o patrimônio da recuperanda.
+Ainda assim, o d. Juízo, por cautela, alongou por prazo improrrogável o chamado stay period, por 60 dias, de modo a abranger, excepcionalmente, mesmo os bens alienados fiduciariamente. Confira-se o seguinte excerto da decisão:
+"Logo, não obstante a incontestável essencialidade dos bens, inclusive atestada pelo Administrador Judicial em sua manifestação, entendo que tal circunstância não autoriza a manutenção destes com as devedoras, não se podendo olvidar que o intuito da lei de regência não é tutelar as recuperadas por tempo indeterminado, devendo, na hipótese de revelada sua inviabilidade, ser decretada sua falência, preservando deste modo, o que resta de seus ativos.
+Assim, autorizar que a devedora permaneça na posse de tais bens seria, à revelia da Lei 11.101/05. Inserir dentro do procedimento da recuperação judicial créditos que a norma colocou à margem, e o que é pior, obrigar seus titulares a aceitar qualquer condição de pagamento imposto pelas recuperandas.
+Destarte, em respeito às garantias dos credores fiduciários, não há que se falar em direito à permanência na posse de bens essenciais às atividades da devedora, eis que tal permanência se restringiu ao chamado "prazo de blindagem.
+Entretanto, considerando ser evidente que a retomada dos bens em questão pode comprometer as atividades das devedoras, e que tal fato também trará reflexos negativos para os credores que, acreditando na viabilidade das empresas, aprovaram o plano em AGE, defiro parcialmente a tutela provisória, e AUTORIZO EM CARÁTER EXCEPECIONAL, com fundamento no art. 47, da Lei 11.101/05, a extensão do chamado stay period, a que se refere o § 4º, do art. 6º, pelo prazo improrrogável de 60 (sessenta) dias corridos, a contar da publicação desta decisão, para que as recuperandas possam deliberar com a instituição financeira sobre os créditos extraconcursais objetos deste pedido, posto se tratar de direito disponível" (nas fls. 229/230).
+Escoado o prazo prorrogado e novamente provocado, o d. Juízo da Recuperação Judicial "designou audiência de conciliação entre as recuperandas e o BANCO BRADESCO S/A, BANCO VOLVO BRASIL, NOMA DO BRASIL E BANCO SAFRA, para o dia 25 de Outubro de 2019, às 15:00 horas" prorrogando "a extensão do chamado stay period, a que se refere o § 4º, do art. 6º, ficando impedida a expropriação dos bens objeto deste pedido, até a realização da audiência de conciliação designada nesta ocasião (25/10/2019)" (na fl. 299).
+Ora, o prazo consignado pelo d. Juízo da Recuperação Judicial exauriu-se em 25/10/2019, permitindo-se, com isso, o normal prosseguimento dessa espécie de execução, insubmissa aos efeitos da recuperação judicial.
+Ante o exposto, voto pelo indeferimento do pedido de reconsideração.
+É o voto.
