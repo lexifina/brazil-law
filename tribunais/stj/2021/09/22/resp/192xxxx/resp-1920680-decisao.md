@@ -1,0 +1,32 @@
+DECISÃO
+Trata-se de recurso especial interposto por INSS, com fundamento na alínea "a" do art. 105, III da CF, contra acórdão assim ementado (fl. 43):
+AGRAVO DE INSTRUMENTO. EXECUÇÃO. REGISTRO DE PENHORA DE IMOVEL. PAGAMENTO PELA FAZENDA NACIONAL.CABIMENTO. O superior Tribunal de Justiça firmou entendimento de que a Fazenda Pública está obrigada ao pagamento de custas e emolumentos dos serviços cartoráriopo, porquanto não se pode exigir que o registrador público financie as despesas com atos processuais requeridos nointeresseda União, como é o caso do registro da penhora.
+O recorrenteaponta ofensa alega violação dos arts. 1 e 2do Decreto 1.537/77, sob o argumento de que a autarquia não necessita pagar emolumentos perante o cartório de registro de imóveis(fl. 78).
+Com contrarrazões.
+Juízo positivo de admissibilidade às fl. 88-89.
+É o relatório. Paso a decidir.
+De início, observa-se que a Corte de origem não se pronunciou a respeito da controvérsia apoiado na normatividade dos artigos1 e 2 do Decreto 1.537/77 alegadamente violados. Assim, ausente o requisito do prequestionamento o que atrai o óbice da Súmula 211/STJ.
+Assim, à mingua de prequestionamento, inviável a apreciação da aludida tese recursal. Por oportuno, registre-se que o recorrente apresentou argumentos vagos a respeito "daisenção do pagamento de emolumentos pela autarquia previdenciário", e que se encontram desassociados dos fundamentos do acórdão recorrido, situação que não permite a exata compreensão da controvérsia e impede o conhecimento do recurso especial. Aplica-se à hipótese a Súmula 284/STF.
+No mais, a recorrente não indicou qual teria sido o dispositivo legal com interpretação divergente entre o Tribunal de origem e esta Corte Superior e não realizou devidamente o cotejo analítico a evidenciar a similitude fática entre os casos apontados e a divergência de interpretações, o que impede o conhecimento do recuso pelo dissídio, incidindo o teor da Súmula 284 do STF, por analogia. Nesse sentido:
+PROCESSUAL CIVIL E AMBIENTAL. AÇÃO DEMOLITÓRIA. CONSTRUÇÃO EM ÁREA DE PRESERVAÇÃO PERMANENTE. VIOLAÇÃO DE DISPOSITIVO CONSTITUCIONAL. IMPOSSIBILIDADE DE APRECIAÇÃO. AUSÊNCIA DE INDICAÇÃO, CLARA E PRECISA, ACERCA DE COMO SE DEU A VIOLAÇÃO DA LEI FEDERAL. DEFICIÊNCIA NA FUNDAMENTAÇÃO. SÚMULA 284/STF. DIREITO À MORADIA. FUNDAMENTO NÃO ATACADO. SÚMULA 283/STF. ALÍNEA "C". NÃO DEMONSTRAÇÃO DA DIVERGÊNCIA.
+ ..
+6. A divergência jurisprudencial deve ser comprovada, cabendo a quem recorre demonstrar as circunstâncias que identificam ou assemelham os casos confrontados, com indicação da similitude fática e jurídica entre eles. Indispensável a transcrição de trechos do relatório e do voto dos acórdãos recorrido e paradigma, realizando-se o cotejo analítico entre ambos, com o intuito de bem caracterizar a interpretação legal divergente. O desrespeito a esses requisitos legais e regimentais (art. 541, parágrafo único, do CPC e art. 255 do RI/STJ) impede o conhecimento do Recurso Especial com base na alínea "c" do inciso III do art. 105 da Constituição Federal.
+7. Pedido de concessão de efeito suspensivo prejudicado.
+8. Recurso Especial não conhecido. (REsp 1.722.551/RO, Rel. Min. Herman Benjamin, Segunda Turma, DJe 29/5/2019)
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE
+DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. ENUNCIADO ADMINISTRATIVO N. 3/STJ. SERVIDOR PÚBLICO. VIOLAÇÃO DO ART. 1.022 DO CPC/2015. DEFICIÊNCIA DE FUNDAMENTAÇÃO. SÚMULA 284/STF. RESTITUIÇÃO DE VALORES. PRESCRIÇÃO. DATA DA CITAÇÃO. EXISTÊNCIA DE PROCESSO ADMINISTRATIVO. SÚMULA 7/STJ. REVISÃO DOS VALORES ARBITRADOS A TÍTULO DE HONORÁRIOS ADVOCATÍCIOS. REEXAME DE FATOS. SÚMULA 7/STJ. JUROS. ART. 1º-F DA LEI 9.494/97. DECISÃO DO TRIBUNAL DE ORIGEM EM CONFORMIDADE COM A ORIENTAÇÃO DO STJ. SÚMULA 83/STJ. DISSÍDIO JURISPRUDENCIAL NÃO COMPROVADO. AGRAVO INTERNO NÃO PROVIDO.
+ ..
+5. O conhecimento de Recurso Especial fundado na alínea "c" do art. 105, III, da CF/1988 exige a demonstração analítica da divergência jurisprudencial invocada, por intermédio da transcrição dos trechos dos acórdãos que configuram o dissídio e da indicação das circunstâncias que identificam ou assemelham os casos confrontados, não se oferecendo, como bastante, a simples transcrição de ementas ou votos (artigos 1.029, § 1º do Código de Processo Civil de 2015 e 255, § 1º, do RISTJ). In casu, constata-se que a parte agravante não cumpriu as exigências insculpidas nos mencionados dispositivos, pois limitou-se a transcrever a ementa do julgado paradigma, restando ausente o necessário cotejo analítico a comprovar o dissídio pretoriano e a similitude fática. (grifei)
+6. Agravo interno não provido. (AgInt nos EDcl no AREsp 1.220.449/SP, Rel. Min. Mauro Campbell Marques, Segunda Turma, DJe 20/8/2018)
+TRIBUTÁRIO E PROCESSUAL CIVIL. AGRAVO INTERNO NO RECURSO ESPECIAL. VIOLAÇÃO DO ART. 535 DO CPC/1973. INOCORRÊNCIA. AUSÊNCIA DE INDICAÇÃO DO DISPOSITIVO FEDERAL PARA CARACTERIZAR A SUPOSTA DIVERGÊNCIA
+JURISPRUDENCIAL. SÚMULA 284/STF. TRIBUTO SUJEITO A LANÇAMENTO POR
+HOMOLOGAÇÃO. AÇÃO PROPOSTA POSTERIORMENTE À VIGÊNCIA DA LC 118/2005. A REPETIÇÃO DE INDÉBITO É DE CINCO ANOS A CONTAR DO FATO GERADOR (RE 566.621/RS, REL. MIN. ELLEN GRACIE, DJE 11.10.2011, JULGADO SOB O REGIME DE REPERCUSSÃO GERAL). REQUERIMENTO ADMINISTRATIVO EFETIVADO PELO CONTRIBUINTE NÃO INTERROMPE O PRAZO RECURSAL. AGRAVO INTERNO DA CONTRIBUINTE A QUE SE NEGA PROVIMENTO.
+ ..
+3. De fato, a Corte Especial deste Tribunal Superior já decidiu que a interposição do Recurso Especial, tanto pela alínea a quanto pela alínea c, com fundamento no dissídio jurisprudencial, não dispensa a indicação do dispositivo de lei federal ao qual o Tribunal de origem teria dado
+interpretação divergente daquela firmada por outros tribunais. O não cumprimento de tal requisito, como no caso, importa deficiência de fundamentação, atraindo a incidência do contido no enunciado 284 da Súmula do Supremo Tribunal Federal. Precedente: AgRg no REsp. 1.346.588/DF, Rel. Min. ARNALDO ESTEVES LIMA, DJe 17.3.2014.
+ ..
+7. Agravo Interno da Contribuinte a que se nega provimento. (AgInt no REsp 1.451.153/CE, Rel. Min. Napoleão Nunes Maia Filho, Primeira Turma, DJe 1/4/2019)
+Ante o exposto, não conheço do recurso especial.
+Publique-se. Intimem-se.
+EMENTA
+PROCESSUAL CIVIL. RECURSO ESPECIAL. AUSÊNCIA DE PREQUESTIONAMENTO. SÚMULA 211/STJ. ARGUMENTAÇÃO DEFICIENTE. SÚMULA 284/STF.AUSÊNCIA DE INDICAÇÃO DOS DISPOSITIVOS LEGAIS SUPOSTAMENTE VIOLADO. FUNDAMENTAÇÃO DEFICIENTE. SÚMULA 284/STF. RECURSO NÃO CONHECIDO.
