@@ -1,0 +1,31 @@
+ACÓRDÃO
+Vistos e relatados estes autos em que são partes as acima indicadas, acordam os Ministros da PRIMEIRA TURMA do Superior Tribunal de Justiça, por unanimidade, rejeitar os embargos de declaração, nos termos do voto do Sr. Ministro Relator.
+Os Srs. Ministros Sérgio Kukina, Regina Helena Costa, Gurgel de Faria e Manoel Erhardt (Desembargador convocado do TRF-5ª Região) votaram com o Sr. Ministro Relator.
+Presidiu o julgamento o Sr. Ministro Benedito Gonçalves.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
+1. Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício de integração a ser sanado, pois, como consta do voto condutor do acórdão embargado: "considerado o juízo de improcedência do pedido de adjudicação direta ao Estado, observa-se, quanto aos arts. 128 e 460 do CPC/1973, ou arts. 141 e 492 do CPC/2015, a ausência de prequestionamento, razão pela qual o recurso não pode ser conhecido (Súmula 282 do STF)".
+3. Embargos de declaração rejeitados.
+RELATÓRIO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Trata-se de embargos de declaração opostos por CONCESSIONÁRIA MOVE SÃO PAULO S/A. contra acórdão que negou provimento a agravo interno, assim ementado:
+PROCESSUAL CIVIL E ADMINISTRATIVO. AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. AÇÃO DE DESAPROPRIAÇÃO. METRÔ. ADJUDICAÇÃO DO IMÓVEL EM NOME DA CONCESSIONÁRIA. INSTRUÇÃO PROBATÓRIA. REVISÃO. IMPOSSIBILIDADE. VIOLAÇÃO DOS ARTS. 489 E 1.022 DO CPC/2015. INEXISTÊNCIA.
+1. Não há violação dos arts. 489 e 1.022 do CPC/2015 quando o órgão julgador, de forma clara e coerente, externa fundamentação adequada e suficiente à conclusão do acórdão embargado.
+2. Não configura contradição afirmar a falta de prequestionamento e afastar indicação de afronta ao artigo 535 do Código de Processo Civil, uma vez que é perfeitamente possível o julgado se encontrar devidamente fundamentado sem, no entanto, ter sido decidido à luz dos preceitos jurídicos desejados pela recorrente.
+3. À luz dos enunciados das Súmulas 5 e 7 do STJ e 280 e 282 do STF, o recurso especial não poder ser conhecido quanto à pretensão da sociedade empresária relacionada à ordem de adjudicação do imóvel desapropriando em seu nome, tendo em vista o Tribunal de Justiça ter decidido: "não prospera o pedido da expropriante de adjudicação do imóvel diretamente para o Governo do Estado de São Paulo, uma vez que não se pode exceder os limites da coisa julgada que se forma entre as partes, sendo o caso de efetuar extra autos a incorporação da área desapropriada ao patrimônio do ente público estadual, em cumprimento ao contrato de parceria público privada pactuado com a Concessionária Move São Paulo".
+4. Agravo interno não provido.
+A parte embargante sustenta, em síntese (fls. 1390/1394):
+Ao julgar o agravo interno interposto, este C. STJ entendeu por manter a r. decisão monocrática no tocante aos artigos 141 e 492 do CPC e ao princípio da adstrição, que, por sua vez, havia afastado a análise destes recursos por não ter sido cumprido o requisito do prequestionamento. No entanto, e sobre tais artigos, é certo que o V. Acórdão acabou apresentando uma omissão, ao não levar em consideração o quanto trazido pela Recorrente no sentido de que as questões relativas ao princípio da adstrição ou congruência são matéria de ordem pública e podem ser apreciadas a qualquer tempo e em qualquer grau de jurisdição e, por isso, não haveria qualquer óbice na apreciação deste tópico no STJ.
+Impugnação apresentada por MARBONO LTDA (fls. 1433/1436).
+É o relatório.
+EMENTA
+PROCESSUAL CIVIL. EMBARGOS DE DECLARAÇÃO NO AGRAVO INTERNO NOS EMBARGOS DE DECLARAÇÃO NO AGRAVO EM RECURSO ESPECIAL. VÍCIOS DE INTEGRAÇÃO. INEXISTÊNCIA.
+1. Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+2. No caso dos autos, não há vício de integração a ser sanado, pois, como consta do voto condutor do acórdão embargado: "considerado o juízo de improcedência do pedido de adjudicação direta ao Estado, observa-se, quanto aos arts. 128 e 460 do CPC/1973, ou arts. 141 e 492 do CPC/2015, a ausência de prequestionamento, razão pela qual o recurso não pode ser conhecido (Súmula 282 do STF)".
+3. Embargos de declaração rejeitados.
+VOTO
+O SENHOR MINISTRO BENEDITO GONÇALVES (Relator): Nos termos do artigo 1.022 do CPC/2015, cabem embargos de declaração contra qualquer decisão judicial para esclarecer obscuridade, eliminar contradição, suprir omissão de ponto ou questão sobre a qual devia se pronunciar o juiz de ofício ou a requerimento, bem como para corrigir erro material.
+No caso dos autos, não há vício de integração a ser sanado, pois, como consta do voto condutor do acórdão embargado: "considerado o juízo de improcedência do pedido de adjudicação direta ao Estado, observa-se, quanto aos arts. 128 e 460 do CPC/1973, ou arts. 141 e 492 do CPC/2015, a ausência de prequestionamento, razão pela qual o recurso não pode ser conhecido (Súmula 282 do STF)".
+Em atenção à alegação da embargante que se trataria de matéria de ordem pública, convém acrescer pacífico entendimento deste Tribunal Superior, segundo o qual todos os temas veiculados no recurso especial, inclusive aqueles de ordem pública, devem estar prequestionados, sob pena de não conhecimento. A respeito, dentre outros: AgInt nos EAREsp 731.313/SP, Rel. Ministra Regina Helena Costa, Primeira Seção, DJe 20/08/2021; AgInt no REsp 1856683/ES, Rel. Ministro Francisco Falcão, Segunda Turma, DJe 28/05/2021; AgInt no AREsp 1739322/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, DJe 22/06/2021.
+Ante o exposto, rejeito os embargos de declaração.
+É como voto.
